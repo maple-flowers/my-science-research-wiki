@@ -1,0 +1,177 @@
+{
+  "parent_key": "cheongMultiferroicsMagneticTwist2007a",
+  "title": "cheongMultiferroicsMagneticTwist2007a",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Ferroelectricity in charge-ordered systems (电荷有序体系中的铁电性)",
+      "llm_description": "",
+      "page": "6",
+      "attachment_key": "HU9IRV9K",
+      "file": "fig_1_HU9IRV9K.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "BiFeO3"
+      ],
+      "methods": [
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "14",
+      "title": "Figure 14",
+      "llm_description": "14  nature materials | VOL 6 | JANUARY 2007 | www.nature.com/naantiferromagnetic couplings. Ions are shifted away from centrosymmetric positions by exchange striction. c, Charge ordering in bilayered Lu(Fe2.5+)2O4 with a triangof Fe ions in each layer. The charge transfer from the top to bottom laye",
+      "page": "3",
+      "attachment_key": "4BFH45H2",
+      "file": "fig_14_4BFH45H2.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "BiFeO3"
+      ],
+      "methods": [
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "2",
+      "title": "High magnetic tunability of magnetic ferroelectrics (磁致铁电体的高磁场可调性)",
+      "llm_description": "",
+      "page": "7",
+      "attachment_key": "BWGTUCZE",
+      "file": "fig_2_BWGTUCZE.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "BiFeO3"
+      ],
+      "methods": [
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "27",
+      "title": "Figure 27",
+      "llm_description": "density-ity, as it  otropies  rdering  e, which  oelectric  re of the  ector Q  magnetic ions, thus inducing electric polarization perpendiculchain27 (see Fig. 5). Th is mechanism can also be expressed in magnetic transition metal ions (fi lled circles), D12 ∝ λx × rˆ12. Weak ferromagnein antiferrom",
+      "page": "6",
+      "attachment_key": "5K9QC6UV",
+      "file": "fig_27_5K9QC6UV.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "BiFeO3"
+      ],
+      "methods": [
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "3",
+      "title": "Temperature dependence of the inverse magnetic susceptibility of magnetically frustrated materials (磁挫折材料逆磁化率的温度依赖性)",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "BiFeO3"
+      ],
+      "methods": [
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "4",
+      "title": "Frustrated spin chains with the nearest-neighbour FM and next-nearest-neighbour AFM interactions J and J´ (具有最近邻铁磁和次近邻反铁磁相互作用J和J´的挫折自旋链)",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "BiFeO3"
+      ],
+      "methods": [
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "5",
+      "title": "Effects of the antisymmetric Dzyaloshinskii–Moriya interaction (反对称Dzyaloshinskii–Moriya相互作用的影响)",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "BiFeO3"
+      ],
+      "methods": [
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "500",
+      "title": "Figure 500",
+      "llm_description": "by ~500% in a narrow fi eld range. Th is colossal magneto-dCurie–Weiss temperatures. c,d, Anisotropic magnetic susceptibility as well adielectric constant along the ferroelectric polarization direction for (Eu0.75Y0.25)and YMn2O5 (d). The sharp peak of the dielectric constant curve indicates thea fe",
+      "page": "5",
+      "attachment_key": "EVW63HCV",
+      "file": "fig_500_EVW63HCV.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "BiFeO3"
+      ],
+      "methods": [
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "6",
+      "title": "Spiral and non-spiral magnetic ferroelectrics (螺旋和非螺旋磁致铁电体)",
+      "llm_description": "",
+      "page": "4",
+      "attachment_key": "8CAENRMU",
+      "file": "fig_6_8CAENRMU.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "BiFeO3"
+      ],
+      "methods": [
+        "AFM"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Multiferroics: a magnetic twist for ferroelectricity|\n|短标题|多铁性：铁电的磁扭曲|\n|作者|[[Sang-Wook Cheong]]、 [[Maxim Mostovoy]]|\n|期刊名称|[[Nature Materials]]|\n|DOI|[10.1038/nmat1804](https://doi.org/10.1038/nmat1804)|\n|存档位置|4366|\n|文库编目|38|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/CWD5QBWM)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/ZMGSM9H2)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "Done"
+  ],
+  "materials": [
+    "BiFeO3"
+  ],
+  "methods": [
+    "AFM"
+  ]
+}

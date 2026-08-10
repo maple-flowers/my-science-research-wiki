@@ -1,0 +1,176 @@
+{
+  "parent_key": "chenHafniumBasedFerroelectricPostMoore2026",
+  "title": "chenHafniumBasedFerroelectricPostMoore2026",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1   Hf-FEs: Materials, Device Structures, and Applications. ­HfO2-based ferroelectrics Reproduced with permission [1].  Copyright 2022,  Springer Nature. Materials Reproduced with permission [2]. Copyright 2017, Royal Society of Chemistry. Reproduced with permission [3].  Copyright 2024, Spring",
+      "page": "3",
+      "attachment_key": "U8G3LQ2S",
+      "file": "fig_1_U8G3LQ2S.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "10",
+      "title": "Figure 10",
+      "llm_description": "Fig. 10   Image process. a Illustration of a three-layer ANN with 256 input neurons, 64 hidden neurons, and 10 output neurons for image rec-ognition [58].  Copyright 2024, American Chemical Society. b Structure of the five-layer CNN used for MNIST image recognition [164].  Copyright 2020, Springer N",
+      "page": "24",
+      "attachment_key": "GZM4E6WV",
+      "file": "fig_10_GZM4E6WV.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "11",
+      "title": "Figure 11",
+      "llm_description": "Fig. 11   Logical operation. a Array-level operation method of &quot;AND &quot; and &quot;OR&quot; ferroelectric logic gates [171].  Copyright 2024, Royal Society  of Chemistry. b Demonstration of FTJ-based parallel 2-bit LiM [172]. Copyright 2024, Wiley–VCH. c Demonstration of LiM using a multi-gat",
+      "page": "26",
+      "attachment_key": "H4CF8XAL",
+      "file": "fig_11_H4CF8XAL.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "12",
+      "title": "Figure 12",
+      "llm_description": "Fig. 12   Future prospects and challenges for Hf-FEs",
+      "page": "27",
+      "attachment_key": "HYYM2FAS",
+      "file": "fig_12_HYYM2FAS.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2   Hafnium—based Ferroelectrics: 2011–2025 Key Advancements. 2014 Reproduced with permission [27].  Copyright 2014, Wiley–VCH.  2016 Reproduced with permission [28]. Copyright 2016, American Chemical Society. 2017 Reproduced with permission [29]. Copyright 2017,  American Chemical Society. 201",
+      "page": "4",
+      "attachment_key": "DX8N46X6",
+      "file": "fig_2_DX8N46X6.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3   Hafnium-based materials and fabrication diagram of hafnium-based devices. a Crystal structure diagram of o-phase in Zr-doped hafnium  oxide [57].  Copyright 2023, American Chemical Society. b STEM-HAADF image of the HZO [31]. Copyright 2020, Springer Nature. c Pro-cess flow of AFE HZO-based",
+      "page": "5",
+      "attachment_key": "3XLUJSJ6",
+      "file": "fig_3_3XLUJSJ6.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4   Structure of hafnium-based ferroelectric devices. a Schematic of the MFS FeFET device structure [4].  Copyright 2022, American  Chemical Society. b Schematic of the MFMIS FeFET structure [80]. Copyright 2020, Royal Society of Chemistry. c Circuit diagram of a 16 × 16  FeFET AND array [81]. ",
+      "page": "8",
+      "attachment_key": "74SEVVY5",
+      "file": "fig_4_74SEVVY5.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5   Physical Mechanism. a Structural origin of alternating ferroelectric and non-polar layers in orthorhombic ­HfO2 [103].  Copyright 2020,  American Association for the Advancement of Science. b Schematic diagram for the evolution of phases in doped ­HfO2 films [2]. Copyright  2017, Royal Soci",
+      "page": "11",
+      "attachment_key": "95CRZCDD",
+      "file": "fig_5_95CRZCDD.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Fig. 6   Performance of Hf-FEs devices. a P-E hysteresis curve for the Al:HfO2 MFM capacitors at different applied voltages [80].  Copyright  2020, Royal Society of Chemistry. b I–V characteristics of samples with ­HfO2 obtained by sweeping above the dual-voltage range [120]. Copy-right 2024, Elsevi",
+      "page": "15",
+      "attachment_key": "V3EZJBIR",
+      "file": "fig_6_V3EZJBIR.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Fig. 7   Applications in memory. a Operation of a single 2FeFET TCAM cell and 2 × 2 TCAM array [127].  Copyright 2019, Springer Nature.  b Circuit architecture of CECAM-based search engines [128]. Copyright 2025, American Chemical Society. c Optical microscopy image of the  2D FeNAND array and schem",
+      "page": "17",
+      "attachment_key": "YWHHWDRI",
+      "file": "fig_7_YWHHWDRI.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "Fig. 8   Synaptic Plasticity. a Analogy between biological synapses and ferroelectric memristor. b EPSC under a single light exposure. c PPF  index fitted using the double exponential decay function. d Corresponding nonlinearity of LTP/LTD and cycle-to-cycle variation obtained using  MVPS. e SADP. f",
+      "page": "19",
+      "attachment_key": "M8W259T9",
+      "file": "fig_8_M8W259T9.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "9",
+      "title": "Figure 9",
+      "llm_description": "Fig. 9   Neural Network. a Schematic of the NN and simulated MNIST handwritten data set in the SLP neural network. b Pattern recognition  accuracy based on both the FeTFT and the ideal synaptic device [61].  Copyright 2021, American Chemical Society. c Examples of images  with different types and le",
+      "page": "21",
+      "attachment_key": "ZR6X334N",
+      "file": "fig_9_ZR6X334N.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Hafnium-Based Ferroelectric Post-Moore Electronics: Device Physics, Integration Architectures, and Neuromorphic System Implementation|\n|短标题|基于Hafnium的铁电后摩尔电子学：器件物理、集成架构和神经形态系统实现|\n|作者|[[Xiangwei Chen]]、 [[Zheng Wang]]、 [[Jialin Meng]]、 [[Tianyu Wang]]|\n|期刊名称|[[Nano-Micro Letters]]|\n|DOI|[10.1007/s40820-026-02158-z](https://doi.org/10.1007/s40820-026-02158-z)|\n|存档位置||\n|文库编目|36.3|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/YFWBCTGC)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/PSZI7LMC\">Chen 等 - 2026 - Hafnium-Based Ferroelectric Post-Moore Electronics Device Physics, Integration Architectures, and N</a></li><li><a href=\"zotero://open-pdf/library/items/433WZ49M\">Chen 等 - 2026 - Hafnium-Based Ferroelectric Post-Moore Electronics Device Physics, Integration Architectures, and N.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

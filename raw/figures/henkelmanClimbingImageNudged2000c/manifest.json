@@ -1,0 +1,83 @@
+{
+  "parent_key": "henkelmanClimbingImageNudged2000c",
+  "title": "henkelmanClimbingImageNudged2000c",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. Density functional theory calculations of the minimum energy path for CH4 dissociative adsorption on a Ir�111�surface. The dissociated H and CH3 fragments sitting on adjacent on-top sites correspond to reaction coor-dinate of 0.0. The CH4 molecule 4 Å away from the surface corresponds to 1.0",
+      "page": "4",
+      "attachment_key": "YXQC5RVL",
+      "file": "fig_1_YXQC5RVL.png",
+      "tags": [],
+      "materials": [],
+      "methods": [
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. Density functional theory calculations of the minimum energy path for H2 dissociative adsorption on a Si�100�surface. The H adatoms sitting on adjacent Si atoms in a surface dimer correspond to reaction coordinate of 0.0. The H2 molecule 3.8 Å away from the surface corresponds to 1.0. A regu",
+      "page": "5",
+      "attachment_key": "7A5BJI6S",
+      "file": "fig_2_7A5BJI6S.png",
+      "tags": [],
+      "materials": [],
+      "methods": [
+        "DFT"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|A climbing image nudged elastic band method for finding saddle points and minimum energy paths|\n|短标题|一种用于寻找鞍点和最小能量路径的爬升图像微推弹性带方法|\n|作者|[[Graeme Henkelman]]、 [[Blas P. Uberuaga]]、 [[Hannes Jónsson]]|\n|期刊名称|[[The Journal of Chemical Physics]]|\n|DOI|[10.1063/1.1329672](https://doi.org/10.1063/1.1329672)|\n|存档位置|20582|\n|文库编目|3.7|\n|索书号|3|\n|版权||\n|分类|[[方法文献]]|\n|条目链接|[My Library](zotero://select/library/items/KAA6AH75)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/2NLFBZNE\">Henkelman 等 - 2000 - A climbing image nudged elastic band method for finding saddle points and minimum energy paths</a></li><li><a href=\"zotero://open-pdf/library/items/32WM55WY\">Henkelman 等 - 2000 - A climbing image nudged elastic band method for finding saddle points and minimum energy paths.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/L6TWHXAV\">Henkelman 等 - 2000 - A climbing image nudged elastic band method for finding saddle points and minimum energy paths.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq1",
+      "title": "Equation 1",
+      "content": "$$k_{hTST} = \\frac{\\prod_{i=1}^{3N} \\nu_{i, init}}{\\prod_{i=1}^{3N-1} \\nu_{i}^\\ddagger} e^{-2(E^\\ddagger - E_{init})/k_B T} \\quad (1)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq2",
+      "title": "Equation 2",
+      "content": "$$F_i = F_i^{spring} + \\nabla E(R_i)_\\perp \\quad (2)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq3",
+      "title": "Equation 3",
+      "content": "$$\\nabla E(R_i)_\\perp = \\nabla E(R_i) - \\nabla E(R_i) \\cdot \\hat{\\tau}_i \\quad (3)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq4",
+      "title": "Equation 4",
+      "content": "$$F_i^{spring} = k(R_{i+1} - R_i - (R_i - R_{i-1})) \\hat{\\tau}_i \\quad (4)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq5",
+      "title": "Equation 5",
+      "content": "$$F_{i_{max}} = -\\nabla E(R_{i_{max}}) - \\nabla E(R_{i_{max}})_\\parallel = -\\nabla E(R_{i_{max}}) - \\nabla E(R_{i_{max}}) \\cdot \\hat{\\tau}_{i_{max}} \\hat{\\tau}_{i_{max}} \\quad (5)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq6",
+      "title": "Equation 6",
+      "content": "$$k_i = \\begin{cases} k_{min} + (k_{max} - k_{min}) \\frac{E_i - E_{ref}}{E_{max} - E_{ref}} & \\text{if } E_i > E_{ref} \\ k_{min} & \\text{if } E_i \\le E_{ref} \\end{cases} \\quad (6)$$",
+      "page": "-"
+    }
+  ],
+  "tags": [],
+  "materials": [],
+  "methods": [
+    "DFT"
+  ]
+}

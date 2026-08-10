@@ -1,0 +1,124 @@
+{
+  "parent_key": "heUltrafastSwitchingDynamics2024",
+  "title": "heUltrafastSwitchingDynamics2024",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1. Ferroelectricity in h-BN bilayers as calculated by density functional theory (DFT) and the machine-learning potential model. (a) The electric polarization  vector as a function of lateral sliding of the upper relative to the lower layer over a unit cell (right panel). The colors indicate the",
+      "page": "3",
+      "attachment_key": "ZVPZ7JQ5",
+      "file": "fig_1_ZVPZ7JQ5.png",
+      "tags": [],
+      "materials": [
+        "氮化硼BN"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2. The benchmark test of deep potential (DP) model against DFT results. Comparison of energies (a) and atomic force components along x (b), y (c), z (d) axis of  the DP model against DFT calculations for all configurations in the training dataset. The insets show the mean absolute error of ener",
+      "page": "4",
+      "attachment_key": "76AZHRJG",
+      "file": "fig_2_76AZHRJG.png",
+      "tags": [],
+      "materials": [
+        "氮化硼BN"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3. The phonon dispersion relations and density of states (DOS) of the AB  domain of h-BN bilayer calculated by the DP model and DFT.",
+      "page": "5",
+      "attachment_key": "XSA9I44T",
+      "file": "fig_3_XSA9I44T.png",
+      "tags": [],
+      "materials": [
+        "氮化硼BN"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4. AB stacking configuration of bilayer h-BN (40,000 atoms supercell) at temperatures from 0 K to 700 K from the DPMD simulation. The temperature-  dependent (a) atomic structures, (b) interlayer distance and polarization. (c) The perpendicular polarization as a function of interlayer distance.",
+      "page": "5",
+      "attachment_key": "EZ6QGJWW",
+      "file": "fig_4_EZ6QGJWW.png",
+      "tags": [],
+      "materials": [
+        "氮化硼BN"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5. Atomic structure and polarization profile of DWs. (a) 0˚DW and (b) 90˚DW atomic structures are a zoom-in of the DP optimized large supercells in Sup­ plementary Fig. S5. (c) Out-of-plane polarization (Pz) across the DWs. The gray shading indicates the local polarization gradient. Formula 3 ·",
+      "page": "6",
+      "attachment_key": "QCUKHZH5",
+      "file": "fig_5_QCUKHZH5.png",
+      "tags": [],
+      "materials": [
+        "氮化硼BN"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Fig. 6. Time-dependent simulations of DW motion in h-BN bilayers at 300 K.  (a) Ferroelectric textures with two 0˚DWs under an external lateral shear force  Fs (i.e. perpendicular Ev) of 5 × 10−3 eV/Å switched on at t = 0. The snapshots  at 0, 2.5, 5, 8, and 9 ps reveal fast motion. The DWs annihila",
+      "page": "7",
+      "attachment_key": "DWNC9X32",
+      "file": "fig_6_DWNC9X32.png",
+      "tags": [],
+      "materials": [
+        "氮化硼BN"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Fig. 7. Spatially averaged of polarization of a twisted Moir´e bilayer BN as a  function of a perpendicular electric field (Ev). The insets show the nearly  reversible polarization texture for the largest and zero Ev.",
+      "page": "7",
+      "attachment_key": "YV69ML22",
+      "file": "fig_7_YV69ML22.png",
+      "tags": [],
+      "materials": [
+        "氮化硼BN"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "Fig. 8. The interaction between domain wall (DW) and nitrogen vacancy (VN). (a) Atomic structure of supercell (31,810 atoms) containing a single VN with different  position of 0˚DW. (b) The energy profile of the 0˚DW approaching and moving away from the VN predicted by DP model.",
+      "page": "8",
+      "attachment_key": "ISW2ZE55",
+      "file": "fig_8_ISW2ZE55.png",
+      "tags": [],
+      "materials": [
+        "氮化硼BN"
+      ],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Ultrafast switching dynamics of the ferroelectric order in stacking-engineered ferroelectrics|\n|短标题|堆叠工程铁电体中铁电有序的超快开关动力学|\n|作者|[[Ri He]]、 [[Bingwen Zhang]]、 [[Hua Wang]]、 [[Lei Li]]、 [[Ping Tang]]、 [[Gerrit Bauer]]、 [[Zhicheng Zhong]]|\n|期刊名称|[[Acta Materialia]]|\n|DOI|[10.1016/j.actamat.2023.119416](https://doi.org/10.1016/j.actamat.2023.119416)|\n|存档位置|38|\n|文库编目|9.3|\n|索书号|2|\n|版权||\n|分类|[[02_极化翻转动力学 (Polarization Switching)]]|\n|条目链接|[My Library](zotero://select/library/items/ZTNTAL7L)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/23DND38E\">He 等 - 2024 - Ultrafast switching dynamics of the ferroelectric order in stacking-engineered ferroelectrics</a></li><li><a href=\"zotero://open-pdf/library/items/TXWZZ3EK\">He 等 - 2024 - Ultrafast switching dynamics of the ferroelectric order in stacking-engineered ferroelectrics.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [],
+  "materials": [
+    "氮化硼BN"
+  ],
+  "methods": []
+}

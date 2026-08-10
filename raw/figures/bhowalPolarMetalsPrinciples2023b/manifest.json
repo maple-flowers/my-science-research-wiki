@@ -1,0 +1,85 @@
+{
+  "parent_key": "bhowalPolarMetalsPrinciples2023b",
+  "title": "bhowalPolarMetalsPrinciples2023b",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Introduction to polar metals. (a) Schematic illustrations of (i) a polar metal, (ii) an FE-like metal, and (iii) an FE metal. (b) Diagram showing 1D chains of metal ions arranged on a centrosymmetric (top) and a noncentrosymmetric (bottom) lattice with smaller Coulomb repulsion energy V for the cent",
+      "page": "15",
+      "attachment_key": "QTTHELNZ",
+      "file": "fig_1_QTTHELNZ.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Figure 2",
+      "page": "13",
+      "attachment_key": "QDL3N3K8",
+      "file": "fig_2_QDL3N3K8.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Figure 3",
+      "page": "9",
+      "attachment_key": "ULCU3ENB",
+      "file": "fig_3_ULCU3ENB.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Figure 6",
+      "page": "11",
+      "attachment_key": "XE4HYD5A",
+      "file": "fig_6_XE4HYD5A.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "9",
+      "title": "Figure 9",
+      "llm_description": "Figure 9Formula 3 · 第 19 页3.",
+      "page": "18",
+      "attachment_key": "MFFTZ9JA",
+      "file": "fig_9_MFFTZ9JA.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Polar Metals: Principles and Prospects|\n|短标题|极性金属：原理与前景|\n|作者|[[Sayantika Bhowal]]、 [[Nicola A. Spaldin]]|\n|期刊名称|[[Annual Review of Materials Research]]|\n|DOI|[10.1146/annurev-matsci-080921-105501](https://doi.org/10.1146/annurev-matsci-080921-105501)|\n|存档位置|60|\n|文库编目|14.6|\n|索书号|1|\n|版权||\n|分类|[[05_极化金属与半金属 (Polar Metals/Semimetals)]]|\n|条目链接|[My Library](zotero://select/library/items/SQBJZA7W)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/2NYA9H3Q)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "Done"
+  ],
+  "materials": [],
+  "methods": []
+}

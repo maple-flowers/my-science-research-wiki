@@ -1,0 +1,98 @@
+{
+  "parent_key": "neumayerCompetingPolarPhases2025",
+  "title": "neumayerCompetingPolarPhases2025",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Polar material properties of interest differentiate by the degree of polar ordering, including paraelectrics, relaxors/ dipolar glasses, antiferroelectrics, and ferroelectrics.",
+      "llm_description": "",
+      "page": "3",
+      "attachment_key": "ICWJ8TZ5",
+      "file": "fig_1_ICWJ8TZ5.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "The structure of the (a) in-layer and (b) in-gap FE phase in CIPS. The position of Cu atoms is indicated schematically through a distribution function. The orientation of the polarization for the specific Cu position is indicated in black arrows. (c) DFT calculations of the in-layer and in-gap FE phases as a function of c-lattice parameter. Adapted with permission from Brehm et al., Nat. Mater. 19, 43 (2020).",
+      "llm_description": "",
+      "page": "4",
+      "attachment_key": "5M5AMBPM",
+      "file": "fig_2_5M5AMBPM.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "The structure of three different AFE phases in CIPS for (a) interlayer and (b) and (c) intralayer AFE ordering. (d) Energy of the three AFE phases with respect to the FE phase. Adapted with permission from Neumayer et al., ACS Nano 16, 2452 (2022).",
+      "llm_description": "",
+      "page": "5",
+      "attachment_key": "D7HPBXKY",
+      "file": "fig_3_D7HPBXKY.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Mechanisms for transitions between dissimilar FE phases in CIPS. (a) Temperature dependent phase transitions: Piezoresponse images (top) and diagram (bottom) as a function of temperature. The LP phases convert to HP before the non-polar phase is reached above the Curie temperature. (b) Electric field induced switching: PFM hysteresis loops show that switching can occur between +HP and LP, +LP and HP, +HP and -HP as well as +LP and -LP domains dependent on the CIPS area and sample. (c) Electric field and ionic conductivity activated transitions: Modification of coercive voltages and switchable polarization through activation of ionic currents indicated by macroscopically measured P-E hysteresis loops. Adapted with permission from Brehm et al., Nat. Mater. 19, 43 (2020) and Neumayer et al., ACS Appl. Mater. Interfaces 14, 3018 (2022).",
+      "llm_description": "",
+      "page": "6",
+      "attachment_key": "6BTYTVQQ",
+      "file": "fig_4_6BTYTVQQ.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Transitions between FE and AFE phases in CIPS and CIPSe. (a) DC induced switching between polar and non-polar phases in CIPS: off-field PFM hysteresis loop featuring an intermediate non-polar state. (b) AC induced phase conversion in CIPS: Piezoresponse map after applying an AC electric field (5 VAC) that changes some +LP areas to AFE. (c) DC voltage activated FE-AFE phase conversion in CIPSe: Piezoresponse image showing AFE and FE domains in CIPSe at 0 V (top) and +1 V (bottom) DC voltage. The piezoresponse is enhanced at the domain walls, and the FE domains are larger in the +1 V piezoresponse map. Adapted with permission from Neumayer et al., ACS Nano 16, 2452 (2022) and Dziaugys et al., Nat. Commun. 11, 3623 (2020).",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "(a) HAADF STEM image of an FIB cross section of CIPS flake showing defects in layer stacking after a Bragg image was formed using the <002> reflection. (b) Map of the strain component eyy via Geometric Phase Analysis. (Ref. 91)",
+      "llm_description": "",
+      "page": "8",
+      "attachment_key": "AX5TD2RP",
+      "file": "fig_6_AX5TD2RP.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Competing polar phases in 2D ferroelectric transition metal thio- and selenophosphates|\n|短标题|二维铁电过渡金属硫磷和硒磷的竞争极性相|\n|作者|[[Sabine Neumayer]]、 [[Huimin Qiao]]、 [[Nina Balke]]|\n|期刊名称|[[Applied Physics Letters]]|\n|DOI|[10.1063/5.0253879](https://doi.org/10.1063/5.0253879)|\n|存档位置|4|\n|文库编目|3.8|\n|索书号|3|\n|版权||\n|分类|[[03_二维铁电与滑动铁电 (2D/Sliding Ferroelectricity)]]|\n|条目链接|[My Library](zotero://select/library/items/WHA5HQJD)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/WYBM275Y)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "Done"
+  ],
+  "materials": [],
+  "methods": []
+}

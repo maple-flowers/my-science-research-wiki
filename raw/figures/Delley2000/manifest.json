@@ -1,0 +1,82 @@
+{
+  "parent_key": "Delley2000",
+  "title": "Delley2000",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. Convergence of total energy for Si primitive cell with order of reciprocal space mesh. Full dots: meshes that contain �-point; empty dots: shifted meshes �1 Ha�27.2113961 eV�.Formula 5 · 第 4 页�5�Formula 4 · 第 4 页�4�",
+      "page": "4",
+      "attachment_key": "TKBGV77Q",
+      "file": "fig_1_TKBGV77Q.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": [
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. Convergence of total energy for Cu primitive cell with order of reciprocal space mesh. Full symbols: meshes that contain �-point; empty symbols: shifted meshes; dots: tetrahedra with Bloechl corrections; tri-angles: linear tetrahedron method.Formula 8 · 第 5 页�8�Formula 9 · 第 5 页�9�Formula 6 ",
+      "page": "5",
+      "attachment_key": "32LN8QU8",
+      "file": "fig_2_32LN8QU8.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": [
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3. Band structure and density of states for graphite.",
+      "page": "7",
+      "attachment_key": "9JKHEKL9",
+      "file": "fig_3_9JKHEKL9.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": [
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "FIG. 4. Unshifted 6�6�n mesh for hexagonal solid, projected onto ab plane. Special points are shown bold; circles: reciprocal lattice points.Table · 第 7 页TABLE III. Calculated zero point vibrational energy per atom and thermal corrections from �-point phonon frequencies in silicon supercell, energie",
+      "page": "7",
+      "attachment_key": "2JHE6FFW",
+      "file": "fig_4_2JHE6FFW.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": [
+        "DFT"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|From molecules to solids with the DMol3 approach|\n|短标题|从分子到固体|\n|作者|[[B. Delley]]|\n|期刊名称|[[The Journal of Chemical Physics]]|\n|DOI|[10.1063/1.1316015](https://doi.org/10.1063/1.1316015)|\n|存档位置|10540|\n|文库编目|3.1|\n|索书号|3|\n|版权||\n|分类|[[方法文献]]|\n|条目链接|[My Library](zotero://select/library/items/YBFIXG95)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/B8ZTPI9V\">从分子到固体-silicon-dual</a></li><li><a href=\"zotero://open-pdf/library/items/QSE777Q2\">Delley - 2000 - From molecules to solids with the DMol3 approach</a></li><li><a href=\"zotero://open-pdf/library/items/LXWLL5BG\">Delley - 2000 - From molecules to solids with the DMol3 approach.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": [
+    "DFT"
+  ]
+}

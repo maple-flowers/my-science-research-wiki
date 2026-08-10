@@ -1,0 +1,46 @@
+{
+  "parent_key": "king-smithTheoryPolarizationCrystalline1993c",
+  "title": "king-smithTheoryPolarizationCrystalline1993c",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "GaAs压电响应的理论与实验情况",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table><thead><tr><th style=\"text-align:left\">物理量</th><th style=\"text-align:left\">本文计算值 (This work)</th><th style=\"text-align:left\">线性响应理论 (Linear response)</th><th style=\"text-align:left\">实验值 (Experiment)</th><th style=\"text-align:left\">说明与量纲</th></tr></thead><tbody><tr><td style=\"text-align:left\"><strong>晶格常数 a</strong></td><td style=\"text-align:left\"><strong>5.576 Å</strong></td><td style=\"text-align:left\">5.496 Å</td><td style=\"text-align:left\">5.642 Å</td><td style=\"text-align:left\"><strong>单位：埃（Å）</strong>。计算值比实验值略小，符合局部密度近似（LDA）计算对半导体晶格常数低估的典型特征。</td></tr><tr><td style=\"text-align:left\"><strong>Z*_Ga</strong>（Ga的格雷横向有效电荷）</td><td style=\"text-align:left\"><strong>0.542</strong></td><td style=\"text-align:left\">0.528</td><td style=\"text-align:left\">0.55</td><td style=\"text-align:left\">无量纲比值。表示Ga原子移动单位距离时，其有效电荷的相对变化。理论值与实验吻合得很好。</td></tr><tr><td style=\"text-align:left\"><strong>Z*_（总有效电荷）</strong></td><td style=\"text-align:left\"><strong>1.984</strong></td><td style=\"text-align:left\">1.994</td><td style=\"text-align:left\">2.16</td><td style=\"text-align:left\">无量纲量。指考虑离子位移与电子响应后的综合即Borne Effective Charge。理论略低于实验。</td></tr><tr><td style=\"text-align:left\"><strong>(a/e)·γ₁₄^(ion)</strong> （<strong>离子钳位压电贡献</strong>）</td><td style=\"text-align:left\"><strong>1.352</strong></td><td style=\"text-align:left\">——</td><td style=\"text-align:left\">——</td><td style=\"text-align:left\">无量纲。展示了应变时如何考虑离子（不含电子响应）部分对压电系数的影响。</td></tr><tr><td style=\"text-align:left\"><strong>γ₁₄（压电张量）</strong></td><td style=\"text-align:left\"><strong>-0.28</strong></td><td style=\"text-align:left\">-0.35</td><td style=\"text-align:left\">-0.32</td><td style=\"text-align:left\">单位：C/m²（论文图表中给定的是无量纲表示，但通常为C/m²）。理论值与实验值有很大差异，论文指出误差来源是可能的两大巨大压力系数的相消（电子项与离子项抵消强），但与实验合理符合。</td></tr></tbody></table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Theory of polarization of crystalline solids|\n|短标题|晶体固体的极化理论|\n|作者|[[R. D. King-Smith]]、 [[David Vanderbilt]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.47.1651](https://doi.org/10.1103/PhysRevB.47.1651)|\n|存档位置|4067|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[02_极化翻转动力学 (Polarization Switching)]]|\n|条目链接|[My Library](zotero://select/library/items/ZP4J4PSV)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/JSDVNIHA)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]|",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq1",
+      "title": "Equation 1",
+      "content": "$$ \\Delta P = \\frac{i f q_e}{8\\pi^3} \\sum_n \\int_{BZ} dk \\langle u_{kn}^{(λ)} | \\frac{\\partial}{\\partial k} | u_{kn}^{(λ)} \\rangle \\dots $$",
+      "page": "-"
+    }
+  ],
+  "tags": [
+    "Done"
+  ],
+  "materials": [],
+  "methods": []
+}

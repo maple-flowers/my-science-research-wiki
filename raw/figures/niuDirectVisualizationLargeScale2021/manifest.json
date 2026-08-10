@@ -1,0 +1,85 @@
+{
+  "parent_key": "niuDirectVisualizationLargeScale2021",
+  "title": "niuDirectVisualizationLargeScale2021",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Optical and STEM imaging of air-sensitive WTe2 monolayer. (气敏性WTe2单层的光学和STEM成像)",
+      "llm_description": "",
+      "page": "3",
+      "attachment_key": "IRYPEAD2",
+      "file": "fig_1_IRYPEAD2.png",
+      "tags": [],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Atomic characterizations of the collective distorted lattice in continuous monolayer WTe2. (连续单层WTe2中集体畸变晶格的原子表征)",
+      "llm_description": "",
+      "page": "4",
+      "attachment_key": "TNWYZPBH",
+      "file": "fig_2_TNWYZPBH.png",
+      "tags": [],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Anisotropy of continuous ripple in large-scale WTe2 monolayer. (大尺度WTe2单层中连续波纹的各向异性)",
+      "llm_description": "",
+      "page": "5",
+      "attachment_key": "L7V9QJ8E",
+      "file": "fig_3_L7V9QJ8E.png",
+      "tags": [],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Anisotropic distribution of intrinsic Te vacancies modulated by ripple structure in WTe2 monolayer. (WTe2单层中由波纹结构调制的本征Te空位各向异性分布)",
+      "llm_description": "",
+      "page": "6",
+      "attachment_key": "L3JGQWUC",
+      "file": "fig_4_L3JGQWUC.png",
+      "tags": [],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Anisotropic response of the ripple to the differently oriented grains and structure in partially oxidized case. (波纹对不同取向晶粒和部分氧化情况下的各向异性响应)",
+      "llm_description": "",
+      "page": "7",
+      "attachment_key": "NSCBWQ95",
+      "file": "fig_5_NSCBWQ95.png",
+      "tags": [],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Direct Visualization of Large‐Scale Intrinsic Atomic Lattice Structure and Its Collective Anisotropy in Air‐Sensitive Monolayer 1T’‐ WTe<sub>2</sub>|\n|短标题|气敏单层1T'WTe<sub>2<sub>中大规模本征原子晶格结构及其集体各向异性的直接可视化|\n|作者|[[Kangdi Niu]]、 [[Mouyi Weng]]、 [[Songge Li]]、 [[Zenglong Guo]]、 [[Gang Wang]]、 [[Mengjiao Han]]、 [[Feng Pan]]、 [[Junhao Lin]]|\n|期刊名称|[[Advanced Science]]|\n|DOI|[10.1002/advs.202101563](https://doi.org/10.1002/advs.202101563)|\n|存档位置|16|\n|文库编目|14.1|\n|索书号|1|\n|版权||\n|分类|[[06_单层 CDW 与维度效应 (Monolayer/Dimension)]]|\n|条目链接|[My Library](zotero://select/library/items/3X5IXGI9)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/5AUB4BTM\">Niu 等 - 2021 - Direct Visualization of Large‐Scale Intrinsic Atomic Lattice Structure and Its Collective Anisotropy</a></li><li><a href=\"zotero://open-pdf/library/items/SYKBMANV\">Niu 等 - 2021 - Direct Visualization of Large‐Scale Intrinsic Atomic Lattice Structure and Its Collective Anisotropy.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/W7Z9GB3F\">Niu 等 - 2021 - Direct Visualization of Large‐Scale Intrinsic Atomic Lattice Structure and Its Collective Anisotropy.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [],
+  "materials": [
+    "TMDs及其变体（MoS2）"
+  ],
+  "methods": []
+}

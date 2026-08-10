@@ -1,0 +1,197 @@
+{
+  "parent_key": "wuNonvolatileSwitchableHalfmetallicity2024",
+  "title": "wuNonvolatileSwitchableHalfmetallicity2024",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "P1、P2、P3和P4四种结构态的磁矩和交换参数J1",
+      "llm_description": "",
+      "page": "2",
+      "attachment_key": "9EG9JEEP",
+      "file": "fig_1_9EG9JEEP.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "MXenes"
+      ],
+      "methods": [
+        "AFM",
+        "first-principles",
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "2",
+      "title": "Hf2MnC2O2和Sc2CO2单层及异质结的结构示意图",
+      "llm_description": "",
+      "page": "3",
+      "attachment_key": "LHR5MV9Y",
+      "file": "fig_2_LHR5MV9Y.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "MXenes"
+      ],
+      "methods": [
+        "AFM",
+        "first-principles",
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "3",
+      "title": "磁矩和交换参数J1随dO–Sc的变化趋势",
+      "llm_description": "",
+      "page": "4",
+      "attachment_key": "KK3AG8E5",
+      "file": "fig_3_KK3AG8E5.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "MXenes"
+      ],
+      "methods": [
+        "AFM",
+        "first-principles",
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "4",
+      "title": "Hf2MnC2O2/Sc2CO2异质结在不同dO–Sc下的分波态密度 (PDOS)",
+      "llm_description": "",
+      "page": "5",
+      "attachment_key": "VRSCFMEG",
+      "file": "fig_4_VRSCFMEG.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "MXenes"
+      ],
+      "methods": [
+        "AFM",
+        "first-principles",
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "5",
+      "title": "各种材料和异质结的电子能带结构",
+      "llm_description": "",
+      "page": "5",
+      "attachment_key": "98VINAMZ",
+      "file": "fig_5_98VINAMZ.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "MXenes"
+      ],
+      "methods": [
+        "AFM",
+        "first-principles",
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "6",
+      "title": "非易失性半金属性调控的物理机制",
+      "llm_description": "",
+      "page": "6",
+      "attachment_key": "DT6ABDJC",
+      "file": "fig_6_DT6ABDJC.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "MXenes"
+      ],
+      "methods": [
+        "AFM",
+        "first-principles",
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "7",
+      "title": "Hf2MnC2O2/Sc2CO2异质结FET的器件原型",
+      "llm_description": "",
+      "page": "6",
+      "attachment_key": "ZQI8XHFY",
+      "file": "fig_7_ZQI8XHFY.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "MXenes"
+      ],
+      "methods": [
+        "AFM",
+        "first-principles",
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "8",
+      "title": "Sc2CO2/Hf2MnC2O2/Sc2CO2夹层结构的优化几何构型和电子能带结构",
+      "llm_description": "",
+      "page": "7",
+      "attachment_key": "W8TYDKGM",
+      "file": "fig_8_W8TYDKGM.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "MXenes"
+      ],
+      "methods": [
+        "AFM",
+        "first-principles",
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "9",
+      "title": "Mn和Hf原子的轨道分辨磁各向异性_MAE",
+      "llm_description": "",
+      "page": "8",
+      "attachment_key": "LVZMB2AL",
+      "file": "fig_9_LVZMB2AL.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "MXenes"
+      ],
+      "methods": [
+        "AFM",
+        "first-principles",
+        "DFT"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Nonvolatile switchable half-metallicity and magnetism in the MXene Hf<sub>2</sub> MnC<sub>2</sub> O<sub>2</sub> /Sc<sub>2</sub> CO<sub>2</sub> multiferroic heterostructure|\n|短标题|MXeneHf<sub>2</sub>MnC<sub>2</sub>O<sub>2</sub>/Sc<sub>2</sub>CO<sub>2</sub>多铁异质结构中的非易失性可切换半金属性和磁性|\n|作者|[[Changwei Wu]]、 [[Shanwei Sun]]、 [[Weiping Gong]]、 [[Jiangyu Li]]、 [[Xiao Wang]]|\n|期刊名称|[[Physical Chemistry Chemical Physics]]|\n|DOI|[10.1039/D3CP04847K](https://doi.org/10.1039/D3CP04847K)|\n|存档位置|4|\n|文库编目|3|\n|索书号|3|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/J6HCDKNM)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/ZN5QFA8V)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "Done"
+  ],
+  "materials": [
+    "MXenes"
+  ],
+  "methods": [
+    "AFM",
+    "first-principles",
+    "DFT"
+  ]
+}

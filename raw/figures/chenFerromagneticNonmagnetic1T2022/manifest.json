@@ -1,0 +1,199 @@
+{
+  "parent_key": "chenFerromagneticNonmagnetic1T2022",
+  "title": "chenFerromagneticNonmagnetic1T2022",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "(a) The crystal structure of 1T and 1T′ phase of TMD MX2. (b) The relative total energy of 1T′ NM and FM CDW phases in VX2, CrX2, and MnX2 TMDs.",
+      "llm_description": "",
+      "page": "2",
+      "attachment_key": "JXW9RV2I",
+      "file": "fig_1_JXW9RV2I.png",
+      "tags": [
+        "项目-cdw"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "MoS2",
+        "TMDs",
+        "MoS2及其变体"
+      ],
+      "methods": [
+        "DFT",
+        "STM",
+        "STEM",
+        "TEM",
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "2",
+      "title": "The relative total energy landscape of (a) CrS2, (b) CrSe2, and (c) CrTe2 under biaxial strain conditions.",
+      "llm_description": "",
+      "page": "3",
+      "attachment_key": "7A4AG47S",
+      "file": "fig_2_7A4AG47S.png",
+      "tags": [
+        "项目-cdw"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "MoS2",
+        "TMDs",
+        "MoS2及其变体"
+      ],
+      "methods": [
+        "DFT",
+        "STM",
+        "STEM",
+        "TEM",
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "3",
+      "title": "(a) and (b) show the DOS results of 1T′ FM- and NM-CDW states of CrS2 and their partial charge density within the energy range of −1.5 to 0 eV. (c) The schematic diagram summarises the formation mechanisms of 1T′ FM-CDW and NM-CDW phases in CrS2.",
+      "llm_description": "",
+      "page": "4",
+      "attachment_key": "SPGA8HAI",
+      "file": "fig_3_SPGA8HAI.png",
+      "tags": [
+        "项目-cdw"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "MoS2",
+        "TMDs",
+        "MoS2及其变体"
+      ],
+      "methods": [
+        "DFT",
+        "STM",
+        "STEM",
+        "TEM",
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "4",
+      "title": "The DOS and partial charge density results within electronic energy level range from −1.5 to 0 eV for (a) 1T′ MnS2, (b) MnSe2, and (c) MnTe2.",
+      "llm_description": "",
+      "page": "5",
+      "attachment_key": "XN2CY6FX",
+      "file": "fig_4_XN2CY6FX.png",
+      "tags": [
+        "项目-cdw"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "MoS2",
+        "TMDs",
+        "MoS2及其变体"
+      ],
+      "methods": [
+        "DFT",
+        "STM",
+        "STEM",
+        "TEM",
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "5",
+      "title": "An overview of the 1T′ FM-CDW and NM-CDW phases in group IV, V, VI, and VII TMDs and the formation mechanisms of 1T′ FM-CDW phases.",
+      "llm_description": "",
+      "page": "5",
+      "attachment_key": "QC57RNPC",
+      "file": "fig_5_QC57RNPC.png",
+      "tags": [
+        "项目-cdw"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "MoS2",
+        "TMDs",
+        "MoS2及其变体"
+      ],
+      "methods": [
+        "DFT",
+        "STM",
+        "STEM",
+        "TEM",
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "6",
+      "title": "Charge doping induced reversible phase transition between 1T′ NM and FM CDW phases in CrS2. (a) and (b) show the variation of lattice constants a and b under different electron and hole doping levels. (c) The phase transition energy barrier between the 1T′ NM and FM state under different charge doping.",
+      "llm_description": "",
+      "page": "6",
+      "attachment_key": "7ESQJRHI",
+      "file": "fig_6_7ESQJRHI.png",
+      "tags": [
+        "项目-cdw"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "MoS2",
+        "TMDs",
+        "MoS2及其变体"
+      ],
+      "methods": [
+        "DFT",
+        "STM",
+        "STEM",
+        "TEM",
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "I",
+      "title": "The relative total energy and lattice constants of different CDW states in VTe2, CrX2 and MnX2.",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "项目-cdw"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "MoS2",
+        "TMDs",
+        "MoS2及其变体"
+      ],
+      "methods": [
+        "DFT",
+        "STM",
+        "STEM",
+        "TEM",
+        "AFM"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Ferromagnetic and nonmagnetic  <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mrow><mml:mn>1</mml:mn><mml:msup><mml:mi>T</mml:mi><mml:mo>′</mml:mo></mml:msup></mml:mrow></mml:math>  charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition|\n|短标题|铁磁性和非磁性<mml：数学xmlns：mml=\"http://www.w3.org/1998/Math/MathML\"><mml：mrow><mml：mn>1</mml：mn><mml：msup><mml：mi>T</mml：mi><mml：mo></mml：mo></mml：msup></mml：mrow></mml：数学>过渡金属二硫化物中的电荷密度波态：物理机制和电荷掺杂诱导的可逆转变|\n|作者|[[Kaiyun Chen]]、 [[Junkai Deng]]、 [[Dongxiao Kan]]、 [[Yuan Yan]]、 [[Qian Shi]]、 [[Wangtu Huo]]、 [[Mengshan Song]]、 [[Sen Yang]]、 [[Jefferson Zhe Liu]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.105.024414](https://doi.org/10.1103/PhysRevB.105.024414)|\n|存档位置|8|\n|文库编目|3.7|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/T4HFQH9N)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/4CQPQZWU\">Chen 等 - 2022 - Ferromagnetic and nonmagnetic  m.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/GXDTIPA8\">Chen 等 - 2022 - Ferromagnetic and nonmagnetic  m.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/LUBGRKES\">Chen 等 - 2022 - Ferromagnetic and nonmagnetic 1 T ′ charge density wave states in transition metal dichalcogenides</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "项目-cdw"
+  ],
+  "materials": [
+    "TMDs及其变体（MoS2）",
+    "MoS2",
+    "TMDs",
+    "MoS2及其变体"
+  ],
+  "methods": [
+    "DFT",
+    "STM",
+    "STEM",
+    "TEM",
+    "AFM"
+  ]
+}

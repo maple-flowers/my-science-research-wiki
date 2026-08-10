@@ -1,0 +1,95 @@
+{
+  "parent_key": "prosandeevKittelLawInBiFeO3Ultrathin2010",
+  "title": "prosandeevKittelLawInBiFeO3Ultrathin2010",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1 (color online). 10 K pattern of the ui local mode vectors [panel (a)] and �i AFD vectors [panel (b)] in a (X, Z) plane for the equilibrium 71�domains of the 8 nm-thick film.",
+      "page": "2",
+      "attachment_key": "KXXSHSEC",
+      "file": "fig_1_KXXSHSEC.png",
+      "tags": [
+        "unread",
+        "方法：蒙卡特洛模拟"
+      ],
+      "materials": [
+        "ABO3型钙钛矿",
+        "BiFeO3",
+        "BFO"
+      ],
+      "methods": [
+        "第一性原理",
+        "DFT",
+        "first-principles"
+      ]
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2 (color online). Dependency of some energies [(a)–(c)] with domain period in 8 nm-thick films (h ¼ 20), and thickness dependency of some features [(d)–(f)], at 10 K. The energy in (a) is the total internal energy per 5-atom cell provided by our simulations, with the solid line representing its",
+      "page": "3",
+      "attachment_key": "WFBUT3AR",
+      "file": "fig_2_WFBUT3AR.png",
+      "tags": [
+        "unread",
+        "方法：蒙卡特洛模拟"
+      ],
+      "materials": [
+        "ABO3型钙钛矿",
+        "BiFeO3",
+        "BFO"
+      ],
+      "methods": [
+        "第一性原理",
+        "DFT",
+        "first-principles"
+      ]
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3 (color online). 10 K site-by-site decomposition of the short-range interaction energy between AFD motions [panel (a)], electric dipole-dipole interactions [panel (b)] and magnetoelec-tric interaction energy [panel (c)] in the same (X, Z) plane used for Fig. 1, for the equilibrium 71�domains o",
+      "page": "4",
+      "attachment_key": "2JFY882V",
+      "file": "fig_3_2JFY882V.png",
+      "tags": [
+        "unread",
+        "方法：蒙卡特洛模拟"
+      ],
+      "materials": [
+        "ABO3型钙钛矿",
+        "BiFeO3",
+        "BFO"
+      ],
+      "methods": [
+        "第一性原理",
+        "DFT",
+        "first-principles"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Kittel Law in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msub><mml:mi>BiFeO</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:math>Ultrathin Films: A First-Principles-Based Study|\n|短标题|KittelLawin<mml：数学xmlns：mml=\"http://www.w3.org/1998/Math/MathML\"display=\"inline\"><mml：msub><mml：mi>BiFeO</mml：mi><mml：mn>3</mml：mn></mml：msub></mml：数学>超薄薄膜：First-Principles-Based研究|\n|作者|[[S. Prosandeev]]、 [[S. Lisenkov]]、 [[L. Bellaiche]]|\n|期刊名称|[[Physical Review Letters]]|\n|DOI|[10.1103/PhysRevLett.105.147603](https://doi.org/10.1103/PhysRevLett.105.147603)|\n|存档位置|28|\n|文库编目|9.0|\n|索书号|1|\n|版权|http://link.aps.org/licenses/aps-default-license|\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/S5IF3ZR2)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/KWNA86WT\">Prosandeev 等 - 2010 - Kittel Law inmm</a></li><li><a href=\"zotero://open-pdf/library/items/8EWEQAGG\">Prosandeev 等 - 2010 - Kittel Law inmm.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/9T2WLSN3\">Prosandeev 等 - 2010 - Kittel Law inmm.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread",
+    "方法：蒙卡特洛模拟"
+  ],
+  "materials": [
+    "ABO3型钙钛矿",
+    "BiFeO3",
+    "BFO"
+  ],
+  "methods": [
+    "第一性原理",
+    "DFT",
+    "first-principles"
+  ]
+}

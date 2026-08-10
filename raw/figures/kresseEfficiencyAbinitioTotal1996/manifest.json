@@ -1,0 +1,214 @@
+{
+  "parent_key": "kresseEfficiencyAbinitioTotal1996",
+  "title": "kresseEfficiencyAbinitioTotal1996",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1. Convergence  of the free energy for Gaussian smearing  (N=O)  and the MP-method (N=l,  N=2)  with respect to o.  Also shown is the convergence  of the quantity ,!? (Eq. (21)) for  N = 0 i.e. Gaussian smearing. A k-point grid consisting of 35 X 35  X 35 k-points (i.e. 1140 k-points in the irr",
+      "page": "7",
+      "attachment_key": "P5E5QJJI",
+      "file": "fig_1_P5E5QJJI.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "10",
+      "title": "Figure 10",
+      "llm_description": "Fig. 10. Convergence  for the Pd(l11)  surface, selfconsistent  case.  Top panel total free energy  per atom  E (in eV), second panel  charge density residual vector, last panel forces (in eV/i/atom).  For the calculations  of the charge  density  residual  vector  no  metric was included (see text)",
+      "page": "30",
+      "attachment_key": "2IQSWTMZ",
+      "file": "fig_10_2IQSWTMZ.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "11",
+      "title": "Figure 11",
+      "llm_description": "Fig. 11. Convergence of the charge density residual vector for  different mixing algorithms for the Pd(ll1) surface. The initial  matrix G’ was set to G’ = 0.1. For ‘nometric’ Pulay’s method  without metric was used, ‘Pulay’ corresponds to Pulay’s method  with metric, and ‘Broyden 2.’ to Broyden’s s",
+      "page": "31",
+      "attachment_key": "4K4H5UIW",
+      "file": "fig_11_4K4H5UIW.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "12",
+      "title": "Figure 12",
+      "llm_description": "Fig. 12. Convergence for the C(lOOx1 X 2) surface, selfconsistent  case. Top panel total tiee energy per atom E (in eV), second  panel charge density residual vector, last panel forces (in  eV/A/atom).  In all cases Pulay’s method was used for the  mixing. For ‘Ker 1.5’ the initial matrix G’ was set",
+      "page": "31",
+      "attachment_key": "LJ5FKRCU",
+      "file": "fig_12_LJ5FKRCU.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2. Convergence of energy for the LT-C and of the free energy  for Gaussian smearing 6%’ = 0) and the MP-method (N = 1) with  respect to the k-point mesh. The k-point meshes consisted of  gridX gridX grid k-points. For the smearing methods  sigma v  was chosen so that the error in the k-point co",
+      "page": "9",
+      "attachment_key": "XL6PUZX6",
+      "file": "fig_2_XL6PUZX6.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3. Flow chart for iterative methods for the diagonalization  of  the KS-Hamiltonian  in conjunction  with an iterative improvement  (i.e. mixing) of the charge density. Formula 30 · 第 10 页(30)Formula 32 · 第 10 页(32) Formula 31 · 第 10 页(31) Formula 36 · 第 11 页(36) Formula 37 · 第 11 页(37)Formula ",
+      "page": "10",
+      "attachment_key": "DVVINJTV",
+      "file": "fig_3_DVVINJTV.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4. Convergence  of the forces (in eV/A/atom)  for different  algorithms  for the Pd (111) surface with a monolayer  hydrogen  located in the hollows between three Pd atoms, for a selfconsistent  calculation.  ‘out’  -  output  charge  density  was used for the  calculation;  ‘mix’ - mixed charg",
+      "page": "12",
+      "attachment_key": "UMU6YLJB",
+      "file": "fig_4_UMU6YLJB.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5. Convergence of the total free energy per atom E (in eV)  for different algorithms for 1 Ge (64 atoms), non-selfconsistent  case. DAV2 conesponds to the blocked Davidson scheme, one  step in the plot is equivalent to expanding the expansion set to  2 N,, and collapsing it back to 1 Nt, twice,",
+      "page": "27",
+      "attachment_key": "L4UUU5DV",
+      "file": "fig_5_L4UUU5DV.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Fig. 6. Convergence of the total free energy per atom E (in eV)  for the Pd(ll1) surface with a monolayer hydrogen located in the  hollows between three Pd atoms, non-selfconsistent case. A slab  consisting of 5 layers of Pd is used to model the surface.",
+      "page": "27",
+      "attachment_key": "IQUJ25F4",
+      "file": "fig_6_IQUJ25F4.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Fig. 7. Convergence  of the total free energy per atom E (in eV)  for a clean c(lOO)( 1 X 2) surface, modeled by a slab containing  16  atoms, non-selfconsistent  case.",
+      "page": "28",
+      "attachment_key": "8Q4TWS96",
+      "file": "fig_7_8Q4TWS96.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "Fig. 8. Convergence  of the total free energy per atom E (in eV)  for different  algorithms  for I-Ge (61 atoms), selfconsistent  case.  RMM, CG and DAV2 arc algorithms  relying  on the selfconsis-  tency  cycle.  CGa is the conjugate  gradient  algorithm  applied  directly to the KS functionat  for",
+      "page": "28",
+      "attachment_key": "PWTQ5PT8",
+      "file": "fig_8_PWTQ5PT8.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "9",
+      "title": "Figure 9",
+      "llm_description": "Fig. 9. Convergence of the total free energy per atom E (in eV)  for different algorithms for I-Ge (64 atoms), selfconsistent case.  ‘CGa’ and ‘SDa’ are the conjugate gradient and steepest descent  algorithms applied directly to the KS-functional for 128 or 148  bands. For ‘SDa-128’ two lines ate sh",
+      "page": "29",
+      "attachment_key": "4VWPVZTG",
+      "file": "fig_9_4VWPVZTG.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set|\n|短标题|用平面波基集从头计算金属和半导体总能量的效率|\n|作者|[[G. Kresse]]、 [[J. Furthmüller]]|\n|期刊名称|[[Computational Materials Science]]|\n|DOI|[10.1016/0927-0256(96)00008-0](https://doi.org/10.1016/0927-0256(96)00008-0)|\n|存档位置|69930|\n|文库编目|3.3|\n|索书号|3|\n|版权|https://www.elsevier.com/tdm/userlicense/1.0/|\n|分类||\n|条目链接|[My Library](zotero://select/library/items/HRHTQHFV)|\n|PDF 附件|[全文](zotero://open-pdf/library/items/PXZAJSHU)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq1",
+      "title": "Equation 1",
+      "content": "$$E_{KS}[{ψ_n}, {R_I}] = \\sum_n f_n \\langle ψ_n | T + V_{loc}^{ion} | ψ_n \\rangle + E_H[\\rho] + E_{XC}[\\rho] + E_{Ewald} + E_{nonloc}$$",
+      "page": "-"
+    },
+    {
+      "id": "eq2",
+      "title": "Equation 2",
+      "content": "$$V_{nl}^{ps} = \\sum_{ij} | p_i \\rangle D_{ij}^0 \\langle p_j |$$",
+      "page": "-"
+    },
+    {
+      "id": "eq3",
+      "title": "Equation 3",
+      "content": "$$\\rho(r) = \\sum_n f_n \\langle ψ_n | S | ψ_n \\rangle + \\sum_{n,ij} f_n \\langle ψ_n | p_j \\rangle \\langle p_i | ψ_n \\rangle Q_{ij}(r)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq4",
+      "title": "Equation 4",
+      "content": "$$H | ψ_n \\rangle = ε_n S | ψ_n \\rangle$$",
+      "page": "-"
+    }
+  ],
+  "tags": [
+    "unread",
+    "参考文献-layer"
+  ],
+  "materials": [],
+  "methods": []
+}

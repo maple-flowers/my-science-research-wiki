@@ -1,0 +1,107 @@
+{
+  "parent_key": "houStrainbasedRoomtemperatureNonvolatile2019",
+  "title": "houStrainbasedRoomtemperatureNonvolatile2019",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1 | Device schematic and operation. a, Schematic representation of the ferroelectric strain field-effect device. b, Optical micrograph of actual MoTe2  on the PMN-PT (011) device used in Figs. 2 and 3. c, Measured strain curves from as-deposited Ni strain gauges measuring evolution of strain in",
+      "page": "2",
+      "attachment_key": "MHZWH2DW",
+      "file": "fig_1_MHZWH2DW.png",
+      "tags": [
+        "方法：有限元模拟"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "MoS2"
+      ],
+      "methods": [
+        "TEM",
+        "first-principles",
+        "Raman"
+      ]
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2 | Temperature cycling and non-volatile switching. Log-scale channel conductance measurements for the device presented in Fig. 1b (70 nm  channel, W/L = 2.3) with respect to temperature cycling, starting at 300 K then 270 K to 330 K to 300 K. Measurements are taken with Vds = 100 mV  and are c",
+      "page": "3",
+      "attachment_key": "W6M3X3X8",
+      "file": "fig_2_W6M3X3X8.png",
+      "tags": [
+        "方法：有限元模拟"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "MoS2"
+      ],
+      "methods": [
+        "TEM",
+        "first-principles",
+        "Raman"
+      ]
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3 | Conductive atomic force microscopy of switching behaviour.   a,b, Topography and current, measured by CAFM, of the device presented  in Fig. 2 after being left in the low conductivity state (290 K). Large changes  in conductivity can be inferred from CAFM data near the contact edges.  c–e, ",
+      "page": "3",
+      "attachment_key": "TFIDU2DW",
+      "file": "fig_3_TFIDU2DW.png",
+      "tags": [
+        "方法：有限元模拟"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "MoS2"
+      ],
+      "methods": [
+        "TEM",
+        "first-principles",
+        "Raman"
+      ]
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4 | Effect of contact metals and simulations. a, CAFM image of a 50 nm MoTe2 device (W/L = 6.3) patterned with Ni contacts on a PMN-PT(111)-oriented single crystal showing contact edge effects. The data are shown with a finite-element analysis simulation of strain in the channel assuming  clamp",
+      "page": "4",
+      "attachment_key": "PSXWI6BT",
+      "file": "fig_4_PSXWI6BT.png",
+      "tags": [
+        "方法：有限元模拟"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "MoS2"
+      ],
+      "methods": [
+        "TEM",
+        "first-principles",
+        "Raman"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Strain-based room-temperature non-volatile MoTe2 ferroelectric phase change transistor|\n|短标题|应变型室温非易失性MoTe2铁电相变晶体管|\n|作者|[[Wenhui Hou]]、 [[Ahmad Azizimanesh]]、 [[Arfan Sewaket]]、 [[Tara Peña]]、 [[Carla Watson]]、 [[Ming Liu]]、 [[Hesam Askari]]、 [[Stephen M. Wu]]|\n|期刊名称|[[Nature Nanotechnology]]|\n|DOI|[10.1038/s41565-019-0466-2](https://doi.org/10.1038/s41565-019-0466-2)|\n|存档位置|183|\n|文库编目|34.9|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/KCCPTIZP)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/3ZM72347\">Hou 等 - 2019 - Strain-based room-temperature non-volatile MoTe2 ferroelectric phase change transistor</a></li><li><a href=\"zotero://open-pdf/library/items/I9X83MVD\">Hou 等 - 2019 - Strain-based room-temperature non-volatile MoTe2 ferroelectric phase change transistor.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "方法：有限元模拟"
+  ],
+  "materials": [
+    "TMDs及其变体（MoS2）",
+    "MoS2"
+  ],
+  "methods": [
+    "TEM",
+    "first-principles",
+    "Raman"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "parent_key": "noseUnifiedFormulationConstant1984",
+  "title": "noseUnifiedFormulationConstant1984",
+  "figures": [
+    {
+      "fig_number": "81",
+      "title": "Figure 81",
+      "llm_description": "J. Chem. Phys., Vol. 81, No.1, 1 July 1984 Formula 4 · 第 8 页(4.21) Formula 4 · 第 8 页(4.19) Formula 4 · 第 8 页(4.20) Formula · 第 8 页Formula 4 · 第 8 页(4.18) Formula 5 · 第 8 页(5.1) Formula · 第 8 页Formula · 第 8 页Table · 第 9 页TABLE II. The number of independent variables in the various constant  temperatu",
+      "page": "8",
+      "attachment_key": "Y2B3F56A",
+      "file": "fig_81_Y2B3F56A.png",
+      "tags": [],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|A unified formulation of the constant temperature molecular dynamics methods|\n|短标题|恒温分子动力学方法的统一表述|\n|作者|[[Shuichi Nosé]]|\n|期刊名称|[[The Journal of Chemical Physics]]|\n|DOI|[10.1063/1.447334](https://doi.org/10.1063/1.447334)|\n|存档位置|17505|\n|文库编目|3.1|\n|索书号|3|\n|版权||\n|分类|[[方法文献]]|\n|条目链接|[My Library](zotero://select/library/items/8DPT3H8Z)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/U5PCFREV\">Nosé - 1984 - A unified formulation of the constant temperature molecular dynamics methods</a></li><li><a href=\"zotero://open-pdf/library/items/WRYK2S73\">Nosé - 1984 - A unified formulation of the constant temperature molecular dynamics methods.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/CWBZ9R2Y\">Nosé - 1984 - A unified formulation of the constant temperature molecular dynamics methods.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [],
+  "materials": [],
+  "methods": []
+}

@@ -1,0 +1,117 @@
+{
+  "parent_key": "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+  "title": "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1 | Single-voltage control of the dual-gate device. a Schematic diagram of a device, with illustrations of the crystal structure of Fe3GaTe2 and the molecular chain structure of P(VDF-TrFE). b Schematic diagram of stress transfer during bottom gate P(VDF-TrFE) polarization and top gate P(VDF-Tr",
+      "page": "2",
+      "attachment_key": "Z39AQNUT",
+      "file": "fig_1_Z39AQNUT.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "Fe3GeTe2"
+      ],
+      "methods": [
+        "CVD",
+        "Raman",
+        "DFT",
+        "first-principles",
+        "TEM",
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2 | Mechanism of polarization voltage modulation of magnetic properties of dual-gate devices. a, b Anomalous Hall curves under different polarization voltages when the magnetic field angle θH = 0°. a Negative voltage polarization. b Positive voltage polarization. c Transmission electron microsc",
+      "page": "4",
+      "attachment_key": "JKYS4EYA",
+      "file": "fig_2_JKYS4EYA.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "Fe3GeTe2"
+      ],
+      "methods": [
+        "CVD",
+        "Raman",
+        "DFT",
+        "first-principles",
+        "TEM",
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3 | Logic in Fe3GaTe2/P(VDF-TrFE) based on symmetric write and read operations. a Schematic diagram of Fe3GaTe2/P(VDF-TrFE) logic device. b NOR logic function, AND logic function, and NAND logic function. c Constructing the NOR logic truth table using the results in (b). d Constructing the AND ",
+      "page": "8",
+      "attachment_key": "2KEU5BI8",
+      "file": "fig_3_2KEU5BI8.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "Fe3GeTe2"
+      ],
+      "methods": [
+        "CVD",
+        "Raman",
+        "DFT",
+        "first-principles",
+        "TEM",
+        "AFM"
+      ]
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5 | Multiferroics device integration for binary classification. a Class “1” with letter patterns “W”, “H”, and “U”, and class “0” with number patterns “1”, “3”, and “2”. b Output characteristic curves of the multiferroics device (red solid curves), which are similar to the S-shaped function (bl",
+      "page": "10",
+      "attachment_key": "VINK2IVM",
+      "file": "fig_5_VINK2IVM.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "Fe3GeTe2"
+      ],
+      "methods": [
+        "CVD",
+        "Raman",
+        "DFT",
+        "first-principles",
+        "TEM",
+        "AFM"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Ferroelectricity-driven strain-mediated magnetoelectric coupling in two-dimensional multiferroic heterostructure|\n|短标题|二维多铁异质结构中Ferroelectricity-driven应变介导的磁电耦合|\n|作者|[[Chuanyang Cai]]、 [[Yao Wen]]、 [[Shiheng Liang]]、 [[Lei Yin]]、 [[Ruiqing Cheng]]、 [[Hao Wang]]、 [[Xiaoqiang Feng]]、 [[Liang Liu]]、 [[Jun He]]|\n|期刊名称|[[Nature Communications]]|\n|DOI|[10.1038/s41467-025-65688-x](https://doi.org/10.1038/s41467-025-65688-x)|\n|存档位置|16|\n|文库编目|18.1|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/NFNA29AG)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/BN4Y3NS5)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "Done"
+  ],
+  "materials": [
+    "Fe3GeTe2"
+  ],
+  "methods": [
+    "CVD",
+    "Raman",
+    "DFT",
+    "first-principles",
+    "TEM",
+    "AFM"
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "parent_key": "kresseUltrasoftPseudopotentialsProjector1999c",
+  "title": "kresseUltrasoftPseudopotentialsProjector1999c",
+  "figures": [],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|From ultrasoft pseudopotentials to the projector augmented-wave method|\n|短标题|从超软伪势到投影仪增广波方法|\n|作者|[[G. Kresse]]、 [[D. Joubert]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.59.1758](https://doi.org/10.1103/PhysRevB.59.1758)|\n|存档位置|81397|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[方法文献]]|\n|条目链接|[My Library](zotero://select/library/items/JSJTZKPQ)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/UUYDJWEC\">从超软伪势到投影仪增广波方法-silicon-dual</a></li><li><a href=\"zotero://open-pdf/library/items/G2C7GIBQ\">从超软伪势到投影仪增广波方法-silicon-dual-cut</a></li><li><a href=\"zotero://open-pdf/library/items/UGLXUUMM\">Kresse和Joubert - 1999 - From ultrasoft pseudopotentials to the projector augmented-wave method.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/H25FQ6XE\">Kresse和Joubert - 1999 - From ultrasoft pseudopotentials to the projector augmented-wave method.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/X2QIMHAL\">Kresse和Joubert - 1999 - From ultrasoft pseudopotentials to the projector augmented-wave method.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq1",
+      "title": "Equation 1",
+      "content": "$$E = \\sum_{n} f_n \\langle \\psi_n | -\\frac{1}{2} \\nabla^2 | \\psi_n \\rangle + E_H[n + n_Z] + E_{xc}[n]. \\quad (1)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq2",
+      "title": "Equation 2",
+      "content": "$$\\langle \\psi_n \\rangle = \\langle \\tilde{\\psi}_n \\rangle + \\sum_{i,j} \\langle \\tilde{\\psi}_n | \\tilde{p}_i \\rangle ( | \\phi_i \\rangle - | \\tilde{\\phi}_i \\rangle ) \\langle \\tilde{p}_j | \\tilde{\\psi}_n \\rangle. \\quad (2)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq3",
+      "title": "Equation 3",
+      "content": "$$n(r) = \\tilde{n}(r) + \\sum_i [n_i(r) - \\tilde{n}_i(r)], \\quad (3)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq4",
+      "title": "Equation 4",
+      "content": "$$\\tilde{n}(r) = \\sum_n f_n \\langle \\tilde{\\psi}_n | r \\rangle \\langle r | \\tilde{\\psi}_n \\rangle. \\quad (4)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq5",
+      "title": "Equation 5",
+      "content": "$$n_i(r) = \\sum_{j} r_{ij} \\langle \\phi_i | r \\rangle \\langle r | \\phi_j \\rangle, \\quad (5)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq6",
+      "title": "Equation 6",
+      "content": "$$\\tilde{n}_i(r) = \\sum_{j} r_{ij} \\langle \\tilde{\\phi}_i | r \\rangle \\langle r | \\tilde{\\phi}_j \\rangle. \\quad (6)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq7",
+      "title": "Equation 7",
+      "content": "$$r_{ij} = \\sum_n f_n \\langle \\tilde{\\psi}_n | \\tilde{p}_i \\rangle \\langle \\tilde{p}_j | \\tilde{\\psi}_n \\rangle. \\quad (7)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq8",
+      "title": "Equation 8",
+      "content": "$$n_{Zc} = n_Z + n_c. \\quad (8)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq9",
+      "title": "Equation 9",
+      "content": "$$\\int_{V_r} n_{Zc}(r) d^3r = \\int_{V_r} \\tilde{n}_{Zc}(r) dr, \\quad (9)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq10",
+      "title": "Equation 10",
+      "content": "$$n_T = \\tilde{n}_T + (n_{1T} - \\tilde{n}_{1T}) + \\hat{n}, \\quad (10)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq11",
+      "title": "Equation 11",
+      "content": "$$\\frac{1}{2} \\langle n_T | n_T \\rangle = \\frac{1}{2} \\langle \\tilde{n}_T | \\tilde{n}_T \\rangle + \\langle n_T - \\tilde{n}_T | \\tilde{n}_T \\rangle + \\frac{1}{2} \\langle n_T - \\tilde{n}_T | n_T - \\tilde{n}_T \\rangle, \\quad (11)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq12",
+      "title": "Equation 12",
+      "content": "$$\\langle a | b \\rangle = \\int dr dr' \\frac{a(r)b(r')}{|r-r'|}. \\quad (12)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq13",
+      "title": "Equation 13",
+      "content": "$$\\langle n_{1T} - \\tilde{n}_{1T} | \\tilde{n}_T - \\tilde{n}_{1T} \\rangle. \\quad (13)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq14",
+      "title": "Equation 14",
+      "content": "$$\\frac{1}{2} \\langle \\tilde{n}_T | \\tilde{n}_T \\rangle - \\frac{1}{2} \\langle \\tilde{n}_{1T} | \\tilde{n}_{1T} \\rangle + \\frac{1}{2} \\langle n_{1T} | n_{1T} \\rangle. \\quad (14)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq15",
+      "title": "Equation 15",
+      "content": "$$\\frac{1}{2} \\langle \\tilde{n}_1 + \\hat{n} | \\tilde{n}_1 + \\hat{n} \\rangle + \\langle \\tilde{n}_{Zc} | \\tilde{n}_1 + \\hat{n} \\rangle + \\frac{1}{2} \\langle \\tilde{n}_{Zc} | \\tilde{n}_{Zc} \\rangle = \\frac{1}{2} \\langle \\tilde{n}_1 + \\hat{n} | \\tilde{n}_1 + \\hat{n} \\rangle + \\langle \\tilde{n}_{Zc} | \\tilde{n}_1 + \\hat{n} \\rangle + \\frac{1}{2} \\langle \\tilde{n}_{Zc} | \\tilde{n}_{Zc} \\rangle - U(R, Z_{ion}), \\quad (15)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq16",
+      "title": "Equation 16",
+      "content": "$$-\\frac{1}{2} \\langle \\tilde{n}_1 + \\hat{n} | \\tilde{n}_1 + \\hat{n} \\rangle - \\langle \\tilde{n}_{Zc} | \\tilde{n}_1 + \\hat{n} \\rangle - \\frac{1}{2} \\langle \\tilde{n}_{Zc} | \\tilde{n}_{Zc} \\rangle. \\quad (16)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq17",
+      "title": "Equation 17",
+      "content": "$$\\frac{1}{2} \\langle n_1 | n_1 \\rangle + \\langle n_{Zc} | n_1 \\rangle + \\frac{1}{2} \\langle n_{Zc} | n_{Zc} \\rangle. \\quad (17)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq18",
+      "title": "Equation 18",
+      "content": "$$n_c + n = (\\tilde{n} + \\hat{n} + \\tilde{n}_c) + (n_1 + n_c) - (\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c). \\quad (18)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq19",
+      "title": "Equation 19",
+      "content": "$$E_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c] + \\overline{E_{xc}[n_1 + n_c]} - \\overline{E_{xc}[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c]}, \\quad (19)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq20",
+      "title": "Equation 20",
+      "content": "$$E_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c + n_1 + n_c - (\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c)] - E_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c] - \\overline{E_{xc}[n_1 + n_c]} + \\overline{E_{xc}[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c]}.$$",
+      "page": "-"
+    },
+    {
+      "id": "eq21",
+      "title": "Equation 21",
+      "content": "$$\\int_{V_r} [ v_{xc}[n_1 + n_c] - v_{xc}[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c] ] (\\tilde{n} - \\tilde{n}_1) dr.$$",
+      "page": "-"
+    },
+    {
+      "id": "eq22",
+      "title": "Equation 22",
+      "content": "$$E = \\tilde{E} + E_1 - \\tilde{E}_1, \\quad (20)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq23",
+      "title": "Equation 23",
+      "content": "$$\\tilde{E} = \\sum_n f_n \\langle \\tilde{\\psi}_n | -\\frac{1}{2} \\nabla^2 | \\tilde{\\psi}_n \\rangle + E_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c] + E_H[\\tilde{n} + \\hat{n}] + \\int v_H[\\tilde{n}_{Zc}] (\\tilde{n}(r) + \\hat{n}(r)) dr + U(R, Z_{ion}), \\quad (21)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq24",
+      "title": "Equation 24",
+      "content": "$$\\tilde{E}_1 = \\sum_{i,j} r_{ij} [ \\langle \\tilde{\\phi}_i | -\\frac{1}{2} \\nabla^2 | \\tilde{\\phi}_j \\rangle + \\overline{E_{xc}[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c]} + \\overline{E_H[\\tilde{n}_1 + \\hat{n}]} + \\int_{V_r} v_H[\\tilde{n}_{Zc}] (\\tilde{n}_1(r) + \\hat{n}(r)) dr ], \\quad (22)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq25",
+      "title": "Equation 25",
+      "content": "$$E_1 = \\sum_{i,j} r_{ij} [ \\langle \\phi_i | -\\frac{1}{2} \\nabla^2 | \\phi_j \\rangle + \\overline{E_{xc}[n_1 + n_c]} + \\overline{E_H[n_1]} + \\int_{V_r} v_H[n_{Zc}] n_1(r) dr ]. \\quad (23)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq26",
+      "title": "Equation 26",
+      "content": "$$v_H[n](r) = \\int \\frac{n(r')}{|r-r'|} dr',$$",
+      "page": "-"
+    },
+    {
+      "id": "eq27",
+      "title": "Equation 27",
+      "content": "$$E_H[n] = \\frac{1}{2} \\langle n | n \\rangle = \\frac{1}{2} \\int dr \\int dr' \\frac{n(r)n(r')}{|r-r'|}.$$",
+      "page": "-"
+    },
+    {
+      "id": "eq28",
+      "title": "Equation 28",
+      "content": "$$\\int_{V_r} (n_1 - \\tilde{n}_1 - \\hat{n}) |r-R|^L Y_L^*(\\hat{r-R}) dr = 0. \\quad (24)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq29",
+      "title": "Equation 29",
+      "content": "$$Q_{ij}(r) = \\phi_i^_(r)\\phi_j(r) - \\tilde{\\phi}_i^_(r)\\tilde{\\phi}_j(r), \\quad (25)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq30",
+      "title": "Equation 30",
+      "content": "$$q_{iLj} = \\int_{V_r} Q_{ij}(r) |r-R|^L Y_L^*(\\hat{r-R}) dr, \\quad (26)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq31",
+      "title": "Equation 31",
+      "content": "$$\\hat{n} = \\sum_{i,j,L} r_{ij} \\hat{Q}_{iLj}(r), \\quad (27)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq32",
+      "title": "Equation 32",
+      "content": "$$\\hat{Q}_{iLj}(r) = q_{iLj} g_l(|r-R|) Y_L(\\hat{r-R}),$$",
+      "page": "-"
+    },
+    {
+      "id": "eq33",
+      "title": "Equation 33",
+      "content": "$$E_{xc}[n_a + n_c] + E_H[n_a] - \\int [ v_{xc}[n_a + n_c] + v_H[n_a] ] (n_1(r) - n_a(r)) dr. \\quad (28)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq34",
+      "title": "Equation 34",
+      "content": "$$C + \\sum_{i,j} r_{ij} \\langle \\phi_i | v_{xc}[n_a + n_c] + v_H[n_a] | \\phi_j \\rangle, \\quad (29)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq35",
+      "title": "Equation 35",
+      "content": "$$E_1 \\approx C + \\sum_{i,j} r_{ij} \\langle \\phi_i | -\\frac{1}{2} \\nabla^2 + v_{eff}^a | \\phi_j \\rangle, \\quad (30)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq36",
+      "title": "Equation 36",
+      "content": "$$v_{eff}^a = v_H[n_a + n_{Zc}] + v_{xc}[n_a + n_c]. \\quad (31)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq37",
+      "title": "Equation 37",
+      "content": "$$\\tilde{E}_1 \\approx \\tilde{C} + \\sum_{i,j} r_{ij} [ \\langle \\tilde{\\phi}_i | -\\frac{1}{2} \\nabla^2 + \\tilde{v}_{eff}^a | \\tilde{\\phi}_j \\rangle + \\int \\hat{Q}_{iLj}(r) \\tilde{v}_{eff}^a(r) dr ], \\quad (32)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq38",
+      "title": "Equation 38",
+      "content": "$$\\tilde{v}_{eff}^a = v_H[\\tilde{n}_a + \\hat{n}_a + \\tilde{n}_{Zc}] + v_{xc}[\\tilde{n}_a + \\hat{n}_a + \\tilde{n}_c]. \\quad (32)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq39",
+      "title": "Equation 39",
+      "content": "$$E = \\sum_n f_n \\langle \\tilde{\\psi}_n | -\\frac{1}{2} \\nabla^2 | \\tilde{\\psi}_n \\rangle + \\sum_{i,j} \\langle \\tilde{\\psi}_n | \\tilde{p}_i \\rangle G_{ij}^{US} \\langle \\tilde{p}_j | \\tilde{\\psi}_n \\rangle + E_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c] + E_H[\\tilde{n} + \\hat{n}] + \\int v_H[\\tilde{n}_{Zc}] (\\tilde{n}(r) + \\hat{n}(r)) dr + U(R, Z_{ion}), \\quad (33)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq40",
+      "title": "Equation 40",
+      "content": "$$G_{ij}^{US} = \\langle \\phi_i | -\\frac{1}{2} \\nabla^2 + v_{eff}^a | \\phi_j \\rangle - \\langle \\tilde{\\phi}_i | -\\frac{1}{2} \\nabla^2 + \\tilde{v}_{eff}^a | \\tilde{\\phi}_j \\rangle - \\int \\hat{Q}_{iLj}(r) \\tilde{v}_{eff}^a(r) dr. \\quad (34)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq41",
+      "title": "Equation 41",
+      "content": "$$E_1 - \\tilde{E}_1 = \\sum_{i,j} r_{ij} [ \\langle \\phi_i | -\\frac{1}{2} \\nabla^2 | \\phi_j \\rangle - \\langle \\tilde{\\phi}_i | -\\frac{1}{2} \\nabla^2 | \\tilde{\\phi}_j \\rangle ].$$",
+      "page": "-"
+    },
+    {
+      "id": "eq42",
+      "title": "Equation 42",
+      "content": "$$\\phi_{i}^{NC}(r) = \\begin{cases} H \\phi_i(r) & r < r_{comp}^l \\ \\phi_i(r) & r > r_{comp}^l \\end{cases}, \\quad (36)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq43",
+      "title": "Equation 43",
+      "content": "$$\\hat{Q}_{iLj}(r) = \\phi_{i}^{NC*}(r)\\phi_{j}^{NC}(r) - \\tilde{\\phi}_i^*(r)\\tilde{\\phi}_j(r). \\quad (37)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq44",
+      "title": "Equation 44",
+      "content": "$$\\langle \\tilde{\\psi}_n | S | \\tilde{\\psi}_m \\rangle = \\delta_{nm}, \\quad (38)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq45",
+      "title": "Equation 45",
+      "content": "$$S = 1 + \\sum_{i,j} | \\tilde{p}_i \\rangle q_{ij} \\langle \\tilde{p}_j |, \\quad (39)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq46",
+      "title": "Equation 46",
+      "content": "$$q_{ij} = \\langle \\phi_i | \\phi_j \\rangle - \\langle \\tilde{\\phi}_i | \\tilde{\\phi}_j \\rangle = \\Delta p q_{ij}^0. \\quad (40)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq47",
+      "title": "Equation 47",
+      "content": "$$\\frac{\\delta E}{\\delta \\tilde{\\rho}} = H. \\quad (41)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq48",
+      "title": "Equation 48",
+      "content": "$$\\frac{\\delta E}{\\delta \\tilde{\\rho}} = \\frac{\\delta \\tilde{E}}{\\delta \\tilde{\\rho}} + \\frac{\\delta E_1}{\\delta \\tilde{\\rho}} - \\frac{\\delta \\tilde{E}_1}{\\delta \\tilde{\\rho}}. \\quad (42)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq49",
+      "title": "Equation 49",
+      "content": "$$\\tilde{v}_{eff} = v_H[\\tilde{n} + \\hat{n} + \\tilde{n}_{Zc}] + v_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c]. \\quad (43)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq50",
+      "title": "Equation 50",
+      "content": "$$\\hat{D}_{ij} = \\frac{\\partial \\tilde{E}}{\\partial r_{ij}} = \\int \\frac{\\delta \\tilde{E}}{\\delta \\hat{n}(r)} \\frac{\\partial \\hat{n}(r)}{\\partial r_{ij}} dr = \\sum_L \\int \\tilde{v}_{eff}(r) \\hat{Q}_{iLj}(r) dr. \\quad (44)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq51",
+      "title": "Equation 51",
+      "content": "$$D_{ij} = \\frac{\\partial E_1}{\\partial r_{ij}} = \\langle \\phi_i | -\\frac{1}{2} \\nabla^2 + v_{1eff} | \\phi_j \\rangle, \\quad (45)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq52",
+      "title": "Equation 52",
+      "content": "$$v_{1eff}[n_1] = v_H[n_1 + n_{Zc}] + v_{xc}[n_1 + n_c]. \\quad (45)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq53",
+      "title": "Equation 53",
+      "content": "$$\\tilde{D}_{1ij} = \\frac{\\partial \\tilde{E}_1}{\\partial r_{ij}} = \\langle \\tilde{\\phi}_i | -\\frac{1}{2} \\nabla^2 + \\tilde{v}_{eff1} | \\tilde{\\phi}_j \\rangle + \\sum_L \\int_{V_r} \\tilde{v}_{eff1}(r) \\hat{Q}_{iLj}(r), \\quad (46)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq54",
+      "title": "Equation 54",
+      "content": "$$\\tilde{v}_{eff1}[\\tilde{n}_1] = v_H[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_{Zc}] + v_{xc}[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c]. \\quad (46)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq55",
+      "title": "Equation 55",
+      "content": "$$H(r, {R}) = -\\frac{1}{2} \\nabla^2 + \\tilde{v}_{eff} + \\sum_{i,j} | \\tilde{p}_i \\rangle ( \\hat{D}_{ij} + D_{ij} - \\tilde{D}_{1ij} ) \\langle \\tilde{p}_j |. \\quad (47)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq56",
+      "title": "Equation 56",
+      "content": "$$\\tilde{E}_{dc} = 2 E_H[\\tilde{n} + \\hat{n}] + E_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c] - \\int v_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c] (\\tilde{n} + \\hat{n}) dr, \\quad (48)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq57",
+      "title": "Equation 57",
+      "content": "$$E_{dc1} = 2 E_H[n_1] + E_{xc}[n_1 + n_c] - \\int_{V_r} v_{xc}[n_1 + n_c] n_1 dr,$$",
+      "page": "-"
+    },
+    {
+      "id": "eq58",
+      "title": "Equation 58",
+      "content": "$$\\tilde{E}_{dc1} = 2 E_H[\\tilde{n}_1 + \\hat{n}] + E_{xc}[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c] - \\int_{V_r} v_{xc}[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c] (\\tilde{n}_1 + \\hat{n}) dr. \\quad (48)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq59",
+      "title": "Equation 59",
+      "content": "$$E = \\sum_n f_n \\langle \\tilde{\\psi}_n | H | \\tilde{\\psi}_n \\rangle + \\tilde{E}_{dc} + E_{dc1} - \\tilde{E}_{dc1} + U(R, Z_{ion}). \\quad (49)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq60",
+      "title": "Equation 60",
+      "content": "$$F = -\\frac{dE}{dR}. \\quad (50)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq61",
+      "title": "Equation 61",
+      "content": "$$\\frac{dE}{dR} = \\sum_n f_n \\langle \\tilde{\\psi}_n | \\frac{\\partial H}{\\partial R} - \\epsilon_n \\frac{\\partial S}{\\partial R} | \\tilde{\\psi}_n \\rangle + \\frac{\\partial U(R, Z_{ion})}{\\partial R}. \\quad (51)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq62",
+      "title": "Equation 62",
+      "content": "$$F_1 = -\\int \\frac{\\delta \\text{Tr}[H \\tilde{\\rho}]}{\\delta v_H[\\tilde{n}_{Zc}](r)} \\frac{\\partial v_H[\\tilde{n}_{Zc}](r)}{\\partial R} dr. \\quad (52)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq63",
+      "title": "Equation 63",
+      "content": "$$F_1 = -\\int [ \\tilde{n}(r) + \\sum_{i,j,L} \\hat{Q}_{iLj}(r) r_{ij} ] \\frac{\\partial v_H[\\tilde{n}_{Zc}](r)}{\\partial R} dr = -\\int [ \\tilde{n}(r) + \\hat{n}(r) ] \\frac{\\partial v_H[\\tilde{n}_{Zc}](r)}{\\partial R} dr. \\quad (53)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq64",
+      "title": "Equation 64",
+      "content": "$$F_2 = -\\sum_{i,j,L} \\int \\tilde{v}_{eff}(r) r_{ij} q_{iLj} \\frac{\\partial g_l(|r-R|) Y_L(\\hat{r-R})}{\\partial R} dr. \\quad (54)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq65",
+      "title": "Equation 65",
+      "content": "$$F_3 = -\\sum_{i,j} ( \\hat{D}_{ij} + D_{ij} - \\tilde{D}_{1ij} - \\epsilon_n q_{ij} ) \\sum_n f_n \\langle \\tilde{\\psi}_n | \\frac{\\partial | \\tilde{p}_i \\rangle \\langle \\tilde{p}_j |}{\\partial R} | \\tilde{\\psi}_n \\rangle. \\quad (55)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq66",
+      "title": "Equation 66",
+      "content": "$$F_{nlcc} = -\\int v_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c] \\frac{\\partial \\tilde{n}_c(r)}{\\partial R} dr. \\quad (56)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq67",
+      "title": "Equation 67",
+      "content": "$$\\tilde{\\phi}_{lk}(r) = \\begin{cases} \\sum_i a_{il} j_l(q_i r) & r < r_{lc} \\ \\phi_{lk}(r) & r > r_{lc} \\end{cases} \\quad (57)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq68",
+      "title": "Equation 68",
+      "content": "$$\\tilde{v}_{eff}^a = \\frac{A \\sin(q_{loc} r)}{r} \\text{ for } r < r_{loc}, \\quad (58)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq69",
+      "title": "Equation 69",
+      "content": "$$\\tilde{n}_c = \\sum_{i=1,2} B_i \\frac{\\sin(q_i r)}{r}. \\quad (59)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq70",
+      "title": "Equation 70",
+      "content": "$$v_H[\\tilde{n}_{Zc}] = \\tilde{v}_{eff}^a - v_H[\\tilde{n}_a + \\hat{n}_a] - v_{xc}[\\tilde{n}_a + \\hat{n}_a + \\tilde{n}_c]. \\quad (60)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq71",
+      "title": "Equation 71",
+      "content": "$$g_l(r) = \\sum_{i=1,2} a_{il} j_l(q_{il} r). \\quad (61)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq72",
+      "title": "Equation 72",
+      "content": "$$\\int_0^{r_{comp}} g_l(r) r^{l+2} dr = 1. \\quad (62)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq73",
+      "title": "Equation 73",
+      "content": "$$\\frac{d}{dr} j_l(q_{il} r) |_{r=r_{comp}} = 0, \\quad (63)$$",
+      "page": "-"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": [
+    "第一性原理",
+    "DFT",
+    "first-principles"
+  ]
+}

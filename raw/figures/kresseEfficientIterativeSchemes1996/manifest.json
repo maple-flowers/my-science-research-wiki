@@ -1,0 +1,105 @@
+{
+  "parent_key": "kresseEfficientIterativeSchemes1996",
+  "title": "kresseEfficientIterativeSchemes1996",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. Convergence of the forces �in eV/Å) for different algo-rithms for fcc-Fe �four cells�. ‘‘out’’—output charge density was used for the calculation, ‘‘mix’’—mixed charge density was used, and ‘‘opt’’—is the optimized scheme explained in the text.Formula 29 · 第 6 页�29�Formula 27 · 第 6 页�27�Form",
+      "page": "6",
+      "attachment_key": "66K49Z8L",
+      "file": "fig_1_66K49Z8L.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. Convergence of the total free energy E �in eV�for the RMM-DIIS algorithm for the cd-C, non-self-consistent case �no division by the number of atoms has been done�. ‘‘one cell’’ cor-responds to a cubic supercell containing eight atoms, for ‘‘x cells’’ the cell has been multiplied in one direc",
+      "page": "12",
+      "attachment_key": "8WTL8C32",
+      "file": "fig_2_8WTL8C32.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3. Convergence of the total free energy E �in eV�for the RMM-DIIS algorithm �full curve�and for the CGa scheme �broken curve�for fcc-Fe, non-self-consistent case. ‘‘one cell’’ corresponds to a cubic supercell containing four atoms, for ‘‘x cells’’ the cell has been multiplied in one direction x",
+      "page": "13",
+      "attachment_key": "25BECABX",
+      "file": "fig_3_25BECABX.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "FIG. 4. Top panel—convergence of the total free energy E �in eV�for the RMM-DIIS �full curve�and the CGa algorithm �broken curve�for cd-C, self-consistent case. The RMM-DIIS algorithm uses a self-consistency cycle, whereas the CGa algorithm mini-mizes the KS functional directly. Lower panel—converge",
+      "page": "13",
+      "attachment_key": "5JWVPENW",
+      "file": "fig_4_5JWVPENW.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "FIG. 5. Top panel—convergence of the total free energy E �in eV�for the RMM-DIIS �full curve�and the CGa algorithm �broken curve�for fcc-Fe, self-consistent case. The RMM-DIIS algorithm uses a self-consistency cycle, whereas the CGa algorithm mini-mizes the KS functional directly. Lower panel—conver",
+      "page": "14",
+      "attachment_key": "HAVBDWBL",
+      "file": "fig_5_HAVBDWBL.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "FIG. 6. Convergence of the total free energy E �in eV�for the RMM-DIIS �full curve�and the CGa �broken curve�algorithm for fcc-Al, self-consistent case. The RMM-DIIS algorithm uses a self-consistency cycle, whereas the CGa algorithm minimizes the KS functional directly.Formula 3 · 第 17 页�A3�Formula ",
+      "page": "16",
+      "attachment_key": "RZFDDA3Q",
+      "file": "fig_6_RZFDDA3Q.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Efficient iterative schemes for <i>ab initio</i> total-energy calculations using a plane-wave basis set|\n|短标题|使用平面波基集进行<i>从头开始</i>总能量计算的高效迭代方案|\n|作者|[[G. Kresse]]、 [[J. Furthmüller]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.54.11169](https://doi.org/10.1103/PhysRevB.54.11169)|\n|存档位置|113172|\n|文库编目|3.7|\n|索书号|2|\n|版权|http://link.aps.org/licenses/aps-default-license|\n|分类||\n|条目链接|[My Library](zotero://select/library/items/KD8WATIB)|\n|PDF 附件|[全文](zotero://open-pdf/library/items/TQFDZIGQ)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread",
+    "参考文献-layer"
+  ],
+  "materials": [],
+  "methods": []
+}

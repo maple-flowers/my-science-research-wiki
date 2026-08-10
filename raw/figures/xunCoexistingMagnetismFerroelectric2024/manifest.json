@@ -1,0 +1,121 @@
+{
+  "parent_key": "xunCoexistingMagnetismFerroelectric2024",
+  "title": "xunCoexistingMagnetismFerroelectric2024",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "磁性、铁电性和铁谷性多铁性共存机制的示意图",
+      "llm_description": "",
+      "page": "2",
+      "attachment_key": "FSNCTE7A",
+      "file": "fig_1_FSNCTE7A.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "In2Se3",
+        "TMDs"
+      ],
+      "methods": [
+        "AFM",
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "2",
+      "title": "单层GdI2的晶体结构、电子性质及谷极化特性",
+      "llm_description": "",
+      "page": "2",
+      "attachment_key": "T62B3YWS",
+      "file": "fig_2_T62B3YWS.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "In2Se3",
+        "TMDs"
+      ],
+      "methods": [
+        "AFM",
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "3",
+      "title": "双层GdI2的滑动能垒、磁性相变及全二维空间磁基态图",
+      "llm_description": "",
+      "page": "3",
+      "attachment_key": "5XFIKMXH",
+      "file": "fig_3_5XFIKMXH.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "In2Se3",
+        "TMDs"
+      ],
+      "methods": [
+        "AFM",
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "4",
+      "title": "轨道依赖的层间交换相互作用示意图及微观磁耦合机制",
+      "llm_description": "",
+      "page": "4",
+      "attachment_key": "FPDRWNLJ",
+      "file": "fig_4_FPDRWNLJ.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "In2Se3",
+        "TMDs"
+      ],
+      "methods": [
+        "AFM",
+        "DFT"
+      ]
+    },
+    {
+      "fig_number": "5",
+      "title": "双层GdI2在SOC效应下的自旋分辨能带结构和贝里曲率",
+      "llm_description": "",
+      "page": "5",
+      "attachment_key": "PUGGDWWK",
+      "file": "fig_5_PUGGDWWK.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [
+        "In2Se3",
+        "TMDs"
+      ],
+      "methods": [
+        "AFM",
+        "DFT"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensional Materials|\n|短标题|堆叠相关二维材料中共存的磁性、铁电性和铁谷多铁性|\n|作者|[[Wei Xun]]、 [[Chao Wu]]、 [[Hanbo Sun]]、 [[Weixi Zhang]]、 [[Yin-Zhong Wu]]、 [[Ping Li]]|\n|期刊名称|[[Nano Letters]]|\n|DOI|[10.1021/acs.nanolett.4c00597](https://doi.org/10.1021/acs.nanolett.4c00597)|\n|存档位置|157|\n|文库编目|9.1|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/XA5R9IDE)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/CL4KYHMR\">Xun 等 - 2024 - Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensio</a></li><li><a href=\"zotero://open-pdf/library/items/JMERBVLP\">Xun 等 - 2024 - Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensio.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "Done"
+  ],
+  "materials": [
+    "In2Se3",
+    "TMDs"
+  ],
+  "methods": [
+    "AFM",
+    "DFT"
+  ]
+}

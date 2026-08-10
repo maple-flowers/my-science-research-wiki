@@ -1,0 +1,105 @@
+{
+  "parent_key": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "title": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "The multiferroic family tree.",
+      "llm_description": "",
+      "page": "2",
+      "attachment_key": "72NEYXQY",
+      "file": "fig_1_72NEYXQY.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Multiferroic composite architectures.",
+      "llm_description": "",
+      "page": "3",
+      "attachment_key": "6Z4CTR5B",
+      "file": "fig_2_6Z4CTR5B.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "The Bi2O3–Fe2O3 phase diagram.",
+      "llm_description": "",
+      "page": "4",
+      "attachment_key": "FNXM8C9N",
+      "file": "fig_3_FNXM8C9N.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Ferroelectric domain walls in multiferroics exhibit a wide variety of physical phenomena and are being explored as active elements for future applications.",
+      "llm_description": "",
+      "page": "5",
+      "attachment_key": "SDQSUHVM",
+      "file": "fig_4_SDQSUHVM.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "New fundamental building blocks for multiferroicity.",
+      "llm_description": "",
+      "page": "6",
+      "attachment_key": "NPW4Q6AC",
+      "file": "fig_5_NPW4Q6AC.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "New magnetoelectric multiferroic devices.",
+      "llm_description": "",
+      "page": "6",
+      "attachment_key": "LYRL8TCL",
+      "file": "fig_6_LYRL8TCL.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Advances in magnetoelectric multiferroics|\n|短标题|磁电多铁材料研究进展|\n|作者|[[N. A. Spaldin]]、 [[R. Ramesh]]|\n|期刊名称|[[Nature Materials]]|\n|DOI|[10.1038/s41563-018-0275-2](https://doi.org/10.1038/s41563-018-0275-2)|\n|存档位置|1579|\n|文库编目|38.5|\n|索书号|1|\n|版权||\n|分类|[[04_磁电耦合机制 (Magnetoelectric Coupling)]]|\n|条目链接|[My Library](zotero://select/library/items/UE6AP3HJ)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/MBFULLXG\">全文</a></li><li><a href=\"zotero://open-pdf/library/items/C54D9E72\">Spaldin和Ramesh - 2019 - Advances in magnetoelectric multiferroics.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread",
+    "参考文献-layer"
+  ],
+  "materials": [],
+  "methods": []
+}

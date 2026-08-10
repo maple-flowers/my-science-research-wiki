@@ -1,0 +1,298 @@
+{
+  "parent_key": "wangVASPKITUserfriendlyInterface2021a",
+  "title": "wangVASPKITUserfriendlyInterface2021a",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "VASPKIT 整体结构概览",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "10",
+      "title": "电荷密度差与宏观平均势",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "11",
+      "title": "Cu 的 Fermi 面",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "12",
+      "title": "波函数可视化",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "13",
+      "title": "波段展开流程图",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "14",
+      "title": "MoS₂ 缺陷体系的折叠能带",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "15",
+      "title": "硅的 G₀W₀-之BSE 光光谱",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "16",
+      "title": "二维材料光学导电率",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "17",
+      "title": "联合态密度",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "18",
+      "title": "跃迁偶极矩（TDM）",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "19",
+      "title": "液态水 MD 分析",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "超胞重构",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "k路径自动生成算法与示例",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "后处理模块功能总览",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "弹性常数计算算法流程图",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "金刚石状态方程",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "投影能带与态密度",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "3D 全局能带结构",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "9",
+      "title": "载流子有效质量",
+      "llm_description": "",
+      "page": "-",
+      "attachment_key": null,
+      "file": "",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table><thead><tr><th>章节</th><th>标题</th><th>核心内容</th></tr></thead><tbody><tr><td>1</td><td>Introduction（引言）</td><td>领域背景、现有工具局限、VASPKIT定位</td></tr><tr><td>2</td><td>Capabilities of the Pre-Processing Module</td><td>预处理模块功能解析</td></tr><tr><td>3</td><td>Capabilities of the Post-Processing Module</td><td>后处理模块功能解析（核心章节，含14个子功能）</td></tr><tr><td>4</td><td>High-throughput Capabilities</td><td>高通量能力展示</td></tr><tr><td>5</td><td>Limitations and Future Capabilities</td><td>局限与展望</td></tr><tr><td>6</td><td>Summary（总结）</td><td>全文概括</td></tr></tbody></table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table><thead><tr><th>表号</th><th>内容</th><th>核心维度 / 单位</th></tr></thead><tbody><tr><td>表1</td><td>各大晶系（三斜~立方）对应 SOEC 数量</td><td>21、13、9、6、7、6、5、3</td></tr><tr><td>表2</td><td>2D 晶系的独立弹常数</td><td>斜交 6 / 矩形 4 / 方程 3 / 六角 2</td></tr><tr><td>表3</td><td>PBE 级弹性常数：8 种典型体相材料</td><td>单位 GPa，与文献值对比</td></tr><tr><td>表4</td><td>二维材料的面内弹性常数</td><td>单位 N/m，与文献值对比</td></tr><tr><td>表5</td><td>8 种 EOS 模型的解析公式</td><td>列出 E(V) 与 Bulk modulus</td></tr><tr><td>表6</td><td>载流子有效质量计算结果</td><td>单位 m₀（电子静止质量）</td></tr><tr><td>附录A 五表</td><td>各晶系应变模式与弹性常数的关系式</td><td>对应力矩阵6 各异构）</td></tr><tr><td>附录B 四表</td><td>各 2D 晶系应变模式</td><td>二维刚度矩阵</td></tr></tbody></table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table><thead><tr><th>工具</th><th>编程门槛</th><th>专一性</th><th>预/后能力</th><th>适用对象</th></tr></thead><tbody><tr><td>VASPKIT</td><td>零基础</td><td>VASP 专门</td><td>前后兼顾</td><td>新手/自动+S高</td></tr><tr><td>pymatgen</td><td>要求Python</td><td>通用 DFT</td><td>偏后+结构分析</td><td>材料程序化研究者</td></tr><tr><td>ASE</td><td>要求 Python</td><td>通用 DFT</td><td>前后均强</td><td>想要构造复杂任务的人</td></tr></tbody></table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|VASPKIT: A user-friendly interface facilitating high-throughput computing and analysis using VASP code|\n|短标题|VASPKIT：用户友好的界面，使用VASP代码促进高通量计算和分析|\n|作者|[[Vei Wang]]、 [[Nan Xu]]、 [[Jin-Cheng Liu]]、 [[Gang Tang]]、 [[Wen-Tong Geng]]|\n|期刊名称|[[Computer Physics Communications]]|\n|DOI|[10.1016/j.cpc.2021.108033](https://doi.org/10.1016/j.cpc.2021.108033)|\n|存档位置|7372|\n|文库编目|3.9|\n|索书号|3|\n|版权||\n|分类|[[07_异质结与隧道结 (Heterostructures/Tunnel Junctions)]]|\n|条目链接|[My Library](zotero://select/library/items/D8MWNZKU)|\n|PDF 附件||\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq1",
+      "title": "Equation 1",
+      "content": "$$\\sigma_i = \\sum_{j=1}^{6} C_{ij}\\varepsilon_j \\quad \\text{(应力-应变线性关系)}$$",
+      "page": "-"
+    },
+    {
+      "id": "eq2",
+      "title": "Equation 2",
+      "content": "$$m^* = \\hbar^2\\left[\\frac{\\partial^2 E(k)}{\\partial k^2}\\right]^{-1}$$",
+      "page": "-"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

@@ -1,0 +1,138 @@
+{
+  "parent_key": "perdewGeneralizedGradientApproximation1996a",
+  "title": "perdewGeneralizedGradientApproximation1996a",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. Enhancement factors of Eq. (15) showing GGA non-locality. Solid curves denote the present GGA, while open circles denote the PW91 of Refs. [4,13,14].\nFormula 9 · 第 2 页\n\n(9)\nFormula 10 · 第 2 页\n\n(10)\nFormula 6 · 第 2 页\n\n(6)\nFormula 4 · 第 2 页\n\n(4)\nFormula 8 · 第 2 页\n\n(8)\nFormula 7 · 第 2 页\n\n(7)\nFo",
+      "page": "2",
+      "attachment_key": "IATPQAFC",
+      "file": "fig_1_IATPQAFC.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": [
+        "第一性原理",
+        "DFT",
+        "first-principles"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table><thead><tr><th style=\"text-align:left\">System</th><th style=\"text-align:left\">$D_E$ UHF</th><th style=\"text-align:left\">$D_E$ LSD</th><th style=\"text-align:left\">$D_E$ PW91</th><th style=\"text-align:left\">$D_E$ PBE</th><th style=\"text-align:left\">$D_E$ expt</th></tr></thead><tbody><tr><td style=\"text-align:left\">$\\text{H}_2$</td><td style=\"text-align:left\">84</td><td style=\"text-align:left\">113</td><td style=\"text-align:left\">105</td><td style=\"text-align:left\">105</td><td style=\"text-align:left\">109</td></tr><tr><td style=\"text-align:left\">$\\text{LiH}$</td><td style=\"text-align:left\">33</td><td style=\"text-align:left\">60</td><td style=\"text-align:left\">53</td><td style=\"text-align:left\">52</td><td style=\"text-align:left\">58</td></tr><tr><td style=\"text-align:left\">$\\text{CH}$</td><td style=\"text-align:left\">328</td><td style=\"text-align:left\">462</td><td style=\"text-align:left\">421</td><td style=\"text-align:left\">420</td><td style=\"text-align:left\">419</td></tr><tr><td style=\"text-align:left\">$\\text{NH}$</td><td style=\"text-align:left\">201</td><td style=\"text-align:left\">337</td><td style=\"text-align:left\">303</td><td style=\"text-align:left\">302</td><td style=\"text-align:left\">297</td></tr><tr><td style=\"text-align:left\">$\\text{OH}$</td><td style=\"text-align:left\">68</td><td style=\"text-align:left\">124</td><td style=\"text-align:left\">110</td><td style=\"text-align:left\">110</td><td style=\"text-align:left\">107</td></tr><tr><td style=\"text-align:left\">$\\text{H}_2\\text{O}$</td><td style=\"text-align:left\">155</td><td style=\"text-align:left\">267</td><td style=\"text-align:left\">235</td><td style=\"text-align:left\">234</td><td style=\"text-align:left\">232</td></tr><tr><td style=\"text-align:left\">$\\text{HF}$</td><td style=\"text-align:left\">97</td><td style=\"text-align:left\">162</td><td style=\"text-align:left\">143</td><td style=\"text-align:left\">142</td><td style=\"text-align:left\">141</td></tr><tr><td style=\"text-align:left\">$\\text{Li}_2$</td><td style=\"text-align:left\">23</td><td style=\"text-align:left\">20</td><td style=\"text-align:left\">19</td><td style=\"text-align:left\">24</td><td style=\"text-align:left\">24</td></tr><tr><td style=\"text-align:left\">$\\text{LiF}$</td><td style=\"text-align:left\">89</td><td style=\"text-align:left\">153</td><td style=\"text-align:left\">137</td><td style=\"text-align:left\">136</td><td style=\"text-align:left\">139</td></tr><tr><td style=\"text-align:left\">$\\text{Be}_2$</td><td style=\"text-align:left\">27</td><td style=\"text-align:left\">13</td><td style=\"text-align:left\">10</td><td style=\"text-align:left\">10</td><td style=\"text-align:left\">3</td></tr><tr><td style=\"text-align:left\">$\\text{C}_2\\text{H}_2$</td><td style=\"text-align:left\">294</td><td style=\"text-align:left\">460</td><td style=\"text-align:left\">415</td><td style=\"text-align:left\">415</td><td style=\"text-align:left\">405</td></tr><tr><td style=\"text-align:left\">$\\text{C}_2\\text{H}_4$</td><td style=\"text-align:left\">428</td><td style=\"text-align:left\">633</td><td style=\"text-align:left\">573</td><td style=\"text-align:left\">571</td><td style=\"text-align:left\">563</td></tr><tr><td style=\"text-align:left\">$\\text{HCN}$</td><td style=\"text-align:left\">199</td><td style=\"text-align:left\">361</td><td style=\"text-align:left\">326</td><td style=\"text-align:left\">326</td><td style=\"text-align:left\">312</td></tr><tr><td style=\"text-align:left\">$\\text{CO}$</td><td style=\"text-align:left\">174</td><td style=\"text-align:left\">299</td><td style=\"text-align:left\">269</td><td style=\"text-align:left\">269</td><td style=\"text-align:left\">259</td></tr><tr><td style=\"text-align:left\">$\\text{N}_2$</td><td style=\"text-align:left\">115</td><td style=\"text-align:left\">267</td><td style=\"text-align:left\">242</td><td style=\"text-align:left\">243</td><td style=\"text-align:left\">229</td></tr><tr><td style=\"text-align:left\">$\\text{NO}$</td><td style=\"text-align:left\">53</td><td style=\"text-align:left\">199</td><td style=\"text-align:left\">171</td><td style=\"text-align:left\">172</td><td style=\"text-align:left\">153</td></tr><tr><td style=\"text-align:left\">$\\text{O}_2$</td><td style=\"text-align:left\">33</td><td style=\"text-align:left\">175</td><td style=\"text-align:left\">143</td><td style=\"text-align:left\">144</td><td style=\"text-align:left\">121</td></tr><tr><td style=\"text-align:left\">$\\text{F}_2$</td><td style=\"text-align:left\">237</td><td style=\"text-align:left\">78</td><td style=\"text-align:left\">54</td><td style=\"text-align:left\">53</td><td style=\"text-align:left\">39</td></tr><tr><td style=\"text-align:left\">$\\text{P}_2$</td><td style=\"text-align:left\">36</td><td style=\"text-align:left\">142</td><td style=\"text-align:left\">120</td><td style=\"text-align:left\">120</td><td style=\"text-align:left\">117</td></tr><tr><td style=\"text-align:left\">$\\text{Cl}_2$</td><td style=\"text-align:left\">17</td><td style=\"text-align:left\">81</td><td style=\"text-align:left\">64</td><td style=\"text-align:left\">63</td><td style=\"text-align:left\">58</td></tr><tr><td style=\"text-align:left\"><strong>Mean abs. error</strong></td><td style=\"text-align:left\"><strong>71.2</strong></td><td style=\"text-align:left\"><strong>31.4</strong></td><td style=\"text-align:left\"><strong>8.0</strong></td><td style=\"text-align:left\"><strong>7.9</strong></td><td style=\"text-align:left\">$\\dots$</td></tr></tbody></table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Generalized Gradient Approximation Made Simple|\n|短标题|广义梯度逼近变得简单|\n|作者|[[John P. Perdew]]、 [[Kieron Burke]]、 [[Matthias Ernzerhof]]|\n|期刊名称|[[Physical Review Letters]]|\n|DOI|[10.1103/PhysRevLett.77.3865](https://doi.org/10.1103/PhysRevLett.77.3865)|\n|存档位置|204214|\n|文库编目|9.4|\n|索书号|1|\n|版权||\n|分类|[[方法文献]]|\n|条目链接|[My Library](zotero://select/library/items/KVVHCH48)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/SS3VMQ3I\">广义梯度逼近变得简单-silicon-dual</a></li><li><a href=\"zotero://open-pdf/library/items/V349QZ8X\">广义梯度逼近变得简单-silicon-dual-cut</a></li><li><a href=\"zotero://open-pdf/library/items/A4FNJKCS\">Perdew 等 - 1996 - Generalized Gradient Approximation Made Simple.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/7W6469EY\">Perdew 等 - 1996 - Generalized Gradient Approximation Made Simple.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/4XYBKAH9\">Perdew 等 - 1996 - Generalized Gradient Approximation Made Simple.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq1",
+      "title": "Equation 1",
+      "content": "$$E_{XC}^{LSD} [n_\\uparrow, n_\\downarrow] = \\int d^3r n \\epsilon_{XC}^{unif} (n_\\uparrow, n_\\downarrow), \\quad (1)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq2",
+      "title": "Equation 2",
+      "content": "$$E_{XC}^{GGA} [n_\\uparrow, n_\\downarrow] = \\int d^3r f(n_\\uparrow, n_\\downarrow, \\nabla n_\\uparrow, \\nabla n_\\downarrow). \\quad (2)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq3",
+      "title": "Equation 3",
+      "content": "$$E_{C}^{GGA} [n_\\uparrow, n_\\downarrow] = \\int d^3r n [ \\epsilon_{C}^{unif}(r_s, \\zeta) + H(r_s, \\zeta, t) ], \\quad (3)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq4",
+      "title": "Equation 4",
+      "content": "$$H \\to (e^2/a_0) b f^3 t^2, \\quad (4)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq5",
+      "title": "Equation 5",
+      "content": "$$H \\to -2\\epsilon_{C}^{unif}, \\quad (5)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq6",
+      "title": "Equation 6",
+      "content": "$$H \\to (e^2/a_0) g f^3 \\ln t^2. \\quad (6)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq7",
+      "title": "Equation 7",
+      "content": "$$H = (e^2/a_0) g f^3 \\left[ 3 \\ln \\left( \\frac{\\Omega}{1 + bt^2/g} \\right) \\left( 1 - \\frac{1 + At^2}{1 + At^2 + A^2t^4} \\right) \\right], \\quad (7)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq8",
+      "title": "Equation 8",
+      "content": "$$A = \\frac{b}{g} \\exp(2\\epsilon_{C}^{unif}/(g f^3 e^2/a_0) - 1). \\quad (8)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq9",
+      "title": "Equation 9",
+      "content": "$$\\frac{2e^2}{a_0} \\int d^3r n f^3 \\left[ 3 \\ln \\left( \\frac{1}{1 + x^2 + (x^2)^2} \\right) \\right], \\quad (9)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq10",
+      "title": "Equation 10",
+      "content": "$$E_{X}^{GGA} [n_\\uparrow, n_\\downarrow] = \\int d^3r n \\epsilon_{X}^{unif}(s) F_X(s), \\quad (10)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq11",
+      "title": "Equation 11",
+      "content": "$$E_X [n_\\uparrow, n_\\downarrow] = \\frac{1}{2} [ E_X [2n_\\uparrow] + E_X [2n_\\downarrow] ]. \\quad (11)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq12",
+      "title": "Equation 12",
+      "content": "$$F_X(s) \\to 1 + m s^2, \\quad (12)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq13",
+      "title": "Equation 13",
+      "content": "$$E_X [n_\\uparrow, n_\\downarrow] \\ge E_{XC} [n_\\uparrow, n_\\downarrow] \\ge - 1.679 e^2 \\int d^3r n^{4/3} \\quad (13)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq14",
+      "title": "Equation 14",
+      "content": "$$F_{Xs}(s) = 1 + \\kappa - \\kappa \\sqrt{1 + m s^2}, \\quad (14)$$",
+      "page": "-"
+    },
+    {
+      "id": "eq15",
+      "title": "Equation 15",
+      "content": "$$E_{XC}^{GGA} [n_\\uparrow, n_\\downarrow] = \\int d^3r n \\epsilon_{X}^{unif}(s) F_{XC}(r_s, \\zeta, s). \\quad (15)$$",
+      "page": "-"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": [
+    "第一性原理",
+    "DFT",
+    "first-principles"
+  ]
+}

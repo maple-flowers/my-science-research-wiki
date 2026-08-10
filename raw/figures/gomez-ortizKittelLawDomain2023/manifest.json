@@ -1,0 +1,133 @@
+{
+  "parent_key": "gomez-ortizKittelLawDomain2023",
+  "title": "gomez-ortizKittelLawDomain2023",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Structural relaxation of a two-domain structure in (PbTiO3)n/(SrTiO3)n superlattices.",
+      "llm_description": "",
+      "page": "3",
+      "attachment_key": "LLIJNGYY",
+      "file": "fig_1_LLIJNGYY.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "ABO3型钙钛矿"
+      ],
+      "methods": [
+        "DFT",
+        "first-principles"
+      ]
+    },
+    {
+      "fig_number": "2",
+      "title": "Optimization of the lateral size of a two-domain structure in (PbTiO3)n/(SrTiO3)n superlattices.",
+      "llm_description": "",
+      "page": "3",
+      "attachment_key": "LTQNPKS3",
+      "file": "fig_2_LTQNPKS3.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "ABO3型钙钛矿"
+      ],
+      "methods": [
+        "DFT",
+        "first-principles"
+      ]
+    },
+    {
+      "fig_number": "3",
+      "title": "(a) Force-constant bands along Γ-X obtained after diagonalization of the force-constant matrix in a (PbTiO3)9/(SrTiO3)9 supercell. (b) Relaxed structure following the strongest instability of the force-constant bands.",
+      "llm_description": "",
+      "page": "4",
+      "attachment_key": "AQKSGHPE",
+      "file": "fig_3_AQKSGHPE.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "ABO3型钙钛矿"
+      ],
+      "methods": [
+        "DFT",
+        "first-principles"
+      ]
+    },
+    {
+      "fig_number": "4",
+      "title": "Energy profile per five atom unit cell as a function of the lateral size of the supercell for the two- (solid dots) and four- (open dots) domain structures.",
+      "llm_description": "",
+      "page": "4",
+      "attachment_key": "99L82559",
+      "file": "fig_4_99L82559.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "ABO3型钙钛矿"
+      ],
+      "methods": [
+        "DFT",
+        "first-principles"
+      ]
+    },
+    {
+      "fig_number": "5",
+      "title": "Polarization map of the relaxed structures labeled from 1 to 4 in Fig. 4 for different lateral sizes L and a layer thickness of n = 12.",
+      "llm_description": "",
+      "page": "4",
+      "attachment_key": "AFTVLW2C",
+      "file": "fig_5_AFTVLW2C.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "ABO3型钙钛矿"
+      ],
+      "methods": [
+        "DFT",
+        "first-principles"
+      ]
+    },
+    {
+      "fig_number": "6",
+      "title": "Polarization map for a n = 14, L = 28 supercell at finite temperature (T = 90 K) and compressive epitaxial strain of −0.5%. (a) Initial two-domain structure configuration. (b) Temporal evolution obtained by molecular dynamics simulations at finite temperature.",
+      "llm_description": "",
+      "page": "5",
+      "attachment_key": "65E4KE6V",
+      "file": "fig_6_65E4KE6V.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "ABO3型钙钛矿"
+      ],
+      "methods": [
+        "DFT",
+        "first-principles"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Kittel law and domain formation mechanism in  <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:msub><mml:mrow><mml:mi>PbTiO</mml:mi></mml:mrow><mml:mn>3</mml:mn></mml:msub><mml:mo>/</mml:mo><mml:msub><mml:mrow><mml:mi>SrTiO</mml:mi></mml:mrow><mml:mn>3</mml:mn></mml:msub></mml:math>  superlattices|\n|短标题|<mml：数学中的Kittel定律和域形成机制xmlns：mml=\"http://www.w3.org/1998/Math/MathML\"><mml：msub><mml：mrow><mml：mi>PbTiO</mml：mi></mml：mrow><mml：mn>3</mml：mn></mml：msub><mml：mo>/</mml：mo><mml：msub><mml：mi>SrTiO</mml：mi></mml：mrow><mml：mn>3</mml：mn></mml：msub></mml：msub>超晶格|\n|作者|[[Fernando Gómez-Ortiz]]、 [[Hugo Aramberri]]、 [[Juan M. López]]、 [[Pablo García-Fernández]]、 [[Jorge Íñiguez]]、 [[Javier Junquera]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.107.174102](https://doi.org/10.1103/PhysRevB.107.174102)|\n|存档位置|7|\n|文库编目|3.7|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/IBDSPQQV)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/2VYAEHS3\">Gómez-Ortiz 等 - 2023 - Kittel law and domain formation mechanism in  mmlmath xmlnsmml=httpwww.w3.org1998MathMathM.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/MZ9EKYA2\">PDF</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [
+    "ABO3型钙钛矿"
+  ],
+  "methods": [
+    "DFT",
+    "first-principles"
+  ]
+}
