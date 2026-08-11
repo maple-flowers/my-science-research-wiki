@@ -6,9 +6,12 @@ export const meta = {
     { title: 'Mapping', detail: 'Map papers to concepts, entities, and topics' },
     { title: 'Synthesis', detail: 'Update wiki/ folder pages with synthesized content' },
     { title: 'Writing analysis', detail: 'Extract academic sentences and rebuild wiki/write/' },
-    { title: 'Indexing', detail: 'Rebuild index.md and topic pages' }
+    { title: 'Indexing', detail: 'Rebuild index.md and topic pages' },
+    { title: 'Cleanup', detail: 'Remove temporary byproduct files from tools/' }
   ]
 }
+
+const GLOBAL_TEMP_INSTRUCTION = "IMPORTANT: If you need to create any temporary scripts, data files, or byproducts, you MUST place them in the 'tools/' directory. Do not create files in the root directory.";
 
 // 1. Discovery Phase
 phase('Discovery')
@@ -18,6 +21,7 @@ log('Scanning raw/note/ for paper list...')
 // We can use the agent() function to run parallel tasks.
 
 const papers = await agent(`
+${GLOBAL_TEMP_INSTRUCTION}
 List all markdown files in 'E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\raw\\note' and extract their citekey, title, year, materials, and methods.
 Return this as a JSON array of objects: {citekey, title, year, materials, methods}.
 `, {
@@ -50,6 +54,7 @@ phase('Mapping')
 log('Scanning wiki folders to map concepts, entities, projects and figures...')
 
 const wikiFiles = await agent(`
+${GLOBAL_TEMP_INSTRUCTION}
 List all existing wiki markdown files in:
 - E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\
 - E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\entities\\
@@ -83,6 +88,7 @@ await pipeline(
     log(`Synthesizing concept: ${conceptFile}`)
     const fullPath = `E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\${conceptFile}`
     await agent(`
+      ${GLOBAL_TEMP_INSTRUCTION}
       Expert materials science researcher task:
       1. Read concept: ${fullPath}.
       2. Find relevant papers in raw/note/ (sliding ferroelectricity, moire, switching, etc.).
@@ -100,6 +106,7 @@ await pipeline(
     log(`Synthesizing entity: ${entityFile}`)
     const fullPath = `E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\entities\\${entityFile}`
     await agent(`
+      ${GLOBAL_TEMP_INSTRUCTION}
       Expert materials science researcher task:
       1. Read entity: ${fullPath}.
       2. Find papers in raw/note/ studying this material/method.
@@ -117,6 +124,7 @@ await pipeline(
     log(`Synthesizing topic: ${topicFile}`)
     const fullPath = `E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\topics\\${topicFile}`
     await agent(`
+      ${GLOBAL_TEMP_INSTRUCTION}
       Expert materials science researcher task:
       1. Read topic file: ${fullPath}.
       2. Identify new findings in raw/note/ related to this research topic.
@@ -135,6 +143,7 @@ await pipeline(
     log(`Updating project progress: ${projectFile}`)
     const fullPath = `E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\projects\\${projectFile}`
     await agent(`
+      ${GLOBAL_TEMP_INSTRUCTION}
       Expert researcher task:
       1. Read project file: ${fullPath}.
       2. Scan raw/note/ and raw/figures/ for any new papers or figures linked to this project's keywords or citekeys.
@@ -153,6 +162,7 @@ await pipeline(
     log(`Updating figure category: ${figureFile}`)
     const fullPath = `E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\figures\\${figureFile}`
     await agent(`
+      ${GLOBAL_TEMP_INSTRUCTION}
       Expert researcher task:
       1. Read figure category file: ${fullPath}.
       2. Scan all raw/figures/*/manifest.json to find new figures, tables, or formulas matching this category's theme.
@@ -170,6 +180,7 @@ log('Intelligently extracting academic writing patterns...')
 // We iterate by year to group things properly.
 // We will let an agent scan all papers and update the yearly wiki/write/ files.
 await agent(`
+  ${GLOBAL_TEMP_INSTRUCTION}
   Expert scientific editor task:
   1. Scan all files in raw/note/*.md.
   2. For each paper, locate the "论文双语转写" (Bilingual Transcription) section.
@@ -184,8 +195,34 @@ await agent(`
 phase('Indexing')
 log('Rebuilding index.md and Topic pages...')
 await agent(`
+  ${GLOBAL_TEMP_INSTRUCTION}
   Rebuild 'E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\index.md' to ensure all newly created topics, concepts, entities, and writing years are perfectly cross-linked.
   Update the statistics (e.g., "共计 X 篇论文卡片", "收录 X 幅图表") based on the current filesystem state.
+`)
+
+// 6. Cleanup Phase
+phase('Cleanup')
+log('Cleaning up temporary byproduct files in tools/...')
+await agent(`
+  Identify and delete any temporary byproduct files in the 'E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\tools' directory.
+
+  PERMANENT FILES (DO NOT DELETE):
+  - update_raw_assets.py
+  - generate_writing_wiki.py
+  - run_ingest.py
+  - __pycache__
+
+  TEMPORARY BYPRODUCTS (DELETE THESE):
+  - results.json
+  - extract.js
+  - extract_all.js
+  - extract_data.py
+  - extract_data_final.py
+  - openalex_papers.json
+  - papers_summary.json
+  - Any other newly created temporary files or scripts created during this workflow.
+
+  Note: Also check the root directory 'E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki' and move/delete any missed byproduct files like extract.js or results.json that might have been created there.
 `)
 
 log('Wiki Update Workflow completed successfully!')
