@@ -1,13 +1,177 @@
 # 实验测试与测量装置 (Experimental Setups & Measurements)
 
 > 收录实验测试装置原理图、PFM/STM 等测量手段示意图、测量电路回路、测试样品制备流程相关的图表、数据表及物理公式。
-> 共收录相关条目 **34** 个（图: 0, 表: 29, 公式: 5）。
+> 共收录相关条目 **53** 个（图: 13, 表: 32, 公式: 8）。
 
 [[_index|← 返回总索引]]
 
 ---
 
+## 🖼️ 示意图 (Figures)
+
+### zhaoRealization2DMultiferroic2024 - Figure 2
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Figure 2 |
+| 描述 | Schematic flowchart of the high-throughput first-principles calculations to screen the ferroic materials among the intercalation compounds AM2X4. |
+| 标签 | High-throughput, DFT, Flowchart, Screening |
+| 材料 | AM2X4 |
+| 方法 | First-principles calculations |
+| 链接 | [PDF](zotero://open-pdf/library/items/MNI5774G) |
+
+### RecentAdvancesGrowth2025 - Figure 4
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Figure 4 |
+| 描述 | Vapour-phase deposition approaches for 2D layered materials such as chalcogenides and chlogenides. (a) Chemical vapour deposition (CVD), (b) Physical vapour deposition (PVD), (c) Molecular beam epitaxy (MBE), (d) Atomic-layer deposition (ALD). |
+| 标签 | CVD, MBE, ALD, PVD, Growth |
+| 材料 | Chalcogenides |
+| 方法 | Vapour-phase deposition |
+| 链接 | [PDF](zotero://open-pdf/library/items/6Q2I2L7R) |
+
+### RecentAdvancesGrowth2025 - Figure 10
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Figure 10 |
+| 描述 | Fabrication of electrical devices with few-layer NiI2. Schematic fabrication of the NiI2 Hall bar, referring to flake pick-up and transfer, stacking hBN/graphene/NiI2/hBN, patterning, etching. |
+| 标签 | Fabrication, Hall bar, Device |
+| 材料 | NiI2, hBN, Graphene |
+| 方法 | Pick-up, Transfer, Etching |
+| 链接 | [PDF](zotero://open-pdf/library/items/6Q2I2L7R) |
+
+### RecentAdvancesGrowth2025 - Figure 12
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Figure 12 |
+| 描述 | Schematic diagrams of terahertz reflection measurements conducted on NiI2: (a) transmission and (b) reflection. |
+| 标签 | Terahertz, Measurement, Setup |
+| 材料 | NiI2 |
+| 方法 | THz Time-domain spectroscopy |
+| 链接 | [PDF](zotero://open-pdf/library/items/6Q2I2L7R) |
+
+### RecentAdvancesGrowth2025 - Figure 13
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Figure 13 |
+| 描述 | X-ray and electron diffraction of NiI2 crystals. XRD of a NiI2 single crystal and powder. TEM electron diffraction pattern. |
+| 标签 | XRD, TEM, Characterization |
+| 材料 | NiI2 |
+| 方法 | XRD, TEM |
+| 链接 | [PDF](zotero://open-pdf/library/items/6Q2I2L7R) |
+
+### RecentAdvancesGrowth2025 - Figure 14
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Figure 14 |
+| 描述 | Atomic force microscopy (AFM) measurements on few-layer NiI2 crystals. Optical and AFM images showing layer thickness. |
+| 标签 | AFM, Microscopy |
+| 材料 | NiI2 |
+| 方法 | AFM |
+| 链接 | [PDF](zotero://open-pdf/library/items/6Q2I2L7R) |
+
+### Chen2016electrical - Figure 5
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Figure 5 |
+| 描述 | Non-destructive readout of ferroelectric polarization. (d) Sketch of photovoltaic measurement setup. (e) Photovoltaic current of BiFeO3 with upward/downward polarization. |
+| 标签 | Photovoltaic, Readout, Measurement |
+| 材料 | BiFeO3 |
+| 方法 | Photovoltaic measurement |
+| 链接 | [PDF](zotero://open-pdf/library/items/3DYI89CL) |
+
+### cuiIntercorrelatedInplaneOutofplane2018a - Figure 1
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Figure 1 |
+| 描述 | Synthesis & structure characterization of 2D In2Se3. (a) Schematic illustration of the growth process with Se and In2O3 as precursors on mica. |
+| 标签 | CVD, Growth, In2Se3 |
+| 材料 | In2Se3, Mica |
+| 方法 | CVD |
+| 链接 | [PDF](zotero://open-pdf/library/items/KDVQBBQG) |
+
+### cuiIntercorrelatedInplaneOutofplane2018a - Figure 2
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Figure 2 |
+| 描述 | PFM investigation of as-grown In2Se3 on mica. IP PFM amplitude and phase images showing domain structures. |
+| 标签 | PFM, Microscopy, In2Se3 |
+| 材料 | In2Se3 |
+| 方法 | PFM |
+| 链接 | [PDF](zotero://open-pdf/library/items/KDVQBBQG) |
+
+### cuiIntercorrelatedInplaneOutofplane2018a - Figure 3
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Figure 3 |
+| 描述 | Ferroelectric switching of In2Se3 flake. (a) Schematic model of IP and OOP switching coupling. |
+| 标签 | Switching, Model, Coupling |
+| 材料 | In2Se3 |
+| 方法 | PFM Switching |
+| 链接 | [PDF](zotero://open-pdf/library/items/KDVQBBQG) |
+
+### cuiIntercorrelatedInplaneOutofplane2018a - Figure 4
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Figure 4 |
+| 描述 | Electrically controlled conducting behavior of In2Se3. CAFM mapping images. |
+| 标签 | CAFM, Conductivity |
+| 材料 | In2Se3 |
+| 方法 | CAFM |
+| 链接 | [PDF](zotero://open-pdf/library/items/KDVQBBQG) |
+
+### chenHafniumBasedFerroelectricPostMoore2026 - Figure 3
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Figure 3 |
+| 描述 | Fabrication diagram of hafnium-based devices. (c) Process flow of AFE HZO-based devices. |
+| 标签 | Fabrication, HfO2, Process |
+| 材料 | HZO |
+| 方法 | ALD, Lithography |
+| 链接 | [PDF](zotero://open-pdf/library/items/433WZ49M) |
+
+### chenHafniumBasedFerroelectricPostMoore2026 - Figure 4
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Figure 4 |
+| 描述 | Structure of hafnium-based ferroelectric devices. (a) MFS FeFET, (b) MFMIS FeFET, (d) Pt/SiO2/HZO/TiN FTJ. |
+| 标签 | FeFET, FTJ, Device Structure |
+| 材料 | HZO, TiN, SiO2 |
+| 方法 | Device Engineering |
+| 链接 | [PDF](zotero://open-pdf/library/items/433WZ49M) |
+
 ## 📊 数据表 (Tables)
+### aiFerroelectricityCoexistedPorbital2022 - Table T1
+| 步骤 | 核心问题 | 方法/内容 | 关键结论 |
+| :-- | :-- | :-- | :-- |
+| **1. 提出设计** | 如何绕过d0规则，实现铁电与磁性的共存？ | 设计p轨道元素（N）参与的非中心对称结构 | 设计出稳定的二维X₂NO₂ (X = In, Tl)材料，其结构与In₂Se₃类似。 |
+| **2. 性质验证** | 设计的材料是否稳定？是否具备预期性质？ | 第一性原理计算（DFT）、声子谱、分子动力学模拟 | 材料具有动力学、热力学和机械稳定性。Tl₂NO₂同时表现出本征铁电性和由N-2p电子主导的强铁磁性及金属性，居里温度高于室温。 |
+| **3. 机理揭示** | p电子如何产生铁磁性？铁电性来源是什么？ | 电子结构分析（能带、态密度）、Stoner判据 | 费米能级附近相对局域的N-2p电子满足Stoner判据，驱动了巡游铁磁性。N离子的非中心偏移导致铁电性。两者均源于N离子，自然兼容。 |
+| **4. 功能拓展** | 眼前铁电与磁性能否耦合？ | 构建异质结（Tl₂NO₂/WTe₂）进行界面工程 | 观察到了可能的磁电效应，即通过改变铁电极化方向可调控异质结的总磁矩。 |
+
+### Chen2016electrical - Table 1
+| 技术 | 功能 | 关键参数 |
+| :-- | :-- | :-- |
+| 压电力显微镜（PFM） | 畴结构成像，极化翻转表征 | 针尖半径30-35 nm |
+| 导电AFM（c-AFM） | 局部电流读取 | 读取偏压=1V |
+| 光伏测量 | 宏观极化状态读取 | 300 μm ITO电极，100 mW/cm² |
+
+### Chen2016electrical - Table 4
+| 维度 | 导电AFM读取 | 光伏效应读取 |
+| :-- | :-- | :-- |
+| **读取速度** | 受限于AFM扫描 | 光照响应可达ns级 |
+| **空间分辨率** | ~30 nm（针尖尺寸） | ~μm级（光斑尺寸） |
+| **是否需要电源** | 需要1V偏压 | 完全自供能（光生伏打） |
+| **信号对比度** | 电流差异（倍数级） | Isc方向反转（符号级） |
+| **集成难度** | 需要导电AFM平台 | 可集成到CMOS工艺 |
+| **疲劳问题** | 1V偏压低，疲劳小 | 无外电场，无疲劳 |
+
+### chenHafniumBasedFerroelectricPostMoore2026 - Table 2
+| Device type | Structure | FE material | Switching speed | Retention | Endurance | Power consumption |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| FeFET | MFS | HZO (10 nm) | N/A | > 10^4 s | > 10^6 cycles | pA/μm leakage |
+| FTJ | Pt/SiO/HZO/TiN | HZO (2 nm) | 500 ps | > 10^5 s | > 10^7 cycles | 0.12 fJ/bit |
+| FeRAM | TiN/HZO/TiN | HZO (4 nm) | N/A | > 10 years | > 10^{12} cycles | 1.2 V low V |
+
 ### aiFerroelectricityCoexistedPorbital2022 - Table MD-T1
 
 |<div style="width: 5em">Key</div>|Value|
@@ -2414,5 +2578,83 @@ $$
 - **元数据属性**:
   - **标签 (Tags)**: `#unread`
   - **方法 (Methods)**: `DFT`, `TEM`, `第一性原理`
+
+---
+
+### zhaoRealization2DMultiferroic2024 - Equation 1
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Equation 1 |
+| 描述 | Intercalation energy for AM2X4 intercalation compounds. |
+| 链接 | [PDF](zotero://open-pdf/library/items/MNI5774G) |
+
+$$
+E_{int} = (E_{AM_2X_4} - E_{M_2X_4} - nE_A)/n
+$$
+
+---
+
+### zhaoRealization2DMultiferroic2024 - Equation 2
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Equation 2 |
+| 描述 | Formation energy relative to bulk metals and M2X4 bilayers. |
+| 链接 | [PDF](zotero://open-pdf/library/items/MNI5774G) |
+
+$$
+E_f = (E_{AM_2X_4} - E_{M_2X_4} - nE_{A,bulk})/n
+$$
+
+---
+
+### zhaoRealization2DMultiferroic2024 - Equation 3
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Equation 3 |
+| 描述 | Magnetic anisotropy energy (MAE) definition. |
+| 链接 | [PDF](zotero://open-pdf/library/items/MNI5774G) |
+
+$$
+MAE = E_{in-plane} - E_{out-of-plane}
+$$
+
+---
+
+### zhaoRealization2DMultiferroic2024 - Equation 4
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Equation 4 |
+| 描述 | Heisenberg Hamiltonian for magnetic coupling. |
+| 链接 | [PDF](zotero://open-pdf/library/items/MNI5774G) |
+
+$$
+H = -\sum_{i,j} J_{ij} \mathbf{S}_i \cdot \mathbf{S}_j - \sum_i D (\mathbf{S}_i^z)^2
+$$
+
+---
+
+### zhaoRealization2DMultiferroic2024 - Equation 5
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Equation 5 |
+| 描述 | Estimation of Curie/Néel temperature using Monte Carlo simulations. |
+| 链接 | [PDF](zotero://open-pdf/library/items/MNI5774G) |
+
+$$
+k_B T_C = \dots
+$$
+
+---
+
+### Chen2016electrical - Equation 1
+| <div style="width: 5em">Key</div> | Value |
+| --: | :-- |
+| 标题 | Equation 1 |
+| 描述 | Flexoelectric field generated by a PFM tip. |
+| 链接 | [PDF](zotero://open-pdf/library/items/3DYI89CL) |
+
+$$
+E_f = \frac{f}{\varepsilon} \cdot \frac{\partial e}{\partial z}
+$$
 
 ---

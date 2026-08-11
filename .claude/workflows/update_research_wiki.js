@@ -3,8 +3,9 @@ export const meta = {
   description: 'Intelligent synthesis workflow to update all Wiki folders (concepts, entities, write, etc.) based on raw note changes.',
   phases: [
     { title: 'Discovery', detail: 'Identify new or modified paper notes in raw/note/' },
+    { title: 'Expansion', detail: 'Identify and initialize missing Wiki pages for recurring materials/concepts' },
     { title: 'Mapping', detail: 'Map papers to concepts, entities, and topics' },
-    { title: 'Synthesis', detail: 'Update wiki/ folder pages with synthesized content' },
+    { title: 'Synthesis', detail: 'Update wiki/ folder pages with synthesized content and images' },
     { title: 'Writing analysis', detail: 'Extract academic sentences and rebuild wiki/write/' },
     { title: 'Indexing', detail: 'Rebuild index.md and topic pages' },
     { title: 'Cleanup', detail: 'Remove temporary byproduct files from tools/' }
@@ -24,12 +25,9 @@ IMPORTANT:
 phase('Discovery')
 log('Scanning raw/note/ for paper list...')
 
-// Inside workflow scripts we use Javascript arrays, maps, and standard logic.
-// We can use the agent() function to run parallel tasks.
-
-const papers = await agent(`
+const papersData = await agent(`
 ${GLOBAL_TEMP_INSTRUCTION}
-List all markdown files in 'E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\raw\\note' and extract their citekey, title, year, materials, and methods.
+List all 531 markdown files in 'E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\raw\\note' and extract their citekey, title, year, materials, and methods.
 Return this as a JSON array of objects: {citekey, title, year, materials, methods}.
 `, {
   schema: {
@@ -54,15 +52,30 @@ Return this as a JSON array of objects: {citekey, title, year, materials, method
   }
 })
 
-log(`Discovered ${papers.papers.length} papers.`)
+log(`Discovered ${papersData.papers.length} papers.`)
 
-// 2. Mapping & Targeting Wiki Files
-phase('Mapping')
-log('Scanning wiki folders to map concepts, entities, projects and figures...')
+// 2. Expansion Phase
+phase('Expansion')
+log('Analyzing gaps and initializing new wiki pages...')
 
-const wikiFiles = await agent(`
+await agent(`
 ${GLOBAL_TEMP_INSTRUCTION}
-List all existing wiki markdown files in:
+1. Analyze the list of papers and their metadata (materials/methods).
+2. Compare with current Wiki structure:
+   - Concepts: 2D-materials, ferroelectric-tunnel-junction, machine-learning-potential, magnetoelectric-coupling, moire-superlattice, multiferroicity, polarization-switching, sliding-ferroelectricity, super-paraelectricity, topological-defects.
+   - Entities: BiFeO3, deep-potential, domain-wall, Fe3GeTe2, h-BN, HoMnO3, In2Se3, MXenes, SnTe, TMDs.
+3. IDENTIFY at least 10 high-impact missing pages (e.g., specific materials like WTe2, CrTe2; methods like Wannier90; concepts like Berry Phase).
+4. INITIALIZE these pages in 'wiki/entities/', 'wiki/concepts/', or 'wiki/topics/' if they don't exist.
+5. Each new page should have YAML frontmatter and a Level 1 heading.
+`)
+
+// 3. Mapping Phase
+phase('Mapping')
+log('Mapping papers to the expanded wiki structure...')
+
+const wikiMap = await agent(`
+${GLOBAL_TEMP_INSTRUCTION}
+List all wiki markdown files in:
 - E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\
 - E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\entities\\
 - E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\topics\\
@@ -83,87 +96,41 @@ Return a JSON structure of {concepts: [filename], entities: [filename], topics: 
   }
 })
 
-log(`Mapped ${wikiFiles.concepts.length} concepts, ${wikiFiles.entities.length} entities, ${wikiFiles.projects.length} projects, and ${wikiFiles.figures.length} figure categories.`)
+log(`Mapped ${wikiMap.concepts.length} concepts, ${wikiMap.entities.length} entities, ${wikiMap.projects.length} projects, and ${wikiMap.figures.length} figure categories.`)
 
-// 3. Synthesis Phase (Iterate and update)
+// 4. Synthesis Phase
 phase('Synthesis')
 
-// Pipeline for Concept updates
+// Pipeline for all wiki folders
+const allWikiTasks = [
+  ...wikiMap.concepts.map(f => ({ path: `wiki/concepts/${f}`, type: 'concept' })),
+  ...wikiMap.entities.map(f => ({ path: `wiki/entities/${f}`, type: 'entity' })),
+  ...wikiMap.topics.map(f => ({ path: `wiki/topics/${f}`, type: 'topic' })),
+  ...wikiMap.projects.filter(f => f !== 'index.md').map(f => ({ path: `wiki/projects/${f}`, type: 'project' }))
+]
+
 await pipeline(
-  wikiFiles.concepts,
-  async (conceptFile) => {
-    log(`Synthesizing concept: ${conceptFile}`)
-    const fullPath = `E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\${conceptFile}`
+  allWikiTasks,
+  async (task) => {
+    log(`Synthesizing ${task.type}: ${task.path}`)
+    const fullPath = `E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\${task.path.replace(/\//g, '\\')}`
     await agent(`
       ${GLOBAL_TEMP_INSTRUCTION}
       Expert materials science researcher task:
-      1. Read concept: ${fullPath}.
-      2. Find relevant papers in raw/note/ (sliding ferroelectricity, moire, switching, etc.).
-      3. Integrate findings into the narrative (mechanisms, materials).
-      4. Ensure links [[../../raw/note/CiteKey|Title]] are correct.
-      5. Rewrite ${fullPath} directly.
-    `)
-  }
-)
-
-// Pipeline for Entity updates
-await pipeline(
-  wikiFiles.entities,
-  async (entityFile) => {
-    log(`Synthesizing entity: ${entityFile}`)
-    const fullPath = `E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\entities\\${entityFile}`
-    await agent(`
-      ${GLOBAL_TEMP_INSTRUCTION}
-      Expert materials science researcher task:
-      1. Read entity: ${fullPath}.
-      2. Find papers in raw/note/ studying this material/method.
-      3. Integrate findings (lattice, Tc, barriers, novel states).
-      4. Ensure links [[../../raw/note/CiteKey|Title]] are correct.
-      5. Rewrite ${fullPath} directly.
-    `)
-  }
-)
-
-// Pipeline for Topic updates
-await pipeline(
-  wikiFiles.topics,
-  async (topicFile) => {
-    log(`Synthesizing topic: ${topicFile}`)
-    const fullPath = `E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\topics\\${topicFile}`
-    await agent(`
-      ${GLOBAL_TEMP_INSTRUCTION}
-      Expert materials science researcher task:
-      1. Read topic file: ${fullPath}.
-      2. Identify new findings in raw/note/ related to this research topic.
-      3. Synthesize the core progress, challenges, and future directions into the topic narrative.
-      4. Ensure links [[../../raw/note/CiteKey|Title]] are correct.
-      5. Rewrite ${fullPath} directly.
-    `)
-  }
-)
-
-// Pipeline for Project updates
-await pipeline(
-  wikiFiles.projects,
-  async (projectFile) => {
-    if (projectFile === 'index.md') return;
-    log(`Updating project progress: ${projectFile}`)
-    const fullPath = `E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\projects\\${projectFile}`
-    await agent(`
-      ${GLOBAL_TEMP_INSTRUCTION}
-      Expert researcher task:
-      1. Read project file: ${fullPath}.
-      2. Scan raw/note/ and raw/figures/ for any new papers or figures linked to this project's keywords or citekeys.
-      3. Update the "Zotero 参考文献池积累" and "知识积累与项目进展记录" sections of ${fullPath} with real progress and specific literature insights.
-      4. Ensure links [[../../raw/note/CiteKey|Title]] are correct.
-      5. Rewrite ${fullPath} directly.
+      1. Read the file: ${fullPath}.
+      2. Find ALL relevant papers in raw/note/ (using the 531 papers).
+      3. INTEGRATE new findings, data, and mechanisms into the narrative.
+      4. IMAGE INSERTION: Find matching figures in raw/figures/ and insert them using standard Markdown:
+         ![Description](../../raw/figures/CiteKey/filename)
+      5. Ensure links [[../../raw/note/CiteKey|Title]] are correct.
+      6. REWRITE the file ${fullPath} directly with complete, updated knowledge.
     `)
   }
 )
 
 // Pipeline for Figure library updates
 await pipeline(
-  wikiFiles.figures,
+  wikiMap.figures,
   async (figureFile) => {
     if (figureFile === '_index.md') return;
     log(`Updating figure category: ${figureFile}`)
@@ -188,56 +155,37 @@ await pipeline(
   }
 )
 
-// 4. Writing Analysis Phase (LLM-Led)
+// 5. Writing Analysis Phase
 phase('Writing analysis')
 log('Intelligently extracting academic writing patterns...')
-
-// We iterate by year to group things properly.
-// We will let an agent scan all papers and update the yearly wiki/write/ files.
 await agent(`
   ${GLOBAL_TEMP_INSTRUCTION}
   Expert scientific editor task:
-  1. Scan all files in raw/note/*.md.
-  2. For each paper, locate the "论文双语转写" (Bilingual Transcription) section.
-  3. Extract high-quality academic English sentences that demonstrate professional scientific writing (Introduction, Methods, Results, Conclusion).
-  4. Group these by year (from the paper's metadata) and publication.
-  5. Update or create the files in wiki/write/{year}.md and rebuild wiki/write/_index.md.
-  6. Ensure NO AI-thinking metadata, NO prompt residuals, and ONLY clean, professional sentences are included.
-  7. Use the format: ### From: [[../../raw/note/CiteKey|Title]] followed by a bulleted list of sentences.
+  1. Scan all 531 papers in raw/note/*.md.
+  2. Extract high-quality academic English sentences from "论文双语转写".
+  3. Group by year and publication.
+  4. Update/Create wiki/write/{year}.md and rebuild wiki/write/_index.md.
+  5. Use the format: ### From: [[../../raw/note/CiteKey|Title]] followed by a bulleted list of sentences.
 `)
 
-// 5. Indexing Phase
+// 6. Indexing Phase
 phase('Indexing')
-log('Rebuilding index.md and Topic pages...')
+log('Rebuilding index.md...')
 await agent(`
   ${GLOBAL_TEMP_INSTRUCTION}
-  Rebuild 'E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\index.md' to ensure all newly created topics, concepts, entities, and writing years are perfectly cross-linked.
-  Update the statistics (e.g., "共计 X 篇论文卡片", "收录 X 幅图表") based on the current filesystem state.
+  Rebuild 'E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\index.md'.
+  1. Reflect all 531 papers.
+  2. Link all old and NEW concepts/entities/topics/projects/writing years.
+  3. Update statistics for papers, figures, and topics.
 `)
 
-// 6. Cleanup Phase
+// 7. Cleanup Phase
 phase('Cleanup')
-log('Cleaning up temporary byproduct files in tools/...')
+log('Cleaning up tools/ byproduct files...')
 await agent(`
-  Identify and delete any temporary byproduct files in the 'E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\tools' directory.
-
-  PERMANENT FILES (DO NOT DELETE):
-  - update_raw_assets.py
-  - generate_writing_wiki.py
-  - run_ingest.py
-  - __pycache__
-
-  TEMPORARY BYPRODUCTS (DELETE THESE):
-  - results.json
-  - extract.js
-  - extract_all.js
-  - extract_data.py
-  - extract_data_final.py
-  - openalex_papers.json
-  - papers_summary.json
-  - Any other newly created temporary files or scripts created during this workflow.
-
-  Note: Also check the root directory 'E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki' and move/delete any missed byproduct files like extract.js or results.json that might have been created there.
+  ${GLOBAL_TEMP_INSTRUCTION}
+  Identify and delete temporary byproduct files in 'tools/' and root.
+  Keep: update_raw_assets.py, generate_writing_wiki.py, run_ingest.py, update_research_wiki.js.
 `)
 
 log('Wiki Update Workflow completed successfully!')

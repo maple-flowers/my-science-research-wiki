@@ -1,13 +1,95 @@
 # 晶体结构与原子排布 (Crystal Structures & Atomic Packing)
 
 > 收录基础晶体结构、原子几何排布、晶面、晶胞三维模型、晶格位移与极化畸变相关的图表、数据表及物理公式。
-> 共收录相关条目 **12** 个（图: 0, 表: 5, 公式: 7）。
+> 共收录相关条目 **26** 个（图: 12, 表: 6, 公式: 8）。
 
 [[_index|← 返回总索引]]
 
 ---
 
+## 🖼️ 图像 (Figures)
+### aiFerroelectricityCoexistedPorbital2022 - Figure 1
+- **标题**: Crystal structures and dynamic stability.
+- **描述**: Top and side views of X2NO2 monolayer with (a) fcc, (b) FE-ZB′ and (c) FE−WZ′ phase (dashed lines denote a unit cell).
+- **链接**: [fig_1_4T7YPY8F.png](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/fig_1_4T7YPY8F.png)
+- **来源文献**: `aiFerroelectricityCoexistedPorbital2022`
+
+### aminiAtomicscaleVisualizationMultiferroicity2024 - Figure 1
+- **标题**: Origin of multiferroicity in monolayer NiI2.
+- **描述**: Unit cell of monolayer NiI2. 9a × √ 3a supercell is required to describe the magnetic spin-spiral order.
+- **链接**: [fig_1_8XET8BR2.png](../../raw/figures/aminiAtomicscaleVisualizationMultiferroicity2024/fig_1_8XET8BR2.png)
+- **来源文献**: `aminiAtomicscaleVisualizationMultiferroicity2024`
+
+### chen3dLevelSymmetry2025 - Figure 1
+- **标题**: Crystal structure of monolayer Mn2N and Janus structures.
+- **描述**: (a) The crystal structure of monolayer Mn2N. (b) Janus structures Mn2NOF, Mn2NOOH, and Mn2NOCl.
+- **链接**: [fig_1_FPIYZWQV.png](../../raw/figures/chen3dLevelSymmetry2025/fig_1_FPIYZWQV.png)
+- **来源文献**: `chen3dLevelSymmetry2025`
+
+### chenFerromagneticNonmagnetic1T2022 - Figure 1
+- **标题**: Crystal structure of 1T and 1T′ phase of TMD MX2.
+- **描述**: The primitive unit cells of the 1T and 1T′ phases. The 1T′ phase can be viewed as a distorted 1T.
+- **链接**: [fig_1_A35ZUT23.png](../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_1_A35ZUT23.png)
+- **来源文献**: `chenFerromagneticNonmagnetic1T2022`
+
+### chenStrongSlidingFerroelectricity2024 - Figure 1
+- **标题**: Transition from PE to FE phase via interlayer sliding.
+- **描述**: Schematic diagrams for the transition from centrosymmetric PE to FE phase (±P states) via interlayer sliding in HgI2.
+- **链接**: [fig_1_I9JJ25R3.png](../../raw/figures/chenStrongSlidingFerroelectricity2024/fig_1_I9JJ25R3.png)
+- **来源文献**: `chenStrongSlidingFerroelectricity2024`
+
+### fengFerroelectricityMultiferroicityTwodimensional2020 - Figure 1
+- **标题**: Sc2P2Se6 and ScCrP2Se6 monolayers at FE phase.
+- **描述**: The top and side views of (a) Sc2P2Se6 and (b) ScCrP2Se6 monolayers.
+- **链接**: [fig_1_KNUZRZVA.png](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_1_KNUZRZVA.png)
+- **来源文献**: `fengFerroelectricityMultiferroicityTwodimensional2020`
+
+### guoAdvancesTwodimensionalFerroelectric2025 - Figure 2
+- **标题**: BP-Bi and d1T-MoTe2 lattice structures.
+- **描述**: Schematic diagrams of BP-Bi lattice structure and charge density maps of pz orbitals.
+- **链接**: [fig_2_UYFSHFQT.png](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_2_UYFSHFQT.png)
+- **来源文献**: `guoAdvancesTwodimensionalFerroelectric2025`
+
+### hanTunableSlidingFerroelectricity2025 - Figure 2
+- **标题**: Stacking structures and sliding pathways.
+- **描述**: Schematic diagrams of three highly symmetric structures: AB stacking, AA stacking, and BA stacking in RuX2.
+- **链接**: [fig_2_2XYB57YB.png](../../raw/figures/hanTunableSlidingFerroelectricity2025/fig_2_2XYB57YB.png)
+- **来源文献**: `hanTunableSlidingFerroelectricity2025`
+
+### heSwitchingTwodimensionalSliding2025 - Figure 3
+- **标题**: Atomic configurations and polarization textures in bent bilayer h-BN.
+- **描述**: side and top views of a 31° kink (Neel-type) and a 57° kink (Ising-type) in h-BN.
+- **链接**: [fig_3_H6HN8MAN.png](../../raw/figures/heSwitchingTwodimensionalSliding2025/fig_3_H6HN8MAN.png)
+- **来源文献**: `heSwitchingTwodimensionalSliding2025`
+
+### heUltrafastSwitchingDynamics2024 - Figure 1
+- **标题**: Ferroelectricity in h-BN bilayers via lateral sliding.
+- **描述**: The electric polarization vector as a function of lateral sliding of the upper relative to the lower layer.
+- **链接**: [fig_1_TZK5GGQL.png](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_1_TZK5GGQL.png)
+- **来源文献**: `heUltrafastSwitchingDynamics2024`
+
+### sharmaRoomtemperatureFerroelectricSemimetal2019 - Figure 1
+- **标题**: Crystal and electronic structure of WTe2.
+- **描述**: Atomistic model of the Td phase of WTe2 and XRD q-2q scan.
+- **链接**: [fig_1_NDNYXQ2A.png](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_1_NDNYXQ2A.png)
+- **来源文献**: `sharmaRoomtemperatureFerroelectricSemimetal2019`
+
+### sharmaRoomtemperatureFerroelectricSemimetal2019 - Figure 4
+- **标题**: Distortion vectors in 1T-WTe2.
+- **描述**: Schematic of different distortion vectors for polarization up and down states.
+- **链接**: [fig_4_F86EWZ63.png](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_4_F86EWZ63.png)
+- **来源文献**: `sharmaRoomtemperatureFerroelectricSemimetal2019`
+
+---
+
+
 ## 📊 数据表 (Tables)
+
+### cossuStackingChargedensityWaves2024 - Stacking Energy Comparison
+- **内容**: Comparison of relative total energies for 2H-NbSe2 bilayers in symmetric, CS1, and HC-CCS4 configurations.
+- **来源文献**: `cossuStackingChargedensityWaves2024`
+
+---
 ### gomez-ortizKittelLawDomain2023 - Table MD-T1
 
 |<div style="width: 5em">Key</div>|Value|
@@ -1283,6 +1365,13 @@ The GGA proposed here retains correct features of LSD, and combines them with th
 ---
 
 ## 📐 物理公式 (Formulas)
+
+### heSwitchingTwodimensionalSliding2025 - Nanotube Energy Difference
+- **公式**: $E_{circle} - E_{kink}$ as a function of diameter for h-BN and MoS2 nanotubes.
+- **描述**: Analytical model for the energy difference between circular and kinked nanotubes.
+- **来源文献**: `heSwitchingTwodimensionalSliding2025`
+
+---
 ### kresseEfficientIterativeSchemes1996d - Equation eq2
 
 $$

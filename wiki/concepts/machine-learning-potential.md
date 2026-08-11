@@ -11,11 +11,14 @@ category: [Z01]
 
 1. **精度与标度的统一**：
    - 具有 DFT 级别的精度（能量误差 ~1 meV/atom，力误差 ~0.05 eV/Å）。
+   - **基准测试 (Benchmark)**：在 h-BN 双层体系中，Deep Potential (DP) 模型在能量和力（x, y, z 分量）的预测上与 DFT 结果高度吻合，且能准确复现声子谱（Phonon Dispersion）和态密度（DOS）（[[../../raw/note/heUltrafastSwitchingDynamics2024|He 2024]]）。
    - 计算复杂度随原子数呈线性标度 $O(N)$，计算速度比 DFT 快 3-5 个数量级，支撑起数万至数百万原子的大体系动力学模拟。
 2. **克服“尺寸-精度”困境**：
    - 传统 DFT 难以模拟[[../entities/domain-wall|畴壁（Domain Wall）]]（数纳米至数十纳米宽）、[[moire-superlattice|莫尔超晶格]]（大胞包含成千上万原子）及动态[[polarization-switching|极化翻转]]。
    - MLIP（如 DeePMD-kit）成功捕捉了莫尔铁电畴中的细微结构细节，如 h-BN 中存在的 **Bloch-type (0°)** 和 **Néel-type (90°)** 畴壁（[[../../raw/note/heUltrafastSwitchingDynamics2024|He 2024]]）。
-3. **主动学习与生成式采样 (DP-Gen)**：
+3. **多尺度环境模拟**：
+   - **温度效应**：通过 DPMD 模拟可以研究有限温度（如 0-700 K）下的极化演变及层间距变化，捕捉热涨落对铁电有序的影响（[[../../raw/note/heUltrafastSwitchingDynamics2024|He 2024]]）。
+4. **主动学习与生成式采样 (DP-Gen)**：
    - 利用并发学习（Concurrent Learning）自动探索构型空间，仅对不确定性高的构型调用 DFT 标注，确保势函数在极端应变、高电场或相变过程中的稳健性（[[../../raw/note/gaoStrainEngineeringFerroelectric2024|Gao 2024]]）。
 
 ## 铁性体系的前沿应用
@@ -29,6 +32,7 @@ category: [Z01]
 通过 MLIP 模拟，可以发现单一机制无法解释的复杂物理现象。
 - **内禀与滑动协同**：在 1T''-MoSe2 等材料中，内禀畸变产生的偶极矩与层间滑动极化耦合，形成“复合铁电性”。
 - **多状态切换**：通过层间滑动与层选择性极化翻转的组合，可实现 6 态或 10 态的稳态存储（[[../../raw/note/tangCombiningIntrinsicSlidinginduced2025|Tang 2025]]）。MLIP 准确描述了不同路径下约 10-30 meV/atom 的微小能垒差异。
+- **滑动铁电性机制**：MLIP 模拟证实，AB 和 BA 堆垛对应相反的自发极化，通过层间滑动可实现极化翻转，极化方向由电荷密度差决定（[[../../raw/note/wuSlidingFerroelectricity2D2021a|Wu 2021]]）。
 
 ### 3. 应变工程与畴结构编程
 机械应变不仅能调控相变稳定性，还能直接降低物理势垒。
