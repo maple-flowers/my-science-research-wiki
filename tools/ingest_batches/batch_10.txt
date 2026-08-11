@@ -1,0 +1,13 @@
+Makogon2012wave.md
+chenStrongSlidingFerroelectricity2024.md
+gaoStrainEngineeringFerroelectric2024.md
+feiFerroelectricSwitchingTwodimensional2018a.md
+gomez-ortizKittelLawDomain2023.md
+Perugu2024morphology.md
+junqueraCriticalThicknessFerroelectricity2003.md
+zhangNonvolatileControlTopological2025.md
+kimObservationPhaseTransition1997.md
+Owji20212d.md
+Ismail2015humidity.md
+Wei2021.md
+khazaeiNovelElectronicMagnetic2013.md

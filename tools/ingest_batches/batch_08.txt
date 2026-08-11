@@ -1,0 +1,13 @@
+gorkovStrongElectronlatticeCoupling2012.md
+Johannes2008fermi.md
+huangPolarPhaseDomain2019.md
+Wang2023ultracompact.md
+gajdosLinearOpticalProperties2006.md
+wuCoexistenceFerroelectricityAntiferroelectricity2024.md
+niuDirectVisualizationLargeScale2021.md
+Gittard2013polymerization.md
+dingPredictionIntrinsicTwodimensional2017a.md
+Srinivasan1989lead.md
+wongEvidenceMetallic1T.md
+Chen2016electrical.md
+Tobeiha2025optical.md

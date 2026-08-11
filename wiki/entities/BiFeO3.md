@@ -26,7 +26,22 @@ BFO 的铁电畴壁具有丰富的物理内涵，与其绝缘的块体性质截�
 在超薄 BFO 薄膜中，畴宽（$w$）与厚度（$h$）的比例关系遵循 **Kittel's Law** ($w \propto \sqrt{h}$)。
 - **AFD 相互作用**：与传统铁电体不同，BFO 的畴壁能量平衡不仅取决于偶极子相互作用，还深受抗铁畸变（Antiferrodistortive, AFD）分量的影响。研究表明，AFD 这种短程相互作用是主导 BFO 超薄膜畴尺寸缩放的关键因素 [[../../raw/note/prosandeevKittelLawInBiFeO3Ultrathin2010|Kittel law in BiFeO3 ultrathin films: The role of antiferrodistortive motions]]。
 
-## 5. 本库相关代表性论文
+## 5. 二维单层特性 (2D Monolayer Properties)
+
+根据 2025 年高通量剥离研究 [[../../raw/note/zhongHighthroughputExfoliationMultiferroic2025|Zhong et al. 2025]]，BiFeO3 在二维极限下展现出独特的物性：
+
+- **剥离可行性**：通过键密度与结合强度判据筛选，BFO 单层的**剥离能**约为 **$0.109 \text{ eV/Å}^2$**，这在能量上是可实现的，与典型的范德华材料（如石墨烯 $0.013 \text{ eV/Å}^2$）及实验已获得的 2D 非范德华氧化物（如 Fe2O3 $0.108 \text{ eV/Å}^2$）相当。
+- **磁转变温度**：单层 BFO 的 Néel 温度预测为 **$T_N \approx 280 \text{ K}$**，接近室温，是实现常温 2D 自旋电子器件的理想候选。
+- **相锁定与应变调控**：
+    - **相变路径**：在面内应变下可实现 **$Pc \text{ (AFM)} \to P4mm \text{ (FM)}$** 的相变。
+    - **临界应变**：需要 $a$ 轴压缩 4%，$b$ 轴压缩 3%。
+    - **能带调制**：随相变发生，带隙从 $3.31 \text{ eV}$ 急剧减小至 **$0.60 \text{ eV}$**，且带边附近的自旋极化显著增强。
+
+![BFO剥离能与带隙分布](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/fig_1_VBUYWAI7.png)
+*图 2: (c) 筛选出的多铁性 ABO3 单层的剥离能与带隙分布图。BiFeO3 (BFO) 位于低剥离能区域，证明其从非范德华块体中剥离的可行性。图表来源：[[../../raw/note/zhongHighthroughputExfoliationMultiferroic2025|Zhong et al. 2025]]*
+
+## 6. 本库相关代表性论文
+- [[../../raw/note/zhongHighthroughputExfoliationMultiferroic2025|Zhong et al. 2025]]：二维非范德华多铁单层的高通量剥离与相调控研究。
 - [[../../raw/note/fiebigEvolutionMultiferroics2016|fiebigEvolutionMultiferroics2016]] (2016)
 - [[../../raw/note/martinThinfilmFerroelectricMaterials2016|martinThinfilmFerroelectricMaterials2016]] (2016)
 - [[../../raw/note/prosandeevKittelLawInBiFeO3Ultrathin2010|prosandeevKittelLawInBiFeO3Ultrathin2010]] (2010)

@@ -1,0 +1,135 @@
+---
+citekey: wongEvidenceMetallic1T
+title: "Metallic 1T Phase, 3d1 Electronic Configuration and Charge Density Wave Order in Molecular Beam Epitaxy Grown Monolayer Vanadium Ditelluride"
+authors: [Ping Kwan Johnny Wong, Wen Zhang, Jun Zhou, Fabio Bussolotti, Xinmao Yin, Lei Zhang, et al.]
+year: 2019
+journal: "ACS Nano"
+doi: "10.1021/acsnano.9b05349"
+url: "https://doi.org/10.1021/acsnano.9b05349"
+paper_type: experiment
+status: ingested
+year_read: 2026
+original_note: "[[../../raw/note/wongEvidenceMetallic1T]]"
+projects: [project-7, project-2]
+concepts: [2d-materials, charge-density-wave, spin-orbit-coupling, density-functional-theory, 1t-phase, 1t-prime-phase, fermi-surface-nesting, electron-phonon-coupling, substrate-effect, d1-electronic-configuration, octahedral-crystal-field, exchange-splitting, vdw-magnets]
+entities: [VTe2, VASP, TMDs, HOPG, graphene]
+methods: [mbe, stm-sts, pes-xps, arpes, xas, xmcd, dft, paw-pbe, vdw-dft]
+materials: [VTe2]
+figures: [crystal-structures, electronic-bands]
+# ↓↓↓ 十个文献矩阵字段（逐字复制自 raw/note blockquote）↓↓↓
+"领域基础知识": >-
+  二维材料、过渡金属二硫化物（TMDs）是研究热点，其家族成员展现出丰富的电子特性，如金属、半导体、磁性和超导性。电荷密度波（CDW）是低维体系中常见的量子现象，指电子密度和晶格原子位置的周期性调制。体系维度降低会显著影响材料的物理性质，包括相变行为。
+"研究背景": >-
+  块体VTe₂在高温下为金属性六方1T相，低温下通过CDW相变转变为具有(3×1)双锯齿链结构的单斜1T'相。该相变与层间Te-Te耦合密切相关。理论预测，在单层极限下，当层间耦合被移除，VTe₂可能表现出不同的结构相变，甚至可能存在本征铁磁性，但缺乏直接的实验证据。
+"作者的问题意识": >-
+  针对单层VTe₂这一尚未被充分探索的体系，作者旨在解答三个核心问题：(1) 移除层间耦合的单层VTe₂会保持何种晶体结构？(2) 其电子构型和潜在的CDW有序是什么样的？(3) 理论预测的本征铁磁性是否真实存在？
+"主要研究对象": >-
+  通过分子束外延（MBE）技术在高度定向热解石墨（HOPG）衬底上生长的单层二碲化钒（VTe₂）薄膜。
+"主要研究方法": >-
+  1. 材料制备：分子束外延（MBE）及Se/Te保护帽技术。2. 形貌与结构：扫描隧道显微镜/谱（STM/STS）。3. 化学态与电子结构：同步辐射光电子能谱（PES）和角分辨光电子能谱（ARPES）。4. 元素特异性电子构型与磁性：X射线吸收谱（XAS）和X射线磁圆二色性（XMCD）。5. 理论计算：密度泛函理论（DFT）计算。
+"研究意义": >-
+  为单层VTe₂这一争议性二维材料提供了决定性的实验基准，澄清了其基本结构、电子构型和磁性。揭示了维度降低和衬底效应对CDW相变和结构稳定性的关键影响，为理解二维范德华材料中电荷、结构与磁性之间的复杂相互作用提供了新见解，挑战并修正了早期理论预测。
+"研究结论": >-
+  1. 单层VTe₂在实验上确认为金属性1T相，具有V⁴⁺（3d¹）电子构型。2. 观察到与块体(3×1)结构不同的(4×4) CDW有序，证明维度降低影响CDW不稳定性。3. 元素特异性XMCD测量排除了本征铁磁有序的存在，理论预测被否定。4. DFT计算揭示石墨烯衬底通过抑制1T’相的双锯齿链结构调制，起到了稳定1T相的关键作用。
+"对领域的贡献": >-
+  在实验上澄清了关于单层VTe₂是否为铁磁体的重大争议，为其后续研究提供了可靠的基础物性数据。首次在实空间观测到单层VTe₂的(4×4) CDW结构，并提出了衬底抑制结构相变的微观机制，拓展了对二维材料中衬底效应和相变调控的理解。
+"未来研究方向提及": >-
+  1. 系统研究不同衬底对单层VTe₂相稳定性和CDW有序的调控。2. 通过控制层数来研究维度效应与CDW演化的完整相图。3. 探索外场（电场、应力）对CDW和潜在磁性起伏的调控。
+"未来研究方向思考": >-
+  1. 探索VTe₂与其他二维材料（如铁磁体、拓扑绝缘体）构筑的异质结，研究界面近邻效应诱导的新奇量子现象。2. 利用更高灵敏度的技术（如自旋极化STM）探测是否存在被CDW抑制的、极局域的磁性起伏或非共线磁结构。3. 发展更精确的第一性原理计算方法（如DFT+DMFT），以准确预测强关联二维材料中电荷、自旋和晶格自由度的竞争基态。
+tags:
+  - paper
+  - type/experiment
+  - year/2019
+  - project/project-7
+  - project/project-2
+  - relevance/project-7/strong
+  - relevance/project-2/weak
+  - concept/2d-materials
+  - concept/charge-density-wave
+  - concept/spin-orbit-coupling
+  - concept/density-functional-theory
+  - concept/1t-phase
+  - concept/1t-prime-phase
+  - concept/fermi-surface-nesting
+  - concept/electron-phonon-coupling
+  - concept/substrate-effect
+  - concept/d1-electronic-configuration
+  - concept/octahedral-crystal-field
+  - concept/exchange-splitting
+  - concept/vdw-magnets
+  - entity/VTe2
+  - entity/VASP
+  - entity/TMDs
+  - entity/HOPG
+  - entity/graphene
+  - method/mbe
+  - method/stm-sts
+  - method/pes-xps
+  - method/arpes
+  - method/xas
+  - method/xmcd
+  - method/dft
+  - method/paw-pbe
+  - method/vdw-dft
+  - material/VTe2
+  - topic/2d-materials
+  - topic/charge-density-wave
+  - topic/magnetism
+  - topic/transition-metal-dichalcogenides
+  - topic/electronic-structure
+---
+
+## wongEvidenceMetallic1T — 分子束外延生长单层 VTe₂ 中金属性 1T 相、3d¹ 电子构型与 (4×4) 电荷密度波序的证据
+
+- **元数据**：Ping Kwan Johnny Wong, Wen Zhang, Jun Zhou, Fabio Bussolotti, Xinmao Yin, Lei Zhang, et al.，2019，*ACS Nano* **13**(11), 12894–12900，DOI: 10.1021/acsnano.9b05349
+- **一句话**：通过 MBE 生长 + STM/STS、PES、ARPES、XAS/XMCD 与 DFT 的联合证据链，首次确证单层 VTe₂ 为金属性 1T 相、V⁴⁺(3d¹) 构型、低温 (4×4) CDW 序，并用元素特异性 XMCD 排除了此前理论预测的本征铁磁性。
+
+- **现有 wiki 双链**：
+  - 概念 [[../concepts/2D-materials]]、[[../concepts/charge-density-wave]]、[[../concepts/density-functional-theory]]、[[../concepts/spin-orbit-coupling]]
+  - 实体 [[../entities/TMDs]]、[[../entities/VASP]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]
+  - 年度 [[../write/2019]]
+  - 相关论文 [[../../raw/note/wongEvidenceMetallic1T]]
+
+- **新概念/实体建议**：
+  - `VTe2.md`（实体）：二碲化钒，金属性 TMD；块体高温 1T、低温 1T'（双锯齿链，(3×1) CDW）；单层在 HOPG 上稳定为 1T 并呈 (4×4) CDW，无本征铁磁性。
+  - `1t-phase.md`（概念）：TMD 的八面体配位、六方对称金属相（空间群 P3m1）；与三角棱柱配位的 2H 相及畸变单斜 1T' 相区分。
+  - `1t-prime-phase.md`（概念）：1T 相的畸变形态，金属原子位移形成双锯齿链（double zigzag chains），对称性由六方降为单斜，常与 CDW 共生。
+  - `xmcd.md`（概念/方法）：X 射线磁圆二色性，元素特异性磁性探针，测 V L₂,₃ 边左右圆偏振 XAS 之差；可排除衬底/杂质磁信号，是判定二维材料本征磁性的"金标准"。
+  - `fermi-surface-nesting.md`（概念）：费米面两部分可由单一波矢平移重合，是 CDW 失稳的经典机制之一。
+  - `electron-phonon-coupling.md`（概念）：电子-声子相互作用，CDW 相变的另一驱动机制。
+  - `substrate-effect.md`（概念）：衬底通过电荷转移、界面相互作用改变二维材料的结构相稳定性（本文中石墨烯/HOPG 抑制 1T' 相）。
+  - `d1-electronic-configuration.md`（概念）：八面体晶体场下 V⁴⁺ 单电子占据 t₂g 轨道的电子构型，XAS 原子多重态指纹可识别。
+  - `vdw-magnets.md`（概念）：层间以范德华力结合的二维磁性材料家族。
+  - `HOPG.md`（实体）：高度取向热解石墨，常用 MBE 生长衬底。
+  - `graphene.md`（实体）：单层石墨，DFT 界面计算中用来模拟 HOPG 衬底。
+
+- **关键图表**：笔记未附图片（raw/figures 目录仅有 manifest.json，无实际图文件）。原文五张图：Fig.1 1T-VTe₂ 晶格模型 + 77 K STM/STS（晶格常数 3.6±0.1 Å，单层台阶 ~8.5 Å，(4×4) 超结构及 FFT，dI/dV 费米能级处凹陷）；Fig.2 V 2p / Te 3d 芯能级、价带、功函数（4.7 eV）及空气暴露对比；Fig.3 297 K/11 K ARPES 能带与 1T 相 DFT 叠加，Γ 点 EDC 无 CDW 能隙；Fig.4 t₂g/e_g 晶体场分裂示意 + V L₂,₃ XAS（518/524 eV 主峰与多重态）与可忽略的 XMCD；Fig.5 自支撑 vs 石墨烯上 1T'-VTe₂ 的结构、差分电荷密度、Te 高度差与 V 条带间距对比。
+
+- **项目连接**：
+  - **project-7（CDW）— strong**：本文是单层 VTe₂ CDW 的核心实验文献。直接给出 (4×4) CDW 序（区别于块体 (3×1)）、各向异性能隙（M 点附近最大 ~50 meV，Γ 点无隙）、CDW 转变温度 ~186 K（引文献 22）、CDW 与铁磁序竞争并抑制铁磁基态的物理图像，以及维度降低/衬底对 CDW 失稳模式的调控。这些机制与数据可直接用于 CDW wiki 条目的 TMD 案例、维度效应、CDW-磁性竞争部分。
+  - **project-2（Mn 多铁）— weak**：本文不涉及 Mn 或多铁，但在方法层面有参考价值：元素特异性 XMCD 排除衬底/杂质磁干扰的判据，以及"CDW 不稳定性抑制铁磁序"的竞争物理，可类比用于判断二维磁性/多铁体系中理论预测与实验磁性的差异；同组 Wong et al. (Adv. Mater. 2019, VSe₂ 自旋阻挫，ref 23) 亦属同一方法体系。
+  - project-1（双光子）、project-3（机械发光 NN）、project-4（TTF 分子计算）、project-5（SnTe 铁电模拟）、project-6（湿度传感器）：无直接项目连接。
+
+- **组织与用词**：论证沿"MBE 制备 → STM 结构与 CDW 实空间确认 → PES 化学态/价带 → ARPES 能带与相鉴定 → XAS/XMCD 裁决 d¹ 构型与磁性 → DFT 解释衬底为何抑制 1T'"层层递进，是否定性结论（无铁磁）与肯定性结论（1T/d¹/(4×4) CDW）交织的证据链范式。值得复用的术语：
+  - 1T phase / 1T' phase（1T 相 / 1T' 相）
+  - double zigzag chains（双锯齿链）
+  - charge density wave, CDW（电荷密度波）
+  - (4×4) reconstruction / superstructure（(4×4) 重构/超结构）
+  - element-specific XMCD（元素特异性 X 射线磁圆二色性）
+  - exchange splitting（交换劈裂）
+  - Fermi surface nesting（费米面嵌套）
+  - anisotropic CDW gap（各向异性 CDW 能隙）
+
+- **可写入 wiki 的要点**：
+  1. 单层 VTe₂（MBE/HOPG，650 K 生长，Te/V 通量比 >10，Se/Te 保护帽）实验上确认为金属性 1T 相，面内晶格常数 3.6±0.1 Å（DFT 弛豫 3.61 Å，1T 理论值 3.64 Å），单层台阶高 ~8.5 Å（含范德华间隙），空间群 P3m1。
+  2. 低温 STM 首次在实空间观察到单层 VTe₂ 的 (4×4) CDW 超结构，与块体 (3×1) 双锯齿链不同；该 (4×4) 图案据 LEED/ARPES 文献在 <186 K 出现，在二维费米面 M 点附近打开最大 ~50 meV 的各向异性能隙，Γ 点无隙。
+  3. STS（77 K）dI/dV 在费米能级呈凹陷而非清晰能隙，因 STS 动量积分——部分动量区（M-K）有隙、Γ 点无隙，且受热展宽与 CDW 能隙温度依赖影响。
+  4. PES：V 2p₃/₂=512.9 eV、V 2p₁/₂=520.5 eV，Te 3d₅/₂=572.0 eV、Te 3d₃/₂=582.3 eV，对应 V⁴⁺；价带费米边主要由 V 3d 贡献，1–6 eV 为 Te 4p + 石墨衬底；功函数 ~4.7 eV（比 HOPG 上单层 VSe₂ 低 ~0.3 eV）。单层 VTe₂ 对空气极敏感：氧化使费米边谱重骤降、芯能级移向高结合能、功函数降 ~0.2 eV。
+  5. ARPES（He Iα, 21.218 eV，能量分辨率 20 meV）：费米能级附近见弱色散 V 3d 带与强向下色散的简并 Te 4p 带；11 K 实验能带与 1T 相 DFT 吻合、与 2H 不符；只观察到单一 d 带而非交换劈裂双带，间接排除铁磁基态；300 K→11 K 的 Γ 点 EDC 峰宽变窄但无 leading-edge 中点位移，确认 Γ 点无 CDW 能隙。
+  6. XAS（V L₂,₃ 边，TEY 模式，16 K，±1 T）：518/524 eV 主峰对应 V 2p→3d 偶极跃迁，主峰前精细结构为原子多重态残余，与块体 VS₂、单层 VSe₂ 相似，是 1T 相和 d¹ 构型的指纹证据；八面体晶体场中 V⁴⁺ 单电子占据 t₂g。
+  7. XMCD（16–300 K）信号在实验误差内可忽略，元素特异性地排除单层 VTe₂ 中 V 的本征铁磁有序；作者指出此前 CVD-VTe₂/SiO₂ 的 VSM 铁磁信号可能来自衬底（Si、HOPG 常含磁杂质）与外禀扰动，不同背景扣法会给出差异巨大的磁矩。作者假设 CDW 不稳定性与 DFT 预测的铁磁基态竞争并抑制之，类似单层 VSe₂ 情形。
+  8. DFT（VASP，PAW-PBE，vdW-optB88，截断 500 eV，21×21×1 k 网格；层间真空 20 Å；界面用石墨烯 3×9、T 相 2×6、T' 相 2×2 超胞，应变 <2%）：无论有无衬底，1T' 相能量均低于 1T 相（自支撑 ~0.1 eV/超胞，石墨烯上 ~0.08 eV/超胞），与实验只观察到 1T 相矛盾；差分电荷密度显示石墨烯→VTe₂ 电荷转移。
+  9. 衬底抑制 1T' 的机制：自支撑 1T' 中 V 原子沿 b 轴规则位移形成双锯齿链；置于石墨烯上后规则位移消失，沿 a、b 轴呈更随机畸变，Te 原子高度差与 V 条带间距均显著减小，1T' 结构调制被"抹平"；作者推测多层石墨烯（HOPG）上抑制更强，可解释实验未观察到 1T'。提示热力学基态能量并非决定 MBE 生长相的唯一因素，衬底钉扎与非平衡生长动力学同样关键。
+  10. 块体 VTe₂ 在 390–437 K 发生 1T（六方）→1T'（单斜）相变，与层间 Te–Te 耦合（Te p_z 轨道起关键作用）及电子-声子耦合相关；碱金属（Li、Na）插层降低相变温度并使结构参数趋近 1T，佐证沿 c 轴 Te–Te 层间耦合对相变的决定性作用——单层移除此耦合是 (4×4) 取代 (3×1) 的物理根源。

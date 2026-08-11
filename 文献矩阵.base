@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.tags.contains("🤖️")
+        - file.folder == "科研Wiki/raw/note"
+    order:
+      - file.name
+      - 中文标题
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: 视图
+  - type: table
+    name: 视图 2

@@ -1,0 +1,141 @@
+---
+citekey: wangScreeningEnabledChemiresistiveMoisture2025
+title: "Screening-Enabled Chemiresistive Moisture Sensing with Tetrathiafulvalene-Based Electrically Conductive Metal–Organic Frameworks"
+title_zh: "基于四硫富瓦烯导电金属-有机骨架的筛选型化学电阻水分传感"
+authors: [Yingchao Wang, Xiaohe Miao, Paul A. Kempler, Jin-Hu Dou, Carl K. Brozek, Lei Sun]
+year: 2025
+journal: "Journal of the American Chemical Society"
+doi: "10.1021/jacs.5c16110"
+url: "https://doi.org/10.1021/jacs.5c16110"
+paper_type: experiment
+status: ingested
+year_read: 2026
+original_note: "[[../../raw/note/wangScreeningEnabledChemiresistiveMoisture2025]]"
+projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+concepts: [2D-materials]
+entities: []
+methods: [device-i-v, dft, eam, xrd]
+materials: []
+figures: []
+"领域基础知识": >-
+  金属有机框架（MOFs）是由金属离子/簇与有机配体通过配位键形成的多孔晶体材料。导电MOFs结合了高比表面积、可调孔道和电导率，在化学电阻式传感领域有重要应用。化学电阻式传感是通过分析物吸附引起材料电阻变化来实现检测的技术。四硫富瓦烯（TTF）是一种常用的构建导电MOF的有机配体，其易于氧化形成TTF•+自由基作为电荷载流子（空穴）。
+"研究背景": >-
+  尽管基于导电MOF的化学电阻式传感器已取得诸多进展，但其传感机制大多仍不清楚，主要原因是研究普遍依赖多晶薄膜，其晶界和混乱取向会严重干扰对材料本征电荷传输性质的分析。因此，利用单晶器件排除外部干扰，深入研究MOF的本征传感机制至关重要。
+"作者的问题意识": >-
+  作者旨在解决的核心问题是：在M₂(TTFTB)这类导电MOF单晶中，水分子（湿度）究竟是通过何种本征机制来调控其电导率的？以及为何Zn₂(TTFTB)表现出与其他同构类似物截然不同的弱湿度响应？
+"主要研究对象": >-
+  一系列同构的导电金属有机框架（MOF）单晶：M₂(TTFTB)，其中M²⁺代表二价金属离子Mn²⁺、Co²⁺、Zn²⁺、Cd²⁺；TTFTB⁴⁻代表四硫富瓦烯四苯甲酸配体。
+"主要研究方法": >-
+  采用单晶作为模型体系，构建两端子电子器件。联合使用多种技术进行系统研究，包括：直流（DC）I-V和电化学阻抗谱（EIS）等电学表征以区分电子/离子传导；连续波电子顺磁共振（CW-EPR）谱学测量电荷密度变化；原位粉末X射线衍射（PXRD）监测结构动态变化；以及使用致密Pt电极和直流极化实验来排除质子传导的贡献。
+"研究意义": >-
+  在理论上，揭示了MOF中“水分子通过屏蔽空穴-阴离子电荷陷阱来增强外在电荷迁移率”这一全新的化学电阻式传感机制，为理解导电MOF中的电荷传输提供了深刻见解。在实践上，为理性设计高灵敏度、高选择性的化学电阻式湿敏传感器提供了明确的指导原则，即选择电荷载流子与平衡离子间相互作用弱的材料。
+"研究结论": >-
+  M₂(TTFTB)单晶的电导率在潮湿环境下显著增强，其核心机制是极性水分子通过高介电常数和氢键作用，屏蔽了TTF•+自由基（空穴）与电荷平衡阴离子间的库仑引力，削弱了电荷陷阱效应，从而提高了空穴的外在迁移率。Zn₂(TTFTB)表现出极弱的湿度响应，是因为Zn²⁺具有高库仑势，对阴离子束缚力强，导致水分子屏蔽效应难以奏效。
+"对领域的贡献": >-
+  1. 提供了一套基于单晶器件的通用研究方法论，用以准确区分导电MOF中内禀和外禀的电荷传输机制，并量化离子传导的贡献。2. 将导电MOF传感机制的认识从现象层面提升到了微观物理图像层面，即“电荷陷阱屏蔽”模型。
+"未来研究方向提及": >-
+  1. 将本研究的方法论推广应用到其他导电MOF、COF等框架材料体系中，以揭示更广泛的电荷传输和传感机制。2. 利用“水分子优先被陷阱位点吸引”这一特性，探索该材料在痕量水或极低湿度环境下的传感应用潜力。
+"未来研究方向思考": >-
+  1. 采用太赫兹光谱等非接触式技术，直接探测水分子吸附前后微观尺度的电荷迁移率变化，为“屏蔽效应”模型提供更直接的证据。2. 系统研究并明确孔道内充当“陷阱”的平衡阴离子的具体化学身份及其对传感性能的影响。3. 将“屏蔽效应”模型拓展到其他极性有机溶剂蒸汽的传感中，并探索解决选择性的挑战。4. 结合密度泛函理论（DFT）等理论计算，定量模拟水分子与空穴-阴离子对的作用过程，预测不同金属离子和配体组合的屏蔽效果，实现计算驱动的材料筛选。 🚀 [笔记回链](zotero://select/library/items/W7B3GV4A) * * * `GPT 自定 ②` `deepseek-v4-pro` _由批量 AI 解读自动生成于 2026/8/11 06:51:29 （重新解读）_ 🏷️ #🤖️/AI文献解读 🏷️ #🤖️/AI文献阅读
+tags:
+  - paper
+  - type/experiment
+  - year/2025
+  - project/project-1
+  - relevance/project-1/medium
+  - project/project-2
+  - relevance/project-2/medium
+  - project/project-3
+  - relevance/project-3/medium
+  - project/project-4
+  - relevance/project-4/medium
+  - project/project-5
+  - relevance/project-5/strong
+  - project/project-6
+  - relevance/project-6/core
+  - project/project-7
+  - relevance/project-7/medium
+  - concept/2D-materials
+  - method/device-i-v
+  - method/dft
+  - method/eam
+  - method/xrd
+  - topic/2d-materials
+  - topic/charge-density-wave
+  - topic/ferroelectricity
+  - topic/humidity-sensing
+  - topic/mof
+  - topic/molecular-crystal
+  - topic/multiferroics
+  - topic/phase-transition
+  - topic/polarization
+  - topic/two-photon-fluorescence
+---
+
+## wangScreeningEnabledChemiresistiveMoisture2025 — 基于四硫富瓦烯导电金属-有机框架的筛选型化学电阻水分传感
+
+- **元数据**：Yingchao Wang, Xiaohe Miao, Paul A. Kempler, Jin-Hu Dou, Carl K. Brozek, Lei Sun* et al.，2025，*J. Am. Chem. Soc.* 2025, 147, 52, 48158–48165，DOI [10.1021/jacs.5c16110](https://doi.org/10.1021/jacs.5c16110)（西湖大学孙磊团队，联合俄勒冈大学 Brozek、北大窦金虎）
+
+- **一句话**：用 M₂(TTFTB)（M = Mn, Co, Zn, Cd）系列同构导电 MOF 单晶器件，通过系统排除法证明水分子并非靠质子传导、载流子注入或结构变化，而是以高介电常数和氢键"屏蔽" TTF•+ 空穴与平衡阴离子之间的库仑陷阱，从而提升外禀迁移率；并指出 Zn²⁺ 因高库仑势（Zeff/r = 0.044 pm⁻¹）对阴离子抓得更牢，屏蔽失效，故 Zn₂(TTFTB) 湿度响应最弱。
+
+- **现有wiki双链**：
+  - 概念 [[../concepts/2D-materials]]（同为低维/π-堆积体系中的电荷输运讨论，可类比）
+  - 年度 [[../write/2025]]
+  - 项目 [[../projects/project-6-humidity-sensor]]（核心相关：化学电阻式湿度传感、水对载流子陷阱的介电屏蔽）
+  - 项目 [[../projects/project-4-ttf-molecular-calc]]（TTF 分子及其 π-堆积柱中的空间电荷传输、能带/迁移率计算的类比参考）
+  - 相关论文 [[../../raw/note/wangScreeningEnabledChemiresistiveMoisture2025]]
+  - （wiki 中尚无 MOF、化学电阻传感、电荷陷阱屏蔽等条目，见下方"新概念/实体建议"）
+
+- **新概念/实体建议**：
+  - `conductive-mof.md`（导电金属-有机框架）：由金属节点和有机配体自组装、兼具晶态多孔性与可调电导率的材料，π-堆积柱/键共轭/氧化还原跳跃三类导电通道。
+  - `chemiresistive-sensing.md`（化学电阻传感）：分析物吸附引起敏感层电阻变化的检测范式；单晶 vs 多晶薄膜对机制判读的影响。
+  - `charge-trap-screening.md`（电荷陷阱屏蔽 / water screening of charge traps）：客体溶剂以高介电常数介质+氢键削弱空穴-抗衡离子库仑对，把局域载流子"释放"为可迁移载流子，区别于氧化还原掺杂、质子通道和本征迁移率变化。
+  - `tetrathiafulvalene.md`（四硫富瓦烯，TTF）：富硫电子给体，易氧化为 TTF•+ 自由基充当空穴；其 π-堆积柱是导电 MOF/COF/电荷转移盐中"空间电荷传输"的典型构筑单元（与 project-4 TTF 主题共享）。
+  - `through-space-charge-transport.md`（空间电荷传输）：载流子通过相邻分子轨道重叠而非共价键传输，受 π-堆积间距（如 S···S 距离）调制。
+  - `coulombic-potential.md`（库仑势 / Zeff·r⁻¹）：金属离子对配体/抗衡离子束缚强度的半定量指标，可解释配位共价性、晶体生长可逆性、客体屏蔽效率等差异。
+  - `extrinsic-charge-mobility.md`（外禀电荷迁移率）：受缺陷、陷阱、抗衡离子等外部因素调制的迁移率，与受晶体结构/轨道重叠决定的本征迁移率相区分。
+  - 实体 `M2-TTFTB.md`：M₂(TTFTB)（TTFTB⁴⁻ = tetrathiafulvalene tetrabenzoate）同构导电 MOF 系列，沿 c 轴 π-堆积 TTF 柱，M = Mn²⁺/Co²⁺/Zn²⁺/Cd²⁺，本工作的模型体系；CCDC 2486213、2486218。
+  - 实体（可并入 M2-TTFTB）`Zn2-TTFTB.md`：因 Zn²⁺ 高库仑势而表现出弱湿度响应、小晶体尺寸、慢脱附动力学的"反例"成员。
+
+- **关键图表**（笔记附图）：
+  - ![图1 Mn2(TTFTB)晶体结构：沿c轴纳米孔道、π-堆积TTF柱、配位水](../../raw/figures/wangScreeningEnabledChemiresistiveMoisture2025/fig_1_MXBQAIX7.png)
+  - ![图2 四种MOF单晶器件在干/湿N2循环切换下的电流-时间响应，Mn/Co/Cd开关比>10^3，Zn约10^2](../../raw/figures/wangScreeningEnabledChemiresistiveMoisture2025/fig_2_NPPDW9RW.png)
+  - ![图3 I-V、Nyquist、气氛控制方案、CW-EPR、原位PXRD(006)峰位移、四种MOF电导率汇总——排除O2、电荷密度和本征迁移率机制](../../raw/figures/wangScreeningEnabledChemiresistiveMoisture2025/fig_3_4NSSR4L5.png)
+  - ![图4 Pt溅射阻塞电极器件I-V/Nyquist与10V直流极化，排除质子传导](../../raw/figures/wangScreeningEnabledChemiresistiveMoisture2025/fig_4_RPGH3YNP.png)
+  - ![图5 机制示意：空穴-阴离子对→干燥下电荷陷阱→潮湿下水屏蔽释放空穴](../../raw/figures/wangScreeningEnabledChemiresistiveMoisture2025/fig_5_9LMI39W9.png)
+  - ![图6 Zn2(TTFTB)独特性：S···S距离、单晶EPR、CV、干湿活化能对比](../../raw/figures/wangScreeningEnabledChemiresistiveMoisture2025/fig_6_CWIG2WCN.png)
+
+- **项目连接**：
+  - **project-6 电压湿度传感器（强相关，核心参考）**：本文正是该项目 Zotero 文献池中的旗舰机制论文。直接提供：(1) 湿度调控电导率的本征物理图像——水分子以 ε≈80 的介电介质和氢键屏蔽局域库仑陷阱，提高外禀迁移率，可作为小花器件中"水分如何改变电阻"的候选机制；(2) 一套可复用的判别实验：线性 I-V + 半圆 Nyquist（纯电子）vs Warburg 斜线（离子/质子）、CW-EPR 监测载流子浓度、原位 PXRD 排除结构-迁移率变化、Pt 阻塞电极+10 V 直流极化排除质子、DRT 分析弛豫时间；(3) 定量数据：Mn/Co/Cd 体系湿空气 σ≈(0.9–2)×10⁻⁴ S·cm⁻¹、干燥 <3×10⁻⁶ S·cm⁻¹，开关比 ~10²（稳态电导）/~10³（动态电流）；Zn₂(TTFTB) σ_humid≈1×10⁻⁵、σ_dry≈6×10⁻⁶，开关比 <2；(4) "应选择载流子-抗衡离子相互作用弱的体系以获得高灵敏度"的设计原则，可指导敏感层筛选；(5) 水优先被陷阱位点吸引的特性提示该机制在极低湿度/痕量水检测中的潜力。
+  - **project-4 TTF 分子计算（中等相关，材料/物理类比）**：M₂(TTFTB) 的导电通道是沿 c 轴的长程 π-堆积 TTF 柱（through-space charge transport），与 TTF 分子计算项目共享同一分子基元。文中引用 Park/Hendon 等（JACS 2015）对该系列的能带结构计算，指出 S···S 距离（3.71–3.76 Å）决定本征空穴迁移率；这为 TTF 柱/堆叠体系的 DFT 建模（轨道重叠、跳跃积分、形变势）提供了实验对照。同时，"TTF 自氧化产生 TTF•+ 空穴，必须由孔道阴离子补偿"这一电荷图像，对 TTF 基分子器件的电荷注入/缺陷建模有参考价值。但本文不涉及分子逻辑/计算功能，仅在材料和电荷输运层面相关。
+  - **project-1 双光子**：无直接项目连接（无光学非线性/双光子吸收内容）。
+  - **project-2 Mn 多铁**：无直接项目连接。虽然研究了 Mn₂(TTFTB)，但其中 Mn²⁺ 仅作为金属节点调控孔道/库仑势，未涉及磁电耦合、多铁序；EPR 中 Mn²⁺ 顺磁信号反而干扰自由基定量，不构成多铁物理参考。
+  - **project-3 机械发光 NN**：无直接连接（无发光/力学耦合/机器学习内容）。
+  - **project-5 SnTe 铁电模拟**：无直接连接。两者都涉及库仑相互作用和介电屏蔽的概念，但材料体系、尺度和物理目标差异大；本文的"客体介电常数调制局域库仑势"思想与铁电体中缺陷/屏蔽物理无直接可复用的方法或数据。
+  - **project-7 CDW**：无直接连接（无电荷密度波、费米面嵌套、强关联相变内容）。
+
+- **组织与用词**：
+  - 论证结构是一条严密的"排除法链条"：现象确认（四种 MOF 湿敏、Zn 异常）→ 区分电子/离子（I-V、Nyquist、DRT）→ 排除 O₂ 掺杂（CW-EPR）→ 排除本征迁移率（原位 PXRD 显示干燥下 TTF 间距反而缩小）→ 排除质子/PCET（Pt 阻塞电极、直流极化、阶梯电压计时电流）→ 提出水屏蔽电荷陷阱模型 → 用 Zn²⁺ 高库仑势这一"反例"反向验证模型 → 提炼设计准则。每一步都给出独立的、互相印证的实验证据。
+  - 可复用术语（中英对照）：
+    - 化学电阻传感 / chemiresistive sensing
+    - 电荷陷阱屏蔽 / water screening of charge traps
+    - 空穴-阴离子对 / hole–anion pair
+    - 外禀（电荷）迁移率 / extrinsic charge mobility
+    - 空间电荷传输 / through-space charge transport
+    - 库仑势 / Coulombic potential（Zeff/r_crystal）
+    - 质子耦合电子传输 / proton-coupled electron transport (PCET)
+    - 弛豫时间分布分析 / distribution of relaxation times (DRT)
+    - 单晶晶格 c 轴收缩（干燥）/ contraction of crystallographic c axis
+    - π-堆积 TTF 柱 / π-stacked TTF columns
+
+- **可写入wiki的要点**：
+  1. **模型体系**：M₂(TTFTB)（M = Mn²⁺, Co²⁺, Zn²⁺, Cd²⁺；TTFTB⁴⁻ = 四硫富瓦烯四苯甲酸酯）为同构微孔导电 MOF，沿晶体学 c 轴形成长程 π-堆积 TTF 柱，TTF 自氧化生成 TTF•+ 自由基（空穴）作为载流子；金属-羧酸链上部分金属离子配位水分子，孔道中存在 NO₃⁻/OH⁻/羧酸根缺陷等电荷平衡阴离子。
+  2. **湿敏现象**：四种单晶两探针器件（0.1 V DC，沿 c 轴）在湿 N₂（100% RH）下电流显著高于干 N₂（<0.02% RH）。Mn/Co/Cd 体系动态开关比 >10³，Zn 体系 ~10²；平衡时间随循环次数增加而变长。稳态电导率：湿空气 (0.9–2)×10⁻⁴ S·cm⁻¹、干燥 <3×10⁻⁶ S·cm⁻¹（Mn/Co/Cd，开关比 ~10²）；Zn 湿空气 ~1×10⁻⁵、干燥 ~6×10⁻⁶，开关比 <2。
+  3. **纯电子传导判据**：所有器件 I-V 线性（−10 到 10 V，无赝电容迹象），Nyquist 图为完美半圆（RC 并联等效电路，无 Warburg 扩散元件）；DC 与 AC 电导率几乎相同；e-beam + 磁控溅射制备的致密 Pt 电极（质子阻塞）器件仍呈线性 I-V 与半圆 Nyquist，σ_DC≈σ_AC≈3.4×10⁻⁴ S·cm⁻¹（比碳浆/金线器件高约 30 倍，归因于小尺寸单晶质量更高）。
+  4. **排除质子/PCET**：10 V 恒压直流极化 2000 s 后，Zn₂(TTFTB) 电流仅降 ~1%，其他三种降 4–8%，远小于电导开关比；−5 到 5 V 阶梯电压计时电流测量未见离子迁移特有的瞬态电流。质子传导和质子-电子耦合传输对电导贡献可忽略。
+  5. **排除 O₂ 与载流子浓度变化**：Zn₂(TTFTB) 的 CW-EPR（g∥=2.0002, g⊥=2.0060，接近自由电子 g_e=2.0023，证实为 TTF•+）在空气和真空中几乎不变；空气/有氧条件合成的晶体自由基浓度分别为 1.091×10¹⁷ 和 0.859×10¹⁷ mm⁻³，差异可忽略。Cd 体系已有同样结论。起作用的是 H₂O 而非 O₂。
+  6. **排除本征迁移率变化**：原位 PXRD 显示抽真空使 (006) 峰向高角度移动，c 轴收缩、相邻 TTF 间最短 S···S 距离缩短约 0.1 Å（四种材料 S···S 距离仅 3.71–3.76 Å）。按能带计算，更短的 π-堆积距离应提高本征迁移率，但实验电导反而下降，证明电导增强不来自本征结构-迁移率通道。
+  7. **水屏蔽电荷陷阱机制**：TTF•+（空穴）与孔道阴离子形成库仑束缚的"空穴-阴离子对"，在干燥下构成深电荷陷阱，压低外禀迁移率；吸附水一方面通过氢键将阴离子拉离空穴，另一方面以 ε_H2O=80.2（ε_N2=1.0, 293 K）的高介电常数介质屏蔽库仑引力，两者共同释放空穴，提高外禀迁移率和宏观电导。DRT 分析显示湿空气下弛豫时间（Zn ~10⁻² s，其他 ~10⁻⁴ s）比干 N₂（10⁻¹–10⁻² s）更短，电荷传输更快；Zn 的气氛变化最小，与其弱响应一致。
+  8. **Zn²⁺ 反常行为的解释**：Zn²⁺ 的有效核电荷/晶体半径比 Zeff/r_crystal = 0.044 pm⁻¹，高于 Mn²⁺/Co²⁺/Cd²⁺ 的 0.038–0.040 pm⁻¹，因此对阴离子束缚更强、Zn–O 键共价性更高（相同条件下 Zn 晶体 <100 μm，其他可达毫米级），水难以介入屏蔽。变温（293–353 K）Arrhenius 拟合：Mn/Co/Cd 在湿空气中的电导活化能 Eₐ 显著低于干 N₂，而 Zn₂(TTFTB) 的 Eₐ 在两种气氛下几乎相同，直接证实水对其陷阱屏蔽无效；高库仑势还增强配位水氢原子的形式电荷，使吸附水滞留，解释其慢平衡/小开关比。
+  9. **设计准则**：要实现对水的高化学电阻灵敏度，应选择或设计电荷载流子物种与抗衡离子相互作用较弱的 MOF（低 Zeff/r、更松散的阴离子束缚），以便客体水分子有效屏蔽陷阱；由于水优先被陷阱位点吸引，该机制尤其适合极低湿度（痕量水）检测。
+  10. **方法学贡献**：建立了"单晶器件 + DC/AC 电学 + CW-EPR + 原位 PXRD/SC-XRD + 阻塞电极 + 直流极化 + DRT"的组合流程，可系统区分导电 MOF 中（i）载流子浓度、（ii）本征迁移率、（iii）质子/离子传导、（iv）外禀陷阱屏蔽四种客体调控通道；该流程可推广到 COF、HOF 及其他混合离子-电子导体。
