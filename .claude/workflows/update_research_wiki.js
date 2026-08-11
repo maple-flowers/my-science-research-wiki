@@ -11,7 +11,14 @@ export const meta = {
   ]
 }
 
-const GLOBAL_TEMP_INSTRUCTION = "IMPORTANT: If you need to create any temporary scripts, data files, or byproducts, you MUST place them in the 'tools/' directory. Do not create files in the root directory.";
+const GLOBAL_TEMP_INSTRUCTION = `
+IMPORTANT:
+1. If you need to create any temporary scripts, data files, or byproducts, you MUST place them in the 'tools/' directory. Do not create files in the root directory.
+2. When referencing figures or images, ALWAYS use standard markdown image syntax with relative paths.
+   - For files in 'wiki/concepts/', 'wiki/entities/', 'wiki/topics/', 'wiki/projects/', or 'wiki/figures/', the path to a figure should be '../../raw/figures/{citekey}/{filename}'.
+   - Example: ![Figure Title](../../raw/figures/CiteKey/fig_1_XYZ.png)
+   - DO NOT just provide a text link.
+`;
 
 // 1. Discovery Phase
 phase('Discovery')
@@ -166,9 +173,17 @@ await pipeline(
       Expert researcher task:
       1. Read figure category file: ${fullPath}.
       2. Scan all raw/figures/*/manifest.json to find new figures, tables, or formulas matching this category's theme.
-      3. Add metadata entries (citekey, title, description, link) for new figures into the appropriate sub-sections of ${fullPath}.
-      4. Update the "收录总数" or counts in the file.
-      5. Rewrite ${fullPath} directly.
+      3. Add entries for new figures into the appropriate sub-sections of ${fullPath}.
+      4. For each figure entry, use the following format:
+         ### {CiteKey} - {Figure Title}
+         ![{Description}](../../raw/figures/{CiteKey}/{filename})
+         - **描述**: {Description}
+         - **标签**: {Tags}
+         - **材料**: {Materials}
+         - **方法**: {Methods}
+         - **链接**: [PDF](zotero://open-pdf/library/items/{Key})
+      5. Update the "收录总数" or counts in the file.
+      6. Rewrite ${fullPath} directly.
     `)
   }
 )
