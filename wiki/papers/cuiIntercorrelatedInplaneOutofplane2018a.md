@@ -9,32 +9,32 @@ url: "https://doi.org/10.1021/acs.nanolett.7b04852"
 paper_type: experiment
 status: ingested
 year_read: 2026
-original_note: "[[../../raw/note/cuiIntercorrelatedInplaneOutofplane2018a]]"
+original_note:: [[../../raw/note/cuiIntercorrelatedInplaneOutofplane2018a]]
 projects: [project-2, project-4, project-5]
 concepts: [ferroelectricity, 2d-materials, polarization-switching, in-plane-out-of-plane-coupling, odd-even-effect, antiparallel-polarization-stacking, ferroelectric-domain, domain-wall, depolarizing-field, schottky-barrier, switchable-diode, memristor, multiferroicity]
 entities: [In2Se3, VASP, SnTe, PZT, BaTiO3, CuInP2S6, mica, Au]
 methods: [cvd, afm, pfm, cafm, stem, haadf, saed, scanning-electron-diffraction, raman, dft, pbe, hse06, optb88-vdw, e-beam-lithography, i-v-transport]
 materials: [alpha-In2Se3, beta-In2Se3, mica, Au, SnTe, CuInP2S6]
 figures: [crystal-structures, electronic-devices, experimental-setups, domain-walls]
-"领域基础知识": >-
+领域基础知识:: >-
   二维(2D)范德华层状半导体材料，铁电性(Ferroelectricity)，窄带隙半导体，压电力显微镜(PFM)。铁电性指材料具有可被外加电场反转的自发极化。
-"研究背景": >-
+研究背景:: >-
   传统铁电体为宽禁带绝缘体，功能单一，无法与光电技术结合。二维材料中同时具备窄带隙（可见光响应）和铁电性的实验证据稀少，其物理机制不明。
-"作者的问题意识": >-
+作者的问题意识:: >-
   能否在二维极限下实现一种窄带隙的铁电半导体，使其不仅具备电控极化反转能力，还能通过可见光进行多功能操控，并揭示其内在的铁电耦合机制。
-"主要研究对象": >-
+主要研究对象:: >-
   化学气相沉积(CVD)法生长的超薄二维层状半导体α-In₂Se₃纳米片。
-"主要研究方法": >-
+主要研究方法:: >-
   控制冷却速率的CVD法生长，原子力显微镜(AFM)，压电力显微镜(PFM)及导电原子力显微镜(CAFM)，扫描透射电子显微镜(STEM)与扫描电子衍射(SED)，密度泛函理论(DFT)计算，以及电学输运测量。
-"研究意义": >-
+研究意义:: >-
   首次实验证实了二维半导体中相互关联的面内(IP)和面外(OOP)铁电性，并展示了其层数依赖的奇偶效应，为构建电场和光双重可调的多态新型存储器件提供了材料基础和新原理。
-"研究结论": >-
-  α-In₂Se₃具有内禀相关联的IP和OOP极化，其极化方向随层数呈现奇偶交替。这种独特的铁电性源自反平行的层间堆叠。基于此特性，成功演示了能被电场和可见光共同操控的非易失性阻变存储器件。
-"对领域的贡献": >-
+研究结论:: >-
+  α-In₂Se₃具有内禀相关联的IP与OOP极化，其极化方向随层数呈现奇偶交替。这种独特的铁电性源自反平行的层间堆叠。基于此特性，成功演示了能被电场和可见光共同操控的非易失性阻变存储器件。
+对领域的贡献:: >-
   1. 发现了一种全新的二维铁电耦合机制(IP-OOP关联)。2. 实验上揭示了二维铁电的层数依赖性(奇偶效应)。3. 提出了一个“电场+光”双控多态存储的新器件范式。
-"未来研究方向提及": >-
+未来研究方向提及:: >-
   1. 提高写入铁电畴的稳定性。2. 探索基于α-In₂Se₃的范德华异质结构器件。
-"未来研究方向思考": >-
+未来研究方向思考:: >-
   1. 结合封装技术改善畴稳定性和环境适应性。2. 优化器件结构（如接触工程）以提升开关比等性能指标。3. 研究α-In₂Se₃与其它二维材料（如TMDs，石墨烯）构成的异质结中的铁电近邻效应。4. 探索其在柔性电子和神经形态计算中的应用。
 tags:
   - paper
@@ -97,41 +97,44 @@ tags:
 
 ## cuiIntercorrelatedInplaneOutofplane2018a — 超薄二维层状半导体 In2Se3 中面内与面外铁电性的互相关联
 
-- **元数据**：Cui, Hu, Yan, Addiego, Gao, Wang, Wang, Li, Cheng, Li, Zhang, Alshareef, Wu, Zhu, Pan, Li et al.，2018，Nano Letters 18(2), 1253–1258，DOI 10.1021/acs.nanolett.7b04852
-- **一句话**：首次在实验上证实室温下二维范德华半导体 α-In2Se3 同时具有面内（IP）与面外（OOP）相互锁定的本征铁电极化，并展示层数奇偶效应和电场/可见光双控的多态非易失存储原型。
-- **现有wiki双链**：
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/multiferroicity]]、[[../concepts/polarization-switching]]、[[../concepts/topological-defects]]（畴壁部分相关）
-  - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/SnTe]]
+## 📄 元数据
+Cui, Hu, Yan, Addiego, Gao, Wang, Wang, Li, Cheng, Li, Zhang, Alshareef, Wu, Zhu, Pan, Li et al.，2018，Nano Letters 18(2), 1253–1258，DOI 10.1021/acs.nanolett.7b04852
+## 💡 一句话
+首次在实验上证实室温下二维范德华半导体 α-In2Se3 同时具有面内（IP）与面外（OOP）相互锁定的本征铁电极化，并展示层数奇偶效应和电场/可见光双控的多态非易失存储原型。
+## 🔗 Wiki 双链
+  - 概念 [[../concepts/2D-materials]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/multiferroicity]]、[[../concepts/polarization-switching]]、[[../concepts/in-plane-out-of-plane-coupling|面内-面外极化耦合]]、[[../concepts/odd-even-effect|奇偶层数效应]]、[[../concepts/antiparallel-polarization-stacking|反平行极化堆垛]]、[[../concepts/ferroelectric-domain|铁电畴]]、[[../concepts/depolarizing-field|退极化场]]、[[../concepts/schottky-barrier|肖特基势垒]]、[[../concepts/switchable-diode|可切换二极管]]、[[../concepts/memristor|忆阻器]]、[[../concepts/topological-defects]]（畴壁部分相关）
+  - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/SnTe]]、[[../entities/BaTiO3|BaTiO₃]]、[[../entities/CuInP2S6|CuInP₂S₆]]、[[../entities/PZT]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups]]、[[../figures/domain-walls]]
   - 年度 [[../write/2018]]
-  - 相关论文 [[../../raw/note/cuiIntercorrelatedInplaneOutofplane2018a]]
-- **新概念/实体建议**：
+  - 相关论文 **cuiIntercorrelatedInplaneOutofplane2018a**
+## 🆕 新概念/实体建议
   - `in-plane-out-of-plane-coupling`（面内-面外极化互锁）：α-In2Se3 中由中心 Se 原子层横向位移同时驱动 IP/OOP 极化翻转的本征耦合机制。
   - `odd-even-effect`（奇偶层数效应）：相邻层反平行堆叠导致奇/偶数层宏观极化方向相反。
   - `antiparallel-polarization-stacking`（反平行极化堆垛）：层间极化反向排列，是奇偶效应与净极化抵消的微观起源。
   - `switchable-diode`（可切换二极管）：铁电极化调制两端金属-半导体肖特基势垒，使整流方向可被电场反转。
   - `scanning-electron-diffraction`（扫描电子衍射, SED）：通过 CBED 图样重心位移直接成像样品内投影电场的表征技术。
   - `depolarizing-field`（退极化场）：铁电体表面束缚电荷产生的反向电场，其屏蔽程度决定单畴/多畴态。
-- **关键图表**：
-  - ![图1 合成与结构表征：CVD生长、AFM、Raman、SAED、单层α-In2Se3原子分辨STEM，确认FE-ZB'构型](../../raw/figures/cuiIntercorrelatedInplaneOutofplane2018a/fig_1_MQ5WQF79.png)
-  - ![图2 PFM研究：1–6层面内相位奇偶振荡，STEM-HAADF及SED投影电场显示2L到3L电场反转](../../raw/figures/cuiIntercorrelatedInplaneOutofplane2018a/fig_2_HLGI8HDK.png)
-  - ![图3 铁电翻转：IP/OOP耦合模型，±电压写入方块后OOP与IP相位同步翻转，蝴蝶形振幅回线与180°相位突变](../../raw/figures/cuiIntercorrelatedInplaneOutofplane2018a/fig_3_YHE8WF9K.png)
-  - ![图4 电控导电：CAFM电流图、四数量级阻变、平面Au/α-In2Se3/Au器件、极化依赖能带、电+光四态存储](../../raw/figures/cuiIntercorrelatedInplaneOutofplane2018a/fig_4_6L59ASAB.png)
-- **项目连接**：
+## 📊 关键图表
+  - ![图1 合成与结构表征：CVD生长、AFM、Raman、SAED、单层α-In2Se3原子分辨STEM，确认FE-ZB'构型](../../raw/figures/cuiIntercorrelatedInplaneOutofplane2018a/fig_1_MQ5WQF79.png) → [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图2 PFM研究：1–6层面内相位奇偶振荡，STEM-HAADF及SED投影电场显示2L到3L电场反转](../../raw/figures/cuiIntercorrelatedInplaneOutofplane2018a/fig_2_HLGI8HDK.png) → [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图3 铁电翻转：IP/OOP耦合模型，±电压写入方块后OOP与IP相位同步翻转，蝴蝶形振幅回线与180°相位突变](../../raw/figures/cuiIntercorrelatedInplaneOutofplane2018a/fig_3_YHE8WF9K.png) → [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图4 电控导电：CAFM电流图、四数量级阻变、平面Au/α-In2Se3/Au器件、极化依赖能带、电+光四态存储](../../raw/figures/cuiIntercorrelatedInplaneOutofplane2018a/fig_4_6L59ASAB.png) → [[../figures/experimental-setups|实验测试与测量装置]]
+## 🔬 项目连接
   - project-5（SnTe 铁电模拟）— **strong**：本文直接以 SnTe 单层 IP 铁电性（Chang et al., Science 2016）为对照，系统讨论二维铁电体的 IP/OOP 极化、奇偶层数效应、退极化场屏蔽、以及 DFT 预测/验证流程；其 VASP + PBE + HSE06 + optB88-vdW、550 eV 截断、12×12×1 k 网格、20 Å 真空层的计算配方可直接迁移到 SnTe 等 IV–VI 族二维铁电体的极化与堆垛计算。
   - project-2（Mn 多铁）— **medium**：α-In2Se3 本身不是多铁，但提供了二维极限下"IP 与 OOP 极化内禀互锁"这一与磁电耦合思路相近的多序参量耦合范例；其层间反平行堆叠、奇偶效应、单畴形成条件（IP 极化大于 OOP + 载流子屏蔽退极化场）可作为 Mn 基多铁/二维多铁讨论中的物理类比与对照。
   - project-4（TTF 分子计算）— **weak**：方法学层面可参考其 DFT 工作流（PBE 结构弛豫 + HSE06 带隙 + optB88-vdW 处理弱相互作用 + 力收敛 0.005 eV/Å），对含弱相互作用的分子晶体计算有间接参考价值；材料体系与物理问题差异较大。
   - project-1 / project-3 / project-6 / project-7：无直接项目连接。
-- **组织与用词**：文章沿"材料制备（CVD + 慢冷筛 α 相）→ 结构确认（AFM/Raman/SAED/STEM 确定 FE-ZB' 构型）→ 本征铁电性（PFM 奇偶效应 + SED 电场成像）→ 极化关联翻转（畴写入 + 带回线测真伪）→ 器件应用（CAFM 垂直阻变 + 平面可切换二极管 + 光控多态）"层层递进。论证中以 PFM 相位作为极化方向的指纹，以 SED 电场矢量图作为微观"眼见为实"，以顶电极回线排除静电/离子伪像，最后用电学输运将极化态与电阻态绑定。值得复用的术语：
-  - ferroelectricity / 铁电性
+## 📝 组织与用词
+文章沿"材料制备（CVD + 慢冷筛 α 相）→ 结构确认（AFM/Raman/SAED/STEM 确定 FE-ZB' 构型）→ 本征铁电性（PFM 奇偶效应 + SED 电场成像）→ 极化关联翻转（畴写入 + 带回线测真伪）→ 器件应用（CAFM 垂直阻变 + 平面可切换二极管 + 光控多态）"层层递进。论证中以 PFM 相位作为极化方向的指纹，以 SED 电场矢量图作为微观"眼见为实"，以顶电极回线排除静电/离子伪像，最后用电学输运将极化态与电阻态绑定。值得复用的术语：
+  - [[../concepts/ferroelectricity|ferroelectricity / 铁电性]]
   - in-plane (IP) vs out-of-plane (OOP) polarization / 面内与面外极化
   - intercorrelated polarization / 互相关联极化
-  - odd–even layer effect / 奇偶层数效应
-  - antiparallel interlayer stacking / 层间反平行堆垛
+  - [[../concepts/odd-even-effect|odd–even layer effect / 奇偶层数效应]]
+  - [[../concepts/interlayer-stacking|antiparallel interlayer stacking / 层间反平行堆垛]]
   - FE-ZB' configuration / FE-ZB' 构型
-  - switchable diode effect / 可切换二极管效应
-  - depolarizing field / 退极化场
-- **可写入wiki的要点**：
+  - [[../concepts/switchable-diode|switchable diode effect / 可切换二极管效应]]
+  - [[../concepts/depolarizing-field|depolarizing field / 退极化场]]
+## ✏️ 可写入 Wiki 的要点
   1. α-In2Se3 为室温二维范德华铁电半导体，带隙约 1.3 eV，在双层至 6 nm 薄片中均保持铁电性；CVD 生长后以 0.1 °C/min 慢冷可显著提高 α 相比例，快冷样品以非铁电 β 相为主。
   2. α-In2Se3 单层原子结构确认为 FE-ZB' 构型（五层 Se–In–Se–In–Se 中中心 Se 偏离中心位置），是 Ding et al. (Nat. Commun. 2017) 预测的四种 α 相构型中能量最低的铁电构型。
   3. α-In2Se3 的 IP 极化远大于 OOP 极化（OOP 小几十倍），但两者在电场下本征互锁：垂直电场翻转 OOP 极化时，中心 Se 原子层横向位移同步带动 IP 极化旋转；这区别于 SnTe（仅 IP）和 CuInP2S6（仅 OOP）。

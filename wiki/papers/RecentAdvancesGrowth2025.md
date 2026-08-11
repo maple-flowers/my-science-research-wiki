@@ -10,33 +10,33 @@ url: "https://doi.org/10.15302/frontphys.2025.044302"
 paper_type: review
 status: ingested
 year_read: 2026
-original_note: "[[../../raw/note/RecentAdvancesGrowth2025]]"
+original_note:: [[../../raw/note/RecentAdvancesGrowth2025]]
 projects: [project-1, project-2]
 concepts: [2D-materials, ferroelasticity, ferroelectric-tunnel-junction, magnetoelectric-coupling, multiferroicity, polarization-switching, sliding-ferroelectricity, spin-orbit-coupling, strain-engineering]
 entities: [BiFeO3, In2Se3, MXenes, TMDs]
 methods: [afm-pfm, raman, squid, stm-mbe, tem, xanes, xrd]
 materials: [BiFeO3, In2Se3, MXenes, TMDs]
 figures: [crystal-structures, electronic-devices, experimental-setups, heterostructures-stacking, optical-spectra, vibrational-spectra]
-"领域基础知识": >-
+领域基础知识:: >-
   多铁性材料（Multiferroics）是在单一相中同时存在两种或两种以上铁性序（如铁电性FE、铁磁性FM、铁弹性FA）的材料。其核心物理在于不同铁性序之间的交叉耦合，特别是磁电耦合(Magnetoelectric coupling)，即通过电场控制磁性或通过磁场控制电极化。二维多铁材料将这一特性带入原子级厚度极限，为器件微型化、低功耗化和多功能化开辟了新途径，是凝聚态物理和材料科学的前沿交叉领域。
-"研究背景": >-
+研究背景:: >-
   传统块体多铁材料面临尺寸限制、界面效应和集成困难等挑战。二维材料兴起后，其实验制备（如单层NiI₂的成功）激发了该领域的研究热潮。二维材料层间弱的范德华力（vdW）使其易于达到二维极限，并可通过堆叠、转角等方式产生新奇物性。然而，实现室温下具有强磁电耦合的稳定二维多铁材料，并探索其在高密度存储、低功耗自旋电子学等领域的应用，是该领域当前的核心驱动力和挑战。
-"作者的问题意识": >-
+作者的问题意识:: >-
   作者旨在系统地梳理当前二维多铁材料领域的研究进展，特别是针对铁磁-铁电和铁磁-铁弹性材料。文章的核心问题意识体现在：1. 如何通过不同的生长方法（如CVD、PVD、MBE）制备高质量的二维多铁材料？2. 有哪些先进表征技术（如SHG、STM、拉曼光谱）可以用于确认和解析其多铁性及磁电耦合？3. 基于这些材料和耦合效应，可以开发出哪些具体的应用器件（如非易失性存储器、自旋电子器件）？4. 该领域当前面临的主要挑战和未来的发展方向是什么？
-"主要研究对象": >-
+主要研究对象:: >-
   本综述的主要研究对象是**二维多铁性材料**，特别是具有铁磁-铁电（FM-FE）和铁磁-铁弹性（FM-FA）耦合的材料体系。重点剖析了II型多铁材料，如单层或少层的NiI₂、Cr₂S₃、CuCrSe₂等，同时也涵盖了通过掺杂（如p型SnSe）或构建异质结（如CrI₃/In₂Se₃）实现多铁性的材料，以及理论预测的多种候选材料（如各类过渡金属卤化物、硫族化合物）。
-"主要研究方法": >-
+主要研究方法:: >-
   文章综述了该领域的研究方法，分为两大类别：1. **材料生长方法**：集中讨论了自下而上的气相沉积技术，包括化学气相沉积（CVD）、物理气相沉积（PVD）、分子束外延（MBE）和原子层沉积（ALD），并对比了它们的优缺点。2. **表征与建模工具**：详细介绍了用于探测多铁序及其耦合的先进技术，包括：扫描隧道显微镜（STM）、二次谐波产生（SHG）、拉曼光谱、双折射测量、透射电子显微镜（TEM）、电子能量损失谱（EELS）、太赫兹反射光谱、X射线衍射（XRD）、中子散射和原子力显微镜（AFM）等。
-"研究意义": >-
+研究意义:: >-
   该综述的研究意义在于为二维多铁材料这一新兴且快速发展的领域提供了一个系统、全面的知识框架。它不仅整合了从材料制备到性质表征，再到器件应用的完整研究链条，还通过对比不同方法和分析里程碑式案例，为研究者提供了宝贵的参考。此外，文章明确指出了当前面临的挑战（如室温多铁性缺失）和未来的机遇（如探索三铁性），为后续研究指明了方向，对该领域的学术研究和技术应用发展具有重要的指导价值。
-"研究结论": >-
+研究结论:: >-
   二维多铁材料，特别是II型多铁体，已在实验上取得了从块体到单层极限的突破，展现出巨大的应用潜力，可用于非易失性存储器、低功耗自旋电子学、高灵敏度传感器和能量收集器等。多种气相沉积法（CVD/CVT为主）和先进表征技术（SHG、STM、拉曼光谱等）共同构成了该领域的研究基石。然而，该领域仍处于发展初期，主要瓶颈在于：1. 室温下具有强磁电耦合的二维多铁材料极其稀缺；2. 高质量、大面积、稳定材料的可控合成工艺尚不成熟；3. 电控磁电开关的电压和效率有待优化。
-"对领域的贡献": >-
+对领域的贡献:: >-
   本文的贡献在于提供了一个关于二维多铁材料从理论、制备、表征到应用的“一站式”全面综述。它精准地定义了该领域的核心问题，系统性地归类并比较了各种生长和表征技术，通过深入分析NiI₂、Cr₂S₃等关键实验案例，生动地展示了从基础物理到实际应用的转化路径。最后，它清晰地总结了未来的挑战和发展方向，如寻找室温多铁材料、开发三铁性材料、降低操作电压等，为凝聚态物理和材料科学领域的研究者提供了一份极具价值的路线图。
-"未来研究方向提及": >-
+未来研究方向提及:: >-
   文章明确提及的未来研究方向包括：1. 发现和制备新型室温二维多铁材料，特别是具有强磁电耦合的体系；2. 探索同时具有铁电、铁磁、铁谷三种序的“三铁性”材料；3. 发展非层状材料的范德华外延生长等新制备方法；4. 将铁电/磁电翻转电压降至100 mV以下；5. 建立多铁性与量子物理（如拓扑、量子纠缠）的联系，探索其在量子信息领域的应用；6. 深入研究多铁畴的动力学行为。
-"未来研究方向思考": >-
-  基于本文的批判性思考，未来研究可拓展的方向包括：1. 建立理论模型来系统平衡和优化二维多铁材料的极化、耦合强度和转变温度这三个关键参数，指导材料设计；2. 建立一套公认的、更严格的实验证据链标准，以确凿无疑地证实新材料的本征多铁性，尤其是在单层极限下；3. 聚焦于二维多铁材料在柔性电子、可穿戴设备、生物医学传感器等新兴领域的“杀手级应用”，而不仅仅是替代传统芯片的功能；4. 利用高通量计算和机器学习，从海量DFT预测的候选材料中高效筛选出高潜力目标，并指导实验合成，加速研发进程。 🚀 [笔记回链](zotero://select/library/items/RFJF8AZH) * * * `GPT 自定 ②` `deepseek-v4-pro` _由批量 AI 解读自动生成于 2026/8/11 06:52:16 （重新解读）_ 🏷️ #🤖️/AI文献解读 🏷️ #🤖️/AI文献阅读
+未来研究方向思考:: >-
+  基于本文的批判性思考，未来研究可拓展的方向包括：1. 建立理论模型来系统平衡和优化二维多铁材料的极化、耦合强度和转变温度这三个关键参数，指导材料设计；2. 建立一套公认的、更严格的实验证据链标准，以确凿无疑地证实新材料的本征多铁性，尤其是在单层极限下；3. 聚焦于二维多铁材料在柔性电子、可穿戴设备、生物医学传感器等新兴领域的“杀手级应用”，而不仅仅是替代传统芯片的功能；4. 利用高通量计算和机器学习，从海量DFT预测的候选材料中高效筛选出高潜力目标，并指导实验合成，加速研发进程。
 tags:
   - paper
   - type/review
@@ -82,11 +82,13 @@ tags:
 
 ## RecentAdvancesGrowth2025 — 二维多铁性材料的生长、表征及应用研究进展
 
-- **元数据**：Dahua Ren, Yao Wen, Hui Zeng, Xiaoqiang Feng, Teng Zhang, Yuan Zhang, Liushun Wang, Qiang Li, Ming Du, Zhangyang Zhou, Jinqiao Yi（通讯）, Jun He et al.，2025，Frontiers of Physics 20(4), 44302，DOI: 10.15302/frontphys.2025.044302
+## 📄 元数据
+Dahua Ren, Yao Wen, Hui Zeng, Xiaoqiang Feng, Teng Zhang, Yuan Zhang, Liushun Wang, Qiang Li, Ming Du, Zhangyang Zhou, Jinqiao Yi（通讯）, Jun He et al.，2025，Frontiers of Physics 20(4), 44302，DOI: 10.15302/frontphys.2025.044302
 
-- **一句话**：系统综述二维多铁材料（重点为 II 型铁磁-铁电/铁磁-铁弹体系）的分类、CVD/PVD/MBE/ALD 生长方法、STM/SHG/拉曼/太赫兹等表征工具箱及六大器件应用，并以 NiI₂、Cr₂S₃、CuCrSe₂、p 型 SnSe 为里程碑案例。
+## 💡 一句话
+系统综述二维多铁材料（重点为 II 型铁磁-铁电/铁磁-铁弹体系）的分类、CVD/PVD/MBE/ALD 生长方法、STM/SHG/拉曼/太赫兹等表征工具箱及六大器件应用，并以 NiI₂、Cr₂S₃、CuCrSe₂、p 型 SnSe 为里程碑案例。
 
-- **现有wiki双链**：
+## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]
   - 概念 [[../concepts/magnetoelectric-coupling]]
   - 概念 [[../concepts/2D-materials]]
@@ -106,11 +108,12 @@ tags:
   - 图表 [[../figures/vibrational-spectra]]
   - 图表 [[../figures/electronic-devices]]
   - 图表 [[../figures/heterostructures-stacking]]
+  - 图表 [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - 年度 [[../write/2025]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/RecentAdvancesGrowth2025]]
 
-- **新概念/实体建议**：
+## 🆕 新概念/实体建议
   - `type-II-multiferroics`（概念）：铁电极化直接由螺旋磁序等特殊磁结构通过自旋-轨道耦合诱导（P ∝ e×q 或逆 DM/自旋流机制），磁电耦合强但极化小、转变温度低；与 I 型多铁（铁电与磁来源独立、弱耦合）相对。
   - `d0-rule`（概念）：传统铁电性要求过渡金属 d 轨道空（d⁰），而磁性要求 d 轨道未填满，二者化学互斥，解释了磁性铁电体稀缺的根本原因。
   - `electromagnon`（概念）：兼具电偶极活性的磁振子激发，是动态磁电耦合的直接"指纹"，可被太赫兹光谱和圆偏振拉曼探测。
@@ -122,37 +125,40 @@ tags:
   - `SnSe`（实体）：PVD 在云母上生长的 p 型掺杂 SnSe，337 K 亚铁磁性与室温铁电共存，伴局域相分离微畴与界面电荷转移。
   - `vapor-deposition-growth`（概念）：CVD/CVT/PVD/MBE/ALD 等自下而上气相沉积家族的统称，是二维多铁材料走向晶圆级制备的主流路线。
 
-- **关键图表**：
+## 📊 关键图表
   - ![图1 铁磁/铁电/多铁体在时间反演与空间反演下的对称性](../../raw/figures/RecentAdvancesGrowth2025/fig_1_7IQ7CDIJ.png)
   - ![图2 铁性序（M/P/ε）及其磁电、压电、磁致伸缩交叉耦合与I/II型分类](../../raw/figures/RecentAdvancesGrowth2025/fig_2_3222BK6D.png)
   - ![图3 机械/液相剥离（离子插层、离子交换、超声辅助）机制](../../raw/figures/RecentAdvancesGrowth2025/fig_3_JZ2AKYEZ.png)
-  - ![图4 四种气相沉积方法对比：CVD、PVD、MBE、ALD](../../raw/figures/RecentAdvancesGrowth2025/fig_4_QAJUJ232.png)
+  - ![图4 四种气相沉积方法对比：CVD、PVD、MBE、ALD](../../raw/figures/RecentAdvancesGrowth2025/fig_4_QAJUJ232.png) → [[../figures/experimental-setups|实验测试与测量装置]]
   - ![图5 CVD界面调制生长晶圆级单胞Cr₂S₃（AFM单层厚1.8 nm）](../../raw/figures/RecentAdvancesGrowth2025/fig_5_ATZ3HWYI.png)
   - ![图6 CVT生长单层NiI₂的偏振显微与角分辨线二色性（C3→C2对称破缺）](../../raw/figures/RecentAdvancesGrowth2025/fig_6_3DPT9PJH.png)
   - ![图7 单层CuCrSe₂的晶体结构与高温多铁性](../../raw/figures/RecentAdvancesGrowth2025/fig_7_NZYZKTDJ.png)
   - ![图8 PVD生长p型掺杂SnSe的室温亚铁磁（337 K）与铁电共存](../../raw/figures/RecentAdvancesGrowth2025/fig_8_D2MGASFU.png)
-  - ![图10 ALD封装+干法转移制备空气稳定NiI₂霍尔棒器件（1.7 K迁移率15 cm²/V·s）](../../raw/figures/RecentAdvancesGrowth2025/fig_10_B29F4ZJU.png)
-  - ![图12 NiI₂太赫兹反射/透射谱，T_N2以下34与37 cm⁻¹两个电磁振子模式](../../raw/figures/RecentAdvancesGrowth2025/fig_12_QGZQG6H2.png)
-  - ![图13 CVT-NiI₂的XRD谱（Cu Kα，室温晶胞 a=3.91 Å, c=19.93 Å）](../../raw/figures/RecentAdvancesGrowth2025/fig_13_SXZWC8HQ.png)
-  - ![图14 少层NiI₂的AFM形貌与厚度剖面（层数判定金标准）](../../raw/figures/RecentAdvancesGrowth2025/fig_14_692EH7SS.png)
+  - ![图10 ALD封装+干法转移制备空气稳定NiI₂霍尔棒器件（1.7 K迁移率15 cm²/V·s）](../../raw/figures/RecentAdvancesGrowth2025/fig_10_B29F4ZJU.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - ![图12 NiI₂太赫兹反射/透射谱，T_N2以下34与37 cm⁻¹两个电磁振子模式](../../raw/figures/RecentAdvancesGrowth2025/fig_12_QGZQG6H2.png) → [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图13 CVT-NiI₂的XRD谱（Cu Kα，室温晶胞 a=3.91 Å, c=19.93 Å）](../../raw/figures/RecentAdvancesGrowth2025/fig_13_SXZWC8HQ.png) → [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图14 少层NiI₂的AFM形貌与厚度剖面（层数判定金标准）](../../raw/figures/RecentAdvancesGrowth2025/fig_14_692EH7SS.png) → [[../figures/experimental-setups|实验测试与测量装置]]
   - ![图15 二维多铁应用全景：M/P/ε内序参与H/E/σ外场耦合对应存储、自旋电子、传感等应用](../../raw/figures/RecentAdvancesGrowth2025/fig_15_TMK8S5HG.png)
   - ![表1 理论预测与实验合成的二维多铁材料汇总](../../raw/figures/RecentAdvancesGrowth2025/tab_1_VAP6KBBP.png)
 
-- **项目连接**：project-2 Mn 多铁——本综述系统梳理 II 型多铁机制、生长与表征范式，与 Mn 基多铁材料（如 MnVO₃ 等钙钛矿/层状锰氧化物）的磁电耦合研究直接相关，可作为项目背景与方法学参考；其中 SmFeO₃、BiFeO₃ 等 Mn/Fe 族氧化物多铁案例亦有借鉴价值。无直接 project-1/3/4/5/6/7 连接。
+## 🔬 项目连接
+project-2 Mn 多铁——本综述系统梳理 II 型多铁机制、生长与表征范式，与 Mn 基多铁材料（如 MnVO₃ 等钙钛矿/层状锰氧化物）的磁电耦合研究直接相关，可作为项目背景与方法学参考；其中 SmFeO₃、BiFeO₃ 等 Mn/Fe 族氧化物多铁案例亦有借鉴价值。无直接 project-1/3/4/5/6/7 连接。
 
-- **组织与用词**：全文采用"制备→表征→应用→展望"的经典综述链条。引言先用对称性（时间反演/空间反演）定义铁磁、铁电、铁弹、铁旋、铁谷五种铁性序，再按耦合强弱划分 I 型（孤对电子/电荷有序/几何阻挫三亚类，弱耦合、大极化、高 T）与 II 型（磁序衍生铁电、强耦合、小极化、低 T）。第 2 节先自上而下（机械/液相剥离）后自下而上（CVD/CVT/PVD/MBE/ALD），每种方法配原理-优缺点-代表材料（NiI₂/Cr₂S₃/CuCrSe₂/SnSe）；表征部分按 STM/SPM、SHG、Raman、双折射、TEM、EELS、太赫兹、XRD、中子散射、AFM 十类逐一说明其探测的序参量。第 3 节按六类器件（非易失存储 MERAM/MFTJ、自旋电子、传感器/执行器、能量采集、微波/RF、移相器）将磁电/压电/磁弹耦合映射到功能。结论以 NiI₂ 单层突破为起点，提出室温强耦合、<100 mV 开关电压、晶圆级制备、三铁性、量子物理结合五大挑战。值得复用的术语：
-  - 多铁性 multiferroicity
+## 📝 组织与用词
+全文采用"制备→表征→应用→展望"的经典综述链条。引言先用对称性（时间反演/空间反演）定义铁磁、铁电、铁弹、铁旋、铁谷五种铁性序，再按耦合强弱划分 I 型（孤对电子/电荷有序/几何阻挫三亚类，弱耦合、大极化、高 T）与 II 型（磁序衍生铁电、强耦合、小极化、低 T）。第 2 节先自上而下（机械/液相剥离）后自下而上（CVD/CVT/PVD/MBE/ALD），每种方法配原理-优缺点-代表材料（NiI₂/Cr₂S₃/CuCrSe₂/SnSe）；表征部分按 STM/SPM、SHG、Raman、双折射、TEM、EELS、太赫兹、XRD、中子散射、AFM 十类逐一说明其探测的序参量。第 3 节按六类器件（非易失存储 MERAM/MFTJ、自旋电子、传感器/执行器、能量采集、微波/RF、移相器）将磁电/压电/磁弹耦合映射到功能。结论以 NiI₂ 单层突破为起点，提出室温强耦合、<100 mV 开关电压、晶圆级制备、三铁性、量子物理结合五大挑战。值得复用的术语：
+  - [[../concepts/multiferroicity|多铁性 multiferroicity]]
   - 磁电耦合 magnetoelectric (ME) coupling
-  - II 型多铁 type-II multiferroics
+  - [[../concepts/type-ii-multiferroics|II 型多铁 type-II multiferroics]]
   - 螺旋磁序 helimagnetic / spin-spiral order
-  - 电磁振子 electromagnon
-  - 逆 Dzyaloshinskii–Moriya 效应 inverse Dzyaloshinskii–Moriya effect
+  - [[../concepts/electromagnon|电磁振子 electromagnon]]
+  - [[../concepts/inverse-dzyaloshinskii-moriya|逆 Dzyaloshinskii–Moriya 效应 inverse Dzyaloshinskii–Moriya effect]]
   - 自旋流机制 spin-current mechanism
-  - 铁谷性 ferrovalley / 三铁性 triferroics
+  - [[../concepts/ferrovalley|铁谷性 ferrovalley / 三铁性 triferroics]]
   - 界面调制 interface-modulated growth
   - 晶圆级单胞 wafer-scale one-unit-cell
 
-- **可写入wiki的要点**：
+  - [[../concepts/helical-magnetism|helical-magnetism]]
+## ✏️ 可写入 Wiki 的要点
   - 铁磁性破坏时间反演对称性，铁电性破坏空间反演对称性，铁弹性两者均不破坏，铁旋性（ferrotoroidicity）两者同时破坏；多铁体同时打破两种对称性，是磁电耦合的对称性前提。
   - I 型多铁分三亚类：孤对电子型（如 BiFeO₃ 中 Bi³⁺ 6s² 孤对）、电荷有序型（混合价过渡金属化合物）、几何阻挫型；铁电与磁来源独立、极化大、磁转变温度高但耦合弱。II 型多铁的铁电由磁序本身衍生（逆 DM 效应 P∝e×q 或自旋流机制），耦合极强但极化小、T 低。
   - "d⁰ 难题"：传统铁电性要求过渡金属 d 壳层空（如 Ti⁴⁺ d⁰），磁性要求 d 壳层未填满（如 Fe³⁺ d⁵），二者化学互斥，这是天然磁性铁电体稀少的根本原因；二维体系通过对称性破缺、层间滑移、吸附、应变等可绕开该规则。

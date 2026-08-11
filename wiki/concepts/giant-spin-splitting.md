@@ -7,7 +7,7 @@ metadata:
 
 # 巨自旋劈裂 / Giant Spin Splitting
 
-**巨自旋劈裂** 是指在自旋轨道耦合 (SOC) 作用下，电子能带中自旋向上和自旋向下态之间的显著能量分离。在二维多铁氧化物研究中，这一数值通常被要求超过 **0.1 eV** 以满足高效自旋调控的需求 [[../../raw/note/zhongHighthroughputExfoliationMultiferroic2025|Zhong et al. 2025]]。
+**巨自旋劈裂** 是指在自旋轨道耦合 (SOC) 作用下，电子能带中自旋向上和自旋向下态之间的显著能量分离。在二维多铁氧化物研究中，这一数值通常被要求超过 **0.1 eV** 以满足高效自旋调控的需求 [[../papers/zhongHighthroughputExfoliationMultiferroic2025|Zhong et al. 2025]]。
 
 ## 1. 物理起源
 
@@ -19,7 +19,7 @@ metadata:
 ## 2. 纪录值
 
 在 2025 年的预测中：
-- **[[../../entities/SrOsO3|SrOsO3]]**：价带顶 (VBM) 劈裂达到 **0.606 eV**，是目前二维反铁磁氧化物中的理论最高值。
+- **[[../entities/SrOsO3|SrOsO3]]**：价带顶 (VBM) 劈裂达到 **0.606 eV**，是目前二维反铁磁氧化物中的理论最高值。
 - **对比**：远超传统的二维 $SrTiO_3$ (~0.1 eV)。
 
 ## 3. 应用

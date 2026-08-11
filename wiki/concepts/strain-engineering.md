@@ -16,7 +16,7 @@ tags: [2D-materials, phase-transition, multiferroicity]
 
 ## 2. 2025 年新进展：相锁定切换 (Phase-interlocked Switching)
 
-在非范德华 $ABO_3$ 氧化物单层中，微小的应变可以驱动低能垒的结构相变，并同步控制多种物理属性 [[../../raw/note/zhongHighthroughputExfoliationMultiferroic2025|Zhong et al. 2025]]：
+在非范德华 $ABO_3$ 氧化物单层中，微小的应变可以驱动低能垒的结构相变，并同步控制多种物理属性 [[../papers/zhongHighthroughputExfoliationMultiferroic2025|Zhong et al. 2025]]：
 
 - **结构畸变调控**：通过应变调节 $ABO_3$ 单层中五面体/八面体的扭转角（Twist angle, $\theta$）。
 - **典型案例：SrOsO₃**
@@ -32,6 +32,6 @@ tags: [2D-materials, phase-transition, multiferroicity]
 
 ## 4. 本库相关文献
 
-- [[../../raw/note/zhongHighthroughputExfoliationMultiferroic2025|Zhong et al. 2025]]：应变诱导的相锁定切换机制。
-- [[../../raw/note/neumayerCompetingPolarPhases2025|Neumayer et al. 2025]]：竞争极性相中的应变调控。
-- [[../../raw/note/martinThinfilmFerroelectricMaterials2016|Martin 2016]]：氧化物薄膜应变工程综述。
+- [[../papers/zhongHighthroughputExfoliationMultiferroic2025|Zhong et al. 2025]]：应变诱导的相锁定切换机制。
+- [[../papers/neumayerCompetingPolarPhases2025|Neumayer et al. 2025]]：竞争极性相中的应变调控。
+- [[../papers/martinThinfilmFerroelectricMaterials2016|Martin 2016]]：氧化物薄膜应变工程综述。

@@ -19,19 +19,19 @@ category: [D02, Z01]
 
 范德华（vdW）二维材料（如双层 [[../entities/h-BN|h-BN]]、[[../entities/TMDs|3R-MoS₂]]）通过层间相对滑动克服弱 vdW 势垒实现极化反转，表现出不同于传统铁电体的动力学特征：
 
-- **皮秒级超快翻转**：[[../../raw/note/heUltrafastSwitchingDynamics2024|Ultrafast switching dynamics of the ferroelectric domain wall]] 研究指出，滑动铁电体在电场驱动下可实现皮秒至纳秒级的翻转。其畴壁运动的临界电场（约 0.026 V/nm）比单畴翻转势垒（约 1.41 V/nm）低近两个数量级。
+- **皮秒级超快翻转**：[[../papers/heUltrafastSwitchingDynamics2024|Ultrafast switching dynamics of the ferroelectric domain wall]] 研究指出，滑动铁电体在电场驱动下可实现皮秒至纳秒级的翻转。其畴壁运动的临界电场（约 0.026 V/nm）比单畴翻转势垒（约 1.41 V/nm）低近两个数量级。
 - **异常宽的畴壁与高速度**：由于层间滑动势垒较低，滑动铁电畴壁异常宽（达 10-40 nm）。模拟显示畴壁移动速度可达 ~6000 m/s，接近声速。其畴壁宽度 $w$ 遵循 1D 弹性模型 $w \propto \sqrt{\lambda_{1D}/\Delta}$，其中 $\lambda_{1D}$ 为一维弹性模量，$\Delta$ 为层间堆垛势垒。
 - **滑动声子模式**：极化翻转由软化的“滑动声子（Sliding Phonon）”模式触发，这决定了层间滑动的本征频率限。
 
 ## 3. 多场驱动的翻转新范式
 
 - **机械弯曲与扭结（Kinks）**：
-  在 [[../../raw/note/heSwitchingTwodimensionalSliding2025|Switching Two-Dimensional Sliding Ferroelectrics by Mechanical Bending]] 中，研究者发现机械弯曲会在双层 vdW 材料中诱导不可逆的扭结（Kink）。扭结本质上是**铁电拓扑畴壁**：
+  在 [[../papers/heSwitchingTwodimensionalSliding2025|Switching Two-Dimensional Sliding Ferroelectrics by Mechanical Bending]] 中，研究者发现机械弯曲会在双层 vdW 材料中诱导不可逆的扭结（Kink）。扭结本质上是**铁电拓扑畴壁**：
     - **3R-hBN 31° 扭结**：对应 Néel 型畴壁，极化在面内平滑旋转实现反转。
     - **57° 扭结**：对应 Ising 型畴壁，极化在畴壁中心消失并反向。
   这种机制不同于传统的**挠曲电效应（Flexoelectricity）**，其核心是弯曲能与层间堆垛能的竞争导致的局部层间滑动。
 - **铁电金属与半金属的电场调控**：
-  二维铁电半金属（如 WTe₂）的极化翻转具有特殊的非挥发特性。[[../../raw/note/feiFerroelectricSwitchingTwodimensional2018a|Ferroelectric switching of a two-dimensional metal]] 首次证实了在双层 WTe₂ 中，利用栅极电场调控带边电子结构和层间电荷相关性，可实现室温下的稳定翻转，并伴随双稳态电导特征。
+  二维铁电半金属（如 WTe₂）的极化翻转具有特殊的非挥发特性。[[../papers/feiFerroelectricSwitchingTwodimensional2018a|Ferroelectric switching of a two-dimensional metal]] 首次证实了在双层 WTe₂ 中，利用栅极电场调控带边电子结构和层间电荷相关性，可实现室温下的稳定翻转，并伴随双稳态电导特征。
 
 ## 4. 莫尔超晶格与缺陷效应
 
@@ -41,14 +41,14 @@ category: [D02, Z01]
 ## 本库相关论文
 
 - **动力学模拟与机制**：
-  - [[../../raw/note/heUltrafastSwitchingDynamics2024|Ultrafast switching dynamics of the ferroelectric domain wall]]：利用机器学习势揭示 h-BN 超快畴壁运动。
-  - [[../../raw/note/heSwitchingTwodimensionalSliding2025|Switching Two-Dimensional Sliding Ferroelectrics by Mechanical Bending]]：机械弯曲诱导的扭结与极化翻转。
+  - [[../papers/heUltrafastSwitchingDynamics2024|Ultrafast switching dynamics of the ferroelectric domain wall]]：利用机器学习势揭示 h-BN 超快畴壁运动。
+  - [[../papers/heSwitchingTwodimensionalSliding2025|Switching Two-Dimensional Sliding Ferroelectrics by Mechanical Bending]]：机械弯曲诱导的扭结与极化翻转。
 - **二维铁电体系探索**：
-  - [[../../raw/note/feiFerroelectricSwitchingTwodimensional2018a|Ferroelectric switching of a two-dimensional metal]]：双层 WTe₂ 铁电金属的发现。
-  - [[../../raw/note/sharmaRoomtemperatureFerroelectricSemimetal2019|A room-temperature ferroelectric semimetal]]：室温铁电半金属开关特性。
-  - [[../../raw/note/yangRipplingFerroicPhase2021|Rippling Ferroic Phase Transition and Domain Switching]]：机械皱褶诱导的相变与翻转。
+  - [[../papers/feiFerroelectricSwitchingTwodimensional2018a|Ferroelectric switching of a two-dimensional metal]]：双层 WTe₂ 铁电金属的发现。
+  - [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019|A room-temperature ferroelectric semimetal]]：室温铁电半金属开关特性。
+  - [[../papers/yangRipplingFerroicPhase2021|Rippling Ferroic Phase Transition and Domain Switching]]：机械皱褶诱导的相变与翻转。
 - **器件应用**：
-  - [[../../raw/note/sunSlidingFerroelectricityTwodimensional2025|Sliding ferroelectricity in two-dimensional van der Waals materials]]：综述滑动铁电的翻转特性及其在非易失存储中的应用。
+  - [[../papers/sunSlidingFerroelectricityTwodimensional2025|Sliding ferroelectricity in two-dimensional van der Waals materials]]：综述滑动铁电的翻转特性及其在非易失存储中的应用。
 
 ## 关联概念与实体
 

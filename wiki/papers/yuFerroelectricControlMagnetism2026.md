@@ -10,33 +10,33 @@ url: "https://doi.org/10.1021/acs.jpclett.6c00390"
 paper_type: experiment
 status: ingested
 year_read: 2026
-original_note: "[[../../raw/note/yuFerroelectricControlMagnetism2026]]"
+original_note:: [[../../raw/note/yuFerroelectricControlMagnetism2026]]
 projects: [project-2]
 concepts: [2D-materials, altermagnetism, berry-phase, density-functional-theory, giant-spin-splitting, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering]
 entities: [BiFeO3, CrTe2, Fe3GeTe2, HoMnO3, In2Se3, MXenes, TMDs, VASP, WTe2, Wannier90, domain-wall, h-BN]
 methods: [afm-pfm, berry-phase, dft, md, mlip, monte-carlo, neb, stm-mbe]
 materials: [BiFeO3, CrTe2, Fe3GeTe2, HoMnO3, In2Se3, MXenes, TMDs, WTe2, domain-wall, h-BN]
 figures: [crystal-structures, electronic-bands, electronic-devices, heterostructures-stacking, mathematical-models]
-"领域基础知识": >-
+领域基础知识:: >-
   二维多铁材料（2D Multiferroics）与磁电耦合（Magnetoelectric Coupling）是自旋电子学（Spintronics）的前沿领域。核心目标是在单一材料中耦合铁电性（Ferroelectricity, FE，可被电场翻转的自发电极化）和磁性（Magnetism，自发的磁有序），以实现电场控制磁矩，开发低功耗器件。传统多铁体的主要瓶颈在于磁性和铁电性起源独立，耦合微弱，限制了其应用。
-"研究背景": >-
+研究背景:: >-
   已发现的二维多铁材料主要分为三类：I型（磁性与铁电性起源独立，耦合弱），II型（磁性驱动铁电性，但极化弱），III型（铁电性驱动磁性，稀少且难以设计）。因此，寻找一种能实现强磁电耦合的通用设计策略和室温二维多铁材料体系是该领域的关键挑战。
-"作者的问题意识": >-
+作者的问题意识:: >-
   作者旨在解决二维多铁材料中磁电耦合弱的根本性难题。他们提出并验证了一个核心问题：能否通过一种通用的材料设计策略（如插层），在范德华反铁磁体中人为引入并强关联铁电性和磁性，从而实现室温下电场对磁矩的完全控制，并展示其在器件中的应用潜力？
-"主要研究对象": >-
+主要研究对象:: >-
   单层Cr₄S₄FBr₂ (CSFB)，一种由双层CrSBr通过“融合”和氟离子（F⁻）桥联设计而成的二维A型完全补偿亚铁磁金属（A-type fully compensated ferrimagnetic metal）。此外，还研究了其衍生物Cr₄S₄X₃和Mn₄N₄X₃系列以验证策略的通用性。
-"主要研究方法": >-
+主要研究方法:: >-
   基于第一性原理的多尺度理论计算。主要包括：密度泛函理论（DFT，如PBE+U, HSE06）计算电子结构与磁性；CI-NEB方法计算铁电翻转势垒与路径；构建有效哈密顿量模型，结合蒙特卡洛和分子动力学（MD）模拟估算Néel温度（TN）和铁电居里温度（TC）；非平衡格林函数（NEGF）方法模拟多铁隧道结（MFTJ）的量子输运特性。
-"研究意义": >-
+研究意义:: >-
   1. 提出了一种全新的“插层诱导对称性破缺”范式，为设计III型多铁体和实现强磁电耦合提供了清晰的理论框架。2. 成功预测了单层Cr₄S₄FBr₂这一兼具室温磁电耦合、高转变温度、巨磁阻效应的具体材料体系，为实验探索提供了明确目标。3. 演示了电场驱动的、非易失性巨磁阻效应，为开发超低功耗自旋电子学器件指明了新方向。
-"研究结论": >-
+研究结论:: >-
   单层Cr₄S₄FBr₂是一种高Néel温度（469 K）和铁电居里温度（334 K）的A型完全补偿亚铁磁金属。其垂直铁电极化（1.1 pC/m）源于F原子位移，翻转势垒低（0.11 eV）。该材料展现出强磁电耦合，翻转铁电极化可完全反转自旋极化、自旋纹理和Chern数（从-2到+2）。基于该材料的多铁隧道结可实现由纯电场驱动的、高达4.8 × 10³%的巨磁阻。
-"对领域的贡献": >-
+对领域的贡献:: >-
   1. **理论贡献**：为设计强磁电耦合多铁材料提供了“插层破缺对称性”的新范式，并揭示了A型亚铁磁中实现铁电-自旋-拓扑锁定的微观机制。2. **材料贡献**：预测了Cr₄S₄FBr₂及其衍生物等一系列高性能室温二维多铁材料，丰富了多铁材料库。3. **器件贡献**：展示了电场控制巨磁阻的新概念器件，证明了其在非易失性、低功耗信息存储和处理中的巨大潜力。
-"未来研究方向提及": >-
+未来研究方向提及:: >-
   1. 实验合成与验证：通过文中提出的卤素离子交换插层或堆垛工程等方法，实际制备单层CSFB及器件，并验证其多铁性与磁电耦合性能。2. 拓展材料家族：将插层策略系统性地应用于与CrSBr同构的、更广泛的二维磁体家族（如MnNX等），探索其多铁潜力。
-"未来研究方向思考": >-
-  1. **缺陷与界面工程**：研究缺陷对CSFB中铁电畴翻转动力学和矫顽场的影响，以及在实际金属电极/CSFB界面的磁电耦合效应。2. **多场调控与拓扑物理**：探索应变、光场、静电掺杂等手段对CSFB磁电耦合和拓扑Chern数的调控，或通过掺杂打开全局带隙，实现量子反常霍尔效应或拓扑超导。3. **自旋动力学**：研究电场是否可激发或调控CSFB中的自旋波（磁振子），探索基于磁振子的逻辑器件。4. **机制深化**：澄清其“完全补偿亚铁磁体”与“交变磁体”之间的概念关联，并深入分析在金属性背景下，自由电子对铁电偶极子场的屏蔽效应及其对器件性能的影响。 🚀 [笔记回链](zotero://select/library/items/ZGZNNYS9) * * * `GPT 自定 ②` `deepseek-v4-pro` _由批量 AI 解读自动生成于 2026/8/11 07:00:26 （重新解读）_ 🏷️ #🤖️/AI文献解读 🏷️ #🤖️/AI文献阅读
+未来研究方向思考:: >-
+  1. **缺陷与界面工程**：研究缺陷对CSFB中铁电畴翻转动力学和矫顽场的影响，以及在实际金属电极/CSFB界面的磁电耦合效应。2. **多场调控与拓扑物理**：探索应变、光场、静电掺杂等手段对CSFB磁电耦合和拓扑Chern数的调控，或通过掺杂打开全局带隙，实现量子反常霍尔效应或拓扑超导。3. **自旋动力学**：研究电场是否可激发或调控CSFB中的自旋波（磁振子），探索基于磁振子的逻辑器件。4. **机制深化**：澄清其“完全补偿亚铁磁体”与“交变磁体”之间的概念关联，并深入分析在金属性背景下，自由电子对铁电偶极子场的屏蔽效应及其对器件性能的影响。
 tags:
   - paper
   - type/experiment
@@ -99,39 +99,32 @@ tags:
 
 ## yuFerroelectricControlMagnetism2026 — 强磁电耦合二维多铁性材料中嵌入诱导对称破缺对磁性和巨磁电阻的铁电控制
 
-- **元数据**：Cuiju Yu, Liangliang Hong, Zhao Chen, Zhao Liu, Shizhe Jiao, Xiaofeng Liu*, Wei Hu et al.，2026，The Journal of Physical Chemistry Letters 17(12), 3539–3548，DOI: 10.1021/acs.jpclett.6c00390
+## 📄 元数据
+Cuiju Yu, Liangliang Hong, Zhao Chen, Zhao Liu, Shizhe Jiao, Xiaofeng Liu*, Wei Hu et al.，2026，The Journal of Physical Chemistry Letters 17(12), 3539–3548，DOI: 10.1021/acs.jpclett.6c00390
 
-- **一句话**：通过卤素离子（F）插层把双层 CrSBr “融合”为单层 Cr₄S₄FBr₂，利用 F 原子位移诱导的 Jahn–Teller 畸变打破反演对称，在 A 型完全补偿亚铁磁金属中实现铁电–自旋–拓扑三者锁定，并在 CSFB/CrSBr/CSFB 多铁隧道结中由纯电极化翻转驱动高达 4.8×10³% 的巨磁阻。
+## 💡 一句话
+通过卤素离子（F）插层把双层 CrSBr “融合”为单层 Cr₄S₄FBr₂，利用 F 原子位移诱导的 Jahn–Teller 畸变打破反演对称，在 A 型完全补偿亚铁磁金属中实现铁电–自旋–拓扑三者锁定，并在 CSFB/CrSBr/CSFB 多铁隧道结中由纯电极化翻转驱动高达 4.8×10³% 的巨磁阻。
 
-- **现有wiki双链**：
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/berry-phase]]、[[../concepts/altermagnetism]]、[[../concepts/giant-spin-splitting]]、[[../concepts/polarization-switching]]、[[../concepts/density-functional-theory]]、[[../concepts/strain-engineering]]
-  - 实体 [[../entities/VASP]]、[[../entities/Wannier90]]、[[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/Fe3GeTe2]]、[[../entities/TMDs]]、[[../entities/h-BN]]、[[../entities/BiFeO3]]、[[../entities/HoMnO3]]、[[../entities/MXenes]]、[[../entities/CrTe2]]、[[../entities/domain-wall]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking]]、[[../figures/electronic-devices]]、[[../figures/mathematical-models]]
+## 🔗 Wiki 双链
+  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/berry-phase]]、[[../concepts/altermagnetism]]、[[../concepts/giant-spin-splitting]]、[[../concepts/polarization-switching]]、[[../concepts/density-functional-theory]]、[[../concepts/strain-engineering]]、[[../concepts/intercalation-induced-symmetry-breaking]]、[[../concepts/geometric-ferroelectricity]]、[[../concepts/multiferroic-tunneling-junction]]、[[../concepts/fully-compensated-ferrimagnet]]、[[../concepts/gap-chern-number]]、[[../concepts/goodenough-kanamori-anderson-rules]]、[[../concepts/double-exchange]]、[[../concepts/cr4s4fbr2]]
+  - 实体 [[../entities/VASP]]、[[../entities/Wannier90]]、[[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/Fe3GeTe2]]、[[../entities/TMDs]]、[[../entities/h-BN]]、[[../entities/BiFeO3]]、[[../entities/HoMnO3]]、[[../entities/MXenes]]、[[../entities/CrTe2]]、[[../entities/domain-wall]]、[[../entities/crsbr]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]、[[../figures/electronic-devices]]、[[../figures/mathematical-models]]
   - 年度 [[../write/2026]]
   - 主题 [[../topics/D02-多铁性材料]]、[[../topics/Z01-材料模拟计算设计]]
   - 相关论文 [[../../raw/note/yuFerroelectricControlMagnetism2026]]
 
-- **新概念/实体建议**：
-  - `crsbr.md`（实体）：空气稳定的二维 A 型反铁磁半导体 CrSBr，本工作的母体材料，也是 CSFB/CrSBr/CSFB 隧道结的绝缘势垒层。
-  - `cr4s4fbr2.md`（实体，简称 CSFB）：本文从头设计的单层 A 型完全补偿亚铁磁金属，空间群 Pmm2 (C₂ᵥ)，TN=469 K、TC=334 K、P=1.11 pC/m、Ea=0.11 eV/f.u.。
-  - `intercalation-induced-symmetry-breaking.md`（概念）：在范德华间隙插入非金属离子，借其不对称三角配位打破反演对称从而引入铁电性的设计范式。
-  - `geometric-ferroelectricity.md`（概念）：由非金属离子位移 / Jahn–Teller 畸变（而非软模或自由载流子）驱动的铁电性，可在金属中存活。
-  - `multiferroic-tunneling-junction.md`（概念，MFTJ）：两端为多铁金属、中间为绝缘势垒、靠电极化翻转而非磁场切换 PC/APC 的隧道结。
-  - `fully-compensated-ferrimagnet.md`（概念）：宏观净磁矩近零但在位交换场仍强、兼具反铁磁无杂散场与铁磁样自旋劈裂的磁体；与 altermagnetism 条目交叉。
-  - `gap-chern-number.md`（概念）：金属体系中 SOC 在局部节点打开带隙后，由贝里通量重分布决定的、依赖于带隙的陈数，可随铁电翻转反号。
-  - `goodenough-kanamori-anderson-rules.md`（概念）：以键角 90°/180° 判断 FM/AFM 超交换的经验规则，文中用于解释 Cr–X–Cr 磁耦合。
-  - `double-exchange.md`（概念）：金属性体系中巡游电子在磁性离子间跳跃产生的 FM 交换，文中用于解释约 180° 键角的 J4 仍为 FM。
-
-- **关键图表**：
-  - ![图1 插层破缺对称的概念示意与单层 Cr4S4FBr2 原子结构（Pmm2, a=3.51 Å, b=4.85 Å），标注极化轴和 J1–J4 交换路径](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_1_4AF7AZPM.png)
-  - ![图2 P↑/P↓ 自旋分辨能带与 DOS（S 点非相对论自旋劈裂 1.33 eV，EF+0.05 eV 处极化 +91%/−91%）、F 周围静电势、NEB 翻转路径（Ea=0.11 eV/f.u.）、FE–PE 相变（TC=334 K）、线性磁电响应 αS=7.1×10⁻¹⁴ G·cm²/V](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_2_5KVKTVLU.png)
-  - ![图3 含 SOC 能带（c 轴磁化在 X/Y 点开 3、11 meV 隙）、P↑/P↓ 贝里曲率（C=−2 与 +2）及第 93 带面外自旋纹理的完全反转](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_3_Q88I2C3V.png)
+## 📊 关键图表
+  - ![图1 插层破缺对称的概念示意与单层 Cr4S4FBr2 原子结构（Pmm2, a=3.51 Å, b=4.85 Å），标注极化轴和 J1–J4 交换路径](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_1_4AF7AZPM.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图2 P↑/P↓ 自旋分辨能带与 DOS（S 点非相对论自旋劈裂 1.33 eV，EF+0.05 eV 处极化 +91%/−91%）、F 周围静电势、NEB 翻转路径（Ea=0.11 eV/f.u.）、FE–PE 相变（TC=334 K）、线性磁电响应 αS=7.1×10⁻¹⁴ G·cm²/V](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_2_5KVKTVLU.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图3 含 SOC 能带（c 轴磁化在 X/Y 点开 3、11 meV 隙）、P↑/P↓ 贝里曲率（C=−2 与 +2）及第 93 带面外自旋纹理的完全反转](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_3_Q88I2C3V.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - ![图4 CSFB/CrSBr/CSFB 多铁隧道结 PC/APC 构型、偏压依赖 I–V 与 MR（0.04 V 时 MR=4.8×10³%，IPC=13.8 nA、IAPC=0.27 nA）及自旋分辨透射谱](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_4_FXA8A5X6.png)
   - ![表1 Cr4S4FBr2 家族（Cr4S4F3、Cr4S4Cl3/Br3、Cr4Se4Cl3/Br3）与 BL CrSBr、NiI2、In2Se3、BL 1T′-WTe2 等标杆材料的 J、TN/TC、MAE、D、Ea/EC、αS 与分类（A-FiMM / FMHM 等）汇总](../../raw/figures/yuFerroelectricControlMagnetism2026/tab_1_IX3ZWAJ8.png)
 
-- **项目连接**：project-2 Mn多铁——主体材料虽为 Cr 基，但作者明确将插层策略推广到 MnNX 同构家族，预测 Mn₄N₄X₃（X=F, Cl, Br, I）为动力学稳定、铁磁、自发极化的半金属型 I 类多铁体，与 Mn 基多铁项目直接相关；其余项目（双光子、机械发光 NN、TTF 分子计算、SnTe 铁电模拟、湿度传感器、CDW）无直接连接。
+## 🔬 项目连接
+project-2 Mn多铁——主体材料虽为 Cr 基，但作者明确将插层策略推广到 MnNX 同构家族，预测 Mn₄N₄X₃（X=F, Cl, Br, I）为动力学稳定、铁磁、自发极化的半金属型 I 类多铁体，与 Mn 基多铁项目直接相关；其余项目（双光子、机械发光 NN、TTF 分子计算、SnTe 铁电模拟、湿度传感器、CDW）无直接连接。
 
-- **组织与用词**：全文按 “提出问题（I/II/III 型多铁的瓶颈）→ 设计策略（非金属离子插层诱导 Jahn–Teller 畸变）→ 材料验证（CSFB 的磁、电、拓扑物性）→ 器件演示（MFTJ 巨磁阻）→ 推广（Cr₄X₄Y₃ 与 Mn₄N₄X₃ 家族）” 五步推进，方法链为 DFT（PBE+U, U=1 eV；HSE06 校验）→ CI-NEB → 有效哈密顿量 + MD/蒙特卡洛 → NEGF 输运，形成原子尺度到器件尺度的多尺度闭环。值得在 wiki 叙述中复用的术语：
+## 📝 组织与用词
+全文按 “提出问题（I/II/III 型多铁的瓶颈）→ 设计策略（非金属离子插层诱导 Jahn–Teller 畸变）→ 材料验证（CSFB 的磁、电、拓扑物性）→ 器件演示（MFTJ 巨磁阻）→ 推广（Cr₄X₄Y₃ 与 Mn₄N₄X₃ 家族）” 五步推进，方法链为 DFT（PBE+U, U=1 eV；HSE06 校验）→ CI-NEB → 有效哈密顿量 + MD/蒙特卡洛 → NEGF 输运，形成原子尺度到器件尺度的多尺度闭环。值得在 wiki 叙述中复用的术语：
   - 插层诱导对称性破缺 / intercalation-induced symmetry breaking
   - A 型完全补偿亚铁磁金属 / A-type fully compensated ferrimagnetic metal (A-FiMM)
   - 自旋–铁电锁定 / spin–ferroelectricity locking
@@ -141,7 +134,7 @@ tags:
   - 线性磁电系数 / linear magnetoelectric coefficient αS（μ₀ΔM=αS·E）
   - 多铁隧道结 / multiferroic tunneling junction (MFTJ)
 
-- **可写入wiki的要点**：
+## ✏️ 可写入 Wiki 的要点
   1. 设计范式：在 A 型反铁磁范德华材料的层间插入非金属卤素离子，利用其三角配位的上下不对称打破空间反演对称，同时保留层间 AFM 序，从而在单一物相中集成铁电性与磁性并实现本征强磁电耦合（III 型多铁思路）。
   2. 目标材料单层 Cr₄S₄FBr₂ 由双层 CrSBr “融合” 而来——中心 F 配体替换两个 Br，分别与上层 1 个 Cr、下层 2 个 Cr 成键，形成 Pmm2 (C₂ᵥ) 对称（a=3.51 Å, b=4.85 Å, c=20 Å）；上下两个连接 F 的 Cr 分别处于八面体和三角双锥晶体场，导致局域磁矩不对称，构成 A 型完全补偿亚铁磁体，净磁矩仅 0.20 μB/cell。
   3. 电子结构：金属性，S 点非相对论自旋劈裂达 1.33 eV，与 KV₂Se₂O（1.6 eV）、α-MnTe（1.1 eV）、RuO₂（1.4 eV）等交变磁体相当；劈裂来源于 Cr 位点在位交换场 ΔE≈⟨ψ|ΔVxc|ψ⟩，主要由 Cr d(x²−y²) 轨道贡献，而非净磁矩大小；EF+0.05 eV 处 P↑/P↓ 自旋极化分别达 +91%/−91%。

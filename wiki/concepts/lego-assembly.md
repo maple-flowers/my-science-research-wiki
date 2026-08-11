@@ -7,7 +7,7 @@ metadata:
 
 # 乐高式组装 / LEGO-like Assembly
 
-**乐高式组装** 是由 Yan 等人提出的一种描述二维非层状 III-V 族半导体结构稳定性的理论模型。该模型认为，这些材料的复杂二维结构可以解构为少数几种基础“积木块”的有序排列 [[../../raw/note/yanDecipheringStabilityTwodimensional2025|Yan et al. 2025]]。
+**乐高式组装** 是由 Yan 等人提出的一种描述二维非层状 III-V 族半导体结构稳定性的理论模型。该模型认为，这些材料的复杂二维结构可以解构为少数几种基础“积木块”的有序排列 [[../papers/yanDecipheringStabilityTwodimensional2025|Yan et al. 2025]]。
 
 ## 1. 基础构建块 (Building Blocks)
 

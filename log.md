@@ -2,6 +2,14 @@
 
 > 时间导向的变更记录。每次 ingest / 重大修订追加一条，格式：`## [YYYY-MM-DD] <操作> | <标题>`。内容导向索引见 [[index]]。
 
+## [2026-08-12] refactor | 交接文档全部待办清零
+
+- **论文格式统一（188 篇）**：将扁平 `- **bold-label**：` bullet 和 `### ` 标题统一转换为 `## emoji 标题` 层级格式（📄元数据 / 💡一句话 / 🔗Wiki双链 / 📊关键图表 / 🔬项目连接 / 📝组织与用词 / ✏️可写入Wiki要点 / 🆕新概念实体建议）。
+- **Frontmatter 修复（4 篇）**：2019optical、Barnett2006coexistence、bhowalPolarMetalsPrinciples2023b、deSousa2008electrical 的 `"key:": value` 误改全部修正为 `key:: value`（双冒号无引号），每篇 11 个字段。
+- **术语整理完成（238 项）**：完成 10 个因 429 失败批次的全部剩余术语判定——83 alias、9 create、146 skip。新建 9 个概念 stub 页（phason、point-charge-model、LSPR、bandwidth-controlled Mott transition 等），34 篇论文新增 49 条双链。
+- **最终校验**：papers/ 目录 0 断链、0 AI残留、0 自引用、0 占位符。修复 PZT.md 中 `gittel-ortiz` → `gomez-ortiz` 拼写错误、gomez-ortiz 论文中 `../entities/PHONOPY` → `../concepts/PHONOPY` 路径错误。
+- **临时产物清理**：删除 `_wo/`、`_term_batches/`、`_stub_batches/`、`__pycache__/`、15 个 `_*.py` 生成脚本、6 个 `_*.json` 中间数据（保留 `_paper_fig_map.json` 和 `_img2page.json`）、9 个历史临时文件。
+
 ## [2026-08-08] refactor | 重构 Wiki 库，合并原笔记，简化图片库并重写链接
 
 - **Git 版本管理**：在 `科研Wiki` 目录初始化 Git。

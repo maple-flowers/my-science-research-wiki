@@ -10,33 +10,33 @@ url: "https://doi.org/10.1103/PhysRevMaterials.4.084005"
 paper_type: theory
 status: ingested
 year_read: 2026
-original_note: "[[../../raw/note/majumdarInterplayChargeDensity2020]]"
+original_note:: [[../../raw/note/majumdarInterplayChargeDensity2020]]
 projects: [project-7]
 concepts: [2D-materials, charge-density-wave]
 entities: [TMDs]
 methods: [dft, mlip, stm-mbe]
 materials: [TMDs]
 figures: [crystal-structures, electronic-bands, electronic-devices, mathematical-models]
-"领域基础知识": >-
+领域基础知识:: >-
   过渡金属二硫族化合物（TMDs）的晶体与电子结构，2H相多型体，电荷密度波（CDW）的唯象理论，超导电性的Bardeen-Cooper-Schrieffer (BCS)理论、多带超导模型、伦敦穿透深度与超流密度的关系，上临界场的Werthamer-Helfand-Hohenberg (WHH)理论，安德列夫反射谱学原理。
-"研究背景": >-
+研究背景:: >-
   层状准二维材料2H-NbSe₂中同时存在电荷密度波（CDW）和超导电性（SC），而同构的2H-NbS₂却仅有超导电性。这个对比为研究这两种电子序的相互作用提供了理想平台，但关于它们的超导能隙结构、配对机制以及CDW的起源，学术界长期存在争议和模糊认识。
-"作者的问题意识": >-
+作者的问题意识:: >-
   作者旨在通过一系列互补的先进实验技术和理论计算，揭示2H-NbSe₂和2H-NbS₂中超导能隙的演化规律，明确CDW与SC之间是竞争还是共存关系，阐明高压对费米面拓扑、超导能隙和上临界场行为的影响，并最终为理解该类材料的超导配对机制提供决定性实验证据。
-"主要研究对象": >-
+主要研究对象:: >-
   高质量2H-NbSe₂和2H-NbS₂单晶样品。
-"主要研究方法": >-
+主要研究方法:: >-
   采用多手段互补的实验方案，包括磁光成像（MOI）、电输运（电阻率、霍尔效应）、比热、直流/交流磁化率、高压技术（金刚石对顶砧，最高25 GPa）、安德列夫反射谱（IMARE）和伦敦穿透深度测量，并辅以基于密度泛函理论的第一性原理计算。
-"研究意义": >-
+研究意义:: >-
   通过提供全面的、相互印证的实验证据，解决了关于2H-NbSe₂和2H-NbS₂超导能隙结构和CDW-SC相互作用的长期争论，为理解TMD材料中非常规超导电性建立了关键实验基准，并挑战了传统的Uemura关系普适性和费米面嵌套的CDW起源理论。
-"研究结论": >-
+研究结论:: >-
   1. 在2H-NbSe₂中，CDW与SC是竞争关系，压力可抑制CDW并显著增强SC。2. 两者均具有双s波超导能隙，且大能隙表现出强耦合特征，CDW不影响该基本能隙结构。3. NbS₂的上临界场由泡利顺磁效应主导，而NbSe₂则表现出多带效应。4. 两者均偏离Uemura关系，且费米面嵌套不是CDW的主因。
-"对领域的贡献": >-
+对领域的贡献:: >-
   澄清了长期存在的争议，确立了CDW与SC的竞争关系以及双能隙s波超导态的图像，指出了不同体系中配对破坏机制的本质区别，并为该体系的超导机理研究提供了新的约束和出发点。
-"未来研究方向提及": >-
-  1. 探究动量依赖的电子-声子耦合作为CDW的起源。2. 将伦敦穿透深度等实验扩展至毫开尔文温区以精确确定能隙。3. 研究常压下NbSe₂上临界场曲线中的弯折现象及其与涡旋态物理的关联。4. 揭示偏离Uemura关系的内在物理机制。5. 将研究拓展至少层或单层体系以探索维度效应。
-"未来研究方向思考": >-
-  1. 结合扫描隧道显微镜/谱，在实空间和动量空间同时观测CDW和SC的共存与竞争，尤其是在相变边界附近。2. 系统研究可控缺陷（如电子辐照）对CDW和SC的影响，以分离无序效应和本征物理。3. 从第一性原理计算电子-声子耦合谱函数，并求解Eliashberg方程，以定量解释所有实验观测（Tc、能隙、上临界场）。4. 利用角分辨光电子能谱（ARPES）精确测量在不同压力下每个费米面上超导能隙的动量依赖关系，验证双能隙模型的精确性。 🚀 [笔记回链](zotero://select/library/items/P82JVYLR) * * * `GPT 自定 ②` `deepseek-v4-pro` _由批量 AI 解读自动生成于 2026/8/11 06:57:20 （重新解读）_ 🏷️ #🤖️/AI文献解读 🏷️ #🤖️/AI文献阅读
+未来研究方向提及:: >-
+  1. 探究动量依赖的电子-声子耦合作为CDW的起源。2. 将伦敦穿透深度等实验扩展至毫开尔文温区以精确确定能隙。3. 研究常压下 NbSe₂ 上临界场曲线中的弯折现象及其与涡旋态物理的关联。4. 揭示偏离Uemura关系的内在物理机制。5. 将研究拓展至少层或单层体系以探索维度效应。
+未来研究方向思考:: >-
+  1. 结合扫描隧道显微镜/谱，在实空间和动量空间同时观测 CDW 和 SC 的共存与竞争，尤其是在相变边界附近。2. 系统研究可控缺陷（如电子辐照）对 CDW 和 SC 的影响，以分离无序效应和本征物理。3. 从第一性原理计算电子-声子耦合谱函数，并求解 Eliashberg 方程，以定量解释所有实验观测（Tc、能隙、上临界场）。4. 利用角分辨光电子能谱（ARPES）精确测量在不同压力下每个费米面上超导能隙的动量依赖关系，验证双能隙模型的精确性。
 tags:
   - paper
   - type/theory
@@ -61,14 +61,26 @@ tags:
 
 ## majumdarInterplayChargeDensity2020 — 层状准二维材料中电荷密度波与多带超导电性的相互作用：以 2H-NbS₂ 和 2H-NbSe₂ 为例
 
-- **元数据**：Arnab Majumdar, Derrick VanGennep, Jérémy Brisbois, Dmitriy Chareev, Andrey V. Sadakov, A. S. Usoltsev, Masaki Mito, Alejandro V. Silhanek, Tapati Sarkar, Abdelwahab Hassan, Olof Karis, Rajeev Ahuja, Mahmoud Abdel-Hafiez et al.，2020，Physical Review Materials 4, 084005，DOI: 10.1103/PhysRevMaterials.4.084005
+## 📄 元数据
+Arnab Majumdar, Derrick VanGennep, Jérémy Brisbois, Dmitriy Chareev, Andrey V. Sadakov, A. S. Usoltsev, Masaki Mito, Alejandro V. Silhanek, Tapati Sarkar, Abdelwahab Hassan, Olof Karis, Rajeev Ahuja, Mahmoud Abdel-Hafiez et al.，2020，Physical Review Materials 4, 084005，DOI: 10.1103/PhysRevMaterials.4.084005
 
-- **一句话**：通过磁光成像、比热、高压输运/磁化、Andreev 反射谱、伦敦穿透深度与第一性原理计算的互补测量，证明 2H-NbSe₂ 中电荷密度波（CDW）与超导电性是竞争关系，而 2H-NbSe₂ 与 2H-NbS₂ 均为双 s 波能隙超导体，二者均偏离 Uemura 关系。
+## 💡 一句话
+通过磁光成像、比热、高压输运/磁化、Andreev 反射谱、伦敦穿透深度与第一性原理计算的互补测量，证明 2H-NbSe₂ 中电荷密度波（CDW）与超导电性是竞争关系，而 2H-NbSe₂ 与 2H-NbS₂ 均为双 s 波能隙超导体，二者均偏离 Uemura 关系。
 
-- **现有wiki双链**：
-  - 概念 [[../concepts/charge-density-wave]]
-  - 概念 [[../concepts/2D-materials]]
+## 🔗 Wiki 双链
+  - 概念 [[../concepts/charge-density-wave|电荷密度波]]
+  - 概念 [[../concepts/2D-materials|二维材料]]
+  - 概念 [[../concepts/multiband-superconductivity|多带超导电性]]
+  - 概念 [[../concepts/pauli-paramagnetic-effect|泡利顺磁效应]]
+  - 概念 [[../concepts/uemura-relation|Uemura 关系]]
+  - 概念 [[../concepts/andreev-reflection|Andreev 反射]]
+  - 概念 [[../concepts/electron-phonon-coupling|电子-声子耦合]]
+  - 概念 [[../concepts/london-penetration-depth|伦敦穿透深度]]
+  - 概念 [[../concepts/pressure-tuning|压力调控]]
+  - 概念 [[../concepts/werthamer-helfand-hohenberg-model|WHH 模型]]
   - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/NbSe2|NbSe₂]]
+  - 实体 [[../entities/NbS2|NbS₂]]
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/electronic-devices]]
   - 图表 [[../figures/crystal-structures]]
@@ -77,19 +89,7 @@ tags:
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/majumdarInterplayChargeDensity2020]]
 
-- **新概念/实体建议**：
-  - `NbSe2.md`（实体）：2H-NbSe₂，TMD 中 CDW（T_CDW≈33 K）与超导（T_c≈7.2 K）共存的标志性体系，双 s 波能隙。
-  - `NbS2.md`（实体）：2H-NbS₂，TMD 家族中唯一常压下无 CDW 的超导体（T_c≈5.7 K），双 s 波能隙，H_c2 由泡利顺磁效应主导。
-  - `multiband-superconductivity.md`（概念）：多带超导，超导能隙在多个费米面上同时打开，表现出多能隙特征与复杂的 H_c2(T) 行为。
-  - `pauli-paramagnetic-effect.md`（概念）：泡利顺磁效应/Clogston-Chandrasekhar 极限，磁场通过自旋极化拆散自旋单态库珀对，导致 H_c2 低温饱和。
-  - `uemura-relation.md`（概念）：Uemura 关系，T_c 与超流密度 n_s/m*（即 λ_ab⁻²(0)）之间的经验线性标度，常用于区分非常规超导。
-  - `andreev-reflection.md`（概念）：Andreev 反射谱（IMARE/S-c-S 结），通过次谐波能隙结构直接测量超导能隙大小与对称性。
-  - `electron-phonon-coupling.md`（概念）：动量依赖的电子-声子耦合，被本文提出为 CDW 的可能主因（区别于费米面嵌套）。
-  - `london-penetration-depth.md`（概念）：伦敦穿透深度 λ_ab，反映超流密度与能隙节点结构，是判断 s 波/d 波配对的宏观探针。
-  - `pressure-tuning.md`（概念）：高压作为"干净"调控手段，在不引入掺杂/无序的情况下抑制 CDW、调控超导。
-  - `werthamer-helfand-hohenberg-model.md`（概念）：WHH 模型，描述第二类超导体上临界场的标准理论，含轨道拆对与自旋顺磁项。
-
-- **关键图表**：
+## 📊 关键图表
   - ![图1 磁光成像：Tc 标定与磁通穿透（低场迈斯纳态、高场缺陷引导穿透）](../../raw/figures/majumdarInterplayChargeDensity2020/fig_1_ZD74FXXV.png)
   - ![图2 电阻率与霍尔效应：NbSe₂ 在 33 K 的 CDW 异常及 27.9 K 载流子符号反转](../../raw/figures/majumdarInterplayChargeDensity2020/fig_2_RGX7HF7C.png)
   - ![图3 比热与高压电阻率：CDW 被压力单调抑制；常压电阻曲线 kink 在 7 GPa 消失](../../raw/figures/majumdarInterplayChargeDensity2020/fig_3_WHEZB7KW.png)
@@ -100,9 +100,10 @@ tags:
   - ![图8 伦敦穿透深度：双 s 波模型（实线）拟合远优于 d 波（虚线），证实无节点能隙](../../raw/figures/majumdarInterplayChargeDensity2020/fig_8_6C3IC6MY.png)
   - ![图9 Uemura 图：NbSe₂/NbS₂ 显著偏离 T_c–n_s/m* 普适线性关系](../../raw/figures/majumdarInterplayChargeDensity2020/fig_9_DBZZJIZT.png)
 
-- **项目连接**：project-7 CDW（电荷密度波）直接相关——本文是 CDW 与超导竞争、CDW 起源（费米面嵌套 vs 电子-声子耦合）、高压调控 CDW 的核心实验文献。
+## 🔬 项目连接
+project-7 CDW（电荷密度波）直接相关——本文是 CDW 与超导竞争、CDW 起源（费米面嵌套 vs 电子-声子耦合）、高压调控 CDW 的核心实验文献。
 
-- **组织与用词**：
+## 📝 组织与用词
   文章采用"现象→调控→微观机制→宏观验证"的递进论证：(A) 磁光成像确认样品质量与磁通钉扎特征；(B) 电阻率/霍尔效应展示 CDW 引起的载流子符号反转；(C-D) 高压比热/输运/磁化构建 T-P 相图，确立 CDW-SC 竞争；(E) Andreev 谱微观探测双能隙；(F) DFT 费米面计算排除嵌套机制；(G) 高压 H_c2 区分泡利顺磁（NbS₂）与多带效应（NbSe₂）；(H-I) 伦敦穿透深度宏观证实 s 波双能隙；最后以 Uemura 图收尾，指出机理独特性。多手段互证是全文方法论核心。
   值得复用的关键词/术语：
   - 电荷密度波 / Charge density wave (CDW)
@@ -118,7 +119,7 @@ tags:
   - 压力调控 / Pressure tuning (diamond anvil cell)
   - 磁通钉扎 / Flux pinning
 
-- **可写入wiki的要点**：
+## ✏️ 可写入 Wiki 的要点
   1. **材料基本参数**：2H-NbSe₂ 常压下 T_CDW≈33 K、T_c≈7.2 K；2H-NbS₂ 无 CDW、T_c≈5.7 K。两者同构（六方 2H 相，层状 TMD），是剥离 CDW 对超导影响的理想对比体系。
   2. **CDW-SC 竞争相图**：在 NbSe₂ 中，压力 0–7 GPa 内 T_CDW 单调下降并于约 4.8–5 GPa 完全消失，同时 T_c 从 7.2 K 急剧升至约 8.5 K；CDW 消失后 T_c 上升变缓，在约 10 GPa 形成穹顶后略降，呈现典型竞争关系。NbS₂ 无 CDW，T_c 随压力至 25 GPa 仅缓慢线性增长。
   3. **CDW 引起的载流子重构**：NbSe₂ 在 T≈27.9 K（低于 T_CDW≈33 K）发生霍尔系数符号反转（p 型→n 型）；空穴浓度先升至 p=1.71×10²³ cm⁻³，反转后电子浓度达 n=2.4×10²³ cm⁻³；电子迁移率在 ~10 K 达 30 cm²V⁻¹s⁻¹。NbS₂ 始终为 p 型，6.3 K 时空穴迁移率仅 9.9 cm²V⁻¹s⁻¹。

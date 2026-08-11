@@ -43,25 +43,25 @@
 *按分类组织；新摄入的论文追加到对应分类下。当前共 135 篇论文增强卡片。*
 
 - **D02 多铁性材料**
-  - [[raw/note/2005_Spaldin_The Renaissance of M_KEY-D72SE9HA|Spaldin & Fiebig 2005 — Renaissance of Magnetoelectric Multiferroics]]
-  - [[raw/note/2007_Ramesh_Multiferroics：progr_KEY-2V9G68K6|Ramesh & Spaldin 2007 — Multiferroics: progress and prospects]]
-  - [[raw/note/2016_Fiebig_The evolution of mul_KEY-2USFQC4T|Fiebig et al. 2016 — The evolution of multiferroics]]
-  - [[raw/note/2024_He_Ultrafast switching_KEY-ZTNTAL7L|He 2024 — Ultrafast switching in stacking-engineered ferroelectrics]]
+  - [[wiki/papers/2005_Spaldin_The Renaissance of M_KEY-D72SE9HA|Spaldin & Fiebig 2005 — Renaissance of Magnetoelectric Multiferroics]]
+  - [[wiki/papers/2007_Ramesh_Multiferroics：progr_KEY-2V9G68K6|Ramesh & Spaldin 2007 — Multiferroics: progress and prospects]]
+  - [[wiki/papers/2016_Fiebig_The evolution of mul_KEY-2USFQC4T|Fiebig et al. 2016 — The evolution of multiferroics]]
+  - [[wiki/papers/2024_He_Ultrafast switching_KEY-ZTNTAL7L|He 2024 — Ultrafast switching in stacking-engineered ferroelectrics]]
 
 - **Z01 材料模拟计算设计 (代表性文献选列)**
-  - [[raw/note/2024_He_Ultrafast switching_KEY-ZTNTAL7L|Ultrafast switching dynamics of the ferroelectric domain wall in h-BN]]
-  - [[raw/note/2021_Wu_Sliding ferroelectri_KEY-B52WT4T8|Sliding ferroelectricity in 2D van der Waals materials]]
-  - [[raw/note/2024_Chen_Strong Sliding Ferro_KEY-3Q4MAH3N|Strong Sliding Ferroelectricity and Interlayer Sliding]]
-  - [[raw/note/2022_Song_Evidence for a singl_KEY-VCURTAHK|Evidence for a single-layer van der Waals multiferroic]]
-  - [[raw/note/2024_Miao_Magnetic ferroelectr_KEY-R2TZ62V5|Magnetic ferroelectric metal in bilayer Fe3GeTe2]]
-  - [[raw/note/2026_Yu_Ferroelectric Contro_KEY-K8QQEGEB|Ferroelectric Control of Magnetism and Giant Magnetoelectric Effect]]
-  - [[raw/note/2025_Sun_Sliding ferroelectri_KEY-KZZ35845|Sliding ferroelectricity in two-dimensional materials]]
-  - [[raw/note/2022_Wu_Electrostatic gating_KEY-62HMEAQ4|Electrostatic gating and intercalation in 2D materials]]
-  - *共计 131 篇计算材料学与二维铁电/多铁相关论文卡片，详见 [[raw/note/]]*
+  - [[wiki/papers/2024_He_Ultrafast switching_KEY-ZTNTAL7L|Ultrafast switching dynamics of the ferroelectric domain wall in h-BN]]
+  - [[wiki/papers/2021_Wu_Sliding ferroelectri_KEY-B52WT4T8|Sliding ferroelectricity in 2D van der Waals materials]]
+  - [[wiki/papers/2024_Chen_Strong Sliding Ferro_KEY-3Q4MAH3N|Strong Sliding Ferroelectricity and Interlayer Sliding]]
+  - [[wiki/papers/2022_Song_Evidence for a singl_KEY-VCURTAHK|Evidence for a single-layer van der Waals multiferroic]]
+  - [[wiki/papers/2024_Miao_Magnetic ferroelectr_KEY-R2TZ62V5|Magnetic ferroelectric metal in bilayer Fe3GeTe2]]
+  - [[wiki/papers/2026_Yu_Ferroelectric Contro_KEY-K8QQEGEB|Ferroelectric Control of Magnetism and Giant Magnetoelectric Effect]]
+  - [[wiki/papers/2025_Sun_Sliding ferroelectri_KEY-KZZ35845|Sliding ferroelectricity in two-dimensional materials]]
+  - [[wiki/papers/2022_Wu_Electrostatic gating_KEY-62HMEAQ4|Electrostatic gating and intercalation in 2D materials]]
+  - *共计 131 篇计算材料学与二维铁电/多铁相关论文卡片，详见 [[wiki/papers/]]*
 
 ## 学术写作（Writing）
 
-- [[wiki/write/_index|学术写作用词与思路索引 Writing Style Index]]
+- [[科研Wiki/wiki/write/_index|学术写作用词与思路索引 Writing Style Index]]
   - 按年份聚合论文原句：[[wiki/write/2025|2025]], [[wiki/write/2024|2024]], [[wiki/write/2023|2023]] ...
 
 ## 核心科研项目（Projects）

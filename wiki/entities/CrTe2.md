@@ -1,55 +1,53 @@
 ---
-tags: [entity, material, multiferroic, TMD, 2D, magnetism, ferroelectricity]
-category: [D01, Z02]
----
-
-# 二碲化铬 / Chromium Telluride (CrTe₂)
-
-**二碲化铬 (CrTe₂)** 是一种具有高度调控潜力的范德华（vdW）层状过渡金属硫族化合物（TMD）。它是近年来二维凝聚态物理研究的热点，特别是作为首个被实验证实具有**室温、空气稳定性**的本征二维多铁金属材料（[[../../raw/note/tianRoomtemperatureTwodimensionalMultiferroic2026|Tian et al. 2026]]）。其独特的层依赖磁性及由层间电荷转移诱导的铁电性，为实现超低功耗的“电写磁读”自旋电子器件提供了物理基础。
-
-![CrTe2晶体结构](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_1_USCG2SF4.png)
-*图 1: (a) 1T-CrTe₂ 的晶体结构模型（俯视与侧视）；(b-d) 单层 CrTe₂ 的 STM 及 SP-STM 图像，显示锯齿状反铁磁（z-AFM）序；(f-h) 双层 CrTe₂ 的 STM 及 LEED 图像，显示第一层 AFM 与第二层 FM 的共存。*
-
-## 核心物理特性
-
-### 1. 结构与电子态
-- **晶体结构**：CrTe₂ 以三角层状结构（空间群 $P\bar{3}m1$）结晶，单层采用 **1T 相** 构型。Cr 阳离子位于 Te 八面体中心，层内通过共价键连接，层间为弱范德华力。
-- **金属性**：不同于传统铁电体必须是绝缘体，CrTe₂ 表现出明显的**面内金属性**（dI/dV 谱在费米能级不为零）。这种“铁电金属”特性的关键在于极化电子与导电电子的空间分离：导电电子分布在 MX₂ 层内，而极化偶极矩局域在界面或特定原子周围（[[../../raw/note/zhaoRealization2DMultiferroic2024|Zhao et al. 2024]]）。
-
-### 2. 层依赖磁性 (Layer-dependent Magnetism)
-CrTe₂ 的磁基态对层数极度敏感：
-- **单层**：表现为**锯齿状反铁磁（z-AFM）**序，宏观磁矩抵消。
-- **双层**：表现为**本征多铁性**。实验观测到其第一层保持 AFM，而第二层转变为**铁磁（FM）**。这种 FM/AFM 交替堆叠结构产生了约 2.44 $\mu_B$/Cr 的净磁矩，且居里温度可达室温（300 K）。
-
-### 3. 层间电荷转移驱动的铁电性
-CrTe₂ 的铁电性起源并非传统的层间滑移（Sliding Ferroelectricity），而是源于**层间电荷转移**（Interlayer Charge Transfer）：
-- **物理机制**：FM 层与 AFM 层之间存在静电势差（约 0.1 eV）。为了降低体系总能量，电子会自发地从 z-AFM 层转移到 FM 层，以增强铁磁层中的轨道杂化。
-- **极化强度**：这种不对称的电荷重新分布打破了空间反演对称性，产生约 **3.0 pC/m** 的面外自发极化（$P_{out}$），强度远高于典型的滑移铁电体（0.1-1.2 pC/m）。
-
-![磁电耦合演示](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_3_85N9YJPF.png)
-*图 2: 双层 CrTe₂ 的“电写磁读”功能演示。(b) PFM 写入的“盒中盒”铁电畴；(f) 对应区域在 MFM 下读取出的磁畴结构，两者高度吻合。*
-
-## 磁电耦合与器件应用
-
-CrTe₂ 最具突破性的应用潜力在于其强大的**磁电耦合效应**：
-1. **电压控制磁序**：通过施加外电场翻转铁电极化方向，可以诱导电荷在两层间重新分配。当电荷填充跨越临界点时，各层的磁基态会在 FM 和 AFM 之间发生非易失性切换。
-2. **“电写磁读”功能**：实验已成功演示利用 PFM 针尖在室温大气下写入铁电畴，并利用 MFM 成功读出相应的磁畴构型（图 2）。这为开发超低功耗的非易失性自旋存储器（如电压驱动的 MRAM）铺平了道路。
-3. **拓扑磁结构调控**：在高通量预测中，以 CrTe₂ 为基础的插层超晶格（如 $T-CdCr_2Te_4$）被归类为 **Type-a 多铁材料**。在该类体系中，极化翻转可以改变 Dzyaloshinskii-Moriya 相互作用（DMI）的分布，从而实现对**磁斯格明子（Skyrmions）**产生、湮灭及手性的全电学操控（[[../../raw/note/zhaoRealization2DMultiferroic2024|Zhao et al. 2024]]）。
-
-## 关键表征技术
-- **SP-STM (自旋极化扫描隧道显微镜)**：在原子尺度鉴定单层 AFM 和双层 FM/AFM 磁序。
-- **PFM/MFM 联用**：原位验证铁电-磁畴的关联及其对电场的响应。
-- **SQUID**：证实室温下的磁滞回线特征。
-- **LEED (低能电子衍射)**：观测单层（0.37 nm）与双层（0.39 nm）间的晶格应变差异。
-
-## 本库相关论文
-- [[../../raw/note/tianRoomtemperatureTwodimensionalMultiferroic2026]]：实验首次合成并证实双层 CrTe₂ 的室温多铁性与电写磁读功能。
-- [[../../raw/note/zhaoRealization2DMultiferroic2024]]：高通量第一性原理预测，提出插层超晶格策略并分类 CrTe₂ 基多铁材料。
-- [[../../raw/note/miaoMagneticFerroelectricMetal2024]]：探讨 2D 磁性金属中的滑动诱导多铁性。
-
-## 关联概念
-- [[../concepts/multiferroicity|多铁性 Multiferroicity]]
-- [[../concepts/sliding-ferroelectricity|滑动铁电性 Sliding Ferroelectricity]]
-- [[../concepts/interlayer-charge-transfer|层间电荷转移 Interlayer Charge Transfer]]
-- [[../concepts/skyrmion|磁斯格明子 Skyrmion]]
-- [[../entities/TMDs|过渡金属硫化物 TMDs]]
+2	tags: [entity, material, multiferroic, TMD, 2D, magnetism, ferroelectricity]
+3	category: [D01, Z02]
+4	---
+5	
+6	# 二碲化铬 / Chromium Telluride (CrTe2)
+7	
+8	**二碲化铬 (CrTe2)** 是一种具有高度调控潜力的范德华（vdW）层状过渡金属硫族化合物（TMD）。它是目前二维凝聚态物理研究的旗舰体系，作为首个被实验证实具有**室温、空气稳定性**的本征二维多铁金属材料，被广泛用于研究磁电耦合的“电写磁读”逻辑 [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]。
+9	
+10	## 1. 核心物理特性
+11	
+12	### 1.1 铁电金属佯谬的解决
+13	不同于传统铁电体必须是绝缘体以防止极化被自由载流子屏蔽，CrTe2 表现出**面内金属性与面外铁电性**共存：
+14	- **空间分离机制**：传导电子主要局域在 MX2 层内平面运动，而极化偶极矩由层间（纵向）不对称电荷分布产生，有效避免了极化屏蔽 [[../papers/zhaoRealization2DMultiferroic2024]]。
+15	- **金属性铁电判据**：表现出非易失性的极化翻转迟滞回线，同时具备良好的电荷输运能力。
+16	
+17	### 1.2 层依赖磁性与室温多铁性
+18	CrTe2 的磁基态受层厚和层间耦合强力调制 [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]：
+19	- **单层 (z-AFM)**：基态为锯齿状反铁磁序（Zigzag-AFM），宏观净磁矩抵消。
+20	- **双层 (Multiferroic)**：呈现 **FM/AFM 异质叠加** 结构（顶层 FM，底层 AFM）。产生约 **$2.44\text{ \mu_B/Cr}$** 的净磁矩。
+21	- **居里温度 ($T_C$)**：室温稳定，测量值约为 **$300\text{ K}$**。
+22	
+23	### 1.3 极化机制：层间电荷转移
+24	其铁电性起源于 **层间电荷转移 (Interlayer Charge Transfer)** 而非简单的原子滑移：
+25	- **驱动力**：FM 层与 z-AFM 层之间存在静电势差（$\sim 0.1\text{ eV}$）。
+26	- **极化强度 ($P_{out}$)**：产生约 **$3.0\text{ pC/m}$** 的面外自发极化，显著强于传统滑动铁电体（如 $h\text{-}BN$） [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]。
+27	
+28	## 2. 磁电耦合应用：电写磁读
+29	CrTe2 演示了高集成度的非易失性功能控制：
+30	- **全电学控磁**：通过施加外电压（矫顽电压 $1\text{--}2\text{ V}$）翻转铁电极化，可同步改变层间电荷分布，进而诱导 FM/AFM 磁序的可逆切换。
+31	- **斯格明子调控**：在 CrTe2 基异质结中，极化翻转可有效调控 Dzyaloshinskii-Moriya 相互作用 (DMI)，实现对**磁斯格明子 (Skyrmions)** 的全电学操控 [[../papers/zhaoRealization2DMultiferroic2024]]。
+32	
+33	## 3. 主要物性参数
+34	| 参数名称 | 典型数值 | 备注 |
+35	| :--- | :--- | :--- |
+36	| **转变温度 ($T_C$)** | $\sim 300\text{ K}$ | 室温多铁性 |
+37	| **面外极化 ($P_{out}$)** | $\sim 3.0\text{ pC/m}$ | 高于滑移铁电机制 |
+38	| **磁矩 (Net)** | $2.44\text{ \mu_B/Cr}$ | 双层 FM/AFM 态 |
+39	| **环境稳定性** | 空气稳定 | 暴露大气两周仍具活性 |
+40	| **材料类别** | 磁性 TMDs | 多铁金属旗舰材料 |
+41	
+42	## 4. 本库相关代表性论文
+43	- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]：Nature Materials 2026，实验证实室温空气稳定的二维多铁金属。
+44	- [[../papers/zhaoRealization2DMultiferroic2024]]：综述了 CrTe2 类材料在插层超晶格与斯格明子控制中的优势。
+45	- [[../papers/miaoMagneticFerroelectricMetal2024]]：讨论了 TMDs 中金属性与极性共存的理论边界。
+46	
+47	## 5. 关联概念与实体
+48	- [[../concepts/multiferroicity|多铁性 Multiferroicity]]
+49	- [[../concepts/interlayer-charge-transfer|层间电荷转移 Interlayer Charge Transfer]]
+50	- [[../entities/WTe2|二碲化钨 WTe2]] (同族铁电金属对比)
+51	- [[../entities/MnBi2Te4|MnBi2Te4]] (磁性拓扑对比)
+52	- [[../projects/project-2-mn-multiferroics|Project-2]] (磁性调控参考)
+53	

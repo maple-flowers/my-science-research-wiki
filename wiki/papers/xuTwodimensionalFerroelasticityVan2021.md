@@ -9,32 +9,32 @@ url: "https://doi.org/10.1038/s41467-021-23882-7"
 paper_type: experiment
 status: ingested
 year_read: 2026
-original_note: "[[../../raw/note/xuTwodimensionalFerroelasticityVan2021]]"
+original_note:: [[../../raw/note/xuTwodimensionalFerroelasticityVan2021]]
 projects: [project-5]
 concepts: [ferroelasticity, 2d-materials, strain-engineering, multiferroicity, polarization-switching, antiferroelectricity, spontaneous-strain, domain-walls, peierls-distortion, shape-memory-effect, linear-dichroism]
 entities: [In2Se3, SnTe, TMDs]
 methods: [stem, saed, in-situ-xrd, rsm, polarized-light-microscopy, afm, pfm, raman, shg, cvd, mechanical-exfoliation, two-point-bending, first-principles, rietveld-refinement]
 materials: [beta-prime-In2Se3, 2H-In2Se3, 3R-In2Se3, SnTe, 1T-prime-TMDs]
 figures: [crystal-structures, electronic-bands, domain-walls, experimental-setups, mathematical-models]
-"领域基础知识": >-
+领域基础知识:: >-
   二维范德华材料因层间范德华力弱，可剥离至单层极限，是探索低维物理和构筑柔性器件的理想平台。铁性序（铁磁、铁电、铁弹）是凝聚态物理的核心概念，其中铁弹性指材料具有可被外力切换的自发应变，是形状记忆和超弹性的起源。
-"研究背景": >-
+研究背景:: >-
   理论预测多种二维材料存在铁弹性，但缺乏在二维极限下的实验验证，这阻碍了该领域的发展。本研究旨在通过实验证实二维铁弹性，并对其机制进行系统研究。
-"作者的问题意识": >-
+作者的问题意识:: >-
   在二维材料中，铁弹性是否真实存在并被实验捕捉？其物理机制是什么？如何通过外部手段进行调控？三维堆垛对其有何影响？
-"主要研究对象": >-
+主要研究对象:: >-
   二维范德华材料β’-In₂Se₃（2H和3R堆垛），包括机械剥离的块体薄片和CVD生长的少层（~7层）薄片。
-"主要研究方法": >-
+主要研究方法:: >-
   原位变温X射线衍射定量应变；原子分辨率扫描透射电子显微镜和电子衍射解析畴壁结构；偏振光显微镜和压电力显微镜成像畴结构；通过柔性衬底弯曲施加可控单轴应变，实现畴的原位力学切换。
-"研究意义": >-
+研究意义:: >-
   首次在少层二维范德华材料中实验证实了铁弹性，填补了理论预测与实验验证之间的空白，为通过应变工程调控二维材料功能（如电学、光学性质）和开发新型纳米力学器件提供了材料平台和物理基础。
-"研究结论": >-
+研究结论:: >-
   β’-In₂Se₃具有源于反铁电畸变的约0.49%的二维自发应变，形成三种取向畴变体。在≤0.5%的外部应变下，可通过畴壁传播和畴成核机制实现畴的可逆切换，该性质在少层极限下依然存在。3R堆垛引入的面外剪切应变会导致表面褶皱和倾斜畴壁。
-"对领域的贡献": >-
+对领域的贡献:: >-
   提供了二维铁弹性的首个明确实验证据，建立了研究二维铁弹畴的综合表征方法，并揭示了其普适性，为后续在1T’ TMDs等材料中寻找和应用铁弹性奠定了基础。
-"未来研究方向提及": >-
+未来研究方向提及:: >-
   探索β’-In₂Se₃中的二维形状记忆效应；验证其他预测材料（如1T’ TMDs， SnTe家族）中的二维铁弹性；利用铁弹性行为进行应变/畴壁工程，调控量子自旋霍尔效应、铁电性等其他二维功能。
-"未来研究方向思考": >-
+未来研究方向思考:: >-
   研究者可能会探索铁弹畴壁的原子级电子结构及其输运特性，以发掘其作为纳米导电通道的潜力；研究铁弹切换与反铁电序切换的精确耦合动力学；探索在单层极限下铁弹性的稳定性及临界应变；尝试利用局域化应变（如AFM针尖）实现纳米级铁弹畴的精确写入和擦除，构筑原型器件。
 tags:
   - paper
@@ -85,23 +85,20 @@ tags:
 
 ## xuTwodimensionalFerroelasticityVan2021 — 范德华 β'-In2Se3 的二维铁弹性
 
-- **元数据**：Xu, Mao, Guo, Yan, Chen, Lo, Chen, Lei, Luo, Hao, Zheng, Zhu et al.，2021，Nature Communications 12:3665，DOI 10.1038/s41467-021-23882-7
-- **一句话**：首次在少层范德华 β'-In2Se3 中实验证实由面内反铁电畸变驱动的二维铁弹性，定量给出 ~0.49% 的自发应变并实现 ≤0.5% 外应变下的可逆畴切换。
-- **现有wiki双链**：
-  - 概念 [[../concepts/ferroelasticity]]、[[../concepts/2D-materials]]、[[../concepts/strain-engineering]]、[[../concepts/multiferroicity]]、[[../concepts/polarization-switching]]
+## 📄 元数据
+Xu, Mao, Guo, Yan, Chen, Lo, Chen, Lei, Luo, Hao, Zheng, Zhu et al.，2021，Nature Communications 12:3665，DOI 10.1038/s41467-021-23882-7
+## 💡 一句话
+首次在少层范德华 β'-In2Se3 中实验证实由面内反铁电畸变驱动的二维铁弹性，定量给出 ~0.49% 的自发应变并实现 ≤0.5% 外应变下的可逆畴切换。
+## 🔗 Wiki 双链
+  - 概念 [[../concepts/ferroelasticity]]、[[../concepts/2D-materials]]、[[../concepts/strain-engineering]]、[[../concepts/multiferroicity]]、[[../concepts/polarization-switching]]、[[../concepts/antiferroelectricity|反铁电性]]、[[../concepts/spontaneous-strain|自发应变]]、[[../concepts/peierls-distortion|Peierls 畸变]]、[[../concepts/shape-memory-effect|形状记忆效应]]、[[../concepts/linear-dichroism|线性二向色性]]
   - 实体 [[../entities/In2Se3]]、[[../entities/SnTe]]、[[../entities/TMDs]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/domain-walls]]、[[../figures/experimental-setups]]、[[../figures/mathematical-models]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/domain-walls]]、[[../figures/experimental-setups]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - 年度 [[../write/2021]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/xuTwodimensionalFerroelasticityVan2021]]
-- **新概念/实体建议**：
-  - `antiferroelectricity`（反铁电性）：相邻偶极子反平行排列，宏观极化抵消但伴随晶格畸变；是 β'-In2Se3 自发应变的微观起源，wiki 现仅有铁电条目而无反铁电条目。
-  - `spontaneous-strain`（自发应变）：铁弹相变的序参量，Aizu 张量描述，可作为铁弹性条目下的核心子概念独立成页。
-  - `peierls-distortion`（Peierls 畸变）：1T' TMDs 中铁弹性的结构起源，被本文反复引用作普适性类比。
-  - `shape-memory-effect`（形状记忆效应）：与热弹性 β↔β' 转变直接相关，是作者明确指出的后续方向。
+## 🆕 新概念/实体建议
   - `domain-wall-classification`（W 墙/S 墙分类）：Wf 墙取向由母相对称性固定（120° DW 沿 {11-20}），S 墙取向依赖自发应变量级（60° DW 沿 {1-100}），适合作为畴壁条目的补充概念。
-  - `linear-dichroism`（线性二向色性）：β'-In2Se3 畴成像的光学基础，可作为通用表征概念。
-- **关键图表**：
+## 📊 关键图表
   - ![图1 反铁电耦合的自发应变：纳米条纹超结构、SAED卫星斑、原位XRD温变曲线](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_1_3385VJAN.png)
   - ![公式1 A畴二维自发应变张量 εxx=+0.0049, εyy=-0.0049](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/eq_1_RV7ML8IY.png)
   - ![图2 60°与120°畴壁原子结构、SAED分裂斑点及晶格间距映射](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_2_2XYWZEZB.png)
@@ -111,15 +108,16 @@ tags:
   - ![图3 偏光显微镜下A/B/C三畴变体及角分辨透射强度](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_3_AJIMIKF6.png)
   - ![图4 ≤0.5%外应变驱动的铁弹畴切换序列及A畴面积分数-应变曲线](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_4_BVK6GKZN.png)
   - ![图5 CVD生长~6.6 nm（约7五元层）超薄薄片中的二维铁弹性](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_5_X3B8N42J.png)
-  - ![图6 3R堆垛中120°畴壁处的表面褶皱与面外剪切应变](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_6_QXF85FUA.png)
+  - ![图6 3R堆垛中120°畴壁处的表面褶皱与面外剪切应变](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_6_QXF85FUA.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - ![公式5 3R相A变体三维应变张量（含εxz=-0.0126）](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/eq_5_AL5UGS89.png)
   - ![公式6 3R相B变体三维应变张量](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/eq_6_3IVQPWRA.png)
   - ![公式7 3R相C变体三维应变张量](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/eq_7_MK27GVUB.png)
-  - ![图7 3R相中跨过270 nm台阶发生~480 nm水平偏移的倾斜60°畴壁](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_7_WVSWBUCR.png)
-- **项目连接**：
+  - ![图7 3R相中跨过270 nm台阶发生~480 nm水平偏移的倾斜60°畴壁](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_7_WVSWBUCR.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+## 🔬 项目连接
   - **project-5（SnTe 铁电模拟）— strong**：作者在摘要、引言和讨论中三次明确将 SnTe 家族列为二维铁弹性"应广泛存在"的代表体系（"2D ferroelectrics such as the SnTe family"），并指出可借此通过应变/畴壁工程调控面内铁电性。对项目五的具体参考价值：(1) 提供了铁电/反铁电畸变与自发应变张量耦合的定量范式——Aizu 张量 εxx=+0.49%、εyy=-0.49%、B/C 由 120° 旋转矩阵导出，可直接类比用于 SnTe 面内铁电/铁弹耦合的应变张量构造；(2) 给出 60°/120° 畴壁的力学相容性判据（W 墙/S 墙、{1-100}/{11-20} 晶面族）和 ~0.97° 晶格偏转角，对 LAMMPS 势函数下 SnTe 畴壁构型与能量计算有直接对照意义；(3) 报道了 ≤0.5% 切换应变、5.5% 屈服应变、0.5%–1.1% 线性响应区以及畴壁钉扎等动力学图像，可作为 SnTe 铁电翻转/铁弹切换 MD 模拟的实验标尺；(4) 2H（纯面内）vs 3R（含 εxz≈-0.0126 面外剪切、91.44° 倾斜）的堆垛对比，提示在 SnTe 薄膜/多层模拟中需关注堆垛序引入的剪切分量与表面褶皱、倾斜畴壁。
   - project-1 双光子、project-2 Mn 多铁、project-3 机械发光 NN、project-4 TTF 分子计算、project-6 湿度传感器、project-7 CDW：无直接项目连接。
-- **组织与用词**：论文按"现象发现（热弹性转变与自发应变）→ 机制解析（多畴与畴壁）→ 性质验证（应变驱动切换）→ 维度确认（CVD 少层）→ 三维拓展（2H/3R 堆垛）"五步递进，每一步均由"原子尺度 STEM/XRD + 介观尺度偏光/PFM + 定量应变张量"三类证据互锁；讨论部分将结论外推至 1T' TMDs 与 SnTe 家族，并提出二维形状记忆效应。可复用术语：
+## 📝 组织与用词
+论文按"现象发现（热弹性转变与自发应变）→ 机制解析（多畴与畴壁）→ 性质验证（应变驱动切换）→ 维度确认（CVD 少层）→ 三维拓展（2H/3R 堆垛）"五步递进，每一步均由"原子尺度 STEM/XRD + 介观尺度偏光/PFM + 定量应变张量"三类证据互锁；讨论部分将结论外推至 1T' TMDs 与 SnTe 家族，并提出二维形状记忆效应。可复用术语：
   - ferroelasticity 铁弹性
   - spontaneous strain 自发应变
   - antiferroelectric distortion 反铁电畸变
@@ -132,7 +130,7 @@ tags:
   - mosaic tilt 镶嵌倾斜
   - Peierls distortion Peierls 畸变
   - thermoelastic transformation 热弹性转变
-- **可写入wiki的要点**：
+## ✏️ 可写入 Wiki 的要点
   1. β'-In2Se3 的室温超结构为周期性纳米条纹（周期约 1.4 nm，SAED 中位于 n/8 {1-100} 处的卫星斑），其本质是相邻条纹间 Se 原子反平行位移的二维反铁电序。
   2. β→β' 热弹性转变温度约 250 °C，加热/冷却曲线完全可逆；以 β 相六方晶格（d⊥1100 = √3 d∥1120）为基准，2H 相二维自发应变张量 ε(A)=diag(+0.0049, −0.0049)，约 ±0.49%，远小于 1T' TMDs 理论预测的百分之几。
   3. 母相六方对称性给出三个能量简并的畴变体 A/B/C，应变方向沿三个 <11-20> 方向，彼此相差 60°/120°；ε(B)、ε(C) 由 ±120° 旋转矩阵 J± 对 ε(A) 做相似变换得到，ε(B)=[[-0.0025,-0.0042],[-0.0042,0.0025]]，ε(C)=[[-0.0025,0.0042],[0.0042,0.0025]]，符合 Aizu 6mm−mm2 或 3m−2/m 铁弹转变物种。

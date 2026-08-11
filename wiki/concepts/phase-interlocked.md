@@ -7,7 +7,7 @@ metadata:
 
 # 相锁定特性 / Phase-interlocked Characteristics
 
-**相锁定特性** 是指二维多铁材料中晶格、电荷和自旋自由度之间深度绑定的现象。在这种状态下，对称性驱动的结构相变可以作为一个“旋钮”，同时且可逆地调控材料的多种物理性质 [[../../raw/note/zhongHighthroughputExfoliationMultiferroic2025|Zhong et al. 2025]]。
+**相锁定特性** 是指二维多铁材料中晶格、电荷和自旋自由度之间深度绑定的现象。在这种状态下，对称性驱动的结构相变可以作为一个“旋钮”，同时且可逆地调控材料的多种物理性质 [[../papers/zhongHighthroughputExfoliationMultiferroic2025|Zhong et al. 2025]]。
 
 ## 1. 核心响应模式
 

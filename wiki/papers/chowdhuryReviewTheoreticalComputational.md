@@ -10,33 +10,33 @@ journal: "Nanomaterials"
 doi: "10.3390/nano12030504"
 url: "https://doi.org/10.3390/nano12030504"
 year_read: 2026
-original_note: "[[../../raw/note/chowdhuryReviewTheoreticalComputational]]"
+original_note:: [[../../raw/note/chowdhuryReviewTheoreticalComputational]]
 projects: [project-5, project-7]
 concepts: [2D-materials, charge-density-wave, density-functional-theory, moire-superlattice, spin-orbit-coupling, strain-engineering]
 entities: [TMDs, VASP]
 methods: [arpes, dft, raman, stm-mbe, tem, xanes]
 materials: [TMDs]
 figures: [crystal-structures, electronic-bands, heterostructures-stacking, mathematical-models, vibrational-spectra]
-"领域基础知识": >-
-  电荷密度波（CDW）是一种量子现象，表现为材料在低于转变温度时，其原子位置和电子密度发生周期性调制。它通常发生在低维或具有费米面嵌套的金属体系中，是电子-声子相互作用和电子-电子关联共同作用的结果，深刻影响材料的电学、光学和磁学性质。
-"研究背景": >-
-  二维（2D）材料因其优异的特性成为量子科技的核心候选者。展现CDW的2D材料提供了研究维度效应和关联电子体系的理想平台。早期研究集中于块材，但随着量子器件对材料厚度的要求达到单层极限，理解维度、限域效应如何影响CDW，以及如何利用理论计算（尤其是DFT）准确模拟这些现象，成为了亟待解决的关键科学问题。
-"作者的问题意识": >-
-  作者旨在系统梳理针对TaS₂和TaSe₂这两种代表性CDW材料的理论计算方法，聚焦于四个核心问题：1) 如何克服DFT在模拟温度驱动和非公度CDW相变时的固有挑战？2) 计算方法如何揭示这些材料的原子和电子结构？3) 如何通过计算理解并预测拉曼光谱中的CDW特征模式（振幅模和相位模）？4) 维度降低和限域效应究竟如何从根本上调控CDW的物理性质？
-"主要研究对象": >-
+领域基础知识:: >-
+  电荷密度波（CDW）是一种量子现象，表现为材料在低于转变温度时，其原子位置和电子密度发生周期性调制。它通常发生在低维或具有费米面嵌套的金属体系中，是电子-声子相互作用与电子-电子关联共同作用的结果，深刻影响材料的电学、光学和磁学性质。
+研究背景:: >-
+  二维（2D）材料因其优异的特性成为量子科技的核心候选者。展现CDW的2D材料提供了研究维度效应与关联电子体系的理想平台。早期研究集中于块材，但随着量子器件对材料厚度的要求达到单层极限，理解维度、限域效应如何影响CDW，以及如何利用理论计算（尤其是DFT）准确模拟这些现象，成为了亟待解决的关键科学问题。
+作者的问题意识:: >-
+  作者旨在系统梳理针对TaS₂和TaSe₂这两种代表性CDW材料的理论计算方法，聚焦于四个核心问题：1) 如何克服DFT在模拟温度驱动和非公度CDW相变时的固有挑战？2) 计算方法如何揭示 these 材料的原子和电子结构？3) 如何通过计算理解并预测拉曼光谱中的CDW特征模式（振幅模与相位模）？4) 维度降低和限域效应究竟如何从根本上调控CDW的物理性质？
+主要研究对象:: >-
   主要的研究对象是二维过渡金属二硫族化合物（2D TMDs）中的二硫化钽（TaS₂）和二硒化钽（TaSe₂）。文章重点讨论了其1T和2H晶相，研究范围涵盖了从单层、少数层到块材的体系。
-"主要研究方法": >-
-  核心研究方法是基于密度泛函理论（DFT）的第一性原理计算。具体技术包括：使用QUANTUM ESPRESSO和VASP等软件包，采用LDA和GGA等交换关联泛函，结合模守恒或超软赝势。为处理CDW的特殊问题，采用了“电子温度”方法模拟真实温度效应，以及施加微小的压缩应力来模拟非公度（IC-CDW）结构。
-"研究意义": >-
-  这项综述工作的意义在于，它不仅是一份文献总结，更为二维CDW材料领域的研究者提供了一份宝贵的方法论手册和理论框架。它通过具体案例，详细展示了如何选择和应用计算工具来攻克复杂的物理问题，并加深了对维度效应这一普适性物理规律的理解，为未来基于CDW的量子器件设计和优化提供了理论指导。
-"研究结论": >-
-  1) 通过“电子温度”和“应力工程”方法，DFT可以有效模拟CDW相变。2) 首次通过计算清晰识别并解释了TaSe₂中振幅模和相位模的原子振动图像。3) 揭示了TaS₂和TaSe₂在CDW行为上的显著差异（如非公度性、相变模式）。4) 阐明了维度降低通过改变费米面拓扑、削弱层间耦合等方式，显著调控CDW的稳定性、结构以及与其他量子相（如超导）的竞争，并提出了一个基于离子电荷转移、电子-声子耦合和波函数空间扩展的统一相图框架。
-"对领域的贡献": >-
+主要研究方法:: >-
+  核心研究方法是基于密度泛函理论（DFT）的第一性原理计算。具体技术包括：使用QUANTUM ESPRESSO 与 VASP等软件包，采用LDA和GGA等交换关联泛函，结合模守恒或超软赝势。为处理CDW的特殊问题，采用了“电子温度”方法模拟真实温度效应，以及施加微小的压缩应力来模拟非公度（IC-CDW）结构。
+研究意义:: >-
+  这项综述工作的意义在于，它不仅是一份文献总结，更为二维CDW材料领域的研究者提供了一份宝贵的方法论手册与理论框架。它通过具体案例，详细展示了如何选择和应用计算工具来攻克复杂的物理问题，并加深了对维度效应这一普适性物理规律的理解，为未来基于CDW的量子器件设计与优化提供了理论指导。
+研究结论:: >-
+  1) 通过“电子温度”与“应力工程”方法，DFT可以有效模拟CDW相变。2) 首次通过计算清晰识别并解释了TaSe₂中振幅模与相位模的原子振动图像。3) 揭示了TaS₂和TaSe₂在CDW行为上的显著差异（如非公度性、相变模式）。4) 阐明了维度降低通过改变费米面拓扑、削弱层间耦合等方式，显著调控CDW的稳定性、结构以及与其他量子相（如超导）的竞争，并提出了一个基于离子电荷转移、电子-声子耦合与波函数空间扩展的统一相图框架。
+对领域的贡献:: >-
   本文的主要贡献在于：(1) 系统总结了二维CDW材料计算的挑战与解决方案，具有极高的教学价值；(2) 通过对比研究，为DFT计算参数的选择提供了基准；(3) 将光谱学特征与原子级微观动力学直接联系，深化了对CDW集体激发的理解；(4) 提出了一个普适的维度依赖CDW相图概念模型，为后续研究指明了方向。
-"未来研究方向提及": >-
-  作者明确指出，未来应探索非均匀掺杂体系以调控电子-声子耦合，发展更强大的计算方法以模拟缺陷等复杂系统，并大力加强理论与实验的闭环合作，通过迭代模式加速器件优化和材料发现。
-"未来研究方向思考": >-
-  基于本文，可拓展的思考方向包括：1) 利用高通量计算和机器学习，在整个TMD家族中快速筛选具有特定CDW性质的候选材料。2) 深入研究CDW态在超快光脉冲、强电场等非平衡条件下的超快动力学和瞬态结构变化。3) 探索通过构建二维异质结和摩尔超晶格，引入新的调控维度来创造和操纵新型CDW拓扑结构。 🚀 [笔记回链](zotero://select/library/items/N9CMGNE7) * * * `GPT 自定 ②` `deepseek-v4-pro` _由批量 AI 解读自动生成于 2026/8/11 06:51:54 （重新解读）_ 🏷️ #🤖️/AI文献解读 🏷️ #🤖️/AI文献阅读
+未来研究方向提及:: >-
+  作者明确指出，未来应探索非均匀掺杂体系以调控电子-声子耦合，发展更强大的计算方法以模拟缺陷等复杂系统，并大力加强理论与实验的闭环合作，通过迭代模式加速器件优化与材料发现。
+未来研究方向思考:: >-
+  基于本文，可拓展的思考方向包括：1) 利用高通量计算与机器学习，在整个TMD家族中快速筛选具有特定CDW性质的候选材料。2) 深入研究CDW态在超快光脉冲、强电场等非平衡条件下的超快动力学与瞬态结构变化。3) 探索通过构建二维异质结与摩尔超晶格，引入新的调控维度来创造与操纵新型CDW拓扑结构。
 tags:
   - paper
   - year/2022
@@ -75,9 +75,12 @@ tags:
 
 ## chowdhuryReviewTheoreticalComputational — 二维电荷密度波材料的理论与计算方法综述（Review of Theoretical and Computational Methods for 2D Materials Exhibiting Charge Density Waves）
 
-- **元数据**：Sugata Chowdhury、Heather M. Hill、Albert F. Rigosi、Patrick M. Vora、Angela R. Hight Walker、Francesca Tavazza 等，年份与期刊/DOI 在笔记元数据中缺失（参考文献最晚至 2021 年，据作者与标题推断应为 Nanomaterials 2021, 11, 2305，DOI 10.3390/nano11092305，需核实）
-- **一句话**：本综述以 TaS₂ 与 TaSe₂ 为核心，系统总结了用 DFT 等第一性原理方法研究二维 TMDs 中电荷密度波（CDW）时在温度模拟、非公度结构建模、泛函/赝势选择三方面的计算策略，并整理了其在原子/电子结构、拉曼振幅模/相位模、限域与维度效应上的成果。
-- **现有wiki双链**：本文涉及且 wiki 中已存在的条目，用双链列出（存在才链）：
+## 📄 元数据
+Sugata Chowdhury、Heather M. Hill、Albert F. Rigosi、Patrick M. Vora、Angela R. Hight Walker、Francesca Tavazza 等，年份与期刊/DOI 在笔记元数据中缺失（参考文献最晚至 2021 年，据作者与标题推断应为 Nanomaterials 2021, 11, 2305，DOI 10.3390/nano11092305，需核实）
+## 💡 一句话
+本综述以 TaS₂ 与 TaSe₂ 为核心，系统总结了用 DFT 等第一性原理方法研究二维 TMDs 中电荷密度波（CDW）时在温度模拟、非公度结构建模、泛函/赝势选择三方面的计算策略，并整理了其在原子/电子结构、拉曼振幅模/相位模、限域与维度效应上的成果。
+## 🔗 Wiki 双链
+本文涉及且 wiki 中已存在的条目，用双链列出（存在才链）：
   - 概念 [[../concepts/charge-density-wave]]
   - 概念 [[../concepts/density-functional-theory]]
   - 概念 [[../concepts/2D-materials]]
@@ -93,9 +96,10 @@ tags:
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/Unknown]]（笔记元数据 date 为 NaN；按参考文献推断可补入 2021/2022）
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 相关论文 [[../../raw/note/chowdhuryReviewTheoreticalComputational]]
+  - 相关论文 **chowdhuryReviewTheoreticalComputational**
 
-- **新概念/实体建议**：wiki 中没有、但值得新建的概念或材料实体，每个给 kebab-case 建议文件名 + 一句说明
+## 🆕 新概念/实体建议
+wiki 中没有、但值得新建的概念或材料实体，每个给 kebab-case 建议文件名 + 一句说明
   - 概念 `electron-phonon-coupling`：电子-声子耦合常数 λ，CDW 与超导竞争的核心参量，也是 Lin 等统一相图的三轴之一。
   - 概念 `kohn-anomaly`：科恩异常，特定波矢处声子的急剧软化，是 CDW 相变的前兆；文中指出 TaSe₂ 中位于布里渊区 M 点。
   - 概念 `amplitudon-phason`：CDW 序参量的振幅模（amplitudon，随温度软化/窄化）与相位模（phason，仅在 C-CDW 相中成为拉曼活性光学模）。
@@ -109,7 +113,7 @@ tags:
   - 实体 `ELK`：用于 1T-TaSe₂ 瞬态三维结构计算的全势线性缀加平面波（FP-LAPW）代码。
   - 概念 `star-of-david-cluster`：1T-TaS₂/1T-TaSe₂ C-CDW 相中 13 个 Ta 原子构成的特征团簇，可作为独立实体或并入 TaS₂/TaSe₂ 条目。
 
-- **关键图表**：
+## 📊 关键图表
   - 图1：单层与块体 2H/1T-TaSe₂ 的晶体结构与含 SOC 费米面：![图1 晶体结构与费米面](../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_1_6U85MKFS.png)
   - 图2：2H-TaS₂ 79 cm⁻¹ CDW 模频率随温度变化，施加微小压应变模拟非公度性后与实验吻合：![图2 CDW模频率温度依赖性](../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_2_TCKUYQ2X.png)
   - 图3：单层 2H- 与 1T-TaSe₂ 的能带结构与态密度（红虚线为块体对照）：![图3 单层TaSe2能带结构与态密度](../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_3_F6W5S8YU.png)
@@ -120,12 +124,13 @@ tags:
   - 表1：2H-TaS₂ 实验与有/无应力 DFT 拉曼模（cm⁻¹）的温度依赖对比：![表1 2H-TaS2拉曼模温度依赖对比](../../raw/figures/chowdhuryReviewTheoreticalComputational/tab_1_F2IWIW2A.png)
   - 表2：不同泛函-赝势组合下 TaSe₂ 原胞拉曼模与实验的平均误差，LDA(PW)+模守恒最优（3.2 cm⁻¹）：![表2 泛函-赝势组合拉曼误差基准](../../raw/figures/chowdhuryReviewTheoreticalComputational/tab_2_2GIU5ZQ2.png)
 
-- **项目连接**：
+## 🔬 项目连接
   - project-7 CDW：直接对应，是该项目的方法论综述，提供 DFT 处理温度、非公度性、拉曼模式、维度效应的全套参考，应作为项目背景与计算方法主引文。
   - project-5 SnTe 铁电模拟：方法层面弱相关——LDA/GGA/赝势基准、电子温度展宽、应变工程等 DFT 实践可借鉴，但对象体系不同。
   - 其余项目（双光子、Mn 多铁、机械发光 NN、TTF 分子计算、湿度传感器）无直接项目连接。
 
-- **组织与用词**：文章采用"总—分—总"综述结构：先界定范围（仅 TaS₂/TaSe₂、聚焦理论计算），再以独立章节前置计算方法与三大障碍及对策，随后按材料分述原子/电子结构（§3）、拉曼与声子（§4）、限域/维度（§5），最后对比 TaS₂ 与 TaSe₂ 差异并展望。论证范式为"DFT 预测 → 拉曼/ARPES/STM 实验验证 → 反馈建模"的闭环。值得在 wiki 中复用的关键词/术语：
+## 📝 组织与用词
+文章采用"总—分—总"综述结构：先界定范围（仅 TaS₂/TaSe₂、聚焦理论计算），再以独立章节前置计算方法与三大障碍及对策，随后按材料分述原子/电子结构（§3）、拉曼与声子（§4）、限域/维度（§5），最后对比 TaS₂ 与 TaSe₂ 差异并展望。论证范式为"DFT 预测 → 拉曼/ARPES/STM 实验验证 → 反馈建模"的闭环。值得在 wiki 中复用的关键词/术语：
   - 电荷密度波 Charge Density Wave (CDW)
   - 公度/非公度电荷密度波 C-CDW / IC-CDW
   - 振幅模/相位模 Amplitudon / Phason
@@ -137,7 +142,8 @@ tags:
   - 区折叠声子 zone-folded phonon
   - 限域与维度效应 confinement and dimensionality
 
-- **可写入wiki的要点**：5-10 条 bullet，是可直接用于第二步充实 wiki 条目的具体事实、机制、数据、公式、结论
+## ✏️ 可写入 Wiki 的要点
+5-10 条 bullet，是可直接用于第二步充实 wiki 条目的具体事实、机制、数据、公式、结论
   - **DFT 三大挑战与对策**：标准 DFT 在 0 K、周期性边界、参数敏感三点上与 CDW 不匹配；解决方案分别为以 Fermi–Dirac 展宽 σ 改变电子温度模拟热效应、沿 c 轴施加 −0.3% 压缩应变在 3×3×1 超胞内近似非公度性、并以基准测试选择泛函/赝势。
   - **泛函基准（表2）**：对 TaSe₂ 原胞拉曼频率，LDA(PW)+模守恒赝势平均误差最小（3.2 cm⁻¹），优于 GGA(PBE-PAW)（10.5 cm⁻¹）、GGA(PW)（11.2 cm⁻¹）；GGA 虽更准地给晶格常数，但拉曼频率反而是 LDA 更优——误差互补。
   - **电子温度方法的定量验证**：TaSe₂ 晶格常数 a 的最大相对热胀变化实验为 1.5%、DFT 为 1.1%；c 实验 4.1%、DFT 2.3%，表明以电子温度代真实温度在定性与近定量层面成立。

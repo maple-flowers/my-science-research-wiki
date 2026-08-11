@@ -9,32 +9,32 @@ url: "https://doi.org/10.1088/0953-8984/21/8/084204"
 paper_type: method
 status: ingested
 year_read: 2026
-original_note: "[[../../raw/note/tangGridbasedBaderAnalysis2009]]"
+original_note:: [[../../raw/note/tangGridbasedBaderAnalysis2009]]
 projects: [project-2, project-4, project-5, project-7]
 concepts: [density-functional-theory, bader-analysis, charge-density, zero-flux-surface, lattice-bias, steepest-ascent, mulliken-population-analysis, electron-localization-function]
 entities: [VASP, Gaussian-98, Quantum-ESPRESSO, PAW, pseudopotential, Vanderbilt-ultrasoft]
 methods: [dft, plane-wave, bader-charge-analysis, grid-based-algorithm, finite-difference, post-processing, mp2, monkhorst-pack]
 materials: [NaCl, H2O]
 figures: [algorithm-schematics, convergence-plots]
-"领域基础知识": >-
+领域基础知识:: >-
   Bader分析是一种基于电荷密度拓扑性质将空间划分为原子体积的方法，其基础是电子密度这一可观测量。它比基于波函数的Mulliken分析更稳健，常用于第一性原理计算（如DFT）的后处理，将体系性质分解为原子贡献。该领域的关键挑战在于如何高效、准确地在离散网格上实现这种划分，并避免算法本身引入的人为误差。
-"研究背景": >-
+研究背景:: >-
   早期的Bader分析算法效率不高，不适合大规模DFT计算。作者团队先前开发的“在网法”是一种高效、线性标度的网格化算法，但被发现存在“晶格偏差”，即计算出的原子分割面会人为地跟随网格方向，导致结果依赖于分子的取向，且无法通过加密网格消除。这严重影响了分析的准确性和可靠性。
-"作者的问题意识": >-
+作者的问题意识:: >-
   如何在保留网格化Bader分析算法的高效率、线性标度和稳健性的同时，从根本上消除其固有的晶格偏差，使得计算结果能随网格加密而正确收敛，并且不依赖于分子在计算网格中的取向？
-"主要研究对象": >-
+主要研究对象:: >-
   一种用于划分电荷密度网格以获得Bader体积的改进算法，即“近网法”（near-grid method）。该算法通过追踪偏离网格点的真实梯度轨迹来修正晶格偏差。
-"主要研究方法": >-
+主要研究方法:: >-
   1. 理论分析与算法设计：提出“修正向量”的概念，在网格点间跳跃时累积真实轨迹与网格路径的偏差，并在偏差超过阈值时触发修正步。2. 对比验证：通过二维模型、水分子、NaCl晶体和分子取向测试等案例，将新算法（近网法）与旧算法（在网法）进行定量和定性对比。3. 性能分析：测试算法的计算时间与网格点数的标度关系。
-"研究意义": >-
+研究意义:: >-
   解决了网格化Bader分析领域一个关键的算法缺陷，使得在保证计算效率的前提下，获得了精确、稳健且物理上合理的原子电荷和体积。这对于可靠地分析大规模DFT计算，特别是凝聚态体系的模拟结果，具有重要的理论价值和实践意义。
-"研究结论": >-
+研究结论:: >-
   所提出的近网法成功消除了晶格偏差。其计算结果平滑、不随分子取向变化，且随网格加密能单调收敛到正确值，弥补了在网法存在系统性误差的缺陷。同时，该算法的计算成本与网格点数仍保持线性关系，具有良好的可扩展性。
-"对领域的贡献": >-
-  1. 提供了一种兼具高精度和高效率的Bader分析算法，成为该领域的新标准工具。2. 其“修正向量”机制为在离散网格上追踪连续轨迹提供了一种巧妙的通用算法思路。3. 通过开源软件，使广大计算化学和材料科学研究者能够直接受益于这一算法进步。
-"未来研究方向提及": >-
+对领域的贡献:: >-
+  1. 提供了一种兼具高精度与高效率的Bader分析算法，成为该领域的新标准工具。2. 其“修正向量”机制为在离散网格上追踪连续轨迹提供了一种巧妙的通用算法思路。3. 通过开源软件，使广大计算化学和材料科学研究者能够直接受益于这一算法进步。
+未来研究方向提及:: >-
   论文未明确提及具体未来研究方向，但指出算法可推广到非正交晶格，并适用于平面波基组的凝聚态体系计算，暗示了更广泛的应用前景。
-"未来研究方向思考": >-
+未来研究方向思考:: >-
   1. 将该算法直接集成到VASP、Quantum ESPRESSO等主流DFT软件中，作为标准后处理工具。2. 研究其对非核吸引子（non-nuclear attractors）等特殊拓扑结构的处理能力和鲁棒性。3. 将其应用于从头算分子动力学（AIMD）模拟，实现对动态过程中原子电荷实时变化的精确追踪。4. 与Sanville等人提出的同期改进算法进行更深入的性能与准确性对比研究。
 tags:
   - paper
@@ -79,27 +79,18 @@ tags:
 
 ## tangGridbasedBaderAnalysis2009 — 一种无晶格偏差的网格化Bader分析算法
 
-- **元数据**：W Tang、E Sanville、G Henkelman，2009，*Journal of Physics: Condensed Matter* 21, 084204，DOI [10.1088/0953-8984/21/8/084204](https://doi.org/10.1088/0953-8984/21/8/084204)。
-- **一句话**：提出"近网法"（near-grid method），通过累积"修正向量"在网格点间追踪真实的离网格电荷密度梯度轨迹，在保持 O(N) 线性标度的同时彻底消除了早期在网法（on-grid method）的晶格偏差，使 Bader 电荷/体积能随网格加密单调收敛、且不依赖于分子相对网格的取向。
+## 📄 元数据
+W Tang、E Sanville、G Henkelman，2009，*Journal of Physics: Condensed Matter* 21, 084204，DOI [10.1088/0953-8984/21/8/084204](https://doi.org/10.1088/0953-8984/21/8/084204)。
+## 💡 一句话
+提出"近网法"（near-grid method），通过累积"修正向量"在网格点间追踪真实的离网格电荷密度梯度轨迹，在保持 O(N) 线性标度的同时彻底消除了早期在网法（on-grid method）的晶格偏差，使 Bader 电荷/体积能随网格加密单调收敛、且不依赖于分子相对网格的取向。
 
-- **现有wiki双链**：
-  - 概念 [[../concepts/density-functional-theory]]
-  - 实体 [[../entities/VASP]]
+## 🔗 Wiki 双链
+  - 概念 [[../concepts/density-functional-theory]] [[../concepts/bader-analysis|Bader分析]] [[../concepts/charge-density|电荷密度]] [[../concepts/zero-flux-surface|零通量面]] [[../concepts/lattice-bias|晶格偏差]] [[../concepts/mulliken-population-analysis|Mulliken布居分析]] [[../concepts/correction-vector|修正向量]] [[../concepts/steepest-ascent-path|最陡上升路径]] [[../concepts/non-nuclear-attractor|非核吸引子]]
+  - 实体 [[../entities/VASP]] [[../entities/Quantum-ESPRESSO|Quantum ESPRESSO]] [[../entities/bader-code|Bader程序]]
   - 年度 [[../write/2009]]
   - 相关论文 [[../../raw/note/tangGridbasedBaderAnalysis2009]]
 
-- **新概念/实体建议**：
-  - `concepts/bader-analysis.md`：基于电荷密度零通量面把空间划分为原子 Bader 体积的拓扑分析方法，DFT 后处理中最常用的电荷分配方案之一。
-  - `concepts/charge-density.md`：电子数密度 ρ(r)，Bader 划分所依据的物理可观测量；平面波 DFT 直接输出三维网格。
-  - `concepts/zero-flux-surface.md`：Bader 体积之间的分界面，面上每点的电荷密度梯度与面法向垂直（无通量穿过），即原子盆地的"分水岭"。
-  - `concepts/lattice-bias.md`：网格化 Bader 算法的系统误差——上升路径被限制在 26 个离散格点方向，导致分割面人为地沿网格方向排列，且无法通过加密网格消除。
-  - `concepts/correction-vector.md`：近网法核心机制，从当前网格点指向真实离格轨迹的累积位移向量；任一分量超过半个网格间距即触发修正步。
-  - `concepts/steepest-ascent-path.md`：沿 ∇ρ 方向上升至电荷密度极大值的轨迹，是 Bader 体积分配的基本路径。
-  - `concepts/mulliken-population-analysis.md`：基于波函数/基组的传统电荷布居方法，对基组敏感；与基于电荷密度的 Bader 分析形成对比。
-  - `concepts/non-nuclear-attractor.md`：不位于原子核处的电荷密度极大值，对应不含核的 Bader 体积，是 Bader 拓扑中需特殊处理的情形。
-  - `entities/bader-code.md`：Henkelman 组开源的 Bader 电荷分析程序（http://theory.cm.utexas.edu/bader/），即本文算法的实现。
-
-- **关键图表**：
+## 📊 关键图表
   - ![图1 在网法中被限制在网格点上的最陡上升路径与Bader体积分配](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_1_KVIXKFR9.png)
   - ![图2 在网法晶格偏差示意：格点轨迹偏离真实梯度线，使分割面沿网格方向对齐](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_2_9NMYMX6H.png)
   - ![图3 近网法修正向量机制：累积离格轨迹偏差并在分量超半格时触发修正步](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_3_RLCNJDLK.png)
@@ -110,14 +101,15 @@ tags:
   - ![图8 氧原子Bader电荷随分子旋转角的变化：在网法波动约0.1 e，近网法近似水平](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_8_KHXYRY68.png)
   - ![图9 近网法计算时间与网格点数呈线性O(N)标度（约11.5 s/百万点，2.5 GHz G5 PowerPC）](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_9_LX93LDMB.png)
 
-- **项目连接**：
+## 🔬 项目连接
   - **project-2（Mn 多铁）— medium**：多铁钙钛矿/锰氧化物的 DFT 计算常需用 Bader 电荷分析 Mn–O 共价性、Fe/Cr 等过渡金属价态与磁电耦合机制；本文是 Bader 电荷工具的方法学源头，明确指出必须包含冻芯电荷（PAW/Vanderbilt 赝势）才能得到准确离子电荷，这对解读 Mn 系氧化物的电荷转移、氧空位价态直接可复用。
   - **project-4（TTF 分子计算）— medium**：分子晶体/有机给体–受体体系的电荷转移量、离子化程度判定高度依赖 Bader 电荷。论文水分子算例（aug-cc-pVDZ/MP2 + 257³ 网格）和"在网法对 H→O 电荷转移的系统性低估"直接提示：在分子体系上应使用近网法并做取向/收敛性测试，否则电荷转移量可有约 0.1 e 量级人为误差。
   - **project-5（SnTe 铁电模拟）— medium**：铁电体 DFT 中常用 Bader 电荷讨论 Sn 5s² 孤对立体化学活性、Sn–Te 键离子性/共价性、应变或极化翻转下的电荷重排。本文给出的网格收敛性测试范式（60³→350³，以 0.828 e 为基准）和晶格偏差警告，对正确报告 Sn/Te Bader 电荷、避免取向相关伪影有直接参考价值。
   - **project-7（CDW）— weak**：CDW 的 DFT 研究若涉及电荷密度调制本身、层间电荷转移或 Fermi 面嵌套外的实空间电荷图像，Bader 分析可作为辅助量化工具；但 CDW 的核心物理在能带/声子，Bader 仅为后处理补充，故连接较弱。
   - project-1（双光子）、project-3（机械发光 NN）、project-6（湿度传感器）与本文方法学无直接联系。
 
-- **组织与用词**：论文采用"问题提出 → 方法回顾 → 算法创新 → 递进式验证"的标准方法学范式：先用图1–图2把在网法及其晶格偏差讲透，再用图3+公式(4)–(7)给出近网法修正向量机制，最后用四个由浅入深的算例（二维模型 → 水分子 → NaCl 收敛性 → 分子取向）系统验证，并以图9确认 O(N) 标度未被破坏。值得在 wiki 中复用的术语：
+## 📝 组织与用词
+论文采用"问题提出 → 方法回顾 → 算法创新 → 递进式验证"的标准方法学范式：先用图1–图2把在网法及其晶格偏差讲透，再用图3+公式(4)–(7)给出近网法修正向量机制，最后用四个由浅入深的算例（二维模型 → 水分子 → NaCl 收敛性 → 分子取向）系统验证，并以图9确认 O(N) 标度未被破坏。值得在 wiki 中复用的术语：
   - Bader analysis / Bader 分析
   - zero-flux surface / 零通量面
   - Bader volume (atomic basin) / Bader 体积（原子盆地）
@@ -129,7 +121,7 @@ tags:
   - frozen core charge / 冻芯电荷
   - linear scaling O(N) / 线性标度
 
-- **可写入wiki的要点**：
+## ✏️ 可写入 Wiki 的要点
   1. Bader 划分以电荷密度 ρ(r) 这一可观测量为基础，用零通量面（∇ρ·n = 0）把空间切成每个含一个电荷密度极大值的原子盆地；相比基于波函数的 Mulliken 布居，结果对基组不敏感、更稳健。
   2. 在网法从每个网格点出发，在 26 个三维邻居（二维为 8 个）中选使梯度投影 ∇ρ·r̂ 最大的方向跳跃，碰到已分配点即终止；每个点只处理一次，因而 O(N) 线性标度、对复杂键合拓扑鲁棒。
   3. 在网法的根本缺陷是晶格偏差：真实梯度方向连续，但格点跳跃方向只有 26 个离散方向，轨迹会偏离真实零通量面，使分割面人为沿网格方向出现棱角；该偏差在网格无限加密的极限下仍存在，无法靠提高精度消除。

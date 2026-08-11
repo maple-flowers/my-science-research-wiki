@@ -9,32 +9,32 @@ url: "https://doi.org/10.18520/cs/v112/i08/1668-1674"
 paper_type: experiment
 status: ingested
 year_read: 2026
-original_note: "[[../../raw/note/Kumar2017microstructuring]]"
+original_note:: [[../../raw/note/Kumar2017microstructuring]]
 projects: [project-1]
 concepts: [two-photon-polymerization, two-photon-absorption, voxel, photoinitiator, photoresist, diffraction-limit, nonlinear-optics, threshold-effect, aspect-ratio]
 entities: [SU-8, AR-N-4340, thioxanthone-photoinitiator, AOM, LabVIEW, AFM, piezo-nanopositioning-stage, sub-nanosecond-laser]
 methods: [two-photon-polymerization, laser-direct-writing, afm, optical-microscopy, theoretical-modeling, spin-coating, photolithography-process]
 materials: [SU-8, AR-N-4340, 2-4-diethyl-9H-thioxanthen-9-one]
 figures: [mathematical-models, experimental-setups, optical-micrographs, afm-topography]
-"领域基础知识": >-
+领域基础知识:: >-
   双光子聚合（TPP）是一种基于双光子吸收（TPA）非线性效应的微纳加工技术。其吸收速率与光强平方成正比，能将光化学反应局域在焦点中心的极小体积内，从而实现超越衍射极限的3D结构制造。体素（Voxel）是其最小构建单元。
-"研究背景": >-
+研究背景:: >-
   飞秒激光TPP系统虽性能强大，但设备成本极高，限制了其广泛应用。使用廉价的亚纳秒激光器是降低成本的有效途径，但面临脉宽长、峰值功率低的挑战，需要借助高效光引发剂来增强材料的双光子吸收效率。
-"作者的问题意识": >-
+作者的问题意识:: >-
   如何开发一套基于廉价亚纳秒激光器和商用光刻胶的低成本双光子聚合微纳加工系统，使其性能可媲美昂贵的飞秒激光系统，并系统研究其工艺参数对加工分辨率的影响。
-"主要研究对象": >-
+主要研究对象:: >-
   自主搭建的亚纳秒激光双光子聚合写入系统，以及新型光敏材料组合——商用负性光刻胶（SU-8 和 AR-N 4340）与光引发剂（2,4-二乙基-9H-噻吨-9-酮）的混合物。
-"主要研究方法": >-
+主要研究方法:: >-
   理论建模（推导体素尺寸与工艺参数的关系式）、系统集成（搭建硬件并编写控制软件）、实验验证（制造二维/三维微结构）和表征分析（使用AFM和光学显微镜测量线宽，并与理论模型对比）。
-"研究意义": >-
+研究意义:: >-
   提供了一种成本远低于飞秒激光系统、且性能可比拟的TPP微加工解决方案，极大地降低了该技术的应用门槛，有望推动其在工业快速原型制造、微机电系统等领域的普及。
-"研究结论": >-
+研究结论:: >-
   成功开发了基于亚纳秒激光的TPP系统，证明了“SU-8/AR-N 4340 + 光引发剂”组合的有效性，实现了约500 nm的线宽分辨率，并系统验证了激光功率、写入速度等参数对线宽的影响规律，实验结果与理论模型吻合良好。
-"对领域的贡献": >-
+对领域的贡献:: >-
   1. 提供了一种低成本、高性能的TPP系统方案，核心是亚纳秒激光器与商用光刻胶的结合。2. 首次报道了SU-8/AR-N 4340与特定光引发剂在532nm亚纳秒激光下的有效组合，拓展了材料选择。3. 建立了理论-实验相结合的工艺优化框架。
-"未来研究方向提及": >-
+未来研究方向提及:: >-
   文中未明确提及，但逻辑上可延伸至：进一步提升分辨率、优化材料性能、提高写入速度，以及探索该系统在光子晶体、微流控等具体器件中的应用。
-"未来研究方向思考": >-
+未来研究方向思考:: >-
   1. 探索该光引发剂与其他光刻胶体系的兼容性，开发功能化复合光刻胶。2. 研究并行加工技术以提升制造效率。3. 对系统进行实时闭环控制，提高制造精度和重复性。4. 量化对比该系统与飞秒系统在总拥有成本、制造效率和结构质量上的优劣势。
 tags:
   - paper
@@ -77,15 +77,24 @@ tags:
 
 ## Kumar2017microstructuring — 亚纳秒激光双光子聚合制备微结构
 
-- **元数据**：Raghwendra Kumar, S. Anantha Ramakrishna，2017，Current Science，112(08): 1668–1674，DOI: 10.18520/cs/v112/i08/1668-1674
-- **一句话**：用 700 ps 亚纳秒 532 nm 激光器配合商用负性光刻胶 SU-8 / AR-N 4340 与大双光子吸收截面的噻吨酮光引发剂，搭建了低成本双光子聚合直写系统，实现约 500 nm 线宽与 6 μm 高 3D 微柱，并以阈值模型定量拟合了功率/速度对线宽的影响。
-- **现有wiki双链**：
+## 📄 元数据
+Raghwendra Kumar, S. Anantha Ramakrishna，2017，Current Science，112(08): 1668–1674，DOI: 10.18520/cs/v112/i08/1668-1674
+## 💡 一句话
+用 700 ps 亚纳秒 532 nm 激光器配合商用负性光刻胶 SU-8 / AR-N 4340 与大双光子吸收截面的噻吨酮光引发剂，搭建了低成本双光子聚合直写系统，实现约 500 nm 线宽与 6 μm 高 3D 微柱，并以阈值模型定量拟合了功率/速度对线宽的影响。
+## 🔗 Wiki 双链
+  - 概念 [[../concepts/two-photon-polymerization|双光子聚合 (TPP)]]
+  - 概念 [[../concepts/two-photon-absorption|双光子吸收 (TPA)]]
+  - 概念 [[../concepts/voxel|体素 (Voxel)]]
+  - 概念 [[../concepts/photoinitiator|光引发剂]]
+  - 概念 [[../concepts/diffraction-limit|衍射极限]]
+  - 概念 [[../concepts/threshold-effect|阈值效应]]
+  - 实体 [[../entities/SU-8|SU-8]]
   - 图表 [[../figures/mathematical-models]]
   - 图表 [[../figures/experimental-setups]]
   - 年度 [[../write/2017]]
   - 项目 [[../projects/project-1-two-photon]]
   - 相关论文 [[../../raw/note/Kumar2017microstructuring]]
-- **新概念/实体建议**：
+## 🆕 新概念/实体建议
   - `two-photon-polymerization`（双光子聚合，TPP）：基于 TPA 非线性效应的 3D 微纳光刻技术，核心机制词条。
   - `two-photon-absorption`（双光子吸收，TPA）：吸收速率正比于 I² 的三阶非线性光学过程，是超衍射极限加工的物理基础。
   - `voxel`（体素）：TPP 中单次曝光固化的最小三维体积单元，其宽/深由阈值条件与高斯光束参数共同决定。
@@ -94,7 +103,7 @@ tags:
   - `AR-N-4340`：Allresist 负性光刻胶，对 532 nm TPA 聚合响应极好，甚至可不加光引发剂直接固化。
   - `threshold-effect`（阈值效应）：光聚合需超过最小剂量阈值，使实际固化区远小于光斑，是突破衍射极限的关键。
   - `diffraction-limit`（衍射极限）：传统光学聚焦的最小尺度限制；TPP 通过 I² 非线性与阈值将特征尺寸压缩至 FWHM 的 1/√2 以下。
-- **关键图表**：
+## 📊 关键图表
   - ![图1 TPP原理与体素尺寸理论预测（I vs I²、阈值效应、D 随驻留时间/功率/NA 变化）](../../raw/figures/Kumar2017microstructuring/fig_1_2SW9UPB2.png)
   - ![图2 亚纳秒双光子激光直写系统光路示意与实物照片](../../raw/figures/Kumar2017microstructuring/fig_2_ENZRABLZ.png)
   - ![图3 SU-8/AR-N 4340 中制备的 2D 光栅、微盘、IIT Kanpur 校徽、6 μm 3D 微柱阵列](../../raw/figures/Kumar2017microstructuring/fig_3_YY3P3QFG.png)
@@ -104,10 +113,11 @@ tags:
   - ![公式1 双光子吸收能量速率 dW/dt ∝ I² Im[χ⁽³⁾]](../../raw/figures/Kumar2017microstructuring/eq_1_B45IT96C.png)
   - ![公式3 高斯光束强度分布 I(r,z)](../../raw/figures/Kumar2017microstructuring/eq_3_HDYU79KZ.png)
   - ![公式4 束宽 w(z) 随离焦量 z 的变化](../../raw/figures/Kumar2017microstructuring/eq_4_8XWIF9CQ.png)
-- **项目连接**：
+## 🔬 项目连接
   - **project-1 双光固化和双光发光 — core**：本文是项目的核心机理性实验文献。直接给出 (1) TPA 速率公式 dW/dt = (8π²ω)/(cn²) I² Im[χ⁽³⁾]；(2) 基于阈值条件 I_th² βτ f t ≥ E_th 与高斯光束传播推导的体素宽 D 与深 L 解析表达式（公式 5、6），将 D/L 与平均功率 P_av、驻留时间 t、重复频率 f、NA、阈值能量密度 E'_th 定量关联；(3) 一套完整的亚纳秒（700 ps, 532 nm）TPP 系统搭建方案（AOM 选单、3D 压电台 0.5 nm 闭环、LabVIEW 坐标控制、二向色镜滤 1064 nm）；(4) 商用光刻胶 SU-8、AR-N 4340 与 3 wt% 2,4-二乙基-9H-噻吨-9-酮光引发剂的工艺配方与旋涂/前烘/后烘/显影参数；(5) 实验拟合得到 E'_th ≈ 6.6×10⁻⁷³ W²/m⁴，可作为项目计算/实验对照的可复用基准数据；(6) 功率、写入速度、NA 对线宽/线高影响的系统定量曲线。这些机制、配方、工艺窗口数据对 project-1 选择光源、光引发剂和预测分辨率具有直接参考价值。
   - project-2 Mn多铁 / project-3 机械发光NN / project-4 TTF分子计算 / project-5 SnTe铁电模拟 / project-6 湿度传感器 / project-7 CDW：均无内容参考价值，不列入。
-- **组织与用词**：论文按"原理（TPA/阈值理论 → 体素尺寸公式）→ 设备与材料（自研亚纳秒系统 + 商用光刻胶新组合）→ 制备（2D/3D 微结构）→ 表征校准（AFM/光学显微镜测线宽，拟合 E'_th）→ 结论"的经典实证链条展开，理论预测先行、实验数据回扣模型。值得在 wiki 叙述中复用的术语：
+## 📝 组织与用词
+论文按"原理（TPA/阈值理论 → 体素尺寸公式）→ 设备与材料（自研亚纳秒系统 + 商用光刻胶新组合）→ 制备（2D/3D 微结构）→ 表征校准（AFM/光学显微镜测线宽，拟合 E'_th）→ 结论"的经典实证链条展开，理论预测先行、实验数据回扣模型。值得在 wiki 叙述中复用的术语：
   - two-photon polymerization (TPP) — 双光子聚合
   - two-photon absorption (TPA) — 双光子吸收
   - voxel — 体素
@@ -118,7 +128,7 @@ tags:
   - negative photoresist — 负性光刻胶
   - aspect ratio — 深宽比（高宽比）
   - sub-nanosecond laser — 亚纳秒激光器
-- **可写入wiki的要点**：
+## ✏️ 可写入 Wiki 的要点
   - TPA 能量吸收速率 dW/dt = (8π²ω)/(cn²) I² Im[χ⁽³⁾]，非线性 I² 依赖使反应区 FWHM 比线性吸收窄 √2 倍；叠加材料聚合阈值（最小剂量）后可进一步把特征尺寸压缩至波长以下。
   - 阈值条件写成 I_th² βτ f t ≥ E_th（β 为吸收系数，τ 脉宽，f 重复频率，t 驻留时间，E_th 单位体积阈值能量）；结合高斯光束 I(r,z) 可推出体素宽 D(t,NA,P_av,f) 与体素深 L 的解析公式（原文公式 5、6），D/L 随 P_av、f、t 增大而增大，随 NA 增大而减小。
   - 写入速度 v 与驻留时间成反比，因此提高写入速度等价于缩短 t，线宽单调下降；理论预测小体素需要功率略高于阈值、驻留时间 < 20 ms、平均功率约 1 mW、高 NA 物镜。

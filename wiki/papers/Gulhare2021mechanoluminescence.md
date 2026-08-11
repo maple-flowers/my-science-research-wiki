@@ -1,3 +1,24 @@
+领域基础知识:: >-
+  固态照明（SSL）技术利用发光二极管和荧光粉组合产生白光。机械发光（Mechanoluminescence, ML）是指材料在机械力作用下发光的现象，其机理通常涉及辐射诱导缺陷对电荷的俘获和机械力作用下的释放与复合。
+研究背景:: >-
+  碱土金属正钒酸盐Ba₃(VO₄)₂是一种优异的光学基质材料，稀土掺杂后可产生强烈发光，但其机械发光（ML）特性研究甚少，存在知识空白。
+作者的问题意识:: >-
+  针对Ba₃(VO₄)₂: Eu荧光粉体系，其机械发光性能如何？Eu掺杂浓度、冲击载荷、γ辐照剂量等因素如何影响其ML强度？其背后的物理机制是什么？
+主要研究对象:: >-
+  通过高温固相扩散法合成的、并经过⁶⁰Co源γ射线辐照的不同Eu掺杂浓度（0.1 mol%为最佳）的Ba₃(VO₄)₂荧光粉。
+主要研究方法:: >-
+  采用高温固相法合成样品，XRD进行物相鉴定。使用⁶⁰Co源进行γ辐照，通过重物坠落法脉冲式激发，利用光电倍增管（PMT）和存储示波器记录ML强度-时间曲线，使用带通滤光片测量ML发射光谱。
+研究意义:: >-
+  首次报道了Ba₃(VO₄)₂: Eu荧光粉的ML特性，填补了该材料体系在ML研究领域的空白，并为理解其缺陷介导的能量存储与光转换机制提供了初步的实验数据和理论模型。
+研究结论:: >-
+  未辐照样品无ML。γ辐照后，ML强度在Eu浓度为0.1 mol%时最强，随冲击载荷增大而增强，随γ辐照剂量增加先增强后趋于饱和（约1.4×10³ Gy）。ML发射峰位于606 nm，机理归因于γ辐照产生的缺陷在机械力作用下释放电荷，与Eu离子复合激发发光。
+对领域的贡献:: >-
+  提供了一组新的ML材料（Ba₃(VO₄)₂: Eu）的系统实验数据，揭示了其ML响应的关键参数依赖性，并提出了一个基于稀土离子价态变化的物理模型来解释其发光机制。
+未来研究方向提及:: >-
+  作者未明确提及，但隐含了提升ML灵敏度的需求，以及与其他经典ML材料（如碱卤化物、硫酸盐）进行对比研究的方向。
+未来研究方向思考:: >-
+  1. 利用EPR、XPS等技术直接鉴定辐照缺陷种类与Eu的价态变化，精确验证发光机理。2. 澄清606 nm发射峰的确切归属（Eu²⁺还是Eu³⁺）。3. 通过共掺杂、改变合成条件等方式优化缺陷浓度，提升ML强度与剂量响应灵敏度。4. 探索其在应力传感器或辐射剂量计等领域的应用潜力。
+
 ---
 citekey: Gulhare2021mechanoluminescence
 title: "Mechanoluminescence Characterization of γ-irradiated Ba3(VO4)2:Eu phosphors"
@@ -9,32 +30,32 @@ url: "https://doi.org/10.21275/SR211009161844"
 paper_type: experiment
 status: ingested
 year_read: 2026
-original_note: "[[../../raw/note/Gulhare2021mechanoluminescence]]"
+original_note:: [[../../raw/note/Gulhare2021mechanoluminescence]]
 projects: [project-3]
 concepts: [mechanoluminescence, concentration-quenching, radiation-induced-defects, charge-trapping, hole-center, defect-mediated-luminescence, solid-state-lighting, energy-transfer, gamma-irradiation]
 entities: [Ba3VO4-2, europium-dopant, Co-60, PMT, storage-oscilloscope, JCPDS]
 methods: [solid-state-reaction, xrd, gamma-irradiation, impact-mechanoluminescence, pmt-oscilloscope, bandpass-filter-spectroscopy]
 materials: [Ba3VO4-2-Eu, BaCO3, V2O5, Eu2O3]
 figures: [xrd-patterns, ml-intensity-curves, emission-spectra, dose-response-curve]
-"领域基础知识": >-
+领域基础知识:: >-
   固态照明（SSL）技术利用发光二极管和荧光粉组合产生白光。机械发光（Mechanoluminescence, ML）是指材料在机械力作用下发光的现象，其机理通常涉及辐射诱导缺陷对电荷的俘获和机械力作用下的释放与复合。
-"研究背景": >-
+研究背景:: >-
   碱土金属正钒酸盐Ba₃(VO₄)₂是一种优异的光学基质材料，稀土掺杂后可产生强烈发光，但其机械发光（ML）特性研究甚少，存在知识空白。
-"作者的问题意识": >-
+作者的问题意识:: >-
   针对Ba₃(VO₄)₂: Eu荧光粉体系，其机械发光性能如何？Eu掺杂浓度、冲击载荷、γ辐照剂量等因素如何影响其ML强度？其背后的物理机制是什么？
-"主要研究对象": >-
+主要研究对象:: >-
   通过高温固相扩散法合成的、并经过⁶⁰Co源γ射线辐照的不同Eu掺杂浓度（0.1 mol%为最佳）的Ba₃(VO₄)₂荧光粉。
-"主要研究方法": >-
+主要研究方法:: >-
   采用高温固相法合成样品，XRD进行物相鉴定。使用⁶⁰Co源进行γ辐照，通过重物坠落法脉冲式激发，利用光电倍增管（PMT）和存储示波器记录ML强度-时间曲线，使用带通滤光片测量ML发射光谱。
-"研究意义": >-
+研究意义:: >-
   首次报道了Ba₃(VO₄)₂: Eu荧光粉的ML特性，填补了该材料体系在ML研究领域的空白，并为理解其缺陷介导的能量存储与光转换机制提供了初步的实验数据和理论模型。
-"研究结论": >-
+研究结论:: >-
   未辐照样品无ML。γ辐照后，ML强度在Eu浓度为0.1 mol%时最强，随冲击载荷增大而增强，随γ辐照剂量增加先增强后趋于饱和（约1.4×10³ Gy）。ML发射峰位于606 nm，机理归因于γ辐照产生的缺陷在机械力作用下释放电荷，与Eu离子复合激发发光。
-"对领域的贡献": >-
+对领域的贡献:: >-
   提供了一组新的ML材料（Ba₃(VO₄)₂: Eu）的系统实验数据，揭示了其ML响应的关键参数依赖性，并提出了一个基于稀土离子价态变化的物理模型来解释其发光机制。
-"未来研究方向提及": >-
+未来研究方向提及:: >-
   作者未明确提及，但隐含了提升ML灵敏度的需求，以及与其他经典ML材料（如碱卤化物、硫酸盐）进行对比研究的方向。
-"未来研究方向思考": >-
+未来研究方向思考:: >-
   1. 利用EPR、XPS等技术直接鉴定辐照缺陷种类与Eu的价态变化，精确验证发光机理。2. 澄清606 nm发射峰的确切归属（Eu²⁺还是Eu³⁺）。3. 通过共掺杂、改变合成条件等方式优化缺陷浓度，提升ML强度与剂量响应灵敏度。4. 探索其在应力传感器或辐射剂量计等领域的应用潜力。
 tags:
   - paper
@@ -76,25 +97,24 @@ tags:
 
 ## Gulhare2021mechanoluminescence — γ辐照 Ba3(VO4)2:Eu 荧光粉的机械发光特性
 
-- **元数据**：Vikas Gulhare, S J Dhoble, R S Kher，2021，*International Journal of Science and Research (IJSR)* 10(10), 480–483，DOI [10.21275/SR211009161844](https://doi.org/10.21275/SR211009161844)
-- **一句话**：首次报道 γ 辐照可在 Ba₃(VO₄)₂:Eu 荧光粉中诱发出以 606 nm 为中心的橙红色机械发光（ML），其强度在 Eu 0.1 mol%、载荷质量增大、γ 剂量约 1.4 kGy 饱和时取得极值，并提出 Eu³⁺/Eu²⁺ 价态转换 + VO₄²⁻ 空穴陷阱的缺陷介导模型。
-- **现有wiki双链**：
+## 📄 元数据
+Vikas Gulhare, S J Dhoble, R S Kher，2021，*International Journal of Science and Research (IJSR)* 10(10), 480–483，DOI [10.21275/SR211009161844](https://doi.org/10.21275/SR211009161844)
+## 💡 一句话
+首次报道 γ 辐照可在 Ba₃(VO₄)₂:Eu 荧光粉中诱发出以 606 nm 为中心的橙红色机械发光（ML），其强度在 Eu 0.1 mol%、载荷质量增大、γ 剂量约 1.4 kGy 饱和时取得极值，并提出 Eu³⁺/Eu²⁺ 价态转换 + VO₄²⁻ 空穴陷阱的缺陷介导模型。
+## 🔗 Wiki 双链
+  - 概念 [[../concepts/mechanoluminescence|机械发光]]、[[../concepts/concentration-quenching|浓度猝灭]]、[[../concepts/radiation-induced-defects|辐射诱导缺陷]]、[[../concepts/charge-trapping|电荷俘获]]
+  - 实体 [[../entities/Ba3VO4-2|正钒酸钡 Ba₃(VO₄)₂]]、[[../entities/europium-dopant|铕掺杂离子 Eu²⁺/Eu³⁺]]
   - 图表 [[../figures/optical-spectra]]、[[../figures/experimental-setups]]
   - 年度 [[../write/2021]]
   - 项目 [[../projects/project-3-mechanoluminescence-nn]]
-  - 相关论文 [[../../raw/note/Gulhare2021mechanoluminescence]]
-- **新概念/实体建议**：
-  - `concepts/mechanoluminescence.md` — 机械发光/力致发光（ML），材料在机械刺激（冲击、摩擦、压缩）下发光的现象，按激发方式可分为摩擦发光、断裂发光、弹性-塑性 ML 等；是 project-3 的核心物理对象。
-  - `concepts/concentration-quenching.md` — 浓度猝灭，掺杂离子超过临界浓度后因相邻激活剂间非辐射能量迁移至猝灭中心而发光下降。
-  - `concepts/radiation-induced-defects.md` — 辐射诱导缺陷，γ/X/电子束在晶格中电离产生的电子-空穴陷阱中心，是辐照后 ML/热释光/光释光的储能基础。
-  - `concepts/charge-trapping.md` — 电荷俘获与释放，杂质离子（如 RE³⁺）和空位作为陷阱在辐照时储存载流子，在热/光/力刺激下释放并发光。
-  - `entities/Ba3VO4-2.md` — 正钒酸钡 Ba₃(VO₄)₂，碱土金属正钒酸盐，既是 SSL 荧光粉基质，也被文献提及具有铁电与离子导电（V⁴⁺/V⁵⁺ 电子迁移）特性。
-  - `entities/europium-dopant.md` — 铕掺杂离子 Eu²⁺/Eu³⁺，稀土红色发光激活剂及电荷陷阱。
-- **关键图表**：笔记未附图片（manifest 中 figures 列表为空；正文转述了 5 张图：Fig.1 XRD、Fig.2 ML-时间随 Eu 浓度、Fig.3 ML-载荷质量、Fig.4 ML-γ 剂量饱和、Fig.5 606 nm ML 发射光谱）。
-- **项目连接**：
+  - 相关论文 **Gulhare2021mechanoluminescence**
+## 📊 关键图表
+笔记未附图片（manifest 中 figures 列表为空；正文转述了 5 张图：Fig.1 XRD、Fig.2 ML-时间随 Eu 浓度、Fig.3 ML-载荷质量、Fig.4 ML-γ 剂量饱和、Fig.5 606 nm ML 发射光谱）。
+## 🔬 项目连接
   - **project-3 机械发光NN — core（核心）**：本文是一篇直接、完整的机械发光实验论文，给出了 ML 瞬态强度随三类参数（掺杂浓度、冲击载荷质量、γ 辐照剂量）的依赖曲线以及发射光谱，正好可作为 project-3 应力发光神经网络的物理背景、特征工程依据和参考数据集：(i) ML 强度随冲击能量（载荷质量×下落高度）单调增长，是力学输入→亮度输出的直接标定关系；(ii) 0.1 mol% 浓度猝灭极值可作为组分输入特征；(iii) γ 剂量-亮度的饱和曲线（1.4 kGy 附近饱和）对应"储能陷阱填充度"这一隐藏变量，可启发网络中加入剂量/陷阱状态通道；(iv) 文中提出的"辐照产生电子-空穴陷阱→机械力释放→复合激发 Eu³⁺"机理，正是数据驱动模型应当学到的底层物理。
   - project-1 双光子 / project-2 Mn 多铁 / project-4 TTF 分子计算 / project-5 SnTe 铁电模拟 / project-6 湿度传感器 / project-7 CDW：无直接项目连接。Ba₃(VO₄)₂ 虽在引言中被顺带提及具有铁电与离子导电性，但本文既未测量也未模拟铁电序，对 project-5 只有最间接的"钒酸盐基质"语料价值，不打标签。
-- **组织与用词**：论文采用"材料制备（高温固相扩散）→ XRD 物相确认 → γ 辐照 → 落载冲击激发 ML → PMT+示波器记录瞬态曲线 → 带通滤光片测发射光谱 → 缺陷价态模型"的标准实验论文链条；论证以四张参数依赖图为骨架，最后给出一个三步电荷模型。值得在 wiki 中复用的术语：
+## 📝 组织与用词
+论文采用"材料制备（高温固相扩散）→ XRD 物相确认 → γ 辐照 → 落载冲击激发 ML → PMT+示波器记录瞬态曲线 → 带通滤光片测发射光谱 → 缺陷价态模型"的标准实验论文链条；论证以四张参数依赖图为骨架，最后给出一个三步电荷模型。值得在 wiki 中复用的术语：
   - 机械发光 / Mechanoluminescence (ML)
   - 摩擦发光 / Triboluminescence（ML 的子类）
   - 浓度猝灭 / Concentration quenching
@@ -103,7 +123,7 @@ tags:
   - 固态扩散法 / Solid state diffusion technique
   - 落载冲击激发 / Impulsive load dropping excitation
   - 剂量饱和 / Dose saturation
-- **可写入wiki的要点**：
+## ✏️ 可写入 Wiki 的要点
   1. **制备**：BaCO₃、V₂O₅、Eu₂O₃ 按 3:1 化学计量比混合，500 ℃ 预烧 4 h，再于 550 ℃ 烧结 12 h + 1 h 后淬火，得到 Ba₃(VO₄)₂:Eu 粉末；XRD 与 JCPDS 卡片 00-029-0211 吻合，确认为纯相。
   2. **ML 激发条件**：⁶⁰Co γ 源辐照后，用 0.4 kg 载荷从 5 cm 高处自由坠落冲击 2.0 mg 样品，PMT 连接存储示波器记录瞬态辉光曲线；ML 光谱由一组带通滤光片测得。
   3. **必要条件**：未辐照的纯相和掺 Eu 样品均不发光，γ 辐照是 ML 出现的必要条件，直接证明辐射诱导缺陷中心参与 ML 激发过程。

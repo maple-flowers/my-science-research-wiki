@@ -7,7 +7,7 @@ metadata:
 
 # 形变势 / Deformation Potential ($E_1$)
 
-**形变势** 是半导体物理中衡量电子-声子耦合强度的关键物理量。它直接决定了材料的载流子迁移率，尤其是在声学声子散射占主导的二维材料中 [[../../raw/note/yanDecipheringStabilityTwodimensional2025|Yan et al. 2025]]。
+**形变势** 是半导体物理中衡量电子-声子耦合强度的关键物理量。它直接决定了材料的载流子迁移率，尤其是在声学声子散射占主导的二维材料中 [[../papers/yanDecipheringStabilityTwodimensional2025|Yan et al. 2025]]。
 
 ## 1. 定义与公式
 

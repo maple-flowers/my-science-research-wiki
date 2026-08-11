@@ -9,32 +9,32 @@ url: "https://doi.org/10.1063/5.0239890"
 paper_type: theory
 status: ingested
 year_read: 2026
-original_note: "[[../../raw/note/gaoStrainEngineeringFerroelectric2024]]"
+original_note:: [[../../raw/note/gaoStrainEngineeringFerroelectric2024]]
 projects: [project-2, project-5]
 concepts: [ferroelasticity, multiferroicity, strain-engineering, 2d-materials, berry-phase, density-functional-theory, polarization-switching, ferroelastic-ferroelectric-coupling, transformation-strain, domain-wall-electronics]
 entities: [In2Se3, VASP, WTe2, SnTe, domain-wall, HgBr2, CuInP2S6]
 methods: [dft, vasp, pbe-gga, paw, berry-phase, ci-neb, first-principles, green-lagrange-strain]
 materials: [beta-prime-In2Se3, WTe2, HgBr2]
 figures: [crystal-structures, domain-walls, mathematical-models]
-"领域基础知识": >-
+领域基础知识:: >-
   二维铁电材料、多铁材料、铁弹性、铁电畴、畴壁、应变工程、第一性原理计算、密度泛函理论(DFT)。
-"研究背景": >-
+研究背景:: >-
   二维铁电材料在非易失性存储器中潜力巨大，但在二维极限厚度下，传统电场控制极化方法会导致漏电流和材料击穿，亟需探索非电场的调控手段。利用铁弹-铁电耦合的应变工程是一种潜在解决方案。
-"作者的问题意识": >-
-  如何有效控制二维铁电材料的极化方向和畴结构，以克服电场调控的局限性？能否利用应变工程实现对二维多铁半导体β'-In₂Se₃的铁电畴进行"编程"？
-"主要研究对象": >-
+作者的问题意识:: >-
+  如何有效控制二维铁电材料的极化方向和畴结构，以克服电场调育的局限性？能否利用应变工程实现对二维多铁半导体β'-In₂Se₃的铁电畴进行"编程"？
+主要研究对象:: >-
   二维多铁半导体β'-In₂Se₃单层膜及其60°和180°铁电畴壁结构。
-"主要研究方法": >-
+主要研究方法:: >-
   基于密度泛函理论(DFT)的第一性原理计算（VASP软件包），结合转变应变张量分析、CI-NEB方法计算相变势垒、贝里相位法计算极化。
-"研究意义": >-
+研究意义:: >-
   提出了一种无需电场、仅通过机械应变即可调控二维材料铁电性质的新策略，为克服尺寸效应瓶颈、发展下一代柔性电子器件和"畴壁电子学"提供了理论依据和操作指南。
-"研究结论": >-
+研究结论:: >-
   施加单轴或剪切应变可有效旋转β'-In₂Se₃的极化方向，并触发自发铁弹-铁电相变，其机制是应变显著降低了相变势垒；应变方向与畴壁走向的夹角是调控畴壁类型（60°与180°之间转换）的关键因素。
-"对领域的贡献": >-
+对领域的贡献:: >-
   揭示了应变调控二维铁电性的微观机制，特别是势垒降低效应，并建立了一套通过应变"编程"控制铁电畴和畴壁构型的理论框架。
-"未来研究方向提及": >-
+未来研究方向提及:: >-
   实验上通过光学二次谐波(SHG)和各向异性电导测量验证应变调控；探索精确施加纳米级应变的技术；设计基于应变调控的概念验证型器件。
-"未来研究方向思考": >-
+未来研究方向思考:: >-
   研究有限温度及缺陷对畴壁稳定性和应变调控的影响；探索动态应变加载下的畴壁运动动力学；将该应变调控策略推广至其他2D多铁体系；开发实现"应变图案"的微纳加工技术。
 tags:
   - paper
@@ -81,25 +81,20 @@ tags:
 
 ## gaoStrainEngineeringFerroelectric2024 — 二维多铁半导体中铁电极化和畴的应变工程
 
-- **元数据**：Gao, Chen, Qi et al.，2024，Applied Physics Letters 125, 212903，DOI 10.1063/5.0239890
-- **一句话**：基于第一性原理计算，提出利用 β'-In₂Se₃ 中铁弹性与铁电性的内禀耦合，通过单轴/剪切应变而非外电场来旋转极化方向、降低相变势垒并可逆切换 60°/180° 畴壁，实现铁电畴的"应变编程"。
+## 📄 元数据
+Gao, Chen, Qi et al.，2024，Applied Physics Letters 125, 212903，DOI 10.1063/5.0239890
+## 💡 一句话
+基于第一性原理计算，提出利用 β'-In₂Se₃ 中铁弹性与铁电性的内禀耦合，通过单轴/剪切应变而非外电场来旋转极化方向、降低相变势垒并可逆切换 60°/180° 畴壁，实现铁电畴的"应变编程"。
 
-- **现有wiki双链**：
-  - 概念 [[../concepts/ferroelasticity]]、[[../concepts/multiferroicity]]、[[../concepts/strain-engineering]]、[[../concepts/2D-materials]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/polarization-switching]]
-  - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/WTe2]]、[[../entities/SnTe]]、[[../entities/domain-wall]]
+## 🔗 Wiki 双链
+  - 概念 [[../concepts/ferroelasticity]]、[[../concepts/multiferroicity]]、[[../concepts/strain-engineering]]、[[../concepts/2D-materials]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelastic-ferroelectric-coupling]]、[[../concepts/transformation-strain]]、[[../concepts/domain-wall-electronics]]
+  - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/WTe2]]、[[../entities/SnTe]]、[[../entities/domain-wall]]、[[../entities/HgBr2]]、[[../entities/CuInP2S6]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/domain-walls]]、[[../figures/mathematical-models]]
   - 年度 [[../write/2024]]
   - 话题 [[../topics/D02-多铁性材料]]、[[../topics/Z01-材料模拟计算设计]]
   - 相关论文 [[../../raw/note/gaoStrainEngineeringFerroelectric2024]]
 
-- **新概念/实体建议**：
-  - `concepts/ferroelastic-ferroelectric-coupling.md` — 铁弹-铁电耦合：同一原子位移同时产生自发极化与自发晶格应变，使机械应力可翻转极化，是应变调控铁电性的物理基础。
-  - `concepts/transformation-strain.md` — 转变应变（transformation strain）：以顺电相为参考，用 2×2 Green-Lagrange 应变张量量化不同铁电变体间晶格畸变，含轴向分量 e_xx/e_yy 与剪切分量 e_xy。
-  - `concepts/domain-wall-electronics.md` — 畴壁电子学：利用畴壁处异于畴内的原子/电子结构（如束缚电荷、各向异性电导）作为功能单元的器件范式。
-  - `entities/HgBr2.md` — 二维铁弹/铁电材料，作为对比体系：应变只能改变变体相对稳定性，因势垒过高无法触发零温自发相变。
-  - `entities/CuInP2S6.md` — 二维面内/面外铁电体，文中作为已被实验证实的 2D FE 代表之一引用。
-
-- **关键图表**：
+## 📊 关键图表
   - 图1 β-In₂Se₃（顺电相）与 β'-In₂Se₃（铁电相）的晶体结构及 P₀/P₆₀/P₁₂₀ 三个对称等效极化取向
     ![β'-In2Se3晶体结构与三个极化变体](../../raw/figures/gaoStrainEngineeringFerroelectric2024/fig_1_24Y2WQCH.png)
   - 图2 x方向单轴应变下的能量差、极化分量、FE-P₆₀→FE-P₀ 相变势垒及结构演化
@@ -116,23 +111,25 @@ tags:
     ![η31转变应变张量](../../raw/figures/gaoStrainEngineeringFerroelectric2024/eq_4_DGN4M7N8.png)
   - （注：raw/figures 中未附图3，图3为剪切应变能量/极化曲线及六态应变调控网络图）
 
-- **项目连接**：
-  - **project-5（SnTe 铁电模拟）— strong**：论文引言明确将 SnTe 列为已被实验证实的二维面内铁电体之一；其方法链条（VASP + PBE-GGA + PAW + Berry phase 算极化 + CI-NEB 算翻转势垒 + 1×√3 矩形胞/16×1 超胞模拟畴壁）正是 SnTe 铁电模拟可直接复用的计算流程。单轴/剪切应变下极化旋转、势垒降低至零、畴壁类型随应变方向切换的结论，可为 SnTe 薄膜在衬底失配应变下的极化与畴结构演化提供直接物理图像和对照数据。
+## 🔬 项目连接
+  - **project-5（SnTe 铁电模拟）— strong**：论文引言明确将 SnTe 列为已被实验证实的二维面内铁电体之一；其方法链条（VASP + PBE-GGA + PAW + Berry phase 算极化 + CI-NEB 算翻转势垒 + 1×√3 矩形胞/16×1 超胞模拟畴壁）正是 SnTe 铁电模拟可直接复用的计算流程。单轴/剪切应变下极化旋转、势垒降低至零、畴壁类型随应变方向切换的结论，可为 SnTe 薄膜在衬底失配应变下的极化与畴结构演化提供直接物理图像与对照数据。
   - **project-2（Mn 多铁）— medium**：本工作系统展示了"铁弹性-铁电性耦合 → 应力调控极化"这一多铁性核心机制，虽材料为二维 In₂Se₃ 而非 Mn 基多铁，但铁弹/铁电同源耦合、应变降低相变势垒、畴壁夹角决定畴壁类型等物理图像，可为 Mn 基多铁中应变/应力调控磁电耦合、畴壁行为提供可类比的机制参考；其转变应变张量分析方法也可迁移到多铁相变的定量描述。
-  - **project-7（CDW）/project-4（TTF 分子计算）/project-1/3/6**：无直接项目连接。应变工程 DFT 流程在形式上可为其他计算项目提供方法学参考，但论文机制与材料均不直接对应，不打连接标签。
+  - **project-7（CDW）/project-4（TTF 分子计算）/project-1/3/6**：无直接项目连接。应变工程 DFT 流程在全球形式上可为其他计算项目提供方法学参考，但论文机制与材料均不直接对应，不打连接标签。
 
-- **组织与用词**：文章遵循"提出问题（电场调控在 2D 极限失效）→ 建立模型（β'-In₂Se₃ 三相变体 + 转变应变张量）→ 单轴应变验证 → 剪切应变验证 → 畴壁拓展 → 结论与检测方案"的经典理论计算范式。论证以 Green-Lagrange 应变张量解析预测指导 DFT 数值验证，再用 CI-NEB 揭示势垒机制，最后推广到畴壁超胞，层层递进。值得复用的术语：
-  - ferroelastic–ferroelectric coupling（铁弹-铁电耦合）
-  - transformation strain tensor（转变应变张量）
+## 📝 组织与用词
+文章遵循"提出问题（电场调控在 2D 极限失效）→ 建立模型（β'-In₂Se₃ 三相变体 + 转变应变张量）→ 单轴应变验证 → 剪切应变验证 → 畴壁拓展 → 结论与检测方案"的经典理论计算范式。论证以 Green-Lagrange 应变张量解析预测指导 DFT 数值验证，再用 CI-NEB 揭示势垒机制，最后推广到畴壁超胞，层层递进。值得复用的术语：
+  - [[../concepts/ferroelastic-ferroelectric-coupling|ferroelastic–ferroelectric coupling]]（铁弹-铁电耦合）
+  - [[../concepts/transformation-strain|transformation strain tensor]]（转变应变张量）
   - orientation variant（取向变体，P₀/P₆₀/P₁₂₀）
   - spontaneous ferroelastic phase transition（自发铁弹相变）
   - transition potential barrier（跃迁/相变势垒）
   - uniaxial / shear strain（单轴应变/剪切应变）
-  - domain wall angle / DW configuration（畴壁夹角/畴壁构型，60°/120°/180° DW）
-  - domain wall electronics（畴壁电子学）
+  - [[../entities/domain-wall|domain wall angle / DW configuration]]（畴壁夹角/畴壁构型，60°/120°/180° DW）
+  - [[../concepts/domain-wall-electronics|domain wall electronics]]（畴壁电子学）
   - strain-programmable FE domain（应变可编程铁电畴）
 
-- **可写入wiki的要点**：
+  - [[../concepts/orientation-variants|orientation-variants]]
+## ✏️ 可写入 Wiki 的要点
   1. β'-In₂Se₃ 由顺电相 β-In₂Se₃（中心 Se 原子位于反演对称中心，a=b=4.014 Å）经中心 Se 偏移得到，FE 相比 PE 相低 0.083 eV/f.u.；FE-P₀ 晶格 a=4.127 Å、b=6.876 Å，表现为沿极化方向 a 自发伸长、垂直方向 b 收缩，即铁电极化与铁弹应变同源。
   2. 因六方晶格三重旋转对称，β'-In₂Se₃ 存在三个对称等效的面内极化取向 P₀、P₆₀、P₁₂₀，加反向共六个可切换极化方向。
   3. 转变应变张量用 Green-Lagrange 形式 η_i0 = 1/2[H_0^{−T} H_i^T H_i H_0^{−1} − I] 计算；FE-P₀→FE-P₆₀ 的 η₂₁ 与 FE-P₀→FE-P₁₂₀ 的 η₃₁ 对角元均为 e_xx=−0.026、e_yy=0.0297，非对角剪切元 e_xy=∓0.029，说明变体间转换同时需要单轴和剪切应变。

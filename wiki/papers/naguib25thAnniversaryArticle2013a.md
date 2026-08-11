@@ -10,33 +10,33 @@ url: "https://doi.org/10.1002/adma.201304138"
 paper_type: review
 status: ingested
 year_read: 2026
-original_note: "[[../../raw/note/naguib25thAnniversaryArticle2013a]]"
+original_note:: [[../../raw/note/naguib25thAnniversaryArticle2013a]]
 projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
 concepts: [2D-materials, density-functional-theory]
 entities: [MXenes, TMDs]
 methods: [dft, md, monte-carlo, raman, tem, xrd]
 materials: [MXenes, TMDs]
 figures: [crystal-structures, electronic-bands, experimental-setups, vibrational-spectra]
-"领域基础知识": >-
+领域基础知识:: >-
   二维材料，特指具有高纵横比和原子级厚度的晶体，如石墨烯。MAX相是一类具有六方层状结构的三元碳化物/氮化物，其通式为Mn+1AXn，其中M为早期过渡金属，A为IIIA/IVA族元素，X为C和/或N。MXenes是通过选择性刻蚀MAX相中的A层而制备的新型二维材料家族。
-"研究背景": >-
+研究背景:: >-
   二维材料领域在石墨烯之后蓬勃发展，但大多数层状材料由弱范德华力连接。MAX相层间由强金属键连接，无法通过机械方式剥离。需要一种化学方法，利用M-A和M-X键的化学性质差异，选择性刻蚀A层，从而得到二维Mn+1Xn层，即MXenes。
-"作者的问题意识": >-
+作者的问题意识:: >-
   如何从通过强化学键结合的MAX相中，选择性地断裂M-A键而保留M-X键，从而成功制备并稳定存在一种全新的二维过渡金属碳化物/碳氮化物（MXenes），并系统研究其合成、结构、性质与潜在应用，为二维材料家族增添新成员。
-"主要研究对象": >-
+主要研究对象:: >-
   一个名为“MXenes”的新的二维材料家族，特指通式为Mn+1XnTx的早期过渡金属碳化物和碳氮化物，如Ti₃C₂Tx、Ti₂CTx、Nb₂CTx等。T代表表面功能基团（如OH、O、F）。
-"主要研究方法": >-
+主要研究方法:: >-
   选择性化学刻蚀法（使用HF水溶液在室温下从MAX相中刻蚀Al层）；多层材料插层与大规模液相分层法（如使用DMSO插层后超声处理）；密度泛函理论（DFT）计算（用于预测和解释结构、电子性质、力学性能）；关键表征工具包括X射线衍射（XRD）、扫描电子显微镜（SEM）、透射电子显微镜（TEM）及其选区电子衍射（SAED）、X射线光电子能谱（XPS）等。
-"研究意义": >-
+研究意义:: >-
   开创了一个全新的、组成和性质高度可调的二维材料家族，极大地拓展了二维材料的研究版图。提出了一种“选择性刻蚀强键合层状材料”的通用合成新范式。MXenes本身兼具优异的金属导电性和亲水性，为储能、复合材料、电子器件等领域提供了极具潜力的新材料平台。
-"研究结论": >-
+研究结论:: >-
   MXenes是通过选择性刻蚀MAX相中A层获得的新型二维材料，表面常有O、OH、F基团终止。其兼具金属导电性和亲水性，被称为“导电粘土”。通过化学插层和分层可大规模制备单层或少层MXene。DFT计算在预测和解释其结构、电子、力学性质方面发挥了关键作用。MXenes在锂离子电池和超级电容器中展现出优异的电化学储能性能，特别是高倍率性能。
-"对领域的贡献": >-
+对领域的贡献:: >-
   1. 发现并定义了一个庞大的二维材料新家族MXenes，其组成和结构多样性远超石墨烯。2. 创立了化学选择性刻蚀的合成路线，为从3D层状化合物制备2D材料提供了新思路。3. 建立了“实验-理论”紧密结合的研究范式，通过DFT计算驱动了对MXene性质的理解和预测。4. 初步验证了MXenes在电化学储能这一关键应用领域的巨大潜力，引领了后续研究热潮。
-"未来研究方向提及": >-
+未来研究方向提及:: >-
   控制并修饰MXene表面化学；明确Mn+1XnTx的确切结构；深入理解插层化合物的结构与性质；确定MXene在不同环境下的化学与热稳定性；实现除Ti₃C₂外其他MXene的大规模分层；寻找除HF外更安全、稳健的合成与分层路线；合成无表面基团的“裸”MXene；从MAX薄膜直接制备MXene薄膜；系统表征单层MXene的各种性质；拓展MXene在聚合物复合材料、催化、透明导体、传感器等领域的应用。
-"未来研究方向思考": >-
-  基于该综述，未来研究可聚焦于：1. 发展不依赖HF的绿色合成策略，如熔盐刻蚀法，以提高实验安全性和环境友好性。2. 探索并实现刻蚀非Al的A元素，如Si、Ga等，以合成基于Mo、W、Hf等新过渡金属的MXenes，极大地扩充材料家族。3. 利用MXene的高导电性和亲水性，结合其层状结构，开发高性能的电磁屏蔽薄膜和导电油墨。4. 系统研究MXenes在非锂离子（如Na+、K+、Mg2+、Al3+）电池中的应用，发挥其大层间距和低扩散势垒的优势。5. 将MXene与其他二维材料（如石墨烯、TMDs）垂直堆叠，构建范德华异质结，探索其在未来原子级厚度的电子学和光电子学器件中的新物理现象和应用。 🚀 [笔记回链](zotero://select/library/items/C7RUWBRA) * * * `GPT 自定 ②` `deepseek-v4-pro` _由批量 AI 解读自动生成于 2026/8/11 07:06:05 （重新解读）_ 🏷️ #🤖️/AI文献解读 🏷️ #🤖️/AI文献阅读
+未来研究方向思考:: >-
+  基于该综述，未来研究可聚焦于：1. 发展不依赖HF的绿色合成策略，如熔盐刻蚀法，以提高实验安全性和环境友好性。2. 探索并实现刻蚀非Al的A元素，如Si、Ga等，以合成基于Mo、W、Hf等新过渡金属的MXenes，极大地扩充材料家族。3. 利用MXene的高导电性和亲水性，结合其层状结构，开发高性能的电磁屏蔽薄膜和导电油墨。4. 系统研究MXenes在非锂离子（如Na+、K+、Mg2+、Al3+）电池中的应用，发挥其大层间距和低扩散势垒的优势。5. 将MXene与其他二维材料（如石墨烯、TMDs）垂直堆叠，构建范德华异质结，探索其在未来原子级厚度的电子学和光电子学器件中的新物理现象和应用。
 tags:
   - paper
   - type/review
@@ -80,11 +80,13 @@ tags:
 
 ## naguib25thAnniversaryArticle2013a — 25周年文章：MXenes：一个新兴的二维材料家族
 
-- **元数据**：Michael Naguib, Vadym N. Mochalin, Michel W. Barsoum, Yury Gogotsi et al.，2014（Adv. Mater. 2014, 26, 992–1005；在线 2013），Advanced Materials，DOI: 10.1002/adma.201304138
+## 📄 元数据
+Michael Naguib, Vadym N. Mochalin, Michel W. Barsoum, Yury Gogotsi et al.，2014（Adv. Mater. 2014, 26, 992–1005；在线 2013），Advanced Materials，DOI: 10.1002/adma.201304138
 
-- **一句话**：本文系统宣告并综述了通过室温 HF 水溶液从 MAX 相中选择性刻蚀 A 层（主要是 Al）而制备出的全新二维过渡金属碳化物/碳氮化物家族——MXenes，并将其确立为兼具金属导电性与亲水性的"导电粘土"。
+## 💡 一句话
+本文系统宣告并综述了通过室温 HF 水溶液从 MAX 相中选择性刻蚀 A 层（主要是 Al）而制备出的全新二维过渡金属碳化物/碳氮化物家族——MXenes，并将其确立为兼具金属导电性与亲水性的"导电粘土"。
 
-- **现有wiki双链**：
+## 🔗 Wiki 双链
   - 概念 [[../concepts/2D-materials]]
   - 概念 [[../concepts/density-functional-theory]]
   - 实体 [[../entities/MXenes]]
@@ -93,11 +95,12 @@ tags:
   - 图表 [[../figures/electronic-bands]]（DOS/PDOS、金属-半导体转变、带隙预测）
   - 图表 [[../figures/vibrational-spectra]]（展望中明确指出 Raman 光谱是亟需建模与实验对照的方向）
   - 图表 [[../figures/experimental-setups]]（HF 刻蚀—洗涤—插层—超声分层的合成流程）
+  - 图表 [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用 (Domains, Domain Walls, In₂Se₃ & Devices)]]
   - 年度 [[../write/2013]]（DOI 年份 / 在线发表）
   - 年度 [[../write/2014]]（正式卷期）
   - 相关论文 [[../../raw/note/naguib25thAnniversaryArticle2013a]]
 
-- **新概念/实体建议**：
+## 🆕 新概念/实体建议
   - `max-phases`（MAX 相）：通式 M_{n+1}AX_n 的六方层状三元碳化物/氮化物（P6₃/mmc），M 为早期过渡金属、A 主要为 IIIA/IVA 族元素、X 为 C/N，n=1–3；是 MXenes 的母体材料，文中列举 60 余种纯相及大量固溶体，应独立建条目。
   - `selective-etching`（选择性刻蚀）：利用 M–A 金属键弱于 M–X 共价/金属/离子混合键的化学活性差异，用含水 HF 在室温下溶出 A 层而保留 M_{n+1}X_n 骨架的二维化合成范式；可作为普适合成概念条目。
   - `surface-terminations`（表面终端基团 Tₓ）：刻蚀后自发吸附在 MXene 表面的 O、OH、F（乃至 H、甲氧基）混合官能团，决定构型（I/II/III）、亲水性、电子结构（金属↔半导体）、磁性与储能性能，是 MXene 区别于"裸"金属碳化物片的核心。
@@ -106,13 +109,13 @@ tags:
   - 实体 `Ti3C2`（Ti₃C₂Tₓ）：首个被发现、也是唯一被大规模分层的 MXene，LIB 纸电极 410 mAh g⁻¹@1C、超级电容器 >330 F cm⁻³，可作为 MXenes 条目下的典型代表或独立实体。
   - 实体 `Ti2CTx` / `Nb2CTx` / `V2CTx` / `Ta4C3Tx`：已合成的其他 MXene 成员，各自具有不同容量/电压窗口，可在 MXenes 条目中以列表呈现，暂不必单独建文件。
 
-- **关键图表**：
+## 📊 关键图表
   - ![图1 MAX相及其对应MXene的原子结构对比](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_1_ANXZLC65.png)
   - ![图2 从MAX相粉末经HF刻蚀、洗涤到手风琴状多层MXene的合成流程示意图](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_2_AJLZG4PX.png)
   - ![图3 多种MXene的SEM/XRD/TEM/HRTEM/SAED/光学显微形貌表征](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_3_5EP3ZZBQ.png)
   - ![图4 Ti3C2Tx纳米卷轴与OH封端Ti3C2纳米管原子模型](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_4_7Z8YXW72.png)
   - ![图5 功能化MXene表面T基团的三种构型I/II/III（侧视与顶视）](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_5_CYM8WEI6.png)
-  - ![图6 肼插层OH-Ti3C2的分子动力学模拟：c轴随N/C比阶梯增大、单层排列、模拟与实验XRD吻合](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_6_GV6F3IFM.png)
+  - ![图6 肼插层OH-Ti3C2的分子动力学模拟：c轴随N/C比阶梯增大、单层排列、模拟与实验XRD吻合](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_6_GV6F3IFM.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - ![图7 Ti3C2Tx经DMSO插层—水分层—丁达尔效应胶体—过滤成纸的全过程示意](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_8_EKWLWV8J.png)
   - ![图8 Ti2AlC/Ti2C/Ti2CO2/Ti2C(OH)2总态密度与分态密度对比，揭示移除Al及表面封端对电子结构的调控](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_9_FDUT7S4B.png)
   - ![图9 多层Ti3C2Tx粉末电极与少层MXene纸电极在锂离子电池中的性能对比](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_7_REW23JCK.png)
@@ -120,9 +123,10 @@ tags:
   - ![表2 多种裸MXene单层的面内弹性常数c11、a晶格参数与费米能级DOS（含对应MAX相c11对照）](../../raw/figures/naguib25thAnniversaryArticle2013a/tab_2_287UB7NX.png)
   - 注：原文实际图序为图1–图9，文件名按提取工具的哈希命名；其中 fig_8/fig_9 文件分别对应原文图7与图8，fig_7 文件对应原文图9。
 
-- **项目连接**：无直接项目连接。本文是 MXenes/二维材料的开创性综述，不涉及 project-1 双光子、project-2 Mn 多铁、project-3 机械发光 NN、project-4 TTF 分子计算、project-5 SnTe 铁电模拟、project-6 湿度传感器、project-7 CDW 中的任何一个；但其中 DFT 电子结构方法、表面终端调控电子/磁性、二维异质结（MoS₂/Ti₂C）等思想可作为 wiki 二维材料方法论的背景参考。
+## 🔬 项目连接
+无直接项目连接。本文是 MXenes/二维材料的开创性综述，不涉及 project-1 双光子、project-2 Mn 多铁、project-3 机械发光 NN、project-4 TTF 分子计算、project-5 SnTe 铁电模拟、project-6 湿度传感器、project-7 CDW 中的任何一个；但其中 DFT 电子结构方法、表面终端调控电子/磁性、二维异质结（MoS₂/Ti₂C）等思想可作为 wiki 二维材料方法论的背景参考。
 
-- **组织与用词**：
+## 📝 组织与用词
   - 论证按"前驱体 MAX 相 → 选择性刻蚀合成 → 原子结构（DFT + XRD/TEM） → 插层与大规模分层 → 电子/磁/力学性质 → 储能等应用 → 总结与展望"的材料学经典链条递进，每一节都是"实验现象 + DFT/MD 理论解释"双轨并行，并以图表作为两轨之间的锚点。
   - 文章以"导电粘土（conductive clays）"作为贯穿全文的定位比喻，把金属导电性（来自过渡金属碳化物骨架）与亲水性（来自 O/OH 表面终端）这对看似矛盾的性质并置，以此区别于石墨烯（疏水）和 TMDs（半导体/范德华层状）。
   - 值得复用的关键词/术语（中英对照）：
@@ -137,7 +141,7 @@ tags:
     9. Topochemical transformation / 拓扑化学转化
     10. Configurations I, II, III / 官能团构型 I/II/III
 
-- **可写入wiki的要点**：
+## ✏️ 可写入 Wiki 的要点
   1. **合成范式**：MAX 相（P6₃/mmc 六方层状，M_{n+1}AX_n，n=1–3）中 M–X 键为共价/金属/离子混合键而 M–A 键为较弱金属键；室温下用特定浓度含水 HF 搅拌即可选择性溶出 A（Al）层，Al 被 O/OH/F 终端取代，从而把三维层状固体转化为二维 M_{n+1}X_nTₓ 片；反应后须用去离子水洗至 pH 4–6。这是"从强化学键合 3D 前驱体化学刻蚀制备 2D 材料"的普适新范式，区别于石墨烯/TMDs 的机械/液相剥离。
   2. **已合成家族**：截至 2013 年已报道 Ti₃C₂、Ti₂C、Nb₂C、V₂C、(Ti₀.₅,Nb₀.₅)₂C、(V₀.₅,Cr₀.₅)₃C₂、Ti₃CN、Ta₄C₃ 及 Nb₄C₃；单层 M₂X、M₃X₂、M₄X₃ 分别由 3、5、7 个原子层构成，厚度均 <1 nm，横向尺寸可达数十微米。纯 Ti₂N、Ti₄N₃ 等氮化物 MXene 当时未能合成，原因是 Ti_{n+1}N_n 内聚能更低而由 Ti_{n+1}AlN_n 生成的形成能更高。
   3. **刻蚀条件的材料依赖性**：Ti₂AlC 需 10% HF/10 h，Ta₄AlC₃ 需 50% HF/72 h，V₂AlC 经研磨细化后从 90 h 缩至 8 h；Ti–Al 键能约 0.98 eV，Nb–Al 约 1.21 eV，解释了二者刻蚀难度差异。50% HF 会把 Ti₂AlC 完全溶解，而 10% HF 才能得到 Ti₂C，说明 n 越小越易被过度刻蚀；长时间刻蚀会在 Ta₄C₃Tₓ 上形成孔洞缺陷。

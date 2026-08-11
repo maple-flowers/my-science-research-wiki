@@ -10,33 +10,33 @@ url: "https://doi.org/10.1126/sciadv.aax5080"
 paper_type: experiment
 status: ingested
 year_read: 2026
-original_note: "[[../../raw/note/sharmaRoomtemperatureFerroelectricSemimetal2019]]"
+original_note:: [[../../raw/note/sharmaRoomtemperatureFerroelectricSemimetal2019]]
 projects: [project-5]
 concepts: [2D-materials, berry-phase, density-functional-theory, ferroelasticity, multiferroicity, polarization-switching, spin-orbit-coupling]
 entities: [BiFeO3, VASP, WTe2, domain-wall]
 methods: [afm-pfm, berry-phase, dfpt, dft, tem, xrd]
 materials: [BiFeO3, WTe2, domain-wall]
 figures: [crystal-structures, domain-walls, electronic-bands, electronic-devices]
-"领域基础知识": >-
+领域基础知识:: >-
   铁电性（Ferroelectricity）指材料具有自发且可被外电场翻转的电偶极矩。金属性（Metallicity）指材料拥有大量自由电子，导电性随温度降低而增强。传统理论认为，金属中的自由电子会屏蔽内部电场，因此铁电性和金属性无法在同一材料中共存。安德森和布朗特在1965年提出了“铁电金属”理论预言。
-"研究背景": >-
+研究背景:: >-
   尽管已有低温下极性金属的报道，以及通过掺杂或界面工程实现铁电性与金属性共存的尝试，但在室温下，单一相的块体晶体中，尚未有实验证实存在本征的、具有可翻转极化状态的铁电金属。实现这一物理现象一直是凝聚态物理的长期目标。
-"作者的问题意识": >-
+作者的问题意识:: >-
   作者旨在回答一个核心问题：在具有非中心对称结构的块体半金属WTe₂中，能否在室温下实现并直接观测到本征的、可翻转的铁电性，从而证实安德森和布朗特的理论预言？
-"主要研究对象": >-
+主要研究对象:: >-
   块体范德华晶体二碲化钨（WTe₂），一种具有正交Td相结构（极性空间群Pmn21）的过渡金属硫族化合物（TMDC），同时也是II型外尔半金属。
-"主要研究方法": >-
+主要研究方法:: >-
   综合运用了**电输运测量**（确认金属性和半金属基态）、**压电力显微镜（PFM）**（纳米尺度探测铁电畴和极化翻转）以及**第一性原理密度泛函理论计算（DFT）**（揭示铁电性起源与翻转机理）。实验中通过构建电容器结构来解决金属中极化翻转的难题。
-"研究意义": >-
+研究意义:: >-
   在实验上首次证实了室温下的本征铁电半金属，解决了物理界长达半个多世纪的争论。它将铁电学的研究范畴拓展到拓扑半金属，开辟了“铁电拓扑电子学”新范式，并为基于范德华材料的新型超薄、低功耗电子器件提供了全新的材料平台和设计思路。
-"研究结论": >-
+研究结论:: >-
   研究证实，块体WTe₂晶体在室温下同时表现出金属导电性和铁电性。通过PFM直接观测到了纳米尺度的铁电畴，并通过电容器结构实现了可逆的极化翻转。DFT计算表明，其铁电性源于晶体结构畸变，而半金属的低载流子浓度导致屏蔽不完全，使铁电性得以幸存。
-"对领域的贡献": >-
+对领域的贡献:: >-
   提供了首个室温铁电金属的完整实验证据链，包括畴的直接可视化和电致翻转。建立了“铁电半金属”这一新概念，证实了铁电性与拓扑半金属态可以共存，并为后续寻找和设计更多类似材料奠定了理论基础。
-"未来研究方向提及": >-
+未来研究方向提及:: >-
   文中提及探索铁电金属的畴壁特性、研究少层及单层WTe₂的铁电性、揭示铁电畴在垂直于表面方向的深度分布，以及探索其与其他二维材料构成的范德华异质结。
-"未来研究方向思考": >-
-  除了文中提及的，未来研究可深入探索：(1) 铁电-拓扑耦合的动态调控，用电场脉冲操控外尔点；(2) 铁电金属中的极化翻转动力学和速度极限；(3) 载流子浓度对铁电性稳定性的定量影响；(4) 基于WTe₂的室温多态存储与逻辑功能器件开发。 🚀 [笔记回链](zotero://select/library/items/2RVRR7W9) * * * `GPT 自定 ②` `deepseek-v4-pro` _由批量 AI 解读自动生成于 2026/8/11 07:05:07 （重新解读）_ 🏷️ #🤖️/AI文献解读 🏷️ #🤖️/AI文献阅读
+未来研究方向思考:: >-
+  除了文中提及的，未来研究可深入探索：(1) 铁电-拓扑耦合的动态调控，用电场脉冲操控外尔点；(2) 铁电金属中的极化翻转动力学和速度极限；(3) 载流子浓度对铁电性稳定性的定量影响；(4) 基于WTe₂的室温多态存储与逻辑功能器件开发。
 tags:
   - paper
   - type/experiment
@@ -74,11 +74,13 @@ tags:
 
 ## sharmaRoomtemperatureFerroelectricSemimetal2019 — 一种室温铁电半金属
 
-- **元数据**：Pankaj Sharma, Fei-Xiang Xiang, Ding-Fu Shao, Dawei Zhang, Evgeny Y. Tsymbal, Alex R. Hamilton, Jan Seidel et al.，2019，*Science Advances* 5(7): eaax5080，DOI: 10.1126/sciadv.aax5080
+## 📄 元数据
+Pankaj Sharma, Fei-Xiang Xiang, Ding-Fu Shao, Dawei Zhang, Evgeny Y. Tsymbal, Alex R. Hamilton, Jan Seidel et al.，2019，*Science Advances* 5(7): eaax5080，DOI: 10.1126/sciadv.aax5080
 
-- **一句话**：首次在块体范德华晶体 WTe₂（II型外尔半金属）中于室温下实验证实本征金属性与可翻转铁电性共存，实现了 Anderson 与 Blount 1965 年预言的"铁电金属"。
+## 💡 一句话
+首次在块体范德华晶体 WTe₂（II型外尔半金属）中于室温下实验证实本征金属性与可翻转铁电性共存，实现了 Anderson 与 Blount 1965 年预言的"铁电金属"。
 
-- **现有wiki双链**：
+## 🔗 Wiki 双链
   - 概念 [[../concepts/2D-materials]]
   - 概念 [[../concepts/polarization-switching]]
   - 概念 [[../concepts/berry-phase]]
@@ -97,7 +99,7 @@ tags:
   - 年度 [[../write/2019]]
   - 相关论文 [[../../raw/note/sharmaRoomtemperatureFerroelectricSemimetal2019]]
 
-- **新概念/实体建议**：
+## 🆕 新概念/实体建议
   - `ferroelectric-metal`（铁电金属/极性金属）：同时具有可翻转自发极化与金属导电性的材料类别，源于 Anderson-Blount 1965 年预言；WTe₂ 是首个室温块体实例。
   - `weyl-semimetal`（外尔半金属）：导带与价带在离散外尔点相接的拓扑半金属；WTe₂ 是 II 型外尔半金属，铁电性与拓扑性共存具有"铁电拓扑电子学"意义。
   - `piezoresponse-force-microscopy`（压电力显微镜，PFM）：基于逆压电效应的扫描探针技术，用于纳米尺度成像铁电畴与电滞回线，是本文核心实验手段。
@@ -105,15 +107,17 @@ tags:
   - `incomplete-screening`（不完全屏蔽）：半金属低载流子浓度导致内部偶极场未被完全抵消，使铁电性得以幸存的物理机制。
   - `ferroelectric-domain-wall`（铁电畴壁）：铁电畴之间的界面，在金属体系中可能呈现新颖导电性/拓扑性质，是本文指出的后续研究方向。
 
-- **关键图表**：
-  - ![图1 WTe₂晶体结构（Td相，Pmn21）、XRD、R-T金属行为及SdH振荡](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_1_NDNYXQ2A.png)
-  - ![图2 PFM观测到的反平行铁电畴（20–50 nm），振幅暗线对应畴壁，相位差约180°](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_2_UK4SYAPY.png)
+## 📊 关键图表
+  - ![图1 WTe₂晶体结构（Td相，Pmn21）、XRD、R-T金属行为及SdH振荡](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_1_NDNYXQ2A.png) → [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图2 PFM观测到的反平行铁电畴（20–50 nm），振幅暗线对应畴壁，相位差约180°](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_2_UK4SYAPY.png) → [[../figures/domain-walls|畴与畴壁结构]]
   - ![图3 电容器结构中的极化翻转：电滞回线、蝴蝶曲线及电压脉冲写入畴](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_3_GGXMSAT5.png)
-  - ![图4 DFT能带结构、平面平均电荷密度及极化翻转能垒（0.29 eV/f.u.）](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_4_F86EWZ63.png)
+  - ![图4 DFT能带结构、平面平均电荷密度及极化翻转能垒（0.29 eV/f.u.）](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_4_F86EWZ63.png) → [[../figures/crystal-structures|晶体结构与原子排布]]
 
-- **项目连接**：无直接项目连接。project-5（SnTe 铁电模拟）在主题上同属铁电材料 DFT 计算，但体系与机制不同。
+## 🔬 项目连接
+无直接项目连接。project-5（SnTe 铁电模拟）在主题上同属铁电材料 DFT 计算，但体系与机制不同。
 
-- **组织与用词**：文章采用"结构确认 → 性质确认 → 静态畴证据 → 动态翻转证据 → 理论解释"的闭环论证。先以 XRD 和电输运确立非中心对称半金属基态，再用 PFM 给出铁电畴的直接成像，继而以电容器结构克服金属短路难题实现电致翻转，最后以 DFT 揭示极化起源与低能垒翻转路径。论证中反复强调"不完全屏蔽"使金属与铁电共存，并以天然氧化层作为介电层的器件设计为关键实验技巧。值得在 wiki 中复用的术语：
+## 📝 组织与用词
+文章采用"结构确认 → 性质确认 → 静态畴证据 → 动态翻转证据 → 理论解释"的闭环论证。先以 XRD 和电输运确立非中心对称半金属基态，再用 PFM 给出铁电畴的直接成像，继而以电容器结构克服金属短路难题实现电致翻转，最后以 DFT 揭示极化起源与低能垒翻转路径。论证中反复强调"不完全屏蔽"使金属与铁电共存，并以天然氧化层作为介电层的器件设计为关键实验技巧。值得在 wiki 中复用的术语：
   - Ferroelectric metal / 铁电金属
   - Weyl semimetal / 外尔半金属（Type II / II型）
   - Piezoresponse force microscopy (PFM) / 压电力显微镜
@@ -123,7 +127,7 @@ tags:
   - Ferroelastic domain / 铁弹畴
   - Berry phase method / Berry 相位法
 
-- **可写入wiki的要点**：
+## ✏️ 可写入 Wiki 的要点
   1. WTe₂ 属 Td 相正交结构，极性空间群 Pmn2₁（C₂ᵥ 点群），W 原子形成略弯曲的锯齿链并导致 Te 八面体畸变；镜面 ac、bc 排除 [100]/[010] 极化，缺失 ab 镜面使 [001]（c 轴）方向极化成为可能。
   2. 电输运：电阻从 300 K 到 10 K 单调下降（dR/dT>0），30 mK、10 T 下 SdH 振荡出现四个主频，对应两组电子口袋和两组空穴口袋，证实半金属基态并解释其巨大非饱和磁阻。
   3. PFM 在新鲜解理的块体 WTe₂ 表面（N₂ 环境、室温）直接观测到反平行铁电畴，畴尺寸约 20–50 nm，呈扭曲椭圆/条纹状；畴壁处振幅极小、相邻畴相位差约 180°，表面 RMS 粗糙度约 0.2 nm。

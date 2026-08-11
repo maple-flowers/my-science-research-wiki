@@ -9,32 +9,32 @@ url: "https://doi.org/10.17485/IJST/v17i39.2761"
 paper_type: experiment
 status: ingested
 year_read: 2026
-original_note: "[[../../raw/note/Perugu2024morphology]]"
+original_note:: [[../../raw/note/Perugu2024morphology]]
 projects: [project-2]
 concepts: [multiferroicity, magnetoelectric-coupling, maxwell-wagner-polarization, hopping-conduction, oxygen-vacancy, jonscher-power-law, spin-cycloid, hydrothermal-synthesis, dielectric-absorber, magnetic-domain]
 entities: [BiFeO3, BLFO]
 methods: [hydrothermal-synthesis, xrd, scherrer-equation, fe-sem, tem, hrtem, impedance-spectroscopy, vsm, pe-loop, linear-intercept-method]
 materials: [BiFeO3, Bi1-xLaxFeO3, La-doped-BFO-nanoparticles]
 figures: [crystal-structures, sem-tem-microscopy, dielectric-spectra, magnetic-hysteresis, permeability-spectra, pe-hysteresis, data-tables]
-"领域基础知识": >-
+领域基础知识:: >-
   多铁性材料（Multiferroic Materials）是同时具备铁电性和铁磁性等多种序参量的多功能材料，其中铁酸铋（BiFeO₃, BFO）是典型的室温单相多铁材料，但存在高漏电流和弱磁性等缺陷。稀土掺杂是调控其性能的关键方法。
-"研究背景": >-
+研究背景:: >-
   纯相BiFeO₃在应用中面临高漏电流、低磁化强度和低极化值等瓶颈，限制了其在记忆体、自旋电子学等领域的应用。通过稀土元素（如La）掺杂来优化其多重铁性是一个研究热点。
-"作者的问题意识": >-
+作者的问题意识:: >-
   文献中缺乏对水热法制备的La掺杂BiFeO₃纳米颗粒在结构、形貌、介电、磁性、铁电及阻抗等综合性能的系统性研究。本研究旨在填补这一空白，并探索其在介电吸收器上的应用潜力。
-"主要研究对象": >-
+主要研究对象:: >-
   采用水热法合成的Bi₁₋ₓLaₓFeO₃（x = 0.2, 0.4, 0.6, 0.8）系列纳米颗粒，简称BLFO纳米颗粒。
-"主要研究方法": >-
+主要研究方法:: >-
   采用水热法制备样品；利用X射线衍射（XRD）进行物相和结构分析；通过场发射扫描电镜（FESEM）和透射电镜（TEM）进行形貌和颗粒尺寸分析；利用阻抗分析仪（LCR Controller）测试介电及电导性能；使用振动样品磁强计（VSM）和P-E回路测试仪研究磁性和铁电性。
-"研究意义": >-
+研究意义:: >-
   系统揭示了La掺杂浓度对BFO纳米颗粒的“构效关系”的调控规律，证实了水热法在制备特定形貌BLFO纳米材料上的可行性，并为其在介电吸收器领域的应用提供了候选材料和理论依据。
-"研究结论": >-
+研究结论:: >-
   La成功取代Bi位点，导致晶格膨胀，并诱导形貌从球形向纳米棒转变。高浓度La掺杂能抑制杂相。La掺杂显著增强了饱和磁化强度（最高21.5 emu/g）。材料表现出多铁性，x=0.8的样品因具有高介电常数和损耗，适用于介电吸收器应用。
-"对领域的贡献": >-
-  提供了一种制备高质量La掺杂BFO纳米棒的水热合成路径；贡献了一套关于La掺杂BFO纳米颗粒从结构、形貌到电学、磁性、铁电性的完整、系统性数据，深化了对该体系“构效关系”的理解。
-"未来研究方向提及": >-
+对领域的贡献:: >-
+  提供了一种制备高质量La掺杂 BFO 纳米棒的水热合成路径；贡献了一套关于La掺杂BFO纳米颗粒从结构、形貌到电学、磁性、铁电性的完整、系统性数据，深化了对该体系“构效关系”的理解。
+未来研究方向提及:: >-
   论文未明确提及，但隐含了未来可进行的工作，如开展变温条件下的电学性能测试以深入理解传导机制。
-"未来研究方向思考": >-
+未来研究方向思考:: >-
   1. 直接测量磁电耦合系数，量化多铁性能。2. 结合XPS等技术，定量分析氧空位和Fe²⁺/Fe³⁺比例，并探索退火等后处理工艺以优化铁电性。3. 通过中子衍射等手段，从原子尺度研究La掺杂增强磁性的微观磁结构演化机制。4. 区分La掺杂的电子效应和形貌效应对性能提升的各自贡献。5. 深入分析介电损耗来源，更精确地评估其在储能或吸收等不同领域的应用潜力。
 tags:
   - paper
@@ -75,12 +75,14 @@ tags:
 
 ## Perugu2024morphology — La对BiFeO₃纳米颗粒多铁性的影响
 
-- **元数据**：Perugu S, Bhanu Kiran G, Anil Babu T, Raghavaiah BV，2024，*Indian Journal of Science and Technology* 17(39): 4038–4047，DOI: 10.17485/IJST/v17i39.2761
+## 📄 元数据
+Perugu S, Bhanu Kiran G, Anil Babu T, Raghavaiah BV，2024，*Indian Journal of Science and Technology* 17(39): 4038–4047，DOI: 10.17485/IJST/v17i39.2761
 
-- **一句话**：水热法合成 Bi₁₋ₓLaₓFeO₃（x=0.2–0.8）纳米颗粒，系统证明 La 取代 Bi 位点导致晶格膨胀、球形→纳米棒形貌转变、杂相抑制、饱和磁化强度从 13.2 升至 21.5 emu/g，并将 x=0.8 样品推荐为介电吸收器候选材料。
+## 💡 一句话
+水热法合成 Bi₁₋ₓLaₓFeO₃（x=0.2–0.8）纳米颗粒，系统证明 La 取代 Bi 位点导致晶格膨胀、球形→纳米棒形貌转变、杂相抑制、饱和磁化强度从 13.2 升至 21.5 emu/g，并将 x=0.8 样品推荐为介电吸收器候选材料。
 
-- **现有wiki双链**：
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]
+## 🔗 Wiki 双链
+  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/maxwell-wagner-polarization|Maxwell-Wagner 界面极化]]、[[../concepts/hopping-conduction|跳跃传导]]、[[../concepts/jonscher-power-law|Jonscher 幂律]]、[[../concepts/oxygen-vacancy|氧空位]]、[[../concepts/spin-cycloid|自旋回旋/螺旋磁结构]]、[[../concepts/hydrothermal-synthesis|水热合成法]]、[[../concepts/dielectric-absorber|介电吸收器]]、[[../concepts/BLFO|BLFO（La 掺杂 BiFeO₃）]]、[[../concepts/scherrer-equation|谢乐公式]]
   - 实体 [[../entities/BiFeO3]]
   - 图表 [[../figures/crystal-structures]]
   - 年度 [[../write/2024]]
@@ -88,18 +90,7 @@ tags:
   - 话题 [[../topics/D02-多铁性材料]]
   - 相关论文 [[../../raw/note/Perugu2024morphology]]
 
-- **新概念/实体建议**：
-  - `maxwell-wagner-polarization.md`（Maxwell-Wagner 界面极化/空间电荷极化）：非均匀介质中电荷在晶界等界面处积累导致低频高介电常数的经典机制，可写入介电/铁电材料通用条目。
-  - `hopping-conduction.md`（跳跃传导）：电子在 Fe²⁺/Fe³⁺（或 Mn²⁺/Mn³⁺）等价态离子间热激活隧穿的导电机制，配合 Jonscher 幂律 σ_ac=Aωⁿ+σ_dc 使用。
-  - `jonscher-power-law.md`（Jonscher 幂律）：交流电导率普适频率色散关系 σ_ac(ω)=Aωⁿ+σ_dc，n 值（0.364–0.872）可区分 CBH、OLPT 等传导模型。
-  - `oxygen-vacancy.md`（氧空位）：ABO₃ 钙钛矿中 Bi 挥发/Fe 变价产生的施主缺陷，导致漏电流和"香蕉形"P-E 回线，是限制 BFO 铁电性的核心缺陷。
-  - `spin-cycloid.md`（螺旋磁结构/自旋回旋）：BFO 中约 62 nm 周期的螺旋反铁磁调制使宏观净磁化为零；稀土掺杂通过扭曲 Fe-O-Fe 键角破坏该结构以释放磁化强度。
-  - `hydrothermal-synthesis.md`（水热合成法）：密封高压釜中以水溶液为介质在低温（<250 °C）下合成纳米晶的方法，具有结晶度高、均匀性好、形貌可控等优点。
-  - `dielectric-absorber.md`（介电吸收器/吸波材料）：利用高介电常数使电磁波进入材料、高介电损耗将其转化为热能耗散的电磁波吸收材料。
-  - `BLFO.md`（La 掺杂 BiFeO₃, Bi₁₋ₓLaₓFeO₃）：可作为 BiFeO3 实体条目下的掺杂子节，或独立实体记录水热 BLFO 纳米棒的结构-性能数据集。
-  - `scherrer-equation.md`（谢乐公式 D=0.9λ/βcosθ）：由 XRD 半峰宽估算平均晶粒尺寸的标准公式。
-
-- **关键图表**：
+## 📊 关键图表
   - 图1 XRD 图谱（菱方钙钛矿 JCPDS 86-1518，杂相 Bi₂Fe₄O₉/Bi₂₅FeO₄₀ 随 La 增加而消失）：
     ![XRD patterns of BLFO nanoparticles](../../raw/figures/Perugu2024morphology/fig_1_IKKL6V54.png)
   - 图2 FESEM 图像（纳米球→纳米棒形貌演变，Gavg 96.4→168.3 nm）：
@@ -119,11 +110,12 @@ tags:
   - 表2 介电参数数据（ε'、ε''、log σ_ac、log σ_dc）：
     ![Table 2 dielectric parameters](../../raw/figures/Perugu2024morphology/tab_2_NSH5KDBB.png)
 
-- **项目连接**：
-  - **project-2（Mn 多铁）— medium**：本文虽以 Fe 基 BFO 为对象，但所展示的稀土 A 位掺杂调控钙钛矿多铁性物理图像与 Mn 基多铁项目高度可类比。可复用要点包括：(1) 大半径稀土离子取代 A 位导致晶格膨胀、Fe(Mn)-O-Fe(Mn) 键角扭曲从而抑制螺旋反铁磁结构、释放净磁化的机制；(2) Fe²⁺/Fe³⁺ 间跳跃导电与 Mn²⁺/Mn³⁺、Mn³⁺/Mn⁴⁺ 混合价导电在物理上同构，Jonscher 幂律拟合流程可直接迁移；(3) Maxwell-Wagner 界面极化在晶粒-晶界体系中的频谱特征；(4) VSM/P-E/阻抗谱联合表征多铁性的实验流程；(5) "香蕉形"P-E 回线作为氧空位/漏电流诊断标志的判据；(6) 水热法制备掺杂钙钛矿纳米晶的合成路线参考。不构成 core 连接的原因是材料体系不同（BFO vs Mn 氧化物），且无磁电耦合系数直接测量。
+## 🔬 项目连接
+  - **project-2（Mn 多铁）— medium**：本文虽以 Fe 基 BFO 为对象，但所展示的稀土 A 位掺杂调控钙钛矿多铁性物理图像与 Mn 基多铁项目高度可类比。可复用要点包括：(1) 大半径稀土离子取代 A 位导致晶格膨胀、Fe(Mn)-O-Fe(Mn) 键角扭曲从而抑制螺旋反铁磁结构、释放净磁化的机制；(2) Fe²⁺/Fe³⁺ 间跳跃导电与 Mn²⁺/Mn³⁺、Mn³⁺/Mn⁴⁺ 混合价导电在物理上同构，Jonscher 幂律拟合流程可直接迁移；(3) Maxwell-Wagner 界面极化 in 晶粒-晶界体系中的频谱特征；(4) VSM/P-E/阻抗谱联合表征多铁性的实验流程；(5) "香蕉形"P-E 回线作为氧空位/漏电流诊断标志的判据；(6) 水热法制备掺杂钙钛矿纳米晶的合成路线参考。不构成 core 连接的原因是材料体系不同（BFO vs Mn 氧化物），且无磁电耦合系数直接测量。
   - project-1（双光子）、project-3（机械发光 NN）、project-4（TTF 分子计算）、project-5（SnTe 铁电模拟）、project-6（湿度传感器）、project-7（CDW）：无直接项目连接。project-5 虽涉及铁电模拟，但本文为实验氧化物纳米颗粒工作，不含应变工程、拓扑铁电或第一性原理计算内容，无可复用的计算流程或物理模型。
 
-- **组织与用词**：论文遵循"合成→表征→性能→机理→结论"的经典材料科学范式。先以水热法制备成分梯度样品（x=0.2–0.8），再依次用 XRD/FESEM/TEM 建立结构与形貌事实，用 LCR 阻抗谱建立介电/导电事实，用 VSM/P-E/μi-f 建立磁与铁电事实，最后将各性能与成分关联并指向介电吸收器应用。论证主线是"La 离子半径大于 Bi → 晶格膨胀+位点波动 → 纳米棒各向异性生长+螺旋磁结构破坏 → 介电与磁性同步增强"。值得在 wiki 叙述中复用的术语：
+## 📝 组织与用词
+论文遵循"合成→表征→性能→机理→结论"的经典材料科学范式。先以水热法制备成分梯度样品（x=0.2–0.8），再依次用 XRD/FESEM/TEM 建立结构与形貌事实，用 LCR 阻抗谱建立介电/导电事实，用 VSM/P-E/μi-f 建立磁与铁电事实，最后将各性能与成分关联并指向介电吸收器应用。论证主线是"La 离子半径大于 Bi → 晶格膨胀+位点波动 → 纳米棒各向异性生长+螺旋磁结构破坏 → 介电与磁性同步增强"。值得在 wiki 叙述中复用的术语：
   - multiferroic nature（多铁性本质）
   - rhombohedral distorted perovskite（菱方畸变钙钛矿）
   - Maxwell-Wagner / interfacial / space-charge polarization（Maxwell-Wagner/界面/空间电荷极化）
@@ -133,7 +125,7 @@ tags:
   - multi-domain magnetic nanoparticles（多畴磁性纳米颗粒，Mr/Ms<0.5）
   - dielectric absorber（介电吸收器/吸波材料）
 
-- **可写入wiki的要点**：
+## ✏️ 可写入 Wiki 的要点
   1. Bi₁₋ₓLaₓFeO₃（x=0.2–0.8）水热纳米颗粒保持菱方（三方）钙钛矿结构（JCPDS 86-1518，最强峰 (110)）；杂相 Bi₂Fe₄O₉（正交）和 Bi₂₅FeO₄₀（立方）在 La 含量 >50% 时基本消失，说明高 La 掺杂抑制杂相。
   2. La³⁺ 离子半径 0.136 nm 大于 Bi³⁺ 的 0.096 nm，无法取代半径仅 0.0645 nm 的 Fe³⁺，故选择性取代 Bi 位；取代导致晶格常数 a=b 从 0.5599 增至 0.5619 nm，c 从 1.3926 增至 1.3952 nm，晶胞体积 V_cell 从 0.4365 增至 0.4405 nm³，c/a 比几乎不变（2.487→2.483）。
   3. Scherrer 公式 D=0.9λ/βcosθ 给出平均晶粒尺寸 Davg 从 41.5 nm（x=0.2）增至 83.6 nm（x=0.8），微应变从 0.0034 降至 0.0012；FESEM 截距法晶粒尺寸 Gavg 96.4→168.3 nm，TEM 颗粒尺寸 Pavg 74.8→127.4 nm，三者趋势一致。

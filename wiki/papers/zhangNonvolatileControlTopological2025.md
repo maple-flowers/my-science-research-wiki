@@ -9,32 +9,32 @@ url: "https://doi.org/10.1016/j.mtchem.2025.103049"
 paper_type: theory
 status: ingested
 year_read: 2026
-original_note: "[[../../raw/note/zhangNonvolatileControlTopological2025]]"
+original_note:: [[../../raw/note/zhangNonvolatileControlTopological2025]]
 projects: [project-2, project-5]
 concepts: [multiferroicity, magnetoelectric-coupling, 2d-materials, spin-orbit-coupling, polarization-switching, topological-defects, skyrmion, bimeron, dzyaloshinskii-moriya-interaction, magnetic-anisotropy-energy, heisenberg-exchange, rashba-effect, spin-transfer-torque, skyrmion-hall-effect, topological-charge, llg-equation, micromagnetic-simulation, racetrack-memory, superexchange]
 entities: [In2Se3, CrInTe2, VASP, Spirit, Fe3GeTe2, CrTe2, CrGeTe3, CrI3]
 methods: [dft, dft-plus-u, gga-pbe, paw, soc, berry-phase, micromagnetic-simulation, llg, spin-spiral, spin-transfer-torque, thiele-equation]
 materials: [CrInTe2, In2Se3, CrInTe2-In2Se3]
 figures: [crystal-structures, heterostructures-stacking, electronic-bands, domain-walls, electronic-devices, mathematical-models, experimental-setups]
-"领域基础知识": >-
+领域基础知识:: >-
   二维范德华磁性材料中的拓扑自旋结构（如磁斯格明子、双半子）因其拓扑保护性和纳米级尺寸，成为下一代高密度、低功耗自旋电子学器件的信息载体。其形成与稳定依赖于海森堡交换作用(J)、Dzyaloshinskii-森谷相互作用(DMI)和磁各向异性能(MAE)之间的复杂竞争。
-"研究背景": >-
+研究背景:: >-
   当前二维拓扑磁结构的调控主要依赖磁场或电流，存在易失性、高功耗和焦耳热等问题。实现非易失性、低功耗的电学控制，并阐明不同拓扑态间的转换机制和动力学差异，是推动其迈向实际应用的关键科学挑战。
-"作者的问题意识": >-
+作者的问题意识:: >-
   作者旨在解决如何利用多铁异质结中的铁电局域场效应，实现二维拓扑磁性的非易失性电控，并揭示其微观物理机制。具体而言，作者关心铁电极化翻转如何协同调控界面DMI和MAE，以及这种调控如何影响斯格明子的稳定性、相变和电流驱动动力学。
-"主要研究对象": >-
+主要研究对象:: >-
   由二维铁磁体CrInTe2和二维铁电体α-In2Se3堆叠构成的CrInTe2/In2Se3多铁范德华异质结，特别是其两种极化状态（P↑和P↓）下的界面磁相互作用和拓扑磁织构。
-"主要研究方法": >-
-  采用第一性原理计算（基于密度泛函理论DFT的VASP软件包）量化磁相互作用参数（J, DMI, MAE），并结合原子分辨的SOC能量分析揭示其微观起源。然后，将这些参数输入到基于Landau-Lifshitz-Gilbert(LLG)方程的微磁学模拟软件（Spirit）中，预测自旋织构的静态相图和电流驱动动力学。
-"研究意义": >-
+主要研究方法:: >-
+  采用第一性原理计算（基于密度泛函理论DFT的VASP软件包）量化磁相互作用参数（J, DMI, MAE），并结合原子分辨的SOC能量分析揭示其微观起源。然后，将这些参数输入到基于Landau-Lifshitz-Gilbert(LLG)方程合作微磁学模拟软件（Spirit）中，预测自旋织构的静态相图和电流驱动动力学。
+研究意义:: >-
   本研究首次在CrInTe2/In2Se3体系中理论证明了非易失性电控斯格明子的可行性，揭示了界面电荷转移协同调控DMI和MAE的微观机制，提出了一个普适性的无量纲稳定性判据κ，并阐明了双半子在精准运动控制上的优势，为设计全电控、超低功耗自旋电子学器件提供了理论框架和候选材料。
-"研究结论": >-
+研究结论:: >-
   通过翻转In2Se3的铁电极化，可逆地实现了铁磁态与斯格明子晶格之间的切换，仅需50 mT辅助磁场，其物理根源在于极化翻转协同增强了DMI并抑制了MAE。提出了无量纲参数κ，其稳定孤立斯格明子/双半子的区间为5 < |κ| < 10。此外，发现双半子的霍尔角较斯格明子减小约80%，展现了更优的电流驱动轨迹控制能力。
-"对领域的贡献": >-
+对领域的贡献:: >-
   理论贡献在于建立了从铁电-铁磁界面电子效应到宏观拓扑相变的完整物理图像，并通过κ判据将复杂的多参数竞争普适化。实践贡献在于为实验学家提供了一个极具前景的二维多铁异质结候选体系，并指明了通过调控κ来设计拓扑态的实验路径。
-"未来研究方向提及": >-
+未来研究方向提及:: >-
   论文指出，未来需要实验合成CrInTe2/In2Se3异质结以验证理论预测，并探索如何通过实验手段（如栅压、应变）精确调控κ值，以及将该异质结集成到器件原型中进行性能测试。
-"未来研究方向思考": >-
+未来研究方向思考:: >-
   可进一步拓展至其他铁电/铁磁材料组合，进行界面工程的高通量筛选。探索实现零场全电控操作（如结合SOT效应）的可能。发展多尺度模拟方法，研究铁电翻转过程中斯格明子成核与湮灭的完整动力学路径和能垒，并研究界面缺陷、应变等不均匀性对拓扑态的影响。
 tags:
   - paper
@@ -96,18 +96,20 @@ tags:
 
 ## zhangNonvolatileControlTopological2025 — 二维CrInTe2/In2Se3多铁异质结构拓扑磁性的非挥发控制
 
-- **元数据**：Shuo Zhang, Yunfei Zhang, Dan Xing, Lixiu Guan, Junguang Tao et al.，2025，Materials Today Chemistry 49, 103049，DOI 10.1016/j.mtchem.2025.103049
-- **一句话**：通过第一性原理计算加微磁学模拟证明，在 CrInTe2/In2Se3 二维多铁异质结中翻转 In2Se3 的铁电极化，可协同增强 DMI（+6%）并抑制 MAE（−20%），从而在仅 50 mT 辅助磁场下非易失性地实现铁磁态与 Néel 型斯格明子晶格之间的可逆切换，并提出无量纲稳定性判据 κ。
+## 📄 元数据
+Shuo Zhang, Yunfei Zhang, Dan Xing, Lixiu Guan, Junguang Tao et al.，2025，Materials Today Chemistry 49, 103049，DOI 10.1016/j.mtchem.2025.103049
+## 💡 一句话
+通过第一性原理计算加微磁学模拟证明，在 CrInTe2/In2Se3 二维多铁异质结中翻转 In2Se3 的铁电极化，可协同增强 DMI（+6%）并抑制 MAE（−20%），从而在仅 50 mT 辅助磁场下非易失性地实现铁磁态与 Néel 型斯格明子晶格之间的可逆切换，并提出无量纲稳定性判据 κ。
 
-- **现有wiki双链**：
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/topological-defects]]
-  - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/Fe3GeTe2]]、[[../entities/CrTe2]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]、[[../figures/electronic-bands]]、[[../figures/domain-walls]]、[[../figures/mathematical-models]]、[[../figures/electronic-devices]]
+## 🔗 Wiki 双链
+  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/topological-defects]]、[[../concepts/skyrmion]]、[[../concepts/bimeron]]、[[../concepts/dzyaloshinskii-moriya-interaction]]、[[../concepts/heisenberg-exchange]]、[[../concepts/magnetic-anisotropy-energy]]、[[../concepts/rashba-effect]]、[[../concepts/spin-transfer-torque]]、[[../concepts/skyrmion-hall-effect]]、[[../concepts/topological-charge]]、[[../concepts/llg-equation]]、[[../concepts/micromagnetic-simulation]]、[[../concepts/racetrack-memory]]、[[../concepts/superexchange]]
+  - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/Fe3GeTe2]]、[[../entities/CrTe2]]、[[../entities/CrI3]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]、[[../figures/electronic-bands]]、[[../figures/domain-walls]]、[[../figures/mathematical-models]]、[[../figures/electronic-devices]]、[[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - 年度 [[../write/2025]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/zhangNonvolatileControlTopological2025]]
 
-- **新概念/实体建议**：
+## 🆕 新概念/实体建议
   - `skyrmion`（斯格明子）：受拓扑保护的纳米级涡旋状自旋织构，本文核心拓扑准粒子。
   - `bimeron`（双半子）：面内各向异性体系中拓扑荷为 ±1 的椭圆形自旋织构，可视为斯格明子的面内对应物，霍尔角显著更小。
   - `dzyaloshinskii-moriya-interaction`（DMI，Dzyaloshinskii-Moriya 相互作用）：反演对称破缺下由 SOC 诱导的反对称交换，E_DMI = −D_ij·(S_i×S_j)，是手性斯格明子成核的核心驱动力。
@@ -124,7 +126,7 @@ tags:
   - `CrInTe2`：二维铁磁金属，Te2–Cr–Te1–In 堆叠、C3v 对称、反演破缺，a = b = 4.04 Å，本征即具有较强 DMI。
   - `Spirit`：用于多尺度自旋动力学模拟的开源软件包，本文微磁学模拟工具。
 
-- **关键图表**：
+## 📊 关键图表
   - 图1 CrInTe2/In2Se3 异质结晶格模型与 12 种堆叠构型（P↑/P↓，Se–In 与 Se–Te 两类界面，晶格失配仅 0.7%）：
     ![CrInTe2/In2Se3 晶体结构与堆叠](../../raw/figures/zhangNonvolatileControlTopological2025/fig_1_JDGLCTDB.png)
   - 图2 原子/轨道分辨的 MAE 与 DMI 贡献：Te 原子主导 MAE，Te2 主导 DMI；极化翻转使 Te1 对 DMI 的贡献由 −8.81 meV 反转为 +3.20 meV：
@@ -145,12 +147,12 @@ tags:
     ![方程4 自旋哈密顿量](../../raw/figures/zhangNonvolatileControlTopological2025/eq_4_MV938FQK.png)
     ![方程5 Thiele](../../raw/figures/zhangNonvolatileControlTopological2025/eq_5_LRHE8QNY.png)
 
-- **项目连接**：
+## 🔬 项目连接
   - **project-2（Mn 多铁）— strong**：本文是二维多铁异质结磁电耦合的代表性理论工作，其核心机制——铁电极化翻转通过界面电荷转移与轨道杂化协同调制磁相互作用参数（DMI、MAE、J）——与 Mn 基多铁中磁电耦合的物理图像高度可类比。可复用要点：(1) 原子-轨道分辨的 SOC 能量分解方法（ΔE_SOC-MAE、ΔE_SOC-DMI）用于定位磁电耦合的微观来源；(2) GGA+U 下提取 J、DMI（顺/逆时针自旋螺旋能量对比）、MAE 的计算流程；(3) 界面 Se→In 电荷转移改变 Te p 轨道杂化从而调控磁性的因果链，可类比到 Mn 基多铁中通过阴离子 p 轨道介导的超交换/磁电耦合；(4) Goodenough–Kanamori–Anderson 规则下键角变化（θ1、θ2 偏离 90°）削弱 Cr–Te–Cr 超交换的分析范式。
   - **project-5（SnTe 铁电模拟）— medium**：本文展示的铁电极化翻转、界面电荷重排、Rashba SOC 放大以及 DFT+微磁学多尺度流程，对 SnTe 铁电模拟具有方法学和物理图像参考价值。可复用要点：(1) 二维铁电体 P↑/P↓ 双稳态建模与差分电荷密度分析流程（VASP、450 eV 截断、真空层 30 Å、共轭梯度弛豫至 0.001 eV/Å）；(2) 铁电极化作为非易失"开关"调制邻近层物性的异质结设计思路，可类比 SnTe 拓扑铁电与其他层状材料的界面耦合；(3) κ 判据将多参数竞争压缩为单一无量纲量的思路，对铁电相变/畴稳定性判据构建有启发；(4) In2Se3 与 CrInTe2 晶格失配仅 0.7% 的共格界面筛选标准，可迁移至 SnTe 异质结界面设计。
   - 其他项目（project-1 双光子、project-3 机械发光 NN、project-4 TTF 分子计算、project-6 湿度传感器、project-7 CDW）：无直接项目连接。
 
-- **组织与用词**：
+## 📝 组织与用词
   - 文章按"材料设计 → 微观机制（DFT）→ 宏观性能（微磁学）→ 普适原理（κ 判据）→ 器件动力学"的递进链条组织，每一步都用具体数值（J、K、d∥、Q、R_x、霍尔角）闭环支撑结论。图1 建立结构模型，图2 做微观溯源，图3-5 构建静态相图，图6 转入动力学，逻辑严密。
   - 值得复用的关键词/术语（中英对照）：
     1. 拓扑自旋织构（topological spin texture）
@@ -162,7 +164,7 @@ tags:
     7. 无量纲稳定性判据（dimensionless stability parameter κ）
     8. 斯格明子霍尔角 / 各向异性耗散张量（skyrmion Hall angle / anisotropic dissipative tensor）
 
-- **可写入wiki的要点**：
+## ✏️ 可写入 Wiki 的要点
   1. **体系与晶格**：单层 CrInTe2 为 Te2–Cr–Te1–In 堆叠的三角晶格（C3v、反演破缺），a = b = 4.04 Å；α-In2Se3 为 Se–In–Se–In–Se 五重层、面外铁电，a = b = 4.07 Å；异质结晶格失配 0.7%。P↓-AC1（Se–In 界面）为 12 种堆叠中能量最低构型，比对应 P↑-AC1 低 140 meV/单胞。
   2. **计算设置**：VASP + PAW + PBE(GGA)，Cr 3d 取 U_eff = 3.0 eV，截断 450 eV，能量/力收敛 1×10⁻⁸ eV 与 0.001 eV/Å，真空层 30 Å，11×11×1 MP 网格，计入 SOC；微磁学用 Spirit 求解含 STT 与热场的 LLG 方程，α = 0.1，150×150×1 超胞。
   3. **磁参数随极化的变化**：J 由本征 12.60 meV 降至 P↑ 的 11.69 meV 再降至 P↓ 的 9.85 meV（P↑→P↓ 再降 16%）；d∥ 由 1.87 meV（P↑）增至 1.98 meV（P↓），+6%，超过其他 Cr 基 vdW 磁体；K 由本征 0.73 meV/Cr 提升至异质结的 1.96–2.44 meV/Cr（+63–70%），其中 P↓ 为 1.96、P↑ 为 2.44 meV/Cr——即极化翻转使 DMI 增强 6%、MAE 抑制约 20%。

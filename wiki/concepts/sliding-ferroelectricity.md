@@ -9,7 +9,7 @@ category: [D02, Z01]
 
 该机制于 2017 年由 Li 和 Wu 首次通过第一性原理计算预测，并在 h-BN、TMDs 等体系中得到实验验证。它颠覆了传统铁电性依赖离子位移的范式，为原子级厚度下的稳定铁电序及高速、低功耗器件应用提供了新平台。
 
-![滑动铁电机制](raw/figures/wuSlidingFerroelectricity2D2021a/fig_1_37UWP3F7.png)
+![滑动铁电机制](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_1_37UWP3F7.png)
 *图 1: 滑动铁电机制示意图。(A) BN 双层通过层间滑移实现极化翻转；(B) 扭转 BN 双层中的莫尔铁电畴；(C) 3R 相 MoS₂ 和 InSe 的结构。*
 
 ## 核心物理机制
@@ -19,12 +19,31 @@ category: [D02, Z01]
 2. **超低翻转势垒**：
    不同于传统钙钛矿铁电体（位移型）需要克服强化学键的断裂与重组，滑动铁电体仅需克服弱范德华力的滑移势垒，其翻转能量通常低 1-2 个数量级。
 3. **畴壁（Domain Wall）动力学**：
-   滑动铁电体的开关过程由畴壁运动主导。研究表明，h-BN 双层中的畴壁宽度可达 10–40 nm（远宽于传统铁电体）。畴壁运动使临界翻转电场比单畴均匀翻转降低约两个数量级（如 0.026 V/nm vs 1.41 V/nm）。在高电场下，畴壁速度可达数千米每秒，实现皮秒级超快翻转（[[../../raw/note/heUltrafastSwitchingDynamics2024]]）。
+   滑动铁电体的开关过程由畴壁运动主导。研究表明，h-BN 双层中的畴壁宽度可达 10–40 nm（远宽于传统铁电体）。畴壁运动使临界翻转电场比单畴均匀翻转降低约两个数量级（如 0.026 V/nm vs 1.41 V/nm）。在高电场下，畴壁速度可达数千米每秒，实现皮秒级超快翻转（[[../papers/heUltrafastSwitchingDynamics2024]]）。
 4. **莫尔超晶格与超顺电性**：
    在小角度扭转双层中，周期性的堆垛梯度形成纳米畴阵列。理想的莫尔超晶格呈现**超顺电行为**（Super-paraelectricity），即极化响应无滞后且撤去电场后消失。实验观察到的回滞通常源于缺陷（如氮空位，钉扎能约 50 meV）对畴壁的钉扎效应。
 
-![畴壁结构](raw/figures/heUltrafastSwitchingDynamics2024/fig_5_BK4H4WHC.png)
+![畴壁结构](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_5_BK4H4WHC.png)
 *图 2: h-BN 双层中 0° (Bloch-type) 和 90° (Néel-type) 畴壁的原子结构与极化分布。*
+
+## 2026 最新进展：从绝缘体向多铁金属的跃迁
+
+进入 2026 年，滑动铁电及其衍生的层间电荷转移机制已成为 **自旋电子学 (Spintronics)** 的前沿阵地，主要体现在以下三个维度：
+
+### 1. 室温二维多铁金属 (2D Multiferroic Metal)
+传统理论认为铁电性与金属性互斥（屏蔽效应），但最新的 **CrTe₂** 和 **Fe₃GeTe₂** 研究打破了这一范式。
+- **金磁铁电共存**：在双层 CrTe₂ 中，实验证实了室温下（300 K）空气稳定的多铁性。其机制源于 FM 层与 z-AFM 层之间的**自发层间电荷转移**，这种转移不仅打破反演对称性诱导面外极化，还通过电子填充调控磁有序（[[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]）。
+- **自旋电子学器件**：实现了"电写磁读"（Electrical Writing and Magnetic Reading）功能，为后摩尔时代的低功耗非易失存储提供了室温可行的单相材料平台。
+
+### 2. 相位锁定属性 (Phase-Locked Properties)
+在低维尺度下，滑动铁电体的稳定性深受 **相位锁定 (Phase-Locked)** 机制保护。
+- **涨落抑制**：相锁机制通过将电子序（如电荷转移、磁序）与晶格拓扑结构（如莫尔条纹、特定堆垛相位）高度耦合，有效抑制了低维体系在室温下的热涨落，保证了铁电畴的长程稳定性（[[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]）。
+- **应变调控**：层间相锁使得极化翻转过程对机械应变高度敏感，可实现应变工程对极化强度的精准微调。
+
+### 3. 神经形态计算 (Neuromorphic Computing)
+滑动诱导的极化不再仅仅是二态（0/1），而是表现出丰富的多态特性。
+- **滑动诱导多态存储**：通过精准控制层间滑移量（如扭转角或微位移），可以实现连续可调的极化中间态。这为模拟生物突触的权重调节提供了物理基础。
+- **突触器件应用**：利用滑动铁电的多态记忆效应，已成功开发出高性能的人工突触器件，支持长时程增强（LTP）与抑制（LTD），其翻转功耗已压低至皮瓦（pW）量级（[[../papers/sunSlidingFerroelectricityTwodimensional2025]]）。
 
 ## 代表性材料体系
 
@@ -34,16 +53,16 @@ category: [D02, Z01]
 | **半导体** | [[TMDs]] (MoS₂, WSe₂) | 3R 相天然具备滑动铁电性；2H 相通过扭转产生莫尔铁电。 |
 | **半金属** | [[WTe2]], [[Graphene]] | 扭转双层石墨烯（>3层）或石墨烯/h-BN 异质结中可观测到滑动铁电响应。 |
 | **III-VI 族** | [[In2Se3]], [[GaSe]] | 本征极化与滑动诱导极化联动，实现多态切换。 |
-| **磁性材料** | [[Fe3GeTe2]] | 滑动诱导磁性铁电金属相（Multiferroic Metal）。 |
+| **磁性材料** | [[../entities/CrTe2|CrTe2]], [[../entities/Fe3GeTe2|Fe3GeTe2]] | 滑动/电荷转移诱导室温多铁金属相（Multiferroic Metal）。 |
 
-![不同堆垛相](raw/figures/wuSlidingFerroelectricity2D2021a/fig_2_UQ8NW6V3.png)
+![不同堆垛相](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_2_UQ8NW6V3.png)
 *图 3: 不同堆垛构型下的极性相与非极性相（BN, MoS₂, SnS₂, WTe₂, CrI₃）。*
 
 ## 关键表征技术
 
 - **PFM (压电力显微镜)**：通过观测 180° 相位翻转和蝴蝶曲线证实极化翻转。
 - **SHG (二次谐波产生)**：对空间反演对称性破缺极度敏感，用于鉴定非中心对称结构。
-- **4D-STEM (四维扫描透射电镜)**：在皮米（pm）尺度直接观察层间位移和莫尔条纹重构（[[../../raw/note/sunSlidingFerroelectricityTwodimensional2025]]）。
+- **4D-STEM (四维扫描透射电镜)**：在皮米（pm）尺度直接观察层间位移和莫尔条纹重构（[[../papers/sunSlidingFerroelectricityTwodimensional2025]]）。
 
 ## 器件应用潜力
 
@@ -54,22 +73,23 @@ category: [D02, Z01]
 3. **类脑突触器件**：模拟生物突触的长时程增强/抑制（LTP/LTD），功耗可低至 20 pW。
 4. **多铁存储**：在 2D 磁性材料中通过滑移耦合磁序与电序，实现磁电互控存储。
 
-![器件应用](raw/figures/RecentAdvancesGrowth2025/fig_15_TMK8S5HG.png)
+![器件应用](../../raw/figures/RecentAdvancesGrowth2025/fig_15_TMK8S5HG.png)
 *图 4: 二维滑动铁电在 FET、FTJ、突触器件及多铁存储中的应用前景。*
 
 ## 本库相关论文
 
 - **物理机制与模拟**：
-  - [[../../raw/note/heUltrafastSwitchingDynamics2024]]：使用机器学习势揭示 h-BN 超快畴壁动力学与莫尔超顺电本质。
-  - [[../../raw/note/heSwitchingTwodimensionalSliding2025]]：机械应变对滑动铁电翻转的调控。
-  - [[../../raw/note/kaurRecentAdvancesTheoretical2025a]]：二维滑动铁电理论计算进展综述。
+  - [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]：双层 CrTe₂ 中电子填充驱动的室温二维多铁金属机制。
+  - [[../papers/heUltrafastSwitchingDynamics2024]]：使用机器学习势揭示 h-BN 超快畴壁动力学与莫尔超顺电本质。
+  - [[../papers/heSwitchingTwodimensionalSliding2025]]：机械应变对滑动铁电翻转的调控。
+  - [[../papers/kaurRecentAdvancesTheoretical2025a]]：二维滑动铁电理论计算进展综述。
 - **材料体系探索**：
-  - [[../../raw/note/miaoMagneticFerroelectricMetal2024]]：双层 Fe₃GeTe₂ 中的滑动诱导磁性铁电金属。
-  - [[../../raw/note/tangCombiningIntrinsicSlidinginduced2025]]：结合本征与滑动极化实现多态存储。
-  - [[../../raw/note/wuSlidingFerroelectricity2D2021a]]：滑动铁电物理与器件早期综述。
+  - [[../papers/miaoMagneticFerroelectricMetal2024]]：双层 Fe₃GeTe₂ 中的滑动诱导磁性铁电金属。
+  - [[../papers/tangCombiningIntrinsicSlidinginduced2025]]：结合本征与滑动极化实现多态存储。
+  - [[../papers/wuSlidingFerroelectricity2D2021a]]：滑动铁电物理与器件早期综述。
 - **器件应用**：
-  - [[../../raw/note/sunSlidingFerroelectricityTwodimensional2025]]：2D 滑动铁电在存储、计算及人工突触中的最新应用综述。
-  - [[../../raw/note/zhangEmergingFrontiersTwodimensional2025]]：二维铁电前沿展望。
+  - [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：2D 滑动铁电在存储、计算及人工突触中的最新应用综述。
+  - [[../papers/zhangEmergingFrontiersTwodimensional2025]]：二维铁电前沿展望。
 
 ## 关联概念
 
@@ -79,3 +99,5 @@ category: [D02, Z01]
 - [[../entities/domain-wall|畴壁 Domain Wall]]
 - [[../entities/h-BN|氮化硼 h-BN]]
 - [[../entities/TMDs|过渡金属硫化物 TMDs]]
+- [[../entities/CrTe2|二碲化铬 CrTe2]]
+- [[../entities/Fe3GeTe2|Fe3GeTe2]]
