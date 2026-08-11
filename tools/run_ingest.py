@@ -16,7 +16,15 @@ BASE_DIR = TOOLS_DIR.parent
 
 def log(step, msg):
     timestamp = time.strftime("%H:%M:%S")
-    print(f"[{timestamp}] [{step}] {msg}")
+    try:
+        output = f"[{timestamp}] [{step}] {msg}"
+        sys.stdout.buffer.write((output + "\n").encode('utf-8'))
+        sys.stdout.flush()
+    except Exception:
+        try:
+            print(f"[{timestamp}] [{step}] {msg.encode('ascii', 'replace').decode('ascii')}")
+        except Exception:
+            pass
 
 def run_script(script_name, args=None):
     script_path = TOOLS_DIR / script_name
@@ -34,13 +42,17 @@ def run_script(script_name, args=None):
             cmd,
             stdout=subprocess.PIPE,
             stderr=subprocess.STDOUT,
-            text=True,
-            encoding='utf-8',
+            text=False, # Read bytes to avoid decoding issues at this level
             bufsize=1
         )
 
         for line in process.stdout:
-            print(f"  {line.strip()}")
+            try:
+                # Direct pipe of bytes to stdout if possible, or decode as utf-8 safely
+                sys.stdout.buffer.write(b"  " + line)
+                sys.stdout.flush()
+            except Exception:
+                pass
 
         process.wait()
         if process.returncode == 0:
@@ -65,14 +77,9 @@ def main():
         sys.exit(1)
 
     print("-" * 60)
-    # Step 2: Basic Writing Ingest (Yearly folders)
-    if not run_script("generate_writing_wiki.py"):
-        log("WARNING", "Writing summary ingest encountered issues.")
-
-    print("-" * 60)
     duration = time.time() - start_time
     log("SYSTEM", f"Raw Ingest Complete! Total time: {duration:.2f} seconds")
-    log("SYSTEM", "Next Step: Run '/workflow update_research_wiki' in Claude to intelligently update Wiki content.")
+    log("SYSTEM", "Next Step: Run '/workflow update_research_wiki' in Claude to intelligently update Wiki content (Concepts, Entities, Projects, Figures, and Writing).")
 
 if __name__ == "__main__":
     main()

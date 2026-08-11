@@ -1,0 +1,5222 @@
+{
+  "papers": [
+    {
+      "citekey": "2019optical",
+      "title": "Optical Fiber Polymer Sensor System with TiO2-SiO2 Cladding for Measuring Humidity",
+      "year": "2019",
+      "materials": [
+        "基于TiO2-SiO2替代包层的塑料光纤倏逝波湿度传感器。具体包括：",
+        "TiO2-SiO2纳米复合涂层材料",
+        "不同包层剥离长度（1cm, 2cm, 3cm）的传感器探头",
+        "一套由激光光源、光电探测器、Arduino UNO微控制器组成的完整湿度测量系统"
+      ],
+      "methods": [
+        "采用实验研究法",
+        "通过固相合成法制备TiO2-SiO2复合材料，并利用浸渍提拉法涂覆在剥离包层后的塑料光纤上",
+        "通过控制变量法，对比分析1cm、2cm、3cm三种剥离长度下传感器的电压-湿度响应特性，筛选最优结构",
+        "基于最优传感器，建立ADC值与湿度的校准方程，并嵌入Arduino系统",
+        "通过与标准湿度计对比，评估最终系统的测量误差"
+      ]
+    },
+    {
+      "citekey": "Ahn2015ferroelectric",
+      "title": "Ferroelectric domain structures and polarization switching characteristics of polycrystalline BiFeO3 thin films on glass substrates",
+      "year": "2015",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Ahn2018local",
+      "title": "Local ferroelectric polarization switching properties of BiFeO3 nanodots and thin films depending on the ferroelectric polarization nanobit diameter",
+      "year": "2018",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "aiFerroelectricityCoexistedPorbital2022",
+      "title": "Ferroelectricity coexisted with p-orbital ferromagnetism and metallicity in two-dimensional metal oxynitrides",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "AlHashimi1983on",
+      "title": "On Piezoluminescence in Irradiated Alkali Halides",
+      "year": "1983",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "AlHayali2026innovative",
+      "title": "Innovative Bifolium-shaped dual-point humidity fiber sensor based on wavelength modulation",
+      "year": "2026",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Ali2025interplay",
+      "title": "Interplay between charge-density-waves, disorder, and superconductivity in transition metal dichalcogenides",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "AliMohammed2025temperature",
+      "title": "Temperature dependence of lattice thermal conductivity in bulk and nanostructures of lead telluride (PbTe)",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Alonzo2007crosstalk",
+      "title": "Crosstalk between two-photon and two-color (two-photon) excitation in optical beam induced current generation with two confocal excitation beams",
+      "year": "2007",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Alwis2013optical",
+      "title": "Optical fibre-based sensor technology for humidity and moisture measurement: Review of recent progress",
+      "year": "2013",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Alzetta1962piezoluminescence",
+      "title": "Piezoluminescence in zinc-sulphide phosphors",
+      "year": "1962",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "amanMechanoluminescenceQuartzParticles2004",
+      "title": "Mechanoluminescence of quartz particles during grinding in a stirred media mill",
+      "year": "2004",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "aminiAtomicscaleVisualizationMultiferroicity2024",
+      "title": "Atomic‐Scale Visualization of Multiferroicity in Monolayer NiI<sub>2</sub>",
+      "year": "2024",
+      "materials": [
+        "通过分子束外延（MBE）在高定向热解石墨（HOPG）衬底上生长的单层碘化镍（NiI₂）"
+      ],
+      "methods": [
+        "采用低温扫描隧道显微镜（STM）和扫描隧道谱（dI/dV）进行原子级形貌与电子结构表征",
+        "并结合第一性原理密度泛函理论（DFT）计算",
+        "构建非共线磁结构模型",
+        "模拟STM图像以验证实验结果。同时",
+        "利用STM针尖施加电压脉冲以操纵多铁畴"
+      ]
+    },
+    {
+      "citekey": "Amorín2012very",
+      "title": "Very high remnant polarization and phase-change electromechanical response of BiFeO3-PbTiO3 at the multiferroic morphotropic phase boundary",
+      "year": "2012",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Aneesh2012titanium",
+      "title": "Titanium dioxide nanoparticle based optical fiber humidity sensor with linear response and enhanced sensitivity",
+      "year": "2012",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Anirban2023imaging",
+      "title": "Imaging topological defects in the multiferroic crystal BiFeO3",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Anonymous2026collisions",
+      "title": "Two-photon-assisted collisions in ultracold gases of polar molecules II : Two-photon optical shielding",
+      "year": "2012",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Ansari2022optical",
+      "title": "Dual-purpose optical fiber sensor: relative humidity and ammonia detection",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Anthoniappen2017electric",
+      "title": "Electric field induced nanoscale polarization switching and piezoresponse in Sm and Mn co-doped BiFeO3 multiferroic ceramics by using piezoresponse force microscopy",
+      "year": "2017",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Antoniou1979competition",
+      "title": "Competition between charge- and spin-density waves in transition-metal dichalcogenides",
+      "year": "1979",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Atari1982piezoluminescence",
+      "title": "Piezoluminescence phenomenon",
+      "year": "1982",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Atari1986piezoluminescence",
+      "title": "Piezoluminescence and thermoluminescence spectral shifts in γ-irradiated KBr and KCl crystals",
+      "year": "1986",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Bandilla1982quantum",
+      "title": "Quantum statistics of light after saturated two-photon emission processes and the photon statistics of a two-photon laser",
+      "year": "1982",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Barber1984electrochemical",
+      "title": "Electrochemical Etching of the Semiconductor Lead Tin Telluride",
+      "year": "1984",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Barnett2006coexistence",
+      "title": "Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2 H Transition Metal Dichalcogenides",
+      "year": "2006",
+      "materials": [
+        "原型2H-TMD材料2H-TaSe₂的低能电子结构",
+        "以及基于此结构构建的",
+        "用于解释CDW相中无隙激发的最小有效模型"
+      ],
+      "methods": [
+        "采用基于密度泛函理论（DFT）的第一性原理计算（WIEN2k代码），获取2H-TaSe₂的精确电子结构",
+        "运用新开发的能量分辨瓦尼尔函数（Wannier Function）方法，提取低能有效哈密顿量，并定量分析跃迁积分",
+        "基于第一性原理的发现，构建一个仅包含主导跃迁的二维紧束缚最小模型，并通过解析和数值计算，模拟CDW畸变下体系的能量和能带结构"
+      ]
+    },
+    {
+      "citekey": "Basu2025advancements",
+      "title": "Advancements in Two-Photon Polymerization (2PP) for Micro and Nanoscale Fabrication",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "batesCompatibilityLeadTin1968",
+      "title": "The compatibility of lead and tin telluride with metals",
+      "year": "1968",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "BERTHIER1977physical",
+      "title": "PHYSICAL PROPERTIES RELATED TO CHARGE DENSITY WAVES IN LAYERED TRANSITION METAL DICHALCOGENIDES",
+      "year": "1977",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Berzin2016evolution",
+      "title": "Evolution of the antiferromagnetism vector of a multiferroic BiFeO3 during switching its ferroelectric polarization",
+      "year": "2016",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "bholaSolGelBasedIntegratedOptical2009",
+      "title": "Sol-Gel-Based Integrated Optical Microring Resonator Humidity Sensor",
+      "year": "2009",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "bhowalPolarMetalsPrinciples2023b",
+      "title": "Polar Metals: Principles and Prospects",
+      "year": "2023",
+      "materials": [
+        "主要研究对象是各类极性金属材料",
+        "包括但不限于：通过向传统绝缘铁电体（如BaTiO₃",
+        "PbTiO₃）掺杂载流子获得的极性金属",
+        "利用非传统铁电机制（如几何铁电体Ca₃Ru₂O₇",
+        "孤对电子驱动铁电体PbTi₁₋ₓNbₓO₃）设计的极性金属",
+        "具有里程碑意义的类铁电金属（FE-like metal）LiOsO₃和铁电金属（FE metal）WTe₂",
+        "以及人工层状异质结和二维系统中的极性金属。此外",
+        "拓扑半金属",
+        "Rashba材料和铁电超导体等关联体系也是研究的延伸对象"
+      ],
+      "methods": [
+        "该领域采用理论研究与实验探索紧密结合的方法。理论研究包括：基于第一性原理的密度泛函理论（DFT）计算",
+        "用于预测材料结构",
+        "极化",
+        "声子谱和电子结构",
+        "模型哈密顿量与蒙特卡洛模拟",
+        "用于理解长程有序和相变机理",
+        "对称性分析和群论",
+        "用于分类和设计极性结构。实验研究包括：高压合成和薄膜生长技术（如脉冲激光沉积PLD）以制备材料",
+        "高分辨率扫描透射电子显微镜（STEM）用于原子尺度成像",
+        "光学二次谐波（SHG）和压电力显微镜（PFM）用于表征极性和畴结构",
+        "以及角分辨光电子能谱（ARPES）和输运测量（包括非线性霍尔效应）以探测量子性质和电子结构"
+      ]
+    },
+    {
+      "citekey": "Bicknell1977the",
+      "title": "The interpretation of X-ray diffraction data from thin epitaxial lead-tin telluride crystals—I",
+      "year": "1977",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "bicknellInterpretationXrayDiffraction1978",
+      "title": "The interpretation of X-ray diffraction data from thin epitaxial lead tin telluride crystals—II",
+      "year": "1978",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Blessing2026optical",
+      "title": "Optical investigation of tin telluride (snte) thin films grown at different deposition voltage",
+      "year": "2026",
+      "materials": [
+        "使用电化学沉积法",
+        "在10V",
+        "11V",
+        "12V",
+        "13V四个不同电压下生长于FTO导电玻璃基底上的碲化锡(SnTe)薄膜"
+      ],
+      "methods": [
+        "采用电化学沉积(ECD)技术制备薄膜",
+        "使用UV-1800紫外-可见分光光度计测量薄膜的光学吸收",
+        "透射和反射光谱。基于Tauc公式",
+        "吸收系数公式",
+        "光学电导率公式等理论公式",
+        "从实验光谱中提取光学带隙",
+        "吸收系数",
+        "消光系数",
+        "折射率和光学电导率等关键参数",
+        "并分析其随电压的变化规律"
+      ]
+    },
+    {
+      "citekey": "blochlProjectorAugmentedwaveMethod1994b",
+      "title": "Projector augmented-wave method",
+      "year": "1994",
+      "materials": [
+        "投影增强波（PAW）方法的理论框架",
+        "构建方案",
+        "数值表现及其与现有方法（LAPW",
+        "赝势）的关系"
+      ],
+      "methods": [
+        "构建了一个从平滑赝（PS）波函数到全电子（AE）波函数的线性变换",
+        "通过引入全电子分波",
+        "赝分波和投影函数来定义此变换。基于此变换",
+        "推导了总能量",
+        "哈密顿量和力的表达式",
+        "并结合Car-Parrinello虚拉格朗日量方法",
+        "实现第一性原理分子动力学。通过原子散射",
+        "双原子分子等测试进行数值验证"
+      ]
+    },
+    {
+      "citekey": "Bodarya2024investigations",
+      "title": "Investigations of photo-transient properties and applications as photosensors in well-characterized tin telluride (SnTe) single crystal",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Boltinghouse1989development",
+      "title": "Development of an optical relative humidity sensor.  Cobalt chloride optical absorbency sensor study",
+      "year": "1989",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Bradford1975preparation",
+      "title": "Preparation of vapor grown lead-tin telluride for 8–14 micrometer photodiodes",
+      "year": "1975",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Bryce2002cheminform",
+      "title": "ChemInform Abstract: Synthesis of Conjugated Tetrathiafulvalene (TTF)‐π‐Acceptor Molecules — Intramolecular Charge Transfer and Nonlinear Optical Properties.",
+      "year": "2002",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+      "title": "Ferroelectricity-driven strain-mediated magnetoelectric coupling in two-dimensional multiferroic heterostructure",
+      "year": "2025",
+      "materials": [
+        "基于二维室温铁磁体Fe₃GaTe₂和铁电聚合物P(VDF-TrFE)垂直堆叠的双栅极范德华多铁异质结"
+      ],
+      "methods": [
+        "采用垂直异质结构建双栅极器件",
+        "通过底栅极的逆压电效应引入应变",
+        "实现应变介导的磁电耦合。通过电学输运测量（反常霍尔效应）表征磁性变化",
+        "使用透射电子显微镜（TEM）",
+        "拉曼光谱和X射线衍射（XRD）进行结构表征和应变定量分析",
+        "并结合密度泛函理论（DFT）第一性原理计算揭示微观机制",
+        "最后通过器件集成演示了逻辑功能和模式识别"
+      ]
+    },
+    {
+      "citekey": "Carlotti2019functional",
+      "title": "Functional Materials for Two‐Photon Polymerization in Microfabrication",
+      "year": "2019",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Carvalho2008synthesis",
+      "title": "Synthesis and thermodynamic stability of multiferroic BiFeO3",
+      "year": "2008",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "CastroNeto2001charge",
+      "title": "Charge Density Wave, Superconductivity, and Anomalous Metallic Behavior in 2D Transition Metal Dichalcogenides",
+      "year": "2001",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "CHAMI1983cheminform",
+      "title": "ChemInform Abstract: INVESTIGATION OF TERNARY LEAD‐BISMUTH‐TELLURIUM. STUDY OF THE SECTION LEAD TELLURIDE (PBTE)‐BISMUTH TELLURIDE (BI2TE3)",
+      "year": "1983",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chan1973spin",
+      "title": "Spin density wave and soft phonon mode from nesting Fermi surfaces",
+      "year": "1973",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chandra1980mechanoluminescence",
+      "title": "Mechanoluminescence of halogenate crystals",
+      "year": "1980",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chandra1981mechanoluminescence",
+      "title": "Mechanoluminescence and piezoelectric behaviour of molecular crystals",
+      "year": "1981",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chandra1998cleavage",
+      "title": "Cleavage Mechanoluminescence in Crystals",
+      "year": "1998",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chandra2010persistent",
+      "title": "Persistent mechanoluminescence induced by elastic deformation of ZrO2:Ti phosphors",
+      "year": "2010",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chandra2011development",
+      "title": "Development of mechanoluminescence technique for impact studies",
+      "year": "2011",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chandra2013models",
+      "title": "Models for intrinsic and extrinsic elastico and plastico-mechanoluminescence of solids",
+      "year": "2013",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chandra2013of",
+      "title": "Elastico-Mechanoluminescence of Thermoluminescent Crystals",
+      "year": "2013",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chandra2015mechanoluminescence",
+      "title": "Mechanoluminescence of Coloured Alkali Halide Crystals",
+      "year": "2015",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "chandraMechanoluminescenceFerroelectricCrystals1979",
+      "title": "Mechanoluminescence of ferroelectric crystals",
+      "year": "1979",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "chandraSuitableMaterialsElastico2011",
+      "title": "Suitable materials for elastico mechanoluminescence-based stress sensors",
+      "year": "2011",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chatterjee2017universal",
+      "title": "Universal and system-specific charge density wave features in 2H-transition metal dichalcogenides",
+      "year": "2017",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chen2006derived",
+      "title": "Sol-gel derived multiferroic BiFeO3 ceramics with large polarization and weak ferromagnetism",
+      "year": "2006",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chen2010nonvolatile",
+      "title": "Nonvolatile bipolar resistance switching effects in multiferroic BiFeO3 thin films on LaNiO3-electrodized Si substrates",
+      "year": "2010",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chen2016electrical",
+      "title": "Electrical and mechanical switching of ferroelectric polarization in the 70 nm BiFeO3 film",
+      "year": "2016",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chen2019superconductivity",
+      "title": "Discommensuration-driven superconductivity in the charge density wave phases of transition-metal dichalcogenides",
+      "year": "2019",
+      "materials": [
+        "二维过渡金属二硫族化物（TMDs）的电荷密度波（CDW）相",
+        "特别是1T-TiSe₂",
+        "重点研究其公度（C）",
+        "近公度（NC）和非公度（IC）相之间的转变",
+        "以及在这些相中超导电性（SC）的涌现行为"
+      ],
+      "methods": [
+        "理论建模与数值计算。构建了一个扩展的麦克兰-金兹堡-朗道（McMillan-Ginzburg-Landau）唯象理论",
+        "包含耦合的电荷密度波（CDW）和超导（SC）自由能泛函。通过将电荷密度波（CDW）序参量进行谐波展开",
+        "将自由能极小化问题转化为多变量函数优化问题",
+        "并进行数值求解"
+      ]
+    },
+    {
+      "citekey": "Chen2024terahertz",
+      "title": "Terahertz sensing with a 3D meta-absorbing chip based on two-photon polymerization printing",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chen2025glass",
+      "title": "Low-Temperature Glass 3D Printing via Two-Photon and Single-Photon Polymerization of Oligo-Silsesquioxanes",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chen2026optical",
+      "title": "Humidity-resistant optical fiber gas sensor at room temperature: a potential method for anomaly detection",
+      "year": "2026",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "chen3dLevelSymmetry2025",
+      "title": "3 d -level symmetry between metal layers governing the electronic configuration of Mn 2 N MXenes and enabling modulation between half-metallicity and semiconductivity",
+      "year": "2025",
+      "materials": [
+        "具有不同表面钝化的单层Mn₂N MXenes",
+        "具体包括对称结构Mn₂NO₂",
+        "以及不对称（Janus）结构Mn₂NOF",
+        "Mn₂NOOH和Mn₂NOCl"
+      ],
+      "methods": [
+        "基于密度泛函理论(DFT)的第一性原理计算",
+        "采用VASP软件包",
+        "使用GGA+U方法处理Mn 3d电子的强关联效应。通过计算态密度(DOS)",
+        "分态密度(PDOS)",
+        "投影能带(PBAND)",
+        "静电势和电子局域函数(ELF)来系统分析材料的电子结构",
+        "电子转移和成键特性"
+      ]
+    },
+    {
+      "citekey": "chenFerromagneticNonmagnetic1T2022",
+      "title": "Ferromagnetic and nonmagnetic  <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mrow><mml:mn>1</mml:mn><mml:msup><mml:mi>T</mml:mi><mml:mo>′</mml:mo></mml:msup></mml:mrow></mml:math>  charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition",
+      "year": "2022",
+      "materials": [
+        "具有磁性过渡金属元素（V",
+        "Cr",
+        "Mn）的二维TMD单层材料",
+        "化学式为MX₂（X = S",
+        "Se",
+        "Te）"
+      ],
+      "methods": [
+        "基于密度泛函理论（DFT）的第一性原理计算",
+        "使用VASP软件包",
+        "采用PBE泛函和PAW赝势",
+        "并利用爬坡弹性带（CI-NEB）方法计算相变能垒"
+      ]
+    },
+    {
+      "citekey": "Cheng2006enhanced",
+      "title": "Enhanced electrical polarization and ferromagnetic moment in a multiferroic BiFeO3∕Bi3.25Sm0.75Ti2.98V0.02O12 double-layered thin film",
+      "year": "2006",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "chenHafniumBasedFerroelectricPostMoore2026",
+      "title": "Hafnium-Based Ferroelectric Post-Moore Electronics: Device Physics, Integration Architectures, and Neuromorphic System Implementation",
+      "year": "2026",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "chenStrongSlidingFerroelectricity2024",
+      "title": "Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI<sub>2</sub> Layers",
+      "year": "2024",
+      "materials": [
+        "二维范德华层状晶体 HgI₂（也包括 HgBr₂）的多层结构",
+        "特别是双层及少层 HgI₂"
+      ],
+      "methods": [
+        "基于密度泛函理论（DFT）的第一性原理计算",
+        "包括 Berry 相位法计算体相极化",
+        "屏蔽电荷积分法计算二维多层极化",
+        "声子谱计算",
+        "从头算分子动力学（AIMD）模拟",
+        "自旋-轨道耦合（SOC）能带计算及 Rashba 自旋纹理分析"
+      ]
+    },
+    {
+      "citekey": "cheongMultiferroicsMagneticTwist2007a",
+      "title": "Multiferroics: a magnetic twist for ferroelectricity",
+      "year": "2007",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Chichkov2007polymerization",
+      "title": "Two-photon polymerization enhances rapid prototyping of medical devices",
+      "year": "2007",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "chowdhuryReviewTheoreticalComputational",
+      "title": "Review of theoretical and computational methods for 2D ma- terials exhibiting charge density waves",
+      "year": "",
+      "materials": [
+        "主要的研究对象是二维过渡金属二硫族化合物（2D TMDs）中的二硫化钽（TaS₂）和二硒化钽（TaSe₂）。文章重点讨论了其1T和2H晶相",
+        "研究范围涵盖了从单层",
+        "少数层到块材的体系"
+      ],
+      "methods": [
+        "核心研究方法是基于密度泛函理论（DFT）的第一性原理计算。具体技术包括：使用QUANTUM ESPRESSO和VASP等软件包",
+        "采用LDA和GGA等交换关联泛函",
+        "结合模守恒或超软赝势。为处理CDW的特殊问题",
+        "采用了“电子温度”方法模拟真实温度效应",
+        "以及施加微小的压缩应力来模拟非公度（IC-CDW）结构"
+      ]
+    },
+    {
+      "citekey": "Clark2007band",
+      "title": "Band gap and Schottky barrier heights of multiferroic BiFeO3",
+      "year": "2007",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Coppens1975direct",
+      "title": "Direct Evaluation of the Charge Transfer in the Tetrathiafulvalene-Tetracyanoquinodimethane (TTF-TCNQ) Complex at 100°K by Numerical Integration of X-Ray Diffraction Amplitudes",
+      "year": "1975",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Coronado2000charge",
+      "title": "Charge transfer salts of tetrathiafulvalene derivatives with magnetic iron(III) oxalate complexes: [TTF]7[Fe(ox)3]2·4H2O, [TTF]5[Fe2(ox)5]·2PhMe·2H2O and [TMTTF]4[Fe2(ox)5]· PhCN·4H2O (TMTTF = tetramethyltetrathiafulvalene) †",
+      "year": "2000",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "cossuStackingChargedensityWaves2024",
+      "title": "Stacking of charge-density waves in                     <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">                       <mml:mn>2</mml:mn>                       <mml:mi mathvariant=\"normal\">H</mml:mi>                       <mml:mtext>−</mml:mtext>                       <mml:msub>                         <mml:mi>NbSe</mml:mi>                         <mml:mn>2</mml:mn>                       </mml:msub>                     </mml:math>                     bilayers",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Crocker1986diffusion",
+      "title": "Diffusion of tin in lead tin telluride epitaxial layers grown by liquid phase epitaxy",
+      "year": "1986",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Cui2022",
+      "title": "Investigating arrangements of doping B atoms affecting electrical structures of graphene nanoribbons from DFTB simulations",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Cui2025a",
+      "title": "Predictions of anti-perovskite Li3BrSO4 electrolyte: A first principles study of electronic, thermal, and mechanical properties, as well as Li-ion conductivity",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Cui2025b",
+      "title": "Investigating adsorption of single sodium atom on defective zigzag graphene nanoribbons doped with nitrogen atoms within SCC-DFTB formalism",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "cuiIntercorrelatedInplaneOutofplane2018a",
+      "title": "Intercorrelated In-Plane and Out-of-Plane Ferroelectricity in Ultrathin Two-Dimensional Layered Semiconductor In<sub>2</sub>Se<sub>3</sub>",
+      "year": "2018",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Dai2023",
+      "title": "Simulating changes of packing structures, locally loading states and mechanical behaviors for Si lattices with double vacancies at elevated temperatures",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Dai2023film",
+      "title": "Multi-layer film surface functionalized PMF sensor for real-time humidity measurement",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Dai2024a",
+      "title": "Investigating Si (100) surface patterns as well as electrical states through integrating molecular dynamics simulations with density functional tight binding at atomic level",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "deCarvalho2022performance",
+      "title": "Performance analysis of humidity high-sensitivity tapered optical fiber sensor",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Delley1990",
+      "title": "An all-electron numerical method for solving the local density functional for polyatomic molecules",
+      "year": "1990",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Delley2000",
+      "title": "From molecules to solids with the DMol3 approach",
+      "year": "2000",
+      "materials": [
+        "DMol3 密度泛函方法的计算框架",
+        "包括其局域化基函数",
+        "半局域赝势",
+        "k 点积分方法以及梯度修正泛函的数值实现",
+        "并应用这些方法于 Cu",
+        "Si",
+        "石墨",
+        "a-S8 等固体和 G2 分子集的生成焓计算"
+      ],
+      "methods": [
+        "理论推导与数值基准测试相结合。通过推导和阐述软约束势基组",
+        "半局域赝势矩阵元",
+        "k 点哈密顿量构建",
+        "Bloechl 四面体积分等关键算法的实现细节",
+        "然后通过对 Cu",
+        "Si",
+        "石墨等固体进行收敛性测试",
+        "以及对 G2 分子集进行生成焓计算",
+        "并与实验值和高精度 FLAPW 方法进行对比",
+        "来验证和标定该方法"
+      ]
+    },
+    {
+      "citekey": "DelSesto2002charge",
+      "title": "Charge transfer complexes of 2,4,6-tricyano-s-triazine with tetrathiafulvalene (TTF) and N,N,N′,N′-tetramethyl-p-phenylenediamine (TMPD)",
+      "year": "2002",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "deMiguel1998synthesis",
+      "title": "Synthesis and intramolecular charge-transfer properties of new tetrathiafulvalene–σ-tetracyanoanthraquinodimethane diad (TTF–σ-TCNAQ) and triad (TTF–σ-TCNAQ–σ-TTF) molecules",
+      "year": "1998",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Deng2024",
+      "title": "The synergistic interaction of polymer electrolyte in solid state lithium batteries: A perspective from simulations at electrical level",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "deSousa2008electrical",
+      "title": "Electrical control of magnon propagation in multiferroic BiFeO3 films",
+      "year": "2008",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "DeVoe2013negative",
+      "title": "Negative Contrast Curves for Two-photon Free Radical Polymerization Systems and Their Potential Applications in Sub-diffraction Limited Two-photon Photolithography",
+      "year": "2013",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "dingPredictionIntrinsicTwodimensional2017a",
+      "title": "Prediction of intrinsic two-dimensional ferroelectrics in In2Se3 and other III2-VI3 van der Waals materials",
+      "year": "2017",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Dixit2007zno",
+      "title": "ZnO Thick Film Based Opto-electronic Humidity Sensor for a Wide Range of Humidity",
+      "year": "2007",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Doroodmand2017conjugated",
+      "title": "Electro-synthesized Conjugated Salen Polymer-Glassy Carbon as Hydrochromic Reflective Filter for Humidity Detection: Introduction of Humidity Optical Sensor",
+      "year": "2017",
+      "materials": [
+        "基于循环伏安法在玻碳电极上电合成的**共轭Salen聚合物**薄膜",
+        "及其作为**水致变色反射滤光片**在构建湿度光学传感器中的应用"
+      ],
+      "methods": [
+        "采用**循环伏安法**在金离子辅助下",
+        "在玻碳电极表面原位电合成共轭Salen聚合物薄膜。通过扫描电子显微镜",
+        "傅里叶变换红外光谱",
+        "X射线光电子能谱对聚合物进行表征。构建了包括白光LED",
+        "数字相机和玻碳电极反射镜在内的光学检测系统",
+        "通过图像处理软件分析反射光颜色（尤其是蓝色组分）强度来定量检测相对湿度",
+        "并系统评估了传感器的各项性能指标"
+      ]
+    },
+    {
+      "citekey": "dudarevElectronenergylossSpectraStructural1998a",
+      "title": "Electron-energy-loss spectra and the structural stability of nickel oxide:  An LSDA+U study",
+      "year": "1998",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Dushkina2002intensity",
+      "title": "Intensity dependence of two-photon absorption in CdS measured by photoluminescence excited by femtosecond laser pulses",
+      "year": "2002",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "duUltrasensitiveOptoelectronicBiosensor2025",
+      "title": "Ultrasensitive optoelectronic biosensor arrays based on twisted bilayer graphene superlattice",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Eckhardt1976piezoluminescence",
+      "title": "Piezoluminescence of anthracene single crystals",
+      "year": "1976",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "eddingsaasPlasmaCharacteristicsDischarge2007",
+      "title": "Plasma Characteristics of the Discharge Produced during Mechanoluminescence",
+      "year": "2007",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Eldridge1983optical",
+      "title": "Far-infrared optical properties of semiconducting tetrathiafulvalene tetracyanoquinodimethane (TTF-TCNQ), including the pinned charge-density wave",
+      "year": "1983",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Emtage1976auger",
+      "title": "Auger recombination and junction resistance in lead-tin telluride",
+      "year": "1976",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Engler1984synthesis",
+      "title": "Synthesis of Biethylenedithiolylene-Tetrathiafulvalene Donors (BEDT-TTF) and Electrochemical Preparation of their Charge Transfer Complexes",
+      "year": "1984",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Epstein1975determination",
+      "title": "Determination of Charge Transfer in Tetrathiafulvalene-Tetracyanoquinodimethane (TTF-TCNQ) from Photoemission Spectroscopy",
+      "year": "1975",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Ertugrul2020withdrawal",
+      "title": "Withdrawal Notice: Fabrication of Bidirectional Electrothermal Microactuator by Two-Photon Polymerization",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "EVMENEV1976cheminform",
+      "title": "ChemInform Abstract: CREEP OF THERMOELECTRICAL MATERIALS FROM LEAD TELLURIDE (PBTE) AND GERMANIUM TELLURIDE (GETE)",
+      "year": "1976",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Fanghänel1983radikalkonzentration",
+      "title": "Tetrathiafulvalene. XX. Charge‐Transfer, Radikalkonzentration und elektrische Eigenschaften von TTF und TSF‐TCNQ‐Komplexen",
+      "year": "1983",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Farinre1971double",
+      "title": "Double valence bands in p-type lead-tin-telluride epitaxial films",
+      "year": "1971",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Faulhaber1993ab",
+      "title": "Ab initio determination of electron-molecular vibration constants (em-v) in bis(ethylenedithio) tetrathiafulvalene (BEDT-TTF) and tetrathiafulvalene (TTF)",
+      "year": "1993",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+      "title": "Ferroelectric switching of a two-dimensional metal",
+      "year": "2018",
+      "materials": [
+        "2-3层原子厚度的WTe₂（二碲化钨）晶体",
+        "这是一种层状拓扑半金属",
+        "其块体具有极性结构（空间群Pnm21）",
+        "但单层为中心对称结构"
+      ],
+      "methods": [
+        "**器件构建**：采用范德华干法转移技术，将WTe₂薄片封装在上下两层hBN（六方氮化硼）和石墨栅极之间，构建双栅极场效应晶体管",
+        "**电学表征**：通过控制栅压施加垂直电场E⊥，并测量面内电导的变化，观察铁电回滞",
+        "**直接探测**：将顶栅极替换为单层石墨烯电场传感器，通过其电阻变化直接探测WTe₂极化翻转引起的电场变化，并定量估算极化强度",
+        "**调控实验**：独立调节垂直电场和载流子浓度，研究其对铁电和导电性质的影响"
+      ]
+    },
+    {
+      "citekey": "fengFerroelectricityMultiferroicityTwodimensional2020",
+      "title": "Ferroelectricity and multiferroicity in two-dimensional Sc                     <sub>2</sub>                     P                     <sub>2</sub>                     Se                     <sub>6</sub>                     and ScCrP                     <sub>2</sub>                     Se                     <sub>6</sub>                     monolayers",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "FerroelectricityMultiferroicityAtomic2023",
+      "title": "Ferroelectricity and multiferroicity down to the atomic thickness",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "fiebigEvolutionMultiferroics2016",
+      "title": "The evolution of multiferroics",
+      "year": "2016",
+      "materials": [
+        "主要研究对象是单相和复合多铁性材料体系。具体包括：",
+        "基于不同机制的单相多铁性材料，如BiFeO₃（孤对电子）、h-RMnO₃（几何）、LuFe₂O₄（电荷有序）、o-TbMnO₃（自旋驱动）",
+        "多铁性薄膜和异质结构，如BiFeO₃-CoFe交换耦合结构",
+        "多铁性材料中的畴与畴壁",
+        "相关的对称性衍生现象，如电磁振子、铁涡旋性、磁单极子"
+      ],
+      "methods": [
+        "本文是一篇综述，其本身不涉及原始实验，但系统总结了领域内的核心研究方法：",
+        "**材料合成**：包括固相反应、浮区法生长单晶，以及脉冲激光沉积等薄膜生长技术",
+        "**物性表征**：宏观测量（如SQUID测磁性、铁电分析仪测电滞回线）、衍射技术（X射线、中子衍射确定晶体和磁结构）、光学技术（二次谐波生成SHG用于成像多铁性畴）、扫描探针显微镜（如PFM、MFM）等",
+        "**理论计算**：第一性原理计算（如DFT）用于预测新材料和揭示机制"
+      ]
+    },
+    {
+      "citekey": "fornerQuantumTemperatureEffects1993",
+      "title": "Quantum and temperature effects on Davydov soliton dynamics. III. Interchain coupling",
+      "year": "1993",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Fourmigue1998detonant",
+      "title": "Light-induced detonant materials: charge-transfer complexes of tetrathiafulvalene (TTF) with hexanitrostilbene (HNS) and tetraazidoquinone (TAZQ) and their associated C–H···O hydrogen-bonded networks",
+      "year": "1998",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Fung1980satellite",
+      "title": "Satellite Dark Field Microscopy of Charge Density Wave Domains in                         Transition-Metal Dichalcogenides",
+      "year": "1980",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Gabovich2010coexistence",
+      "title": "Coexistence of Charge Density Waves and d-Wave Superconductivity in Cuprates. Sharing of the Fermi Surface",
+      "year": "2010",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "gajdosLinearOpticalProperties2006",
+      "title": "Linear optical properties in the projector-augmented wave methodology",
+      "year": "2006",
+      "materials": [
+        "投影缀加波方法框架下的频率相关微观极化率矩阵的“头”元素",
+        "以及由此衍生出的宏观介电函数。具体模型系统包括立方半导体 Si",
+        "SiC",
+        "AlP",
+        "GaAs 和绝缘体金刚石 (C)"
+      ],
+      "methods": [
+        "理论推导与数值验证相结合。理论上",
+        "从Adler和Wiser公式出发",
+        "对PAW波函数和算符在长波极限下进行泰勒展开",
+        "推导出包含核心偶极矩修正项`μ_ij`的纵向表达式闭合公式。数值上",
+        "将该方法应用于多种模型体系",
+        "计算其静态和动态介电常数",
+        "并与传统横向表达式",
+        "密度泛函微扰理论以及全电子APW+LO基准进行系统对比"
+      ]
+    },
+    {
+      "citekey": "gaoGiantChiralMagnetoelectric2024a",
+      "title": "Giant chiral magnetoelectric oscillations in a van der Waals multiferroic",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "gaoStrainEngineeringFerroelectric2024",
+      "title": "Strain engineering of ferroelectric polarization and domain in the two-dimensional multiferroic semiconductor",
+      "year": "2024",
+      "materials": [
+        "二维多铁半导体β'-In₂Se₃单层膜及其60°和180°铁电畴壁结构"
+      ],
+      "methods": [
+        "基于密度泛函理论(DFT)的第一性原理计算（VASP软件包）",
+        "结合转变应变张量分析",
+        "CI-NEB方法计算相变势垒",
+        "贝里相位法计算极化"
+      ]
+    },
+    {
+      "citekey": "García2005crystallographic",
+      "title": "Crystallographic investigation of temperature-induced phase transition of the tetrathiafulvalene-<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>p</mml:mi></mml:math>-bromanil, TTF-BA charge transfer complex",
+      "year": "2005",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Gastón2004optical",
+      "title": "Optical fiber relative-humidity sensor with polyvinyl alcohol film",
+      "year": "2004",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "geCarbonnanotubeloadedPlanarGas2020",
+      "title": "<span style=\"font-variant:small-caps;\">Carbon‐nanotube‐loaded</span> planar gas and humidity sensor",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "GIEREN1984cheminform",
+      "title": "ChemInform Abstract: SYNTHESES, CONSTITUTIONAL ELUCIDATION, X‐RAY STRUCTURE ANALYSIS, AND ELECTRICAL PROPERTIES OF DI‐ AND POLYCHALCOGEN DIIMIDES. 3. CHARGE‐TRANSFER COMPLEXES OF F TETRATHIAFULVALENE (TTF) WITH 1,2,5‐THIADIAZOLEQUINONES",
+      "year": "1984",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "GIRLANDO1983cheminform",
+      "title": "ChemInform Abstract: VIBRATIONAL SPECTROSCOPY OF MIXED STACK ORGANIC SEMICONDUCTORS: NEUTRAL AND IONIC PHASES OF TETRATHIAFULVALENE‐CHLORANIL (TTF‐CA) CHARGE TRANSFER COMPLEX",
+      "year": "1983",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Girlando1983vibrational",
+      "title": "Vibrational spectroscopy of mixed stack organic semiconductors: Neutral and ionic phases of tetrathiafulvalene–chloranil (TTF–CA) charge transfer complex",
+      "year": "1983",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Girlando1986interface",
+      "title": "Neutral-ionic interface in mixed stack charge transfer compounds: Pressure induced ionic phase of tetrathiafulvalene-chloranil (TTF CA)",
+      "year": "1986",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Gittard2013polymerization",
+      "title": "Two-photon polymerization microstructuring in regenerative medicine",
+      "year": "2013",
+      "materials": [
+        "双光子聚合（2PP）技术及其在再生医学中的应用",
+        "具体包括：2PP的加工原理",
+        "分辨率优势",
+        "可加工材料",
+        "用2PP制造的各种再生医学器件",
+        "如组织工程支架（特别是Lego™积木式支架）",
+        "小尺寸假体（如听小骨）",
+        "以及2PP的衍生技术",
+        "如与激光生物打印",
+        "微模塑技术的结合"
+      ],
+      "methods": [
+        "本研究为综述性论文",
+        "通过系统梳理和整合前人研究成果",
+        "构建逻辑框架。其引用的研究涵盖了多种方法",
+        "包括：2PP微纳加工",
+        "细胞培养与染色",
+        "扫描电子显微镜（SEM）形貌表征",
+        "细胞增殖与粘附实验",
+        "激光生物打印",
+        "体内植入实验",
+        "以及微模塑复制等"
+      ]
+    },
+    {
+      "citekey": "gomez-ortizKittelLawDomain2023",
+      "title": "Kittel law and domain formation mechanism in  <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:msub><mml:mrow><mml:mi>PbTiO</mml:mi></mml:mrow><mml:mn>3</mml:mn></mml:msub><mml:mo>/</mml:mo><mml:msub><mml:mrow><mml:mi>SrTiO</mml:mi></mml:mrow><mml:mn>3</mml:mn></mml:msub></mml:math>  superlattices",
+      "year": "2023",
+      "materials": [
+        "(PbTiO₃)ₙ/(SrTiO₃)ₙ铁电/介电超晶格",
+        "其中层厚n取值为8至16个单胞",
+        "重点研究其内部由顺时针/逆时针涡旋序列构成的畴壁结构及畴的宽度"
+      ],
+      "methods": [
+        "采用第二性原理模拟",
+        "具体使用SCALE-UP软件包。通过蒙特卡洛模拟退火寻找系统能量最低的稳定构型",
+        "并利用朗之万分子动力学在有限温度下追踪畴结构的动态演化。同时",
+        "结合力常数谱分析（PHONOPY）预测最优畴周期"
+      ]
+    },
+    {
+      "citekey": "gongAbsenceCriticalThickness2023",
+      "title": "Absence of critical thickness for polar skyrmions with breaking the Kittel’s law",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Gorelik1994bulk",
+      "title": "Bulk photoluminescence of molecular crystals under two-photon excitation conditions",
+      "year": "1994",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "gorkovStrongElectronlatticeCoupling2012",
+      "title": "Strong electron-lattice coupling as the mechanism behind charge density wave transformations in transition-metal dichalcogenides",
+      "year": "2020",
+      "materials": [
+        "理论模型的核心是过渡金属二硫族化物单层中",
+        "单一能带的传导电子与过渡金属离子（如Ta",
+        "Nb）位移之间的强相互作用",
+        "特别关注这种相互作用在单个离子位置产生的局域效应"
+      ],
+      "methods": [
+        "理论解析推导。通过量子场论方法",
+        "对电子格林函数进行重整化微扰展开",
+        "精确求和对单个离子位点的所有阶电子-声子相互作用",
+        "推导出局域离子的有效弹性势能",
+        "并将其映射为伊辛模型"
+      ]
+    },
+    {
+      "citekey": "Goswami2011multiferroic",
+      "title": "Multiferroic coupling in nanoscale BiFeO3",
+      "year": "2011",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Goyal2020performance",
+      "title": "Performance analysis of Bloch surface wave-based sensor using transition metal dichalcogenides",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Gruzintsev2014excitation",
+      "title": "Two-photon excitation of anti-stokes photoluminescence in Y1.80Er0.10Yb0.10O2S",
+      "year": "2014",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Guan2022a",
+      "title": "Theoretical design of BAs/WX2 (X = S, Se) heterostructures for high-performance photovoltaic applications from DFT calculations",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Guan2023",
+      "title": "Effects of atom doping on the electronic and magnetic properties of BAs/WSe2 heterostructure",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Guan2024a",
+      "title": "Theoretical design of graphene/tungsten dichalcogenide (Gr/WX2, X=S, Se) heterostructures used for anode materials of LIBs from DFT calculations",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Guan2024b",
+      "title": "Insight into graphene/boron arsenide heterostructure used for high-performance lithium-ion battery anode materials: The first principles study",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "guanRecentProgressTwoDimensional2020",
+      "title": "Recent Progress in Two‐Dimensional Ferroelectric Materials",
+      "year": "2020",
+      "materials": [
+        "二维铁电材料，包括理论上预测的d1T-MoS2、In2Se3、Ⅳ族单硫族化物(SnS, GeSe等)、过渡金属硫代磷酸盐(CuInP2S",
+        "等，以及实验上证实的α-In2Se3、CuInP2S6、SnTe、d1T-MoTe2、WTe2、BA2PbCl4等"
+      ],
+      "methods": [
+        "理论方法主要是基于密度泛函理论(DFT)的第一性原理计算，用于预测极化、结构、居里温度等。实验方法包括四种互补技术：",
+        "扫描隧道显微镜/谱(STM/STS)用于观察畴结构和能带弯曲",
+        "压电力显微镜(PFM)用于观测畴结构、翻转极化和测量迟滞回线",
+        "光学二次谐波(SHG)用于探测反演对称性破缺",
+        "透射电子显微镜(TEM)用于从原子尺度直接观察结构畸变"
+      ]
+    },
+    {
+      "citekey": "Gulhare2021mechanoluminescence",
+      "title": "Mechanoluminescence Characterization of  and gamma; - irradiated Ba3 (VO4) 2: Eu phosphors",
+      "year": "2021",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "guoAdvancesTwodimensionalFerroelectric2025",
+      "title": "Advances in two-dimensional ferroelectric materials",
+      "year": "2025",
+      "materials": [
+        "二维铁电材料，包括两类：",
+        "自发极化铁电体（如CuInP₂S₆, α-In₂Se₃, BP-Bi, d1T-MoTe₂），其铁电性源于晶格内离子位移",
+        "滑移铁电体（基于hBN, TMDs（如WTe₂, MoS₂）, 石墨烯的范德华异质结），其铁电性源于层间滑移导致的电荷重分布"
+      ],
+      "methods": [
+        "材料制备与器件构筑：机械剥离、干法转移、化学气相沉积(CVD)等",
+        "铁电性表征：压电力显微镜(PFM)用于成像铁电畴和测量电滞回线；电输运测量用于宏观极化响应探测；二次谐波产生(SHG)用于探测对称性破缺和极化反转",
+        "理论计算：第一性原理计算（如密度泛函理论）用于预测极化强度和机制；贝里相位法计算极化强度；弹性带方法(NEB)计算极化翻转能垒；差分电荷密度分析揭示层间电荷转移",
+        "光谱学表征：拉曼光谱探测晶格振动模式；光致发光(PL)谱探测激子态"
+      ]
+    },
+    {
+      "citekey": "guoUsingMechanoluminescenceLowcost2020",
+      "title": "Using mechanoluminescence as a low-cost, non-destructive diagnostic method for transient polymer impact processes",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "H2017fluorescence",
+      "title": "Dicyanostilbene-based Two-photon Thermo-solvatochromic Fluorescence Probes with Two-photon Triple Fluorescence",
+      "year": "2017",
+      "materials": [
+        "2",
+        "5-二氰基-4-甲基-4‘-二甲基氨基二苯乙烯（P1）",
+        "一种基于双氰基二苯乙烯（DCS）骨架的供体-π-受体（D-π-A）型荧光分子",
+        "以及其类似物 P2（二苯基氨基取代）"
+      ],
+      "methods": [
+        "采用稳态光谱学方法",
+        "系统测量了 P1 在不同溶剂",
+        "温度",
+        "粘度下的单光子吸收/发射光谱",
+        "双光子激发荧光光谱",
+        "以及双光子吸收截面。通过将光谱数据与溶剂极性参数进行线性拟合",
+        "并对多重荧光发射带进行归属分析",
+        "建立了结构-性能-环境响应之间的内在关系"
+      ]
+    },
+    {
+      "citekey": "Haider2022designing",
+      "title": "Designing of experimental setup for impact induced mechanoluminescence measurements",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "hallEnvironmentalControlCharge",
+      "title": "Environmental Control of Charge Density Wave Order in Monolayer 2H-TaS<sub>2</sub>",
+      "year": "2019",
+      "materials": [
+        "通过分子束外延（MBE）在石墨烯/铱（Gr/Ir(",
+        "1",
+        "1",
+        "）衬底上生长的准自由站立单层和双层2H-TaS₂，以及通过锂（Li）原子蒸镀进行电子掺杂的同类体系"
+      ],
+      "methods": [
+        "采用“实验-理论”紧密结合的研究范式。实验上",
+        "结合扫描隧道显微镜/谱（STM/STS）和角分辨光电子能谱（ARPES）",
+        "在实空间和动量空间分别表征CDW周期和电子结构。理论上",
+        "结合密度泛函理论（DFT）",
+        "密度泛函微扰理论（DFPT）和声子自能计算",
+        "从第一性原理出发模拟晶格动力学稳定性",
+        "并构建相图"
+      ]
+    },
+    {
+      "citekey": "Hammoud2022investigation",
+      "title": "Investigation on Cu2MgSnS4 thin film prepared by spray pyrolysis for photovoltaic and humidity sensor applications",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "hanPolarTopologicalMaterials2025",
+      "title": "Polar topological materials and devices: Prospects and challenges",
+      "year": "2025",
+      "materials": [
+        "铁电氧化物异质结（特别是(PbTiO₃)n/(SrTiO₃)n超晶格）和铁电氧化物纳米结构（特别是BiFeO₃纳米岛）中形成的各种**极性拓扑结构**",
+        "如通量闭合畴",
+        "涡旋",
+        "反涡旋",
+        "斯格明子",
+        "麦纫",
+        "所罗门环等"
+      ],
+      "methods": [
+        "理论层面是基于Landau理论的相场模拟，通过计算总自由能（体自由能、弹性能、静电学能、梯度能）的竞争来预测拓扑结构。实验层面主要包括：",
+        "**制备技术**：脉冲激光沉积、自组装生长等",
+        "**表征技术**：原子分辨率的扫描透射电子显微镜(STEM)进行极化矢量成像，压电力显微镜(PFM)测量局域电机械响应，共振软X射线衍射(RSXD)和二次谐波产生(SHG)探测手性等",
+        "**调控手段**：扫描探针显微镜(SPM)施加电/力场，超快光谱施加光/热场"
+      ]
+    },
+    {
+      "citekey": "hanTunableSlidingFerroelectricity2025",
+      "title": "Tunable sliding ferroelectricity in two-dimensional van der Waals RuX2 (X = Cl, Br, and I) multiferroic layers",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Haq2015determination",
+      "title": "Determination of two-photon absorption cross sections of photosensitizers and its implications for two-photon polymerization",
+      "year": "2015",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Haq2015study",
+      "title": "Study of the two-photon excitation of photoinitiator in various solvents, and the two-photon polymerization process",
+      "year": "2015",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "harperThermalPropertiesLayered1977",
+      "title": "Thermal properties of layered transition-metal dichalcogenides at charge-density-wave transitions",
+      "year": "1993",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "henkelmanClimbingImageNudged2000c",
+      "title": "A climbing image nudged elastic band method for finding saddle points and minimum energy paths",
+      "year": "2000",
+      "materials": [
+        "**攀登图像微动弹性带（Climbing Image Nudged Elastic Band, CI-NEB）**方法，及其在CH₄/Ir(",
+        "1",
+        "1",
+        "和H₂/Si(",
+        "1",
+        "0",
+        "解离吸附反应中的应用"
+      ],
+      "methods": [
+        "在NEB方法的基础上",
+        "对能量最高的图像（攀登图像）修改受力规则",
+        "将其势能力在MEP切线方向的分量反转",
+        "使其沿弹性带“攀登”至鞍点。同时",
+        "引入一种基于图像能量的可变弹簧常数方案",
+        "使高能区弹簧增强",
+        "图像更密集。使用**密度泛函理论（DFT）**结合VASP代码进行验证"
+      ]
+    },
+    {
+      "citekey": "heSwitchingTwodimensionalSliding2025",
+      "title": "Switching Two-Dimensional Sliding Ferroelectrics by Mechanical Bending",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "heUltrafastSwitchingDynamics2024",
+      "title": "Ultrafast switching dynamics of the ferroelectric order in stacking-engineered ferroelectrics",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "hillWhyAreThere2000a",
+      "title": "Why Are There so Few Magnetic Ferroelectrics?",
+      "year": "2000",
+      "materials": [
+        "钙钛矿结构过渡金属氧化物。具体而言，通过对比研究来揭示多铁性机制：",
+        "**BiMnO₃**（铁磁+可能铁电）对比 **LaMnO₃**（反铁磁+非铁电），以探究A位Bi³⁺离子的作用",
+        "**YMnO₃**（反铁磁+铁电）对比 **LaMnO₃**，以探究A位离子半径和六方结构的作用"
+      ],
+      "methods": [
+        "基于密度泛函理论(DFT)的平面波赝势(PWPP)第一性原理计算。具体方法包括：",
+        "计算立方顺磁和铁磁相的电子结构（态密度、能带结构），并进行紧束缚拟合以量化轨道间相互作用",
+        "计算声子谱，通过分析布里渊区中心的虚频模式来判定铁电不稳定性",
+        "采用“人为实验”策略，如人为移除磁性或改变晶体结构，以分离不同因素的贡献"
+      ]
+    },
+    {
+      "citekey": "Holloway1970epitaxial",
+      "title": "Epitaxial Growth of Lead Tin Telluride",
+      "year": "1970",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Horn1977classical",
+      "title": "Classical versus critical behavior at the charge-density wave instability in TTF-TCNQ (tetrathiafulvalene-tetracyanoquinodimethane)",
+      "year": "1977",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Hosseini2024polymerization",
+      "title": "Two-Photon Polymerization 3D-Printing of Micro-scale Neuronal Cell Culture Devices",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Hou2008a",
+      "title": "A Novel Tetrathiafulvalene- (TTF-) Fused Poly(aryleneethynylene) with an Acceptor Main Chain and Donor Side Chains: Intramolecular Charge Transfer (CT), Stacking Structure, and Photovoltaic Property",
+      "year": "2008",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "houStrainbasedRoomtemperatureNonvolatile2019",
+      "title": "Strain-based room-temperature non-volatile MoTe2 ferroelectric phase change transistor",
+      "year": "2019",
+      "materials": [
+        "一种新型的三端应变驱动相变晶体管。其结构为：以弛豫铁电单晶Pb(Mg₁/₃Nb₂/₃)₀.₇₁Ti₀.₂₉O₃（PMN-PT）作为栅介质和应变源",
+        "以机械剥离的1T′-MoTe₂薄片作为沟道材料",
+        "以具有拉伸应力的金属Ni作为源",
+        "漏接触电极"
+      ],
+      "methods": [
+        "宏观电学输运测量（转移特性",
+        "I-V曲线）表征开关行为",
+        "微加工金属薄膜应变计直接关联应变与电学行为",
+        "导电原子力显微镜（CAFM）在实空间成像相变区域",
+        "变温测量研究相变热力学",
+        "不同应力金属（Ag",
+        "Ni）和应力绝缘层（MgF₂）的对照实验确证应变机制",
+        "有限元分析（FEA）模拟沟道应变分布",
+        "背向拉曼光谱分析相变后晶体结构"
+      ]
+    },
+    {
+      "citekey": "Hsieh1977coupling",
+      "title": "Coupling coefficient calculations for lead-tin telluride distributed feedback lasers",
+      "year": "1977",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Huang2019solvatochromic",
+      "title": "Stilbene-Based Two-Photon Thermo- Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two- Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature",
+      "year": "2007",
+      "materials": [
+        "两种基于2",
+        "5-二氰基-4'-氨基二苯乙烯（DCS）的衍生物：P1（二甲氨基取代）和P2（二苯胺基取代）",
+        "其中P1是核心研究对象。这些分子具有典型的供体-π-受体（D-π-A）结构"
+      ],
+      "methods": [
+        "采用稳态吸收/发射光谱和双光子激发荧光光谱技术。系统测量了P1和P2在多种极性和非极性溶剂",
+        "不同甘油/乙醇比例（粘度梯度）和不同温度下的光物理性质。通过分析发射波长",
+        "荧光量子产率（Φ）和双光子吸收截面（δ）的变化规律",
+        "结合现有溶剂化理论模型",
+        "揭示了其构效关系"
+      ]
+    },
+    {
+      "citekey": "Huang2023two",
+      "title": "Two Dicyanostilbene-Based Two-Photon Fluorescence Environmentally Sensitive Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence",
+      "year": "2023",
+      "materials": [
+        "两种基于2",
+        "5-二氰基-4-甲基二苯乙烯的偶极染料：1a（二甲氨基给体）和1b（二苯氨基给体）",
+        "它们均具有D-π-A结构",
+        "其中受体端含有两个强吸电子氰基"
+      ],
+      "methods": [
+        "通过Wittig-Horner反应合成目标化合物",
+        "利用紫外-可见吸收光谱",
+        "稳态/瞬态荧光光谱",
+        "双光子激发荧光光谱及双光子吸收截面测量",
+        "系统研究其在多种有机溶剂",
+        "甘油-乙醇混合体系及变温条件下的光物理性质",
+        "并结合溶剂极性参数进行相关分析",
+        "阐明激发态电荷转移与构象变化机理"
+      ]
+    },
+    {
+      "citekey": "Huang2025",
+      "title": "Impact of strain and doping on Li-ion transport in Li3OBr0.5Cl0.5 anti-perovskite solid lithium-ion electrolytes: Insights from DFT and AIMD calculations",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "huangPolarPhaseDomain2019",
+      "title": "Polar and phase domain walls with conducting interfacial states in a Weyl semimetal MoTe2",
+      "year": "2019",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "huangTwodimensionalIn2Se3Rising2022",
+      "title": "Two‐dimensional In<sub>2</sub>Se<sub>3</sub>: A rising advanced material for ferroelectric data storage",
+      "year": "2022",
+      "materials": [
+        "二维硒化铟（2D In₂Se₃）材料",
+        "特别是其α相（铁电相）和β相（顺电相）家族",
+        "以及基于它们构建的多种电子器件",
+        "如铁电场效应晶体管（FeFET）",
+        "铁电半导体沟道晶体管（FeS-FET）和铁电半导体结（FSJ）"
+      ],
+      "methods": [
+        "本文为综述",
+        "总结了该领域的研究范式",
+        "包括：第一性原理计算（DFT）和分子动力学（MD）模拟用于理论预测和机制探索",
+        "化学气相沉积（CVD）",
+        "机械剥离等用于材料合成",
+        "压电力显微镜（PFM）",
+        "二次谐波（SHG）",
+        "扫描透射电子显微镜（STEM）等用于结构和性能表征",
+        "以及各类晶体管的微纳加工与电学测试"
+      ]
+    },
+    {
+      "citekey": "huoRevealingRoleInterfacial2025",
+      "title": "Revealing the Role of Interfacial Charge Transfer in Mechanoluminescence",
+      "year": "1968",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "huProgressProspectsLowdimensional2019",
+      "title": "Progress and prospects in low‐dimensional multiferroic materials",
+      "year": "2019",
+      "materials": [
+        "低维（主要是二维）范德华材料",
+        "钙钛矿氧化物薄膜",
+        "MXene",
+        "有机二维网络等具有铁电性或多铁性的纳米材料体系。具体包括Group IV单硫族化物",
+        "第三主族单元素烯",
+        "In₂Se₃",
+        "过渡金属硫代磷酸盐",
+        "化学功能化的石墨烯/锗烯/磷烯",
+        "以及各类二维范德华异质结等"
+      ],
+      "methods": [
+        "本综述概括了该领域最核心的研究方法：",
+        "**理论研究**：主要为基于密度泛函理论的第一性原理计算，用于预测材料结构、极化大小、翻转势垒、居里温度及分析物理机制",
+        "**实验观测**：包括分子束外延制备、压电力显微镜、扫描透射电子显微镜、二次谐波产生、电输运测量等，用于证实和表征二维材料中的铁电性"
+      ]
+    },
+    {
+      "citekey": "Hwang1989structure",
+      "title": "Fermi-surface structure of potassium in the charge-density-wave state",
+      "year": "1989",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Imura2006photoluminescence",
+      "title": "Photoluminescence from gold nanoplates induced by near-field two-photon absorption",
+      "year": "2006",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Inosov2008fermi",
+      "title": "Fermi surface nesting in several transition metal dichalcogenides",
+      "year": "2008",
+      "materials": [
+        "2H-TaSe₂",
+        "2H-NbSe₂和Cu₀.₂NbS₂三种过渡金属二硫化物的费米面拓扑结构及其嵌套性质"
+      ],
+      "methods": [
+        "利用高分辨率角分辨光电子能谱精确测量材料的费米面和能带色散关系。基于实验数据",
+        "采用紧束缚模型拟合出色散关系的解析表达式。然后",
+        "利用此模型计算Lindhard函数（裸自旋磁化率的实部）",
+        "以量化评估费米面的嵌套矢量位置及其强度"
+      ]
+    },
+    {
+      "citekey": "Inoue1987proton",
+      "title": "Proton magnetic relaxation in tetrathiafulvalene (TTF) complexes of copper halides, (TTF)2CuCl2 and (TTF)6CuBr4",
+      "year": "1987",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Inoue1987tetrathiafulvalene",
+      "title": "Tetrathiafulvalene (TTF), tetramethyltetraselenafulvalene (TMTSF), and BIS (ethylenedithio) tetrathiafulvalene (BEDT-TTF) salts of copper halides",
+      "year": "1987",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "ishidaSemimetallicHallProperties1985",
+      "title": "Semimetallic Hall properties of PbTe-SnTe superlattice",
+      "year": "1985",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Islam2025enhancement",
+      "title": "Pressure-induced enhancement of superfluid density in transition metal dichalcogenides with and without charge density wave",
+      "year": "2025",
+      "materials": [
+        "研究对象为两种层状硫族化物超导体单晶：具有CDW序的4H-NbSe₂和不具有CDW序的2H-NbS₂。同时",
+        "将前人对2H-NbSe₂的研究结果作为对比"
+      ],
+      "methods": [
+        "低温、强磁场下的**静水压力磁输运测量**（纵向电阻、霍尔电阻、磁阻），用于确定Tc和TCDW",
+        "__μ子自旋旋转/弛豫（μSR）__实验，在静水压力下测量超导混合态的弛豫率σsc，从而推导出伦敦穿透深度λeff和超流密度nₛ/m_",
+        "运用__α模型_*对σsc(T)数据进行分析，以确定超导能隙结构（s+s波）和能隙值"
+      ]
+    },
+    {
+      "citekey": "Ismail2015humidity",
+      "title": "Humidity Sensor - A Review of Nanostructured Zinc Oxide (ZnO) - Based Humidity Sensor",
+      "year": "2015",
+      "materials": [
+        "纳米结构氧化锌（ZnO）基湿度传感器。具体包括其材料特性",
+        "传感机理",
+        "分类（相对湿度传感器）",
+        "不同纳米结构（纳米团簇",
+        "纳米棒",
+        "纳米线",
+        "纳米片）的性能",
+        "以及Sn和Al掺杂的影响"
+      ],
+      "methods": [
+        "文献综述法。作者通过总结和归纳已发表的相关研究论文",
+        "对ZnO湿度传感器的各项特性进行分类",
+        "比较和讨论",
+        "而不是进行原创性实验"
+      ]
+    },
+    {
+      "citekey": "ivanovskiOscillationStructureHall1994",
+      "title": "The oscillation structure of the Hall current in the presence of a contact surface",
+      "year": "1994",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Jacobs1980phenomenological",
+      "title": "Phenomenological theory of charge-density-wave states in trigonal-prismatic, transition-metal dichalcogenides",
+      "year": "1980",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Jena2020effects",
+      "title": "Effects of magnetic field on resistive switching in multiferroic based Ag/BiFeO3/FTO RRAM device",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Jeong2013color",
+      "title": "Mechanoluminescence: Color Manipulation of Mechanoluminescence from Stress‐Activated Composite Films (Adv. Mater. 43/2013)",
+      "year": "2013",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Jia2023polymerization",
+      "title": "Two-photon polymerization of femtosecond high-order Bessel beams with aberration correction",
+      "year": "2023",
+      "materials": [
+        "基于单个纯相位空间光调制器的多通道干涉波前传感技术",
+        "及其在飞秒高阶贝塞尔光束双光子聚合加工系统中的像差校正效果与最终加工的微管阵列质量"
+      ],
+      "methods": [
+        "原理上，将空间光调制器像素阵列划分为多个子通道，通过多通道干涉测量技术，逐一探测各通道相位，重构并补偿系统波前像差",
+        "实验上，将该技术集成到自建的飞秒双光子聚合系统中，有意引入显著像差，通过对比高阶贝塞尔光束校正前后的光场强度分布和最终加工的微管结构的扫描电子显微镜图像及圆形度数据，验证其有效性"
+      ]
+    },
+    {
+      "citekey": "Jiang2012fermi",
+      "title": "Fermi surface nesting and spin density wave instability in the overdoped superconducting iron pnictides",
+      "year": "2012",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Jiang2024",
+      "title": "Investigating geometries and electronic states of boron and nitrogen Co-doping graphene nanoribbons from a DFTB algorithm",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Jigami2001synthesis",
+      "title": "Synthesis and properties of novel heterocycle-fused TTF-type electron donors: bis(propylenethio)tetrathiafulvalene (BPT-TTF), bis(propyleneseleno)tetrathiafulvalene (BPS-TTF), and their tetraselenafulvalene analogues (BPT-TSF and BPS-TSF)",
+      "year": "2001",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Jin2015studying",
+      "title": "Studying the Polarization Switching in Polycrystalline BiFeO3 Films by 2D Piezoresponse Force Microscopy",
+      "year": "2015",
+      "materials": [
+        "通过金属有机分解法（MOD）在 Pt/Ti/SiO₂/Si 衬底上制备的",
+        "厚度约 300 nm",
+        "平均晶粒尺寸约 130 nm 的多晶 BiFeO₃ 薄膜"
+      ],
+      "methods": [
+        "理论建模：利用第一性原理计算的压电张量，通过欧拉角旋转构建 BFO 晶粒在所有空间取向上的理论压电响应曲面",
+        "实验测量：使用二维压电力显微镜（2D PFM），在施加极化电压前后，对同一区域进行扫描，获取垂直（OP）和水平（IPx）方向的压电响应图像",
+        "数值求解：开发专用算法，将实验测得的归一化信号与理论曲面进行全局匹配，反推出畴的初始取向和翻转后的取向，从而精确计算翻转角度"
+      ]
+    },
+    {
+      "citekey": "Jin2023",
+      "title": "Investigating the effect of electrostatic field on electronic structures of C58N2 molecules from SCC-DFTB simulations",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Jindal2002high",
+      "title": "High dynamic range fiber optic relative humidity sensor",
+      "year": "2002",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Johannes2008fermi",
+      "title": "Fermi surface nesting and the origin of charge density waves in metals",
+      "year": "2008",
+      "materials": [
+        "研究的核心是“派尔斯CDW”机制本身",
+        "并选取了三种典型的",
+        "被认为是嵌套驱动的CDW原型材料作为具体案例：二硒化铌 (NbSe₂)",
+        "二硒化钽 (TaSe₂) 和三碲化铈 (CeTe₃)",
+        "以及一个理想化的一维钠 (Na) 原子链模型"
+      ],
+      "methods": [
+        "理论模型分析：通过数学推导，分析理想和非理想条件下派尔斯一维模型中的实部磁化率 χ′(q) 的行为，论证其脆弱性",
+        "第一性原理计算：运用基于密度泛函理论 (DFT) 的WIEN2k和VASP软件包，计算上述真实材料的电子结构、费米面、虚部磁化率 χ′′(q) 和实部磁化率 χ′(q)，并进行对比分析"
+      ]
+    },
+    {
+      "citekey": "junqueraCriticalThicknessFerroelectricity2003",
+      "title": "Critical thickness for ferroelectricity in perovskite ultrathin films",
+      "year": "2003",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "JÉROME1976layer",
+      "title": "LAYER COMPOUNDS. CHARGE DENSITY WAVES IN TRANSITIONS METAL COMPOUNDS.ELECTRONIC PROPERTIES OF TRANSITION METAL DICHALCOGENIDES : CONNECTION BETWEEN STRUCTURAL INSTABILITIES AND SUPERCONDUCTIVITY",
+      "year": "1976",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Kalinkin2011skyrmion",
+      "title": "Skyrmion lattices in the BiFeO3 multiferroic",
+      "year": "2011",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Kanamaru2024suppressed",
+      "title": "Suppressed emission intensity of mechanoluminescence film on steel",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Kang2012dimer",
+      "title": "Dimer impurity scattering, reconstructed Fermi-surface nesting, and density-wave diagnostics in iron pnictides",
+      "year": "2012",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Kannaujiya2020growth",
+      "title": "Growth and characterizations of tin telluride (SnTe) single crystals",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Kashif2024effectively",
+      "title": "Effectively Coupled Bifeo3-Mnfe2o4-Cr2o3 Tri-Phase Multiferroic Composites for Efficient Energy Storage and Fast Switching",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "kaurRecentAdvancesTheoretical2025a",
+      "title": "Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials",
+      "year": "2025",
+      "materials": [
+        "理论预测的",
+        "具有滑动铁电性的各类二维范德华材料体系",
+        "包括六方氮化硼(h-BN)",
+        "过渡金属硫族化物(TMDs)",
+        "石墨烯多层膜",
+        "以及它们与磁性",
+        "拓扑材料构成的异质结和多层膜"
+      ],
+      "methods": [
+        "基于密度泛函理论(DFT)的第一性原理计算",
+        "包括使用现代极化理论（Berry Phase）计算极化",
+        "使用微动弹性带(NEB)方法计算翻转路径和能垒",
+        "分析差分电荷密度",
+        "计算自旋-轨道耦合(SOC)下的能带与贝里曲率",
+        "以及基于群论的对称性分析和基于连续介质电动力学的热力学模型"
+      ]
+    },
+    {
+      "citekey": "kawakamiChargedensityWaveAssociated2023",
+      "title": "Charge-density wave associated with higher-order Fermi-surface nesting in monolayer VS2",
+      "year": "2023",
+      "materials": [
+        "通过分子束外延（MBE）和拓扑化学反应制备的高质量单层1T-VS₂薄膜"
+      ],
+      "methods": [
+        "结合微区角分辨光电子能谱（μ-ARPES）进行动量空间的电子结构表征",
+        "扫描隧道显微镜（STM）进行实空间的形貌和CDW超结构观测",
+        "以及第一性原理计算（DFT）进行能带",
+        "声子谱和电子磁化率的理论分析"
+      ]
+    },
+    {
+      "citekey": "Kepert1997charge",
+      "title": "Bis(ethylenedithio)tetrathiafulvalene (BEDT-TTF) Charge Transfer Salts of Re<sub>2</sub> (NCS)<sub>10</sub> <i><sup>n</sup> </i><sup>-</sup> ( <i>n</i> = 2, 3)",
+      "year": "1997",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Kepert1997semiconducting",
+      "title": "Semiconducting charge-transfer salts of BEDT-TTF [bis(ethylenedithio)tetrathiafulvalene] with hexachlorometallate(IV) anions",
+      "year": "1997",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Khairnar2002study",
+      "title": "Study of transport properties co – evaporated lead telluride (PbTe) thin films",
+      "year": "2002",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "khazaeiNovelElectronicMagnetic2013",
+      "title": "Novel Electronic and Magnetic Properties of Two‐Dimensional Transition Metal Carbides and Nitrides",
+      "year": "2013",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Khitrov2000holographic",
+      "title": "Holographic Two-Photon Polymerization Increases Speed of Switchable Gratings",
+      "year": "2000",
+      "materials": [
+        "Si(",
+        "1",
+        "1",
+        "表面的√3×√3-Ag表面重构结构",
+        "由DPHPA单体、液晶E7等组成的全息光栅",
+        "与C60共沉积的Co、Fe及CoFe合金纳米磁性薄膜"
+      ],
+      "methods": [
+        "对比微观探针与宏观探针的电导测量法，结合理论拟合",
+        "全息双光子诱导光聚合(H-TPIP)，结合光学显微镜和低电压扫描电子显微镜(LVSEM)表征",
+        "金属与C60的共沉积技术，结合波长色散谱(WDS)、质谱、透射电子显微镜(TEM)和振动样品磁强计(VSM)进行表征"
+      ]
+    },
+    {
+      "citekey": "Khitrov2002internal",
+      "title": "Internal Defects Observed by Two-Photon-Induced Photoluminescence",
+      "year": "2002",
+      "materials": [
+        "Si/SiGe超晶格纳米线",
+        "单根碳纳米管等纳米纤维",
+        "多晶ZnSe中的缺陷",
+        "稀土掺杂GaN电致发光器件"
+      ],
+      "methods": [
+        "脉冲激光烧蚀辅助VLS生长",
+        "坐标标记与PMMA牺牲层悬浮技术",
+        "钛宝石飞秒激光双光子激发光致发光扫描",
+        "稀土掺杂GaN横向集成"
+      ]
+    },
+    {
+      "citekey": "Kim2004charge",
+      "title": "Bis(ethylenedithio)tetrathiafulvalene (BEDT‐TTF) Charge Transfer Compounds with Copper(II) Halides: (BEDT‐TTF)<sub>1.5</sub> CuX<sub>2</sub> (X: Cl, Br).",
+      "year": "2004",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "KIM2005visualization",
+      "title": "Visualization of fractures in alumina ceramics by mechanoluminescence",
+      "year": "2005",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Kim2008effect",
+      "title": "Effect of epitaxial strain on ferroelectric polarization in multiferroic BiFeO3 films",
+      "year": "2008",
+      "materials": [
+        "生长在 (",
+        "0",
+        "0",
+        "SrTiO₃ 衬底上、以 SrRuO₃ 为底电极的 BiFeO₃ 外延薄膜，厚度范围 40–960 nm，涵盖从完全应变到充分松弛的不同应变状态"
+      ],
+      "methods": [
+        "脉冲激光沉积（PLD）制备薄膜；高分辨四圆 X 射线衍射（HRXRD）及倒易空间图（RSM）分析晶体结构与应变；超导量子干涉仪（SQUID）测量磁化强度；低温（",
+        "7",
+        "3 K）铁电测试仪获取极化-电场电滞回线"
+      ]
+    },
+    {
+      "citekey": "Kim2023polyimide",
+      "title": "Polyimide Film-coated Side-polished Optical Fiber Humidity Sensor",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "kimObservationPhaseTransition1997",
+      "title": "Observation of a phase transition from the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>T</mml:mi></mml:math>phase to the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>H</mml:mi></mml:math>phase induced by a STM tip in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mn>1</mml:mn><mml:mi>T</mml:mi><mml:mo>−</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant=\"normal\">TaS</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math>",
+      "year": "1997",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Kimura1972single",
+      "title": "Single crystal growth of lead-tin telluride",
+      "year": "1972",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "king-smithTheoryPolarizationCrystalline1993",
+      "title": "Theory of polarization of crystalline solids",
+      "year": "1993",
+      "materials": [
+        "绝缘体及半导体晶体的电子极化行为。理论上有二维向三维推广",
+        "应用上以闪锌矿（Zinc-blende）结构的典型化合物**砷化镓（GaAs）** 为具体验证对象",
+        "计算其压电张量γ₁₄（以及相关横向有效电荷Z*）"
+      ],
+      "methods": [
+        "运用Kubo对了波函数的线形响应表达理论出发",
+        "通过对“周期性 Berry Phase”的推导（即现代Polarization经典的公式）",
+        "简述出铁在实空间中演化为Wannier center的位移。并结合数值离散乘积（如‘二维列 Wigner’技巧）"
+      ]
+    },
+    {
+      "citekey": "Kishore2021protonation",
+      "title": "Protonation of qunioxaline-tetrathiafulvalene (TTF) based derivatives: substituent effect on charge-transfer complexes",
+      "year": "2021",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Klein1983high",
+      "title": "High mobility lead-tin-telluride films evaporated onto polyimide substrates",
+      "year": "1983",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "kleinLowCarrierConcentration1980",
+      "title": "Low carrier concentration lead-tin telluride thin films evaporated from a lanthanum- doped source",
+      "year": "1980",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Knittel1979effect",
+      "title": "Effect of magnetic field on the thermal conductivity of lead telluride-tin telluride",
+      "year": "1979",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Kohmoto2015piezoluminescence",
+      "title": "Piezoluminescence and Liquid Crystallinity of 4,4′-(9,10-Anthracenediyl)bispyridinium Salts",
+      "year": "2015",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Koley2020charge",
+      "title": "Charge density wave and superconductivity in transition metal dichalcogenides",
+      "year": "2020",
+      "materials": [
+        "过渡金属二硫族化物(TMDs)中的电荷密度波(CDW)和超导电性(SC)的竞争",
+        "主要针对2H-TaSe₂及其合金体系TaSe₂₋ₓSₓ",
+        "并引入非磁性无序作为调控参量"
+      ],
+      "methods": [
+        "实空间自洽Bogoliubov-de Gennes(BdG)计算，在二维方格模型中引入团簇和随机两种非磁性无序，模拟SC和CDW序参量的空间演化",
+        "动量空间的第一性原理计算，结合密度泛函理论(DFT)和多轨道动力学平均场理论(DFT+MO-DMFT)，研究TaSe₂₋ₓSₓ体系的能带结构、电阻率和超导序参量"
+      ]
+    },
+    {
+      "citekey": "Kotz2021polymerization",
+      "title": "Two‐Photon Polymerization: Two‐Photon Polymerization of Nanocomposites for the Fabrication of Transparent Fused Silica Glass Microstructures (Adv. Mater. 9/2021)",
+      "year": "2021",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "kresseEfficiencyAbinitioTotal1996a",
+      "title": "Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set",
+      "year": "1996",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "kresseEfficientIterativeSchemes1996d",
+      "title": "Efficient iterative schemes for<i>ab initio</i>total-energy calculations using a plane-wave basis set",
+      "year": "1996",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "kresseInitiomolecularDynamicsLiquid1993",
+      "title": "<i>Ab initio</i> molecular dynamics for liquid metals",
+      "year": "1993",
+      "materials": [
+        "液态钠（Na",
+        "T=400 K",
+        "54原子）和液态锗（Ge",
+        "T=1250 K",
+        "64原子）",
+        "分别代表自由电子金属和“bad metal”",
+        "用以验证方法在不同电子结构金属中的精确性和稳定性"
+      ],
+      "methods": [
+        "基于平面波基组和Vanderbilt赝势的LDA计算",
+        "使用预条件共轭梯度法极小化电子总能量",
+        "每一次MD步后进行子空间对角化",
+        "Fermi能计算（Gaussian展宽）和Kerker电荷混合",
+        "离子运动采用Nosé热浴和四阶预测-校正积分算法",
+        "时间步长3 fs",
+        "利用子空间对齐预测新波函数作为初猜"
+      ]
+    },
+    {
+      "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+      "title": "<i>Ab initio</i> molecular-dynamics simulation of the liquid-metal–amorphous-semiconductor transition in germanium",
+      "year": "1994",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "kresseUltrasoftPseudopotentialsProjector1999c",
+      "title": "From ultrasoft pseudopotentials to the projector augmented-wave method",
+      "year": "1999",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "krishnamurthiSpinChargeDensity2020",
+      "title": "Spin/charge density waves at the boundaries of transition metal dichalcogenides",
+      "year": "2020",
+      "materials": [
+        "二硒化钼（MoSe₂）和二硫化钼（MoS₂）单层中的4|4P型镜像孪晶界（MTB）的一维电子态"
+      ],
+      "methods": [
+        "基于密度泛函理论的DFT+U计算方法。首先",
+        "利用现代极化理论分析MTB的拓扑特性",
+        "其次",
+        "通过引入Hubbard U参数来考虑Mo原子d电子的现场库仑相互作用",
+        "并自洽地求解电子结构"
+      ]
+    },
+    {
+      "citekey": "Krivenkov2020determination",
+      "title": "Determination of the Single-Exciton Two-Photon Absorption Cross Sections of Semiconductor Nanocrystals through the Measurement of Saturation of Their Two-Photon-Excited Photoluminescence",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "kronenbergRelativeHumiditySensor2002",
+      "title": "Relative humidity sensor with optical fiber Bragg gratings",
+      "year": "2002",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Krusius1979charge",
+      "title": "Charge density of group IVA transition-metal dichalcogenides",
+      "year": "1979",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "KUMAR1992cheminform",
+      "title": "ChemInform Abstract: Bis(naphthalene‐1,8‐diylbis(methylthio))tetrathiafulvalene (BNMT‐TTF) and Bis(tetramethylenedithio)tetrathiafulvalene (BMDT‐TTF): New Electron Donors.",
+      "year": "1992",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Kumar2017microstructuring",
+      "title": "Microstructuring by Two-Photon Polymerization using a Sub-Nanosecond Laser",
+      "year": "2012",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "KumarChoubey2011mechanoluminescence",
+      "title": "Mechanoluminescence & Thermoluminescence of SrAL2O4: EU Nano-Phosphors",
+      "year": "2011",
+      "materials": [
+        "通过燃烧合成法，在600℃引发温度下制备的SrAl2O4:Eu纳米磷光体，颗粒尺寸约",
+        "2",
+        "29 nm，晶相为单斜晶系"
+      ],
+      "methods": [
+        "燃烧合成法: 使用金属硝酸盐和尿素制备样品",
+        "X射线衍射(XRD): 确定物相结构和计算晶粒尺寸",
+        "紫外-可见吸收光谱: 表征光学带隙",
+        "自搭建机械发光测试系统: 利用落锤冲击和光电倍增管，记录ML的动态响应",
+        "热释光剂量计: 记录不同紫外照射时间后的TL辉光曲线，并用初始上升法、Chen峰形法等方法计算陷阱深度"
+      ]
+    },
+    {
+      "citekey": "Kurmoo1993crystal",
+      "title": "Crystal structures and properties of two modifications of the molecular charge-transfer salt (BEDT-TTF)2Ag(CN)2[BEDT-TTF = bis(ethylenedithio)tetrathiafulvalene]",
+      "year": "1993",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Lacueva1992quantum",
+      "title": "Quantum oscillations from the cylindrical Fermi-surface sheet of potassium created by the charge-density wave",
+      "year": "1992",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "LaFratta2017polymerization",
+      "title": "Two-Photon Polymerization Metrology: Characterization Methods of Mechanisms and Microstructures",
+      "year": "2017",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "laiTwodimensionalFerromagnetismDriven2019",
+      "title": "Two-dimensional ferromagnetism and driven ferroelectricity in van der Waals CuCrP                     <sub>2</sub>                     S                     <sub>6</sub>",
+      "year": "2019",
+      "materials": [
+        "单层及少层的CuCrP₂S₆单体以及实验观察的",
+        "1",
+        "3 nm/106 nm纳米片，重点研究其面外铁电极化、亚铁磁性及谷自发序态"
+      ],
+      "methods": [
+        "第一性原理VASP计算（PBE+SOC）得到能带",
+        "相位壁垒",
+        "NEB找到相变路径",
+        "利用PFM观察铁电回线",
+        "使用VSM系统测磁性",
+        "结合XPS",
+        "AFM等"
+      ]
+    },
+    {
+      "citekey": "Lanir1978absorption",
+      "title": "Absorption edge shift in lead-tin telluride",
+      "year": "1978",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Lanir1978diffusion",
+      "title": "Diffusion of Cd-In alloy into lead-tin telluride",
+      "year": "1978",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Laverock2005fermi",
+      "title": "Fermi surface nesting and charge-density wave formation in rare-earth tritellurides",
+      "year": "2005",
+      "materials": [
+        "主要研究对象是稀土三碲化物（RTe₃）家族",
+        "特别是GdTe₃（实验）和LuTe₃（理论计算）",
+        "并辅以LuTe₂作为对比"
+      ],
+      "methods": [
+        "采用理论计算与实验相结合的方法。理论使用第一性原理的线性丸盒轨道（LMTO）方法计算电子结构和费米面。实验采用二维角关联电子-正电子湮灭辐射（2D-ACAR）技术",
+        "测量并重构k空间占据密度",
+        "因其对CDW能隙不敏感",
+        "可揭示未重构的费米面"
+      ]
+    },
+    {
+      "citekey": "Lazarova2021flexible",
+      "title": "Flexible and Transparent Polymer-Based Optical Humidity Sensor",
+      "year": "2021",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Lee2016fabrication",
+      "title": "Fabrication of Periodic 3D Nanostructuration for Optical Surfaces by Holographic Two-Photon-Polymerization",
+      "year": "2016",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "lezoualchStudyChargeDensity",
+      "title": "Study of charge density waves in transition metal dichalcogenides",
+      "year": "",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Li2012controlled",
+      "title": "Controlled growth of epitaxial BiFeO3 films using self-assembled BiFeO3-CoFe2O4 multiferroic heterostructures as a template",
+      "year": "2012",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Li2013bonding",
+      "title": "Bonding Charge Density and Ultimate Strength of Monolayer Transition Metal Dichalcogenides",
+      "year": "2013",
+      "materials": [
+        "单层VI族过渡金属二硫化物（MX₂）",
+        "包括MoS₂",
+        "MoSe₂",
+        "MoTe₂",
+        "WS₂",
+        "WSe₂",
+        "WTe₂六种完美晶体"
+      ],
+      "methods": [
+        "基于密度泛函理论（DFT）的第一性原理计算（使用ABINIT和VASP软件包）",
+        "通过模拟单轴拉伸测试获得应力-应变曲线",
+        "并结合态密度（DOS）",
+        "投影态密度（PDOS）",
+        "键合电荷密度和Bader电荷分析来揭示机理"
+      ]
+    },
+    {
+      "citekey": "Li2019a",
+      "title": "A bandwidth response humidity sensor with micro-nano fibre Bragg grating",
+      "year": "2019",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Li2022",
+      "title": "Structural transformation and thermodynamics of alloying CunAg55-n(n = 0–55) clusters on cooling from atomic simulations",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Li2022b",
+      "title": "Investigating the effect of electric field on the adsorption of C60 onto graphene from density functional tight-binding simulations",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Li2022c",
+      "title": "DFTB investigation of strain affecting the combination of C60 and graphene having single-vacancy on electronic-scale",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Li2022d",
+      "title": "C60 adsorption on Si (100) 2×1 reconstructed surface with single vacancy in sub-surface from DFTB algorithm",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Li2023a",
+      "title": "C60 adsorption on defective si (100) surface having one missed dimer from atomic simulations at electrical level",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Li2024high",
+      "title": "High sensitivity Mach-Zehnder interferometric fiber-optic humidity sensor based on multimode interference enhancement",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Lichade2024acoustic",
+      "title": "Acoustic Streaming-Assisted Two-Photon Polymerization Process for the Production of Multimaterial Microstructures",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "liFerroelasticityDomainPhysics2016",
+      "title": "Ferroelasticity and domain physics in two-dimensional transition metal dichalcogenide monolayers",
+      "year": "2016",
+      "materials": [
+        "本研究的主要对象是VI族过渡金属二硫化物（MX₂）单层的1T'结构相",
+        "具体为MoS₂",
+        "MoSe₂",
+        "MoTe₂",
+        "WS₂",
+        "WSe₂和WTe₂",
+        "其中以WTe₂为代表性算例进行详细阐述"
+      ],
+      "methods": [
+        "采用基于密度泛函理论（DFT",
+        "Density Functional Theory）的第一性原理计算（First-principles calculations）",
+        "使用VASP软件包。具体包括：计算不同取向变体的势能面以确定热力学稳定性",
+        "使用微动弹性带（NEB",
+        "Nudged Elastic Band）方法计算变体切换的最小能量路径和过渡态能垒",
+        "并弛豫了畴壁的原子结构计算其形成能"
+      ]
+    },
+    {
+      "citekey": "liMagnetoelectricDomainsCrossfield2008a",
+      "title": "The magnetoelectric domains and cross-field switching in multiferroic BiFeO3",
+      "year": "2008",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "liMonolayerPuckeredPentagonal2022",
+      "title": "Monolayer puckered pentagonal VTe2: An emergent two-dimensional ferromagnetic semiconductor with multiferroic coupling",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Lin1975electron",
+      "title": "Electron escape depth, surface composition, and charge transfer in tetrathiafulvalene tetracyanoquinodimethane (TTF-TCNQ) and related compounds: Photoemission studies",
+      "year": "1975",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Lin2024a",
+      "title": "Lattice dynamics of lithium anti-perovskite solid-state electrolytes Li3OX (X = Cl, Br): An insight into thermal management from first-principles study",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Lin2024b",
+      "title": "Strain effects on <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\"><mml:msub><mml:mtext>Li</mml:mtext><mml:mn>3</mml:mn></mml:msub><mml:mtext>OX</mml:mtext><mml:mspace width=\"0.25em\"/><mml:mfenced><mml:mrow><mml:mi mathvariant=\"normal\">X</mml:mi><mml:mo>=</mml:mo><mml:mtext>Cl</mml:mtext><mml:mo>,</mml:mo><mml:mtext>Br</mml:mtext></mml:mrow></mml:mfenced></mml:math> anti-perovskite solid lithium-ion electrolytes: DFT study",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Lin2024c",
+      "title": "Insight into the effect of strain on Li-ion diffusivity and conductivity in Li3OCl anti-perovskite solid-state electrolyte: A perspective from AIMD simulations",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Lindner2023polymerization",
+      "title": "Two-photon polymerization for random rough surface preparation",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "liPhaseTransitions2D2021",
+      "title": "Phase transitions in 2D materials",
+      "year": "2021",
+      "materials": [
+        "本文以2D材料中的相变行为为主要研究对象",
+        "重点分析了过渡金属硫族化物（如MoS2",
+        "MoTe2）中的2H-1T/1T‘多晶型相变",
+        "以及2D铁弹",
+        "铁电",
+        "铁磁材料中的铁性相变",
+        "并探讨了2D模板化扩散型相变在相变存储中的应用"
+      ],
+      "methods": [
+        "本文是一篇综述",
+        "综合运用了多种研究方法论。理论方面",
+        "包括基于密度泛函理论（DFT）的第一性原理计算",
+        "热力学和动力学分析",
+        "晶体场理论等。实验方面",
+        "涵盖了扫描隧道显微镜（STM）",
+        "原子力显微镜（AFM）",
+        "透射电子显微镜（TEM）",
+        "磁光克尔效应（MOKE）测量",
+        "静电栅压调控",
+        "激光诱导调控",
+        "化学气相沉积（CVD）生长等"
+      ]
+    },
+    {
+      "citekey": "Liu2022a",
+      "title": "Molecular dynamics simulations of the impurity effect on packing structures, local stresses, and thermodynamics of ih silver clusters",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Liu2023a",
+      "title": "Structural and thermodynamic behaviors of CumAgn (m + n =144-147) nanoalloys during cooling: Implications for nanoparticle structure control",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Liu2023b",
+      "title": "Molecular Dynamics Investigation of Hetero Coalescence between Two Ih Ag<sub>55</sub> and Cu<sub>55</sub> Clusters at Atomic Scale",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Liu2023c",
+      "title": "Coalescing Dynamics between Ag<sub>55</sub> and Cu<sub>55</sub> Clusters as Well as Thermodynamics during Cooling the Coalesced Clusters from Atomic Simulations",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Liu2024",
+      "title": "Insight into the effect of single vacancy on thermal stabilities and mechanical behaviors as well as locally loading states for ti matrixes: Implications from atomic modeling",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Liu2025",
+      "title": "Structural diagrams as well as thermodynamics behaviors of alloying Ti6Al nanoparticles: A perspective from atomic simulations",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+      "title": "Spintronics in Two-Dimensional Materials",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "loHomojunctionLeadtintellurideDiode1977",
+      "title": "Homojunction lead-tin-telluride diode lasers with increased frequency tuning range",
+      "year": "1977",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Lotey2013magnetoelectric",
+      "title": "Magnetoelectric coupling in multiferroic BiFeO3 nanowires",
+      "year": "2013",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Lu2004highly",
+      "title": "Highly efficient two-photon initiated polymerization in solvent by using a novel two-photon chromophore and co-initiators",
+      "year": "2004",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Lv2023humidity",
+      "title": "Humidity sensor based on optical fiber Bragg grating with high sensitivity and fast response",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "lvUnconventionalHystereticTransition2022",
+      "title": "Unconventional Hysteretic Transition in a Charge Density Wave",
+      "year": "2022",
+      "materials": [
+        "准二维层状电荷密度波材料EuTe₄",
+        "特别是其内部Te单层和Te双层中电荷密度波的相互作用及其在热循环下的非平衡行为"
+      ],
+      "methods": [
+        "结合了多种实验技术：",
+        "电输运测量（电阻率-温度曲线）",
+        "角分辨光电子能谱（ARPES，测量电子能带和能隙）",
+        "X射线衍射（XRD，测量电荷密度波波矢和强度）",
+        "X射线吸收近边结构（XANES，测量Eu离子价态）",
+        "电阻弛豫测量（研究老化行为）。通过多手段对比，系统性地排除了各种已知机制"
+      ]
+    },
+    {
+      "citekey": "Ma2009enhanced",
+      "title": "Enhanced multiferroic characteristics in NaNbO3-modified BiFeO3 ceramics",
+      "year": "2009",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Ma2011enhanced",
+      "title": "Enhanced polarization and magnetization in multiferroic (1-x)BiFeO3-xSrTiO3 solid solution",
+      "year": "2011",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Madalan2007copper",
+      "title": "Copper (II) and cobalt (II) complexes of chiral tetrathiafulvalene-oxazoline (TTF-OX) and tetrathiafulvalene-thiomethyl-oxazoline (TTF-SMe-OX) derivatives",
+      "year": "2007",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "majumdarInterplayChargeDensity2020",
+      "title": "Interplay of charge density wave and multiband superconductivity in layered quasi-two-dimensional materials: The case of  <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mn>2</mml:mn><mml:mi mathvariant=\"normal\">H</mml:mi><mml:mtext>−</mml:mtext><mml:mi>Nb</mml:mi><mml:msub><mml:mrow><mml:mi mathvariant=\"normal\">S</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msub></mml:math>  and  <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mn>2</mml:mn><mml:mi mathvariant=\"normal\">H</mml:mi><mml:mtext>−</mml:mtext><mml:mi>Nb</mml:mi><mml:msub><mml:mrow><mml:mi>Se</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msub></mml:math>",
+      "year": "2020",
+      "materials": [
+        "高质量2H-NbSe₂和2H-NbS₂单晶样品"
+      ],
+      "methods": [
+        "采用多手段互补的实验方案",
+        "包括磁光成像（MOI）",
+        "电输运（电阻率",
+        "霍尔效应）",
+        "比热",
+        "直流/交流磁化率",
+        "高压技术（金刚石对顶砧",
+        "最高25 GPa）",
+        "安德列夫反射谱（IMARE）和伦敦穿透深度测量",
+        "并辅以基于密度泛函理论的第一性原理计算"
+      ]
+    },
+    {
+      "citekey": "Makogon2012wave",
+      "title": "Spin-charge-density wave in a rounded-square Fermi surface for ultracold atoms",
+      "year": "2012",
+      "materials": [
+        "一个包含自旋-1/2费米子的二维光学晶格理论模型",
+        "该模型的特点是存在一个交错的塞曼场",
+        "导致其第三能带具有一个“类方圆形”的费米面"
+      ],
+      "methods": [
+        "解析推导和数值计算。具体包括：从原子-光场相互作用出发构建紧束缚模型哈密顿量；发展基于 $SO(3,",
+        "\\times SO(3,",
+        "$ 对称性的广义哈伯德-斯特拉托诺维奇变换和无规相近似理论；通过计算静态和动态广义磁化率来分析系统的稳定性与集体激发"
+      ]
+    },
+    {
+      "citekey": "MARTIN1996cheminform",
+      "title": "ChemInform Abstract: Semiconducting Charge Transfer Complexes from (60)Fullerene‐ Tetrathiafulvalene (C60‐TTF) Systems.",
+      "year": "1996",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Martin1999crystal",
+      "title": "Synthesis, crystal structure and properties of the semiconducting molecular charge‐transfer salt (bedt‐ttf)2Ge(C2O4)3ṡPhCN [bedt-ttf=bis(ethylenedithio)tetrathiafulvalene]",
+      "year": "1999",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "martinThinfilmFerroelectricMaterials2016",
+      "title": "Thin-film ferroelectric materials and their applications",
+      "year": "2016",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Martín1996semiconducting",
+      "title": "Semiconducting charge transfer complexes from [60]Fullerene-tetrathiafulvalene (C60-TTF) systems",
+      "year": "1996",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "MasTorrent2003new",
+      "title": "New Molecular Charge‐Transfer Salts of TM‐TTF and BMDT‐TTF with Thiocyanate and Selenocyanate Complex Anions [TMTTF = Tetramethyltetrathiafulvalene; BMDT‐TTF = Bis(methylenedithio)tetrathiafulvalene]",
+      "year": "2003",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "matsuiPreparationMechanismMechanoluminescence2001",
+      "title": "Preparation and Mechanism of Mechanoluminescence Materials with Spinel Structure",
+      "year": "2001",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Matsuzaki1992transition",
+      "title": "Pressure-induced neutral-ionic transition in a 2:1 charge transfer crystal of tetrathiafulvalene and iodanil, (TTF)2IA",
+      "year": "1992",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Matyáš1958the",
+      "title": "The susceptibility of lead telluride PbTe",
+      "year": "1958",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "McMillan1975landau",
+      "title": "Landau theory of charge-density waves in transition-metal dichalcogenides",
+      "year": "1975",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "McMillan1975laudau",
+      "title": "Time-dependent Laudau theory of charge-density waves in transition-metal dichalcogenides",
+      "year": "1975",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Meeruty2022mechanoluminescence",
+      "title": "Mechanoluminescence Sensor - An Exhaustive Review",
+      "year": "2012",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Mei2011thermodynamics",
+      "title": "Thermodynamics of multiferroic BiFeO3: Applications for the deposition of BiFeO3 thin films",
+      "year": "2011",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Miah2012optical",
+      "title": "Optical sensor protector using wide-bandgap semiconductors",
+      "year": "2012",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "miaoMagneticFerroelectricMetal2024",
+      "title": "Magnetic ferroelectric metal in bilayer Fe3GeTe2 under interlayer sliding",
+      "year": "2024",
+      "materials": [
+        "双层Fe₃GeTe₂ (FGT) 在特定层间滑移操作下的稳定构型（State-1 (1/3, 1/",
+        "和 State-2 (-1/3, -1/",
+        "）"
+      ],
+      "methods": [
+        "基于密度泛函理论 (DFT) 的第一性原理计算",
+        "包括结构弛豫",
+        "能量计算",
+        "Bader电荷分析",
+        "NEB方法计算极化翻转势垒",
+        "以及电子结构（能带",
+        "态密度）分析"
+      ]
+    },
+    {
+      "citekey": "Milyutin2025wireless",
+      "title": "Temperature–humidity wireless sensor powered by a wide-bandgap perovskite solar cell",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Mińkowski2021cation",
+      "title": "Cation interstitial diffusion in lead telluride and cadmium telluride studied by means of neural network potential based molecular dynamics simulations",
+      "year": "2021",
+      "materials": [
+        "本征阳离子间隙原子",
+        "即位于PbTe晶格间隙中的一个额外Pb原子",
+        "以及位于CdTe晶格间隙中的一个额外Cd原子。研究其在各自体材料构成的4×4×4超胞（共512个晶格原子+1个间隙原子）中的扩散行为"
+      ],
+      "methods": [
+        "采用基于**神经网络势**（NNP）的**分子动力学**（MD）模拟。首先",
+        "通过**密度泛函理论**（DFT）计算生成大量原子构型的能量和受力数据作为“参考数据”",
+        "然后",
+        "利用这些数据训练高维神经网络",
+        "构建能够精确复现DFT势能面的NNP力场",
+        "最后",
+        "将训练好的NNP作为力场",
+        "在LAMMPS中进行长时间（纳秒级）MD模拟",
+        "从模拟轨迹中提取均方位移（MSD）来计算扩散系数",
+        "并通过分析原子位移细节来识别微观扩散机制"
+      ]
+    },
+    {
+      "citekey": "Mohan2023highly",
+      "title": "Highly Sensitive GO-ZnO Nanocomposite-Based Optical Fiber Relative Humidity Sensor",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "MohdNoor2012optical",
+      "title": "Optical relative humidity sensor based on a hollow core-photonic bandgap fiber",
+      "year": "2012",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Mollmann1988additional",
+      "title": "Additional deep level in strongly indium-doped lead tin telluride",
+      "year": "1988",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "monkhorstSpecialPointsBrillouinzone1976",
+      "title": "Special points for Brillouin-zone integrations",
+      "year": "1976",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+      "title": "Multiferroics: different routes to magnetoelectric coupling",
+      "year": "2024",
+      "materials": [
+        "本文的研究对象是一类称为“多铁性材料”的功能氧化物",
+        "主要分为两类：第II类多铁性",
+        "如正交结构稀土锰氧化物（RMnO₃）",
+        "六角铁氧体（Hexaferrites）",
+        "范德华二卤化物（NiI₂）",
+        "第I类多铁性",
+        "如铁酸铋（BiFeO₃）",
+        "杂化非本征铁电体（如Ca₃Mn₂O₇）。此外",
+        "还研究了多铁性中的元激发和拓扑缺陷",
+        "如电磁子（Electromagnon）和磁斯格明子（Magnetic Skyrmion）"
+      ],
+      "methods": [
+        "作者采用理论凝聚态物理的经典范式：",
+        "对称性分析：基于朗道相变理论，构建自由能泛函，分析不同序参量在空间和时间反演下的对称性，从而唯象地推导出允许的磁电耦合项",
+        "微观模型构建：从自旋哈密顿量（Heisenberg, DM, 单离子各向异性）出发，将其对电场求导，建立电极化与自旋关联的微观表达式",
+        "机制对比与归纳：将不同材料体系的表现归因于对称交换伸缩、逆DM相互作用等少数几种核心微观机制，构建统一理论框架"
+      ]
+    },
+    {
+      "citekey": "Moura2024theory",
+      "title": "McMillan-Ginzburg-Landau theory of singularities and discommensurations in charge density wave states of transition metal dichalcogenides",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "MuellerWesterhoff1980smectic",
+      "title": "Smectic and nematic derivatives of tetrathiafulvalene (TTF) and their charge transfer complexes with mesomorphic dithienes",
+      "year": "1980",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Mukherjee2015enhanced",
+      "title": "Enhanced multiferroic properties of Y and Mn codoped multiferroic BiFeO3 nanoparticles",
+      "year": "2015",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Mulugeta2015tin",
+      "title": "Tin content effect on the structural and energetic properties of lead telluride clusters",
+      "year": "2015",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Möllmann1985impurity",
+      "title": "Impurity Photoconductivity of Indium Doped Lead Tin Telluride",
+      "year": "1985",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "nagaosaMicroscopicTheoryRaman1984",
+      "title": "Microscopic theory of the Raman and infrared spectra of transition-metal dichalcogenides in the charge-density-wave state",
+      "year": "1999",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "naguib25thAnniversaryArticle2013a",
+      "title": "25th Anniversary Article: MXenes: A New Family of Two‐Dimensional Materials",
+      "year": "2014",
+      "materials": [
+        "一个名为“MXenes”的新的二维材料家族",
+        "特指通式为Mn+1XnTx的早期过渡金属碳化物和碳氮化物",
+        "如Ti₃C₂Tx",
+        "Ti₂CTx",
+        "Nb₂CTx等。T代表表面功能基团（如OH",
+        "O",
+        "F）"
+      ],
+      "methods": [
+        "选择性化学刻蚀法（使用HF水溶液在室温下从MAX相中刻蚀Al层）",
+        "多层材料插层与大规模液相分层法（如使用DMSO插层后超声处理）",
+        "密度泛函理论（DFT）计算（用于预测和解释结构",
+        "电子性质",
+        "力学性能）",
+        "关键表征工具包括X射线衍射（XRD）",
+        "扫描电子显微镜（SEM）",
+        "透射电子显微镜（TEM）及其选区电子衍射（SAED）",
+        "X射线光电子能谱（XPS）等"
+      ]
+    },
+    {
+      "citekey": "nahasFrustrationSelfOrderingTopological2016",
+      "title": "Frustration and Self-Ordering of Topological Defects in Ferroelectrics",
+      "year": "2016",
+      "materials": [
+        "一个由4根钛酸钡(BaTiO₃, BTO)纳米线以正方形阵列嵌入钛酸锶钡(Ba",
+        "15Sr",
+        "85TiO₃, BST)基质中的三维周期性纳米复合材料"
+      ],
+      "methods": [
+        "基于第一性原理的有效哈密顿量方法(First-principles-based Effective Hamiltonian)和蒙特卡洛模拟(Monte Carlo Simulations)。具体通过计算极化矢量场",
+        "拓扑电荷",
+        "介电常数",
+        "自相关函数等来分析系统的静态和动态性质"
+      ]
+    },
+    {
+      "citekey": "Nakanishi2009full",
+      "title": "Full Quantum Analysis of Two-Photon Absorption Using Two-Photon Wave Function: Comparison of Two-Photon Absorption with One-Photon Absorption",
+      "year": "2009",
+      "materials": [
+        "三能级原子与由光子对构成的光束的相互作用。主要研究并对比了两种典型的光子对：一种是由高斯型双光子波函数描述的光子对",
+        "另一种是由矩形（Rectangular）双光子波函数描述的光子对",
+        "后者可通过Type-II SPDC和群速度补偿产生"
+      ],
+      "methods": [
+        "全量子理论建模与解析分析。首先，定义了连续模式下的电场算符。其次，应用一阶和二阶含时微扰理论，推导出单光子吸收概率（P1）和双光子吸收概率（P2）的普适公式，并引入了双光子波函数（ψ(t1,t",
+        "）和时序双光子波函数（ψ(t1,t",
+        "θ(t2-t",
+        "）作为核心描述工具。最后，将高斯和矩形波函数的具体形式代入公式，进行解析计算和比较分析"
+      ]
+    },
+    {
+      "citekey": "nakataRobustChargedensityWave2021",
+      "title": "Robust charge-density wave strengthened by electron correlations in monolayer 1T-TaSe2 and 1T-NbSe2",
+      "year": "2021",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "neumayerCompetingPolarPhases2025",
+      "title": "Competing polar phases in 2D ferroelectric transition metal thio- and selenophosphates",
+      "year": "2025",
+      "materials": [
+        "过渡金属硫/硒磷酸盐(TMTPs)家族",
+        "特别是其典型代表CuInP₂S₆(CIPS)和CuInP₂Se₆(CIPSe)。重点研究其内部能量上接近的多种极性相",
+        "包括层内铁电相",
+        "层间铁电相",
+        "反铁电相以及它们之间的相互转换"
+      ],
+      "methods": [
+        "本文为观点文章",
+        "综述了领域内多种研究方法。核心是理论预测与实验表征相结合",
+        "具体包括：第一性原理密度泛函理论(DFT)计算预测相结构与能量",
+        "利用压电力显微镜(PFM)在纳米尺度成像和操控不同极性相",
+        "结合宏观电滞回线测量",
+        "拉曼光谱",
+        "X射线衍射(XRD)以及扫描透射电子显微镜(STEM)进行辅助论证"
+      ]
+    },
+    {
+      "citekey": "Ngai1981ionicity",
+      "title": "Ionicity and charge density waves in layered transition-metal dichalcogenides",
+      "year": "1981",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Nguyen2017polymerization",
+      "title": "Two-photon polymerization for biological applications",
+      "year": "2017",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "nicholsonUniaxialStraininducedPhase2021",
+      "title": "Uniaxial strain-induced phase transition in the 2D topological semimetal IrTe2",
+      "year": "2021",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "niuDirectVisualizationLargeScale2021",
+      "title": "Direct Visualization of Large‐Scale Intrinsic Atomic Lattice Structure and Its Collective Anisotropy in Air‐Sensitive Monolayer 1T’‐ WTe<sub>2</sub>",
+      "year": "2021",
+      "materials": [
+        "通过化学气相沉积（CVD）法生长的空气敏感型单层1T’-WTe₂"
+      ],
+      "methods": [
+        "构建了一套集CVD生长",
+        "湿法转移",
+        "STEM/TEM表征于一体的全流程惰性气体保护互联系统",
+        "结合原子分辨率HAADF-STEM成像",
+        "双轴倾转电子衍射（DP）和密度泛函理论（DFT）计算"
+      ]
+    },
+    {
+      "citekey": "Noffsinger2008study",
+      "title": "First-principles study of superconductivity and Fermi-surface nesting in ultrahard transition metal carbides",
+      "year": "2008",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Noor2013optic",
+      "title": "All-Fiber Optic Humidity Sensor Based on Photonic Bandgap Fiber and Digital WMS Detection",
+      "year": "2013",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Northrop1971thermogravimetric",
+      "title": "Thermogravimetric investigation of the vaporization of lead telluride, tin telluride, and germanium telluride",
+      "year": "1971",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "noseUnifiedFormulationConstant1984",
+      "title": "A unified formulation of the constant temperature molecular dynamics methods",
+      "year": "1984",
+      "materials": [
+        "三种恒温分子动力学方法：Nosé的扩展系统方法（ES）",
+        "Hoover等提出的约束方法（HLME方法）",
+        "Haile和Gupta的动量标度方法（HG方法）。同时将分析扩展至恒温-恒压系综"
+      ],
+      "methods": [
+        "基于哈密顿力学和统计力学",
+        "通过定义扩展系统的哈密顿量",
+        "导出配分函数",
+        "然后利用变量变换（虚拟变量与实变量）和δ函数积分",
+        "解析求解物理系统的约化平衡分布函数",
+        "并与正则系综的标准分布进行比较。分析方法包括微正则系综假设",
+        "δ函数性质",
+        "积分变换等"
+      ]
+    },
+    {
+      "citekey": "orelF176EffectCertain1995",
+      "title": "F176. The effect of certain biogenic amines on mechanoluminescence and peroxidation in canine blood",
+      "year": "1995",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Owji20212d",
+      "title": "2D materials coated on etched optical fibers as humidity sensor",
+      "year": "2021",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "pacchioniDesignStrategy2D2022",
+      "title": "A design strategy for 2D multiferroics",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Pantel2012reversible",
+      "title": "Reversible electrical switching of spin polarization in multiferroic tunnel junctions",
+      "year": "2012",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Partin1983growth",
+      "title": "Growth and characterization of lead-tin-ytterbium-telluride for diode lasers",
+      "year": "1983",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Partin1987lead",
+      "title": "Lead strontium telluride and lead barium telluride grown by molecular-beam epitaxy",
+      "year": "1987",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "PChandra2011mechanoluminescence",
+      "title": "Mechanoluminescence of Nanoparticles",
+      "year": "2011",
+      "materials": [
+        "通过物理气相沉积或超声喷雾热解等方法制备的ZnS:Mn（锰掺杂硫化锌）纳米薄膜和SrAl₂O₄:Eu（铕掺杂铝酸锶）纳米粒子"
+      ],
+      "methods": [
+        "采用材料试验机进行恒定速率压缩",
+        "落球冲击和旋转杆摩擦三种方式施加力学刺激。通过光子计数系统和光子多通道分析仪测量发光强度(ML Intensity",
+        "a.u.)与光谱",
+        "并与应力-应变数据进行同步记录"
+      ]
+    },
+    {
+      "citekey": "pedramraziManipulatingTopologicalDomain2019",
+      "title": "Manipulating Topological Domain Boundaries in the Single-Layer Quantum Spin Hall Insulator 1T′–WSe<sub>2</sub>",
+      "year": "2019",
+      "materials": [
+        "单层1T'-WSe2中",
+        "通过扫描隧道显微镜针尖脉冲方法创建的三种不同取向的拓扑平庸1T'/1T'畴界（120°",
+        "60°",
+        "0°）",
+        "以及作为对比的拓扑非平庸1T'/1H界面"
+      ],
+      "methods": [
+        "实验上，利用分子束外延生长样品，并通过扫描隧道显微镜针尖脉冲进行局部结构相操控，结合扫描隧道显微镜形貌像和扫描隧道谱表征畴界的原子结构与局域电子态密度",
+        "理论上，通过密度泛函理论弛豫原子结构，并采用非平衡格林函数方法计算畴界的能带结构、自旋极化和局域态密度"
+      ]
+    },
+    {
+      "citekey": "pengStrainEngineering2D2020",
+      "title": "Strain engineering of 2D semiconductors and graphene: from strain fields to band-structure tuning and photonic applications",
+      "year": "2020",
+      "materials": [
+        "二维过渡金属硫族化物（2D TMDCs",
+        "以MoS2",
+        "WSe2",
+        "MoTe2等为代表）和石墨烯（Graphene）。重点关注其**激子（Exciton）发光",
+        "拉曼（Raman）散射",
+        "二次谐波（Second-harmonic generation",
+        "SHG）**等光学性质"
+      ],
+      "methods": [
+        "综述。系统整合了**第一性原理计算（DFT）",
+        "紧束缚模型（Tight-binding model）",
+        "k·p理论**等理论方法",
+        "以及**光致发光（PL）",
+        "吸收（Absorption）",
+        "拉曼（Raman）",
+        "二次谐波（SHG）光谱**和**原子力显微镜（AFM）**等实验表征技术",
+        "并结合多种应变加载技术（如基底弯曲",
+        "压电驱动",
+        "纳米结构支撑）进行研究"
+      ]
+    },
+    {
+      "citekey": "perdewGeneralizedGradientApproximation1996a",
+      "title": "Generalized Gradient Approximation Made Simple",
+      "year": "1996",
+      "materials": [
+        "简化的广义梯度近似(GGA)泛函",
+        "即PBE泛函。具体包括其交换能和关联能的梯度修正项",
+        "以及描述其非局域性的增强因子FXC"
+      ],
+      "methods": [
+        "理论推导与数值验证相结合。理论推导：从几个关键的物理极限条件（如缓慢变化",
+        "快速变化",
+        "高密度标度",
+        "线性响应等）出发",
+        "构建解析函数。数值验证：计算并对比PBE与PW91的增强因子FXC(nonlocality)",
+        "并计算一系列小分子的原子化能",
+        "与PW91",
+        "LSD",
+        "UHF和实验值进行对比",
+        "以评估其精度"
+      ]
+    },
+    {
+      "citekey": "Perugu2024morphology",
+      "title": "Synthesis, Structural, Morphology and Magnetic Properties: Effect of La on Multiferroic Nature of BiFeO3 Nanoparticles",
+      "year": "2024",
+      "materials": [
+        "采用水热法合成的Bi₁₋ₓLaₓFeO₃（x =",
+        "2,",
+        "4,",
+        "6,",
+        "8）系列纳米颗粒，简称BLFO纳米颗粒"
+      ],
+      "methods": [
+        "采用水热法制备样品",
+        "利用X射线衍射（XRD）进行物相和结构分析",
+        "通过场发射扫描电镜（FESEM）和透射电镜（TEM）进行形貌和颗粒尺寸分析",
+        "利用阻抗分析仪（LCR Controller）测试介电及电导性能",
+        "使用振动样品磁强计（VSM）和P-E回路测试仪研究磁性和铁电性"
+      ]
+    },
+    {
+      "citekey": "Petkov2020hierarchy",
+      "title": "Hierarchy among the crystal lattice, charge density wave, and superconducting orders in transition metal dichalcogenides",
+      "year": "2020",
+      "materials": [
+        "一系列多晶 **TaSe₂₋ₓTex** (x = 0,",
+        "2,",
+        "66, 1,",
+        "66,",
+        "固溶体。该体系端元分别为2H-TaSe₂和1T'-TaTe₂，二者晶格结构、原子尺寸和电负性差异显著，使得固溶体的晶格结构对成分变化极为敏感，是研究晶格-电子序关系的理想模型体系"
+      ],
+      "methods": [
+        "结合**高能同步辐射X射线衍射（XRD）**",
+        "**原子对分布函数（PDF）**分析",
+        "以及**共振X射线散射**技术获取的**Ta-差分PDF**",
+        "在多个温度下获取样品的平均和局部结构信息。利用**反向蒙特卡洛（RMC）**计算机模拟",
+        "构建包含约8-9万个原子的大规模三维结构模型",
+        "对实验PDF数据进行精修",
+        "从而在原子尺度上解析晶格结构",
+        "畸变和周期性。磁化率测量用于确定CDW和SC的转变温度"
+      ]
+    },
+    {
+      "citekey": "petkovStructureIntercalatedCs2002",
+      "title": "Structure of Intercalated Cs in Zeolite ITQ-4: An Array of Metal Ions and Correlated Electrons Confined in a Pseudo-1D Nanoporous Host",
+      "year": "2002",
+      "materials": [
+        "室温下稳定存在的无机电子化合物CsxSi₃₂O₆₄（x =",
+        "6,",
+        "6），及其纯净的沸石宿主基质ITQ-4，Si₃₂O₆₄"
+      ],
+      "methods": [
+        "原子对分布函数技术。获取高能同步辐射X射线粉末衍射数据",
+        "将其处理为结构函数S(Q)",
+        "再通过傅里叶变换得到总PDF",
+        "G(r)。通过对比不同铯含量样品的总PDF",
+        "并计算差分PDF",
+        "化学特异性地提取出铯物种的局域结构信息。通过构建多种可能的结构模型",
+        "计算其理论PDF",
+        "并与实验PDF进行拟合",
+        "以确定最优结构模型"
+      ]
+    },
+    {
+      "citekey": "petrenkoNatureGalliumDeep2010a",
+      "title": "Nature of gallium deep centres in lead telluride based semiconductors",
+      "year": "2010",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Posch1988optical",
+      "title": "Optical sensors, 13: fibre-optic humidity sensor based on fluorescence quenching",
+      "year": "1988",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Prakash2023impact",
+      "title": "Impact of crystallinity on coexistence of negative differential resistance (NDR) and write once read many (WORM) resistive switching memory in multiferroic BiFeO3 (BFO)",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "prosandeevKittelLawInBiFeO3Ultrathin2010",
+      "title": "Kittel Law in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msub><mml:mi>BiFeO</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:math>Ultrathin Films: A First-Principles-Based Study",
+      "year": "2010",
+      "materials": [
+        "在(",
+        "0",
+        "0",
+        "衬底上外延生长、受到",
+        "5%压应变、处于开路电学边界条件下的BFO超薄膜中，由条带状71°铁电畴构成的畴结构"
+      ],
+      "methods": [
+        "基于第一性原理的有效哈密顿量方法（Effective Hamiltonian Method）结合蒙特卡洛（Monte Carlo）模拟。通过构建包含铁电",
+        "反铁畸变",
+        "应变和磁矩自由度的简化能量表达式",
+        "模拟超晶胞体系",
+        "并独创性地采用实空间逐点能量分解方法来分析各项物理相互作用的贡献"
+      ]
+    },
+    {
+      "citekey": "Pugazhendhi2024synthesis",
+      "title": "Synthesis and annealing effect of structural, morphology, optical, and magnetic properties of tin telluride (SnTe)",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Qiu2019intense",
+      "title": "Intense piezoluminescence in LiTaO3 phosphors doped with Pr3+ ions",
+      "year": "2019",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "rameshMultiferroicsProgressProspects2007",
+      "title": "Multiferroics: progress and prospects in thin films",
+      "year": "2007",
+      "materials": [
+        "研究的核心是多铁性薄膜材料，具体分为三类模型架构：",
+        "单相多铁薄膜，以BiFeO₃和YMnO₃为代表",
+        "由铁电/磁性层交替堆叠形成的水平异质结构",
+        "由磁性纳米柱垂直嵌入铁电基体形成的垂直异质纳米结构"
+      ],
+      "methods": [
+        "薄膜生长技术：如脉冲激光沉积（PLD）、分子束外延（MBE）等，用于精准构建三种薄膜架构",
+        "第一性原理计算：用于预测新材料、解释应变效应和揭示耦合机制",
+        "先进表征技术：包括X射线磁圆二色性-光电子发射显微镜（XMCD-PEEM）、磁力显微镜（MFM）、磁光克尔效应测量（MOKE）等，用于在纳米尺度直接观测磁/铁电畴结构及其耦合"
+      ]
+    },
+    {
+      "citekey": "Rana2007visualization",
+      "title": "Visualization of photoassisted polarization switching and its consequences in BiFeO3 thin films probed by terahertz radiation",
+      "year": "2007",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Rashid2001new",
+      "title": "New superconducting charge-transfer salts (BEDT-TTF)4[A·M(C2O4)3]·C6H5NO2 (A = H3O or NH4, M = Cr or Fe, BEDT-TTF = bis(ethylenedithio)tetrathiafulvalene)",
+      "year": "2001",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "RecentAdvancesGrowth2025",
+      "title": "Recent advances in growth, characterization, and application of two-dimensional multiferroic materials",
+      "year": "2025",
+      "materials": [
+        "本综述的主要研究对象是**二维多铁性材料**",
+        "特别是具有铁磁-铁电（FM-FE）和铁磁-铁弹性（FM-FA）耦合的材料体系。重点剖析了II型多铁材料",
+        "如单层或少层的NiI₂",
+        "Cr₂S₃",
+        "CuCrSe₂等",
+        "同时也涵盖了通过掺杂（如p型SnSe）或构建异质结（如CrI₃/In₂Se₃）实现多铁性的材料",
+        "以及理论预测的多种候选材料（如各类过渡金属卤化物",
+        "硫族化合物）"
+      ],
+      "methods": [
+        "文章综述了该领域的研究方法，分为两大类别：",
+        "**材料生长方法**：集中讨论了自下而上的气相沉积技术，包括化学气相沉积（CVD）、物理气相沉积（PVD）、分子束外延（MBE）和原子层沉积（ALD），并对比了它们的优缺点",
+        "**表征与建模工具**：详细介绍了用于探测多铁序及其耦合的先进技术，包括：扫描隧道显微镜（STM）、二次谐波产生（SHG）、拉曼光谱、双折射测量、透射电子显微镜（TEM）、电子能量损失谱（EELS）、太赫兹反射光谱、X射线衍射（XRD）、中子散射和原子力显微镜（AFM）等"
+      ]
+    },
+    {
+      "citekey": "Reinheimer2009synthesis",
+      "title": "Synthesis and structure of charge transfer salts of tetrathiafulvalene (TTF) and tetramethyl-TTF with 2,4,7-trinitro and 2,4,5,7-tetranitro-9-fluorenone",
+      "year": "2009",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Reynolds1997piezoluminescence",
+      "title": "Piezoluminescence from a ferroelectric polymer and quartz",
+      "year": "1997",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Reynolds2000mechanoluminescence",
+      "title": "Mechanoluminescence of plastic scintillation counters",
+      "year": "2000",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Rolls1970preparation",
+      "title": "Preparation and properties of lead-tin telluride photodiodes",
+      "year": "1970",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Rolls1970telluride",
+      "title": "Lead-tin telluride phetovoltaic detectors for the 8–14μm atmospheric window",
+      "year": "1970",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Rosman1982lifetime",
+      "title": "Lifetime calculations for Auger recombination in lead-tin-telluride",
+      "year": "1982",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Rossnagel2011on",
+      "title": "On the origin of charge-density waves in select layered transition-metal dichalcogenides",
+      "year": "2011",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Ryu2009polarization",
+      "title": "Polarization switching characteristics of BiFeO3 thin films epitaxially grown on Pt/MgO at a low temperature",
+      "year": "2009",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Sadaoka1991optical",
+      "title": "Optical Humidity Sensor Using Nafion-Dye Composite Thin Films",
+      "year": "1991",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Sadaoka1992optical",
+      "title": "Optical Humidity Sensor Using Reichardt’s Betain Dye-Polymer Composites",
+      "year": "1992",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Sakuraba2004mechanoluminescence",
+      "title": "Mechanoluminescence Phenomenon of Niobates",
+      "year": "2004",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Sandre2001surface",
+      "title": "<i>Ab Initio</i> Fermi Surface Calculation for Charge-Density Wave Instability in Transition Metal Oxide Bronzes",
+      "year": "2001",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "sattarFunctionalizedDoubleTransition2025",
+      "title": "Functionalized double transition metal Mo2Ti2C3Tx ferroelectric MXene and laser-reduced graphene based flexible memristors for next-generation two-dimensional ferrotronics",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Scremin2018nonlinear",
+      "title": "Nonlinear absorption of tetrathiafulvalene radical cation (TTF+) based charge transfer (CT) aggregates in PMMA",
+      "year": "2018",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Serbin2006superprism",
+      "title": "Superprism phenomena in waveguide-coupled woodpile structures fabricated by two-photon polymerization",
+      "year": "2006",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Sgibnev2023relative",
+      "title": "Relative Humidity Optical Sensor Based on Self-Assembled Gold Nanoparticles Covered with Nafion",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Shafer2007planar",
+      "title": "Planar electrode piezoelectric force microscopy to study electric polarization switching in BiFeO3",
+      "year": "2007",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Shao2022humidity",
+      "title": "In-fiber humidity sensor based on Black Phosphorus-Polyvinyl alcohol",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Sharma2020on",
+      "title": "On the role of different 2D materials/heterostructures in fiber-optic SPR humidity sensor in visible spectral region",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "sharmaRoomtemperatureFerroelectricSemimetal2019",
+      "title": "A room-temperature ferroelectric semimetal",
+      "year": "2019",
+      "materials": [
+        "块体范德华晶体二碲化钨（WTe₂）",
+        "一种具有正交Td相结构（极性空间群Pmn21）的过渡金属硫族化合物（TMDC）",
+        "同时也是II型外尔半金属"
+      ],
+      "methods": [
+        "综合运用了**电输运测量**（确认金属性和半金属基态）",
+        "**压电力显微镜（PFM）**（纳米尺度探测铁电畴和极化翻转）以及**第一性原理密度泛函理论计算（DFT）**（揭示铁电性起源与翻转机理）。实验中通过构建电容器结构来解决金属中极化翻转的难题"
+      ]
+    },
+    {
+      "citekey": "Shen2008joint",
+      "title": "Joint density of states and charge density wave in 2H-structured transition metal dichalcogenides",
+      "year": "2008",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "shenEmergenceMultipleFerroelectric2025",
+      "title": "Emergence of multiple ferroelectric states in multilayer black phosphorus",
+      "year": "2025",
+      "materials": [
+        "多层黑磷（Black Phosphorus",
+        "BP）",
+        "重点关注其从三层（trilayer）到四层（tetralayer）以及八层厚板（slab）的堆叠构型与铁电性质"
+      ],
+      "methods": [
+        "基于密度泛函理论（DFT）的第一性原理计算。使用VASP软件",
+        "结合GGA-PBE和HSE06杂化泛函进行电子结构计算",
+        "采用OptB88-vdW描述范德华力",
+        "使用Berry相位法计算极化强度",
+        "并利用CI-NEB方法搜寻极化翻转的最低能量路径"
+      ]
+    },
+    {
+      "citekey": "Shiba2020optical",
+      "title": "Humidity-Resistive Optical NO Gas Sensor Devices Based on Cobalt Tetraphenylporphyrin Dispersed in Hydrophobic Polymer Matrix",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Shin2022ferroelectric",
+      "title": "Ferroelectric switching and current characteristics dependence on ferroelectric polarization direction of microwave synthesized BiFeO3 nanocubes",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+      "title": "Implementation and performance of the frequency-dependent<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi>G</mml:mi><mml:mi>W</mml:mi></mml:mrow></mml:math>method within the PAW framework",
+      "year": "2006",
+      "materials": [
+        "完全频率依赖的G₀W₀计算方法在PAW框架下的实现细节",
+        "算法效率及其在代表性半导体材料（sp材料：Si",
+        "含d电子材料：GaAs和CdS）中的准粒子能量计算性能"
+      ],
+      "methods": [
+        "理论推导与计算模拟。在PAW框架下",
+        "采用谱表示法和希尔伯特（Kramers-Kronig）变换来高效计算频率依赖的极化率和自能",
+        "对PAW球内单中心项采用Hartree-Fock近似",
+        "通过构建不同核心半径和价态配置的PAW势",
+        "系统性地测试和比较G₀W₀计算结果的收敛性",
+        "并与全电子及赝势方法对标"
+      ]
+    },
+    {
+      "citekey": "Shukla2025mechanoluminescence",
+      "title": "Mechanoluminescence and Its Recent Applications",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Shukla2025phase",
+      "title": "Phase dependent mechanoluminescence in ZnS:Mn: from zinc blende to wurtzite",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "shuTwoDimensionalBlackArsenic2020",
+      "title": "Two-Dimensional Black Arsenic Phosphorus for Ultrafast Photonics in Near- and Mid-Infrared Regimes",
+      "year": "2020",
+      "materials": [
+        "通过液相剥离法（LPE）制备的二维黑砷磷（b-AsP）纳米片及其作为可饱和吸收体（SA）在光纤激光器中的应用"
+      ],
+      "methods": [
+        "采用液相剥离法（LPE）制备材料",
+        "使用紫外-可见-红外光谱仪（UV-vis-IR）和Z扫描技术表征其宽带线性与非线性光学吸收",
+        "通过密度泛函理论（DFT）计算能带结构和电荷密度分布来解释物理机制",
+        "将材料集成于光纤激光器（掺铒和掺铥）中验证其产生超短脉冲的性能"
+      ]
+    },
+    {
+      "citekey": "Song2010polarization",
+      "title": "Polarization Switching Behaviors in Multiferroic BiFeO3(001) Thin Film Capacitors under In-Plane Magnetic Field",
+      "year": "2010",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Song2022derivatives",
+      "title": "Multi-stimuli-responsive aryl-sulfone derivatives with room-temperature phosphorescence and mechanoluminescence properties",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "songEvidenceSinglelayerVan2022",
+      "title": "Evidence for a single-layer van der Waals multiferroic",
+      "year": "2022",
+      "materials": [
+        "通过物理气相沉积法生长的",
+        "具有原子级平整度的块材",
+        "少层（2-4层）及单层二碘化镍晶体"
+      ],
+      "methods": [
+        "采用一套互补的非侵入式光学表征技术组合，包括：",
+        "光学双折射和偏振旋转测量，用于探测晶格旋转对称性破缺（C3→C2）",
+        "二次谐波产生，用于探测空间反演对称性破缺及极性序",
+        "圆偏振拉曼光谱，用于探测磁手性序和电磁振子。同时，结合第一性原理计算和蒙特卡洛模拟，揭示层间交换作用和磁电耦合的微观机制"
+      ]
+    },
+    {
+      "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+      "title": "Advances in magnetoelectric multiferroics",
+      "year": "2019",
+      "materials": [
+        "文章以磁电多铁性材料为研究对象",
+        "全面覆盖了从单相材料（如BiFeO₃",
+        "稀土锰酸盐）到纳米复合材料（如超晶格",
+        "垂直纳米柱）的各种体系。特别地",
+        "对旗舰材料BiFeO₃以及多铁性材料中新兴的活性单元——畴壁（Domain Walls）进行了深入剖析"
+      ],
+      "methods": [
+        "文章是一篇综述",
+        "其研究方法是对已有文献的系统性梳理与评述。它整合了理论计算与实验表征两大维度的进展。理论方法包括第一性原理计算（DFT）",
+        "第二性原理计算（有效哈密顿量）",
+        "朗道-金兹堡理论等",
+        "实验方法包括各种扫描探针显微镜（PFM",
+        "MFM）",
+        "超快光谱",
+        "太赫兹技术",
+        "像差校正电子显微镜和同步辐射X射线衍射等"
+      ]
+    },
+    {
+      "citekey": "spaldinRenaissanceMagnetoelectricMultiferroics2005",
+      "title": "The Renaissance of Magnetoelectric Multiferroics",
+      "year": "2005",
+      "materials": [
+        "单相磁电多铁性材料，特别是以 HoMnO₃ 为代表的、具有非传统铁电机制（如几何铁电性）的氧化物",
+        "两相复合磁电多铁性材料，由铁电体（如 PZT）和铁磁体（如 Terfenol-D）通过界面弹性耦合构成"
+      ],
+      "methods": [
+        "理论分析：通过电子结构计算，分析传统铁电、铁磁机制的互斥性，并提出新机制",
+        "实验测量：观测磁场诱导的铁电相变、电场诱导的磁性变化，以及磁电记忆效应",
+        "畴观测技术：开发能同时观测磁畴和电畴的光学技术，以研究耦合机制",
+        "材料制备：采用薄膜生长技术制备单相和复合材料，尤其是自组织纳米复合材料"
+      ]
+    },
+    {
+      "citekey": "sreenivasanHumidityEstimationUsing2009",
+      "title": "Humidity estimation using neural network and optical fiber sensor",
+      "year": "2009",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Srinivasan1989lead",
+      "title": "MBE-Grown Lead Tin Telluride Infrared Devices",
+      "year": "2012",
+      "materials": [
+        "采用MBE技术在KCl(",
+        "1",
+        "0",
+        "衬底上生长的Pb₀.₈₂Sn₀.₁₈Te单晶薄膜，以及由其构成的干涉带通滤波器和光电导探测器"
+      ],
+      "methods": [
+        "采用MBE技术生长薄膜",
+        "基于法布里-珀罗干涉仪模型设计滤波器",
+        "用分光光度计测量透射谱",
+        "基于光电导理论设计探测器",
+        "通过黑体辐射源和电路系统测量其响应度",
+        "噪声和探测率"
+      ]
+    },
+    {
+      "citekey": "Srinivasan2005performance",
+      "title": "Performance optimized optical fiber sensor for humidity measurement",
+      "year": "2005",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Stoeffler2012first",
+      "title": "First principles study of the electric polarization and of its switching in the multiferroic GaFeO<sub>3</sub>system",
+      "year": "2012",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Sufyan2019magnetically",
+      "title": "Magnetically driven robust polarization in (1 − x)BiFeO3–xPbTiO3 multiferroic composites",
+      "year": "2019",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Sugai1983generalized",
+      "title": "Generalized electronic susceptibility and charge density waves in transition metal dichalcogenides",
+      "year": "1983",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Sugai1985lattice",
+      "title": "Lattice Vibrations in the Charge‐Density‐Wave States of Layered Transition Metal Dichalcogenides",
+      "year": "1985",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Sun2024tunable",
+      "title": "Tunable trimeric charge density wave phase with multiferroicity in the two-dimensional transition metal dichalcogenides",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+      "title": "Sliding ferroelectricity in two-dimensional materials and device applications",
+      "year": "2025",
+      "materials": [
+        "本文的研究对象是二维范德华材料中涌现的滑动铁电性及其器件应用。涵盖了石墨烯",
+        "六方氮化硼（h-BN）",
+        "过渡金属硫族化合物（TMDs",
+        "如MoS₂",
+        "WSe₂）",
+        "MX（如GeSe",
+        "GaSe）",
+        "InSe等多种材料体系",
+        "探讨了它们通过3R相堆叠",
+        "构建扭转角和莫尔超晶格等方式产生滑动铁电性的机制",
+        "并研究了其在铁电场效应晶体管（FeFET）",
+        "铁电隧道结（FTJ）",
+        "突触器件和光伏存储器等领域的应用"
+      ],
+      "methods": [
+        "这是一篇综述论文",
+        "其研究方法是对已发表文献的系统性梳理",
+        "归纳与评述。它综合了领域内广泛的实验和理论工作：实验方法包括材料制备（机械剥离",
+        "CVD",
+        "PVD）",
+        "表征（压电力显微镜PFM",
+        "电学输运测量",
+        "二次谐波产生SHG",
+        "透射电子显微镜TEM）和器件加工测试",
+        "理论方法主要包括第一性原理计算（DFT）和分子动力学模拟",
+        "用于预测材料",
+        "解释机理和计算物理参数"
+      ]
+    },
+    {
+      "citekey": "Suriano2016nanomechanical",
+      "title": "Nanomechanical probing of soft matter through hydrophobic AFM tips fabricated by two-photon polymerization",
+      "year": "2016",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "tahirFerroelectricityNonvolatileMemristor2025",
+      "title": "Ferroelectricity and Nonvolatile Memristor Applications of Free‐Standing 2D Niobium Carbide: A New Frontier of Free‐Standing MXene in Electronic Devices",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Takada2000mechanoluminescence",
+      "title": "Mechanoluminescence from piezoelectric crystals of an europium complex",
+      "year": "2000",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Takahashi2007observation",
+      "title": "Observation of photoassisted polarization switching in BiFeO3 thin films probed by terahertz radiation",
+      "year": "2007",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Takahashi2008technique",
+      "title": "Sparse-exposure technique in holographic two-photon polymerization",
+      "year": "2008",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Tamilselvan2013growth",
+      "title": "Growth and characterization of micro and nanostructures of lead telluride (PbTe) by thermal evaporationmethod",
+      "year": "2013",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Tan2025theoretical",
+      "title": "Theoretical study about band-gap and velocity Fermi renormalization of carrier density in monolayer transition-metal dichalcogenides",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "tangCombiningIntrinsicSlidinginduced2025",
+      "title": "Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectrics",
+      "year": "2025",
+      "materials": [
+        "1T′′相的过渡金属硫族化合物（TMD）双层及三层范德华结构",
+        "特别是H型堆叠的1T′′-MoSe₂。该材料同时具有本征面外极化（源于1T′′相的结构畸变）和滑移诱导极化（源于H堆叠下的特定层间相对位置）"
+      ],
+      "methods": [
+        "基于密度泛函理论（DFT）的第一性原理计算。使用VASP软件包",
+        "采用PBE泛函",
+        "投影缀加平面波（PAW）方法",
+        "DFT-D3范德华校正。用Berry相位法计算极化值",
+        "用微动弹性带（NEB）方法计算极化翻转和层间滑移的能量势垒与最小能量路径"
+      ]
+    },
+    {
+      "citekey": "tangGridbasedBaderAnalysis2009",
+      "title": "A grid-based Bader analysis algorithm without lattice bias",
+      "year": "2009",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "tangMultiferroicityTwodimensionalVan2025",
+      "title": "Towards Multiferroicity in Two-Dimensional Van Der Waals Materials: Challenges and Opportunities",
+      "year": "2025",
+      "materials": [
+        "文章的研究对象是二维范德华多铁材料，即那些在原子级厚度下展现出两种或以上铁性序的层状材料。文章重点回顾了通过人工设计策略实现的多铁体系，包括：",
+        "在二维磁体（如Cr₂S₃, VCl₃）中通过界面或化学计量调控诱导铁电序",
+        "在二维铁电体（如α-In₂Se₃）中通过掺杂（如Fe掺杂）引入磁序",
+        "在二维铁弹体（如SnSe, ReS₂）中通过堆垛或相变诱导铁电序",
+        "由铁电和铁磁二维材料堆叠而成的范德华异质结（如Cr₂Ge₂Te₆/In₂Se₃）。文中表1汇总了数十种具体材料，如ReS₂, CuCrP₂S₆, NiI₂等"
+      ],
+      "methods": [
+        "本文是一篇“Perspective”类型的综述文章",
+        "其研究方法主要是对已发表文献的批判性综述与前瞻性分析。文章系统梳理了从2016年至2025年间",
+        "关于二维多铁材料的实验和理论研究进展。它归纳了领域内使用的核心实验技术",
+        "如用于表征铁电性的压电力显微镜(PFM)和二次谐波产生(SHG)",
+        "用于探测磁性的磁光克尔效应(MOKE)和磁圆二色性(MCD)",
+        "以及用于构筑异质结的机械剥离和堆叠技术。同时",
+        "文章也引用了第一性原理计算等理论方法在预测新多铁材料和揭示耦合机制中的作用"
+      ]
+    },
+    {
+      "citekey": "Tanner1981study",
+      "title": "Far-Infrared Study of the Charge Density Wave in Tetrathiafulvalene Tetracyanoquinodimethane (TTF-TCNQ)",
+      "year": "1981",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "tanRevealingEmergentMagnetic2024",
+      "title": "Revealing emergent magnetic charge in an antiferromagnet with diamond quantum magnetometry",
+      "year": "2024",
+      "materials": [
+        "本研究的主要对象是**斜方反铁磁体α-Fe₂O₃（赤铁矿）** 薄膜中",
+        "由**Dzyaloshinskii-Moriya相互作用 (DMI)** 诱导产生的多种拓扑自旋织构",
+        "包括反相畴壁 (ADW)",
+        "顺时针/逆时针a-Bloch梅隆",
+        "反梅隆和双梅隆"
+      ],
+      "methods": [
+        "采用**钻石量子磁测量 (DQM)** 技术。利用钻石探针中单个**氮-空位 (NV) 色心**作为量子传感器",
+        "通过**光探测磁共振 (ODMR)** 扫描成像",
+        "获取样品表面的杂散磁场矢量分布。再结合理论模型（薄膜近似",
+        "对偶性关系推导）和数学反演（向下延拓",
+        "正则化重构）",
+        "将磁场图转化为磁化分布图和磁荷密度分布图"
+      ]
+    },
+    {
+      "citekey": "Tara_Backup",
+      "title": "Tara_Backup",
+      "year": "",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Tarrés1995synthesis",
+      "title": "Synthesis and physical properties of new charge transfer salts derived from E-bis(ethylenethio)tetrathiafulvalene (BET-TTF)",
+      "year": "1995",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Terasaki2011ultrasonic",
+      "title": "Ultrasonic Wave Induced Mechanoluminescence",
+      "year": "2011",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Thompson1975ionicity",
+      "title": "Pauling's Ionicity and Charge-Density Waves in Layered Transition-Metal Dichalcogenides",
+      "year": "1975",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "tianRoomtemperatureTwodimensionalMultiferroic2026",
+      "title": "Room-temperature two-dimensional multiferroic metal with voltage-controllable magnetic order",
+      "year": "2026",
+      "materials": [
+        "通过分子束外延（MBE）技术在石墨烯/碳化硅衬底上生长的双层二碲化铬（CrTe₂）。该材料具有独特的层状结构",
+        "其中第一层为反铁磁（AFM）序",
+        "第二层为铁磁（FM）序"
+      ],
+      "methods": [
+        "实验上",
+        "采用分子束外延生长材料",
+        "利用扫描隧道显微镜",
+        "低能电子衍射",
+        "超导量子干涉仪",
+        "压电力显微镜",
+        "磁力显微镜",
+        "X射线磁圆二色性等工具进行原子结构",
+        "电子特性",
+        "磁性",
+        "铁电性和磁电耦合的全面表征",
+        "特别是将压电力显微镜与磁力显微镜联用以实现“电写磁读”。理论上",
+        "采用基于密度泛函理论的第一性原理计算",
+        "结合DFT+U方法",
+        "构建铁磁/反铁磁双层超级晶格模型",
+        "揭示其物理机制"
+      ]
+    },
+    {
+      "citekey": "Tobeiha2025optical",
+      "title": "Optical humidity sensor based on G/GO nanosheets",
+      "year": "2025",
+      "materials": [
+        "基于石墨烯/氧化石墨烯(G/GO)纳米片复合物的光学湿度传感器。主要研究该传感器在黑暗条件下及370 nm",
+        "450 nm",
+        "808 nm三种波长激光照射下",
+        "对30%至80%相对湿度范围的电阻响应特性"
+      ],
+      "methods": [
+        "采用改进的Hummer法结合超声化学剥离法制备G/GO纳米片。通过FESEM、EDX、XRD、FTIR、Raman、PL、DRS等手段进行物性表征。将G/GO纳米片滴涂在硅片上构建传感单元，在恒温(25°C)湿度腔中，使用IVM-",
+        "10系统测量电学信号。分别测试传感器在黑暗和不同波长激光照射下的I-V特性，并定义了三个差分电流(ΔI′, ΔI′′, ΔI′′′)以解耦总效应、光照净贡献和湿度净贡献"
+      ]
+    },
+    {
+      "citekey": "Tomasetta1974heterostructure",
+      "title": "Lead-tin-telluride heterostructure diode lasers",
+      "year": "1974",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Toriyi2008enhancement",
+      "title": "Enhancement of Mechanoluminescence from ZnS:Mn,Te by Wet Process",
+      "year": "2008",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Torizawa2006quenching",
+      "title": "Two-photon-induced quenching of photoluminescence in wide-gap semiconductor crystals",
+      "year": "2006",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Torizawa2007laser",
+      "title": "Two-photon-induced laser annealing for enhancement of photoluminescence intensity in ZnSe crystal",
+      "year": "2007",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Trautmann2018scaffolds",
+      "title": "Scaffolds in a shell–a new approach combining one-photon and two-photon polymerization",
+      "year": "2018",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Tsiperman1999cheminform",
+      "title": "ChemInform Abstract: Synthesis of a Novel Rigid Tetrathiafulvalene‐σ‐p‐benzoquinone diad (TTF‐σ‐Q) with Inherent Structural Configuration Suitable for Intramolecular Charge‐Transfer",
+      "year": "1999",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Tsiperman1999synthesis",
+      "title": "Synthesis of a novel rigid tetrathiafulvalene-σ-p-benzoquinone diad (TTF-σ-Q) with inherent structural configuration suitable for intramolecular charge-transfer",
+      "year": "1999",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "TSUJI2019phosphorescence",
+      "title": "Phosphorescence light decay curve from mechanoluminescence material subjected to hydrostatic load",
+      "year": "2019",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Turner2001new",
+      "title": "New Molecular Charge Transfer Salts of BEDT-TTF, Bis(ethylenedithio) Tetrathiafulvalene, with Thiocyanato-Complex Anions: (BEDT-TTF)4[Fe(NCS)6]·CH2Cl2 and (BEDT-TTF)2[Cr(NCS)4(bipym)]·0.15H2O",
+      "year": "2001",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Umeda1962phase",
+      "title": "Tin-Tellurium Phase Diagram in the Vicinity of Stannous Telluride SnTe",
+      "year": "1962",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Uniyal2009room",
+      "title": "Room temperature multiferroic properties of Eu doped BiFeO3",
+      "year": "2009",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Unknown1973twinning",
+      "title": "Twinning faults in epitaxial films of germanium telluride and GeTeSnTe alloys. (Germany)",
+      "year": "1973",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Unknown1983growth",
+      "title": "Growth of lead-germanium-telluride thin film structures by molecular beam epitaxy",
+      "year": "1983",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Unknown2003charge",
+      "title": "Bis(ethylenedithio)tetrathiafulvalene (BEDT-TTF) Charge Transfer Compounds with Copper(II) Halides: (BEDT-TTF)<sub>1.5</sub>CuX<sub>2</sub>(X=Cl, Br)",
+      "year": "2003",
+      "materials": [
+        "通过直接溶液反应法合成出的两种新型电荷转移化合物：(BEDT-TTF)₁.₅CuCl₂ 和 (BEDT-TTF)₁.₅CuBr₂"
+      ],
+      "methods": [
+        "采用元素分析确定化学组成",
+        "使用红外光谱（IR）和紫外-可见-近红外光谱（UV-Vis-NIR）确认BEDT-TTF的离子化状态",
+        "应用电子顺磁共振（EPR）和SQUID磁强计探测铜离子的价态和磁性质",
+        "通过粉末电导率测量和循环伏安法（CV）评估其电学与电化学行为"
+      ]
+    },
+    {
+      "citekey": "Unknown2014optical",
+      "title": "Optical Fiber Relative Humidity Sensor Based on Fabry-Perot Interferometer Coated with Sodium-p-styrenesulfonate/Allyamine Hydrochloride Films",
+      "year": "2014",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Unknown2014passive",
+      "title": "Three-Dimensional Passive Micromixer Fabricated by Two-Photon Polymerization for Microfluidic Mixing",
+      "year": "2014",
+      "materials": [
+        "基于TPP技术制造的嵌入式三维被动微混合器",
+        "具体为三叶平面桨叶和螺旋桨叶结构",
+        "以及它们与圆形柱",
+        "菱形柱障碍物的混合性能对比"
+      ],
+      "methods": [
+        "采用TPP系统在PDMS Y形微通道内原位加工直径37 μm的桨叶结构",
+        "通过乙醇与墨水双流体混合实验",
+        "利用像素颜色强度标准差计算混合指数",
+        "通过COMSOL Multiphysics软件进行流场仿真",
+        "可视化三维流线"
+      ]
+    },
+    {
+      "citekey": "Unknown2022polymerization",
+      "title": "Two-photon polymerization for advanced sensor manufacturing",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Unknown2025diffractive",
+      "title": "Millimeter-Scale Diffractive Optical Elements Fabricated by Two- Photon Polymerization for Beam Shaping in Materials Processing",
+      "year": "2005",
+      "materials": [
+        "一个直径",
+        "5毫米、最大结构高度",
+        "4微米、采用有机-无机混合光刻胶（FemtoBond 4B）并由双光子聚合技术制造的透射式衍射光学元件（DOE）。该DOE被设计用于将800 nm波长的高斯入射光束整形为一对双环形光束（近场为双贝塞尔光束）"
+      ],
+      "methods": [
+        "**设计计算**：采用改进的棱镜与透镜算法，将透镜项替换为轴棱锥项，生成用于生成双贝塞尔光束的计算机生成全息图（CGH）相位图，并将其转换为STL文件",
+        "**制造工艺**：使用双光子聚合（2PP）系统，通过将STL文件分割成7x7拼接网格、层厚",
+        "1 μm的逐层扫描策略，以及倾斜校正补偿，耗时",
+        "6",
+        "5小时完成制造",
+        "**表征与测试**：使用光学显微镜和SEM观察形貌；用光束分析仪在远场（51 mm处）捕获光束轮廓以验证整形效果；使用高功率飞秒激光器（1030 nm）进行逐步升功率的损伤阈值测试"
+      ]
+    },
+    {
+      "citekey": "Unlu2024polymerization",
+      "title": "Single-photon-assisted two-photon polymerization",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Uzdin2006wave",
+      "title": "Spin-density wave in Cr without the nesting property of the Fermi surface",
+      "year": "2006",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "vahidmohammadiWorldTwodimensionalCarbides2021",
+      "title": "The world of two-dimensional carbides and nitrides (MXenes)",
+      "year": "2021",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "vanvleckSurveyTheoryFerromagnetism1945",
+      "title": "A Survey of the Theory of Ferromagnetism",
+      "year": "1945",
+      "materials": [
+        "论文的核心研究对象是铁磁性现象的微观量子理论模型",
+        "具体包括：1）基于海森堡交换作用的海特勒-伦敦定域模型及其各种统计力学近似解法（级数展开",
+        "贝特-佩尔斯-外斯方法",
+        "自旋波）",
+        "2）斯通纳的集体电子（巡游电子）铁磁性模型",
+        "3）作为理论推广案例",
+        "也研究了交换积分为负时产生的反铁磁性和弱顺磁性现象"
+      ],
+      "methods": [
+        "本文是一篇综述性论文",
+        "主要采用**理论比较与批判性分析**的方法。作者系统性地回顾并推导了多个理论模型的核心公式",
+        "比较了它们在处理相同物理问题（如计算居里温度",
+        "磁化率-温度曲线",
+        "磁化强度-温度曲线）时的不同数学近似",
+        "结果及其与实验的吻合度",
+        "并评估了每种方法的优劣和局限性"
+      ]
+    },
+    {
+      "citekey": "Wald1968estimation",
+      "title": "Estimation of the chemical compatibility of alloys with lead telluride and tin telluride thermoelectric materials",
+      "year": "1968",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Walia2020an",
+      "title": "An Exhaustive Analysis of the Characterization of Photopolymer Material (SZ2080) by Two-Photon Polymerization, Waves Moving in a Periodic Potential, and Two-Photon Absorption",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wang1975lead",
+      "title": "Lead telluride-lead tin telluride heterojunction diode array",
+      "year": "1975",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wang1995new",
+      "title": "New angular molecular donor containing two tetrathiafulvalene (ttf) units fused to selenophene: synthesis, x‐ray structure, cyclic voltammetry and conducting charge transfer complex with TCNQ**",
+      "year": "1995",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wang2006enhanced",
+      "title": "Enhanced ferroelectricity in Ti-doped multiferroic BiFeO3 thin films",
+      "year": "2006",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wang2008multiple",
+      "title": "Multiple switching of spin polarization injected into a semiconductor by a multiferroic tunneling junction",
+      "year": "2008",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wang2009",
+      "title": "A metal-free polymeric photocatalyst for hydrogen production from water under visible light",
+      "year": "2009",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wang2009visualization",
+      "title": "Visualization of Stress Distribution Using Smart Mechanoluminescence Sensor",
+      "year": "2009",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wang2011resolution",
+      "title": "Resolution improvement of femtosecond laser induced two-photon polymerization based on phase filtering",
+      "year": "2011",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wang2018intriguing",
+      "title": "Intriguing Flexible Devices Based On Mechanoluminescence",
+      "year": "2018",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wang2020charge",
+      "title": "Charge density wave and atomic trimerization in layered transition-metal dichalcogenides 1T-MX<sub>2</sub> materials",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wang2022",
+      "title": "DFTB investigations of structures and electron states for a decahedron Ti7 cluster on graphene on electrical level",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wang2022high",
+      "title": "High sensitivity relative humidity sensor based on two parallel-connected Fabry–Perot interferometers and Vernier effect",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wang2023interface",
+      "title": "Mechanoluminescence-powered bite-controlled human–machine interface",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wang2023research",
+      "title": "Research of Stress Detection Based on Mechanoluminescence",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wang2023ultracompact",
+      "title": "Ultracompact phase plate fabricated by femtosecond laser two-photon polymerization for generation of Mathieu--Gauss beams",
+      "year": "2023",
+      "materials": [
+        "利用飞秒激光TPP技术制造的超紧凑型偶马蒂厄相位板和螺旋马蒂厄相位板",
+        "以及通过它们生成的不同阶数（m）和椭圆参数（q）的马蒂厄-高斯（MG）光束"
+      ],
+      "methods": [
+        "理论设计（建立相位分布与光束转换的4-f系统模型）→ 飞秒激光TPP微纳加工（将相位设计转化为高度为0/",
+        "55 μm的300 μm × 300 μm聚合物器件）→ 形态学表征（SEM、激光共聚焦显微镜）→ 制造误差量化分析（重叠积分与效率评估）→ 光学实验验证（搭建4-f系统，CCD相机测量光束的横向光强分布和沿传播轴方向的长距离无衍射特性）"
+      ]
+    },
+    {
+      "citekey": "Wang2024",
+      "title": "Implications for electronic structures of S-doped graphene nanoribbons from a DFTB algorithm at atomic scale",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "wangFormationMechanismTwin2019",
+      "title": "Formation mechanism of twin domain boundary in 2D materials: The case for WTe2",
+      "year": "2019",
+      "materials": [
+        "WTe₂单晶表面因应变引入的孪晶畴界"
+      ],
+      "methods": [
+        "扫描隧道显微镜用于高分辨成像和应力分析",
+        "几何相位分析用于从扫描隧道显微镜图像中定量提取应变场分布",
+        "密度泛函理论第一性原理计算用于模拟原子滑移路径和能量",
+        "构建广义堆垛层错能曲线"
+      ]
+    },
+    {
+      "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+      "title": "Screening-Enabled Chemiresistive Moisture Sensing with Tetrathiafulvalene-Based Electrically Conductive Metal–Organic Frameworks",
+      "year": "2025",
+      "materials": [
+        "一系列同构的导电金属有机框架（MOF）单晶：M₂(TTFTB)",
+        "其中M²⁺代表二价金属离子Mn²⁺",
+        "Co²⁺",
+        "Zn²⁺",
+        "Cd²⁺",
+        "TTFTB⁴⁻代表四硫富瓦烯四苯甲酸配体"
+      ],
+      "methods": [
+        "采用单晶作为模型体系",
+        "构建两端子电子器件。联合使用多种技术进行系统研究",
+        "包括：直流（DC）I-V和电化学阻抗谱（EIS）等电学表征以区分电子/离子传导",
+        "连续波电子顺磁共振（CW-EPR）谱学测量电荷密度变化",
+        "原位粉末X射线衍射（PXRD）监测结构动态变化",
+        "以及使用致密Pt电极和直流极化实验来排除质子传导的贡献"
+      ]
+    },
+    {
+      "citekey": "wangTunableD0Topological2025b",
+      "title": "Tunable d0 topological magnetic states in multiferroic monolayer In2NO2",
+      "year": "2025",
+      "materials": [
+        "单层 In₂NO₂ 二维材料及其与 MoSe₂ 构成的异质结。单层 In₂NO₂ 是一种多铁性半金属",
+        "同时具有铁电性和 p 轨道诱导的 d0 铁磁性"
+      ],
+      "methods": [
+        "第一性原理计算（DFT）与微磁学模拟相结合。DFT 用于计算材料的电子结构",
+        "稳定性及微观磁学参数（J",
+        "DMI",
+        "K 等）",
+        "微磁学模拟基于这些参数",
+        "在介观尺度上模拟自旋织构的演化"
+      ]
+    },
+    {
+      "citekey": "wangTwodimensionalFerroelectricMetal2025",
+      "title": "Two-dimensional ferroelectric metal CuCrX2 (X = S, Se) for efficient electrocatalysis",
+      "year": "2025",
+      "materials": [
+        "二维铁电金属材料CuCrX2 (X = S",
+        "Se) 的双层",
+        "三层和四层结构",
+        "特别是其两个不同的极化表面（P+表面和P-表面）"
+      ],
+      "methods": [
+        "基于密度泛函理论（DFT）的第一性原理计算",
+        "使用VASP软件包",
+        "采用PBE泛函",
+        "PAW赝势和DFT-D3范德华修正。电催化性能评估采用计算氢电极（CHE）模型",
+        "分析ORR/OER的吉布斯自由能变化和过电位"
+      ]
+    },
+    {
+      "citekey": "Wani2014mechanoluminescence",
+      "title": "Mechanoluminescence and lyoluminescence characterization of Li2BaP2O7:Eu phosphor",
+      "year": "2014",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wei2021",
+      "title": "Atomic simulations of bamboo-like N-doped CNTs with spaced nitrogen and carbon atoms by DFTB algorithm",
+      "year": "2021",
+      "materials": [
+        "研究对象为锯齿型（Zigzag）竹节状氮掺杂碳纳米管，其手性指数为(n,",
+        "，其中n=3–14，共12种不同的管径。模型构建方式为将纯碳纳米管中的碳原子层替换为氮原子层，形成“碳-氮”交替的周期性结构，模拟高浓度氮掺杂的竹节形态"
+      ],
+      "methods": [
+        "采用基于DFTB+软件包的自洽电荷密度泛函紧束缚（SCC-DFTB）方法进行原子级模拟。通过该方法对构建的12种初始结构进行几何优化",
+        "获得稳定构型。在此基础上",
+        "分析其几何参数（键长",
+        "键角",
+        "直径）",
+        "并计算其本征能",
+        "能隙和化学势。最后",
+        "通过Mülliken布居分析来量化并可视化原子间的电荷转移和分布"
+      ]
+    },
+    {
+      "citekey": "Wei2023",
+      "title": "Structures and electron states of (4,4)CNT-graphene hybrid system through DFTB investigation",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wei2024a",
+      "title": "Insight into structures and electronic states of connected (n/n−1, 0) carbon nanotubes: Implications from a SCC-DFTB algorithm",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Weiser1979electrical",
+      "title": "Electrical properties of indium-doped lead tin telluride",
+      "year": "1979",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Weiser1981recombination",
+      "title": "Recombination of photocarriers in lead-tin telluride",
+      "year": "1981",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "weiSynthesisSingleCrystal1999",
+      "title": "Synthesis of Single Crystal Bismuth-Telluride and Lead-Telluride Nanowires for New Thermoelectric Materials",
+      "year": "1999",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "wernetSpectroscopicCharacterizationMicroscopic2005",
+      "title": "Spectroscopic characterization of microscopic hydrogen-bonding disparities in supercritical water",
+      "year": "2005",
+      "materials": [
+        "在特定热力学状态（380°C， 300巴， 密度",
+        "54 g/cm³）下的超临界水（sc water）的局部氢键环境。具体而言，是研究其第一配位壳层中水分子的氢键构型，并将其与气态水、液态水、冰以及液态水表面等模型体系进行对比"
+      ],
+      "methods": [
+        "采用X射线拉曼散射（X-ray Raman Scattering",
+        "XRS）技术",
+        "这是一种硬X射线版的X射线吸收光谱（XAS）。通过使用高穿透力的硬X射线",
+        "得以原位探测超临界水的氧K边电子结构。通过与一系列参考光谱和密度泛函理论（DFT）计算光谱的定性与定量比较",
+        "解析出不同的氢键构型及其比例"
+      ]
+    },
+    {
+      "citekey": "Wesselinowa2008theoretical",
+      "title": "Theoretical study of multiferroic BiFeO3 nanoparticles",
+      "year": "2008",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Weyl1981charge",
+      "title": "Low-Temperature Charge Transport in Tetrathiafulvalene Tetracyanoquinodimethane (TTF-TCNQ) near Commensurability",
+      "year": "1981",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Whangbo1991hidden",
+      "title": "Hidden Fermi Surface Nesting and Charge Density Wave Instability in Low-Dimensional Metals",
+      "year": "1991",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "WILLIAMS1976charge",
+      "title": "CHARGE DENSITY WAVES IN THE LAYERED TRANSITION METAL DICHALCOGENIDES",
+      "year": "1976",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wilson1974waves",
+      "title": "Charge-Density Waves in Metallic, Layered, Transition-Metal Dichalcogenides",
+      "year": "1974",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wilson1975waves",
+      "title": "Charge-density waves and superlattices in the metallic layered transition metal dichalcogenides",
+      "year": "1975",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wixtrom2011electrical",
+      "title": "Electrical and Optical Properties of a New Polymorph of the Tetrathiafulvalene-Chloranil (TTF-CA) Charge Transfer Salt",
+      "year": "2011",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wiygul1982elements",
+      "title": "Elements of the Crystal Structure of a Solvated 1:1 Charge-Transfer Salt Derived from Tetrathiafulvalene (TTF) and Tetrafluorotetracyano-<i>p</i>-Quinodimethane (TCNQF4), TTF-TCNQF4",
+      "year": "1982",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "wongEvidenceMetallic1T",
+      "title": "Evidence for metallic 1T phase, 3D1 electronic configuration and charge density wave order in molecular-beam epitaxy grown monolayer VTe2",
+      "year": "",
+      "materials": [
+        "通过分子束外延（MBE）技术在高度定向热解石墨（HOPG）衬底上生长的单层二碲化钒（VTe₂）薄膜"
+      ],
+      "methods": [
+        "材料制备：分子束外延（MBE）及Se/Te保护帽技术",
+        "形貌与结构：扫描隧道显微镜/谱（STM/STS）",
+        "化学态与电子结构：同步辐射光电子能谱（PES）和角分辨光电子能谱（ARPES）",
+        "元素特异性电子构型与磁性：X射线吸收谱（XAS）和X射线磁圆二色性（XMCD）",
+        "理论计算：密度泛函理论（DFT）计算"
+      ]
+    },
+    {
+      "citekey": "WRZYSZCZYNSKI2010initiators",
+      "title": "Two-photon initiators of polymerization",
+      "year": "2010",
+      "materials": [
+        "双光子聚合引发剂。具体包括二苯乙烯衍生物（如2-4",
+        "4'-双(二正丁氨基)-E-二苯乙烯",
+        "δ值高达210 GM）",
+        "噻嗪类染料",
+        "三苯胺衍生物",
+        "香豆素/酮香豆素类二元引发体系（如香豆素+DPI共引发剂）以及其他如呫吨类染料/胺等体系"
+      ],
+      "methods": [
+        "文献综述法。作者通过系统梳理和整合该领域已发表的理论和实验研究成果",
+        "归纳总结了双光子吸收的两种机制（顺序吸收与同时吸收）",
+        "高效双光子引发剂的分子设计通用策略（如构建D-π-D结构",
+        "延长共轭",
+        "增强平面性）",
+        "并分类介绍了代表性化合物的性能与引发机理"
+      ]
+    },
+    {
+      "citekey": "Wu2009multiferroic",
+      "title": "Multiferroic behavior and impedance spectroscopy of bilayered BiFeO3/CoFe2O4 thin films",
+      "year": "2009",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wu2018",
+      "title": "Study of atomic arrangements and charge distribution on Si(0 0 1) surfaces with the adsorption of one Ge atom by DFTB calculations",
+      "year": "2018",
+      "materials": [
+        "单个Ge原子分别吸附在具有p(2×",
+        "和c(4×",
+        "重构的Si(",
+        "0",
+        "0",
+        "表面上的体系。重点研究Ge原子在Si二聚体上的不同初始吸附位点（顶位、桥位）和不同初始高度（",
+        "2-",
+        "4 Å）下的稳定构型、能量和电荷性质"
+      ],
+      "methods": [
+        "采用密度泛函紧束缚（DFTB）方法进行计算机模拟。首先，构建包含3层Si原子和厚真空层的周期性平板模型，并弛豫得到p(2×",
+        "和c(4×",
+        "两种重构表面。然后，在二聚体不同位置放置Ge原子，设置不同初始高度进行结构弛豫，通过计算吸附能、Mulliken电荷布居来分析体系的稳定性和电子结构"
+      ]
+    },
+    {
+      "citekey": "Wu2020quantitative",
+      "title": "Mechanoluminescence: Quantitative Pressure-Brightness Relationship Enables New Applications",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Wu2021",
+      "title": "Atomic arrangements, bond energies, and charge distribution on Si(0 0 1) surfaces with the adsorption of a Ge dimer by DFTB calculations",
+      "year": "2021",
+      "materials": [
+        "吸附在具有c(4 ×",
+        "重构的Si(",
+        "0",
+        "0",
+        "薄板表面上的单个Ge二聚体"
+      ],
+      "methods": [
+        "采用基于密度泛函理论紧束缚近似(DFTB)的计算机模拟方法。通过构建周期性Si(",
+        "0",
+        "0",
+        "薄板模型，系统性地改变Ge二聚体的初始吸附高度(",
+        "0 Å至",
+        "2 Å)和倾斜角度(0°至170°)，对774个初始构型进行结构弛豫，并分析其能量、几何结构、键能、Mülliken电荷布居以及能隙"
+      ]
+    },
+    {
+      "citekey": "wuCoexistenceFerroelectricityAntiferroelectricity2024",
+      "title": "Coexistence of ferroelectricity and antiferroelectricity in 2D van der Waals multiferroic",
+      "year": "2024",
+      "materials": [
+        "三碘化镍（NiI₂）的三层（trilayer）范德华晶体",
+        "被封装在六方氮化硼（hBN）和石墨烯（Graphene）构成的“三明治”结构器件中"
+      ],
+      "methods": [
+        "器件制备：在惰性气氛手套箱中机械剥离并堆叠，构建石墨烯/hBN/NiI₂/石墨烯/hBN垂直异质结",
+        "核心表征：利用自主研发的“磁-光-电联合测量系统（MOEJSI）”，集成低温（10K）、强磁场（±7T）、显微拉曼/磁圆二色性（MCD/RMCD）显微镜和铁电测试仪，对同一样品进行原位表征",
+        "理论计算：结合第一性原理计算（DFT）确定磁基态，通过Katsura-Nagaosa-Balatsky（KNB）机制（P ∝ e × q）解释铁电性起源，并利用原子级自旋模型模拟畴结构，最后用KAI模型分析铁电翻转动力学"
+      ]
+    },
+    {
+      "citekey": "wuElectrostaticGatingIntercalation2022",
+      "title": "Electrostatic gating and intercalation in 2D materials",
+      "year": "2022",
+      "materials": [
+        "以二维过渡金属硫族化合物（TMDs",
+        "如MoS₂",
+        "WSe₂",
+        "Fe₃GeTe₂）和层状过渡金属氧化物（如NdNiO₃",
+        "NaxCoO₂",
+        "SrFeOₓ）为核心的宿主材料",
+        "以及种类广泛的客体物种",
+        "包括离子（Li⁺",
+        "Na⁺",
+        "O²⁻",
+        "F⁻）",
+        "原子（Cu",
+        "Co",
+        "Ta）和分子（有机胺",
+        "金属卤化物）"
+      ],
+      "methods": [
+        "本综述系统回顾并对比了两种核心实验方法：",
+        "双电层晶体管（EDLT）技术，涵盖液态/凝胶和固态电解质栅控",
+        "（脱）插层技术，包括固态反应、电化学方法以及拓扑化学方法。研究通过对比这些方法的物理机制、操作窗口和功能效果来构建知识体系"
+      ]
+    },
+    {
+      "citekey": "wuNonvolatileSwitchableHalfmetallicity2024",
+      "title": "Nonvolatile switchable half-metallicity and magnetism in the MXene Hf                     <sub>2</sub>                     MnC                     <sub>2</sub>                     O                     <sub>2</sub>                     /Sc                     <sub>2</sub>                     CO                     <sub>2</sub>                     multiferroic heterostructure",
+      "year": "2024",
+      "materials": [
+        "由铁磁MXene单层 `Hf2MnC2O2` 和铁电MXene单层 `Sc2CO2` 组成的二维范德华垂直异质结",
+        "以及由其组成的三明治异质结 `Sc2CO2`/`Hf2MnC2O2`/`Sc2CO2`"
+      ],
+      "methods": [
+        "基于密度泛函理论（DFT）的第一性原理计算。使用VASP软件",
+        "采用PBE泛函",
+        "并应用DFT-D3范德华修正和GGA+U方法处理强关联电子和层间相互作用。通过计算形成能",
+        "能带结构",
+        "态密度",
+        "差分电荷密度和磁各向异性能等",
+        "系统研究异质结的稳定性和物理性质"
+      ]
+    },
+    {
+      "citekey": "wuSlidingFerroelectricity2D2021a",
+      "title": "Sliding ferroelectricity in 2D van der Waals materials: Related physics and future opportunities",
+      "year": "2021",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "xiangTwodimensionalRoomTemperature2020",
+      "title": "Towards two-dimensional room temperature multiferroics",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "XiaokangZhang2013calibrating",
+      "title": "Calibrating an optical fiber humidity sensor and applying it in real-time monitoring of relative humidity in fresh concrete",
+      "year": "2013",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Xie2014optical",
+      "title": "Optical fiber relative-humidity sensor with evaporated dielectric coatings on fiber end-face",
+      "year": "2014",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Xie2024isostructural",
+      "title": "Isostructural doping for organic persistent mechanoluminescence",
+      "year": "2024",
+      "materials": [
+        "三组基于咔唑衍生物的同构掺杂体系（PC&PB",
+        "BPC&BPB",
+        "BCPC&BCPB）",
+        "以及为验证普适性而设计的四个额外体系（BCPC&b-BCPC",
+        "BCPC&c-BCPC",
+        "BCPSO&b-BCPC",
+        "BCPSO&c-BCPC）。主体为压电分子",
+        "客体为结构相似的同构分子"
+      ],
+      "methods": [
+        "提出“同构掺杂+结构修饰”策略",
+        "通过合成化学制备系列掺杂材料。运用稳态/瞬态光谱",
+        "时间分辨光谱",
+        "单晶X射线衍射",
+        "赫什菲尔德表面分析",
+        "密度泛函理论(DFT)和含时密度泛函理论(TD-DFT)计算等手段",
+        "系统研究了光物理性质",
+        "晶体结构",
+        "分子间相互作用和激发态能级",
+        "并构筑了简易器件进行应用演示"
+      ]
+    },
+    {
+      "citekey": "xieDevelopmentMechanoluminescenceOrganic2020",
+      "title": "The development of mechanoluminescence from organic compounds: breakthrough and deep insight",
+      "year": "1987",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Xu2001novel",
+      "title": "Novel approach to dynamic imaging of stress distribution with piezoluminescence",
+      "year": "2001",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "xueEmergingNonvolatileMemories2011",
+      "title": "Emerging non-volatile memories",
+      "year": "2011",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "xunCoexistingMagnetismFerroelectric2024",
+      "title": "Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensional Materials",
+      "year": "2024",
+      "materials": [
+        "二维双层碘化钆（bilayer GdI₂）材料。其单层为铁磁半导体",
+        "具有本征谷极化",
+        "是验证滑移多铁机制的理想候选材料"
+      ],
+      "methods": [
+        "基于密度泛函理论(DFT)的第一性原理计算",
+        "结合有效哈密顿模型",
+        "海森堡自旋哈密顿模型和基于Goodenough-Kanamori规则的超超交换(supersuperexchange)作用模型进行物理机制分析"
+      ]
+    },
+    {
+      "citekey": "xuOpticalFiberHumidity2004",
+      "title": "Optical fiber humidity sensor based on evanescent-wave scattering",
+      "year": "2004",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "xuTunableFerroelectricTopological2022",
+      "title": "Tunable ferroelectric topological defects on 2D topological surfaces: strain engineering skyrmion-like polar structures in 2D materials",
+      "year": "2022",
+      "materials": [
+        "二维（2D）铅硫族化合物单层材料",
+        "即PbX (X=S",
+        "Se",
+        "Te)",
+        "特别是PbTe。研究聚焦于其基态顺电相（PE",
+        "空间群Cmcm）在机械应变下向铁电相（FE",
+        "空间群Pnma）的转变",
+        "以及由此产生的各种极化拓扑结构"
+      ],
+      "methods": [
+        "采用多尺度计算模拟框架。首先",
+        "利用基于密度泛函理论（DFT）的第一性原理计算",
+        "揭示应变诱导顺电-铁电相变的微观机制",
+        "并建立极化-应变相图。其次",
+        "基于DFT数据训练深度学习势函数（DeepMD）",
+        "进而进行大规模分子动力学（MD）模拟",
+        "再现纳米压痕过程并验证涡旋态的产生。最后",
+        "采用有限元方法（FEM）",
+        "结合DFT计算的相图和力学参数",
+        "在宏观器件尺度上设计非均匀应变场",
+        "预测并设计多种极性拓扑结构"
+      ]
+    },
+    {
+      "citekey": "xuTwodimensionalFerroelasticityVan2021",
+      "title": "Two-dimensional ferroelasticity in van der Waals β’-In2Se3",
+      "year": "2021",
+      "materials": [
+        "二维范德华材料β’-In₂Se₃（2H和3R堆垛）",
+        "包括机械剥离的块体薄片和CVD生长的少层（~7层）薄片"
+      ],
+      "methods": [
+        "原位变温X射线衍射定量应变",
+        "原子分辨率扫描透射电子显微镜和电子衍射解析畴壁结构",
+        "偏振光显微镜和压电力显微镜成像畴结构",
+        "通过柔性衬底弯曲施加可控单轴应变",
+        "实现畴的原位力学切换"
+      ]
+    },
+    {
+      "citekey": "YAMOCHI1992cheminform",
+      "title": "ChemInform Abstract: Conductive Charge‐Transfer Complexes of Alkoxy Substituted Tetrathiafulvalene, BEDO‐TTF",
+      "year": "1992",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Yamochi1992conductive",
+      "title": "Conductive Charge-Transfer Complexes of Alkoxy Substituted Tetrathiafulvalene, BEDO-TTF",
+      "year": "1992",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Yan2012strain",
+      "title": "Strain effect on the surface potential and nanoscale switching characteristics of multiferroic BiFeO3 thin films",
+      "year": "2012",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "yanagizawaSwitchingChargedensityWave2023",
+      "title": "Switching of charge-density wave by carrier tuning in monolayer  <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:msub><mml:mi mathvariant=\"normal\">TiTe</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math>",
+      "year": "2023",
+      "materials": [
+        "通过分子束外延（MBE）在双层石墨烯/SiC衬底上生长的高质量单层1T-TiTe₂薄膜",
+        "以及通过改变生长条件和表面沉积钾原子实现的空穴/电子掺杂样品"
+      ],
+      "methods": [
+        "采用分子束外延（MBE）和原位钾原子沉积作为载流子调控手段",
+        "利用高分辨率同步辐射角分辨光电子能谱（ARPES）系统地表征不同掺杂样品的电子结构（费米面拓扑",
+        "能带色散",
+        "能隙）及其温度依赖性",
+        "辅以基于密度泛函理论（DFT）的第一性原理计算",
+        "计算电子磁化率以验证费米面嵌套的强度"
+      ]
+    },
+    {
+      "citekey": "yanDecipheringStabilityTwodimensional2025",
+      "title": "Deciphering the stability of two-dimensional III-V semiconductors: Building blocks and their versatile assembly",
+      "year": "2025",
+      "materials": [
+        "由化学式 MX 表示的16种III-V族化合物（M = B",
+        "Al",
+        "Ga",
+        "In",
+        "X = N",
+        "P",
+        "As",
+        "Sb）及其各种二维结构",
+        "特别关注其原子构型",
+        "电子结构",
+        "稳定性和载流子迁移率"
+      ],
+      "methods": [
+        "结合高通量第一性原理计算（DFT）",
+        "无监督机器学习（DBSCAN聚类算法）进行结构分析",
+        "并采用\"乐高积木\"式组装法设计新结构",
+        "最后用形变势理论计算载流子迁移率"
+      ]
+    },
+    {
+      "citekey": "yangRipplingFerroicPhase2021",
+      "title": "Rippling Ferroic Phase Transition and Domain Switching In 2D Materials",
+      "year": "2021",
+      "materials": [
+        "单层GeSe（锗化硒）",
+        "一种典型的",
+        "具有强耦合铁弹性和铁电性的二维（第四族单硫族化物）材料"
+      ],
+      "methods": [
+        "基于自研机器学习原子间势函数的大规模分子动力学模拟。通过对比“约束模型”（禁止面外运动",
+        "无波纹）和“无约束模型”（允许面外运动",
+        "有波纹）的模拟结果",
+        "孤立并揭示波纹在温度诱导相变和应力诱导畴翻转过程中的作用。使用原子级铁性序参量",
+        "空间/时间关联函数",
+        "曲率等微观量进行分析"
+      ]
+    },
+    {
+      "citekey": "yangStrainEngineeringTwodimensional2021",
+      "title": "Strain engineering of <scp>two‐dimensional</scp> materials: Methods, properties, and applications",
+      "year": "2021",
+      "materials": [
+        "以石墨烯",
+        "MoS₂",
+        "WS₂",
+        "WSe₂",
+        "MoTe₂",
+        "黑磷(BP)等为代表的各类二维材料",
+        "及其在应变下的物理性质与器件应用"
+      ],
+      "methods": [
+        "本文为综述，系统归纳了六种主要的应变引入方法：",
+        "晶格失配",
+        "利用柔性基底（弹性模量失配、热膨胀失配、机械弯曲）",
+        "采用图案化基底",
+        "使用压电基底",
+        "AFM探针尖加载",
+        "气泡法。同时，涵盖了应变监测与表征技术，如拉曼光谱、光致发光(PL)谱、二次/三次谐波产生(SHG/THG)等"
+      ]
+    },
+    {
+      "citekey": "Yao2013lattice",
+      "title": "Lattice mismatch induced strained phase for magnetization, exchange bias and polarization in multiferroic BiFeO3",
+      "year": "2013",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Yarai2005optical",
+      "title": "Optical fiber sensor for humidity monitoring based on thermal lens detection technique",
+      "year": "2005",
+      "materials": [
+        "一种基于热透镜探测技术的光纤湿度传感器",
+        "其核心是由两根球透镜光纤（SLF）构成的微腔传感头",
+        "以及由泵浦激光器",
+        "探测光源",
+        "锁相放大器等组成的测量系统"
+      ],
+      "methods": [
+        "采用泵浦-探测热透镜光谱技术。以",
+        "48 μm激光二极管的泵浦光被水汽吸收产生热透镜效应，用850 nm超辐射发光二极管作为探测光感知折射率变化，通过锁相放大器提取调制频率下的信号。通过改变环境温度和相对湿度，进行两组实验分别验证传感器的线性响应和其对绝对湿度测量的本质特性"
+      ]
+    },
+    {
+      "citekey": "Yin2024large",
+      "title": "Large switchable polarization and piezoelectricity in multiferroic BiFeO3-Bi0.5K0.5TiO3-based single crystals",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Yin2024mechanoluminescence",
+      "title": "Mechanoluminescence from CaCl2:Eu2+",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Yoshiyama1986effects",
+      "title": "Effects on lattice fluctuations on the charge-density-wave transition in transition-metal dichalcogenides",
+      "year": "1986",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "You2010polarization",
+      "title": "Polarization switching in quasiplanar BiFeO3 capacitors",
+      "year": "2010",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "yuFerroelectricControlMagnetism2026",
+      "title": "Ferroelectric Control of Magnetism and Giant Magnetoresistance Via Intercalation-Induced Symmetry Breaking in Two-Dimensional Multiferroics with Strong Magnetoelectric Coupling",
+      "year": "2026",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "zahraCriticalAnalysisFerroelectric2025",
+      "title": "A critical analysis of ferroelectric and ferromagnetic properties in two-dimensional MXene",
+      "year": "2026",
+      "materials": [
+        "以Ti3C2Tx为代表的各类MXene及其与铁电/铁磁材料（如BaTiO3",
+        "BiFeO3",
+        "PZT）形成的复合物和异质结。研究涵盖了单过渡金属和双过渡金属MXene",
+        "以及碳化物",
+        "氮化物和碳氮化物等多类型"
+      ],
+      "methods": [
+        "研究采用理论计算与实验验证相结合的模式。理论计算主要为基于密度泛函理论（DFT）的第一性原理计算",
+        "用于预测结构和性质。实验方法包括多种蚀刻合成技术（HF",
+        "熔盐等）",
+        "压电力显微镜（PFM）表征铁电性",
+        "振动样品磁强计（VSM）表征磁性",
+        "以及构建忆阻器",
+        "纳米发电机等原型器件验证其应用"
+      ]
+    },
+    {
+      "citekey": "Zalialiutdinov2014transitions",
+      "title": "Two-photon transitions with cascades: Two-photon transition rates and two-photon level widths",
+      "year": "2014",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zavaliche2005polarization",
+      "title": "Polarization switching in epitaxial BiFeO3 films",
+      "year": "2005",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zebian2020relative",
+      "title": "Relative humidity sensor based on no-core multimode interferometer coated with Al2O3-PVA composite films",
+      "year": "2020",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhang2002a",
+      "title": "Modeling recrystallization of austenite for C-mn steels during hot deformation by cellular automaton",
+      "year": "2002",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhang2002b",
+      "title": "Cellular automaton model to simulate nucleation and growth of ferrite grains for low-carbon steels",
+      "year": "2002",
+      "materials": [
+        "低碳钢（以Fe-C-Si-Mn系为代表",
+        "简化为超元素S-C二元合金）在连续冷却过程中",
+        "铁素体晶粒的形核与生长行为及其最终微观组织"
+      ],
+      "methods": [
+        "二维元胞自动机模拟。该方法在一个六边形网格上",
+        "将每个元胞赋予奥氏体",
+        "铁素体或界面等状态",
+        "并基于显式有限差分法实时计算溶质浓度场和温度场的扩散",
+        "将热力学驱动力和扩散动力学转化为概率性的形核与生长规则",
+        "从而动态模拟微观组织的演变"
+      ]
+    },
+    {
+      "citekey": "Zhang2003a",
+      "title": "A cellular automaton investigation of the transformation from austenite to ferrite during continuous cooling",
+      "year": "2003",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhang2006growth",
+      "title": "Size-selective high-yield growth of lead telluride (PbTe) nanocrystals using a chemical vapor deposition technique",
+      "year": "2006",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhang2008synthesis",
+      "title": "Synthesis and nonlinear optical properties of two three-branched two-photon polymerization initiators",
+      "year": "2008",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhang2009crystal",
+      "title": "Synthesis, crystal structure, and characterization of charge-transfer salt: (BEDT-TTF)5[Fe(C2O4)3]·(H2O)2·CH2Cl2 (BEDT-TTF = bis(ethylenedithio)tetrathiafulvalene)",
+      "year": "2009",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhang2010optical",
+      "title": "Optical fibre temperature and humidity sensor",
+      "year": "2010",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhang2012",
+      "title": "Molecular dynamics study of structural change differences between Au225 and Au369 clusters with (111) facets supported on MgO(010) surfaces at a low temperature",
+      "year": "2012",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhang2013ternary",
+      "title": "Solvent-Included Ternary Charge-Transfer Salt (BEDT-TTF)2GaCl4(C6H5Cl)0.5, (BEDT-TTF = Bis(ethyelenedithio)-tetrathiafulvalene)",
+      "year": "2013",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhang2015humidity",
+      "title": "Humidity sensor based on optical fiber attached with hydrogel spheres",
+      "year": "2015",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhang2016",
+      "title": "Molecular dynamics simulations of atom packing characteristics for three deformed silver nanoparticles at room temperature",
+      "year": "2016",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhang2017a",
+      "title": "A Simple Relative Humidity Sensor Employing Optical Fiber Coated with Lithium Chloride",
+      "year": "2017",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhang2018a",
+      "title": "A method for standardizing the manufacturing process of integrated temperature and humidity sensor based on fiber Bragg grating",
+      "year": "2018",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhang2019a",
+      "title": "Studying Stability of Atom Packing for Ti Nanoparticles on Heating by Molecular Dynamics Simulations",
+      "year": "2019",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhang2019b",
+      "title": "Packing Changes in Melting, Freezing, and Coalescence of Titanium Nanoparticles from Atomic Simulations",
+      "year": "2019",
+      "materials": [
+        "研究聚焦于直径从约",
+        "54纳米到",
+        "2纳米，原子数从13到3995不等的自由、独立的球形钛纳米颗粒。特别关注了Ti13、Ti129、Ti305、Ti611等代表性尺寸的颗粒，以及由两个颗粒（如Ti611-Ti611， Ti919-Ti919， Ti1809-Ti1809）组成的融合体系统"
+      ],
+      "methods": [
+        "采用分子动力学（MD）计算机模拟。使用嵌入原子势（EAM）描述钛原子间的相互作用力。在NVT系综（恒定原子数",
+        "体积",
+        "温度）下",
+        "对不同尺寸的颗粒进行加热-冷却循环模拟",
+        "温度步长为50 K",
+        "时间步长为1飞秒。通过分析原子平均势能",
+        "形状因子",
+        "原子堆积图像等",
+        "来识别和表征结构相变"
+      ]
+    },
+    {
+      "citekey": "Zhang2019c",
+      "title": "Atomic simulations of packing patterns and thermal behavior in Ti clusters",
+      "year": "2019",
+      "materials": [
+        "包含19至2601个原子的一系列钛纳米团簇（Ti19, Ti57, ..., Ti2601），直径范围从",
+        "67 nm至",
+        "40 nm"
+      ],
+      "methods": [
+        "采用嵌入原子势（EAM）的分子动力学（MD）模拟。引入温度依赖的索末菲势",
+        "将描述低温HCP相和高温BCC相的两种势能线性组合",
+        "以模拟宽温区内的结构演化。使用对分析技术（PA）鉴定局部原子堆积模式",
+        "并通过计算惯性矩",
+        "形状因子和比热容来分析团簇的宏观性质"
+      ]
+    },
+    {
+      "citekey": "Zhang2023tuneable",
+      "title": "Tuneable physical properties of ReI3 through ferroelectric polarization switching in 2D van der Waals multiferroic heterostructures",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhang2025",
+      "title": "Electron transport in spin-polarized zigzag graphene nanoribbons under uniaxial tension",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "zhangEmergingFrontiersTwodimensional2025",
+      "title": "Emerging frontiers in two-dimensional sliding ferroelectrics",
+      "year": "2025",
+      "materials": [
+        "二维范德华材料中的滑动铁电性。具体包括已实验证实的材料体系（如石墨烯多层",
+        "六方氮化硼",
+        "过渡金属硫族化合物",
+        "有机-无机杂化晶体）以及理论预测的候选材料（如HgI2",
+        "ZrI2等）"
+      ],
+      "methods": [
+        "理论计算：第一性原理计算、对称性分析、双层堆垛铁电（BSF）理论",
+        "材料合成：化学气相沉积（CVD）、机械剥离与人工堆叠、分子束外延（MBE）",
+        "表征技术：压电力显微镜（PFM）、开尔文探针力显微镜（KPFM）、二次谐波发生（SHG）、PUND（正-上-负-下）电学测量、扫描透射电子显微镜（STEM）",
+        "器件加工与测试：制备铁电晶体管、铁电隧道结、光电器件，并测试其电学与光学性能"
+      ]
+    },
+    {
+      "citekey": "zhangFullyCompensatedFerrimagnetism2025",
+      "title": "Fully compensated ferrimagnetism in a Cr                     <sub>2</sub>                     TiC                     <sub>2</sub>                     monolayer MXene",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "zhangNonvolatileControlTopological2025",
+      "title": "Nonvolatile control of topological magnetism in two-dimensional CrInTe2/In2Se3 multiferroic heterostructures",
+      "year": "2025",
+      "materials": [
+        "由二维铁磁体CrInTe₂和二维铁电体α-In₂Se₃堆叠构成的CrInTe₂/In₂Se₃多铁范德华异质结",
+        "特别是其两种极化状态（P↑和P↓）下的界面磁相互作用和拓扑磁织构"
+      ],
+      "methods": [
+        "采用第一性原理计算（基于密度泛函理论DFT的VASP软件包）量化磁相互作用参数（J",
+        "DMI",
+        "MAE）",
+        "并结合原子分辨的SOC能量分析揭示其微观起源。然后",
+        "将这些参数输入到基于Landau-Lifshitz-Gilbert(LLG)方程的微磁学模拟软件（Spirit）中",
+        "预测自旋织构的静态相图和电流驱动动力学"
+      ]
+    },
+    {
+      "citekey": "zhangSimultaneouslyImprovedMagnetization2010a",
+      "title": "Simultaneously improved magnetization and polarization in BiFeO3 based multiferroic composites",
+      "year": "2010",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhao2022a",
+      "title": "Thermal stability and mechanical properties of Si/Ge superlattice nanowires having inclination interfaces from simulations at atomic scale",
+      "year": "2022",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhao2023",
+      "title": "Thermal Stability and Mechanical Properties of Hollow Si Nanowires from Atomic Modeling Combined with a Machine-Learning Prediction for Application as Li-Ion Battery Anodes",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhao2024a",
+      "title": "Investigating the binding and mechanical properties of carbon nanotube-encapsulated Si nanowires: A perspective from atomic simulations",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhao2024b",
+      "title": "Investigating Chain‐Like Core‐Shell Ge Nanowires Coated with Carbon Nanotubes Through Atomic Simulations: Implication for Improving Binding and Mechanical Properties",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "zhaoOpticalFingerprintsTwodimensional2024",
+      "title": "Optical fingerprints of two-dimensional interlayer-sliding multiferroic materials",
+      "year": "2024",
+      "materials": [
+        "二维层间滑移多铁材料的抽象双层模型",
+        "以及两个代表性具体材料：双层VSe₂（案例1）和双层MnBi₂Te₄（案例2）"
+      ],
+      "methods": [
+        "理论对称性分析（利用Mˆz、Tˆ及其组合操作连接四个多铁态，推导光学张量的变换规则）和第一性原理计算（基于DFT，使用VASP和WANNIER90等软件计算反常光电导σ^A_xy和SHG系数χ^(",
+        "）"
+      ]
+    },
+    {
+      "citekey": "zhaoRealization2DMultiferroic2024",
+      "title": "Realization of 2D multiferroic with strong magnetoelectric coupling by intercalation: a first-principles high-throughput prediction",
+      "year": "2024",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "zhengAnisotropicSuperconductivityTwodimensional2025",
+      "title": "Anisotropic superconductivity in the two-dimensional metal-organic kagome framework Cu 3 ( CO ) 6",
+      "year": "2025",
+      "materials": [
+        "具有完美kagome点阵的二维金属有机框架Cu3(CO)6单层",
+        "属于P6/mmm空间群",
+        "其中Cu原子为四配位"
+      ],
+      "methods": [
+        "基于密度泛函理论（DFT）和密度泛函微扰理论（DFPT）的第一性原理计算",
+        "结合Wannier函数插值",
+        "并通过求解各向异性Migdal-Eliashberg方程",
+        "对材料的电子结构",
+        "声子谱",
+        "电-声子耦合和超导性质进行系统研究"
+      ]
+    },
+    {
+      "citekey": "zhongHighthroughputExfoliationMultiferroic2025",
+      "title": "High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperature and giant spin splitting",
+      "year": "2025",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "zhongTheoreticalDesignsLowbarrier2023",
+      "title": "Theoretical designs of low‐barrier ferroelectricity",
+      "year": "2023",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "zhouFirstprinciplesPredictionRedox2004",
+      "title": "First-principles prediction of redox potentials in transition-metal compounds with<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi>LDA</mml:mi><mml:mo>+</mml:mo><mml:mi>U</mml:mi></mml:mrow></mml:math>",
+      "year": "2004",
+      "materials": [
+        "一系列经典的锂离子电池正极材料",
+        "包括橄榄石型LiₓMPO₄ (M=Mn",
+        "Fe",
+        "Co",
+        "Ni)",
+        "层状LiₓMO₂ (M=Co",
+        "Ni) 和尖晶石型LiₓM₂O₄ (M=Mn",
+        "Co)"
+      ],
+      "methods": [
+        "采用DFT+U方法",
+        "并创新性地使用线性响应理论自洽计算有效库仑相互作用参数U",
+        "使得整个计算流程成为无经验参数的第一性原理方法。通过对比GGA和GGA+U计算的平均锂嵌入电压与实验值来验证方法有效性"
+      ]
+    },
+    {
+      "citekey": "Zhu2009enhanced",
+      "title": "Enhanced magnetization and polarization in chemically modified multiferroic (1−x)BiFeO3–xDyFeO3 solid solution",
+      "year": "2009",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Zhu2014",
+      "title": "Graphitic carbon nitride: Synthesis, properties, and applications in catalysis",
+      "year": "2014",
+      "materials": [],
+      "methods": []
+    },
+    {
+      "citekey": "Şahin2009probe",
+      "title": "Probe of unparticles at the LHC in exclusive two lepton and two photon production via photon-photon fusion",
+      "year": "2009",
+      "materials": [],
+      "methods": []
+    }
+  ]
+}

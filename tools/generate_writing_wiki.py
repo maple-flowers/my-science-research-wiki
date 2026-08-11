@@ -25,8 +25,20 @@ SECTION_MAP = {
     "Conclusion": ["结论", "Conclusion", "Summary", "展望", "Outlook", "总结"]
 }
 
+import sys
+
+# ... inside definitions ...
+
 def log(category, msg):
-    print(f"[{category}] {msg}")
+    try:
+        output = f"[{category}] {msg}"
+        sys.stdout.buffer.write((output + "\n").encode('utf-8'))
+        sys.stdout.flush()
+    except Exception:
+        try:
+            print(f"[{category}] {msg.encode('ascii', 'replace').decode('ascii')}")
+        except Exception:
+            pass
 
 def get_canonical_section(header):
     header = header.lower()
@@ -149,7 +161,7 @@ def main():
     for note_path in note_files:
         citekey = note_path.stem
         try:
-            with open(note_path, 'r', encoding='utf-8') as f:
+            with open(note_path, 'r', encoding='utf-8', errors='replace') as f:
                 content = f.read()
         except Exception as e:
             log(citekey, f"ERROR: Could not read file: {e}")
@@ -178,6 +190,9 @@ def main():
             # log(citekey, "SKIP: No academic writing patterns found.")
             continue
 
+        total_extracted = sum(len(v) for v in writing_sections.values())
+        log(citekey, f"EXTRACT: Found {total_extracted} writing patterns across {len(writing_sections)} sections.")
+
         # 3. Resolve Title
         title_match = re.search(r'^title::\s*(.*)', content, re.MULTILINE)
         title = title_match.group(1).strip() if title_match else citekey
@@ -190,7 +205,7 @@ def main():
             "title": title,
             "sections": writing_sections
         })
-        log(citekey, f"COLLECT: Added to year {year} with {sum(len(v) for v in writing_sections.values())} total sentences.")
+        log(citekey, f"COLLECT: Added to year {year} summary.")
 
     # 4. Generate Yearly Wiki Pages
     for year, papers in sorted(yearly_data.items(), reverse=True):
