@@ -1,41 +1,76 @@
 ---
 citekey: Doroodmand2017conjugated
 title: "Electro-synthesized Conjugated Salen Polymer-Glassy Carbon as Hydrochromic Reflective Filter for Humidity Detection: Introduction of Humidity Optical Sensor"
-authors: [Mohammad Mahdi Doroodmand, Sina Owji]
+authors:
+  - Mohammad Mahdi Doroodmand
+  - Sina Owji
 year: 2017
-journal: "International Journal of Advanced Engineering Research and Science"
-doi: "10.22161/ijaers.4.4.41"
-url: "https://doi.org/10.22161/ijaers.4.4.41"
+journal: International Journal of Advanced Engineering Research and Science
+doi: 10.22161/ijaers.4.4.41
+url: https://doi.org/10.22161/ijaers.4.4.41
 paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Doroodmand2017conjugated]]
-projects: [project-6]
-concepts: [hydrochromism, reflective-filter, cyclic-voltammetry, conjugated-polymer, salen-ligand, schiff-base, optical-sensing, refractive-index, hydrophilicity, molecular-wire, electropolymerization, hysteresis-sensing]
-entities: [Salen, glassy-carbon, KCl, KOH, acetone, Autolab, SEM, FT-IR, XPS, white-LED, digital-camera, Photoshop, Ag-AgCl, Pt-counter-electrode]
-methods: [cyclic-voltammetry, sem-imaging, ftir-spectroscopy, xps-spectroscopy, optical-imaging, rgb-image-analysis, uv-vis-spectroscopy, three-electrode-cell]
-materials: [conjugated-salen-polymer, glassy-carbon-electrode, salen-monomer, salicylaldehyde, ethylenediamine]
-figures: [experimental-setups, vibrational-spectra, optical-spectra]
-领域基础知识:: >-
-  湿度是表示大气干燥程度的物理量，常用**相对湿度**表示，即空气中水汽压与饱和水汽压的百分比。湿度传感器是基于物理或化学效应，将湿度转换为可测量信号的器件，传统方法包括阻抗、电容、声表面波等。**光学湿度传感器**则是通过检测与水汽相互作用后的光信号变化（如强度、波长、相位）来工作，具有灵敏度高、抗电磁干扰等优点。**循环伏安法**是电化学中一种常用的动态电位扫描技术，用于研究电极反应过程。**导电聚合物**是可以通过化学或电化学掺杂获得导电性的有机高分子材料。
-研究背景:: >-
-  湿度检测在工业、农业、医药等领域至关重要。现有湿度传感器中，光学传感器因其高灵敏度、快响应和宽线性范围等优势受到关注。然而，当前光学湿度传感器仍面临灵敏度有限、成本高等挑战。**Salen**是一类重要的席夫碱配体，其金属配合物已被广泛研究，但基于自由Salen单体的导电聚合物及其在湿度传感中的应用尚属空白。
-作者的问题意识:: >-
-  作者旨在解决当前光学湿度传感器存在的灵敏度受限和成本高昂问题，通过开发一种基于**电合成共轭Salen聚合物**的新型**水致变色反射滤光片**，探索一种全新的、低成本、高性能地湿度传感机制与器件。
-主要研究对象:: >-
-  基于循环伏安法在玻碳电极上电合成的**共轭Salen聚合物**薄膜，及其作为**水致变色反射滤光片**在构建湿度光学传感器中的应用。
-主要研究方法:: >-
-  采用**循环伏安法**在金离子辅助下，在玻碳电极表面原位电合成共轭Salen聚合物薄膜。通过扫描电子显微镜、傅里叶变换红外光谱、X射线光电子能谱对聚合物进行表征。构建了包括白光LED、数字相机和玻碳电极反射镜在内的光学检测系统，通过图像处理软件分析反射光颜色（尤其是蓝色组分）强度来定量检测相对湿度，并系统评估了传感器的各项性能指标。
-研究意义:: >-
-  本研究首次报道了自由Salen单体的电化学聚合并将其应用于湿度传感，提出了**水致变色反射滤光片**这一新传感机制，不仅为湿度测量提供了一种高性能、低成本的解决方案，也为导电聚合物在光学传感器领域的应用开辟了新路径。
-研究结论:: >-
-  成功制备了一种基于共轭Salen聚合物的湿度光学传感器。该传感器在5-80% RH范围内，蓝色反射光强度与相对湿度呈良好线性关系，具有检测限低（0.17% RH）、响应恢复时间快（~9.5 s）、选择性好、重现性佳（RSD=3.6%）等优点，证明了其作为高性能湿度传感器的可行性。
-对领域的贡献:: >-
-  1. 提出了**水致变色反射滤光片**的新概念并应用于湿度传感。2. 开发了一种通过碱金属离子辅助电聚合自由Salen单体的新方法，解决了其不导电的难题。3. 提供了一种整合电极与反射镜，以简易光学系统实现高灵敏检测的传感器设计范式。
-未来研究方向提及:: >-
-  文中未明确集中提及未来展望，但结果部分暗示了需解决滞后问题（~7.5% RH），并可能通过优化聚合物层数来提升性能。
-未来研究方向思考:: >-
-  1. 通过共聚、交联或制备复合材料来降低传感器的滞后效应。2. 探索将传感器与光纤技术结合，实现远程或分布式测量。3. 系统研究不同金属离子掺杂对聚合物性能的影响，以定制化传感器响应。4. 评估传感器的长期稳定性和抗环境干扰（如灰尘、油污）能力，推进其实际应用。5. 利用原位光谱学技术，更深入地定量研究感湿机理，建立构效关系模型。
+projects:
+  - project-6
+concepts:
+  - hydrochromism
+  - reflective-filter
+  - cyclic-voltammetry
+  - conjugated-polymer
+  - salen-ligand
+  - schiff-base
+  - optical-sensing
+  - refractive-index
+  - hydrophilicity
+  - molecular-wire
+  - electropolymerization
+  - hysteresis-sensing
+entities:
+  - Salen
+  - glassy-carbon
+  - KCl
+  - KOH
+  - acetone
+  - Autolab
+  - SEM
+  - FT-IR
+  - XPS
+  - white-LED
+  - digital-camera
+  - Photoshop
+  - Ag-AgCl
+  - Pt-counter-electrode
+methods:
+  - cyclic-voltammetry
+  - sem-imaging
+  - ftir-spectroscopy
+  - xps-spectroscopy
+  - optical-imaging
+  - rgb-image-analysis
+  - uv-vis-spectroscopy
+  - three-electrode-cell
+materials:
+  - conjugated-salen-polymer
+  - glassy-carbon-electrode
+  - salen-monomer
+  - salicylaldehyde
+  - ethylenediamine
+figures:
+  - experimental-setups
+  - vibrational-spectra
+  - optical-spectra
+领域基础知识::: 湿度是表示大气干燥程度的物理量，常用**相对湿度**表示，即空气中水汽压与饱和水汽压的百分比。湿度传感器是基于物理或化学效应，将湿度转换为可测量信号的器件，传统方法包括阻抗、电容、声表面波等。**光学湿度传感器**则是通过检测与水汽相互作用后的光信号变化（如强度、波长、相位）来工作，具有灵敏度高、抗电磁干扰等优点。**循环伏安法**是电化学中一种常用的动态电位扫描技术，用于研究电极反应过程。**导电聚合物**是可以通过化学或电化学掺杂获得导电性的有机高分子材料。
+研究背景::: 湿度检测在工业、农业、医药等领域至关重要。现有湿度传感器中，光学传感器因其高灵敏度、快响应和宽线性范围等优势受到关注。然而，当前光学湿度传感器仍面临灵敏度有限、成本高等挑战。**Salen**是一类重要的席夫碱配体，其金属配合物已被广泛研究，但基于自由Salen单体的导电聚合物及其在湿度传感中的应用尚属空白。
+作者的问题意识::: 作者旨在解决当前光学湿度传感器存在的灵敏度受限和成本高昂问题，通过开发一种基于**电合成共轭Salen聚合物**的新型**水致变色反射滤光片**，探索一种全新的、低成本、高性能地湿度传感机制与器件。
+主要研究对象::: 基于循环伏安法在玻碳电极上电合成的**共轭Salen聚合物**薄膜，及其作为**水致变色反射滤光片**在构建湿度光学传感器中的应用。
+主要研究方法::: 采用**循环伏安法**在金离子辅助下，在玻碳电极表面原位电合成共轭Salen聚合物薄膜。通过扫描电子显微镜、傅里叶变换红外光谱、X射线光电子能谱对聚合物进行表征。构建了包括白光LED、数字相机和玻碳电极反射镜在内的光学检测系统，通过图像处理软件分析反射光颜色（尤其是蓝色组分）强度来定量检测相对湿度，并系统评估了传感器的各项性能指标。
+研究意义::: 本研究首次报道了自由Salen单体的电化学聚合并将其应用于湿度传感，提出了**水致变色反射滤光片**这一新传感机制，不仅为湿度测量提供了一种高性能、低成本的解决方案，也为导电聚合物在光学传感器领域的应用开辟了新路径。
+研究结论::: 成功制备了一种基于共轭Salen聚合物的湿度光学传感器。该传感器在5-80% RH范围内，蓝色反射光强度与相对湿度呈良好线性关系，具有检测限低（0.17% RH）、响应恢复时间快（~9.5 s）、选择性好、重现性佳（RSD=3.6%）等优点，证明了其作为高性能湿度传感器的可行性。
+对领域的贡献::: 1. 提出了**水致变色反射滤光片**的新概念并应用于湿度传感。2. 开发了一种通过碱金属离子辅助电聚合自由Salen单体的新方法，解决了其不导电的难题。3. 提供了一种整合电极与反射镜，以简易光学系统实现高灵敏检测的传感器设计范式。
+未来研究方向提及::: 文中未明确集中提及未来展望，但结果部分暗示了需解决滞后问题（~7.5% RH），并可能通过优化聚合物层数来提升性能。
+未来研究方向思考::: 1. 通过共聚、交联或制备复合材料来降低传感器的滞后效应。2. 探索将传感器与光纤技术结合，实现远程或分布式测量。3. 系统研究不同金属离子掺杂对聚合物性能的影响，以定制化传感器响应。4. 评估传感器的长期稳定性和抗环境干扰（如灰尘、油污）能力，推进其实际应用。5. 利用原位光谱学技术，更深入地定量研究感湿机理，建立构效关系模型。
 tags:
   - paper
   - type/experiment

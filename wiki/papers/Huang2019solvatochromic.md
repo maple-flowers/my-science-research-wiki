@@ -9,7 +9,7 @@ url: "https://doi.org/10.34297/AJBSR.2019.04.000778"
 paper_type: experiment
 status: ingested
 year_read: 2026
-original_note: [[../../raw/note/Huang2019solvatochromic]]
+original_note:: [[../../raw/note/Huang2019solvatochromic]]
 projects: [project-1, project-6]
 concepts: [solvatochromism, two-photon-absorption, two-photon-fluorescence, intramolecular-charge-transfer, twisted-intramolecular-charge-transfer, exciplex, local-excited-state, donor-pi-acceptor, push-pull-chromophore, thermochromism, viscosity-sensing, fluorescence-quantum-yield, lippert-mataga, solvent-polarity-scales, triple-fluorescence]
 entities: [stilbene, DCS, P1-probe, P2-probe, dimethylamino, diphenylamino, cyano-group, glycerol, DMSO, fluorescein, quinine-bisulfate]
