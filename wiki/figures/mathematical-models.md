@@ -26085,72 +26085,47 @@ $$
 ---
 
 ### zhongHighthroughputExfoliationMultiferroic2025 - Equation eq_1
-
+- **标题**: 键密度判据 (Bond Density Criterion)
+- **描述**: 用于识别可剥离晶面的键密度定义公式：ρ = N(Ri, Rj) / A。其中 N 为穿过平面的键数，A 为平面面积。
+- **公式**:
 $$
-ð1Þ
+\rho = \frac{N(R_i, R_j)}{A}
 $$
-
 - **位置**: PDF 第 8 页
 - **来源文献**: `zhongHighthroughputExfoliationMultiferroic2025`
 - **元数据属性**:
-  - **标签 (Tags)**: #unread
-  - **方法 (Methods)**: —
+  - **标签 (Tags)**: #Exfoliation #Criterion
+  - **方法 (Methods)**: `Geometrical-Analysis`
 
 ---
 
 ### zhongHighthroughputExfoliationMultiferroic2025 - Equation eq_2
-
+- **标题**: 剥离能计算公式 (Exfoliation Energy)
+- **描述**: 通过对剥离过程中的增量能量变化求和来计算剥离能 Eexf。
+- **公式**:
 $$
-ð2Þ
+\Delta E_j = \frac{1}{A} \sum_{j \ge i \ge 0} (E_{i,1} - E_{i,0})
 $$
-
 - **位置**: PDF 第 8 页
 - **来源文献**: `zhongHighthroughputExfoliationMultiferroic2025`
 - **元数据属性**:
-  - **标签 (Tags)**: #unread
-  - **方法 (Methods)**: —
-
----
-
-### zhongHighthroughputExfoliationMultiferroic2025 - Equation eq_3
-
-$$
-ð3Þ
-$$
-
-- **位置**: PDF 第 8 页
-- **来源文献**: `zhongHighthroughputExfoliationMultiferroic2025`
-- **元数据属性**:
-  - **标签 (Tags)**: #unread
-  - **方法 (Methods)**: —
-
----
-
-### zhongHighthroughputExfoliationMultiferroic2025 - Equation eq_4
-
-$$
-ð4Þ
-$$
-
-- **位置**: PDF 第 8 页
-- **来源文献**: `zhongHighthroughputExfoliationMultiferroic2025`
-- **元数据属性**:
-  - **标签 (Tags)**: #unread
-  - **方法 (Methods)**: —
+  - **标签 (Tags)**: #Energy #Thermodynamics
+  - **方法 (Methods)**: `DFT`
 
 ---
 
 ### zhongHighthroughputExfoliationMultiferroic2025 - Equation eq_5
-
+- **标题**: 相变动力学估算 (Phase Transition Kinetics)
+- **描述**: 基于 Arrhenius 方程估算相变时间 τ。
+- **公式**:
 $$
-ð5Þ
+\tau = \nu^{-1} \exp\left(\frac{\Delta E}{k_B T}\right)
 $$
-
 - **位置**: PDF 第 8 页
 - **来源文献**: `zhongHighthroughputExfoliationMultiferroic2025`
 - **元数据属性**:
-  - **标签 (Tags)**: #unread
-  - **方法 (Methods)**: —
+  - **标签 (Tags)**: #Kinetics #Ultra-fast
+  - **方法 (Methods)**: `Arrhenius-Model`
 
 ---
 

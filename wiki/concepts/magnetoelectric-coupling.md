@@ -43,6 +43,15 @@ category: [D02]
 ![Sliding Ferroelectricity](../../raw/figures/chenStrongSlidingFerroelectricity2024/fig_1_I9JJ25R3.png)
 *图 3：滑动铁电机制示意图。层间横向滑移打破中心对称性，诱导产生面外偶极子（红色箭头）。*
 
+### 5. 相锁定与对称性驱动 (Phase-interlocked & Symmetry-driven) —— 2025 新范式
+在二维非范德华 $ABO_3$ 氧化物单层中发现的一种强耦合机制，将晶格畸变、电子态与磁序深度绑定。
+- **机制**：通过外部应变诱导极低能垒（如 $9.1\text{ meV/atom}$）的有序-有序相变（如 $P4mm \leftrightarrow P4bm$），直接改变电子轨道杂化强度。
+- **调控效应**：可实现半导体到半金属（100% 自旋极化）的转变，以及磁序（AFM/FM）的可逆切换。
+- **典型案例**：**SrOsO₃** 与 **SrIrO₃**。在 $SrOsO_3$ 中，相变导致价带顶的 Rashba 型自旋劈裂发生能带排序交换；在 $SrIrO_3$ 中则实现了自旋极化电流的“开关”调控（见 [[../../raw/note/zhongHighthroughputExfoliationMultiferroic2025|Zhong et al. 2025]]）。
+
+![Phase Switching Mechanism](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/fig_4_ABKMCTN8.png)
+*图 4：应变诱导的相变与轨道相互作用演化。通过调节扭转角 $\theta$ 和 $pCOHP$ 强度实现物性控制。*
+
 ---
 
 ## 核心挑战与前沿

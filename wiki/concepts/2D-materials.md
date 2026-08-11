@@ -49,7 +49,9 @@ category: [D02, Z01]
 
 - **范德华绝缘体**：[[../entities/h-BN|h-BN]]（滑动铁电基底）。
 - **过渡金属硫/卤化物**：[[../entities/TMDs|TMDs]]、**NiI₂**（II 型多铁极限）、**CuCrP₂S₆**（面内/面外各向异性）。
-- **非范德华薄膜**：**Cr₂S₃**（单胞厚度室温多铁）。
+- **非范德华薄膜与单层 (Non-vdW Monolayers)**：
+    - **传统制备**：通过插层或化学气相沉积生长，如 **Cr₂S₃**（单胞厚度室温多铁，见 [[../../raw/note/2022_Song_Evidence for a singl_KEY-DGY8QFB7|Song 2022]]）。
+    - **高通量剥离 (2025)**：提出基于**键密度 ($\rho$)** 和**结合强度 ($\xi$)** 的通用判据，证明从三维非范德华氧化物（如 $ABO_3$ 钙钛矿）中大规模剥离单层是可行的。成功预测了包括 **[[../entities/NaZnO3|NaZnO3]]**、**[[../entities/SrOsO3|SrOsO3]]** 和 **[[../entities/BiFeO3|BiFeO3]]** 在内的 35 种稳定单层，其剥离能低至 $0.049\text{ eV/Å}^2$，与范德华材料相当（见 [[../../raw/note/zhongHighthroughputExfoliationMultiferroic2025|Zhong 2025]]）。
 - **金属/半导体多铁**：p 掺杂 **SnSe**（室温亚铁磁与铁电共存）、[[../entities/Fe3GeTe2|Fe₃GeTe₂]]。
 - **MXenes**：[[../entities/MXenes|Ti₃C₂Tₓ]] 等，具有高导电性和潜在的多铁预测。
 

@@ -42,8 +42,21 @@ python tools/update_raw_assets.py
 
 ---
 
+## 逐篇阅读中间产物的归档 (Per-paper Reading Records)
+
+**背景**：全量重写前，先对 `raw/note/` 中高质量、富批注的笔记逐篇通读，每篇产出一份结构化中文记录（元数据 / 一句话 / wiki 双链 / 新概念实体建议 / 关键图表 / 项目连接 / 组织与用词 / 可写入 wiki 的要点）。
+
+- 这些记录在加工期间暂存于 `tools/ingest_papers/<citekey>.md`，属于**中间产物**。
+- **最终去向**：全部整理后移动到 `wiki/papers/<citekey>.md`，作为每篇论文在 wiki 中的正式条目。
+- **回链原 note**：每份记录必须保留 `[[../../raw/note/<citekey>]]`，从 wiki 条目双向链接回原始笔记；同时被 `wiki/concepts/`、`wiki/entities/`、`wiki/figures/`、`wiki/projects/`、`wiki/topics/` 等条目反向引用。
+- **项目连接判定标准**：以内容对项目有无参考价值（机制、方法、计算流程、可类比材料/物理、可复用数据）为准，不以 Zotero 文件夹/标签归属为准。
+
+---
+
 ## 维护铁律
 
 - **不要直接手动编辑 `raw/` 目录**：该目录由脚本和 Zotero 同步维护。
+- `tools/ingest_papers/` 下的逐篇记录是中间产物，最终归档到 `wiki/papers/`，不要在 `tools/` 下长期保留。
 - **Wiki 是动态的**：随着新论文的加入，概念和实体的描述应趋于丰富和准确。
-- **链接优先**：所有的知识点应尽可能回溯到 `[[raw/note/CiteKey]]`。
+- **链接优先**：`wiki/papers/<citekey>` 是论文在 wiki 中的正式条目，须回链原 note `[[../../raw/note/<citekey>]]`。
+- **wiki 其他条目的引文一律指向 `wiki/papers/`**：`wiki/concepts/`、`wiki/entities/`、`wiki/figures/`、`wiki/write/`、`wiki/projects/`、`wiki/topics/` 等条目引用某篇论文时，链 `[[../papers/<citekey>]]`（或对应相对路径），**不得**直接链 `raw/note/`。只有 `wiki/papers/<citekey>` 可以直连 `raw/note`。
