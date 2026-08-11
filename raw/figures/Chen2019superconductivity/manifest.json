@@ -1,0 +1,177 @@
+{
+  "parent_key": "Chen2019superconductivity",
+  "title": "Chen2019superconductivity",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. S1. Minimum of the CDW free energy (in arbitrary units) with respect to η at E = 2.2. (a) For t = 1.2, the minimum free energy is numerically zero for all η (note the extremely magnified vertical scale to emphasize the threshold of numerical accuracy), indicating a normal state. (b) At t = 0.3, the minimum of free energy is independent of η and negative. Only the harmonic amplitude ∆0 is finite (not shown), which defines a C-CDW state. (c-d) For t = −1.2 and t = −2.3, the minimum free energ",
+      "page": "20",
+      "attachment_key": "WTGGFJU9",
+      "file": "fig_1_WTGGFJU9.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. S2. Results from numerical minimization of free energy. (a) Plot of η versus t at a E = 2.2. The jump at t ≈−1 indicates a first order nature of the C-IC phase transition. (b) The ten largest ∆’s at (E, t) = (2.2, −1.7). Since ∆0,0,0 is the largest, the CDW phase is not commensurate at this point in the phase diagram.",
+      "page": "21",
+      "attachment_key": "WA3G7MTL",
+      "file": "fig_2_WA3G7MTL.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIG. S3. Phase diagram of the G-L model emphasizing how the parameter a1 in the superconducting free energy Fsc determines the position of the SC phase boundary within the NC region. The red line is the same shown in Fig. 1 of the main text, and has been obtained with a1 = 500. The orange line marks the same SC boundary, but obtained with a smaller value, a1 = 250.",
+      "page": "26",
+      "attachment_key": "F22L5HMT",
+      "file": "fig_3_F22L5HMT.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "FIG. S4. Real space plots of the SC order parameter, Φ(r), computed for the CDW state at specific points (E, t) of the phase diagram shown in Fig. 1 of the main text. Each panel in the bottom row shows a vertical section along the line x = 0 of the density plot directly above it. (a) (E, t) = (2.2, −1.1): right below T 0d sc , SC order nucleates on isolated 0d regions that coincide with the vertices of the Kagome lattice defined by the intersection of DCs. (b) (E, t) = (2.2, −3): reducing the te",
+      "page": "27",
+      "attachment_key": "GA2DJVHW",
+      "file": "fig_4_GA2DJVHW.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Discommensuration-driven superconductivity in the charge density wave phases of transition-metal dichalcogenides|\n|短标题|过渡金属二元化合物电荷密度波相的非公度驱动超导电性|\n|作者|[[Chuan Chen]]、 [[Lei Su]]、 [[A. H. Castro Neto]]、 [[Vitor M. Pereira]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.99.121108](https://doi.org/10.1103/PhysRevB.99.121108)|\n|存档位置|26|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[03_CDW 与超导竞争 (CDW vs Superconductivity)]]|\n|条目链接|[My Library](zotero://select/library/items/XTHBPYRY)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/GCXDQAP8)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(S1)",
+      "page": "11",
+      "attachment_key": "43CSBXKY",
+      "file": "eq_1_43CSBXKY.png"
+    },
+    {
+      "id": "eq_10",
+      "title": "Equation 10",
+      "content": "(S10)",
+      "page": "18",
+      "attachment_key": "D5NJ69BH",
+      "file": "eq_10_D5NJ69BH.png"
+    },
+    {
+      "id": "eq_11",
+      "title": "Equation 11",
+      "content": "(S11)",
+      "page": "19",
+      "attachment_key": "FAPRS5XD",
+      "file": "eq_11_FAPRS5XD.png"
+    },
+    {
+      "id": "eq_12",
+      "title": "Equation 12",
+      "content": "(S12)",
+      "page": "19",
+      "attachment_key": "7PSMKNWQ",
+      "file": "eq_12_7PSMKNWQ.png"
+    },
+    {
+      "id": "eq_13",
+      "title": "Equation 13",
+      "content": "(S13)",
+      "page": "19",
+      "attachment_key": "RMZVA4A9",
+      "file": "eq_13_RMZVA4A9.png"
+    },
+    {
+      "id": "eq_14",
+      "title": "Equation 14",
+      "content": "(S14)",
+      "page": "22",
+      "attachment_key": "XLPK4SBJ",
+      "file": "eq_14_XLPK4SBJ.png"
+    },
+    {
+      "id": "eq_15",
+      "title": "Equation 15",
+      "content": "(S15)",
+      "page": "22",
+      "attachment_key": "L5LZ9H3A",
+      "file": "eq_15_L5LZ9H3A.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(S2)",
+      "page": "11",
+      "attachment_key": "YYM778IY",
+      "file": "eq_2_YYM778IY.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(S3)",
+      "page": "12",
+      "attachment_key": "7LN94AW8",
+      "file": "eq_3_7LN94AW8.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "(S5)",
+      "page": "12",
+      "attachment_key": "3WIMJ3WF",
+      "file": "eq_5_3WIMJ3WF.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "(S7)",
+      "page": "14",
+      "attachment_key": "QR75WX6D",
+      "file": "eq_7_QR75WX6D.png"
+    },
+    {
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "(S8)",
+      "page": "15",
+      "attachment_key": "AT29FG3U",
+      "file": "eq_8_AT29FG3U.png"
+    },
+    {
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "(S9)",
+      "page": "18",
+      "attachment_key": "XY62F3LV",
+      "file": "eq_9_XY62F3LV.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

@@ -1,0 +1,19 @@
+{
+  "parent_key": "McMillan1975laudau",
+  "title": "McMillan1975laudau",
+  "figures": [],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Time-dependent Laudau theory of charge-density waves in transition-metal dichalcogenides|\n|短标题|过渡金属二元化合物中电荷密度波的含时劳道理论|\n|作者|[[W. L. McMillan]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.12.1197](https://doi.org/10.1103/PhysRevB.12.1197)|\n|存档位置|69|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[09_Review & Computational Methods]]|\n|条目链接|[My Library](zotero://select/library/items/KRS82RCI)|\n|PDF 附件||\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

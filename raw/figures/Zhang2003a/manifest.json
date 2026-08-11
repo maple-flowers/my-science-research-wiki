@@ -1,0 +1,258 @@
+{
+  "parent_key": "Zhang2003a",
+  "title": "Zhang2003a",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1. A schematic phase diagram of an Fe–C alloy, where Ae3 indicates the equilibrium temperature at the start of the transformation from austenite to ferrite for a concentration c.",
+      "page": "2",
+      "attachment_key": "JCY8J4H6",
+      "file": "fig_1_JCY8J4H6.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "10",
+      "title": "Figure 10",
+      "llm_description": "Fig. 10. The ferrite nucleation fraction Ynuc as a function of the undercooling temperature at various cooling rates (11, 41, and 61 °C s�1).",
+      "page": "8",
+      "attachment_key": "GMMDUYPD",
+      "file": "fig_10_GMMDUYPD.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "11",
+      "title": "Figure 11",
+      "llm_description": "Fig. 11. The final microstructure obtained by experiment and simulation at a cooling rate 1 °C s�1. (a) The experimental micrograph, and (b) is the simulated microstructure.",
+      "page": "9",
+      "attachment_key": "C5MNERW5",
+      "file": "fig_11_C5MNERW5.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2. One cell with its six nearest neighbors from 1 to 6. LCA is the distance between two adjacent cells.",
+      "page": "3",
+      "attachment_key": "3PQK3GA3",
+      "file": "fig_2_3PQK3GA3.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3. A schematic diagram of cells, each of them has an α, γ, or “α/γ interface” state in the CA lattice.",
+      "page": "4",
+      "attachment_key": "TIVF3D85",
+      "file": "fig_3_TIVF3D85.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4. The simulated evolution from the initial austenite microstructure of the A36 steel with dγ = 18 µm to the resultant microstructure of ferrite nucleation at austenite grain boundaries obtained by a sufficiently large cooling rate, which is similar to a cooling rate in an experiment [6]. (a) The initial austenite microstructure, and (b) the resultant microstructure of ferrite nucleation at austenite grain boundaries, and cementite is rep-resented by dark gray.",
+      "page": "6",
+      "attachment_key": "Y5RG7LME",
+      "file": "fig_4_Y5RG7LME.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5. The calculated ferrite grain size dα as a function of the cooling rate Q for the A36 steel.",
+      "page": "6",
+      "attachment_key": "UEJHYHYW",
+      "file": "fig_5_UEJHYHYW.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Fig. 6. A comparison between the calculated average number M of ferrite grains per austenite grain as a function of the coo-ling rate and an experimental one for the A36 steel. �rep-resents the experimental data.",
+      "page": "7",
+      "attachment_key": "F9QA8UF3",
+      "file": "fig_6_F9QA8UF3.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Fig. 7. The nucleation cell number of ferrite nnuc as a function of the undercooling temperature �T at various cooling rates (11, 41, and 61 °C s�1). Each curve undergoes a rapid increase of nnuc with �T in zone I, and becomes saturated in zone II (nnuc = 561 for 11 °C s�1, 1352 for 41 °C s�1 and 1590 for 61 °C s�1).",
+      "page": "7",
+      "attachment_key": "CK99QF4V",
+      "file": "fig_7_CK99QF4V.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "Fig. 8. The ferrite fraction transformed Y as a function of the undercooing temperature at various cooling rates (11, 41, and 61 °C s�1). The saturated values are almost the same except being slightly less for higher undercooling rate due to the appearance of cementite.",
+      "page": "7",
+      "attachment_key": "2JAJBYIB",
+      "file": "fig_8_2JAJBYIB.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "9",
+      "title": "Figure 9",
+      "llm_description": "Fig. 9. The ferrite fraction transformed as a function of time at various cooling rates (11, 41, and 61 °C s�1).",
+      "page": "8",
+      "attachment_key": "WIGUFCEW",
+      "file": "fig_9_WIGUFCEW.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1 The values of �Ti M and �Ti NM for different alloy elements",
+      "page": "3",
+      "attachment_key": "MV8VNLSS",
+      "file": "tab_1_MV8VNLSS.png"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|A cellular automaton investigation of the transformation from austenite to ferrite during continuous cooling|\n|短标题|连续冷却过程中奥氏体向铁素体转变的元胞自动机研究|\n|作者|[[L. Zhang]]、 [[C.B. Zhang]]、 [[Y.M. Wang]]、 [[S.Q. Wang]]、 [[H.Q. Ye]]|\n|期刊名称|[[Acta Materialia]]|\n|DOI|[10.1016/S1359-6454(03)00416-6](https://doi.org/10.1016/S1359-6454(03)00416-6)|\n|存档位置|53|\n|文库编目|10.7|\n|索书号|2|\n|版权||\n|分类|[[东北大学张林老师]]|\n|条目链接|[My Library](zotero://select/library/items/L8V9KCII)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/XPUBF7LU)|\n|关联文献||",
+      "page": "-"
+    },
+    {
+      "id": "MD-T2",
+      "title": "MD Table 2",
+      "content": "| Element | ΔT_i^M (per at.% x_i) | ΔT_i^{NM} (per at.% x_i) |\n| :--- | :--- | :--- |\n| Si | 0 | -3 |\n| Mn | -39.5 | -37.5 |\n| Ni | -18 | -6 |\n| Cu | -11.5 | -4.5 |\n| Cr | -18 | -19 |",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "2",
+      "attachment_key": "VSIBV2PY",
+      "file": "eq_1_VSIBV2PY.png"
+    },
+    {
+      "id": "eq_10",
+      "title": "Equation 10",
+      "content": "(10)",
+      "page": "4",
+      "attachment_key": "QRQE3GIZ",
+      "file": "eq_10_QRQE3GIZ.png"
+    },
+    {
+      "id": "eq_14",
+      "title": "Equation 14",
+      "content": "(14)",
+      "page": "5",
+      "attachment_key": "YK56QIUM",
+      "file": "eq_14_YK56QIUM.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "2",
+      "attachment_key": "WZJ9RBHW",
+      "file": "eq_2_WZJ9RBHW.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(3)",
+      "page": "2",
+      "attachment_key": "S8P3BFEU",
+      "file": "eq_3_S8P3BFEU.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4)",
+      "page": "2",
+      "attachment_key": "3AAP9M49",
+      "file": "eq_4_3AAP9M49.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "(5)",
+      "page": "2",
+      "attachment_key": "57CV3F67",
+      "file": "eq_5_57CV3F67.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "(6)",
+      "page": "3",
+      "attachment_key": "HRQSI29E",
+      "file": "eq_6_HRQSI29E.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "(7)",
+      "page": "3",
+      "attachment_key": "ZL6PBENH",
+      "file": "eq_7_ZL6PBENH.png"
+    },
+    {
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "(9)",
+      "page": "4",
+      "attachment_key": "P84ELL7D",
+      "file": "eq_9_P84ELL7D.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

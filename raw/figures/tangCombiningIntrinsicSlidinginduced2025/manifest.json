@@ -4,11 +4,11 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "复合铁电体中极化多稳态的示意图",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. Sketch of polarization multistates in composite ferro-electrics, which exhibit both intrinsic and stacking-induced polariza-tions. The former (PI) originates from the motion of ions within the layers, while the latter (PS) is dependent on specific stacking. There are eight polarization states for their combination in a bilayer. (a) and (b) show two configurations of interlayer polarization coupling for a bilayer with distorted 1T phase (ferroelectric) in the H stacking.",
       "page": "2",
-      "attachment_key": "BLKTGJXQ",
-      "file": "fig_1_BLKTGJXQ.png",
+      "attachment_key": "5ZZ65FF7",
+      "file": "fig_1_5ZZ65FF7.png",
       "tags": [
         "Done"
       ],
@@ -17,11 +17,11 @@
     },
     {
       "fig_number": "2",
-      "title": "1T″-MoSe2双层中的极化多稳态",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. Polarization multistates in a 1T ′′-MoSe2 bilayer. (a) Geometric structure of the 1T ′′-MoSe2 monolayer, which is derived from a 2 × 2 supercell of the 1T phase. (b) The energy barrier in meV per formula unit (f.u.) for reversing the polarizations in the 1T ′′-MoSe2 monolayer. (c)–(i) The stacking configurations of the H-stacking 1T ′′-TMD bilayer. The cells for the 1T phase are denoted by dashed parallelograms. (j) The signs of PS for the stackings show in (d)–(i). (k)–(p) Polarizations",
       "page": "2",
-      "attachment_key": "VX68UJU2",
-      "file": "fig_2_VX68UJU2.png",
+      "attachment_key": "QPPY5P3H",
+      "file": "fig_2_QPPY5P3H.png",
       "tags": [
         "Done"
       ],
@@ -30,11 +30,11 @@
     },
     {
       "fig_number": "3",
-      "title": "1T″-MoSe2双层中极化多稳态的转换",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3. Transformation of the polarization multistates in a 1T ′′-MoSe2 bilayer. (a) and (b) Energy barriers for the pathways along S1-S2-S3-S4 and S1-S2-S5-S6-S3-S4, respectively (see the insets). Here, we only show the barriers for the layers with downward intrinsic polarizations. Others show the same trend. (c) Switching of the sextuple polarization states for a 1T ′′-MoSe2 bilayer. (d) Net polarizations for the multistates and energy barriers for the pathways between them.",
       "page": "4",
-      "attachment_key": "65ZH8PUQ",
-      "file": "fig_3_65ZH8PUQ.png",
+      "attachment_key": "CJWERQTE",
+      "file": "fig_3_CJWERQTE.png",
       "tags": [
         "Done"
       ],
@@ -43,11 +43,11 @@
     },
     {
       "fig_number": "4",
-      "title": "1T″-MoSe2三层中极化多稳态的转换",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "FIG. 4. Transformation of the polarization multistates in a 1T ′′-MoSe2 trilayer. (a)–(e) Stacking orders involved in the transformation. (f) Schematics of switching the ten polarization states under external electric fields. (g) Magnitudes of the polarization and energy barriers for the pathways between them.",
       "page": "5",
-      "attachment_key": "52TGW4TG",
-      "file": "fig_4_52TGW4TG.png",
+      "attachment_key": "WYM5EB9V",
+      "file": "fig_4_WYM5EB9V.png",
       "tags": [
         "Done"
       ],
@@ -57,9 +57,17 @@
   ],
   "tables": [
     {
+      "id": "tab_5",
+      "title": "Table 5",
+      "content": "TABLE I. Polarization states for S5 and S6. PT I and PB I (pC/m) denote the intrinsic polarizations in the top and bottom layers, respec-tively. PT I -PB I represent the interlayer polarization configurations. Ptot denotes the total polarization (pC/m).",
+      "page": "3",
+      "attachment_key": "L73S9YPF",
+      "file": "tab_5_L73S9YPF.png"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectrics|\n|短标题|二维铁电体中多态的本征极化和滑动诱导极化相结合|\n|作者|[[Chuhan Tang]]、 [[Zhiqiang Tian]]、 [[Tao Ouyang]]、 [[Anlian Pan]]、 [[Mingxing Chen]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.111.L081407](https://doi.org/10.1103/PhysRevB.111.L081407)|\n|存档位置|8|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[02_极化翻转动力学 (Polarization Switching)]]|\n|条目链接|[My Library](zotero://select/library/items/M645VPJN)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/DUWCS2VJ\">Tang 等 - 2025 - Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectr</a></li><li><a href=\"zotero://open-pdf/library/items/LV2JFJ9R\">Tang 等 - 2025 - Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectr.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectrics|\n|短标题|二维铁电体中多态本征极化和滑动诱导极化的结合|\n|作者|[[Chuhan Tang]]、 [[Zhiqiang Tian]]、 [[Tao Ouyang]]、 [[Anlian Pan]]、 [[Mingxing Chen]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.111.L081407](https://doi.org/10.1103/PhysRevB.111.L081407)|\n|存档位置|8|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[02_极化翻转动力学 (Polarization Switching)]]|\n|条目链接|[My Library](zotero://select/library/items/M645VPJN)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/DUWCS2VJ\">Tang 等 - 2025 - Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectr</a></li><li><a href=\"zotero://open-pdf/library/items/LV2JFJ9R\">Tang 等 - 2025 - Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectr.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],

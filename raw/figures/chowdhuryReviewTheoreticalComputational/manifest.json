@@ -1,0 +1,49 @@
+{
+  "parent_key": "chowdhuryReviewTheoreticalComputational",
+  "title": "chowdhuryReviewTheoreticalComputational",
+  "figures": [],
+  "tables": [
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">贡献层面</th>\n<th style=\"text-align:left\">具体内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\"><strong>理论模型</strong></td>\n<td style=\"text-align:left\">提出了一个结合离子电荷转移、电子-声子耦合和波函数展布的统一框架，用于理解和预测维度依赖的CDW行为。</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>技术方案</strong></td>\n<td style=\"text-align:left\">详细梳理了用DFT模拟CDW材料的参数选择、难题攻克方案，为后续计算研究提供了高价值的技术指南。</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>实验验证</strong></td>\n<td style=\"text-align:left\">建立了一套“计算预测拉曼模式/费米面 → 实验验证”的研究范式，体现了计算在指导实验和解释物理中的核心作用。</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>知识体系</strong></td>\n<td style=\"text-align:left\">将分散于TaS₂和TaSe₂的大量研究工作，按原子结构、拉曼振膜、限域效应等逻辑整合，形成了一个清晰、系统的知识结构。</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Review of theoretical and computational methods for 2D ma- terials exhibiting charge density waves|\n|短标题|二维电荷密度波材料的理论和计算方法综述|\n|作者|[[Sugata Chowdhury]]、 [[Heather M Hill]]、 [[Albert F Rigosi]]、 [[Patrick M Vora]]、 [[Angela R Hight Walker]]、 [[Francesca Tavazza]]|\n|期刊名称||\n|DOI||\n|存档位置||\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[06_单层 CDW 与维度效应 (Monolayer/Dimension)]]|\n|条目链接|[My Library](zotero://select/library/items/WSZIPQ6F)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/KFKBAVVK\">Chowdhury 等 - Review of theoretical and computational methods for 2D ma- terials exhibiting charge density waves</a></li><li><a href=\"zotero://open-pdf/library/items/INZW26TR\">Chowdhury 等 - Review of theoretical and computational methods for 2D ma- terials exhibiting charge density waves.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    },
+    {
+      "id": "MD-T2",
+      "title": "MD Table 2",
+      "content": "| Mode (cm-1) | Exp – 4K | 10K | 30K | 50K | 60K | 300K |\n|-------------|----------|-----|-----|-----|-----|------|\n| E²₂g (shear) - Stressed | 26 | 30.7 | X | X | X | 32.8 |\n| 2E2g (CDW) - Stressed | 51 | 48.8 | 46.6 | 44.6 | 42.8 | X |\n| 1A1g (CDW) - Stressed | 79 | 76.0 | 67.6 | 63.0 | 62.6 | X |\n| E²₂g (shear) - Unstressed | 26 | 34.9 | 32.3 | 33.6 | 32.0 | 31.8 |\n| 2E2g (CDW) - Unstressed | 51 | 42.4 | 42.2 | 39.1 | 38.1 | 36.1 |\n| 1A1g (CDW) - Unstressed | 79 | 80.4 | 80.0 | 76.3 | 75.3 | 75.1 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T3",
+      "title": "MD Table 3",
+      "content": "| 模式 (cm⁻¹) | 实验 – 4K | 10K | 30K | 50K | 60K | 300K |\n|-------------|-----------|-----|-----|-----|-----|------|\n| E²₂g (剪切) - 有应力 | 26 | 30.7 | X | X | X | 32.8 |\n| 2E2g (CDW) - 有应力 | 51 | 48.8 | 46.6 | 44.6 | 42.8 | X |\n| 1A1g (CDW) - 有应力 | 79 | 76.0 | 67.6 | 63.0 | 62.6 | X |\n| E²₂g (剪切) - 无应力 | 26 | 34.9 | 32.3 | 33.6 | 32.0 | 31.8 |\n| 2E2g (CDW) - 无应力 | 51 | 42.4 | 42.2 | 39.1 | 38.1 | 36.1 |\n| 1A1g (CDW) - 无应力 | 79 | 80.4 | 80.0 | 76.3 | 75.3 | 75.1 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T4",
+      "title": "MD Table 4",
+      "content": "| Raman Modes | E1g | E2g 1 | E2g 2 | A1g | Average Error |\n|--------------|-----|-------|-------|-----|---------------|\n| Exp. (Ref. [110]) | 136 | 210 | 210 | 239 | -- |\n| GGA (PBE-Norm) | 147.0 | 206.3 | 206.3 | 237 | 5.1 |\n| LDA (PZ-Norm) | 142.5 | 203.9 | 203.9 | 233 | 6.2 |\n| GGA (PW) | 142 | 197 | 197 | 226 | 11.2 |\n| LDA (PW) | 141.3 | 212.4 | 212.4 | 241.8 | 3.2 |\n| GGA (PBE-Ultra) | 129.8 | 199.5 | 199.5 | 229.4 | 9.2 |\n| LDA (PZ-Ultra) | 133.6 | 207.7 | 207.7 | 227.4 | 4.7 |\n| GGA (PBE-PAW) | 125.1 | 198.9 | 198.9 | 230.2 | 10.5 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T5",
+      "title": "MD Table 5",
+      "content": "| 拉曼模式 | E1g | E2g 1 | E2g 2 | A1g | 平均误差 |\n|----------|-----|-------|-------|-----|---------|\n| 实验 (Ref. [110]) | 136 | 210 | 210 | 239 | -- |\n| GGA (PBE-Norm) | 147.0 | 206.3 | 206.3 | 237 | 5.1 |\n| LDA (PZ-Norm) | 142.5 | 203.9 | 203.9 | 233 | 6.2 |\n| GGA (PW) | 142 | 197 | 197 | 226 | 11.2 |\n| LDA (PW) | 141.3 | 212.4 | 212.4 | 241.8 | 3.2 |\n| GGA (PBE-Ultra) | 129.8 | 199.5 | 199.5 | 229.4 | 9.2 |\n| LDA (PZ-Ultra) | 133.6 | 207.7 | 207.7 | 227.4 | 4.7 |\n| GGA (PBE-PAW) | 125.1 | 198.9 | 198.9 | 230.2 | 10.5 |",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

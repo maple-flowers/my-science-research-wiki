@@ -7,105 +7,73 @@
       "title": "Figure 1",
       "llm_description": "FIG. 1. (a) Atomic structures and (b) phonon spectra of monolayer RuX2. (c) Spin-polarized charge densities of bilayer RuCl2 in both AFM and FM configurations. Cyan and red isosurfaces stand correspond to spin-up and spin-down densities, respectively.",
       "page": "3",
-      "attachment_key": "YWRKMKCL",
-      "file": "fig_1_YWRKMKCL.png",
+      "attachment_key": "N35ETWME",
+      "file": "fig_1_N35ETWME.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "石墨烯",
-        "h-BN"
-      ],
-      "methods": [
-        "AFM",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "FIG. 2. (a) Transition pathway during the switching of polarization between 6P states of the RuX2 bilayers, where polarization switching barriers of 7.10, 15.31, and 37.84 meV/f.u. are predicted for RuCl2, RuBr2, and RuI2, respectively. (b) Schematic diagrams of three highly symmetric structures: AB",
+      "llm_description": "FIG. 2. (a) Transition pathway during the switching of polarization between 6P states of the RuX2 bilayers, where polarization switching barriers of 7.10, 15.31, and 37.84 meV/f.u. are predicted for RuCl2, RuBr2, and RuI2, respectively. (b) Schematic diagrams of three highly symmetric structures: AB stacking, AA stacking, and BA stacking. The change in relative stacking order for the lateral shift is shown by red dashed lines and the yellow arrows denote the polarization direction.",
       "page": "4",
-      "attachment_key": "HBCQEXV4",
-      "file": "fig_2_HBCQEXV4.png",
+      "attachment_key": "2XYB57YB",
+      "file": "fig_2_2XYB57YB.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "石墨烯",
-        "h-BN"
-      ],
-      "methods": [
-        "AFM",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "FIG. 3. The polarization texture of (a) RuCl2, (b) RuBr2, and (c) RuI2. The three circles in (a) represent the AB, AA, and BA stacking structures, with AB and BA stacking struc-tures at the point of the highest polarization. (d)–(f) Interlayer charge density and the planar-integrated differential ch",
+      "llm_description": "FIG. 3. The polarization texture of (a) RuCl2, (b) RuBr2, and (c) RuI2. The three circles in (a) represent the AB, AA, and BA stacking structures, with AB and BA stacking struc-tures at the point of the highest polarization. (d)–(f) Interlayer charge density and the planar-integrated differential charge density as a function of z axis distance for AB, AA, and BA stacking of the RuI2 bilayer. Red and blue regions represent the gained and lost electrons with an isovalue of 7.7 �10�5 e/˚A3, respect",
       "page": "5",
-      "attachment_key": "2ALZSHQQ",
-      "file": "fig_3_2ALZSHQQ.png",
+      "attachment_key": "AQ94ULGF",
+      "file": "fig_3_AQ94ULGF.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "石墨烯",
-        "h-BN"
-      ],
-      "methods": [
-        "AFM",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "4",
       "title": "Figure 4",
-      "llm_description": "FIG. 4. (a) Transition pathway during the switching of polarization between 6P states of the RuX2 trilayers, where polarization switching barriers of 7.16, 16.41, and 35.37 meV/f.u. are predicted for RuCl2, RuBr2, and RuI2, respectively. (b) Schematic diagrams of three highly symmetric structures. T",
+      "llm_description": "FIG. 4. (a) Transition pathway during the switching of polarization between 6P states of the RuX2 trilayers, where polarization switching barriers of 7.16, 16.41, and 35.37 meV/f.u. are predicted for RuCl2, RuBr2, and RuI2, respectively. (b) Schematic diagrams of three highly symmetric structures. The lower two layers of atoms followed AB stacking and were kept fixed, while the upper two layers are constructed as AB, AA, and BA stacking, respectively. The change in relative stacking order for th",
       "page": "6",
-      "attachment_key": "QRTX33HC",
-      "file": "fig_4_QRTX33HC.png",
+      "attachment_key": "GXEQU4HI",
+      "file": "fig_4_GXEQU4HI.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "石墨烯",
-        "h-BN"
-      ],
-      "methods": [
-        "AFM",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "TABLE I. In-plane lattice constant a and MAE of RuX2 (X ¼ Cl, Br, and I) AB stack-ing, SFE polarization P1 of bilayer structures, and SFE polarization P2 of trilayer structures.",
+      "page": "4",
+      "attachment_key": "C3TE8IV7",
+      "file": "tab_2_C3TE8IV7.png"
+    },
+    {
       "id": "T1",
       "title": "Table 1",
-      "content": "<table><thead><tr><th>论文板块</th><th>对应内容</th><th>核心作用</th></tr></thead><tbody><tr><td>Introduction</td><td>背景综述与问题提出</td><td>建立研究必要性与知识基础</td></tr><tr><td>Methods</td><td>VASP计算方法、DFT参数设置</td><td>保证计算的可靠性</td></tr><tr><td>Results &amp; Discussion</td><td>结构稳定性 → 电子/磁性质 → 滑动铁电性质 → 极化调控（层数、应变） → MAE机制 → 铁谷讨论</td><td>系统呈现结果并辅以机制分析</td></tr><tr><td>Conclusion</td><td>总结发现、展望应用</td><td>提炼核心贡献</td></tr></tbody></table>",
-      "page": "-"
-    },
-    {
-      "id": "T2",
-      "title": "Table 2",
-      "content": "<table><thead><tr><th>指标</th><th>晶格常数a（Å）</th><th>双层P1(pC/m)</th><th>三层P2(pC/m)</th><th>MAE（meV）</th></tr></thead><tbody><tr><td>RuCl₂</td><td>3.447</td><td>0.087</td><td>0.13</td><td>2.79</td></tr><tr><td>RuBr₂</td><td>3.613</td><td>0.16</td><td>0.28</td><td>6.59</td></tr><tr><td>RuI₂</td><td>3.897</td><td>0.49</td><td>1.03</td><td>14.28</td></tr></tbody></table>",
-      "page": "-"
-    },
-    {
-      "id": "T3",
-      "title": "Table 3",
-      "content": "<table><thead><tr><th>应用方向</th><th>优势</th></tr></thead><tbody><tr><td>非易失存储（FeFET）</td><td>切换能量低、反转快，多层堆叠纳米尺度构建</td></tr></tbody></table>",
+      "content": "<table><thead><tr><th style=\"text-align:left\"></th><th style=\"text-align:left\">a (Å)</th><th style=\"text-align:left\">P1 (pC/m)</th><th style=\"text-align:left\">P2 (pC/m)</th><th style=\"text-align:left\">MAE (meV)</th></tr></thead><tbody><tr><td style=\"text-align:left\">RuCl2 bilayer</td><td style=\"text-align:left\">3.447</td><td style=\"text-align:left\">0.087</td><td style=\"text-align:left\">0.13</td><td style=\"text-align:left\">2.79</td></tr><tr><td style=\"text-align:left\">RuBr2 bilayer</td><td style=\"text-align:left\">3.613</td><td style=\"text-align:left\">0.16</td><td style=\"text-align:left\">0.28</td><td style=\"text-align:left\">8.59</td></tr><tr><td style=\"text-align:left\">RuI2 bilayer</td><td style=\"text-align:left\">3.897</td><td style=\"text-align:left\">0.49</td><td style=\"text-align:left\">1.03</td><td style=\"text-align:left\">14.28</td></tr></tbody></table>",
       "page": "-"
     },
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Tunable sliding ferroelectricity in two-dimensional van der Waals RuX2 (X = Cl, Br, and I) multiferroic layers|\n|短标题|二维vanderWaalsRuX2（X=Cl、Br和I）多铁层中的可调滑动铁电性|\n|作者|[[Peng Han]]、 [[Jingtong Zhang]]、 [[Xumin Chen]]、 [[Jie Wang]]|\n|期刊名称|[[Applied Physics Letters]]|\n|DOI|[10.1063/5.0249647](https://doi.org/10.1063/5.0249647)|\n|存档位置|11|\n|文库编目|3.8|\n|索书号|3|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/KRMPDUJI)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/YQGVCC68)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Tunable sliding ferroelectricity in two-dimensional van der Waals RuX2 (X = Cl, Br, and I) multiferroic layers|\n|短标题|二维vanderWaalsRuX2（X）中的可调谐滑动铁电性 = Cl、Br和I）多铁层|\n|作者|[[Peng Han]]、 [[Jingtong Zhang]]、 [[Xumin Chen]]、 [[Jie Wang]]|\n|期刊名称|[[Applied Physics Letters]]|\n|DOI|[10.1063/5.0249647](https://doi.org/10.1063/5.0249647)|\n|存档位置|11|\n|文库编目|3.8|\n|索书号|3|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/KRMPDUJI)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/YQGVCC68)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
@@ -113,13 +81,6 @@
   "tags": [
     "Done"
   ],
-  "materials": [
-    "graphene",
-    "石墨烯",
-    "h-BN"
-  ],
-  "methods": [
-    "AFM",
-    "DFT"
-  ]
+  "materials": [],
+  "methods": []
 }

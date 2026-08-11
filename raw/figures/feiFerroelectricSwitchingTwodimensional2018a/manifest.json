@@ -1,47 +1,7 @@
 {
   "parent_key": "feiFerroelectricSwitchingTwodimensional2018a",
   "title": "feiFerroelectricSwitchingTwodimensional2018a",
-  "figures": [
-    {
-      "fig_number": "1",
-      "title": "Evidence for ferroelectric switching in WTe2. (WTe2铁电开关的证据)",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": []
-    },
-    {
-      "fig_number": "2",
-      "title": "Detecting the out-of-plane polarization. (检测面外极化)",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": []
-    },
-    {
-      "fig_number": "3",
-      "title": "Gate tuning of the ferroelectric behavior. (铁电行为的门电压调控)",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": []
-    }
-  ],
+  "figures": [],
   "tables": [
     {
       "id": "MD-T1",

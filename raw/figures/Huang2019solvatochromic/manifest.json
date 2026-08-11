@@ -1,0 +1,37 @@
+{
+  "parent_key": "Huang2019solvatochromic",
+  "title": "Huang2019solvatochromic",
+  "figures": [],
+  "tables": [
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">溶剂 (Solvent)</th>\n<th style=\"text-align:left\">溶剂分类</th>\n<th style=\"text-align:left\">吸收峰 λmax (nm)</th>\n<th style=\"text-align:left\">发射峰 λmax (nm)</th>\n<th style=\"text-align:left\">荧光量子产率 Φ</th>\n<th style=\"text-align:left\">双光子激发峰 λmax (nm)</th>\n<th style=\"text-align:left\">双光子吸收截面 δmax (GM)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">环己烷 (c-hexane)</td>\n<td style=\"text-align:left\">非极性</td>\n<td style=\"text-align:left\">410</td>\n<td style=\"text-align:left\">451</td>\n<td style=\"text-align:left\">0.805</td>\n<td style=\"text-align:left\">810</td>\n<td style=\"text-align:left\">6670</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">甲苯 (toluene)</td>\n<td style=\"text-align:left\">非极性/弱极性</td>\n<td style=\"text-align:left\">416</td>\n<td style=\"text-align:left\">458</td>\n<td style=\"text-align:left\">0.814</td>\n<td style=\"text-align:left\">810</td>\n<td style=\"text-align:left\">3610</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">二氧六环 (dioxane)</td>\n<td style=\"text-align:left\">非质子/中等极性</td>\n<td style=\"text-align:left\">410</td>\n<td style=\"text-align:left\">507</td>\n<td style=\"text-align:left\">0.885</td>\n<td style=\"text-align:left\">810</td>\n<td style=\"text-align:left\">4230</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">四氢呋喃 (THF)</td>\n<td style=\"text-align:left\">非质子/中等极性</td>\n<td style=\"text-align:left\">407</td>\n<td style=\"text-align:left\">539</td>\n<td style=\"text-align:left\">0.763</td>\n<td style=\"text-align:left\">810</td>\n<td style=\"text-align:left\">3720</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">氯仿 (CHCl₃)</td>\n<td style=\"text-align:left\">弱质子性</td>\n<td style=\"text-align:left\">419</td>\n<td style=\"text-align:left\">537</td>\n<td style=\"text-align:left\">0.745</td>\n<td style=\"text-align:left\">840</td>\n<td style=\"text-align:left\">2860</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">丙酮 (acetone)</td>\n<td style=\"text-align:left\">非质子/强极性</td>\n<td style=\"text-align:left\">413</td>\n<td style=\"text-align:left\">578</td>\n<td style=\"text-align:left\">0.265</td>\n<td style=\"text-align:left\">800</td>\n<td style=\"text-align:left\">1790</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">二甲基甲酰胺 (DMF)</td>\n<td style=\"text-align:left\">非质子/强极性</td>\n<td style=\"text-align:left\">405</td>\n<td style=\"text-align:left\">595</td>\n<td style=\"text-align:left\">0.106</td>\n<td style=\"text-align:left\">800</td>\n<td style=\"text-align:left\">1450</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">二甲基亚砜 (DMSO)</td>\n<td style=\"text-align:left\">非质子/强极性</td>\n<td style=\"text-align:left\">410</td>\n<td style=\"text-align:left\">603</td>\n<td style=\"text-align:left\">0.066</td>\n<td style=\"text-align:left\">800</td>\n<td style=\"text-align:left\">1980</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">乙腈 (MeCN)</td>\n<td style=\"text-align:left\">非质子/强极性</td>\n<td style=\"text-align:left\">401</td>\n<td style=\"text-align:left\">599</td>\n<td style=\"text-align:left\">0.058</td>\n<td style=\"text-align:left\">800</td>\n<td style=\"text-align:left\">2040</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th>Solventa</th>\n<th>λmax b</th>\n<th>λmax c</th>\n<th>Φd</th>\n<th>λmax e</th>\n<th>δmax f</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>c-hexane</td>\n<td>410</td>\n<td>451</td>\n<td>0.805</td>\n<td>810</td>\n<td>6670</td>\n</tr>\n<tr>\n<td>toluene</td>\n<td>416</td>\n<td>458</td>\n<td>0.814</td>\n<td>810</td>\n<td>3610</td>\n</tr>\n<tr>\n<td>benzene</td>\n<td>416</td>\n<td>486</td>\n<td>0.846</td>\n<td>840</td>\n<td>4650</td>\n</tr>\n<tr>\n<td>dioxane</td>\n<td>410</td>\n<td>507</td>\n<td>0.885</td>\n<td>810</td>\n<td>4230</td>\n</tr>\n<tr>\n<td>THF</td>\n<td>407</td>\n<td>539</td>\n<td>0.763</td>\n<td>810</td>\n<td>3720</td>\n</tr>\n<tr>\n<td>CHCl3</td>\n<td>419</td>\n<td>537</td>\n<td>0.745</td>\n<td>840</td>\n<td>2860</td>\n</tr>\n<tr>\n<td>acetone</td>\n<td>413</td>\n<td>578</td>\n<td>0.265</td>\n<td>800</td>\n<td>1790</td>\n</tr>\n<tr>\n<td>DMF</td>\n<td>405</td>\n<td>595</td>\n<td>0.106</td>\n<td>800</td>\n<td>1450</td>\n</tr>\n<tr>\n<td>DMSO</td>\n<td>410</td>\n<td>603</td>\n<td>0.066</td>\n<td>800</td>\n<td>1980</td>\n</tr>\n<tr>\n<td>MeCN</td>\n<td>401</td>\n<td>599</td>\n<td>0.058</td>\n<td>800</td>\n<td>2040</td>\n</tr>\n<tr>\n<td><strong>中文翻译：</strong> 表1：</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th>溶剂a</th>\n<th>最大吸收波长λmax b</th>\n<th>最大发射波长λmax c</th>\n<th>量子产率Φd</th>\n<th>双光子激发最大值λmax e</th>\n<th>峰值TPA截面δmax f</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>环己烷</td>\n<td>410</td>\n<td>451</td>\n<td>0.805</td>\n<td>810</td>\n<td>6670</td>\n</tr>\n<tr>\n<td>甲苯</td>\n<td>416</td>\n<td>458</td>\n<td>0.814</td>\n<td>810</td>\n<td>3610</td>\n</tr>\n<tr>\n<td>苯</td>\n<td>416</td>\n<td>486</td>\n<td>0.846</td>\n<td>840</td>\n<td>4650</td>\n</tr>\n<tr>\n<td>二氧六环</td>\n<td>410</td>\n<td>507</td>\n<td>0.885</td>\n<td>810</td>\n<td>4230</td>\n</tr>\n<tr>\n<td>四氢呋喃</td>\n<td>407</td>\n<td>539</td>\n<td>0.763</td>\n<td>810</td>\n<td>3720</td>\n</tr>\n<tr>\n<td>氯仿</td>\n<td>419</td>\n<td>537</td>\n<td>0.745</td>\n<td>840</td>\n<td>2860</td>\n</tr>\n<tr>\n<td>丙酮</td>\n<td>413</td>\n<td>578</td>\n<td>0.265</td>\n<td>800</td>\n<td>1790</td>\n</tr>\n<tr>\n<td>DMF</td>\n<td>405</td>\n<td>595</td>\n<td>0.106</td>\n<td>800</td>\n<td>1450</td>\n</tr>\n<tr>\n<td>DMSO</td>\n<td>410</td>\n<td>603</td>\n<td>0.066</td>\n<td>800</td>\n<td>1980</td>\n</tr>\n<tr>\n<td>乙腈</td>\n<td>401</td>\n<td>599</td>\n<td>0.058</td>\n<td>800</td>\n<td>2040</td>\n</tr>\n<tr>\n<td>a 溶剂按ET(30)值递减顺序排列。 b 最低能量吸收最大值，单位nm，c(P1)=10-5 M。 c 发射最大值，单位nm，c(P1)=10-5 M，λex=410 nm。 d 相对于10-6 M硫酸奎宁在0.05 mol L-1 H2SO4中的量子产率；估计误差为给定值的±10%。 e 双光子激发最大值，单位nm。 f 峰值TPA截面，单位10-50 cm4 s/光子/GM。</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Stilbene-Based Two-Photon Thermo- Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two- Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature|\n|短标题|具有大双光子吸收截面和双光子三重荧光的二苯乙烯基双光子热溶剂变色荧光探针：溶剂极性、粘度和温度的检测|\n|作者|[[Chi Bao Huang]]|\n|期刊名称|[[American Journal of Biomedical Science & Research]]|\n|DOI|[10.34297/AJBSR.2019.04.000778](https://doi.org/10.34297/AJBSR.2019.04.000778)|\n|存档位置|1|\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[02_应力传感器应用 (Stress/Strain Sensors)]]|\n|条目链接|[My Library](zotero://select/library/items/KEZ2HX8W)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/8JR9ZNME)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

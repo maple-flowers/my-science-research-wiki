@@ -4,74 +4,76 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "Magnetic and Electronic Properties of Monolayer Cr₄S₄FBr₂ Family and Several 2D Monolayer and Bilayer (BL) Materials",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "Figure 1. (a) Schematic diagram of ferroelectricity-driven reversal of magnetization orientation via inversion symmetry breaking in 2D A-type antiferromagnets. Red and blue disks represent the top and bottom CrSBr monolayers, respectively. Gray spheres represent the intercalated halogen atoms (e.g., F, Cl, Br, I). Red (blue) and gray arrows represent the orientation of total magnetization (Mtot) and the electric polarization (P). Right panels represent the spin-resolved band structures for the p",
       "page": "2",
-      "attachment_key": "JKED2FBV",
-      "file": "fig_1_JKED2FBV.png",
+      "attachment_key": "4AF7AZPM",
+      "file": "fig_1_4AF7AZPM.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "AFM",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "2",
-      "title": "Spin-resolved band structures and total density of states (TDOS) of monolayer Cr₄S₄FBr₂ for the (a) positive (P ↑) and (b) negative (P ↓) ferroelectric polarization states. (c) Electrostatic potential on the isosurface ranging from −0.1 Ry (red) to 2.0 Ry (yellow) for monolayer Cr₄S₄FBr₂. (d) Energy evolution along the ferroelectric switching pathway between bistable states in monolayer Cr₄S₄FBr₂. The inserts display the initial, intermediate, and final geometries from left to right. (e) Average displacement of F atoms (uavg), serving as the order parameter for the ferroelectric−paraelectric transition, and the specific heat capacity across the phase transition. Here, uavg is obtained by computing the mean along the a-axis, taking its absolute value, averaging the result over the b-axis, and finally calculating the sample average across all samples. (f) Net magnetic moments as a function of the external electric field for P ↑ and P ↓ states. The solid lines denote the linear fitting.",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "Figure 2. Spin-resolved band structures and total density of states (TDOS) of monolayer Cr4S4FBr2 for the (a) positive (P ↑) and (b) negative (P ↓) ferroelectric polarization states. (c) Electrostatic potential on the isosurface ranging from −0.1 Ry (red) to 2.0 Ry (yellow) for monolayer Cr4S4FBr2. (d) Energy evolution along the ferroelectric switching pathway between bistable states in monolayer Cr4S4FBr2. The inserts display the initial, intermediate, and final geometries from left to right. (",
       "page": "3",
-      "attachment_key": "PA7M8AMF",
-      "file": "fig_2_PA7M8AMF.png",
+      "attachment_key": "5KVKTVLU",
+      "file": "fig_2_5KVKTVLU.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "AFM",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "3",
-      "title": "Band structures with spin−orbital coupling of monolayer Cr₄S₄FBr₂ for the (a) positive (P ↑) and (d) negative (P ↓) ferroelectric polarization states. The Berry curvatures from first to the highest occupied (93rd) band near the Fermi level for the (b) P ↑ and (e) P ↓ states. The spin textures of the No. 93 for the (c) P ↑ and (f) P ↓ states, respectively.",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "Figure 3. Band structures with spin−orbital coupling of monolayer Cr4S4FBr2 for the (a) positive (P ↑) and (d) negative (P ↓) ferroelectric polarization states. The Berry curvatures from first to the highest occupied (93rd) band near the Fermi level for the (b) P ↑and (e) P ↓states. The spin textures of the No. 93 for the (c) P ↑and (f) P ↓states, respectively.",
       "page": "5",
-      "attachment_key": "MM498VF9",
-      "file": "fig_3_MM498VF9.png",
+      "attachment_key": "Q88I2C3V",
+      "file": "fig_3_Q88I2C3V.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "AFM",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "4",
-      "title": "(a) Side views of multiferroic tunneling junction (MFTJ) CSFB/CrSBr/CSFB with parallel (PC) and antiparallel (APC) magnetization configurations. The MFTJ comprises three regions labeled by blue and red arrows: the left and right terminals and a central barrier layer. Transport and current directions are aligned horizontally. (b) Bias-dependent current (I/nA) and magnetoresistance (MR) for PC and APC. (c) Spin-resolved transmission spectra of PC (top) and APC (bottom) of the MFTJ at the bias voltage of 0.04 V.",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "Figure 4. (a) Side views of multiferroic tunneling junction (MFTJ) CSFB/CrSBr/CSFB with parallel (PC) and antiparallel (APC) magnetization configurations. The MFTJ comprises three regions labeled by blue and red arrows: the left and right terminals and a central barrier layer. Transport and current directions are aligned horizontally. (b) Bias-dependent current (I/nA) and magneto-resistance (MR) for PC and APC. (c) Spin-resolved transmission spectra of PC (top) and APC (bottom) of the MFTJ at th",
       "page": "6",
-      "attachment_key": "3LANK7Q4",
-      "file": "fig_4_3LANK7Q4.png",
+      "attachment_key": "FXA8A5X6",
+      "file": "fig_4_FXA8A5X6.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "AFM",
-        "DFT"
-      ]
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1. Magnetic and Electronic Properties of Monolayer Cr4S4FBr2 Family and Several 2D Monolayer and Bilayer (BL) Materialsb\n\n2 aThe values are all derived from this work. bMagnetic exchange parameters (J/meV), Néel temperature and Curie temperature for ferroelectric− paraelectric transition TN/TC (K), easy axis (EA) (out-of-plane c-axis, in-plane b/a-axis, in-plane), magnetic anisotropy energy (MAE/μeV) per magnetic center, out-of-plane dipole moment (D/pC·m−1), switching barrier of ferroele",
+      "page": "3",
+      "attachment_key": "IX3ZWAJ8",
+      "file": "tab_1_IX3ZWAJ8.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th>2D Materials</th>\n<th>J1 (J1)</th>\n<th>J2 (J2)</th>\n<th>J3</th>\n<th>J4 (J4)</th>\n<th>TN/TC</th>\n<th>EA</th>\n<th>MAE</th>\n<th>D</th>\n<th>Ea/EC</th>\n<th>αS</th>\n<th>Classification</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Cr4S4FBr2 a</td>\n<td>−19.39 (−5.73)</td>\n<td>−4.07 (−6.70)</td>\n<td>0.34</td>\n<td>−5.01 (−20.31)</td>\n<td>469/334 b</td>\n<td>86</td>\n<td>1.11</td>\n<td>0.11/43</td>\n<td>7.1</td>\n<td>A-FiMM</td>\n<td></td>\n</tr>\n<tr>\n<td>Cr4S4F3 a</td>\n<td>−10.04 (−4.02)</td>\n<td>−4.20 (−7.38)</td>\n<td>0.18</td>\n<td>−0.39 (−19.21)</td>\n<td>369/118 b</td>\n<td>39</td>\n<td>1.29</td>\n<td>0.31/121</td>\n<td>11.8</td>\n<td>A-FiMM</td>\n<td></td>\n</tr>\n<tr>\n<td>Cr4S4Cl3 a</td>\n<td>−19.14 (−6.67)</td>\n<td>−4.58 (−7.37)</td>\n<td>−4.68</td>\n<td>−2.01 (−17.34)</td>\n<td>447/523 b</td>\n<td>30</td>\n<td>0.58</td>\n<td>0.07/27</td>\n<td>/</td>\n<td>FMHM</td>\n<td></td>\n</tr>\n<tr>\n<td>Cr4S4Br3 a</td>\n<td>−21.07 (−6.18)</td>\n<td>−4.22 (−6.82)</td>\n<td>−6.13</td>\n<td>−2.29 (−17.23)</td>\n<td>437/386 a</td>\n<td>19</td>\n<td>0.72</td>\n<td>0.095/37</td>\n<td>/</td>\n<td>FMHM</td>\n<td></td>\n</tr>\n<tr>\n<td>Cr4Se4Cl3 a</td>\n<td>−19.78 (−5.03)</td>\n<td>−5.74 (−8.39)</td>\n<td>−3.64</td>\n<td>−6.39 (−27.77)</td>\n<td>588/611 a</td>\n<td>204</td>\n<td>1.50</td>\n<td>0.06/23</td>\n<td>/</td>\n<td>FMHM</td>\n<td></td>\n</tr>\n<tr>\n<td>Cr4Se4Br3 a</td>\n<td>−22.58 (−6.36)</td>\n<td>−5.76 (−8.35)</td>\n<td>−5.00</td>\n<td>−4.63 (−27.30)</td>\n<td>595/378 a</td>\n<td>160</td>\n<td>0.65</td>\n<td>0.097/38</td>\n<td>/</td>\n<td>FMHM</td>\n<td></td>\n</tr>\n<tr>\n<td>BL CrSBr73,74</td>\n<td>−1.9</td>\n<td>−3.38</td>\n<td>−1.67</td>\n<td>/</td>\n<td>132/ b</td>\n<td>60</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>A-AFMS</td>\n<td></td>\n</tr>\n<tr>\n<td>BL MnPSe3 15,75,76</td>\n<td>0.77</td>\n<td>0.07</td>\n<td>0.18</td>\n<td>/</td>\n<td>88/ in-plane</td>\n<td>37</td>\n<td>0.14</td>\n<td>0.03/</td>\n<td>/</td>\n<td>N-AFMS</td>\n<td></td>\n</tr>\n<tr>\n<td>Cu2InI3 16</td>\n<td>−1.3</td>\n<td>−0.3</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>1.67</td>\n<td>0.20/</td>\n<td>/</td>\n<td>AFMM</td>\n</tr>\n<tr>\n<td>Hf2VC2F2 14</td>\n<td>−48.1</td>\n<td>6.7</td>\n<td>3.08</td>\n<td>/</td>\n<td>313/313 c</td>\n<td>140</td>\n<td>/</td>\n<td>0.29/</td>\n<td>/</td>\n<td>Y-AFMS</td>\n<td></td>\n</tr>\n<tr>\n<td>NiI2 13,55,77</td>\n<td>−5.01</td>\n<td>0.32</td>\n<td>3.95</td>\n<td>/</td>\n<td>21/21 in-plane</td>\n<td>130</td>\n<td>/</td>\n<td>0.53/2</td>\n<td>/</td>\n<td>S-AFMS</td>\n<td></td>\n</tr>\n<tr>\n<td>BL VS2 54,78,79</td>\n<td>20.02</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>112/ c</td>\n<td>582</td>\n<td>1.15</td>\n<td>0.02/</td>\n<td>9.8</td>\n<td>AFMS</td>\n<td></td>\n</tr>\n<tr>\n<td>In2Se3 52,59</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>/650</td>\n<td>/</td>\n<td>/</td>\n<td>10</td>\n<td>0.07/16</td>\n<td>/</td>\n<td>NMS</td>\n</tr>\n<tr>\n<td>CuInP2S6 56,60,61</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>/315</td>\n<td>/</td>\n<td>/</td>\n<td>5.2</td>\n<td>0.252/14</td>\n<td>/</td>\n<td>NMS</td>\n</tr>\n<tr>\n<td>BL 1T′-WTe2 24,80</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>/350</td>\n<td>/</td>\n<td>/</td>\n<td>0.8</td>\n<td>0.006/10</td>\n<td>/</td>\n<td>NMM</td>\n</tr>\n<tr>\n<td>1T-MoS2 53</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>/</td>\n<td>0.61</td>\n<td>0.13/1000</td>\n<td>/</td>\n<td>NMS</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Ferroelectric Control of Magnetism and Giant Magnetoresistance Via Intercalation-Induced Symmetry Breaking in Two-Dimensional Multiferroics with Strong Magnetoelectric Coupling|\n|短标题|强磁电耦合二维多铁材料中intercalation-induced对称性破缺对磁性和巨磁电阻的铁电控制|\n|作者|[[Cuiju Yu]]、 [[Liangliang Hong]]、 [[Zhao Chen]]、 [[Zhao Liu]]、 [[Shizhe Jiao]]、 [[Xiaofeng Liu]]、 [[Wei Hu]]|\n|期刊名称|[[The Journal of Physical Chemistry Letters]]|\n|DOI|[10.1021/acs.jpclett.6c00390](https://doi.org/10.1021/acs.jpclett.6c00390)|\n|存档位置||\n|文库编目|4.5|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/K8QQEGEB)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/KZMHI3XC)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Ferroelectric Control of Magnetism and Giant Magnetoresistance Via Intercalation-Induced Symmetry Breaking in Two-Dimensional Multiferroics with Strong Magnetoelectric Coupling|\n|短标题|强磁电耦合二维多铁性材料中嵌入诱导对称破缺对磁性和巨磁电阻的铁电控制|\n|作者|[[Cuiju Yu]]、 [[Liangliang Hong]]、 [[Zhao Chen]]、 [[Zhao Liu]]、 [[Shizhe Jiao]]、 [[Xiaofeng Liu]]、 [[Wei Hu]]|\n|期刊名称|[[The Journal of Physical Chemistry Letters]]|\n|DOI|[10.1021/acs.jpclett.6c00390](https://doi.org/10.1021/acs.jpclett.6c00390)|\n|存档位置||\n|文库编目|4.5|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/K8QQEGEB)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/KZMHI3XC)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
@@ -80,8 +82,5 @@
     "Done"
   ],
   "materials": [],
-  "methods": [
-    "AFM",
-    "DFT"
-  ]
+  "methods": []
 }

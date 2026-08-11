@@ -5,78 +5,201 @@
     {
       "fig_number": "1",
       "title": "Figure 1",
-      "llm_description": "FIG. 1. Convergence of total energy for Si primitive cell with order of reciprocal space mesh. Full dots: meshes that contain �-point; empty dots: shifted meshes �1 Ha�27.2113961 eV�.Formula 5 · 第 4 页�5�Formula 4 · 第 4 页�4�",
+      "llm_description": "FIG. 1. Convergence of total energy for Si primitive cell with order of reciprocal space mesh. Full dots: meshes that contain �-point; empty dots: shifted meshes �1 Ha�27.2113961 eV�.",
       "page": "4",
-      "attachment_key": "TKBGV77Q",
-      "file": "fig_1_TKBGV77Q.png",
+      "attachment_key": "4IAQM378",
+      "file": "fig_1_4IAQM378.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "FIG. 2. Convergence of total energy for Cu primitive cell with order of reciprocal space mesh. Full symbols: meshes that contain �-point; empty symbols: shifted meshes; dots: tetrahedra with Bloechl corrections; tri-angles: linear tetrahedron method.Formula 8 · 第 5 页�8�Formula 9 · 第 5 页�9�Formula 6 ",
+      "llm_description": "FIG. 2. Convergence of total energy for Cu primitive cell with order of reciprocal space mesh. Full symbols: meshes that contain �-point; empty symbols: shifted meshes; dots: tetrahedra with Bloechl corrections; tri-angles: linear tetrahedron method.",
       "page": "5",
-      "attachment_key": "32LN8QU8",
-      "file": "fig_2_32LN8QU8.png",
+      "attachment_key": "93PFNGDX",
+      "file": "fig_2_93PFNGDX.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "3",
       "title": "Figure 3",
       "llm_description": "FIG. 3. Band structure and density of states for graphite.",
       "page": "7",
-      "attachment_key": "9JKHEKL9",
-      "file": "fig_3_9JKHEKL9.png",
+      "attachment_key": "PJKJZSMX",
+      "file": "fig_3_PJKJZSMX.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "4",
       "title": "Figure 4",
-      "llm_description": "FIG. 4. Unshifted 6�6�n mesh for hexagonal solid, projected onto ab plane. Special points are shown bold; circles: reciprocal lattice points.Table · 第 7 页TABLE III. Calculated zero point vibrational energy per atom and thermal corrections from �-point phonon frequencies in silicon supercell, energie",
+      "llm_description": "FIG. 4. Unshifted 6�6�n mesh for hexagonal solid, projected onto ab plane. Special points are shown bold; circles: reciprocal lattice points.",
       "page": "7",
-      "attachment_key": "2JHE6FFW",
-      "file": "fig_4_2JHE6FFW.png",
+      "attachment_key": "LTYPR8VY",
+      "file": "fig_4_LTYPR8VY.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "DFT"
-      ]
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_0",
+      "title": "Table 0",
+      "content": "TABLE II. Calculated properties of Si vs. cutoff radius Rc�a0�using HL-JMW local functional, DNP basis includes f-polarization function for Si, shifted k-mesh 8�8�8. For comparison calculations 11-d: except for JMW all defaults: �Rc�11 a.u., DND basis set, unshifted k-mesh 6�6�6�, 10-g: basis set including a g-polarization function, FLAPW �Ref. 36�, and Ref. 22,a 10-BP: with BP functional �Refs. 17, 19�. Et total energy per cell shifted by 576.82 Ha, Es total energy per atom with respect to sphe",
+      "page": "6",
+      "attachment_key": "FNPDC6W7",
+      "file": "tab_0_FNPDC6W7.png"
+    },
+    {
+      "id": "tab_298",
+      "title": "Table 298",
+      "content": "TABLE VI. Calculated enthalpies of formation �kcal/mol�at 298 K for C, Si, and S gaseous atoms from their respective reference state. Calculations using BP functional, reference state �solid�with experimental geometry. Es denotes the calculated binding energy of the reference state with respect to spin-unrestricted spherical atoms. Ens is the calculated Hunds-rule energy gain with respect to spin-unrestricted spherical atom. E0v is the zero-point vibrational energy calculated from 36, 64, and 32",
+      "page": "9",
+      "attachment_key": "S38GC7X5",
+      "file": "tab_298_S38GC7X5.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th>Property vs R_c</th>\n<th>8</th>\n<th>10</th>\n<th>12</th>\n<th>14</th>\n<th>11-d</th>\n<th>10-e</th>\n<th>BP</th>\n<th>BP-e</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>E_t (mHa)</td>\n<td>0.7</td>\n<td>0.5</td>\n<td>0.5</td>\n<td>0.5</td>\n<td>0.7</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n</tr>\n<tr>\n<td>E_s (mHa)</td>\n<td>160</td>\n<td>158</td>\n<td>158</td>\n<td>158</td>\n<td>158</td>\n<td>161</td>\n<td>113</td>\n<td>113</td>\n</tr>\n<tr>\n<td>N(E_F) (eV⁻¹)</td>\n<td>0.30</td>\n<td>0.30</td>\n<td>0.30</td>\n<td>0.30</td>\n<td>0.29</td>\n<td>0.30</td>\n<td>0.30</td>\n<td>0.30</td>\n</tr>\n<tr>\n<td>a (%)</td>\n<td>−1.66</td>\n<td>−1.54</td>\n<td>−1.50</td>\n<td>−1.51</td>\n<td>−1.48</td>\n<td>−3.67</td>\n<td>+1.90</td>\n<td>+0.14</td>\n</tr>\n<tr>\n<td>B (GPa)</td>\n<td>153</td>\n<td>174</td>\n<td>173</td>\n<td>175</td>\n<td>174</td>\n<td>178</td>\n<td>113</td>\n<td>110</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th>Property vs. R_c</th>\n<th>8</th>\n<th>10</th>\n<th>12</th>\n<th>11-d</th>\n<th>10-g</th>\n<th>FLAPW</th>\n<th>10-BP</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>E_t (mHa)</td>\n<td>4.5</td>\n<td>3.3</td>\n<td>3.3</td>\n<td>0.280</td>\n<td>4.0</td>\n<td>3.3a</td>\n<td>2 Ha</td>\n</tr>\n<tr>\n<td>E_s (mHa)</td>\n<td>194</td>\n<td>191</td>\n<td>191</td>\n<td>189</td>\n<td>192</td>\n<td>–</td>\n<td>163</td>\n</tr>\n<tr>\n<td>E_g (eV)</td>\n<td>0.52</td>\n<td>0.53</td>\n<td>0.53</td>\n<td>0.59</td>\n<td>0.50</td>\n<td>0.50a</td>\n<td>0.67</td>\n</tr>\n<tr>\n<td>a (%)</td>\n<td>−0.54</td>\n<td>−0.53</td>\n<td>−0.56</td>\n<td>−0.38</td>\n<td>−0.45</td>\n<td>−0.48</td>\n<td>0.80</td>\n</tr>\n<tr>\n<td>B (GPa)</td>\n<td>108</td>\n<td>96</td>\n<td>97</td>\n<td>96</td>\n<td>95</td>\n<td>97</td>\n<td>90</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th>Cell size (atoms)</th>\n<th>E_vib(0)</th>\n<th>H(298)–H(0)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2</td>\n<td>1.10</td>\n<td>0.20</td>\n</tr>\n<tr>\n<td>8</td>\n<td>1.35</td>\n<td>0.62</td>\n</tr>\n<tr>\n<td>16</td>\n<td>1.38</td>\n<td>0.71</td>\n</tr>\n<tr>\n<td>32</td>\n<td>1.40</td>\n<td>0.73</td>\n</tr>\n<tr>\n<td>64</td>\n<td>1.41</td>\n<td>0.78</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T4",
+      "title": "Table 4",
+      "content": "<table>\n<thead>\n<tr>\n<th></th>\n<th>E_0v</th>\n<th>E_s PWC</th>\n<th>E_s BP</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Graphite</td>\n<td>0.0062</td>\n<td>0.3260</td>\n<td>0.2824</td>\n</tr>\n<tr>\n<td>Diamond</td>\n<td>0.0065</td>\n<td>0.3275</td>\n<td>0.2782</td>\n</tr>\n<tr>\n<td>ΔE</td>\n<td></td>\n<td>−0.0012</td>\n<td>+0.0039</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T5",
+      "title": "Table 5",
+      "content": "<table>\n<thead>\n<tr>\n<th></th>\n<th>Number</th>\n<th>Mean</th>\n<th>rms</th>\n<th>Avg abs</th>\n<th>Min</th>\n<th>Max</th>\n<th>Min at</th>\n<th>Max at</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>(a)</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>G2-1</td>\n<td>55</td>\n<td>0.2</td>\n<td>5.8</td>\n<td>4.6</td>\n<td>−13.8</td>\n<td>14.6</td>\n<td>Si_2H_6</td>\n<td>O_2</td>\n</tr>\n<tr>\n<td>G2-2</td>\n<td>93</td>\n<td>2.2</td>\n<td>9.0</td>\n<td>6.7</td>\n<td>−12.5</td>\n<td>25.2</td>\n<td>SiF_4</td>\n<td>NO_2</td>\n</tr>\n<tr>\n<td>All</td>\n<td>148</td>\n<td>1.5</td>\n<td>8.0</td>\n<td>5.9</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>(b)</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>G2-1</td>\n<td>55</td>\n<td>0.0</td>\n<td>5.6</td>\n<td>4.5</td>\n<td>−13.2</td>\n<td>13.9</td>\n<td>Si_2H_6</td>\n<td>O_2</td>\n</tr>\n<tr>\n<td>G2-2</td>\n<td>93</td>\n<td>1.5</td>\n<td>8.7</td>\n<td>6.5</td>\n<td>−12.6</td>\n<td>24.7</td>\n<td>SiF_4</td>\n<td>NO_2</td>\n</tr>\n<tr>\n<td>All</td>\n<td>148</td>\n<td>1.0</td>\n<td>7.7</td>\n<td>5.8</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>(c)</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>G2-1</td>\n<td>55</td>\n<td>−0.3</td>\n<td>4.5</td>\n<td>3.5</td>\n<td>−10.3</td>\n<td>9.4</td>\n<td>LiF</td>\n<td>S_2</td>\n</tr>\n<tr>\n<td>G2-2</td>\n<td>93</td>\n<td>3.0</td>\n<td>9.4</td>\n<td>7.4</td>\n<td>−31.4</td>\n<td>18.3</td>\n<td>SiF_4</td>\n<td>pyridine</td>\n</tr>\n<tr>\n<td>All</td>\n<td>148</td>\n<td>1.8</td>\n<td>7.9</td>\n<td>6.0</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>(d)</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>G2-1</td>\n<td>55</td>\n<td>0.1</td>\n<td>4.5</td>\n<td>3.6</td>\n<td>−9.7</td>\n<td>9.7</td>\n<td>OH</td>\n<td>F_2</td>\n</tr>\n<tr>\n<td>G2-2</td>\n<td>93</td>\n<td>5.1</td>\n<td>8.7</td>\n<td>7.2</td>\n<td>−15.5</td>\n<td>23.6</td>\n<td>SiCl_4</td>\n<td>ClF_5</td>\n</tr>\n<tr>\n<td>All</td>\n<td>148</td>\n<td>3.2</td>\n<td>7.4</td>\n<td>5.9</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>(e)</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>G2-1</td>\n<td>55</td>\n<td>4.1</td>\n<td>8.1</td>\n<td>6.3</td>\n<td>−9.0</td>\n<td>21.0</td>\n<td>Si_2H_6</td>\n<td>CO_2</td>\n</tr>\n<tr>\n<td>G2-2</td>\n<td>93</td>\n<td>15.8</td>\n<td>18.8</td>\n<td>16.1</td>\n<td>−5.2</td>\n<td>37.8</td>\n<td>CH_3SiH_3</td>\n<td>pyridine</td>\n</tr>\n<tr>\n<td>All</td>\n<td>148</td>\n<td>11.5</td>\n<td>15.7</td>\n<td>12.4</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>(f)</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>G2-1</td>\n<td>55</td>\n<td>1.1</td>\n<td>5.9</td>\n<td>4.6</td>\n<td>−10.4</td>\n<td>14.2</td>\n<td>OH</td>\n<td>Si_2H_6</td>\n</tr>\n<tr>\n<td>G2-2</td>\n<td>93</td>\n<td>5.4</td>\n<td>10.2</td>\n<td>8.6</td>\n<td>−23.2</td>\n<td>19.8</td>\n<td>SiF_4</td>\n<td>pyridine</td>\n</tr>\n<tr>\n<td>All</td>\n<td>148</td>\n<td>3.8</td>\n<td>8.9</td>\n<td>7.1</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T6",
+      "title": "Table 6",
+      "content": "<table>\n<thead>\n<tr>\n<th></th>\n<th>Graphite</th>\n<th>Silicon</th>\n<th>α-S8</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>E_s (↑)</td>\n<td>177.18</td>\n<td>102.89</td>\n<td>66.76</td>\n</tr>\n<tr>\n<td>E_ns (↑)</td>\n<td>−3.42</td>\n<td>−1.12</td>\n<td>−4.42</td>\n</tr>\n<tr>\n<td>E_0v (↓)</td>\n<td>3.88</td>\n<td>1.41</td>\n<td>0.96</td>\n</tr>\n<tr>\n<td>E_th (↓)</td>\n<td>0.25</td>\n<td>0.78</td>\n<td>1.05</td>\n</tr>\n<tr>\n<td>Calc. ΔH_f(298)</td>\n<td>169.63</td>\n<td>99.58</td>\n<td>60.33</td>\n</tr>\n<tr>\n<td>Exp. ΔH_f(298)</td>\n<td>169.98</td>\n<td>106.6</td>\n<td>65.66</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|From molecules to solids with the DMol3 approach|\n|短标题|从分子到固体|\n|作者|[[B. Delley]]|\n|期刊名称|[[The Journal of Chemical Physics]]|\n|DOI|[10.1063/1.1316015](https://doi.org/10.1063/1.1316015)|\n|存档位置|10540|\n|文库编目|3.1|\n|索书号|3|\n|版权||\n|分类|[[方法文献]]|\n|条目链接|[My Library](zotero://select/library/items/YBFIXG95)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/B8ZTPI9V\">从分子到固体-silicon-dual</a></li><li><a href=\"zotero://open-pdf/library/items/QSE777Q2\">Delley - 2000 - From molecules to solids with the DMol3 approach</a></li><li><a href=\"zotero://open-pdf/library/items/LXWLL5BG\">Delley - 2000 - From molecules to solids with the DMol3 approach.pdf</a></li></ul>|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|From molecules to solids with the DMol3 approach|\n|短标题|用DMol3方法从分子到固体|\n|作者|[[B. Delley]]|\n|期刊名称|[[The Journal of Chemical Physics]]|\n|DOI|[10.1063/1.1316015](https://doi.org/10.1063/1.1316015)|\n|存档位置|10540|\n|文库编目|3.1|\n|索书号|3|\n|版权||\n|分类|[[方法文献]]|\n|条目链接|[My Library](zotero://select/library/items/YBFIXG95)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/B8ZTPI9V\">从分子到固体-silicon-dual</a></li><li><a href=\"zotero://open-pdf/library/items/QSE777Q2\">Delley - 2000 - From molecules to solids with the DMol3 approach</a></li><li><a href=\"zotero://open-pdf/library/items/LXWLL5BG\">Delley - 2000 - From molecules to solids with the DMol3 approach.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "�1�",
+      "page": "3",
+      "attachment_key": "SMCXEIF8",
+      "file": "eq_1_SMCXEIF8.png"
+    },
+    {
+      "id": "eq_10",
+      "title": "Equation 10",
+      "content": "�10�",
+      "page": "6",
+      "attachment_key": "3SWZXWPU",
+      "file": "eq_10_3SWZXWPU.png"
+    },
+    {
+      "id": "eq_11",
+      "title": "Equation 11",
+      "content": "�11�",
+      "page": "6",
+      "attachment_key": "AXEUUQLB",
+      "file": "eq_11_AXEUUQLB.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "�2�",
+      "page": "3",
+      "attachment_key": "M37W57EM",
+      "file": "eq_2_M37W57EM.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "�4�",
+      "page": "4",
+      "attachment_key": "76Z5VZHM",
+      "file": "eq_4_76Z5VZHM.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "�5�",
+      "page": "4",
+      "attachment_key": "AE6A66BZ",
+      "file": "eq_5_AE6A66BZ.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "�6�",
+      "page": "5",
+      "attachment_key": "SDNH5UDV",
+      "file": "eq_6_SDNH5UDV.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "�7�",
+      "page": "5",
+      "attachment_key": "RFWWFD6C",
+      "file": "eq_7_RFWWFD6C.png"
+    },
+    {
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "�8�",
+      "page": "5",
+      "attachment_key": "M4LEY6RA",
+      "file": "eq_8_M4LEY6RA.png"
+    },
+    {
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "�9�",
+      "page": "5",
+      "attachment_key": "4U6DGJJN",
+      "file": "eq_9_4U6DGJJN.png"
+    }
+  ],
   "tags": [
     "unread"
   ],
   "materials": [],
-  "methods": [
-    "DFT"
-  ]
+  "methods": []
 }

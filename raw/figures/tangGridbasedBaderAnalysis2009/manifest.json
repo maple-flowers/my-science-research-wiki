@@ -4,11 +4,11 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "on-grid 方法示意图",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "Figure 1. An illustration of the steepest ascent paths (a) on a charge density grid to find the Bader volumes using the on-grid analysis method. These ascent trajectories are constrained to the grid points, moving at each step to the neighboring grid point towards which the charge density gradient is maximized. Each trajectory either terminates at a new charge density maximum, mi, or at a grid point which has already been assigned. After all grid points are assigned (b), the set of points which ",
       "page": "4",
-      "attachment_key": "95WTFMZI",
-      "file": "fig_1_95WTFMZI.png",
+      "attachment_key": "KVIXKFR9",
+      "file": "fig_1_KVIXKFR9.png",
       "tags": [
         "unread"
       ],
@@ -17,11 +17,11 @@
     },
     {
       "fig_number": "2",
-      "title": "晶格偏置的产生机制",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "Figure 2. Illustration of lattice bias in the on-grid method. The true dividing surface (red) runs parallel to the gradient lines, but the on-grid ascent trajectories follow the lattice direction along which the projection of the charge density gradient is maximized. Starting from the initial point, this direction is along +x and the trajectory moves from grid point to grid point in this direction. The error can be seen as the on-grid trajectory (straight blue arrows through the light-blue point",
       "page": "4",
-      "attachment_key": "EJ3YT762",
-      "file": "fig_2_EJ3YT762.png",
+      "attachment_key": "9NMYMX6H",
+      "file": "fig_2_9NMYMX6H.png",
       "tags": [
         "unread"
       ],
@@ -30,11 +30,11 @@
     },
     {
       "fig_number": "3",
-      "title": "near-grid 方法中的校正向量",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "Figure 3. An illustration of the near-grid step and how a correction vector points to the true trajectory. Steps are taken between grid points. The first step between grid points,⃗rgrid and along the gradient,⃗ rgrad, differ by the correction vector �⃗r1. After the second step, the difference is �⃗r2, and the total correction vector is �⃗r = �⃗r1 + �⃗r2. Now, the y component of the correction vector is larger than half of the grid spacing so that a correction step is taken in the −y direction, a",
       "page": "5",
-      "attachment_key": "6ZXTLPDH",
-      "file": "fig_3_6ZXTLPDH.png",
+      "attachment_key": "RLCNJDLK",
+      "file": "fig_3_RLCNJDLK.png",
       "tags": [
         "unread"
       ],
@@ -43,11 +43,11 @@
     },
     {
       "fig_number": "4",
-      "title": "二维三高斯模型测试",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "Figure 4. Comparison of the on-grid and near-grid methods for a two-dimensional charge density surface constructed from three Gaussian functions. By construction, the true dividing surface (gray lines in (a)) are at a small angle to the lattice. The on-grid method results in biased dividing surfaces that follow the grid; error regions, in which the Bader volume is incorrectly assigned, are colored white. In a single iteration of the near-grid method (b), the error regions are confined to the Bad",
       "page": "5",
-      "attachment_key": "YWVMC39K",
-      "file": "fig_4_YWVMC39K.png",
+      "attachment_key": "4NLPJJC7",
+      "file": "fig_4_4NLPJJC7.png",
       "tags": [
         "unread"
       ],
@@ -56,11 +56,11 @@
     },
     {
       "fig_number": "5",
-      "title": "水分子的 Bader 分界面对比",
-      "llm_description": "",
+      "title": "Figure 5",
+      "llm_description": "Figure 5. Comparison of Bader dividing surfaces found with the on-grid method (left) and the near-grid method (right). The on-grid surfaces are angular with facets oriented along the grid directions. This bias is removed in the near-grid method.",
       "page": "6",
-      "attachment_key": "KY6GZ5AK",
-      "file": "fig_5_KY6GZ5AK.png",
+      "attachment_key": "92CQE7PC",
+      "file": "fig_5_92CQE7PC.png",
       "tags": [
         "unread"
       ],
@@ -69,11 +69,11 @@
     },
     {
       "fig_number": "6",
-      "title": "NaCl 晶体中 Na 的 Bader 电荷收敛",
-      "llm_description": "",
+      "title": "Figure 6",
+      "llm_description": "Figure 6. Convergence with respect to grid density of the Bader charges for ions in a NaCl crystal. A fully converged charge on each Na ion is 0.828 e (blue dashed line). The (old) on-grid method deviates from this value by ca 0.01 e for a fine grid with 40 million points. The (new) near-grid method rapidly converges to the correct value.",
       "page": "6",
-      "attachment_key": "9Q6FRMTZ",
-      "file": "fig_6_9Q6FRMTZ.png",
+      "attachment_key": "6VPUB9DV",
+      "file": "fig_6_6VPUB9DV.png",
       "tags": [
         "unread"
       ],
@@ -82,11 +82,11 @@
     },
     {
       "fig_number": "7",
-      "title": "H2O 分子旋转时 Bader 面变化",
-      "llm_description": "",
+      "title": "Figure 7",
+      "llm_description": "Figure 7. The Bader surface in H2O is strongly dependent upon the orientation of the molecule with the on-grid method. This orientation dependence is due to the bias in the method which tends to orient the Bader surfaces along the grid directions. In the near-grid method, this bias is removed and the Bader surfaces are insensitive to the orientation of the molecule.",
       "page": "6",
-      "attachment_key": "TWG38I4P",
-      "file": "fig_7_TWG38I4P.png",
+      "attachment_key": "DXF7DHMH",
+      "file": "fig_7_DXF7DHMH.png",
       "tags": [
         "unread"
       ],
@@ -95,11 +95,11 @@
     },
     {
       "fig_number": "8",
-      "title": "H2O 中 O 原子 Bader 电荷随旋转角变化",
-      "llm_description": "",
+      "title": "Figure 8",
+      "llm_description": "Figure 8. The calculated Bader charge on the O atom in a H2O molecule as it is rotated with respect to the charge density grid. The biased Bader surfaces in the on-grid method give rise to both systematic and orientation dependent errors as compared to the near-grid method, for which the Bader surfaces and O valance charge remain constant with orientation.",
       "page": "7",
-      "attachment_key": "GVXZWZCM",
-      "file": "fig_8_GVXZWZCM.png",
+      "attachment_key": "KHXYRY68",
+      "file": "fig_8_KHXYRY68.png",
       "tags": [
         "unread"
       ],
@@ -108,11 +108,11 @@
     },
     {
       "fig_number": "9",
-      "title": "计算时间与网格点数的标度关系",
-      "llm_description": "",
+      "title": "Figure 9",
+      "llm_description": "Figure 9. Computer time required to analyze the charge density grid for the eight-atom NaCl cell with the near-grid algorithm. The computational cost scales linearly with the number of grid points in the charge density file, as with the on-grid method.",
       "page": "7",
-      "attachment_key": "AGXVANYB",
-      "file": "fig_9_AGXVANYB.png",
+      "attachment_key": "LX93LDMB",
+      "file": "fig_9_LX93LDMB.png",
       "tags": [
         "unread"
       ],
@@ -124,11 +124,68 @@
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|A grid-based Bader analysis algorithm without lattice bias|\n|短标题|一种无格偏的基于网格的Bader分析算法|\n|作者|[[W Tang]]、 [[E Sanville]]、 [[G Henkelman]]|\n|期刊名称|[[Journal of Physics：Condensed Matter]]|\n|DOI|[10.1088/0953-8984/21/8/084204](https://doi.org/10.1088/0953-8984/21/8/084204)|\n|存档位置|5479|\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[04_石墨烯/氧化石墨烯 (G/GO Sensors)]]|\n|条目链接|[My Library](zotero://select/library/items/7ZHQH9KS)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/UC378U86)|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|A grid-based Bader analysis algorithm without lattice bias|\n|短标题|一种无网格偏差的Bader分析算法|\n|作者|[[W Tang]]、 [[E Sanville]]、 [[G Henkelman]]|\n|期刊名称|[[Journal of Physics：Condensed Matter]]|\n|DOI|[10.1088/0953-8984/21/8/084204](https://doi.org/10.1088/0953-8984/21/8/084204)|\n|存档位置|5479|\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[04_石墨烯/氧化石墨烯 (G/GO Sensors)]]|\n|条目链接|[My Library](zotero://select/library/items/7ZHQH9KS)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/UC378U86)|\n|关联文献||",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "3",
+      "attachment_key": "MGYKG3FU",
+      "file": "eq_1_MGYKG3FU.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "3",
+      "attachment_key": "UARLUIVI",
+      "file": "eq_2_UARLUIVI.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(3)",
+      "page": "3",
+      "attachment_key": "SR2HYKP8",
+      "file": "eq_3_SR2HYKP8.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4c)",
+      "page": "4",
+      "attachment_key": "TYH622DI",
+      "file": "eq_4_TYH622DI.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "(5)",
+      "page": "4",
+      "attachment_key": "UYVLVEVX",
+      "file": "eq_5_UYVLVEVX.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "(6)",
+      "page": "4",
+      "attachment_key": "GLKJ2QAC",
+      "file": "eq_6_GLKJ2QAC.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "(7)",
+      "page": "5",
+      "attachment_key": "2XCZSRK8",
+      "file": "eq_7_2XCZSRK8.png"
+    }
+  ],
   "tags": [
     "unread"
   ],

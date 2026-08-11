@@ -4,159 +4,104 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "Ferroelectricity in charge-ordered systems (电荷有序体系中的铁电性)",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "presence of electric polarization, the sign of which is codirection of spin rotation. In contrast, a sinusoidal snground state is a magnetic spiral. b, The chain of Ising spins σn = ±1,energy HI = Σn [J σnσn+1 + J´σnσn+2] has the up–up–down–down grounJ´/|J | &gt; 1/2.",
       "page": "6",
-      "attachment_key": "HU9IRV9K",
-      "file": "fig_1_HU9IRV9K.png",
+      "attachment_key": "D8A9TF3K",
+      "file": "fig_1_D8A9TF3K.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "AFM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "14",
       "title": "Figure 14",
-      "llm_description": "14  nature materials | VOL 6 | JANUARY 2007 | www.nature.com/naantiferromagnetic couplings. Ions are shifted away from centrosymmetric positions by exchange striction. c, Charge ordering in bilayered Lu(Fe2.5+)2O4 with a triangof Fe ions in each layer. The charge transfer from the top to bottom laye",
+      "llm_description": "14 nature materials | VOL 6 | JANUARY 2007 | www.nature.com/naantiferromagnetic couplings. Ions are shifted away from centrosymmetric positions by exchange striction. c, Charge ordering in bilayered Lu(Fe2.5+)2O4 with a triangof Fe ions in each layer. The charge transfer from the top to bottom layer gives rise to net electric polarization. d, Possible polarization induced by charge ordering a↑↑↓↓-type spin ordering in the a–b plane of perovskite YNiO3.",
       "page": "3",
-      "attachment_key": "4BFH45H2",
-      "file": "fig_14_4BFH45H2.png",
+      "attachment_key": "3983JFDD",
+      "file": "fig_14_3983JFDD.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "AFM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
-      "title": "High magnetic tunability of magnetic ferroelectrics (磁致铁电体的高磁场可调性)",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "neighbouring spins is ferromagnetic (FM) in the a–b plapolarization along the a axis. b, The spin-fl opped state in a magnetic fi eld wspin rotation axis along H||a and polarization along the c axis. c, Ordering of(red arrows) in the ‘(nearly) collinear’ phase of YMn2O5. Green dashed lines iantiferromagnetic zigzags along the a axis. Large red and blue dotted ellipsindicate parallel and antiparallel spin pairs across the AFM zigzags, respectiantiferromagnetic nearest-neighbour spin coupling and ",
       "page": "7",
-      "attachment_key": "BWGTUCZE",
-      "file": "fig_2_BWGTUCZE.png",
+      "attachment_key": "PNAIBBQF",
+      "file": "fig_2_PNAIBBQF.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "AFM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "27",
       "title": "Figure 27",
-      "llm_description": "density-ity, as it  otropies  rdering  e, which  oelectric  re of the  ector Q  magnetic ions, thus inducing electric polarization perpendiculchain27 (see Fig. 5). Th is mechanism can also be expressed in magnetic transition metal ions (fi lled circles), D12 ∝ λx × rˆ12. Weak ferromagnein antiferrom",
+      "llm_description": "density-ity, as it otropies rdering e, which oelectric re of the ector Q magnetic ions, thus inducing electric polarization perpendiculchain27 (see Fig. 5). Th is mechanism can also be expressed in magnetic transition metal ions (fi lled circles), D12 ∝ λx × rˆ12. Weak ferromagnein antiferromagnets (for example, LaCu2O4 layers) results from the alternating Dzyaloshinskii vector, whereas (weak) ferroelectricity can be induced by the estriction in a magnetic spiral state, which pushes negative oxy",
       "page": "6",
-      "attachment_key": "5K9QC6UV",
-      "file": "fig_27_5K9QC6UV.png",
+      "attachment_key": "963J6CL5",
+      "file": "fig_27_963J6CL5.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "AFM"
-      ]
-    },
-    {
-      "fig_number": "3",
-      "title": "Temperature dependence of the inverse magnetic susceptibility of magnetically frustrated materials (磁挫折材料逆磁化率的温度依赖性)",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
-      "tags": [
-        "Done"
-      ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "AFM"
-      ]
-    },
-    {
-      "fig_number": "4",
-      "title": "Frustrated spin chains with the nearest-neighbour FM and next-nearest-neighbour AFM interactions J and J´ (具有最近邻铁磁和次近邻反铁磁相互作用J和J´的挫折自旋链)",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
-      "tags": [
-        "Done"
-      ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "AFM"
-      ]
-    },
-    {
-      "fig_number": "5",
-      "title": "Effects of the antisymmetric Dzyaloshinskii–Moriya interaction (反对称Dzyaloshinskii–Moriya相互作用的影响)",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
-      "tags": [
-        "Done"
-      ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "AFM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "500",
       "title": "Figure 500",
-      "llm_description": "by ~500% in a narrow fi eld range. Th is colossal magneto-dCurie–Weiss temperatures. c,d, Anisotropic magnetic susceptibility as well adielectric constant along the ferroelectric polarization direction for (Eu0.75Y0.25)and YMn2O5 (d). The sharp peak of the dielectric constant curve indicates thea fe",
+      "llm_description": "by ~500% in a narrow fi eld range. Th is colossal magneto-dCurie–Weiss temperatures. c,d, Anisotropic magnetic susceptibility as well adielectric constant along the ferroelectric polarization direction for (Eu0.75Y0.25)and YMn2O5 (d). The sharp peak of the dielectric constant curve indicates thea ferroelectric transition. The data show that in (Eu0.75Y0.25)MnO3, the collinearstate with the magnetic easy b axis is paraelectric, whereas the one with thea–b plane (magnetic spiral) is ferroelectric ",
       "page": "5",
-      "attachment_key": "EVW63HCV",
-      "file": "fig_500_EVW63HCV.png",
+      "attachment_key": "2L2TSATA",
+      "file": "fig_500_2L2TSATA.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "AFM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "6",
-      "title": "Spiral and non-spiral magnetic ferroelectrics (螺旋和非螺旋磁致铁电体)",
-      "llm_description": "",
+      "title": "Figure 6",
+      "llm_description": "nature materials | VOL 6 | JANUARY 2007 | www.nature.com/naturematerials c, The highly reversible 180° fl ipping of electric polarization along the b axis in TbMn2O5 can be activated by applying magnetic fi elds along the a axis14. d, The tempdependence of ε along the b axis in DyMn2O5 in various magnetic fi elds. The magnitude of the step-like increase of ε below ~25 K is strongly fi eld-dependent. Parts are reprinted with permission from refs 42 and 41, respectively. Copyright (2004) APS.",
       "page": "4",
-      "attachment_key": "8CAENRMU",
-      "file": "fig_6_8CAENRMU.png",
+      "attachment_key": "7B4LX9VV",
+      "file": "fig_6_7B4LX9VV.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "AFM"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
+    {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1 Classifi cation of ferroelectriMechanism of inversion",
+      "page": "3",
+      "attachment_key": "X3QYE982",
+      "file": "tab_1_X3QYE982.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th>Mechanism of inversion symmetry breaking</th>\n<th>Materials</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Proper</strong></td>\n<td></td>\n</tr>\n<tr>\n<td>Covalent bonding between 3d0 transition metal (Ti) and oxygen</td>\n<td>BaTiO3</td>\n</tr>\n<tr>\n<td>Polarization of 6s2 lone pair of Bi or Pb</td>\n<td>BiMnO3, BiFeO3, Pb(Fe2/3W1/3)O3</td>\n</tr>\n<tr>\n<td><strong>Improper</strong></td>\n<td></td>\n</tr>\n<tr>\n<td>Structural transition \"Geometric ferroelectrics\"</td>\n<td>K2SeO4, Cs2CdI4, hexagonal RMnO3</td>\n</tr>\n<tr>\n<td>Charge ordering \"Electronic ferroelectrics\"</td>\n<td>LuFe2O4</td>\n</tr>\n<tr>\n<td>Magnetic ordering \"Magnetic ferroelectrics\"</td>\n<td>Orthorhombic RMnO3, RMn2O5, CoCr2O4</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th>反演对称性破缺机制</th>\n<th>材料</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>本征</strong></td>\n<td></td>\n</tr>\n<tr>\n<td>3d0过渡金属(Ti)与氧之间的共价键合</td>\n<td>BaTiO3</td>\n</tr>\n<tr>\n<td>Bi或Pb的6s2孤对电子的极化</td>\n<td>BiMnO3, BiFeO3, Pb(Fe2/3W1/3)O3</td>\n</tr>\n<tr>\n<td><strong>非本征</strong></td>\n<td></td>\n</tr>\n<tr>\n<td>结构相变 \"几何铁电体\"</td>\n<td>K2SeO4, Cs2CdI4, 六方RMnO3</td>\n</tr>\n<tr>\n<td>电荷有序化 \"电子铁电体\"</td>\n<td>LuFe2O4</td>\n</tr>\n<tr>\n<td>磁有序化 \"磁性铁电体\"</td>\n<td>正交RMnO3, RMn2O5, CoCr2O4</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
     {
       "id": "MD-T1",
       "title": "MD Table 1",
@@ -168,10 +113,6 @@
   "tags": [
     "Done"
   ],
-  "materials": [
-    "BiFeO3"
-  ],
-  "methods": [
-    "AFM"
-  ]
+  "materials": [],
+  "methods": []
 }

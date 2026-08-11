@@ -4,136 +4,118 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "层间堆叠与滑动实现层间滑动多铁性及多铁态互联对称性示意图",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. (a) The interlayer-stacking and -sliding methods to achieve the interlayer-sliding multiferroicity. In the case of mono-layers lacking ˆP symmetry but possessing ˆMz symmetry (case 1), the A/A stacking mode is utilized. On the other hand, for monolayers with ˆP symmetry but lacking ˆMz symmetry (case 2), the A/B stacking mode is employed. (b) The four multiferroic states (P↑N↑, P↑N↓, P↓N↓, and P↓N↑) and the interconnected symmetry. The red arrows represent the direction of magnetic momen",
       "page": "2",
-      "attachment_key": "PBRMT7YM",
-      "file": "fig_1_PBRMT7YM.png",
+      "attachment_key": "PSWKHEGL",
+      "file": "fig_1_PSWKHEGL.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "CrI3",
-        "Cr2Ge2Te6",
-        "Fe3GeTe2"
-      ],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT",
-        "Raman"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
-      "title": "双层VSe2在四种多铁态下的计算结果",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. Calculated (a) anomalous photoconductivity σ A xy and (b) SHG coefficients of the bilayer VSe2 in four multiferroic states. The calculated SHG and Kerr coefficients within different multiferroic states are consistent with the results in Table I.",
       "page": "4",
-      "attachment_key": "A6G4N7BD",
-      "file": "fig_2_A6G4N7BD.png",
+      "attachment_key": "ZPVW798L",
+      "file": "fig_2_ZPVW798L.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "CrI3",
-        "Cr2Ge2Te6",
-        "Fe3GeTe2"
-      ],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT",
-        "Raman"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "3",
-      "title": "双层MnBi2Te4的晶体结构和计算结果",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3. (a) Crystal structure of the multiferroic state P↑N↑of MnBi2Te4. The red arrows represent the direction of magnetic mo-ments and the green arrow represent the direction of out-of-plane FE polarization. (b) Anomalous photoconductivity σ A xy of the multifer-roic states. (c) SHG coefficients of the even and odd parts of the four multiferroic states. We have symmetrized the in-plane SHG tensor elements of the odd components (P↑N↑+ P↓N↓−P↓N↑−P↑N↓/4).",
       "page": "4",
-      "attachment_key": "2EYBVD6I",
-      "file": "fig_3_2EYBVD6I.png",
+      "attachment_key": "67Z7B2PL",
+      "file": "fig_3_67Z7B2PL.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "CrI3",
-        "Cr2Ge2Te6",
-        "Fe3GeTe2"
-      ],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT",
-        "Raman"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "4",
-      "title": "通过斜入射SHG方法检测多铁态的示意图和极化分辨SHG图案",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "FIG. 4. (a) Illustration of the detection multiferroic states via oblique incident SHG method. The polarization of the funda-mental and SHG beams is represented by double arrows lines (P polarization), where ϕ represents the azimuth angle between the x axis and the x′z′ plane, where x′, y′, z′ are the labora-tory coordinates axis, which keep invariant. (b) Corresponding polarization-resolved SHG pattern with the multiferroic states with PPP setting. EPPP(2ω) ∝χ odd xxx cos(3ϕ) + χ even yyy sin(3",
       "page": "5",
-      "attachment_key": "3PBYD64Y",
-      "file": "fig_4_3PBYD64Y.png",
+      "attachment_key": "H4MUSGVJ",
+      "file": "fig_4_H4MUSGVJ.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "CrI3",
-        "Cr2Ge2Te6",
-        "Fe3GeTe2"
-      ],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT",
-        "Raman"
-      ]
-    },
-    {
-      "fig_number": "I",
-      "title": "不同多铁态下SHG和克尔系数的关系",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
-      "tags": [
-        "Done"
-      ],
-      "materials": [
-        "CrI3",
-        "Cr2Ge2Te6",
-        "Fe3GeTe2"
-      ],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT",
-        "Raman"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Optical fingerprints of two-dimensional interlayer-sliding multiferroic materials|\n|短标题|二维层间滑动多铁材料的光学指纹|\n|作者|[[Hong-Miao Zhao]]、 [[Hang Zhou]]、 [[Wei Gan]]、 [[Hui Han]]、 [[Hui Li]]、 [[Rui-Chun Xiao]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.110.125413](https://doi.org/10.1103/PhysRevB.110.125413)|\n|存档位置|4|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/BK4MKECB)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/6RRN36P2)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Optical fingerprints of two-dimensional interlayer-sliding multiferroic materials|\n|短标题|二维层间滑动多铁材料的光学指纹|\n|作者|[[Hong-Miao Zhao]]、 [[Hang Zhou]]、 [[Wei Gan]]、 [[Hui Han]]、 [[Hui Li]]、 [[Rui-Chun Xiao]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.110.125413](https://doi.org/10.1103/PhysRevB.110.125413)|\n|存档位置|4|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/BK4MKECB)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/6RRN36P2)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "2",
+      "attachment_key": "D9IY9ZDM",
+      "file": "eq_1_D9IY9ZDM.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "2",
+      "attachment_key": "23WSGU3A",
+      "file": "eq_2_23WSGU3A.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(3)",
+      "page": "2",
+      "attachment_key": "THV8WVPQ",
+      "file": "eq_3_THV8WVPQ.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4)",
+      "page": "2",
+      "attachment_key": "FPW39UE2",
+      "file": "eq_4_FPW39UE2.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "(5)",
+      "page": "2",
+      "attachment_key": "GB5KMYPU",
+      "file": "eq_5_GB5KMYPU.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "(6)",
+      "page": "2",
+      "attachment_key": "RY5AL7BH",
+      "file": "eq_6_RY5AL7BH.png"
+    }
+  ],
   "tags": [
     "Done"
   ],
-  "materials": [
-    "CrI3",
-    "Cr2Ge2Te6",
-    "Fe3GeTe2"
-  ],
-  "methods": [
-    "AFM",
-    "first-principles",
-    "DFT",
-    "Raman"
-  ]
+  "materials": [],
+  "methods": []
 }

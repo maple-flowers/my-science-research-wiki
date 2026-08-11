@@ -1,0 +1,218 @@
+{
+  "parent_key": "yangStrainEngineeringTwodimensional2021",
+  "title": "yangStrainEngineeringTwodimensional2021",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIGURE 1 (A) Schematic diagram of the process for forming ReSe2 wrinkles by prestretched PDMS substrate.34 Adapted with permission: Copyright 2015, American Chemical Society. (B) The process for forming InSe wrinkles by pre-bent PDMS substrate.36 Reproduced with permission: Copyright 2019, Royal Society of Chemistry. (C) Illustration of laser-induced local heating. (D) Schematic diagram of biaxial tensile strain in monolayer MoS2.44 Reproduced with permission: Copyright 2015, IOP Publishing Ltd.",
+      "page": "3",
+      "attachment_key": "YWVERIAZ",
+      "file": "fig_1_YWVERIAZ.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIGURE 2 (A) Process of patterning the SiO2/Si substrate and forming MoS2 ripples.53 Reproduced with permission: Copyright 2017, Wiley-VCH. (B) SEM image of a patterned Si substrate. Off-axis SEM images of (C) inverted Si funnel arrays and (D) strained MoS2 nanosheets on the patterned Si substrate.55 Reproduced with permission: Copyright 2017, Royal Society of Chemistry. (E) Schematic diagram of the formation process of MoS2 wrinkles on ZnO NRA-patterned substrate. (F) Schematic of the strain di",
+      "page": "6",
+      "attachment_key": "R4K6RUL3",
+      "file": "fig_2_R4K6RUL3.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIGURE 3 Schematic diagram of (A) compressive and (B) tensile strain generation when applying forces at the middle or edge of monolayer MoS2.70 Adapted with permission: Copyright 2015, Springer Nature. (C) Diagram of the setup for the electrical measurement of suspended MoS2 membrane under compressive strain caused by AFM tip.71 Reproduced with permission: Copyright 2015, American Chemical Society. (D) OM image of bubbles at the interface of MoS2 and h-BN (The scale bar was 10 μm). (E) AFM image",
+      "page": "8",
+      "attachment_key": "82C33UVQ",
+      "file": "fig_3_82C33UVQ.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "FIGURE 4 (A) The red shift and splitting of G Raman peak of monolayer graphene under uniaxial strain.50 Reproduced with permission: Copyright 2009, American Physical Society. (B) The splitting of E0 Raman peak of monolayer MoS2 under uniaxial strain.51 Reproduced with permission: Copyright 2013, American Chemical Society. (C) OM image of a wrinkled MoS2 flake. (D) Raman mapping of the E1 2g mode of the MoS2 flake in (C).87 Reproduced with permission: Copyright 2019, Royal Society of Chemistry. (",
+      "page": "10",
+      "attachment_key": "KDFATFZY",
+      "file": "fig_4_KDFATFZY.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "FIGURE 5 Transfer curves of (A) wrinkled and (B) flat MoS2 FETs at different temperatures.87 Reproduced with permission: Copyright 2019, Royal Society of Chemistry. (C) Schematic of a MoS2 FET with a c-SiNx dielectric layer. (D) Transfer curves of MoS2 FETs with a c-SiNx dielectric layer (blue line) and a SiO2 dielectric layer (red line).104 Reproduced with permission: Copyright 2019, Springer Nature. (E) OM image and (F) schematic diagram of a BP FET on a flexible PEN substrate. (G) Resistance ",
+      "page": "13",
+      "attachment_key": "8GRJM49G",
+      "file": "fig_5_8GRJM49G.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "FIGURE 6 Schematic of the biaxial tensile strain-induced magnetism of (A) NbS2 and (B) NbSe2.111 Reproduced with permission: Copyright 2012, American Chemical Society. (C) The MFM phase and amplitude images of wrinkled monolayer ReSe2 on a Gel-PAK film substrate.34 Reproduced with permission: Copyright 2015, American Chemical Society. (D) Atomic stacking patterns of 2H, 1T, and 1T0 phases of MX2-type TMDs. (E) Schematic diagram of gradual transition from 2H phase to 1T0 phase under tensile strai",
+      "page": "15",
+      "attachment_key": "D9X8L38L",
+      "file": "fig_6_D9X8L38L.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "FIGURE 7 (A) Schematic diagram of a graphene strain sensor. (B) Relationship between the resistance variation of graphene and the strain.132 Reproduced with permission: Copyright 2011, American Institute of Physics. (C) Variations of the overlapping areas of graphene sheets under compressive and tensile strains.133 Reproduced with permission: Copyright 2010, Elsevier B.V. (D) Schematic of the overlapped graphene sheets before and after applying tensile strain. Demonstration of graphene strain se",
+      "page": "17",
+      "attachment_key": "759Q4J7C",
+      "file": "fig_7_759Q4J7C.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "FIGURE 8 (A) Schematic diagram of a crumpled graphene photodetector. (B) Comparison of light absorption ability of wrinkled and flat graphene.29 Reproduced with permission: Copyright 2016, Wiley-VCH. (C) Photoresponse in the monolayer MoS2 photodetector under different strains, and the corresponding diagram of energy band change.142 Reproduced with permission: Copyright 2016, Wiley-VCH",
+      "page": "19",
+      "attachment_key": "ZEAZ8UJ9",
+      "file": "fig_8_ZEAZ8UJ9.png",
+      "tags": [
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "TABLE 1 The ranges and types of strain in various strained 2D material systems by different inducing methods",
+      "page": "9",
+      "attachment_key": "QX9M44VW",
+      "file": "tab_1_QX9M44VW.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Straining methods</th>\n<th style=\"text-align:left\">Substrates</th>\n<th style=\"text-align:left\">Materials/layers</th>\n<th style=\"text-align:left\">Ranges of strain</th>\n<th style=\"text-align:left\">Types of strain</th>\n<th style=\"text-align:left\">References</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">Lattice mismatch</td>\n<td style=\"text-align:left\">Si/SiO2</td>\n<td style=\"text-align:left\">WSe2-MoS2/1</td>\n<td style=\"text-align:left\">−1.1 ± 0.18% to 1.59 ± 0.25%</td>\n<td style=\"text-align:left\">Local inhomogeneous</td>\n<td style=\"text-align:left\">[30]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Lattice mismatch</td>\n<td style=\"text-align:left\">SrTiO3</td>\n<td style=\"text-align:left\">SnSe2/1–3</td>\n<td style=\"text-align:left\">Equivalent pressure: 11–23 GPa</td>\n<td style=\"text-align:left\">Local inhomogeneous</td>\n<td style=\"text-align:left\">[80]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Prestrained flexible substrates</td>\n<td style=\"text-align:left\">PDMS</td>\n<td style=\"text-align:left\">WS2/2–4</td>\n<td style=\"text-align:left\">0–2%</td>\n<td style=\"text-align:left\">Local inhomogeneous</td>\n<td style=\"text-align:left\">[33]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Prestrained flexible substrates</td>\n<td style=\"text-align:left\">Gel-PAK film</td>\n<td style=\"text-align:left\">ReSe2/mutilayers</td>\n<td style=\"text-align:left\">1.64%</td>\n<td style=\"text-align:left\">Local inhomogeneous</td>\n<td style=\"text-align:left\">[34]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Prestrained flexible substrates</td>\n<td style=\"text-align:left\">PDMS</td>\n<td style=\"text-align:left\">Graphene/mutilayers</td>\n<td style=\"text-align:left\">Below 0.3%</td>\n<td style=\"text-align:left\">Local inhomogeneous</td>\n<td style=\"text-align:left\">[35]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Bending flexible substrates</td>\n<td style=\"text-align:left\">PET</td>\n<td style=\"text-align:left\">MoS2/1–2</td>\n<td style=\"text-align:left\">0–0.8%</td>\n<td style=\"text-align:left\">Uniaxial homogeneous</td>\n<td style=\"text-align:left\">[21]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Bending flexible substrates</td>\n<td style=\"text-align:left\">PVA</td>\n<td style=\"text-align:left\">MoS2/1</td>\n<td style=\"text-align:left\">0–1.49%</td>\n<td style=\"text-align:left\">Uniaxial homogeneous</td>\n<td style=\"text-align:left\">[52]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Bending flexible substrates</td>\n<td style=\"text-align:left\">PP</td>\n<td style=\"text-align:left\">InSe/4–8</td>\n<td style=\"text-align:left\">0–1.15%</td>\n<td style=\"text-align:left\">Uniaxial homogeneous</td>\n<td style=\"text-align:left\">[81]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Bending flexible substrates</td>\n<td style=\"text-align:left\">PI</td>\n<td style=\"text-align:left\">MoS2/1–2</td>\n<td style=\"text-align:left\">0–0.32%</td>\n<td style=\"text-align:left\">Uniaxial homogeneous</td>\n<td style=\"text-align:left\">[82]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Bending flexible substrates</td>\n<td style=\"text-align:left\">PEN</td>\n<td style=\"text-align:left\">BP/mutilayers</td>\n<td style=\"text-align:left\">−0.22 to 0.15%</td>\n<td style=\"text-align:left\">Uniaxial homogeneous</td>\n<td style=\"text-align:left\">[83]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Heating or cooling substrates</td>\n<td style=\"text-align:left\">Silica, etc.</td>\n<td style=\"text-align:left\">WSe2/1</td>\n<td style=\"text-align:left\">−0.2 to 1%</td>\n<td style=\"text-align:left\">Biaxial homogeneous</td>\n<td style=\"text-align:left\">[84]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Heating or cooling substrates</td>\n<td style=\"text-align:left\">PC</td>\n<td style=\"text-align:left\">MoS2/1</td>\n<td style=\"text-align:left\">−1.58 to 0.48%</td>\n<td style=\"text-align:left\">Biaxial homogeneous</td>\n<td style=\"text-align:left\">[45]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Heating or cooling substrates</td>\n<td style=\"text-align:left\">PS</td>\n<td style=\"text-align:left\">Graphene/mutilayers</td>\n<td style=\"text-align:left\">0.27%</td>\n<td style=\"text-align:left\">Uniaxial/biaxial homogeneous</td>\n<td style=\"text-align:left\">[47]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Patterned substrates</td>\n<td style=\"text-align:left\">Rippled Si/SiO2</td>\n<td style=\"text-align:left\">MoS2/4</td>\n<td style=\"text-align:left\">0.5%</td>\n<td style=\"text-align:left\">Local inhomogeneous (anisotropic)</td>\n<td style=\"text-align:left\">[53]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Patterned substrates</td>\n<td style=\"text-align:left\">Patterned PDMS</td>\n<td style=\"text-align:left\">Graphene/mutilayers</td>\n<td style=\"text-align:left\">1–2%</td>\n<td style=\"text-align:left\">Local inhomogeneous</td>\n<td style=\"text-align:left\">[54]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Patterned substrates</td>\n<td style=\"text-align:left\">Line patterned Si</td>\n<td style=\"text-align:left\">Graphene/mutilayers</td>\n<td style=\"text-align:left\">0.5%</td>\n<td style=\"text-align:left\">Biaxial inhomogeneous (anisotropic)</td>\n<td style=\"text-align:left\">[56]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Piezoelectric substrates</td>\n<td style=\"text-align:left\">PMN-PT</td>\n<td style=\"text-align:left\">MoS2/3</td>\n<td style=\"text-align:left\">−0.04%/100 V</td>\n<td style=\"text-align:left\">Biaxial homogeneous</td>\n<td style=\"text-align:left\">[67]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Piezoelectric substrates</td>\n<td style=\"text-align:left\">PMN-PT</td>\n<td style=\"text-align:left\">α-In2Se3</td>\n<td style=\"text-align:left\">−0.011%/100 V</td>\n<td style=\"text-align:left\">Biaxial homogeneous</td>\n<td style=\"text-align:left\">[85]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">AFM tip</td>\n<td style=\"text-align:left\">Si/SiO2</td>\n<td style=\"text-align:left\">MoS2/1</td>\n<td style=\"text-align:left\">4.7 × 10⁻⁵F</td>\n<td style=\"text-align:left\">Local inhomogeneous (isotropic)</td>\n<td style=\"text-align:left\">[70]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">AFM tip</td>\n<td style=\"text-align:left\">Si/SiO2</td>\n<td style=\"text-align:left\">Suspended MoS2/1–3</td>\n<td style=\"text-align:left\">δmem: 33 nm</td>\n<td style=\"text-align:left\">Local inhomogeneous (isotropic)</td>\n<td style=\"text-align:left\">[71]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Bubbles</td>\n<td style=\"text-align:left\">h-BN, etc.</td>\n<td style=\"text-align:left\">MoS2/1</td>\n<td style=\"text-align:left\">2%</td>\n<td style=\"text-align:left\">Gradient homogeneous</td>\n<td style=\"text-align:left\">[77]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Bubbles</td>\n<td style=\"text-align:left\">Si/SiO2 with cavities</td>\n<td style=\"text-align:left\">MoS2/mutilayers</td>\n<td style=\"text-align:left\">−0.8 to 0.15%</td>\n<td style=\"text-align:left\">Biaxial homogeneous</td>\n<td style=\"text-align:left\">[78]</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Strain engineering of <scp>two‐dimensional</scp> materials: Methods, properties, and applications|\n|短标题|二维材料的应变工程：方法、性质和应用|\n|作者|[[Shengxue Yang]]、 [[Yujia Chen]]、 [[Chengbao Jiang]]|\n|期刊名称|[[InfoMat]]|\n|DOI|[10.1002/inf2.12177](https://doi.org/10.1002/inf2.12177)|\n|存档位置|444|\n|文库编目|22.3|\n|索书号|1|\n|版权||\n|分类|[[07_发光机理与陷阱物理 (ML Mechanisms)]]|\n|条目链接|[My Library](zotero://select/library/items/H2H8G6YP)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/VLV6LLPS\">Yang 等 - 2021 - Strain engineering of two‐dimensional materials Methods, properties, and applications</a></li><li><a href=\"zotero://open-pdf/library/items/R5IXJ7CZ\">Yang 等 - 2021 - Strain engineering of two‐dimensional materials Methods, properties, and applications.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "ð1Þ",
+      "page": "3",
+      "attachment_key": "TAWJDU8R",
+      "file": "eq_1_TAWJDU8R.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "ð2Þ",
+      "page": "4",
+      "attachment_key": "MVDKLZED",
+      "file": "eq_2_MVDKLZED.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "ð3Þ",
+      "page": "7",
+      "attachment_key": "HMFU6L9E",
+      "file": "eq_3_HMFU6L9E.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "ð4Þ",
+      "page": "8",
+      "attachment_key": "GCHGJJJ9",
+      "file": "eq_4_GCHGJJJ9.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "ð5Þ",
+      "page": "8",
+      "attachment_key": "MPIIV52Z",
+      "file": "eq_5_MPIIV52Z.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "ð6Þ",
+      "page": "8",
+      "attachment_key": "PSPYJIMK",
+      "file": "eq_6_PSPYJIMK.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "ð7Þ",
+      "page": "12",
+      "attachment_key": "23JKPS6N",
+      "file": "eq_7_23JKPS6N.png"
+    },
+    {
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "ð8Þ",
+      "page": "16",
+      "attachment_key": "6QU4TXB3",
+      "file": "eq_8_6QU4TXB3.png"
+    },
+    {
+      "id": "eq1",
+      "title": "Equation 1",
+      "content": "$$...$$",
+      "page": "-"
+    }
+  ],
+  "tags": [
+    "unread",
+    "参考文献-layer"
+  ],
+  "materials": [],
+  "methods": []
+}

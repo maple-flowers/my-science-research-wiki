@@ -1,0 +1,228 @@
+{
+  "parent_key": "Jin2015studying",
+  "title": "Jin2015studying",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Figure 1.  (a) Perspective view of the pseudocubic arrangement of Fe ions in the hexagonal representation.  (b) Schematic for Proper Euler angles. (c) Displacement u3 for BiFeO3 on Euler’s angles Φ, θ in the  laboratory coordinate system. (d) Displacement u1 and u2 for BiFeO3 on Euler’s angles Φ, θ and Ψ =  0°, 30°,  60°, 90° in the laboratory coordinate system.",
+      "page": "3",
+      "attachment_key": "BPD8ZZPF",
+      "file": "fig_1_BPD8ZZPF.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Figure 2.  (a) Schematic of PFM detection. (b) Surface morphology, (c) VPFM, (d) x-LPFM images of the  BiFeO3 film before and (e) VPFM, (f) x-LPFM images after poling, where dashed white lines indicate the  polar scanned region.",
+      "page": "6",
+      "attachment_key": "MUN94SVB",
+      "file": "fig_2_MUN94SVB.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Figure 3.  (a) Subtracted VPFM [(Fig. 2(e,c,b) x-LPFM [(Fig. 2(f,d)] images with 40 switched-domains  marked. (c) Examples for 71°, 109° and 180° domain switching. (d) Statistical data for polarization switching  from marked domains.",
+      "page": "7",
+      "attachment_key": "YANLELY3",
+      "file": "fig_3_YANLELY3.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Studying the Polarization Switching in Polycrystalline BiFeO3 Films by 2D Piezoresponse Force Microscopy|\n|短标题|用二维压电响应力显微镜研究BiFeO3多晶薄膜的极化开关|\n|作者|[[Yaming Jin]]、 [[Xiaomei Lu]]、 [[Junting Zhang]]、 [[Yi Kan]]、 [[Huifeng Bo]]、 [[Fengzhen Huang]]、 [[Tingting Xu]]、 [[Yingchao Du]]、 [[Shuyu Xiao]]、 [[Jinsong Zhu]]|\n|期刊名称|[[Scientific Reports]]|\n|DOI|[10.1038/srep12237](https://doi.org/10.1038/srep12237)|\n|存档位置|32|\n|文库编目|4.9|\n|索书号|3|\n|版权||\n|分类|[[02_极化翻转动力学 (Polarization Switching)]]|\n|条目链接|[My Library](zotero://select/library/items/XCTZXTQK)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/UT9SMSNV)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "( ) 1",
+      "page": "2",
+      "attachment_key": "YXAPITCC",
+      "file": "eq_1_YXAPITCC.png"
+    },
+    {
+      "id": "eq_11",
+      "title": "Equation 11",
+      "content": "( ) 11",
+      "page": "4",
+      "attachment_key": "K9GSZLY4",
+      "file": "eq_11_K9GSZLY4.png"
+    },
+    {
+      "id": "eq_13",
+      "title": "Equation 13",
+      "content": "( ) 13",
+      "page": "4",
+      "attachment_key": "2BYIMKZE",
+      "file": "eq_13_2BYIMKZE.png"
+    },
+    {
+      "id": "eq_14",
+      "title": "Equation 14",
+      "content": "( ) 14",
+      "page": "4",
+      "attachment_key": "SUNY2JYZ",
+      "file": "eq_14_SUNY2JYZ.png"
+    },
+    {
+      "id": "eq_15",
+      "title": "Equation 15",
+      "content": "( ) 15",
+      "page": "4",
+      "attachment_key": "4RTCLZB2",
+      "file": "eq_15_4RTCLZB2.png"
+    },
+    {
+      "id": "eq_16",
+      "title": "Equation 16",
+      "content": "( ) 16",
+      "page": "4",
+      "attachment_key": "7DC5H5YN",
+      "file": "eq_16_7DC5H5YN.png"
+    },
+    {
+      "id": "eq_17",
+      "title": "Equation 17",
+      "content": "( ) 17",
+      "page": "4",
+      "attachment_key": "8IQAPXKC",
+      "file": "eq_17_8IQAPXKC.png"
+    },
+    {
+      "id": "eq_19",
+      "title": "Equation 19",
+      "content": "( ) 19",
+      "page": "4",
+      "attachment_key": "93VSHWJE",
+      "file": "eq_19_93VSHWJE.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "( ) 2",
+      "page": "2",
+      "attachment_key": "KN8Y6S7K",
+      "file": "eq_2_KN8Y6S7K.png"
+    },
+    {
+      "id": "eq_20",
+      "title": "Equation 20",
+      "content": "( ) 20",
+      "page": "5",
+      "attachment_key": "G9SUFWKD",
+      "file": "eq_20_G9SUFWKD.png"
+    },
+    {
+      "id": "eq_21",
+      "title": "Equation 21",
+      "content": "( ) 21",
+      "page": "5",
+      "attachment_key": "BNYMGHTS",
+      "file": "eq_21_BNYMGHTS.png"
+    },
+    {
+      "id": "eq_22",
+      "title": "Equation 22",
+      "content": "( ) 22",
+      "page": "5",
+      "attachment_key": "YQZGCQU3",
+      "file": "eq_22_YQZGCQU3.png"
+    },
+    {
+      "id": "eq_23",
+      "title": "Equation 23",
+      "content": "( ) 23",
+      "page": "5",
+      "attachment_key": "5RK2B9X8",
+      "file": "eq_23_5RK2B9X8.png"
+    },
+    {
+      "id": "eq_24",
+      "title": "Equation 24",
+      "content": "( ) 24",
+      "page": "5",
+      "attachment_key": "VBNKIQYV",
+      "file": "eq_24_VBNKIQYV.png"
+    },
+    {
+      "id": "eq_25",
+      "title": "Equation 25",
+      "content": "( ) 25",
+      "page": "5",
+      "attachment_key": "T62ZBXNK",
+      "file": "eq_25_T62ZBXNK.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "( ) 3",
+      "page": "2",
+      "attachment_key": "QQGVMI5G",
+      "file": "eq_3_QQGVMI5G.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "( ) 4",
+      "page": "2",
+      "attachment_key": "RCBKK275",
+      "file": "eq_4_RCBKK275.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "( ) 5",
+      "page": "3",
+      "attachment_key": "CQAKJMSJ",
+      "file": "eq_5_CQAKJMSJ.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "( ) 6",
+      "page": "3",
+      "attachment_key": "XNM9SS5Q",
+      "file": "eq_6_XNM9SS5Q.png"
+    },
+    {
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "( ) 8",
+      "page": "3",
+      "attachment_key": "NIFEPNE3",
+      "file": "eq_8_NIFEPNE3.png"
+    },
+    {
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "( ) 9",
+      "page": "4",
+      "attachment_key": "XX268EKQ",
+      "file": "eq_9_XX268EKQ.png"
+    }
+  ],
+  "tags": [
+    "Done"
+  ],
+  "materials": [],
+  "methods": []
+}

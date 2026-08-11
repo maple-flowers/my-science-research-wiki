@@ -4,67 +4,55 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "单层NiI2中多铁性的起源（Origin of multiferroicity in monolayer NiI2）",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "Figure 1. Origin of multiferroicity in monolayer NiI2. a) Unit cell of monolayer NiI2. 9a × √ 3a supercell is required to describe the magnetic spin-spiral order with propagation vector q in the x-direction and rotation vector e in the z-direction. The presence of spin-orbit coupling 휆SOC induces a net electric polarization P in the y-direction. b) Ferromagnetic first neighbor J1 and antiferromagnetic third neighbor J3 magnetic exchange interactions between Ni atoms giving rise to the spin spira",
       "page": "2",
-      "attachment_key": "L5HCYD33",
-      "file": "fig_1_L5HCYD33.png",
+      "attachment_key": "8XET8BR2",
+      "file": "fig_1_8XET8BR2.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "DFT",
-        "STM"
-      ]
+      "methods": []
     },
     {
       "fig_number": "2",
-      "title": "单层NiI2的表征（Characterization of monolayer NiI2）",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "Figure 2. Characterization of monolayer NiI2. a) Large area STM scan of monolayer NiI2 on HOPG (image size: 370 × 400 nm2, V = 1.2 V, I = 4 pA). b) dI/dV point spectra measured on monolayer NiI2 (blue dot shown in panel a). c,d) Small-area STM images of monolayer NiI2 at 0.3 V and 0.9 V, respectively (image size: 25 × 25 nm2). e,f) Atomic resolution STM scan of monolayer NiI2 (image size 6.5 × 6.5 nm2, V = 0.43 V, I = 100 pA) and corresponding FFT. g,h) DFT-computed STM image at the conduction b",
       "page": "3",
-      "attachment_key": "QYZL9UUG",
-      "file": "fig_2_QYZL9UUG.png",
+      "attachment_key": "U9H48DE6",
+      "file": "fig_2_U9H48DE6.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "DFT",
-        "STM"
-      ]
+      "methods": []
     },
     {
       "fig_number": "3",
-      "title": "NiI2中电极化的探测（Probing electric polarization in NiI2）",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "Figure 3. Probing electric polarization in NiI2. a) Small area STM scan showing a multiferroic domain where a line spectrum was performed along the green arrow (V = 1 V, I = 100 pA). Red and blue dots show the 0 and maximum polarization, respectively. The small black arrows indicate both the direction and strength of the local electric polarization. b) dI/dV line spectrum capturing the conduction band of monolayer NiI2 along the green arrow in panel (a) parallel to the q vector. c) dI/dV spectra",
       "page": "5",
-      "attachment_key": "P8SY69I7",
-      "file": "fig_3_P8SY69I7.png",
+      "attachment_key": "5PQPI99Q",
+      "file": "fig_3_5PQPI99Q.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "DFT",
-        "STM"
-      ]
+      "methods": []
     },
     {
       "fig_number": "4",
-      "title": "多铁畴的操控（Manipulation of multiferroic domains）",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "Figure 4. Manipulation of multiferroic domains. a–d) Using voltage pulses from the tip (sweeping the bias from 1 to 4 V with closed feedback loop) to manipulate the multiferroic domains (image size 30 × 27 nm2, V = 1 V, I = 20 pA). Sky blue dots mark the position of the tip during the process and the numbers on them track the order of events. The black-dashed lines highlight the domain boundary, the pink circle shows a neutral defect on the surface used as a spacial reference, and the dashed red",
       "page": "6",
-      "attachment_key": "RN6PVNQ6",
-      "file": "fig_4_RN6PVNQ6.png",
+      "attachment_key": "EDSCRMUC",
+      "file": "fig_4_EDSCRMUC.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "DFT",
-        "STM"
-      ]
+      "methods": []
     }
   ],
   "tables": [
@@ -80,8 +68,5 @@
     "Done"
   ],
   "materials": [],
-  "methods": [
-    "DFT",
-    "STM"
-  ]
+  "methods": []
 }

@@ -4,244 +4,143 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "从MAX相合成MXene的工艺条件和c轴晶格参数 (Process conditions and c-lattice parameters for MXene synthesis from MAX phases)",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "Figure 1.  Structure of MAX phases and the corresponding MXenes.",
       "page": "3",
-      "attachment_key": "GQ5SNEBY",
-      "file": "fig_1_GQ5SNEBY.png",
+      "attachment_key": "ANXZLC65",
+      "file": "fig_1_ANXZLC65.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "water",
-        "TMDs",
-        "h-BN",
-        "MXenes",
-        "graphene",
-        "石墨烯"
-      ],
-      "methods": [
-        "TEM",
-        "DFT",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
-      "title": "不同MXene的第一性原理计算平面内弹性常数 (c11) (First principles calculated in-plane elastic constant (c11) for different MXenes)",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "Figure 2.  Schematic describing the synthesis process of MXenes from MAX phases.  Reproduced  with permission. [ 6 ] Copyright 2012, American Chemical Society.",
       "page": "3",
-      "attachment_key": "HHWSZFPL",
-      "file": "fig_2_HHWSZFPL.png",
+      "attachment_key": "AJLZG4PX",
+      "file": "fig_2_AJLZG4PX.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "water",
-        "TMDs",
-        "h-BN",
-        "MXenes",
-        "graphene",
-        "石墨烯"
-      ],
-      "methods": [
-        "TEM",
-        "DFT",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "3",
-      "title": "MXene的微观形貌和结构表征 (Microscopic morphology and structural characterization of MXenes)",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "Figure 3.  a) Scanning electron microscopy (SEM) image for Ti 3 AlC 2 after HF treatment. Repro-duced with permission. [ 6 ] Copyright 2012, American Chemical Society. b) X-ray diffraction (XRD)  patterns for Nb 2 AlC before and after HF treatment. Reproduced with permission. [ 7 ] Copyright  2013, American Chemical Society. c) Transmission electron microscopy (TEM) image of Ta 4 AlC 3  after prolonged HF treatment. Reproduced with permission. [ 6 ] Copyright 2012, American  Chemical Society. d)",
       "page": "4",
-      "attachment_key": "7MJUVZRK",
-      "file": "fig_3_7MJUVZRK.png",
+      "attachment_key": "5EP3ZZBQ",
+      "file": "fig_3_5EP3ZZBQ.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "water",
-        "TMDs",
-        "h-BN",
-        "MXenes",
-        "graphene",
-        "石墨烯"
-      ],
-      "methods": [
-        "TEM",
-        "DFT",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "4",
-      "title": "MXene纳米卷和纳米管 (MXene nanoscroll and nanotubes)",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "Figure 4.  a) Ti 3 C 2 Tx nanoscroll of about 20 nm in outer diameter. b) Cross-sectional TEM image of a scroll with an inner radius of less than 20 Reproduced with permission. [ 5 ] c) Atomistic model of OH-terminated Ti 3 C 2 nanotube. Reproduced with permission. [ 35 ] Copyright 2012, Elsevier.",
       "page": "5",
-      "attachment_key": "BBAMFW7J",
-      "file": "fig_4_BBAMFW7J.png",
+      "attachment_key": "7Z8YXW72",
+      "file": "fig_4_7Z8YXW72.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "water",
-        "TMDs",
-        "h-BN",
-        "MXenes",
-        "graphene",
-        "石墨烯"
-      ],
-      "methods": [
-        "TEM",
-        "DFT",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "5",
-      "title": "官能化MXene不同表面原子排列的构型 (Configurations of functionalized MXenes with different arrangements of the surface atoms)",
-      "llm_description": "",
+      "title": "Figure 5",
+      "llm_description": "Figure 5.  Confi gurations of functionalized MXenes with different arrangements of the surface atoms: side views of a) bare Ti 3 C 2 , b) I-Ti 3 C 2 (OH) 2 ,  c) II-Ti 2 C(OH) 2 , and d) III-Ti 3 C 2 (OH) 2 ; e,f) top views of I-Ti 3 C 2 (OH) 2 and II-Ti 3 C 2 (OH) 2 . As confi guration III is a mixture of I and II, its top view is not  shown. Reproduced with permission. [ 35 ] Copyright 2012, Elsevier.",
       "page": "6",
-      "attachment_key": "YB9A8BK4",
-      "file": "fig_5_YB9A8BK4.png",
+      "attachment_key": "CYM8WEI6",
+      "file": "fig_5_CYM8WEI6.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "water",
-        "TMDs",
-        "h-BN",
-        "MXenes",
-        "graphene",
-        "石墨烯"
-      ],
-      "methods": [
-        "TEM",
-        "DFT",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "6",
-      "title": "肼插层OH终止的Ti3C2的分子动力学模拟 (Molecular dynamics simulations of OH-terminated Ti3C2 intercalated with hydrazine)",
-      "llm_description": "",
+      "title": "Figure 6",
+      "llm_description": "Figure 6.  Molecular dynamics simulations of OH-terminated Ti 3 C 2 intercalated with hydrazine. a) Change in MXene  c value as a function of the  number of N 2 H 4 intercalated molecules. As the latter is increased, fi rst a monolayer of N 2 H 4 molecules is formed, corresponding to an  N / C ratio 0.4  ( c  ≈ 25–26 Å). Further increase in the number of N 2 H 4 -intercalated molecules results in the onset of the formation of a second layer, which is not com-plete up to the maximum  N / C ratio ",
       "page": "7",
-      "attachment_key": "YPQMZ2C5",
-      "file": "fig_6_YPQMZ2C5.png",
+      "attachment_key": "GV6F3IFM",
+      "file": "fig_6_GV6F3IFM.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "water",
-        "TMDs",
-        "h-BN",
-        "MXenes",
-        "graphene",
-        "石墨烯"
-      ],
-      "methods": [
-        "TEM",
-        "DFT",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "7",
-      "title": "Ti3C2Tx的插层和剥离过程示意图 (Schematic of the intercalation and delamination process of Ti3C2Tx)",
-      "llm_description": "",
+      "title": "Figure 7",
+      "llm_description": "Figure 7.  Schematic of the intercalation and delamination process  of Ti 3 C 2 T  x  , the aqueous suspension of Ti 3 C 2 T  x  fl akes with laser beam  showing the Tyndall scattering effect, and the SEM image shows delami-nated fl akes fi ltered from the aqueous suspension. Reproduced with per-mission. [ 26 ] Copyright 2013, Macmillan Publishers Ltd.",
       "page": "7",
-      "attachment_key": "L7GKYPEX",
-      "file": "fig_7_L7GKYPEX.png",
+      "attachment_key": "REW23JCK",
+      "file": "fig_7_REW23JCK.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "water",
-        "TMDs",
-        "h-BN",
-        "MXenes",
-        "graphene",
-        "石墨烯"
-      ],
-      "methods": [
-        "TEM",
-        "DFT",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "8",
-      "title": "Ti2AlC、Ti2C、Ti2CO2和Ti2C(OH)2的总和分态密度 (Total and partial DOS of Ti2AlC, Ti2C, Ti2CO2 and Ti2C(OH)2)",
-      "llm_description": "",
+      "title": "Figure 8",
+      "llm_description": "Figure 8.  Total and partial DOS of Ti 2 AlC, Ti 2 C, Ti 2 CO 2 and Ti 2 C(OH) 2 ,  illustrating changes in the density of states upon removal of Al from the  parent MAX phase to produce MXene, and further changes upon termina-tion of the MXene surface by different T. Reproduced with permission. [ 39 ]  Copyright 2013, American Physical Society.",
       "page": "8",
-      "attachment_key": "V6PNIQBR",
-      "file": "fig_8_V6PNIQBR.png",
+      "attachment_key": "EKWLWV8J",
+      "file": "fig_8_EKWLWV8J.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "water",
-        "TMDs",
-        "h-BN",
-        "MXenes",
-        "graphene",
-        "石墨烯"
-      ],
-      "methods": [
-        "TEM",
-        "DFT",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "9",
-      "title": "多层Ti3C2Tx粉末膜电极和从剥离的少层MXene制备的Ti3C2Tx纸电极在锂离子电池中性能的比较 (Comparison of the performance of multilayer Ti3C2Tx powder film electrode and Ti3C2Tx paper electrode prepared from delaminated few-layer MXene as anode materials in Li-ion batteries)",
-      "llm_description": "",
+      "title": "Figure 9",
+      "llm_description": "Figure 9.  Comparison of the performance of multilayer Ti 3 C 2 T  x  powder  fi lm electrode (exfoliated MXene) and Ti 3 C 2 T  x  paper electrode prepared  from delaminated few-layer MXene as anode materials in Li-ion batteries.  Inset shows cross-sectional SEM image of an additive-free MXene paper  on a porous anodic alumina membrane. Reproduced with permission. [ 26 ]  Copyright 2013, Macmillan Publishers Ltd.",
       "page": "10",
-      "attachment_key": "SCC7ZADI",
-      "file": "fig_9_SCC7ZADI.png",
+      "attachment_key": "FDUT7S4B",
+      "file": "fig_9_FDUT7S4B.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "water",
-        "TMDs",
-        "h-BN",
-        "MXenes",
-        "graphene",
-        "石墨烯"
-      ],
-      "methods": [
-        "TEM",
-        "DFT",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1.  Process conditions and  c -lattice parameters for MXene synthesis from MAX phases.  Also listed are the  c values of the parent MAX phase. \n\n a) The 8 h treatment of V 2 AlC was carried out on attrition-milled powders;  b) Nb 4 AlC 3 was present as a sec-ondary phase in a Nb 2 AlC sample. [ 7 ]",
+      "page": "5",
+      "attachment_key": "9AG9T2XP",
+      "file": "tab_1_9AG9T2XP.png"
+    },
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "Table 2.  First principles calculated in-plane elastic constant (c 11 ) for  different MXenes with the corresponding  a lattice parameter and DOS  at  E f . [ 50 ] The c 11 values for the corresponding MAX phases are listed in  brackets in column 3.",
+      "page": "9",
+      "attachment_key": "287UB7NX",
+      "file": "tab_2_287UB7NX.png"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|25th Anniversary Article: MXenes: A New Family of Two‐Dimensional Materials|\n|短标题|25周年纪念文章：MXenes：二维材料的新家族|\n|作者|[[Michael Naguib]]、 [[Vadym N. Mochalin]]、 [[Michel W. Barsoum]]、 [[Yury Gogotsi]]|\n|期刊名称|[[Advanced Materials]]|\n|DOI|[10.1002/adma.201304138](https://doi.org/10.1002/adma.201304138)|\n|存档位置|6103|\n|文库编目|29.1|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/HCB6BSV3)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/BRSS8IFM\">Naguib 等 - 2014 - 25th Anniversary Article MXenes A New Family of Two‐Dimensional Materials</a></li><li><a href=\"zotero://open-pdf/library/items/2NE3XFKT\">Naguib 等 - 2014 - 25th Anniversary Article MXenes A New Family of Two‐Dimensional Materials.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|25th Anniversary Article: MXenes: A New Family of Two‐Dimensional Materials|\n|短标题|25周年文章：MXenes:一个新的二维材料家族|\n|作者|[[Michael Naguib]]、 [[Vadym N. Mochalin]]、 [[Michel W. Barsoum]]、 [[Yury Gogotsi]]|\n|期刊名称|[[Advanced Materials]]|\n|DOI|[10.1002/adma.201304138](https://doi.org/10.1002/adma.201304138)|\n|存档位置|6103|\n|文库编目|29.1|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/HCB6BSV3)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/BRSS8IFM\">Naguib 等 - 2014 - 25th Anniversary Article MXenes A New Family of Two‐Dimensional Materials</a></li><li><a href=\"zotero://open-pdf/library/items/2NE3XFKT\">Naguib 等 - 2014 - 25th Anniversary Article MXenes A New Family of Two‐Dimensional Materials.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
@@ -249,19 +148,6 @@
   "tags": [
     "Done"
   ],
-  "materials": [
-    "water",
-    "TMDs",
-    "h-BN",
-    "MXenes",
-    "graphene",
-    "石墨烯"
-  ],
-  "methods": [
-    "TEM",
-    "DFT",
-    "AFM",
-    "CVD",
-    "STM"
-  ]
+  "materials": [],
+  "methods": []
 }

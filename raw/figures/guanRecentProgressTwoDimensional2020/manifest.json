@@ -5,567 +5,259 @@
     {
       "fig_number": "1",
       "title": "Figure 1",
-      "llm_description": "Figure 1.  2D ferroelectric materials in theory. a) Atomic structure comparison of centrosymmetric and distorted 1T MoS2, the band structure, and the  charge densities of the ferroelectric d1T state with up polarization and the c1T state. Reproduced with permission.[45] Copyright 2014, American Phys",
+      "llm_description": "Figure 1.  2D ferroelectric materials in theory. a) Atomic structure comparison of centrosymmetric and distorted 1T MoS2, the band structure, and the  charge densities of the ferroelectric d1T state with up polarization and the c1T state. Reproduced with permission.[45] Copyright 2014, American Physical  Society. b) Distortion modes at the structural transition and zigzag chains within the centrosymmetric and trimerized MX2 phases. Reproduced with  permission.[46] Copyright 2016, American Physic",
       "page": "4",
-      "attachment_key": "AP567XBT",
-      "file": "fig_1_AP567XBT.png",
+      "attachment_key": "TFDQCV55",
+      "file": "fig_1_TFDQCV55.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "10",
       "title": "Figure 10",
-      "llm_description": "Figure 10.  a) Structure of 2D 1T′ WTe2 and the device geometry. Evidence for ferroelectric switching in WTe2, including the conductance G of undoped  trilayer device T1 and bilayer device B1. b) The graphene conductance at a series of temperature, indicating the two conductance states, is associate",
+      "llm_description": "Figure 10.  a) Structure of 2D 1T′ WTe2 and the device geometry. Evidence for ferroelectric switching in WTe2, including the conductance G of undoped  trilayer device T1 and bilayer device B1. b) The graphene conductance at a series of temperature, indicating the two conductance states, is associated  with different out-of-plane polarization states of WTe2. Reproduced with permission.[115] Copyright 2018, Springer Nature Limited.",
       "page": "14",
-      "attachment_key": "IIS592CB",
-      "file": "fig_10_IIS592CB.png",
+      "attachment_key": "6NVPDULZ",
+      "file": "fig_10_6NVPDULZ.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "11",
       "title": "Figure 11",
-      "llm_description": "Figure 11.  a) Raman spectra obtained from experiments and calculations. b) HRTEM image of 2H and c) d1T-MoTe2. d) PFM phase image of mon-olayer d1T-MoTe2 poled by ±8 V. e) Top-view HRTEM image of d1T-MoTe2 and f) the atomic structure of monolayer d1T-MoTe2. g) PFM phase hysteresis  and butterfly lo",
+      "llm_description": "Figure 11.  a) Raman spectra obtained from experiments and calculations. b) HRTEM image of 2H and c) d1T-MoTe2. d) PFM phase image of mon-olayer d1T-MoTe2 poled by ±8 V. e) Top-view HRTEM image of d1T-MoTe2 and f) the atomic structure of monolayer d1T-MoTe2. g) PFM phase hysteresis  and butterfly loops of monolayer d1T-MoTe2. h) Top view of the charge density difference between the 1T and d1T phases. i) I–V characteristics of  monolayer d1T-MoTe2 on Pt. Reproduced with permission.[120] Copyright",
       "page": "15",
-      "attachment_key": "TMDTP645",
-      "file": "fig_11_TMDTP645.png",
+      "attachment_key": "7BSJLTHS",
+      "file": "fig_11_7BSJLTHS.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "12",
       "title": "Figure 12",
-      "llm_description": "Figure 12.  a) Surface topography and different azimuth angle angular-resolved PFM study of BA2PbCl4 flakes. The blue arrows denote the identified  polarization vector. b) Lateral PFM images of 50 nm BA2PbCl4 flakes using coplanar electrodes and 40 nm BA2PbCl4 flakes using the scanning probe.  Repro",
+      "llm_description": "Figure 12.  a) Surface topography and different azimuth angle angular-resolved PFM study of BA2PbCl4 flakes. The blue arrows denote the identified  polarization vector. b) Lateral PFM images of 50 nm BA2PbCl4 flakes using coplanar electrodes and 40 nm BA2PbCl4 flakes using the scanning probe.  Reproduced with permission.[123] Copyright 2018, Wiley-VCH Verlag GmbH &amp; Co. KGaA, Weinheim.",
       "page": "16",
-      "attachment_key": "7SLRZGYX",
-      "file": "fig_12_7SLRZGYX.png",
+      "attachment_key": "4NNKT9MX",
+      "file": "fig_12_4NNKT9MX.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "13",
       "title": "Figure 13",
-      "llm_description": "Figure 13.  Mechanisms inducing 2D ferroelectricity. Intralayer interaction including a) schematic images of ion displacement and electron polariza-tion. Reproduced with permission.[170] Copyright 2016, American Chemical Society. b) Dipole locking with the breaking and forming of covalent bonds.  Re",
+      "llm_description": "Figure 13.  Mechanisms inducing 2D ferroelectricity. Intralayer interaction including a) schematic images of ion displacement and electron polariza-tion. Reproduced with permission.[170] Copyright 2016, American Chemical Society. b) Dipole locking with the breaking and forming of covalent bonds.  Reproduced with permission.[102] Copyright 2018, American Physical Society. c) The geometric structure of the BN bilayers, indicating the ferroelectric  switching pathways. Reproduced with permission.[4",
       "page": "20",
-      "attachment_key": "HK2LMQMB",
-      "file": "fig_13_HK2LMQMB.png",
+      "attachment_key": "US86QS95",
+      "file": "fig_13_US86QS95.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "14",
       "title": "Figure 14",
-      "llm_description": "Figure 14.  a) Ferroelectric junction, IP heterostructure of germanene, and ferroelectric PN junction on hydroxylized silica surface. Reproduced with  permission.[60] Copyright 2016, American Chemical Society. b) In2Se3/graphene and In2Se3/WSe3 heterostructure. Reproduced with permission.[48]  Copyr",
+      "llm_description": "Figure 14.  a) Ferroelectric junction, IP heterostructure of germanene, and ferroelectric PN junction on hydroxylized silica surface. Reproduced with  permission.[60] Copyright 2016, American Chemical Society. b) In2Se3/graphene and In2Se3/WSe3 heterostructure. Reproduced with permission.[48]  Copyright 2016, Nature Publishing Group. c) Schematic diagram of 2D-FTJ (p-type doping MX)/MX/(n-type doping MX) and the k||-resolved transmis-sions of the monolayer In:SnSe/SnSe/Sb:SnSe homostructure at t",
       "page": "22",
-      "attachment_key": "3EW89BTX",
-      "file": "fig_14_3EW89BTX.png",
+      "attachment_key": "AI3X3IRX",
+      "file": "fig_14_AI3X3IRX.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "15",
       "title": "Figure 15",
-      "llm_description": "Figure 15.  a) Ferroelectric field-effect transistors based on MoS2 and CuInP2S6 2D van der Waals heterostructure. Reproduced with permission.[179]  Copyright 2018, American Chemical Society. b) Electrically controlled planar In2Se3 device. Reproduced with permission.[97] Copyright 2018, American  C",
+      "llm_description": "Figure 15.  a) Ferroelectric field-effect transistors based on MoS2 and CuInP2S6 2D van der Waals heterostructure. Reproduced with permission.[179]  Copyright 2018, American Chemical Society. b) Electrically controlled planar In2Se3 device. Reproduced with permission.[97] Copyright 2018, American  Chemical Society. c) Nonvolatile memory device based on FTJ with IP polarization. Reproduced with permission.[108] Copyright 2016, The American  Association for the Advancement of Science.",
       "page": "23",
-      "attachment_key": "PDKLQPAQ",
-      "file": "fig_15_PDKLQPAQ.png",
+      "attachment_key": "TLDS8BXM",
+      "file": "fig_15_TLDS8BXM.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "16",
       "title": "Figure 16",
       "llm_description": "Figure 16.  Switching of ferroelectric polarization in a) graphene-BTO-SRO (Reproduced with permission.[190] Copyright 2014, Nature Publishing Group)  and b) MoS2-BTO-SRO tunnel junction (Reproduced with permission.[191] Copyright 2017, American Chemical Society).",
       "page": "24",
-      "attachment_key": "XNRXHTQK",
-      "file": "fig_16_XNRXHTQK.png",
+      "attachment_key": "S7AWXGMW",
+      "file": "fig_16_S7AWXGMW.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "17",
       "title": "Figure 17",
-      "llm_description": "Figure 17.  a) Effect of visible light illumination of MoS2-PZT FeFET and optical switching of MoS2-PZT memory. Reproduced with permission.[195]  Copyright 2015, American Chemical Society. b) Device structure, retention and endurance performances of MoSe2 FeFET. Reproduced with permis-sion.[178] Cop",
+      "llm_description": "Figure 17.  a) Effect of visible light illumination of MoS2-PZT FeFET and optical switching of MoS2-PZT memory. Reproduced with permission.[195]  Copyright 2015, American Chemical Society. b) Device structure, retention and endurance performances of MoSe2 FeFET. Reproduced with permis-sion.[178] Copyright 2017, IOP Publishing Ltd.",
       "page": "25",
-      "attachment_key": "UNAEB96U",
-      "file": "fig_17_UNAEB96U.png",
+      "attachment_key": "CZC3M8NZ",
+      "file": "fig_17_CZC3M8NZ.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "18",
       "title": "Figure 18",
-      "llm_description": "Figure 18.  a) Band structure of ferroelectric-phase GeSe monolayer in the Px and Py states. Reproduced with permission.[197] Copyright 2017, IOP Pub-lishing Ltd. b) Rashba splitting bands with positive and negative ferroelectric displacements, respectively. Reproduced with permission.[198] Copyrigh",
+      "llm_description": "Figure 18.  a) Band structure of ferroelectric-phase GeSe monolayer in the Px and Py states. Reproduced with permission.[197] Copyright 2017, IOP Pub-lishing Ltd. b) Rashba splitting bands with positive and negative ferroelectric displacements, respectively. Reproduced with permission.[198] Copyright  2017, The Royal Society of Chemistry. c) Significant effect of the ferroelectric polarization on the growth and transport properties of the MoS2 films.  Reproduced with permission.[199] Copyright 2",
       "page": "26",
-      "attachment_key": "74A2PY4Z",
-      "file": "fig_18_74A2PY4Z.png",
+      "attachment_key": "BCUNP366",
+      "file": "fig_18_BCUNP366.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "Figure 2.  a) Valence bands at the valley without and with spin-orbit coupling. Reproduced with permission.[47] Copyright 2015, American Physical  Society. b) 3D crystal structure of layered In2Se3 and a side view of several structures in one quintuple layer In2Se3. The black arrows indicate the  di",
+      "llm_description": "Figure 2.  a) Valence bands at the valley without and with spin-orbit coupling. Reproduced with permission.[47] Copyright 2015, American Physical  Society. b) 3D crystal structure of layered In2Se3 and a side view of several structures in one quintuple layer In2Se3. The black arrows indicate the  directions of the spontaneous polarization in the FE-ZB0 and FE-WZ0 structures. Reproduced with permission.[48] Copyright 2016, Nature Publishing  Group. c) Top view of the structure of monolayer AgBiP2",
       "page": "4",
-      "attachment_key": "9CFEK356",
-      "file": "fig_2_9CFEK356.png",
+      "attachment_key": "99593M24",
+      "file": "fig_2_99593M24.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "Figure 3.  2D ferroelectric materials in theory. a) Ferroelectric switching of BN bilayer and stacking configurations of a graphene/BN heterobilayer with  distinct interlayer potentials. Reproduced with permission.[49] Copyright 2017, American Chemical Society. b) Top and side views of group-V eleme",
+      "llm_description": "Figure 3.  2D ferroelectric materials in theory. a) Ferroelectric switching of BN bilayer and stacking configurations of a graphene/BN heterobilayer with  distinct interlayer potentials. Reproduced with permission.[49] Copyright 2017, American Chemical Society. b) Top and side views of group-V elemental  monolayer with undistorted and distorted structures and free energy contour for an As monolayer. Reproduced with permission.[57] Copyright 2018,  Wiley-VCH Verlag GmbH &amp; Co. KGaA, Weinheim.",
       "page": "5",
-      "attachment_key": "Y4S6HZ6C",
-      "file": "fig_3_Y4S6HZ6C.png",
+      "attachment_key": "Z32US3ZV",
+      "file": "fig_3_Z32US3ZV.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "4",
       "title": "Figure 4",
-      "llm_description": "Figure 4.  a) Side and top views of methyl-terminated germanene/stanine, Sn (P, As, Sb)–CH2OCH3, silicon (111) passivated by –SH and –Cl and  graphene nanostripes functionalized by –OH and –F. Reproduced with permission.[60] Copyright 2016, American Chemical Society. b) Pathway of fer-roelectric swi",
+      "llm_description": "Figure 4.  a) Side and top views of methyl-terminated germanene/stanine, Sn (P, As, Sb)–CH2OCH3, silicon (111) passivated by –SH and –Cl and  graphene nanostripes functionalized by –OH and –F. Reproduced with permission.[60] Copyright 2016, American Chemical Society. b) Pathway of fer-roelectric switching of SnS/SnSe monolayer. Reproduced with permission.[69] Copyright 2016, American Chemical Society.",
       "page": "5",
-      "attachment_key": "UBP2QLMF",
-      "file": "fig_4_UBP2QLMF.png",
+      "attachment_key": "VYU3KHJR",
+      "file": "fig_4_VYU3KHJR.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "5",
       "title": "Figure 5",
-      "llm_description": "Figure 5.  Ferroelectricity in layered CuInP2S6. a) Atomic structure of CuInP2S6. Reproduced with permission.[52] Copyright 2016, Nature Publishing  Group. b) PFM images as a function of the Cu/In ratio. Reproduced with permission.[95] Copyright 2015, American Chemical Society. c) AFM topog-raphy, P",
+      "llm_description": "Figure 5.  Ferroelectricity in layered CuInP2S6. a) Atomic structure of CuInP2S6. Reproduced with permission.[52] Copyright 2016, Nature Publishing  Group. b) PFM images as a function of the Cu/In ratio. Reproduced with permission.[95] Copyright 2015, American Chemical Society. c) AFM topog-raphy, PFM amplitude, phase for CuInP2S6 flakes with two to four layers on Au-coated SiO2/Si substrate and a PFM phase image with a written reverse  bias. Reproduced with permission.[52] Copyright 2016, Natur",
       "page": "10",
-      "attachment_key": "4XHL83BC",
-      "file": "fig_5_4XHL83BC.png",
+      "attachment_key": "VAVBDKCG",
+      "file": "fig_5_VAVBDKCG.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "6",
       "title": "Figure 6",
-      "llm_description": "Figure 6.  a) AFM topography, PFM phase, and amplitude images of a thin α-In2Se3 flake. Reproduced with permission.[101] Copyright 2017, American  Chemical Society. b) Topography and IP phase images of the as-grown In2Se3 on mica with thicknesses from 2 to 6 nm and a PFM phase image after  switching",
+      "llm_description": "Figure 6.  a) AFM topography, PFM phase, and amplitude images of a thin α-In2Se3 flake. Reproduced with permission.[101] Copyright 2017, American  Chemical Society. b) Topography and IP phase images of the as-grown In2Se3 on mica with thicknesses from 2 to 6 nm and a PFM phase image after  switching. Reproduced with permission.[97] Copyright 2018, American Chemical Society.",
       "page": "11",
-      "attachment_key": "7P2CRSYM",
-      "file": "fig_6_7P2CRSYM.png",
+      "attachment_key": "3VRPTQHT",
+      "file": "fig_6_3VRPTQHT.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "7",
       "title": "Figure 7",
-      "llm_description": "Figure 7.  a) Polarized domain patterned by PFM and SHG mapping before and after electric poling. Reproduced with permission.[102] Copyright 2018,  American Physical Society. b) Domain, hysteresis loops, and polarization switching of 2D ferroelectric In2Se3 layer as thin as 5 nm. Reproduced with  pe",
+      "llm_description": "Figure 7.  a) Polarized domain patterned by PFM and SHG mapping before and after electric poling. Reproduced with permission.[102] Copyright 2018,  American Physical Society. b) Domain, hysteresis loops, and polarization switching of 2D ferroelectric In2Se3 layer as thin as 5 nm. Reproduced with  permission.[104] Copyright 2018, The Royal Society of Chemistry. c) Out-of-plane and in-plane PFM images of β′-In2Se3. Adapted with permission.[107]  Copyright The Authors. Published by the American Ass",
       "page": "12",
-      "attachment_key": "PLS2434N",
-      "file": "fig_7_PLS2434N.png",
+      "attachment_key": "NAP9UVA4",
+      "file": "fig_7_NAP9UVA4.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "8",
       "title": "Figure 8",
-      "llm_description": "Figure 8.  a) PFM amplitude and phase images of MBE-grown 6 nm In2Se3. Polarization switching and hysteresis loops indicate the ferroelectricity.  Reproduced with permission.[105] Copyright 2018, American Chemical Society. b) Pristine and DC bias written OOP and IP PFM amplitudes and phases.  Reprod",
+      "llm_description": "Figure 8.  a) PFM amplitude and phase images of MBE-grown 6 nm In2Se3. Polarization switching and hysteresis loops indicate the ferroelectricity.  Reproduced with permission.[105] Copyright 2018, American Chemical Society. b) Pristine and DC bias written OOP and IP PFM amplitudes and phases.  Reproduced with permission.[106] Copyright 2018, Wiley-VCH Verlag GmbH &amp; Co. KGaA, Weinheim.",
       "page": "13",
-      "attachment_key": "ZA4YHPF5",
-      "file": "fig_8_ZA4YHPF5.png",
+      "attachment_key": "DAZQFJF5",
+      "file": "fig_8_DAZQFJF5.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "9",
       "title": "Figure 9",
-      "llm_description": "Figure 9.  a) The stripe domain of a 1 u.c. SnTe film. b) Fourier transform of an area crossing a domain boundary. c) dI/dV spectra at 4.7 K. d) STM  image of single-domain island. e) Spatially resolved dI/dV spectra along the up and down directions. Reproduced with permission.[108] Copyright 2016, ",
+      "llm_description": "Figure 9.  a) The stripe domain of a 1 u.c. SnTe film. b) Fourier transform of an area crossing a domain boundary. c) dI/dV spectra at 4.7 K. d) STM  image of single-domain island. e) Spatially resolved dI/dV spectra along the up and down directions. Reproduced with permission.[108] Copyright 2016,  The American Association for the Advancement of Science.",
       "page": "13",
-      "attachment_key": "Z248QKJG",
-      "file": "fig_9_Z248QKJG.png",
+      "attachment_key": "64E2DDJW",
+      "file": "fig_9_64E2DDJW.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "TMDs",
-        "CuInP2S6",
-        "WTe2",
-        "h-BN",
-        "In2Se3",
-        "graphene",
-        "石墨烯",
-        "MoS2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "DFT",
-        "AFM",
-        "Raman",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1.  Continued.\n\nTC, Curie temperature; Ref.: references; RT, room temperature; u.c., unit cell.",
+      "page": "8",
+      "attachment_key": "C3YX4WQX",
+      "file": "tab_1_C3YX4WQX.png"
+    },
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "Table 2.  Proved 2D ferroelectric materials.\n\nRT, room temperature.",
+      "page": "9",
+      "attachment_key": "HICUJFQ6",
+      "file": "tab_2_HICUJFQ6.png"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Recent Progress in Two‐Dimensional Ferroelectric Materials|\n|短标题|二维铁电材料的最新进展|\n|作者|[[Zhao Guan]]、 [[He Hu]]、 [[Xinwei Shen]]、 [[Pinghua Xiang]]、 [[Ni Zhong]]、 [[Junhao Chu]]、 [[Chungang Duan]]|\n|期刊名称|[[Advanced Electronic Materials]]|\n|DOI|[10.1002/aelm.201900818](https://doi.org/10.1002/aelm.201900818)|\n|存档位置|366|\n|文库编目|5.3|\n|索书号|3|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/FHTW9TJ4)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/QKF927UT\">全文</a></li><li><a href=\"zotero://open-pdf/library/items/7ECIXHC4\">Guan 等 - 2020 - Recent Progress in Two‐Dimensional Ferroelectric Materials.pdf</a></li></ul>|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Recent Progress in Two‐Dimensional Ferroelectric Materials|\n|短标题|二维铁电材料的研究进展|\n|作者|[[Zhao Guan]]、 [[He Hu]]、 [[Xinwei Shen]]、 [[Pinghua Xiang]]、 [[Ni Zhong]]、 [[Junhao Chu]]、 [[Chungang Duan]]|\n|期刊名称|[[Advanced Electronic Materials]]|\n|DOI|[10.1002/aelm.201900818](https://doi.org/10.1002/aelm.201900818)|\n|存档位置|366|\n|文库编目|5.3|\n|索书号|3|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/FHTW9TJ4)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/QKF927UT\">Guan 等 - 2020 - Recent Progress in Two‐Dimensional Ferroelectric Materials</a></li><li><a href=\"zotero://open-pdf/library/items/7ECIXHC4\">Guan 等 - 2020 - Recent Progress in Two‐Dimensional Ferroelectric Materials.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],
@@ -573,24 +265,6 @@
   "tags": [
     "参考文献-layer"
   ],
-  "materials": [
-    "TMDs",
-    "CuInP2S6",
-    "WTe2",
-    "h-BN",
-    "In2Se3",
-    "graphene",
-    "石墨烯",
-    "MoS2"
-  ],
-  "methods": [
-    "PFM",
-    "first-principles",
-    "STEM",
-    "TEM",
-    "DFT",
-    "AFM",
-    "Raman",
-    "STM"
-  ]
+  "materials": [],
+  "methods": []
 }

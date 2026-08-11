@@ -1,0 +1,19 @@
+{
+  "parent_key": "Bandilla1982quantum",
+  "title": "Bandilla1982quantum",
+  "figures": [],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Quantum statistics of light after saturated two-photon emission processes and the photon statistics of a two-photon laser|\n|短标题|饱和双光子发射过程后光的量子统计与双光子激光器的光子统计|\n|作者|[[A. Bandilla]]、 [[H. Voigt]]|\n|期刊名称|[[Optics Communications]]|\n|DOI|[10.1016/0030-4018(82)90397-2](https://doi.org/10.1016/0030-4018(82)90397-2)|\n|存档位置|8|\n|文库编目|2.7|\n|索书号|3|\n|版权||\n|分类|[[07_量子振荡与费米面重建 (Quantum Oscillations)]]|\n|条目链接|[My Library](zotero://select/library/items/QV7U848Q)|\n|PDF 附件||\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

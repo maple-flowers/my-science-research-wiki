@@ -1,0 +1,25 @@
+{
+  "parent_key": "2019optical",
+  "title": "2019optical",
+  "figures": [],
+  "tables": [
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table><thead><tr><th style=\"text-align:left\">No.</th><th style=\"text-align:left\">Humudity measuring instrument designed (%)</th><th style=\"text-align:left\">Humudity with hygrometer (%)</th><th style=\"text-align:left\">Error (%)</th></tr></thead><tbody><tr><td style=\"text-align:left\">1.</td><td style=\"text-align:left\">88,8</td><td style=\"text-align:left\">90,73</td><td style=\"text-align:left\">2,2</td></tr><tr><td style=\"text-align:left\">2.</td><td style=\"text-align:left\">89,7</td><td style=\"text-align:left\">91,27</td><td style=\"text-align:left\">1,7</td></tr><tr><td style=\"text-align:left\">3.</td><td style=\"text-align:left\">92,04</td><td style=\"text-align:left\">95,8</td><td style=\"text-align:left\">4,1</td></tr><tr><td style=\"text-align:left\">4.</td><td style=\"text-align:left\">95,19</td><td style=\"text-align:left\">98,6</td><td style=\"text-align:left\">3,6</td></tr><tr><td style=\"text-align:left\">5.</td><td style=\"text-align:left\">97,42</td><td style=\"text-align:left\">99,7</td><td style=\"text-align:left\">2,3</td></tr><tr><td style=\"text-align:left\">Rata-rata error</td><td style=\"text-align:left\"></td><td style=\"text-align:left\"></td><td style=\"text-align:left\">2,78</td></tr></tbody></table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Optical Fiber Polymer Sensor System with TiO2-SiO2 Cladding for Measuring Humidity|\n|短标题|TiO2-SiO2包层光纤聚合物湿度传感系统|\n|作者|[[Febrielviyanti .]]、 [[Harmadi .]]、 [[Dahyunir Dahlan]]、 [[Yetria Rilda]]、 [[Helmi Septaria Herlin]]|\n|期刊名称|[[KnE Engineering]]|\n|DOI|[10.18502/keg.v1i2.4437](https://doi.org/10.18502/keg.v1i2.4437)|\n|存档位置||\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[02_光纤湿度传感器 (Fiber Optic Sensors)]]|\n|条目链接|[My Library](zotero://select/library/items/2AB2HDU7)|\n|PDF 附件|[等 - 2019 - Optical Fiber Polymer Sensor System with TiO2-SiO2 Cladding for Measuring Humidity.pdf](zotero://open-pdf/library/items/SP4SY25E)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

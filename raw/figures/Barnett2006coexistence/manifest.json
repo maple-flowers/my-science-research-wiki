@@ -1,0 +1,126 @@
+{
+  "parent_key": "Barnett2006coexistence",
+  "title": "Barnett2006coexistence",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1: First-principles band structure (dots) with the dz2 (black circles) and dxy/dx2−y2 (blue circles) characters shown. The bands below −0.7 eV are mainly Se p bands. Also shown are the bands constructed from low-energy WFs (green solid lines) and a 2D ‘nesting’ model (red dotted line; see text).",
+      "page": "1",
+      "attachment_key": "C2ICZZPT",
+      "file": "fig_1_C2ICZZPT.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2: a) Low-energy WF centered at Ta sites with ag (dz2) symmetry, colored to show its gradient from positive (red) to negative (blue). Notice the local dxy/dx2−y2 symmetry in the hybridization tail (circled) located at neighboring Ta sites. b) Schematics of the WF in the layer of the Ta triangular lattice, with a similar color scheme giving the sign of the WF and three small dots marking the positions of Se atoms in the next layer. c) and d) Schematics of phase interference in hopping to fir",
+      "page": "2",
+      "attachment_key": "PLAEDPRV",
+      "file": "fig_2_PLAEDPRV.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3: (a) The Fermi surface from the tight-binding band structure. White indicates unoccupied states and black in-dicates occupied states. (b) The Fermi surface for a slightly smaller chemical potential showing the extended saddle bands (small white regions). The first Brillouin zone is the hexago-nal cell formed by the red dashed lines.",
+      "page": "2",
+      "attachment_key": "FTI3TZLV",
+      "file": "fig_3_FTI3TZLV.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "FIG. 4: Atomic displacement pattern corresponding to the phase ϕ = π/2 in Eq. (2). The inset shows the total energy of the CDW state as the function of phase ϕ where the total energy units are arbitrary and the phase is in units of π.",
+      "page": "3",
+      "attachment_key": "C58AQ3FI",
+      "file": "fig_4_C58AQ3FI.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "FIG. 5: The bands in the low temperature CDW state orig-inating from the undistorted (a) and distorted (b) sublat-tices. The increase in the number of bands corresponds to backfolding resulting from the 3 × 3 supercell. Theoretical ARPES spectra for the normal (c) (corresponding to vanish-ing electron-phonon coupling) and CDW (d) states for wave vectors over the nested region of the Fermi energy along ΓM. The energy range is −0.47 to 0 eV relative to the Fermi energy and the momentum range is b1",
+      "page": "4",
+      "attachment_key": "TP3BLRWQ",
+      "file": "fig_5_TP3BLRWQ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2 H Transition Metal Dichalcogenides|\n|短标题|过渡金属二元化合物中无间隙激发与相应电荷密度波的共存|\n|作者|[[Ryan L. Barnett]]、 [[Anatoli Polkovnikov]]、 [[Eugene Demler]]、 [[Wei-Guo Yin]]、 [[Wei Ku]]|\n|期刊名称|[[Physical Review Letters]]|\n|DOI|[10.1103/PhysRevLett.96.026406](https://doi.org/10.1103/PhysRevLett.96.026406)|\n|存档位置|40|\n|文库编目|9.4|\n|索书号|1|\n|版权||\n|分类|[[02_过渡金属硫族化合物 (TMDCs)]]|\n|条目链接|[My Library](zotero://select/library/items/S6AUXJP9)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/HGDIFSTK)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "2",
+      "attachment_key": "KAWULESM",
+      "file": "eq_1_KAWULESM.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "3",
+      "attachment_key": "2NLQ8BHX",
+      "file": "eq_2_2NLQ8BHX.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(3)",
+      "page": "3",
+      "attachment_key": "MM8DS6VN",
+      "file": "eq_3_MM8DS6VN.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4)",
+      "page": "3",
+      "attachment_key": "BPDHU8NX",
+      "file": "eq_4_BPDHU8NX.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "(5)",
+      "page": "3",
+      "attachment_key": "9RAUZVSG",
+      "file": "eq_5_9RAUZVSG.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

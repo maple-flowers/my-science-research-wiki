@@ -1,0 +1,19 @@
+{
+  "parent_key": "Takahashi2008technique",
+  "title": "Takahashi2008technique",
+  "figures": [],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Sparse-exposure technique in holographic two-photon polymerization|\n|短标题|全息双光子聚合中的稀疏曝光技术|\n|作者|[[Hidetomo Takahashi]]、 [[Satoshi Hasegawa]]、 [[Akihiro Takita]]、 [[Yoshio Hayasaki]]|\n|期刊名称|[[Optics Express]]|\n|DOI|[10.1364/OE.16.016592](https://doi.org/10.1364/OE.16.016592)|\n|存档位置|27|\n|文库编目|3.4|\n|索书号|2|\n|版权||\n|分类|[[01_双光子聚合引发剂 (2PP Initiators)]]|\n|条目链接|[My Library](zotero://select/library/items/XFIYJ2QA)|\n|PDF 附件||\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

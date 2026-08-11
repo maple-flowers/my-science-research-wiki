@@ -1,0 +1,59 @@
+{
+  "parent_key": "Yarai2005optical",
+  "title": "Yarai2005optical",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1. Schematic diagram of sensing head and measure-ment system, n1: refractive index of dry air, ∆n: refractive index transition due to thermal lens ef-fect when pumping beam is absorbed by vapor in atmosphere, f0: focal length, dc: diameter of fiber’s core.",
+      "page": "3",
+      "attachment_key": "JN75GA67",
+      "file": "fig_1_JN75GA67.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2. Relative humidity in atmosphere dependence of detected signal as the function of temperature, modulation frequency fm of pumping beam: 10 Hz, power of pumping beam: 100 mW, Spheri-cal Radius of Spherical lensed fibers used: 10 µm.",
+      "page": "5",
+      "attachment_key": "HW3467S2",
+      "file": "fig_2_HW3467S2.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3. Temperature of air dependence of 1) estimated ab-solute humidity at 1013 hPa, 18 ◦C (shown as two lines) and 2) normalized detected signals (shown as plots), D.A.: Dry Air.",
+      "page": "5",
+      "attachment_key": "CQNZVRBT",
+      "file": "fig_3_CQNZVRBT.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Optical fiber sensor for humidity monitoring based on thermal lens detection technique|\n|短标题|基于热透镜检测技术的光纤湿度传感器|\n|作者|[[Atsushi Yarai]]、 [[Takuji Nakanishi]]|\n|期刊名称|[[IEICE Electronics Express]]|\n|DOI|[10.1587/elex.2.417](https://doi.org/10.1587/elex.2.417)|\n|存档位置|3|\n|文库编目|1|\n|索书号|4|\n|版权||\n|分类|[[02_光纤湿度传感器 (Fiber Optic Sensors)]]|\n|条目链接|[My Library](zotero://select/library/items/JFVCIILH)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/F7P5DTAY)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

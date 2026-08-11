@@ -1,0 +1,219 @@
+{
+  "parent_key": "Kang2012dimer",
+  "title": "Kang2012dimer",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. (Color online) Fermi pockets in the unfolded Bril-louin zone of iron pnictides. Two hole pockets h1 and h2 are centered at the Γ = (0, 0) point. The elliptical electron pock-ets ex and ey are centered at⃗M1 = (π, 0) and⃗M2 = (0, π), respectively. h1, h2, ex, and ey pockets exhibit strong nest-ing tendencies in many parent compounds. Here, we propose that the resonant electronic structure arises due to the “re-constructed” nesting with the wave vector ∼⃗qa, the shorter axis of the ey pock",
+      "page": "2",
+      "attachment_key": "QCSFNUKD",
+      "file": "fig_1_QCSFNUKD.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. (Color online) As PoDW order develops, the Fermi surface reconstructs, and ey and the inner hole pocket h2 are deformed. The curvature along ey decreases, leading to the “reconstructed” nesting at qa, the short axis of the ey pocket. This reconstructed nesting is absent in the paramag-netic phase, but becomes pronounced as ∆P oDW increases.",
+      "page": "2",
+      "attachment_key": "HH27JRBG",
+      "file": "fig_2_HH27JRBG.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3. (Color online) Left: Feynman diagrams for χc in the PoDW phase. All other diagrams cancel out. Right: χc(⃗k) with ∆P oDW = 20meV in the realistic three-orbital model. The original peaks at (0, ±π) in the paramagnetic phase are suppressed by finite ∆P oDW . Instead, χ(⃗k) contains a plateau centered at⃗qa ≈(±0.4π, 0), breaking the C4 symmetry. This plateau arises from the “reconstructed” nesting at qa.",
+      "page": "3",
+      "attachment_key": "UVCA88PZ",
+      "file": "fig_3_UVCA88PZ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "FIG. 4. C4 symmetry is broken due to orbital content. Only the most significant diagrams contributing to the difference between χ(⃗qb) and χ(⃗qa) are displayed. The upper and lower two contribute to χ(⃗qa) and χ(⃗qb), respectively. This differ-ence arises from the vertex, which includes orbital overlaps be-tween incoming and outgoing fermions. The diagrams which have C4 symmetric partners are not shown.",
+      "page": "3",
+      "attachment_key": "9JE6KANU",
+      "file": "fig_4_9JE6KANU.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "FIG. 5. (Color online) χc(⃗k) with ∆P oDW = 20meV and ∆SDW = 15meV within the three-orbital model. The original peaks around (0, ±π) and (±π, 0) in the paramagnetic phase are suppressed due to finite ∆P oDW . In addition, two small peaks emerge around (±0.4π, ±π), breaking the C4 symmetry.",
+      "page": "4",
+      "attachment_key": "UKZ7WVKS",
+      "file": "fig_5_UKZ7WVKS.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "FIG. 6. (Color online) The LDOS integrated from E = 0 to 37meV [18], with ∆P oDW = 20meV , ∆SDW = 15meV , and the impurity located at⃗r = (0, 0). We assume ey (ex) couples to h2 (h1). LDOS peaks at ∼⃗r = (±3a, 0), fixing the dimer size to 6a. The dimers are aligned with the x axis, reflecting the orientation of the peaks of charge susceptibility (Fig. 5). This anisotropy is due to different magnitudes of DW order parameters and different orbital content of individual pockets.",
+      "page": "4",
+      "attachment_key": "77V2YUW7",
+      "file": "fig_6_77V2YUW7.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Dimer impurity scattering, reconstructed Fermi-surface nesting, and density-wave diagnostics in iron pnictides|\n|短标题|铁氰化物中二聚体杂质散射、费米表面重构嵌套和密度波诊断|\n|作者|[[Jian Kang]]、 [[Zlatko Tešanović]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.85.220507](https://doi.org/10.1103/PhysRevB.85.220507)|\n|存档位置|7|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[01_费米面嵌套理论 (Fermi Surface Nesting)]]|\n|条目链接|[My Library](zotero://select/library/items/852QG5TR)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/GX4JMH8Q)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_10",
+      "title": "Equation 10",
+      "content": "(10)",
+      "page": "3",
+      "attachment_key": "IXS4PT4V",
+      "file": "eq_10_IXS4PT4V.png"
+    },
+    {
+      "id": "eq_11",
+      "title": "Equation 11",
+      "content": "(11)",
+      "page": "3",
+      "attachment_key": "6RWS9N9V",
+      "file": "eq_11_6RWS9N9V.png"
+    },
+    {
+      "id": "eq_12",
+      "title": "Equation 12",
+      "content": "(12)",
+      "page": "3",
+      "attachment_key": "7ZWCQ2F3",
+      "file": "eq_12_7ZWCQ2F3.png"
+    },
+    {
+      "id": "eq_13",
+      "title": "Equation 13",
+      "content": "(13)",
+      "page": "3",
+      "attachment_key": "4864R8XM",
+      "file": "eq_13_4864R8XM.png"
+    },
+    {
+      "id": "eq_14",
+      "title": "Equation 14",
+      "content": ", (14)",
+      "page": "4",
+      "attachment_key": "2UZERC4N",
+      "file": "eq_14_2UZERC4N.png"
+    },
+    {
+      "id": "eq_15",
+      "title": "Equation 15",
+      "content": "(15)",
+      "page": "4",
+      "attachment_key": "8MGWHGT8",
+      "file": "eq_15_8MGWHGT8.png"
+    },
+    {
+      "id": "eq_16",
+      "title": "Equation 16",
+      "content": "(16)",
+      "page": "4",
+      "attachment_key": "52CCE392",
+      "file": "eq_16_52CCE392.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "2",
+      "attachment_key": "JDUA7JVF",
+      "file": "eq_2_JDUA7JVF.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": ".(3)",
+      "page": "2",
+      "attachment_key": "Y7FIYLVU",
+      "file": "eq_3_Y7FIYLVU.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4)",
+      "page": "2",
+      "attachment_key": "4ZETZGKX",
+      "file": "eq_4_4ZETZGKX.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "(5)",
+      "page": "3",
+      "attachment_key": "EMIGZVH5",
+      "file": "eq_5_EMIGZVH5.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "(6)",
+      "page": "3",
+      "attachment_key": "EDVQY9QZ",
+      "file": "eq_6_EDVQY9QZ.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "(7)",
+      "page": "3",
+      "attachment_key": "JULPP33S",
+      "file": "eq_7_JULPP33S.png"
+    },
+    {
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "(8)",
+      "page": "3",
+      "attachment_key": "VW9U9TKR",
+      "file": "eq_8_VW9U9TKR.png"
+    },
+    {
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "(9)",
+      "page": "3",
+      "attachment_key": "GYLD4PPT",
+      "file": "eq_9_GYLD4PPT.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

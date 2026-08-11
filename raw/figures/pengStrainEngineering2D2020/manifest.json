@@ -1,0 +1,286 @@
+{
+  "parent_key": "pengStrainEngineering2D2020",
+  "title": "pengStrainEngineering2D2020",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1 Crystal and electronic band structures, and PL and absorption spectra of unstrained 2D TMDCs. a Schematic of the crystal structure of monolayer MX2 (ref. 14). b Schematic of an exciton in reciprocal space formed via the Coulomb attraction between an electron in the conduction band (CB) and a hole in the valence band (VB)62. c Electronic bands around the K and K′ points of MX2 showing spin–orbit coupling-induced energy splitting. d Band structure of monolayer (1L) MoS2 obtained from DFT ca",
+      "page": "5",
+      "attachment_key": "XEEBDMHH",
+      "file": "fig_1_XEEBDMHH.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "石墨烯"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "10",
+      "title": "Figure 10",
+      "llm_description": "Fig. 10 Strain sensors, SHG-based strain mapping, and broad-spectrum solar energy funnel. a Schematic of a PDMS fiber incorporating graphene nanocomposites (top panel) and photographs of the hybrid fiber in the original state and tensile state (bottom panel)133. b Strain-dependent optical loss of the fiber in a (top panel) and that measured with the movement of the human body (bottom panel)133. c Strain mapping in MoS2 by SHG spectroscopy. The inset shows an SEM micrograph of the sample81. (Scal",
+      "page": "20",
+      "attachment_key": "62NUBFKF",
+      "file": "fig_10_62NUBFKF.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "石墨烯"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "11",
+      "title": "Figure 11",
+      "llm_description": "Fig. 11 Strained TMDC-based single-photon emitters and high-resolution nanoimaging. a PL map of locally strained monolayer WSe2 127. b Schematic of the scheme to realize a strain-induced quantum emitter through local deformation atomically thin WSe2 by a nanopillar to achieve a point-like elastic strain perturbation127. c Second-order photon correlation statistics from a single quantum emitter in a, revealing evident antibunching [g(2)(0) = 0.07 ± 0.04 and τ = 2.8 ± 0.2 ns]127. d Irreversible ev",
+      "page": "21",
+      "attachment_key": "JJ8ACRHR",
+      "file": "fig_11_JJ8ACRHR.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "石墨烯"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2 Band structures and PL and absorption spectra of strained TMDCs under different strains. a Band structures of monolayer MoS2 at lattice constant of 3.160, 3.190, and 3.225 Å corresponding to 0%, 1%, and 3% tensile strains calculated by DFT, G0W0, and SCGW0, respectively32. b, c Evolution of PL and absorption spectra (b) and peak positions (c) of monolayer MoS2 under various uniaxial tensile strains. Note that the dashed black line overlaid on the PL spectra in b indicates the PL peak of P",
+      "page": "7",
+      "attachment_key": "RIQ4Y63V",
+      "file": "fig_2_RIQ4Y63V.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "石墨烯"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4 Crystal and band structures, Raman responses, and optical transmission of unstrained graphene. a Honeycomb lattice of graphene, and b its band structure90. c Raman spectrum taken at a graphene edge7. d Schematic of the formation of different Raman resonances in graphene7. e Transmittance spectrum of single-layer graphene (open circles), with the gray bar representing the standard error of measurements. The red line is the transmittance spectrum given by T = (1 + 0.5πα)–2 expected for 2D D",
+      "page": "10",
+      "attachment_key": "2XE82KJJ",
+      "file": "fig_4_2XE82KJJ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "石墨烯"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5 Gap opening and Raman responses of strained graphene. a Calculated band structure (valence band marked as VB and conduction band marked as CB) of graphene under combined shear and uniaxial strain with ε = 15% (ref. 58). b, c Raman spectra of graphene as a function of uniaxial strain, showing the evolution of the 2D (b)30 and G (c) bands111. d Eigenvectors of G+ and G−modes for strained graphene calculated by density-functional perturbation theory, where G−is polarized along the strain axi",
+      "page": "12",
+      "attachment_key": "954WAB7W",
+      "file": "fig_5_954WAB7W.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "石墨烯"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Fig. 6 Strain-induced anisotropic optical effects in graphene. a–c Polar plots of the longitudinal optical conductivity as a function of frequency (ω &gt; 0, polar axis) and electric field orientation ϕ (polar angle). Strain is applied along the armchair direction, and increases from a to c (ε = 0, 0.075, and 0.175)47. d Schematic of the absorption measurement setup for graphene114. e Polarization-resolved optical transmittance of strained graphene114. Reprinted a–c with permission from ref. 47.",
+      "page": "14",
+      "attachment_key": "H37PWHPZ",
+      "file": "fig_6_H37PWHPZ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "石墨烯"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Fig. 7 Bending and elongation for generating homogenous uniaxial strain. a Experimental setup for two-point bending. The insert shows a PC-MoSe2-PDMS stack created by placing a viscoelastic (PDMS) stamp carrying exfoliated MoSe2 upside down onto a polycarbonate (PC) substrate115. b Schematic diagram of cantilever bending where the (1L or 2L) MoS2 sample is placed near the fixed edge of the flexible PMMA substrate (see the inset)29. c Schematic of rolling two transparent oxide layers stacked on a",
+      "page": "15",
+      "attachment_key": "WN4NC4WF",
+      "file": "fig_7_WN4NC4WF.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "石墨烯"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "Fig. 8 Thermal expansion and piezoelectric effect for generating homogeneous biaxial strain. a Schematic of the differential thermal expansion induced homogeneous biaxial tensile strain in monolayer WSe2, whose thermal expansion coefficient is larger than that of the substrate121. b Schematic diagram of MoS2 sandwiched between a piezoelectric PMN-PT substrate and a graphene layer serving as an electrode76. c Schematics of scotch-tape-exfoliated graphene on a PMN-PT substrate (upper panel) and an",
+      "page": "16",
+      "attachment_key": "35EP5LZS",
+      "file": "fig_8_35EP5LZS.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "石墨烯"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "9",
+      "title": "Figure 9",
+      "llm_description": "Fig. 9 Wrinkling and nanostructure support for local strain generation. a Schematic of the formation of wrinkled 2D MoS2 (ref. 41), and b optical microscopy image of a wrinkled MoS2 sheet41. c, d SEM micrograph of an array of silica nanopillars on a silicon substrate and d fabrication procedures for a layered material (LM) on the nanopillars126. e AFM image of monolayer WSe2 on a silica nanopillar (upper panel), and height profiles of the nanopillar before (blue area) and after (pink line) LM de",
+      "page": "17",
+      "attachment_key": "28U6HD94",
+      "file": "fig_9_28U6HD94.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）",
+        "石墨烯"
+      ],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1 Summary of different strains and corresponding optical effects.\n\naPhotoluminescence. bDirect bandgap. cIndirect bandgap. dAbsorption. e“−” indicates compressive strain.",
+      "page": "18",
+      "attachment_key": "8UZCMMCY",
+      "file": "tab_1_8UZCMMCY.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th>Type of strain</th>\n<th>Materials (max strain)</th>\n<th>Optical effects</th>\n<th>Refs.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Type of strain</strong></td>\n<td><strong>Materials (max strain)</strong></td>\n<td><strong>Optical effects</strong></td>\n<td><strong>Refs.</strong></td>\n</tr>\n<tr>\n<td>应变类型</td>\n<td>材料（最大应变）</td>\n<td>光学效应</td>\n<td>参考文献</td>\n</tr>\n<tr>\n<td>Homogeneous uniaxial strain</td>\n<td>1–2L MoS₂ (2.2%)</td>\n<td>−120 meV/% for 2L, −45 meV/% for 1L (PL)ᵃ</td>\n<td>28</td>\n</tr>\n<tr>\n<td>均匀单轴应变</td>\n<td>1–2L MoS₂ (2.2%)</td>\n<td>2L: −120 meV/%, 1L: −45 meV/% (PL)ᵃ</td>\n<td>28</td>\n</tr>\n<tr>\n<td></td>\n<td>1–2L MoS₂ (0.8%)</td>\n<td>−48 meV/% for 1L, −46 meV/% for 2L DBᵇ, −86 meV/% for 2L IBᶜ (PL)</td>\n<td>75</td>\n</tr>\n<tr>\n<td></td>\n<td>1–2L MoS₂ (0.8%)</td>\n<td>1L: −48 meV/%, 2L DBᵇ: −46 meV/%, 2L IBᶜ: −86 meV/% (PL)</td>\n<td>75</td>\n</tr>\n<tr>\n<td></td>\n<td>1L WSe₂ (1.4%)</td>\n<td>−54 meV/% for A exciton, −50 meV/% for B exciton (Abs)ᵈ</td>\n<td>74</td>\n</tr>\n<tr>\n<td></td>\n<td>1L WSe₂ (1.4%)</td>\n<td>A激子: −54 meV/%, B激子: −50 meV/% (Abs)ᵈ</td>\n<td>74</td>\n</tr>\n<tr>\n<td></td>\n<td>2–4L WSe₂ (2.0%)</td>\n<td>Indirect-to-direct bandgap transition</td>\n<td>78</td>\n</tr>\n<tr>\n<td></td>\n<td>2–4L WSe₂ (2.0%)</td>\n<td>间接-直接带隙转变</td>\n<td>78</td>\n</tr>\n<tr>\n<td></td>\n<td>1L MoSe₂ (1.1%)</td>\n<td>−27 ± 2 meV/% (PL)</td>\n<td>115</td>\n</tr>\n<tr>\n<td></td>\n<td>1L MoSe₂ (1.1%)</td>\n<td>−27 ± 2 meV/% (PL)</td>\n<td>115</td>\n</tr>\n<tr>\n<td></td>\n<td>Graphene (0.8%)</td>\n<td>−10.8 cm⁻¹/% for G⁺ band, −31.7 cm⁻¹/% for G⁻ band, −64 cm⁻¹/% for 2D band</td>\n<td>109</td>\n</tr>\n<tr>\n<td></td>\n<td>石墨烯 (0.8%)</td>\n<td>G⁺带: −10.8 cm⁻¹/%, G⁻带: −31.7 cm⁻¹/%, 2D带: −64 cm⁻¹/%</td>\n<td>109</td>\n</tr>\n<tr>\n<td></td>\n<td>Graphene (0.62%)</td>\n<td>−31.4 ± 2.8 cm⁻¹/% for G⁺ band, −9.6 ± 1.4 cm⁻¹/% for G⁻ band</td>\n<td>111</td>\n</tr>\n<tr>\n<td></td>\n<td>石墨烯 (0.62%)</td>\n<td>G⁺带: −31.4 ± 2.8 cm⁻¹/%, G⁻带: −9.6 ± 1.4 cm⁻¹/%</td>\n<td>111</td>\n</tr>\n<tr>\n<td></td>\n<td>Graphene (−0.62%)ᵉ</td>\n<td>22.3 ± 1.2 cm⁻¹/% for G⁺ band, 5.5 ± 1.9 cm⁻¹/% for G band</td>\n<td>111</td>\n</tr>\n<tr>\n<td></td>\n<td>石墨烯 (−0.62%)ᵉ</td>\n<td>G⁺带: 22.3 ± 1.2 cm⁻¹/%, G带: 5.5 ± 1.9 cm⁻¹/%</td>\n<td>111</td>\n</tr>\n<tr>\n<td></td>\n<td>1–2L MoS₂ (0.52%)</td>\n<td>−64 ± 5 meV/% for 1L A exciton, −68 ± 5 meV/% for 1L B exciton, −71 ± 5 meV/% for 2L A exciton, −67 ± 5 meV/% for 2L B exciton (Abs) −48 ± 5 meV/% for 2L A exciton, −77 ± 5 meV/% for 2L IB (PL)</td>\n<td>29</td>\n</tr>\n<tr>\n<td></td>\n<td>1–2L MoS₂ (0.52%)</td>\n<td>1L A激子: −64 ± 5 meV/%, 1L B激子: −68 ± 5 meV/%, 2L A激子: −71 ± 5 meV/%, 2L B激子: −67 ± 5 meV/% (Abs); 2L A激子: −48 ± 5 meV/%, 2L IB: −77 ± 5 meV/% (PL)</td>\n<td>29</td>\n</tr>\n<tr>\n<td></td>\n<td>1L WS₂ (4%)</td>\n<td>−11.3 meV/% (PL), direct-to-indirect bandgap transition at 2.5%</td>\n<td>77</td>\n</tr>\n<tr>\n<td></td>\n<td>1L WS₂ (4%)</td>\n<td>−11.3 meV/% (PL), 在2.5%应变处发生直接-间接带隙转变</td>\n<td>77</td>\n</tr>\n<tr>\n<td>Homogeneous biaxial strain</td>\n<td>3L MoS₂ (−0.2%)</td>\n<td>−300 meV/% (PL)</td>\n<td>76</td>\n</tr>\n<tr>\n<td>均匀双轴应变</td>\n<td>3L MoS₂ (−0.2%)</td>\n<td>−300 meV/% (PL)</td>\n<td>76</td>\n</tr>\n<tr>\n<td></td>\n<td>Graphene (−0.15%)</td>\n<td>160.3 cm⁻¹/% for G′ band, −57.3 cm⁻¹/% for G band</td>\n<td>97</td>\n</tr>\n<tr>\n<td></td>\n<td>石墨烯 (−0.15%)</td>\n<td>G′带: 160.3 cm⁻¹/%, G带: −57.3 cm⁻¹/%</td>\n<td>97</td>\n</tr>\n<tr>\n<td></td>\n<td>1L WSe₂ (−0.2% to 1.0%)</td>\n<td>N/A</td>\n<td>121</td>\n</tr>\n<tr>\n<td></td>\n<td>1L WSe₂ (−0.2% to 1.0%)</td>\n<td>不适用</td>\n<td>121</td>\n</tr>\n<tr>\n<td></td>\n<td>1L MoS₂ (0.2%)</td>\n<td>−0.42 meV K⁻¹ (PL)</td>\n<td>79</td>\n</tr>\n<tr>\n<td></td>\n<td>1L MoS₂ (0.2%)</td>\n<td>−0.42 meV K⁻¹ (PL)</td>\n<td>79</td>\n</tr>\n<tr>\n<td>Inhomogeneous local strain</td>\n<td>1L MoS₂ (N/A)</td>\n<td>−0.114 meV kW⁻¹ cm⁻² (PL)</td>\n<td>79</td>\n</tr>\n<tr>\n<td>非均匀局域应变</td>\n<td>1L MoS₂ (不适用)</td>\n<td>−0.114 meV kW⁻¹ cm⁻² (PL)</td>\n<td>79</td>\n</tr>\n<tr>\n<td></td>\n<td>3–5L MoS₂ (2.5%)</td>\n<td>Total −90 meV change for DB (PL)</td>\n<td>41</td>\n</tr>\n<tr>\n<td></td>\n<td>3–5L MoS₂ (2.5%)</td>\n<td>DB (PL) 总变化 −90 meV</td>\n<td>41</td>\n</tr>\n<tr>\n<td></td>\n<td>2–4L WS₂, 2–4L WSe₂ (1% for 3L, 2% for 4L)</td>\n<td>Locally enhanced PL intensity with bandgap patterning</td>\n<td>122</td>\n</tr>\n<tr>\n<td></td>\n<td>2–4L WS₂, 2–4L WSe₂ (3L: 1%, 4L: 2%)</td>\n<td>带隙图案化导致的局域PL强度增强</td>\n<td>122</td>\n</tr>\n<tr>\n<td></td>\n<td>1L WSe₂ on Ag film (N/A)</td>\n<td>Strong emission enhancement and single-photon emitter</td>\n<td>80</td>\n</tr>\n<tr>\n<td></td>\n<td>1L WSe₂ 在Ag膜上 (不适用)</td>\n<td>强发射增强和单光子发射体</td>\n<td>80</td>\n</tr>\n<tr>\n<td></td>\n<td>1–2L WSe₂ on substrate (N/A)</td>\n<td>Strong emission enhancement and single-photon emitter</td>\n<td>127</td>\n</tr>\n<tr>\n<td></td>\n<td>1–2L WSe₂ 在衬底上 (不适用)</td>\n<td>强发射增强和单光子发射体</td>\n<td>127</td>\n</tr>\n<tr>\n<td></td>\n<td>Graphene on Ag film (N/A)</td>\n<td>Strong emission enhancement and splitting of G band</td>\n<td>113</td>\n</tr>\n<tr>\n<td></td>\n<td>石墨烯在Ag膜上 (不适用)</td>\n<td>强发射增强和G带分裂</td>\n<td>113</td>\n</tr>\n<tr>\n<td></td>\n<td>Au deposited on graphene (N/A)</td>\n<td>Strong emission enhancement and splitting of G band</td>\n<td>108</td>\n</tr>\n<tr>\n<td></td>\n<td>金沉积在石墨烯上 (不适用)</td>\n<td>强发射增强和G带分裂</td>\n<td>108</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Strain engineering of 2D semiconductors and graphene: from strain fields to band-structure tuning and photonic applications|\n|短标题|二维半导体和石墨烯的应变工程：从应变场到能带结构调谐和光子应用|\n|作者|[[Zhiwei Peng]]、 [[Xiaolin Chen]]、 [[Yulong Fan]]、 [[David J. Srolovitz]]、 [[Dangyuan Lei]]|\n|期刊名称|[[Light：Science & Applications]]|\n|DOI|[10.1038/s41377-020-00421-5](https://doi.org/10.1038/s41377-020-00421-5)|\n|存档位置|491|\n|文库编目|DOI.org|\n|索书号||\n|版权||\n|分类|[[07_发光机理与陷阱物理 (ML Mechanisms)]]|\n|条目链接|[My Library](zotero://select/library/items/ZGPAGGGY)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/NDQ8FW23\">Peng 等 - 2020 - Strain engineering of 2D semiconductors and graphene from strain fields to band-structure tuning an</a></li><li><a href=\"zotero://open-pdf/library/items/4IBFY292\">Peng 等 - 2020 - Strain engineering of 2D semiconductors and graphene from strain fields to band-structure tuning an.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "ð1Þ",
+      "page": "3",
+      "attachment_key": "2UMMQA77",
+      "file": "eq_1_2UMMQA77.png"
+    },
+    {
+      "id": "eq_11",
+      "title": "Equation 11",
+      "content": "ð11Þ",
+      "page": "13",
+      "attachment_key": "3GVLHUIR",
+      "file": "eq_11_3GVLHUIR.png"
+    },
+    {
+      "id": "eq_12",
+      "title": "Equation 12",
+      "content": "ð12Þ",
+      "page": "16",
+      "attachment_key": "HRUWXYX7",
+      "file": "eq_12_HRUWXYX7.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "ð2Þ",
+      "page": "3",
+      "attachment_key": "JPRW34Y2",
+      "file": "eq_2_JPRW34Y2.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "ð3Þ",
+      "page": "3",
+      "attachment_key": "ZCDGHWWV",
+      "file": "eq_3_ZCDGHWWV.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "ð4Þ",
+      "page": "3",
+      "attachment_key": "3RMPDJWB",
+      "file": "eq_4_3RMPDJWB.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "ð5Þ",
+      "page": "4",
+      "attachment_key": "EV6NFRSP",
+      "file": "eq_5_EV6NFRSP.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "ð6Þ",
+      "page": "4",
+      "attachment_key": "E25I9SL8",
+      "file": "eq_6_E25I9SL8.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "ð7Þ",
+      "page": "4",
+      "attachment_key": "N6YLWLB2",
+      "file": "eq_7_N6YLWLB2.png"
+    },
+    {
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "ð8Þ",
+      "page": "7",
+      "attachment_key": "LIXGXK36",
+      "file": "eq_8_LIXGXK36.png"
+    },
+    {
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "ð9Þ",
+      "page": "9",
+      "attachment_key": "FBULSW6H",
+      "file": "eq_9_FBULSW6H.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [
+    "TMDs及其变体（MoS2）",
+    "石墨烯"
+  ],
+  "methods": []
+}

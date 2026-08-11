@@ -1,20 +1,38 @@
 {
   "parent_key": "noseUnifiedFormulationConstant1984",
   "title": "noseUnifiedFormulationConstant1984",
-  "figures": [
-    {
-      "fig_number": "81",
-      "title": "Figure 81",
-      "llm_description": "J. Chem. Phys., Vol. 81, No.1, 1 July 1984 Formula 4 · 第 8 页(4.21) Formula 4 · 第 8 页(4.19) Formula 4 · 第 8 页(4.20) Formula · 第 8 页Formula 4 · 第 8 页(4.18) Formula 5 · 第 8 页(5.1) Formula · 第 8 页Formula · 第 8 页Table · 第 9 页TABLE II. The number of independent variables in the various constant  temperatu",
-      "page": "8",
-      "attachment_key": "Y2B3F56A",
-      "file": "fig_81_Y2B3F56A.png",
-      "tags": [],
-      "materials": [],
-      "methods": []
-    }
-  ],
+  "figures": [],
   "tables": [
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th>方法类型</th>\n<th>虚变量方程</th>\n<th>实变量方程</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>扩展系统方法（ES）</td>\n<td>第II A节，方程(2.5)-(2.12)</td>\n<td>第II B节，方程(2.19)-(2.25)</td>\n</tr>\n<tr>\n<td>约束方法（HLME等）</td>\n<td>第III A节，由ES加约束(3.2)导得</td>\n<td>第III B节，HLME方程(3.8)-(3.10)</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th>系综类型</th>\n<th>扩展系统方法</th>\n<th>约束方法</th>\n<th>统计力学</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>正则系综（NVT）</td>\n<td>6N+1 (6N-5)</td>\n<td>6N-1 (6N-7)</td>\n<td>6N</td>\n</tr>\n<tr>\n<td>恒温恒压系综（NPT）</td>\n<td>6N+3 (6N-3)</td>\n<td>6N-1 (6N-7)</td>\n<td>6N+1</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th>采样方式</th>\n<th>扩展系统方法</th>\n<th>约束方法</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>虚时间采样</td>\n<td>3N+1</td>\n<td>3N</td>\n</tr>\n<tr>\n<td>实时间采样</td>\n<td>3N</td>\n<td>3N-1</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T4",
+      "title": "Table 4",
+      "content": "<table>\n<thead>\n<tr>\n<th>Sampling type</th>\n<th>Extended system method</th>\n<th>Constraint method</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>virtual time</td>\n<td>3N + 1</td>\n<td>3N</td>\n</tr>\n<tr>\n<td>real time</td>\n<td>3N</td>\n<td>3N - 1</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T5",
+      "title": "Table 5",
+      "content": "<table>\n<thead>\n<tr>\n<th>采样类型</th>\n<th>扩展系统方法</th>\n<th>约束方法</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>虚拟时间</td>\n<td>3N + 1</td>\n<td>3N</td>\n</tr>\n<tr>\n<td>实时</td>\n<td>3N</td>\n<td>3N - 1</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
     {
       "id": "MD-T1",
       "title": "MD Table 1",

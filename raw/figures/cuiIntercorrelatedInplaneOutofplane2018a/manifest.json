@@ -5,105 +5,61 @@
     {
       "fig_number": "1",
       "title": "Figure 1",
-      "llm_description": "Figure 1. Synthesis &amp; structure characterization of 2D In2Se3. a. Schematic illustration of the  growth process of 2D In2Se3 with Se and In2O3 as the precursors and mica as the substrate. b.  AFM image and the corresponding height profiles of In2Se3 sheets with the thicknesses ~1.3-4.3  nm. The ",
+      "llm_description": "Figure 1. Synthesis &amp; structure characterization of 2D In2Se3. a. Schematic illustration of the  growth process of 2D In2Se3 with Se and In2O3 as the precursors and mica as the substrate. b.  AFM image and the corresponding height profiles of In2Se3 sheets with the thicknesses ~1.3-4.3  nm. The scale bar is 1 µm. c. Raman spectra of In2Se3 and mica respectively with the 532 nm  laser excitation. d. SAED patterns of α- and β- In2Se3 taken in the regions indicated in the TEM  image in the inse",
       "page": "18",
-      "attachment_key": "9V8EFZCH",
-      "file": "fig_1_9V8EFZCH.png",
+      "attachment_key": "MQ5WQF79",
+      "file": "fig_1_MQ5WQF79.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3",
-        "CuInP2S6"
-      ],
-      "methods": [
-        "CVD",
-        "Raman",
-        "DFT",
-        "PFM",
-        "STEM",
-        "TEM",
-        "AFM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "Figure 2. PFM investigation of the as-grown In2Se3 on mica. a. AFM image of typical thin  flakes with the thicknesses from 2 to 6 nm. The scale bars is 1 µm. b and c, The corresponding  IP PFM images (b. amplitude; c. phase). d. Statistics of the thickness-dependent IP phase (1L-6  L) from different",
+      "llm_description": "Figure 2. PFM investigation of the as-grown In2Se3 on mica. a. AFM image of typical thin  flakes with the thicknesses from 2 to 6 nm. The scale bars is 1 µm. b and c, The corresponding  IP PFM images (b. amplitude; c. phase). d. Statistics of the thickness-dependent IP phase (1L-6  L) from different locations. e. STEM-HAADF image showing the region from 2L (lower) to 3L  (upper), where scanning electron diffraction was performed. The X-Y axes are indicated in  bottom left, where X is along the [",
       "page": "19",
-      "attachment_key": "KI2RJSAP",
-      "file": "fig_2_KI2RJSAP.png",
+      "attachment_key": "HLGI8HDK",
+      "file": "fig_2_HLGI8HDK.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3",
-        "CuInP2S6"
-      ],
-      "methods": [
-        "CVD",
-        "Raman",
-        "DFT",
-        "PFM",
-        "STEM",
-        "TEM",
-        "AFM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "Figure 3. Ferroelectric switching of a 6 nm thin In2Se3 flake transferred onto the Au/Si  substrate. a. schematic model of IP and OOP switching coupling. b. OOP phase image and c.  the corresponding IP phase image of a 6 nm thick In2Se3 flake acquired immediately after  writing two square patterns w",
+      "llm_description": "Figure 3. Ferroelectric switching of a 6 nm thin In2Se3 flake transferred onto the Au/Si  substrate. a. schematic model of IP and OOP switching coupling. b. OOP phase image and c.  the corresponding IP phase image of a 6 nm thick In2Se3 flake acquired immediately after  writing two square patterns with a size of 2 µm and 1 µm by applying  -7 V and +6 V voltages  consecutively. The scale bar is 1 µm. d and e. Local ferroelectric switching loops without and  with an Au top electrode, respectively.",
       "page": "20",
-      "attachment_key": "CYYZHR4W",
-      "file": "fig_3_CYYZHR4W.png",
+      "attachment_key": "YHE8WF9K",
+      "file": "fig_3_YHE8WF9K.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3",
-        "CuInP2S6"
-      ],
-      "methods": [
-        "CVD",
-        "Raman",
-        "DFT",
-        "PFM",
-        "STEM",
-        "TEM",
-        "AFM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "4",
       "title": "Figure 4",
       "llm_description": "Figure 4. Electrically controlled conducting behavior of In2Se3. a. CAFM mapping for a 6 nm",
       "page": "21",
-      "attachment_key": "YNS6A5F9",
-      "file": "fig_4_YNS6A5F9.png",
+      "attachment_key": "6L59ASAB",
+      "file": "fig_4_6L59ASAB.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3",
-        "CuInP2S6"
-      ],
-      "methods": [
-        "CVD",
-        "Raman",
-        "DFT",
-        "PFM",
-        "STEM",
-        "TEM",
-        "AFM"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Intercorrelated In-Plane and Out-of-Plane Ferroelectricity in Ultrathin Two-Dimensional Layered Semiconductor In<sub>2</sub>Se<sub>3</sub>|\n|短标题|超薄二维层状半导体中相互关联的面内和面外铁电性In<sub>2</sub>Se<sub>3</sub>|\n|作者|[[Chaojie Cui]]、 [[Wei-Jin Hu]]、 [[Xingxu Yan]]、 [[Christopher Addiego]]、 [[Wenpei Gao]]、 [[Yao Wang]]、 [[Zhe Wang]]、 [[Linze Li]]、 [[Yingchun Cheng]]、 [[Peng Li]]、 [[Xixiang Zhang]]、 [[Husam N. Alshareef]]、 [[Tom Wu]]、 [[Wenguang Zhu]]、 [[Xiaoqing Pan]]、 [[Lain-Jong Li]]|\n|期刊名称|[[Nano Letters]]|\n|DOI|[10.1021/acs.nanolett.7b04852](https://doi.org/10.1021/acs.nanolett.7b04852)|\n|存档位置|806|\n|文库编目|9.1|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/B8RVUHBX)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/KDVQBBQG)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Intercorrelated In-Plane and Out-of-Plane Ferroelectricity in Ultrathin Two-Dimensional Layered Semiconductor In<sub>2</sub>Se<sub>3</sub>|\n|短标题|超薄二维层状半导体In<sub>2</sub>Se<sub>3</sub>|\n|作者|[[Chaojie Cui]]、 [[Wei-Jin Hu]]、 [[Xingxu Yan]]、 [[Christopher Addiego]]、 [[Wenpei Gao]]、 [[Yao Wang]]、 [[Zhe Wang]]、 [[Linze Li]]、 [[Yingchun Cheng]]、 [[Peng Li]]、 [[Xixiang Zhang]]、 [[Husam N. Alshareef]]、 [[Tom Wu]]、 [[Wenguang Zhu]]、 [[Xiaoqing Pan]]、 [[Lain-Jong Li]]|\n|期刊名称|[[Nano Letters]]|\n|DOI|[10.1021/acs.nanolett.7b04852](https://doi.org/10.1021/acs.nanolett.7b04852)|\n|存档位置|806|\n|文库编目|9.1|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/B8RVUHBX)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/KDVQBBQG)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
@@ -111,17 +67,6 @@
   "tags": [
     "Done"
   ],
-  "materials": [
-    "In2Se3",
-    "CuInP2S6"
-  ],
-  "methods": [
-    "CVD",
-    "Raman",
-    "DFT",
-    "PFM",
-    "STEM",
-    "TEM",
-    "AFM"
-  ]
+  "materials": [],
+  "methods": []
 }

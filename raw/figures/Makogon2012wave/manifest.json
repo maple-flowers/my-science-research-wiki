@@ -1,0 +1,115 @@
+{
+  "parent_key": "Makogon2012wave",
+  "title": "Makogon2012wave",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. (a) Schematic layout: two nearly degenerate counter-propagating lasers differ in frequency by a very small δω, and are linearly polarized in the ˆx-ˆy plane. An rf magnetic field Brf cos(δωt + φ) is polarized along ˆz. A bias field B0ˆx brings the two Zeeman-resolved mF levels nearly into resonance. (b) Illustrative level diagram: the two mF states are coupled by optical and rf magnetic fields. The lattice potential formed by the retro-reflected lasers is omitted. (c) Band structure com-",
+      "page": "1",
+      "attachment_key": "W2ZSL64K",
+      "file": "fig_1_W2ZSL64K.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. (a) Largest eigenvalue of the static susceptibility ηχk(0) as a function of k+ and k−. The peaks indicate the Q vectors for SCDW instabilities, and the largest peak marks the location of the most prominent nesting vector. Imaginary part of the trace of the susceptibility Tr[Imχk(ω)] in logarithmic scale in the ky-ω plane, with kx = 0, i.e., k+=−k−. (b) Without interactions a linearly dispersing sound mode is observed for small ky. (c) For U/t = 2.60(3), spectral weight builds up for a se",
+      "page": "3",
+      "attachment_key": "DZDKDGH8",
+      "file": "fig_2_DZDKDGH8.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Spin-charge-density wave in a rounded-square Fermi surface for ultracold atoms|\n|短标题|超冷原子圆形方形费米表面的自旋电荷密度波|\n|作者|[[D. Makogon]]、 [[I. B. Spielman]]、 [[C. Morais Smith]]|\n|期刊名称|[[EPL (Europhysics Letters)]]|\n|DOI|[10.1209/0295-5075/97/33002](https://doi.org/10.1209/0295-5075/97/33002)|\n|存档位置|10|\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[09_Review & Computational Methods]]|\n|条目链接|[My Library](zotero://select/library/items/QRJXZC3R)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/6R8Z2M86)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "2",
+      "attachment_key": "Y63VZU65",
+      "file": "eq_1_Y63VZU65.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "3",
+      "attachment_key": "DJRU7RYG",
+      "file": "eq_2_DJRU7RYG.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(3)",
+      "page": "3",
+      "attachment_key": "ZHECFDV4",
+      "file": "eq_3_ZHECFDV4.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4)",
+      "page": "4",
+      "attachment_key": "S8Z395LR",
+      "file": "eq_4_S8Z395LR.png"
+    },
+    {
+      "id": "eq1",
+      "title": "Equation 1",
+      "content": "$$...$$",
+      "page": "-"
+    },
+    {
+      "id": "eq2",
+      "title": "Equation 2",
+      "content": "$$` 包裹，内联公式用 `$` 包裹。这样更符合学术Markdown。任务中 \"代码块\" 是针对程序代码，而公式是数学内容。我们可以在翻译时，将公式原样保留，并用 `$` 包裹。但输入文本中公式是纯文本，带有下划线、上标等。例如 `c†`，可能原本是 `c^\\dagger`。我们需要忠实地转换。我们可以在输出中直接使用LaTeX格式，将 `c†` 写为 `c^\\dagger`，`ħ` 为 `\\hbar`，等等。但输入文本中就是 `c†` 和 `ħ`，这些是Unicode字符。我们可以在输出中保留这些Unicode字符，或者转换为LaTeX命令。为了确保在Markdown中正确显示，最好保留Unicode，或使用LaTeX。任务没有明确要求，但 \"保留原始格式\" 可能意味着保留可见文本。我们选择保留Unicode，因为这是原文的表示。但有一些符号如 `σˇ` 可能难以显示。我们可以在中文翻译中，公式部分保留原样（Unicode）。对于公式块，我们可能用 `$$",
+      "page": "-"
+    },
+    {
+      "id": "eq3",
+      "title": "Equation 3",
+      "content": "$$\nH_0(\\mathbf{k}) = \\begin{pmatrix} \\check{\\sigma} \\cdot \\mathbf{B}_+/2 &amp; -t\\gamma_{\\mathbf{k}} I \\\\ -t\\gamma_{\\mathbf{k}} I &amp; \\check{\\sigma} \\cdot \\mathbf{B}_-/2 \\end{pmatrix}.\n$$",
+      "page": "-"
+    },
+    {
+      "id": "eq4",
+      "title": "Equation 4",
+      "content": "$$` 显示公式。但任务要求 \"保留原始格式\"，可能意味着在Markdown中再现原文的视觉格式。如果原文是缩进的，我们可以保留缩进。但输入文本中，块公式有缩进，例如：\n> \n> \n\n<pre class=\"hljs\"><code>H0 k =\n[ σˇ · B+/2 −tγkI −tγkI σˇ · B−/2\n]\n.\n</code></pre>\n\n\n> \n> 这里有一个缩进。我们可以在输出中保留这种缩进，用代码块表示。但公式是数学，不是代码。我们根据任务，将 \"代码块\" 定义为识别固定宽度/缩进格式。所以，这些缩进的公式应该被视为代码块？但任务也提到 \"自动检测语言类型（如 `python` / `bash`）\"，对于公式，可能没有语言。我们可以用 `text` 或不标注。或者，我们将其转换为LaTeX数学块，但这可能不是 \"保留原始格式\"。我认为，更安全的方式是：对于缩进的公式，我们用三反引号包裹，并标注为 `math` 或 `text`。但公式内联部分可能用反引号。我们权衡一下：输出Markdown的目标是结构化，且适合阅读。中文翻译后，公式仍保留原样。我们可以在公式块中使用 `$$",
+      "page": "-"
+    },
+    {
+      "id": "eq5",
+      "title": "Equation 5",
+      "content": "$$` 包裹，并保持原样（Unicode和空格），这样在Markdown中可能不会正确渲染，但至少保留了文本。我们选择用 `$$",
+      "page": "-"
+    },
+    {
+      "id": "eq6",
+      "title": "Equation 6",
+      "content": "$$` 包裹，并保留缩进。这样处理。\n> \n> 关于术语解释：首次出现的核心术语，如 \"spin-charge-density wave\" (SCDW), \"Fermi surface\", \"squircle\", \"Zeeman field\", \"optical lattice\", \"Hubbard model\", \"RPA\", \"saddle-point approximation\", \"Stoner criterium\" 等。我们需要在首次出现时给出术语解释，格式 `**Term**: 中文解释`。注意，这些术语解释是附加在单元之后的，不是强制所有单元，但首次出现时添加。我们可以在第一次出现时添加。例如，摘要中首次出现 \"squircle-like Fermi surface\" 和 \"spin-charge-density wave\" 等。我们可以在翻译段落后添加术语解释行。\n> \n> 现在，开始逐步输出。我们将首先输出主标题，然后作者行，日期行，摘要段落，然后 Introduction 标题，等等。每个单元都要有英文原文和中文翻译。术语解释首次出现时添加。\n> \n> 对于标题：结构为\n> \n> \n\n<pre class=\"hljs\"><code><span class=\"hljs-section\"># [英文标题]</span>\n[中文标题]\n<span class=\"hljs-strong\">**Term**</span>: 术语解释\n</code></pre>\n\n\n> \n> 但主标题可能没有术语解释。我们照做。\n> \n> 对于段落：英文原文，然后中文翻译，然后可选术语解释。注意，英文原文和中文翻译之间没有空行？任务说 \"中文翻译紧接原文单元（无空行间隔）\"，所以可能是：\n> \n> \n\n<pre class=\"hljs\"><code>[英文原文]\n[中文翻译]\n[术语解释]\n</code></pre>\n\n\n> \n> 每个单元之间空一行？任务说 \"无空行间隔\" 是指英文原文和中文翻译之间没有空行，但不同单元之间应该有空行分隔。我们遵循：每个逻辑单元（标题、段落、列表等）用空行分隔，但单元内部英文原文和中文翻译之间无空行。术语解释另起一行，紧接中文翻译。\n> \n> 我们开始处理。\n> \n> 首先，识别逻辑单元：\n> \n> 1.  标题：Spin-charge-density wave in a squircle-like Fermi surface for ultracold atoms\n> 2.  作者行：D. Makogon,1 I. B. Spielman,2 and C. Morais Smith1 ...\n> 3.  机构行：1Institute for Theoretical Physics, ...\n> 4.  日期行：(Dated: May 8, 2019)\n> 5.  摘要段落：We derive and discuss ... treating spin and charge density separately.\n> 6.  Introduction 标题：Introduction\n> 7.  段落：Ultracold atoms in optical lattices ...\n> 8.  段落：We derive a lattice model ...\n> 9.  段落：For particles with two spin states ...\n> 10.  段落：To account for interactions ...\n> 11.  段落：At the interaction strength Uc, a soft mode arises ... (继续) 但注意，在摘要之后直接是 \"Introduction\" 标题，然后是一大段文字。我们需要仔细分段。输入文本中，从 \"Introduction\" 到下一个标题 \"Spin-charge-density-wave\" 之间，有多个段落，由空行分隔？输入文本中，这些段落是用换行符分隔的，但我们可以根据句号和大写字母来识别段落边界。输入文本是连续的，但有一些换行。我们保留原文的段落分隔。在 \"Introduction\" 之后，有 \"Ultracold atoms in optical lattices have recently ...\" 一段，然后 \"We derive a lattice model, equally applicable ...\" 一段，然后 \"For particles with two spin states, our lattice model has ...\" 一段，然后 \"To account for interactions, we develop ...\" 一段，然后 \"Imperfect nesting along the diagonal ...\" 一段，然后 \"At the interac\" 被截断？等一下，输入文本中 \"At the interac\" 然后换行，接着是 \"(a) Layout\" 等，这是图1的说明。图1说明是单独的部分。我们需要处理图1说明。图1说明包括：\n> \n> \n\n<pre class=\"hljs\"><code>(a) Layout\n(b) Level diagram\n(c) Band structure\nW ave-vector,k+\nWave-vector,k- Energy, in units of t\n-5\n5\n0\n00\nBrf\nrf\nFIG. 1. (a) Schematic layout: ...\n</code></pre>\n\n\n> \n> 这是一个复杂的图说明，有文本和简单的ASCII图？实际上，输入文本中有 \"W ave-vector,k+\" 等，这可能是图的一部分，但很可能是一个缩略图。我们将其视为一个整体，可能是预格式化的文本。我们考虑将其作为代码块 ` ```text` 包裹，以保留原始格式。任务要求识别代码块（固定宽度/缩进格式）。这里 \"W ave-vector,k+\" 等看起来像是有固定宽度的字符排列。我们将其作为代码块处理。然后 FIG. 1 说明文字是段落。\n> \n> 然后 \"arXiv:1007.0782v1 ...\" 行，然后是 \"2\" 页码，然后是另一段文本 \"confining motion to the xˆ − yˆ plane...\" 这实际上是接续前面的段落。看来输入文本中，页面分隔导致了一些混乱。我们需要根据上下文连接。原文中，在 \"At the interac\" 处断开了，然后有图1，然后 \"arXiv...\" 和 \"2\" 页码，然后 \"confining motion to the xˆ − yˆ plane. Our model includes...\" 所以，应该把 \"At the interac\" 和 \"tion strength Uc, a soft mode arises...\" 连接起来，但中间插入了图。实际上，正文是 \"At the interaction strength Uc, a soft mode arises at the optimal nesting wave-vector Q.\" 这是摘要的一部分？不，摘要中已经出现了 \"At the interac\" 然后断了吗？我们看输入文本摘要部分： \"We calculate the imaginary part of the trace of the random phase approximation (RPA) susceptibility to study the collective excitations of the system. At the interac\" 然后是新行 \"(a) Layout\" 等。所以摘要文本被图1打断了。实际上，摘要应该完整，但PDF提取可能把图1插入了。我们需要将摘要段落完整恢复。摘要原文是： \"We derive and discuss ... treating spin and charge density separately.\" 之后是 \"Introduction\" 标题。但在输入文本中，摘要之后直接是 \"Introduction\" 标题，然后正文，然后 \"At the interac\" 出现了，但这是图1的标题？混乱。我们仔细看输入文本顺序：\n> \n> \n\n<pre class=\"hljs\"><code>... treating spin and charge density separately.\nIntroduction Ultracold atoms in optical lattices have recently emerged ...\n... [有一大段]\n... At the interac\n(a) Layout\n(b) Level diagram\n...\n</code></pre>\n\n\n> \n> 所以 \"At the interac\" 是 Introduction 部分某个段落的结尾，但被截断了。实际的完整句子是 \"At the interaction strength Uc, a soft mode arises at the optimal nesting wave-vector Q.\" 在 Introduction 的末尾。然后图1出现。然后 \"arXiv:1007.0782v1 ...\" 然后 \"2\" 然后 \"confining motion to the xˆ − yˆ plane.\" 这实际上是 Introduction 结束后的新段落，但被页码和arXiv号打断了。我们需要根据语义重新组装。但任务要求 \"保留原始顺序（无文本重组）\"。然而，这是PDF提取导致的文本碎片，我们需要忠实于输入文本的顺序，但可以合并属于同一段落的文本吗？输入文本是连续的，但包含页码和无关信息。我们考虑将 \"arXiv:1007.0782v1 [cond-mat.quant-gas] 5 Jul 2010\" 和 \"2\" 作为独立的行，因为它们可能是页眉/页脚。不过，任务要求无文本重组，所以我们应该保留它们，按原顺序输出。但为了保持可读性，我们将它们作为段落输出。我们可以在输出中保留这些，但可能被视为隐藏文本或无关信息。我们决定保留所有行，包括 \"arXiv:1007.0782v1 [cond-mat.quant-gas] 5 Jul 2010\" 和 \"2\" 以及 \"confining motion to the xˆ − yˆ plane.\" 等，按顺序输出。\n> \n> 具体处理：我们将整个输入文本按逻辑单元拆分，但严格遵循输入顺序。对于跨页的段落，我们可能无法完美合并，但就按输入顺序输出每个块。我们根据输入文本中的空行或换行来拆分单元。输入文本似乎没有连续的空行，但有一些换行。我们可以在输出中根据原文的换行大致保留段落。\n> \n> 为了简化，我们逐块处理，每个块都是独立的单元，按顺序排列。插图说明等作为代码块。\n> \n> 现在，开始构建Markdown输出。\n> \n> 首先，主标题单元：\n> \n> # Spin-charge-density wave in a squircle-like Fermi surface for ultracold atoms\n> \n> 自旋-电荷密度波在超冷原子类方圆形费米面中的研究 **squircle**: 方圆形，一种介于方形和圆形之间的几何形状，其边界由方程 |x|^p + |y|^p = r^p (p>2) 定义，此处指费米面形状类似两个同心方圆形。 **spin-charge-density wave (SCDW)**: 自旋-电荷密度波，一种同时包含自旋密度波和电荷密度波的有序态。\n> \n> 但术语解释可能会很多。我们可以在首次出现时标注。主标题中出现 \"squircle\" 和 \"spin-charge-density wave\"。我们添加解释。\n> \n> 然后作者行： D. Makogon,1 I. B. Spielman,2 and C. Morais Smith1 D. Makogon,1 I. B. Spielman,2 和 C. Morais Smith1\n> \n> 然后机构行： 1Institute for Theoretical Physics, Utrecht University, 3508 TD Utrecht, The Netherlands 2Joint Quantum Institute, National Institute of Standards and Technology, and University of Maryland, Gaithersburg, Maryland, 20899, USA 1乌得勒支大学理论物理研究所，3508 TD 乌得勒支，荷兰 2联合量子研究所，美国国家标准与技术研究院及马里兰大学，马里兰州盖瑟斯堡，20899，美国\n> \n> 然后日期行： (Dated: May 8, 2019) （日期：2019年5月8日）\n> \n> 然后摘要段落： We derive and discuss an experimentally realistic model describing ultracold atoms in an optical lattice including a commensurate, but staggered, Zeeman field. The resulting band structure is quite exotic; fermions in the third band have an unusual rounded picture-frame Fermi surface (essentially two concentric squircles), leading to imperfect nesting. We develop a generalized SO(3, 1) × SO(3, 1) theory describing the spin and charge degrees of freedom simultaneously, and show that the system can develop a coupled spin-charge-density wave order. This ordering is absent in studies of the Hubbard model that treat spin and charge density separately. 我们推导并讨论了一个实验上可行的模型，描述了在光晶格中包含一个公度但交错的塞曼场的超冷原子。由此产生的能带结构相当奇特；第三能带中的费米子具有一个不寻常的圆角画框形状的费米面（本质上是两个同心的方圆形），导致不完全的嵌套。我们发展了一个广义的 SO(3, 1) × SO(3, 1) 理论，同时描述了自旋和电荷自由度，并表明该系统可以产生耦合的自旋-电荷密度波序。这种有序态在将自旋和电荷密度分开处理的哈伯德模型研究中是不存在的。 **optical lattice**: 光晶格，由多束激光干涉形成的周期性势阱，用于囚禁超冷原子。 **Zeeman field**: 塞曼场，由磁场引起的原子能级分裂，等效于一个有效磁场。 **Fermi surface**: 费米面，在动量空间中，被电子占据的态与未被占据的态之间的边界。 **imperfect nesting**: 不完全嵌套，费米面的一部分平移一定波矢后与另一部分近似重合，但存在偏差，导致弱的不稳定性。 **Hubbard model**: 哈伯德模型，描述晶格中电子相互作用的最简模型，包含动能项和格点库仑排斥项。\n> \n> 术语 \"SO(3,1)×SO(3,1)\" 可解释，但可能不是首次出现的核心术语？我们可以在后面解释。这里可以添加解释，但摘要中已经有很多术语。我们选择性地添加最核心的。\n> \n> 接下来是 Introduction 标题：\n> \n> ## Introduction\n> \n> 引言\n> \n> 接下来是 Introduction 下的段落。我们需要根据输入文本拆分。输入文本从 \"Introduction\" 后，紧接着 \"Ultracold atoms in optical lattices have recently emerged ...\" 这段。然后有 \"We derive a lattice model, equally applicable ...\" 一段。然后 \"For particles with two spin states, ...\" 一段。然后 \"To account for interactions, ...\" 一段。然后 \"Imperfect nesting along the diagonal ...\" 一段。然后 \"At the interac\" 然后图1代码块，然后 arXiv 行，然后 \"2\" 行，然后 \"confining motion to the xˆ − yˆ plane.\" 开始的新段落。我们需要把这些碎片整理成连贯的单元。但按照任务，我们遵循输入顺序。我们按原文顺序输出。\n> \n> 仔细看输入文本中 Introduction 部分：\n> \n> \n\n<pre class=\"hljs\"><code>Introduction Ultracold atoms in optical lattices have recently emerged as a class of condensed matter systems, where the properties of the many-body Hamiltonian are under exquisite experimental control. Interfering laser beams in one, two or three dimensions (D) create standing waves: nearly perfect optical lattices for atoms with lattice spacing and topology set by the laser geometry and wavelength [1]. Optical lattices not only allow for the implementation of different lattice models without defects, but also open a wide range of possibilities to manipulate the parameters of the model describing ultracold bosons, fermions, or mixtures thereof. For example, the hopping parameters, local chemical potential, and often even the interaction strength can be tuned at will. Most optical lattice experiments use atoms in a single state [2], however, some experiments study mixtures of atoms in two or more atomic “spin” states, each of which can experience different lattice potentials [3–5]. We derive a lattice model, equally applicable to bosons and fermions, with an effective Zeeman magnetic field including a term alternating in sign on a site-by-site basis [6]. In condensed matter systems, the Zeeman field couples strongly to electrons near the Fermi surface [7], and in more orchidaceous situations, it breaks local timereversal invariance in topological insulators [8, 9]. For particles with two spin states, our lattice model has four low-energy bands, and the third is shaped as a squarish, deformed, Mexican hat for a wide range of system parameters. By filling the system with fermions, we obtain a peculiar Fermi surface, consisting of the boundaries of a squarish ring, essentially two concentric squircles [10]. The particular shape of the Fermi surface suggests that nesting effects should be expected. To account for interactions, we develop an SO(3, 1) × SO(3, 1) description of the charge and spin degrees of freedom. Imperfect nesting along the diagonal connecting corners of the Fermisurface gives rise to a coupled spin-charge-density wave (SCDW) instability at a critical interaction strength Uc. We calculate the imaginary part of the trace of the random phase approximation (RPA) susceptibility to study the collective excitations of the system. At the interac\n</code></pre>\n\n\n> \n> 然后中断。所以 \"At the interac\" 是 \"At the interaction strength Uc, a soft mode arises ...\" 的截断。但图1代码块和 arXiv 等插入在这里。我们接着输出图1代码块等，然后再继续 \"tion strength Uc, ...\" 但输入文本中 \"tion strength Uc\" 没有出现，而是直接跳到图1。我们只能按照输入文本，将 \"At the interac\" 作为一段的结尾，然后输出图1，然后 arXiv，然后 \"2\"，然后 \"confining motion ...\"。但实际上，后续文本 \"confining motion to the xˆ − yˆ plane. Our model includes ...\" 是 Introduction 的下一段。所以，我们可以在 \"At the interac\" 后面添加省略号？不，不能添加。我们只能按原样输出。我们可能需要在翻译时，指出原文在此处中断，但任务要求零遗漏，我们只能原样输出。我们输出 \"At the interac\" 作为一段文本，然后图1代码块，然后 arXiv 行，然后 \"2\" 行，然后接下来的文本。这看起来很混乱，但这是原始的PDF提取结果。我们可以在翻译时，对于不完整的句子，按字面翻译，并注明。但任务要求 \"原文信息零遗漏\"，所以我们保留所有碎片。\n> \n> 我们需要决定如何处理页码 \"2\" 和 \"arXiv:1007.0782v1 [cond-mat.quant-gas] 5 Jul 2010\"。这些可能是页眉，我们可以将它们作为单独的段落输出。我们将在输出中保留它们。\n> \n> 现在，我们开始构建输出。我们将逐个单元输出。\n> \n> 为了节省时间，我们可以先处理整个文档，但这里只输出最终Markdown。我们需要为每个单元创建ID吗？任务说 \"为每个单元分配唯一ID（如 `sec-1` / `para-001`）\"，但在输出中并不要求显示ID，只是内部处理。我们可以忽略ID输出，因为输出要求不包含额外说明性内容。所以，我们只输出Markdown文本。\n> \n> 开始编写输出。\n> \n> 注意：公式中的特殊字符，我们保留Unicode。对于块公式，我们使用 `$$",
+      "page": "-"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

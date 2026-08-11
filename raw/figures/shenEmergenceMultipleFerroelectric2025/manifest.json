@@ -4,100 +4,88 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "单层黑磷的结构、ELF和能带",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. (a) Atomic structure of monolayer BP with different bond lengths and bond angles. (b) Top and side views of the ELF of monolayer BP with the isovalue of 0.85 eÅ−3. The dashed lines indicate the unit cell. (c) Electronic band structures of monolayer BP calculated using GGA–PBE (red dashed lines) and HSE06 (black lines). The Fermi level is indicated by the horizontal dashed line.",
       "page": "2",
-      "attachment_key": "CL2HZ9VJ",
-      "file": "fig_1_CL2HZ9VJ.png",
+      "attachment_key": "MY8J9UHZ",
+      "file": "fig_1_MY8J9UHZ.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "first-principles"
-      ]
+      "methods": []
     },
     {
       "fig_number": "2",
-      "title": "双层黑磷的堆垛与势能面",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. (a) Various stacking configurations of bilayer BP, where the upper and lower panels show the top and side views, respectively. Different layers are labeled in different colors. (b) Contour plot of the 2D potential energy surface for bilayer BP, with (0.0,0.0) corresponding to AB stacking, where �a and �b denote the translation between the upper and lower BP layers. �E = E −EAB, where E is the free energy of each shifted configuration and EAB is the free energy of the ground-state AB stac",
       "page": "3",
-      "attachment_key": "YG3RK346",
-      "file": "fig_2_YG3RK346.png",
+      "attachment_key": "QI5K64ZX",
+      "file": "fig_2_QI5K64ZX.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "first-principles"
-      ]
+      "methods": []
     },
     {
       "fig_number": "3",
-      "title": "三层黑磷的堆垛、能量与极化",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3. (a) Various stacking configurations of trilayer BP, where the structures within the blue dashed lines correspond to AB or AE (AF) stacking between adjacent layers. (b) Relative energies, (c) out-of-plane polarizations, and (d) in-plane polarizations for the different stacking configurations of trilayer BP, with the energy of the ground-state BAB configuration set to 0 meV.",
       "page": "4",
-      "attachment_key": "LKRDKD7G",
-      "file": "fig_3_LKRDKD7G.png",
+      "attachment_key": "S9T32KZ9",
+      "file": "fig_3_S9T32KZ9.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "first-principles"
-      ]
+      "methods": []
     },
     {
       "fig_number": "4",
-      "title": "三层极化态转化、电荷分布、声子和态密度",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "FIG. 4. (a) Transformation between the polar states EAB, BAE, and BAF, along with their differential charge density distributions, where yellow and blue isosurfaces (3 × 10−4 eÅ−3) indicate electron accumulation and depletion after layer stacking, respectively. The polarization directions are denoted by blue arrows. (b) The corresponding switching pathways calculated using the CI-NEB method. The atomic structures of two intermediate states, BAB and EAF, are listed on the right. (c) Phonon disper",
       "page": "5",
-      "attachment_key": "DRMKZGHV",
-      "file": "fig_4_DRMKZGHV.png",
+      "attachment_key": "GJH2FEXC",
+      "file": "fig_4_GJH2FEXC.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "first-principles"
-      ]
+      "methods": []
     },
     {
       "fig_number": "5",
-      "title": "四层黑磷中的多极化态",
-      "llm_description": "",
+      "title": "Figure 5",
+      "llm_description": "FIG. 5. (a) Various stacking configurations of tetralayer BP with adjacent layers stacked in AB or AE (AF) configurations, where the E’ stacking is derived from the E stacking through a shift of (0, 0.5). (b) Out-of-plane and (c) in-plane polarizations for the various stacking configurations of tetralayer BP. (d) The kinetic pathways for transformations between neighboring out-of-plane polarization states of tetralayer BP, with the energy of the initial state set to 0 meV. �Ei indicates the ener",
       "page": "7",
-      "attachment_key": "AWTNG8CH",
-      "file": "fig_5_AWTNG8CH.png",
+      "attachment_key": "P77WFBTX",
+      "file": "fig_5_P77WFBTX.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "first-principles"
-      ]
+      "methods": []
     },
     {
       "fig_number": "6",
-      "title": "厚BP薄片中表面层位移诱导极化",
-      "llm_description": "",
+      "title": "Figure 6",
+      "llm_description": "FIG. 6. (a) Atomic structures of the BP slab with ABABABAE or ABABABAF stacking. The gray dashed boxes indicate the moving blocks corresponding to the ground-state ABABABAB configuration. The blue arrows denote the polarization directions. (b) Plane-averaged electrostatic potential along the c axis for the BP slab with ABABABAE or ABABABAF stacking. (c) The corresponding switching pathways calculated using the CI-NEB method.",
       "page": "8",
-      "attachment_key": "K4EF5MUM",
-      "file": "fig_6_K4EF5MUM.png",
+      "attachment_key": "ZUCEYMP5",
+      "file": "fig_6_ZUCEYMP5.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "first-principles"
-      ]
+      "methods": []
     }
   ],
   "tables": [
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Emergence of multiple ferroelectric states in multilayer black phosphorus|\n|短标题|多层黑磷中多重铁电态的出现|\n|作者|[[Wanping Shen]]、 [[Jinbo Shen]]、 [[Fang Wang]]、 [[Yunhao Lu]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.111.115429](https://doi.org/10.1103/PhysRevB.111.115429)|\n|存档位置|3|\n|文库编目|3.7|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/KYEZGIWM)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/HFMKZCSR\">PDF</a></li><li><a href=\"zotero://open-pdf/library/items/FJFW4M77\">Shen 等 - 2025 - Emergence of multiple ferroelectric states in multilayer black phosphorus.pdf</a></li></ul>|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Emergence of multiple ferroelectric states in multilayer black phosphorus|\n|短标题|多层黑磷中多铁电态的出现|\n|作者|[[Wanping Shen]]、 [[Jinbo Shen]]、 [[Fang Wang]]、 [[Yunhao Lu]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.111.115429](https://doi.org/10.1103/PhysRevB.111.115429)|\n|存档位置|3|\n|文库编目|3.7|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/KYEZGIWM)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/HFMKZCSR\">Shen 等 - 2025 - Emergence of multiple ferroelectric states in multilayer black phosphorus</a></li><li><a href=\"zotero://open-pdf/library/items/FJFW4M77\">Shen 等 - 2025 - Emergence of multiple ferroelectric states in multilayer black phosphorus.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],
@@ -106,7 +94,5 @@
     "unread"
   ],
   "materials": [],
-  "methods": [
-    "first-principles"
-  ]
+  "methods": []
 }

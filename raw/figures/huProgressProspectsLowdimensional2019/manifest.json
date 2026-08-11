@@ -4,164 +4,141 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "Discovery of ferroelectricity in two-dimensional van der Waals materials. (二维范德华材料中铁电性的发现)",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "FIGURE 1 Discovery of ferroelectricity in two-dimensional van der Waals materials. (a) The broken inversion symmetry in the charge density difference confirms ferroelectricity in the cell-tripled 1T-MoS2. (Reprinted with permission from Reference 26. Copyright 2014 American Physical Society) (b) Structure of monolayer Group IV monochalcogenides (MX) and their ferroelastic and ferroelectric orders. (Reprinted with permission from Reference 44. Copyright 2017 IOP Publishing Ltd) (c) Top view of Gr",
       "page": "4",
-      "attachment_key": "CG8R3BPG",
-      "file": "fig_1_CG8R3BPG.png",
+      "attachment_key": "LDNUF6U6",
+      "file": "fig_1_LDNUF6U6.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "CIPS",
-        "TMDs",
-        "In2Se3",
-        "graphene",
-        "MoS2"
-      ],
-      "methods": [
-        "第一性原理",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
-      "title": "Side and top views of (a) methyl-terminated germanene/stanene and (b) Sn(P, As, Sb) CH2OCH3... (化学功能化诱导的低维铁电体)",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "FIGURE 2 Side and top views of (a) methyl-terminated germanene/stanene and (b) Sn(P, As, Sb) CH2OCH3, where the blue arrow denotes that the polarization is switchable. Side and top views of (c) germanene/stanene functionalized by CH2F, CHO, and COOH, respectively. Side view of MoS2 monolayer functionalized by (d) COOH and (e) CONH2, respectively. (Reprinted with permission from Reference 42. Copyright 2016 American Chemical Society)",
       "page": "6",
-      "attachment_key": "A82KSMBV",
-      "file": "fig_2_A82KSMBV.png",
+      "attachment_key": "VQAUNKJQ",
+      "file": "fig_2_VQAUNKJQ.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "CIPS",
-        "TMDs",
-        "In2Se3",
-        "graphene",
-        "MoS2"
-      ],
-      "methods": [
-        "第一性原理",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "3",
-      "title": "In-plane polarization induced by vertical electric field in phosphorene nanoribbon. (磷烯纳米带中垂直电场诱导的面内极化)",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "FIGURE 3 In-plane polarization induced by vertical electric field in phosphorene nanoribbon. (Reprinted with permission from Reference 62. Copyright 2016 American Chemical Society)",
       "page": "7",
-      "attachment_key": "TFQHQ57R",
-      "file": "fig_3_TFQHQ57R.png",
+      "attachment_key": "PVDD4AWC",
+      "file": "fig_3_PVDD4AWC.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "CIPS",
-        "TMDs",
-        "In2Se3",
-        "graphene",
-        "MoS2"
-      ],
-      "methods": [
-        "第一性原理",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "4",
-      "title": "Two unusual ferroelectric states in two-dimensional perovskite oxide thin films in which the ferroelectricity becomes stronger along with decreasing the thin film thickness. (二维钙钛矿氧化物薄膜中两种异常铁电态，其铁电性随薄膜厚度减小而增强)",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "FIGURE 4 Two unusual ferroelectric states in two-dimensional perovskite oxide thin films in which the ferroelectricity becomes stronger along with decreasing the thin film thickness. (Reprinted with permission from Reference 63. Copyright 2018 American Chemical Society)",
       "page": "7",
-      "attachment_key": "QVWEGPZM",
-      "file": "fig_4_QVWEGPZM.png",
+      "attachment_key": "5BRDE7JW",
+      "file": "fig_4_5BRDE7JW.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "CIPS",
-        "TMDs",
-        "In2Se3",
-        "graphene",
-        "MoS2"
-      ],
-      "methods": [
-        "第一性原理",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "5",
-      "title": "Low-dimensional multiferroics induced by chemical functionalization. (化学功能化诱导的低维多铁性材料)",
-      "llm_description": "",
+      "title": "Figure 5",
+      "llm_description": "FIGURE 5 Low-dimensional multiferroics induced by chemical functionalization. (a) Design of high-density two-dimensional multiferroic tunnel junction array and field-effect transistor based on halogen-decorated phosphorene bilayer with vertical polarization and “mobile” magnetism. (Reprinted with permission from Reference 66. Copyright 2017 American Chemical Society) (b) Side and top views of the structural model for multiferroic CH2OCH3-functionalized germanene layer. (Reprinted with permission",
       "page": "9",
-      "attachment_key": "LW4R397S",
-      "file": "fig_5_LW4R397S.png",
+      "attachment_key": "YI9ZN3XQ",
+      "file": "fig_5_YI9ZN3XQ.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "CIPS",
-        "TMDs",
-        "In2Se3",
-        "graphene",
-        "MoS2"
-      ],
-      "methods": [
-        "第一性原理",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "6",
-      "title": "The asymmetric Jahn–Teller distortion of octahedral CrBr₆ units induces in-plane ferroelectricity coexisting with ferromagnetism in CrBr₃⁰.⁵⁻. (八面体CrBr₆单元不对称Jahn-Teller畸变在CrBr₃⁰.⁵⁻中诱导与铁磁性共存的面内铁电性)",
-      "llm_description": "",
+      "title": "Figure 6",
+      "llm_description": "FIGURE 6 The asymmetric Jahn–Teller distortion of octahedral Cr Br6 units induces in-plane ferroelectricity coexisting with ferromagnetism in CrBr3 0.5−. (Reprinted with permission from Reference 72. Copyright 2018 American Physical Society)",
       "page": "10",
-      "attachment_key": "4CMGFPKM",
-      "file": "fig_6_4CMGFPKM.png",
+      "attachment_key": "VN5VRBVL",
+      "file": "fig_6_VN5VRBVL.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "CIPS",
-        "TMDs",
-        "In2Se3",
-        "graphene",
-        "MoS2"
-      ],
-      "methods": [
-        "第一性原理",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "7",
-      "title": "Schematic diagram of 120 Y-type spin-order induced ferroelectricity. (120° Y型自旋序诱导铁电性的示意图)",
-      "llm_description": "",
+      "title": "Figure 7",
+      "llm_description": "FIGURE 7 Schematic diagram of 120�Y-type spin-order induced ferroelectricity. (Reprinted with permission from Reference 77. Copyright 2018 American Chemical Society)",
       "page": "11",
-      "attachment_key": "GDAQST5C",
-      "file": "fig_7_GDAQST5C.png",
+      "attachment_key": "ACL4KQI9",
+      "file": "fig_7_ACL4KQI9.png",
       "tags": [
         "参考文献-layer"
       ],
-      "materials": [
-        "CIPS",
-        "TMDs",
-        "In2Se3",
-        "graphene",
-        "MoS2"
-      ],
-      "methods": [
-        "第一性原理",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "TABLE 1 A brief summary of reported low-dimensional ferroelectric materials\n\n—, not reported; E, experimental reported; RT, room temperature; T, theoretical reported.",
+      "page": "3",
+      "attachment_key": "7HW925PZ",
+      "file": "tab_1_7HW925PZ.png"
+    },
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "TABLE 2 A brief summary of reported low-dimensional multiferroic materials\n\n—, not reported; E, experimental reported; RT, room temperature; T, theoretical reported.",
+      "page": "8",
+      "attachment_key": "GG7NXE5P",
+      "file": "tab_2_GG7NXE5P.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Materials</th>\n<th style=\"text-align:left\">Value of polarization (pC/m)</th>\n<th style=\"text-align:left\">Direction of polarization</th>\n<th style=\"text-align:left\">FE switch barrier (meV/f.u.)</th>\n<th style=\"text-align:left\">Tc (K)</th>\n<th style=\"text-align:left\">Reference</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">1T-MoS2</td>\n<td style=\"text-align:left\">0.28 μC/cm2</td>\n<td style=\"text-align:left\">Out-of-plane</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">26T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Group IV binary AB, Group III–V binary AB</td>\n<td style=\"text-align:left\">0.88–4.22, 7.82–11.45</td>\n<td style=\"text-align:left\">Out-of-plane</td>\n<td style=\"text-align:left\">160–390, 50–300</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">27T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">SnS, SnSe, GeS, GeSe</td>\n<td style=\"text-align:left\">151–506</td>\n<td style=\"text-align:left\">In-plane</td>\n<td style=\"text-align:left\">3.76–580.77</td>\n<td style=\"text-align:left\">326–6,400</td>\n<td style=\"text-align:left\">28T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">β-GeSe</td>\n<td style=\"text-align:left\">160</td>\n<td style=\"text-align:left\">In-plane</td>\n<td style=\"text-align:left\">5.83</td>\n<td style=\"text-align:left\">200</td>\n<td style=\"text-align:left\">29T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">As, Sb, Bi</td>\n<td style=\"text-align:left\">46–151</td>\n<td style=\"text-align:left\">In-plane</td>\n<td style=\"text-align:left\">5.83–183.6</td>\n<td style=\"text-align:left\">463–680</td>\n<td style=\"text-align:left\">30T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">SnTe</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">In-plane</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">270</td>\n<td style=\"text-align:left\">31E</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">GeTe</td>\n<td style=\"text-align:left\">32.8 μC/cm2</td>\n<td style=\"text-align:left\">In-plane</td>\n<td style=\"text-align:left\">37.4</td>\n<td style=\"text-align:left\">570</td>\n<td style=\"text-align:left\">32T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">α-In2Se3</td>\n<td style=\"text-align:left\">2.36e ÅT, 0.11e ÅT</td>\n<td style=\"text-align:left\">In-plane, out-of-plane</td>\n<td style=\"text-align:left\">57T</td>\n<td style=\"text-align:left\">RTE</td>\n<td style=\"text-align:left\">33T, 34,35E</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">β-In2Se3</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">In-plane</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">473</td>\n<td style=\"text-align:left\">36E</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">WTe2</td>\n<td style=\"text-align:left\">~0.16</td>\n<td style=\"text-align:left\">Out-of-plane</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">350</td>\n<td style=\"text-align:left\">37E</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CuInP2S6</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">Out-of-plane</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">320</td>\n<td style=\"text-align:left\">38E</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">AgBiP2Se6</td>\n<td style=\"text-align:left\">1.2</td>\n<td style=\"text-align:left\">Out-of-plane</td>\n<td style=\"text-align:left\">6.2</td>\n<td style=\"text-align:left\">Above RT</td>\n<td style=\"text-align:left\">39T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CuInP2Se6</td>\n<td style=\"text-align:left\">0.322 μC/cm2</td>\n<td style=\"text-align:left\">Out-of-plane</td>\n<td style=\"text-align:left\">80</td>\n<td style=\"text-align:left\">150</td>\n<td style=\"text-align:left\">40T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Graphene-OH</td>\n<td style=\"text-align:left\">6.6 μC/cm2</td>\n<td style=\"text-align:left\">In-plane</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">700</td>\n<td style=\"text-align:left\">41T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Ge, Si, SnSb, MoS2−SAM</td>\n<td style=\"text-align:left\">31–117</td>\n<td style=\"text-align:left\">In-plane</td>\n<td style=\"text-align:left\">~90 per ligand</td>\n<td style=\"text-align:left\">Above 350</td>\n<td style=\"text-align:left\">42T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Sc2CO2</td>\n<td style=\"text-align:left\">176, 1.60 μC/cm2</td>\n<td style=\"text-align:left\">In-plane, out-of-plane</td>\n<td style=\"text-align:left\">520</td>\n<td style=\"text-align:left\">Above RT</td>\n<td style=\"text-align:left\">43T</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">材料</th>\n<th style=\"text-align:left\">极化值 (pC/m)</th>\n<th style=\"text-align:left\">极化方向</th>\n<th style=\"text-align:left\">铁电翻转势垒 (meV/f.u.)</th>\n<th style=\"text-align:left\">居里温度 (K)</th>\n<th style=\"text-align:left\">参考文献</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">1T-MoS2</td>\n<td style=\"text-align:left\">0.28 μC/cm2</td>\n<td style=\"text-align:left\">面外</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">26T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">IV族二元AB, III-V族二元AB</td>\n<td style=\"text-align:left\">0.88–4.22, 7.82–11.45</td>\n<td style=\"text-align:left\">面外</td>\n<td style=\"text-align:left\">160–390, 50–300</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">27T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">SnS, SnSe, GeS, GeSe</td>\n<td style=\"text-align:left\">151–506</td>\n<td style=\"text-align:left\">面内</td>\n<td style=\"text-align:left\">3.76–580.77</td>\n<td style=\"text-align:left\">326–6,400</td>\n<td style=\"text-align:left\">28T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">β-GeSe</td>\n<td style=\"text-align:left\">160</td>\n<td style=\"text-align:left\">面内</td>\n<td style=\"text-align:left\">5.83</td>\n<td style=\"text-align:left\">200</td>\n<td style=\"text-align:left\">29T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">As, Sb, Bi</td>\n<td style=\"text-align:left\">46–151</td>\n<td style=\"text-align:left\">面内</td>\n<td style=\"text-align:left\">5.83–183.6</td>\n<td style=\"text-align:left\">463–680</td>\n<td style=\"text-align:left\">30T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">SnTe</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">面内</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">270</td>\n<td style=\"text-align:left\">31E</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">GeTe</td>\n<td style=\"text-align:left\">32.8 μC/cm2</td>\n<td style=\"text-align:left\">面内</td>\n<td style=\"text-align:left\">37.4</td>\n<td style=\"text-align:left\">570</td>\n<td style=\"text-align:left\">32T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">α-In2Se3</td>\n<td style=\"text-align:left\">2.36e ÅT, 0.11e ÅT</td>\n<td style=\"text-align:left\">面内, 面外</td>\n<td style=\"text-align:left\">57T</td>\n<td style=\"text-align:left\">室温E</td>\n<td style=\"text-align:left\">33T, 34,35E</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">β-In2Se3</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">面内</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">473</td>\n<td style=\"text-align:left\">36E</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">WTe2</td>\n<td style=\"text-align:left\">~0.16</td>\n<td style=\"text-align:left\">面外</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">350</td>\n<td style=\"text-align:left\">37E</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CuInP2S6</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">面外</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">320</td>\n<td style=\"text-align:left\">38E</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">AgBiP2Se6</td>\n<td style=\"text-align:left\">1.2</td>\n<td style=\"text-align:left\">面外</td>\n<td style=\"text-align:left\">6.2</td>\n<td style=\"text-align:left\">室温以上</td>\n<td style=\"text-align:left\">39T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CuInP2Se6</td>\n<td style=\"text-align:left\">0.322 μC/cm2</td>\n<td style=\"text-align:left\">面外</td>\n<td style=\"text-align:left\">80</td>\n<td style=\"text-align:left\">150</td>\n<td style=\"text-align:left\">40T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Graphene-OH</td>\n<td style=\"text-align:left\">6.6 μC/cm2</td>\n<td style=\"text-align:left\">面内</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">700</td>\n<td style=\"text-align:left\">41T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Ge, Si, SnSb, MoS2−SAM</td>\n<td style=\"text-align:left\">31–117</td>\n<td style=\"text-align:left\">面内</td>\n<td style=\"text-align:left\">~90 per ligand</td>\n<td style=\"text-align:left\">350以上</td>\n<td style=\"text-align:left\">42T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Sc2CO2</td>\n<td style=\"text-align:left\">176, 1.60 μC/cm2</td>\n<td style=\"text-align:left\">面内, 面外</td>\n<td style=\"text-align:left\">520</td>\n<td style=\"text-align:left\">室温以上</td>\n<td style=\"text-align:left\">43T</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Materials</th>\n<th style=\"text-align:left\">Value of polarization (pC/m)</th>\n<th style=\"text-align:left\">Direction of polarization</th>\n<th style=\"text-align:left\">Magnetic moment (μB)</th>\n<th style=\"text-align:left\">FE switch barrier (meV)</th>\n<th style=\"text-align:left\">Tc (K)</th>\n<th style=\"text-align:left\">Reference</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">Phosphorene-halogen</td>\n<td style=\"text-align:left\">~11</td>\n<td style=\"text-align:left\">Out-of-plane</td>\n<td style=\"text-align:left\">1.0</td>\n<td style=\"text-align:left\">74–590</td>\n<td style=\"text-align:left\">~572</td>\n<td style=\"text-align:left\">66T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Ge-CH2OCH3</td>\n<td style=\"text-align:left\">~80</td>\n<td style=\"text-align:left\">In-plane</td>\n<td style=\"text-align:left\">1.0</td>\n<td style=\"text-align:left\">~100</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">67T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">C6N8H</td>\n<td style=\"text-align:left\">36.3–45</td>\n<td style=\"text-align:left\">In-plane</td>\n<td style=\"text-align:left\">1.0</td>\n<td style=\"text-align:left\">70–480</td>\n<td style=\"text-align:left\">250–700</td>\n<td style=\"text-align:left\">68T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Bilayer Cr2NO2, VS2, MoN2</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">Out-of-plane</td>\n<td style=\"text-align:left\">0.008–0.09</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">69T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CrN</td>\n<td style=\"text-align:left\">6.2</td>\n<td style=\"text-align:left\">Out-of-plane</td>\n<td style=\"text-align:left\">3</td>\n<td style=\"text-align:left\">12</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">70T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CrB2</td>\n<td style=\"text-align:left\">0.9</td>\n<td style=\"text-align:left\">Out-of-plane</td>\n<td style=\"text-align:left\">1.5</td>\n<td style=\"text-align:left\">363</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">—</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CuMP2X6 (M = Cr, V; X = S, Se)</td>\n<td style=\"text-align:left\">0.65–0.79</td>\n<td style=\"text-align:left\">Out-of-plane</td>\n<td style=\"text-align:left\">2.0–3.0</td>\n<td style=\"text-align:left\">27–100</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">71T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">(CrBr3)2Li</td>\n<td style=\"text-align:left\">92</td>\n<td style=\"text-align:left\">In-plane</td>\n<td style=\"text-align:left\">3.0, 4.0</td>\n<td style=\"text-align:left\">15</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">72T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">SrMnO3</td>\n<td style=\"text-align:left\">55 μC/cm2</td>\n<td style=\"text-align:left\">In-plane</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">Above 420</td>\n<td style=\"text-align:left\">73E</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Hf2VC2F2</td>\n<td style=\"text-align:left\">2.9 × 10−7</td>\n<td style=\"text-align:left\">Out-of-plane</td>\n<td style=\"text-align:left\">2.04</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">313</td>\n<td style=\"text-align:left\">74T</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T4",
+      "title": "Table 4",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">材料</th>\n<th style=\"text-align:left\">极化值 (pC/m)</th>\n<th style=\"text-align:left\">极化方向</th>\n<th style=\"text-align:left\">磁矩 (μB)</th>\n<th style=\"text-align:left\">铁电翻转势垒 (meV)</th>\n<th style=\"text-align:left\">居里温度 (K)</th>\n<th style=\"text-align:left\">参考文献</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">磷烯-卤素</td>\n<td style=\"text-align:left\">~11</td>\n<td style=\"text-align:left\">面外</td>\n<td style=\"text-align:left\">1.0</td>\n<td style=\"text-align:left\">74–590</td>\n<td style=\"text-align:left\">~572</td>\n<td style=\"text-align:left\">66T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Ge-CH2OCH3</td>\n<td style=\"text-align:left\">~80</td>\n<td style=\"text-align:left\">面内</td>\n<td style=\"text-align:left\">1.0</td>\n<td style=\"text-align:left\">~100</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">67T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">C6N8H</td>\n<td style=\"text-align:left\">36.3–45</td>\n<td style=\"text-align:left\">面内</td>\n<td style=\"text-align:left\">1.0</td>\n<td style=\"text-align:left\">70–480</td>\n<td style=\"text-align:left\">250–700</td>\n<td style=\"text-align:left\">68T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">双层Cr2NO2, VS2, MoN2</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">面外</td>\n<td style=\"text-align:left\">0.008–0.09</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">69T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CrN</td>\n<td style=\"text-align:left\">6.2</td>\n<td style=\"text-align:left\">面外</td>\n<td style=\"text-align:left\">3</td>\n<td style=\"text-align:left\">12</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">70T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CrB2</td>\n<td style=\"text-align:left\">0.9</td>\n<td style=\"text-align:left\">面外</td>\n<td style=\"text-align:left\">1.5</td>\n<td style=\"text-align:left\">363</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">—</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CuMP2X6 (M = Cr, V; X = S, Se)</td>\n<td style=\"text-align:left\">0.65–0.79</td>\n<td style=\"text-align:left\">面外</td>\n<td style=\"text-align:left\">2.0–3.0</td>\n<td style=\"text-align:left\">27–100</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">71T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">(CrBr3)2Li</td>\n<td style=\"text-align:left\">92</td>\n<td style=\"text-align:left\">面内</td>\n<td style=\"text-align:left\">3.0, 4.0</td>\n<td style=\"text-align:left\">15</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">72T</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">SrMnO3</td>\n<td style=\"text-align:left\">55 μC/cm2</td>\n<td style=\"text-align:left\">面内</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">420以上</td>\n<td style=\"text-align:left\">73E</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Hf2VC2F2</td>\n<td style=\"text-align:left\">2.9 × 10−7</td>\n<td style=\"text-align:left\">面外</td>\n<td style=\"text-align:left\">2.04</td>\n<td style=\"text-align:left\">—</td>\n<td style=\"text-align:left\">313</td>\n<td style=\"text-align:left\">74T</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Progress and prospects in low‐dimensional multiferroic materials|\n|短标题|低维多铁材料研究进展与展望|\n|作者|[[Ting Hu]]、 [[Erjun Kan]]|\n|期刊名称|[[WIREs Computational Molecular Science]]|\n|DOI|[10.1002/wcms.1409](https://doi.org/10.1002/wcms.1409)|\n|存档位置|69|\n|文库编目|DOI.org|\n|索书号||\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/4AG94B6G)|\n|PDF 附件|[全文](zotero://open-pdf/library/items/U7MF8Z8I)|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Progress and prospects in low‐dimensional multiferroic materials|\n|短标题|低维多铁性材料的研究进展与展望|\n|作者|[[Ting Hu]]、 [[Erjun Kan]]|\n|期刊名称|[[WIREs Computational Molecular Science]]|\n|DOI|[10.1002/wcms.1409](https://doi.org/10.1002/wcms.1409)|\n|存档位置|69|\n|文库编目|DOI.org|\n|索书号||\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/4AG94B6G)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/U7MF8Z8I)|\n|关联文献||",
       "page": "-"
     }
   ],
@@ -169,15 +146,6 @@
   "tags": [
     "参考文献-layer"
   ],
-  "materials": [
-    "CIPS",
-    "TMDs",
-    "In2Se3",
-    "graphene",
-    "MoS2"
-  ],
-  "methods": [
-    "第一性原理",
-    "DFT"
-  ]
+  "materials": [],
+  "methods": []
 }

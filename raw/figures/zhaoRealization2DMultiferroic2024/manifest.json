@@ -4,140 +4,147 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "19种非磁性铁电插层化合物的带隙、基态、面外极化与翻转势垒",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1 | The structural diagram of T-AM2X4 and H-AM2X4. a T-AM2X4 and b H-AM2X4 structure diagrams obtained by intercalating A atom into 1T- and 2H-MX2 bilayers. The A and A′ represent the atomic positions of the intercalated atoms",
       "page": "3",
-      "attachment_key": "UIG8B4GR",
-      "file": "fig_1_UIG8B4GR.png",
+      "attachment_key": "S88Q2EF3",
+      "file": "fig_1_S88Q2EF3.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "2",
-      "title": "21种多铁材料的带隙、基态、极化、翻转势垒、磁性参数与转变温度",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2 | Schematic flowchart of the high-throughput first-principles calculations to screen the ferroic materials among the intercalation compounds AM2X4. The FE, FM, AFM, and FiM represent ferroelectric, ferromagnetic, antiferromagnetic and ferrimagnetic, respectively.",
       "page": "3",
-      "attachment_key": "KDMDJTH5",
-      "file": "fig_2_KDMDJTH5.png",
+      "attachment_key": "7QNUMABJ",
+      "file": "fig_2_7QNUMABJ.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "3",
-      "title": "T-CdCr₂Te₄中最近邻Cr–Cr对的磁耦合参数J、DMI矢量D及D/|J|",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3 | The electronic band structures, projected density of states (PDOS) and electron density distribution of 2D T-PdZr2Se4 and T-CoTi2Te4. a, d Electronic band structures at the GGA +U level of T-PdZr2Se4 and T-CoTi2Te4, respectively. b, e PDOS for T- PdZr2Se4 and T- CoTi2Te4, where the top and bottom layers in (b)",
       "page": "4",
-      "attachment_key": "L87VU2GR",
-      "file": "fig_3_L87VU2GR.png",
+      "attachment_key": "VSIZIKC2",
+      "file": "fig_3_VSIZIKC2.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
-    },
-    {
-      "fig_number": "4",
-      "title": "T-CdCr₂Te₄在不同磁场下的自旋织构俯视图（MC模拟）",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
-    },
-    {
-      "fig_number": "5",
-      "title": "T-CdCr₂Te₄顶层CrTe₂层在FE1态下温度-磁场相图",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "6",
-      "title": "T-CoZr₂S₄在铁电翻转过程中的磁基态与磁各向异性变化",
-      "llm_description": "",
+      "title": "Figure 6",
+      "llm_description": "Fig. 6 | Changes in the magnetic ground state and MAE during the FE reversal process for T-CoZr2S4. The red, orange, and blue lines represent the energy dif-ferences of AFM1, AFM2, and AFM3 relative to the FM state, respectively, while the black line represents MAE for the most stable magnetic configurations.",
       "page": "8",
-      "attachment_key": "J9R2PHED",
-      "file": "fig_6_J9R2PHED.png",
+      "attachment_key": "D3YLN99Y",
+      "file": "fig_6_D3YLN99Y.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "7",
-      "title": "T-CoTi₂Te₄在FE1与FE2态的电子能带与PDOS",
-      "llm_description": "",
+      "title": "Figure 7",
+      "llm_description": "Fig. 7 | The electronic band structure and PDOS of 2D T-CoTi2Te4. a, b Electronic band structures at GGA + U level of 2D T- CoTi2Te4 in FE1 and FE2 states, respectively. c, d Corresponding PDOS. The Fermi level is set to zero and marked by the black dotted line.",
       "page": "9",
-      "attachment_key": "X2X3UJ38",
-      "file": "fig_7_X2X3UJ38.png",
+      "attachment_key": "DKCIN6VB",
+      "file": "fig_7_DKCIN6VB.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1 | The band gap (eV) at GGA + U level, ground state (GS), spontaneous out-of-plane polarization (Pout) per unit cell in pC/m, FE transition barrier (EB) in meV/f.u. of 19 non-magnetic FE intercalation compounds",
+      "page": "5",
+      "attachment_key": "P98XXL3P",
+      "file": "tab_1_P98XXL3P.png"
+    },
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "Table 2 | The band gap (eV) at GGA + U level, ground state (GS), out-of-plane polarization (Pout) in pC/m, FE transition barrier (EB) in meV/f.u., magnetic atom (M-atom), average magnetic moment M (µB per magnetic atom), easy magnetization direction EMA, magnetic anisotropy energy MAE (meV per magnetic atom) and Curie temperature TC (K) or Néel temperature TN (K) simulated by MC for 21 multiferroic materials\n\nTitop and Tibot represent the Ti atoms in the top and bottom TiX2 layers of T-CoTi2X4 (",
+      "page": "6",
+      "attachment_key": "BHS6QQPS",
+      "file": "tab_2_BHS6QQPS.png"
+    },
+    {
+      "id": "tab_3",
+      "title": "Table 3",
+      "content": "Table 3 | The magnetic coupling parameters (J, D, D/J) of nearest neighbor Cr–Cr pairs in 2D T-CdCr2Te4 along the x [(Cr–Cr)x], y [(Cr–Cr)y], and xy [(Cr–Cr)xy] directions of FE1 and FE2 states",
+      "page": "7",
+      "attachment_key": "2VLQ8VY7",
+      "file": "tab_3_2VLQ8VY7.png"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Realization of 2D multiferroic with strong magnetoelectric coupling by intercalation: a first-principles high-throughput prediction|\n|短标题|插层实现强磁电耦合二维多铁性：第一性原理高通量预测|\n|作者|[[Ying Zhao]]、 [[Yanxia Wang]]、 [[Yue Yang]]、 [[Jijun Zhao]]、 [[Xue Jiang]]|\n|期刊名称|[[npj Computational Materials]]|\n|DOI|[10.1038/s41524-024-01301-x](https://doi.org/10.1038/s41524-024-01301-x)|\n|存档位置|28|\n|文库编目|13.1|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/S9KV358U)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/MNI5774G)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Realization of 2D multiferroic with strong magnetoelectric coupling by intercalation: a first-principles high-throughput prediction|\n|短标题|嵌入实现强磁电耦合二维多铁性材料：第一性原理高通量预测|\n|作者|[[Ying Zhao]]、 [[Yanxia Wang]]、 [[Yue Yang]]、 [[Jijun Zhao]]、 [[Xue Jiang]]|\n|期刊名称|[[npj Computational Materials]]|\n|DOI|[10.1038/s41524-024-01301-x](https://doi.org/10.1038/s41524-024-01301-x)|\n|存档位置|28|\n|文库编目|13.1|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/S9KV358U)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/MNI5774G)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "ð1Þ",
+      "page": "5",
+      "attachment_key": "XU6F2BC4",
+      "file": "eq_1_XU6F2BC4.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "ð2Þ",
+      "page": "5",
+      "attachment_key": "Z6PEHX3T",
+      "file": "eq_2_Z6PEHX3T.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "ð3Þ",
+      "page": "9",
+      "attachment_key": "6GD8Q6HJ",
+      "file": "eq_3_6GD8Q6HJ.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "ð4Þ",
+      "page": "9",
+      "attachment_key": "39MZD3JX",
+      "file": "eq_4_39MZD3JX.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "ð5Þ",
+      "page": "9",
+      "attachment_key": "GZQAQBGG",
+      "file": "eq_5_GZQAQBGG.png"
+    }
+  ],
   "tags": [
     "Done"
   ],
   "materials": [],
-  "methods": [
-    "AFM",
-    "first-principles",
-    "DFT"
-  ]
+  "methods": []
 }

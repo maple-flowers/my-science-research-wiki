@@ -1,0 +1,163 @@
+{
+  "parent_key": "wangTwodimensionalFerroelectricMetal2025",
+  "title": "wangTwodimensionalFerroelectricMetal2025",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1. (a) Geometric structure of bilayer CuCrS2. (b) Band structure and density of states (DOS) for bilayer CuCrS2. (c) The xy-plane average electrostatic potential of  bilayer CuCrS2. The integrals of differential charge densities along -z direction of bilayer CuCrS2 with oxygen atom adsorbed at (d) P - surface and (e) P + surface.  Areas in yellow and blue correspond to electron deposition and depletion, respectively, and the isosurface value is set as 0.0025 e/Å3.",
+      "page": "2",
+      "attachment_key": "YWXULNJX",
+      "file": "fig_1_YWXULNJX.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2. (a) The adsorption of oxygen molecule on few-layer CuCrX2 surface and (b) the corresponding adsorption energy at different surfaces of various numbers  of layers.",
+      "page": "3",
+      "attachment_key": "MDNEN53L",
+      "file": "fig_2_MDNEN53L.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3. (a) The pathway diagram of ORR reaction on bilayer CuCrX2 surface. (b)-(e) The Gibbs free energy change diagrams for the ORR reactions on two surfaces of  bilayer CuCrX2 under the four-electron pathways.",
+      "page": "3",
+      "attachment_key": "47S2LRMK",
+      "file": "fig_3_47S2LRMK.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4. (a) Ground state spin configuration and PDOS of trilayer CuCrS2. (b) The Gibbs free energy change diagrams for the ORR reactions on two surfaces of trilayer  CuCrX2 under the four-electron pathways.",
+      "page": "4",
+      "attachment_key": "DX4JT9JH",
+      "file": "fig_4_DX4JT9JH.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5. (a) Ground state spin configuration and PDOS of four-layer CuCrS2. (b) The Gibbs free energy change diagrams for the ORR reactions on two surfaces of four-  layer CuCrX2 under the four-electron pathways.",
+      "page": "4",
+      "attachment_key": "TZW26C6K",
+      "file": "fig_5_TZW26C6K.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Fig. 6. The Gibbs free energy change diagrams for the OER reactions on two surfaces of (a)bilayer, (b)trilayer and (c)four-layer CuCrX2 under the four-  electron pathways.",
+      "page": "5",
+      "attachment_key": "YZJF6YBP",
+      "file": "fig_6_YZJF6YBP.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Two-dimensional ferroelectric metal CuCrX2 (X = S, Se) for efficient electrocatalysis|\n|短标题|二维铁电金属CuCrX2（X = S、Se）有效电催化|\n|作者|[[Ying Wang]]、 [[Chengliang Lu]]、 [[Menghao Wu]]|\n|期刊名称|[[Computational Materials Today]]|\n|DOI|[10.1016/j.commt.2025.100029](https://doi.org/10.1016/j.commt.2025.100029)|\n|存档位置|3|\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[06_单层 CDW 与维度效应 (Monolayer/Dimension)]]|\n|条目链接|[My Library](zotero://select/library/items/MTBQZH6G)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/RI3992LX)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "5",
+      "attachment_key": "WZ7966L3",
+      "file": "eq_1_WZ7966L3.png"
+    },
+    {
+      "id": "eq_10",
+      "title": "Equation 10",
+      "content": "(10)",
+      "page": "5",
+      "attachment_key": "JA9UAIKK",
+      "file": "eq_10_JA9UAIKK.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "5",
+      "attachment_key": "BXMBHNHF",
+      "file": "eq_2_BXMBHNHF.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(3)",
+      "page": "5",
+      "attachment_key": "RX7BPC7E",
+      "file": "eq_3_RX7BPC7E.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4)",
+      "page": "5",
+      "attachment_key": "ERJ4V6R6",
+      "file": "eq_4_ERJ4V6R6.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "(5)",
+      "page": "5",
+      "attachment_key": "UF3YZHKQ",
+      "file": "eq_5_UF3YZHKQ.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "(6)",
+      "page": "5",
+      "attachment_key": "N58SEDIE",
+      "file": "eq_6_N58SEDIE.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "(7)",
+      "page": "5",
+      "attachment_key": "WG83455W",
+      "file": "eq_7_WG83455W.png"
+    }
+  ],
+  "tags": [
+    "Done"
+  ],
+  "materials": [],
+  "methods": []
+}

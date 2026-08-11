@@ -4,11 +4,11 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "极性斯格明子形成临界厚度的确定 (Determination of the critical thickness for formation of polar skyrmions)",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1 | Determination of the critical thickness for formation of polar sky-rmions. a–p A series of cross-sectional DF images for (PTOn/STOn)10 (n = 37, 28, 23, 19, 12, 9, 4, 2 u.c.) superlattices and their corresponding logarithmic RSMs in the qx-qz scattering plane around the (103) substrates reflection. Note that the DF images taken by g = 002 or g = 00�2 diffraction vector. A range of enlarged single electron diffraction spots were inserted to the right of the DF images. The white dashed",
       "page": "2",
-      "attachment_key": "5VL8ZKMD",
-      "file": "fig_1_5VL8ZKMD.png",
+      "attachment_key": "SYSSN7EC",
+      "file": "fig_1_SYSSN7EC.png",
       "tags": [
         "unread"
       ],
@@ -19,26 +19,11 @@
     },
     {
       "fig_number": "2",
-      "title": "斯格明子周期与厚度关系的拟合 (Fitting the relationship between the period and thickness of skyrmions)",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "revealing the thickness-dependent skyrmion. d The shift Y along the out-of-plane direction. e–g The first-principles calculation result of a PTO2/STO2 superlattice containing a skyrmion. e The three-dimensional presentation of the polarization vectors. f The top view of the polarization vectors of the PTO layer showing the vortex-antivortex pattern. g The cross-sectional view of the polarization vectors of the front layer in e. The polarization vectors with positive Pz components are colored by ",
       "page": "4",
-      "attachment_key": "H7UQUVJF",
-      "file": "fig_2_H7UQUVJF.png",
-      "tags": [
-        "unread"
-      ],
-      "materials": [
-        "ABO3型钙钛矿"
-      ],
-      "methods": []
-    },
-    {
-      "fig_number": "3",
-      "title": "极限极性斯格明子的表征 (Characterization of the limit polar skyrmion)",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
+      "attachment_key": "7DNARR37",
+      "file": "fig_2_7DNARR37.png",
       "tags": [
         "unread"
       ],
@@ -49,11 +34,11 @@
     },
     {
       "fig_number": "4",
-      "title": "铁电斯格明子的拓扑数和可能的形成机制 (The topological number and possible formation mechanism of ferroelectric skyrmions)",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4 | The topological number and possible formation mechanism of ferro-electric skyrmions. The distributions of polarization a and topological density b at the PTO/STO interface for the STO/PTO/STO model with the PTO layer thickness of 4 nm obtained from phase-field simulations. c Dependence of the topological number (NQ) on thickness. d RSM around (103) Bragg spot of the STO",
       "page": "5",
-      "attachment_key": "93XD76L8",
-      "file": "fig_4_93XD76L8.png",
+      "attachment_key": "4ADC7YNR",
+      "file": "fig_4_4ADC7YNR.png",
       "tags": [
         "unread"
       ],
@@ -67,11 +52,76 @@
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Absence of critical thickness for polar skyrmions with breaking the Kittel’s law|\n|短标题|违反Kittel定律的极地天窗临界厚度的缺失|\n|作者|[[Feng-Hui Gong]]、 [[Yun-Long Tang]]、 [[Yu-Jia Wang]]、 [[Yu-Ting Chen]]、 [[Bo Wu]]、 [[Li-Xin Yang]]、 [[Yin-Lian Zhu]]、 [[Xiu-Liang Ma]]|\n|期刊名称|[[Nature Communications]]|\n|DOI|[10.1038/s41467-023-39169-y](https://doi.org/10.1038/s41467-023-39169-y)|\n|存档位置|30|\n|文库编目|15.7|\n|索书号|1|\n|版权||\n|分类|[[06_拓扑磁性与斯格明子 (Topological Magnetism/Skyrmions)]]|\n|条目链接|[My Library](zotero://select/library/items/SV4QQ8W4)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/LM3K7MI2\">Gong 等 - 2023 - Absence of critical thickness for polar skyrmions with breaking the Kittel’s law</a></li><li><a href=\"zotero://open-pdf/library/items/UJRZ96LI\">Gong 等 - 2023 - Absence of critical thickness for polar skyrmions with breaking the Kittel’s law.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/PG59SNR7\">Gong 等 - 2023 - Absence of critical thickness for polar skyrmions with breaking the Kittel’s law.pdf</a></li></ul>|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Absence of critical thickness for polar skyrmions with breaking the Kittel’s law|\n|短标题|违反Kittel定律的极地Skyrmion临界厚度的缺失|\n|作者|[[Feng-Hui Gong]]、 [[Yun-Long Tang]]、 [[Yu-Jia Wang]]、 [[Yu-Ting Chen]]、 [[Bo Wu]]、 [[Li-Xin Yang]]、 [[Yin-Lian Zhu]]、 [[Xiu-Liang Ma]]|\n|期刊名称|[[Nature Communications]]|\n|DOI|[10.1038/s41467-023-39169-y](https://doi.org/10.1038/s41467-023-39169-y)|\n|存档位置|30|\n|文库编目|15.7|\n|索书号|1|\n|版权||\n|分类|[[06_拓扑磁性与斯格明子 (Topological Magnetism/Skyrmions)]]|\n|条目链接|[My Library](zotero://select/library/items/SV4QQ8W4)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/LM3K7MI2\">Gong 等 - 2023 - Absence of critical thickness for polar skyrmions with breaking the Kittel’s law</a></li><li><a href=\"zotero://open-pdf/library/items/UJRZ96LI\">Gong 等 - 2023 - Absence of critical thickness for polar skyrmions with breaking the Kittel’s law.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/PG59SNR7\">Gong 等 - 2023 - Absence of critical thickness for polar skyrmions with breaking the Kittel’s law.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "ð1Þ",
+      "page": "2",
+      "attachment_key": "GAPNL32Y",
+      "file": "eq_1_GAPNL32Y.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "ð2Þ",
+      "page": "3",
+      "attachment_key": "ECT6D7PC",
+      "file": "eq_2_ECT6D7PC.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "ð3Þ",
+      "page": "3",
+      "attachment_key": "HHWL9F4W",
+      "file": "eq_3_HHWL9F4W.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "ð5Þ",
+      "page": "6",
+      "attachment_key": "T8TV4PMX",
+      "file": "eq_5_T8TV4PMX.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "ð6Þ",
+      "page": "7",
+      "attachment_key": "GQS8RTAT",
+      "file": "eq_6_GQS8RTAT.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "ð7Þ",
+      "page": "7",
+      "attachment_key": "84ZV7DJY",
+      "file": "eq_7_84ZV7DJY.png"
+    },
+    {
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "ð8Þ",
+      "page": "7",
+      "attachment_key": "DY7BBD7X",
+      "file": "eq_8_DY7BBD7X.png"
+    },
+    {
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "ð9Þ",
+      "page": "7",
+      "attachment_key": "9LET7J9Z",
+      "file": "eq_9_9LET7J9Z.png"
+    }
+  ],
   "tags": [
     "unread"
   ],

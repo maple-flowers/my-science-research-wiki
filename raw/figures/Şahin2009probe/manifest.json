@@ -1,0 +1,282 @@
+{
+  "parent_key": "Şahin2009probe",
+  "title": "Şahin2009probe",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Figure 1. Effective γγ luminosity as a function of the invariant mass of the two photon system. Figure on the left shows effective luminosity for forward detector acceptances 0.0015 &lt; ξ &lt; 0.15 and 0.0015 &lt; ξ &lt; 0.5. Figure on the right represents the cases with and without a cut on transverse momentum of the photon pair |⃗q1t +⃗q2t| &lt; 30MeV. In the right panel, we do not consider any acceptance i.e., ξ is taken to be in the interval 0 &lt; ξ &lt; 1 −mp/E where mp is the mass and E ",
+      "page": "6",
+      "attachment_key": "QMH5LB3H",
+      "file": "fig_1_QMH5LB3H.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "10",
+      "title": "Figure 10",
+      "llm_description": "Figure 10. 95% C.L sensitivity of pp →pℓ−ℓ+p to the product of tensor unparticle couplings λ2λ′ 2 as a function of integrated LHC luminosity for the acceptance 0.0015 &lt; ξ &lt; 0.5. Limits are estimated using a simple χ2 test from angular distribution without a systematic error. Solid line corresponds to the limit for dU = 3.001 (left panel) and the dotted line corresponds to dU = 3.01 (right panel). We impose the cuts; |⃗q1t +⃗q2t| &lt; 30MeV, |η| &lt; 2.5 and ΛU is taken to be 3 TeV.",
+      "page": "14",
+      "attachment_key": "2NJEIZDU",
+      "file": "fig_10_2NJEIZDU.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "11",
+      "title": "Figure 11",
+      "llm_description": "Figure 11. Tree-level Feynman diagrams for the subprocess γγ →γγ.",
+      "page": "15",
+      "attachment_key": "QLNM5NJK",
+      "file": "fig_11_QLNM5NJK.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "12",
+      "title": "Figure 12",
+      "llm_description": "Figure 12. Figure on the left shows total SM 1-loop contribution as a function of center of mass energy of the two photon system. Figure on the right shows angular distribution of the total SM 1-loop contributions for various forward detector acceptances stated on the figure. We impose a cut of | cos θ| &lt; 0.86 in the left panel.",
+      "page": "15",
+      "attachment_key": "E3XFYLRV",
+      "file": "fig_12_E3XFYLRV.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "13",
+      "title": "Figure 13",
+      "llm_description": "Figure 13. 95% C.L sensitivity of pp →pγγp to scalar unparticle coupling κ as a function of integrated LHC luminosity for an acceptance of 0.0015 &lt; ξ &lt; 0.5. Various values of the scale dimension are stated on the figures. We impose the cuts; |⃗q1t +⃗q2t| &lt; 30MeV, √sγγ &gt; 250 GeV and |η| &lt; 0.88. ΛU is taken to be 3 TeV.",
+      "page": "16",
+      "attachment_key": "UU6JKTFN",
+      "file": "fig_13_UU6JKTFN.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "14",
+      "title": "Figure 14",
+      "llm_description": "Figure 14. The same as figure 13 but for forward detector acceptance 0.0015 &lt; ξ &lt; 0.15.",
+      "page": "16",
+      "attachment_key": "9UDERWFX",
+      "file": "fig_14_9UDERWFX.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "15",
+      "title": "Figure 15",
+      "llm_description": "Figure 15. 95% C.L sensitivity of pp →pγγp to scalar unparticle coupling κ as a function of inte-grated LHC luminosity for an acceptance of 0.1 &lt; ξ &lt; 0.5. Various values of the scale dimension are stated on the figures. We impose the cuts; |⃗q1t+⃗q2t| &lt; 30MeV and |η| &lt; 2.5. ΛU is taken to be 3 TeV.",
+      "page": "17",
+      "attachment_key": "ZIDG43WZ",
+      "file": "fig_15_ZIDG43WZ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "16",
+      "title": "Figure 16",
+      "llm_description": "Figure 16. 95% C.L sensitivity of pp →pγγp to tensor unparticle coupling λ′ 2 as a function of integrated LHC luminosity. Different panels show different detector acceptances. The solid lines are for scale dimension dU = 3.001 and dotted lines are for dU = 3.01. We impose the cuts; |⃗q1t +⃗q2t| &lt; 30MeV, √sγγ &gt; 250 GeV and |η| &lt; 0.88 for the acceptances 0.0015 &lt; ξ &lt; 0.5 and 0.0015 &lt; ξ &lt; 0.15 and we impose |⃗q1t +⃗q2t| &lt; 30MeV and |η| &lt; 2.5 for 0.1 &lt; ξ &lt; 0.5. ΛU is",
+      "page": "17",
+      "attachment_key": "GPQM6E9C",
+      "file": "fig_16_GPQM6E9C.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "17",
+      "title": "Figure 17",
+      "llm_description": "Figure 17. 95% C.L. lower bounds on the energy scale ΛU as a function of integrated LHC luminosity for pp →pγγp. Various values of the scale dimension are stated on the figures. The couplings are taken to be κ=1 and λ′ 2 = 0. Limits of ΛU are given in units of GeV. Forward detector acceptance is 0.0015 &lt; ξ &lt; 0.5 and we impose the cuts; |⃗q1t +⃗q2t| &lt; 30MeV, √sγγ &gt; 250 GeV and |η| &lt; 0.88.",
+      "page": "18",
+      "attachment_key": "PIHYE2NA",
+      "file": "fig_17_PIHYE2NA.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Figure 2. Tree-level Feynman diagrams for the subprocess γγ →ℓ−ℓ+.",
+      "page": "7",
+      "attachment_key": "5LAQBAH5",
+      "file": "fig_2_5LAQBAH5.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Figure 3. Cross section of pp →pℓ−ℓ+p as a function of the transverse momentum cut on the final leptons. Solid line is for the SM and dotted lines du = 1.1 and du = 3.001 include scalar and tensor unparticle contributions respectively. Scalar unparticle couplings are taken to be κ = λS = 1 and tensor unparticle couplings are taken to be λ′ 2 = 1 and λ2 = 103.",
+      "page": "8",
+      "attachment_key": "R6SGB7CS",
+      "file": "fig_3_R6SGB7CS.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Figure 4. 95% C.L sensitivity of pp →pℓ−ℓ+p to the product of scalar unparticle couplings κλS as a function of integrated LHC luminosity for an acceptance of 0.0015 &lt; ξ &lt; 0.5. Various values of the scale dimension are stated on the figures. We impose the cuts; |⃗q1t +⃗q2t| &lt; 30MeV, |η| &lt; 2.5 and pt &gt; 460GeV. ΛU is taken to be 3 TeV.",
+      "page": "9",
+      "attachment_key": "NTIETFGK",
+      "file": "fig_4_NTIETFGK.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Figure 5. 95% C.L sensitivity of pp →pℓ−ℓ+p to the product of scalar unparticle couplings κλS as a function of integrated LHC luminosity for an acceptance of 0.0015 &lt; ξ &lt; 0.15. Various values of the scale dimension are stated on the figures. We impose the cuts; |⃗q1t +⃗q2t| &lt; 30MeV, |η| &lt; 2.5 and pt &gt; 420GeV. ΛU is taken to be 3 TeV.",
+      "page": "9",
+      "attachment_key": "XZSGU74U",
+      "file": "fig_5_XZSGU74U.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Figure 6. 95% C.L sensitivity of pp →pℓ−ℓ+p to the product of scalar unparticle couplings κλS as a function of integrated LHC luminosity for an acceptance of 0.1 &lt; ξ &lt; 0.5. Various values of the scale dimension are stated on the figures. We impose the cuts; |⃗q1t +⃗q2t| &lt; 30MeV, |η| &lt; 2.5 and pt &gt; 30GeV. ΛU is taken to be 3 TeV.",
+      "page": "10",
+      "attachment_key": "59VPQQT6",
+      "file": "fig_6_59VPQQT6.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Figure 7. The same as figure 4 but for product of tensor unparticle couplings λ2λ′ 2.",
+      "page": "13",
+      "attachment_key": "97Z4P8AM",
+      "file": "fig_7_97Z4P8AM.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "Figure 8. The same as figure 6 but for product of tensor unparticle couplings λ2λ′ 2.",
+      "page": "13",
+      "attachment_key": "P76UTHDA",
+      "file": "fig_8_P76UTHDA.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "9",
+      "title": "Figure 9",
+      "llm_description": "Figure 9. 95% C.L sensitivity of pp →pℓ−ℓ+p to the product of scalar unparticle couplings κλS as a function of integrated LHC luminosity for the acceptances 0.0015 &lt; ξ &lt; 0.15 (left panel) and 0.0015 &lt; ξ &lt; 0.5 (right panel). Limits are estimated using a simple χ2 test from angular distribution without a systematic error. Curves from bottom to top correspond to increasing values of dU = 1.01, 1.1, 1.2, 1.3, 1.4 and 1.5. We impose the cuts; |⃗q1t +⃗q2t| &lt; 30MeV, |η| &lt; 2.5 and ΛU i",
+      "page": "14",
+      "attachment_key": "FB963TB8",
+      "file": "fig_9_FB963TB8.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1. Sensitivity of pp →pℓ−ℓ+p to the product of scalar unparticle couplings κλS at 95% C.L. for various values of the scale dimension dU and integrated LHC luminosities. We impose different cuts on the transverse momentum of final leptons for different luminosity values. Forward detector acceptance is 0.0015 &lt; ξ &lt; 0.5 and ΛU is taken to be 3 TeV.\n\nTable 2. The same as table 1 but for 0.0015 &lt; ξ &lt; 0.15.",
+      "page": "11",
+      "attachment_key": "JYQKZXWA",
+      "file": "tab_1_JYQKZXWA.png"
+    },
+    {
+      "id": "tab_3",
+      "title": "Table 3",
+      "content": "Table 3. Sensitivity of pp →pℓ−ℓ+p to ΛU at 95% C.L. for various values of the scale dimension dU and integrated LHC luminosities. We impose different cuts on the transverse momentum of final leptons for different luminosity values. The couplings are taken to be κ=λS=1 and λPS = λ2 = λ′ 2 = 0. Lower bounds of ΛU are given in units of GeV. Forward detector acceptance is 0.0015 &lt; ξ &lt; 0.5.",
+      "page": "12",
+      "attachment_key": "HGSDZ2UA",
+      "file": "tab_3_HGSDZ2UA.png"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Probe of unparticles at the LHC in exclusive two lepton and two photon production via photon-photon fusion|\n|短标题|用光子-光子聚变研究LHC中的不可分粒子|\n|作者|[[İ Şahin]]、 [[S.C İnan]]|\n|期刊名称|[[Journal of High Energy Physics]]|\n|DOI|[10.1088/1126-6708/2009/09/069](https://doi.org/10.1088/1126-6708/2009/09/069)|\n|存档位置|42|\n|文库编目|4.9|\n|索书号|1|\n|版权||\n|分类|[[08_Fluorescence Probes]]|\n|条目链接|[My Library](zotero://select/library/items/RIEWT4RM)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/7XPU5CIN)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1.1)",
+      "page": "4",
+      "attachment_key": "45GS54YR",
+      "file": "eq_1_45GS54YR.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2.5)",
+      "page": "5",
+      "attachment_key": "JVER5U93",
+      "file": "eq_2_JVER5U93.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(3.6)",
+      "page": "13",
+      "attachment_key": "5FHLBYZH",
+      "file": "eq_3_5FHLBYZH.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

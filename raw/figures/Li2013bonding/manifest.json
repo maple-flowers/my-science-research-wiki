@@ -1,0 +1,118 @@
+{
+  "parent_key": "Li2013bonding",
+  "title": "Li2013bonding",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. A schematic showing the crystal structure of a TMD monolayer (MX2) with (a) top view and (b) side view. The transition metal (M) and chalcogen (X) atoms are represented by purple (large) and yellow (small) spheres, respectively. The unit cell (red) and the orthogonal supercell (blue) are also depicted in (a). The armchair and zigzag orientations corre-spond to x and y directions, respectively.",
+      "page": "2",
+      "attachment_key": "42JAUWDZ",
+      "file": "fig_1_42JAUWDZ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. Tensile stress σ as a function of uniaxial strain ε along (a) armchair and (b) zigzag directions, respectively, for monolayer MX2 (M = Mo, W; X = S, Se, Te) TMDs. Solid and dashed lines are used for WX2 and MoX2, respectively.",
+      "page": "3",
+      "attachment_key": "KFMW534E",
+      "file": "fig_2_KFMW534E.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3. Total and projected density of states for strain-free monolayer MX2 (M = Mo, W; X = S, Se, Te) TMDs. For the transition metal M and the chalcogen X, the density of states are projected onto s, p, d and s, p orbitals, respectively. The Fermi level is set to zero.",
+      "page": "4",
+      "attachment_key": "KYS7RB5V",
+      "file": "fig_3_KYS7RB5V.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "FIG. 4. Bonding charge density for monolayer MX2 (M = Mo, W; X = S, Se, Te) TMDs, obtained as the charge density difference between the valence charge density of the monolayer and the superposition of the valence charge density of the neutral constituent atoms. Red and blue colors indicate the electron accumulation and depletion, respectively. The color scale is in the units of e/Bohr3.",
+      "page": "5",
+      "attachment_key": "8HDYAYEQ",
+      "file": "fig_4_8HDYAYEQ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "FIG. 5. Variation of (a) the Young’s modulus and (b) the ultimate strength of monolayer MX2 (M = Mo, W; X = S, Se, Te) TMDs with the charge transfer ∆Q from transition metal M to chalcogens X.",
+      "page": "5",
+      "attachment_key": "2QR532HQ",
+      "file": "fig_5_2QR532HQ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "TABLE II. Calculated Young’s modulus E (GPa), ultimate strength σ∗(GPa), ultimate strain ε∗corresponding to the ultimate strength for armchair and zigzag directions, anisotropy factor φ and the charge transfer ∆Q (e) from M to X for strain-free MX2 monolayer sheets.",
+      "page": "4",
+      "attachment_key": "NBLVPVL5",
+      "file": "tab_2_NBLVPVL5.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th>MX2</th>\n<th>Armchair (x)</th>\n<th></th>\n<th></th>\n<th>Zigzag (y)</th>\n<th></th>\n<th></th>\n<th>φ</th>\n<th>∆Q</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>E (GPa)</td>\n<td>σ∗ (GPa)</td>\n<td>ε∗</td>\n<td>E (GPa)</td>\n<td>σ∗ (GPa)</td>\n<td>ε∗</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>MoS2</td>\n<td>222.75</td>\n<td>27.35</td>\n<td>0.28</td>\n<td>219.46</td>\n<td>16.90</td>\n<td>0.19</td>\n<td>1.62</td>\n<td>0.92</td>\n</tr>\n<tr>\n<td>...</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Bonding Charge Density and Ultimate Strength of Monolayer Transition Metal Dichalcogenides|\n|短标题|过渡金属二元化合物单层膜的键电荷密度和极限强度|\n|作者|[[Junwen Li]]、 [[Nikhil V. Medhekar]]、 [[Vivek B. Shenoy]]|\n|期刊名称|[[The Journal of Physical Chemistry C]]|\n|DOI|[10.1021/jp403986v](https://doi.org/10.1021/jp403986v)|\n|存档位置|167|\n|文库编目|3.4|\n|索书号|3|\n|版权||\n|分类|[[02_过渡金属硫族化合物 (TMDCs)]]|\n|条目链接|[My Library](zotero://select/library/items/35X9C3NP)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/8SNFIBD4)|\n|关联文献||",
+      "page": "-"
+    },
+    {
+      "id": "MD-T2",
+      "title": "MD Table 2",
+      "content": "| MX2 | Armchair (x) | | | Zigzag (y) | | | φ | ∆Q (e) |\n|------|--------------|-----|-----|------------|-----|-----|-----|-----|\n|      | E (GPa) | σ∗ (GPa) | ε∗ | E (GPa) | σ∗ (GPa) | ε∗ | | |\n| MoS2 | 222.75 | 27.35 | 0.28 | 219.46 | 16.90 | 0.19 | 1.62 | 0.92 |\n| MoSe2 | 178.78 | 22.68 | 0.29 | 175.97 | 12.86 | 0.16 | 1.76 | 0.73 |\n| MoTe2 | 125.94 | 17.12 | 0.32 | 123.54 | 7.88 | 0.14 | 2.17 | 0.37 |\n| WS2 | 244.18 | 29.96 | 0.28 | 240.99 | 19.91 | 0.18 | 1.50 | 1.07 |\n| WSe2 | 196.81 | 24.70 | 0.30 | 194.13 | 15.05 | 0.17 | 1.64 | 0.83 |\n| WTe2 | 137.32 | 18.71 | 0.32 | 135.27 | 9.30 | 0.15 | 2.01 | 0.44 |\n| MX2 | 扶手椅方向 (x) | | | 锯齿形方向 (y) | | | φ | ∆Q (e) |\n|------|----------------|-----|-----|----------------|-----|-----|-----|-----|\n|      | E (GPa) | σ∗ (GPa) | ε∗ | E (GPa) | σ∗ (GPa) | ε∗ | | |\n| MoS2 | 222.75 | 27.35 | 0.28 | 219.46 | 16.90 | 0.19 | 1.62 | 0.92 |\n| MoSe2 | 178.78 | 22.68 | 0.29 | 175.97 | 12.86 | 0.16 | 1.76 | 0.73 |\n| MoTe2 | 125.94 | 17.12 | 0.32 | 123.54 | 7.88 | 0.14 | 2.17 | 0.37 |\n| WS2 | 244.18 | 29.96 | 0.28 | 240.99 | 19.91 | 0.18 | 1.50 | 1.07 |\n| WSe2 | 196.81 | 24.70 | 0.30 | 194.13 | 15.05 | 0.17 | 1.64 | 0.83 |\n| WTe2 | 137.32 | 18.71 | 0.32 | 135.27 | 9.30 | 0.15 | 2.01 | 0.44 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T3",
+      "title": "MD Table 3",
+      "content": "| | a | b |\n|-----|--------|--------|\n| E | 171.97 | 61.34 |\n| σ∗ AR | 18.21 | 10.40 |\n| σ∗ ZZ | 16.86 | 1.60 |\n| | a | b |\n|-----|--------|--------|\n| E | 171.97 | 61.34 |\n| σ∗ AR | 18.21 | 10.40 |\n| σ∗ ZZ | 16.86 | 1.60 |",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq1",
+      "title": "Equation 1",
+      "content": "$$或$。但既然是PDF文本，可能公式已丢失。我会保留原文中的公式文本，用代码块或直接显示。需要看原文：Ed = ∫ ... 我可以用代码块包裹，或者用$$",
+      "page": "-"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

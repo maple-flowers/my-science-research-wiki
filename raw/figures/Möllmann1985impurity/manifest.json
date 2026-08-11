@@ -1,0 +1,19 @@
+{
+  "parent_key": "Möllmann1985impurity",
+  "title": "Möllmann1985impurity",
+  "figures": [],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Impurity Photoconductivity of Indium Doped Lead Tin Telluride|\n|短标题|铟掺杂碲锡铅的杂质光电导特性|\n|作者|[[K.-P. Möllmann]]、 [[M. Happ]]|\n|期刊名称|[[physica status solidi (a)]]|\n|DOI|[10.1002/pssa.2210910156](https://doi.org/10.1002/pssa.2210910156)|\n|存档位置|4|\n|文库编目|2|\n|索书号|4|\n|版权||\n|分类|[[01_机器学习势函数 (ML Potentials)]]|\n|条目链接|[My Library](zotero://select/library/items/DCZXH8A3)|\n|PDF 附件||\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

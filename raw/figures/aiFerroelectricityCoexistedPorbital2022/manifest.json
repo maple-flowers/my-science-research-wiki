@@ -7,79 +7,73 @@
       "title": "Figure 1",
       "llm_description": "Fig. 1 Crystal structures and dynamic stability. Top and side views of X2NO2 monolayer with (a) fcc, (b) FE-ZB′ and (c) FE−WZ′ phase (dashed lines denote a unit cell). The phonon spectra of Tl2NO2 monolayer with (d) fcc, (e) FE-ZB′ and (f) FE−WZ′ phase.",
       "page": "2",
-      "attachment_key": "AHU6YB7X",
-      "file": "fig_1_AHU6YB7X.png",
+      "attachment_key": "4T7YPY8F",
+      "file": "fig_1_4T7YPY8F.png",
       "tags": [
         "unread"
       ],
-      "materials": [
-        "WTe2"
-      ],
-      "methods": [
-        "DFT",
-        "PFM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "Fig. 2 Electronic and magnetic properties. a The spin-polarized band structure (left) and the element-resolved PDOS (right) at PBE level for FE−WZ′ X2NO2 monolayer near the Fermi level, which is set to zero. Γ (0, 0, 0), M (1/2, 0, 0), and K (1/3, 1/3, 0) are the highly symmetric points in reciproca",
+      "llm_description": "Fig. 2 Electronic and magnetic properties. a The spin-polarized band structure (left) and the element-resolved PDOS (right) at PBE level for FE−WZ′ X2NO2 monolayer near the Fermi level, which is set to zero. Γ (0, 0, 0), M (1/2, 0, 0), and K (1/3, 1/3, 0) are the highly symmetric points in reciprocal space. b Top and side views of the spin charge density for sAFM and FM FE−WZ′ X2NO2 monolayers. The isovalue is 0.1 electron per Å3. Spin-up and spin-down electrons are colored as cyan and orange, r",
       "page": "3",
-      "attachment_key": "5VSC7RJ8",
-      "file": "fig_2_5VSC7RJ8.png",
+      "attachment_key": "L8RANRZE",
+      "file": "fig_2_L8RANRZE.png",
       "tags": [
         "unread"
       ],
-      "materials": [
-        "WTe2"
-      ],
-      "methods": [
-        "DFT",
-        "PFM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "Fig. 3 Ferroelectric properties. a Electrostatic potential curve of the relaxed monolayers along the z-direction. The electrostatic potential difference (ΔΦ) is defined as the vacuum level difference between the top and bottom surfaces. b Top and side views of charge density differences between FE-W",
+      "llm_description": "Fig. 3 Ferroelectric properties. a Electrostatic potential curve of the relaxed monolayers along the z-direction. The electrostatic potential difference (ΔΦ) is defined as the vacuum level difference between the top and bottom surfaces. b Top and side views of charge density differences between FE-WZ′ and fcc Tl2NO2 (left), and between FE-ZB′ and fcc In2NO2 (right). Green, yellow, and violet colors denote depleted charge, accumulated charge, and electric polarization, respectively. The isovalue ",
       "page": "4",
-      "attachment_key": "MT6V6ETZ",
-      "file": "fig_3_MT6V6ETZ.png",
+      "attachment_key": "T6UG5N7Z",
+      "file": "fig_3_T6UG5N7Z.png",
       "tags": [
         "unread"
       ],
-      "materials": [
-        "WTe2"
-      ],
-      "methods": [
-        "DFT",
-        "PFM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "4",
       "title": "Figure 4",
-      "llm_description": "Fig. 4 A possible magnetoelectric effect in Tl2NO2/WTe2 heterostructure. a, b The charge density differences in spin-up and spin-down channels for Tl2NO2/WTe2 heterostructure with polarization directions pointing (a) upward and (b) downward. Red, wathet, gray, orange, and green spheres denote O, N, ",
+      "llm_description": "Fig. 4 A possible magnetoelectric effect in Tl2NO2/WTe2 heterostructure. a, b The charge density differences in spin-up and spin-down channels for Tl2NO2/WTe2 heterostructure with polarization directions pointing (a) upward and (b) downward. Red, wathet, gray, orange, and green spheres denote O, N, Tl, Te, and W atoms, respectively. The green arrows denote the direction of polarizations. The interlayer distance is donated by d. (c, d) The spin-resolved band structure of the Tl2NO2/WTe2 heterostr",
       "page": "6",
-      "attachment_key": "XADGI4RE",
-      "file": "fig_4_XADGI4RE.png",
+      "attachment_key": "CBUZJBZC",
+      "file": "fig_4_CBUZJBZC.png",
       "tags": [
         "unread"
       ],
-      "materials": [
-        "WTe2"
-      ],
-      "methods": [
-        "DFT",
-        "PFM"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1. Calculated electric dipole moments (pe), electric polarizations (P2D and P3D), ΔΦ, and the activation barriers (Ebarrier) in the polarization reversal process.",
+      "page": "4",
+      "attachment_key": "F77ML8K3",
+      "file": "tab_1_F77ML8K3.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">步骤</th>\n<th style=\"text-align:left\">核心问题</th>\n<th style=\"text-align:left\">方法/内容</th>\n<th style=\"text-align:left\">关键结论</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\"><strong>1. 提出设计</strong></td>\n<td style=\"text-align:left\">如何绕过d0规则，实现铁电与磁性的共存？</td>\n<td style=\"text-align:left\">设计p轨道元素（N）参与的非中心对称结构</td>\n<td style=\"text-align:left\">设计出稳定的二维X₂NO₂ (X = In, Tl)材料，其结构与In₂Se₃类似。</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>2. 性质验证</strong></td>\n<td style=\"text-align:left\">设计的材料是否稳定？是否具备预期性质？</td>\n<td style=\"text-align:left\">第一性原理计算（DFT）、声子谱、分子动力学模拟</td>\n<td style=\"text-align:left\">材料具有动力学、热力学和机械稳定性。Tl₂NO₂同时表现出本征铁电性和由N-2p电子主导的强铁磁性及金属性，居里温度高于室温。</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>3. 机理揭示</strong></td>\n<td style=\"text-align:left\">p电子如何产生铁磁性？铁电性来源是什么？</td>\n<td style=\"text-align:left\">电子结构分析（能带、态密度）、Stoner判据</td>\n<td style=\"text-align:left\">费米能级附近相对局域的N-2p电子满足Stoner判据，驱动了巡游铁磁性。N离子的非中心偏移导致铁电性。两者均源于N离子，自然兼容。</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>4. 功能拓展</strong></td>\n<td style=\"text-align:left\">眼前铁电与磁性能否耦合？</td>\n<td style=\"text-align:left\">构建异质结（Tl₂NO₂/WTe₂）进行界面工程</td>\n<td style=\"text-align:left\">观察到了可能的磁电效应，即通过改变铁电极化方向可调控异质结的总磁矩。</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Ferroelectricity coexisted with p-orbital ferromagnetism and metallicity in two-dimensional metal oxynitrides|\n|短标题|二维金属氮氧化物中铁电性与p轨道铁磁性和金属性共存|\n|作者|[[Haoqiang Ai]]、 [[Feifei Li]]、 [[Haoyun Bai]]、 [[Dong Liu]]、 [[Kin Ho Lo]]、 [[Shengyuan A. Yang]]、 [[Yoshiyuki Kawazoe]]、 [[Hui Pan]]|\n|期刊名称|[[npj Computational Materials]]|\n|DOI|[10.1038/s41524-022-00737-3](https://doi.org/10.1038/s41524-022-00737-3)|\n|存档位置|39|\n|文库编目|11.9|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/ZXFPPVIJ)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/R55LNR82\">Ai 等 - 2022 - Ferroelectricity coexisted with p-orbital ferromagnetism and metallicity in two-dimensional metal ox</a></li><li><a href=\"zotero://open-pdf/library/items/MZBEWAUB\">Ai 等 - 2022 - Ferroelectricity coexisted with p-orbital ferromagnetism and metallicity in two-dimensional metal ox.pdf</a></li></ul>|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Ferroelectricity coexisted with p-orbital ferromagnetism and metallicity in two-dimensional metal oxynitrides|\n|短标题|二维金属氮氧化物中的铁电性与p轨道铁磁性和金属丰度共存|\n|作者|[[Haoqiang Ai]]、 [[Feifei Li]]、 [[Haoyun Bai]]、 [[Dong Liu]]、 [[Kin Ho Lo]]、 [[Shengyuan A. Yang]]、 [[Yoshiyuki Kawazoe]]、 [[Hui Pan]]|\n|期刊名称|[[npj Computational Materials]]|\n|DOI|[10.1038/s41524-022-00737-3](https://doi.org/10.1038/s41524-022-00737-3)|\n|存档位置|39|\n|文库编目|11.9|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/ZXFPPVIJ)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/R55LNR82\">Ai 等 - 2022 - Ferroelectricity coexisted with p-orbital ferromagnetism and metallicity in two-dimensional metal ox</a></li><li><a href=\"zotero://open-pdf/library/items/MZBEWAUB\">Ai 等 - 2022 - Ferroelectricity coexisted with p-orbital ferromagnetism and metallicity in two-dimensional metal ox.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],
@@ -87,11 +81,6 @@
   "tags": [
     "unread"
   ],
-  "materials": [
-    "WTe2"
-  ],
-  "methods": [
-    "DFT",
-    "PFM"
-  ]
+  "materials": [],
+  "methods": []
 }

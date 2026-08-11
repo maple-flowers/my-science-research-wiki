@@ -21,6 +21,7 @@
   - [[wiki/entities/h-BN|六方氮化硼 h-BN]]
   - [[wiki/entities/TMDs|过渡金属硫族化合物 TMDs]]
   - [[wiki/entities/In2Se3|硒化铟 In2Se3]]
+  - [[wiki/entities/SnTe|碲化锡 SnTe]]
   - [[wiki/entities/MXenes|过渡金属碳/氮化物 MXenes]]
   - [[wiki/entities/Fe3GeTe2|铁锗碲 Fe3GeTe2]]
 - **钙钛矿/氧化物多铁体系**：
@@ -70,7 +71,7 @@
   - [[wiki/projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
   - [[wiki/projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
   - [[wiki/projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
-  - [[wiki/projects/project-5-in2se3-lammps-potential|项目五：LAMMPS势函数In2Se3]]
+  - [[wiki/projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
   - [[wiki/projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
   - [[wiki/projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 

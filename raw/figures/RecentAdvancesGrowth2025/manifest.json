@@ -5,345 +5,192 @@
     {
       "fig_number": "1",
       "title": "Figure 1",
-      "llm_description": "m m p p Fig. 1  Time-reversal and spatial-inversion symmetry in ferroics. (a) Ferromagnets. The local magnetic moment   represented by a charge that dynamically traces an orbit by the arrowheads. A spatial inversion does not induce change, but time reversal changes the orbit and thus  . (b) Ferroele",
+      "llm_description": "m m p p Fig. 1  Time-reversal and spatial-inversion symmetry in ferroics. (a) Ferromagnets. The local magnetic moment   represented by a charge that dynamically traces an orbit by the arrowheads. A spatial inversion does not induce change, but time reversal changes the orbit and thus  . (b) Ferroelectrics. The local dipole moment   denoted by a positive point charge, which depends asymmetrically on a crystallographic unit cell leading to disappearance of net charge. There is spatial inversion re",
       "page": "3",
-      "attachment_key": "GJD4PMYA",
-      "file": "fig_1_GJD4PMYA.png",
+      "attachment_key": "7IQ7CDIJ",
+      "file": "fig_1_7IQ7CDIJ.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "TMDs",
-        "石墨烯"
-      ],
-      "methods": [
-        "PFM",
-        "拉曼",
-        "STEM",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "10",
       "title": "Figure 10",
-      "llm_description": "Fig. 10  (a, b) Schematic illumination of large and thick flakes removal. (c) Fabrication of electrical devices with few-layer NiI2. After being removed, thick NiI2 flakes promise the quality of the heterostructure according to the large height differences result in the poor flake-to-flake contact a",
+      "llm_description": "Fig. 10  (a, b) Schematic illumination of large and thick flakes removal. (c) Fabrication of electrical devices with few-layer NiI2. After being removed, thick NiI2 flakes promise the quality of the heterostructure according to the large height differences result in the poor flake-to-flake contact as well as incorporated gas bubble. (d–f) Schematic fabrication of the NiI2 (&gt;10 layers) Hall bar, referring to flake pick-up and transfer, stacking hBN/graphene/NiI2/hBN, patterning, etching, and e",
       "page": "10",
-      "attachment_key": "YLLVDLHB",
-      "file": "fig_10_YLLVDLHB.png",
+      "attachment_key": "B29F4ZJU",
+      "file": "fig_10_B29F4ZJU.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "TMDs",
-        "石墨烯"
-      ],
-      "methods": [
-        "PFM",
-        "拉曼",
-        "STEM",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "12",
       "title": "Figure 12",
-      "llm_description": "E//P E⊥P Fig. 12  Schematic diagrams of terahertz reflection measurements conducted on NiI2: (a) transmission and (b) reflection. Hcool is the in-plane magnetic field during the cooling process. P is the electric polarization (below TN,2 59.5 K). P is in-plane and perpendicular to Hcool. For the tra",
+      "llm_description": "E//P E⊥P Fig. 12  Schematic diagrams of terahertz reflection measurements conducted on NiI2: (a) transmission and (b) reflection. Hcool is the in-plane magnetic field during the cooling process. P is the electric polarization (below TN,2 59.5 K). P is in-plane and perpendicular to Hcool. For the transmission, an external magnetic field Hext is out of plane. Terahertz time-domain pulsed signals for the transmission measurements in (c)   and (d)   polarizations at 1.5 K and Hext = 0. Red lines den",
       "page": "14",
-      "attachment_key": "HY8HZ5RT",
-      "file": "fig_12_HY8HZ5RT.png",
+      "attachment_key": "QGZQG6H2",
+      "file": "fig_12_QGZQG6H2.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "TMDs",
-        "石墨烯"
-      ],
-      "methods": [
-        "PFM",
-        "拉曼",
-        "STEM",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "13",
       "title": "Figure 13",
-      "llm_description": "Fig. 13  X-ray and electron diffraction of NiI2 crystals. (a) X-ray diffraction of a NiI2 single crystal grown by CVT along the c-axis. (b) X-ray powder diffraction of NiI2 grown by CVT. (c) An optical image of NiI2 flake thickness of 7 nm grown by PVD then transferred onto a SiNx membrane. (d) The ",
+      "llm_description": "Fig. 13  X-ray and electron diffraction of NiI2 crystals. (a) X-ray diffraction of a NiI2 single crystal grown by CVT along the c-axis. (b) X-ray powder diffraction of NiI2 grown by CVT. (c) An optical image of NiI2 flake thickness of 7 nm grown by PVD then transferred onto a SiNx membrane. (d) The electron diffraction pattern of the NiI2 flake grown by PVD as exhibited in (c) with a transmission electron microscope (TEM). Reproduced from Ref. [13].",
       "page": "15",
-      "attachment_key": "CXWNR4LI",
-      "file": "fig_13_CXWNR4LI.png",
+      "attachment_key": "SXZWC8HQ",
+      "file": "fig_13_SXZWC8HQ.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "TMDs",
-        "石墨烯"
-      ],
-      "methods": [
-        "PFM",
-        "拉曼",
-        "STEM",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "14",
       "title": "Figure 14",
       "llm_description": "Fig. 14  Atomic force microscopy measurements on few-layer NiI2 crystals. (a–c) Wide-field optical photographs of one- to four-layer NiI2 samples in the optical measurements. (d–h) Corresponding AFM images of the region described in the optical images. Reproduced in Ref. [13].",
       "page": "16",
-      "attachment_key": "4HDYT35S",
-      "file": "fig_14_4HDYT35S.png",
+      "attachment_key": "692EH7SS",
+      "file": "fig_14_692EH7SS.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "TMDs",
-        "石墨烯"
-      ],
-      "methods": [
-        "PFM",
-        "拉曼",
-        "STEM",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "15",
       "title": "Figure 15",
-      "llm_description": "Fig. 15  Outline diagrams of 2D multiferroics. Internal alignments of magnetization M, electric polarization P, or strain ε are presented in the core circle, meanwhile external ramification of magnetic field H, electric field E, or stress σ and corresponding 2D ferromagnetic (FM), ferroelectric (FE)",
+      "llm_description": "Fig. 15  Outline diagrams of 2D multiferroics. Internal alignments of magnetization M, electric polarization P, or strain ε are presented in the core circle, meanwhile external ramification of magnetic field H, electric field E, or stress σ and corresponding 2D ferromagnetic (FM), ferroelectric (FE), and ferroelastic (FA) materials are denoted in blue, gray, and pink regions, respectively. Magnetoelectric, piezo-electric, and magnetoelastic coupling effects and corresponding applications are dep",
       "page": "17",
-      "attachment_key": "9Y87JC23",
-      "file": "fig_15_9Y87JC23.png",
+      "attachment_key": "TMK8S5HG",
+      "file": "fig_15_TMK8S5HG.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "TMDs",
-        "石墨烯"
-      ],
-      "methods": [
-        "PFM",
-        "拉曼",
-        "STEM",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "M P ε H E σ M S P Fig. 2  Different ferroic orders with respect to the different time and space reversal symmetry and mutual cross-coupling, (a) the initial ferroic orders: ferromagnetism ( ), ferroelectricity ( ), and ferroelasticity ( ); their conjugate magnetic ( ), electric ( ), and stress ( ) f",
+      "llm_description": "M P ε H E σ M S P Fig. 2  Different ferroic orders with respect to the different time and space reversal symmetry and mutual cross-coupling, (a) the initial ferroic orders: ferromagnetism ( ), ferroelectricity ( ), and ferroelasticity ( ); their conjugate magnetic ( ), electric ( ), and stress ( ) fields; and the cross-couplings between them (black and green arrows), (b) types of multiferroics, (c) mutual cross-coupling between ferroic orders. (d) Schematic illustration magnetic–elastic–electric",
       "page": "3",
-      "attachment_key": "WGHM7BJ3",
-      "file": "fig_2_WGHM7BJ3.png",
+      "attachment_key": "3222BK6D",
+      "file": "fig_2_3222BK6D.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "TMDs",
-        "石墨烯"
-      ],
-      "methods": [
-        "PFM",
-        "拉曼",
-        "STEM",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "Fig. 3  Schematic illustration of the main liquid exfoliation mechanisms. (a) Ion intercalation. (b) Ion exchange. (c) Soni-cation-assisted exfoliation. Reproduced from Ref. [47].",
+      "llm_description": "R3m Fig. 11  Diagram of angular resolved polarized Raman spectroscopy (ARPRS) in cross-polarized (XY) construction. (a, b) The polar plots of the 31 cm–1 and 37 cm–1 modes in ARPRS represented in the multiferroics, which are different from both a pure phonon and magnon mode, in agreement with electromagnons. (c, d) The 80 cm–1 peak consists of two phonons below TN,2 (one is at 79.9 cm–1 and another is at 80.2 cm–1). These closely-spaced phonon modes demonstrate out-of-phase modulation referring ",
       "page": "13",
-      "attachment_key": "PZSRNJY3",
-      "file": "fig_3_PZSRNJY3.png",
+      "attachment_key": "JZ2AKYEZ",
+      "file": "fig_3_JZ2AKYEZ.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "TMDs",
-        "石墨烯"
-      ],
-      "methods": [
-        "PFM",
-        "拉曼",
-        "STEM",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "4",
       "title": "Figure 4",
-      "llm_description": "Fig. 4  Vapour-phase deposition approaches for 2D layered materials such as chalcogenides and chlogenides. (a) Chemical vapour deposition (CVD), categorized into (left) solid-source CVD and (right) gas-source CVD. (b) Physical vapour deposition (PVD). (c) Molecular beam epitaxy (MBE). (d) Atomic-lay",
+      "llm_description": "Fig. 4  Vapour-phase deposition approaches for 2D layered materials such as chalcogenides and chlogenides. (a) Chemical vapour deposition (CVD), categorized into (left) solid-source CVD and (right) gas-source CVD. (b) Physical vapour deposition (PVD). (c) Molecular beam epitaxy (MBE). (d) Atomic-layer deposition (ALD). (a, c) Reproduced from Ref. [54]; (b, d) Reproduced from Ref. [48].",
       "page": "5",
-      "attachment_key": "Z99IGUXM",
-      "file": "fig_4_Z99IGUXM.png",
+      "attachment_key": "QAJUJ232",
+      "file": "fig_4_QAJUJ232.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "TMDs",
-        "石墨烯"
-      ],
-      "methods": [
-        "PFM",
-        "拉曼",
-        "STEM",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "5",
       "title": "Figure 5",
-      "llm_description": "Fig. 5  Orientation-controlled synthesis of one-unit-cell Cr2S3 with 1-inch length on c-plane sapphire. (a) Schematic graph of unidirectionally aligned growth of Cr2S3. (b) Diagram of 1-inch length Cr2S3 synthesized on c-plane sapphire. (c) Optical microscopy (OM) image of Cr2S3 on c-plane sapphire,",
+      "llm_description": "Fig. 5  Orientation-controlled synthesis of one-unit-cell Cr2S3 with 1-inch length on c-plane sapphire. (a) Schematic graph of unidirectionally aligned growth of Cr2S3. (b) Diagram of 1-inch length Cr2S3 synthesized on c-plane sapphire. (c) Optical microscopy (OM) image of Cr2S3 on c-plane sapphire, presenting the feature of unidirectionally aligned growth. Inset: AFM image shows the height profile of a single nanosheet, which reveals the one-unit-cell Cr2S3. (d) Statistical analysis of domain o",
       "page": "6",
-      "attachment_key": "KREH47SG",
-      "file": "fig_5_KREH47SG.png",
+      "attachment_key": "ATZ3HWYI",
+      "file": "fig_5_ATZ3HWYI.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "TMDs",
-        "石墨烯"
-      ],
-      "methods": [
-        "PFM",
-        "拉曼",
-        "STEM",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "6",
       "title": "Figure 6",
-      "llm_description": "Fig. 6  Single-layer and few-layer NiI2 have been synthesized by CVT method. (a) Optical photograph of one-layer (1L) and two-layer (2L) NiI2 materials grown on hBN, and the atomic step height profiles of grown samples measured by atomic force microscopy (AFM). (b) Polarized microscopy graphs at dif",
+      "llm_description": "Fig. 6  Single-layer and few-layer NiI2 have been synthesized by CVT method. (a) Optical photograph of one-layer (1L) and two-layer (2L) NiI2 materials grown on hBN, and the atomic step height profiles of grown samples measured by atomic force microscopy (AFM). (b) Polarized microscopy graphs at different temperatures on the same region of the samples mentioned above. Dashed curves indicate the one-layer and two-layer regions (scale bars: 5 μm). (c) Measurements of angular-dependent linear dichr",
       "page": "6",
-      "attachment_key": "EH89UCDU",
-      "file": "fig_6_EH89UCDU.png",
+      "attachment_key": "3DPT9PJH",
+      "file": "fig_6_3DPT9PJH.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "TMDs",
-        "石墨烯"
-      ],
-      "methods": [
-        "PFM",
-        "拉曼",
-        "STEM",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "7",
       "title": "Figure 7",
-      "llm_description": "Fig. 7  Crystal structure of single-layer CuCrSe2 with chemical exfoliation. (a) The crystal structure of CuCrSe2 in side view, where green, blue, and red balls denote Se, Cr, and Cu atoms, respectively. (b) Single-layer CuCrSe2 crystal structure for highlighting two different Cr atoms, marked as “C",
+      "llm_description": "Fig. 7  Crystal structure of single-layer CuCrSe2 with chemical exfoliation. (a) The crystal structure of CuCrSe2 in side view, where green, blue, and red balls denote Se, Cr, and Cu atoms, respectively. (b) Single-layer CuCrSe2 crystal structure for highlighting two different Cr atoms, marked as “Cr1” and “Cr2”, respectively. (c) Description of Cr orbital energy in single-layer CuCrSe2, clarifying the orbital energy shift to opposite directions induced by vertical polarization. (d) Typical opti",
       "page": "7",
-      "attachment_key": "QDBUMH5F",
-      "file": "fig_7_QDBUMH5F.png",
+      "attachment_key": "NZYZKTDJ",
+      "file": "fig_7_NZYZKTDJ.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "TMDs",
-        "石墨烯"
-      ],
-      "methods": [
-        "PFM",
-        "拉曼",
-        "STEM",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "8",
       "title": "Figure 8",
-      "llm_description": "Fig. 8  Controllable thickness-tunable SnSe nanosheets synthesized on mica substrate. (a) Schematic process-grown photograph and crystal structure of SnSe. (b) Raman spectrum of as-grown SnSe. (c) Raman intensity mapping diagram with mode in a tetragonal SnSe nanosheet, revealing its uniform thickne",
+      "llm_description": "Fig. 8  Controllable thickness-tunable SnSe nanosheets synthesized on mica substrate. (a) Schematic process-grown photograph and crystal structure of SnSe. (b) Raman spectrum of as-grown SnSe. (c) Raman intensity mapping diagram with mode in a tetragonal SnSe nanosheet, revealing its uniform thickness. (d–f) Optical microscopy (OM) images of as-grown SnSe, synthesized at distinct precursor-substrate distances of 12, 14, and 16 cm, respectively, showing various domain sizes and morphologies. (g) ",
       "page": "8",
-      "attachment_key": "BPV3ECUG",
-      "file": "fig_8_BPV3ECUG.png",
+      "attachment_key": "D2MGASFU",
+      "file": "fig_8_D2MGASFU.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "graphene",
-        "TMDs",
-        "石墨烯"
-      ],
-      "methods": [
-        "PFM",
-        "拉曼",
-        "STEM",
-        "AFM",
-        "CVD",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table  1 Recent processes of 2D multiferroic materials with density functional theory (DFT) and experimental methods with different transition temperature (TT).",
+      "page": "11",
+      "attachment_key": "VAP6KBBP",
+      "file": "tab_1_VAP6KBBP.png"
+    },
+    {
       "id": "T1",
       "title": "Table 1",
-      "content": "<table><thead><tr><th>铁性类别</th><th>英文名称</th><th style=\"text-align:center\">是否破坏空间反演对称性</th><th style=\"text-align:center\">是否破坏时间反演对称性</th></tr></thead><tbody><tr><td>铁电性</td><td>Ferroelectricity (FE)</td><td style=\"text-align:center\">✓</td><td style=\"text-align:center\">✗</td></tr><tr><td>铁磁性</td><td>Ferromagnetism (FM)</td><td style=\"text-align:center\">✗</td><td style=\"text-align:center\">✓</td></tr><tr><td>铁弹性</td><td>铁弹性</td><td style=\"text-align:center\">✗</td><td style=\"text-align:center\">✗</td></tr><tr><td>铁涡性</td><td>铁涡性</td><td style=\"text-align:center\">✓</td><td style=\"text-align:center\">✓</td></tr><tr><td>铁谷性</td><td>铁谷性</td><td style=\"text-align:center\">—</td><td style=\"text-align:center\">—</td></tr></tbody></table>",
-      "page": "-"
-    },
-    {
-      "id": "T2",
-      "title": "Table 2",
-      "content": "<table><thead><tr><th>表征手段</th><th>特征参数</th><th>结果</th></tr></thead><tbody><tr><td>AFM</td><td>高度轮廓</td><td>证实为单一单元层（1.8 nm）</td></tr><tr><td>XRD</td><td>θ摇摆曲线</td><td>局限在半极宽度84.0°–85.5°</td></tr><tr><td>XPS</td><td>化学态</td><td>形成Cr₂S₃及Al-S键（连接单层或基底）</td></tr></tbody></table>",
-      "page": "-"
-    },
-    {
-      "id": "T3",
-      "title": "Table 3",
-      "content": "<table><thead><tr><th>方法</th><th>类别</th><th>优点</th><th>局限</th><th>典型材料</th></tr></thead><tbody><tr><td>机械剥离</td><td>自顶向下</td><td>高结晶质量清洁表面</td><td>厚度/尺寸无法控制、产率低</td><td>石墨烯、TMDs</td></tr><tr><td>液相剥离</td><td>自顶向下</td><td>产量可行、利用率高</td><td>薄片尺寸有限、溶剂/离子残留</td><td>石墨烯、金属片</td></tr><tr><td>化学气相沉积(CVD)</td><td>自底向上</td><td>生长控制好、尺寸大、质量高</td><td>真空条件控制复杂</td><td>Cr₂S₃、CuCrSe₂</td></tr><tr><td>化学气相传输(CVT)</td><td>自底向上</td><td>高纯单晶、多晶及其设备，层厚控制清洗</td><td>易形成较大的原始粉末</td><td>NiI₂、CuCrP₂S₆</td></tr><tr><td>物理气相沉积(PVD)</td><td>自底向上</td><td>可以整修靶材、直接沉积薄膜成膜</td><td>薄膜纯度控制难度大</td><td>SnSe</td></tr><tr><td>分子束外延(MBE)</td><td>自底向上</td><td>原子级精密度高、超净环境</td><td>速率慢、规模化难</td><td>NiI₂</td></tr><tr><td>原子层沉积(ALD)</td><td>自底向上</td><td>三维叠层保形生长、精确控制</td><td>前驱选择受限、沉积量增速慢</td><td>NiI v</td></tr></tbody></table>",
-      "page": "-"
-    },
-    {
-      "id": "T4",
-      "title": "Table 4",
-      "content": "<table><thead><tr><th>应用类别</th><th>依托效应</th><th>关键指标/器件</th></tr></thead><tbody><tr><td>非易失存储</td><td>铁电极化+自旋的ME</td><td>四态隧道效应、磁性切换</td></tr><tr><td>自旋电子</td><td>磁电耦合</td><td>自旋场效应晶体管、多铁隧道结</td></tr><tr><td>传感器</td><td>磁电效应</td><td>磁场感知探测器</td></tr><tr><td>制动器</td><td>压电/磁致伸缩</td><td>低功耗柔性致动</td></tr><tr><td>能量收集</td><td>磁电耦合</td><td>复合电压压电/磁致伸缩材料</td></tr><tr><td>微波/RF</td><td>磁电效应</td><td>可调滤波器、天线、FMR调谐</td></tr><tr><td>相移器</td><td>电磁耦合</td><td>微波相控阵雷达、通讯</td></tr></tbody></table>",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">方法</th>\n<th style=\"text-align:left\">策略</th>\n<th style=\"text-align:left\">关键特征</th>\n<th style=\"text-align:left\">优点</th>\n<th style=\"text-align:left\">缺点/挑战</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\"><strong>机械剥离</strong></td>\n<td style=\"text-align:left\">自上而下</td>\n<td style=\"text-align:left\">用胶带反复撕拉</td>\n<td style=\"text-align:left\">晶体质量最高，表面洁净</td>\n<td style=\"text-align:left\">产率低，尺寸和厚度不可控，无法规模化</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>液相剥离</strong></td>\n<td style=\"text-align:left\">自上而下</td>\n<td style=\"text-align:left\">超声或离子插层</td>\n<td style=\"text-align:left\">可规模化生产，产量高</td>\n<td style=\"text-align:left\">片层尺寸小，可能引入溶剂或离子污染</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>CVD/CVT</strong></td>\n<td style=\"text-align:left\">自下而上</td>\n<td style=\"text-align:left\">气相前驱体化学反应</td>\n<td style=\"text-align:left\">可控性好，可制备大面积、高质量薄膜，工业兼容</td>\n<td style=\"text-align:left\">工艺参数（温度、气流、前驱体）复杂，需精确调控</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>PVD</strong></td>\n<td style=\"text-align:left\">自下而上</td>\n<td style=\"text-align:left\">物理蒸发-沉积</td>\n<td style=\"text-align:left\">工艺简单，可直接沉积</td>\n<td style=\"text-align:left\">可控性及薄膜质量通常不如CVD</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>MBE</strong></td>\n<td style=\"text-align:left\">自下而上</td>\n<td style=\"text-align:left\">超高真空分子束外延</td>\n<td style=\"text-align:left\">原子级精度控制，最高纯度，可实现原位监控</td>\n<td style=\"text-align:left\">设备昂贵，生长速度慢，维护成本高</td>\n</tr>\n</tbody>\n</table>",
       "page": "-"
     },
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Recent advances in growth, characterization, and application of two-dimensional multiferroic materials|\n|短标题|二维多铁材料的生长、表征及应用研究进展|\n|作者||\n|期刊名称|[[Frontiers of Physics]]|\n|DOI|[10.15302/frontphys.2025.044302](https://doi.org/10.15302/frontphys.2025.044302)|\n|存档位置|3|\n|文库编目|6.6|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/HDCR8MGU)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/6Q2I2L7R)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Recent advances in growth, characterization, and application of two-dimensional multiferroic materials|\n|短标题|二维多铁性材料的生长、表征及应用研究进展|\n|作者||\n|期刊名称|[[Frontiers of Physics]]|\n|DOI|[10.15302/frontphys.2025.044302](https://doi.org/10.15302/frontphys.2025.044302)|\n|存档位置|3|\n|文库编目|6.6|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/HDCR8MGU)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/6Q2I2L7R)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
@@ -351,17 +198,6 @@
   "tags": [
     "Done"
   ],
-  "materials": [
-    "graphene",
-    "TMDs",
-    "石墨烯"
-  ],
-  "methods": [
-    "PFM",
-    "拉曼",
-    "STEM",
-    "AFM",
-    "CVD",
-    "STM"
-  ]
+  "materials": [],
+  "methods": []
 }

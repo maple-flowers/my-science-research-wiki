@@ -5,63 +5,48 @@
     {
       "fig_number": "1",
       "title": "Figure 1",
-      "llm_description": "Figure 1 Structure of a typical ferroelectric capacitor. a, Schematic view of the system considered here: a BaTiO3 film between SrRuO3 electrodes that are short-circuited. The whole structure is grown on top of a SrTiO3 substrate. The epitaxy is such that SrTiO3 (001) k SrRuO3(001) k BaTiO3 (001)k S",
+      "llm_description": "Figure 1 Map of Antarctica with indication of the deep drilling sites. The Dome Fuji site is located about 1,000 km from the coast at the highest point of the East Dronning Maud Land Plateau: 3,810 m above sea level (a.s.l.), accumulation ,2.7 g cm22 yr21, 10-m depth temperature of 258 8C (ref. 9). The core covers 2,503 m, whereas the ice thickness is 3,090 m.",
       "page": "4",
-      "attachment_key": "RMI4BN2F",
-      "file": "fig_1_RMI4BN2F.png",
+      "attachment_key": "BHUIKLVH",
+      "file": "fig_1_BHUIKLVH.png",
       "tags": [
         "unread"
       ],
-      "materials": [
-        "HfO2"
-      ],
-      "methods": [
-        "DFT",
-        "first-principles"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "Figure 2 Evolution of the energy as a function of the soft-mode distortion y. First-principles results (symbols) and electrostatic model results (lines) are shown for different thicknesses of the ferroelectric thin film: m ¼ 2 (circles, full line), m ¼ 4 (upward-pointing triangles, dotted), m ¼ 6 (d",
+      "llm_description": "Figure 2 Evolution of the energy as a function of the soft-mode distortion y. First-principles results (symbols) and electrostatic model results (lines) are shown for different thicknesses of the ferroelectric thin film: m ¼ 2 (circles, full line), m ¼ 4 (upward-pointing triangles, dotted), m ¼ 6 (diamonds, short-dashed), m ¼ 8 (squares, dot-dashed), and m ¼ 10 (downward-pointing triangles, long-dashed). The magnitude of y is reported as a percentage of the bulk soft-mode displacements of BaTiO3",
       "page": "2",
-      "attachment_key": "TZZ6YZIR",
-      "file": "fig_2_TZZ6YZIR.png",
+      "attachment_key": "XASEAFPQ",
+      "file": "fig_2_XASEAFPQ.png",
       "tags": [
         "unread"
       ],
-      "materials": [
-        "HfO2"
-      ],
-      "methods": [
-        "DFT",
-        "first-principles"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "Figure 3 Induced dipoles, potentials and depolarizing fields along the [001] direction of the short-circuited ferroelectric capacitor. Shown are the change in a, the macroscopic total (ionic plus electronic) charge density (in atomic units, a.u.), and b, the electrostatic potential with respect to t",
+      "llm_description": "Figure 3 Induced dipoles, potentials and depolarizing fields along the [001] direction of the short-circuited ferroelectric capacitor. Shown are the change in a, the macroscopic total (ionic plus electronic) charge density (in atomic units, a.u.), and b, the electrostatic potential with respect to the paraelectric phase, when freezing-in the soft-mode distortion pattern: y ¼ 5% (full line) and y ¼ 15% (dotted line). The thickness of the BaTiO3 layer corresponds to m ¼ 6. The magnitude of the dep",
       "page": "3",
-      "attachment_key": "FUEA75Y4",
-      "file": "fig_3_FUEA75Y4.png",
+      "attachment_key": "DQ8AHC66",
+      "file": "fig_3_DQ8AHC66.png",
       "tags": [
         "unread"
       ],
-      "materials": [
-        "HfO2"
-      ],
-      "methods": [
-        "DFT",
-        "first-principles"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Critical thickness for ferroelectricity in perovskite ultrathin films|\n|短标题|钙钛矿超薄膜铁电性临界厚度|\n|作者|[[Javier Junquera]]、 [[Philippe Ghosez]]|\n|期刊名称|[[Nature]]|\n|DOI|[10.1038/nature01501](https://doi.org/10.1038/nature01501)|\n|存档位置|1591|\n|文库编目|48.5|\n|索书号|1|\n|版权|http://www.springer.com/tdm|\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/YRTCB3NN)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/WSMCQS8K\">Junquera和Ghosez - 2003 - Critical thickness for ferroelectricity in perovskite ultrathin films.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/F2VRWENQ\">PDF</a></li></ul>|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Critical thickness for ferroelectricity in perovskite ultrathin films|\n|短标题|钙钛矿超薄膜铁电性的临界厚度|\n|作者|[[Javier Junquera]]、 [[Philippe Ghosez]]|\n|期刊名称|[[Nature]]|\n|DOI|[10.1038/nature01501](https://doi.org/10.1038/nature01501)|\n|存档位置|1591|\n|文库编目|48.5|\n|索书号|1|\n|版权|http://www.springer.com/tdm|\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/YRTCB3NN)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/F2VRWENQ\">Junquera和Ghosez - 2003 - Critical thickness for ferroelectricity in perovskite ultrathin films</a></li><li><a href=\"zotero://open-pdf/library/items/WSMCQS8K\">Junquera和Ghosez - 2003 - Critical thickness for ferroelectricity in perovskite ultrathin films.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],
@@ -69,11 +54,6 @@
   "tags": [
     "unread"
   ],
-  "materials": [
-    "HfO2"
-  ],
-  "methods": [
-    "DFT",
-    "first-principles"
-  ]
+  "materials": [],
+  "methods": []
 }

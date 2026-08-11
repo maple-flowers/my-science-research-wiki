@@ -47,86 +47,145 @@ log(`Discovered ${papers.papers.length} papers.`)
 
 // 2. Mapping & Targeting Wiki Files
 phase('Mapping')
-log('Scanning wiki folders to map concepts and entities...')
+log('Scanning wiki folders to map concepts, entities, projects and figures...')
 
 const wikiFiles = await agent(`
 List all existing wiki markdown files in:
 - E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\
 - E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\entities\\
 - E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\topics\\
-Return a JSON structure of {concepts: [filename], entities: [filename], topics: [filename]}.
+- E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\projects\\ (excluding index.md)
+- E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\figures\\ (excluding _index.md)
+Return a JSON structure of {concepts: [filename], entities: [filename], topics: [filename], projects: [filename], figures: [filename]}.
 `, {
   schema: {
     type: 'object',
     properties: {
       concepts: { type: 'array', items: { type: 'string' } },
       entities: { type: 'array', items: { type: 'string' } },
-      topics: { type: 'array', items: { type: 'string' } }
+      topics: { type: 'array', items: { type: 'string' } },
+      projects: { type: 'array', items: { type: 'string' } },
+      figures: { type: 'array', items: { type: 'string' } }
     },
-    required: ['concepts', 'entities', 'topics']
+    required: ['concepts', 'entities', 'topics', 'projects', 'figures']
   }
 })
 
-log(`Mapped ${wikiFiles.concepts.length} concepts, ${wikiFiles.entities.length} entities, and ${wikiFiles.topics.length} topics.`)
+log(`Mapped ${wikiFiles.concepts.length} concepts, ${wikiFiles.entities.length} entities, ${wikiFiles.projects.length} projects, and ${wikiFiles.figures.length} figure categories.`)
 
 // 3. Synthesis Phase (Iterate and update)
 phase('Synthesis')
 
-// We pipeline the concept updates.
-// To keep things efficient and high-quality, we will focus on updating the concept files.
+// Pipeline for Concept updates
 await pipeline(
   wikiFiles.concepts,
   async (conceptFile) => {
     log(`Synthesizing concept: ${conceptFile}`)
     const fullPath = `E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\${conceptFile}`
-
-    // We let an agent review this concept and synthesize relevant papers from raw/note/
     await agent(`
-      You are an expert materials science researcher.
-      1. Read the concept file: ${fullPath}.
-      2. Analyze the papers list we processed to find papers discussing this concept (e.g., sliding ferroelectricity, moire, etc.).
-      3. For any paper that is highly relevant, write a concise synthesis of its contribution (mechanisms, materials, metrics) and integrate it organically into the narrative sections or a "Representative Papers" section of the concept file.
-      4. Ensure all double-bracket links to raw notes [[../../raw/note/CiteKey|Title]] or similar are correct and active.
-      5. Modify the file ${fullPath} directly with the updated, rich synthesized content. Do not just append a list of bullet points; rewrite sections to integrate the physical insights seamlessly.
+      Expert materials science researcher task:
+      1. Read concept: ${fullPath}.
+      2. Find relevant papers in raw/note/ (sliding ferroelectricity, moire, switching, etc.).
+      3. Integrate findings into the narrative (mechanisms, materials).
+      4. Ensure links [[../../raw/note/CiteKey|Title]] are correct.
+      5. Rewrite ${fullPath} directly.
     `)
   }
 )
 
-// We pipeline the entity updates.
+// Pipeline for Entity updates
 await pipeline(
   wikiFiles.entities,
   async (entityFile) => {
     log(`Synthesizing entity: ${entityFile}`)
     const fullPath = `E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\entities\\${entityFile}`
-
     await agent(`
-      You are an expert materials science researcher.
-      1. Read the entity file: ${fullPath}.
-      2. Identify papers in raw/note/ that study this material or method.
-      3. Synthesize the new findings (e.g., lattice constants, Curie temperatures, switching barriers, novel physical states like magnetic ferroelectric metals) and integrate them seamlessly into the core descriptions, physical mechanisms, or "Representative Papers" sections of ${fullPath}.
-      4. Keep all double-bracket links accurate.
-      5. Write your updates directly back to ${fullPath}.
+      Expert materials science researcher task:
+      1. Read entity: ${fullPath}.
+      2. Find papers in raw/note/ studying this material/method.
+      3. Integrate findings (lattice, Tc, barriers, novel states).
+      4. Ensure links [[../../raw/note/CiteKey|Title]] are correct.
+      5. Rewrite ${fullPath} directly.
     `)
   }
 )
 
-// 4. Writing Analysis Phase
+// Pipeline for Topic updates
+await pipeline(
+  wikiFiles.topics,
+  async (topicFile) => {
+    log(`Synthesizing topic: ${topicFile}`)
+    const fullPath = `E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\topics\\${topicFile}`
+    await agent(`
+      Expert materials science researcher task:
+      1. Read topic file: ${fullPath}.
+      2. Identify new findings in raw/note/ related to this research topic.
+      3. Synthesize the core progress, challenges, and future directions into the topic narrative.
+      4. Ensure links [[../../raw/note/CiteKey|Title]] are correct.
+      5. Rewrite ${fullPath} directly.
+    `)
+  }
+)
+
+// Pipeline for Project updates
+await pipeline(
+  wikiFiles.projects,
+  async (projectFile) => {
+    if (projectFile === 'index.md') return;
+    log(`Updating project progress: ${projectFile}`)
+    const fullPath = `E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\projects\\${projectFile}`
+    await agent(`
+      Expert researcher task:
+      1. Read project file: ${fullPath}.
+      2. Scan raw/note/ and raw/figures/ for any new papers or figures linked to this project's keywords or citekeys.
+      3. Update the "Zotero 参考文献池积累" and "知识积累与项目进展记录" sections of ${fullPath} with real progress and specific literature insights.
+      4. Ensure links [[../../raw/note/CiteKey|Title]] are correct.
+      5. Rewrite ${fullPath} directly.
+    `)
+  }
+)
+
+// Pipeline for Figure library updates
+await pipeline(
+  wikiFiles.figures,
+  async (figureFile) => {
+    if (figureFile === '_index.md') return;
+    log(`Updating figure category: ${figureFile}`)
+    const fullPath = `E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\figures\\${figureFile}`
+    await agent(`
+      Expert researcher task:
+      1. Read figure category file: ${fullPath}.
+      2. Scan all raw/figures/*/manifest.json to find new figures, tables, or formulas matching this category's theme.
+      3. Add metadata entries (citekey, title, description, link) for new figures into the appropriate sub-sections of ${fullPath}.
+      4. Update the "收录总数" or counts in the file.
+      5. Rewrite ${fullPath} directly.
+    `)
+  }
+)
+
+// 4. Writing Analysis Phase (LLM-Led)
 phase('Writing analysis')
-log('Generating/Updating Writing style summaries...')
+log('Intelligently extracting academic writing patterns...')
+
+// We iterate by year to group things properly.
+// We will let an agent scan all papers and update the yearly wiki/write/ files.
 await agent(`
-  Run the Python script 'E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\tools\\generate_writing_wiki.py' to rebuild yearly summaries.
-  Then, perform an intelligent review on the generated yearly files (e.g., wiki/write/2025.md, wiki/write/2024.md) to ensure:
-  - No AI-thinking phrases or meta-comments are included.
-  - The categorizations into Introduction, Methods, Results, Conclusion are perfect.
-  - The sentences are highly representative of professional scientific English writing.
+  Expert scientific editor task:
+  1. Scan all files in raw/note/*.md.
+  2. For each paper, locate the "论文双语转写" (Bilingual Transcription) section.
+  3. Extract high-quality academic English sentences that demonstrate professional scientific writing (Introduction, Methods, Results, Conclusion).
+  4. Group these by year (from the paper's metadata) and publication.
+  5. Update or create the files in wiki/write/{year}.md and rebuild wiki/write/_index.md.
+  6. Ensure NO AI-thinking metadata, NO prompt residuals, and ONLY clean, professional sentences are included.
+  7. Use the format: ### From: [[../../raw/note/CiteKey|Title]] followed by a bulleted list of sentences.
 `)
 
 // 5. Indexing Phase
 phase('Indexing')
 log('Rebuilding index.md and Topic pages...')
 await agent(`
-  Rebuild 'E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\index.md' to ensure all newly created topics, concepts, or entities are perfectly cross-linked and aligned with SCHEMA.md.
-  Check that the category statistics and table counts are completely accurate.
+  Rebuild 'E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\index.md' to ensure all newly created topics, concepts, entities, and writing years are perfectly cross-linked.
+  Update the statistics (e.g., "共计 X 篇论文卡片", "收录 X 幅图表") based on the current filesystem state.
 `)
 
 log('Wiki Update Workflow completed successfully!')

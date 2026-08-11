@@ -5,507 +5,603 @@
     {
       "fig_number": "1",
       "title": "Figure 1",
-      "llm_description": "FIG. 1. Convergence of the forces �in eV/Å) for different algo-rithms for fcc-Fe �four cells�. ‘‘out’’—output charge density was used for the calculation, ‘‘mix’’—mixed charge density was used, and ‘‘opt’’—is the optimized scheme explained in the text.Formula 29 · 第 6 页�29�Formula 27 · 第 6 页�27�Form",
+      "llm_description": "FIG. 1. Convergence of the forces �in eV/Å) for different algo-rithms for fcc-Fe �four cells�. ‘‘out’’—output charge density was used for the calculation, ‘‘mix’’—mixed charge density was used, and ‘‘opt’’—is the optimized scheme explained in the text.",
       "page": "6",
-      "attachment_key": "66K49Z8L",
-      "file": "fig_1_66K49Z8L.png",
+      "attachment_key": "CDNY7B53",
+      "file": "fig_1_CDNY7B53.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "第一性原理",
-        "TEM",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "FIG. 2. Convergence of the total free energy E �in eV�for the RMM-DIIS algorithm for the cd-C, non-self-consistent case �no division by the number of atoms has been done�. ‘‘one cell’’ cor-responds to a cubic supercell containing eight atoms, for ‘‘x cells’’ the cell has been multiplied in one direc",
+      "llm_description": "FIG. 2. Convergence of the total free energy E �in eV�for the RMM-DIIS algorithm for the cd-C, non-self-consistent case �no division by the number of atoms has been done�. ‘‘one cell’’ cor-responds to a cubic supercell containing eight atoms, for ‘‘x cells’’ the cell has been multiplied in one direction x times. The symmetry was destroyed by adding random vectors to the positions �see text�.",
       "page": "12",
-      "attachment_key": "8WTL8C32",
-      "file": "fig_2_8WTL8C32.png",
+      "attachment_key": "K2M97DMS",
+      "file": "fig_2_K2M97DMS.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "第一性原理",
-        "TEM",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "FIG. 3. Convergence of the total free energy E �in eV�for the RMM-DIIS algorithm �full curve�and for the CGa scheme �broken curve�for fcc-Fe, non-self-consistent case. ‘‘one cell’’ corresponds to a cubic supercell containing four atoms, for ‘‘x cells’’ the cell has been multiplied in one direction x",
+      "llm_description": "FIG. 3. Convergence of the total free energy E �in eV�for the RMM-DIIS algorithm �full curve�and for the CGa scheme �broken curve�for fcc-Fe, non-self-consistent case. ‘‘one cell’’ corresponds to a cubic supercell containing four atoms, for ‘‘x cells’’ the cell has been multiplied in one direction x times. The symmetry was destroyed by adding random vectors to the positions �see text�. The RMM-DIIS algorithm is a band-by-band algorithm, whereas the CGa scheme optimizes all wave functions at the ",
       "page": "13",
-      "attachment_key": "25BECABX",
-      "file": "fig_3_25BECABX.png",
+      "attachment_key": "GBM9JB34",
+      "file": "fig_3_GBM9JB34.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "第一性原理",
-        "TEM",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "4",
       "title": "Figure 4",
-      "llm_description": "FIG. 4. Top panel—convergence of the total free energy E �in eV�for the RMM-DIIS �full curve�and the CGa algorithm �broken curve�for cd-C, self-consistent case. The RMM-DIIS algorithm uses a self-consistency cycle, whereas the CGa algorithm mini-mizes the KS functional directly. Lower panel—converge",
+      "llm_description": "FIG. 4. Top panel—convergence of the total free energy E �in eV�for the RMM-DIIS �full curve�and the CGa algorithm �broken curve�for cd-C, self-consistent case. The RMM-DIIS algorithm uses a self-consistency cycle, whereas the CGa algorithm mini-mizes the KS functional directly. Lower panel—convergence of the forces �in eV/Å) for both methods.",
       "page": "13",
-      "attachment_key": "5JWVPENW",
-      "file": "fig_4_5JWVPENW.png",
+      "attachment_key": "45NBH4FX",
+      "file": "fig_4_45NBH4FX.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "第一性原理",
-        "TEM",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "5",
       "title": "Figure 5",
-      "llm_description": "FIG. 5. Top panel—convergence of the total free energy E �in eV�for the RMM-DIIS �full curve�and the CGa algorithm �broken curve�for fcc-Fe, self-consistent case. The RMM-DIIS algorithm uses a self-consistency cycle, whereas the CGa algorithm mini-mizes the KS functional directly. Lower panel—conver",
+      "llm_description": "FIG. 5. Top panel—convergence of the total free energy E �in eV�for the RMM-DIIS �full curve�and the CGa algorithm �broken curve�for fcc-Fe, self-consistent case. The RMM-DIIS algorithm uses a self-consistency cycle, whereas the CGa algorithm mini-mizes the KS functional directly. Lower panel—convergence of the forces �in eV/Å) for both methods.",
       "page": "14",
-      "attachment_key": "HAVBDWBL",
-      "file": "fig_5_HAVBDWBL.png",
+      "attachment_key": "MDMEZAFI",
+      "file": "fig_5_MDMEZAFI.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "第一性原理",
-        "TEM",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "6",
       "title": "Figure 6",
-      "llm_description": "FIG. 6. Convergence of the total free energy E �in eV�for the RMM-DIIS �full curve�and the CGa �broken curve�algorithm for fcc-Al, self-consistent case. The RMM-DIIS algorithm uses a self-consistency cycle, whereas the CGa algorithm minimizes the KS functional directly.Formula 3 · 第 17 页�A3�Formula ",
+      "llm_description": "FIG. 6. Convergence of the total free energy E �in eV�for the RMM-DIIS �full curve�and the CGa �broken curve�algorithm for fcc-Al, self-consistent case. The RMM-DIIS algorithm uses a self-consistency cycle, whereas the CGa algorithm minimizes the KS functional directly.",
       "page": "16",
-      "attachment_key": "RZFDDA3Q",
-      "file": "fig_6_RZFDDA3Q.png",
+      "attachment_key": "D9VHA5DL",
+      "file": "fig_6_D9VHA5DL.png",
       "tags": [
         "unread"
       ],
       "materials": [],
-      "methods": [
-        "第一性原理",
-        "TEM",
-        "DFT"
-      ]
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_6000",
+      "title": "Table 6000",
+      "content": "TABLE II. Time necessary to perform one iteration for the Fe ensembles containing Nions atoms for several algorithms on an IBM RS 6000/ Model 590 �a CRAY C90 is approximately four times faster�. Ncell is the number of fcc supercells, Nions is the number of ions, and Nk points is the number of k points. RMM refers to the residual minimization method band-by-band scheme with mixing, CGa is the conjugate gradient scheme applied directly to the KS functional. The timing for the 3�3�3 cell (�point on",
+      "page": "15",
+      "attachment_key": "PUVVJLFL",
+      "file": "tab_6000_PUVVJLFL.png"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Efficient iterative schemes for <i>ab initio</i> total-energy calculations using a plane-wave basis set|\n|短标题|使用平面波基集进行<i>从头开始</i>总能量计算的高效迭代方案|\n|作者|[[G. Kresse]]、 [[J. Furthmüller]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/physrevb.54.11169](https://doi.org/10.1103/physrevb.54.11169)|\n|存档位置|118314|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[方法文献]]|\n|条目链接|[My Library](zotero://select/library/items/5NEXEUMV)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/EJPSRQ5K\">使用平面波基集进行<i>从头开始</i>总能量计算的高效迭代方案-silicon-dual</a></li><li><a href=\"zotero://open-pdf/library/items/JHR92UID\">Kresse和Furthmüller - 1996 - Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Efficient iterative schemes for<i>ab initio</i>total-energy calculations using a plane-wave basis set|\n|短标题|基于平面波基集的从头算总能量计算的高效迭代格式|\n|作者|[[G. Kresse]]、 [[J. Furthmüller]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.54.11169](https://doi.org/10.1103/PhysRevB.54.11169)|\n|存档位置|118314|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[方法文献]]|\n|条目链接|[My Library](zotero://select/library/items/5NEXEUMV)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/EJPSRQ5K\">使用平面波基集进行<i>从头开始</i>总能量计算的高效迭代方案-silicon-dual</a></li><li><a href=\"zotero://open-pdf/library/items/JHR92UID\">Kresse和Furthmüller - 1996 - Efficient iterative schemes forab initiototal-energy calculations using a plane-wave basis se</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     },
     {
       "id": "MD-T2",
       "title": "MD Table 2",
-      "content": "|Ncell| Nions | RMM  | CG   | CGa  |\n| --- | ----- | ---- | ---- | ---- |\n| 1   | 1     | 4    | 4.6  | 1.8  |",
+      "content": "| Ncell | Nions | RMM | CG | CGa |\n|-------|-------|-----|-----|-----|\n| 1 | 8 | 1.0 | 1.0 | 1.2 |\n| 2 | 16 | 3.0 | 3.0 | 3.2 |\n| 4 | 32 | 10.0 | 10.0 | 9.0 |\n| 8 | 64 | 35.0 | 50.0 | 32.0 |\n| 3×3×3 | 216 | 410.0 | 800.0 | — |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T3",
+      "title": "MD Table 3",
+      "content": "| Ncell | Nions | Nk points | RMM | CGa |\n|-------|-------|-----------|------|------|\n| 1 | 4 | 32 | 21.0 | 16.0 |\n| 2 | 8 | 16 | 39.0 | 32.0 |\n| 4 | 16 | 8 | 80.0 | 65.0 |\n| 8 | 32 | 2 | 92.0 | — |\n| 3×3×3 | 108 | 1 | 360.0 | — |",
       "page": "-"
     }
   ],
   "formulas": [
     {
-      "id": "eq1",
+      "id": "eq_1",
       "title": "Equation 1",
-      "content": "$$` delimiters to denote display math mode, as per the instructions, maintaining equation numbering, such as (1) or (2). I'll handle any standalone equations this way.\n\n</code></pre>\n\n\n> \n> $$",
-      "page": "-"
+      "content": "�A1�",
+      "page": "17",
+      "attachment_key": "FIHX39U3",
+      "file": "eq_1_FIHX39U3.png"
     },
     {
-      "id": "eq2",
-      "title": "Equation 2",
-      "content": "$$\n> \n> \n\n<pre class=\"hljs\"><code>\n</code></pre>\n\n\n> \n> (~1!)\n> \n> \n\n<pre class=\"hljs\"><code>\n```markdown\n|Ncell| Nions | RMM  | CG   | CGa  |\n| --- | ----- | ---- | ---- | ---- |\n| 1   | 1     | 4    | 4.6  | 1.8  |\n</code></pre>\n\n \n\n<pre class=\"hljs\"><code>\nI'll maintain the numbering outside the equation.\n\n\n**Implementing List Conversion**\n\nI'm now implementing the list and quote block features. I will now rigorously ensure list types are accurately translated into CommonMark, including correct handling of indentations, symbols, and numbering. I'm also preparing for the conversion of quotation blocks. I'm also ensuring that these blocks are translated effectively.\n\n\n&lt;/blockquote&gt;\n\n作为技术文档格式化工程师兼专业译员，我已将您提供的PDF纯英文文本转换为结构化的双语Markdown文档。\n\n---\n\n# Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set\n高效迭代方案在平面波基组从头算总能量计算中的应用\n\nG. Kresse\nG. 克雷瑟\nInstitut für Theoretische Physik, Technische Universität Wien, Wiedner Hauptstrabe 8-10/136, A-1040 Wien, Austria\n维也纳技术大学理论物理研究所，维也纳，奥地利\n\nJ. Furthmüller\nJ. 富特米勒\nInstitut für Festkörpertheorie und Theoretische Optik, Friedrich-Schiller-Universität Jena, Max-Wien-Platz 1, D-07743 Jena, Germany\n耶拿弗里德里希-席勒大学固体理论与理论光学研究所，耶拿，德国\n\n~Received 13 December 1995; revised manuscript received 30 May 1996!\n（1995年12月13日收到；1996年5月30日收到修订稿！）\n\nWe present an efficient scheme for calculating the Kohn-Sham ground state of metallic systems using pseudopotentials and a plane-wave basis set. In the first part the application of Pulay’s DIIS method ~direct inversion in the iterative subspace! to the iterative diagonalization of large matrices will be discussed. Our approach is stable, reliable, and minimizes the number of order Natoms\n3 operations. In the second part, we will discuss an efficient mixing scheme also based on Pulay’s scheme. A special ‘‘metric’’ and a special ‘‘preconditioning’’ optimized for a plane-wave basis set will be introduced. Scaling of the method will be discussed in detail for non-self-consistent and self-consistent calculations. It will be shown that the number of iterations required to obtain a specific precision is almost independent of the system size. Altogether an order Natoms\n2\nscaling is found for systems containing up to 1000 electrons. If we take into account that the number of k points can be decreased linearly with the system size, the overall scaling can approach Natoms . We have implemented these algorithms within a powerful package called **VASP** ~Vienna ab initio simulation package!. The program and the techniques have been used successfully for a large number of different systems ~liquid and amorphous semiconductors, liquid simple and transition metals, metallic and semiconducting surfaces, phonons in simple metals, transition metals, and semiconductors! and turned out to be very reliable. @S0163-1829~96!00440-7#\n我们提出了一种使用**赝势**和**平面波基组**计算金属体系**Kohn-Sham基态**的高效方案。第一部分将讨论Pulay的**DIIS方法**（迭代子空间直接反演）在大型矩阵迭代对角化中的应用。我们的方法稳定、可靠，并最大限度地减少了O(N_atoms³)的操作数量。第二部分，我们将讨论一种同样基于Pulay方案的高效**混合方案**。将引入一种针对平面波基组优化的特殊“度量”和“预处理”。该方法的缩放性能将在**非自洽计算**和**自洽计算**中详细讨论。结果将表明，获得特定精度所需的迭代次数几乎与系统大小无关。对于包含多达1000个电子的系统，总共发现O(N_atoms²)的缩放性能。如果考虑到k点数量可以随系统大小线性减少，则总体缩放性能可以接近O(N_atoms)。我们已将这些算法实现到一个名为**VASP**（维也纳从头算模拟包）的强大软件包中。该程序和技术已成功用于大量不同的系统（液态和非晶态半导体、液态简单金属和过渡金属、金属和半导体表面、简单金属、过渡金属和半导体中的声子），并被证明非常可靠。\n**赝势 (Pseudopotentials)**: 一种近似方法，用有效势来替代原子核及内层电子对价电子的作用。\n**平面波基组 (Plane-wave basis set)**: 一种用于展开电子波函数的完备基组，由平面波组成。\n**Kohn-Sham基态 (Kohn-Sham ground state)**: 密度泛函理论中，描述电子体系最低能量状态的Kohn-Sham方程的解。\n**DIIS方法 (Direct Inversion in the Iterative Subspace)**: 迭代子空间直接反演方法，一种加速收敛的准牛顿方法。\n**混合方案 (Mixing scheme)**: 在自洽循环中，结合旧的输入和新的输出来更新电荷密度或势的方法。\n**预处理 (Preconditioning)**: 在迭代算法中，通过转换问题来改善收敛速度的技术。\n**非自洽计算 (Non-self-consistent calculations)**: 不迭代电荷密度或势，通常用于固定势场下的计算。\n**自洽计算 (Self-consistent calculations)**: 迭代电荷密度或势，直到输入和输出的电荷密度/势达到一致的计算。\n**VASP (Vienna Ab initio Simulation Package)**: 维也纳从头算模拟包，一个广泛用于材料科学和凝聚态物理的从头算软件包。\n\n# I. INTRODUCTION\n引言\n\nIn the past few years **ab initio** calculations based on **Kohn-Sham** ~**KS**! **density functional theory**1 have gained an enormous interest not only among solid state physicists but also among chemists. In part, this is due to the great success of the **local density approximation** ~**LDA**! ~see, for instance, Ref. 2! which — although originally intended only for the application to solids — seems to be reasonably accurate for molecules and the adsorption of molecules on surfaces too. In addition, taking into account **generalized gradient corrections** has removed one of the most problematic deficiencies of the LDA, the strong overbinding of isolated molecules. The biggest advantage of the KS density functional approach is definitely its simplicity. Forces, for instance, can be evaluated in principle and in practice using the well known **Hellmann-Feynman theorem**.3 Although different **basis sets** can be used, **plane waves** in the broadest sense seem currently to be most advantageous. This basis set is complete and allows an easy analytical evaluation of the **forces** and of the **stress tensor**. Its biggest disadvantage is probably that the number of **plane waves** **Nplw** which must be included is usually an order of magnitude larger than the number of **basis functions** ~centered at atomic sites! used for ‘‘minimal’’ numerical basis sets; but this is more than made up by the fact that the action of the **Hamiltonian** onto **trial wave functions** can be evaluated very efficiently. Using modern iterative algorithms the explicit calculation and storage of the Nplw3Nplw Hamilton matrix can be avoided, allowing the use of very large basis sets (Nplw'10 000) even on simple workstations. With the recent introduction of efficient **pseudopotentials** ~see, e.g., Vanderbilt4! and the introduction of the **projector-augmented-plane-wave method**5 the applicability of **plane waves** has increased even further. Now also **transition metals** and **first row elements** no longer pose any serious difficulty and can be treated almost as efficiently as conventional ‘‘simple’’ elements. For the calculation of the **KS ground state** it is possible to distinguish two methods: ~i! **Methods for determining the minimum of the KS total-energy functional directly** ~in the future simply called **direct methods**! and ~ii! **iterative methods for the diagonalization of the KS Hamiltonian in conjunction with an iterative improvement** ~i.e., mixing! **of the charge density or the potential** @we will refer to these methods as **self-consistency cycle** ~**SC**! **methods**#. Both methods require no explicit storage of the Hamilton matrix and should therefore show similar ‘‘efficiency.’’ The **direct methods** ~i! have been pioneered by Car and **Parrinello**.6 They are based on the fact that the Kohn-Sham energy functional is minimal at the electronic ground state. Therefore, minimization with respect to the variational degrees of freedom leads to a convenient scheme for calculating the electronic ground state. The only problem to be solved is the inclusion of the **orthonormality constraints** on the **wave functions**, which is done with a **Lagrange formalism** in the original work of **CP**. Generally the standard **CP algorithm** is relatively slow if it is applied to the electrons only. Small improvements might be obtained by integrating the equations of motion analytically,7 by introducing an improved preconditioning for the gradient8 or by replacing the second-order CP equations by first-order **steepest-descent**9,10 equations. Recently **Tassone**, **Mauri**, and **Car**8 showed that\n在过去的几年里，基于**Kohn-Sham (KS) 密度泛函理论**¹的**从头算**计算不仅在固体物理学家中，而且在化学家中也引起了巨大的兴趣。部分原因在于**局域密度近似 (LDA)**²的巨大成功——尽管最初仅用于固体，但它似乎对分子以及分子在表面上的吸附也具有合理的准确性。此外，考虑到**广义梯度修正**，消除了LDA最成问题的一个缺陷，即孤立分子之间过强的结合。KS密度泛函方法最大的优势无疑是其简洁性。例如，原则上和实践中，可以使用众所周知的**Hellmann-Feynman定理**³来评估力。尽管可以使用不同的**基组**，但广义上的**平面波**目前似乎最具优势。这种基组是完备的，并且可以轻松地分析评估**力**和**应力张量**。它最大的缺点可能是必须包含的**平面波数量 (Nplw)**通常比用于“最小”数值基组的**基函数**（以原子中心）数量大一个数量级；但通过**哈密顿量**对**试探波函数**的作用可以非常高效地评估这一事实，弥补了这一缺点。使用现代迭代算法可以避免Nplw×Nplw哈密顿矩阵的显式计算和存储，即使在简单的**工作站**上也能使用非常大的基组（Nplw≈10000）。随着高效**赝势**⁴的最新引入以及**投影缀加平面波方法**⁵的引入，**平面波**的适用性进一步增强。现在，**过渡金属**和**第一周期元素**也不再构成任何严重困难，并且可以像传统的“简单”元素一样高效处理。对于**KS基态**的计算，可以区分两种方法：(i) **直接确定KS总能量泛函最小值的方法**（以后简称**直接法**）和(ii) **结合电荷密度或势的迭代改进**（即混合）**的KS哈密顿量对角化迭代方法**（我们将这些方法称为**自洽循环 (SC) 方法**）。这两种方法都不需要显式存储哈密顿矩阵，因此应表现出相似的“效率”。**直接法**（i）由Car和**Parrinello**⁶开创。它们基于Kohn-Sham能量泛函在电子基态处最小的事实。因此，对变分自由度的最小化导致了一种计算电子基态的便捷方案。唯一需要解决的问题是将**波函数**的**正交归一化约束**包含在内，这在**CP**的原始工作中通过**拉格朗日形式**完成。通常，标准**CP算法**如果仅应用于电子，则相对较慢。通过解析积分运动方程⁷、引入改进的**梯度预处理**⁸或将二阶CP方程替换为一阶**最速下降**⁹,¹⁰方程，可能会获得小幅改进。最近，**Tassone**、**Mauri**和**Car**⁸表明\n**从头算 (ab initio)**: 从第一性原理出发，不依赖任何实验参数的计算方法。\n**Kohn-Sham (KS) 密度泛函理论 (Density Functional Theory)**: 科恩-沙姆密度泛函理论，一种量子力学方法，用于研究多电子体系的基态性质。\n**局域密度近似 (LDA)**: local density approximation，一种用于计算交换关联能量的密度泛函近似。\n**广义梯度修正 (Generalized gradient corrections)**: 一种改进LDA的密度泛函近似，考虑了电荷密度的梯度信息。\n**Hellmann-Feynman定理 (Hellmann-Feynman theorem)**: 赫尔曼-费曼定理，它将原子核上的力与电子波函数导数联系起来。\n**基组 (Basis sets)**: 用于展开量子力学波函数的一组已知函数。\n**平面波 (Plane waves)**: 一种特殊的波函数，在固体物理中常用于描述周期性势场中的电子。\n**Nplw**: Number of plane waves，平面波的数量。\n**基函数 (Basis functions)**: 基组中的单个函数。\n**哈密顿量 (Hamiltonian)**: 描述系统总能量的量子力学算符。\n**试探波函数 (Trial wave functions)**: 在变分法中用于近似真实波函数的函数。\n**工作站 (Workstation)**: 具有高性能计算能力的计算机。\n**赝势 (Pseudopotentials)**: （已解释）\n**投影缀加平面波方法 (Projector-augmented-plane-wave method)**: 一种结合平面波和原子核附近局域函数的电子结构计算方法，常缩写为PAW。\n**过渡金属 (Transition metals)**: 元素周期表中d区元素，通常具有部分填充的d轨道。\n**第一周期元素 (First row elements)**: 元素周期表第二周期的元素，如B、C、N、O、F。\n**KS基态 (KS ground state)**: （已解释）\n**直接法 (Direct methods)**: 直接优化能量泛函以找到电子基态的方法。\n**自洽循环 (SC) 方法 (Self-consistency cycle methods)**: 迭代计算电荷密度或势直到收敛的方法。\n**Parrinello**: M. Parrinello，Car-Parrinello分子动力学方法的共同创始人之一。\n**正交归一化约束 (Orthonormality constraints)**: 限制波函数互相正交且归一化的条件。\n**波函数 (Wave functions)**: 描述量子力学体系状态的数学函数。\n**拉格朗日形式 (Lagrange formalism)**: 拉格朗日力学中的一种数学框架，用于处理受约束的优化问题。\n**CP算法 (Car-Parrinello algorithm)**: Car-Parrinello算法，一种结合了密度泛函理论和分子动力学的模拟方法。\n**梯度预处理 (Gradient preconditioning)**: 对梯度进行变换以加速优化算法收敛的技术。\n**最速下降 (Steepest-descent)**: 一种简单的优化算法，沿着负梯度方向进行搜索。\n**Tassone**: F. Tassone，量子力学计算领域的研究人员。\n**Mauri**: F. Mauri，量子力学计算领域的研究人员。\n**Car**: R. Car，Car-Parrinello分子动力学方法的共同创始人之一。\n\nPHYSICAL REVIEW B VOLUME 54, NUMBER 16 15 OCTOBER 1996-II\n物理评论B，第54卷，第16期，1996年10月15日-II\n54\n0163-1829/96/54~16!/11169~18!/$10.00 11 169 © 1996 The American Physical Society\n54\n0163-1829/96/54(16)/11169(18)/$10.00 11 169 © 1996 美国物理学会\n\nthe most efficient algorithm is a preconditioned damped second-order equation of motion for the electrons, a scheme first proposed in Ref. 7. It is interesting to point out that the damped second-order equation of motion used in Ref. 8 is closely related to an acceleration scheme for slowly converging series by **Tchebycheff** which has been used for the **mixing of charge densities** by Akai and Dederichs.11 The only drawback of this method is that it requires the determination of two parameters to obtain fast convergence.\n最有效的算法是针对电子的**预处理**阻尼二阶运动方程，该方案最早由参考文献7提出。值得指出的是，参考文献8中使用的阻尼二阶运动方程与**Tchebycheff**提出的一种用于慢收敛级数的加速方案密切相关，该方案已被Akai和Dederichs¹¹用于**电荷密度混合**。该方法的唯一缺点是需要确定两个参数才能实现快速收敛。\n**Tchebycheff**: 切比雪夫，俄罗斯数学家，以其在逼近论和正交多项式方面的贡献而闻名。\n**电荷密度混合 (Mixing of charge densities)**: （已解释，与混合方案类似）\n\nIn this respect, **conjugate gradient** ~**CG**! **schemes**12,13 are more promising because they are entirely **parameter free**. Within these schemes the **KS functional** is minimized along a given search direction exactly ~which is usually not done within the techniques mentioned above!, and in successive steps the new search direction is conjugated to previous search directions. The main problem within the **CG methods** is that the **orthonormality constraints** are not easy to incorporate. For **semiconductors** and **insulators** Teter, Payne, and Allan14 proposed a reliable algorithm which optimizes the **total energy** for a single orbital within the **subspace orthonormal** to the current set of **trial wave functions**. Despite the advantage of small storage requirements, the algorithm is relatively slow because only a limited number of **CG steps** per orbital can be done, and because the **charge density** and the **potential** must be recalculated after each single update of each orbital. Therefore, algorithms which update all **orbitals** simultaneously should be superior. These algorithms were pioneered independently by Stich, Car, Parrinello, and Baroni15 and by **Gillan**.16 The most systematic and elegant way to incorporate the **orthonormality constraints** in this case is to generalize the **KS functional** to **nonorthogonal orbitals**,17 but successful applications of this approach are still rare.18–20 In contrast to the **direct methods** the traditional methods ~ii! try to split the evaluation of the **KS ground state** into the determination of a **self-consistent charge density** ~or **potential**! and the **diagonalization of the KS Hamiltonian** for a fixed **potential**. Mathematically this is definitely less elegant, and especially in the **solid state community** a tendency towards direct minimization of the **KS functional** is visible. But on the other hand, **SC methods** have been used for a long time and in addition they have proved to be quite reliable and efficient in most cases. We will show in this paper that an efficient **matrix diagonalization** and an efficient **mixing scheme** result in a method which is highly competitive with **direct minimization schemes**. For **metals** our implementation seems to outperform any other scheme which we are aware of. In this paper, we will also discuss the **scaling properties** of our algorithm in terms of **computer time** and in terms of the necessary number of **iterations** for increasing **system sizes**. We will demonstrate that the **matrix diagonalization scheme** proposed here requires always the same number of **iterations** independent of the **system size**. In addition, we will demonstrate that our implementation scales like O(N²) ~in terms of **computer time per iteration**! for systems containing up to 1000 electrons, indicating that quite large systems can be treated efficiently. We want to point out that the method discussed here has been used successfully for different systems, including liquid **simple metals** ~Na, Ge!,21 liquid **transition metals** ~V, Cu!,22,23 the transition from a **liquid metal** to an **amorphous semiconductor** by rapid quenching of Ge,24,23 and the **metal-nonmetal transition** in expanded l-Hg.25 One advantage of an efficient **electronic minimization** is that the **relaxation of the ions** to their **instantaneous equilibrium position** is much faster. Successful calculations for clean and hydrogenated **C(100) surfaces**,26 the **site-selective adsorption** of C atoms on Al(111) surfaces,27 and **Rh surface properties**28 demonstrate the feasibility of our method in this respect. Finally, we have also performed calculations of **phonon dispersion relations** in **insulators** and **metals** ~cubic diamond and graphite see Ref. 29!, indicating that **forces** can be evaluated efficiently and very accurately within the **SC methods**. Our paper is organized as follows: In Sec. II, we will discuss the **Kohn-Sham energy functional** if **partial occupancies** are allowed, our **self-consistency cycle** will be outlined and an improved way for the calculation of **interatomic forces** will be discussed. In Sec. III, we discuss an **iterative matrix diagonalization scheme** based on Pulay’s **DIIS method** ~**direct inversion in the iterative subspace**!. **Charge density mixing** will be discussed in Sec. IV. Finally, we apply our scheme to several **test systems** ~Sec. V!. In this part, we will mainly concentrate on the **scaling aspects** of the method.\n在这方面，**共轭梯度 (CG) 方案**¹²,¹³更具前景，因为它们完全**无需参数**。在这些方案中，**KS泛函**沿着给定搜索方向精确最小化（这在上述技术中通常不这样做！），并且在连续步骤中，新的搜索方向与先前的搜索方向共轭。**CG方法**中的主要问题是**正交归一化约束**不易纳入。对于**半导体**和**绝缘体**，Teter、Payne和Allan¹⁴提出了一种可靠的算法，它在与当前**试探波函数**集正交的**子空间**中，优化单个轨道的**总能量**。尽管存储需求小具有优势，但该算法相对较慢，因为每个轨道只能进行有限数量的**CG步**，并且每次更新单个轨道后必须重新计算**电荷密度**和**势**。因此，同时更新所有**轨道**的算法应该更优越。这些算法由Stich、Car、Parrinello和Baroni¹⁵以及**Gillan**¹⁶独立开创。在这种情况下，纳入**正交归一化约束**最系统和优雅的方法是将**KS泛函**推广到**非正交轨道**¹⁷，但这种方法的成功应用仍然很少见¹⁸⁻²⁰。与**直接法**相反，传统方法（ii）试图将**KS基态**的评估分解为**自洽电荷密度**（或**势**）的确定和固定**势**下的**KS哈密顿量对角化**。从数学上讲，这无疑不够优雅，特别是在**固态物理学界**，存在直接最小化**KS泛函**的趋势。但另一方面，**SC方法**已使用很长时间，并且在大多数情况下被证明是相当可靠和高效的。本文将表明，高效的**矩阵对角化**和高效的**混合方案**相结合，可以产生一种与**直接最小化方案**高度竞争的方法。对于**金属**，我们的实现似乎优于我们所知的任何其他方案。本文还将详细讨论我们算法在**计算机时间**和随着**系统尺寸**增加所需的**迭代**次数方面的**缩放特性**。我们将证明这里提出的**矩阵对角化方案**所需的**迭代**次数始终与**系统尺寸**无关。此外，我们将证明我们的实现在包含多达1000个电子的系统上具有O(N²)的缩放比例（按**每次迭代的计算机时间**计算），表明可以高效处理相当大的系统。我们想指出，这里讨论的方法已成功用于不同的系统，包括液态**简单金属**（Na、Ge）²¹、液态**过渡金属**（V、Cu）²²、²³、通过Ge的快速淬火从**液态金属**到**非晶半导体**的转变²⁴、²³以及膨胀l-Hg中的**金属-非金属转变**²⁵。高效**电子最小化**的一个优点是**离子**弛豫到其**瞬时平衡位置**的速度更快。对清洁和氢化**C(100)表面**²⁶、C原子在Al(111)表面上的**位点选择性吸附**²⁷和**Rh表面性质**²⁸的成功计算证明了我们方法在这方面的可行性。最后，我们还进行了**绝缘体**和**金属**（立方金刚石和石墨，参见参考文献29）中**声子色散关系**的计算，表明在**SC方法**中可以高效且非常准确地评估**力**。本文组织如下：第二节，我们将讨论允许**部分占据**的**Kohn-Sham能量泛函**，概述我们的**自洽循环**，并讨论一种改进的**原子间力**计算方法。第三节，我们将讨论一种基于Pulay的**DIIS方法**（迭代子空间直接反演）的**迭代矩阵对角化方案**。第四节将讨论**电荷密度混合**。最后，我们将在第五节将我们的方案应用于几个**测试系统**。在本部分中，我们将主要关注该方法的**缩放方面**。\n**共轭梯度 (CG) 方案 (Conjugate gradient schemes)**: 一种用于优化问题的迭代算法，特别是求解大型稀疏线性方程组和非线性优化问题。\n**无需参数 (Parameter free)**: 指算法不需要手动设置复杂的控制参数。\n**KS泛函 (KS functional)**: Kohn-Sham泛函，密度泛函理论中用于计算系统总能量的泛函。\n**正交归一化约束 (Orthonormality constraints)**: （已解释）\n**半导体 (Semiconductors)**: 导电性介于导体和绝缘体之间的材料。\n**绝缘体 (Insulators)**: 导电性极差的材料。\n**总能量 (Total energy)**: 体系中所有能量形式的总和。\n**子空间正交 (Subspace orthonormal)**: 指在某个子空间内，向量满足正交和归一化条件。\n**试探波函数 (Trial wave functions)**: （已解释）\n**CG步 (CG steps)**: 共轭梯度算法中的迭代步骤。\n**电荷密度 (Charge density)**: 空间中电荷分布的密度。\n**势 (Potential)**: 描述粒子在空间中受力情况的标量场。\n**轨道 (Orbitals)**: 描述电子在原子或分子中运动状态的数学函数。\n**Gillan**: M.J. Gillan，凝聚态物理计算领域的研究人员。\n**非正交轨道 (Nonorthogonal orbitals)**: 不满足正交条件的轨道。\n**固态物理学界 (Solid state community)**: 从事固体物理研究的学术群体。\n**矩阵对角化 (Matrix diagonalization)**: 将矩阵转换为对角矩阵的过程，通常用于求解本征值问题。\n**混合方案 (Mixing scheme)**: （已解释）\n**直接最小化方案 (Direct minimization schemes)**: （已解释，与直接法类似）\n**金属 (Metals)**: 具有良好导电、导热和延展性的材料。\n**缩放特性 (Scaling properties)**: 描述算法性能（如计算时间、内存需求）随系统规模增长而变化的规律。\n**计算机时间 (Computer time)**: 计算任务所消耗的CPU时间。\n**迭代 (Iterations)**: 算法中重复执行的步骤。\n**系统尺寸 (System sizes)**: 所研究体系中原子或电子的数量。\n**每次迭代的计算机时间 (Computer time per iteration)**: 每执行一次迭代所需的计算时间。\n**简单金属 (Simple metals)**: 周期表中主族金属元素，通常具有近自由电子行为。\n**液态金属 (Liquid metal)**: 处于液态的金属。\n**非晶半导体 (Amorphous semiconductor)**: 非晶态结构的半导体。\n**金属-非金属转变 (Metal-nonmetal transition)**: 材料导电性从金属态转变为非金属态的现象。\n**电子最小化 (Electronic minimization)**: 寻找电子体系基态能量的过程。\n**离子弛豫 (Relaxation of the ions)**: 离子位置调整到能量最低点的过程。\n**瞬时平衡位置 (Instantaneous equilibrium position)**: 离子在给定电子构型下的瞬时稳定位置。\n**C(100)表面**: 碳(100)晶面，一种晶体表面。\n**位点选择性吸附 (Site-selective adsorption)**: 分子或原子优先吸附在表面上特定位点的现象。\n**Rh表面性质 (Rh surface properties)**: 铑(Rh)金属的表面性质。\n**声子色散关系 (Phonon dispersion relations)**: 描述晶格振动能量（声子）与波矢量之间关系的曲线。\n**原子间力 (Interatomic forces)**: 原子之间相互作用的力。\n**迭代矩阵对角化方案 (Iterative matrix diagonalization scheme)**: 通过迭代过程对矩阵进行对角化的方法。\n**电荷密度混合 (Charge density mixing)**: （已解释）\n**测试系统 (Test systems)**: 用于验证算法性能的模拟体系。\n**缩放方面 (Scaling aspects)**: （已解释，与缩放特性类似）\n\n# II. THE KOHN-SHAM ENERGY FUNCTIONAL FOR PARTIAL OCCUPANCIES\n部分占据下的Kohn-Sham能量泛函\n\n## A. The Kohn-Sham energy functional\nKohn-Sham能量泛函\n\nIn general, the Kohn-Sham free energy functional for an **ultrasoft** ~**US**! **Vanderbilt pseudopotential** ~**PP**! at finite tem perature can be written as4,30,31\n一般来说，对于有限温度下的**超软 (US) Vanderbilt 赝势 (PP)**，Kohn-Sham自由能泛函可以写为⁴,³⁰,³¹：\n**超软 (US) Vanderbilt 赝势 (PP) (Ultrasoft Vanderbilt pseudopotential)**: 一种特定类型的赝势，旨在减少平面波基组的截断能量，特别适用于过渡金属和第一周期元素。\n\n$$",
-      "page": "-"
-    },
-    {
-      "id": "eq3",
-      "title": "Equation 3",
-      "content": "$$\n(1)\n\nwhere S( f n) is the **entropy of noninteracting electrons**.32 The **partial occupancies** f n are f n51 for **occupied bands** and f n50 for **unoccupied bands**, at finite temperature f n is allowed to vary continuously between 0 and 1. To simplify the notation we have dropped the **k-point index**. The first sum runs over all **bands** Nb included in the calculation. **EH is the Hartree energy**, **Exc the exchange-correlation energy functional**, **Vlioocn the local ionic pseudopotential**, **T52(\\2/2me)π2 the kinetic energy operator**, and **gEwald the Madelung energy of the ions**. It is clear that the **KS functional** depends on the positions RN of the ions, the **electronic wave functions** fn , and the **partial occupancies** f n only. For **US-PP’s** the **nonlocal part of the PP** can be written as\n其中S(fn)是**非相互作用电子的熵**³²。**部分占据**fn对于**占据带**为fn=1，对于**未占据带**为fn=0；在有限温度下，fn允许在0到1之间连续变化。为了简化符号，我们省略了**k点索引**。第一个求和遍历计算中包含的所有**能带**Nb。**EH是Hartree能量**，**Exc是交换关联能量泛函**，**Vlion是局域离子赝势**，**T是动能算符(T=-(ħ²/2me)∇²)**，**gEwald是离子的Madelung能量**。显然，**KS泛函**仅取决于离子的位置RN、**电子波函数**fn和**部分占据**fn。对于**US-PP**，**赝势的非局域部分**可以写为：\n**非相互作用电子的熵 (entropy of noninteracting electrons)**: 描述非相互作用电子体系无序程度的物理量。\n**部分占据 (Partial occupancies)**: 在有限温度或展宽方法中，电子占据能级的概率，介于0和1之间。\n**占据带 (Occupied bands)**: 电子占据的能带。\n**未占据带 (Unoccupied bands)**: 电子未占据的能带。\n**k点索引 (k-point index)**: 在布里渊区中对k点进行编号的索引。\n**能带 (Bands)**: 固体中电子能量的允许范围。\n**Hartree能量 (Hartree energy)**: 描述电子之间库仑相互作用的能量项。\n**交换关联能量泛函 (Exchange-correlation energy functional)**: 密度泛函理论中描述电子交换和关联效应的能量项。\n**局域离子赝势 (Local ionic pseudopotential)**: 描述离子对电子的局域作用的赝势部分。\n**动能算符 (Kinetic energy operator)**: 描述粒子动能的量子力学算符。\n**Madelung能量 (Madelung energy)**: 离子晶体中离子之间的静电相互作用能。\n**KS泛函 (KS functional)**: （已解释）\n**电子波函数 (Electronic wave functions)**: 描述电子状态的波函数。\n**US-PP**: Ultrasoft Pseudopotential，超软赝势。\n**赝势的非局域部分 (Nonlocal part of the PP)**: 赝势中不依赖于电子位置的非局域作用部分。\n\n$$",
-      "page": "-"
-    },
-    {
-      "id": "eq4",
-      "title": "Equation 4",
-      "content": "$$\n(2)\n\nwhere Diiojn is the strength of the nonlocal part of the pseudopotential. The **charge density** r(r) is given by\n其中Diiojn是赝势非局域部分的强度。**电荷密度**r(r)由下式给出：\n**电荷密度 (Charge density)**: （已解释）\n\n$$",
-      "page": "-"
-    },
-    {
-      "id": "eq5",
-      "title": "Equation 5",
-      "content": "$$\n(3)\n\nwhere **bi are localized projection states** and **Qij(r) localized augmentation functions**.4,30,31 The **total energy** has to be minimized subject to the **generalized orthonormality constraints**\n其中**bi是局域投影态**，**Qij(r)是局域缀加函数**⁴,³⁰,³¹。**总能量**必须在**广义正交归一化约束**下最小化：\n**局域投影态 (Localized projection states)**: 在投影缀加平面波方法中，用于描述原子核附近电子局域特性的函数。\n**局域缀加函数 (Localized augmentation functions)**: 在投影缀加平面波方法中，用于修正平面波基组在原子核附近不足的局域函数。\n**总能量 (Total energy)**: （已解释）\n**广义正交归一化约束 (Generalized orthonormality constraints)**: 包含重叠矩阵S的修正正交归一化条件。\n\n$$",
-      "page": "-"
-    },
-    {
-      "id": "eq6",
-      "title": "Equation 6",
-      "content": "$$\n(4)\n\nwhere the **overlap matrix** S is defined as\n其中**重叠矩阵**S定义为：\n**重叠矩阵 (Overlap matrix)**: 描述不同基函数或波函数之间重叠程度的矩阵。\n\n$$",
-      "page": "-"
-    },
-    {
-      "id": "eq7",
-      "title": "Equation 7",
-      "content": "$$\n(5)\n\nwith\n其中\n$$",
-      "page": "-"
-    },
-    {
-      "id": "eq8",
-      "title": "Equation 8",
-      "content": "$$\n(6)\n\n**Ultrasoft pseudopotentials** are discussed in detail in Refs. 4,30,31,33. Their general advantage is that they reduce the necessary **energy cutoff** for **transition metals** and **first row elements** by a factor of 2–4. The resulting **basis sets** are comparable in size with the **basis sets** for typical ‘‘**pseudopotential elements**’’ like Na, Al, Si, and Ge. The most important property of the **KS functional** is to be extremal in the **ground state** with respect to arbitrary variations of the **wave functions**. Under the constraints of **orthonormalization**, variation with respect to the **wave functions** leads to the **generalized KS eigenvalue equations**,31\n**超软赝势**在参考文献4,30,31,33中有详细讨论。它们的普遍优势在于将**过渡金属**和**第一周期元素**所需的**能量截断**降低了2-4倍。由此产生的**基组**大小与典型的“**赝势元素**”（如Na、Al、Si和Ge）的**基组**相当。**KS泛函**最重要的性质是在**基态**中相对于**波函数**的任意变分而言是极值的。在**正交归一化**的约束下，对**波函数**的变分导致了**广义KS本征值方程**³¹：\n**超软赝势 (Ultrasoft pseudopotentials)**: （已解释）\n**能量截断 (Energy cutoff)**: 在平面波基组计算中，定义包含平面波最大动能的参数。\n**过渡金属 (Transition metals)**: （已解释）\n**第一周期元素 (First row elements)**: （已解释）\n**基组 (Basis sets)**: （已解释）\n**赝势元素 (Pseudopotential elements)**: 通常指用赝势处理时计算效率较高的元素，如主族元素。\n**KS泛函 (KS functional)**: （已解释）\n**基态 (Ground state)**: 体系最低能量的状态。\n**波函数 (Wave functions)**: （已解释）\n**正交归一化 (Orthonormalization)**: 确保一组函数互相正交且归一化的过程。\n**广义KS本征值方程 (Generalized KS eigenvalue equations)**: 包含了重叠矩阵的Kohn-Sham本征值方程。\n\n$$",
-      "page": "-"
-    },
-    {
-      "id": "eq9",
-      "title": "Equation 9",
-      "content": "$$\n(7)\n\nwhere H is the **Kohn-Sham Hamiltonian**\n其中H是**Kohn-Sham哈密顿量**：\n**Kohn-Sham哈密顿量 (Kohn-Sham Hamiltonian)**: 在密度泛函理论中，描述Kohn-Sham粒子的有效哈密顿量。\n\n$$",
-      "page": "-"
-    },
-    {
-      "id": "eq10",
+      "id": "eq_10",
       "title": "Equation 10",
-      "content": "$$\n(8)\n\nwith\n其中\n$$",
-      "page": "-"
+      "content": "�10�",
+      "page": "3",
+      "attachment_key": "NC9GJMNB",
+      "file": "eq_10_NC9GJMNB.png"
     },
     {
-      "id": "eq11",
+      "id": "eq_11",
       "title": "Equation 11",
-      "content": "$$\n(9)\n\nwhere **VH@r# is the Hartree potential** and **Vxc@r# the exchange-correlation potential**. For **ultrasoft pseudopotentials** the **nonlocal part of the pseudopotential VNLsc** depends also on the **total local potential** and must be calculated accordingly via @compare Eq. ~2!#\n其中**VH[r]是Hartree势**，**Vxc[r]是交换关联势**。对于**超软赝势**，**赝势的非局域部分VNLsc**也取决于**总局域势**，必须根据（比较方程(2)）进行计算：\n**Hartree势 (Hartree potential)**: 描述电子平均静电场的势。\n**交换关联势 (Exchange-correlation potential)**: 描述电子交换和关联效应的有效势。\n**超软赝势 (Ultrasoft pseudopotentials)**: （已解释）\n**赝势的非局域部分 (Nonlocal part of the pseudopotential)**: （已解释）\n**总局域势 (Total local potential)**: 系统中所有局域势的总和。\n\n$$",
-      "page": "-"
+      "content": "�11�",
+      "page": "3",
+      "attachment_key": "ZWHC7I9V",
+      "file": "eq_11_ZWHC7I9V.png"
     },
     {
-      "id": "eq12",
+      "id": "eq_12",
       "title": "Equation 12",
-      "content": "$$\n(10)\n\n## B. Semiconducting systems versus metallic systems\n半导体体系与金属体系\n\nFor the calculation of **semiconducting** and **insulating systems** it is an usual practice to calculate the **occupied orbitals** only, i.e., Nb5Nelectron/2 and f n51 for all calculated **bands**. In this case it can be shown that the **total energy** is invariant under any **unitary transformation** of the **wave functions** fn , and it is sufficient to calculate a set of **wave functions** which fulfills the less stringent equation\n对于**半导体**和**绝缘体系**的计算，通常只计算**占据轨道**，即Nb=N_electron/2，并且所有计算出的**能带**fn=1。在这种情况下，可以证明**总能量**在**波函数**fn的任何**幺正变换**下是不变的，并且只需计算一组满足不太严格方程的**波函数**：\n**半导体 (Semiconducting systems)**: （已解释）\n**绝缘体系 (Insulating systems)**: （已解释）\n**占据轨道 (Occupied orbitals)**: 电子占据的轨道。\n**能带 (Bands)**: （已解释）\n**总能量 (Total energy)**: （已解释）\n**幺正变换 (Unitary transformation)**: 保持内积不变的线性变换。\n**波函数 (Wave functions)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�12�",
+      "page": "4",
+      "attachment_key": "5688SDIU",
+      "file": "eq_12_5688SDIU.png"
     },
     {
-      "id": "eq13",
+      "id": "eq_13",
       "title": "Equation 13",
-      "content": "$$\n(11)\n\nwhere **gnm is a Hermitian matrix**.\n其中**gnm是厄米矩阵**。\n**厄米矩阵 (Hermitian matrix)**: 等于其共轭转置的复方阵。\n\nThe situation differs significantly in **metallic systems**; here, one can take two different approaches: It is possible to insist on calculating the **occupied orbitals** only, but as correctly pointed out by Annett34 the number of **iterations** which are necessary to converge to a specific precision will increase with the square root of the **system size** even for **non-self-consistent calculations**. The main problem lies in the determination of the **highest occupied orbital** which will be very close in energy to the **lowest unoccupied orbitals** ~due to the finite system size, **level spacing** will always be finite!. For any **minimization** or **matrix diagonalization algorithm** it will become progressively harder to determine the correct **occupied orbitals** if the **virtual energy gap** at the **Fermi level** decreases. Keep in mind that this problem also occurs in **semiconductors** and **molecules** with a very small or zero **gap**. Because of this behavior, it is generally an advantage to include **unoccupied orbitals** above the **Fermi level** in practical calculations. For **non-self-consistent calculations**, we will show in Sec. III D that our method requires always the same number of **iterations**, independent of the **system size**. To ensure good **energy-stability partial occupancies** have to be included at the same time. This avoids that the crossing of two **eigenvalues** at the **Fermi level** causes **discontinuities** ~of the **band occupations**! during a **self-consistent calculation**. In addition, **partial occupancies** also solve the **level crossing problem** for **molecular dynamics** or **ionic relaxations**. One disadvantage of including additional **unoccupied orbitals** above the **Fermi level** is that it is necessary to calculate the **KS orbitals** exactly @Eq. ~7!#, making the calculation of the **electronic ground state** slightly more complex. Another problem which occurs only for **self-consistent calculations** is the **charge sloshing**. **Charge sloshing** arises from the **quadratic divergence of the dielectric matrix** with the **cell length** in **metals**. We will discuss this problem in Sec. IV.\n在**金属体系**中情况显著不同；这里有两种不同的方法：可以坚持只计算**占据轨道**，但正如Annett³⁴正确指出的那样，即使对于**非自洽计算**，收敛到特定精度所需的**迭代次数**也会随**系统大小**的平方根增加。主要问题在于确定**最高占据轨道**，其能量将非常接近**最低未占据轨道**（由于系统大小有限，**能级间距**始终是有限的！）。对于任何**最小化**或**矩阵对角化算法**，如果**费米能级**处的**虚能隙**减小，确定正确的**占据轨道**将变得越来越困难。请记住，这个问题也发生在**能隙**非常小或为零的**半导体**和**分子**中。由于这种行为，在实际计算中通常有利地包含**费米能级**上方的**未占据轨道**。对于**非自洽计算**，我们将在第三节D中展示，我们的方法所需的**迭代次数**始终与**系统大小**无关。为了确保良好的**能量稳定性**，必须同时包含**部分占据**。这可以避免两个**本征值**在**费米能级**处的交叉导致**自洽计算**期间**能带占据**的**不连续性**。此外，**部分占据**也解决了**分子动力学**或**离子弛豫**中的**能级交叉问题**。包含**费米能级**上方的额外**未占据轨道**的一个缺点是必须精确计算**KS轨道**（方程(7)），这使得**电子基态**的计算稍微复杂。**自洽计算**中出现的另一个问题是**电荷晃动**。**电荷晃动**源于**金属**中**介电矩阵**随**晶胞长度**的二次发散。我们将在第四节讨论这个问题。\n**金属体系 (Metallic systems)**: （已解释）\n**迭代次数 (Number of iterations)**: （已解释）\n**系统大小 (System size)**: （已解释）\n**非自洽计算 (Non-self-consistent calculations)**: （已解释）\n**最高占据轨道 (Highest occupied orbital)**: 在电子体系中，能量最高的被电子占据的轨道。\n**最低未占据轨道 (Lowest unoccupied orbitals)**: 在电子体系中，能量最低的未被电子占据的轨道。\n**能级间距 (Level spacing)**: 量子体系中相邻能级之间的能量差。\n**最小化 (Minimization)**: 寻找函数最小值或能量最低点的过程。\n**矩阵对角化算法 (Matrix diagonalization algorithm)**: 对矩阵进行对角化的算法。\n**虚能隙 (Virtual energy gap)**: 费米能级附近的能隙，对于金属通常为零。\n**费米能级 (Fermi level)**: 在绝对零度下，电子占据的最高能量。\n**半导体 (Semiconductors)**: （已解释）\n**分子 (Molecules)**: 由两个或多个原子通过化学键结合而成的物质。\n**能隙 (Gap)**: 电子能带之间的能量间隔。\n**未占据轨道 (Unoccupied orbitals)**: （已解释）\n**能量稳定性 (Energy-stability)**: 体系能量随扰动变化的稳定性。\n**部分占据 (Partial occupancies)**: （已解释）\n**本征值 (Eigenvalues)**: 算符作用于本征函数时产生的值。\n**不连续性 (Discontinuities)**: 函数或物理量在某些点上出现间断。\n**能带占据 (Band occupations)**: 电子在各个能带中的占据情况。\n**自洽计算 (Self-consistent calculation)**: （已解释）\n**能级交叉问题 (Level crossing problem)**: 在分子动力学或离子弛豫过程中，不同能级发生交叉的现象。\n**分子动力学 (Molecular dynamics)**: 一种模拟原子和分子物理运动的方法。\n**离子弛豫 (Ionic relaxations)**: （已解释）\n**KS轨道 (KS orbitals)**: Kohn-Sham方程的本征函数，代表非相互作用粒子的波函数。\n**电子基态 (Electronic ground state)**: （已解释）\n**电荷晃动 (Charge sloshing)**: 在金属体系自洽计算中，电荷密度在不同迭代步之间来回震荡，导致收敛困难的现象。\n**二次发散 (Quadratic divergence)**: 物理量随某个参数的平方发散。\n**介电矩阵 (Dielectric matrix)**: 描述材料对外电场响应的矩阵，包含屏蔽效应。\n**晶胞长度 (Cell length)**: 晶体学中晶胞的边长。\n**金属 (Metals)**: （已解释）\n\n## C. Partial occupancies\n部分占据\n\nThe first one to study the influence of **partial occupancies** on the **KS functional** was **Mermin**,32 who extended the **LDA** to **finite temperatures**. This approach becomes physically significant if the **temperature** of the system is comparable to **characteristic excitation energies**. The impact of **partial occupancies** on the **forces** has probably been first discussed inde pendently by **Weinert** and **Davenport**35 and by **Wentzcovitch**, **Martins**, and **Allen**.36 The second approach to the introduction of **partial occupancies** concentrates on the evaluation of the **energy at zero temperature**: In this case, **partial occupancies** are introduced as a tool for reducing the number of **k points** in the **Brillouin zone** which are necessary to evaluate the **band-structure energy**. One of the most successful approaches in this respect is the **linear tetrahedron** ~**LT**! **method**, in which the **one-electron energies** enk are interpolated linearly between the **k points** defining the corners of the elementary **tetrahedra** filling the **BZ**, and the **integrals**—for instance, for the **band-structure energy**—are performed analytically within each **tetrahedron**.37 **Blöchl**38 has recently revised the **linear tetrahedron method** to give **effective weights** f ($enk%) for each **band** and **k point**. This new formulation gives strictly the same results as the conventional **tetrahedron method** but it is easier to implement in existing **plane-wave codes** like the **Vienna ab initio simulation package** ~**VASP**!. In a second step, **Blöchl** was also able to derive a **correction formula** which removes the **quadratic error** inherent in the **LT method** by going beyond the **linear approximation** and by including the effects of the **curvature of the bands** at the **Fermi surface** ~we will refer to this method as **LT-C**, whereas **LT is the standard linear tetrahedron method**!. The **LT-C method** converges very fast with the number of **k points**, and we consider this method to be the most accurate and most unambiguous method for calculating the **total energy** of **bulk materials** containing a small number of atoms. Nevertheless the method is not applicable to **large supercells** because usually only a very small number of **k points** is used in this case. In addition, one can show that the method is not variational with respect to the **partial occupancies** making the exact evaluation of **forces** at least inconvenient ~see Refs. 38,39!, if not impossible. Because of this we usually use a variant of the so called ‘‘**smearing methods**,’’ which were first introduced by **Fu** and **Ho**40 in the context of **plane-wave pseudopotential calculations**. These methods are, in principle, closely related to the **finite-temperature approach of Mermin**,32 but their main aim is the evaluation of **zero-temperature properties**; i.e., the **broadening of the one-electron energy levels** is only introduced as a mathematical tool to improve the **convergence** with respect to the number of **k points**. Currently we are mainly using the method of **Methfessel** and **Paxton** ~**MP**!:41 They expanded the **step function** ~the **zero-temperature limit of the Fermi-Dirac occupation probability**! in a **complete orthonormal set of functions**. Within this approach the widely used **error function** ~**integral of the Gaussian function**! is only the **lowest order approximation** (N50) of the **step function**, further successive **approximations** (N51,2, . . . ) can be obtained easily. In analogy to **Mermin’s finite-temperature method**, the **total energy** is no longer variational with respect to the **partial occupancies** and has to be replaced by a **generalized free energy functional** with the correct form for the **entropy term** S( f n) ~one feature missing in the original work of **Methfessel** and **Paxton**!. The **free energy** is now given by\n第一个研究**部分占据**对**KS泛函**影响的是**Mermin**³²，他将**LDA**扩展到**有限温度**。如果系统的**温度**与**特征激发能量**相当，这种方法在物理上就变得有意义。**部分占据**对**力**的影响可能最早由**Weinert**和**Davenport**³⁵以及**Wentzcovitch**、**Martins**和**Allen**³⁶独立讨论过。引入**部分占据**的第二种方法侧重于**零温下的能量**评估：在这种情况下，引入**部分占据**作为减少**布里渊区**中评估**能带结构能量**所需的**k点**数量的工具。在这方面最成功的方法之一是**线性四面体 (LT) 方法**，其中**单电子能量**enk在定义填充**BZ**的基本**四面体**角的**k点**之间进行线性插值，并且**积分**——例如，对于**能带结构能量**——在每个**四面体**内解析执行³⁷。**Blöchl**³⁸最近修订了**线性四面体方法**，为每个**能带**和**k点**给出**有效权重**f(enk%)。这种新公式与传统**四面体方法**给出完全相同的结果，但更容易在现有**平面波代码**（如**维也纳从头算模拟包 (VASP)**）中实现。在第二步中，**Blöchl**还推导出了一个**校正公式**，通过超越**线性近似**并包含**费米面**处**能带曲率**的影响，消除了**LT方法**固有的**二次误差**（我们将此方法称为**LT-C**，而**LT是标准的线性四面体方法**！）。**LT-C方法**随**k点**数量的增加收敛非常快，我们认为这种方法是计算包含少量原子的**体材料**的**总能量**最准确、最明确的方法。然而，该方法不适用于**大型超胞**，因为在这种情况下通常只使用非常少量的**k点**。此外，可以证明该方法对于**部分占据**不是变分的，这使得**力**的精确评估至少不方便（参见参考文献38,39），如果不是不可能的话。因此，我们通常使用一种称为“**展宽方法**”的变体，它最早由**Fu**和**Ho**⁴⁰在**平面波赝势计算**的背景下引入。这些方法原则上与**Mermin的有限温度方法**³²密切相关，但其主要目的是评估**零温性质**；即**单电子能级展宽**仅作为一种数学工具引入，以改善相对于**k点**数量的**收敛**。目前我们主要使用**Methfessel**和**Paxton (MP) 方法**⁴¹：他们在一个**完备正交函数集**中展开**阶跃函数**（**Fermi-Dirac占据概率的零温极限**！）。在这种方法中，广泛使用的**误差函数**（**高斯函数的积分**！）仅是**阶跃函数**的**最低阶近似**（N=0），可以轻松获得进一步的连续**近似**（N=1,2,...）。与**Mermin的有限温度方法**类似，**总能量**不再是关于**部分占据**的变分，必须用一个**广义自由能泛函**来替代，该泛函具有**熵项**S(fn)的正确形式（这是**Methfessel**和**Paxton**原始工作中缺失的一个特征！）。**自由能**现在由下式给出：\n**部分占据 (Partial occupancies)**: （已解释）\n**KS泛函 (KS functional)**: （已解释）\n**Mermin**: N. David Mermin，物理学家，以其在统计力学和凝聚态物理中的贡献而闻名。\n**LDA (Local density approximation)**: （已解释）\n**有限温度 (Finite temperatures)**: 温度高于绝对零度的状态。\n**温度 (Temperature)**: 物质冷热程度的量度。\n**特征激发能量 (Characteristic excitation energies)**: 体系中电子或晶格激发所需的典型能量。\n**力 (Forces)**: （已解释）\n**Weinert**: M. Weinert，凝聚态物理计算领域的研究人员。\n**Davenport**: J.W. Davenport，凝聚态物理计算领域的研究人员。\n**Wentzcovitch**: R.M. Wentzcovitch，凝聚态物理计算领域的研究人员。\n**Martins**: J.L. Martins，凝聚态物理计算领域的研究人员。\n**Allen**: P.B. Allen，凝聚态物理计算领域的研究人员。\n**零温下的能量 (Energy at zero temperature)**: 体系在绝对零度下的能量。\n**k点 (k points)**: 在倒空间中，用于对布里渊区积分进行采样的点。\n**布里渊区 (Brillouin zone)**: 倒空间中的一个基本单元，代表晶体中波矢量的范围。\n**能带结构能量 (Band-structure energy)**: 电子在能带结构中的总能量。\n**线性四面体 (LT) 方法 (Linear tetrahedron method)**: 一种用于计算布里渊区积分的插值方法，通过在四面体中线性插值能带能量。\n**单电子能量 (One-electron energies)**: 在独立粒子近似中，单个电子所具有的能量。\n**四面体 (Tetrahedra)**: 几何学中的四面体形状。\n**积分 (Integrals)**: 数学中的积分运算。\n**Blöchl**: P.E. Blöchl，物理学家，以其在投影缀加平面波方法方面的贡献而闻名。\n**有效权重 (Effective weights)**: 在某些数值方法中，对不同点或能带赋予的相对重要性。\n**能带 (Band)**: （已解释）\n**k点 (k point)**: （已解释）\n**平面波代码 (Plane-wave codes)**: 基于平面波基组进行计算的计算机程序。\n**维也纳从头算模拟包 (VASP) (Vienna ab initio simulation package)**: （已解释）\n**校正公式 (Correction formula)**: 用于修正计算结果中误差的公式。\n**二次误差 (Quadratic error)**: 误差项中包含参数的平方项。\n**线性近似 (Linear approximation)**: 将复杂函数近似为线性函数的简化方法。\n**能带曲率 (Curvature of the bands)**: 能带结构中，能量随波矢量变化的曲率。\n**费米面 (Fermi surface)**: 在倒空间中，分隔占据态和未占据态的表面。\n**LT-C**: Linear Tetrahedron method with Curvature correction，具有曲率修正的线性四面体方法。\n**LT**: Linear Tetrahedron method，线性四面体方法。\n**总能量 (Total energy)**: （已解释）\n**体材料 (Bulk materials)**: 大块的、宏观尺度上的材料，其性质不受表面或边缘效应的影响。\n**大型超胞 (Large supercells)**: 包含大量原子的晶体学超胞，用于模拟缺陷或无序体系。\n**展宽方法 (Smearing methods)**: 一种在计算中引入有限温度效应或能量展宽的方法，以改善k点采样的收敛性。\n**Fu**: C.-L. Fu，凝聚态物理计算领域的研究人员。\n**Ho**: K.-M. Ho，凝聚态物理计算领域的研究人员。\n**平面波赝势计算 (Plane-wave pseudopotential calculations)**: 使用平面波基组和赝势的电子结构计算。\n**Mermin的有限温度方法 (Finite-temperature approach of Mermin)**: Mermin将密度泛函理论推广到有限温度的理论框架。\n**零温性质 (Zero-temperature properties)**: 体系在绝对零度下的物理性质。\n**单电子能级展宽 (Broadening of the one-electron energy levels)**: 在展宽方法中，将离散的单电子能级视为具有一定宽度的连续分布。\n**收敛 (Convergence)**: 迭代算法达到稳定或所需精度。\n**Methfessel**: M. Methfessel，物理学家，以其在展宽方法方面的贡献而闻名。\n**Paxton**: A.T. Paxton，物理学家，以其在展宽方法方面的贡献而闻名。\n**MP**: Methfessel-Paxton方法，一种常用的展宽方法。\n**阶跃函数 (Step function)**: 在某个点处发生跳跃的函数，例如单位阶跃函数。\n**Fermi-Dirac占据概率的零温极限 (Zero-temperature limit of the Fermi-Dirac occupation probability)**: Fermi-Dirac分布在温度趋于零时变为阶跃函数。\n**完备正交函数集 (Complete orthonormal set of functions)**: 一组函数，它们相互正交且归一化，并且可以用来展开任意函数。\n**误差函数 (Error function)**: 一种特殊的数学函数，常用于统计和概率论。\n**高斯函数的积分 (Integral of the Gaussian function)**: 误差函数的一种形式。\n**最低阶近似 (Lowest order approximation)**: 函数展开或近似中的第一个非零项。\n**近似 (Approximations)**: 用一个更简单或更容易计算的函数或值来替代复杂函数或值的过程。\n**广义自由能泛函 (Generalized free energy functional)**: 密度泛函理论中，在有限温度下考虑了熵贡献的自由能泛函。\n**熵项 (Entropy term)**: 描述系统无序度的能量贡献。\n**自由能 (Free energy)**: 描述系统在给定温度和体积下可用能量的物理量。\n\n$$",
-      "page": "-"
+      "content": "�13�",
+      "page": "4",
+      "attachment_key": "RDCMJ8PV",
+      "file": "eq_13_RDCMJ8PV.png"
     },
     {
-      "id": "eq14",
+      "id": "eq_14",
       "title": "Equation 14",
-      "content": "$$\n(12)\n\nwhere **SN is defined by**\n其中**SN由下式定义**：\n\n$$",
-      "page": "-"
+      "content": "�14�",
+      "page": "4",
+      "attachment_key": "V5WHE8A5",
+      "file": "eq_14_V5WHE8A5.png"
     },
     {
-      "id": "eq15",
+      "id": "eq_15",
       "title": "Equation 15",
-      "content": "$$\n(13)\n\n**Hm are the Hermite polynomials of degree m** and explicit formulas for Am can be found in Ref. 41. In contrast to the **standard Gaussian method** (N50) or to **Mermin’s finite-temperature approach** the **entropy term** (nsSN@(en2m)/s# for **higher-order approximants** (N51,2, . . . ) will be very small for a reasonable choice of s, and the **deviations from Es50** are only of the order (21N) in s\n其中**Hm是m阶厄米多项式**，Am的显式公式可在参考文献41中找到。与**标准高斯方法**（N=0）或**Mermin的有限温度方法**不同，对于**高阶近似**（N=1,2,...），**熵项**（nsSN[(en-m)/s]）在s的合理选择下将非常小，并且**与Es=0的偏差**仅为s的O(s²¹N)阶：\n**Hm是m阶厄米多项式 (Hm are the Hermite polynomials of degree m)**: 厄米多项式是一类在量子力学中常见的正交多项式。\n**标准高斯方法 (Standard Gaussian method)**: 一种展宽方法，使用高斯函数作为展宽函数。\n**Mermin的有限温度方法 (Mermin’s finite-temperature approach)**: （已解释）\n**熵项 (Entropy term)**: （已解释）\n**高阶近似 (Higher-order approximants)**: 函数展开或近似中包含更高阶项的形式。\n**与Es=0的偏差 (Deviations from Es=0)**: 物理量与在绝对零度下计算的能量之间的差异。\n\n$$",
-      "page": "-"
+      "content": "�15�",
+      "page": "4",
+      "attachment_key": "RYIXE2LS",
+      "file": "eq_15_RYIXE2LS.png"
     },
     {
-      "id": "eq16",
+      "id": "eq_16",
       "title": "Equation 16",
-      "content": "$$\n(14)\n\nIt is interesting to note that an **analytical extrapolation** to s50 is possible16,42 by using\n值得注意的是，通过使用**解析外推**到s=0是可能的¹⁶,⁴²：\n**解析外推 (Analytical extrapolation)**: 基于已知数据点的数学函数，在函数定义域之外进行预测。\n\n$$",
-      "page": "-"
+      "content": "�16�",
+      "page": "4",
+      "attachment_key": "8EGPGUUB",
+      "file": "eq_16_8EGPGUUB.png"
     },
     {
-      "id": "eq17",
+      "id": "eq_17",
       "title": "Equation 17",
-      "content": "$$\n(15)\n\nThis shows that the **difference between the physically meaningful quantity Es50 and F(s)** is proportional to ' (nsSN@(en2m)/s#. For the **MP method**, the **entropy term** is a **simple error estimate** for the **difference between the free energy F and the ‘‘physically’’ correct energy Es50**. s can be increased until this **error estimate** becomes larger than an allowed threshold ~usually 1 meV!). Because the **free energy** and the ‘‘**physical**’’ **energy Es50** are the same except for this **small error** the **forces** calculated as a **derivative of the free energy** are also correct and can be used to determine the **zero- ‘‘temperature’’ ground state**. For more details we refer to Ref. 39.\n这表明**物理上有意义的量Es=0与F(s)之间的差异**与 (nsSN[(en-m)/s] 成正比。对于**MP方法**，**熵项**是**自由能F与“物理上”正确能量Es=0之间的差异**的**简单误差估计**。s可以增加，直到此**误差估计**变得大于允许的阈值（通常为1 meV！）。由于**自由能**和“**物理**”**能量Es=0**除了这种**小误差**外是相同的，因此计算为**自由能导数**的**力**也是正确的，并且可以用于确定**零温基态**。有关更多详细信息，请参阅参考文献39。\n**物理上有意义的量Es=0与F(s)之间的差异 (difference between the physically meaningful quantity Es=0 and F(s))**: 指展宽方法计算的自由能与绝对零度下真实能量之间的差距。\n**MP方法 (MP method)**: Methfessel-Paxton方法。\n**熵项 (entropy term)**: （已解释）\n**简单误差估计 (simple error estimate)**: 对计算中可能存在的误差进行简单的量化。\n**自由能F与“物理上”正确能量Es=0之间的差异 (difference between the free energy F and the ‘‘physically’’ correct energy Es=0)**: （已解释）\n**误差估计 (error estimate)**: 对计算或测量结果中误差大小的估计。\n**自由能 (free energy)**: （已解释）\n**物理能量Es=0 (‘‘physical’’ energy Es=0)**: 体系在绝对零度下的真实能量。\n**小误差 (small error)**: 误差的量级很小，通常可以忽略。\n**力 (forces)**: （已解释）\n**自由能导数 (derivative of the free energy)**: 自由能对某个变量（如离子位置）的导数，给出对应的力。\n**零温基态 (zero- ‘‘temperature’’ ground state)**: 在绝对零度下的最低能量状态。\n\n## D. Self-consistency loop and iterative methods\n自洽循环和迭代方法\n\nThe basic idea of the methods based on the **self-consistency loop** is to split the calculation of the **KS-ground-state** into two independent **subproblems**: one is the determination of the **eigenfunctions** and **eigenvalues** ~i.e., **minimization of the band-structure energy for a fixed charge density or potential**!, the other the calculation of the **self-consistent charge density** ~or **potential**!. One reason why these algorithms are more efficient lies probably in the fact that both **subproblems** are now rather easy to solve and can be ‘‘**preconditioned**’’ separately. At the beginning of a calculation we choose an appropriate set of **trial wave functions** ~usually seeded with a **random number generator**! $fn ;n51, . . . ,Nb% and a reasonable **input charge density** rin . The **initial charge density** corresponds to the **superposition of the atomic pseudocharge densities of the constituents**. From the **input charge density**, the **local potential**\n基于**自洽循环**的方法的基本思想是将**KS基态**的计算分解为两个独立的**子问题**：一个是**本征函数**和**本征值**的确定（即**固定电荷密度或势下的能带结构能量最小化**！），另一个是**自洽电荷密度**（或**势**）的计算。这些算法更高效的一个原因可能在于这两个**子问题**现在都比较容易解决，并且可以分别进行“**预处理**”。在计算开始时，我们选择一组适当的**试探波函数**（通常由**随机数生成器**初始化！）$fn ;n=1, ..., Nb%和一个合理的**输入电荷密度**rin。**初始电荷密度**对应于**组成元素的原子赝电荷密度的叠加**。从**输入电荷密度**中，计算出**局域势**：\n**自洽循环 (Self-consistency loop)**: 在电子结构计算中，迭代地更新电子密度或势直到输入和输出一致的过程。\n**KS基态 (KS-ground-state)**: （已解释）\n**子问题 (Subproblems)**: 较大的计算问题分解为的较小、可管理的部分。\n**本征函数 (Eigenfunctions)**: 算符作用于其上，结果仅是本征函数乘以一个常数的函数。\n**本征值 (Eigenvalues)**: （已解释）\n**固定电荷密度或势下的能带结构能量最小化 (Minimization of the band-structure energy for a fixed charge density or potential)**: 在给定电荷密度或势的条件下，优化电子波函数以最小化能带结构能量。\n**自洽电荷密度 (Self-consistent charge density)**: 在自洽循环中达到收敛的电荷密度。\n**预处理 (Preconditioned)**: （已解释）\n**试探波函数 (Trial wave functions)**: （已解释）\n**随机数生成器 (Random number generator)**: 用于生成伪随机数的算法。\n**输入电荷密度 (Input charge density)**: 自洽循环中作为输入提供给哈密顿量的电荷密度。\n**初始电荷密度 (Initial charge density)**: 计算开始时的电荷密度，通常是原子电荷密度的叠加。\n**组成元素的原子赝电荷密度的叠加 (Superposition of the atomic pseudocharge densities of the constituents)**: 将构成系统的各个原子的赝电荷密度简单地相加。\n**局域势 (Local potential)**: 体系中的局域相互作用势。\n\n$$",
-      "page": "-"
+      "content": "�17�",
+      "page": "4",
+      "attachment_key": "A8X3BNYH",
+      "file": "eq_17_A8X3BNYH.png"
     },
     {
-      "id": "eq18",
+      "id": "eq_18",
       "title": "Equation 18",
-      "content": "$$\n(16)\n\nand the corresponding **double counting corrections**\n以及相应的**双重计数校正**：\n**双重计数校正 (Double counting corrections)**: 在密度泛函理论中，修正某些能量项（如Hartree和交换关联能量）被多次计算的问题。\n\n$$",
-      "page": "-"
+      "content": "�18�",
+      "page": "4",
+      "attachment_key": "CJ79ALTU",
+      "file": "eq_18_CJ79ALTU.png"
     },
     {
-      "id": "eq19",
+      "id": "eq_19",
       "title": "Equation 19",
-      "content": "$$\n(17)\n\nare evaluated. For **ultrasoft pseudopotentials** the **nonlocal part of the pseudopotential** depends also on the **local potential** and must be calculated accordingly @Eq. ~10!#. In the next step the Nb **trial wave functions** are improved using an **iterative method**, and the new **eigenenergies** are used to calculate a new **Fermi energy** and new **partial occupancies**. The **total free energy** for the current **iteration** is calculated as the sum of the **band-structure energy** plus the **entropy term** plus **double counting corrections**,\n被评估。对于**超软赝势**，**赝势的非局域部分**也取决于**局域势**，必须根据（方程(10)）进行计算。在下一步中，使用**迭代方法**改进Nb个**试探波函数**，并使用新的**本征能量**计算新的**费米能级**和新的**部分占据**。当前**迭代**的**总自由能**计算为**能带结构能量**加上**熵项**再加上**双重计数校正**之和：\n**超软赝势 (Ultrasoft pseudopotentials)**: （已解释）\n**赝势的非局域部分 (Nonlocal part of the pseudopotential)**: （已解释）\n**局域势 (local potential)**: （已解释）\n**试探波函数 (trial wave functions)**: （已解释）\n**迭代方法 (iterative method)**: 通过重复执行一系列步骤来逐步逼近解的方法。\n**本征能量 (eigenenergies)**: 对应于本征值的能量。\n**费米能级 (Fermi energy)**: （已解释）\n**部分占据 (partial occupancies)**: （已解释）\n**总自由能 (total free energy)**: （已解释）\n**迭代 (iteration)**: （已解释）\n**能带结构能量 (band-structure energy)**: （已解释）\n**熵项 (entropy term)**: （已解释）\n**双重计数校正 (double counting corrections)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�19�",
+      "page": "5",
+      "attachment_key": "HR8DGJNV",
+      "file": "eq_19_HR8DGJNV.png"
     },
     {
-      "id": "eq20",
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "�A2�",
+      "page": "17",
+      "attachment_key": "42GUZJ4R",
+      "file": "eq_2_42GUZJ4R.png"
+    },
+    {
+      "id": "eq_20",
       "title": "Equation 20",
-      "content": "$$\n(18)\n\nConceptually, the calculated energy corresponds to the en ergy evaluated from the **Harris-Foulkes** ~**HF**! **functional**,43–45 which is **non-self-consistent**—in contrast to the **KS functional**: the **HF functional** @defined in Eq. ~18!# requires the calculation of the **band-structure energy** for a fixed **charge density** rin . With our code it is easy to evaluate this energy keeping the **initial charge density** fixed ~for instance, to the **superposition of atomic pseudocharge densities**! and iterating only the **eigenvectors** until they are **converged**. To get the exact **KS-ground-state energy**, **self-consistency** with respect to the **input charge density** requires that the **charge density residual vector** R@rin#,\n概念上，计算出的能量对应于从**Harris-Foulkes (HF) 泛函**⁴³⁻⁴⁵评估的能量，它是**非自洽**的——与**KS泛函**相反：**HF泛函**（方程(18)中定义）要求在固定**电荷密度**rin下计算**能带结构能量**。使用我们的代码，可以轻松评估此能量，同时保持**初始电荷密度**固定（例如，固定为**原子赝电荷密度的叠加**！）并仅迭代**本征矢量**直到它们**收敛**。为了获得精确的**KS基态能量**，相对于**输入电荷密度**的**自洽性**要求**电荷密度残差矢量**R[rin]，\n**Harris-Foulkes (HF) 泛函 (Harris-Foulkes functional)**: 一种非自洽的能量泛函，可以在不进行电荷密度自洽循环的情况下提供近似的能量。\n**非自洽 (non-self-consistent)**: 不进行自洽循环的计算。\n**KS泛函 (KS functional)**: （已解释）\n**HF泛函 (HF functional)**: Harris-Foulkes泛函。\n**能带结构能量 (band-structure energy)**: （已解释）\n**电荷密度 (charge density)**: （已解释）\n**初始电荷密度 (initial charge density)**: （已解释）\n**原子赝电荷密度的叠加 (superposition of atomic pseudocharge densities)**: （已解释）\n**本征矢量 (eigenvectors)**: 算符作用于其上，结果仅是本征矢量乘以一个常数的矢量。\n**收敛 (converged)**: （已解释）\n**KS基态能量 (KS-ground-state energy)**: Kohn-Sham基态的总能量。\n**自洽性 (self-consistency)**: （已解释）\n**输入电荷密度 (input charge density)**: （已解释）\n**电荷密度残差矢量 (charge density residual vector)**: 输入电荷密度与从计算出的波函数得到的输出电荷密度之间的差异。\n\n$$",
-      "page": "-"
+      "content": "�20�",
+      "page": "5",
+      "attachment_key": "HTSY7RXK",
+      "file": "eq_20_HTSY7RXK.png"
     },
     {
-      "id": "eq21",
+      "id": "eq_21",
       "title": "Equation 21",
-      "content": "$$\n(19)\n\nis zero where the **output charge density** rout is calculated from the **wave functions** using Eq. ~3!. The **residual vector** R@rin# — and possibly information from previous **mixing steps** — allows one to calculate a new **charge density** rin for the next **self-consistency loop**. In principle, it is necessary to evaluate the **eigenfunctions** fn exactly for each new **input charge density**, making rout and the **residual vector** R functionals of the **input charge density** rin only. Nevertheless, even in conjunction with elaborated **Broyden-type mixing techniques**, our results indicate that this is not necessary if the final ~approximate! **wave functions** of the previous **mixing iteration** are used as new **initial trial wave functions**. In this case a few steps in the **iterative matrix diagonalization** are sufficient to get a reliable result for the **charge density residual vector** R. Mind that the **HF energy functional** has a **saddle point** at the **KS-ground-state**, i.e., it is not minimal. Therefore, it is not possible to use a **standard conjugate gradient algorithm** for the determination of the optimal rsc . In Sec. III, we will concentrate on different **iterative methods** for the **diagonalization of the KS Hamiltonian**, Sec. IV will discuss algorithms for the **charge density mixing**.\n为零，其中**输出电荷密度**rout是使用方程(3)从**波函数**计算得出的。**残差矢量**R[rin]——以及可能来自先前**混合步骤**的信息——允许计算下一个**自洽循环**的新的**电荷密度**rin。原则上，对于每个新的**输入电荷密度**，都需要精确评估**本征函数**fn，使得rout和**残差矢量**R仅是**输入电荷密度**rin的泛函。然而，即使结合复杂的**Broyden型混合技术**，我们的结果表明，如果将先前**混合迭代**的最终（近似）**波函数**用作新的**初始试探波函数**，则这不是必需的。在这种情况下，**迭代矩阵对角化**中的几个步骤足以获得**电荷密度残差矢量**R的可靠结果。请注意，**HF能量泛函**在**KS基态**处具有**鞍点**，即它不是极小的。因此，不可能使用**标准共轭梯度算法**来确定最佳的rsc。第三节，我们将重点讨论**KS哈密顿量对角化**的不同**迭代方法**，第四节将讨论**电荷密度混合**的算法。\n**输出电荷密度 (output charge density)**: 从当前迭代计算出的波函数得到的电荷密度。\n**波函数 (wave functions)**: （已解释）\n**残差矢量 (residual vector)**: （已解释，与电荷密度残差矢量类似）\n**混合步骤 (mixing steps)**: 自洽循环中用于更新电荷密度的步骤。\n**自洽循环 (self-consistency loop)**: （已解释）\n**本征函数 (eigenfunctions)**: （已解释）\n**输入电荷密度 (input charge density)**: （已解释）\n**Broyden型混合技术 (Broyden-type mixing techniques)**: 一类准牛顿方法，用于加速自洽循环的收敛。\n**混合迭代 (mixing iteration)**: 混合方案中的一个迭代步。\n**初始试探波函数 (initial trial wave functions)**: （已解释）\n**迭代矩阵对角化 (iterative matrix diagonalization)**: （已解释）\n**电荷密度残差矢量 (charge density residual vector)**: （已解释）\n**HF能量泛函 (HF energy functional)**: Harris-Foulkes能量泛函。\n**鞍点 (saddle point)**: 函数在某一点处，在某些方向上是最大值，在另一些方向上是最小值。\n**KS基态 (KS-ground-state)**: （已解释）\n**标准共轭梯度算法 (standard conjugate gradient algorithm)**: 共轭梯度算法的一种常见形式。\n**迭代方法 (iterative methods)**: （已解释）\n**KS哈密顿量对角化 (diagonalization of the KS Hamiltonian)**: 对Kohn-Sham哈密顿量进行对角化，以获得本征值和本征函数。\n**电荷密度混合 (charge density mixing)**: （已解释）\n\n## E. Forces\n力\n\n**Forces** for the **finite-temperature KS functional** can be obtained easily, and are, in principle, just given by\n**有限温度KS泛函**的**力**可以很容易地获得，原则上仅由下式给出：\n**力 (Forces)**: （已解释）\n**有限温度KS泛函 (finite-temperature KS functional)**: Mermin的有限温度密度泛函理论中的Kohn-Sham自由能泛函。\n\n$$",
-      "page": "-"
+      "content": "�21�",
+      "page": "5",
+      "attachment_key": "72FIMPS6",
+      "file": "eq_21_72FIMPS6.png"
     },
     {
-      "id": "eq22",
+      "id": "eq_22",
       "title": "Equation 22",
-      "content": "$$\n(20)\n\nwhere  ̄F is the **free energy of the system** @Eq. ~1!# plus the **orthonormality constraints** added with appropriate **Lagrange multipliers**.\n其中F̅是**系统自由能**（方程(1)），加上通过适当的**拉格朗日乘子**添加的**正交归一化约束**。\n**系统自由能 (free energy of the system)**: （已解释）\n**正交归一化约束 (orthonormality constraints)**: （已解释）\n**拉格朗日乘子 (Lagrange multipliers)**: 一种数学方法，用于解决带约束的优化问题。\n\nThis formula is exact and contains **Hellmann-Feynman**3 as well as **Pulay contributions**46 ~for a **plane-wave basis set** no **Pulay contributions** exist, but mind that the term **Pulay force** is used quite ambiguously in literature!). A similar formula also holds for the **stress tensor**, and **derivatives with respect to the basis set** are implicitly contained in this definition. It is now easy to show that the **forces** can be rewritten as ~for the **self-consistent case** this equation was first derived in Ref. 47!\n这个公式是精确的，包含了**Hellmann-Feynman**³和**Pulay贡献**⁴⁶（对于**平面波基组**，不存在**Pulay贡献**，但请注意，**Pulay力**这个术语在文献中用得相当模糊！）。类似的公式也适用于**应力张量**，并且**相对于基组的导数**隐含地包含在此定义中。现在很容易证明**力**可以改写为（对于**自洽情况**，该方程最早在参考文献47中导出！）：\n**Hellmann-Feynman**: 赫尔曼-费曼，物理学家，以其在量子力学和化学键合方面的贡献而闻名。\n**Pulay贡献 (Pulay contributions)**: 在原子位置变化时，由于基组不是原子位置的本征函数而产生的力项。\n**平面波基组 (plane-wave basis set)**: （已解释）\n**Pulay力 (Pulay force)**: 与Pulay贡献相关的力。\n**应力张量 (stress tensor)**: 描述材料内部作用力的张量。\n**相对于基组的导数 (derivatives with respect to the basis set)**: 在变分法中，能量对基组参数的导数。\n**力 (forces)**: （已解释）\n**自洽情况 (self-consistent case)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�22�",
+      "page": "5",
+      "attachment_key": "XAWCZM9P",
+      "file": "eq_22_XAWCZM9P.png"
     },
     {
-      "id": "eq23",
+      "id": "eq_23",
       "title": "Equation 23",
-      "content": "$$\n(21)\n\nwhere Cnq is the **expansion coefficient** of fn for the **plane-wave component** q, i.e.,\n其中Cnq是fn在**平面波分量**q上的**展开系数**，即：\n**展开系数 (expansion coefficient)**: 在基组展开中，表示每个基函数的权重。\n**平面波分量 (plane-wave component)**: 构成平面波基组的单个平面波。\n\n$$",
-      "page": "-"
+      "content": "�23�",
+      "page": "5",
+      "attachment_key": "HZEP2AXH",
+      "file": "eq_23_HZEP2AXH.png"
     },
     {
-      "id": "eq24",
+      "id": "eq_24",
       "title": "Equation 24",
-      "content": "$$\n(22)\n\nand\n并且\n$$",
-      "page": "-"
+      "content": "�24�",
+      "page": "5",
+      "attachment_key": "8VZVIXJB",
+      "file": "eq_24_8VZVIXJB.png"
     },
     {
-      "id": "eq25",
+      "id": "eq_25",
       "title": "Equation 25",
-      "content": "$$\n(23)\n\nIn Eq. ~21! changes of the **Hamiltonian** H due to changes in the **self-consistent charge density** rsc must not be calculated ~because of the **augmentation charges** the **charge density** rsc depends explicitly on the **ionic positions** for **US-PP**!. For further details we refer to Refs. 30 and 31. One complication arises from the fact that we are using the **Harris-Foulkes functional** instead of the exact **Kohn-Sham functional**, but looking carefully at the **Harris-Foulkes functional** it is possible to obtain a **correction formula** for the **forces**. If the **input charge density** rin for the **Harris-Foulkes functional** is calculated from the **atomic charge densities of the constituents** ~i.e., for **non-self-consistent calculations**!, a **Pulay-like additional term** arises that accounts for the fact that the **input charge density** depends explicitly on the **atomic coordinates**. In this case, H in Eq. ~21! has to be replaced by the **Hamiltonian** calculated from the **superposition of the atomic charge densities**, H@ratom ,$R%#, and the term\n在方程(21)中，**哈密顿量**H由于**自洽电荷密度**rsc的变化而产生的变化不应计算（因为对于**US-PP**，**缀加电荷**使得**电荷密度**rsc明确依赖于**离子位置**！）。有关更多详细信息，请参阅参考文献30和31。一个复杂之处在于我们使用**Harris-Foulkes泛函**而不是精确的**Kohn-Sham泛函**，但仔细研究**Harris-Foulkes泛函**，可以获得**力**的**校正公式**。如果**Harris-Foulkes泛函**的**输入电荷密度**rin是从**组成元素的原子电荷密度**计算得出的（即对于**非自洽计算**！），则会产生一个**类似Pulay的附加项**，解释了**输入电荷密度**明确依赖于**原子坐标**的事实。在这种情况下，方程(21)中的H必须替换为从**原子电荷密度的叠加**计算出的**哈密顿量**，H[ratom, {R}]，并且必须添加该项：\n**哈密顿量 (Hamiltonian)**: （已解释）\n**自洽电荷密度 (self-consistent charge density)**: （已解释）\n**缀加电荷 (augmentation charges)**: 在投影缀加平面波方法中，用于修正赝势区域电荷密度的修正项。\n**电荷密度 (charge density)**: （已解释）\n**离子位置 (ionic positions)**: 晶格中离子的空间坐标。\n**US-PP**: （已解释）\n**Harris-Foulkes泛函 (Harris-Foulkes functional)**: （已解释）\n**Kohn-Sham functional**: （已解释，与KS泛函类似）\n**校正公式 (correction formula)**: （已解释）\n**力 (forces)**: （已解释）\n**输入电荷密度 (input charge density)**: （已解释）\n**原子电荷密度 (atomic charge densities)**: 单个原子的电子电荷分布。\n**组成元素的原子电荷密度 (atomic charge densities of the constituents)**: 构成系统的各个原子的电荷分布。\n**非自洽计算 (non-self-consistent calculations)**: （已解释）\n**类似Pulay的附加项 (Pulay-like additional term)**: 与Pulay力贡献类似的修正项。\n**原子坐标 (atomic coordinates)**: 原子在空间中的位置。\n**哈密顿量 (Hamiltonian)**: （已解释）\n**原子电荷密度的叠加 (superposition of the atomic charge densities)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�25�",
+      "page": "5",
+      "attachment_key": "86SMYT3Y",
+      "file": "eq_25_86SMYT3Y.png"
     },
     {
-      "id": "eq26",
-      "title": "Equation 26",
-      "content": "$$\n(24)\n\nhas to be added to the **forces**. In Eq. ~21! changes of the **Hamiltonian** H due to changes in the **input charge density** ratom have to be omitted as in the **self-consistent case**. We have found that the analogous **correction formula**\n必须加到**力**中。在方程(21)中，由于**输入电荷密度**ratom的变化引起的**哈密顿量**H的变化必须像**自洽情况**一样省略。我们发现类似的**校正公式**：\n**力 (forces)**: （已解释）\n**哈密顿量 (Hamiltonian)**: （已解释）\n**输入电荷密度 (input charge density)**: （已解释）\n**自洽情况 (self-consistent case)**: （已解释）\n**校正公式 (correction formula)**: （已解释）\n\n$$",
-      "page": "-"
-    },
-    {
-      "id": "eq27",
+      "id": "eq_27",
       "title": "Equation 27",
-      "content": "$$\n(25)\n\nalso improves the **convergence of the forces** during a **self-consistent calculation** ~this formula is very much in the spirit of Ref. 48!). In this case, H in Eq. ~21! has to be replaced by H@rin ,$R%#, where rin is the **charge density** obtained in the previous **iteration**. In principle, it is necessary to evaluate the **change of rin** if the ions move „i.e., the first term in Eq. ~25! should be ]@VH(rin)1Vxc(rin)#/]RN!; it is not possible. However, simply replacing the **change of rin** by the **change of a superposition of atomic charges** ratom leading to Eq. ~25! provides an **excellent approximation**. This **correction formula** improves the **precision of the forces** by almost two orders of magnitude and allows the **self-consistency cycle** to stop much earlier. This is demonstrated in Fig. 1, where the **convergence of the forces** is compared for different algorithms for a long cell containing 16 Fe atoms ~see Sec. V A 2!). It can be seen that the **optimized scheme** ~opt! explained here results in the best overall performance. Mind, that a **similar convergence rate** might be obtained by using the **mixed charge density** ~mix! ~Sec. IV! for the calculation of the **local contribution to the forces**, i.e.,\n在**自洽计算**过程中，也能改善**力**的**收敛性**（这个公式与参考文献48的精神非常一致！）。在这种情况下，方程(21)中的H必须替换为H[rin, {R}]，其中rin是前一次**迭代**中获得的**电荷密度**。原则上，如果离子移动，则需要评估**rin的变化**（即，方程(25)中的第一项应该是∂[VH(rin)+Vxc(rin)]/∂RN！）；但这不可能。然而，简单地将**rin的变化**替换为**原子电荷叠加的变化**ratom，从而得到方程(25)，提供了一个**极好的近似**。这个**校正公式**将**力**的**精度**提高了近两个数量级，并允许**自洽循环**更早停止。图1证明了这一点，其中比较了包含16个铁原子的长晶胞（参见第五节A2）不同算法的**力**的**收敛性**。可以看出，这里解释的**优化方案**（opt）产生了最佳的整体性能。请注意，使用**混合电荷密度**（mix）（第四节）计算**力**的**局域贡献**，可以获得**相似的收敛速度**，即：\n**力收敛 (convergence of the forces)**: 计算出的力达到稳定或所需精度的过程。\n**自洽计算 (self-consistent calculation)**: （已解释）\n**迭代 (iteration)**: （已解释）\n**电荷密度 (charge density)**: （已解释）\n**rin的变化 (change of rin)**: 输入电荷密度的变化。\n**原子电荷叠加的变化 (change of a superposition of atomic charges)**: 原子电荷密度叠加的改变。\n**极好的近似 (excellent approximation)**: 非常准确的近似。\n**校正公式 (correction formula)**: （已解释）\n**力精度 (precision of the forces)**: 计算出的力的精确程度。\n**自洽循环 (self-consistency cycle)**: （已解释）\n**力收敛 (convergence of the forces)**: （已解释）\n**优化方案 (optimized scheme)**: 经过优化的计算方案。\n**相似的收敛速度 (similar convergence rate)**: 算法达到收敛的速度相似。\n**混合电荷密度 (mixed charge density)**: 在自洽循环中，通过混合旧的输入和新的输出来获得的电荷密度。\n**力局域贡献 (local contribution to the forces)**: 作用力中来自局域相互作用的部分。\n\n$$",
-      "page": "-"
+      "content": "�27�",
+      "page": "6",
+      "attachment_key": "M9SSQKEY",
+      "file": "eq_27_M9SSQKEY.png"
     },
     {
-      "id": "eq28",
+      "id": "eq_28",
       "title": "Equation 28",
-      "content": "$$\n(26)\n\nEspecially this part of the **forces** is very sensitive to **changes in the charge density**. The use of the **output charge density** ~out!—i.e., the left side of Eq. ~26!—without the **correction term** @Eq. ~25!# makes the **forces** worse by a factor 100 ~see Fig. 1!).\n特别是**力**的这一部分对**电荷密度的变化**非常敏感。使用**输出电荷密度**（out）——即方程(26)的左侧——而不带**校正项**（方程(25)），会使**力**的计算结果差100倍（参见图1！）。\n**力 (forces)**: （已解释）\n**电荷密度的变化 (changes in the charge density)**: 电荷分布的改变。\n**输出电荷密度 (output charge density)**: （已解释）\n**校正项 (correction term)**: 用于修正计算结果的额外项。\n\nFIG. 1. **Convergence of the forces** ~in eV/Å) for different algorithms for fcc-Fe ~four cells!. ‘‘out’’—**output charge density** was used for the calculation, ‘‘mix’’—**mixed charge density** was used, and ‘‘opt’’—is the **optimized scheme** explained in the text.\n图1. 面心立方铁（四晶胞）不同算法的**力收敛**（单位：eV/Å）。“out”——计算使用了**输出电荷密度**，“mix”——使用了**混合电荷密度**，“opt”——是文中解释的**优化方案**。\n**力收敛 (Convergence of the forces)**: （已解释）\n**输出电荷密度 (output charge density)**: （已解释）\n**混合电荷密度 (mixed charge density)**: （已解释）\n**优化方案 (optimized scheme)**: （已解释）\n\n## III. ITERATIVE METHODS FOR THE DIAGONALIZATION OF THE KS HAMILTONIAN\nKS哈密顿量对角化的迭代方法\n\nIt is clear that a **fast iterative matrix diagonalization** is one of the **key points** within our algorithm. We have tested several methods: ~i! the **blocked Davidson scheme**, which was first proposed by **Davidson**49 and later modified by **Liu** for a **simultaneous update of all bands**,50 ~ii! the **sequential CG algorithm** proposed by **Teter et al.**,14 and later used by **Bylander**, **Kleinman**, and **Lee**51 for the **iterative diagonalization of the KS Hamiltonian**, and ~iii! a new variant of the **residual vector minimization scheme**—**direct inversion in the iterative subspace** ~**RMM-DIIS**!.53,54 We have found that our variant of the **RMM-DIIS scheme** is generally most efficient for **large systems**, whereas the **sequential CG method** is marginally more efficient for **small systems**. We will, therefore, concentrate on these two approaches. For a more elaborated comparison of different **matrix diagonalization schemes** we refer to Ref. 39.\n很明显，**快速迭代矩阵对角化**是我们算法中的**关键点**之一。我们测试了几种方法：(i)**分块Davidson方案**，由**Davidson**⁴⁹首次提出，后来由**Liu**⁵⁰修改用于**同时更新所有能带**；(ii)**序贯CG算法**，由**Teter等人**¹⁴提出，后来由**Bylander**、**Kleinman**和**Lee**⁵¹用于**KS哈密顿量**的**迭代对角化**；(iii)**残差矢量最小化方案**的一种新变体——**迭代子空间直接反演 (RMM-DIIS)**⁵³,⁵⁴。我们发现，我们的**RMM-DIIS方案**变体通常对**大型系统**最有效，而**序贯CG方法**对**小型系统**略微更有效。因此，我们将重点关注这两种方法。有关不同**矩阵对角化方案**的更详细比较，请参阅参考文献39。\n**快速迭代矩阵对角化 (fast iterative matrix diagonalization)**: 通过迭代过程快速对矩阵进行对角化。\n**关键点 (key points)**: 算法中最重要的组成部分。\n**分块Davidson方案 (blocked Davidson scheme)**: Davidson方法的一种变体，通过同时处理多个向量（“分块”）来加速对角化。\n**Davidson**: E.R. Davidson，量子化学家，以其在计算量子化学和Davidson方法方面的贡献而闻名。\n**Liu**: B. Liu，计算化学家，在Davidson方法方面有贡献。\n**同时更新所有能带 (simultaneous update of all bands)**: 在迭代对角化过程中，同时更新所有电子能带的波函数。\n**序贯CG算法 (sequential CG algorithm)**: 一种逐个或顺序优化能带的共轭梯度算法。\n**Teter et al.**: M.P. Teter等人，量子力学计算领域的研究人员。\n**Bylander**: D.M. Bylander，凝聚态物理计算领域的研究人员。\n**Kleinman**: L. Kleinman，凝聚态物理计算领域的研究人员。\n**Lee**: S. Lee，凝聚态物理计算领域的研究人员。\n**KS哈密顿量迭代对角化 (iterative diagonalization of the KS Hamiltonian)**: 通过迭代方法求解Kohn-Sham哈密顿量的本征值和本征函数。\n**残差矢量最小化方案 (residual vector minimization scheme)**: 一类优化算法，通过最小化残差矢量的范数来寻找解。\n**迭代子空间直接反演 (RMM-DIIS) (Direct inversion in the iterative subspace)**: 残差最小化方法中的DIIS技术。\n**RMM-DIIS方案 (RMM-DIIS scheme)**: 残差最小化方法-迭代子空间直接反演方案。\n**大型系统 (large systems)**: 包含大量原子或电子的系统。\n**小型系统 (small systems)**: 包含少量原子或电子的系统。\n**矩阵对角化方案 (matrix diagonalization schemes)**: 对矩阵进行对角化的不同算法或方法。\n\n## A. Sequential conjugate gradient „CG... minimization\n序贯共轭梯度（CG）最小化\n\nThis algorithm proposed by **Teter et al.**14 was originally used to minimize the **total energy directly**. It is straightforward to apply this algorithm to the **diagonalization of large matrices**.51 The algorithm is strictly **sequential**, i.e., one **band** is optimized usually several times and then a move to the next **band** is done. For the **optimization of each band** a **standard CG** ~Refs. 12 and 13! **algorithm** is used in which the **expectation value of the Hamiltonian** for one specific **band** is optimized:\n该算法由**Teter等人**¹⁴提出，最初用于**直接最小化总能量**。将该算法应用于**大型矩阵的对角化**⁵¹是直接的。该算法是严格**序贯的**，即一个**能带**通常被优化数次，然后转移到下一个**能带**。对于**每个能带的优化**，使用**标准CG**（参考文献12和13）**算法**，其中优化特定**能带**的**哈密顿量期望值**：\n**Teter et al.**: （已解释）\n**直接最小化总能量 (minimize the total energy directly)**: 不通过自洽循环，而是直接优化电子波函数来寻找最低总能量。\n**大型矩阵的对角化 (diagonalization of large matrices)**: （已解释）\n**序贯 (sequential)**: 算法按顺序处理每个元素或步骤。\n**能带 (band)**: （已解释）\n**每个能带的优化 (optimization of each band)**: 独立地优化每个电子能带的波函数。\n**标准CG算法 (standard CG algorithm)**: （已解释）\n**哈密顿量期望值 (expectation value of the Hamiltonian)**: 在量子力学中，哈密顿量算符在某一状态下的平均值，即能量。\n\n$$",
-      "page": "-"
+      "content": "�28�",
+      "page": "6",
+      "attachment_key": "DCXWBYKQ",
+      "file": "eq_28_DCXWBYKQ.png"
     },
     {
-      "id": "eq29",
+      "id": "eq_29",
       "title": "Equation 29",
-      "content": "$$\n(27)\n\nThis quantity is called **Rayleigh quotient**. Variation of the **Rayleigh quotient** with respect to ^fmu leads to the **residual vector** defined as\n这个量称为**Rayleigh商**。**Rayleigh商**相对于&lt;f_m|的变分导致定义为：\n**Rayleigh商 (Rayleigh quotient)**: 在线性代数中，对于厄米矩阵，Rayleigh商是其本征值的加权平均，并可用于估计本征值。\n**残差矢量 (residual vector)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�29�",
+      "page": "6",
+      "attachment_key": "88THKU27",
+      "file": "eq_29_88THKU27.png"
     },
     {
-      "id": "eq30",
-      "title": "Equation 30",
-      "content": "$$\n(28)\n\nif ^fmuSufm&amp;51. To ensure that **orthonormality to all other bands** is maintained, **Lagrange multipliers** must be introduced resulting in the following **gradient vector**:\n如果&lt;f_m|S|f_m&gt;=1。为了确保保持**与所有其他能带的正交归一化**，必须引入**拉格朗日乘子**，从而得到以下**梯度矢量**：\n**与所有其他能带的正交归一化 (orthonormality to all other bands)**: 确保某个能带的波函数与所有其他能带的波函数相互正交且归一化。\n**拉格朗日乘子 (Lagrange multipliers)**: （已解释）\n**梯度矢量 (gradient vector)**: 函数在某一点处指向函数增长最快方向的矢量。\n\n$$",
-      "page": "-"
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "�A3�",
+      "page": "17",
+      "attachment_key": "HRFTLWJJ",
+      "file": "eq_3_HRFTLWJJ.png"
     },
     {
-      "id": "eq31",
+      "id": "eq_31",
       "title": "Equation 31",
-      "content": "$$\n(29)\n\nwith K51. **Minimization is done along this gradient vector**, respectively, the **conjugated gradient vector**. To improve the efficiency we have adopted the **preconditioning function** proposed by **Teter et al.** :14 In this case K is given by\n其中K=1。**最小化沿此梯度矢量**（或其**共轭梯度矢量**）进行。为了提高效率，我们采用了**Teter等人**¹⁴提出的**预处理函数**：在这种情况下，K由下式给出：\n**沿此梯度矢量最小化 (Minimization is done along this gradient vector)**: 在优化算法中，搜索方向是沿着梯度的方向。\n**共轭梯度矢量 (conjugated gradient vector)**: 在共轭梯度法中，与前一步搜索方向共轭的梯度矢量。\n**预处理函数 (preconditioning function)**: （已解释，与预处理类似）\n**Teter et al.**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�31�",
+      "page": "6",
+      "attachment_key": "IRLBA69R",
+      "file": "eq_31_IRLBA69R.png"
     },
     {
-      "id": "eq32",
+      "id": "eq_32",
       "title": "Equation 32",
-      "content": "$$\n(30)\n\nwith x5 \\2\n2me\nq2\n3/2Ekin~ R ! , ~30!\n其中 $x = \\frac{\\hbar^2 q^2}{2m_e \\frac{3}{2}E_{kin}(R)}$。\n**动能 (kinetic energy)**: 粒子由于运动所具有的能量。\nThere are only two minor changes with respect to Ref. 14: First, we use 3/2Ekin(R) instead of Ekin(R) in the definition of x, resulting in a slightly improved **convergence** for most elements. Second, we multiply the **preconditioning function** by a factor 2/@3/2Ekin(R)#. Using this factor the **diagonal part of the preconditioning matrix K** converges towards\n相对于参考文献14，只有两个小的修改：首先，我们在x的定义中使用了3/2E_kin(R)而不是E_kin(R)，这使得大多数元素的**收敛性**略有改善。其次，我们将**预处理函数**乘以因子2/[3/2E_kin(R)]。使用这个因子，**预处理矩阵K的对角部分**收敛到：\n**收敛 (convergence)**: （已解释）\n**预处理函数 (preconditioning function)**: （已解释）\n**预处理矩阵K的对角部分 (diagonal part of the preconditioning matrix K)**: 预处理矩阵中对角线上的元素。\n\n$$",
-      "page": "-"
+      "content": "�32�",
+      "page": "6",
+      "attachment_key": "LXBDHL46",
+      "file": "eq_32_LXBDHL46.png"
     },
     {
-      "id": "eq33",
+      "id": "eq_33",
       "title": "Equation 33",
-      "content": "$$\n(31)\n\nfor large q resulting in a more convenient ‘‘length’’ of the **correction vector** ug(fm)&amp;. The **CG scheme** is actually very stable and reasonably efficient, but there is one minor complication. The **sequential algorithm** described here leads to **ground-state eigenvalues** and **eigenvectors** which represent only an arbitrary **linear combination** @in the sense of an **unitary transformation**, Eq. ~11!# of the exact **KS eigenstates**. As already mentioned this is sufficient for **semiconductors** and **insulators** if one calculates only **occupied bands**. But for **metals** we need the **true Kohn–Sham eigenstates**. In this case it is convenient to add one additional step, which is called **subspace rotation**. In this step the final improved **wave functions** $fm ;m51, . . . ,Nb% are **unitarily transformed** in such a way that the **Hamiltonian matrix** becomes **diagonal** in the **subspace** spanned by the **transformed wave functions** ~this is in the spirit of the **Rayleigh-Ritz scheme**52!). This requires first the evaluation of the **Hamilton matrix** ~and possibly the **overlap matrix**! in the **subspace** $fm%\n对于大q，从而使**校正矢量**g(f_m)具有更方便的“长度”。**CG方案**实际上非常稳定且效率合理，但有一个小小的复杂性。这里描述的**序贯算法**产生的**基态本征值**和**本征矢量**，仅代表精确**KS本征态**的任意**线性组合**（在**幺正变换**的意义上，方程(11)）。正如已经提到的，如果只计算**占据带**，这对于**半导体**和**绝缘体**是足够的。但对于**金属**，我们需要**真正的Kohn-Sham本征态**。在这种情况下，添加一个额外的步骤是方便的，称为**子空间旋转**。在此步骤中，最终改进的**波函数**f_m（m=1, ..., Nb）被**幺正变换**，使得**哈密顿矩阵**在由**变换后的波函数**张成的**子空间**中变为**对角**（这符合**Rayleigh-Ritz方案**⁵²的精神！）。这首先需要评估**子空间**f_m中的**哈密顿矩阵**（以及可能的**重叠矩阵**！）：\n**校正矢量 (correction vector)**: 在迭代优化中，用于修正当前解的矢量。\n**CG方案 (CG scheme)**: 共轭梯度方案。\n**序贯算法 (sequential algorithm)**: （已解释）\n**基态本征值 (ground-state eigenvalues)**: 系统基态的本征值。\n**本征矢量 (eigenvectors)**: （已解释）\n**线性组合 (linear combination)**: 多个矢量通过系数相加的形式。\n**幺正变换 (unitary transformation)**: （已解释）\n**KS本征态 (KS eigenstates)**: Kohn-Sham方程的本征态。\n**半导体 (semiconductors)**: （已解释）\n**绝缘体 (insulators)**: （已解释）\n**占据带 (occupied bands)**: （已解释）\n**金属 (metals)**: （已解释）\n**真正的Kohn-Sham本征态 (true Kohn–Sham eigenstates)**: Kohn-Sham方程的真实本征解。\n**子空间旋转 (subspace rotation)**: 在对角化算法中，通过酉变换使得波函数在特定子空间内正交的过程。\n**波函数 (wave functions)**: （已解释）\n**幺正变换 (unitarily transformed)**: 经过幺正变换。\n**哈密顿矩阵 (Hamiltonian matrix)**: 哈密顿量在某个基组下的矩阵表示。\n**对角 (diagonal)**: 矩阵中除对角线元素外，所有元素均为零。\n**子空间 (subspace)**: 矢量空间的一个子集，本身也是一个矢量空间。\n**变换后的波函数 (transformed wave functions)**: 经过幺正变换后的波函数。\n**Rayleigh-Ritz方案 (Rayleigh-Ritz scheme)**: 一种变分方法，用于近似求解本征值问题。\n**哈密顿矩阵 (Hamilton matrix)**: （已解释）\n**重叠矩阵 (overlap matrix)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�33�",
+      "page": "6",
+      "attachment_key": "ZANNYPAG",
+      "file": "eq_33_ZANNYPAG.png"
     },
     {
-      "id": "eq34",
+      "id": "eq_34",
       "title": "Equation 34",
-      "content": "$$\n(32)\n\nand then the **diagonalization of this small Hamiltonian**, using a **conventional matrix diagonalization scheme**, i.e.,\n然后使用**常规矩阵对角化方案**对这个**小哈密顿量**进行**对角化**，即：\n**小哈密顿量对角化 (diagonalization of this small Hamiltonian)**: 对在子空间中构建的较小哈密顿矩阵进行对角化。\n**常规矩阵对角化方案 (conventional matrix diagonalization scheme)**: 例如，Jacobi方法、QR算法等。\n\n$$",
-      "page": "-"
+      "content": "�34�",
+      "page": "6",
+      "attachment_key": "U89VKXZ2",
+      "file": "eq_34_U89VKXZ2.png"
     },
     {
-      "id": "eq35",
+      "id": "eq_35",
       "title": "Equation 35",
-      "content": "$$\n(33)\n\nThe **lowest eigenvalue-eigenvector pairs**\n**最低本征值-本征矢量对**：\n**最低本征值-本征矢量对 (lowest eigenvalue-eigenvector pairs)**: 矩阵或算符的本征值和对应的本征矢量中，能量最低的几个对。\n\n$$",
-      "page": "-"
+      "content": "�35�",
+      "page": "7",
+      "attachment_key": "EPGSCHGP",
+      "file": "eq_35_EPGSCHGP.png"
     },
     {
-      "id": "eq36",
+      "id": "eq_36",
       "title": "Equation 36",
-      "content": "$$\n(34)\n\ncorrespond to the **best approximation of the exact lowest eigenvalues and eigenvectors within the subspace** spanned by $fm% .\n对应于由f_m张成的**子空间内精确最低本征值和本征矢量的最佳近似**。\n**子空间内精确最低本征值和本征矢量的最佳近似 (best approximation of the exact lowest eigenvalues and eigenvectors within the subspace)**: 在限定的函数空间中，最接近真实最低本征值和本征矢量的解。\n\nMind, that there is at least one alternative to the **subspace rotation**: If the **orthonormalization of the search vector** is restricted to those **bands** which are lower or equal in energy than the **actual band** ~this is sufficient to ensure **stability of the algorithm**, but it requires of course a **global reorthonormalization of all bands afterwards**, e.g., applying a **Gram-Schmidt orthogonalization**!, we would also observe **convergence towards the real Kohn-Sham eigenstates**. The reason is simple: Here no **constraint** is imposed on the **lowest state** guaranteeing that it converges to the **absolute minimal eigenvalue**, i.e., the **true lowest KS eigenstate**. The **second-lowest state** is only constrained to be **orthonormal** to the **lowest state** but again no further **restrictions** are applied, guaranteeing **convergence towards the exact second-lowest KS state**, and so on. Nevertheless, considering Sec. III D it becomes clear that this algorithm requires more and more **iterations** if the **system size** increases ~i.e., if the **spacing of the eigenvalues** decreases!).\n请注意，**子空间旋转**至少还有一种替代方案：如果**搜索矢量**的**正交归一化**仅限于能量低于或等于**当前能带**的那些**能带**（这足以确保**算法的稳定性**，但当然需要随后对**所有能带进行全局重新正交归一化**，例如，应用**Gram-Schmidt正交化**！），我们也将观察到**向真实Kohn-Sham本征态的收敛**。原因很简单：这里没有对**最低态**施加**约束**，以保证它收敛到**绝对最小本征值**，即**真正的最低KS本征态**。**次低态**仅限于与**最低态****正交归一化**，但没有进一步施加**限制**，从而保证**向精确次低KS态的收敛**，依此类推。然而，考虑到第三节D，很明显，如果**系统大小**增加（即**本征值间距**减小！），该算法将需要越来越多的**迭代**。\n**子空间旋转 (subspace rotation)**: （已解释）\n**搜索矢量正交归一化 (orthonormalization of the search vector)**: 在迭代算法中，将搜索方向矢量进行正交归一化处理。\n**能带 (bands)**: （已解释）\n**当前能带 (actual band)**: 在逐带优化算法中，正在被优化的那个能带。\n**算法稳定性 (stability of the algorithm)**: 算法在不同输入或参数下是否能保持正常运行并产生合理结果的特性。\n**所有能带全局重新正交归一化 (global reorthonormalization of all bands afterwards)**: 在逐带优化后，对所有能带的波函数进行整体的正交归一化处理。\n**Gram-Schmidt正交化 (Gram-Schmidt orthogonalization)**: 一种将一组线性无关矢量转换为正交或正交归一化矢量的过程。\n**向真实Kohn-Sham本征态的收敛 (convergence towards the real Kohn-Sham eigenstates)**: 算法结果趋近于Kohn-Sham方程的真实本征态。\n**约束 (constraint)**: 对变量或函数施加的限制条件。\n**最低态 (lowest state)**: 能量最低的量子态。\n**绝对最小本征值 (absolute minimal eigenvalue)**: 矩阵或算符的最小本征值。\n**真正的最低KS本征态 (true lowest KS eigenstate)**: Kohn-Sham方程的真实最低能量本征态。\n**次低态 (second-lowest state)**: 能量次低的量子态。\n**正交归一化 (orthonormal)**: 同时满足正交和归一化条件。\n**限制 (restrictions)**: 额外施加的条件或约束。\n**向精确次低KS态的收敛 (convergence towards the exact second-lowest KS state)**: 算法结果趋近于Kohn-Sham方程的真实次低能量本征态。\n**迭代 (iterations)**: （已解释）\n**系统大小 (system size)**: （已解释）\n**本征值间距 (spacing of the eigenvalues)**: 体系本征值之间的能量差。\n\n## B. Residual minimization method—direct inversion in the iterative subspace „RMM-DIIS...\n残差最小化方法——迭代子空间直接反演（RMM-DIIS）\n\nThe only remaining drawback of the **CG algorithm** is the necessity for an **explicit orthonormalization of the preconditioned residual vector** KuR(fm)&amp; to the current set of **trial wave functions** @Eq. ~29!#. This operation is the most **time consuming part** for **large-size problems** because one single vector must be **orthonormalized** to a **large number of other vectors** for each single **band update**. This requires a very **high bandwidth** from the **main computer memory** to the **central processing unit** ~**CPU**!, i.e., the **peak bandwidth** from the **main memory** to the **CPU** and not the **peak floating-point performance of the CPU** becomes often the **limiting factor**. Unfortunately avoiding the **orthonormalization** is not possible applying the **CG algorithm** discussed above. An **unrestricted CG scheme** applied to the **minimization of the Rayleigh quotient** will always determine the **lowest possible eigenvalue**, i.e., if the **orthonormalization** is not done the algorithm will **converge** from any **starting point** towards the **lowest eigenvector of the Hamiltonian**. Ultimately, this **property** is connected with the fact that the **Rayleigh quotient** is **stationary** at each **eigenvector** but it does not possess a **minimum** except for the **lowest eigenvalue** ~i.e., the **Rayleigh quotient** can be lowered by moving towards **lower eigenvalues**!). Only the **explicit orthonormalization** makes it possible to achieve a **stable and efficient convergence** to a **selected eigenvalue**. Fortunately, a solution to this problem exists which was first proposed by **Wood** and **Zunger**.54 **Minimizing the norm of the residual vector** ~hence the name **residual minimization method**! instead of the **Rayleigh quotient** makes the **orthonormalization** unnecessary ~at least, in principle! because the **norm of the residual vector** has an **unconstrained local minimum** at each **eigenvector** ~the **norm of the residual vector** is clearly **positive definite**!). In our implementation we use the **original minimization method** proposed by **Pulay**53 and not the variant proposed by **Wood** and **Zunger**.54 **Wood’s algorithm** requires the additional calculation and storage of Suf&amp;, and is therefore slower than our algorithm. We start with an evaluation of the **preconditioned residual vector** KuR0m&amp;5KuR(f0m)&amp; for a **selected band** m. Then a **Jacobi-like trial step** along this direction is done\n**CG算法**唯一剩下的缺点是需要对**预处理残差矢量**K|R(f_m)&gt;进行**显式正交归一化**，使其与当前的**试探波函数**集（方程(29)）正交。对于**大型问题**，此操作是**最耗时的部分**，因为在每次**能带更新**时，单个矢量必须与**大量其他矢量**进行**正交归一化**。这需要**计算机主内存**到**中央处理器 (CPU)**的非常**高带宽**，即，**主内存**到**CPU**的**峰值带宽**而非**CPU的峰值浮点性能**通常成为**限制因素**。不幸的是，在应用上述**CG算法**时，无法避免**正交归一化**。应用于**Rayleigh商最小化**的**无约束CG方案**将始终确定**最低可能本征值**，即，如果不对**波函数**进行**正交归一化**，算法将从任何**起始点**收敛到**哈密顿量**的**最低本征矢量**。最终，这个**性质**与以下事实有关：**Rayleigh商**在每个**本征矢量**处是**驻点**，但除了**最低本征值**外，它不具备**最小值**（即，通过向**较低本征值**移动，**Rayleigh商**可以降低！）。只有**显式正交归一化**才有可能实现**稳定高效地收敛**到**选定的本征值**。幸运的是，这个问题存在一个解决方案，最早由**Wood**和**Zunger**⁵⁴提出。**最小化残差矢量的范数**（因此得名**残差最小化方法**）而不是**Rayleigh商**，使得**正交归一化**变得不必要（至少原则上如此！），因为**残差矢量的范数**在每个**本征矢量**处都具有**无约束的局域最小值**（**残差矢量的范数**显然是**正定**的！）。在我们的实现中，我们使用**Pulay**⁵³提出的**原始最小化方法**，而不是**Wood**和**Zunger**⁵⁴提出的变体。**Wood的算法**需要额外计算和存储S|f&gt;，因此比我们的算法慢。我们首先评估**选定能带**m的**预处理残差矢量**K|R₀_m&gt;=K|R(f₀_m)&gt;。然后沿着这个方向执行**类似Jacobi的试探步**：\n**CG算法 (CG algorithm)**: 共轭梯度算法。\n**显式正交归一化 (explicit orthonormalization)**: 明确地进行正交归一化操作。\n**预处理残差矢量 (preconditioned residual vector)**: 经过预处理的残差矢量。\n**试探波函数 (trial wave functions)**: （已解释）\n**最耗时的部分 (time consuming part)**: 算法中消耗计算时间最多的部分。\n**大型问题 (large-size problems)**: （已解释）\n**正交归一化 (orthonormalized)**: （已解释）\n**大量其他矢量 (large number of other vectors)**: 在计算中需要进行大量操作的矢量集合。\n**能带更新 (band update)**: 在迭代算法中，对某个能带的波函数进行修正。\n**高带宽 (high bandwidth)**: 数据传输速率高。\n**计算机主内存 (main computer memory)**: 计算机的随机存取存储器。\n**中央处理器 (CPU) (Central processing unit)**: 计算机的核心处理单元。\n**峰值带宽 (peak bandwidth)**: 数据传输的最大速率。\n**峰值浮点性能 (peak floating-point performance of the CPU)**: CPU执行浮点运算的最大速度。\n**限制因素 (limiting factor)**: 限制系统性能的因素。\n**无约束CG方案 (unrestricted CG scheme)**: 不施加正交归一化等约束的共轭梯度算法。\n**Rayleigh商最小化 (minimization of the Rayleigh quotient)**: 寻找Rayleigh商最小值。\n**最低可能本征值 (lowest possible eigenvalue)**: 矩阵或算符的最小本征值。\n**收敛 (converge)**: （已解释）\n**起始点 (starting point)**: 迭代算法的初始状态。\n**哈密顿量最低本征矢量 (lowest eigenvector of the Hamiltonian)**: 哈密顿量对应的能量最低的本征矢量。\n**性质 (property)**: 物理系统或数学对象所具有的特性。\n**Rayleigh商 (Rayleigh quotient)**: （已解释）\n**驻点 (stationary)**: 函数导数为零的点。\n**本征矢量 (eigenvector)**: （已解释）\n**最小值 (minimum)**: 函数的最低点。\n**最低本征值 (lowest eigenvalue)**: （已解释）\n**较低本征值 (lower eigenvalues)**: 能量更低的本征值。\n**显式正交归一化 (explicit orthonormalization)**: （已解释）\n**稳定高效地收敛 (stable and efficient convergence)**: 算法收敛过程稳定且速度快。\n**选定的本征值 (selected eigenvalue)**: 优化过程中选择的某个本征值。\n**Wood**: D.M. Wood，凝聚态物理计算领域的研究人员。\n**Zunger**: A. Zunger，凝聚态物理计算领域的研究人员。\n**最小化残差矢量的范数 (Minimizing the norm of the residual vector)**: 寻找使残差矢量长度最小化的过程。\n**残差最小化方法 (residual minimization method)**: 一类通过最小化残差矢量范数来寻找解的算法。\n**残差矢量的范数 (norm of the residual vector)**: 残差矢量的长度或大小。\n**无约束的局域最小值 (unconstrained local minimum)**: 函数在某一点附近存在最小值，且没有额外的约束条件。\n**正定 (positive definite)**: 矩阵或函数的所有本征值或值都为正。\n**原始最小化方法 (original minimization method)**: 指Pulay最初提出的优化方法。\n**Pulay**: P. Pulay，量子化学家，以其在量子化学计算和DIIS方法方面的贡献而闻名。\n**Wood的算法 (Wood’s algorithm)**: D.M. Wood提出的算法。\n**预处理残差矢量 (preconditioned residual vector)**: （已解释）\n**选定能带 (selected band)**: （已解释）\n**类似Jacobi的试探步 (Jacobi-like trial step)**: 类似于Jacobi方法中的迭代步。\n\n$$",
-      "page": "-"
+      "content": "�36�",
+      "page": "7",
+      "attachment_key": "5DFX7QPX",
+      "file": "eq_36_5DFX7QPX.png"
     },
     {
-      "id": "eq37",
+      "id": "eq_37",
       "title": "Equation 37",
-      "content": "$$\n(35)\n\nand the new **residual vector** uR1m&amp;5uR(f1m)&amp; is evaluated. Next a **linear combination** of the **initial** uf0m&amp; and the **trial wave function** uf1m&amp;\n并评估新的**残差矢量**|R₁^m&gt;=|R(f₁^m)&gt;。接下来，对**初始**f₀^m和**试探波函数**f₁^m进行**线性组合**：\n**残差矢量 (residual vector)**: （已解释）\n**线性组合 (linear combination)**: （已解释）\n**初始 (initial)**: 开始时的状态。\n**试探波函数 (trial wave function)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�37�",
+      "page": "7",
+      "attachment_key": "R2D7VP7E",
+      "file": "eq_37_R2D7VP7E.png"
     },
     {
-      "id": "eq38",
-      "title": "Equation 38",
-      "content": "$$\n(36)\n\nis searched which minimizes the **norm of the residual vector**. Assuming **linearity in the residual vector**, i.e.,\n进行搜索，以最小化**残差矢量的范数**。假设**残差矢量呈线性关系**，即：\n**残差矢量的范数 (norm of the residual vector)**: （已解释）\n**残差矢量呈线性关系 (linearity in the residual vector)**: 残差矢量随输入的变化呈线性关系。\n\n$$",
-      "page": "-"
-    },
-    {
-      "id": "eq39",
+      "id": "eq_39",
       "title": "Equation 39",
-      "content": "$$\n(37)\n\nthis requires the **minimization** of\n这需要**最小化**：\n**最小化 (minimization)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�39�",
+      "page": "7",
+      "attachment_key": "PGCN8ZE4",
+      "file": "eq_39_PGCN8ZE4.png"
     },
     {
-      "id": "eq40",
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "�4�",
+      "page": "3",
+      "attachment_key": "YBXTDE2H",
+      "file": "eq_4_YBXTDE2H.png"
+    },
+    {
+      "id": "eq_40",
       "title": "Equation 40",
-      "content": "$$\n(38)\n\nThis step is usually called **DIIS** and lies at the heart of **Pulay’s minimization scheme**.53 It is, for instance, possible that the **trial step** moves towards a **band with lower energy** lowering the **Rayleigh quotient**. In this case the **DIIS ‘‘corrector step’’** will recognize the **false move** because the **norm of the residual vector** has increased and will correct the **wrong trial step**. The **final move** might even have a **reversed sign** from the **trial move**. The **problem** stated in Eq. ~38! is equivalent to determining the **lowest eigenvector/eigenvalue** from the **Hermitian eigenvalue problem**,\n这一步通常称为**DIIS**，是**Pulay最小化方案**⁵³的核心。例如，**试探步**可能会朝着**能量较低的能带**移动，从而降低**Rayleigh商**。在这种情况下，**DIIS“校正步”**将识别出**错误移动**，因为**残差矢量的范数**已经增加，并将纠正**错误的试探步**。**最终移动**甚至可能与**试探移动**的**符号相反**。方程(38)中提出的**问题**等价于从**厄米本征值问题**中确定**最低本征矢量/本征值**：\n**DIIS (Direct Inversion in the Iterative Subspace)**: （已解释）\n**Pulay最小化方案 (Pulay’s minimization scheme)**: Pulay提出的DIIS方法，用于加速迭代算法的收敛。\n**试探步 (trial step)**: 在迭代优化中，沿着某个方向进行的一次尝试性移动。\n**能量较低的能带 (band with lower energy)**: 能量比当前能带低的能带。\n**Rayleigh商 (Rayleigh quotient)**: （已解释）\n**DIIS“校正步” (DIIS ‘‘corrector step’’)**: DIIS方法中用于修正试探步的步骤。\n**错误移动 (false move)**: 在优化中导致结果变差或不正确的移动。\n**残差矢量的范数 (norm of the residual vector)**: （已解释）\n**最终移动 (final move)**: 迭代优化中的最终修正步。\n**符号相反 (reversed sign)**: 方向相反。\n**试探移动 (trial move)**: （已解释，与试探步类似）\n**问题 (problem)**: 数学或计算中需要解决的任务。\n**最低本征矢量/本征值 (lowest eigenvector/eigenvalue)**: 矩阵或算符的最低本征值和对应的本征矢量。\n**厄米本征值问题 (Hermitian eigenvalue problem)**: 求解厄米矩阵或算符的本征值和本征矢量的问题。\n\n$$",
-      "page": "-"
+      "content": "�40�",
+      "page": "8",
+      "attachment_key": "9IIQDQXD",
+      "file": "eq_40_9IIQDQXD.png"
     },
     {
-      "id": "eq41",
+      "id": "eq_41",
       "title": "Equation 41",
-      "content": "$$\n(39)\n\nThe next **trial step** starts from u ̄fM&amp; along the direction KuR ̄M&amp;. In each **iteration** M 11 a new **wave function** ufmM11&amp;5u ̄fM&amp;1lKuR ̄M&amp; and a new **residual vector** uR(fmM11)&amp; are added to the ‘‘**iterative**’’ **subspace**. The **size of the trial step** l is a **critical value** for the **stability of the algorithm**. We have found that a **reasonable choice** for the **trial step** can be obtained from the **minimization of the Rayleigh quotient along the search direction** in the first step, this **optimal l** is used until a move to the next **band** is performed. The **line minimization** can be done without additional **computational requirements**. Usually the **optimal step size** is between 0.3&lt;l&lt;1 for the **preconditioning function** given in Eq. ~30!. In rare cases—especially if the **minimization of the Rayleigh quotient** starts to go for the **wrong band**—the **trial step** might become very large. Therefore, we restrict the **size of the trial step** to a value between 0.1&lt;l&lt;1. Usually we perform several **DIIS steps** and one final **trial step**. The reason for finishing with the **trial step** is that the **trial step** is very cheap in comparison with the **DIIS step**, so even if the **improvement in the trial step** is small it is ‘‘**economical**’’ to do it ~for the majority of **bands** the **trial step** is already close to the **exact position of the minimal residual vector**!). The **scheme** explained in this section requires approximately the same number of **iterations** as the **CG algorithm**, but it avoids any **explicit orthonormalization** of the **search vectors** and is therefore much faster for very **large problems** where the **orthonormalization** is the **leading factor**. Even more important is the fact that the **residual minimization** is **inherently local** and it is, therefore, very easy to implement the **algorithm** on a **parallel machine**. For instance, each **processor** might handle a certain number of **bands**, **information about other bands** is not required ~see, also, Sec. III D!). A remaining drawback of the **RMM-DIIS method** is that it always finds the **vector** which is closest to the **initial trial vector**. This leads, in principle, to **serious problems** because we have no **guarantee to convergence** to the **correct ground state** at all. Therefore **initialization** becomes a **critical step**, i.e., if the **initial set of wave functions** does not ‘‘**span**’’ the **real ground state** it might happen that in the **final solution** some **eigenvectors** are ‘‘**missing**:’’ To avoid this the **initialization** must be done with **great care**. We usually start with a set of **random trial vectors** and perform five **sweeps over all bands**. Each **initial sweep** consists of one **subspace rotation** and two **steepest–descent steps** into the direction of the **preconditioned residual vectors** @Eq. ~35!# per **band** ~see also Sec. III C!). During this **initial phase** the **Hamiltonian** is also kept fixed, after this ‘‘**delay**’’ we switch to the **RMM-DIIS scheme** and start to update the **potential**. For problematic cases ~for instance, if we use no **unoccupied bands**!) we sometimes use the **CG scheme** described above for three **initial steps**. As already explained **subspace rotation** and **sequential update of the bands** alternate. In the **residual minimization scheme** the **final vectors** are no longer **orthogonal**, we therefore **reorthonormalize the vectors** at the end after **sweeping over all bands**. We want to emphasize, that, in principle, the **RMM-DIIS method** should also **converge** without any **explicit subspace rotation** or **orthonormalization**, but we have found that the **subspace rotation** speeds up the calculations although it is an **order O(N³) operation** ~see Sec. III D!). The **main problem** is that the ‘‘**barrier**’’ in the **norm of the residual vector** between two neighboring **eigenvectors** with **eigenvalues** e and e1de is only of the order de.55 Into directions of **eigenvectors** which differ significantly in **energy** the **barrier** will be very high. Therefore two **eigenvectors** which are **close in energy** are lying in one long steep **valley** and only a **shallow hill** separates them—a typical example of a **badly conditioned minimization problem**. The **subspace rotation** solves this **problem** because after the **subspace rotation** the **residual vectors** are **orthonormal** to the **current trial set**,\n下一个**试探步**从u̅f_M&gt;沿着K|R̅_M&gt;的方向开始。在每次**迭代**M+1中，新的**波函数**|f_M+1^m&gt;=|u̅f_M&gt;+λK|R̅_M&gt;和新的**残差矢量**|R(f_M+1^m)&gt;被添加到“**迭代**”**子空间**中。**试探步长**λ是**算法稳定性**的**关键值**。我们发现，**试探步**的**合理选择**可以从第一步中**沿搜索方向最小化Rayleigh商**获得，这个**最优λ**一直使用，直到执行下一次**能带**移动。**线最小化**可以在没有额外**计算要求**的情况下完成。通常，对于方程(30)中给出的**预处理函数**，**最优步长**在0.3&lt;λ&lt;1之间。在少数情况下——特别是如果**Rayleigh商最小化**开始朝着**错误能带**进行时——**试探步**可能会变得非常大。因此，我们将**试探步长**限制在0.1&lt;λ&lt;1之间。我们通常执行几个**DIIS步**和一个最终的**试探步**。以**试探步**结束的原因是，与**DIIS步**相比，**试探步**非常廉价，所以即使**试探步**的**改进**很小，这样做也是“**经济的**”（对于大多数**能带**，**试探步**已经接近**最小残差矢量的精确位置**！）。本节解释的**方案**所需的**迭代次数**与**CG算法**大致相同，但它避免了**搜索矢量**的任何**显式正交归一化**，因此对于**大型问题**（其中**正交归一化**是**主导因素**）要快得多。更重要的是，**残差最小化**本质上是**局域的**，因此很容易在**并行机**上实现**算法**。例如，每个**处理器**可以处理一定数量的**能带**，不需要**其他能带的信息**（另见第三节D！）。**RMM-DIIS方法**的一个剩余缺点是它总是找到最接近**初始试探矢量**的**矢量**。原则上，这会导致**严重问题**，因为我们根本无法**保证收敛**到**正确的基态**。因此，**初始化**成为一个**关键步骤**，即，如果**初始波函数集**不能“**张成**”**真实基态**，则**最终解**中可能会“**缺少**”一些**本征矢量**。为避免这种情况，**初始化**必须**非常小心**地进行。我们通常从一组**随机试探矢量**开始，并在**所有能带上进行五次遍历**。每个**初始遍历**包括一次**子空间旋转**和两次**最速下降步**，进入每个**能带**的**预处理残差矢量**方向（方程(35)）（另见第三节C！）。在这个**初始阶段**，**哈密顿量**也保持固定，在此“**延迟**”之后，我们切换到**RMM-DIIS方案**并开始更新**势**。对于有问题的情况（例如，如果我们不使用**空带**！），我们有时会使用上面描述的**CG方案**进行三个**初始步**。正如已经解释的，**子空间旋转**和**能带的序贯更新**交替进行。在**残差最小化方案**中，**最终矢量**不再**正交**，因此我们在**遍历所有能带**后**重新正交归一化矢量**。我们想强调的是，原则上，**RMM-DIIS方法**也应该在没有任何**显式子空间旋转**或**正交归一化**的情况下**收敛**，但我们发现**子空间旋转**加速了计算，尽管它是一个**O(N³)操作**（参见第三节D！）。**主要问题**是，在**残差矢量范数**中，两个相邻**本征矢量**（**本征值**分别为e和e+de）之间的“**势垒**”仅为de量级⁵⁵。在**能量**显著不同的**本征矢量**方向上，**势垒**将非常高。因此，两个**能量接近**的**本征矢量**位于一个长而陡峭的**谷**中，只有**浅丘**将它们分开——这是一个典型的**病态最小化问题**的例子。**子空间旋转**解决了这个**问题**，因为在**子空间旋转**之后，**残差矢量**与**当前试探集****正交**：\n**试探步 (trial step)**: （已解释）\n**迭代 (iteration)**: （已解释）\n**波函数 (wave function)**: （已解释）\n**残差矢量 (residual vector)**: （已解释）\n**迭代子空间 (iterative subspace)**: 在迭代算法中，由过去迭代产生的矢量张成的空间。\n**试探步长 (size of the trial step)**: 在优化中，每次迭代移动的距离。\n**关键值 (critical value)**: 对系统或算法性能有重要影响的参数。\n**算法稳定性 (stability of the algorithm)**: （已解释）\n**合理选择 (reasonable choice)**: 经过深思熟虑的、合适的选择。\n**Rayleigh商最小化沿搜索方向 (minimization of the Rayleigh quotient along the search direction)**: 在给定搜索方向上寻找Rayleigh商的最小值。\n**最优λ (optimal l)**: 最优的步长参数λ。\n**线最小化 (line minimization)**: 在优化算法中，沿着给定方向寻找函数最小值的一维搜索。\n**计算要求 (computational requirements)**: 算法所需的计算资源。\n**最优步长 (optimal step size)**: 在优化中，能最有效降低函数值的步长。\n**预处理函数 (preconditioning function)**: （已解释）\n**错误能带 (wrong band)**: 在优化中，算法可能错误地收敛到的不期望的能带。\n**DIIS步 (DIIS steps)**: DIIS算法中的迭代步骤。\n**改进 (improvement)**: 性能的提升。\n**经济的 (economical)**: 从计算成本角度考虑是高效的。\n**能带 (bands)**: （已解释）\n**最小残差矢量的精确位置 (exact position of the minimal residual vector)**: 残差矢量范数达到最小值的精确点。\n**方案 (scheme)**: 算法或方法的总称。\n**迭代次数 (iterations)**: （已解释）\n**CG算法 (CG algorithm)**: 共轭梯度算法。\n**显式正交归一化 (explicit orthonormalization)**: （已解释）\n**搜索矢量 (search vectors)**: 在迭代优化中，定义搜索方向的矢量。\n**大型问题 (large problems)**: （已解释）\n**主导因素 (leading factor)**: 影响系统性能或计算成本最主要的因素。\n**残差最小化 (residual minimization)**: （已解释）\n**本质上是局域的 (inherently local)**: 算法的每一步操作主要依赖于局部信息。\n**算法 (algorithm)**: 解决特定问题的一系列定义明确的步骤。\n**并行机 (parallel machine)**: 能够同时执行多个计算任务的计算机。\n**处理器 (processor)**: 计算机中执行指令的部件。\n**能带 (bands)**: （已解释）\n**其他能带的信息 (information about other bands)**: 其他电子能带的波函数或能量信息。\n**RMM-DIIS方法 (RMM-DIIS method)**: 残差最小化方法-迭代子空间直接反演方法。\n**矢量 (vector)**: 具有大小和方向的物理量。\n**初始试探矢量 (initial trial vector)**: 迭代算法开始时的初始试探矢量。\n**严重问题 (serious problems)**: 可能导致算法失败或结果不准确的重大挑战。\n**保证收敛 (guarantee to convergence)**: 确保算法最终会达到一个稳定的解。\n**正确基态 (correct ground state)**: 体系的真实最低能量状态。\n**初始化 (initialization)**: 算法开始时设置初始条件的过程。\n**关键步骤 (critical step)**: 对算法性能或正确性至关重要的步骤。\n**初始波函数集 (initial set of wave functions)**: 算法开始时使用的波函数集合。\n**张成 (span)**: 矢量空间中，一组矢量通过线性组合可以生成的所有矢量。\n**真实基态 (real ground state)**: （已解释）\n**最终解 (final solution)**: 算法收敛后得到的解。\n**缺少 (missing)**: 遗漏或未找到。\n**本征矢量 (eigenvectors)**: （已解释）\n**非常小心 (great care)**: 极度谨慎。\n**随机试探矢量 (random trial vectors)**: 随机生成的试探矢量。\n**所有能带上进行五次遍历 (perform five sweeps over all bands)**: 对所有能带进行五轮优化。\n**初始遍历 (initial sweep)**: 算法开始时的第一轮优化。\n**子空间旋转 (subspace rotation)**: （已解释）\n**最速下降步 (steepest–descent steps)**: 沿着负梯度方向进行的迭代步。\n**预处理残差矢量 (preconditioned residual vectors)**: （已解释）\n**初始阶段 (initial phase)**: 算法的早期阶段。\n**哈密顿量 (Hamiltonian)**: （已解释）\n**延迟 (delay)**: 算法中等待或暂停的时间。\n**RMM-DIIS方案 (RMM-DIIS scheme)**: （已解释）\n**势 (potential)**: （已解释）\n**空带 (unoccupied bands)**: （已解释）\n**CG方案 (CG scheme)**: （已解释）\n**初始步 (initial steps)**: 算法开始时的几个步骤。\n**能带的序贯更新 (sequential update of the bands)**: （已解释）\n**残差最小化方案 (residual minimization scheme)**: （已解释）\n**最终矢量 (final vectors)**: 算法收敛后得到的矢量。\n**正交 (orthogonal)**: 两个矢量内积为零。\n**重新正交归一化矢量 (reorthonormalize the vectors)**: 再次对矢量进行正交归一化处理。\n**遍历所有能带 (sweeping over all bands)**: 对所有能带进行一轮优化。\n**RMM-DIIS方法 (RMM-DIIS method)**: （已解释）\n**收敛 (converge)**: （已解释）\n**显式子空间旋转 (explicit subspace rotation)**: 明确地进行子空间旋转操作。\n**正交归一化 (orthonormalization)**: （已解释）\n**O(N³)操作 (order O(N³) operation)**: 计算复杂度为系统尺寸N的三次方。\n**主要问题 (main problem)**: 最重要的挑战。\n**残差矢量范数 (norm of the residual vector)**: （已解释）\n**势垒 (barrier)**: 在优化中，分隔不同局部最小值或本征态的能量障碍。\n**本征矢量 (eigenvectors)**: （已解释）\n**本征值 (eigenvalues)**: （已解释）\n**能量 (energy)**: 体系所具有的能量。\n**能量接近 (close in energy)**: 能量值相近。\n**谷 (valley)**: 在能量曲面中，能量较低的区域。\n**浅丘 (shallow hill)**: 在能量曲面中，能量略高的区域。\n**病态最小化问题 (badly conditioned minimization problem)**: 优化问题中，能量曲面具有非常平坦的谷或非常陡峭的山，导致收敛困难。\n\n$$",
-      "page": "-"
+      "content": "�41�",
+      "page": "9",
+      "attachment_key": "FY4UKPD4",
+      "file": "eq_41_FY4UKPD4.png"
     },
     {
-      "id": "eq42",
+      "id": "eq_42",
       "title": "Equation 42",
-      "content": "$$\n(40)\n\nand **search vectors parallel to the long valleys** are effectively suppressed. In this case the **residual vector** is exactly equivalent to the **gradient** defined in Eq. ~29!. ~Another more rigorous way to look at this **problem** is given in Sec. III D.!) In several **tests for large systems** we have found that the **subspace rotation** and the **reorthonormalization** not only improve **convergence** but are indeed the only way to get **good stability** ~especially if the **spacing of the eigenvalues** is small!). The **orthonormalization** strictly avoids that two **states** converge to the same **eigenvector**, and the **subspace rotation** suppresses all ‘‘**unstable**’’ **search directions** towards **wrong bands**. Actually without these **O(N³) steps** it can easily occur that the **RMM-DIIS algorithm** incorrectly overcomes the **small barrier** between **close eigenvectors** making the whole **scheme highly instable** ~**orthonormalization to a number of bands in an energy window around the selected band** might be another possible solution to this **problem**!). Also mind that we get a **reasonable trial step l** only because we use the **subspace rotation**, i.e., in the first step the **residual vector** is the same as the **exact orthogonalized gradient vector** @Eq. ~29!# making the **initial steepest-descent step efficient** and rather **stable** ~in the first **steepest-descent step** the danger to go for the **wrong band** is negligible!). We want to point out here that the **subspace rotation** was missing in the **original work of Wood and Zunger**54 and we suspect that their **algorithm** will be **unstable** for **large systems** with a **small level spacing**.\n并且**平行于长谷的搜索矢量**被有效抑制。在这种情况下，**残差矢量**与方程(29)中定义的**梯度**完全等价。（第三节D中给出了看待这个**问题**的另一种更严谨的方法！）在对**大型系统**进行的多次**测试**中，我们发现**子空间旋转**和**重新正交归一化**不仅提高了**收敛性**，而且确实是获得**良好稳定性**的唯一方法（特别是当**本征值间距**很小的时候！）。**正交归一化**严格避免了两个**态**收敛到同一个**本征矢量**，并且**子空间旋转**抑制了所有指向**错误能带**的“**不稳定**”**搜索方向**。实际上，如果没有这些**O(N³)步骤**，**RMM-DIIS算法**很容易错误地越过**接近的本征矢量**之间的**小势垒**，使得整个**方案高度不稳定**（**在选定能带周围的能量窗口中对多个能带进行正交归一化**可能是解决这个**问题**的另一个可能方案！）。另外请注意，我们获得**合理的试探步长l**仅仅是因为我们使用了**子空间旋转**，即，在第一步中，**残差矢量**与**精确正交梯度矢量**（方程(29)）相同，这使得**初始最速下降步高效**且相当**稳定**（在第一个**最速下降步**中，朝着**错误能带**移动的危险可以忽略不计！）。我们想在这里指出，**Wood和Zunger的原始工作中**⁵⁴缺少**子空间旋转**，我们怀疑他们的**算法**对于**能级间距小**的**大型系统**将是**不稳定**的。\n**平行于长谷的搜索矢量 (search vectors parallel to the long valleys)**: 优化算法中，搜索方向与能量曲面中平坦区域方向一致的矢量。\n**残差矢量 (residual vector)**: （已解释）\n**梯度 (gradient)**: （已解释）\n**问题 (problem)**: （已解释）\n**大型系统测试 (tests for large systems)**: （已解释）\n**子空间旋转 (subspace rotation)**: （已解释）\n**重新正交归一化 (reorthonormalization)**: 再次进行正交归一化。\n**收敛 (convergence)**: （已解释）\n**良好稳定性 (good stability)**: 算法在不同条件下的可靠性。\n**本征值间距 (spacing of the eigenvalues)**: （已解释）\n**正交归一化 (orthonormalization)**: （已解释）\n**态 (states)**: 量子力学中描述系统状态的术语。\n**本征矢量 (eigenvector)**: （已解释）\n**不稳定 (unstable)**: 算法容易出现发散或不正确结果。\n**搜索方向 (search directions)**: 优化算法中，每次迭代移动的方向。\n**错误能带 (wrong bands)**: （已解释）\n**O(N³)步骤 (O(N³) steps)**: 计算复杂度为系统尺寸N的三次方的步骤。\n**RMM-DIIS算法 (RMM-DIIS algorithm)**: （已解释）\n**小势垒 (small barrier)**: 能量曲面中较小的能量障碍。\n**接近的本征矢量 (close eigenvectors)**: 对应的本征值相近的本征矢量。\n**方案高度不稳定 (scheme highly instable)**: 算法的稳定性非常差。\n**在选定能带周围的能量窗口中对多个能带进行正交归一化 (orthonormalization to a number of bands in an energy window around the selected band)**: 在选定能带附近的能量范围内，对多个能带的波函数进行正交归一化。\n**试探步长l (reasonable trial step l)**: （已解释）\n**子空间旋转 (subspace rotation)**: （已解释）\n**残差矢量 (residual vector)**: （已解释）\n**精确正交梯度矢量 (exact orthogonalized gradient vector)**: 经过精确正交归一化处理的梯度矢量。\n**初始最速下降步高效 (initial steepest-descent step efficient)**: 最速下降法在初始阶段能够快速降低函数值。\n**稳定 (stable)**: （已解释）\n**最速下降步 (steepest-descent step)**: （已解释）\n**错误能带 (wrong band)**: （已解释）\n**Wood和Zunger的原始工作 (original work of Wood and Zunger)**: D.M. Wood和A. Zunger在DIIS方法方面的开创性工作。\n**算法 (algorithm)**: （已解释）\n**不稳定 (unstable)**: （已解释）\n**大型系统 (large systems)**: （已解释）\n**能级间距小 (small level spacing)**: 不同能量级别之间的能量差很小。\n\n## C. The complete algorithm\n完整算法\n\nThe complete **self-consistency loop** consists of several steps ~the section where the **algorithm** has been discussed is given in brackets!: ~i! **subspace rotation** ~III A!, ~ii! **CG** ~III A! or **RMM-DIIS** ~III B! **minimization**, ~iii! **orthonormalization** using a **Gram-Schmidt method** ~only required for the **RMM-DIIS scheme**!, ~iv! **update of partial occupancies and charge density** for a **self-consistent calculation**. In each **iteration** the **initial trial set** $ufn&amp;,n51, . . . ,Nb% is equivalent to the **final set of the previous iteration**, **initialization** is done with a **random number generator**. This **loop** is repeated until **self-consistency** is reached, for a **non-self-consistent calculation** no **charge density update** is done. We have found that the **subspace rotation** should be performed between the **update of the charge density** and the **RMM-DIIS or CG step**, especially at the beginning of a **self-consistent calculation**. In this case the **calculated residual vectors** uR(fm)&amp; agree with the **exact gradients** ug(fm)&amp;. For this reason and because the **wave functions** should be **orthonormal** for a **recalculation of the charge density**, it is necessary to separate the **orthonormalization of all wave functions** and the **diagonalization of the subspace Hamilton matrix** which is done at once in the **Rayleigh-Ritz scheme**. In addition it is necessary to find an **optimal break condition** for the **sequential RMM-DIIS and CG algorithms**. A **static criterion**, for example two or three steps per **band**, is not a **good choice**, because **lower bands** converge usually much faster than **higher bands**. Therefore, we have adopted the following **dynamic criterion** ~which is inspired by Ref. 56! : ~i! Both **algorithms** are stopped if the **change in the total eigenvalue** becomes smaller than Eaccuracy /Nb/4, where **Eaccuracy is the required accuracy of the calculation** and Nb is the **number of bands included in the calculation**. ~ii! The **RMM-DIIS method** is stopped if the **squared norm of the residual vector** gets smaller than 30% of its **initial value**, and the **minimization** always stops with the **trial step**. ~iii! The **CG method** is stopped if the **change in the eigenvalue** gets smaller than 30% of the **change in the first, i.e., the steepestdescent step**. ~iv! The **maximum number of steps** is always four. For the **RMM-DIIS** the **residual vector** is minimized three times and finally a fourth **trial step** is performed. ~v! **Empty bands** are optimized only twice.\n完整的**自洽循环**包括几个步骤（**算法**讨论的章节在括号中给出！）：(i)**子空间旋转**（第三节A），(ii)**CG**（第三节A）或**RMM-DIIS**（第三节B）**最小化**，(iii)使用**Gram-Schmidt方法**进行**正交归一化**（仅**RMM-DIIS方案**需要！），(iv)**自洽计算**的**部分占据和电荷密度更新**。在每次**迭代**中，**初始试探集**f_n (n=1, ..., Nb)等同于**前一次迭代的最终集**，**初始化**通过**随机数生成器**完成。这个**循环**重复进行，直到达到**自洽性**；对于**非自洽计算**，不进行**电荷密度更新**。我们发现，**子空间旋转**应该在**电荷密度更新**和**RMM-DIIS或CG步**之间执行，特别是在**自洽计算**开始时。在这种情况下，**计算出的残差矢量**R(f_m)与**精确梯度**g(f_m)一致。因此，以及因为**波函数**为了**电荷密度的重新计算**应该是**正交归一化**的，所以有必要将**所有波函数的正交归一化**与在**Rayleigh-Ritz方案**中一次性完成的**子空间哈密顿矩阵的对角化**分开。此外，有必要为**序贯RMM-DIIS和CG算法**找到一个**最优停止条件**。**静态判据**，例如每个**能带**两到三个步骤，不是**一个好的选择**，因为**较低能带**通常比**较高能带**收敛得快得多。因此，我们采用了以下**动态判据**（受参考文献56启发！）：(i)如果**总本征值的变化**小于E_accuracy/Nb/4，则两个**算法**都停止，其中**E_accuracy是计算所需的精度**，Nb是**计算中包含的能带数量**。(ii)**RMM-DIIS方法**在**残差矢量的范数平方**小于其**初始值**的30%时停止，并且**最小化**总是以**试探步**结束。(iii)**CG方法**在**本征值的变化**小于第一次（即**最速下降步**）**变化**的30%时停止。(iv)**最大步数**始终为四。对于**RMM-DIIS**，**残差矢量**被最小化三次，最后执行第四次**试探步**。(v)**空带**仅优化两次。\n**自洽循环 (Self-consistency loop)**: （已解释）\n**算法 (algorithm)**: （已解释）\n**子空间旋转 (subspace rotation)**: （已解释）\n**CG**: 共轭梯度方法。\n**RMM-DIIS**: 残差最小化方法-迭代子空间直接反演。\n**最小化 (minimization)**: （已解释）\n**正交归一化 (orthonormalization)**: （已解释）\n**Gram-Schmidt方法 (Gram-Schmidt method)**: （已解释）\n**RMM-DIIS方案 (RMM-DIIS scheme)**: （已解释）\n**部分占据和电荷密度更新 (update of partial occupancies and charge density)**: 在自洽计算中，根据当前迭代结果更新电子占据和电荷密度。\n**自洽计算 (self-consistent calculation)**: （已解释）\n**迭代 (iteration)**: （已解释）\n**初始试探集 (initial trial set)**: （已解释）\n**前一次迭代的最终集 (final set of the previous iteration)**: 上一次迭代计算出的波函数或电荷密度。\n**初始化 (initialization)**: （已解释）\n**随机数生成器 (random number generator)**: （已解释）\n**循环 (loop)**: 迭代算法中重复执行的序列。\n**自洽性 (self-consistency)**: （已解释）\n**非自洽计算 (non-self-consistent calculation)**: （已解释）\n**电荷密度更新 (charge density update)**: 更新电荷密度的过程。\n**电荷密度更新 (update of the charge density)**: （已解释）\n**RMM-DIIS或CG步 (RMM-DIIS or CG step)**: RMM-DIIS或CG算法中的一个迭代步骤。\n**计算出的残差矢量 (calculated residual vectors)**: （已解释）\n**精确梯度 (exact gradients)**: 梯度准确的值。\n**波函数 (wave functions)**: （已解释）\n**正交归一化 (orthonormal)**: （已解释）\n**电荷密度的重新计算 (recalculation of the charge density)**: 再次计算电荷密度。\n**所有波函数的正交归一化 (orthonormalization of all wave functions)**: 对所有波函数进行正交归一化处理。\n**子空间哈密顿矩阵的对角化 (diagonalization of the subspace Hamilton matrix)**: （已解释）\n**Rayleigh-Ritz方案 (Rayleigh-Ritz scheme)**: （已解释）\n**最优停止条件 (optimal break condition)**: 算法在满足一定条件时停止，以平衡精度和计算效率。\n**序贯RMM-DIIS和CG算法 (sequential RMM-DIIS and CG algorithms)**: （已解释）\n**静态判据 (static criterion)**: 基于固定规则或预设值的停止条件。\n**能带 (band)**: （已解释）\n**好的选择 (good choice)**: 合适或有效的方法。\n**较低能带 (lower bands)**: 能量较低的能带。\n**较高能带 (higher bands)**: 能量较高的能带。\n**动态判据 (dynamic criterion)**: 根据计算过程中的实时信息调整的停止条件。\n**算法 (algorithms)**: （已解释）\n**总本征值的变化 (change in the total eigenvalue)**: 所有本征值之和的变化。\n**计算所需的精度 (required accuracy of the calculation)**: 计算结果需要达到的精确程度。\n**计算中包含的能带数量 (number of bands included in the calculation)**: 计算中考虑的电子能带总数。\n**RMM-DIIS方法 (RMM-DIIS method)**: （已解释）\n**残差矢量的范数平方 (squared norm of the residual vector)**: 残差矢量长度的平方。\n**初始值 (initial value)**: 变量或参数的起始值。\n**最小化 (minimization)**: （已解释）\n**试探步 (trial step)**: （已解释）\n**CG方法 (CG method)**: 共轭梯度方法。\n**本征值的变化 (change in the eigenvalue)**: 本征值数值上的变化。\n**最速下降步 (steepest-descent step)**: （已解释）\n**最大步数 (maximum number of steps)**: 算法允许执行的最大迭代次数。\n**RMM-DIIS**: （已解释）\n**残差矢量 (residual vector)**: （已解释）\n**空带 (Empty bands)**: 没有电子占据的能带。\n\nBy now, these **criteria** have been used for a **large number of system** and are very **robust**. In most cases two **CG** or two **RMM-DIIS steps** are done per **band**, but **problematic eigenvalue/eigenvector pairs** are **iterated more frequently**. Usually more **iterations** are done for the **higher bands**, and the **total speed of convergence** for **all bands** is very **good**.\n到目前为止，这些**判据**已用于**大量系统**，并且非常**鲁棒**。在大多数情况下，每个**能带**执行两次**CG**或两次**RMM-DIIS步**，但**有问题的本征值/本征矢量对**会**更频繁地迭代**。通常，**较高能带**会进行更多**迭代**，并且**所有能带的总收敛速度**非常**好**。\n**判据 (criteria)**: 用于评估或决策的标准。\n**大量系统 (large number of system)**: 许多不同的物理系统。\n**鲁棒 (robust)**: 算法对输入变化或噪声不敏感，能稳定运行。\n**CG**: （已解释）\n**RMM-DIIS步 (RMM-DIIS steps)**: （已解释）\n**能带 (band)**: （已解释）\n**有问题的本征值/本征矢量对 (problematic eigenvalue/eigenvector pairs)**: 难以收敛或需要特殊处理的本征值和本征矢量对。\n**更频繁地迭代 (iterated more frequently)**: 增加迭代次数。\n**迭代 (iterations)**: （已解释）\n**较高能带 (higher bands)**: （已解释）\n**所有能带的总收敛速度 (total speed of convergence for all bands)**: 整个电子能带结构达到收敛的速度。\n**好 (good)**: 表现良好。\n\n## D. Computational costs, convergence, and number of iterations\n计算成本、收敛性和迭代次数\n\nTo make a **fair comparison** between the **CG** and **RMMDIIS scheme** it is necessary to **count the number of operations** for each **algorithm** carefully. The **CG minimization of the Rayleigh quotient** requires always slightly less **evaluations of the Hamiltonian multiplied with a wave function** than the **RMM-DIIS method**, but for **large systems** the **most expensive part** is the **orthonormalization of the wave functions**. For our implementation the **evaluation of (H2enS)ufn&amp;** is an **order**\n为了对**CG方案**和**RMM-DIIS方案**进行**公平比较**，有必要仔细**计算**每个**算法**的**操作数量**。**CG对Rayleigh商的最小化**所需的**哈密顿量与波函数的乘积评估**略少于**RMM-DIIS方法**，但对于**大型系统**，**最昂贵的部分**是**波函数的正交归一化**。对于我们的实现，**(H-εnS)|f_n&gt;**的**评估**是一个**量级为**：\n**公平比较 (fair comparison)**: 在相同条件下对不同方法进行比较。\n**CG**: （已解释）\n**RMMDIIS scheme**: 残差最小化方法-迭代子空间直接反演方案。\n**操作数量 (count the number of operations)**: 计算算法所需的数学运算次数。\n**算法 (algorithm)**: （已解释）\n**CG对Rayleigh商的最小化 (CG minimization of the Rayleigh quotient)**: 使用共轭梯度方法寻找Rayleigh商的最小值。\n**哈密顿量与波函数的乘积评估 (evaluations of the Hamiltonian multiplied with a wave function)**: 计算哈密顿量算符作用于波函数的结果。\n**RMM-DIIS方法 (RMM-DIIS method)**: （已解释）\n**大型系统 (large systems)**: （已解释）\n**最昂贵的部分 (most expensive part)**: 消耗计算资源最多的部分。\n**波函数的正交归一化 (orthonormalization of the wave functions)**: 对电子波函数进行正交归一化处理。\n**评估 (evaluation)**: 计算某个表达式的值。\n**量级 (order)**: 描述函数增长速度的数学概念。\n\n$$",
-      "page": "-"
+      "content": "�42�",
+      "page": "9",
+      "attachment_key": "IFPS6NJR",
+      "file": "eq_42_IFPS6NJR.png"
     },
     {
-      "id": "eq43",
+      "id": "eq_43",
       "title": "Equation 43",
-      "content": "$$\n(41)\n\n**operation**, where N qualifies the **system size**. The **limiting factors** are to a smaller degree the **fast Fourier transforma tions (NbNplwlnNplw}N2lnN)** and the **evaluation of the nonlocal projection operators**. For **large systems** we calculate the **nonlocal projection operators in real space**57 and therefore the **number of operations per band** increases **linearly with the system size** (N). For **all bands** this is only an **O(N²) operation**. We want to point out that this fact is of **considerable importance** for the **speed of the RMM-DIIS method**. If **TH is an O(N³) operation** the **improvement of the RMM-DIIS method over other minimization methods** would be **negligible**. The **main advantage of the RMM-DIIS method** is to **reduce O(N³) operations** ~like **orthonormalization**!) to an **absolute minimum**. The **Gram-Schmidt orthonormalization** takes\n**操作**，其中N表示**系统大小**。**限制因素**较小程度上是**快速傅里叶变换 (FFT)**（N_b N_plw ln N_plw ≈ N² ln N）和**非局域投影算符**的**评估**。对于**大型系统**，我们**在实空间中计算非局域投影算符**⁵⁷，因此**每个能带的操作数量**随**系统大小**（N）**线性增加**。对于**所有能带**，这仅是**O(N²)操作**。我们想指出，这一事实对于**RMM-DIIS方法的速度**具有**相当重要的意义**。如果**T_H是一个O(N³)操作**，则**RMM-DIIS方法相对于其他最小化方法的改进**将是**微不足道的**。**RMM-DIIS方法的主要优点**是**将O(N³)操作**（如**正交归一化**！）**减少到绝对最小值**。**Gram-Schmidt正交归一化**需要：\n**操作 (operation)**: （已解释）\n**系统大小 (system size)**: （已解释）\n**限制因素 (limiting factors)**: （已解释）\n**快速傅里叶变换 (FFT) (fast Fourier transformations)**: 一种高效计算离散傅里叶变换的算法。\n**非局域投影算符 (nonlocal projection operators)**: 在赝势方法中，描述非局域相互作用的算符。\n**大型系统 (large systems)**: （已解释）\n**在实空间中计算非局域投影算符 (nonlocal projection operators in real space)**: 在真实空间坐标系中计算这些算符。\n**每个能带的操作数量 (number of operations per band)**: 优化每个能带所需的计算操作次数。\n**随系统大小线性增加 (linearly with the system size)**: 计算成本与系统大小成正比。\n**所有能带 (all bands)**: （已解释）\n**O(N²)操作 (O(N²) operation)**: 计算复杂度为系统尺寸N的二次方。\n**相当重要的意义 (considerable importance)**: 非常重要。\n**RMM-DIIS方法的速度 (speed of the RMM-DIIS method)**: RMM-DIIS算法的计算效率。\n**O(N³)操作 (O(N³) operation)**: （已解释）\n**RMM-DIIS方法相对于其他最小化方法的改进 (improvement of the RMM-DIIS method over other minimization methods)**: RMM-DIIS算法在性能上优于其他优化方法。\n**微不足道 (negligible)**: 非常小，可以忽略不计。\n**RMM-DIIS方法的主要优点 (main advantage of the RMM-DIIS method)**: 该算法最重要的优势。\n**减少O(N³)操作 (reduce O(N³) operations)**: 降低计算复杂度为N三次方操作的数量。\n**正交归一化 (orthonormalization)**: （已解释）\n**绝对最小值 (absolute minimum)**: 尽可能地减少。\n**Gram-Schmidt正交归一化 (Gram-Schmidt orthonormalization)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�43�",
+      "page": "9",
+      "attachment_key": "J97NB93X",
+      "file": "eq_43_J97NB93X.png"
     },
     {
-      "id": "eq44",
+      "id": "eq_44",
       "title": "Equation 44",
-      "content": "$$\n(42)\n\n**steps**, whereas the **explicit orthogonalization of the gradients** of each **band** to **all other bands** in Eq. ~29! takes twice as many **steps**,\n**步**，而方程(29)中将每个**能带**的**梯度显式正交化**到**所有其他能带**需要两倍的**步数**：\n**步 (steps)**: 算法中的计算步骤。\n**梯度的显式正交化 (explicit orthogonalization of the gradients)**: 明确地对梯度进行正交化处理。\n**能带 (band)**: （已解释）\n**所有其他能带 (all other bands)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�44�",
+      "page": "9",
+      "attachment_key": "AWHT32XR",
+      "file": "eq_44_AWHT32XR.png"
     },
     {
-      "id": "eq45",
+      "id": "eq_45",
       "title": "Equation 45",
-      "content": "$$\n(43)\n\nBut even worse, the **explicit orthogonalization** makes any **efficient memory caching** impossible. The **CG algorithm** is strictly **sequential** and at each **iteration** the new **gradient** must be **orthogonalized** to **all other bands**, requiring a **large bandwidth** from the **main memory**. For the **Gram-Schmidt orthonormalization** a **routine with good data locality** which avoids this **problem** can be found easily and **Tort is therefore, depending on the computer system, 4–8 times larger than TGS** ~see Appendix A!). **Efficient routines with good data locality** can also be found for the **subspace rotation**, and the **number of operations** is\n但更糟糕的是，**显式正交化**使得任何**高效内存缓存**成为不可能。**CG算法**是严格**序贯的**，并且在每次**迭代**中，新的**梯度**必须与**所有其他能带**进行**正交化**，这需要**主内存**具有**大带宽**。对于**Gram-Schmidt正交归一化**，可以很容易找到一个避免这个**问题**的**具有良好数据局部性的例程**，因此**T_ort**（根据**计算机系统**的不同）比**T_GS大4-8倍**（参见附录A！）。对于**子空间旋转**，也可以找到**具有良好数据局部性的高效例程**，并且**操作数量**为：\n**显式正交化 (explicit orthogonalization)**: （已解释）\n**高效内存缓存 (efficient memory caching)**: 有效利用计算机缓存来加速数据访问。\n**CG算法 (CG algorithm)**: （已解释）\n**序贯 (sequential)**: （已解释）\n**迭代 (iteration)**: （已解释）\n**梯度 (gradient)**: （已解释）\n**正交化 (orthogonalized)**: 经过正交化处理。\n**所有其他能带 (all other bands)**: （已解释）\n**大带宽 (large bandwidth)**: （已解释）\n**主内存 (main memory)**: （已解释）\n**Gram-Schmidt正交归一化 (Gram-Schmidt orthonormalization)**: （已解释）\n**具有良好数据局部性的例程 (routine with good data locality)**: 计算机程序中，访问内存时尽可能集中在邻近地址的例程，以提高缓存命中率。\n**问题 (problem)**: （已解释）\n**计算机系统 (computer system)**: 计算机的硬件和软件配置。\n**子空间旋转 (subspace rotation)**: （已解释）\n**操作数量 (number of operations)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�45�",
+      "page": "9",
+      "attachment_key": "V7AN9R65",
+      "file": "eq_45_V7AN9R65.png"
     },
     {
-      "id": "eq46",
+      "id": "eq_46",
       "title": "Equation 46",
-      "content": "$$\n(44)\n\nFor **large systems**, where the **orthogonalization** is the **leading factor**, one **RMM-DIIS step** is clearly much faster than one **CG step**, if we consider only **O(N³) operations** the **improve ment** is close to a factor of 4 ~assuming that **Tort'4TGS**, and that each **band** is optimized twice!). For the **RMM-DIIS scheme**, we have found a **nearly quadratic scaling** for **systems containing up to 1000 electrons**. This means that **cells with approximately 200 ‘‘simple’’ atoms** ~Al, Si, C! and **100 transition metal atoms** can be treated efficiently, for these **system sizes** the **RMM-DIIS scheme is twice as fast as the CG scheme**. At this point we want to comment on the **number of iterations required in the iterative matrix diagonalization**. With ‘‘**number of iterations**’’ we always refer to the **number of outer loops**, the **number of iterations in the inner loop** is kept fixed, and we have discussed the **break criterion for the inner loop** previously. Let us assume for the moment that the **Hamiltonian** is kept fixed. The **convergence behavior** for **some methods** was discussed recently by **Annett**34 and **Tassone et al.**8 and a **similar analysis** can be done in our case. The **convergence depends mainly on the eigenvalue spectrum of the Hamilton matrix**. Assuming that the **trial wave function** fi is close to the **real eigenvector** ji , it is possible to expand fi in terms of the **real eigenvectors** jj\n对于**大型系统**，其中**正交化**是**主导因素**，一个**RMM-DIIS步**明显比一个**CG步**快得多，如果我们只考虑**O(N³)操作**，**改进**接近4倍（假设**T_ort≈4T_GS**，并且每个**能带**优化两次！）。对于**RMM-DIIS方案**，我们发现对于**包含多达1000个电子的系统**，具有**近二次方缩放**。这意味着可以高效处理**包含约200个“简单”原子**（Al、Si、C）和**100个过渡金属原子**的**晶胞**，对于这些**系统尺寸**，**RMM-DIIS方案比CG方案快两倍**。此时，我们想评论一下**迭代矩阵对角化所需的迭代次数**。这里的“**迭代次数**”始终指**外循环的次数**，**内循环的迭代次数**保持固定，我们之前讨论了**内循环的停止判据**。让我们暂时假设**哈密顿量**保持固定。最近**Annett**³⁴和**Tassone等人**⁸讨论了**某些方法的收敛行为**，我们的情况也可以进行**类似分析**。**收敛性主要取决于哈密顿矩阵的本征值谱**。假设**试探波函数**f_i接近**真实本征矢量**j_i，则可以将f_i用**真实本征矢量**j_j展开：\n**大型系统 (large systems)**: （已解释）\n**正交化 (orthogonalization)**: （已解释）\n**主导因素 (leading factor)**: （已解释）\n**RMM-DIIS步 (RMM-DIIS step)**: （已解释）\n**CG步 (CG step)**: （已解释）\n**O(N³)操作 (O(N³) operations)**: （已解释）\n**改进 (improvement)**: （已解释）\n**能带 (band)**: （已解释）\n**RMM-DIIS方案 (RMM-DIIS scheme)**: （已解释）\n**近二次方缩放 (nearly quadratic scaling)**: 算法的计算成本近似随系统尺寸的平方增长。\n**包含多达1000个电子的系统 (systems containing up to 1000 electrons)**: 电子数量较多的系统。\n**包含约200个“简单”原子 (cells with approximately 200 ‘‘simple’’ atoms)**: 含有较少电子且计算相对简单的原子。\n**100个过渡金属原子 (100 transition metal atoms)**: 含有较多电子且计算复杂度较高的原子。\n**晶胞 (cells)**: 晶体学中晶体的基本重复单元。\n**系统尺寸 (system sizes)**: （已解释）\n**RMM-DIIS方案比CG方案快两倍 (RMM-DIIS scheme is twice as fast as the CG scheme)**: 性能提升一倍。\n**迭代矩阵对角化所需的迭代次数 (number of iterations required in the iterative matrix diagonalization)**: 在迭代对角化过程中，算法达到收敛所需的迭代次数。\n**迭代次数 (number of iterations)**: （已解释）\n**外循环的次数 (number of outer loops)**: 算法主要迭代过程的次数。\n**内循环的迭代次数 (number of iterations in the inner loop)**: 在外循环内部，用于解决子问题的迭代次数。\n**内循环的停止判据 (break criterion for the inner loop)**: 控制内循环停止的条件。\n**哈密顿量 (Hamiltonian)**: （已解释）\n**收敛行为 (convergence behavior)**: 算法收敛过程的特性。\n**某些方法 (some methods)**: 部分算法。\n**Annett**: J.F. Annett，凝聚态物理计算领域的研究人员。\n**Tassone et al.**: F. Tassone等人，量子力学计算领域的研究人员。\n**类似分析 (similar analysis)**: 采用相同或相似的方法进行分析。\n**哈密顿矩阵的本征值谱 (eigenvalue spectrum of the Hamilton matrix)**: 哈密顿矩阵所有本征值的集合。\n**试探波函数 (trial wave function)**: （已解释）\n**真实本征矢量 (real eigenvector)**: 矩阵或算符的真实本征矢量。\n\n$$",
-      "page": "-"
+      "content": "�46�",
+      "page": "9",
+      "attachment_key": "2XCBX6NK",
+      "file": "eq_46_2XCBX6NK.png"
     },
     {
-      "id": "eq47",
+      "id": "eq_47",
       "title": "Equation 47",
-      "content": "$$\n(45)\n\nwhere c j is small. To **second order** the **residual vector** is given by\n其中c_j很小。**二阶**下，**残差矢量**由下式给出：\n**二阶 (second order)**: 在数学展开中，考虑到变量的平方项。\n**残差矢量 (residual vector)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�47�",
+      "page": "10",
+      "attachment_key": "G4TYLD5R",
+      "file": "eq_47_G4TYLD5R.png"
     },
     {
-      "id": "eq48",
+      "id": "eq_48",
       "title": "Equation 48",
-      "content": "$$\n(46)\n\nThe **required number of iterations** depends only on the **range of g5ej2ei** and for a **simple steepest-descent approach** it is given by gmax /gmin , for the **CG** and **RMM-DIIS scheme** it is given by Agmax /gmin.34 Actually our **algorithm** is **some mixture in between** because we do a **quite small number of CG** and **RMM-DIIS steps** for each **band**. The **value of gmax** is clearly **independent of the system size** and mainly determined by the **plane-wave cutoff**. Because of the **dominance of the kinetic energy part gmax is equal to gmax'\\2Gcut 2 /2me**. The **preconditioning** @according to Eq. ~30!# **limits gmax**, it **effectively removes the kinetic energy dominance from the residual vector** and makes the **convergence practically independent of the chosen cutoff**. The **effect of the subspace rotation** is to **limit gmin**. After the **subspace rotation**, each **trial wave function** fi does not contain any component of **eigenvectors** $jj ; j51, . . . ,Nb ; jfii% up to **second order** and the **residual vector** is not pointing into the direction of **another band included in the trial basis set** @see Eq. ~40!#. In other words, only **components resulting from the bands above the highest band included in the calculation** can contribute in Eq. ~46!, i.e., the **smallest g is then determined by e(Nb11)2ei**. The **band which converges slowest** is evidently the **highest band i5Nb**, and **gmin for this band is determined by the spacing of the eigenvalues at the top of the included number of bands** ~for a **lower band index** the **energetical distance** to the **band i5Nb11** will be larger resulting in a **faster convergence**!). If only **occupied bands** are taken into account in the **calculation of a metal** then **gmin will depend on the system size** and the **larger the system is the slower the convergence of the highest band** ~and hence of the **total energy** and the **forces**!) will be. Mind\n**所需的迭代次数**仅取决于**g=e_j-e_i的范围**，对于**简单的最速下降法**，它由g_max/g_min给出，对于**CG**和**RMM-DIIS方案**，它由A√g_max/g_min给出³⁴。实际上，我们的**算法**是**介于两者之间的一种混合**，因为我们每个**能带**只进行**少量CG**和**RMM-DIIS步**。**g_max的值**显然**与系统大小无关**，主要由**平面波截断**决定。由于**动能部分的优势，g_max等于g_max≈ħ²G_cut²/2m_e**。**预处理**（根据方程(30)）**限制了g_max**，它**有效地消除了残差矢量中动能的主导地位**，并使**收敛实际上与所选截断无关**。**子空间旋转的效果**是**限制g_min**。在**子空间旋转**之后，每个**试探波函数**f_i在**二阶**以内不包含任何**本征矢量**j_j（j=1, ..., Nb; j≠i）的成分，并且**残差矢量**不指向**试探基组中包含的另一个能带**的方向（参见方程(40)！）。换句话说，只有**计算中包含的最高能带之上的能带产生的成分**才能在方程(46)中起作用，即**最小的g由e(Nb+1)-e_i决定**。**收敛最慢的能带**显然是**最高能带i=Nb**，并且**该能带的g_min由包含的能带数量顶部的本征值间距决定**（对于**较低的能带索引**，与**能带i=Nb+1**的**能量距离**会更大，从而导致**更快的收敛**！）。如果在**金属计算**中只考虑**占据能带**，那么**g_min将取决于系统大小**，并且**系统越大，最高能带**（以及因此**总能量**和**力**！）的**收敛越慢**。请注意\n**所需的迭代次数 (required number of iterations)**: （已解释）\n**g=ej-ei的范围 (range of g=ej-ei)**: 本征值差异的范围。\n**简单的最速下降法 (simple steepest-descent approach)**: （已解释）\n**CG**: （已解释）\n**RMM-DIIS方案 (RMM-DIIS scheme)**: （已解释）\n**算法 (algorithm)**: （已解释）\n**介于两者之间的一种混合 (some mixture in between)**: 结合了两种或多种方法的特点。\n**少量CG (small number of CG)**: 少数共轭梯度步骤。\n**RMM-DIIS步 (RMM-DIIS steps)**: （已解释）\n**能带 (band)**: （已解释）\n**gmax的值 (value of gmax)**: 最大g值。\n**与系统大小无关 (independent of the system size)**: 不随系统大小变化。\n**平面波截断 (plane-wave cutoff)**: （已解释）\n**动能部分的优势 (dominance of the kinetic energy part)**: 体系中动能贡献占据主导地位。\n**预处理 (preconditioning)**: （已解释）\n**限制了gmax (limits gmax)**: 限制了最大g值。\n**有效地消除了残差矢量中动能的主导地位 (effectively removes the kinetic energy dominance from the residual vector)**: 预处理通过减少动能项对残差矢量的影响来改善收敛。\n**收敛实际上与所选截断无关 (convergence practically independent of the chosen cutoff)**: 算法收敛性能不受平面波截断值的影响。\n**子空间旋转的效果 (effect of the subspace rotation)**: 子空间旋转带来的影响。\n**限制gmin (limit gmin)**: 限制最小g值。\n**试探波函数 (trial wave function)**: （已解释）\n**本征矢量 (eigenvectors)**: （已解释）\n**二阶 (second order)**: （已解释）\n**残差矢量 (residual vector)**: （已解释）\n**试探基组中包含的另一个能带 (another band included in the trial basis set)**: 试探基组中除了当前能带之外的其他能带。\n**计算中包含的最高能带之上的能带产生的成分 (components resulting from the bands above the highest band included in the calculation)**: 能量高于计算中包含的最高能带的那些能带的贡献。\n**最小的g (smallest g)**: 最小的本征值差异。\n**收敛最慢的能带 (band which converges slowest)**: 算法优化时收敛速度最慢的能带。\n**最高能带 (highest band)**: 能量最高的能带。\n**该能带的g_min由包含的能带数量顶部的本征值间距决定 (gmin for this band is determined by the spacing of the eigenvalues at the top of the included number of bands)**: 最小g值由包含能带能量上限处的本征值间距决定。\n**较低的能带索引 (lower band index)**: 能量较低能带的索引。\n**能量距离 (energetical distance)**: 能量值之间的差异。\n**更快的收敛 (faster convergence)**: 算法收敛速度更快。\n**金属计算 (calculation of a metal)**: 对金属体系进行的计算。\n**gmin将取决于系统大小 (gmin will depend on the system size)**: 最小g值随系统大小变化。\n**系统越大，最高能带的收敛越慢 (larger the system is the slower the convergence of the highest band)**: 系统越大，能量最高的能带收敛越慢。\n**总能量 (total energy)**: （已解释）\n**力 (forces)**: （已解释）\n\nthat a **small g means that the energy is varying very slowly in the corresponding direction**, and actually these ‘‘**soft**’’ **modes** are also the reason why **CP-MD’s are inherently instable for metals**, i.e., because of the **weak curvature of the total energy** the **modes are oscillating with a very low frequency in the CP approach** and **couple strongly to the ionic degrees of freedom**. The **key point** is the **inclusion of a sufficient number of empty bands** so that for **all occupied bands gmin is sufficiently large**. If the **unoccupied bands** span an **energy range Eunoccupied** then **gmin will have a lower bound of Eunoccupied for all occupied bands** ~resulting in a **convergence of the total energy and of the forces which is independent of the system size**!). In this case the **problematic region where the convergence is slow and system size dependent is moved upwards to the unoccupied bands**, which are of no importance for the **total energy** and **forces**. It is now rather clear that, both ~i! the **subspace rotation** ~no matter which **system type**!) and ~ii! a **reasonable number of empty bands** are required in order to get an **efficient scheme for metals**. In principle, it might seem that **O(N³) operations** can be omitted totally but this is **shortsighted**. Not only the **overall stability** will degrade without these **operations** ~see Sec. III A!), but also the **savings in CPU time per iteration** would be overcompensated by an **increased number of iterations needed to achieve a certain accuracy** ~the **real important quantity** is the **product of CPU time per iteration times the number of necessary iterations**!). Only for **rather small cells with a large spacing of the eigenvalues** merely any **algorithm** works **reliably**. We will demonstrate that our approach is very **stable** even for **transition metals** ~with a **small level spacing**!) and we will demonstrate that the **number of iterations is independent of the system size**. Overall the **scaling of the CPU-time requirements** of our **iterative matrix diagonalization scheme** is **nearly quadratic with respect to the system size**, i.e., **O(N²)**, for **systems containing up to 1000 electrons**. For **self-consistent calculations** things are more complicated and in this case the **number of iterations** is often mainly determined by the **convergence of the charge density mixing scheme**. This **topic** will be addressed in Sec. IV B.\ng小意味着**能量在相应方向上变化非常缓慢**，而这些“**软**”**模式**实际上也是**CP-MD对金属而言本质上不稳定**的原因，即，由于**总能量的弱曲率**，**CP方法中的模式以非常低的频率振荡**并**与离子自由度强烈耦合**。**关键点**是**包含足够数量的空带**，以便**所有占据带的g_min足够大**。如果**未占据带**跨越**能量范围E_unoccupied**，那么**所有占据带的g_min将有一个E_unoccupied的下限**（导致**总能量和力的收敛与系统大小无关**！）。在这种情况下，**收敛缓慢且依赖于系统大小的问题区域被向上移动到未占据带**，这对**总能量**和**力**不重要。现在很清楚，为了获得**金属的高效方案**，需要（i）**子空间旋转**（无论**系统类型**如何！）和（ii）**合理数量的空带**。原则上，可能看起来**O(N³)操作**可以完全省略，但这**目光短浅**。没有这些**操作**（参见第三节A），不仅**整体稳定性**会下降，而且**每次迭代节省的CPU时间**也会被**达到一定精度所需的迭代次数增加**所抵消（**真正重要的量**是**每次迭代的CPU时间乘以必要的迭代次数**的乘积！）。只有对于**本征值间距大**的**相当小的晶胞**，任何**算法**才能**可靠地工作**。我们将证明我们的方法即使对于**过渡金属**（**能级间距小**！）也非常**稳定**，并且我们将证明**迭代次数与系统大小无关**。总体而言，我们**迭代矩阵对角化方案**的**CPU时间要求缩放**对于**包含多达1000个电子的系统**，相对于**系统大小**是**近似二次方的**，即**O(N²)**。对于**自洽计算**，情况更复杂，在这种情况下，**迭代次数**通常主要由**电荷密度混合方案的收敛性**决定。这个**主题**将在第四节B中讨论。\n**小g意味着能量在相应方向上变化非常缓慢 (small g means that the energy is varying very slowly in the corresponding direction)**: 物理上，小的本征值差意味着在对应本征方向上，能量势能面非常平坦。\n**软模式 (soft modes)**: 在振动谱中，频率较低的模式。\n**CP-MD对金属而言本质上不稳定 (CP-MD’s are inherently instable for metals)**: Car-Parrinello分子动力学方法在模拟金属体系时可能出现不稳定性。\n**总能量的弱曲率 (weak curvature of the total energy)**: 能量势能面在某些方向上非常平坦。\n**CP方法中的模式以非常低的频率振荡 (modes are oscillating with a very low frequency in the CP approach)**: Car-Parrinello方法中，某些模式的振动频率很低。\n**与离子自由度强烈耦合 (couple strongly to the ionic degrees of freedom)**: 电子自由度与离子自由度之间存在强烈的相互作用。\n**关键点 (key point)**: （已解释）\n**包含足够数量的空带 (inclusion of a sufficient number of empty bands)**: 在计算中包含足够多的未被电子占据的能带。\n**所有占据带的g_min足够大 (all occupied bands gmin is sufficiently large)**: 最小本征值差对于所有占据能带都足够大。\n**未占据带 (unoccupied bands)**: （已解释）\n**能量范围Eunoccupied (energy range Eunoccupied)**: 未占据带所跨越的能量区间。\n**所有占据带的g_min将有一个Eunoccupied的下限 (gmin will have a lower bound of Eunoccupied for all occupied bands)**: 对于所有占据带，最小本征值差将不小于未占据带的能量范围。\n**总能量和力的收敛与系统大小无关 (convergence of the total energy and of the forces which is independent of the system size)**: 算法收敛性能不受系统规模影响。\n**收敛缓慢且依赖于系统大小的问题区域被向上移动到未占据带 (problematic region where the convergence is slow and system size dependent is moved upwards to the unoccupied bands)**: 导致收敛困难且依赖于系统大小的能量区域被推到未占据带，从而不影响核心结果。\n**总能量 (total energy)**: （已解释）\n**力 (forces)**: （已解释）\n**子空间旋转 (subspace rotation)**: （已解释）\n**系统类型 (system type)**: 物理系统的分类，如金属、半导体、绝缘体。\n**合理数量的空带 (reasonable number of empty bands)**: （已解释）\n**金属的高效方案 (efficient scheme for metals)**: 适用于金属体系的高效计算方法。\n**O(N³)操作 (O(N³) operations)**: （已解释）\n**目光短浅 (shortsighted)**: 未能考虑到长远的影响。\n**整体稳定性 (overall stability)**: 算法在长时间运行和不同条件下的稳定性。\n**操作 (operations)**: （已解释）\n**每次迭代节省的CPU时间 (savings in CPU time per iteration)**: 每迭代一步所节省的CPU计算时间。\n**达到一定精度所需的迭代次数增加 (increased number of iterations needed to achieve a certain accuracy)**: 为了达到所需的精度，迭代次数增加。\n**真正重要的量 (real important quantity)**: 实际衡量算法性能的关键指标。\n**每次迭代的CPU时间乘以必要的迭代次数 (product of CPU time per iteration times the number of necessary iterations)**: 衡量总计算成本的关键指标。\n**本征值间距大 (large spacing of the eigenvalues)**: 本征值之间的能量差较大。\n**相当小的晶胞 (rather small cells)**: 包含原子数量较少的晶胞。\n**算法 (algorithm)**: （已解释）\n**可靠地工作 (works reliably)**: 算法能够稳定地产生正确结果。\n**稳定 (stable)**: （已解释）\n**过渡金属 (transition metals)**: （已解释）\n**能级间距小 (small level spacing)**: （已解释）\n**迭代次数与系统大小无关 (number of iterations is independent of the system size)**: 算法达到收敛所需的迭代次数不随系统规模变化。\n**CPU时间要求缩放 (scaling of the CPU-time requirements)**: CPU计算时间随系统规模变化的规律。\n**迭代矩阵对角化方案 (iterative matrix diagonalization scheme)**: （已解释）\n**近似二次方的 (nearly quadratic with respect to the system size)**: 计算成本近似随系统尺寸的平方增长。\n**O(N²)**: 计算复杂度为N的二次方。\n**包含多达1000个电子的系统 (systems containing up to 1000 electrons)**: （已解释）\n**自洽计算 (self-consistent calculations)**: （已解释）\n**迭代次数 (number of iterations)**: （已解释）\n**电荷密度混合方案的收敛性 (convergence of the charge density mixing scheme)**: 电荷密度混合算法的收敛性能。\n**主题 (topic)**: 讨论的内容。\n\n## IV. CHARGE DENSITY MIXING\n电荷密度混合\n\nThe second **key step** within our **algorithm** is an **efficient mixing of the input and output charge densities**. The **central quantity**, which has to be minimized in this case is the **charge density residual vector** R@rin# @see Eq. ~19!#,\n我们**算法**中的第二个**关键步骤**是**输入和输出电荷密度的高效混合**。在这种情况下需要最小化的**核心量**是**电荷密度残差矢量**R[rin]（参见方程(19)），\n**关键步骤 (key step)**: 算法中最重要的环节。\n**算法 (algorithm)**: （已解释）\n**输入和输出电荷密度的高效混合 (efficient mixing of the input and output charge densities)**: 在自洽计算中，有效结合新旧电荷密度以加速收敛。\n**核心量 (central quantity)**: 最主要或最重要的物理量。\n**电荷密度残差矢量 (charge density residual vector)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�48�",
+      "page": "10",
+      "attachment_key": "4JE7W8CW",
+      "file": "eq_48_4JE7W8CW.png"
     },
     {
-      "id": "eq49",
+      "id": "eq_49",
       "title": "Equation 49",
-      "content": "$$\n(47)\n\n**Linear mixing** ~or one might call it **steepest-descent mixing**!) adds a certain amount of R to the **current input charge density**,\n**线性混合**（或者可以称之为**最速下降混合**！）将一定量的R添加到**当前输入电荷密度**中：\n**线性混合 (Linear mixing)**: 一种简单的电荷密度混合方法，通过将旧的输入电荷密度和新的输出电荷密度进行线性组合来更新。\n**最速下降混合 (steepest-descent mixing)**: 与最速下降法类似的电荷密度混合方法。\n**当前输入电荷密度 (current input charge density)**: 当前迭代步中作为输入的电荷密度。\n\n$$",
-      "page": "-"
+      "content": "�49�",
+      "page": "10",
+      "attachment_key": "B6JRZ5VK",
+      "file": "eq_49_B6JRZ5VK.png"
     },
     {
-      "id": "eq50",
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "�5�",
+      "page": "3",
+      "attachment_key": "YYD22GN8",
+      "file": "eq_5_YYD22GN8.png"
+    },
+    {
+      "id": "eq_50",
       "title": "Equation 50",
-      "content": "$$\n(48)\n\nThis is usually a **quite slow approach**. If it is assumed that R@r# can be **linearized around its root rsc**,\n这通常是一种**相当慢的方法**。如果假设R[r]可以在其**根rsc周围线性化**：\n**相当慢的方法 (quite slow approach)**: 计算效率较低的方法。\n**在其根rsc周围线性化 (linearized around its root rsc)**: 在函数的零点附近进行泰勒展开，只保留一次项。\n\n$$",
-      "page": "-"
+      "content": "�50�",
+      "page": "10",
+      "attachment_key": "8XGYKKK5",
+      "file": "eq_50_8XGYKKK5.png"
     },
     {
-      "id": "eq51",
+      "id": "eq_51",
       "title": "Equation 51",
-      "content": "$$\n(49)\n\nthen it can be shown that the **convergence** depends only on the **eigenvalue spectrum** G ̄ of the **Jacobian matrix** J, respec tively, on the **eigenvalue spectrum** G51/G ̄ of the **inverse of the Jacobian matrix J21**. A **thorough analysis of the linear mixing approach** was done by **Dederichs** and **Zeller**11 — they showed that the **maximal linear mixing parameter A** is deter mined by A,2/G ̄max52Gmin , and the **number of iterations required to reach a specified precision** is given by G ̄max /G ̄min5Gmax /Gmin .\n那么可以证明，**收敛性**仅取决于**雅可比矩阵**J的**本征值谱**G̅，或者说是**雅可比矩阵J⁻¹的逆的本征值谱**G=1/G̅。**Dederichs**和**Zeller**¹¹对**线性混合方法**进行了**透彻分析**——他们表明，**最大线性混合参数A**由A≈2/G̅_max=2G_min确定，并且**达到指定精度所需的迭代次数**由G̅_max/G̅_min = G_max/G_min给出。\n**收敛性 (convergence)**: （已解释）\n**本征值谱 (eigenvalue spectrum)**: （已解释）\n**雅可比矩阵 (Jacobian matrix)**: 一个向量值函数对其输入向量的所有偏导数组成的矩阵。\n**雅可比矩阵J⁻¹的逆的本征值谱 (eigenvalue spectrum G=1/G̅ of the inverse of the Jacobian matrix J⁻¹)**: 雅可比矩阵逆矩阵的本征值集合。\n**线性混合方法的透彻分析 (thorough analysis of the linear mixing approach)**: 对线性混合方法进行的深入详细研究。\n**Dederichs**: P.H. Dederichs，凝聚态物理计算领域的研究人员。\n**Zeller**: R. Zeller，凝聚态物理计算领域的研究人员。\n**最大线性混合参数A (maximal linear mixing parameter A)**: 线性混合方法中允许使用的最大混合系数。\n**达到指定精度所需的迭代次数 (number of iterations required to reach a specified precision)**: （已解释）\n\nIt is easy to show that the **matrix J is the charge dielectric matrix** which describes the **total self-consistent change of the charge density** rtot5rext1rind for an **external charge perturbation** rext , i.e.,\n很容易证明，**矩阵J是电荷介电矩阵**，它描述了**外部电荷扰动**rext引起的**电荷密度**rtot=rext+rind的**总自洽变化**，即：\n**矩阵J是电荷介电矩阵 (matrix J is the charge dielectric matrix)**: 雅可比矩阵在电荷密度混合中对应于电荷介电矩阵。\n**电荷密度总自洽变化 (total self-consistent change of the charge density)**: 在外部扰动下，电荷密度达到自洽状态后的总变化。\n**外部电荷扰动 (external charge perturbation)**: 施加到系统外部的电荷扰动。\n\n$$",
-      "page": "-"
+      "content": "�51�",
+      "page": "10",
+      "attachment_key": "4NLIRRE8",
+      "file": "eq_51_4NLIRRE8.png"
     },
     {
-      "id": "eq52",
+      "id": "eq_52",
       "title": "Equation 52",
-      "content": "$$\n(50)\n\nFollowing **Vanderbilt** and **Louie**,59 J is given by\n根据**Vanderbilt**和**Louie**⁵⁹，J由下式给出：\n**Vanderbilt**: D. Vanderbilt，物理学家，以其在赝势和投影缀加平面波方法方面的贡献而闻名。\n**Louie**: S.G. Louie，物理学家，以其在凝聚态理论和计算方面的贡献而闻名。\n\n$$",
-      "page": "-"
+      "content": "�52�",
+      "page": "11",
+      "attachment_key": "CMMX5KH8",
+      "file": "eq_52_CMMX5KH8.png"
     },
     {
-      "id": "eq53",
+      "id": "eq_53",
       "title": "Equation 53",
-      "content": "$$\n(50)\n\nwhere **x is the dielectric susceptibility** and **U is an operator describing the change of the potential due to a change of the charge density**; considering the **Hartree potential** only ~which is usually of much higher importance than the **exchange-correlation potential**!), this **operator** is given by ~see, also, Refs. 58, 11, and 34!\n其中**χ是介电磁化率**，**U是一个描述由于电荷密度变化而引起势变化的算符**；如果只考虑**Hartree势**（它通常比**交换关联势**重要得多！），这个**算符**由下式给出（另见参考文献58, 11和34）：\n**x是介电磁化率 (x is the dielectric susceptibility)**: 描述材料在电场作用下极化程度的物理量。\n**U是描述由于电荷密度变化而引起势变化的算符 (U is an operator describing the change of the potential due to a change of the charge density)**: 物理学中，将电荷密度变化转化为势变化的数学算符。\n**Hartree势 (Hartree potential)**: （已解释）\n**交换关联势 (exchange-correlation potential)**: （已解释）\n**算符 (operator)**: 在量子力学中，作用于波函数以产生另一个波函数或物理量的数学实体。\n\n$$",
-      "page": "-"
+      "content": "�53�",
+      "page": "11",
+      "attachment_key": "MVHMUUIL",
+      "file": "eq_53_MVHMUUIL.png"
     },
     {
-      "id": "eq54",
+      "id": "eq_54",
       "title": "Equation 54",
-      "content": "$$\n(51)\n\nFor **metals** the **dielectric matrix diverges quadratically** for **small q**; this **behavior** is usually called ‘‘**charge sloshing**.’’ Mind that the **dielectric matrix** does not diverge in **insulators** making **self-consistent calculations** much easier in **insulators**.\n对于**金属**，**介电矩阵**在**小q值**时呈**二次方发散**；这种**行为**通常被称为“**电荷晃动**”。请注意，**介电矩阵**在**绝缘体**中不会发散，这使得**绝缘体**中的**自洽计算**更容易。\n**金属 (metals)**: （已解释）\n**介电矩阵呈二次方发散 (dielectric matrix diverges quadratically)**: 介电矩阵的某个元素随参数的平方而无限增大。\n**小q值 (small q)**: 小的波矢量值，对应于长波长。\n**行为 (behavior)**: 系统或函数表现出的特性。\n**电荷晃动 (charge sloshing)**: （已解释）\n**介电矩阵 (dielectric matrix)**: （已解释）\n**绝缘体 (insulators)**: （已解释）\n**自洽计算 (self-consistent calculations)**: （已解释）\n\nRecently, **Annett**34 discussed some aspects of the **convergence of the charge density mixing approach**. He points out that **accelerated Broyden-like methods**62 exist, but incorrectly states that they should not have an **improved scaling** over the **steepest-descent approach**. There is at least one method ~**Tchebycheff acceleration scheme**!) proposed by **Akai** and **Dederichs**11 for which it was shown explicitly that the **number of iterations is proportional to A√Gmax /Gmin**. In addition, **Blügel**60 has demonstrated for several examples that **Broyden-like methods are even more efficient than the Tchebycheff acceleration scheme** and it is well known that **all Broyden or quasi-Newton schemes**62 show also a **quadratic convergence**.13 We therefore assume that for these **methods** the **number of iterations necessary to converge to a specific accuracy** is proportional to A√Gmax /Gmin ~we will come back to this **topic** in Sec. IV B and Sec. V B 2!). In practice, we are again resorting to the **DIIS scheme** proposed by **Pulay**.53 Recently we were able to show39 that this **scheme is closely related to the charge density mixing scheme proposed by Johnson**.61 **Johnson’s scheme** is a **variant of the well known Broyden algorithms**.62 These **algorithms** try to build up an **approximation of the Jacobian ma trix J or the inverse of the Jacobian matrix G5J21 by updating an approximation of the Jacobian matrix at each iteration** and were pioneered for **electronic structure calcula tions** by **Bendt** and **Zunger**63 and **Ho**, **Ihm**, and **Joannopoulos**.58 **Storing the full N3N Jacobian matrix is rarely possible for large self-consistency problems**, but in the\n最近，**Annett**³⁴讨论了**电荷密度混合方法收敛性**的一些方面。他指出存在**加速Broyden型方法**⁶²，但错误地声称它们相对于**最速下降法**不应具有**改进的缩放性能**。至少有一种方法（**Tchebycheff加速方案**！）由**Akai**和**Dederichs**¹¹提出，其明确表明**迭代次数与A√G_max/G_min成正比**。此外，**Blügel**⁶⁰已通过几个例子证明，**Broyden型方法甚至比Tchebycheff加速方案更高效**，并且众所周知，**所有Broyden或准牛顿方案**⁶²也表现出**二次收敛**¹³。因此，我们假设对于这些**方法**，**收敛到特定精度所需的迭代次数**与A√G_max/G_min成正比（我们将在第四节B和第五节B2中回到这个**主题**！）。在实践中，我们再次求助于**Pulay**⁵³提出的**DIIS方案**。最近我们能够证明³⁹，这个**方案与Johnson提出的电荷密度混合方案密切相关**⁶¹。**Johnson的方案**是**众所周知的Broyden算法的变体**⁶²。这些**算法**试图**通过在每次迭代中更新雅可比矩阵的近似来构建雅可比矩阵J或雅可比矩阵G=J⁻¹的逆的近似**，并由**Bendt**和**Zunger**⁶³以及**Ho**、**Ihm**和**Joannopoulos**⁵⁸开创用于**电子结构计算**。**存储完整的N×N雅可比矩阵对于大型自洽问题很少可能**，但在\n**Annett**: （已解释）\n**电荷密度混合方法收敛性 (convergence of the charge density mixing approach)**: 电荷密度混合算法的收敛性能。\n**加速Broyden型方法 (accelerated Broyden-like methods)**: 一类通过近似雅可比矩阵来加速收敛的Broyden方法。\n**改进的缩放性能 (improved scaling)**: 算法性能随系统尺寸增长的改善。\n**最速下降法 (steepest-descent approach)**: （已解释）\n**Tchebycheff加速方案 (Tchebycheff acceleration scheme)**: 一种基于切比雪夫多项式的迭代加速方法。\n**Akai**: H. Akai，凝聚态物理计算领域的研究人员。\n**Dederichs**: （已解释）\n**迭代次数与A√Gmax /Gmin成正比 (number of iterations is proportional to A√Gmax /Gmin)**: 迭代次数与这个比值成正比。\n**Blügel**: S. Blügel，凝聚态物理计算领域的研究人员。\n**Broyden型方法甚至比Tchebycheff加速方案更高效 (Broyden-like methods are even more efficient than the Tchebycheff acceleration scheme)**: Broyden方法在某些情况下比Tchebycheff方法收敛更快。\n**Broyden或准牛顿方案 (Broyden or quasi-Newton schemes)**: 一类优化算法，通过近似Hessian矩阵或其逆来加速收敛。\n**二次收敛 (quadratic convergence)**: 迭代误差在每一步都平方下降的收敛速度。\n**方法 (methods)**: （已解释）\n**收敛到特定精度所需的迭代次数 (number of iterations necessary to converge to a specific accuracy)**: （已解释）\n**主题 (topic)**: （已解释）\n**DIIS方案 (DIIS scheme)**: （已解释）\n**Pulay**: （已解释）\n**方案与Johnson提出的电荷密度混合方案密切相关 (scheme is closely related to the charge density mixing scheme proposed by Johnson)**: 两种方法在原理或数学形式上相似。\n**Johnson’s scheme**: D.D. Johnson提出的电荷密度混合方案。\n**Broyden算法的变体 (variant of the well known Broyden algorithms)**: Broyden算法的一种修改或特殊形式。\n**算法 (algorithms)**: （已解释）\n**通过在每次迭代中更新雅可比矩阵的近似来构建雅可比矩阵J或雅可比矩阵G=J⁻¹的逆的近似 (build up an approximation of the Jacobian matrix J or the inverse of the Jacobian matrix G=J⁻¹ by updating an approximation of the Jacobian matrix at each iteration)**: 逐步构建雅可比矩阵或其逆的近似。\n**电子结构计算 (electronic structure calcula tions)**: 计算多电子体系的量子力学性质。\n**Bendt**: P. Bendt，凝聚态物理计算领域的研究人员。\n**Zunger**: （已解释）\n**Ho**: （已解释）\n**Ihm**: J. Ihm，凝聚态物理计算领域的研究人员。\n**Joannopoulos**: J.D. Joannopoulos，凝聚态物理计算领域的研究人员。\n**存储完整的N×N雅可比矩阵对于大型自洽问题很少可能 (Storing the full N×N Jacobian matrix is rarely possible for large self-consistency problems)**: 雅可比矩阵通常太大，无法完全存储。\n\npast few years several **authors** were able to derive **modified algorithms** which require only the **storage of a few N-dimensional vectors** for each **iteration**.64,60 **Johnson’s approach** is such a **reformation of a modified Broyden scheme** proposed by **Vanderbilt** and **Louie**,59 in which **all information obtained in previous steps is kept during the update of the inverse of the Jacobian matrix**. It was demonstrated, for instance, in Ref. 59 that this **scheme is superior to Broyden’s second method**, and in several **tests** we have seen that especially for **surfaces** the **improvement of Pulay’s method over Broyden’s second method can be substantial** ~see also our recent work39!).\n在过去的几年里，几位**作者**能够推导出**改进的算法**，这些算法在每次**迭代**中只需**存储几个N维矢量**⁶⁴,⁶⁰。**Johnson的方法**是对**Vanderbilt**和**Louie**⁵⁹提出的**改进Broyden方案**的**重构**，其中**在更新雅可比矩阵的逆时，保留了先前步骤中获得的所有信息**。例如，参考文献59证明，这个**方案优于Broyden第二方法**，并且在几次**测试**中我们发现，特别是在**表面**计算中，**Pulay方法相对于Broyden第二方法的改进可能非常显著**（另见我们最近的工作³⁹！）。\n**作者 (authors)**: 论文的撰写者。\n**改进的算法 (modified algorithms)**: 经过修改以提高性能的算法。\n**存储几个N维矢量 (storage of a few N-dimensional vectors)**: 只需存储少量与系统尺寸N相关的矢量，而不是整个矩阵。\n**迭代 (iteration)**: （已解释）\n**Johnson的方法 (Johnson’s approach)**: D.D. Johnson提出的方法。\n**改进Broyden方案的重构 (reformation of a modified Broyden scheme)**: 对Broyden方案进行修改和重新构建。\n**Vanderbilt**: （已解释）\n**Louie**: （已解释）\n**在更新雅可比矩阵的逆时，保留了先前步骤中获得的所有信息 (all information obtained in previous steps is kept during the update of the inverse of the Jacobian matrix)**: 算法利用了历史信息来改进收敛。\n**方案优于Broyden第二方法 (scheme is superior to Broyden’s second method)**: 该方案的性能优于Broyden第二方法。\n**测试 (tests)**: 实验或模拟。\n**表面 (surfaces)**: 材料与真空或其他介质之间的界面。\n**Pulay方法相对于Broyden第二方法的改进可能非常显著 (improvement of Pulay’s method over Broyden’s second method can be substantial)**: Pulay方法在性能上比Broyden第二方法有显著提升。\n\n## A. Pulay mixing\nPulay混合\n\nIn this section we will shortly review **Pulay’s approach**, using a **notation** which is more **natural** for the **problem of charge density mixing**. In the **scheme of Pulay**53 the **input charge density** and the **residual vectors** are **stored for a number of mixing steps**. A **new optimal input charge density** is obtained in each **step** as a **linear combination of the input charge densities of all previous steps**,\n在本节中，我们将简要回顾**Pulay的方法**，使用一种对于**电荷密度混合问题**更**自然**的**符号系统**。在**Pulay方案**⁵³中，**输入电荷密度**和**残差矢量**被**存储用于多个混合步骤**。在每个**步骤**中，通过**所有先前步骤的输入电荷密度的线性组合**获得**新的最优输入电荷密度**：\n**Pulay的方法 (Pulay’s approach)**: Pulay提出的DIIS方法。\n**符号系统 (notation)**: 数学或科学中使用的符号表示方法。\n**自然 (natural)**: 直观或符合逻辑。\n**电荷密度混合问题 (problem of charge density mixing)**: 在自洽计算中，电荷密度混合的挑战。\n**Pulay方案 (scheme of Pulay)**: （已解释）\n**输入电荷密度 (input charge density)**: （已解释）\n**残差矢量 (residual vectors)**: （已解释）\n**存储用于多个混合步骤 (stored for a number of mixing steps)**: 算法在多个迭代步中保存了相关信息。\n**新的最优输入电荷密度 (new optimal input charge density)**: 通过优化过程得到的最佳输入电荷密度。\n**步骤 (step)**: 算法中的一个操作。\n**所有先前步骤的输入电荷密度的线性组合 (linear combination of the input charge densities of all previous steps)**: 将过去迭代的输入电荷密度进行加权平均。\n\n$$",
-      "page": "-"
+      "content": "�54�",
+      "page": "11",
+      "attachment_key": "7A3S9FI7",
+      "file": "eq_54_7A3S9FI7.png"
     },
     {
-      "id": "eq55",
+      "id": "eq_55",
       "title": "Equation 55",
-      "content": "$$\n(52)\n\nAssuming **linearity of the residual vector with respect to the input charge density** rin , the **residual vector** at rin\nopt is given by\n假设**残差矢量相对于输入电荷密度rin呈线性关系**，则在最优rin处的**残差矢量**由下式给出：\n**残差矢量相对于输入电荷密度rin呈线性关系 (linearity of the residual vector with respect to the input charge density)**: 残差矢量随输入电荷密度的变化呈线性关系。\n**残差矢量 (residual vector)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�55�",
+      "page": "11",
+      "attachment_key": "KT8V2AEL",
+      "file": "eq_55_KT8V2AEL.png"
     },
     {
-      "id": "eq56",
+      "id": "eq_56",
       "title": "Equation 56",
-      "content": "$$\n(53)\n\nThe **optimal new charge density** must **minimize the norm of the residual vector**,\n**最优的新电荷密度**必须**最小化残差矢量的范数**：\n**最优的新电荷密度 (optimal new charge density)**: 优化后的最佳电荷密度。\n**最小化残差矢量的范数 (minimize the norm of the residual vector)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�56�",
+      "page": "11",
+      "attachment_key": "G9BTIIRW",
+      "file": "eq_56_G9BTIIRW.png"
     },
     {
-      "id": "eq57",
-      "title": "Equation 57",
-      "content": "$$\n(54)\n\nwith respect to ai subject to the **constraint**\n相对于ai，受**约束**：\n**约束 (constraint)**: （已解释）\n\n$$",
-      "page": "-"
-    },
-    {
-      "id": "eq58",
+      "id": "eq_58",
       "title": "Equation 58",
-      "content": "$$\n(55)\n\nwhich **conserves the number of electrons**. These **equations are very similar to those given in Sec. III B**, only the **functional form of the constraint has changed**. The **optimal ai is now given by**\n这**守恒了电子数量**。这些**方程与第三节B中给出的方程非常相似**，只是**约束的函数形式发生了变化**。**最优的ai现在由下式给出**：\n**守恒了电子数量 (conserves the number of electrons)**: 物理体系中电子的总数保持不变。\n**方程与第三节B中给出的方程非常相似 (equations are very similar to those given in Sec. III B)**: 这些数学表达式与先前介绍的相似。\n**约束的函数形式发生了变化 (functional form of the constraint has changed)**: 约束条件的数学表达形式发生了改变。\n**最优的ai (optimal ai)**: 优化得到的最佳系数ai。\n\n$$",
-      "page": "-"
+      "content": "�58�",
+      "page": "11",
+      "attachment_key": "TXK88B65",
+      "file": "eq_58_TXK88B65.png"
     },
     {
-      "id": "eq59",
+      "id": "eq_59",
       "title": "Equation 59",
-      "content": "$$\n(56)\n\nWe were able to show39 that this **update** is equivalent to a **quasi-Newton scheme** in which the **inverse of the Jacobian matrix** is given in each **iteration** by\n我们能够证明³⁹，这种**更新**等价于一个**准牛顿方案**，其中**雅可比矩阵的逆**在每次**迭代**中由下式给出：\n**更新 (update)**: 修正或改进某个值。\n**准牛顿方案 (quasi-Newton scheme)**: 一类优化算法，通过近似Hessian矩阵或其逆来加速收敛。\n**雅可比矩阵的逆 (inverse of the Jacobian matrix)**: 雅可比矩阵的逆矩阵。\n**迭代 (iteration)**: （已解释）\n\n$$",
-      "page": "-"
+      "content": "�59�",
+      "page": "11",
+      "attachment_key": "GGHNNJWF",
+      "file": "eq_59_GGHNNJWF.png"
     },
     {
-      "id": "eq60",
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "�6�",
+      "page": "3",
+      "attachment_key": "5WT67XYA",
+      "file": "eq_6_5WT67XYA.png"
+    },
+    {
+      "id": "eq_60",
       "title": "Equation 60",
-      "content": "$$\n(57)\n\nwhere\n其中\n$$",
-      "page": "-"
+      "content": "�60�",
+      "page": "11",
+      "attachment_key": "4IFGLYJH",
+      "file": "eq_60_4IFGLYJH.png"
     },
     {
-      "id": "eq61",
+      "id": "eq_61",
       "title": "Equation 61",
-      "content": "$$\n(58)\n\nand\n并且\n$$",
-      "page": "-"
+      "content": "�61�",
+      "page": "11",
+      "attachment_key": "2BAP3JYX",
+      "file": "eq_61_2BAP3JYX.png"
     },
     {
-      "id": "eq62",
+      "id": "eq_62",
       "title": "Equation 62",
-      "content": "$$\n(59)\n\nwith i,m. Having an **explicit formula for the inverse of the Jacobian matrix** is **convenient** because it has some **physical meaning** ~it is the **inverse of the charge dielectric matrix** discussed above!). It is easy to see that **Gm defined in Eq. ~57! fulfills the equation**\n其中i,m。拥有**雅可比矩阵逆的显式公式**是**方便的**，因为它具有一定的**物理意义**（它是上面讨论的**电荷介电矩阵的逆**！）。很容易看出，**方程(57)中定义的Gm满足方程**：\n**雅可比矩阵逆的显式公式 (explicit formula for the inverse of the Jacobian matrix)**: 雅可比矩阵逆矩阵的直接数学表达式。\n**方便 (convenient)**: 易于使用。\n**物理意义 (physical meaning)**: 物理量或数学表达式在物理世界中的解释。\n**电荷介电矩阵的逆 (inverse of the charge dielectric matrix)**: 电荷介电矩阵的逆矩阵。\n**方程(57)中定义的Gm满足方程 (Gm defined in Eq. (57) fulfills the equation)**: 方程(57)给出的Gm满足以下等式。\n\n$$",
-      "page": "-"
+      "content": "�62�",
+      "page": "11",
+      "attachment_key": "SJNYREFX",
+      "file": "eq_62_SJNYREFX.png"
     },
     {
-      "id": "eq63",
+      "id": "eq_63",
       "title": "Equation 63",
-      "content": "$$\n(60)\n\nThis indicates that **Gm is the best approximation of the exact inverse of the Jacobian matrix J21 in the subspace searched up to now**. This can be seen by subtracting Eq. ~49! for **iteration** i and i11 and multiplying on the left with J21 giving J21uDRi&amp;52uDri&amp;.\n这表明**Gm是迄今为止在搜索子空间中精确雅可比矩阵J⁻¹逆的最佳近似**。这可以通过对**迭代**i和i+1减去方程(49)并左乘J⁻¹得到J⁻¹|ΔR_i&gt; = -|Δρ_i&gt;来验证。\n**Gm是迄今为止在搜索子空间中精确雅可比矩阵J⁻¹逆的最佳近似 (Gm is the best approximation of the exact inverse of the Jacobian matrix J⁻¹ in the subspace searched up to now)**: 在有限的迭代历史所张成的空间中，Gm是最接近真实雅可比矩阵逆的矩阵。\n**迭代 (iteration)**: （已解释）\n\n## B. Preconditioning, metric, and convergence\n预处理、度量和收敛\n\nThere are some **subtle details** which can help to **improve convergence**: The **choice of the trial step**, which is deter mined by G1, and an **optimized metric** for **evaluating the scalar products** ^ u &amp; are important.\n有一些**微妙的细节**可以帮助**提高收敛性**：由G₁决定的**试探步的选择**，以及用于**评估标量积**&lt;A|B&gt;的**优化度量**都很重要。\n**微妙的细节 (subtle details)**: 不易察觉但重要的方面。\n**提高收敛性 (improve convergence)**: 提高算法达到收敛的速度。\n**试探步的选择 (choice of the trial step)**: 在迭代算法中选择步长。\n**优化度量 (optimized metric)**: 用于衡量矢量距离或相似性的最佳方式。\n**评估标量积 (evaluating the scalar products)**: 计算两个矢量的内积。\n\nRegarding Eq. ~57! we can see that **G1 is the initial ap proximation for J21**. It has the same ‘‘**meaning**’’ as the **preconditioning matrix** in the **iterative matrix diagonalization**, the **closer G1 is to the exact inverse of the Jacobian matrix**, the **faster the convergence will be**. For **bulk materials** we usually resort to a **matrix proposed by Kerker**,65\n关于方程(57)，我们可以看到**G₁是J⁻¹的初始近似**。它与**迭代矩阵对角化**中的**预处理矩阵**具有相同的“**意义**”，**G₁越接近雅可比矩阵的精确逆**，**收敛速度就越快**。对于**体材料**，我们通常采用**Kerker**⁶⁵提出的**矩阵**：\n**G1是J⁻¹的初始近似 (G1 is the initial approximation for J⁻¹)**: 算法开始时，雅可比矩阵逆的初步估计。\n**意义 (meaning)**: （已解释）\n**预处理矩阵 (preconditioning matrix)**: （已解释）\n**迭代矩阵对角化 (iterative matrix diagonalization)**: （已解释）\n**G1越接近雅可比矩阵的精确逆 (closer G1 is to the exact inverse of the Jacobian matrix)**: G₁与真实雅可比矩阵逆的相似程度。\n**收敛速度就越快 (faster the convergence will be)**: 算法收敛的速度更快。\n**体材料 (bulk materials)**: （已解释）\n**Kerker**: G.P. Kerker，凝聚态物理计算领域的研究人员。\n**矩阵 (matrix)**: 数学中的矩阵。\n\n$$",
-      "page": "-"
+      "content": "�63�",
+      "page": "12",
+      "attachment_key": "L6G586LE",
+      "file": "eq_63_L6G586LE.png"
+    },
+    {
+      "id": "eq_65",
+      "title": "Equation 65",
+      "content": "�65�",
+      "page": "12",
+      "attachment_key": "GD2CB22R",
+      "file": "eq_65_GD2CB22R.png"
+    },
+    {
+      "id": "eq_66",
+      "title": "Equation 66",
+      "content": "�66�",
+      "page": "12",
+      "attachment_key": "K6GBSXVZ",
+      "file": "eq_66_K6GBSXVZ.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "�7�",
+      "page": "3",
+      "attachment_key": "VP7749BV",
+      "file": "eq_7_VP7749BV.png"
+    },
+    {
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "�8�",
+      "page": "3",
+      "attachment_key": "8U72NRHE",
+      "file": "eq_8_8U72NRHE.png"
+    },
+    {
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "�9�",
+      "page": "3",
+      "attachment_key": "VY6MDRE2",
+      "file": "eq_9_VY6MDRE2.png"
     }
   ],
   "tags": [
     "unread"
   ],
   "materials": [],
-  "methods": [
-    "第一性原理",
-    "TEM",
-    "DFT"
-  ]
+  "methods": []
 }

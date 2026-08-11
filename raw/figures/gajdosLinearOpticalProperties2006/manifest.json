@@ -1,0 +1,322 @@
+{
+  "parent_key": "gajdosLinearOpticalProperties2006",
+  "title": "gajdosLinearOpticalProperties2006",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. The frequency-dependent imaginary part of the dielec-tric function obtained by the longitudinal and transversal expres-sions for Si and GaAs, respectively. The main optical features are indicated by arrows and labeled according to the convention intro-duced in Ref. 33.",
+      "page": "8",
+      "attachment_key": "BWLDA4M8",
+      "file": "fig_1_BWLDA4M8.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_0",
+      "title": "Table 0",
+      "content": "TABLE IV. The energy positions of the main optical features E0, E1, E2, E0�, and E1�. Since the peak positions are identical for the longitudinal and transversal expressions, they are stated only once. All listed values are given in units of eV.",
+      "page": "8",
+      "attachment_key": "AX2DEQS7",
+      "file": "tab_0_AX2DEQS7.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th>Valence</th>\n<th>Local</th>\n<th>rc a.u.</th>\n<th>E eV</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>C 2s2p</td>\n<td>3d</td>\n<td>1.2s, 1.5p</td>\n<td>400</td>\n</tr>\n<tr>\n<td>Al 3s3p</td>\n<td>3d</td>\n<td>1.9</td>\n<td>240</td>\n</tr>\n<tr>\n<td>Si 3s3p</td>\n<td>3d</td>\n<td>1.9</td>\n<td>250</td>\n</tr>\n<tr>\n<td>P 3s3p</td>\n<td>3d</td>\n<td>1.9</td>\n<td>270</td>\n</tr>\n<tr>\n<td>Ga 4s4p4d</td>\n<td>4f</td>\n<td>2.6</td>\n<td>140</td>\n</tr>\n<tr>\n<td>Gad 4s4p3d4d</td>\n<td>4f</td>\n<td>2.3</td>\n<td>280</td>\n</tr>\n<tr>\n<td>As 4s4p4d</td>\n<td>4f</td>\n<td>2.1</td>\n<td>210</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th>GaAs</th>\n<th>Nk IBZ</th>\n<th>mic</th>\n<th>RPA</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>16 16 16</td>\n<td>145</td>\n<td>18.16</td>\n<td>16.55</td>\n</tr>\n<tr>\n<td>24 24 24</td>\n<td>413</td>\n<td>15.64</td>\n<td>14.04</td>\n</tr>\n<tr>\n<td>32 32 32</td>\n<td>897</td>\n<td>15.14</td>\n<td>13.56</td>\n</tr>\n<tr>\n<td>48 48 48</td>\n<td>2769</td>\n<td>14.94</td>\n<td>13.35</td>\n</tr>\n<tr>\n<td>8 8 8 MP</td>\n<td>60</td>\n<td>14.76</td>\n<td>13.30</td>\n</tr>\n<tr>\n<td>12 12 12 MP</td>\n<td>182</td>\n<td>14.78</td>\n<td>13.31</td>\n</tr>\n<tr>\n<td>Nc = 10</td>\n<td>60</td>\n<td>14.72</td>\n<td>13.18</td>\n</tr>\n<tr>\n<td>Nc = 20</td>\n<td>60</td>\n<td>14.74</td>\n<td>13.23</td>\n</tr>\n<tr>\n<td>Nc = 40</td>\n<td>60</td>\n<td>14.74</td>\n<td>13.27</td>\n</tr>\n<tr>\n<td>Nc = 60</td>\n<td>60</td>\n<td>14.74</td>\n<td>13.28</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th>Method</th>\n<th>C</th>\n<th>Si</th>\n<th>SiC</th>\n<th>AlP</th>\n<th>GaAs</th>\n<th>GadAs</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Longitudinal mic_LR</td>\n<td>5.98</td>\n<td>14.08</td>\n<td>7.29</td>\n<td>9.12</td>\n<td>14.77</td>\n<td>15.18</td>\n</tr>\n<tr>\n<td>Longitudinal mic_cond</td>\n<td>5.98</td>\n<td>14.04</td>\n<td>7.29</td>\n<td>9.10</td>\n<td>14.75</td>\n<td>15.16</td>\n</tr>\n<tr>\n<td>Longitudinal RPA_LR</td>\n<td>5.54</td>\n<td>12.66</td>\n<td>6.66</td>\n<td>7.88</td>\n<td>13.31</td>\n<td>13.77</td>\n</tr>\n<tr>\n<td>Longitudinal RPA_cond</td>\n<td>5.55</td>\n<td>12.68</td>\n<td>6.66</td>\n<td>7.88</td>\n<td>13.28</td>\n<td>13.73</td>\n</tr>\n<tr>\n<td>Longitudinal DFT_LR</td>\n<td>5.80</td>\n<td>13.29</td>\n<td>6.97</td>\n<td>8.33</td>\n<td>13.98</td>\n<td>14.42</td>\n</tr>\n<tr>\n<td>Longitudinal DFT_cond</td>\n<td>5.82</td>\n<td>13.31</td>\n<td>6.97</td>\n<td>8.33</td>\n<td>13.98</td>\n<td>14.37</td>\n</tr>\n<tr>\n<td>Transversal mic_cond</td>\n<td>5.68</td>\n<td>16.50</td>\n<td>8.00</td>\n<td>10.63</td>\n<td>14.72</td>\n<td>15.33</td>\n</tr>\n<tr>\n<td>Transversal mic_cond incl. d projectors</td>\n<td>5.99</td>\n<td>14.09</td>\n<td>7.28</td>\n<td>9.11</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>mic_cond APW+ LO</td>\n<td></td>\n<td>13.99</td>\n<td></td>\n<td></td>\n<td>15.36</td>\n<td></td>\n</tr>\n<tr>\n<td>Experiment Ref. 33</td>\n<td>5.70</td>\n<td>11.90</td>\n<td>6.52</td>\n<td>7.54</td>\n<td>11.10</td>\n<td></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T4",
+      "title": "Table 4",
+      "content": "<table>\n<thead>\n<tr>\n<th>Method</th>\n<th>E0</th>\n<th>E1</th>\n<th>E2</th>\n<th>E0'</th>\n<th>E1'</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Si - PAW</td>\n<td>2.53</td>\n<td>2.71</td>\n<td>3.72</td>\n<td>3.08</td>\n<td>4.50</td>\n</tr>\n<tr>\n<td>Si - APW+ LO</td>\n<td>2.54</td>\n<td>2.70</td>\n<td>3.71</td>\n<td>3.08</td>\n<td>4.51</td>\n</tr>\n<tr>\n<td>GadAs - PAW</td>\n<td>0.35</td>\n<td>2.10</td>\n<td>4.15</td>\n<td>3.65</td>\n<td>5.64</td>\n</tr>\n<tr>\n<td>GadAs - APW+ LO</td>\n<td>0.31</td>\n<td>2.11</td>\n<td>4.15</td>\n<td>3.66</td>\n<td>5.65</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Linear optical properties in the projector-augmented wave methodology|\n|短标题|投影增强波方法中的线性光学性质|\n|作者|[[M. Gajdoš]]、 [[K. Hummer]]、 [[G. Kresse]]、 [[J. Furthmüller]]、 [[F. Bechstedt]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.73.045112](https://doi.org/10.1103/PhysRevB.73.045112)|\n|存档位置|3175|\n|文库编目|3.7|\n|索书号|2|\n|版权|http://link.aps.org/licenses/aps-default-license|\n|分类|[[05_光电特性与非线性吸收 (Optical Properties)]]|\n|条目链接|[My Library](zotero://select/library/items/4XHJYQ8S)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/6MDPVMHJ)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "�1�",
+      "page": "2",
+      "attachment_key": "SL7BHEKW",
+      "file": "eq_1_SL7BHEKW.png"
+    },
+    {
+      "id": "eq_11",
+      "title": "Equation 11",
+      "content": "�11�",
+      "page": "3",
+      "attachment_key": "ZAHV3E6W",
+      "file": "eq_11_ZAHV3E6W.png"
+    },
+    {
+      "id": "eq_12",
+      "title": "Equation 12",
+      "content": "�12�",
+      "page": "3",
+      "attachment_key": "GKJRV844",
+      "file": "eq_12_GKJRV844.png"
+    },
+    {
+      "id": "eq_14",
+      "title": "Equation 14",
+      "content": "�14�",
+      "page": "3",
+      "attachment_key": "X2DPUZFF",
+      "file": "eq_14_X2DPUZFF.png"
+    },
+    {
+      "id": "eq_15",
+      "title": "Equation 15",
+      "content": "�15�",
+      "page": "3",
+      "attachment_key": "2GF9Q6VT",
+      "file": "eq_15_2GF9Q6VT.png"
+    },
+    {
+      "id": "eq_16",
+      "title": "Equation 16",
+      "content": "�16�",
+      "page": "3",
+      "attachment_key": "999IUVT3",
+      "file": "eq_16_999IUVT3.png"
+    },
+    {
+      "id": "eq_18",
+      "title": "Equation 18",
+      "content": "�18�",
+      "page": "3",
+      "attachment_key": "J5HSH4PK",
+      "file": "eq_18_J5HSH4PK.png"
+    },
+    {
+      "id": "eq_19",
+      "title": "Equation 19",
+      "content": "�19�",
+      "page": "3",
+      "attachment_key": "98MGHK65",
+      "file": "eq_19_98MGHK65.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "�2�",
+      "page": "2",
+      "attachment_key": "JDSLZPQ4",
+      "file": "eq_2_JDSLZPQ4.png"
+    },
+    {
+      "id": "eq_20",
+      "title": "Equation 20",
+      "content": "�20�",
+      "page": "3",
+      "attachment_key": "WVEF7CUN",
+      "file": "eq_20_WVEF7CUN.png"
+    },
+    {
+      "id": "eq_21",
+      "title": "Equation 21",
+      "content": "�21�",
+      "page": "4",
+      "attachment_key": "CCEZ3ZVF",
+      "file": "eq_21_CCEZ3ZVF.png"
+    },
+    {
+      "id": "eq_22",
+      "title": "Equation 22",
+      "content": "�22�",
+      "page": "4",
+      "attachment_key": "TKF5Z6U4",
+      "file": "eq_22_TKF5Z6U4.png"
+    },
+    {
+      "id": "eq_23",
+      "title": "Equation 23",
+      "content": "�23�",
+      "page": "4",
+      "attachment_key": "I7EAMUSH",
+      "file": "eq_23_I7EAMUSH.png"
+    },
+    {
+      "id": "eq_24",
+      "title": "Equation 24",
+      "content": "�24�",
+      "page": "4",
+      "attachment_key": "E4QFMJJE",
+      "file": "eq_24_E4QFMJJE.png"
+    },
+    {
+      "id": "eq_25",
+      "title": "Equation 25",
+      "content": "�25�",
+      "page": "4",
+      "attachment_key": "9GX25RW5",
+      "file": "eq_25_9GX25RW5.png"
+    },
+    {
+      "id": "eq_26",
+      "title": "Equation 26",
+      "content": "�26�",
+      "page": "4",
+      "attachment_key": "LLUYHTTW",
+      "file": "eq_26_LLUYHTTW.png"
+    },
+    {
+      "id": "eq_27",
+      "title": "Equation 27",
+      "content": "�27�",
+      "page": "4",
+      "attachment_key": "C94VMA42",
+      "file": "eq_27_C94VMA42.png"
+    },
+    {
+      "id": "eq_28",
+      "title": "Equation 28",
+      "content": "�28�",
+      "page": "4",
+      "attachment_key": "QZ79NI5Z",
+      "file": "eq_28_QZ79NI5Z.png"
+    },
+    {
+      "id": "eq_29",
+      "title": "Equation 29",
+      "content": "�29�",
+      "page": "4",
+      "attachment_key": "U8LYXNWM",
+      "file": "eq_29_U8LYXNWM.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "�3�",
+      "page": "2",
+      "attachment_key": "RF9PRWTB",
+      "file": "eq_3_RF9PRWTB.png"
+    },
+    {
+      "id": "eq_31",
+      "title": "Equation 31",
+      "content": "�31�",
+      "page": "5",
+      "attachment_key": "8VGJ56NE",
+      "file": "eq_31_8VGJ56NE.png"
+    },
+    {
+      "id": "eq_32",
+      "title": "Equation 32",
+      "content": "�32�",
+      "page": "5",
+      "attachment_key": "KPLF52T8",
+      "file": "eq_32_KPLF52T8.png"
+    },
+    {
+      "id": "eq_33",
+      "title": "Equation 33",
+      "content": "�33�",
+      "page": "5",
+      "attachment_key": "V4DIYRX2",
+      "file": "eq_33_V4DIYRX2.png"
+    },
+    {
+      "id": "eq_34",
+      "title": "Equation 34",
+      "content": "�34�",
+      "page": "5",
+      "attachment_key": "JJ4D2PGX",
+      "file": "eq_34_JJ4D2PGX.png"
+    },
+    {
+      "id": "eq_35",
+      "title": "Equation 35",
+      "content": "�35�",
+      "page": "5",
+      "attachment_key": "NKIA2SP8",
+      "file": "eq_35_NKIA2SP8.png"
+    },
+    {
+      "id": "eq_36",
+      "title": "Equation 36",
+      "content": "�36�",
+      "page": "6",
+      "attachment_key": "VSHL8HA4",
+      "file": "eq_36_VSHL8HA4.png"
+    },
+    {
+      "id": "eq_37",
+      "title": "Equation 37",
+      "content": "�37�",
+      "page": "8",
+      "attachment_key": "WA4IPQL6",
+      "file": "eq_37_WA4IPQL6.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "�4�",
+      "page": "2",
+      "attachment_key": "2GX2YGJP",
+      "file": "eq_4_2GX2YGJP.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "�5�",
+      "page": "2",
+      "attachment_key": "RWXT6R2W",
+      "file": "eq_5_RWXT6R2W.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "�6�",
+      "page": "2",
+      "attachment_key": "RLWQVG3Z",
+      "file": "eq_6_RLWQVG3Z.png"
+    },
+    {
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "�8�",
+      "page": "2",
+      "attachment_key": "HKJWEN88",
+      "file": "eq_8_HKJWEN88.png"
+    },
+    {
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "�9�",
+      "page": "2",
+      "attachment_key": "SNU33PGL",
+      "file": "eq_9_SNU33PGL.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

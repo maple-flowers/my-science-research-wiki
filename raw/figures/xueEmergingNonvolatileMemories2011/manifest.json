@@ -5,10 +5,10 @@
     {
       "fig_number": "1",
       "title": "Figure 1",
-      "llm_description": "+ 1 2Vwr on its top electrode (red) and −1 2Vwr on its bottom electrode (red). One of the sneak path cur-rents is shown by the dashed purple line. The total current through the bottom wire is the sum of the current through the selected device Iselected and the sneak path currents through all the oth",
+      "llm_description": "+ 1 2Vwr on its top electrode (red) and −1 2Vwr on its bottom electrode (red). One of the sneak path cur-rents is shown by the dashed purple line. The total current through the bottom wire is the sum of the current through the selected device Iselected and the sneak path currents through all the other possible paths, Isneak. (b) the ideal I-V curve of a memristor in linear-linear plot, showing a very nonlinear I-V curve in the ON state. (c) the same I-V curve plot in log-log scale to show the de",
       "page": "9",
-      "attachment_key": "6RWLTDKS",
-      "file": "fig_1_6RWLTDKS.png",
+      "attachment_key": "YA2TDDV5",
+      "file": "fig_1_YA2TDDV5.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -19,10 +19,10 @@
     {
       "fig_number": "10",
       "title": "Figure 10",
-      "llm_description": "the transitions between the different resistance states of a typical MLC MTJ within 10 ns at the 45nm technology n-Table 00 · 第 5 页R00 0 -38.3 X -56.7 R01 26.3 0 X -56.7 R10 66.4 X 0 -9.1 R11 66.4 X 39.3 0Table 4 · 第 5 页4M STT-RAM 36.0 mm2 2.318 ns 6.181 ns 0.858nJ 2.997nJ 0.125W",
+      "llm_description": "the transitions between the different resistance states of a typical MLC MTJ within 10 ns at the 45nm technology n-",
       "page": "5",
-      "attachment_key": "8PV7XFZ7",
-      "file": "fig_10_8PV7XFZ7.png",
+      "attachment_key": "X7IRKM78",
+      "file": "fig_10_X7IRKM78.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -33,10 +33,10 @@
     {
       "fig_number": "11",
       "title": "Figure 11",
-      "llm_description": "Although the energy consumption reduction by MLC STT-RAM is large, the performance penalty is very marginal. Figure 11 also shows the normalized performances of MLC",
+      "llm_description": "Figure 11 summarizes our simulation results on the energy reductions obtained by using STT-RAM caches compared to a 2MB SRAM cache operating at 300K. At the same 2MByte capacity, both SLC and MLC STT-RAM’s consume only",
       "page": "6",
-      "attachment_key": "RGZU3RWY",
-      "file": "fig_11_RGZU3RWY.png",
+      "attachment_key": "5RBSLMBF",
+      "file": "fig_11_5RBSLMBF.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -49,8 +49,8 @@
       "title": "Figure 29",
       "llm_description": "hat PCM chips exhibit more randotic variation [29]. Therefore, regula the per line level overprograms mo",
       "page": "2",
-      "attachment_key": "FFFNUHKF",
-      "file": "fig_29_FFFNUHKF.png",
+      "attachment_key": "U8XCGBQD",
+      "file": "fig_29_U8XCGBQD.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -63,8 +63,8 @@
       "title": "Figure 3",
       "llm_description": "structure has the advantage of short inter-connections pro-vided by 3D integration. In this section, all replacements follows the constraint of",
       "page": "4",
-      "attachment_key": "JTIK7P5D",
-      "file": "fig_3_JTIK7P5D.png",
+      "attachment_key": "RCPBXVPH",
+      "file": "fig_3_RCPBXVPH.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -75,10 +75,10 @@
     {
       "fig_number": "6",
       "title": "Figure 6",
-      "llm_description": "Dhiman et al. proposed a PCM-aware policy that dynam-ically monitors writes into each memory page and migrate write-intensive PCM pages to DRAM [6]. Zhang et al. re-duced the frequent migration by adopting a modified Multi-Queue Algorithm [47] to categorize pages according to their hotness (i.e., th",
+      "llm_description": "Dhiman et al. proposed a PCM-aware policy that dynam-ically monitors writes into each memory page and migrate write-intensive PCM pages to DRAM [6]. Zhang et al. re-duced the frequent migration by adopting a modified Multi-Queue Algorithm [47] to categorize pages according to their hotness (i.e., the number of writes). Pages in highest ranked queues are placed in DRAM. For embedded CMP systems that lack sufficient OS sup-port, Liu et al. proposed PCM-aware variable allocation schemes to partitio",
       "page": "3",
-      "attachment_key": "4I4ZKRTU",
-      "file": "fig_6_4I4ZKRTU.png",
+      "attachment_key": "QFWICZWK",
+      "file": "fig_6_QFWICZWK.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -89,10 +89,10 @@
     {
       "fig_number": "65",
       "title": "Figure 65",
-      "llm_description": "al interfaces from the circuit designer’s point of view. In 65nm technology, the cell area simulation results show thatTable · 第 4 页(b) SRAM SRAM STT-RAM STT-RAM (c) SRAM STT-RAM STT-RAM STT-RAM",
+      "llm_description": "al interfaces from the circuit designer’s point of view. In 65nm technology, the cell area simulation results show that",
       "page": "4",
-      "attachment_key": "92PT9S56",
-      "file": "fig_65_92PT9S56.png",
+      "attachment_key": "9CFTL3R5",
+      "file": "fig_65_9CFTL3R5.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -103,9 +103,55 @@
   ],
   "tables": [
     {
+      "id": "tab_00",
+      "title": "Table 00",
+      "content": "R00 0 -38.3 X -56.7 R01 26.3 0 X -56.7 R10 66.4 X 0 -9.1 R11 66.4 X 39.3 0",
+      "page": "5",
+      "attachment_key": "W2XATRL6",
+      "file": "tab_00_W2XATRL6.png"
+    },
+    {
+      "id": "tab_4",
+      "title": "Table 4",
+      "content": "4M STT-RAM 36.0 mm2 2.318 ns 6.181 ns 0.858nJ 2.997nJ 0.125W",
+      "page": "5",
+      "attachment_key": "QWTICPMB",
+      "file": "tab_4_QWTICPMB.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th>Attributes</th>\n<th>DRAM</th>\n<th>PCM</th>\n<th>NAND</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Non-Volatile</td>\n<td>No</td>\n<td>Yes</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Erase Required</td>\n<td>Bit</td>\n<td>Bit</td>\n<td>Block</td>\n</tr>\n<tr>\n<td>Software Power</td>\n<td>Simple</td>\n<td>Simple</td>\n<td>Complex</td>\n</tr>\n<tr>\n<td>Write Bandwidth</td>\n<td>~W/GB</td>\n<td>100→500mW/die</td>\n<td>~100mW/die</td>\n</tr>\n<tr>\n<td>Write Latency</td>\n<td>~GB/s</td>\n<td>1→100 + MB/s/die</td>\n<td>10→100MB/s/die</td>\n</tr>\n<tr>\n<td>Write Energy</td>\n<td>~20-50ns</td>\n<td>~1μs</td>\n<td>~100μs</td>\n</tr>\n<tr>\n<td>Read Latency</td>\n<td>~0.1nJ/b</td>\n<td>&lt;1nJ/b</td>\n<td>0.1-1nJ/b</td>\n</tr>\n<tr>\n<td>Read Energy</td>\n<td>50ns</td>\n<td>50-100ns</td>\n<td>10-25μs</td>\n</tr>\n<tr>\n<td>Idle Power</td>\n<td>~0.1nJ/b</td>\n<td>&lt;&lt;1nJ/b</td>\n<td>&lt;&lt;1nJ/b</td>\n</tr>\n<tr>\n<td>Endurance</td>\n<td>~W/GB</td>\n<td>&lt;&lt;0.1W</td>\n<td>&lt;&lt;0.1W</td>\n</tr>\n<tr>\n<td>Data Retention</td>\n<td>∞</td>\n<td>108</td>\n<td>105→104</td>\n</tr>\n<tr>\n<td></td>\n<td>ms</td>\n<td>Not f (cycles)</td>\n<td>f (cycles)</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th>Cache size</th>\n<th>Area</th>\n<th>Read Latency</th>\n<th>Write Latency</th>\n<th>Read Energy</th>\n<th>Write Energy</th>\n<th>Standby Power</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1M SRAM</td>\n<td>36.2 mm²</td>\n<td>2.252 ns</td>\n<td>2.244 ns</td>\n<td>1.074nJ</td>\n<td>0.956nJ</td>\n<td>1.04W</td>\n</tr>\n<tr>\n<td>4M STT-RAM</td>\n<td>36.0 mm²</td>\n<td>2.318 ns</td>\n<td>6.181 ns</td>\n<td>0.858nJ</td>\n<td>2.997nJ</td>\n<td>0.125W</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th></th>\n<th>L2</th>\n<th>L2-ECC</th>\n<th>L3</th>\n<th>L3-ECC</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>(a)</td>\n<td>STT-RAM</td>\n<td>STT-RAM</td>\n<td>STT-RAM</td>\n<td>STT-RAM</td>\n</tr>\n<tr>\n<td>(b)</td>\n<td>SRAM</td>\n<td>SRAM</td>\n<td>STT-RAM</td>\n<td>STT-RAM</td>\n</tr>\n<tr>\n<td>(c)</td>\n<td>SRAM</td>\n<td>STT-RAM</td>\n<td>STT-RAM</td>\n<td>STT-RAM</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T4",
+      "title": "Table 4",
+      "content": "<table>\n<thead>\n<tr>\n<th>From</th>\n<th>To R00</th>\n<th>To R01</th>\n<th>To R10</th>\n<th>To R11</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>R00</td>\n<td>0</td>\n<td>-38.3</td>\n<td>X</td>\n<td>-56.7</td>\n</tr>\n<tr>\n<td>R01</td>\n<td>26.3</td>\n<td>0</td>\n<td>X</td>\n<td>-56.7</td>\n</tr>\n<tr>\n<td>R10</td>\n<td>66.4</td>\n<td>X</td>\n<td>0</td>\n<td>-9.1</td>\n</tr>\n<tr>\n<td>R11</td>\n<td>66.4</td>\n<td>X</td>\n<td>39.3</td>\n<td>0</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T5",
+      "title": "Table 5",
+      "content": "<table>\n<thead>\n<tr>\n<th></th>\n<th>SLC</th>\n<th>MLC</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Normal VDD = 1.0V</td>\n<td>Min. NMOS width (nm) 174.4</td>\n<td>715.0</td>\n</tr>\n<tr>\n<td></td>\n<td>Memory cell area (F²) 14.6</td>\n<td>50.7</td>\n</tr>\n<tr>\n<td>Overdriving ΔV = 0.2V</td>\n<td>Min. NMOS width (nm) 88.1</td>\n<td>148.6</td>\n</tr>\n<tr>\n<td></td>\n<td>Memory cell area (F²) 9.0</td>\n<td>12.9</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|conferencePaper|\n|标题|Emerging non-volatile memories|\n|短标题|新兴非易失性存储器：机遇与挑战|\n|作者|[[Chun Jason Xue]]、 [[Youtao Zhang]]、 [[Yiran Chen]]、 [[Guangyu Sun]]、 [[J. Jianhua Yang]]、 [[Hai Li]]|\n|DOI|[10.1145/2039370.2039420](https://doi.org/10.1145/2039370.2039420)|\n|存档位置|159|\n|文库编目|DOI.org|\n|索书号||\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|会议名称|ESWeek '11: Seventh Embedded Systems Week|\n|地点|Taipei Taiwan|\n|条目链接|[My Library](zotero://select/library/items/LCWGFCKH)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/66EX5QWR\">全文</a></li><li><a href=\"zotero://open-pdf/library/items/KA6ALTVR\">Xue 等 - 2011 - Emerging non-volatile memories.pdf</a></li></ul>|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|conferencePaper|\n|标题|Emerging non-volatile memories|\n|短标题|新兴非易失性存储器|\n|作者|[[Chun Jason Xue]]、 [[Youtao Zhang]]、 [[Yiran Chen]]、 [[Guangyu Sun]]、 [[J. Jianhua Yang]]、 [[Hai Li]]|\n|DOI|[10.1145/2039370.2039420](https://doi.org/10.1145/2039370.2039420)|\n|存档位置|159|\n|文库编目|DOI.org|\n|索书号||\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|会议名称|ESWeek '11: Seventh Embedded Systems Week|\n|地点|Taipei Taiwan|\n|条目链接|[My Library](zotero://select/library/items/LCWGFCKH)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/66EX5QWR\">Xue 等 - 2011 - Emerging non-volatile memories</a></li><li><a href=\"zotero://open-pdf/library/items/KA6ALTVR\">Xue 等 - 2011 - Emerging non-volatile memories.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],

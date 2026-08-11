@@ -1,0 +1,82 @@
+{
+  "parent_key": "pedramraziManipulatingTopologicalDomain2019",
+  "title": "pedramraziManipulatingTopologicalDomain2019",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Figure 1. STM tip-induced structural change in monolayer 1T′−WSe2. STM topographic images of a monolayer 1T′−WSe2 island (a) before and (b) after applying a tip voltage pulse (Vpulse= 10 V, Δt = 100 ms, tip−surface separation = 6 Å). The tip pulse creates 1T′/1T′ domain boundaries having different rotational orientations. STM topographic images show a different island (c) before and (d) after an applied tip voltage pulse (Vpulse= 10 V, Δt = 100 ms, tip−surface separation = 6 Å) induces a 1T′ to ",
+      "page": "2",
+      "attachment_key": "K7BJPPZ4",
+      "file": "fig_1_K7BJPPZ4.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Figure 2. Structural and electronic properties of 1T′/1T′ domain boundaries. STM images of (a) 120°, (b) 60°, and (c) 0° 1T′/1T′ domain boundaries in 1T′−WSe2 (Vs = 1 V, It = 10 pA, standard STM topographs). Relaxed structural models of (d) 120°, (e) 60°, and (f) 0° domain boundaries in 1T′−WSe2 (calculated using DFT). STM dI/dV spectroscopy measured at (g) 120°, (h) 60°, and (i) 0° domain boundaries compared to the bulk for single-layer 1T′−WSe2 (spectroscopy positions marked by black and green",
+      "page": "2",
+      "attachment_key": "CEYQDS2J",
+      "file": "fig_2_CEYQDS2J.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Figure 3. Comparison of electronic properties of 120° 1T′/1T′ domain boundary and 1T′/1H boundary coexisting in single-layer WSe2. (a) STM image of a mixed-phase WSe2 island with a 120° 1T′/ 1T′ domain boundary (standard STM topograph). The 1T′/1H interface is marked by a vertical dashed line, while the 1T′/1T′ interface is outlined by a dashed oval (Vs = 1 V, It = 10 pA). dI/dV maps of the same area are shown for (b) Vs = −400 mV, (c) −120 mV, (d) −60 mV, and (e) +150 mV. Spectroscopy parameter",
+      "page": "4",
+      "attachment_key": "RZS9DWGU",
+      "file": "fig_3_RZS9DWGU.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Figure 4. Calculated band structure and local density of states of different 1T′/1T′ domain boundaries. Calculated band structure of (a) 120°, (b) 60°, and (c) 0° 1T′/1T′ domain boundaries for 1T′−WSe2 monolayer. Bulk states are gray, and spin-polarized interface modes are red and blue. (d−f) Calculated LDOS of top-layer Se atoms at a domain boundary (black solid curve) compared to LDOS in the bulk (black dashed curve) for (d) 120°, (e) 60°, and (f) 0° 1T′/1T′ domain boundaries. The Fermi level ",
+      "page": "5",
+      "attachment_key": "EMKKQ7YH",
+      "file": "fig_4_EMKKQ7YH.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Manipulating Topological Domain Boundaries in the Single-Layer Quantum Spin Hall Insulator 1T′–WSe<sub>2</sub>|\n|短标题|单层量子自旋霍尔绝缘体1T′–WSe中拓扑畴边界的操控|\n|作者|[[Zahra Pedramrazi]]、 [[Charlotte Herbig]]、 [[Artem Pulkin]]、 [[Shujie Tang]]、 [[Madeleine Phillips]]、 [[Dillon Wong]]、 [[Hyejin Ryu]]、 [[Michele Pizzochero]]、 [[Yi Chen]]、 [[Feng Wang]]、 [[Eugene J. Mele]]、 [[Zhi-Xun Shen]]、 [[Sung-Kwan Mo]]、 [[Oleg V. Yazyev]]、 [[Michael F. Crommie]]|\n|期刊名称|[[Nano Letters]]|\n|DOI|[10.1021/acs.nanolett.9b02157](https://doi.org/10.1021/acs.nanolett.9b02157)|\n|存档位置|41|\n|文库编目|9.1|\n|索书号|2|\n|版权|https://doi.org/10.15223/policy-029|\n|分类|[[06_拓扑磁性与斯格明子 (Topological Magnetism/Skyrmions)]]|\n|条目链接|[My Library](zotero://select/library/items/GZDJA2V9)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/L9DNHQAC\">Pedramrazi 等 - 2019 - Manipulating Topological Domain Boundaries in the Single-Layer Quantum Spin Hall Insulator 1T′–WSes</a></li><li><a href=\"zotero://open-pdf/library/items/BRA4DCDS\">Pedramrazi 等 - 2019 - Manipulating Topological Domain Boundaries in the Single-Layer Quantum Spin Hall Insulator 1T′–WSes.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/7GMZ4U3R\">Pedramrazi 等 - 2019 - Manipulating Topological Domain Boundaries in the Single-Layer Quantum Spin Hall Insulator 1T′–WSes.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [
+    "TMDs及其变体（MoS2）"
+  ],
+  "methods": []
+}

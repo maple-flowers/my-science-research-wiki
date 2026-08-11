@@ -1,0 +1,202 @@
+{
+  "parent_key": "hanPolarTopologicalMaterials2025",
+  "title": "hanPolarTopologicalMaterials2025",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1. The history of polar topological structures and early theoretical predictions. (a) Representative milestones for the development of polar  topological structures. (b) Schematic of the dimensional downscaling in ferroelectrics. (c) Thickness dependency of ferroelectric domain in epitaxial  (001) PZT films. With the decrease of film thickness, transition from 180◦out-of-plane stripe domain to flux-closure domain with 90◦domain walls  and formation of in-plane monodomain in ultrathin film [",
+      "page": "2",
+      "attachment_key": "N2QJLWJM",
+      "file": "fig_1_N2QJLWJM.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "10",
+      "title": "Figure 10",
+      "llm_description": "Fig. 10. Multi-field manipulation of polar topological structures. (a) Polar vector mappings of the real-time dynamic evolution process of domain  structures based on high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) images under an external electric  field, and the corresponding simulation results. The results demonstrate domain transformation from vortex to wave and eventually to a polar down  state [127]. Copyright © 2019, The Author(s). (b) Schematic of the",
+      "page": "13",
+      "attachment_key": "VZUXER45",
+      "file": "fig_10_VZUXER45.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "11",
+      "title": "Figure 11",
+      "llm_description": "Fig. 11. Resistive properties in polar topological structures. (a) Schematic of the experimental setup for investigating conduction at the domain  walls of BFO nanoislands, wherein an LSMO layer and a movable grounded Pt/Ir-coated silicon tip serve as bottom and top electrodes, respectively  (left panel). The overlapped current mapping indicates the cross-shaped charged domain walls and the giant conductance on each nanoisland. The  right panel displays the robust repeatability of conductance sw",
+      "page": "16",
+      "attachment_key": "K2X98ARY",
+      "file": "fig_11_K2X98ARY.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "12",
+      "title": "Figure 12",
+      "llm_description": "Fig. 12. Chirality characterization and manipulation in polar topological structures. (a) Resonant soft X-ray diffraction (RSXD) using opposing  circular polarizations of incident X-rays for probing chiral signals in (PbTiO3)n/(SrTiO3)n superlattice. The diffraction satellites in the specular  scattering plane, shown in blue, originate from the polar vortex array, which decorates the specular reflection along the lateral direction, [100]χ, for  X-rays tuned near the titanium L3 edge [60]. (b) X-",
+      "page": "18",
+      "attachment_key": "97MI5828",
+      "file": "fig_12_97MI5828.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "13",
+      "title": "Figure 13",
+      "llm_description": "Fig. 13. Collective dynamics of polar vortices under terahertz (THz) −field excitation. (a) Schematic of polar vortex arrays in ferroelectric film with  neighboring clockwise (CW) and counter-clockwise (CCW) vortex pairs. The dynamics of the CW and CCW vortex pair system are modelled by a  chain of balls connected by springs. The system can undergo transverse and longitudinal vibrations, as demonstrated by black arrows [178]  (Reproduced). Copyright © 2021, Springer Nature. (b) Fourier spectra o",
+      "page": "19",
+      "attachment_key": "23FXQ3JQ",
+      "file": "fig_13_23FXQ3JQ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "14",
+      "title": "Figure 14",
+      "llm_description": "Fig. 14. Summary and perspective of polar topological materials and devices studies.",
+      "page": "21",
+      "attachment_key": "UHRUDTIR",
+      "file": "fig_14_UHRUDTIR.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2. Schematics of polar topological structures, wherein the colored arrows indicate the orientation of polarization in ferroelectrics. (a) Different  types of domain walls, which separate domains with different polarization or magnetization orientations. (b) Flux-closure domain. (c) Vortex  domain. (d) Anti-vortex domain. (e) Meron domains including hedgehog-type and vortex-type. (f) Skyrmion domains including N´eel-type and  Bloch-type.",
+      "page": "3",
+      "attachment_key": "LS5XEME2",
+      "file": "fig_2_LS5XEME2.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3. Anisotropy in typical ferroelectric materials. (a) Crystal symmetries of tetragonal-phase and rhombohedral-phase inorganic ferroelectrics  with different polarization variants. (b) Schematic representation of the specific orientation of organic molecules. (c) Traditional ferroelectric  domain with a Bloch-type domain wall, where the polarization rotates in the domain wall plane. (d) Schematics depicting the modulation of Landau  energy profiles by tuning the anisotropy in ferroelectrics,",
+      "page": "5",
+      "attachment_key": "PVEGGHU4",
+      "file": "fig_3_PVEGGHU4.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4. Polar topological structures in ferroelectric oxide films generated by a scanning probe. (a) Schematic illustration of a scanning probe mi­ croscope. By applying tip biases, out-of-plane and in-plane trailing electric fields are utilized to polarize ferroelectric samples. (b) Schematic  depiction of the in-plane electric field distribution induced by SPM tip, wherein a positive bias (+) or a negative bias (−) induces a center-divergent  or center-convergent electric field (gray arrows), ",
+      "page": "6",
+      "attachment_key": "GL8NMQIW",
+      "file": "fig_4_GL8NMQIW.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5. Intrinsic electrostatic energy modulation in ferroelectrics for engineering polar topological structures. (a) Uniform polarization state in  ferroelectrics with an insulating surface boundary condition. The nominal polarization, perpendicular to the surface, results in surface bound  charges and a depolarization electric field (Ed) opposite to the polarization direction. (b) Schematic depicting the formation of stripe domains with  opposite polarization directions to screen the depolariz",
+      "page": "7",
+      "attachment_key": "QTFREVWS",
+      "file": "fig_5_QTFREVWS.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Fig. 6. Elastic strain and energy modulation effects in engineering polar topological structures. (a) Schematic illustration of strain engineering  through lattice mismatch in ABO3-type epitaxial heterostructures, which dominantly influences the lattice parameters, oxygen octahedral rotations  and crystal symmetries of epitaxial films. (b) Ferroelectric polarization rotation under tensile strain (εxx) and compressive strain (−εxx) in the x-y  plane for tetragonal ferroelectrics with initial c-do",
+      "page": "8",
+      "attachment_key": "BS82EUKW",
+      "file": "fig_6_BS82EUKW.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Fig. 7. Polar topological structures in ferroelectric heterostructures. (a) Schematic of ferroelectric heterostructures grown on substrates with  variable electrostatic, elastic and other boundary conditions. (b) Periodicity topological phase diagram for PbTiO3/SrTiO3 superlattice on DyScO3  substrate [92]. Copyright © 2017, American Chemical Society.",
+      "page": "9",
+      "attachment_key": "5HRYNCWT",
+      "file": "fig_7_5HRYNCWT.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "Fig. 8. Polar topological structures in ferroelectric oxide nanostructures. (a) Schematic of the ferroelectric nanostructures with various typical  geometries and polar topological structures grown on substrates with geometry-confined boundary conditions, including elastic and electrostatic  conditions. (b) Vector maps of center domain and vortex domain in BFO nanoislands, derived from PFM data (up panel), and corresponding phase-  field simulation results (bottom panel) [55] (Reproduced). Copyr",
+      "page": "10",
+      "attachment_key": "T55NYWX7",
+      "file": "fig_8_T55NYWX7.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "9",
+      "title": "Figure 9",
+      "llm_description": "Fig. 9. Polar topological structures in bulk and organic ferroelectrics. (a) Domain evolution driven by chemical composition in Bi0.5Na0.5TiO3-based  ceramics [115]. Copyright © 2021, The Author(s). (b) Crystal structure and lateral PFM image of polar quadrant domains in (4,4-DFPD)2PbI4 thin  film [117]. Copyright © 2020, American Chemical Society. (c) Polar topological structures in nematic-state (NF state) ferroelectric and the topo­ logical phase diagram dependent on the ratio of the splay mo",
+      "page": "12",
+      "attachment_key": "YAM9SISH",
+      "file": "fig_9_YAM9SISH.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Polar topological materials and devices: Prospects and challenges|\n|短标题|极性拓扑材料与器件：前景与挑战|\n|作者|[[Haojie Han]]、 [[Ji Ma]]、 [[Jing Wang]]、 [[Erxiang Xu]]、 [[Zongqi Xu]]、 [[Houbing Huang]]、 [[Yang Shen]]、 [[Ce-Wen Nan]]、 [[Jing Ma]]|\n|期刊名称|[[Progress in Materials Science]]|\n|DOI|[10.1016/j.pmatsci.2025.101489](https://doi.org/10.1016/j.pmatsci.2025.101489)|\n|存档位置|11|\n|文库编目|40.0|\n|索书号|1|\n|版权||\n|分类|[[06_拓扑磁性与斯格明子 (Topological Magnetism/Skyrmions)]]|\n|条目链接|[My Library](zotero://select/library/items/BW6JSXCP)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/MSUEG4S9\">Han 等 - 2025 - Polar topological materials and devices Prospects and challenges</a></li><li><a href=\"zotero://open-pdf/library/items/UU6JIHJ9\">Han 等 - 2025 - Polar topological materials and devices Prospects and challenges.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

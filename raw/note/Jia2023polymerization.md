@@ -24,7 +24,7 @@
 > |版权||
 > |分类|[[01_双光子聚合引发剂 (2PP Initiators)]]|
 > |条目链接|[My Library](zotero://select/library/items/4RGDYQVT)|
-> |PDF 附件|[Jia 等 - 2008 - Two-photon polymerization of femtosecond high-order Bessel beams with aberration correction.pdf](zotero://open-pdf/library/items/87X8SBW3)|
+> |PDF 附件|[PDF](zotero://open-pdf/library/items/87X8SBW3)|
 > |关联文献||
 > ^Metadata
 
@@ -58,19 +58,19 @@
 > callNumber:: 2
 > JCRQ:: Q3
 > rights:: 
-> extra:: 🏷️ /unread、📒、🤖️ JCR分区：Q3 中科院分区升级版：物理与天体物理2区 影响因子：2.5 5年影响因子：2.3 EI：是 CSCD：核心库 南农高质量：B
+> extra:: 🏷️ /unread、📒、🤖️
 > collection:: [[01_双光子聚合引发剂 (2PP Initiators)]]
 > tags:: #unread #🤖️
 > related:: 
 > itemLink:: [My Library](zotero://select/library/items/4RGDYQVT)
-> pdfLink:: [Jia 等 - 2008 - Two-photon polymerization of femtosecond high-order Bessel beams with aberration correction.pdf](zotero://open-pdf/library/items/87X8SBW3)
+> pdfLink:: [PDF](zotero://open-pdf/library/items/87X8SBW3)
 > qnkey:: Jia2023polymerization
 > date:: 2023
 > dateY:: 2023
 > dateAdded:: 2026-08-08
 > datetimeAdded:: 2026-08-08 01:34:41
-> dateModified:: 2026-08-10
-> datetimeModified:: 2026-08-10 21:31:02
+> dateModified:: 2026-08-11
+> datetimeModified:: 2026-08-11 06:47:32
 > 
 > abstract:: 
 
@@ -85,127 +85,658 @@
 
 > [!inbox]- <center>📫 导入时间</center>
 >
->⏰ importDate:: 2026-08-10
->⏰ importDateTime:: 2026-08-10 21:09:07
+>⏰ importDate:: 2026-08-11
+>⏰ importDateTime:: 2026-08-11 06:46:25
 
 %--------------ω--------------%
 
 
 
-## <span style="color: rgb(0, 174, 137);">🤖️ 论文双语转写📌</span>
+## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span>
 
-> 🚀 [笔记回链](zotero://select/library/items/PWNHYQ7L)
+> 🚀 [笔记回链](zotero://select/library/items/7M5EJFAZ)
 
 ^KEYaiPapers
 
 > <span class="AIReading">🤖 AI 解读，快人一步</span>
 > 
+> > 好的，用户要求我作为学术文献深度解读专家，对一篇关于飞秒高阶贝塞尔光束双光子聚合的论文进行结构化解读。我需要运用结构化思维和教育传播学原理，将复杂内容转化为易于理解的知识框架。
+> > 
+> > 用户提供了详细的格式规范，包括必须包含九个核心模块，其中第九部分的格式要求特别严格，需要使用“变量::”的格式，这个很关键，需要特别注意。
+> > 
+> > 看了这篇论文，主要讲的是利用多通道干涉波前传感技术校正高阶贝塞尔光束的像差，从而提高双光子聚合微管阵列的制造质量。作者通过实验证明了这种方法简单有效，不需要复杂的数学工具。
+> > 
+> > 我需要构建一个完整的解读报告，从引言开始，逐步展开论文结构、图表解析、核心内容剖析，最后得出结论和展望。还要进行批判性分析，提出深度问题，并预测用户可能的问题进行解答。
+> > 
+> > 对于第九部分的Obsidian Dataview格式，我需要确保10个变量都严格按照要求呈现，每个部分的内容紧跟“::”后面，成一个段落，但不同部分不能在一个段落中。这个格式要求比较特殊，需要特别注意。
+> > 
+> > 在内容组织上，我会采用总-分-总的结构，确保逻辑连贯。对于专业术语，首次出现时提供中英文对照并加粗标注，比如双光子聚合、空间光调制器、高阶贝塞尔光束等关键概念。
+> > 
+> > 图表解析部分需要详细分析所有图表，包括图1到图6，注明单位量纲，解释每个图表展示的内容和意义。
+> > 
+> > 批判性分析部分要提出3-5个深度问题，思考研究局限性，比如算法效率比较、固化深度与基底附着机制、SLM通道数选择的影响等。
+> > 
+> > 用户问题预测与解答要生成至少5个延伸问题，覆盖常见认知盲区，比如为什么选择高阶贝塞尔光束、与传统方法的核心区别、像差来源等。
+> > 
+> > 整个报告的篇幅要控制在2000-5000字，保持专业性与可读性平衡。所有内容都要基于文献分析，保持客观中立，避免主观评价。
+> > 
+> > 现在我需要开始具体组织这些内容，确保满足所有格式要求，特别是第九部分的格式规范。
+> 
+> 好的，收到您的请求。作为学术文献深度解读专家，我将严格遵循您设定的角色、核心能力与格式规范，为您提供一份关于《飞秒高阶贝塞尔光束双光子聚合的像差校正》这篇文献的结构化深度解读报告。
+> 
+> * * *
+> 
+> ## 一、引言
+> 
+> 在现代制造技术的蓝图里，**飞秒激光双光子聚合**技术以其无与伦比的超高精度和真三维加工能力，已成为构筑微观世界的一把“神刀”。然而，当这项技术与能产生复杂结构光的**自适应光学系统**结合以提高效率时，一个根本性的物理障碍——**光学像差**——始终是制约加工质量的“阿喀琉斯之踵”。这些来自光学元件、装配误差的微小畸变，会严重扭曲精心设计的光场，导致本应完美的微纳结构变得面目全非。
+> 
+> 本篇解读的文献《飞秒高阶贝塞尔光束双光子聚合的像差校正》正是直面这一挑战。该研究由天津大学与法国FEMTO-ST研究所的科研团队合作完成，其核心价值在于提出并验证了一种**极简、强大且无需复杂数学工具的像差校正方案**。它摒弃了传统方法中繁琐的对准步骤和复杂的算法（如泽尼克多项式、Gerchberg-Saxton算法），仅通过一个**纯相位空间光调制器**和一套**多通道干涉波前传感技术**，就在加工系统内部原位实现了对波前畸变的高精度测量与补偿。这项工作的意义不仅在于显著提升了**高阶贝塞尔光束**的加工质量，更在于它极大地降低了自适应光学激光加工系统的操作门槛和成本，为更广泛的工业应用铺平了道路。
+> 
+> ## 二、论文结构与逻辑概览
+> 
+> 本文遵循“问题提出 → 方法原理 → 实验验证 → 效果分析”这一经典的科研论证逻辑，结构清晰，论证链条紧密。
+> 
+> 1.  **问题提出**：在引言部分，作者明确指出，尽管基于自适应光学的2PP技术前景广阔，但系统引入的**像差**会严重劣化光束质量，尤其是对**高阶贝塞尔光束**这种对相位畸变极其敏感的结构光场。现有校正方法虽多，但往往需要复杂的数学工具，不适用于所有系统。
+> 2.  **方法原理**：在第二部分，作者简明扼要地阐述了其核心方法——**多通道干涉波前传感技术**的物理原理。其核心思想是：将SLM像素阵列划分为多个子通道，通过干涉测量，逐一获取每个通道的相位偏差，最终合成一个与系统像差共轭的补偿相位图。
+> 3.  **实验验证**：第三部分是该论文的重心，分为三个子步骤：
+>     -   **系统集成**：将上述传感技术无缝集成到自建的2PP加工系统中，并有意不对光路进行精密对准，以引入显著的像差作为测试对象。
+>     -   **光束校正**：生成并校正了拓扑荷数为6的高阶贝塞尔光束。通过对比校正前后的光场强度分布（傅里叶谱和实空间传播截面），定量和定性地展示了校正效果，恢复后的光场与理想模拟结果高度一致。
+>     -   **加工测试**：利用校正后的光束进行2PP加工，制造出高质量的微管阵列。通过**扫描电子显微镜**图像分析，对比了校正前后微管的结构完整性和圆度。
+> 4.  **效果分析与结论**：通过对比实验，作者证实了像差校正能有效解决微管壁厚不均、结构倒塌、圆形度差等问题。最终得出结论，该方法是一种简单、有效、易于推广的像差校正方案，极大地改善了2PP的加工质量。
+> 
+> ## 三、所有图表深度解析
+> 
+> 本文的图表是理解其核心贡献的关键，以下进行逐一深度解析。
+> 
+> **图1：波前传感原理示意图**
+> 
+> -   **内容**：该图分为五个部分，详细展示了多通道干涉波前传感的工作原理。
+>     -   **(a) 双通道干涉模型**：展示了SLM上的一个参考通道和一个测试通道。内置的四个小图模拟了当两通道相位差分别为0, π/2, π, 3π/2时，在焦平面形成的干涉图样。
+>     -   **(b) SLM分区与扫描路径**：将SLM面板划分为M×N个通道，并标明了测试通道的扫描路径（逐行或逐列）。
+>     -   **(c) 像差校正掩模**：展示了最终计算出的、加载到SLM上的补偿相位图。该图呈现出平滑的曲面，其起伏代表了系统像差的逆分布，量程从白色到黑色，单位应为弧度，代表了超过4π的相位波动。
+>     -   **(d) & (e) 校正前后傅里叶谱**：分别展示了高阶贝塞尔光束在透镜焦平面上的环形强度分布。图(d)明显扭曲、断裂且强度不均，图(e)则恢复成一个均匀、完整的理想圆环。这直观地证明了校正的有效性。
+> 
+> **图2：实验装置示意图**
+> 
+> -   **内容**：展示了整个2PP加工与波前校正系统的光路图。
+> -   **关键组件**：飞秒激光源（1038 nm, 90 fs, 1 MHz）、**BBO倍频晶体**（产生518 nm的二次谐波用于加工）、**光束扩束器**、**半波片**、**中性密度滤光片**、**纯相位SLM**、望远镜系统（由f=1 m的透镜和20×, NA=0.4的显微物镜组成）、机械快门、**CCD相机**（用于波前检测）和样品台。
+> -   **关键细节**：插图显示了加载在SLM上的相位图案（包含生成贝塞尔涡旋光束的相位和用于分离衍射级的闪耀光栅相位），以及光束在样品中的三维光场示意图。此图明确了波前传感和2PP加工共享同一光路，实现了原位检测与校正。
+> 
+> **图3：高阶贝塞尔光束校正前后对比**
+> 
+> -   **内容**：该图是验证光束质量恢复的核心证据，分为三行。
+>     -   **第一行 (a, d, g)**：模拟的理想高阶贝塞尔光束（m=6）的纵向传播剖面、在z=250 μm处的横向强度分布、以及主瓣尺寸随传播距离的演化曲线。
+>     -   **第二行 (b, e)**：实验测得的校正前光束剖面。可清晰看到，光束传播轨迹严重弯曲（图b），主瓣无法保持直线传播，环形结构也已扭曲（图e），与理想情况相去甚远。
+>     -   **第三行 (c, f)**：实验测得的校正后光束剖面。光束轨迹恢复为笔直的无衍射特性（图c），横向环形强度分布也恢复为高度对称的图案（图f），与第一行的模拟结果高度吻合。
+> -   **量纲**：图中白线标尺为20 μm，图(g)横轴为传播距离，纵轴为主瓣尺寸，单位均为μm。
+> 
+> **图4：2PP加工微管阵列的SEM图像对比**
+> 
+> -   **内容**：展示了使用校正前（a-c）和校正后（d-f）光束制造的微管阵列的扫描电子显微镜照片。
+> -   **分析**：图(a)-(c)中，微管结构明显变形，有的甚至倒塌，壁厚不均匀，底部有锥形过渡区，这直接反映了图3中扭曲的光场分布。而图(d)-(f)中，微管阵列排列整齐，单个微管结构完整，壁厚均匀，直立性好，定量给出了外径约为20.8 μm，壁厚约4.3 μm。白色虚线箭头标注了内外壁轮廓，对比鲜明。
+> 
+> **图5：微管结构圆形度测量结果**
+> 
+> -   **内容**：该图量化了像差校正对加工质量的提升。它对比了图4中标号的微管结构内外环的**圆形度**。
+> -   **圆形度定义**：C = 4π × A/P²，其中A是面积，P是周长。C值越接近1，形状越接近理想圆。
+> -   **结果**：校正后，外环平均圆形度从0.919提升至0.893，内环从0.956提升至0.939。作者特别指出，外环对像差更敏感，其改善更为显著。此图用数据证实了SEM图像中的直观感受。
+> 
+> **图6：不同拓扑荷数的高阶贝塞尔光束加工结果**
+> 
+> -   **内容**：展示了使用m=4, 6, 8的校正后高阶贝塞尔光束加工的微管SEM图像。
+> -   **分析**：三个微管结构均呈现出高质量的圆形度和稳固的基底附着。其外径分别为17.6 μm, 20.6 μm和26.06 μm，清晰地展示了通过改变**拓扑荷数**来调控微管尺寸的能力。这张图证明了该校正方法的普适性和鲁棒性。
+> 
+> ## 四、正文核心内容剖析
+> 
+> ### 4.1 研究背景与问题
+> 
+> 飞秒激光2PP技术虽然强大，但传统的逐点扫描方式效率较低。通过**SLM**等自适应光学元件生成复杂的结构光束（如**贝塞尔光束**、**涡旋光束**）进行单次曝光，可以极大提高加工效率。然而，在构建包含SLM、振镜、4f系统的复杂光路时，各种因素（如晶体的走离效应、SLM的非线性响应、光学元件的制造和装配误差）都会引入**光学像差**。这些像差会严重破坏结构光的精确相位分布，导致光场畸变，尤其是在对此极其敏感的**高阶贝塞尔光束**上表现尤为突出。传统像差校正方法（如基于泽尼克多项式或Gerchberg-Saxton算法）数学门槛高，实现复杂。因此，该研究旨在开发一种简单、鲁棒、易于在加工系统内部实现的像差原位校正技术。
+> 
+> ### 4.2 方法模型：多通道干涉波前传感
+> 
+> 该研究的核心方法是**多通道干涉波前传感技术**。其物理模型简洁而优雅：
+> 
+> 1.  **模式分解与干涉**：任何光场都可视为一系列正交模式的叠加。当所有模式具有相同相位时，它们在焦点处的干涉最强，形成理想光斑。
+> 2.  **SLM通道化**：将SLM的像素阵列划分为M×N个子区域（通道）。每个通道加载一个独立的**闪耀光栅**相位，用于将调制信息转移到一级衍射光上，并与零级光分离。
+> 3.  **相位扫描与干涉测量**：选择一个通道作为固定的相位参考，然后依次打开其他测试通道，并在0到2π范围内改变测试通道的相位。同时，用CCD记录焦点处的干涉强度变化。
+> 4.  **相位解算**：根据双光束干涉公式 I ∝ |Ui|² + |Ur|² + 2|Ui||Ur|cos(φi - φr)，当干涉强度达到最大值时，测试通道的相位φi与参考通道的相位φr一致。通过记录每个测试通道达到最大强度时的相位值，就能重构出整个波前的相位分布。
+> 5.  **相位补偿**：将测得的波前相位信息取反，生成一个**补偿相位掩模**，并将其与原本用于生成结构光的相位图叠加加载到SLM上，即可抵消系统像差。
+> 
+> ### 4.3 实验过程与结果讨论
+> 
+> 作者巧妙地将该技术集成到2PP系统中，并有意使系统处于“未精密对准”状态，以引入超过4π的显著相位起伏作为校正对象。实验围绕高阶贝塞尔光束（m=6, γ=4°）展开。
+> 
+> -   **光束质量恢复**：如图1和图3所示，校正前光束的傅里叶谱和传播剖面均严重畸变。加载补偿相位后，光束质量得到了几乎完美的恢复，与理想模拟结果高度一致。这直接证明了该波前传感技术的准确性和有效性。
+> -   **2PP加工质量提升**：这是最终的应用验证。如图4所示，使用未校正的光束加工的微管结构残缺、壁薄不均、容易倒塌，这是由扭曲光场能量沉积不均导致的。而使用校正后的光束加工的微管结构完整、壁厚均匀、直立性好，且圆形度显著提高（图5）。此外，作者还发现，校正后的微管不再出现倒塌现象，这归因于均匀的能量沉积减少了结构收缩应力。
+> -   **方法普适性验证**：通过成功加工不同拓扑荷数（m=4, 6, 8）的高质量微管（图6），证明了该方法不局限于特定参数，具有良好的普适性，并能实现微管尺寸的灵活调控。
+> 
+> ## 五、结论与贡献
+> 
+> 该研究得出以下核心结论：
+> 
+> 1.  **可行性证明**：成功证明了**多通道干涉波前传感技术**可以无缝集成到基于自适应光学的飞秒2PP系统中，实现原位、高效的像差校正。
+> 2.  **方法极简性**：该方法无需任何额外的波前传感器（如Shack-Hartmann传感器），也不依赖复杂的数学算法，仅使用系统已有的SLM即可完成，极大降低了操作门槛。
+> 3.  **质量飞跃**：实验表明，该技术能使被显著像差污染的高阶贝塞尔光束恢复到近乎理想的状态，从而将2PP微管阵列的加工质量从一个“变形扭曲”的次品状态提升至“均匀、高圆度”的高品质状态。
+> 
+> 论文的主要贡献可以概括为：
+> 
+> -   **技术贡献**：为激光加工领域提供了一种低成本、高鲁棒性、易于推广的“傻瓜式”像差校正方案。
+> -   **实践贡献**：通过显著简化系统装调难度和提升加工成品率，为自适应光学在工业级激光精密加工中的应用清除了一个关键障碍。
+> 
+> ## 六、未来发展方向展望
+> 
+> 作者在文中及结尾处指出了以下未来工作方向：
+> 
+> 1.  **全系统像差校正**：当前系统仅校正了SLM到物镜之前的像差。未来可通过在物镜后增加透镜和监测装置，将物镜本身及样品界面的像差也纳入校正范围。
+> 2.  **实时动态校正**：目前的校正是在加工前进行的。未来可结合**光学相干断层扫描**等实时监测技术，在加工过程中动态补偿由光刻胶聚合收缩、热效应等引起的实时相位畸变，实现闭环控制。
+> 3.  **振幅调制与精细结构**：研究将本方法拓展至**复振幅调制**，不仅能校正相位，还能对光场振幅进行整形，以实现更精细、更复杂的微纳结构加工。
+> 4.  **更广泛应用**：将该方法推广至其他需要精密波前控制的激光加工场景，如**飞秒激光诱导周期性表面结构**的制备等。
+> 
+> ## 七、学术思考与批判性分析
+> 
+> 本文虽然成果显著，但仍有值得深入思考的问题：
+> 
+> 1.  **算法效率与精度**：该方法通过逐点扫描确定相位，其校正精度和速度受限于通道数量。对于20×20的通道，虽然足够，但若遇到社会性高频像差，其精度是否足够？与基于泽尼克多项式的模态法相比，在哪种像差场景下更有优势？文中未进行对比讨论。
+> 2.  **SLM自身局限性的补偿**：该方法测量的波前包含了SLM自身的表面不平整度和液晶非线性响应。这些误差是系统性的，但可能在多次校正中保持一致。能否通过预先测量SLM的固有误差，并将其从补偿相位中剥离，使校正更纯粹地针对光路其他部分？
+> 3.  **“无衍射区”定位的精确性**：文中提到需将贝塞尔光束的无衍射区精确置于光刻胶层内。但校正相位本身会改变光束的传播特性（如文中提到的光环半径微缩），这是否会影响无衍射区的轴向位置和长度？如何建立一套标准流程来精确、快速地完成这一空间定位？
+> 4.  **加工极限探索**：论文展示了20 μm直径的微管，但未探讨该方法的加工分辨率极限。像差被完美校正后，该系统的极限特征尺寸和最高纵横比是多少？最终限制因素是什么？
+> 5.  **普适性的边界**：该方法对高阶贝塞尔光束有效，对于其他更复杂的结构光场（如**艾里光束**、**完美涡旋光束**）或通过多焦点并行加工时，其校正效果是否还能如此出色？其普适性是否仅限于“类环形”光场？
+> 
+> ## 八、用户问题预测与解答
+> 
+> **问题1：为什么选择高阶贝塞尔光束作为研究对象，它有什么特别之处？** **解答**：高阶贝塞尔光束是一种特殊的“无衍射”光束，其横向光场呈环形分布，中心为暗核，并携带**轨道角动量**。除了具备普通贝塞尔光束的抗衍射和自愈合特性外，它的环形结构使其非常适合通过单次曝光制造微管、微通道等空心结构，效率极高。然而，其复杂的相位结构（由决定环尺寸的锥形波前和决定拓扑荷数的螺旋波前组成）对相位畸变极度敏感，任何微小的像差都会严重破坏其完美的环形强度分布，因此它是检验像差校正效果的“黄金标准”和“苛刻患者”。
+> 
+> **问题2：文中提到的“多通道干涉波前传感”和传统的“Shack-Hartmann波前传感器”有什么核心区别？** **解答**：两者原理完全不同。
+> 
+> -   **Shack-Hartmann传感器**：是一种基于几何光学的波前斜率测量法。它使用微透镜阵列将入射波前分割成许多子光束，并聚焦到探测器上。通过测量每个焦点的横向偏移量，计算出局部的波前斜率，再重构出整个波前。它需要独立的硬件设备。
+> -   **本研究方法**：是一种基于干涉测量的波前相位直接测量法。它无需额外硬件，直接利用系统中的SLM将波前“自分割”成多个子通道，通过测量它们与参考通道的干涉强度变化，直接解算出每个子区域的绝对相位值。其核心优势在于原位、低成本、无需额外传感器，且对光路对准要求低。
+> 
+> **问题3：为什么校正像差后，微管结构“倒塌”的问题就解决了？** **解答**：这是一个非常精彩的物理关联。在2PP过程中，液态的光刻胶聚合为固态聚合物时，会发生体积收缩，产生内应力。如果用于加工的光束强度分布不均匀（如因像差导致），光刻胶中不同区域的聚合度和交联密度就会不同，导致收缩应力分布不均。这种应力差会像“无形的手”一样，将结构拉向一侧，造成倒塌或扭曲。校正像差后，光束恢复了完美的环形和轴向均匀性，聚合过程变得高度一致，收缩应力均匀分布在整个微管壁上，结构因此能够保持直立和稳定。
+> 
+> **问题4：该方法是否只能校正静态像差？如果加工过程中温度变化导致像差漂移怎么办？** **解答**：好问题。论文中作者也明确指出，目前的校正操作是在加工前完成的，处理的是静态像差。对于加工过程中的动态像差，该方法本身是“冻结”的。但作者在展望中提出了一个非常关键的解决思路：将这项技术与**实时监测技术**结合。例如，通过光学相干断层扫描技术实时“观察”加工区域，并反馈信号给SLM，动态调整补偿相位，形成闭环控制。这项技术的扫描速度极快，未来完全有可能实现准实时的动态像差补偿。
+> 
+> **问题5：这项技术除了用来做微管，还能干什么？** **解答**：其应用前景非常广阔。任何需要精密控制激光焦场三维形状和质量的场景都可能受益。
+> 
+> 1.  **高精度光学元件制造**：制造微透镜阵列、菲涅尔透镜、光子晶体等，像差校正能保证每个元件的光学性能高度一致。
+> 2.  **生物医学工程**：制造结构复杂、尺寸精确的细胞支架、微针阵列、微流控芯片。
+> 3.  **三维数据存储**：在透明介质内部写入多层数据点，像差校正可确保每一层数据的写入精度和信噪比。
+> 4.  **超材料制造**：许多超材料结构对几何尺寸极为敏感，该技术能提供前所未有的加工精度和一致性。
+> 
+> ## 九、专区：便于 Obsidian Dataview 插件调用
+> 
+> 领域基础知识:: 飞秒激光双光子聚合是一种利用超快激光脉冲在光敏材料内部引发双光子吸收，从而实现亚微米级分辨率的三维微纳加工技术。自适应光学通过空间光调制器等可编程器件动态调控光场波前，以生成任意结构光束或补偿像差。光学像差是光学系统中偏离理想成像条件的各种误差，会导致焦点模糊、光场畸变。高阶贝塞尔光束是一种具有环形强度分布和轨道角动量的无衍射光束，对相位畸变极为敏感。
+> 
+> 研究背景:: 在飞秒激光双光子聚合系统中，引入自适应光学技术虽然能大幅提升加工效率与灵活性，但系统内光学元件的缺陷、装配误差等因素会引入严重的光学像差，导致加工质量下降。尤其是对于高阶贝塞尔光束这种对相位极其敏感的结构光，像差会使其光场严重扭曲，从而无法制造出高质量的微纳结构。现有像差校正方法多依赖复杂数学工具，应用门槛高。
+> 
+> 作者的问题意识:: 如何开发一种简单、鲁棒、无需复杂数学工具和额外硬件，就能在自适应光学双光子聚合系统内部实现原位像差校正的方法，以解决因像差导致的高阶贝塞尔光束光场扭曲及由此引发的微纳结构加工质量劣化问题。
+> 
+> 主要研究对象:: 基于单个纯相位空间光调制器的多通道干涉波前传感技术，及其在飞秒高阶贝塞尔光束双光子聚合加工系统中的像差校正效果与最终加工的微管阵列质量。
+> 
+> 主要研究方法:: 1. 原理上，将空间光调制器像素阵列划分为多个子通道，通过多通道干涉测量技术，逐一探测各通道相位，重构并补偿系统波前像差。 2. 实验上，将该技术集成到自建的飞秒双光子聚合系统中，有意引入显著像差，通过对比高阶贝塞尔光束校正前后的光场强度分布和最终加工的微管结构的扫描电子显微镜图像及圆形度数据，验证其有效性。
+> 
+> 研究意义:: 1. 技术层面：提供了一种极简、低成本、无需额外波前传感器和复杂算法的原位像差校正方案，极大地降低了自适应光学激光加工系统的操作门槛。 2. 应用层面：显著提升了基于高阶贝塞尔光束的双光子聚合加工质量，实现了高均匀性、高圆度微管阵列的快速制造，为高质量微纳加工提供了更普适的工具。
+> 
+> 研究结论:: 基于单个纯相位空间光调制器的多通道干涉波前传感技术能够成功集成到双光子聚合系统中，有效测量并补偿超过4π的波前像差。实验证明，该方法能使严重畸变的高阶贝塞尔光束恢复至近乎理想的强度分布，并利用校正后的光束制造出结构完整、壁厚均匀、圆形度高且无倒塌的高质量聚合物微管阵列，其加工质量远优于未校正的情况。
+> 
+> 对领域的贡献: 为激光精密加工领域贡献了一种易于推广的“傻瓜式”像差原位校正方法，桥接了复杂的自适应光学技术与实际的工业应用需求，通过简化系统装调与操作流程，促进了自适应光学在激光加工中的普及。
+> 
+> 未来研究方向提及: 1. 将波前校正范围扩展到整个光学系统，包括物镜和样品界面。 2. 结合实时监测技术（如光学相干断层扫描），实现加工过程中的动态像差补偿。 3. 将该技术拓展至复振幅调制，以实现更精细的结构特征校正。
+> 
+> 未来研究方向思考: 1. 研究该方法在不同类型像差（如社会性高频像差）下的校正精度边界，并与传统模态法进行对比。 2. 探索如何分离并预先补偿空间光调制器自身的固有波前误差，以提高校正的纯粹性。 3. 系统研究像差校正后，该加工系统的极限分辨率与最大纵横比等关键性能指标。 4. 验证该方法对艾里光束、完美涡旋光束等其他复杂结构光场及多焦点并行加工场景的适用性。
+> 
+> 🚀 [笔记回链](zotero://select/library/items/7M5EJFAZ)
+> 
+> * * *
+> 
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/11 06:46:20 （重新解读）_
+> 
+> 🏷️ #🤖️/AI文献解读 🏷️ #🤖️/AI文献阅读
+
+^KEY5BF389D2
+
+## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span>
+
+> 🚀 [笔记回链](zotero://select/library/items/TV79NTRJ)
+
+^KEYaiPaper0
+
+> <span class="AIReading">🤖 AI 解读，快人一步</span>
+> 
+> > 嗯，用户提供了一篇关于飞秒高阶贝塞尔光束双光子聚合的学术论文，要求我以学术文献深度解读专家的身份，对这篇文献进行结构化解读和知识体系重构服务。
+> > 
+> > 我需要先拆解用户的深层需求。用户可能是没有专业背景的初学者，也可能是需要快速把握核心观点的从业者，或者是对此领域感兴趣的学习者。我的任务是将复杂的学术内容转化为逻辑清晰、易于理解的知识框架。
+> > 
+> > 这篇论文的核心是解决双光子聚合加工中的光学像差问题，提出了一种多通道干涉波前传感技术来校正像差，并验证了其在加工高质量微管结构方面的有效性。
+> > 
+> > 我需要按照指定的八个核心模块来构建报告结构。首先，引言部分需要概述领域背景、研究问题、文献定位和核心价值。然后，逻辑概览要呈现论文框架和核心论证链条。图表解析部分需要深度分析所有图表，并注明单位和量纲。正文内容剖析要详细阐述研究背景、方法模型、实验结果和讨论。结论部分要总结核心发现和贡献。未来展望要归纳未解决的问题和潜在研究路径。批判性分析要提出3-5个深度问题。最后，用户问题预测与解答要生成至少5个延伸问题及系统性解答。
+> > 
+> > 在组织内容时，我需要运用总-分-总结构，确保各模块逻辑连贯。对于专业术语，首次出现时要提供中英文对照和解释，并进行加粗标注。对于可设计为图表或流程图的元素，要用斜体提示。全文必须使用中文，并严格遵循Markdown语法。
+> > 
+> > 现在，我可以开始组织这份结构化解读报告了。
+> 
+> 好的，收到您的请求。作为学术文献深度解读专家，我将严格遵循您设定的角色、核心能力、格式规范和执行流程，对这篇关于飞秒高阶贝塞尔光束双光子聚合的论文《Two-photon polymerization of femtosecond high-order Bessel beams with aberration correction》进行结构化解读。
+> 
+> 以下是基于您提供的文献生成的深度解读报告。
+> 
+> * * *
+> 
+> ## 一、引言
+> 
+> 在微观世界的精密制造中，**飞秒激光双光子聚合（2PP）** 技术就像一把极其精细的“光刻刀”，能够制造出分辨率达纳米级别的三维复杂结构。这项技术在量子点模板、微芯片、生物仿生等前沿领域具有巨大潜力。然而，光学系统中的**像差**——类似于“光路感冒”，会扭曲激光束的完美形态，严重降低制造精度和质量。
+> 
+> 为了克服这一难题，天津大学与法国FEMTO-ST研究所的联合团队提出了一种创新方案。本研究的核心价值在于：**它展示了一种无需复杂数学工具、易于集成的像差校正方法，并成功应用于高阶贝塞尔光束的2PP制造，快速生产出高质量的微管阵列。** 研究通过对比校正前后的光束形态和制造结果，直观地证明了该方法的有效性，为降低高精度激光加工系统的成本和复杂性提供了极具吸引力的新思路。
+> 
+> ## 二、论文结构与逻辑概览
+> 
+> 本论文遵循“提出问题 → 分析问题 → 提出解决方案 → 实验验证 → 结论”的经典科研逻辑链条，结构清晰。
+> 
+> -   **问题提出**：**2PP系统**中的光学像差会严重降低制造质量，而现有的校正方法通常需要复杂的数学工具（如泽尼克多项式）。
+> -   **解决方案**：提出并实现了一种基于**单**纯相位型空间光调制器（SLM）**的多通道干涉波前传感技术**。该方法通过将SLM像素阵列分区，并逐一干涉测量，重构出整个波前的畸变相位，再进行补偿。
+> -   **实验验证**：
+>     1.  **光束验证**：将校正后的高阶贝塞尔光束与理想模拟光束及未校正光束进行对比，发现校正后的光束强度和传播轨迹（无衍射区）得到了极大恢复。
+>     2.  **制造验证**：使用校正前后的光束进行2PP制造微管。通过扫描电子显微镜（SEM）图像和圆度量化分析，证明校正后制造的微管阵列结构规整、附着力强，质量显著提升。
+> -   **结论与展望**：该方法被证明是强大且简便的，可显著提升制造质量，并有望应用于更广泛的激光加工领域。
+> 
+> ## 三、所有图表深度解析
+> 
+> 本部分将论文中的图表进行逐一拆解，以揭示其承载的关键信息。
+> 
+> -   **图1：波前传感原理示意图**
+>     
+>     -   **(a) SLM上的双通道与干涉**：展示了SLM上的一个参考通道（CR）和一个测试通道（CT）。内嵌图模拟了当测试通道与参考通道的相位差分别为0, π/2, π, 3π/2时，它们在透镜焦平面上的干涉图案强度变化。_这直观地解释了公式(1)的原理：干涉强度I随相位差呈余弦变化，当强度最大时，两者相位一致。_
+>     -   **(b) SLM区域划分与扫描路径**：示意SLM面板被划分为M×N个通道，并标明了测试通道依次扫描的路径。
+>     -   **(c) 加载于SLM的像差校正掩膜**：这张图是最终计算出的、需要加载到SLM上进行补偿的相位图。图中的灰度变化代表了光程差，可以看到超过4π（即720度）的相位起伏，表明系统存在显著的像差。
+>     -   **(d) 校正前，高阶贝塞尔光束的傅里叶频谱**：图像显示为一个扭曲、不均匀的环，不再是理想的完美圆环，体现了像差的严重影响。
+>     -   **(e) 校正后，高阶贝塞尔光束的傅里叶频谱**：图像恢复为一个亮度均匀、形状规整的圆环，直观地证明了校正方案的成功。
+> -   **图2：实验装置示意图**
+>     
+>     -   该图展示了整个2PP系统的光路架构。关键组件包括：飞秒激光源（SHG产生二次谐波，波长**1038nm倍频后为519nm**）、**空间光调制器（SLM）**、由透镜（f=1m）和**显微物镜（MO，Olympus 20×，数值孔径NA=0.4）** 组成的缩束望远镜、**CCD相机**用于波前检测、以及用于控制曝光时间的机械快门。
+>     -   插图中，SLM旁展示了生成贝塞尔涡旋光束的相位图案，MO旁则展示了光束在焦点区域的三维光场分布，呈现为“管状”结构。
+> -   **图3：高阶贝塞尔光束（涡旋阶数m=6）的校正效果**
+>     
+>     -   **(a)-(c) 沿传播方向的纵向光强分布**：(a)是理想模拟结果，(b)是未校正的实验结果，(c)是校正后的实验结果。可以清晰地看到，未校正光束的“无衍射”传播轨迹（中心暗区）发生了严重扭曲，而校正后则恢复为与模拟图几乎一致的笔直轨迹。
+>     -   **(d)-(f) 在z=250μm处的横向光强分布**：(d)-(f)分别对应模拟、未校正、校正后。同样，校正后的环状光强分布恢复了理想的圆形和均匀性。
+>     -   **(g) 主瓣尺寸沿传播方向的演化**：该曲线图量化了光束中心“管”的直径（单位：**μm**）随传播距离（单位：**μm**）的变化。校正后的曲线（可能为红色）与模拟曲线（可能为黑色）高度吻合，而未经校正的曲线（可能为蓝色）则波动剧烈，无法维持恒定直径。
+> -   **图4：微管结构的SEM照片**
+>     
+>     -   **(a)-(c) 像差校正前制造的微管**：微管结构严重变形，管壁厚薄不均，甚至出现倒塌。图(c)中的白色虚线箭头勾勒出外壁，清晰显示了锥形壁和与基底过渡连接的聚合区域。
+>     -   **(d)-(f) 像差校正后制造的微管阵列**：阵列整齐，单个微管结构完美，呈均匀的圆环形。图(f)中的白色虚线箭头显示管壁垂直、均匀。比例尺（未标注的）表示**20 μm**。
+> -   **图5：微管结构圆度测量结果**
+>     
+>     -   该图表量化了制造质量。纵轴为**圆度C**（无量纲，1为完美圆），横轴为微管编号。
+>     -   **(a) 外环圆度**和**(b) 内环圆度**：数据直观地展示了校正前（编号1,2,3）的圆度值分散且较低，而校正后（编号4,5,6）的圆度值更集中、更接近1。值得注意的是，外环对像差更为敏感，校正前后的圆度差异（0.919 vs 0.893）比内环（0.956 vs 0.939）更大。
+> -   **图6：不同涡旋阶数下制造的微管SEM照片**
+>     
+>     -   展示了使用涡旋阶数m = 4, 6, 8的高阶贝塞尔光束制造的微管。测量得到的外径分别为**17.6 μm, 20.6 μm, 26.06 μm**。这表明通过改变涡旋阶数，可以灵活控制微管尺寸，且所有结构都表现出高质量的圆度和稳固性。
+> 
+> ## 四、正文核心内容剖析
+> 
+> ### 1. 研究背景与问题
+> 
+> 传统的2PP技术使用紧密聚焦的高斯光束，逐点扫描制造，效率较低。近年来，利用**自适应光学**和**结构光**（如无衍射的贝塞尔光束、自聚焦光束等）可一次性曝光制造特定结构，大幅提升效率。然而，光路中的各种光学元件（非线性晶体、SLM自身、透镜缺陷等）会引入**像差**，显著劣化结构光束的形态，尤其是在对像差极其敏感的高阶贝塞尔光束应用中。现有的像差校正方法多依赖复杂的算法（如GS算法，即Gerchberg-Saxton算法），增加了系统复杂性和操作门槛。
+> 
+> ### 2. 方法与模型
+> 
+> 本研究采用的核心方法是**多通道干涉波前传感技术**。其原理模型如下：
+> 
+> -   **核心思想**：将一个任意扭曲的光场看作是多个正交模态的叠加。当所有模态的相位完全一致时，各模态的干涉效应最强，达到最佳聚焦状态。
+> -   **实现过程**：
+>     1.  **分区**：将纯相位SLM的二维像素阵列划分为M×N个（实验中为20×20）等大小的通道。
+>     2.  **编码**：每个通道加载一个独立的闪耀光栅相位，使其调制信息能在第一衍射级上分离出来。
+>     3.  **干涉测量**：选定一个通道作为相位参考，依次打开其他测试通道。当测试通道的相位从0到2π（以π/10的步长）变化时，在透镜焦平面用CCD记录干涉光强。根据公式(1) `I ∝ |U_i|² + |U_r|² + 2|U_i||U_r|cos(φ_i - φ_r)`，强度最大值对应的相位即为测试通道与参考通道同相时的相位值。
+>     4.  **波前重构与补偿**：遍历所有测试通道后，即可测得整个波前的相位畸变。将测得的相位分布取反（即互补相位图），加载到SLM上，即可实现对系统像差的补偿。
+> 
+> ### 3. 实验结果与讨论
+> 
+> -   **光束质量恢复**：通过对比图1(d)和(e)的傅里叶频谱，以及图3中纵向和横向的光强分布，验证了校正后的高阶贝塞尔光束在圆度、光强均匀性和无衍射传播特性上，都与理想模拟结果高度一致。
+> -   **制造质量飞跃**：SEM图像（图4）和圆度测量（图5）是核心证据。未校正光束制造的微管结构扭曲、壁厚不均、易倒塌，这是由扭曲光场导致的不均匀能量沉积和聚合物收缩应力造成的。校正后，这些问题被完美解决，制造出了高质量的微管阵列，单根制造时间小于0.8秒。
+> -   **方法普适性验证**：通过成功制造不同尺寸（17.6 μm至26.06 μm）的微管（图6），证明了该方法对不同涡旋阶数的贝塞尔光束均有效，展示了其灵活性和通用性。
+> 
+> ## 五、结论与贡献
+> 
+> 本研究成功地将一种**无需复杂数学工具的多通道干涉波前传感技术**集成到基于自适应光学的2PP系统中，并实现了对高阶贝塞尔光束的像差校正。**核心贡献点**在于：
+> 
+> 1.  **方法论贡献**：提供了一种**原位、简便、易集成**的像差校正方案，显著降低了操作人员的技术门槛，无需掌握泽尼克分解或GS迭代等高级算法。
+> 2.  **实践验证**：通过对比实验，强有力地证明了该方案能极大恢复结构光束的理想形态，并据此快速制造出高质量（高圆度、壁厚均匀、结构稳固）的微管阵列。
+> 3.  **系统成本优化**：该技术有望放宽对激光加工系统中光学元件和装调精度的苛刻要求，从而“显著降低制造系统的成本”。
+> 
+> ## 六、未来发展方向展望
+> 
+> 作者在文中及结尾处提出了以下几点展望：
+> 
+> 1.  **全系统校正**：当前方案仅校正了SLM到物镜前透镜的像差。未来可通过在物镜后增加透镜并监测其焦面信号，实现对整个光学系统（包括物镜）的像差校正。
+> 2.  **实时动态校正**：目前的校正是在制造前执行的。作者设想，未来可结合新的实时监测技术（如光学相干层析，OCT），在打印过程中实时反馈并校正由其他因素（如光刻胶收缩、热效应）引起的动态畸变。
+> 3.  **复杂振幅调制**：未来的工作可能探索结合**复杂振幅调制**技术，以实现更精细的特征校正和更复杂的光场调控。
+> 4.  **更广泛的应用**：将该技术推广到其他对波前质量要求高的激光加工领域，如飞秒激光诱导周期性表面结构（LIPSS）的制备。
+> 
+> ## 七、学术思考与批判性分析
+> 
+> 尽管该研究取得了显著成果，但仍可从以下几个角度进行深度思考：
+> 
+> 1.  **校正精度与采样密度的权衡**：作者将SLM划分为20×20的通道，认为足够采样平滑的像差。但对于存在高阶、剧烈起伏的像差，这种采样密度是否足够？**通道划分的极限在哪里？** 增加通道数会减小单个通道的像素和光强，降低信噪比。如何定量评估和优化此方法对不同像差的空间频率响应极限？
+> 2.  **“无像差”状态的相对性**：实验通过将光束恢复至与理想模拟一致来证明“无像差”。但这是否意味着完全消除了所有像差？该方法本质上是将所有通道的相位调整到与参考通道一致，**校正的基准是SLM上的参考通道，而非一个绝对平面波前**。如果参考通道及其所在的光路本身存在固有像差，这个像差会作为一个“基准偏置”被保留在整个系统中。这是否会成为更高精度应用的瓶颈？
+> 3.  **制造质量发散度的归因分析**：作者将校正后微管依然存在的非完美圆度（如外环圆度0.893）归因于外环对像差更敏感。但除此之外，是否还有其他潜在因素，如**光刻胶本身的化学不均匀性、后烘烤和显影过程中的局部应力不均、激光功率的微小波动**？一个完整的归因分析需要更严格的控制实验来区分光学像差和材料/工艺因素各自的贡献。
+> 4.  **方法的应用边界**：该方法依赖于SLM生成闪耀光栅来分离第一级衍射光，这不可避免地会引入能量损失。对于功率敏感的材料或加工过程，这种能量损失是否可接受？此外，该方法目前仅适用于纯相位调制，对于需要偏振控制或更复杂光场调控的场景，其适用性如何？
+> 5.  **与现有技术对比的定量化缺失**：论文声称其方法“简单”、“无需复杂数学工具”，但未与现有方法（如基于泽尼克多项式或GS算法的校正）在**校正精度、收敛速度、鲁棒性、计算资源消耗**等方面进行定量比较。这种“简单性”是否以牺牲部分性能为代价，需要通过对比实验来阐明。
+> 
+> ## 八、用户问题预测与解答
+> 
+> **问题1：什么是“双光子聚合”？为什么它需要飞秒激光？** **解答**：**双光子聚合（2PP）** 是一种非线性光学过程。通常，光敏树脂需要吸收一个高能量的紫外光子才能固化。在2PP中，树脂同时吸收两个低能量的近红外光子（能量总和等于一个紫外光子）来激发聚合反应。这个“同时”吸收两个光子的概率与光强的平方成正比，因此只发生在激光焦点处的极小三维体积内（体素，Voxel）。**飞秒激光**能在极短时间内（10⁻¹⁵秒）将能量压缩成极高的峰值功率，从而在平均功率不高的情况下，在焦点处获得足够高的光子密度，高效触发双光子吸收，同时避免热效应损坏材料。这就像用一根极细的、只在尖端发光的笔进行三维雕刻。
+> 
+> **问题2：什么是“高阶贝塞尔光束”？它和普通激光束有何不同？** **解答**：普通高斯光束在传播过程中会自然发散，就像手电筒的光。而**贝塞尔光束**是一种“无衍射光束”，其横向光强分布呈同心圆环状，中心光斑在很长一段距离内能保持大小不变，仿佛能“自愈”绕过障碍物。**高阶贝塞尔光束**则是在此基础上叠加了**轨道角动量（OAM）**，其中心是暗的，光强分布就像一个甜甜圈，其相位波前呈螺旋状。本研究中，这个“甜甜圈”形状的光束照射到光刻胶里，就能一次性“打印”出一个空心的微管，效率极高。
+> 
+> **问题3：论文中提到的“SLM”是做什么的？** **解答**：**空间光调制器（SLM）** 在本研究中扮演了两个核心角色，是系统的“大脑”。它像一个可编程的“数字镜子”或“数字透镜”阵列，通过改变施加在其液晶像素上的电压，可以精确控制反射或透射光束**每个像素点的相位**。首先，它被用来生成高阶贝塞尔光束所需的复杂螺旋相位图案。其次，它又充当了波前传感器，通过分区域扫描和干涉，测量出系统自身的像差，并生成一个“反像差”的相位图案加载上去，从而一举两得，在一个器件上实现了光束整形和像差校正。
+> 
+> **问题4：为什么像差校正后，微管就“不会倒”了？** **解答**：这是一个很好的观察。未校正光束的“甜甜圈”光强分布是不均匀的，有些地方亮，有些地方暗。这导致在光刻胶聚合时，固化程度和速度不一致，产生不均匀的内应力。在后续的显影和干燥过程中，结构薄弱的一侧就会因为应力释放而收缩，导致整个微管侧壁变形甚至倒塌。校正后，光束强度变得非常均匀，聚合过程同步且均匀，结构各向同性，因此能稳固地站立在基底上，呈现完美的圆柱形。
+> 
+> **问题5：这项技术离实际应用还有多远？主要挑战是什么？** **解答**：这项技术已经在实验室层面证明了其巨大潜力，但走向工业应用仍面临几个主要挑战：
+> 
+> 1.  **速度与吞吐量**：虽然单个微管制造（<0.8秒）很快，但对于大面积、高密度阵列的制造，需要更高效的扫描策略或并行化处理。
+> 2.  **实时性问题**：如文中所言，目前的校正是静态的。在长时间加工过程中，环境温度变化、机械漂移等会引入新的像差，需要开发闭环的实时动态校正系统。
+> 3.  **材料兼容性**：需要对不同光刻胶的收缩特性、折射率变化等进行系统研究，以建立更精确的预补偿模型。
+> 4.  **系统集成与成本**：将SLM、波前传感、实时反馈控制、激光源和运动平台集成为一个稳定、鲁棒且用户友好的工业级设备，仍需进一步的工程化开发。然而，其“无需复杂数学工具”的特点，正是降低系统复杂性和成本的关键一步，为其从实验室走向无尘车间铺平了道路。
+> 
+> 🚀 [笔记回链](zotero://select/library/items/TV79NTRJ)
+> 
+> * * *
+> 
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/11 05:46:10 （重新解读）_
+> 
+> 🏷️ #🤖️/论文深度解读 🏷️ #🤖️/AI文献阅读
+
+^KEY2131E00E
+
+## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span>
+
+> 🚀 [笔记回链](zotero://select/library/items/PWNHYQ7L)
+
+^KEYaiPaper0
+
+> <span class="AIReading">🤖 AI 解读，快人一步</span>
+> 
+> > 好的，用户要求将一篇英文PDF论文转换为结构化的双语Markdown格式。我需要仔细理解这个任务的要求。
+> > 
+> > 用户提供了详细的处理流程，包括结构解析、逻辑单元切分、双语转换和格式构建。我需要确保输出严格遵循CommonMark规范，保持原文层级结构与信息完整性。
+> > 
+> > 这篇论文是关于飞秒高阶贝塞尔光束双光子聚合的，内容比较专业。我需要识别出标题层级、段落、列表、引用块等结构元素，并准确映射到Markdown格式。
+> > 
+> > 让我先看看输入文本的结构。开头有论文标题、作者信息、摘要和关键词，然后是按章节组织的内容，包括引言、原理、实验和结果、结论等部分。
+> > 
+> > 我需要为每个单元分配唯一ID，比如sec-1表示第一个章节，para-001表示第一个段落。每个单元要包含英文原文、中文翻译和术语解释。
+> > 
+> > 对于术语解释，只需要标注首次出现的核心术语，格式是**Term**: 中文解释。我需要判断哪些术语是核心的，只在第一次出现时解释。
+> > 
+> > 翻译时要注意技术语义的准确性，保持专业术语的一致性。比如“aberration correction”要翻译为“像差校正”，“spatial light modulator”翻译为“空间光调制器”。
+> > 
+> > 格式方面，标题要用#号层级，代码块用三反引号包裹，引用块保留>符号，表格转换为Markdown表格语法。
+> > 
+> > 我需要确保输出没有任何额外说明性内容，只输出纯Markdown文本。中文翻译要紧接英文原文，没有空行间隔。
+> > 
+> > 现在开始处理具体的文本内容。首先处理标题和作者信息，然后是摘要部分，再按章节顺序处理每个部分。
+> > 
+> > 对于每个结构单元，我需要判断类型，提取英文原文，进行准确翻译，识别核心术语并添加解释，最后按照要求的格式输出。
+> > 
+> > 这个任务需要仔细处理，确保格式规范、翻译准确、术语解释恰当。
+> 
 > # Two-photon polymerization of femtosecond high-order Bessel beams with aberration correction
 > 
-> 飞秒高阶贝塞尔光束的像差校正双光子聚合 **Two-photon polymerization (2PP)**: 双光子聚合，一种利用非线性光学效应实现亚微米分辨率的三维微纳加工技术。 **Bessel beams**: 贝塞尔光束，一种具有无衍射特性的结构光。
+> # 飞秒高阶贝塞尔光束在像差校正下的双光子聚合
 > 
-> Erse Jia (贾而穑)1, Chen Xie (谢 辰)1*, Na Xiao (肖 娜)1, Francois Courvoisier2, and Minglie Hu (胡明列)1 1 Ultrafast Laser Laboratory, Key Laboratory of Opto-electronic Information Technical Science of Ministry of Education, School of Precision Instruments and Opto-electronics Engineering, Tianjin University, Tianjin 300072, China 2 FEMTO-ST Institute, Université de Bourgogne-Franche-Comté UMR-6174, 25030 Besançon, France *Corresponding author: xie_chen@tju.edu.cn Received February 16, 2023 | Accepted April 18, 2023 | Posted Online July 20, 2023
+> **Two-photon polymerization (2PP)**: 双光子聚合，一种利用飞秒激光引发光敏材料发生双光子吸收从而实现微纳尺度三维结构加工的技术。 **Bessel beams**: 贝塞尔光束，一种具有无衍射传播和自修复特性的特殊光束。 **Aberration**: 像差，光学系统中导致实际成像与理想成像存在偏差的缺陷。
 > 
-> In the femtosecond two-photon polymerization (2PP) experimental system, optical aberrations degrade the fabrication quality. To solve this issue, a multichannel interferometric wavefront sensing technique is adopted in the adaptive laser processing system with a single phase-only spatial light modulator. 2PP fabrications using corrected high-order Bessel beams with the above solution have been conducted, and high-quality microstructure arrays of microtubes with 20 μm diameter have been rapidly manufactured. The effectiveness of the proposed scheme is demonstrated by comparing the beam intensity distributions and 2PP results before and after aberration corrections. 在飞秒双光子聚合（2PP）实验系统中，光学像差会降低加工质量。为了解决这个问题，在采用单个纯相位空间光调制器的自适应激光加工系统中，引入了一种多通道干涉波前传感技术。利用上述方案校正后的高阶贝塞尔光束进行了 2PP 加工，快速制造出了直径为 20 μm 的高质量微管微结构阵列。通过对比像差校正前后的光束强度分布和 2PP 结果，验证了所提方案的有效性。 **Aberration correction**: 像差校正，通过补偿光学系统引入的相位畸变来恢复理想波前。 **Spatial Light Modulator (SLM)**: 空间光调制器，一种能够对入射光波前进行实时、动态像素级控制的器件。
+> Erse Jia (贾而穑)1, Chen Xie (谢 辰)1*, Na Xiao (肖 娜)1, Francois Courvoisier2, and Minglie Hu (胡明列)1 1 Ultrafast Laser Laboratory, Key Laboratory of Opto-electronic Information Technical Science of Ministry of Education, School of Precision Instruments and Opto-electronics Engineering, Tianjin University, Tianjin 300072, China 2 FEMTO-ST Institute, Université de Bourgogne-Franche-Comté UMR-6174, 25030 Besançon, France *Corresponding author: xie_chen@tju.edu.cn
 > 
-> Keywords: femtosecond laser; two-photon polymerization; aberration correction; Bessel beams. DOI: 10.3788/COL202321.071203 关键词：飞秒激光；双光子聚合；像差校正；贝塞尔光束。
+> 贾而穑1，谢辰1*，肖娜1，Francois Courvoisier2，胡明列1 1 天津大学精密仪器与光电子工程学院，超快激光实验室，光电信息技术教育部重点实验室，天津，300072，中国 2 FEMTO-ST研究所，勃艮第-弗朗什-孔泰大学，UMR-6174，25030，贝桑松，法国 *通讯作者: xie_chen@tju.edu.cn
 > 
-> ## 1. Introduction
+> Received February 16, 2023 | Accepted April 18, 2023 | Posted Online July 20, 2023 收稿日期: 2023年2月16日 | 录用日期: 2023年4月18日 | 在线发布日期: 2023年7月20日
 > 
-> ## 1. 引言
+> In the femtosecond two-photon polymerization (2PP) experimental system, optical aberrations degrade the fabrication quality. To solve this issue, a multichannel interferometric wavefront sensing technique is adopted in the adaptive laser processing system with a single phase-only spatial light modulator. 2PP fabrications using corrected high-order Bessel beams with the above solution have been conducted, and high-quality microstructure arrays of microtubes with 20 μm diameter have been rapidly manufactured. The effectiveness of the proposed scheme is demonstrated by comparing the beam intensity distributions and 2PP results before and after aberration corrections. 在飞秒双光子聚合（2PP）实验系统中，光学像差会降低加工质量。为解决此问题，在仅使用单个相位型空间光调制器的自适应激光加工系统中，采用了多通道干涉波前传感技术。利用上述方案校正后的高阶贝塞尔光束进行了2PP加工，并快速制造了直径为20微米的高质量微管微结构阵列。通过比较像差校正前后的光束强度分布和2PP结果，证明了所提出方案的有效性。
 > 
-> Femtosecond two-photon polymerization (2PP)[1–5] is widely used in the fabrication of three-dimensional complex architectures with a submicrometer resolution. Recent applications are templates for quantum dots[6], scanning-probe microscopes[7], microchips[8], and biomimetic 4D printing[9]. The conventional 2PP procedures utilize the tightly focused femtosecond laser beam to trigger polymerization inside the photoresist. In recent years, femtosecond 2PP based on adaptive optics[10–13] has attracted considerable interest due to enhanced fabrication efficiency with different structured light beams, such as Bessel beams[14], optical vortex beams[15–17], abruptly autofocusing beams[18], and axilens beams with long focal depths[19]. 飞秒双光子聚合 (2PP)[1–5] 广泛用于具有亚微米分辨率的三维复杂结构制造。近期的应用包括量子点模板[6]、扫描探针显微镜[7]、微芯片[8]以及仿生 4D 打印[9]。传统的 2PP 流程利用紧聚焦的飞秒激光束触发光刻胶内部的聚合反应。近年来，基于自适应光学[10–13]的飞秒 2PP 因其通过不同结构光束（如贝塞尔光束[14]、光学涡旋光束[15–17]、骤聚焦光束[18]和具有长焦深的轴透镜光束[19]）提高加工效率而引起了广泛关注。 **Adaptive optics**: 自适应光学，通过实时监测和校正波前畸变来优化光学系统性能的技术。 **Photoresist**: 光刻胶，一种对光敏感的聚合物材料。
+> **Spatial light modulator (SLM)**: 空间光调制器，一种能对光波的空间分布进行调制的器件。 **Wavefront sensing**: 波前传感，一种用于测量光波波前相位分布的技术。 **Microtubes**: 微管，本文中指通过双光子聚合技术制造的微米级管状结构。
 > 
-> Within these procedures, the spatial light modulators (SLMs) are introduced to generate arbitrary optical patterns through a computer-generated hologram (CGH) algorithm[20] so that various structures could be fabricated via a one-step exposure. In fact, many factors in the 2PP setup combining an ultrafast laser and adaptive optics can introduce undesired aberrations, such as the walk-off effect in the nonlinear crystal, the internal stress and nonlinear response of the adaptive devices, and the manufacturing defects or assembly errors of the optical element. 在这些流程中，引入空间光调制器 (SLM) 通过计算机生成全息 (CGH) 算法[20]产生任意光学图案，从而能够通过一步曝光制造各种结构。事实上，在结合了超快激光和自适应光学的 2PP 装置中，许多因素会导致不希望出现的像差，例如非线性晶体中的走离效应、自适应器件的内部应力和非线性响应，以及光学元件的制造缺陷或组装误差。 **Computer-generated hologram (CGH)**: 计算机生成全息，利用数值计算设计相位分布以产生特定光场的方法。 **Walk-off effect**: 走离效应，在双折射晶体中，普通光线和非普通光线传播方向不一致的现象。
+> Keywords: femtosecond laser; two-photon polymerization; aberration correction; Bessel beams. 关键词: 飞秒激光；双光子聚合；像差校正；贝塞尔光束。
 > 
-> On the other side, Bessel beams are notable for the diffraction resistance and self-healing behaviors. Besides these properties, high-order Bessel beams also show the potential to synthesize more complex structured light[21,22]. Based on the above characteristics, high-order Bessel beams have been widely used in micronanomanufacturing[23], biological imaging[24], optical tweezers[25], optical communication[26,27], and other fields. However, the aberrations in the setup significantly affect the application of high-order Bessel beams, since their patterns are extremely sensitive to aberrations[28]. 另一方面，贝塞尔光束以其抗衍射和自修复特性而著称。除了这些特性外，高阶贝塞尔光束还展现出合成更复杂结构光的潜力[21,22]。基于上述特点，高阶贝塞尔光束已广泛应用于微纳制造[23]、生物成像[24]、光镊[25]、光学通信[26,27]等领域。然而，装置中的像差会显著影响高阶贝塞尔光束的应用，因为它们的图案对像差极其敏感[28]。 **Diffraction resistance**: 抗衍射，指光束在传播过程中能够保持其横向尺寸不变的能力。 **Self-healing**: 自修复，指光束在遇到部分遮挡后，能够在传播一定距离后恢复其原始形状。
+> DOI: 10.3788/COL202321.071203
 > 
-> Numerous methods can assist in shaping beams and/or removing aberrations in the optical system[29–34], and SLMs are the critical devices in these adaptive methods. Crucially, these solutions all require relatively advanced mathematical tools, such as the Zernike polynomial, the Gerchberg–Saxton, or more complex algorithms. In the application of waveguide writing, the SLM has shown great power in correcting the spherical aberration inside bulky glass[34] and controlling nonlinear propagation[34,35]. Despite the negligible nonlinear propagating effect in the application of 2PP, SLMs are also playing critical roles by building fabricating systems based on adaptive optics. 许多方法可以辅助光束整形和/或消除光学系统中的像差[29–34]，而 SLM 是这些自适应方法中的关键器件。至关重要地是，这些解决方案都需要相对先进的数学工具，如 Zernike 多项式、Gerchberg-Saxton 算法或更复杂的算法。在波导写入应用中，SLM 在校正块状玻璃内部球面像差[34]和控制非线性传播[34,35]方面展现了强大能力。尽管在 2PP 应用中非线性传播效应可忽略不计，但 SLM 在构建基于自适应光学的制造系统方面仍发挥着关键作用。 **Zernike polynomial**: Zernike 多项式，一组用于描述光学表面或波前像差的正交多项式。 **Spherical aberration**: 球面像差，由于光学元件表面形状不是理想球面导致光线不能聚焦在一点的现象。
+> # 1. Introduction
 > 
-> In such systems, a relay optics system is installed after the SLM to generate micrometer-scaled structured beams. Further filterings are usually introduced to eliminate the undesired diffracting subbeams resulting from the superimposed grating phases. Therefore, considering the increased complexity of these systems caused by the pixelated SLM, the above aberration correction approaches will no longer be applicable. In this paper, we demonstrate the power of aberration correction in our 2PP experimental system based on the multichannel interferometric wavefront sensing technique. This method was originally developed to restore the intensity distribution of the structured beams in situ[36], requiring no complex mathematical tools. 在这样的系统中，SLM 之后安装了一个中继光学系统，以产生微米尺度的结构光束。通常还会引入进一步的滤波以消除由叠加光栅相位产生的不希望出现的衍射子光束。因此，考虑到像素化 SLM 导致系统复杂度增加，上述像差校正方法可能不再适用。在本文中，我们展示了基于多通道干涉波前传感技术的 2PP 实验系统的像差校正能力。该方法最初开发用于原位恢复结构光束的强度分布[36]，不需要复杂的数学工具。
+> # 1. 引言
 > 
-> A single phase-only SLM is sufficient to implement this method into optimizing the 2PP system, sparing the heavy work of alignments in installing the system. We verify the effectiveness of this method by comparing the intensity profiles of the high-order Bessel beam before and after the correction. The experimental results of our aberration-free structured beam present excellent agreement with the simulations in the ideal case. With the help of this method, we finally realize the rapid fabrication of high-quality microtube structures by directly exposing the high-order Bessel beams to the negative photoresist. 单个纯相位 SLM 足以将该方法用于优化 2PP 系统，从而免去了安装系统时繁重的对准工作。我们通过对比校正前后高阶贝塞尔光束的强度分布验证了该方法的有效性。我们无像差结构光的实验结果与理想情况下的仿真结果高度一致。借助该方法，我们最终实现了通过将高阶贝塞尔光束直接曝光于负光刻胶，快速制造出高质量的微管结构。
+> Femtosecond two-photon polymerization (2PP)[1–5] is widely used in the fabrication of three-dimensional complex architectures with a submicrometer resolution. Recent applications are templates for quantum dots[6], scanning-probe microscopes[7], microchips[8], and biomimetic 4D printing[9]. The conventional 2PP procedures utilize the tightly focused femtosecond laser beam to trigger polymerization inside the photoresist. In recent years, femtosecond 2PP based on adaptive optics[10–13] has attracted considerable interest due to enhanced fabrication efficiency with different structured light beams, such as Bessel beams[14], optical vortex beams[15–17], abruptly autofocusing beams[18], and axilens beams with long focal depths[19]. Within these procedures, the spatial light modulators (SLMs) are introduced to generate arbitrary optical patterns through a computer-generated hologram (CGH) algorithm[20] so that various structures could be fabricated via a one-step exposure. In fact, many factors in the 2PP setup combining an ultrafast laser and adaptive optics can introduce undesired aberrations, such as the walk-off effect in the nonlinear crystal, the internal stress and nonlinear response of the adaptive devices, and the manufacturing defects or assembly errors of the optical element. On the other side, Bessel beams are notable for the diffraction resistance and self-healing behaviors. Besides these properties, high-order Bessel beams also show the potential to synthesize more complex structured light[21,22]. Based on the above characteristics, high-order Bessel beams have been widely used in micronanomanufacturing[23], biological imaging[24], optical tweezers[25], optical communication[26,27], and other fields. However, the aberrations in the setup significantly affect the application of high-order Bessel beams, since their patterns are extremely sensitive to aberrations[28]. Numerous methods can assist in shaping beams and/or removing aberrations in the optical system[29–34], and SLMs are the critical devices in these adaptive methods. Crucially, these solutions all require relatively advanced mathematical tools, such as the Zernike polynomial, the Gerchberg–Saxton, or more complex algorithms. In the application of waveguide writing, the SLM has shown great power in correcting the spherical aberration inside bulky glass[34] and controlling nonlinear propagation[34,35]. Despite the negligible nonlinear propagating effect in the application of 2PP, SLMs are also playing critical roles by building fabricating systems based on adaptive optics. In such systems, a relay optics system is installed after the SLM to generate micrometer-scaled structured beams. Further filterings are usually introduced to eliminate the undesired diffracting subbeams resulting from the superimposed grating phases. Therefore, considering the increased complexity of these systems caused by the pixelated SLM, the above aberration correction approaches will no longer be applicable. In this paper, we demonstrate the power of aberration correction in our 2PP experimental system based on the multichannel interferometric wavefront sensing technique. This method was originally developed to restore the intensity distribution of the structured beams in situ[36], requiring no complex mathematical tools. A single phase-only SLM is sufficient to implement this method into optimizing the 2PP system, sparing the heavy work of alignments in installing the system. We verify the effectiveness of this method by comparing the intensity profiles of the high-order Bessel beam before and after the correction. The experimental results of our aberration-free structured beam present excellent agreement with the simulations in the ideal case. With the help of this method, we finally realize the rapid fabrication of high-quality microtube structures by directly exposing the high-order Bessel beams to the negative photoresist. 飞秒双光子聚合（2PP）[1–5] 广泛应用于亚微米分辨率的三维复杂结构制造。近期应用包括量子点模板[6]、扫描探针显微镜[7]、微芯片[8]和仿生4D打印[9]。传统的2PP过程利用紧聚焦的飞秒激光束在光刻胶内部引发聚合。近年来，基于自适应光学的飞秒2PP[10–13] 因其利用不同结构光束（如贝塞尔光束[14]、光学涡旋光束[15–17]、突变自聚焦光束[18]和具有长焦深的轴棱锥光束[19]）提高了加工效率而引起了极大兴趣。在这些过程中，引入空间光调制器（SLM）通过计算机生成全息图（CGH）算法[20]产生任意光学图案，从而可以通过一步曝光制造各种结构。事实上，在结合超快激光和自适应光学的2PP装置中，许多因素会引入不必要的像差，例如非线性晶体中的走离效应、自适应器件的内应力和非线性响应，以及光学元件的制造缺陷或装配误差。另一方面，贝塞尔光束以其抗衍射和自修复特性而闻名。除了这些特性，高阶贝塞尔光束还显示出合成更复杂结构光的潜力[21,22]。基于以上特性，高阶贝塞尔光束已广泛应用于微纳制造[23]、生物成像[24]、光镊[25]、光通信[26,27]等领域。然而，装置中的像差严重影响了高阶贝塞尔光束的应用，因为其光场分布对像差极其敏感[28]。许多方法可以帮助在光学系统中整形光束和/或消除像差[29–34]，而SLM是这些自适应方法中的关键器件。关键是，这些解决方案都需要相对高级的数学工具，例如泽尼克多项式、Gerchberg–Saxton或更复杂的算法。在波导写入的应用中，SLM在矫正块状玻璃内部的球差[34]和控制非线性传播[34,35]方面显示出强大能力。尽管在2PP应用中非线性传播效应可忽略不计，SLM通过构建基于自适应光学的加工系统也发挥着关键作用。在此类系统中，SLM后安装中继光学系统以产生微米尺度的结构光束。通常会引入进一步的滤波以消除叠加光栅相位产生的不需要的衍射子光束。因此，考虑到由像素化SLM导致的这些系统复杂性增加，上述像差校正方法将不再适用。在本文中，我们展示了基于多通道干涉波前传感技术的2PP实验系统中像差校正的能力。该方法最初开发用于原位恢复结构光束的强度分布[36]，无需复杂的数学工具。仅需一个相位型SLM即可将此方法应用于优化2PP系统，从而省去安装系统时繁重的对准工作。我们通过比较校正前后高阶贝塞尔光束的强度分布来验证此方法的有效性。我们无像差结构光束的实验结果与理想情况下的模拟结果非常吻合。借助此方法，我们最终通过将高阶贝塞尔光束直接曝光于负性光刻胶，实现了高质量微管结构的快速制造。
 > 
-> ## 2. Principle of the Aberration Correction
+> **Femtosecond laser**: 飞秒激光，一种脉冲宽度为飞秒量级的激光，具有极高的峰值功率。 **Adaptive optics**: 自适应光学，一种通过实时校正波前畸变来改善光学系统性能的技术。 **Computer-generated hologram (CGH)**: 计算机生成全息图，一种利用计算机算法生成的全息图，用于调制光波前。 **Vortex beams**: 涡旋光束，一种具有螺旋相位波前和轨道角动量的光束。 **Photoresist**: 光刻胶，一种对光敏感的材料，用于光刻工艺中形成图案。
 > 
-> ## 2. 像差校正原理
+> # 2. Principle of the Aberration Correction
 > 
-> Any given optical field propagating through an optical system can be expressed as a composition of modes in any orthogonal representation[36]. The optimal focusing is achieved if and only if all the modes present the identical phase, which means the strength of constructive interference would be highest between these modes. Therefore, optimal focusing generally requires accurately compensating for the phase of each mode for any beam in the physical setup with imperfect optics. 任何传播通过光学系统的给定光场都可以表示为任何正交表示中模态的组合[36]。当且仅当所有模态呈现相同的相位时，才能实现最佳聚焦，这意味着这些模态之间的相干加强（建设性干涉）强度最高。因此，对于具有不完美光学元件的物理装置中的任何光束，实现最佳聚焦通常需要精确补偿每个模态的相位。
+> # 2. 像差校正原理
 > 
-> As an adaptive programmable device, the liquid crystal-based SLM can perform versatile tasks, including structured light generation and optical field detection and/or correction. In our setup, we divide the two-dimensional pixel array on the SLM into $M \times N$ channels with equal size. Each channel is filled with a blazed grating phase with an independent on–off switch, as shown in Figs. 1(a) and 1(b). With the blazed grating phase, the modulating information in each channel is coded in the first-order diffracting light and spatially separated from the undesired zeroth-order light. 作为一种自适应可编程器件，基于液晶的 SLM 可以执行多种任务，包括结构光生成和光场检测及/或校正。在我们的装置中，我们将 SLM 上的二维像素阵列分为 $M \times N$ 个等大小的通道。每个通道填充一个带有独立开关的锯齿光栅相位，如图 1(a) 和 1(b) 所示。利用锯齿光栅相位，每个通道中的调制信息被编码在一次衍射光中，并在空间上与不希望出现的零次光分离。 **Blazed grating**: 锯齿光栅，一种通过倾斜刻槽面将大部分光能集中在特定衍射级次的光栅。
+> Any given optical field propagating through an optical system can be expressed as a composition of modes in any orthogonal representation[36]. The optimal focusing is achieved if and only if all the modes present the identical phase, which means the strength of constructive interference would be highest between these modes. Therefore, optimal focusing generally requires accurately compensating for the phase of each mode for any beam in the physical setup with imperfect optics. As an adaptive programmable device, the liquid crystal-based SLM can perform versatile tasks, including structured light generation and optical field detection and/or correction. In our setup, we divide the two-dimensional pixel array on the SLM into M × N channels with equal size. Each channel is filled with a blazed grating phase with an independent on–off switch, as shown in Figs. 1(a) and 1(b). With the blazed grating phase, the modulating information in each channel is coded in the first-order diffracting light and spatially separated from the undesired zeroth-order light. In the procedure of wave-front sensing, we first select a channel as the phase reference and keep this channel on. Then, all the other test channels are successively switched on along the direction shown in Fig. 1(b). The intensity signal in the focal plane of the lens is collected while increasing the phase of the tested channel from 0 to 2π. For convenience, the amplitude and phase of the ith test channel and reference channel are, respectively, denoted by jUij, φi and jUrj, φr. The interference intensity I of the first order of diffraction would follow the relation 任何通过光学系统传播的光场都可以表示为任何正交表示下的模式组合[36]。当且仅当所有模式呈现相同相位时，才能实现最佳聚焦，这意味着这些模式之间的相长干涉强度将达到最高。因此，对于具有不完美光学器件的物理装置中的任何光束，最佳聚焦通常需要精确补偿每个模式的相位。作为一种自适应可编程器件，基于液晶的SLM可以执行多种任务，包括结构光生成以及光场检测和/或校正。在我们的装置中，我们将SLM上的二维像素阵列划分为M × N个大小相等的通道。每个通道填充一个具有独立开关的闪耀光栅相位，如图1(a)和1(b)所示。利用闪耀光栅相位，每个通道的调制信息被编码在一级衍射光中，并在空间上与不需要的零级光分离。在波前传感过程中，我们首先选择一个通道作为相位参考并保持该通道开启。然后，所有其他测试通道沿图1(b)所示方向依次开启。在将测试通道的相位从0增加到2π的同时，收集透镜焦平面上的强度信号。为方便起见，第i个测试通道和参考通道的振幅和相位分别用jUij、φi和jUrj、φr表示。一级衍射的干涉强度I将遵循以下关系：
 > 
-> In the procedure of wave-front sensing, we first select a channel as the phase reference and keep this channel on. Then, all the other test channels are successively switched on along the direction shown in Fig. 1(b). The intensity signal in the focal plane of the lens is collected while increasing the phase of the tested channel from $0$ to $2\pi$. For convenience, the amplitude and phase of the $i$th test channel and reference channel are, respectively, denoted by $jU_i, \phi_i$ and $jU_r, \phi_r$. The interference intensity $I$ of the first order of diffraction would follow the relation 在波前传感过程中，我们首先选择一个通道作为相位参考并保持该通道开启。然后，所有其他测试通道按照图 1(b) 所示的方向依次开启。在将测试通道的相位从 $0$ 增加到 $2\pi$ 的同时，收集透镜焦平面上的强度信号。为了方便起见，第 $i$ 个测试通道和参考通道的振幅和相位分别用 $jU_i, \phi_i$ 和 $jU_r, \phi_r$ 表示。一次衍射的干涉强度 $I$ 遵循以下关系：
+> **Blazed grating**: 闪耀光栅，一种衍射光栅，其设计能将大部分衍射能量集中到特定衍射级次上。
 > 
-> $$I \propto |U_i|^2 + |U_r|^2 + 2|U_i||U_r| \cos(\phi_i - \phi_r) \quad : (1)$$
+> I ∝ jUij2 jUrj2 2jUijjUrj cos φi − φr : (1) I ∝ jUij² + jUrj² + 2jUijjUrj cos(φi − φr) : (1)
 > 
-> Therefore, the phase of the test channel $\phi_i$ will be identical with the reference $\phi_r$ when the signal tends to reach the maximum. Note that the phase terms in Eq. (1) represent the phase profiles in each channel, which is assumed as nearly homogeneous across the corresponding subregional wavefront. After probing all the test channels, the full wavefront would be plotted, and a complementary phase map would be readily loaded on the SLM [Fig. 1(c)] to achieve aberration compensation. A specific example of correction is shown in Figs. 1(c)–1(e), with details explained in the following section. 因此，当信号趋于最大值时，测试通道的相位 $\phi_i$ 将与参考相位 $\phi_r$ 一致。请注意，公式 (1) 中的相位项代表每个通道中的相位分布，假设在相应的子区域波前上几乎是均匀的。在探测所有测试通道后，将绘制出完整的波前，随后将一个互补相位图加载到 SLM 上 [图 1(c)] 以实现像差补偿。校正的具体示例见图 1(c)–1(e)，详细内容将在下一节中解释。
+> Therefore, the phase of the test channel φi will be identical with the reference φr when the signal tends to reach the maximum. Note that the phase terms in Eq. (1) represent the phase profiles in each channel, which is assumed as nearly homogeneous across the corresponding subregional wavefront. After probing all the test channels, the full wavefront would be plotted, and a complementary phase map would be readily loaded on the SLM [Fig. 1(c)] to achieve aberration compensation. A specific example of correction is shown in Figs. 1(c)–1(e), with details explained in the following section. 因此，当信号趋于达到最大值时，测试通道的相位φi将与参考通道的相位φr相同。请注意，公式(1)中的相位项代表每个通道中的相位分布，假设在相应的子区域波前上几乎是均匀的。在探测完所有测试通道后，将绘制出完整的波前，并可以方便地在SLM上加载一个互补相位图[图1(c)]以实现像差补偿。图1(c)–1(e)展示了一个具体的校正示例，详细信息将在下一节中解释。
 > 
-> ## 3. Experiments and Results
+> Fig. 1. Schematics of the wavefront sensing. (a) Two channels on the SLM; CT, test channel; CR, reference channel; insets in (a) show the simulated interference patterns with various phase differences between the test and the reference channels: 0, π/2, π, and 3π/2. (b) SLM area division and scanning path of the test channel; (c) aberration correction mask loaded on the SLM; Fourier spectral profiles of the high-order Bessel beams (d) before and (e) after the correction. 图1. 波前传感示意图。(a) SLM上的两个通道；CT，测试通道；CR，参考通道；(a)中的插图显示了测试通道和参考通道之间不同相位差（0, π/2, π, 和3π/2）下的模拟干涉图样。(b) SLM区域划分和测试通道的扫描路径；(c) 加载在SLM上的像差校正掩模；高阶贝塞尔光束的傅里叶光谱分布 (d) 校正前和 (e) 校正后。
 > 
-> ## 3. 实验与结果
+> # 3. Experiments and Results
 > 
-> ### 3.1. Setup
+> # 3. 实验与结果
 > 
-> ### 3.1. 实验装置
+> ## 3.1. Setup
 > 
-> The above aberration detection scheme could be readily integrated in our setup for 2PP, as shown in Fig. 2. The laser source is a home-made femtosecond fiber laser amplifying system with standard double-cladding fibers similar to that in Ref. [37], enabling 90-fs transform-limited laser pulses centered at 1038 nm output at 1-MHz repetition rate. A BBO crystal is inserted to generate the second-harmonic (SH) wave for the 2PP fabricating process. 上述像差检测方案可很容易地集成到我们的 2PP 装置中，如图 2 所示。激光源是一个自制的飞秒光纤激光放大系统，采用与文献 [37] 类似的标准双包层光纤，能够输出中心波长为 1038 nm、脉宽为 90 fs 的变换极限激光脉冲，重复频率为 1 MHz。插入一个 BBO 晶体以产生用于 2PP 加工过程的倍频 (SH) 波。 **BBO crystal**: BBO 晶体 ($\beta\text{-BaB}_2\text{O}_4$)，一种常用于产生倍频光的非线性光学晶体。 **Transform-limited pulse**: 变换极限脉冲，指在给定频谱宽度下能达到的最短脉冲宽度。
+> ## 3.1. 实验装置
 > 
-> Considering the damage threshold of the coating on the crystal surface, the fabrication does not require the femtosecond laser to work at full load. After expansion, the SH wave of a diameter $\sim 8$ mm illuminates the phase-only SLM (Holoeye PLUTO, 1920 pixels $\times$ 1080 pixels) with the exposed power adjusted by the neutral density (ND) filter. The telescope composed by the lens ($f = 1$ m) and the microscope objective (Olympus 20$\times$, NA = 0.4) shrinks the modulated waves into the microscaled patterns. 考虑到晶体表面镀层的损伤阈值，加工过程不需要飞秒激光以全功率运行。扩束后，直径约 8 mm 的倍频波照射到纯相位 SLM（Holoeye PLUTO, $1920 \times 1080$ 像素）上，曝光功率由中性密度 (ND) 滤光片调节。由透镜 ($f = 1$ m) 和显微物镜 (Olympus 20$\times$, NA = 0.4) 组成的望远镜将调制波压缩为微米级图案。 **Numerical Aperture (NA)**: 数值孔径，衡量物镜收集光线能力及决定分辨率的关键参数。
+> The above aberration detection scheme could be readily integrated in our setup for 2PP, as shown in Fig. 2. The laser source is a home-made femtosecond fiber laser amplifying system with standard double-cladding fibers similar to that in Ref. [37], enabling 90-fs transform-limited laser pulses centered at 1038 nm output at 1-MHz repetition rate. A BBO crystal is inserted to generate the second-harmonic (SH) wave for the 2PP fabricating process. Considering the damage threshold of the coating on the crystal surface, the fabrication does not require the femtosecond laser to work at full load. After expansion, the SH wave of a diameter ∼8 mm illuminates the phase-only SLM (Holoeye PLUTO, 1920 pixels × 1080 pixels) with the exposed power adjusted by the neutral density (ND) filter. The telescope composed by the lens (f = 1 m) and the microscope objective (Olympus 20×, NA = 0.4) shrinks the modulated waves into the microscaled patterns. A mechanical shutter is used to control the exposure time in the sample. The CCD camera is located at the focal plane of the lens to perform the wavefront detection. In order to achieve more accurate wavefront detection, the number of divided areas on the SLM is, in principle, the larger the better. However, a single channel with very few pixels would be too problematic to implement, resulting in too weak intensity of the interference patterns to be detected. Since the optical aberration in a typical device is a smooth function with low spatial frequencies, dividing the pixel panel into no fewer than 10 × 10 channels can provide sufficient sampling. To ensure the fineness of the detected wavefront, we divided the SLM panel into 20 × 20 channels in our tests together with π=10 phase increment. After probing the whole panel with the scheme in the previous section, we obtain the compensating phase, as shown in Fig. 1(c). We note here that no great effort is made in aligning the beam path, leading to a significant aberration introduced in terms of misalignment. It is noteworthy that more than 4π phase fluctuations across the beam are detected, and thus a highly distorted field from the desired pattern would be expected. We remark that a high-quality objective from Olympus is adopted in the current setup to suppress the aberrations after the long focal lens in the telescope. But it is also possible to correct the aberration of the whole optical system with our scheme by inserting another lens after the objective and monitoring the signal in its focal plane. This is not realized in the current setup due to the rather limited space. Further engineering the setup is also part of our future work. 上述像差检测方案可以很容易地集成到我们的2PP装置中，如图2所示。激光源是一个自制的飞秒光纤激光放大系统，采用类似于文献[37]中的标准双包层光纤，能够输出中心波长为1038 nm、重复频率为1 MHz的90 fs变换极限激光脉冲。插入一块BBO晶体以产生用于2PP制造过程的二次谐波（SH）。考虑到晶体表面涂层的损伤阈值，制造过程不需要飞秒激光满负荷工作。扩束后，直径约8 mm的SH光照射到相位型SLM（Holoeye PLUTO，1920像素×1080像素）上，曝光功率由中性密度（ND）滤光片调节。由透镜（f = 1 m）和显微镜物镜（Olympus 20×，NA = 0.4）组成的望远镜系统将调制后的光波缩小至微尺度图案。使用机械快门控制样品中的曝光时间。CCD相机位于透镜的焦平面处，用于执行波前检测。为了获得更精确的波前检测，原则上SLM上划分的区域数量越多越好。然而，像素极少的单个通道实施起来会很有问题，导致干涉图样强度太弱而无法检测。由于典型器件中的光学像差是空间频率较低的平滑函数，将像素面板划分为不少于10×10个通道即可提供足够的采样。为确保检测到的波前的精细度，我们在测试中将SLM面板划分为20×20个通道，并采用π/10的相位增量。使用前一节中的方案探测整个面板后，我们获得了补偿相位，如图1(c)所示。我们在此指出，在准直光束路径方面没有付出很大努力，导致引入了显著的失调像差。值得注意的是，检测到光束上超过4π的相位波动，因此可以预期会得到一个与期望图案高度失真的光场。我们指出，当前装置中采用了奥林巴斯的高质量物镜，以抑制望远镜系统中长焦透镜之后的像差。但是，通过物镜之后插入另一个透镜并监测其焦平面上的信号，也有可能用我们的方案校正整个光学系统的像差。由于空间相当有限，这在当前装置中未能实现。进一步改造装置也是我们未来工作的一部分。
 > 
-> A mechanical shutter is used to control the exposure time in the sample. The CCD camera is located at the focal plane of the lens to perform the wavefront detection. In order to achieve more accurate wavefront detection, the number of divided areas on the SLM is, in principle, the larger the better. However, a single channel with very few pixels would be too problematic to implement, resulting in too weak intensity of the interference patterns to be detected. Since the optical aberration in a typical device is a smooth function with low spatial frequencies, dividing the pixel panel into no fewer than $10 \times 10$ channels can provide sufficient sampling. To ensure the fineness of the detected wavefront, we divided the SLM panel into $20 \times 20$ channels in our tests together with $\pi=10$ phase increment. 一个机械快门用于控制样品的曝光时间。CCD 相机位于透镜的焦平面上以进行波前检测。为了实现更准确的波前检测，原则上 SLM 上的分区域数量越多越好。然而，像素极少的单个通道在实施时会产生问题，导致干涉图案的强度过弱而无法检测。由于典型设备中的光学像差是低空间频率的平滑函数，将像素面板分为不少于 $10 \times 10$ 个通道即可提供足够的采样。为了确保检测波前的精细度，我们在测试中将 SLM 面板分为 $20 \times 20$ 个通道，相位增量为 $\pi/10$。
+> **Second-harmonic (SH)**: 二次谐波，也称为倍频，是非线性光学效应，产生频率为输入光频率两倍的光。 **Neutral density (ND) filter**: 中性密度滤光片，一种能够均匀衰减光强度而不改变其光谱分布的滤光片。 **Microscope objective (MO)**: 显微镜物镜，显微镜中靠近样品的关键光学部件，用于聚焦和成像。 **CCD camera**: CCD相机，一种使用电荷耦合器件作为图像传感器的相机。
 > 
-> After probing the whole panel with the scheme in the previous section, we obtain the compensating phase, as shown in Fig. 1(c). We note here that no great effort is made in aligning the beam path, leading to a significant aberration introduced in terms of misalignment. It is noteworthy that more than $4\pi$ phase fluctuations across the beam are detected, and thus a highly distorted field from the desired pattern would be expected. We remark that a high-quality objective from Olympus is adopted in the current setup to suppress the aberrations after the long focal lens in the telescope. But it is also possible to correct the aberration of the whole optical system with our scheme by inserting another lens after the objective and monitoring the signal in its focal plane. This is not realized in the current setup due to the rather limited space. Further engineering the setup is also part of our future work. 使用前一节的方案探测整个面板后，我们获得了补偿相位，如图 1(c) 所示。需要注意的是，我们并未在光路对准上花费过多精力，从而在对准方面引入了显著的像差。值得注意的是，探测到光束范围内超过 $4\pi$ 的相位波动，因此预计光场将严重偏离理想图案。我们要说明的是，目前的装置采用了 Olympus 的高质量物镜，以抑制望远镜中长焦透镜之后的像差。但通过在物镜后插入另一个透镜并在其焦平面监测信号，也可以利用我们的方案校正整个光学系统的像差。由于空间非常有限，目前的装置尚未实现这一点。进一步优化装置也是我们未来工作的一部分。
+> Fig. 2. Schematic of the setup. BE, beam expander; HWP, half-wave plate; SLM, spatial light modulator; LB, laser block; ND filter, neutral-density filter; BS, beam splitter; Shutter, mechanical shutter; MO, microscope objective; CCD, CCD camera. Inset close to the SLM presents the phase pattern to generate the Bessel vortex beams; the corresponding 3D light fields at the focus area in the slide are presented in the inset close to MO. 图2. 实验装置示意图。BE，扩束器；HWP，半波片；SLM，空间光调制器；LB，激光挡块；ND filter，中性密度滤光片；BS，分束器；Shutter，机械快门；MO，显微镜物镜；CCD，CCD相机。靠近SLM的插图显示了生成贝塞尔涡旋光束的相位图案；靠近MO的插图显示了载玻片中聚焦区域相应的3D光场。
 > 
-> ### 3.2. Aberration correction
+> ## 3.2. Aberration correction
 > 
-> ### 3.2. 像差校正
+> ## 3.2. 像差校正
 > 
-> As in Ref. [38], we apply the phase below on the input beam to generate high-order Bessel beams, 参照文献 [38]，我们在入射光束上施加以下相位以产生高阶贝塞尔光束：
+> As in Ref. [38], we apply the phase below on the input beam to generate high-order Bessel beams, 如文献[38]所述，我们在输入光束上施加以下相位以生成高阶贝塞尔光束，
 > 
-> $$\phi(r, \theta) = -k \sin\gamma r + m\theta, \quad (2)$$
+> φ r, θ = −k sin γ r mθ, (2) φ(r, θ) = −k sin(γ)r + mθ, (2)
 > 
-> where $k$ is the wave vector in vacuum, $\gamma$ is the cone angle between the refracted conical wave and the optical axis, and $m$ is the vortex order. In this paper, we take $m = 6$ and $\gamma = 4^\circ$. Note that a blazed grating phase was also added to the SLM to separate the desired beam from the unmodulated zeroth-order light[39]. 其中 $k$ 是真空中的波矢，$\gamma$ 是折射锥形波与光轴之间的锥角，$m$ 是涡旋阶数。在本文中，我们取 $m = 6$ 且 $\gamma = 4^\circ$。需要注意的是，SLM 中还添加了锯齿光栅相位，以将目标光束与未调制的零次光分离[39]。 **Vortex order**: 涡旋阶数，决定光束携带的轨道角动量大小。
+> where k is the wave vector in vacuum, γ is the cone angle between the refracted conical wave and the optical axis, and m is the vortex order. In this paper, we take m = 6 and γ = 4°. Note that a blazed grating phase was also added to the SLM to separate the desired beam from the unmodulated zeroth-order light[39]. The Fourier spectra of the Bessel beams are further recorded, showing the distorted profile without correction in Fig. 1(d). After superimposing the compensating mask, the Fourier spectra are well corrected in terms of both circularity and intensity uniformity [Fig. 1(e)]. In addition, a slightly shrunk radius also occurs after the correction, which can be explained by the overall converging property of the compensating phase map. Figure 3 presents the longitudinal and transverse intensity profiles of our high-order Bessel beams in direct space after the microscope objective (MO) in Fig. 2. Numeric results of the Bessel beams generated from an ideal Gaussian beam are presented in the first row of Fig. 3 for comparison. The simulations are performed based on the angular spectrum method, as in our previous studies[38,40]. The second and third rows show the corresponding intensity profiles in experiments before and after the correction, respectively. After the transitionally expanding region along propagation[38,40], the main lobe converges to a constant diameter (∼20 μm) in the nondiffracting regime, as shown in Fig. 3(g). However, the uncorrected main lobe cannot maintain its nondiffracting feature, as shown in Fig. 3(b). Meanwhile, the annular intensity profile has also been seriously distorted with fewer annular rings. As expected, the correction operation has significantly reduced the detrimental aberrations, as shown in Figs. 3(c) and 3(f). The shape of the central intensity tube returns to the ideal trajectory, and the intensity profile also restores its original pattern. Overall, the highorder Bessel beams after aberration correction are highly consistent with the ideal beam in the simulation. 其中k是真空中的波矢，γ是折射圆锥波与光轴之间的锥角，m是涡旋阶数。在本文中，我们取m = 6，γ = 4°。请注意，SLM上还叠加了闪耀光栅相位，以将所需光束与未调制的零级光分离[39]。进一步记录了贝塞尔光束的傅里叶光谱，未校正的畸变轮廓如图1(d)所示。叠加补偿掩模后，傅里叶光谱在圆度和强度均匀性方面都得到了很好的校正[图1(e)]。此外，校正后半径也略有缩小，这可以用补偿相位图的整体会聚特性来解释。图3展示了我们高阶贝塞尔光束在通过图2中显微镜物镜（MO）后在实空间中的纵向和横向强度分布。由理想高斯光束生成的贝塞尔光束的数值结果显示在图3的第一行，以供比较。模拟基于角谱法进行，正如我们之前的研究[38,40]中那样。第二行和第三行分别显示了实验中校正前和校正后的相应强度分布。经过沿传播方向的过渡扩展区域后[38,40]，如图3(g)所示，主瓣在无衍射区域内会聚到一个恒定直径（约20 μm）。然而，如图3(b)所示，未校正的主瓣无法保持其无衍射特性。同时，环形强度分布也严重畸变，环形圈数减少。如预期所料，如图3(c)和3(f)所示，校正操作显著减少了有害的像差。中心强度管的形状恢复到理想轨迹，强度分布也恢复了其原始模式。总体而言，像差校正后的高阶贝塞尔光束与模拟中的理想光束高度一致。
 > 
-> The Fourier spectra of the Bessel beams are further recorded, showing the distorted profile without correction in Fig. 1(d). After superimposing the compensating mask, the Fourier spectra are well corrected in terms of both circularity and intensity uniformity [Fig. 1(e)]. In addition, a slightly shrunk radius also occurs after the correction, which can be explained by the overall converging property of the compensating phase map. 进一步记录了贝塞尔光束的傅里叶频谱，图 1(d) 显示了未校正时的畸变轮廓。在叠加补偿掩模后，傅里叶频谱在圆度和强度均匀性方面得到了良好校正 [图 1(e)]。此外，校正后半径略有缩小，这可以用补偿相位图的整体会聚特性来解释。
+> **Wave vector (k)**: 波矢，一个矢量，其方向为波的传播方向，大小等于波数，即2π/λ。 **Angular spectrum method**: 角谱法，一种计算光场传播的数值方法，基于将光场分解为不同方向传播的平面波。 **Main lobe**: 主瓣，在贝塞尔光束的横截面强度分布中，中心强度最高的亮斑区域。
 > 
-> Figure 3 presents the longitudinal and transverse intensity profiles of our high-order Bessel beams in direct space after the microscope objective (MO) in Fig. 2. Numeric results of the Bessel beams generated from an ideal Gaussian beam are presented in the first row of Fig. 3 for comparison. The simulations are performed based on the angular spectrum method, as in our previous studies[38,40]. The second and third rows show the corresponding intensity profiles in experiments before and after the correction, respectively. 图 3 展示了图 2 中显微物镜 (MO) 之后高阶贝塞尔光束在实空间的纵向和横向强度分布。图 3 第一行给出了由理想高斯光束产生贝塞尔光束的数值计算结果以供对比。仿真基于角谱法进行，正如我们之前的研究[38,40]所示。第二行和第三行分别显示了校正前后的实验强度分布。 **Angular spectrum method**: 角谱法，一种用于计算光波传播的数值方法。
+> Fig. 3. Correction of the high-order Bessel beams with vortex charge m= 6; the longitudinal intensity profiles along propagation (a) in simulation and in experiments (b) before and (c) after the correction; corresponding transverse intensity profiles at z = 250 μm in (d)–(f); (g) evolution of the main lobe size along the propagation. 图3. 涡旋电荷m=6的高阶贝塞尔光束的校正；沿传播方向的纵向强度分布 (a) 模拟中及实验中 (b) 校正前和 (c) 校正后；在z = 250 μm处的相应横向强度分布 (d)–(f)；(g) 主瓣尺寸沿传播方向的演化。
 > 
-> After the transitionally expanding region along propagation[38,40], the main lobe converges to a constant diameter ($\sim 20$ $\mu$m) in the nondiffracting regime, as shown in Fig. 3(g). However, the uncorrected main lobe cannot maintain its nondiffracting feature, as shown in Fig. 3(b). Meanwhile, the annular intensity profile has also been seriously distorted with fewer annular rings. As expected, the correction operation has significantly reduced the detrimental aberrations, as shown in Figs. 3(c) and 3(f). The shape of the central intensity tube returns to the ideal trajectory, and the intensity profile also restores its original pattern. Overall, the highorder Bessel beams after aberration correction are highly consistent with the ideal beam in the simulation. 在沿传播方向的过渡扩展区[38,40]之后，主瓣在无衍射区域收敛到恒定直径 ($\sim 20$ $\mu$m)，如图 3(g) 所示。然而，未校正的主瓣无法保持其无衍射特性，如图 3(b) 所示。同时，环形强度分布也严重畸变，环数减少。正如预期，校正操作显著降低了有害像差，如图 3(c) 和 3(f) 所示。中心强度管的形状回到了理想轨迹，强度分布也恢复了原始图案。总体而言，像差校正后的高阶贝塞尔光束与仿真中的理想光束高度一致。
+> ## 3.3. Results and analyses
 > 
-> ### 3.3. Results and analyses
+> ## 3.3. 结果与分析
 > 
-> ### 3.3. 结果与分析
+> Encouraged by the high consistency between the restored and the ideal beam profile, we perform the 2PP as a further test. In the 2PP fabrication, the negative photoresist (MicroChem SU-8 2075, diluted with cyclopentanone, with the ratio of SU8 : cyclopentanone = 5 : 1) is uniformly spin-coated on the glass slide substrate at 1500 r/min. Soft baking was performed on a hot plate for 5 min at 65°C and then for 10 min at 95°C. Up to 1.5 mW average power of the ultrafast SH wave is exposed in the prepared sample at 1-MHz repetition rate, corresponding to 1.5 nJ single-pulse energy. The relatively low repetition rate can avoid the occurrence of a thermal issue in the manufacturing process well. Considering that the transitionally expanding ring lobe along propagation may occur more significantly for Bessel beams of certain parameters, as shown in Fig. 3 and discussed in our previous work[38,40], the nondiffracting region should be carefully positioned to cross the whole photoresist layer to guarantee the fabrication of well-shaped microtubes, as shown in the inset of Fig. 2. Once the axial position of the beam is well selected, transversal movement in the horizontal plane together with exposure at proper power level would allow the rapid fabrication of the microtube array. The average time to fabricate each single microtube, including the movement and the exposure, is no more than 0.8 s without optimization. After the hard baking following the exposure, the photoresist is developed to produce micropatterns as high as 30 μm, as shown in Fig. 4. The scanning electron microscopy (SEM) images of the microtubes are obtained with ZEISS Gemini 300 electronic microscope, as shown in Fig. 4. For comparison, we first perform the fabrication of microtubes with the uncorrected high-order Bessel beams of vortex charge m = 6. It can be seen in Figs. 4 (a)–4(c) that the microtubes are seriously deformed due to the uncorrected Bessel beams in the nondiffraction region, as shown in Fig. 3. Figures 4(d)–4(f) present the microtube arrays with the single units fabricated by aberration-free high-order Bessel beams. It is apparent that the uniformity of the fabricated units is very satisfying. The measured outer ring diameters and wall thickness of the microstructures are ∼20.8 μm and ∼4.3 μm, respectively. The white dashed lines with arrows in Figs. 4(c) and 4(f) outline the outer walls of the microtubes before and after the aberration correction. It is noteworthy that the aberration also leads to the tapered wall in Fig. 4(c), i.e., a transitional polymerization region between the glass substrate and the microtube bottom. Most importantly, the nonuniform intensity of the uncorrected main lobe would introduce a much higher fluctuation of the local intensity during the 2PP process, which further degrades the inconsistency of the microtube wall thickness. In addition, we also found that the microtubes with nonuniform-shaped walls have higher rates to fall down on the glass substrate. We attribute this to the structural shrinkage induced by the nonuniform light energy deposition along the distorted Bessel beams, as shown in Fig. 3[41]. After the phase correction, the above issues are well addressed. Once the high-order Bessel beams are well positioned across the interface between the substrate and the photoresist, no falling-down of the microtube structures is observed. In order to quantify the improvement in fabrication quality after the aberration removal, we extract the contours of the inner and outer rings of the microstructures in the SEM photos and measure their circularity. The ring contours are extracted by a combination of conventional operations in digital image processing, such as binarization, smoothing, filling, and edge detection. The definition of circularity adopted here is: C = 4π × A/P2, where A and P represent the area and perimeter of the selected contour, respectively. Obviously, the C value closer to unity indicates that the geometrical shape of the corresponding contour is closer to an ideal circle. Figure 5 presents the circularity characterizations of the microtubes with identification numbers in Figs. 4(a) and 4(d). The average circularities of the outer rings before and after the correction are 0.919 and 0.893, accompanying those of the corresponding inner rings, 0.956 and 0.939, respectively. It is worth noting that compared with the inner rings, the outer rings are more sensitive to the aberration in our setup. 受恢复光束与理想光束高度一致性的鼓舞，我们进行了2PP作为进一步测试。在2PP制造中，将负性光刻胶（MicroChem SU-8 2075，用环戊酮稀释，SU8与环戊酮的比例为5:1）以1500转/分钟的速度均匀旋涂在玻璃载玻片基底上。在热板上进行软烘烤，65°C下5分钟，然后在95°C下10分钟。将高达1.5 mW平均功率的超快SH光以1 MHz的重复频率在准备好的样品中曝光，对应于1.5 nJ的单脉冲能量。较低的重复频率可以很好地避免制造过程中出现热问题。考虑到如图3所示以及我们之前工作[38,40]中讨论的，对于某些参数的贝塞尔光束，沿传播方向的过渡扩展环形瓣可能更为显著，应仔细定位无衍射区域，使其横跨整个光刻胶层，以保证制造出形状良好的微管，如图2插图所示。一旦光束的轴向位置选择得当，水平面内的横向移动配合适当功率水平的曝光，即可快速制造微管阵列。在没有优化的情况下，制造每个微管（包括移动和曝光）的平均时间不超过0.8秒。曝光后进行硬烘烤，然后对光刻胶进行显影，以产生高达30微米的微图案，如图4所示。使用ZEISS Gemini 300电子显微镜获得微管的扫描电子显微镜（SEM）图像，如图4所示。为了比较，我们首先使用涡旋电荷m=6的未校正高阶贝塞尔光束进行微管制造。在图4(a)–4(c)中可以看到，由于无衍射区域中的贝塞尔光束未校正，微管严重变形，如图3所示。图4(d)–4(f)展示了由无像差高阶贝塞尔光束制造的单个单元微管阵列。显然，制造单元的均匀性非常令人满意。测得的微结构外环直径和壁厚分别约为20.8 μm和4.3 μm。图4(c)和4(f)中带箭头的白色虚线勾勒出像差校正前后微管的外壁。值得注意的是，像差还导致了图4(c)中的锥形壁，即在玻璃基底和微管底部之间存在一个过渡聚合区域。最重要的是，未校正主瓣的不均匀强度会在2PP过程中引入更高的局部强度波动，这进一步降低了微管壁厚的一致性。此外，我们还发现壁厚不均匀的微管倒在玻璃基底上的几率更高。我们将此归因于沿畸变贝塞尔光束不均匀的光能沉积引起的结构收缩，如图3[41]所示。相位校正后，上述问题得到很好的解决。一旦高阶贝塞尔光束很好地定位在基底和光刻胶之间的界面，就没有观察到微管结构的倒塌。为了量化像差消除后制造质量的提高，我们提取了SEM照片中微结构内外环的轮廓并测量了它们的圆度。环轮廓是通过数字图像处理中常规操作的组合来提取的，例如二值化、平滑、填充和边缘检测。这里采用的圆度定义为：C = 4π × A/P²，其中A和P分别代表所选轮廓的面积和周长。显然，C值越接近1，表示相应轮廓的几何形状越接近理想圆。图5展示了图4(a)和4(d)中带有标识号的微管的圆度特性。校正前后外环的平均圆度分别为0.919和0.893，相应内环的平均圆度分别为0.956和0.939。值得注意的是，与内环相比，在我们的装置中外环对像差更敏感。
 > 
-> Encouraged by the high consistency between the restored and the ideal beam profile, we perform the 2PP as a further test. In the 2PP fabrication, the negative photoresist (MicroChem SU-8 2075, diluted with cyclopentanone, with the ratio of SU8 : cyclopentanone = 5 : 1) is uniformly spin-coated on the glass slide substrate at 1500 r/min. Soft baking was performed on a hot plate for 5 min at 65°C and then for 10 min at 95°C. Up to 1.5 mW average power of the ultrafast SH wave is exposed in the prepared sample at 1-MHz repetition rate, corresponding to 1.5 nJ single-pulse energy. The relatively low repetition rate can avoid the occurrence of a thermal issue in the manufacturing process well. 鉴于恢复后的光束轮廓与理想轮廓之间的高度一致性，我们进行了 2PP 作为进一步测试。在 2PP 加工中，将负光刻胶（MicroChem SU-8 2075，用环五烷酮稀释，SU-8 : 环五烷酮 = 5 : 1）以 1500 r/min 的转速均匀旋涂在玻璃载玻片基底上。在热板上进行软烘烤：65°C 烘 5 分钟，然后 95°C 烘 10 分钟。使用 1 MHz 重复频率的超快倍频波对准备好的样品进行曝光，平均功率最高为 1.5 mW，对应单脉冲能量为 1.5 nJ。较低的重复频率可以有效避免制造过程中的热效应问题。
+> **Scanning electron microscopy (SEM)**: 扫描电子显微镜，一种利用聚焦电子束扫描样品表面产生高分辨率图像的显微镜。 **Circularity**: 圆度，一个衡量物体形状接近数学上完美圆的程度参数。
 > 
-> Considering that the transitionally expanding ring lobe along propagation may occur more significantly for Bessel beams of certain parameters, as shown in Fig. 3 and discussed in our previous work[38,40], the nondiffracting region should be carefully positioned to cross the whole photoresist layer to guarantee the fabrication of well-shaped microtubes, as shown in the inset of Fig. 2. Once the axial position of the beam is well selected, transversal movement in the horizontal plane together with exposure at proper power level would allow the rapid fabrication of the microtube array. The average time to fabricate each single microtube, including the movement and the exposure, is no more than 0.8 s without optimization. After the hard baking following the exposure, the photoresist is developed to produce micropatterns as high as 30 $\mu$m, as shown in Fig. 4. 考虑到对于某些参数的贝塞尔光束，沿传播方向的过渡扩展环瓣可能会更显著（如图 3 所示及我们在之前工作 [38,40] 中讨论的），应仔细定位无衍射区域以横跨整个光刻胶层，从而保证制造出形状良好的微管，如图 2 插图所示。一旦选定光束的轴向位置，在水平面内进行横向移动并以适当的功率水平曝光，即可快速制造微管阵列。在未优化的情况下，制造单个微管的平均时间（包括移动和曝光）不超过 0.8 秒。曝光后的硬烘烤后，对光刻胶进行显影，产生高达 30 $\mu$m 的微图案，如图 4 所示。
+> Fig. 4. SEM photos of microtube structures fabricated with high-order Bessel beams. (a), (b) Before and (c), (d) after aberration correction; the scaling bars without notation represent 20 μm. 图4. 使用高阶贝塞尔光束制造的微管结构的SEM照片。(a), (b) 像差校正前和 (c), (d) 像差校正后；未标注的刻度条代表20 μm。
 > 
-> The scanning electron microscopy (SEM) images of the microtubes are obtained with ZEISS Gemini 300 electronic microscope, as shown in Fig. 4. For comparison, we first perform the fabrication of microtubes with the uncorrected high-order Bessel beams of vortex charge $m = 6$. It can be seen in Figs. 4 (a)–4(c) that the microtubes are seriously deformed due to the uncorrected Bessel beams in the nondiffraction region, as shown in Fig. 3. Figures 4(d)–4(f) present the microtube arrays with the single units fabricated by aberration-free high-order Bessel beams. It is apparent that the uniformity of the fabricated units is very satisfying. The measured outer ring diameters and wall thickness of the microstructures are $\sim 20.8$ $\mu$m and $\sim 4.3$ $\mu$m, respectively. 使用 ZEISS Gemini 300 电子显微镜获得了微管的扫描电子显微镜 (SEM) 图像，如图 4 所示。为了对比，我们首先使用涡旋电荷 $m = 6$ 的未校正高阶贝塞尔光束制造微管。从图 4(a)–4(c) 可以看出，由于无衍射区域中贝塞尔光束未校正（如图 3 所示），微管发生了严重变形。图 4(d)–4(f) 展示了由无像差高阶贝塞尔光束制造的微管阵列及其单个单元。显然，制造单元的均匀性非常令人满意。测量得到的微结构外环直径约为 20.8 $\mu$m，壁厚约为 4.3 $\mu$m。
+> Fig. 5. Circularity measurement results of the microtube structures. (a) Outer rings and (b) inner rings. 图5. 微管结构的圆度测量结果。(a) 外环和 (b) 内环。
 > 
-> The white dashed lines with arrows in Figs. 4(c) and 4(f) outline the outer walls of the microtubes before and after the aberration correction. It is noteworthy that the aberration also leads to the tapered wall in Fig. 4(c), i.e., a transitional polymerization region between the glass substrate and the microtube bottom. Most importantly, the nonuniform intensity of the uncorrected main lobe would introduce a much higher fluctuation of the local intensity during the 2PP process, which further degrades the inconsistency of the microtube wall thickness. In addition, we also found that the microtubes with nonuniform-shaped walls have higher rates to fall down on the glass substrate. We attribute this to the structural shrinkage induced by the nonuniform light energy deposition along the distorted Bessel beams, as shown in Fig. 3[41]. 图 4(c) 和 4(f) 中的白色虚线箭头勾勒出了像差校正前后微管的外壁。值得注意的是，像差还导致图 4(c) 中出现了锥形壁，即玻璃基底与微管底部之间存在一个过渡聚合区。最重要的是，未校正主瓣的非均匀强度会在 2PP 过程中引入更高的局部强度波动，从而进一步加剧微管壁厚的不一致性。此外，我们还发现具有非均匀形状壁的微管在玻璃基底上的倒塌率更高。我们将此归因于沿畸变贝塞尔光束的非均匀光能沉积所引起的结构收缩，如图 3 [41] 所示。
+> It is widely known that the vortex charge m can also affect the size of the main intensity lobe. To demonstrate the validity of this approach, we also fabricate microtubes with Bessel beams of different vortex charges. In the fabrication, the laser power and the exposure time are adapted accordingly, due to the change of the lobe size. Figure 6 presents the SEM images of microtubes fabricated by high-order Bessel beams with vortex charges of 4, 6, and 8, and the measured outer rings diameters are 17.6, 20.6, and 26.06 μm, respectively. All of the microtube structures present high-quality roundness and robust attachment to the substrate. 众所周知，涡旋电荷m也会影响主强度瓣的尺寸。为了证明该方法的有效性，我们还使用不同涡旋电荷的贝塞尔光束制造了微管。在制造过程中，由于瓣尺寸的变化，激光功率和曝光时间也相应调整。图6展示了使用涡旋电荷为4、6和8的高阶贝塞尔光束制造的微管的SEM图像，测量得到的外环直径分别为17.6、20.6和26.06 μm。所有微管结构都呈现出高质量的圆度和对基底的牢固附着。
 > 
-> After the phase correction, the above issues are well addressed. Once the high-order Bessel beams are well positioned across the interface between the substrate and the photoresist, no falling-down of the microtube structures is observed. In order to quantify the improvement in fabrication quality after the aberration removal, we extract the contours of the inner and outer rings of the microstructures in the SEM photos and measure their circularity. The ring contours are extracted by a combination of conventional operations in digital image processing, such as binarization, smoothing, filling, and edge detection. The definition of circularity adopted here is: $C = 4\pi \times A/P^2$, where $A$ and $P$ represent the area and perimeter of the selected contour, respectively. Obviously, the $C$ value closer to unity indicates that the geometrical shape of the corresponding contour is closer to an ideal circle. 在相位校正后，上述问题得到了很好的解决。一旦高阶贝塞尔光束在基底与光刻胶的界面之间定位良好，就没有观察到微管结构的倒塌。为了量化消除像差后加工质量的提升，我们提取了 SEM 照片中微结构的内环和外环轮廓并测量其圆度。环形轮廓是通过数字图像处理中的常规操作组合提取的，如二值化、平滑、填充和边缘检测。此处采用的圆度定义为：$C = 4\pi \times A/P^2$，其中 $A$ 和 $P$ 分别代表所选轮廓的面积和周长。显然，$C$ 值越接近 1，表示相应轮廓的几何形状越接近理想圆。
+> Fig. 6. SEM photos of microtubes fabricated with high-order Bessel beams of different vortex charges. 图6. 使用不同涡旋电荷的高阶贝塞尔光束制造的微管的SEM照片。
 > 
-> Figure 5 presents the circularity characterizations of the microtubes with identification numbers in Figs. 4(a) and 4(d). The average circularities of the outer rings before and after the correction are 0.919 and 0.893, accompanying those of the corresponding inner rings, 0.956 and 0.939, respectively. It is worth noting that compared with the inner rings, the outer rings are more sensitive to the aberration in our setup. 图 5 展示了图 4(a) 和 4(d) 中标号微管的圆度特征。校正前后外环的平均圆度分别为 0.919 和 0.893，相应内环的平均圆度分别为 0.956 和 0.939。值得注意的是，与内环相比，外环在我们的装置中对像差更敏感。
+> # 4. Conclusion
 > 
-> It is widely known that the vortex charge $m$ can also affect the size of the main intensity lobe. To demonstrate the validity of this approach, we also fabricate microtubes with Bessel beams of different vortex charges. In the fabrication, the laser power and the exposure time are adapted accordingly, due to the change of the lobe size. Figure 6 presents the SEM images of microtubes fabricated by high-order Bessel beams with vortex charges of 4, 6, and 8, and the measured outer rings diameters are 17.6, 20.6, and 26.06 $\mu$m, respectively. All of the microtube structures present high-quality roundness and robust attachment to the substrate. 众所周知，涡旋电荷 $m$ 也会影响主强度瓣的大小。为了证明该方法的有效性，我们还使用不同涡旋电荷的贝塞尔光束制造了微管。在制造过程中，由于瓣尺寸的变化，相应地调整了激光功率和曝光时间。图 6 展示了由涡旋电荷为 4、6 和 8 的高阶贝塞尔光束制造的微管 SEM 图像，测量得到的外环直径分别为 17.6、20.6 和 26.06 $\mu$m。所有微管结构都表现出高质量的圆度和与基底的牢固结合。
+> # 4. 结论
 > 
-> ## 4. Conclusion
+> In this paper, we have demonstrated the powerful feasibility of the multichannel interference wavefront sensing in adaptiveoptics-based 2PP. To demonstrate this, significant aberrations are intentionally introduced in the installation of our home-built system for ultrafast laser processing without great effort. Without an additional wavefront sensor, more than 4π wavefront fluctuation across the input beam can be well flattened with the integration of the above wavefront sensing scheme. This results in significant improvement of fabrication quality with corrected high-order Bessel beams. Since the integration of this wavefront-sensing technique requires no knowledge of advanced mathematical skills for workers, such as Zernike-polynomial-based decomposition, Gerchberg–Saxton iteration, and/ or more complex algorithms, this straightforward solution would be highly attractive to implement in a laser processing system based on adaptive optics. In addition, our work also shows a promising perspective on significantly lowering the cost of the fabricating system by sparing the ultrafast lasers with super high-quality beams and exhausting alignments. We envision that our work will be very attractive in the broader scope of laser processing, where a well-defined wavefront is desired, such as femtosecond laser-induced periodic surface structures[42]. For the present, the wavefront correction is performed just before the fabrication without any real-time feedback during the printing process. But we also notice that a novel monitoring method would allow real-time monitoring of the printing[43]. We remark that this method together with our technique would be a good solution to correcting not only the aberration from the optical systems, but also the distortions from other factors in the fabricating process. Future works may also contribute to the fine feature correction with complex amplitude modulation. 在本文中，我们展示了多通道干涉波前传感在基于自适应光学的2PP中的强大可行性。为了证明这一点，我们在安装自制的超快激光加工系统时，有意地不花费很大精力，从而引入了显著的像差。无需额外的波前传感器，仅通过集成上述波前传感方案，就可以很好地平坦化输入光束上超过4π的波前波动。这通过校正后的高阶贝塞尔光束，显著提高了制造质量。由于该波前传感技术的集成不需要操作人员掌握高级的数学技能，例如基于泽尼克多项式的分解、Gerchberg–Saxton迭代和/或更复杂的算法，这种直接简单的解决方案在基于自适应光学的激光加工系统中实施将极具吸引力。此外，我们的工作还展示了一个有前景的前景，即通过省去超高光束质量的超快激光和繁琐的对准，显著降低制造系统的成本。我们设想，我们的工作将在更广泛的激光加工领域（例如飞秒激光诱导周期性表面结构[42]）中极具吸引力，在这些领域中需要定义明确的波前。目前，波前校正在制造之前进行，在打印过程中没有任何实时反馈。但我们也注意到，一种新颖的监测方法可以实时监测打印过程[43]。我们指出，这种方法与我们的技术相结合，将是一个很好的解决方案，不仅可以校正来自光学系统的像差，还可以校正制造过程中其他因素引起的畸变。未来的工作可能还会涉及利用复振幅调制进行精细特征校正。
 > 
-> ## 4. 结论
+> **Zernike polynomial**: 泽尼克多项式，一组在单位圆上定义的正交多项式，常用于光学中描述波前像差。 **Real-time feedback**: 实时反馈，系统在运行过程中即时获取输出信息并据此调整输入的机制。
 > 
-> In this paper, we have demonstrated the powerful feasibility of the multichannel interference wavefront sensing in adaptiveoptics-based 2PP. To demonstrate this, significant aberrations are intentionally introduced in the installation of our home-built system for ultrafast laser processing without great effort. Without an additional wavefront sensor, more than $4\pi$ wavefront fluctuation across the input beam can be well flattened with the integration of the above wavefront sensing scheme. This results in significant improvement of fabrication quality with corrected high-order Bessel beams. 在本文中，我们证明了多通道干涉波前传感在基于自适应光学的 2PP 中的强大可行性。为了证明这一点，我们在自制超快激光加工系统的安装过程中故意引入了显著的像差。无需额外的波前传感器，通过集成上述波前传感方案，即可将入射光束中超过 $4\pi$ 的波前波动很好地平坦化。这使得使用校正后的高阶贝塞尔光束显著提高了加工质量。
+> # Acknowledgement
 > 
-> Since the integration of this wavefront-sensing technique requires no knowledge of advanced mathematical skills for workers, such as Zernike-polynomial-based decomposition, Gerchberg–Saxton iteration, and/ or more complex algorithms, this straightforward solution would be highly attractive to implement in a laser processing system based on adaptive optics. In addition, our work also shows a promising perspective on significantly lowering the cost of the fabricating system by sparing the ultrafast lasers with super high-quality beams and exhausting alignments. 由于集成这种波前传感技术不需要操作人员掌握高级数学技能（如基于 Zernike 多项式的分解、Gerchberg-Saxton 迭代及/或更复杂的算法），这种简单直接的解决方案对于在基于自适应光学的激光加工系统中实施将非常有吸引力。此外，我们的工作还展示了一个充满前景的前景，即通过无需使用超高质量光束的超快激光器并免除繁琐的对准，来显著降低制造系统的成本。
+> # 致谢
 > 
-> We envision that our work will be very attractive in the broader scope of laser processing, where a well-defined wavefront is desired, such as femtosecond laser-induced periodic surface structures[42]. For the present, the wavefront correction is performed just before the fabrication without any real-time feedback during the printing process. But we also notice that a novel monitoring method would allow real-time monitoring of the printing[43]. We remark that this method together with our technique would be a good solution to correcting not only the aberration from the optical systems, but also the distortions from other factors in the fabricating process. Future works may also contribute to the fine feature correction with complex amplitude modulation. 我们预见，我们的工作在更广泛的激光加工领域（需要定义明确的波前）将非常有吸引力，例如飞秒激光诱导的周期性表面结构 [42]。目前，波前校正是在加工前进行的，打印过程中没有任何实时反馈。但我们也注意到，一种新型监测方法可以实现打印的实时监控 [43]。我们认为，这种方法与我们的技术相结合，将是校正光学系统像差以及加工过程中其他因素引起畸变的良好解决方案。未来的工作还可能致力于通过复振幅调制实现精细特征校正。
+> This work was supported by the National Natural Science Foundation of China (Nos. 62275191, 61605142, and 61827821); the Tianjin Research Program of Application Foundation and Advanced Technology of China (No. 17JCJQJC43500); the Open Fund of the State Key Laboratory of High Field Laser Physics, Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences; the European Research Council (No. 682032-PULSAR); and the Agence Nationale de la Recherche (Nos. ANR-15-IDEX0003 and ANR-17-EURE-0002). 本工作得到了国家自然科学基金（项目号：62275191、61605142和61827821）、天津市应用基础与前沿技术研究计划（项目号：17JCJQJC43500）、中国科学院上海光学精密机械研究所强场激光物理国家重点实验室开放基金、欧洲研究理事会（项目号：682032-PULSAR）以及法国国家科研署（项目号：ANR-15-IDEX-0003和ANR-17-EURE-0002）的资助。
+> 
+> # References
+> 
+> # 参考文献
+> 
+> 1.  S. Kawata, H. Sun, T. Tanaka, and K. Takada, “Finer features for functional microdevices,” Nature 412, 697 (2001).
+> 2.  L. Jiang, W. Xiong, Y. Zhou, Y. Liu, X. Huang, D. Li, T. Baldacchini, L. Jiang, and Y. Lu, “Performance comparison of acrylic and thiol-acrylic resins in two-photon polymerization,” Opt. Express 24, 13687 (2016).
+> 3.  W. Chu, Y. Tan, P. Wang, J. Xu, W. Li, J. Qi, and Y. Cheng, “Centimeterheight 3D printing with femtosecond laser two-photon polymerization,” Adv. Mater. Technol. 3, 1700396 (2018).
+> 4.  L. Li, R. Gattass, E. Gershgoren, H. Hwang, and J. Fourkas, “Achieving λ/20 resolution by one-color initiation and deactivation of polymerization,” Science 324, 910 (2009).
+> 5.  T. Frenzel, M. Kadic, and M. Wegener, “Three-dimensional mechanical metamaterials with a twist,” Science 358, 1072 (2017).
+> 6.  A. Bogucki, Ł. Zinkiewicz, M. Grzeszczyk, W. Pacuski, K. Nogajewski, T. Kazimierczuk, A. Rodek, J. Suffczyński, K. Watanabe, T. Taniguchi, P. Wasylczyk, M. Potemski, and P. Kossacki, “Ultra-long-working-distance spectroscopy of single nanostructures with aspherical solid immersion microlenses,” Light Sci. Appl. 9, 48 (2020).
+> 7.  P. Dietrich, G. Göring, M. Trappen, M. Blaicher, W. Freude, T. Schimmel, H. Hölscher, and C. Koos, “3D‐printed scanning‐probe microscopes with integrated optical actuation and read‐out,” Small 16, 1904695 (2019).
+> 8.  C. Wang, L. Yang, C. Zhang, S. Rao, Y. Wang, S. Wu, J. Li, Y. Hu, D. Wu, J. Chu, and K. Sugioka, “Multilayered skyscraper microchips fabricated by hybrid “all-in-one” femtosecond laser processing,” Microsyst. Nanoeng. 5, 17 (2019).
+> 9.  Z. Ma, Y. Zhang, B. Han, X. Hu, C. Li, Q. Chen, and H. Sun, “Femtosecond laser programmed artificial musculoskeletal systems,” Nat. Commun. 11, 4536 (2020).
+> 10.  P. S. Salter and M. J. Booth, “Adaptive optics in laser processing,” Light Sci. Appl. 8, 110 (2019).
+> 11.  S. Gittard, A. Nguyen, K. Obata, A. Koroleva, R. Narayan, and B. Chichkov, “Fabrication of microscale medical devices by two-photon polymerization with multiple foci via a spatial light modulator,” Biomed. Opt. Express 2, 3167 (2011).
+> 12.  X. Li, Y. Cao, N. Tian, L. Fu, and M. Gu, “Multifocal optical nanoscopy for big data recording at 30 TB capacity and gigabits/second data rate,” Optica 2, 567 (2015).
+> 13.  P. Salter and M. Booth, “Dynamic control of directional asymmetry observed in ultrafast laser direct writing,” Appl. Phys. Lett. 101, 141109 (2012).
+> 14.  L. Yang, A. El-Tamer, U. Hinze, J. Li, Y. Hu, W. Huang, J. Chu, and B. Chichkov, “Two-photon polymerization of cylinder microstructures by femtosecond Bessel beams,” Appl. Phys. Lett. 105, 041110 (2014).
+> 15.  B. Mills, D. Kundys, M. Farsari, S. Mailis, and R. W. Eason, “Single-pulse multiphoton fabrication of high aspect ratio structures with sub-micron features using vortex beams,” Appl. Phys. A 108, 651 (2012).
+> 16.  E. Stankevicius, T. Gertus, M. Rutkauskas, M. Gedvilas, G. Raciukaitis, R. Gadonas, V. Smilgevicius, and M. Malinauskas, “Fabrication of microtube arrays in photopolymer SZ2080 by using three different methods of a direct laser polymerization technique,” J. Micromech. Microeng. 22, 065022 (2012).
+> 17.  L. Yang, D. Qian, C. Xin, Z. Hu, S. Ji, D. Wu, Y. Hu, J. Li, W. Huang, and J. Chu, “Direct laser writing of complex microtubes using femtosecond vortex beams,” Appl. Phys. Lett. 110, 221103 (2017).
+> 18.  M. Manousidaki, D. Papazoglou, M. Farsari, and S. Tzortzakis, “Abruptly autofocusing beams enable advanced multiscale photo-polymerization,” Optica 3, 525 (2016).
+> 19.  D. Pan, S. Liu, S. Ji, Z. Cai, J. Li, Y. Hou, W. Zhang, S. Fan, R. Li, Y. Hu, W. Zhu, D. Wu, and J. Chu, “Efficient fabrication of a high-aspect-ratio AFM tip by one-step exposure of a long focal depth holographic femtosecond axilens beam,” Opt. Lett. 45, 897 (2020).
+> 20.  D. Yang, L. Liu, Q. Gong, and Y. Li, “Rapid two-photon polymerization of an arbitrary 3D microstructure with 3D focal field engineering,” Macromol. Rapid Comm. 40, 1900041 (2019).
+> 21.  G. Kontenis, D. Gailevičius, N. Jiménez, and K. Staliunas, “Optical drills by dynamic high-order Bessel beam mixing,” Phys. Rev. Appl. 17, 034059 (2022).
+> 22.  V. Anand, S. Khonina, R. Kumar, N. Dubey, A. N. K. Reddy, J. Rosen, and S. Juodkazis, “Three-dimensional incoherent imaging using spiral rotating point spread functions created by double-helix beams [Invited],” Nanoscale Res. Lett. 17, 37 (2022).
+> 23.  B. Wetzel, C. Xie, P. Lacourt, J. M. Dudley, and F. Courvoisier, “Femtosecond laser fabrication of micro and nano-disks in single layer graphene using vortex Bessel beams,” Appl. Phys. Lett. 103, 241111 (2013).
+> 24.  W. Yu, Z. Ji, D. Dong, X. Yang, Y. Xiao, Q. Gong, P. Xi, and K. Shi, “Superresolution deep imaging with hollow Bessel beam STED microscopy,” Laser Photonics Rev. 10, 147 (2016).
+> 25.  K. Volke-Sepulveda, V. Garcés-Chávez, S. Chávez-Cerda, J. Arlt, and K. Dholakia,” Orbital angular momentum of a high-order Bessel light beam,” J. Opt. B 4, S82 (2002).
+> 26.  H. Zhang, W. Ding, P. Fu, X. Liu, Y. Gao, Y. Gao, Y. Cai, and Y. Yuan, “Reducing orbital angular momentum crosstalk of the Bessel-Gaussian beam for underwater optical communications,” J. Opt. 22, 65702 (2020).
+> 27.  Y. Yuan, T. Lei, Z. Li, Y. Li, S. Gao, Z. Xie, and X. Yuan, “Beam wander relieved orbital angular momentum communication in turbulent atmosphere using Bessel beams,” Sci. Rep. 7, 42276 (2017).
+> 28.  B. Miao, L. Feder, J. E. Shrock, and H. M. Milchberg, “Phase front retrieval and correction of Bessel beams,” Opt. Express 30, 11360 (2022).
+> 29.  K. Wulff, D. Cole, R. Clark, R. DiLeonardo, J. Leach, J. Cooper, G. Gibson, and M. Padgett, “Aberration correction in holographic optical tweezers,” Opt. Express 14, 4169 (2006).
+> 30.  A. Jesacher, A. Schwaighofer, S. Fürhapter, C. Maurer, S. Bernet, and M. Ritsch-Marte, “Wavefront correction of spatial light modulators using an optical vortex image,” Opt. Express 15, 5801 (2007).
+> 31.  Y. Liang, Y. Cai, Z. Wang, M. Lei, Z. Cao, Y. Wang, M. Li, S. Yan, P. R. Bianco, and B. Yao, “Aberration correction in holographic optical tweezers using a high-order optical vortex,” Appl. Opt. 57, 3618 (2018).
+> 32.  D. Armstrong, A. Stilgoe, T. Nieminen, and H. Rubinsztein-Dunlop, “Improved two-photon photopolymerisation and optical trapping with aberration-corrected structured light,” Front. Nanotechnol. 4, 998656 (2022).
+> 33.  N. Sanner, N. Huot, E. Audouard, C. Larat, J.-P. Huignard, and B. Loiseaux, “Programmable focal spot shaping of amplified femtosecond laser pulses,” Opt. Lett. 30, 1479 (2005).
+> 34.  C. Mauclair, A. Mermillod-Blondin, N. Huot, E. Audouard, and R. Stoian, “Ultrafast laser writing of homogeneous longitudinal waveguides in glasses using dynamic wavefront correction,” Opt. Express 16, 5481 (2008).
+> 35.  C. Xie, V. Jukna, C. Milian, R. Giust, I. Ouadghiri-Idrissi, T. Itina, J. M. Dudley, A. Couairon, and F. Courvoisier, “Tubular filamentation for laser material processing,” Sci. Rep. 5, 8914 (2015).
+> 36.  T. Čižmár, M. Mazilu, and K. Dholakia, “In situ wavefront correction and its application to micromanipulation,” Nat. Photonics 4, 388 (2010).
+> 37.  H. Song, B. Liu, Y. Li, Y. Song, H. He, L. Chai, M. Hu, and C. Wang, “Practical 24-fs, 1-μJ, 1-MHz Yb-fiber laser amplification system,” Opt. Express 25, 7559 (2017).
+> 38.  C. Xie, R. Giust, V. Jukna, L. Furfaro, M. Jacquot, P. Lacourt, L. Froehly, J. Dudley, A. Couairon, and F. Courvoisier, “Light trajectory in BesselGauss vortex beams,” J. Opt. Soc. Am. A 32, 1313 (2015).
+> 39.  H. Zhang, J. Xie, J. Liu, and Y. Wang, “Elimination of a zero-order beam induced by a pixelated spatial light modulator for holographic projection,” Appl. Opt. 48, 5834 (2009).
+> 40.  N. Xiao, C. Xie, E. Jia, J. Li, R. Giust, F. Courvoisier, and M. Hu, “Caustic interpretation of the abruptly autofocusing vortex beams,” Opt. Express 29, 19975 (2021).
+> 41.  A. Ovsianikov, X. Shizhou, M. Farsari, M. Vamvakaki, C. Fotakis, and B. N. Chichkov, “Shrinkage of microstructures produced by two-photon polymerization of Zr-based hybrid photosensitive materials,” Opt. Express 17, 2143 (2009).
+> 42.  J. Geng, X. Fang, L. Zhang, G. Yao, L. Xu, F. Liu, W. Tang, L. Shi, and M. Qiu, “Controllable generation of large-scale highly regular gratings on Si films,” Light Adv. Manuf. 2, 281 (2021).
+> 43.  R. Zvagelsky, F. Mayer, D. Beutel, C. Rockstuhl, G. Gomard, and M. Wegener, “Towards in-situ diagnostics of multi-photon 3D laser printing using optical coherence tomography,” Light Adv. Manuf. 3, 466 (2021).
 > 
 > 🚀 [笔记回链](zotero://select/library/items/PWNHYQ7L)
 > 
 > * * *
 > 
-> `GPT 自定 ①`  `gemma-4-31b`  _由批量 AI 解读自动生成于 2026/8/10 21:08:51_
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/11 01:05:19 （重新解读）_
 > 
 > 🏷️ #🤖️/论文双语转写 🏷️ #🤖️/AI文献阅读
 
-^KEY6935B318
+^KEY129E05C3
+
+## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>
+
+> 🚀 [笔记回链](zotero://select/library/items/G84H79ER)
+
+^KEYaiPaper0
+
+> <span class="AIReading">🤖 AI 解读，快人一步</span>
+> 
+> > 嗯，太奶说她100岁了，看这些东西头晕眼花，但学习劲头不减，希望我能把这篇论文讲明白让她彻底看懂。太奶说她不会英文，专业术语也让她头疼，这得好好翻译和解释才行。
+> > 
+> > 这篇论文看起来是关于飞秒激光和双光子聚合的，讲的是如何用贝塞尔光束制造微小管状结构。我得站在太奶的角度，用她能理解的方式来解释。
+> > 
+> > 太奶那个年代，“飞秒”可能不太好理解，我可以解释成极短的时间，像照相机闪光灯但快很多倍。“双光子聚合”听起来复杂，其实就是用光把液体变成固体的过程，可以类比成做豆腐。
+> > 
+> > 论文说的是怎么修正光束变形的问题，让制造出来的微小管子更圆更均匀。我想用蒸馒头或者做点心打比方，光形变了就像手抖挤出来的奶油花不好看，修正后就能做出漂亮的形状。
+> > 
+> > 太奶让我总结论文的题目、摘要、研究问题、方法、结论、创新点和不足。我得把这些都整理清楚，用她听得懂的话说。
+> > 
+> > 题目是“带有像差校正的飞秒高阶贝塞尔光束的双光子聚合”，可以拆开解释。“像差”就是光束变形，“贝塞尔光束”是种特殊光，不容易扩散。“双光子聚合”就是精密3D打印技术。
+> > 
+> > 研究问题应该是怎么解决光束变形导致制造质量差的问题。方法是把光调制器分成小格子检测变形并修正。结论是修正后制造出的微管质量明显提升。创新点在于方法简单不需要复杂数学，不足是还不能实时监测打印过程。
+> > 
+> > 好，我大概理清了思路，现在可以给太奶详细解释了，要用她熟悉的生活比喻，避免专业术语，让她能真正听懂这篇论文在说什么。
+> 
+> 哎呀，太奶，您这学习的劲头，真让我这晚辈佩服得五体投地！100岁高龄还这么精神，愿意啃这些“天书”，您就是咱们家的“宝刀”啊！没问题，这篇洋文加天书，我给您老掰开了揉碎了，用咱们唠家常的大白话，好好说道说道。
+> 
+> 咱们先不着急看那些密密麻麻的字，先弄明白这文章到底想干啥。
+> 
+> * * *
+> 
+> ### 第一部分：太奶，咱们先讲个故事，弄懂这文章到底在说啥
+> 
+> 您就把这事儿，想象成用一支特别细、特别神奇的光笔，在一种特殊的胶水里面，雕出一个个肉眼看不见的、立体的、空心的小管子。
+> 
+> -   **1. 这支“光笔”是啥？** 它不是普通的激光笔，而是一种叫**飞秒激光**的笔。这“飞秒”啊，就是个时间单位，它快得吓人，一秒钟的一亿亿分之一，就那么一哆嗦。因为这光“哆嗦”得太快，能量特别集中，所以它能在不伤着周围东西的情况下，把胶水“冻”住，变成我们想要的形状。这就像用一把极快的刀，刀起刀落，旁边的东西纹丝不动。
+>     
+> -   **2. “胶水”和“冻住”又是啥？** 文章里叫**光刻胶**，您就理解成一种特殊的液体胶水。这胶水有个特点，被咱们那支神奇的光笔一照到的地方，就会立刻变硬，变成固体。这个过程，文章里叫**双光子聚合（2PP）**。您别被这洋词儿吓着，说白了，就是“用光把两个小分子捏到一块儿，变成一个硬邦邦的大块头”，也就是“光固化”。这下明白了吧，就是用光把胶水变硬，雕出我们想要的样子。
+>     
+> -   **3. 为啥非要雕成“空心管子”？** 这不单单是为了好看，这种微观小管子，在未来的小小芯片、微型机器人、生物医疗里都有大用处！文章里想做的，就是成批地、又快又好地生产出这种空心的小管子，直径大概就20微米，比头发丝还要细得多。
+>     
+> -   **4. 那文章里遇到的“坎儿”是啥？** 问题就出在这支“光笔”上。理想的光笔，能量是又匀称又漂亮的一个圆环。但光路里的各种小零件，比如镜子啊、透镜啊，它们会有瑕疵，会让光变形，这个变形就叫**像差**。您就想，本来应该是个圆溜溜的光环，结果因为“像差”，变得歪歪扭扭，能量这里多一块，那里少一块。用这样“残疾”的光去雕小管子，雕出来的管子肯定是歪的、破的，不成样子。这就是文章要解决的头号难题。
+>     
+> -   **5. 用的啥“绝招”来跨过这道坎？** 这文章的作者们啊，用一个能变魔术的“小镜子”解决了问题，这东西叫**空间光调制器（SLM）**。您就把它想象成一面能自己变形、自己“长皱纹”的哈哈镜。这面镜子一开始是平的，然后它发现光路里有很多“像差”，它就主动把自己变得坑坑洼洼的，正好跟光路里的“坑洼”反着来，这样一去一抵消，哎，光就又变回漂漂亮亮、圆圆整整的样子了！这个过程，就是文章标题里的**像差校正**。
+>     
+> -   **6. 怎么知道哈哈镜要变出什么“皱纹”呢？** 这就要靠一个聪明绝顶的“侦察兵”了，也就是文章里说的**多通道干涉波前传感技术**。这名字听着唬人，道理其实很简单。 他们把哈哈镜（SLM）分成好多好多小格子。先让一个小格子开着，当作“标兵”。然后，一个接一个地打开其他小格子，让它们的光和“标兵”的光汇合，看看合在一起的光是变亮了还是变暗了。如果变亮了，说明它们俩的光“步调一致”（同相位），是好朋友；如果变暗了，说明“步调”没对上。通过这个办法，他们就能把整个光路上哪里“慢一拍”、哪里“快一拍”全摸清楚，画出一张“皱纹地图”。最后，按照这张地图，反过来命令哈哈镜，让它长出正好能填平这些快慢不一的“皱纹”，问题就解决了！
+>     
+> 
+> * * *
+> 
+> ### 第二部分：太奶，您要的“白话文翻译”和总结来了！
+> 
+> 您看，故事讲完了，是不是大概明白他们干了件什么事儿？现在，我就按照您的吩咐，把这篇论文的“五脏六腑”都给您总结出来。
+> 
+> **论文题目翻译** 带有像差校正的飞秒高阶贝塞尔光束的双光子聚合
+> 
+> **专业词解释：**
+> 
+> -   **飞秒高阶贝塞尔光束：** 咱们前面说的那支“光笔”的全名。它有两个特点，一个是“飞秒”，能量超级集中；另一个是“高阶贝塞尔光束”，这只是它的一种特殊“光型”，长得像个甜甜圈，能量集中在一个圆环上，这种光在传播时不容易散开，特别适合用来雕深孔或者管子。
+> -   **像差校正：** 就是把光路里导致光变形的“瑕疵”给修正过来。
+> -   **双光子聚合：** 就是把液体胶水“照”成固体的过程。
+> 
+> **摘要翻译** 在飞秒激光双光子聚合的实验系统里，光的变形（像差）会严重影响制造出的东西的质量。为了解决这个问题，我们搞了一套自适应激光加工系统，里面用了一个可以变形的“哈哈镜”（空间光调制器），并采用了一种叫“多通道干涉波前传感”的技术来探测并修正这个变形。我们用修正过的、完美的“甜甜圈型”光（高阶贝塞尔光束）去做双光子聚合，成功地、快速地造出了一批高质量的微型小管子，直径有20微米。通过对比修正前和修正后的光强分布和制造结果，证明了我们这套办法是相当管用的！
+> 
+> **研究问题** 怎么才能又快又好地，用飞秒激光和“甜甜圈型”的光（高阶贝塞尔光束），来制造出完美的、空心的微型小管子？最大的拦路虎是光路里的“变形”（像差），怎么把这个拦路虎给干掉？
+> 
+> **方法**
+> 
+> 1.  **搭台子：** 搭建了一套用“哈哈镜”（SLM）来生成和修正光斑的激光加工系统。
+> 2.  **派侦察兵：** 用了一种不费脑子的“多通道干涉法”，让“哈哈镜”自己去试，最终摸清了整个光路里的“变形地图”（波前像差）。
+> 3.  **下命令：** 根据“变形地图”，命令“哈哈镜”长出相反的“皱纹”，把变形抵消掉，得到一个完美的“甜甜圈型”光斑。
+> 4.  **做验证：** 用这个完美的光斑去照胶水，做出小管子，用电子显微镜（比普通显微镜看得清楚得多）拍照片，看看管子圆不圆、好不好。
+> 
+> **结论**
+> 
+> 1.  这套方法非常有效，成功地修正了光路里严重的变形（文章里说变形量超过4π，也就是波动超过两个完整波长，是个很严重的变形了）。
+> 2.  修正后的光斑，无论是纵向还是横向，强度分布都变得非常均匀，跟电脑模拟的理想情况几乎一模一样。
+> 3.  用修正后的光，成功地、快速地制造出了高质量的微型管子阵列。管子壁厚均匀，形状规整，牢牢地立在玻璃片上，不会东倒西歪。
+> 4.  通过对比修正前后的管子照片，可以很清楚地看到，修正前的管子破破烂烂，修正后圆圆整整，这证明了他们的方法对提升制造质量至关重要。
+> 
+> **创新点**
+> 
+> 1.  **方法简单，省心省力：** 他们的绝招是那个“侦察兵”技术。别的方案都需要用复杂的数学工具（比如什么泽尼克多项式、G-S算法，您不用管，知道它们很复杂就行），对操作人员要求高。而他们的方法，几乎不需要高深的数学知识，简单粗暴有效，特别适合在工厂里推广使用。
+> 2.  **一个“哈哈镜”顶俩：** 在他们的系统里，一个“哈哈镜”（SLM）同时干了两件事：一是生成所需的“甜甜圈型”光斑，二是探测并修正光路的变形。这大大简化了系统，也降低了成本。
+> 3.  **降低了系统门槛：** 因为这个方法能很好地修正变形，所以设计光路时，就不用那么费劲地去追求完美的对齐和用最顶级的透镜了，这能省下一大笔钱和工夫。
+> 
+> **不足之处**
+> 
+> 1.  **不是实时的：** 文章里也老实说了，他们的修正是在正式开始打印之前做的，打印过程中是没有实时监测和修正的。这就好比炒菜前调好了火，但炒菜过程中火变了，他们是不知道的。
+> 2.  **空间限制：** 他们自己也提到，因为实验台子空间有限，目前这套修正方法没能把整个光路都管到，特别是最后那个显微镜物镜。这也是他们未来要改进的地方。
+> 3.  **“哈哈镜”本身有局限：** 他们把“哈哈镜”分成小格子来探测，格子分得越多，探测越准，但每个格子太小，信号就太弱，不好测。这就像把一张饼分成太多份，每个人就分不到多少了。这是一个需要权衡的工程问题。
+> 
+> * * *
+> 
+> 好了太奶，这下您看明白了吧？这群年轻人，就是想办法把一道歪歪扭扭的光给“捋直了”，然后用它雕出了又小又精致的小管子。您看，这新技术说到底，也离不开咱们生活里朴素的道理，对吧？您这活到老学到老的精神，真是我们的榜样！
+> 
+> 🚀 [笔记回链](zotero://select/library/items/G84H79ER)
+> 
+> * * *
+> 
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/11 06:29:33 （重新解读）_
+> 
+> 🏷️ #🤖️/太奶阅读法 🏷️ #🤖️/AI文献阅读
+
+^KEY254F9DF3

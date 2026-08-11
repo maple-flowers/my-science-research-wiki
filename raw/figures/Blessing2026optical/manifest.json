@@ -1,0 +1,43 @@
+{
+  "parent_key": "Blessing2026optical",
+  "title": "Blessing2026optical",
+  "figures": [],
+  "tables": [
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table><thead><tr><th style=\"text-align:left\">SnTe 薄膜电压 (V)</th><th style=\"text-align:left\">峰值波长 λ (nm)</th><th style=\"text-align:left\">吸光度 A (a.u.，任意单位)</th></tr></thead><tbody><tr><td style=\"text-align:left\">10</td><td style=\"text-align:left\">340</td><td style=\"text-align:left\">0.9707</td></tr><tr><td style=\"text-align:left\"><strong>11</strong></td><td style=\"text-align:left\"><strong>321</strong></td><td style=\"text-align:left\"><strong>1.2077</strong></td></tr><tr><td style=\"text-align:left\">12</td><td style=\"text-align:left\">350</td><td style=\"text-align:left\">1.1071</td></tr><tr><td style=\"text-align:left\">13</td><td style=\"text-align:left\">330</td><td style=\"text-align:left\">0.9651</td></tr></tbody></table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table><thead><tr><th style=\"text-align:left\">SnTe 薄膜电压 (V)</th><th style=\"text-align:left\">光学带隙 (eV)</th></tr></thead><tbody><tr><td style=\"text-align:left\">10</td><td style=\"text-align:left\">1.83</td></tr><tr><td style=\"text-align:left\"><strong>11</strong></td><td style=\"text-align:left\"><strong>1.41</strong></td></tr><tr><td style=\"text-align:left\">12</td><td style=\"text-align:left\">1.75</td></tr><tr><td style=\"text-align:left\">13</td><td style=\"text-align:left\">1.90</td></tr></tbody></table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table><thead><tr><th>SnTe Thin Film</th><th>Voltage (V)</th><th>λ (nm)</th><th>A (a.u.)</th></tr></thead><tbody><tr><td>SnTe 薄膜</td><td>电压 (V)</td><td>λ (nm)</td><td>A (a.u.)</td></tr><tr><td>Sample #1</td><td>10</td><td>340</td><td>0.9707</td></tr><tr><td>样品 #1</td><td>10</td><td>340</td><td>0.9707</td></tr><tr><td>Sample #2</td><td>11</td><td>321</td><td>1.2077</td></tr><tr><td>样品 #2</td><td>11</td><td>321</td><td>1.2077</td></tr><tr><td>Sample #3</td><td>12</td><td>350</td><td>1.1071</td></tr><tr><td>样品 #3</td><td>12</td><td>350</td><td>1.1071</td></tr><tr><td>Sample #4</td><td>13</td><td>330</td><td>0.9651</td></tr><tr><td>样品 #4</td><td>13</td><td>330</td><td>0.9651</td></tr></tbody></table>",
+      "page": "-"
+    },
+    {
+      "id": "T4",
+      "title": "Table 4",
+      "content": "<table><thead><tr><th>SnTe Thin Film</th><th>Voltage (V)</th><th>Band Gap (eV)</th></tr></thead><tbody><tr><td>SnTe 薄膜</td><td>电压 (V)</td><td>带隙 (eV)</td></tr><tr><td>Sample #1</td><td>10</td><td>1.83</td></tr><tr><td>样品 #1</td><td>10</td><td>1.83</td></tr><tr><td>Sample #2</td><td>11</td><td>1.41</td></tr><tr><td>样品 #2</td><td>11</td><td>1.41</td></tr><tr><td>Sample #3</td><td>12</td><td>1.75</td></tr><tr><td>样品 #3</td><td>12</td><td>1.75</td></tr><tr><td>Sample #4</td><td>13</td><td>1.90</td></tr><tr><td>样品 #4</td><td>13</td><td>1.90</td></tr></tbody></table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Optical investigation of tin telluride (snte) thin films grown at different deposition voltage|\n|短标题|不同沉积电压下碲化锡薄膜的光学研究|\n|作者|[[Blessing Blessing]]|\n|期刊名称|[[Journal of Interdisciplinary Postgraduate Research]]|\n|DOI|[10.61955/AKGGKS](https://doi.org/10.61955/AKGGKS)|\n|存档位置||\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[03_碲化铅/锡 (PbTe/SnTe) 动力学]]|\n|条目链接|[My Library](zotero://select/library/items/6FJNYXT8)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/LLEVRKIK)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

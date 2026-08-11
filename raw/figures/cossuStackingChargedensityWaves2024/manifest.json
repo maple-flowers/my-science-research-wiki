@@ -1,0 +1,163 @@
+{
+  "parent_key": "cossuStackingChargedensityWaves2024",
+  "title": "cossuStackingChargedensityWaves2024",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "侧面板显示了单层1H‑NbSe2 在HC态的图像。其他三个面板显示 ‑HCS1和HC‑CCS4。如右侧彩色图所示，绿色和红色斑点分别代表恒",
+      "page": "20",
+      "attachment_key": "Q8LV7XLD",
+      "file": "fig_1_Q8LV7XLD.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "F calculations of the 2H-NbSe2 bilayer in the symmetric phase, as well as CS1, and HC-CCS4. Data for the 1H-NbSe2 monolayer in the HC structure tup. Black dashed rhombus and green dashed circle, respectively, denote er of the three bilayers is always assumed to be an HC-type CDW. The ctors.",
+      "page": "16",
+      "attachment_key": "T57PVLQW",
+      "file": "fig_2_T57PVLQW.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3. Top panel: total DOS of the CDW structures identified as the most energetically favorable in the 2H-NbSe2 bilayer, compared to the symmetric state. The Fermi level is at zero energy. Bottom panel: magnified view around the Fermi level.",
+      "page": "11",
+      "attachment_key": "IFCX25A7",
+      "file": "fig_3_IFCX25A7.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "图4.�在选定的电荷密度波结构中，2H‑NbSe2 双层中的S",
+      "page": "13",
+      "attachment_key": "Q3DQNIFN",
+      "file": "fig_4_Q3DQNIFN.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "FIG. 5. Simulated constant-current STM images from GGA + DF ca in the three most favorable CDW structures, namely HC-HCS3, HC-HCS1, are also shown, alongside a schematic view of the modeled STM setup. the surface unit cell and the three-lobed patch. Note that the top layer o white arrows are used for the discussion of the geometric structure factor",
+      "page": "15",
+      "attachment_key": "GXNU2V27",
+      "file": "fig_5_GXNU2V27.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "图6.�2H‑NbSe2 双层在平面（h,k,0）的几何结构因子模量， 仅根据结构数据计算（左图；波长为1.2�Å）或直接根据费米能 级附近状态的电子电荷计算（右图；参见正文了解更多细节）。 （a）、（b）HC‑HCS3 结构的强度图；（c）、（d） HC‑HCS3结构的强度图减去无电荷密度波（CDW）的对称解； （e）、（f）HC‑CCS4 结构的强度图减去无电荷密度波（ CDW）的对称解。",
+      "page": "17",
+      "attachment_key": "Q5Z2ZLRD",
+      "file": "fig_6_Q5Z2ZLRD.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "FIG. 7. Simulated STM images using GGA only, without vdW correc in the HC state. The other three panels show the maps for the most fav HC-HCS1, and HC-CCS4. As shown in the color map on the right, gree current contours, respectively.",
+      "page": "19",
+      "attachment_key": "DY75UYF5",
+      "file": "fig_7_DY75UYF5.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "图8.�HC‑HCS32H‑NbSe2 双层电荷密度波结构的模拟恒流扫描隧 道显微镜图像，采用与图5相同的计算设置，但改变了偏置电压。",
+      "page": "19",
+      "attachment_key": "U6BTPHHS",
+      "file": "fig_8_U6BTPHHS.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "9",
+      "title": "Figure 9",
+      "llm_description": "图9.�2H‑NbSe2 双层在",
+      "page": "20",
+      "attachment_key": "TJ7WPXTW",
+      "file": "fig_9_TJ7WPXTW.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "TABLE II. Relative energies of the most competitive CDWs identified in the 2H-NbSe2 bilayer, as computed via GGA and GGA+DF. Energies are given in meV/f.u. and with respect to the most favorable configuration, denoted as the ground state “GS.” CDWs from the CC-HX and HX-HX blends are not shown, since they have much higher energies. On the right side, corresponding re-sults for the 1H-NbSe2 monolayer are reported, alongside the closest bilayer group. The solution labeled as “sym” refers to the no",
+      "page": "6",
+      "attachment_key": "X3L9MSGS",
+      "file": "tab_2_X3L9MSGS.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">模块</th>\n<th style=\"text-align:left\">核心步骤</th>\n<th style=\"text-align:left\">逻辑关系</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\"><strong>研究方法 (Methods)</strong></td>\n<td style=\"text-align:left\">确定计算工具（DFT）和模型（2H-NbSe₂双层），并测试不同范德华力修正方法。</td>\n<td style=\"text-align:left\">为后续所有分析提供可靠的理论基础和计算参数。</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>结果分析 (Results)</strong></td>\n<td style=\"text-align:left\">1. <strong>结构性质</strong>：分析范德华力对层间距的影响。<br>2. <strong>堆叠构型</strong>：构建所有可能的CDW层间堆叠组合，计算能量，确定基态和激发态。<br>3. <strong>电子性质</strong>：分析不同堆叠方式的态密度。<br>4. <strong>实验可检测性</strong>：模拟STM图像和几何结构因子。</td>\n<td style=\"text-align:left\">这是论文的核心论证链条：从基本结构出发，到复杂的堆叠可能性，再到它们的电子表现，最后落脚于如何在实际实验中被“看见”。</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>讨论与结论 (Discussion &amp; Conclusions)</strong></td>\n<td style=\"text-align:left\">总结层间堆叠的重要性，指出其对前人工作的潜在修正，展望未来研究方向。</td>\n<td style=\"text-align:left\">将计算结果提升至物理层面，强调其普适性和对领域的影响。</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th></th>\n<th>dNb-Nb (Å)</th>\n<th>dSe-Se (Å)</th>\n<th>d̃Se-Se (Å)</th>\n<th>ŜeNbSe (deg)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>GGA</td>\n<td>6.926</td>\n<td>3.560</td>\n<td>3.373</td>\n<td>80.5</td>\n</tr>\n<tr>\n<td>GGA+D2</td>\n<td>6.381</td>\n<td>3.034</td>\n<td>3.367</td>\n<td>80.4</td>\n</tr>\n<tr>\n<td>GGA+TS</td>\n<td>6.053</td>\n<td>2.732</td>\n<td>3.355</td>\n<td>80.2</td>\n</tr>\n<tr>\n<td>GGA+DF</td>\n<td>6.527</td>\n<td>3.141</td>\n<td>3.401</td>\n<td>81.0</td>\n</tr>\n<tr>\n<td>GGA+MBD@FI</td>\n<td>6.178</td>\n<td>2.844</td>\n<td>3.356</td>\n<td>80.2</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th></th>\n<th>Bilayer</th>\n<th>Bilayer</th>\n<th>Monolayer</th>\n<th>Monolayer</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>GGA</td>\n<td>GGA+DF</td>\n<td>GGA</td>\n<td>GGA+DF</td>\n</tr>\n<tr>\n<td>sym</td>\n<td>3.78</td>\n<td>4.94</td>\n<td>sym 3.94</td>\n<td>6.11</td>\n</tr>\n<tr>\n<td>HC-HC blend</td>\n<td></td>\n<td></td>\n<td>HC</td>\n<td></td>\n</tr>\n<tr>\n<td>S1</td>\n<td>0.06</td>\n<td>0.21</td>\n<td>GS</td>\n<td>GS</td>\n</tr>\n<tr>\n<td>S2</td>\n<td>0.23</td>\n<td>0.72</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>S3</td>\n<td>GS</td>\n<td>GS</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>HC-CC blend</td>\n<td></td>\n<td></td>\n<td>CC</td>\n<td></td>\n</tr>\n<tr>\n<td>S1</td>\n<td>0.31</td>\n<td>0.82</td>\n<td>0.51</td>\n<td>1.43</td>\n</tr>\n<tr>\n<td>S2</td>\n<td>0.28</td>\n<td>0.57</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>S3</td>\n<td>0.44</td>\n<td>1.24</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>S4</td>\n<td>0.18</td>\n<td>0.39</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>HC-HX blend</td>\n<td></td>\n<td></td>\n<td>HX</td>\n<td></td>\n</tr>\n<tr>\n<td>S1</td>\n<td>1.02</td>\n<td>1.34</td>\n<td>1.18</td>\n<td>2.06</td>\n</tr>\n<tr>\n<td>S2</td>\n<td>0.51</td>\n<td>0.74</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>S3</td>\n<td>0.66</td>\n<td>1.18</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>CC-CC blend</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>S1</td>\n<td>0.57</td>\n<td>1.11</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>S2</td>\n<td>0.48</td>\n<td>1.03</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>S3</td>\n<td>0.59</td>\n<td>1.36</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Stacking of charge-density waves in                     <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">                       <mml:mn>2</mml:mn>                       <mml:mi mathvariant=\"normal\">H</mml:mi>                       <mml:mtext>−</mml:mtext>                       <mml:msub>                         <mml:mi>NbSe</mml:mi>                         <mml:mn>2</mml:mn>                       </mml:msub>                     </mml:math>                     bilayers|\n|短标题|电荷密度波的叠加http://www.w3.org/1998/Math/MathML“><mml:mn>2<mml:mn>2<mml:mn>|\n|作者|[[F. Cossu]]、 [[D. Nafday]]、 [[K. Palotás]]、 [[M. Biderang]]、 [[H.-S. Kim]]、 [[A. Akbari]]、 [[I. Di Marco]]|\n|期刊名称|[[Physical Review Research]]|\n|DOI|[10.1103/PhysRevResearch.6.043111](https://doi.org/10.1103/PhysRevResearch.6.043111)|\n|存档位置|4|\n|文库编目|4|\n|索书号|2|\n|版权||\n|分类|[[06_单层 CDW 与维度效应 (Monolayer/Dimension)]]|\n|条目链接|[My Library](zotero://select/library/items/S4EBAT4T)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/H3W2XLQ2\">Cossu 等 - 2024 - Stacking of charge-density waves in                     mmlmath xmlnsmml=httpwww.w3.org1998</a></li><li><a href=\"zotero://open-pdf/library/items/Z55KKUNZ\">Cossu 等 - 2024 - Stacking of charge-density waves in                     mmlmath xmlnsmml=httpwww.w3.org1998.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

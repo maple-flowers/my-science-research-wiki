@@ -4,11 +4,11 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "Crystal and electronic structure of WTe2.",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1. Crystal and electronic structure of WTe2. (A) Atomistic model of the Td phase of WTe2. (B) XRD q-2q scan on a WTe2 single crystal. Inset shows a zoom-in on the (002) diffraction peak. a.u., arbitrary units. (C) Temperature-dependent resistance of a WTe2 sample with a thickness of ~50 nm measured from room tem-perature to 10 K. Inset shows the optical micrograph of the sample. (D and E) SdH oscillations of a WTe2 sample with a thickness of ~30 nm measured at 30 mK (D) and corresponding fa",
       "page": "2",
-      "attachment_key": "GSJ2CPY3",
-      "file": "fig_1_GSJ2CPY3.png",
+      "attachment_key": "NDNYXQ2A",
+      "file": "fig_1_NDNYXQ2A.png",
       "tags": [
         "Done"
       ],
@@ -17,11 +17,11 @@
     },
     {
       "fig_number": "2",
-      "title": "Ferroelectric domains resolved in WTe2 single crystals.",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2. Ferroelectric domains resolved in WTe2single crystals. (A) Schematic of the experimental setup for imaging domains in WTe2 single crystals. (B) High-magnification optical image of the WTe2 single crystal sample. Inset shows optical image of a bulk WTe2 single crystal. (C to E) Topography (C), corresponding PFM amplitude (D), and PFM phase images (E). (F to H) High-magnification imaging of small ferroelectric domains enclosed within the rectangle shown in (E), topo-graphy (F), correspondi",
       "page": "3",
-      "attachment_key": "EQ98GEUC",
-      "file": "fig_2_EQ98GEUC.png",
+      "attachment_key": "UK4SYAPY",
+      "file": "fig_2_UK4SYAPY.png",
       "tags": [
         "Done"
       ],
@@ -30,11 +30,11 @@
     },
     {
       "fig_number": "3",
-      "title": "Probing ferroelectricity in a metal-gated WTe2 thin film sample.",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3. Probing ferroelectricity in a metal-gated WTe2thin film sample. (A) Schematic of the experimental setup and geometry. Inset shows zoomed-in side view of the device structure. (B) Topography image of the metal (Ti/Au)–encapsulated WTe2 flake on a Si/SiO2 substrate covered with a conductive buffer layer of Ti/Au. Inset shows the profile of surface morphology along dashed white line. (C and D) Spectroscopic bias-dependent piezoresponse phase (C) and amplitude (D) hysteretic curves acquired ",
       "page": "4",
-      "attachment_key": "9G4M8G7G",
-      "file": "fig_3_9G4M8G7G.png",
+      "attachment_key": "GGXMSAT5",
+      "file": "fig_3_GGXMSAT5.png",
       "tags": [
         "Done"
       ],
@@ -43,11 +43,11 @@
     },
     {
       "fig_number": "4",
-      "title": "First-principles DFT calculations.",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4. First-principles DFT calculations. (A) Band structure of Td-WTe2. (B) Planar averaged conduction charge densities contributed from the electron pocket (top) and the hole pocket (bottom). (C) Schematic of different distortion vectors in 1T-WTe2. The solid straight arrows denote three equivalent distortion vectors for the polarization up states (Pup1, Pup2, and Pup3), while the dashed straight arrows denote three equivalent distortions vectors for the polarization down states (Pdown1, Pdow",
       "page": "5",
-      "attachment_key": "DZ2P32UU",
-      "file": "fig_4_DZ2P32UU.png",
+      "attachment_key": "F86EWZ63",
+      "file": "fig_4_F86EWZ63.png",
       "tags": [
         "Done"
       ],
@@ -59,7 +59,7 @@
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|A room-temperature ferroelectric semimetal|\n|短标题|室温铁电半金属|\n|作者|[[Pankaj Sharma]]、 [[Fei-Xiang Xiang]]、 [[Ding-Fu Shao]]、 [[Dawei Zhang]]、 [[Evgeny Y. Tsymbal]]、 [[Alex R. Hamilton]]、 [[Jan Seidel]]|\n|期刊名称|[[Science Advances]]|\n|DOI|[10.1126/sciadv.aax5080](https://doi.org/10.1126/sciadv.aax5080)|\n|存档位置|307|\n|文库编目|13.9|\n|索书号|1|\n|版权||\n|分类|[[05_极化金属与半金属 (Polar Metals/Semimetals)]]|\n|条目链接|[My Library](zotero://select/library/items/DTWZPQJW)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/XAM8QP4G\">Sharma 等 - 2019 - A room-temperature ferroelectric semimetal</a></li><li><a href=\"zotero://open-pdf/library/items/KI9LXYFU\">Sharma 等 - 2019 - A room-temperature ferroelectric semimetal.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|A room-temperature ferroelectric semimetal|\n|短标题|一种室温铁电半金属|\n|作者|[[Pankaj Sharma]]、 [[Fei-Xiang Xiang]]、 [[Ding-Fu Shao]]、 [[Dawei Zhang]]、 [[Evgeny Y. Tsymbal]]、 [[Alex R. Hamilton]]、 [[Jan Seidel]]|\n|期刊名称|[[Science Advances]]|\n|DOI|[10.1126/sciadv.aax5080](https://doi.org/10.1126/sciadv.aax5080)|\n|存档位置|307|\n|文库编目|13.9|\n|索书号|1|\n|版权||\n|分类|[[05_极化金属与半金属 (Polar Metals/Semimetals)]]|\n|条目链接|[My Library](zotero://select/library/items/DTWZPQJW)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/XAM8QP4G\">Sharma 等 - 2019 - A room-temperature ferroelectric semimetal</a></li><li><a href=\"zotero://open-pdf/library/items/KI9LXYFU\">Sharma 等 - 2019 - A room-temperature ferroelectric semimetal.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],

@@ -1,78 +1,24 @@
 {
   "parent_key": "yanDecipheringStabilityTwodimensional2025",
   "title": "yanDecipheringStabilityTwodimensional2025",
-  "figures": [
-    {
-      "fig_number": "1",
-      "title": "Timeline of structural evolution and stability of 2D III-V materials predicted via DFT calculations.",
-      "llm_description": "",
-      "page": "5",
-      "attachment_key": "NNXT8C9L",
-      "file": "fig_1_NNXT8C9L.png",
-      "tags": [],
-      "materials": [
-        "III-V族半导体及其变体（PbTe）"
-      ],
-      "methods": []
-    },
-    {
-      "fig_number": "2",
-      "title": "The underlying building blocks discovered by density-based clustering algorithms.",
-      "llm_description": "",
-      "page": "7",
-      "attachment_key": "RV9UALNU",
-      "file": "fig_2_RV9UALNU.png",
-      "tags": [],
-      "materials": [
-        "III-V族半导体及其变体（PbTe）"
-      ],
-      "methods": []
-    },
-    {
-      "fig_number": "3",
-      "title": "LEGO building blocks to construct new structures.",
-      "llm_description": "",
-      "page": "10",
-      "attachment_key": "TE8S9L6Q",
-      "file": "fig_3_TE8S9L6Q.png",
-      "tags": [],
-      "materials": [
-        "III-V族半导体及其变体（PbTe）"
-      ],
-      "methods": []
-    },
-    {
-      "fig_number": "4",
-      "title": "Energietic comparison and regression analysis to identify the most stable structures and obtain physical insights of stability.",
-      "llm_description": "",
-      "page": "12",
-      "attachment_key": "LLBNETYR",
-      "file": "fig_4_LLBNETYR.png",
-      "tags": [],
-      "materials": [
-        "III-V族半导体及其变体（PbTe）"
-      ],
-      "methods": []
-    },
-    {
-      "fig_number": "5",
-      "title": "(a) and (b) represent the carrier mobility for TT III-V materials. The inset figures demonstrate the atomic structure of TT, as well as the corresponding x and y directions. (c) and (d) depict the contribution of the deformation potential constant to the carrier mobility, using the corresponding bulk material as a reference. The inset formula denotes the definition of the contribution.",
-      "llm_description": "",
-      "page": "16",
-      "attachment_key": "ZLMEUTS2",
-      "file": "fig_5_ZLMEUTS2.png",
-      "tags": [],
-      "materials": [
-        "III-V族半导体及其变体（PbTe）"
-      ],
-      "methods": []
-    }
-  ],
+  "figures": [],
   "tables": [
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th>Elements</th>\n<th>B</th>\n<th>Al</th>\n<th>Ga</th>\n<th>In</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>N</td>\n<td>Planar</td>\n<td>DLHC</td>\n<td>TT</td>\n<td>TT</td>\n</tr>\n<tr>\n<td>P</td>\n<td>TT</td>\n<td>DLHC</td>\n<td>TT</td>\n<td>TT</td>\n</tr>\n<tr>\n<td>As</td>\n<td>TT</td>\n<td>DLHC</td>\n<td>TT</td>\n<td>TT</td>\n</tr>\n<tr>\n<td>Sb</td>\n<td>E2</td>\n<td>DLHC</td>\n<td>DLHC</td>\n<td>E4</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th>materials</th>\n<th>AA1</th>\n<th>AA2</th>\n<th>AA1</th>\n<th>AA2</th>\n<th>R-squared</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>InP</td>\n<td>-0.2536</td>\n<td>-0.0979</td>\n<td>-0.3846</td>\n<td>-0.1442</td>\n<td>0.879</td>\n</tr>\n<tr>\n<td>InAs</td>\n<td>-0.1669</td>\n<td>-0.0842</td>\n<td>-0.3804</td>\n<td>-0.03</td>\n<td>0.671</td>\n</tr>\n<tr>\n<td>InSb</td>\n<td>-0.3665</td>\n<td>-0.0921</td>\n<td>-0.2567</td>\n<td>-0.1221</td>\n<td>0.904</td>\n</tr>\n<tr>\n<td>GaP</td>\n<td>-0.2179</td>\n<td>-0.0848</td>\n<td>-0.378</td>\n<td>-0.1334</td>\n<td>0.871</td>\n</tr>\n<tr>\n<td>GaAs</td>\n<td>-0.3016</td>\n<td>-0.1022</td>\n<td>-0.3086</td>\n<td>-0.1453</td>\n<td>0.949</td>\n</tr>\n<tr>\n<td>GaSb</td>\n<td>-0.3484</td>\n<td>-0.072</td>\n<td>-0.2513</td>\n<td>-0.1076</td>\n<td>0.942</td>\n</tr>\n<tr>\n<td>AlAs</td>\n<td>-0.4128</td>\n<td>-0.102</td>\n<td>-0.2849</td>\n<td>-0.1464</td>\n<td>0.819</td>\n</tr>\n<tr>\n<td>AlSb</td>\n<td>-0.5951</td>\n<td>-0.231</td>\n<td>-0.267</td>\n<td>-0.1238</td>\n<td>0.951</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Deciphering the stability of two-dimensional III-V semiconductors: Building blocks and their versatile assembly|\n|短标题|破译二维III-V半导体的稳定性：构建模块及其多功能组装|\n|作者|[[Yuan Yan]]、 [[Kaiyun Chen]]、 [[Minglei Sun]]、 [[Yinchang Ma]]、 [[Peiyao Wang]]、 [[Junkai Deng]]、 [[Xixiang Zhang]]、 [[Jefferson Zhe Liu]]|\n|期刊名称|[[Science Advances]]|\n|DOI|[10.1126/sciadv.adu5294](https://doi.org/10.1126/sciadv.adu5294)|\n|存档位置|8|\n|文库编目|12.5|\n|索书号|1|\n|版权||\n|分类|[[06_单层 CDW 与维度效应 (Monolayer/Dimension)]]|\n|条目链接|[My Library](zotero://select/library/items/MNZEA4Y6)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/NN7PIM3Y\">Yan 等 - 2025 - Deciphering the stability of two-dimensional III-V semiconductors Building blocks and their versati</a></li><li><a href=\"zotero://open-pdf/library/items/BP88QBRF\">Yan 等 - 2025 - Deciphering the stability of two-dimensional III-V semiconductors Building blocks and their versati.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/6WY9TYDH\">Yan 等 - 2025 - Deciphering the stability of two-dimensional III-V semiconductors Building blocks and their versati.pdf</a></li></ul>|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Deciphering the stability of two-dimensional III-V semiconductors: Building blocks and their versatile assembly|\n|短标题|解读二维III-V半导体的稳定性：积木及其多功能组装|\n|作者|[[Yuan Yan]]、 [[Kaiyun Chen]]、 [[Minglei Sun]]、 [[Yinchang Ma]]、 [[Peiyao Wang]]、 [[Junkai Deng]]、 [[Xixiang Zhang]]、 [[Jefferson Zhe Liu]]|\n|期刊名称|[[Science Advances]]|\n|DOI|[10.1126/sciadv.adu5294](https://doi.org/10.1126/sciadv.adu5294)|\n|存档位置|8|\n|文库编目|12.5|\n|索书号|1|\n|版权||\n|分类|[[06_单层 CDW 与维度效应 (Monolayer/Dimension)]]|\n|条目链接|[My Library](zotero://select/library/items/MNZEA4Y6)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/NN7PIM3Y\">Yan 等 - 2025 - Deciphering the stability of two-dimensional III-V semiconductors Building blocks and their versati</a></li><li><a href=\"zotero://open-pdf/library/items/BP88QBRF\">Yan 等 - 2025 - Deciphering the stability of two-dimensional III-V semiconductors Building blocks and their versati.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/6WY9TYDH\">Yan 等 - 2025 - Deciphering the stability of two-dimensional III-V semiconductors Building blocks and their versati.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],

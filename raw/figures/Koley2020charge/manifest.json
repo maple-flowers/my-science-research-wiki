@@ -1,0 +1,139 @@
+{
+  "parent_key": "Koley2020charge",
+  "title": "Koley2020charge",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. (Color Online) Spatial profiles of disorder (first column), CDW order (represented by carrier density modulation ξi) (second column) and superconducting pairing amplitude (third column) for a configuration of clustered disorder at strength Vd =0 ((a)-(c)), Vd =6 ((d)-(f)). The same profiles with random disorder at a combination of Vd=6 and concentration 10% ((g)-(i)) and and 40% ((j)-(l)).",
+      "page": "4",
+      "attachment_key": "4WRCB6UJ",
+      "file": "fig_1_4WRCB6UJ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. (Color Online) Variation of ∆CDW and ∆SC with disorder strength in (a) clustered disorder configuration and (b) random disorder configuration. In clustered disorder ∆CDW decreases with disorder strength and it follows the same trend in random disorder. With both disorder at a concentration strength Vd = 7 both superconductivity and CDW coexists and superconducting order parameter increases with increasing Vd.",
+      "page": "5",
+      "attachment_key": "FKBHXYLS",
+      "file": "fig_2_FKBHXYLS.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3. (Color Online) Spatial profile of the carrier density modulation ξi, revealing the CDW pattern at different Q vec-tors (a) (Qx, Qy)=(1,1), (b) (Qx, Qy)=(0.75,0.75), (c) (Qx, Qy)=(0.5,0.5) and (a) (Qx, Qy)=(0.25,0.25).",
+      "page": "5",
+      "attachment_key": "FXDQH4QY",
+      "file": "fig_3_FXDQH4QY.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "FIG. 4. (Color Online) Density of states averaged over all sites and disorder at different clustered disorder strength (a) 2, (b) 6, (c)10 and disorder concentration 40%. spectral gap is evident throughout all the disorder strength and it increases with the strength.",
+      "page": "6",
+      "attachment_key": "FU3BAMCN",
+      "file": "fig_4_FU3BAMCN.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "FIG. 5. (Color Online) (a) Crystal structure of 2H-TaSe2, band structure of (b) 2H-TaSe2 and (c) 2H-TaSeS along Γ−M −k−Γ direction. Density of states and Fermi surface of (d) and (f) 2H-TaSe2 and (e) and (g) 2H-TaSeS. Slight modification in the band structure can be observed due to doping which can be taken as an effect of disorder due to doping.",
+      "page": "7",
+      "attachment_key": "3UH4R4WV",
+      "file": "fig_5_3UH4R4WV.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "FIG. 6. (Color Online) (a)Main panel shows DMFT resistivity with temperature for x=0 and x=1. Upper inset presents resistivity with parent 2H-TaSe2 around 120 K while lower inset presents resistivity of 2H-TaSeS around 5 K. (b) DMFT superconducting order parameter plot with temperature for 2H-TaSeS: green points represent actual date points while the red line is a fit.",
+      "page": "8",
+      "attachment_key": "WAX2QD4C",
+      "file": "fig_6_WAX2QD4C.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Charge density wave and superconductivity in transition metal dichalcogenides|\n|短标题|过渡金属二卤化物中的电荷密度波与超导电性|\n|作者|[[Sudipta Koley]]、 [[Narayan Mohanta]]、 [[Arghya Taraphder]]|\n|期刊名称|[[The European Physical Journal B]]|\n|DOI|[10.1140/epjb/e2020-100522-5](https://doi.org/10.1140/epjb/e2020-100522-5)|\n|存档位置|22|\n|文库编目|1.9|\n|索书号|4|\n|版权||\n|分类|[[02_过渡金属硫族化合物 (TMDCs)]]|\n|条目链接|[My Library](zotero://select/library/items/BVRB8VXG)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/NIJ5ZJIB)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "2",
+      "attachment_key": "BRSCALG7",
+      "file": "eq_1_BRSCALG7.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "2",
+      "attachment_key": "KEMQP942",
+      "file": "eq_2_KEMQP942.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(3)",
+      "page": "2",
+      "attachment_key": "2TS6MEFM",
+      "file": "eq_3_2TS6MEFM.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4)",
+      "page": "2",
+      "attachment_key": "9MTN4VVM",
+      "file": "eq_4_9MTN4VVM.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "(5)",
+      "page": "3",
+      "attachment_key": "62LBTCZC",
+      "file": "eq_5_62LBTCZC.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

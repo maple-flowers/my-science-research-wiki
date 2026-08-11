@@ -1,0 +1,170 @@
+{
+  "parent_key": "Wu2018",
+  "title": "Wu2018",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1. Constructed Si(0 0 1) surfaces of a 3-layer slab with 3 �3 unit cells and 6 �6 unit cells along [1 0 0] and [0 1 0] directions; (a) top view along the [0 0 1] direction of 3 �3 unit cells; (b) side view along [0 0 1] and [1 1 0] directions of (a); (c) top view of 6 �6 unit cells; (d) side view of (c), where green balls represent the bottom layer corresponding to the lower surface, orange pink balls the middle layer, and purple balls the top layer corresponding to the upper surface. (For ",
+      "page": "2",
+      "attachment_key": "VL4JLVHG",
+      "file": "fig_1_VL4JLVHG.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2. Reconstructed Si(0 0 1) surfaces having 3 �3 unit cells along [1 0 0] and [0 1 0] directions, where green balls represent the atoms in the bottom layer corresponding to the lower surface, orange pink balls the middle layer, and purple balls the top layer corresponding to the upper surface; (a) top view along the [0 0 1] direction; (b) side view along the [0 0 1] and [1 1 0] directions; (c) the reconstructed p(2 �2) pattern within the dotted box in (a), where the gridding balls representi",
+      "page": "3",
+      "attachment_key": "REWLZVN8",
+      "file": "fig_2_REWLZVN8.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3. Reconstructed Si(0 0 1) surfaces of 6 �6 unit cells along the [1 0 0] and [0 1 0] directions, where green balls represent the atoms in the bottom layer corresponding to the lower surface, orange pink balls the middle layer, and purple balls the top layer corresponding to the upper surface; (a) top view along the [0 0 1] direction; (b) side view along the direction of [0 0 1] and [1 1 0] directions; (c) c(4 �2) pattern dotted box in (a) with the gridding balls representing the up atoms; (",
+      "page": "3",
+      "attachment_key": "CXK2HJNT",
+      "file": "fig_3_CXK2HJNT.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4. Mulliken gross populations of the reconstructed upper surfaces for (a) 3 �3 unit cells and (b) 6 �6 unit cells in the Si(0 0 1) slabs.",
+      "page": "5",
+      "attachment_key": "448UV8HK",
+      "file": "fig_4_448UV8HK.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5. Some possible structures of the Ge atom on the reconstructed Si(0 0 1) upper surfaces respectively for (a) p(2 �2) pattern and (b) c(4 �2) pattern.",
+      "page": "5",
+      "attachment_key": "5S2TAJJS",
+      "file": "fig_5_5S2TAJJS.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Fig. 6. Adsorption energies of the systems varying with the height h between the Ge atom and the Si atom of the two Si(0 0 1) surfaces for (a) p(2 �2) pattern and (b) c(4 �2) pattern, the initial positions of the Ge atom are located on the positions of Top_SiA, Top_SiB, Bridge_Si(A-B), Top_SiD, Top_SiC, and Bridge_Si(C-D) as shown in Fig. 5.",
+      "page": "6",
+      "attachment_key": "KFPGS48H",
+      "file": "fig_6_KFPGS48H.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Fig. 7. The stable configurations of Ge atom and the dimer for (a) Top_SiA; (b) Top_SiB; (c) Bridge_Si(A-B); (d) Top_SiD; (e) Top_SiC; (f) Bridge_Si(C-D).",
+      "page": "7",
+      "attachment_key": "ZMMHBDT2",
+      "file": "fig_7_ZMMHBDT2.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "Fig. 8. The contour map of Mulliken gross population of the Ge adatom and the dimer under the two reconstructed surfaces. (a) Top_SiA; (b) Top_SiB; (c) Bridge_Si(A-B); (d) Top_SiD; (e) Top_SiC; (f) Bridge_Si(C-D).",
+      "page": "7",
+      "attachment_key": "3389MDG6",
+      "file": "fig_8_3389MDG6.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "9",
+      "title": "Figure 9",
+      "llm_description": "Fig. 9. Mulliken gross population of Si surfaces under of the two models for (a) Top_SiA; (b) Top_SiB; (c) Bridge_Si(A-B); (d) Top_SiD; (e) Top_SiC; (f) Bridge_Si(C-D).",
+      "page": "8",
+      "attachment_key": "KRFUWFLH",
+      "file": "fig_9_KRFUWFLH.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1 Bond length and buckling angle of the reconstructed Si(0 0 1) surfaces in DFTB calculations, compared with the values from the calculations using other method calculations and the experiments.\n\na UHVTED (Ultrahigh Vacuum Transmission Electron Diffraction). b PEXAFS (Photoemission Extended X-Ray Absorption Fine-Structure). c Grazing Incidence XRD (Grazing Incidence X-Ray Diffraction). d LEED (Low Energy Electron Diffraction).",
+      "page": "4",
+      "attachment_key": "EJMQ6AWK",
+      "file": "tab_1_EJMQ6AWK.png"
+    },
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "Table 2 Total energy and the surface energy values of the initial and reconstructed slab as well as the energy difference.",
+      "page": "4",
+      "attachment_key": "3TJTUIDV",
+      "file": "tab_2_3TJTUIDV.png"
+    },
+    {
+      "id": "tab_3",
+      "title": "Table 3",
+      "content": "Table 3 The adsorption energy values and the stable configurations with different position and initial adsorption height.",
+      "page": "6",
+      "attachment_key": "J24H28UA",
+      "file": "tab_3_J24H28UA.png"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Study of atomic arrangements and charge distribution on Si(0 0 1) surfaces with the adsorption of one Ge atom by DFTB calculations|\n|短标题|用DFTB方法研究单Ge原子吸附Si（0∨0∨1）表面原子排列和电荷分布|\n|作者|[[Lijun Wu]]、 [[Lin Zhang]]、 [[Longhai Shen]]|\n|期刊名称|[[Applied Surface Science]]|\n|DOI|[10.1016/j.apsusc.2018.03.079](https://doi.org/10.1016/j.apsusc.2018.03.079)|\n|存档位置|26|\n|文库编目|6.6|\n|索书号|2|\n|版权||\n|分类|[[东北大学张林老师]]|\n|条目链接|[My Library](zotero://select/library/items/HQ8DWTG5)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/B5IHM4UA)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "ð1Þ",
+      "page": "2",
+      "attachment_key": "JGIRGE42",
+      "file": "eq_1_JGIRGE42.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

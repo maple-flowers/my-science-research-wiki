@@ -1,0 +1,121 @@
+{
+  "parent_key": "Srinivasan1989lead",
+  "title": "Srinivasan1989lead",
+  "figures": [],
+  "tables": [
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th>Calculated</th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th>Experimental</th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>λmax (μm)</td>\n<td>νmax (cm⁻¹)</td>\n<td>n</td>\n<td>d (μm)</td>\n<td>Δν (cm⁻¹)</td>\n<td>Bandwidth (%)</td>\n<td>d (μm)</td>\n<td>λmax (μm)</td>\n<td>νmax (cm⁻¹)</td>\n<td>Δν (cm⁻¹)</td>\n<td>Bandwidth (%)</td>\n<td>Minimum transmittance outside the pass band (%)</td>\n</tr>\n<tr>\n<td>...</td>\n<td>...</td>\n<td>...</td>\n<td>...</td>\n<td>...</td>\n<td>...</td>\n<td>...</td>\n<td>...</td>\n<td>...</td>\n<td>...</td>\n<td>...</td>\n<td>...</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th>λmax (microns)</th>\n<th>νmax (cm⁻¹)</th>\n<th>n</th>\n<th>d (microns)</th>\n<th>Δν (cm⁻¹)</th>\n<th>Bandwidth (%)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>10.5</td>\n<td>950</td>\n<td>5.5</td>\n<td>2.67</td>\n<td>47</td>\n<td>24.7</td>\n</tr>\n<tr>\n<td>8.0</td>\n<td>1250</td>\n<td>5.5</td>\n<td>3.42</td>\n<td>60</td>\n<td>24.0</td>\n</tr>\n<tr>\n<td>6.25</td>\n<td>1600</td>\n<td>5.5</td>\n<td>4.50</td>\n<td>90</td>\n<td>28.0</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th>d (microns)</th>\n<th>λmax (microns)</th>\n<th>νmax (cm⁻¹)</th>\n<th>Δν (cm⁻¹)</th>\n<th>Bandwidth (%)</th>\n<th>Minimum transmittance outside the pass band (%)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2.67</td>\n<td>10.5</td>\n<td>950</td>\n<td>47</td>\n<td>24.7</td>\n<td>20</td>\n</tr>\n<tr>\n<td>3.42</td>\n<td>8.0</td>\n<td>1250</td>\n<td>60</td>\n<td>24.0</td>\n<td>20</td>\n</tr>\n<tr>\n<td>4.50</td>\n<td>6.25</td>\n<td>1600</td>\n<td>90</td>\n<td>28.0</td>\n<td>20</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T4",
+      "title": "Table 4",
+      "content": "<table>\n<thead>\n<tr>\n<th>λmax (微米)</th>\n<th>νmax (cm⁻¹)</th>\n<th>n</th>\n<th>d (微米)</th>\n<th>Δν (cm⁻¹)</th>\n<th>带宽 (%)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>10.5</td>\n<td>950</td>\n<td>5.5</td>\n<td>2.67</td>\n<td>47</td>\n<td>24.7</td>\n</tr>\n<tr>\n<td>8.0</td>\n<td>1250</td>\n<td>5.5</td>\n<td>3.42</td>\n<td>60</td>\n<td>24.0</td>\n</tr>\n<tr>\n<td>6.25</td>\n<td>1600</td>\n<td>5.5</td>\n<td>4.50</td>\n<td>90</td>\n<td>28.0</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T5",
+      "title": "Table 5",
+      "content": "<table>\n<thead>\n<tr>\n<th>d (微米)</th>\n<th>λmax (微米)</th>\n<th>νmax (cm⁻¹)</th>\n<th>Δν (cm⁻¹)</th>\n<th>带宽 (%)</th>\n<th>通带外最小透过率 (%)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2.67</td>\n<td>10.5</td>\n<td>950</td>\n<td>47</td>\n<td>24.7</td>\n<td>20</td>\n</tr>\n<tr>\n<td>3.42</td>\n<td>8.0</td>\n<td>1250</td>\n<td>60</td>\n<td>24.0</td>\n<td>20</td>\n</tr>\n<tr>\n<td>4.50</td>\n<td>6.25</td>\n<td>1600</td>\n<td>90</td>\n<td>28.0</td>\n<td>20</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|MBE-Grown Lead Tin Telluride Infrared Devices|\n|短标题|分子束外延生长碲锡铅红外器件|\n|作者|[[T. Srinivasan]]、 [[J. Sobhanadri]]|\n|期刊名称|[[Defence Science Journal]]|\n|DOI|[10.14429/dsj.39.4748](https://doi.org/10.14429/dsj.39.4748)|\n|存档位置||\n|文库编目|0.8|\n|索书号|4|\n|版权||\n|分类|[[06_外延生长模拟 (MBE/Epitaxy)]]|\n|条目链接|[My Library](zotero://select/library/items/QG77QGVG)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/F84RWQFD)|\n|关联文献||",
+      "page": "-"
+    },
+    {
+      "id": "MD-T2",
+      "title": "MD Table 2",
+      "content": "| λmax (microns) | νmax (cm⁻¹) | n | d (microns) | Δν (cm⁻¹) | Bandwidth (%) |\n| --- | --- | --- | --- | --- | --- |\n| 10.5 | 950 | 5.5 | 2.67 | 47 | 24.7 |\n| 8.0 | 1250 | 5.5 | 3.42 | 60 | 24.0 |\n| 6.25 | 1600 | 5.5 | 4.50 | 90 | 28.0 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T3",
+      "title": "MD Table 3",
+      "content": "| d (microns) | λmax (microns) | νmax (cm⁻¹) | Δν (cm⁻¹) | Bandwidth (%) | Minimum transmittance outside the pass band (%) |\n| --- | --- | --- | --- | --- | --- |\n| 2.67 | 10.5 | 950 | 47 | 24.7 | 20 |\n| 3.42 | 8.0 | 1250 | 60 | 24.0 | 20 |\n| 4.50 | 6.25 | 1600 | 90 | 28.0 | 20 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T4",
+      "title": "MD Table 4",
+      "content": "| Parameter | Value |\n| --- | --- |\n| Black body temperature T(K) | 500 |\n| Aperture area a (cm²) | 3.3 |\n| Distance of the source from detector D (cm) | 10 |\n| Irradiance H (μW/cm²) | 9.31 |\n| Chopping frequency f (Hz) | 800 |\n| Electrical bandwidth Δf (%) | 10 |\n| Field of view | 90° |\n| Load resistance (kΩ) | 1.00 |\n| Area of the detector (cm²) | 0.03 |\n| Detector temperature (K) | 77 |\n| Ambient temperature (K) | 297 |\n| Optimum bias current (mA) | 0.5 |\n| Resistance of the detector at 77 K (Ω) | 100 |\n| Thickness (μm) | 4.3 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T5",
+      "title": "MD Table 5",
+      "content": "| Parameter | Value |\n| --- | --- |\n| Responsivity R (V/W) | 15 |\n| Detectivity D* (10^8 cm·Hz^{1/2}/W) | 1.47 |\n| NEP (500, 800, 10%) (10^-10 W/Hz^{1/2}) | 1.054 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T6",
+      "title": "MD Table 6",
+      "content": "| λmax (microns) | νmax (cm⁻¹) | n | d (microns) | Δν (cm⁻¹) | Bandwidth (%) |\n| --- | --- | --- | --- | --- | --- |\n| 10.5 | 950 | 5.5 | 2.67 | 47 | 24.7 |\n| 8.0 | 1250 | 5.5 | 3.42 | 60 | 24.0 |\n| 6.25 | 1600 | 5.5 | 4.50 | 90 | 28.0 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T7",
+      "title": "MD Table 7",
+      "content": "| λmax (微米) | νmax (cm⁻¹) | n | d (微米) | Δν (cm⁻¹) | 带宽 (%) |\n| --- | --- | --- | --- | --- | --- |\n| 10.5 | 950 | 5.5 | 2.67 | 47 | 24.7 |\n| 8.0 | 1250 | 5.5 | 3.42 | 60 | 24.0 |\n| 6.25 | 1600 | 5.5 | 4.50 | 90 | 28.0 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T8",
+      "title": "MD Table 8",
+      "content": "| d (microns) | λmax (microns) | νmax (cm⁻¹) | Δν (cm⁻¹) | Bandwidth (%) | Minimum transmittance outside the pass band (%) |\n| --- | --- | --- | --- | --- | --- |\n| 2.67 | 10.5 | 950 | 47 | 24.7 | 20 |\n| 3.42 | 8.0 | 1250 | 60 | 24.0 | 20 |\n| 4.50 | 6.25 | 1600 | 90 | 28.0 | 20 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T9",
+      "title": "MD Table 9",
+      "content": "| d (微米) | λmax (微米) | νmax (cm⁻¹) | Δν (cm⁻¹) | 带宽 (%) | 通带外最小透过率 (%) |\n| --- | --- | --- | --- | --- | --- |\n| 2.67 | 10.5 | 950 | 47 | 24.7 | 20 |\n| 3.42 | 8.0 | 1250 | 60 | 24.0 | 20 |\n| 4.50 | 6.25 | 1600 | 90 | 28.0 | 20 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T10",
+      "title": "MD Table 10",
+      "content": "| Parameter | Value |\n| --- | --- |\n| Black body temperature T(K) | 500 |\n| Aperture area a (cm²) | 3.3 |\n| Distance of the source from detector D (cm) | 10 |\n| Irradiance H (μW/cm²) | 9.31 |\n| Chopping frequency f (Hz) | 800 |\n| Electrical bandwidth Δf (%) | 10 |\n| Field of view | 90° |\n| Load resistance (kΩ) | 1.00 |\n| Area of the detector (cm²) | 0.03 |\n| Detector temperature (K) | 77 |\n| Ambient temperature (K) | 297 |\n| Optimum bias current (mA) | 0.5 |\n| Resistance of the detector at 77 K (Ω) | 100 |\n| Thickness (μm) | 4.3 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T11",
+      "title": "MD Table 11",
+      "content": "| 参数 | 数值 |\n| --- | --- |\n| 黑体温度 T(K) | 500 |\n| 孔径面积 a (cm²) | 3.3 |\n| 源到探测器距离 D (cm) | 10 |\n| 辐照度 H (μW/cm²) | 9.31 |\n| 斩波频率 f (Hz) | 800 |\n| 电带宽 Δf (%) | 10 |\n| 视场 | 90° |\n| 负载电阻 (kΩ) | 1.00 |\n| 探测器面积 (cm²) | 0.03 |\n| 探测器温度 (K) | 77 |\n| 环境温度 (K) | 297 |\n| 最佳偏置电流 (mA) | 0.5 |\n| 77 K 时探测器电阻 (Ω) | 100 |\n| 厚度 (μm) | 4.3 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T12",
+      "title": "MD Table 12",
+      "content": "| Parameter | Value |\n| --- | --- |\n| Responsivity R (V/W) | 15 |\n| Detectivity D* (10^8 cm·Hz^{1/2}/W) | 1.47 |\n| NEP (500, 800, 10%) (10^-10 W/Hz^{1/2}) | 1.054 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T13",
+      "title": "MD Table 13",
+      "content": "| 参数 | 数值 |\n| --- | --- |\n| 响应率 R (V/W) | 15 |\n| 探测率 D* (10^8 cm·Hz^{1/2}/W) | 1.47 |\n| NEP (500, 800, 10%) (10^-10 W/Hz^{1/2}) | 1.054 |",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

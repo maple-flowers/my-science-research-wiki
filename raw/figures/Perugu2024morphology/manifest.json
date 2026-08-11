@@ -1,0 +1,163 @@
+{
+  "parent_key": "Perugu2024morphology",
+  "title": "Perugu2024morphology",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig 1. XRD patterns of BLFO nanoparticles",
+      "page": "3",
+      "attachment_key": "IKKL6V54",
+      "file": "fig_1_IKKL6V54.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig 2. FESEM images of BLFO nanoparticles",
+      "page": "4",
+      "attachment_key": "JGXD77K2",
+      "file": "fig_2_JGXD77K2.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig 3. TEM images of BLFO nanoparticles",
+      "page": "4",
+      "attachment_key": "JUCADD23",
+      "file": "fig_3_JUCADD23.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Fig 4. (a) Dielectric constant versus frequency plots of BLFO nanoparticles (b) Dielectric loss versus frequency plots of BLFO nanoparticles, and (c) AC-conductivity versus frequency plots of BLFO nanoparticles",
+      "page": "6",
+      "attachment_key": "IFGXUAMR",
+      "file": "fig_4_IFGXUAMR.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Fig 5. (a) M-H loops of BLFO nanoparticles, (b) LAS plots of BLFO nanoparticles",
+      "page": "7",
+      "attachment_key": "7WVQ8K43",
+      "file": "fig_5_7WVQ8K43.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Fig 6. Initial permeability (휇i ) versus log 휔plots of BLFO nanoparticles",
+      "page": "8",
+      "attachment_key": "PXPLSGQA",
+      "file": "fig_6_PXPLSGQA.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Fig 7. P-E loops of BLFO nanoparticles",
+      "page": "8",
+      "attachment_key": "VYYYBSDJ",
+      "file": "fig_7_VYYYBSDJ.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1. Structural parameters of BLFO nanoparticles",
+      "page": "3",
+      "attachment_key": "9HPFLKMG",
+      "file": "tab_1_9HPFLKMG.png"
+    },
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "Table 2. Data on dielectric parameters of BLFO nanoparticles",
+      "page": "5",
+      "attachment_key": "NSH5KDBB",
+      "file": "tab_2_NSH5KDBB.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">X</th>\n<th style=\"text-align:left\">Davg (nm)</th>\n<th style=\"text-align:left\">FWHM βavg (o)</th>\n<th style=\"text-align:left\">a = b (nm)</th>\n<th style=\"text-align:left\">c (nm)</th>\n<th style=\"text-align:left\">c/a ratio</th>\n<th style=\"text-align:left\">MW (g/mol)</th>\n<th style=\"text-align:left\">Vcell (nm)3</th>\n<th style=\"text-align:left\">ρx (g/cm3)</th>\n<th style=\"text-align:left\">Pavg (nm)</th>\n<th style=\"text-align:left\">S (m2/g)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">0.2</td>\n<td style=\"text-align:left\">41.5</td>\n<td style=\"text-align:left\">0.0034</td>\n<td style=\"text-align:left\">5.599</td>\n<td style=\"text-align:left\">13.926</td>\n<td style=\"text-align:left\">2.487</td>\n<td style=\"text-align:left\">298.81</td>\n<td style=\"text-align:left\">0.4365</td>\n<td style=\"text-align:left\">1.136</td>\n<td style=\"text-align:left\">74.8</td>\n<td style=\"text-align:left\">127.2</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">0.4</td>\n<td style=\"text-align:left\">60.2</td>\n<td style=\"text-align:left\">0.0024</td>\n<td style=\"text-align:left\">5.604</td>\n<td style=\"text-align:left\">13.932</td>\n<td style=\"text-align:left\">2.486</td>\n<td style=\"text-align:left\">284.79</td>\n<td style=\"text-align:left\">0.4375</td>\n<td style=\"text-align:left\">1.081</td>\n<td style=\"text-align:left\">92.4</td>\n<td style=\"text-align:left\">92.2</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">0.6</td>\n<td style=\"text-align:left\">68.6</td>\n<td style=\"text-align:left\">0.0019</td>\n<td style=\"text-align:left\">5.612</td>\n<td style=\"text-align:left\">13.944</td>\n<td style=\"text-align:left\">2.485</td>\n<td style=\"text-align:left\">270.78</td>\n<td style=\"text-align:left\">0.4392</td>\n<td style=\"text-align:left\">1.024</td>\n<td style=\"text-align:left\">116.1</td>\n<td style=\"text-align:left\">85.4</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">0.8</td>\n<td style=\"text-align:left\">83.6</td>\n<td style=\"text-align:left\">0.0012</td>\n<td style=\"text-align:left\">5.619</td>\n<td style=\"text-align:left\">13.952</td>\n<td style=\"text-align:left\">2.483</td>\n<td style=\"text-align:left\">256.76</td>\n<td style=\"text-align:left\">0.4405</td>\n<td style=\"text-align:left\">0.968</td>\n<td style=\"text-align:left\">127.4</td>\n<td style=\"text-align:left\">74.2</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">X</th>\n<th style=\"text-align:left\">平均晶粒尺寸 (nm)</th>\n<th style=\"text-align:left\">平均半峰全宽 (度)</th>\n<th style=\"text-align:left\">a = b (nm)</th>\n<th style=\"text-align:left\">c (nm)</th>\n<th style=\"text-align:left\">c/a 比</th>\n<th style=\"text-align:left\">分子量 (g/mol)</th>\n<th style=\"text-align:left\">晶胞体积 (nm^3)</th>\n<th style=\"text-align:left\">X射线密度 (g/cm^3)</th>\n<th style=\"text-align:left\">平均颗粒尺寸 (nm)</th>\n<th style=\"text-align:left\">比表面积 (m^2/g)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">0.2</td>\n<td style=\"text-align:left\">41.5</td>\n<td style=\"text-align:left\">0.0034</td>\n<td style=\"text-align:left\">5.599</td>\n<td style=\"text-align:left\">13.926</td>\n<td style=\"text-align:left\">2.487</td>\n<td style=\"text-align:left\">298.81</td>\n<td style=\"text-align:left\">0.4365</td>\n<td style=\"text-align:left\">1.136</td>\n<td style=\"text-align:left\">74.8</td>\n<td style=\"text-align:left\">127.2</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">0.4</td>\n<td style=\"text-align:left\">60.2</td>\n<td style=\"text-align:left\">0.0024</td>\n<td style=\"text-align:left\">5.604</td>\n<td style=\"text-align:left\">13.932</td>\n<td style=\"text-align:left\">2.486</td>\n<td style=\"text-align:left\">284.79</td>\n<td style=\"text-align:left\">0.4375</td>\n<td style=\"text-align:left\">1.081</td>\n<td style=\"text-align:left\">92.4</td>\n<td style=\"text-align:left\">92.2</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">0.6</td>\n<td style=\"text-align:left\">68.6</td>\n<td style=\"text-align:left\">0.0019</td>\n<td style=\"text-align:left\">5.612</td>\n<td style=\"text-align:left\">13.944</td>\n<td style=\"text-align:left\">2.485</td>\n<td style=\"text-align:left\">270.78</td>\n<td style=\"text-align:left\">0.4392</td>\n<td style=\"text-align:left\">1.024</td>\n<td style=\"text-align:left\">116.1</td>\n<td style=\"text-align:left\">85.4</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">0.8</td>\n<td style=\"text-align:left\">83.6</td>\n<td style=\"text-align:left\">0.0012</td>\n<td style=\"text-align:left\">5.619</td>\n<td style=\"text-align:left\">13.952</td>\n<td style=\"text-align:left\">2.483</td>\n<td style=\"text-align:left\">256.76</td>\n<td style=\"text-align:left\">0.4405</td>\n<td style=\"text-align:left\">0.968</td>\n<td style=\"text-align:left\">127.4</td>\n<td style=\"text-align:left\">74.2</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">x</th>\n<th style=\"text-align:left\"></th>\n<th style=\"text-align:left\">0.2</th>\n<th style=\"text-align:left\">0.4</th>\n<th style=\"text-align:left\">0.6</th>\n<th style=\"text-align:left\">0.8</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">ε’</td>\n<td style=\"text-align:left\">100 Hz</td>\n<td style=\"text-align:left\">41.5</td>\n<td style=\"text-align:left\">82.9</td>\n<td style=\"text-align:left\">346.2</td>\n<td style=\"text-align:left\">174.8</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">10 kHz</td>\n<td style=\"text-align:left\">17.5</td>\n<td style=\"text-align:left\">33.4</td>\n<td style=\"text-align:left\">35.1</td>\n<td style=\"text-align:left\">79.3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">100 kHz</td>\n<td style=\"text-align:left\">10.3</td>\n<td style=\"text-align:left\">19.4</td>\n<td style=\"text-align:left\">16.4</td>\n<td style=\"text-align:left\">45.1</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">1 MHz</td>\n<td style=\"text-align:left\">10.9</td>\n<td style=\"text-align:left\">21.4</td>\n<td style=\"text-align:left\">17.8</td>\n<td style=\"text-align:left\">37.9</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">5 MHz</td>\n<td style=\"text-align:left\">2.1</td>\n<td style=\"text-align:left\">4.5</td>\n<td style=\"text-align:left\">3.9</td>\n<td style=\"text-align:left\">6.4</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">ε”</td>\n<td style=\"text-align:left\">100 Hz</td>\n<td style=\"text-align:left\">93.9</td>\n<td style=\"text-align:left\">166.9</td>\n<td style=\"text-align:left\">116.1</td>\n<td style=\"text-align:left\">290.2</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">10 kHz</td>\n<td style=\"text-align:left\">17.0</td>\n<td style=\"text-align:left\">13.2</td>\n<td style=\"text-align:left\">29.3</td>\n<td style=\"text-align:left\">25.3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">100 kHz</td>\n<td style=\"text-align:left\">4.8</td>\n<td style=\"text-align:left\">5.1</td>\n<td style=\"text-align:left\">10.6</td>\n<td style=\"text-align:left\">15.4</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">1 MHz</td>\n<td style=\"text-align:left\">1.9</td>\n<td style=\"text-align:left\">5.3</td>\n<td style=\"text-align:left\">5.5</td>\n<td style=\"text-align:left\">11.5</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">5 MHz</td>\n<td style=\"text-align:left\">2.0</td>\n<td style=\"text-align:left\">6.8</td>\n<td style=\"text-align:left\">5.9</td>\n<td style=\"text-align:left\">15.5</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Log σac (S/cm)</td>\n<td style=\"text-align:left\">100 Hz</td>\n<td style=\"text-align:left\">-8.282</td>\n<td style=\"text-align:left\">-8.0324</td>\n<td style=\"text-align:left\">-8.189</td>\n<td style=\"text-align:left\">-7.792</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">10 kHz</td>\n<td style=\"text-align:left\">-7.805</td>\n<td style=\"text-align:left\">-7.736</td>\n<td style=\"text-align:left\">-7.469</td>\n<td style=\"text-align:left\">-7.308</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">100 kHz</td>\n<td style=\"text-align:left\">-6.953</td>\n<td style=\"text-align:left\">-6.540</td>\n<td style=\"text-align:left\">-6.507</td>\n<td style=\"text-align:left\">-6.243</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">1 MHz</td>\n<td style=\"text-align:left\">-5.996</td>\n<td style=\"text-align:left\">-5.689</td>\n<td style=\"text-align:left\">-5.749</td>\n<td style=\"text-align:left\">-5.252</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">5 MHz</td>\n<td style=\"text-align:left\">-5.072</td>\n<td style=\"text-align:left\">-4.636</td>\n<td style=\"text-align:left\">-4.727</td>\n<td style=\"text-align:left\">-4.310</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Log σdc (S/cm)</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">-6.869</td>\n<td style=\"text-align:left\">-6.612</td>\n<td style=\"text-align:left\">-6.536</td>\n<td style=\"text-align:left\">-6.186</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T4",
+      "title": "Table 4",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">x</th>\n<th style=\"text-align:left\"></th>\n<th style=\"text-align:left\">0.2</th>\n<th style=\"text-align:left\">0.4</th>\n<th style=\"text-align:left\">0.6</th>\n<th style=\"text-align:left\">0.8</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">介电常数实部(ε')</td>\n<td style=\"text-align:left\">100 Hz</td>\n<td style=\"text-align:left\">41.5</td>\n<td style=\"text-align:left\">82.9</td>\n<td style=\"text-align:left\">346.2</td>\n<td style=\"text-align:left\">174.8</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">10 kHz</td>\n<td style=\"text-align:left\">17.5</td>\n<td style=\"text-align:left\">33.4</td>\n<td style=\"text-align:left\">35.1</td>\n<td style=\"text-align:left\">79.3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">100 kHz</td>\n<td style=\"text-align:left\">10.3</td>\n<td style=\"text-align:left\">19.4</td>\n<td style=\"text-align:left\">16.4</td>\n<td style=\"text-align:left\">45.1</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">1 MHz</td>\n<td style=\"text-align:left\">10.9</td>\n<td style=\"text-align:left\">21.4</td>\n<td style=\"text-align:left\">17.8</td>\n<td style=\"text-align:left\">37.9</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">5 MHz</td>\n<td style=\"text-align:left\">2.1</td>\n<td style=\"text-align:left\">4.5</td>\n<td style=\"text-align:left\">3.9</td>\n<td style=\"text-align:left\">6.4</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">介电损耗虚部(ε'')</td>\n<td style=\"text-align:left\">100 Hz</td>\n<td style=\"text-align:left\">93.9</td>\n<td style=\"text-align:left\">166.9</td>\n<td style=\"text-align:left\">116.1</td>\n<td style=\"text-align:left\">290.2</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">10 kHz</td>\n<td style=\"text-align:left\">17.0</td>\n<td style=\"text-align:left\">13.2</td>\n<td style=\"text-align:left\">29.3</td>\n<td style=\"text-align:left\">25.3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">100 kHz</td>\n<td style=\"text-align:left\">4.8</td>\n<td style=\"text-align:left\">5.1</td>\n<td style=\"text-align:left\">10.6</td>\n<td style=\"text-align:left\">15.4</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">1 MHz</td>\n<td style=\"text-align:left\">1.9</td>\n<td style=\"text-align:left\">5.3</td>\n<td style=\"text-align:left\">5.5</td>\n<td style=\"text-align:left\">11.5</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">5 MHz</td>\n<td style=\"text-align:left\">2.0</td>\n<td style=\"text-align:left\">6.8</td>\n<td style=\"text-align:left\">5.9</td>\n<td style=\"text-align:left\">15.5</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">交流电导率对数 (S/cm)</td>\n<td style=\"text-align:left\">100 Hz</td>\n<td style=\"text-align:left\">-8.282</td>\n<td style=\"text-align:left\">-8.0324</td>\n<td style=\"text-align:left\">-8.189</td>\n<td style=\"text-align:left\">-7.792</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">10 kHz</td>\n<td style=\"text-align:left\">-7.805</td>\n<td style=\"text-align:left\">-7.736</td>\n<td style=\"text-align:left\">-7.469</td>\n<td style=\"text-align:left\">-7.308</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">100 kHz</td>\n<td style=\"text-align:left\">-6.953</td>\n<td style=\"text-align:left\">-6.540</td>\n<td style=\"text-align:left\">-6.507</td>\n<td style=\"text-align:left\">-6.243</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">1 MHz</td>\n<td style=\"text-align:left\">-5.996</td>\n<td style=\"text-align:left\">-5.689</td>\n<td style=\"text-align:left\">-5.749</td>\n<td style=\"text-align:left\">-5.252</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">5 MHz</td>\n<td style=\"text-align:left\">-5.072</td>\n<td style=\"text-align:left\">-4.636</td>\n<td style=\"text-align:left\">-4.727</td>\n<td style=\"text-align:left\">-4.310</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">直流电导率对数 (S/cm)</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">-6.869</td>\n<td style=\"text-align:left\">-6.612</td>\n<td style=\"text-align:left\">-6.536</td>\n<td style=\"text-align:left\">-6.186</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T5",
+      "title": "Table 5",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">x</th>\n<th style=\"text-align:left\">0.2</th>\n<th style=\"text-align:left\">0.4</th>\n<th style=\"text-align:left\">0.6</th>\n<th style=\"text-align:left\">0.8</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">Ms (emu/g)</td>\n<td style=\"text-align:left\">13.2</td>\n<td style=\"text-align:left\">16.0</td>\n<td style=\"text-align:left\">17.1</td>\n<td style=\"text-align:left\">21.5</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Mr (emu/g)</td>\n<td style=\"text-align:left\">6.0</td>\n<td style=\"text-align:left\">7.9</td>\n<td style=\"text-align:left\">4.8</td>\n<td style=\"text-align:left\">5.6</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Mr/Ms</td>\n<td style=\"text-align:left\">0.455</td>\n<td style=\"text-align:left\">0.494</td>\n<td style=\"text-align:left\">0.281</td>\n<td style=\"text-align:left\">0.261</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Hc (Oe.)</td>\n<td style=\"text-align:left\">497.8</td>\n<td style=\"text-align:left\">758.4</td>\n<td style=\"text-align:left\">439.3</td>\n<td style=\"text-align:left\">449.1</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">K1(erg/c.c)</td>\n<td style=\"text-align:left\">6845</td>\n<td style=\"text-align:left\">12640</td>\n<td style=\"text-align:left\">7825</td>\n<td style=\"text-align:left\">10058</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">nB (μB/f.u.)</td>\n<td style=\"text-align:left\">3.41</td>\n<td style=\"text-align:left\">2.74</td>\n<td style=\"text-align:left\">2.64</td>\n<td style=\"text-align:left\">2.55</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T6",
+      "title": "Table 6",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">x</th>\n<th style=\"text-align:left\">0.2</th>\n<th style=\"text-align:left\">0.4</th>\n<th style=\"text-align:left\">0.6</th>\n<th style=\"text-align:left\">0.8</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">饱和磁化强度 (emu/g)</td>\n<td style=\"text-align:left\">13.2</td>\n<td style=\"text-align:left\">16.0</td>\n<td style=\"text-align:left\">17.1</td>\n<td style=\"text-align:left\">21.5</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">剩余磁化强度 (emu/g)</td>\n<td style=\"text-align:left\">6.0</td>\n<td style=\"text-align:left\">7.9</td>\n<td style=\"text-align:left\">4.8</td>\n<td style=\"text-align:left\">5.6</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">矩形比</td>\n<td style=\"text-align:left\">0.455</td>\n<td style=\"text-align:left\">0.494</td>\n<td style=\"text-align:left\">0.281</td>\n<td style=\"text-align:left\">0.261</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">矫顽力 (奥斯特)</td>\n<td style=\"text-align:left\">497.8</td>\n<td style=\"text-align:left\">758.4</td>\n<td style=\"text-align:left\">439.3</td>\n<td style=\"text-align:left\">449.1</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">各向异性常数 (erg/c.c)</td>\n<td style=\"text-align:left\">6845</td>\n<td style=\"text-align:left\">12640</td>\n<td style=\"text-align:left\">7825</td>\n<td style=\"text-align:left\">10058</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">磁矩 (玻尔磁子/分子式单元)</td>\n<td style=\"text-align:left\">3.41</td>\n<td style=\"text-align:left\">2.74</td>\n<td style=\"text-align:left\">2.64</td>\n<td style=\"text-align:left\">2.55</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Synthesis, Structural, Morphology and Magnetic Properties: Effect of La on Multiferroic Nature of BiFeO3 Nanoparticles|\n|短标题|La对BiFeO3纳米粒子多铁性的影响|\n|作者|[[Srinivas Perugu]]、 [[G Bhanu Kiran]]、 [[T Anil Babu]]、 [[B V Raghavaiah]]|\n|期刊名称|[[Indian Journal Of Science And Technology]]|\n|DOI|[10.17485/IJST/v17i39.2761](https://doi.org/10.17485/IJST/v17i39.2761)|\n|存档位置||\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/PY4R9ATN)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/IPA5F8UI)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "Done"
+  ],
+  "materials": [],
+  "methods": []
+}

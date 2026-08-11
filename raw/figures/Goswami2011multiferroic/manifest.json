@@ -1,0 +1,84 @@
+{
+  "parent_key": "Goswami2011multiferroic",
+  "title": "Goswami2011multiferroic",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. (a) TEM photograph of the nanosized particles of BiFeO3 and (b) HRTEM photograph showing the lattice fringes for (012) plane.",
+      "page": "1",
+      "attachment_key": "IBYY5PIF",
+      "file": "fig_1_IBYY5PIF.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. (color online) The experimental and FullProf refined x-ray diffraction patterns for nanoscale BiFeO3 at different temperatures; red colored open circles represent the experi-mental data points, black solid lines represent the calculated data, blue solid line represent the difference between observed and calculated data, and green lines represent the Bragg lines. The fit statistics and other relevant details are available in the supplementary information.",
+      "page": "2",
+      "attachment_key": "G3IS8VEN",
+      "file": "fig_2_G3IS8VEN.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3. (color online) The experimental and FullProf re-fined neutron diffraction patterns (λ = 2.41 ˚A) for nanoscale BiFeO3 at room temperature and under zero and 5T magnetic field; red colored open circles represent the experimental data points, black solid lines represent the calculated data, blue solid line represent the difference between observed and cal-culated data, and green lines represent the Bragg lines for both magnetic and crystallographic lattices. The fit statistics and other re",
+      "page": "2",
+      "attachment_key": "9WFFLRUD",
+      "file": "fig_3_9WFFLRUD.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "FIG. 4. (color online) (a) DSC traces for the bulk (black) and nanosized particles (red) of BiFeO3 around TN; the peak in the nanoscale sample is smeared pointing out a broader transition zone which is marked in the plot; (b) variation of lattice parameters a (right axis) and c (left axis) with tem-perature; (c) variation of lattice volume with temperature; volume contraction takes place around TN; (d) variation of δBi (diamond) and δF e (down traingle) as well as the net δ (star) in a unit cell",
+      "page": "3",
+      "attachment_key": "X25BTCRC",
+      "file": "fig_4_X25BTCRC.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table><thead><tr><th>T (K)</th><th>Lattice Parameters (Å)</th><th>Ions</th><th>Wyckoff Positions</th><th>x</th><th>y</th><th>z</th><th>Bond Lengths (Å)</th><th>Bond Angles (°)</th><th>Rp</th><th>Rwp</th><th>χ²</th></tr></thead><tbody><tr><td>298</td><td>a = 5.580(9) c = 13.867(7)</td><td>Bi Fe O</td><td>6a 6a 18b</td><td>0.0 0.0 0.4599(3)</td><td>0.0 0.0 0.0139(2)</td><td>0.0 0.2235(2) -0.0409(5)</td><td>Bi-O 2.591(2) Bi-O 2.344(3) Fe-O 1.941(3) Fe-O 2.070(4)</td><td>Fe-O-Fe 161.08(2) O-Bi-O 70.68(1)</td><td>17.5</td><td>22.4</td><td>2.33</td></tr><tr><td>623</td><td>a = 5.592(5) c = 13.912(7)</td><td>Bi Fe O</td><td>6a 6a 18b</td><td>0.0 0.0 0.4607(6)</td><td>0.0 0.0 0.0122(4)</td><td>0.0 0.2263(4) -0.0388(2)</td><td>Bi-O 2.376(2) Bi-O 2.599(5) Fe-O 1.941(2) Fe-O 2.087(3)</td><td>Fe-O-Fe 161.32(2) O-Bi-O 70.09(4)</td><td>16.5</td><td>21.3</td><td>2.41</td></tr><tr><td>627</td><td>a = 5.593(4) c = 13.907(8)</td><td>Bi Fe O</td><td>6a 6a 18b</td><td>0.0 0.0 0.4656(3)</td><td>0.0 0.0 -0.0304(5)</td><td>0.0 0.2254(5) -0.0372(3)</td><td>Bi-O 2.554(3) Fe-O 2.022(1) Fe-O 2.078(4)</td><td>Fe-O-Fe 172.93(4) O-Bi-O 74.64(2)</td><td>16.5</td><td>21.1</td><td>2.26</td></tr><tr><td>629</td><td>a = 5.594(5) c = 13.915(7)</td><td>Bi Fe O</td><td>6a 6a 18b</td><td>0.0 0.0 0.4619(4)</td><td>0.0 0.0 -0.0212(6)</td><td>0.0 0.2275(5) -0.0379(5)</td><td>Bi-O 2.494(5) Fe-O 1.791(3) Fe-O 2.201(3)</td><td>Fe-O-Fe 169.89(6) O-Bi-O 74.26(4)</td><td>16.6</td><td>21.2</td><td>2.21</td></tr><tr><td>633</td><td>a = 5.589(7) c = 13.885(6)</td><td>Bi Fe O</td><td>6a 6a 18b</td><td>0.0 0.0 0.4547(4)</td><td>0.0 0.0 0.0454(3)</td><td>0.0 0.2199(2) -0.0362(2)</td><td>Bi-O 2.582(2) Fe-O 1.764(1) Fe-O 2.219(3)</td><td>Fe-O-Fe 171.86(5) O-Bi-O 76.13(4)</td><td>16.5</td><td>24.2</td><td>2.58</td></tr><tr><td>638</td><td>a = 5.591(3) c = 13.896(7)</td><td>Bi Fe O</td><td>6a 6a 18b</td><td>0.0 0.0 0.4705(5)</td><td>0.0 0.0 -0.0375(7)</td><td>0.0 0.2197(3) -0.0350(3)</td><td>Bi-O 2.565(4) Fe-O 1.803(2) Fe-O 2.174(5)</td><td>Fe-O-Fe 175.34(4) O-Bi-O 74.69(2)</td><td>16.0</td><td>23.5</td><td>2.68</td></tr><tr><td>643</td><td>a = 5.589(5) c = 13.884(8)</td><td>Bi Fe O</td><td>6a 6a 18b</td><td>0.0 0.0 0.4691(7)</td><td>0.0 0.0 -0.0326(9)</td><td>0.0 0.2195(3) -0.0328(5)</td><td>Bi-O 2.571(3) Fe-O 1.843(5) Fe-O 2.136(5)</td><td>Fe-O-Fe 173.90(6) O-Bi-O 73.38(5)</td><td>15.8</td><td>23.3</td><td>2.59</td></tr></tbody></table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table><thead><tr><th>Field (T)</th><th>Lattice Parameters (Å)</th><th>Ions</th><th>Wyckoff Positions</th><th>x</th><th>y</th><th>z</th><th>Bond Lengths (Å)</th><th>Bond Angles (°)</th><th>Rp</th><th>Rwp</th><th>χ²</th></tr></thead><tbody><tr><td>0</td><td>a = 5.607(4) c = 13.901(5)</td><td>Bi Fe O</td><td>6a 6a 18b</td><td>0.0 0.0 0.4524(7)</td><td>0.0 0.0 0.0183(5)</td><td>0.0 0.2213(5) 0.9412(4)</td><td>Bi-O 2.171(3) Bi-O 2.615(5) Fe-O 1.891(5) Fe-O 2.216(3)</td><td>Fe-O-Fe 151.55(5) O-Bi-O 77.14(4)</td><td>18.9</td><td>16.8</td><td>30.3</td></tr><tr><td>5</td><td>a = 5.605(6) c = 13.904(9)</td><td>Bi Fe O</td><td>6a 6a 18b</td><td>0.0 0.0 0.4486(5)</td><td>0.0 0.0 0.0208(5)</td><td>0.0 0.2212(3) 0.9430(2)</td><td>Bi-O 2.114(3) Bi-O 2.673(2) Fe-O 1.877(3) Fe-O 2.234(4)</td><td>Fe-O-Fe 150.95(5) O-Bi-O 78.40(4)</td><td>27.2</td><td>20.4</td><td>16.1</td></tr></tbody></table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Multiferroic coupling in nanoscale BiFeO3|\n|短标题|纳米BiFeO3中的多铁性耦合|\n|作者|[[Sudipta Goswami]]、 [[Dipten Bhattacharya]]、 [[P. Choudhury]]、 [[B. Ouladdiaf]]、 [[T. Chatterji]]|\n|期刊名称|[[Applied Physics Letters]]|\n|DOI|[10.1063/1.3625924](https://doi.org/10.1063/1.3625924)|\n|存档位置|60|\n|文库编目|3.8|\n|索书号|3|\n|版权||\n|分类|[[04_磁电耦合机制 (Magnetoelectric Coupling)]]|\n|条目链接|[My Library](zotero://select/library/items/JJLMVBML)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/87ETRW2X)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "Done"
+  ],
+  "materials": [],
+  "methods": []
+}

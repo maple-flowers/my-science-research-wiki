@@ -1,0 +1,190 @@
+{
+  "parent_key": "Kumar2017microstructuring",
+  "title": "Kumar2017microstructuring",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Figure 1. a, Comparison of the spatial full width at half maximum of a Gaussian shaped beam intensity and its  squared (I2) profile. b, Schematic explaining a threshold intensity for photosensitive materials with a threshold   assumed to be at horizontal dashed line. As the peak intensity gets closer to the threshold from above, the voxel  width decreases. c, Evolution of voxel width with dwell time and average laser power. d, Change in voxel width  with the numerical aperture (NA) of the object",
+      "page": "2",
+      "attachment_key": "2SW9UPB2",
+      "file": "fig_1_2SW9UPB2.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "1670",
+      "title": "Figure 1670",
+      "llm_description": "1670   where  th th /[ ]. E E    and D, L are voxel width, voxel  depth respectively. Since the writing speed of the stage is",
+      "page": "3",
+      "attachment_key": "HAPQSMDT",
+      "file": "fig_1670_HAPQSMDT.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Figure 2. a, Schematic diagram of the two-photon laser writing sys-tem. b, Photograph of the same system where L is the sub-nanosecod  laser, LD is laser driver, LC is laser controller, IM is inverted micro-scope, C is CCD camera, AOM is AO modulator, 3DPS is 3D piezo  nano positioning stage and SH is sample holder.",
+      "page": "3",
+      "attachment_key": "ENZRABLZ",
+      "file": "fig_2_ENZRABLZ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Figure 3. a, b, 3D view of AFM topographical images of a 2D grating and a 2D micro disk array respectively.  c–e, Optical microscopy images of logo of IIT Kanpur, an array of micro pillars of height 6 m and a 2D disk   array respectively. (a–d) are fabricated in SU-8, while (e) is fabricated in AR-N 4340. All these microstructures  are fabricated using the parameters: 1.2 mW laser average power, 100 m/s writing speed, 10 kHz rep rate and  0.8 NA objective.",
+      "page": "4",
+      "attachment_key": "YY3P3QFG",
+      "file": "fig_3_YY3P3QFG.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Figure 4. AFM topographical image of a 2D grating fabricated using  100X oil immersion objective in SU-8. (Inset) The corresponding line  profile of selected portion of the line. FWHM of the corresponding line  profile is around 500 nm.",
+      "page": "4",
+      "attachment_key": "HUGYSKHH",
+      "file": "fig_4_HUGYSKHH.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Figure 5. a, AFM topographical image of micro lines array fabricated in SU-8 at constant writing speed 100 m/s with decreas-ing peak intensity of 5.7 GW/cm2 to 2.5 GW/cm2 (from left to right). b, Micro lines array fabricated in SU-8 at constant peak   intensity 4.6 GW/cm2 with increasing writing speed of 300 to 1600 m/s (from left to right). c, d, Corresponding line profiles of  (a) and (b) respectively.",
+      "page": "5",
+      "attachment_key": "5NHRW2UU",
+      "file": "fig_5_5NHRW2UU.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Figure 6 a, b. Line width (of Figure 5 a and b) as a function of peak  intensity and writing speed respectively. Data points represent FWHM  of line profiles, while error bars show the variance in line width.",
+      "page": "5",
+      "attachment_key": "JCA8NIX8",
+      "file": "fig_6_JCA8NIX8.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Microstructuring by Two-Photon Polymerization using a Sub-Nanosecond Laser|\n|短标题|亚纳秒激光双光子聚合制备微结构|\n|作者|[[Raghwendra Kumar]]、 [[S. Anantha Ramakrishna]]|\n|期刊名称|[[Current Science]]|\n|DOI|[10.18520/cs/v112/i08/1668-1674](https://doi.org/10.18520/cs/v112/i08/1668-1674)|\n|存档位置|3|\n|文库编目|0.9|\n|索书号|4|\n|版权||\n|分类|[[01_双光子聚合引发剂 (2PP Initiators)]]|\n|条目链接|[My Library](zotero://select/library/items/T8BDNXH5)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/6CRI9XM4)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "2",
+      "attachment_key": "B45IT96C",
+      "file": "eq_1_B45IT96C.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(3)",
+      "page": "3",
+      "attachment_key": "HDYU79KZ",
+      "file": "eq_3_HDYU79KZ.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4)",
+      "page": "3",
+      "attachment_key": "8XWIF9CQ",
+      "file": "eq_4_8XWIF9CQ.png"
+    },
+    {
+      "id": "eq1",
+      "title": "Equation 1",
+      "content": "$$`包裹。但注意原文有``等符号，可能是编码问题，需转换为`π`等。我们应保留公式含义，翻译解释。但任务说“英文原文（保留原始格式）”，所以公式可能要保持原样。但原文中已经有一些乱码，如``应该是希腊字母π，``可能是乘号，``等。我们需要根据上下文还原。例如`dW/dt`等。我们尽量用正确的Unicode表示。\n> \n> 我们还需要处理术语解释。首次出现的核心术语，如“two-photon polymerization (TPP)”，“electron beam lithography (EBL)”等，需要标注。术语解释格式：`**Term**: 中文解释`，放在翻译之后。\n> \n> 我们进行结构解析。我们手动分割文本。从输入看，开头有“RESEARCH ARTICLES”和页码，但可以忽略，直接从“Microstructuring by two-photon polymerization using a sub-nanosecond laser”开始。下面是作者和单位，然后是摘要，关键词。摘要部分可能是一个段落，关键词是列表。然后正文。在正文中，有“Fundamentals of two-photon polymerization”等。还有图1、图2等说明，但图不一定在文本中，图片说明是文本。\n> \n> 我们需要处理表格？没有表格。引用块？没有。代码块？没有，但有公式。公式可以视为代码块，或者保留行内公式。我们选择将公式作为普通文本保留，用LaTeX格式，或者直接保留原样。但为了Markdown清晰，我们可以将公式用`$$",
+      "page": "-"
+    },
+    {
+      "id": "eq2",
+      "title": "Equation 2",
+      "content": "$$`包裹，但原文中有些是行内公式，如`dW/dt`，有些是块公式。我们可以用`$...$`表示行内公式，`$$",
+      "page": "-"
+    },
+    {
+      "id": "eq3",
+      "title": "Equation 3",
+      "content": "$$`表示块公式。但原文中公式(1)是块公式，我们保留为`$$",
+      "page": "-"
+    },
+    {
+      "id": "eq4",
+      "title": "Equation 4",
+      "content": "$$ \\frac{dW}{dt} = \\frac{8\\pi^2\\omega}{c n^2} I^2 \\text{Im}[\\chi^{(3)}] $$",
+      "page": "-"
+    },
+    {
+      "id": "eq5",
+      "title": "Equation 5",
+      "content": "$$ I_{th}^2 \\beta \\tau f t \\ge E_{th} $$",
+      "page": "-"
+    },
+    {
+      "id": "eq6",
+      "title": "Equation 6",
+      "content": "$$ I(r,z) = \\frac{2P}{\\pi w(z)^2} \\exp\\left[ -2\\left(\\frac{r}{w(z)}\\right)^2 \\right] $$",
+      "page": "-"
+    },
+    {
+      "id": "eq7",
+      "title": "Equation 7",
+      "content": "$$ w(z) = \\frac{\\lambda}{\\pi \\tan\\left[\\sin^{-1}\\left(\\frac{NA}{n}\\right)\\right]} \\left[1 + \\left(\\frac{z}{\\frac{\\lambda}{\\pi \\tan(\\sin^{-1}(NA/n))}}\\right)^2 \\right]^{1/2} $$",
+      "page": "-"
+    },
+    {
+      "id": "eq8",
+      "title": "Equation 8",
+      "content": "$$ D(t, NA, P_{av}, f) = \\frac{\\lambda}{\\pi \\tan\\left[\\sin^{-1}\\left(\\frac{NA}{n}\\right)\\right]} \\times \\left[ \\ln\\left( \\frac{4 \\pi^4 \\tan^4\\left[\\sin^{-1}\\left(\\frac{NA}{n}\\right)\\right] P_{av} f t}{E_{th}' \\lambda^4} \\right) \\right]^{1/2} $$",
+      "page": "-"
+    },
+    {
+      "id": "eq9",
+      "title": "Equation 9",
+      "content": "$$ L(t, NA, P_{av}, f) = \\frac{2\\lambda}{\\pi \\tan\\left[\\sin^{-1}\\left(\\frac{NA}{n}\\right)\\right]} \\times \\left[ \\left( \\frac{4 \\pi^4 \\tan^4\\left[\\sin^{-1}\\left(\\frac{NA}{n}\\right)\\right] P_{av} f t}{E_{th}' \\lambda^4} \\right)^{1/2} -1 \\right]^{1/2} $$",
+      "page": "-"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

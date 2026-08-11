@@ -1,0 +1,168 @@
+{
+  "parent_key": "liFerroelasticityDomainPhysics2016",
+  "title": "liFerroelasticityDomainPhysics2016",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Figure 1 | Atomistic structure of of 1T–WTe2 and 1T0–WTe2 monolayers. The 2D primitive cells of 1T and 1T0 are highlighted in green and red, respectively. The primitive cell of 1T0 corresponds to the 1� ffiffiffi 3 p supercell of 1T. The 1T0 phase can be derived via the structural distortion of the 1T phase, which is schematically illustrated in the side views. These features are generic to all other group VI MX2 monolayers.",
+      "page": "2",
+      "attachment_key": "YTRF2PW6",
+      "file": "fig_1_YTRF2PW6.png",
+      "tags": [
+        "方法：第一性原理计算"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Figure 2 | Three orientation variants of 1T0–MX2 monolayers. (a) The three symmetry-equivalent directions of structural distortion in the 1T structure are indicated by arrows and numerical labels on the triangular lattice formed by M atoms. The corresponding primitive cells of the 1T0 phase after structural distortion are represented as shaded rectangles. (b– d) Relaxed atomistic structure of the 1T0 phase after structural distortion along the three different directions, which are referred to as",
+      "page": "3",
+      "attachment_key": "KHBH8L57",
+      "file": "fig_2_KHBH8L57.png",
+      "tags": [
+        "方法：第一性原理计算"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Figure 3 | Intersection contours of the energy surfaces between the different orientation variants of 1T0–MoTe2 and between 2H and 1T0. The lattice constants a and b, corresponding to the dimensions of the rectangular primitive cell of the O1 variant in the 1T0 phase, are represented as percent engineering strain with respect to the equilibrium lattice constants a0 and b0. The regions of lower-energy phase/variant are labelled and shaded in different colours.",
+      "page": "4",
+      "attachment_key": "A8FT3APU",
+      "file": "fig_3_A8FT3APU.png",
+      "tags": [
+        "方法：第一性原理计算"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Figure 4 | Potential energies of the three variants of 1T0–WTe2 monolayers as a function of shear strain with respect to the equilibrium supercell of the O1 variant. The O2 or O3 variant becomes energetically more favourable when negative- or positive-shear strain of a few percent is imposed on the O1 variant.",
+      "page": "4",
+      "attachment_key": "EGN83GUV",
+      "file": "fig_4_EGN83GUV.png",
+      "tags": [
+        "方法：第一性原理计算"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Figure 5 | Potential energy curves of the different variants of 1T0–WTe2 uniaxially strained along the a axis. The dashed line is the common tangent between the two curves. The uniaxial strain is calculated with respect to the equilibrium supercell dimension of the O1 variant along the x direction.",
+      "page": "5",
+      "attachment_key": "XYSVC9LT",
+      "file": "fig_5_XYSVC9LT.png",
+      "tags": [
+        "方法：第一性原理计算"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Figure 6 | NEB calculation of transformation barrier and the pathway for orientation switching. The initial configuration of the NEB calculation is the O1 variant of 1T0–WTe2 monolayers at ground state (zero external stress), while the final state is the strained O2 variant with the same supercell dimensions as those of the O1 variant. (a) Change of the system energy per chemical formula unit as a function of reaction coordinate. (b) The corresponding atomistic structure of the system along the ",
+      "page": "6",
+      "attachment_key": "DIRK5297",
+      "file": "fig_6_DIRK5297.png",
+      "tags": [
+        "方法：第一性原理计算"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Figure 7 | Ferroelastic domain boundaries between different orientation variants. (a–c) Illustrate the DFT-relaxed atomistic structures of domain boundaries formed between the O1 and O2, O1 and O3, and O2 and O3 variants of 1T0–WTe2 monolayers, respectively. To help guide the eyes, domains of different variants are shaded in distinct colours: O1 variant in orange, O2 variant in green and O3 variant in blue.",
+      "page": "6",
+      "attachment_key": "BRNW8WQ3",
+      "file": "fig_7_BRNW8WQ3.png",
+      "tags": [
+        "方法：第一性原理计算"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Ferroelasticity and domain physics in two-dimensional transition metal dichalcogenide monolayers|\n|短标题|二维过渡金属二氯化铝单分子膜的铁弹性和畴物理|\n|作者|[[Wenbin Li]]、 [[Ju Li]]|\n|期刊名称|[[Nature Communications]]|\n|DOI|[10.1038/ncomms10843](https://doi.org/10.1038/ncomms10843)|\n|存档位置|160|\n|文库编目|15.7|\n|索书号|1|\n|版权||\n|分类|[[01_机器学习势函数 (ML Potentials)]]|\n|条目链接|[My Library](zotero://select/library/items/9Z329P6J)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/NRUQSN5R\">Li和Li - 2016 - Ferroelasticity and domain physics in two-dimensional transition metal dichalcogenide monolayers</a></li><li><a href=\"zotero://open-pdf/library/items/ASD3VSQR\">Li和Li - 2016 - Ferroelasticity and domain physics in two-dimensional transition metal dichalcogenide monolayers.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "ð1Þ",
+      "page": "3",
+      "attachment_key": "HP8MGPF4",
+      "file": "eq_1_HP8MGPF4.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "ð2Þ",
+      "page": "3",
+      "attachment_key": "2S66YKHE",
+      "file": "eq_2_2S66YKHE.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "ð3Þ",
+      "page": "3",
+      "attachment_key": "EBEPXLQF",
+      "file": "eq_3_EBEPXLQF.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "ð4Þ",
+      "page": "3",
+      "attachment_key": "JSWN4I98",
+      "file": "eq_4_JSWN4I98.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "ð5Þ",
+      "page": "3",
+      "attachment_key": "F7HM6IDY",
+      "file": "eq_5_F7HM6IDY.png"
+    }
+  ],
+  "tags": [
+    "方法：第一性原理计算"
+  ],
+  "materials": [
+    "TMDs及其变体（MoS2）"
+  ],
+  "methods": []
+}

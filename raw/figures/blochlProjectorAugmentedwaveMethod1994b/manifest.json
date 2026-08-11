@@ -5,115 +5,620 @@
     {
       "fig_number": "1",
       "title": "Figure 1",
-      "llm_description": "FIG. 1. Partial waves and projectors for Mn. Left panel: AE partial waves (solid lines) and PS partial waves (dashed and dash-dotted lines). The \"first\" PS partial wave is a dash-dotted line. Right panel: first (solid line) and second (dashed line) projector functions. (a) and (d) show the re-sults ",
+      "llm_description": "FIG. 1. Partial waves and projectors for Mn. Left panel: AE partial waves (solid lines) and PS partial waves (dashed and dash-dotted lines). The &quot;first&quot; PS partial wave is a dash-dotted line. Right panel: first (solid line) and second (dashed line) projector functions. (a) and (d) show the re-sults for the 6rst and the second partial wave of the s angular momentum channel, respectively, (b) and (e) for the p chan-nel, and (c) and (f) for the d channel. 3s and 3p functions are treated a",
       "page": "13",
-      "attachment_key": "JFTQT8ZU",
-      "file": "fig_1_JFTQT8ZU.png",
+      "attachment_key": "MBXMFE5N",
+      "file": "fig_1_MBXMFE5N.png",
       "tags": [],
       "materials": [],
-      "methods": [
-        "DFT",
-        "first-principles"
-      ]
+      "methods": []
     },
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "FIG. 2. Scattering properties of the Mn atom. Logarithmic derivative function Dr(e) = rB„gr(r, e)/P(r, e) with r = 3ao for s, p, and d angular momenta versus energy. Triangles, circles, and squares indicate the exact result for 8, p, and d angular momenta, respectively. Solid lines are obtained with",
+      "llm_description": "FIG. 2. Scattering properties of the Mn atom. Logarithmic derivative function Dr(e) = rB„gr(r, e)/P(r, e) with r = 3ao for s, p, and d angular momenta versus energy. Triangles, circles, and squares indicate the exact result for 8, p, and d angular momenta, respectively. Solid lines are obtained with the PAW method using the setup denoted as Mng in Table I. Dashed lines have been obtained with the same setup, but without the second partial wave per E.",
       "page": "20",
-      "attachment_key": "52TFEZCW",
-      "file": "fig_2_52TFEZCW.png",
+      "attachment_key": "TFC3U9WB",
+      "file": "fig_2_TFC3U9WB.png",
       "tags": [],
       "materials": [],
-      "methods": [
-        "DFT",
-        "first-principles"
-      ]
+      "methods": []
     },
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "FIG. 3. Comparison of atomic wave functions of Mn using the PAW method with the exact result. Each graph shows the wave function obtained from the PAW method (solid line), the exact AE wave function (bullets), their difference magnified by a factor of 10 (dash-dotted line), and the PS wave func-tion",
+      "llm_description": "FIG. 3. Comparison of atomic wave functions of Mn using the PAW method with the exact result. Each graph shows the wave function obtained from the PAW method (solid line), the exact AE wave function (bullets), their difference magnified by a factor of 10 (dash-dotted line), and the PS wave func-tion (dashed line) for a given energy and angular momentum. (a)—(c) are obtained at an energy of —8.16 eV, which lies in the valence band region; (d)—(f) sre obtained at sn energy of +13.61 eV, which is f",
       "page": "20",
-      "attachment_key": "8SY2TAWN",
-      "file": "fig_3_8SY2TAWN.png",
+      "attachment_key": "VUN7LY3T",
+      "file": "fig_3_VUN7LY3T.png",
       "tags": [],
       "materials": [],
-      "methods": [
-        "DFT",
-        "first-principles"
-      ]
+      "methods": []
     },
     {
       "fig_number": "4",
       "title": "Figure 4",
-      "llm_description": "FIG. 4. Energy contributions during a first-principles molecular-dynamics simulation of an iron dimer. The dash-dotted line is the LDA total energy, the dashed line the fictitious kinetic energy of the wave functions, and the solid line the conserved energy. All energies are plotted relative to thei",
+      "llm_description": "FIG. 4. Energy contributions during a first-principles molecular-dynamics simulation of an iron dimer. The dash-dotted line is the LDA total energy, the dashed line the fictitious kinetic energy of the wave functions, and the solid line the conserved energy. All energies are plotted relative to their initial values. See text for discussion.",
       "page": "21",
-      "attachment_key": "7P5U26HG",
-      "file": "fig_4_7P5U26HG.png",
+      "attachment_key": "7SIKWYXK",
+      "file": "fig_4_7SIKWYXK.png",
       "tags": [],
       "materials": [],
-      "methods": [
-        "DFT",
-        "first-principles"
-      ]
+      "methods": []
     },
     {
       "fig_number": "5",
       "title": "Figure 5",
-      "llm_description": "FIG. 5. Plane-wave convergence of the atomic total energy for 6rst-row elements and iron. Ep~ is the plane-wave cutofF for the wave function. AE is the total energy relative to the result obtained with Ep~ = 50 Ry. The following symbols are used: H (A), Li (*),Be (D ), 8 (~), N (a), 0 (0), F (CI), a",
+      "llm_description": "FIG. 5. Plane-wave convergence of the atomic total energy for 6rst-row elements and iron. Ep~ is the plane-wave cutofF for the wave function. AE is the total energy relative to the result obtained with Ep~ = 50 Ry. The following symbols are used: H (A), Li (*),Be (D ), 8 (~), N (a), 0 (0), F (CI), aud Fe (Q). For detai1s see text.",
       "page": "22",
-      "attachment_key": "62PUHC49",
-      "file": "fig_5_62PUHC49.png",
+      "attachment_key": "F273ESRL",
+      "file": "fig_5_F273ESRL.png",
       "tags": [],
       "materials": [],
-      "methods": [
-        "DFT",
-        "first-principles"
-      ]
+      "methods": []
     },
     {
       "fig_number": "6",
       "title": "Figure 6",
-      "llm_description": "FIG. 6. Plane-wave convergence of the binding energy for dimers. AE is the binding energy relative to the result ob-tained with Epw — —50 Ry. The symbols are the same as in Fig. 5. See text for details.\nFormula 24 · 第 23 页\n\n(i24)\nFormula 25 · 第 23 页\n\n(i25)\nFormula 126 · 第 23 页\n\n(126)\nFormula · 第 23 ",
+      "llm_description": "FIG. 6. Plane-wave convergence of the binding energy for dimers. AE is the binding energy relative to the result ob-tained with Epw — —50 Ry. The symbols are the same as in Fig. 5. See text for details.",
       "page": "22",
-      "attachment_key": "NJ9IKNZH",
-      "file": "fig_6_NJ9IKNZH.png",
+      "attachment_key": "SXMJN2H7",
+      "file": "fig_6_SXMJN2H7.png",
       "tags": [],
       "materials": [],
-      "methods": [
-        "DFT",
-        "first-principles"
-      ]
+      "methods": []
     },
     {
       "fig_number": "7",
       "title": "Figure 7",
       "llm_description": "FIG. 7. Plane-wave convergence of dimer bond lengths. AE is the bond length relative to the result obtained with Ep~ = 50 Ry. The symbols are the same as in Fig. 5. See text for details.",
       "page": "22",
-      "attachment_key": "FK5MXPHR",
-      "file": "fig_7_FK5MXPHR.png",
+      "attachment_key": "4YR3MYMF",
+      "file": "fig_7_4YR3MYMF.png",
       "tags": [],
       "materials": [],
-      "methods": [
-        "DFT",
-        "first-principles"
-      ]
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_30",
+      "title": "Table 30",
+      "content": "TABLE II. Comparison of binding energies, structural properties, and vibrational properties for dimers obtained with the PAW method at a plane-wave cutoft&#39; of 30 Ry with those of other all-electron LDA calculations. Note that the B~ and the 02 dimer of Ref. 54 are non-spin-polarized.\n\nReference 54. Reference 55. &#39;Reference 56. Reference 58. &#39;Reference 57.",
+      "page": "20",
+      "attachment_key": "9X7NQLGJ",
+      "file": "tab_30_9X7NQLGJ.png"
+    },
+    {
+      "id": "tab_6",
+      "title": "Table 6",
+      "content": "TABLE I. Parameters for the construction of PS partial waves. The cutoK parameter has been chosen as A = 6 for all atoms and angular momentum channels.",
+      "page": "14",
+      "attachment_key": "8N64J9RS",
+      "file": "tab_6_8N64J9RS.png"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Projector augmented-wave method|\n|短标题|投影仪增强波法|\n|作者|[[P. E. Blöchl]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.50.17953](https://doi.org/10.1103/PhysRevB.50.17953)|\n|存档位置|88429|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[方法文献]]|\n|条目链接|[My Library](zotero://select/library/items/G2N48MS7)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/XQRVH3SD\">投影仪增强波法-silicon-dual</a></li><li><a href=\"zotero://open-pdf/library/items/ZQEXZ782\">Blöchl - 1994 - Projector augmented-wave method</a></li><li><a href=\"zotero://open-pdf/library/items/X876TTSJ\">Blöchl - 1994 - Projector augmented-wave method.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/UMT6TMMQ\">Blöchl - 1994 - Projector augmented-wave method.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/CEFVBI2X\">Blöchl - 1994 - Projector augmented-wave method.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Projector augmented-wave method|\n|短标题|投影增强波法|\n|作者|[[P. E. Blöchl]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.50.17953](https://doi.org/10.1103/PhysRevB.50.17953)|\n|存档位置|88429|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[方法文献]]|\n|条目链接|[My Library](zotero://select/library/items/G2N48MS7)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/XQRVH3SD\">投影仪增强波法-silicon-dual</a></li><li><a href=\"zotero://open-pdf/library/items/ZQEXZ782\">Blöchl - 1994 - Projector augmented-wave method</a></li><li><a href=\"zotero://open-pdf/library/items/X876TTSJ\">Blöchl - 1994 - Projector augmented-wave method.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/UMT6TMMQ\">Blöchl - 1994 - Projector augmented-wave method.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/CEFVBI2X\">Blöchl - 1994 - Projector augmented-wave method.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_101",
+      "title": "Equation 101",
+      "content": "(101)",
+      "page": "15",
+      "attachment_key": "93QKT9U5",
+      "file": "eq_101_93QKT9U5.png"
+    },
+    {
+      "id": "eq_102",
+      "title": "Equation 102",
+      "content": "(102)",
+      "page": "16",
+      "attachment_key": "WMA6UIXW",
+      "file": "eq_102_WMA6UIXW.png"
+    },
+    {
+      "id": "eq_103",
+      "title": "Equation 103",
+      "content": "(103}",
+      "page": "16",
+      "attachment_key": "DIBURCTJ",
+      "file": "eq_103_DIBURCTJ.png"
+    },
+    {
+      "id": "eq_104",
+      "title": "Equation 104",
+      "content": "(104)",
+      "page": "16",
+      "attachment_key": "3XGZFTR4",
+      "file": "eq_104_3XGZFTR4.png"
+    },
+    {
+      "id": "eq_105",
+      "title": "Equation 105",
+      "content": "(105)",
+      "page": "16",
+      "attachment_key": "PTIUHV9H",
+      "file": "eq_105_PTIUHV9H.png"
+    },
+    {
+      "id": "eq_107",
+      "title": "Equation 107",
+      "content": "(107)",
+      "page": "16",
+      "attachment_key": "2FWAK4ZV",
+      "file": "eq_107_2FWAK4ZV.png"
+    },
+    {
+      "id": "eq_108",
+      "title": "Equation 108",
+      "content": "(108)",
+      "page": "17",
+      "attachment_key": "3Q44KUE8",
+      "file": "eq_108_3Q44KUE8.png"
+    },
+    {
+      "id": "eq_109",
+      "title": "Equation 109",
+      "content": "(109)",
+      "page": "17",
+      "attachment_key": "CJL4J9CJ",
+      "file": "eq_109_CJL4J9CJ.png"
+    },
+    {
+      "id": "eq_11",
+      "title": "Equation 11",
+      "content": "(11g)",
+      "page": "19",
+      "attachment_key": "HF8KYZTT",
+      "file": "eq_11_HF8KYZTT.png"
+    },
+    {
+      "id": "eq_110",
+      "title": "Equation 110",
+      "content": "(110)",
+      "page": "17",
+      "attachment_key": "JRX95VPN",
+      "file": "eq_110_JRX95VPN.png"
+    },
+    {
+      "id": "eq_112",
+      "title": "Equation 112",
+      "content": "(112&amp;",
+      "page": "18",
+      "attachment_key": "G32FLVKH",
+      "file": "eq_112_G32FLVKH.png"
+    },
+    {
+      "id": "eq_120",
+      "title": "Equation 120",
+      "content": "(120)",
+      "page": "19",
+      "attachment_key": "SNLY4D3E",
+      "file": "eq_120_SNLY4D3E.png"
+    },
+    {
+      "id": "eq_122",
+      "title": "Equation 122",
+      "content": "(122)",
+      "page": "19",
+      "attachment_key": "BANJAWYF",
+      "file": "eq_122_BANJAWYF.png"
+    },
+    {
+      "id": "eq_126",
+      "title": "Equation 126",
+      "content": "(126)",
+      "page": "23",
+      "attachment_key": "XMEA98B4",
+      "file": "eq_126_XMEA98B4.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2o)",
+      "page": "5",
+      "attachment_key": "VLID37V9",
+      "file": "eq_2_VLID37V9.png"
+    },
+    {
+      "id": "eq_21",
+      "title": "Equation 21",
+      "content": "(21)",
+      "page": "5",
+      "attachment_key": "JB3BVLDA",
+      "file": "eq_21_JB3BVLDA.png"
+    },
+    {
+      "id": "eq_22",
+      "title": "Equation 22",
+      "content": "(22)",
+      "page": "5",
+      "attachment_key": "MYC8ETR5",
+      "file": "eq_22_MYC8ETR5.png"
+    },
+    {
+      "id": "eq_24",
+      "title": "Equation 24",
+      "content": "(i24)",
+      "page": "23",
+      "attachment_key": "X8XI8RIM",
+      "file": "eq_24_X8XI8RIM.png"
+    },
+    {
+      "id": "eq_25",
+      "title": "Equation 25",
+      "content": "(i25)",
+      "page": "23",
+      "attachment_key": "AVRP3VFN",
+      "file": "eq_25_AVRP3VFN.png"
+    },
+    {
+      "id": "eq_26",
+      "title": "Equation 26",
+      "content": "(26)",
+      "page": "6",
+      "attachment_key": "VFE8SN2U",
+      "file": "eq_26_VFE8SN2U.png"
+    },
+    {
+      "id": "eq_27",
+      "title": "Equation 27",
+      "content": "(27)",
+      "page": "6",
+      "attachment_key": "IZX9DAMV",
+      "file": "eq_27_IZX9DAMV.png"
+    },
+    {
+      "id": "eq_28",
+      "title": "Equation 28",
+      "content": "(28)",
+      "page": "6",
+      "attachment_key": "ZIHUW33D",
+      "file": "eq_28_ZIHUW33D.png"
+    },
+    {
+      "id": "eq_29",
+      "title": "Equation 29",
+      "content": "(29)",
+      "page": "6",
+      "attachment_key": "TU6D8EKU",
+      "file": "eq_29_TU6D8EKU.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(A3)",
+      "page": "26",
+      "attachment_key": "R3SIUD3F",
+      "file": "eq_3_R3SIUD3F.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4)",
+      "page": "3",
+      "attachment_key": "3SDTLZ8M",
+      "file": "eq_4_3SDTLZ8M.png"
+    },
+    {
+      "id": "eq_43",
+      "title": "Equation 43",
+      "content": "(43)",
+      "page": "9",
+      "attachment_key": "AEH43G8N",
+      "file": "eq_43_AEH43G8N.png"
+    },
+    {
+      "id": "eq_44",
+      "title": "Equation 44",
+      "content": "44)",
+      "page": "9",
+      "attachment_key": "H5Z3FKAV",
+      "file": "eq_44_H5Z3FKAV.png"
+    },
+    {
+      "id": "eq_45",
+      "title": "Equation 45",
+      "content": "(45)",
+      "page": "9",
+      "attachment_key": "2RCIHZNA",
+      "file": "eq_45_2RCIHZNA.png"
+    },
+    {
+      "id": "eq_47",
+      "title": "Equation 47",
+      "content": "(47)",
+      "page": "9",
+      "attachment_key": "ICX5LVAY",
+      "file": "eq_47_ICX5LVAY.png"
+    },
+    {
+      "id": "eq_48",
+      "title": "Equation 48",
+      "content": "(48)",
+      "page": "9",
+      "attachment_key": "XLRNP9IH",
+      "file": "eq_48_XLRNP9IH.png"
+    },
+    {
+      "id": "eq_49",
+      "title": "Equation 49",
+      "content": "(49)",
+      "page": "9",
+      "attachment_key": "QFX68DDL",
+      "file": "eq_49_QFX68DDL.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "(5O)",
+      "page": "10",
+      "attachment_key": "XAIPS25R",
+      "file": "eq_5_XAIPS25R.png"
+    },
+    {
+      "id": "eq_51",
+      "title": "Equation 51",
+      "content": "(51)",
+      "page": "10",
+      "attachment_key": "Y2YXN363",
+      "file": "eq_51_Y2YXN363.png"
+    },
+    {
+      "id": "eq_52",
+      "title": "Equation 52",
+      "content": "(52)",
+      "page": "10",
+      "attachment_key": "F5XRRK8X",
+      "file": "eq_52_F5XRRK8X.png"
+    },
+    {
+      "id": "eq_53",
+      "title": "Equation 53",
+      "content": "(53)",
+      "page": "10",
+      "attachment_key": "85CCMVX9",
+      "file": "eq_53_85CCMVX9.png"
+    },
+    {
+      "id": "eq_57",
+      "title": "Equation 57",
+      "content": "(57)",
+      "page": "10",
+      "attachment_key": "DSZZUSCC",
+      "file": "eq_57_DSZZUSCC.png"
+    },
+    {
+      "id": "eq_59",
+      "title": "Equation 59",
+      "content": "(59)",
+      "page": "10",
+      "attachment_key": "XF6JXYNL",
+      "file": "eq_59_XF6JXYNL.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "(6)",
+      "page": "3",
+      "attachment_key": "JJTSCLRI",
+      "file": "eq_6_JJTSCLRI.png"
+    },
+    {
+      "id": "eq_63",
+      "title": "Equation 63",
+      "content": "(63)",
+      "page": "11",
+      "attachment_key": "VJLAG6GA",
+      "file": "eq_63_VJLAG6GA.png"
+    },
+    {
+      "id": "eq_64",
+      "title": "Equation 64",
+      "content": "(64)",
+      "page": "11",
+      "attachment_key": "Y5G6NRZD",
+      "file": "eq_64_Y5G6NRZD.png"
+    },
+    {
+      "id": "eq_66",
+      "title": "Equation 66",
+      "content": "(66)",
+      "page": "11",
+      "attachment_key": "URTSJNG4",
+      "file": "eq_66_URTSJNG4.png"
+    },
+    {
+      "id": "eq_67",
+      "title": "Equation 67",
+      "content": "(67)",
+      "page": "11",
+      "attachment_key": "LK9D4PW9",
+      "file": "eq_67_LK9D4PW9.png"
+    },
+    {
+      "id": "eq_68",
+      "title": "Equation 68",
+      "content": "(68)",
+      "page": "11",
+      "attachment_key": "2CBLCEN9",
+      "file": "eq_68_2CBLCEN9.png"
+    },
+    {
+      "id": "eq_69",
+      "title": "Equation 69",
+      "content": "(69)",
+      "page": "11",
+      "attachment_key": "8UW7ULFS",
+      "file": "eq_69_8UW7ULFS.png"
+    },
+    {
+      "id": "eq_70",
+      "title": "Equation 70",
+      "content": "(70)",
+      "page": "11",
+      "attachment_key": "U4VZVPTP",
+      "file": "eq_70_U4VZVPTP.png"
+    },
+    {
+      "id": "eq_71",
+      "title": "Equation 71",
+      "content": "(71)",
+      "page": "11",
+      "attachment_key": "WQ5KAA95",
+      "file": "eq_71_WQ5KAA95.png"
+    },
+    {
+      "id": "eq_73",
+      "title": "Equation 73",
+      "content": "(73)",
+      "page": "11",
+      "attachment_key": "5CZTRNKH",
+      "file": "eq_73_5CZTRNKH.png"
+    },
+    {
+      "id": "eq_74",
+      "title": "Equation 74",
+      "content": "(74)",
+      "page": "11",
+      "attachment_key": "38BZV9VB",
+      "file": "eq_74_38BZV9VB.png"
+    },
+    {
+      "id": "eq_75",
+      "title": "Equation 75",
+      "content": "(75)",
+      "page": "11",
+      "attachment_key": "J5DLTKF8",
+      "file": "eq_75_J5DLTKF8.png"
+    },
+    {
+      "id": "eq_76",
+      "title": "Equation 76",
+      "content": "(76)",
+      "page": "12",
+      "attachment_key": "3NYXKZD5",
+      "file": "eq_76_3NYXKZD5.png"
+    },
+    {
+      "id": "eq_77",
+      "title": "Equation 77",
+      "content": "(77)",
+      "page": "12",
+      "attachment_key": "E3S2C2P6",
+      "file": "eq_77_E3S2C2P6.png"
+    },
+    {
+      "id": "eq_78",
+      "title": "Equation 78",
+      "content": "(78)",
+      "page": "12",
+      "attachment_key": "CWJ9GC2F",
+      "file": "eq_78_CWJ9GC2F.png"
+    },
+    {
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "(8I)",
+      "page": "12",
+      "attachment_key": "LHTBMUXB",
+      "file": "eq_8_LHTBMUXB.png"
+    },
+    {
+      "id": "eq_82",
+      "title": "Equation 82",
+      "content": "(82)",
+      "page": "12",
+      "attachment_key": "2BD8VTSM",
+      "file": "eq_82_2BD8VTSM.png"
+    },
+    {
+      "id": "eq_85",
+      "title": "Equation 85",
+      "content": "(85)",
+      "page": "13",
+      "attachment_key": "D8QB7FUY",
+      "file": "eq_85_D8QB7FUY.png"
+    },
+    {
+      "id": "eq_87",
+      "title": "Equation 87",
+      "content": "(87)",
+      "page": "14",
+      "attachment_key": "W3V7BJIT",
+      "file": "eq_87_W3V7BJIT.png"
+    },
+    {
+      "id": "eq_88",
+      "title": "Equation 88",
+      "content": "(88)",
+      "page": "14",
+      "attachment_key": "KWNKPWES",
+      "file": "eq_88_KWNKPWES.png"
+    },
+    {
+      "id": "eq_89",
+      "title": "Equation 89",
+      "content": "{89)",
+      "page": "14",
+      "attachment_key": "HN2J6H2R",
+      "file": "eq_89_HN2J6H2R.png"
+    },
+    {
+      "id": "eq_90",
+      "title": "Equation 90",
+      "content": "{90)",
+      "page": "14",
+      "attachment_key": "6WUJQNTB",
+      "file": "eq_90_6WUJQNTB.png"
+    },
+    {
+      "id": "eq_91",
+      "title": "Equation 91",
+      "content": "(91)",
+      "page": "14",
+      "attachment_key": "AW2JPJ9H",
+      "file": "eq_91_AW2JPJ9H.png"
+    },
+    {
+      "id": "eq_93",
+      "title": "Equation 93",
+      "content": "(93)",
+      "page": "14",
+      "attachment_key": "NB3R4H8L",
+      "file": "eq_93_NB3R4H8L.png"
+    },
+    {
+      "id": "eq_94",
+      "title": "Equation 94",
+      "content": "(94)",
+      "page": "14",
+      "attachment_key": "HYUEZUIR",
+      "file": "eq_94_HYUEZUIR.png"
+    },
+    {
+      "id": "eq_96",
+      "title": "Equation 96",
+      "content": "(96)",
+      "page": "14",
+      "attachment_key": "7KUNWKTZ",
+      "file": "eq_96_7KUNWKTZ.png"
+    },
+    {
+      "id": "eq_98",
+      "title": "Equation 98",
+      "content": "(98)",
+      "page": "15",
+      "attachment_key": "5QT5E7CV",
+      "file": "eq_98_5QT5E7CV.png"
+    }
+  ],
   "tags": [],
   "materials": [],
-  "methods": [
-    "DFT",
-    "first-principles"
-  ]
+  "methods": []
 }

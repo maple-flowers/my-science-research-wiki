@@ -4,92 +4,80 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "支持多铁性的四类机制",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "Figure 1 | Mechanisms promoting the coexistence of magnetic and electric long-range order. a | Lone-pair  ferroelectricity in BiFeO3. Ferroelectricity originates from two Bi3+ electrons that shift away from the Bi3+ ion and towards  the FeO6 octahedra, giving rise to a spontaneous polarization P along the [111] direction. The lone pair is visualized by  the isosurface (red) of the electron localization function of ferroelectric BiFeO3. b | Geometrically driven ferroelectricity  in hexagonal (h-)",
       "page": "4",
-      "attachment_key": "NNR9UCGP",
-      "file": "fig_1_NNR9UCGP.png",
+      "attachment_key": "DQ5C86TF",
+      "file": "fig_1_DQ5C86TF.png",
       "tags": [
         "unread"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
+      "materials": [],
       "methods": []
     },
     {
       "fig_number": "2",
-      "title": "不同多铁机制的极化强度比较",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "Figure 2 | Types of single-phase multiferroic materials with their maximum  polarization values. Ferroelectricity may be driven by electronic lone pairs, charge  ordering, geometry and magnetism. BiFeO3 displays the largest spontaneous  polarization (relaxed, Ps ≈ 100 μC cm−2; strained, Ps ≤ 150 μC cm−2)17. The polarization of  LuFe2O4 (25 μC cm−2)29 is still controversial. Hexagonal (h-) RMnO3 develops a polarization  of about 5.6 μC cm−2 (REF. 23). Among the spin-driven ferroelectrics, symmetr",
       "page": "5",
-      "attachment_key": "YIVNWTVR",
-      "file": "fig_2_YIVNWTVR.png",
+      "attachment_key": "YBF93IC6",
+      "file": "fig_2_YBF93IC6.png",
       "tags": [
         "unread"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
+      "materials": [],
       "methods": []
     },
     {
       "fig_number": "3",
-      "title": "多铁薄膜架构示意",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "Figure 3 | Multiferroic thin-film architectures. a,b | In 3D transfer multiferroics, multiferroicity is a composite effect. In  panel a, the ferroelectric order, P, is coupled to the antiferromagnetic order, m, within a non-composite multiferroic, and  the antiferromagnetic order, in turn, is coupled to the ferromagnetic order, M, of an adjacent constituent via magnetic  exchange, J. In panel b, the magnetoelectric coupling between a piezoelectric and magnetostrictive constituent is  established",
       "page": "7",
-      "attachment_key": "GUS26DYM",
-      "file": "fig_3_GUS26DYM.png",
+      "attachment_key": "53RYW3RI",
+      "file": "fig_3_53RYW3RI.png",
       "tags": [
         "unread"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
+      "materials": [],
       "methods": []
     },
     {
       "fig_number": "4",
-      "title": "I 型与 II 型多铁中的畴壁差异",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "Figure 4 | Domains and domain walls in type I and type II multiferroics. a | In type I multiferroic materials, magnetic  and electric order emerge independently; thus, the respective domain patterns do not have to coincide and domain walls  are either magnetic (blue) or electric (red) in nature. If the domain patterns coincide, a multiferroic domain wall is formed  (orange). The formation of multiferroic domain walls points to a coupling between magnetic and electric order which,  however, is no",
       "page": "8",
-      "attachment_key": "S374DQZI",
-      "file": "fig_4_S374DQZI.png",
+      "attachment_key": "XAGRJUG2",
+      "file": "fig_4_XAGRJUG2.png",
       "tags": [
         "unread"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
+      "materials": [],
       "methods": []
     },
     {
       "fig_number": "5",
-      "title": "铁环极矩与磁单极矩示意",
-      "llm_description": "",
+      "title": "Figure 5",
+      "llm_description": "Figure 5 | Magnetic toroidal moments and monopoles  in crystals. a | Hypothetical unit cell with six spins, Si, at  positions ri defining a toroidal moment, T = ∑i Si × ri, per unit  cell. The spin arrangements of opposite toroidal moments  are shown in the two sketches. b | Ferrotoroidic domain  structure with uniform arrangements of toroidal moments  (represented by the arrows). c | Hypothetical unit cell with \n a magnetic-monopole-like arrangement of six spins. Spin  arrangements of opposite ",
       "page": "9",
-      "attachment_key": "8G6DQ8MN",
-      "file": "fig_5_8G6DQ8MN.png",
+      "attachment_key": "RQV3IESF",
+      "file": "fig_5_RQV3IESF.png",
       "tags": [
         "unread"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
+      "materials": [],
       "methods": []
     },
     {
       "fig_number": "6",
-      "title": "电磁振子（Electromagnon）示意",
-      "llm_description": "",
+      "title": "Figure 6",
+      "llm_description": "Figure 6 | Electromagnons in cycloidal spin structures. Grey arrows represent the  spins, Si, and their collective movement, and circles indicate the corresponding  magnetic easy plane — that is, the plane in which the spins lie. The long-range  modulated spin structure induces a polarization along the z axis according to the  relation P ∝ eij × (Si × Sj), where eij is the unit vector connecting neighbouring spins and Si,j  are the spins at neighbouring sites i and j. a | The spin excitation ind",
       "page": "10",
-      "attachment_key": "7HH7SMN2",
-      "file": "fig_6_7HH7SMN2.png",
+      "attachment_key": "YGJN2WD3",
+      "file": "fig_6_YGJN2WD3.png",
       "tags": [
         "unread"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
+      "materials": [],
       "methods": []
     }
   ],
@@ -97,7 +85,7 @@
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|The evolution of multiferroics|\n|短标题|多铁的演变|\n|作者|[[Manfred Fiebig]]、 [[Thomas Lottermoser]]、 [[Dennis Meier]]、 [[Morgan Trassin]]|\n|期刊名称|[[Nature Reviews Materials]]|\n|DOI|[10.1038/natrevmats.2016.46](https://doi.org/10.1038/natrevmats.2016.46)|\n|存档位置|1319|\n|文库编目|86.2|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/2USFQC4T)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/QRDIKGXL\">Fiebig 等 - 2016 - The evolution of multiferroics</a></li><li><a href=\"zotero://open-pdf/library/items/4TGI7UMZ\">Fiebig 等 - 2016 - The evolution of multiferroics.pdf</a></li></ul>|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|The evolution of multiferroics|\n|短标题|多铁性的演化|\n|作者|[[Manfred Fiebig]]、 [[Thomas Lottermoser]]、 [[Dennis Meier]]、 [[Morgan Trassin]]|\n|期刊名称|[[Nature Reviews Materials]]|\n|DOI|[10.1038/natrevmats.2016.46](https://doi.org/10.1038/natrevmats.2016.46)|\n|存档位置|1319|\n|文库编目|86.2|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/2USFQC4T)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/QRDIKGXL\">Fiebig 等 - 2016 - The evolution of multiferroics</a></li><li><a href=\"zotero://open-pdf/library/items/4TGI7UMZ\">Fiebig 等 - 2016 - The evolution of multiferroics.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],
@@ -105,8 +93,6 @@
   "tags": [
     "unread"
   ],
-  "materials": [
-    "BiFeO3"
-  ],
+  "materials": [],
   "methods": []
 }

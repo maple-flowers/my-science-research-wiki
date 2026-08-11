@@ -4,360 +4,236 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "In2Se3 典型晶相结构信息汇总",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "FIGURE 1 (A) Principles of ferroelectric switching, the direction of polarization always tends to be consistent with the external electric field. (B) The ferroelectric memory card of PlayStation 2. (C) 256 K bit nonvolatile ferroelectric random-access memory (FeRAM) developed by the Ramtron company. (D) 4/8 M bit FeRAM introduced by SK Hynix. (E) Optical image (left) and 3D sketch (right) of BiFeO3 ferroelectric tunnel junction. Reproduced with permission.11 Copyright 2014, AIP Publishing. (F) T",
       "page": "2",
-      "attachment_key": "GHZXG73B",
-      "file": "fig_1_GHZXG73B.png",
+      "attachment_key": "9H7HXTIZ",
+      "file": "fig_1_9H7HXTIZ.png",
       "tags": [
         "unread"
       ],
       "materials": [
-        "HfO2",
-        "BiFeO3",
-        "h-BN",
-        "In2Se3",
-        "graphene"
+        "In2Se3"
       ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "AFM",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "10",
-      "title": "FeFET 器件",
-      "llm_description": "",
+      "title": "Figure 10",
+      "llm_description": "FIGURE 10 Structural and electrical characterizations of 2D In2Se3 FeFET. (A) Schematic diagram of the structure of FeFET, α In2Se3, h-BN, and graphene are vertically aligned from top to bottom. (B) The corresponding optical image of 2D FeFET (scale bar, 10 μm). (C) Transfer characteristic curve of the 2D FeFET device, the evolution of resistance exhibits a butterfly profile with the change of the top-gate voltage. (D) Transfer characteristic curve of the p-doped FeFET, the resistance increases ",
       "page": "15",
-      "attachment_key": "FWJVYYLH",
-      "file": "fig_10_FWJVYYLH.png",
+      "attachment_key": "RHCIIT8B",
+      "file": "fig_10_RHCIIT8B.png",
       "tags": [
         "unread"
       ],
       "materials": [
-        "HfO2",
-        "BiFeO3",
-        "h-BN",
-        "In2Se3",
-        "graphene"
+        "In2Se3"
       ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "AFM",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "11",
-      "title": "FeS-FET / FeCT 型沟道铁电晶体管",
-      "llm_description": "",
+      "title": "Figure 11",
+      "llm_description": "FIGURE 11 Structural and electrical measurements of 2D ferroelectric semiconductor channel field-effect transistors (FeS-FETs) device. (A) Schematics of FeFET (up) and FeS-FET (down), the blue and red arrows are the directions of the spontaneous polarization and the built-in electric field. (B) False-color image and 3D schematic of the 2D α In2Se3 FeS-FET. (C,D) ID–VGS and ID–VDS measurements of FeS-FET with 90 nm SiO2 as the gate insulator. The length and thickness of the α In2Se3 channel are 1",
       "page": "17",
-      "attachment_key": "QWTFD3BN",
-      "file": "fig_11_QWTFD3BN.png",
+      "attachment_key": "DG3N328H",
+      "file": "fig_11_DG3N328H.png",
       "tags": [
         "unread"
       ],
       "materials": [
-        "HfO2",
-        "BiFeO3",
-        "h-BN",
-        "In2Se3",
-        "graphene"
+        "In2Se3"
       ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "AFM",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "12",
-      "title": "FSJ 器件",
-      "llm_description": "",
+      "title": "Figure 12",
+      "llm_description": "FIGURE 12 Structural and electrical measurements of ferroelectric semiconductor junction (FSJ) devices. (A) Schematics of the (left) planar FSJ (p-FSJ) and the (right) crossbar FSJ (c-FSJ). (B) Corresponding false-color image of p-FSJ (left) and c-FSJ (right) in (A). (C,D) Different directions of polarizations controlled by source-to-drain voltage (i.e., p-FSJ) and top-to-bottom electrode (i.e., c-FSJ). (E) ID–VDS curve of the p-FSJ with 57.5 nm thick α-In2Se3, the channel length is 1 μm. (F) I–",
       "page": "18",
-      "attachment_key": "4BD6UUHF",
-      "file": "fig_12_4BD6UUHF.png",
+      "attachment_key": "FEZZVIQJ",
+      "file": "fig_12_FEZZVIQJ.png",
       "tags": [
         "unread"
       ],
       "materials": [
-        "HfO2",
-        "BiFeO3",
-        "h-BN",
-        "In2Se3",
-        "graphene"
+        "In2Se3"
       ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "AFM",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "13",
-      "title": "铁电忆阻器与界面机制",
-      "llm_description": "",
+      "title": "Figure 13",
+      "llm_description": "FIGURE 13 Characterization of resistance switching in ferroelectric memristors based on p-FSJs. (A) Schematic diagram and AFM image of a planar α In2Se3 based memristor. (B,C) I–V curves with rectified and symmetrical properties. OOP PFM phase and contact potential difference mapping of a rectifying device in (D,E) low resistance state and (F,G) high resistance state. Reproduced with permission.99 Copyright 2021, John Wiley and Sons. (H) Band diagrams of four different p-FSJ devices in another r",
       "page": "19",
-      "attachment_key": "YMH7A5SW",
-      "file": "fig_13_YMH7A5SW.png",
+      "attachment_key": "8PVRPTDF",
+      "file": "fig_13_8PVRPTDF.png",
       "tags": [
         "unread"
       ],
       "materials": [
-        "HfO2",
-        "BiFeO3",
-        "h-BN",
-        "In2Se3",
-        "graphene"
+        "In2Se3"
       ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "AFM",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "14",
-      "title": "集成存储与神经计算的 FeCT / 异突触器件",
-      "llm_description": "",
+      "title": "Figure 14",
+      "llm_description": "FIGURE 14 Structural and performance characterizations of 2D ferroelectric semiconductor channel field-effect transistors (FeCTs). (A) Schematic of 2D α In2Se3 FeCT, the neural computing function is controlled by the top gate and the nonvolatile memory function is realized by the global gate. (B) Transfer curves of 2D α In2Se3 FeCT under different global voltages, a maximum memory window of 6 V is achieved within �8 to 8 V scan voltage. (C) Retention performance measurement of 2D α In2Se3 FeCT, ",
       "page": "20",
-      "attachment_key": "HD4LAIPD",
-      "file": "fig_14_HD4LAIPD.png",
+      "attachment_key": "EEI66Y7E",
+      "file": "fig_14_EEI66Y7E.png",
       "tags": [
         "unread"
       ],
       "materials": [
-        "HfO2",
-        "BiFeO3",
-        "h-BN",
-        "In2Se3",
-        "graphene"
+        "In2Se3"
       ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "AFM",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "2",
-      "title": "近10年二维 In2Se3 代表性进展",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "FIGURE 2 The number of papers (A) and citations (B) searched for the keyword “2D In2Se3/two dimensional In2Se3” in the Web of Science database in 2022. (C) Some breakthroughs/representative progresses on 2D In2Se3 ferroelectric material since 2017",
       "page": "3",
-      "attachment_key": "TQR85EFZ",
-      "file": "fig_2_TQR85EFZ.png",
+      "attachment_key": "ITMG2MKC",
+      "file": "fig_2_ITMG2MKC.png",
       "tags": [
         "unread"
       ],
       "materials": [
-        "HfO2",
-        "BiFeO3",
-        "h-BN",
-        "In2Se3",
-        "graphene"
+        "In2Se3"
       ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "AFM",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "3",
-      "title": "二维 In2Se3 不同相的原子结构",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "FIGURE 3 The structures of 2D In2Se3 obtained by first-principles calculations. (A) Top view of the crystal structure of monolayer In2Se3. Each layer of In2Se3 contains only one element, and the atoms in each layer are located at one of the A, B, and C sites. (B) 3D structure of α phase with upward polarization. (C–F) Side and top views of ferroelectric α phase with different polarizations, paraelectric β phase, and distorted β0 phase, respectively. The red and black arrows mark the directions o",
       "page": "5",
-      "attachment_key": "Z2FGJ23G",
-      "file": "fig_3_Z2FGJ23G.png",
+      "attachment_key": "U5LQBVVS",
+      "file": "fig_3_U5LQBVVS.png",
       "tags": [
         "unread"
       ],
       "materials": [
-        "HfO2",
-        "BiFeO3",
-        "h-BN",
-        "In2Se3",
-        "graphene"
+        "In2Se3"
       ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "AFM",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "4",
-      "title": "Mexican-hat 势能面与 βpc 相",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "FIGURE 4 Characterization of 2D β In2Se3 through first-principles calculations. (A) Potential energy surfaces of Se atoms in different layers in the IP direction. (B) Snapshot (left) and the relaxed structure (right) of β phase during the 750 K molecular dynamics (MD). (C) Trajectories of the middle layer Se atoms and the average structure of the β phase during 20-ps MD at 750 K. (D–F) Distribution probabilities of Se atoms in different layers during 20-ps MD at 750 K. Reproduced with permission",
       "page": "6",
-      "attachment_key": "NY6TC6NH",
-      "file": "fig_4_NY6TC6NH.png",
+      "attachment_key": "4ZJWB5XE",
+      "file": "fig_4_4ZJWB5XE.png",
       "tags": [
         "unread"
       ],
       "materials": [
-        "HfO2",
-        "BiFeO3",
-        "h-BN",
-        "In2Se3",
-        "graphene"
+        "In2Se3"
       ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "AFM",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "5",
-      "title": "α-In2Se3 的面外铁电性",
-      "llm_description": "",
+      "title": "Figure 5",
+      "llm_description": "FIGURE 5 Experimental characterization of the OOP polarization of α In2Se3. (A) Atomic force microscopy (AFM) image of &gt;100 nm thick α In2Se3 flake prepared by mechanical exfoliation (scale bar, 1 μm). (B) The OOP piezoresponse force microscopy (PFM) phase image and (C) the corresponding amplitude image, domains with a phase difference of 180�represent opposite polarizations (scale bar, 1 μm). (D–F) AFM image, OOP PFM phase and amplitude images of thinner α In2Se3 with thickness range from 3 ",
       "page": "8",
-      "attachment_key": "2RFAGFAV",
-      "file": "fig_5_2RFAGFAV.png",
+      "attachment_key": "QAXWEFGG",
+      "file": "fig_5_QAXWEFGG.png",
       "tags": [
         "unread"
       ],
       "materials": [
-        "HfO2",
-        "BiFeO3",
-        "h-BN",
-        "In2Se3",
-        "graphene"
+        "In2Se3"
       ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "AFM",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "6",
-      "title": "α-In2Se3 的面内铁电性与极化耦合",
-      "llm_description": "",
+      "title": "Figure 6",
+      "llm_description": "FIGURE 6 Experimental characterization of the IP polarization of 2D α In2Se3 by PFM and second-harmonic generation (SHG). (A) AFM images of 2–6.1 nm thick α In2Se3 flake (scale bar, 1 μm). (B,C) The corresponding IP PFM amplitude and phase images. (D) The evolution of the IP PFM phase with the thickness/layer of the flake. Reproduced with permission.49 Copyright 2018, American Chemical Society. (E) SHG mapping of 3 nm thick α In2Se3, the strength of the SHG signal represents the strength of the ",
       "page": "9",
-      "attachment_key": "PMTKCKGK",
-      "file": "fig_6_PMTKCKGK.png",
+      "attachment_key": "SCLIAXEC",
+      "file": "fig_6_SCLIAXEC.png",
       "tags": [
         "unread"
       ],
       "materials": [
-        "HfO2",
-        "BiFeO3",
-        "h-BN",
-        "In2Se3",
-        "graphene"
+        "In2Se3"
       ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "AFM",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "7",
-      "title": "β0-In2Se3 的面内铁电性与相变",
-      "llm_description": "",
+      "title": "Figure 7",
+      "llm_description": "FIGURE 7 Characterization of the IP polarization and ferroelectric transition of β0 In2Se3. (A) Bright-field low-energy electron microscopy (LEEM) image of β0 In2Se3 (scale bar, 1.5 μm). (B) Micro-low-energy electron diffraction (μ-LEED) patterns of the three domains marked by blue, green, and yellow dots in (A). (C) Diffraction intensity curve between (�1,0) and (0,�1) subspots in (B). (D) LEEM image of a 1.9 μm width domain at room temperature (scale bar, 1 μm). (E) Evolution of the domain in ",
       "page": "10",
-      "attachment_key": "5ANK6NVK",
-      "file": "fig_7_5ANK6NVK.png",
+      "attachment_key": "S9QJBHDI",
+      "file": "fig_7_S9QJBHDI.png",
       "tags": [
         "unread"
       ],
       "materials": [
-        "HfO2",
-        "BiFeO3",
-        "h-BN",
-        "In2Se3",
-        "graphene"
+        "In2Se3"
       ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "AFM",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "8",
-      "title": "极化翻转路径与能垒",
-      "llm_description": "",
+      "title": "Figure 8",
+      "llm_description": "FIGURE 8 Pathways and energy barriers for the polarization reversal process in 2D α In2Se3. (A) The middle layer Se atom moves directly from the downwardly polarized site to the upwardly polarized site, and the other four atoms remain fixed. The energy barrier for the transition is 0.85 eV per unit cell. (B) Another energetically favorable three-step concerted reversal mechanism. The activation barrier is effectively reduced to 0.066 eV per unit cell. Reproduced with permission.45 Copyright 2017",
       "page": "12",
-      "attachment_key": "3L3MRR6D",
-      "file": "fig_8_3L3MRR6D.png",
+      "attachment_key": "EC7NT7IT",
+      "file": "fig_8_EC7NT7IT.png",
       "tags": [
         "unread"
       ],
       "materials": [
-        "HfO2",
-        "BiFeO3",
-        "h-BN",
-        "In2Se3",
-        "graphene"
+        "In2Se3"
       ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "AFM",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "9",
-      "title": "MD 模拟的 α→β 转变",
-      "llm_description": "",
+      "title": "Figure 9",
+      "llm_description": "FIGURE 9 Molecular dynamics (MD) simulation of the transition from ferroelectric to paraelectric in 2D In2Se3 induced by shear phonon mode. (A) Initial and (B) final atomic structure of the 4-ps MD simulation at 750 K. (C) Schematic diagram of the shear phonon mode that triggers the ferroelectric transition of the α phase. (D,E) The displacements of atoms in different layers along the x and y directions during the 4-ps simulation. (F) Projection of atomic displacements on 12 optical phonon modes",
       "page": "14",
-      "attachment_key": "2BX5M8L4",
-      "file": "fig_9_2BX5M8L4.png",
+      "attachment_key": "EZYL86NC",
+      "file": "fig_9_EZYL86NC.png",
       "tags": [
         "unread"
       ],
       "materials": [
-        "HfO2",
-        "BiFeO3",
-        "h-BN",
-        "In2Se3",
-        "graphene"
+        "In2Se3"
       ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "AFM",
-        "Raman"
-      ]
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "TABLE 1 Crystal structures and ferroelectricity of In2Se3\n\nAbbreviations: IP, in-plane; OOP, out-of-plane.",
+      "page": "7",
+      "attachment_key": "SP3AHJU5",
+      "file": "tab_1_SP3AHJU5.png"
+    },
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "TABLE 2 (Continued)\n\nAbbreviations: AFM, atomic force microscopy; DFT, density-functional theory; FeCT, ferroelectric channel field-effect transistor; FeFET, ferroelectric field-effect transistor; FeS-FET, ferroelectric semiconductor channel field-effect transistor; FSJ, ferroelectric semiconductor junction; IP, in-plane; KPFM, Kelvin probe force microscopy; LEEM, low-energy electron microscopy; OOP, out-of-plane; PFM, piezoelectric force microscopy; SHG, second-harmonic generation; STM, scannin",
+      "page": "22",
+      "attachment_key": "XTMKYV3D",
+      "file": "tab_2_XTMKYV3D.png"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Two‐dimensional In<sub>2</sub>Se<sub>3</sub>: A rising advanced material for ferroelectric data storage|\n|短标题|二维In2Se3：铁电数据存储的新兴先进材料|\n|作者|[[Yu‐Ting Huang]]、 [[Nian‐Ke Chen]]、 [[Zhen‐Ze Li]]、 [[Xue‐Peng Wang]]、 [[Hong‐Bo Sun]]、 [[Shengbai Zhang]]、 [[Xian‐Bin Li]]|\n|期刊名称|[[InfoMat]]|\n|DOI|[10.1002/inf2.12341](https://doi.org/10.1002/inf2.12341)|\n|存档位置|121|\n|文库编目|22.3|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/8JTYSH4R)|\n|PDF 附件|[Huang 等 - 2022 - Two‐dimensional In2Se3  A rising advanced material for ferroelectric data storage.pdf](zotero://open-pdf/library/items/BFBDUBBM)|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Two‐dimensional In<sub>2</sub>Se<sub>3</sub>: A rising advanced material for ferroelectric data storage|\n|短标题|二维In‐Se‐Se‐Se‐Se‐Se‐Se‐Se‐Se‐Se‐Se‐Se‐Se‐Se‐Se‐Se‐Se|\n|作者|[[Yu‐Ting Huang]]、 [[Nian‐Ke Chen]]、 [[Zhen‐Ze Li]]、 [[Xue‐Peng Wang]]、 [[Hong‐Bo Sun]]、 [[Shengbai Zhang]]、 [[Xian‐Bin Li]]|\n|期刊名称|[[InfoMat]]|\n|DOI|[10.1002/inf2.12341](https://doi.org/10.1002/inf2.12341)|\n|存档位置|121|\n|文库编目|22.3|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/8JTYSH4R)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/BFBDUBBM)|\n|关联文献||",
       "page": "-"
     }
   ],
@@ -366,17 +242,7 @@
     "unread"
   ],
   "materials": [
-    "HfO2",
-    "BiFeO3",
-    "h-BN",
-    "In2Se3",
-    "graphene"
+    "In2Se3"
   ],
-  "methods": [
-    "PFM",
-    "first-principles",
-    "STEM",
-    "AFM",
-    "Raman"
-  ]
+  "methods": []
 }

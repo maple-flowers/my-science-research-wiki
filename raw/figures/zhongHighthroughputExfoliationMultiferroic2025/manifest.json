@@ -5,10 +5,10 @@
     {
       "fig_number": "1",
       "title": "Figure 1",
-      "llm_description": "c Maximally localized Wannier functions (isosurface is set as 1:8 e=A3) illustrating the orbitals involved in intralayer exchange interactions, with arrows indicating Os-O orbital hybridization. The B1 �B1 super-exchange pathway is mediated by Os dx2�y2 and O Px=y orbitals, whereas the E �E pathway ",
+      "llm_description": "c Maximally localized Wannier functions (isosurface is set as 1:8 e=A3) illustrating the orbitals involved in intralayer exchange interactions, with arrows indicating Os-O orbital hybridization. The B1 �B1 super-exchange pathway is mediated by Os dx2�y2 and O Px=y orbitals, whereas the E �E pathway involves Os dxz=yz and O Pz orbitals.",
       "page": "4",
-      "attachment_key": "TZ2HCK46",
-      "file": "fig_1_TZ2HCK46.png",
+      "attachment_key": "VBUYWAI7",
+      "file": "fig_1_VBUYWAI7.png",
       "tags": [
         "unread"
       ],
@@ -18,10 +18,10 @@
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "interlocked electronic and spin properties. The electronic characteristics and sta-bility of the selected candidates are further assessed through DFT calculations. b Exfoliation energy curve for the SrOsO3 monolayer. c Exfoliation energies and band gaps for the screened multiferroic ABO3 monolayers,",
+      "llm_description": "Fig. 3 | Phase-interlocked band structure and spin characteristics in ABO3 monolayers. a Electronic band structures (HSE06 + SOC) for the SrOsO3 and SrIrO3 monolayers, highlighting the spin-splitting band ordering exchange and semiconductor−to−spin-polarized metal transition behaviour. The red and blue lines, accompanied with up and down arrows, denote the spin-up and spin-down",
       "page": "5",
-      "attachment_key": "P52UFYFY",
-      "file": "fig_3_P52UFYFY.png",
+      "attachment_key": "D9Z5WUU3",
+      "file": "fig_3_D9Z5WUU3.png",
       "tags": [
         "unread"
       ],
@@ -31,10 +31,10 @@
     {
       "fig_number": "4",
       "title": "Figure 4",
-      "llm_description": "Fig. 4 | Modulation of phase transition via strain in ABO3 monolayers. a Potential energy diagrams for the P4mm and P4bm phases, where the energy of the P4bm phase exceeds that of the P4mm phase under an external field, thereby flipping the potential and inducing the phase transition. b, c Crystal b",
+      "llm_description": "Fig. 4 | Modulation of phase transition via strain in ABO3 monolayers. a Potential energy diagrams for the P4mm and P4bm phases, where the energy of the P4bm phase exceeds that of the P4mm phase under an external field, thereby flipping the potential and inducing the phase transition. b, c Crystal bonding network of SrOsO3 monolayer, illustrating both out-of-plane and in-plane Os-O bond lengths (d1 and d), along with the twist angle (θ) of the Os-O pentahedron as functions of in-plane biaxial st",
       "page": "7",
-      "attachment_key": "6Z94E7TP",
-      "file": "fig_4_6Z94E7TP.png",
+      "attachment_key": "ABKMCTN8",
+      "file": "fig_4_ABKMCTN8.png",
       "tags": [
         "unread"
       ],
@@ -44,13 +44,66 @@
   ],
   "tables": [
     {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">ABO3 monolayers</th>\n<th style=\"text-align:left\">a</th>\n<th style=\"text-align:left\">b</th>\n<th style=\"text-align:left\">Symmetry</th>\n<th style=\"text-align:left\">Magnetic moment</th>\n<th style=\"text-align:left\">TN/TC</th>\n<th style=\"text-align:left\">Critical strain</th>\n<th style=\"text-align:left\">Phase transition</th>\n<th style=\"text-align:left\">Phase-interlocked properties</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">SrIrO3</td>\n<td style=\"text-align:left\">5.45</td>\n<td style=\"text-align:left\">5.27</td>\n<td style=\"text-align:left\">Pc</td>\n<td style=\"text-align:left\">0.507 (Ir)</td>\n<td style=\"text-align:left\">135</td>\n<td style=\"text-align:left\">a-axis compress 3.5%</td>\n<td style=\"text-align:left\">Pc (AFM)→ P4bm (FM)</td>\n<td style=\"text-align:left\">Switch between semiconductor (Eg = 1:14 eV) to spin-polarized metal</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">SrOsO3</td>\n<td style=\"text-align:left\">5.45</td>\n<td style=\"text-align:left\">5.45</td>\n<td style=\"text-align:left\">P4mm</td>\n<td style=\"text-align:left\">1.646 (Os)</td>\n<td style=\"text-align:left\">300</td>\n<td style=\"text-align:left\">ab-biaxial compress 1%</td>\n<td style=\"text-align:left\">P4mm (AFM)→ P4bm (AFM)</td>\n<td style=\"text-align:left\">Band ordering rearrangement near VBM from spin splitting ( ~ 0.61 eV) to spin degeneration</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">SrMoO3</td>\n<td style=\"text-align:left\">5.52</td>\n<td style=\"text-align:left\">5.52</td>\n<td style=\"text-align:left\">P4mm</td>\n<td style=\"text-align:left\">1.386 (Mo)</td>\n<td style=\"text-align:left\">315</td>\n<td style=\"text-align:left\">a-axis stretch 0.7% b-axis compress 2.7%</td>\n<td style=\"text-align:left\">P4mm (AFM)→Pc (AFM)</td>\n<td style=\"text-align:left\">Switch between semiconductor (Eg = 0:19 eV) to spin-polarized metal</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">BiFeO3</td>\n<td style=\"text-align:left\">5.49</td>\n<td style=\"text-align:left\">5.37</td>\n<td style=\"text-align:left\">Pc</td>\n<td style=\"text-align:left\">4.082 (Fe)</td>\n<td style=\"text-align:left\">280</td>\n<td style=\"text-align:left\">a-axis compress 4% b-axis compress 3%</td>\n<td style=\"text-align:left\">Pc (AFM) → P4mm (FM)</td>\n<td style=\"text-align:left\">Reduced Eg (from 3.31 to 0.60 eV) and enhanced spin polarization near the band edge</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">ABO3单层</th>\n<th style=\"text-align:left\">a</th>\n<th style=\"text-align:left\">b</th>\n<th style=\"text-align:left\">对称性</th>\n<th style=\"text-align:left\">磁矩 (μB)</th>\n<th style=\"text-align:left\">TN/TC (K)</th>\n<th style=\"text-align:left\">临界应变</th>\n<th style=\"text-align:left\">相变</th>\n<th style=\"text-align:left\">相-关联特性</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">SrIrO3</td>\n<td style=\"text-align:left\">5.45</td>\n<td style=\"text-align:left\">5.27</td>\n<td style=\"text-align:left\">Pc</td>\n<td style=\"text-align:left\">0.507 (Ir)</td>\n<td style=\"text-align:left\">135</td>\n<td style=\"text-align:left\">a轴压缩 3.5%</td>\n<td style=\"text-align:left\">Pc (AFM)→ P4bm (FM)</td>\n<td style=\"text-align:left\">半导体 (Eg = 1.14 eV) 与自旋极化金属之间的切换</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">SrOsO3</td>\n<td style=\"text-align:left\">5.45</td>\n<td style=\"text-align:left\">5.45</td>\n<td style=\"text-align:left\">P4mm</td>\n<td style=\"text-align:left\">1.646 (Os)</td>\n<td style=\"text-align:left\">300</td>\n<td style=\"text-align:left\">ab双轴压缩 1%</td>\n<td style=\"text-align:left\">P4mm (AFM)→ P4bm (AFM)</td>\n<td style=\"text-align:left\">VBM附近能带排序从自旋劈裂(~0.61 eV)重排为自旋简并</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">SrMoO3</td>\n<td style=\"text-align:left\">5.52</td>\n<td style=\"text-align:left\">5.52</td>\n<td style=\"text-align:left\">P4mm</td>\n<td style=\"text-align:left\">1.386 (Mo)</td>\n<td style=\"text-align:left\">315</td>\n<td style=\"text-align:left\">a轴拉伸 0.7% b轴压缩 2.7%</td>\n<td style=\"text-align:left\">P4mm (AFM)→Pc (AFM)</td>\n<td style=\"text-align:left\">半导体 (Eg = 0.19 eV) 与自旋极化金属之间的切换</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">BiFeO3</td>\n<td style=\"text-align:left\">5.49</td>\n<td style=\"text-align:left\">5.37</td>\n<td style=\"text-align:left\">Pc</td>\n<td style=\"text-align:left\">4.082 (Fe)</td>\n<td style=\"text-align:left\">280</td>\n<td style=\"text-align:left\">a轴压缩 4% b轴压缩 3%</td>\n<td style=\"text-align:left\">Pc (AFM) → P4mm (FM)</td>\n<td style=\"text-align:left\">带隙减小 (从3.31到0.60 eV) 且带边附近自旋极化增强</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
       "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperature and giant spin splitting|\n|短标题|具有高转变温度和巨自旋分裂的多铁三元氧化物单分子膜的高通量剥离|\n|作者|[[Yongle Zhong]]、 [[Yuxiang Xiao]]、 [[Zhengfang Qian]]、 [[Wen Xiong]]、 [[Pu Huang]]|\n|期刊名称|[[npj Computational Materials]]|\n|DOI|[10.1038/s41524-025-01867-0](https://doi.org/10.1038/s41524-025-01867-0)|\n|存档位置||\n|文库编目|11.9|\n|索书号|1|\n|版权||\n|分类|[[03_二维铁电与滑动铁电 (2D/Sliding Ferroelectricity)]]|\n|条目链接|[My Library](zotero://select/library/items/9Q2N2BM4)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/T76YPXFH\">Zhong 等 - 2025 - High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperatur</a></li><li><a href=\"zotero://open-pdf/library/items/683IR2A9\">Zhong 等 - 2025 - High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperatur.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/JRKFHZ7J\">Zhong 等 - 2025 - High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperatur.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "ð1Þ",
+      "page": "8",
+      "attachment_key": "V7P47HW7",
+      "file": "eq_1_V7P47HW7.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "ð2Þ",
+      "page": "8",
+      "attachment_key": "RTSAUWAA",
+      "file": "eq_2_RTSAUWAA.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "ð3Þ",
+      "page": "8",
+      "attachment_key": "HFYN8N2W",
+      "file": "eq_3_HFYN8N2W.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "ð4Þ",
+      "page": "8",
+      "attachment_key": "RIHQZJF6",
+      "file": "eq_4_RIHQZJF6.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "ð5Þ",
+      "page": "8",
+      "attachment_key": "4G2LJYRT",
+      "file": "eq_5_4G2LJYRT.png"
+    }
+  ],
   "tags": [
     "unread"
   ],

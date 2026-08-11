@@ -5,141 +5,113 @@
     {
       "fig_number": "1",
       "title": "Figure 1",
-      "llm_description": "FIG. 1. (a) Atomic structures of monolayer In2NO2 with two polarization states of -P (upper) and þP (lower). The gray arrow represents the polarization direction. (b) Band structure of monolayer In2NO2 without (w/o) and with (w) spin–orbit coupling (SOC). (c) Differential charge density of monolayer",
+      "llm_description": "FIG. 1. (a) Atomic structures of monolayer In2NO2 with two polarization states of -P (upper) and þP (lower). The gray arrow represents the polarization direction. (b) Band structure of monolayer In2NO2 without (w/o) and with (w) spin–orbit coupling (SOC). (c) Differential charge density of monolayer In2NO2. Yellow and cyan iso-surfaces (0.007 e bohr�3) represent charge accumulation and depletion regions, respectively. (d) Total density of states (TDOS) of the monolayer In2NO2, and projected dens",
       "page": "3",
-      "attachment_key": "LK3ZTIPY",
-      "file": "fig_1_LK3ZTIPY.png",
+      "attachment_key": "7FXHGJ8M",
+      "file": "fig_1_7FXHGJ8M.png",
       "tags": [
+        "unread",
+        "参考文献-layer",
         "Done"
       ],
       "materials": [
-        "WS2",
-        "In2Se3",
-        "MoSe2",
-        "MoS2"
+        "In2NO2"
       ],
-      "methods": [
-        "TEM",
-        "DFT",
-        "first-principles",
-        "STM"
-      ]
+      "methods": []
     },
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "FIG. 2. (a) Atomic-resolved spin–orbit coupling energy difference (DESOC) for each atom in monolayer In2NO2. (b) Topological spin textures with magnetic field of 0 T (upper) and 1 T (lower) at a temperature of 0 K. (c) Spin direction at each position (left) and schematic diagram of Dzyaloshinskii–Mo",
+      "llm_description": "FIG. 2. (a) Atomic-resolved spin–orbit coupling energy difference (DESOC) for each atom in monolayer In2NO2. (b) Topological spin textures with magnetic field of 0 T (upper) and 1 T (lower) at a temperature of 0 K. (c) Spin direction at each position (left) and schematic diagram of Dzyaloshinskii–Moriya interaction directions for the �P and þP states (right).",
       "page": "4",
-      "attachment_key": "X8R2EWMM",
-      "file": "fig_2_X8R2EWMM.png",
+      "attachment_key": "QZWY2VAA",
+      "file": "fig_2_QZWY2VAA.png",
       "tags": [
+        "unread",
+        "参考文献-layer",
         "Done"
       ],
       "materials": [
-        "WS2",
-        "In2Se3",
-        "MoSe2",
-        "MoS2"
+        "In2NO2"
       ],
-      "methods": [
-        "TEM",
-        "DFT",
-        "first-principles",
-        "STM"
-      ]
+      "methods": []
     },
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "FIG. 3. (a) Evolution of the topological spin texture under an out-of-plane external magnetic field Bz at 0 K. (b) Relationship between magnetic topological charge of skyrmions and temperature under a Bz of 2 T. (c) Evolution of the topological spin texture under an in-plane external magnetic field ",
+      "llm_description": "FIG. 3. (a) Evolution of the topological spin texture under an out-of-plane external magnetic field Bz at 0 K. (b) Relationship between magnetic topological charge of skyrmions and temperature under a Bz of 2 T. (c) Evolution of the topological spin texture under an in-plane external magnetic field Bx at 0 K. (d) Relationship between magnetic topologi-cal charge of bimerons and temperature under a Bx of 2 T.",
       "page": "5",
-      "attachment_key": "NLXSRWKV",
-      "file": "fig_3_NLXSRWKV.png",
+      "attachment_key": "UYVUXL8I",
+      "file": "fig_3_UYVUXL8I.png",
       "tags": [
+        "unread",
+        "参考文献-layer",
         "Done"
       ],
       "materials": [
-        "WS2",
-        "In2Se3",
-        "MoSe2",
-        "MoS2"
+        "In2NO2"
       ],
-      "methods": [
-        "TEM",
-        "DFT",
-        "first-principles",
-        "STM"
-      ]
+      "methods": []
     },
     {
       "fig_number": "4",
       "title": "Figure 4",
-      "llm_description": "FIG. 4. (a) Dependence of isotropic Heisenberg exchange interaction J and Dzyaloshinskii–Moriya interaction dk on biaxial strain. The inset shows the variation of jdk/Jj with biaxial strain. (b) Dependence of single-ion anisotropy on biaxial strain. The inset displays the evolution of magnetocrystal",
+      "llm_description": "FIG. 4. (a) Dependence of isotropic Heisenberg exchange interaction J and Dzyaloshinskii–Moriya interaction dk on biaxial strain. The inset shows the variation of jdk/Jj with biaxial strain. (b) Dependence of single-ion anisotropy on biaxial strain. The inset displays the evolution of magnetocrystalline anisotropy KMCA and magnetoshape anisotropy KMSA with biaxial strain. Evolution of the topological spin texture under varying (c) out-of-plane magnetic field and (d) in-plane magnetic field and a",
       "page": "6",
-      "attachment_key": "JYPF3KWN",
-      "file": "fig_4_JYPF3KWN.png",
+      "attachment_key": "R8KDU8IB",
+      "file": "fig_4_R8KDU8IB.png",
       "tags": [
+        "unread",
+        "参考文献-layer",
         "Done"
       ],
       "materials": [
-        "WS2",
-        "In2Se3",
-        "MoSe2",
-        "MoS2"
+        "In2NO2"
       ],
-      "methods": [
-        "TEM",
-        "DFT",
-        "first-principles",
-        "STM"
-      ]
+      "methods": []
     },
     {
       "fig_number": "5",
       "title": "Figure 5",
-      "llm_description": "FIG. 5. (a) Structure of In2NO2/MoSe2 heterostructure with �P and þP states. (b) Differential charge density of In2NO2/MoSe2 heterostructure with �P and þP states. Yellow and cyan iso-surfaces (0.000 28 e bohr�3) represent charge accumulation and depletion regions, respectively. Topological charge Q",
+      "llm_description": "FIG. 5. (a) Structure of In2NO2/MoSe2 heterostructure with �P and þP states. (b) Differential charge density of In2NO2/MoSe2 heterostructure with �P and þP states. Yellow and cyan iso-surfaces (0.000 28 e bohr�3) represent charge accumulation and depletion regions, respectively. Topological charge Q of In2NO2/MoSe2 heterostructure with (c) �P state and (d) þP state as functions of out-of-plane magnetic field. The green and pink regions correspond to the binary state “0” with Q ¼ 0 and the binary",
       "page": "7",
-      "attachment_key": "8FY2BLPN",
-      "file": "fig_5_8FY2BLPN.png",
+      "attachment_key": "GYG5QB2H",
+      "file": "fig_5_GYG5QB2H.png",
       "tags": [
+        "unread",
+        "参考文献-layer",
         "Done"
       ],
       "materials": [
-        "WS2",
-        "In2Se3",
-        "MoSe2",
-        "MoS2"
+        "In2NO2"
       ],
-      "methods": [
-        "TEM",
-        "DFT",
-        "first-principles",
-        "STM"
-      ]
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "TABLE II. Magnetic coupling parameters of the In2NO2/MoSe2 heterostructure.",
+      "page": "7",
+      "attachment_key": "6CDFIS37",
+      "file": "tab_2_6CDFIS37.png"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Tunable d0 topological magnetic states in multiferroic monolayer In2NO2|\n|短标题|多铁单层In2NO2中的可调谐d0拓扑磁态|\n|作者|[[Fei Wang]]、 [[Li Deng]]、 [[Yanzhao Wu]]、 [[Xiang Yin]]、 [[Junwei Tong]]、 [[Xianmin Zhang]]|\n|期刊名称|[[Applied Physics Letters]]|\n|DOI|[10.1063/5.0282076](https://doi.org/10.1063/5.0282076)|\n|存档位置|1|\n|文库编目|3.8|\n|索书号|3|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/M8QIGEEB)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/HWA3YDIU)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Tunable d0 topological magnetic states in multiferroic monolayer In2NO2|\n|短标题|In2NO2多铁性单层膜中可调d0拓扑磁态|\n|作者|[[Fei Wang]]、 [[Li Deng]]、 [[Yanzhao Wu]]、 [[Xiang Yin]]、 [[Junwei Tong]]、 [[Xianmin Zhang]]|\n|期刊名称|[[Applied Physics Letters]]|\n|DOI|[10.1063/5.0282076](https://doi.org/10.1063/5.0282076)|\n|存档位置|1|\n|文库编目|3.8|\n|索书号|3|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]、[[03_二维铁电与滑动铁电 (2D/Sliding Ferroelectricity)]]|\n|条目链接|[My Library](zotero://select/library/items/M8QIGEEB)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/HWA3YDIU)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
   "formulas": [],
   "tags": [
+    "unread",
+    "参考文献-layer",
     "Done"
   ],
   "materials": [
-    "WS2",
-    "In2Se3",
-    "MoSe2",
-    "MoS2"
+    "In2NO2"
   ],
-  "methods": [
-    "TEM",
-    "DFT",
-    "first-principles",
-    "STM"
-  ]
+  "methods": []
 }

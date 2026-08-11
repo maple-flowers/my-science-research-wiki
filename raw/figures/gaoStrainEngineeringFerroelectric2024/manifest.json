@@ -4,72 +4,89 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "结构与相变 (结构的几何与能量关系)",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. Top view and side view of (a) PE b-In2Se3 and (b) three orientation variants of FE b0-In2Se3, FE-P0�, FE-P60�, and FE-P120�. The red arrows indicate the polarization direction, which is opposite to the movement of central Se atoms. (c) Top view of different FE orientations. Polarization at different angles refers to the angle between the polari-zation direction and horizontal x-axis.",
       "page": "4",
-      "attachment_key": "5DW4YN3K",
-      "file": "fig_1_5DW4YN3K.png",
+      "attachment_key": "24Y2WQCH",
+      "file": "fig_1_24Y2WQCH.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "FIG. 2. (a) Energy difference of the three oriented variants under x-direction uniaxial strain. (b) Polarization values of FE-P60�and FE-P0�under x-direction uniaxial strain. (c) The energy barrier for FE switching under different tensile strain. The initial and final configurations are FE-P60�and F",
+      "llm_description": "FIG. 2. (a) Energy difference of the three oriented variants under x-direction uniaxial strain. (b) Polarization values of FE-P60�and FE-P0�under x-direction uniaxial strain. (c) The energy barrier for FE switching under different tensile strain. The initial and final configurations are FE-P60�and FE-P0�variants, respectively. (d) Evolution process of FE-P60�structure under x-direction uniaxial strain, corresponding to P60�curve in (a).",
       "page": "4",
-      "attachment_key": "YCQ8A8QQ",
-      "file": "fig_2_YCQ8A8QQ.png",
+      "attachment_key": "IN5TJMNF",
+      "file": "fig_2_IN5TJMNF.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "4",
       "title": "Figure 4",
-      "llm_description": "FIG. 4. Strain tuning of domain configurations. (a) The structural evolution of 60�DW superstructure under the tensile strain of (a) 3% along the y direction and (b) 4% strain along a direction. (c) The structural evolution of 180�DW superstructure under the tensile strain of (c) 4% along the x dire",
+      "llm_description": "FIG. 4. Strain tuning of domain configurations. (a) The structural evolution of 60�DW superstructure under the tensile strain of (a) 3% along the y direction and (b) 4% strain along a direction. (c) The structural evolution of 180�DW superstructure under the tensile strain of (c) 4% along the x direction and (d) 4% and 5% along a direction. The red and blue arrows in the images represent polarization directions.",
       "page": "6",
-      "attachment_key": "MCQY9SWG",
-      "file": "fig_4_MCQY9SWG.png",
+      "attachment_key": "TABIBKCU",
+      "file": "fig_4_TABIBKCU.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Strain engineering of ferroelectric polarization and domain in the two-dimensional multiferroic semiconductor|\n|短标题|二维多铁性半导体中铁电极化和畴的应变工程|\n|作者|[[Lijing Gao]]、 [[Xiaofang Chen]]、 [[Jingshan Qi]]|\n|期刊名称|[[Applied Physics Letters]]|\n|DOI|[10.1063/5.0239890](https://doi.org/10.1063/5.0239890)|\n|存档位置|1|\n|文库编目|3.8|\n|索书号|3|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/MW64GHEG)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/CKS2WVJ5)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Strain engineering of ferroelectric polarization and domain in the two-dimensional multiferroic semiconductor|\n|短标题|二维多铁半导体中铁电极化和畴的应变工程|\n|作者|[[Lijing Gao]]、 [[Xiaofang Chen]]、 [[Jingshan Qi]]|\n|期刊名称|[[Applied Physics Letters]]|\n|DOI|[10.1063/5.0239890](https://doi.org/10.1063/5.0239890)|\n|存档位置|1|\n|文库编目|3.8|\n|索书号|3|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/MW64GHEG)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/CKS2WVJ5)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "3",
+      "attachment_key": "8LY7GLV9",
+      "file": "eq_1_8LY7GLV9.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "3",
+      "attachment_key": "VYQ8NWNX",
+      "file": "eq_2_VYQ8NWNX.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(3)",
+      "page": "3",
+      "attachment_key": "QGZE4SD7",
+      "file": "eq_3_QGZE4SD7.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4)",
+      "page": "3",
+      "attachment_key": "DGN4M7N8",
+      "file": "eq_4_DGN4M7N8.png"
+    }
+  ],
   "tags": [
     "Done"
   ],
-  "materials": [
-    "In2Se3"
-  ],
-  "methods": [
-    "DFT"
-  ]
+  "materials": [],
+  "methods": []
 }

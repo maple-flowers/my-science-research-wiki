@@ -4,327 +4,284 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "紧束缚参数（eV）——BiMnO3、LaMnO3、YMnO3 的基础拟合",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "Figure 1. Ordering of the magnetic dipoles in magnetic materials.",
       "page": "2",
-      "attachment_key": "RLTH4P3B",
-      "file": "fig_1_RLTH4P3B.png",
+      "attachment_key": "IBXL696E",
+      "file": "fig_1_IBXL696E.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "10",
-      "title": "仅含 Mn/O 轨道的紧束缚拟合与从头计算比较",
-      "llm_description": "",
+      "title": "Figure 10",
+      "llm_description": "Figure 10. Comparison of ab initio ∆1 bands with those obtained from a tight-binding fit using only Mn and O orbitals in the basis. The fit for LaMnO3 is good, indicating that only the Mn and O ions are significantly involved in covalent bonding. The fit for BiMnO3 has a higher RMS deviation and, in particular, misses the additional curvature at around -3 eV near the X point. This shows that additional interactions are present.",
       "page": "9",
-      "attachment_key": "FEC3XWEX",
-      "file": "fig_10_FEC3XWEX.png",
+      "attachment_key": "YF7NY83P",
+      "file": "fig_10_YF7NY83P.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "11",
-      "title": "加入 Bi 6s/6p 后的紧束缚拟合",
-      "llm_description": "",
+      "title": "Figure 11",
+      "llm_description": "Figure 11. Comparison of ab initio ∆1 bands with those obtained from a tight-binding fit including Bi 6s and 6p orbitals in addition to Mn 3d and O 2s and 2p. The fit is improved over the fit using only Mn and O orbitals.",
       "page": "9",
-      "attachment_key": "ILTPQ9I7",
-      "file": "fig_11_ILTPQ9I7.png",
+      "attachment_key": "HSHQJEE8",
+      "file": "fig_11_HSHQJEE8.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "12",
-      "title": "立方铁磁 LaMnO3 与 BiMnO3 的自旋分辨 DOS",
-      "llm_description": "",
+      "title": "Figure 12",
+      "llm_description": "Figure 12. Calculated densities of states for cubic ferromagnetic LaMnO3 and BiMnO3.",
       "page": "10",
-      "attachment_key": "4YWX74XP",
-      "file": "fig_12_4YWX74XP.png",
+      "attachment_key": "8EBRM8X3",
+      "file": "fig_12_8EBRM8X3.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "13",
-      "title": "立方铁磁 LaMnO3 与 BiMnO3 的自旋分辨能带结构",
-      "llm_description": "",
+      "title": "Figure 13",
+      "llm_description": "Figure 13. Up- and down-spin band structures for cubic LaMnO3 and BiMnO3 along the high-symmetry axes of the Brillouin zone.",
       "page": "11",
-      "attachment_key": "KH69TJ29",
-      "file": "fig_13_KH69TJ29.png",
+      "attachment_key": "N92KZA4L",
+      "file": "fig_13_N92KZA4L.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "14",
-      "title": "不稳定声子模本征矢",
-      "llm_description": "",
+      "title": "Figure 14",
+      "llm_description": "Figure 14. (a) Eigenvector of the unstable ferroelectric Γ point phonon mode in BiMnO3. The Mn ion is at the center of the unit cell surrounded by an octahedra of oxygens, with the large cations at the unit cell corners. (b) Nonferroelectric mode that is unstable in LaMnO3. Each mode is 3-fold degenerate.",
       "page": "11",
-      "attachment_key": "H8CBDCPW",
-      "file": "fig_14_H8CBDCPW.png",
+      "attachment_key": "5IHZ4TQ3",
+      "file": "fig_14_5IHZ4TQ3.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "15",
-      "title": "六方钙钛矿结构",
-      "llm_description": "",
+      "title": "Figure 15",
+      "llm_description": "Figure 15. Hexagonal perovskite structure. The small B cation (in black) is 5-fold-coordinated by oxygen anions (in gray). The dashed lines indicate the oxygen pentahedra. The large A cations (white) occupy 7-fold-coordinated sites.",
       "page": "12",
-      "attachment_key": "FN5HHX8P",
-      "file": "fig_15_FN5HHX8P.png",
+      "attachment_key": "7LK5BGXG",
+      "file": "fig_15_7LK5BGXG.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "16",
-      "title": "立方顺磁 YMnO3 的能带结构",
-      "llm_description": "",
+      "title": "Figure 16",
+      "llm_description": "Figure 16. Calculated band structures for cubic paramagnetic YMnO3 along the high-symmetry axes of the Brillouin zone.",
       "page": "13",
-      "attachment_key": "LI7KBG9L",
-      "file": "fig_16_LI7KBG9L.png",
+      "attachment_key": "6C4XYQXL",
+      "file": "fig_16_6C4XYQXL.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "17",
-      "title": "YMnO3 沿 Γ→X 的能带（标注对称性）",
-      "llm_description": "",
+      "title": "Figure 17",
+      "llm_description": "Figure 17. Calculated band structures for cubic paramagnetic YMnO3 along the Γ f X axis. The solid lines show the bands of ∆1 symmetry. The numbers indicate the symmetry types of the other lines and points.",
       "page": "14",
-      "attachment_key": "TRSK6IQZ",
-      "file": "fig_17_TRSK6IQZ.png",
+      "attachment_key": "L8PJ9YZR",
+      "file": "fig_17_L8PJ9YZR.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "18",
-      "title": "立方铁磁 YMnO3 自旋分辨能带",
-      "llm_description": "",
+      "title": "Figure 18",
+      "llm_description": "Figure 18. Up- and down-spin band structures for cubic ferromagnetic YMnO3 along the high-symmetry axes of the Brillouin zone.",
       "page": "14",
-      "attachment_key": "GVP3J6AD",
-      "file": "fig_18_GVP3J6AD.png",
+      "attachment_key": "VQVK3KW3",
+      "file": "fig_18_VQVK3KW3.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
-      "title": "BiMnO3 加入 Bi 6s/6p 后的紧束缚参数",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "Figure 2. Hysteresis loop for a ferro- or ferrimagnet.",
       "page": "2",
-      "attachment_key": "U686FTGD",
-      "file": "fig_2_U686FTGD.png",
+      "attachment_key": "KKS5BNZD",
+      "file": "fig_2_KKS5BNZD.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "3",
-      "title": "不稳定声子模频率（虚频）和本征矢",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "Figure 3. Schematic 3d and 4s densities of states, D(E), in first-row transition metals. The horizontal lines show the positions of the Fermi levels in Zn, Cu, Ni, Co, Fe, and Mn.",
       "page": "3",
-      "attachment_key": "QHNKQGG2",
-      "file": "fig_3_QHNKQGG2.png",
+      "attachment_key": "KF5RZXYU",
+      "file": "fig_3_KF5RZXYU.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "4",
-      "title": "包含交换作用的 3d/4s 自旋分辨态密度",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "Figure 4. 3d and 4s up- and down-spin densities of states in first-row transition metals, with exchange interaction included.",
       "page": "3",
-      "attachment_key": "EVU7IASM",
-      "file": "fig_4_EVU7IASM.png",
+      "attachment_key": "EARW8FVH",
+      "file": "fig_4_EARW8FVH.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "5",
-      "title": "立方钙钛矿结构（ABO3）",
-      "llm_description": "",
+      "title": "Figure 5",
+      "llm_description": "Figure 5. Cubic perovskite structure. The small B cation (in black) is at the center of an octahedron of oxygen anions (in gray). The large A cations (white) occupy the unit cell corners.",
       "page": "4",
-      "attachment_key": "2JT94GAK",
-      "file": "fig_5_2JT94GAK.png",
+      "attachment_key": "WE9Z7I8I",
+      "file": "fig_5_WE9Z7I8I.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "6",
-      "title": "B 阳离子位置的双阱势能曲线",
-      "llm_description": "",
+      "title": "Figure 6",
+      "llm_description": "Figure 6. Characteristic double-well potential energy as a function of the position of the B cation between the oxygen anions in perovskite ferroelectrics.",
       "page": "4",
-      "attachment_key": "364RUC7K",
-      "file": "fig_6_364RUC7K.png",
+      "attachment_key": "77XXFCEF",
+      "file": "fig_6_77XXFCEF.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "7",
-      "title": "立方顺磁 LaMnO3 与 BiMnO3 的态密度（DOS）",
-      "llm_description": "",
+      "title": "Figure 7",
+      "llm_description": "Figure 7. Calculated densities of states for cubic paramagnetic LaMnO3 and BiMnO3.",
       "page": "7",
-      "attachment_key": "56VTUCAM",
-      "file": "fig_7_56VTUCAM.png",
+      "attachment_key": "QKCZVNU3",
+      "file": "fig_7_QKCZVNU3.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "8",
-      "title": "立方顺磁 LaMnO3 与 BiMnO3 的能带结构",
-      "llm_description": "",
+      "title": "Figure 8",
+      "llm_description": "Figure 8. Calculated band structures for cubic paramagnetic LaMnO3 and BiMnO3 along the high-symmetry axes of the Brillouin zone.",
       "page": "7",
-      "attachment_key": "HFU9LXUA",
-      "file": "fig_8_HFU9LXUA.png",
+      "attachment_key": "MSLGTV6D",
+      "file": "fig_8_MSLGTV6D.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "9",
-      "title": "沿 Γ→X 方向的能带结构（突出 ∆1 对称性）",
-      "llm_description": "",
+      "title": "Figure 9",
+      "llm_description": "Figure 9. Calculated band structures for cubic paramagnetic LaMnO3 and BiMnO3 along the Γ f X axis. The solid lines show the bands of ∆symmetry.",
       "page": "8",
-      "attachment_key": "8M8TG75V",
-      "file": "fig_9_8M8TG75V.png",
+      "attachment_key": "3UYZVE62",
+      "file": "fig_9_3UYZVE62.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "BiFeO3"
-      ],
-      "methods": [
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "TABLE 1: Tight-Binding Parameters (in eV) for BiMnO3, LaMnO3, and YMnO3a,b",
+      "page": "8",
+      "attachment_key": "KSG7PGTX",
+      "file": "tab_1_KSG7PGTX.png"
+    },
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "TABLE 2: Tight-binding Parameters (in eV) for BiMnO3a,b",
+      "page": "9",
+      "attachment_key": "PN4ZSH3D",
+      "file": "tab_2_PN4ZSH3D.png"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Why Are There so Few Magnetic Ferroelectrics?|\n|短标题|为什么磁性铁电体如此之少？|\n|作者|[[Nicola A. Hill]]|\n|期刊名称|[[The Journal of Physical Chemistry B]]|\n|DOI|[10.1021/jp000114x](https://doi.org/10.1021/jp000114x)|\n|存档位置|3538|\n|文库编目|3.2|\n|索书号|3|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/SCIATZPH)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/TP335773)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Why Are There so Few Magnetic Ferroelectrics?|\n|短标题|为什么磁性铁电体这么少？|\n|作者|[[Nicola A. Hill]]|\n|期刊名称|[[The Journal of Physical Chemistry B]]|\n|DOI|[10.1021/jp000114x](https://doi.org/10.1021/jp000114x)|\n|存档位置|3538|\n|文库编目|3.2|\n|索书号|3|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/SCIATZPH)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/TP335773)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "2",
+      "attachment_key": "RIMT36YS",
+      "file": "eq_1_RIMT36YS.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "15",
+      "attachment_key": "7852CIJE",
+      "file": "eq_2_7852CIJE.png"
+    }
+  ],
   "tags": [
     "Done"
   ],
-  "materials": [
-    "BiFeO3"
-  ],
-  "methods": [
-    "DFT"
-  ]
+  "materials": [],
+  "methods": []
 }

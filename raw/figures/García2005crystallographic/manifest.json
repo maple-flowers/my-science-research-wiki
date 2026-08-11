@@ -1,0 +1,19 @@
+{
+  "parent_key": "García2005crystallographic",
+  "title": "García2005crystallographic",
+  "figures": [],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Crystallographic investigation of temperature-induced phase transition of the tetrathiafulvalene-<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>p</mml:mi></mml:math>-bromanil, TTF-BA charge transfer complex|\n|短标题|四硫富瓦烯温度诱导相变的晶体学研究http://www.w3.org/1998/Math/MathML“display=“inline”><mml:mi>p</mml:mi></mml:math>-溴苯胺，TTF-BA电荷转移复合物|\n|作者|[[Pilar García]]、 [[Slimane Dahaoui]]、 [[Pierre Fertey]]、 [[Emmanuel Wenger]]、 [[Claude Lecomte]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.72.104115](https://doi.org/10.1103/PhysRevB.72.104115)|\n|存档位置|39|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[01_电荷转移盐 (Charge Transfer Salts)]]|\n|条目链接|[My Library](zotero://select/library/items/AI9JZ5HW)|\n|PDF 附件||\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

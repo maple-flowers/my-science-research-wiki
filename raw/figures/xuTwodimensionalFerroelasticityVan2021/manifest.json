@@ -1,0 +1,184 @@
+{
+  "parent_key": "xuTwodimensionalFerroelasticityVan2021",
+  "title": "xuTwodimensionalFerroelasticityVan2021",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1 Antiferroelectricity-coupled spontaneous strain in β’-In2Se3. a TEM image showing the characteristic nanostriped superstructure in 2H β’-In2Se3. b Atomic-resolution annular dark-field (ADF) STEM image of the nanostripes and the atomic displacement map showing antiferroelectric ordering. c Selected-area electron diffraction (SAED) patterns of the parent β (top) and the room-temperature β’ (bottom) phases. The nanostriped superstructure in β’-In2Se3 gives rise to satellite diffraction at n/",
+      "page": "3",
+      "attachment_key": "3385VJAN",
+      "file": "fig_1_3385VJAN.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "In2Se3"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2 Multidomain and DW structure in β’-In2Se3. a, b Atomic-resolution ADF-STEM images of 120° and 60° DWs in 2H β’-In2Se3, revealing the unchanged basic structure but the switch of the nanostripe directions across the coherent DWs. c, d SAED patterns of the 120° and 60° DWs. Diffraction spots not on the twin axes show ‘split spots’ as magnified in the top-right inset of d. e Horizontal lattice spacing (as defined in the bottom-left inset) mapped around the 60° DW shown in b, reflecting lattic",
+      "page": "4",
+      "attachment_key": "2XYWZEZB",
+      "file": "fig_2_2XYWZEZB.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "In2Se3"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3 Angular-resolved polarized-light imaging of multidomain pattern in β’-In2Se3. a Polarized-light image at the polarizer azimuth angle φ = 80° presenting the typical multidomain pattern in 2H β’-In2Se3, with all permissible domain variants and DWs depicted at the bottom. b Azimuth-dependent transmission intensity of the three domain variants A, B and C. The colored squares show the measured data that can be well described by cosine functions, indicating linear dichroism. The antiferroelectr",
+      "page": "5",
+      "attachment_key": "AJIMIKF6",
+      "file": "fig_3_AJIMIKF6.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "In2Se3"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4 Ferroelastic domain switching in an exfoliated β’-In2Se3 flake. a–g Polarized-light images showing domain switching under the vertical uniaxial tensile strain. The colored arrows indicate the nanostripe or antiferroelectric polarization directions. h Domain area fraction of the A variant as a function of applied uniaxial tensile strain. The linear response under the intermediate strain (0.5% ≤ε ≤1.1%) can be well described by the blue line with a slope of 1.35 as derived from a freestandi",
+      "page": "6",
+      "attachment_key": "BVK6GKZN",
+      "file": "fig_4_BVK6GKZN.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "In2Se3"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5 2D ferroelasticity in ultrathin β’-In2Se3 flakes grown by CVD. a Polarized-light image showing the presence of domain structure in an as-grown ultrathin flake. b AFM image of the area highlighted by the orange box in a. The inset line profile indicates a thickness of ~6.6 nm. c SAED pattern of an ultrathin β’-In2Se3 flake, revealing the preservation of superstructure indicated by the satellite diffraction. d–f Polarized-light images showing ferroelastic domain switching in an ultrathin β’",
+      "page": "6",
+      "attachment_key": "X3B8N42J",
+      "file": "fig_5_X3B8N42J.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "In2Se3"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Fig. 6 Surface wrinkles across 120° DWs owing to the 3D stacking in 3R β’-In2Se3. a, b Atomic-resolution cross-sectional STEM images with the structure models overlaid, and polarized-light images showing multidomain patterns, with AFM topographic images taken from the highlighted regions, for 2H (a) and 3R (b) β’-In2Se3 crystals. 3R β’-In2Se3 displays a majority of 60° DWs and minor 120° DWs, with surfaces wrinkles across 120° DWs as revealed by the surface profile in the lower-left inset. In co",
+      "page": "7",
+      "attachment_key": "QXF85FUA",
+      "file": "fig_6_QXF85FUA.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "In2Se3"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Fig. 7 Inclined 60° DWs owing to the 3D stacking in 3R β’-In2Se3. a Polarized-light image showing the domain wall shift at the top surface across a step edge. b AFM topography and lateral PFM phase images of the area in a. The large in-plane piezoresponse in 3R β’-In2Se3 gives domain contrast in the lateral PFM phase image, which is not visible in the corresponding AFM image. The measured height change at the step edge is ~270 nm and the wall shift at the top surface is ~480 nm. c Schematic draw",
+      "page": "7",
+      "attachment_key": "WVSWBUCR",
+      "file": "fig_7_WVSWBUCR.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "In2Se3"
+      ],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Two-dimensional ferroelasticity in van der Waals β’-In2Se3|\n|短标题|范德华β'-In2Se3的二维铁弹性|\n|作者|[[Chao Xu]]、 [[Jianfeng Mao]]、 [[Xuyun Guo]]、 [[Shanru Yan]]、 [[Yancong Chen]]、 [[Tsz Wing Lo]]、 [[Changsheng Chen]]、 [[Dangyuan Lei]]、 [[Xin Luo]]、 [[Jianhua Hao]]、 [[Changxi Zheng]]、 [[Ye Zhu]]|\n|期刊名称|[[Nature Communications]]|\n|DOI|[10.1038/s41467-021-23882-7](https://doi.org/10.1038/s41467-021-23882-7)|\n|存档位置|97|\n|文库编目|15.7|\n|索书号|1|\n|版权||\n|分类|[[01_机器学习势函数 (ML Potentials)]]|\n|条目链接|[My Library](zotero://select/library/items/BCMEWDE3)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/P8RSJTQG\">Xu 等 - 2021 - Two-dimensional ferroelasticity in van der Waals β’-In2Se3</a></li><li><a href=\"zotero://open-pdf/library/items/75V374NT\">Xu 等 - 2021 - Two-dimensional ferroelasticity in van der Waals β’-In2Se3.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "ð1Þ",
+      "page": "2",
+      "attachment_key": "RV7ML8IY",
+      "file": "eq_1_RV7ML8IY.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "ð2Þ",
+      "page": "3",
+      "attachment_key": "32AYJAP5",
+      "file": "eq_2_32AYJAP5.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "ð3Þ",
+      "page": "3",
+      "attachment_key": "7FVA24F6",
+      "file": "eq_3_7FVA24F6.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "ð4Þ",
+      "page": "3",
+      "attachment_key": "SRTNGGDU",
+      "file": "eq_4_SRTNGGDU.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "ð5Þ",
+      "page": "5",
+      "attachment_key": "AL5UGS89",
+      "file": "eq_5_AL5UGS89.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "ð6Þ",
+      "page": "5",
+      "attachment_key": "3IVQPWRA",
+      "file": "eq_6_3IVQPWRA.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "ð7Þ",
+      "page": "5",
+      "attachment_key": "MK27GVUB",
+      "file": "eq_7_MK27GVUB.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [
+    "In2Se3"
+  ],
+  "methods": []
+}

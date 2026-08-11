@@ -1,0 +1,19 @@
+{
+  "parent_key": "Shao2022humidity",
+  "title": "Shao2022humidity",
+  "figures": [],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|In-fiber humidity sensor based on Black Phosphorus-Polyvinyl alcohol|\n|短标题|基于黑磷聚乙烯醇的光纤湿度传感器|\n|作者|[[Min Shao]]、 [[Haonan Sun]]、 [[Rong Zhang]]、 [[Lipin Li]]、 [[Yinggang Liu]]、 [[Xueguang Qiao]]|\n|期刊名称|[[Optical Fiber Technology]]|\n|DOI|[10.1016/j.yofte.2021.102782](https://doi.org/10.1016/j.yofte.2021.102782)|\n|存档位置|17|\n|文库编目|2.7|\n|索书号|3|\n|版权||\n|分类|[[07_Humidity Specific Mechanisms]]|\n|条目链接|[My Library](zotero://select/library/items/J79Z9WBX)|\n|PDF 附件||\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

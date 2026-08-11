@@ -1,0 +1,19 @@
+{
+  "parent_key": "Mei2011thermodynamics",
+  "title": "Mei2011thermodynamics",
+  "figures": [],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Thermodynamics of multiferroic BiFeO3: Applications for the deposition of BiFeO3 thin films|\n|短标题|多铁性BiFeO3的热力学：在BiFeO3薄膜沉积中的应用|\n|作者|[[Zhi-Gang Mei]]、 [[ShunLi Shang]]、 [[Yi Wang]]、 [[Zi-Kui Liu]]|\n|期刊名称|[[Applied Physics Letters]]|\n|DOI|[10.1063/1.3573809](https://doi.org/10.1063/1.3573809)|\n|存档位置|12|\n|文库编目|3.8|\n|索书号|3|\n|版权||\n|分类|[[09_BiFeO3 Specific]]|\n|条目链接|[My Library](zotero://select/library/items/CRZRQWAL)|\n|PDF 附件||\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "Done"
+  ],
+  "materials": [],
+  "methods": []
+}

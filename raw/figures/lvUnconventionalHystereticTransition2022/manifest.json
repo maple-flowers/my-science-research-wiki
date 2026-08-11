@@ -1,0 +1,72 @@
+{
+  "parent_key": "lvUnconventionalHystereticTransition2022",
+  "title": "lvUnconventionalHystereticTransition2022",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. Incommensurate CDW in EuTe4. (a) Crystal structure of EuTe4. Black lines denote the primary unit cell, which contains two motifs of the Te square lattice (right panel): bilayer (Te 1 and Te 2) and monolayer (Te 0). (b) Room temperature x-ray diffraction pattern taken with 30.6 keV photon energy in transmission mode. (c) Room temperature high-resolution x-ray intensity cut along the (0, K, 10) direction, taken with 11 keV photons in reflection geometry. (d) Room temperature Fermi surface ",
+      "page": "3",
+      "attachment_key": "Q6SSGDZ3",
+      "file": "fig_1_Q6SSGDZ3.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. Temperature evolution of lattice and electronic structures. (a) Temperature-dependent electrical resistivity with currents along the a-axis. Black arrows indicate the temperature sweep direction. Inset: electron diffractions at 30 K and 300 K. Cyan arrows indicate the CDW superlattice peaks, which, unlike the report in ref. [16], are present in both low and high resistivity states. The asymmetry of the electron diffraction pattern at 300 K is due to imperfect sample alignment relative to",
+      "page": "4",
+      "attachment_key": "IR4WWUA2",
+      "file": "fig_2_IR4WWUA2.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3. Giant thermal hysteresis within the CDW state. (a) Leading edge gap Eg from two thermal cycles 50 K→400 K→50 K→400 K→50 K. Eg is taken at its maxi-mum value at momentum E1 [see Fig. 1(f)]. The turn around 120 K is interpreted as a change in the chemical potential. In-set: two representative energy distribution curves at E1, mea-sured at 180 K in two successive heating branches. (b) Tem-perature dependence of integrated intensity of a first-order CDW peak, normalized by its value at 300 K",
+      "page": "5",
+      "attachment_key": "6R9M3JH7",
+      "file": "fig_3_6R9M3JH7.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "FIG. 4. Candidate mechanisms of the hysteretic transition. (a) Temperature dependence of the Eu L3 x-ray absorption near edge structure (XANES) in EuTe4. Inset: XANES spec-trum of Ba0.93Eu0.07Al2O4, adapted from ref. [34]. (b) Time dependence of electrical resistivity immediately after a ther-mal cycle of 400 K→20 K→300 K [orange curve in Fig. S9(c)]. Inset: linear-log plot of the percentage change in resistivity relative to the first value of the time sequence (ρ0). Red line is a logarithmic fi",
+      "page": "5",
+      "attachment_key": "TWS8WWQT",
+      "file": "fig_4_TWS8WWQT.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Unconventional Hysteretic Transition in a Charge Density Wave|\n|短标题|电荷密度波的非常规滞回转变|\n|作者|[[B. Q. Lv]]、 [[Alfred Zong]]、 [[D. Wu]]、 [[A. V. Rozhkov]]、 [[Boris V. Fine]]、 [[Su-Di Chen]]、 [[Makoto Hashimoto]]、 [[Dong-Hui Lu]]、 [[M. Li]]、 [[Y.-B. Huang]]、 [[Jacob P. C. Ruff]]、 [[Donald A. Walko]]、 [[Z. H. Chen]]、 [[Inhui Hwang]]、 [[Yifan Su]]、 [[Xiaozhe Shen]]、 [[Xirui Wang]]、 [[Fei Han]]、 [[Hoi Chun Po]]、 [[Yao Wang]]、 [[Pablo Jarillo-Herrero]]、 [[Xijie Wang]]、 [[Hua Zhou]]、 [[Cheng-Jun Sun]]、 [[Haidan Wen]]、 [[Zhi-Xun Shen]]、 [[N. L. Wang]]、 [[Nuh Gedik]]|\n|期刊名称|[[Physical Review Letters]]|\n|DOI|[10.1103/PhysRevLett.128.036401](https://doi.org/10.1103/PhysRevLett.128.036401)|\n|存档位置|35|\n|文库编目|9.4|\n|索书号|1|\n|版权||\n|分类|[[09_Review & Computational Methods]]|\n|条目链接|[My Library](zotero://select/library/items/EXP9SHDE)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/GXKSGQ8K)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

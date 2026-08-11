@@ -1,0 +1,173 @@
+{
+  "parent_key": "Wu2021",
+  "title": "Wu2021",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1. Some possible structures of the Ge dimer on the reconstructed c(4 × 2) Si(001) upper surface of the Si slab, (a) Top view; (b) Side view",
+      "page": "2",
+      "attachment_key": "W6FHVP2A",
+      "file": "fig_1_W6FHVP2A.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2. Average energy per atom Eave of the relaxation systems varying with the  initial height h and the deflection angle θ between the Ge dimer and the upper  surface of the Si slab.",
+      "page": "3",
+      "attachment_key": "C6JSRYAA",
+      "file": "fig_2_C6JSRYAA.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3. Different configurations in the area A and the Mülliken gross population of the atom in each configuration; (a) top view; (b) side view; (c) Mülliken  gross population.",
+      "page": "5",
+      "attachment_key": "CMVVBG5C",
+      "file": "fig_3_CMVVBG5C.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4. Different configurations in the area B and the Mülliken gross population of the atom in each configuration; (a) top view; (b) side view; (c) Mülliken  gross population.",
+      "page": "6",
+      "attachment_key": "P6D5AYM3",
+      "file": "fig_4_P6D5AYM3.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5. Different configurations in the area C and D, and the Mülliken gross population of the atom in each configuration; (a) top view; (b) side view; (c) Mülliken  gross population.",
+      "page": "7",
+      "attachment_key": "WUF2ACJ5",
+      "file": "fig_5_WUF2ACJ5.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Fig. 6. Different configurations in the area E and the Mülliken gross population of the atom in each configuration; (a) top view; (b) side view; (c) Mülliken  gross population.",
+      "page": "8",
+      "attachment_key": "NKMHIWSF",
+      "file": "fig_6_NKMHIWSF.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Fig. 7. Different configurations in the area F and the Mülliken gross population of the atom in each configuration; (a) top view; (b) side view; (c) Mülliken  gross population.",
+      "page": "9",
+      "attachment_key": "AFM89M3Y",
+      "file": "fig_7_AFM89M3Y.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "Fig. 8. The HOMO, LUMO, and energy gap EGap curves of the different con­ figurations, (a) HOMO, LUMO, and energy levels; (b) EGap values.",
+      "page": "10",
+      "attachment_key": "NYPUQI9Y",
+      "file": "fig_8_NYPUQI9Y.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1  Average energies and the stable structures with different initial heights h and  deflection angles θ.",
+      "page": "4",
+      "attachment_key": "B4DKJGTV",
+      "file": "tab_1_B4DKJGTV.png"
+    },
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "Table 2  Bond lengths and bond energies of the stable configurations in Figs. 3–7.",
+      "page": "4",
+      "attachment_key": "S7HWABDH",
+      "file": "tab_2_S7HWABDH.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th>Structures in Figs. 3–7</th>\n<th>Eave/ eV</th>\n<th>h/ Å</th>\n<th>θ/ °</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A1</td>\n<td>–33.564</td>\n<td>3.9</td>\n<td>50</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>–33.563</td>\n<td>3.8</td>\n<td>100</td>\n</tr>\n<tr>\n<td>A3</td>\n<td>–33.561</td>\n<td>3.7</td>\n<td>80</td>\n</tr>\n<tr>\n<td>B1</td>\n<td>–33.565</td>\n<td>3.4</td>\n<td>0</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>–33.565</td>\n<td>2.8</td>\n<td>0</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>–33.564</td>\n<td>3.0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>B4</td>\n<td>–33.562</td>\n<td>3.0</td>\n<td>10</td>\n</tr>\n<tr>\n<td>B5</td>\n<td>–33.560</td>\n<td>2.5</td>\n<td>20</td>\n</tr>\n<tr>\n<td>B6</td>\n<td>–33.559</td>\n<td>3.0</td>\n<td>20</td>\n</tr>\n<tr>\n<td>B7</td>\n<td>–33.559</td>\n<td>3.4</td>\n<td>20</td>\n</tr>\n<tr>\n<td>C1</td>\n<td>–33.561</td>\n<td>2.6</td>\n<td>170</td>\n</tr>\n<tr>\n<td>C2</td>\n<td>–33.558</td>\n<td>3.3</td>\n<td>170</td>\n</tr>\n<tr>\n<td>D1</td>\n<td>–33.563</td>\n<td>1.5</td>\n<td>50</td>\n</tr>\n<tr>\n<td>E1</td>\n<td>–33.562</td>\n<td>1.9</td>\n<td>150</td>\n</tr>\n<tr>\n<td>E2</td>\n<td>–33.561</td>\n<td>2.0</td>\n<td>130</td>\n</tr>\n<tr>\n<td>E3</td>\n<td>–33.560</td>\n<td>1.8</td>\n<td>120</td>\n</tr>\n<tr>\n<td>E4</td>\n<td>–33.560</td>\n<td>2.3</td>\n<td>120</td>\n</tr>\n<tr>\n<td>E5</td>\n<td>–33.557</td>\n<td>1.9</td>\n<td>120</td>\n</tr>\n<tr>\n<td>F1</td>\n<td>–33.565</td>\n<td>1.3</td>\n<td>150</td>\n</tr>\n<tr>\n<td>F2</td>\n<td>–33.564</td>\n<td>1.0</td>\n<td>170</td>\n</tr>\n<tr>\n<td>F3</td>\n<td>–33.561</td>\n<td>1.0</td>\n<td>120</td>\n</tr>\n<tr>\n<td>F4</td>\n<td>–33.558</td>\n<td>1.3</td>\n<td>0</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th>图3-7中的结构</th>\n<th>Eave/ eV</th>\n<th>h/ Å</th>\n<th>θ/ °</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A1</td>\n<td>–33.564</td>\n<td>3.9</td>\n<td>50</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>–33.563</td>\n<td>3.8</td>\n<td>100</td>\n</tr>\n<tr>\n<td>A3</td>\n<td>–33.561</td>\n<td>3.7</td>\n<td>80</td>\n</tr>\n<tr>\n<td>B1</td>\n<td>–33.565</td>\n<td>3.4</td>\n<td>0</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>–33.565</td>\n<td>2.8</td>\n<td>0</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>–33.564</td>\n<td>3.0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>B4</td>\n<td>–33.562</td>\n<td>3.0</td>\n<td>10</td>\n</tr>\n<tr>\n<td>B5</td>\n<td>–33.560</td>\n<td>2.5</td>\n<td>20</td>\n</tr>\n<tr>\n<td>B6</td>\n<td>–33.559</td>\n<td>3.0</td>\n<td>20</td>\n</tr>\n<tr>\n<td>B7</td>\n<td>–33.559</td>\n<td>3.4</td>\n<td>20</td>\n</tr>\n<tr>\n<td>C1</td>\n<td>–33.561</td>\n<td>2.6</td>\n<td>170</td>\n</tr>\n<tr>\n<td>C2</td>\n<td>–33.558</td>\n<td>3.3</td>\n<td>170</td>\n</tr>\n<tr>\n<td>D1</td>\n<td>–33.563</td>\n<td>1.5</td>\n<td>50</td>\n</tr>\n<tr>\n<td>E1</td>\n<td>–33.562</td>\n<td>1.9</td>\n<td>150</td>\n</tr>\n<tr>\n<td>E2</td>\n<td>–33.561</td>\n<td>2.0</td>\n<td>130</td>\n</tr>\n<tr>\n<td>E3</td>\n<td>–33.560</td>\n<td>1.8</td>\n<td>120</td>\n</tr>\n<tr>\n<td>E4</td>\n<td>–33.560</td>\n<td>2.3</td>\n<td>120</td>\n</tr>\n<tr>\n<td>E5</td>\n<td>–33.557</td>\n<td>1.9</td>\n<td>120</td>\n</tr>\n<tr>\n<td>F1</td>\n<td>–33.565</td>\n<td>1.3</td>\n<td>150</td>\n</tr>\n<tr>\n<td>F2</td>\n<td>–33.564</td>\n<td>1.0</td>\n<td>170</td>\n</tr>\n<tr>\n<td>F3</td>\n<td>–33.561</td>\n<td>1.0</td>\n<td>120</td>\n</tr>\n<tr>\n<td>F4</td>\n<td>–33.558</td>\n<td>1.3</td>\n<td>0</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th>Configurations in Figs. 3–7</th>\n<th>Ge dimer</th>\n<th></th>\n<th>Ge1-Si1 bond</th>\n<th></th>\n<th>Ge1-Si2 bond</th>\n<th></th>\n<th>Ge2-Si1 bond</th>\n<th></th>\n<th>Ge2-Si2 bond</th>\n<th></th>\n<th>Si1-Si2 bond</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>BL/ Å</td>\n<td>BE/ eV</td>\n<td>BL/ Å</td>\n<td>BE/ eV</td>\n<td>BL/ Å</td>\n<td>BE/ eV</td>\n<td>BL/ Å</td>\n<td>BE/ eV</td>\n<td>BL/ Å</td>\n<td>BE/ eV</td>\n<td>BL/ Å</td>\n<td>BE/ eV</td>\n</tr>\n<tr>\n<td>A1</td>\n<td>2.85</td>\n<td>2.856</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>2.52</td>\n<td>6.066</td>\n<td>2.3</td>\n<td>8.160</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>2.85</td>\n<td>2.965</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>2.52</td>\n<td>5.984</td>\n<td>2.31</td>\n<td>8.024</td>\n</tr>\n<tr>\n<td>A3</td>\n<td>2.81</td>\n<td>3.237</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>2.63</td>\n<td>4.379</td>\n<td>2.54</td>\n<td>5.440</td>\n<td>2.63</td>\n<td>4.434</td>\n</tr>\n<tr>\n<td>B1</td>\n<td>3.63</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>2.76</td>\n<td>3.128</td>\n<td>–</td>\n<td>2.68</td>\n<td>3.917</td>\n<td>2.3</td>\n<td>8.296</td>\n<td></td>\n</tr>\n<tr>\n<td>B2</td>\n<td>4.11</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>2.81</td>\n<td>2.856</td>\n<td>–</td>\n<td>–</td>\n<td>2.73</td>\n<td>3.454</td>\n<td>2.3</td>\n<td>8.242</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>4.16</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>2.77</td>\n<td>3.210</td>\n<td>–</td>\n<td>–</td>\n<td>2.73</td>\n<td>3.482</td>\n<td>2.3</td>\n<td>8.350</td>\n</tr>\n<tr>\n<td>B4</td>\n<td>3.49</td>\n<td>–</td>\n<td>3.39</td>\n<td>0.354</td>\n<td>2.82</td>\n<td>2.693</td>\n<td>2.72</td>\n<td>3.454</td>\n<td>2.76</td>\n<td>2.829</td>\n<td>2.63</td>\n<td>4.488</td>\n</tr>\n<tr>\n<td>B5</td>\n<td>3.56</td>\n<td>–</td>\n<td>3.27</td>\n<td>0.571</td>\n<td>2.72</td>\n<td>3.427</td>\n<td>2.79</td>\n<td>2.720</td>\n<td>2.75</td>\n<td>2.666</td>\n<td>2.64</td>\n<td>4.298</td>\n</tr>\n<tr>\n<td>B6</td>\n<td>2.92</td>\n<td>1.632</td>\n<td>3.39</td>\n<td>0.462</td>\n<td>3.08</td>\n<td>1.414</td>\n<td>2.68</td>\n<td>3.726</td>\n<td>2.69</td>\n<td>3.237</td>\n<td>2.64</td>\n<td>4.406</td>\n</tr>\n<tr>\n<td>B7</td>\n<td>2.82</td>\n<td>3.672</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>3.31</td>\n<td>–</td>\n<td>2.47</td>\n<td>5.277</td>\n<td>2.6</td>\n<td>8.187</td>\n</tr>\n<tr>\n<td>C1</td>\n<td>3.54</td>\n<td>–</td>\n<td>2.65</td>\n<td>4.026</td>\n<td>2.76</td>\n<td>2.720</td>\n<td>3.48</td>\n<td>0.218</td>\n<td>2.81</td>\n<td>2.747</td>\n<td>2.64</td>\n<td>4.406</td>\n</tr>\n<tr>\n<td>C2</td>\n<td>2.65</td>\n<td>2.910</td>\n<td>–</td>\n<td>–</td>\n<td>3.36</td>\n<td>0.598</td>\n<td>2.33</td>\n<td>7.997</td>\n<td>2.6</td>\n<td>4.869</td>\n<td>2.31</td>\n<td>8.187</td>\n</tr>\n<tr>\n<td>D1</td>\n<td>3.57</td>\n<td>–</td>\n<td>2.71</td>\n<td>3.454</td>\n<td>2.67</td>\n<td>3.563</td>\n<td>3.31</td>\n<td>0.408</td>\n<td>2.86</td>\n<td>2.203</td>\n<td>2.65</td>\n<td>4.053</td>\n</tr>\n<tr>\n<td>E1</td>\n<td>–</td>\n<td>–</td>\n<td>2.64</td>\n<td>4.270</td>\n<td>2.72</td>\n<td>3.237</td>\n<td>3.49</td>\n<td>0.190</td>\n<td>2.99</td>\n<td>1.659</td>\n<td>2.64</td>\n<td>4.298</td>\n</tr>\n<tr>\n<td>E2</td>\n<td>2.91</td>\n<td>2.094</td>\n<td>2.67</td>\n<td>3.835</td>\n<td>2.75</td>\n<td>2.938</td>\n<td>3.38</td>\n<td>0.272</td>\n<td>2.91</td>\n<td>1.931</td>\n<td>2.64</td>\n<td>4.434</td>\n</tr>\n<tr>\n<td>E3</td>\n<td>2.87</td>\n<td>2.176</td>\n<td>2.78</td>\n<td>3.046</td>\n<td>2.88</td>\n<td>2.122</td>\n<td>3.23</td>\n<td>0.517</td>\n<td>2.8</td>\n<td>2.557</td>\n<td>2.63</td>\n<td>4.570</td>\n</tr>\n<tr>\n<td>E4</td>\n<td>2.8</td>\n<td>3.019</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>2.5</td>\n<td>5.821</td>\n<td>2.55</td>\n<td>5.059</td>\n<td>2.67</td>\n<td>2.992</td>\n</tr>\n<tr>\n<td>E5</td>\n<td>2.82</td>\n<td>2.584</td>\n<td>3.24</td>\n<td>1.061</td>\n<td>–</td>\n<td>–</td>\n<td>3</td>\n<td>1.278</td>\n<td>2.66</td>\n<td>3.862</td>\n<td>2.63</td>\n<td>4.624</td>\n</tr>\n<tr>\n<td>F1</td>\n<td>3.55</td>\n<td>–</td>\n<td>2.64</td>\n<td>4.243</td>\n<td>2.65</td>\n<td>4.053</td>\n<td>3.32</td>\n<td>0.435</td>\n<td>3.4</td>\n<td>0.326</td>\n<td>2.65</td>\n<td>4.080</td>\n</tr>\n<tr>\n<td>F2</td>\n<td>–</td>\n<td>–</td>\n<td>2.73</td>\n<td>3.291</td>\n<td>2.61</td>\n<td>4.325</td>\n<td>3.24</td>\n<td>0.598</td>\n<td>3.3</td>\n<td>0.490</td>\n<td>2.65</td>\n<td>3.808</td>\n</tr>\n<tr>\n<td>F3</td>\n<td>2.7</td>\n<td>3.835</td>\n<td>–</td>\n<td>–</td>\n<td>3.01</td>\n<td>1.523</td>\n<td>2.78</td>\n<td>2.693</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n</tr>\n<tr>\n<td>F4</td>\n<td>–</td>\n<td>–</td>\n<td>2.79</td>\n<td>2.856</td>\n<td>2.69</td>\n<td>3.400</td>\n<td>3.39</td>\n<td>0.272</td>\n<td>2.82</td>\n<td>2.557</td>\n<td>2.64</td>\n<td>4.406</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T4",
+      "title": "Table 4",
+      "content": "<table>\n<thead>\n<tr>\n<th>图3–7中的构型</th>\n<th>Ge二聚体</th>\n<th></th>\n<th>Ge1-Si1键</th>\n<th></th>\n<th>Ge1-Si2键</th>\n<th></th>\n<th>Ge2-Si1键</th>\n<th></th>\n<th>Ge2-Si2键</th>\n<th></th>\n<th>Si1-Si2键</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>BL/ Å</td>\n<td>BE/ eV</td>\n<td>BL/ Å</td>\n<td>BE/ eV</td>\n<td>BL/ Å</td>\n<td>BE/ eV</td>\n<td>BL/ Å</td>\n<td>BE/ eV</td>\n<td>BL/ Å</td>\n<td>BE/ eV</td>\n<td>BL/ Å</td>\n<td>BE/ eV</td>\n</tr>\n<tr>\n<td>A1</td>\n<td>2.85</td>\n<td>2.856</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>2.52</td>\n<td>6.066</td>\n<td>2.3</td>\n<td>8.160</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>2.85</td>\n<td>2.965</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>2.52</td>\n<td>5.984</td>\n<td>2.31</td>\n<td>8.024</td>\n</tr>\n<tr>\n<td>A3</td>\n<td>2.81</td>\n<td>3.237</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>2.63</td>\n<td>4.379</td>\n<td>2.54</td>\n<td>5.440</td>\n<td>2.63</td>\n<td>4.434</td>\n</tr>\n<tr>\n<td>B1</td>\n<td>3.63</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>2.76</td>\n<td>3.128</td>\n<td>–</td>\n<td>2.68</td>\n<td>3.917</td>\n<td>2.3</td>\n<td>8.296</td>\n<td></td>\n</tr>\n<tr>\n<td>B2</td>\n<td>4.11</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>2.81</td>\n<td>2.856</td>\n<td>–</td>\n<td>–</td>\n<td>2.73</td>\n<td>3.454</td>\n<td>2.3</td>\n<td>8.242</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>4.16</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>2.77</td>\n<td>3.210</td>\n<td>–</td>\n<td>–</td>\n<td>2.73</td>\n<td>3.482</td>\n<td>2.3</td>\n<td>8.350</td>\n</tr>\n<tr>\n<td>B4</td>\n<td>3.49</td>\n<td>–</td>\n<td>3.39</td>\n<td>0.354</td>\n<td>2.82</td>\n<td>2.693</td>\n<td>2.72</td>\n<td>3.454</td>\n<td>2.76</td>\n<td>2.829</td>\n<td>2.63</td>\n<td>4.488</td>\n</tr>\n<tr>\n<td>B5</td>\n<td>3.56</td>\n<td>–</td>\n<td>3.27</td>\n<td>0.571</td>\n<td>2.72</td>\n<td>3.427</td>\n<td>2.79</td>\n<td>2.720</td>\n<td>2.75</td>\n<td>2.666</td>\n<td>2.64</td>\n<td>4.298</td>\n</tr>\n<tr>\n<td>B6</td>\n<td>2.92</td>\n<td>1.632</td>\n<td>3.39</td>\n<td>0.462</td>\n<td>3.08</td>\n<td>1.414</td>\n<td>2.68</td>\n<td>3.726</td>\n<td>2.69</td>\n<td>3.237</td>\n<td>2.64</td>\n<td>4.406</td>\n</tr>\n<tr>\n<td>B7</td>\n<td>2.82</td>\n<td>3.672</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>3.31</td>\n<td>–</td>\n<td>2.47</td>\n<td>5.277</td>\n<td>2.6</td>\n<td>8.187</td>\n</tr>\n<tr>\n<td>C1</td>\n<td>3.54</td>\n<td>–</td>\n<td>2.65</td>\n<td>4.026</td>\n<td>2.76</td>\n<td>2.720</td>\n<td>3.48</td>\n<td>0.218</td>\n<td>2.81</td>\n<td>2.747</td>\n<td>2.64</td>\n<td>4.406</td>\n</tr>\n<tr>\n<td>C2</td>\n<td>2.65</td>\n<td>2.910</td>\n<td>–</td>\n<td>–</td>\n<td>3.36</td>\n<td>0.598</td>\n<td>2.33</td>\n<td>7.997</td>\n<td>2.6</td>\n<td>4.869</td>\n<td>2.31</td>\n<td>8.187</td>\n</tr>\n<tr>\n<td>D1</td>\n<td>3.57</td>\n<td>–</td>\n<td>2.71</td>\n<td>3.454</td>\n<td>2.67</td>\n<td>3.563</td>\n<td>3.31</td>\n<td>0.408</td>\n<td>2.86</td>\n<td>2.203</td>\n<td>2.65</td>\n<td>4.053</td>\n</tr>\n<tr>\n<td>E1</td>\n<td>–</td>\n<td>–</td>\n<td>2.64</td>\n<td>4.270</td>\n<td>2.72</td>\n<td>3.237</td>\n<td>3.49</td>\n<td>0.190</td>\n<td>2.99</td>\n<td>1.659</td>\n<td>2.64</td>\n<td>4.298</td>\n</tr>\n<tr>\n<td>E2</td>\n<td>2.91</td>\n<td>2.094</td>\n<td>2.67</td>\n<td>3.835</td>\n<td>2.75</td>\n<td>2.938</td>\n<td>3.38</td>\n<td>0.272</td>\n<td>2.91</td>\n<td>1.931</td>\n<td>2.64</td>\n<td>4.434</td>\n</tr>\n<tr>\n<td>E3</td>\n<td>2.87</td>\n<td>2.176</td>\n<td>2.78</td>\n<td>3.046</td>\n<td>2.88</td>\n<td>2.122</td>\n<td>3.23</td>\n<td>0.517</td>\n<td>2.8</td>\n<td>2.557</td>\n<td>2.63</td>\n<td>4.570</td>\n</tr>\n<tr>\n<td>E4</td>\n<td>2.8</td>\n<td>3.019</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>2.5</td>\n<td>5.821</td>\n<td>2.55</td>\n<td>5.059</td>\n<td>2.67</td>\n<td>2.992</td>\n</tr>\n<tr>\n<td>E5</td>\n<td>2.82</td>\n<td>2.584</td>\n<td>3.24</td>\n<td>1.061</td>\n<td>–</td>\n<td>–</td>\n<td>3</td>\n<td>1.278</td>\n<td>2.66</td>\n<td>3.862</td>\n<td>2.63</td>\n<td>4.624</td>\n</tr>\n<tr>\n<td>F1</td>\n<td>3.55</td>\n<td>–</td>\n<td>2.64</td>\n<td>4.243</td>\n<td>2.65</td>\n<td>4.053</td>\n<td>3.32</td>\n<td>0.435</td>\n<td>3.4</td>\n<td>0.326</td>\n<td>2.65</td>\n<td>4.080</td>\n</tr>\n<tr>\n<td>F2</td>\n<td>–</td>\n<td>–</td>\n<td>2.73</td>\n<td>3.291</td>\n<td>2.61</td>\n<td>4.325</td>\n<td>3.24</td>\n<td>0.598</td>\n<td>3.3</td>\n<td>0.490</td>\n<td>2.65</td>\n<td>3.808</td>\n</tr>\n<tr>\n<td>F3</td>\n<td>2.7</td>\n<td>3.835</td>\n<td>–</td>\n<td>–</td>\n<td>3.01</td>\n<td>1.523</td>\n<td>2.78</td>\n<td>2.693</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n</tr>\n<tr>\n<td>F4</td>\n<td>–</td>\n<td>–</td>\n<td>2.79</td>\n<td>2.856</td>\n<td>2.69</td>\n<td>3.400</td>\n<td>3.39</td>\n<td>0.272</td>\n<td>2.82</td>\n<td>2.557</td>\n<td>2.64</td>\n<td>4.406</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Atomic arrangements, bond energies, and charge distribution on Si(0 0 1) surfaces with the adsorption of a Ge dimer by DFTB calculations|\n|短标题|Ge二聚体吸附下Si（001）表面原子排列、键能和电荷分布的DFTB计算|\n|作者|[[Lijun Wu]]、 [[Baoqian Chi]]、 [[Longhai Shen]]、 [[Lin Zhang]]|\n|期刊名称|[[Computational Materials Science]]|\n|DOI|[10.1016/j.commatsci.2020.110120](https://doi.org/10.1016/j.commatsci.2020.110120)|\n|存档位置||\n|文库编目|3.7|\n|索书号|3|\n|版权||\n|分类|[[东北大学张林老师]]|\n|条目链接|[My Library](zotero://select/library/items/5WHMJR56)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/AHDUXSXN)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "3",
+      "attachment_key": "7F4SEKN6",
+      "file": "eq_2_7F4SEKN6.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

@@ -7,8 +7,8 @@
       "title": "Figure 1",
       "llm_description": "Fig. 1. The overview of typical 2D sliding ferroelectric materials and device applications including ferroelectric tunnel junction, field-effect transistor, photovoltaic  devices, and synaptic devices.",
       "page": "2",
-      "attachment_key": "CCTUU7BT",
-      "file": "fig_1_CCTUU7BT.png",
+      "attachment_key": "IP9FMC6N",
+      "file": "fig_1_IP9FMC6N.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -19,10 +19,10 @@
     {
       "fig_number": "10",
       "title": "Figure 10",
-      "llm_description": "Fig. 10. (a) Configurations associated with h-BN stacking types. (b) I-V curves for different bias states for each type in (a). (c-d) Evolution of domains in h-BN with  applied electric field [115]. Copyright 2024, Springer Nature. (e) Interlayer differential charge density. (f) The r-BN is polarize",
+      "llm_description": "Fig. 10. (a) Configurations associated with h-BN stacking types. (b) I-V curves for different bias states for each type in (a). (c-d) Evolution of domains in h-BN with  applied electric field [115]. Copyright 2024, Springer Nature. (e) Interlayer differential charge density. (f) The r-BN is polarized in the z-axis direction. (g) PFM  signals at different temperatures indicating the Curie temperature. (h) Amplitude and phase loops of PFM measurements at different bias states [116]. Copyright  202",
       "page": "13",
-      "attachment_key": "BKVNYGUX",
-      "file": "fig_10_BKVNYGUX.png",
+      "attachment_key": "GMTK9YT3",
+      "file": "fig_10_GMTK9YT3.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -33,10 +33,10 @@
     {
       "fig_number": "11",
       "title": "Figure 11",
-      "llm_description": "Fig. 11. (a) Relationship between electric field and drain current at different layer-number [3]. Copyright 2022, Springer Nature. (b) Relationship between applied  electric field and conductance for trilayer WTe2 [20]. Copyright 2018, Springer Nature. (c) Schematic diagram of 3R-MoS2 double-gate de",
+      "llm_description": "Fig. 11. (a) Relationship between electric field and drain current at different layer-number [3]. Copyright 2022, Springer Nature. (b) Relationship between applied  electric field and conductance for trilayer WTe2 [20]. Copyright 2018, Springer Nature. (c) Schematic diagram of 3R-MoS2 double-gate device [3]. Copyright 2022,  Springer Nature. (d) Schematic diagram of two-gate control and atomic structure stacking of 3R-MoS2 [19]. Copyright 2024, Springer Nature. (e-f) Device diagram of  WSe2 and ",
       "page": "15",
-      "attachment_key": "GHTFVWEK",
-      "file": "fig_11_GHTFVWEK.png",
+      "attachment_key": "347LFPW8",
+      "file": "fig_11_347LFPW8.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -47,10 +47,10 @@
     {
       "fig_number": "12",
       "title": "Figure 12",
-      "llm_description": "Fig. 12. Structure and devices of MX. (a) Forms of stacking and polarization of MX, AA, and AC stacking, interlayer sliding induced polarization [55]. Copyright  2022, Springer Nature. (b) Schematic diagram of devices of MX. (c) SS-PFM testing on GaSe nanoflakes. (d) Dependence of SHG signal intensi",
+      "llm_description": "Fig. 12. Structure and devices of MX. (a) Forms of stacking and polarization of MX, AA, and AC stacking, interlayer sliding induced polarization [55]. Copyright  2022, Springer Nature. (b) Schematic diagram of devices of MX. (c) SS-PFM testing on GaSe nanoflakes. (d) Dependence of SHG signal intensity and polarization  angle [36]. Copyright 2022, Springer Nature.",
       "page": "18",
-      "attachment_key": "QZ9XKGWR",
-      "file": "fig_12_QZ9XKGWR.png",
+      "attachment_key": "HWWZSN8Y",
+      "file": "fig_12_HWWZSN8Y.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -61,10 +61,10 @@
     {
       "fig_number": "13",
       "title": "Figure 13",
-      "llm_description": "Fig. 13. (a) Schematic of FET device with 3R-MoS2 as the channel layer material. (b) Schematic of ferroelectric polarization switching at the atomic level. (c) Device  implementation of programmed/erased performance. (d) Transfer characteristics of the stacked 3R-MoS2 FET [33]. Copyright 2023, Sprin",
+      "llm_description": "Fig. 13. (a) Schematic of FET device with 3R-MoS2 as the channel layer material. (b) Schematic of ferroelectric polarization switching at the atomic level. (c) Device  implementation of programmed/erased performance. (d) Transfer characteristics of the stacked 3R-MoS2 FET [33]. Copyright 2023, Springer Nature.",
       "page": "20",
-      "attachment_key": "BERS8HUC",
-      "file": "fig_13_BERS8HUC.png",
+      "attachment_key": "XSTYQFRU",
+      "file": "fig_13_XSTYQFRU.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -75,10 +75,10 @@
     {
       "fig_number": "14",
       "title": "Figure 14",
-      "llm_description": "Fig. 14. (a) Schematic of ferroelectricity polarization of chalcogenide structure at the top and sliding ferroelectricity polarization transfer at the bottom. (b) 3R-MoS2  device with different pulse widths for 53 ns, 100 ns, and 10 μs write pulses. The change of drain current for different pulse wi",
+      "llm_description": "Fig. 14. (a) Schematic of ferroelectricity polarization of chalcogenide structure at the top and sliding ferroelectricity polarization transfer at the bottom. (b) 3R-MoS2  device with different pulse widths for 53 ns, 100 ns, and 10 μs write pulses. The change of drain current for different pulse widths reflects the ultrafast program­ mability of the sliding ferroelectric transistor. (c) Average magnetic domain reversal speed of 3R-MoS2 device under different electric fields [2]. Copyright 2024,",
       "page": "22",
-      "attachment_key": "XYU7S2XD",
-      "file": "fig_14_XYU7S2XD.png",
+      "attachment_key": "UCCGBWQW",
+      "file": "fig_14_UCCGBWQW.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -89,10 +89,10 @@
     {
       "fig_number": "15",
       "title": "Figure 15",
-      "llm_description": "Fig. 15. (a) Schematic of the sliding ferroelectric based synaptic device with graphene/h-BN heterostructure built with double gating as channel layer material. (b)  Moir´e periodic potential at the top interface locally locates the charge to enable lateral flow of electrons. (c) Training for the in",
+      "llm_description": "Fig. 15. (a) Schematic of the sliding ferroelectric based synaptic device with graphene/h-BN heterostructure built with double gating as channel layer material. (b)  Moir´e periodic potential at the top interface locally locates the charge to enable lateral flow of electrons. (c) Training for the input pattern. (d) Training the two  output neurons signals in response to the input pattern [34]. Copyright 2023, Springer Nature.",
       "page": "22",
-      "attachment_key": "S8KWC8D7",
-      "file": "fig_15_S8KWC8D7.png",
+      "attachment_key": "RDRJFJNV",
+      "file": "fig_15_RDRJFJNV.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -103,10 +103,10 @@
     {
       "fig_number": "16",
       "title": "Figure 16",
-      "llm_description": "Fig. 16. (a) FTJs using few-layer h-BN and bilayer 3R-MoS2 as the tunneling layer, with graphene as the electrode. (b-c) Bilayer h-BN and bilayer 3R-MoS2 using as  tunneling layers with tunneling conductance (dI/dV), and Vsd is used for graphene and graphite with applied voltages. The domain walls a",
+      "llm_description": "Fig. 16. (a) FTJs using few-layer h-BN and bilayer 3R-MoS2 as the tunneling layer, with graphene as the electrode. (b-c) Bilayer h-BN and bilayer 3R-MoS2 using as  tunneling layers with tunneling conductance (dI/dV), and Vsd is used for graphene and graphite with applied voltages. The domain walls are pinned to the edges of  the tunneling region [199]. Copyright 2024, Springer Nature. (e-f) Heterogeneous bilayer MoS2/WS2 as tunneling layer material in high and low resistance states and  the corr",
       "page": "23",
-      "attachment_key": "8C274NHX",
-      "file": "fig_16_8C274NHX.png",
+      "attachment_key": "UM7J8ZHZ",
+      "file": "fig_16_UM7J8ZHZ.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -117,10 +117,10 @@
     {
       "fig_number": "17",
       "title": "Figure 17",
-      "llm_description": "Fig. 17. (a) Schematic of the logic device, using dual gating to implement the logic device. (b-c) Sliding ferroelectric construction of the logic device using bilayer  and trilayer MoSi2N4 instead of the channel material in (a) to implement the polarization behavior [206]. Copyright 2023, Springer ",
+      "llm_description": "Fig. 17. (a) Schematic of the logic device, using dual gating to implement the logic device. (b-c) Sliding ferroelectric construction of the logic device using bilayer  and trilayer MoSi2N4 instead of the channel material in (a) to implement the polarization behavior [206]. Copyright 2023, Springer Nature.",
       "page": "25",
-      "attachment_key": "RYIXQ9VD",
-      "file": "fig_17_RYIXQ9VD.png",
+      "attachment_key": "UFUDD9CJ",
+      "file": "fig_17_UFUDD9CJ.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -131,10 +131,10 @@
     {
       "fig_number": "18",
       "title": "Figure 18",
-      "llm_description": "Fig. 18. (a) Thresholds for long term potentiation and long-term depression in artificial synaptic transistors were measured by applying a pulse with an amplitude of  4 V at the bias between −2 V and 2 V, with a bottom gate bias between 0 ~ 1 V. (b) Schematic representation of a simulated biological",
+      "llm_description": "Fig. 18. (a) Thresholds for long term potentiation and long-term depression in artificial synaptic transistors were measured by applying a pulse with an amplitude of  4 V at the bias between −2 V and 2 V, with a bottom gate bias between 0 ~ 1 V. (b) Schematic representation of a simulated biological synapse and the adaptive  behavior of the synaptic transistor without and with consideration of the eye. (c) Bidirectional synaptic threshold sliding with adjustable threshold θtm (m = 1, 2, 3,  …) f",
       "page": "26",
-      "attachment_key": "4KX7CQB3",
-      "file": "fig_18_4KX7CQB3.png",
+      "attachment_key": "E5IUKUJH",
+      "file": "fig_18_E5IUKUJH.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -145,10 +145,10 @@
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "Fig. 2. Typical development of 2D sliding ferroelectricity materials. In 2017, the emergence of predicted sliding ferroelectrics [17]. Copyright 2017, American  Chemical Society. In 2020, structural prediction and observation for h-BN/graphene [26]. Copyright 2020, Springer Nature. For graphene supe",
+      "llm_description": "Fig. 2. Typical development of 2D sliding ferroelectricity materials. In 2017, the emergence of predicted sliding ferroelectrics [17]. Copyright 2017, American  Chemical Society. In 2020, structural prediction and observation for h-BN/graphene [26]. Copyright 2020, Springer Nature. For graphene superlattices to be  observed [27]. Copyright 2020, Springer Nature. In 2021, observation of the polarization of the h-BN surface [29]. Copyright 2021, American Association for the  Advancement of Science",
       "page": "3",
-      "attachment_key": "4JMD7ZC5",
-      "file": "fig_2_4JMD7ZC5.png",
+      "attachment_key": "668MSTBJ",
+      "file": "fig_2_668MSTBJ.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -159,10 +159,10 @@
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "Fig. 3. (a) Polarization generation of ABO3-type ferroelectricity materials. (b) Intrinsic ferroelectricity of 2D materials such as α‑In2Se3 [44]. Copyright 2024  American Chemical Society. (c) Sliding ferroelectric generation mechanism such as h-BN [45]. Copyright 2021, American Association for the",
+      "llm_description": "Fig. 3. (a) Polarization generation of ABO3-type ferroelectricity materials. (b) Intrinsic ferroelectricity of 2D materials such as α‑In2Se3 [44]. Copyright 2024  American Chemical Society. (c) Sliding ferroelectric generation mechanism such as h-BN [45]. Copyright 2021, American Association for the Advancement  of Science.",
       "page": "4",
-      "attachment_key": "ZKVQ8U4S",
-      "file": "fig_3_ZKVQ8U4S.png",
+      "attachment_key": "MJ4XCXMR",
+      "file": "fig_3_MJ4XCXMR.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -173,10 +173,10 @@
     {
       "fig_number": "4",
       "title": "Figure 4",
-      "llm_description": "Fig. 4. (a) Building superlattices between bilayers, graphene is a typical hexagonal structure that forms Moir´e lattice after rotation [27]. Copyright 2020, Springer  Nature. (b) Sliding between bilayers of the non-centrosymmetric 3 R structure generates sliding ferroelectrics [3]. Copyright 2022, ",
+      "llm_description": "Fig. 4. (a) Building superlattices between bilayers, graphene is a typical hexagonal structure that forms Moir´e lattice after rotation [27]. Copyright 2020, Springer  Nature. (b) Sliding between bilayers of the non-centrosymmetric 3 R structure generates sliding ferroelectrics [3]. Copyright 2022, Springer Nature. (c) Twisting  between bilayers is a typical method of constructing sliding ferroelectrics [21]. Copyright 2020, Springer Nature.",
       "page": "6",
-      "attachment_key": "BK6YVA9A",
-      "file": "fig_4_BK6YVA9A.png",
+      "attachment_key": "NPRDG4HD",
+      "file": "fig_4_NPRDG4HD.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -187,10 +187,10 @@
     {
       "fig_number": "5",
       "title": "Figure 5",
-      "llm_description": "Fig. 5. (a) Schematic of the atomic structure of the MoS2 including 3 R phase, and 2 H phase (mirror-symmetric stacking). (b) The lattice relaxation and polarization  concerning the 3 R rhombic stacking [63]. Copyright 2022, Springer Nature. (c) Moir´e-striped superlattice of twisted bimolecular tri",
+      "llm_description": "Fig. 5. (a) Schematic of the atomic structure of the MoS2 including 3 R phase, and 2 H phase (mirror-symmetric stacking). (b) The lattice relaxation and polarization  concerning the 3 R rhombic stacking [63]. Copyright 2022, Springer Nature. (c) Moir´e-striped superlattice of twisted bimolecular trilayer graphene. (d) Interlayer  sliding, change of domains during relaxation [64]. Copyright 2022, Springer Nature.",
       "page": "7",
-      "attachment_key": "VNUWTMBD",
-      "file": "fig_5_VNUWTMBD.png",
+      "attachment_key": "WCYVSJFZ",
+      "file": "fig_5_WCYVSJFZ.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -201,10 +201,10 @@
     {
       "fig_number": "6",
       "title": "Figure 6",
-      "llm_description": "Fig. 6. (a-b) CVD preparation of MoS2. Sulfur powder was placed on a quartz boat and prepared using argon as a protective gas and MoO3 [79]. Copyright 2024,  Springer Nature. (c-d) Peeling of ultraviolet (UV) tape. The graphene material on the copper mesh is transferred down with the assistance of U",
+      "llm_description": "Fig. 6. (a-b) CVD preparation of MoS2. Sulfur powder was placed on a quartz boat and prepared using argon as a protective gas and MoO3 [79]. Copyright 2024,  Springer Nature. (c-d) Peeling of ultraviolet (UV) tape. The graphene material on the copper mesh is transferred down with the assistance of UV tape [80]. Copyright  2024, Springer Nature.",
       "page": "8",
-      "attachment_key": "9N5TMRT3",
-      "file": "fig_6_9N5TMRT3.png",
+      "attachment_key": "VIW6WRL3",
+      "file": "fig_6_VIW6WRL3.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -215,10 +215,10 @@
     {
       "fig_number": "7",
       "title": "Figure 7",
-      "llm_description": "Fig. 7. (a) Detection of the ferroelectricity of the metal sample WTe2. (b) Phase diagram of the dependent piezoelectric response of the sample [99]. Copyright 2019,  American Association for the Advancement of Science. (c) The amplitude response of the bilayer heterostructure [98]. Copyright 2022, ",
+      "llm_description": "Fig. 7. (a) Detection of the ferroelectricity of the metal sample WTe2. (b) Phase diagram of the dependent piezoelectric response of the sample [99]. Copyright 2019,  American Association for the Advancement of Science. (c) The amplitude response of the bilayer heterostructure [98]. Copyright 2022, American Association for the  Advancement of Science. (d) Effect of gate bias on polarization, surface point maps at different gate biases for different biases, and energy band structure of bilayer  3",
       "page": "9",
-      "attachment_key": "AJDTWPAY",
-      "file": "fig_7_AJDTWPAY.png",
+      "attachment_key": "E8U54CNX",
+      "file": "fig_7_E8U54CNX.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -229,10 +229,10 @@
     {
       "fig_number": "8",
       "title": "Figure 8",
-      "llm_description": "Fig. 8. (a) 4D-STEM for dark field imaging [109]. (b) The movement of the domain walls is observed in real-time under the condition that the direction of  non-ferroelectricity and ferroelectricity is induced, and the angle of twist is reduced [113]. Copyright 2023, Springer Nature. (c) MoSSe twist a",
+      "llm_description": "Fig. 8. (a) 4D-STEM for dark field imaging [109]. (b) The movement of the domain walls is observed in real-time under the condition that the direction of  non-ferroelectricity and ferroelectricity is induced, and the angle of twist is reduced [113]. Copyright 2023, Springer Nature. (c) MoSSe twist angle produces a sliding  corresponding Se-Se conformation [114]. Copyright 2024, Royal Society of Chemistry. (d) Schematic representation of the ripple structure produced by the twisted  stacking of t",
       "page": "10",
-      "attachment_key": "UAFLQJ28",
-      "file": "fig_8_UAFLQJ28.png",
+      "attachment_key": "TCTNIAM4",
+      "file": "fig_8_TCTNIAM4.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -243,10 +243,10 @@
     {
       "fig_number": "9",
       "title": "Figure 9",
-      "llm_description": "Fig. 9. (a) Schematic of vdW device with twisted superlattice formed by graphene and h-BN. (b) Hysteresis performance of transfer curves. [139]. Copyright 2022,  Springer Nature. (c) The lattice structure of Bernal-stacked bilayer graphene [26]. Copyright 2020, Springer Nature. (d) Double-layer grap",
+      "llm_description": "Fig. 9. (a) Schematic of vdW device with twisted superlattice formed by graphene and h-BN. (b) Hysteresis performance of transfer curves. [139]. Copyright 2022,  Springer Nature. (c) The lattice structure of Bernal-stacked bilayer graphene [26]. Copyright 2020, Springer Nature. (d) Double-layer graphene device, graphene is  twisted to form a superlattice [139]. Copyright 2022, Springer Nature. (e) Resistance property of graphene device [26]. Copyright 2020, Springer Nature.",
       "page": "12",
-      "attachment_key": "3I7GT57V",
-      "file": "fig_9_3I7GT57V.png",
+      "attachment_key": "PQXND8EP",
+      "file": "fig_9_PQXND8EP.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -257,13 +257,82 @@
   ],
   "tables": [
     {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1  Comparison of the main advantages and disadvantages of perovskite ferroelec­ tric, hafnium-based ferroelectric, typical 2D ferroelectric and sliding ferroelec­ tric materials.",
+      "page": "5",
+      "attachment_key": "N6IMKLEB",
+      "file": "tab_1_N6IMKLEB.png"
+    },
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "Table 2  Experimental report and theoretical predicted 2D materials with sliding ferroelectricity.",
+      "page": "11",
+      "attachment_key": "L32I87BT",
+      "file": "tab_2_L32I87BT.png"
+    },
+    {
+      "id": "tab_3",
+      "title": "Table 3",
+      "content": "Table 3  The correlation between interlayer twist angle and ferroelectricity.",
+      "page": "18",
+      "attachment_key": "2VHVRALU",
+      "file": "tab_3_2VHVRALU.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Material Types</th>\n<th style=\"text-align:left\">Advantages</th>\n<th style=\"text-align:left\">Disadvantages</th>\n<th style=\"text-align:left\">Ref.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">Conventional perovskite ferroelectric materials</td>\n<td style=\"text-align:left\">✓ High polarization value ✓ High commercialization value</td>\n<td style=\"text-align:left\">◆ Strong depolarization field ◆ Incompatible with semiconductor devices ◆ Fatigue issue</td>\n<td style=\"text-align:left\">[7, 46]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Hafnium-based ferroelectric materials</td>\n<td style=\"text-align:left\">✓ Ferroelectricity for one-unite cell ✓ High polarization value ✓ High dielectric constant and wide bandgap ✓ Compatible with semiconductor devices</td>\n<td style=\"text-align:left\">◆ Metastable structure ◆ Large coercive field ◆ Fatigue issue</td>\n<td style=\"text-align:left\">[47]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">2D intrinsic ferroelectric materials</td>\n<td style=\"text-align:left\">✓ Ferroelectricity for monolayer ✓ Without dangling bonds ✓ Compatible with semiconductor devices ✓ Low power consumption ✓ High mobility</td>\n<td style=\"text-align:left\">◆ Low polarization value ◆ Few 2D materials</td>\n<td style=\"text-align:left\">[48, 44, 49, 50]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Sliding ferroelectric materials</td>\n<td style=\"text-align:left\">✓ Ferroelectricity for bilayer or multilayer ✓ Fatigue-free characteristics ✓ Without dangling bonds ✓ Compatible with semiconductor devices ✓ Low-power consumption ✓ More 2D materials</td>\n<td style=\"text-align:left\">◆ Very low polarization value</td>\n<td style=\"text-align:left\">[1,2, 29, 33, 35]</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">材料类型</th>\n<th style=\"text-align:left\">优势</th>\n<th style=\"text-align:left\">劣势</th>\n<th style=\"text-align:left\">参考文献</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">传统钙钛矿铁电材料</td>\n<td style=\"text-align:left\">✓ 高极化值 ✓ 高商业化价值</td>\n<td style=\"text-align:left\">◆ 强退极化场 ◆ 与半导体器件不兼容 ◆ 疲劳问题</td>\n<td style=\"text-align:left\">[7, 46]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">铪基铁电材料</td>\n<td style=\"text-align:left\">✓ 单晶胞铁电性 ✓ 高极化值 ✓ 高介电常数和宽带隙 ✓ 与半导体器件兼容</td>\n<td style=\"text-align:left\">◆ 亚稳结构 ◆ 大矫顽场 ◆ 疲劳问题</td>\n<td style=\"text-align:left\">[47]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">二维本征铁电材料</td>\n<td style=\"text-align:left\">✓ 单层铁电性 ✓ 无悬挂键 ✓ 与半导体器件兼容 ✓ 低功耗 ✓ 高迁移率</td>\n<td style=\"text-align:left\">◆ 低极化值 ◆ 二维材料种类少</td>\n<td style=\"text-align:left\">[48, 44, 49, 50]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">滑动铁电材料</td>\n<td style=\"text-align:left\">✓ 双层或多层铁电性 ✓ 无疲劳特性 ✓ 无悬挂键 ✓ 与半导体器件兼容 ✓ 低功耗 ✓ 更多二维材料</td>\n<td style=\"text-align:left\">◆ 极化值非常低</td>\n<td style=\"text-align:left\">[1,2, 29, 33, 35]</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Types</th>\n<th style=\"text-align:left\">Materials</th>\n<th style=\"text-align:left\">Layer number</th>\n<th style=\"text-align:left\">Polarization Intensity</th>\n<th style=\"text-align:left\">Characterization of evidence for ferroelectricity</th>\n<th style=\"text-align:left\">Ref.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\"><strong>Experimental validation</strong></td>\n<td style=\"text-align:left\">h-BN</td>\n<td style=\"text-align:left\">Trilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">Electrical measurements</td>\n<td style=\"text-align:left\">[115]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">h-BN</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">KPFM</td>\n<td style=\"text-align:left\">[29]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">r-BN</td>\n<td style=\"text-align:left\">Trilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">KPFM, TEM</td>\n<td style=\"text-align:left\">[116]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">WTe2</td>\n<td style=\"text-align:left\">Bilayer/Trilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">Electrical measurements</td>\n<td style=\"text-align:left\">[20]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">GaSe</td>\n<td style=\"text-align:left\">Monolayer</td>\n<td style=\"text-align:left\">6.19 pC m⁻¹</td>\n<td style=\"text-align:left\">KPFM, PFM, SHG</td>\n<td style=\"text-align:left\">[36]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">3R-MoS2</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">Electrical measurements</td>\n<td style=\"text-align:left\">[19,31]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">WTe2</td>\n<td style=\"text-align:left\">Trilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">SHG, Electrical measurements</td>\n<td style=\"text-align:left\">[28]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">1T’-ReS2</td>\n<td style=\"text-align:left\">Multilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">SHG, PFM, TEM</td>\n<td style=\"text-align:left\">[117]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">γ-InSe</td>\n<td style=\"text-align:left\">~50 nm</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">STEM</td>\n<td style=\"text-align:left\">[118]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">TaS2</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">STEM</td>\n<td style=\"text-align:left\">[119]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">WS2</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">PFM</td>\n<td style=\"text-align:left\">[31]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">MoSe2</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">WSe2</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">WSe2</td>\n<td style=\"text-align:left\">Trilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">TEM</td>\n<td style=\"text-align:left\">[120]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">Cd3Cl6</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">PFM, SHG, Electrical measurements</td>\n<td style=\"text-align:left\">[6]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>Theoretical prediction</strong></td>\n<td style=\"text-align:left\">Graphene</td>\n<td style=\"text-align:left\">Multilayer (&gt;3)</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[121]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">MnSe</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, GGA-PBE, PAW, NEB</td>\n<td style=\"text-align:left\">[59]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">WTe2</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, PBE, PAW, GGA</td>\n<td style=\"text-align:left\">[122]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">1T’-WTe2</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, PBE NEB, PAW, GGA</td>\n<td style=\"text-align:left\">[123]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">MoSSe</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[114]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">Tl2S</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">0.037 pC m⁻¹</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[124]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">VSe2</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, PAW, PBE, GGA</td>\n<td style=\"text-align:left\">[125]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">MX, (M = Ge, Sn; X = S, Se)</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, PAW, GGA-PBE</td>\n<td style=\"text-align:left\">[55]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">MX2 (M = Mo, W; X = S, Se)</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">0.77 pC m⁻¹ / 0.59 pC m⁻¹ / 0.69 pC m⁻¹ / 0.73 pC m⁻¹</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[126]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">GeS2/CuInP2S6</td>\n<td style=\"text-align:left\">Bilayer and Trilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[127]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">HgI2</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[128]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">HgBr2</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">FeCl2</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, PAW, PBE, GGA</td>\n<td style=\"text-align:left\">[125]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">GdI2</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, GGA, PBE</td>\n<td style=\"text-align:left\">[129]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">CrI3</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[130]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">β-ZrI2</td>\n<td style=\"text-align:left\">Trilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, PBE</td>\n<td style=\"text-align:left\">[131]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">MoA2N4 (A = Si, Ge)</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">//</td>\n<td style=\"text-align:left\">DFT, GGA, PBE, PAW</td>\n<td style=\"text-align:left\">[132]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">BX (X = P, As, Sb)</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">1.075 pC m⁻¹ / 0.965 pC m⁻¹ / 3.707 pC m⁻¹</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[133]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">YN (Y = Al, Ga, In)</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">7.194 pC m⁻¹ / 5.765 pC m⁻¹ / 13.837 pC m⁻¹</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">ZC (Z = Si, Ge, Sn)</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">2.895 pC m⁻¹ / 2.780 pC m⁻¹ / 4.415 pC m⁻¹</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">B2X3 (X = S, Se, Te)</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">±1.23 pC m⁻¹</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[134]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">LaBr2</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, GGA</td>\n<td style=\"text-align:left\">[135]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">VSi2N4</td>\n<td style=\"text-align:left\">Trilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[136]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">PdSe2/PtSe2</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">±17.11 pC cm⁻¹</td>\n<td style=\"text-align:left\">DFT, PAW, PBE, GGA</td>\n<td style=\"text-align:left\">[137]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">Cr2Ge2Te6</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[138]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">Fe3GeTe2</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T4",
+      "title": "Table 4",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">类型</th>\n<th style=\"text-align:left\">材料</th>\n<th style=\"text-align:left\">层数</th>\n<th style=\"text-align:left\">极化强度</th>\n<th style=\"text-align:left\">铁电性证据表征</th>\n<th style=\"text-align:left\">参考文献</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\"><strong>实验验证</strong></td>\n<td style=\"text-align:left\">h-BN</td>\n<td style=\"text-align:left\">三层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">电学测量</td>\n<td style=\"text-align:left\">[115]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">h-BN</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">KPFM</td>\n<td style=\"text-align:left\">[29]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">r-BN</td>\n<td style=\"text-align:left\">三层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">KPFM, TEM</td>\n<td style=\"text-align:left\">[116]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">WTe2</td>\n<td style=\"text-align:left\">双层/三层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">电学测量</td>\n<td style=\"text-align:left\">[20]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">GaSe</td>\n<td style=\"text-align:left\">单层</td>\n<td style=\"text-align:left\">6.19 pC m⁻¹</td>\n<td style=\"text-align:left\">KPFM, PFM, SHG</td>\n<td style=\"text-align:left\">[36]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">3R-MoS2</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">电学测量</td>\n<td style=\"text-align:left\">[19,31]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">WTe2</td>\n<td style=\"text-align:left\">三层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">SHG, 电学测量</td>\n<td style=\"text-align:left\">[28]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">1T’-ReS2</td>\n<td style=\"text-align:left\">多层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">SHG, PFM, TEM</td>\n<td style=\"text-align:left\">[117]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">γ-InSe</td>\n<td style=\"text-align:left\">~50 nm</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">STEM</td>\n<td style=\"text-align:left\">[118]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">TaS2</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">STEM</td>\n<td style=\"text-align:left\">[119]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">WS2</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">PFM</td>\n<td style=\"text-align:left\">[31]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">MoSe2</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">WSe2</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">WSe2</td>\n<td style=\"text-align:left\">三层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">TEM</td>\n<td style=\"text-align:left\">[120]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">Cd3Cl6</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">PFM, SHG, 电学测量</td>\n<td style=\"text-align:left\">[6]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>理论预测</strong></td>\n<td style=\"text-align:left\">石墨烯</td>\n<td style=\"text-align:left\">多层 (&gt;3)</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[121]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">MnSe</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, GGA-PBE, PAW, NEB</td>\n<td style=\"text-align:left\">[59]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">WTe2</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, PBE, PAW, GGA</td>\n<td style=\"text-align:left\">[122]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">1T’-WTe2</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, PBE NEB, PAW, GGA</td>\n<td style=\"text-align:left\">[123]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">MoSSe</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[114]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">Tl2S</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">0.037 pC m⁻¹</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[124]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">VSe2</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, PAW, PBE, GGA</td>\n<td style=\"text-align:left\">[125]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">MX, (M = Ge, Sn; X = S, Se)</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, PAW, GGA-PBE</td>\n<td style=\"text-align:left\">[55]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">MX2 (M = Mo, W; X = S, Se)</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">0.77 pC m⁻¹ / 0.59 pC m⁻¹ / 0.69 pC m⁻¹ / 0.73 pC m⁻¹</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[126]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">GeS2/CuInP2S6</td>\n<td style=\"text-align:left\">双层和三层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[127]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">HgI2</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[128]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">HgBr2</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">FeCl2</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, PAW, PBE, GGA</td>\n<td style=\"text-align:left\">[125]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">GdI2</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, GGA, PBE</td>\n<td style=\"text-align:left\">[129]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">CrI3</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[130]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">β-ZrI2</td>\n<td style=\"text-align:left\">三层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, PBE</td>\n<td style=\"text-align:left\">[131]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">MoA2N4 (A = Si, Ge)</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">//</td>\n<td style=\"text-align:left\">DFT, GGA, PBE, PAW</td>\n<td style=\"text-align:left\">[132]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">BX (X = P, As, Sb)</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">1.075 pC m⁻¹ / 0.965 pC m⁻¹ / 3.707 pC m⁻¹</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[133]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">YN (Y = Al, Ga, In)</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">7.194 pC m⁻¹ / 5.765 pC m⁻¹ / 13.837 pC m⁻¹</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">ZC (Z = Si, Ge, Sn)</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">2.895 pC m⁻¹ / 2.780 pC m⁻¹ / 4.415 pC m⁻¹</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">B2X3 (X = S, Se, Te)</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">±1.23 pC m⁻¹</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[134]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">LaBr2</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT, GGA</td>\n<td style=\"text-align:left\">[135]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">VSi2N4</td>\n<td style=\"text-align:left\">三层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[136]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">PdSe2/PtSe2</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">±17.11 pC cm⁻¹</td>\n<td style=\"text-align:left\">DFT, PAW, PBE, GGA</td>\n<td style=\"text-align:left\">[137]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">Cr2Ge2Te6</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[138]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">Fe3GeTe2</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T5",
+      "title": "Table 5",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Materials</th>\n<th style=\"text-align:left\">Angle</th>\n<th style=\"text-align:left\">Phase structure</th>\n<th style=\"text-align:left\">Layer number</th>\n<th style=\"text-align:left\">Characterization of evidence for ferroelectricity</th>\n<th style=\"text-align:left\">Ref.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">Graphene</td>\n<td style=\"text-align:left\">1.1°</td>\n<td style=\"text-align:left\">Hexagonal</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">Scanning tunnelling microscopy</td>\n<td style=\"text-align:left\">[165]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">5°</td>\n<td style=\"text-align:left\">Hexagonal</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">Scanning tunnelling microscopy</td>\n<td style=\"text-align:left\">[166]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">21.8°/38.2°</td>\n<td style=\"text-align:left\">Hexagonal</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">Electrical measurements</td>\n<td style=\"text-align:left\">[167]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">1.08°</td>\n<td style=\"text-align:left\">Hexagonal</td>\n<td style=\"text-align:left\">Multilayer</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[121]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">0.84°</td>\n<td style=\"text-align:left\">Hexagonal</td>\n<td style=\"text-align:left\">23-layers</td>\n<td style=\"text-align:left\">PFM</td>\n<td style=\"text-align:left\">[142]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">&lt; 1.81°</td>\n<td style=\"text-align:left\">Hexagonal</td>\n<td style=\"text-align:left\">Trilayer</td>\n<td style=\"text-align:left\">4D-STEM</td>\n<td style=\"text-align:left\">[109]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">0.3°</td>\n<td style=\"text-align:left\">Hexagonal</td>\n<td style=\"text-align:left\">Bilayer and trilayer</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">[140]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">MoS2/graphene</td>\n<td style=\"text-align:left\">2–14°</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">Hetero-Bilayers</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">[58]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">h-BN/ graphene</td>\n<td style=\"text-align:left\">34–64°</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">Hetero-Bilayers</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">[89]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">30°</td>\n<td style=\"text-align:left\">superlattices</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">Electrical measurements, SHG</td>\n<td style=\"text-align:left\">[139]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">30°</td>\n<td style=\"text-align:left\">superlattices</td>\n<td style=\"text-align:left\">Bilayer(graphene)-Monolayer(h-BN)</td>\n<td style=\"text-align:left\">Electrical measurements</td>\n<td style=\"text-align:left\">[34]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Tl2S</td>\n<td style=\"text-align:left\">13.17°</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[124]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">h-BN</td>\n<td style=\"text-align:left\">0–0.6°</td>\n<td style=\"text-align:left\">Hexagonal</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">TEM</td>\n<td style=\"text-align:left\">[144]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">WSe2</td>\n<td style=\"text-align:left\">5.1°</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">Electrical measurements</td>\n<td style=\"text-align:left\">[21]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">WSe2</td>\n<td style=\"text-align:left\">0°/0.25°</td>\n<td style=\"text-align:left\">Rhombohedral-stacked</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\">PFM</td>\n<td style=\"text-align:left\">[31]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">MoS2</td>\n<td style=\"text-align:left\">0°/0.25°</td>\n<td style=\"text-align:left\">Rhombohedral-stacked</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\">MoSe2</td>\n<td style=\"text-align:left\">0°/0.25°</td>\n<td style=\"text-align:left\">Rhombohedral-stacked</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\">WS2</td>\n<td style=\"text-align:left\">0°/0.25°</td>\n<td style=\"text-align:left\">Rhombohedral-stacked</td>\n<td style=\"text-align:left\">Bilayer</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T6",
+      "title": "Table 6",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">材料</th>\n<th style=\"text-align:left\">角度</th>\n<th style=\"text-align:left\">相结构</th>\n<th style=\"text-align:left\">层数</th>\n<th style=\"text-align:left\">铁电性证据表征</th>\n<th style=\"text-align:left\">参考文献</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">石墨烯</td>\n<td style=\"text-align:left\">1.1°</td>\n<td style=\"text-align:left\">六方</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">扫描隧道显微镜</td>\n<td style=\"text-align:left\">[165]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">5°</td>\n<td style=\"text-align:left\">六方</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">扫描隧道显微镜</td>\n<td style=\"text-align:left\">[166]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">21.8°/38.2°</td>\n<td style=\"text-align:left\">六方</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">电学测量</td>\n<td style=\"text-align:left\">[167]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">1.08°</td>\n<td style=\"text-align:left\">六方</td>\n<td style=\"text-align:left\">多层</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[121]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">0.84°</td>\n<td style=\"text-align:left\">六方</td>\n<td style=\"text-align:left\">23层</td>\n<td style=\"text-align:left\">PFM</td>\n<td style=\"text-align:left\">[142]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">&lt; 1.81°</td>\n<td style=\"text-align:left\">六方</td>\n<td style=\"text-align:left\">三层</td>\n<td style=\"text-align:left\">4D-STEM</td>\n<td style=\"text-align:left\">[109]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">0.3°</td>\n<td style=\"text-align:left\">六方</td>\n<td style=\"text-align:left\">双层和三层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">[140]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">MoS2/石墨烯</td>\n<td style=\"text-align:left\">2–14°</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">异质双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">[58]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">h-BN/石墨烯</td>\n<td style=\"text-align:left\">34–64°</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">异质双层</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">[89]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">30°</td>\n<td style=\"text-align:left\">超晶格</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">电学测量, SHG</td>\n<td style=\"text-align:left\">[139]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">30°</td>\n<td style=\"text-align:left\">超晶格</td>\n<td style=\"text-align:left\">双层(石墨烯)-单层(h-BN)</td>\n<td style=\"text-align:left\">电学测量</td>\n<td style=\"text-align:left\">[34]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Tl2S</td>\n<td style=\"text-align:left\">13.17°</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">DFT</td>\n<td style=\"text-align:left\">[124]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">h-BN</td>\n<td style=\"text-align:left\">0–0.6°</td>\n<td style=\"text-align:left\">六方</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">TEM</td>\n<td style=\"text-align:left\">[144]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">WSe2</td>\n<td style=\"text-align:left\">5.1°</td>\n<td style=\"text-align:left\">/</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">电学测量</td>\n<td style=\"text-align:left\">[21]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">WSe2</td>\n<td style=\"text-align:left\">0°/0.25°</td>\n<td style=\"text-align:left\">菱方堆垛</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\">PFM</td>\n<td style=\"text-align:left\">[31]</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">MoS2</td>\n<td style=\"text-align:left\">0°/0.25°</td>\n<td style=\"text-align:left\">菱方堆垛</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\">MoSe2</td>\n<td style=\"text-align:left\">0°/0.25°</td>\n<td style=\"text-align:left\">菱方堆垛</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr>\n<td style=\"text-align:left\">WS2</td>\n<td style=\"text-align:left\">0°/0.25°</td>\n<td style=\"text-align:left\">菱方堆垛</td>\n<td style=\"text-align:left\">双层</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Sliding ferroelectricity in two-dimensional materials and device applications|\n|短标题|滑动铁电在二维材料和器件中的应用|\n|作者|[[Xiaoyao Sun]]、 [[Qian Xia]]、 [[Tengfei Cao]]、 [[Shuoguo Yuan]]|\n|期刊名称|[[Materials Science and Engineering：R：Reports]]|\n|DOI|[10.1016/j.mser.2025.100927](https://doi.org/10.1016/j.mser.2025.100927)|\n|存档位置|19|\n|文库编目|DOI.org|\n|索书号||\n|版权||\n|分类|[[03_二维铁电与滑动铁电 (2D/Sliding Ferroelectricity)]]|\n|条目链接|[My Library](zotero://select/library/items/UJRJMZE9)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/XPCABSJ9\">PDF</a></li><li><a href=\"zotero://open-pdf/library/items/T4VJ7XLC\">Sun 等 - 2025 - Sliding ferroelectricity in two-dimensional materials and device applications.pdf</a></li></ul>|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Sliding ferroelectricity in two-dimensional materials and device applications|\n|短标题|滑动铁电在二维材料和器件中的应用|\n|作者|[[Xiaoyao Sun]]、 [[Qian Xia]]、 [[Tengfei Cao]]、 [[Shuoguo Yuan]]|\n|期刊名称|[[Materials Science and Engineering：R：Reports]]|\n|DOI|[10.1016/j.mser.2025.100927](https://doi.org/10.1016/j.mser.2025.100927)|\n|存档位置|19|\n|文库编目|DOI.org|\n|索书号||\n|版权||\n|分类|[[03_二维铁电与滑动铁电 (2D/Sliding Ferroelectricity)]]|\n|条目链接|[My Library](zotero://select/library/items/UJRJMZE9)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/XPCABSJ9\">Sun 等 - 2025 - Sliding ferroelectricity in two-dimensional materials and device applications</a></li><li><a href=\"zotero://open-pdf/library/items/T4VJ7XLC\">Sun 等 - 2025 - Sliding ferroelectricity in two-dimensional materials and device applications.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "5",
+      "attachment_key": "KY8JAUNW",
+      "file": "eq_1_KY8JAUNW.png"
+    }
+  ],
   "tags": [
     "unread",
     "参考文献-layer"

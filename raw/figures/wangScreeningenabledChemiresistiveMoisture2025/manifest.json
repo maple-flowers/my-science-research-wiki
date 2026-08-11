@@ -1,12 +1,91 @@
 {
-  "parent_key": "wangScreeningenabledChemiresistiveMoisture2025",
-  "title": "wangScreeningenabledChemiresistiveMoisture2025",
-  "figures": [],
+  "parent_key": "wangScreeningEnabledChemiresistiveMoisture2025",
+  "title": "wangScreeningEnabledChemiresistiveMoisture2025",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Figure 1. Structure of Mn2(TTFTB). (a,b) Portions of structure viewed parallel and perpendicular to the crystallographic c axis showing nanoscale pores and π-stacked TTF columns, respectively. (c) A portion of the metal−carboxylate chain highlighting coordinating water molecules. Light blue, gray, red, yellow, and blue-green spheres represent H, C, O, S and Mn, respectively. Solvents and H atoms are omitted for clarity in (a,b).",
+      "page": "2",
+      "attachment_key": "MXBQAIX7",
+      "file": "fig_1_MXBQAIX7.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Figure 2. Electrical responses of M2(TTFTB) to adsorption and adsorption of water acquired at 298 K under humid N2 (higher current) and dry N2 (lower current) atmospheres acquired with single-crystal devices. DC voltage was 0.1 V. Current was monitored under flow of each gas until reaching equilibrium, which results in inhomogeneous time intervals before on and off states.",
+      "page": "2",
+      "attachment_key": "NPPDW9RW",
+      "file": "fig_2_NPPDW9RW.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Figure 3. Atmospheric modulation of apparent conductivity and mechanistic insights. (a, b) I−V curves and Nyquist plots measured at 298 K under various atmospheres using a single-crystal device of Mn2(TTFTB). Inset in (a): Scheme of the device configuration showing the crystal (purple), gold electrodes/wires (gold), carbon paste (green), and glass slide (light blue). Inset in (b): equivalent circuit used to fit Nyquist plots. (c) Experimental protocol for probing the effects of O2 and H2O on app",
+      "page": "3",
+      "attachment_key": "4NSSR4L5",
+      "file": "fig_3_4NSSR4L5.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Figure 4. Exclusion of proton participation in electrical conduction. (a,b) I−V curves and Nyquist plots acquired at 298 K under humid air with a single-crystal device of Zn2(TTFTB) using sputtered Pt as electrodes. Inset of (a): A scanning electron micrograph of the device. The long rod, white pads, and dark background are a single crystal of Zn2(TTFTB), Pt electrodes, and SiO2/Si substrate, respectively. (c) Dynamic monitoring of current variation over time for single-crystal devices of M2(TTF",
+      "page": "4",
+      "attachment_key": "RPGH3YNP",
+      "file": "fig_4_RPGH3YNP.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Figure 5. Mechanisms of chemiresistive moisture sensing with M2(TTFTB). Schematic illustration of (a) hole-anion interaction, (b) charge trapping effect, and (c) water screening effect.",
+      "page": "5",
+      "attachment_key": "9LMI39W9",
+      "file": "fig_5_9LMI39W9.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Figure 6. Investigation of unique electrical properties of Zn2(TTFTB). (a) The shortest S···S distances between adjacent TTF moieties in M2(TTFTB). Gray and yellow spheres represent C and S atoms, respectively. (b) Single-crystal CW-EPR spectra of Cd2(TTFTB) and Zn2(TTFTB) collected at 298 K in humid air. The static magnetic field was parallel to the crystallographic c axis. Spectra were normalized to the volume of each single crystal. (c) CV plots of Cd2(TTFTB) and Zn2(TTFTB) at 298 K in argon-",
+      "page": "6",
+      "attachment_key": "CWIG2WCN",
+      "file": "fig_6_CWIG2WCN.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
   "tables": [
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Screening-enabled chemiresistive moisture sensing with tetrathiafulvalene-based electrically conductive metal–organic frameworks|\n|短标题|具有tetrathiafulvalene-based导电金属-有机框架的筛选型化学电阻湿度传感|\n|作者|[[Yingchao Wang]]、 [[Xiaohe Miao]]、 [[Paul A. Kempler]]、 [[Jin-Hu Dou]]、 [[Carl K. Brozek]]、 [[Lei Sun]]|\n|期刊名称|[[Journal of the American Chemical Society]]|\n|DOI|[10.1021/jacs.5c16110](https://doi.org/10.1021/jacs.5c16110)|\n|存档位置||\n|文库编目|15.6|\n|索书号|1|\n|版权|https://doi.org/10.15223/policy-029|\n|分类||\n|条目链接|[My Library](zotero://select/library/items/V3QG4C3Q)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/AFKUHNYR)|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Screening-Enabled Chemiresistive Moisture Sensing with Tetrathiafulvalene-Based Electrically Conductive Metal–Organic Frameworks|\n|短标题|基于四硫富瓦烯导电金属-有机骨架的筛选型化学电阻水分传感|\n|作者|[[Yingchao Wang]]、 [[Xiaohe Miao]]、 [[Paul A. Kempler]]、 [[Jin-Hu Dou]]、 [[Carl K. Brozek]]、 [[Lei Sun]]|\n|期刊名称|[[Journal of the American Chemical Society]]|\n|DOI|[10.1021/jacs.5c16110](https://doi.org/10.1021/jacs.5c16110)|\n|存档位置|1|\n|文库编目|15.6|\n|索书号|1|\n|版权|https://doi.org/10.15223/policy-029|\n|分类|[[01_电荷转移盐 (Charge Transfer Salts)]]|\n|条目链接|[My Library](zotero://select/library/items/DSL6XC9U)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/3LLTFN36\">Wang 等 - 2025 - Screening-Enabled Chemiresistive Moisture Sensing with Tetrathiafulvalene-Based Electrically Conduct</a></li><li><a href=\"zotero://open-pdf/library/items/KCXM6Y34\">Wang 等 - 2025 - Screening-Enabled Chemiresistive Moisture Sensing with Tetrathiafulvalene-Based Electrically Conduct.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],

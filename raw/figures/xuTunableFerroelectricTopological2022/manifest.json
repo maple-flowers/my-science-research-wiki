@@ -1,0 +1,24 @@
+{
+  "parent_key": "xuTunableFerroelectricTopological2022",
+  "title": "xuTunableFerroelectricTopological2022",
+  "figures": [],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Tunable ferroelectric topological defects on 2D topological surfaces: strain engineering skyrmion-like polar structures in 2D materials|\n|短标题|二维拓扑表面上可调铁电拓扑缺陷：二维材料中的应变工程类skyrmion极性结构|\n|作者|[[Bo Xu]]、 [[Zhanpeng Gong]]、 [[Jingran Liu]]、 [[Yunfei Hong]]、 [[Yang Yang]]、 [[Lou Li]]、 [[Yilun Liu]]、 [[Junkai Deng]]、 [[Jefferson Zhe Liu]]|\n|期刊名称|[[arXiv]]|\n|DOI|[10.48550/ARXIV.2204.05129](https://doi.org/10.48550/ARXIV.2204.05129)|\n|存档位置||\n|文库编目|DOI.org|\n|索书号||\n|版权|arXiv.org perpetual, non-exclusive license|\n|分类|[[06_拓扑磁性与斯格明子 (Topological Magnetism/Skyrmions)]]|\n|条目链接|[My Library](zotero://select/library/items/F5BEV3DW)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/YXVFUV8J)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "方法：第一性原理计算",
+    "unread",
+    "方法：有限元模拟",
+    "方法：分子动力学计算"
+  ],
+  "materials": [
+    "III-V族半导体及其变体（PbTe）"
+  ],
+  "methods": []
+}

@@ -1,0 +1,43 @@
+{
+  "parent_key": "Mińkowski2021cation",
+  "title": "Mińkowski2021cation",
+  "figures": [],
+  "tables": [
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">NNP</th>\n<th style=\"text-align:left\">能量 RMSE (meV/atom)</th>\n<th style=\"text-align:left\">力 RMSE (meV Å−1)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">PbTe nnp-1</td>\n<td style=\"text-align:left\">0.493/0.569</td>\n<td style=\"text-align:left\">72.7/68.9</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">PbTe nnp-2</td>\n<td style=\"text-align:left\">0.475/0.568</td>\n<td style=\"text-align:left\">72.9/71.3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">PbTe nnp-3</td>\n<td style=\"text-align:left\">0.498/0.569</td>\n<td style=\"text-align:left\">70.5/70.3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CdTe nnp-1</td>\n<td style=\"text-align:left\">0.255/0.381</td>\n<td style=\"text-align:left\">54.8/63.3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CdTe nnp-2</td>\n<td style=\"text-align:left\">0.254/0.365</td>\n<td style=\"text-align:left\">59.7/61.6</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CdTe nnp-3</td>\n<td style=\"text-align:left\">0.250/0.544</td>\n<td style=\"text-align:left\">56.9/72.3</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">NNP</th>\n<th style=\"text-align:left\">Ea (meV)</th>\n<th style=\"text-align:left\">D0 (cm2 s−1)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">PbTe nnp-1</td>\n<td style=\"text-align:left\">322 ± 4</td>\n<td style=\"text-align:left\">2.475 × 10−3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">PbTe nnp-2</td>\n<td style=\"text-align:left\">250 ± 4</td>\n<td style=\"text-align:left\">1.208 × 10−3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">PbTe nnp-3</td>\n<td style=\"text-align:left\">338 ± 4</td>\n<td style=\"text-align:left\">2.862 × 10−3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CdTe nnp-1</td>\n<td style=\"text-align:left\">368 ± 5</td>\n<td style=\"text-align:left\">4.413 × 10−3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CdTe nnp-2</td>\n<td style=\"text-align:left\">391 ± 4</td>\n<td style=\"text-align:left\">5.604 × 10−3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CdTe nnp-3</td>\n<td style=\"text-align:left\">389 ± 4</td>\n<td style=\"text-align:left\">5.032 × 10−3</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">NNP</th>\n<th style=\"text-align:left\">Ehops (meV)</th>\n<th style=\"text-align:left\">Eex (meV)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">PbTe nnp-1</td>\n<td style=\"text-align:left\">515</td>\n<td style=\"text-align:left\">298</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">PbTe nnp-2</td>\n<td style=\"text-align:left\">461</td>\n<td style=\"text-align:left\">224</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">PbTe nnp-3</td>\n<td style=\"text-align:left\">564</td>\n<td style=\"text-align:left\">309</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CdTe nnp-1</td>\n<td style=\"text-align:left\">218</td>\n<td style=\"text-align:left\">402</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CdTe nnp-2</td>\n<td style=\"text-align:left\">256</td>\n<td style=\"text-align:left\">399</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CdTe nnp-3</td>\n<td style=\"text-align:left\">254</td>\n<td style=\"text-align:left\">447</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T4",
+      "title": "Table 4",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">NNP</th>\n<th style=\"text-align:left\">Dhops 0 (cm2 s−1)</th>\n<th style=\"text-align:left\">De0x (cm2 s−1)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">PbTe nnp-1</td>\n<td style=\"text-align:left\">3.106 × 10−3</td>\n<td style=\"text-align:left\">1.614 × 10−3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">PbTe nnp-2</td>\n<td style=\"text-align:left\">2.074 × 10−3</td>\n<td style=\"text-align:left\">7.502 × 10−4</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">PbTe nnp-3</td>\n<td style=\"text-align:left\">4.731 × 10−3</td>\n<td style=\"text-align:left\">1.775 × 10−3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CdTe nnp-1</td>\n<td style=\"text-align:left\">1.146 × 10−4</td>\n<td style=\"text-align:left\">5.539 × 10−3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CdTe nnp-2</td>\n<td style=\"text-align:left\">6.373 × 10−5</td>\n<td style=\"text-align:left\">5.779 × 10−3</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">CdTe nnp-3</td>\n<td style=\"text-align:left\">2.542 × 10−4</td>\n<td style=\"text-align:left\">7.331 × 10−3</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Cation interstitial diffusion in lead telluride and cadmium telluride studied by means of neural network potential based molecular dynamics simulations|\n|短标题|基于神经网络势的分子动力学模拟研究碲化铅和碲化镉中阳离子间质扩散|\n|作者|[[Marcin Mińkowski]]、 [[Kerstin Hummer]]、 [[Christoph Dellago]]|\n|期刊名称|[[Journal of Physics：Condensed Matter]]|\n|DOI|[10.1088/1361-648X/abb740](https://doi.org/10.1088/1361-648X/abb740)|\n|存档位置|4|\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[08_Diffusion & Defects]]|\n|条目链接|[My Library](zotero://select/library/items/KP4KNFZI)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/692XS9SY)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

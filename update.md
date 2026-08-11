@@ -22,7 +22,7 @@ python tools/update_raw_assets.py
 
 ## 第二阶段：Wiki 智能合成 (Intelligent Synthesis)
 
-**目标**：利用大模型 (LLM) 对 `raw/` 层的原始知识进行消化，自动更新 `wiki/concepts/`、`wiki/entities/` 等知识库页面，而非简单的追加链接。
+**目标**：利用大模型 (LLM) 对 `raw/` 层的原始知识进行消化，自动更新 `wiki/concepts/`、`wiki/entities/`、`wiki/topics/`、`wiki/figures/` 及 `wiki/projects/` 等知识库页面，而非简单的追加链接。
 
 **执行方式**：
 在 Claude 终端输入以下命令启动多智能体协作：
@@ -32,11 +32,11 @@ python tools/update_raw_assets.py
 
 **该 Workflow 的逻辑流程**：
 1. **发现 (Discovery)**：扫描 `raw/note/` 中新增的论文。
-2. **映射 (Mapping)**：将新论文与现有的概念 (Concepts) 和实体 (Entities) 进行关联。
+2. **映射 (Mapping)**：将新论文与现有的概念 (Concepts)、实体 (Entities)、研究话题 (Topics)、科研项目 (Projects) 及图表库 (Figures) 进行关联。
 3. **合成 (Synthesis)**：为每个受影响的 Wiki 页面分配一个 Subagent，执行“深入阅读与知识融合”：
    - 阅读现有 Wiki 页面内容。
    - 阅读关联的新论文原件。
-   - **重写页面**：将新发现融入“机制描述”、“材料特性”或“应用场景”段落中，保持双向链接 `[[ ]]` 的完整性。
+   - **重写页面**：将新发现融入“机制描述”、“材料特性”、“话题前沿”、“图表分类”或“项目进展”段落中，保持双向链接 `[[ ]]` 的完整性。
 4. **写作分析 (Writing)**：分析新论文的写作用词，更新 `wiki/write/` 年度总结。
 5. **索引重构 (Indexing)**：重新生成 `index.md`，确保全库可达性。
 

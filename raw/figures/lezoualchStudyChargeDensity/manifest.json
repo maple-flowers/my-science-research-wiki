@@ -1,0 +1,496 @@
+{
+  "parent_key": "lezoualchStudyChargeDensity",
+  "title": "lezoualchStudyChargeDensity",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Figure B.1: Schematic of the Quantum prop-agator for a single particle. The wave func-tion at position and time (⃗r, t) can be writ-ten as the sum over R of the wave func-tions evaluated at positions (⃗r′, t′) and prop-agating thanks to the quantum propagators K(⃗r, t,⃗r′, t′).",
+      "page": "116",
+      "attachment_key": "DUEI5PQ5",
+      "file": "fig_1_DUEI5PQ5.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Figure B.2: Keldysh contour [153].",
+      "page": "121",
+      "attachment_key": "M79IKXMJ",
+      "file": "fig_2_M79IKXMJ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Figure 3.7: (a) STM image of (4×1) and (4×4) CDW phases coexisting at the vicinity of grain boundary in monolayer 1T-VTe2 [97]. (b) STM image of a (5×1) CDW phase. The line profile corresponding to the blue dashed line reveals a periodicity of 1.7 nm [97]. (c) STM image of the (2 √ 3 × 2 √ 3) CDW phase of monolayer 1T-VTe2. Inset: Fast Fourier transform image where the blue and red circles mark the Bragg and CDW vectors, respectively [98]. (d) ARPES measurement of the electronic structure surfac",
+      "page": "51",
+      "attachment_key": "NDLE7FBC",
+      "file": "fig_3_NDLE7FBC.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Figure 4.13: Spin polarized DOS of the (4 × 4) a) and ( √ 7 × √ 3) b) CDW phases of 1T-VSe2 compared to the unpolarized DOS. The same in c) and d) for the (4 × 1) and (5 × 1) CDW phases of 1T-VTe2 respectively.",
+      "page": "70",
+      "attachment_key": "SNX492YC",
+      "file": "fig_4_SNX492YC.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Figure 5.10: a) STS taken on the Na island edge point indicated by the green cross in the inset (V = 1 V, I = 100 pA). b,c) Constant current image of an Na island (V = 1 V, I = 400 pA) and the 1D conductance map along the corresponding line on. d,e) Constant current image of a Na island (V = 1 V, I = 200 pA) and its corresponding conductance map at a bias of 12 mV on the same area. f) Statistics of the two 3d derived peaks in the measured STS on different areas. The two arrows show doping behavi",
+      "page": "85",
+      "attachment_key": "5Q38TX98",
+      "file": "fig_5_5Q38TX98.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Figure 6.5: a) DFT calculations of the energy barrier for the transition between different charged configurations of the CDWs.(b) Schematic of the charged VTe2 monolayer, where one electron per 4 × 4 unit cell was added to simulate the additional charge.",
+      "page": "96",
+      "attachment_key": "636CJF56",
+      "file": "fig_6_636CJF56.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Figure 7.7: Conductance of the various CDW phases in monolayer 1T-VTe2 a) and asso-ciated I/V simulation b). Comparision of 1T-VSe2 and 1T-VTe2 monolayer conductance c) and related I/V simulation d).",
+      "page": "106",
+      "attachment_key": "47SP3LTQ",
+      "file": "fig_7_47SP3LTQ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "&quot;VSe2_4x4.xyz&quot;",
+      "page": "132",
+      "attachment_key": "AI64UBRE",
+      "file": "tab_2_AI64UBRE.png"
+    },
+    {
+      "id": "tab_4",
+      "title": "Table 4",
+      "content": "Table 4.5: Energy difference between spin polarized CDW phases and unpolarized case in meV per unit cell; and total magnetization per unit cell in the spin polarized configuration for 1T-VSe2.",
+      "page": "69",
+      "attachment_key": "JT3VJJT9",
+      "file": "tab_4_JT3VJJT9.png"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Study of charge density waves in transition metal dichalcogenides|\n|短标题|过渡金属二元醇盐中电荷密度波的研究|\n|作者|[[Mahé Lezoualc'H]]|\n|期刊名称||\n|DOI||\n|存档位置||\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[02_过渡金属硫族化合物 (TMDCs)]]|\n|条目链接|[My Library](zotero://select/library/items/B382R3N6)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/2I3PTPA5\">Lezoualc'H - Study of charge density waves in transition metal dichalcogenides</a></li><li><a href=\"zotero://open-pdf/library/items/YQ9DHJTV\">Lezoualc'H - Study of charge density waves in transition metal dichalcogenides.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(B.1)",
+      "page": "117",
+      "attachment_key": "D2HJ4AMM",
+      "file": "eq_1_D2HJ4AMM.png"
+    },
+    {
+      "id": "eq_10",
+      "title": "Equation 10",
+      "content": "(B.10)",
+      "page": "118",
+      "attachment_key": "4QJW9XGP",
+      "file": "eq_10_4QJW9XGP.png"
+    },
+    {
+      "id": "eq_11",
+      "title": "Equation 11",
+      "content": "(B.11)",
+      "page": "118",
+      "attachment_key": "RIQIHHJ2",
+      "file": "eq_11_RIQIHHJ2.png"
+    },
+    {
+      "id": "eq_12",
+      "title": "Equation 12",
+      "content": "(B.12)",
+      "page": "118",
+      "attachment_key": "5X9EBAPR",
+      "file": "eq_12_5X9EBAPR.png"
+    },
+    {
+      "id": "eq_13",
+      "title": "Equation 13",
+      "content": "(B.13)",
+      "page": "119",
+      "attachment_key": "5SVX2VHJ",
+      "file": "eq_13_5SVX2VHJ.png"
+    },
+    {
+      "id": "eq_14",
+      "title": "Equation 14",
+      "content": "(B.14)",
+      "page": "119",
+      "attachment_key": "4TQHE5DT",
+      "file": "eq_14_4TQHE5DT.png"
+    },
+    {
+      "id": "eq_15",
+      "title": "Equation 15",
+      "content": "(B.15)",
+      "page": "119",
+      "attachment_key": "NIDF55Z5",
+      "file": "eq_15_NIDF55Z5.png"
+    },
+    {
+      "id": "eq_16",
+      "title": "Equation 16",
+      "content": "(B.16)",
+      "page": "119",
+      "attachment_key": "26QAC9SX",
+      "file": "eq_16_26QAC9SX.png"
+    },
+    {
+      "id": "eq_17",
+      "title": "Equation 17",
+      "content": "(B.17)",
+      "page": "119",
+      "attachment_key": "EG2SGI92",
+      "file": "eq_17_EG2SGI92.png"
+    },
+    {
+      "id": "eq_18",
+      "title": "Equation 18",
+      "content": "(A.18)",
+      "page": "114",
+      "attachment_key": "2Q8VV3QH",
+      "file": "eq_18_2Q8VV3QH.png"
+    },
+    {
+      "id": "eq_19",
+      "title": "Equation 19",
+      "content": "(B.19)",
+      "page": "119",
+      "attachment_key": "36KA7ASC",
+      "file": "eq_19_36KA7ASC.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(B.2)",
+      "page": "117",
+      "attachment_key": "DICIHKWG",
+      "file": "eq_2_DICIHKWG.png"
+    },
+    {
+      "id": "eq_20",
+      "title": "Equation 20",
+      "content": "(B.20)",
+      "page": "119",
+      "attachment_key": "8LSAI3YN",
+      "file": "eq_20_8LSAI3YN.png"
+    },
+    {
+      "id": "eq_21",
+      "title": "Equation 21",
+      "content": "(B.21)",
+      "page": "119",
+      "attachment_key": "GUABENQZ",
+      "file": "eq_21_GUABENQZ.png"
+    },
+    {
+      "id": "eq_22",
+      "title": "Equation 22",
+      "content": "(B.22)",
+      "page": "119",
+      "attachment_key": "JVIC2HDB",
+      "file": "eq_22_JVIC2HDB.png"
+    },
+    {
+      "id": "eq_23",
+      "title": "Equation 23",
+      "content": "(B.23)",
+      "page": "119",
+      "attachment_key": "9FYP9N9P",
+      "file": "eq_23_9FYP9N9P.png"
+    },
+    {
+      "id": "eq_24",
+      "title": "Equation 24",
+      "content": "(B.24)",
+      "page": "119",
+      "attachment_key": "EAYPLXAF",
+      "file": "eq_24_EAYPLXAF.png"
+    },
+    {
+      "id": "eq_25",
+      "title": "Equation 25",
+      "content": "(B.25)",
+      "page": "119",
+      "attachment_key": "Y9MZS5DL",
+      "file": "eq_25_Y9MZS5DL.png"
+    },
+    {
+      "id": "eq_26",
+      "title": "Equation 26",
+      "content": "(B.26)",
+      "page": "119",
+      "attachment_key": "PYLEAIRT",
+      "file": "eq_26_PYLEAIRT.png"
+    },
+    {
+      "id": "eq_27",
+      "title": "Equation 27",
+      "content": "(B.27)",
+      "page": "119",
+      "attachment_key": "Z24E77R2",
+      "file": "eq_27_Z24E77R2.png"
+    },
+    {
+      "id": "eq_28",
+      "title": "Equation 28",
+      "content": "(B.28)",
+      "page": "120",
+      "attachment_key": "GT8REIYM",
+      "file": "eq_28_GT8REIYM.png"
+    },
+    {
+      "id": "eq_29",
+      "title": "Equation 29",
+      "content": "(B.29)",
+      "page": "120",
+      "attachment_key": "LN245G3U",
+      "file": "eq_29_LN245G3U.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(B.3)",
+      "page": "117",
+      "attachment_key": "CCSJ2GRV",
+      "file": "eq_3_CCSJ2GRV.png"
+    },
+    {
+      "id": "eq_30",
+      "title": "Equation 30",
+      "content": "(B.30)",
+      "page": "120",
+      "attachment_key": "9V2LUF38",
+      "file": "eq_30_9V2LUF38.png"
+    },
+    {
+      "id": "eq_31",
+      "title": "Equation 31",
+      "content": "(B.31)",
+      "page": "120",
+      "attachment_key": "GDTAJXDV",
+      "file": "eq_31_GDTAJXDV.png"
+    },
+    {
+      "id": "eq_32",
+      "title": "Equation 32",
+      "content": "(B.32)",
+      "page": "120",
+      "attachment_key": "NWZ3EKLD",
+      "file": "eq_32_NWZ3EKLD.png"
+    },
+    {
+      "id": "eq_33",
+      "title": "Equation 33",
+      "content": "(B.33)",
+      "page": "121",
+      "attachment_key": "IXP3CCP8",
+      "file": "eq_33_IXP3CCP8.png"
+    },
+    {
+      "id": "eq_35",
+      "title": "Equation 35",
+      "content": "(B.35)",
+      "page": "121",
+      "attachment_key": "N5ZTUUBN",
+      "file": "eq_35_N5ZTUUBN.png"
+    },
+    {
+      "id": "eq_36",
+      "title": "Equation 36",
+      "content": "(B.36)",
+      "page": "122",
+      "attachment_key": "LFLSE7NZ",
+      "file": "eq_36_LFLSE7NZ.png"
+    },
+    {
+      "id": "eq_37",
+      "title": "Equation 37",
+      "content": "(B.37)",
+      "page": "122",
+      "attachment_key": "DHMSTZDZ",
+      "file": "eq_37_DHMSTZDZ.png"
+    },
+    {
+      "id": "eq_38",
+      "title": "Equation 38",
+      "content": "(B.38)",
+      "page": "122",
+      "attachment_key": "NTBSY88C",
+      "file": "eq_38_NTBSY88C.png"
+    },
+    {
+      "id": "eq_39",
+      "title": "Equation 39",
+      "content": "(B.39)",
+      "page": "122",
+      "attachment_key": "44RQTGZV",
+      "file": "eq_39_44RQTGZV.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(B.4)",
+      "page": "117",
+      "attachment_key": "B3KAWQHC",
+      "file": "eq_4_B3KAWQHC.png"
+    },
+    {
+      "id": "eq_40",
+      "title": "Equation 40",
+      "content": "(B.40)",
+      "page": "122",
+      "attachment_key": "MHD23D4G",
+      "file": "eq_40_MHD23D4G.png"
+    },
+    {
+      "id": "eq_41",
+      "title": "Equation 41",
+      "content": "(B.41)",
+      "page": "122",
+      "attachment_key": "QQ4DIILW",
+      "file": "eq_41_QQ4DIILW.png"
+    },
+    {
+      "id": "eq_42",
+      "title": "Equation 42",
+      "content": "(B.42)",
+      "page": "122",
+      "attachment_key": "TIL7BM3U",
+      "file": "eq_42_TIL7BM3U.png"
+    },
+    {
+      "id": "eq_43",
+      "title": "Equation 43",
+      "content": "(B.43)",
+      "page": "122",
+      "attachment_key": "UN7DC4ZL",
+      "file": "eq_43_UN7DC4ZL.png"
+    },
+    {
+      "id": "eq_46",
+      "title": "Equation 46",
+      "content": "(B.46)",
+      "page": "123",
+      "attachment_key": "YH6DUI4K",
+      "file": "eq_46_YH6DUI4K.png"
+    },
+    {
+      "id": "eq_47",
+      "title": "Equation 47",
+      "content": "(B.47)",
+      "page": "123",
+      "attachment_key": "U4J83534",
+      "file": "eq_47_U4J83534.png"
+    },
+    {
+      "id": "eq_48",
+      "title": "Equation 48",
+      "content": "(B.48)",
+      "page": "123",
+      "attachment_key": "LBU2FUDY",
+      "file": "eq_48_LBU2FUDY.png"
+    },
+    {
+      "id": "eq_49",
+      "title": "Equation 49",
+      "content": "(B.49)",
+      "page": "123",
+      "attachment_key": "G9FKBBRR",
+      "file": "eq_49_G9FKBBRR.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "(B.5)",
+      "page": "117",
+      "attachment_key": "4Q65R45P",
+      "file": "eq_5_4Q65R45P.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "(B.6)",
+      "page": "118",
+      "attachment_key": "8L6RPUFS",
+      "file": "eq_6_8L6RPUFS.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "(B.7)",
+      "page": "118",
+      "attachment_key": "MLXFUTKI",
+      "file": "eq_7_MLXFUTKI.png"
+    },
+    {
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "(A.8)",
+      "page": "113",
+      "attachment_key": "J5Z7LL2M",
+      "file": "eq_8_J5Z7LL2M.png"
+    },
+    {
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "(A.9)",
+      "page": "113",
+      "attachment_key": "7XLPERMX",
+      "file": "eq_9_7XLPERMX.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

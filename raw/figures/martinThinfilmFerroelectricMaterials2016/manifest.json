@@ -5,139 +5,79 @@
     {
       "fig_number": "1",
       "title": "Figure 1",
-      "llm_description": "Figure 1 | Thin-film strain effects. a | Cross-sectional, atomic-scale Z‑contrast image of  the compositionally abrupt interface in the CaTiO3/SrTiO3/BaTiO3 tri-colour superlattice,  together with a schematic illustration of the structure (left). Wide-angle X‑ray diffraction  scan of the same superl",
+      "llm_description": "Figure 1 | Thin-film strain effects. a | Cross-sectional, atomic-scale Z‑contrast image of  the compositionally abrupt interface in the CaTiO3/SrTiO3/BaTiO3 tri-colour superlattice,  together with a schematic illustration of the structure (left). Wide-angle X‑ray diffraction  scan of the same superlattice showing high crystallinity, significant long-range  periodicity and the superlattice peaks expected for such structures (right). The STO 001  and 002 peaks arise from the substrate SrTiO3; the ",
       "page": "3",
-      "attachment_key": "LQH29WWR",
-      "file": "fig_1_LQH29WWR.png",
+      "attachment_key": "3MZQEWLL",
+      "file": "fig_1_3MZQEWLL.png",
       "tags": [
         "unread",
         "参考文献-layer"
       ],
-      "materials": [
-        "BiFeO3",
-        "graphene",
-        "石墨烯",
-        "HfO2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "AFM",
-        "Raman"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "Figure 2 | Examples of the application of unconventional strain. a | X‑ray  reciprocal-space maps showing the 103- and 332‑diffraction conditions of BaTiO3 films  grown on SrRuO3 and GdScO3 substrates, respectively, at a laser fluence of 1.5 J cm−2  (left) and 2.7 J cm−2 (right). If the growth condi",
+      "llm_description": "Figure 2 | Examples of the application of unconventional strain. a | X‑ray  reciprocal-space maps showing the 103- and 332‑diffraction conditions of BaTiO3 films  grown on SrRuO3 and GdScO3 substrates, respectively, at a laser fluence of 1.5 J cm−2  (left) and 2.7 J cm−2 (right). If the growth conditions are tuned, coherently strained films  with tunable lattice expansion going from Δc/c &lt; 1% to Δc/c &gt; 4% can be obtained  (where c is the lattice parameter, and Qx and Qy are the reciprocal-",
       "page": "4",
-      "attachment_key": "PUD58DY4",
-      "file": "fig_2_PUD58DY4.png",
+      "attachment_key": "WCM7X879",
+      "file": "fig_2_WCM7X879.png",
       "tags": [
         "unread",
         "参考文献-layer"
       ],
-      "materials": [
-        "BiFeO3",
-        "graphene",
-        "石墨烯",
-        "HfO2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "AFM",
-        "Raman"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "Figure 3 | Thermal properties of ferroelectric materials. a | Electrocaloric temperature change in PbZr0.95Ti0.05O3 films  extracted from indirect measurements and using the appropriate Maxwell relationship. The inset shows the measured  polarization (P) as a function of temperature (T) for some val",
+      "llm_description": "Figure 3 | Thermal properties of ferroelectric materials. a | Electrocaloric temperature change in PbZr0.95Ti0.05O3 films  extracted from indirect measurements and using the appropriate Maxwell relationship. The inset shows the measured  polarization (P) as a function of temperature (T) for some values of the electric field (E). b | By applying a varying  temperature profile (red curve) it is possible to use lock‑in techniques to measure the corresponding pyroelectric current  (blue curve). c | ",
       "page": "7",
-      "attachment_key": "U39RF5VD",
-      "file": "fig_3_U39RF5VD.png",
+      "attachment_key": "E2ECUFLB",
+      "file": "fig_3_E2ECUFLB.png",
       "tags": [
         "unread",
         "参考文献-layer"
       ],
-      "materials": [
-        "BiFeO3",
-        "graphene",
-        "石墨烯",
-        "HfO2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "AFM",
-        "Raman"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "4",
       "title": "Figure 4",
-      "llm_description": "Figure 4 | Potential of ferroelectric materials for applications. a | Vertical piezoresponse  force microscopy amplitude (left) and phase (middle) images of a 109° stripe domain-wall  array in BiFeO3. The corresponding conducting atomic-force microscopy image showing  conduction at each 109° domain ",
+      "llm_description": "Figure 4 | Potential of ferroelectric materials for applications. a | Vertical piezoresponse  force microscopy amplitude (left) and phase (middle) images of a 109° stripe domain-wall  array in BiFeO3. The corresponding conducting atomic-force microscopy image showing  conduction at each 109° domain wall is shown on the right. b | Potential energy (U)  landscape description of negative capacitance (C) in ferroelectrics as a function of charge  (QF). The left panel shows the case of a ferroelectri",
       "page": "8",
-      "attachment_key": "55TIDZCL",
-      "file": "fig_4_55TIDZCL.png",
+      "attachment_key": "HJX46T8M",
+      "file": "fig_4_HJX46T8M.png",
       "tags": [
         "unread",
         "参考文献-layer"
       ],
-      "materials": [
-        "BiFeO3",
-        "graphene",
-        "石墨烯",
-        "HfO2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "AFM",
-        "Raman"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "5",
       "title": "Figure 5",
-      "llm_description": "Figure 5 | Promising developments in ferroelectrics research. a | High-throughput  analysis of advanced piezoelectric materials including the calculated cell parameters (a0)  and their range of bandgaps (Egap; top), and the electromechanical coupling factor (k14) as  a function of the piezoelectric ",
+      "llm_description": "Figure 5 | Promising developments in ferroelectrics research. a | High-throughput  analysis of advanced piezoelectric materials including the calculated cell parameters (a0)  and their range of bandgaps (Egap; top), and the electromechanical coupling factor (k14) as  a function of the piezoelectric constant (e14) for insulating ABC combinations (bottom).  Known combinations are highlighted as filled red circles. b | Data and schematic  diagrams of the unit-cell response in an ultrafast pump-prob",
       "page": "10",
-      "attachment_key": "BLTF6FNE",
-      "file": "fig_5_BLTF6FNE.png",
+      "attachment_key": "4V7HUWMA",
+      "file": "fig_5_4V7HUWMA.png",
       "tags": [
         "unread",
         "参考文献-layer"
       ],
-      "materials": [
-        "BiFeO3",
-        "graphene",
-        "石墨烯",
-        "HfO2"
-      ],
-      "methods": [
-        "PFM",
-        "first-principles",
-        "STEM",
-        "TEM",
-        "AFM",
-        "Raman"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Thin-film ferroelectric materials and their applications|\n|短标题|薄膜铁电材料及其应用|\n|作者|[[Lane W. Martin]]、 [[Andrew M. Rappe]]|\n|期刊名称|[[Nature Reviews Materials]]|\n|DOI|[10.1038/natrevmats.2016.87](https://doi.org/10.1038/natrevmats.2016.87)|\n|存档位置|926|\n|文库编目|86.2|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/4NLQM9KH)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/WY9G9RP9\">全文</a></li><li><a href=\"zotero://open-pdf/library/items/MGY3USP9\">Martin和Rappe - 2016 - Thin-film ferroelectric materials and their applications.pdf</a></li></ul>|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Thin-film ferroelectric materials and their applications|\n|短标题|铁电薄膜材料及其应用|\n|作者|[[Lane W. Martin]]、 [[Andrew M. Rappe]]|\n|期刊名称|[[Nature Reviews Materials]]|\n|DOI|[10.1038/natrevmats.2016.87](https://doi.org/10.1038/natrevmats.2016.87)|\n|存档位置|926|\n|文库编目|86.2|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/4NLQM9KH)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/WY9G9RP9\">Martin和Rappe - 2016 - Thin-film ferroelectric materials and their applications</a></li><li><a href=\"zotero://open-pdf/library/items/MGY3USP9\">Martin和Rappe - 2016 - Thin-film ferroelectric materials and their applications.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],
@@ -146,18 +86,6 @@
     "unread",
     "参考文献-layer"
   ],
-  "materials": [
-    "BiFeO3",
-    "graphene",
-    "石墨烯",
-    "HfO2"
-  ],
-  "methods": [
-    "PFM",
-    "first-principles",
-    "STEM",
-    "TEM",
-    "AFM",
-    "Raman"
-  ]
+  "materials": [],
+  "methods": []
 }

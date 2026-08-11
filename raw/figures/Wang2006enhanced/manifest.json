@@ -1,0 +1,19 @@
+{
+  "parent_key": "Wang2006enhanced",
+  "title": "Wang2006enhanced",
+  "figures": [],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Enhanced ferroelectricity in Ti-doped multiferroic BiFeO3 thin films|\n|短标题|Ti掺杂多铁性BiFeO3薄膜的铁电性增强|\n|作者|[[Yao Wang]]、 [[Ce-Wen Nan]]|\n|期刊名称|[[Applied Physics Letters]]|\n|DOI|[10.1063/1.2222242](https://doi.org/10.1063/1.2222242)|\n|存档位置|270|\n|文库编目|3.8|\n|索书号|3|\n|版权||\n|分类|[[09_BiFeO3 Specific]]|\n|条目链接|[My Library](zotero://select/library/items/7GELDWFX)|\n|PDF 附件||\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "Done"
+  ],
+  "materials": [],
+  "methods": []
+}

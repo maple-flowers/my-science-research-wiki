@@ -5,10 +5,10 @@
     {
       "fig_number": "1",
       "title": "Figure 1",
-      "llm_description": "图 1 (网络版彩色)CuInP 2S 6 (CIPS)和In 2Se 3的自极化. (a) CuInP 2S 6原子结构示意图 [13]; (b) CuInP 2S 6四重势阱模型(Copyright © 2021, American  Chemical Society) [26]; (c) 极化切换时Cu 1+的移动模拟, LP/HP分别代表CIPS的低极化态和高极化态(Copyright © 2020, American Physical  Society) [28]; (d) PFM相位图显示了厚度为30 nm的CIPS薄片在反向直流偏压下写入的盒中盒图案, 比例尺为1 μm [13]",
+      "llm_description": "图 1 (网络版彩色)CuInP 2S 6 (CIPS)和In 2Se 3的自极化. (a) CuInP 2S 6原子结构示意图 [13]; (b) CuInP 2S 6四重势阱模型(Copyright © 2021, American  Chemical Society) [26]; (c) 极化切换时Cu 1+的移动模拟, LP/HP分别代表CIPS的低极化态和高极化态(Copyright © 2020, American Physical  Society) [28]; (d) PFM相位图显示了厚度为30 nm的CIPS薄片在反向直流偏压下写入的盒中盒图案, 比例尺为1 μm [13]; (e) (d)图区域PFM振幅和  相位迟滞回线 [13]; (f) In 2Se 3的原子构型及其极化切换模型(Copyright © 2018, American Chemical Society) [31]; (g) 单层In 2Se 3的PFM形貌图及其压  电响应回滞(Copyright © 2018 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Wei",
       "page": "3",
-      "attachment_key": "ZFTJLU4D",
-      "file": "fig_1_ZFTJLU4D.png",
+      "attachment_key": "7K9CL28G",
+      "file": "fig_1_7K9CL28G.png",
       "tags": [
         "Done"
       ],
@@ -18,10 +18,10 @@
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "图 2 (网络版彩色)BP-Bi和d1T-MoTe 2的自极化. (a) 单层BP-Bi的晶格结构示意图. 上图和中间的图分别展示了Δh = d 0状态的顶视图和侧视图.  对于Δh = –d 0状态, 仅在最下面的图中显示了侧视图模型 [50]; (b) 当Δh = d 0时, BP-Bi的能带结构 [50]; (c) 计算得到的每个单元胞的自由能和极化强  度P与晶格翘曲Δh的关系, 它们分别表现出非谐双势阱和近似线性关系 [50]; (d) 子晶格A和B处p z轨道旋转的示意图(上图). 下图展示了三种翘曲  条件(Δh = –d 0, Δh = 0, Δh = d 0)对应的p z价电",
+      "llm_description": "图 2 (网络版彩色)BP-Bi和d1T-MoTe 2的自极化. (a) 单层BP-Bi的晶格结构示意图. 上图和中间的图分别展示了Δh = d 0状态的顶视图和侧视图.  对于Δh = –d 0状态, 仅在最下面的图中显示了侧视图模型 [50]; (b) 当Δh = d 0时, BP-Bi的能带结构 [50]; (c) 计算得到的每个单元胞的自由能和极化强  度P与晶格翘曲Δh的关系, 它们分别表现出非谐双势阱和近似线性关系 [50]; (d) 子晶格A和B处p z轨道旋转的示意图(上图). 下图展示了三种翘曲  条件(Δh = –d 0, Δh = 0, Δh = d 0)对应的p z价电荷密度图 [50]; (e) PFM相位图显示了单层d1T-MoTe 2在±8 V直流偏压下写入的盒中盒图案, 比例尺为  1 μm [54]; (f) (e)图区域PFM振幅和相位迟滞回线 [54]; (g) K 3和模式的晶格弛豫示意图(Copyright © 2016, American Physical Society) [55]; (h) 铁电  d1T相与顺电1T相的电荷密度差的俯视图",
       "page": "4",
-      "attachment_key": "JKE4SR52",
-      "file": "fig_2_JKE4SR52.png",
+      "attachment_key": "UYFSHFQT",
+      "file": "fig_2_UYFSHFQT.png",
       "tags": [
         "Done"
       ],
@@ -31,10 +31,10 @@
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "图 3 (网络版彩色)hBN滑移铁电的实验验证. (a) 六种高对称堆叠配置的hBN–hBN界面示意图 [21]; (b) 转角hBN的dc-EFM图像(相位)展现出大  面积三角形电位调制 [21]; (c) 石墨烯/p(t)-hBN器件结构示意图(Copyright © 2021, The American Association for the Advancement of Science) [23]; (d)  t-hBN器件中电阻随顶栅和背栅变化的相图, 电阻峰的演化为双峰渐进式 [23]; (e) 测量得到的p(t)-hBN的电滞回线 [23]; (f) 平行排列t-hBN中SP区",
+      "llm_description": "图 3 (网络版彩色)hBN滑移铁电的实验验证. (a) 六种高对称堆叠配置的hBN–hBN界面示意图 [21]; (b) 转角hBN的dc-EFM图像(相位)展现出大  面积三角形电位调制 [21]; (c) 石墨烯/p(t)-hBN器件结构示意图(Copyright © 2021, The American Association for the Advancement of Science) [23]; (d)  t-hBN器件中电阻随顶栅和背栅变化的相图, 电阻峰的演化为双峰渐进式 [23]; (e) 测量得到的p(t)-hBN的电滞回线 [23]; (f) 平行排列t-hBN中SP区  域的晶格构型(Copyright © 2023, Science China Press) [66]; (g) t-hBN中不同区域面内极化强度的理论计算 [67]; (h) t-hBN中面内铁电性的空间分  布 [67]",
       "page": "6",
-      "attachment_key": "6YDJEIL8",
-      "file": "fig_3_6YDJEIL8.png",
+      "attachment_key": "4EZJK5IN",
+      "file": "fig_3_4EZJK5IN.png",
       "tags": [
         "Done"
       ],
@@ -44,10 +44,10 @@
     {
       "fig_number": "4",
       "title": "Figure 4",
-      "llm_description": "图 4 (网络版彩色)WTe 2和2H-TMDs中的铁电性. (a~c) 三层、双层和单层WTe 2器件的输运特性, 三层和双层中出现了明显的电滞回线, 而单  层却不存在(Copyright © 2018, Macmillan Publishers Ltd., part of Springer Nature) [18]. (d) T d相WTe 2原子结构示意图. 理论通过分析层间4种Te原  子的带电量计算层间的极化方向和强度(Copyright © 2018, American Chemical Society) [72]. (e) 5层WTe 2中拉曼光谱对垂直电压的响应. 拉曼光谱 ",
+      "llm_description": "图 4 (网络版彩色)WTe 2和2H-TMDs中的铁电性. (a~c) 三层、双层和单层WTe 2器件的输运特性, 三层和双层中出现了明显的电滞回线, 而单  层却不存在(Copyright © 2018, Macmillan Publishers Ltd., part of Springer Nature) [18]. (d) T d相WTe 2原子结构示意图. 理论通过分析层间4种Te原  子的带电量计算层间的极化方向和强度(Copyright © 2018, American Chemical Society) [72]. (e) 5层WTe 2中拉曼光谱对垂直电压的响应. 拉曼光谱  中剪切模的消失证明材料通过层间滑动从T d相转变为1T′相 [74]. (f) H堆叠和两种平行R堆叠的原子结构示意图 [75]. (g) PFM测得的莫尔三角铁电  畴的相位图, 比例尺为200 nm [75]. (h) 单畴主导和多畴共存两种器件的极化回滞曲线 [75]",
       "page": "7",
-      "attachment_key": "5QYVEYYN",
-      "file": "fig_4_5QYVEYYN.png",
+      "attachment_key": "2X9UPMDA",
+      "file": "fig_4_2X9UPMDA.png",
       "tags": [
         "Done"
       ],
@@ -57,10 +57,10 @@
     {
       "fig_number": "5",
       "title": "Figure 5",
-      "llm_description": "图 5 (网络版彩色)石墨烯中的新奇滑移铁电. (a) BLG V TG-V BG相图, 该相图由正向和反向背栅扫描相图相减所得. 在背栅电压超过一定值时,  电阻失去对其的响应 [24]; (b, c) 四种情况下BLG的能量与态密度关系的示意图 [24]; (d) BLG V t-V b相图的CNP和FFP附近均出现了电回滞环 [25]; (e)  在V t-V b相图中突显了CNP与FFP处的异常屏蔽效应, 其中五组切割线由彩色三角形标记. 插图: 其在能带结构中的对应位置 [25]; (f) 五组切割线  对应的电阻-V t响应曲线 [25]; (g) 不论是否使用WSe 2屏蔽BN/",
+      "llm_description": "图 5 (网络版彩色)石墨烯中的新奇滑移铁电. (a) BLG V TG-V BG相图, 该相图由正向和反向背栅扫描相图相减所得. 在背栅电压超过一定值时,  电阻失去对其的响应 [24]; (b, c) 四种情况下BLG的能量与态密度关系的示意图 [24]; (d) BLG V t-V b相图的CNP和FFP附近均出现了电回滞环 [25]; (e)  在V t-V b相图中突显了CNP与FFP处的异常屏蔽效应, 其中五组切割线由彩色三角形标记. 插图: 其在能带结构中的对应位置 [25]; (f) 五组切割线  对应的电阻-V t响应曲线 [25]; (g) 不论是否使用WSe 2屏蔽BN/石墨烯之间的莫尔势, 器件均能产生电回滞现象. 其中实线为有WSe 2屏蔽; 虚线为无  屏蔽 [84]; (h) 多种BN与石墨烯的堆叠方式可以产生层间自极化 [85]",
       "page": "8",
-      "attachment_key": "JFBYPJ3M",
-      "file": "fig_5_JFBYPJ3M.png",
+      "attachment_key": "STBTQZWP",
+      "file": "fig_5_STBTQZWP.png",
       "tags": [
         "Done"
       ],
@@ -70,10 +70,10 @@
     {
       "fig_number": "6",
       "title": "Figure 6",
-      "llm_description": "图 6 (网络版彩色)铁电畴操控实验. (a) 背栅调控下PFM测量R-MoSe 2的示意图和振幅图. 比例尺为300 nm [75]. (b, c) 应变较大区域的莫尔畴壁  存在畴壁合并的现象 [87]. (d~g) 四种畴壁结构的电回滞特性 [89]  Figure 6 (Color online) Ferroelectric domain manipulation experiments. (a) Schematic illustration and amplitude image of lateral PFM measurement  on back-gated R-MoSe 2 d",
+      "llm_description": "图 6 (网络版彩色)铁电畴操控实验. (a) 背栅调控下PFM测量R-MoSe 2的示意图和振幅图. 比例尺为300 nm [75]. (b, c) 应变较大区域的莫尔畴壁  存在畴壁合并的现象 [87]. (d~g) 四种畴壁结构的电回滞特性 [89]  Figure 6 (Color online) Ferroelectric domain manipulation experiments. (a) Schematic illustration and amplitude image of lateral PFM measurement  on back-gated R-MoSe 2 device. Scale bar, 300 nm [75]. (b, c) Moiré domain wall coalescence behavior in high-strain regions [87]. (d–g) Electrical  hysteresis of four domain wall configurations [89]",
       "page": "10",
-      "attachment_key": "L9HJXKCN",
-      "file": "fig_6_L9HJXKCN.png",
+      "attachment_key": "LPWUBNHG",
+      "file": "fig_6_LPWUBNHG.png",
       "tags": [
         "Done"
       ],
@@ -83,10 +83,10 @@
     {
       "fig_number": "7",
       "title": "Figure 7",
-      "llm_description": "图 7 (网络版彩色)非易失性存储和光电异质结器件. (a~c) 理论模拟获得的不同层数3R-MoS 2极化态数量、极化强度、MEP和能垒信息 [90];  (d) 通过较强(弱)电压脉冲可以在多个极化态之间切换, 且各极化态可以长时间维持 [90]; (e) 3R-MoS 2的铁电器件在不同脉冲宽度和周期数下的  电阻比循环(Copyright © 2024, The American Association for the Advancement of Science) [93]; (f) 在不同脉冲宽度的写入脉冲作用下, 漏极电流发  生变化, 呈现非易失性数据保留 [93]; (g) ",
+      "llm_description": "图 7 (网络版彩色)非易失性存储和光电异质结器件. (a~c) 理论模拟获得的不同层数3R-MoS 2极化态数量、极化强度、MEP和能垒信息 [90];  (d) 通过较强(弱)电压脉冲可以在多个极化态之间切换, 且各极化态可以长时间维持 [90]; (e) 3R-MoS 2的铁电器件在不同脉冲宽度和周期数下的  电阻比循环(Copyright © 2024, The American Association for the Advancement of Science) [93]; (f) 在不同脉冲宽度的写入脉冲作用下, 漏极电流发  生变化, 呈现非易失性数据保留 [93]; (g) 铁电BN封装的单层WSe 2示意图(Copyright © 2023, American Physical Society) [95]; (h) 光激发下WSe 2受  AB/BA势的调制会激发不同类型的激子 [95]; (i, j) 光泵浦-探测技术验证t-hBN可以阻止层内激子的扩散 [96]; (k, l) 利用铁电性开关非线性反常霍  尔输运. 仅在P&lt;0时, 在ν=–1和ν=–2处",
       "page": "11",
-      "attachment_key": "RG3CNT9A",
-      "file": "fig_7_RG3CNT9A.png",
+      "attachment_key": "ZGPUVX9E",
+      "file": "fig_7_ZGPUVX9E.png",
       "tags": [
         "Done"
       ],
@@ -96,10 +96,10 @@
     {
       "fig_number": "8",
       "title": "Figure 8",
-      "llm_description": "图 8 (网络版彩色)自发光伏效应和材料生长实验. (a, b) WSe 2/BP器件的实验原理图及I-V特性图(Copyright © 2021, The American Association  for the Advancement of Science) [103]; (c) 石墨烯屏蔽去极化场的MoS 2隧道结器件示意图 [104]; (d) 不同器件中零偏置时光电流的激光功率依赖  性 [104]; (e) 通过可调延时(Δτ)双脉冲激光器解耦热/电子动力学原理图(Copyright © 2022, The American Association for the Advance",
+      "llm_description": "图 8 (网络版彩色)自发光伏效应和材料生长实验. (a, b) WSe 2/BP器件的实验原理图及I-V特性图(Copyright © 2021, The American Association  for the Advancement of Science) [103]; (c) 石墨烯屏蔽去极化场的MoS 2隧道结器件示意图 [104]; (d) 不同器件中零偏置时光电流的激光功率依赖  性 [104]; (e) 通过可调延时(Δτ)双脉冲激光器解耦热/电子动力学原理图(Copyright © 2022, The American Association for the Advancement of  Science) [105]; (f) 泵浦-探测光电流强度随∆τ的变化 [105]; (g) rBN生长过程中堆叠控制的连续沉积方法示意图(Copyright © 2023 Wiley-VCH  GmbH) [110]; (h) rBN和hBN的结构区别, rBN是大面积制备AB/BA堆垛BN的母体材料 [110]; (i, j) SHG和XRD测试结果证明单晶rBN的生长 [",
       "page": "12",
-      "attachment_key": "CQRLWGQ6",
-      "file": "fig_8_CQRLWGQ6.png",
+      "attachment_key": "WMJBUIEV",
+      "file": "fig_8_WMJBUIEV.png",
       "tags": [
         "Done"
       ],
@@ -111,11 +111,28 @@
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Advances in two-dimensional ferroelectric materials|\n|短标题|二维铁电材料研究进展|\n|作者|[[Zi-Han Guo]]、 [[Lin He]]|\n|期刊名称|[[Chinese Science Bulletin]]|\n|DOI|[10.1360/TB-2025-0214](https://doi.org/10.1360/TB-2025-0214)|\n|存档位置|1|\n|文库编目|1.2|\n|索书号|1|\n|版权||\n|分类|[[06_单层 CDW 与维度效应 (Monolayer/Dimension)]]|\n|条目链接|[My Library](zotero://select/library/items/AKEWVUN5)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/V8SPVIJ9\">Guo和He - 2025 - Advances in two-dimensional ferroelectric materials</a></li><li><a href=\"zotero://open-pdf/library/items/NIL4PP8B\">Guo和He - 2025 - Advances in two-dimensional ferroelectric materials.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Advances in two-dimensional ferroelectric materials|\n|短标题|二维铁电材料的研究进展|\n|作者|[[Zi-Han Guo]]、 [[Lin He]]|\n|期刊名称|[[Chinese Science Bulletin]]|\n|DOI|[10.1360/TB-2025-0214](https://doi.org/10.1360/TB-2025-0214)|\n|存档位置|1|\n|文库编目|1.2|\n|索书号|1|\n|版权||\n|分类|[[06_单层 CDW 与维度效应 (Monolayer/Dimension)]]|\n|条目链接|[My Library](zotero://select/library/items/AKEWVUN5)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/V8SPVIJ9\">Guo和He - 2025 - Advances in two-dimensional ferroelectric materials</a></li><li><a href=\"zotero://open-pdf/library/items/NIL4PP8B\">Guo和He - 2025 - Advances in two-dimensional ferroelectric materials.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "5",
+      "attachment_key": "HLFFW8ZS",
+      "file": "eq_1_HLFFW8ZS.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "5",
+      "attachment_key": "P3F62JLF",
+      "file": "eq_2_P3F62JLF.png"
+    }
+  ],
   "tags": [
     "Done"
   ],

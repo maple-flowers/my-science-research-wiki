@@ -1,156 +1,18 @@
 {
   "parent_key": "zhangEmergingFrontiersTwodimensional2025",
   "title": "zhangEmergingFrontiersTwodimensional2025",
-  "figures": [
-    {
-      "fig_number": "0",
-      "title": "Figure 0",
-      "llm_description": "Advancement of Science. c Cross-sectional atomic arrangements of naturally grown AA’ and post-sliding AB/BA configurations, where +/- signs represent B/N atoms. While AA’ remains fully symmetric, AB and BA exhibit diagonal charge ordering that generates polarization. d Initial registration index (le",
-      "page": "8",
-      "attachment_key": "5MRR3I89",
-      "file": "fig_0_5MRR3I89.png",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": []
-    },
-    {
-      "fig_number": "1",
-      "title": "Figure 1",
-      "llm_description": "Fig. 1 | The milestones during the development of sliding ferroelectricity.",
-      "page": "2",
-      "attachment_key": "6RJX9DMR",
-      "file": "fig_1_6RJX9DMR.png",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": []
-    },
-    {
-      "fig_number": "2",
-      "title": "Figure 2",
-      "llm_description": "Fig. 2 | Sliding ferroelectricity of graphene. a Distinct stacking configurations in bilayer, trilayer, and quadrilayer graphene. b Polarization switching pathways between two polarized states in quadrilayer graphene. c Stacking configurations andTable 1 · 第 5 页Table 1 | Comparative analysis of slid",
-      "page": "3",
-      "attachment_key": "T784UCR2",
-      "file": "fig_2_T784UCR2.png",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": []
-    },
-    {
-      "fig_number": "270",
-      "title": "Figure 270",
-      "llm_description": "corresponding STEM images. f Raman spectra of products grown at 270 °C, 300 °C, and 600 °C selenization temperatures. Reproduced with permission61. Copyright 2024, John Wiley &amp; Sons, Ltd. g Atomic-scale characterization of ferroelectric domain structure and domain wall motion in 2H α-In2Se3. h A",
-      "page": "6",
-      "attachment_key": "LE8KRBWQ",
-      "file": "fig_270_LE8KRBWQ.png",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": []
-    },
-    {
-      "fig_number": "3",
-      "title": "Figure 3",
-      "llm_description": "Fig. 3 | Sliding ferroelectricity of hBN. a Oppositely polarized domains (black/white regions) corresponding to AB and BA stacking configurations in twisted bilayer hBN. Reproduced with permission26. Copyright 2021, American Association for the Advancement of Science. b Ferroelectric hysteresis loop",
-      "page": "3",
-      "attachment_key": "GFCZIJ39",
-      "file": "fig_3_GFCZIJ39.png",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": []
-    },
-    {
-      "fig_number": "37",
-      "title": "Figure 37",
-      "llm_description": "corresponding theoretical ferroelectric polarization values for pentalayer graphene. Reproduced with permission37. Copyright 2023, American Physical Society.",
-      "page": "3",
-      "attachment_key": "CTKVQDKG",
-      "file": "fig_37_CTKVQDKG.png",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": []
-    },
-    {
-      "fig_number": "38",
-      "title": "Figure 38",
-      "llm_description": "patterns from lattice mismatch and pressure-dependent evolution of OOP ferro-electric domains. Reproduced with permission38. Copyright 2024, John Wiley &amp; Sons, Ltd. e Epitaxial growth of hBN on graphene/4H-SiC substrates, showing AFM height and current mapping images. f Nested ferroelectric doma",
-      "page": "3",
-      "attachment_key": "VGS4QG5W",
-      "file": "fig_38_VGS4QG5W.png",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": []
-    },
-    {
-      "fig_number": "5",
-      "title": "Figure 5",
-      "llm_description": "Fig. 5 | Asymmetric stacking strategy for inducing sliding ferroelectricity. a The schematic illustration of the substrate-guided CVD growth approach. b The experimental atomic structures of 6 R, 12 R, 18 R, and 18 C stacking configurations. c Ferroelectricity of AB’-stacked SnSe2. Reproduced with p",
-      "page": "7",
-      "attachment_key": "KTI6KJXE",
-      "file": "fig_5_KTI6KJXE.png",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": []
-    },
-    {
-      "fig_number": "7",
-      "title": "Figure 7",
-      "llm_description": "Fig. 7 | Sliding ferroelectricity of non-stoichiometric compositions. a Angle-resolved SHG signals of InSe:Y. b Amplitude butterfly loops of InSe:Y. c Phase hysteresis curves of InSe:Y. Reproduced with permission29. Copyright 2023, Springer",
-      "page": "9",
-      "attachment_key": "JM3BU76I",
-      "file": "fig_7_JM3BU76I.png",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": []
-    },
-    {
-      "fig_number": "8",
-      "title": "Figure 8",
-      "llm_description": "Fig. 8 | Microscopic mechanisms of sliding ferroelectricity. a Mechanism of fer-roelectric polarization generation in bilayer 3R-phase MoS2. b Thermodynamic energy barriers for different stacking configurations in bilayer 3R-MoS2, among those AB and BA are two most stable stackings. Reproduced with ",
-      "page": "10",
-      "attachment_key": "7L4IP935",
-      "file": "fig_8_7L4IP935.png",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": []
-    },
-    {
-      "fig_number": "9",
-      "title": "Figure 9",
-      "llm_description": "Fig. 9 | Device applications of sliding ferroelectric materials. a The schematic diagram of the flexible devices based on 3R-phase MoS2. b–d Transfer, retention, and endurance characteristics of flexible devices after 1000 consecutive cycles of bending test. Reproduced with permission44. Copyright 2",
-      "page": "11",
-      "attachment_key": "2SIAQ7NL",
-      "file": "fig_9_2SIAQ7NL.png",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": []
-    }
-  ],
+  "figures": [],
   "tables": [
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Emerging frontiers in two-dimensional sliding ferroelectrics|\n|短标题|二维滑动铁电体的新兴前沿|\n|作者|[[Qing Zhang]]、 [[Aiqing Fan]]、 [[Yongshuai Wang]]、 [[Fan Wu]]、 [[Lin Li]]、 [[Hong Meng]]、 [[Dechao Geng]]|\n|期刊名称|[[npj 2D Materials and Applications]]|\n|DOI|[10.1038/s41699-025-00600-1](https://doi.org/10.1038/s41699-025-00600-1)|\n|存档位置|16|\n|文库编目|9.2|\n|索书号|2|\n|版权||\n|分类|[[03_二维铁电与滑动铁电 (2D/Sliding Ferroelectricity)]]|\n|条目链接|[My Library](zotero://select/library/items/2W6V8X6T)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/2BCW36F4)|\n|关联文献|[[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Emerging frontiers in two-dimensional sliding ferroelectrics|\n|短标题|二维滑动铁电体的新前沿|\n|作者|[[Qing Zhang]]、 [[Aiqing Fan]]、 [[Yongshuai Wang]]、 [[Fan Wu]]、 [[Lin Li]]、 [[Hong Meng]]、 [[Dechao Geng]]|\n|期刊名称|[[npj 2D Materials and Applications]]|\n|DOI|[10.1038/s41699-025-00600-1](https://doi.org/10.1038/s41699-025-00600-1)|\n|存档位置|16|\n|文库编目|9.2|\n|索书号|2|\n|版权||\n|分类|[[03_二维铁电与滑动铁电 (2D/Sliding Ferroelectricity)]]|\n|条目链接|[My Library](zotero://select/library/items/2W6V8X6T)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/2BCW36F4)|\n|关联文献|[[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "page": "-"
+    },
+    {
+      "id": "MD-T2",
+      "title": "MD Table 2",
+      "content": "| Material | Phase | Stacking | Number of layers | Space/point group | Polarization intensity | Strategy | Characterization technique | Ref. |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| hBN |  | parallel | 2 |  | P2D = 2.25 (0.37) × 10-12 C m-1 | noncentrosymmetric stacking | vertical PFM | 25 |\n| hBN |  | parallel | 2 |  | PZ/A = 0.33 Debye/nm2 | noncentrosymmetric stacking | KPFM | 26 |\n| hBN |  | Bernal-type | multi |  | 3.01 Debye/nm2 | noncentrosymmetric stacking | KPFM, PUND | 31 |\n| graphene |  | Bernal and rhombohedral | &gt;3 |  | 0.32 pC/m | noncentrosymmetric stacking |  | 37 |\n| hBN |  | 7/90 nm twist |  |  |  |  | PFM | 38 |\n| hBN/graphene |  | rhombohedral | 3 |  | 1.76 μC/cm2 | heterostructure | device | 39 |\n| graphene |  | Bernal | 2 |  | 5 pC/m |  | FTJ | 40 |\n| MoS2 | 2H |  | 2 |  | d33 = 37.54 pm/V | strain | PFM, FTJ, C-AFM | 41 |\n| MoS2 | 3R | rhombohedral | 2 | P3m1 | 0.8-1.5 pC/m | photoexcitation |  | 42 |\n| MoS2/WS2 |  | 3R-like and 2H-like | 2 | 3m | d33 = 1.95-2.09 pm/V | heterostructure | PFM | 43 |\n| MoS2 | 3R | rhombohedral | 2 | C3v |  | stacking | device | 44 |\n| CCC |  |  |  | P21 | 0.3-0.4 μC/cm2 | hybrid crystal | PFM | 45 |\n| HgI2 |  |  |  | Cmc21 | 0.16 μC/cm2 | theoretical |  | 46 |\n| NbI4 |  |  |  | Cmc21 | 0.11 μC/cm2 | theoretical |  | 47 |\n| kagome-B2X3 (X = S, Se, Te) |  |  | 2 | P62m, P1, P321, Cm, C2 |  | theoretical |  | 48 |\n| ZrI2 |  |  | 2 | Pmn21 | 0.39 μC/cm2 | theoretical |  | 49 |\n| β-ZrI2 |  |  |  | C1h |  | theoretical |  | 51 |",
       "page": "-"
     }
   ],

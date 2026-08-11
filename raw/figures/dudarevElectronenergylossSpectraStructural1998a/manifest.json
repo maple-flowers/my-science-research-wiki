@@ -4,84 +4,128 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "镍氧化物氧K边EELS谱与总能量分析",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. Top: normalized experimental electron energy loss spec-trum corresponding to the vicinity of the oxygen K edge and nor-malized oxygen 2p DOS calculated by using the LSDA and LSDA �U. The energy scale of the DOS is shifted upwards by 528.3 eV. Bottom: the total energy of crystalline nickel oxide �per NiO unit� calculated using the LSDA and LSDA�U for two values of U¯ and plotted as a function of the lattice constant.",
       "page": "3",
-      "attachment_key": "YCWN3EH2",
-      "file": "fig_1_YCWN3EH2.png",
+      "attachment_key": "D42XHL87",
+      "file": "fig_1_D42XHL87.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "第一性原理",
-        "XAS",
-        "DFT",
-        "first-principles",
-        "STM",
-        "TEM"
-      ]
+      "methods": []
     },
     {
       "fig_number": "2",
-      "title": "镍氧化物晶体结构与电荷密度差异",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. Top: sodium chloride crystal structure of nickel oxide. Oxygen sites are shown in white; nickel sites are shown in grey. Bottom: the difference between the LSDA�U and LSDA charge density distributions in the �100�plane, U¯�6.2 eV.",
       "page": "3",
-      "attachment_key": "PLBSSVDK",
-      "file": "fig_2_PLBSSVDK.png",
+      "attachment_key": "GBIMQZ9U",
+      "file": "fig_2_GBIMQZ9U.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "第一性原理",
-        "XAS",
-        "DFT",
-        "first-principles",
-        "STM",
-        "TEM"
-      ]
-    },
-    {
-      "fig_number": "I",
-      "title": "镍氧化物电子结构和结构稳定性参数的计算值与实验值",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": [
-        "第一性原理",
-        "XAS",
-        "DFT",
-        "first-principles",
-        "STM",
-        "TEM"
-      ]
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">参数 (单位)</th>\n<th style=\"text-align:left\">LSDA</th>\n<th style=\"text-align:left\">LSDA+U (U=6.2 eV)</th>\n<th style=\"text-align:left\">Hartree-Fock</th>\n<th style=\"text-align:left\">实验值</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\"><strong>晶格常数</strong> (Å)</td>\n<td style=\"text-align:left\">4.08</td>\n<td style=\"text-align:left\">4.19</td>\n<td style=\"text-align:left\">4.26</td>\n<td style=\"text-align:left\">4.17</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>带隙</strong> (eV)</td>\n<td style=\"text-align:left\">0.6</td>\n<td style=\"text-align:left\">3.0</td>\n<td style=\"text-align:left\">14.2</td>\n<td style=\"text-align:left\">4.2</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>结合能</strong> (eV)</td>\n<td style=\"text-align:left\">13.74</td>\n<td style=\"text-align:left\">11.60</td>\n<td style=\"text-align:left\">6.2</td>\n<td style=\"text-align:left\">8.26</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>体弹模量</strong> B (GPa)</td>\n<td style=\"text-align:left\">230</td>\n<td style=\"text-align:left\">182</td>\n<td style=\"text-align:left\">214</td>\n<td style=\"text-align:left\">145, 205, 189</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>剪切模量</strong> C‘ (GPa)</td>\n<td style=\"text-align:left\">211</td>\n<td style=\"text-align:left\">161</td>\n<td style=\"text-align:left\">136</td>\n<td style=\"text-align:left\">45, 102</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>弹性常数</strong> C44 (GPa)</td>\n<td style=\"text-align:left\">49</td>\n<td style=\"text-align:left\">86</td>\n<td style=\"text-align:left\">115</td>\n<td style=\"text-align:left\">110, 105</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">参数</th>\n<th style=\"text-align:left\">LSDA</th>\n<th style=\"text-align:left\">LSDA+U (U=6.2 eV)</th>\n<th style=\"text-align:left\">哈特里-福克</th>\n<th style=\"text-align:left\">实验值</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\"><strong>晶格常数 (Å)</strong></td>\n<td style=\"text-align:left\">4.08</td>\n<td style=\"text-align:left\">4.19</td>\n<td style=\"text-align:left\">4.26</td>\n<td style=\"text-align:left\">4.17</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>禁带宽度 (eV)</strong></td>\n<td style=\"text-align:left\">0.6</td>\n<td style=\"text-align:left\">3.0</td>\n<td style=\"text-align:left\">14.2</td>\n<td style=\"text-align:left\">4.2</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>结合能 (eV)</strong></td>\n<td style=\"text-align:left\">13.74</td>\n<td style=\"text-align:left\">11.60</td>\n<td style=\"text-align:left\">6.2</td>\n<td style=\"text-align:left\">8.26</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>体弹模量 B (GPa)</strong></td>\n<td style=\"text-align:left\">230</td>\n<td style=\"text-align:left\">182</td>\n<td style=\"text-align:left\">214</td>\n<td style=\"text-align:left\">145, 205, 189</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>剪切模量 C' (GPa)</strong></td>\n<td style=\"text-align:left\">211</td>\n<td style=\"text-align:left\">161</td>\n<td style=\"text-align:left\">136</td>\n<td style=\"text-align:left\">45, 102</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>弹性常数 C₄₄ (GPa)</strong></td>\n<td style=\"text-align:left\">49</td>\n<td style=\"text-align:left\">86</td>\n<td style=\"text-align:left\">115</td>\n<td style=\"text-align:left\">110, 105</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th>Quantity vs method</th>\n<th>LSDA</th>\n<th>LSDA+U, Ū=6.2 eV</th>\n<th>Hartree-Fock</th>\n<th>Experimental value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Lattice constant (Å)</td>\n<td>4.08</td>\n<td>4.19</td>\n<td>4.26</td>\n<td>4.17</td>\n</tr>\n<tr>\n<td>...</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T4",
+      "title": "Table 4",
+      "content": "<table>\n<thead>\n<tr>\n<th>量/方法</th>\n<th>LSDA</th>\n<th>LSDA+U, Ū=6.2 eV</th>\n<th>哈特里-福克</th>\n<th>实验值</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>晶格常数 (Å)</td>\n<td>4.08</td>\n<td>4.19</td>\n<td>4.26</td>\n<td>4.17</td>\n</tr>\n<tr>\n<td>...</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T5",
+      "title": "Table 5",
+      "content": "<table>\n<thead>\n<tr>\n<th>Quantity vs method</th>\n<th>LSDA</th>\n<th>LSDA1U, Ū=6.2 eV</th>\n<th>Hartree-Fock</th>\n<th>Experimental value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Lattice constant (Å)</td>\n<td>4.08</td>\n<td>4.19</td>\n<td>4.26</td>\n<td>4.17</td>\n</tr>\n<tr>\n<td>Band gap (eV)</td>\n<td>0.6</td>\n<td>3.0</td>\n<td>14.2</td>\n<td>4.2</td>\n</tr>\n<tr>\n<td>Cohesive energy (eV)</td>\n<td>13.74</td>\n<td>11.60</td>\n<td>6.2</td>\n<td>8.26</td>\n</tr>\n<tr>\n<td>B=(C11+2C12)/3 (GPa)</td>\n<td>230</td>\n<td>182</td>\n<td>214</td>\n<td>145, 205, 189</td>\n</tr>\n<tr>\n<td>C'=(C11-C12)/2 (GPa)</td>\n<td>211</td>\n<td>161</td>\n<td>136</td>\n<td>45, 102</td>\n</tr>\n<tr>\n<td>C44 (GPa)</td>\n<td>49</td>\n<td>86</td>\n<td>115</td>\n<td>110, 105</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T6",
+      "title": "Table 6",
+      "content": "<table>\n<thead>\n<tr>\n<th>量/方法</th>\n<th>LSDA</th>\n<th>LSDA+U, Ū=6.2 eV</th>\n<th>哈特里-福克</th>\n<th>实验值</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>晶格常数 (Å)</td>\n<td>4.08</td>\n<td>4.19</td>\n<td>4.26</td>\n<td>4.17</td>\n</tr>\n<tr>\n<td>带隙 (eV)</td>\n<td>0.6</td>\n<td>3.0</td>\n<td>14.2</td>\n<td>4.2</td>\n</tr>\n<tr>\n<td>内聚能 (eV)</td>\n<td>13.74</td>\n<td>11.60</td>\n<td>6.2</td>\n<td>8.26</td>\n</tr>\n<tr>\n<td>B=(C11+2C12)/3 (GPa)</td>\n<td>230</td>\n<td>182</td>\n<td>214</td>\n<td>145, 205, 189</td>\n</tr>\n<tr>\n<td>C'=(C11-C12)/2 (GPa)</td>\n<td>211</td>\n<td>161</td>\n<td>136</td>\n<td>45, 102</td>\n</tr>\n<tr>\n<td>C44 (GPa)</td>\n<td>49</td>\n<td>86</td>\n<td>115</td>\n<td>110, 105</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Electron-energy-loss spectra and the structural stability of nickel oxide:  An LSDA+U study|\n|短标题|Electron-energy-loss光谱与氧化镍结构稳定性的LSDA+U研究|\n|作者|[[S. L. Dudarev]]、 [[G. A. Botton]]、 [[S. Y. Savrasov]]、 [[C. J. Humphreys]]、 [[A. P. Sutton]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.57.1505](https://doi.org/10.1103/PhysRevB.57.1505)|\n|存档位置|14427|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[05_二硫键与结构畸变 (Structural Distortion)]]、[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/VWQCW4I9)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/R66ZJXGD\">Dudarev 等 - 1998 - Electron-energy-loss spectra and the structural stability of nickel oxide An LSDA+U study</a></li><li><a href=\"zotero://open-pdf/library/items/A62Z4KJA\">Dudarev 等 - 1998 - Electron-energy-loss spectra and the structural stability of nickel oxide An LSDA+U study.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Electron-energy-loss spectra and the structural stability of nickel oxide:  An LSDA+U study|\n|短标题|电子能量损失谱和氧化镍的结构稳定性：  LSDA+U研究|\n|作者|[[S. L. Dudarev]]、 [[G. A. Botton]]、 [[S. Y. Savrasov]]、 [[C. J. Humphreys]]、 [[A. P. Sutton]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.57.1505](https://doi.org/10.1103/PhysRevB.57.1505)|\n|存档位置|14427|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[05_二硫键与结构畸变 (Structural Distortion)]]、[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/VWQCW4I9)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/R66ZJXGD\">Dudarev 等 - 1998 - Electron-energy-loss spectra and the structural stability of nickel oxide  An LSDA+U study</a></li><li><a href=\"zotero://open-pdf/library/items/A62Z4KJA\">Dudarev 等 - 1998 - Electron-energy-loss spectra and the structural stability of nickel oxide  An LSDA+U study.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "�1�",
+      "page": "2",
+      "attachment_key": "Q5JBCHIW",
+      "file": "eq_1_Q5JBCHIW.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "�2�",
+      "page": "2",
+      "attachment_key": "KBSL4KAM",
+      "file": "eq_2_KBSL4KAM.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "�3�",
+      "page": "2",
+      "attachment_key": "6SER6WE6",
+      "file": "eq_3_6SER6WE6.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "�4�",
+      "page": "2",
+      "attachment_key": "UT7YQAUM",
+      "file": "eq_4_UT7YQAUM.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "�6�",
+      "page": "2",
+      "attachment_key": "KX36V9IK",
+      "file": "eq_6_KX36V9IK.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "�7�",
+      "page": "2",
+      "attachment_key": "YP9VVUC6",
+      "file": "eq_7_YP9VVUC6.png"
+    }
+  ],
   "tags": [
     "Done"
   ],
   "materials": [],
-  "methods": [
-    "第一性原理",
-    "XAS",
-    "DFT",
-    "first-principles",
-    "STM",
-    "TEM"
-  ]
+  "methods": []
 }

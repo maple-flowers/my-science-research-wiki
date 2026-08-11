@@ -122,7 +122,7 @@
 > rights:: 
 > extra:: 🏷️ /unread、📒、材料：MXenes及其变体、参考文献-layer JCR分区：Q1 中科院分区升级版：综合性期刊1区 影响因子：47.3 5年影响因子：51.6 南农高质量：A
 > collection:: [[12_MXenes 综述与性质 (MXenes Review)]]
-> tags:: #unread #参考文献-layer #材料：MXenes及其变体
+> tags:: #unread #材料：MXenes及其变体 #参考文献-layer
 > related:: 
 > itemLink:: [My Library](zotero://select/library/items/GLQ6MNCH)
 > pdfLink:: 
@@ -147,7 +147,7 @@
 
 > [!inbox]- <center>📫 导入时间</center>
 >
->⏰ importDate:: 2026-08-10
->⏰ importDateTime:: 2026-08-10 20:02:14
+>⏰ importDate:: 2026-08-11
+>⏰ importDateTime:: 2026-08-11 12:31:37
 
 %--------------ω--------------%

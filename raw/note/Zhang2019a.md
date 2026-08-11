@@ -60,7 +60,7 @@
 > callNumber:: 3
 > JCRQ:: Q3
 > rights:: 
-> extra:: 🏷️ /unread、📒、🤖️ JCR分区：Q3 中科院分区升级版：材料科学3区 影响因子：3.6 5年影响因子：3.9 EI：是 南农高质量：B
+> extra:: 🏷️ /unread、📒、🤖️
 > collection:: [[东北大学张林老师]]
 > tags:: #unread #🤖️
 > related:: 
@@ -71,8 +71,8 @@
 > dateY:: 2019
 > dateAdded:: 2026-07-20
 > datetimeAdded:: 2026-07-20 09:58:14
-> dateModified:: 2026-08-10
-> datetimeModified:: 2026-08-10 21:06:06
+> dateModified:: 2026-08-11
+> datetimeModified:: 2026-08-11 06:49:43
 > 
 > abstract:: Molecular dynamics simulations using an embedded atom method (EAM) potential shows that melting behaviors of Ti nanoparticles are strongly dependent on their size. For the particles having the diameter of less than 2.5 nm, their structures are preferred with the icosahedron of geometric shell closures, and there are multi‐structures’ transitions. With the increase in size, while most atoms in the particles can hold their HCP packing patterns, there exist movements and structural rearrangements of the atoms in the surface. At a high temperature, the accumulation of structural disorder can quickly extend into the entire particle, which resembles the melting of bulk Ti. In the HCP particles with sizes of less than 4 nm, the surface atoms still have important influence on their melting.【摘要翻译】利用嵌入原子法（EAM）势进行的分子动力学模拟表明，Ti纳米粒子的熔化行为强烈依赖于其尺寸。对于直径小于2.5的颗粒 其结构以二十面体几何壳闭包为主，存在多个结构的跃迁。随着粒径的增大，虽然粒子中的大多数原子能保持其HCP堆积模式，但在粒子表面存在着原子的运动和结构重排。在高温下，结构无序的积累可以迅速扩展到整个颗粒，这类似于块体Ti在尺寸小于4 表面原子对其熔化仍有重要影响。
 
@@ -87,231 +87,820 @@
 
 > [!inbox]- <center>📫 导入时间</center>
 >
->⏰ importDate:: 2026-08-10
->⏰ importDateTime:: 2026-08-10 19:11:55
+>⏰ importDate:: 2026-08-11
+>⏰ importDateTime:: 2026-08-11 06:49:30
 
 %--------------ω--------------%
 
 
 
-## <span style="color: rgb(0, 174, 137);">🤖️ 论文双语转写📌</span>
+## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span>
 
-> 🚀 [笔记回链](zotero://select/library/items/MUF4HTMF)
+> 🚀 [笔记回链](zotero://select/library/items/3I2GZCPC)
 
 ^KEYaiPapers
 
 > <span class="AIReading">🤖 AI 解读，快人一步</span>
 > 
-> # Studying Stability of Atom Packing for Ti Nanoparticles on Heating by Molecular Dynamics Simulations
-> 
-> 通过分子动力学模拟研究加热过程中钛纳米粒子原子堆积的稳定性 **Molecular Dynamics (MD)**: 分子动力学，一种通过数值求解牛顿运动方程来模拟原子尺度动力学行为的计算方法。
-> 
-> Lin Zhang 张林
-> 
-> Molecular dynamics simulations using an embedded atom method (EAM) potential shows that melting behaviors of Ti nanoparticles are strongly dependent on their size. For the particles having the diameter of less than 2.5 nm, their structures are preferred with the icosahedron of geometric shell closures, and there are multi-structures’ transitions. With the increase in size, while most atoms in the particles can hold their HCP packing patterns, there exist movements and structural rearrangements of the atoms in the surface. At a high temperature, the accumulation of structural disorder can quickly extend into the entire particle, which resembles the melting of bulk Ti. In the HCP particles with sizes of less than 4 nm, the surface atoms still have important influence on their melting. 使用嵌入原子方法（EAM）势函数的分子动力学模拟表明，钛（Ti）纳米粒子的熔化行为强烈依赖于其尺寸。对于直径小于 2.5 nm 的粒子，其结构倾向于具有几何壳层闭合的正二十面体结构，并存在多种结构的转变。随着尺寸增加，虽然粒子中的大多数原子能够保持其 HCP 堆积模式，但表面原子仍存在运动和结构重排。在高温下，结构无序的累积可迅速扩展至整个粒子，这类似于体相钛的熔化。在尺寸小于 4 nm 的 HCP 粒子中，表面原子对其熔化仍有重要影响。 **Embedded Atom Method (EAM)**: 嵌入原子方法，一种用于模拟金属系统势能的经验势函数，考虑了电子云密度的贡献。 **HCP (Hexagonal Close-Packed)**: 六方最密堆积，一种常见的金属晶体结构。
-> 
-> ## 1. Introduction
-> 
-> 1.  引言
-> 
-> The continuous development of materials used for biomedical applications leads to a better solution for shortening recovery periods, less invasive surgeries, and overall improvement of patients’ life comfort. Biomaterials being suitable for biomedical implant applications meet a number of requirements including biocompatibility, adequate strength, surface physicochemical properties, thermal and electrical conductivity, and process capability.[1–5] 用于生物医学应用的材料的不断发展，为缩短康复期、减少手术侵入性以及全面提高患者生活舒适度提供了更好的解决方案。适用于生物医学植入应用的生物材料需满足诸多要求，包括生物相容性、足够的强度、表面物理化学性质、热导电性以及加工能力。[1–5] **Biocompatibility**: 生物相容性，指材料在植入生物体后能够与周围组织和谐共存且不产生毒副作用的能力。
-> 
-> Metals are commonly used as implants and such metals have to possess properties which will enable them to function inside the human or animal body. Titanium and titanium alloys exhibit a high specific strength and low density, which makes titanium an excellent choice for the implants.[6–9] Commercially pure (CP) Ti is widely regarded as the most biocompatible metal because of a stable and an inert oxide layer which spontaneously forms when its surface is exposed to oxidizing media.[10,11] 金属常被用作植入物，此类金属必须具备使其能在人体或动物体内正常发挥功能的特性。钛及其合金具有高比强度和低密度，使其成为植入物的极佳选择。[6–9] 工业纯钛（CP Ti）被广泛认为是生物相容性最好的金属，因为其表面在暴露于氧化介质时会自发形成一层稳定且惰性的氧化层。[10,11] **CP Ti (Commercially Pure Titanium)**: 工业纯钛。
-> 
-> The α phase in titanium has a HCP structure with fewer slip systems than cubic systems. Titanium production is hampered by the high cost in traditionally manufacturing processes, and poor workability for complex shape production. However, the recent development of additive manufacturing (AM), which is also known as metal 3D printing, has made it possible to accurately fabricate CP Ti products with complex morphology.[12–16] 钛中的 $\alpha$ 相具有 HCP 结构，其滑移系少于立方晶系。钛的生产受到传统制造工艺成本高昂以及复杂形状生产加工性差的限制。然而，近年来增材制造（AM，亦称金属 3D 打印）的发展，使得精确制造具有复杂形貌的工业纯钛产品成为可能。[12–16] **Additive Manufacturing (AM)**: 增材制造，通过逐层添加材料构建三维实体的制造技术。
-> 
-> In contrast to subtractive manufacturing and formative manufacturing methodologies, AM processes use a computer to store and process three-dimensional model data to create parts, and have advantages such as the ability to net-shape without the use of molds, direct production with a shorter lead time, high levels of process flexibility, and Buy-to-Fly ratios with values close to unity.[17,18] 与减材制造和成型制造方法不同，增材制造过程利用计算机存储和处理三维模型数据来创建零件，具有无需模具即可实现净成形、前置时间短的直接生产、高度的工艺灵活性以及接近 1 的买飞比（Buy-to-Fly ratio）等优点。[17,18] **Buy-to-Fly ratio**: 买飞比，指原材料重量与最终成品重量之比，比值越接近 1 表示材料利用率越高。
-> 
-> In the case of Ti, studies are being conducted for power-bed fusion type AM with particles by selectively melting using the electron beam or laser power thermal source, which use focused thermal energy to rapidly melt the Ti Ti particles with size in micrometer and bind them layer by layer under a high vacuum atmosphere.[19–21] These micrometer size particles present essentially bulk properties. 对于钛而言，目前正在开展基于粉末床熔融（PBF）类型的增材制造研究，通过电子束或激光热源选择性地熔化微米级钛粒子，利用聚焦热能快速熔化粒子并在高真空环境下逐层结合。[19–21] 这些微米级粒子本质上呈现体相性质。 **Powder-bed Fusion (PBF)**: 粉末床熔融，一种通过高能束扫描粉末床使金属粉末局部熔融而固化的 3D 打印技术。
-> 
-> However, as the size decreases to nanometer, particles will present apparent different features from their bulk counterparts, and the evolution of structures and properties become dependent on their size. Therefore, one interesting issue arises naturally to understand melting behaviors of Ti particles with nanometer size. 然而，当尺寸减小到纳米级时，粒子将表现出与体相截然不同的特征，其结构和性质的演变将依赖于其尺寸。因此，研究纳米级钛粒子的熔化行为自然成为了一个有趣的问题。
-> 
-> The study on the size evolution of atomic aggregates from clusters containing tens of atoms toward bulk is of great importance in materials designing. In nanoscale, as the number of atoms in one particle increases, there is an exponential increase in computational cost as well as increasing data complexity.[22,23] 研究从包含数十个原子的团簇到体相的原子聚集体尺寸演变，在材料设计中具有重要意义。在纳米尺度，随着单个粒子中原子数量的增加，计算成本呈指数级增加，数据复杂度也随之提高。[22,23]
-> 
-> There are great challenges that micro scale simulations are validated by comparison with macroscopic properties including structural evolution and thermal behaviors. For example, calculations of specific heat for nanoparticles can be used to determine the particle size suitable for classical theory. This helps to estimate the amount of focus heat needed to melt these particles. 通过将微观尺度模拟与包括结构演变和热行为在内的宏观性质进行对比验证，面临着巨大的挑战。例如，计算纳米粒子的比热可用于确定适用于经典理论的粒子尺寸。这有助于估算熔化这些粒子所需的聚焦热量。
-> 
-> The view of some Ti clusters being magic has been widely accepted, which have icosahedral orders, and they have significant high stability.[24,25] However, there is still lack of study on the Ti clusters or nanoparticles containing hundreds or thousands of atoms, especially for the effect of the temperature on the structures of these nanoparticles. 一些钛团簇被认为是“神奇团簇（magic clusters）”的观点已被广泛接受，它们具有二十面体有序结构且稳定性极高。[24,25] 然而，对于包含数百或数千个原子的钛团簇或纳米粒子的研究仍然匮乏，特别是温度对这些纳米粒子结构的影响。 **Magic Cluster**: 魔数团簇，指具有特殊原子数，从而在能量和结构上异常稳定的团簇。
-> 
-> Upon rapidly heating these nanoparticles, the information of structural transition should be provided in terms of changes of atom packing. However, the characteristics of the transformation are not yet fully understood. It is clear that still much has to be learned about understanding the structural transformation of these nanoparticles. The information should be provided in terms of the microscopic dynamical motion of the atoms. 在快速加热这些纳米粒子时，应提供关于原子堆积变化的结构转变信息。然而，这种转变的特征尚未被完全理解。显然，在理解这些纳米粒子的结构转变方面仍有许多工作要做。相关信息应从原子的微观动力学运动角度提供。
-> 
-> Accounting for the fact that nature of the transformation determined by experiment is hardly possible, computer simulations based on empirical potentials, such as molecular dynamics (MD), are particularly well suited to characterize microscopic details in these systems involving combined behaviors of atom movements and locally structural rearrangements at atomic scale.[26–29] 考虑到通过实验确定这种转变的本质几乎是不可能的，基于经验势的计算机模拟（如分子动力学 MD）特别适合刻画这些系统中涉及原子运动和原子尺度局部结构重排的微观细节。[26–29]
-> 
-> Classical molecular dynamics simulations describe the time-evolution of a system by integrating classical equations of motion using the defined interactions between constituent atoms, and the measurement of these functions is very straightforward in that they are computed directly from the positions and velocities of the atoms in these particles. 经典分子动力学模拟通过使用定义的组成原子间的相互作用来积分经典运动方程，从而描述系统的随时间演化；而这些函数的测量非常直接，因为它们直接由粒子中原子的位置和速度计算得出。
-> 
-> Moreover, knowledge of the microscopic processes is essential for understanding and controlling materials properties. Successful examples of MD simulations within the framework of embedded atom method (EAM) have investigated the structural changes related to melting, freezing, coalescence, and compression of metal clusters or bulk, which most of them have FCC or BCC structures in their bulk phases,[30–36] and the EAM potential has been used to describe the alloying in an Al-coated Ti nanoparticle on heating.[37] 此外，了解微观过程对于理解和控制材料性质至关重要。在 EAM 框架下的 MD 模拟成功案例已研究了与金属团簇或体相的熔化、凝固、合并及压缩相关的结构变化，其中大多数在体相中具有 FCC 或 BCC 结构，[30–36] 且 EAM 势已被用于描述加热过程中铝涂层钛纳米粒子的合金化过程。[37] **FCC (Face-Centered Cubic)**: 面心立方结构。 **BCC (Body-Centered Cubic)**: 体心立方结构。
-> 
-> This paper presents the results of molecular dynamics simulations for melting the pure Ti nanoparticles as a model material. Ti and its alloys are commonly metallic materials for AM.[38] There are some other elements in these materials. Due to the lack of potential, the simulations of multi component materials are very difficult. This makes is necessary for the simulations of pure metals, and these simulations can deepen the understanding of microstructural evolution of those materials. 本文介绍了以纯钛纳米粒子作为模型材料的熔化分子动力学模拟结果。钛及其合金是增材制造中常用的金属材料。[38] 这些材料中含有其他元素。由于缺乏相应的势函数，多组分材料的模拟非常困难。这使得纯金属模拟变得必要，而这些模拟可以深化对这些材料微观结构演变的理解。
-> 
-> For example, there are multiple variants of $\alpha$ phase in Ti–6Al–4V under laser AM conditions. The simulations of pure Ti particles provide the possibility to straddle the structural transformations under certain thermal conditions, leading to coexistence of multi-structures. In the simulations, locally structural changes with the atom movements are demonstrated by pair distribution functions, and pair analysis according to the local environments of the atom pairs by using EAM as well as the atom packing evolution. 例如，在激光增材制造条件下，Ti-6Al-4V 中存在多种 $\alpha$ 相变体。纯钛粒子的模拟提供了在特定热条件下跨越结构转变的可能性，从而导致多种结构的共存。在模拟中，伴随原子运动的局部结构变化通过对分布函数（PDF）进行演示，并通过使用 EAM 对原子对局部环境进行对分析以及原子堆积演化来分析。 **Pair Distribution Function (PDF)**: 对分布函数，描述系统中原子间距离分布的函数，用于分析结构有序度。
-> 
-> ## 2. Experimental Section
-> 
-> 2.  实验部分
-> 
-> The interaction among titanium atoms is modeled by the EAM potential given by Zhou et al.[39] The total potential energy of an N-atom system takes the following form: 钛原子间的相互作用采用 Zhou 等人提供的 EAM 势模型 [39]。一个 N 原子系统的总势能形式如下：
-> 
-> $$E_{tot} = \sum_{i} F_i(\rho_e) + \frac{1}{2} \sum_{i,j; i \neq j} \phi_{ij}(r_{ij}) \quad (1)$$
-> 
-> where $\phi_{ij}(r_{ij})$ is a two-body central potential between atoms $i$ and $j$ with a separation of $r_{ij}$, and $F_i(\rho_e)$ is the embedding energy of the atom $i$ with the electron charge density $\rho_e$. 其中 $\phi_{ij}(r_{ij})$ 是原子 $i$ 和 $j$ 之间距离为 $r_{ij}$ 的二体中心势，$F_i(\rho_e)$ 是电子电荷密度为 $\rho_e$ 的原子 $i$ 的嵌入能。
-> 
-> The electron charge density can be calculated by using 电子电荷密度可通过以下公式计算： $$\rho_e = \sum_{j, j \neq i} f_j(r_{ij}) \quad (2)$$ with $f_j(r_{ij})$ the electron density at the site of atom $i$ arising from atom $j$ at a distance $r_{ij}$ away. 其中 $f_j(r_{ij})$ 是由距离为 $r_{ij}$ 的原子 $j$ 在原子 $i$ 处产生的电子密度。
-> 
-> In this EAM potential model, the generalized elemental pair potentials are written by 在此 EAM 势模型中，广义元素对势写为： $$\Phi_{ij}(r_{ij}) = A \exp \left( \alpha \frac{r_{ij}}{r_e} - 1 \right) \left[ 1 + \left( \frac{r_{ij}}{r_e \kappa} \right)^{20} \right] - B \exp \left( \beta \frac{r_{ij}}{r_e} - 1 \right) \left[ 1 + \left( \frac{r_{ij}}{r_e \lambda} \right)^{20} \right] \quad (3)$$ where $r_e$ is the equilibrium spacing between nearest neighbors, $A, B, \alpha$, and $\beta$ are four adjustable parameters, and $\kappa$ and $\lambda$ are two additional parameters for the cutoff. 其中 $r_e$ 是最近邻之间的平衡间距，$A, B, \alpha$ 和 $\beta$ 是四个可调参数，$\kappa$ 和 $\lambda$ 是用于截断的两个附加参数。
-> 
-> The electron density function is taken with the same form as the attractive term in the pair potential with the same values of $\beta$ and $\lambda$, 电子密度函数采用与对势中吸引项相同的形式，且 $\beta$ 和 $\lambda$ 的取值相同： $$f(r) = f_e \exp \left( \beta \frac{r}{r_e} - 1 \right) \left[ 1 + \left( \frac{r}{r_e \lambda} \right)^{20} \right] \quad (4)$$
-> 
-> For a smooth variation of the embedding energy, these equations are required to match values and slopes at their junctions. These equations are 为了使嵌入能平滑变化，要求这些方程在其连接处的值和斜率相匹配。这些方程为： $$F(\rho) = \sum_{i=0}^{3} F_{ni} \left( \frac{\rho}{\rho_{ni}} \right)^i, \rho < \rho_n; \rho_n = 0.85\rho_e \quad (5)$$ $$F(\rho) = \sum_{i=0}^{3} F_i \left( \frac{\rho}{\rho_e} \right)^i, \rho_n \le \rho < \rho_0; \rho_0 = 1.15\rho_e \quad (6)$$ $$F(\rho) = F_e \left[ 1 - \left( \frac{\rho}{\rho_s} \right)^\eta \right], \rho_0 \le \rho \quad (7)$$
-> 
-> The parameters needed to define the EAM model in the ref. [39] are listed in Table 1. 定义文献 [39] 中 EAM 模型所需的参数列于表 1。
-> 
-> **Table 1. EAM parameters.[39]** **表 1. EAM 参数 [39]**
-> 
-> <table><thead><tr><th style="text-align:left">$r_e$ (nm)</th><th style="text-align:left">$f_e$</th><th style="text-align:left">$\rho_e$</th><th style="text-align:left">$\rho_s$</th><th style="text-align:left">$A$</th><th style="text-align:left">$B$</th><th style="text-align:left">$A$ (eV)</th><th style="text-align:left">$B$ (eV)</th><th style="text-align:left">$\kappa$</th><th style="text-align:left">$\lambda$</th></tr></thead><tbody><tr><td style="text-align:left">0.2933872</td><td style="text-align:left">1.863200</td><td style="text-align:left">25.565138</td><td style="text-align:left">25.565138</td><td style="text-align:left">8.775431</td><td style="text-align:left">4.680230</td><td style="text-align:left">0.373601</td><td style="text-align:left">0.570968</td><td style="text-align:left">0.5</td><td style="text-align:left">1.0</td></tr></tbody></table>
-> 
-> <table><thead><tr><th style="text-align:left">$F_{n0}$ (eV)</th><th style="text-align:left">$F_{n1}$ (eV)</th><th style="text-align:left">$F_{n2}$ (eV)</th><th style="text-align:left">$F_{n3}$ (eV)</th><th style="text-align:left">$F_0$ (eV)</th><th style="text-align:left">$F_1$ (eV)</th><th style="text-align:left">$F_2$ (eV)</th><th style="text-align:left">$F_3$ (eV)</th><th style="text-align:left">$\eta$</th><th style="text-align:left">$F_e$ (eV)</th></tr></thead><tbody><tr><td style="text-align:left">3.203773</td><td style="text-align:left">0.198262</td><td style="text-align:left">0.683779</td><td style="text-align:left">2.321732</td><td style="text-align:left">3.22</td><td style="text-align:left">0</td><td style="text-align:left">0.608587</td><td style="text-align:left">0.750710</td><td style="text-align:left">0.558572</td><td style="text-align:left">3.219176</td></tr></tbody></table>
-> 
-> Agarwal et al. has performed MD simulations to test the temperature dependence of the lattice constant and cohesive energy for HCP Ti by using this EAM potential. The EAM potential provides a reasonable agreement for the variation pressure as a function of volume in close agreement with DFT data as well as the experimental velocities of the elastic and plastic waves and the shock pressure generated at various impact velocities.[40] Agarwal 等人使用该 EAM 势进行了 MD 模拟，以测试 HCP 钛晶格常数和内聚能的温度依赖性。该 EAM 势在压力随体积变化的模拟中与 DFT 数据达到了合理的一致，并且与弹性波、塑性波的实验速度以及不同冲击速度产生的冲击压力高度吻合。[40] **DFT (Density Functional Theory)**: 密度泛函理论，一种用于研究多电子体系电子结构的第一性原理计算方法。
-> 
-> In terms of this EAM potential, the lattice constant of Ti bulk is 0.2933872 nm. Our simulations suggest that the melting temperature of bulk Ti free of defect is 2218 K, which is 277 K higher than the experimental melting point. 根据该 EAM 势，体相钛的晶格常数为 0.2933872 nm。我们的模拟表明，无缺陷体相钛的熔点为 2218 K，比实验熔点高 277 K。
-> 
-> From our previous experiences for other pure metals, the simulations on the EAM potential can be used to study the changes of atom packing involving solid phase to liquid. The simulations are performed by starting with the optimal structure at 50 K, then increasing gradually the temperature to 1400 K at an increment of 50 K. At each temperature, the NVT ensemble is used. 根据我们之前对其他纯金属的经验，基于 EAM 势的模拟可用于研究从固相到液相的原子堆积变化。模拟从 50 K 时的最优结构开始，然后以 50 K 为增量逐渐将温度升高至 1400 K。在每个温度下，使用 NVT 系综。 **NVT ensemble**: NVT 系综，指在模拟中保持原子数（N）、体积（V）和温度（T）恒定的统计系综。
-> 
-> The initial structures under a temperature above 350 K are from the coordinates of the last time step of the previous temperature. The temperature is kept constant by rescaling the atomic velocities every time-step. At each temperature, the runs take 2,000,000 time steps, and the last 70,000 or 300,000 time steps to record the energy, that is, used to calculate the statistical average values for small or large size particles. 350 K 以上温度的初始结构采用前一个温度最后一步的时间步坐标。通过在每个时间步对原子速度进行重新缩放来保持温度恒定。在每个温度下，运行 2,000,000 个时间步，并记录最后 70,000 或 300,000 个时间步的能量，用于计算小尺寸或大尺寸粒子的统计平均值。
-> 
-> In some small particles, because a considerable proportion of atoms have been in a state of position changes, energy changes show large oscillations at some temperatures before these particles’ melting. The increase of the statistical time will lead to the distortion of the shape of the calculated particle from average position coordinates owing to the rotation of the particles, especially for the small particles. 在某些小粒子中，由于很大一部分原子处于位置变化状态，在粒子熔化之前的某些温度下，能量变化显示出剧烈波动。增加统计时间会导致计算出的粒子形状（基于平均位置坐标）发生畸变，这是由于粒子的旋转引起的，尤其是对于小粒子。
-> 
-> In our previous simulations for metal clusters, the heating algorithm can provide essential information about the structural transformations of most cases within the range of tolerance for simulation time. Throughout simulations, a time step of $1.6 \times 10^{-15}$ s is used. 在我们之前对金属团簇的模拟中，加热算法可以在模拟时间容差范围内提供大多数情况下结构转变的关键信息。在整个模拟过程中，使用 $1.6 \times 10^{-15}$ s 的时间步长。
-> 
-> As given in the Equation (1), both of the embedding energy and potential energy of paired atoms contribute to the total potential energy of the simulated system. If structures of the atomic packing change, the electron charge density given in the Equation (2) and the distance between a pair of atoms change accordingly, resulting in the changes of the embedding energy and potential energy. 如方程 (1) 所示，嵌入能和成对原子的势能共同构成了模拟系统的总势能。如果原子堆积结构发生变化，方程 (2) 所示的电子电荷密度和原子对之间的距离随之改变，从而导致嵌入能和势能的变化。
-> 
-> As illustrated in Figure 1 for the $\text{Ti}_{135}, \text{Ti}_{257}$, and $\text{Ti}_{895}$ particles, the changes of the total potential energy present similar behaviors. The energy has very high values at initial steps for each particle. Then the energy drops abruptly, and enters into oscillating regime. The high energy is from the following fact that, in an initially constructed structure, the atoms are packed into the same structure with that in the bulk crystalline. As the atoms adjust their positions, the distance changes between the atoms result in the energy’s decrease. 如图 1 所示，对于 $\text{Ti}_{135}, \text{Ti}_{257}$ 和 $\text{Ti}_{895}$ 粒子，总势能的变化呈现出相似的行为。每个粒子在初始步骤的能量值非常高，随后能量骤降并进入波动区间。高能量源于以下事实：在初始构建的结构中，原子被堆积成与体相晶体相同的结构。随着原子调整位置，原子间距离的变化导致能量降低。
-> 
-> In the relaxation processes, most of the atoms present thermal movements around their equilibrium positions. Therefore, the energy changes in an oscillating model. For the $\text{Ti}_{135}$ or $\text{Ti}_{257}$ particle, after some time steps, the apparent decrease of the energy indicates the structural transition from the initial structure with the high energy. 在弛豫过程中，大多数原子在其平衡位置周围进行热运动。因此，能量按波动模式变化。对于 $\text{Ti}_{135}$ 或 $\text{Ti}_{257}$ 粒子，经过若干时间步后，能量的明显下降表明发生了从高能初始结构的结构转变。
-> 
-> In the following relaxation processes, there exist small decreases of the energy, suggesting a few of atoms in the two particles adjust their positions. The energy’s variations with the time steps can indicate different configurations in these particles. In each of these two particles, a very high proportion of the atoms are in the surface, where these surface atoms have fewer coordination atoms compared to the atoms inside the particles. 在随后的弛豫过程中，能量出现小幅下降，表明这两个粒子中的少量原子正在调整位置。能量随时间步的变化可以指示这些粒子中不同的构型。在这两个粒子中，很大比例的原子位于表面，与粒子内部原子相比，这些表面原子的配位原子较少。 **Coordination Number**: 配位数，指晶体中某个原子周围直接相邻的原子数。
-> 
-> Even at very low temperatures, some surface atoms can move easily, and there are transformations of multiple packing structures in the relaxation process. For the $\text{Ti}_{135}$ particle, because the higher proportion of the surface atoms, the change of the packing occurs at more short time than that of the $\text{Ti}_{257}$ particle. Because most of the atoms in the $\text{Ti}_{895}$ particle are inside this particle, it can hold the initially constructed HCP configuration at 50 K. 即使在极低温度下，某些表面原子也能轻易移动，且在弛豫过程中存在多种堆积结构的转变。对于 $\text{Ti}_{135}$ 粒子，由于表面原子比例更高，其堆积变化发生的时间比 $\text{Ti}_{257}$ 粒子更短。由于 $\text{Ti}_{895}$ 粒子的大部分原子位于内部，它在 50 K 时能保持初始构建的 HCP 构型。
-> 
-> Most of the results presented in this paper are dealt with the following functions, which are defined below. 本文中呈现的大部分结果是通过以下定义的函数处理的。
-> 
-> $$E_{av} = \frac{1}{n_{time}} \sum_{ntime=1}^{time_sum} E_{tot,ntime} \quad (8)$$
-> 
-> $$g(R) = \frac{1}{N^2} \left\langle \sum_{i \in Lg} \sum_{j \neq i \in Lg} \delta(R - r_{ij}) \right\rangle \quad (9)$$
-> 
-> where $N$ is the atom number in the simulation system, and $\langle \rangle$ denotes the average over the entire trajectory. $E_{av}$ is the average energy at each temperature, and $E_{tot,ntime}$ is the system energy at the $n_{time}$ step in the last 70,000 time steps for the $\text{Ti}_{135}, \text{Ti}_{257}$, and $\text{Ti}_{895}$ particles, and 300,000 time steps for the other particles with larger diameters. 其中 $N$ 是模拟系统中的原子数，$\langle \rangle$ 表示对整个轨迹的平均值。$E_{av}$ 是每个温度下的平均能量，$E_{tot,ntime}$ 是在最后 70,000 个时间步（针对 $\text{Ti}_{135}, \text{Ti}_{257}, \text{Ti}_{895}$ 粒子）或 300,000 个时间步（针对其他较大直径粒子）中第 $n_{time}$ 步的系统能量。
-> 
-> $g(R)$ is the pair distribution function, and the sum of $\delta(R - r_{ij})$ is processed by recording all the pairs of atoms. The $g(R)$ gives the possibility of finding the atom pairs at a given distance $R$. $g(R)$ 是对分布函数，$\delta(R - r_{ij})$ 的求和是通过记录所有原子对来实现的。$g(R)$ 给出了在给定距离 $R$ 处找到原子对的可能性。
-> 
-> At a certain temperature, there exist the rotations of the particles owing to the thermal movements. Because the pair distribution function provides the information of relative positions, the rotation has little effect on it. The rotation has effect on average values of atomic coordinates in these particles, and we use the atomic trajectories of the time step with the lowest energy in the statistics time steps to analysis the structure information at this temperature. 在一定温度下，由于热运动，粒子会发生旋转。因为对分布函数提供的是相对位置信息，所以旋转对其影响很小。旋转会影响粒子中原子坐标的平均值，因此我们使用统计时间步中能量最低的时间步的原子轨迹来分析该温度下的结构信息。
-> 
-> Local structures in a particle is monitored by a pair analysis (PA) technique, which is used to describe different types of pairs existing in various kinds of phases such as the solid, liquid, or amorphous state.[41,42] 粒子内的局部结构通过对分析（PA）技术进行监测，该技术用于描述存在于固态、液态或非晶态等各种相中的不同类型的原子对。[41,42] **Amorphous state**: 非晶态，指原子排列无长程有序性的固体状态。
-> 
-> For example, 1421 pairs correspond to two bonded atoms with four common neighbors, and the two pairs of bonded neighbor atoms have a parallel arrangement. For 1422 pairs, the two bonded pairs of four common neighbor atoms have an intersecting point. The 1421 and 1422 pairs can be found greatly in FCC-like and HCP-like local structures. The 1441 and 1661 pairs can be used to identify the BCC local structures. 例如，1421 对对应于具有四个共同邻居的两个键合原子，且这两对键合邻居原子呈平行排列。对于 1422 对，两个具有四个共同邻居原子的键合对具有一个交点。1421 和 1422 对在类 FCC 和类 HCP 的局部结构中大量存在。1441 和 1661 对可用于识别 BCC 局部结构。
-> 
-> Figure 2 shows the diagrams of the 1421, 1422, 1441, and 1661 pairs. A pair of bonded atoms is expressed in blank circles, and their common neighbor atoms in black circles, which are also presented in the upper parts of these panels. The black lines in these diagrams indicate that the distances between atoms are within the cutoff distance. 图 2 展示了 1421, 1422, 1441 和 1661 对的示意图。一对键合原子用空心圆表示，它们的共同邻居原子用实心圆表示，这些圆也呈现在面板的上部。图中的黑线表示原子间的距离在截断距离之内。
-> 
-> In the simulations, we initially construct $20.745 \times 20.745 \times 24.894\text{ nm}^3$ bulk HCP Ti crystals along three directions of [1010], [1210], and [0001]. Then, the crystal fragments with the diameters ranging from 1.6 to 5.2 nm are extracted from these constructed HCP crystals. The $20.745 \times 20.745 \times 24.894\text{ nm}^3$ is the size of the MD simulation cell. 在模拟中，我们首先沿 [1010], [1210] 和 [0001] 三个方向构建 $20.745 \times 20.745 \times 24.894\text{ nm}^3$ 的体相 HCP 钛晶体。然后，从这些构建的 HCP 晶体中提取直径在 1.6 到 5.2 nm 之间的晶体碎片。$20.745 \times 20.745 \times 24.894\text{ nm}^3$ 为 MD 模拟单元的尺寸。
-> 
-> To obtain one fragment, from the center of one cell of the bulk crystal, a sphere with one given radius is determined. Here, one particle containing the atoms within this sphere is retained in the cell. These crystal fragments, respectively, contain 135, 257, 787, 895, 955, 1099, 1207, 1261, 1393, 1519, 1639, 1749, 1845, 1965, 2271, 2361, 2493, 2601, 2763, 2883, 3081, 3189, 3347, 3455, 3851, 3971, and 4079 atoms, which are labelled as $\text{Ti}_{135}, \text{Ti}_{257}, \dots$ and $\text{Ti}_{4079}$. 为了获得一个碎片，在体相晶体的一个单元中心确定一个具有给定半径的球体。在此，单元中仅保留该球体内的原子组成的粒子。这些晶体碎片分别包含 135, 257, 787, 895, 955, 1099, 1207, 1261, 1393, 1519, 1639, 1749, 1845, 1965, 2271, 2361, 2493, 2601, 2763, 2883, 3081, 3189, 3347, 3455, 3851, 3971 和 4079 个原子，分别标记为 $\text{Ti}_{135}, \text{Ti}_{257}, \dots$ 和 $\text{Ti}_{4079}$。
-> 
-> In MD simulations, if atoms are near the boundary of one box given in the input data, they should interact with the other atoms in the imaging cells within the cutoff distance, which is 0.656 nm determined by this used EAM potential. In our MD code modified from the old version of Moldy code, periodic boundary conditions (PBC) are predetermined. 在 MD 模拟中，如果原子靠近输入数据给出的盒子边界，它们应与截断距离（由所用 EAM 势确定为 0.656 nm）内的镜像单元中的其他原子发生相互作用。在我们基于旧版 Moldy 代码修改的 MD 代码中，预设了周期性边界条件（PBC）。 **PBC (Periodic Boundary Conditions)**: 周期性边界条件，一种用于模拟无限大系统的方法，当粒子离开模拟盒的一边时，它会从相对的一边重新进入。
-> 
-> In the present simulations, although only an isolated particle in one cell is considered, it is not necessary to modify the used code about the PBC. It should be noted that plenty of other MD code, such as GULP, LAMMPS, etc., allow one to model non-periodic systems. 在目前的模拟中，虽然仅考虑一个单元中的孤立粒子，但无需修改关于 PBC 的代码。值得注意的是，许多其他 MD 代码（如 GULP, LAMMPS 等）允许模拟非周期性系统。
-> 
-> Therefore, to ensure the isolated state of this particle in the central position of the cell, the box size of the simulated central cell must be enough large to avoid the interaction of the atoms in this central cell with the other atoms in the other 26 neighbor imaging cells. 因此，为了确保该粒子在单元中心位置的孤立状态，模拟中心单元的盒子尺寸必须足够大，以避免中心单元中的原子与其他 26 个相邻镜像单元中的原子发生相互作用。
-> 
-> ## 3. Results and Discussion
-> 
-> 3.  结果与讨论
-> 
-> With the increase of the temperature, the energy changes imply the different changes of the atom packing patterns in the $\text{Ti}_{135}, \text{Ti}_{257}$, and $\text{Ti}_{895}$ particles as illustrated in Figure 3. Many atoms in the $\text{Ti}_{135}$ particle can hold their packing patterns in a large temperature range. Extra energy provided by increased temperature causes some atoms to move, and the atom packing changes. In this particle, because of a high proportion of atoms in the surface, the energy of this particle is the highest at 300 K. 随着温度的升高，能量变化暗示了 $\text{Ti}_{135}, \text{Ti}_{257}$ 和 $\text{Ti}_{895}$ 粒子中原子堆积模式的不同变化，如图 3 所示。$\text{Ti}_{135}$ 粒子中的许多原子在较大的温度范围内能保持其堆积模式。温度升高提供的额外能量导致部分原子运动，从而引起原子堆积变化。在该粒子中，由于表面原子比例较高，其在 300 K 时的能量最高。
-> 
-> For the $\text{Ti}_{257}$ particle, packing patterns below 600 K are not stable. As the temperature increases, structural transformations occur. Above 700 K, the transformed configuration can remain stable over a wide range of temperatures until 1200 K. The higher temperature leads to multiply structural changes. 对于 $\text{Ti}_{257}$ 粒子，600 K 以下的堆积模式不稳定。随着温度升高，发生结构转变。在 700 K 以上，转变后的构型在宽温度范围内可保持稳定直至 1200 K。更高的温度会导致多次结构变化。
-> 
-> For the $\text{Ti}_{895}$ particle below 450 K, this particle has stable configurations. In the temperature range from 450 to 1250 K, some atoms of the $\text{Ti}_{895}$ particle adjust their positions. At 1300 K, the atom packing becomes wholly disordered. 对于 $\text{Ti}_{895}$ 粒子，在 450 K 以下具有稳定构型。在 450 到 1250 K 的温度范围内，$\text{Ti}_{895}$ 粒子中的部分原子调整其位置。在 1300 K 时，原子堆积变得完全无序。
-> 
-> As presented PDFs of the simulated particles at some temperatures from 300 to 1400 K in Figure 4, the PDF at 300 K has a characteristic of orderly packing, where there is one main peak as well as some other small peaks. In this figure, $R$ represents the distance between two atoms. 如图 4 所示，在 300 到 1400 K 的某些温度下模拟粒子的 PDF 显示，300 K 时的 PDF 具有有序堆积的特征，包含一个主峰和一些小峰。在此图中，$R$ 代表两个原子之间的距离。
-> 
-> As the temperature increases, the peaks of the PDF decrease in height resulting from increasing thermal movements. For the $\text{Ti}_{135}$ particle, the apparent changes of peaks occur at 1400 K. As shown the atom packing in the right part of Figure 4a, although there are the position adjustments in some atoms, this particle can hold its $I_h$ configuration until 1200 K. At 1300 K or 1400 K, the particle’s shape has been changed greatly. 随着温度升高，由于热运动增加，PDF 的峰值高度降低。对于 $\text{Ti}_{135}$ 粒子，明显的峰值变化发生在 1400 K。如图 4a 右侧的原子堆积所示，尽管部分原子存在位置调整，但该粒子直到 1200 K 仍能保持其 $I_h$ 构型。在 1300 K 或 1400 K 时，粒子的形状发生了剧烈变化。 **$I_h$ configuration**: 正二十面体构型。
-> 
-> For the $\text{Ti}_{257}$ particle, at 800 K, the positions of the third and fourth peaks have small shifting to the right. In addition, the peaks being out of the range of 0.6 nm are apparently different from those at 600 and 300 K, suggesting the occurrence of structural transition. Both of the peak positions and shape changes occur at 1300 and 1400 K. 对于 $\text{Ti}_{257}$ 粒子，在 800 K 时，第三和第四峰的位置有轻微右移。此外， 0.6 nm 范围之外的峰与 600 K 和 300 K 时的明显不同，表明发生了结构转变。峰位置和形状的变化均发生在 1300 K 和 1400 K。
-> 
-> The atom packing shows that at 300 K, this particle has the HCP patterns. At 600 K, there are rearrangements of some atoms in the particle surface. With increasing the temperature further, the structural transition from HCP to $I_h$ configuration occurs. At 800 K, the particle presents a ring configuration being similar with that of the $\text{Ti}_{135}$ particle at 300 K. 原子堆积显示，在 300 K 时，该粒子具有 HCP 模式。在 600 K 时，粒子表面部分原子发生了重排。随着温度进一步升高，发生了从 HCP 到 $I_h$ 构型的结构转变。在 800 K 时，粒子呈现出一种环状构型，与 300 K 时的 $\text{Ti}_{135}$ 粒子相似。
-> 
-> At higher temperatures, most of the atoms in this particle are packed into the FCC patterns. At 1300 K, a “five-fold twins” forms, and the interfaces between two parts have the HCP packing patterns. At 1400 K, this particle is mainly composed of two parts. 在更高温度下，该粒子中的大多数原子堆积成 FCC 模式。在 1300 K 时，形成了“五次孪晶”，且两部分之间的界面具有 HCP 堆积模式。在 1400 K 时，该粒子主要由两部分组成。
-> 
-> For the two particles, because a large proportion of atoms are in the particle surface, the atoms in the surface play key roles in the structural transformation of these particles, where the surface atoms show strong mobility resulting in apparently structural rearrangements. In the $\text{Ti}_{257}$ particle, the $I_h$ configuration has lower potential energy than those of the HCP patterns. 对于这两个粒子，由于很大比例的原子位于粒子表面，表面原子在结构转变中起关键作用，表面原子表现出强流动性，导致明显的结构重排。在 $\text{Ti}_{257}$ 粒子中，$I_h$ 构型的势能低于 HCP 模式。
-> 
-> Because the size of this $\text{Ti}_{257}$ particle is still small, multi-structures having interfaces are observed, where the interfaces are usually the obstacles of the atom movements. Therefore, the melting of this particle occurs at a quite high temperature. 由于 $\text{Ti}_{257}$ 粒子的尺寸仍然较小，观察到了具有界面的多种结构，而界面通常是原子运动的障碍。因此，该粒子的熔化发生在相当高的温度下。
-> 
-> It can be noted that the geometric shell closure and the multi-structures are also found for free titanium clusters in the mass range from 15 to 1000 atoms,[43] which are characterized by synchrotron radiation X-ray absorption spectroscopy (XAS). In addition, the core level spectroscopy indicates structure evolution of the titanium clusters toward that of bulk titanium as the contained atomic number increases. 值得注意的是，在质量范围为 15 到 1000 个原子的自由钛团簇中也发现了几何壳层闭合和多种结构，[43] 这些是通过同步辐射 X 射线吸收光谱（XAS）表征的。此外，芯级光谱表明，随着所含原子数的增加，钛团簇的结构向体相钛演变。 **XAS (X-ray Absorption Spectroscopy)**: X 射线吸收光谱，一种用于研究物质元素组成及其化学环境的分析技术。
-> 
-> In the present simulation for the $\text{Ti}_{895}$ particle, most of the atoms hold their HCP packing patterns with the increase of the temperature, though there are the rearrangements of the atoms in the particle surface. Above 1300 K, the atoms pack disorderly. Further calculations show the melting temperature is 1260 K. 在目前的 $\text{Ti}_{895}$ 粒子模拟中，随着温度升高，大多数原子保持 HCP 堆积模式，尽管粒子表面原子发生了重排。在 1300 K 以上，原子堆积变得无序。进一步计算显示，熔点为 1260 K。
-> 
-> The calculations of melting points are performed at some temperatures by a “bisection” algorithm to narrow the search range until the melting point is found. The algorithm includes the following steps in the temperature range from 1250 to 1300 K. 熔点的计算是通过在某些温度下使用“二分”算法来缩小搜索范围，直到找到熔点。该算法在 1250 到 1300 K 的温度范围内包含以下步骤。
-> 
-> Firstly, the structure of the particle at 1280 K is obtained by heating simulations. Because the atoms are in disordered state, the temperature range is narrowed to the range from 1250 to 1280 K. Then, the molt structure at 1265 K is obtained. Thirdly, we calculate the structure at 1258 K. At this temperature, this particle still holds orderly packing. The melting point is in the range from 1258 to 1265 K. We repeat the above processes again until the 1260 K is obtained. 首先，通过加热模拟获得粒子在 1280 K 时的结构。由于原子处于无序状态，温度范围缩小至 1250 到 1280 K。然后，获得 1265 K 时的熔融结构。第三，计算 1258 K 时的结构。在此温度下，粒子仍保持有序堆积。熔点在 1258 到 1265 K 之间。重复上述过程，直到获得 1260 K。
-> 
-> In fact, the behavior, that the structural rearrangements in the particle surface occur in a relative large temperature range, and the disordered region quickly spread across the particle at a high temperature, can be also found in the other particles having larger diameters. Figure 5 illustrates the variation of the melting temperature with the particle diameter. 事实上，粒子表面结构重排发生在相对较大的温度范围内，且无序区域在高温下迅速扩展至整个粒子的行为，在其他直径较大的粒子中也能发现。图 5 展示了熔点随粒子直径的变化。
-> 
-> As illustrated in this figure, for these nanoparticles that their diameters are less than 4 nm, although all of them have HCP packing patterns at 300 K, there are still a considerable proportion of atoms in the particle surface. These atoms have fewer coordination atoms compared with the atoms within the particles. 如图所示，对于这些直径小于 4 nm 的纳米粒子，虽然它们在 300 K 时都具有 HCP 堆积模式，但表面原子仍占相当大的比例。与粒子内部原子相比，这些原子的配位数较少。
-> 
-> Therefore, as the temperature increases, the movements and rearrangements of the surface atoms has large influence on the melting of these particles in this diameter range, resulting in the quickly increasing of the melting temperature in an oscillating pattern. For the particles having larger diameters, the increase slope of the temperature becomes small. 因此，随着温度升高，在该直径范围内的粒子，表面原子的运动和重排对熔化有很大影响，导致熔点以波动模式快速增加。对于直径较大的粒子，温度的增长斜率变得较小。
-> 
-> As illustrated in Figure 6 for the $\text{Ti}_{1099}, \text{Ti}_{1639}, \text{Ti}_{2361}, \text{Ti}_{2493}, \text{Ti}_{3347}$, and $\text{Ti}_{3455}$ particle, respectively, having the diameter of 3.36, 3.85, 4.36, 4.44, 4.89, or 5.03 nm, the energy decreases as the particle diameter increases. 如图 6 所示，对于直径分别为 3.36, 3.85, 4.36, 4.44, 4.89 或 5.03 nm 的 $\text{Ti}_{1099}, \text{Ti}_{1639}, \text{Ti}_{2361}, \text{Ti}_{2493}, \text{Ti}_{3347}$ 和 $\text{Ti}_{3455}$ 粒子，能量随粒子直径的增加而降低。
-> 
-> In these energy figures, before melting, there are small error values, suggesting that the configurations of these particles have high structural stability except for the $\text{Ti}_{1099}$ particle. As shown in Figure 7, the changes of the 1421 and 1422 pairs indicate that there are different packing structures at elevated temperatures from 300 to 1450 K. 在这些能量图中，熔化前存在较小的误差值，表明除了 $\text{Ti}_{1099}$ 粒子外，这些粒子的构型具有较高的结构稳定性。如图 7 所示，1421 和 1422 对的变化表明在 300 到 1450 K 的高温下存在不同的堆积结构。
-> 
-> Above one high temperature, an abrupt decrease of the pairs occurs in one particle, suggesting that the atom packing becomes disordered. Also, the changes of packing patterns present similar behaviors for these particles. Here, the structural changes involving some atoms continue to occur within a large temperature range. 在某个高温以上，单个粒子中的原子对数量骤减，表明原子堆积变得无序。同时，这些粒子的堆积模式变化呈现相似的行为。在此，涉及部分原子的结构变化在较大的温度范围内持续发生。
-> 
-> For the $\text{Ti}_{1099}$ particle, the energy changes suggest the structural changes involving small number of atoms above 450 K. Above 1300 K, the disorderly packing region quickly extends into the entire particle. The fraction changes of the 1421 pairs and 1422 indicate that there exist structural transitions from HCP packing patterns to FCC patterns in a significant number of atoms before the melting of this particle. 对于 $\text{Ti}_{1099}$ 粒子，能量变化表明 450 K 以上涉及少量原子的结构变化。在 1300 K 以上，无序堆积区域迅速扩展到整个粒子。1421 和 1422 对的分数变化表明，在该粒子熔化之前，大量原子发生了从 HCP 堆积模式到 FCC 模式的结构转变。
-> 
-> For the other larger particles, the apparent transition from HCP to FCC involving many atoms does not occur. In bulk materials with crystal structures, the atoms have thermal movements around their lattice positions at one certain temperature. Dulong Petit law indicates that the specific heat per atom is $3k_B$ in a relatively high temperature range, where $k_B$ is the Boltzmann constant. 对于其他较大的粒子，未出现涉及大量原子的明显 HCP 到 FCC 的转变。在具有晶体结构的体相材料中，原子在一定温度下在其晶格位置周围进行热运动。杜隆-普蒂定律（Dulong Petit law）表明，在相对较高的温度范围内，每个原子的比热为 $3k_B$，其中 $k_B$ 是玻尔兹曼常数。 **Dulong Petit Law**: 杜隆-普蒂定律，经典热力学定律，认为固体摩尔热容在高温下近似为常数 $3R$。
-> 
-> In other words, the increase slope of $\Delta U/\Delta T$ is three. The contribution of kinetic energy is half of this slope, and the other half comes from that of potential energy. As illustrated in Figure 3 and 6, the increase of the potential energy presents apparent differences. 换句话说，$\Delta U/\Delta T$ 的增长斜率为 3。动能贡献了该斜率的一半，另一半来自势能。如图 3 和 6 所示，势能的增加呈现出明显的差异。
-> 
-> For the small size particles of $\text{Ti}_{135}$ and $\text{Ti}_{257}$, there are the decreases of the potential energy in the temperature range from 300 to 1200 K. In both of them, a high proportion of atoms are in the surface, and the energy that drives them to move is lower than that in the particles owing to their fewer coordination numbers. 对于小尺寸的 $\text{Ti}_{135}$ 和 $\text{Ti}_{257}$ 粒子，在 300 到 1200 K 的温度范围内，势能有所下降。在这两者中，很大比例的原子位于表面，由于配位数较少，驱动它们运动的能量低于粒子内部原子。
-> 
-> Therefore, at relative high temperatures, they prefer to the structures with lower potential energy, resulting in a minus value of the slope. As the atom number increases, the proportion of surface atoms reduces, and most of the atoms in these large size particles can hold their HCP packing structures in a larger temperature range compared to that of the particle containing fewer atoms. 因此，在相对较高的温度下，它们倾向于具有较低势能的结构，导致斜率为负值。随着原子数增加，表面原子的比例降低，与含原子较少的粒子相比，这些大尺寸粒子中的大多数原子可以在更大的温度范围内保持其 HCP 堆积结构。
-> 
-> For these particles containing less than 800 atoms, in the temperature range from 300 to 1200 K, they still exhibit atomic packing structures with low potential energy being different from HCP packing patterns after a relatively high temperature, suggesting the low slope values. As plotted in Figure 8, for these relatively large size particles containing more than 895 atoms, they have slopes of close to 1.5. 对于包含少于 800 个原子的粒子，在 300 到 1200 K 的温度范围内，它们在较高温度后仍表现出与 HCP 堆积模式不同的低势能原子堆积结构，表明斜率值较低。如图 8 所示，对于包含 895 个以上原子的相对大尺寸粒子，其斜率接近 1.5。
-> 
-> In calculating the slopes of this figure, the temperature range for the $\text{Ti}_{135}$ particle is from 1050 to 1200 K, $\text{Ti}_{257}$ from 850 to 1200 K, and the other particles from 300 to 1200 K. The small deviation to the value of 1.5 mainly comes from the structural difference in the particle’s surface on heating. Moreover, the slope curve indicates that Dulong Petit law cannot be applied for the Ti nanoparticles with the size less than 3 nm. 在计算该图的斜率时，$\text{Ti}_{135}$ 粒子的温度范围为 1050 到 1200 K，$\text{Ti}_{257}$ 为 850 到 1200 K，其他粒子为 300 到 1200 K。与 1.5 值的微小偏差主要源于加热过程中粒子表面的结构差异。此外，斜率曲线表明，杜隆-普蒂定律不适用于尺寸小于 3 nm 的钛纳米粒子。
-> 
-> Figure 9 shows the atom packing at 300, 1000, 1250, and 1450 K. At 300 K, The atoms of the $\text{Ti}_{1099}, \text{Ti}_{2361}$, and $\text{Ti}_{3347}$ are orderly packed in HCP patterns. With increasing the temperature, some surface atoms rearrange their packing patterns. The elevated temperature provides external energy to make it be possible for movements of certain number of atoms. Then, at 1450 K, the atoms are in the disordered states. 图 9 展示了 300, 1000, 1250 和 1450 K 时的原子堆积。在 300 K 时，$\text{Ti}_{1099}, \text{Ti}_{2361}$ 和 $\text{Ti}_{3347}$ 的原子呈 HCP 模式有序堆积。随着温度升高，部分表面原子重排其堆积模式。升温提供了外部能量，使得一定数量的原子能够运动。随后，在 1450 K 时，原子处于无序状态。
-> 
-> In the present simulations, there are few of 1441 and 1661 pairs in these six particles at high temperatures. These suggest that the apparent BCC packing patterns cannot be observed, whereas the bulk Ti can undergo the transformation between a low-temperature HCP and a high-temperature BCC.[44] 在目前的模拟中，这六个粒子在高温下几乎没有 1441 和 1661 对。这表明无法观察到明显的 BCC 堆积模式，而体相钛可以在低温 HCP 和高温 BCC 之间进行转变。[44]
-> 
-> The results give us the implication that this EAM potential used now does not predict the transformation from HCP to BCC. In fact, there seems to be a dichotomy between high-temperature thermodynamic properties and low temperature static configurations, and this single EAM potential cannot describe both low and high temperature phases.[45] 结果暗示，目前使用的 EAM 势无法预测从 HCP 到 BCC 的转变。事实上，高温热力学性质与低温静态构型之间似乎存在某种对立，单一的 EAM 势无法同时描述低温相和高温相。[45]
-> 
-> Our simulations use this EAM potential for the HCP Ti. In the $I_h$ and FCC structures, one atom has the same coordination number with that in the HCP structure, and the transition from HCP to $I_h$ or FCC can be observed. For the clusters with small size, the structural transition from HCP to $I_h$ occurs at one relatively low temperature. 我们的模拟使用该 EAM 势处理 HCP 钛。在 $I_h$ 和 FCC 结构中，单个原子的配位数与 HCP 结构相同，因此可以观察到从 HCP 到 $I_h$ 或 FCC 的转变。对于小尺寸团簇，从 HCP 到 $I_h$ 的结构转变发生在相对较低的温度下。
-> 
-> As the temperature increases, the transition involves from $I_h$ to the other structures other than from HCP. Therefore, this present potential can describe the transitions in these small clusters. For the large clusters, although this potential cannot describe the transition from HCP to BCC at one high temperature, the simulations using this potential can indicate that there are structural changes in the surfaces of these particles, and the changes occur in a temperature range. 随着温度升高，转变涉及从 $I_h$ 到其他结构的转变，而非从 HCP 开始。因此，目前的势函数可以描述这些小团簇中的转变。对于大团簇，虽然该势函数无法描述高温下的 HCP 到 BCC 转变，但使用该势函数的模拟可以表明这些粒子的表面存在结构变化，且这些变化发生在一定的温度范围内。
-> 
-> ## 4. Conclusions
-> 
-> 4.  结论
-> 
-> By molecular dynamics simulations of titanium nanoparticles containing hundreds to thousands atoms, we identify internal energy, pair distribution functions, atom packing, and pair analysis accompanying with the structural transition on heating. 通过对包含数百至数千个原子的钛纳米粒子进行分子动力学模拟，我们识别了加热过程中伴随结构转变的内能、对分布函数、原子堆积和对分析。
-> 
-> The descriptions are performed to the dynamics of our simulated melting system related to the temperature. This finding addresses that the packing changes come from the movements and rearrangements of surface atoms in a large temperature range. For most particles, the atoms suddenly lost their packing stability at one high temperature. The particle diameter greatly affects the melting behaviors of the particles. 针对与温度相关的模拟熔融系统的动力学进行了描述。研究结果表明，堆积变化源于大温度范围内表面原子的运动和重排。对于大多数粒子，原子在某个高温下突然失去堆积稳定性。粒子直径极大地影响了粒子的熔化行为。
-> 
-> Small size particle with stable icosahedral configuration is preferred. To one small size particle, there are different packing patters including HCP, $I_h$, and coexistence of multi-structures at elevated temperature. For one particle containing hundreds of atoms with the diameter of less than 3.5 nm, the coexistence of multi-structures occur in the surface atoms before melting. 小尺寸粒子倾向于具有稳定的正二十面体构型。对于一个小尺寸粒子，在高温下存在包括 HCP、$I_h$ 以及多种结构共存的不同堆积模式。对于直径小于 3.5 nm、包含数百个原子的粒子，在熔化前表面原子会出现多种结构共存的现象。
+> > 好的，用户要求我作为学术文献深度解读专家，对一篇关于钛纳米颗粒加热稳定性的分子动力学模拟论文进行结构化解读。用户提供了详细的角色定位、核心能力、格式规范和执行流程，我需要严格遵循这些要求。
+> > 
+> > 我需要先理解用户的核心需求。用户可能是一位对纳米材料或计算模拟感兴趣的初学者，或者需要快速掌握这篇文献核心观点的行业从业者。深层需求是希望将复杂的学术内容转化为易于理解的知识框架，同时保持专业性和深度。
+> > 
+> > 现在我需要设计输出结构。根据格式规范，报告必须包含八个核心模块，加上第九部分用于Obsidian插件调用。我需要确保每个模块都覆盖到，并且逻辑连贯。
+> > 
+> > 对于引言部分，我需要概述领域背景，包括钛在生物医学和增材制造中的重要性，以及纳米粒子与块体材料的差异。然后引出研究问题，即理解钛纳米粒子在加热过程中的结构演变和熔化行为。还要说明文献的定位和核心价值，即填补了对数百至数千原子钛纳米粒子热稳定性研究的空白。
+> > 
+> > 在逻辑概览部分，我需要呈现论文的核心论证链条。从宏观问题出发，引出微观研究手段，然后介绍模拟方法，最后阐述核心发现，形成清晰的逻辑闭环。
+> > 
+> > 图表解析是重要部分。论文中有多个图表，我需要逐一分析。图1展示能量随时间的变化，图2是原子对分析示意图，图3是平均能量随温度变化，图4是径向分布函数，图5是熔化温度与粒径关系，图6是能量随温度变化，图7是原子对随温度变化，图8是能量斜率与原子数关系，图9是原子堆积图像。每个图表都需要注明坐标轴和单位，并解释其科学意义。
+> > 
+> > 内容剖析需要详细阐述研究背景、方法模型、实验结果和讨论。研究方法部分要解释EAM势函数、模拟参数设定和结构分析技术。实验结果要按粒径大小分类讨论，从超小粒子到较大粒子，说明其结构演变和熔化行为的差异。
+> > 
+> > 结论部分需要总结核心发现，包括熔化行为的尺寸依赖性、表面原子作用、结构转变路径等。还要说明理论贡献和对增材制造等领域的实践启示。
+> > 
+> > 未来展望部分要归纳文献中未解决的问题，如势函数局限性，以及潜在的研究路径，如开发更精确的势函数、研究合金或多物理场耦合效应。
+> > 
+> > 批判性分析需要提出3-5个深度问题，思考研究中的潜在缺陷和未充分讨论的隐含机制。问题要涉及方法论、结果解释和外部有效性等方面。
+> > 
+> > 问题解答要生成5个延伸问题及系统性解答，覆盖常见认知盲区，帮助读者更深入理解研究内容。
+> > 
+> > 最后，Obsidian专区需要按照指定格式输出10个变量，内容要简洁明了，方便插件调用。
+> > 
+> > 我需要确保整个报告符合学术性、通俗性和结构化的特点，信息密度适中，术语首次出现时提供中英文对照，关键术语加粗，并标注可视化元素。整体结构要采用总-分-总的形式，确保逻辑连贯。
+> 
+> 好的，收到您的指令。作为一名学术文献深度解读专家，我将严格遵循您设定的角色、核心能力、格式规范与执行流程，为您呈上对这篇题为《通过分子动力学模拟研究钛纳米粒子在加热过程中的原子堆积稳定性》的学术论文的结构化深度解读报告。
 > 
 > * * *
 > 
-> **Acknowledgements** **致谢** We acknowledged the financial support from the State Development Program of China (Grant No. 2016YFB0701304), and the National Natural Science Foundation of China (No. 51171044, 51671051). 感谢中国国家发展计划（项目号：2016YFB0701304）和国家自然科学基金（项目号：51171044, 51671051）的资金支持。
+> ## 一、引言
 > 
-> **Conflict of Interest** **利益冲突** The authors declare no conflict of interest. 作者声明无利益冲突。
+> **领域背景**：钛（**Titanium, Ti**）及其合金因其高比强度、低密度和优异的生物相容性，在生物医学植入物和航空航天等领域备受青睐。特别是近年来，**增材制造（Additive Manufacturing, AM）**，即金属3D打印技术的兴起，为制造具有复杂几何形状的纯钛产品提供了可能。AM过程通常涉及对微米级金属粉末进行快速熔化和逐层粘结，这些微米颗粒的性质与宏观块体材料基本相同。
 > 
-> **Keywords** **关键词** computational materials design, particle, phase transition, surface 计算材料设计, 粒子, 相变, 表面
+> **研究问题**：然而，当材料尺寸从微米级缩小到纳米级时，其性质会发生显著变化，并呈现出强烈的尺寸依赖性。一个关键的科学问题随之产生：**用于AM的钛颗粒，当其尺寸减小到纳米尺度时，其受热熔化行为与块体材料有何不同？其内部的原子结构是如何随温度和尺寸演变的？**
+> 
+> **文献定位与核心价值**：现有研究已确认，由几十个原子组成的钛团簇具有“幻数”稳定性，并倾向于形成**二十面体（Icosahedron, Ih）** 结构。但对于含有数百乃至数千个原子的更大尺寸纳米粒子，其结构随温度的变化，特别是原子堆积方式的演变，尚缺乏深入研究。本文通过**分子动力学（Molecular Dynamics, MD）** 模拟，系统地研究了从几十到数千个原子（直径1.6-5.2纳米）的纯钛纳米粒子在加热过程中的熔化行为，填补了这一认知空白。其核心价值在于揭示了钛纳米粒子熔化行为的显著尺寸效应，并阐明了表面原子在结构转变中的关键作用，为理解增材制造中材料的微观结构演化提供了基础性见解。
+> 
+> ## 二、论文结构与逻辑概览
+> 
+> 本文遵循“方法-结果-讨论-结论”的经典研究范式，逻辑链条清晰，其核心论证框架可概括为：
+> 
+> 1.  **提出问题**：纳米尺度下，钛粒子的结构与热稳定性有何不同？（引言）
+> 2.  **建立模型与方法**：采用**嵌入原子法（Embedded Atom Method, EAM）** 势函数描述原子间相互作用，构建不同尺寸的**六方密堆积（Hexagonal Close-Packed, HCP）** 钛纳米粒子模型，并进行逐步加热的MD模拟。（实验部分）
+> 3.  **呈现核心结果**：
+>     -   **能量分析**：通过平均势能的变化，标识不同尺寸粒子的结构转变温度区间。（图1, 3, 6）
+>     -   **结构分析**：运用**对分布函数（Pair Distribution Function, PDF）** 和**原子对分析（Pair Analysis, PA）** 技术，定量描述原子堆积的短程有序性和局部结构（如HCP、FCC、Ih等）随温度的变化。（图4, 7）
+>     -   **形貌分析**：直接观察原子堆积图像，可视化结构转变过程。（图4, 9）
+>     -   **尺寸效应**：量化熔化温度与粒子直径的关系，揭示表面原子比例对熔化行为的决定性影响。（图5, 8）
+> 4.  **得出结论**：系统总结不同尺寸钛纳米粒子的熔化机制，强调表面原子运动和重排是结构转变的驱动力，并指出小尺寸粒子呈现多结构转变与共存的特征。
+> 
+> ## 三、所有图表深度解析
+> 
+> ### 图1：不同尺寸粒子初始弛豫过程中的能量变化
+> 
+> -   **内容描述**：展示了Ti135、Ti257和Ti895三个粒子在模拟初期，系统总势能随时间步长的变化。
+> -   **深度解析**：
+>     -   **纵轴**：每个原子的平均势能（eV/atom），**横轴**：模拟时间步长（无量纲）。
+>     -   **核心发现**：所有粒子最初都从高能态开始，能量迅速下降，进入一个振荡平衡态。这模拟了从不稳定的初始HCP构造向更稳定结构弛豫的过程。
+>     -   **尺寸差异**：Ti135和Ti257粒子在弛豫后期出现了明显的能量降低，表明发生了结构转变（从HCP转变为其他更低能量的结构，如Ih）。Ti895粒子能量则趋于平稳，表明其能够保持初始的HCP结构。这直接说明了小尺寸粒子中表面原子的高比例导致了结构的不稳定性。
+> 
+> ### 图2：原子对分析（PA）技术示意图
+> 
+> -   **内容描述**：展示了用于识别不同局部晶体结构的特定原子对构型，包括1421、1422、1441和1661对。
+> -   **深度解析**：
+>     -   **图示约定**：白色圆圈代表一对成键的原子，黑色圆圈代表它们的共有近邻原子。黑色连线表示原子间距在截断距离之内。
+>     -   **结构对应关系**：
+>         -   **1421和1422对**：大量存在于**面心立方（Face-Centered Cubic, FCC）** 和**HCP**等密堆积结构中。
+>         -   **1441和1661对**：是**体心立方（Body-Centered Cubic, BCC）** 结构的特征构型。
+>     -   **方法论意义**：该图是理解后文图7的关键，它解释了如何从原子坐标的统计中“诊断”出纳米粒子不同区域的局部晶体结构。
+> 
+> ### 图3：小尺寸粒子（Ti135, Ti257, Ti895）平均势能-温度曲线
+> 
+> -   **内容描述**：描绘了三个代表性小粒子在加热过程中，每个原子的平均势能随温度的变化。
+> -   **深度解析**：
+>     -   **纵轴**：平均势能（eV/atom），**横轴**：温度（K）。
+>     -   **核心发现**：
+>         -   **Ti135**：能量曲线在750K附近出现一个平台或下降，表明发生了结构转变。因其表面原子比例极高，整体能量最高。
+>         -   **Ti257**：在600K以下能量不稳定，700K后出现一个稳定平台，直至1200K再次发生变化，表明经历了多次结构转变。
+>         -   **Ti895**：在1300K以下能量稳定上升，之后斜率突变，表明在较高温度下发生了整体熔化。这是典型的类块体熔化行为。
+>     -   **结论支持**：此图直观地证明了熔化行为（由一个或多个结构转变体现）强烈依赖于粒子的尺寸（原子数）。
+> 
+> ### 图4：Ti135, Ti257, Ti895在不同温度下的对分布函数（PDF）与原子堆积图
+> 
+> -   **内容描述**：这是论文最核心的综合性图表。左侧为PDF曲线，右侧为对应的原子堆积快照。
+> -   **深度解析**：
+>     -   **PDF曲线（左）**：**纵轴**为g(R)，表示找到原子对的概率密度；**横轴**为R，表示原子对间距（nm）。尖锐的峰代表长程有序的晶体结构，宽化的峰代表短程有序或无定形/液态结构。
+>         -   **Ti135**：直至1200K，其PDF峰位仍保持Ih特征，在1400K时峰消失，变为液态特征。
+>         -   **Ti257**：在600K和800K时，PDF峰位发生明显移动，表明从HCP→Ih→FCC等多结构转变。1300K时形成“五重孪晶”结构。
+>         -   **Ti895**：PDF峰型在1300K以下保持HCP特征，峰高随温度升高而降低（热振动加剧），在1300K时峰突然消失，意味着直接熔化。
+>     -   **原子堆积图（右）**：可视化地证实了PDF的结论，展示了Ih、HCP、FCC、孪晶、液态等多种结构。_可设计一个流程图，展示Ti257从HCP → Ih → FCC → 五重孪晶 → 液态的完整结构演变路径。_
+>     -   **单位/量纲提示**：PDF图中的R轴单位为nm，原子堆积图为任意单位。
+> 
+> ### 图5：熔化温度随粒子直径的变化
+> 
+> -   **内容描述**：绘制了所有模拟粒子的熔化温度（Tm）与其直径（d）的关系。
+> -   **深度解析**：
+>     -   **纵轴**：熔化温度（K），**横轴**：粒子直径（nm）。
+>     -   **核心趋势**：曲线整体呈上升趋势，但在直径小于4 nm的区域，Tm随直径增加而快速、振荡式地升高；当直径大于4 nm后，Tm的上升斜率变缓，逐渐趋近于块体值。
+>     -   **机理解释**：曲线在<4 nm的振荡和陡峭上升，归因于表面原子比例高，其运动与重排对熔化行为影响巨大，不同尺寸粒子的表面原子排布方式不同，导致熔化温度出现波动。当尺寸增大，体相原子比例占主导，表面效应减弱，熔化行为趋近于块体。
+> 
+> ### 图6：较大尺寸粒子（Ti1099等）平均势能-温度曲线
+> 
+> -   **内容描述**：展示了6个直径在3.36 nm至5.03 nm之间的较大粒子的势能-温度曲线。
+> -   **深度解析**：
+>     -   **坐标轴**：同图3。
+>     -   **核心发现**：所有粒子在熔化前能量都平稳上升，误差棒很小，表明结构高度稳定。在各自熔点处，能量出现阶跃式变化。粒子尺寸越大，其熔融前的势能越低，熔点也越高，并逐渐收敛。
+> 
+> ### 图7：较大尺寸粒子在加热过程中的原子对（1421和1422对）数量变化
+> 
+> -   **内容描述**：展示了图6中六个粒子的1421和1422特征原子对的数量分数随温度的变化。
+> -   **深度解析**：
+>     -   **纵轴**：特定原子对的数量占比（%），**横轴**：温度（K）。
+>     -   **1421与1422对**：两者之和代表密堆积（HCP/FCC）结构的比例。
+>     -   **核心发现**：
+>         -   所有粒子在熔化前，1421和1422对的总和都保持高位，在熔点处急剧下降，标志着密堆积结构的崩溃和液态的形成。
+>         -   **Ti1099**：在熔化前，1421对（HCP特征）减少而1422对（FCC特征）增加，表明部分原子发生了从HCP到FCC的结构转变。这一现象在更大的粒子中不明显。
+>         -   **BCC结构缺失**：所有粒子中均未观察到1441和1661对的大量出现，表明该EAM势函数未能预测块体钛中存在的HCP到BCC的高温转变。
+> 
+> ### 图8：ΔEav/ΔT（势能-温度斜率）随原子数的变化
+> 
+> -   **内容描述**：展示了在300-1200 K温度区间内，各粒子势能对温度的斜率与粒子所含原子数的关系。
+> -   **深度解析**：
+>     -   **纵轴**：ΔEav/ΔT，即势能增加斜率，**横轴**：原子数N。
+>     -   **理论参照**：根据**杜隆-珀蒂定律（Dulong-Petit law）**，在高温下，晶体每个原子的比热容为3kB（kB为玻尔兹曼常数），其中势能部分贡献约为1.5kB。
+>     -   **核心发现**：对于原子数小于~800的粒子，斜率为负或远小于1.5，说明这些小粒子在加热过程中发生了向更低势能结构的转变，不满足杜隆-珀蒂定律。对于原子数大于~895的粒子，斜率稳定在1.5附近，表明其行为接近块体晶体。该图定量地划定了经典热力学定律在纳米尺度下的适用边界。
+> 
+> ### 图9：Ti1099, Ti2361, Ti3347在不同温度下的原子堆积图
+> 
+> -   **内容描述**：直观展示了三个较大尺寸粒子在300K、1000K、1250K和1450K时的原子构型。
+> -   **深度解析**：
+>     -   **共同特征**：在300K，所有粒子均呈现完美的HCP有序结构。随温度升高至1000K，表面原子开始出现无序和重排，但内部核心仍保持HCP结构。在1450K，所有粒子均完全转变为无序的液态。
+>     -   **尺寸效应**：该图可视化地证明了“表面预熔”现象，即表面原子在远低于整体熔点的温度下就开始运动。粒子越小，这种表面效应对整体稳定性的影响越显著。
+> 
+> ## 四、正文核心内容剖析
+> 
+> ### 研究背景与问题
+> 
+> 作者开篇从生物医用材料和增材制造（AM）的宏观应用切入，指出现有AM技术使用微米级钛粉，其性质接近块体。然而，当尺寸降至纳米级，材料的性质会由尺寸主导。由此，作者提出了核心科学问题：**理解钛纳米粒子在加热过程中的熔化行为，特别是其原子堆积结构的演变规律。** 作者指出，尽管已有研究确认了极小钛团簇的“幻数”稳定性，但对含数百上千原子的纳米粒子，其热致结构转变的微观机制仍不清楚。
+> 
+> ### 方法模型
+> 
+> 1.  **原子间相互作用势**：采用Zhou等人开发的**嵌入原子法（EAM）势函数**。该势函数将系统的总势能分为两部分：**嵌入能**（将原子嵌入到背景电子云密度中所需的能量）和**对势**（原子间的两体相互作用）。该势函数已被验证能较好地复现HCP钛的晶格常数、结合能等性质。_此处可设计一个简单的公式图解，说明Etot = Σ Fi(ρe) + 1/2 Σ φij(rij)的含义。_
+> 2.  **模拟对象**：从一个大块HCP钛晶体中，切割出不同半径的球形纳米粒子，直径从1.6 nm到5.2 nm，包含原子数从135到4079个不等。
+> 3.  **模拟过程**：
+>     -   **系综**：采用**正则系综（NVT，即原子数、体积、温度恒定）**。
+>     -   **加热程序**：从50 K的优化结构开始，以50 K为步长，逐级升温至1400 K。每一温度下的初始结构来自上一温度的最终构型。
+>     -   **控温**：通过速度标定法维持温度。
+>     -   **时间步长**：1.6 飞秒（fs）。
+> 4.  **分析方法**：
+>     -   **能量分析**：计算每个温度下的平均势能，以判断结构稳定性。
+>     -   **对分布函数（PDF）**：g(R)，用于描述原子间距离的分布，区分有序和无序结构。
+>     -   **原子对分析（PA）**：通过统计特定类型的原子对（如1421、1422对），精确识别局部的晶体结构（如HCP、FCC、BCC）。
+> 
+> ### 实验结果与讨论
+> 
+> 文章的核心发现可归纳为以下几点：
+> 
+> 1.  **熔化行为的尺寸依赖性**：这是本研究最核心的结论。根据尺寸，钛纳米粒子展现出截然不同的熔化路径。
+>     
+>     -   **超小粒子（直径<2.5 nm，如Ti135, Ti257）**：倾向形成具有“几何壳层闭合”的二十面体（Ih）结构，结构稳定性高。在加热过程中，会经历HCP→Ih→FCC等多重结构转变，并可能存在多种结构共存的界面。
+>     -   **中间尺寸粒子（直径2.5-4 nm，如Ti895）**：大部分原子能保持HCP结构，但表面原子在较宽的温度范围内会发生移动和重排。当温度达到某一临界点时，表面的结构无序会迅速扩展至整个粒子，类似于块体材料的熔化。
+>     -   **较大尺寸粒子（直径>4 nm）**：熔化行为更接近块体，熔点随尺寸增加而缓慢上升，表面原子重排的区域相对整个粒子体积而言较小。
+> 2.  **表面原子的关键作用**：在所有尺寸的粒子中，表面原子因其配位数较低、所受束缚较弱，是结构转变的“策源地”。加热首先激发表面原子的运动与重排，随后这种无序性再向核心区域传播。小尺寸粒子之所以行为特殊，正是因为其表面原子比例极高。
+>     
+> 3.  **势函数的局限性**：作者坦诚地指出，模拟中使用的EAM势函数未能预测块体钛中存在的HCP到BCC的高温相变。在整个模拟过程中，所有粒子均未出现明显的BCC结构。这表明，该势函数在描述高温相的热力学性质上存在缺陷，但对HCP、FCC和Ih等密堆积结构的描述是合理的。
+>     
+> 
+> ## 五、结论与贡献
+> 
+> ### 核心结论
+> 
+> 1.  钛纳米粒子的熔化行为强烈依赖于其尺寸。直径2.5 nm以下的粒子倾向于形成稳定的二十面体（Ih）结构并经历多重结构转变；直径在2.5 nm至4 nm之间的粒子，其熔化由表面原子重排引发，并迅速扩展至整体。
+> 2.  表面原子在热致结构转变中扮演核心角色。它们的运动和重排是所有尺寸粒子结构演变的起点。
+> 3.  对于HCP结构的粒子，在熔点以下较宽的温度范围内，其表面原子层就已开始发生结构重排。
+> 4.  经典热力学定律（如杜隆-珀蒂定律）在粒子尺寸小于约3 nm时不再适用。
+> 
+> ### 理论贡献与实践意义
+> 
+> -   **理论贡献**：构建了一个完整的钛纳米粒子“尺寸-结构-热稳定性”图谱，阐明了从“团簇-like”的多重结构转变到“类块体”熔化的演变机制，深化了对纳米尺度材料相变规律的理解。
+> -   **实践意义**：为金属增材制造（特别是选区激光熔化/电子束熔化）过程提供了微观机理层面的洞见。理解不同尺寸粉末在热源作用下的熔化行为差异，有助于优化工艺参数，控制制件的微观结构，从而获得性能更优的产品。该模拟方法也为研究其他金属纳米粒子的热稳定性提供了范式。
+> 
+> ## 六、未来发展方向展望
+> 
+> 作者在文中隐含或明确指出了以下未来研究方向：
+> 
+> 1.  **开发更精确的势函数**：当前EAM势函数无法描述HCP到BCC的相变。未来需要开发能够准确描述钛从低温到高温所有相结构的多体势函数（如改进的EAM或**MEAM（Modified EAM，修正型嵌入原子法）** 势）。
+> 2.  **多组分体系模拟**：实际应用中的钛合金（如Ti-6Al-4V）包含多种元素。由于缺乏合适的势函数，对多组分纳米粒子的模拟将是巨大挑战，也是重要的研究方向，以更贴近实际增材制造粉末。
+> 3.  **不同加热速率与冷却过程研究**：本研究采用逐步加热法，而增材制造涉及极快的加热和冷却速率。未来的研究可以探索不同加热/冷却速率对结构转变路径和最终相组成的影响。
+> 4.  **粒子间的相互作用**：本研究模拟的是孤立粒子。在实际粉末床中，纳米粒子之间存在接触和烧结。研究多个纳米粒子在加热过程中的团聚、烧结和熔化行为，是另一个重要的延伸方向。
+> 
+> ## 七、学术思考与批判性分析
+> 
+> 作为深度解读，我们不仅要理解作者做了什么，还要思考其研究的局限和潜在争议点。以下提出3个深度问题以供批判性思考：
+> 
+> 1.  **方法论的根本局限：势函数的不确定性**：作者承认所用的EAM势函数无法复现HCP→BCC转变。那么，我们应如何评估该势函数对Ih、FCC等其他结构能量预测的准确性？如果势函数对亚稳态结构的能量预测存在偏差，那么模拟中观察到的HCP→Ih→FCC转变路径，在多大程度上是物理真实的，而非该特定势函数的人工产物？这是否从根本上削弱了关于“多重结构转变”结论的可靠性？
+>     
+> 2.  **“熔化”定义的模糊性**：文中通过势能突变、PDF峰消失和PA对数量锐减来定义熔化点。对于小粒子（如Ti257），在整体熔化前已经历了复杂的固-固转变，其“熔点”界定是否清晰？对于存在多结构界面和“五重孪晶”的粒子，其熔化是一个过程还是一个突变点？传统的、基于块体材料建立的熔化热力学理论，在多大程度上适用于这种结构高度不均匀的纳米体系？
+>     
+> 3.  **模拟与实验的鸿沟**：模拟环境是真空中的一个完美球形粒子，采用理想化的加热方式。而现实中，用于AM的纳米粉末必然存在表面缺陷、氧化层、尺寸分布和形状不规则性。作者引用了使用**X射线吸收谱（XAS）** 研究钛团簇的实验工作，但本研究的尺寸范围（1.6-5.2 nm）恰好处于常规表征手段的“盲区”——对TEM来说太大，无法进行精确的原子级结构解析；对XRD来说又太小，衍射信号会严重宽化。那么，本文提出的模拟结论，如何通过实验进行验证？这是一个根本性的挑战。
+>     
+> 
+> ## 八、用户问题预测与解答
+> 
+> **问题1：为什么这篇研究要特别关注增材制造（AM）？它和普通的纳米材料研究有什么不同？** **解答**：这篇研究是受AM应用的直接驱动。在粉末床熔融AM中，高能束流（激光或电子束）会快速熔化金属粉末。理解粉末颗粒本身的熔化行为是控制整个工艺和最终产品质量的基础。当粉末粒径从常规的微米级减小到纳米级时，其熔化机制会从“类块体”转变为“尺寸依赖”型，这直接影响了所需的热源能量和熔池的动力学。本研究正是为了揭示这种尺寸效应背后的微观原子机制，为AM工艺窗口的优化提供底层理论指导，这与纯粹出于基础科学兴趣的纳米材料研究在动机上有所不同。
+> 
+> **问题2：文中提到的“1421”和“1422”原子对是什么意思？它们如何帮助我们理解结构？** **解答**：您可以将其理解为一种“原子指纹”识别技术。想象一下，在一个由原子组成的网络中，我们选出一对彼此靠近的原子（“成键”对），然后数一数它们俩共同拥有多少个并且也互相靠近的近邻原子。如果它们有4个这样的共有近邻，那么这对原子就叫“14XX”对。接下来的两个数字（21和22）则描述了这4个共有近邻原子之间的连接方式。1421和1422这两种“指纹”大量存在于原子排列最紧密的结构中，如FCC和HCP。通过统计整个粒子中各种“指纹”的数量，我们就能知道这个区域是FCC、HCP还是BCC结构，即使整个粒子没有完美的晶体外观。
+> 
+> **问题3：什么是“二十面体（Ih）”结构？为什么小粒子喜欢形成这种结构而不是HCP？** **解答**：二十面体（Ih）是一种由20个三角形面组成的多面体，具有五重对称性。在原子尺度上，它是一种非晶体学的密堆积结构。可以这样类比：HCP和FCC就像是完美堆叠的方形地砖，能铺满整个平面，但边缘会有“台阶”；而二十面体结构则像是由多个五边形拼成的足球，它无法完美地铺满整个空间，但作为一个独立的球体，它的表面最光滑，内部原子配位数最高，因此对于原子数很少的微小团簇而言，其总能量比具有尖锐边缘和表面的HCP或FCC晶粒更低。**简言之，表面积最小化是极小团簇的能量主导原则，而Ih结构正是实现这一原则的最佳构型。**
+> 
+> **问题4：论文的结论对我们理解钛的3D打印具体有什么帮助？** **解答**：这项研究直接关联到3D打印中粉末的熔化和凝固过程。结论告诉我们，如果使用纳米钛粉，它的熔化温度会远低于块体钛，并且对尺寸变化非常敏感。这意味着：1）可以选择更低的激光/电子束功率，减少能耗和热应力；2）需要严格控制粉末的粒径分布，否则不同尺寸的粒子会在不同时间和温度下熔化，导致熔池不均匀，影响制件质量。3）表面的快速熔化与重排可能有助于颗粒间的快速烧结。总之，这篇论文为从“原子堆垛”的微观层面设计AM工艺参数，以实现对微观结构精确控制，提供了理论支撑。
+> 
+> **问题5：文中提到EAM势函数有缺陷，为什么作者还用它？这会影响结论的可信度吗？** **解答**：这是一个非常好的问题，触及了计算材料学的核心哲学。选择势函数总是在“准确性”和“计算成本”之间权衡。EAM势函数虽然不能完美描述所有性质，但它在描述金属的密堆积结构（如HCP、FCC）和缺陷能方面是相当成功的，并且计算效率高，可以模拟包含数千个原子的大系统。作者坦诚地指出了其局限性（无法预测BCC相），这表明了严谨的科学态度。对于本研究关注的HCP、Ih、FCC和液态等密堆积结构的转变，该势函数是有效的。其结论的可信度建立在对这些特定结构描述的准确性上，而非对钛所有性质的全面预测。这提醒我们，任何模拟结果都需要在所用模型的近似范畴内进行理解。
+> 
+> ## 九、专区：便于 Obsidian Dataview 插件调用
+> 
+> 领域基础知识:: 钛及其合金是重要的生物医用和航空航天材料，具有高比强度、低密度和优异的生物相容性。增材制造（AM，3D打印）技术常用于加工钛部件，该过程涉及对金属粉末的快速熔化和凝固。纳米材料的性质强烈依赖于其尺寸，与宏观块体材料有显著差异。 研究背景:: 当前增材制造主要使用微米级钛粉，其性质接近块体。但对于纳米级钛粉，其在受热时的结构演变和熔化机制尚不清晰。已有研究多集中于由几十个原子组成的极小团簇，对含有数百至数千原子的更大尺寸纳米粒子的研究存在空白。 作者的问题意识:: 当钛颗粒尺寸从微米级缩小到纳米级时，其熔化行为与块体材料有何不同？纳米粒子内部的原子堆积结构如何随温度和粒子尺寸而变化？其微观驱动力是什么？ 主要研究对象:: 直径从1.6 nm至5.2 nm（包含135至4079个原子）的孤立纯钛（Ti）纳米粒子。 主要研究方法:: 经典分子动力学（MD）模拟，结合嵌入原子法（EAM）势函数描述原子间相互作用。通过逐步加热和正则系综（NVT）模拟，使用对分布函数（PDF）和原子对分析（PA）技术来表征结构演变。 研究意义:: 理论上，揭示了钛纳米粒子从“团簇-like”多重结构转变到“类块体”熔化的尺寸效应图景，阐明了表面原子在纳米尺度相变中的核心作用。实践上，为基于粉末床熔融的金属增材制造工艺提供了微观机理层面的指导，有助于优化工艺参数，控制制件微观结构。 研究结论:: 1. 钛纳米粒子的熔化行为具有强烈的尺寸依赖性。直径小于2.5 nm的粒子倾向于形成稳定的二十面体（Ih）结构，并经历多重结构转变；较大粒子则呈现类块体熔化，但表面原子会先于内部发生重排。2. 表面原子是所有结构转变的源头，其高移动性驱动了整体的结构演变。3. 对于直径小于3 nm的粒子，经典杜隆-珀蒂定律不再适用。 对领域的贡献:: 构建了钛纳米粒子“尺寸-结构-热稳定性”的定量关系，将极小团簇和块体材料之间的热力学行为联系了起来。揭示了MD模拟中结构转变的原子细节，为理解和预测其他金属纳米粒子的热力学行为提供了研究范式。 未来研究方向提及:: 1. 开发能够同时准确描述HCP和BCC等多相结构的新型钛势函数。2. 将模拟对象从纯金属拓展到更接近实际应用的多组分钛合金体系。3. 研究不同加热/冷却速率对结构转变路径的影响。 未来研究方向思考:: 1. 探索存在表面缺陷（如台阶、空位）或氧化层的纳米粒子的熔化行为。2. 研究多个纳米粒子在接触状态下，受热时的团聚、烧结和熔化耦合过程，以模拟真实的粉末床环境。3. 结合机器学习势函数，实现对大尺寸纳米粒子相变行为的更高精度模拟。4. 发展先进的原位透射电子显微镜（In-situ TEM）实验技术，对模拟结果进行直接验证。
+> 
+> 🚀 [笔记回链](zotero://select/library/items/3I2GZCPC)
+> 
+> * * *
+> 
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/11 06:49:28 （重新解读）_
+> 
+> 🏷️ #🤖️/AI文献解读 🏷️ #🤖️/AI文献阅读
+
+^KEY7BCEACAB
+
+## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span>
+
+> 🚀 [笔记回链](zotero://select/library/items/RGA5A96L)
+
+^KEYaiPaper0
+
+> <span class="AIReading">🤖 AI 解读，快人一步</span>
+> 
+> > 嗯，用户要求我作为“学术文献深度解读专家”，对一篇关于钛纳米颗粒加热稳定性的分子动力学模拟论文进行结构化解读。用户提供了完整的论文内容，并给出了非常详细的角色定位、核心能力、格式规范和执行流程要求。
+> > 
+> > 我需要仔细拆解这些指令。用户的核心需求是生成一份结构化的深度解读报告，目标受众既有初学者也有研究者。这意味着我的报告需要兼顾专业性和可读性，将复杂内容转化为清晰的知识框架。
+> > 
+> > 首先，我需要通读并理解这篇论文。论文的核心是使用分子动力学模拟研究钛纳米颗粒的尺寸依赖熔化行为，发现了小颗粒的结构转变和大颗粒表面预熔导致整体熔化两种机制。我需要提取关键信息：研究背景（生物医用钛合金、增材制造）、方法（EAM势函数、NVT系综模拟）、核心发现（临界尺寸约2.5-3.5纳米、表面原子主导熔化）、图表内容（能量变化图、PDF图、熔点-尺寸图等）。
+> > 
+> > 接下来，我需要按照用户要求的八个核心模块来组织报告。引言部分要概述领域背景、研究问题和文献价值。逻辑概览需要梳理出清晰的论证链条。图表解析是重点，必须详细描述每张图的内容、坐标轴含义和单位，并解释其科学意义。内容剖析要深入方法、结果和讨论。结论要总结核心发现。展望部分要归纳未解决的问题和未来方向。批判性分析要提出有深度的思考问题。最后，用户问题预测与解答模块需要生成延伸问题并系统解答，覆盖认知盲区。
+> > 
+> > 在整个过程中，我需要运用“教学辅助能力”，用通俗的语言解释复杂概念，比如将“表面原子重组”比喻为“人群外围的人更容易移动”，并确保术语首次出现时给出中英文对照和解释。同时，所有的可视化元素都需要用文字描述，因为技术约束禁止生成图像。报告的字数需要控制在合适范围内，保持信息密度和可读性的平衡。
+> 
+> 好的，收到您的指令。我将以学术文献深度解读专家的身份，为您严格遵循指定的格式与要求，对您提供的论文《Studying Stability of Atom Packing for Ti Nanoparticles on Heating by Molecular Dynamics Simulations》进行深度解读。
+> 
+> 开始执行解读任务。
+> 
+> * * *
+> 
+> ## 一、引言
+> 
+> 这篇题为《通过分子动力学模拟研究加热时钛纳米颗粒原子堆积的稳定性》的论文，由东北大学的张林教授发表于 **《Advanced Engineering Materials》** 期刊。该研究处于**纳米材料科学**与**增材制造（3D打印）** 的交叉领域，旨在探究一个核心问题：**钛（Titanium, Ti）纳米颗粒在受热时的结构稳定性与其尺寸大小有何关系？**
+> 
+> 钛及其合金因其优异的生物相容性和高强度，是制造医疗植入物的理想材料。近年来，**选区激光熔化（Selective Laser Melting, SLM）** 等增材制造技术，通过快速熔化微米级钛粉来逐层构建复杂形状的植入物，极大地推动了该领域的发展。当粉末尺寸从微米级降至纳米级时，颗粒的性质会显著偏离块体材料，其熔化行为也变得更加复杂和尺寸依赖。理解这一过程，对于精确控制纳米级3D打印过程、设计新型纳米材料至关重要。
+> 
+> 然而，通过实验直接观察纳米颗粒内部原子在加热过程中的实时动态变化是极其困难的。因此，本文采用**分子动力学（Molecular Dynamics, MD）** 计算机模拟，从原子尺度揭示了不同尺寸（直径1.6-5.2 nm）的钛纳米颗粒在加热过程中的结构演变、能量变化和最终熔化机制。研究的核心价值在于，它系统地阐明了纳米尺度下“表面效应”如何主导颗粒的结构与热稳定性，并识别出从“分子型”结构转变到“块体型”熔化行为的临界尺寸。
+> 
+> ## 二、论文结构与逻辑概览
+> 
+> 本文遵循经典的“问题-方法-结果-结论”的科学论证逻辑，其结构框架与核心论证链条如下：
+> 
+> -   **【引言】提出问题与背景**：阐述钛纳米颗粒在增材制造和生物医学领域的重要性，并指出现有研究在纳米尺度（尤其是几百到几千个原子）颗粒受热行为上的知识空白。
+> -   **【实验/方法】构建模型与定义工具**：详细介绍所采用的**嵌入原子势（Embedded Atom Method, EAM）** 势函数、模拟参数（如加热速率、统计系综等），以及用于分析原子堆积结构的**对分布函数（Pair Distribution Function, PDF）** 和**对分析（Pair Analysis, PA）** 技术。
+> -   **【结果与讨论】展开论证，层层递进**：
+>     -   **第一步：定性展示差异**。通过三个典型颗粒（Ti₁₃₅, Ti₂₅₇, Ti₈₉₅）的能量和PDF曲线，揭示小尺寸颗粒经历多重结构转变，而大尺寸颗粒能基本保持HCP构型，仅表面原子发生重排。
+>     -   **第二步：系统量化规律**。通过计算更广泛尺寸范围的颗粒，绘制出**熔点-尺寸关系图**，直观展示了在直径小于4 nm时，熔点随尺寸增大而快速、振荡式上升，而大于4 nm后上升趋缓。
+>     -   **第三步：深入解释机理**。通过对分析（PA）技术，定量追踪了**1421**和**1422**等特征原子对（对应FCC/HCP结构）的数量随温度的变化，揭示了熔化前结构从HCP向FCC转变的趋势，并指出表面原子重排是大尺寸颗粒熔化的先导。
+>     -   **第四步：关联经典理论**。通过计算势能随温度的变化斜率，并与描述块体材料的**杜隆-珀蒂定律（Dulong-Petit law）** 进行对比，发现当颗粒尺寸小于3 nm时，该定律不再适用，进一步强调了纳米尺寸效应的特殊性。
+> -   **【结论】总结核心发现**：归纳了尺寸依赖的熔化行为、表面原子的关键作用，以及小颗粒中多重结构共存的现象。
+> 
+> ## 三、所有图表深度解析
+> 
+> 本文的图表是理解其核心论证的关键。以下是所有图表的深度解析：
+> 
+> -   **图 1：能量随模拟时间步长的变化**
+>     
+>     -   **描述**: 展示了Ti₁₃₅、Ti₂₅₇和Ti₈₉₅三个颗粒在50 K低温下，每个原子的总势能随模拟时间步长的变化曲线。
+>     -   **单位/量纲**: 纵轴为能量（eV/atom），横轴为时间步长（timestep，1 timestep = 1.6 × 10⁻¹⁵ s）。
+>     -   **深度解析**: 此图展示了初始结构弛豫过程。所有颗粒初始能量都很高，随后迅速下降。这揭示了从人为构建的HCP初始结构向更稳定的能量最低态转变的过程。Ti₁₃₅和Ti₂₅₇能量出现了阶梯式下降，表明发生了**结构相变**，最终形成了更稳定的**二十面体（Icosahedron, Ih）** 构型。而Ti₈₉₅能量下降平滑，最终稳定在较高能态的HCP构型，说明其尺寸已足够大，可以维持类块体的结构。此图直接证明了小尺寸颗粒存在结构转变，而大尺寸颗粒则相对稳定。
+> -   **图 2：1421, 1422, 1441, 1661 原子对的示意图**
+>     
+>     -   **描述**: 以球棍模型示意图解释了四种用于表征局部结构的特征原子对。
+>     -   **单位/量纲**: 无。
+>     -   **深度解析**: 这是对分析（PA）技术的一个视觉化定义。一个原子对由两个成键的白色原子表示。**1421**和**1422**对是**面心立方（FCC）** 和**密排六方（HCP）** 结构的特征标志；而**1441**和**1661**对则是**体心立方（BCC）** 结构的特征标志。通过统计这些“对”的数量，就可以不依赖肉眼观察，精确地判断材料内部各部分属于哪种晶体结构。
+> -   **图 3：平均能量随温度的变化**
+>     
+>     -   **描述**: 展示了Ti₁₃₅, Ti₂₅₇, Ti₈₉₅三个颗粒的平均势能（(E_{av})）在300-1400 K加热过程中的变化。
+>     -   **单位/量纲**: 纵轴为平均势能（eV/atom），横轴为温度（K）。
+>     -   **深度解析**: 这是全文最核心的对比图之一。
+>         -   **Ti₁₃₅**: 能量曲线出现多个平台和下降台阶，表明其经历了多次结构转变，最终在1300 K以上能量急剧波动，标志着熔化。
+>         -   **Ti₂₅₇**: 能量先下降（结构转变），然后长时间保持稳定平台，最后在1200 K以上急剧上升，表明其在熔化前找到了一个稳定的中间构型。
+>         -   **Ti₈₉₅**: 能量在宽温度范围内几乎线性增加，直到1300 K附近才突然陡增，这是一个典型的、类似于块体材料的熔化前兆，即表面先发生预熔，然后液态核心迅速扩展至整个颗粒。
+> -   **图 4：不同温度下的对分布函数（PDF）及原子堆积快照**
+>     
+>     -   **描述**: 分三栏（a/b/c）展示了Ti₁₃₅、Ti₂₅₇和Ti₈₉₅在300-1400 K间的PDF曲线，并在右侧对应展示了颗粒在特定温度下的原子堆积结构图。
+>     -   **单位/量纲**: PDF图的纵轴为无量纲的强度g(R)，横轴为原子对间距R（nm）。
+>     -   **深度解析**: PDF是表征材料有序度的“指纹”。尖锐的峰代表长程有序的晶体结构，宽化或消失的峰则代表无序的液态或非晶态。
+>         -   **Ti₁₃₅**: 300 K时的PDF显示出典型的二十面体（Ih）特征峰，而非HCP。随着温度升高，峰缓慢宽化，直到1400 K时主要峰消失，表明熔化。
+>         -   **Ti₂₅₇**: 300 K时为HCP特征峰。在800 K时，PDF峰型发生突变，结合右侧原子快照可知，其结构转变为Ih和FCC的混合体，形成了“五重孪晶”等复杂结构。
+>         -   **Ti₈₉₅**: 在整个加热过程中，PDF的主峰都保持着HCP特征，仅峰高随温度升高而降低并变宽，直到1300 K时所有尖锐峰消失，表明其在整个过程中基本维持了HCP构型直至熔化。
+> -   **图 5：熔化温度随颗粒直径的变化**
+>     
+>     -   **描述**: 展示了所有模拟颗粒的熔点（(T_m)）与其直径（d）的关系图。
+>     -   **单位/量纲**: 纵轴为熔点（K），横轴为颗粒直径（nm）。
+>     -   **深度解析**: 此图是全文结论的集中体现。曲线清晰地分为两个区域：
+>         1.  **直径 < 4 nm**: 熔点随直径减小而急剧、振荡式下降。这表明在此尺寸范围内，表面原子比例极高，其行为主导了熔化过程，尺寸的微小变化都会导致熔点的显著波动。
+>         2.  **直径 > 4 nm**: 熔点随直径增大而缓慢上升，逐渐趋近于块体材料的熔点。这表明尺寸效应逐渐减弱，颗粒的热力学性质向块体材料过渡。
+> -   **图 6：大尺寸颗粒的平均能量随温度的变化**
+>     
+>     -   **描述**: 展示了Ti₁₀₉₉至Ti₃₄₅₅六个较大尺寸颗粒的平均势能-温度曲线。
+>     -   **单位/量纲**: 同图3。
+>     -   **深度解析**: 所有曲线的行为高度一致，在熔化前能量随温度线性增加，统计误差棒较小，表明结构稳定。在接近各自熔点时，能量突然飙升。这证实了“表面先无序，然后整体突变的”熔化模式是这些大尺寸HCP颗粒的普遍行为。其中，Ti₁₀₉₉的误差棒稍大，暗示其内部可能也发生了少量的结构转变（与图7一致）。
+> -   **图 7：大尺寸颗粒的特征原子对数量随温度的变化**
+>     
+>     -   **描述**: 展示了与图6对应的六个颗粒中，1421和1422原子对的数量随温度的变化。
+>     -   **单位/量纲**: 纵轴为原子对的数量，横轴为温度（K）。
+>     -   **深度解析**: 此图是对图6能量变化的微观结构解释。1421和1422对的数量在低温下保持稳定，代表HCP/FCC结构。在接近熔点时，这些对的数量急剧下降，表明有序结构瞬间崩塌。特别值得注意的是，最小的Ti₁₀₉₉颗粒在熔化前，1421对的数量有所增加，同时1422对减少，这精确地证明了其内部发生了从HCP到FCC的局部结构转变，而其他更大颗粒则没有此现象。
+> -   **图 8：ΔE/ΔT 斜率随原子数的变化**
+>     
+>     -   **描述**: 展示了不同原子数（N）的颗粒在300-1200 K范围内，势能增加斜率（ΔE/ΔT）的变化。
+>     -   **单位/量纲**: 纵轴为斜率，横轴为原子数N。
+>     -   **深度解析**: 此图将纳米颗粒的行为与经典固体物理理论（杜隆-珀蒂定律）联系起来。对于原子数小于~800的颗粒，斜率很低甚至为负，表明其结构不稳定，发生了向低能态（如Ih）的转变。当原子数超过~900后，斜率稳定在1.5左右，恰好是杜隆-珀蒂定律预测的势能贡献部分（总比热3k_B的一半）。这表明，**对于大于约3 nm的颗粒，其内部原子的热振动行为已基本符合经典理论，但小于此尺寸的颗粒则完全偏离**。
+> -   **图 9：大尺寸颗粒在不同温度下的原子堆积快照**
+>     
+>     -   **描述**: 展示了Ti₁₀₉₉、Ti₂₃₆₁、Ti₃₃₄₇三个颗粒在300, 1000, 1250, 1450 K时的原子构型图。
+>     -   **单位/量纲**: 无。
+>     -   **深度解析**: 这是对图6和图7的视觉化总结。300 K时，所有颗粒内部原子排列整齐（HCP）。1000 K时，颗粒表面原子开始变得无序，形成一个类似“液态壳层”，但核心仍保持有序。1250 K时，对于即将熔化的颗粒，无序区域已贯穿整个颗粒。1450 K时，所有原子完全无序，呈现液态特征。这生动地描绘了“表面预熔 → 整体熔化”的过程。
+> 
+> ## 四、正文核心内容剖析
+> 
+> 本节将沿着论文的“背景-方法-结果-讨论”逻辑链，对核心内容进行深度剖析和概念降维。
+> 
+> ### 1. 研究背景与问题凝练
+> 
+> -   **核心驱动力**：钛及其合金是顶级的生物植入材料，而**增材制造（Additive Manufacturing, AM）** 技术，特别是**粉末床熔融（Powder-Bed Fusion）**，是制造个性化钛植入物的革命性方法。该过程使用激光或电子束选择性地快速熔化微米级钛粉。
+> -   **尺度下探与知识空白**：当粉末尺寸从微米（(10^{-6}) m）缩小到纳米（(10^{-9}) m）时，颗粒的比表面积急剧增大，表面原子占总原子数的比例飙升。这导致纳米颗粒的性质由“表面效应”主导，而非“体效应”，其熔化行为将与块体材料截然不同。然而，对于含有几百到几千个原子的纳米颗粒，其在快速加热下的结构转变细节，尤其是原子堆积方式的变化，尚不清楚，成为理解纳米级3D打印和设计纳米材料的一个关键瓶颈。
+> 
+> ### 2. 方法学与模型构建
+> 
+> -   **核心工具：分子动力学（MD）模拟**：这是一种“计算机实验”方法。它像一台原子级别的摄像机，通过数值求解牛顿运动方程，模拟每个原子在特定力场作用下的运动轨迹。只要知道原子间的相互作用力（势函数），就能模拟出整个系统随时间的演化过程。
+> -   **原子间作用力模型：嵌入原子势（EAM）**：这是描述金属原子间相互作用的一种高精度势函数。可以将其**类比**为描述原子间“社交关系”的规则。EAM认为，一个原子的能量不仅取决于它与周围原子的两两配对关系（对势），更关键地取决于它所处的局部电子云密度（嵌入能）。就像一个原子的“社会地位”是由它所在“圈子”的整体环境决定的。本文使用的EAM势函数由Zhou等人开发，参数经过严格验证，能很好地复现HCP钛的多种物理性质。
+> -   **结构分析工具**：
+>     -   **对分布函数（PDF）**：可以理解为一种“指纹”图谱。通过统计所有原子对之间的距离，得到一个距离分布图。液体的原子排列是短程有序、长程无序的，其PDF只有几个宽化的峰；而晶体的原子排列是长程有序的，其PDF会有一系列尖锐的峰。通过对比PDF，可以快速判断材料是液态还是固态，是何种晶体结构。
+>     -   **对分析（PA）技术**：这是比PDF更精细的“结构解码器”。它不去看所有原子对，而是重点关注具有特定几何关系的“原子对”，并给它们贴上“1421”、“1422”等标签。这些标签就像特定晶体结构（FCC、HCP、BCC）的“身份证”，通过统计这些标签的数量，就能精确追踪材料内部不同晶体结构的演化过程。
+> 
+> ### 3. 实验结果与讨论深度剖析
+> 
+> -   **尺寸依赖的结构稳定性（图1 & 图3 & 图4）**：
+>     -   **小尺寸（< 2.5 nm，如Ti₁₃₅, Ti₂₅₇）**：这类颗粒像“变形虫”，其初始的HCP结构极不稳定。在极低温度下，它们就会自发地通过原子重排转变为能量更低的**二十面体（Ih）** 结构。Ih结构由众多五重对称单元构成，虽然与周期性晶体结构不相容，但因其表面能极低，对于表面原子占比极高的小颗粒来说，是最优的稳定形态。在加热过程中，它们还会经历“Ih → 混合结构 → 液态”的多重转变。
+>     -   **大尺寸（> 2.5 nm，如Ti₈₉₅及更大）**：这类颗粒像“顽石”，其内部大部分原子能牢牢保持HCP堆积，表现出体材料的刚性。但其表面原子像一层“软壳”，在较低温度下就开始移动和重排。随着温度升高，这层“软壳”逐渐向内侵蚀，当达到熔点时，结构失稳从表面迅速扩展至整个颗粒，导致整体熔化，这与块体材料的熔化行为（表面预熔）非常相似。
+> -   **熔化行为的尺寸效应（图5）**：熔点-尺寸关系图揭示了一个关键转变。在直径小于4 nm的区域，熔点对尺寸极度敏感，呈振荡式上升，这反映了小尺寸下结构的多样性（Ih、HCP、FCC等）和表面原子的绝对主导地位。当直径大于4 nm后，熔点随尺寸增大而平滑、缓慢地上升，逐渐趋近块体熔点。这表明，**4 nm是钛纳米颗粒从“分子型”熔化行为过渡到“块体型”熔化行为的一个特征尺寸**。
+> -   **局部结构转变的定量证据（图7）**：对分析（PA）技术提供了直接证据，证明熔化前不仅有无序化，还有有序结构间的转变。例如，Ti₁₀₉₉颗粒在熔化前，代表HCP的1422对减少，而代表FCC的1421对增加，这清晰地表明颗粒内部发生了**HCP→FCC的相变**。这一过程在更大尺寸的颗粒中并未观察到，显示了大尺寸颗粒内部HCP结构的稳定性。
+> -   **与经典理论的关联与偏离（图8）**：通过比较势能增加斜率与杜隆-珀蒂定律的预测值（1.5 (k_B)），作者发现，对于原子数大于约900的颗粒，其内部原子的热振动行为已基本符合经典理论。但对于更小的颗粒，由于结构不稳定和持续的结构转变，其能量变化完全偏离了这一经典定律。这为纳米尺度热力学理论的应用划定了一个边界。
+> 
+> ## 五、结论与贡献
+> 
+> 本文通过系统性的分子动力学模拟，得出了以下核心结论：
+> 
+> 1.  **尺寸决定熔化机制**：钛纳米颗粒的熔化行为具有强烈的尺寸依赖性。直径小于约2.5 nm的颗粒倾向于形成稳定的二十面体（Ih）结构，并在加热过程中经历多重结构转变。而直径大于该尺寸的HCP颗粒，其熔化遵循“表面预熔→整体熔化”的模式。
+> 2.  **表面原子是关键**：在所有尺寸的颗粒中，表面原子的移动和重排都是结构转变和熔化的导火索。对于小颗粒，表面原子主导了整个结构的重构；对于大颗粒，表面原子的无序化是液态向核心扩展的前兆。
+> 3.  **发现临界尺寸**：识别出直径约4 nm和3 nm是两个重要的临界尺寸。4 nm标志着熔点-尺寸关系从振荡转变为平滑，3 nm标志着颗粒热力学行为开始符合经典杜隆-珀蒂定律。
+> 
+> **研究贡献**：
+> 
+> -   **理论贡献**：在原子尺度上，系统地建立了钛纳米颗粒的“尺寸-结构-热稳定性”关系图谱，填补了中等尺寸（几百到几千原子）纳米颗粒热行为的研究空白。
+> -   **实践指导**：为基于钛纳米颗粒的增材制造技术（如纳米级3D打印）提供了关键工艺窗口的理论依据。例如，要实现纳米级颗粒的完全熔化，需要根据其尺寸精确控制输入能量，因为它们的熔点远低于块体材料且变化剧烈。
+> 
+> ## 六、未来发展方向展望
+> 
+> 本研究为后续工作开辟了多个有趣且重要的方向：
+> 
+> 1.  **合金效应的引入**：本研究局限于纯钛，而实际应用中多为钛合金（如Ti-6Al-4V）。未来的研究可以尝试开发或采用能够描述多组分体系的势函数，模拟合金化元素对纳米颗粒结构稳定性和熔化行为的影响。
+> 2.  **势函数的局限性突破**：作者坦诚指出，所采用的EAM势函数无法复现纯钛在高温下的**HCP→BCC相变**。发展能够同时准确描述低温和高温相的新型势函数，是提高模拟精度、揭示更完整物理图像的关键。
+> 3.  **更复杂的物理过程模拟**：真正的3D打印过程涉及激光与粉末的相互作用、极高的加热/冷却速率（>10⁶ K/s）、熔池内的对流等非平衡过程。未来的模拟可以引入这些条件，研究在非平衡条件下的凝固行为和微观结构形成。
+> 4.  **多尺度模拟的耦合**：MD模拟受限于时空尺度。未来可以将MD模拟获取的纳米尺度信息（如熔点、表面能）作为输入参数，传递给更大尺度的计算模型（如相场模型、有限元模型），从而实现对整个增材制造过程的跨尺度模拟。
+> 
+> ## 七、学术思考与批判性分析
+> 
+> 尽管本文是一篇非常扎实的研究，但从批判性学术思维的角度，可以提出以下深度问题：
+> 
+> 1.  **关于势函数的验证**：作者提到所用EAM势函数预测的块体Ti熔点为2218 K，比实验值（1941 K）高出277 K。虽然作者认为这仍可用于研究固液相变，但高达14%的偏差是否会影响对纳米颗粒绝对熔点的预测精度？这种系统性的偏差是否会改变不同尺寸颗粒间熔点的相对排序或临界尺寸的精确值？
+> 2.  **加热速率的效应**：模拟中采用的加热速率（50 K升温，并在每个温度点弛豫200万步）远高于任何实验条件。熔化是一个动力学过程，这种“准静态”的模拟方式是否能完全捕捉到实验条件下（如激光闪烧）可能出现的动力学陷阱或亚稳相？如果采用不同的加热速率，文中观察到的多重结构转变（如Ih→FCC）是否依然存在，或者其转变温度是否会发生显著漂移？
+> 3.  **对“熔化”的判定标准**：文中定义熔化的主要依据是能量突变和原子对分析（PA）中特征对数量的急剧下降。这种基于整体结构和能量的判定方法，是否可能掩盖了颗粒内部某些区域先于整体熔化的事实？尤其对于大颗粒，是否存在一个明确的“液态壳层”厚度，可以作为更精确的“预熔”起始判据？文中对此的讨论尚停留在定性层面。
+> 4.  **尺寸效应的内在机理**：图5显示熔点-尺寸曲线在4 nm以下呈振荡形态。作者将其归因于表面原子的影响，但这是否与不同尺寸颗粒恰好形成的“几何壳层闭合”结构有关？例如，Ti₁₃₅等原子数恰好对应完整的Ih几何壳层，这种“幻数”效应是否才是导致熔点和能量异常稳定的根本原因，而不仅仅是表面原子比例的连续变化？
+> 5.  **自由表面与基底效应**：模拟中的颗粒处于理想的孤立、自由状态。但在实际3D打印中，纳米颗粒是沉积在基底或已凝固层上的，部分表面会被约束。这种基底对颗粒的“支撑”和“热传导”效应，会如何改变其熔化行为和结构转变路径？研究结果与真实应用场景之间可能还存在一道鸿沟。
+> 
+> ## 八、用户问题预测与解答
+> 
+> 以下是预测初学者可能提出的5个延伸问题，并给出系统解答：
+> 
+> **问题1：什么是“嵌入原子势（EAM）”？为什么不用牛顿力学中简单的“弹簧模型”来描述原子间的力？** **解答**：在经典力学中，确实可以用弹簧模型（简谐近似）来模拟原子间相互作用，但这只适用于原子偏离平衡位置非常小的情况，无法描述键的断裂、表面重构、熔化等大变形过程。对于金属原子，一个原子周围环绕着大量自由电子，形成了“电子云”。一个原子的存在会改变其所在位置的电子密度，而这个过程会改变系统的能量。EAM势函数的核心思想是，将一个原子的能量分为两部分：一是它与周围原子直接的两体排斥或吸引作用（对势），二是它被“嵌入”到由所有其他原子贡献的电子云背景中所需的能量（嵌入能）。这成功捕捉了金属键的非局域性本质，因此能更真实地模拟金属体系的各种复杂行为，是目前模拟金属纳米颗粒最主流的势函数之一。
+> 
+> **问题2：论文中反复提到的“1421”和“1422”原子对到底是什么？它们为什么能代表FCC和HCP结构？** **解答**：可以这样理解：在一个原子堆积的模型中，任意一对靠得足够近的原子（成键）被视为一个“原子对”。对分析（PA）技术会在这对原子周围寻找它们的“共同邻居”（即同时与这两个原子都成键的原子）。数字“1421”中的“14”表示这对原子有4个共同邻居，“21”则描述了这4个共同邻居之间的连接方式（形成一个特定的几何图形）。在FCC和HCP这两种最密堆积结构中，原子对的共同邻居连接方式主要就是1421和1422这两种。两者的区别在于，**1421对**的结构单元是镜像对称的，存在于FCC和HCP中；而**1422对**的结构单元则不是镜像对称的，是HCP结构的特征标志。因此，通过统计这两种对的比例，就可以区分FCC和HCP。如果一个体系中1441和1661对很多，那它就是BCC结构。
+> 
+> **问题3：为什么纳米颗粒的熔点会比大块材料低很多？** **解答**：这是一个经典的纳米尺度效应。熔化过程本质上是破坏原子间的有序键合，使原子可以自由流动。一个原子在材料内部和在表面的处境截然不同。内部的原子被周围邻居紧密包围，键合数多，想让它“自由”需要很高的能量。而表面的原子，外侧是真空，邻居数少，键合不饱和，处于一种更“活跃”的状态。对于大块材料，表面原子占比极低，熔化的能量主要需要克服内部原子之间的键合，因此熔点高且恒定。但对于纳米颗粒，其直径越小，表面原子占比就成指数级增加。这部分本身就处于高能态的原子只需要很少的额外能量就能开始运动，并且它们的运动还会“传染”给内部原子，就像一个建筑的外墙已经摇摇欲坠，整个建筑也更容易倒塌。因此，纳米颗粒的整体熔化所需的热能大大降低，表现为熔点显著低于块体材料。
+> 
+> **问题4：什么是“杜隆-珀蒂定律”？论文里用它来做什么？** **解答**：**杜隆-珀蒂定律（Dulong-Petit law）** 是经典固体物理学中的一个重要定律。它指出，对于大多数固体晶体材料，在室温及以上温度，其摩尔恒容热容是一个常数，大约为 (3R)（约 24.9 J/(mol·K)），其中 (R) 是气体常数。从原子角度看，热容是原子存储热能能力的度量，它来源于原子的热振动。每个原子在三维空间振动，动能和势能各贡献一部分，总能量是 (3k_BT)（(k_B)为玻尔兹曼常数），所以每个原子的热容就是 (3k_B)。在本文的MD模拟中，作者计算了势能随温度变化的斜率，它对应的是热容中势能贡献的那一半，即 (1.5k_B)。作者发现，只有当颗粒尺寸大于3 nm时，这个斜率才接近 (1.5k_B)，说明这些纳米颗粒的内部原子已经开始像块体材料中的原子一样正常振动了。而对于更小的颗粒，能量变化偏离这个值，说明除了热振动，还发生了结构相变等额外过程，不能再简单地用经典理论描述。
+> 
+> **问题5：这项研究对我们制造更好的3D打印钛植入物有什么实际的帮助？** **解答**：这项研究属于基础研究，它对实际应用的指导是间接但至关重要的。在粉床熔融3D打印中，激光的能量控制是关键。如果能量输入过高，会导致粉末过度蒸发和飞溅；如果能量过低，粉末熔化不充分，会导致零件内部出现未熔合缺陷和孔隙，降低力学性能。这项研究告诉我们，当使用纳米级钛粉（虽然目前主流是微米级，但纳米级是趋势）时，其熔点不再是固定的，而是随颗粒尺寸的减小而急剧降低。这意味着，对于不同粒径分布的纳米粉末，其完全熔化所需的激光功率或能量密度是完全不同的。这项研究提供的**熔点-尺寸关系图**，可以为优化激光参数、实现更均匀、更致密的熔化提供第一性原理的理论指导，从而制造出性能更优、更可靠的植入物。同时，对纳米颗粒表面原子活性的理解，也有助于开发新的纳米粉末包覆或表面处理技术，以防止其在储存和打印过程中团聚或氧化。
+> 
+> 🚀 [笔记回链](zotero://select/library/items/RGA5A96L)
+> 
+> * * *
+> 
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/11 05:43:38 （重新解读）_
+> 
+> 🏷️ #🤖️/论文深度解读 🏷️ #🤖️/AI文献阅读
+
+^KEY5EC0D81A
+
+## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span>
+
+> 🚀 [笔记回链](zotero://select/library/items/MUF4HTMF)
+
+^KEYaiPaper0
+
+> <span class="AIReading">🤖 AI 解读，快人一步</span>
+> 
+> > 嗯，看到这个任务了，用户需要我把一篇英文的PDF文本转换成结构化的Markdown格式，还要做双语翻译和格式化处理。我得仔细理解这个要求。
+> > 
+> > 用户给了一段很长的纯英文文本，看起来是一篇学术论文，研究的是钛纳米颗粒加热时的原子堆积稳定性，用的方法是分子动力学模拟。我需要先理解这个文本的结构，然后才能准确地进行转换和翻译。
+> > 
+> > 这个任务要求我扮演技术文档格式化工程师和专业译员的角色，听起来挺专业的。我需要做四件事：识别结构元素、进行专业翻译、管理关键术语、还要标准化格式。
+> > 
+> > 先看看这个文本的结构，我注意到有标题、作者信息、摘要、然后有带编号的章节，比如"1. Introduction"、"2. Experimental Section"、"3. Results and Discussion"、"4. Conclusions"。还有表格、引用、代码块等各种元素。我需要把这些都识别出来，然后按照CommonMark规范进行格式化。
+> > 
+> > 对于翻译，我需要保持技术语义的完整性，术语翻译要符合行业惯例。我注意到文中有很多专业术语，比如"embedded atom method (EAM)"、"molecular dynamics (MD)"、"HCP structure"等等，这些都需要准确翻译。
+> > 
+> > 关键术语管理这块，我需要标注首次出现的核心术语，并用特定格式给出解释。比如"**EAM**: 嵌入原子方法"这样的格式。
+> > 
+> > 处理流程要求我先进行结构解析，把标题映射到Markdown的#到######，还要识别列表、代码块、引用块、表格等。然后要进行逻辑单元切分，给每个单元分配ID。最后是双语转换，每个单元都要包含英文原文、中文翻译、术语解释三部分。
+> > 
+> > 输出格式方面，用户要求标题用特定格式，代码块用三反引号包裹并标注语言，引用块保留>符号，表格要转换成Markdown表格语法。
+> > 
+> > 这个文本内容挺长的，我得仔细处理每个部分。看起来这是一篇学术论文，有摘要、引言、实验部分、结果与讨论、结论等标准结构。我需要确保原文信息不遗漏，中文翻译准确，术语解释只在首次出现时添加。
+> > 
+> > 文本中有很多数学公式和图表，这些可能难以直接转换，我需要想办法用Markdown格式表示，或者用文字描述。
+> > 
+> > 我打算按照原文的结构顺序来处理，先处理标题和作者信息，然后是摘要，再是各个章节。对于每个章节，我会识别其中的子标题、段落、列表、代码块、表格、引用块等元素，然后进行翻译和格式化。
+> > 
+> > 对了，我还注意到文本中有一些特殊格式，比如上标、下标、希腊字母等，这些在Markdown中可能需要用特殊语法来表示。还有一些数学公式，我可能需要用LaTeX格式来表示。
+> > 
+> > 总的来说，这个任务需要我仔细分析文本结构，准确翻译专业内容，并按照CommonMark规范进行格式化输出。我会确保每个结构元素都被正确识别和转换，翻译准确专业，术语解释清晰明了。
+> 
+> # Studying Stability of Atom Packing for Ti Nanoparticles on Heating by Molecular Dynamics Simulations
+> 
+> # 分子动力学模拟研究钛纳米颗粒加热过程中原子堆积的稳定性
+> 
+> Molecular dynamics simulations using an embedded atom method (EAM) potential shows that melting behaviors of Ti nanoparticles are strongly dependent on their size. For the particles having the diameter of less than 2.5 nm, their structures are preferred with the icosahedron of geometric shell closures, and there are multi-structures’ transitions. With the increase in size, while most atoms in the particles can hold their HCP packing patterns, there exist movements and structural rearrangements of the atoms in the surface. At a high temperature, the accumulation of structural disorder can quickly extend into the entire particle, which resembles the melting of bulk Ti. In the HCP particles with sizes of less than 4 nm, the surface atoms still have important influence on their melting. 使用嵌入原子方法（EAM）势的分子动力学模拟表明，钛纳米颗粒的熔化行为强烈依赖于其尺寸。对于直径小于2.5 nm的颗粒，其结构优先呈现几何壳层闭合的二十面体，并存在多结构转变。随着尺寸增加，虽然颗粒中大部分原子能保持其HCP堆积模式，但表面原子存在运动和结构重排。在高温下，结构无序的累积可迅速扩展到整个颗粒，类似于块体钛的熔化。在尺寸小于4 nm的HCP颗粒中，表面原子对其熔化仍具有重要影响。 **EAM**: 嵌入原子方法，一种用于描述金属原子间相互作用势的模型。 **HCP**: 密排六方结构，一种晶体原子排列方式。
+> 
+> ## 1. Introduction
+> 
+> ## 1. 引言
+> 
+> The continuous development of materials used for biomedical applications leads to a better solution for shortening recovery periods, less invasive surgeries, and overall improvement of patients’ life comfort. Biomaterials being suitable for biomedical implant applications meet a number of requirements including biocompatibility, adequate strength, surface physicochemical properties, thermal and electrical conductivity, and process capability.[1–5] Metals are commonly used as implants and such metals have to possess properties which will enable them to function inside the human or animal body. Titanium and titanium alloys exhibit a high specific strength and low density, which makes titanium an excellent choice for the implants.[6–9] Commercially pure (CP) Ti is widely regarded as the most biocompatible metal because of a stable and an inert oxide layer which spontaneously forms when its surface is exposed to oxidizing media.[10,11] The α phase in titanium has a HCP structure with fewer slip systems than cubic systems. Titanium production is hampered by the high cost in traditionally manufacturing processes, and poor workability for complex shape production. However, the recent development of additive manufacturing (AM), which is also known as metal 3D printing, has made it possible to accurately fabricate CP Ti products with complex morphology.[12–16] In contrast to subtractive manufacturing and formative manufacturing methodologies, AM processes use a computer to store and process three-dimensional model data to create parts, and have advantages such as the ability to net-shape without the use of molds, direct production with a shorter lead time, high levels of process flexibility, and Buy-to-Fly ratios with values close to unity.[17,18] In the case of Ti, studies are being conducted for power-bed fusion type AM with particles by selectively melting using the electron beam or laser power thermal source, which use focused thermal energy to rapidly melt the Ti particles with size in micrometer and bind them layer by layer under a high vacuum atmosphere.[19–21] These micrometer size particles present essentially bulk properties. However, as the size decreases to nanometer, particles will present apparent different features from their bulk counterparts, and the evolution of structures and properties become dependent on their size. Therefore, one interesting issue arises naturally to understand melting behaviors of Ti particles with nanometer size. The study on the size evolution of atomic aggregates from clusters containing tens of atoms toward bulk is of great importance in materials designing. In nanoscale, as the number of atoms in one particle increases, there is an exponential increase in computational cost as well as increasing data complexity.[22,23] There are great challenges that micro scale simulations are validated by comparison with macroscopic properties including structural evolution and thermal behaviors. For example, calculations of specific heat for nanoparticles can be used to determine the particle size suitable for classical theory. This helps to estimate the amount of focus heat needed to melt these particles. The view of some Ti clusters being magic has been widely accepted, which have icosahedral orders, and they have significant high stability.[24,25] However, there is still lack of study on the Ti clusters or nanoparticles containing hundreds or thousands of atoms, especially for the effect of the temperature on the structures of these nanoparticles. Upon rapidly heating these nanoparticles, the information of structural transition should be provided in terms of changes of atom packing. However, the characteristics of the transformation are not yet fully understood. It is clear that still much has to be learned about understanding the structural transformation of these nanoparticles. The information should be provided in terms of the microscopic dynamical motion of the atoms. Accounting for the fact that nature of the transformation determined by experiment is hardly possible, computer simulations based on empirical potentials, such as molecular dynamics (MD), are particularly well suited to characterize microscopic details in these systems involving combined behaviors of atom movements and locally structural rearrangements at atomic scale.[26–29] Classical molecular dynamics simulations describe the time-evolution of a system by integrating classical equations of motion using the defined interactions between constituent atoms, and the measurement of these functions is very straightforward in that they are computed directly from the positions and velocities of the atoms in these particles. Moreover, knowledge of the microscopic processes is essential for understanding and controlling materials properties. Successful examples of MD simulations within the framework of embedded atom method (EAM) have investigated the structural changes related to melting, freezing, coalescence, and compression of metal clusters or bulk, which most of them have FCC or BCC structures in their bulk phases,[30–36] and the EAM potential has been used to describe the alloying in an Al-coated Ti nanoparticle on heating.[37] This paper presents the results of molecular dynamics simulations for melting the pure Ti nanoparticles as a model material. Ti and its alloys are commonly metallic materials for AM.[38] There are some other elements in these materials. Due to the lack of potential, the simulations of multi component materials are very difficult. This makes is necessary for the simulations of pure metals, and these simulations can deepen the understanding of microstructural evolution of those materials. For example, there are multiple variants of α phase in Ti–6Al–4V under laser AM conditions. The simulations of pure Ti particles provide the possibility to straddle the structural transformations under certain thermal conditions, leading to coexistence of multi-structures. In the simulations, locally structural changes with the atom movements are demonstrated by pair distribution functions, and pair analysis according to the local environments of the atom pairs by using EAM as well as the atom packing evolution. 用于生物医学应用材料的持续发展，为缩短恢复期、减少侵入性手术以及全面改善患者生活舒适度带来了更优的解决方案。适用于生物医学植入物应用的生物材料需满足一系列要求，包括生物相容性、足够的强度、表面物理化学性质、导热导电性及可加工性。[1–5] 金属通常用作植入物，此类金属必须具备使其能够在人体或动物体内发挥功能的特性。钛及钛合金具有高比强度和低密度，这使钛成为植入物的绝佳选择。[6–9] 商业纯（CP）钛因其表面暴露于氧化介质时会自发形成稳定且惰性的氧化层，被广泛认为是最具生物相容性的金属。[10,11] 钛中的α相具有HCP结构，其滑移系少于立方晶系。钛的生产受到传统制造工艺高成本和复杂形状生产可加工性差的阻碍。然而，增材制造（AM），也称为金属3D打印，的最新发展使得精确制造具有复杂形态的CP钛产品成为可能。[12–16] 与减材制造和等材制造方法相比，AM工艺使用计算机存储和处理三维模型数据来创建零件，并具有无需模具即可近净成形、更短交付周期的直接生产、高度的工艺灵活性以及接近1的Buy-to-Fly比率等优势。[17,18] 就钛而言，正在研究通过使用电子束或激光功率热源选择性熔化微米级钛颗粒，在高真空气氛下逐层粘合，进行粉末床熔融型AM制造。[19–21] 这些微米级颗粒基本呈现块体性质。然而，随着尺寸减小到纳米级，颗粒将呈现出与其块体对应物明显不同的特征，其结构和性质的演变变得依赖于其尺寸。因此，一个有趣的问题自然出现，即理解纳米级钛颗粒的熔化行为。研究从包含数十个原子的团簇向块体转变的原子聚集体的尺寸演变，对于材料设计至关重要。在纳米尺度，随着单个颗粒中原子数量的增加，计算成本呈指数级增长，数据复杂性也随之增加。[22,23] 微尺度模拟通过与包括结构演变和热行为在内的宏观性质进行比较来验证，存在巨大挑战。例如，计算纳米颗粒的比热可用于确定适合经典理论的颗粒尺寸。这有助于估算熔化这些颗粒所需的聚焦热量。一些钛团簇是“幻数”团簇的观点已被广泛接受，它们具有二十面体有序性，并且具有显著的高稳定性。[24,25] 然而，对于含有数百或数千个原子的钛团簇或纳米颗粒，特别是温度对这些纳米颗粒结构影响的研究仍然缺乏。在快速加热这些纳米颗粒时，应提供关于原子堆积变化的结构转变信息。然而，这种转变的特征尚未完全明了。显然，对于理解这些纳米颗粒的结构转变，仍有许多需要学习的地方。这些信息应从原子微观动力学运动的角度提供。考虑到通过实验确定转变的性质几乎是不可能的，基于经验势的计算机模拟，例如分子动力学（MD），特别适合表征这些系统中涉及原子运动和原子尺度局部结构重排的组合行为的微观细节。[26–29] 经典分子动力学模拟通过使用定义的组成原子间相互作用，积分经典运动方程来描述系统的时间演化，并且这些函数的测量非常直接，因为它们直接从这些颗粒中原子的位置和速度计算得出。此外，了解微观过程对于理解和控制材料性质至关重要。在嵌入原子方法（EAM）框架内的成功MD模拟实例，研究了与金属团簇或块体的熔化、凝固、聚结和压缩相关的结构变化，其中大多数在其块体相中具有FCC或BCC结构，[30–36] 并且EAM势已被用于描述加热时Al包覆钛纳米颗粒中的合金化过程。[37] 本文介绍了纯钛纳米颗粒作为模型材料熔化的分子动力学模拟结果。钛及其合金是AM常用的金属材料。[38] 这些材料中含有一些其他元素。由于缺乏势函数，多组分材料的模拟非常困难。这使得对纯金属的模拟成为必要，并且这些模拟可以加深对这些材料微观结构演变的理解。例如，在激光AM条件下，Ti–6Al–4V中存在多种α相变体。纯钛颗粒的模拟提供了在特定热条件下跨越结构转变的可能性，导致多结构共存。在模拟中，通过使用EAM的配对分布函数和基于原子对局部环境的配对分析，以及原子堆积演变，展示了伴随原子运动的局部结构变化。 **MD**: 分子动力学，一种通过求解原子运动方程来模拟物理系统随时间演化的计算方法。 **FCC**: 面心立方结构，一种晶体结构。 **BCC**: 体心立方结构，一种晶体结构。 **CP Ti**: 商业纯钛。
+> 
+> ## 2. Experimental Section
+> 
+> ## 2. 实验部分
+> 
+> The interaction among titanium atoms is modeled by the EAM potential given by Zhou et al.[39] The total potential energy of an N-atom system takes the following form: 钛原子间的相互作用由Zhou等人提出的EAM势模拟。[39] N原子系统的总势能形式如下：
+> 
+> 
+
+<pre class="hljs"><code>Etot = Σ_i Fi(ρe) + (1/2) Σ_{i,j (i≠j)} φij(rij);   (1)
+</code></pre>
+
+ 
+
+<pre class="hljs"><code>总能量 = Σ_i Fi(ρe) + (1/2) Σ_{i,j (i≠j)} φij(rij);   (1)
+</code></pre>
+
+
+> 
+> where φij(rij) is a two-body central potential between atoms i and j with a separation of rij, and Fi(ρe) is the embedding energy of the atom i with the electron charge density ρe. The electron charge density can be calculated by using 其中 φij(rij) 是原子i和j之间间距为rij时的两体中心势，Fi(ρe) 是原子i在电子电荷密度ρe下的嵌入能。电子电荷密度可通过下式计算：
+> 
+> 
+
+<pre class="hljs"><code>ρe = Σ_{j,j≠i} fj(rij)   (2)
+</code></pre>
+
+ 
+
+<pre class="hljs"><code>ρe = Σ_{j,j≠i} fj(rij)   (2)
+</code></pre>
+
+
+> 
+> with fj(rij) the electron density at the site of atom i arising from atom j at a distance rij away. In this EAM potential model, the generalized elemental pair potentials are written by 其中 fj(rij) 是距离rij处的原子j在原子i位置产生的电子密度。在此EAM势模型中，广义元素对势写为：
+> 
+> 
+
+<pre class="hljs"><code>Φij(rij) = [A*exp(-α(rij/re - 1))] / [1 + (rij/re - κ)^20] - [B*exp(-β(rij/re - 1))] / [1 + (rij/re - λ)^20]   (3)
+</code></pre>
+
+ 
+
+<pre class="hljs"><code>Φij(rij) = [A*exp(-α(rij/re - 1))] / [1 + (rij/re - κ)^20] - [B*exp(-β(rij/re - 1))] / [1 + (rij/re - λ)^20]   (3)
+</code></pre>
+
+
+> 
+> where re is the equilibrium spacing between nearest neighbors, A, B, α, and β are four adjustable parameters, and κ and λ are two additional parameters for the cutoff. The electron density function is taken with the same form as the attractive term in the pair potential with the same values of β and λ, 其中 re 是最近邻平衡间距，A、B、α和β是四个可调参数，κ和λ是用于截断的两个附加参数。电子密度函数采用与对势中吸引项相同的形式，具有相同的β和λ值，
+> 
+> 
+
+<pre class="hljs"><code>f(r) = [fe * exp(-β(r/re - 1))] / [1 + (r/re - λ)^20]   (4)
+</code></pre>
+
+ 
+
+<pre class="hljs"><code>f(r) = [fe * exp(-β(r/re - 1))] / [1 + (r/re - λ)^20]   (4)
+</code></pre>
+
+
+> 
+> For a smooth variation of the embedding energy, these equations are required to match values and slopes at their junctions. These equations are 为使嵌入能平滑变化，这些方程需在连接点处匹配值和斜率。这些方程是：
+> 
+> 
+
+<pre class="hljs"><code>F(ρ) = Σ_{i=0}^{3} Fni * (ρ/ρn - 1)^i;   ρ &lt; ρn, ρn = 0.85ρe   (5)
+F(ρ) = Σ_{i=0}^{3} Fi * (ρ/ρe - 1)^i;   ρn ≤ ρ &lt; ρ0, ρ0 = 1.15ρe   (6)
+F(ρ) = Fe * [1 - ln(ρ/ρs)^η];   ρ0 ≤ ρ   (7)
+</code></pre>
+
+ 
+
+<pre class="hljs"><code>F(ρ) = Σ_{i=0}^{3} Fni * (ρ/ρn - 1)^i;   ρ &lt; ρn, ρn = 0.85ρe   (5)
+F(ρ) = Σ_{i=0}^{3} Fi * (ρ/ρe - 1)^i;   ρn ≤ ρ &lt; ρ0, ρ0 = 1.15ρe   (6)
+F(ρ) = Fe * [1 - ln(ρ/ρs)^η];   ρ0 ≤ ρ   (7)
+</code></pre>
+
+
+> 
+> The parameters needed to define the EAM model in the ref. [39] are listed in Table 1. Agarwal et al. has performed MD simulations to test the temperature dependence of the lattice constant and cohesive energy for HCP Ti by using this EAM potential. The EAM potential provides a reasonable agreement for the variation pressure as a function of volume in close agreement with DFT data as well as the experimental velocities of the elastic and plastic waves and the shock pressure generated at various impact velocities.[40] In terms of this EAM potential, the lattice constant of Ti bulk is 0.2933872 nm. Our simulations suggest that the melting temperature of bulk Ti free of defect is 2218 K, which is 277 K higher than the experimental melting point. From our previous experiences for other pure metals, the simulations on the EAM potential can be used to study the changes of atom packing involving solid phase to liquid. The simulations are performed by starting with the optimal structure at 50 K, then increasing gradually the temperature to 1400 K at an increment of 50 K. At each temperature, the NVT ensemble is used. The initial structures under a temperature above 350 K are from the coordinates of the last time step of the previous temperature. The temperature is kept constant by rescaling the atomic velocities every time-step. At each temperature, the runs take 2 000 000 time steps, and the last 70 000 or 300 000 time steps to record the energy, that is, used to calculate the statistical average values for small or large size particles. In some small particles, because a considerable proportion of atoms have been in a state of position changes, energy changes show large oscillations at some temperatures before these particles’ melting. The increase of the statistical time will lead to the distortion of the shape of the calculated particle from average position coordinates owing to the rotation of the particles, especially for the small particles. In our previous simulations for metal clusters, the heating algorithm can provide essential information about the structural transformations of most cases within the range of tolerance for simulation time. Throughout simulations, a time step of 1.6 × 10^−15 s is used. As given in the Equation (1), both of the embedding energy and potential energy of paired atoms contribute to the total potential energy of the simulated system. If structures of the atomic packing change, the electron charge density given in the Equation (2) and the distance between a pair of atoms change accordingly, resulting in the changes of the embedding energy and potential energy. As illustrated in Figure 1 for the Ti135, Ti257, and Ti895 particles, the changes of the total potential energy present similar behaviors. The energy has very high values at initial steps for each particle. Then the energy drops abruptly, and enters into oscillating regime. The high energy is from the following fact that, in an initially constructed structure, the atoms are packed into the same structure with that in the bulk crystalline. As the atoms adjust their positions, the distance changes between the atoms result in the energy’s decrease. In the relaxation processes, most of the atoms present thermal movements around their equilibrium positions. Therefore, the energy changes in an oscillating model. For the Ti135 or Ti257 particle, after some time steps, the apparent decrease of the energy indicates the structural transition from the initial structure with the high energy. In the following relaxation processes, there exist small decreases of the energy, suggesting a few of atoms in the two particles adjust their positions. The energy’s variations with the time steps can indicate different configurations in these particles. In each of these two particles, a very high proportion of the atoms are in the surface, where these surface atoms have fewer coordination atoms compared to the atoms inside the particles. Even at very low temperatures, some surface atoms can move easily, and there are transformations of multiple packing structures in the relaxation process. For the Ti135 particle, because the higher proportion of the surface atoms, the change of the packing occurs at more short time than that of the Ti257 particle. Because most of the atoms in the Ti895 particle are inside this particle, it can hold the initially constructed HCP configuration at 50 K. 定义参考文献[39]中EAM模型所需的参数列于表1。Agarwal等人已使用此EAM势进行了MD模拟，以测试HCP Ti的晶格常数和结合能的温度依赖性。该EAM势为压力随体积的变化提供了合理的一致性，与DFT数据以及在不同冲击速度下产生的弹性波和塑性波速度及冲击压力的实验值非常吻合。[40] 根据此EAM势，钛块体的晶格常数为0.2933872 nm。我们的模拟表明，无缺陷块体钛的熔化温度为2218 K，比实验熔点高277 K。根据我们之前对其他纯金属的经验，基于EAM势的模拟可用于研究涉及固相到液相的原子堆积变化。模拟从50 K下的最优结构开始，然后以50 K的增量逐步将温度升高至1400 K。在每个温度下，使用NVT系综。350 K以上温度的初始结构来自前一温度最后一个时间步的坐标。通过在每一时间步重新标定原子速度来保持温度恒定。在每个温度下，运行2,000,000个时间步，记录最后70,000或300,000个时间步的能量，用于计算小尺寸或大尺寸颗粒的统计平均值。在一些小颗粒中，由于相当大比例的原子一直处于位置变化状态，在这些颗粒熔化前的一些温度下，能量变化显示出大幅振荡。统计时间的增加将导致由于颗粒旋转（特别是对于小颗粒），从平均位置坐标计算出的颗粒形状发生畸变。在我们之前对金属团簇的模拟中，加热算法可以在模拟时间允许的范围内，提供大多数情况下结构转变的基本信息。整个模拟使用的时间步长为1.6 × 10^−15 s。如方程(1)所示，嵌入能和配对原子的势能都对模拟系统的总势能有贡献。如果原子堆积结构发生变化，方程(2)中给出的电子电荷密度和原子对间距相应改变，导致嵌入能和势能的变化。如图1中Ti135、Ti257和Ti895颗粒所示，总势能的变化呈现出相似的行为。每个颗粒在初始步骤的能量值非常高。然后能量急剧下降，并进入振荡状态。高能量源于这样一个事实：在初始构建的结构中，原子堆积成与块体晶体相同的结构。随着原子调整其位置，原子间距离的变化导致能量降低。在弛豫过程中，大多数原子在其平衡位置附近呈现热运动。因此，能量以振荡模式变化。对于Ti135或Ti257颗粒，在一些时间步之后，能量的明显下降表明从具有高能量的初始结构发生了结构转变。在随后的弛豫过程中，存在能量的小幅下降，表明这两个颗粒中的少数原子调整了其位置。能量随时间步的变化可以指示这些颗粒中的不同构型。在这两个颗粒中，每个都有非常高比例的原子在表面，这些表面原子与颗粒内部原子相比，配位原子较少。即使在非常低的温度下，一些表面原子也能轻易移动，并且在弛豫过程中存在多种堆积结构的转变。对于Ti135颗粒，由于表面原子比例更高，其堆积变化发生的时间比Ti257颗粒更短。由于Ti895颗粒中的大多数原子位于该颗粒内部，因此它能在50 K下保持初始构建的HCP构型。 **NVT**: 正则系综，在模拟中保持粒子数、体积和温度恒定的统计系综。
+> 
+> Most of the results presented in this paper are dealt with the following functions, which are defined below. 本文介绍的大多数结果都使用以下定义的函数处理。
+> 
+> 
+
+<pre class="hljs"><code>Eav = (Σ_{ntime=1}^{time_sum} Etot,ntime) / (N * time_sum)   (8)
+</code></pre>
+
+ 
+
+<pre class="hljs"><code>Eav = (Σ_{ntime=1}^{time_sum} Etot,ntime) / (N * time_sum)   (8)
+</code></pre>
+
+ 
+
+<pre class="hljs"><code>g(R) = (1/N^2) * ⟨ Σ_{i∈Lg} Σ_{j≠i∈Lg} δ(R − |R*_{ij}|) ⟩   (9)
+</code></pre>
+
+ 
+
+<pre class="hljs"><code>g(R) = (1/N^2) * ⟨ Σ_{i∈Lg} Σ_{j≠i∈Lg} δ(R − |R*_{ij}|) ⟩   (9)
+</code></pre>
+
+
+> 
+> where N is the atom number in the simulation system, and < > denotes the average over the entire trajectory. Eav is the average energy at each temperature, and Etot,ntime is the system energy at the ntime step in the last 70 000 time steps for the Ti135, Ti257, and Ti895 particles, and 300 000 time steps for the other particles with larger diameters. g(R) is the pair distribution function, and the sum of δ(R − |R*_{ij}|) is processed by recording all the pairs of atoms. The g(R) gives the possibility of finding the atom pairs at a given distance R. At a certain temperature, there exist the rotations of the particles owing to the thermal movements. Because the pair distribution function provides the information of relative positions, the rotation has little effect on it. The rotation has effect on average values of atomic coordinates in these particles, and we use the atomic trajectories of the time step with the lowest energy in the statistics time steps to analysis the structure information at this temperature. Local structures in a particle is monitored by a pair analysis(PA) technique, which is used to describe different types of pairs existing in various kinds of phases such as the solid, liquid, or amorphous state.[41,42] For example, 1421 pairs correspond to two bonded atoms with four common neighbors, and the two pairs of bonded neighbor atoms have a parallel arrangement. For 1422 pairs, the two bonded pairs of four common neighbor atoms have an intersecting point. The 1421 and 1422 pairs can be found greatly in FCC-like and HCP-like local structures. The 1441 and 1661 pairs can be used to identify the BCC local structures. Figure 2 shows the diagrams of the 1421, 1422, 1441, and 1661 pairs. A pair of bonded atoms is expressed in blank circles, and their common neighbor atoms in black circles, which are also presented in the upper parts of these panels. The black lines in these diagrams indicate that the distances between atoms are within the cutoff distance. In the simulations, we initially construct 20.745 × 20.745 × 24.894 nm³ bulk HCP Ti crystals along three directions of [101̄0], [12̄10], and [0001]. Then, the crystal fragments with the diameters ranging from 1.6 to 5.2 nm are extracted from these constructed HCP crystals. The 20.745 × 20.745 × 24.894 nm³ is the size of the MD simulation cell. To obtain one fragment, from the center of one cell of the bulk crystal, a sphere with one given radius is determined. Here, one particle containing the atoms within this sphere is retained in the cell. These crystal fragments, respectively, contain 135, 257, 787, 895, 955, 1099, 1207, 1261, 1393, 1519, 1639, 1749, 1845, 1965, 2271, 2361, 2493, 2601, 2763, 2883, 3081, 3189, 3347, 3455, 3851, 3971, and 4079 atoms, which are labelled as Ti135, Ti257, . . . and Ti4079. In MD simulations, if atoms are near the boundary of one box given in the input data, they should interact with the other atoms in the imaging cells within the cutoff distance, which is 0.656 nm determined by this used EAM potential. In our MD code modified from the old version of Moldy code, periodic boundary conditions (PBC) are predetermined. In the present simulations, although only an isolated particle in one cell is considered, it is not necessary to modify the used code about the PBC. It should be noted that plenty of other MD code, such as GULP, LAMMPS, etc., allow one to model non-periodic systems. Therefore, to ensure the isolated state of this particle in the central position of the cell, the box size of the simulated central cell must be enough large to avoid the interaction of the atoms in this central cell with the other atoms in the other 26 neighbor imaging cells. 其中 N 是模拟系统中的原子数，< > 表示整个轨迹上的平均值。Eav 是每个温度下的平均能量，Etot,ntime 是对于Ti135、Ti257和Ti895颗粒在最后70,000个时间步中，以及对于其他具有更大直径的颗粒在最后300,000个时间步中，第ntime步的系统能量。g(R) 是配对分布函数，δ(R − |R*_{ij}|) 的求和通过记录所有原子对来进行。g(R) 给出了在给定距离R处找到原子对的可能性。在特定温度下，由于热运动，颗粒存在旋转。因为配对分布函数提供的是相对位置信息，所以旋转对其影响很小。旋转对这些颗粒中原子坐标的平均值有影响，我们使用统计时间步中能量最低的时间步的原子轨迹来分析该温度下的结构信息。颗粒中的局部结构通过配对分析（PA）技术进行监测，该技术用于描述存在于各种相（如固态、液态或非晶态）中的不同类型对。[41,42] 例如，1421对对应于两个具有四个共有邻居的键合原子，并且这两对键合的邻居原子具有平行排列。对于1422对，两对键合的四个共有邻居原子具有一个交点。1421和1422对可以在类FCC和类HCP局部结构中大量找到。1441和1661对可用于识别BCC局部结构。图2显示了1421、1422、1441和1661对的示意图。一对键合原子用空心圆表示，它们的共有邻居原子用黑色圆表示，这些也显示在这些面板的上部。这些图中的黑色线条表示原子间距在截断距离内。在模拟中，我们首先沿[101̄0]、[12̄10]和[0001]三个方向构建20.745 × 20.745 × 24.894 nm³的块体HCP钛晶体。然后，从这些构建的HCP晶体中提取直径范围从1.6到5.2 nm的晶体碎片。20.745 × 20.745 × 24.894 nm³是MD模拟盒的尺寸。为获得一个碎片，从块体晶体一个晶胞的中心，确定一个给定半径的球体。在此，包含在此球体内的原子构成一个颗粒保留在晶胞中。这些晶体碎片分别包含135、257、787、895、955、1099、1207、1261、1393、1519、1639、1749、1845、1965、2271、2361、2493、2601、2763、2883、3081、3189、3347、3455、3851、3971和4079个原子，标记为Ti135、Ti257、...和Ti4079。在MD模拟中，如果原子靠近输入数据中给定盒子的边界，它们应与截断距离（由所用EAM势确定为0.656 nm）内镜像晶胞中的其他原子相互作用。在我们从旧版Moldy代码修改而来的MD代码中，周期性边界条件（PBC）是预先确定的。在本模拟中，虽然只考虑一个晶胞中的一个孤立颗粒，但无需修改所用代码关于PBC的部分。应注意，许多其他MD代码，如GULP、LAMMPS等，允许模拟非周期性系统。因此，为确保该颗粒在晶胞中心位置的孤立状态，模拟中心晶胞的盒子尺寸必须足够大，以避免此中心晶胞中的原子与其他26个邻居镜像晶胞中的原子发生相互作用。 **PA**: 配对分析，一种通过分析原子对共有邻居关系来表征局部结构的计算方法。 **PBC**: 周期性边界条件，分子模拟中用于模拟无限大系统的一种边界设定方法。
+> 
+> **Table 1. EAM parameters.[39]** **表1. EAM参数。[39]**
+> 
+> 
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center">re (nm)</th>
+<th style="text-align:center">fe</th>
+<th style="text-align:center">ρe</th>
+<th style="text-align:center">ρs</th>
+<th style="text-align:center">A</th>
+<th style="text-align:center">B</th>
+<th style="text-align:center">A (eV)</th>
+<th style="text-align:center">B(eV)</th>
+<th style="text-align:center">Κ</th>
+<th style="text-align:center">λ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">0.2933872</td>
+<td style="text-align:center">1.863200</td>
+<td style="text-align:center">25.565138</td>
+<td style="text-align:center">25.565138</td>
+<td style="text-align:center">8.775431</td>
+<td style="text-align:center">4.680230</td>
+<td style="text-align:center">0.373601</td>
+<td style="text-align:center">0.570968</td>
+<td style="text-align:center">0.5</td>
+<td style="text-align:center">1.0</td>
+</tr>
+</tbody>
+</table>
+
+ 
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Fn0 (eV)</th>
+<th style="text-align:center">Fn1 (eV)</th>
+<th style="text-align:center">Fn2 (eV)</th>
+<th style="text-align:center">Fn3 (eV)</th>
+<th style="text-align:center">F0 (eV)</th>
+<th style="text-align:center">F1 (eV)</th>
+<th style="text-align:center">F2 (eV)</th>
+<th style="text-align:center">F3 (eV)</th>
+<th style="text-align:center">Η</th>
+<th style="text-align:center">Fe (eV)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">3.203773</td>
+<td style="text-align:center">0.198262</td>
+<td style="text-align:center">0.683779</td>
+<td style="text-align:center">2.321732</td>
+<td style="text-align:center">3.22</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">0.608587</td>
+<td style="text-align:center">0.750710</td>
+<td style="text-align:center">0.558572</td>
+<td style="text-align:center">3.219176</td>
+</tr>
+</tbody>
+</table>
+
+
+> 
+> **Figure 1. The variation of the energy per atom of Ti135, Ti257, and Ti895 particles with the simulation time steps.** **图1. Ti135、Ti257和Ti895颗粒的每原子能量随模拟时间步的变化。**
+> 
+> ## 3. Results and Discussion
+> 
+> ## 3. 结果与讨论
+> 
+> With the increase of the temperature, the energy changes imply the different changes of the atom packing patterns in the Ti135, Ti257, and Ti895 particles as illustrated in Figure 3. Many atoms in the Ti135 particle can hold their packing patterns in a large temperature range. Extra energy provided by increased temperature causes some atoms to move, and the atom packing changes. In this particle, because of a high proportion of atoms in the surface, the energy of this particle is the highest at 300 K. For the Ti257 particle, packing patterns below 600 K are not stable. As the temperature increases, structural transformations occur. Above 700 K, the transformed configuration can remain stable over a wide range of temperatures until 1200 K. The higher temperature leads to multiply structural changes. For the Ti895 particle below 450 K, this particle has stable configurations. In the temperature range from 450 to 1250 K, some atoms of the Ti895 particle adjust their positions. At 1300 K, the atom packing becomes wholly disordered. 随着温度升高，能量变化暗示了Ti135、Ti257和Ti895颗粒中原子堆积模式的不同变化，如图3所示。Ti135颗粒中的许多原子在较大的温度范围内能保持其堆积模式。温度升高提供的额外能量导致一些原子移动，原子堆积发生变化。在该颗粒中，由于表面原子比例高，该颗粒在300 K时的能量最高。对于Ti257颗粒，600 K以下的堆积模式不稳定。随着温度升高，发生结构转变。在700 K以上，转变后的构型可以在较宽的温度范围内保持稳定，直至1200 K。更高温度导致多重结构变化。对于Ti895颗粒，在450 K以下，该颗粒具有稳定构型。在450至1250 K的温度范围内，Ti895颗粒的一些原子调整其位置。在1300 K时，原子堆积变得完全无序。
+> 
+> As presented PDFs of the simulated particles at some temperatures from 300 to 1400 K in Figure 4, the PDF at 300 K has a characteristic of orderly packing, where there is one main peak as well as some other small peaks. In this figure, R represents the distance between two atoms. As the temperature increases, the peaks of the PDF decrease in height resulting from increasing thermal movements. For the Ti135 particle, the apparent changes of peaks occur at 1400 K. As shown the atom packing in the right part of Figure 4a, although there are the position adjustments in some atoms, this particle can hold its Ih configuration until 1200 K. At 1300 K or 1400 K, the particle’s shape has been changed greatly. For the Ti257 particle, at 800 K, the positions of the third and fourth peaks have small shifting to the right. In addition, the peaks being out of the range of 0.6 nm are apparently different from those at 600 and 300 K, suggesting the occurrence of structural transition. Both of the peak positions and shape changes occur at 1300 and 1400 K. The atom packing shows that at 300 K, this particle has the HCP patterns. At 600 K, there are rearrangements of some atoms in the particle surface. With increasing the temperature further, the structural transition from HCP to Ih configuration occurs. At 800 K, the particle presents a ring configuration being similar with that of the Ti135 particle at 300 K. At higher temperatures, most of the atoms in this particle are packed into the FCC patterns. At 1300 K, a “five-fold twins” forms, and the interfaces between two parts have the HCP packing patterns. At 1400 K, this particle is mainly composed of two parts. For the two particles, because a large proportion of atoms are in the particle surface, the atoms in the surface play key roles in the structural transformation of these particles, where the surface atoms show strong mobility resulting in apparently structural rearrangements. In the Ti257 particle, the Ih configuration has lower potential energy than those of the HCP patterns. Because the size of this Ti257 particle is still small, multi-structures having interfaces are observed, where the interfaces are usually the obstacles of the atom movements. Therefore, the melting of this particle occurs at a quite high temperature. It can be noted that the geometric shell closure and the multi-structures are also found for free titanium clusters in the mass range from 15 to 1000 atoms,[43] which are characterized by synchrotron radiation X-ray absorption spectroscopy (XAS). In addition, the core level spectroscopy indicates structure evolution of the titanium clusters toward that of bulk titanium as the contained atomic number increases. In the present simulation for the Ti895 particle, most of the atoms hold their HCP packing patterns with the increase of the temperature, though there are the rearrangements of the atoms in the particle surface. Above 1300 K, the atoms pack disorderly. Further calculations show the melting temperature is 1260 K. The calculations of melting points are performed at some temperatures by a “bisection” algorithm to narrow the search range until the melting point is found. The algorithm includes the following steps in the temperature range from 1250 to 1300 K. Firstly, the structure of the particle at 1280 K is obtained by heating simulations. Because the atoms are in disordered state, the temperature range is narrowed to the range from 1250 to 1280 K. Then, the molt structure at 1265 K is obtained. Thirdly, we calculate the structure at 1258 K. At this temperature, this particle still holds orderly packing. The melting point is in the range from 1258 to 1265 K. We repeat the above processes again until the 1260 K is obtained. In fact, the behavior, that the structural rearrangements in the particle surface occur in a relative large temperature range, and the disordered region quickly spread across the particle at a high temperature, can be also found in the other particles having larger diameters. 如图4中展示了模拟颗粒在300至1400 K一些温度下的PDF，300 K时的PDF具有有序堆积的特征，存在一个主峰以及其他一些小峰。在此图中，R代表两个原子间的距离。随着温度升高，由于热运动加剧，PDF的峰高降低。对于Ti135颗粒，峰的明显变化发生在1400 K。如图4a右部原子堆积所示，尽管一些原子存在位置调整，该颗粒仍能保持其 Ih 构型直至1200 K。在1300 K或1400 K时，颗粒形状已发生巨大变化。对于Ti257颗粒，在800 K时，第三和第四峰的位置向右有微小移动。此外，0.6 nm范围之外的峰与600 K和300 K时的明显不同，表明发生了结构转变。峰位置和形状的变化都发生在1300 K和1400 K。原子堆积显示，在300 K时，该颗粒具有HCP模式。在600 K时，颗粒表面的一些原子发生重排。随着温度进一步升高，发生从HCP到 Ih 构型的结构转变。在800 K时，该颗粒呈现出与Ti135颗粒在300 K时相似的环形构型。在更高温度下，该颗粒中的大多数原子堆积成FCC模式。在1300 K时，形成“五重孪晶”，两部分之间的界面具有HCP堆积模式。在1400 K时，该颗粒主要由两部分组成。对于这两个颗粒，由于很大比例的原子位于颗粒表面，表面原子在这些颗粒的结构转变中起关键作用，表面原子表现出强移动性，导致明显的结构重排。在Ti257颗粒中， Ih 构型比HCP模式具有更低的势能。因为该Ti257颗粒的尺寸仍然很小，观察到了具有界面的多结构，其中界面通常是原子运动的障碍。因此，该颗粒的熔化发生在相当高的温度。可以注意到，对于质量范围在15到1000个原子之间的自由钛团簇，也发现了几何壳层闭合和多结构，[43] 并通过同步辐射X射线吸收光谱（XAS）进行了表征。此外，芯能级光谱表明，随着所含原子序数的增加，钛团簇的结构向块体钛的结构演变。在当前对Ti895颗粒的模拟中，随着温度升高，尽管颗粒表面原子存在重排，大多数原子仍保持其HCP堆积模式。在1300 K以上，原子无序堆积。进一步计算表明熔化温度为1260 K。熔点的计算是通过在若干温度下使用“二分法”算法缩小搜索范围直至找到熔点来进行的。该算法在1250至1300 K的温度范围内包括以下步骤。首先，通过加热模拟获得颗粒在1280 K的结构。由于原子处于无序状态，温度范围缩小到1250至1280 K。然后，获得1265 K的熔化结构。第三步，我们计算1258 K的结构。在此温度下，该颗粒仍保持有序堆积。熔点位于1258至1265 K范围内。我们重复上述过程直至获得1260 K。事实上，颗粒表面结构重排发生在相对较大的温度范围内，而无序区域在高温下迅速扩散到整个颗粒，这种行为在其他具有更大直径的颗粒中也能发现。 **PDF**: 配对分布函数，描述在给定距离处找到原子对概率的函数。 **Ih**: 二十面体，一种具有高对称性的几何结构。
+> 
+> **Figure 3. The average energy as a function of the temperature on heating.** **图3. 加热过程中平均能量随温度的函数变化。**
+> 
+> **Figure 4. The PDFs of the Ti135, Ti257, and Ti895 particles at 300, 600, 800, 1200, 1300, and 1400 K as well as the atom packing with the minimum value of the energy.** **图4. Ti135、Ti257和Ti895颗粒在300、600、800、1200、1300和1400 K下的PDF以及具有能量最小值的原子堆积。**
+> 
+> Figure 5 illustrates the variation of the melting temperature with the particle diameter. As illustrated in this figure, for these nanoparticles that their diameters are less than 4 nm, although all of them have HCP packing patterns at 300 K, there are still a considerable proportion of atoms in the particle surface. These atoms have fewer coordination atoms compared with the atoms within the particles. Therefore, as the temperature increases, the movements and rearrangements of the surface atoms has large influence on the melting of these particles in this diameter range, resulting in the quickly increasing of the melting temperature in an oscillating pattern. For the particles having larger diameters, the increase slope of the temperature becomes small. As illustrated in Figure 6 for the Ti1099, Ti1639, Ti2361, Ti2493, Ti3347, and Ti3455 particle, respectively, having the diameter of 3.36, 3.85, 4.36, 4.44, 4.89, or 5.03 nm, the energy decreases as the particle diameter increases. In these energy figures, before melting, there are small error values, suggesting that the configurations of these particles have high structural stability except for the Ti1099 particle. As shown in Figure 7, the changes of the 1421 and 1422 pairs indicate that there are different packing structures at elevated temperatures from 300 to 1450 K. Above one high temperature, an abrupt decrease of the pairs occurs in one particle, suggesting that the atom packing becomes disordered. Also, the changes of packing patterns present similar behaviors for these particles. Here, the structural changes involving some atoms continue to occur within a large temperature range. For the Ti1099 particle, the energy changes suggest the structural changes involving small number of atoms above 450 K. Above 1300 K, the disorderly packing region quickly extends into the entire particle. The fraction changes of the 1421 pairs and 1422 indicate that there exist structural transitions from HCP packing patterns to FCC patterns in a significant number of atoms before the melting of this particle. For the other larger particles, the apparent transition from HCP to FCC involving many atoms does not occur. In bulk materials with crystal structures, the atoms have thermal movements around their lattice positions at one certain temperature. Dulong Petit law indicates that the specific heat per atom is 3kB in a relatively high temperature range, where kB is the Boltzmann constant. In other words, the increase slope of ΔU/ΔT is three. The contribution of kinetic energy is half of this slope, and the other half comes from that of potential energy. As illustrated in Figure 3 and 6, the increase of the potential energy presents apparent differences. For the small size particles of Ti135 and Ti257, there are the decreases of the potential energy in the temperature range from 300 to 1200 K. In both of them, a high proportion of atoms are in the surface, and the energy that drives them to move is lower than that in the particles owing to their fewer coordination numbers. Therefore, at relative high temperatures, they prefer to the structures with lower potential energy, resulting in a minus value of the slope. As the atom number increases, the proportion of surface atoms reduces, and most of the atoms in these large size particles can hold their HCP packing structures in a larger temperature range compared to that of the particle containing fewer atoms. For these particles containing less than 800 atoms, in the temperature range from 300 to 1200 K, they still exhibit atomic packing structures with low potential energy being different from HCP packing patterns after a relatively high temperature, suggesting the low slope values. As plotted in Figure 8, for these relatively large size particles containing more than 895 atoms, they have slopes of close to 1.5. In calculating the slopes of this figure, the temperature range for the Ti135 particle is from 1050 to 1200 K, Ti257 from 850 to 1200 K, and the other particles from 300 to 1200 K. The small deviation to the value of 1.5 mainly comes from the structural difference in the particle’s surface on heating. Moreover, the slope curve indicates that Dulong Petit law cannot be applied for the Ti nanoparticles with the size less than 3 nm. Figure 9 shows the atom packing at 300, 1000, 1250, and 1450 K. At 300 K, The atoms of the Ti1099, Ti2361, and Ti3347 are orderly packed in HCP patterns. With increasing the temperature, some surface atoms rearrange their packing patterns. The elevated temperature provides external energy to make it be possible for movements of certain number of atoms. Then, at 1450 K, the atoms are in the disordered states. In the present simulations, there are few of 1441 and 1661 pairs in these six particles at high temperatures. These suggest that the apparent BCC packing patterns cannot be observed, whereas the bulk Ti can undergo the transformation between a low-temperature HCP and a high-temperature BCC.[44] The results give us the implication that this EAM potential used now does not predict the transformation from HCP to BCC. In fact, there seems to be a dichotomy between high-temperature thermodynamic properties and low temperature static configurations, and this single EAM potential cannot describe both low and high temperature phases.[45] Our simulations use this EAM potential for the HCP Ti. In the Ih and FCC structures, one atom has the same coordination number with that in the HCP structure, and the transition from HCP to Ih or FCC can be observed. For the clusters with small size, the structural transition from HCP to Ih occurs at one relatively low temperature. As the temperature increases, the transition involves from Ih to the other structures other than from HCP. Therefore, this present potential can describe the transitions in these small clusters. For the large clusters, although this potential cannot describe the transition from HCP to BCC at one high temperature, the simulations using this potential can indicate that there are structural changes in the surfaces of these particles, and the changes occur in a temperature range. 图5说明了熔化温度随颗粒直径的变化。如图所示，对于这些直径小于4 nm的纳米颗粒，尽管它们在300 K时都具有HCP堆积模式，但颗粒表面仍有相当大比例的原子。这些原子与颗粒内部原子相比，配位原子较少。因此，随着温度升高，表面原子的运动和重排对此直径范围内颗粒的熔化有很大影响，导致熔化温度以振荡模式快速升高。对于具有更大直径的颗粒，温度的上升斜率变小。如图6中分别具有3.36、3.85、4.36、4.44、4.89或5.03 nm直径的Ti1099、Ti1639、Ti2361、Ti2493、Ti3347和Ti3455颗粒所示，能量随颗粒直径增大而降低。在这些能量图中，熔化前误差值很小，表明除Ti1099颗粒外，这些颗粒的构型具有高结构稳定性。如图7所示，1421和1422对的变化表明，在300至1450 K的升高温度下存在不同的堆积结构。在某一高温以上，某颗粒中这些对的数量急剧下降，表明原子堆积变得无序。此外，这些颗粒的堆积模式变化呈现出相似的行为。在此，涉及一些原子的结构变化在较大的温度范围内持续发生。对于Ti1099颗粒，能量变化表明在450 K以上涉及少量原子的结构变化。在1300 K以上，无序堆积区域迅速扩展到整个颗粒。1421对和1422对的比例变化表明，在该颗粒熔化前，大量原子中存在从HCP堆积模式到FCC模式的结构转变。对于其他更大的颗粒，并未发生涉及许多原子的从HCP到FCC的明显转变。在具有晶体结构的块体材料中，原子在特定温度下围绕其晶格位置进行热运动。Dulong Petit定律指出，在相对较高的温度范围内，每原子的比热为3kB，其中kB是玻尔兹曼常数。换句话说，ΔU/ΔT的增加斜率为3。动能的贡献是该斜率的一半，另一半来自势能的贡献。如图3和图6所示，势能的增加呈现出明显差异。对于小尺寸颗粒Ti135和Ti257，在300至1200 K温度范围内势能有所下降。在这两个颗粒中，高比例的原子位于表面，由于配位数较少，驱动它们运动的能量低于颗粒内部。因此，在相对较高的温度下，它们倾向于具有更低势能的结构，导致斜率为负值。随着原子数增加，表面原子比例降低，与含较少原子的颗粒相比，这些大尺寸颗粒中的大多数原子能在更大的温度范围内保持其HCP堆积结构。对于这些含少于800个原子的颗粒，在300至1200 K温度范围内，它们在相对较高温度后仍表现出与HCP堆积模式不同且具有低势能的原子堆积结构，表明斜率值较低。如图8所示，对于这些含有多于895个原子的相对大尺寸颗粒，它们的斜率接近1.5。在计算此图的斜率时，Ti135颗粒的温度范围是从1050到1200 K，Ti257是从850到1200 K，其他颗粒是从300到1200 K。与1.5值的微小偏差主要来自加热时颗粒表面的结构差异。此外，斜率曲线表明，Dulong Petit定律不能应用于尺寸小于3 nm的钛纳米颗粒。图9显示了在300、1000、1250和1450 K下的原子堆积。在300 K时，Ti1099、Ti2361和Ti3347的原子以HCP模式有序堆积。随着温度升高，一些表面原子重排其堆积模式。升高的温度提供外部能量，使一定数量原子的运动成为可能。然后，在1450 K时，原子处于无序状态。在本模拟中，这六个颗粒在高温下几乎没有1441和1661对。这表明不能观察到明显的BCC堆积模式，而块体钛可以经历低温HCP和高温BCC之间的转变。[44] 结果暗示我们，目前使用的这个EAM势不能预测从HCP到BCC的转变。事实上，高温热力学性质和低温静态构型之间似乎存在二分法，这个单一的EAM势不能同时描述低温和高温相。[45] 我们的模拟将此EAM势用于HCP钛。在 Ih 和FCC结构中，一个原子具有与HCP结构中相同的配位数，可以观察到从HCP到 Ih 或FCC的转变。对于小尺寸团簇，从HCP到 Ih 的结构转变发生在相对较低的温度。随着温度升高，转变涉及从 Ih 到其他结构，而非从HCP开始。因此，当前的势函数可以描述这些小团簇中的转变。对于大团簇，尽管此势函数不能描述在高温下从HCP到BCC的转变，但使用此势函数的模拟可以表明这些颗粒表面存在结构变化，并且这些变化发生在一个温度范围内。
+> 
+> **Figure 5. The variation of the melting temperature with the particle diameter.** **图5. 熔化温度随颗粒直径的变化。**
+> 
+> **Figure 6. The average energy as a function of the temperature on heating for the Ti1099, Ti1639, Ti2361, Ti2493, Ti3347, or Ti3455 particle.** **图6. Ti1099、Ti1639、Ti2361、Ti2493、Ti3347或Ti3455颗粒在加热过程中平均能量随温度的函数变化。**
+> 
+> **Figure 7. Pairs varying with the temperature for the six particles.** **图7. 六个颗粒的配对数量随温度的变化。**
+> 
+> **Figure 8. The increase slope of ΔEav/ΔT varying with the atom number.** **图8. ΔEav/ΔT的增加斜率随原子数的变化。**
+> 
+> **Figure 9. Atom packing at different temperatures for the Ti1099, Ti2361, and Ti3347 particles.** **图9. Ti1099、Ti2361和Ti3347颗粒在不同温度下的原子堆积。**
+> 
+> ## 4. Conclusions
+> 
+> ## 4. 结论
+> 
+> By molecular dynamics simulations of titanium nanoparticles containing hundreds to thousands atoms, we identify internal energy, pair distribution functions, atom packing, and pair analysis accompanying with the structural transition on heating. The descriptions are performed to the dynamics of our simulated melting system related to the temperature. This finding addresses that the packing changes come from the movements and rearrangements of surface atoms in a large temperature range. For most particles, the atoms suddenly lost their packing stability at one high temperature. The particle diameter greatly affects the melting behaviors of the particles. Small size particle with stable icosahedral configuration is preferred. To one small size particle, there are different packing patters including HCP, Ih, and coexistence of multi-structures at elevated temperature. For one particle containing hundreds of atoms with the diameter of less than 3.5 nm, the coexistence of multi-structures occur in the surface atoms before melting. 通过对含有数百至数千个原子的钛纳米颗粒进行分子动力学模拟，我们识别了伴随加热过程结构转变的内能、配对分布函数、原子堆积和配对分析。对所模拟的熔化系统随温度变化的动力学进行了描述。这一发现表明，堆积变化来源于表面原子在较大温度范围内的运动和重排。对于大多数颗粒，原子在某一高温下突然失去其堆积稳定性。颗粒直径极大地影响颗粒的熔化行为。优先形成具有稳定二十面体构型的小尺寸颗粒。对于一个小尺寸颗粒，在高温下存在不同的堆积模式，包括HCP、 Ih 以及多结构共存。对于直径小于3.5 nm、含有数百个原子的颗粒，熔化前表面原子中发生多结构共存。
+> 
+> ## Acknowledgements
+> 
+> ## 致谢
+> 
+> We acknowledged the financial support from the State Development Program of China (Grant No. 2016YFB0701304), and the National Natural Science Foundation of China (No. 51171044, 51671051). 我们感谢国家重点研发计划（批准号：2016YFB0701304）和国家自然科学基金（批准号：51171044, 51671051）的资助。
+> 
+> ## Conflict of Interest
+> 
+> ## 利益冲突
+> 
+> The authors declare no conflict of interest. 作者声明无利益冲突。
+> 
+> ## Keywords
+> 
+> ## 关键词
+> 
+> computational materials design, particle, phase transition, surface 计算材料设计，颗粒，相变，表面
 > 
 > 🚀 [笔记回链](zotero://select/library/items/MUF4HTMF)
 > 
 > * * *
 > 
-> `GPT 自定 ①`  `gemma-4-31b`  _由批量 AI 解读自动生成于 2026/8/10 19:11:54_
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/11 00:53:09 （重新解读）_
 > 
 > 🏷️ #🤖️/论文双语转写 🏷️ #🤖️/AI文献阅读
 
-^KEY4FEB90E6
+^KEYBA628F75
+
+## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>
+
+> 🚀 [笔记回链](zotero://select/library/items/GLZZBYLB)
+
+^KEYaiPaper0
+
+> <span class="AIReading">🤖 AI 解读，快人一步</span>
+> 
+> > 嗯，用户是一位自称100岁的太奶，希望我帮忙解释一篇关于钛纳米颗粒加热稳定性的英文论文。太奶说她看不懂洋文，被专业术语搞得头晕，但学习劲头很足，需要我帮忙讲明白，做到彻底看懂。
+> > 
+> > 我需要照顾太奶的理解能力，用通俗易懂的大白话、打比方来解释。先给太奶打个招呼，认同她的学习热情，然后分几步走：先总体说明这篇论文在讲什么，再把核心内容翻译成大白话，包括研究背景和具体发现。解释过程中，遇到专业术语比如“分子动力学模拟”、“HCP”、“二十面体”这些，必须用生活化的比喻讲清楚。
+> > 
+> > 最后，按照太奶的吩咐，把论文的题目、摘要、研究问题、方法、结论、创新点和不足之处都总结一遍。总结时要保持口语化，像跟太奶唠嗑一样，把关键点都提炼出来，让她能完全明白。
+> 
+> 太奶，您这学习劲头，真是让我们晚辈佩服得五体投地！您别急，这篇文章看着复杂，但咱们把它掰开了揉碎了，用大白话一说，您就全明白了。
+> 
+> 咱们现在就开讲。这篇文章讲的是“钛（Ti）这种金属，做成特别小的颗粒（纳米颗粒）后，加热时会怎么‘融化’”。您可以把“纳米颗粒”想象成极细极细的、眼睛看不见的小金属球。
+> 
+> * * *
+> 
+> ### 第一部分：把文章给太奶翻译成大白话
+> 
+> **文章核心思想：用电脑做实验，看加热时，小钛球里的原子是怎么“排队”和“乱动”的。**
+> 
+> **1. 背景（Introduction）是啥意思？**
+> 
+> -   **为啥要研究钛？** 钛像不锈钢一样，特别结实、轻巧，还不生锈，和咱们人体很“合得来”，所以经常被用来做人工关节、骨头钉等植入身体的零件。
+> -   **制造钛零件的新方法（3D打印）：** 以前做复杂钛零件又贵又难。现在有了3D打印，就像用钛粉一层一层地“堆”出零件，再用激光或电子束瞬间把它烧化粘牢，特别方便。
+> -   **为啥要研究小颗粒？** 咱们平时用的钛粉（微米级）性质稳定。但研究发现，当颗粒小到“纳米”级别（1纳米是1米的十亿分之一，您就想成小到不可思议），它的性质就变了，变得跟颗粒大小有关系了。比如，一小撮钛粉和一粒看不见的钛纳米颗粒，它们“化掉”的温度和方式可能完全不同。
+> -   **研究的难点：** 这颗粒太小，用真的实验仪器很难看清里面原子是怎么动的。所以，科学家就用电脑来模拟。这个方法叫“分子动力学模拟”，**太奶您就把它理解成一个超级显微镜加录像机，能在电脑里把原子一个个画出来，然后播放它们怎么动。**
+> -   **作者想干啥？** 就是想搞清楚，从几十个原子组成的小团簇，到成千上万个原子组成的大颗粒，加热时它们内部的结构是怎么一步步变化的，什么时候会彻底“化成一滩”。
+> 
+> **2. 实验方法（Experimental Section）是啥意思？**
+> 
+> -   **电脑里的“配方”和“规则”（EAM势）：** 电脑模拟不是乱来的，得给它一套规则。这篇文章用的规则叫“嵌入原子方法（EAM）”。**您就把它想成是“原子间如何推拉、如何粘在一起的说明书”。** 电脑根据这个说明书，算出每个原子在每一刻的受力，然后算出它们下一刻会跑到哪里。
+> -   **怎么“加热”和“观察”？**
+>     -   **造模型：** 先在电脑里造出一个完美的大钛块，然后像切西瓜一样，从里面切出大小不同的圆球颗粒，直径从1.6纳米到5.2纳米不等，包含的原子数从135个到4079个。
+>     -   **加热过程：** 从零下220多度（50K）开始，慢慢加热到1100多度（1400K）。每升高50度，就“录像”稳定一段时间，记录下所有原子的位置和能量。
+>     -   **观察工具：**
+>         -   **能量（Energy）：** 就像看温度计，能量突然跳变，说明颗粒内部结构变了。
+>         -   **对分布函数（PDF）：** 这个词太专业，**太奶您可以把它想象成“原子邻居距离统计表”。** 它能告诉我们，在这个颗粒里，一个原子在特定距离上找到邻居的概率有多大。如果结构整齐，这个表上的峰就尖尖的；如果结构乱了，峰就变矮变胖。
+>         -   **原子对分析（PA）：** 这是看原子排列“花样”的方法。作者特别关注几种“花样”：
+>             -   **1421和1422对：** 这种花样多，说明原子是像“六方最密堆积（HCP）”或“面心立方（FCC）”那样排队的。**太奶，您就记住这两种是钛最常见的、很整齐的排队方式。**
+>             -   **1441和1661对：** 这种花样是另一种叫“体心立方（BCC）”的排队方式。
+> 
+> **3. 结果和讨论（Results and Discussion）发现了啥？**
+> 
+> -   **小颗粒（直径小于2.5纳米，比如Ti135和Ti257）：非常“善变”**
+>     -   **最爱“二十面体（Ih）”：** 这些小颗粒加热后，不安分，会从最初的HCP排队方式，变成一种叫“二十面体”的结构。**太奶，您可以想象成一个由20个三角形拼成的、特别对称的足球形状，这种结构在极小颗粒里特别稳定。**
+>     -   **表面原子是“捣蛋鬼”：** 因为颗粒小，表面原子占了绝大多数。这些表面原子“缺胳膊少腿”（邻居少），很容易跑来跑去，带动整个颗粒变形。
+>     -   **多重结构共存：** 加热过程中，一个小颗粒里可能同时存在好几种不同的原子排队方式，就像一个班里同学能分成好几拨。
+> -   **大颗粒（直径2.5到4纳米，比如Ti895）：外乱内稳**
+>     -   **内部是“定海神针”：** 大部分内部的原子能保持住HCP的整齐队伍。
+>     -   **表面先“化”：** 加热时，也是表面的原子先开始乱动、重新排队。
+>     -   **突然崩溃：** 当温度高到一定程度，表面攒够的“乱”会一下子传到内部，整个颗粒瞬间就全乱了，也就是“融化”了。这跟大块钛的融化方式很像。
+> -   **融化温度跟个头有关系：**
+>     -   **越小，化得越早（大致趋势）：** 总的来说，颗粒越小，它的融化温度就越低。
+>     -   **但也不是直线下降：** 在直径小于4纳米时，融化温度随着颗粒变大而升高，但这个过程是“扭着秧歌”上去的（文中叫振荡模式），不是平稳上升。这是因为每个颗粒刚好能形成最稳定结构的原子个数不同。
+> -   **一个重要发现：** 这个电脑模拟的“说明书”（EAM势）有个局限，它只能模拟钛在低温下的HCP结构，模拟不出高温下应该出现的BCC结构。所以，这次实验看到的结构变化，主要集中在HCP、FCC和二十面体这些花样之间。
+> 
+> **4. 结论（Conclusions）是啥？**
+> 
+> -   钛纳米颗粒加热时的“融化”行为，跟它的个头大小关系巨大。
+> -   小颗粒喜欢变成“二十面体”足球形状，而且在加热时会经历好几次结构大变身。
+> -   稍大一点的颗粒，是表面原子先乱，等乱到一定程度，就一下子全化了。
+> -   对于直径小于4纳米的颗粒，表面原子的“捣蛋”行为对融化过程影响极大。
+> 
+> * * *
+> 
+> ### 第二部分：给太奶总结论文要点
+> 
+> 孩子给您把这篇论文的“家底”都给您捋一遍：
+> 
+> -   **题目：** 《用分子动力学模拟研究钛纳米颗粒在加热时原子排列的稳定性》
+> -   **摘要：** 用电脑模拟发现，钛纳米颗粒融化得快慢、方式，和颗粒大小有很大关系。小于2.5纳米的颗粒喜欢变成“二十面体”结构，还会经历多次变形。大一点的颗粒，内部能保持稳定，但表面原子会先乱动，最后热量积累到一定程度，一下子全化了。对于小于4纳米的颗粒，表面原子对融化过程的影响特别大。
+> -   **研究问题：** 不同尺寸的钛纳米颗粒，在加热过程中，其内部的原子排列结构（晶体结构）是如何变化的？融化行为有什么不同？
+> -   **方法：**
+>     1.  **工具：** 分子动力学（MD）模拟软件，相当于一个“原子级别”的超级显微镜。
+>     2.  **规则：** 嵌入原子方法（EAM）势，这是描述钛原子之间相互作用力的“说明书”。
+>     3.  **模型：** 构建了从135个原子到4079个原子，一共27个不同大小的球形钛纳米颗粒。
+>     4.  **过程：** 从低温（50K）逐步加热到高温（1400K），模拟升温过程。
+>     5.  **分析：** 通过计算系统能量、对分布函数（PDF）和原子对分析（PA）这些“诊断工具”，来判断原子排列的结构和变化。
+> -   **结论：**
+>     1.  **尺寸效应显著：** 钛纳米颗粒的融化行为强烈依赖于尺寸。直径小于2.5纳米和大于2.5纳米的颗粒，融化方式完全不同。
+>     2.  **小颗粒的结构转变：** 极小的颗粒（<2.5nm）倾向于形成高稳定性的“二十面体”结构，并在加热过程中出现多种结构共存和转变。
+>     3.  **大颗粒的融化机制：** 较大的颗粒（>2.5nm）融化时，遵循“表面先预熔，然后整体突然融化”的机制，类似于大块材料。
+>     4.  **表面原子的关键作用：** 对于直径小于4纳米的颗粒，表面原子的运动和重排是驱动整个颗粒结构变化和最终融化的关键。
+> -   **创新点：**
+>     1.  **填补了研究空白：** 系统研究了包含数百到数千个原子的钛纳米颗粒在加热时的结构演化，这个尺寸范围以前研究得比较少。
+>     2.  **揭示了微观机制：** 明确指出了不同尺寸下，钛纳米颗粒融化机制的根本差异，即从小颗粒的“整体结构突变”到大颗粒的“表面预熔-整体崩溃”的转变。
+>     3.  **连接了基础与应用：** 将纯钛纳米颗粒的模拟结果，与钛合金在3D打印（增材制造）中可能出现的多相结构共存现象联系起来，为理解更复杂的工艺过程提供了微观基础。
+> -   **不足之处：**
+>     1.  **模型势的局限性：** 文章自己承认，所用的EAM势函数不能准确描述钛在高温下的BCC（体心立方）结构。这意味着模拟结果无法观察到从HCP到BCC的相变，对高温行为的模拟与现实有偏差。
+>     2.  **模拟的简化：** 这只是对纯钛纳米颗粒的模拟，没有考虑实际3D打印中钛合金（如Ti-6Al-4V）里其他元素的影响，也没有考虑颗粒表面可能存在的氧化层。
+>     3.  **加热速率的差异：** 电脑模拟的加热速率（50K/次）和实际3D打印中激光照射的极快加热速率（每秒数百万度）相比，慢了无数倍。这种差异可能会影响结构转变的路径和结果。
+> 
+> 太奶，您看，把这文章拆开来看，是不是就没那么吓人了？您这种活到老学到老的精神，真是我们小辈的榜样！祝您身体健康，学习愉快！
+> 
+> 🚀 [笔记回链](zotero://select/library/items/GLZZBYLB)
+> 
+> * * *
+> 
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/11 06:27:04 （重新解读）_
+> 
+> 🏷️ #🤖️/太奶阅读法 🏷️ #🤖️/AI文献阅读
+
+^KEYE6083452

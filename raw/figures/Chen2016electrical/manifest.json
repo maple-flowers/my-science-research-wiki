@@ -1,0 +1,128 @@
+{
+  "parent_key": "Chen2016electrical",
+  "title": "Chen2016electrical",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Figure 1.  The domain structure of BiFeO3 film. (a) The sketch of eight possible polarization orientations in a  BiFeO3 crystal cell; (b) the surface morphology, (c) out-of-plane (OP) and (d) in-plane (IP) phase images of the  6 V polarized regions; (e) the OP and (f ) IP phase images of the same region observed with a 90o-rotated tip,  where the [1 0 0] and [0 1 0] are crystal orientations, some domains with P1, P2, P3 and P4 are marked in (d) and  (f ), respectively.",
+      "page": "2",
+      "attachment_key": "ZZASGZCF",
+      "file": "fig_1_ZZASGZCF.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Figure 2.  The electrical switching of ferroelectric polarization. The OP and IP phase images of the 6 V  polarized area observed by a PFM tip with (a,b) 0o and (c,d) 90o rotations, and these phase images of the same  area after it was polarized by (e–h) − 1.8 V, (i–l) − 2 V and (m–p) − 2.3 V, where the inset is surface morphology  and six independent regions are marked with A,B,C,D,E and F.",
+      "page": "3",
+      "attachment_key": "8M5UCVB2",
+      "file": "fig_2_8M5UCVB2.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Figure 3.  The mechanical switching of ferroelectric polarization. The surface morphology (a) before and   (b) after it was scanned by the PFM tip with 3325 nN mechanical force. The OP phases image of the same region  after it was scanned by the PFM tip with a force of (c) 140 nN, (d) 700 nN, (e) 1050 nN, (f ) 1400 nN, (g) 1750 nN  and (h) 3325 nN, where the percent is the ratio of area with downward polarization.",
+      "page": "4",
+      "attachment_key": "V2QYGQGG",
+      "file": "fig_3_V2QYGQGG.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Figure 4.  The mechanical switching of ferroelectric polarization. The OP and IP phase images of the 6 V  polarized area observed by a PFM tip with (a,b) 0o and (c,d) 90o rotations, and the images of the same area after  it was polarized by a mechanical force of (e–h) 875 nN, (i–l) 1050 nN, (m–p) 1330 nN, where the inset is the  surface morphology, the five independent regions are marked with G,H,I,J and K, and the percent is the ratio of  area with downward polarization.",
+      "page": "5",
+      "attachment_key": "I3MJA2P9",
+      "file": "fig_4_I3MJA2P9.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Figure 5.  The ferroelectric polarization is nondestructively read out. (a) The surface morphology, (b) the  OP phase image and (c) the conductive image with 1 V bias after the film were polarized by 6 V and − 6 V bias,  respectively. (d) The sketch of photovoltaic measurement. (e) The photovoltaic current of BiFeO3 with upward  or downward polarization when light illuminates the BiFeO3 surface or not.",
+      "page": "6",
+      "attachment_key": "V43HJ2T7",
+      "file": "fig_5_V43HJ2T7.png",
+      "tags": [
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th>技术</th>\n<th>功能</th>\n<th>关键参数</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>压电力显微镜（PFM）</td>\n<td>畴结构成像，极化翻转表征</td>\n<td>针尖半径30-35 nm</td>\n</tr>\n<tr>\n<td>导电AFM（c-AFM）</td>\n<td>局部电流读取</td>\n<td>读取偏压=1V</td>\n</tr>\n<tr>\n<td>光伏测量</td>\n<td>宏观极化状态读取</td>\n<td>300 μm ITO电极，100 mW/cm²</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th>特性</th>\n<th>压电效应</th>\n<th>挠曲电效应</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>驱动因素</strong></td>\n<td>均匀应变（Strain）</td>\n<td>应变梯度（Strain Gradient）</td>\n</tr>\n<tr>\n<td><strong>对称性要求</strong></td>\n<td>需要非中心对称晶体结构</td>\n<td>所有绝缘体中都存在（包括中心对称晶体）</td>\n</tr>\n<tr>\n<td><strong>数学表达</strong></td>\n<td>(P_i = d_{ijk} \\cdot \\sigma_{jk})</td>\n<td>(P_i = \\mu_{ijkl} \\cdot \\frac{\\partial \\varepsilon_{jk}}{\\partial x_l})</td>\n</tr>\n<tr>\n<td><strong>尺度效应</strong></td>\n<td>与尺寸无关（一阶近似）</td>\n<td>随尺寸减小而增强（应变梯度在纳米尺度变大）</td>\n</tr>\n<tr>\n<td><strong>材料举例</strong></td>\n<td>PZT、BaTiO₃、BiFeO₃</td>\n<td>所有电介质，甚至在SrTiO₃等顺电体中也可观察到</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th>技术</th>\n<th>单元尺寸</th>\n<th>存储密度</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>当前最先进SSD</td>\n<td>~20 nm（3D NAND）</td>\n<td>~1 Tbit/inch²（多层堆叠）</td>\n</tr>\n<tr>\n<td>机械写畴（单层）</td>\n<td>~30 nm（理论极限）</td>\n<td>~700 Gbit/inch²</td>\n</tr>\n<tr>\n<td>传统铁电存储器（FeRAM）</td>\n<td>~130 nm</td>\n<td>~40 Gbit/inch²</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T4",
+      "title": "Table 4",
+      "content": "<table>\n<thead>\n<tr>\n<th>维度</th>\n<th>导电AFM读取</th>\n<th>光伏效应读取</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>读取速度</strong></td>\n<td>受限于AFM扫描</td>\n<td>光照响应可达ns级</td>\n</tr>\n<tr>\n<td><strong>空间分辨率</strong></td>\n<td>~30 nm（针尖尺寸）</td>\n<td>~μm级（光斑尺寸）</td>\n</tr>\n<tr>\n<td><strong>是否需要电源</strong></td>\n<td>需要1V偏压</td>\n<td>完全自供能（光生伏打）</td>\n</tr>\n<tr>\n<td><strong>信号对比度</strong></td>\n<td>电流差异（倍数级）</td>\n<td>Isc方向反转（符号级）</td>\n</tr>\n<tr>\n<td><strong>集成难度</strong></td>\n<td>需要导电AFM平台</td>\n<td>可集成到CMOS工艺</td>\n</tr>\n<tr>\n<td><strong>疲劳问题</strong></td>\n<td>1V偏压低，疲劳小</td>\n<td>无外电场，无疲劳</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T5",
+      "title": "Table 5",
+      "content": "<table>\n<thead>\n<tr>\n<th>Electrical switching of polarization</th>\n<th>Mechanical switching of polarization</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A1(P1) (6 V) = A2(P1) 71°→ A3(P−1) 109°→ A4(P−3)(−2.3 V)</td>\n<td>G1(P1)(6V) 109°→ G2(P−2) ≈ G3(P−2) 71°→ G4(P−3)(1330 nN)</td>\n</tr>\n<tr>\n<td>B1(P2)(6V) 180°→ B2(P−4) ≈ B3(P−4) = B4(P−4)(−2.3 V)</td>\n<td>H1(P1)(6V) 109°→ H2(P−2) ≈ H3(P−2) 71°→ H4(P−3)(1330 nN)</td>\n</tr>\n<tr>\n<td>...</td>\n<td>...</td>\n</tr>\n<tr>\n<td>这样每行对应一个区域，但电切换有A-F六个区域，机械切换有G-K五个区域，可以对齐，不足的行留空。我们按此处理。</td>\n<td></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T6",
+      "title": "Table 6",
+      "content": "<table>\n<thead>\n<tr>\n<th>Electrical switching of polarization</th>\n<th>Mechanical switching of polarization</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A1(P1) (6 V) = A2(P1) 7→1o A3(P−1) 10→9o A4(P−3)(−2.3 V)</td>\n<td>G1(P1 )(6V) 10→9o G2(P−2) ≈ G3(P−2) 7→1o G4(P−3)(1330 nN)</td>\n</tr>\n<tr>\n<td>B1(P2)(6V) 18→0o B2(P−4) ≈ B3(P−4) = B4(P−4)(−2.3 V)</td>\n<td>H1(P1 )(6V) 10→9o H2(P−2) ≈ H3(P−2) 7→1o H4(P−3)(1330 nN)</td>\n</tr>\n<tr>\n<td>C1(P2) (6 V) 7→1o C2(P1) 10→9o C3(P−4) = C4(P−4)(−2.3 V)</td>\n<td>I1(P1 )(6V) = I2(P1) ≈ I3 (P1) 18→0o I4(P−3)(1330 nN)</td>\n</tr>\n<tr>\n<td>D1(P1)(6 V) 10→9o D2(P−4) 7→1o D3(P−3) ≈ D4(P−3)(−2.3 V)</td>\n<td>J1 (P4)(6V) 10→9o J2(P−3) 7→1o J3(P−2) = J4(P−2)(1330 nN)</td>\n</tr>\n<tr>\n<td>E1(P2) (6 V) 18→0o E2(P−4) = E3(P−4) = E4(P−4)(−2.3 V)</td>\n<td>K1(P1)(6V) 10→9o K2(P−2) ≈ K3(P−2) 7→1o K4(P−3)(1330 nN)</td>\n</tr>\n<tr>\n<td>F1(P1) (6 V) 18→0o F2(P−3) ≈ F3(P−3) ≈ F4(P−3)(−2.3 V)</td>\n<td></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Electrical and mechanical switching of ferroelectric polarization in the 70 nm BiFeO3 film|\n|短标题|70nmBiFeO3薄膜铁电极化的电-机械开关|\n|作者|[[Liufang Chen]]、 [[Zhihao Cheng]]、 [[Wenting Xu]]、 [[Xiangjian Meng]]、 [[Guoliang Yuan]]、 [[Junming Liu]]、 [[Zhiguo Liu]]|\n|期刊名称|[[Scientific Reports]]|\n|DOI|[10.1038/srep19092](https://doi.org/10.1038/srep19092)|\n|存档位置|31|\n|文库编目|4.9|\n|索书号|3|\n|版权||\n|分类|[[02_极化翻转动力学 (Polarization Switching)]]|\n|条目链接|[My Library](zotero://select/library/items/4EGRA2C4)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/3DYI89CL)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq1",
+      "title": "Equation 1",
+      "content": "$$E_f = \\frac{f}{\\varepsilon} \\cdot \\frac{\\partial e}{\\partial z}$$",
+      "page": "-"
+    }
+  ],
+  "tags": [
+    "Done"
+  ],
+  "materials": [],
+  "methods": []
+}

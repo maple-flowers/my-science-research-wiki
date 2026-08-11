@@ -1,0 +1,72 @@
+{
+  "parent_key": "yanagizawaSwitchingChargedensityWave2023",
+  "title": "yanagizawaSwitchingChargedensityWave2023",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. (a) Schematic view of crystal structure o TiTe2 grown on bilayer graphene/SiC. Electron be SiC substrate. (c) EDCs of monolayer 1T-TiTe2 with hν = 80 eV. (d) (left) Plots of ARPES intens intensity of monolayer 1T-TiTe2 along the MΓM c of monolayer 1T-TiTe2 obtained with the first-pri measured at T = 30 K. White arrows highlight fol CDW. (g) BZ of 1T-TiTe2 in the normal phase (b broken line).",
+      "page": "31",
+      "attachment_key": "8BLPKNE6",
+      "file": "fig_1_8BLPKNE6.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "图2.�(a)‑(c),�(上)ARPES强度图和(下)相应二阶导 温度为Ts =400、420和440 ◦℃下生长的单层TiT 二维波矢在EF ± 50 meV能量窗口内积分的曲线 vector�qCDW。红色圆圈是通过对能带色散进行追 实验费米面确定的。�(g)‑(i),�ARPES强度及其相应 K辐照时间为tK = 6、12和24分钟。�(j)‑(l),�与(d) (m),�内空穴口袋在图示插图(红色圆圈)中的kF 点 化的曲线，表示TCDW 的∼90 K。�(o),�在T = 3 口袋在M 点的能谱(插图)。�(p),�对应的对称化能 性kF 点(点1‑5)的能谱的领先边缘位移(红色圆圈) (r),�空穴掺杂、原始和电子掺杂单层TiTe2的费米 qCDW 也用红色箭头表示。",
+      "page": "33",
+      "attachment_key": "2JEUWVDS",
+      "file": "fig_2_2JEUWVDS.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3. (a) ARPES-intensity plots of monolayer phase. (b) Schematics of the overall band structur (b) but for monolayer TiTe2.",
+      "page": "35",
+      "attachment_key": "FAYTPTD5",
+      "file": "fig_3_FAYTPTD5.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "FIG. 4. (a), (b) The intensity plots of Re[χ0(q))] and electron-doped monolayer TiTe2, respectively. chemical potential is 0.1 eV between (a) and (b).",
+      "page": "37",
+      "attachment_key": "BQBPQY75",
+      "file": "fig_4_BQBPQY75.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Switching of charge-density wave by carrier tuning in monolayer  <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:msub><mml:mi mathvariant=\"normal\">TiTe</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math>|\n|短标题|单层膜中载流子调谐电荷密度波的转换http://www.w3.org/1998/Math/MathML“><mml:msub><mml:mimathvariant=“normal”>此处|\n|作者|[[Koki Yanagizawa]]、 [[Katsuaki Sugawara]]、 [[Tappei Kawakami]]、 [[Ryuichi Ando]]、 [[Ken Yaegashi]]、 [[Kosuke Nakayama]]、 [[Seigo Souma]]、 [[Kiyohisa Tanaka]]、 [[Miho Kitamura]]、 [[Koji Horiba]]、 [[Hiroshi Kumigashira]]、 [[Takashi Takahashi]]、 [[Takafumi Sato]]|\n|期刊名称|[[Physical Review Materials]]|\n|DOI|[10.1103/PhysRevMaterials.7.104002](https://doi.org/10.1103/PhysRevMaterials.7.104002)|\n|存档位置||\n|文库编目|3.6|\n|索书号|2|\n|版权||\n|分类|[[06_单层 CDW 与维度效应 (Monolayer/Dimension)]]|\n|条目链接|[My Library](zotero://select/library/items/73VRULGH)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/8F265FWA\">Yanagizawa 等 - 2023 - Switching of charge-density wave by carrier tuning in monolayer  mmlmath xmlnsmml=httpwww.w3.</a></li><li><a href=\"zotero://open-pdf/library/items/L5LCW862\">Yanagizawa 等 - 2023 - Switching of charge-density wave by carrier tuning in monolayer  mmlmath xmlnsmml=httpwww.w3..pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

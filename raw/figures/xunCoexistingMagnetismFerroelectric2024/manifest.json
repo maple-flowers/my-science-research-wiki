@@ -4,118 +4,129 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "磁性、铁电性和铁谷性多铁性共存机制的示意图",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "Figure 1. Illustration of the mechanism of a coexisting magnetic, ferroelectric, and ferrovalley multiferroic. (a) The magnetic ground state of AA stacking bilayer lattice is the AFM state, without spontaneous valley polarization. On an AA stacking slide to AB stacking (b) or BA stacking (c), the magnetic ground state will switch to an FM state. Simultaneously, spontaneous valley polarization will be realized. The valley polarization can also be manipulated via ferroelectric switching in AB stac",
       "page": "2",
-      "attachment_key": "FSNCTE7A",
-      "file": "fig_1_FSNCTE7A.png",
+      "attachment_key": "UNCVPF48",
+      "file": "fig_1_UNCVPF48.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3",
-        "TMDs"
-      ],
-      "methods": [
-        "AFM",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
-      "title": "单层GdI2的晶体结构、电子性质及谷极化特性",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "Figure 2. (a) Crystal structures of monolayer GdI2 from top and side views. (b) Electron localization function of monolayer GdI2. (c) The calculated phonon spectrum along the high symmetry. (d) Spin-polarized band structure of monolayer GdI2. (e) The orbital-resolved band structure with consideration of SOC. (f, g) The band structures with consideration of SOC of magnetic moments along +z (f) and −z (g) axis directions, respectively.",
       "page": "2",
-      "attachment_key": "T62B3YWS",
-      "file": "fig_2_T62B3YWS.png",
+      "attachment_key": "AGA9PAPG",
+      "file": "fig_2_AGA9PAPG.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3",
-        "TMDs"
-      ],
-      "methods": [
-        "AFM",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "3",
-      "title": "双层GdI2的滑动能垒、磁性相变及全二维空间磁基态图",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "Figure 3. Sliding energy barrier between upper and lower layers of (a) AA stacking and (d) AA′ stacking bilayer GdI2. The gray and blue balls indicate that the magnetic ground states are AFM and FM states, respectively. The orange balls represent the energy minima. The energy difference between interlayer AFM and FM states as a function of interlayer translation along [11̅0] (solid red line) and [100] (dotted blue line) direction for AA stacking (b) and AA′ stacking (e) bilayer GdI2. The full sp",
       "page": "3",
-      "attachment_key": "5XFIKMXH",
-      "file": "fig_3_5XFIKMXH.png",
+      "attachment_key": "XJ7U4H33",
+      "file": "fig_3_XJ7U4H33.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3",
-        "TMDs"
-      ],
-      "methods": [
-        "AFM",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "4",
-      "title": "轨道依赖的层间交换相互作用示意图及微观磁耦合机制",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "Figure 4. (a) Schematic of the orbital dependent interlayer exchange interactions. The hopping from dz 2−dz 2 is allowed in the AFM exchange, whereas it is prohibited in the FM exchange. (b−e) The interlayer Gd nearest neighbor and second-nearest neighbor correspond to J1⊥(red) and J2⊥(blue) for AA (b), AB (c), AB′ (d), and BA′ (e) stacking, respectively. (f−i) Schematics of supersuperexchange for AA (f), AB (g), AB′ (h), and BA′ (i) stacking, respectively.",
       "page": "4",
-      "attachment_key": "FPDRWNLJ",
-      "file": "fig_4_FPDRWNLJ.png",
+      "attachment_key": "5PV9HUPZ",
+      "file": "fig_4_5PV9HUPZ.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3",
-        "TMDs"
-      ],
-      "methods": [
-        "AFM",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "5",
-      "title": "双层GdI2在SOC效应下的自旋分辨能带结构和贝里曲率",
-      "llm_description": "",
+      "title": "Figure 5",
+      "llm_description": "Figure 5. Spin-resolved band structures and Berry curvatures of AA (a, b), AB (c, d), and BA (e, f) stacking bilayer GdI2 with consideration of the SOC effect.",
       "page": "5",
-      "attachment_key": "PUGGDWWK",
-      "file": "fig_5_PUGGDWWK.png",
+      "attachment_key": "GWY2W8FP",
+      "file": "fig_5_GWY2W8FP.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3",
-        "TMDs"
-      ],
-      "methods": [
-        "AFM",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1. Interlayer Distance of Nearest Neighbors and Second-Nearest Neighbors between Gd Atoms, the Number of Magnetic Exchange Interactions per Unit Cell in Brackets, the Calculated Heisenberg Exchange Parameters, and the Energy Difference between Interlayer AFM and FM States for the Different Stacking Configurations",
+      "page": "5",
+      "attachment_key": "W2FY2753",
+      "file": "tab_1_W2FY2753.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table><thead><tr><th style=\"text-align:left\">stacking</th><th style=\"text-align:left\">Gd−Gd NN (Å)</th><th style=\"text-align:left\">Gd−Gd second-NN (Å)</th><th style=\"text-align:left\">J1⊥ (meV)</th><th style=\"text-align:left\">J2⊥ (meV)</th><th style=\"text-align:left\">J∥ (meV)</th><th style=\"text-align:left\">ΔE (meV)</th></tr></thead><tbody><tr><td style=\"text-align:left\">AA</td><td style=\"text-align:left\">8.139 [1]</td><td style=\"text-align:left\">9.145 [6]</td><td style=\"text-align:left\">0.243</td><td style=\"text-align:left\">−0.003</td><td style=\"text-align:left\">−8.253</td><td style=\"text-align:left\">−1.794</td></tr><tr><td style=\"text-align:left\">AB</td><td style=\"text-align:left\">7.888 [3]</td><td style=\"text-align:left\">8.922 [3]</td><td style=\"text-align:left\">−0.036</td><td style=\"text-align:left\">−0.007</td><td style=\"text-align:left\">−8.242</td><td style=\"text-align:left\">1.046</td></tr><tr><td style=\"text-align:left\">AB′</td><td style=\"text-align:left\">7.505 [1]</td><td style=\"text-align:left\">8.586 [6]</td><td style=\"text-align:left\">0.002</td><td style=\"text-align:left\">−0.004</td><td style=\"text-align:left\">−8.235</td><td style=\"text-align:left\">0.206</td></tr><tr><td style=\"text-align:left\">BA′</td><td style=\"text-align:left\">7.915 [3]</td><td style=\"text-align:left\">8.946 [3]</td><td style=\"text-align:left\">0.066</td><td style=\"text-align:left\">−0.008</td><td style=\"text-align:left\">−8.256</td><td style=\"text-align:left\">−1.403</td></tr></tbody></table>",
+      "page": "-"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensional Materials|\n|短标题|堆叠相关二维材料中共存的磁性、铁电性和铁谷多铁性|\n|作者|[[Wei Xun]]、 [[Chao Wu]]、 [[Hanbo Sun]]、 [[Weixi Zhang]]、 [[Yin-Zhong Wu]]、 [[Ping Li]]|\n|期刊名称|[[Nano Letters]]|\n|DOI|[10.1021/acs.nanolett.4c00597](https://doi.org/10.1021/acs.nanolett.4c00597)|\n|存档位置|157|\n|文库编目|9.1|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/XA5R9IDE)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/CL4KYHMR\">Xun 等 - 2024 - Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensio</a></li><li><a href=\"zotero://open-pdf/library/items/JMERBVLP\">Xun 等 - 2024 - Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensio.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensional Materials|\n|短标题|叠层相关二维材料中磁、铁电和铁谷共存的多铁性|\n|作者|[[Wei Xun]]、 [[Chao Wu]]、 [[Hanbo Sun]]、 [[Weixi Zhang]]、 [[Yin-Zhong Wu]]、 [[Ping Li]]|\n|期刊名称|[[Nano Letters]]|\n|DOI|[10.1021/acs.nanolett.4c00597](https://doi.org/10.1021/acs.nanolett.4c00597)|\n|存档位置|157|\n|文库编目|9.1|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/XA5R9IDE)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/CL4KYHMR\">Xun 等 - 2024 - Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensio</a></li><li><a href=\"zotero://open-pdf/library/items/JMERBVLP\">Xun 等 - 2024 - Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensio.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "3",
+      "attachment_key": "HMB6GSG3",
+      "file": "eq_1_HMB6GSG3.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "{ (2)",
+      "page": "3",
+      "attachment_key": "2UWTWG35",
+      "file": "eq_2_2UWTWG35.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4)",
+      "page": "3",
+      "attachment_key": "Y73M54I7",
+      "file": "eq_4_Y73M54I7.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "(5)",
+      "page": "5",
+      "attachment_key": "WFIGIAI3",
+      "file": "eq_5_WFIGIAI3.png"
+    }
+  ],
   "tags": [
     "Done"
   ],
-  "materials": [
-    "In2Se3",
-    "TMDs"
-  ],
-  "methods": [
-    "AFM",
-    "DFT"
-  ]
+  "materials": [],
+  "methods": []
 }

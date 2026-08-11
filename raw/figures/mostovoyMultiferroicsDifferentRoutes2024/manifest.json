@@ -1,0 +1,132 @@
+{
+  "parent_key": "mostovoyMultiferroicsDifferentRoutes2024",
+  "title": "mostovoyMultiferroicsDifferentRoutes2024",
+  "figures": [],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Multiferroics: different routes to magnetoelectric coupling|\n|短标题|多铁性：磁电耦合的不同途径|\n|作者|[[Maxim Mostovoy]]|\n|期刊名称|[[npj Spintronics]]|\n|DOI|[10.1038/s44306-024-00021-8](https://doi.org/10.1038/s44306-024-00021-8)|\n|存档位置|60|\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[04_磁电耦合机制 (Magnetoelectric Coupling)]]|\n|条目链接|[My Library](zotero://select/library/items/EVS3WP63)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/SRQTK7U5\">Mostovoy - 2024 - Multiferroics different routes to magnetoelectric coupling</a></li><li><a href=\"zotero://open-pdf/library/items/BIGE3L5J\">Mostovoy - 2024 - Multiferroics different routes to magnetoelectric coupling.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_10",
+      "title": "Equation 10",
+      "content": "ð10Þ",
+      "page": "3",
+      "attachment_key": "NU8CEAAU",
+      "file": "eq_10_NU8CEAAU.png"
+    },
+    {
+      "id": "eq_11",
+      "title": "Equation 11",
+      "content": "ð11Þ",
+      "page": "3",
+      "attachment_key": "DINMRTDI",
+      "file": "eq_11_DINMRTDI.png"
+    },
+    {
+      "id": "eq_12",
+      "title": "Equation 12",
+      "content": "ð12Þ",
+      "page": "3",
+      "attachment_key": "MALCEW7I",
+      "file": "eq_12_MALCEW7I.png"
+    },
+    {
+      "id": "eq_13",
+      "title": "Equation 13",
+      "content": "ð13Þ",
+      "page": "4",
+      "attachment_key": "EFE9JBVM",
+      "file": "eq_13_EFE9JBVM.png"
+    },
+    {
+      "id": "eq_14",
+      "title": "Equation 14",
+      "content": "ð14Þ",
+      "page": "4",
+      "attachment_key": "7JCIPNNW",
+      "file": "eq_14_7JCIPNNW.png"
+    },
+    {
+      "id": "eq_15",
+      "title": "Equation 15",
+      "content": "ð15Þ",
+      "page": "4",
+      "attachment_key": "B3WEWD6S",
+      "file": "eq_15_B3WEWD6S.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "ð2Þ",
+      "page": "2",
+      "attachment_key": "FC5RTYXX",
+      "file": "eq_2_FC5RTYXX.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "ð3Þ",
+      "page": "2",
+      "attachment_key": "QT46AJ4D",
+      "file": "eq_3_QT46AJ4D.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "ð4Þ",
+      "page": "2",
+      "attachment_key": "VS5SN3GH",
+      "file": "eq_4_VS5SN3GH.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "ð5Þ",
+      "page": "2",
+      "attachment_key": "CHV2BXBT",
+      "file": "eq_5_CHV2BXBT.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "ð6Þ",
+      "page": "2",
+      "attachment_key": "MIR7PCTA",
+      "file": "eq_6_MIR7PCTA.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "ð7Þ",
+      "page": "2",
+      "attachment_key": "NKBIRD92",
+      "file": "eq_7_NKBIRD92.png"
+    },
+    {
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "ð8Þ",
+      "page": "3",
+      "attachment_key": "R4NXDVHZ",
+      "file": "eq_8_R4NXDVHZ.png"
+    },
+    {
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "ð9Þ",
+      "page": "3",
+      "attachment_key": "6K6YYPVD",
+      "file": "eq_9_6K6YYPVD.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

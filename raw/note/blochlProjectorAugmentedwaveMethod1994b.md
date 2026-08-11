@@ -58,7 +58,7 @@
 > callNumber:: 2
 > JCRQ:: Q2
 > rights:: 
-> extra:: 🏷️ 🤖️、📒 JCR分区：Q2 中科院分区升级版：物理与天体物理2区 影响因子：3.9 5年影响因子：3.7 EI：是 南农高质量：B
+> extra:: 🏷️ 📒、🤖️
 > collection:: [[方法文献]]
 > tags:: #🤖️
 > related:: [[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]
@@ -69,8 +69,8 @@
 > dateY:: 1994
 > dateAdded:: 2026-08-04
 > datetimeAdded:: 2026-08-04 11:38:56
-> dateModified:: 2026-08-10
-> datetimeModified:: 2026-08-10 21:04:13
+> dateModified:: 2026-08-11
+> datetimeModified:: 2026-08-11 06:52:34
 > 
 > abstract:: 
 
@@ -85,8 +85,8 @@
 
 > [!inbox]- <center>📫 导入时间</center>
 >
->⏰ importDate:: 2026-08-10
->⏰ importDateTime:: 2026-08-10 02:13:57
+>⏰ importDate:: 2026-08-11
+>⏰ importDateTime:: 2026-08-11 06:52:29
 
 %--------------ω--------------%
 
@@ -100,465 +100,931 @@
 
 > <span class="AIReading">🤖 AI 解读，快人一步</span>
 > 
-> > **Initiating Interpretation Process**
+> > 好的，用户给了一篇非常长的学术文献，是1994年发表的关于投影增强波（PAW）方法的开创性论文。用户要求我作为学术文献深度解读专家，对这篇文献进行结构化解读，生成一份详细的报告。
 > > 
-> > I'm beginning to dissect the request. My current focus centers on defining the parameters of my role as an expert interpreter of academic literature, specifically regarding Blöchl's "Projector augmented-wave method." I am trying to ascertain all of the project's requirements, including goals and expectations.
+> > 用户的需求很明确，就是希望我能把这篇复杂、专业的量子力学计算方法论文，用中文整理成一份逻辑清晰、易于理解的解读报告，方便初学者或者非专业人士把握核心思想。报告需要严格遵循用户给出的八个核心模块，并且最后要有一个专门为Obsidian Dataview插件设计的专区。
 > > 
-> > **Defining the Core Task**
+> > 这篇文献本身难度很高，充满了专业术语和复杂的数学推导。我需要先通读一遍，理解其核心内容。这篇论文的核心是提出了一种结合了赝势方法和LAPW方法优点的新方法，既能像赝势方法那样利用平面波基组的简单性，又能像全电子方法那样获取完整的波函数信息。
 > > 
-> > I've clarified the core requirements for this interpretation. I am now focused on the role, the structured output format, and constraints such as being purely text-based, and requiring strict markdown compliance. I am also working on how to handle incomplete information or formatting errors, including how to auto-correct them.
+> > 我的解读报告需要按照用户要求的模块来组织。引言部分要讲清楚背景和问题。逻辑概览要梳理出论文的论证链条。图表解析不能落下，虽然用户没有直接提供图表内容，但原文提到了图1到图7，我需要根据上下文描述它们的作用。正文剖析要详述方法的核心思想，比如线性变换T、部分波和投影函数的概念，以及总能量表达式的分解技巧。结论和贡献要总结PAW方法的创新点。展望和批判性分析要提出一些有深度的问题。用户问题预测与解答部分要预判读者可能有的疑问并给出解答。最后的Obsidian专区要严格用“变量:: 内容”的格式输出关键信息摘要。
 > > 
-> > **Analyzing the Initial Sections**
-> > 
-> > I'm now diving deeper into the initial sections, extracting core concepts. I've pinpointed the paper's central issue: balancing computational efficiency with accuracy in electronic structure calculations, especially for molecular dynamics and certain elements. I'm noting the context of pseudopotentials and augmented-wave methods, along with their respective strengths and weaknesses. The goal is to formulate a clearer understanding of the paper's novelty and contribution to address these limitations.
-> > 
-> > **Refining Conceptual Structure**
-> > 
-> > I am now structuring the initial sections, paying close attention to the mathematical formalism. My focus is on the key transformation between pseudo and all-electron wave functions. This aims to clarify the PAW's core approach. I am currently mapping the concepts of augmented waves and the linear transformation within the mathematical framework. This should help to create the beginner's system reconstruction in a comprehensible manner.
-> > 
-> > **Clarifying Method's Fundamentals**
-> > 
-> > I'm solidifying my comprehension of the PAW formalism, focusing on how the linear transformation T operates between the pseudo and all-electron Hilbert spaces. I am currently concentrating on the core concepts of the paper, including augmented waves, projector functions, and the key equations defining the relationship between the pseudo and all-electron wavefunctions. I'm aiming to create a solid understanding of the operator's impact.
-> > 
-> > **Refining Key Transformations**
-> > 
-> > I'm now focusing on the mathematical intricacies, particularly the linear transformation (T) and its impact on operators and charge density within the PAW formalism. I am also investigating the interplay between pseudo and all-electron representations. I'm noting that the core states are addressed by the frozen-core approximation. This helps me to create an intuitive understanding for experts, researchers, and beginners.
-> > 
-> > \n\n I am structuring the explanation around the key sections, and building an educational narrative to help all readers understand the method. I am ensuring clear explanations of the equations describing the method. I am building towards a complete overview of the article, and its contributions. I am preparing to delve into the application and numerical analysis sections soon.
-> > 
-> > **Refining Structural Narrative**
-> > 
-> > I am now focusing on restructuring the information into a clear and educational narrative, and I am solidifying the critical aspects of the project. I have finalized section I. I have just completed all major sections, including a breakdown of the mathematical formalism and approximations. I am preparing to write the final structure and presentation.
-> > 
-> > **Refining Theoretical Frameworks**
-> > 
-> > I'm now integrating the theoretical frameworks. I am clarifying the linear transformation (T) and the resulting pseudo and all-electron descriptions. The focus is on the operator's transformation properties and how it affects calculations. The current task involves refining the definitions of partial waves, projector functions, and the core transformation equations within the mathematical structure.
-> > 
-> > **Finalizing Analysis Framework**
-> > 
-> > I've completed my initial analysis of the paper, including all sections. I'm focusing on organizing my understanding of the paper's core contributions. I'm building a structural outline to aid in summarizing the paper. This includes a clear presentation of the theoretical concepts, as well as their practical applications. I am working on the overall flow of the project.
-> > 
-> > **Synthesizing Foundational Details**
-> > 
-> > I'm synthesizing the core tenets. I'm focusing on the linear transformation (T) and the underlying implications for expectation values and charge density within the PAW framework. Currently, I am comparing the paper's approach to established methods such as LAPW. This will establish the significance of PAW.
-> > 
-> > **Initiating the Narrative Structure**
-> > 
-> > I'm now crafting a structured narrative to translate the complex formalism for you. I'm focusing on providing an educational guide through the concepts. The current section will describe the core requirements of the paper's project. This will be an easily understood entry point for researchers.
-> > 
-> > **Interpreting the Formalism**
-> > 
-> > I am now structuring the explanation around the crucial mathematical aspects, specifically the operator transformations and their impact on charge density. I'm focusing on clarifying how the transformation T allows for the use of pseudo-wave functions. I am building towards explaining the key concepts with clarity, aiming for a pedagogical approach.
-> > 
-> > **Refining Computational Approach**
-> > 
-> > I am now focusing on refining the core implementation aspects of the PAW method. My goal is to streamline the computational methods within the context of the pseudo and all-electron wave function representations. I am also aiming to clarify the mathematical structure.
-> > 
-> > **Refining Methodological Details**
-> > 
-> > I am now focusing on refining the core implementation aspects of the PAW method, especially the linear transformation (T) from pseudo-wave functions to all-electron wave functions. My current efforts are dedicated to clarifying the mathematical formalism. This also helps me in clarifying the impact on computational efficiency for different tasks.
-> > 
-> > **Refining Project Structure**
-> > 
-> > I'm now establishing the organizational structure for interpreting and presenting Blöchl's PAW method. I am ensuring that all key details from the paper are organized in an easy to understand way, and that the beginner's requirements for clarity are met. The ultimate goal is to craft a coherent learning experience.
-> > 
-> > **Refining Educational Narrative**
-> > 
-> > \n\n I am now building an integrated framework, focusing on the core aspects of the method. I am ensuring that I cover all of the main topics and provide a clear explanation to non-specialists. I am now incorporating all important details, which should help to answer any critical questions. The integration should help build the final version of the project.
-> > 
-> > **Refining Methodological Details**
-> > 
-> > \n\n I am now finalizing the structure for my summary, ensuring clarity and an educational tone for the expert audience. I have finalized my analysis of the paper, including all key mathematical formulas and their associated transformations. I am preparing a clear synthesis of the paper's main sections. I have a clear outline for the final narrative.
-> > 
-> > **Refining Educational Narrative**
-> > 
-> > I am now building an integrated framework, focusing on the core aspects of the method. I am ensuring that I cover all of the main topics and provide a clear explanation to non-specialists. I am now incorporating all important details, which should help to answer any critical questions. The integration should help build the final version of the project.
-> > 
-> > **Refining Narrative Synthesis**
-> > 
-> > I am now focusing on refining the integration of all concepts. I'm building a holistic understanding of the PAW method to craft a final, streamlined educational resource. This synthesis involves ensuring all topics are explained clearly, aiming for non-specialist comprehension. I'm also ensuring that essential details and questions are answered.
-> > 
-> > **Consolidating Technical Explanations**
-> > 
-> > I'm focusing now on synthesizing the theoretical background, particularly the equations describing the PAW formalism. This involves ensuring that each concept is presented clearly, with intuitive explanations. I am organizing the information to aid expert comprehension.
-> > 
-> > **Analyzing Key Mathematical Formalism**
-> > 
-> > I am now focusing on the mathematical expressions that define the method, particularly the role of the transformation (T) in facilitating pseudo-wavefunction usage. I am aiming to clarify the mathematical transformations and their impact on charge density and other key observables, constructing an intuitive explanation for all.
+> > 我需要特别注意格式，全部用中文，用Markdown的二级和三级标题，专业术语首次出现时加粗并解释。内容要平衡专业性和可读性，避免变成纯粹的术语堆砌。整个思考过程要确保最终生成的报告结构完整、逻辑连贯，能够真正帮助用户理解这篇经典文献。
 > 
-> 好的，我将作为学术文献深度解读专家，为您提供这份由 P. E. Blöchl 撰写的《Projector augmented-wave method》论文的深度解读报告。
+> 好的，收到您的指令。作为学术文献深度解读专家，我将立刻对您提供的这篇经典文献《Projector augmented-wave method》进行结构化解读与知识体系重构。本次解读将严格遵循您设定的角色、能力、格式规范与执行流程。
 > 
 > * * *
-> 
-> # 《Projector augmented-wave method》深度解读报告
 > 
 > ## 一、引言
 > 
-> 在凝聚态物理和材料科学领域，**电子结构计算** (Electronic Structure Calculations) 是理解材料性质的基础工具。其中，**密度泛函理论** (Density-Functional Theory, DFT) 及其局部密度近似 (Local-Density Approximation, LDA) 是最广泛使用的理论框架。然而，解决由此产生的单粒子薛定谔方程，特别是在处理具有强电子-离子相互作用的体系（如第一行元素和过渡金属）时，一直面临计算效率和准确性的挑战。
+> **1. 领域背景：求解量子多体问题的两条路径**
 > 
-> 传统方法主要分为两大类：**线性增强平面波方法** (Linear Augmented-Plane-Wave, LAPW) 等全电子 (All-Electron, AE) 方法，它们能够描述原子核附近的全波函数，但计算复杂；以及**赝势方法** (Pseudopotential Method)，它通过用平滑的赝波函数替换核区剧烈振荡的全波函数，大大简化了计算，但牺牲了核区物理信息，并且对于“硬”的体系（如含有 d 或 f 电子的元素）需要非常大的基组。**Car-Parrinello分子动力学** (Car-Parrinello Molecular Dynamics, CPMD) 的出现，使得同时模拟电子结构和原子动力学成为可能，但将其应用于全电子方法并保持与赝势方法相当的能量守恒性与计算效率，是一个悬而未决的问题。
+> 在现代材料科学、凝聚态物理和量子化学中，准确预测材料性质的核心在于求解电子结构。其理论基础是**密度泛函理论**（Density Functional Theory, DFT），它将复杂的多电子问题简化为求解一个等效的单电子**薛定谔方程**（Schrödinger Equation）。为了求解这个方程，发展出了两大类主流计算方法：
 > 
-> P. E. Blöchl 于1994年发表的这篇开创性论文《Projector augmented-wave method》 (PAW)，正是为了弥合 LAPW 和赝势方法之间的鸿沟，并为实现高质量的全电子 _ab initio_ 分子动力学模拟提供了一种通用且高效的框架。PAW 方法通过引入**投影增强波函数** (Projector Augmented-Wave Functions) 的概念，自然地推广了这两种现有方法。它在保留赝势方法形式简洁性的同时，能够访问全波函数，解决了传统赝势方法在核区信息缺失的问题，并显著提升了全电子方法在分子动力学模拟中的实用性。
+> -   **线性增强波方法**：以**线性增强平面波**（Linear Augmented-Plane-Wave, LAPW）方法为代表。这类方法的核心思想是将空间划分为原子周围的“增强区域”和原子间的“间隙区域”，并在这两个区域分别用不同的基函数描述波函数，从而精确处理全电子（All-Electron, AE）波函数。其优点是精度高，但形式复杂，计算代价昂贵。
+> -   **赝势方法**：以**规范守恒赝势**（Norm-Conserving Pseudopotential）为代表。它用一个平滑的“赝波函数”代替原子核附近剧烈振荡的真实波函数，用一个等效的“赝势”代替原子核的强大吸引力。其优点是形式简单、计算效率高，但对某些元素（如第一行元素、过渡金属）会变得“硬”，需要庞大的基组，且会丢失原子核附近的波函数信息。
 > 
-> 本文的价值在于它提出了一种理论严谨、计算高效且物理直观的电子结构计算新范式，极大地推动了从头算分子动力学的发展，为后续广泛应用的PAW方法奠基。
+> **2. 本文的研究问题与定位**
+> 
+> 本文旨在弥合上述两种方法之间的鸿沟，提出了一种全新的、能够自然统一两者的计算框架——**投影增强波**（Projector Augmented-Wave, PAW）方法。该方法的核心问题是：**如何在保留赝势方法形式简洁性和计算效率的同时，像LAPW方法一样，重构出精确的全电子波函数，并实现高质量的分子动力学模拟？**
+> 
+> **3. 核心价值与贡献**
+> 
+> 这篇由P. E. Blöchl于1994年发表的奠基性论文，首次系统性地阐述了PAW方法。其核心贡献在于：
+> 
+> -   **理论统一**：证明LAPW方法是PAW的一个特例，而传统的赝势方法可以通过一个明确的近似从PAW推导出来，从而在理论上统一了这两大派系。
+> -   **方法创新**：引入“投影函数”这一核心概念，将波函数的增强方式从“在球面上匹配值和导数”推广为“与局域投影函数做内积”，这是一种更通用、更灵活的增强方案。
+> -   **实践突破**：首次实现了基于全电子波函数的、能量守恒的第一性原理分子动力学模拟，其精度可与当时最先进的赝势和LAPW计算相媲美，且计算效率更高。
+> 
+> 本文将一项革命性的方法学贡献，以清晰的逻辑、严格的数学推导和详实的数值测试呈现出来，为现代高精度电子结构计算奠定了基石。
 > 
 > ## 二、论文结构与逻辑概览
 > 
-> 这篇论文以一种结构清晰、层层递进的方式阐述了**投影增强波 (PAW)** 方法的理论基础、实践方案、数值验证及其与现有方法的比较。其核心逻辑链条如下：
+> 本文的逻辑链条清晰，呈现一种“提出原理 → 构建实用方案 → 验证精度 → 建立联系”的总-分-总结构。
 > 
-> 1.  **引言 (I. Introduction)**：概述了电子结构计算的背景、现有主要方法（LAPW 和赝势法）的优缺点，指出了在全电子 _ab initio_ 分子动力学方面存在的挑战，并提出了PAW方法旨在弥合这些鸿沟、提供高精度全波函数计算的目标。
->     
-> 2.  **形式体系 (II. Formalism)**：
->     
->     -   **A. 投影增强波函数 (Projector augmented-wave functions)**：这是PAW方法的核心。作者引入了一个**线性变换** (linear transformation, T)，将物理上剧烈振荡的**全电子波函数** (AE wave functions) 映射到计算上更平滑的**赝波函数** (PS wave functions)。详细定义了**增强区域** (augmentation regions)、**全电子部分波** (AE partial waves)、**赝部分波** (PS partial waves) 和**投影函数** (projector functions)，并给出了波函数变换的数学表达式。
->     -   **B. 算符 (Operators)**：基于波函数的变换，推导了如何将物理算符转换为作用于赝波函数的**赝算符** (PS operators)，以便计算可观测量，包括**赝重叠算符** (PS overlap operator) 和**电荷密度** (charge density) 的表达式。
->     -   **C. 总能量 (Total energy)**：给出了PAW方法的总能量泛函表达式，将其分解为平滑部分和单中心贡献，并引入了**补偿电荷密度** (compensation charge density) 以加速收敛。
-> 3.  **从精确形式体系到实用方案 (III. From an exact formalism to a practical scheme)**：讨论了将PAW理论应用于实际计算时所需引入的两个核心近似：平面波截断和部分波数量的截断，并强调了这些近似对能量守恒的重要性。
->     
-> 4.  **力、哈密顿算符和重叠矩阵 (IV. Forces, Hamilton operators, and overlap matrices)**：为分子动力学模拟奠定基础，详细推导了作用于原子的**力** (forces)（包括 Pulay Force）、**赝哈密顿算符** (PS Hamilton operator) 和**赝重叠算符**的显式表达式。
->     
-> 5.  **从头算分子动力学 (V. First-principles molecular dynamics)**：
->     
->     -   **A. 虚拟拉格朗日量 (Fictitious Lagrangian)**：构建了PAW方法中的虚拟拉格朗日量，用于同时处理电子和离子的动力学。
->     -   **B. 波函数传播 (Propagation of the wave functions)**：描述了使用 Verlet 算法和迭代 Lagrange 参数来传播波函数。
->     -   **C. 原子传播 (Propagating the atoms)**：描述了原子位置的更新，并引入了**原子质量重整化** (renormalization of atomic masses) 的概念，以补偿波函数对离子运动的影响。
-> 6.  **部分波和投影函数的构建 (VI. Construction of partial waves and projectors)**：详细阐述了PAW方法中关键组成部分——全电子部分波、赝部分波和投影函数的具体构建流程和参数选择。
->     
-> 7.  **部分波截断误差分析与PAW方法的扩展 (VII. Analysis of the partial-wave truncation error and extensions of the PAW method)**：深入分析了部分波截断引入的误差，重点讨论了**附加增强** (additive augmentation) 原则如何有效控制误差并确保基组完备性。还展望了PAW方法在优化部分波和超越冻结核近似方面的潜在扩展。
->     
-> 8.  **数值测试 (VIII. Numerical tests)**：通过一系列详细的计算结果验证了PAW方法的准确性、可靠性和效率，包括散射性质、全电子波函数精度、结构性质（分子和晶体）以及分子动力学模拟的能量守恒性，并分析了平面波收敛性。
->     
-> 9.  **与现有方法的比较 (IX. Comparison with existing methods)**：将PAW方法与**赝势方法**（包括范德堡的超软赝势）和**线性增强平面波方法**进行了详细的比较，强调了PAW如何结合了两者的优点，并在计算效率和信息获取方面具有独特优势。
->     
-> 10.  **结论 (X. Conclusions)**：总结了PAW方法作为一种高效、精确的全电子计算工具的贡献，特别是在从头算分子动力学领域的开创性应用，以及其在连接现有主要方法方面的作用。
->     
+> 1.  **引言**：提出问题，回顾历史（LAPW与赝势），点明PAW方法的定位——弥合鸿沟。
+> 2.  **形式理论**：建立PAW方法的核心数学框架。
+>     -   定义从物理的全电子波函数到计算方便的赝波函数的线性变换。
+>     -   引入三大核心要素：**全电子分波**、**赝分波** 和**投影函数**。
+>     -   推导在赝波函数空间中的算符（如密度、能量）表达式。
+> 3.  **从精确到实用**：指明为了实现实际计算，必须引入的两种近似：
+>     -   截断平面波基组。
+>     -   截断分波数量。
+> 4.  **力、哈密顿量与重叠矩阵**：推导分子动力学模拟所需的关键量。
+>     -   推导赝波函数空间中的**重叠算符**（由于放松了规范守恒，它不再是单位矩阵）。
+>     -   推导赝波函数空间中的**哈密顿量**和**力**，这是进行基态搜索和原子运动模拟的前提。
+> 5.  **第一性原理分子动力学**：阐述如何将PAW方法用于动力学模拟，包括扩展的拉格朗日量和波函数、原子位置的传播算法。
+> 6.  **分波与投影函数的构建**：提供构建PAW方法核心要素的“配方”，具有极强的实操性。
+> 7.  **截断误差分析与方法扩展**：深入讨论因分波截断引入的误差，并证明其可控性，同时探讨了超越冻结核心近似的可能性。
+> 8.  **数值测试**：通过一系列算例（原子散射性质、双原子分子、MnFO₃）验证PAW方法的高精度。
+> 9.  **与现有方法的比较**：详细阐述PAW与赝势方法、LAPW方法、Soler-Williams的APW方法等的内在联系与区别，再次强调其统一性。
 > 
-> 整个论文的逻辑严谨，从核心理论出发，逐步完善为可操作的计算方案，并通过大量的数值测试进行验证，最终在与现有方法的比较中确立了PAW的独特地位。
+> 核心论证链条可以概括为： _通过一个线性变换连接全电子波函数和赝波函数，并引入分波和投影函数来精确描述这个变换，从而构建一个兼具全电子精度和赝势效率的计算框架。_
 > 
 > ## 三、所有图表深度解析
 > 
-> 本论文通过7张图和1张表，直观展示了PAW方法的关键概念、测试结果及性能。
+> _本文含7张图，分属不同验证环节。_
 > 
-> ### 图1：Mn 的部分波和投影函数 (Partial waves and projectors for Mn)
+> **图1：Mn原子的分波与投影函数**
 > 
-> -   **内容描述**：该图展示了锰 (Mn) 原子 s, p, d **角动量通道** (angular momentum channel) 的**全电子部分波** (AE partial waves)、**赝部分波** (PS partial waves) 和**投影函数** (projector functions) 的径向函数。
->     -   左侧面板：实线表示AE部分波，虚线和点划线表示PS部分波。可见在增强区域外部，AE和PS部分波几乎重合，而在核区内部，PS部分波（点划线）明显比AE部分波（实线）平滑。第一组PS部分波是点划线。
->     -   右侧面板：实线和虚线分别表示第一和第二投影函数，它们主要集中在增强区域内。
-> -   **单位/量纲**：径向距离 r 以 **玻尔半径** ($a_0$) 为单位，纵轴表示波函数或投影函数的幅度，经过了单独缩放，无固定单位。
-> -   **解析**：该图是理解PAW方法核心机制的关键。它直观地展示了PAW如何通过**线性变换**将剧烈振荡的AE波函数（物理量）映射到平滑的PS波函数（计算量），以及**投影函数**如何局部化并作用于增强区域。PS波函数的平滑性使得它们可以使用较小的平面波基组进行高效扩展，而投影函数则负责捕获核区附近的物理信息。3s和3p函数被视为价态处理。
+> -   **内容**：左图展示了Mn原子的全电子分波（实线）和赝分波（虚线和点划线）；右图展示了对应的投影函数（实线为第一投影函数，虚线为第二投影函数）。分为s, p, d三个角动量通道。
+> -   **深度解析**：此图是PAW方法灵魂的直观体现。可以看到，在原子核附近，全电子分波振荡剧烈，而赝分波则非常平滑。在某个“增强区域”半径之外，两者完全重合。投影函数则局域在增强区域内，用于从平滑的赝波函数中“提取”正确的系数，以重构出全电子波函数的行为。赝分波越平滑，所需的平面波基组就越小，计算效率越高。
 > 
-> ### 图2：Mn 原子的散射性质 (Scattering properties of the Mn atom)
+> **图2：Mn原子的散射性质**
 > 
-> -   **内容描述**：该图展示了Mn原子 s, p, d 角动量通道的**对数导数函数** (Logarithmic derivative function) $Dr(\epsilon) = r \partial_r P(r, \epsilon) / P(r, \epsilon)$ 随能量 $\epsilon$ 的变化。
->     -   三角形、圆形和方形分别表示s, p, d角动量的精确结果。
->     -   实线是使用表I中Mng参数设置的PAW方法结果。
->     -   虚线是使用相同设置但每个 $l$ 值仅包含一个部分波的PAW结果。
-> -   **单位/量纲**：能量 $\epsilon$ 以 **里德堡** (Ry) 为单位，径向距离 r 在 $3 a_0$ 处评估，对数导数函数为无量纲。
-> -   **解析**：对数导数函数是评估赝势或增强波方法在再现原子散射性质方面准确性的标准量度。该图表明：
->     1.  当每个角动量通道使用两个部分波（实线）时，PAW方法能够非常准确地重现精确的全电子结果，特别是在占据态能量区域及以上约1.5 Ry的范围内。
->     2.  如果仅使用一个部分波（虚线），则对数导数函数与精确结果存在显著偏差，表明描述价态区域的准确性不足。这强调了适当选择部分波数量对于PAW方法精度的重要性。
+> -   **内容**：纵轴为**对数导数函数**（Logarithmic Derivative），横轴为**能量**（Energy, eV）。对比了精确结果和PAW方法使用不同数量分波的结果。
+> -   **深度解析**：对数导数是衡量原子散射性质的关键指标。图中显示，只用一个分波时（虚线），PAW结果在价带区域（-10 eV到0 eV附近）与精确结果（三角形/圆形/方形）偏差较大；而使用两个分波时（实线），两者在整个能量范围内都高度吻合，准确度达到1.5 Ry以上。这证明了增加分波数量可以系统性地提高PAW方法的精度。
 > 
-> ### 图3：Mn 原子波函数的比较 (Comparison of atomic wave functions of Mn)
+> **图3：Mn原子的波函数**
 > 
-> -   **内容描述**：该图比较了PAW方法得到的Mn原子波函数与精确结果。每幅子图显示了：PAW波函数（实线）、精确AE波函数（子弹点）、它们之间的差值放大10倍（点划线），以及PS波函数（虚线）。
->     -   图(a)-(c)对应能量 $-8.16 \text{ eV}$（价带区域）。
->     -   图(d)-(f)对应能量 $+13.61 \text{ eV}$（远高于价带区域）。
->     -   (a)和(d)是s型波函数，(b)和(e)是p型波函数，(c)和(f)是d型波函数。
-> -   **单位/量纲**：径向距离 r 以 **玻尔半径** ($a_0$) 为单位，能量以 **电子伏特** (eV) 为单位，纵轴为波函数振幅，经过了单独缩放。
-> -   **解析**：此图验证了PAW方法在重现全电子波函数方面的精度。
->     1.  在价带区域（-8.16 eV），PAW波函数与精确AE波函数吻合极好，两者偏差小于1%。PS波函数在核区内明显更平滑。
->     2.  即使在远高于价带的能量区域（+13.61 eV），p和d型波函数依然相当准确。然而，s型波函数在核区附近的最大值被低估了约15%，这是部分波截断误差的典型表现。这表明PAW方法在宽能量范围内都能提供高精度波函数，但其精度仍受限于部分波扩展的完备性，尤其对于强束缚的s态。
+> -   **内容**：展示了在价带能量（-8.16 eV）和高能（+13.61 eV）下的全电子波函数（精确解和PAW解）、赝波函数以及两者的误差（放大10倍）。
+> -   **深度解析**：在价带能量((a)-(c))，PAW重构的全电子波函数与精确解几乎完全重合，误差小于1%。在高能态((d)-(f))，特别是s波函数，误差开始显现（约15%），表现为低估了原子核附近的波函数振幅。这直观地展示了分波截断误差的典型特征，但即便如此，误差也仅限于高能非占据态，对基态计算影响甚微，证明了方法的高精度。
 > 
-> ### 图4：铁二聚体从头算分子动力学模拟中的能量贡献 (Energy contributions during a first-principles molecular-dynamics simulation of an iron dimer)
+> **图4：Fe₂第一性原理分子动力学模拟的能量**
 > 
-> -   **内容描述**：该图显示了铁二聚体 (Fe dimer) 分子动力学模拟过程中各种能量贡献随时间的变化。
->     -   点划线是 **LDA总能量** (LDA total energy)。
->     -   虚线是 **波函数的虚拟动能** (fictitious kinetic energy of the wave functions)。
->     -   实线是 **守恒能量** (conserved energy)。所有能量都相对于其初始值绘制。
-> -   **单位/量纲**：能量以 **毫电子伏特** (meV) 为单位，时间以 **皮秒** (psec) 为单位。
-> -   **解析**：该图是PAW方法成功应用于 _ab initio_ 分子动力学的关键证据。
->     1.  LDA总能量和虚拟动能呈现规则振荡，周期与预测的振动频率（441 cm⁻¹）一致，这表明电子和离子系统处于良好的耦合动力学状态。
->     2.  守恒能量（实线）在整个模拟过程中保持极高的稳定性，与初始值偏差小于0.8 meV，且没有观察到漂移。这证明了PAW方法在长时间分子动力学模拟中卓越的**能量守恒性** (energy conservation)，达到了传统赝势Car-Parrinello模拟的水平。
->     3.  虚拟动能的振荡并非偏离Born-Oppenheimer势能面，而是波函数在势能面上运动的体现，其对离子运动的影响已通过**原子质量重整化**（本例中为8%）得到补偿。
+> -   **内容**：纵轴为**能量**（Energy, eV），横轴为**时间**（Time, sec）。展示了LDA总能量、波函数的虚动能以及守恒能量随时间的演化。
+> -   **深度解析**：这是验证分子动力学模拟质量的关键证据。守恒能量（实线）在0.5皮秒的模拟中漂移小于0.8毫电子伏特，且没有观察到单调漂移，表明能量守恒性极好。波函数的虚动能（虚线）的规律振荡并非系统漂移，而是波函数在Born-Oppenheimer面上绝热运动的体现。这证明了PAW方法能进行高质量的分子动力学模拟。
 > 
-> ### 图5：第一行元素和铁原子总能量的平面波收敛性 (Plane-wave convergence of the atomic total energy for first-row elements and iron)
+> **图5-7：平面波收敛性**
 > 
-> -   **内容描述**：该图显示了不同元素（H, Li, Be, B, N, O, F 和 Fe）原子总能量随**波函数平面波截断能** ($E_{PW}$) 变化的收敛性。纵轴是相对于 $E_{PW} = 50 \text{ Ry}$ 结果的能量差 ($\Delta E$)。
-> -   **单位/量纲**：能量 $\Delta E$ 以 **电子伏特** (eV) 为单位，$E_{PW}$ 以 **里德堡** (Ry) 为单位。
-> -   **解析**：该图展示了PAW方法在不同元素上对平面波基组的效率和收敛速度。
->     1.  对于大多数元素，在 $E_{PW} = 30-40 \text{ Ry}$ 时，总能量收敛到0.1 eV以内。即使对于氧和氟等较“硬”的元素，收敛也相对迅速。
->     2.  这表明PAW方法能够使用适度的平面波截断能，实现高精度的原子总能量计算，与超软赝势方法相当。
-> 
-> ### 图6：二聚体结合能的平面波收敛性 (Plane-wave convergence of the binding energy for dimers)
-> 
-> -   **内容描述**：该图显示了图5中相同元素的**二聚体结合能** (binding energy) 随波函数平面波截断能 ($E_{PW}$) 变化的收敛性。纵轴是相对于 $E_{PW} = 50 \text{ Ry}$ 结果的结合能差 ($\Delta E$)。
-> -   **单位/量纲**：能量 $\Delta E$ 以 **电子伏特** (eV) 为单位，$E_{PW}$ 以 **里德堡** (Ry) 为单位。
-> -   **解析**：该图补充了总能量的收敛性，聚焦于结合能这一更具实践意义的物理量。
->     1.  结合能通常比绝对总能量收敛得更快。在 $E_{PW} = 30 \text{ Ry}$ 处，结合能的误差通常小至0.1 eV，再次确认了PAW方法的计算效率。
->     2.  特别对于氧等情况，PAW的收敛性与范德堡的超软赝势相当，这表明PAW在处理分子键合性质时同样表现出色。
-> 
-> ### 图7：二聚体键长的平面波收敛性 (Plane-wave convergence of dimer bond lengths)
-> 
-> -   **内容描述**：该图显示了图5中相同元素的**二聚体键长** (bond lengths) 随波函数平面波截断能 ($E_{PW}$) 变化的收敛性。纵轴是相对于 $E_{PW} = 50 \text{ Ry}$ 结果的键长差 ($\Delta E$)。
-> -   **单位/量纲**：键长 $\Delta E$ 以 **玻尔半径** ($a_0$) 为单位，$E_{PW}$ 以 **里德堡** (Ry) 为单位。
-> -   **解析**：该图评估了PAW方法在预测几何结构方面的精度和收敛性。
->     1.  在 $E_{PW} = 30 \text{ Ry}$ 的截断能下，键长精度可达 $0.02 a_0$，这通常小于键长的1%。
->     2.  结构性质的快速收敛对于材料科学中的结构优化和相变研究至关重要，再次凸显了PAW方法在实际应用中的高效性。
-> 
-> ### 表II：PAW方法与其他全电子LDA计算得到的二聚体结合能、结构和振动性质的比较 (Comparison of binding energies, structural properties, and vibrational properties for dimers obtained with the PAW method at a plane-wave cutoff of 30 Ry with those of other all-electron LDA calculations)
-> 
-> -   **内容描述**：该表汇总了PAW方法（在 $E_{PW} = 30 \text{ Ry}$ 截断下）计算得到的 H2, Li2, Be2, B2, N2, O2, F2, Fe2 二聚体的**结合能** ($E_b$)、**键长** ($d$) 和**振动频率** ($\omega$)，并与现有其他精确全电子LDA计算结果进行了比较。
-> -   **单位/量纲**：结合能 ($E_b$) 以 **电子伏特** (eV) 为单位，键长 ($d$) 以 **玻尔半径** ($a_0$) 为单位，振动频率 ($\omega$) 以 **波数** (cm⁻¹) 为单位。
-> -   **解析**：该表提供了PAW方法准确性的直接量化证据。
->     1.  结果显示，PAW方法的计算结果与所有参考的全电子LDA计算结果高度吻合。键长偏差通常小于1%，振动频率偏差小于4%，结合能偏差在0.1-0.2 eV之间。
->     2.  这些数据证明了PAW方法达到了现有最先进全电子计算方案的精度水平，即使对于小分子（它们通常具有最强的非球形势和最小的键长，是严格的测试体系）也能提供可靠的结果。
->     3.  作者还提到，最大差异可以通过增加平面波截断能来进一步减小，并且PAW方法在处理高氧化态（如MnFO3）和非冻结半核态时也没有问题。
+> -   **图5**：原子总能量随平面波截断能（**E_pw**, Ry）的收敛性。纵轴为相对于50 Ry时的能量差（**ΔE**, eV）。对于H、Li等轻元素，收敛很快；对于O、F等较“硬”的元素，收敛较慢，但在30-40 Ry时，误差已小于0.1 eV。
+> -   **图6**：双原子分子结合能（**ΔE**, eV）的收敛性。结论与图5一致，在30 Ry时误差已非常小。
+> -   **图7**：双原子分子键长（**Δd**, a₀）的收敛性。在30 Ry时，键长的误差已小于0.02 a₀（约1%以内）。
+> -   **综合解析**：这一组图系统性地评估了PAW方法最重要的计算参数——平面波截断能——对计算结果的影响。结果显示，即使在30 Ry这样一个中等的截断能下，PAW方法也能获得高度准确的能量和结构信息，证明了其优秀的收敛性能和计算效率。
 > 
 > ## 四、正文核心内容剖析
 > 
-> ### 研究背景与问题
+> ### 1. 研究背景
 > 
-> 在原子和分子的电子结构计算中，理解波函数在不同空间区域的行为差异至关重要。原子核附近，由于强大的库仑势，波函数剧烈振荡；而在键合区域，波函数则相对平滑。现有主流方法都试图解决这一挑战，但各有其局限性：
+> -   **问题**：LAPW等全电子方法精度高，但计算复杂，难以实现高效的分子动力学；赝势方法效率高，但精度受限，且在处理“硬”元素时变得困难。两者之间存在难以逾越的鸿沟。
+> -   **核心思想**：波函数在不同空间区域表现出截然不同的特征：在原子成键区域是平滑的，在原子核附近则是剧烈振荡的。PAW方法的核心思想是，找到一个线性变换，将物理上真实但振荡剧烈的“全电子波函数” (|\Psi\rangle) 映射到一个计算上方便的、平滑的“赝波函数” (|\tilde{\Psi}\rangle) 上。
 > 
-> 1.  **赝势方法**：通过用平滑的**赝波函数** (PS wave functions) 替换核区内真实振荡的**全电子波函数** (AE wave functions)，显著降低了计算成本，尤其适用于平面波基组。然而，这种简化导致了：
->     
->     -   **信息损失**：无法直接获取核区附近的物理信息，如超精细参数 (hyperfine parameters) 和电场梯度 (electric field gradients)。
->     -   **“硬赝势”问题**：对于第一行元素、过渡金属（尤其是涉及d或f电子的体系），以及将半核态视为价态时，赝势变得“硬”，要求非常大的平面波基组，从而抵消了其计算优势。
->     -   **能量守恒性挑战**：尽管Vanderbilt的**超软赝势** (ultrasoft pseudopotentials) 改善了这些情况，但传统的赝势方法在 _ab initio_ 分子动力学模拟中，虽然能较好地保持能量守恒，但无法提供全波函数。
-> 2.  **线性增强平面波 (LAPW) 方法**：作为一种**全电子** (All-Electron, AE) 方法，LAPW 能够处理周期表中所有元素，并提供完整的波函数信息。然而：
->     
->     -   **计算复杂性**：它的增强过程（在原子中心球内部分波展开，在球外平面波展开，并在球边界处匹配波函数和其导数）使其在 _ab initio_ 分子动力学中实现高质量的能量守恒模拟变得困难，且计算成本高昂。
->     -   **“隐藏变量”问题**：部分波函数依赖于实际势场，这在动态模拟中引入了额外的复杂性。
-> 3.  **Car-Parrinello分子动力学 (CPMD)**：将密度泛函理论与分子动力学技术结合，实现了电子结构和原子动力学的同步求解。它极大地推动了结构确定和动态演化的研究。然而，将其高效且能量守恒地应用于全电子方法，以获取核区信息，是一个长期未解决的问题。
->     
+> ### 2. 方法模型
 > 
-> 因此，该论文提出的**投影增强波 (PAW)** 方法旨在发展一种能**将 LAPW 的通用性与平面波赝势方法的简洁性结合起来**的计算方案。其核心目标是：
+> **2.1 核心变换** 这个线性变换 (T) 被定义为： [ |\Psi\rangle = T |\tilde{\Psi}\rangle = |\tilde{\Psi}\rangle + \sum_i (|\phi_i\rangle - |\tilde{\phi}_i\rangle) \langle \tilde{p}_i | \tilde{\Psi}\rangle ] 这个公式是PAW方法的精髓，可以分解为以下三个核心要素：
 > 
-> -   作为一种**全电子**方法，提供完整的波函数，解决赝势方法的信息缺失问题。
-> -   能高效处理**第一行元素和过渡金属**，避免“硬赝势”问题。
-> -   实现**高质量、能量守恒**的 _ab initio_ 分子动力学模拟。
-> -   通过自然地推广现有方法，**弥合 LAPW 和赝势法之间的鸿沟**。
+> -   **全电子分波**（AE Partial Waves）(|\phi_i\rangle)：通过求解孤立原子的薛定谔方程得到的一组分波，它们精确描述了原子核附近的振荡行为，构成一个完整的基组。
+> -   **赝分波**（Pseudo Partial Waves）(|\tilde{\phi}_i\rangle)：与全电子分波一一对应，但在增强区域外与全电子分波完全一致，在增强区域内则是平滑的延续。它的平滑性决定了计算效率。
+> -   **投影函数**（Projector Functions）(\langle \tilde{p}_i |)：这是PAW方法的**核心创新**。它是一组局域在每个原子增强区域内的函数，满足双正交关系 (\langle \tilde{p}_i|\tilde{\phi}_j\rangle = \delta_{ij})。它的作用是从平滑的赝波函数 (|\tilde{\Psi}\rangle) 中“投影”出每个原子分波的系数 (c_i = \langle \tilde{p}_i|\tilde{\Psi}\rangle)。
 > 
-> ### PAW方法的核心原理
+> **2.2 变换的物理图像** 这个变换可以理解为：对于一个平滑的赝波函数 (|\tilde{\Psi}\rangle)，我们首先在增强区域内将其展开为赝分波 (|\tilde{\phi}_i\rangle) 的叠加，系数由投影函数确定。然后，我们用相应的全电子分波 (|\phi_i\rangle) 替换掉赝分波，同时为了避免重复计算，减去已经包含在赝波函数中的平滑部分。这样，我们就从平滑的赝波函数重构出了包含全部节点和振荡信息的全电子波函数。
 > 
-> PAW方法的核心思想是引入一个**线性变换** (linear transformation, T)，将物理上真实且在核区剧烈振荡的**全电子波函数** (AE wave functions, |$\psi$⟩) 映射到一个计算上方便且在核区平滑的**赝波函数** (PS wave functions, |$\tilde{\psi}$⟩)。
+> **2.3 总能量表达** 基于这个变换，任何物理量（算符A）的期望值都可以在赝波函数空间中计算： [ \langle A \rangle = \sum_n f_n \langle \tilde{\Psi}_n | \tilde{A} | \tilde{\Psi}_n \rangle ] 其中，赝算符 (\tilde{A} = T^\dagger A T) 可以分解为平滑部分和局域化的单中心校正部分。总能量表达式也被巧妙地分解为三部分： [ E = \tilde{E} + E^1 - \tilde{E}^1 ]
 > 
-> #### 广义增强波函数
+> -   (\tilde{E})：在均匀网格上计算的平滑部分，非常高效。
+> -   (E^1) 和 (\tilde{E}^1)：在径向网格上计算的单中心贡献，用于修正增强区域内的能量，并且两者相减，严格去除了平滑部分在该区域的双重计数。 这种“**补偿电荷密度**”的引入，确保了单中心修正的电荷分布具有零多极矩，从而不与外部电荷长程相互作用，保证了计算的高效与精确。
 > 
-> -   **Hilbert 空间转换**：PAW将物理的Hilbert空间（包含AE波函数）转换为一个新的**赝Hilbert空间** (pseudo Hilbert space)，后者包含计算上更方便的PS波函数。这个映射是一个线性变换。
-> -   **变换操作符 T**：AE波函数与PS波函数之间的关系定义为 |$\psi$⟩ = T|$\tilde{\psi}$⟩。变换操作符 T 被构造为由一个恒等项和一系列局域化的、以原子为中心的贡献 $T_R$ 组成：$T = 1 + \sum_R T_R$。这意味着在**增强区域** (augmentation regions, $O_R$) 之外，AE和PS波函数是相同的。
-> -   **增强区域 ($O_R$)**：每个原子周围的空间区域，与线性方法中的**muffin-tin 球** (muffin-tin sphere) 或赝势方法中的**核区** (core region) 类似。
-> -   **全电子部分波 (AE partial waves, |$\phi_i$⟩)** 和 **赝部分波 (PS partial waves, |$\tilde{\phi}_i$⟩)**：PAW方法为每个增强区域定义了一组**部分波**。AE部分波 |$\phi_i$⟩ 是在孤立原子势场中径向薛定谔方程的解，通常选择描述价带区域的态，并正交化于核心态。PS部分波 |$\tilde{\phi}_i$⟩ 与其对应的AE部分波在增强区域外一致，而在增强区域内被选择为平滑函数。它们之间的关系是 |$\phi_i$⟩ = T |$\tilde{\phi}_i$⟩。索引 $i$ 包含原子位置 R、角动量量子数 $l,m$ 和一个额外的指标 $n$。
-> -   **投影函数 (projector functions, |$p_i$⟩)**：这是PAW方法的独特之处。对于每个PS部分波 |$\tilde{\phi}_i$⟩，定义一个局域化的**投影函数** |$p_i$⟩。这些投影函数用于从PS波函数中提取其在增强区域内的部分波展开系数 $c_i = \langle p_i | \tilde{\psi} \rangle$。关键条件是**正交性**：$\langle p_i | \tilde{\phi}_j \rangle = \delta_{ij}$，确保了部分波展开系数的唯一性。
-> -   **波函数变换的最终形式**：综合上述元素，任意AE波函数可以表示为： |$\psi$⟩ = |$\tilde{\psi}$⟩ + $\sum_i$ ( |$\phi_i$⟩ - |$\tilde{\phi}_i$⟩ ) $\langle p_i | \tilde{\psi} \rangle$ 其中，|$\tilde{\psi}$⟩ 是平滑的PS波函数（或称包络函数），$\sum_i$ ( |$\phi_i$⟩ - |$\tilde{\phi}_i$⟩ ) $\langle p_i | \tilde{\psi} \rangle$ 是对PS波函数在增强区域内部的修正项，通过部分波的差异和投影函数来恢复AE波函数的真实行为。
-> -   **核心态 (Core states)**：PAW方法还对核心态进行类似分解，但无需定义投影函数，且通常采用**冻结核近似** (frozen-core approximation)，即核心态来自孤立原子。
+> ### 3. 实验与讨论
 > 
-> #### 算符变换
-> 
-> 由于在PAW方法中，PS波函数是变分参数，因此任何可观测量的期望值都必须通过PS波函数计算。这意味着物理算符 (A) 必须被转换为作用于PS波函数的**赝算符** (PS operators, $\tilde{A}$)。
-> 
-> -   **赝算符的形式**：$\tilde{A}$ = T†AT。其通用形式类似于广义可分离赝势： $\tilde{A} = A_0 + \sum_{ij} |p_i\rangle (\langle\phi_i|A|\phi_j\rangle - \langle\tilde{\phi}_i|A|\tilde{\phi}_j\rangle) \langle p_j|$ 其中 $A_0$ 是直接作用于PS波函数的部分，$\sum_{ij}$ 项是局域化的修正。
-> -   **赝重叠算符 (PS overlap operator, $\tilde{O}$)**：当物理算符 A 是单位算符时，得到赝重叠算符 $\tilde{O} = T^\dagger T = 1 + \sum_{ij} |p_i\rangle (\langle\phi_i|\phi_j\rangle - \langle\tilde{\phi}_i|\tilde{\phi}_j\rangle) \langle p_j|$。如果PS波函数不满足**范数守恒条件** (norm-conservation condition)（即 $\langle\tilde{\phi}_i|\tilde{\phi}_j\rangle \neq \langle\phi_i|\phi_j\rangle$），则 $\tilde{O}$ 不为单位算符，这意味着PS波函数不再是正交的。这是PAW方法与传统范数守恒赝势方法的重要区别，也是其能够使用更平滑PS波函数、降低平面波截断能的关键。
-> -   **电荷密度 (Charge density, $n(r)$)**：通过将实空间投影算符 $|r\rangle\langle r|$ 转换为其PS形式来计算。$n(r)$ 同样包含一个PS电荷密度部分和一系列单中心修正项。
-> 
-> #### 总能量泛函
-> 
-> PAW方法的**总能量泛函** (total energy functional) E 也被相应地分解为三部分：
-> 
-> -   **平滑部分 ($E_{\text{smooth}}$)**：在傅里叶空间或实空间常规网格上评估，包含PS波函数的动能、Hartree能和交换关联能。
-> -   **两个单中心贡献 ($E^1$ 和 $E^0$)**：在角动量表示的径向网格上评估，分别对应于AE部分波和PS部分波的修正项。通过这种分解，可以实现快速收敛。
-> -   **补偿电荷密度 (Compensation charge density, $n^1$)**：为加速静电能量项的收敛而引入。它由一系列局域化的广义高斯函数组成，其**多极矩** (multipole moments) 与AE和PS单中心电荷密度的差值一致。这使得增强区域内外的静电相互作用能够被有效地处理，特别是在使用平面波基组时，避免了对高傅里叶分量的需求。为了进一步解决高斯函数的高傅里叶分量问题，还引入了具有更大衰减常数的**带撇补偿电荷密度** ($n^{\prime 1}$)。
-> 
-> ### 从理论到实践的近似
-> 
-> 为了将PAW的精确理论形式转化为实用的计算方案，作者引入了两个核心近似：
-> 
-> 1.  **平面波截断 (Plane-wave cutoff, $E_{PW}$)**：PS波函数只包含波矢 G 满足 $G^2/2 \le E_{PW}$ 的平面波。
-> 2.  **部分波截断 (Partial-wave truncation)**：只使用有限数量的AE部分波、PS部分波和投影函数。关键是，**AE和PS部分波以及投影函数的截断方式是完全相同的**，即对于每一个AE部分波，都有一个对应的PS部分波和投影函数。这个原则被称为**附加增强** (additive augmentation)，对误差抵消和收敛至关重要。
-> 
-> 这些近似可以通过增加截断能和部分波数量来系统地控制，并确保了新定义的总能量泛函与物理相关的状态足够接近，且在分子动力学模拟中保持**能量守恒性**。为进一步加速计算，还可以在PS电荷密度表示和单中心密度角动量展开中引入额外的截断。
-> 
-> ### 哈密顿算符、力与重叠矩阵
-> 
-> 为了在分子动力学模拟中寻找基态或传播波函数和原子，需要计算总能量泛函相对于所有变分参数（PS波函数和原子位置）的梯度。
-> 
-> -   **赝重叠算符 (PS Overlap Operator)**：在PAW表示中，平面波不再是正交的，因为PS重叠算符 $\tilde{O}$ 与单位算符不同。这是由于PAW放松了范数守恒条件。
-> -   **赝哈密顿算符 (PS Hamilton Operator, $\tilde{H}$)**：定义为总能量泛函对PS密度算符的导数。论文详细推导了其显式表达式，用于设置**Kohn-Sham 方程** (Kohn-Sham equations) 或分子动力学中的运动方程。
-> -   **作用在原子上的力 (Forces on Atoms)**：基于**Hellmann-Feynman 定理** (Hellmann-Feynman theorem)，推导了原子上的力。这包括了核电荷产生的直接力，以及由于原子位移引起的波函数变化所产生的**Pulay 力** (Pulay forces)。Pulay 力描述了电子随着原子核移动而产生的力，在PAW方法中，需要考虑冻结核电子和增强部分贡献的Pulay力。完整的力表达式复杂，但确保了与总能量泛函的一致性。
-> 
-> ### 从头算分子动力学
-> 
-> PAW方法可以无缝整合到 _ab initio_ 分子动力学框架中，特别是Car-Parrinello的**虚拟拉格朗日量** (fictitious Lagrangian) 方法。
-> 
-> -   **虚拟拉格朗日量**：引入了电子波函数的虚拟动能和原子核的真实动能，以及用于确保AE波函数正交性的Lagrange乘子项。这使得电子结构问题和原子动力学问题能够通过牛顿方程组同时求解。
-> -   **波函数传播**：采用**Verlet 算法** (Verlet algorithm) 积分电子的运动方程。Lagrange参数通过迭代确定，以精确满足下一时间步的正交性约束。这种方法确保了时间反演对称性，对能量守恒至关重要。
-> -   **原子传播**：离子同样使用Verlet算法传播。原子上的力需要与Lagrange乘子项一致，以保证能量守恒。Lagrange乘子通过外推法获得，避免了计算上昂贵的原子位置与Lagrange乘子的自洽迭代。
-> -   **原子质量重整化 (Renormalization of Atomic Masses)**：由于电子波函数的虚拟动力学，离子在传播时表现得像被波函数“修饰”的**准粒子** (quasiparticles)，其**有效质量** (effective mass) 会增加。PAW方法通过在拉格朗日量中减小离子裸质量来补偿这种效应（如式85所示），从而使得离子沿着更接近Born-Oppenheimer势能面的轨迹运动。这种质量重整化对于长时程模拟中的能量守恒和物理温度控制至关重要。
-> 
-> ### 部分波与投影函数的构建
-> 
-> PAW方法的实用性很大程度上依赖于其核心组成部分——部分波和投影函数的精确构建。论文详细描述了作者采用的一种构建方案：
-> 
-> 1.  **全电子部分波 (AE partial waves)**：通过在自洽原子AE势场中径向积分薛定谔方程而获得。通常，每个角动量通道（s, p, d等）选择1到2个部分波，其能量选择在价带区域或其附近，以描述物理相关的态。这些部分波在增强区域内正交于核心态。
-> 2.  **赝部分波 (PS partial waves)**：其构建类似于范数守恒赝势。首先定义一个**赝势** ($v^{\text{ps}}$)，它在增强区域外与AE势相同，在增强区域内是平滑的。对于过渡金属，通过四阶多项式匹配；对于不含d电子的元素，通过**截止函数** (cutoff function) 定义。然后，PS部分波是此赝势下薛定谔方程的解，并确保在增强区域外与对应的AE部分波一致。
-> 3.  **投影函数 (Projector functions)**：初步的投影函数可以从PS部分波和截止函数构造。随后，通过迭代过程对投影函数和部分波进行正交化和归一化（通过引入一个自由常数 $c$ 避免数值问题），以确保 $\langle p_i | \tilde{\phi}_j \rangle = \delta_{ij}$ 条件的满足。
-> 4.  **势场 $\delta$ 的构建**：通过从用于定义PS波函数的赝势中减去自洽原子PS密度产生的势场来获得，这类似于赝势方法中的“去屏蔽”过程。
-> 5.  **导入量**：从原子计算中导入分子动力学模拟的关键量包括AE和PS核心密度、AE和PS部分波、PS投影函数，以及动能和重叠矩阵单中心贡献的矩阵元，还有补偿电荷密度的截止半径。
-> 
-> 这种构建方案虽然不是唯一的，但已经证明足够有效和令人满意。
-> 
-> ### 误差分析与扩展
-> 
-> PAW方法在理论上是精确的，但实际计算中引入了部分波截断和平面波截断近似。论文对部分波截断误差进行了详细分析：
-> 
-> -   **波函数截断误差**：截断部分波扩展会重新定义PS到AE波函数的变换，从而影响与核心态的正交性。
-> -   **附加增强 (Additive Augmentation)**：这是控制误差的关键原则。它要求AE和PS波函数的截断方式必须完全相同。其重要优势在于：
->     1.  如果PS部分波构造得无限可微，PAW波函数也是任意阶可微的。
->     2.  未显式包含在部分波扩展中的更高阶部分波，可以通过延伸到增强区域内的平面波部分来表示。
->     3.  只要平面波形成一个完备基组，PAW基组就是完备的，无论部分波如何截断。这合理化了使用来自孤立原子的冻结部分波，避免了在分子动力学中将其作为额外动态变量处理的复杂性。
-> -   **期望值截断误差**：在计算期望值时，当部分波扩展不完备时，会产生误差。这些误差项会随着部分波扩展的完备而趋于零。主导误差项与AE和PS部分波之间的差异成比例，这也支持了**附加增强**的原则。
-> -   **总能量截断误差**：总能量误差可分为两部分。一部分是由于PAW能量表达式本身与直接通过期望值计算的能量之间的差异。另一部分是由于期望值近似传播的误差。作者证明了通过高效的**误差抵消** (error cancellation)，特别是核和原子核的强变化势场不会对误差产生贡献，因为误差项在增强区域边界平滑地趋于零。
-> -   **PAW方法的扩展**：PAW方法具有足够的灵活性，可以进一步扩展。例如，可以优化部分波使其适应实际势场（“下折增强”），或放松**冻结核近似** (frozen-core approximation)，使核心态也能自洽地响应环境。这些扩展将使PAW变换变为非线性，但在CPMD框架下需谨慎处理。
-> 
-> ### 数值测试
-> 
-> 论文提供了大量数值测试结果来验证PAW方法的精度、效率和能量守恒性：
-> 
-> -   **散射性质**：通过比较Mn原子对数导数函数与精确结果（图2），PAW方法在价带区域及其上方1.5 Ry范围内，使用两个部分波时能准确再现散射性质。
-> -   **AE波函数精度**：Mn原子波函数与精确解的比较（图3）显示，在占据态能量区域，PAW波函数与AE波函数偏差小于1%。即使在远高于价带的能量区域，p和d型波函数仍准确，尽管s型波函数在核区有约15%的低估，这是部分波截断的典型特征。这证实了PAW在广泛能量范围内都能提供高精度波函数。
-> -   **结构性质**：对H2, Li2, Be2, B2, N2, O2, F2, Fe2等小分子进行了测试，并与最精确的全电子LDA计算结果进行比较（表II）。结果高度一致，键长偏差小于1%，振动频率偏差小于4%，结合能偏差在0.1-0.2 eV。这表明PAW方法在预测分子结构和振动性质方面具有卓越的准确性。对MnFO3化合物的测试也证明PAW能处理高氧化态和非冻结半核态。
-> -   **从头算分子动力学**：以铁二聚体模拟为例（图4），PAW方法在长时间模拟中展现出极高的**能量守恒性**，守恒能量的偏差小于0.8 meV，与传统CPMD模拟的质量相当。虚拟动能的振荡是波函数在Born-Oppenheimer势能面上的运动，且通过离子质量重整化（本例中8%）补偿了对离子运动的影响。
-> -   **平面波收敛性**：对第一行元素和铁的原子总能量、二聚体结合能和键长进行的平面波收敛性测试（图5-7）显示：
->     -   总能量在 $E_{PW} = 30-40 \text{ Ry}$ 时收敛到0.1 eV。
->     -   结合能收敛更快，在 $E_{PW} = 30 \text{ Ry}$ 时误差小至0.1 eV。
->     -   键长在 $E_{PW} = 30 \text{ Ry}$ 时精度可达 $0.02 a_0$（小于键长的1%）。 这些结果表明PAW方法具有与超软赝势方法相当的平面波收敛效率，且电荷密度所需的平面波截断能更低，进一步提升了计算效率。
+> -   **散射性质测试**：通过计算孤立Mn原子的对数导数，证实了通过增加分波数量，PAW方法可以系统性地精确到任意高的能量范围（图2）。
+> -   **波函数精度测试**：在价带区域，PAW重构的全电子波函数与精确解误差小于1%，即使在较高能量下，误差也在可接受范围内（图3），证明了其全电子本质。
+> -   **结构性质测试**：对一系列双原子分子（H₂, Li₂, O₂等）的计算表明，PAW方法在30 Ry的平面波截断下，给出的键长、振动频率和结合能与当时最精确的LDA全电子计算结果高度一致，键长偏差小于1%，结合能偏差在0.1-0.2 eV内（表II）。
+> -   **分子动力学模拟**：首次成功实现了Fe₂的全电子分子动力学模拟，能量守恒性极佳（图4），证实了该方法在动力学模拟中的可靠性。
+> -   **极端条件测试**：对MnFO₃（Mn为+7氧化态）的计算，以及与将半芯态作为价态处理的结果对比，证明PAW方法能轻松处理高氧化态和半芯态等棘手情况，且结果与全电子计算高度一致，优于赝势方法。
 > 
 > ## 五、结论与贡献
 > 
-> P. E. Blöchl 在这篇开创性论文中详细描述了一种新颖而强大的电子结构计算方法——**投影增强波 (PAW)** 方法。该方法最显著的贡献在于其**普适性、高精度和在 _ab initio_ 分子动力学中的卓越性能**。
+> 本文提出了投影增强波（PAW）方法，这是一种全新的电子结构计算框架。其核心结论是：**PAW方法成功地将全电子方法（如LAPW）的高精度与赝势方法的计算效率统一起来，能够以可承受的计算代价获得全电子波函数，并实现高质量的、能量守恒的第一性原理分子动力学模拟。**
 > 
-> ### 核心结论：
+> **主要贡献**：
 > 
-> 1.  **全电子与赝势的融合**：PAW方法成功地将全电子方法（如LAPW）的优点（能够访问完整的波函数和核区信息）与赝势方法（如平面波基组的简洁性和高效性）的优点结合起来。它以一种自然的方式推广了这两种现有方法，并**弥合了它们之间的鸿沟**。
-> 2.  **高精度与高效率**：数值测试（包括散射性质、波函数精度、结构性质和能量收敛性）表明，PAW方法在精度上与最先进的全电子LDA计算方案相当，能够准确预测键长、振动频率和结合能。同时，其平面波收敛性与超软赝势方法相当，并通过对单中心项在径向网格上的处理以及降低电荷密度平面波截断能，提升了整体计算效率。
-> 3.  **开创性的分子动力学能力**：PAW方法首次实现了高质量、**能量守恒**的全电子 _ab initio_ 分子动力学模拟。通过引入虚拟拉格朗日量和原子质量重整化机制，PAW方法能够高效地模拟电子和原子动力学，并且在长时间模拟中展现出卓越的能量守恒性，这在全电子方法中是前所未有的。
-> 4.  **解决“硬”元素挑战**：PAW方法能够高效准确地处理包括第一行元素和过渡金属在内的各种元素，解决了传统赝势方法在处理这些“硬”元素时效率低下的问题，并能处理高氧化态和非冻结半核态。
-> 
-> ### 学术贡献：
-> 
-> -   **新的理论框架**：提出了一个统一的理论框架，将全电子波函数和赝波函数通过线性变换和投影函数联系起来，为电子结构计算提供了一个新的范式。
-> -   **推动 _ab initio_ MD 发展**：PAW方法使得全电子 _ab initio_ 分子动力学模拟成为现实，极大地扩展了CPMD的应用范围，使其能够探究更多依赖核区信息的物理现象。
-> -   **影响深远的工具**：PAW方法及其后续实现已成为计算物理、化学和材料科学领域最广泛使用的电子结构计算方法之一，其影响力持续至今。
-> 
-> 总之，这篇论文不仅为电子结构计算领域引入了一种功能强大且理论严谨的新方法，更开创性地实现了全电子分子动力学模拟，为我们理解和预测材料性质提供了前所未有的工具。
+> 1.  **理论创新**：提出了一种比“球面匹配”更通用的“投影增强”方案，并证明了LAPW和赝势方法均可视为PAW方法的特例或近似，在理论上统一了电子结构计算的两大流派。
+> 2.  **方法突破**：提供了构建分波和投影函数的具体、可操作的方案，并详细推导了能量、力、哈密顿量等关键量的表达式，为实际编程实现铺平了道路。
+> 3.  **实践验证**：通过详尽的数值测试，证明了PAW方法的计算精度与当时最先进的全电子方法相当，效率则优于或类似赝势方法，为后续大规模应用提供了坚实的数据支撑。
 > 
 > ## 六、未来发展方向展望
 > 
-> PAW方法在提出之初便展现了其巨大的潜力和可扩展性。论文作者在第七部分D节中，已经展望了PAW方法未来可能的发展方向，这些方向旨在进一步提升方法的精度、效率和普适性：
+> _作者在论文中提及但未实施的方向：_
 > 
-> 1.  **部分波的自适应优化**：
->     
->     -   **优化部分波以适应实际势场**：目前PAW方法通常使用从孤立原子导出的**冻结部分波** (frozen partial waves)。未来的一个方向是让部分波能够根据实际的分子或晶体环境中的势场进行自适应调整。这可以通过将“较低”的部分波与“较高”的部分波混合，并自洽地确定混合系数来实现，作者称之为**“下折增强” (downfolded augmentation)**。
->     -   **处理非球形势**：目前的冻结部分波虽然能通过平面波部分适应非球形势，但若能让部分波直接适应实际势场的球形和非球形部分，将进一步提高精度和收敛性。
-> 2.  **超越冻结核近似 (Beyond the Frozen-Core Approximation)**：
->     
->     -   **弛豫核态**：目前PAW方法通常采用**冻结核近似** (frozen-core approximation)，即核心态在计算过程中保持不变。未来的发展可以允许核心态在内部自洽循环中弛豫，使其能响应实际的势场变化。这将涉及在弛豫核心态和价电子部分波之间建立新的正交性条件，可能需要将部分波与冻结核态和弛豫核态混合。
->     -   **处理半核心态**：对于包含半核心态的体系，可能需要在PS部分波和PS核心态之间执行类似的变换，以确保PS和AE部分波在增强区域边界处的匹配。
-> 3.  **计算效率的进一步提升**：
->     
->     -   **部分波和投影函数的优化构造**：论文中描述的构建部分波和投影函数的程序只是一种方案，未来可以通过探索其他构建方式（如借鉴赝势方法中积累的经验，允许更大的增强区域和非束缚态）来进一步减少所需平面波的数量。
->     -   **与现有代码的深度融合与优化**：虽然PAW方法已经可以相对较小的额外工作量集成到现有赝势代码中，但更深层次的优化（如针对GPU或其他并行架构）将进一步提升其在大规模体系模拟中的性能。
-> 4.  **与其他先进方法的结合**：
->     
->     -   **与机器学习势的结合**：将PAW的精确力计算与机器学习势结合，有望在大规模、长时间尺度的分子动力学模拟中实现高精度与高效率的平衡。
->     -   **与GW方法、DMFT等高级电子关联方法的结合**：将PAW作为基础，在其之上实现更高级的电子关联理论，以更精确地描述强关联体系。
-> 
-> 这些未来方向的实现将使PAW方法能够处理更复杂、更精细的物理问题，并进一步巩固其作为电子结构计算领域基石的地位。
+> 1.  **自适应分波**：使分波能根据分子或晶体环境中的实际势场进行自适应调整，以在更少的分波下达到更高精度。
+> 2.  **超越冻结核心近似**：允许核心电子态在实际计算中发生弛豫，以研究核心电子激发的物理过程或处理高压等极端条件。
+> 3.  **与多种基组结合**：作者提到，赝波函数不仅可以用平面波展开，也可以用其他基组，这为PAW方法与其他量子化学方法的结合提供了可能。
 > 
 > ## 七、学术思考与批判性分析
 > 
-> PAW方法作为电子结构计算领域的里程碑式工作，其理论的优雅性和实践的成功性毋庸置疑。然而，从学术批判性分析的角度，我们也可以提出一些问题，以促使对该方法更深层次的理解和潜在的进一步发展：
-> 
-> 1.  **“附加增强”原理的普适性与局限性**：论文强调了“附加增强” (additive augmentation) 原理对误差抵消和基组完备性的重要性。该原理认为AE和PS部分波的截断方式必须完全相同。然而，在实际计算中，部分波的选择（如能量窗口、数量、类型）仍然具有一定的经验性。
+> 1.  **分波构建的“艺术性”与“科学性”**：作者在Sec. VI中详细描述了分波和投影函数的构建过程，但其中一些参数（如赝势构建中的多项式系数、截断半径等）的选择带有一定的经验性。这种“构建”在多大程度上可以自动化？不同构建方案对最终结果（特别是能量差异小于1 meV的精细性质）的稳健性如何？这至今仍是PAW势库开发中的核心问题。
 >     
->     -   **深度问题**：在何种物理或化学体系中，“附加增强”原理的实际效果可能受到限制？例如，对于具有高度离域电子或强烈键合异性的体系，其局域化的部分波基组如何保持其完备性和误差抵消能力？是否存在某些情况下，AE和PS部分波的“相同”截断反而引入不易察觉的系统误差？
-> 2.  **原子质量重整化的物理意义与可预测性**：在 _ab initio_ 分子动力学中，PAW方法引入了原子质量重整化来补偿波函数虚拟动力学对离子运动的影响。
+> 2.  **“全电子”的完备性**：论文虽然宣称提供了全电子波函数，但这依赖于所选择的分波基组在增强区域内的完备性。在实际计算中，分波总是被截断的。文中Sec. VII详细分析了截断误差，并证明了其快速收敛性。然而，对于依赖核区电子密度精细分布的性质（如超精细相互作用、电场梯度等），尽管本文声称PAW能提供，但分波截断的误差传播仍需更严格的评估和验证。
 >     
->     -   **深度问题**：这种质量重整化是否能够完全、无偏差地将离子的“准粒子”行为还原为真实的Born-Oppenheimer表面动力学？在重整化过程中，如何准确量化和预测这种补偿的程度（例如，对于不同元素或键合环境，质量重整化参数是否有普适性指导，而不仅仅是8%这样的经验值）？其在非平衡或高度激发态动力学中的有效性如何？
-> 3.  **投影函数的构建与优化空间**：投影函数是PAW方法的独特组成部分，其构建过程（如式91-96）具有一定的迭代和经验性。
+> 3.  **计算效率的真实权衡**：本文强调PAW方法的效率，因为其平面波部分与赝势方法类似，而单中心项代价很小。但这忽略了从赝波函数重构全电子波函数、计算单中心校正项等带来的额外计算与编程复杂度。在实际代码（如VASP）中，这些操作虽然标度线性，但前置因子不容忽视，其真实效率优势体现在处理“硬”元素和需要高精度全电子信息的场景下。
 >     
->     -   **深度问题**：投影函数的形式选择（例如，其径向衰减行为、局域化程度）对PAW计算的收敛速度和最终精度有多大影响？是否存在更系统、更少经验性的方法来优化投影函数，以进一步提高计算效率或降低所需的平面波截断能？例如，能否通过机器学习或变分原理来动态构建适应特定体系的投影函数？
-> 4.  **与赝势方法和LAPW方法的界限与选择标准**：论文成功地展示了PAW方法如何弥合了赝势和LAPW之间的鸿沟，甚至可以看作是它们的一种推广或近似。
+> 4.  **时间尺度的局限性**：Car-Parrinello分子动力学方法引入了电子运动的虚时间，其时间步长受限于电子运动的频率。即使采用PAW方法，这种限制依然存在。这使得模拟时间尺度通常被限制在皮秒量级，难以研究许多需要更长时间尺度的物理化学过程（如扩散、化学反应等）。本文并未讨论此根本性局限。
 >     
->     -   **深度问题**：在实践中，如何为特定的研究问题（例如，需要极高核区精度或对计算效率要求极致的体系）选择PAW、超软赝势还是LAPW？是否存在一个清晰的、基于体系性质（如元素的原子序数、价电子构型、键合类型、所需物理量的敏感度）的量化标准或决策树，以指导研究者做出最佳方法选择，而非仅仅依赖于计算资源的可用性？
-> 5.  **冻结核近似与后续扩展的挑战**：虽然论文展望了放松冻结核近似的可能性，但其复杂性也显而易见。
+> 5.  **与后续发展的关系**：本文提出的是一种通用的数学框架。后续的研究（如Kresse和Joubert在VASP中的实现）进一步优化了投影函数和分波的构建方法，使得PAW势库更加精确和可移植。从今天的视角看，这篇论文的伟大之处在于它搭建了一个完美的理论舞台，而后续的研究者则在这个舞台上不断优化“表演”的细节。
 >     
->     -   **深度问题**：放松冻结核近似会引入波函数与核心态之间新的正交性约束，并可能增加“隐藏变量”的数量。在分子动力学框架下，如何有效地处理这些额外的自由度，同时保持能量守恒性和计算效率？特别是当核心态对环境变化敏感时（例如在高温或高压条件下），这种扩展是否会抵消PAW方法现有的计算优势？
-> 
-> 这些批判性思考旨在深入挖掘PAW方法的理论深层含义和实践挑战，为该方法的进一步发展和优化提供新的视角。
 > 
 > ## 八、用户问题预测与解答
 > 
-> 作为一名学术文献深度解读专家，我预测初学者或非专业读者可能对PAW方法有以下常见疑问：
+> **问题1：PAW方法和超软赝势（USPP）到底有什么区别？感觉它们很像。** **解答**：这是一个非常深刻的问题，也是作者的论述重点。两者确实非常相似，都放松了规范守恒，并引入了非局域的重叠算符。但根本区别在于：
 > 
-> ### 1. PAW和传统赝势方法的主要区别是什么？
+> -   **PAW是一个全电子方法**：它有一个定义明确的线性变换，可以从赝波函数**完美重构**出全电子波函数和势。它直接处理全电子密度和势，因此只要分波完备，结果就是全电子精度的。
+> -   **USPP是一个赝势方法**：它的目标是找到一个尽可能平滑的赝波函数，并定义一个赝势，使得赝波函数和赝原子的能量本征值、散射性质与全电子原子一致。它并没有试图重构全电子波函数，赝波函数本身就是最终结果。
+> -   **类比**：PAW就像有一张高清照片（全电子波函数），你把它压缩成JPEG（赝波函数），但你保留了完整的解压缩算法（投影函数和分波），可以随时无损恢复高清图。USPP则是直接画了一张与高清图在某些关键特征上极其相似的矢量图（赝波函数），这张图本身就是最终产品，无法恢复高清原图。
 > 
-> -   **PAW (Projector Augmented-Wave)** 方法和**传统赝势方法** (Pseudopotential Method) 的核心目标都是用计算上更方便的平滑波函数来替代原子核附近剧烈振荡的真实波函数。但它们之间存在关键区别：
->     -   **全电子信息**：PAW是一种**全电子**方法，它能提供完整的、物理上正确的全电子波函数，包括核区附近的详细信息。虽然它也使用平滑的“赝波函数”作为中间量进行计算，但通过**投影函数**和**部分波**的线性变换，可以随时重构出真实的全电子波函数。而传统赝势方法则直接移除了核区的物理信息，用赝波函数完全替代，无法直接获取核区的物理量。
->     -   **“去赝化”与否**：PAW方法**没有**传统的“赝化”步骤（即用赝势构造赝波函数）。它从一开始就基于真实的原子核和全电子势，只是将真实的波函数巧妙地映射到计算方便的赝波函数空间。而赝势方法需要精心构造一个赝势来“赝化”原子核和内层电子的效应。
->     -   **范数守恒**：PAW方法通常**不要求**赝波函数是范数守恒的，这使得赝波函数可以更平滑，从而允许使用更小的平面波基组。传统范数守恒赝势方法则要求赝波函数在核区外的范数与全电子波函数一致。
+> **问题2：为什么放松“规范守恒”条件能带来好处，同时又不会损失精度？** **解答**：规范守恒条件要求赝分波的电荷量与全电子分波相等，这迫使赝分波在原子核附近也必须保持一定的“隆起”（即振幅），导致其不够平滑。PAW（和USPP）放弃了这个条件，可以让赝分波变得极其平滑。PAW方法通过**重叠算符 (\tilde{O})** 来补偿这个电荷缺失，确保变换的线性。只要分波是完备的，这种处理在数学上是严密的，不会损失精度。其带来的好处是巨大的：更平滑的赝波函数意味着可以用更小的平面波基组来展开，从而极大地降低计算成本和内存消耗，这正是处理过渡金属和第一行元素的关键。
 > 
-> ### 2. PAW方法和LAPW方法有什么关系和区别？
+> **问题3：投影函数 (\langle \tilde{p}_i|) 的计算看起来非常复杂，能否通俗地解释它的作用？** **解答**：可以把投影函数想象成一个“形状识别器”或“解码器芯片”。你在增强区域里有一个平滑的赝波函数 (|\tilde{\Psi}\rangle)，它是由多种不同的“平滑形状”（赝分波 (|\tilde{\phi}_j\rangle)）混合而成的。投影函数 (\langle \tilde{p}_i|) 就是为了从 (|\tilde{\Psi}\rangle) 这个混合体中，精确地识别出其中第 (i) 种“平滑形状” (|\tilde{\phi}_i\rangle) 的含量是多少，即系数 (c_i)。它通过计算内积 (\langle \tilde{p}_i|\tilde{\Psi}\rangle) 来工作，就像一种“条形码扫描”，一扫就知道这个形状的成分有多少。知道了所有 (c_i)，我们就可以用对应的“真实形状”（全电子分波 (|\phi_i\rangle)）来替换它们，从而重构出真实的波函数。
 > 
-> -   **LAPW (Linear Augmented-Plane-Wave)** 是一种典型的**全电子**方法。PAW方法与LAPW方法都属于**增强波方法** (Augmented-Wave Methods) 的范畴，它们都将空间划分为原子中心的**增强区域** (augmentation regions) 和**间隙区域** (interstitial region)。
->     -   **关系**：PAW方法在某种意义上是LAPW方法的**推广**。LAPW方法中，原子内部分波展开的系数是通过在增强球边界处匹配包络波函数的值和导数来确定的。PAW方法则使用更通用的**投影函数**来确定这些系数，即将PS波函数与投影函数做标量积。这种投影增强方式更加灵活。
->     -   **区别**：
->         -   **系数确定方式**：LAPW依赖于边界匹配，PAW依赖于投影函数。
->         -   **部分波性质**：LAPW通常使用适应实际势场的“调整部分波”，而PAW更常使用从孤立原子导出的**“冻结部分波”**。PAW的冻结部分波结合平面波的扩展，使得其基组在处理非球形势时更具灵活性。
->         -   **计算复杂性**：LAPW在计算上通常更为复杂和耗时，尤其是在分子动力学模拟中。PAW旨在通过其形式上的简洁性（特别是与平面波基组的结合）和对部分波的处理方式，在保持全电子精度的同时提高计算效率，特别适合分子动力学模拟。
+> **问题4：文中的“补偿电荷密度” (\hat{n}) 是干什么用的？** **解答**：我们来用一个类比例子说明。假设你在一个房间里（增强区域）把一个旧沙发（全电子密度）换成了一个新沙发（赝密度），但新沙发比旧沙发小了一些。为了不让房间外的人发现房间里的重量（电荷）有任何变化，你在新沙发里塞了一些铅块（补偿电荷密度 (\hat{n})），使得新沙发+铅块的总重量和旧沙发完全一样，并且这个铅块被巧妙地放置，使得它对房间外任何一点产生的重力场（静电势）都与旧沙发产生的完全相同。在PAW中，这个补偿电荷密度确保了单中心修正项的能量计算只影响局域，而不会对远处的电荷产生错误的静电作用，这对于将能量正确分解为平滑项和局域项至关重要。
 > 
-> ### 3. PAW方法在处理复杂体系（如过渡金属氧化物）时有何优势？
+> **问题5：PAW方法如何保证分子动力学模拟中的能量守恒？** **解答**：这是一个经典的“鸡生蛋”问题。在分子动力学中，我们同时更新原子位置和波函数。问题在于，原子一动，增强区域（原子为中心）就移动了，这导致变换T依赖于原子位置。这种依赖会通过“Pulay力”产生额外的力，如果处理不当，能量就会漂移。PAW方法通过以下方式保证能量守恒：
 > 
-> -   PAW方法在处理复杂体系，特别是**过渡金属氧化物**这类体系时具有显著优势：
->     -   **全电子精度**：过渡金属的d电子和氧的第一行性质，在核区附近表现出复杂的行为。PAW能够提供全电子波函数，准确捕获这些强相互作用区域的电子结构，这对于精确描述化学键合、磁性质和光谱学特征至关重要。
->     -   **“硬”元素处理**：第一行元素（如氧、氟）和过渡金属（具有d或f电子）在传统赝势方法中常被称为“硬”元素，需要非常大的平面波基组。PAW方法通过放松范数守恒并采用优化后的部分波和投影函数，能够以相对较小的平面波基组高效处理这些元素，大大提高了计算效率。
->     -   **分子动力学**：许多复杂体系的研究需要理解其动态行为。PAW方法能够进行高质量、能量守恒的 _ab initio_ 分子动力学模拟，这使得研究相变、扩散、缺陷动力学等问题成为可能，而无需牺牲全电子精度。
->     -   **信息丰富**：能够访问全波函数，意味着可以计算各种实验可测量的核区敏感属性，如超精细相互作用、NMR参数等，这对于理论与实验的结合非常有价值。
-> 
-> ### 4. 什么是PAW方法中的“附加增强”原理？它为什么重要？
-> 
-> -   **“附加增强” (Additive Augmentation)** 是PAW方法中的一个关键设计原则。它指的是在将真实的**全电子波函数** (AE wave functions) 转换为计算用的**赝波函数** (PS wave functions) 时，AE部分波和PS部分波的**截断方式必须完全一致**。也就是说，对于每一个被包含在基组中的AE部分波，都必须有一个对应的PS部分波和投影函数。
-> -   **重要性**：
->     -   **误差抵消**：这个原则确保了当部分波扩展被截断时，AE和PS部分波之间产生的误差项能够有效地相互抵消。论文中提到，主导的截断误差项与AE和PS部分波之间的差异成比例，如果两者以相同方式截断，这种差异在增强区域边界处会平滑地趋于零，从而极大地减少了总能量的误差。
->     -   **基组完备性**：附加增强原理保证了，只要平面波形成一个完备的基组，那么PAW基组（即使部分波被截断）也能在**赝Hilbert空间**中保持完备性，即能够准确描述所有在核心态正交子空间中的波函数。
->     -   **计算效率与灵活性**：它使得PAW方法可以使用相对较少且固定的部分波（通常来自孤立原子，无需在每个自洽步骤中调整），同时利用平面波的灵活性来适应实际的化学环境（包括非球形势），从而在计算效率和精度之间取得平衡。
-> 
-> ### 5. PAW方法如何实现从头算分子动力学？
-> 
-> -   PAW方法通过将**电子结构计算**和**原子动力学模拟**无缝集成，实现了**从头算分子动力学 (Ab Initio Molecular Dynamics, AIMD)**。其关键步骤包括：
->     1.  **虚拟拉格朗日量**：借鉴Car-Parrinello的思想，PAW方法构建了一个**虚拟拉格朗日量** (fictitious Lagrangian)。这个拉格朗日量包含了原子核的真实动能和电子波函数的**虚拟动能** (fictitious kinetic energy)。通过引入一个“虚拟质量”给电子波函数，使得电子波函数也有自己的动力学演化。
->     2.  **力与哈密顿算符**：推导出原子核上的精确作用力（包括**Pulay力**）和电子波函数的**赝哈密顿算符**。这些梯度是基于总能量泛函对原子坐标和电子波函数的导数获得的。
->     3.  **同时积分运动方程**：利用如**Verlet算法** (Verlet algorithm) 等数值积分方法，同时求解原子核和电子波函数的运动方程。电子波函数的演化会受到**正交性约束** (orthogonality constraints) 的影响，并通过引入**Lagrange乘子** (Lagrange multipliers) 机制来确保在每一步迭代中保持波函数的正交性。
->     4.  **原子质量重整化**：由于电子波函数的虚拟动力学效应，原子核在模拟中表现得像被电子云“修饰”过的准粒子，其有效质量会增加。PAW方法通过在拉格朗日量中相应地**重整化原子核的质量** (renormalization of atomic masses) 来补偿这种效应。这有助于将原子动力学更准确地保持在Born-Oppenheimer势能面上，并维持能量守恒。
-> -   通过上述机制，PAW方法能够在一个能量高度守恒的框架下，模拟材料的动态行为，同时保持全电子的计算精度，这对于研究材料性质随时间的变化至关重要。
+> 1.  **严格的拉格朗日量推导**：一切从定义良好的拉格朗日量出发，推导出运动方程，确保方程本身是自洽的。
+> 2.  **一致的正交化处理**：由于存在位置依赖的重叠算符 (\tilde{O}(R))，波函数在传播后必须重新正交化。论文中详细描述了一个迭代算法，确保正交化约束在Verlet算法的精度下被精确满足，并且正交化力的贡献被正确地包含在总力中。
+> 3.  **质量重正化**：波函数会随原子运动，产生一个额外的“拖拽”效应，表现为增加了原子的有效质量。作者提出通过减去一个与电子动能相关的量来重正化原子质量，从而补偿这个效应，使动力学更接近真实物理。
 > 
 > ## 九、专区：便于 Obsidian Dataview 插件调用
 > 
-> 领域基础知识:: 电子结构计算、密度泛函理论(DFT)、从头算分子动力学(AIMD) 研究背景:: 传统赝势法和LAPW方法各有优劣，均无法在兼顾效率和全电子信息的同时，高质量实现从头算分子动力学。特别是处理第一行元素和过渡金属时面临挑战。 作者的问题意识:: 如何发展一种统一的电子结构计算方法，既能提供全电子精度和核区信息，又能具备赝势方法的计算简洁性和效率，并能可靠地用于能量守恒的从头算分子动力学模拟，从而弥合现有方法间的鸿沟？ 主要研究对象:: 投影增强波(PAW)方法本身，以及其在原子和分子（H2, Li2, Be2, B2, N2, O2, F2, Fe2, MnFO3）电子结构计算及分子动力学模拟中的性能。 主要研究方法:: 理论推导：线性变换、算符变换、总能量泛函构建、力和哈密顿算符推导；数值实现：引入近似（平面波截断、部分波截断）、采用Car-Parrinello虚拟拉格朗日量进行分子动力学模拟、Verlet算法、原子质量重整化；数值验证：通过测试原子散射性质、波函数精度、分子结构性质、分子动力学能量守恒性、平面波收敛性进行验证。 研究意义:: PAW方法首次实现了高质量、能量守恒的全电子从头算分子动力学模拟，为从头算模拟领域带来了革命性突破。它统一了赝势法和增强波方法，提供了更高效、更普适的全电子计算框架，极大地拓展了电子结构计算在材料科学、凝聚态物理和量子化学中的应用范围。 研究结论:: PAW方法能够以与最先进全电子LDA方法相当的精度，以及与超软赝势方法相当的计算效率，处理包括第一行元素和过渡金属在内的各种体系。它能提供完整的全电子波函数，并在从头算分子动力学模拟中展现出卓越的能量守恒性。 对领域的贡献:: PAW方法是电子结构计算领域的一个里程碑，它解决了全电子从头算分子动力学长期存在的挑战，并提供了一个统一且高效的工具，使得研究者能够同时获取精确的核区信息和可靠的动力学演化，极大地推动了理论模拟与实验的结合。 未来研究方向提及:: 部分波的自适应优化（下折增强），放松冻结核近似，更高效的投影函数构造，以及与其他高级电子关联方法的结合。 未来研究方向思考:: 在PAW的框架下，能否开发出更智能、自适应的部分波和投影函数构建算法（例如结合机器学习），以进一步优化计算效率和精度？如何更有效地处理非平衡态或激发态下的全电子分子动力学，特别是超越目前的冻结核近似时所面临的额外计算成本和复杂性？
+> 领域基础知识:: 第一性原理密度泛函理论（DFT），全电子（AE）方法，赝势（Pseudopotential）方法，线性增强平面波（LAPW）方法，Car-Parrinello分子动力学。
 > 
-> * * *
+> 研究背景:: 电子结构计算方法是精确预测材料性质的核心，但主流方法存在鸿沟：全电子方法（如LAPW）精度高但计算复杂，赝势方法效率高但对许多元素（如过渡金属）精度受限或变得“硬”。迫切需要一种能结合二者优势的新方法。
+> 
+> 作者的问题意识:: 如何构建一个统一的电子结构计算框架，既能像赝势方法那样利用平滑波函数进行高效计算，又能像LAPW方法那样精确重构出全电子波函数，从而在保持高精度的同时实现高质量的分子动力学模拟？
+> 
+> 主要研究对象:: 投影增强波（PAW）方法的理论框架、构建方案、数值表现及其与现有方法（LAPW、赝势）的关系。
+> 
+> 主要研究方法:: 构建了一个从平滑赝（PS）波函数到全电子（AE）波函数的线性变换，通过引入全电子分波、赝分波和投影函数来定义此变换。基于此变换，推导了总能量、哈密顿量和力的表达式，并结合Car-Parrinello虚拉格朗日量方法，实现第一性原理分子动力学。通过原子散射、双原子分子等测试进行数值验证。
+> 
+> 研究意义:: 首次在理论上统一了增强波方法和赝势方法，证明LAPW是其特例，赝势是其近似。提供了一个兼具全电子精度和赝势效率的全新计算范式，并首次实现了基于全电子波函数的、能量守恒的分子动力学模拟。
+> 
+> 研究结论:: PAW方法成功弥合了全电子方法和赝势方法之间的鸿沟。它能够以中等的计算代价（如30 Ry平面波截断）获得与最先进全电子方法相当的精度，并可以进行高质量的分子动力学模拟。其精度和效率优于传统赝势，尤其在处理“硬”元素时。
+> 
+> 对领域的贡献:: 1. 提出了PAW方法这一革命性的理论框架，成为现代高精度DFT计算（如VASP软件）的基石。2. 深刻揭示了不同电子结构计算方法之间的内在联系与统一性。3. 提供了可操作的“配方”来构建分波和投影函数，为方法普及铺平了道路。
+> 
+> 未来研究方向提及:: 1. 发展自适应分波，使其能根据实际化学环境进行优化。2. 超越冻结核心近似，实现核心电子态的弛豫。3. 将赝波函数与平面波以外的其他基组结合。
+> 
+> 未来研究方向思考:: 1. 探索机器学习方法自动生成更优的PAW势，以平衡精度与效率。2. 发展基于PAW方法的超越DFT的计算方法，如GW、BSE等，用于激发态和光谱计算。3. 将PAW方法拓展到强关联体系，例如与动力学平均场论（DMFT）结合。4. 研究PAW方法在计算核磁共振（NMR）、电子顺磁共振（EPR）等依赖核区波函数精细性质时的系统误差与改进方案。
 > 
 > 🚀 [笔记回链](zotero://select/library/items/J2FYSWTW)
 > 
 > * * *
 > 
-> `Gemini`  `gemini-2.5-flash`  _由批量 AI 解读自动生成于 2026/8/10 02:13:56 （重新解读）_
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/11 06:52:29 （重新解读）_
 > 
 > 🏷️ #🤖️/AI文献解读 🏷️ #🤖️/AI文献阅读
 
-^KEY852B7CA3
+^KEYEFF6828E
 
-## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文双语转写📌</span>
+## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span>
+
+> 🚀 [笔记回链](zotero://select/library/items/IENGRFAV)
+
+^KEYaiPaper0
+
+> <span class="AIReading">🤖 AI 解读，快人一步</span>
+> 
+> > 好的，用户提供了一篇完整的学术论文，要求我作为学术文献深度解读专家进行解读。这篇论文是物理领域的经典文献，关于投影增强波方法，内容非常专业且篇幅较长。
+> > 
+> > 我需要按照用户给定的详细角色定位和格式规范来组织我的解读。用户要求报告包含八个核心模块，从引言、逻辑概览、图表解析到批判性分析和问题解答，结构非常明确。用户的需求是获得一个结构清晰、易于理解的知识框架，这需要我将复杂的原始内容转化为逻辑连贯的解读报告。
+> > 
+> > 首先，我需要通读并理解论文的核心内容。这篇论文提出了一种新的电子结构计算方法PAW，它结合了LAPW和赝势方法的优点。我需要抓住这个核心，并按照“背景/问题-方法/模型-实验/数据-结论”的逻辑链来重构内容。
+> > 
+> > 接下来，我需要规划报告的结构。引言部分要概述背景、核心问题和论文价值。逻辑概览部分要梳理出论文的论证链条。图表解析部分需要深度分析论文中的图表，包括坐标轴、图例和关键结论。正文内容剖析部分要详细阐述方法原理和关键公式。结论部分要总结核心发现和贡献。未来展望、批判性分析和问题解答部分则需要基于论文内容进行延伸思考。
+> > 
+> > 我需要特别注意术语管理，首次出现专业术语时要提供中英文对照和解释，并用加粗标注。对于可视化元素，如流程图，要用文字描述并提供_斜体_提示。输出必须严格遵循Markdown语法，确保格式规范。
+> > 
+> > 整个思考过程要确保客观中立，仅基于文献内容进行分析，避免主观评价。最终的报告要在专业性和可读性之间取得平衡，信息密度控制在2000-5000字左右。
+> 
+> # 学术文献深度解读报告
+> 
+> ## 一、引言
+> 
+> ### 1.1 研究领域背景
+> 
+> 在过去的几十年中，**电子结构计算**（Electronic Structure Calculations）对理解固体物理性质做出了革命性贡献。绝大多数此类计算都基于**密度泛函理论**（Density-Functional Theory, DFT）的**局域密度近似**（Local-Density Approximation, LDA）。该理论的核心思想是将相互作用电子气的基态映射到非相互作用电子在有效势场中的基态，从而将复杂的多体问题转化为可求解的单粒子薛定谔方程。
+> 
+> ### 1.2 核心问题
+> 
+> 长期以来，电子结构计算方法分为两大阵营：
+> 
+> -   **线性方法**（Linear Methods）：以**线性增强平面波方法**（Linear Augmented-Plane-Wave, LAPW）和**线性丸盒轨道方法**（Linear Muffin-Tin Orbital, LMTO）为代表，精度高但形式复杂
+> -   **赝势方法**（Pseudopotential Method）：以平面波赝势法为代表，形式简洁但对第一行元素和过渡金属处理困难
+> 
+> 这两种方法之间存在显著鸿沟，研究者长期期待一种能融合两者优势的统一方法。
+> 
+> ### 1.3 文献定位
+> 
+> 本文是**投影增强波方法**（Projector Augmented-Wave Method, PAW）的奠基性论文，由P.E. Blöchl于1994年发表在《物理评论B》上。该论文提出了一种全新的电子结构计算框架，以自然的方式统一了赝势方法和LAPW方法，至今已被引用超过数万次，成为现代第一性原理计算的主流方法之一。
+> 
+> ### 1.4 核心价值
+> 
+> -   **理论突破**：建立了最通用的增强方案，弥合了全电子方法与赝势方法之间的鸿沟
+> -   **方法创新**：首次实现了基于全波函数的能量守恒分子动力学模拟
+> -   **实践优势**：可轻松整合到现有赝势代码中，计算效率与精度兼顾
+> 
+> * * *
+> 
+> ## 二、论文结构与逻辑概览
+> 
+> ### 2.1 论文架构
+> 
+> 本论文遵循“理论形式化 → 实用近似 → 具体实现 → 验证比较”的经典逻辑链条：
+> 
+> 
+
+<pre class="hljs"><code>理论框架建立（第II节）
+    ↓
+实用近似引入（第III节）
+    ↓
+力学量与算符推导（第IV节）
+    ↓
+分子动力学实现（第V节）
+    ↓
+方法构建细节（第VI节）
+    ↓
+误差分析（第VII节）
+    ↓
+数值验证（第VIII节）
+    ↓
+与现有方法比较（第IX节）
+</code></pre>
+
+
+> 
+> ### 2.2 核心论证链条
+> 
+> 1.  **问题本质**：真实波函数在原子核附近剧烈振荡，在成键区域平滑，传统方法难以兼顾
+> 2.  **解决策略**：引入线性变换`𝒯`，将物理的全电子（AE）波函数映射到计算便捷的赝（PS）波函数空间
+> 3.  **关键创新**：用投影函数（Projector Functions）的标量积确定部分波展开系数，而非传统的球面匹配
+> 4.  **实用化**：截断平面波基组和部分波展开，引入补偿电荷密度处理静电相互作用
+> 5.  **验证**：通过原子散射性质、分子结构参数和分子动力学模拟证明方法的高精度
+> 
+> * * *
+> 
+> ## 三、所有图表深度解析
+> 
+> ### 图1：部分波与投影函数（Mn原子）
+> 
+> **图像描述**：
+> 
+> -   _建议设计为2×3网格布局，左侧列展示AE与PS部分波，右侧列展示投影函数_
+> -   **左图(a)-(c)**：实线表示AE部分波，虚线/点划线表示PS部分波
+> -   **右图(d)-(f)**：实线表示第一投影函数，虚线表示第二投影函数
+> -   **行对应关系**：(a)(d)为s角动量通道，(b)(e)为p通道，(c)(f)为d通道
+> -   **横轴**：r（以玻尔半径a₀为单位）
+> -   **纵轴**：函数值（任意单位，独立缩放）
+> 
+> **关键观察**：
+> 
+> 1.  AE部分波在靠近原子核处剧烈振荡，展现出全电子波函数的特征
+> 2.  PS部分波在增强区域外与AE部分波完全一致，但在核附近平滑化
+> 3.  投影函数严格局域在增强区域内，形状与对应的PS部分波相关联
+> 4.  3s和3p态被处理为价态，体现了半芯态（Semicore States）的处理策略
+> 
+> **技术意义**：图中展示的构建质量直接决定了PAW方法的精度和收敛性。PS部分波的平滑程度影响所需平面波截断值，而投影函数的局域性保证了计算效率。
+> 
+> ### 图2：Mn原子的散射性质
+> 
+> **图像描述**：
+> 
+> -   _建议设计为单图，包含三条曲线，分别对应s、p、d角动量_
+> -   **横轴**：能量（eV）
+> -   **纵轴**：对数导数函数Dₗ(ε) = r·∂ₙψₗ(r,ε)/ψₗ(r,ε)，在r=3a₀处计算
+> -   **符号说明**：
+>     -   三角形、圆形、方形分别表示s、p、d角动量的精确结果
+>     -   实线：使用两个部分波的PAW结果
+>     -   虚线：仅使用一个部分波的PAW结果
+> 
+> **关键发现**：
+> 
+> 1.  在价带区域（约-10至0 eV），两种设置均与精确结果吻合良好
+> 2.  在高能区域（>5 eV），仅一个部分波时出现明显偏差
+> 3.  增加第二个部分波后，散射性质在占据态以上约1.5 Ry范围内保持精确
+> 4.  这证明了通过增加部分波数量可以系统性地扩展方法的能量适用范围
+> 
+> **物理意义**：对数导数函数反映了波函数在球面边界处的匹配性质，是衡量增强方法质量的直接指标。良好的散射性质意味着方法能够正确描述电子的输运和成键行为。
+> 
+> ### 图3：Mn原子波函数精度比较
+> 
+> **图像描述**：
+> 
+> -   _建议设计为2×3网格布局，上排(a)-(c)对应价带能量ε=-8.16 eV，下排(d)-(f)对应高能ε=+13.61 eV_
+> -   **每图包含四条曲线**：
+>     -   实线：PAW方法得到的AE波函数
+>     -   圆点：精确AE波函数（直接积分径向薛定谔方程）
+>     -   点划线：差值放大10倍
+>     -   虚线：PS波函数
+> -   **横轴**：r（a₀）
+> -   **纵轴**：波函数值（任意单位）
+> 
+> **精度分析**：
+> 
+> 1.  **价带区域（上排）**：
+>     
+>     -   PAW与精确解几乎完全重合，相对误差<1%
+>     -   PS波函数在核附近显著平滑，但在增强区域外与AE波函数一致
+> 2.  **高能区域（下排）**：
+>     
+>     -   s型波函数（d）出现约15%的偏差，在核附近低估波函数极大值
+>     -   p和d型波函数（e,f）仍保持高精度
+>     -   这种偏差是部分波截断误差的典型特征
+> 
+> **深远影响**：该图直观展示了PAW方法在宽能量范围内对波函数的高保真度重建能力，这是赝势方法无法直接提供的。
+> 
+> ### 图4：铁二聚体分子动力学模拟的能量守恒
+> 
+> **图像描述**：
+> 
+> -   _建议设计为单图，包含三条曲线_
+> -   **横轴**：时间（皮秒，ps）
+> -   **纵轴**：能量（eV，相对于初始值）
+> -   **曲线说明**：
+>     -   点划线：LDA总能量（势能面）
+>     -   虚线：波函数的虚拟动能
+>     -   实线：守恒能量
+> 
+> **动力学特征**：
+> 
+> 1.  势能面和虚拟动能呈现规整的周期性振荡，周期对应振动频率441 cm⁻¹
+> 2.  守恒能量（实线）在整个0.5 ps模拟中保持恒定，偏差<0.8 meV
+> 3.  无任何能量漂移现象，表明数值算法的正确性
+> 4.  虚拟动能的振荡不代表偏离Born-Oppenheimer面，而是波函数在势能面上的绝热运动
+> 
+> **里程碑意义**：这是首次展示基于全波函数的能量守恒分子动力学模拟，证明了PAW方法在动力学模拟中的可靠性。
+> 
+> ### 图5-7：平面波收敛性测试
+> 
+> **图5：原子总能量收敛性**
+> 
+> -   **横轴**：平面波截断能Epw（Ry）
+> -   **纵轴**：ΔE（eV），相对于Epw=50 Ry的结果
+> -   **测试元素**：H, Li, Be, B, N, O, F, Fe
+> -   **关键结果**：在30-40 Ry达到0.1 eV收敛精度，第一行元素中铁的收敛最慢
+> 
+> **图6：双原子分子结合能收敛性**
+> 
+> -   **坐标轴**：同图5
+> -   **关键结果**：结合能收敛速度显著快于绝对总能量，30 Ry时误差<0.1 eV
+> 
+> **图7：双原子分子键长收敛性**
+> 
+> -   **纵轴**：Δd（a₀），相对于Epw=50 Ry的结果
+> -   **关键结果**：30 Ry时键长已精确到0.02 a₀（<1%）
+> 
+> **综合结论**：PAW方法在中等平面波截断（30 Ry）下即可获得高精度结果，与Vanderbilt超软赝势的收敛性相当，但计算效率更高。
+> 
+> * * *
+> 
+> ## 四、正文核心内容剖析
+> 
+> ### 4.1 研究方法：投影增强波形式（第II节）
+> 
+> #### 4.1.1 核心思想
+> 
+> PAW方法的核心是引入一个线性变换`𝒯`，将“真实”的**全电子波函数**（All-Electron Wave Function）|Ψ⟩ 映射到“计算友好”的**赝波函数**（Pseudo Wave Function）|Ψ̃⟩：
+> 
+> |Ψ⟩ = 𝒯|Ψ̃⟩
+> 
+> 其中变换算符的形式为：
+> 
+> 𝒯 = 1 + Σᵣ 𝒯ᵣ
+> 
+> 每个原子的贡献𝒯ᵣ仅在**增强区域**（Augmentation Region）Ωᵣ内非零。这个区域在LAPW方法中对应丸盒球（Muffin-Tin Sphere），在赝势方法中对应芯区（Core Region）。
+> 
+> #### 4.1.2 关键构建要素
+> 
+> PAW方法由三个基本要素定义：
+> 
+> 1.  **AE部分波**（All-Electron Partial Waves）|φᵢ⟩：
+>     
+>     -   通过径向积分孤立原子的薛定谔方程获得
+>     -   正交于芯态
+>     -   提供波函数在核附近的精确描述
+> 2.  **PS部分波**（Pseudo Partial Waves）|φ̃ᵢ⟩：
+>     
+>     -   在增强区域外与AE部分波完全一致
+>     -   在增强区域内平滑延拓
+>     -   构成完整的函数集
+> 3.  **投影函数**（Projector Functions）|p̃ᵢ⟩：
+>     
+>     -   局域在增强区域内
+>     -   满足双正交条件：⟨p̃ᵢ|φ̃ⱼ⟩ = δᵢⱼ
+>     -   用于从PS波函数提取部分波展开系数
+> 
+> #### 4.1.3 波函数的重构
+> 
+> 全电子波函数可通过PS波函数重构为：
+> 
+> |Ψ⟩ = |Ψ̃⟩ + Σᵢ (|φᵢ⟩ - |φ̃ᵢ⟩) ⟨p̃ᵢ|Ψ̃⟩
+> 
+> 这个公式是PAW方法的精髓：
+> 
+> -   第一项是平滑的PS波函数
+> -   第二项在增强区域内“修正”PS波函数，恢复真实的振荡行为
+> -   在增强区域外，由于|φᵢ⟩ = |φ̃ᵢ⟩，修正项自动消失
+> 
+> #### 4.1.4 算符变换
+> 
+> 对于任意算符A，其在PS表示中的对应算符为：
+> 
+> Ã = A + Σᵢⱼ |p̃ᵢ⟩ (⟨φᵢ|A|φⱼ⟩ - ⟨φ̃ᵢ|A|φ̃ⱼ⟩) ⟨p̃ⱼ|
+> 
+> 这个表达式与**广义可分离赝势**（Generalized Separable Pseudopotentials）形式完全一致，体现了PAW与赝势方法的深刻联系。
+> 
+> ### 4.2 总能量泛函（第IIC节）
+> 
+> 总能量被分解为三个部分：
+> 
+> E = Ẽ + E¹ - Ẽ¹
+> 
+> 其中：
+> 
+> -   **Ẽ**：平滑部分，在傅里叶空间或实空间规则网格上计算
+> -   **E¹**：AE单中心贡献，在径向网格上以角动量表示计算
+> -   **Ẽ¹**：PS单中心贡献，扣除双计数
+> 
+> #### 补偿电荷密度（Compensation Charge Density）
+> 
+> 这是PAW方法的关键技术创新。引入补偿电荷密度n̂：
+> 
+> n̂(r) = Σᵣₗ gᵣₗ(r) Qᵣₗ
+> 
+> 其中gᵣₗ是广义高斯函数，其多极矩被归一化为1。多极矩Qᵣₗ由AE和PS电荷密度的多极矩差确定。
+> 
+> 补偿电荷密度的作用是：
+> 
+> -   使AE和PS单中心电荷密度具有相同的静电多极矩
+> -   将静电相互作用从单中心项转移到平滑的平面波部分
+> -   实现平面波展开和部分波展开的严格分离
+> 
+> ### 4.3 实用近似（第III节）
+> 
+> 为了实现实用计算，引入两个关键近似：
+> 
+> 1.  **平面波截断**：仅包含G²/2 ≤ Epw的平面波分量
+> 2.  **部分波截断**：每个原子位点和角动量通道仅保留有限数量的部分波（通常1-2个）
+> 
+> 这两个截断定义了新的总能量泛函，其精度可通过增大截断值系统性地提高。对于典型应用，30 Ry平面波截断和每角动量1-2个部分波即可获得良好收敛。
+> 
+> ### 4.4 力与哈密顿量（第IV节）
+> 
+> #### 4.4.1 重叠算符
+> 
+> PAW方法的一个重要特征是PS波函数不再正交，其重叠算符为：
+> 
+> Õ = 1 + Σᵢⱼ |p̃ᵢ⟩ (⟨φᵢ|φⱼ⟩ - ⟨φ̃ᵢ|φ̃ⱼ⟩) ⟨p̃ⱼ|
+> 
+> 这是放松**规范守恒条件**（Norm-Conservation Condition）的直接结果，也是PAW方法与规范守恒赝势的根本区别之一。
+> 
+> #### 4.4.2 力
+> 
+> 原子受力包含三个贡献：
+> 
+> Fᵣ = Fᵣ⁽¹⁾ + Fᵣ⁽²⁾ + Fᵣ⁽³⁾
+> 
+> -   Fᵣ⁽¹⁾：平滑部分和刚性偏移的贡献
+> -   Fᵣ⁽²⁾：单中心密度形状变化的贡献（Pulay力）
+> -   Fᵣ⁽³⁾：波函数正交性变化的贡献
+> 
+> ### 4.5 分子动力学实现（第V节）
+> 
+> #### 4.5.1 拉格朗日量
+> 
+> PAW方法的Car-Parrinello拉格朗日量为：
+> 
+> ℒ = Σᵣ ½Mᵣ Ṙᵣ² + Σₙ ½m_ψ ⟨ψ̃ₙ|ψ̃ₙ⟩ - E[{ψ̃ₙ},{Rᵣ}] + Σₙₘ Λₙₘ (⟨ψₙ|O|ψₘ⟩ - δₙₘ)
+> 
+> 其中最后一项通过拉格朗日乘子Λₙₘ确保波函数的正交性。
+> 
+> #### 4.5.2 波函数传播算法
+> 
+> 采用基于Verlet算法的迭代方案，确保在存在位置依赖重叠算符的情况下严格保持正交性和能量守恒。该算法是对Laasonen等人工作的扩展，可处理不同态的占据数不同的情况。
+> 
+> #### 4.5.3 离子质量重正化
+> 
+> 由于电子波函数跟随离子运动产生“拖曳”效应，离子有效质量增加。作者提出通过减去以下项来补偿：
+> 
+> ΔM = -⅔ m_ψ Σₙ fₙ ⟨ψ̃ₙ|-½∇²|ψ̃ₙ⟩_平面波部分
+> 
+> 在铁二聚体算例中，质量重正化约为8%。
+> 
+> ### 4.6 部分波与投影函数的构建（第VI节）
+> 
+> #### 4.6.1 AE部分波
+> 
+> 通过标量相对论版本的径向薛定谔方程在孤立原子自洽势场中积分获得。能量选择策略：
+> 
+> -   第一个部分波：最低束缚价态能量
+> -   第二个部分波：散射性质开始恶化的能量处
+> 
+> #### 4.6.2 PS部分波
+> 
+> 构建方法与赝势构建完全类似，但不需要施加规范守恒条件。PS势的构造采用两种方案：
+> 
+> -   过渡金属：四阶多项式微分匹配
+> -   无d电子元素：平滑截断函数内插
+> 
+> #### 4.6.3 投影函数
+> 
+> 通过迭代正交化过程构建，确保双正交条件成立。构建过程按以下步骤进行：
+> 
+> 1.  计算初步投影函数：|p̃ᵢ⟩ = (-½∇² + ṽ̃ᵢ - εᵢ)|φ̃ᵢ⟩
+> 2.  正交化到低阶PS部分波
+> 3.  修正AE和PS部分波以确保正交性
+> 4.  归一化
+> 
+> ### 4.7 误差分析（第VII节）
+> 
+> #### 4.7.1 波函数截断误差
+> 
+> PAW方法的关键性质是**加法增强**（Additive Augmentation）原理：AE和PS部分波展开以完全相同的方式截断。这保证了：
+> 
+> -   波函数在增强区域边界处的高阶可微性
+> -   未显式包含的高阶部分波由平面波尾部表示
+> -   基组的完备性不受部分波截断影响
+> 
+> 数学证明：对于任意正交于芯态的AE波函数，存在唯一的PS波函数，只要矩阵aᵢⱼ = ⟨pᵢ|φ̃ⱼ⟩无非零右本征值。
+> 
+> #### 4.7.2 总能量截断误差
+> 
+> 总能量误差的主导项为：
+> 
+> ΔE = 2Re Σᵣₙ fₙ ⟨Ψ̃ₙ - Ψ̃ₙ¹| (1-Pᶜ)[(v-ṽᵢ) - (εₙ-εᵢ)]|φ̃ᵢ⟩ ⟨p̃ᵢ|Ψ̃ₙ⟩
+> 
+> 关键结论：**原子核和芯态的强变化势场对误差无贡献**，这是由于电荷密度可转移性和能量可转移性误差的有效抵消。这是PAW方法高精度的理论基础。
+> 
+> #### 4.7.3 方法扩展
+> 
+> 论文提出了两种可能扩展：
+> 
+> 1.  **优化部分波**：将部分波调整以适应实际势场，通过“向下折叠增强”（Downfolded Augmentation）技术
+> 2.  **超越冻芯近似**：允许芯态弛豫，通过混合冻芯和弛豫芯态构建新的部分波
+> 
+> ### 4.8 数值验证（第VIII节）
+> 
+> #### 4.8.1 原子散射性质
+> 
+> Mn原子计算表明：两个部分波/角动量可在占据态以上约1.5 Ry（约20 eV）范围内精确再现散射性质，完全满足大多数计算需求。
+> 
+> #### 4.8.2 分子结构性质
+> 
+> 对H₂、Li₂、Be₂、B₂、C₂、N₂、O₂、F₂、Fe₂等双原子分子进行系统测试：
+> 
+> -   键长偏差：<1%
+> -   振动频率偏差：约4%
+> -   结合能偏差：0.1-0.2 eV
+> 
+> 与最精确的全电子LDA计算完全一致。
+> 
+> #### 4.8.3 MnFO₃高氧化态测试
+> 
+> 即使Mn处于+7氧化态，PAW方法仍能精确预测键长。冻芯和包含半芯态的计算结果几乎相同（d_MnF ≈ 3.19-3.21 a₀，d_MnO ≈ 2.97-2.98 a₀），与全电子计算完全一致。
+> 
+> #### 4.8.4 分子动力学质量
+> 
+> 铁二聚体分子动力学模拟显示：
+> 
+> -   能量守恒精度：<0.8 meV/0.5 ps
+> -   无能量漂移
+> -   振动频率与静态计算一致（441 cm⁻¹ vs 412-418 cm⁻¹）
+> 
+> #### 4.8.5 平面波收敛性
+> 
+> 系统测试表明PAW方法的收敛性：
+> 
+> -   30-40 Ry达到0.1 eV精度
+> -   键长在30 Ry时已精确到0.02 a₀
+> -   结合能收敛显著快于绝对总能量
+> 
+> 与Vanderbilt超软赝势的收敛性相当，但由于电荷密度截断可仅为波函数截断的两倍（而非四倍），计算效率更高。
+> 
+> * * *
+> 
+> ## 五、结论与贡献
+> 
+> ### 5.1 核心发现
+> 
+> 1.  **方法统一性**：PAW方法以自然的方式统一了增强波方法和赝势方法，LAPW方法是其特例，赝势方法通过明确近似获得
+>     
+> 2.  **全波函数访问**：首次实现了在平面波基组下对全波函数的直接访问，提供了超精细参数、电场梯度等核附近性质的直接计算能力
+>     
+> 3.  **高精度验证**：分子结构参数、振动频率、结合能的计算精度与最精确的现有全电子方法相当，键长偏差<1%，结合能偏差<0.2 eV
+>     
+> 4.  **能量守恒分子动力学**：首次基于全波函数实现了能量守恒的Car-Parrinello分子动力学模拟，能量守恒精度<0.8 meV
+>     
+> 5.  **计算效率**：平面波收敛性与Vanderbilt超软赝势相当，但电荷密度截断可降低一半，计算效率更高
+>     
+> 6.  **误差可控性**：通过增加平面波截断和/或部分波数量可系统性地提高精度，误差源已被详尽分析
+>     
+> 
+> ### 5.2 理论贡献
+> 
+> -   **最通用增强方案**：建立了从PS波函数到AE波函数的最一般线性变换框架
+> -   **加法增强原理**：严格证明部分波展开的一致性截断保证了基组完备性和误差抵消
+> -   **冻芯部分波优势**：在分子动力学中避免了“隐藏变量”问题，总能量是PS波函数和原子位置的唯一函数
+> 
+> ### 5.3 实践贡献
+> 
+> -   **实现可行性**：可相对容易地整合到现有赝势代码中
+> -   **线性标度计算**：单中心项的计算量与原子数成线性关系，实际中可忽略
+> -   **灵活性**：可自由选择增强区域半径、部分波数量、平面波截断，实现精度与效率的平衡
+> 
+> * * *
+> 
+> ## 六、未来发展方向展望
+> 
+> ### 6.1 论文中明确提出的方向
+> 
+> 1.  **部分波优化**：将部分波调整以适应实际势场，包括非球形部分，可进一步提高精度
+>     
+> 2.  **冻芯近似放松**：允许芯态弛豫，通过自洽循环处理芯态和价态的耦合
+>     
+> 3.  **投影函数构建改进**：借鉴赝势方法积累的丰富经验，优化PS部分波和投影函数，进一步降低所需平面波截断
+>     
+> 
+> ### 6.2 潜在研究方向
+> 
+> 4.  **动能泛函**：PAW方法的框架可直接应用**轨道自由密度泛函理论**（Orbital-Free DFT），实现线性标度计算
+>     
+> 5.  **激发态方法**：将PAW框架与**多体微扰理论**（GW近似）和**Bethe-Salpeter方程**结合，实现激发态和光谱的高精度计算
+>     
+> 6.  **响应性质**：开发PAW框架下的**密度泛函微扰理论**（DFPT），计算声子谱、介电性质等响应函数
+>     
+> 7.  **混合泛函**：将PAW方法与**精确交换**（Exact Exchange）和杂化泛函结合，超越LDA/GGA精度
+>     
+> 8.  **强关联体系**：将PAW作为**LDA+U**和**动力学平均场理论**（DMFT）的基础，处理强关联电子体系
+>     
+> 9.  **时间依赖DFT**：将PAW方法推广到时域，实现**实时间时间依赖密度泛函理论**（TDDFT）的激发态动力学模拟
+>     
+> 10.  **相对论扩展**：纳入**自旋-轨道耦合**和全相对论效应，处理重元素体系
+>     
+> 
+> ### 6.3 历史发展验证
+> 
+> 该论文发表后，以上许多方向已被实现并成为标准方法。PAW方法已成为VASP、ABINIT、GPAW等主流第一性原理计算软件的核心算法，广泛应用于凝聚态物理、材料科学、量子化学等领域。
+> 
+> * * *
+> 
+> ## 七、学术思考与批判性分析
+> 
+> ### 7.1 深度问题1：冻芯部分波策略的物理基础
+> 
+> **问题**：PAW方法采用从孤立原子导入的冻芯部分波，而非像LAPW方法那样调整部分波以适应实际势场。这种策略的物理基础是什么？在什么情况下可能失效？
+> 
+> **分析**：
+> 
+> -   **物理基础**：加法增强原理保证了即使部分波不精确匹配实际势场，平面波尾部仍可补偿差异。误差分析（第VII节）证明，只要部分波展开以一致方式截断，误差主导项中原子核和芯态的强变化势场部分会精确抵消
+> -   **优势**：在分子动力学中，冻芯部分波避免了“隐藏变量”问题，总能量是PS波函数和原子位置的唯一函数，保证了能量守恒
+> -   **可能失效的情形**：
+>     -   极高压下芯态显著变形
+>     -   强电场或磁场下的原子极化
+>     -   芯态参与化学成键的镧系/锕系元素
+> -   **验证**：MnFO₃算例中，冻芯和包含半芯态的计算结果几乎相同，为冻芯策略提供了直接验证
+> 
+> ### 7.2 深度问题2：补偿电荷密度的物理意义
+> 
+> **问题**：补偿电荷密度n̂在PAW方法中扮演什么角色？其引入是否会在某些极限情况下引入系统误差？
+> 
+> **分析**：
+> 
+> -   **物理本质**：n̂不是物理电荷密度，而是数学工具，其作用是：
+>     1.  将AE和PS单中心电荷密度的多极矩差异转移到平滑的平面波部分
+>     2.  实现快速收敛的静电能量计算
+>     3.  生成短程对势，可将昂贵的傅里叶变换转化为解析计算
+> -   **引入的限制**：n̂的高斯函数形式要求其衰减半径小于增强区域半径，这对增强区域的最小尺寸设置了限制。在极端高压下，增强区域可能重叠，此时需要特殊处理（如O₂算例中，设置Op因增强区域重叠导致振动频率偏低5%）
+> -   **系统误差分析**：n̂的引入在完整部分波展开下是精确的，误差仅来自部分波截断。误差分析（第VII节）证明，多极矩转移的误差与部分波截断误差同阶，可通过增加部分波数量控制
+> 
+> ### 7.3 深度问题3：与超软赝势的本质区别
+> 
+> **问题**：PAW方法与Vanderbilt超软赝势在形式上有许多相似之处，两者的本质区别是什么？在什么应用场景下应选择PAW而非超软赝势？
+> 
+> **分析**：
+> 
+> -   **本质区别**：
+>     1.  **全电子vs赝势**：PAW是真正的全电子方法，保留了完整的波函数和势场信息；超软赝势放弃了芯区的波函数信息
+>     2.  **赝化步骤**：PAW不进行任何赝化，AE和PS量之间的关系由精确线性变换定义；超软赝势需要赝化步骤，可能引入额外误差
+>     3.  **芯态处理**：PAW自然包含芯态，可用于计算超精细参数、电场梯度等核附近性质；超软赝势无法直接提供这些信息
+>     4.  **电荷密度表示**：PAW在径向网格上处理单中心项，允许更低的电荷密度平面波截断
+> -   **选择依据**：
+>     -   需要核附近性质（如NMR、EFG、XPS）→ PAW
+>     -   需要最高精度，且对误差来源需要严格理解 → PAW
+>     -   计算资源极度受限，且仅需要价电子性质 → 超软赝势
+>     -   需要与现有赝势数据库兼容 → 超软赝势
+> 
+> ### 7.4 深度问题4：部分波截断与能量区域的依赖关系
+> 
+> **问题**：论文显示，PAW方法在价带区域精度极高，但高能区域（如ε=+13.6 eV）s型波函数出现约15%的偏差。这种能量依赖的精度损失根源是什么？如何系统性地改善？
+> 
+> **分析**：
+> 
+> -   **误差根源**：
+>     1.  部分波展开的能量适用范围有限：对于给定的部分波数量，存在一个特征能量范围，超出此范围部分波展开不能完全表示波函数的变化
+>     2.  高能s型波函数在核附近有更复杂的节点结构，需要更多部分波才能准确描述
+>     3.  误差公式（第VIIC节）中的(εₙ-εᵢ)项表明，当考察态的能量远离部分波构建能量时，截断误差增大
+> -   **改善策略**：
+>     1.  增加部分波数量：论文证明，从1个增至2个部分波/角动量可显著扩展能量适用范围
+>     2.  优化部分波能量选择：在更宽能量范围内分布部分波构建能量
+>     3.  使用能量导数部分波：类似于线性方法，包含∂φ/∂ε
+>     4.  自适应部分波：根据实际计算中波函数的能量分布动态调整部分波集合
+> -   **实践意义**：对于大多数成键和低能激发性质，价带附近的精度完全足够。高能态的精度要求通常出现在X射线吸收谱（XAS）等芯能级谱学中，此时需要特殊处理
+> 
+> ### 7.5 深度问题5：PAW方法在强关联体系中的局限性
+> 
+> **问题**：PAW方法是基于LDA/GGA的密度泛函理论框架，在处理强关联电子体系（如莫特绝缘体、重费米子体系）时可能面临根本性困难。这些困难源于何处？PAW框架能否与超越LDA的方法结合？
+> 
+> **分析**：
+> 
+> -   **根本困难**：
+>     1.  **离域化误差**：LDA/GGA固有的自相互作用误差导致d/f电子过度离域化，无法描述莫特绝缘态
+>     2.  **静态关联**：DFT的单行列式形式无法描述近简并基态的静态关联
+>     3.  **动态关联**：Kohn-Sham能带与真实准粒子能带存在系统性偏差
+> -   **PAW框架的优势**：
+>     1.  PAW提供的全波函数可直接用于构建LDA+U的占据矩阵
+>     2.  全势场信息可用于构建更精确的屏蔽库仑相互作用
+>     3.  部分波形式天然适合定义局域化的轨道基组
+> -   **已实现的扩展**：
+>     1.  **LDA+U**：利用PAW的部分波投影定义局域占据矩阵
+>     2.  **杂化泛函**（HSE06等）：PAW框架下实现精确交换
+>     3.  **GW近似**：PAW波函数提供准确的矩阵元
+>     4.  **DMFT**：利用PAW构建局域Wannier轨道
+> -   **残余挑战**：
+>     1.  双计数修正：LDA+U和DMFT中LDA与模型哈密顿量的双计数处理仍存在任意性
+>     2.  屏蔽参数：U和J参数的选择通常依赖经验或额外计算
+>     3.  计算成本：超越LDA的方法通常增加1-2个数量级的计算量
+> 
+> * * *
+> 
+> ## 八、用户问题预测与解答
+> 
+> ### 问题1：PAW方法中的“增强区域”如何选择？增大增强区域会带来什么影响？
+> 
+> **解答**：增强区域Ωᵣ的选择是PAW构建中的重要自由度。通常选择为以原子核为中心的球体，半径r_c的选择遵循以下原则：
+> 
+> -   **下限**：必须大于芯态密度的显著范围，以保证PS波函数在增强区域外与AE波函数一致
+> -   **上限**：应小于最近邻原子间距的一半，避免增强区域重叠（重叠会导致补偿电荷密度构造复杂化，如O₂算例）
+> 
+> **增大增强区域的影响**：
+> 
+> -   **优势**：PS波函数更平滑，可降低平面波截断；部分波展开更准确
+> -   **劣势**：单中心项的计算量增加（但线性标度，影响不大）；增强区域重叠风险增加
+> 
+> **实践建议**：通常选择芯态电荷密度衰减到可忽略水平的半径，对于大多数元素约为共价半径的80-100%。
+> 
+> ### 问题2：为什么PAW方法能在放松规范守恒条件后仍保持高精度？
+> 
+> **解答**：规范守恒条件要求PS部分波和AE部分波具有相同的范数：⟨φ̃ᵢ|φ̃ⱼ⟩ = ⟨φᵢ|φⱼ⟩。这一条件在传统赝势中确保：
+> 
+> 1.  散射性质在能量εᵢ附近的一阶能量导数正确
+> 2.  电荷密度在芯区外正确
+> 
+> **PAW方法放松规范守恒条件的补偿机制**：
+> 
+> 1.  **部分波展开**：通过显式包含多个部分波/角动量，保证了散射性质在宽能量范围内的正确性，不再依赖范数守恒
+> 2.  **重叠算符**：Õ = 1 + Σᵢⱼ |p̃ᵢ⟩(⟨φᵢ|φⱼ⟩ - ⟨φ̃ᵢ|φ̃ⱼ⟩)⟨p̃ⱼ| 精确补偿了范数差异，保证波函数正交性
+> 3.  **单中心项**：总能量中的E¹和Ẽ¹精确处理了范数差异引起的电荷密度和动能变化
+> 
+> **本质**：PAW方法通过增加部分波数量和显式处理重叠算符，将范数守恒条件从“必须满足”变为“可自由选择其平滑程度”，在保持精度的同时获得更平滑的PS波函数。
+> 
+> ### 问题3：PAW方法与LAPW方法相比，计算效率如何？
+> 
+> **解答**：PAW方法相对于传统LAPW实现具有显著效率优势，但相对于现代LAPW实现（如Singh的投影基技术）优势减少。
+> 
+> **效率分析**：
+> 
+> -   **PAW优势**：
+>     
+>     1.  使用平面波基组，可利用快速傅里叶变换（FFT），标度为O(N_FFT log N_FFT)
+>     2.  哈密顿量对角化在PS波函数空间进行，基组大小可控
+>     3.  单中心项计算量与原子数N成线性关系，且可高度并行
+>     4.  电荷密度截断仅需为波函数截断的2倍，降低FFT成本
+> -   **LAPW挑战**：
+>     
+>     1.  增强区域内的匹配条件导致基组大小随原子数N³增长
+>     2.  非规则格点积分需要特殊处理
+>     3.  全势场在间隙区的表示成本高
+> -   **现代LAPW改进**（如Singh方法）：
+>     
+>     1.  使用投影基函数将N³标度降至N²lnN
+>     2.  混合基组（平面波+局域轨道）提高效率
+> 
+> **定量比较**（论文数据）：
+> 
+> -   PAW在30 Ry平面波截断下即可获得高精度
+> -   对于中等规模体系（<100原子），PAW和优化LAPW效率相当
+> -   对于大规模体系（>100原子），PAW的平面波形式更易扩展
+> 
+> ### 问题4：在分子动力学模拟中，如何确保波函数始终保持在Born-Oppenheimer面上？
+> 
+> **解答**：在Car-Parrinello分子动力学中，波函数通过虚拟质量m_ψ引入虚拟动力学，其运动方程决定了波函数与Born-Oppenheimer面的偏离程度。
+> 
+> **保持绝热性的关键措施**：
+> 
+> 1.  **虚拟质量选择**：
+>     
+>     -   虚拟质量m_ψ决定波函数动力学的特征频率ω_ψ ∝ √(E_gap/m_ψ)，其中E_gap是带隙
+>     -   选择m_ψ使ω_ψ远大于离子振动频率ω_ion，但远小于电子激发频率ω_el
+>     -   典型值：m_ψ ≈ 1000 a.u.，时间步长Δt ≈ 10 a.u. (≈0.25 fs)
+> 2.  **能量传递控制**：
+>     
+>     -   离子到波函数的能量传递速率正比于E_gap⁻²
+>     -   金属体系（E_gap=0）需特殊处理，通常使用Nose-Hoover热浴分别控制离子和电子温度
+> 3.  **质量重正化**（PAW特有）：
+>     
+>     -   波函数跟随离子运动的“拖曳”效应增加离子有效质量
+>     -   通过减去ΔM = -⅔ m_ψ Σₙ fₙ ⟨ψ̃ₙ|-½∇²|ψ̃ₙ⟩_平面波部分进行补偿
+>     -   本文算例中补偿约8%
+> 4.  **监测指标**：
+>     
+>     -   虚拟动能应保持恒定的低水平振荡，不应出现单调漂移
+>     -   守恒能量应保持恒定（偏差<1 meV/ps）
+>     -   图4展示了理想的绝热行为
+> 
+> **实践建议**：对于有带隙的体系，Car-Parrinello动力学通常表现良好；对于金属体系，建议使用系综方法（如Nose-Hoover热浴）或直接进行Born-Oppenheimer分子动力学（每个时间步对角化哈密顿量）。
+> 
+> ### 问题5：PAW方法如何处理自旋极化计算？是否支持非共线磁性？
+> 
+> **解答**：PAW方法天然支持自旋极化计算，且可扩展到非共线磁性。
+> 
+> **自旋极化实现**：
+> 
+> 1.  **波函数**：自旋向上和自旋向下的波函数独立处理，分别对应PS波函数|ψ̃ₙ↑⟩和|ψ̃ₙ↓⟩
+> 2.  **电荷密度**：总电荷密度n = n↑ + n↓，自旋密度m = n↑ - n↓
+> 3.  **部分波**：AE和PS部分波本身不依赖自旋，但投影系数cᵢₙ↑ = ⟨p̃ᵢ|ψ̃ₙ↑⟩和cᵢₙ↓ = ⟨p̃ᵢ|ψ̃ₙ↓⟩分别计算
+> 4.  **交换关联**：使用自旋密度泛函s[n↑, n↓]的LDA/GGA泛函（如Perdew-Zunger参数化）
+> 
+> **非共线磁性扩展**：
+> 
+> 1.  波函数表示为二分量旋量：|ψ̃ₙ⟩ = (ψ̃ₙ↑, ψ̃ₙ↓)ᵀ
+> 2.  密度矩阵推广为2×2矩阵：n_αβ(r) = Σₙ fₙ ψ̃ₙα*(r) ψ̃ₙβ(r)
+> 3.  部分波投影系数推广为旋量形式
+> 4.  交换关联需使用非共线泛函，依赖于密度矩阵的四个分量
+> 5.  需包含自旋-轨道耦合（SOC）项，PAW框架下可自然实现
+> 
+> **实践应用**：
+> 
+> -   共线自旋：广泛用于磁性材料计算，如Fe₂算例
+> -   非共线磁性：用于研究自旋螺旋、斯格明子、自旋轨道耦合效应
+> -   自旋-轨道耦合：VASP等软件基于PAW实现了SOC，用于拓扑绝缘体、量子自旋霍尔效应等研究
+> 
+> **技术细节**：非共线计算中，PAW的单中心项需在旋量空间计算，算符矩阵元推广为⟨φᵢ|A|φⱼ⟩ → ⟨φᵢα|A|φⱼβ⟩，投影函数和部分波本身保持标量形式。
+> 
+> * * *
+> 
+> ## 总结
+> 
+> Blöchl的这篇论文是电子结构计算领域的里程碑式工作。它不仅提出了PAW方法这一理论框架，更通过详尽的数值验证和误差分析证明了其实际可行性。PAW方法成功弥合了全电子方法与赝势方法之间长期存在的鸿沟，为高精度、高效率的第一性原理计算提供了统一的解决方案。
+> 
+> 该论文的突出特点是：
+> 
+> 1.  **理论严谨性**：从最一般的线性变换出发，系统推导了PAW方法的所有组成部分
+> 2.  **实践指导性**：详细描述了部分波、投影函数、补偿电荷密度的构建方法，提供了可直接使用的参数
+> 3.  **诚实性**：详尽分析了方法的近似、误差来源和局限性，并探讨了可能的改进方向
+> 4.  **前瞻性**：预见了许多后来的发展方向，如LD
+> 
+> A+U、杂化泛函、非共线磁性等
+> 
+> 经过近30年的发展，PAW方法已被证明是电子结构计算中最成功的方法之一，该论文的引用次数已超过4万次，且仍在持续增长。对于任何希望深入理解第一性原理计算方法的研究者，这篇论文都是必读的经典文献。
+> 
+> 🚀 [笔记回链](zotero://select/library/items/IENGRFAV)
+> 
+> * * *
+> 
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/11 05:35:36 （重新解读）_
+> 
+> 🏷️ #🤖️/论文深度解读 🏷️ #🤖️/AI文献阅读
+
+^KEY78CEA6CC
+
+## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span>
 
 > 🚀 [笔记回链](zotero://select/library/items/5HAD2QYI)
 
@@ -566,156 +1032,2083 @@
 
 > <span class="AIReading">🤖 AI 解读，快人一步</span>
 > 
-> # Projector augmented-wave method
+> > 好的，用户提供了一个很长的任务描述，要求将一篇PDF提取的纯英文物理学术论文文本，转换为结构化的Markdown格式，并进行双语处理。我需要仔细处理这个任务。
+> > 
+> > 用户的核心需求是：我需要作为技术文档格式化工程师兼专业译员，对提供的英文文本进行结构解析、单元切分、逐单元翻译，并标注首次出现的核心术语。输出必须严格遵循CommonMark规范。
+> > 
+> > 这个任务看起来复杂，但结构清晰。我可以先快速浏览一下用户提供的文本，识别出它的结构。文本开头有期刊信息、标题、作者、摘要，然后是“I. INTRODUCTION”这样的章节标题，内容中有公式、引用、列表等元素。我需要将这些结构元素映射到Markdown的标题、段落、代码块等。
+> > 
+> > 我的处理流程应该是：先整体解析文本结构，划分逻辑单元，为每个单元分配ID。然后，对每个单元，我需要提供英文原文、中文翻译，并在首次出现时标注术语解释。最后，按照Markdown格式规范输出。
+> > 
+> > 对于标题，我会使用多级“#”号。对于摘要和正文段落，我会保持原文和翻译的对应。对于特殊的格式，比如论文中的公式或引用，我需要用代码块或引用块来呈现。术语解释的格式是`**Term**: 解释`。
+> > 
+> > 现在，我开始构思具体的回复。我会保持原文顺序，确保信息不遗漏，翻译准确，格式规范。可以开始处理了。
 > 
-> 投影扩波方法 **Projector augmented-wave (PAW) method**: 一种电子结构计算方法，通过线性变换将全电子波函数映射为光滑的伪波函数，结合了伪势法的计算效率和全电子方法的精度。
+> # PHYSICAL REVIEW B VOLUME 50, NUMBER 24
 > 
-> **PHYSICAL REVIEW B VOLUME 50, NUMBER 24** **15 DECEMBER 1994** **P. E. Blochl** **IBM Research Division, Zurich Research Laboratory, CH-8808 Ruschlikon, Switzerland** (Received 13 June 1994; revised manuscript received 22 August 1994)
+> # 物理评论B 卷50, 第24号
 > 
-> An approach for electronic structure calculations is described that generalizes both the pseudopotential method and the linear augmented-plane-wave (LAPW) method in a natural way. The method allows high-quality first-principles molecular-dynamics calculations to be performed using the original fictitious Lagrangian approach of Car and Parrinello. Like the LAPW method it can be used to treat first-row and transition-metal elements with affordable effort and provides access to the full wave function. The augmentation procedure is generalized in that partial-wave expansions are not determined by the value and the derivative of the envelope function at some muffin-tin radius, but rather by the overlap with localized projector functions. The pseudopotential approach based on generalized separable pseudopotentials can be regained by a simple approximation. 本文描述了一种电子结构计算方法，它以自然的方式推广了伪势法和线性扩平面波（LAPW）方法。该方法允许使用 Car 和 Parrinello 原始的虚拟拉格朗日量方法进行高质量的第一原理分子动力学计算。与 LAPW 方法一样，它可以以可承受的计算代价处理第一行元素和过渡金属元素，并能获得全波函数。其扩充过程得到了推广，即分波展开不再由包络函数在某个 Muffin-tin 半径处的数值及其导数决定，而是由与局域投影函数的重叠决定。基于广义可分伪势的伪势方法可以通过简单的近似还原出来。 **Pseudopotential method**: 伪势法，通过用一个等效势（伪势）替代原子核及内层电子的强势，简化电子结构计算。 **Linear augmented-plane-wave (LAPW) method**: 线性扩平面波法，一种高精度的全电子计算方法，在原子球内使用数值径向函数，在球外使用平面波。 **First-principles molecular-dynamics**: 第一原理分子动力学，基于量子力学基本原理而不依赖经验参数的原子运动模拟。
+> Projector augmented-wave method 投影缀加平面波方法
 > 
-> ## I. INTRODUCTION
+> 15 DECEMBER 1994-II 1994年12月15日-II
 > 
-> ## I. 引言
+> P. E. Blochl P. E. 布洛赫
 > 
-> In the past few decades, electronic structure calculations have made significant contributions to our understanding of solid-state properties. The majority of such calculations are based on the local-density approximation (LDA) of the density-functional theory. 在过去的几十年里，电子结构计算为我们理解固态性质做出了重大贡献。这类计算大多基于密度泛函理论的局域密度近似（LDA）。 **Local-density approximation (LDA)**: 局域密度近似，密度泛函理论中假设交换相关能仅取决于该点的局部电子密度。 **Density-functional theory (DFT)**: 密度泛函理论，一种通过电子密度而非多电子波函数来描述多体系统的量子力学方法。
+> IBM Research Division, Zurich Research Laboratory, CH-8808 Ruschlikon, Switzerland IBM研究部，苏黎世研究实验室，CH-8808 吕施利孔，瑞士
 > 
-> The density-functional theory maps the ground state of an interacting electron gas onto the ground state of noninteracting electrons, which experience an effective potential. Numerous methods have been developed to solve the resulting one-particle Schrodinger equation of the LDA. The most widely used electronic structure methods can be divided into two classes: (i) the linear methods developed by Andersen from the augmented-plane-wave (APW) method and the Korringa-Kohn-Rostocker methods and (ii) the pseudopotential method based on norm-conserving ab initio pseudopotentials invented by Hamann, Schluter, and Chiang. 密度泛函理论将相互作用电子气的基态映射到非相互作用电子的基态上，后者在有效势中运动。为了求解 LDA 产生的单粒子薛定谔方程，人们开发了众多方法。最广泛使用的电子结构方法可分为两类：（i）由 Andersen 基于扩平面波（APW）方法和 Korringa-Kohn-Rostocker 方法开发的线性方法；（ii）基于 Hamann、Schluter 和 Chiang 发明的保模从头算伪势的伪势法。 **Ab initio**: 从头算，指不依赖实验参数，完全基于物理常数和量子力学原理的计算。
+> (Received 13 June 1994; revised manuscript received 22 August 1994) （1994年6月13日收到；修订稿于1994年8月22日收到）
 > 
-> A third class, primarily employed in chemistry, uses Gaussian basis sets to expand the full wave functions. The linear methods can be subdivided into a variety of methods ranging from the most accurate linear augmented-plane-wave (LAPW) method to the linear muffin-tin orbital (LMTO) method, which, in a simplified version, even allows some electronic structure calculations to be performed with paper and pencil. 第三类方法主要用于化学领域，使用高斯基组来展开全波函数。线性方法可进一步细分为多种方法，范围从最精确的线性扩平面波（LAPW）方法到线性 Muffin-tin 轨道（LMTO）方法，后者在简化版本中甚至允许用纸笔进行部分电子结构计算。 **Gaussian basis sets**: 高斯基组，化学计算中常用的数学函数组，用于近似表示分子轨道。 **Linear muffin-tin orbital (LMTO) method**: 线性 Muffin-tin 轨道法，一种简化了的全电子线性方法。
+> An approach for electronic structure calculations is described that generalizes both the pseudopotential method and the linear augmented-plane-wave (LAPW) method in a natural way. The method allows high-quality first-principles molecular-dynamics calculations to be performed using the original fictitious Lagrangian approach of Car and Parrinello. Like the LAPW method it can be used to treat first-row and transition-metal elements with affordable effort and provides access to the full wave function. The augmentation procedure is generalized in that partial-wave expansions are not determined by the value and the derivative of the envelope function at some muKn-tin radius, but rather by the overlap with localized projector functions. The pseudopotential approach based on generalized separable pseudopotentials can be regained by a simple approximation. 本文描述了一种电子结构计算方法，该方法以自然的方式统一了赝势方法和线性缀加平面波（LAPW）方法。该方法允许使用Car和Parrinello的原始虚构拉格朗日方法进行高质量的从头算分子动力学计算。与LAPW方法类似，它能以可承受的计算代价处理第一行和过渡金属元素，并提供了获取完整波函数的途径。缀加过程被推广，因为分波展开不再由包络函数在某个muffin-tin半径处的值和导数决定，而是由与局域投影函数的重叠决定。基于广义可分离赝势的赝势方法可以通过一个简单的近似重新获得。
 > 
-> The linear methods deal with the full wave functions and treat all elements in the Periodic Table, i.e., s-, p-, d-, and f-electron systems, on the same footing. The pseudopotential method, when used in combination with a plane-wave basis set, on the other hand, has the advantage of formal simplicity. When applied to either first-row elements or systems with d or f electrons, even pseudopotentials become very "hard," so that in practice either very large or complicated basis sets instead of plane waves have to be used. 线性方法处理全波函数，并以同样的方式对待周期表中的所有元素，即 s、p、d 和 f 电子系统。另一方面，伪势法与平面波基组结合使用时，具有形式简单的优点。然而，当应用于第一行元素或含有 d 或 f 电子的系统时，即使是伪势也会变得非常“硬”，导致在实践中必须使用极大或复杂的基组而非平面波。
+> **projector augmented-wave (PAW) method**: 投影缀加平面波方法，一种结合了赝势方法和缀加平面波方法优点的电子结构计算方法。 **pseudopotential method**: 赝势方法，一种用较平滑的赝势替代原子核附近强库仑势以简化电子结构计算的方法。 **linear augmented-plane-wave (LAPW) method**: 线性缀加平面波方法，一种高精度的全电子结构计算方法。 **first-principles molecular-dynamics**: 从头算分子动力学，不依赖经验参数，直接基于量子力学原理模拟原子运动的方法。 **fictitious Lagrangian approach**: 虚构拉格朗日方法，Car和Parrinello提出的一种将电子自由度视为经典动力学变量的分子动力学方法。 **envelope function**: 包络函数，在缀加波方法中，描述原子间区域波函数行为的平滑函数。 **projector functions**: 投影函数，用于从赝波函数中提取分波展开系数的局域函数。 **generalized separable pseudopotentials**: 广义可分离赝势，一种非局域赝势形式，其算符可写成可分离项之和。
 > 
-> Similarly, treating semicore states as valence states, which is often necessary for early transition-metal elements and alkali and alkaline earth metals, results in hard pseudopotentials and affects the transferability of the pseudopotential. Vanderbilt's ultrasoft pseudopotentials have improved this situation significantly by relaxing the norm-conservation condition that is usually imposed on the pseudopotential approach. This method also allows first-row and transition-metal elements to be dealt with in an economical way. 同样地，将半芯态视为价态（对于早期过渡金属元素以及碱金属和碱土金属通常很有必要）会导致伪势变硬，并影响伪势的可转移性。Vanderbilt 的超软伪势通过放宽通常强加在伪势法上的保模条件，显著改善了这种情况。该方法还允许以经济的方式处理第一行元素和过渡金属元素。 **Semicore states**: 半芯态，指能量较高、在某些化学环境下可能参与成键的内层电子态。 **Transferability**: 可转移性，指在一个环境下构建的伪势在另一个不同环境下（如从原子到晶体）依然保持准确的能力。 **Ultrasoft pseudopotentials**: 超软伪势，一种通过不要求波函数保模而大幅降低平面波截断能的伪势方法。
+> # I. INTRODUCTION
 > 
-> Car and Parrinello have combined the density-functional theory with molecular-dynamics techniques. Here both the electronic structure problem and the dynamics of the atoms are solved simultaneously by a set of Newton's equations. In this way not only has the structure determination become a straightforward technique, but the fully dynamic time evolution of the atomic structure has also become accessible. The Car-Parrinello method was first applied in the context of the plane-wave pseudopotential method. Car 和 Parrinello 将密度泛函理论与分子动力学技术相结合。在这种方法中，电子结构问题和原子的动力学通过一组牛顿方程同时求解。这样一来，结构确定不仅成为一种直接的技术，原子的完全动态时间演化也变得可行。Car-Parrinello 方法最初应用于平面波伪势法的框架下。
+> # I. 引言
 > 
-> There is considerable interest in applying the same technique to all-electron (AE) methods, which allow one to deal efficiently with first-row and transition-metal elements and which supply information about the wave function close to the nucleus probed by several experimental techniques, but not provided by the pseudopotential approach. These are, among many others, hyperfine parameters and electric field gradients. 人们对将同样的技术应用于全电子（AE）方法有浓厚兴趣，因为 AE 方法能高效处理第一行和过渡金属元素，并能提供原子核附近波函数的信息。这些信息可以通过多种实验技术探测，但伪势法无法提供，例如超精细参数和电场梯度。 **All-electron (AE) methods**: 全电子方法，考虑所有电子（包括内层芯电子）的计算方法。 **Hyperfine parameters**: 超精细参数，由电子波函数在原子核处的密度及其分布决定的物理量。
+> In the past few decades, electronic structure calculations have made significant contributions to our understanding of solid-state properties. The majority of such calculations are based on the local-density approximation 在过去的几十年里，电子结构计算对我们理解固体性质做出了重大贡献。这类计算大部分基于局域密度近似
 > 
-> Several features of the Car-Parrinello method have been implemented into existing AE methods such as the combined minimization of electronic and nuclear degrees of freedom. To my knowledge, however, no energy-conserving molecular-dynamics simulation has been performed to date that can compare in terms of quality with simulations using the pseudopotential approach. Car-Parrinello 方法的几个特性已被引入到现有的 AE 方法中，例如电子和核自由度的联合最小化。然而，据我所知，迄今为止还没有任何能量守恒的分子动力学模拟在质量上能与使用伪势法的模拟相媲美。
+> (LDA) of the density-functional theory. ~ 2 The densityfunctional theory maps the ground state of an interacting electron gas onto the ground state of noninteracting electrons, which experience an effective potential. Numerous methods have been developed to solve the resulting one-particle Schrodinger equation of the LDA. The most widely used electronic structure methods can be divided into two classes: (i) the linear methodss developed by Andersen &om the augmented-plane-wave （LDA）的密度泛函理论。~ 2 密度泛函理论将相互作用电子气的基态映射到感受有效势的非相互作用电子的基态。为解决由此产生的LDA单粒子薛定谔方程，人们已经发展了多种方法。最广泛使用的电子结构方法可以分为两类：（i）由Andersen从缀加平面波发展而来的线性方法
 > 
-> This article describes an approach that combines the versatility of the LAPW method with the formal simplicity of the traditional plane-wave pseudopotential approach. The method extends the augmented-wave methods, such as the LAPW method, and the pseudopotential method in a natural way. As an AE method it provides the full wave functions that are not directly accessible with the pseudopotential approach, and the potential is determined properly from the full charge densities. 本文描述了一种将 LAPW 方法的多功能性与传统平面波伪势法形式简单性相结合的方法。该方法以自然的方式扩展了扩波方法（如 LAPW 方法）和伪势法。作为一种 AE 方法，它提供了伪势法无法直接获得的全波函数，且势能是由全电荷密度正确决定的。
+> (APW) method4's and the Korringa-Kohn-Rostocker (APW)方法4,5 和Korringa-Kohn-Rostoker
 > 
-> It will be demonstrated that the accuracy of the method described here compares well with the most accurate existing electronic structure methods based on the local-density approximation. The quality of first-principles molecular dynamics obtained with the present AE approach is in line with that of state-of-the-art Car-Parrinello calculations. Hence the first energy-conserving molecular-dynamics calculations based on the full wave functions were made possible. Finally, it can be implemented with relatively minor effort into existing pseudopotential codes. 本文将证明，此处描述的方法在精度上与基于 LDA 的最精确的现有电子结构方法相当。使用本 AE 方法获得的第一原理分子动力学质量与最前沿的 Car-Parrinello 计算一致。因此，基于全波函数的首次能量守恒分子动力学计算成为可能。最后，该方法可以用相对较小的代价集成到现有的伪势代码中。
+> methods' and (ii) the pseudopotential method based on norm-conserving O,b initio pseudopotentials invented by Hamann, Schluter, and Chiang. A third class, primarily employed in chemistry, uses Gaussian basis sets to expand the full wave functions. 方法7 以及（ii）基于Hamann、Schluter和Chiang发明的范数守恒从头算赝势的赝势方法。8 第三类主要在化学中使用，用高斯型基组展开完整波函数。
 > 
-> The method has many similarities with both the existing linear methods and the pseudopotential approach. We can therefore expect that this method will close the gap between the two. The LAPW method is a special case of the present method, and the pseudopotential formalism is obtained by a well-defined approximation. 该方法与现有的线性方法和伪势法都有许多相似之处。因此，我们可以期待这种方法将弥合两者之间的差距。LAPW 方法是本方法的一个特例，而伪势形式可以通过一个明确的近似获得。
+> **local-density approximation (LDA)**: 局域密度近似，密度泛函理论中一种用均匀电子气近似处理交换相关能的方法。 **density-functional theory**: 密度泛函理论，一种用电子密度作为基本变量描述多电子体系基态性质的理论。 **norm-conserving ab initio pseudopotentials**: 范数守恒从头算赝势，满足范数守恒条件（赝波函数和全电子波函数在核心区外具有相同电荷）的、不依赖经验参数的第一性原理赝势。
 > 
-> This article is organized as follows. Section II establishes the principles of the method. Section III describes which approximations are required in real calculations. Section IV derives the expressions for the Hamilton operator and forces. Section V describes the implementation in a first-principles molecular-dynamics scheme. Section VI describes the basic ingredients used in the method, such as partial waves and projector functions. Section VII contains a detailed analysis of the errors introduced in Section III. Section VIII is devoted to numerical test calculations. Section IX shows the relation between the new method and existing approaches. 本文结构如下：第二节建立方法原理；第三节描述实际计算中所需的近似；第四节推导哈密顿算符和力的表达式；第五节描述在第一原理分子动力学方案中的实现；第六节描述方法中使用的基本要素，如分波和投影函数；第七节对第三节中引入的误差进行详细分析；第八节致力于数值测试计算；第九节展示新方法与现有方法之间的关系。
+> The linear methods can be subdivided into a variety of methods ranging &om the most accurate linear augmented-plane-wave (LAPW) method to the linear muffin-tin orbital (LMTO) method, which, in a simplified version, even allows some electronic structure calculations to be performed with paper and pencil. The linear methods deal with the full wave functions and treat 线性方法可以细分为多种，从最精确的线性缀加平面波（LAPW）方法到线性muffin-tin轨道（LMTO）方法，后者在简化版本中甚至允许用纸笔完成一些电子结构计算。线性方法处理完整波函数，并以
 > 
-> ## II. FORMALISM
+> all elements in the Periodic Table, i.e., 8-, p-, d-, and 同等基础处理周期表中的所有元素，即s-, p-, d-和
 > 
-> ## II. 形式化理论
+> f-electron systems, on the same footing. The pseudopotential method, when used in combination with a plane-wave basis set, on the other hand, has the advantage of formal simplicity. When applied to ei f-电子系统。另一方面，赝势方法当与平面波基组结合使用时，具有形式简单的优点。当应用于
 > 
-> ### A. Projector augmented-wave functions
+> ther first-row elements or systems with d or f electrons, 第一行元素或具有d或f电子的系统时，
 > 
-> ### A. 投影扩波函数
+> even pseudopotentials become very "hard, " so that in practice either very large or complicated basis sets in 即使赝势也变得非常"硬"，以至于在实践中要么必须使用非常大或复杂的基组来
 > 
-> Wave functions of real materials have very different signatures in different regions of space: in the bonding region the wave function is fairly smooth, whereas close to the nucleus the wave function oscillates rapidly owing to the large attractive potential of the nucleus. 真实材料的波函数在空间的不同区域具有截然不同的特征：在成键区域，波函数相当光滑；而在靠近原子核的区域，由于原子核强大的吸引势，波函数剧烈震荡。
+> stead of plane waves have to be used. Similarly, treating semicore states as valence states, which is often necessary for early transition-metal elements and allmli and alkaline 代替平面波。类似地，将半芯态作为价态处理（这对于早期过渡金属元素以及碱金属和碱土
 > 
-> This is the source of the difficulty of electronic structure methods to describe the bonding region to a high degree of accuracy while accounting for the large variations in the atom center. The strategy of the augmented-wave methods has been to divide the wave function into parts, namely, a partial-wave expansion within an atom-centered sphere and envelope functions outside the spheres. 这就是电子结构方法在保证原子中心剧烈变化的同时，难以高精度描述成键区域的原因。扩波方法的策略是将波函数分为两部分：即原子中心球内的分波展开和球外的包络函数。 **Partial-wave expansion**: 分波展开，将波函数分解为不同角动量分量的组合。 **Envelope function**: 包络函数，在扩波方法中描述波函数整体趋势的光滑函数。
+> earth metals, results in hard pseudopotentials and sects 金属通常是必要的）会导致硬赝势并影响
 > 
-> The envelope function is expanded into plane waves or some other convenient basis set. Envelope function and partial-wave expansions are then matched with value and derivative at the sphere radius. 包络函数被展开为平面波或其他方便的基组。随后，包络函数和分波展开在球半径处通过数值及其导数进行匹配。
+> the transferability of the pseudopotential. Vanderbilt's 赝势的可迁移性。Vanderbilt的
 > 
-> Even though the present method has been inspired by the existing augmented-wave methods, I approach the problem in a somewhat different way. The relation of my approach to the commonly used one described above will be described in Sec. IXB. 尽管本方法受到了现有扩波方法的启发，但我处理问题的方式有所不同。本方法与上述常用方法的关系将在第 IXB 节中描述。
+> ultrasoft pseudopotentials9 ~o have improved this situation significantly by relaxing the norm-conservation condition that is usually imposed on the pseudopotential approach. This xnethod also allows first-rom and transitionmetal elexnents to be dealt with in an economical way. 超软赝势9,10 通过放松通常施加在赝势方法上的范数守恒条件，显著改善了这种情况。这种方法也允许以经济的方式处理第一行和过渡金属元素。
 > 
-> Concerning the following derivation it is emphasized that the present method is, in a certain sense, the most general augmentation scheme. Let us consider the Hilbert space of all wave functions orthogonal to the core states. The physically relevant wave functions in this Hilbert space exhibit strong oscillations, which make a numerical treatment cumbersome. 在接下来的推导中，需要强调的是，在某种意义上，本方法是最通用的扩充方案。让我们考虑所有与芯态正交的波函数的希尔伯特空间。该空间中具有物理相关性的波函数表现出强烈的震荡，这使得数值处理非常繁琐。 **Hilbert space**: 希尔伯特空间，量子力学中定义波函数及其内积的完备复内积空间。 **Core states**: 芯态，指原子内部能量较低、不参与化学成键的内层电子态。
+> **linear muffin-tin orbital (LMTO) method**: 线性muffin-tin轨道方法，一种基于muffin-tin势近似的高效电子结构计算方法。 **semicore states**: 半芯态，能量介于价态和深芯态之间的电子态，在某些计算中需要作为价态处理。 **transferability**: 可迁移性，赝势在不同化学环境中保持准确性的能力。 **ultrasoft pseudopotentials**: 超软赝势，Vanderbilt提出的一种放松了范数守恒条件的赝势，允许使用更小的平面波截断能。
 > 
-> Therefore, we transform the wave functions of this Hilbert space into a new, so-called pseudo (PS) Hilbert space. Mapping the physical valence wave functions onto the fictitious PS wave functions thus defined shall be a linear transformation and it shall transform the physically relevant AE wave functions onto computationally convenient PS wave functions. 因此，我们将该希尔伯特空间的波函数转换为一个新的、所谓的伪（PS）希尔伯特空间。将物理价波函数映射到这样定义的虚拟 PS 波函数上的过程应是一个线性变换，它将物理相关的所有电子（AE）波函数转换为计算方便的 PS 波函数。 **Pseudo (PS) Hilbert space**: 伪希尔伯特空间，一个通过变换定义的数学空间，其中的函数（伪波函数）比原空间中的波函数更光滑。
+> Car and Parrinello have combined the densityfunctional theory with molecular-dynamics techniques. Here both the electronic structure problexn and the dynamics of the atoms are solved simultaneously by a set of Newton's equations. In this way not only has the structure deterxnination become a straightforward technique, but the fully dynaxnic time evolution of the atomic structure has also become accessible. The Car-Parrinello method was first applied in the context of the plane-wave pseudopotential method. There is considerable interest in applying the same technique to all-electron (AE) methods, which allow one to deal efficiently with first-row and transition-xnetal elements and which supply inforxnation about the wave function close to the nucleus probed by several experimental techniques, but not provided by the pseudopotential approach. These are, among many others, hyperfine parameters and electric field gradients. ' Several features of the Car-Parrinello method have been implexnented into existing AE methods such as the combined minimization of electronic and nuclear degrees of &eedom. To my knowledge, however, no energyconserving molecular-dynaxnics simulation has been perforxned to date that can compare in terms of quality with simulations using the pseudopotential approach. Car和Parrinello已将密度泛函理论与分子动力学技术相结合。在此，电子结构问题和原子动力学通过一组牛顿方程同时求解。这样，不仅结构确定成为一种直接的技术，而且原子结构的完全动态时间演化也变得可及。Car-Parrinello方法最初是在平面波赝势方法的背景下应用的。将相同技术应用于全电子（AE）方法引起了相当大的兴趣，这些方法允许高效处理第一行和过渡金属元素，并提供关于原子核附近波函数的信息，这些信息可由多种实验技术探测，但赝势方法无法提供。这些包括超精细参数和电场梯度等。 14 Car-Parrinello方法的几个特征已被实现在现有的AE方法中，例如电子和核自由度的联合最小化。然而，据我所知，迄今为止尚未进行过可与使用赝势方法的模拟在质量上相媲美的能量守恒分子动力学模拟。
 > 
-> The PS wave functions will be identified with the envelope functions of the linear methods or the wave functions of the pseudopotential approach. An AE wave function is a full one-electron Kohn-Sham wave function and is not to be confused with a many-electron wave function. PS 波函数将等同于线性方法的包络函数或伪势法的波函数。AE 波函数是一个完整的一电子 Kohn-Sham 波函数，不应与多电子波函数混淆。 **Kohn-Sham wave function**: Kohn-Sham 波函数，在 DFT 中通过将相互作用系统映射为非相互作用系统而引入的单电子波函数。
+> **all-electron (AE) method**: 全电子方法，直接处理所有电子（包括芯电子）的电子结构计算方法。 **hyperfine parameters**: 超精细参数，描述原子核与电子之间磁相互作用强度的参数。 **electric field gradients**: 电场梯度，描述电场在空间变化率的物理量，常用于核磁共振和穆斯堡尔谱分析。
 > 
-> All quantities related to the PS representation of the wave functions will henceforth be indicated by a tilde. This transformation changes the representation of the wave functions in a way reminiscent of the change from a Schrodinger to a Heisenberg picture. 此后，所有与波函数的 PS 表示相关的量都将用波浪号（$\tilde{}$）表示。这种变换改变了波函数的表示方式，让人想起从薛定谔绘景到海森堡绘景的转变。
+> This article describes an approach that combines the versatility of the LAPW method with the formal simplicity of the traditional plane-wave pseudopotential approach. The method extends the augmented-wave methods, such as the LAPW method, and the pseudopotential method in a natural way. As an AE method it provides the full wave functions that are not directly accessible with the pseudopotential approach, and the potential is determined properly &oxn the full charge densi 本文描述了一种方法，它结合了LAPW方法的多功能性和传统平面波赝势方法的形式简洁性。该方法以自然的方式扩展了缀加波方法（如LAPW方法）和赝势方法。作为一种AE方法，它提供了赝势方法无法直接获得的完整波函数，并且势是从完整电荷密度中正确确定的。
 > 
-> Knowing the transformation $\mathcal{T}$ from the PS wave function to the AE wave functions, we can obtain physical quantities, represented as the expectation value $\langle A \rangle$ of some operator $A$, from the PS wave functions $|\tilde{\psi}\rangle$ either directly as $\langle \tilde{\psi} | \mathcal{T}^\dagger A \mathcal{T} | \tilde{\psi} \rangle$ after transformation to the true AE wave functions $|\psi\rangle = \mathcal{T} |\tilde{\psi}\rangle$ or as the expectation value $\langle A \rangle = \langle \tilde{\psi} | \tilde{A} | \tilde{\psi} \rangle$ of a PS operator $\tilde{A} = \mathcal{T}^\dagger A \mathcal{T}$ in the Hilbert space of the PS wave functions. 已知从 PS 波函数到 AE 波函数的变换 $\mathcal{T}$，我们可以从 PS 波函数 $|\tilde{\psi}\rangle$ 获得物理量（表示为某个算符 $A$ 的期望值 $\langle A \rangle$），方式可以是变换到真实的 AE 波函数 $|\psi\rangle = \mathcal{T} |\tilde{\psi}\rangle$ 后直接计算 $\langle \tilde{\psi} | \mathcal{T}^\dagger A \mathcal{T} | \tilde{\psi} \rangle$，或者将其表示为 PS 波函数希尔伯特空间中 PS 算符 $\tilde{A} = \mathcal{T}^\dagger A \mathcal{T}$ 的期望值 $\langle A \rangle = \langle \tilde{\psi} | \tilde{A} | \tilde{\psi} \rangle$。
+> 0163-1829/94/50(24)/17953(27)/$06. 00 50 17 953 Q~1994 The American Physical Society 0163-1829/94/50(24)/17953(27)/$06.00 50 17 953 ©1994 美国物理学会
 > 
-> Similarly we can evaluate the total energy directly as a functional of the PS wave functions. The ground-state PS wave functions can be obtained from the PS Hamiltonian. 同样地，我们可以直接将总能量评估为 PS 波函数的泛函。基态 PS 波函数可以通过 PS 哈密顿量获得。
+> # 17 954 P. E. BLOCHL
 > 
-> Next, we choose a particular transformation. Since we will exploit the characteristics of particular atom types, we consider only transformations that differ from identity by a sum of local, atom-centered contributions $\mathcal{T}_R$ such that $\mathcal{T} = 1 + \sum_R \mathcal{T}_R$. 接下来，我们选择一个特定的变换。由于我们将利用特定原子类型的特性，我们仅考虑那些与单位变换之差为局部原子中心贡献 $\mathcal{T}_R$ 之和的变换，即 $\mathcal{T} = 1 + \sum_R \mathcal{T}_R$。
+> # 17 954 P. E. 布洛赫
 > 
-> Each local contribution $\mathcal{T}_R$ acts only within some augmentation region $\Omega_R$ enclosing the atom. This implies that AE and PS wave functions coincide outside the augmentation regions. 每个局部贡献 $\mathcal{T}_R$ 仅在包裹原子的某个扩充区域 $\Omega_R$ 内起作用。这意味着在扩充区域之外，AE 波函数和 PS 波函数是重合的。
+> ties. It will be demonstrated that the accuracy of the method described here compares well with the most accurate existing electronic structure methods based on the local-density approximation. The quality of firstprinciples molecular dynamics obtained with the present AE approach is in line with that of state-of-the-art CarParrinello calculations. Hence the first energy-conserving molecular-dynamics calculations based on the full wave functions were made possible. Finally, it can be implemented with relatively minor efFort into existing pseudopotential codes. The method has many similarities with both the existing linear methods and the pseudopotential approach. We can therefore expect that this method will close the gap between the two. The LAPW method is a special case of the present method, and the pseudopotential formalisrn is obtained by a well-defined approximation. 将证明本文所述方法的准确性与基于局域密度近似的现有最精确电子结构方法相当。用本AE方法获得的从头算分子动力学的质量与最先进的Car-Parrinello计算相当。因此，基于完整波函数的首次能量守恒分子动力学计算成为可能。最后，它可以相对较小的努力实现在现有的赝势代码中。该方法与现有的线性方法和赝势方法都有许多相似之处。因此，我们可以预期该方法将弥合两者之间的差距。LAPW方法是本方法的一个特例，而赝势形式体系则通过一个明确定义的近似得到。
 > 
-> The equivalent of the augmentation region in the linear methods is the muffin-tin or atomic sphere. In the pseudopotential method the augmentation region corresponds to the so-called core region. 在线性方法中，扩充区域相当于 Muffin-tin 球或原子球。在伪势法中，扩充区域对应于所谓的芯区域（core region）。
+> This article is organized as follows. Section II establishes the principles of the method. Section III describes which approximations are required in real calculations. Section IV derives the expressions for the Hamilton operator and forces. Section V describes the implementation in a first-principles molecular-dynamics scheme. Section VI describes the basic ingredients used in the method, such as partial waves and projector functions. Section VII contains a detailed analysis of the errors introduced in Section III. Section VIII is devoted to numerical test calculations. Section IX shows the relation between the new method and existing approaches. 本文组织如下。第二节建立方法的基本原理。第三节描述实际计算中需要哪些近似。第四节推导哈密顿算符和力的表达式。第五节描述从头算分子动力学方案中的实现。第六节描述方法中使用的基本要素，如分波和投影函数。第七节包含对第三节中引入误差的详细分析。第八节致力于数值测试计算。第九节展示新方法与现有方法之间的关系。
 > 
-> The local terms $\mathcal{T}_R$ are defined for each augmentation region individually by specifying the target functions $|\phi_{i}\rangle$ of the transformation $\mathcal{T}$ for set of initial functions $|\tilde{\phi}_{i}\rangle$ that is orthogonal to the core states and otherwise complete in the augmentation region, namely, by $|\phi_{i}\rangle = (1 + \mathcal{T}_R)|\tilde{\phi}_{i}\rangle$ within $\Omega_R$. 局部项 $\mathcal{T}_R$ 为每个扩充区域单独定义，通过为一组在扩充区域内与芯态正交且完备的初始函数 $|\tilde{\phi}_{i}\rangle$ 指定变换 $\mathcal{T}$ 的目标函数 $|\phi_{i}\rangle$ 来实现，即在 $\Omega_R$ 内满足 $|\phi_{i}\rangle = (1 + \mathcal{T}_R)|\tilde{\phi}_{i}\rangle$。
+> # II. FORMALISM
 > 
-> I call the initial states $|\tilde{\phi}_{i}\rangle$ PS partial waves and the corresponding target functions $|\phi_{i}\rangle$ AE partial waves. A natural choice for these functions for the AE partial waves are solutions of the radial Schrodinger equation for the isolated atom, which are orthogonalized to the core states if necessary. 我将初始态 $|\tilde{\phi}_{i}\rangle$ 称为 PS 分波，将相应的目标函数 $|\phi_{i}\rangle$ 称为 AE 分波。对于 AE 分波，一个自然的选择是孤立原子的径向薛定谔方程的解，必要时将其与芯态正交化。
+> # II. 形式体系
 > 
-> Hence the index $i$ refers to the atomic site $R$, the angular momentum quantum numbers $l = (l, m)$, and an additional index $n$ to label different partial waves for the same site and angular momentum. 因此，索引 $i$ 指代原子位置 $R$、角动量量子数 $l = (l, m)$ 以及用于标记同一位置和角动量的不同分波的附加索引 $n$。
+> # A. Projector augmented-wave functions
 > 
-> For each such AE partial wave let us choose a PS partial wave denoted by $|\tilde{\phi}_{i}\rangle$. The PS partial waves must be identical to the corresponding AE partial waves outside the augmentation region and should themselves form a complete set of functions within the augmentation region. 对于每个这样的 AE 分波，让我们选择一个用 $|\tilde{\phi}_{i}\rangle$ 表示的 PS 分波。PS 分波在扩充区域之外必须与相应的 AE 分波相同，且它们本身应在扩充区域内形成一组完备函数。
+> # A. 投影缀加波函数
 > 
-> The remaining degree of freedom in the choice of the PS partial waves will be exploited to map the physically relevant AE wave functions onto computationally convenient PS wave functions. In our case these are smooth functions. 选择 PS 分波时剩余的自由度将被用于将物理相关的 AE 波函数映射到计算方便的 PS 波函数上。在我们的案例中，这些是光滑函数。
+> Wave functions of real materials have very different signatures in difFerent regions of space: in the bonding region the wave function is fairly smooth, whereas close to the nucleus the wave function oscillates rapidly owing to the large attractive potential of the nucleus. This is the source of the diKculty of electronic structure methods to describe the bonding region to a high degree of accuracy while accounting for the large variations in the atom center. The strategy of the augmented-wave methods has been to divide the wave function into parts, namely, a partial-wave expansion within an atom-centered sphere and envelope functions outside the spheres. The envelope function is expanded into plane waves or some other convenient basis set. Envelope function and partial-wave expansions are then matched with value and derivative at the sphere radius. 真实材料的波函数在空间不同区域具有非常不同的特征：在成键区域，波函数相当平滑，而在靠近原子核处，由于原子核的巨大吸引势，波函数快速振荡。这是电子结构方法在描述成键区域达到高精度同时又要考虑原子中心处巨大变化的困难根源。缀加波方法的策略是将波函数分成几个部分，即以原子为中心的球内的分波展开和球外的包络函数。包络函数被展开为平面波或其他方便的基组。然后，包络函数和分波展开在球半径处用值和导数进行匹配。
 > 
-> This formal definition must be turned into a closed expression for the transformation operator. We make use of the fact that, within the augmentation region, every PS wave function can be expanded into PS partial waves: $|\tilde{\psi}\rangle = \sum_i |\tilde{\phi}_i\rangle c_i$ within $\Omega_R$. 这个形式定义必须转化为变换算符的封闭表达式。我们利用这样一个事实：在扩充区域内，每个 PS 波函数都可以展开为 PS 分波：在 $\Omega_R$ 内 $|\tilde{\psi}\rangle = \sum_i |\tilde{\phi}_i\rangle c_i$。
+> **partial-wave expansion**: 分波展开，将波函数按角动量分量展开为径向函数和球谐函数乘积的线性组合。
 > 
-> Since $|\phi_i\rangle = \mathcal{T} |\tilde{\phi}_i\rangle$, the corresponding AE wave function is of the form $|\psi\rangle = \mathcal{T}|\tilde{\psi}\rangle = \sum_i |\phi_i\rangle c_i$ within $\Omega_R$, (4) with identical coefficients $c_i$ in both expansions. 由于 $|\phi_i\rangle = \mathcal{T} |\tilde{\phi}_i\rangle$，相应的 AE 波函数形式为：在 $\Omega_R$ 内 $|\psi\rangle = \mathcal{T}|\tilde{\psi}\rangle = \sum_i |\phi_i\rangle c_i$ (4)，且两次展开中的系数 $c_i$ 完全相同。
+> Even though the present method has been inspired by 尽管本方法受到了
 > 
-> Hence we can express the AE wave function as... where the expansion coefficients for the partial wave expansions remain to be determined. Since we require the transformation $\mathcal{T}$ to be linear, the coefficients must be linear functionals of the PS wave functions. Hence the coefficients are scalar products $c_i = \langle p_i | \tilde{\psi} \rangle$ (6) of the PS wave function with some fixed functions $\langle p_i |$, which I will call projector functions. 因此，我们可以将 AE 波函数表示为……其中分波展开的展开系数尚待确定。由于我们要求变换 $\mathcal{T}$ 是线性的，系数必须是 PS 波函数的线性泛函。因此，系数是 PS 波函数与某些固定函数 $\langle p_i |$ 的标量积 $c_i = \langle p_i | \tilde{\psi} \rangle$ (6)，我将这些函数称为投影函数。 **Projector functions**: 投影函数，用于将 PS 波函数投影到分波空间以确定展开系数的函数。
+> the existing augmented-wave methods, I approach the problem in a somewhat difFerent way. The relation of my approach to the commonly used one described above 现有缀加波方法的启发，但我以稍微不同的方式处理这个问题。我的方法与上述常用方法的关系
 > 
-> There is exactly one projector function for each PS partial wave. The projector functions must fulfill the condition $\langle p_i | \tilde{\phi}_j \rangle = \delta_{ij}$ within $\Omega_R$, so that the one-center expansion $\sum_i |\phi_i\rangle \langle p_i | \tilde{\psi} \rangle$ of a PS wave function is identical to the PS wave function $|\tilde{\psi}\rangle$ itself. 每个 PS 分波正好对应一个投影函数。投影函数必须满足在 $\Omega_R$ 内 $\langle p_i | \tilde{\phi}_j \rangle = \delta_{ij}$，这样 PS 波函数的单中心展开 $\sum_i |\phi_i\rangle \langle p_i | \tilde{\psi} \rangle$ 就与 PS 波函数 $|\tilde{\psi}\rangle$ 本身一致。
+> will be described in Sec. IXB. Concerning the following derivation it is emphasized that the present method is, in a certain sense, the most general augmentation scheme. 将在第IX B节中描述。关于以下推导，需要强调的是，本方法在某种意义上是缀加方案的最一般形式。
 > 
-> This implies that... The projector functions are localized in the augmentation region, even though more extended projector functions could in principle also be chosen. 这意味着……投影函数局域在扩充区域内，尽管原则上也可以选择更延展的投影函数。
+> Let us consider the Hilbert space of all wave functions orthogonal to the core states. The physically relevant wave functions in this Hilbert space exhibit strong os 让我们考虑所有与芯态正交的波函数的希尔伯特空间。在这个希尔伯特空间中，物理相关的波函数表现出强烈的振荡，这使得数值处理变得繁琐。
 > 
-> The most general form for the projector functions is $\langle p_i | = \langle f_i | \mathcal{L}_i$, where the $|f_i\rangle$ form an arbitrary, linearly independent set of functions. The projector functions are localized if the functions $|f_i\rangle$ are localized. 投影函数最一般的形式是 $\langle p_i | = \langle f_i | \mathcal{L}_i$，其中 $|f_i\rangle$ 构成一组任意的线性无关函数。如果函数 $|f_i\rangle$ 是局域的，那么投影函数也是局域的。
+> cillations, which make a numerical treatment cumbersome. Therefore, we transform the wave functions of this Hilbert space into a new, so-called pseudo (PS) Hilbert space. Mapping the physical valence wave functions onto the fictitious PS wave functions thus de6ned shall be a linear transformation and it shall transform the physically relevant AE wave functions onto computationally convenient PS wave functions. The PS wave functions will be identified with the envelope functions of the jinear methods or the wave functions of the pseudopotential approach. An AE wave function is a full one-electron Kohn-Sham wave function and is not to be confused with a many-electron wave function. All quantities related to the PS representation of the wave functions will henceforth be indicated by a tilde. 因此，我们将这个希尔伯特空间的波函数变换到一个新的、所谓的伪（PS）希尔伯特空间。将物理价波函数映射到如此定义的虚构PS波函数将是一个线性变换，它将物理相关的AE波函数变换为计算上方便的PS波函数。PS波函数将被等同于线性方法中的包络函数或赝势方法中的波函数。AE波函数是完整的单电子Kohn-Sham波函数，不要与多电子波函数混淆。所有与波函数的PS表示相关的量此后将用波浪号标记。
 > 
-> In summary, a linear transformation between the valence wave functions and fictitious PS wave functions has been established. Using this transformation, the AE wave function can be obtained from the PS wave function by... 总之，价波函数与虚拟 PS 波函数之间的线性变换已经建立。利用此变换，可以通过……从 PS 波函数获得 AE 波函数。
+> **Hilbert space**: 希尔伯特空间，泛函分析中完备的内积空间，在量子力学中用于描述波函数所在的向量空间。 **core states**: 芯态，原子中紧束缚于原子核、不参与化学成键的电子态。 **valence wave functions**: 价波函数，描述原子中参与化学成键的价电子的波函数。 **pseudo (PS) Hilbert space**: 伪希尔伯特空间，本方法中引入的虚构空间，其中波函数是平滑的、便于数值计算的。 **Kohn-Sham wave function**: Kohn-Sham波函数，密度泛函理论中引入的辅助单电子波函数，其平方和构成物理电荷密度。
 > 
-> The three quantities that determine this transformation are (i) the AE partial waves $|\phi_i\rangle$ obtained by radially integrating the Schrodinger equation of the atomic energy for a set of energies $\epsilon_i$ and orthogonalization to the core states; (ii) one PS partial wave $|\tilde{\phi}_i\rangle$, which coincides with the corresponding AE partial wave outside some augmentation region for each AE partial wave; and (iii) one projector function $\langle p_i |$ for each PS partial wave localized within the augmentation region and which obeys the relation $\langle p_i | \tilde{\phi}_j \rangle = \delta_{ij}$. 决定该变换的三个量是：（i）通过对一组能量 $\epsilon_i$ 径向积分原子能量薛定谔方程并与芯态正交化而获得的 AE 分波 $|\phi_i\rangle$；（ii）对于每个 AE 分波，对应一个在扩充区域之外与其重合的 PS 分波 $|\tilde{\phi}_i\rangle$；（iii）对于每个 PS 分波，对应一个局域在扩充区域内且满足 $\langle p_i | \tilde{\phi}_j \rangle = \delta_{ij}$ 关系的投影函数 $\langle p_i |$。
+> This transformation changes the representation of the wave functions in a way reminiscent of the change from a. Schrodinger to a Heisenberg picture. Knowing the transformation 7 from the PS wave function to the AE wave functions, we can obtain physical quantities, represented as the expectation value (A) of some operator A, frorii the PS wave functions ~4) either directly as (@~A~4) af 这种变换以类似于从薛定谔绘景到海森堡绘景的方式改变了波函数的表示。知道从PS波函数到AE波函数的变换T，我们可以从PS波函数|~4)获得物理量，表示为某个算符A的期望值(A)，要么直接作为(@~A~4)，在
 > 
-> The partial waves are functions on a radial grid, multiplied with spherical harmonics. In our case the PS wave functions are expanded into plane waves, but other choices are equally possible. The projectors are also calculated as a radial function times spherical harmonics, but are then transformed into the same representation as the PS wave functions, which, in our case, is a plane-wave representation. 分波是径向网格上的函数与球谐函数的乘积。在我们的案例中，PS 波函数被展开为平面波，但其他选择同样可行。投影函数同样被计算为径向函数乘以球谐函数，但随后被转换为与 PS 波函数相同的表示方式，在我们的案例中是平面波表示。
+> ter transformation to the true AE wave functions ~@) = 变换到真实的AE波函数~@) =
 > 
-> Since the projectors are tied to the atomic positions and since their shape is independent of the potential, their Fourier components are expressed as a product of a form factor and a structure factor. 由于投影函数与原子位置绑定，且其形状与势能无关，因此它们的傅里叶分量可表示为形状因子（form factor）和结构因子（structure factor）的乘积。
+> 7 ~4) or as the expectation value (A) = (4~A~4) of a PS T~4)之后，要么作为PS算符的期望值(A) = (4~A~4)
 > 
-> The core states $|\psi_c\rangle$ are decomposed in a way similar to the valence wave functions. They are decomposed into three contributions: a PS core wave function $|\tilde{\psi}_c\rangle$, which is identical to the true core state outside the augmentation region and a smooth continuation inside; an "AE core partial wave" $|\phi_{cp}\rangle$, which is identical to the AE core state $|\psi_c\rangle$ and is expressed as a radial function times spherical harmonics; and finally a "PS core partial wave" $|\tilde{\phi}_{cp}\rangle$, which is identical to the PS core state $|\tilde{\psi}_c\rangle$, but represented as a radial function times spherical harmonics. 芯态 $|\psi_c\rangle$ 以类似于价波函数的方式分解。它们被分解为三个贡献：一个 PS 芯波函数 $|\tilde{\psi}_c\rangle$（在扩充区域外与真实芯态相同，内部为光滑延拓）；一个“AE 芯分波” $|\phi_{cp}\rangle$（与 AE 芯态 $|\psi_c\rangle$ 相同，表示为径向函数乘以球谐函数）；以及一个“PS 芯分波” $|\tilde{\phi}_{cp}\rangle$（与 PS 芯态 $|\tilde{\psi}_c\rangle$ 相同，但表示为径向函数乘以球谐函数）。
+> operator A = 7 tA7 in the Hilbert space of the PS wave functions. Similarly we can evaluate the total energy directly as a functional of the PS wave functions. The ground-state PS wave functions can be obtained from A = T†AT在PS波函数的希尔伯特空间中的期望值。类似地，我们可以直接将总能量作为PS波函数的泛函来求值。基态PS波函数可以从以下获得
 > 
-> The core state is therefore expressed as... In contrast to the valence states, no projector functions need be defined for the core states, and the "coefficients" of the one-center terms are always unity. 因此，芯态被表示为……与价态不同，芯态不需要定义投影函数，且单中心项的“系数”始终为 1。
+> ~&71+)j,~t~(@) ~&71+)j,~t~(@)
 > 
-> Furthermore, consistent with the frozen-core approximation, the core states are imported from an isolated atom. In practice, a soft core scheme with core states that adjust to the instantaneous potential is also conceivable, but has not been implemented. 此外，根据冻结芯近似，芯态是从孤立原子中导入的。在实践中，芯态随瞬时势能而调整的软芯方案也是可行的，但尚未实现。 **Frozen-core approximation**: 冻结芯近似，假设原子的内层芯电子在化学环境或动力学模拟过程中保持不变。
+> Next, we choose a particular transformation. Since we will exploit the characteristics of particular atom types, we consider only transformations that differ &om identity by a sum of local, atom-centered contributions 7R such that 接下来，我们选择一个特定的变换。由于我们将利用特定原子类型的特性，我们只考虑那些与恒等变换相差一个局域、以原子为中心的贡献TR之和的变换，使得
 > 
-> In the following, the core states are implicitly included when summing over energy states. Note that the corresponding coefficients are not defined via the scalar product with a PS wave function, even though, for the sake of simplicity, I will still use the symbol for all states. 在接下来的内容中，求和能量状态时已隐含包含芯态。请注意，相应的系数并非通过与 PS 波函数的标量积定义，尽管为了简单起见，我仍将对所有状态使用该符号。
+> 7 =&+).4. T = 1 + ΣR TR.
 > 
-> It should be noted that the frozen-core approximation allows certain nontrivial changes of the core wave function during the self-consistency or molecular-dynamics simulation. The frozen-core approximation only restricts the variational degree of freedom to a simple unitary transformation among the core states (and occupied valence states). It does allow mixing among the core states due to changing potential. 需要注意的是，冻结芯近似允许芯波函数在自洽计算或分子动力学模拟过程中发生某些非平凡的变化。冻结芯近似仅将变分自由度限制在芯态（及占据价态）之间的简单酉变换上。它允许由于势能改变而引起的芯态之间的混合。
+> R
 > 
-> Therefore, to test the accuracy of the frozen-core approximation one should never compare the core states of the isolated atom on a one-to-one basis with those obtained from a relaxed-core calculation in a crystal or molecule. 因此，为了测试冻结芯近似的精度，绝不应将孤立原子的芯态与在晶体或分子中通过弛豫芯计算获得的芯态进行一对一的比较。 **Relaxed-core calculation**: 弛豫芯计算，允许内层芯电子在环境势场中重新分布的计算。
+> Each local contribution 7~ acts only within some aug 每个局域贡献TR仅作用于某个缀加
 > 
-> At this point I will not discuss the components of the projector augmented-wave (PAW) method further. They are described in Sec. VI of this article. I will, however, continue to impose the condition that the AE and PS partial waves form complete sets of functions within the augmentation regions. In practical calculations the number of partial waves and projectors needs to be truncated. The way to truncate the series and the errors involved are also described in detail in later sections of the paper. 在此我不再详细讨论投影扩波（PAW）方法的组成部分，它们将在本文第六节中描述。不过，我将继续要求 AE 和 PS 分波在扩充区域内形成完备函数集。在实际计算中，分波和投影函数的数量需要进行截断。级数的截断方式以及涉及的误差将在论文后面的章节中详细描述。
+> mentation region OR enclosing the atom. This implies that AE and PS wave functions coincide outside the augmentation regions. The equivalent of the augmentation region in the linear methods is the mufBn-tin or atomic sphere. In the pseudopotential method the augmentation region corresponds to the so-called core region. 区域ΩR内，该区域包围原子。这意味着AE和PS波函数在缀加区域外重合。缀加区域在线性方法中的等价物是muffin-tin或原子球。在赝势方法中，缀加区域对应于所谓的芯区。
 > 
-> Here and in the following I will make extensive use of Dirac's bra and ket notation. A wave function in real space is written as $\langle r | \psi \rangle = \psi(r)$; its complex conjugate function is $\langle \psi | r \rangle = \psi^_(r)$. The Fourier components of the wave function are $\langle G | \psi \rangle = \psi(G)$ with a similar definition of its complex conjugate. A plane wave is of the form $\langle r | G \rangle = \exp(iGr)$. 在此及后续内容中，我将广泛使用狄拉克符号（bra-ket notation）。实空间中的波函数写为 $\langle r | \psi \rangle = \psi(r)$；其复共轭函数为 $\langle \psi | r \rangle = \psi^_(r)$。波函数的傅里叶分量为 $\langle G | \psi \rangle = \psi(G)$，其复共轭定义类似。平面波的形式为 $\langle r | G \rangle = \exp(iGr)$。
+> **augmentation region**: 缀加区域，围绕原子的球体区域，在该区域内对波函数进行特殊处理（如分波展开）。
 > 
-> I have adopted the convention for the Fourier transform that the forward transform of a function $f$ is $\langle r | f \rangle = \sum_G \langle r | G \rangle \langle G | f \rangle$ and the backward transform is of the form $\langle G | f \rangle = \frac{1}{V} \int_V dr \langle G | r \rangle \langle r | f \rangle$, where $V$ is the volume of the unit cell. 我采用了如下傅里叶变换约定：函数 $f$ 的前向变换为 $\langle r | f \rangle = \sum_G \langle r | G \rangle \langle G | f \rangle$，反向变换形式为 $\langle G | f \rangle = \frac{1}{V} \int_V dr \langle G | r \rangle \langle r | f \rangle$，其中 $V$ 为原胞体积。
+> The local terms 7R are defined for each augmentation region individually by specifying the target func 局域项TR通过指定目标函数
 > 
-> ### B. Operators
+> tions ~P;) of the transformation 7 for set of initial func ~P;)为变换T对一组初始函数
 > 
-> ### B. 算符
+> tions ~P;) that is orthogonal to the core states and other ~P;)指定，这些初始函数与芯态正交且在其他方面
 > 
-> Since in the PAW method the PS wave functions instead of the AE functions play the role of the variational parameters, we need to be able to obtain observable quantities as the expectation values of the PS wave functions. As the representation of the wave functions has been changed, we also need to transform our operators into new, so-called PS operators. 由于在 PAW 方法中，是 PS 波函数而非 AE 函数扮演变分参数的角色，我们需要能够将可观测物理量表示为 PS 波函数的期望值。由于波函数的表示发生了改变，我们也需要将算符转换为新的、所谓的 PS 算符。
+> wise complete in the augmentation region, namely, by 在缀加区域内完备，即通过
 > 
-> Consider some operator $A$: Its expectation value $\langle A \rangle = \sum_n f_n \langle \psi_n | A | \psi_n \rangle$, where $n$ is the band index and $f_n$ is the occupation of the state, can be obtained alternatively as $\langle A \rangle = \sum_n f_n \langle \tilde{\psi}_n | \tilde{A} | \tilde{\psi}_n \rangle$. 考虑某个算符 $A$：其期望值 $\langle A \rangle = \sum_n f_n \langle \psi_n | A | \psi_n \rangle$（其中 $n$ 是能带索引，$f_n$ 是状态的占据数），也可以表示为 $\langle A \rangle = \sum_n f_n \langle \tilde{\psi}_n | \tilde{A} | \tilde{\psi}_n \rangle$。
+> ~P;) = (1 + 7~)~P, ) within O~. I call the initial states ~P;) = (1 + TR)~P, ) 在ΩR内。我将初始状态
 > 
-> For quasilocal operators, such as the kinetic-energy operator $-\nabla^2/2$ and the real-space projection operator $|r\rangle \langle r|$, which are needed to evaluate total energy and charge density, the PS operator has the form... 对于拟局域算符，例如计算总能量和电荷密度所需的动能算符 $-\nabla^2/2$ 和实空间投影算符 $|r\rangle \langle r|$，其 PS 算符的形式为…… **Quasilocal operators**: 拟局域算符，其作用范围在空间上相对集中，或可分解为局部项和少量非局部项的算符。
+> ~P;) PS partial waves and the corresponding target func ~P;)称为PS分波，将相应的目标函数
 > 
-> The general form of an operator is strongly reminiscent of generalized separable pseudopotentials. The PS operator contains three parts: The first part is an operator that directly acts on the PS wave function and is evaluated either in real or reciprocal space. The remaining two parts contain the projectors and the expectation value of the operator either between the AE or the PS partial waves, which can be easily obtained on radial grids using spherical harmonics and Clebsch-Gordan coefficients. 算符的一般形式与广义可分伪势非常相似。PS 算符包含三个部分：第一部分是直接作用于 PS 波函数的算符，在实空间或倒空间中计算；其余两部分包含投影函数以及算符在 AE 或 PS 分波之间的期望值，后者可以使用球谐函数和 Clebsch-Gordan 系数在径向网格上轻松获得。 **Clebsch-Gordan coefficients**: Clebsch-Gordan 系数，量子力学中用于将两个角动量耦合到总角动量的系数。
+> tions ~P;) AE partial waves. A natural choice for these ~P;)称为AE分波。这些AE分波函数的一个自然选择
 > 
-> If the partial waves are unbound, the individual terms $\tilde{A}'$ and $\tilde{A}$ are not defined. However, since the PS and AE partial waves are identical outside the augmentation region, these tails cancel exactly for each pair of partial waves. In practice, this problem is solved by truncating the AE and PS partial waves somewhere outside the augmentation region in a completely identical way. 如果分波是非束缚的，那么单个项 $\tilde{A}'$ 和 $\tilde{A}$ 是未定义的。然而，由于 PS 和 AE 分波在扩充区域外完全相同，对于每一对分波，这些尾部会完全抵消。在实践中，通过在扩充区域外的某个位置以完全相同的方式截断 AE 和 PS 分波来解决这个问题。
+> functions for the AE partial waves are solutions of the radial Schrodinger equation for the isolated atom, which are orthogonalized to the core states if necessary. Hence the index i refers to the atomic site R, the angular mo 是孤立原子径向薛定谔方程的解，必要时与芯态正交化。因此，指标i指代原子位置R、角动
 > 
-> There is an additional freedom to add a term of the form... to the right-hand side of Eq. (11), where $B$ is an arbitrary operator that is localized within the augmentation regions. It is easily shown that the expectation value of this term is zero for any PS wave function, since $|\tilde{\psi}\rangle = \sum_i |p_i\rangle \langle p_i | \tilde{\psi} \rangle$ within the augmentation region. 此外，还有一个自由度，可以在等式 (11) 的右侧添加一个形式为……的项，其中 $B$ 是局域在扩充区域内的任意算符。很容易证明，对于任何 PS 波函数，该项的期望值为零，因为在扩充区域内 $|\tilde{\psi}\rangle = \sum_i |p_i\rangle \langle p_i | \tilde{\psi} \rangle$。
+> mentum quantum numbers I = (I., m), and an additional 量量子数L = (l, m)和一个额外的
 > 
-> This freedom can be exploited when the operator $\tilde{A}$ cannot easily be evaluated in a plane-wave expansion. An example is the Coulomb potential of the nucleus, which is problematic due to its singularity at the nuclear site. In this case we may construct a new potential that is identical to the true potential outside the augmentation region and a smooth continuation inside. 当算符 $\tilde{A}$ 难以在平面波展开中评估时，可以利用这一自由度。一个例子是原子核的库仑势，由于其在核位置的奇点，处理起来很麻烦。在这种情况下，我们可以构建一个新势，它在扩充区域外与真实势相同，而在内部是光滑延拓的。
+> # 50 PROJECTOR AUGMENTED-WAVE METHOD 17 955
 > 
-> The difference between the two potentials is localized within the augmentation region and therefore can act as the operator $B$ in Eq. (13). By adding a term of the kind of Eq. (13) to the PS electrostatic potential obtained from Eq. (11), we can cancel the Coulomb singularity in the plane-wave part and obtain an expression that is less sensitive to a truncation of number of plane waves. 两种势能之差局域在扩充区域内，因此可以作为等式 (13) 中的算符 $B$。通过将等式 (13) 类型的项添加到从等式 (11) 获得的 PS 静电势中，我们可以抵消平面波部分中的库仑奇点，并获得一个对平面波数量截断不那么敏感的表达式。
+> # 50 投影缀加波方法 17 955
 > 
-> We now obtain the charge density following the description given in Eq. (11). The charge density at a point $r$ in space is the expectation value of the real-space projection operator $|r\rangle \langle r|$. Hence the charge density is given by... 现在根据等式 (11) 的描述获得电荷密度。空间中某点 $r$ 处的电荷密度是实空间投影算符 $|r\rangle \langle r|$ 的期望值。因此，电荷密度由……给出。
+> index n to label diferent partial waves for the same site and angular mornentuxn. For each such AE partial wave let us choose a PS partial wave denoted by 1$;). The PS 指标n，用于标记同一位点和角动量的不同分波。对于每个这样的AE分波，让我们选择一个记为|$;)的PS分波。PS
 > 
-> To arrive at Eq. (11) I expanded $\mathcal{T}$ using Eq. (8) and deleted terms that cancel because $\langle p_i | \tilde{\phi}_j \rangle \langle p_j | = 1$ within the augmentation region $\Omega_R$ and $|\tilde{\phi}_i\rangle = |\phi_i\rangle$ outside the augmentation region. Note that only on-site terms contribute. 为了得出等式 (11)，我使用了等式 (8) 展开 $\mathcal{T}$，并删除了那些相互抵消的项，因为在扩充区域 $\Omega_R$ 内 $\langle p_i | \tilde{\phi}_j \rangle \langle p_j | = 1$，且在扩充区域外 $|\tilde{\phi}_i\rangle = |\phi_i\rangle$。请注意，只有单中心（on-site）项有贡献。
+> partial waves must be identical to the corresponding AE partial waves outside the augmentation region and should themselves form a complete set of functions within the augmentation region. The rexnaining degree of &eedom in the choice of the PS partial waves will be exploited to map the physically relevant AE wave functions onto 分波必须在缀加区域外与相应的AE分波相同，并且本身应在缀加区域内形成一组完备的函数。选择PS分波的剩余自由度将被用来将物理相关的AE波函数映射到
 > 
-> For truly nonlocal operators we need to add a term $\sum_{i,j} \langle \tilde{\psi}_i | A | \tilde{\psi}_j \rangle$ to the expression Eq. (11) given as... 对于真正的非局域算符，我们需要在等式 (11) 的表达式中添加一项 $\sum_{i,j} \langle \tilde{\psi}_i | A | \tilde{\psi}_j \rangle$，表示为……
+> computationally convenient PS wave functions. In our case these are smooth functions. This forrnal definition must be turned into a closed expression for the transformation operator. We make use of the fact that, within the augmentation region, every 计算上方便的PS波函数。在我们的情况下，这些是平滑函数。这个形式定义必须转化为变换算符的闭合表达式。我们利用这样一个事实：在缀加区域内，每个
+> 
+> PS wave function can be expanded into PS partial waves: PS波函数都可以展开为PS分波：
+> 
+> I@) = ) 1$;)c; within OR. |@) = Σi |$;)ci 在ΩR内。
+> 
+> Since 1$,) = 7 1$;), the corresponding AE wave function 由于|$,) = T|$;)，相应的AE波函数
+> 
+> is of the form 具有以下形式
+> 
+> 14.  = 714') = ) Ip;)c; within OR, (4) |4) = T|4') = Σi |p;)ci 在ΩR内，(4)
+> 
+> with identical coefficients c, in both expansions. Hence we can express the AE wave function as 在两个展开中具有相同的系数ci。因此，我们可以将AE波函数表示为
+> 
+> where the expansion coefficients for the partial wave expansions rexnain to be determined. Since we require the transformation 7 to be linear, the coefficients must be linear functionals of the PS wave functions. Hence the coefficients are scalar products 其中分波展开的展开系数有待确定。由于我们要求变换T是线性的，系数必须是PS波函数的线性泛函。因此，系数是标量积
+> 
+> (6) (6)
+> 
+> of the PS wave function with some fixed functions (p;I, PS波函数与某些固定函数(p;|的标量积，
+> 
+> which I will call projector functions. There is exactly one projector function for each PS partial wave. The projector functions must fulfill the condition 我将称之为投影函数。每个PS分波恰好有一个投影函数。投影函数必须满足条件
+> 
+> P,. 1$,)(p;I = 1 within OR, so that the one-center ex Σi |$,)(p;| = 1 在ΩR内，使得PS波函数的单中心展开
+> 
+> pansion P,. 1$;)(plilI) of a PS wave function is identical Σi |$;)(plilI)与PS波函数
+> 
+> to the PS wave function 14') itself. This implies that |4')本身相同。这意味着
+> 
+> The projector functions are localized in the augmentation region, even though more extended projector functions could in principle also be chosen. The most general form 投影函数局域在缀加区域内，尽管原则上也可以选择更扩展的投影函数。投影函数的最一般形式
+> 
+> for the projector functions is (p;I = g.(((fi, lg~))),. (f&I, 是(p;| = Σj ({fi|g~})-1 (f&|，
+> 
+> where the I fz) form an arbitrary, linearly independent set 其中|fz)构成一组任意的、线性无关的函数。
+> 
+> of functions. The projector functions are localized if the functions I f;) are localized. The reader interested at this 如果函数|f;)是局域的，投影函数就是局域的。对此感兴趣的读者
+> 
+> point in a practical procedure to determine partial waves 在此时想了解确定分波
+> 
+> and projector functions might wish to jump to Sec. VI. 和投影函数的实用程序，可以跳到第VI节。
+> 
+> In summary, a linear transformation 总之，一个线性变换
+> 
+> between the valence wave functions and fictitious PS wave functions has been established. Using this transformation, the AE wave function can be obtained from the PS wave function by 已在价波函数和虚构PS波函数之间建立。使用这个变换，AE波函数可以从PS波函数通过以下方式获得
+> 
+> The three quantities that determine this transformation are (i) the AE partial waves 1$;) obtained by radially 决定这个变换的三个量是（i）通过径向积分
+> 
+> integrating the Schrodinger equation of the atomic energy for a set of energies e~ and orthogonalization to the core states; (ii) one PS partial wave 1$;), which coincides 原子能量的薛定谔方程对一组能量e~并正交化到芯态获得的AE分波|$;)；（ii）一个PS分波|$;)，它与
+> 
+> with the corresponding AE partial wave outside some augmentation region for each AE partial wave; and (iii) 每个AE分波在某个缀加区域外与相应的AE分波重合；以及（iii）
+> 
+> one projector function Ip;) for each PS partial wave lo 每个PS分波有一个投影函数|p;)，局域在缀加区域内，且满足
+> 
+> calized within the augmentation region and which obeys 关系(p;|$~) = δi,j。
+> 
+> the relation (p;1$~) = b;z.
+> 
+> The partial waves are functions on a radial grid, multiplied with spherical harxnonics. In our case the PS wave functions are expanded into plane waves, but other choices are equally possible. The projectors are also calculated as a radial function times spherical harxnonics, but are then transformed into the same representation as the PS wave functions, which, in our case, is a planewave representation. Since the projectors are tied to the atomic positions and since their shape is independent of the potential, their Fourier components are expressed as a product of a form factor and a structure factor. The core states 14") are decomposed in a way similar to the valence wave functions. They are decomposed into three contributions: a PS core wave function I@'), which is identical to the true core state outside the augmentation region and a smooth continuation inside; an 分波是径向网格上的函数，乘以球谐函数。在我们的情况下，PS波函数展开为平面波，但其他选择也同样可能。投影函数也计算为径向函数乘以球谐函数，但随后被变换为与PS波函数相同的表示，在我们的情况下，是平面波表示。由于投影函数与原子位置相关联，且其形状与势无关，它们的傅里叶分量表示为形状因子和结构因子的乘积。芯态|4")以类似于价波函数的方式分解。它们被分解为三个贡献：一个PS芯波函数|@')，它在缀加区域外与真实芯态相同，内部是平滑的延续；一个
+> 
+> "AE core partial wave" IgP), which is identical to the AE "AE芯分波"|gP)，它与AE
+> 
+> core state 14") and is expressed as a radial function times 芯态|4")相同，表示为径向函数乘以
+> 
+> spherical harmonics; and finally a "PS core partial wave" 1$'), which is identical to the PS core state 14'), but rep 球谐函数；以及最后一个"PS芯分波"|$')，它与PS芯态|4')相同，但表示为径向函数乘以球谐函数。因此，芯态表示为
+> 
+> resented as a radial function times spherical harmonics. The core state is therefore expressed as
+> 
+> (IO) (10)
+> 
+> In contrast to the valence states, no projector functions need be defined for the core states, and the "coefficients" of the one-center terms are always unity. Furthermore, consistent with the &ozen-core approximation, the core states are imported &om an isolated atom. In practice, a soft core scheme with core states that adjust to the instantaneous potential is also conceivable (see Sec. VII D 2), but has not been implemented. In the fol 与价态相比，芯态不需要定义投影函数，单中心项的"系数"始终为1。此外，与冻结芯近似一致，芯态是从孤立原子导入的。在实践中，具有能适应瞬时势的芯态的软芯方案也是可以想象的（见第VII D 2节），但尚未实现。在接下来的内容中，当对能量态求和时，将隐式包含芯态。注意，相应的系数不是通过与PS波函数的标量积定义的，尽管为了简单起见，我仍将对所有状态使用这个符号。
+> 
+> lowing, the core states are implicitly included when summing over energy states. Note that the corresponding coefficients are not defined via the scalar product with a PS wave function, even though, for the sake of simplicity, I will still use the symbol for all states.
+> 
+> **frozen-core approximation**: 冻结芯近似，一种近似方法，将芯态视为不随化学环境变化的固定态，以节省计算量。 **soft core scheme**: 软芯方案，允许芯态根据瞬时势场进行调整的计算方案。
+> 
+> It should be noted that the frozen-core approximation allows certain nontrivial changes of the core wave function during the self-consistency or molecular-dynamics simulation. The frozen-core approximation only restricts the variational degree of freedom to a simple unitary transformation among the core states (and occupied va 应该注意的是，冻结芯近似允许在自洽或分子动力学模拟期间芯波函数发生某些非平凡的变化。冻结芯近似仅将变分自由度限制在芯态（和占据价态）之间的简单幺正变换。
+> 
+> # 17 956 P. E. BLOCHL 50
+> 
+> # 17 956 P. E. 布洛赫 50
+> 
+> lence states). It does allow mixing among the core states due to changing potential. Therefore, to test the accuracy of the frozen-core approximation one should never compare the core states of the isolated atom on a one-toone basis with those obtained &om a relaxed-core calculation in a crystal or molecule. At this point I will not discuss the components of the projector augmented-wave (PAW) method further. They 它确实允许由于势的变化而导致的芯态之间的混合。因此，为了测试冻结芯近似的准确性，绝不应该将孤立原子的芯态与从晶体或分子中的弛豫芯计算得到的芯态进行一对一比较。在这一点上，我将不再进一步讨论投影缀加波（PAW）方法的组成部分。它们
+> 
+> are described in Sec. VI of this article. I will, however, continue to impose the condition that the AE and PS partial waves form complete sets of functions within the augmentation regions. In practical calculations the number of partial waves and projectors needs to be truncated. The way to truncate the series and the errors involved are also described in detail in later sections of the paper. 在本文第VI节中描述。然而，我将继续施加条件，即AE和PS分波在缀加区域内形成完备函数集。在实际计算中，分波和投影函数的数量需要截断。截断级数的方式和涉及的误差也将在本文后面章节中详细描述。
+> 
+> Here and in the following I will make extensive use of Dirac's bra and ket notation. A wave function in real 在此及以下，我将广泛使用狄拉克的左矢和右矢符号。实空间中的波函数
+> 
+> space is written as (rl@) = 4(r); its complex conjugate 写作(r|@) = 4(r)；其复共轭
+> 
+> function is (@lr& = 4'_(r). The Fourier components of 函数是(@|r& = 4'_(r)。波函数的傅里叶分量是
+> 
+> the wave function are (Gl@) = 4(G) with a similar def (G|@) = 4(G)，其复共轭的定义类似。
+> 
+> inition of its complex conjugate. A plane wave is of the 平面波的形式为
+> 
+> form (rlG) = exp(iGr). I have adopted the convention (r|G) = exp(iGr)。我采用了傅里叶变换的约定，
+> 
+> for the Fourier transform that the forward transform of 即函数f的正变换是
+> 
+> a function f is (7'If) = g&(rlG)(GI f) and the backward (7'|f) = ΣG(r|G)(G|f)，反变换
+> 
+> transform is of the form (Glf) = 1/V fv dr(GIr&&rI f&, 的形式是(G|f) = 1/V ∫V dr(G|r&&r|f&，
+> 
+> where V is the volume of the unit cell. 其中V是晶胞的体积。
+> 
+> # B. Operators
+> 
+> # B. 算符
+> 
+> Since in the PAW method the PS wave functions instead of the AE functions play the role of the variational 由于在PAW方法中，PS波函数代替AE函数扮演变分参数的角色，我们需要能够将可观测量作为PS波函数的期望值来获得。由于波函数的表示已经改变，我们也需要将我们的算符变换为新的、所谓的PS算符。
+> 
+> parameters, we need to be able to obtain observable quantities as the expectation values of the PS wave functions. As the representation of the wave functions has been changed, we also need to transform our operators into new, so-called PS operators.
+> 
+> Consider soine operator A: Its expectation value (A) = 考虑某个算符A：其期望值(A) =
+> 
+> P„ f„(@„IAIDO'„), Σn f„(@„|A|DO'„)，
+> 
+> where n is the band index and f„is the 其中n是能带指标，f„是
+> 
+> occupation of the state, can be obtained alternatively as 态的占据数，可以另选为
+> 
+> (A) = g„f„&@„IAIDO'„). For quasilocal operators, such (A) = Σn f„&@„|A|DO'„)。对于准局域算符，例如
+> 
+> as the kinetic-energy operator —V'2/2 and the real-space projection operator Ir)(rl, which are needed to evaluate 动能算符—∇²/2和实空间投影算符|r)(r|，这些是计算总能量和电荷密度所需的，PS算符具有以下形式
+> 
+> total energy and charge density, the PS operator has the form
+> 
+> The general form of an operator is strongly reminiscent of generalized separable pseudopotentials. The PS operator contains three parts: The first part is an operator that directly acts on the PS wave function and is evaluated either in real or reciprocal space. The remaining two parts contain the projectors and the expectation value of the operator either between the AE or the PS partial waves, which can be easily obtained on radial grids using spherical harmonics and Clebsch-Gordan coefBcients. If 算符的一般形式强烈地让人联想到广义可分离赝势。PS算符包含三个部分：第一部分是直接作用于PS波函数的算符，在实空间或倒空间中求值。其余两个部分包含投影函数和算符在AE分波之间或PS分波之间的期望值，这些可以很容易地在径向网格上使用球谐函数和Clebsch-Gordan系数获得。如果
+> 
+> the partial waves are unbound, the individual terms A' and A are not defined. However, since the PS and AE partial waves are identical outside the augmentation region, these tails cancel exactly for each pair of partial waves. In practice, this problem is solved by truncating the AE and PS partial waves somewhere outside the augmentation region in a completely identical way. There is an additional freedom to add a term of the form 分波是无界的，个别项A'和A没有定义。然而，由于PS和AE分波在缀加区域外完全相同，这些尾部对每对分波精确抵消。在实践中，这个问题通过在缀加区域外的某处以完全相同的方式截断AE和PS分波来解决。存在额外的自由度，可以向方程(11)的右边添加一个形式为
+> 
+> to the right-hand side of Eq. (11), where B is an ar 的项，其中B是一个任意的
+> 
+> bitrary operator that is localized within the augmentation regions. It is easily shown that the expectation value of this term is zero for any PS wave function, 局域在缀加区域内的算符。很容易证明，对于任何PS波函数，这一项的期望值为零，
+> 
+> since I@& = g,. IP, &(p;I@& within the augmentation re 因为|@& = Σi|P, &(p;|@&在缀加区域内。
+> 
+> gion. This freedom can be exploited when the operator 2 这种自由度可以在算符A
+> 
+> cannot easily be evaluated in a plane-wave expansion. An example is the Coulomb potential of the nucleus, which is problematic due to its singularity at the nuclear site. In this case we may construct a new potential that is identical to the true potential outside the augmentation region and a smooth continuation inside. The difFerence between the two potentials is localized within the augmentation region and therefore can act as the operator 不能容易地在平面波展开中求值时被利用。一个例子是原子核的库仑势，由于其在核位置的奇异性而有问题。在这种情况下，我们可以构造一个新的势，它在缀加区域外与真实势相同，在内部是平滑的延续。两个势之间的差局域在缀加区域内，因此可以作为算符
+> 
+> B in Eq. (13). By adding a term of the kind of Eq. (13) B在方程(13)中。通过将方程(13)类型的项
+> 
+> to the PS electrostatic potential obtained from Eq. (11), we can cancel the Coulomb singularity in the plane-wave part and obtain an expression that is less sensitive to a truncation of number of plane waves. We now obtain the charge density following the description given in Eq. (11). The charge density at a 添加到从方程(11)获得的PS静电势中，我们可以抵消平面波部分中的库仑奇点，并获得一个对平面波数量截断不太敏感的表达式。我们现在按照方程(11)中给出的描述获得电荷密度。空间中点r处的电荷密度是实空间投影算符|r&(r|的期望值。因此，电荷密度由下式给出
+> 
+> point r in space is the expectation value of the real-space projection operator Ir&(rl. Hence the charge density is given by
+> 
+> To arrive at Eq. (11) I expanded 7 using Eq. (8) and 为了得到方程(11)，我使用方程(8)展开T，并
+> 
+> deleted terms that cancel because P, IP, ) (p, I = 1 within 删除了因在缀加区域内Σi|P, )(p,| = 1而抵消的项，
+> 
+> the augmentation region OR and IP;& = IP;) outside the 且在缀加区域外|P;& = |P;)。
+> 
+> augmentation region. Note that only on-site terms contribute. For truly nonlocal operators we need to add a term b, A to the expression Eq. (11) given as 注意，只有onsite项有贡献。对于真正的非局域算符，我们需要向方程(11)的表达式添加一个项δA，给出为
+> 
+> where 其中
+> 
+> n(i j) n(i j)
+> 
+> # 50 PROJECTOR AUGMENTED-WAVE METHOD 17 957
+> 
+> # 50 投影缀加波方法 17 957
+> 
+> # C. Total energy
+> 
+> # C. 总能量
+> 
+> Similar to the expectation values, the expression for the total energy functional 与期望值类似，总能量泛函的表达式
+> 
+> E = ) f„(C„I—-', v'IC„) E = Σn f„(C„|—½∇²|C„)
+> 
+> +— dr dr', + drne„, n
+> 
+> -   ½ ∫∫ dr dr' [n(r)+n+(r)][n(r')+n+(r')]/|r-r'| + ∫ dr n(r) e„,(n(r))
+> 
+> can also be divided as E = E+ E —E, into a smooth 也可以分为E = E + E¹ —E¹，分成一个平滑部分
+> 
+> part E, which is evaluated on regular grids in Fourier or E，它在傅里叶空间或实空间中的规则网格上求值，以及两个单中心贡献E¹和E¹，它们在角动量表示下的径向网格上求值。让我们用n+表示原子核的点电荷密度，用e„,表示每个电子的交换相关能。在此及以下，我使用哈特里原子单位（ħ = e = mₑ = 1）。E的三个贡献是
+> 
+> real space, and two one-center contributions E and E, which are evaluated on radial grids in an angular momentum representation. Let us denote the point charge density of the nucleus by n+ and the energy per electron &om exchange and correlation as e„,. Here and in the following I use hartree atomic units (5 = e = m, = 1). The three contributions to E are
+> 
+> E = ) f„(C„I—-', v'I4„) E = Σn f„(C„|—½∇²|4„)
+> 
+> -   ½ ∫∫ dr dr' [n(r)+n+(r)][n(r')+n+(r')]/|r-r'| + ∫ dr n(r) e„,(n(r))
+> 
+> „,(n+ n) (n+ n) r —r'
+> 
+> -   drnexc n )
+> 
+> E' = ):f (@-lp')(&'I —'—,&'I& )(p I@-) E¹ = Σn Σ(i,j) f„(@-|p')(&'|—½∇²|&)(p|@-)
+> 
+> n(i j) +- dr dr
+> 
+> -   ½ ∫∫ dr dr' [n¹(r)+n+(r)][n¹(r')+n+(r')]/|r-r'|
+> 
+> 1 , (n'+ n~)(n'+ n~) r —r'
+> 
+> -   dr A Exc A (2o)
+> -   ∫ dr A Exc A (20)
+> 
+> E' = ) f„(@„I&;)(&;I—-', &'l&, )%1@„) E¹ = Σn Σ(i,j) f„(@„|&;)(&;|—½∇²|&, )%1@„)
+> 
+> n(i j) 1,(n~ + n) (n~ + n) +- dr dr' + drA v
+> 
+> -   ½ ∫∫ dr dr' [(n~+n)(r)][(n~+n)(r')]/|r-r'| + ∫ dr A v
+> 
+> 2 Ir —r'I 2 |r-r'|
+> 
+> -   dr% Exc (21)
+> -   ∫ dr % Exc (21)
+> 
+> The potential 8 is an arbitrary potential localized in the augmentation regions. Its contribution to the total 势B是任意局域在缀加区域内的势。它对总能量的贡献恰好为零，因为在缀加区域内n = n。由于势B仅在分波展开不完整时才有贡献，它被用来最小化截断误差。
+> 
+> energy vanishes exactly because n = n within the augmentation region. Since the potential 8 contributes only if the partial wave expansion is not complete, it is used to minimize truncation errors.
+> 
+> Note also that n contains the contribution of the core states P„(P'„lr)(rig'„) and that n~ as well as n contain the contribution of the PS core states P„(P'„lr)(rig'„) 还要注意，n包含芯态Σn(P'„|r)(r|g'„)的贡献，且n~以及n分别包含PS芯态Σn(P'„|r)(r|g'„)和Σn(g'|r)(r|g')的贡献。在实践中，我们不为每个芯态单独构造PS芯态，除非我们直接对与芯态相关的物理感兴趣。相反，我们只构造一个PS芯密度。
+> 
+> and g (@'lr)(rl@'), respectively. In practice, we do not construct a PS c;ore state for each core state individually unless we ar~: interested in the physics related directly to the core states. Instead, we construct only a PS core density.
+> 
+> In addition, let us introduce the so-called compensation charge density n. After adding an appropriate compensation charge density to the PS charge density and its one-center expansion, the difference of the AE and 此外，让我们引入所谓的补偿电荷密度n。在将适当的补偿电荷密度添加到PS电荷密度及其单中心展开后，AE和PS单中心贡献的差
+> 
+> the PS one-center contributions (n + n ) —(n + n) (n + n) —(n + n)
+> 
+> to the charge density has vanishing electrostatic multipole moments and hence no longer interacts with charges outside the augmentation region: This energy has been 对电荷密度具有消失的静电多极矩，因此不再与缀加区域外的电荷相互作用：这个能量已被转移到E。这里我利用了这样一个事实：局域电荷分布产生的势，在局域区域之外，仅取决于静电多极矩，而与其形状无关。
+> 
+> transferred to E. Here I made use of the fact that a localized charge distribution produces a potential that, outside the region of localization, depends only on the electrostatic multipole moments, but not on the shape of the charge distribution.
+> 
+> **compensation charge density**: 补偿电荷密度，一种人为引入的辅助电荷密度，用于消除单中心展开引起的虚假多极相互作用。
+> 
+> The identity E = E+ E —E for a complete set of 对于完备的分波集，恒等式E = E + E¹ — E¹可以如下理解。（那些不感兴趣跟进此细节的可以继续到下一段。）将空间划分为缀加区域和间隙区域。现在我们在缀加区域内使用恒等式n = n和n = n，在间隙区域内使用恒等式n = n和n = n。
+> 
+> partial waves can be seen as follows. (Those not interested to follow through this detail may proceed to the next paragraph. ) One divides space into augmentation regions and an interstitial region. Now we use the identi ties n = n and n = n inside the augmentation regions and the identities n = n and n = n in the interstitial region. One can convince oneself easily that the decom 可以很容易地确信，这种分解对动能（见第II B节）、交换相关能以及与势B成比例的项是正确的。静电能的分解更复杂：让我们向方程(19)中的n + n添加一个电荷密度
+> 
+> position is true for the kinetic energy (see Sec. IIB), for the exchange and correlation energy, and for the term proportional to 8. The decomposition for the electrostatic energy is more complex to show: Let us add a charge density n~ + n+ —n~ —n to n + n in Eq. (19) n~ + n+ —n~ —n，并向方程(21)中的n~ + n添加
+> 
+> and to n~ + n in Eq. (21). The effect of this addition n~ + n + n+ —n~ —n。
+> 
+> vanishes: First, the term quadratic in n + n —n —n 这种添加的效果消失：首先，n + n —n —n的二次项精确抵消，因为E和E¹以相反符号相加。其次，n + n —n —n的线性项正比于n —n（在缀加区域内为零）和n + n + n+ —n~ —n的静电势（在间隙区域内为零），因为密度本身局域在缀加区域内且具有零静电多极矩。一旦添加了这一项，方程(20)和(21)的最后两项的静电贡献是相同的并抵消，而第一项是完整电荷密度
+> 
+> cancels exactly because E and E are added with oppo site sign. Second, the terms linear in n + n —n —n are proportional to n —n, which is zero within the aug mentation regions, and to the electrostatic potential of n + n —n —n, which is zero in the interstitial re gion, because the density itself is localized within the augmentation region and has zero electrostatic multipole moments. Once this term has been added, the electrostatic contributions of the last two terms Eqs. (20) and (21) are identical and cancel, while the first term is the true electrostatic interaction of the full charge density ~ + ~ = ~ + ~ —~ + ~ . ~ + ~ = ~ + ~ —~ + ~的真实静电相互作用。选择总能量的这种特殊形式是为了获得分波展开和平面波展开之间的严格分离，并使两种展开都能快速收敛。
+> 
+> This special form of the total energy has been chosen in order to obtain a strict separation into partial-wave and plane-wave expansions and to achieve rapid convergence for both expansions.
+> 
+> The compensation charge density n = P& nR with 补偿电荷密度n = ΣR nR，其中
+> 
+> nR(r) = ) gRL(r)QRL nR(r) = ΣL gRL(r) QRL
+> 
+> L
+> 
+> (22) (22)
+> 
+> is expressed as a sum of generalized Gaussians 表示为广义高斯函数的和
+> 
+> gR&(r) = +&Ir —Bl YL, (r —B)e (I" Il"') gR&(r) = +&|r —R| YL, (r —R) e^(-|r—R|²/r²)
+> 
+> with the normalization constant |g determined such that 其中归一化常数|g确定使得
+> 
+> its multipole moment j dr r YL, (r)gr, (r) is unity. YL, is a 其多极矩∫ dr r YL, (r) gr, (r)为1。YL,是
+> 
+> spherical harmonic function or its real counterpart. The 球谐函数或其实数对应物。衰减长度r足够小，使得补偿电荷密度局域在缀加区域内。r的值取决于特定的原子类型；R代表特定的核位置，L = (l, m)代表球谐函数展开中的角动量。多极矩QRL由下式给出
+> 
+> decay length r is sufFiciently small so that the compensation charge density is localized within the augmentation regions. The value of r depends on the particular atom type; Bstands for a particular nuclear site and L = (E, m) represents the angular momenta in the spherical harmonics expansion. The multipole moments Q~L, are given by
+> 
+> # 17 958 P. E. BLOCHL
+> 
+> # 17 958 P. E. 布洛赫
+> 
+> 1,(6+n')(6+ +'), ½ ∫∫ dr dr' [n(r)+n'(r)][n(r')+n'(r')]/|r-r'|
+> 
+> 2 [r —r'[
+> 
+> -   dr6r 6r + UR~e.
+> -   ∫ dr 6r 6r + ΣR,R' UR~e.
+> 
+> R, R'
+> 
+> The first term in the new expression (25) involves only 新表达式(25)中的第一项仅涉及平滑函数，可以在傅里叶空间中求值为
+> 
+> smooth functions and can be evaluated in Fourier space as
+> 
+> 2 ~ ~ - l~(&) + ~'(G) I' ½ ΣG 4π |n(G) + n'(G)|² / G²
+> 
+> Q'2 (26)
+> 
+> The second part of Eq. (25) introduces a potential 方程(25)的第二部分引入了一个势
+> 
+> j,n(r') —n'(r') ∫ dr' [n(r') —n'(r')] / |r —r'|
+> 
+> /r —r'/ (27) (27)
+> 
+> which has high Fourier components just as the original compensation charge density does. However, they do not contribute to the total energy because they are multiplied with the high Fourier components of the PS charge density, which are exactly zero if a plane-wave cutoff is imposed. Hence this term can also be exactly evaluated in Fourier space. The spacial extent of this potential in real space is identical to that of the smooth compensation charge density nR. The last term in Eq. (25) is a short-ranged pair potential between the atoms 它像原始补偿电荷密度一样具有高傅里叶分量。然而，它们对总能量没有贡献，因为它们与PS电荷密度的高傅里叶分量相乘，而如果施加了平面波截断，这些分量恰好为零。因此，这一项也可以在傅里叶空间中精确求值。这个势在实空间中的空间范围与平滑补偿电荷密度nR的空间范围相同。方程(25)中的最后一项是原子之间的短程对势
+> 
+> (28) (28)
+> 
+> which can be evaluated analytically. The range of this pair potential is twice that of the smooth compen 它可以解析地求值。这个对势的范围是平滑补偿电荷密度n'的两倍。它通过多极矩QRL明确地依赖于电荷分布。注意，势B和对势UR~包含非球形项，并适应实际的电荷密度。
+> 
+> sation charge densities n'. It depends explicitly on the charge distributions via the multipole moments Qu'il. . Note that the potential 6 and the pair potential U~ ~ contain nonspherical terms and adjust to the actual charge density.
+> 
+> QRL f «~l~ —&~l'I~4(~) + ~~(~) —~R(~)]Q(~ —&j . QRL = ∫ dr |r—R| YL(r—R) [n¹(r) + n+(r) —n~R(r)] Q(—&j) .
+> 
+> (24) (24)
+> 
+> Since the Gaussians are required to decay within the augmentation regions, they often have high Fourier components. This would require a large plane-wave cutoff in the PS charge density. The problem is solved by a well-known trick already used in the pseudopotential approach: We introduce a second, primed compensa 由于高斯函数需要在缀加区域内衰减，它们通常具有高傅里叶分量。这将要求在PS电荷密度中使用大的平面波截断。这个问题通过赝势方法中已经使用的一个众所周知的技巧来解决：我们引入第二个带撇的补偿电荷密度n'，它与n具有相同的多极矩，但使用具有更大衰减常数r'的广义高斯函数g'RL(r)，而不是未带撇的补偿电荷密度。它可能延伸到几个原子位置，但不应贡献比PS电荷密度本身更高的傅里叶分量。
+> 
+> tion charge density n, which has the same multipole mo ments as n, but uses generalized Gaussians ejIel (r) with a larger decay constant r', than the unprimed compensa tion charge density. It may extend over several atomic sites, but should not contribute higher Fourier components than the PS charge density itself does. Now we rewrite the electrostatic energy in E: 现在我们重写E中的静电能：
+> 
+> Finally, we need to evaluate the energy of exchange and correlation for a one-center expansion. We adopt a procedure &om previous full-potential LMTO calculations and expand the corresponding energy density in the deviation of the one-center charge density &om its spherical 最后，我们需要计算单中心展开的交换相关能。我们采用先前全势LMTO计算中的一个程序，并将相应的能量密度在单中心电荷密度偏离其球形部分n¹l=0的偏差中展开。
+> 
+> 1 part nI &
+> 
+> 1 11 d" "R& .(~R) = dTMeee,=o& (~z,e=o) +1- I.,)l+0
+> 
+> -   d²[n e„,(n)]/dn²|n=n¹l=0 (Δn¹l,0)² + O((Δn¹l,0)³)
+> 
+> +o((~ee,L, )') (29)
+> 
+> ~&x~ (~ee, e=o) (~R,e, )
+> 
+> AQ
+> 
+> where p,„,(n) = d[ne„, (n)]/dn. The angular momentum 其中μ„,(n) = d[n e„,(n)]/dn。单中心电荷密度的角动量分量记为n¹L。在实践中，直到二阶的泰勒展开已被证明足够准确。²¹ PS电荷密度的单中心贡献以相同方式处理。
+> 
+> components of the one-center charge density are denoted by n& L. In practice a Taylor expansion up to the second order has show'n to be sufficiently accurate. 2 The one center contribution of the PS charge density is treated identically.
+> 
+> # III. FROM AN EXACT FORMALISM
+> 
+> # III. 从精确形式体系到实用方案
+> 
+> # TO A PRACTICAL SCHEME
+> 
+> # 到实用方案
+> 
+> Up to this point the PAW method is an exact irnplementation of the density-functional theory within the &ozen-core approximation. However, we have required certain completeness conditions for the plane-wave basis set for the PS wave functions and the AE and PS partial waves. In order to arrive at a practical scheme, let me now introduce two approximations. (i) Plane waves are included only up to a given plane 到目前为止，PAW方法在冻结芯近似内是密度泛函理论的精确实现。然而，我们对PS波函数的平面波基组以及AE和PS分波要求了某些完备性条件。为了得到一个实用方案，让我现在引入两个近似。（i）平面波仅包含到给定的平面波
+> 
+> wave cutoff' Epw defined as the maximum of G2/2. 截断能Epw，定义为G²/2的最大值。
+> 
+> (ii) The number of AE partial waves, PS partial waves, （ii）AE分波、PS分波和投影函数的数量是有限的。然而，AE和PS分波以及投影函数的截断以完全相同的方式进行。也就是说，对于每个AE分波，有一个对应的PS分波及其投影函数。
+> 
+> and projectors is finite. However, the truncation of AE and PS partial waves and projector functions are done in exactly the same way. That is, for each AE partial wave there is a corresponding PS partial wave and its projector function. Both approximations can be controlled in a straightforward way, by increasing either the plane-wave cutoff and/or the number of partial waves. The convergence for both is rapid if a suitable set of partial waves and projectors has been selected. Typically good convergence is obtained for plane-wave cutoffs of 30 Ry and one or two partial waves per site and angular momentum, with 这两种近似都可以通过增加平面波截断和/或分波数量来直接控制。如果选择了合适的部分波和投影函数集，两者的收敛都是迅速的。通常，在30 Ry的平面波截断下，每个位点和角动量使用一或两个分波，最大角动量通常为l = 1或
+> 
+> a maximum angular momentum of typically E = I or l = 2，可以获得良好的收敛性。分波截断将在第VII节中详细讨论。
+> 
+> 8 = 2. The partial-wave truncation will be discussed in detail in Sec. VII. The two approximations define a new total energy functional, and we have to establish that this new functional is suKciently close to the correct functional for the physically relevant states. Once this new functional 这两种近似定义了一个新的总能量泛函，我们必须确定这个新泛函对于物理相关态足够接近正确的泛函。一旦这个新泛函被定义，就不允许进一步的近似，因为它们会在分子动力学模拟中破坏能量守恒。能量守恒是任何分子动力学模拟质量的最重要检验。许多先前的电子结构方法集中在提供对势的令人满意的描述。
+> 
+> is defined, no further approximations are allowed because they would destroy the energy conservation in a molecular-dynamics simulation. Energy conservation is the most important test of the quality of any moleculardynamics simulation. Many previous electronic struc ture methods have concentrated on providing a satisfac '),
+> 
+> E:
+> 
+> # 50 PROJECTOR AUGMENTED-WAVE METHOD 17 959
+> 
+> # 50 投影缀加波方法 17 959
+> 
+> tory description of the potential. For molecular-dynamics simulations the primary quantity is the total energy functional because sxnall inconsistencies between forces and total energy can create substantial difficulties in a simulation. An accurate description of the potential follows, of course, from an accurate description of the total energy functional. There are two further approximations that are not necessary, but are employed to accelerate the calculations: One can introduce a plane-wave cutofF in the representation of the PS charge density and an angular momentum truncation in the one-center PS and AE densities. Without these cutoffs, the PS charge density has plane-wave components corresponding to four times the plane-wave cutoff for the wave function and the one-center expansions have angular momentum components of up to twice 对于分子动力学模拟，主要量是总能量泛函，因为力和总能量之间的小的不一致会在模拟中造成重大困难。当然，势的准确描述来自总能量泛函的准确描述。还有两个进一步的近似，它们不是必需的，但被用来加速计算：可以在PS电荷密度的表示中引入平面波截断，并在单中心PS和AE密度中引入角动量截断。没有这些截断，PS电荷密度具有对应于波函数平面波截断四倍的平面波分量，而单中心展开具有高达分波最大角动量两倍的角动量分量。
+> 
+> the maxixnum angular xnomentum of the partial waves. However, a n»mber of these terms contribute little to the 然而，这些项中有许多对总能量贡献很小，因此这些近似是节省计算时间的方便方法。可以安全地在l = 2处截断角动量展开，并且在许多情况下，密度的平面波截断可以选择为波函数截断值的仅两倍。
+> 
+> total energy, so that these approximations are convenient ways to save computation time. One can truncate the angular momentum expansion safely at 8 = 2, and the plane-wave cutofF for the density can be chosen in many cases to be only twice the value of the wave function.
+> 
+> # IV. FORCES, HAMILTON OPERATORS, AND
+> 
+> # IV. 力、哈密顿算符和
+> 
+> # OVERLAP MATRICES
+> 
+> # 重叠矩阵
+> 
+> In order to find the ground state of the density func 为了找到密度泛函的基态，或在分子动力学模拟中传播波函数和原子，需要计算总能量泛函对所有变分参数的梯度，即PS波函数和原子位置。在以下小节中，我将推导力、哈密顿算符和重叠矩阵的显式表达式。
+> 
+> tional or to propagate wave functions and atoms in a molecular-dynaxnics simulation, one needs to calculate the gradients of the total energy functional with respect to all the variational paraxneters, namely, the PS wave functions and the atomic positions. In the following subsections I shall derive explicit expressions for forces, Hamilton operators, and overlap matrices.
+> 
+> # A. Overlap operator
+> 
+> # A. 重叠算符
+> 
+> The overlap matrix in the AE representation is given simply by the matrix elements of the unity operator. Consequently plane waves form an orthogonal basis set in the AE representation. The PS version of the unity operator obtained via Eq. (11), however, is a nonlocal AE表示中的重叠矩阵简单地由单位算符的矩阵元给出。因此，平面波在AE表示中形成正交基组。然而，通过方程(11)获得的单位算符的PS版本是一个非局域算符，形式为
+> 
+> operator of the form
+> 
+> where the potential is v(r) = Ir) & ~„l(rl, which is the well-known form of the Hamilton operator. As the variational parameters of the PAW method are the PS wave functions, we construct a PS Hamilton operator H defined as the derivative of the total energy, given by Eqs. (19)-(21), with respect to the PS density 其中势是v(r) = |r)(r|，这是哈密顿算符的众所周知的形式。由于PAW方法的变分参数是PS波函数，我们构造一个PS哈密顿算符H，定义为总能量（由方程(19)-(21)给出）对PS密度算符p = Σn|@„)f„(@„|的导数，波函数满足正交性条件(4'„|O|4' ) = δn,m。在本节中，我们将推导PS哈密顿算符的显式表达式，这将用于建立Kohn-Sham方程或从头算分子动力学的运动方程。
+> 
+> operator p = P,. I@„)f„(@„lwith wave functions that obey the orthogonality condition (4'„IOI4' ) = h„. In this section we shall derive the explicit expressions for the PS Hamilton operator that will be needed to set up the Kohn-Sham equations or the equations of motion for first-principles molecular dynamics. Let us treat the potential energy as a functional of four 让我们将势能视为四个参数n, n, n和多极矩QRL,的泛函。多极矩决定了补偿电荷密度，它们本身是单中心密度的唯一函数。这个选择——这不是一个近似——将简化以下推导中的记账工作。那么，对PS密度算符的导数可得为
+> 
+> arguments n, n, n, and the multipole moments QRL, . The multipole xnoments, which determine the compensation charge densities, are themselves unique functions of the one-center densities. This choice —which is not an approximation —will simplify the bookkeeping in the following derivation. The derivative with respect to the PS density operator is then obtained as
+> 
+> where 其中
+> 
+> BTr[pT] BE Bn BE BE . BE BQRL, i Bn
+> 
+> -   dr + Bn~ BQRL, Bn~ J Bp
+> 
+> R, L BE . BE BQRL, i Bn
+> 
+> -   dr ~ ~+ R, L
+> 
+> p = P„I@„)f„(4' I, where f„denotes the occupations p = Σn|@„)f„(4'|，其中f„表示占据数，|%'„)是密度算符的正交本征函数。这可以解释如下：由于任何单粒子算符A的期望值是该单粒子算符与密度算符乘积的迹(A) = Tr[pA]，总能量对密度算符的一阶导数可以写为
+> 
+> and I%'„) the orthogonal eigenfunctions of the density operator. This can be explained as follows: Since the expectation value of any one-particle operator A is the trace (A) = Tr[pA] of the product between the one-particle op erator and the density operator, the first derivative of the total energy with respect to the density operator can be written as
+> 
+> BT [ ',&-'p-] BE BT [lr)(rip]
+> 
+> -   dr I(9P BP Bn(r) Bp
+> 
+> 12 = ——V' +v, = —½∇² + v,
+> 
+> 2
+> 
+> (3o) (30)
+> 
+> Hence, in the PS representation, plane waves are no 因此，在PS表示中，平面波不再是正交的，即(G|O|G') ≠ δG,G'，如果PS重叠算符O不同于单位算符。这是放松范数守恒条件的直接结果：如果施加范数守恒条件(P;|P~) = (P;|P~)，PS重叠算符显然约化为单位算符。
+> 
+> longer orthogonal, that is, (GIOIG') g 8G. ~, if the PS overlap operator 0 differs from unity. This is a direct consequence of relaxing the condition of norm conser vation: The PS overlap operator obviously reduces to the unity operator if the norm-conservation condition (P;IP~) = (P;IP~) is imposed.
+> 
+> # B. Hamilton operator
+> 
+> # B. 哈密顿算符
+> 
+> The Hamilton operator is the first derivative of the to 哈密顿算符是总能量泛函对密度算符的一阶导数。
+> 
+> tal energy functional with respect to the density operator
+> 
+> is the PS version of the kinetic-energy operator T 是动能算符T = —½∇²的PS版本。注意，三个密度n, n, 和n是PS密度算符的线性函数，它们对PS密度算符的导数可以很容易地从方程(15)-(17)获得。
+> 
+> —V /2. Note that the three densities n, n, and n are linear functions of the PS density operator and their derivatives with respect to the PS density operator are obtained easily &om Eqs. (15)—(17).
+> 
+> The individual terms in Eq. (32) are evaluated as follows. (i) The derivative with respect to the PS charge density 方程(32)中的各项如下求值。（i）对PS电荷密度的导数由方程(19)和(25)获得为
+> 
+> is obtained &om Eqs. (19) and (25) as
+> 
+> # 50 PROJECTOR AUGMENTED-WAVE METHOD 17 961
+> 
+> # 50 投影缀加波方法 17 961
+> 
+> arbitrarily far from the electronic ground state. The reason for using this expression is not that this force theorem is particularly insensitive to deviations from the BornOppenheimer surface, but rather that only the direct partial derivative avoids the double counting of forces acting on the wave functions and those acting on the atoms. To calculate the derivative with respect to the atomic positions, one 6rst has to calculate the forces on the nucleus and second to include the change of the AE wave functions for fixed PS wave functions, but changing atomic positions. This term appears because the augmentation depends on the atomic position. The force 任意远离电子基态。使用这个表达式的理由不是这个力定理对Born-Oppenheimer面的偏离特别不敏感，而是只有直接偏导数避免了作用在波函数上的力和作用在原子上的力的双重计数。为了计算对原子位置的导数，首先必须计算原子核上的力，其次要包括在固定PS波函数但改变原子位置时AE波函数的变化。这一项出现是因为缀加依赖于原子位置。原子核上的力为
+> 
+> on the nucleus is obtained as Ig = —gl~@l. It is Ig = —g|~@|。它是原子核处电场与核电荷的乘积。其值来源于核电荷密度n+的无穷小位移。由于原子位移导致的波函数无穷小变化所引起的力可以写为FR = —Σ|4,l + Σ|~@|，称为Pulay力。用力定理的语言来说，Pulay力描述了由于位置依赖的基组而随原子核拖拽的电子的力。
+> 
+> the product of the electric field at the nucleus and the nuclear charge. Its value is derived from an infinitesimal displacement of the nuclear charge density n . The forces resulting &om an infinitesimal change in the wave functions due to the atomic displacement can be written as FR — ——g1~4,l + g I ~@l and are called Pulay forces. To use the language of the force theorem, the Pulay forces describe forces on the electrons that are dragged along with the nucleus due to the position-dependent basis set. With the PAW method we must consider Pulay forces &om the &ozen-core electrons, which shift rigidly with the nucleus, and the contributions &om the augmentation. When calculating the Pulay forces, we must also consider the change in the overlap between the wave functions. An in6nitesixnal change of the atomic positions must be accompanied by a change in the wave functions that restores the orthogonality. The new occupied wave functions must span the same portion of the Hilbert space that was occupied before displacement of the atoms. Hence the new wave function can be expressed as a linear combination 使用PAW方法时，我们必须考虑来自冻结芯电子的Pulay力（它们随原子核刚性移动）和来自缀加的贡献。在计算Pulay力时，我们还必须考虑波函数之间重叠的变化。原子位置的无穷小变化必须伴随着恢复正交性的波函数变化。新的占据波函数必须跨越原子位移前占据的希尔伯特空间的相同部分。因此，新的波函数可以表示为线性组合
+> 
+> (R+ dR)) = 1@„(R))+ ) I@ (R))A „dR (43) |@„(R+ dR)) = |@„(R)) + Σm |@ (R)) A „ dR (43)
+> 
+> &~l@-) = ——) .I@-)I:(4'-1&~01@-)+ B-]. &~l@-) = ——) .I@-)I:(4'-1&~01@-)+ B-].
+> 
+> Using Eqs. (46) and (47) and 使用方程(46)和(47)以及
+> 
+> BE[4,R] BE[4,R]
+> 
+> BR I4-) BR |4-)
+> 
+> = ) -f„(4„IvRHI~„), (47) = Σn -f„(4„|∇R H|~„), (47)
+> 
+> we can write the total force including the force on the nucleus and the Pulay force as 我们可以将包括核上力和Pulay力的总力写为
+> 
+> rR = —) f„(~„Iv~aI~„) FR = —Σn f„(~„|∇R H|~„)
+> 
+> -   Σn,m (e |∇R O|e„)(e„|H|e ) +) "+ (e IV'nOle„)(e„lull )
+> -   Σn,m (e„|H|e ) (e |∇R O|e„)
+> 
+> )-f— B „(„IHI ) . (48) — Σn,m B „(„|H| ) . (48)
+> 
+> The last term in Eq. (48) describes the effect of elec 方程(48)中的最后一项描述了由占据态和非占据态之间幺正变换引起的电子激发效应，不能进一步指定。然而，如果哈密顿矩阵(O'„|H|@ )与占据数对易（例如，如果它是对角的），则它对力的贡献消失。如果波函数是通过哈密顿对角化获得的，就是这种情况。在拉格朗日形式体系中，这一项必须以明确定义的方式选择，如后面一节所述。
+> 
+> tronic excitations resulting &om a unitary transformation between occupied and unoccupied states and cannot be specified further. However, its contribution to the force vanishes if the Hamilton matrix (O'„IHI@ ) commutes with the occupations (for example, if it is diagonal). This is the case if the wave functions are obtained by diagonalization of a Hamiltonian. In a Lagrangian formalism this term must be chosen in a well-de6ned way, as described in a later section.
+> 
+> a unitary matrix can be written in the 6rst order in B 一个幺正矩阵在B的一阶下可以写为1 + B。由于总能量在占据波函数之间的幺正变换下是不变的，力在A的反对称部分下是不变的，前提是A是块对角的，分离占据态和非占据态。因此，我们得到
+> 
+> as 1 + B. Since the total energy is invariant with re spect to a unitary transformation between the occupied wave functions, the forces are invariant with respect to the antisymmetric part of A, given that A is block diagonal separating occupied and unoccupied states. Hence we obtain
+> 
+> of the PS wave functions with undistorted atomic positions. Note that these wave functions should not be confused with the self-consistent wave functions for displaced atomic positions. The new wave functions obey the orthogonality condition 具有未畸变原子位置的PS波函数。注意，这些波函数不应与位移原子位置的自洽波函数混淆。新的波函数遵循正交性条件
+> 
+> (4„(R+dR)10(R+ dR)14 (R+ dR)) = h„ (44) (4„(R+dR)|O(R+ dR)|4 (R+ dR)) = δn,m (44)
+> 
+> to linear order in the displacement, which determines 到位移的线性阶，这决定了A„
+> 
+> A„by
+> 
+> 2.  Forces in the PAW method
+> 3.  PAW方法中的力
+> 
+> The change of the AE wave functions is related to a displacement of the projector functions and the partial waves AE波函数的变化与投影函数和分波的位移相关
+> 
+> &Rl~-) = —).(I&4') —1&4'))%1~-) &R|~-) = —Σi (|&4') —|&4')) %1~-)
+> 
+> A„+At = —(4„lv'&014 ) . (45) A„ + A† = —(4„|∇R O|4 ) . (45)
+> 
+> Here VR corresponds to a derivative of a nuclear coordinate rather than to a derivative with respect to an 这里，∇R对应于核坐标的导数，而不是对电子坐标的导数，后者用∇表示。为了达到这个表达式，我们使用了位移前波函数|@„(R))的正交归一性。我们保留了向A添加任意反对称矩阵的自由度，这让人联想到总能量在占据波函数的幺正变换下是不变的。这可以如下看出：一个幺正矩阵具有一般形式e^B，其中B是一个反厄米矩阵（即B = B†）。因此
+> 
+> electronic coordinate, which is denoted by V. To ar rive at this expression we used the orthonormality of the wave function 1@„(R))before the displacement. We re tain the freedom of adding an arbitrary antisyxnmetric matrix to A, which is reminiscent of the invariance of the total energy with respect to a unitary transformation of the occupied wave functions. This can be seen as fol lows: A unitary matrix has the general form e, where B is an anti-Hermitean matrix (i.e., B = Bt). Hence
+> 
+> -) .(14,) —14;))(&p'I@-) —Σi (|4,) —|4;)) (&p'|@-)
+> 
+> --) .l~-)(~-l&nol~-) (49) —Σn,m |~-)(~-|&nO|~-) (49)
+> 
+> The first summation corresponds to a rigid displacexnent of the partial waves, the second to change of shape of the one-center expansions, and the third is the force due to the change of the overlap. For sixnplicity, we derive the forces that result &om the three contributions independently. The force resulting from a rigid shift of the partial waves is treated together with those functions that do not 第一个求和对应于分波的刚性位移，第二个对应于单中心展开形状的变化，第三个是由于重叠变化引起的力。为简单起见，我们独立推导由这三个贡献产生的力。由分波刚性位移引起的力与那些不显式依赖于PS波函数但直接与核位置相关联的函数一起处理，
+> 
+> # 17 962 P. E. BLOCHL
+> 
+> # 17 962 P. E. 布洛赫
+> 
+> explicitly depend on the PS wave functions but are tied directly to the nuclear positions, such as the rigid shift of the nucleus nR, the potential 8R, and the Gaussians 如核nR的刚性位移、势8R以及用于展开补偿电荷密度nR和nR的高斯函数gRI和gRI。
+> 
+> gRI, and gRI used to expand the coxnpensation charge densities nR and nR .
+> 
+> Let us first analyze the contribution of the smooth part 让我们首先分析总能量平滑部分E的贡献，由方程(19)给出。
+> 
+> E, given in Eq. (19), of the total energy
+> 
+> / FR = +~R d~ + d +'UR + +~R FR(1) = Σn f„(@„|∇R H|@„) + ∫ dr ∇R nR + ∫ dr ∇R nR + ∇R ΣR' UR,R' + ∇R ΣR' UR,R'
+> 
+> = (&'lr) (r I&') = (&'|r) (r |&')
+> 
+> = (&_lr)(rl&~) = (&_|r)(r|&~)
+> 
+> This force can be evaluated using the one-center expan 这个力可以使用AE和PS势的单中心展开v¹(r)和v(r)来求值
+> 
+> sions v (r) and v (r) of the AE and the PS potential
+> 
+> F~ ' = —) .~~ov ((O'I —-'7'+ "'1») FR(2) = —Σn Σi,j f„((O'|—½∇² + v¹|»)
+> 
+> drn V'V — V'R gUR R R'
+> 
+> -   ∫ dr n ∇R V — ∇R ΣR' UR,R'
+> 
+> (5O) (50)
+> 
+> —(»I —-~'+ "'I»)) . (57) —(»|—½∇² + v|»)) . (57)
+> 
+> The first three terms are evaluated in G space. The fourth is related to the derivative of the pair potential for fixed multipole moments Q~L, and is evaluated analytically. Note that the multipole moments do not change under an in6nitesimal rigid shift of the partial waves because the center of the Gaussians is also shifted analogously. Second, let us consider the contribution of the rigid 前三项在G空间中求值。第四项与固定多极矩QRL下对势的导数相关，并解析地求值。注意，在分波的无穷小刚性位移下，多极矩不会改变，因为高斯函数的中心也类似地移动。第二，让我们考虑来自单中心项E¹和E¹的刚性位移的贡献。它们的贡献恰好为零，因为所有贡献的密度和势都刚性移动，因此变化可以归结为坐标的变化，这不影响能量。注意，这一项也包含原子核上的力。
+> 
+> shift from the one-center terms E and E . Their contribution is exactly zero, because all contributing densities and potentials are rigidly shifted, so that the change can be reduced to a change of coordinates, which does not a6ect the energy. Note that this term also contains the force on the nucleus. Next we consider the change of shape of the one-center densities. Here we can use quantities that have already been calculated in the Hamiltonian. This force is proportional to the gradient 接下来，我们考虑单中心密度形状的变化。这里我们可以使用已经在哈密顿量中计算过的量。这个力正比于梯度
+> 
+> v~e;, = —) f„((e„lv&,)(A~le„) + (4'„lp ∇R e;, = —Σn f„((e„|∇R p,)(A~|e„) + (4'„|p
+> 
+> The total force is given by the sum of the three terms 总力由三项之和给出
+> 
+> FR = FR +FR +FR FR = FR(1) + FR(2) + FR(3)
+> 
+> (i) (2) (3) (59) (59)
+> 
+> # V. FIRST-PRINCIPLES
+> 
+> # V. 从头算
+> 
+> # MOLECULAR DYNAMICS
+> 
+> # 分子动力学
+> 
+> Finally, we consider the forces resulting Rom the change of the orthogonality of the AE wave functions. The corresponding force is of the form 最后，我们考虑由AE波函数正交性变化引起的力。相应的力具有形式
+> 
+> (51) (51)
+> 
+> # A. Fictitious Lagrangian
+> 
+> # A. 虚构拉格朗日量
+> 
+> of 0;~, which is de6ned as 的0;~，它定义为
+> 
+> (52) (52)
+> 
+> where 0;~ is a density matrix for the one-center expan 其中0;~是分波单中心展开的密度矩阵。由形状变化引起的力具有形式
+> 
+> sions in terms of partial waves. The force due to the change of shape has the form
+> 
+> The 6rst-principles molecular dynamics is imple 一旦得到了哈密顿量和力的精确表达式，从头算分子动力学就以直接的方式实现。在包含核的真实动能和PS波函数的虚构动能之后，我们得到一个拉格朗日量
+> 
+> mented in a straightforward manner once the exact expressions for the Hamiltonian and the forces have been obtained. After inclusion of the real kinetic energy of the nuclei and the 6ctitious kinetic energy of the PS wave functions, we obtain a Lagrangian
+> 
+> (2) ~ OE FR = ) .B0 +Re'i (53) FR(2) = Σi,j ∂E/∂0;~ + Re'i (53)
+> 
+> The energy derivative with respect to 0;~ is obtained 对0;~的能量导数类似于哈密顿量中的对应项获得[参见方程(32)]
+> 
+> sixnilarly to the corresponding term in the Hamiltonian [cf. Eq. (32)]
+> 
+> BE BE BE BQ~I, Bn' ∂E/∂0;~ = ∂E/∂n' + ΣR,L ∂E/∂QRL, ∂QRL,/∂n' ∂n'/∂0;~
+> 
+> -   ∂E/∂n' ∂n'/∂0;~
+> 
+> BO, Bn' - BQ~L, Bni B8;
+> 
+> -   ∫ dr ∂E/∂B ∂B/∂0;~
+> 
+> dr + 7
+> 
+> where the last term ensures orthogonality of the AE wave 其中最后一项通过拉格朗日参数的方法确保AE波函数的正交性。由此产生的欧拉-拉格朗日方程具有形式
+> 
+> functions via the method of Lagrange parameters. The resulting Euler-Lagrange equations have the form
+> 
+> m@|4„) = —H|4„) + Σn O|4 ) A „ m@|4„) = —H|4„) + Σn O|4 ) A „
+> 
+> MRR = FR MR R = FR
+> 
+> where and are integrated with the Verlet algorithxn. The La 其中，波函数和原子位置用Verlet算法积分。拉
+> 
+> # 50 PROJECTOR AUGMENTED-WAVE METHOD 17 963
+> 
+> # 50 投影缀加波方法 17 963
+> 
+> grange parameters for a system at rest are related to the 静止系统的格朗日参数与哈密顿量相关，通过A„= (e„|H|e~)(f„+ f )/2。注意，对于静止系统，哈密顿量与占据数对易。
+> 
+> Hamiltonian via A„= (e„lHle~)(f„+ f )/2 .Note that for a system at rest the Hamiltonian commutes with the occupations.
+> 
+> # B. Propagation of the wave functions
+> 
+> # B. 波函数的传播
+> 
+> The equations of motion for the electrons are integrated using the Verlet algorithm3~ 电子的运动方程使用Verlet算法³⁷积分，时间步长为Δt。仅当原子在运动时，它才与O(0)不同。用此程序确定的轨迹在时间反演下精确对称，这对获得能量守恒至关重要，并准确预测波函数到O(Δt⁴)阶，与Verlet算法的整体精度一致。此外，如果使用有限时间步长，约束条件不会恶化。
+> 
+> time step. It difFers from O(0) only if the atoms are mov ing. The trajectories determined with this procedure are exactly symmetric under time reversal, which is crucial to obtaining energy conservation and predicts the wave functions accurately to the order 4, consistent with the overall accuracy of the Verlet algorithm. Furthermore, the constraints cannot deteriorate if a finite time step is used. In practice we first evaluate the forces of constraints 在实践中，我们首先计算无约束的波函数传播，这给出|e)
+> 
+> e„(+))= 2le„(o)) —le„(—)) —HI4 (o)) |e„(+)) = 2|e„(0)) —|e„(—)) —H|4 (0))
+> 
+> +) OI4 (0))A „—.
+> 
+> -   Σn O|4 (0)) A „ —.
+> 
+> Tn n (63) (63)
+> 
+> Ix ) = o(0)le„(0)) (67) |χ ) = O(0)|e„(0)) (67)
+> 
+> Using Eq. (65) I rewrite the constraint equation Eq. (66) as 使用方程(65)，我将约束方程(66)重写为
+> 
+> 2 |4' ) = 2|e-(0)) —|e-(—)) —H|e-(0)) (64) |4' ) = 2|e-(0)) —|e-(—)) —H|e-(0)) (64)
+> 
+> The forces of constraint are added in a second step 约束力在第二步中添加
+> 
+> e„(+))= le„) —) o(o)le (0))w „,(65) |e„(+)) = |e„) — Σn O(0)|e (0)) w „, (65)
+> 
+> and the Lagrange parameters A are determined iteratively so that the constraints for the next time step 并且拉格朗日参数A被迭代确定，使得下一个时间步长的约束条件
+> 
+> (e-(+)Io(+)le-(+)) = h- (66) (e-(+)|O(+)|e-(+)) = δn,m (66)
+> 
+> are exactly fulfilled within a given tolerance for the over 在给定的重叠矩阵容差内精确满足。O(+)是下一个时间步长的PS重叠算符。
+> 
+> lap matrix. 0(+) is the PS overlap operator for the next
+> 
+> The following notation is used here for the time steps. The time step is denoted by A. The wave functions have an integer argument denoting the number of the particular time step relative to the actual configuration. Hence the series of coordinates is 这里对时间步长使用以下符号。时间步长记为Δt。波函数有一个整数参数，表示特定时间步长相对于实际构型的编号。因此，坐标序列为
+> 
+> ~" Ie (—2)) Ie (—)) Ie (o)) Ie (+)) Ie (+2)) ... |e(—2)) |e(—)) |e(0)) |e(+)) |e(+2)) ...
+> 
+> For convenience let us abbreviate the arguments for the previous and the subsequent time step. Similar notation is used for the atomic positions. As a rule of thumb, the equations of motion for the wave functions are integrated properly if the time step 为方便起见，让我们缩写前一个和后一个时间步长的参数。原子位置使用类似的符号。通常，如果时间步长Δt与波函数的虚构质量m@相关，使得Δt²/m@在0.1—0.15 a.u.范围内，波函数的运动方程就被正确积分。³⁸ 对于大多数系统，质量m@可以选择为1000 a.u.，导致时间步长约10 a.u.或0.25 fsec。
+> 
+> 4 is related to the fictitious mass of the wave functions m@ so that b, 2/m@ lies in the range 0.1—0.15 a.u.ss For most systems the mass m@ can be chosen to be 1000 a.u. , resulting in a time step of about 10 a.u. or:0.25 fsec. During the dynamical simulation, we have to ensure the orthogonality of the wave functions in an energyconserving manner consistent with the accuracy of the 在动力学模拟期间，我们必须以与Verlet算法精度一致的能量守恒方式确保波函数的正交性。³⁷ 这些方法最初是为服从键长约束的聚合物的分子动力学模拟发明的。Car和Parrinello在其从头算分子动力学公式中采用了这个算法。后来，Laasonen等人将此方法扩展到位置依赖重叠矩阵的情况，如用于Vanderbilt的超软赝势。我采用了他们的策略，并将其扩展到包含不同态有不同占据数的可能性。这将在下面描述。
+> 
+> Verlet algorithm. 3~ The methods were originally invented for molecular-dynamics simulations of polymers that obey bond-length constraints. Car and Parrinello adopted this algorithm in their formulation of firstprinciples molecular dynamics. Later Laasonen et Ol. extended this method to the case of a position-dependent overlap matrix, as used for Vanderbilt's ultrasoft pseu dopotentials. I have adopted their strategy and extended it to include the possibility of different occupations for different states. This will be described in the following. The wave functions are first propagated without constraints, which yields le) 波函数首先在没有约束的情况下传播，这给出|e)
+> 
+> A( ) + XtB+ BtX+ Xtt X = 1 (68) A( ) + X†B + B†X + X†t X = 1 (68)
+> 
+> with the definitions 其定义为
+> 
+> A."' = (e-Io(+)le-), A."' = (e-|O(+)|e-),
+> 
+> B- = 4-Io(+)le-) B- = 4-|O(+)|e-)
+> 
+> c- = 4 lo(+)l~ c- = 4 |O(+)|~
+> 
+> (69) (69) (70) (70) (71) (71)
+> 
+> and 以及
+> 
+> Q2 X „=A my f„ (72) X „ = Δt² A my f„ (72)
+> 
+> Equation (68) cannot be solved directly for X. There 方程(68)不能直接对X求解。因此，我们迭代地获得X。让我们首先按时间步长Δt的阶分析方程(68)。我们将看到，主导阶正比于Δt²，因为A = δn,m + O(Δt²)，这是因为约束力只在二阶才贡献，因此|e(+)) = |e) + O(Δt²)。由于X„的主导阶正比于Δt²，项X†t X在主导阶下消失，只有B的零阶有贡献。B的零阶等于(e„(0)|O(0)|e (0))，因而是厄米的。因此，方程(68)在Δt中的最低阶为
+> 
+> fore we obtain X iteratively. Let us first analyze Eq. (68) in orders of the time step A. We will see that the leading order is proportional to A = h„+ O(Az), because the forces of con straint contribute only in the second order and therefore le(+)) = Ie) + O(b, ). As the leading order of X„ is proportional to 6, the term Xtt X vanishes in leading order and only the zeroth order of B contributes. The zeroth order of B is equal to (e„(0)IO(0) Ie (0)) and therefore Hermitian. Hence the lowest order of Eq. (68) in 6 is
+> 
+> ) Σn X„' β'n,m + Σn β'n,m X„' = —(A„' — δn,m),
+> 
+> „', , + „', ~f = —(A„' —b„), l
+> 
+> (73) (73)
+> 
+> Xag fg ——f_Xg' (75) Xag fg ——f_Xg' (75)
+> 
+> where i = 0 and B' = (B + Bt)/2 is the Hermitian 其中i = 0，B' = (B + B†)/2是B的厄米部分。方程(73)在主导阶下准确确定了X = X|0| + O(Δt³)。类似于之前的讨论，我们发现X' = Σi X|i|的高阶项也由方程(73)获得，其中A|i|由下式给出
+> 
+> part of B. Equation (73) determines X = X~ol + O(b, s) accurately in leading order. Analogously to the previous discussion we find that also the higher orders of X' = P,. X~'l are obtained from Eq. (73), with A~'l given by
+> 
+> (i) g(i —1) + X(i—1)tB + Q~(i —1) + X(i—1)tax(i —1) A(i) = A(i—1) + X(i—1)†B + B†X(i—1) + X(i—1)†t X(i—1)
+> 
+> (74) (74)
+> 
+> However, there are many solutions to Eq. (73). They dif 然而，方程(73)有许多解。它们相差一个矩阵δX = (B')⁻¹D，其中D是任意反对称矩阵。只有满足
+> 
+> fer by a matrix hX = (B') ~D, where D is an arbitrary antisymmetric matrix. Only a solution that fulfills
+> 
+> # 17 964 P. E. BLOCHL
+> 
+> # 17 964 P. E. 布洛赫
+> 
+> will conserve the energy and is of interest. 的解才会守恒能量，才是我们感兴趣的。
+> 
+> To obtain X, we diagonalize B„=P& U„&b~U~~ and 为了获得X，我们对角化B„= Σλ U„λ bλ U†λ~，并得到其特征值bλ以及由其本征向量形成的幺正矩阵U。由此我们确定
+> 
+> obtain its eigenvalues 6; and the unitary matrix U formed by its eigenvectors. From that we determine
+> 
+> F. = RF&+ R) f„(4„~V'RH~4„) F. = ΣR FR + Σn f„(4„|∇R H|4„)
+> 
+> +) [A„(4 iOi4„) + (4 iOii„)A„ I.
+> 
+> -   Σn,m [A„(4 |O|4„) + (4 |O|i„) A„ ].
+> 
+> (.+,) ) . U„„Up, (A .*„ .—8~I )Ui i'~ 2f„ X = Σλ,μ U„λ Uρμ (Aλμ —δλI ) U†i'~ 2f„
+> 
+> bp+ 6I f. +f bλ + bμ f. + f
+> 
+> (76) (76)
+> 
+> Now we use the first energy derivative of the constraint equation (4„~0~4 ) and the requirement that A be Her 现在我们使用约束方程(4„|O|4 )的第一能量导数和A是厄米的要求来获得
+> 
+> mitian to obtain
+> 
+> F. =R F~+) f„(4.„~vRHI4„) F. = ΣR FR + Σn f„(4.„|∇R H|4„)
+> 
+> The iterative procedure Eq. (76) for X = g,. X' has 对于X = Σi X(i)的迭代程序方程(76)在方程(75)和(68)的正确解处有一个不动点。在每次迭代中，方程(75)被精确满足，这确保了每一步的能量守恒。如果所有占据数相同或B'是单位矩阵乘以一个常数因子，这个X的迭代方案是Δt的泰勒展开。由于这些要求通常不满足，Δt中的每一阶需要一个额外的迭代，类似于上述，但没有方程(74)中X(i)的二次项和B的非厄米部分。由于两个嵌套迭代方案之间的密切关系，在实践中我只执行外部迭代，它现在也扮演内部迭代的角色。
+> 
+> a fixed point at the correct solution for Eqs. (75) and (68). In each iteration Eq. (75) is exactly fulfilled, which ensures energy conservation in each step. This iterative scheme for X is a Taylor expansion in 4 if either all occupations are identical or if B' is unity times a constant factor. As these requirements often are not ful6lled, each order in 6 requires an additional itera tion, which is similar to that described above, but without the term quadratic in X~'~ and the non-Hermitian part of B in Eq. (74). Owing to the close relationship between the two nested iteration schemes, in practice I perform only the outer iteration, which now also plays the role of the inner iteration. Evaluation of the overlap matrix A~'~ does not require that the scalar products of the wave functions be reevaluated. Instead, the matrix A~'j is calculated from Eq. (68) 重叠矩阵A(i)的求值不需要重新计算波函数的标量积。相反，矩阵A(i)是从方程(68)使用先前迭代步骤的矩阵X(i)计算出的。还要注意，B'每个时间步长只需要对角化一次，即对于本小节描述的整个迭代方案只对角化一次。如果方程(73)右边的每个元素都小于某个给定的容差，就达到收敛。最后，我们可以根据方程(65)预测新的PS波函数。
+> 
+> using the matrices X~'~ from the previous iteration steps. Note also that B' needs to be diagonalized only once for every time step, i.e., once for the entire iterative scheme described in this subsection. Convergence is reached if every element of the right-hand side in Eq. (73) is smaller than a certain given tolerance. Finally we can predict the new PS wave functions according to Eq. (65).
+> 
+> # C. Propagating the atoms
+> 
+> # C. 原子的传播
+> 
+> The equations of motion for the ions are integrated as 离子的运动方程积分如下
+> 
+> —) (4„~V&0~4 )A „. — Σn,m (4„|∇R O|4 ) A „.
+> 
+> The requirement E = 0 results in an expression for the force 要求E = 0导致力的表达式
+> 
+> Ftt = ) .—f-(@-l&JtHI@-) + ) .(@-I&ttOI@-)A Ftt = Σn —f-(@-|∇R H|@-) + Σn,m (@-|∇R O|@-) A
+> 
+> (8I) (81)
+> 
+> which in the stationary case is identical to Eq. (48) above. The propagation of the ionic positions is straightforward once the Lagrange multipliers are known. As seen in Sec. VB, those will be calculated only after the new 这在稳态情况下与上面的方程(48)相同。一旦拉格朗日乘子已知，离子位置的传播就是直接的。如第V B节所见，这些只会在新位置确定后才计算，因为PS重叠算符以及由此产生拉格朗日乘子的正交化显式依赖于原子位置。然而，Verlet算法在时间步长Δt中只有有限的精度。因此，如果我们能预测A到O(Δt²)阶就足够了。这意味着从最后两个时间步长进行线性外推
+> 
+> positions are determined because the PS overlap operator and hence the orthogonalization that yields the Lagrange multipliers depend explicitly on the atomic positions. However, the Verlet algorithm has only limited accuracy in the time step A. Hence it is sufhcient if we can predict A up to the order 6 . This implies that a linear extrapolation from the last two time steps
+> 
+> A„(0) = 2A„(—) —A„(—2) + 0(b,') (82) A„(0) = 2A„(—) —A„(—2) + O(Δt³) (82)
+> 
+> is sufficient. It is therefore not necessary to achieve selfconsistency of atomic positions and Lagrange multipliers iteratively, which would be computationally extremely demanding. This is in contrast to the approach used by Laasonen et al. , who suggest that A and forces be determined self-consistently. 就足够了。因此，不需要迭代地实现原子位置和拉格朗日乘子的自洽，这在计算上将是极其昂贵的。这与Laasonen等人使用的方法不同，他们建议自洽地确定A和力。
+> 
+> Q2 R, (+) = 2R, (o) —R, (—) + FR, R,. (77) R, (+) = 2R, (0) —R, (—) + Δt²/MR FR, R,. (77)
+> 
+> 2.  Renormalization of the atonw cmasses'
+> 3.  原子质量的重整化
+> 
+> Forces consistent with the Lagrenge multip/iers 与拉格朗日乘子一致的力
+> 
+> a = MRR+ R„+) f„m+((4„~4„)+ (C.~4.)) a = MR R + ΣR FR + Σn f„ m@ ((4„|4„) + (C.|4.))
+> 
+> +(4-I - + - l~-)
+> 
+> -   (4-| - + - |~-)
+> 
+> dE dE dE dE
+> 
+> d(i„i di4„) (78) d(i„i di4„) (78)
+> 
+> We insert the equations of motion and resolve the energy derivatives using Eqs. (42) and (47) to obtain 我们插入运动方程，并使用方程(42)和(47)解析能量导数，得到
+> 
+> As mentioned before, the force component due to the changing overlap operator described in Eq. (58) must be modified in the molecular-dynamics formalism. Instead 如前所述，由于重叠算符变化引起的力分量（方程(58)所述）必须在分子动力学形式体系中进行修改。代替(4'„|H|4 )(f + f )/2，必须使用拉格朗日乘子。这是由于能量守恒条件。总能量的变化是
+> 
+> of (4'„~H~4 )(f + f )/2, one has to use the Lagrange multipliers. This results f'rom the condition of energy conservation. The change of the total energy is
+> 
+> The fictitious dynamics of the electronic wave functions has two main eKects on the atomic trajectories. First, energy is transferred constantly to the wave functions, which have a temperature that is very low compared to that of the ionic subsystem. The rate of 电子波函数的虚构动力学对原子轨迹有两个主要影响。首先，能量持续地传递给波函数，其温度远低于离子子系统的温度。热传递速率大致正比于作用在离子上的力的大小以及占据态和非占据态之间的带隙。对于长模拟，这个效应可以通过使用两个Nose恒温器来控制，一个保持离子在其物理温度，另一个保持波函数接近Born-Oppenheimer面。
+> 
+> heat transfer is roughly proportional to the magnitude of the forces acting on the ions and to the band gap between occupied and unoccupied states. This efI'ect can be controlled for long simulations using two Nose thermostats, ' one to keep the ions at their physical temperature and one to keep the wave functions close to the Born-Oppenheimer surface. The second e8'ect is that the ions propagate as quasiparticles dressed by the wave functions, which increases 第二个效应是，离子作为被波函数修饰的准粒子传播，这增加了有效质量。这个效应可以通过重整化核的质量来补偿。该效应的大小可以从一个经历外力、由势Vext(R)作用在核上的孤立原子来估计。
+> 
+> the e8'ective mass. This e8'ect can be compensated by renormalizing the masses of the nuclei. The magnitude of the efFect can be estimated from an isolated atom that experiences external forces, described by a
+> 
+> # 50 PROJECTOR AUGMENTED-WAVE METHOD 17 965
+> 
+> # 50 投影缀加波方法 17 965
+> 
+> potential V,„i(R) acting on the nuclei. Assuxning that 假设原子的波函数精确地处于Born-Oppenheimer面上，波函数不改变，除了它们经历刚性位移和|4) i = —|∇4) tR。因此，拉格朗日量可以简化为
+> 
+> the wave functions of the atom reside exactly on the Born-Oppenheimer surface, the wave functions do not change, except that they undergo a rigid displacement and ~4) i ———~V4) tR. Hence the Lagrangian can be simplified to
+> 
+> ) R l 2m+ ) fat, ~(Va@n~V~@~)st ΣR ½ MR R² + 2m@ Σn f„ (∇a@n|∇~@n)st
+> 
+> +M&b;, R, —Eo[@j—V.„,.
+> 
+> -   MR b;, R, —Eo[@] —Vext.
+> 
+> Here Eo is the total energy of the isolated atom, which is constant during the simulation. The constraints of orthonormal wave functions are automatically fu16lled 这里，Eo是孤立原子的总能量，在模拟期间是常数。正交归一化波函数的约束自动满足，因为这里4表示孤立原子的刚性位移PS波函数。有效质量张量
+> 
+> because here 4 denotes rigidly displaced PS wave functions of the isolated atom. The efFective mass tensor 2m@ Σn f„ (V;0'„|V~4'„) + MR b;~ 是对角的，因为孤立原子是球对称的。因此，有效质量
+> 
+> 2m@ g„f„(V;0'„~V~4'„) +. MRb;~ is diagonal because the isolated atom is spherically symmetric. The efFective mass
+> 
+> is therefore one-third of the trace of the mass tensor, which has been modi6ed after applying Gauss's theorem. 是应用高斯定理修改后的质量张量迹的三分之一。期望值Σn f„(4| —2∇² |@)st 无非是真实电子动能的平面波部分。因此，拉格朗日量中使用的离子裸质量应减少
+> 
+> The expectation value P„f„(4~ —2V ~@)« is nothing other than the plane-wave part of the true electronic kinetic energy. Hence the bare mass of the ions used in the Lagrangian should be reduced by
+> 
+> bM = -m+ ) f, „(4„~—'—,V'~4'„)„. (85) ΔM = —2m@ Σn f„ (4„|—½∇²|4'„)st. (85)
+> 
+> 0 0
+> 
+> I I
+> 
+> 1 1
+> 
+> (ao) (ao)
+> 
+> I I
+> 
+> r (ao) r (ao)
+> 
+> FIG. 1. Partial waves and projectors for Mn. Left panel: AE partial waves (solid lines) and PS partial waves (dashed 图1. Mn的分波和投影函数。左图：AE分波（实线）和PS分波（虚线和点划线）。"第一"PS分波是点划线。右图：第一（实线）和第二（虚线）投影函数。(a)和(d)分别显示s角动量通道的第一和第二部分波的结果，(b)和(e)显示p通道的结果，(c)和(f)显示d通道的结果。3s和3p函数被作为价态处理。函数分别缩放。
+> 
+> and dash-dotted lines). The "first" PS partial wave is a dash-dotted line. Right panel: first (solid line) and second (dashed line) projector functions. (a) and (d) show the re sults for the 6rst and the second partial wave of the s angular momentum channel, respectively, (b) and (e) for the p chan nel, and (c) and (f) for the d channel. 3s and 3p functions are treated as valence states. Functions are scaled individually.
+> 
+> This correction has been included in all our simulations described here. The quality of this correction can be estimated by comparing the kinetic energy related to the 这个修正已包含在本文描述的所有模拟中。这个修正的质量可以通过比较所研究系统的PS波函数的动能与孤立原子的动能来估计。
+> 
+> PS wave functions of the system of interest to that of the isolated atoms.
+> 
+> # VI. CONSTRUCTION OF PARTIAL WAVES
+> 
+> # VI. 分波和投影函数的构造
+> 
+> # AND PROJECTORS
+> 
+> # 和投影函数
+> 
+> The basic ingredients of the PAW method are partial waves and projectors. There is an in6nite number of ways PAW方法的基本要素是分波和投影函数。有无限多种方式
+> 
+> to construct them. I will describe here in detail the par 来构造它们。我将在这里详细描述我为此应用所做的特定选择。尽管问题的解决方案相当令人满意，但可能有比这里描述的选择更好的选择。特别是，PS分波的构造完全类似于用赝势方法构造赝势。用赝势方法获得的专业知识很可能产生允许进一步减少平面波数量的选择。用下面描述的程序获得的分波和投影函数如图1所示。
+> 
+> ticular choice I made for this application. Even though the solution of the problem is quite satisfactory, there may be better choices than the ones described here. In particular the construction of PS partial waves is completely analogous to the construction of pseudopotentials with the pseudopotential method. The expertise acquired with the pseudopotential method is likely to create choices that permit a further reduction of the number of plane waves. The partial waves and projector functions obtained with the procedure described below are shown in Fig. l.
+> 
+> # A. All-electron partial maves
+> 
+> # A. 全电子分波
+> 
+> The AE partial waves are obtained by radially integrating the Schrodinger equation AE分波通过径向积分薛定谔方程获得
+> 
+> outward for the self-consistent atomic AE potential v q and a set of energies e;. In practice we use the scalar 向外，对自洽原子AE势v q和一组能量e;。在实践中，我们使用Koelling和Harmon的标量相对论版本。
+> 
+> relativistic version of Koelling and Harmon. The AE partial waves are chosen to describe the phys 选择AE分波来相当好地描述物理相关的态，即那些来自价带区域的态。通常，每个角动量和位点的第一个分波的能量e被选择为原子最低束缚价态的能量。第二个分波的能量在选择时是在检查了只有一个分波时PAW方法对孤立原子的散射性质后确定的。它被放置在散射性质开始恶化的能量处。分波不需要是束缚态，因为指数增长的尾部会被PS分波的相同行为精确抵消。然后，分波的数量进一步增加，直到价带区域的散射性质被满意地描述。
+> 
+> ically relevant states, i.e., those &om the valence band region, reasonably well. The energy e of the first partial wave per angular momentum and site is usually chosen as the energy of the 1owest bound valence state of the atom. The energy of the second partial wave is chosen after inspecting the scattering properties of the PAW method for the isolated atom with only one partial wave. It is placed at the energy where the scattering properties begin to deteriorate. There is no need for the partial wave to be bound states because the exponentially increasing tail will be canceled exactly by the identical behavior of the PS partial waves. The number of partial waves is then further increased until the scattering properties of the valence band region are described satisfactorily. An equally justi6ed approach, more similar in spirit to the linear methods, is to use increasingly higher energy derivatives of the energy-dependent partial waves 一种同样合理的方法，更类似于线性方法的精神，是使用在一个固定能量下获得的能量依赖分波的越来越高的能量导数。原则上，也可以添加来自具有不同占据数的原子的分波。
+> 
+> obtained at one fixed energy. In principle, one can also add partial waves &om atoms with various occupations.
+> 
+> If core states extend beyond the augmentation region, we subsequently orthogonalize the AE partial waves within the augmentation region to core states centered on the same site. We 6nd that one AE partial wave per angular momentum and site is often sufBcient and that 如果芯态延伸到缀加区域之外，我们随后将缀加区域内的AE分波正交化到以同一位点为中心的芯态。我们发现，每个角动量和位点一个AE分波通常就足够了，并且
+> 
+> # P. E. BI.OCHL
+> 
+> # P. E. 布洛赫
+> 
+> # B. Pseudopartial waves
+> 
+> # B. 赝分波
+> 
+> To construct PS partial waves, I proceed in loose analogy to the pseudopotential approach described in the 为了构造PS分波，我以松散的类比方式进行，类似于Hamann等人的工作中描述的赝势方法，我将其扩展到将几个项包含在可分离形式中。然而，通常我们不执行那里建议的范数守恒步骤。
+> 
+> work of Hamann et al. , ' o' which I have extended to include several terms into the separable form. However, in general we do not perform the norm-conservation step suggested there.
+> 
+> I 6rst select a PS potential 6 t. This is done in two different ways, depending on the element. (i) For transition metals, a polynomial of fourth order 我首先选择一个PS势v t。这根据元素以两种不同的方式完成。（i）对于过渡金属，一个四阶多项式在微分上与AE势匹配。在匹配半径之外，两个势重合。剩余的&自由参数，即v t在核位置的值，是手动调整的。
+> 
+> is matched diKerentially to the AE potential. Outside the matching radius the two potentials coincide. The remaining &ee parameter, the value of v ~ at the nuclear site, is adjusted by hand. (ii) For elements without d electrons in the valence （ii）对于价壳层中没有d电子的元素，v t从AE势获得为v t(r) = v i(0) k(r) + [1—k(r)] v t(r)，使用形式为
+> 
+> shell, v~t is obtained from the AE potential as v~t(r) = v i (0)k(r) + [1—k(r)]v t(r), using a cutoff function of the form
+> 
+> k(r) = exp[ —(r/rg, )"]. (87) k(r) = exp[—(r/rg, )"]. (87)
+> 
+> In order to obtain the PS partial wave, I de6ne for each AE partial wave a PS potential of the form 为了获得PS分波，我为每个AE分波定义一个PS势，形式为
+> 
+> two terms yield a satisfactory description even for diKcult cases such as transition metals and systems in which semicore states are treated as valence states. However, if one is interested in states that lie far above the valence band region, the number of AE partial waves can be increased further until the desired accuracy is achieved. The entire construction is fairly insensitive to the choice of the energies of the AE partial waves. Since the valence band region can be described fairly well with two partial waves, as shown in the linear methods, any two partial waves &om this region will span a, very similar portion of the Hilbert space. Even though the individual partial waves and projectors will deafer, they represent an almost equivalent choice. 两项即使对于困难的情况，如过渡金属和半芯态被作为价态处理的系统，也能产生令人满意的描述。然而，如果对远高于价带区域的态感兴趣，可以进一步增加AE分波的数量，直到达到所需的精度。整个构造对AE分波能量的选择相当不敏感。由于价带区域可以用两个分波相当好地描述，如线性方法所示，来自该区域的任何两个分波都将张成希尔伯特空间中非常相似的部分。即使各别的分波和投影函数会不同，它们代表几乎等价的选择。
+> 
+> TABLE I. Parameters for the construction of PS partial 表I. 构造PS分波的参数。截断参数已被选择为A = 6 对所有原子和角动量通道。
+> 
+> waves. The cutoK parameter has been chosen as A = 6 for all atoms and angular momentum channels.
+> 
+> Symbol H Li 8Be 符号 H Li Be B 0 0 Og Og F Fe F Fe Mn Mn
+> 
+> v{0)[II) v{0)[II] —3.43 —1.43 —1.40 —2.20 —2.47 —2.58 —3.19 —2.60 —2.55 1.88 0.0 —3.20
+> 
+> ~. [H) ~. [H] -0.234 —0.106 —0.207 -0.346 --0.501 -0.677 —0.873 --0.873 -1.090 —0.020 0.000 -0.194 -3.138 -0.194
+> 
+> &ks &ks 0.45 1.20 1.20 1.00 1.00 1.00 0.90 1.00 1.00 1.50 1.50 1.50 1.50 1.50 1.50
+> 
+> —0.079 -0.137 —0.199 -0.266 -0.338 -0.338 —0.415 —0.058 —0.054 -2.002 —0.054
+> 
+> 1.20 1.00 1.00 1.00 0.90 1.00 1.00 1.50 -0.287 1.50 0.000 1.50 1.50 —0.257 1.50 1.50 0.500 1.50 1.50 —0.257 1.50 1.50 0.500 1.50
+> 
+> Is') = {--',&'+ v-~ —e,')I&') . {90) |s') = (—½∇² + v t —e,')|&') . (90)
+> 
+> If the result is zero, we set the projector function equal to the cutoff function k(r). These projector functions must 如果结果为零，我们将投影函数设为等于截断函数k(r)。这些投影函数必须被修改，使得它们满足条件(p;|g~) = δi,j。这个条件现在从最低分波开始迭代施加。以下方程[(91)—(96)]不应被解读为数学恒等式，而是像计算机程序一样：左边是右边的乘积，新值覆盖相同符号的先前值。我这样做是为了避免对同一量使用多个符号。
+> 
+> be modified such that they fulfill the condition (p;Ig~) = b,~. This condition is now imposed iteratively beginning with the lowest partial wave. The following equations [(91)—(96)] should not be read as mathematical identities but rather like a computer program: The left-hand side is the product of the right-hand side, with the new value overwriting previous values for the same symbol. I have done this to avoid multiple symbols for the same quantity. For a given partial wave denoted by subscript i, and 对于给定的由下标i表示的分波，并假设对于k, j < i有(pi,|p~) = δi,j，投影函数首先正交化到所有较低的PS分波，通过
+> 
+> assuming that (pi, lp~) = bi~ for k, j ( i, the projector functions are erst orthogonalized to all lower PS partial waves by
+> 
+> v(rt) = v, (r) + c;k(r) . (88) v(rt) = v, (r) + c; k(r) . (88)
+> 
+> 2 —jL |p') = |p') — Σj=1 |p~)(&~|p') .
+> 
+> i-1
+> 
+> j=l (91) (91)
+> 
+> ——V + iv, (r) —e IP;) = 0 (—½∇² + i v;(r) —e) |P;) = 0
+> 
+> (1 1 (89)
+> 
+> 2 {89) (89)
+> 
+> for the energy of the corresponding AE partial wave and the potential iv;(r). The &ee coefficient c; in Eq. (88) 对相应的AE分波的能量和势iv;(r)。然后，方程(88)中的&自由系数c;被确定，使得PS分波在缀加区域外与相应的AE分波重合。
+> 
+> is then determined such that the PS partial wave coincides with the corresponding AE partial wave outside the augmentation region.
+> 
+> # C. Projector functions
+> 
+> # C. 投影函数
+> 
+> Next we calculate preliminary projector functions according to 接下来，我们根据以下计算初步的投影函数
+> 
+> The values of the cutoH' radius rI, and the exponent A are 截断半径rI,和指数A的值被选择使得这个势在缀加区域外几乎与AE原子势相同。通常我们选择A = 6和rg为共价半径的四分之三。我们计算中使用的值列在表I中。PS分波作为非相对论薛定谔方程的解获得
+> 
+> chosen such that this potential is virtually identical to the AE atomic potential outside the augmentation region. Often we choose A = 6 and rg as three-quarters of the covalent radius. The values used in our calculations are listed in Table I. The PS partial wave is obtained as a solution of the nonrelativistic Schrodinger equation
+> 
+> t —1 |4') = |@'& — Σj=1 |+')(p|@'&
+> 
+> i-1
+> 
+> j=1 (92) (92)
+> 
+> i —1 |&*-& = l4') — Σj=1 |@&(A~|@'& .
+> 
+> i-1
+> 
+> j=l (93) (93)
+> 
+> Finally the projector function and partial waves are scaled so that Q, IP;) is unity 最后，投影函数和分波被缩放，使得Σi|P;)是统一的
+> 
+> |p') = |p')/(p'|&_) |p') = |p')/(p'|&_) |@'& = |@-)/c |@'& = |@-)/c |+'& = |0.)/c. |+'& = |0.)/c.
+> 
+> (94) (94) (95) (95) (96) (96)
+> 
+> Then the AE and PS partial waves are modi6ed in order to ensure the orthogonality of the PS partial wave with the lower projector functions 然后，AE和PS分波被修改，以确保PS分波与较低投影函数的正交性
+> 
+> H Li 8Be H Li Be B 0 0 Og Og F Fe F Fe Mn Mn
+> 
+> -2.58 -2.58 1.88 1.88 0.0 0.0 -0.234 -0.234 -0.346 -0.346 -0.677 -0.677 -1.090 -1.090 0.000 0.000 -0.194 -0.194 -3.138 -3.138 -0.194 -0.194
+> 
+> &ks &ks 0.45 1.20 1.20 1.00 1.00 1.00 0.90 1.00 1.00 1.50 1.50 1.50 1.50 1.50 1.50
+> 
+> -0.137 -0.137 -0.266 -0.266 -0.338 -0.338 -0.338 -0.338 -2.002 -2.002
+> 
+> 1.20 1.00 1.00 1.00 0.90 1.00 1.00 1.50 0.000 1.50 1.50 1.50 1.50 0.500 1.50 1.50 1.50 1.50 0.500 1.50
+> 
+> # P. E. BI.OCHL
+> 
+> # P. E. 布洛赫
+> 
+> # B. Pseudopartial waves
+> 
+> # B. 赝分波
+> 
+> To construct PS partial waves, I proceed in loose analogy to the pseudopotential approach described in the work of Hamann et al. , ' o' which I have extended to include several terms into the separable form. However, in general we do not perform the norm-conservation step suggested there. 为了构造PS分波，我以松散的类比方式进行，类似于Hamann等人的工作中描述的赝势方法，我将其扩展到将几个项包含在可分离形式中。然而，通常我们不执行那里建议的范数守恒步骤。
+> 
+> I 6rst select a PS potential 6 t. This is done in two different ways, depending on the element. (i) For transition metals, a polynomial of fourth order is matched diKerentially to the AE potential. Outside the matching radius the two potentials coincide. The remaining &ee parameter, the value of v ~ at the nuclear site, is adjusted by hand. (ii) For elements without d electrons in the valence shell, v~t is obtained from the AE potential as v~t(r) = v i (0)k(r) + [1—k(r)]v t(r), using a cutoff function of the form 我首先选择一个PS势v t。这根据元素以两种不同的方式完成。（i）对于过渡金属，一个四阶多项式在微分上与AE势匹配。在匹配半径之外，两个势重合。剩余的&自由参数，即v t在核位置的值，是手动调整的。（ii）对于价壳层中没有d电子的元素，v t从AE势获得为v t(r) = v i(0) k(r) + [1—k(r)] v t(r)，使用形式为k(r) = exp[—(r/rg, )"]的截断函数。
+> 
+> k(r) = exp[ —(r/rg, )"]. (87)
+> 
+> In order to obtain the PS partial wave, I de6ne for each AE partial wave a PS potential of the form 为了获得PS分波，我为每个AE分波定义一个PS势，形式为
+> 
+> two terms yield a satisfactory description even for diKcult cases such as transition metals and systems in which semicore states are treated as valence states. However, if one is interested in states that lie far above the valence band region, the number of AE partial waves can be increased further until the desired accuracy is achieved. The entire construction is fairly insensitive to the choice of the energies of the AE partial waves. Since the valence band region can be described fairly well with two partial waves, as shown in the linear methods, any two partial waves &om this region will span a, very similar portion of the Hilbert space. Even though the individual partial waves and projectors will deafer, they represent an almost equivalent choice. 两项即使对于困难的情况，如过渡金属和半芯态被作为价态处理的系统，也能产生令人满意的描述。然而，如果对远高于价带区域的态感兴趣，可以进一步增加AE分波的数量，直到达到所需的精度。整个构造对AE分波能量的选择相当不敏感。由于价带区域可以用两个分波相当好地描述，如线性方法所示，来自该区域的任何两个分波都将张成希尔伯特空间中非常相似的部分。即使各别的分波和投影函数会不同，它们代表几乎等价的选择。
+> 
+> TABLE I. Parameters for the construction of PS partial waves. The cutoK parameter has been chosen as A = 6 for all atoms and angular momentum channels. 表I. 构造PS分波的参数。截断参数已被选择为A = 6对所有原子和角动量通道。
+> 
+> Symbol H Li 8Be 符号 H Li Be B 0 0 Og Og F Fe F Fe Mn Mn
+> 
+> v{0)[II) v{0)[II] —3.43 —1.43 —1.40 —2.20 —2.47 —2.58 —3.19 —2.60 —2.55 1.88 0.0 —3.20
+> 
+> ~. [H) ~. [H] -0.234 —0.106 —0.207 -0.346 --0.501 -0.677 —0.873 --0.873 -1.090 —0.020 0.000 -0.194 -3.138 -0.194
+> 
+> &ks &ks 0.45 1.20 1.20 1.00 1.00 1.00 0.90 1.00 1.00 1.50 1.50 1.50 1.50 1.50 1.50
+> 
+> —0.079 -0.137 —0.199 -0.266 -0.338 -0.338 —0.415 —0.058 —0.054 -2.002 —0.054
+> 
+> 1.20 1.00 1.00 1.00 0.90 1.00 1.00 1.50 -0.287 1.50 0.000 1.50 1.50 —0.257 1.50 1.50 0.500 1.50 1.50 —0.257 1.50 1.50 0.500 1.50
+> 
+> Is') = {--',&'+ v-~ —e,')I&') . {90) |s') = (—½∇² + v t —e,')|&') . (90)
+> 
+> If the result is zero, we set the projector function equal to the cutoff function k(r). These projector functions must be modified such that they fulfill the condition (p;Ig~) = b,~. This condition is now imposed iteratively beginning with the lowest partial wave. The following equations [(91)—(96)] should not be read as mathematical identities but rather like a computer program: The left-hand side is the product of the right-hand side, with the new value overwriting previous values for the same symbol. I have done this to avoid multiple symbols for the same quantity. 如果结果为零，我们将投影函数设为等于截断函数k(r)。这些投影函数必须被修改，使得它们满足条件(p;|g~) = δi,j。这个条件现在从最低分波开始迭代施加。以下方程[(91)—(96)]不应被解读为数学恒等式，而是像计算机程序一样：左边是右边的乘积，新值覆盖相同符号的先前值。我这样做是为了避免对同一量使用多个符号。
+> 
+> For a given partial wave denoted by subscript i, and assuming that (pi, lp~) = bi~ for k, j ( i, the projector functions are erst orthogonalized to all lower PS partial waves by 对于给定的由下标i表示的分波，并假设对于k, j < i有(pi,|p~) = δi,j，投影函数首先正交化到所有较低的PS分波，通过
+> 
+> v(rt) = v, (r) + c;k(r) . (88) v(rt) = v, (r) + c; k(r) . (88)
+> 
+> 2 —jL |p') = |p') — Σj=1 |p~)(&~|p') .
+> 
+> i-1
+> 
+> j=l (91) (91)
+> 
+> ——V + iv, (r) —e IP;) = 0 (—½∇² + i v;(r) —e) |P;) = 0
+> 
+> (1 1 (89)
+> 
+> 2 {89) (89)
+> 
+> for the energy of the corresponding AE partial wave and the potential iv;(r). The &ee coefficient c; in Eq. (88) is then determined such that the PS partial wave coincides with the corresponding AE partial wave outside the augmentation region. 对相应的AE分波的能量和势iv;(r)。然后，方程(88)中的&自由系数c;被确定，使得PS分波在缀加区域外与相应的AE分波重合。
+> 
+> # C. Projector functions
+> 
+> # C. 投影函数
+> 
+> Next we calculate preliminary projector functions according to 接下来，我们根据以下计算初步的投影函数
+> 
+> The values of the cutoH' radius rI, and the exponent A are chosen such that this potential is virtually identical to the AE atomic potential outside the augmentation region. Often we choose A = 6 and rg as three-quarters of the covalent radius. The values used in our calculations are listed in Table I. The PS partial wave is obtained as a solution of the nonrelativistic Schrodinger equation 截断半径rI,和指数A的值被选择使得这个势在缀加区域外几乎与AE原子势相同。通常我们选择A = 6和rg为共价半径的四分之三。我们计算中使用的值列在表I中。PS分波作为非相对论薛定谔方程的解获得
+> 
+> t —1 |4') = |@'& — Σj=1 |+')(p|@'&
+> 
+> i-1
+> 
+> j=1 (92) (92)
+> 
+> i —1 |&*-& = l4') — Σj=1 |@&(A~|@'& .
+> 
+> i-1
+> 
+> j=l (93) (93)
+> 
+> Finally the projector function and partial waves are scaled so that Q, IP;) is unity 最后，投影函数和分波被缩放，使得Σi|P;)是统一的
+> 
+> |p') = |p')/(p'|&_) |p') = |p')/(p'|&_) |@'& = |@-)/c |@'& = |@-)/c |+'& = |0.)/c. |+'& = |0.)/c.
+> 
+> (94) (94) (95) (95) (96) (96)
+> 
+> Then the AE and PS partial waves are modi6ed in order to ensure the orthogonality of the PS partial wave with the lower projector functions 然后，AE和PS分波被修改，以确保PS分波与较低投影函数的正交性
+> 
+> H Li 8Be H Li Be B 0 0 Og Og F Fe F Fe Mn Mn
+> 
+> -2.58 -2.58 1.88 1.88 0.0 0.0 -0.234 -0.234 -0.346 -0.346 -0.677 -0.677 -1.090 -1.090 0.000 0.000 -0.194 -0.194 -3.138 -3.138 -0.194 -0.194
+> 
+> &ks &ks 0.45 1.20 1.20 1.00 1.00 1.00 0.90 1.00 1.00 1.50 1.50 1.50 1.50 1.50 1.50
+> 
+> -0.137 -0.137 -0.266 -0.266 -0.338 -0.338 -0.338 -0.338 -2.002 -2.002
+> 
+> 1.20 1.00 1.00 1.00 0.90 1.00 1.00 1.50 0.000 1.50 1.50 1.50 1.50 0.500 1.50 1.50 1.50 1.50 0.500 1.50
+> 
+> # 50 PROJECTOR AUGMENTED-WAVE METHOD 17 967
+> 
+> # 50 投影缀加波方法 17 967
+> 
+> The free constant c is used to avoid very large projector functions, while the partial waves are very small and vice versa. It has no influence other than to prevent very sxnall and very large numbers, which may create problems on the computer. Once the set of projectors and partial 自由常数c用于避免非常大的投影函数，而分波非常小，反之亦然。它除了防止在计算机上可能产生问题的非常小和非常大的数字外，没有其他影响。一旦下标为i的投影函数和分波集被修改以满足正交性条件，就继续处理下一组投影函数和分波|p;+1&, |4;+1&, |4;+1&)。
+> 
+> waves with index i are modified to obey the orthogonality condition, one proceeds to the next set of projectors and partial waves Ip;+&&, 14;+&&, 14;+&).
+> 
+> # D. The potential 8
+> 
+> # D. 势B
+> 
+> The potential 8 is now obtained by subtracting the 势B现在通过从用于定义PS波的自洽原子PS密度势中减去得到：
+> 
+> potential of the self-consistent atomic PS density &om the PS potential used to define the PS waves:
+> 
+> in detail. In particular, this approach ensures that the 详细地。特别是，这种方法确保用于构造PS分波的态被正确地再现为PAW方法的原子PS波函数，无论分波展开的质量如何。
+> 
+> states used to construct the PS partial waves are reproduced correctly as atomic PS wave functions of the PAW method, irrespective of the quality of the partial-wave expansion. Let me summarize which quantities we import from the atomic calculation into the ab initio molecular dynamics simulation: (i) the AE and PS core densities, (ii) AE and 让我总结一下我们从原子计算中导入到从头算分子动力学模拟中的量：（i）AE和PS芯密度，（ii）AE和PS分波|g;&和|P;&以及PS投影函数(s'|，（iii）用于计算动能和重叠矩阵的单中心贡献的矩阵(O'*|—2&'|4~&—(&'|—2't7'|&~&和(P;|P~&—(P;|P~&（注意，AE分波的拉普拉斯算符被其标量相对论对应物替换），以及（iv）决定短程补偿密度范围的截断半径r,。
+> 
+> PS partial waves Ig;& and IP;& and PS projector functions (s 'I (iii) the matrices (O'*I —2&'14~& —(&'I —2't7'l&~& and (P;IP~& —(P;IP~& for the calculation of the one-center con tributions of kinetic energy and overlap matrix (note that the Laplacian for the AE partial waves is replaced by its scalar relativistic counterpart), and (iv) the cutofF r, that determines the range of the short-ranged compensation densities.
+> 
+> This step is the analog to the unscreening of a pseudopotential performed in the pseudopotential approach. Since the PS partial waves do not necessarily correspond to the atomic bound states, which are needed in Eq. (97), the latter are obtained from the radial, separable Schrodinger equation 这一步是赝势方法中进行的赝势去屏蔽的类比。由于PS分波不一定对应于方程(97)中所需的原子束缚态，后者是从径向可分离薛定谔方程获得的
+> 
+> (98) (98)
+> 
+> with dH;~ and dO;z given as 其中dH;~和dO;z给出为
+> 
+> # VII. ANALYSIS OF THE PARTIAL-%PAVE
+> 
+> # VII. 分波截断误差分析和
+> 
+> # TRUNCATION ERROR AND EXTENSIONS
+> 
+> # PAW方法的扩展
+> 
+> # OF THE PAW METHOD
+> 
+> # PAW方法的扩展
+> 
+> In the previous sections we have taken the point of 在前面的章节中，我们采取了这样的观点，即PAW方法是Kohn-Sham方程的精确表述，通过截断两个快速收敛的级数展开，从中获得实用方案。在这里，我将详细分析分波展开的截断误差，从而证明我对波函数和总能量表达式所做的选择是合理的。本节可以被实践者跳过。我向那些对当前PAW方法实现的基本原理和可能扩展感兴趣的读者推荐本节。
+> 
+> view that the PAW method is an exact formulation of the Kohn-Sham equations, from which a practical scheme is obtained by truncating two rapidly converging series expansions. Here I will analyze the truncation errors of the partial-wave expansion in detail and thus justify the choices I made for wave functions and total energy ex pressions. This section can be skipped by the practi tioner. I recommend this section to those who are inter ested in the underlying principles and possible extensions of the present implementation of the PAW method.
+> 
+> A way to solve this equation is sketched in the Appendix. To obtain the PS density we still need to define its 解决这个方程的一种方法在附录中概述。为了获得PS密度，我们还需要定义其芯贡献。PS芯密度6'通过将一条抛物线在微分上匹配到AE芯密度来获得。在匹配半径之外，PS和AE芯密度相同。使用原子的波函数和占据数，我们构造一个PS电荷密度n，并由此根据方程(97)得到势B。
+> 
+> core contribution. The PS core density 6' is obtained by matching a parabola differentially to the AE core density. Outside the matching radius PS and AE core densities are identical. Using the wave functions and occupations of the atom one constructs a PS charge density n and from that 8 according to Eq. (97).
+> 
+> # E. Outlook
+> 
+> # E. 展望
+> 
+> The procedure described above is by no means the 上述描述的程序绝不是创建PS分波的唯一方式。有许多不同的方式可以构造第一性原理赝势。这些方法可以很容易地适应，以放松范数守恒条件，允许更大的缀加区域，并包含非束缚态。它们中的每一个都可以用来构造对应于给定AE分波的PS分波，并用上述程序构造投影函数。
+> 
+> only way to create PS partial waves. There are a number of different ways to construct first-principles pseudopotentials. These xnethods can easily be adapted to relax the norm-conservation condition, to allow a larger augmentation region, and to include unbound states. Each of them can be used to construct PS partial waves corresponding to given AE partial waves and, with the procedure outlined above, to construct projector functions. Once the PS partial waves are defined, it is recommended that the procedure described above be followed 一旦PS分波被定义，建议遵循上述程序
+> 
+> # A. Truncation error in the wave function
+> 
+> # A. 波函数中的截断误差
+> 
+> Orthogonality to the corn states 与芯态的正交性
+> 
+> The main effect of the truncation of the partial-wave 截断波函数的分波展开的主要效果是重新定义了从价波函数到PS波函数的变换。这本身不引入误差，但它影响与芯态的正交性。然而，AE分波被构造为与芯态正交，而|%'& — Σi|P;)(p;|%'&的非零余数会产生与芯态的非零重叠。
+> 
+> expansions for the wave function is to redefine the trans formation &om the valence wave functions to the PS wave functions. This in itself does not introduce errors, but it affects the orthogonality to the core states. Whereas the AE partial waves are constructed to be orthogonal to the core states, a nonzero remainder of I%'& —P, IP;)(p;I%'& can create a nonzero overlap with the core states.
+> 
+> Therefore, I introduce a new definition of the trans 因此，我引入变换T的新定义，它显式确保任何PS波函数被变换为与芯态|P')精确正交的AE波函数：
+> 
+> formation 7 that explicitly ensures that any PS wave function is transformed onto an AE wave function that is exactly orthogonal to the core states IP'):
+> 
+> (101) (101)
+> 
+> In the analysis of truncation errors it should be kept in 在截断误差的分析中，应记住方程(101)而不是方程(9)是PS和AE波函数之间变换的真正定义。当然，如果分波形成完备集，两个表达式是相同的。
+> 
+> mind that Eq. (101) rather than Eq. (9) is the true def inition of the transforxnation between PS and AE wave
+> 
+> # 50 D
+> 
+> # 50 D
+> 
+> # 17 968 P. E. BLOCHL
+> 
+> # 17 968 P. E. 布洛赫
+> 
+> functions. Of course, if the partial waves form a complete set, the two expressions are identical.
+> 
+> 2.  Additive augnaentation
+> 3.  加法缀加
+> 
+> with the "AE projector functions" defined as 其中"AE投影函数"定义为
+> 
+> (103}
+> 
+> When truncating the partial-wave expansions it is important that the partial-wave expansions of the AE and the PS wave functions are truncated in a completely analogous way. This principle is called additive augmentation and has important advantages. First, the wave functions of the PAW method are differentiable to an arbitrary order if the PS partial waves have been constructed to be differentiable to an in6nite order. (In many implementations of the LAPW method the wave function is even discontinuous. ) 在截断分波展开时，重要的是AE和PS波函数的分波展开以完全类似的方式截断。这个原理称为加法缀加，具有重要的优点。首先，如果PS分波被构造为无限阶可微，PAW方法的波函数是任意阶可微的。（在LAPW方法的许多实现中，波函数甚至是不连续的。）
+> 
+> Second, higher partial waves not explicitly included in the partial-wave expansions are represented by the tails of the plane-wave part that extend into the augmentation region. Finally, the PAW basis set is complete whenever the plane waves form a complete basis set, irrespective of the partial-wave truncation. This justi6es the use of partial waves imported &om the isolated atom without adjusting them to the actual potential, as done in the linear methods. The use of &ozen partial waves has substantial advantages in combination with the firstprinciples molecular-dynamics approach because it eliminates a large number of parameters that otherwise have to be treated as dynamical variables or determined variationally in each time step to a very high degree of accuracy. The principle of additive augmentation itself is not new and has been exploited to some extent in the 其次，未显式包含在分波展开中的更高分波由延伸到缀加区域的平面波部分的尾部表示。最后，只要平面波形成完备基组，PAW基组就是完备的，无论分波截断如何。这证明了使用从孤立原子导入的分波而不将其调整到实际势（如线性方法中所做）的合理性。使用冻结分波与从头算分子动力学方法结合具有实质性的优势，因为它消除了大量参数，否则这些参数必须作为动力学变量处理，或在每个时间步长中以非常高的精度变分确定。加法缀加原理本身并不新，并已在LMTO方法和Soler和Williams的APW方法中在一定程度上被利用。
+> 
+> I MTO method and in the APW method of Soler and Williams. There the angular momentum expansions of the wave function and charge density were truncated in the same way, resulting in a very rapid 8 convergence. As a result of the projector augmentation, however, we can exploit this principle even on the level of individual partial waves. 在那里，波函数和电荷密度的角动量展开以相同的方式截断，导致非常快速的l收敛。然而，由于投影缀加，我们甚至可以在个别分波的层面上利用这个原理。
+> 
+> Here I will show that truncation of the partial-wave expansions does not affect the completeness of the basis set: If a set of PS wave functions forms a complete basis, the corresponding basis of projector augmented wave functions is complete in the Hilbert space orthogonal to the core states. For this to be true two weak conditions must be ful6lled: There is a matrix a,.~ such 在这里，我将展示截断分波展开不影响基组的完备性：如果一组PS波函数形成完备基，则相应的投影缀加波函数基在与芯态正交的希尔伯特空间中是完备的。为此，必须满足两个弱条件：存在一个矩阵a,.~，使得Σk a;g(p|, [g~) = δi,j，它没有零右本征值，并且AE和PS分波之间的差|$,) —|$,)不是线性相关的。
+> 
+> that P& a;g(pl, [g~) = b;~, which has no zero right-hand eigenvalues, and the differences between AE and PS partial waves 1$,) —1$,) are not linearly dependent.
+> 
+> To prove this statement, it must be shown that for every AE wave function orthogonal to the core states there exists one and only one well-de6ned PS wave function. For linear transformations such as the ones considered here, this implies first that we can define an inverse transformation 7 from the AE wave function to the PS wave function. This is indeed possible and the expression is formally very sirailar to the forward transformation: 为了证明这个陈述，必须证明对于每个与芯态正交的AE波函数，存在一个且仅有一个明确定义的PS波函数。对于这里考虑的线性变换，这意味着首先我们可以定义从AE波函数到PS波函数的逆变换T⁻¹。这确实是可能的，并且表达式在形式上与正变换非常相似：
+> 
+> Note the difference between the AE and the PS projector functions. To show that the transformation is unique, we test whether any nonzero function orthogonal to the core 注意AE和PS投影函数之间的差异。为了证明变换是唯一的，我们测试任何与芯态正交的非零函数是否被映射到零PS波函数。这仅在以下情况下才会发生
+> 
+> states is mapped onto a zero PS wave function. This would be the case only if
+> 
+> (104) (104)
+> 
+> for any function 14) orthogonal to the core states. Hence 对于任何与芯态正交的函数|4)。因此，这样的函数|@)必须是叠加Σi (|g;)-|$;))c;。如果我们把这个试探解代入方程(104)并利用(p;|$~) = δi,j，很明显系数必须满足
+> 
+> such a function I@) must be a superposition P, (ig;)- 1$;))c;. If we insert this ansatz into Eq. (104) and exploit (p;1$~) = S,z, it is clear that the coefBcients must fulfill
+> 
+> (105) (105)
+> 
+> The matrix (p;1$~) is none other than the matrix a,~ de 矩阵(p;|$~)正是上面定义的矩阵a,~，因为它满足关系Σk (p;|i/, ) (pi,|/~) = δi,j。方程(105)只有在a;~有零右本征值或者左边的函数可以相加为零时才能满足；这些是上面给出的例外。这完成了PAW基组完备性的证明。
+> 
+> fined above, as it fulfills the relation g&(p; i/i, ) (pi, i/~) = b;~. Equation (105) can only be fulfilled if either a;~ has a zero right-hand eigenvalue or the functions on the lefthand side can add up to zero; these are the exceptions given above. This concludes the proof of the completeness of the PAW basis set.
+> 
+> # B. Truncation error in the expectation values
+> 
+> # B. 期望值中的截断误差
+> 
+> While evaluating expectation values in Sec. VIIA, it was reasonable to neglect cross terms between the 在第VII A节中求值期望值时，忽略波函数三个贡献之间的交叉项是合理的，因为如果分波在缀加区域内形成完备函数集，则|4') — Σi |i/, )(p;|@) = 0在缀加区域内。然而，如果分波展开被截断，这个条件不再精确满足。在以下内容中，我将使用符号Σi|ig,)(p;|4')作为AE波函数的单中心展开，以及|4'i) = Σi|ig,)(p;|4)作为PS波函数的单中心展开。算符A的矩阵元用方程(101)直接计算与用方程(11)的PS算符计算(@„|A|DO' )之间的差ΔA„ = ΔA„ + ΔA„由下式给出
+> 
+> three contributions of the wave function because 14') g, i/, ) (p; I@) = 0 in the augmentation regions, if the par tial waves form a complete set of functions in the augmentation region. However, if the partial-wave expansions are truncated, this condition is no longer exactly ful611ed. In the following I will use the symbols P, ig, )(p;14') for the one-center expansion of the AE wave function and 14'i) = P,. Ig, )(p;14) for the one center expansion of the PS wave function. The difference AA„=- AA„+ AA„between the matrix elements of an operator A calculated directly from Eq. (101) and (@„IAIDO' ), with the PS operator from Eq. (11), is given by
+> 
+> (107) (107)
+> 
+> (102) where P' = g,. 1$;)(P;.I is the projection operator on the 其中P' = Σi |$;)(P;.|是到芯态上的投影算符。
+> 
+> core states.
+> 
+> # 50 PROJECTOR AUGMENTED-WAVE METHOD 17 969
+> 
+> # 50 投影缀加波方法 17 969
+> 
+> The first term AA„ is proportional to the difference 第一项ΔA„正比于PS波函数与其单中心展开之间的差|@) —|4' )，而ΔA二次依赖于它。因此，随着分波展开趋于完备，这两项都收敛到零。第一项是PS波函数与其单中心展开之间的差（在缀加区域表面最大）与一个局域在原子中心的函数（即AE波函数的单中心展开与PS波函数单中心展开之间的差）之间的矩阵元。对于总能量所需的准局域算符，如动能或实空间投影算符，人们受益于这两个函数在空间相反区域最大这一事实，导致小误差。
+> 
+> l@) —l4' ) between a PS wave function and its one-center expansion, whereas AA depends quadratically on it. Consequently both terms converge to zero as the partialwave expansion is xnade complete. The first term is a matrix element between the difference between the PS wave function and its one-center expansion, which is largest at the surface of the augmentation region, and a function that is localized in the center of the atom, namely, the difference between the one-center expansion of the AE wave function and the one for the PS wave functions. For quasilocal operators such as the kinetic energy or the real-space projection operator needed for the total energy, one profits &om the fact that the two functions are largest in opposite regions of space, resulting in small errors. The fact that the dominant truncation error AA is proportional to the difference between AE and PS partial waves is the reason for truncating both partialwave expansions in exactly the same way. Partial waves for higher energies become increasingly insensitive to 主导截断误差ΔA正比于AE和PS分波之间的差这一事实，正是以完全相同的方式截断两个分波展开的原因。更高能量的分波对势的形状变得越来越不敏感：高能电子穿过原子太快，以至于不受势的严重影响。因此，即使每个分波本身仍然相当大，AE和PS分波之间的差对于高能消失。由于它们在截断误差中以相反符号成对出现，两个展开的一致截断是非常有利的。在比较PAW与LAPW方法时，我将回到这一点。
+> 
+> I the shape of the potential: High-energy electrons pass through the atom too fast to be seriously affected by the potential. Hence the difference between the AE and PS partial waves vanishes for high energies, even though each partial wave itself is still sizable. Since they appear in pairs of opposite sign in the truncation error, the consistent truncation of both expansions is highly favorable. I shall return to this point when comparing the PAW with the LAPW method.
+> 
+> # C. Truncation error in the total energy
+> 
+> # C. 总能量中的截断误差
+> 
+> The error in the total energy can be divided into two parts. The first is due to the difference between expres 总能量中的误差可以分为两部分。第一部分是由于表达式(19)-(21)与使用通过方程(11)获得的电荷密度、动能和重叠的期望值直接计算的总能量之间的差。第二个误差源是由于第VII B节中描述的近似。第一个误差项的形式为
+> 
+> sions (19)—(21) and the total energy calculated directly using the expectation values for charge density, kinetic energy, and overlap obtained via Eq. (11). The second source of the error is due to the approximations described in Sec. VIIB. The first error term is of the form
+> 
+> dd], E~'l —) (fr[n(r) ni (r)] dr' ΔE(1) = ΣR ∫ dr [n(r) — n¹(r)] ε„,(n(r) — n¹(r)) — ΣR ∫ dr [n(r) — n¹(r)] ε„,(n(r) — n¹(r))
+> 
+> l & ) @ &( ) ( ) 6(r) l
+> 
+> -   ΣR ∫ dr [n(r) + n'(r) — n'(r)] ε„,(n(r) + n'(r) — n'(r)) — n(r) ε„,(n(r)) — n'(r) ε„,(n'(r)) — n'(r) ε„,(n.'(r))
+> 
+> dr([n(r) + n'(r) —n'(r)]e„, (n + n —n') —n(r)e„, (n) —n'(r)e„, (n') —n'(r)e„, (n.')) .
+> 
+> -   ΣR ∫ dr ΔB(r) [n(r) — n¹(r)] — ΣR ∫ dr ΔB(r) [n(r) — n¹(r)] .
+> 
+> AR (108) (108)
+> 
+> ~Z = y- f dr[R(r) —vR(r)][vv(r) —vR(r)] ΔE(2) = ΣR Σn f„ (4'„ — 4'„| A |4'„ — 4'„) + ΣR Σn f„ (4'„ | A |4'„ — 4'„) + ΣR Σn f„ (4'„ — 4'„| A |4'„)
+> 
+> R +O(n —n')'
+> 
+> -   O(n —n')²
+> 
+> = 2Re ).f-(~- —~'l.(v~ —vh) l~'.) = 2Re ΣR Σn f„ (4'„ — 4'„| (v¹ — v) |4'„)
+> 
+> Rn +&(14) —l~'))' (109)
+> 
+> -   O(|4) —|~'))² (109)
+> 
+> Before returning to AE~ ~, I consider the errors that propagate from the approxixnation of the expectation values. The error can be obtained via Eqs. (106) and (107), 在回到ΔE(1)之前，我考虑从期望值的近似传播的误差。误差可以通过方程(106)和(107)获得，
+> 
+> I It is easily seen that both terms vanish as 6 —n, i.e., if 很容易看出，这两项在n —n¹ → 0时消失，即如果分波展开是完备的。此外，被积函数在缀加区域边界平滑地趋于零。为了更好地理解这些项，我们可以将它们按n —n和|C') —|@i)的阶展开，并仅考虑一阶项：
+> 
+> the partial-wave expansions are coxnplete. Furthermore the integrands go smoothly to zero at the boundary of the augmentation region. To get a better idea of these terms, we can expand them in orders of n —n and ]C') —i@i) and consider only terms up to the first order:
+> 
+> where the operator A is —zV + v —e„, where v is the 其中算符A是—½∇² + v —e„，其中v是精确势，e„是精确能量本征值。误差是本征函数的对角矩阵元之和。让我们再次仅考虑|4') —|4)中的最低阶：
+> 
+> exact potential and e„ the exact energy eigenvalues. The error is the sum of the diagonal matrix elements with the eigenfunctions. Let us consider again only the lowest order in [4') —i@i):
+> 
+> b,E~ ) = 2Re ) f„(4'„—4'„l ΔE(2) = 2Re ΣR Σn,i f„(4'„ — 4'„|
+> 
+> R,n, i [(v —w;) —(e —,').]l4"))(p;le ) [(v —w;) —(e —,').]|4"))(p;|e )
+> 
+> +o(I4') —l4') ) (110)
+> 
+> -   O(|4') —|4') ) (110)
+> 
+> using Eqs. (86) and (89), which define the partial waves, 使用定义分波的方程(86)和(89)，以及(106)。（注意，我们需要对分波和投影函数应用线性变换，以解除第VI C节中描述的分波混杂。）
+> 
+> and (106). (Note that we need to apply a linear trans forxnation to partial waves and projectors to undo the scrambling of partial waves described in Sec. VIC.)
+> 
+> Coxnbining the two sources of error, AE~ ~ &om 结合两个误差源，来自方程(109)的ΔE(1)和来自方程(110)的ΔE(2)，我们得到
+> 
+> Eq. (109) and b,E(2) from Eq. (110), we find
+> 
+> b, E( ) + b, E( l = 2Re ) f„(C'~ —4' l((1 —P')[(v —v~t) —(e —e;))lP;) ΔE(1) + ΔE(2) = 2Re ΣR Σn,i f„(C'~ —4'|((1 —P')[(v —v~t) —(e —e;))|P;)
+> 
+> R,n, i [(v —v ) —(m; —v ) —(e —e;)llg )k(p
+> 
+> -   [(v —v ) —(m; —v ) —(e —e;)]|g )k(p
+> 
+> Let us simplify Eq. (111) by replacing v with v, which is justified since the difference between them also vanishes 让我们通过用v替换v来简化方程(111)，这是合理的，因为它们之间的差在分波展开完备时也消失，因此不对|@) —|4)中的截断误差的最低阶有贡献。此外，我们利用(@—@|(v);)v t)|P,)消失的事实，因为(v); —v t)|P,.)可以表示为投影函数的叠加[方程(89)和(90)]，且(4 —@|p;) = (4|(1—P|pe)(4)|~|)|p;) = 0：
+> 
+> if the partial-wave expansions are complete and therefore does not contribute to the lowest order of the truncation error in l@) —l4 ). Furthermore, we exploit the fact that (@—@ l(v);)v t) lP, ) vanishes because (v); —v t) lP,.) can be expressed as a superposition of projector functions [Eqs. (89) and (90)] and (4 —@ lp;) = (4](1—P ]pe)(4)~ l) lp;) = 0:
+> 
+> # P. E. BLOCHL
+> 
+> # P. E. 布洛赫
+> 
+> ~Z~'l+ ~E~'l = 2R. ) f„(e„—e„'I ΔE(1) + ΔE(2) = 2Re ΣR Σn,i f„(e„—e„'|
+> 
+> R, n xi(1 —P ) [(v' —v-i) —(e- —e,') ll@_& —Nv' —v-i) —(e- —e,') jl&'&)(p_l~-& (112& × [(1 —P ) [(v' —v-i) —(e- —e,')]|@_& — N(v' —v-i) —(e- —e,')]|&'&)(p_l~-& (112)
+> 
+> Equation (112) is an important result. It tells us that 方程(112)是一个重要的结果。它告诉我们，芯和核的强变化势不对误差有贡献。这是由于两个误差的有效抵消，即ΔE(1)和ΔE(2)。以一种粗略的方式，正比于(1 —P')(v —v i)|g;) —(v —v i)|g;)的项描述了电荷密度可迁移性误差，因为它取决于势相对于原子势的偏差，而正比于(e„—e, )|1$, —P, )的项描述了散射性质或能量可迁移性的误差。注意，v和v中的常数项几乎抵消了e —t,中的类似项。还值得注意的是，乘积的右边在缀加区域边界可微地消失，而项(41 —(@|是一个小量，预计在远离原子中心处最大。得到的表达式实际上可以用来在实践中估计分波截断误差。
+> 
+> the strongly varying potential of the core and the nucleus does not contribute to the error. This is a result of an efficient cancellation of two errors, namely, AE~ ~ and AE~ ~. In a hand-waving way, the term proportional to (1 —P')(v —v i)lg;) —(v —v i)lg;) describes the charge density transferability error because it depends on the deviation of the potential from the atomic one, whereas the term proportional to (e„—e, )1$, —P, ) describes the error in the scattering properties or the energy transferability. Note that the constant term in v and v almost cancels a similar term in e —t, . It is also worthwhile to note that the right-hand side of the product vanishes diEerentiably at the boundary of the augmentation region, whereas the term (41 —(@ I is a small quantity, which is expected to be largest far kom the center of the atom. The resulting expression could actually be used to estimate the partialwave truncation error in practice.
+> 
+> # D. Extensions of the PAW method
+> 
+> # D. PAW方法的扩展
+> 
+> The PAW method lends itself to a number of extensions which, though not yet implemented, may be interesting to keep in mind. These extensions concern the use of partial waves that adjust to the actual potential and the PAW方法适用于许多扩展，这些扩展虽然尚未实现，但可能值得记住。这些扩展涉及使用适应实际势的分波和放松冻结芯近似。我将在第VIII节中展示，即使没有这些特征，PAW方法由于严格利用了加法缀加原理，也是高度精确的。然而，我想证明PAW方法足够灵活，可以在需要时容纳它们。这将把AE和PS波函数之间的线性变换变成非线性变换。如同具有调整分波的线性方法一样，非线性自由度可以在自洽过程中弛豫。然而，如果它们要与虚构拉格朗日形式体系结合使用，需要一些谨慎，因为所有非线性必须一致地处理。与当前实现中的线性方法不同，这里的分波将调整到中心势的球形和非球形部分。
+> 
+> relaxation of the &ozen-core approximation. I will show in Sec. VIII that the PAW method is highly accurate even without these features owing to the rigorous exploitation of the principle of additive augmentation. However, I want to demonstrate that the PAW method is sufficiently Qexible to accommodate them, if desired. This will turn the linear transformation between AE and PS wave functions into a nonlinear one. As in the linear methods with adjusting partial waves, the nonlinear degrees of freedom can be relaxed during a self-consistent procedure. However, some caution is required if they are to be used in combination with a Gctitious Lagrangian formalism because all nonlinearities must be treated consistently. In contrast to the linear methods in their present implementation, the partial waves will be adjusted here to both spherical and nonspherical parts of the on-center potentials.
+> 
+> Optifaisation of partial viaves 分波对实际势的优化
+> 
+> to the actual potential 对实际势
+> 
+> molecular or crystalline environment. This set of par 分子或晶体环境。这组分波将被分为一个"较低"分波子集，它们将以前几节所述的方式用作分波，以及一个"较高"分波子集。较低分波通过与较高分波混合来调整到实际势。这种方法通过自洽地从球内势确定较高分波的系数，避免了包含额外的投影函数和相应的计算工作量增加。该程序可以称为向下折叠缀加。
+> 
+> tial waves will be divided into a subset of "lower" partial waves that will be used as partial waves in the way out lined in the previous sections and a subset of "higher" partial waves. The lower partial waves are adjusted to the actual potential by mixing with the higher partial waves. This approach avoids the inclusion of additional projector functions and the corresponding increase of the computational eH'ort by determining the coefficients of the higher partial waves self-consistently &om the potential within the sphere. The procedure can be termed downfolded augmentation. Let us denote the higher partial waves by the sub 让我们用下标h, h'表示较高分波，用下标l, l'表示调整到势的较低分波。从原子构造的、将用作参考的刚性分波与调整分波通过上标0来区分。
+> 
+> scripts h, 6' and the lower partial waves that adjust to the potential by the subscripts l, jt'. The rigid partial waves that have been constructed &om an atom and that will be used as a reference are distinguished &om the adjusting partial waves by the superscript Q.
+> 
+> I make the following ansatz for the lower partial waves and projectors 我对较低分波和投影函数做以下试探解
+> 
+> I«& = I&(') + ) 144&«~ |«& = |&(0) + Σh |4h& a«~
+> 
+> h
+> 
+> 14~& = I«')+). I&h&a« |4~& = |«') + Σh |&h& a«
+> 
+> Ip~& = ) lpga')b« + ).Ipa)c~i |p~& = Σl' |pga') b« + Σh |pa) c~i
+> 
+> The coefficients will be determined such that (i) the orthogonality relation between projector functions and partial waves is fulfilled and (ii) the scattering into the higher partial waves vanishes: 系数将确定，使得(i)投影函数和分波之间的正交关系满足，(ii)散射到较高分波消失：
+> 
+> (p~ I&i& = ~~, ~ (p~ |&i& = δl,l'
+> 
+> (41~r (-2&'+ v' —«)l&t& = o (4h|—½∇² + v¹ —εl)|&t& = 0
+> 
+> X (dHj' t" &idol', I" ) (pl" I × (dHj' t" &idol', I" ) (pl" I
+> 
+> Inserting the ansatz, we obtain expressions for the matrices a, b, e 插入试探解，我们得到矩阵a, b, e的表达式
+> 
+> a~,i = —) =~~ («)(4a I~n( 2&'+ v——«) 14i & . a~,i = —Σh' =~~ («)(4a |~n( —½∇² + v¹ —«) |4i & .
+> 
+> Here I describe how the partial waves can be adjusted to the actual potential within the frozen-core approxima 在这里，我描述如何在冻结芯近似内将分波调整到实际势。在第VIID2节中，我将描述如何也放松冻结芯近似。
+> 
+> tion. In Sec. VIID2, I will describe how to relax also the &ozen-core approximation. We start out with a large set of partial waves, one that 我们从一大组分波开始，这组分波足够完备，可以准确描述可能出现在分子或晶体环境中的任何可能势的波函数。
+> 
+> is suKciently complete to describe the wave functions ac curately for all possible potentials that may occur in a
+> 
+> «,i = —) .(&a ion( —2&'+ v' —«) I&i') (d~ —«dOli i' «,i = —Σh' (&a |on( —½∇² + v¹ —«) |&i') (d~ —«dOli i'
+> 
+> —~l, l' &Lb+hi' —δl, l' &Lb+hi'
+> 
+> # 50 PROJECTOR AUGMENTED-WAVE METHOD 17 971
+> 
+> # 50 投影缀加波方法 17 971
+> 
+> where =i ~i, (e) is defined by 其中=i ~i, (e)定义为
+> 
+> ) Σh' =i ~i, (e) (&a |on( —½∇² + v¹ —ε) |y„, ) = δh,h' .
+> 
+> =-i,g~. (.)(&,-len( -',V'+v'-g)ly„, ) =b„„,. (11g) (118)
+> 
+> The matrices de i and dOi i are defined as in Eqs. (gg) 矩阵de i和dOi i如方程(99)和(100)定义，仅使用较低、优化的分波和实际单中心势代替原子势。如果分波在每个时间步长中被自洽，投影(peal@„)也必须根据投影函数的变化进行变换。当调整分波和投影函数时，能量e~是相对于势参考（如缀加球中的平均势）选择的，以避免依赖于势的任意整体平移。
+> 
+> and (100) using only the lower, optimized partial waves and the actual one-center potentials instead of the atomic potential. If the partial waves are xnade self-consistent in each time step, also the projections (peal@„) must be transformed according to the change in the projector functions. When adjusting the partial waves and projectors, the energies e~ are chosen relative to a potential reference, such as the average potential in the augmentation sphere, in order to avoid a dependence on a arbitrary overall shift of the potential.
+> 
+> I&'} = I&')+).I& )a '+).l4;}b' (11g) |&'} = |&') + Σh |& ) a ' + Σj |4;} b' (119)
+> 
+> where Ig;} are the AE partial waves orthogonalized to the 其中|g;}是与弛豫芯态正交化的AE分波，|ge}是与冻结芯态正交化的分波，|P;}是弛豫芯态，|g;o}是冻结芯态。系数u~,和b~;被确定使得总能量最小化
+> 
+> relaxed-core states, lge} are the partial waves orthogonalized to the &ozen-core states, IP;} are the relaxed-core states, and lg;o} are the kozen-core states. The coefficients u~, and b~; are determined such that the total energy is minixnized
+> 
+> (4'I —-', v'+ v' —el', } = o, (4;| —½∇² + v¹ —ε |', } = 0,
+> 
+> (4;I —'—,v'+ v' —l4., } = o. (4;| —½∇² + v¹ —ε |4., } = 0.
+> 
+> (120) (120) (121) (121)
+> 
+> The relaxed-core states IP;} depend explicitly on the co 弛豫芯态|P;}显式依赖于系数a;~和6;~。利用芯态是某个薛定谔方程的解这一事实，我们看到第二个方程直接约化为弛豫芯态和新分波之间的正交性条件。得到的弛豫芯分波为
+> 
+> efficients a;~ and 6;~. Using the fact that the core states are solutions to some Schrodinger equations, we see that the second equation reduces directly to the orthogonality condition between relaxed core states and the new partial waves. The resulting partial waves for the relaxed core are
+> 
+> I&_) =(1-& ) I&,'}-) l.0 )=-;a(e;) |&_) = (1 - P ) |&,'} - Σj,k |.0 ) =;a(e;)
+> 
+> j,k (&"l(1—& )(—'—,v'+ ' —') × (&"|(1—& )(—½∇² + v¹ —ε) |&,'} (122)
+> 
+> 2.  Beyond the frozen-corn approaimation
+> 3.  超越冻结芯近似
+> 
+> Even though the present method has been implemented in the &ozen-core approximation, it is not lim 尽管本方法在冻结芯近似中实现，但它不限于此。当然，芯态总是可以在芯波函数和单中心势的内部自洽循环中弛豫。唯一的困难是AE分波和芯态之间的正交性必须恢复。人们可以简单地想象使用Gram-Schmidt正交化程序。然而，这会产生不再接近薛定谔方程解的分波，导致大的分波截断误差。因此，让我们将分波与冻结芯和弛豫芯态混合，以施加正交性并最小化总能量。我们可以对新的AE分波做以下试探解
+> 
+> ited to it. The core states can of course always be relaxed within an internal self-consistency loop for core wave functions and one-center potentials. The only difficulty is that the orthogonality between AE partial waves and core states must be restored. One could simply imagine using a Gram-Schmitt orthogonalization procedure. However, this would produce partial waves that are no longer close to the solution of the Schrodinger equation, resulting in large partial-wave truncation errors. Let us therefore mix the partial waves with both the &ozen- and the relaxed-core states to impose orthogonality and to minimize the total energy. We can make an ansatz for the new AE partial waves
+> 
+> where ='.&(e) is defined by 其中='.&(e)定义为
+> 
+> =-; ()(&"l(1—~ )(—'—,v'+ ' — ) = ; ()(&"|(1—~ )(—½∇² + v¹ —ε) |y;") = δi,j
+> 
+> x (1 —I' ) lyi"} = a;i (»&) (123)
+> 
+> P =P; IP;.}(P;.I denotes the projection onto the relaxed P = Σi |P;.}(P;.|表示到弛豫芯态上的投影。结果的有效性可以通过将其插入定义方程来验证。结果可以进一步简化，利用芯态是某个薛定谔方程的解和已知的正交关系。然而，应注意，当冻结芯态和弛豫芯态变得相似时，(1 —P )|P; )消失。因此，这些函数在插入上述方程之前应该归一化，以避免除以零。如果存在半芯态，应在PS分波和PS芯态之间进行相同的变换，以保证PS和AE分波在缀加区域边界匹配。这个线性方程组可以求解并迭代，直到芯态、AE价分波和势之间达到自洽。
+> 
+> core states. The validity of the result can be verified by inserting it into the de6ning equations. The result can be further sixnplified using the fact that the core states are solutions to some Schrodinger equations and the known orthogonality relations. It should, however, be noted that (1 —P )IP; ) vanishes as the &ozen-core states and relaxed-core states become similar. Hence these functions should be normalized before inserting them into the above equation in order to avoid a division by zero. If sexnicore states are present, the same transformation should be performed between the PS partial waves and PS core states in order to guarantee that PS and AE partial waves match at the boundary of the augmentation region. This linear system of equations can be solved and iterated until self-consistency is achieved among core states, AE valence partial waves, and the potential.
+> 
+> # VIII. NUMERICAL TESTS
+> 
+> # VIII. 数值测试
+> 
+> # A. Scattering properties
+> 
+> # A. 散射性质
+> 
+> It can easily be shown that the scattering properties of the atom are reproduced correctly in the neighborhood of the energies for which partial waves have been included. The logarithmic derivative of the PS and AE wave functions and their 6rst derivatives agree beyond the core region. The proof is analogous to that for local potentials, which can be found in Skriver's book. Thus the scattering properties of the atom can be improved systematically for an arbitrarily large energy region by increasing the number of partial waves. This 可以很容易地证明，在包含分波的能量附近，原子的散射性质被正确再现。PS和AE波函数及其一阶导数的对数导数在芯区之外一致。证明类似于局域势的证明，可在Skriver的书中找到。因此，通过增加分波的数量，可以在任意大的能量区域内系统地改善原子的散射性质。这个原理在图2中以锰为例说明。半芯态被作为价态处理，这在大多数应用中不是必需的。仅用每个角动量一个分波获得的对数导数——不要与表I中的设置Mn1混淆——导致对价区的描述很差。如果分波数量加倍，散射性质在占据态以上约1.5 Ry以内是准确的，如图2所示，这对大多数计算来说绰绰有余。这个选择对应于线性方法中使用的分波数量。我们的经验是，第一行元素可以用每个角动量仅一个分波很好地描述，并且对于窄d态和半芯态被作为价态处理的情况，每个角动量两个投影函数就足够了。
+> 
+> principle is illustrated in Fig. 2 for the example of manganese. The semicore states have been treated as valence states, which is not necessary in most applications. The logarithmic derivatives obtained with only one par tial wave per angular momentuxn —not to be confused with the setup Mn~ in Table I—result in a poor descrip tion of the valence region. If the number of partial waves is doubled, the scattering properties are accurate up to approxixnately 1.5 Ry above the occupied states as shown in Fig. 2, which is more than sufficient for most calcula tions. This choice corresponds to the number of partial waves used in the linear methods. Our experience is that 6rst-row elements can be well described with only one partial wave per angular momentum and that two projectors per angular momentum are sufficient for the nar row d states and if semicore states are treated as valence states.
+> 
+> # B. Accuracy of the AE wave functions
+> 
+> # B. AE波函数的准确性
+> 
+> (1 —& )I4,'} (122) In order to analyze the accuracy of the AE wave func 为了分析用PAW方法获得的AE波函数的准确性，让我们计算
+> 
+> tions obtained with the PAW method, let us calculate the
+> 
+> # 17 972 P. E. BLOCHL
+> 
+> # 17 972 P. E. 布洛赫
+> 
+> 20 20
+> 
+> 10 10
+> 
+> —10—20 —10 0 10 20 —10—20 —10 0 10 20
+> 
+> wave function is smaller than 1%. In order to see the deviations let us compare the wave 波函数小于1%。为了看到偏差，让我们比较能量为+13.6 eV的波函数；见图3(d)—3(f)。这约在价态之上20 eV。而p和d角动量的波函数仍然相当准确，我们看到s型波函数有15%的偏差。这种类型的偏差，即低估原子核附近波函数的最大值，是波函数中分波截断误差的典型特征。我们可以得出结论，PAW方法在宽广的能量范围内高精度地预测波函数。
+> 
+> functions for an energy of +13.6 eV; see Figs. 3(d)—3(f). This is about 20 eV above the valence states. %hereas the wave functions of the p and d angular momenta are still quite accurate, we see deviations of 15% in the s-type wave function. This type of deviation, namely, an under estimation of the maxima of the wave function close to the nucleus, is a typical signature of partial-wave trunca tion errors in the wave function. We can conclude that the PAW method predicts the wave function with high accuracy over a wide energy range.
+> 
+> FIG. 2. Scattering properties of the Mn atom. Logarithmic 图2. Mn原子的散射性质。对数导数函数Dl(e) = r ∂r P(r, e)/P(r, e)在r = 3a0处对s, p, d角动量随能量的变化。三角形、圆形和正方形分别表示s, p, d角动量的精确结果。实线是用PAW方法使用表I中标为Mn2的设置获得的。虚线是用相同设置但没有每个l的第二个分波获得的。
+> 
+> derivative function Dr(e) = rB„gr(r, e)/P(r, e) with r = 3ao for s, p, and d angular momenta versus energy. Triangles, circles, and squares indicate the exact result for 8, p, and d angular momenta, respectively. Solid lines are obtained with the PAW method using the setup denoted as Mng in Table I. Dashed lines have been obtained with the same setup, but without the second partial wave per E.
+> 
+> scattering states of an isolated manganese atom using the PAW method and compare the resulting AE wave functions with the direct integration of the radial Schrodinger 使用PAW方法计算孤立锰原子的散射态，并将得到的AE波函数与径向薛定谔方程的直接积分进行比较。图3(a)—3(c)显示能量为—8.16 eV的波函数，该能量在占据态范围内。PS和AE波函数之间的偏差
+> 
+> equation. Figures 3(a)—3(c) shows the wave functions for an energy of —8.16 eV, which lies in the range of the occupied states. The deviation between the PS and the AE
+> 
+> # C. Structural properties
+> 
+> # C. 结构性质
+> 
+> I have performed a number of test calculations on 我对简单分子进行了许多测试计算，以确定PAW方法的准确性。我选择了小分子，因为它们表现出最强的非球形势和最小的键长，因此应为任何电子结构方法提供严格的测试系统。结果总结在表II中，连同其他最近精确的全电子LDA计算的结果。
+> 
+> simple molecules to establish the accuracy of the PAW method. I have chosen small molecules because they exhibit the strongest nonspherical potentials and the smallest bond lengths and therefore should provide stringent test systems for any electronic structure method. The results are summarized in Table II together with the results of other recent accurate all-electron LDA
+> 
+> TABLE II. Comparison of binding energies, structural properties, and vibrational properties for dimers obtained with the PAW method at a plane-wave cutoft' of 30 Ry with those of other all-electron LDA calculations. Note that the B~ and the 02 dimer of Ref. 54 are non-spin-polarized. 表II. 用PAW方法在30 Ry平面波截断下获得的二聚体的结合能、结构性质和振动性质与其他全电子LDA计算结果的比较。注意，参考文献54的B2和O2二聚体是非自旋极化的。
+> 
+> 0 0
+> 
+> r (a) r (a0)
+> 
+> FIG. 3. Comparison of atomic wave functions of Mn using the PAW method with the exact result. Each graph shows the wave function obtained from the PAW method (solid line), the exact AE wave function (bullets), their difference magnified by a factor of 10 (dash-dotted line), and the PS wave function (dashed line) for a given energy and angular momentum. 图3. 用PAW方法计算的Mn原子波函数与精确结果的比较。每个图显示给定能量和角动量下，用PAW方法获得的波函数（实线）、精确AE波函数（子弹点）、它们放大10倍的差（点划线）和PS波函数（虚线）。
+> 
+> (a)—(c) are obtained at an energy of —8.16 eV, which lies in (a)—(c)在能量为—8.16 eV时获得，该能量在价带区域内；(d)—(f)在能量为+13.61 eV时获得，该能量远高于价带区域。(a)和(d)是s型波函数，(b)和(e)是p型波函数，(c)和(f)是d型波函数。
+> 
+> the valence band region; (d) —(f) sre obtained at sn energy of +13.61 eV, which is far above the valence band region. (a) and (d) are s-type wave functions, (b) and (e) are p-type wave functions, and (c) and (f) sre d-type wave functions.
+> 
+> Molecule H2 分子 H2
+> 
+> Li2 Li2
+> 
+> Beg Be2
+> 
+> B2 B2
+> 
+> Ng N2
+> 
+> 02 O2
+> 
+> Reference 54. Reference 55. 'Reference 56. Reference 58. 'Reference 57. 参考文献54。参考文献55。参考文献56。参考文献58。参考文献57。
+> 
+> Quantify 量
+> 
+> EJs (eV) EJs (eV)
+> 
+> d(a) d(a0)
+> 
+> (u (cm ') En (eV) d (ao) (u (cm⁻¹) En (eV) d (a0)
+> 
+> ~ (cm ') En (eV) ~ (cm⁻¹) En (eV)
+> 
+> " (ao) " (a0)
+> 
+> ~ (cm ') En (ev) d (ao) ~ (cm⁻¹) En (eV) d (a0)
+> 
+> ~ (cm ') En (eV) d (ao) ~ (cm⁻¹) En (eV) d (a0)
+> 
+> (u (cm ') En (eV) d (ao) (u (cm⁻¹) En (eV) d (a0)
+> 
+> (cm ') En (eV) d (ao) (cm⁻¹) En (eV) d (a0)
+> 
+> (u (cm ') (u (cm⁻¹)
+> 
+> En (eV) En (eV)
+> 
+> d («) d («)
+> 
+> ~ (cm ') ~ (cm⁻¹)
+> 
+> PAW 4.62 1.46 4040 1.04 5.13 335 0.53 4.51 367 3.78 3.03 1060 11.38 2.09 2417 7.33 2.32 1660 3 PAW 4.62 1.46 4040 1.04 5.13 335 0.53 4.51 367 3.78 3.03 1060 11.38 2.09 2417 7.33 2.32 1660 3
+> 
+> ~ 11 2.67 1148 3.99 3.68 441 ~ 11 2.67 1148 3.99 3.68 441
+> 
+> Other LDA 4.65, 4.6 其他LDA 4.65, 4.6
+> 
+> 1.45,' 1.45 4160 1.00, 1.02 1.45,' 1.45 4160 1.00, 1.02
+> 
+> 5.12,' 5.20 322b 5.12,' 5.20 322b
+> 
+> 4.52' 4.52'
+> 
+> 3.5 3.05 1030 11.47, 11.3 3.5 3.05 1030 11.47, 11.3
+> 
+> 2.07,' 2.07 2380" 7.48, 6.2 2.29 1620" 3.33, 2.07,' 2.07 2380" 7.48, 6.2 2.29 1620" 3.33,
+> 
+> 2.62,' 2.63 1060 2.62,' 2.63 1060
+> 
+> 4.05, 2.89' 4.05, 2.89'
+> 
+> 3.74, 3.70' 3.74, 3.70'
+> 
+> 418, 412' 418, 412'
+> 
+> 20 20
+> 
+> 10 10
+> 
+> —10—20 —10 0 10 20 —10—20 —10 0 10 20
+> 
+> 0 0
+> 
+> H2 H2
+> 
+> Li2 Li2
+> 
+> Beg Be2
+> 
+> B2 B2
+> 
+> Ng N2
+> 
+> 02 O2
+> 
+> d(a) ') d(a0) ')
+> 
+> ') ')
+> 
+> (ao) ') (a0) ')
+> 
+> ') ')
+> 
+> (cm ') (cm⁻¹)
+> 
+> ') ')
+> 
+> ') ')
+> 
+> PAW 4.62 1.46 4040 1.04 5.13 335 0.53 4.51 367 3.78 3.03 1060 11.38 2.09 2417 7.33 2.32 1660 3 PAW 4.62 1.46 4040 1.04 5.13 335 0.53 4.51 367 3.78 3.03 1060 11.38 2.09 2417 7.33 2.32 1660 3
+> 
+> ~ 11 2.67 1148 3.99 3.68 441 ~ 11 2.67 1148 3.99 3.68 441
+> 
+> 4.6 4.6
+> 
+> ' 1.45 4160 1.02 ' 1.45 4160 1.02
+> 
+> ' 5.20 322b ' 5.20 322b
+> 
+> 3.5 3.05 1030 11.3 3.5 3.05 1030 11.3
+> 
+> ' 2.07 ' 2.07
+> 
+> 6.2 2.29 6.2 2.29
+> 
+> ' 2.63 1060 ' 2.63 1060
+> 
+> 418, 412' 418, 412'
+> 
+> # 50 PROJECTOR AUGMENTED-WAVE METHOD 17 973
+> 
+> # 50 投影缀加波方法 17 973
+> 
+> calculations. 计算。
+> 
+> I used fcc supercell with a lattice constant of 30 a.u. The PS wave functions have been expanded up to a plane 我使用晶格常数为30 a.u.的面心立方超胞。PS波函数已展开到平面波截断能为30 Ry。电荷密度已展开到60 Ry。缀加电荷密度已展开到l = 2。我使用了Ceperley和Alder的自由电子气蒙特卡洛计算的Perdew-Zunger参数化。用于定义PS分波的参数列在表I中。对于O2二聚体计算，我们使用了表I中标为O的设置。由于O2分子中缀加区域的重叠，设置Op导致频率约低5%。这个设置(Os)已用于下面描述的MnFO3计算。原子已用整数占据数计算，这使它们是非球形的。一个例外是F，它倾向于将两个电子分布在三个轨道上。在Fe2的情况下，我们使用实验观测到的价态构型d↑d↓s²在径向网格上进行了数值球形、自旋极化计算。这不是LSDA的基态构型，但它被用于允许与以前的比较。双氧和硼二聚体在三重态构型中计算，铁二聚体在七重态构型中处理。所有其他二聚体以非自旋极化方式计算。结合能已减去零点振动能。
+> 
+> wave cutofF of 30 Ry. The charge density has been expanded to 60 Ry. The augmentation charge density has been expanded up to 8 = 2. I used the Perdew-Zunger parameterization of Ceperley and Alder's Monte Carlo calculations of the &ee-electron gas. The parameters used to de6ne the PS partial waves are listed in Table I. For the 02 dimer calculation we used the setup denoted by 0 in Table I. The setup Op resulted in a &equency about 5'%%up too low due to the overlap of the augmentation regions in the 02 molecule. This setup (Os) has been used in the calculations of MnFO3 described below. The atoms have been calculated with integer occupations, which makes them nonspherical. An exception is F, which prefers to spread the two at electrons over three orbitals. In the case of Fe2 we use a numerical spherical, spin-polarized calculation on radial grids in the experi mentally observed valence configuration d&d&s . This is not the ground-state con6guration of the LSDA, but it has been used to allow comparisons with previous calculations. Dioxygen and the boron dimer have been calculated in the triplet con6guration, and the iron dimer has been treated in the septet configuration. All other dimers have been calculated in a non-spin-polarized fashion. Binding energies have been reduced by the zero-point vibration energies. Vibrational &equencies have been obtained by dynam 振动频率已通过动力学模拟获得。在此，我将键长扩大约5%，并让系统根据运动方程无扰动地演化。未对电子或离子使用恒温器。所有分子我使用时间步长为10 a.u.，氢分子除外，我使用时间步长为1 a.u.。用10 a.u.时间步长获得的H2振动频率约低10%，用5 a.u.获得的低1.2%。对于N2，将时间步长减少到5 a.u.使频率降低不到1%。
+> 
+> ical simulation. Hereby I expanded the bond length by approximately 5%%up and let the system evolve unperturbed according to equations of motion. No thermostating has been used for electrons or ions. I used a time step of 10 a.u. for all molecules, except for the hydrogen molecule, for which I used a time step of 1 a.u. The H2 vibrational &equency obtained with a time step of 10 a.u. is about 10'%%up lower and that obtained with 5 a.u. is 1.2% lower. For N2, the reduction of the time step to 5 a.u. lowers the frequency by less than 1%. The results agree very well with other AE calculations. The bond length deviates typically by less than 1% and vibrational f'requencies deviate typically by 4%. Binding 结果与其他AE计算非常一致。键长通常偏差小于1%，振动频率通常偏差4%。结合能偏差为0.1—0.2 eV，这在先前计算的精度范围内。注意，最大的差异可以通过增加平面波截断能进一步减小。
+> 
+> energies have deviations of 0.1—0.2 eV, which is within the accuracy of previous calculations. Note that the largest discrepancies can be reduced further by increasing the plane-wave cutofF. In order to study the other worst case for the PAW, 为了研究PAW的另一个最坏情况，即密度强烈偏离原子密度的情况，我研究了MnFO3。在这个化合物中，锰以形式氧化态七出现。结构是由氧和氟原子形成的略微扭曲的四面体，锰在其中心。在这个系统中，我还将冻结半芯3s和3p态的计算与将这些电子显式作为价电子的计算进行了比较。将半芯态作为价态处理得到键距dMnF = 3.205 a0（a0是玻尔半径）和dMnO = 2.973 a0，这与保持半芯态冻结的结果非常一致，即dMnF = 3.189 a0和dMnO = 2.976 a0。结果与Chen等人的AE计算非常一致，他们预测dMnF = 3.20 a0和dMnO = 2.96 a0。作为比较，Chen等人的赝势计算相对于AE结果高估这些键距约2.5%。MnFO3的计算表明，PAW方法在处理高氧化态方面没有问题。此外，它们还表明，用中等计算工作量进行非冻结半芯态的计算也是可行的。
+> 
+> i.e., that in which the density deviates strongly &om the atomic density, I studied MnFO3. In this compound, the manganese occurs in a formal oxidation state of seven. The structure is that of a slightly distorted tetrahedron formed by the oxygen and fluorine atoms, with the man ganese in its center. In this system I also compared a calculation with &ozen-semicore 3s and 3p states with one that included these electrons explicitly as valence electrons. Treating the semicore states as valence states results in bond distances of dM„F = 3.205ap (ap is the Bohr radius) and dM„O = 2.973ap, which agrees very well with the results when keeping the semicore state frozen, namely, dM„F ——3.189ao and dM„~ ——2.976ao. The results agree very well with the AE calculations of Chen et aL, who predict dM„F —— 3.20ao and dM ~ ——2.96ao. As a comparison, the pseudopoten tial calculations of Chen et al. overestimate these bond distances by about 2.5% relative to the AE results. The calculations of MnFO3 demonstrate that the PAW method faces no problems in dealing with high-oxidation states. Furthermore they show that also calculations with unfrozen-semicore states are feasible with moderate computational efFort.
+> 
+> I conclude that the PAW method matches the accu 我得出结论，PAW方法在LDA内与现有最佳方案的精度相匹配。尽管我们在这里只检查了简单分子，对较大系统的研究也得出了类似的对于存在比较数据的结构参数的精度。
+> 
+> racy of the best existing schemes within the LDA. Even though we have examined simple molecules here, stud ies of larger systems have also yielded a similar accuracy of structural parameters for which data existed for comparison.
+> 
+> # D. First-principles molecular dynamics
+> 
+> # D. 从头算分子动力学
+> 
+> —20 —20
+> 
+> E -40 E -40
+> 
+> Uj Uj
+> 
+> 60 I' ll 'I, , II, . II II, II ~, 60 I' ll 'I, , II, . II II, II ~,
+> 
+> I II 'I, , II II, , I I II 'I, , II II, , I
+> 
+> II I II I
+> 
+> ' II I, I il ' II I, I il
+> 
+> I' " , I I' " , I
+> 
+> I I I I I I " 'i I I' , I I I I I I I " 'i I I' , I
+> 
+> II II I I' 'l II I' " il I 'I il I II II I I' 'l II I' " il I 'I il I
+> 
+> 80 1 „' ~t J ij 'g' J 80 1 „' ~t J ij 'g' J
+> 
+> 0.0 0.0
+> 
+> II II
+> 
+> 0.1 0.2 0.3 0.& t(psec) 0.1 0.2 0.3 0.4 t(psec)
+> 
+> 0.5 0.5
+> 
+> FIG. 4. Energy contributions during a first-principles molecular-dynamics simulation of an iron dimer. The dash-dotted line is the LDA total energy, the dashed line the fictitious kinetic energy of the wave functions, and the solid line the conserved energy. All energies are plotted relative to their initial values. See text for discussion. 图4. 铁二聚体从头算分子动力学模拟中的能量贡献。点划线是LDA总能量，虚线是波函数的虚构动能，实线是守恒能量。所有能量相对于其初始值绘制。参见文本讨论。
+> 
+> To illustrate the quality of dynamical simulations I show in Fig. 4 the various energy contributions to the 为了说明动力学模拟的质量，我在图4中显示了对动力学的各种能量贡献。势能和虚构动能经历一个周期为441 cm⁻¹的规则振荡，这与先前计算的412—418 cm⁻¹的振动频率非常一致。实线代表守恒能量，在一个高质量的分子动力学模拟中它应该是常数。这里，守恒能量偏离初始值小于0.8 meV。在10 fs内没有观察到漂移。因此，能量守恒的质量与使用赝势的传统Car-Parrinello模拟获得的一样好。虚构动能的振荡不应被误解为偏离Born-Oppenheimer面。后者是不可逆的，其特征是虚构动能单调漂移到更高值，同时核动能同时漂移到更低值。图4中看到的虚构动能振荡代表波函数在Born-Oppenheimer面上的运动。它对运动的影响已通过第V C 2节中描述的核质量重正化8%得到补偿。
+> 
+> dynamics. The potential energy and the fictitious kinetic energy undergo a regular oscillation with a period that corresponds to 441 cm, which agrees well with the previously calculated vibration kequency of 412—418 cm . The solid line represents the conserved energy which should be constant in a high-quality moleculardynamics simulation. Here the conserved energy deviates less than 0.8 meV &om the initial value. No drift has been observed within 10 H. Hence the quality of energy conservation is as good as that obtained with traditional Car-Parrinello simulations using pseudopotentials. The oscillations of the fictitious kinetic energy should not be misinterpreted as deviations &om the BornOppenheimer surface. The latter are irreversible and their signature is a monotonous drift of the fictitious kinetic energy to higher values, accompanied by a simultaneous drift of the nuclear kinetic energy towards lower values. The oscillations of the 6ctitious kinetic energy seen in Fig. 4 represent the motion of the wave function
+> 
+> # 17 974 P. E. BLOCHL
+> 
+> # 17 974 P. E. 布洛赫
+> 
+> on the Born-Oppenheimer surface. Its inQuence on the motion has been compensated by the renormalization of 在Born-Oppenheimer面上。它对运动的影响已通过如第V C 2节所述将核质量重正化8%得到补偿。
+> 
+> the nuclear masses by 8% as described in Sec. V C 2. In conclusion it has been demonstrated that the PAW method allows high-quality energy-conserving molecular dynamics. Molecular-dynamics simulations have been performed on larger systems and the results are published elsewhere. 总之，已证明PAW方法允许高质量的能量守恒分子动力学。已在较大系统上进行了分子动力学模拟，结果发表在其他地方。
+> 
+> 0.0 ' 0.0 '
+> 
+> # E. Plane-wave convergence
+> 
+> # E. 平面波收敛性
+> 
+> 10 20 30 10 20 30
+> 
+> Epw(R&) Epw(Ry)
+> 
+> 40 50 40 50
+> 
+> Figures 5—7 show the plane-wave convergence of total energy, binding energies, and bond distances obtained with the PAW method for all first-row elements (except carbon) and iron as an example of a transition metal. 图5—7显示用PAW方法对所有第一行元素（除碳）和铁（作为过渡金属的例子）获得的总能量、结合能和键距的平面波收敛性。即使对于困难情况，如氧和氟，在约30—40 Ry达到0.1 eV的收敛，而对于其他元素则更早。结构性质，如键距，在30 Ry截断下精确到0.02 a0，这小于键长的1%。结合能比绝对总能量收敛得更快，在30 Ry处的误差小至0.1 eV。对于氧，我们可以将这种平面波收敛性与Vanderbilt的超软赝势进行比较。我们的计算的精度和平面波收敛性显然与所使用的"最硬"赝势相当。如果在我们的计算和超软赝势的构造中使用类似的PS波函数选择，那么PAW方法和Vanderbilt的超软赝势获得类似的平面波收敛性并不意外。
+> 
+> Convergence to 0.1 eV is achieved at about 30—40 Ry even for difFicult cases, such as oxygen and fIuorine, and substantially earlier for other elements. Structural properties such as the bond distances are accurate to 0.02ao at a cutoff of 30 Ry, which is less than 1% of the bond length. Binding energies converge faster than absolute total energies, and the error at 30 Ry is as small as 0.1 eV. For oxygen, we can compare this planewave convergence with that of Vanderbilt's ultrasoft pseudopotential. The accuracy and the plane-wave convergence of our calculations are apparently comparable to the "hardest" pseudopotential used. It is not unexpected that a similar plane-wave convergence is obtained for the PAW method and Vanderbilt's ultrasoft pseudopotentials if a similar choice of PS wave functions is used in our calculation and in the construction of the ultrasoft pseudopotentials. In all calculations shown here we expand the charge density in plane waves up to a plane-wave cutoK that is only twice that used to expand the wave functions. Hence many operations, such as Fourier transforms evaluation of the potential-energy part of E, are performed as 在这里显示的所有计算中，我们以平面波展开电荷密度，直到平面波截断能仅为用于展开波函数的截断能的两倍。因此，许多操作，如傅里叶变换求值E的势能部分，就像平面波截断能仅为实际使用的截断能的一半那样执行。这比Vanderbilt的超软赝势有一个优势，后者要么需要平面波截断能远大于波函数平面波截断能的两倍，要么必须求助于多网格技术，如Laasonen等人所述。PAW方法的平面波收敛性已经接近LAPW方法的收敛性，后者预测在由Epw = (5+ lmax)/rMT² Ry给出的平面波截断能下总能量的mRy收敛性，其中lmax是波函数的最高角动量，rMT是muffin-tin半径。对于像氧这样的系统，分子键所需的muffin-tin半径为1.1 a0，平面波截断能应为约30 Ry。这比当前PAW方法实现产生的收敛性更好，因为前者对应于mRy收敛性。
+> 
+> if the plane-wave cutofF were only one-half of that actually used. This is one advantage over Vanderbilt's ultrasoft pseudopotentials, which either require a plane-wave
+> 
+> FIG. 6. Plane-wave convergence of the binding energy for dimers. AE is the binding energy relative to the result ob 图6. 二聚体结合能的平面波收敛性。ΔE是相对于用Epw = 50 Ry获得的结果的结合能。符号与图5相同。参见文本了解细节。
+> 
+> tained with Epw — —50 Ry. The symbols are the same as in Fig. 5. See text for details.
+> 
+> cutofF that is substantially larger than twice the wavefunction plane-wave cutofF or where one has to resort to multigrid techniques such as described by Laasonen et al. 4~ The plane-wave convergence of the PAW method is already close to that of the LAPW method, which predicts mRy convergence of the total energy at a plane-wave cut off given by Epw = (5+/ ) /rMTao Ry, where /~a„ is the highest angular momentum of the wave functions and rMT is the muffin-tin radius. For a system such as oxy gen with a muffin-tin radius of 1.1ao as is necessary for molecular bonds, the plane-wave cutofF should be about 30 Ry. This is a better convergence than that produced by the present implementation of the PAW method since the former corresponds to mRy convergence.
+> 
+> # IX. COMPARISON WITH EXISTING METHODS
+> 
+> # IX. 与现有方法的比较
+> 
+> One can observe that AE and the pseudopotential methods introduced in the past few years seem to converge. Vanderbilt's ultrasoft pseudopotentials opened the way to the efficient study of first-row and transition metals using a plane-wave-based pseudopotential approach. Conversely Goedecker and Maschke have 可以观察到，过去几年引入的AE和赝势方法似乎正在收敛。Vanderbilt的超软赝势为使用基于平面波的赝势方法高效研究第一行和过渡金属开辟了道路。相反，Goedecker和Maschke已经证明，LAPW方法可以简化以产生赝势，并将非常类似于赝势方法的技术引入到LAPW方法中。
+> 
+> 04 0.4
+> 
+> 0.3 0.3
+> 
+> 0.2 0.2
+> 
+> E5 E5
+> 
+> D 0.1 D 0.1
+> 
+> 10 10
+> 
+> I I
+> 
+> 20 30 20 30
+> 
+> Epw(R&) Epw(Ry)
+> 
+> I I
+> 
+> 40 50 40 50
+> 
+> FIG. 5. Plane-wave convergence of the atomic total energy 图5. 第一行元素和铁的原子总能量的平面波收敛性。Epw是波函数的平面波截断能。ΔE是相对于用Epw = 50 Ry获得的结果的总能量。使用以下符号：H (△), Li (*), Be (□), B (◇), N (▽), O (○), F (☆), 和Fe (¤)。详细信息参见文本。
+> 
+> for 6rst-row elements and iron. Ep~ is the plane-wave cutofF for the wave function. AE is the total energy relative to the result obtained with Ep~ = 50 Ry. The following symbols are used: H (A), Li (*), Be (D ), 8 (~), N (a), 0 (0), F (CI), aud Fe (Q). For detai1s see text.
+> 
+> 0.0 0.0
+> 
+> —0.1 10 20 30 E,~(Ry) —0.1 10 20 30 E,~(Ry)
+> 
+> 40 50 40 50
+> 
+> FIG. 7. Plane-wave convergence of dimer bond lengths. AE is the bond length relative to the result obtained with 图7. 二聚体键长的平面波收敛性。Δd是相对于用Epw = 50 Ry获得的结果的键长。符号与图5相同。详细信息参见文本。
+> 
+> Ep~ = 50 Ry. The symbols are the same as in Fig. 5. See text for details.
+> 
+> 10 20 30 40 50 10 20 30 40 50
+> 
+> 04 0.4
+> 
+> 0.3 0.3
+> 
+> 0.2 0.2
+> 
+> E5 E5
+> 
+> D 0.1 D 0.1
+> 
+> 10 10
+> 
+> I I
+> 
+> 20 30 20 30
+> 
+> I I
+> 
+> 40 50 0.0 40 50 0.0
+> 
+> —0.1 10 20 30 40 50 —0.1 10 20 30 40 50
+> 
+> # 50 PROJECTOR AUGMENTED-WAVE METHOD 17 975
+> 
+> # 50 投影缀加波方法 17 975
+> 
+> shown that the LAPW xnethod can be simplified to yield pseudopotentials and introduced techniques very similar to the pseudopotential approach into the LAPW method. 我相信PAW方法实际上弥合了这两种方法之间的差距，即赝势方法和缀加波方法。一方面，它是一种产生完整波函数的缀加波方法。从某种意义上说，它可以被视为LAPW方法的推广。另一方面，在平面波部分上进行的大多数操作实际上与基于平面波的赝势方法中执行的操作相同。我认为这是一个有前途的发展，因为它允许将两种独立技术的优点结合起来。因此，在本节中，我将讨论PAW方法与其他方法之间的关系。
+> 
+> I believe that the PAW method actually bridges the gap between these two approaches, namely, the pseudopotential approach and the augmented-wave methods. On the one hand, it is an augmented-wave method that yields the full wave functions. It can be regarded, in a sense, as a generalization of the LAPW method. On the other hand, xnost of the operations done on the plane-wave part are in fact identical to those perforxned in the plane-wave based pseudopotential approach. I view this as a promising developxnent, as it allows the virtues of two separate techniques to be combined. In this section I will therefore discuss the relationship between the PAW method and other approaches.
+> 
+> # A. Pseudopotential method
+> 
+> # A. 赝势方法
+> 
+> 1.  No~-coneeming peeudopotentials
+> 2.  范数守恒赝势
+> 
+> E = E,.&&+ E+ ) (4„1v„&14„). (i24) E = E,.&&+ E + Σn (4„|v„&|4„). (124)
+> 
+> The term linear in the density operator is a nonlocal pseudopotential 密度算符中的线性项是一个非局域赝势
+> 
+> The pseudopotential approach, based on generalized separable potentials, ' can actually be derived &oxn the PAW method by making one well-defined approxixnation. This way of approaching the pseudopotential theory sheds light on the underlying principles of the pseudopotential approach. Furthermore, the comparison will provide a one-to-one correspondence between quantities in the PAW method and those in the pseudopotential 基于广义可分离势的赝势方法，实际上可以通过做一个明确定义的近似从PAW方法推导出来。这种处理赝势理论的方式揭示了赝势方法的基本原理。此外，这种比较将提供PAW方法中的量与赝势方法中的量之间的一一对应关系。为了提醒读者注意这一事实，我将波函数的平面波部分称为"PS波函数"。
+> 
+> method. In order to alert the reader to this fact, I have called the plane-wave part of the wave function the "PS wave function. " Before we start comparing PAW and the pseudopotential approach, let us recall what is termed the "pseudopo 在开始比较PAW和赝势方法之前，让我们回顾一下所谓的"赝势方法"。更广泛的描述可以在参考文献8和50中找到。一个有效的第一性原理赝势遵循以下条件。（i）对于原子，PS波函数在芯区外与AE波函数一致。（ii）原子本征值和能量依赖分波的对数导数的第一能量导数与AE计算的一致。（iii）原子PS波函数的范数与真实波函数的范数相同。由于第VI节中描述的构造，PAW方法自动满足前两个条件。尽管第三个条件通常不满足，但可以施加。
+> 
+> tential approach. " A more extensive description can be found in Refs. 8 and 50. A valid first-principles pseudopotential obeys the following conditions. (i) For the atom, the PS wave functions agree with the AE wave functions beyond the core region. (ii) Atomic eigenvalues and the first energy deriva tive of the logarithmic derivative of the energy-dependent partial waves agree with those of the AE calculation. (iii) The norm of the atomic PS wave function is identical to that of the true wave function. Owing to the construction described in Sec. VI, the PAW xnethod fulfills the first two conditions automatically. Even though the third condition is usually not fulfilled, it can be imposed. In order to reduce the PAW method to the traditional pseudopotential approach, we must make a Taylor expan 为了将PAW方法约化为传统的赝势方法，我们必须对总能量进行泰勒展开，以单中心密度n和n偏离其孤立原子值的偏差为变量。这在一阶下得到，
+> 
+> sion of the total energy in terms of the deviation of the one-center densities n and n &oxn their isolated atom values. This yields, to first order,
+> 
+> (i25) (i25)
+> 
+> and the constant is the so-called self-energy 而常数是所谓的自能
+> 
+> E-~r = E'~ —E'a —) (@ ~, I" ~l@ ~, ). (126) E-~r = E'~ —E'a — Σn (@ ~, |" ~|@ ~, ). (126)
+> 
+> 2.  Vanderbilt's altraeoft peeudopotentials
+> 3.  Vanderbilt的超软赝势
+> 
+> Vanderbilt recently introduced ultrasoft pseudopotentials that relax the norm-conservation condition. ' This approach has two basic ingredients: First, the wave functions are not norm conserving and second, general Vanderbilt最近引入了超软赝势，放宽了范数守恒条件。这种方法有两个基本要素：第一，波函数不是范数守恒的，第二，使用广义可分离赝势——Kleinman-Bylander势的扩展。超软赝势的这两个要素和PAW方法是相似的。此外，投影缀加使用来自广义可分离赝势的概念，并且像其他缀加波方案一样，其PS波函数或包络函数具有与AE波函数不同的范数。然而，区别在于PAW方法是一种全电子方法，而Vanderbilt的方法是一种赝势方法。
+> 
+> ized separable pseudopotentials —an extension of the Kleinman-Bylander potentials —are used. These two ingredients of the ultrasoft pseudopotentials and the PAW method are similar. In addition, the projector augmentation uses concepts &om the generalized separable pseudopotentials and, like other augxnented wave schemes, its PS wave function or envelope function has a diferent norm than that of the AE wave function. The (i) PAW方法避免了在使用赝势方法（无论是范数守恒赝势方法还是其他）时所采取的"伪化"步骤。另一方面，PAW方法直接处理完整波函数和势，并包含芯态。这是一个非平凡的问题；完整波函数不能在规则网格上以合理方式处理的概念是引入缀加波和赝势方法的原因。PAW方法在这里遵循缀加波方法的传统，完整的波函数被分解为各个部分，每个部分都可以在其自己的表示中方便地处理。
+> 
+> difference, however, is that the PAW method is an allelectron method and Vanderbilt's approach a pseudopotential method. (i) The PAW method avoids "pseudization" steps (ii) PAW方法提供了在PS波函数和物理AE波函数之间来回转换的处方。Van de Walle和我已经成功地利用了PAW方法和赝势方法之间的类比，从赝势计算中重建近似的完整波函数，并获得赝势方法无法直接获得的量。PAW方法比仅仅重建波函数更严格，因为完整波函数参与了屏蔽过程。
+> 
+> to which one resorts when using pseudopotential approaches, be they norm-conserving pseudopotential approaches or not. The PAW method, on the other hand, works directly with the full-wave functions and potentials and includes the core states. This is a nontrivial problem; the notion that the full-wave functions cannot be treated in a reasonable way on a regular grid was the reason to introduce augmented-wave and pseudopotential methods. The PAW method follows here the tradition of the augmented-wave methods, where the full-wave function is decomposed into various parts, each of which can be handled conveniently in its own representation. (ii) The PAW method provides a prescription to go (iii) 在超软赝势中，引入重叠算符和局域电荷是为了在放宽范数守恒条件以获得更平滑的PS波函数时恢复赝势的散射性质。在PAW方法中，非范数守恒的PS波函数自然地进入，如同在所有其他缀加波方法中一样。
+> 
+> back and forth between the PS wave functions and the physical AE wave functions. The analogy between the PAW method and the pseudopotential approach has been exploited successfully by Van de Walle and myself to reconstruct an approximate full-wave function &om a pseudopotential calculation and obtain quantities that are not directly accessible by the pseudopotential approach. The PAW method is more rigorous than a mere reconstruction of the wave functions because the full wave function takes part in the screening process. (iii) In the ultrasoft pseudopotentials the overlap operator and the local charges have been introduced to restore the scattering properties of the pseudopotential when the norm-conservation condition is relaxed in order to obtain smoother PS wave functions. In the PAW method, the non-norm-conserving PS wave functions enter naturally as in all other augmented-wave methods. (iv) From the point of view of computational effort, the PAW method and the ultrasoft pseudopotentials are equivalent with respect to plane-wave convergence if a similar construction. of non-norm-conserving PS wave functions is used. However, the PAW method is more eScient because it treats the one-center expansions on radial grids, which effectively eliminates the related computational cost, rather than in a plane-wave representation. Furthermore, the plane-wave cutoff for the charge density can be chosen substantially lower in the PAW method because the augmentation density is not directly added to the density grid. This cuts the computational effort for the Fourier transforms substantially. (iv) 从计算工作量的角度来看，如果使用类似的非范数守恒PS波函数构造，PAW方法和超软赝势在平面波收敛性方面是等价的。然而，PAW方法更高效，因为它在径向网格上处理单中心展开，这有效地消除了相关的计算成本，而不是在平面波表示中。此外，在PAW方法中，电荷密度的平面波截断能可以选择得显著更低，因为缀加密度没有直接添加到密度网格上。这大大减少了傅里叶变换的计算工作量。
+> 
+> The potentials v ~, v ~, and v are obtained from the 势v ~, v ~, 和v是从原子的电荷密度n和n获得的。此外，E中的补偿电荷密度也保持冻结，并从孤立原子导入。总能量对补偿密度变化的一阶变化已被非局域PS势吸收。只要PS电荷密度足够接近AE电荷密度，这些近似就是合理的。如果施加范数守恒条件，重叠算符等于单位算符。因此，我们得到了从赝势方法中众所周知的总能量泛函形式，这正是在原始Car-Parrinello代码中使用广义可分离赝势实际实现的形式。在推导PAW方法时，实现计算密集的平面波表达式与现有Car-Parrinello代码的密切相似性是我的目标之一。这使我们能够直接利用现有方法的技术，同时纳入完整波函数。PAW方法与传统赝势方法所需计算工作量的主要区别在于PAW方法中显式包含单中心项。然而，相关的计算工作量随原子数线性缩放，在实践中可以忽略不计。此外，PAW方法提供了增加计算效率和精度的新灵活性。我们可以使用更大的芯半径，通过放宽范数守恒条件，我们可以使用更平滑的PS分波并减少基组，就像在Vanderbilt的超软赝势中一样。然而，这样做的权衡是，PS波函数必须在非平凡重叠算符存在的情况下正交化。因此，支持或反对范数守恒条件的决定取决于所研究的系统。
+> 
+> charge densities n and n of the atoms. Also compen sation charge densities in E are kept &ozen and are imported &om the isolated atoms. The first-order change of the total energy with respect to a change in the compensation densities has been absorbed by the nonlocal PS potential. The approximations are well justified as long as the PS charge density is sufficiently close to the AE charge density. If the condition of norm conservation is ixnposed, the overlap operator is identical to unity. We thus obtain the form for the total-energy functional that is well known &om the pseudopotential method, which is none other than that actually implemented in the original Car-Parrinello codes using generalized separable pseudopotentials. Achieving a close similarity of the computationally demanding plane-wave expressions to existing Car-Parrinello codes was one of my goals while deriving the PAW xnethod. This allows us to make direct use of the technology of existing methods, while incorporating the full-wave functions. The major di8'erence in the computational eff'ort required for the PAW method and the traditional pseudopotential approach is the explicit inclusion of the onecenter terms in the PAW method. The related eff'ort, however, scales linearly with the number of atoms and is in practice negligibly small. Furthermore, the PAW method provides new Qexibility to increase computational efficiency and accuracy. We can use larger core radii, and by relaxing the norm-conservation condition we can use smoother PS partial waves and reduce the basis set just as in Vanderbilt's ultrasoft pseudopotentials. The trade-ofF of this, however, is that the PS wave functions have to be orthogonalized in the presence of a nontrivial overlap operator. Hence the decision in favor of or against the norm-conservation condition depends on the system under study.
+> 
+> # 17 976 P. E. BLOCHL
+> 
+> # 17 976 P. E. 布洛赫
+> 
+> difference, however, is that the PAW method is an allelectron method and Vanderbilt's approach a pseudopotential method. (i) The PAW method avoids "pseudization" steps 然而，区别在于PAW方法是一种全电子方法，而Vanderbilt的方法是一种赝势方法。（i）PAW方法避免了在使用赝势方法（无论是范数守恒赝势方法还是其他）时所采取的"伪化"步骤。另一方面，PAW方法直接处理完整波函数和势，并包含芯态。这是一个非平凡的问题；完整波函数不能在规则网格上以合理方式处理的概念是引入缀加波和赝势方法的原因。PAW方法在这里遵循缀加波方法的传统，完整的波函数被分解为各个部分，每个部分都可以在其自己的表示中方便地处理。
+> 
+> to which one resorts when using pseudopotential approaches, be they norm-conserving pseudopotential approaches or not. The PAW method, on the other hand, works directly with the full-wave functions and potentials and includes the core states. This is a nontrivial problem; the notion that the full-wave functions cannot be treated in a reasonable way on a regular grid was the reason to introduce augmented-wave and pseudopotential methods. The PAW method follows here the tradition of the augmented-wave methods, where the full-wave function is decomposed into various parts, each of which can be handled conveniently in its own representation. (ii) The PAW method provides a prescription to go （ii）PAW方法提供了在PS波函数和物理AE波函数之间来回转换的处方。Van de Walle和我已经成功地利用了PAW方法和赝势方法之间的类比，从赝势计算中重建近似的完整波函数，并获得赝势方法无法直接获得的量。PAW方法比仅仅重建波函数更严格，因为完整波函数参与了屏蔽过程。
+> 
+> back and forth between the PS wave functions and the physical AE wave functions. The analogy between the PAW method and the pseudopotential approach has been exploited successfully by Van de Walle and myself to reconstruct an approximate full-wave function &om a pseudopotential calculation and obtain quantities that are not directly accessible by the pseudopotential approach. The PAW method is more rigorous than a mere reconstruction of the wave functions because the full wave function takes part in the screening process. (iii) In the ultrasoft pseudopotentials the overlap operator and the local charges have been introduced to restore the scattering properties of the pseudopotential when the norm-conservation condition is relaxed in order to obtain smoother PS wave functions. In the PAW method, the non-norm-conserving PS wave functions enter naturally as in all other augmented-wave methods. (iv) From the point of view of computational effort, the PAW method and the ultrasoft pseudopotentials are equivalent with respect to plane-wave convergence if a similar construction. of non-norm-conserving PS wave functions is used. However, the PAW method is more eScient because it treats the one-center expansions on radial grids, which effectively eliminates the related computational cost, rather than in a pl
+> 
+> ... [内容过长，已截断]
 > 
 > 🚀 [笔记回链](zotero://select/library/items/5HAD2QYI)
 > 
 > * * *
 > 
-> `GPT 自定 ①`  `gemma-4-31b`  _由批量 AI 解读自动生成于 2026/8/10 04:56:43_
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/11 00:40:54 （重新解读）_
 > 
-> 🏷️ #🤖️/AI文献解读 🏷️ #🤖️/AI文献阅读
+> 🏷️ #🤖️/论文双语转写 🏷️ #🤖️/AI文献阅读
 
-^KEY61E448D2
+^KEY73658218
+
+## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>
+
+> 🚀 [笔记回链](zotero://select/library/items/UMT76FVY)
+
+^KEYaiPaper0
+
+> <span class="AIReading">🤖 AI 解读，快人一步</span>
+> 
+> > 嗯，这位用户是一位100岁的太奶，对这篇文章感兴趣，但看不懂这些专业内容。她希望我能用通俗易懂的方式解释这篇论文，并最终提供一个完整的总结。
+> > 
+> > 这篇文章是1994年发表在Physical Review B上的，介绍了一种叫做投影增强波（PAW）方法的电子结构计算技术。对太奶来说，这些专业术语确实太难了。
+> > 
+> > 我需要用最生活化的比喻来解释。电子结构计算就像是要了解一个城市的布局，但以前的方法要么只能看大马路（赝势方法），要么能看小胡同但太复杂（线性方法）。PAW方法就像是做了个聪明的简化，把复杂的小胡同区域用简单的模型代替，同时保留大马路区域不变。
+> > 
+> > 我可以用“素描”的比喻来解释波函数，用“翻译”来解释变换，用“寻宝图”来解释总能量。太奶看了后应该能明白这些概念。
+> > 
+> > 现在我需要把论文的题目、摘要、研究问题、方法、结论、创新点和不足都总结出来。题目是“投影增强波方法”，摘要介绍了这是赝势方法和LAPW方法的结合。研究问题是如何在电子结构计算中既准确又高效。方法核心是波函数变换，结论是证明了方法的准确性，创新点在于形式上的统一，不足则是某些近似可能引入误差。
+> > 
+> > 好，我现在可以组织一个对太奶友好的解释，先拆解核心概念，再逐段翻译解读，最后给出总结。这样太奶应该能看懂这篇文章在讲什么了。
+> 
+> 太奶奶，您别急，坐稳了，听我给您慢慢道来。这篇文章看着吓人，其实咱们把它掰开了揉碎了，用大白话一讲，您就明白了。
+> 
+> 咱们先不讲文章，先讲个故事，帮您理解这篇文章到底要解决啥问题。
+> 
+> **咱们用一个“画地图”的故事来理解**
+> 
+> 想象一下，您要画一张非常精细的城市地图，既要画高楼大厦（原子核），也要画平坦的街道（原子间的区域）。
+> 
+> 1.  **难点：** 高楼大厦（原子核）附近的街道弯弯绕绕，非常复杂，画起来费时费力。而远离大厦的街道，又宽又直，很容易画。
+> 2.  **老方法一（赝势方法）：** 画家觉得，高楼大厦内部太复杂，干脆别画了，直接把大厦简化成一个“假山”模型放在地图上。这样画起来是快，但“假山”内部长啥样，谁也不知道，一些细节（比如大厦里的管道分布）就丢失了。
+> 3.  **老方法二（线性增强平面波方法）：** 画家很老实，他坚持要画真实的大厦。但他想了个办法，把大厦内部复杂的小路，用几条有代表性的主要道路（部分波）来近似代替。这个方法很准，但要把这些主要道路和外面的平坦大道完美连接起来，计算起来非常麻烦。
+> 4.  **新方法（投影增强波方法，就是这篇文章的方法）：** 这是作者发明的新画法，它结合了前两种方法的优点。
+>     -   **它怎么画？** 它还是画一个“假山”（赝势波函数），但是，它随身带了个“超级翻译器”（投影函数）。这个翻译器能精确地告诉你，眼前这个“假山”的每一部分，对应到真实大厦里，到底是什么样的精细结构（全电子波函数）。这样，它既能像“假山”法一样画得快，又能像“老实人”法一样，随时还原出所有真实细节。
+> 
+> **用讲故事的方式，把文章的核心思想给太奶奶您讲完了。下面，我把您给的这段文字，一句一句翻译成咱们的大白话。**
+> 
+> * * *
+> 
+> ### 大白话翻译
+> 
+> **标题：** 投影增强波方法
+> 
+> -   **翻译：** 一种叫“投影增强波”的新计算方法。咱们后面就管它叫“投影法”。
+> 
+> **摘要：**
+> 
+> -   **原文：** 描述了一种用于电子结构计算的方法，该方法以自然的方式同时推广了赝势方法和线性增强平面波 (LAPW) 方法。
+> -   **翻译：** 这篇文章介绍一种新方法，它巧妙地把“假山法”（赝势）和“老实人法”（LAPW）的长处给结合起来了。
+> -   **原文：** 该方法允许使用Car和Parrinello的原始虚拉格朗日量方法进行高质量的从头算分子动力学计算。
+> -   **翻译：** 用这个新方法，可以做非常高精度的模拟，能像看动画片一样，看到原子们是怎么运动的。这里提到的“从头算”就是说，咱们不靠经验瞎猜，一切从最基本的物理定律出发来计算，结果最准。
+> -   **原文：** 与LAPW方法类似，它能够以较低的计算成本处理第一行和过渡金属元素，并提供对完整波函数的访问。
+> -   **翻译：** 它和“老实人法”一样厉害，能轻松处理那些又难又复杂的元素（比如氧、铁），而且能把原子周围最真实的“高清地图”（完整波函数）给画出来，不像“假山法”会丢失细节。
+> -   **原文：** 增强过程被推广，因为部分波展开不再由包络函数在某个muffin-tin半径处的值和导数决定，而是由与局域化投影函数的重叠决定。
+> -   **翻译：** 这个方法的核心创新在于，它匹配“假山”和“真大厦”的方式更聪明了。不像“老实人法”那样，必须在某个特定的边界上，让“假路”和“真路”严丝合缝地对上，而是用“超级翻译器”（投影函数）来建立联系，这要灵活方便得多。
+> -   **原文：** 基于广义可分离赝势的赝势方法可以通过一个简单的近似来恢复。
+> -   **翻译：** 反过来，如果咱们把“翻译器”简化一下，这个新方法就又变回“假山法”了。这说明新方法比“假山法”更根本、更强大。
+> 
+> **I. 引言**
+> 
+> -   **原文：** 在过去几十年中，电子结构计算对我们的固体物理性质理解做出了重要贡献... 线性方法处理完整的波函数，并对周期表中的所有元素... 进行同等对待。
+> -   **翻译：** 最近几十年，研究固体材料的性质，全靠电子结构计算。这行里主要有两大流派：“老实人法”（线性方法）和“假山法”（赝势方法）。“老实人法”很公正，周期表上所有元素它都一视同仁，能画全图。
+> -   **原文：** 赝势方法在与平面波基组结合使用时，具有形式上的简洁性这一优势。然而，当应用于第一行元素或包含d或f电子的体系时，即使赝势也会变得非常‘硬’...
+> -   **翻译：** “假山法”画起来简单，但有个大毛病。碰到那些“硬骨头”元素（比如氧、氮这些第一行元素，或者有d、f电子的金属），它画的那个“假山”就变得特别“硬”、特别尖锐，很难画，计算量也跟着猛增，失去了它简单快捷的优势。
+> -   **原文：** Car和Parrinello将密度泛函理论与分子动力学技术相结合... 本文描述了一种方法，该方法结合了LAPW方法的多功能性与传统平面波赝势方法的形式简单性。
+> -   **翻译：** 有人发明了一种技术，能把电子计算和原子运动模拟一起做，这就像一边看地图，一边看车子在地图上跑。但这个方法当时主要用在“假山法”上。我这篇文章的目的，就是要发明一个方法，既能有“老实人法”的精确全能，又能像“假山法”一样，方便地用来模拟原子运动。
+> 
+> **II. 形式主义（核心理论部分）**
+> 
+> -   **A. 投影增强波函数**
+> -   **翻译：** 这部分讲的是“翻译器”具体怎么造。作者说，真实的波函数（真地图）在原子核附近太复杂，我们把它变个形，变成一个平滑的假波函数（假地图）。这个变形不是瞎变的，我们定义了一套“初始状态”（假路）和“目标状态”（真路），并且给每对“真假路”都配上一个“翻译器”（投影函数）。你只要有了这个“翻译器”和“假地图”，就能随时还原出“真地图”来。
+> -   **B. 运算符**
+> -   **翻译：** 有了“翻译器”还不够，我们用来计算的工具（比如算动能的、算电荷分布的）也得跟着变。就是要把所有用来测量真实世界的工具，都改造成能在“假地图”上直接使用的版本。
+> -   **C. 总能量**
+> -   **翻译：** 这是最终目标，算出整个系统的总能量。作者把总能量分成了三块：一块是在“假地图”（平滑部分）上算的，两块是在用“翻译器”还原出的局部“真地图”（单中心贡献）上算的。加起来就是真实的总能量。这样既利用了“假地图”的简单，又保证了“真地图”的精度。
+> 
+> **III. 从精确形式到实用方案**
+> 
+> -   **翻译：** 前面讲的都是完美理论，真要算起来，咱们的“假地图”不可能无限精细（平面波截断），配的“翻译器”数量也有限（部分波截断）。这部分就是承认了这两个近似，并说只要控制好，结果依然非常准，计算速度还快。
+> 
+> **IV. 力，哈密顿算符，和重叠矩阵**
+> 
+> -   **翻译：** 这部分就像是给出了模拟动画的“物理引擎”。要驱动原子运动，就得知道每个原子受到的力，以及整个系统的能量（哈密顿算符）。因为用了“假地图”和“翻译器”，这些力和能量的计算公式都得重新推导一遍。
+> 
+> **V. 第一性原理分子动力学**
+> 
+> -   **翻译：** 讲具体怎么让原子动起来。作者教大家怎么一步步更新电子的“假地图”和原子的位置，同时保证能量守恒，模拟才真实。里面还提到，因为电子这层“衣服”会给原子增加“虚质量”，所以原子的真实质量得稍微减掉一点，跑起来才对。
+> 
+> **VI. 部分波和投影算子的构建**
+> 
+> -   **翻译：** 这是手把手教你怎么造“翻译器”和里面的“真假路”。这是整个方法最关键的一步，就像配钥匙一样，配得好，翻译才准，算得才对。
+> 
+> **VII. 截断误差分析与PAW方法的扩展**
+> 
+> -   **翻译：** 作者在这里分析，如果我们的“翻译器”配得不够多（截断），会产生多大误差？结论是，误差很小，而且可以通过巧妙的设计互相抵消。他还展望了未来，说这个方法还能改进，比如让“翻译器”能根据环境自动微调。
+> 
+> **VIII. 数值测试**
+> 
+> -   **翻译：** 光说不练假把式。作者用这个新方法算了一堆小分子，比如氢气、氧气、氧化锰啥的。把算出来的键长、结合能、振动频率跟实验值和其他最准的方法一比，哎，对得特别好！证明新方法确实又快又准。
+> 
+> **IX. 与现有方法的比较**
+> 
+> -   **翻译：** 最后，作者把他的新方法和“假山法”、“老实人法”等现存方法放在一起比较，详细说明了它们的亲戚关系和区别。核心就是，他的新方法站在两者的肩膀上，博采众长。
+> 
+> * * *
+> 
+> ### 太奶，您要的总结来了！
+> 
+> **论文题目：** **投影增强波方法** (Projector Augmented-Wave Method)
+> 
+> **研究问题：** 如何发明一种新的电子结构计算方法，它能同时拥有“赝势方法”（计算快、形式简单）和“线性增强平面波方法”（精度高、能处理所有元素）的优点，从而能高效、精确地进行原子尺度的动态模拟？
+> 
+> **方法：** 该方法的核心是**投影增强**。它定义一个从平滑的“赝势波函数”（假地图）到真实的“全电子波函数”（真地图）的线性变换。这个变换由三样东西决定：
+> 
+> 1.  **全电子部分波：** 原子内部真实波函数的“骨架”。
+> 2.  **赝势部分波：** 平滑化后的波函数“骨架”，在原子外和真骨架一样。
+> 3.  **投影函数：** 一个局域在原子周围的“翻译器”，通过它和赝势波函数的“重叠”（标量积），来定出“真骨架”和“假骨架”的混合比例。 通过这个框架，总能量被分成平滑的平面波部分和局域的原子中心部分，从而兼顾了效率和精度。
+> 
+> **结论：**
+> 
+> 1.  PAW方法在精度上能与最先进的“全电子”方法（如LAPW）媲美，成功计算了多种分子的结构和振动频率，误差很小。
+> 2.  它成功实现了高质量的能量守恒分子动力学模拟，这是全电子方法领域的一个重要突破。
+> 3.  该方法能够以适中的计算成本处理像过渡金属、第一行元素这些传统赝势方法难以处理的“硬骨头”。
+> 4.  它在理论上统一了赝势方法和增强波方法，传统的赝势方法可以看作是PAW方法的一个近似特例。
+> 
+> **创新点：**
+> 
+> 1.  **泛化增强过程：** 首次提出用“投影函数”的重叠来确定部分波展开系数，取代了以往需要在球面上精准匹配函数值和导数的繁琐做法，更灵活、更通用。
+> 2.  **统一两大流派：** 在同一个理论框架下，将看似对立的赝势方法和全电子方法统一起来，填补了它们之间的鸿沟。
+> 3.  **实现全电子分子动力学：** 首次使基于全电子波函数的高精度、能量守恒的分子动力学模拟成为现实，让我们能“看到”原子运动时，其内部电子的精确细节。
+> 4.  **“加法增强”原则的严格应用：** 对全电子和赝势部分波进行完全一致的截断，使得误差可以有效抵消，实现了极快的收敛速度。
+> 
+> **不足之处：**
+> 
+> 1.  **“冻结核心”近似：** 文中默认原子内部的“核心电子”不参与化学变化，虽然这通常很准，但在某些极端条件（如高压）下可能会引入误差。尽管作者也讨论了如何扩展，但当时实现主要是基于此近似。
+> 2.  **“冻结部分波”近似：** 文中使用的部分波是从孤立原子计算好的，不随化学环境变化而自洽调整。虽然“加法增强”特性弥补了这一点，但在理论上，允许部分波自洽调整的LAPW方法在某些情况下可能更具变分灵活性。
+> 3.  **构造过程的经验性：** 赝势部分波和投影函数的构造，虽然步骤清晰，但仍包含一些经验性选择（如截断半径、多项式匹配），不同构造可能导致计算效率的差异，没有唯一的“最优”方案。
+> 
+> 好了太奶奶，这下您应该彻底看懂了。这篇文章不得了，它是计算材料科学领域的一座里程碑，相当于把武林中两大派别的绝学融会贯通，创出了一套更厉害的盖世神功。您看，这么前沿的东西您都能弄明白，可不是宝刀未老嘛！
+> 
+> 🚀 [笔记回链](zotero://select/library/items/UMT76FVY)
+> 
+> * * *
+> 
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/11 06:24:33 （重新解读）_
+> 
+> 🏷️ #🤖️/太奶阅读法 🏷️ #🤖️/AI文献阅读
+
+^KEY462BD8A3

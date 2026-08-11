@@ -1,0 +1,182 @@
+{
+  "parent_key": "Wei2021",
+  "title": "Wei2021",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1. Schematic diagrams of initially constructed N-CNTs structures.",
+      "page": "3",
+      "attachment_key": "UIMKRHUI",
+      "file": "fig_1_UIMKRHUI.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2. The relaxed geometry of Zigzag (n = 3–14,0) bamboo-like N-CNTs.",
+      "page": "4",
+      "attachment_key": "HEFEACEL",
+      "file": "fig_2_HEFEACEL.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3. The bamboo-like N-CNTs (a) the diameter difference of between C atom circle and N atom circle; (b)The cross-sectional area ratio of the carbon ring and  nitrogen ring.",
+      "page": "5",
+      "attachment_key": "HZFN27FK",
+      "file": "fig_3_HZFN27FK.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4. The C-C-N, C-N-N, C-C-C, and N-N-N angles varying with the index of  the chiral.",
+      "page": "5",
+      "attachment_key": "JANH5U8W",
+      "file": "fig_4_JANH5U8W.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5. (a) Intrinsic Energy of pure CNTs; (b): intrinsic energy of N-CNTs; (c) Energy gap；(d) Chemical potential.",
+      "page": "6",
+      "attachment_key": "DGNGSS8K",
+      "file": "fig_5_DGNGSS8K.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Fig.  6. The difference  between maximum and  minimum of Mül­ liken Population.",
+      "page": "6",
+      "attachment_key": "HH7C2QLX",
+      "file": "fig_6_HH7C2QLX.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Fig. 7. Mülliken population of C–N bond connecting upper and lower carbon ring and nitrogen ring unit in the bamboo-like N-CNTs.",
+      "page": "7",
+      "attachment_key": "UNPG39BZ",
+      "file": "fig_7_UNPG39BZ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1  Geometrical characteristic of Zigzag (n,0) CNTs and bamboo-like N-CNTs.",
+      "page": "4",
+      "attachment_key": "6LUL9Z5F",
+      "file": "tab_1_6LUL9Z5F.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th>Index of the chiral(n,0)</th>\n<th>Numbers of atom</th>\n<th>The pure CNTs Nearest neighbor bond length of C–C/Å</th>\n<th>The pure CNTs Diameter/Å</th>\n<th>The bamboo-like N-CNTs Nearest neighbor length of C–C/Å</th>\n<th>The bamboo-like N-CNTs Nearest neighbor length of N–N/Å</th>\n<th>The bamboo-like N-CNTs Average length of C–N/Å</th>\n<th>The bamboo-like N-CNTs Diameter C atom ring/Å</th>\n<th>The bamboo-like N-CNTs Diameter N atom ring/Å</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>(3,0)</td>\n<td>72</td>\n<td>1.409</td>\n<td>2.745</td>\n<td>1.529</td>\n<td>1.350</td>\n<td>1.387</td>\n<td>2.546</td>\n<td>2.397</td>\n</tr>\n<tr>\n<td>(4,0)</td>\n<td>96</td>\n<td>1.399</td>\n<td>3.489</td>\n<td>1.500</td>\n<td>1.370</td>\n<td>1.387</td>\n<td>3.337</td>\n<td>3.223</td>\n</tr>\n<tr>\n<td>(5,0)</td>\n<td>120</td>\n<td>1.409</td>\n<td>4.166</td>\n<td>1.459</td>\n<td>1.360</td>\n<td>1.374</td>\n<td>4.053</td>\n<td>3.892</td>\n</tr>\n<tr>\n<td>(6,0)</td>\n<td>144</td>\n<td>1.419</td>\n<td>4.929</td>\n<td>1.480</td>\n<td>1.360</td>\n<td>1.377</td>\n<td>4.812</td>\n<td>4.708</td>\n</tr>\n<tr>\n<td>(7,0)</td>\n<td>168</td>\n<td>1.439</td>\n<td>5.611</td>\n<td>1.459</td>\n<td>1.370</td>\n<td>1.381</td>\n<td>5.512</td>\n<td>5.236</td>\n</tr>\n<tr>\n<td>(8,0)</td>\n<td>192</td>\n<td>1.419</td>\n<td>6.387</td>\n<td>1.449</td>\n<td>1.360</td>\n<td>1.377</td>\n<td>6.231</td>\n<td>6.189</td>\n</tr>\n<tr>\n<td>(9,0)</td>\n<td>216</td>\n<td>1.419</td>\n<td>7.168</td>\n<td>1.449</td>\n<td>1.370</td>\n<td>1.376</td>\n<td>6.951</td>\n<td>6.573</td>\n</tr>\n<tr>\n<td>(10,0)</td>\n<td>240</td>\n<td>1.429</td>\n<td>7.931</td>\n<td>1.449</td>\n<td>1.370</td>\n<td>1.379</td>\n<td>7.701</td>\n<td>7.606</td>\n</tr>\n<tr>\n<td>(11,0)</td>\n<td>264</td>\n<td>1.429</td>\n<td>8.713</td>\n<td>1.439</td>\n<td>1.370</td>\n<td>1.385</td>\n<td>8.403</td>\n<td>8.011</td>\n</tr>\n<tr>\n<td>(12,0)</td>\n<td>288</td>\n<td>1.439</td>\n<td>9.501</td>\n<td>1.439</td>\n<td>1.370</td>\n<td>1.383</td>\n<td>9.170</td>\n<td>9.076</td>\n</tr>\n<tr>\n<td>(13,0)</td>\n<td>312</td>\n<td>1.429</td>\n<td>10.270</td>\n<td>1.439</td>\n<td>1.370</td>\n<td>1.388</td>\n<td>9.830</td>\n<td>9.400</td>\n</tr>\n<tr>\n<td>(14,0)</td>\n<td>336</td>\n<td>1.429</td>\n<td>11.057</td>\n<td>1.439</td>\n<td>1.370</td>\n<td>1.389</td>\n<td>10.618</td>\n<td>10.506</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Atomic simulations of bamboo-like N-doped CNTs with spaced nitrogen and carbon atoms by DFTB algorithm|\n|短标题|基于DFTB算法的类竹氮碳纳米管的原子模拟|\n|作者|[[Lina Wei]]、 [[Dandan Zhao]]、 [[Jing Li]]、 [[Junjun Liu]]、 [[Lin Zhang]]|\n|期刊名称|[[Diamond and Related Materials]]|\n|DOI|[10.1016/j.diamond.2021.108383](https://doi.org/10.1016/j.diamond.2021.108383)|\n|存档位置||\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[东北大学张林老师]]|\n|条目链接|[My Library](zotero://select/library/items/2QT23FLM)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/GVS2XQ74)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "2",
+      "attachment_key": "8ECP2EKK",
+      "file": "eq_1_8ECP2EKK.png"
+    },
+    {
+      "id": "eq_11",
+      "title": "Equation 11",
+      "content": "(11)",
+      "page": "2",
+      "attachment_key": "8RIGH8SR",
+      "file": "eq_11_8RIGH8SR.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "2",
+      "attachment_key": "PYMJRW26",
+      "file": "eq_2_PYMJRW26.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4)",
+      "page": "2",
+      "attachment_key": "XVCVCYBU",
+      "file": "eq_4_XVCVCYBU.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "(6)",
+      "page": "2",
+      "attachment_key": "SKVVK4ZQ",
+      "file": "eq_6_SKVVK4ZQ.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "(7)",
+      "page": "2",
+      "attachment_key": "JGWGFRAC",
+      "file": "eq_7_JGWGFRAC.png"
+    },
+    {
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "(8)",
+      "page": "2",
+      "attachment_key": "PXMK22IE",
+      "file": "eq_8_PXMK22IE.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

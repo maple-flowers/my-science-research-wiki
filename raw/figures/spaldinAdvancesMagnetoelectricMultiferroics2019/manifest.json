@@ -4,11 +4,11 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "The multiferroic family tree.",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1 | The multiferroic family tree. Multiferroicity, arising from the combined interplay of magnetic and ferroelectric mechanisms, can result from several  different sources. Here, we outline different combinations of these ‘root’ mechanisms and how they are responsible for different types of multiferroic  materials. This visualization shows the combinations of magnetic and ferroelectric mechanisms that occur in existing multiferroics, and also suggests less-explored options that may prove fr",
       "page": "2",
-      "attachment_key": "72NEYXQY",
-      "file": "fig_1_72NEYXQY.png",
+      "attachment_key": "EI832AIH",
+      "file": "fig_1_EI832AIH.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -18,11 +18,11 @@
     },
     {
       "fig_number": "2",
-      "title": "Multiferroic composite architectures.",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2 | Multiferroic composite architectures. Composite architectures  allow large, room-temperature remanent magnetizations and polarizations,  as well as strong enough coupling between them to be used in  applications. a, In classic horizontal composites a ferroelectric material  is layered with a ferro- or ferrimagnet. Nanoscale versions, such as this  superlattice of ferroelectric LuFeO3 with ferrimagnetic LuFe2O4, have  recently been achieved through layer-by-layer growth. b, A vertically ",
       "page": "3",
-      "attachment_key": "6Z4CTR5B",
-      "file": "fig_2_6Z4CTR5B.png",
+      "attachment_key": "S95EDSFB",
+      "file": "fig_2_S95EDSFB.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -32,11 +32,11 @@
     },
     {
       "fig_number": "3",
-      "title": "The Bi2O3–Fe2O3 phase diagram.",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3 | The Bi2O3–Fe2O3 phase diagram. The shaded area indicates the  composition range that we expect to be most promising for discovering  previously unidentified multiferroics through detailed bulk and artificially  engineered thin-film synthesis. Searches for polytypoid structures with  different fractions of magnetic and polar components within this phase  diagram also offer a hitherto unexplored opportunity. Adapted from ref. 55, APS.",
       "page": "4",
-      "attachment_key": "FNXM8C9N",
-      "file": "fig_3_FNXM8C9N.png",
+      "attachment_key": "88W3KSTZ",
+      "file": "fig_3_88W3KSTZ.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -46,11 +46,11 @@
     },
     {
       "fig_number": "4",
-      "title": "Ferroelectric domain walls in multiferroics exhibit a wide variety of physical phenomena and are being explored as active elements for future applications.",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4 | Ferroelectric domain walls in multiferroics exhibit a wide variety of physical phenomena and are being explored as active elements for future  applications. a, Atomic-resolution image of a 109° ferroelectric domain wall in BiFeO3, in which the large bright spots indicate Bi ions and the smaller spots  Fe ions. A cartoon of the structure is shown below, illustrating the close to atomically thin wall that is typical for many multiferroics and ferroelectrics.  b, The first demonstration of",
       "page": "5",
-      "attachment_key": "SDQSUHVM",
-      "file": "fig_4_SDQSUHVM.png",
+      "attachment_key": "T9Q4GRTD",
+      "file": "fig_4_T9Q4GRTD.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -60,11 +60,11 @@
     },
     {
       "fig_number": "5",
-      "title": "New fundamental building blocks for multiferroicity.",
-      "llm_description": "",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5 | New fundamental building blocks for multiferroicity. The",
       "page": "6",
-      "attachment_key": "NPW4Q6AC",
-      "file": "fig_5_NPW4Q6AC.png",
+      "attachment_key": "4ZFAN59W",
+      "file": "fig_5_4ZFAN59W.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -74,11 +74,11 @@
     },
     {
       "fig_number": "6",
-      "title": "New magnetoelectric multiferroic devices.",
-      "llm_description": "",
+      "title": "Figure 6",
+      "llm_description": "Fig. 6 | New magnetoelectric multiferroic devices. A magnetoelectric spin– orbit coupled (MESO) non-volatile logic element is shown schematically with  its multiferroic (MF) layer in dark blue and its exchange-coupled sensing  layer in red (the inverse Rashba spin to charge converting components are  in blue and yellow). The polarization/voltage hysteresis of the MF layer  (bottom panel) allows manipulation of the magnetism in the sense layer  (top panel) with an electric field. To achieve an en",
       "page": "6",
-      "attachment_key": "LYRL8TCL",
-      "file": "fig_6_LYRL8TCL.png",
+      "attachment_key": "XUH5R4R7",
+      "file": "fig_6_XUH5R4R7.png",
       "tags": [
         "unread",
         "参考文献-layer"
@@ -91,7 +91,7 @@
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Advances in magnetoelectric multiferroics|\n|短标题|磁电多铁材料研究进展|\n|作者|[[N. A. Spaldin]]、 [[R. Ramesh]]|\n|期刊名称|[[Nature Materials]]|\n|DOI|[10.1038/s41563-018-0275-2](https://doi.org/10.1038/s41563-018-0275-2)|\n|存档位置|1579|\n|文库编目|38.5|\n|索书号|1|\n|版权||\n|分类|[[04_磁电耦合机制 (Magnetoelectric Coupling)]]|\n|条目链接|[My Library](zotero://select/library/items/UE6AP3HJ)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/MBFULLXG\">全文</a></li><li><a href=\"zotero://open-pdf/library/items/C54D9E72\">Spaldin和Ramesh - 2019 - Advances in magnetoelectric multiferroics.pdf</a></li></ul>|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Advances in magnetoelectric multiferroics|\n|短标题|磁电多铁性材料研究进展|\n|作者|[[N. A. Spaldin]]、 [[R. Ramesh]]|\n|期刊名称|[[Nature Materials]]|\n|DOI|[10.1038/s41563-018-0275-2](https://doi.org/10.1038/s41563-018-0275-2)|\n|存档位置|1579|\n|文库编目|38.5|\n|索书号|1|\n|版权||\n|分类|[[04_磁电耦合机制 (Magnetoelectric Coupling)]]|\n|条目链接|[My Library](zotero://select/library/items/UE6AP3HJ)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/MBFULLXG\">Spaldin和Ramesh - 2019 - Advances in magnetoelectric multiferroics</a></li><li><a href=\"zotero://open-pdf/library/items/C54D9E72\">Spaldin和Ramesh - 2019 - Advances in magnetoelectric multiferroics.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],

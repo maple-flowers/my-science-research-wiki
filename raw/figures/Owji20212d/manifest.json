@@ -1,12 +1,130 @@
 {
   "parent_key": "Owji20212d",
   "title": "Owji20212d",
-  "figures": [],
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Figure 1.    (a) TEM, (b) SEM, (c) EDX, (d) Raman, (e) FTIR, and (f) XRD analysis of G/GO.",
+      "page": "2",
+      "attachment_key": "98CHAIYT",
+      "file": "fig_1_98CHAIYT.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Figure 2.    (a) TEM, (b) SEM, (c) EDX, (d) Raman, (e) FTIR, and (f) XRD analysis of ­MoSe2.",
+      "page": "3",
+      "attachment_key": "85FTWFJ3",
+      "file": "fig_2_85FTWFJ3.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Figure 3.    (a) TEM, (b) SEM, (c) EDX, (d) Raman, (e) FTIR, and (f) XRD analysis of ­MoS2.",
+      "page": "4",
+      "attachment_key": "KCZ5KA3C",
+      "file": "fig_3_KCZ5KA3C.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Figure 4.   The SEM images of ESMF (a–c) and G/GO coated ESMF (d), ­MoSe2 coated ESMF (e), ­MoS2 coated  ESMF (f).",
+      "page": "5",
+      "attachment_key": "G28F63FH",
+      "file": "fig_4_G28F63FH.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Figure 5.   Schematic preparation of (a) optical fiber for humidity sensing and (b) the setup of the humidity  sensing experiment.",
+      "page": "5",
+      "attachment_key": "IRYG438B",
+      "file": "fig_5_IRYG438B.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Figure 6.   (a,b) RDA as a function of RH at room temperature with 1550 and 1310 nm wavelength for different  coating respectively.",
+      "page": "6",
+      "attachment_key": "BASLP7NW",
+      "file": "fig_6_BASLP7NW.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Figure 7.   Repeatability of RDA as a function of RH for G/GO in 1310 nm (a) and 1550 nm (c) wavelengths;  reversing and fitting curves to calculate RH formulation in 1310 nm (b) and 1550 nm (d) (dash-line curves are  rapid retest of line curves).",
+      "page": "7",
+      "attachment_key": "GRUWVRJD",
+      "file": "fig_7_GRUWVRJD.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "Figure 8.   Sensitivity of humidity sensors coated with (a) G/GO, (b) ­MoSe2 and (c) ­MoS2 in both 1310 nm (line  curves) and 1550 nm (dash-line curves) wavelengths.",
+      "page": "7",
+      "attachment_key": "RCK6WPNT",
+      "file": "fig_8_RCK6WPNT.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "9",
+      "title": "Figure 9",
+      "llm_description": "Figure 9.   Variance as a function of RH from average values of G/GO-based sensor in 1310 nm and 1550 nm  wavelengths.",
+      "page": "8",
+      "attachment_key": "NIKPV7TY",
+      "file": "fig_9_NIKPV7TY.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
   "tables": [
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|2D materials coated on etched optical fibers as humidity sensor|\n|短标题|涂覆在蚀刻光纤上的2D材料作为湿度传感器|\n|作者|[[Erfan Owji]]、 [[Hossein Mokhtari]]、 [[Fatemeh Ostovari]]、 [[Behnam Darazereshki]]、 [[Nazanin Shakiba]]|\n|期刊名称|[[Scientific Reports]]|\n|DOI|[10.1038/s41598-020-79563-w](https://doi.org/10.1038/s41598-020-79563-w)|\n|存档位置|61|\n|文库编目|4.9|\n|索书号|3|\n|版权||\n|分类|[[02_光纤湿度传感器 (Fiber Optic Sensors)]]|\n|条目链接|[My Library](zotero://select/library/items/WE6YU89S)|\n|PDF 附件||\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|2D materials coated on etched optical fibers as humidity sensor|\n|短标题|蚀刻光纤表面涂覆二维材料作为湿度传感器|\n|作者|[[Erfan Owji]]、 [[Hossein Mokhtari]]、 [[Fatemeh Ostovari]]、 [[Behnam Darazereshki]]、 [[Nazanin Shakiba]]|\n|期刊名称|[[Scientific Reports]]|\n|DOI|[10.1038/s41598-020-79563-w](https://doi.org/10.1038/s41598-020-79563-w)|\n|存档位置|61|\n|文库编目|4.9|\n|索书号|3|\n|版权||\n|分类|[[02_光纤湿度传感器 (Fiber Optic Sensors)]]|\n|条目链接|[My Library](zotero://select/library/items/WE6YU89S)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/EQY8MYMV)|\n|关联文献||",
       "page": "-"
     }
   ],

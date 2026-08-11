@@ -1,0 +1,128 @@
+{
+  "parent_key": "Unknown2003charge",
+  "title": "Unknown2003charge",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Figure 1. X-band EPR spectra (CHzCb/DMF) at 77 K (a) (BEDT-  TTF)1.5CuCl2. (b) (BEDT-TTF)1.5CuBr2.",
+      "page": "2",
+      "attachment_key": "PVI4APFY",
+      "file": "fig_1_PVI4APFY.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Figure 2. Temperature Dependence of Magnetic Susceptibility of  (BEDT-TTF)1.5CuCl2.",
+      "page": "3",
+      "attachment_key": "UB562FUX",
+      "file": "fig_2_UB562FUX.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1. EPR Parameters, Magnetic Properties, and Electrical Conductivities of (BEDT-TTF) 1.5CUX2\n\napeak to peak EPR linewidth (gauss). ”The exact g 丄 value of Cu(II) was not obtained due to the strong BEDT-TTF radical peak in the similar region.  cThe effective magnetic moment was calculated by “eff = 2.828(x • T)1/2 at room temperature. dThe electrical conductivity was obtained at room  temperature.",
+      "page": "3",
+      "attachment_key": "AJ7CFCDI",
+      "file": "tab_1_AJ7CFCDI.png"
+    },
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "Table 2. The Peak Potential Values (Ep, V) of (BEDT-TTF)1.5CuX2",
+      "page": "3",
+      "attachment_key": "D6DYHUT9",
+      "file": "tab_2_D6DYHUT9.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th>Compound</th>\n<th>EPR Cu(II) g⊥ (Δa)</th>\n<th>EPR Cu(II) g∥ (Δa)</th>\n<th>BEDT-TTF radical g (Δa)</th>\n<th>Curie-Weiss C (θ)</th>\n<th>μeff (BM)</th>\n<th>σ (S·cm⁻¹)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>~2.09 (23)</td>\n<td>2.390 (120)</td>\n<td>2.061 (16)</td>\n<td>0.39 (-0.9)</td>\n<td>1.26</td>\n<td>9.4 × 10⁻⁵</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>2.163 (15)</td>\n<td>2.480 (125)</td>\n<td>2.08 (5)</td>\n<td>0.53 (+0.9)</td>\n<td>1.22</td>\n<td>8.5 × 10⁻⁶</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th>化合物</th>\n<th>Cu(II) g⊥ (Δa)</th>\n<th>Cu(II) g∥ (Δa)</th>\n<th>BEDT-TTF 自由基 g (Δa)</th>\n<th>Curie-Weiss C (θ)</th>\n<th>μeff (BM)</th>\n<th>σ (S·cm⁻¹)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>~2.09 (23)</td>\n<td>2.390 (120)</td>\n<td>2.061 (16)</td>\n<td>0.39 (-0.9)</td>\n<td>1.26</td>\n<td>9.4 × 10⁻⁵</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>2.163 (15)</td>\n<td>2.480 (125)</td>\n<td>2.08 (5)</td>\n<td>0.53 (+0.9)</td>\n<td>1.22</td>\n<td>8.5 × 10⁻⁶</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th>Compounds</th>\n<th>BEDT-TTF Epc</th>\n<th>BEDT-TTF E1/2</th>\n<th>BEDT-TTF Epa</th>\n<th>BEDT-TTF process</th>\n<th>Cu Epc</th>\n<th>Cu E1/2</th>\n<th>Cu Epa</th>\n<th>Cu process</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>BEDT-TTF</td>\n<td>0.17</td>\n<td>0.20</td>\n<td>0.22</td>\n<td>ET+/ET</td>\n<td>0.29</td>\n<td>0.32</td>\n<td>0.35</td>\n<td>ET2+/ET+</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T4",
+      "title": "Table 4",
+      "content": "<table>\n<thead>\n<tr>\n<th>Compounds</th>\n<th>BEDT-TTF Epc</th>\n<th>BEDT-TTF E1/2</th>\n<th>BEDT-TTF Epa</th>\n<th>BEDT-TTF process</th>\n<th>Cu Epc</th>\n<th>Cu E1/2</th>\n<th>Cu Epa</th>\n<th>Cu process</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>BEDT-TTF</td>\n<td>0.17</td>\n<td>0.20</td>\n<td>0.22</td>\n<td>ET+/ET</td>\n<td>0.29</td>\n<td>0.32</td>\n<td>0.35</td>\n<td>ET2+/ET+</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>0.09</td>\n<td>0.12</td>\n<td>0.14</td>\n<td>ET+/ET</td>\n<td>-0.22</td>\n<td>0.04</td>\n<td>0.29</td>\n<td>Cu+/Cu</td>\n</tr>\n<tr>\n<td></td>\n<td>0.23</td>\n<td>0.25</td>\n<td>0.28</td>\n<td>ET2+/ET+</td>\n<td>0.54</td>\n<td>0.61</td>\n<td>0.67</td>\n<td>Cu2+/Cu+</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>0.09</td>\n<td>0.13</td>\n<td>0.16</td>\n<td>ET+/ET</td>\n<td>-0.16</td>\n<td>-0.06</td>\n<td>0.04</td>\n<td>Cu+/Cu</td>\n</tr>\n<tr>\n<td></td>\n<td>0.22</td>\n<td>0.24</td>\n<td>0.27</td>\n<td>ET2+/ET+</td>\n<td>0.52</td>\n<td>0.60</td>\n<td>0.67</td>\n<td>Cu2+/Cu+</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T5",
+      "title": "Table 5",
+      "content": "<table>\n<thead>\n<tr>\n<th>Compounds</th>\n<th>Process</th>\n<th>Epc (V)</th>\n<th>E1/2 (V)</th>\n<th>Epa (V)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>BEDT-TTF</td>\n<td>ET+/ET</td>\n<td>0.17</td>\n<td>0.20</td>\n<td>0.22</td>\n</tr>\n<tr>\n<td>BEDT-TTF</td>\n<td>ET2+/ET+</td>\n<td>0.29</td>\n<td>0.32</td>\n<td>0.35</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>ET+/ET</td>\n<td>0.09</td>\n<td>0.12</td>\n<td>0.14</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>Cu+/Cu</td>\n<td>-0.22</td>\n<td>0.04</td>\n<td>0.29</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>ET2+/ET+</td>\n<td>0.23</td>\n<td>0.25</td>\n<td>0.28</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>Cu2+/Cu+</td>\n<td>0.54</td>\n<td>0.61</td>\n<td>0.67</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>ET+/ET</td>\n<td>0.09</td>\n<td>0.13</td>\n<td>0.16</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>Cu+/Cu</td>\n<td>-0.16</td>\n<td>-0.06</td>\n<td>0.04</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>ET2+/ET+</td>\n<td>0.22</td>\n<td>0.24</td>\n<td>0.27</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>Cu2+/Cu+</td>\n<td>0.52</td>\n<td>0.60</td>\n<td>0.67</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T6",
+      "title": "Table 6",
+      "content": "<table>\n<thead>\n<tr>\n<th>Compounds</th>\n<th>Process</th>\n<th>Epc (V)</th>\n<th>E1/2 (V)</th>\n<th>Epa (V)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>BEDT-TTF</td>\n<td>ET+/ET</td>\n<td>0.17</td>\n<td>0.20</td>\n<td>0.22</td>\n</tr>\n<tr>\n<td>BEDT-TTF</td>\n<td>ET2+/ET+</td>\n<td>0.29</td>\n<td>0.32</td>\n<td>0.35</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>ET+/ET</td>\n<td>0.09</td>\n<td>0.12</td>\n<td>0.14</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>Cu+/Cu</td>\n<td>-0.22</td>\n<td>0.04</td>\n<td>0.29</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>ET2+/ET+</td>\n<td>0.23</td>\n<td>0.25</td>\n<td>0.28</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>Cu2+/Cu+</td>\n<td>0.54</td>\n<td>0.61</td>\n<td>0.67</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>ET+/ET</td>\n<td>0.09</td>\n<td>0.13</td>\n<td>0.16</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>Cu+/Cu</td>\n<td>-0.16</td>\n<td>-0.06</td>\n<td>0.04</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>ET2+/ET+</td>\n<td>0.22</td>\n<td>0.24</td>\n<td>0.27</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>Cu2+/Cu+</td>\n<td>0.52</td>\n<td>0.60</td>\n<td>0.67</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T7",
+      "title": "Table 7",
+      "content": "<table>\n<thead>\n<tr>\n<th>化合物</th>\n<th>过程</th>\n<th>Epc (V)</th>\n<th>E1/2 (V)</th>\n<th>Epa (V)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>BEDT-TTF</td>\n<td>ET+/ET</td>\n<td>0.17</td>\n<td>0.20</td>\n<td>0.22</td>\n</tr>\n<tr>\n<td>BEDT-TTF</td>\n<td>ET2+/ET+</td>\n<td>0.29</td>\n<td>0.32</td>\n<td>0.35</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>ET+/ET</td>\n<td>0.09</td>\n<td>0.12</td>\n<td>0.14</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>Cu+/Cu</td>\n<td>-0.22</td>\n<td>0.04</td>\n<td>0.29</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>ET2+/ET+</td>\n<td>0.23</td>\n<td>0.25</td>\n<td>0.28</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>Cu2+/Cu+</td>\n<td>0.54</td>\n<td>0.61</td>\n<td>0.67</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>ET+/ET</td>\n<td>0.09</td>\n<td>0.13</td>\n<td>0.16</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>Cu+/Cu</td>\n<td>-0.16</td>\n<td>-0.06</td>\n<td>0.04</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>ET2+/ET+</td>\n<td>0.22</td>\n<td>0.24</td>\n<td>0.27</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>Cu2+/Cu+</td>\n<td>0.52</td>\n<td>0.60</td>\n<td>0.67</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T8",
+      "title": "Table 8",
+      "content": "<table>\n<thead>\n<tr>\n<th>Compounds</th>\n<th>Cu(II) g⊥ (Δa)</th>\n<th>Cu(II) g∥ (Δa)</th>\n<th>BEDT-TTF radical g (Δa)</th>\n<th>Curie-Weiss C (θ)</th>\n<th>μeff (BM)</th>\n<th>σ (S·cm⁻¹)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>~2.09 (23)</td>\n<td>2.390 (120)</td>\n<td>2.061 (16)</td>\n<td>0.39 (-0.9)</td>\n<td>1.26</td>\n<td>9.4 × 10⁻⁵</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>2.163 (15)</td>\n<td>2.480 (125)</td>\n<td>2.08 (5)</td>\n<td>0.53 (+0.9)</td>\n<td>1.22</td>\n<td>8.5 × 10⁻⁶</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T9",
+      "title": "Table 9",
+      "content": "<table>\n<thead>\n<tr>\n<th>化合物</th>\n<th>Cu(II) g⊥ (Δa)</th>\n<th>Cu(II) g∥ (Δa)</th>\n<th>BEDT-TTF 自由基 g (Δa)</th>\n<th>Curie-Weiss C (θ)</th>\n<th>μeff (BM)</th>\n<th>σ (S·cm⁻¹)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>~2.09 (23)</td>\n<td>2.390 (120)</td>\n<td>2.061 (16)</td>\n<td>0.39 (-0.9)</td>\n<td>1.26</td>\n<td>9.4 × 10⁻⁵</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>2.163 (15)</td>\n<td>2.480 (125)</td>\n<td>2.08 (5)</td>\n<td>0.53 (+0.9)</td>\n<td>1.22</td>\n<td>8.5 × 10⁻⁶</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T10",
+      "title": "Table 10",
+      "content": "<table>\n<thead>\n<tr>\n<th>Compounds</th>\n<th>Process</th>\n<th>Epc (V)</th>\n<th>E1/2 (V)</th>\n<th>Epa (V)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>BEDT-TTF</td>\n<td>ET+/ET</td>\n<td>0.17</td>\n<td>0.20</td>\n<td>0.22</td>\n</tr>\n<tr>\n<td>BEDT-TTF</td>\n<td>ET2+/ET+</td>\n<td>0.29</td>\n<td>0.32</td>\n<td>0.35</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>ET+/ET</td>\n<td>0.09</td>\n<td>0.12</td>\n<td>0.14</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>Cu+/Cu</td>\n<td>-0.22</td>\n<td>0.04</td>\n<td>0.29</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>ET2+/ET+</td>\n<td>0.23</td>\n<td>0.25</td>\n<td>0.28</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>Cu2+/Cu+</td>\n<td>0.54</td>\n<td>0.61</td>\n<td>0.67</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>ET+/ET</td>\n<td>0.09</td>\n<td>0.13</td>\n<td>0.16</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>Cu+/Cu</td>\n<td>-0.16</td>\n<td>-0.06</td>\n<td>0.04</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>ET2+/ET+</td>\n<td>0.22</td>\n<td>0.24</td>\n<td>0.27</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>Cu2+/Cu+</td>\n<td>0.52</td>\n<td>0.60</td>\n<td>0.67</td>\n</tr>\n<tr>\n<td><strong>表2. (BEDT-TTF)1.5CuX2的峰电位值 (Ep, V)</strong></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T11",
+      "title": "Table 11",
+      "content": "<table>\n<thead>\n<tr>\n<th>化合物</th>\n<th>过程</th>\n<th>Epc (V)</th>\n<th>E1/2 (V)</th>\n<th>Epa (V)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>BEDT-TTF</td>\n<td>ET+/ET</td>\n<td>0.17</td>\n<td>0.20</td>\n<td>0.22</td>\n</tr>\n<tr>\n<td>BEDT-TTF</td>\n<td>ET2+/ET+</td>\n<td>0.29</td>\n<td>0.32</td>\n<td>0.35</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>ET+/ET</td>\n<td>0.09</td>\n<td>0.12</td>\n<td>0.14</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>Cu+/Cu</td>\n<td>-0.22</td>\n<td>0.04</td>\n<td>0.29</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>ET2+/ET+</td>\n<td>0.23</td>\n<td>0.25</td>\n<td>0.28</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuCl2</td>\n<td>Cu2+/Cu+</td>\n<td>0.54</td>\n<td>0.61</td>\n<td>0.67</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>ET+/ET</td>\n<td>0.09</td>\n<td>0.13</td>\n<td>0.16</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>Cu+/Cu</td>\n<td>-0.16</td>\n<td>-0.06</td>\n<td>0.04</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>ET2+/ET+</td>\n<td>0.22</td>\n<td>0.24</td>\n<td>0.27</td>\n</tr>\n<tr>\n<td>(BEDT-TTF)1.5CuBr2</td>\n<td>Cu2+/Cu+</td>\n<td>0.52</td>\n<td>0.60</td>\n<td>0.67</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Bis(ethylenedithio)tetrathiafulvalene (BEDT-TTF) Charge Transfer Compounds with Copper(II) Halides: (BEDT-TTF)<sub>1.5</sub>CuX<sub>2</sub>(X=Cl, Br)|\n|短标题|含铜（II）卤化物的双（亚乙基二硫代）四硫富瓦烯（BEDT-TTF）电荷转移化合物：（BEDT-TTF）<|\n|作者|[[ Kim, Young-Inn]]|\n|期刊名称|[[Bulletin of the Korean Chemical Society]]|\n|DOI|[10.5012/bkcs.2003.24.9.1389](https://doi.org/10.5012/bkcs.2003.24.9.1389)|\n|存档位置|3|\n|文库编目|3.1|\n|索书号|3|\n|版权||\n|分类|[[08_BEDT-TTF Derivatives]]|\n|条目链接|[My Library](zotero://select/library/items/GMXIW3WJ)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/CACYUEGT)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

@@ -1,0 +1,161 @@
+{
+  "parent_key": "songEvidenceSinglelayerVan2022",
+  "title": "songEvidenceSinglelayerVan2022",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Extended Data Figure 1. X-ray and electron diffraction of NiI2 crystals. a, X-ray diffraction of a CVT-grown NiI2 single crystal along the c-axis. b, X-ray powder diffraction of CVT-grown NiI2. c, An optical image of a 7 nm PVD grown NiI2 flake transferred onto a SiNx membrane. d, The electron diffraction pattern of the PVD grown NiI2 flake shown in c, using a transmission electron microscope.",
+      "page": "13",
+      "attachment_key": "GZQKY2GB",
+      "file": "fig_1_GZQKY2GB.png",
+      "tags": [
+        "unread",
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "10",
+      "title": "Figure 10",
+      "llm_description": "Extended Data Figure 10. Atomic Force Microscopy and additional polarization rotation measurements on few-layer NiI2 crystals. a-c, Wide-field optical images of one- to four-layer NiI2 samples used in the optical measurements. d-h, Corresponding AFM maps of the region shown in the optical images. b-f, Temperature dependent polarization rotation measurements on one- to four-layer samples in different domain regions.",
+      "page": "22",
+      "attachment_key": "7P9LSDK9",
+      "file": "fig_10_7P9LSDK9.png",
+      "tags": [
+        "unread",
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Extended Data Figure 2. Linear dichroism and birefringence-induced polarization rotation measurements in bulk NiI2. a, Polarized microscopy image of bulk NiI2. The positions where the optical measurements were performed are labelled as Domain I-III. b, Comparison of the temperature-dependent birefringence-induced polarization rotation (top) and linear dichroism (bottom) on Domain I. c, Angular-dependent linear dichroism measurements from the three distinct domains identified in a. Radial lines i",
+      "page": "14",
+      "attachment_key": "CKHGZI78",
+      "file": "fig_2_CKHGZI78.png",
+      "tags": [
+        "unread",
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Extended Data Figure 3. Wavelength-dependent Second Harmonic Generation of NiI2. Rotational anisotropy SHG (RA-SHG), fits to nonlinear tensor elements and their temperature dependence on a single domain CVT grown bulk NiI2 using a-c, 826 nm laser, and d-f, 991 nm laser. The RA-SHG traces obtained with 826 nm can only be fit with a combination of electric dipole (ED) and magnetic dipole (MD) radiation, whereas the RA-SHG traces obtained with 991 nm only exhibit ED component. g, h, RA-SHG on PVD g",
+      "page": "15",
+      "attachment_key": "ZTPW73ZE",
+      "file": "fig_3_ZTPW73ZE.png",
+      "tags": [
+        "unread",
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Extended Data Figure 4. Temperature-dependent polarized Raman spectra of bulk NiI2. a, Raman data in the cross-polarized XY channel from 30 K to 300 K. b, Comparison of the cross-polarized (XY) and parallel-polarized (XX) channels at high and low temperature. c, Circularly polarized Raman spectra at 30 K on domain I and domain II regions for σ+/σ−incident polarization (top) and the net ROA (σ+ −σ−) (bottom).",
+      "page": "16",
+      "attachment_key": "8NRPR6W3",
+      "file": "fig_4_8NRPR6W3.png",
+      "tags": [
+        "unread",
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Extended Data Figure 5. Angular Resolved Polarized Raman Spectroscopy (ARPRS) in cross-polarized (XY) configuration. a, b, The ARPRS polar plots of the 31 cm−1 and 37 cm−1 modes appearing in the multiferroic phase. Neither agrees with a pure phonon or magnon mode, suggesting they may be consistent with electromagnons. c, d, The 80 cm−1 peak is composed of two phonons below TN,2, one at 79.9 cm−1 and the other at 80.2 cm−1. These closely-spaced phonon modes display out-of-phase modulation with re",
+      "page": "17",
+      "attachment_key": "SVSUQPWV",
+      "file": "fig_5_SVSUQPWV.png",
+      "tags": [
+        "unread",
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Extended Data Figure 6. Bulk photovoltaic effect (BPE) in bulk NiI2. a, Optical image of the PBE device. A PVD grown bulk-like NiI2 flake was transferred across a sapphire gap, bridging two gold pads as electrodes. The electric field was applied between the electrodes and in a direction nearly parallel to the a-axis, while the magnetic field was applied perpendicular to the electric field in plane. b, The electric field dependence of the photocurrent at 30 K, in the multiferroic phase and at 100",
+      "page": "18",
+      "attachment_key": "9VZVGC5P",
+      "file": "fig_6_9VZVGC5P.png",
+      "tags": [
+        "unread",
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Extended Data Figure 7. Cross-polarization images of the bulk, 1- and 2-layer NiI2. Temperature-dependent histogram plots of the polarization contrast images for a bulk, c, 1-layer region and e, 2-layer region. The upper-left images in b, d, f show optical images of bulk, 1- and 2-layer NiI2 flakes, respectively. Subsequent images depict the temperature-dependent polarization contrast images for key temperatures. The raw cross-polarization images at various temperatures across the multiferroic t",
+      "page": "19",
+      "attachment_key": "DFMYEJSV",
+      "file": "fig_7_DFMYEJSV.png",
+      "tags": [
+        "unread",
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "Extended Data Figure 8. Temperature dependent Second Harmonic Generation imaging of the single-layer NiI2 crystals. a, b, Optical images of the region where the SHG imaging was performed. c, Integrated SHG counts on three single-layer NiI2 crystals show a transition around 20 K, which is consistent with the polarization rotation measurement. d, Temperature dependent SHG imaging of the rectangular region in a using 780 nm excitation. e, Temperature dependent SHG imaging of the region in b using 9",
+      "page": "20",
+      "attachment_key": "WKNSHMS2",
+      "file": "fig_8_WKNSHMS2.png",
+      "tags": [
+        "unread",
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "9",
+      "title": "Figure 9",
+      "llm_description": "Extended Data Figure 9. Temperature dependent Raman Spectroscopy of two- and three-layer NiI2 in cross-polarized (XY) configuration The soft modes at around 38 cm−1 in a, 2-layer and b, 3-layer built up below 25 K and 35 K respectively, which are consistent with the transition temperature measured from polarization rotation and SHG.",
+      "page": "21",
+      "attachment_key": "VF7LAEDU",
+      "file": "fig_9_VF7LAEDU.png",
+      "tags": [
+        "unread",
+        "Done"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Evidence for a single-layer van der Waals multiferroic|\n|短标题|单层范德华多铁性的证据|\n|作者|[[Qian Song]]、 [[Connor A. Occhialini]]、 [[Emre Ergeçen]]、 [[Batyr Ilyas]]、 [[Danila Amoroso]]、 [[Paolo Barone]]、 [[Jesse Kapeghian]]、 [[Kenji Watanabe]]、 [[Takashi Taniguchi]]、 [[Antia S. Botana]]、 [[Silvia Picozzi]]、 [[Nuh Gedik]]、 [[Riccardo Comin]]|\n|期刊名称|[[Nature]]|\n|DOI|[10.1038/s41586-021-04337-x](https://doi.org/10.1038/s41586-021-04337-x)|\n|存档位置|351|\n|文库编目|48.5|\n|索书号|1|\n|版权||\n|分类|[[10_Van der Waals Physics]]、[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/DGY8QFB7)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/YSYUDUHA\">Song 等 - 2022 - Evidence for a single-layer van der Waals multiferroic</a></li><li><a href=\"zotero://open-pdf/library/items/A6VIUUJ8\">Song 等 - 2022 - Evidence for a single-layer van der Waals multiferroic.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/GKWKZW7Z\">Song 等 - 2022 - Evidence for a single-layer van der Waals multiferroic.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread",
+    "Done"
+  ],
+  "materials": [],
+  "methods": []
+}

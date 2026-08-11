@@ -1,0 +1,85 @@
+{
+  "parent_key": "kawakamiChargedensityWaveAssociated2023",
+  "title": "kawakamiChargedensityWaveAssociated2023",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1 Fabrication of monolayer VS2 film by combining MBE and topotactic reaction. a Schematics of topotactic growth procedure for monolayer 1T-VS2 film. b, c RHEED patterns of VTe2 and VS2 films on bilayer (BL) graphene, respectively. d Direct comparison of RHEED intensity profiles between VTe2 and VS2. e Photoemission spectrum in wide EB range of monolayer VS2 measured with hν = 250 eV. Inset shows the comparison around the Te-4d core levels between VTe2 and VS2. f Constant current STM image o",
+      "page": "2",
+      "attachment_key": "6T5AGUJF",
+      "file": "fig_1_6T5AGUJF.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2 Band structure of monolayer VTe2 and VS2. a, b ARPES-intensity plots of monolayer VTe2 and VS2 films, respectively, measured along the KΓΜ cut at T = 40 K. c, d Same as (a) and (b), but expanded around EF. Dashed curves in (a–d) are a guide for the eyes to trace the band dispersion. e Calculated band structure of monolayer 1T-VS2 obtained with first-principles band calculations. Note that the overall intensity profile of VS2 seems more diffuse than that of VTe2, likely due to the increase",
+      "page": "3",
+      "attachment_key": "6CWHPRW4",
+      "file": "fig_2_6CWHPRW4.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3 CDW-gap opening on the entire Fermi surface. a Plots of ARPES intensity as a function of 2D wave vector at representative EB’s for monolayer VS2. Red solid curves indicate the calculated FS for monolayer 1T-VS2. kx and ky are defined according to the BZ of BL graphene. Black solid lines represent the BZ of monolayer VS2. b1–b5 ARPES-intensity plots as a function of the wave vector and EB, measured at T = 40 K along representative k cuts shown by red dashed lines in (a) (cuts 1–5). c Calcu",
+      "page": "4",
+      "attachment_key": "NBFRXLHF",
+      "file": "fig_3_NBFRXLHF.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "MK cut in Fig. 4f. Corresponding ARPES intensity shown in Fig. 4g also signifies the spectral-weight suppression near EF. To clarify the influence of CDW on the ARPES intensity in more detail, we compare in Fig. 4h, i the calculated spectral weight in the CDW phase with the ARPES intensity at T = 40 K along the KΓM cut. Although the bandwidth of the topmost V 3d band is smaller in the experiment due to the mass-renormalization effect associated with the electron correlation, the overall ARPES in",
+      "page": "5",
+      "attachment_key": "Q95L96M2",
+      "file": "fig_4_Q95L96M2.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5 Schematics of FS-nesting condition. a–c Calculated FS (red solid curves) and its shifted replicas (blue broken lines) that take into account the nesting vector q = g2, g1, and 2g1, respectively. g1 and g2 vectors are indicated by black solid arrows. Nesting vectors with positive and negative signs are indicated by blue solid and blue dashed arrows, respectively. FS segments where the original and shifted FSs overlap are indicated by orange circles and orange shades. d Schematics of nested",
+      "page": "7",
+      "attachment_key": "24Y68D7B",
+      "file": "fig_5_24Y68D7B.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Charge-density wave associated with higher-order Fermi-surface nesting in monolayer VS2|\n|短标题|单层VS2中与高阶费米表面嵌套相关的电荷密度波|\n|作者|[[Tappei Kawakami]]、 [[Katsuaki Sugawara]]、 [[Hirofumi Oka]]、 [[Kosuke Nakayama]]、 [[Ken Yaegashi]]、 [[Seigo Souma]]、 [[Takashi Takahashi]]、 [[Tomoteru Fukumura]]、 [[Takafumi Sato]]|\n|期刊名称|[[npj 2D Materials and Applications]]|\n|DOI|[10.1038/s41699-023-00395-z](https://doi.org/10.1038/s41699-023-00395-z)|\n|存档位置|13|\n|文库编目|9.2|\n|索书号|2|\n|版权||\n|分类|[[01_费米面嵌套理论 (Fermi Surface Nesting)]]|\n|条目链接|[My Library](zotero://select/library/items/8GZ9G9YK)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/6C5XNRJP)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

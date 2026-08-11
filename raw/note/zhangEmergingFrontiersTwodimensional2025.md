@@ -58,9 +58,9 @@
 > callNumber:: 2
 > JCRQ:: Q1
 > rights:: 
-> extra:: 🏷️ 🤖️、📒、/Done JCR分区：Q1 中科院分区升级版：材料科学2区 影响因子：9.2 5年影响因子：11.6 EI：是 南农高质量：A
+> extra:: 🏷️ 📒、/Done、🤖️
 > collection:: [[03_二维铁电与滑动铁电 (2D/Sliding Ferroelectricity)]]
-> tags:: #Done
+> tags:: #Done #🤖️
 > related:: [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]
 > itemLink:: [My Library](zotero://select/library/items/2W6V8X6T)
 > pdfLink:: [PDF](zotero://open-pdf/library/items/2BCW36F4)
@@ -69,8 +69,8 @@
 > dateY:: 2025
 > dateAdded:: 2026-08-04
 > datetimeAdded:: 2026-08-04 12:06:32
-> dateModified:: 2026-08-10
-> datetimeModified:: 2026-08-10 20:57:32
+> dateModified:: 2026-08-11
+> datetimeModified:: 2026-08-11 07:01:04
 > 
 > abstract:: 
 
@@ -85,14 +85,14 @@
 
 > [!inbox]- <center>📫 导入时间</center>
 >
->⏰ importDate:: 2026-08-10
->⏰ importDateTime:: 2026-08-10 17:55:48
+>⏰ importDate:: 2026-08-11
+>⏰ importDateTime:: 2026-08-11 07:01:03
 
 %--------------ω--------------%
 
 
 
-## <span style="color: rgb(0, 174, 137);">🤖️ AI 文献解读</span>
+## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span>
 
 > 🚀 [笔记回链](zotero://select/library/items/C373PYHL)
 
@@ -100,414 +100,1225 @@
 
 > <span class="AIReading">🤖 AI 解读，快人一步</span>
 > 
-> > **Defining the Analysis Role**
+> > 嗯，用户要求我作为学术文献深度解读专家，对一篇关于二维滑动铁电性的前沿展望文章进行结构化解读。用户提供了非常详细的角色定位、核心能力、格式规范和执行流程，我需要严格遵循这些要求。
 > > 
-> > I'm now clarifying my role as a structured interpreter and knowledge provider, specifically focusing on academic literature. I'm prioritizing service in Chinese to align with the user's needs. The paper "Emerging frontiers in two-dimensional sliding ferroelectrics" will be the focus.
+> > 这篇文献是一篇Perspective文章，内容比较专业。我需要先快速浏览全文，理解其核心主题和研究框架。文章主要围绕“滑动铁电性”这一新兴概念展开，涵盖了材料体系、工程策略、微观机制、器件应用和未来挑战。
 > > 
-> > **Establishing the Framework**
+> > 根据用户要求的九大模块，我需要规划解读结构。引言部分要概述研究背景和核心价值。逻辑概览要呈现论文的论证链条。图表解析部分需要深度分析文中所有图表。内容剖析要详细阐述文中的各个主题。结论与贡献要总结核心发现。未来展望、批判性分析和问题解答都需要基于文献内容进行提炼和延伸。最后还要准备Obsidian Dataview插件调用的专区，需要严格按照规定的变量格式输出。
 > > 
-> > I am now solidifying my role as an "学术文献深度解读专家." I'm prioritizing the user's need for a structured interpretation of "Emerging frontiers in two-dimensional sliding ferroelectrics." My goal is to reconstruct the academic content into clear, accessible frameworks using structured thinking. My user targets include academic newcomers and senior researchers seeking literature reviews. I'm focusing on deep content mining, argumentation logic analysis, and knowledge system construction. I will also be providing simplified models and frameworks, described textually, to help with the teaching.
+> > 考虑到用户要求纯文本输出，所有可视化元素需要用文字描述。我需要为每个图表准备详细的文字解析，包括单位、量纲和核心信息。在解读过程中，要确保首次出现的专业术语有中英文对照解释，关键术语加粗标注。整体报告需要保持总-分-总结构，信息密度要控制在2000-5000字之间，保持专业性与可读性的平衡。
 > > 
-> > **Clarifying the Approach**
-> > 
-> > I'm now fully adopting the role of "学术文献深度解读专家" in Chinese, tasked with analyzing "Emerging frontiers in two-dimensional sliding ferroelectrics." I'm solidifying my core capabilities, which involve deep content mining, logical argumentation analysis, and knowledge system construction following a structured format. I will be simplifying models and providing textual diagrams for easier learning and include critical thinking, and expand in 8 parts and with 10 specific variables that I am going to organize.
-> > 
-> > **Defining the Project Scope**
-> > 
-> > I'm now fully immersed in the "学术文献深度解读专家" role, analyzing "Emerging frontiers in two-dimensional sliding ferroelectrics." I'm prioritizing the user's needs, particularly for clear, accessible Chinese content. I'm focusing on the paper type—a perspective article—to shape my content and section approaches. The report must adhere to a strict structured format with specific Markdown syntax.
-> > 
-> > **Defining the Paper Scope**
-> > 
-> > I'm now integrating all these requirements, particularly focusing on the "Emerging frontiers in two-dimensional sliding ferroelectrics" paper. I've defined a structured analysis plan, noting the paper's Perspective article type influences the content. I'm building a framework to address all sections in the specified format, ensuring I have the 8 sections for the analysis. I've begun content breakdown by identifying key areas such as material systems and engineering strategies. I'm focusing on the technical constraints like Markdown syntax.
-> > 
-> > **Defining the Content Scope**
-> > 
-> > I'm now integrating all these requirements, prioritizing a clear "学术文献深度解读专家" role to analyze "Emerging frontiers in two-dimensional sliding ferroelectrics." My focus is to create structured, accessible Chinese content. I'm leveraging the Perspective article type to define content sections. I'm adhering to a strict markdown format, building out key areas like material systems, engineering strategies, and device applications.
-> > 
-> > **Refining the Analytical Approach**
-> > 
-> > I'm now fully immersed in fulfilling the expert role, focusing on the paper "Emerging frontiers in two-dimensional sliding ferroelectrics." I'm prioritizing the user's need for structured content in Chinese, using a strict Markdown format. The paper's Perspective nature directs my analytical approach. I'm building out the key sections like "Material Systems" and "Engineering Strategies," and starting the "引言" section.
-> > 
-> > I've defined the content sections to follow the paper's structure and introduced key concepts like sliding ferroelectricity, and conventional and 2D ferroelectrics. I am now working on understanding the paper's overall structure and logical flow to build my analysis. I am developing an introduction (引言) that sets the stage for conventional and 2D ferroelectrics. I also started building a framework to outline the paper's structure (结构概览).
-> > 
-> > **Analyzing the Current Structure**
-> > 
-> > I'm now diving into the paper's structure and logical flow to build my "结构概览" section, translating and interpreting each part. I'm focusing on defining the key areas, including "滑动铁电材料" and the engineering strategies discussed. I'm now completing a full review of the "引言" (Introduction) section and preparing to analyze the detailed sections.
-> > 
-> > **Analyzing the Structural Overview**
-> > 
-> > I'm now deeply engaged in crafting the "论文结构与逻辑概览" section. I'm focusing on translating and interpreting each part of the paper. I'm defining key terms like "滑动铁电材料" and the engineering approaches. I am now completing the full review of the "引言" (Introduction) and preparing to analyze the sections.
-> > 
-> > **Analyzing the Framework**
-> > 
-> > I am now structuring the comprehensive analysis of the "Emerging frontiers in two-dimensional sliding ferroelectrics" paper, focusing on reconstructing it in a clear format. I have defined the core sections like "引言," "论文结构与逻辑概览," and "图表深度解析," and started populating their content. I'm focusing on defining the key areas, including "滑动铁电材料" and the engineering strategies discussed.
-> > 
-> > **Refining the Analysis Process**
-> > 
-> > I'm now deeply immersed in reconstructing the paper "Emerging frontiers in two-dimensional sliding ferroelectrics." I've finalized my format, following the strict Markdown syntax, and established an organized analysis plan. I'm focusing on "滑动铁电性" and building out the report sections, like "引言," and "论文结构与逻辑概览," with detailed and structured content. I'm also starting the analysis of the first figures and I have provided the initial content in the structure.
-> > 
-> > **Refining the Content Plan**
-> > 
-> > I'm now streamlining my plan, focusing on reconstructing "Emerging frontiers in two-dimensional sliding ferroelectrics." I have solidified the Markdown structure, organizing my report into key sections. I'm focusing on "引言," and "论文结构与逻辑概览," as well as "图表深度解析," with deep content mining and detailed structural analyses. I'm prioritizing accuracy and clarity.
-> > 
-> > **Analyzing the Research Framework**
-> > 
-> > I'm now establishing a structured framework for analyzing "Emerging frontiers in two-dimensional sliding ferroelectrics," prioritizing a clear Chinese presentation. I've begun organizing the paper into the required sections and building detailed descriptions for each component, including “引言” (Introduction) and “论文结构与逻辑概览” (Structural Overview). I’m following the markdown syntax strictly.
-> > 
-> > **Structuring the Report**
-> > 
-> > I'm now structuring my work according to the defined 8 sections and prioritizing the markdown syntax. I have expanded content for “引言” and "论文结构与逻辑概览" with focused content to ensure high clarity. I'm building out the "图表深度解析" (figure analysis) and am using the specific format required for the figures.
-> > 
-> > **Analyzing the Report Framework**
-> > 
-> > I am now structuring the paper analysis, following the defined 8-section framework and markdown syntax. I have completed the introduction and overview sections. I'm focusing on "图表深度解析" (figure analysis) and will use the structured format for the figures and their detailed components.
-> > 
-> > **Analyzing the Report**
-> > 
-> > I'm now focusing on completing the paper analysis report, which follows the 8-section Markdown format I've defined. I've completed the introduction and overview sections. I'm prioritizing the "图表深度解析" (figure analysis), ensuring the format for figures and detailed components is structured, and using markdown to display the content.
-> > 
-> > **Analyzing the Report Development**
-> > 
-> > I am now deeply focused on the detailed figure analysis section, ensuring all visualizations are thoroughly described using Markdown. I'm building out the "图表深度解析" section with all components. I'm also ensuring the content is structured and the material is well-organized. I am analyzing and translating the paper's figures.
-> > 
-> > **Analyzing the Review Structure**
-> > 
-> > I'm now building out the core content, and I am focusing on the "引言," "论文结构与逻辑概览," and "图表深度解析" sections. I'm focusing on "滑动铁电材料" and the engineering approaches discussed and I will include the figures into a descriptive, analytical framework. I'm now completing a full review of the "引言" (Introduction) and preparing to analyze the detailed sections with the figures.
-> > 
-> > **Analyzing the Process Flow**
-> > 
-> > I'm now focusing on completing the paper report by defining each section's content and ensuring a clear and structured Chinese presentation, following the Markdown syntax. I'm focusing on "图表深度解析" (figure analysis) for a clear structure. I'm also preparing for the conclusions section.
-> > 
-> > **Developing the Analytical Structure**
-> > 
-> > I'm now building up the "图表深度解析" section with all components and detailed analysis, and ensuring accurate translations. I am working on the analysis of the paper figures and building content for the conclusion section. I'm focusing on "滑动铁电材料" and organizing the structure.
-> > 
-> > **Refining the Report's Analysis**
-> > 
-> > I've significantly expanded the "图表深度解析" section with detailed figure descriptions. Now, I am analyzing content for the conclusion section, ensuring accurate and structured content. I am now working on understanding how these components affect the analysis.
-> > 
-> > **Developing the Content Framework**
-> > 
-> > I'm now building out the sections, focusing on the core content from the "Emerging frontiers in two-dimensional sliding ferroelectrics" paper. I'm focusing on "图表深度解析" (figure analysis) and will be organizing the content for the "结论与贡献" section, as well.
-> > 
-> > **Analyzing the Report Construction**
-> > 
-> > I'm now building up the "结论与贡献" section, aiming to summarize the key findings and contributions, as well as looking at future research directions. I'm focusing on "滑动铁电材料" in the context of the structure. I'm building out the section.
-> > 
-> > **Analyzing the Report Construction**
-> > 
-> > I'm now building out the "结论与贡献" and "未来发展方向展望" sections, synthesizing key findings, contributions and focusing on future research. I'm building out the sections, and structuring the "滑动铁电材料" insights for detailed analysis and clear descriptions for the reader.
-> > 
-> > **Refining the Analysis Process**
-> > 
-> > I'm now consolidating the structured Markdown report format, ensuring the 8-section breakdown aligns with the paper's content, focusing on accuracy in the analysis. I'm prioritizing building detailed figure analysis in the markdown structure and the key areas. I've begun working on the structure for the conclusion section.
-> > 
-> > **Analyzing the Report Construction**
-> > 
-> > I'm now building out the "结论与贡献" and "未来发展方向展望" sections, synthesizing key findings and contributions. I'm focusing on "滑动铁电材料" insights for detailed analysis and clear descriptions for readers. I am preparing the 10 specific variables with `::` format.
-> > 
-> > **Analyzing the Report Construction**
-> > 
-> > I'm now focused on completing the analysis. I am building the "结论与贡献" and "未来发展方向展望" sections by synthesizing all findings and contributions. I am organizing "滑动铁电材料" insights for clear presentation, aiming for detailed analysis and reader-friendly descriptions. I'm also ready with 10 variables in the requested format.
-> > 
-> > **Constructing the Report Content**
-> > 
-> > I'm now deeply engrossed in constructing the 8 report sections in markdown. I'm focusing on "图表深度解析" by analyzing figure content and using markdown syntax, and analyzing the section for "未来发展方向展望." I am planning to complete the "结论与贡献" by making a high-quality summary.
-> > 
-> > **Analyzing the Report Construction**
-> > 
-> > I'm now integrating the last details of the paper into an 8-section, markdown report, with an emphasis on clarity. I'm finishing the analysis of figures, and defining the 10 variables in the required format. The "结论与贡献" and "未来发展方向展望" sections are almost ready.
-> > 
-> > **Analyzing the Process Flow**
-> > 
-> > I'm now fully immersed in developing the detailed "图表深度解析" section with all components and analysis. I will finalize and translate the paper's figures. I'm focusing on "滑动铁电材料" and how I can construct clear content and prepare the conclusion.
-> > 
-> > **Developing the Final Overview**
-> > 
-> > I'm now putting the finishing touches on the report, particularly the last few sections. I'm focusing on "图表深度解析" by analyzing figure content and using markdown syntax, preparing the "结论与贡献" section. I will be finishing this by analyzing the paper's key insights and writing a summary of the most important aspects.
-> > 
-> > **Analyzing the Final Analysis**
-> > 
-> > I'm now putting the finishing touches on the report, particularly the last few sections. I'm focusing on "图表深度解析" by analyzing figure content and using markdown syntax, preparing the "结论与贡献" section. I will finalize and translate the paper's key insights. I am ready to submit the analysis.
-> > 
-> > **Analyzing the Report Construction**
-> > 
-> > I'm now deeply involved in completing my analysis report, ensuring all content sections are detailed and structured, adhering strictly to Markdown. I am working on the "图表深度解析" (figure analysis) and will be synthesizing and organizing "结论与贡献," ensuring clear and understandable Chinese. I will be ready with the 10 specified variables, formatted as requested.
-> > 
-> > **Refining the Analysis Process**
-> > 
-> > I'm now reorganizing the report using the precise 8-section Markdown structure, and prioritizing detailed figure analysis and clear Chinese content. I am now working on the "结论与贡献" section, as well as the 10 defined variables, which I will format accordingly.
-> > 
-> > **Analyzing the Analytical Process**
-> > 
-> > I've defined the report sections, prioritizing an 8-section Markdown format to analyze "Emerging frontiers in two-dimensional sliding ferroelectrics." I'm now completing the overview sections, prioritizing structural analysis and key terms. I've broken down each figure and will detail it, including specific units, and also preparing the requested Obsidian variables.
-> > 
-> > **Developing the Analytical Framework**
-> > 
-> > I am now deeply structuring the paper analysis to reconstruct "Emerging frontiers in two-dimensional sliding ferroelectrics," prioritizing an organized Markdown report. I've begun building the comprehensive "图表深度解析" (figure analysis), ensuring accurate markdown for all structures, as well as working on the "引言" (Introduction) section.
-> > 
-> > **Defining the Analysis Focus**
-> > 
-> > I am now structuring the comprehensive analysis of "Emerging frontiers in two-dimensional sliding ferroelectrics." I'm prioritizing accuracy in building the figure analysis section. I will be incorporating markdown to complete the report structure.
-> > 
-> > I'm now deeply focused on analyzing and rebuilding the report in the required markdown format. I have completed the introduction and have moved on to detail. I am preparing the 10 variables in the required format.
+> > 现在可以开始按照规划的结构进行解读了。
 > 
-> 好的，我将以“学术文献深度解读专家”的角色，为您深度解读这篇题为“Emerging frontiers in two-dimensional sliding ferroelectrics”的学术文献。
+> 好的，收到您的指令。作为学术文献深度解读专家，我将严格遵循您设定的角色、规范和流程，为您深度解读这篇关于二维滑动铁电的展望文章。
 > 
 > * * *
 > 
 > ## 一、引言
 > 
-> **铁电材料（Ferroelectric materials）**因其独特的物理特性——自发排列且可被外部电场集体翻转的电偶极子——在非挥发性存储器、传感器、声波滤波器和光电器件等领域持续引发广泛关注。然而，传统的块体铁电材料在满足现代电子设备对微型化、高密度集成和机械柔性要求时面临显著挑战，例如固有的厚度限制、机械刚性和较高的开关场。
+> **领域背景**：传统铁电材料因其自发极化可被外电场翻转的特性，在非易失性存储器、传感器等领域应用广泛。然而，随着器件小型化、高密度集成和柔性化的发展趋势，传统块体铁电材料面临尺寸效应、机械刚性和高开关电压等根本性挑战。二维（2D）范德华（vdW）材料的出现为超薄铁电器件带来了希望，但传统二维铁电体受限于退极化场和界面效应，实验证实的材料体系极为有限。
 > 
-> **二维（2D）材料**的兴起为超薄铁电系统带来了新的可能性，其卓越的机械柔韧性和降低的开关场是显著优势。但二维材料中的铁电性也面临多重挑战，包括临界尺寸效应导致的去极化场增强、界面电荷捕获和屏蔽效应、以及衬底诱导应变对固有铁电性质的抑制等。尽管理论预测了一些具有非常规铁电机制的候选材料，但实验验证仍十分有限。
+> **研究问题**：如何超越传统离子位移型铁电机制，在二维极限下发现并设计新型、稳健的铁电材料体系，并阐明其物理机制与器件应用潜力？
 > 
-> 在此背景下，**滑动铁电性（Sliding Ferroelectricity）**在二维**范德华（van der Waals, vdW）材料**中的出现，为解决这些长期存在的挑战提供了开创性的解决方案。与传统的离子位移型铁电体不同，这种新颖的机制源于**非中心对称堆叠构型**中的层间电荷转移。该概念最初由Wu课题组于2017年提出，他们通过第一性原理计算表明，即使单层材料本身是中心对称且缺乏固有铁电性，但精心设计的双层或多层堆叠也可以打破空间反演对称性，从而产生稳健的**面外（Out-of-Plane, OOP）极化**。
-> 
-> 这一发现从根本上扩展了铁电材料的范围，并在双层WTe2、hBN、TMDs（过渡金属二硫化物）等多种vdW材料中得到了后续的实验验证，确立了**滑动铁电性**作为vdW材料中普遍现象的地位。其普遍性源于其几何起源——任何通过滑动改变层间电荷不对称的二维系统原则上都可以展现**滑动铁电性**。
-> 
-> **滑动铁电性**具有多项前所未有的优势：
-> 
-> 1.  有效规避了由缺陷电荷引起的**钉扎效应（pinning effects）**，显著增强了器件的耐久性和可靠性。
-> 2.  极化状态完全依赖于层间堆叠构型，使得**新型多态存储（multistate memory）**和计算应用成为可能。
-> 3.  极化可通过电场、机械应力、应变等多种外部刺激进行调控，提供了卓越的**可调谐性（tunability）**。
-> 
-> 本文作为一篇**综述性（Perspective）**文章，旨在重点介绍**滑动铁电材料**系统的代表性实例，讨论二维vdW材料中对称性破缺诱导极化的基本机制。文章将聚焦于以下几个方面：**滑动铁电材料**系统（包括实验证实和理论预测的材料）、诱导**滑动铁电性**的策略、层间滑动介导极化切换的内在物理机制、新兴的器件应用，以及这个快速发展领域中面临的紧迫挑战和未来研究方向，以期指导下一代**滑动铁电材料**的合理设计。
+> **文献定位与核心价值**：本文是一篇发表在《npj 2D Materials and Applications》上的展望（Perspective）文章，系统性地梳理了**滑动铁电性（Sliding Ferroelectricity）** 这一新兴领域的核心进展。文章并非详尽综述，而是聚焦于五个关键方面：材料体系、对称性破缺策略、微观开关动力学、器件应用及未来挑战。其核心价值在于为这一快速发展但概念前沿的领域提供了一个清晰、结构化的知识框架，旨在引导下一代滑动铁电材料的理性设计，尤其适合初学者和非专业读者快速把握该领域的全貌和核心逻辑。
 > 
 > ## 二、论文结构与逻辑概览
 > 
-> **总述:** 这篇综述深入探讨了二维**滑动铁电材料**领域的前沿进展，旨在为读者提供一个全面且结构化的视角。论文首先介绍了传统铁电材料的局限性，进而引出了二维材料中新型**滑动铁电性**的独特机制及其优势。
+> 本文遵循“**问题提出 → 解决方案 → 机制解析 → 应用展示 → 未来展望**”的清晰逻辑链条。
 > 
-> **逻辑链条:** 论文围绕**滑动铁电性**的“是什么”、“有哪些”、“如何实现”、“内在机理”、“如何应用”以及“面临挑战与未来展望”展开，构建了一个清晰的知识体系：
+> 1.  **引言（问题提出）**：指出传统铁电材料在微型化时面临的“临界尺寸效应”等挑战，并引出**滑动铁电性**作为突破性的解决方案。
+> 2.  **材料体系（解决方案的载体）**：系统分类并介绍了实验证实和理论预测的滑动铁电体，包括无机晶体、有机-无机杂化晶体等，并提供了详细的对比表格。
+> 3.  **工程策略（如何实现解决方案）**：详细阐述了四种打破空间反演对称性、诱导滑动铁电性的核心策略：利用非中心对称晶相、构建不对称堆垛、扭曲堆垛/摩尔超晶格、以及非化学计量比组分。
+> 4.  **微观机制（解决方案的内在原理）**：深入探讨了滑动铁电性不同于传统铁电的物理起源，即层间电荷再分配，并揭示了层间滑移、中间态和畴壁动力学在极化翻转中的关键作用。
+> 5.  **器件应用（解决方案的价值体现）**：展示了基于滑动铁电体的柔性铁电晶体管、隧道结、光电器件和神经形态计算突触等原型器件，突显其抗疲劳、高开关比等优势。
+> 6.  **挑战与展望（未来方向）**：总结了当前在材料合成、机理理解、表征技术和性能权衡方面的核心挑战，并提出了理论-实验结合、原位表征和异质结构探索三个未来发展方向。
 > 
-> 1.  **背景与问题（引言）**: 概述了传统铁电材料在微型化、集成化和柔性应用中面临的挑战，以及二维材料中铁电性受限于尺寸效应和界面效应等问题。在此基础上，引出了**滑动铁电性**作为一种创新机制，以克服这些挑战。
-> 2.  **材料系统（Sliding ferroelectric material systems）**: 分类介绍了已通过实验验证和理论预测的各类**滑动铁电材料**，包括无机晶体（如石墨烯、hBN、TMDs）和有机-无机杂化晶体，旨在扩展材料选择的范围，并提供具体的案例。
-> 3.  **工程策略（Engineering Strategies for Breaking Inversion Symmetry）**: 深入探讨了多种诱导**滑动铁电性**的具体方法，即如何通过不同手段（非中心对称晶相、不对称堆叠、扭曲堆叠/莫尔超晶格、非化学计量组成、异质结构）来打破层间反演对称性，从而产生和调控极化。
-> 4.  **微观机制（Microscopic Mechanisms of Sliding Ferroelectricity）**: 剖析了**滑动铁电性**的微观起源，强调其与传统离子位移铁电性的根本区别，即基于层间电荷不对称和独特的层间滑动切换动力学。本部分旨在揭示其物理本质。
-> 5.  **器件应用（Device Applications of Sliding Ferroelectric Materials）**: 展示了**滑动铁电材料**在下一代电子器件中的应用潜力，包括可重写铁电晶体管、铁电隧道结、光电器件和神经拟态计算等，体现了其技术转化价值。
-> 6.  **挑战与展望（Challenges and Perspectives）**: 客观分析了当前领域面临的材料发现、机理理解、功能控制、制备和表征等方面的关键挑战，并提出了未来有前景的研究方向和发展策略。
-> 
-> **特点:** 本文作为一篇**透视（Perspective）**文章，其特点在于：
-> 
-> -   **聚焦性强**: 不进行穷尽式文献回顾，而是有针对性地讨论**滑动铁电性**的材料、策略、机制、应用和挑战。
-> -   **结构清晰**: 逻辑链条环环相扣，从基础概念到前沿应用，再到未来挑战，构建了易于理解的知识框架。
-> -   **批判性与前瞻性**: 不仅总结了现有成就，更着重于分析当前瓶颈并提出未来发展方向，具有重要的引导作用。
+> 整个论证链条由表及里，从“是什么”（材料）到“如何做”（策略），再到“为何能”（机制），最后落脚于“有何用”（应用）和“向哪去”（展望），逻辑严密，结构完整。
 > 
 > ## 三、所有图表深度解析
 > 
-> -   **图1（Fig. 1）**: _滑动铁电性发展里程碑示意图_。 此图通过时间轴的形式，描绘了**滑动铁电性**领域从概念提出（2017年）到在不同材料（如WTe2、hBN、3R-MoS2、ε-InSe）中实现实验验证（2018-2024年），以及在器件应用（如FTJ、神经形态器件）中取得突破的关键发展节点。它是一个概念性的里程碑图，没有具体的单位或量纲，主要用于展现该领域快速发展的历史进程和重要进展。
->     
-> -   **图2（Fig. 2）**: _石墨烯的滑动铁电性示意图_。
->     
->     -   **a. 双层、三层和四层石墨烯的不同堆叠构型示意图**。此图展示了不同层数**石墨烯**的原子堆叠方式，如双层AB堆叠、三层ABC和ABA堆叠、四层ABAC堆叠等。它强调了**非中心对称堆叠**（如ABAC）是产生**滑动铁电性**的基础，而对称堆叠（如ABAB）则不具备。
->     -   **b. 四层石墨烯中两种极化状态间的极化切换路径示意图**。描绘了通过层间滑动实现的极化反转过程，例如从ABAC堆叠构型到CBAB堆叠构型，中间可能经历ABAB等非极性中间态。图中箭头表示滑动路径。此图解释了极化切换的复杂多步机制，以及初始和最终状态之间不对称电荷分布如何实现可逆极化。
->     -   **c. 五层石墨烯的堆叠构型及其理论铁电极化值**。以图示方式呈现了五层**石墨烯**的不同堆叠方式，并给出了相应的理论**铁电极化**值。例如，ABCA堆叠的极化值为0 pC/m，而ABAC堆叠的极化值为0.32 pC/m。单位为皮库伦每米 (**pC/m**)。这直观展示了精确堆叠构型对极化强度及其是否存在铁电性的决定性影响。
-> -   **图3（Fig. 3）**: _hBN的滑动铁电性示意图_。
->     
->     -   **a. 扭曲双层hBN中与AB和BA堆叠构型对应的相反极化畴（黑/白区域）KPFM图像**。此图通过**开尔文探针力显微镜（KPFM）**图像展示了扭曲双层**hBN**中存在的具有相反极化方向（对应AB和BA堆叠）的区域。图像中100 mV的表面电势对比度，指示了由于不同堆叠构型产生的表面电荷差异，从而验证了扭曲堆叠诱导的铁电性。单位为毫伏 (**mV**)。
->     -   **b. 基于扭曲双层hBN器件中测得的铁电滞回曲线**。此图展示了典型的**铁电滞回环（hysteresis loop）**，y轴为电荷密度或极化强度，x轴为电场强度或电压。该曲线是**hBN**中极化可切换性的直接电学证据。
->     -   **c. 扭曲多层hBN的结构示意图和光学显微图像**。展示了通过应变工程调控**hBN**中铁电畴的结构。
->     -   **d. 尖端压力下层状材料应变诱导变形的示意图**。展示了由于晶格失配产生的**莫尔图案（Moiré patterns）**以及与压力相关的**面外铁电畴**演变。此图从机械角度解释了铁电性的调控。
->     -   **e. hBN在石墨烯/4H-SiC衬底上的外延生长示意图及AFM高度和电流映射图像**。展示了**hBN**在**石墨烯**上的外延生长过程，以及通过**原子力显微镜（AFM）**获得的高度和电流图像，用于表征材料形貌和电学性能。
->     -   **f. 三层hBN/石墨烯异质结构中的嵌套铁电畴（“盒中盒”图案）以及相应的PFM相位和表面电势变化**。通过**压电力显微镜（PFM）**测量显示180°的相位反转，以及KPFM检测到的300 meV表面电势差，证实了多层**hBN**中极化切换的存在。此图直观展示了铁电畴的形貌和可切换性。单位为毫伏 (**mV**)。
->     -   **g. 来自两个不同五层hBN器件的**正向上负向下**（PUND）测量极化-电场滞回曲线**。展示了**Au/Cr/hBN/石墨烯**器件在±1.5 V的**矫顽场（coercive field）**下具有0.375 μC/cm²的**剩余极化（remnant polarization）**，并且能维持超过一周的稳定性。单位为伏特 (**V**) 和微库伦每平方厘米 (**μC/cm²**)。
-> -   **图4（Fig. 4）**: _非中心对称晶相的滑动铁电性示意图_。
->     
->     -   **a. 三种In2Se3相（β, β′, α）可控合成的示意图**。展示了通过短距离**化学气相沉积（CVD）**方法，结合相变原理，实现不同**In2Se3**相的宏观制备过程。
->     -   **b. 原位加热透射电子显微镜（TEM）示意图**。显示了β-InSe向β′-In2Se3的热转化过程，揭示了相变机制。
->     -   **c. 通过Se/In比率调制实现相控制的机制图**。阐明了硒（Se）与铟（In）的比例是调控**In2Se3**晶相结构的关键因素。
->     -   **d. 由不同相制备的器件的存储窗口尺寸比较**。展示了不同相**In2Se3**器件在电学性能（如记忆窗口）上的差异，突出了相工程对器件性能的影响。
->     -   **e. 从InSe到In2Se3的转化过程及其相应的**扫描透射电子显微镜（STEM）**图像**。详细描述了在温度调控下相变过程中的原子结构演变，通过高分辨STEM图像展示了晶格结构的变化。
->     -   **f. 在270 °C, 300 °C, 和600 °C硒化温度下生长的产物的拉曼光谱**。通过**拉曼光谱**的特征峰，验证了不同温度下产物的相结构。
->     -   **g. 2H α-In2Se3中铁电畴结构和畴壁运动的原子尺度表征**。展示了**2H相In2Se3**中优先形成**面内（In-Plane）铁电畴壁**的结构特征。
->     -   **h. 3R α-In2Se3中铁电畴结构和畴壁运动的原子尺度表征**。展示了**3R相In2Se3**中倾向于形成**面外（Out-of-Plane）铁电畴壁**的结构特征，并对比了两种相在畴壁形成和相变机制上的差异（3R相通过层内原子滑动，2H相需要更复杂的键离解和重组）。
-> -   **图5（Fig. 5）**: _诱导滑动铁电性的不对称堆叠策略示意图_。
->     
->     -   **a. 衬底引导的CVD生长方法示意图**。展示了一种用于精确控制**SnSe2**（二硒化锡）堆叠序列的生长技术。
->     -   **b. 6R、12R、18R和18C堆叠构型的实验原子结构**。展示了通过工程手段实现的高阶多型体**SnSe2**的晶体结构，这些结构通过特定的层间对位关系形成。
->     -   **c. AB'-堆叠SnSe2的铁电性PFM信号**。通过**压电力显微镜（PFM）**信号证实了AB'-堆叠构型中**SnSe2**的铁电行为，图中显示了典型的**PFM相位和振幅曲线**，强调了特定层间对位关系在诱导可切换极化中的关键作用。
->     -   **d. hBN封装石墨烯的光学显微图像**。展示了通过“翻转-反射转移”技术制备的hBN/石墨烯/hBN异质结构，确保了精确的锯齿形边缘对准。
->     -   **e. 单层、双层和三层石墨烯插层中晶体结构和铁电极化方向的示意图**。解释了在hBN封装下，不同层数的**石墨烯**如何通过协同层间滑动产生面外极化。
->     -   **f–h. 不同层数石墨烯的铁电极化强度**。
->         -   **f.** 单层石墨烯在hBN封装器件中实现的**室温极化强度**高达1.76 μC/cm²，是目前**滑动铁电体**中的最高纪录。单位为微库伦每平方厘米 (**μC/cm²**)。
->         -   **g.h.** 展示了双层石墨烯（0.81 μC/cm²）和三层石墨烯（1.22 μC/cm²）的极化强度。数据表明极化强度具有**非单调的厚度依赖性**，这源于**石墨烯**与**hBN**层之间的协同层间滑动。单位为微库伦每平方厘米 (**μC/cm²**)。
-> -   **图6（Fig. 6）**: _扭曲堆叠和莫尔超晶格的滑动铁电性示意图_。
->     
->     -   **a. 反平行和平行堆叠构型的俯视图**。展示了六方氮化硼（**hBN**）的AA’（反平行）和AB/BA（平行）堆叠构型。此图显示了通过顶层横向滑动可以从AA’堆叠形成AB和BA结构。AA’保持中心对称（非极性），而AB和BA打破反演对称性，产生极化。
->     -   **b. AA’（反平行）、AA（平行）和极性AB/BA堆叠构型的侧视图**。此图从侧面展示了这些堆叠构型的原子排布，AA’和AA是非极性的，而AB/BA则因原子错位而产生电偶极矩。
->     -   **c. 天然生长AA'-hBN和滑动后AB/BA构型的截面原子排列**。图中+/-符号代表B/N原子。此图直观显示了AA’构型中B和N原子完美对齐的对称性，而AB和BA构型则呈现对角线排列的电荷顺序，从而产生极化。
->     -   **d. 0.5°扭曲双层hBN的初始对位指数（左）和弛豫后映射（右）**。展示了晶格弛豫如何将**莫尔图案**重组为具有相反极化方向的三角AB/BA铁电区域，这些区域由AA鞍点和畴壁分隔。这种AB/BA的二元性为极化切换提供了天然平台，通过层间滑动可在互补状态之间转换。
-> -   **图7（Fig. 7）**: _非化学计量组成的滑动铁电性示意图_。
->     
->     -   **a. InSe:Y的角分辨二次谐波产生（SHG）信号**。此图展示了Y掺杂**InSe**（硒化铟）后，**SHG信号**的显著增强及其随角度的变化，这有力地验证了Y掺杂打破了材料的反演对称性，使其从非极性变为极性。
->     -   **b. InSe:Y的振幅蝴蝶环**。通过**压电力显微镜（PFM）**的振幅信号，显示了典型的铁电切换行为，即在施加电场作用下，材料的机械响应（振幅）呈现出蝴蝶状滞回曲线。
->     -   **c. InSe:Y的相位滞回曲线**。通过PFM的相位信号，进一步证实了铁电极化的可逆切换，相位差通常为180°，代表极化方向的反转。
->     -   **d. 非化学计量Fe1+αTe2中的面外铁电性**。此图展示了通过调节铁（Fe）的化学计量比（α）来调控**Fe1+αTe2**中的**面外铁电性**。图中可能呈现了不同α值下的极化-电场（P-E）滞回曲线，显示极化强度和矫顽场的变化。
->     -   **e. Fe1+αTe2中的面内铁电性**。此图展示了**Fe1+αTe2**中的**面内铁电性**，表明非化学计量性可以同时影响材料的**面内和面外极化**。
-> -   **图8（Fig. 8）**: _滑动铁电性的微观机制示意图_。
->     
->     -   **a. 双层3R相MoS2中铁电极化产生的机制图**。此图以原子尺度示意图展示了3R相**二硫化钼（MoS2）**双层中，特定的堆叠构型（如AB和BA）如何通过层间电荷转移产生相反方向的极化。
->     -   **b. 双层3R-MoS2不同堆叠构型的热力学能垒**。此图通过能量曲线展示了在双层3R-MoS2中，不同堆叠构型（如AB、BA、以及非极性中间态）之间的能量差异以及极化反转所需的**热力学能垒**。其中AB和BA被标识为最稳定的两个堆叠状态。这揭示了极化反转的物理能垒。
->     -   **c. 多层3R-MoS2中铁电极化逐层滑动机制示意图**。此图描绘了在多层3R相**MoS2**中，极化反转并非同步发生，而是逐层滑动。当一层完成滑动后，会创建一个具有**反平行（antiparallel）面外偶极矩**的中间态，突出了多层**滑动铁电体**中极化反转的复杂性。
+> _为便于理解，此处将文献中的图表转化为文字描述与逻辑解析。_
+> 
+> ### 图1：滑动铁电性发展的里程碑
+> 
+> -   **图表类型**：时间线/里程碑图。
+> -   **内容描述**：展示了从2017年Wu等人首次通过第一性原理计算提出滑动铁电性概念，到2025年本展望文章发表期间的关键实验和理论突破节点。包括双层WTe2、hBN、TMDs、InSe等体系中滑动铁电性的实验验证，以及BSF理论、非化学计量比调控等策略的提出。
+> -   **核心洞察**：该图直观地展示了该领域在短短几年内从理论预言到实验遍地开花的爆炸式发展，强调了这是一个极为活跃且快速演进的研究前沿。
+> 
+> ### 图2：石墨烯的滑动铁电性
+> 
+> -   **图表类型**：理论模型与数据图。
+> -   **内容描述**：
+>     -   **图2a**：展示了双层、三层和四层石墨烯的不同堆垛构型。_可视化提示：可设计为不同层间原子位置对齐的示意图_。
+>     -   **图2b**：展示了四层石墨烯在两个极化态（如ABAC和CBAB）之间转换的多步路径，其中包含非极化中间态（如ABAB）。_可视化提示：可设计为能量或路径示意图_。
+>     -   **图2c**：展示了五层石墨烯的堆垛构型及其对应的理论铁电极化值。
+> -   **核心洞察**：揭示了即使在高对称性的石墨烯中，通过精心设计三层及以上的特定堆垛序列（如ABAC），也能在层间产生不对称电荷分布，从而实现非常规的滑动铁电性。极化切换路径复杂，需要经过非极化中间态。
+> 
+> ### 图3：六方氮化硼（hBN）的滑动铁电性
+> 
+> -   **图表类型**：实验数据与机理图。
+> -   **内容描述**：
+>     -   **图3a**：KPFM图像，显示扭曲双层hBN中AB和BA堆垛区域由于相反极化态而产生的表面电势差异（约100 mV）。
+>     -   **图3b**：基于石墨烯/hBN异质结的输运测量得到的铁电滞回线，证实了其可切换的铁电性。
+>     -   **图3c**：受应变调控的多层hBN中形成的三角形铁电畴结构示意图与光学显微照片。
+>     -   **图3d**：利用PFM探针在应变区域对铁电畴进行可逆翻转的示意图。
+>     -   **图3e**：在石墨烯上外延生长的hBN的原子力显微镜（AFM）高度图和电流分布图。
+>     -   **图3f**：三层hBN/石墨烯异质结中的“嵌套式”铁电畴（盒中盒图案），以及对应的PFM相位和表面电势变化，证实了极化翻转。
+>     -   **图3g**：两个不同五层hBN器件的PUND（正-上-负-下）测量结果，显示了清晰的极化-电场（P-E）滞回线。关键参数：矫顽场（±1.5 V），剩余极化强度（0.375 μC/cm²）。
+> -   **核心洞察**：hBN是滑动铁电的理想模型体系，其铁电性可通过堆垛方式（扭曲、应变、外延生长）进行灵活调控。从最初的KPFM表面电势对比，到最终的宏观P-E滞回线测量，为滑动铁电性提供了从微观到宏观的多尺度证据链。
+> 
+> ### 图4：非中心对称晶相策略（以In₂Se₃为例）
+> 
+> -   **图表类型**：合成方法与机理图。
+> -   **内容描述**：
+>     -   **图4a**：通过短距离CVD法结合相变原理，实现厘米级β、β‘和α相In₂Se₃薄膜的可控合成示意图。
+>     -   **图4b**：原位透射电镜（TEM）加热实验，揭示β-InSe向β‘-In₂Se₃的热转变过程。
+>     -   **图4c**：基于理论计算，阐明了Se/In比例是调控相变的关键因素。
+>     -   **图4d**：不同相In₂Se₃制备的场效应晶体管（FET）的存储窗口大小对比，展示了其非易失性存储潜力。
+>     -   **图4e**：以γ-InSe为前驱体和种子，通过精确控温实现向不同相In₂Se₃（3R α, β, 2H α）转变的过程。
+>     -   **图4f**：不同硒化温度下产物的拉曼光谱，揭示了相变对温度的极端敏感性。
+>     -   **图4g**：2H α-In₂Se₃中原子的铁电畴结构与畴壁运动，倾向于形成面内畴壁。
+>     -   **图4h**：3R α-In₂Se₃中原子的铁电畴结构与畴壁运动，倾向于形成面外畴壁。
+> -   **核心洞察**：该图系统展示了如何利用非中心对称晶相来获得滑动铁电性。通过精细控制CVD生长参数（尤其是温度和Se/In比），可以实现不同铁电相（如反铁电β‘相到铁电α相）的精准调控。不同相的内部畴壁取向和相变机制存在根本差异，这为器件设计提供了丰富的可能性。
+> 
+> ### 图5：不对称堆垛策略
+> 
+> -   **图表类型**：实验方法与数据分析图。
+> -   **内容描述**：
+>     -   **图5a**：一种衬底引导的CVD生长方法示意图，用于合成具有精确可控堆垛序列的SnSe₂。
+>     -   **图5b**：实验合成的6R, 12R, 18R和18C等高阶堆垛构型的原子结构照片。
+>     -   **图5c**：仅在AB’堆垛的SnSe₂中观测到清晰的PFM信号，证实了特定堆垛是产生铁电性的关键。
+>     -   **图5d**：通过“翻转-反射转移”技术实现斜方堆垛三层hBN/石墨烯/hBN异质结的光学显微照片。
+>     -   **图5e**：单层、双层和三层石墨烯被hBN封装后的晶体结构示意图，均显示可切换的极化。
+>     -   **图5f**：单层石墨烯器件中测得的室温铁电极化强度高达1.76 μC/cm²，为当时报道的滑动铁电体最高值。
+>     -   **图5g**：双层和三层石墨烯器件的极化强度分别为0.81 μC/cm²和1.22 μC/cm²。
+>     -   **图5h**：数据揭示了极化强度随石墨烯层数变化的奇偶效应和非单调厚度依赖性。
+> -   **核心洞察**：精确控制层间堆垛是释放滑动铁电性的关键。无论是通过CVD直接生长高阶堆垛SnSe₂，还是通过人工转移构建斜方堆垛异质结，都证明了打破空间反演和镜像对称性是产生净面外极化的必要条件。石墨烯/hBN体系中的奇偶效应揭示了多层体系中协同层间滑移的复杂机制。
+> 
+> ### 图6：扭曲堆垛与摩尔超晶格策略
+> 
+> -   **图表类型**：原子结构模型图。
+> -   **内容描述**：
+>     -   **图6a**：天然AA’堆垛的双层hBN顶视图，具有反演对称中心，是非极性的。
+>     -   **图6b**：AA堆垛的双层hBN侧视图，打破了反演对称性，但属于亚稳态。
+>     -   **图6c**：天然AA’堆垛和滑移后AB/BA堆垛的截面原子排列。AA’对称，而AB和BA构型中B/N原子呈对角线电荷序，产生了极化。
+>     -   **图6d**：0.5°扭曲双层hBN的初始配准指数图和晶格弛豫后的图形。弛豫后，摩尔图案重组为分立的三角形AB和BA铁电畴区域，由AA鞍点和畴壁隔开。
+> -   **核心洞察**：该图完美解释了扭曲堆垛如何通过摩尔超晶格自然地创造AB和BA堆垛的周期性排列。这两个区域如同天然的“极化向上”和“极化向下”畴，仅通过层间滑移即可实现极化翻转，无需离子位移。将传统的“界面工程”升维至“摩尔工程”，实现了对铁电性的连续调控。
+> 
+> ### 图7：非化学计量比组分策略
+> 
+> -   **图表类型**：实验数据图。
+> -   **内容描述**：
+>     -   **图7a**：Y掺杂的InSe (InSe:Y) 的角分辨SHG信号，证实了中心反演对称性的破缺。
+>     -   **图7b**：InSe:Y的PFM振幅蝶形回线，是铁电翻转的典型特征。
+>     -   **图7c**：InSe:Y的PFM相位滞回线，进一步证实了极化翻转。
+>     -   **图7d**：非化学计量比Fe₁+αTe₂中测得的OOP铁电性。
+>     -   **图7e**：非化学计量比Fe₁+αTe₂中测得的面内铁电性，展示了多方向极化调控的可能。
+> -   **核心洞察**：该图表明，引入掺杂或原子空位是一种不依赖于精确堆垛的、更普适的诱导铁电性策略。通过Y掺杂、Fe插层或Cr空位，可以产生局域结构畸变和层间电荷不平衡，从而打破反演对称性。这种方法将材料设计空间从理想晶体扩展到非理想晶体，为发现新型铁电体提供了广阔空间。
+> 
+> ### 图8：滑动铁电性的微观机理
+> 
+> -   **图表类型**：理论计算与机理示意图。
+> -   **内容描述**：
+>     -   **图8a**：双层3R相MoS₂中极化产生的机制。AB和BA堆垛结构通过层间电荷转移产生方向相反的OOP极化。
+>     -   **图8b**：不同堆垛构型对应的热力学能量势垒，AB和BA是最稳定的两个能量最低态。
+>     -   **图8c**：多层3R-MoS₂的逐层滑移极化翻转机制示意图。当某一层发生滑移时，会形成具有反平行OOP偶极矩的中间态。
+> -   **核心洞察**：该图揭示了滑动铁电性与传统铁电性在微观机制上的根本区别。极化翻转不是通过离子位移，而是通过层间一个极小距离（如WTe₂中为0.72 Å）的横向滑移实现。多层体系中的翻转是逐层进行的，会经历复杂的中间态，这为设计多态存储提供了物理基础。
+> 
+> ### 图9：滑动铁电材料的器件应用
+> 
+> -   **图表类型**：器件结构与性能测试图。
+> -   **内容描述**：
+>     -   **图9a**：基于3R相MoS₂的柔性铁电晶体管阵列示意图。
+>     -   **图9b-d**：柔性器件在历经1000次弯曲循环后的转移特性、保持特性和耐久特性，展示了优异的抗疲劳和机械稳定性。
+>     -   **图9e**：石墨烯/ε-InSe/石墨烯光电器件结构与时间分辨光电流测量装置示意图。
+>     -   **图9f**：52.8 nm厚ε-InSe器件的超快时间分辨光电流信号，响应时间约3皮秒。
+>     -   **图9g**：器件的光电流成像图和光电流-电压特性曲线。
+>     -   **图9h**：不同偏压下时间分辨光电流的变化，展示了极化对光响应的调控。
+> -   **核心洞察**：该图展示了滑动铁电体在应用上的巨大潜力。其本征的原子级厚度和抗疲劳特性使其在柔性电子领域优势显著。同时，铁电性可与光电子性质耦合，实现超快、可切换的近红外光电响应，为多功能一体化的新型器件开辟了道路。
 > 
 > ## 四、正文核心内容剖析
 > 
-> 本篇综述深入探讨了**二维（2D）范德华（van der Waals, vdW）滑动铁电材料**的最新进展，旨在为该领域的初学者和研究者提供一个全面而结构化的理解框架。
+> ### 1. 研究背景与问题
 > 
-> **1. 领域背景与研究问题** 传统的**铁电材料**因其在非挥发性存储、传感器等领域的广泛应用而备受关注。然而，在日益追求微型化、高密度集成和机械柔性的现代电子学背景下，块体铁电材料面临固有限制，如厚度大、机械刚性强和开关场高。**二维材料**的出现为构建超薄铁电系统带来了希望，但它们自身也面临挑战：如**临界尺寸效应（critical size effect）**导致的去极化场（depolarization fields）增强、表面效应引起的界面电荷捕获与屏蔽、以及衬底相互作用对本征铁电性的影响。为克服这些瓶颈，研究人员开始探索新的铁电机制。
+> 传统铁电体（如钙钛矿氧化物）依赖离子位移（**位移型铁电体**）产生极化，但在超薄尺度下，退极化场和界面效应会严重抑制铁电性，导致“**临界尺寸效应**”（材料薄到一定程度，铁电性消失）。虽然理论上预言了一些二维铁电体，但实验证实极少。2017年，滑动铁电性概念的提出为此提供了根本性解决方案：即使单层是中心对称的，通过堆垛打破层间对称性，也能产生可翻转的层间极化。
 > 
-> **2. 核心概念——滑动铁电性**
+> ### 2. 核心概念与材料体系
 > 
-> -   **定义与起源**：**滑动铁电性**是一种有别于传统离子位移型铁电体的新型机制。它并非源于晶体中原子的位移，而是由**范德华层状材料**中特定的**非中心对称堆叠构型**导致的层间电荷转移产生极化，并通过层间的相对滑动来实现极化反转。这一革命性概念最早由Wu课题组于2017年通过第一性原理计算提出，指出即使单层是中心对称的，精心设计的双层或多层堆叠也可打破空间反演对称性，产生稳健的**面外（Out-of-Plane, OOP）极化**。
-> -   **普遍性与优势**：**滑动铁电性**已被广泛证实存在于多种vdW材料中，如WTe2、hBN、TMDs等，其几何起源赋予了它普遍性。该机制具有显著优势：有效规避了缺陷电荷引起的**钉扎效应（pinning effects）**，提高了耐久性；极化状态直接依赖于层间堆叠，支持**多态存储（multistate memory）**；且极化可通过电场、机械应力、应变等多种外部刺激进行精确调控，展现出卓越的**可调谐性（tunability）**。
+> **滑动铁电性**：一种新型铁电机制，其极化翻转不是由离子在晶格内位移驱动，而是由范德华层之间的整体横向滑移改变层间电荷分布所致。
 > 
-> **3. 滑动铁电材料系统** 文章详细介绍了已实验验证和理论预测的各类**滑动铁电材料**：
+> 文章对材料体系进行了系统分类：
 > 
-> -   **实验证实材料**：
->     -   **无机晶体**：
->         -   **石墨烯（Graphene）**：理论研究表明多层（≥3层）石墨烯在特定**非中心对称堆叠**（如ABAC）下可展现非常规**滑动铁电性**，极化切换涉及非极性中间态。但对层间堆叠的精确控制是挑战。
->         -   **六方氮化硼（hBN）**：天然AA’堆叠非极性，但通过AA或AB/BA构型可打破反演对称性。扭曲双层hBN、应变工程调控hBN以及多层hBN/石墨烯异质结均被证实具有室温铁电性，展现出可逆切换和稳健性能。
->         -   **过渡金属二硫化物（TMDs）**：被认为是实现**滑动铁电性**最通用的平台，因其具有非中心对称晶相（如1T’、3R）、可调电子结构和强自旋轨道耦合。多态性允许多相中出现铁电性，多层堆叠可通过层间滑动或扭曲工程增强极化。
->     -   **有机-无机杂化晶体**：以**(15-crown-5)Cd3Cl6 (CCC)**为例，这种结合了无机层和有机分子转子的混合体系具有宽带隙，实现了宏观尺度的极化滞后测量，极化源于分子转子冻结和层间滑动协同作用。
-> -   **理论预测材料**：包括HgX2 (X=Br, I)、准一维NbI4、kagome-B2X3双层、ZrI2双层（预测有铁弹-铁电多铁性）、penta-PdSe2/PtSe2异质结构、三层NiN2等，这些拓展了**滑动铁电材料**的潜在库。
+> -   **实验证实体系**：
+>     -   **无机晶体**：石墨烯（N≥3层）、hBN（扭曲、应变、外延）、TMDs（3R-MoS₂, 1T”-MoS₂, WTe₂等）。
+>     -   **有机-无机杂化晶体**：CCC（15-冠-5）Cd₃Cl₆，首次在宏观尺度提供了滑动铁电性的直接证据。
+> -   **理论预测体系**：HgX₂ (X=Br, I)、ZrI₂、NbI₄、penta-PdSe₂/PtSe₂等，扩展了材料探索空间，并预测了如耦合自旋电子学、多铁性等新奇物性。
 > 
-> **4. 诱导反演对称性破缺的工程策略** 文章总结了多种实现和调控**滑动铁电性**的策略：
+> ### 3. 四大核心工程策略
 > 
-> -   **非中心对称晶相**：利用材料本身固有的非中心对称晶相，如3R-、1T”-、1T”‘-**MoS2**，T-相**MoTe2/WTe2**，以及**In2Se3**的β、β‘、ɛ、γ相，通过剪切变形或晶相选择诱导铁电性。
-> -   **不对称堆叠（Asymmetric Stackings）**：即使单层本身是中心对称的，通过精确控制多层间的相对位移（如**SnSe2**的AB’堆叠，**hBN/石墨烯/hBN**的斜堆叠），也能打破整体反演对称性产生极化。特别提到hBN封装的单层**石墨烯**异质结实现了高达1.76 μC/cm²的创纪录室温极化强度。
-> -   **扭曲堆叠或莫尔超晶格（Twist Stackings or Moiré Superlattices）**：通过小角度旋转堆叠两层或多层材料，形成周期性**莫尔超晶格**，其内部周期性变化的堆叠区域（如AB/BA畴）会产生相反的局域极化。已在扭曲**hBN**、**MoS2**、**WSe2**中实现，**WSe2**甚至在特定扭曲角下展现出铁电-铁磁共存。
-> -   **非化学计量组成（Non-Stoichiometric Compositions）**：通过掺杂（如Y掺杂γ-InSe）、引入原子空位或插层（如非化学计量**Fe1+αTe2**和**AgCr1-xS2**），在材料内部创建局部对称性破缺和界面电荷不平衡，从而诱导或增强**滑动铁电性**。
-> -   **异质结构（Heterostructures）**：通过将不同vdW材料堆叠，利用其固有的功函数差、能带对齐或离子极性差异，在界面处产生电荷转移和非对称极化，如**MoS2/WS2**异质双层。
+> 这是文章的核心框架，详细阐述了如何人为创造滑动铁电性：
 > 
-> **5. 滑动铁电性的微观机制**
+> -   **策略一：非中心对称晶相**：利用TMDs等材料的多晶型特性，直接选择或诱导具有非中心对称的晶相（如MoS₂的3R, 1T, 1T”相）。关键在于精确控制CVD生长条件（温度、前驱体比例）来稳定所需相。
+> -   **策略二：不对称堆垛**：通过设计同质或异质结的层间堆垛方式（如斜方堆垛），从根本上打破反演和镜像对称性。人工转移技术（如“翻转-反射”）是实现这一策略的关键。
+> -   **策略三：扭曲堆垛/摩尔超晶格**：将以微小角度扭转两层材料，形成周期性AB/BA堆垛区域，天然构成极化相反的畴结构。这是最具普适性的方法，铁电性可通过扭转角度连续调控。
+> -   **策略四：非化学计量比组分**：引入掺杂原子（如Y掺杂InSe）或本征空位（如AgCr₁₋ₓS₂中的Cr空位），通过晶格畸变和层间电荷转移打破对称性，不依赖于精确的层间堆垛。
 > 
-> -   **核心差异**：**滑动铁电性**的微观起源根本区别于传统离子位移铁电性，它依赖于**范德华界面**处由特定原子对位关系产生的层间电荷不对称。WTe2的研究首次通过实验证实了层间滑动而非离子位移是其铁电性的来源。
-> -   **切换动力学**：最近研究揭示了**滑动铁电体**独特的切换动力学：机械弯曲可产生拓扑畴壁导致极化反转；倾斜电场可降低临界场强实现确定性切换；非对角**Born有效电荷（Born effective charges）**解释了hBN的雪崩式切换；而多层3R-MoS2则展现了顺序层滑动产生的异常反平行中间极化态。这些均表明**滑动铁电性**的切换遵循不同于传统铁电体的规则。
+> ### 4. 微观开关动力学
 > 
-> **6. 器件应用** **滑动铁电材料**在下一代电子器件中展现出巨大潜力：
+> 与传统铁电体不同，滑动铁电的极化翻转源于层间亚埃级（Ångström）的横向滑移，其能量势垒低，且过程高度依赖于层数。多层体系（如3R-MoS₂）的翻转是逐层发生的，会经历具有反平行偶极矩的亚稳态中间构型，这为多态存储提供了物理基础。此外，畴壁运动、挠曲电效应、非对角玻恩有效电荷等都在翻转动力学中扮演重要角色。
 > 
-> -   **可重写铁电晶体管**：基于3R相**MoS2**的柔性晶体管阵列，展现出卓越的疲劳电阻（超过1000次弯曲循环仍保持稳健性能）和非挥发性存储特性。
-> -   **铁电隧道结（Ferroelectric Tunnel Junctions, FTJs）**：利用原子级薄的隧道势垒和可逆OOP极化，可有效调制隧道电流，有望实现大的**隧穿电致电阻（Tunneling Electroresistance, TER）**比，是低功耗、高密度存储的理想选择。
-> -   **光电器件**：基于ε-InSe的**滑动铁电**器件，展现出层依赖的铁电性（仅在偶数层出现），以及极化调制的超快体光伏响应（~3 ps），结合了可重构存储和高速光电功能。
-> -   **神经拟态计算（Neuromorphic Computing）**：其动态可逆极化切换、低能耗和抗疲劳特性使其成为**铁电突触器件**的理想选择，可用于模拟生物突触的权重调节，推动高效AI系统的发展。
+> ### 5. 器件应用
+> 
+> -   **柔性非易失性存储器**：基于3R-MoS₂的柔性铁电晶体管展示了优异的抗弯曲疲劳性（>1000次）和稳定的存储窗口（7V）。
+> -   **铁电隧道结（FTJ）**：利用原子级厚度实现超薄隧道势垒，通过极化翻转调控隧穿电阻，有望实现低功耗、高密度存储。
+> -   **超快光电器件**：ε-InSe中的极化可诱导超快体光伏响应（~3 ps），实现兼具存储和高速光探测的新型多功能器件。
+> -   **神经形态计算**：利用铁电极化翻转模拟突触权重，构建低功耗、高耐久性的铁电突触晶体管，用于构建人工神经网络。
 > 
 > ## 五、结论与贡献
 > 
-> **1. 核心发现总结**: 本篇综述对二维**范德华（vdW）滑动铁电材料**领域的最新进展进行了全面而深刻的总结。核心发现包括：
+> **核心结论**：该文章系统论证了**滑动铁电性**作为一种超越传统离子位移机制的、在二维范德华材料中普遍存在的物理现象，并通过多种材料体系和工程策略得到实验验证。其核心发现是，通过控制层间堆垛、扭转、相变或组分，可以打破空间反演对称性，产生可被电场、机械应力等外场翻转的层间极化。
 > 
-> -   **机制创新**: **滑动铁电性**通过层间相对滑动而非传统晶格中离子位移实现极化切换，其根本机制源于**非中心对称堆叠构型**下的层间电荷转移。
-> -   **材料普适性**: 这一现象在多种vdW材料（如石墨烯、hBN、TMDs，以及有机-无机杂化晶体）中具有普遍性，理论上适用于任何通过滑动改变层间电荷不对称的二维系统。
-> -   **调控多样性**: 可通过多种工程策略实现**滑动铁电性**的诱导和调控，包括利用非中心对称晶相、不对称堆叠、扭曲堆叠产生的莫尔超晶格、非化学计量组成以及构建异质结构。
-> -   **独特动力学**: **滑动铁电性**的极化切换展现出有别于传统铁电体的微观动力学，涉及复杂的层间相互作用和中间态。
-> -   **应用潜力广阔**: 在非挥发性存储器、柔性电子、光电器件和神经拟态计算等下一代电子学应用中展现出巨大潜力。
+> **理论贡献**：
 > 
-> **2. 理论贡献**: 这篇综述系统地梳理并深化了对**滑动铁电性**微观起源和切换动力学的理解，强调了层间电荷不对称作为极化来源的核心作用，并揭示了非传统切换路径的复杂性。它将分散的材料发现、工程策略和物理机制整合到一个统一的框架中，为该领域的理论发展提供了有价值的结构化参考，尤其指出了“双层堆叠铁电性（BSF）理论”的通用设计规则，极大地拓展了材料发现空间。
+> 1.  建立了一个统一的概念框架，将各种看似独立的实验现象（如扭曲hBN中的铁电性、3R-MoS₂中的极化翻转）统归于“滑动铁电性”这一核心机制下。
+> 2.  系统梳理了四大对称性破缺策略，为理性设计新型滑动铁电材料提供了清晰的指导原则。
+> 3.  阐明了滑动铁电独特的层间滑移动力学，将其与传统离子位移机制彻底区分开。
 > 
-> **3. 实践贡献**: 论文展示了**滑动铁电材料**在可重写存储器、铁电隧道结、光电器件和神经拟态计算等下一代电子学应用中的巨大潜力。其原子级薄的厚度、卓越的机械柔韧性以及通过缺陷容忍滑动机制实现的抗疲劳切换特性，为微型化、高密度集成和柔性电子器件的设计提供了全新的材料平台和解决方案，有望解决传统铁电材料面临的诸多挑战，推动相关技术的突破性发展。
+> **实践贡献**：
+> 
+> 1.  提供了一个全面的材料体系列表和性能对比（表1），为实验研究者选择和优化材料提供了重要参考。
+> 2.  展示了滑动铁电体在柔性存储、超快光电、神经形态计算等前沿领域的应用潜力，指明了技术转化方向。
+> 3.  明确指出了当前领域面临的挑战，如材料可控制备、机理深入理解、性能权衡等，为后续研究设定了议程。
 > 
 > ## 六、未来发展方向展望
 > 
-> 论文展望了**滑动铁电材料**领域未来三个特别有前景的关键研究方向：
+> 文章提及及隐含的未来研究方向：
 > 
-> 1.  **理论指导的材料发现（Theory-guided discovery）**：
->     
->     -   **策略**: 结合“双层堆叠铁电性（BSF）”框架与高通量**从头算（ab initio）**筛选，以识别同时具备合成兼容堆叠构型和稳健切换指标的材料系统。
->     -   **目标**: 克服材料发现的局限性，加速新型**滑动铁电材料**的识别，尤其关注那些理论上具有潜力但实验上尚未验证的体系（如中心对称单层CrI3）。
-> 2.  **原位表征技术发展（Operando characterization）**：
->     
->     -   **策略**: 利用**超快透射电子显微镜（ultrafast TEM）**或**X射线自由电子激光（X-ray free-electron lasers）**等尖端技术，以在**埃米-飞秒（Ångström-femtosecond）**尺度上解析极化切换动力学。
->     -   **目标**: 弥合理论预测与实验观察之间的鸿沟，更深入地理解极化切换的实时动力学，包括多层系统中复杂的畴壁运动和中间态。
-> 3.  **混合架构开发（Development of hybrid architectures）**：
->     
->     -   **策略**: 探索将**滑动铁电性**应用于异质结构，例如与**二维磁性材料（2D magnets）**或**超导体（superconductors）**耦合。
->     -   **目标**: 解锁新颖的涌现现象，如电场控制的拓扑相（topological phases），从而拓展**滑动铁电材料**的功能多样性和应用范围，推动多功能量子器件的发展。
-> 
-> 此外，论文还强调了需要克服的关键挑战，这些挑战也间接指明了未来的研究方向：
-> 
-> -   **制备技术突破**：开发更可靠的技术来克服热力学不稳定性，实现小角度扭曲堆叠材料的大规模、高精度制备（例如0.1°-5°的精确扭曲角），以及大规模制备3R相双层TMDs等。
-> -   **微观机理的深化理解**：深入研究层间电荷转移与晶格动力学在极化切换中的相互作用，特别是多层系统中竞争畴壁或可旋转亚基的动力学，以及缺陷介导的成核行为。
-> -   **表征技术差距**：填补缺乏能同时实现飞秒时间分辨率、埃米空间精度和毫电子伏特能量分辨率的表征技术的空白。
-> -   **本征性能权衡**：探索如何在设计上协同优化，以同时实现大极化强度（>50 μC/cm²）和低开关场（<0.1 MV/cm），解决强层间耦合与弱层间耦合之间的矛盾需求。
-> 
-> 总而言之，未来的研究将聚焦于建立**合成-结构-性质**的精确关系，开发标准化表征方案，并探索利用其独特物理特性的非常规器件架构。这些努力将共同推动**滑动铁电材料**在非挥发性存储、高效能电子学及量子材料领域实现从基础理解到实际应用的变革性潜力。
+> 1.  **理论引导的材料发现**：结合双层堆垛铁电（BSF）等通用理论与高通量计算筛选，预测并合成兼具合成可行性和优异性能（如大极化、低开关势垒）的新材料。
+> 2.  **先进原位表征**：发展具有飞秒时间分辨和埃级空间分辨的超快TEM或X射线自由电子激光技术，实现对极化翻转过程中原子级、超快动力学的直接观测，弥合理论与实验的鸿沟。
+> 3.  **大尺寸可控制备**：克服热力学不稳定性，发展可靠的CVD或其它技术，实现具有小扭转角（0.1°-5°）或特定堆垛（如3R相）的大面积、高质量薄膜生长，推动器件集成。
+> 4.  **混合异质架构**：将滑动铁电体与二维磁体、超导体等结合，探索由电场调控的拓扑相、磁电耦合等新奇物理现象，构建多功能量子器件。
+> 5.  **解决性能权衡**：研究如何打破材料中极化强度与开关电压的固有矛盾，寻找能同时实现大极化和超低功耗开关的新机制或新材料。
 > 
 > ## 七、学术思考与批判性分析
 > 
-> 1.  **材料发现的普适性与实验可实现性之间的矛盾如何解决？** 论文强调了**滑动铁电性**的几何起源使其理论上具有普遍性，许多二维vdW材料都可能展现此特性。然而，实验验证的材料种类相对有限，且如石墨烯这类材料对精确堆叠构型的严苛要求，在实际大规模制备中仍是巨大挑战。如何开发更普适且可控的制备技术（如克服热力学不稳定性实现大面积CVD生长精确小角度扭曲双层），以将理论上的广泛适用性转化为实际可用的材料平台，是亟待解决的问题。目前，人工机械剥离与重堆叠虽然精确，但无法大规模化；CVD生长虽具可扩展性，但在角度控制上仍存在瓶颈。
+> 1.  **问题一：滑动铁电性的“标度律”极限在哪里？** 文章指出，滑动铁电性解决了传统铁电的“临界尺寸效应”。然而，对于滑动铁电自身，其物理极限是什么？当材料横向尺寸微缩到纳米尺度，边缘效应、畴尺寸限制是否会破坏其铁电性？当层数减少到极限（如双层）时，极化强度是否有一个本征的上限？文章并未对此进行深入讨论。
 >     
-> 2.  **多层滑动铁电体中极化切换动力学的复杂性如何精确建模与调控？** 论文指出，多层系统中**滑动铁电性**的切换动力学涉及顺序层滑动、瞬态反平行偶极态和畴壁去钉扎等复杂过程（例如3R-MoS2）。这种多体效应和缺陷介导的成核行为使得理论预测与实验观测之间存在>100 meV的切换能垒差异。未来的研究需要更精细的多尺度理论模型，结合高分辨率、原位（_operando_）表征技术，以实时解析并精确调控这些复杂的层间相互作用，从而优化器件性能。理解和控制畴壁的动力学，特别是如何在低场下有效驱动畴壁，是实现高效能器件的关键。
+> 2.  **问题二：极化翻转动力学的“黑箱”问题** 尽管文章提出了逐层滑移等机制，但我们对翻转过程的真实动力学仍知之甚少。例如，在翻转过程中，是新畴在缺陷处成核并生长，还是整个区域发生协同性滑移？不同工程策略（扭曲、掺杂）引入的缺陷和应力场如何具体影响翻转路径和速度？**原位、超快表征技术**的缺失使得这部分机理仍处于“灰箱”状态。文章所提的“中间态”在实验上被捕捉到的证据仍然极少。
 >     
-> 3.  **滑动铁电性与其他新兴二维现象的耦合潜力如何深入挖掘？** 论文展望了**滑动铁电材料**与**二维磁性材料**或**超导体**耦合的混合架构，以解锁新颖的涌现现象，如电场控制的拓扑相变、磁电耦合等。但目前的探索仍处于早期阶段。如何在原子尺度上精确设计和构建此类多功能异质结？如何利用**滑动铁电性**对这些耦合现象进行高效调控，实现多功能一体化器件？这需要跨学科的深度融合研究，探索超出单一铁电性质的更广阔物理空间，例如利用**莫尔超晶格**中的**滑动铁电性**来调控拓扑电子态或关联电子态。
+> 3.  **问题三：工程策略的普适性与精确性的矛盾** 文章推广的四大策略非常强大，但背后存在一个根本性矛盾：普适性越高的方法（如扭曲），其结构越复杂、越难以精确控制和重复；而精确性越高的方法（如特定堆垛CVD生长），其普适性越低，可能只适用于特定材料。例如，摩尔超晶格虽然通用，但不可避免地存在结构弛豫、应变不均一等问题，导致器件性能不均一。如何在普适性和精确性之间取得平衡，是实现产业化的关键。
 >     
-> 4.  **大规模制备和表征的瓶颈如何突破以加速产业化进程？** 论文承认，制备大面积、具有精确扭曲角或特定堆叠构型的**滑动铁电材料**仍然面临热力学不稳定性和可扩展性难题。同时，缺乏能在**埃米-飞秒**尺度同时实现空间、时间和能量分辨率的表征技术，限制了对微观切换机制的全面理解。这些都是将实验室成果推向工业应用的根本性障碍。未来需要发展创新的自下而上或自上而下的大规模制备方法（如先进的CVD、分子束外延等），并结合同步辐射、超快激光、冷冻电镜等先进表征手段，形成从材料生长到器件性能的全链条闭环优化。
+> 4.  **问题四：从“现象”到“功能”的鸿沟** 文章展示了大量原型器件，但大多停留在实验室演示阶段。一个关键问题是，滑动铁电材料的独特优势（如抗疲劳性）是否足以超越现有成熟的铁电存储器（如HfO₂基）？与已商用的HfO₂相比，其开关速度、耐久性（>10¹⁰次）和数据保持能力（>10年）的量化对比数据仍然缺乏。仅凭“原子级厚度”和“柔性”并不足以形成颠覆性优势，必须找到能发挥其独特物理（如多态、光-电耦合）的“杀手级应用”。
 >     
-> 5.  **滑动铁电体的本征可扩展性困境（大极化vs低开关场）是否存在根本性解决方案？** 论文指出，材料系统难以同时实现大极化（>50 μC/cm²）和低开关场（<0.1 MV/cm），因为这通常涉及对强弱层间耦合的矛盾需求。强耦合有利于大极化，但可能导致高能垒；弱耦合有利于低能垒，但可能极化小。这是否意味着在某些应用场景下需要进行取舍，还是存在某种智能材料设计可以协同优化这两个关键参数？例如，通过异质结界面工程、应变调控、掺杂或引入拓扑缺陷等手段，能否在维持高极化强度的同时显著降低切换能垒？深入理解层间耦合的性质及其与极化、能垒的关系，是解决这一困境的关键。
+> 5.  **问题五：伪影排除与证据链的严谨性** 在早期二维铁电研究中，PFM（压电力显微镜）信号常被静电、离子迁移等非铁电效应所干扰。文章总结了大量实验，但对这些表征方法的伪影排除策略讨论不足。例如，一个清晰的PFM振幅蝶形回线和相位回线是否就足以作为铁电性的“铁证”？尤其是在掺杂或非化学计量比体系中，可移动离子也可能产生类似效应。建立更严格的证据链标准（如PUND测量、二次谐波产生、输运测量等多种手段相互印证）对于该领域健康发展至关重要。
 >     
 > 
 > ## 八、用户问题预测与解答
 > 
-> 1.  **问：什么是滑动铁电性（Sliding Ferroelectricity）？它与传统铁电性有何根本区别？** **答：** **滑动铁电性**是一种在**二维范德华（vdW）材料**中发现的新型铁电机制。它与传统铁电性的根本区别在于极化产生的物理起源和切换方式：
+> 1.  **问：滑动铁电性和传统铁电性最根本的区别是什么？用一个比喻说明。** **答**：最根本的区别在于极化的翻转机制。传统铁电体像一个**弹簧床垫**，极化翻转是内部的“弹簧”（离子）上下移动。而滑动铁电体像一叠**扑克牌**，极化翻转是通过让整张牌（原子层）稍微横向错开一点，改变了牌面上电荷分布的不对称性，从而翻转了上下表面的极性。
 >     
->     -   **传统铁电性**：通常发生在块体材料中，其极化源于晶体结构中原子（离子）的位移，导致正负电荷中心相对偏移，形成可翻转的电偶极子。极化切换涉及原子键的重排和离子位移。
->     -   **滑动铁电性**：主要发生在二维vdW材料中，其极化并非源于单个原子或离子的位移，而是由层间电荷转移以及不同层间相对滑动导致的**非中心对称堆叠构型**（即层与层之间的相对位置）引起的。极化切换通过层间滑动来改变这种堆叠构型，从而反转偶极子方向。 简而言之，传统铁电性是“原子动”，滑动铁电性是“层间滑”。
-> 2.  **问：为什么滑动铁电材料在下一代电子器件中具有巨大潜力？它解决了哪些传统问题？** **答：** **滑动铁电材料**在下一代电子器件中潜力巨大，主要归因于其独特的物理特性和克服传统铁电材料局限性的能力：
+> 2.  **问：为什么说滑动铁电性在二维材料中是“普遍”的？这对材料设计意味着什么？** **答**：因为其物理根源是几何上的对称性破缺，而不是特定化学键或离子的性质。任何二维材料，只要其单层存在某种不对称性，或者通过双层/多层的特定堆垛能打破空间反演对称性，理论上都能产生滑动铁电性。这意味着，材料设计的空间被极大地拓宽了，不再局限于少数几种本征极性材料，而是可以像搭乐高一样，通过堆垛和扭转“创造”出铁电性。
 >     
->     -   **超薄与集成**：作为原子级薄的二维材料，它们天然兼容**范德华集成**技术，非常适合微型化和高密度集成，突破了传统块体铁电材料的厚度限制。
->     -   **机械柔韧性**：二维材料固有的柔韧性使其成为可弯曲、可穿戴电子产品的理想选择，解决了传统材料的机械刚性问题。
->     -   **抗疲劳与高耐久性**：极化切换通过层间滑动而非破坏性的离子位移，有效规避了传统铁电体中因缺陷电荷引起的**钉扎效应（pinning effects）**，显著提升了器件的**耐疲劳性（endurance）**和**可靠性（reliability）**。
->     -   **多态存储与调控**：极化状态依赖于层间堆叠构型，使得设计**多态存储（multistate memory）**成为可能，并且可以通过电场、机械应力、应变甚至光照等多种外部刺激进行精确调控。
->     -   **低功耗**：由于通常涉及较小的原子尺度位移，其切换能垒理论上可以较低，有望实现超低功耗操作。
-> 3.  **问：目前有哪些主要的策略可以诱导或调控滑动铁电性？** **答：** 诱导和调控**滑动铁电性**的策略多种多样，主要包括：
+> 3.  **问：摩尔超晶格听起来很复杂，它产生铁电性的原理能用简单方式解释吗？** **答**：想象你有两张印满相同正方形网格的透明胶片，将它们完全对齐叠放，网格是完全重合的。现在，将其中一张胶片极轻微地旋转一个微小角度，你会看到明暗交替的周期性格子——这就是摩尔纹。在双层原子晶体中，当旋转角度很小时，原子排列会形成类似摩尔纹的周期性图案。在某些区域，上下层原子恰好形成AB堆垛模式，在另一些区域则形成BA堆垛模式。这两种堆垛模式会产生方向相反的电偶极矩，就像一个个微小的“向上”和“向下”的电池自发排列好了。因此，整个材料就展现出了铁电性。
 >     
->     -   **非中心对称晶相选择**：利用材料本身固有的非中心对称晶相（如3R-MoS2、某些In2Se3相），这些晶相在原子尺度上已经存在极化。
->     -   **不对称堆叠（Asymmetric Stackings）**：即使单层本身是中心对称的，通过精心设计多层间的相对位移，使其形成整体非中心对称的堆叠构型（如特定的石墨烯、hBN或SnSe2堆叠）。
->     -   **扭曲堆叠或莫尔超晶格（Twist Stackings or Moiré Superlattices）**：通过小角度旋转堆叠两层或多层材料，形成周期性的**莫尔超晶格**。莫尔图案中的特定区域（如AB/BA畴）会打破反演对称性并产生相反方向的局域极化。
->     -   **非化学计量组成（Non-Stoichiometric Compositions）**：通过掺杂（如Y掺杂γ-InSe）、引入原子空位或插层（如非化学计量Fe1+αTe2和AgCr1-xS2），在材料内部创建局部电荷不平衡或对称性破缺，从而诱导或增强**滑动铁电性**。
->     -   **异质结构（Heterostructures）**：将两种或多种不同的二维vdW材料堆叠在一起，利用它们之间固有的功函数差、能带对齐或离子极性差异，在界面处产生电荷转移和非对称极化（如MoS2/WS2异质双层）。 这些策略为**滑动铁电材料**的设计和性能优化提供了广阔的工程空间。
-> 4.  **问：滑动铁电材料在哪些具体应用方向展现出前景？** **答：** **滑动铁电材料**的独特优势使其在多个前沿电子学领域展现出巨大前景：
+> 4.  **问：文章提到滑动铁电存储器“抗疲劳”，这是为什么？** **答**：传统铁电体在反复翻转时，内部的离子会不断位移，久而久之容易在缺陷处“卡住”或导致晶格损伤，就像反复弯折一根铁丝，最终会因疲劳而断裂。而滑动铁电的翻转是整层原子协同“滑移”，不涉及强化学键的断裂和重构，对点缺陷的钉扎不敏感，因此本征地具有更强的抗疲劳特性。就像一叠扑克牌，你反复推拉最上面一张使其小幅错位，几乎不会造成任何磨损。
 >     
->     -   **非挥发性存储器（Non-volatile Memory）**：这是最直接的应用方向。基于其可逆的极化切换特性，可以开发具有高密度、低功耗、超快速度和卓越耐疲劳性的**铁电随机存取存储器（FeRAM）**和**铁电晶体管（FeFET）**。
->     -   **铁电隧道结（Ferroelectric Tunnel Junctions, FTJs）**：利用极化反转导致的隧穿势垒高度调制，实现大的**隧穿电致电阻（TER）**效应，是构建高读写比存储器件的关键。
->     -   **柔性电子器件（Flexible Electronics）**：材料本身的机械柔韧性，使其能够集成到可弯曲、可穿戴的设备中，例如柔性传感器和显示器。
->     -   **光电器件（Optoelectronic Devices）**：一些滑动铁电材料展现出极化依赖的光伏效应或光电响应，有望用于设计新型的光传感器、光调制器，甚至是可重构的光存储器。例如，ε-InSe展现出极化调制的超快体光伏响应。
->     -   **神经拟态计算（Neuromorphic Computing）**：通过模拟生物突触的权重调制功能，**滑动铁电体**可以作为**铁电突触器件（ferroelectric synaptic devices）**，构建高效、低功耗的**人工神经网络（artificial neural networks）**，推动人工智能硬件的发展。
->     -   **多功能量子器件（Multifunctional Quantum Devices）**：与磁性或自旋电子学效应耦合，可望实现电场调控磁性或自旋态，为开发新型多功能量子器件提供平台。
-> 5.  **问：当前滑动铁电领域面临哪些主要挑战？** **答：** 尽管进展迅速，**滑动铁电**领域仍面临多重挑战：
+> 5.  **问：这项技术离我们普通人使用的电子产品还有多远？最大的瓶颈是什么？** **答**：目前仍处于基础研究和早期应用探索阶段，距离商业化产品还有相当距离。最大的瓶颈是实现**晶圆级、高质量、性能均一的材料制备**。目前大多数高性能器件都基于手工撕扯和堆叠的微米级样品，这种“手工作坊”式的制备方法无法满足工业量产的需求。如何像生产硅晶圆一样，精确可控地生长出具有特定扭转角度和堆垛结构的二维材料，是当前面临的最大挑战。
 >     
->     -   **材料发现与合成可控性**：虽然理论预测了大量潜在材料，但实验上精确控制原子级堆叠构型、扭曲角度（特别是小角度）以及材料的均匀性、大面积生长仍然非常困难，热力学不稳定性是主要障碍。
->     -   **微观机理的深度理解**：多层材料中极化切换的动态过程（如畴壁形成与运动、中间态、缺陷介导效应、多体问题）仍然复杂且难以完全解析，理论模型与实验观测之间存在差距。
->     -   **先进表征技术的缺乏**：缺乏能同时提供**飞秒级时间分辨率、埃米级空间分辨率和毫电子伏特级能量分辨率**的表征技术，这限制了对极化切换事件和其微观物理机制的实时、全面探测。
->     -   **本征性能权衡（Intrinsic Property Trade-offs）**：在实现高极化强度（>50 μC/cm²）和低开关能垒（<0.1 MV/cm）之间存在内在冲突，因为这通常要求材料具有强层间耦合（高极化）和弱层间耦合（低能垒）的双重特性，如何在设计上协同优化是难题。
->     -   **器件集成与稳定性**：如何将这些新型2D材料稳定、可靠地集成到实际器件中，并保证其长期工作稳定性、抗环境因素干扰等，仍需大量工程努力。 克服这些挑战将是推动**滑动铁电材料**从实验室走向应用的关键。
 > 
 > ## 九、专区：便于 Obsidian Dataview 插件调用
 > 
-> 领域基础知识:: **滑动铁电性**是一种在**二维范德华（vdW）材料**中发现的新型铁电机制，其极化产生于层间电荷转移和**非中心对称堆叠构型**，切换通过层间滑动实现，不同于传统铁电的离子位移。
+> 领域基础知识:: 二维滑动铁电性是一种在范德华层状材料中，通过层间滑移而非传统离子位移来实现极化翻转的新型铁电机制。它源于非中心对称堆垛构型下的层间电荷转移，为解决传统铁电体在纳米尺度下的临界尺寸效应提供了革命性方案。
 > 
-> 研究背景:: 传统块体铁电材料在微型化、集成和柔性应用中面临厚度、机械刚度和高开关场等挑战。二维材料虽有优势但受限于临界尺寸效应和界面效应。**滑动铁电性**作为一种新机制，提供克服这些挑战的突破口，实现原子级厚度、机械柔韧性和抗疲劳性。
+> 研究背景:: 传统铁电体在微型化时面临退极化场增强、界面效应等挑战，导致铁电性在二维极限下被抑制。实验证实的二维铁电体材料极为有限。2017年，滑动铁电性概念被首次提出，为在二维材料中实现稳健铁电性开辟了新范式，并迅速成为凝聚态物理和材料科学的研究热点。
 > 
-> 作者的问题意识:: 作者旨在全面总结**滑动铁电材料**领域的前沿进展，阐明其物理本质、工程策略、微观机制和器件应用，同时指出当前面临的关键挑战，并展望未来的研究方向，以指导下一代**滑动铁电材料**的合理设计。
+> 作者的问题意识:: 本文旨在对快速发展的二维滑动铁电领域进行一次聚焦性展望，而非详尽综述。核心在于系统梳理其材料体系，归纳打破反演对称性的工程策略，解析独特的层间滑移动力学，展示新兴器件应用，并明确指出当前面临的关键挑战与未来研究方向，以指导下一代材料的理性设计。
 > 
-> 主要研究对象:: **二维范德华（vdW）滑动铁电材料**，包括石墨烯、六方氮化硼（hBN）、过渡金属二硫化物（TMDs，如MoS2、WTe2、In2Se3等）、有机-无机杂化晶体，以及各类异质结构和非化学计量组成材料。
+> 主要研究对象:: 二维范德华材料中的滑动铁电性。具体包括已实验证实的材料体系（如石墨烯多层、六方氮化硼、过渡金属硫族化合物、有机-无机杂化晶体）以及理论预测的候选材料（如HgI2、ZrI2等）。
 > 
-> 主要研究方法:: 本文是一篇综述性（Perspective）文章，主要采用文献调研和总结归纳的方法。通过梳理和分析领域内已发表的理论计算、实验验证、材料合成、器件制备及表征等研究成果，进行结构化解读和知识体系重构。
+> 主要研究方法:: 1. 理论计算：第一性原理计算、对称性分析、双层堆垛铁电（BSF）理论。2. 材料合成：化学气相沉积（CVD）、机械剥离与人工堆叠、分子束外延（MBE）。3. 表征技术：压电力显微镜（PFM）、开尔文探针力显微镜（KPFM）、二次谐波发生（SHG）、PUND（正-上-负-下）电学测量、扫描透射电子显微镜（STEM）。4. 器件加工与测试：制备铁电晶体管、铁电隧道结、光电器件，并测试其电学与光学性能。
 > 
-> 研究意义:: **滑动铁电材料**为下一代非挥发性存储、柔性电子、光电子和神经拟态计算器件提供了全新的材料平台。其独特机制克服了传统铁电材料的局限，为实现微型化、高密度、低功耗、高耐久性的电子器件开辟了道路，并有望解锁新的量子现象。
+> 研究意义:: 滑动铁电性的发现不仅从根本上拓展了铁电物理的范畴，更提供了一种超越材料本征属性、“按需设计”铁电功能的新范式。其原子级厚度、抗疲劳开关、多态存储潜力及与柔性、光电等特性的天然结合，为发展下一代高密度、低功耗、多功能集成的非易失性存储、神经形态计算和量子器件铺平了道路。
 > 
-> 研究结论:: **滑动铁电性**是二维vdW材料中的普遍现象，其极化源于非中心对称堆叠下的层间电荷转移，通过层间滑动实现可逆切换。多种工程策略（晶相、堆叠、扭曲、非化学计量、异质结构）可有效调控其性能。该材料在存储、光电、神经拟态计算等领域潜力巨大，但仍面临材料合成、机理理解、表征技术和可扩展性等挑战。
+> 研究结论:: 1. 滑动铁电性是二维范德华材料中一种普遍存在的物理现象，其根源在于几何对称性破缺。2. 实现并调控滑动铁电性的核心策略包括：利用非中心对称晶相、构造不对称堆垛、构建扭曲堆垛/摩尔超晶格以及引入非化学计量比组分。3. 极化翻转通过层间亚埃级横向滑移实现，多层体系存在逐层翻转的复杂中间态。4. 基于此特性的原型器件在柔性电子、超快光电和计算领域展现出巨大潜力，但产业化仍面临材料制备等关键挑战。
 > 
-> 对领域的贡献:: 本文系统性地整合了**滑动铁电材料**从基础概念、材料体系、工程策略、微观机制到器件应用的知识图谱，提出了领域面临的关键挑战并展望了未来发展方向。它为学术初学者和研究者提供了全面且深刻的理解框架，并为未来研究指明了方向，有助于加速该领域的理论发展和实际应用。
+> 对领域的贡献:: 本文为“滑动铁电性”这一新兴但略显庞杂的领域构建了一个清晰、结构化的知识框架。它将零散的研究成果按“材料-策略-机理-应用-挑战”的逻辑链进行整合，明确了核心概念，统一了研究范式，并指明了未来的关键突破方向，是该领域研究者和入门者的重要导航性文献。
 > 
-> 未来研究方向提及:: 理论指导的材料发现（结合BSF框架和高通量ab initio筛选）、原位表征技术发展（超快TEM、X射线自由电子激光）、混合架构开发（与二维磁性/超导体耦合），以及克服制备、机理和本征可扩展性困境。
+> 未来研究方向提及:: 1. 结合理论框架与高通量计算，筛选可合成的高性能新材料。2. 发展飞秒级时间分辨和埃级空间分辨的原位表征技术，以揭示极化翻转的真实动力学。3. 研发可控的大面积、小扭转角二维材料薄膜制备技术。4. 探索滑动铁电体与二维磁体、超导体等构成的异质结构，以发现新物态。5. 解决材料中极化强度与开关电压之间的固有性能权衡矛盾。
 > 
-> 未来研究方向思考:: 除了论文提及的方向，还可关注：1) 异质结构界面工程的精细调控，以实现协同优化大极化与低开关场；2) 缺陷工程在增强铁电性能及稳定性方面的作用；3) 利用机器学习/AI加速**滑动铁电材料**的设计与性能预测；4) 探索极端条件（如超高压、超低温）下**滑动铁电性**的新奇物理现象。
+> 未来研究方向思考:: 1. 探索滑动铁电畴壁本身的导电性、磁性等新奇物性，发展“畴壁电子学”。2. 研究光、热、磁等多物理场对滑动铁电性的耦合调控，开发多功能传感器。3. 将滑动铁电体与硅基CMOS工艺的后道集成（BEOL）兼容性纳入研究，探索其作为嵌入式存储的可行性。4. 发展基于“负电容”效应的滑动铁电晶体管，以突破玻尔兹曼极限，实现超低功耗逻辑器件。5. 建立标准化的表征协议和数据库，对材料的矫顽场、剩余极化、开关速度、耐久性等关键指标进行系统统计，以加速材料筛选和器件优化。
 > 
 > 🚀 [笔记回链](zotero://select/library/items/C373PYHL)
 > 
 > * * *
 > 
-> `Gemini`  `gemini-2.5-flash`  _由批量 AI 解读自动生成于 2026/8/6 13:21:06 （重新解读）_
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/11 07:01:02 （重新解读）_
 > 
 > 🏷️ #🤖️/AI文献解读 🏷️ #🤖️/AI文献阅读
 
-^KEYF402322F
+^KEY4F037FFA
+
+## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span>
+
+> 🚀 [笔记回链](zotero://select/library/items/FLCBAPLV)
+
+^KEYaiPaper0
+
+> <span class="AIReading">🤖 AI 解读，快人一步</span>
+> 
+> > 嗯，用户提供了一篇关于二维滑动铁电性的学术综述文章，并附带了详细的系统指令，要求我以学术文献深度解读专家的身份，生成一份结构化的深度解读报告。
+> > 
+> > 我需要先拆解用户的指令。用户的核心要求是撰写一份符合特定格式和能力的深度解读报告。报告必须包含八个固定模块，使用纯文本，保持客观，并运用Markdown格式。我的角色是专家，读者是初学者或非专业人士。
+> > 
+> > 我快速浏览了文献内容，这是一篇发表在npj 2D Materials and Applications上的Perspective文章，主题是“二维滑动铁电性的新兴前沿”。文章的核心是介绍一种新型的铁电机制——滑动铁电性，它区别于传统的离子位移，通过层间滑移来实现极化翻转。文章结构清晰，涵盖了材料体系、诱导策略、微观机制和器件应用。
+> > 
+> > 我需要将这篇复杂的综述转化为用户指定的八模块结构。引言部分需要概述背景、核心问题和文献价值。逻辑概览要梳理出从问题到解决方案再到未来展望的论证链条。图表解析部分，我需要逐一描述文中的图表内容，并注明单位。正文剖析部分要详细阐述材料体系、工程策略、微观机制和器件应用。结论部分总结核心贡献。展望部分归纳未解决的问题。批判性分析部分提出几个深度问题。最后，用户问题预测与解答部分要生成延伸问题并解答。
+> > 
+> > 在组织语言时，我会使用比喻和通俗化表达，比如将“滑动铁电性”比喻为“魔方”，将“传统铁电性”比喻为“冰箱门封条”，以帮助非专业读者理解。我会严格遵循Markdown语法，确保报告结构规整，信息密度适中，并在首次出现专业术语时进行解释。整个思考过程围绕如何将复杂的学术内容转化为一份逻辑清晰、易于理解的报告展开。
+> 
+> ## 一、引言
+> 
+> ### 1.1 研究背景与核心问题
+> 
+> 在现代电子设备持续向微型化、高密度集成和柔性化发展的趋势下，传统**铁电材料**（Ferroelectric Materials，指具有自发极化且极化方向可被外电场翻转的材料）面临根本性挑战。其固有的厚度限制、机械刚性和较高的切换电压，成为制约技术发展的瓶颈。二维材料的出现为解决这一困境提供了新思路，但传统二维铁电体受限于**临界尺寸效应**（厚度减小时退极化场增强，抑制铁电序）和界面效应，实验上可用的材料体系极为有限。
+> 
+> ### 1.2 文献定位与核心价值
+> 
+> 本文是一篇发表于《npj 2D Materials and Applications》的**前瞻性综述（Perspective）**，系统阐述了**滑动铁电性**（Sliding Ferroelectricity）这一新兴领域的最新进展。滑动铁电性是一种全新的铁电机制：其极化翻转不再依赖传统离子位移，而是通过范德华（vdW）层状材料中相邻层间的整体水平滑移来实现。这一概念自2017年由Wu等人理论预言，后经WTe₂、六方氮化硼（hBN）等体系的实验证实，已成为凝聚态物理和材料科学的研究热点。
+> 
+> 本文的核心价值在于：**系统性梳理了滑动铁电材料的实验与理论体系，归纳了打破对称性的工程策略，深入剖析了极化翻转的微观物理机制，并展望了从非易失性存储器到神经形态计算等器件应用，为研究者提供了结构化的知识地图。**
+> 
+> * * *
+> 
+> ## 二、论文结构与逻辑概览
+> 
+> 本文采用 **“总-分-总”** 的叙事结构，逻辑链路清晰，从材料发现到机制理解，最终落脚于应用与挑战。
+> 
+> ### 2.1 核心论证链条
+> 
+> _背景/问题 → 全新机理 → 材料体系 → 工程策略 → 微观机制 → 器件应用 → 未来挑战_
+> 
+> ### 2.2 论文框架解构
+> 
+> 1.  **引言：范式革命** 定义滑动铁电性，阐述其相较于传统铁电体的核心优势（缺陷容忍度高、多态存储潜力、多场调控性）。
+> 2.  **材料体系全景图**：
+>     -   **实验证实体系**：涵盖无机晶体（石墨烯、hBN、TMDs）和有机-无机杂化晶体（CCC）。
+>     -   **理论预测体系**：介绍HgX₂、ZrI₂、penta-PdSe₂/PtSe₂等新材料，拓展设计空间。
+> 3.  **打破对称性的工程策略**：
+>     -   **非中心对称晶相**：利用3R、1T''等晶相的本征对称性破缺。
+>     -   **不对称堆垛**：通过基底引导或人工转移实现非平衡层间堆叠。
+>     -   **扭转堆垛/莫尔超晶格**：以微小转角重构周期性极化畴。
+>     -   **非化学计量比**：通过掺杂、空位等引入局部电荷不平衡。
+>     -   **异质结构**：利用异质界面本征的电荷非对称性。
+> 4.  **微观机制深度剖析**：揭示极化起源于层间电荷转移，阐述其独特的层间滑移动力学、中间态和畴壁运动。
+> 5.  **器件应用与未来展望**：展示柔性存储、铁电隧穿结、光电探测器及神经形态突触等应用，并指出当前瓶颈与未来方向。
+> 
+> * * *
+> 
+> ## 三、所有图表深度解析
+> 
+> ### 3.1 图1：滑动铁电性发展里程碑 （The milestones during the development of sliding ferroelectricity）
+> 
+> -   **类型**：时间线/里程碑图
+> -   **内容解析**：该图以时间轴形式展示了从2017年理论提出到2025年研究进展的关键节点。主要包括：
+>     -   2017年：Wu课题组理论预言双层/多层堆垛可产生面外极化。
+>     -   2018-2021年：WTe₂、hBN、TMDs（如WSe₂、MoS₂）等体系的实验证实。
+>     -   2022年后：扭转工程、多态极化、器件应用（如柔性存储器）的突破。
+> -   **核心信息**：直观展示了滑动铁电性从一个理论概念迅速演变为一个涵盖多材料体系、多调控策略的蓬勃研究领域。
+> 
+> ### 3.2 图2：石墨烯的滑动铁电性 （Sliding ferroelectricity of graphene）
+> 
+> -   **单位/量纲**：极化值单位 pC/m
+> -   **内容解析**：
+>     -   **(a)** 展示了双层、三层和四层石墨烯的不同堆垛构型（如ABAC堆垛）。
+>     -   **(b)** 四层石墨烯在两个极化态（ABAC ↔ CBAB）之间的多步切换路径，中间经过非极化中间态（如ABAB）。
+>     -   **(c)** 五层石墨烯的堆垛构型及其对应的理论铁电极化值。
+> -   **核心信息**：揭示了高度对称的石墨烯也能通过“跨层”电荷不对称性诱导出滑动铁电性，但其对堆垛序列要求极为苛刻，极化切换路径复杂。
+> 
+> ### 3.3 图3：六方氮化硼（hBN）的滑动铁电性 （Sliding ferroelectricity of hBN）
+> 
+> -   **单位/量纲**：表面电势差量纲 (mV/meV)，矫顽场 (V)，剩余极化 (μC/cm²)
+> -   **内容解析**：
+>     -   **(a)** 扭转双层hBN中，AB和BA堆垛区域形成相反的极化畴（开尔文探针力显微镜KPFM图）。
+>     -   **(b)** 铁电回滞线，证明其可翻转的极化特性。
+>     -   **(c-d)** 应变工程调控的铁电畴图案及其可逆翻转。
+>     -   **(e-f)** 外延生长的hBN/石墨烯异质结中，观测到嵌套式“盒中盒”铁电畴和180°的压电力显微镜（PFM）相位反转。
+>     -   **(g)** 五层hBN器件的正-上-负-下（PUND）测试，测得矫顽场为±1.5 V，剩余极化强度为0.375 μC/cm²。
+> -   **核心信息**：hBN是滑动铁电性的理想模型体系，其铁电性可通过扭转、应变、异质结等多种方式调控，并已实现可稳定工作一周以上的器件。
+> 
+> ### 3.4 图4：非中心对称晶相的滑动铁电性 （Sliding ferroelectricity of noncentrosymmetric crystal phases）
+> 
+> -   **内容解析**：
+>     -   **(a-d)** In₂Se₃的相控合成：通过化学气相沉积（CVD）和Se/In比例调控，实现了β、β‘、α相的可控生长，展示了从反铁电到铁电的相变，并基于此制备了高迁移率场效应晶体管。
+>     -   **(e-f)** In₂Se₃的相变路径：以γ-InSe为前驱体，通过温度调控实现3R α-、β-和2H α-In₂Se₃多晶型转变。
+>     -   **(g-h)** 原子尺度畴壁运动：2H相倾向于形成面内畴壁，而3R相则倾向于面外畴壁，其相变机制也截然不同。
+> -   **核心信息**：精确控制材料的晶相是利用本征非中心对称结构诱导滑动铁电性的关键，而相工程（Phase Engineering）提供了强大的调控手段。
+> 
+> ### 3.5 图5：不对称堆垛策略 （Asymmetric stacking strategy）
+> 
+> -   **内容解析**：
+>     -   **(a-c)** 基底引导的CVD生长：实现了SnSe₂的6R、12R等高阶多型体的精确堆垛控制，并证实了AB‘堆垛的铁电性。
+>     -   **(d-h)** 翻转-反射转移技术：实现了100%成功率的斜方堆垛三层hBN/石墨烯/hBN异质结构，发现存在奇偶层效应，单层石墨烯在封装后表现出创纪录的室温极化强度（1.76 μC/cm²）和超过50,000次循环的耐久性。
+> -   **核心信息**：人工精确操控堆垛次序是打破中心对称、创建强极化铁电体的决定性手段，亚埃级的堆垛差异即可决定铁电性的有无。
+> 
+> ### 3.6 图6：扭转堆垛与莫尔超晶格 （Twisted stackings and Moiré superlattices）
+> 
+> -   **内容解析**：
+>     -   **(a-b)** 展示了hBN从非极化的AA’堆垛转变为极化的AA堆垛时对称性的变化。
+>     -   **(c)** 截面图展示了AB和BA堆垛中B/N原子的对角线电荷有序排列，这是极化产生的根源。
+>     -   **(d)** 0.5°扭转双层hBN的晶格弛豫图，显示弛豫后形成规则的AB/BA三角铁电畴，被AA型鞍点分离。
+> -   **核心信息**：扭转工程通过产生交替的AB/BA堆垛区域，将本征非极性的材料转化为具有周期性极化畴的“人工铁电体”，其极化大小和畴尺寸可通过转角连续调节。
+> 
+> ### 3.7 图7：非化学计量比组分 （Non-stoichiometric compositions）
+> 
+> -   **内容解析**：
+>     -   **(a-c)** Y掺杂γ-InSe：二次谐波（SHG）信号增强证明对称性破缺，PFM振幅蝴蝶曲线和相位回滞线证实了铁电切换行为，压电系数较未掺杂样品提升一个数量级。
+>     -   **(d-e)** 非化学计量比Fe₁₊αTe₂：通过改变化学计量比(α)可同时调控面外和面内铁电性，这源于间隙金属原子引起的弗兰克尔缺陷和层间滑移的共同作用。
+> -   **核心信息**：非化学计量比（如掺杂、间隙原子）是一种不依赖堆垛顺序的“化学”对称性破缺策略，为设计新型滑动铁电体开辟了新维度。
+> 
+> ### 3.8 图8：滑动铁电性的微观机制 （Microscopic mechanisms）
+> 
+> -   **内容解析**：
+>     -   **(a-b)** 双层3R-MoS₂的极化产生机制：AB和BA堆垛通过界面电荷转移产生相反极化，两者之间存在热力学能量势垒。
+>     -   **(c)** 多层3R-MoS₂的逐层滑移模型：极化翻转不是整体同时进行，而是各层依次滑移，中间会形成反平行的瞬时偶极态。
+> -   **核心信息**：揭示了滑动铁电性“层间电荷转移”的本质，并阐明了其独特的、非整体的“逐层翻转”动力学过程，这对于理解其开关速度和中间态行为至关重要。
+> 
+> ### 3.9 图9：器件应用 （Device applications）
+> 
+> -   **单位/量纲**：开关比 (on/off ratio), 响应时间 (τ, ps)
+> -   **内容解析**：
+>     -   **(a-d)** 基于3R-MoS₂的柔性铁电存储器阵列，在1000次弯曲循环后仍保持优异的转移、保持和耐久特性。
+>     -   **(e-h)** 石墨烯/ε-InSe/石墨烯器件，展示了由滑移铁电极化诱导的超快体光伏响应（~3 ps），且可通过栅压进行调控。
+> -   **核心信息**：滑动铁电体在柔性存储和超快光电探测方面展现出巨大潜力，其疲劳抗性和与二维材料的天然兼容性是其核心优势。
+> 
+> * * *
+> 
+> ## 四、正文核心内容剖析
+> 
+> ### 4.1 研究背景：从传统铁电到二维滑动铁电的范式转移
+> 
+> 传统铁电体的极化源于非中心对称晶格中**离子位移**，在减薄至纳米级时，由于退极化场和界面效应，铁电性通常会减弱甚至消失。滑动铁电性提供了一个根本性的解决方案：其极化翻转由**层间滑移**这一物理机制主导，完全不依赖或弱依赖于离子位移。这使得该机制天然具有以下优势：
+> 
+> -   **抗疲劳性**：滑移不涉及离子迁移，因此对缺陷钉扎不敏感，理论上可实现无限次耐久的开关。（文中提到基于hBN和3R-MoS₂的器件已实现>10⁴甚至>50,000次循环耐久性）。
+> -   **多态性**：极化态仅由堆垛构型决定，理论上可实现的亚稳堆垛态都对应不同的极化态，为多比特存储提供了物理基础。
+> -   **超低场切换**：层间滑移的能量势垒远低于离子位移，可实现极低电压下的极化翻转。
+> 
+> ### 4.2 方法/模型：设计滑动铁电体的五大工程策略
+> 
+> 本文的核心方法论是归纳了五种打破**空间反演对称性**（Spatial Inversion Symmetry）的工程策略，这是诱导滑动铁电性的前提条件。
+> 
+> 1.  **非中心对称晶相工程**：直接利用材料本身存在的非中心对称晶相，如TMDs的3R、1T’相。典型案例是3R-MoS₂，其自然堆垛即具有极化，通过剪切转变诱导的螺旋位错可实现集体翻转。
+> 2.  **不对称堆垛工程**：通过精确控制层间滑移，将原本中心对称的材料（如双层hBN）转变为非中心对称的AB/BA堆垛。这需要原子级精度的操控，如“翻转-反射转移”技术。
+> 3.  **扭转堆垛/莫尔工程**：将两层材料以微小角度扭转，会形成周期性排列的AB/BA畴区，即**莫尔超晶格**（Moiré Superlattice）。该方法可将任何非极性双层材料“重构”为铁电体，且极化特性可通过扭转角调控。阈值效应在WSe₂中被发现（>4°转角铁电性消失）。
+> 4.  **非化学计量比工程**：通过引入空位、掺杂原子或间隙原子，在层内或层间制造局部电荷不平衡，从而打破对称性。例如，Y掺杂的γ-InSe和Fe间隙的Fe₁₊αTe₂。
+> 5.  **异质结构工程**：将两种不同材料堆叠，利用界面处本征的功函数差、电荷转移和晶格失配，直接构建出非对称的界面偶极矩。MoS₂/WS₂异质结即通过此方法获得了极强的面外极化。
+> 
+> ### 4.3 实验/数据：微观机理与宏观性能的关联
+> 
+> -   **极化起源**：通过第一性原理计算和Hirshfeld电荷分析，证实极化来源于层间滑移导致的**未补偿层间电荷转移**（如WTe₂中约0.07 e的净电荷转移）。
+> -   **切换动力学**：
+>     -   **逐层翻转**：多层3R-MoS₂的翻转是逐层进行的，会导致中间出现反平行的非稳态极化态。
+>     -   **机械-极化耦合**：弯曲可以产生拓扑畴壁，通过扭结（kink）的形成来翻转极化，这是一种与挠曲电效应不同的新机制。
+>     -   **倾斜电场驱动**：对于BN等材料，倾斜电场可以耦合面内极化分量，从而降低切换的临界电场强度。
+> -   **性能指标**：
+>     -   **剩余极化**：从石墨烯的~0.32 pC/m到hBN/石墨烯异质结的1.76 μC/cm²，再到体光伏器件ε-InSe的~10⁴开关比，性能跨度极大，取决于材料体系和工程策略。
+>     -   **开关速度**：ε-InSe中极化诱导的体光伏响应时间仅为~3 ps，展示了超快潜力。
+> 
+> ### 4.4 讨论：机遇与挑战并存
+> 
+> 文章在末尾进行了深刻的批判性讨论，指出了该领域当前的主要瓶颈：
+> 
+> -   **理论-实验的鸿沟**：BSF理论预测了大量候选材料，但实验上能实现精确堆垛控制的体系寥寥无几。
+> -   **动力学黑箱**：对真实器件中极化翻转的实时、原子尺度的动力学过程理解仍不透彻，特别是多畴、多层体系中的复杂行为。
+> -   **性能跷跷板效应**：强极化与低切换势垒在物理上难以兼得，需要超越对称性策略的新思路（如应变、掺杂协同）。
+> -   **可扩展性制造**：目前依赖机械剥离和人工堆叠的制造方法完全无法实现规模化，发展可实现晶圆级、小转角、特定堆垛的CVD生长技术是关键。
+> 
+> * * *
+> 
+> ## 五、结论与贡献
+> 
+> ### 5.1 核心发现
+> 
+> 1.  **确立了滑动铁电性的普适性**：铁电性不再局限于少数离子型化合物，而是范德华层状材料的通用属性，其本质是几何堆垛导致的对称性破缺。
+> 2.  **提供了系统性的材料设计工程策略**：从晶相选择、堆垛控制到扭转、掺杂和异质结构，建立了一套完整的调控对称性以诱导铁电性的方法工具箱。
+> 3.  **揭示了独特的微观切换机制**：论证了极化翻转通过“层间滑移”和“逐层翻转”的非传统路径进行，为理解其抗疲劳、多态等宏观特性提供了物理基础。
+> 4.  **展示了变革性的器件应用潜力**：在柔性非易失性存储器、超快光电探测器和神经形态突触等领域，滑动铁电体展现出远超传统材料的性能优势。
+> 
+> ### 5.2 理论贡献与实践价值
+> 
+> -   **理论贡献**：拓展了铁电物理学的边界，将铁电序与莫尔物理、滑移电子学（Slidetronics）等新兴前沿领域紧密联系起来。
+> -   **实践价值**：为下一代高性能、低功耗、多功能的二维电子器件提供了全新的材料平台和设计指南，指明了从材料发现到工业化应用的关键路径。
+> 
+> * * *
+> 
+> ## 六、未来发展方向展望
+> 
+> 文章指明了若干尚未解决的关键问题，它们构成了未来研究的核心方向：
+> 
+> 1.  **理论驱动的材料发现**：结合BSF理论和高温量第一性原理筛选，从海量二维材料数据库中发现兼具环境稳定性、合成兼容性和强极化翻转特性的新体系。
+> 2.  **超快原位表征**：发展具有<10飞秒时间分辨率、埃级空间分辨率和meV能量分辨率的综合性表征技术（如超快电子显微镜、X射线自由电子激光），以直接“看见”极化翻转的实时原子运动。
+> 3.  **突破性能跷跷板**：发展协同设计策略，如利用梯度组分、应变工程或光场耦合，在保持低切换势垒的同时实现大极化强度。
+> 4.  **可规模化制造工艺**：开发能够直接生长特定转角（0.1°-5°）和特定堆垛（如3R、斜方）的大面积晶圆级CVD技术，是实现产业化的决定性一步。
+> 5.  **混合量子架构**：探索滑动铁电体与二维磁体、超导体、拓扑绝缘体等量子材料的异质集成，以期通过电场调控磁性、拓扑态或超导序，开拓全新的量子器件原理。
+> 
+> * * *
+> 
+> ## 七、学术思考与批判性分析
+> 
+> ### 问题1：极化强度的“创纪录”与实用性
+> 
+> 文中多次报道“创纪录”的极化强度（如1.76 μC/cm²），但与传统的钙钛矿氧化物铁电体（如Pb(Zr,Ti)O₃，极化强度可达~100 μC/cm²）相比，其绝对值仍然很低。**这一根本性差异是否意味着滑动铁电体在存算一体等需要大电荷差的领域难以取代传统铁电体？** 其优势是否仅集中在低功耗、高密度和柔性等特定场景？
+> 
+> ### 问题2：热力学稳定性与“亚稳态”悖论
+> 
+> 许多滑动铁电性依赖于非平衡的堆垛构型（如AA堆垛的hBN），这些构型在热力学上往往是亚稳态的。**在实际器件工作的热环境和电场循环下，这些亚稳态构型是否会自发弛豫回基态，从而导致器件性能退化和数据丢失？** 文章对长期稳定性的评估（一周以上）仍显不足。
+> 
+> ### 问题3：“逐层翻转”机制对速度的限制
+> 
+> 多层MoS₂的“逐层翻转”机制虽然有趣，但引人担忧。**这种涉及多个层的顺序运动，其整体翻转速度是否会被最慢的一层所限制？** 相比于传统铁电体中畴壁的集体运动，这种机制在追求纳秒级超快开关时，是否会成为根本性的物理瓶颈？
+> 
+> ### 问题4：畴工程的可控性
+> 
+> 扭转工程产生的AB/BA莫尔铁电畴虽然规则，但畴壁（AA堆垛点）是无序排列的。**能否实现对畴壁密度、位置和类型的精确控制？** 缺乏对畴壁的控制，将严重制约基于畴壁逻辑或存储等高级应用的发展。
+> 
+> ### 问题5：表征的真实性
+> 
+> 目前对滑动铁电性的主流表征手段是PFM和KPFM。**如何排除这些技术中由静电、离子迁移或电化学效应引入的虚假信号？** 特别是在非化学计量比或掺杂体系中，离子导电性可能增强，如何确保证据链的严谨性，将“类似铁电”的行为与真正的铁电性区分开？
+> 
+> * * *
+> 
+> ## 八、用户问题预测与解答
+> 
+> **Q1：什么是滑动铁电性？它与传统铁电体有何本质区别？** **A1：** 传统铁电体的极化翻转如同冰箱门上的磁贴，通过大量离子（正负电荷中心）的微小相对位移来实现。而滑动铁电性则像两张叠在一起的扑克牌，通过整张牌的水平滑动，使其花纹（电荷分布）的相对位置改变，从而产生垂直于牌面的净偶极矩。它的极化单元是整层原子，翻转不依赖离子位移，而是层间范德华界面的滑移。这带来了低翻转势垒、高抗疲劳性等核心优势。
+> 
+> **Q2：为什么六方氮化硼（hBN）是研究滑动铁电性的“明星材料”？** **A2：** hBN拥有几个独特优势：（1）**结构简单**：二元化合物，易于理论建模；（2）**绝缘性好**：宽禁带，能直接测量极化电荷，排除漏电流干扰；（3）**堆垛构型多样**：其AA’、AB、BA堆垛的结构和能量差异明确，是验证“堆垛决定极化”理论的最佳模型平台；（4）**环境稳定性**：化学性质稳定，便于器件加工和测试。因此，从理论到实验，hBN都扮演了滑动铁电性“试金石”的角色。
+> 
+> **Q3：文中提到的“莫尔工程”听起来很神奇，它如何让非铁电材料变成铁电体？** **A3：** 想象两块印有完全相同方格图案的透明玻璃板。将它们完全对齐叠放，图案是均匀的，没有特殊结构。但如果你将其中一块旋转一个微小角度，就会看到明暗相间的巨大条纹，这就是**莫尔条纹**。在二维材料中，两块原子级厚的晶体以微小角度扭转，就会形成原子排列的莫尔图案。这个图案中，某些区域正好是AB堆垛（产生向上极化），相邻区域是BA堆垛（产生向下极化）。这些周期性排列的、具有相反极化的纳米级“畴”就构成了一个整体可被翻转的铁电体。这种“无中生有”地创造铁电性的能力，是莫尔工程的精髓。
+> 
+> **Q4：滑动铁电体距离实际应用还有多远？最大的“拦路虎”是什么？** **A4：** 目前处于实验室概念验证和原型器件演示阶段，距离商用还有显著距离。最大的“拦路虎”是**规模化制造**。当前制备所需的高精度堆垛、特定扭转角材料，主要依赖人工操作，效率极低、一致性差，完全无法实现晶圆级生产。因此，能否开发出可直接生长出具有目标堆垛和扭转角的大面积、高质量薄膜的化学气相沉积（CVD）技术，是决定这项技术能否走出实验室的关键。
+> 
+> **Q5：滑动铁电性这个概念，除了存储，还能用来做什么？** **A5：** 其应用前景远超存储。文章揭示了几个极具潜力的方向：（1）**神经形态计算**：其多态极化特性可以完美模拟人脑突触的权重连续可调，实现高效低功耗的类脑计算硬件；（2）**超快光电探测**：如ε-InSe所示，其极化能驱动超快（~3 ps）的体光伏效应，可制成皮秒级响应的超快光电探测器；（3）**量子调控**：通过与磁性、超导或拓扑材料构成异质结，可用电场通过滑移铁电来翻转目标材料的量子态，成为量子器件的“开关”。这为探索电场调控拓扑超导、斯格明子等新奇量子现象提供了全新平台。
+> 
+> 🚀 [笔记回链](zotero://select/library/items/FLCBAPLV)
+> 
+> * * *
+> 
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/11 05:18:56 （重新解读）_
+> 
+> 🏷️ #🤖️/论文深度解读 🏷️ #🤖️/AI文献阅读
+
+^KEY6ADBC149
+
+## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span>
+
+> 🚀 [笔记回链](zotero://select/library/items/AU9K7EW4)
+
+^KEYaiPaper0
+
+> <span class="AIReading">🤖 AI 解读，快人一步</span>
+> 
+> > 我们需要处理PDF文本到结构化Markdown的双语转换与格式化。用户提供了一个详细的角色、处理流程、输出规范等。输入是npj 2D materials and applications的一篇Perspective文章，标题为"Emerging frontiers in two-dimensional sliding ferroelectrics"。需要输出结构化的Markdown，包含英文原文、中文翻译、术语解释（首次出现关键术语）。要求严格遵循CommonMark，标题层级对应，代码块、引用块、表格等。
+> > 
+> > 首先，我需要理解输入的文本结构。输入文本是PDF提取的纯英文文本，可能包含标题、段落、列表、引用、表格等。我需要识别这些结构。
+> > 
+> > 文本中：
+> > 
+> > -   开头有期刊名、DOI、标题、作者、摘要等。
+> > -   标题 "Emerging frontiers in two-dimensional sliding ferroelectrics"
+> > -   可能有多级标题，如 "Sliding ferroelectrics"（可能是一级标题？），"Sliding ferroelectric material systems"（可能是二级标题），"Experimentally confirmed sliding ferroelectrics"（三级标题），"Inorganic crystals."（四级标题）等。编号模式：没有明显的编号，但通过字体大小变化？文本中标题似乎是加粗或单独一行，例如 "Sliding ferroelectrics" 单独一行，然后段落。需要识别。
+> > 
+> > 处理流程：
+> > 
+> > 1.  结构解析：识别标题、段落、列表、代码块、引用块、表格。
+> > 2.  逻辑单元切分，分配ID（但输出中不需要ID，除非用于内部，但输出规范没有要求输出ID，所以可以忽略）。输出只需Markdown。
+> > 3.  双语转换：每个单元包含英文原文、中文翻译、术语解释（仅首次出现核心术语）。
+> > 4.  格式构建：标题使用`# 英文标题`，然后中文标题，术语解释。段落/列表/代码/引用采用类似格式。
+> > 
+> > 输出规范：原文信息零遗漏，中文翻译紧接原文单元（无空行间隔），术语解释仅在首次出现时添加（非强制）。保持原文层级关系。
+> > 
+> > 输入文本中还有一些图表引用（Fig. 1, Fig. 2等），表格（Table 1），引用（参考文献数字）。这些需要保留。
+> > 
+> > 我需要将整个文档转换为Markdown。首先，识别出各个部分。
+> > 
+> > 文本开始：
+> > 
+> > 
+
+<pre class="hljs"><code>npj | 2D materials and applications Perspective
+Published in partnership with FCT NOVA with the support of E-MRS
+https://doi.org/10.1038/s41699-025-00600-1
+Emerging frontiers in two-dimensional sliding ferroelectrics
+Check for updates
+Qing Zhang1,2,3,4, Aiqing Fan2,3,4, Yongshuai Wang2,3,4, Fan Wu2,3,5, Lin Li4,6, Hong Meng1 &amp; Dechao Geng2,3,4,5
+...
+</code></pre>
+
+
+> > 
+> > 这可能是文章头部信息，可以视为一个块。然后摘要。摘要段落： "The emergence of sliding ferroelectricity in 2D van der Waals materials ..."
+> > 
+> > 然后一级标题 "Sliding ferroelectrics"？ 正文似乎从 "Sliding ferroelectrics" 开始，这是一个标题。然后是段落。然后是 "Sliding ferroelectric material systems" 标题，然后 "Experimentally confirmed sliding ferroelectrics" 标题，再 "Inorganic crystals." 标题，等等。
+> > 
+> > 我需要识别标题层级。可能：
+> > 
+> > -   一级标题： "Sliding ferroelectrics" （文章的第一个大节？但在Perspective中，可能没有章节编号，而是用粗体标题。结合上下文，可能 "Sliding ferroelectrics" 是第一节，然后 "Sliding ferroelectric material systems" 是第二节，等等。由于没有编号，只能根据字体大小和空行判断。在PDF提取文本中，可能标题单独一行，前后空行。例如： "Sliding ferroelectrics" 然后空行，然后段落。那么它可以作为一级标题，对应 `#`。然后 "Sliding ferroelectric material systems" 也是一级标题？但 "Experimentally confirmed sliding ferroelectrics" 和 "Inorganic crystals." 可能是二级和三级标题。需要看文本：在 "Sliding ferroelectric material systems" 之后，有 "Experimentally confirmed sliding ferroelectrics"，然后 "Inorganic crystals."，再 "Organic-inorganic hybrid crystals."。然后 "Theoretically predicted sliding ferroelectrics"。然后 "Engineering Strategies for Breaking Inversion Symmetry" 可能是一级标题。然后 "Noncentrosymmetric Crystal Phases"、"Asymmetric Stackings"、"Twist Stackings or Moiré Superlattices"、"Non-Stoichiometric Compositions"、"Heterostructures" 等可能是二级标题。然后 "Microscopic Mechanisms of Sliding Ferroelectricity" 一级标题。然后 "Device Applications of Sliding Ferroelectric Materials" 一级标题。然后 "Challenges and Perspectives" 一级标题。最后是 "Data availability" 和 "References" 等。
+> > 
+> > 我需要根据内容判断。在输出中，标题层级需要映射为 `#` 到 `######`。为了一致性，我可以将文章主标题 "Emerging frontiers in two-dimensional sliding ferroelectrics" 作为一级标题，但通常文章标题在Markdown中可能用 `#`，但下面还有抽象。更合理的是：文章元信息（期刊、DOI等）保持原样，然后用 `#` 标题 "Emerging frontiers in two-dimensional sliding ferroelectrics"，然后摘要作为段落。但原文中 "Emerging frontiers..." 是标题，然后 "Check for updates" 可能是超链接，作者列表，机构，邮箱等。然后正文开始。正文中的 "Sliding ferroelectrics" 可能是一个大节的标题，可以设为 `##`。为了保持原文层级，我可以将 "Sliding ferroelectrics" 作为二级标题，如果文章主标题是一级标题。但原文没有明确编号，所以我觉得可以如下处理：
+> > 
+> > -   文章主标题：`# Emerging frontiers in two-dimensional sliding ferroelectrics`
+> > -   作者信息等作为段落。
+> > -   摘要段落。
+> > -   然后正文，第一节标题 "Sliding ferroelectrics" 作为 `##`，然后可能下面的 "Sliding ferroelectric material systems" 作为 `##` 或 `###`？看文本，在 "Sliding ferroelectrics" 之后，是 "Sliding ferroelectric material systems"，这似乎是另一个大节。而 "Sliding ferroelectric material systems" 下面有 "Experimentally confirmed sliding ferroelectrics" 和 "Theoretically predicted sliding ferroelectrics"，所以 "Sliding ferroelectric material systems" 可以是 `##`，"Experimentally confirmed sliding ferroelectrics" 是 `###`，"Inorganic crystals." 是 `####`。同样，"Engineering Strategies for Breaking Inversion Symmetry" 是 `##`，其下的 "Noncentrosymmetric Crystal Phases" 是 `###`，等等。 "Microscopic Mechanisms..." 是 `##`，"Device Applications..." 是 `##`，"Challenges and Perspectives" 是 `##`。
+> > 
+> > 此外，还有表格 "Table 1 | Comparative analysis of sliding ferroelectric materials..." 需要识别为表格，并转换为Markdown表格。表格中有很多列，需要处理。
+> > 
+> > 还有引用块？文本中似乎没有引用块（以 `>` 开头），只有参考文献引用用数字上标。可能不需要引用块。
+> > 
+> > 代码块？没有代码块。
+> > 
+> > 列表？可能有列表，例如在 "Sliding ferroelectrics" 段落之后有 "(i) ... (ii) ... (iii) ..." 这样的列表。在 "Sliding ferroelectricity in 2D van der Waals (vdW) materials has provided groundbreaking solutions..." 下面有 "(i) it effectively circumvents..." 等。这些是列表项，需要识别为有序或无序列表？可能是无序列表，使用了 (i), (ii), (iii) 这样的符号。我们要保留原始符号，但根据规范，应该判别列表类型。虽然用的是 (i)，但可以作为无序列表处理，因为不是数字1. 2. 3. 这种。但原文中 (i), (ii) 是罗马数字小写，可能被视为有序列表？通常学术论文中会用 (i) 表示列表。为保留原始符号，我们可以使用 `- (i) ...` 或直接使用 `(i) ...` 但Markdown中无序列表通常用 `-` 或 `*`。题目要求保留原始符号类型，但如何渲染？可能可以直接写成 `(i) ...` 作为普通段落，但这样就不是列表了。我们需要识别为列表。规范说“保留原始符号类型（`*` / `1.` / `-`）”，但原文是 `(i)`，不是这些。我认为可以处理为无序列表，使用 `-` 然后内容 `(i) ...`，或者直接使用 `(i)` 作为列表项的标记，但Markdown不识别 `(i)` 作为列表标记。最佳做法是保留原文文字，将列表项视为段落，但为了结构化，可以将其表示为无序列表，如 `- (i) text`。类似地，后面有 `(i)`, `(ii)`, `(iii)` 等。在 "Sliding ferroelectric material systems" 之后有 "we aim to offer a focused discussion on: (i) ... (ii) ... (iii) ... (iv) ... (v) ..." 也是列表。还有 "three key hurdles: (i) ... (ii) ... (iii) ..." 等。我会识别为无序列表，使用 `- (i) ...` 的格式。
+> > 
+> > 另外，在 "Device Applications..." 段落中 "three inherent advantages: (i) ... (ii) ... (iii) ..." 也是列表。
+> > 
+> > 还有，在 "Challenges and Perspectives" 中 "three key hurdles: (i) ... (ii) ... (iii) ..." 和 "three key directions: (i) ... (ii) ... (iii) ..." 同样是列表。
+> > 
+> > 表格 Table 1 需要解析。表格内容很多，列包括：Material, Phase, Stacking, Number of layers, Space/point group, Polarization intensity, Strategy, Characterization techinique, Ref. 需要正确分割。
+> > 
+> > 参考文献部分：在 "References" 标题后是参考文献列表，每条参考文献以数字加句点开始，如 "1. Zhang, Y. et al. ..." 这是有序列表。需要保留。
+> > 
+> > 现在，按照要求，我需要为每个单元提供英文原文和中文翻译。由于整个文档很长，我需要逐段翻译。术语解释：首次出现的核心术语需要标注，例如 "sliding ferroelectricity"（滑动铁电性）、"van der Waals"（范德瓦尔斯）、"ferroelectric"（铁电体）、"out-of-plane (OOP)"（面外）等。但要求是“首次出现的核心术语（如缩写/专业名词）”，并给出简洁解释。我需要判断哪些属于核心术语，第一次出现时添加 `**Term**: 中文解释`。例如，在摘要中首次出现 "sliding ferroelectricity"，可以解释。但不要过度标注，非强制。
+> > 
+> > 输出格式：每个单元（标题、段落、列表等）后紧跟中文翻译，对于标题，格式为：
+> > 
+> > 
+
+<pre class="hljs"><code># English Title
+Chinese Title
+**Term**: explanation
+</code></pre>
+
+
+> > 
+> > 对于段落：
+> > 
+> > 
+
+<pre class="hljs"><code>English paragraph.
+Chinese translation.
+</code></pre>
+
+
+> > 
+> > 对于列表：
+> > 
+> > 
+
+<pre class="hljs"><code>- English list item
+- Chinese translation
+</code></pre>
+
+
+> > 
+> > 但列表项翻译可能需要一对多，比如每个列表项单独翻译，但可能整体翻译更好。规范说“每个单元包含英文原文、中文翻译、术语解释”，列表作为一个整体单元，可以整体翻译。但列表项很多，可以整体翻译，保持对应。例如，对于无序列表，我可以在英文列表后，整体给出中文翻译，保持列表格式。为了避免混乱，可以先将英文列表项列出，然后中文翻译也以列表形式，但这样会重复。规范示例中，列表项没有明确给出。我决定：对于列表，将英文原文和中文翻译分别作为独立的列表，但这样会占用空间。或许可以这样：先提供英文原文（列表），然后紧接着提供中文翻译列表，但中文翻译列表也使用相同的符号。例如：
+> > 
+> > 
+
+<pre class="hljs"><code>- (i) English text
+- (ii) English text
+- (i) 中文翻译
+- (ii) 中文翻译
+</code></pre>
+
+
+> > 
+> > 但这样容易混淆。更好的做法是，将整个列表作为一个单元，英文原文后，中文翻译为一段落，但可能丢失列表项对应。题目要求是“保留原始符号类型”，并“保持层级缩进”。我认为可以这样：对于每个列表项，英文原文后直接跟中文翻译，然后术语解释，但这样每个列表项都成为独立单元，列表的连续性会破坏。规范中“列表项”部分说：“保留原始符号类型，保持层级缩进”，但没有给出详细示例。我参考常见做法：将英文列表项和中文翻译混排，比如每项英文后跟中文翻译，但不换行？不行。为了清晰，我可以在英文列表后，用同样的列表格式给出中文翻译，并注明。例如：
+> > 
+> > 
+
+<pre class="hljs"><code>- English item 1
+- English item 2
+- 中文翻译 item 1
+- 中文翻译 item 2
+</code></pre>
+
+
+> > 
+> > 但这样不标准。也许可以这样：英文原文单元中，列表项保留，然后中文翻译单元中，也以列表形式呈现，并确保顺序对应。这样虽然重复，但符合要求。
+> > 
+> > 另一种思路：对于列表，视为一个段落块，翻译时整体翻译，但保留列表标记。比如：
+> > 
+> > 
+
+<pre class="hljs"><code>原文：
+- (i) ...
+- (ii) ...
+翻译：
+- (i) ...
+- (ii) ...
+</code></pre>
+
+
+> > 
+> > 这样就是两个列表。我会采用这种。
+> > 
+> > 对于表格，需要转换为Markdown表格，然后提供中文翻译？表格可能也需要翻译。但表格内容主要是材料和参数，可能不需要翻译，需要保留原文。但要求是“每个单元包含英文原文、中文翻译”，表格作为单元，应该翻译表头和数据？表头可以翻译，数据保留英文。但为了清晰，我可以将表格作为单元，英文原文为Markdown表格，然后中文翻译为同样结构的表格，但数据列可能部分翻译（如材料名称、策略等）。或者只翻译表格标题和表头，数据保留原文。我认为可以翻译表头，表数据中的专有名词保留。但要求“原文信息零遗漏”，所以不能丢失。我决定：表格英文原文以Markdown表格呈现，然后中文翻译表格，表头翻译成中文，数据中一些策略、技术等可以翻译，但材料名称、参考文献等保留。术语解释可以加在表格下方。
+> > 
+> > 此外，参考文献列表，不需要翻译，保留即可。但为了完整性，我可以将参考文献列表作为单元，英文原文，然后中文翻译可以是“参考文献”或保留原文，因为参考文献本身不需要翻译。但要求是“逐单元进行准确翻译”，参考文献列表不翻译，只提供原文和可能的中文说明。我决定参考文献部分只保留英文原文，不做翻译，或者翻译为“参考文献”。但该部分可能不需要翻译，可以忽略。但要求是“双语转换”，所以参考文献也需提供中文翻译？但参考文献内容翻译无意义。我会将参考文献列表作为有序列表，英文原文，然后中文翻译为“参考文献”标题，但每条参考文献不翻译。或者直接不翻译，仅提供原文。我会在参考文献部分，提供英文原文，然后中文翻译为“参考文献”并说明，但可能违反要求。稳妥做法：对于参考文献，将整个列表作为单元，英文原文，然后中文翻译为“参考文献列表”，但这样很怪异。我决定：参考文献部分不翻译，只保留英文原文，因为它们是引用，不需要翻译。但要求说“原文信息零遗漏”，所以可以保留，不提供中文翻译。我可以将 "References" 标题作为单元，然后英文原文就是所有参考文献列表，不提供翻译。或者将其视为一个单元，英文原文，无中文翻译。但规范要求每个单元包含英文原文、中文翻译，所以可能必须提供。我可以将参考文献的每条视为列表项，翻译成中文？但那样会改变文献。更好的做法是，对于参考文献，标题 "References" 翻译为“参考文献”，然后内容为英文文献列表，不翻译。我将“References”作为标题，中文标题“参考文献”，然后下面列表为英文原文，不提供逐条翻译。这样符合要求。
+> > 
+> > 现在，开始逐步处理文本。我将文本分割成结构单元。
+> > 
+> > 首先，头部信息（期刊、DOI、标题、作者等）：
+> > 
+> > 
+
+<pre class="hljs"><code>npj | 2D materials and applications Perspective
+Published in partnership with FCT NOVA with the support of E-MRS
+https://doi.org/10.1038/s41699-025-00600-1
+Emerging frontiers in two-dimensional sliding ferroelectrics
+Check for updates
+Qing Zhang1,2,3,4, Aiqing Fan2,3,4, Yongshuai Wang2,3,4, Fan Wu2,3,5, Lin Li4,6, Hong Meng1 &amp; Dechao Geng2,3,4,5
+...
+</code></pre>
+
+
+> > 
+> > 然后是摘要段落。然后是作者单位。然后“Sliding ferroelectrics”标题。
+> > 
+> > 我将文章主标题 "Emerging frontiers in two-dimensional sliding ferroelectrics" 作为一级标题 `#`。那么 "Sliding ferroelectrics" 作为二级标题 `##`。但 "Sliding ferroelectrics" 是文章的第一个节，没有编号，所以可以。然后 "Sliding ferroelectric material systems" 作为二级标题 `##`，其下的 "Experimentally confirmed sliding ferroelectrics" 为 `###`，"Inorganic crystals." 为 `####`，"Organic-inorganic hybrid crystals." 为 `####`；"Theoretically predicted sliding ferroelectrics" 为 `###`。然后 "Engineering Strategies for Breaking Inversion Symmetry" 为 `##`，其下 "Noncentrosymmetric Crystal Phases" 为 `###`，"Asymmetric Stackings" 为 `###`，"Twist Stackings or Moiré Superlattices" 为 `###`，"Non-Stoichiometric Compositions" 为 `###`，"Heterostructures" 为 `###`。然后 "Microscopic Mechanisms of Sliding Ferroelectricity" 为 `##`。然后 "Device Applications of Sliding Ferroelectric Materials" 为 `##`。然后 "Challenges and Perspectives" 为 `##`。然后 "Data availability" 为 `##`，然后 "References" 为 `##`。
+> > 
+> > 现在，列表项较多，我会识别。
+> > 
+> > 表格 Table 1 需要转换为Markdown表格。表头：Material, Phase, Stacking, Number of layers, Space/point group, Polarization intensity, Strategy, Characterization techinique, Ref. 数据行很多。注意表格中有合并单元格？在原始文本中，表格可能用空格或制表符分隔，但PDF提取文本可能是一行一行。我需要仔细解析。输入文本中，表格部分如下：
+> > 
+> > 
+
+<pre class="hljs"><code>Table 1 | Comparative analysis of sliding ferroelectric materials, including phase, stacking type, number of layers, space/point group, polarization intensity, strategies for breaking inversion symmetry, characterization techniques used
+Material Phase Stacking Number of layers Space/ point group Polarization intensity Strategy Characterization techinique Ref.
+hBN parallel 2 P2D = 2.25 (0.37) × 10-12 C m-1 noncentrosymmetric stacking vertical PFM 25
+hBN parallel 2 PZ/A = 0.33 Debye/nm2 noncentrosymmetric stacking KPFM 26
+hBN Bernal-type multi 3.01 Debye/nm2 noncentrosymmetric stacking KPFM, PUND 31
+graphene Bernal and rhombohedral &gt;3 0.32 pC/m noncentrosymmetric stacking 37
+hBN 7/90 nm twist PFM 38
+hBN/graphene rhombohedral 3 1.76 μC/cm2 heterostructure device 39
+graphene Bernal 2 5 pC/m FTJ 40
+MoS2 2H 2 d33 = 37.54 pm/V strain PFM, FTJ, C-AFM 41
+MoS2 3 R rhombohedral 2 P3m1 0.8-1.5 pC/m photoexcitation 42
+MoS2/WS2 3R-like and 2H-like 2 3 m d33 = 1.95-2.09 pm/V heterostructure PFM 43
+MoS2 3 R rhombohedral 2 C3v stacking device 44
+CCC P21 0.3-0.4 μC/cm2 hybrid crystal PFM 45
+HgI2 Cmc21 0.16 μC/cm2 theoretical 46
+NbI4 Cmc21 0.11 μC/cm2 theoretical 47
+kagome-B2X3 (X = S, Se, Te) 2 P62m, P1, P321, Cm, C2 theoretical 48
+ZrI2 2 Pmn21 0.39 μC/cm2 theoretical 49
+β-ZrI2 C1h theoretical 51
+</code></pre>
+
+
+> > 
+> > 注意有一些行可能缺少某些列，需要补全。例如 "hBN 7/90 nm twist PFM 38" 这一行，可能Phase是空，Stacking是"7/90 nm twist"? 应该是 twist angle。根据上下文，应该是 hBN, twist stacking, 但列数不对。我们可以根据表头推断。表格中，有些行只有少数列，需要填充空值。但为了简洁，我可以保留原始文本，但Markdown表格需要一致的列数。我将根据数据补全，例如 "hBN" 为 Material, Phase 空, Stacking 可能是 "7/90 nm twist"? 但 "7/90 nm" 可能是 twist angle 和 pattern? 从原文 "hBN 7/90 nm twist PFM 38" 可能对应 Ref 38，关于 "strain engineering could also controllably modify ferroelectric domain patterns in hBN" 和 "7/90 nm twist"? 我猜测是 twisted hBN with 7/90 nm? 实际上，表格中有些行数据不完整，需要尽量保留。我会在Markdown表格中留空。生成表格时，使用 `|` 分隔。
+> > 
+> > 现在，我需要输出整个文档的Markdown。由于内容很长，我会逐步构建。
+> > 
+> > 注意：术语解释可以放在首次出现的术语所在单元的下方。例如，在摘要中首次出现 "sliding ferroelectricity"，可以加 `**Sliding ferroelectricity**: 滑动铁电性，一种由层间滑动而非传统离子位移驱动的极化翻转机制。` 等。
+> > 
+> > 同样， "van der Waals (vdW)": 范德瓦尔斯力，分子间作用力。还有其他。
+> > 
+> > 我将开始输出。首先，输出头部信息，包括期刊名等，作为普通段落，然后翻译。但头部信息如 "npj | 2D materials and applications Perspective" 可以翻译或不翻译。我会保留原文，然后提供中文翻译，如 "npj | 2D材料与应用 展望"。
+> > 
+> > 然后标题 "Emerging frontiers in two-dimensional sliding ferroelectrics" 翻译为 "二维滑动铁电体的新兴前沿"。
+> > 
+> > 然后作者列表，不翻译，保留。
+> > 
+> > 然后摘要段落。
+> > 
+> > 然后逐节处理。
+> > 
+> > 现在，动手写Markdown。
+> 
+> 
+
+<pre class="hljs"><code><span class="hljs-section"># npj | 2D materials and applications Perspective</span>
+<span class="hljs-strong">**npj | 二维材料与应用 展望**</span>
+Published in partnership with FCT NOVA with the support of E-MRS
+与FCT NOVA合作出版，E-MRS支持
+https://doi.org/10.1038/s41699-025-00600-1
+
+<span class="hljs-section"># Emerging frontiers in two-dimensional sliding ferroelectrics</span>
+二维滑动铁电体的新兴前沿
+
+Check for updates
+检查更新
+
+Qing Zhang1,2,3,4, Aiqing Fan2,3,4, Yongshuai Wang2,3,4, Fan Wu2,3,5, Lin Li4,6, Hong Meng1 &amp; Dechao Geng2,3,4,5
+
+1School of Advanced Materials, Peking University Shenzhen Graduate School, Peking University, Shenzhen, 518055, China. 2State Key Laboratory of Advanced Materials for Intelligent Sensing, Ministry of Science and Technology &amp; Key Laboratory of Organic Integrated Circuit, Ministry of Education &amp; Tianjin Key Laboratory of Molecular Optoelectronic Sciences, Department of Chemistry, School of Science, Tianjin University, Tianjin, 300072, China. 3Collaborative Innovation Center of Chemical Science and Engineering (Tianjin), Tianjin, 300072, China. 4Beijing National Laboratory for Molecular Sciences, Beijing, 100190, China. 5Haihe Laboratory of Sustainable Chemical Transformations, Tianjin, 300192, China. 6College of Chemistry, Tianjin Normal University, Tianjin, 300387, China. e-mail: menghong@pku.edu.cn; gengdechao<span class="hljs-emphasis">_1987@tju.edu.cn
+
+The emergence of sliding ferroelectricity in 2D van der Waals materials has opened a new paradigm for designing nanoscale nonvolatile memories, where polarization switching is governed by interlayer sliding rather than conventional ion displacement. This perspective highlights materials, strategies, switching dynamics, and device applications of 2D sliding ferroelectric materials. Finally, the critical challenges and future research directions are outlined, aiming to guide the rational design of nextgeneration sliding ferroelectric materials.
+二维范德瓦尔斯材料中滑动铁电性的出现为设计纳米级非易失性存储器开辟了新范式，其中极化翻转由层间滑动而非传统的离子位移控制。本展望重点介绍了二维滑动铁电材料的材料、策略、翻转动力学和器件应用。最后，概述了关键挑战和未来研究方向，旨在指导下一代滑动铁电材料的理性设计。
+<span class="hljs-strong">**Sliding ferroelectricity**</span>: 滑动铁电性，一种由层间滑动而非离子位移驱动的铁电极化翻转机制。
+<span class="hljs-strong">**2D van der Waals (vdW) materials**</span>: 二维范德瓦尔斯材料，层内由强化学键结合、层间由弱范德瓦尔斯力维持的层状材料。
+<span class="hljs-strong">**Ferroelectric**</span>: 铁电体，具有自发极化且极化方向可被外电场翻转的材料。
+
+# Sliding ferroelectrics
+滑动铁电体
+
+Ferroelectric materials have attracted enduring scientific interest due to their unique physical properties arising from spontaneously aligned electric dipoles that can be collectively switched by external electric fields1–3. This remarkable feature, combined with their nonlinear dielectric response and piezoelectric effects, has enabled widespread applications in nonvolatile memory devices, sensors, acoustic wave filters, and optoelectronic systems4,5. However, conventional bulk ferroelectric materials face significant challenges in meeting the demands of modern electronic device development. Their inherent thickness limitations, mechanical rigidity, and the requirement for relatively high switching fields present fundamental obstacles for applications requiring miniaturization, high-density integration, and mechanical flexibility. The emergence of two-dimensional (2D) materials has opened new possibilities for ultrathin ferroelectric systems. While these atomically thin materials offer several advantages including exceptional mechanical flexibility and reduced switching fields, their practical implementation faces multiple fundamental challenges. First, the stabilization of ferroelectric order in reduced dimensions is severely constrained by the critical size effect, where depolarization fields become increasingly prominent as material thickness decreases. Second, enhanced surface effects in 2D systems lead to significant interface charge trapping and screening effects. Third, substrateinduced strain and interfacial interactions can substantially modify or even suppress intrinsic ferroelectric properties. Although theoretical studies have predicted promising candidates with unconventional ferroelectric mechanisms, such as WO2Cl2 where competing soft modes induce noncollinear ferrielectricity, experimental realizations remain scarce6. On the experiment front, the above mentioned factors have resulted in a remarkably limited family of confirmed 2D ferroelectric materials, with only a few systems such as α-In2Se37,8, CuInP2S69–11, CuInP2Se612, SnTe13, NbOI214, and Bi2O2Se15, demonstrating robust ferroelectricity at 2D limit.
+铁电材料因其独特的物理性质而受到持久的科学关注，这些性质源于可被外电场集体翻转的自发排列电偶极子1–3。这一显著特性与其非线性介电响应和压电效应相结合，使得铁电材料在非易失性存储器、传感器、声波滤波器和光电系统中获得了广泛应用4,5。然而，传统的块体铁电材料在满足现代电子器件发展需求方面面临重大挑战。其固有的厚度限制、机械刚性以及对较高翻转场的要求，为需要小型化、高密度集成和机械柔性的应用带来了根本性障碍。二维（2D）材料的出现为超薄铁电系统开启了新的可能性。尽管这些原子级厚度的材料具有优异的机械柔性和降低的翻转场等优势，但其实际应用仍面临多重根本性挑战。首先，在降维状态下铁电序的稳定受到临界尺寸效应的严重制约，随着材料厚度减小，去极化场变得愈发显著。其次，二维系统中增强的表面效应会导致显著的界面电荷俘获和屏蔽效应。第三，衬底引起的应变和界面相互作用可以大幅改变甚至抑制本征铁电性质。尽管理论研究预测了具有非常规铁电机制的有前景候选材料，例如WO2Cl2中竞争软模诱导非共线亚铁电性，但实验实现仍然稀少6。在实验方面，上述因素导致已确认的二维铁电材料家族极为有限，仅有少数体系如α-In2Se37,8、CuInP2S69–11、CuInP2Se612、SnTe13、NbOI214和Bi2O2Se15等，在二维极限下展现出鲁棒铁电性。
+<span class="hljs-strong">**Polarization**</span>: 极化，材料中正负电荷中心分离形成的电偶极矩。
+<span class="hljs-strong">**Depolarization field**</span>: 去极化场，与自发极化方向相反的电场，通常由表面电荷产生。
+<span class="hljs-strong">**Noncollinear ferrielectricity**</span>: 非共线亚铁电性，一种亚铁电序，其中偶极子并非平行或反平行排列，而是呈非共线夹角。
+
+Sliding ferroelectricity in 2D van der Waals (vdW) materials has provided groundbreaking solutions to these long-standing challenges. Distinct from conventional ionic-type ferroelectrics, this novel mechanism originates from interlayer charge transfer in non-centrosymmetric stacking configurations. The concept was first proposed in 2017 by Wu’s group16, they proposed a revolutionary concept through first-principles calculations that even when monolayers possess centrosymmetric structures (lacking intrinsic ferroelectricity), carefully engineered bilayer or multilayer stacking could break spatial inversion symmetry to generate robust out-of-plane (OOP) polarization. This discovery has fundamentally expanded the scope of ferroelectric materials17–20. Subsequent experimental verifications in various systems, including bilayer WTe221–23, β-InSe24, boron nitride (BN)25,26, transition metal dichalcogenides (TMDs, e.g., WSe2, MoSe2, WS2, MoS2)27, 1T’ReS228, γ-InSe29, ε-InSe30, and multilayer hexagonal bron nitride (hBN)31 (Fig. 1), have firmly established sliding ferroelectricity as a universal phenomenon in vdW materials. The universality of this phenomenon stems from its geometric origin—any 2D system where sliding modifies interlayer charge asymmetry can, in principle, exhibit sliding ferroelectricity. This fundamental insight has expanded the design space for 2D ferroelectrics beyond the constraints of conventional ionic displacement mechanisms and offers several unprecedented advantages: (i) it effectively circumvents the pinning effects caused by defect charges, significantly enhancing endurance and reliability32,33; (ii) the polarization state depends solely on interlayer stacking configuration, enabling novel multistate memory and computing applications; and (iii) the polarization can be modulated through diverse external stimuli including electric fields, mechanical stress, and strains, providing exceptional tunability. The development of sliding ferroelectricity has opened a new era in ferroelectric research34.
+二维范德瓦尔斯（vdW）材料中的滑动铁电性为这些长期挑战提供了突破性解决方案。与传统离子型铁电体不同，这种新颖机制源于非中心对称堆叠构型中的层间电荷转移。该概念于2017年首次由Wu课题组提出16，他们通过第一性原理计算提出了一个革命性概念：即使单层具有中心对称结构（缺乏本征铁电性），经过精心设计的双层或多层堆叠也可以打破空间反演对称性，产生鲁棒的面外（OOP）极化。这一发现从根本上拓展了铁电材料的范围17–20。随后在多种体系中的实验验证，包括双层WTe221–23、β-InSe24、氮化硼（BN）25,26、过渡金属二硫化物（TMDs，如WSe2、MoSe2、WS2、MoS2）27、1T’-ReS228、γ-InSe29、ε-InSe30以及多层六方氮化硼（hBN）31（图1），牢固确立了滑动铁电性作为vdW材料中的普遍现象。这一现象的普适性源于其几何起源——任何二维系统，只要层间滑动能改变层间电荷不对称性，原则上都可以展现滑动铁电性。这一基本认识将二维铁电体的设计空间扩展到了传统离子位移机制的限制之外，并提供了若干前所未有的优势：（i）有效规避缺陷电荷引起的钉扎效应，显著提高耐久性和可靠性32,33；（ii）极化状态仅取决于层间堆叠构型，可实现新型多态存储和计算应用；（iii）极化可通过外电场、机械应力和应变等多种外部激励进行调控，具有卓越的可调谐性。滑动铁电性的发展开启了铁电研究的新纪元34。
+<span class="hljs-strong">**Out-of-plane (OOP) polarization**</span>: 面外极化，垂直于材料层平面的极化分量。
+<span class="hljs-strong">**Centrosymmetric**</span>: 中心对称的，晶体结构具有反演中心。
+<span class="hljs-strong">**Transition metal dichalcogenides (TMDs)**</span>: 过渡金属二硫化物，一类层状材料，化学式为MX2（M为过渡金属，X为硫族元素）。
+<span class="hljs-strong">**First-principles calculations**</span>: 第一性原理计算，基于量子力学基本原理、不依赖经验参数的计算方法。
+
+In this Perspective article, we highlight representative examples of sliding ferroelectric systems and discuss the fundamental mechanisms behind symmetry-breaking-induced polarization in 2D vdW materials. Rather than providing an exhaustive literature review—as several excellent reviews already cover various aspects of 2D ferroelectrics5,19,35,36—we aim to offer a focused discussion on: (i) sliding ferroelectric material systems, including experimentally confirmed and theorectically predicted sliding ferroelectrics; (ii) strategies for inducing sliding ferroelectricity; (iii) the underlying physics of interlayer sliding-mediated polarization switching; (iv) emerging device applications; and (v) pressing challenges in this rapidly evolving field.
+在本展望文章中，我们重点介绍滑动铁电体系的代表性实例，并讨论二维vdW材料中对称性破缺诱导极化的基本机制。我们并非提供详尽的文献综述——已有若干优秀综述涵盖了二维铁电体的各个方面5,19,35,36——而是旨在聚焦讨论：（i）滑动铁电材料体系，包括实验证实和理论预测的滑动铁电体；（ii）诱导滑动铁电性的策略；（iii）层间滑动介导极化翻转的物理机制；（iv）新兴器件应用；以及（v）这一快速发展领域面临的紧迫挑战。
+
+# Sliding ferroelectric material systems
+滑动铁电材料体系
+
+## Experimentally confirmed sliding ferroelectrics
+实验证实的滑动铁电体
+
+### Inorganic crystals.
+无机晶体。
+
+Graphene, a highly symmetric 2D material, is intrinsically non-ferroelectric in its monolayer and bilayer forms due to its centrosymmetric structure, but theoretical studies proposed by Wu et al. in 2023 have revealed that carefully designed stacking sequences in multilayer graphene (N ≥ 3) can exhibit unconventional sliding ferroelectricity (Fig. 2a)37. Unlike traditional sliding ferroelectrics where polarization arises from adjacent-layer symmetry breaking, graphene’s ferroelectricity originates from cross-layer charge asymmetry, as demonstrated by first-principles calculations showing that specific stackings like ABAC stacking can transform into ABCB by simultaneous translation of two bottom layers by a C-C bond length. The polarization switching in graphene occurs through distinct multistep pathways involving nonpolar intermediate states (e.g., ABAC → ABAB → CBAB or ABAC → CBAC → CBAB), with the asymmetric charge distribution between initial and final states enabling reversible polarization (Fig. 2b). This emergent ferroelectric behavior is highly sensitive to the precise stacking configuration, where only certain carefully designed stacking sequences (e.g., ABAC versus ABCA) can generate the necessary charge asymmetry to support switchable polarization. They further confirmed similar ferroelectric behavior in five-layer graphene systems (Fig. 2c). While scientifically fascinating, these stringent requirements for precise layer control pose significant challenges for practical implementation, highlighting both the potential and limitations of graphene-based sliding ferroelectrics.
+石墨烯是一种高度对称的二维材料，其单层和双层形式由于中心对称结构而本征非铁电，但Wu等人于2023年提出的理论研究表明，精心设计的少层石墨烯（N ≥ 3）堆叠序列可以展现非常规的滑动铁电性（图2a）37。与传统滑动铁电体中极化源于相邻层对称性破缺不同，石墨烯的铁电性源于跨层电荷不对称性，第一性原理计算表明，特定堆叠如ABAC堆叠可通过两个底层同时平移一个C-C键长转变为ABCB。石墨烯中的极化翻转通过涉及非极性中间态（例如ABAC → ABAB → CBAB或ABAC → CBAC → CBAB）的独特多步路径发生，初态和终态之间的不对称电荷分布使得可逆极化成为可能（图2b）。这种涌现的铁电行为对精确堆叠构型高度敏感，只有某些精心设计的堆叠序列（例如ABAC与ABCA）才能产生支持可翻转极化的必要电荷不对称性。他们进一步在五层石墨烯体系中证实了类似的铁电行为（图2c）。尽管在科学上引人入胜，但这些对精确层数控制的严格要求对实际应用构成了重大挑战，突显了基于石墨烯的滑动铁电体的潜力和局限性。
+
+As a prototypical vdW dielectric, hBN exhibits unique advantages for realizing sliding ferroelectricity due to its versatile stacking configurations. In its natural AA’ stacking configuration, hBN maintains centrosymmetry through antiparallel layer alignment, resulting in a nonpolar state. However, artificial modification of the stacking order to AA or AB/BA configurations breaks inversion symmetry and generates switchable OOP polarization. A seminal study by Vizner Stern et al. in 2021 first revealed roomtemperature ferroelectricity in twisted hBN bilayers using Kelvin probe force microscopy (KPFM), where alternating AB and BA stacking domains showed clear 100 mV surface potential contrast corresponding to opposite polarization states (Fig. 3a)26. This was further corroborated by Yasuda et al. through transport measurements in graphene/hBN heterostructures, where they observed well-defined ferroelectric hysteresis loops with distinct switching characteristics (Fig. 3b)25. In 2024, Wan et al. demonstrated that strain engineering could also controllably modify ferroelectric domain patterns in hBN (Fig. 3c), creating stable triangular domains through atomic reconstruction effect38. Their piezoresponse force microscopy (PFM) studies showed these domains could be reversibly switched using local probe tips (Fig. 3d). The practical viability of hBN-based ferroelectric devices was convincingly demonstrated by Wong et al. through nitrogen plasma-assisted molecular beam epitaxy growth of hBN/graphene heterostructures (Fig. 3e)31. The study revealed intrinsic polarization characteristics induced by moiré superlattices at the hBN/graphene heterointerface, while demonstrating switchable OOP polarization arising from interlayer sliding in multilayer hBN systems. PFM measurements exhibited 180° phase reversal, and KPFM detected a surface potential difference of 300 meV following polarization switching (Fig. 3f). Their Au/Cr/hBN/graphene devices exhibited robust ferroelectric switching with a coercive field of ±1.5 V and remnant polarization of 0.375 μC/cm2 (Fig. 3g), maintaining stability for over one week. In 2025, Lin et al. developed a novel sandwiched hBN/rhombic-stacked graphene/hBN heterostructures39, yielding several key breakthroughs: rhombic stacking simultaneously breaks both inversion and mirror symmetries to generate net OOP polarization. Niu et al. discovered that Bernal bilayer graphene moiré superlattice encapsulted within 30°-twisted hBN bilayers could generate an unexpectedly large polarization, producing area charge densities up to 1013 cm-2—far exceeding the capacity predicted by moiré band theory40.
+作为典型的vdW电介质，hBN因其多样的堆叠构型而展现出实现滑动铁电性的独特优势。在其天然AA’堆叠构型中，hBN通过反平行层排列保持中心对称性，导致非极性态。然而，人为将堆叠顺序修改为AA或AB/BA构型会打破反演对称性并产生可翻转的面外极化。Vizner Stern等人于2021年的一项开创性研究首次利用开尔文探针力显微镜（KPFM）揭示了扭转双层hBN中的室温铁电性，其中交替的AB和BA堆叠畴显示出清晰的100 mV表面电势对比，对应于相反的极化态（图3a）26。Yasuda等人通过石墨烯/hBN异质结中的输运测量进一步证实了这一点，他们观察到明确的铁电滞回线，具有清晰的翻转特性（图3b）25。2024年，Wan等人证明应变工程也可控地改变hBN中的铁电畴图案（图3c），通过原子重构效应形成稳定的三角形畴38。他们的压电响应力显微镜（PFM）研究表明这些畴可使用局部探针针尖进行可逆翻转（图3d）。Wong等人通过氮等离子体辅助分子束外延生长hBN/石墨烯异质结，令人信服地展示了基于hBN的铁电器件的实际可行性（图3e）31。该研究揭示了hBN/石墨烯异质界面处由莫尔超晶格诱导的本征极化特性，同时展示了多层hBN体系中由层间滑动引起的可翻转面外极化。PFM测量显示出180°相位反转，KPFM在极化翻转后检测到300 meV的表面电势差（图3f）。他们的Au/Cr/hBN/石墨烯器件展现出鲁棒的铁电翻转，矫顽场为±1.5 V，剩余极化为0.375 μC/cm2（图3g），稳定性保持超过一周。2025年，Lin等人开发了一种新颖的三明治结构hBN/菱形堆叠石墨烯/hBN异质结39，取得了若干关键突破：菱形堆叠同时打破反演和镜面对称性，产生净面外极化。Niu等人发现，被30°扭转hBN双层包裹的Bernal双层石墨烯莫尔超晶格可以产生出乎意料的大极化，面电荷密度高达1013 cm-2——远超莫尔能带理论预测的能力40。
+<span class="hljs-strong">**Kelvin probe force microscopy (KPFM)**</span>: 开尔文探针力显微镜，一种扫描探针技术，用于测量表面电势。
+<span class="hljs-strong">**Piezoresponse force microscopy (PFM)**</span>: 压电响应力显微镜，通过检测样品在电场下的局部形变来表征铁电畴。
+<span class="hljs-strong">**Moiré superlattice**</span>: 莫尔超晶格，由两层晶体以微小扭转角或晶格失配叠加时形成的周期图案。
+<span class="hljs-strong">**Remnant polarization**</span>: 剩余极化，外电场移除后铁电体中保留的极化强度。
+
+TMDs represent the most versatile material platform for sliding ferroelectricity, offering distinct advantages over graphene and hBN. In general, TMDs combine following unique advantages: (i) intrinsic noncentrosymmetric crystal phases (e.g., 1T’, 3R), (ii) widely tunable electronic structures (metallic to insulating bandgaps), and (iii) strong spinorbit coupling for coupled ferroelectic-spintronic effects. These attributes enable unprecedented design freedom in sliding ferroelectric systems. To be specific, the polymorphic nature of TMDs allows sliding ferroelectricity to emerge in multi phases, while multilayer stacks exhibit enhanced polarization through interlayer sliding or twist engineering. For instance, 3R-phase MoS2 bilayers demonstrate switchable polarization via AB ↔ BA stacking transitions, a mechanism absent in graphene/hBN systems. Moreover, TMDs’ bandgap versatility permits seamless integration with electronic devices, unlike insulating hBN or zero-gap graphene. Recent work has further revealed strain-tunable41 and light-matter coupled42 sliding ferroelectricity in TMDs or their heterostructures43, opening avenues for multifunctional devices. With these advantages, TMDs not only address fundamental challenges in 2D ferroelectrics but also bridge the gap between scientific discovery and practical applications in memory, logic, and optoelectronic technologies44.
+TMDs是滑动铁电性最通用的材料平台，相比石墨烯和hBN具有独特优势。总体而言，TMDs结合了以下独特优势：（i）本征非中心对称晶相（如1T’、3R），（ii）广泛可调的电子结构（从金属到绝缘体的带隙），以及（iii）强自旋轨道耦合，用于耦合铁电-自旋电子学效应。这些属性使得滑动铁电体系的设计自由度前所未有。具体而言，TMDs的多晶型特性使得滑动铁电性可以在多个相中涌现，而多层堆叠通过层间滑动或扭转工程展现出增强的极化。例如，3R相MoS2双层通过AB ↔ BA堆叠转变展示可翻转极化，这一机制在石墨烯/hBN体系中不存在。此外，TMDs的带隙多样性允许与电子器件无缝集成，不同于绝缘的hBN或零带隙石墨烯。最近的工作进一步揭示了TMDs或其异质结中应变可调41和光-物质耦合42的滑动铁电性，为多功能器件开辟了途径。凭借这些优势，TMDs不仅解决了二维铁电体中的根本性挑战，而且在存储、逻辑和光电技术中弥合了科学发现与实际应用之间的差距44。
+<span class="hljs-strong">**Spin-orbit coupling**</span>: 自旋轨道耦合，电子自旋与其轨道运动之间的相互作用。
+
+### Organic-inorganic hybrid crystals.
+有机-无机杂化晶体。
+
+Recent advances in sliding ferroelectricity have been primarily limited to indirect characterization techniques due to the inherent challenges of weak polarization and insufficient electrical insulation in most 2D systems. A breakthrough study by Miao et al. addresses this limitation by employing an amphidynamic vdWs crystal, (15-crown-5)Cd3Cl6 (CCC), which combines inorganic layers with organic molecular rotators45. Unlike conventional 2D ferroelectrics, this hybrid system exhibits a wide bandgap, enabling unambiguous polarization hysteresis measurements at macroscopic scales. Structural and spectroscopic analyses confirm that the ferroelectric response arises from two synergistic mechanisms: (i) dipole formation within individual layers due to rotator freezing, and (ii) interlayer sliding-induced polarization. First-principles calculations further reveal that the net polarization is highly tunable through the interplay between molecular rotation and layer displacement. This work not only provides the first direct evidence of sliding ferroelectricity but also establishes a design paradigm for functional hybrid materials with coupled dynamic and polar properties.
+由于大多数二维体系中极化弱且电绝缘性不足的固有挑战，滑动铁电性的最新进展主要局限于间接表征技术。Miao等人通过采用一种两性动力学vdW晶体(15-冠-5)Cd3Cl6 (CCC)解决了这一限制，该晶体将无机层与有机分子转子结合45。与传统二维铁电体不同，这种杂化体系展现出宽带隙，使得在宏观尺度上能够明确测量极化滞回线。结构和光谱分析证实，铁电响应源于两种协同机制：（i）由于转子冻结，在单层内形成偶极子，以及（ii）层间滑动诱导的极化。第一性原理计算进一步揭示，净极化通过分子旋转与层位移之间的相互作用高度可调。这项工作不仅提供了滑动铁电性的首个直接证据，而且为具有耦合动力学和极性特性的功能杂化材料建立了设计范式。
+
+## Theoretically predicted sliding ferroelectrics
+理论预测的滑动铁电体
+
+Beyond above-mentioned typical 2D vdW material systems, recent computational study identifies HgX2 (X = Br, I) as a promising new class of 2D sliding ferroelectrics, expanding the materials palette for slidetronics applications46. The first-principles calculations demonstrate that multilayer HgX2 adopts stable stacking configurations exhibiting reversible OOP ferroelectricity at room temperature, with HgI2 showing particularly strong polarization (0.16 μC/cm2) attributable to pronounced interfacial charge rearrangement during interlayer sliding. Beyond conventional ferroelectric switching, these materials offer unique value through coupled ferroelectric-spintronic functionality—the sliding-controllable Rashba effect in HgI2 enables electric field manipulation of spin textures, suggesting immediate potential for 2D spintronic devices. The strong interlayer coupling in HgX2 distinguishes it from other sliding ferroelectrics like twisted bilayers, potentially offering more robust polarization at reduced layer thicknesses.
+除了上述典型的二维vdW材料体系，最近的计算研究将HgX2（X = Br, I）确定为一类有前景的新型二维滑动铁电体，为滑动电子学应用拓展了材料库46。第一性原理计算表明，多层HgX2采用稳定的堆叠构型，在室温下展现出可逆的面外铁电性，其中HgI2显示出特别强的极化（0.16 μC/cm2），这归因于层间滑动过程中显著的界面电荷重排。除了传统的铁电翻转，这些材料通过耦合铁电-自旋电子学功能提供独特价值——HgI2中滑动可调的Rashba效应使得电场能够操控自旋织构，表明其在二维自旋电子学器件中的直接潜力。HgX2中强的层间耦合使其区别于其他滑动铁电体（如扭转双层），在较薄的层厚度下可能提供更鲁棒的极化。
+<span class="hljs-strong">**Rashba effect**</span>: 拉什巴效应，在结构反演不对称的体系中，自旋轨道耦合导致自旋简并解除的效应。
+
+In addition, some strongly-bonded 2D sliding ferroelectric materials have also occurred in recent years, such as quasi-one-dimensional sliding ferroelectricitric materials NbI447, kagome-B2X3 (X = S, Se, Te) bilayers48, and others. Besides, recent theoretical studies have significantly expanded the family of sliding ferroelectrics, revealing diverse mechanisms and material platforms beyond conventional systems. ZrI2 bilayers emerge as a prototypical example, exhibiting both in-plane and OOP polarizations due to interlayer charge redistribution49. Notably, the β-ZrI2 phase possesses a sizable OOP polarization (0.39 μC/cm2) and negative longitudinal piezoelectricity, distinguishing it from other sliding ferroelectrics like CuInP2S650. Furthermore, ferroelastic-ferroelectric multiferroicity is predicted in ZrI2, where 120° ferroelastic switching couples with polarization reversal, enabling six-state logic memory49. Charge redistribution in ultrathin β-ZrI2 also facilitates stable charged domain walls with quasi-2D electron gas, enhancing electromechanical responses51. Beyond transition metal halides, pentagonal vdWs heterostructures offer a distinct route to in-plane sliding ferroelectricity. The penta-PdSe2/PtSe2 bilayer exhibits an ultralow switching barrier (1.91 meV/atom) and high polarization (±17.11 × 10-10 C m-1), alongside auxetic behavior (negative Poisson’s ratio) for strain-coupled switching52. Trilayer NiN253 further demonstrates the versatility of stacking-engineered ferroelectrics, though detailed mechanisms await exploration. These studies collectively establish design principles for sliding ferroelectrics, emphasizing symmetry breaking via stacking, interlayer charge transfer, and strain-polarization coupling, while expanding the material space toward functional heterostructures and multiferroics.
+此外，近年来还出现了一些强键合的二维滑动铁电材料，如准一维滑动铁电材料NbI447、kagome-B2X3（X = S, Se, Te）双层48等。此外，最近的理论研究大大扩展了滑动铁电体家族，揭示了超越传统体系的多样化机制和材料平台。ZrI2双层成为一个典型例子，由于层间电荷重新分布而展现出面内和面外极化49。值得注意的是，β-ZrI2相具有相当大的面外极化（0.39 μC/cm2）和负纵向压电性，使其区别于CuInP2S6等其他滑动铁电体50。此外，ZrI2中预测存在铁弹-铁电多铁性，其中120°铁弹翻转与极化反转耦合，可实现六态逻辑存储49。超薄β-ZrI2中的电荷重新分布也促进了具有准二维电子气的稳定带电畴壁，增强了机电响应51。除过渡金属卤化物外，五边形vdW异质结构提供了一种实现面内滑动铁电性的独特途径。penta-PdSe2/PtSe2双层展现出超低翻转势垒（1.91 meV/原子）和高极化（±17.11 × 10-10 C m-1），同时具有负泊松比（拉胀行为）用于应变耦合翻转52。三层NiN253进一步展示了堆叠工程铁电体的多功能性，尽管详细机制仍有待探索。这些研究共同确立了滑动铁电体的设计原则，强调通过堆叠打破对称性、层间电荷转移和应变-极化耦合，同时将材料空间扩展到功能异质结和多铁性材料。
+<span class="hljs-strong">**Ferroelastic**</span>: 铁弹体，具有自发应变且应变方向可被外应力翻转的材料。
+<span class="hljs-strong">**Negative Poisson’s ratio**</span>: 负泊松比，材料在拉伸时横向膨胀的反常力学行为。
+
+To facilitate systematic comparison of sliding ferroelectric materials, Table 1 summarizes key structural and functional parameters across representative material systems. The table organizes materials by crystal phase and stacking configuration, while listing critical metrics including polarization magnitude, symmetry-breaking mechanisms, and experimental characterization methods. This comprehensive compilation highlights structure-property relationships and identifies gaps in current material exploration.
+为便于滑动铁电材料的系统比较，表1总结了代表性材料体系的关键结构和功能参数。该表按晶相和堆叠构型组织材料，同时列出了极化强度、对称性破缺机制和实验表征方法等关键指标。这一全面汇编突显了结构-性能关系，并指出了当前材料探索中的空白。
+
+| Material | Phase | Stacking | Number of layers | Space/point group | Polarization intensity | Strategy | Characterization technique | Ref. |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| hBN |  | parallel | 2 |  | P2D = 2.25 (0.37) × 10-12 C m-1 | noncentrosymmetric stacking | vertical PFM | 25 |
+| hBN |  | parallel | 2 |  | PZ/A = 0.33 Debye/nm2 | noncentrosymmetric stacking | KPFM | 26 |
+| hBN |  | Bernal-type | multi |  | 3.01 Debye/nm2 | noncentrosymmetric stacking | KPFM, PUND | 31 |
+| graphene |  | Bernal and rhombohedral | &gt;3 |  | 0.32 pC/m | noncentrosymmetric stacking |  | 37 |
+| hBN |  | 7/90 nm twist |  |  |  |  | PFM | 38 |
+| hBN/graphene |  | rhombohedral | 3 |  | 1.76 μC/cm2 | heterostructure | device | 39 |
+| graphene |  | Bernal | 2 |  | 5 pC/m |  | FTJ | 40 |
+| MoS2 | 2H |  | 2 |  | d33 = 37.54 pm/V | strain | PFM, FTJ, C-AFM | 41 |
+| MoS2 | 3R | rhombohedral | 2 | P3m1 | 0.8-1.5 pC/m | photoexcitation |  | 42 |
+| MoS2/WS2 |  | 3R-like and 2H-like | 2 | 3m | d33 = 1.95-2.09 pm/V | heterostructure | PFM | 43 |
+| MoS2 | 3R | rhombohedral | 2 | C3v |  | stacking | device | 44 |
+| CCC |  |  |  | P21 | 0.3-0.4 μC/cm2 | hybrid crystal | PFM | 45 |
+| HgI2 |  |  |  | Cmc21 | 0.16 μC/cm2 | theoretical |  | 46 |
+| NbI4 |  |  |  | Cmc21 | 0.11 μC/cm2 | theoretical |  | 47 |
+| kagome-B2X3 (X = S, Se, Te) |  |  | 2 | P62m, P1, P321, Cm, C2 |  | theoretical |  | 48 |
+| ZrI2 |  |  | 2 | Pmn21 | 0.39 μC/cm2 | theoretical |  | 49 |
+| β-ZrI2 |  |  |  | C1h |  | theoretical |  | 51 |
+表1：滑动铁电材料的比较分析，包括相、堆叠类型、层数、空间/点群、极化强度、打破反演对称性的策略以及所用表征技术。
+<span class="hljs-strong">**Table 1**</span>: 表1，滑动铁电材料的参数汇总。
+
+# Engineering Strategies for Breaking Inversion Symmetry
+打破反演对称性的工程策略
+
+## Noncentrosymmetric Crystal Phases
+非中心对称晶相
+
+Taking the most extensively studied MoS2 as an example, its 3R, 1T, 1T’, 1T”, and 1T”’ phases all belong to non-centrosymmetric structural configurations, among which the 3R and 1T”’ phases have been successively demonstrated to exhibit sliding ferroelectricity54–56. In 2024, Yang et al. successfully created switchable ferroelectric domains in 3R-MoS2 epilayers by inducing a spontaneous shear transformation that generates mobile screw dislocations54. These dislocations enable collective polarization switching at remarkably low fields (0.036 V/nm). The resulting ferroelectric transistors exhibit excellent non-volatile memory characteristics, including a 7 V memory window at 10 V operation, retention &gt;104 seconds, and endurance exceeding 104 cycles. In another work, Jiang et al. demonstrates the experimental realization of room-temperature sliding ferroelectricity in chemical vapor depostion (CVD)-grown 3R-MoS2 bilayers55, representing a significant advance toward wafer-scale integration. Lipatov et al. provide the experimental confirmation of room-temperature OOP ferroelectricity in 2D 1T”-phase MoS256. Through innovative scanning probe manipulation, the authors demonstrate mechanically induced polarization switching in this distorted trigonal phase (P3m1 symmetry), creating stable bi-domain states with distinct piezoelectric, second harmonic generation (SHG), surface potential and conductive properties. In another work, through meticulous synthesis of high-purity 1T”’-MoS2 crystals, HuangFu et al. provide conclusive evidence of its noncentrosymmetric structure via atomic-resolution STEM and SHG measurements, while demonstrating reversible polarization switching through both PFM manipulation and FET electrical gating, establishing robust ferroelectric functionality up to a transition temperature of 350 K57.
+以研究最广泛的MoS2为例，其3R、1T、1T’、1T”和1T”’相均属于非中心对称结构构型，其中3R和1T”’相已相继被证实展现出滑动铁电性54–56。2024年，Yang等人通过诱导自发剪切转变产生可移动的螺型位错，成功在3R-MoS2外延层中创建了可翻转的铁电畴54。这些位错使得在极低电场（0.036 V/nm）下集体极化翻转成为可能。由此制得的铁电晶体管展现出优异的非易失性存储特性，包括10 V操作下7 V的存储窗口、&gt;104秒的保持时间和超过104次循环的耐久性。在另一项工作中，Jiang等人展示了在化学气相沉积（CVD）生长的3R-MoS2双层中实现室温滑动铁电性55，代表了向晶圆级集成迈出的重要一步。Lipatov等人提供了二维1T”相MoS2中室温面外铁电性的实验证实56。通过创新的扫描探针操控，作者展示了在这种扭曲三角相（P3m1对称性）中机械诱导的极化翻转，创建了具有不同压电、二次谐波产生（SHG）、表面电势和导电性质的稳定双畴态。在另一项工作中，通过精细合成高纯度1T”’-MoS2晶体，HuangFu等人利用原子分辨率STEM和SHG测量，为其非中心对称结构提供了确凿证据，同时通过PFM操控和FET电栅控展示了可逆的极化翻转，在高达350 K的转变温度下建立了鲁棒的铁电功能57。
+<span class="hljs-strong">**Chemical vapor deposition (CVD)**</span>: 化学气相沉积，一种通过气相化学反应在衬底上沉积固态薄膜的方法。
+<span class="hljs-strong">**Second harmonic generation (SHG)**</span>: 二次谐波产生，一种非线性光学过程，仅在非中心对称介质中允许。
+
+Beyond MoS2, several other materials with non-centrosymmetric phases also exhibit prominent sliding ferroelectric properties. For example, T-phase MoTe2 and WTe2 demonstrate robust sliding ferroelectricity through interlayer charge transfer58. In addition, the In2Se3 system presents particularly rich polymorphism7, with its β, β‘, ɛ and γ phases all showing distinct sliding ferroelectric behaviors arising from different symmetry-breaking mechanisms59–62. In 2022, Zhao et al. achieved centimeter-scale single-crystalline β-, β‘-, and α-phase In2Se3 thin films through a short-distance CVD method combined with phase transition principles (Fig. 4a)7. Inspired by in situ TEM observations showing β-InSe’s thermal conversion to β‘-In2Se3, the team introduced β-InSe into precursors to obtain large-area β‘-In2Se3 films, which subsequently transformed into α-In2Se3 via stress relaxation—representing a phase transition from antiferroelectric to ferroelectric ordering (Fig. 4b). Theoretical calculations identified the Se/In ratio as the critical factor governing these phase transformations (Fig. 4c). Field-effect transistors (FETs) fabricated from all three polymorphs demonstrated high carrier mobility (Fig. 4d). In 2024, Liu et al. achieved precise phase control in In2Se3 by utilizing γ-InSe as both precursor and seed material under temperature-regulated conditions (Fig. 4e), successfully mapping the thermal evolution pathways among 3R α-, β-, and 2H α-In2Se3 polymorphs61. Their work demonstrated the extreme temperature sensitivity of In2Se3 formation and phase transitions (Fig. 4f), where both reactive Se vapor concentration and In2Se3 growth rates exhibited positive temperature dependence, with β-In2Se3 identified as a critical intermediate phase during these transformations. Parallel breakthroughs in understanding phase-dependent ferroelectric behavior came from Che et al.‘s atomic-scale investigations, which revealed fundamental differences between 3R and 2H polytypes through combined STEM and DFT studies62. The 2H phase was found to preferentially form in-plane ferroelectric domain walls (Fig. 4g), while the 3R phase favored OOP oriented domain walls (Fig. 4h), with these structural distinctions extending to their phase transition mechanisms—the 3R transition proceeding via relatively simple intralayer atomic sliding, whereas the 2H transition required more complex bond dissociation and reformation processes.
+除MoS2外，其他具有非中心对称相的材料也展现出突出的滑动铁电性质。例如，T相MoTe2和WTe2通过层间电荷转移展现出鲁棒的滑动铁电性58。此外，In2Se3体系展现出特别丰富的多晶型现象7，其β、β‘、ɛ和γ相均展现出由不同对称性破缺机制产生的独特滑动铁电行为59–62。2022年，Zhao等人通过短距离CVD方法结合相变原理，实现了厘米级单晶β、β‘和α相In2Se3薄膜（图4a）7。受原位TEM观察显示β-InSe热转化为β‘-In2Se3的启发，团队将β-InSe引入前驱体以获得大面积β‘-In2Se3薄膜，随后通过应力弛豫转化为α-In2Se3——代表了从反铁电到铁电有序的相变（图4b）。理论计算确定Se/In比是控制这些相变的关键因素（图4c）。由所有三种多晶型制造的场效应晶体管（FET）展现出高载流子迁移率（图4d）。2024年，Liu等人通过利用γ-InSe作为前驱体和晶种，在温度调控条件下实现了In2Se3的精确相控制（图4e），成功绘制了3R α-、β-和2H α-In2Se3多晶型之间的热演化路径61。他们的工作展示了In2Se3形成和相变的极端温度敏感性（图4f），其中反应性Se蒸气浓度和In2Se3生长速率均表现出正温度依赖关系，β-In2Se3被确定为这些转变过程中的关键中间相。Che等人通过原子尺度研究，在理解相依赖铁电行为方面取得了并行突破，结合STEM和DFT研究揭示了3R和2H多型之间的根本差异62。发现2H相优先形成面内铁电畴壁（图4g），而3R相倾向于面外取向的畴壁（图4h），这些结构差异延伸到它们的相变机制——3R相变通过相对简单的层内原子滑动进行，而2H相变需要更复杂的键断裂和重新形成过程。
+<span class="hljs-strong">**Antiferroelectric**</span>: 反铁电体，相邻偶极子反平行排列，宏观上不显示净极化的材料。
+<span class="hljs-strong">**Field-effect transistor (FET)**</span>: 场效应晶体管，通过电场调控半导体沟道电导的有源器件。
+
+## Asymmetric Stackings
+不对称堆叠
+
+In addition to the selection of noncentrosymmetric crystalline phases, the stacking order of layered materials serves as another critical factor determining the degree of symmetry breaking. Recent theoretical advances have established universal design rules for bilayer stacking ferroelectricity (BSF), demonstrating that even two centrosymmetric monolayers can exhibit emergent ferroelectricity through controlled rotation and translation63. In multilayer systems, specific stacking configurations can fundamentally alter the superposition of interlayer electric dipole moments, thereby governing both the orientation and magnitude of ferroelectric polarization. Notably, the BSF theory reveals that polarization directions in bilayers may radically differ from their monolayer counterparts, with out-of-plane and in-plane polarizations becoming interlocked. The resulting polarization is highly sensitive to atomic-scale stacking faults, with even sub-Ångström interlayer displacements capable of switching polarization states. In 2024, Han et al. demonstrated a substrate-guided CVD growth approach, as illustrated in Fig. 5a for synthesizing SnSe2 with precisely controlled stacking sequences64. Through meticulous interlayer symmetry engineering, they achieved the synthesis of high-order polytypes including 6R, 12R, 18R, and 18C stacking configurations (Fig. 5b). Notably, clear PFM signals confirming ferroelectric behavior were observed in the AB’-stacked polymorphs, as shown in Fig. 5c, highlighting the critical role of specific interlayer registries in inducing switchable polarization.
+除了选择非中心对称晶相，层状材料的堆叠顺序是决定对称性破缺程度的另一个关键因素。最近的理论进展建立了双层堆叠铁电性（BSF）的通用设计规则，证明即使两个中心对称的单层，通过受控的旋转和平移也可以展现出涌现的铁电性63。在多层体系中，特定的堆叠构型可以根本上改变层间电偶极矩的叠加，从而决定铁电体极化的方向和大小。值得注意的是，BSF理论揭示，双层中的极化方向可能与单层中的极化方向截然不同，面外和面内极化相互锁定。产生的极化对原子尺度的堆垛层错高度敏感，甚至亚埃级的层间位移也能翻转极化状态。2024年，Han等人展示了一种衬底引导的CVD生长方法，如图5a所示，用于合成具有精确受控堆叠序列的SnSe264。通过精细的层间对称性工程，他们实现了高阶多型体的合成，包括6R、12R、18R和18C堆叠构型（图5b）。值得注意的是，在AB’堆叠的多型体中观察到清晰的PFM信号，证实了铁电行为，如图5c所示，突出了特定层间配位在诱导可翻转极化中的关键作用。
+
+However, the CVD epitaxial growth of vdW ferroelectric materials typically struggles to form energetically unfavorable stacking configurations. Consequently, breaking crystallographic inversion symmetry requires alternative approaches such as mechanical exfoliation followed by artificial restacking. For example, Lin et al. developed a “flip-and-reflection transfer” technique to achieve precise zigzag-edge alignment between hBN and graphene, realizing 100% success rate in creating oblique-stacked trilayer hBN/graphene/hBN heterostructures (Fig. 5d)39. Control experiments with non-oblique configurations, including two anti-parallel aligned hBN flakes (flip without reflection) but with graphene aligned and completely misaligned hBN/graphene/hBN stack, showed complete disappearance of ferroelectricity, conclusively demonstrating that oblique stacking is essential for breaking both inversion and mirror symmetries to generate net OOP polarization. Moreover, they claimed that the hBN-encapsulated heterostructures exhibited robust room-temperature ferroelectricity not only for monolayer graphene but also for bilayer and trilayer graphene (Fig. 5e), with all three systems showing clearly switchable polarization responses. Specially, monolayer graphene in hBN-encapsulated devices exhibiting a record-high room-temperature polarization of 1.76 μC/cm2 among sliding ferroelectrics (Fig. 5f) and excellent endurance (&gt;50,000 switching cycles). Moreover, the system demonstrates a unique layer-dependent odd-even effect, showing non-monotonic thickness dependence of polarization (0.81 μC/cm2 for bilayer and 1.22 μC/cm2 for trilayer graphene) that originates from cooperative interlayer sliding between graphene and hBN layers (Fig. 5g, h).
+然而，vdW铁电材料的CVD外延生长通常难以形成能量不利的堆叠构型。因此，打破晶体反演对称性需要替代方法，例如机械剥离后进行人工重新堆叠。例如，Lin等人开发了一种“翻转-反射转移”技术，实现hBN和石墨烯之间精确的锯齿形边缘对准，以100%的成功率制备了斜堆叠三层hBN/石墨烯/hBN异质结（图5d）39。使用非斜堆叠构型的对照实验，包括两个反平行排列的hBN薄片（仅翻转无反射）但与石墨烯对准，以及完全不对准的hBN/石墨烯/hBN堆叠，均显示铁电性完全消失，令人信服地证明斜堆叠对于打破反演和镜面对称性以产生净面外极化至关重要。此外，他们声称，hBN封装的异质结不仅对单层石墨烯，而且对双层和三层石墨烯（图5e）都展现出鲁棒的室温铁电性，所有三个体系都显示出清晰可翻转的极化响应。特别是，hBN封装的单层石墨烯器件在滑动铁电体中展现出创纪录的室温极化1.76 μC/cm2（图5f）和优异的耐久性（&gt;50,000次翻转循环）。此外，该体系展现出独特的层数依赖奇偶效应，显示极化随厚度的非单调变化（双层石墨烯为0.81 μC/cm2，三层石墨烯为1.22 μC/cm2），这源于石墨烯和hBN层之间的协同层间滑动（图5g, h）。
+
+## Twist Stackings or Moiré Superlattices
+扭转堆叠或莫尔超晶格
+
+The creation of moiré superlattices through controlled twist stacking has emerged as a transformative approach to induce sliding ferroelectricity in vdW materials that are intrinsically nonpolar in their natural bilayer form. This method operates through a fundamental symmetry-breaking mechanism: when two crystal layers are rotationally misaligned at small angles, the resulting moiré pattern generates periodic domains with alternating AB and BA stacking registries. These distinct stacking configurations produce opposing OOP dipoles due to localized interlayer charge redistribution, while the domain walls between them serve as natural channels for polarization switching via interlayer sliding. The moiré approach offers several unique advantages over conventional ferroelectric design strategies, including universal applicability, tunable ferroelectricity, and multi-functionality. While challenges remain in achieving uniform moiré patterns over large areas and improving operational temperature ranges, twist engineering represents a paradigm shift in ferroelectric materials design by demonstrating that sophisticated control over atomic registries alone can transform ordinary bilayers into functional ferroelectrics, opening new possibilities for novel electronic, optoelectronic, and quantum devices.
+通过受控扭转堆叠创建莫尔超晶格，已成为在天然双层形式下本征非极性的vdW材料中诱导滑动铁电性的一种变革性方法。该方法通过一种基本的对称性破缺机制运作：当两个晶体层以小角度旋转错位时，产生的莫尔图案生成具有交替AB和BA堆叠配位的周期性畴。由于局部层间电荷重新分布，这些不同的堆叠构型产生相反的面外偶极子，而它们之间的畴壁则作为通过层间滑动进行极化翻转的天然通道。莫尔方法相比传统铁电设计策略具有若干独特优势，包括普适性、可调谐铁电性和多功能性。尽管在大面积上实现均匀莫尔图案和提高工作温度范围方面仍存在挑战，扭转工程代表了一种铁电材料设计的范式转变，它证明了仅凭对原子配位的精细控制就可以将普通双层转变为功能铁电体，为新型电子、光电和量子器件开辟了新的可能性。
+
+As a representative sliding ferroelectric system, hBN exhibits unique polarization control through twist engineering. While monolayer hBN maintains a graphene-like hexagonal lattice with alternating boron (B) and nitrogen (N) atoms, its natural AA’ stacked bilayer configuration preserves inversion symmetry (Fig. 6a), resulting in a nonpolar state26. Artificial conversion to AA stacking breaks this symmetry (Fig. 6b) to create polar character, though this configuration remains metastable65. Cross-sectional analysis of native AA’-hBN (Fig. 6c) reveals perfect B/N registry symmetry, whereas deliberately stacked AB and BA configurations produce diagonally aligned polarization units that dramatically alter ferroelectric properties. Registration mapping of engineered stacks with 0.5° twist angle (Fig. 6d) shows that lattice relaxation reorganizes moiré patterns into distinct domains: triangular AB/BA ferroelectric regions with opposite polarization directions (due to their mirror-symmetric relationship) separated by AA saddle points and domain walls26. This AB/BA duality in twisted hBN creates a natural platform for polarization switching, where interlayer sliding transitions between these complementary states enable nonvolatile dipole reversal without requiring ionic displacement.
+作为代表性的滑动铁电体系，hBN通过扭转工程展现出独特的极化控制。尽管单层hBN保持类似石墨烯的六方晶格，具有交替的硼（B）和氮（N）原子，但其天然AA’堆叠双层构型保持反演对称性（图6a），导致非极性态26。人为转换为AA堆叠打破了这一对称性（图6b），产生极性特征，尽管该构型仍为亚稳态65。天然AA’-hBN的截面分析（图6c）揭示了完美的B/N配位对称性，而故意堆叠的AB和BA构型产生对角线排列的极化单元，极大地改变了铁电性质。具有0.5°扭转角的工程堆叠的配位图（图6d）显示，晶格弛豫将莫尔图案重组为不同的畴：具有相反极化方向的三角形AB/BA铁电区域（由于它们的镜面对称关系），由AA鞍点和畴壁分隔26。扭转hBN中的这种AB/BA二重性为极化翻转创建了一个天然平台，其中层间滑动在这些互补态之间转换，实现了非易失性偶极子反转，无需离子位移。
+
+In 2022, Wang et al. achieved a breakthrough by employing twist-stacking technology to create precisely controlled 0.25°-twisted bilayer MoS227. This ultra-precise angular manipulation successfully broke the local inversion symmetry in bilayer MoS2, thereby inducing switchable ferroelectric domains—a phenomenon subsequently verified across multiple transition metal dichalcogenides including WSe2, MoSe2, and WS2. In 2024, Lee et al. conducted a systematic investigation of twist-angle dependence on ferroelectricity in bilayer WSe2, revealing a critical angular threshold for polarization switching66. Their work demonstrated robust room-temperature ferroelectricity at small twist angles (0°-3°), with complete suppression of ferroelectric signals occurring at ≥4° misalignment. Most remarkably, at the optimized 3° twist angle, the WSe2 bilayer exhibited coexisting ferroelectric and ferromagnetic orders—a rare multiferroic combination that opens new avenues for designing multifunctional quantum devices. The observed sharp transition at 4° suggests a delicate balance between interlayer coupling and domain size in stabilizing moiré ferroelectricity. These findings underscore how moiré superlattice engineering is advancing fundamental materials physics while enabling unprecedented control over quantum phenomena for next-generation electronics.
+2022年，Wang等人通过采用扭转堆叠技术创建了精确控制的0.25°扭转双层MoS2，取得了突破性进展27。这种超精确的角度操控成功打破了双层MoS2中的局部反演对称性，从而诱导了可翻转的铁电畴——这一现象随后在WSe2、MoSe2和WS2等多种过渡金属二硫化物中得到验证。2024年，Lee等人系统研究了双层WSe2中铁电性的扭转角依赖关系，揭示了极化翻转的临界角度阈值66。他们的工作展示了在小扭转角（0°-3°）下鲁棒的室温铁电性，而在≥4°的错位时铁电信号完全抑制。最引人注目的是，在优化的3°扭转角下，WSe2双层展现出共存的铁电和铁磁序——一种罕见的多铁性组合，为设计多功能量子器件开辟了新途径。观察到的4°处急剧转变表明，在稳定莫尔铁电性方面，层间耦合和畴尺寸之间存在微妙的平衡。这些发现突显了莫尔超晶格工程如何推进基础材料物理学，同时为下一代电子学实现对量子现象的前所未有的控制。
+<span class="hljs-strong">**Multiferroic**</span>: 多铁性，同时存在两种或两种以上铁性序（如铁电性、铁磁性、铁弹性）的材料。
+
+## Non-Stoichiometric Compositions
+非化学计量比组分
+
+Doping and intercalation strategies have been widely employed to modulate and optimize the ferroelectric properties of conventional intrinsic ferroelectric materials, such as CuInP2S667. Inspired by this, non-stoichiometric compositions has represented a unique pathway to engineer sliding ferroelectricity by intentionally introducing controlled atomic vacancies, dopants, intercalation, or compositional gradients in layered materials. Unlike conventional approaches that rely on precise stacking sequences or moiré engineering, non-stoichiometry induces ferroelectricity through local symmetry breaking and interfacial charge imbalance between layers. This approach significantly expands the materials design space beyond ideal stoichiometric crystals, bridging the gap between traditional displacive ferroelectrics and emergent sliding mechanisms.
+掺杂和插层策略已被广泛用于调控和优化传统本征铁电材料的铁电性能，例如CuInP2S667。受此启发，非化学计量比组分代表了一种通过有意引入受控原子空位、掺杂剂、插层或层状材料中的组分梯度来工程化滑动铁电性的独特途径。与依赖精确堆叠序列或莫尔工程的传统方法不同，非化学计量比通过局部对称性破缺和层间界面电荷不平衡诱导铁电性。这种方法显著扩展了材料设计空间，超越了理想的化学计量比晶体，弥合了传统位移型铁电体与新兴滑动机制之间的鸿沟。
+<span class="hljs-strong">**Intercalation**</span>: 插层，将原子、离子或分子插入层状材料的层间间隙。
+
+Sui et al. demonstrated that yttrium (Y) doping could significantly enhance the ferroelectric properties of γ-InSe through controlled microstructure engineering29. The Y incorporation improved crystal quality by eliminating stacking faults while inducing two critical structural modifications, in-plane compressive distortion and interlayer pre-sliding configurations, which collectively amplified both OOP and in-plane spontaneous polarization. The broken inversion symmetry was conclusively verified by enhanced SHG signals (Fig. 7a), while PFM measurements demonstrated characteristic ferroelectric switching behavior through both amplitude butterfly loops and phase hysteresis (Fig. 7b, c). Remarkably, 50-nm-thick InSe:Y nanosheets exhibited an effective piezoelectric coefficient (d33) of ~7.5 pm/V, which is an order of magnitude enhancement over undoped γ-InSe, highlighting the dramatic impact of Y-mediated structural tailoring on electromechanical performance. In 2023, Gong et al. demonstrated the widespread existence of piezoelectric/ferroelectric behavior in a series of non-stoichiometric TMDs68. Their study on Fe1+αTe2 revealed that varying stoichiometric ratios (α) could effectively modulate both OOP and in-plane ferroelectricity (Fig. 7d, e), enabling applications in multi-level memristors. The observed effects originated from two synergistic mechanisms: (i) Frankel defects induced by intercalated metal atoms and (ii) sliding-governed polarization switching at vdW gaps. This paradigm was further advanced in 2024 by Meng et al., who synthesized non-stoichiometric ternary TMDs (AgCr1-xS2) via CVD and confirmed their room-temperature ferroelectricity69. SHG measurements verified the broken inversion symmetry, while PFM data demonstrated voltage-enhanced switching: increasing the applied bias from 2 V to 5 V enlarged the hysteresis window and sharpened the butterfly curves. Crucially, Cr vacancies and interlayer atomic displacements were identified as the primary drivers of polarization, with devices exploiting both in-plane and OOP polarizations for multifunctional operation.
+Sui等人证明，钇（Y）掺杂可通过受控的微结构工程显著增强γ-InSe的铁电性能29。Y的掺入通过消除堆垛层错提高了晶体质量，同时诱导了两种关键的结构修饰——面内压缩畸变和层间预滑移构型，这共同放大了面外和面内自发极化。增强的SHG信号（图7a）最终验证了打破的反演对称性，而PFM测量通过振幅蝴蝶曲线和相位滞回线展示了特征性的铁电翻转行为（图7b, c）。值得注意的是，50 nm厚的InSe:Y纳米片展现出约7.5 pm/V的有效压电系数（d33），比未掺杂的γ-InSe提高了一个数量级，突显了Y介导的结构调控对机电性能的巨大影响。2023年，Gong等人证明了非化学计量比TMDs中广泛存在压电/铁电行为68。他们对Fe1+αTe2的研究表明，改变化学计量比（α）可以有效调控面外和面内铁电性（图7d, e），从而在多级忆阻器中实现应用。观察到的效应源于两种协同机制：（i）插层金属原子诱导的Frankel缺陷，以及（ii）在vdW间隙处由滑动控制的极化翻转。这一范式在2024年由Meng等人进一步推进，他们通过CVD合成了非化学计量比的三元TMDs（AgCr1-xS2），并证实了其室温铁电性69。SHG测量验证了打破的反演对称性，而PFM数据展示了电压增强的翻转：将施加的偏压从2 V增加到5 V，扩大了滞回窗口并使蝴蝶曲线变锐。至关重要地，Cr空位和层间原子位移被确定为极化的主要驱动力，器件利用面内和面外极化实现多功能操作。
+<span class="hljs-strong">**Frankel defect**</span>: 弗兰克尔缺陷，晶体中原子离开正常格点进入间隙位置形成的点缺陷。
+
+## Heterostructures
+异质结构
+
+Heterostructures create sliding ferroelectricity through interfacial charge asymmetry and stacking-dependent polarization at vdW interfaces, where dissimilar layered materials break inversion symmetry via controlled interlayer registry. Unlike homogeneous bilayers, heterostructures (e.g., MoS2/WS2, graphene/hBN) leverage intrinsic property mismatches—such as work function differences, band alignment, or ionic polarities—to generate robust OOP dipoles that can be switched through interlayer sliding. Complementing the earlier discussion of graphene/hBN heterostructures, the MoS2/WS2 system developed by Rogée et al. reveals distinct advantages in sliding ferroelectric engineering43. Unlike the graphene/hBN system where polarization arises primarily from interfacial charge transfer, the MoS2/WS2 heterobilayer achieves its remarkable properties through two synergistic mechanisms: (i) intrinsic symmetry breaking from the lattice-mismatched interface and (ii) interlayer sliding-enabled polarization switching, all without requiring artificial twist angles. Their precisely engineered heterointerface breaks spatial inversion symmetry through interlayer charge redistribution, generating an exceptional OOP polarization ~6 times stronger than monolayer α-In2Se3, a record value among 2D ferroelectric systems at the time of publication.
+异质结构通过vdW界面处的界面电荷不对称性和堆叠依赖的极化产生滑动铁电性，其中不同的层状材料通过受控的层间配位打破反演对称性。与同质双层不同，异质结构（如MoS2/WS2、石墨烯/hBN）利用本征性质失配——如功函数差异、能带排列或离子极性——来产生鲁棒的面外偶极子，可通过层间滑动进行翻转。作为对石墨烯/hBN异质结构先前讨论的补充，Rogée等人开发的MoS2/WS2体系在滑动铁电工程中展现出独特优势43。与极化主要源于界面电荷转移的石墨烯/hBN体系不同，MoS2/WS2异质双层通过两种协同机制实现其卓越性能：（i）来自晶格失配界面的本征对称性破缺，以及（ii）层间滑动使能的极化翻转，所有这些都无需人工扭转角。他们精确设计的异质界面通过层间电荷重新分布打破了空间反演对称性，产生了一个异常的面外极化，约为单层α-In2Se3的6倍，这是发表时二维铁电体系中的记录值。
+
+# Microscopic Mechanisms of Sliding Ferroelectricity
+滑动铁电性的微观机制
+
+The microscopic origin of sliding ferroelectricity fundamentally differs from conventional displacive ferroelectricity, relying instead on interlayer charge asymmetry created by specific atomic registries in vdW layered materials. This phenomenon was first demonstrated in WTe2 by Fei et al., where bilayer and thicker samples exhibited clear ferroelectric bistability under vertical electric fields while monolayers remained nonpolar, conclusively establishing the role of interlayer sliding rather than ionic displacements21. Subsequent first-principles calculations by Yang et al. revealed that polarization switching in WTe2 occurs through a 0.72 Å lateral shift between mirror-symmetric states, with Hirshfeld charge analysis showing uncompensated interlayer charge transfer (Δq ≈ 0.07 e) as the source of OOP dipoles58. Recent advances have further elucidated the unconventional switching dynamics in sliding ferroelectrics: (i) mechanical bending has been shown to create topological domain walls that reverse polarization via kink formation in hBN and 3R-MoS2, distinct from flexoelectric effects70. (ii) for BN bilayers, inclined electric fields are found to enable deterministic switching with reduced critical field strength by leveraging in-plane polarization in transition states, suggesting a universal approach for D3h-symmetric monolayers71. (iii) the unique role of off-diagonal Born effective charges in hBN explains its avalanche-like switching dynamics and wriggling domain wall motion under symmetry-breaking perturbations72. These studies collectively reveal that sliding ferroelectric switching is governed by fundamentally different rules compared to conventional ferroelectrics.
+滑动铁电性的微观起源与传统位移型铁电性根本不同，它依赖于vdW层状材料中由特定原子配位造成的层间电荷不对称性。这一现象首次由Fei等人在WTe2中证实，其中双层及更厚的样品在垂直电场下展现出清晰的铁电双稳态，而单层仍为非极性，从而最终确立了层间滑动而非离子位移的作用21。随后Yang等人的第一性原理计算揭示了WTe2中的极化翻转通过镜面对称态之间0.72 Å的横向位移发生，Hirshfeld电荷分析显示未补偿的层间电荷转移（Δq ≈ 0.07 e）是面外偶极子的来源58。最近的进展进一步阐明了滑动铁电体中非常规的翻转动力学：（i）机械弯曲已被证明可在hBN和3R-MoS2中通过扭折形成产生拓扑畴壁，从而反转极化，这与挠曲电效应不同70。（ii）对于BN双层，发现倾斜电场可通过利用过渡态中的面内极化，以降低的临界场强实现确定性翻转，这为D3h对称单层提出了一种通用方法71。（iii）hBN中非对角Born有效电荷的独特作用解释了其在对称性破缺扰动下的雪崩式翻转动力学和蜿蜒畴壁运动72。这些研究共同揭示，滑动铁电翻转受与传统铁电体根本不同的规则支配。
+<span class="hljs-strong">**Flexoelectric effect**</span>: 挠曲电效应，应变梯度与极化之间的耦合效应。
+
+Parallel insights emerged from studies of 3R-MoS2, where AB/BA stacking configurations (Fig. 8a, b) generate opposing polarizations through interfacial charge transfer, with multilayer systems exhibiting complex switching dynamics due to sequential layer motion and transient antiparallel dipole states during polarization reversal54,73,74. In 2022, Meng et al. made significant advances in understanding the polarization switching dynamics of multilayer 3R-phase MoS273. Their work revealed an anomalous polarization state arising from the sequential sliding of individual atomic layers—when one layer completes its sliding motion, it creates an intermediate state with antiparallel OOP dipole moments, as illustrated in Fig. 8c. This discovery highlighted the complex, layer-by-layer nature of polarization reversal in multilayer sliding ferroelectrics. More recently, Liang et al. employed optical reflectance spectroscopy to systematically map the polarization switching pathways in trilayer 3R-MoS274. Their study demonstrated that the sequential depinning of domain walls at different interfaces plays a critical role in determining the overall polarization reversal process, providing new insights into the microscopic mechanisms governing switching dynamics in these materials.
+对3R-MoS2的研究也产生了并行的见解，其中AB/BA堆叠构型（图8a, b）通过界面电荷转移产生相反的极化，多层体系由于极化反转过程中顺序层运动和瞬态反平行偶极子态而展现出复杂的翻转动力学54,73,74。2022年，Meng等人在理解多层3R相MoS2的极化翻转动力学方面取得了重大进展73。他们的工作揭示了由单个原子层的顺序滑动产生的反常极化态——当一层完成其滑动运动时，会创建一个具有反平行面外偶极矩的中间态，如图8c所示。这一发现突显了多层滑动铁电体中极化反转的复杂、逐层特性。最近，Liang等人利用光学反射光谱系统地绘制了三层3R-MoS2中的极化翻转路径74。他们的研究证明，不同界面处畴壁的顺序脱钉在决定整体极化反转过程中起着关键作用，为控制这些材料中翻转动力学的微观机制提供了新的见解。
+
+These findings collectively highlight how sliding ferroelectricity universally arises from correlated electron-phonon interactions at vdW interfaces, while manifesting material-specific characteristics—from WTe2’s layer-number threshold to 3R-MoS2’s metastable intermediate configurations—that can be tailored through precise stacking control and thickness engineering. The existence of such diverse yet unified mechanisms across different material systems underscores sliding ferroelectricity as a distinct class of ferroelectric phenomena enabled by the unique physics of two-dimensional heterointerfaces.
+这些发现共同突显了滑动铁电性如何普遍地从vdW界面处的关联电子-声子相互作用中产生，同时表现出材料特定的特征——从WTe2的层数阈值到3R-MoS2的亚稳中间构型——这些特征可通过精确的堆叠控制和厚度工程进行定制。不同材料体系中这种多样化但统一的机制的存在，强调了滑动铁电性是由二维异质界面的独特物理开启的一类独特的铁电现象。
+
+# Device Applications of Sliding Ferroelectric Materials
+滑动铁电材料的器件应用
+
+Current research on device applications based on sliding ferroelectric materials remains at an early developmental stage, yet the preliminary breakthroughs already demonstrate their transformative potential for next-generation electronics. Unlike conventional ferroelectric devices limited by interfacial defects and scaling challenges, sliding ferroelectrics offer three inherent advantages for practical implementation: (i) atomic-scale thickness compatibility with vdW integration, (ii) mechanical flexibility enabling bendable electronics, and (iii) fatigue-resistant switching through defect-tolerant sliding mechanisms. In 2024, Li et al. achieved a significant breakthrough by fabricating rewritable ferroelectric transistor arrays based on bilayer 3R-phase MoS244. Leveraging the non-volatile memory characteristics and exceptional mechanical stability of this sliding ferroelectric material, they successfully demonstrated flexible device integration that maintained robust performance through over 1000 bending cycles (Fig. 9a–d), showcasing unprecedented fatigue resistance for atomic-scale memory elements.
+基于滑动铁电材料的器件应用研究目前仍处于早期发展阶段，但初步突破已展示了其对下一代电子学的变革潜力。与传统铁电器件受限于界面缺陷和缩放挑战不同，滑动铁电体为实际应用提供了三个固有优势：（i）与vdW集成兼容的原子尺度厚度，（ii）实现可弯曲电子学的机械柔性，以及（iii）通过容忍缺陷的滑动机制实现的抗疲劳翻转。2024年，Li等人通过制造基于双层3R相MoS2的可重写铁电晶体管阵列，取得了重大突破44。利用这种滑动铁电材料的非易失性存储特性和优异的机械稳定性，他们成功展示了柔性器件集成，在超过1000次弯曲循环后仍保持鲁棒性能（图9a–d），展示了原子尺度存储元件前所未有的抗疲劳性。
+
+Ferroelectric tunnel junctions (FTJs), which utilize polarization-dependent tunneling resistance for non-volatile memory operation, represent another promising application platform for sliding ferroelectrics. The atomically thin nature of these materials allows for ultra-narrow tunnel barriers, while the reversible OOP polarization enables efficient modulation of tunneling currents75. Recent theoretical studies suggest that vdWs FTJs based on sliding ferroelectrics could achieve large tunneling electroresistance ratios76, making them attractive candidates for low-power, high-density memory devices. Parallel advances have been made in optoelectronic applications, as exemplified by recent work on ε-InSe-based sliding ferroelectric devices30. This system exhibits unique layer-dependent ferroelectricity, where OOP polarization emerges only in even-numbered layers, enabling both nonvolatile memory operation (with on-off ratios ≈104) and ultrafast optoelectronic functionality. Remarkably, the ferroelectric polarization in ε-InSe induces an ultrafast bulk photovoltaic response (~3 ps) in the near-infrared regime (Fig. 9e–h), achieved through polarization-modulated photogenerated carrier dynamics. These findings, supported by first-principles calculations and experimental characterizations, establish sliding ferroelectrics as a promising platform for hybrid devices combining reconfigurable memory and high-speed photodetection capabilities.
+铁电隧道结（FTJs）利用极化依赖的隧穿电阻进行非易失性存储操作，是滑动铁电体的另一个有前景的应用平台。这些材料的原子级厚度特性允许超窄隧穿势垒，而可逆的面外极化能够有效调制隧穿电流75。最近的理论研究表明，基于滑动铁电体的vdW FTJs可以实现大的隧穿电阻比76，使其成为低功耗、高密度存储器件的有吸引力的候选者。在光电应用方面也取得了并行进展，最近基于ε-InSe的滑动铁电器件的工作就是例证30。该体系展现出独特的层依赖铁电性，其中面外极化仅在偶数层中出现，实现了非易失性存储操作（开关比≈104）和超快光电功能。值得注意的是，ε-InSe中的铁电极化在近红外波段诱导了超快体光伏响应（~3 ps）（图9e–h），这是通过极化调制的光生载流子动力学实现的。这些发现，得到了第一性原理计算和实验表征的支持，确立了滑动铁电体作为结合可重构存储和高速光电探测能力的混合器件的有前景平台。
+<span class="hljs-strong">**Ferroelectric tunnel junction (FTJ)**</span>: 铁电隧道结，以铁电材料为势垒的隧道结，其电阻依赖于极化方向。
+<span class="hljs-strong">**Tunneling electroresistance (TER)**</span>: 隧穿电阻比，铁电隧道结中两种极化态之间的电阻比值。
+
+Furthermore, the dynamic and reversible polarization switching behavior, combined with low energy consumption, makes sliding ferroelectrics ideal candidates for neuromorphic computing, particularly in the design of ferroelectric synaptic devices77,78. In such systems, the ferroelectric polarization can be used to emulate synaptic weight, and the conductance of the channel can be modulated via gate pulses mimicking pre-synaptic spikes. The fatigue-resistant nature of sliding ferroelectrics ensures long-term stability and endurance—critical requirements for artificial neural networks. Recent studies have shown that synaptic transistors made from few-layer sliding ferroelectric materials can accurately mimic the behavior of biological synapses by precisely adjusting their electrical response to voltage pulses44,79. This high precision in simulating learning processes makes them promising candidates for building efficient AI systems. Collectively, these developments highlight the versatility and scalability of sliding ferroelectric materials across a wide range of electronic and optoelectronic platforms, extending well beyond traditional ferroelectric functionalities.
+此外，动态可逆的极化翻转行为，加上低能耗，使滑动铁电体成为神经形态计算的理想候选者，特别是在铁电突触器件的设计中77,78。在此类系统中，铁电极化可用于模拟突触权重，沟道的电导可通过模拟突触前脉冲的栅极脉冲进行调制。滑动铁电体的抗疲劳特性确保了长期稳定性和耐久性——这是人工神经网络的关键要求。最近的研究表明，由少层滑动铁电材料制成的突触晶体管可通过精确调节其对电压脉冲的电响应，准确模拟生物突触的行为44,79。这种模拟学习过程的高精度使其成为构建高效AI系统的有前景的候选者。总的来说，这些发展突显了滑动铁电材料在广泛的电子和光电平台中的多功能性和可扩展性，远远超出了传统的铁电功能。
+<span class="hljs-strong">**Neuromorphic computing**</span>: 神经形态计算，一种模仿生物神经系统结构和功能的计算架构。
+<span class="hljs-strong">**Synaptic weight**</span>: 突触权重，人工神经网络中表示两个神经元之间连接强度的参数。
+
+# Challenges and Perspectives
+挑战与展望
+
+The field of 2D sliding ferroelectric materials has witnessed remarkable theoretical and experimental progress in recent years, yet fundamental challenges persist across material discovery, mechanistic understanding, and functional control. While recent theoretical advances, particularly the general BSF theory63, have established symmetry-based design rules for sliding-induced polarization, translating these principles into experimental systems faces three key hurdles: (i) material limitations: the BSF theory predicts numerous candidate systems (e.g., centrosymmetric monolayers like CrI3), yet synthesis challenges (e.g., controlled stacking, interfacial defects) restrict experimental validation to a few prototypes (e.g., 3R-MoS2, twisted hBN). (ii) dynamic complexity: even with known symmetry constraints, the real-time kinetics of polarization switching—especially in multilayers with competing domain walls or rotatable subunits (e.g., CCC crystals)—remain poorly quantified. (iii) property trade-offs: designed sliding ferroelectrics often face conflicting requirements (e.g., strong polarization vs. low switching barriers, stability vs. tunability), necessitating beyond-symmetry considerations like strain engineering or doping.
+二维滑动铁电材料领域近年来取得了显著的理论和实验进展，但在材料发现、机制理解和功能控制方面仍存在根本性挑战。尽管最近的理论进展，特别是通用的BSF理论63，已经建立了滑动诱导极化的基于对称性的设计规则，但将这些原理转化为实验体系面临三个关键障碍：（i）材料局限性：BSF理论预测了许多候选体系（例如，像CrI3这样的中心对称单层），但合成挑战（例如，受控堆叠、界面缺陷）将实验验证限制在少数原型（例如，3R-MoS2、扭转hBN）。（ii）动力学复杂性：即使已知对称性约束，极化翻转的实时动力学——尤其是在具有竞争畴壁或可旋转亚基的多层中（例如，CCC晶体）——仍然量化不足。（iii）性能权衡：设计的滑动铁电体经常面临相互矛盾的要求（例如，强极化 vs. 低翻转势垒，稳定性 vs. 可调谐性），需要超越对称性的考虑，如应变工程或掺杂。
+
+Mechanistically, the interplay between interlayer charge transfer and lattice dynamics during polarization switching remains incompletely understood, particularly in multilayer systems where intermediate states and domain wall dynamics complicate the switching pathways. In addition, the field of sliding ferroelectrics faces several fundamental challenges that represent truly unresolved frontiers in condensed matter physics and materials science. Beyond current symmetry-based theories, the field must address the many-body problem in switching dynamics, where electronic correlation effects create &gt;100 meV discrepancies between predicted and observed switching barriers, while defect-mediated nucleation dominates real-world behavior. For twist-angle engineered systems, an additional fabrication challenge emerges: while state-of-the-art transfer stages can achieve 0.1° stacking precision through mechanical exfoliation/restacking80, this approach fundamentally limits scalability. Although CVD growth has recently produced large-area twisted bilayers81–84, achieving the crucial 0.1°-5° twist angles—where most sliding ferroelectric phenomena emerge—remains exceptionally challenging due to thermodynamic instabilities during growth. Therefore, developing more reliable techniques to overcome thermodynamic instabilities and enable large-scale preparation of materials with small-angle twist is also a promising research direction. Besides, several reports about the large-scale preparation of 3R-phase bilayer TMDs have emerged85. These scalable fabrication techniques pave the way toward the realization of large-scale sliding ferroelectrics and are also considered to be a highly promising research topic.
+在机制上，极化翻转过程中层间电荷转移与晶格动力学之间的相互作用仍未完全理解，特别是在多层体系中，中间态和畴壁动力学使翻转路径复杂化。此外，滑动铁电体领域面临若干根本性挑战，这些挑战代表了凝聚态物理和材料科学中真正未解决的前沿。超越当前基于对称性的理论，该领域必须解决翻转动力学中的多体问题，其中电子关联效应导致预测和观察到的翻转势垒之间存在&gt;100 meV的差异，而缺陷介导的成核主导了实际行为。对于扭转角工程系统，额外的制造挑战出现了：尽管最先进的转移平台可通过机械剥离/重新堆叠实现0.1°的堆叠精度80，但这种方法从根本上限制了可扩展性。尽管CVD生长最近已制备出大面积扭转双层81–84，但实现关键的0.1°-5°扭转角——大多数滑动铁电现象出现的范围——由于生长过程中的热力学不稳定性而仍然极具挑战性。因此，开发更可靠的技术来克服热力学不稳定性，实现小角度扭转材料的大规模制备，也是一个有前景的研究方向。此外，已有若干关于3R相双层TMDs大规模制备的报道出现85。这些可扩展的制备技术为实现大规模滑动铁电体铺平了道路，也被认为是一个非常有前景的研究课题。
+
+Furthermore, a critical characterization gap persists, with no existing technique achieving the required trifecta of &lt;10 fs temporal resolution, Ångström-scale spatial precision, and meV energy resolution to fully probe switching events. The intrinsic scalability dilemma presents another fundamental hurdle, as material systems cannot simultaneously achieve both large polarization (&gt;50 μC/cm2) and low switching fields (&lt;0.1 MV/cm) due to competing requirements for strong versus weak interlayer coupling. Looking ahead, three key directions emerge as particularly promising for advancing the field of sliding ferroelectrics: (i) theory-guided discovery that combines the BSF framework with high-throughput ab initio screening to identify systems with both synthesis-compatible stacking configurations and robust switching metrics; (ii) operando characterization utilizing cutting-edge techniques like ultrafast TEM or X-ray free-electron lasers to resolve switching dynamics at the Ångström-femtosecond scale, thereby bridging the gap between theoretical predictions and experimental observations; and (iii) development of hybrid architectures that exploit sliding ferroelectricity in heterostructures—such as those coupled with 2D magnets or superconductors—to unlock novel emergent phenomena including electrically controlled topological phases. These interconnected approaches will collectively drive the field toward both fundamental understanding and practical applications.
+此外，一个关键的表征缺口仍然存在，目前没有技术能够同时达到&lt;10 fs的时间分辨率、埃级空间精度和meV能量分辨率这三项要求，以充分探测翻转事件。内在的可扩展性困境构成了另一个根本性障碍，因为材料体系无法同时实现大极化（&gt;50 μC/cm2）和低翻转场（&lt;0.1 MV/cm），这是由于强与弱层间耦合的竞争要求。展望未来，三个关键方向对于推动滑动铁电体领域的发展尤为有前景：（i）理论指导的发现，将BSF框架与高通量从头算筛选相结合，以识别兼具合成兼容堆叠构型和鲁棒翻转指标的体系；（ii）利用超快TEM或X射线自由电子激光等尖端技术进行原位表征，以在埃-飞秒尺度上解析翻转动力学，从而弥合理论预测与实验观察之间的鸿沟；以及（iii）开发利用异质结中滑动铁电性的混合架构——例如与二维磁体或超导体耦合的架构——以解锁包括电控拓扑相在内的新颖涌现现象。这些相互关联的方法将共同推动领域走向基础理解和实际应用。
+<span class="hljs-strong">**Operando characterization**</span>: 原位表征，在器件工作条件下实时监测材料结构和性质的技术。
+
+From a broader perspective, the unique characteristics of sliding ferroelectrics, such as their thickness-dependent polarization, mechanical flexibility, and potential for ultralow-power switching, position them as a transformative materials platform that could bridge the gap between conventional ferroelectrics and emerging quantum materials. Realizing this potential will require coordinated efforts to establish synthesis-structure-property relationships, develop standardized characterization protocols, and explore unconventional device architectures that leverage their distinctive physics. As these efforts progress, sliding ferroelectrics may not only address current technological challenges in non-volatile memory and energy-efficient electronics, but also open new frontiers in the control of quantum phases and non-equilibrium material states.
+从更广阔的视角来看，滑动铁电体的独特特性，如其厚度依赖的极化、机械柔性以及超低功耗翻转的潜力，使其成为一个变革性材料平台，可以弥合传统铁电体与新兴量子材料之间的鸿沟。实现这一潜力需要协调努力，建立合成-结构-性能关系，开发标准化的表征协议，并探索利用其独特物理的非常规器件架构。随着这些努力的推进，滑动铁电体不仅可能解决当前非易失性存储和节能电子学中的技术挑战，而且可能在量子相和非平衡材料态的控制方面开辟新的前沿。
+
+# Data availability
+数据可用性
+
+No datasets were generated or analysed during the current study.
+本研究期间未生成或分析任何数据集。
+
+Received: 7 May 2025; Accepted: 6 August 2025;
+收到日期：2025年5月7日；接受日期：2025年8月6日；
+
+# References
+参考文献
+
+1. Zhang, Y. et al. Ferroelectricity in a semiconducting all-inorganic halide perovskite. Sci. Adv. 8, eabj5881 (2022).
+2. Zhang, X. et al. Scalable synthesis of high-quality ultrathin ferroelectric magnesium molybdenum oxide. Adv. Mater. 36, 2308550 (2024).
+3. Bao, S. et al. Direct observation of topological magnon polarons in a multiferroic material. Nat. Commun. 14, 6093 (2023).
+4. Wu, M. 100 years of ferroelectricity. Nat. Rev. Phys. 3, 726–726 (2021).
+5. Jin, T. et al. Ferroelectrics-integrated two-dimensional devices toward next-generation electronics. ACS Nano 16, 13595–13611 (2022).
+6. Lin, L.-F., Zhang, Y., Moreo, A., Dagotto, E. &amp; Dong, S. Frustrated dipole order induces noncollinear proper ferrielectricity in two dimensions. Phys. Rev. Lett. 123, 067601 (2019).
+7. Han, W. et al. Phase-controllable large-area two-dimensional In2Se3 and ferroelectric heterophase junction. Nat. Nanotechnol. 18, 55–63 (2023).
+8. Si, K. et al. Quasi-equilibrium growth of inch-scale single-crystal monolayer α-In2Se3 on fluor-phlogopite. Nat. Commun. 15, 7471 (2024).
+9. Ming, W. et al. Flexoelectric engineering of van der Waals ferroelectric CuInP2S6. Sci. Adv. 8, eabq1232, https://doi.org/10.1126/sciadv.abq1232.
+10. Chen, C. et al. Large-scale domain engineering in two-dimensional ferroelectric CuInP2S6 via giant flexoelectric effect. Nano Lett. 22, 3275–3282 (2022).
+11. Wu, J. et al. High tunnelling electroresistance in a ferroelectric van der Waals heterojunction via giant barrier height modulation. Nat. Electron. 3, 466–472 (2020).
+12. Dziaugys, A. et al. Piezoelectric domain walls in van der Waals antiferroelectric CuInP2Se6. Nat. Commun. 11, 3623 (2020).
+13. Chang, K. et al. Discovery of robust in-plane ferroelectricity in atomic-thick SnTe. Science 353, 274–278 (2016).
+14. Abdelwahab, I. et al. Giant second-harmonic generation in ferroelectric NbOI2. Nat. Photonics 16, 644–650 (2022).
+15. Ghosh, T. et al. Ultrathin free-standing nanosheets of Bi2O2Se: room temperature ferroelectricity in self-assembled charged layered heterostructure. Nano Lett. 19, 5703–5709 (2019).
+16. Li, L. &amp; Wu, M. Binary compound bilayer and multilayer with vertical polarizations: two-dimensional ferroelectrics, multiferroics, and nanogenerators. ACS Nano 11, 6382–6388 (2017).
+17. Wu, M. &amp; Li, J. Sliding ferroelectricity in 2D van der Waals materials: Related physics and future opportunities. Proc. Natl. Acad. Sci. USA 118, e2115703118 (2021).
+18. Zhong, T.-T. &amp; Wu, M.-H. Research progress of two-dimensional interlayer-sliding ferroelectricity. Acta Physica Sinica 69, 217707-217701-217707-217709, https://doi.org/10.7498/aps.69.20201432 (2020).
+19. Wang, C., You, L., Cobden, D. &amp; Wang, J. Towards two-dimensional van der Waals ferroelectrics. Nat. Mater. 22, 542–552 (2023).
+20. Pacchioni, G. New insight in sliding ferroelectricity. Nat. Rev. Mater. 8, 8–8 (2023).
+21. Fei, Z. et al. Ferroelectric switching of a two-dimensional metal. Nature 560, 336–339 (2018).
+22. Sharma, P. et al. A room-temperature ferroelectric semimetal. Sci. Adv. 5, eaax5080 (2019).
+23. Xiao, J. et al. Berry curvature memory through electrically driven stacking transitions. Nat. Phys. 16, 1028–1034 (2020).
+24. Hu, H. et al. Room-temperature out-of-plane and in-plane ferroelectricity of two-dimensional β-InSe nanoflakes. Appl. Phys. Lett. 114, 252903 (2019).
+25. Yasuda, K., Wang, X., Watanabe, K., Taniguchi, T. &amp; Jarillo-Herrero, P. Stacking-engineered ferroelectricity in bilayer boron nitride. Science 372, 1458–1462 (2021).
+26. Vizner Stern, M. et al. Interfacial ferroelectricity by van der Waals sliding. Science 372, 1462–1466 (2021).
+27. Wang, X. et al. Interfacial ferroelectricity in rhombohedral-stacked bilayer transition metal dichalcogenides. Nat. Nanotechnol. 17, 367–371 (2022).
+28. Wan, Y. et al. Room-temperature ferroelectricity in 1T’-ReS2 multilayers. Phys. Rev. Lett. 128, 067601 (2022).
+29. Sui, F. et al. Sliding ferroelectricity in van der Waals layered γ-InSe semiconductor. Nat. Commun. 14, 36 (2023).
+30. Wang, Y. et al. Sliding Ferroelectricity Induced Ultrafast Switchable Photovoltaic Response in ε-InSe Layers. Adv. Mater. 36, 2410696 (2024).
+31. Wong, S.-S. et al. Epitaxial ferroelectric hexagonal boron nitride grown on graphene. Adv. Mater. 37, 2414442 (2025).
+32. Yasuda, K. et al. Ultrafast high-endurance memory based on sliding ferroelectrics. Science 385, 53–56 (2024).
+33. Bian, R. et al. Developing fatigue-resistant ferroelectrics using interlayer sliding switching. Science 385, 57–62 (2024).
+34. Sun, X., Xia, Q., Cao, T. &amp; Yuan, S. Sliding ferroelectricity in two-dimensional materials and device applications. Mater. Sci. Eng.: R: Rep. 163, 100927 (2025).
+35. Wu, M. Two-dimensional van der waals ferroelectrics: scientific and technological opportunities. ACS Nano 15, 9229–9237 (2021).
+36. Wang, C. et al. 2D Van der Waals sliding ferroelectrics toward novel electronic devices. Small 21, 2408375 (2025).
+37. Yang, L., Ding, S., Gao, J. &amp; Wu, M. Atypical Sliding and Moiré ferroelectricity in pure multilayer graphene. Phys. Rev. Lett. 131, 096801 (2023).
+38. Wan, S. et al. Intertwined flexoelectricity and stacking ferroelectricity in marginally twisted hBN Moiré superlattice. Adv. Mater. 36, 2410563 (2024).
+39. Lin, F. et al. Room temperature ferroelectricity in monolayer graphene sandwiched between hexagonal boron nitride. Nat. Commun. 16, 1189 (2025).
+40. Niu, R. et al. Giant ferroelectric polarization in a bilayer graphene heterostructure. Nat. Commun. 13, 6241 (2022).
+41. Mao, J. et al. Strain-Engineered Ferroelectricity in 2H Bilayer MoS2. ACS Nano 18, 30360–30367 (2024).
+42. Gao, L. &amp; Bellaiche, L. Large photoinduced tuning of ferroelectricity in sliding ferroelectrics. Phys. Rev. Lett. 133, 196801 (2024).
+43. Rogée, L. et al. Ferroelectricity in untwisted heterobilayers of transition metal dichalcogenides. Science 376, 973–978 (2022).
+44. Li, X. et al. Sliding ferroelectric memories and synapses based on rhombohedral-stacked bilayer MoS2. Nat. Commun. 15, 10921 (2024).
+45. Miao, L.-P. et al. Direct observation of geometric and sliding ferroelectricity in an amphidynamic crystal. Nat. Mater. 21, 1158–1164 (2022).
+46. Chen, X., Ding, X., Gou, G. &amp; Zeng, X. C. Strong sliding ferroelectricity and interlayer sliding controllable spintronic effect in two-dimensional HgI2 layers. Nano Lett. 24, 3089–3096 (2024).
+47. Ding, N., Ye, H. &amp; Dong, S. Quasi-one-dimensional sliding ferroelectricity in NbI4. Phys. Rev. B 110, 024115 (2024).
+48. Guo, Y.-D. et al. Sliding ferroelectricity in kagome-B2X3 (X=S, Se, Te) bilayers. Appl. Phys. Lett. 124, 152901 (2024).
+49. Zhang, T. et al. Ferroelastic-ferroelectric multiferroics in a bilayer lattice. Phys. Rev. B 103, 165420 (2021).
+50. Ding, N. et al. Phase competition and negative piezoelectricity in interlayer-sliding ferroelectric ZrI2. Phys. Rev. Mater. 5, 084405 (2021).
+51. Ma, X., Liu, C., Ren, W. &amp; Nikolaev, S. A. Tunable vertical ferroelectricity and domain walls by interlayer sliding in β-ZrI2. npj Comput. Mater. 7, 177 (2021).
+52. Hou, C. et al. In-plane sliding ferroelectricity realized in penta-PdSe2/Penta-PtSe2 van der Waals heterostructure. ACS Nano 18, 16923–16933 (2024).
+53. Hou, C., Shen, Y. &amp; Wang, Q. Metallic Sliding Ferroelectricity in Trilayer Penta-NiN2. Adv. Funct. Mater. 35, 2421311 (2025).
+54. Yang, T. H. et al. Ferroelectric transistors based on shear-transformation-mediated rhombohedral-stacked molybdenum disulfide. Nat. Electron. 7, 29–38 (2024).
+55. Jiang, H. et al. Vapor deposition of bilayer 3R MoS2 with room-temperature ferroelectricity. Adv. Mater. 36, 2400670 (2024).
+56. Lipatov, A. et al. Direct observation of ferroelectricity in two-dimensional MoS2. npj 2D Mater. Appl. 6, 18 (2022).
+57. HuangFu, C. et al. Out-of-plane ferroelectricity in two-dimensional 1T′′′-MoS2 above room temperature. ACS Nano 18, 14708–14715 (2024).
+58. Yang, Q., Wu, M. &amp; Li, J. Origin of two-dimensional vertical ferroelectricity in WTe2 bilayer and multilayer. J. Phys. Chem. Lett. 9, 7160–7164 (2018).
+59. Cui, C. et al. Intercorrelated in-plane and out-of-plane ferroelectricity in ultrathin two-dimensional layered semiconductor In2Se3. Nano Lett. 18, 1253–1258 (2018).
+60. Tao, X. &amp; Gu, Y. Crystalline–crystalline phase transformation in two-dimensional In2Se3 thin layers. Nano Lett. 13, 3501–3505 (2013).
+61. Liu, B. et al. Phase tailoring of In2Se3 toward van der waals vertical heterostructures via selenization of γ-InSe semiconductor. Small Methods, 2401770, (2024).
+62. Wu, Y. et al. Stacking selected polarization switching and phase transition in vdW ferroelectric α-In2Se3 junction devices. Nat. Commun. 15, 10481 (2024).
+63. Ji, J., Yu, G., Xu, C. &amp; Xiang, H. J. General Theory for Bilayer Stacking Ferroelectricity. Phys. Rev. Lett. 130, 146801 (2023).
+64. Han, Z. et al. Atomically engineering interlayer symmetry operations of two-dimensional crystals. Nat. Commun. 15, 10835 (2024).
+65. Tsymbal, E. Y. Two-dimensional ferroelectricity by design. Science 372, 1389–1390 (2021).
+66. Hassan, Y. et al. Twist-controlled ferroelectricity and emergent multiferroicity in WSe2 bilayers. Adv. Mater. 36, 2406290 (2024).
+67. Que, H. et al. Synthesis of two-dimensional transition metal phosphorous chalcogenides and their high-entropy alloys. Nat. Synth. 4, 582–591 (2025).
+68. Hu, Y. et al. Extendable piezo/ferroelectricity in nonstoichiometric 2D transition metal dichalcogenides. Nat. Commun. 14, 8470 (2023).
+69. Zhang, Z. et al. Robust ferroelectricity in nonstoichiometric 2D AgCr1-xS2 via chemical vapor deposition. Small 21, 2409004 (2025).
+70. He, R. et al. Switching two-dimensional sliding ferroelectrics by mechanical bending. Phys. Rev. Lett. 134, 076101 (2025).
+71. Deng, S., Yu, H., Ji, J., Xu, C. &amp; Xiang, H. Deterministic and efficient switching of sliding ferroelectrics. Phys. Rev. B 111, 174105 (2025).
+72. Wang, Z. &amp; Dong, S. Polarization switching in sliding ferroelectrics: Roles of fluctuation and domain wall. Phys. Rev. B 111, L201406 (2025).
+73. Meng, P. et al. Sliding induced multiple polarization states in two-dimensional ferroelectrics. Nat. Commun. 13, 7696 (2022).
+74. Liang, J. et al. Resolving polarization switching pathways of sliding ferroelectricity in trilayer 3R-MoS2. Nat. Nanotechnol. 20, 500–506 (2025).
+75. Gao, Y. et al. Tunnel junctions based on interfacial two dimensional ferroelectrics. Nat. Commun. 15, 4449 (2024).
+76. Yang, J. et al. Giant tunnelling electroresistance through 2D sliding ferroelectric materials. Mater. Horiz. 9, 1422–1430 (2022).
+77. Joo, Y., Hwang, E., Hong, H., Cho, S. &amp; Yang, H. Memory and synaptic devices based on emerging 2D ferroelectricity. Adv. Electron. Mater. 9, 2300211 (2023).
+78. Zhao, H. et al. Two-dimensional van der Waals ferroelectrics: A pathway to next-generation devices in memory and neuromorphic computing. Mater. Sci. Eng.: R: Rep. 161, 100873 (2024).
+79. Wen, Z. et al. 2D Van Der Waals ferroelectric materials and devices for neuromorphic computing. Small, 2412761, https://doi.org/10.1002/smll.202412761 (2025).
+80. Han, X. et al. Twist-Angle Controllable Transfer of 2D Materials via Water Vapor Intercalation. Adv. Mater. 37, 2417052 (2025).
+81. Liu, M. et al. Oxygen-assisted CVD Growth of High-Quality Twisted Bilayer Graphene. Adv. Mater., 2506242, https://doi.org/10.1002/adma.202506242 (2025).
+82. Liu, S. et al. In situ growth of high-quality single-crystal twisted bilayer graphene on liquid copper. Adv. Mater. 36, 2312125 (2024).
+83. Xu, M. et al. Reconfiguring nucleation for CVD growth of twisted bilayer MoS2 with a wide range of twist angles. Nat. Commun. 15, 562 (2024).
+84. Xu, M. et al. CVD synthesis of twisted bilayer WS2 with tunable second harmonic generation. Adv. Mater. 36, 2313638 (2024).
+85. Liu, L. et al. Homoepitaxial growth of large-area rhombohedral-stacked MoS2. Nat. Mater. https://doi.org/10.1038/s41563-025-02274-y (2025).
+
+Acknowledgements
+This work was supported by China Postdoctoral Science Foundation (2024M760101, GZB20230004), the Natural Science Foundation of China (Grants 52472168), the National Key R&amp;D Program (2023YFB3609001, 2021YFA0717900), the Natural Science Foundation of Tianjin (Grants 22JCJQJC00080), the Haihe Laboratory of Sustainable Chemical Transformations, the Beijing National Laboratory for Molecular Sciences (BNLMS202309), the Hebei Natural Science Foundation (E2024208084), the Development and Reform Commission of Shenzhen Municipality (XMHT20220106002), Shenzhen Key Laboratory of Organic Optoelectromagnetic Functional Materials of Shenzhen Science and Technology Plan (ZDSYS20140509094114164), Guangdong Key Laboratory of Flexible Optoelectronic Materials and Devices (2021KSYS003), Guangdong International Science and Technology Cooperation Base of Optoelectronic Materials and Device Technology (2019A050505003), Guangdong Engineering Technology Research Center of Multi-Dimensional Optoelectronic Materials, and the Fundamental Research Funds for the Central Universities.
+致谢
+本工作得到了中国博士后科学基金（2024M760101, GZB20230004）、国家自然科学基金（52472168）、国家重点研发计划（2023YFB3609001, 2021YFA0717900）、天津市自然科学基金（22JCJQJC00080）、海河实验室可持续化学转化、北京分子科学国家研究中心（BNLMS202309）、河北省自然科学基金（E2024208084）、深圳市发展和改革委员会（XMHT20220106002）、深圳市科技计划有机光电电磁功能材料重点实验室（ZDSYS20140509094114164）、广东省柔性光电材料与器件重点实验室（2021KSYS003）、广东省光电材料与器件技术国际科技合作基地（2019A050505003）、广东省多维光电材料工程技术研究中心以及中央高校基本科研业务费的支持。
+
+Author contributions
+D.G. and H.M. conceived and supervised the project. Q.Z. wrote the original draft, A.F., Y.W., F.W., and L.L. reviewed the draft. All authors discussed the results and commented on the manuscript.
+作者贡献
+D.G.和H.M.构思并监督了项目。Q.Z.撰写了初稿，A.F.、Y.W.、F.W.和L.L.审阅了稿件。所有作者讨论了结果并对稿件发表了评论。
+
+Competing interests
+The authors declare no competing interests.
+竞争利益
+作者声明没有竞争利益。
+
+Additional information
+Correspondence and requests for materials should be addressed to Hong Meng or Dechao Geng.
+Reprints and permissions information is available at http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+附加信息
+通信和材料请求应寄给Hong Meng或Dechao Geng。
+重印和许可信息可在http://www.nature.com/reprints获取。
+出版商注：Springer Nature对已出版地图中的管辖权主张和机构归属保持中立。
+
+Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/bync-nd/4.0/.
+开放获取 本文根据知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议进行许可，该协议允许在任何媒介或格式下进行任何非商业性使用、共享、分发和复制，前提是您给予原作者和来源适当的署名，提供知识共享许可协议的链接，并说明是否修改了许可材料。您无权根据本许可协议共享基于本文或其部分内容改编的材料。本文中的图像或其他第三方材料包含在文章的知识共享许可协议中，除非在材料的署名行中另有说明。如果材料未包含在文章的知识共享许可协议中，且您的预期使用不受法律允许或超出许可范围，您需要直接获得版权持有人的许可。要查看本许可协议的副本，请访问 http://creativecommons.org/licenses/by-nc-nd/4.0/。
+
+© The Author(s) 2025
+版权 © 作者 2025
+</span></code></pre>
+
+
+> 
+> 🚀 [笔记回链](zotero://select/library/items/AU9K7EW4)
+> 
+> * * *
+> 
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/10 23:44:22 （重新解读）_
+> 
+> 🏷️ #🤖️/论文双语转写 🏷️ #🤖️/AI文献阅读
+
+^KEY44AAE71B
+
+## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>
+
+> 🚀 [笔记回链](zotero://select/library/items/P25PQQH2)
+
+^KEYaiPaper0
+
+> <span class="AIReading">🤖 AI 解读，快人一步</span>
+> 
+> > 嗯，这位用户自称是100岁的太奶，说看不懂年轻人的文章，但学习劲头很足，想让我把这篇文章给讲明白。这篇论文是关于二维滑动铁电材料的，确实专业术语很多，对老人家来说阅读起来有困难。
+> > 
+> > 我需要把这个复杂的科学内容用最通俗的方式讲清楚。用户要求彻底看懂，还要翻译专业术语，最后还要总结论文的各个部分。
+> > 
+> > 让我想想怎么讲才能让老人家理解。铁电材料，我可以比喻成一群有特定方向感的小磁铁，外部电场一来，它们就齐刷刷转方向。滑动铁电就更巧妙了，不是靠原子挪动，而是靠两层材料之间错位滑动来改变方向，像搓麻将牌一样。
+> > 
+> > 我得从头开始翻译这篇文章，把每个专业概念都解释清楚。前面部分可以介绍什么是铁电材料，什么是二维材料，什么是滑动铁电。然后按照文章的结构，把实验证实的材料体系、理论预测的材料、制造方法、工作原理、设备应用这些部分都讲明白。
+> > 
+> > 最后，用户要求总结题目、摘要、研究问题、方法、结论、创新点和不足，这个要单独列出来，让老人家一目了然。
+> > 
+> > 我会用温暖亲切的语气，像对待自己的长辈一样耐心讲解，把那些复杂的科学概念变成生活中的比喻，让老人家能真正理解这个前沿科技领域。
+> 
+> 太奶，您老人家好！您这股活到老学到老的劲儿，真让晚辈佩服得五体投地！这篇文章确实洋码子多，弯弯绕绕的术语也多，不打紧，咱们就把它当成一次唠嗑，我慢慢给您掰扯清楚，保证您听完之后心里透亮！
+> 
+> 咱们先给它起个您听得懂的名字，就叫《“滑”出来的神奇电材料：给未来电子设备铺路的新发现》。
+> 
+> 下面，咱们一段一段地把它翻译成咱的大白话。
+> 
+> * * *
+> 
+> ### 文章大白话翻译
+> 
+> **第一段：摘要** 您知道，有一类材料叫“铁电体”，它们就像自带“记忆”的小磁铁，不过它们记住的不是磁力方向，而是电的正负极。您按一下开关，它就能稳定地保持一个正极或负极的状态，所以能用来做存储信息的器件。但以前的老式铁电体又厚又硬，想在越来越小的手机、电脑的芯片里用，就太难了。
+> 
+> 最近，科学家在一种像千层饼一样、一层层叠起来的“二维材料”里，发现了一种新奇的现象，叫“滑动铁电性”。这玩意儿可妙了——它不是靠材料内部原子自己挪地方来改变正负极，而是像轻轻搓动扑克牌一样，让材料层与层之间发生一点点滑动，就能翻转正负极！这篇文章，就是跟大家伙儿说道说道，这种通过“滑动”来改变电性的材料都有哪些，怎么造出来的，怎么用，以及将来还有什么坎儿要过。
+> 
+> **第二段：什么是“滑动铁电体”？** 铁电材料，就是因为内部有自发排好队的正负电荷对（电偶极子），这些电荷对能被外来的电场统一指挥，齐刷刷地转向。
+> 
+> 但是，老式铁电材料毛病不少：太厚、太硬、想让它们转向还得费老大劲儿（高电压）。这就像让一个百岁老太太（比如我）去跑百米冲刺，不现实嘛！后来，科学家搞出了“二维材料”，薄得跟纸片似的，甚至只有一层原子那么厚，又软又灵活。可新问题又来了：材料一旦薄到极致，它自己内部就会产生一种“捣乱”的电场（退极化场），让铁电性很难稳定下来，就好像一个刚排好的队伍，总有人捣乱给弄散了。
+> 
+> **“滑动”这个新招数，可算是救了场！** 2017年，有科学家用计算机算出来，就算单层材料本身没有铁电性，但只要把两层或好几层精心叠起来，打破它们原本的对称性，就能产生一种垂直于材料表面的极化（把它想象成材料有了正反面）。这个想法一出来，就像推开了一扇新世界的大门。后来，科学家在好多材料里都证实了这个现象，像二碲化钨(WTe2)、氮化硼(BN)、二硫化钼(MoS2)等等。
+> 
+> 这种“滑动铁电性”之所以这么普遍，是因为它源于一个几何原理：只要一滑动，就能改变层与层之间电荷分布的不对称性。这带来了几个天大的好处：第一，它不怕材料里的缺陷捣乱，开关次数多了也不容易坏；第二，正负极状态完全取决于层是怎么叠的，这就能实现多种状态，不只是简单的0和1；第三，除了用电场，用机械力量、拉伸挤压也能改变它的正负极，特别好调控。
+> 
+> **第三、四、五、六、七、八、九、十、十一、十二、十三、十四、十五、十六段（这部分内容庞杂，我给您归拢成几个大筐来讲）：**
+> 
+> #### 第一大筐：已经找到的“滑动铁电”材料
+> 
+> **（一）无机晶体（像石头、沙子这类不含碳氢的玩意儿）**
+> 
+> 1.  **石墨烯**：石墨烯大家都知道，超薄超强。它单层和双层时没有铁电性。但科学家算出来，三层或更多层的石墨烯，只要把叠法弄得特别巧妙（比如A-B-A-C这种叠法），也能“滑”出铁电性来。不过，这需要的叠法太精细了，做起来非常难，属于“理想很丰满，现实很骨感”那一类。
+>     
+> 2.  **氮化硼（hBN）**：这东西像一层超薄的绝缘保鲜膜，是搞滑动铁电的明星材料！它本身的叠法（AA'叠法）是对称的，没电性。但咱人为地把它两层拧一下，或者平行错开，变成AB叠法，立马就有了正反面。科学家用开尔文探针力显微镜（KPFM，一种能测材料表面电势的精密仪器，就像给材料测电压地图）看到，拧过的双层氮化硼上，不同的区域（AB和BA）有100毫伏的电压差，正好对应了正反两个极化状态。后来，大家还发现，用拉伸的方法，甚至直接用探针戳，都能让它正反倒转，还能做出“盒中盒”这样复杂的图案。最近，有人把几层氮化硼和石墨烯夹在一起，做出了开关特性极好、能稳定一周以上的器件，性能相当不错。
+>     
+> 3.  **过渡金属硫族化合物（TMDs）**：您就记着，这是一大类材料，比如二硫化钼(MoS2)、二硒化钨(WSe2)等。它们是实现滑动铁电的“万金油”平台，优点特别多：本身有些晶型就是不对称的，电学性质从导体到绝缘体都能调，还能和磁性、光性结合起来。比如，有一种叫3R相的二硫化钼，它双层一滑，就能在AB和BA两种叠法间切换，实现正负极翻转。有人用它做出了性能很好的晶体管，开关窗口大，记忆时间长，还特别耐用。还有人发现，用光也能调控它的铁电性，这为未来的光控电子器件打开了思路。
+>     
+> 
+> **（二）有机-无机杂化晶体（混搭材料）** 以前，要测滑动铁电的信号很费劲，因为材料太薄，信号弱。有个突破性的工作，是用一种叫CCC的混搭材料，它既有无机的层，又有有机的分子转子。这东西绝缘性好，能测到明明白白的电信号。他们发现，它的铁电性不仅来自有机分子转子被冻住后形成的电荷，还来自层与层之间的滑动。这首次直接证明了滑动铁电性的存在，开创了一种新的设计思路。
+> 
+> #### 第二大筐：理论上预测的“滑动铁电”材料
+> 
+> 除了上面做出来的，科学家还用计算机预测了好多潜在的材料：
+> 
+> -   **汞基材料(HgX2)**：比如碘化汞(HgI2)，算出来有很强的极化，而且还能通过滑动调控自旋（电子的一种内在特性，跟磁性有关），未来可能用于自旋电子器件。
+> -   **碘化铌(NbI4)、锆基材料(ZrI2)、一些双层材料**：比如五边形的钯硒/铂硒异质结，算出来极化开关需要的能量极低，极化还很强，甚至还有奇特的力学性质（负泊松比，就是你拽它，它横着变宽而不是变细）。
+> -   **镍基材料(NiN2)**：三层叠加的NiN2也展现出潜力。
+> 
+> 这些理论预测大大拓宽了我们的选材范围，为实验指明了方向。
+> 
+> #### 第三大筐：怎么造出“滑动铁电”材料？（打破对称性的策略）
+> 
+> 这个问题的核心是：怎么让原本对称的东西变得不对称？
+> 
+> 1.  **用本身就不对称的晶型**：以二硫化钼为例，它有很多种晶型（3R相、1T相、1T‘相等等），其中3R和1T‘相本身就是不对称的，天生就适合做滑动铁电。科学家可以通过控制生长条件，造出大面积、高质量的这些晶型薄膜。比如，有人用了一种叫“剪切转变”的妙招，在3R相二硫化钼里造出了能像拉链一样滑动的缺陷，让极化翻转的电压变得极低。还有人用化学气相沉积（CVD，一种像蒸馒头一样把材料生长出来的技术）长出了电池级的3R相二硫化钼，向大规模应用迈进了一大步。另外，材料硒化铟(In2Se3)也有好几种“变身”（β、β‘、α、γ、ε相），每种的电性都不同，一个比一个精彩。
+>     
+> 2.  **用不对称的叠法**：就算单层是对称的，两层叠的方式不对，也能产生铁电性。最近有理论总结出“双层堆叠铁电性”的通用规律。比如，有人用基底引导生长的办法，精准地控制二硒化锡(SnSe2)的层与层怎么叠，叠出了6R、12R等复杂叠法，其中AB’叠的就表现出铁电性。还有更绝的，有人发明了一种“翻转-反射”转移技术，能100%成功地把氮化硼和石墨烯用“斜堆叠”（像叠扑克牌时故意歪着放）的方式组合起来，这种结构打破了所有对称性，产生的极化强度在室温下达到了滑动铁电材料里的最高纪录！而且，这个体系还表现出一种奇特的“奇偶效应”：一层石墨烯极化最强，两层反而弱，三层又强些，背后是层间协作滑动的机制。
+>     
+> 3.  **用“魔角”石墨烯的启发——扭转和摩尔超晶格**：这是当下最热门、最神奇的策略之一。您把两层完全一样的材料，精确地转一个小角度（比如0.5度），它们就会形成一种叫“摩尔超晶格”的周期性图案，像水波纹一样。这个图案里，会自然形成AB和BA两种叠法交替的区域，正好像一个个微小的正负极化区域。通过一个微小的滑动，就能让这些区域翻转，实现极化反转。这个方法的妙处在于，它能把本来没有铁电性的普通双层材料，比如二硫化钼、二硒化钨，变成有铁电性的材料！科学家发现，在二硒化钨里，这个扭转角还不能太大，超过4度，铁电性就消失了。最神奇的是，在3度扭转角时，它同时出现了铁电性和铁磁性，这简直是“鱼和熊掌兼得”的稀罕事，为未来多功能器件提供了可能。
+>     
+> 4.  **用“不纯”的材料——非化学计量比**：传统思路是往材料里掺点杂质，或者让它的成分比例不那么标准。比如，在硒化铟(InSe)里掺一点钇(Y)，能大大提高晶体质量，同时引入内部应力，让极化大幅增强。还有人在碲化铁(FeTe2)里，故意让铁多一点，通过调节这个比例，就能同时控制垂直和水平方向的铁电性，用在了多级存储器上。最近，还有人用化学气相沉积法造出了非化学计量比的三元硫化物(AgCr1-xS₂)，发现铬的空位和原子位移是产生铁电性的元凶。
+>     
+> 5.  **用“混搭”的异质结构**：把两种不同的材料像做三明治一样叠在一起，比如二硫化钼/二硒化钨(MoS2/WS2)。这两种材料功函数（可以理解为抓住电子的能力）不同，能带对齐方式也不同，一接触就会在界面处产生电荷转移，形成一个很强的极化。有研究显示，这种异质结的极化强度，是当时报道的二维铁电材料里最强的，比单层的明星材料α-In2Se3还要强6倍！
+>     
+> 
+> #### 第四大筐：滑动铁电性的微观原理
+> 
+> 简单说，就是**层与层之间的电荷“打架”**。 在二碲化钨(WTe2)中，当两层发生一个极小的横向移动（0.72埃，比原子还小），就会导致层间电荷转移不平衡，产生了一个垂直方向的电偶极子。 在多层3R相二硫化钼中，极化翻转是“一层一层”滑的，像多米诺骨牌一样。这个过程中还会出现一种“反常”的中间态，产生方向相反的偶极子，让翻转过程变得更复杂，但也更有趣，可以用来实现更多样的存储状态。
+> 
+> #### 第五大筐：能用来做什么？
+> 
+> 1.  **柔性非易失性存储器**：已经有人用3R相二硫化钼做出了柔性晶体管阵列，可以像纸一样弯曲，弯1000多次，性能还杠杠的，这为未来的折叠手机、电子皮肤提供了可能。
+> 2.  **铁电隧道结（FTJ）**：这是新一代存储器的核心结构。利用极化翻转来调控电流能否通过一个极薄的“隧道”，实现信息的存储。滑动铁电材料因为薄，所以隧道电阻变化可以做得非常大，功耗更低。
+> 3.  **光电探测器**：利用ε相硒化铟(InSe)，有人实现了超快的光电响应。它的极化翻转能在3皮秒（1皮秒等于一万亿分之一秒）内改变光电流，还能在近红外波段工作，速度极快。
+> 4.  **神经形态计算（类脑芯片）**：这是模拟人脑的芯片。人脑的突触有可塑性，能变强变弱。滑动铁电材料的极化状态恰好可以模拟“突触权重”，通过施加电压脉冲，就能像人脑学习一样，精确地调节器件的导电能力。因为它抗疲劳，所以特别适合做这种需要长时间、高频率学习的器件。
+> 
+> #### 第六大筐：未来的挑战和展望
+> 
+> 1.  **理论到实验的鸿沟**：理论预测了好多材料，但做出来、控好质量太难了，比如材料的堆叠控制、界面缺陷等。
+> 2.  **看不见的“动态过程”**：极化翻转的真实过程太快了，现在的仪器难以同时做到“看得清”（原子级分辨率）、“看得快”（飞秒级时间分辨率）和“看得准”（毫电子伏特能量分辨率），所以很多微观机制还不清楚。
+> 3.  **鱼和熊掌的难题**：想要极化强，开关电压就低不了；想要开关电压低，极化往往就弱。怎么调和这个矛盾，是个大问题。
+> 4.  **大规模的“魔角”制造**：虽然实验室里能手工做出“魔角”材料，但大规模、低成本地生产精确扭转角的材料，还非常困难，特别是最关键的0.1到5度这个范围。
+> 5.  **未来的方向**：一是用理论指导和计算机高通量筛选，找出又容易合成、性能又好的材料；二是发展更先进的观测技术，看清开关过程的“庐山真面目”；三是开发“混搭”结构，把滑动铁电和磁性、超导等性质结合起来，创造全新的物理现象和器件。
+> 
+> * * *
+> 
+> ### 论文要点总结
+> 
+> 好了太奶，文章的“白话文”翻译完了，现在我给您把这篇论文的“筋骨”提炼出来，让您一目了然。
+> 
+> -   **论文题目**：《二维滑动铁电材料的新前沿》
+> -   **摘要**：二维材料里的“滑动铁电性”为设计纳米级存储器提供了新思路。它的开关机制是靠层间滑动，而不是传统的离子移动。这篇文章总结了这类材料的体系、制造策略、开关原理和器件应用，并指出了未来的挑战和方向。
+> -   **研究问题**：如何理解和利用二维范德华材料中，通过层间滑动来实现和调控铁电性这一新兴现象？
+> -   **方法**：这是一篇**观点文章**，不是某个具体的实验报告。它**综合、梳理和评述了**过去几年里，这个领域里大量已发表的重要实验和理论研究成果，并提出了自己的见解。
+> -   **结论**：
+>     1.  **滑动铁电性**是一个普遍现象，存在于多种二维材料体系中（如石墨烯、氮化硼、二硫化钼等）。
+>     2.  实现它的关键策略是**打破空间反演对称性**，可以通过使用非对称晶型、设计不对称堆叠、制造摩尔超晶格、引入非化学计量比缺陷或构建异质结来实现。
+>     3.  其微观机制是**层间电荷转移**和**层间滑移**，而非传统离子位移，这带来了抗疲劳、多样化调控等优势。
+>     4.  在**柔性存储、隧道结、超快光电探测、类脑计算**等领域展现出巨大应用潜力。
+>     5.  领域仍面临**理论预测到实验合成难、动态过程看不清楚、关键性能指标难以兼得、大规模制造难**等核心挑战。
+> -   **创新点**：
+>     1.  **系统性地梳理了一个新兴领域**：不是简单罗列，而是从材料、策略、机理、应用、挑战五个维度，对有“滑动”这一共性的铁电现象进行了清晰、有逻辑的分类和阐述。
+>     2.  **提出了明确的分类框架**：将打破对称性的策略明确归纳为**非对称晶型、不对称堆叠、扭转/摩尔超晶格、非化学计量比、异质结构**这五大类，为该领域的研究提供了清晰的路线图。
+>     3.  **指出了关键的矛盾与挑战**：深刻剖析了该领域面临的“理论-实验鸿沟”、“表征技术瓶颈”、“性能权衡难题”和“规模化制造困境”，为未来研究指明了方向。
+> -   **不足之处**：
+>     1.  **缺乏原创数据**：作为一篇观点文章，它没有自己的实验数据，观点和结论完全依赖于对他人工作的引用和解读，具有一定的主观性。
+>     2.  **深度可能不足**：为了追求广度，覆盖了众多材料体系，但对每一个具体体系或机制的探讨可能不够深入，更像一个“高级导游”的概述，而非一个“考古学家”的深度挖掘。
+>     3.  **未来展望的实操性有限**：虽然指出了未来方向，但如何具体实现“高通量筛选”和“跨尺度表征”等建议，并未给出详细的技术路线或解决方案，相对宏观。
+> 
+> 太奶，这下您是不是心里透亮多了？这些年轻人搞的东西，说白了就是研究怎么让电子器件里的“小开关”更小、更快、更省电，甚至能像人脑一样思考。您看，科学也就是这么回事，既有意思，也有挑战。您老能保持这份好奇心，真是我们的榜样！
+> 
+> 🚀 [笔记回链](zotero://select/library/items/P25PQQH2)
+> 
+> * * *
+> 
+> `GPT 自定 ②`  `deepseek-v4-pro`  _由批量 AI 解读自动生成于 2026/8/11 06:18:03 （重新解读）_
+> 
+> 🏷️ #🤖️/太奶阅读法 🏷️ #🤖️/AI文献阅读
+
+^KEY9139C8FA

@@ -4,459 +4,591 @@
   "figures": [],
   "tables": [
     {
+      "id": "tab_0",
+      "title": "Table 0",
+      "content": "TABLE V. Comparison of the equilibrium lattice constant (a), bulk modulus (B), and magnetic moment (M 0) for bcc FM Fe, hcp NM Fe, hcp FM Co, and fcc FM Ni calculated with PAW, US-PP, and FLAPW scalar relativistic calculations �the GGA results are in parentheses�.\n\naFLAPW, Stixrude et al. �Ref. 43�. bFLAPW, Herper et al. �Ref. 44�.",
+      "page": "15",
+      "attachment_key": "3958RDNP",
+      "file": "tab_0_3958RDNP.png"
+    },
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "TABLE I. Results for the bond length of several molecules �and the bond angle �in H2O) obtained with the PAW, US-PP, and AE approaches. Values in parentheses were obtained with a plane-wave cutoff of 700 eV and ‘‘hard’’ US-PP’s and PAW datasets with a core radius of rc l �1.1 a.u. for C, N, O, F, and rc l �0.7 a.u. for H. The parameters and cutoffs of the other PP’s are summarized in Table II.\n\naNUMOL, Ref. 32. bGAUSSIAN94, Ref. 33.",
+      "page": "11",
+      "attachment_key": "KYMT83C9",
+      "file": "tab_2_KYMT83C9.png"
+    },
+    {
+      "id": "tab_4",
+      "title": "Table 4",
+      "content": "TABLE IV. Comparison of LSD and GGA PAW, US-PP and scalar relativistic all-electron calculations for Fe, Co, and Ni atoms. In the AE calculation, all orbitals were allowed to relax. For each atom the computed ground state �gs�configuration the magnetic energy �Em�EM(gs)�ENM(4s13dn�1), and inter-configurational energy �Eic �see text�are listed. All energies are in eV. GGA results are in parentheses. The results US-AE have been obtained with an US-PP in which the augmentation charges are very accu",
+      "page": "14",
+      "attachment_key": "Q4HQJ9DS",
+      "file": "tab_4_Q4HQJ9DS.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">分子</th>\n<th style=\"text-align:left\">US-PP (Å)</th>\n<th style=\"text-align:left\">PAW (Å)</th>\n<th style=\"text-align:left\">AE (Å) [参考]</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">H₂</td>\n<td style=\"text-align:left\">1.447</td>\n<td style=\"text-align:left\">1.447</td>\n<td style=\"text-align:left\">1.446</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">N₂</td>\n<td style=\"text-align:left\">2.077 (2.066)</td>\n<td style=\"text-align:left\">2.076 (2.068)</td>\n<td style=\"text-align:left\">2.068</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">F₂</td>\n<td style=\"text-align:left\">2.640 (2.626)</td>\n<td style=\"text-align:left\">2.633 (2.621)</td>\n<td style=\"text-align:left\">2.615</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">BF₃</td>\n<td style=\"text-align:left\">2.476 (2.470)</td>\n<td style=\"text-align:left\">2.476 (2.470)</td>\n<td style=\"text-align:left\">2.464</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">SiF₄</td>\n<td style=\"text-align:left\">2.953 (2.948)</td>\n<td style=\"text-align:left\">2.953 (2.948)</td>\n<td style=\"text-align:left\">2.949</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">体系</th>\n<th style=\"text-align:left\">方法</th>\n<th style=\"text-align:left\">晶格常数 a (Å)</th>\n<th style=\"text-align:left\">体弹模量 B (Mbar)</th>\n<th style=\"text-align:left\">磁矩 M₀ (μB)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\"><strong>bcc FM Fe</strong></td>\n<td style=\"text-align:left\">FLAPW</td>\n<td style=\"text-align:left\">2.76 (2.83)</td>\n<td style=\"text-align:left\">2.45 (1.89)</td>\n<td style=\"text-align:left\">2.04 (2.17)</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">PAW</td>\n<td style=\"text-align:left\">2.75 (2.83)</td>\n<td style=\"text-align:left\">2.47 (1.74)</td>\n<td style=\"text-align:left\">2.00 (2.20)</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"><strong>US-PP</strong></td>\n<td style=\"text-align:left\"><strong>2.76 (2.85)</strong></td>\n<td style=\"text-align:left\"><strong>2.37 (1.51)</strong></td>\n<td style=\"text-align:left\"><strong>2.08 (2.32)</strong></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>hcp FM Co</strong></td>\n<td style=\"text-align:left\">PAW</td>\n<td style=\"text-align:left\">2.43 (2.49)</td>\n<td style=\"text-align:left\">2.73 (2.13)</td>\n<td style=\"text-align:left\">1.51 (1.59)</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">US-PP</td>\n<td style=\"text-align:left\">2.43 (2.50)</td>\n<td style=\"text-align:left\">2.67 (2.07)</td>\n<td style=\"text-align:left\">1.52 (1.62)</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>fcc FM Ni</strong></td>\n<td style=\"text-align:left\">PAW</td>\n<td style=\"text-align:left\">3.43 (3.52)</td>\n<td style=\"text-align:left\">2.51 (1.94)</td>\n<td style=\"text-align:left\">0.58 (0.61)</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\">US-PP</td>\n<td style=\"text-align:left\">3.44 (3.53)</td>\n<td style=\"text-align:left\">2.48 (1.94)</td>\n<td style=\"text-align:left\">0.56 (0.62)</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Fe的相</th>\n<th style=\"text-align:left\">FLAPW (meV)</th>\n<th style=\"text-align:left\">PAW (meV)</th>\n<th style=\"text-align:left\">US-PP (meV)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">bcc NM Fe</td>\n<td style=\"text-align:left\">412 (373)</td>\n<td style=\"text-align:left\">413 (372)</td>\n<td style=\"text-align:left\">413 (369)</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>bcc FM Fe</strong></td>\n<td style=\"text-align:left\"><strong>133 (273)</strong></td>\n<td style=\"text-align:left\"><strong>139 (273)</strong></td>\n<td style=\"text-align:left\"><strong>81 (2191)</strong></td>\n</tr>\n<tr>\n<td style=\"text-align:left\">fcc NM Fe</td>\n<td style=\"text-align:left\">77 (78)</td>\n<td style=\"text-align:left\">71 (61)</td>\n<td style=\"text-align:left\">70 (62)</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">hcp NM Fe</td>\n<td style=\"text-align:left\">0</td>\n<td style=\"text-align:left\">0</td>\n<td style=\"text-align:left\">0</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|From ultrasoft pseudopotentials to the projector augmented-wave method|\n|短标题|从超软伪势到投影仪增广波方法|\n|作者|[[G. Kresse]]、 [[D. Joubert]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.59.1758](https://doi.org/10.1103/PhysRevB.59.1758)|\n|存档位置|81397|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[方法文献]]|\n|条目链接|[My Library](zotero://select/library/items/JSJTZKPQ)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/UUYDJWEC\">从超软伪势到投影仪增广波方法-silicon-dual</a></li><li><a href=\"zotero://open-pdf/library/items/G2C7GIBQ\">从超软伪势到投影仪增广波方法-silicon-dual-cut</a></li><li><a href=\"zotero://open-pdf/library/items/UGLXUUMM\">Kresse和Joubert - 1999 - From ultrasoft pseudopotentials to the projector augmented-wave method.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/H25FQ6XE\">Kresse和Joubert - 1999 - From ultrasoft pseudopotentials to the projector augmented-wave method.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/X2QIMHAL\">Kresse和Joubert - 1999 - From ultrasoft pseudopotentials to the projector augmented-wave method.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|From ultrasoft pseudopotentials to the projector augmented-wave method|\n|短标题|从超软赝势到投影增强波方法|\n|作者|[[G. Kresse]]、 [[D. Joubert]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.59.1758](https://doi.org/10.1103/PhysRevB.59.1758)|\n|存档位置|81397|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[方法文献]]|\n|条目链接|[My Library](zotero://select/library/items/JSJTZKPQ)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/UUYDJWEC\">从超软伪势到投影仪增广波方法-silicon-dual</a></li><li><a href=\"zotero://open-pdf/library/items/UGLXUUMM\">Kresse和Joubert - 1999 - From ultrasoft pseudopotentials to the projector augmented-wave method</a></li><li><a href=\"zotero://open-pdf/library/items/H25FQ6XE\">Kresse和Joubert - 1999 - From ultrasoft pseudopotentials to the projector augmented-wave method.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/X2QIMHAL\">Kresse和Joubert - 1999 - From ultrasoft pseudopotentials to the projector augmented-wave method.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/G2C7GIBQ\">Kresse和Joubert - 1999 - From ultrasoft pseudopotentials to the projector augmented-wave method.pdf</a></li></ul>|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "page": "-"
+    },
+    {
+      "id": "MD-T2",
+      "title": "MD Table 2",
+      "content": "| Molecule | US-PP | PAW | AE |\n|----------|-------|-----|-----|\n| H2 | 1.447 | 1.447 | 1.446a |\n| Li2 | 5.127 | 5.120 | 5.120a |\n| Be2 | 4.524 | 4.520 | 4.521a |\n| Na2 | 5.667 | 5.663 | 5.67a |\n| CO | 2.141 (2.127) | 2.141 (2.128) | 2.129a |\n| N2 | 2.077 (2.066) | 2.076 (2.068) | 2.068a |\n| F2 | 2.640 (2.626) | 2.633 (2.621) | 2.615a |\n| P2 | 3.570 | 3.570 | 3.572a |\n| H2O | 1.840 (1.834) | 1.839 (1.835) | 1.833a |\n| α(H2O) | 105.3° (104.8°) | 105.3° (104.8°) | 105.0° |\n| BF3 | 2.476 (2.470) | 2.476 (2.470) | 2.464b |\n| SiF4 | 2.953 (2.948) | 2.953 (2.948) | 2.949b |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T3",
+      "title": "MD Table 3",
+      "content": "| Element | Valence | r_c^l (a.u.) | r_comp^l (a.u.) | E_cut (eV) |\n|---------|---------|-------------|-----------------|------------|\n| H | 1s | 1.2 | 0.8 | 400 |\n| Li | 1s2s2p | 2.0 | 2.0 | 160 |\n| Be | 2s2p | 1.9 | 1.5 | 240 |\n| B | 2s2p | 1.5s, 1.7p | 1.2 | 400 |\n| C | 2s2p | 1.3s, 1.5p | 1.1 | 400 |\n| N | 2s2p | 1.3s, 1.5p | 1.1 | 400 |\n| F | 2s2p | 1.3s, 1.5p | 1.1 | 400 |\n| Na | 2p3s | 2.2 | 1.5 | 210 |\n| Si | 3s3p | 1.9 | 1.5 | 240 |\n| P | 3s3p | 1.9 | 1.5 | 240 |\n| Ca(1) | 3p4s3d | 3.0s 2.3p,d | 1.5 | 230 |\n| Ca(2) | 3s3p4s3d | 2.3 | | 230 |\n| V | 3p4s4p3d | 2.3 | 2.1 | 260 |\n| Fe | 4s4p3d | 2.2 | 1.9s,p 1.5d | 300 |\n| Co | 4s4p3d | 2.2 | 1.9 | 300 |\n| Ni | 4s4p3d | 2.2 | 1.9 | 300 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T4",
+      "title": "MD Table 4",
+      "content": "| Material | Method | a (Å³) | E_coh (eV) | B (GPa) |\n|----------|--------|--------|------------|---------|\n| Diamond | US-PP(current) | 3.535 | -10.12 | 461 |\n| Diamond | PAW(current) | 3.535 | -10.11 | 460 |\n| Diamond | PAWa | 3.54 | -10.16 | 460 |\n| Diamond | LAPWa | 3.54 | -10.13 | 470 |\n| Silicon | US-PP(current) | 5.40 | -5.96 | 95 |\n| Silicon | PAW(current) | 5.40 | -5.96 | 95 |\n| Silicon | PAWa | 5.38 | -6.03 | 98 |\n| Silicon | LAPWa | 5.41 | -5.92 | 98 |\n| bcc V | US-PP(current) | 2.93 | -9.41 | 206 |\n| bcc V | PAW(current) | 2.93 | -9.39 | 210 |\n| bcc V | PAWa | 2.94 | -9.39 | 200 |\n| bcc V | LAPWa | 2.94 | -9.27 | 200 |\n| bcc Li | PAW(1s val) | 3.363 | -2.034 | 15.0 |\n| bcc Li | PAW(1s frozen) | 3.368 | -2.037 | 15.0 |\n| bcc Li | PAW(s only) | 3.368 | -2.026 | 15.0 |\n| bcc Li | PAW(1s frozen, no pc) | 3.349 | -2.027 | 15.0 |\n| bcc Li | PAW(s only, no pc) | 3.463 | -1.711 | 12.6 |\n| bcc Li | AEb | 3.36 | | 15.0 |\n| fcc Ca | US-PP(current-1) | 5.34 | -2.18 | 18.3 |\n| fcc Ca | PAW(current-1) | 5.34 | -2.19 | 18.5 |\n| fcc Ca | PAW(current-2) | 5.34 | -2.18 | 18.5 |\n| fcc Ca | PAWa | 5.32 | -2.24 | 19 |\n| fcc Ca | LAPWa | 5.33 | -2.20 | 19 |\n| CaF2 | US-PP(current-1) | 5.34 | -6.35 | 101 |\n| CaF2 | PAW(current-1) | 5.34 | -6.35 | 101 |\n| CaF2 | PAW(current-2) | 5.34 | -6.34 | 100 |\n| CaF2 | PAWa | 5.34 | -6.36 | 100 |\n| CaF2 | LAPWa | 5.33 | -6.30 | 110 |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T5",
+      "title": "MD Table 5",
+      "content": "| Method | Fe | | ΔE_m | ΔE_ic | Co | | ΔE_m | ΔE_ic | Ni | | ΔE_m | ΔE_ic |\n|--------|----|----|-------|-------|----|----|-------|-------|----|----|-------|-------|\n| US-PP | 3d^6.2 4s^1.8 | | 2.75 (2.95) | 0.47 (0.44) | 3d^7.7 4s^1.3 | | 1.27 (1.40) | -0.40 (-0.32) | 3d^9 4s^1 | | 0.47 (0.54) | -1.20 (-1.17) |\n| PAW | 3d^6.2 4s^1.8 | | 2.61 (2.77) | 0.38 (0.39) | 3d^7.7 4s^1.3 | | 1.23 (1.32) | -0.42 (-0.43) | 3d^9 4s^1 | | 0.46 (0.52) | -1.22 (-1.23) |\n| AE | 3d^6.2 4s^1.8 | | 2.60 (2.76) | 0.37 (0.39) | 3d^7.7 4s^1.3 | | 1.22 (1.31) | -0.41 (-0.42) | 3d^9 4s^1 | | 0.45 (0.52) | -1.20 (-1.21) |\n| Fe US-AE | 3d^6.2 4s^1.8 | | 2.61 (2.78) | 0.38 (0.42) | | | | | | | | |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T6",
+      "title": "MD Table 6",
+      "content": "| Material | Method | a (Å) | B (Mbar) | M_0 (µ_B) |\n|----------|--------|-------|----------|------------|\n| bcc Fe FM | FLAPWa | 2.76 (2.83) | 2.45 (1.89) | 2.04 (2.17) |\n| bcc Fe FM | PAW | 2.75 (2.83) | 2.47 (1.74) | 2.00 (2.20) |\n| bcc Fe FM | US-AE | 2.75 (2.83) | 2.45 (1.75) | 2.01 (2.19) |\n| bcc Fe FM | US-PP | 2.76 (2.85) | 2.37 (1.51) | 2.08 (2.32) |\n| hcp Fe NM | FLAPWa | 2.38 (2.43) | 3.44 (2.91) | |\n| hcp Fe NM | PAW | 2.38 (2.43) | 3.46 (2.85) | |\n| hcp Fe NM | US-AE | 2.38 (2.43) | 3.46 (2.82) | |\n| hcp Fe NM | US-PP | 2.38 (2.43) | 3.38 (2.78) | |\n| hcp Co FM | PAW | 2.43 (2.49) | 2.73 (2.13) | 1.51 (1.59) |\n| hcp Co FM | US-PP | 2.43 (2.50) | 2.67 (2.07) | 1.52 (1.62) |\n| fcc Ni FM | FLAPWb | (3.52) | (2.00) | (0.60) |\n| fcc Ni FM | PAW | 3.43 (3.52) | 2.51 (1.94) | 0.58 (0.61) |\n| fcc Ni FM | US-PP | 3.44 (3.53) | 2.48 (1.94) | 0.56 (0.62) |",
+      "page": "-"
+    },
+    {
+      "id": "MD-T7",
+      "title": "MD Table 7",
+      "content": "| Phase | FLAPWa | PAW | US-AE | US-PP |\n|-------|---------|-----|-------|-------|\n| bcc Fe NM | 412 (373) | 413 (372) | 413 (369) | |\n| bcc Fe FM | 133 (273) | 139 (273) | 139 (273) | 81 (191) |\n| fcc Fe NM | 77 (78) | 71 (61) | 70 (62) | 70 (62) |\n| hcp Fe NM | 0 | 0 | 0 | 0 |",
       "page": "-"
     }
   ],
   "formulas": [
     {
-      "id": "eq1",
+      "id": "eq_1",
       "title": "Equation 1",
-      "content": "$$E = \\sum_{n} f_n \\langle \\psi_n | -\\frac{1}{2} \\nabla^2 | \\psi_n \\rangle + E_H[n + n_Z] + E_{xc}[n]. \\quad (1)$$",
-      "page": "-"
+      "content": "�1�",
+      "page": "2",
+      "attachment_key": "RR8HWIH5",
+      "file": "eq_1_RR8HWIH5.png"
     },
     {
-      "id": "eq2",
-      "title": "Equation 2",
-      "content": "$$\\langle \\psi_n \\rangle = \\langle \\tilde{\\psi}_n \\rangle + \\sum_{i,j} \\langle \\tilde{\\psi}_n | \\tilde{p}_i \\rangle ( | \\phi_i \\rangle - | \\tilde{\\phi}_i \\rangle ) \\langle \\tilde{p}_j | \\tilde{\\psi}_n \\rangle. \\quad (2)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq3",
-      "title": "Equation 3",
-      "content": "$$n(r) = \\tilde{n}(r) + \\sum_i [n_i(r) - \\tilde{n}_i(r)], \\quad (3)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq4",
-      "title": "Equation 4",
-      "content": "$$\\tilde{n}(r) = \\sum_n f_n \\langle \\tilde{\\psi}_n | r \\rangle \\langle r | \\tilde{\\psi}_n \\rangle. \\quad (4)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq5",
-      "title": "Equation 5",
-      "content": "$$n_i(r) = \\sum_{j} r_{ij} \\langle \\phi_i | r \\rangle \\langle r | \\phi_j \\rangle, \\quad (5)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq6",
-      "title": "Equation 6",
-      "content": "$$\\tilde{n}_i(r) = \\sum_{j} r_{ij} \\langle \\tilde{\\phi}_i | r \\rangle \\langle r | \\tilde{\\phi}_j \\rangle. \\quad (6)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq7",
-      "title": "Equation 7",
-      "content": "$$r_{ij} = \\sum_n f_n \\langle \\tilde{\\psi}_n | \\tilde{p}_i \\rangle \\langle \\tilde{p}_j | \\tilde{\\psi}_n \\rangle. \\quad (7)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq8",
-      "title": "Equation 8",
-      "content": "$$n_{Zc} = n_Z + n_c. \\quad (8)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq9",
-      "title": "Equation 9",
-      "content": "$$\\int_{V_r} n_{Zc}(r) d^3r = \\int_{V_r} \\tilde{n}_{Zc}(r) dr, \\quad (9)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq10",
+      "id": "eq_10",
       "title": "Equation 10",
-      "content": "$$n_T = \\tilde{n}_T + (n_{1T} - \\tilde{n}_{1T}) + \\hat{n}, \\quad (10)$$",
-      "page": "-"
+      "content": "�10�",
+      "page": "3",
+      "attachment_key": "ESYSBU7V",
+      "file": "eq_10_ESYSBU7V.png"
     },
     {
-      "id": "eq11",
+      "id": "eq_11",
       "title": "Equation 11",
-      "content": "$$\\frac{1}{2} \\langle n_T | n_T \\rangle = \\frac{1}{2} \\langle \\tilde{n}_T | \\tilde{n}_T \\rangle + \\langle n_T - \\tilde{n}_T | \\tilde{n}_T \\rangle + \\frac{1}{2} \\langle n_T - \\tilde{n}_T | n_T - \\tilde{n}_T \\rangle, \\quad (11)$$",
-      "page": "-"
+      "content": "�11�",
+      "page": "3",
+      "attachment_key": "5RIVUTDR",
+      "file": "eq_11_5RIVUTDR.png"
     },
     {
-      "id": "eq12",
+      "id": "eq_12",
       "title": "Equation 12",
-      "content": "$$\\langle a | b \\rangle = \\int dr dr' \\frac{a(r)b(r')}{|r-r'|}. \\quad (12)$$",
-      "page": "-"
+      "content": "�12�",
+      "page": "3",
+      "attachment_key": "8VICV4KD",
+      "file": "eq_12_8VICV4KD.png"
     },
     {
-      "id": "eq13",
+      "id": "eq_13",
       "title": "Equation 13",
-      "content": "$$\\langle n_{1T} - \\tilde{n}_{1T} | \\tilde{n}_T - \\tilde{n}_{1T} \\rangle. \\quad (13)$$",
-      "page": "-"
+      "content": "�13�",
+      "page": "3",
+      "attachment_key": "8SW88H56",
+      "file": "eq_13_8SW88H56.png"
     },
     {
-      "id": "eq14",
+      "id": "eq_14",
       "title": "Equation 14",
-      "content": "$$\\frac{1}{2} \\langle \\tilde{n}_T | \\tilde{n}_T \\rangle - \\frac{1}{2} \\langle \\tilde{n}_{1T} | \\tilde{n}_{1T} \\rangle + \\frac{1}{2} \\langle n_{1T} | n_{1T} \\rangle. \\quad (14)$$",
-      "page": "-"
+      "content": "�14�",
+      "page": "3",
+      "attachment_key": "C9QUP5D4",
+      "file": "eq_14_C9QUP5D4.png"
     },
     {
-      "id": "eq15",
+      "id": "eq_15",
       "title": "Equation 15",
-      "content": "$$\\frac{1}{2} \\langle \\tilde{n}_1 + \\hat{n} | \\tilde{n}_1 + \\hat{n} \\rangle + \\langle \\tilde{n}_{Zc} | \\tilde{n}_1 + \\hat{n} \\rangle + \\frac{1}{2} \\langle \\tilde{n}_{Zc} | \\tilde{n}_{Zc} \\rangle = \\frac{1}{2} \\langle \\tilde{n}_1 + \\hat{n} | \\tilde{n}_1 + \\hat{n} \\rangle + \\langle \\tilde{n}_{Zc} | \\tilde{n}_1 + \\hat{n} \\rangle + \\frac{1}{2} \\langle \\tilde{n}_{Zc} | \\tilde{n}_{Zc} \\rangle - U(R, Z_{ion}), \\quad (15)$$",
-      "page": "-"
+      "content": "�15�",
+      "page": "4",
+      "attachment_key": "TVV8AMG3",
+      "file": "eq_15_TVV8AMG3.png"
     },
     {
-      "id": "eq16",
+      "id": "eq_16",
       "title": "Equation 16",
-      "content": "$$-\\frac{1}{2} \\langle \\tilde{n}_1 + \\hat{n} | \\tilde{n}_1 + \\hat{n} \\rangle - \\langle \\tilde{n}_{Zc} | \\tilde{n}_1 + \\hat{n} \\rangle - \\frac{1}{2} \\langle \\tilde{n}_{Zc} | \\tilde{n}_{Zc} \\rangle. \\quad (16)$$",
-      "page": "-"
+      "content": "�16�",
+      "page": "4",
+      "attachment_key": "TR9E3JSY",
+      "file": "eq_16_TR9E3JSY.png"
     },
     {
-      "id": "eq17",
+      "id": "eq_17",
       "title": "Equation 17",
-      "content": "$$\\frac{1}{2} \\langle n_1 | n_1 \\rangle + \\langle n_{Zc} | n_1 \\rangle + \\frac{1}{2} \\langle n_{Zc} | n_{Zc} \\rangle. \\quad (17)$$",
-      "page": "-"
+      "content": "�17�",
+      "page": "4",
+      "attachment_key": "8TSM9FJL",
+      "file": "eq_17_8TSM9FJL.png"
     },
     {
-      "id": "eq18",
+      "id": "eq_18",
       "title": "Equation 18",
-      "content": "$$n_c + n = (\\tilde{n} + \\hat{n} + \\tilde{n}_c) + (n_1 + n_c) - (\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c). \\quad (18)$$",
-      "page": "-"
+      "content": "�18�",
+      "page": "4",
+      "attachment_key": "AW2LPI9M",
+      "file": "eq_18_AW2LPI9M.png"
     },
     {
-      "id": "eq19",
+      "id": "eq_19",
       "title": "Equation 19",
-      "content": "$$E_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c] + \\overline{E_{xc}[n_1 + n_c]} - \\overline{E_{xc}[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c]}, \\quad (19)$$",
-      "page": "-"
+      "content": "�19�",
+      "page": "4",
+      "attachment_key": "DJHY99HF",
+      "file": "eq_19_DJHY99HF.png"
     },
     {
-      "id": "eq20",
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "�2�",
+      "page": "2",
+      "attachment_key": "FQCU82JS",
+      "file": "eq_2_FQCU82JS.png"
+    },
+    {
+      "id": "eq_20",
       "title": "Equation 20",
-      "content": "$$E_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c + n_1 + n_c - (\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c)] - E_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c] - \\overline{E_{xc}[n_1 + n_c]} + \\overline{E_{xc}[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c]}.$$",
-      "page": "-"
+      "content": "�20�",
+      "page": "4",
+      "attachment_key": "9ZF6QIUA",
+      "file": "eq_20_9ZF6QIUA.png"
     },
     {
-      "id": "eq21",
+      "id": "eq_21",
       "title": "Equation 21",
-      "content": "$$\\int_{V_r} [ v_{xc}[n_1 + n_c] - v_{xc}[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c] ] (\\tilde{n} - \\tilde{n}_1) dr.$$",
-      "page": "-"
+      "content": "�21�",
+      "page": "4",
+      "attachment_key": "UZKE3YVW",
+      "file": "eq_21_UZKE3YVW.png"
     },
     {
-      "id": "eq22",
+      "id": "eq_22",
       "title": "Equation 22",
-      "content": "$$E = \\tilde{E} + E_1 - \\tilde{E}_1, \\quad (20)$$",
-      "page": "-"
+      "content": "�22�",
+      "page": "4",
+      "attachment_key": "Y6VDPAHT",
+      "file": "eq_22_Y6VDPAHT.png"
     },
     {
-      "id": "eq23",
+      "id": "eq_23",
       "title": "Equation 23",
-      "content": "$$\\tilde{E} = \\sum_n f_n \\langle \\tilde{\\psi}_n | -\\frac{1}{2} \\nabla^2 | \\tilde{\\psi}_n \\rangle + E_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c] + E_H[\\tilde{n} + \\hat{n}] + \\int v_H[\\tilde{n}_{Zc}] (\\tilde{n}(r) + \\hat{n}(r)) dr + U(R, Z_{ion}), \\quad (21)$$",
-      "page": "-"
+      "content": "�23�",
+      "page": "5",
+      "attachment_key": "CYRZJHFA",
+      "file": "eq_23_CYRZJHFA.png"
     },
     {
-      "id": "eq24",
+      "id": "eq_24",
       "title": "Equation 24",
-      "content": "$$\\tilde{E}_1 = \\sum_{i,j} r_{ij} [ \\langle \\tilde{\\phi}_i | -\\frac{1}{2} \\nabla^2 | \\tilde{\\phi}_j \\rangle + \\overline{E_{xc}[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c]} + \\overline{E_H[\\tilde{n}_1 + \\hat{n}]} + \\int_{V_r} v_H[\\tilde{n}_{Zc}] (\\tilde{n}_1(r) + \\hat{n}(r)) dr ], \\quad (22)$$",
-      "page": "-"
+      "content": "�24�",
+      "page": "5",
+      "attachment_key": "R6SVFPSH",
+      "file": "eq_24_R6SVFPSH.png"
     },
     {
-      "id": "eq25",
+      "id": "eq_25",
       "title": "Equation 25",
-      "content": "$$E_1 = \\sum_{i,j} r_{ij} [ \\langle \\phi_i | -\\frac{1}{2} \\nabla^2 | \\phi_j \\rangle + \\overline{E_{xc}[n_1 + n_c]} + \\overline{E_H[n_1]} + \\int_{V_r} v_H[n_{Zc}] n_1(r) dr ]. \\quad (23)$$",
-      "page": "-"
+      "content": "�25�",
+      "page": "5",
+      "attachment_key": "YDLNLCHW",
+      "file": "eq_25_YDLNLCHW.png"
     },
     {
-      "id": "eq26",
+      "id": "eq_26",
       "title": "Equation 26",
-      "content": "$$v_H[n](r) = \\int \\frac{n(r')}{|r-r'|} dr',$$",
-      "page": "-"
+      "content": "�26�",
+      "page": "5",
+      "attachment_key": "2A2X5GPE",
+      "file": "eq_26_2A2X5GPE.png"
     },
     {
-      "id": "eq27",
+      "id": "eq_27",
       "title": "Equation 27",
-      "content": "$$E_H[n] = \\frac{1}{2} \\langle n | n \\rangle = \\frac{1}{2} \\int dr \\int dr' \\frac{n(r)n(r')}{|r-r'|}.$$",
-      "page": "-"
+      "content": "�27�",
+      "page": "5",
+      "attachment_key": "CH9HGZIP",
+      "file": "eq_27_CH9HGZIP.png"
     },
     {
-      "id": "eq28",
+      "id": "eq_28",
       "title": "Equation 28",
-      "content": "$$\\int_{V_r} (n_1 - \\tilde{n}_1 - \\hat{n}) |r-R|^L Y_L^*(\\hat{r-R}) dr = 0. \\quad (24)$$",
-      "page": "-"
+      "content": "�28�",
+      "page": "5",
+      "attachment_key": "GN8538EE",
+      "file": "eq_28_GN8538EE.png"
     },
     {
-      "id": "eq29",
+      "id": "eq_29",
       "title": "Equation 29",
-      "content": "$$Q_{ij}(r) = \\phi_i^_(r)\\phi_j(r) - \\tilde{\\phi}_i^_(r)\\tilde{\\phi}_j(r), \\quad (25)$$",
-      "page": "-"
+      "content": "�29�",
+      "page": "6",
+      "attachment_key": "X5X3SZKH",
+      "file": "eq_29_X5X3SZKH.png"
     },
     {
-      "id": "eq30",
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "�3�",
+      "page": "2",
+      "attachment_key": "YBB62KAS",
+      "file": "eq_3_YBB62KAS.png"
+    },
+    {
+      "id": "eq_30",
       "title": "Equation 30",
-      "content": "$$q_{iLj} = \\int_{V_r} Q_{ij}(r) |r-R|^L Y_L^*(\\hat{r-R}) dr, \\quad (26)$$",
-      "page": "-"
+      "content": "�30�",
+      "page": "6",
+      "attachment_key": "K9BF88T3",
+      "file": "eq_30_K9BF88T3.png"
     },
     {
-      "id": "eq31",
+      "id": "eq_31",
       "title": "Equation 31",
-      "content": "$$\\hat{n} = \\sum_{i,j,L} r_{ij} \\hat{Q}_{iLj}(r), \\quad (27)$$",
-      "page": "-"
+      "content": "�31�",
+      "page": "6",
+      "attachment_key": "85B2GD2I",
+      "file": "eq_31_85B2GD2I.png"
     },
     {
-      "id": "eq32",
+      "id": "eq_32",
       "title": "Equation 32",
-      "content": "$$\\hat{Q}_{iLj}(r) = q_{iLj} g_l(|r-R|) Y_L(\\hat{r-R}),$$",
-      "page": "-"
+      "content": "�32�",
+      "page": "6",
+      "attachment_key": "ECFGKQAV",
+      "file": "eq_32_ECFGKQAV.png"
     },
     {
-      "id": "eq33",
-      "title": "Equation 33",
-      "content": "$$E_{xc}[n_a + n_c] + E_H[n_a] - \\int [ v_{xc}[n_a + n_c] + v_H[n_a] ] (n_1(r) - n_a(r)) dr. \\quad (28)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq34",
+      "id": "eq_34",
       "title": "Equation 34",
-      "content": "$$C + \\sum_{i,j} r_{ij} \\langle \\phi_i | v_{xc}[n_a + n_c] + v_H[n_a] | \\phi_j \\rangle, \\quad (29)$$",
-      "page": "-"
+      "content": "�34�",
+      "page": "6",
+      "attachment_key": "NKNEIVZX",
+      "file": "eq_34_NKNEIVZX.png"
     },
     {
-      "id": "eq35",
+      "id": "eq_35",
       "title": "Equation 35",
-      "content": "$$E_1 \\approx C + \\sum_{i,j} r_{ij} \\langle \\phi_i | -\\frac{1}{2} \\nabla^2 + v_{eff}^a | \\phi_j \\rangle, \\quad (30)$$",
-      "page": "-"
+      "content": "�35�",
+      "page": "6",
+      "attachment_key": "SUNR7ATM",
+      "file": "eq_35_SUNR7ATM.png"
     },
     {
-      "id": "eq36",
+      "id": "eq_36",
       "title": "Equation 36",
-      "content": "$$v_{eff}^a = v_H[n_a + n_{Zc}] + v_{xc}[n_a + n_c]. \\quad (31)$$",
-      "page": "-"
+      "content": "�36�",
+      "page": "6",
+      "attachment_key": "27BXJQF6",
+      "file": "eq_36_27BXJQF6.png"
     },
     {
-      "id": "eq37",
+      "id": "eq_37",
       "title": "Equation 37",
-      "content": "$$\\tilde{E}_1 \\approx \\tilde{C} + \\sum_{i,j} r_{ij} [ \\langle \\tilde{\\phi}_i | -\\frac{1}{2} \\nabla^2 + \\tilde{v}_{eff}^a | \\tilde{\\phi}_j \\rangle + \\int \\hat{Q}_{iLj}(r) \\tilde{v}_{eff}^a(r) dr ], \\quad (32)$$",
-      "page": "-"
+      "content": "�37�",
+      "page": "6",
+      "attachment_key": "KK4844ZP",
+      "file": "eq_37_KK4844ZP.png"
     },
     {
-      "id": "eq38",
+      "id": "eq_38",
       "title": "Equation 38",
-      "content": "$$\\tilde{v}_{eff}^a = v_H[\\tilde{n}_a + \\hat{n}_a + \\tilde{n}_{Zc}] + v_{xc}[\\tilde{n}_a + \\hat{n}_a + \\tilde{n}_c]. \\quad (32)$$",
-      "page": "-"
+      "content": "�38�",
+      "page": "7",
+      "attachment_key": "DJ2T827I",
+      "file": "eq_38_DJ2T827I.png"
     },
     {
-      "id": "eq39",
+      "id": "eq_39",
       "title": "Equation 39",
-      "content": "$$E = \\sum_n f_n \\langle \\tilde{\\psi}_n | -\\frac{1}{2} \\nabla^2 | \\tilde{\\psi}_n \\rangle + \\sum_{i,j} \\langle \\tilde{\\psi}_n | \\tilde{p}_i \\rangle G_{ij}^{US} \\langle \\tilde{p}_j | \\tilde{\\psi}_n \\rangle + E_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c] + E_H[\\tilde{n} + \\hat{n}] + \\int v_H[\\tilde{n}_{Zc}] (\\tilde{n}(r) + \\hat{n}(r)) dr + U(R, Z_{ion}), \\quad (33)$$",
-      "page": "-"
+      "content": "�39�",
+      "page": "7",
+      "attachment_key": "FWXIP72Q",
+      "file": "eq_39_FWXIP72Q.png"
     },
     {
-      "id": "eq40",
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "�4�",
+      "page": "2",
+      "attachment_key": "QELC53NK",
+      "file": "eq_4_QELC53NK.png"
+    },
+    {
+      "id": "eq_40",
       "title": "Equation 40",
-      "content": "$$G_{ij}^{US} = \\langle \\phi_i | -\\frac{1}{2} \\nabla^2 + v_{eff}^a | \\phi_j \\rangle - \\langle \\tilde{\\phi}_i | -\\frac{1}{2} \\nabla^2 + \\tilde{v}_{eff}^a | \\tilde{\\phi}_j \\rangle - \\int \\hat{Q}_{iLj}(r) \\tilde{v}_{eff}^a(r) dr. \\quad (34)$$",
-      "page": "-"
+      "content": "�40�",
+      "page": "7",
+      "attachment_key": "P8GWJAYW",
+      "file": "eq_40_P8GWJAYW.png"
     },
     {
-      "id": "eq41",
+      "id": "eq_41",
       "title": "Equation 41",
-      "content": "$$E_1 - \\tilde{E}_1 = \\sum_{i,j} r_{ij} [ \\langle \\phi_i | -\\frac{1}{2} \\nabla^2 | \\phi_j \\rangle - \\langle \\tilde{\\phi}_i | -\\frac{1}{2} \\nabla^2 | \\tilde{\\phi}_j \\rangle ].$$",
-      "page": "-"
+      "content": "�41�",
+      "page": "7",
+      "attachment_key": "X4IE3V83",
+      "file": "eq_41_X4IE3V83.png"
     },
     {
-      "id": "eq42",
+      "id": "eq_42",
       "title": "Equation 42",
-      "content": "$$\\phi_{i}^{NC}(r) = \\begin{cases} H \\phi_i(r) & r < r_{comp}^l \\ \\phi_i(r) & r > r_{comp}^l \\end{cases}, \\quad (36)$$",
-      "page": "-"
+      "content": "�42�",
+      "page": "7",
+      "attachment_key": "YU5JKCX2",
+      "file": "eq_42_YU5JKCX2.png"
     },
     {
-      "id": "eq43",
+      "id": "eq_43",
       "title": "Equation 43",
-      "content": "$$\\hat{Q}_{iLj}(r) = \\phi_{i}^{NC*}(r)\\phi_{j}^{NC}(r) - \\tilde{\\phi}_i^*(r)\\tilde{\\phi}_j(r). \\quad (37)$$",
-      "page": "-"
+      "content": "�43�",
+      "page": "7",
+      "attachment_key": "VUVZ7VJ6",
+      "file": "eq_43_VUVZ7VJ6.png"
     },
     {
-      "id": "eq44",
+      "id": "eq_44",
       "title": "Equation 44",
-      "content": "$$\\langle \\tilde{\\psi}_n | S | \\tilde{\\psi}_m \\rangle = \\delta_{nm}, \\quad (38)$$",
-      "page": "-"
+      "content": "�44�",
+      "page": "7",
+      "attachment_key": "VR2PSNDM",
+      "file": "eq_44_VR2PSNDM.png"
     },
     {
-      "id": "eq45",
+      "id": "eq_45",
       "title": "Equation 45",
-      "content": "$$S = 1 + \\sum_{i,j} | \\tilde{p}_i \\rangle q_{ij} \\langle \\tilde{p}_j |, \\quad (39)$$",
-      "page": "-"
+      "content": "�45�",
+      "page": "7",
+      "attachment_key": "FZ8SLRLH",
+      "file": "eq_45_FZ8SLRLH.png"
     },
     {
-      "id": "eq46",
+      "id": "eq_46",
       "title": "Equation 46",
-      "content": "$$q_{ij} = \\langle \\phi_i | \\phi_j \\rangle - \\langle \\tilde{\\phi}_i | \\tilde{\\phi}_j \\rangle = \\Delta p q_{ij}^0. \\quad (40)$$",
-      "page": "-"
+      "content": "�46�",
+      "page": "7",
+      "attachment_key": "3J3T9F3I",
+      "file": "eq_46_3J3T9F3I.png"
     },
     {
-      "id": "eq47",
+      "id": "eq_47",
       "title": "Equation 47",
-      "content": "$$\\frac{\\delta E}{\\delta \\tilde{\\rho}} = H. \\quad (41)$$",
-      "page": "-"
+      "content": "�47�",
+      "page": "7",
+      "attachment_key": "Y4XBPFA7",
+      "file": "eq_47_Y4XBPFA7.png"
     },
     {
-      "id": "eq48",
+      "id": "eq_48",
       "title": "Equation 48",
-      "content": "$$\\frac{\\delta E}{\\delta \\tilde{\\rho}} = \\frac{\\delta \\tilde{E}}{\\delta \\tilde{\\rho}} + \\frac{\\delta E_1}{\\delta \\tilde{\\rho}} - \\frac{\\delta \\tilde{E}_1}{\\delta \\tilde{\\rho}}. \\quad (42)$$",
-      "page": "-"
+      "content": "�48�",
+      "page": "8",
+      "attachment_key": "GFXFMZ94",
+      "file": "eq_48_GFXFMZ94.png"
     },
     {
-      "id": "eq49",
+      "id": "eq_49",
       "title": "Equation 49",
-      "content": "$$\\tilde{v}_{eff} = v_H[\\tilde{n} + \\hat{n} + \\tilde{n}_{Zc}] + v_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c]. \\quad (43)$$",
-      "page": "-"
+      "content": "�49�",
+      "page": "8",
+      "attachment_key": "2ITDXBL4",
+      "file": "eq_49_2ITDXBL4.png"
     },
     {
-      "id": "eq50",
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "�5�",
+      "page": "2",
+      "attachment_key": "K4NR96HQ",
+      "file": "eq_5_K4NR96HQ.png"
+    },
+    {
+      "id": "eq_50",
       "title": "Equation 50",
-      "content": "$$\\hat{D}_{ij} = \\frac{\\partial \\tilde{E}}{\\partial r_{ij}} = \\int \\frac{\\delta \\tilde{E}}{\\delta \\hat{n}(r)} \\frac{\\partial \\hat{n}(r)}{\\partial r_{ij}} dr = \\sum_L \\int \\tilde{v}_{eff}(r) \\hat{Q}_{iLj}(r) dr. \\quad (44)$$",
-      "page": "-"
+      "content": "�50�",
+      "page": "8",
+      "attachment_key": "F823C9C2",
+      "file": "eq_50_F823C9C2.png"
     },
     {
-      "id": "eq51",
+      "id": "eq_51",
       "title": "Equation 51",
-      "content": "$$D_{ij} = \\frac{\\partial E_1}{\\partial r_{ij}} = \\langle \\phi_i | -\\frac{1}{2} \\nabla^2 + v_{1eff} | \\phi_j \\rangle, \\quad (45)$$",
-      "page": "-"
+      "content": "�51�",
+      "page": "8",
+      "attachment_key": "DPYBJX9X",
+      "file": "eq_51_DPYBJX9X.png"
     },
     {
-      "id": "eq52",
+      "id": "eq_52",
       "title": "Equation 52",
-      "content": "$$v_{1eff}[n_1] = v_H[n_1 + n_{Zc}] + v_{xc}[n_1 + n_c]. \\quad (45)$$",
-      "page": "-"
+      "content": "�52�",
+      "page": "8",
+      "attachment_key": "IMJ9UXZA",
+      "file": "eq_52_IMJ9UXZA.png"
     },
     {
-      "id": "eq53",
+      "id": "eq_53",
       "title": "Equation 53",
-      "content": "$$\\tilde{D}_{1ij} = \\frac{\\partial \\tilde{E}_1}{\\partial r_{ij}} = \\langle \\tilde{\\phi}_i | -\\frac{1}{2} \\nabla^2 + \\tilde{v}_{eff1} | \\tilde{\\phi}_j \\rangle + \\sum_L \\int_{V_r} \\tilde{v}_{eff1}(r) \\hat{Q}_{iLj}(r), \\quad (46)$$",
-      "page": "-"
+      "content": "�53�",
+      "page": "8",
+      "attachment_key": "3PHQ7FFK",
+      "file": "eq_53_3PHQ7FFK.png"
     },
     {
-      "id": "eq54",
+      "id": "eq_54",
       "title": "Equation 54",
-      "content": "$$\\tilde{v}_{eff1}[\\tilde{n}_1] = v_H[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_{Zc}] + v_{xc}[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c]. \\quad (46)$$",
-      "page": "-"
+      "content": "�54�",
+      "page": "8",
+      "attachment_key": "38XU9YTF",
+      "file": "eq_54_38XU9YTF.png"
     },
     {
-      "id": "eq55",
+      "id": "eq_55",
       "title": "Equation 55",
-      "content": "$$H(r, {R}) = -\\frac{1}{2} \\nabla^2 + \\tilde{v}_{eff} + \\sum_{i,j} | \\tilde{p}_i \\rangle ( \\hat{D}_{ij} + D_{ij} - \\tilde{D}_{1ij} ) \\langle \\tilde{p}_j |. \\quad (47)$$",
-      "page": "-"
+      "content": "�55�",
+      "page": "9",
+      "attachment_key": "CVB5VW3W",
+      "file": "eq_55_CVB5VW3W.png"
     },
     {
-      "id": "eq56",
+      "id": "eq_56",
       "title": "Equation 56",
-      "content": "$$\\tilde{E}_{dc} = 2 E_H[\\tilde{n} + \\hat{n}] + E_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c] - \\int v_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c] (\\tilde{n} + \\hat{n}) dr, \\quad (48)$$",
-      "page": "-"
+      "content": "�56�",
+      "page": "9",
+      "attachment_key": "X73UQ4D8",
+      "file": "eq_56_X73UQ4D8.png"
     },
     {
-      "id": "eq57",
+      "id": "eq_57",
       "title": "Equation 57",
-      "content": "$$E_{dc1} = 2 E_H[n_1] + E_{xc}[n_1 + n_c] - \\int_{V_r} v_{xc}[n_1 + n_c] n_1 dr,$$",
-      "page": "-"
+      "content": "�57�",
+      "page": "9",
+      "attachment_key": "Y477IX3J",
+      "file": "eq_57_Y477IX3J.png"
     },
     {
-      "id": "eq58",
+      "id": "eq_58",
       "title": "Equation 58",
-      "content": "$$\\tilde{E}_{dc1} = 2 E_H[\\tilde{n}_1 + \\hat{n}] + E_{xc}[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c] - \\int_{V_r} v_{xc}[\\tilde{n}_1 + \\hat{n} + \\tilde{n}_c] (\\tilde{n}_1 + \\hat{n}) dr. \\quad (48)$$",
-      "page": "-"
+      "content": "�58�",
+      "page": "10",
+      "attachment_key": "UK7JH6P8",
+      "file": "eq_58_UK7JH6P8.png"
     },
     {
-      "id": "eq59",
+      "id": "eq_59",
       "title": "Equation 59",
-      "content": "$$E = \\sum_n f_n \\langle \\tilde{\\psi}_n | H | \\tilde{\\psi}_n \\rangle + \\tilde{E}_{dc} + E_{dc1} - \\tilde{E}_{dc1} + U(R, Z_{ion}). \\quad (49)$$",
-      "page": "-"
+      "content": "�59�",
+      "page": "10",
+      "attachment_key": "2J6MPREG",
+      "file": "eq_59_2J6MPREG.png"
     },
     {
-      "id": "eq60",
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "�6�",
+      "page": "2",
+      "attachment_key": "FCU9VPB6",
+      "file": "eq_6_FCU9VPB6.png"
+    },
+    {
+      "id": "eq_60",
       "title": "Equation 60",
-      "content": "$$F = -\\frac{dE}{dR}. \\quad (50)$$",
-      "page": "-"
+      "content": "�60�",
+      "page": "10",
+      "attachment_key": "HD346M7G",
+      "file": "eq_60_HD346M7G.png"
     },
     {
-      "id": "eq61",
+      "id": "eq_61",
       "title": "Equation 61",
-      "content": "$$\\frac{dE}{dR} = \\sum_n f_n \\langle \\tilde{\\psi}_n | \\frac{\\partial H}{\\partial R} - \\epsilon_n \\frac{\\partial S}{\\partial R} | \\tilde{\\psi}_n \\rangle + \\frac{\\partial U(R, Z_{ion})}{\\partial R}. \\quad (51)$$",
-      "page": "-"
+      "content": "�61�",
+      "page": "10",
+      "attachment_key": "LPZ9YN3F",
+      "file": "eq_61_LPZ9YN3F.png"
     },
     {
-      "id": "eq62",
+      "id": "eq_62",
       "title": "Equation 62",
-      "content": "$$F_1 = -\\int \\frac{\\delta \\text{Tr}[H \\tilde{\\rho}]}{\\delta v_H[\\tilde{n}_{Zc}](r)} \\frac{\\partial v_H[\\tilde{n}_{Zc}](r)}{\\partial R} dr. \\quad (52)$$",
-      "page": "-"
+      "content": "�62�",
+      "page": "10",
+      "attachment_key": "MG8DE78B",
+      "file": "eq_62_MG8DE78B.png"
     },
     {
-      "id": "eq63",
+      "id": "eq_63",
       "title": "Equation 63",
-      "content": "$$F_1 = -\\int [ \\tilde{n}(r) + \\sum_{i,j,L} \\hat{Q}_{iLj}(r) r_{ij} ] \\frac{\\partial v_H[\\tilde{n}_{Zc}](r)}{\\partial R} dr = -\\int [ \\tilde{n}(r) + \\hat{n}(r) ] \\frac{\\partial v_H[\\tilde{n}_{Zc}](r)}{\\partial R} dr. \\quad (53)$$",
-      "page": "-"
+      "content": "�63�",
+      "page": "10",
+      "attachment_key": "6ILZRBWK",
+      "file": "eq_63_6ILZRBWK.png"
     },
     {
-      "id": "eq64",
-      "title": "Equation 64",
-      "content": "$$F_2 = -\\sum_{i,j,L} \\int \\tilde{v}_{eff}(r) r_{ij} q_{iLj} \\frac{\\partial g_l(|r-R|) Y_L(\\hat{r-R})}{\\partial R} dr. \\quad (54)$$",
-      "page": "-"
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "�7�",
+      "page": "2",
+      "attachment_key": "8GFDFQU7",
+      "file": "eq_7_8GFDFQU7.png"
     },
     {
-      "id": "eq65",
-      "title": "Equation 65",
-      "content": "$$F_3 = -\\sum_{i,j} ( \\hat{D}_{ij} + D_{ij} - \\tilde{D}_{1ij} - \\epsilon_n q_{ij} ) \\sum_n f_n \\langle \\tilde{\\psi}_n | \\frac{\\partial | \\tilde{p}_i \\rangle \\langle \\tilde{p}_j |}{\\partial R} | \\tilde{\\psi}_n \\rangle. \\quad (55)$$",
-      "page": "-"
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "�8�",
+      "page": "3",
+      "attachment_key": "LZ9YKF6B",
+      "file": "eq_8_LZ9YKF6B.png"
     },
     {
-      "id": "eq66",
-      "title": "Equation 66",
-      "content": "$$F_{nlcc} = -\\int v_{xc}[\\tilde{n} + \\hat{n} + \\tilde{n}_c] \\frac{\\partial \\tilde{n}_c(r)}{\\partial R} dr. \\quad (56)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq67",
-      "title": "Equation 67",
-      "content": "$$\\tilde{\\phi}_{lk}(r) = \\begin{cases} \\sum_i a_{il} j_l(q_i r) & r < r_{lc} \\ \\phi_{lk}(r) & r > r_{lc} \\end{cases} \\quad (57)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq68",
-      "title": "Equation 68",
-      "content": "$$\\tilde{v}_{eff}^a = \\frac{A \\sin(q_{loc} r)}{r} \\text{ for } r < r_{loc}, \\quad (58)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq69",
-      "title": "Equation 69",
-      "content": "$$\\tilde{n}_c = \\sum_{i=1,2} B_i \\frac{\\sin(q_i r)}{r}. \\quad (59)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq70",
-      "title": "Equation 70",
-      "content": "$$v_H[\\tilde{n}_{Zc}] = \\tilde{v}_{eff}^a - v_H[\\tilde{n}_a + \\hat{n}_a] - v_{xc}[\\tilde{n}_a + \\hat{n}_a + \\tilde{n}_c]. \\quad (60)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq71",
-      "title": "Equation 71",
-      "content": "$$g_l(r) = \\sum_{i=1,2} a_{il} j_l(q_{il} r). \\quad (61)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq72",
-      "title": "Equation 72",
-      "content": "$$\\int_0^{r_{comp}} g_l(r) r^{l+2} dr = 1. \\quad (62)$$",
-      "page": "-"
-    },
-    {
-      "id": "eq73",
-      "title": "Equation 73",
-      "content": "$$\\frac{d}{dr} j_l(q_{il} r) |_{r=r_{comp}} = 0, \\quad (63)$$",
-      "page": "-"
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "�9�",
+      "page": "3",
+      "attachment_key": "XTBQIPQ5",
+      "file": "eq_9_XTBQIPQ5.png"
     }
   ],
   "tags": [
     "unread"
   ],
   "materials": [],
-  "methods": [
-    "第一性原理",
-    "DFT",
-    "first-principles"
-  ]
+  "methods": []
 }

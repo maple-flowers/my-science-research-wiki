@@ -1,0 +1,223 @@
+{
+  "parent_key": "Wang2023ultracompact",
+  "title": "Wang2023ultracompact",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1 Schematics of the method for generating (a1)–(c1) even and (a2)–(c2) helical Mathieu beams. (a1) and (a2) Generation of ring-shaped Fourier spectra through Fourier transformation of a Gaussian beam imposed with an MPP. (b1) and (b2) Generation of a Mathieu beam through Fourier transformation of Fourier spectra after the filter. (c1) and (c2) Simulation of intensity distribution along the propagation axis.",
+      "page": "2",
+      "attachment_key": "UAN2BY4E",
+      "file": "fig_1_UAN2BY4E.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "10",
+      "title": "Figure 10",
+      "llm_description": "Fig. 10 Experimental results of helical MG beams with m ¼ 3 and q ¼ 2. (a) Intensity distribution at different propagation distances. (b) Axial intensity distribution along the propagation.",
+      "page": "8",
+      "attachment_key": "7JWVFILZ",
+      "file": "fig_10_7JWVFILZ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2 (a) and (b) Femtosecond laser platform for TPP. (c) Phase distribution of designed even MPP with m ¼ 2 and q ¼ 12. (d) Picture of fabricated MPPs on the glass. (e) SEM image of the same MPP. Height profiles of (f) designed MPP and (g) fabricated MPP.",
+      "page": "3",
+      "attachment_key": "P5YTRJBX",
+      "file": "fig_2_P5YTRJBX.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3 Helical MPP with m ¼ 3 and q ¼ 2. (a) Designed phase distribution, (b) SEM image, and (c) height profile of the fabricated phase plate.",
+      "page": "4",
+      "attachment_key": "VUFTF2IG",
+      "file": "fig_3_VUFTF2IG.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4 (a) Phase distribution of even MPP with phase modulation error. (b) Phase distribution of helical MPP with discretized phase values of 31 levels. The overlap integral and efficiency of (c) even and (d) helical Mathieu beams at different phase modulations. Marks denote the value when the phase value is discretized into 31 levels. The bars on the marks show the deviation of the value caused by levels of phase value discretization.",
+      "page": "5",
+      "attachment_key": "4Y53N3SH",
+      "file": "fig_4_4Y53N3SH.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5 Experimental setup for the generation and characterization of MG beams. BE, beam expander; L1 and L2, lenses; RS, ring slit; M, mirror; and RAP, right-angle prism.",
+      "page": "6",
+      "attachment_key": "7PBM4FCJ",
+      "file": "fig_5_7PBM4FCJ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Fig. 6 Measured Fourier spectra of MG beams with different orders m and ellipticity parameters q.",
+      "page": "6",
+      "attachment_key": "2GF3S7IT",
+      "file": "fig_6_2GF3S7IT.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Fig. 7 Measured intensity distribution of even MG beams with different orders m and ellipticity parameters q.",
+      "page": "7",
+      "attachment_key": "8R2524RD",
+      "file": "fig_7_8R2524RD.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "Fig. 8 Experimental results of even MG beams with m ¼ 2 and q ¼ 12. (a) Intensity distribution at different propagation distances. (b) Axial intensity distribution along the propagation.",
+      "page": "7",
+      "attachment_key": "D2NF53YM",
+      "file": "fig_8_D2NF53YM.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "9",
+      "title": "Figure 9",
+      "llm_description": "Fig. 9 Measured intensity distribution of helical MG beams with different m and q.",
+      "page": "8",
+      "attachment_key": "DCPXH63U",
+      "file": "fig_9_DCPXH63U.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Ultracompact phase plate fabricated by femtosecond laser two-photon polymerization for generation of Mathieu--Gauss beams|\n|短标题|飞秒激光双光子聚合制备用于产生马修-高斯光束的超紧凑相板|\n|作者|[[Jue Wang]]、 [[Chengkun Cai]]、 [[Tianhao Fu]]、 [[Kangrui Wang]]、 [[Yize Liang]]、 [[Jian Wang]]|\n|期刊名称|[[Advanced Photonics Nexus]]|\n|DOI|[10.1117/1.APN.2.1.016011](https://doi.org/10.1117/1.APN.2.1.016011)|\n|存档位置|8|\n|文库编目|6.3|\n|索书号|2|\n|版权||\n|分类|[[01_双光子聚合引发剂 (2PP Initiators)]]|\n|条目链接|[My Library](zotero://select/library/items/P3AENA2D)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/J347ISAK)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "2",
+      "attachment_key": "EW83TFBS",
+      "file": "eq_1_EW83TFBS.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "ð2Þ",
+      "page": "2",
+      "attachment_key": "HH4G5VI9",
+      "file": "eq_2_HH4G5VI9.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4)",
+      "page": "4",
+      "attachment_key": "NENNCHPM",
+      "file": "eq_4_NENNCHPM.png"
+    },
+    {
+      "id": "eq1",
+      "title": "Equation 1",
+      "content": "$$...$$",
+      "page": "-"
+    },
+    {
+      "id": "eq2",
+      "title": "Equation 2",
+      "content": "$$...$$",
+      "page": "-"
+    },
+    {
+      "id": "eq3",
+      "title": "Equation 3",
+      "content": "$$` 多行公式。\n> \n> 注意：原文中有些地方有 `1⁄4` 表示等号，我们统一替换为 `=`。`þ` 可能是 `+`。`∕` 是 `/`。`×` 是 `×`。`μm` 等保留。\n> \n> 术语解释：首次出现的核心术语，如 \"nondiffracting beams\", \"Mathieu beams\", \"Mathieu–Gauss beams\", \"two-photon polymerization (TPP)\", \"spatial light modulators (SLMs)\", \"metasurfaces\", \"4-f system\", \"Fourier spectra\", \"Gaussian beam\", \"beam waist\", \"charge-coupled device (CCD)\", \"overlap integral\", \"efficiency\" 等。需要标注并解释。\n> \n> 现在开始逐段处理。输出中的ID我们不需要写出，只需按结构输出。为保持整洁，我们将在每个单元后添加中文翻译，直接跟在英文原文后，不空行。对于标题，格式是 `# 英文` 换行 `中文`，然后术语解释。对于段落，英文原文，然后中文翻译。对于列表，每个列表项英文原文，然后中文翻译。但注意，列表项可能包含多个语句，我们需要整体翻译，而不是逐项翻译后加翻译？规范说“每个单元包含以下三部分：英文原文，中文翻译，术语解释”，对于列表项，我们可以将整个列表视为一个单元，或者每个列表项单独处理。但为了保持流畅，我们可以将整个列表作为一块，英文原文是列表，中文翻译是列表的中文翻译，保持同样的列表结构。但更简单的是：对于列表，先给出英文列表原文，然后下面给出中文翻译列表，保持相同的列表符号和缩进。但规范说“列表项：保留原始符号类型，保持层级缩进”，但没有明确说翻译是否也保持列表格式。可能最清楚的是，对于列表，直接在每个列表项英文后，下一行缩进中文翻译？但规范示例是“英文原文\\n中文翻译\\n术语解释”，对于列表项，可能整个列表作为一个单元，英文原文是整个列表，中文翻译也是整个列表的翻译，保持列表结构。我决定：对于有序/无序列表，将整个列表作为一个单元，先给出英文原文列表（保持原格式），然后下面给中文翻译列表（同样格式），术语解释放在最后。这样清晰。\n> \n> 代码块：先代码块，然后中文翻译（可能解释代码作用），术语解释。\n> \n> 引用块：先引用，然后中文翻译，术语解释。\n> \n> 表格：原文中没有表格，只有一些图，但图我们无法呈现，只处理文本。\n> \n> 现在开始解析。\n> \n> 首先，标题： Ultracompact phase plate fabricated by femtosecond laser two-photon polymerization for generation of Mathieu–Gauss beams\n> \n> 翻译：飞秒激光双光子聚合制备超紧凑相位板用于产生马蒂厄-高斯光束\n> \n> 术语：Mathieu–Gauss beams: 马蒂厄-高斯光束，马蒂厄光束的一种高斯包络形式，具有有限能量和无衍射特性。但首次出现，解释。\n> \n> 然后作者、单位： Jue Wang,a,b,‡ Chengkun Cai ,a,b,‡ Tianhao Fu,a,b Kangrui Wang,a,b Yize Liang ,a,b and Jian Wanga,b,* aHuazhong University of Science and Technology, Wuhan National Laboratory for Optoelectronics and School of Optical and Electronic Information, Wuhan, China bOptics Valley Laboratory, Wuhan, China\n> \n> 翻译：王珏，a,b,‡ 蔡成坤，a,b,‡ 付天昊，a,b 王康睿，a,b 梁益泽，a,b 和 王健a,b,* a华中科技大学，武汉光电国家研究中心和光学与电子信息学院，武汉，中国 b光谷实验室，武汉，中国\n> \n> Abstract: The Mathieu beam is a typical nondiffracting beam characterized by its propagation invariance and self-reconstruction. These extraordinary properties have given rise to potentialities for applications such as optical communications, optical trapping, and material processing. However, the experimental generation of Mathieu–Gauss beams possessing high quality and compactness is still challenging. In this work, even and helical Mathieu phase plates with different orders m and ellipticity parameters q are fabricated by femtosecond laser two-photon polymerization. The experimentally generated nondiffracting beams are propagationinvariant in several hundred millimeters, which agree with numerical simulations. This work may promote the miniaturization of the application of nondiffracting beams in micronanooptics.\n> \n> 翻译：马蒂厄光束是一种典型的无衍射光束，具有传播不变性和自重建特性。这些非凡的特性使其在光通信、光捕获和材料加工等领域具有应用潜力。然而，实验上产生高质量且紧凑的马蒂厄-高斯光束仍具有挑战性。本工作中，我们利用飞秒激光双光子聚合制备了不同阶数m和椭圆参数q的偶数和螺旋马蒂厄相位板。实验产生的无衍射光束在数百毫米范围内保持传播不变，与数值模拟相符。该工作有望推动无衍射光束在微纳光学中的小型化应用。\n> \n> 术语：nondiffracting beams: 无衍射光束，在传播过程中横向强度分布保持不变的光束；Mathieu beam: 马蒂厄光束，椭圆坐标系下亥姆霍兹方程的解，具有无衍射特性；Mathieu–Gauss beams: 马蒂厄-高斯光束，马蒂厄光束与高斯包络结合的光束，有限能量；femtosecond laser two-photon polymerization: 飞秒激光双光子聚合，一种利用飞秒激光引发双光子吸收实现三维微纳加工的工艺；phase plates: 相位板，用于调制光束相位的元件；ellipticity parameters: 椭圆参数，描述椭圆坐标系中椭圆度的参数。\n> \n> Keywords: femtosecond laser micromachining; two-photon polymerization; nondiffracting beams; Mathieu–Gauss beams.\n> \n> 翻译：关键词：飞秒激光微加工；双光子聚合；无衍射光束；马蒂厄-高斯光束。\n> \n> 然后正文：\n> \n> 1 Introduction 1 引言\n> \n> 段落：The concept of nondiffracting beams was first brought up by Durnin in 1987.1 He presented exact solutions to the homogeneous Helmholtz equation that were not subject to diffraction. Since then, light with propagation invariance has been a focus of attention for researchers. The Mathieu beam is the solution of the Helmholtz equation based on its separability in elliptical cylindrical coordinates.2 Like other nondiffracting beams, the Mathieu beam is featured by its nondiffraction,3 self-reconstruction,4 and self-acceleration.5 Different from its relatives, for example, the Bessel beam, cosine beam, and parabolic beam,6 the transverse intensity of Mathieu beams are lattice-like, which is proper for scientific use. Because of the properties above, scientists have used the Mathieu beam in many fields, including photonic lattices,7 optical trapping,8 speckle phenomena,9 and laser processing.10,11 For further applications of Mathieu beams, the generation of Mathieu beams with high quality is necessary. Several efforts have been made to produce Mathieu beams in the experiment. The first experimental demonstration of the Mathieu beam was reported by Gutiérrez-Vega et al.12 After that, many methods emerged to generate such beams. The hologram method can produce high-order Mathieu beams, but the generated beams are of poor quality due to manufacturing errors.13 In addition, spatial light modulators (SLMs) are widely used to generate Mathieu beams.3,4,10,14 However, the inherent nature of the relatively large pixel size and spacing makes it hard to produce high-quality Mathieu beams. In addition, the relatively large size of SLM makes it hard to apply the Mathieu beam in an integrated optical system. Recently, more compact devices based on metasurfaces15,16 have emerged. Ring-shaped plasmonic metasurfaces have been proposed to yield Mathieu beams with high quality.17 Generally speaking, the metasurface is a method of pixelization. The size of the pixel is about 1 μm. Also, it is based on processes, such as the focused ion beam and electron beam lithography, which are suitable for 2D patterning. Femtosecond laser two-photon polymerization (TPP) has emerged as a new micronanoprocessing technology, which is the way to produce sophisticated three-dimensional (3D) structures with an accuracy of up to 100 nm.18–23 Additionally, it is an efficient tool for transforming the design into the final optical element. In this work, using femtosecond laser TPP, we propose and demonstrate the fabrication of even and helical Mathieu phase plates (MPPs) with different orders m and ellipticity parameters q in a miniature size (300 μm × 300 μm). Compared with traditional methods, the MPPs fabricated here can realize an ultracompact size while maintaining high accuracy that brings about high beam quality. Our study may provide new possibilities for miniature applications of nondiffracting beams in optical communications, particle manipulation, and material processing.\n> \n> 翻译：无衍射光束的概念最早由Durnin于1987年提出。1他给出了不受衍射影响的齐次亥姆霍兹方程的精确解。自此，具有传播不变性的光一直是研究者的关注焦点。马蒂厄光束是基于亥姆霍兹方程在椭圆柱坐标系中可分离性的解。2与其他无衍射光束一样，马蒂厄光束具有无衍射3、自重建4和自加速5等特性。与贝塞尔光束、余弦光束和抛物线光束等同类光束不同，6马蒂厄光束的横向强度呈晶格状，适合科学应用。由于上述特性，科学家已将马蒂厄光束应用于光子晶格7、光捕获8、散斑现象9和激光加工10,11等领域。为了进一步应用马蒂厄光束，高质量的产生是必要的。实验上已有多项努力来产生马蒂厄光束。Gutiérrez-Vega等人首次实验演示了马蒂厄光束。12此后，涌现出多种产生此类光束的方法。全息法可以产生高阶马蒂厄光束，但由于制造误差，产生的光束质量较差。13此外，空间光调制器（SLM）被广泛用于产生马蒂厄光束。3,4,10,14然而，相对较大的像素尺寸和间距的本质特性使得难以产生高质量的马蒂厄光束。此外，SLM相对较大的尺寸也使其难以应用于集成光学系统。最近，基于超表面15,16的更紧凑器件已经出现。环形等离子体超表面已被提出用于产生高质量的马蒂厄光束。17总体来说，超表面是一种像素化方法，像素尺寸约为1 μm，并且基于聚焦离子束和电子束光刻等工艺，适用于二维图案化。飞秒激光双光子聚合（TPP）作为一种新型微纳加工技术，能够以高达100 nm的精度制造复杂的三维（3D）结构。18–23此外，它是一种将设计高效转化为最终光学元件的工具。在本工作中，我们利用飞秒激光TPP，提出并展示了在微型尺寸（300 μm × 300 μm）下制备不同阶数m和椭圆参数q的偶数和螺旋马蒂厄相位板（MPP）。与传统方法相比，这里制备的MPP可实现超紧凑尺寸，同时保持高精度，从而带来高光束质量。我们的研究可能为无衍射光束在光通信、粒子操控和材料加工中的微型化应用提供新的可能性。\n> \n> 术语：Bessel beam: 贝塞尔光束，一种无衍射光束，具有贝塞尔函数形式的横向分布；spatial light modulators (SLMs): 空间光调制器，一种可对光波进行空间调制的器件；metasurfaces: 超表面，由亚波长结构组成的二维平面，可实现对光波的灵活调控；focused ion beam: 聚焦离子束，一种微纳加工技术；electron beam lithography: 电子束光刻；two-photon polymerization (TPP): 双光子聚合，利用双光子吸收引发光聚合反应，实现三维加工；Mathieu phase plates (MPPs): 马蒂厄相位板，用于产生马蒂厄光束的相位调制元件。\n> \n> 2 Design and Fabrication 2 设计与制备\n> \n> The ideal Mathieu beams are described in cylindrical elliptical coordinates (ξ, η, z). The cylindrical elliptical coordinates can be transformed into Cartesian coordinates as [公式块] where a and b are the semimajor and semiminor axes of the ellipse, and c is the focus distance.24 Thus, the ideal scalar Mathieu beam of even, odd, and helical parity can be expressed, respectively, as [公式块] where Cem and cem are the radial (modified) and angular Mathieu functions of even parity for the mth order, and Sem and sem are the radial (modified) and angular Mathieu functions of odd parity for the mth order, respectively. The parameter q = c^2 k_t^2 / 4 is related to the focus distance c and transverse wave vector k_t. k_z is the longitudinal wave vector, which has a relation to the wave vector k_0 = ω/ν = sqrt(k_t^2 + k_z^2), where ω is the frequency of the wave and ν is its phase velocity. A_m(q) and B_m(q) are normalized coefficients related to q, which can be omitted for m ≥ 2 and q ≤ m^2/2 − 1.25 Unlike ideal Mathieu beams, which cannot be realized experimentally due to their infinite energy, the Mathieu–Gauss (MG) beams can be generated in the lab, carrying finite energy and being diffraction-free in the finite region. To generate such beams, we follow the method: the MG beam is converted from a Gaussian beam imposed by an ideal Mathieu phase passing through the 4-f system filtering. Figure 1 shows the schematics of the method for generating the even MG beam with m = 2 and q = 12 [Figs. 1(a1)–1(c1)] and helical MG beam with m = 3 and q = 2 [Figs. 1(a2)–1(c2)]. In our simulation, focus distance c is set to 50 and 19 μm for even and helical cases. We take the generation of even MG beam as an example. As can be seen in Fig. 1(a1), when a 1550 nm Gaussian beam embedded with the Mathieu phase is transformed by a lens (focal length f1 = 30 mm), a ring-shaped Fourier spectra is generated. The unfiltered Fourier spectra consists of several rings surrounding the main ring. Compared with it, the spectra of the ideal Mathieu beam has only one main ring with an infinitely small ring width. Note that the radius of the main ring is dependent on k_t and its width is related to the Gaussian envelope.6 The radius and width of the main ring can be calculated as [公式块] where λ is the wavelength and ω_0 is the beam waist of the input Gaussian beam. Next, the filtered Fourier spectra is transformed into the MG beam through another lens, which is shown in Fig. 1(b1). The focal length f2 is set to 300 mm to scale the transverse intensity distribution of the MG beam, which matches the size of the charge-coupled device (CCD). We can see that the transverse pattern of the generated MG beam approximates the ideal one. We also simulate the intensity distribution of the MG beam along the propagation direction (z axis) starting from the back focal plane of the second lens, as depicted in Fig. 1(c1). It shows that the generated MG beam can maintain propagation invariance within a certain region. The principle above also applies to the generation of helical MG beams, as depicted in Figs. 1(a2)–1(c2). A femtosecond laser TPP platform is used to fabricate MPPs, which is shown in Fig. 2(a). A femtosecond laser (PHAROS, 200-kHz repetition rate, 515-nm wavelength, and 340-fs pulse width) focused by an oil immersion objective (Zeiss, 63×, 1.4 NA) induces TPP in the photoresist SZ-2080. The 3D translation stages are used to control the relative position of laser foci. In another path, the light from an LED propagated through the mirror, beam splitter, dichroic mirror, and the objective illuminate the fabricated sample. The sample image is captured by the CCD. The detailed schematic of fabrication can be seen in Fig. 2(b), where index-matching oil and photoresist are deposited on both sides of the glass substrate. Note that one droplet of photoresist is dropped on the glass substrate and then prebacks at 100 °C for 30 min before fabrication. The femtosecond laser TPP can easily convert the phase information to the height profile. For the wavelength of incident light λ and refractive index of photoresist n_p, the relationship between the height h(x, y) and the phase distribution φ(x, y) is expressed as [公式块] Figure 2(c) shows the even MPP with m = 2 and q = 12 that we designed. Compared to the one in Fig. 1(a), it adds a margin of phase zero. The height profile of the designed MPP is depicted in Fig. 2(f) for λ = 1.55 μm and n_p = 1.5, where the binary phases of 0 and π correspond to the height of 0 and 1.55 μm. A layer-by-layer scanning method is used to fabricate the structure we designed. After the laser-induced polymerization, the sample is developed in methyl isobutyl ketone for 10 min to remove the residue and then is bathed in isopropanol for 5 min. We integrate multiple MPPs on a single substrate, shown in Fig. 2(d). One of the MPPs with m = 2 and q = 12 is characterized by scanning electron microscopy (SEM), shown in Fig. 2(e). To characterize its height profile quantitatively, we use a 3D laser scanning confocal microscope (VK-X1100, KEYENCE) to measure the fabricated MPP. The surface profile of the fabricated MPP [Fig. 2(g)] is in agreement with the designed one [Fig. 2(f)]. To facilitate visualization, we scale up the height by 20 times in Figs. 2(f) and 2(g). The color bar in the contour image shows an error of around 0.2 μm caused by the fabrication process, which would impair the quality of generated beams. However, further experimental characterization of the MG beams indicates that such a slight error has little effect on the quality of the resulting MG beams. Except for the even MPP with a binary phase distribution, we also fabricate helical MPPs with a vortex wavefront. Figure 3(a) plots the phase distribution of a helical MPP with m = 3 and q = 2. As can be seen, it possesses multiple concentric rings with a helical wavefront. The fabricated helical MPP is characterized using SEM, which is shown in Fig. 3(b). Its height profile is measured quantitatively, depicted in Fig. 3(c). To facilitate visualization, we scale up the height by 5 times. We can see from Figs. 2(g) and 3(c) that the fabricated even and helical MPPs have height errors. These errors will further affect the phase modulation, which may degrade beam quality. Regarding fabrication level, there are two types of errors when we neglect the translation system error. One is the overall height error that is caused by differences between the designed and practical wavelength λ or refractive index of photoresist n_p, according to Eq. (4). In this case, the overall phase modulation will be scaled proportionally, as depicted in Fig. 4(a). In the figure, the binary phase is not ideal 0 and π, but 0 and 0.9π. Another error is caused by the layer-by-layer fabrication method of TPP. In practice, the spacing between layers is not infinitely small. So there are always existing steps when fabricating a continuous phase plate, just as in Fig. 3(c). In this case, the phase modulation is also discretized, as shown in Fig. 4(b). We analyze how these modulation errors affect the beam quality for both even and helical cases, as presented in Figs. 4(c) and 4(d). Here, we use overlap integral to measure the similarity between ideal and practical beams. The efficiency is used to measure the energy loss of the produced beams. In Figs. 4(c) and 4(d), the red circles and orange cubics denote overlap integral and efficiency, respectively, when the phase value is discretized into 31 levels corresponding to our fabrication. Here, the bar on the mark indicates the deviation of overlap integral and efficiency, which is caused by different levels of discretized phase values. We simulate the situation of ideal phase distribution and discretized phase values of 15 levels. In the case of 31 levels of phase values (see marks), we can see in Fig. 4(c) that the overlap integral of the even Mathieu beam is above 99.5% with different phase modulations. The beam efficiency increases with the increase of phase modulation when it is less than 2.2π. After that, the efficiency decreases slowly. In Fig. 4(d), the overlap integral and efficiency have the same trend. They reach the highest value when the phase modulation is around 2.1π. It is counterintuitive that the highest value does not appear in the phase modulation of 2π. It is because the discretized phase values make optimal overlap integral and efficiency deviated. When considering the ideal phase distribution without discretization, the upper limit of efficiency and overlap integral in both even and helical cases reach the peak value when the phase modulation is the ideal 2π. Also, we plot the intensity distribution of Mathieu beams at phase modulation of 1.8π, 2.0π, and 2.2π for both cases.\n> \n> 翻译：理想马蒂厄光束在椭圆柱坐标系 (ξ, η, z) 中描述。椭圆柱坐标可以转换为直角坐标如下： [公式] 其中 a 和 b 分别是椭圆的长半轴和短半轴，c 是焦距。24 因此，偶数、奇数和螺旋宇称的理想标量马蒂厄光束可分别表示为： [公式] 其中 Cem 和 cem 分别是 m 阶偶数宇称的径向（修正）和角向马蒂厄函数，Sem 和 sem 分别是 m 阶奇数宇称的径向和角向马蒂厄函数。参数 q = c^2 k_t^2 / 4 与焦距 c 和横向波矢 k_t 相关。k_z 是纵向波矢，与波矢 k_0 = ω/ν = sqrt(k_t^2 + k_z^2) 有关，其中 ω 是波的频率，ν 是相速度。A_m(q) 和 B_m(q) 是与 q 有关的归一化系数，对于 m ≥ 2 且 q ≤ m^2/2 − 1 可以忽略。25 与理想马蒂厄光束不同，后者由于具有无限能量而无法实验实现，马蒂厄-高斯（MG）光束可以在实验室中产生，携带有限能量并在有限区域内无衍射。为了产生这种光束，我们采用以下方法：通过 4-f 系统滤波，将受到理想马蒂厄相位调制的高斯光束转换为 MG 光束。图 1 显示了产生 m=2, q=12 的偶数 MG 光束 [图 1(a1)–1(c1)] 和 m=3, q=2 的螺旋 MG 光束 [图 1(a2)–1(c2)] 的方法示意图。在我们的模拟中，对于偶数和螺旋情况，焦距 c 分别设为 50 μm 和 19 μm。我们以偶数 MG 光束的生成为例。如图 1(a1) 所示，当一束 1550 nm 的高斯光束嵌入马蒂厄相位后，通过一个透镜（焦距 f1=30 mm）变换，产生环形傅里叶谱。未滤波的傅里叶谱由围绕主环的多个环组成。与之相比，理想马蒂厄光束的谱只有一个主环，环宽无限小。注意，主环的半径取决于 k_t，其宽度与高斯包络有关。6 主环的半径和宽度可计算为： [公式] 其中 λ 是波长，ω_0 是输入高斯光束的束腰。接下来，滤波后的傅里叶谱通过另一个透镜变换为 MG 光束，如图 1(b1) 所示。焦距 f2 设为 300 mm，以缩放 MG 光束的横向强度分布，使其与电荷耦合器件（CCD）的尺寸匹配。我们可以看到，产生的 MG 光束的横向图案近似于理想图案。我们还模拟了从第二个透镜后焦面开始沿传播方向（z 轴）的 MG 光束强度分布，如图 1(c1) 所示。结果显示，产生的 MG 光束在一定区域内能够保持传播不变性。上述原理同样适用于螺旋 MG 光束的产生，如图 1(a2)–1(c2) 所示。使用飞秒激光 TPP 平台来制备 MPP，如图 2(a) 所示。由油浸物镜（Zeiss，63×，1.4 NA）聚焦的飞秒激光（PHAROS，200 kHz 重复频率，515 nm 波长，340 fs 脉冲宽度）在光刻胶 SZ-2080 中引发 TPP。三维平移台用于控制激光焦点的相对位置。在另一光路中，来自 LED 的光通过反射镜、分束镜、二向色镜和物镜照射制备的样品。样品图像由 CCD 捕获。详细的制备示意图见图 2(b)，其中折射率匹配液和光刻胶分别沉积在玻璃基板的两侧。注意，在制备前，将一滴光刻胶滴在玻璃基板上，然后在 100 °C 下预烘 30 分钟。飞秒激光 TPP 可以轻松地将相位信息转换为高度轮廓。对于入射光波长 λ 和光刻胶折射率 n_p，高度 h(x, y) 与相位分布 φ(x, y) 之间的关系表示为： [公式] 图 2(c) 显示了我们设计的 m=2, q=12 的偶数 MPP。与图 1(a) 相比，它增加了一个相位为零的边沿。设计 MPP 的高度轮廓如图 2(f) 所示，λ=1.55 μm，n_p=1.5，其中 0 和 π 的二元相位对应于 0 和 1.55 μm 的高度。采用逐层扫描方法制备我们设计的结构。激光诱导聚合后，样品在甲基异丁基酮中显影 10 分钟以去除残留物，然后在异丙醇中浸泡 5 分钟。我们将多个 MPP 集成在一个基底上，如图 2(d) 所示。m=2, q=12 的 MPP 通过扫描电子显微镜（SEM）表征，如图 2(e) 所示。为了定量表征其高度轮廓，我们使用 3D 激光扫描共聚焦显微镜（VK-X1100，KEYENCE）测量了制备的 MPP。制备的 MPP 的表面轮廓 [图 2(g)] 与设计 [图 2(f)] 一致。为了便于可视化，我们在图 2(f) 和 2(g) 中将高度放大了 20 倍。轮廓图像中的色条显示制备过程引起的约 0.2 μm 的误差，这会损害产生的光束质量。然而，进一步的 MG 光束实验表征表明，这种微小误差对生成的 MG 光束质量影响很小。除具有二元相位分布的偶数 MPP 外，我们还制备了具有涡旋波前的螺旋 MPP。图 3(a) 绘制了 m=3, q=2 的螺旋 MPP 的相位分布。可以看出，它具有多个同心环，并带有螺旋波前。制备的螺旋 MPP 使用 SEM 表征，如图 3(b) 所示。其高度轮廓被定量测量，如图 3(c) 所示。为了便于可视化，我们将高度放大了 5 倍。从图 2(g) 和 3(c) 可以看出，制备的偶数和螺旋 MPP 存在高度误差。这些误差将进一步影响相位调制，从而可能降低光束质量。在制备层面，忽略平移系统误差时，有两种类型的误差。一种是由设计和实际波长 λ 或光刻胶折射率 n_p 之间的差异引起的整体高度误差，根据公式 (4)。在这种情况下，整体相位调制将按比例缩放，如图 4(a) 所示。图中，二元相位不是理想的 0 和 π，而是 0 和 0.9π。另一种误差是由 TPP 的逐层制备方法引起的。实际上，层间距不是无限小。因此，在制备连续相位板时总会存在台阶，如图 3(c) 所示。在这种情况下，相位调制也被离散化，如图 4(b) 所示。我们分析了这些调制误差如何影响偶数和螺旋情况下的光束质量，如图 4(c) 和 4(d) 所示。这里，我们使用重叠积分来衡量理想光束与实际光束之间的相似性。效率用于衡量产生光束的能量损失。在图 4(c) 和 4(d) 中，红色圆圈和橙色方块分别表示当相位值离散化为 31 个水平（对应于我们的制备）时的重叠积分和效率。标记上的误差棒表示由于离散化相位值水平不同引起的重叠积分和效率的偏差。我们模拟了理想相位分布和 15 个离散化水平的情况。在 31 个相位值水平的情况下（见标记），我们可以在图 4(c) 中看到，偶数马蒂厄光束的重叠积分在不同相位调制下均高于 99.5%。光束效率在相位调制小于 2.2π 时随调制增加而增加，之后缓慢下降。在图 4(d) 中，重叠积分和效率具有相同的趋势。它们在相位调制约为 2.1π 时达到最高值。最高值未出现在 2π 相位调制处是反直觉的。这是因为离散化的相位值使最优重叠积分和效率发生偏离。当考虑无离散化的理想相位分布时，偶数和螺旋情况下的效率和重叠积分上限在相位调制为理想 2π 时达到峰值。此外，我们绘制了两种情况下相位调制为 1.8π、2.0π 和 2.2π 时马蒂厄光束的强度分布。\n> \n> 术语：cylindrical elliptical coordinates: 椭圆柱坐标系；semimajor and semiminor axes: 长半轴和短半轴；focus distance: 焦距；radial (modified) and angular Mathieu functions: 径向（修正）和角向马蒂厄函数；normalized coefficients: 归一化系数；4-f system: 4-f 系统，一种由两个透镜组成的光学系统，用于空间滤波和成像；Gaussian beam: 高斯光束，横向强度分布为高斯函数的光束；Fourier spectra: 傅里叶谱；beam waist: 束腰，高斯光束最窄处的半径；charge-coupled device (CCD): 电荷耦合器件，一种图像传感器；photoresist: 光刻胶；methyl isobutyl ketone: 甲基异丁基酮；isopropanol: 异丙醇；scanning electron microscopy (SEM): 扫描电子显微镜；3D laser scanning confocal microscope: 3D 激光扫描共聚焦显微镜；overlap integral: 重叠积分，衡量两个函数相似程度的积分；efficiency: 效率，此处指光束的能量转换效率；binary phase: 二元相位，只有两个离散相位值的相位分布；vortex wavefront: 涡旋波前，具有螺旋相位结构的波前。\n> \n> 3 Characterization of the MG Beams 3 MG光束的表征\n> \n> The experimental setup for generating and characterizing even MG beams is depicted in Fig. 5. With the help of the 4-f system, the collimated laser beam is transformed into MG beams of even parity. The beam expander is used to narrow the laser beam illuminating the MPPs. Lens 1 and Lens 2, with different focal lengths (30 and 300 mm, respectively), are used to enlarge the generated MG beams so that the CCD can fully record. The right-angle prism (RAP) mounted on a translation stage is used as an optical delay. It enables us to measure the intensity distribution of MG beams along the optical axis. We design and fabricate the even MPPs with different orders (m = 0, 1, 2) and ellipticity parameters (q = 12, 24, 36). The intensity distributions of beams at the Fourier plane are measured, as shown in Fig. 6. We can see that bright centers exist in the Fourier spectra compared to our simulation in Fig. 1(a1). This is because the beam illuminating the MPPs is slightly oversized. The beam that exceeds the MPPs will be transformed into a low-frequency component in Fourier spectra. After filtering at the back focal plane of Lens 1, the MG beams are reconstructed at the back focal plane of Lens 2. The generated even MG beams with different m and q are demonstrated in Fig. 7. They are similar to the ideal even MG beams described by Eq. (2). We also measure the energy efficiency of the produced even MG beam with m = 2 and q = 12, whose energy efficiency is about 40%. It is slightly lower than the simulated value of 54.5% because of the additional loss caused by the input Gaussian beam beyond the range of MPPs. To further test the propagation invariance of the resulting MG beams, we take the even MPP with m = 2 and q = 12 as an example, measuring its intensity distributions at different propagation distances. The measured results are shown in Fig. 8(a), where we record from Z = 100 mm to Z = 800 mm (Z = 0 mm refers to the back focal plane of Lens 2). In addition, the axial intensity distribution of the propagating beam is measured and plotted in Fig. 8(b). It shows that the generated MG beam is approximately diffraction-free within 800 mm. We present experimental results of helical MG beams with different parameters m and q, as shown in Fig. 9. The elliptical rings are obtained when normalized coefficients A_m(q) and B_m(q) are equal.25 It can be seen that with the increase in order m, the eccentricity of the innermost ring increases. In addition, to verify the nondiffracting property of the helical MG beams, we experimentally present the helical MG beam with m = 3 and q = 2. Figure 10(a) plots the transverse intensity distribution of helical MG beam at different propagation distances from Z = 100 mm to Z = 800 mm. Moreover, the corresponding axial intensity distribution along the propagation is recorded, as depicted in Fig. 10(b). The results show characteristics of propagation invariance of the helical MG beam within 800 mm. The obtained results in Figs. 6–10 indicate the successful generation of even and helical Mathieu beams with impressive performance. The TPP-based MPPs that we fabricated have a compact size of 300 μm with 100-nm spatial accuracy. These generated Mathieu beams with high quality can be applied to the cutting-edge research field and areas where there is a need for device miniaturization.\n> \n> 翻译：产生和表征偶数 MG 光束的实验装置如图 5 所示。借助 4-f 系统，准直激光束被转换为偶数宇称的 MG 光束。扩束器用于缩小照射 MPP 的激光束。透镜 1 和透镜 2 具有不同的焦距（分别为 30 mm 和 300 mm），用于放大产生的 MG 光束，以便 CCD 能够完整记录。安装在一维平移台上的直角棱镜（RAP）用作光学延迟线，使我们能够测量沿光轴的 MG 光束强度分布。我们设计并制备了不同阶数（m=0, 1, 2）和椭圆参数（q=12, 24, 36）的偶数 MPP。在傅里叶平面测量了光束的强度分布，如图 6 所示。与图 1(a1) 的模拟相比，我们可以看到傅里叶谱中存在亮中心。这是因为照射 MPP 的光束略有过大，超出 MPP 的部分光束将在傅里叶谱中转换为低频分量。在透镜 1 的后焦面进行滤波后，MG 光束在透镜 2 的后焦面被重建。不同 m 和 q 的生成偶数 MG 光束如图 7 所示。它们与公式 (2) 描述的理偶数 MG 光束相似。我们还测量了 m=2, q=12 的偶数 MG 光束的能量效率，约为 40%，略低于模拟值 54.5%，这是由于输入高斯光束超出 MPP 范围引起的额外损耗。为了进一步测试所得 MG 光束的传播不变性，我们以 m=2, q=12 的偶数 MPP 为例，测量了不同传播距离下的强度分布。测量结果如图 8(a) 所示，记录范围从 Z=100 mm 到 Z=800 mm（Z=0 mm 对应透镜 2 的后焦面）。此外，还测量并绘制了传播光束的轴向强度分布，如图 8(b) 所示。结果表明，生成的 MG 光束在 800 mm 内近似无衍射。我们展示了不同参数 m 和 q 的螺旋 MG 光束的实验结果，如图 9 所示。当归一化系数 A_m(q) 和 B_m(q) 相等时，可获得椭圆环。25 可以看出，随着阶数 m 的增加，最内环的离心率增大。此外，为了验证螺旋 MG 光束的无衍射特性，我们实验展示了 m=3, q=2 的螺旋 MG 光束。图 10(a) 绘制了从 Z=100 mm 到 Z=800 mm 不同传播距离下螺旋 MG 光束的横向强度分布。此外，还记录了相应的沿传播方向的轴向强度分布，如图 10(b) 所示。结果表明螺旋 MG 光束在 800 mm 内具有传播不变性。图 6-10 的结果表明，成功产生了性能优异的偶数和螺旋马蒂厄光束。我们制备的基于 TPP 的 MPP 具有 300 μm 的紧凑尺寸和 100 nm 的空间精度。这些高质量马蒂厄光束可应用于前沿研究领域及需要器件小型化的场合。\n> \n> 术语：beam expander: 扩束器；right-angle prism (RAP): 直角棱镜；optical delay: 光学延迟线；axial intensity distribution: 轴向强度分布；eccentricity: 离心率。\n> \n> 4 Conclusion 4 结论\n> \n> In summary, we have proposed, designed, and fabricated even and helical MPPs. The femtosecond laser TPP process has been utilized to fabricate MPPs with high accuracy, proving its ability in nanofabrication with rapidity and flexibility. The MG beams with high quality have been experimentally demonstrated using the MPPs. Also, their diffraction-free characteristics have been verified. Our method can achieve even more compact MPPs with micrometer size, which may facilitate future miniature applications of nondiffracting beams in optical communications, optical trapping, laser processing, and more.\n> \n> 翻译：总之，我们提出、设计并制备了偶数和螺旋 MPP。利用飞秒激光 TPP 工艺高精度地制备了 MPP，证明了其快速、灵活性的纳米制造能力。使用 MPP 实验验证了高质量 MG 光束，并验证了其无衍射特性。我们的方法可以实现微米尺寸的更紧凑 MPP，这可能促进未来无衍射光束在光通信、光捕获、激光加工等领域的微型化应用。\n> \n> 然后是致谢、数据可用性、参考文献、作者简介。参考文献是列表，按顺序编号。我们需要处理参考文献列表，但可能不需要翻译，只需保留原文，或者提供翻译？规范要求原文信息零遗漏，所以参考文献也要保留，可能提供中文翻译？看起来参考文献是单独的部分，不需要翻译，但按照要求，所有内容都要有中文翻译，可能连同参考文献也要翻译？但通常参考文献不翻译，保留原文。但任务说“逐单元进行准确翻译”，可能包括参考文献。然而，参考文献的翻译可能简单，只需复制并翻译标题？我认为可以保留原文，并添加中文翻译（如标题的翻译）。但工作量较大，且最终输出可能过长。我们可酌情处理：参考文献部分，每个文献条目先英文原文，然后中文翻译（翻译标题等）。但参考文献数量多，我们可以简化，只翻译条目中的重要信息，但规范要求全翻译。我们遵循要求，逐单元翻译。参考文献列表可以作为有序列表，每条文献为一个单元，英文原文，然后中文翻译。但参考文献条目通常包含作者、标题、期刊等，翻译时保留原标题，只翻译作者和期刊名等？不，整体翻译。我们可以将每条参考文献作为一个列表项，英文原文，然后中文翻译，可能添加术语解释。但术语解释非强制。我们就这样做。\n> \n> 现在按照这个思路构建最终Markdown。注意公式的表示：我们将原文中的公式用LaTeX重写，因为原文是PDF提取的，有很多乱码。我们将其转换为正确的LaTeX公式，以便Markdown显示。但任务要求“保留原始格式”，但原文格式是乱码，我们应恢复为可读公式。可以在英文原文中恢复公式，并用`$...$`或`$$",
+      "page": "-"
+    },
+    {
+      "id": "eq4",
+      "title": "Equation 4",
+      "content": "$$`包裹。对于块公式，使用`$$",
+      "page": "-"
+    },
+    {
+      "id": "eq5",
+      "title": "Equation 5",
+      "content": "$$ \\begin{cases} x = c \\cosh(\\xi) \\cos(\\eta) \\ y = c \\sinh(\\xi) \\sin(\\eta) \\ c^2 = a^2 - b^2; \\end{cases} \\qquad \\xi \\ge 0,\\ 0 \\le \\eta < 2\\pi \\tag{1} $$",
+      "page": "-"
+    },
+    {
+      "id": "eq6",
+      "title": "Equation 6",
+      "content": "$$ \\begin{cases} M_e(\\xi, \\eta, z; q) = Ce_m(\\xi; q) ce_m(\\eta; q) \\exp(ik_z z) \\ M_o(\\xi, \\eta, z; q) = Se_m(\\xi; q) se_m(\\eta; q) \\exp(ik_z z) \\ M_h(\\xi, \\eta, z; q) = [A_m(q) Ce_m(\\xi; q) ce_m(\\eta; q) + i B_m(q) Se_m(\\xi; q) se_m(\\eta; q)] \\exp(ik_z z); \\end{cases} \\tag{2} $$",
+      "page": "-"
+    },
+    {
+      "id": "eq7",
+      "title": "Equation 7",
+      "content": "$$ \\begin{cases} R = \\dfrac{k_t \\lambda f_1}{2\\pi} \\ \\Delta R = \\dfrac{2\\lambda f_1}{\\omega_0 \\pi}; \\end{cases} \\tag{3} $$",
+      "page": "-"
+    },
+    {
+      "id": "eq8",
+      "title": "Equation 8",
+      "content": "$$ h(x, y) = \\frac{\\lambda \\varphi(x, y)}{2\\pi (n_p - 1)}. \\tag{4} $$",
+      "page": "-"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

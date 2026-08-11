@@ -5,105 +5,93 @@
     {
       "fig_number": "0",
       "title": "Figure 0",
-      "llm_description": "with the static polarization P0. Data points (dots) are shown alongside fits   of the temporal dynamics (lines). d, tr-RKerr signals for several incident   pump fluences at 2.4 K. Experimental data (dots) are shown alongside fits to   a damped oscillator model (lines). The curves have been verticall",
+      "llm_description": "with the static polarization P0. Data points (dots) are shown alongside fits   of the temporal dynamics (lines). d, tr-RKerr signals for several incident   pump fluences at 2.4 K. Experimental data (dots) are shown alongside fits to   a damped oscillator model (lines). The curves have been vertically offset for  clarity. e, The initial oscillatory phases, Φ, obtained from the fits of the tr-SHG  and tr-RKerr signals are shown as a function of incident pump fluence  (Supplementary Note 5). All er",
       "page": "5",
-      "attachment_key": "JPM6T3QK",
-      "file": "fig_0_JPM6T3QK.png",
+      "attachment_key": "3WFK8P8H",
+      "file": "fig_0_3WFK8P8H.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "DFT",
-        "first-principles",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "1",
-      "title": "NiI2的晶体结构和电磁子模式 (Crystal structure and electromagnon modes of NiI2)",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "Extended Data Fig. 1 | Optical absorption spectrum of NiI2 at 5 K. Light  attenuation coefficient as a function of photon energy. A set of d−d transitions  and exciton states emerge across the near-infrared spectral range. The vertical  bars denote the photon energies used in our pump (ħωpump = 1.13 eV) and probe  (ħωprobe = 1.20 eV) experiment. Data is adapted from ref. 52.",
       "page": "10",
-      "attachment_key": "E272NNTW",
-      "file": "fig_1_E272NNTW.png",
+      "attachment_key": "8V5GWLM9",
+      "file": "fig_1_8V5GWLM9.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "DFT",
-        "first-principles",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "2",
-      "title": "静态和瞬态SHG偏振测量 (Static and transient SHG polarimetry)",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "Extended Data Fig. 2 | EMo energy in the tr-SHG data. Temperature-dependent EMo energies obtained from fits of the tr-SHG data in Fig. 2b (circles) are shown  alongside a guide to the eye (line).",
       "page": "11",
-      "attachment_key": "MTVSKFT7",
-      "file": "fig_2_MTVSKFT7.png",
+      "attachment_key": "S3NZQZ25",
+      "file": "fig_2_S3NZQZ25.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "DFT",
-        "first-principles",
-        "Raman"
-      ]
-    },
-    {
-      "fig_number": "3",
-      "title": "电极化和磁化动力学 (Electric polarization and magnetization dynamics)",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
-      "tags": [
-        "Done"
-      ],
-      "materials": [],
-      "methods": [
-        "DFT",
-        "first-principles",
-        "Raman"
-      ]
+      "methods": []
     },
     {
       "fig_number": "4",
-      "title": "电磁子动态磁电耦合 (Electromagnon dynamical magnetoelectric coupling)",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4 | Electromagnon dynamical magnetoelectric coupling.   a, Time-dependent modulations of the two-dimensional electric polarization  and magnetization extracted for EMo from the tr-SHG (blue dots, lines) and  tr-RKerr measurements (red dots, lines). Theoretical electric polarization   and magnetization dynamics of the EMo mode obtained from DFT calculations  and presented assuming a phenomenological damping rate (filled areas). To  clarify the oscillatory dynamics, the experimental data were",
       "page": "6",
-      "attachment_key": "SXLNWHLQ",
-      "file": "fig_4_SXLNWHLQ.png",
+      "attachment_key": "VW7A6NTD",
+      "file": "fig_4_VW7A6NTD.png",
       "tags": [
         "Done"
       ],
       "materials": [],
-      "methods": [
-        "DFT",
-        "first-principles",
-        "Raman"
-      ]
+      "methods": []
     }
   ],
   "tables": [
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Giant chiral magnetoelectric oscillations in a van der Waals multiferroic|\n|短标题|范德华多铁氧体中的巨手征磁电振荡|\n|作者|[[Frank Y. Gao]]、 [[Xinyue Peng]]、 [[Xinle Cheng]]、 [[Emil Viñas Boström]]、 [[Dong Seob Kim]]、 [[Ravish K. Jain]]、 [[Deepak Vishnu]]、 [[Kalaivanan Raju]]、 [[Raman Sankar]]、 [[Shang-Fan Lee]]、 [[Michael A. Sentef]]、 [[Takashi Kurumaji]]、 [[Xiaoqin Li]]、 [[Peizhe Tang]]、 [[Angel Rubio]]、 [[Edoardo Baldini]]|\n|期刊名称|[[Nature]]|\n|DOI|[10.1038/s41586-024-07678-5](https://doi.org/10.1038/s41586-024-07678-5)|\n|存档位置|60|\n|文库编目|56.1|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/6EUPMMEH)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/I2PKUV7C)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Giant chiral magnetoelectric oscillations in a van der Waals multiferroic|\n|短标题|范德瓦尔斯多铁材料中的巨手征磁电振荡|\n|作者|[[Frank Y. Gao]]、 [[Xinyue Peng]]、 [[Xinle Cheng]]、 [[Emil Viñas Boström]]、 [[Dong Seob Kim]]、 [[Ravish K. Jain]]、 [[Deepak Vishnu]]、 [[Kalaivanan Raju]]、 [[Raman Sankar]]、 [[Shang-Fan Lee]]、 [[Michael A. Sentef]]、 [[Takashi Kurumaji]]、 [[Xiaoqin Li]]、 [[Peizhe Tang]]、 [[Angel Rubio]]、 [[Edoardo Baldini]]|\n|期刊名称|[[Nature]]|\n|DOI|[10.1038/s41586-024-07678-5](https://doi.org/10.1038/s41586-024-07678-5)|\n|存档位置|60|\n|文库编目|56.1|\n|索书号|1|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/6EUPMMEH)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/I2PKUV7C)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "8",
+      "attachment_key": "D5NQ7QGN",
+      "file": "eq_1_D5NQ7QGN.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "8",
+      "attachment_key": "SSMC39XB",
+      "file": "eq_2_SSMC39XB.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(3)",
+      "page": "9",
+      "attachment_key": "BNPT6UL7",
+      "file": "eq_3_BNPT6UL7.png"
+    }
+  ],
   "tags": [
     "Done"
   ],
   "materials": [],
-  "methods": [
-    "DFT",
-    "first-principles",
-    "Raman"
-  ]
+  "methods": []
 }

@@ -1,0 +1,163 @@
+{
+  "parent_key": "khazaeiNovelElectronicMagnetic2013",
+  "title": "khazaeiNovelElectronicMagnetic2013",
+  "figures": [
+    {
+      "fig_number": "0",
+      "title": "Figure 0",
+      "llm_description": "determined using the Methfessel–Paxton smearing with smearing width of 0.1 eV. [ 18 ] To avoid any intThe dotted lines exhibit the A-type and B-type hollow sites desthe text. For simplicity, only the fi rst and second layers of the shown in the top view.",
+      "page": "2",
+      "attachment_key": "A944QDPD",
+      "file": "fig_0_A944QDPD.png",
+      "tags": [
+        "方法：第一性原理计算",
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [
+        "MXenes及其变体"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "rgies of  unction  of the fully terminated Ti 2 C with ox Figure  4 . Results show that all phono",
+      "page": "4",
+      "attachment_key": "7VHUK5LE",
+      "file": "fig_2_7VHUK5LE.png",
+      "tags": [
+        "方法：第一性原理计算",
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [
+        "MXenes及其变体"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "2013",
+      "title": "Figure 2013",
+      "llm_description": "VCH Verlag GmbH &amp; Co. KGaA, Weinheim Adv. Funct. Mater. 2013, 23, nward,  true, as  onto A-/B-type hollow site. Fermi energy is at zero. For semicoit is shifted to the center of the gap.",
+      "page": "6",
+      "attachment_key": "9WCGT42E",
+      "file": "fig_2013_9WCGT42E.png",
+      "tags": [
+        "方法：第一性原理计算",
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [
+        "MXenes及其变体"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "2188",
+      "title": "Figure 2188",
+      "llm_description": "2188 wileyonlinelibrary.com © 2013 WILEY-V",
+      "page": "4",
+      "attachment_key": "MQYN57K6",
+      "file": "fig_2188_MQYN57K6.png",
+      "tags": [
+        "方法：第一性原理计算",
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [
+        "MXenes及其变体"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Fermi energy shifts downward to the center of the garating Ti-d and C-p bands, see Figure  6 e, which explaie lower   and N)   metals  to both  xample  the gap.",
+      "page": "5",
+      "attachment_key": "L6YM244Q",
+      "file": "fig_6_L6YM244Q.png",
+      "tags": [
+        "方法：第一性原理计算",
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [
+        "MXenes及其变体"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "As might be apparent from  Figures  7 a,b similar to tcase the Fermi energy of pristine Sc 2 C locates in the Sc-dof the gap.",
+      "page": "6",
+      "attachment_key": "2JKX7NVX",
+      "file": "fig_7_2JKX7NVX.png",
+      "tags": [
+        "方法：第一性原理计算",
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [
+        "MXenes及其变体"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "850",
+      "title": "Figure 850",
+      "llm_description": "(850  μ V/K around 90 K). [ 26 ] It is noteworthy that althoeets at  dy was  c struc-e layers  studied  are located at  − 0.12 and 0.12 eV, and for Sc 2 C(OH) 2 are located and 0.225 eV.",
+      "page": "7",
+      "attachment_key": "F5TPYD5G",
+      "file": "fig_850_F5TPYD5G.png",
+      "tags": [
+        "方法：第一性原理计算",
+        "unread",
+        "参考文献-layer"
+      ],
+      "materials": [
+        "MXenes及其变体"
+      ],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "ULL PA  F OH  Cr 2 C",
+      "page": "8",
+      "attachment_key": "H34HFH2L",
+      "file": "tab_2_H34HFH2L.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table><thead><tr><th>M2C or M2N</th><th>F</th><th>OH</th><th>O</th></tr></thead><tbody><tr><td>Sc2C</td><td></td><td></td><td></td></tr><tr><td>1</td><td>−37.87</td><td>−49.12</td><td>−40.61</td></tr><tr><td>2</td><td>−37.87</td><td>−49.12</td><td>−40.61</td></tr><tr><td>3</td><td>−37.29</td><td>−48.75</td><td>−41.22</td></tr><tr><td>4</td><td>−36.66</td><td>−48.35</td><td>−41.083</td></tr><tr><td>Ti2C</td><td></td><td></td><td></td></tr><tr><td>1</td><td>−39.34</td><td>−51.03</td><td>−43.68</td></tr><tr><td>2</td><td>−39.36</td><td>−51.03</td><td>−44.46</td></tr><tr><td>3</td><td>−39.15</td><td>−50.91</td><td>−43.69</td></tr><tr><td>4</td><td>−38.82</td><td>−50.72</td><td>−42.71</td></tr><tr><td>Ti2N</td><td></td><td></td><td></td></tr><tr><td>1</td><td>−39.91</td><td>−51.66</td><td>−44.84</td></tr><tr><td>2</td><td>−39.92</td><td>−51.66</td><td>–45.40</td></tr><tr><td>3</td><td>−39.50</td><td>−51.40</td><td>−44.87</td></tr><tr><td>4</td><td>−39.50</td><td>−51.40</td><td>−44.25</td></tr><tr><td>Zr2C</td><td></td><td></td><td></td></tr><tr><td>1</td><td>−41.21</td><td>−52.82</td><td>−46.35</td></tr><tr><td>2</td><td>−41.21</td><td>−52.80</td><td>−46.99</td></tr><tr><td>3</td><td>−41.13</td><td>−52.82</td><td>−46.12</td></tr><tr><td>4</td><td>−40.89</td><td>−52.69</td><td>−45.03</td></tr><tr><td>Zr2N</td><td></td><td></td><td></td></tr><tr><td>1</td><td>−41.47</td><td>−53.13</td><td>−47.72</td></tr><tr><td>2</td><td>−41.47</td><td>−53.20</td><td>−47.72</td></tr><tr><td>3</td><td>−41.12</td><td>−53.01</td><td>−47.28</td></tr><tr><td>4</td><td>−41.32</td><td>−53.13</td><td>−46.62</td></tr><tr><td>Hf2C</td><td></td><td></td><td></td></tr><tr><td>1</td><td>−44.04</td><td>−55.88</td><td>−50.77</td></tr><tr><td>2</td><td>−44.07</td><td>−55.88</td><td>−50.77</td></tr><tr><td>3</td><td>−44.04</td><td>−55.88</td><td>−49.78</td></tr><tr><td>4</td><td>−43.79</td><td>−55.73</td><td>−48.58</td></tr><tr><td>Hf2N</td><td></td><td></td><td></td></tr><tr><td>1</td><td>−42.51</td><td>−55.93</td><td>−50.82</td></tr><tr><td>2</td><td>−43.87</td><td>−55.92</td><td>−51.29</td></tr><tr><td>3</td><td>−43.63</td><td>−55.77</td><td>−50.82</td></tr><tr><td>4</td><td>−43.95</td><td>−55.93</td><td>−50.11</td></tr><tr><td>V2C</td><td></td><td></td><td></td></tr><tr><td>1</td><td>−38.20</td><td>−50.12</td><td>−41.76</td></tr><tr><td>2</td><td>−39.10</td><td>−50.97</td><td>−44.03</td></tr><tr><td>3</td><td>−38.59</td><td>−50.58</td><td>−43.77</td></tr><tr><td>4</td><td>−38.68</td><td>−50.73</td><td>−43.40</td></tr><tr><td>Nb2C</td><td></td><td></td><td></td></tr><tr><td>1</td><td>−40.10</td><td>−52.08</td><td>−47.08</td></tr><tr><td>2</td><td>−41.39</td><td>−53.26</td><td>−47.09</td></tr><tr><td>3</td><td>−40.91</td><td>−52.92</td><td>−46.91</td></tr><tr><td>4</td><td>−41.17</td><td>−53.21</td><td>−46.57</td></tr><tr><td>Ta2C</td><td></td><td></td><td></td></tr><tr><td>1</td><td>−43.97</td><td>−55.95</td><td>−51.46</td></tr><tr><td>2</td><td>−44.62</td><td>−56.70</td><td>−51.46</td></tr><tr><td>3</td><td>−44.15</td><td>−56.33</td><td>−51.29</td></tr><tr><td>4</td><td>−44.56</td><td>−56.75</td><td>−50.89</td></tr><tr><td>Cr2C</td><td></td><td></td><td></td></tr><tr><td>1</td><td>−37.26</td><td>−49.38</td><td>−41.00</td></tr><tr><td>2</td><td>−37.71</td><td>−49.59</td><td>−42.53</td></tr><tr><td>3</td><td>−37.50</td><td>−49.45</td><td>−42.59</td></tr><tr><td>4</td><td>−37.14</td><td>−49.19</td><td>−42.71</td></tr><tr><td>Cr2N</td><td></td><td></td><td></td></tr><tr><td>1</td><td>−36.96</td><td>−49.12</td><td>−40.87</td></tr><tr><td>2</td><td>−38.13</td><td>−49.90</td><td>−43.35</td></tr><tr><td>3</td><td>−38.13</td><td>−49.82</td><td>−43.00</td></tr><tr><td>4</td><td>−38.11</td><td>−48.75</td><td>−43.05</td></tr></tbody></table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table><thead><tr><th>MXene systems</th><th>F</th><th>OH</th><th>O</th></tr></thead><tbody><tr><td>Sc2C</td><td>−12.14</td><td>−10.48</td><td>−9.35</td></tr><tr><td>Ti2C</td><td>−10.85</td><td>−9.61</td><td>−9.81</td></tr><tr><td>Ti2N</td><td>−10.68</td><td>−9.51</td><td>−9.49</td></tr><tr><td>Zr2C</td><td>−11.26</td><td>−9.95</td><td>−10.90</td></tr><tr><td>Zr2N</td><td>−10.94</td><td>−9.75</td><td>−11.05</td></tr><tr><td>Hf2C</td><td>−11.183</td><td>−10.09</td><td>−11.74</td></tr><tr><td>Hf2N</td><td>−10.55</td><td>−9.62</td><td>−11.75</td></tr><tr><td>V2C</td><td>−9.30</td><td>−8.26</td><td>−8.09</td></tr><tr><td>Nb2C</td><td>−9.36</td><td>−8.32</td><td>−8.92</td></tr><tr><td>Ta2C</td><td>−9.03</td><td>−8.26</td><td>−9.73</td></tr><tr><td>Cr2C</td><td>−8.04</td><td>−7.00</td><td>−6.89</td></tr><tr><td>Cr2N</td><td>−8.61</td><td>−7.47</td><td>−7.70</td></tr></tbody></table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Novel Electronic and Magnetic Properties of Two‐Dimensional Transition Metal Carbides and Nitrides|\n|短标题|二维过渡金属碳化物和氮化物的新型电子和磁性|\n|作者|[[Mohammad Khazaei]]、 [[Masao Arai]]、 [[Taizo Sasaki]]、 [[Chan‐Yeup Chung]]、 [[Natarajan S. Venkataramanan]]、 [[Mehdi Estili]]、 [[Yoshio Sakka]]、 [[Yoshiyuki Kawazoe]]|\n|期刊名称|[[Advanced Functional Materials]]|\n|DOI|[10.1002/adfm.201202502](https://doi.org/10.1002/adfm.201202502)|\n|存档位置|1843|\n|文库编目|19.0|\n|索书号|1|\n|版权|http://onlinelibrary.wiley.com/termsAndConditions#vor|\n|分类|[[02_中性-离子转变 (Neutral-Ionic Transition)]]|\n|条目链接|[My Library](zotero://select/library/items/56A6M56D)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/XGPWF34B\">Khazaei 等 - 2013 - Novel Electronic and Magnetic Properties of Two‐Dimensional Transition Metal Carbides and Nitrides</a></li><li><a href=\"zotero://open-pdf/library/items/Q2NUY4VH\">Khazaei 等 - 2013 - Novel Electronic and Magnetic Properties of Two‐Dimensional Transition Metal Carbides and Nitrides.pdf</a></li><li><a href=\"zotero://open-pdf/library/items/HHE4U4Y9\">Khazaei 等 - 2013 - Novel Electronic and Magnetic Properties of Two‐Dimensional Transition Metal Carbides and Nitrides.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "方法：第一性原理计算",
+    "unread",
+    "参考文献-layer"
+  ],
+  "materials": [
+    "MXenes及其变体"
+  ],
+  "methods": []
+}

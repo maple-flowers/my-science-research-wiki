@@ -5,115 +5,219 @@
     {
       "fig_number": "1",
       "title": "Figure 1",
-      "llm_description": "FIG. 1.The reciprocal of the susceptibility as a function of temperature above the Curie point.Formula · 第 1 页Formula · 第 1 页Formula 1 · 第 1 页(1)Formula 2 · 第 1 页(2)Formula · 第 1 页",
+      "llm_description": "FIG. 1.The reciprocal of the susceptibility as a function of temperature above the Curie point.",
       "page": "1",
-      "attachment_key": "Q7PLQCKP",
-      "file": "fig_1_Q7PLQCKP.png",
+      "attachment_key": "JGCCWFME",
+      "file": "fig_1_JGCCWFME.png",
       "tags": [
         "参考文献-layer"
       ],
       "materials": [],
-      "methods": [
-        "第一性原理",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "FK&#39;. 2. Enlargement of Fig. 1 near the Curie point for nickel, to illustrate the distinction between the para-magnetic Curie point Tq and the ferromagnetic one Tq&#39;,Formula · 第 2 页",
+      "llm_description": "FK&#39;. 2. Enlargement of Fig. 1 near the Curie point for nickel, to illustrate the distinction between the para-magnetic Curie point Tq and the ferromagnetic one Tq&#39;,",
       "page": "2",
-      "attachment_key": "TWLUV2T2",
-      "file": "fig_2_TWLUV2T2.png",
+      "attachment_key": "EV7HIL9D",
+      "file": "fig_2_EV7HIL9D.png",
       "tags": [
         "参考文献-layer"
       ],
       "materials": [],
-      "methods": [
-        "第一性原理",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "FIG. 3. Saturation intensity of magnetization as a func-tion of temperature, in reduced units. The abscissa is the ratio of the temperature to the Curie temperature, and the ordinate is the ratio of&#39;the saturation intensity of mag-netization to the value of this intensity at the absolute zero. T",
+      "llm_description": "FIG. 3. Saturation intensity of magnetization as a func-tion of temperature, in reduced units. The abscissa is the ratio of the temperature to the Curie temperature, and the ordinate is the ratio of&#39;the saturation intensity of mag-netization to the value of this intensity at the absolute zero. The curve S= ~ is for the classical theory of gneiss. The other curves are based on the Brillouin rather than Langevin function, and are the corresponding quantum-theory versions appropriate to a spin ",
       "page": "3",
-      "attachment_key": "SWGR9GNA",
-      "file": "fig_3_SWGR9GNA.png",
+      "attachment_key": "BWKBMTLT",
+      "file": "fig_3_BWKBMTLT.png",
       "tags": [
         "参考文献-layer"
       ],
       "materials": [],
-      "methods": [
-        "第一性原理",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "4",
       "title": "Figure 4",
-      "llm_description": "FK&quot;. 4. The left side of the 6gure gives the saturation intensity of rnag-netization measured relative to the value at the absolute zero, as a function of the reduced temperature below the Curie point in Stoner&#39;s theory. The ordinate for the right side, which applies above the Curie tempera",
+      "llm_description": "FK&quot;. 4. The left side of the 6gure gives the saturation intensity of rnag-netization measured relative to the value at the absolute zero, as a function of the reduced temperature below the Curie point in Stoner&#39;s theory. The ordinate for the right side, which applies above the Curie temperature, is proportional to the reciprocal of the susceptibility. The various curves are for different values of a parameter k8&#39;/eo which is proportional to the ratio of the exchange integral to the ",
       "page": "12",
-      "attachment_key": "Q2LQUJUJ",
-      "file": "fig_4_Q2LQUJUJ.png",
+      "attachment_key": "LTZBJ47J",
+      "file": "fig_4_LTZBJ47J.png",
       "tags": [
         "参考文献-layer"
       ],
       "materials": [],
-      "methods": [
-        "第一性原理",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "5",
       "title": "Figure 5",
-      "llm_description": "FIG. 5. This figure shows that for certain values of the exchange integral the saturation intensity of magnetization at the absolute zero in the Stoner theory is less than that corresponding to complete parallelism of the spins. The ordinate is the ratio of the saturation moment at T=0 to the value ",
+      "llm_description": "FIG. 5. This figure shows that for certain values of the exchange integral the saturation intensity of magnetization at the absolute zero in the Stoner theory is less than that corresponding to complete parallelism of the spins. The ordinate is the ratio of the saturation moment at T=0 to the value which would result were the elementary magnets perfectly parallel. The abscissa is proportional to the ratio of the exchange to Fermi energy.",
       "page": "13",
-      "attachment_key": "KN7YPCIS",
-      "file": "fig_5_KN7YPCIS.png",
+      "attachment_key": "BCMRE37Q",
+      "file": "fig_5_BCMRE37Q.png",
       "tags": [
         "参考文献-layer"
       ],
       "materials": [],
-      "methods": [
-        "第一性原理",
-        "DFT"
-      ]
+      "methods": []
     },
     {
       "fig_number": "6",
       "title": "Figure 6",
-      "llm_description": "FIG. 6. The susceptibility x(T} as a function of the reduced temperature in an anti-ferromagnetic material. The solid curves are theoretical, while the dashed lines are measurements on MnO by Bizette, Squire, and Tsai. The scale of ordinates is such that the susceptibility is unity at the Curie poin",
+      "llm_description": "FIG. 6. The susceptibility x(T} as a function of the reduced temperature in an anti-ferromagnetic material. The solid curves are theoretical, while the dashed lines are measurements on MnO by Bizette, Squire, and Tsai. The scale of ordinates is such that the susceptibility is unity at the Curie point.",
       "page": "19",
-      "attachment_key": "ZYPEJBQY",
-      "file": "fig_6_ZYPEJBQY.png",
+      "attachment_key": "7227PTRL",
+      "file": "fig_6_7227PTRL.png",
       "tags": [
         "参考文献-layer"
       ],
       "materials": [],
-      "methods": [
-        "第一性原理",
-        "DFT"
-      ]
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">章节主题</th>\n<th style=\"text-align:left\">核心论证逻辑</th>\n<th style=\"text-align:left\">关键变量/思想</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\"><strong>外斯分子场</strong></td>\n<td style=\"text-align:left\"><strong>提出问题</strong>：宏观描述成功，但场强起源不明。</td>\n<td style=\"text-align:left\">分子场系数 <code>q</code>，居里温度 <code>T_c</code></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>量子力学到来</strong></td>\n<td style=\"text-align:left\"><strong>提供钥匙</strong>：自旋概念和交换作用解释了大耦合的起源。</td>\n<td style=\"text-align:left\">电子自旋 <code>S</code>，交换积分 <code>J</code>，布里渊函数</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>海森堡模型计算</strong></td>\n<td style=\"text-align:left\"><strong>模型深化</strong>：从束缚电子图像出发，计算磁性行为的复杂性。</td>\n<td style=\"text-align:left\">交换能 <code>-2J_{ij} \\mathbf{S}_i \\cdot \\mathbf{S}_j</code></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>贝特-佩尔斯-外斯方法</strong></td>\n<td style=\"text-align:left\"><strong>方法改进</strong>：一种更精确的处理海森堡模型的新方法。</td>\n<td style=\"text-align:left\">自洽场方法，结构单元，短程有序</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>布洛赫自旋波</strong></td>\n<td style=\"text-align:left\"><strong>低温极限</strong>：处理低温下磁矩偏离饱和的精确理论。</td>\n<td style=\"text-align:left\">自旋波，磁化强度 <code>M(T) \\propto T^{3/2}</code></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>斯托纳模型</strong></td>\n<td style=\"text-align:left\"><strong>对立模型</strong>：从巡游电子图像出发的集体电子理论。</td>\n<td style=\"text-align:left\">能带宽度 <code>\\epsilon_0</code>，费米-狄拉克统计，特征温度 <code>\\theta'</code></td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>弱顺磁性与反铁磁性</strong></td>\n<td style=\"text-align:left\"><strong>理论拓展</strong>：解释为何多数物质不具强磁性。</td>\n<td style=\"text-align:left\">负交换积分，交错晶格，负居里温度 <code>-T_c</code></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">物理量</th>\n<th style=\"text-align:left\">外斯/海森堡（简单近似）</th>\n<th style=\"text-align:left\">布洛赫（自旋波）</th>\n<th style=\"text-align:left\">斯托纳（巡游电子）</th>\n<th style=\"text-align:left\">实验观测</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\"><strong>低温磁化强度 <code>M(T)</code></strong></td>\n<td style=\"text-align:left\">随温度指数下降</td>\n<td style=\"text-align:left\"><code>M(T) = M(0)(1 - A T^{3/2})</code></td>\n<td style=\"text-align:left\"><code>M(T) \\approx M(0)(1 - B T^2)</code></td>\n<td style=\"text-align:left\">对于Fe、Ni，<code>T^{3/2}</code> 律更好；对于某些合金，<code>T^2</code> 律更好。</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>居里点以上 <code>1/\\chi</code> vs. <code>T</code></strong></td>\n<td style=\"text-align:left\">严格的直线（居里-外斯定律）</td>\n<td style=\"text-align:left\">无法处理高温</td>\n<td style=\"text-align:left\">存在一定曲率，特别是近 <code>T_c</code> 处</td>\n<td style=\"text-align:left\">存在微小曲率，但整体近似直线。</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>绝对零度磁矩</strong></td>\n<td style=\"text-align:left\">整数个玻尔磁子</td>\n<td style=\"text-align:left\">整数个玻尔磁子</td>\n<td style=\"text-align:left\">可以是非整数个玻尔磁子</td>\n<td style=\"text-align:left\">是非整数（如Ni为0.6），支持斯托纳模型。</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><strong>比热容</strong></td>\n<td style=\"text-align:left\">不大</td>\n<td style=\"text-align:left\">贡献 <code>\\propto T^{3/2}</code>，量级太小</td>\n<td style=\"text-align:left\">贡献 <code>\\propto T</code>，与“超额比热”观测一致</td>\n<td style=\"text-align:left\">观测到 <code>\\propto T</code> 的“超额比热”，支持斯托纳模型。</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|A Survey of the Theory of Ferromagnetism|\n|短标题|铁磁性理论综述|\n|作者|[[J. H. Van Vleck]]|\n|期刊名称|[[Reviews of Modern Physics]]|\n|DOI|[10.1103/RevModPhys.17.27](https://doi.org/10.1103/RevModPhys.17.27)|\n|存档位置|144|\n|文库编目|44.8|\n|索书号|1|\n|版权|http://link.aps.org/licenses/aps-default-license|\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/6658HWI4)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/XYXDKKKV\">全文</a></li><li><a href=\"zotero://open-pdf/library/items/I65CL4RX\">Van Vleck - 1945 - A Survey of the Theory of Ferromagnetism.pdf</a></li></ul>|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|A Survey of the Theory of Ferromagnetism|\n|短标题|铁磁性理论综述|\n|作者|[[J. H. Van Vleck]]|\n|期刊名称|[[Reviews of Modern Physics]]|\n|DOI|[10.1103/RevModPhys.17.27](https://doi.org/10.1103/RevModPhys.17.27)|\n|存档位置|144|\n|文库编目|44.8|\n|索书号|1|\n|版权|http://link.aps.org/licenses/aps-default-license|\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/6658HWI4)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/XYXDKKKV\">Van Vleck - 1945 - A Survey of the Theory of Ferromagnetism</a></li><li><a href=\"zotero://open-pdf/library/items/I65CL4RX\">Van Vleck - 1945 - A Survey of the Theory of Ferromagnetism.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "1",
+      "attachment_key": "KCID95U9",
+      "file": "eq_1_KCID95U9.png"
+    },
+    {
+      "id": "eq_10",
+      "title": "Equation 10",
+      "content": "(10)",
+      "page": "5",
+      "attachment_key": "96MJ7ZC7",
+      "file": "eq_10_96MJ7ZC7.png"
+    },
+    {
+      "id": "eq_13",
+      "title": "Equation 13",
+      "content": "(13)",
+      "page": "6",
+      "attachment_key": "VTVY4CBU",
+      "file": "eq_13_VTVY4CBU.png"
+    },
+    {
+      "id": "eq_14",
+      "title": "Equation 14",
+      "content": "(14)",
+      "page": "6",
+      "attachment_key": "53DGDJRB",
+      "file": "eq_14_53DGDJRB.png"
+    },
+    {
+      "id": "eq_16",
+      "title": "Equation 16",
+      "content": "(16)",
+      "page": "7",
+      "attachment_key": "NZLGLMWX",
+      "file": "eq_16_NZLGLMWX.png"
+    },
+    {
+      "id": "eq_17",
+      "title": "Equation 17",
+      "content": "(17)",
+      "page": "9",
+      "attachment_key": "BX7N6ZS3",
+      "file": "eq_17_BX7N6ZS3.png"
+    },
+    {
+      "id": "eq_19",
+      "title": "Equation 19",
+      "content": "(19)",
+      "page": "9",
+      "attachment_key": "T3Q9Z44Y",
+      "file": "eq_19_T3Q9Z44Y.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "1",
+      "attachment_key": "LABS556X",
+      "file": "eq_2_LABS556X.png"
+    },
+    {
+      "id": "eq_20",
+      "title": "Equation 20",
+      "content": "(20)",
+      "page": "11",
+      "attachment_key": "A6TCZU5V",
+      "file": "eq_20_A6TCZU5V.png"
+    },
+    {
+      "id": "eq_21",
+      "title": "Equation 21",
+      "content": "(21)",
+      "page": "11",
+      "attachment_key": "DNPEJXKZ",
+      "file": "eq_21_DNPEJXKZ.png"
+    },
+    {
+      "id": "eq_22",
+      "title": "Equation 22",
+      "content": "(22)",
+      "page": "12",
+      "attachment_key": "UYPDA5PN",
+      "file": "eq_22_UYPDA5PN.png"
+    },
+    {
+      "id": "eq_23",
+      "title": "Equation 23",
+      "content": "(23)",
+      "page": "12",
+      "attachment_key": "LW6Q8V4W",
+      "file": "eq_23_LW6Q8V4W.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "(6)",
+      "page": "3",
+      "attachment_key": "C7FFNECM",
+      "file": "eq_6_C7FFNECM.png"
+    },
+    {
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "(9)",
+      "page": "5",
+      "attachment_key": "Z3UGZWY7",
+      "file": "eq_9_Z3UGZWY7.png"
+    }
+  ],
   "tags": [
     "参考文献-layer"
   ],
   "materials": [],
-  "methods": [
-    "第一性原理",
-    "DFT"
-  ]
+  "methods": []
 }

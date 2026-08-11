@@ -1,0 +1,237 @@
+{
+  "parent_key": "Johannes2008fermi",
+  "title": "Johannes2008fermi",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1: (color online) A comparison of χ′(q) under ideal 1D conditions with perfect nesting at T=0 to χ′(q) under vari-ous non-ideal conditions. Even moderate deviations from the ideal (such as those found in real materials) rapidly reduce the divergence to a relatively weak enhancement.",
+      "page": "3",
+      "attachment_key": "SNEVCPH4",
+      "file": "fig_1_SNEVCPH4.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2: (color online) A schematic showing the original en-ergy bands of our model system in comparison to the bands after a transition has caused a gap at the Fermi energy. The energy associated with gap formation is shaded (red) and con-tinues down to the bottom of the band. Representative energy states connected by the nesting vector are shown (∆Ek) along with infinitesimal energy gain (δEk) associated with the gap opening at each k.",
+      "page": "4",
+      "attachment_key": "LRPET7NK",
+      "file": "fig_2_LRPET7NK.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3: (color online) The Fermi surface of TaSe2 shown with a) no shift of the Fermi level b) a downward shift of the Fermi level (-40 meV). The topology of the Fermi surface, especially the light (yellow) sheets changes appreciably with a small change in Fermi energy, and brings the surface into good agreement with experiment",
+      "page": "5",
+      "attachment_key": "SK4I977K",
+      "file": "fig_3_SK4I977K.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "FIG. 4: (color online) The imaginary (left) and real (right) parts of the susceptibility for TaSe2. The nesting peaks (imag-inary part) do not correspond to the observed CDW wave vector, while the very weak peaks in the real part do.",
+      "page": "6",
+      "attachment_key": "DDJ3N7RI",
+      "file": "fig_4_DDJ3N7RI.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "FIG. 5: (color online) a) The structure of CeTe3 showing the Te (large spheres) planes interposed with Ce (small spheres) and Te staggered units. One of the two non-equivalent Te ions in the Te-only planes is shaded lighter to distinguish it. b) A schematic of the quasi-1D tight-binding model employed to illustrate the origin of the Fermi surface. c The quasi-1D Fermi sheets resulting from the nearest-neighbor tight binding model. The new BZ corresponding to the larger unit cell in which the two",
+      "page": "6",
+      "attachment_key": "A4X8CSIK",
+      "file": "fig_5_A4X8CSIK.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "FIG. 6: (color online) a) The full, calculated Fermi surface of CeTe3 (thin solid lines, green and brown online), with the one-dimensional bands obtained from a nearest neighbor tight-binding model overlayed on top (thick dashed crimson lines). The Fermi surface in essence can still be thought of as inter-secting 1D Fermi sheets, even after the bands have been folded down into the lower symmetry cell (see text). b) A shift of one of the quasi-1D Fermi sheets (dashed lines represent the shifted F",
+      "page": "7",
+      "attachment_key": "32RCJVCM",
+      "file": "fig_6_32RCJVCM.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "FIG. 7: (color online) A diagram showing the imaginary (top) and real (bottom) parts of the susceptibility as a function of qx, qy, qz = 0. The arrow connects the strongest peak in the imaginary part to its corresponding position in the real part.",
+      "page": "7",
+      "attachment_key": "RUGZDKQS",
+      "file": "fig_7_RUGZDKQS.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "FIG. 8: The relaxed configuration of an initially one-dimensional chain of Na ions. If the dimensionality of the chain is restricted, no distortion at all occurs.",
+      "page": "8",
+      "attachment_key": "RIPIJUU5",
+      "file": "fig_8_RIPIJUU5.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Fermi surface nesting and the origin of charge density waves in metals|\n|短标题|费米表面嵌套与金属中电荷密度波的起源|\n|作者|[[M. D. Johannes]]、 [[I. I. Mazin]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.77.165135](https://doi.org/10.1103/PhysRevB.77.165135)|\n|存档位置|640|\n|文库编目|3.9|\n|索书号|2|\n|版权||\n|分类|[[01_费米面嵌套理论 (Fermi Surface Nesting)]]|\n|条目链接|[My Library](zotero://select/library/items/ZAPXH6GY)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/WUC52YAU)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "2",
+      "attachment_key": "3VD8698X",
+      "file": "eq_1_3VD8698X.png"
+    },
+    {
+      "id": "eq_10",
+      "title": "Equation 10",
+      "content": "(10)",
+      "page": "3",
+      "attachment_key": "BEK9DICD",
+      "file": "eq_10_BEK9DICD.png"
+    },
+    {
+      "id": "eq_11",
+      "title": "Equation 11",
+      "content": "(11)",
+      "page": "3",
+      "attachment_key": "HS3XDD48",
+      "file": "eq_11_HS3XDD48.png"
+    },
+    {
+      "id": "eq_12",
+      "title": "Equation 12",
+      "content": "(12)",
+      "page": "4",
+      "attachment_key": "YFVUD3QI",
+      "file": "eq_12_YFVUD3QI.png"
+    },
+    {
+      "id": "eq_14",
+      "title": "Equation 14",
+      "content": "(14)",
+      "page": "4",
+      "attachment_key": "B95ZG26X",
+      "file": "eq_14_B95ZG26X.png"
+    },
+    {
+      "id": "eq_15",
+      "title": "Equation 15",
+      "content": "(15)",
+      "page": "4",
+      "attachment_key": "KKCBNPSK",
+      "file": "eq_15_KKCBNPSK.png"
+    },
+    {
+      "id": "eq_16",
+      "title": "Equation 16",
+      "content": "(16)",
+      "page": "4",
+      "attachment_key": "KCPLZWFZ",
+      "file": "eq_16_KCPLZWFZ.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(3)",
+      "page": "2",
+      "attachment_key": "RNH29N3G",
+      "file": "eq_3_RNH29N3G.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4)",
+      "page": "2",
+      "attachment_key": "U67H9QAN",
+      "file": "eq_4_U67H9QAN.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "(5)",
+      "page": "2",
+      "attachment_key": "98T4XJZK",
+      "file": "eq_5_98T4XJZK.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "(6)",
+      "page": "2",
+      "attachment_key": "MZQDSXSA",
+      "file": "eq_6_MZQDSXSA.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "(7)",
+      "page": "2",
+      "attachment_key": "NGVLELFP",
+      "file": "eq_7_NGVLELFP.png"
+    },
+    {
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "(8)",
+      "page": "2",
+      "attachment_key": "I77WYGPZ",
+      "file": "eq_8_I77WYGPZ.png"
+    },
+    {
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "(9)",
+      "page": "3",
+      "attachment_key": "8J3ZGTS9",
+      "file": "eq_9_8J3ZGTS9.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

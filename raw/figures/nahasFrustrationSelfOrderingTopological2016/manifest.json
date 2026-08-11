@@ -1,0 +1,76 @@
+{
+  "parent_key": "nahasFrustrationSelfOrderingTopological2016",
+  "title": "nahasFrustrationSelfOrderingTopological2016",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. Schematic representation of the periodic supercell under study. The structure consists of four BTO nanowires of cross-sectional dimension nW x ¼ nW y ¼ 12 lattice constant units (∼21.4 nm2) separated by 4 lattice constant units and embedded in a Ba0.15Sr0.85TiO3 matrix with lateral sides along the [100] and [010] directions of nx ¼ ny ¼ 32 lattice constant units, and a length nz ¼ 6 along the [001] pseudocubic direction.",
+      "page": "1",
+      "attachment_key": "ERWWNUJX",
+      "file": "fig_1_ERWWNUJX.png",
+      "tags": [
+        "方法：蒙卡特洛模拟"
+      ],
+      "materials": [
+        "ABO3型钙钛矿"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. Microstructure (in-plane component of local modes and defects distribution) for the configurations C1: [þ þ þþ], C2: [−−þ−], C3: [−−þþ], and C4: [−þ þ−] at 5 K. Blue (red) circles denote vortices (antivortices). Dark (light) arrows indicate the dipoles lying in the wires (matrices).",
+      "page": "2",
+      "attachment_key": "8IYT2TMA",
+      "file": "fig_2_8IYT2TMA.png",
+      "tags": [
+        "方法：蒙卡特洛模拟"
+      ],
+      "materials": [
+        "ABO3型钙钛矿"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3. (a) Temperature dependence of the inverse in-plane susceptibility χ−1 ⊥corresponding to configuration C10. Vertical arrows indicate the transition temperature at which vortices and antivortices order in the matrix (Tord), and the Curie-Weiss temperature (θCW). Red line is a linear fit of the high temperature values of χ−1 ⊥. (b) Monte Carlo time autocorrelation function GðδtsÞ of the spatial distribution of topological defects (vortices and antivortices) for configurations C1, C2, C3, an",
+      "page": "3",
+      "attachment_key": "G45FFNWX",
+      "file": "fig_3_G45FFNWX.png",
+      "tags": [
+        "方法：蒙卡特洛模拟"
+      ],
+      "materials": [
+        "ABO3型钙钛矿"
+      ],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Frustration and Self-Ordering of Topological Defects in Ferroelectrics|\n|短标题|铁电体拓扑缺陷的受挫与自序|\n|作者|[[Y. Nahas]]、 [[S. Prokhorenko]]、 [[L. Bellaiche]]|\n|期刊名称|[[Physical Review Letters]]|\n|DOI|[10.1103/PhysRevLett.116.117603](https://doi.org/10.1103/PhysRevLett.116.117603)|\n|存档位置|17|\n|文库编目|9.0|\n|索书号|1|\n|版权|http://link.aps.org/licenses/aps-default-license|\n|分类|[[11_Domain Walls & Defects]]|\n|条目链接|[My Library](zotero://select/library/items/5LUMAGDE)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/LLP7JQUE\">Nahas 等 - 2016 - Frustration and Self-Ordering of Topological Defects in Ferroelectrics</a></li><li><a href=\"zotero://open-pdf/library/items/N2RXXZZF\">Nahas 等 - 2016 - Frustration and Self-Ordering of Topological Defects in Ferroelectrics.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "ð1Þ",
+      "page": "4",
+      "attachment_key": "PSSAZUZG",
+      "file": "eq_1_PSSAZUZG.png"
+    }
+  ],
+  "tags": [
+    "方法：蒙卡特洛模拟"
+  ],
+  "materials": [
+    "ABO3型钙钛矿"
+  ],
+  "methods": []
+}

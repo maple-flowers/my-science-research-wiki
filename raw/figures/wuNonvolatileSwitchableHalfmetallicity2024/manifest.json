@@ -4,194 +4,165 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "P1、P2、P3和P4四种结构态的磁矩和交换参数J1",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1 (a) Top and (b) side views of the Hf2MnC2O2 MXene monolayer. Spin charge density of the (c) FM and (d) AFM states of the MXene Hf2MnC2O2 monolayer. The blue and green colors represent spin-up and spin-down electrons, respectively. (e) Direct and (f) superexchange interactions. Spin-polarized band structures of (g) spin-up and (h) spin-down electrons.",
       "page": "2",
-      "attachment_key": "9EG9JEEP",
-      "file": "fig_1_9EG9JEEP.png",
+      "attachment_key": "678PD9X8",
+      "file": "fig_1_678PD9X8.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "MXenes"
-      ],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
-      "title": "Hf2MnC2O2和Sc2CO2单层及异质结的结构示意图",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2 (a) Top view of (a) Hf2MnC2O2 and (b) Sc2CO2 monolayers. Structural diagrams of (c) DW-(I) and (d) UP-(I) Hf2MnC2O2/Sc2CO2 het-erostructures. C, O, Sc, Mn and Hf are represented by gray, red, cyan, blue and purple balls, respectively. d, dO–O and dO–O are the interlayer distance, the minimum distance between the O atom in Hf2MnC2O2 and the O atom in Sc2CO2, and the minimum distance between the O atom in Hf2MnC2O2 and the Sc atom in Sc2CO2, respectively. The green arrow represents the dire",
       "page": "3",
-      "attachment_key": "LHR5MV9Y",
-      "file": "fig_2_LHR5MV9Y.png",
+      "attachment_key": "66KAAFE2",
+      "file": "fig_2_66KAAFE2.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "MXenes"
-      ],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "3",
-      "title": "磁矩和交换参数J1随dO–Sc的变化趋势",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3 Evolution of the magnetic moments of Mn and C atoms as a function of the do–Sc: (a) Hf2MnC2O2/Sc2CO2-Pk and (b) Hf2MnC2O2/ Sc2CO2-Pm. (c) Change of the exchange parameter J1 with do–Sc for Hf2MnC2O2/Sc2CO2-Pk and Hf2MnC2O2/Sc2CO2-Pm. The equilibrium positions of Hf2MnC2O2/Sc2CO2-Pk and Hf2MnC2O2/Sc2CO2-Pm hetero-structures are marked with red and blue dashed vertical lines, respectively.",
       "page": "4",
-      "attachment_key": "KK3AG8E5",
-      "file": "fig_3_KK3AG8E5.png",
+      "attachment_key": "LXQGMD2X",
+      "file": "fig_3_LXQGMD2X.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "MXenes"
-      ],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "4",
-      "title": "Hf2MnC2O2/Sc2CO2异质结在不同dO–Sc下的分波态密度 (PDOS)",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4 PDOS of Hf2MnC2O2/Sc2CO2-Pk at different do–Sc: (a) 2.71 Å, (b) 2.81 Å, and (c) 2.91 Å; PDOS of Hf2MnC2O2/Sc2CO2-Pm at various do–Sc: (d) 2.66 Å, (e) 2.76 Å and (f) 2.86 Å. The gray shadow highlights the enhanced orbital hybridization due to lager DOS.",
       "page": "5",
-      "attachment_key": "VRSCFMEG",
-      "file": "fig_4_VRSCFMEG.png",
+      "attachment_key": "MV3747TM",
+      "file": "fig_4_MV3747TM.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "MXenes"
-      ],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "5",
-      "title": "各种材料和异质结的电子能带结构",
-      "llm_description": "",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5 Electronic band structures of (a) Hf2MnC2O2 and (b) Sc2CO2, (c) and (d) Hf2MnC2O2/Sc2CO2 Pk, and (e) and (f) Hf2MnC2O2/Sc2CO2 Pm. Green and red lines represent the contributions from the spin-up and spin-down channels of Hf2MnC2O2, and black lines denote the contributions from the Sc2CO2 monolayer.",
       "page": "5",
-      "attachment_key": "98VINAMZ",
-      "file": "fig_5_98VINAMZ.png",
+      "attachment_key": "TLLCI2HJ",
+      "file": "fig_5_TLLCI2HJ.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "MXenes"
-      ],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "6",
-      "title": "非易失性半金属性调控的物理机制",
-      "llm_description": "",
+      "title": "Figure 6",
+      "llm_description": "Fig. 6 (a) Band edges of spin-polarized Hf2MnC2O2 and ferroelectric Sc2CO2 with respect to vacuum energy Evac, as well as the schematic diagram of the charge transfer. (b) The average electrostatic potentials of Hf2MnC2O2 and Sc2CO2 along the xy-plane. Integrals of differential charge densities and the differential charge densities of (c, e) Hf2MnC2O2/ Sc2CO2-Pk and (d, f) Hf2MnC2O2/Sc2CO2-Pm. The green and purple colors represent charge depletion and accumulation, respectively.",
       "page": "6",
-      "attachment_key": "DT6ABDJC",
-      "file": "fig_6_DT6ABDJC.png",
+      "attachment_key": "CCWSDHLM",
+      "file": "fig_6_CCWSDHLM.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "MXenes"
-      ],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "7",
-      "title": "Hf2MnC2O2/Sc2CO2异质结FET的器件原型",
-      "llm_description": "",
+      "title": "Figure 7",
+      "llm_description": "Fig. 7 (a) and (b) Device prototype of the Hf2MnC2O2/Sc2CO2 hetero-structure FET.",
       "page": "6",
-      "attachment_key": "ZQI8XHFY",
-      "file": "fig_7_ZQI8XHFY.png",
+      "attachment_key": "CLHBQT7G",
+      "file": "fig_7_CLHBQT7G.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "MXenes"
-      ],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "8",
-      "title": "Sc2CO2/Hf2MnC2O2/Sc2CO2夹层结构的优化几何构型和电子能带结构",
-      "llm_description": "",
+      "title": "Figure 8",
+      "llm_description": "Fig. 8 (a)–(d) Optimized geometries of the four structural states of P1, P2, P3 and P4. Electronic band structures of P1 (e) and (f), P2 (i) and (j), P3 (g) and (h) and P4 (k) and (l). Green and red lines represent the contributions from the spin-up and spin-down channels of Hf2MnC2O2, and black lines denote the contributions from the Sc2CO2 monolayer. The green arrow represents the direction of polarization.",
       "page": "7",
-      "attachment_key": "W8TYDKGM",
-      "file": "fig_8_W8TYDKGM.png",
+      "attachment_key": "H3M7RY24",
+      "file": "fig_8_H3M7RY24.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "MXenes"
-      ],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "9",
-      "title": "Mn和Hf原子的轨道分辨磁各向异性_MAE",
-      "llm_description": "",
+      "title": "Figure 9",
+      "llm_description": "Fig. 9 Orbital-resolved magnetic anisotropy energy of Mn and Hf atoms for (a) and (d) the Hf2MnC2O2 monolayer and (b) and (e) Hf2MnC2O2/Sc2CO2-Pk and (c) and (f) Hf2MnC2O2/Sc2CO2-Pm heterostructures, respectively.",
       "page": "8",
-      "attachment_key": "LVZMB2AL",
-      "file": "fig_9_LVZMB2AL.png",
+      "attachment_key": "42AFRGJH",
+      "file": "fig_9_42AFRGJH.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "MXenes"
-      ],
-      "methods": [
-        "AFM",
-        "first-principles",
-        "DFT"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1 Magnetic moment and exchange parameter J1 for the four structural states of P1, P2, P3 and P4. MMn, MC1, and MC2 refer to the magnetic moments of Mn, C1 and C2 atoms, respectively",
+      "page": "7",
+      "attachment_key": "KZ2KGHKA",
+      "file": "tab_1_KZ2KGHKA.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Stacking structures</th>\n<th style=\"text-align:left\">P1</th>\n<th style=\"text-align:left\">P2</th>\n<th style=\"text-align:left\">P3</th>\n<th style=\"text-align:left\">P4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">M_Mn (μ_B)</td>\n<td style=\"text-align:left\">3.53</td>\n<td style=\"text-align:left\">3.48</td>\n<td style=\"text-align:left\">3.48</td>\n<td style=\"text-align:left\">3.44</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">M_C1 (μ_B)</td>\n<td style=\"text-align:left\">0.17</td>\n<td style=\"text-align:left\">0.17</td>\n<td style=\"text-align:left\">0.15</td>\n<td style=\"text-align:left\">0.15</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">M_C2 (μ_B)</td>\n<td style=\"text-align:left\">0.17</td>\n<td style=\"text-align:left\">0.15</td>\n<td style=\"text-align:left\">0.17</td>\n<td style=\"text-align:left\">0.15</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">J₁ (meV)</td>\n<td style=\"text-align:left\">6.72</td>\n<td style=\"text-align:left\">9.76</td>\n<td style=\"text-align:left\">9.76</td>\n<td style=\"text-align:left\">11.57</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Nonvolatile switchable half-metallicity and magnetism in the MXene Hf<sub>2</sub> MnC<sub>2</sub> O<sub>2</sub> /Sc<sub>2</sub> CO<sub>2</sub> multiferroic heterostructure|\n|短标题|MXeneHf<sub>2</sub>MnC<sub>2</sub>O<sub>2</sub>/Sc<sub>2</sub>CO<sub>2</sub>多铁异质结构中的非易失性可切换半金属性和磁性|\n|作者|[[Changwei Wu]]、 [[Shanwei Sun]]、 [[Weiping Gong]]、 [[Jiangyu Li]]、 [[Xiao Wang]]|\n|期刊名称|[[Physical Chemistry Chemical Physics]]|\n|DOI|[10.1039/D3CP04847K](https://doi.org/10.1039/D3CP04847K)|\n|存档位置|4|\n|文库编目|3|\n|索书号|3|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/J6HCDKNM)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/ZN5QFA8V)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Nonvolatile switchable half-metallicity and magnetism in the MXene Hf                     <sub>2</sub>                     MnC                     <sub>2</sub>                     O                     <sub>2</sub>                     /Sc                     <sub>2</sub>                     CO                     <sub>2</sub>                     multiferroic heterostructure|\n|短标题|MXeneHf<sub>2</sub>MnC<sub>2</sub>O<sub>2</sub>/Sc<sub>2</sub>CO<sub>2</sub>|\n|作者|[[Changwei Wu]]、 [[Shanwei Sun]]、 [[Weiping Gong]]、 [[Jiangyu Li]]、 [[Xiao Wang]]|\n|期刊名称|[[Physical Chemistry Chemical Physics]]|\n|DOI|[10.1039/D3CP04847K](https://doi.org/10.1039/D3CP04847K)|\n|存档位置|4|\n|文库编目|3|\n|索书号|3|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/J6HCDKNM)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/ZN5QFA8V)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "3",
+      "attachment_key": "SBLTVUHU",
+      "file": "eq_1_SBLTVUHU.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "(2)",
+      "page": "8",
+      "attachment_key": "LN5CXQKY",
+      "file": "eq_2_LN5CXQKY.png"
+    }
+  ],
   "tags": [
     "Done"
   ],
-  "materials": [
-    "MXenes"
-  ],
-  "methods": [
-    "AFM",
-    "first-principles",
-    "DFT"
-  ]
+  "materials": [],
+  "methods": []
 }

@@ -4,11 +4,11 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "Construction of the structure. (_结构构建_)",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
+      "title": "Figure 1",
+      "llm_description": "Figure 1. Construction of the structure. (a) Schematic diagram depicting the het-  erostructure composed of AuNPs, DNA origami, Au nanodisks and tBLG. (b) Illustra-  tion of the principle of exciton −plasmon coupling. (c) Illustration of the principle for  miRNA-21 detection using the CRISPR-Cas12a system.",
+      "page": "3",
+      "attachment_key": "BXNBIMFM",
+      "file": "fig_1_BXNBIMFM.png",
       "tags": [
         "unread"
       ],
@@ -19,11 +19,11 @@
     },
     {
       "fig_number": "2",
-      "title": "Selective enhancement of tBLG structures via Au nanodisks. (_金纳米盘选择性增强tBLG结构_)",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
+      "title": "Figure 2",
+      "llm_description": "Figure 2. Selective enhancement of tBLG structures via Au nanodisks. (a) The Raman spectra of SLG and tBLG domains  with twist angles of 8.5°, 9.4°, 13.2° and 17.5° were analyzed. The inset image shows a G-band intensity mapping of the  9.4° tBLG domain. (b) The top image shows the SEM image of Au nanodisks. The bottom image displays a height map with  white dashed lines. (c) The variation of photocurrents with bias voltage for SLG, AB-stacked bilayer graphene (AB-BLG), Au  nanodisks/SLG, tBLG a",
+      "page": "4",
+      "attachment_key": "TCFKNXU2",
+      "file": "fig_2_TCFKNXU2.png",
       "tags": [
         "unread"
       ],
@@ -34,11 +34,11 @@
     },
     {
       "fig_number": "3",
-      "title": "Optical spectra and simulation results. (_光学光谱与模拟结果_)",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
+      "title": "Figure 3",
+      "llm_description": "Figure 3. Optical spectra and simulation results. (a) Comparison of absorption spectra  for Pristine Au nanodisks/tBLG, Cas12a-activated AuNPs/Au nanodisks/tBLG system  and the corresponding non-activated control. (b) Characterization of tBLG and Au nan-  odisks/tBLG structures via pump-probe spectroscopy. (c) Simulated dielectric constants  of 9.4°, 13.2° and 21.8° tBLG structures. (d) Left: the calculated energy band structure  of 9.4° tBLG; right: spatially resolved dI/dV by STM/STS. Blue arr",
+      "page": "5",
+      "attachment_key": "GLKWBZ8Y",
+      "file": "fig_3_GLKWBZ8Y.png",
       "tags": [
         "unread"
       ],
@@ -49,11 +49,11 @@
     },
     {
       "fig_number": "4",
-      "title": "Variation of photocurrent and modulation depth of Au nanodisks/tBLG heterostructure at different twist angles. (_不同扭曲角下Au纳米盘/tBLG异质结构的光电流和调制深度变化_)",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
+      "title": "Figure 4",
+      "llm_description": "Figure 4. Variation of photocurrent and modulation depth of Au nanodisks/tBLG het-  erostructure at different twist angles. (a) The photocurrent versus the energy of the  incident photon. Au nanodisks/tBLG domains with twist angles of 8.5°, 9.4°, 13.2° and  17.5°. The plots are normalized with those of AB-BLG. (b) Variations of responsivity for  Au nanodisks/tBLG structure at 8.5°, 9.4°, 13.2° and 17.5°, respectively. (c) The mod-  ulation depth of the 9.4° twist angle Au nanodisks/tBLG structur",
+      "page": "6",
+      "attachment_key": "9UN4Q757",
+      "file": "fig_4_9UN4Q757.png",
       "tags": [
         "unread"
       ],
@@ -64,11 +64,11 @@
     },
     {
       "fig_number": "5",
-      "title": "Detection of miRNA through the Au nanodisks/tBLG heterostructure. (_通过Au纳米盘/tBLG异质结构检测miRNA_)",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
+      "title": "Figure 5",
+      "llm_description": "Figure 5. Detection of miRNA through the Au nanodisks/tBLG heterostructure. (a) Schematic representation of DNA origami  assembly. (b) PAGE of the DNA origami folding process. (c) TEM image of DNA origami formed by 1–8 strands. (d) Top: AFM  image of the AuNPs/origami/Au nanodisks heterostructure. Bottom: height profile of AuNPs/DNA origami attached to Au  nanodisks. (e) The curves depict the photocurrent variations with bias voltage for T-DNA at concentrations ranging from  100 pM to 1 fM. (f) ",
+      "page": "7",
+      "attachment_key": "3KFW8A5V",
+      "file": "fig_5_3KFW8A5V.png",
       "tags": [
         "unread"
       ],
@@ -79,11 +79,11 @@
     },
     {
       "fig_number": "6",
-      "title": "The spatially resolved photocurrent mapping of Au nanodisks/tBLG linked with AuNPs following trans-cleavage, and clinical samples validation. (_反式剪切后连接AuNPs的Au纳米盘/tBLG空间分辨光电流图及临床样本验证_)",
-      "llm_description": "",
-      "page": "-",
-      "attachment_key": null,
-      "file": "",
+      "title": "Figure 6",
+      "llm_description": "Figure 6. The spatially resolved photocurrent mapping of Au nanodisks/tBLG linked with AuNPs following trans-cleavage,  and clinical samples validation. (a) These images present the photocurrent mapping of the Au nanodisks/tBLG structure linked  with AuNPs after introducing 0 M, 100 aM, 100 fM and 100 pM concentrations of target DNA, respectively. (b) Comparison  of samples collected from healthy individuals and lung cancer patients. The samples were measured using both qPCR and  biosensor metho",
+      "page": "8",
+      "attachment_key": "5U9MCGPA",
+      "file": "fig_6_5U9MCGPA.png",
       "tags": [
         "unread"
       ],
@@ -97,7 +97,7 @@
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Ultrasensitive optoelectronic biosensor arrays based on twisted bilayer graphene superlattice|\n|短标题|基于扭曲双分子层石墨烯超晶格的超敏光电生物传感器阵列|\n|作者|[[Bowen Du]]、 [[Xilin Tian]]、 [[Zhi Chen]]、 [[Yanqi Ge]]、 [[Chuanghu Chen]]、 [[Haiyan Gao]]、 [[Zhongyang Liu]]、 [[Jungchen Tung]]、 [[Dror Fixler]]、 [[Songrui Wei]]、 [[Shi Chen]]、 [[Han Zhang]]|\n|期刊名称|[[National Science Review]]|\n|DOI|[10.1093/nsr/nwaf357](https://doi.org/10.1093/nsr/nwaf357)|\n|存档位置|98|\n|文库编目|17.1|\n|索书号|1|\n|版权|https://creativecommons.org/licenses/by/4.0/|\n|分类|[[04_石墨烯/氧化石墨烯 (G/GO Sensors)]]|\n|条目链接|[My Library](zotero://select/library/items/XAK7F6XW)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/ATBJ2FN4\">Du 等 - 2025 - Ultrasensitive optoelectronic biosensor arrays based on twisted bilayer graphene superlattice</a></li><li><a href=\"zotero://open-pdf/library/items/2SL33RMM\">Du 等 - 2025 - Ultrasensitive optoelectronic biosensor arrays based on twisted bilayer graphene superlattice.pdf</a></li></ul>|\n|关联文献||",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Ultrasensitive optoelectronic biosensor arrays based on twisted bilayer graphene superlattice|\n|短标题|基于扭曲双层石墨烯超晶格的超灵敏光电生物传感器阵列|\n|作者|[[Bowen Du]]、 [[Xilin Tian]]、 [[Zhi Chen]]、 [[Yanqi Ge]]、 [[Chuanghu Chen]]、 [[Haiyan Gao]]、 [[Zhongyang Liu]]、 [[Jungchen Tung]]、 [[Dror Fixler]]、 [[Songrui Wei]]、 [[Shi Chen]]、 [[Han Zhang]]|\n|期刊名称|[[National Science Review]]|\n|DOI|[10.1093/nsr/nwaf357](https://doi.org/10.1093/nsr/nwaf357)|\n|存档位置|98|\n|文库编目|17.1|\n|索书号|1|\n|版权|https://creativecommons.org/licenses/by/4.0/|\n|分类|[[04_石墨烯/氧化石墨烯 (G/GO Sensors)]]|\n|条目链接|[My Library](zotero://select/library/items/XAK7F6XW)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/ATBJ2FN4\">Du 等 - 2025 - Ultrasensitive optoelectronic biosensor arrays based on twisted bilayer graphene superlattice</a></li><li><a href=\"zotero://open-pdf/library/items/2SL33RMM\">Du 等 - 2025 - Ultrasensitive optoelectronic biosensor arrays based on twisted bilayer graphene superlattice.pdf</a></li></ul>|\n|关联文献||",
       "page": "-"
     }
   ],

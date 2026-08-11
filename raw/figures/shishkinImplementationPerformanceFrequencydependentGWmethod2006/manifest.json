@@ -1,0 +1,271 @@
+{
+  "parent_key": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+  "title": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. Illustration of additive augmentation in the PAW method. Pseudized quantities are defined in the entire space on a regular �plane wave�grid �a�. To obtain AE energies, the pseudo-wave-functions are reconstructed inside spheres and the corre-sponding one-center energy terms are subtracted �b�, and finally the AE wave functions are reconstructed as well and the AE one-center energies are added �c�.",
+      "page": "2",
+      "attachment_key": "VIE5IKT4",
+      "file": "fig_1_VIE5IKT4.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. Atomic scattering properties of the Si TM �left�and PAW �right�potentials used in the present work for QP calculations �Tables I and II�. Shown are the logarithmic derivatives of the radial wave functions for different angular momenta for a spherical Si atom, evaluated at a distance of r=1.3 Å from the nucleus. Solid lines correspond to the all-electron full-potential, and dotted lines to the TM pseudopotential or PAW potential. The energy zero corre-sponds to the vacuum level. Circles i",
+      "page": "7",
+      "attachment_key": "XQMBTBGD",
+      "file": "fig_2_XQMBTBGD.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_15",
+      "title": "Table 15",
+      "content": "TABLE IV. Quasiparticle energies for CdS referenced to �15v using LDA and G0W0 and various potentials. The core-valence interaction is calculated on HF level only. For comparison, the pseudopotential values of Fleszar et al. �Ref. 25�are provided.",
+      "page": "11",
+      "attachment_key": "URTPD4IA",
+      "file": "tab_15_URTPD4IA.png"
+    },
+    {
+      "id": "tab_25",
+      "title": "Table 25",
+      "content": "TABLE III. Quasiparticle energies for GaAs referenced to �25v using LDA and G0W0 and various potentials. The core-valence �c-val� interaction is treated either on the HF or LDA level. The FP-LMTO calculations of Kotani et al. �Ref. 16�and the AE-PP calculations of Tiago et al. �Ref. 6�and experimental values are also shown.",
+      "page": "10",
+      "attachment_key": "7W8JX7CX",
+      "file": "tab_25_7W8JX7CX.png"
+    },
+    {
+      "id": "tab_41",
+      "title": "Table 41",
+      "content": "TABLE I. Core radii rc and typical energy cutoffs E for the PAW potentials used in the present work. If the core radii for different quantum numbers are different, they are specified using a subscript. Nonlocal projectors were generated for the states indicated in the column “val.” As local potential a pseudopotential was generated for the states indicated in the column “local.” The number of frequencies N�used in the GW calculations for each material is provided as well. The norm conserving Tro",
+      "page": "7",
+      "attachment_key": "KWL3LSNG",
+      "file": "tab_41_KWL3LSNG.png"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Implementation and performance of the frequency-dependent<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi>G</mml:mi><mml:mi>W</mml:mi></mml:mrow></mml:math>method within the PAW framework|\n|短标题|频率相关的实现和性能http://www.w3.org/1998/Math/MathML“display=“inline”><mml:mrow><mml:mi>G<mml:mi>W</mml:mi>PAW框架内的方法|\n|作者|[[M. Shishkin]]、 [[G. Kresse]]|\n|期刊名称|[[Physical Review B]]|\n|DOI|[10.1103/PhysRevB.74.035101](https://doi.org/10.1103/PhysRevB.74.035101)|\n|存档位置|895|\n|文库编目|3.7|\n|索书号|2|\n|版权|http://link.aps.org/licenses/aps-default-license|\n|分类|[[01_弹性应力发光 (Elastico-Mechanoluminescence)]]|\n|条目链接|[My Library](zotero://select/library/items/Y2MJER6W)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/BX49LD9J)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "�B1�",
+      "page": "12",
+      "attachment_key": "KS3ZUNWQ",
+      "file": "eq_1_KS3ZUNWQ.png"
+    },
+    {
+      "id": "eq_10",
+      "title": "Equation 10",
+      "content": "�10�",
+      "page": "3",
+      "attachment_key": "R5TKRSBN",
+      "file": "eq_10_R5TKRSBN.png"
+    },
+    {
+      "id": "eq_11",
+      "title": "Equation 11",
+      "content": "�11�",
+      "page": "4",
+      "attachment_key": "THRNIKCA",
+      "file": "eq_11_THRNIKCA.png"
+    },
+    {
+      "id": "eq_12",
+      "title": "Equation 12",
+      "content": "�12�",
+      "page": "4",
+      "attachment_key": "QSG35YEA",
+      "file": "eq_12_QSG35YEA.png"
+    },
+    {
+      "id": "eq_13",
+      "title": "Equation 13",
+      "content": "�13�",
+      "page": "4",
+      "attachment_key": "RV8QEHVG",
+      "file": "eq_13_RV8QEHVG.png"
+    },
+    {
+      "id": "eq_14",
+      "title": "Equation 14",
+      "content": "�14�",
+      "page": "5",
+      "attachment_key": "FG3MECAT",
+      "file": "eq_14_FG3MECAT.png"
+    },
+    {
+      "id": "eq_15",
+      "title": "Equation 15",
+      "content": "�15�",
+      "page": "5",
+      "attachment_key": "TTRDMSXM",
+      "file": "eq_15_TTRDMSXM.png"
+    },
+    {
+      "id": "eq_16",
+      "title": "Equation 16",
+      "content": "�16�",
+      "page": "5",
+      "attachment_key": "U7R2MFBQ",
+      "file": "eq_16_U7R2MFBQ.png"
+    },
+    {
+      "id": "eq_17",
+      "title": "Equation 17",
+      "content": "�17�",
+      "page": "5",
+      "attachment_key": "XFBF8EYD",
+      "file": "eq_17_XFBF8EYD.png"
+    },
+    {
+      "id": "eq_18",
+      "title": "Equation 18",
+      "content": "�18�",
+      "page": "5",
+      "attachment_key": "RLPCXDF6",
+      "file": "eq_18_RLPCXDF6.png"
+    },
+    {
+      "id": "eq_19",
+      "title": "Equation 19",
+      "content": "�19�",
+      "page": "6",
+      "attachment_key": "9S8RIQZ5",
+      "file": "eq_19_9S8RIQZ5.png"
+    },
+    {
+      "id": "eq_2",
+      "title": "Equation 2",
+      "content": "�B2�",
+      "page": "12",
+      "attachment_key": "4N7MXSEG",
+      "file": "eq_2_4N7MXSEG.png"
+    },
+    {
+      "id": "eq_21",
+      "title": "Equation 21",
+      "content": "�21�",
+      "page": "6",
+      "attachment_key": "3BAUNYGJ",
+      "file": "eq_21_3BAUNYGJ.png"
+    },
+    {
+      "id": "eq_22",
+      "title": "Equation 22",
+      "content": "�22�",
+      "page": "6",
+      "attachment_key": "S5G9KPM6",
+      "file": "eq_22_S5G9KPM6.png"
+    },
+    {
+      "id": "eq_23",
+      "title": "Equation 23",
+      "content": "�23�",
+      "page": "6",
+      "attachment_key": "BME9BJI4",
+      "file": "eq_23_BME9BJI4.png"
+    },
+    {
+      "id": "eq_24",
+      "title": "Equation 24",
+      "content": "�24�",
+      "page": "6",
+      "attachment_key": "QAEXJL2C",
+      "file": "eq_24_QAEXJL2C.png"
+    },
+    {
+      "id": "eq_25",
+      "title": "Equation 25",
+      "content": "�25�",
+      "page": "6",
+      "attachment_key": "CBW2MAF3",
+      "file": "eq_25_CBW2MAF3.png"
+    },
+    {
+      "id": "eq_26",
+      "title": "Equation 26",
+      "content": "�26�",
+      "page": "6",
+      "attachment_key": "HIAIU4YF",
+      "file": "eq_26_HIAIU4YF.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "�B3�",
+      "page": "12",
+      "attachment_key": "S3Y76HUK",
+      "file": "eq_3_S3Y76HUK.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "�B4�",
+      "page": "12",
+      "attachment_key": "4RN2E3C2",
+      "file": "eq_4_4RN2E3C2.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "�B5�",
+      "page": "12",
+      "attachment_key": "9KJI2C6Z",
+      "file": "eq_5_9KJI2C6Z.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "�6�",
+      "page": "3",
+      "attachment_key": "895WVNQU",
+      "file": "eq_6_895WVNQU.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "�7�",
+      "page": "3",
+      "attachment_key": "6JVZVVWV",
+      "file": "eq_7_6JVZVVWV.png"
+    },
+    {
+      "id": "eq_8",
+      "title": "Equation 8",
+      "content": "�8�",
+      "page": "3",
+      "attachment_key": "7R6YAG4M",
+      "file": "eq_8_7R6YAG4M.png"
+    },
+    {
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "�9�",
+      "page": "3",
+      "attachment_key": "52IUPTX9",
+      "file": "eq_9_52IUPTX9.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

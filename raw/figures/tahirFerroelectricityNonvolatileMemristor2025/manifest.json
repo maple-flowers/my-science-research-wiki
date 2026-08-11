@@ -1,0 +1,37 @@
+{
+  "parent_key": "tahirFerroelectricityNonvolatileMemristor2025",
+  "title": "tahirFerroelectricityNonvolatileMemristor2025",
+  "figures": [],
+  "tables": [
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th>Applied voltage [V] 外加电压 [V]</th>\n<th>Polarization [μC cm⁻²] at 1000 Hz 1000 Hz下的极化 [μC cm⁻²]</th>\n<th>Polarization [μC cm⁻²] at 100 Hz 100 Hz下的极化 [μC cm⁻²]</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>Pr</td>\n<td>Pmax</td>\n</tr>\n<tr>\n<td>1</td>\n<td>1.2 × 10⁻⁵</td>\n<td>8.1 × 10⁻⁵</td>\n</tr>\n<tr>\n<td>10</td>\n<td>1.7 × 10⁻⁴</td>\n<td>9 × 10⁻⁵</td>\n</tr>\n<tr>\n<td>50</td>\n<td>0.22</td>\n<td>3.1</td>\n</tr>\n<tr>\n<td>100</td>\n<td>0.51</td>\n<td>3.35</td>\n</tr>\n<tr>\n<td>200</td>\n<td>1.24</td>\n<td>7.06</td>\n</tr>\n<tr>\n<td>300</td>\n<td>2.25</td>\n<td>11.23</td>\n</tr>\n<tr>\n<td>400</td>\n<td>3.53</td>\n<td>15.29</td>\n</tr>\n<tr>\n<td>500</td>\n<td>5.12</td>\n<td>19.85</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th>S. No. 序号</th>\n<th>MXene/Hybrid MXene/杂化</th>\n<th>Polarization [μC cm⁻²] 极化 [μC cm⁻²]</th>\n<th>Applied voltage frequency [Hz] 外加电压频率 [Hz]</th>\n<th>Experimental/Theoretical 实验/理论</th>\n<th>Refs. 文献</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td></td>\n<td>Pr</td>\n<td>Pmax</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ti₃C₂Tₓ</td>\n<td>0.5</td>\n<td>1</td>\n<td>10</td>\n<td>Experimental</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Mo₂TiC₂Tₓ</td>\n<td>2.5 × 10⁻⁵</td>\n<td>9 × 10⁻⁵</td>\n<td>600</td>\n<td>Experimental</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Ni- Mo₂TiC₂Tₓ</td>\n<td>2.5 × 10⁻²</td>\n<td>13 × 10⁻²</td>\n<td>600</td>\n<td>Experimental</td>\n</tr>\n<tr>\n<td>4</td>\n<td>D-Ti₃C₂Tₓ</td>\n<td>5.9 × 10⁻⁵</td>\n<td>2.4 × 10⁻⁴</td>\n<td>100</td>\n<td>Experimental</td>\n</tr>\n<tr>\n<td>5</td>\n<td>BLFO@Ti₃C₂Tₓ</td>\n<td>1.6 × 10⁻²</td>\n<td>3.8 × 10⁻²</td>\n<td>100</td>\n<td>Experimental</td>\n</tr>\n<tr>\n<td>6</td>\n<td>BLFSO@Ti₃C₂Tₓ</td>\n<td>2.1 × 10⁻²</td>\n<td>4.0 × 10⁻²</td>\n<td>100</td>\n<td>Experimental</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Nb₂CTₓ</td>\n<td>5.12</td>\n<td>19.85</td>\n<td>1000</td>\n<td>Experimental</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Sc₂CO₂</td>\n<td>1.60</td>\n<td>–</td>\n<td></td>\n<td>Theoretical</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Nb₂NF₂</td>\n<td>–</td>\n<td>–</td>\n<td></td>\n<td>Theoretical</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Hf₂VC₂F₂</td>\n<td>1.95 × 10⁻⁶</td>\n<td>–</td>\n<td></td>\n<td>Theoretical</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T3",
+      "title": "Table 3",
+      "content": "<table>\n<thead>\n<tr>\n<th>MXene-based device structure MXene基器件结构</th>\n<th>Switching voltage [V] 开关电压 [V]</th>\n<th>Memory window 存储窗口</th>\n<th>Endurance 耐久性</th>\n<th>Retention 保持性</th>\n<th>Refs. 文献</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Ag/Ti₃C₂/W</td>\n<td>+9 / −9</td>\n<td>≈10</td>\n<td>–</td>\n<td>2 × 10³</td>\n<td>[76]</td>\n</tr>\n<tr>\n<td>Ag/Ti₃C₂Tₓ@PVA/ITO</td>\n<td>+2 / −2</td>\n<td>&lt;10</td>\n<td>50</td>\n<td>10⁴</td>\n<td>[81]</td>\n</tr>\n<tr>\n<td>Cu/ Ti₃C₂/SiO₂/W</td>\n<td>+2 / −2</td>\n<td>10</td>\n<td>800</td>\n<td>10³</td>\n<td>[79]</td>\n</tr>\n<tr>\n<td>TiN/Cu/Ti₃C₂/SiO₂/TiN</td>\n<td>+3 / −2</td>\n<td>3</td>\n<td>100</td>\n<td>10³</td>\n<td>[80]</td>\n</tr>\n<tr>\n<td>rGO/FE-Ti₃C₂Tₓ/Pd</td>\n<td>+12 / −8</td>\n<td>100</td>\n<td>–</td>\n<td>–</td>\n<td>[30]</td>\n</tr>\n<tr>\n<td>Mo₂TiC₂Tₓ/FE- Ti₃C₂Tₓ/ Mo₂TiC₂Tₓ</td>\n<td>+4 / −4</td>\n<td>1000</td>\n<td>200</td>\n<td>10⁴</td>\n<td>[78]</td>\n</tr>\n<tr>\n<td>rGO/FE-Mo₂Ti₂C₃Tₓ/rGO</td>\n<td>+1.8 / −1.8</td>\n<td>100</td>\n<td>1000</td>\n<td>5 × 10³</td>\n<td>[54]</td>\n</tr>\n<tr>\n<td>rGO/Nb₂CTₓ/rGO</td>\n<td>+3 / −3</td>\n<td>&lt;10</td>\n<td>80</td>\n<td>–</td>\n<td>This work 本工作</td>\n</tr>\n<tr>\n<td>Ti₃C₂Tₓ /Nb₂CTₓ/ Ti₃C₂Tₓ</td>\n<td>+3 / −3</td>\n<td>&lt;10</td>\n<td>80</td>\n<td>10³</td>\n<td></td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Ferroelectricity and Nonvolatile Memristor Applications of Free‐Standing 2D Niobium Carbide: A New Frontier of Free‐Standing MXene in Electronic Devices|\n|短标题|自由基二维碳化铌的铁电性和非易失性忆阻应用：自由基MXene在电子器件中的新前沿|\n|作者|[[Rabia Tahir]]、 [[Sheryar Abid]]、 [[Kubra Sattar]]、 [[Arooma Syed]]、 [[Iftikhar Hussain]]、 [[Kaili Zhang]]、 [[Syed Rizwan]]|\n|期刊名称|[[Small]]|\n|DOI|[10.1002/smll.202506828](https://doi.org/10.1002/smll.202506828)|\n|存档位置|2|\n|文库编目|11.8|\n|索书号|2|\n|版权||\n|分类|[[08_铁电忆阻器 (Ferroelectric Memristors)]]|\n|条目链接|[My Library](zotero://select/library/items/CHFP8WVB)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/SFKUR7DL)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "Done"
+  ],
+  "materials": [],
+  "methods": []
+}

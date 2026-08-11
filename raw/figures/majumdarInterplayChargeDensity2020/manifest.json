@@ -1,0 +1,137 @@
+{
+  "parent_key": "majumdarInterplayChargeDensity2020",
+  "title": "majumdarInterplayChargeDensity2020",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "FIG. 1. (a) The superconducting to normal state transition of NbSe2 and NbS2 samples as revealed by the local magnetic field. The samples were cooled down to T = 4 K in an out-of-plane magnetic field μ0H = 1 mT (field cooling procedure). Panels (b) and (d) show the magnetic field distribution after setting μ0H = 0 mT. Bright (dark) areas correspond to positive (negative) magnetic fields. The temperature was subsequently increased and the critical temperature Tc was determined by tracking the ave",
+      "page": "3",
+      "attachment_key": "ZD74FXXV",
+      "file": "fig_1_ZD74FXXV.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "FIG. 2. (a) Temperature dependence of the in-plane resistivity measurements for NbSe2 and NbS2 single crystals during heating from 0.4 K to room temperature (300 K). The inset is the close-up of the low-temperature region, highlighting the CDW formation in NbSe2. (b) and (c) The Hall mobility, μ(T), and carrier concentration.",
+      "page": "4",
+      "attachment_key": "RGX7HF7C",
+      "file": "fig_2_RGX7HF7C.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "FIG. 3. (a) Temperature dependence of specific heat for NbSe2 measured at ambient pressure. The inset shows the temperature de-pendence of the specific heat measured at different applied magnetic fields parallel to the c axis, with increments of 0.5 T. (b) Temperature dependence of the resistivity around the CDW transitions under applied pressure in NbSe2. (c) and (d) Temperature dependence of electrical resistivity of NbSe2 under various magnetic fields at ambient pressure and 7 GPa (down to 30",
+      "page": "4",
+      "attachment_key": "WHEZB7KW",
+      "file": "fig_3_WHEZB7KW.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "FIG. 4. Temperature dependence of the magnetic susceptibility measured in a dc field with an amplitude of 3.86 Oe for (a) NbSe2 and (b) for NbS2. Both data were collected upon warming after cooling in zero magnetic field. Pressure-temperature phase diagram of NbSe2 (c) and (d) for NbS2. Note that for (c), two different scales have been used on the left (for TCDW) in black and right (for Tc) in blue. In NbS2, (d) previously the data only reported up to 12 GPa, circle symbols taken from see Ref. [",
+      "page": "5",
+      "attachment_key": "I3R7KT6H",
+      "file": "fig_4_I3R7KT6H.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "FIG. 5. Results from Andreev reflection spectroscopy. (a) Normalized AR spectra for three different contacts on NbS2. The number of contacts in series is given by m. Vertical grey bars indicate the large gap (outer) and the small gap (inner). (b) Temperature evolution of the blue AR spectrum of NbS2 in the range of 1.5−5.5 K. (c) Temperature dependence of energy gaps for NbS2, obtained from (b). (d) Normalized AR spectra for three different contacts on NbSe2 (e). Temperature evolution of the bla",
+      "page": "6",
+      "attachment_key": "95NCRL4U",
+      "file": "fig_5_95NCRL4U.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "FIG. 6. Fermi surface topology evolution with pressure. Calculated Fermi surfaces of 2H-NbSe2 at (a) 1, (b) 2, (c) 6, and (d) 10 GPa. (e) First Brillouin zone of the hexagonal systems. Calculated Fermi surfaces of 2H-NbS2 at (f) 1, (g) 2, (h) 6 and (i) 10 GPa.",
+      "page": "7",
+      "attachment_key": "PBKIZIBJ",
+      "file": "fig_6_PBKIZIBJ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "FIG. 7. Phase diagram of the upper critical fields of NbSe2 [main panel, data from Fig. 3(d)] and NbS2 (as an inset, data from Fig. S3 [20]) under compression.",
+      "page": "8",
+      "attachment_key": "QX7KQHHB",
+      "file": "fig_7_QX7KQHHB.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "FIG. 8. London penetration depth vs temperature. (a) and (b) The isothermal magnetization of 2H-NbSe2 and 2H-NbS2, measured at 2 K at ambient condition and under an applied external pressure of 11and 15 GPa, respectively. (c) panels illustrate the field dependence of √Mt at various temperatures. The solid red lines are a linear fit of the data. Hc1 values are estimated by extrapolating the linear fit of √Mt to 0. (d) The temperature dependence of London penetration depth of NbSe2 under an applie",
+      "page": "9",
+      "attachment_key": "6C3IC6MY",
+      "file": "fig_8_6C3IC6MY.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "9",
+      "title": "Figure 9",
+      "llm_description": "FIG. 9. Uemura plot of the investigated values under pressure. The panel presents a schematic representation of the Uemura plot of the correlation between superconducting transition temperature Tc against the superfluid density ns/m∗. The obtained λab(0) values for NbSe2 and NbS2 are quite far from the Uemura plot.",
+      "page": "10",
+      "attachment_key": "DBZZJIZT",
+      "file": "fig_9_DBZZJIZT.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Interplay of charge density wave and multiband superconductivity in layered quasi-two-dimensional materials: The case of  <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mn>2</mml:mn><mml:mi mathvariant=\"normal\">H</mml:mi><mml:mtext>−</mml:mtext><mml:mi>Nb</mml:mi><mml:msub><mml:mrow><mml:mi mathvariant=\"normal\">S</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msub></mml:math>  and  <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mn>2</mml:mn><mml:mi mathvariant=\"normal\">H</mml:mi><mml:mtext>−</mml:mtext><mml:mi>Nb</mml:mi><mml:msub><mml:mrow><mml:mi>Se</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msub></mml:math>|\n|短标题|层状准二维材料中电荷密度波与多带超导电性的相互作用http://www.w3.org/1998/Math/MathML“><mml:mn>2<mml:mn><mml:mimathvariant=“normal”>H<mml:mi><mml:mtext>-<mml:mi>Nb<mml:mi><mml:msub<mml:mrow><mml:mimathvariant=“normal”>Shttp://www.w3.org/1998/Math/MathML“><mml:mn>2<mml:mn><mml:mi>Se<mml:mi>正常>H<mml:mi><mml:mtext>–<mml:mn>Nb<mml:mi>|\n|作者|[[Arnab Majumdar]]、 [[Derrick VanGennep]]、 [[Jérémy Brisbois]]、 [[Dmitriy Chareev]]、 [[Andrey V. Sadakov]]、 [[A. S. Usoltsev]]、 [[Masaki Mito]]、 [[Alejandro V. Silhanek]]、 [[Tapati Sarkar]]、 [[Abdelwahab Hassan]]、 [[Olof Karis]]、 [[Rajeev Ahuja]]、 [[Mahmoud Abdel-Hafiez]]|\n|期刊名称|[[Physical Review Materials]]|\n|DOI|[10.1103/PhysRevMaterials.4.084005](https://doi.org/10.1103/PhysRevMaterials.4.084005)|\n|存档位置|58|\n|文库编目|3.6|\n|索书号|2|\n|版权||\n|分类|[[03_CDW 与超导竞争 (CDW vs Superconductivity)]]|\n|条目链接|[My Library](zotero://select/library/items/3W4FYP4X)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/A5MED3RQ\">Majumdar 等 - 2020 - Interplay of charge density wave and multiband superconductivity in layered quasi-two-dimensional ma</a></li><li><a href=\"zotero://open-pdf/library/items/ADKHDVZA\">Majumdar 等 - 2020 - Interplay of charge density wave and multiband superconductivity in layered quasi-two-dimensional ma.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

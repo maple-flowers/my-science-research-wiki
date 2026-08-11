@@ -1,0 +1,19 @@
+{
+  "parent_key": "Lindner2023polymerization",
+  "title": "Lindner2023polymerization",
+  "figures": [],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Two-photon polymerization for random rough surface preparation|\n|短标题|双光子聚合制备无规粗糙表面|\n|作者|[[Benjamin Lindner]]、 [[Felix Glöckler]]、 [[Alwin Kienle]]|\n|期刊名称|[[Optics Continuum]]|\n|DOI|[10.1364/OPTCON.461976](https://doi.org/10.1364/OPTCON.461976)|\n|存档位置|2|\n|文库编目|1.5|\n|索书号|4|\n|版权||\n|分类|[[01_双光子聚合引发剂 (2PP Initiators)]]|\n|条目链接|[My Library](zotero://select/library/items/KRMXQFIN)|\n|PDF 附件||\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

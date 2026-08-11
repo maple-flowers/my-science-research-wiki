@@ -1,0 +1,19 @@
+{
+  "parent_key": "Chatterjee2017universal",
+  "title": "Chatterjee2017universal",
+  "figures": [],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Universal and system-specific charge density wave features in 2H-transition metal dichalcogenides|\n|短标题|2H过渡金属二元化合物的普适和系统比电荷密度波特征|\n|作者|[[Utpal Chatterjee]]|\n|期刊名称|[[Journal of Material Science & Engineering]]|\n|DOI|[10.4172/2169-0022-C1-079](https://doi.org/10.4172/2169-0022-C1-079)|\n|存档位置||\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[02_过渡金属硫族化合物 (TMDCs)]]|\n|条目链接|[My Library](zotero://select/library/items/A3RHPDPC)|\n|PDF 附件||\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

@@ -1,0 +1,214 @@
+{
+  "parent_key": "Zhang2019a",
+  "title": "Zhang2019a",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Figure 1. The variation of the energy per atom of Ti135, Ti257, and Ti895 particles with the simulation time steps.",
+      "page": "3",
+      "attachment_key": "8GSJRYRQ",
+      "file": "fig_1_8GSJRYRQ.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Figure 2. Schematic diagrams of the 1421, 1422, 1441, and 1661 pairs.",
+      "page": "4",
+      "attachment_key": "34UVRTQI",
+      "file": "fig_2_34UVRTQI.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Figure 3. The average energy as a function of the temperature on heating.",
+      "page": "5",
+      "attachment_key": "VVXJNDWX",
+      "file": "fig_3_VVXJNDWX.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Figure 4. ThePDFsoftheTi135,Ti257,andTi895particlesat300,600,800,1200,1300,and1400 Kaswellastheatompackingwiththeminimumvalueoftheenergy",
+      "page": "6",
+      "attachment_key": "SK6TQB88",
+      "file": "fig_4_SK6TQB88.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Figure 5. Thevariationofthemeltingtemperaturewiththeparticlediameter.",
+      "page": "6",
+      "attachment_key": "UJHJUH45",
+      "file": "fig_5_UJHJUH45.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "6",
+      "title": "Figure 6",
+      "llm_description": "Figure 6. The average energy as a function of the temperature on heating for the Ti1099, Ti1639, Ti2361, Ti2493, Ti3347, or Ti3455 particle.",
+      "page": "7",
+      "attachment_key": "T7VXXEFK",
+      "file": "fig_6_T7VXXEFK.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Figure 7. Pairs varying with the temperature for the six particles.",
+      "page": "7",
+      "attachment_key": "TQ8EAVTC",
+      "file": "fig_7_TQ8EAVTC.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "Figure 8. The increase slope of ΔEav/ΔT varying with the atom number.",
+      "page": "7",
+      "attachment_key": "2H6SNMFM",
+      "file": "fig_8_2H6SNMFM.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "9",
+      "title": "Figure 9",
+      "llm_description": "Figure 9. Atom packing at different temperatures for the Ti1099, Ti2361, and Ti3347 particles.",
+      "page": "8",
+      "attachment_key": "JRFEECJM",
+      "file": "fig_9_JRFEECJM.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1. EAM parameters.[39]",
+      "page": "3",
+      "attachment_key": "GBW2JGJ2",
+      "file": "tab_1_GBW2JGJ2.png"
+    },
+    {
+      "id": "T1",
+      "title": "Table 1",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:center\">re (nm)</th>\n<th style=\"text-align:center\">fe</th>\n<th style=\"text-align:center\">ρe</th>\n<th style=\"text-align:center\">ρs</th>\n<th style=\"text-align:center\">A</th>\n<th style=\"text-align:center\">B</th>\n<th style=\"text-align:center\">A (eV)</th>\n<th style=\"text-align:center\">B(eV)</th>\n<th style=\"text-align:center\">Κ</th>\n<th style=\"text-align:center\">λ</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:center\">0.2933872</td>\n<td style=\"text-align:center\">1.863200</td>\n<td style=\"text-align:center\">25.565138</td>\n<td style=\"text-align:center\">25.565138</td>\n<td style=\"text-align:center\">8.775431</td>\n<td style=\"text-align:center\">4.680230</td>\n<td style=\"text-align:center\">0.373601</td>\n<td style=\"text-align:center\">0.570968</td>\n<td style=\"text-align:center\">0.5</td>\n<td style=\"text-align:center\">1.0</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "T2",
+      "title": "Table 2",
+      "content": "<table>\n<thead>\n<tr>\n<th style=\"text-align:center\">Fn0 (eV)</th>\n<th style=\"text-align:center\">Fn1 (eV)</th>\n<th style=\"text-align:center\">Fn2 (eV)</th>\n<th style=\"text-align:center\">Fn3 (eV)</th>\n<th style=\"text-align:center\">F0 (eV)</th>\n<th style=\"text-align:center\">F1 (eV)</th>\n<th style=\"text-align:center\">F2 (eV)</th>\n<th style=\"text-align:center\">F3 (eV)</th>\n<th style=\"text-align:center\">Η</th>\n<th style=\"text-align:center\">Fe (eV)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:center\">3.203773</td>\n<td style=\"text-align:center\">0.198262</td>\n<td style=\"text-align:center\">0.683779</td>\n<td style=\"text-align:center\">2.321732</td>\n<td style=\"text-align:center\">3.22</td>\n<td style=\"text-align:center\">0</td>\n<td style=\"text-align:center\">0.608587</td>\n<td style=\"text-align:center\">0.750710</td>\n<td style=\"text-align:center\">0.558572</td>\n<td style=\"text-align:center\">3.219176</td>\n</tr>\n</tbody>\n</table>",
+      "page": "-"
+    },
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Studying Stability of Atom Packing for Ti Nanoparticles on Heating by Molecular Dynamics Simulations|\n|短标题|用分子动力学方法研究Ti纳米粒子在加热过程中原子堆积的稳定性|\n|作者|[[Lin Zhang]]|\n|期刊名称|[[Advanced Engineering Materials]]|\n|DOI|[10.1002/adem.201800531](https://doi.org/10.1002/adem.201800531)|\n|存档位置||\n|文库编目|3.6|\n|索书号|3|\n|版权||\n|分类|[[东北大学张林老师]]|\n|条目链接|[My Library](zotero://select/library/items/MGB9U8AA)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/XH67WBGI)|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "ð1Þ",
+      "page": "2",
+      "attachment_key": "JKSLE4FW",
+      "file": "eq_1_JKSLE4FW.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "ð3Þ",
+      "page": "2",
+      "attachment_key": "IY4F7YGW",
+      "file": "eq_3_IY4F7YGW.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "ð4Þ",
+      "page": "2",
+      "attachment_key": "LZSYGSBF",
+      "file": "eq_4_LZSYGSBF.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "ð5Þ",
+      "page": "2",
+      "attachment_key": "AKZ9ZC4I",
+      "file": "eq_5_AKZ9ZC4I.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "ð6Þ",
+      "page": "2",
+      "attachment_key": "3NZCI3TL",
+      "file": "eq_6_3NZCI3TL.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "ð7Þ",
+      "page": "2",
+      "attachment_key": "WN3PU9VD",
+      "file": "eq_7_WN3PU9VD.png"
+    },
+    {
+      "id": "eq_9",
+      "title": "Equation 9",
+      "content": "ð9Þ",
+      "page": "4",
+      "attachment_key": "KF8MDN7A",
+      "file": "eq_9_KF8MDN7A.png"
+    }
+  ],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}

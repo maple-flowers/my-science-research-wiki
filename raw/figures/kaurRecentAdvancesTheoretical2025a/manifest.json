@@ -5,10 +5,10 @@
     {
       "fig_number": "1",
       "title": "Figure 1",
-      "llm_description": "Fig. 1: (a) Illustration of up and down vertical polarization induced by charge polarization in a bilayer BN  system.; (b) C/BN heterobilayer arrangement for vertical polarization. Schematic of a C/BN heterobilayer  configuration generating vertical polarization. Note that in the heterobilayer, the ",
+      "llm_description": "Fig. 1: (a) Illustration of up and down vertical polarization induced by charge polarization in a bilayer BN  system.; (b) C/BN heterobilayer arrangement for vertical polarization. Schematic of a C/BN heterobilayer  configuration generating vertical polarization. Note that in the heterobilayer, the magnitude of polarization  can differ in the two oppositely polarized systems. (c) Depiction of stacking configurations for an h-BN  bilayer. (d) Polarization profiles derived from Density Functional ",
       "page": "5",
-      "attachment_key": "3KGASW9L",
-      "file": "fig_1_3KGASW9L.png",
+      "attachment_key": "AU76XCXF",
+      "file": "fig_1_AU76XCXF.png",
       "tags": [
         "Done"
       ],
@@ -17,11 +17,11 @@
     },
     {
       "fig_number": "10",
-      "title": "ReS₂多层中的层间依赖关系",
-      "llm_description": "",
+      "title": "Figure 10",
+      "llm_description": "Fig. 10: (a) Top and side views of the ReSe2 monolayer. (b) Top and side views of the ferroelectric bi-stable  states A and A′, along with the nonpolar intermediate B state for the ReS2 bilayer. (c) Energy contour plot  for the ReSe2 bilayer as a function of the sliding distances (풍풂, 풍풃). (d) Energy barrier for ferroelectric  switching between the states A and A′. (e) Charge density difference plot, with yellow (blue) bubbles  indicating the accumulation (depletion) of electrons. Illustration o",
       "page": "20",
-      "attachment_key": "CEPRWUMA",
-      "file": "fig_10_CEPRWUMA.png",
+      "attachment_key": "739TUGAA",
+      "file": "fig_10_739TUGAA.png",
       "tags": [
         "Done"
       ],
@@ -30,11 +30,11 @@
     },
     {
       "fig_number": "11",
-      "title": "MoA₂N₄系列",
-      "llm_description": "",
+      "title": "Figure 11",
+      "llm_description": "Fig. 11: (a) Two equivalent crystal structures with opposite polarizations for the bilayer MoSi2N4 and  MoGe2N4. (b) Ferroelectric switching pathway for the bilayer MoSi2N4 and MoGe2N4 calculated using the  NEB method. (c) Distributions of the VBM and CBM bands, and (d) the partial density of states (PDOS)  for the bilayer MoSi2N4. (e) Band alignment representation across different stacking regions in the Moiré  superlattice of a twisted MoSi2N4 bilayer. Reprinted with permission from ref. [67].",
       "page": "21",
-      "attachment_key": "2QE29JPW",
-      "file": "fig_11_2QE29JPW.png",
+      "attachment_key": "BNEYWJCN",
+      "file": "fig_11_BNEYWJCN.png",
       "tags": [
         "Done"
       ],
@@ -43,11 +43,11 @@
     },
     {
       "fig_number": "12",
-      "title": "HgX₂（X=Br, I）",
-      "llm_description": "",
+      "title": "Figure 12",
+      "llm_description": "Fig. 12: (a) Top and side views of the crystal structures of polar (±P) and non-polar (PE) bulk HgX2. (b)  Energy double-well profile and polarization behaviour along the switching pathway for bulk HgX2. (c)  Energy double-well profile for the HgX2 bilayer system. (d) Planar-averaged screening charge profiles for  the HgI2 multilayers comprising three, four, five, and six layers. (e) Total interlayer polarization and (f)  average interlayer polarization as a function of the number of HgI2 layers",
       "page": "22",
-      "attachment_key": "WWL3YL6F",
-      "file": "fig_12_WWL3YL6F.png",
+      "attachment_key": "5DRMFEUA",
+      "file": "fig_12_5DRMFEUA.png",
       "tags": [
         "Done"
       ],
@@ -56,11 +56,11 @@
     },
     {
       "fig_number": "13",
-      "title": "GeS₂/CuInP₂S₆（CIPS）多层与Moire",
-      "llm_description": "",
+      "title": "Figure 13",
+      "llm_description": "Fig. 13: (a) Ferroelectric switching paths in the GeS2/CuInP2S6 heterostructure, involving both layer sliding  and ion displacement mechanisms. (b) Polarization and energy barrier profiles for the transition from the  HP+ state to the HP- state in the heterostructure. (c) Differential charge density (Δρ) along the z direction  and charge transfer (n) for the GeS2/CuInP2S6 and GeS2/CuInP2S6/GeS2 heterostructures. (d) Energy  barrier for Cu ion displacement along the black dashed line in (c) for b",
       "page": "24",
-      "attachment_key": "SPQGSWHQ",
-      "file": "fig_13_SPQGSWHQ.png",
+      "attachment_key": "Q2ZT9TYR",
+      "file": "fig_13_Q2ZT9TYR.png",
       "tags": [
         "Done"
       ],
@@ -69,11 +69,11 @@
     },
     {
       "fig_number": "14",
-      "title": "C/BN多层与跨层滑移铁电（ALSF）",
-      "llm_description": "",
+      "title": "Figure 14",
+      "llm_description": "Fig. 14: (a) Geometric structure of the two ferroelectric states formed by intercalated graphene between  two parallel h-BN layers. (b) Energy barrier profile for ferroelectric switching, and (c) differential charge  density plots for the two bipolar states. (d) Independent molecular behavior enables the benzene molecular  layer/graphene/h-BN heterostructure to achieve high-density storage through sliding ferroelectric  switching. Reprinted with permission from ref. [71]. Copyright © 2023 Wiley-",
       "page": "25",
-      "attachment_key": "ABAUSW44",
-      "file": "fig_14_ABAUSW44.png",
+      "attachment_key": "EU6ERPYG",
+      "file": "fig_14_EU6ERPYG.png",
       "tags": [
         "Done"
       ],
@@ -82,11 +82,11 @@
     },
     {
       "fig_number": "15",
-      "title": "多层石墨烯的滑移铁电性",
-      "llm_description": "",
+      "title": "Figure 15",
+      "llm_description": "Fig. 15: (a) Switching among polar stacking states ABAC, CABA, and CBAB in four-layer graphene, and  (b) the corresponding ferroelectric switching pathway, calculated by the NEB method. (c) Differential  charge density distributions for the polar states, along with Hirschfeld charge analysis. Yellow and blue iso-surfaces represent the electron accumulation and depletion caused by layer stacking. (d) Stacking domain  chart for 2 + 2 and 1 + 3 twisted tetralayer graphene, where NP and X denote the",
       "page": "26",
-      "attachment_key": "2MMF328L",
-      "file": "fig_15_2MMF328L.png",
+      "attachment_key": "7HMHTA47",
+      "file": "fig_15_7HMHTA47.png",
       "tags": [
         "Done"
       ],
@@ -95,11 +95,11 @@
     },
     {
       "fig_number": "16",
-      "title": "BTO/SnS二维/三维复合",
-      "llm_description": "",
+      "title": "Figure 16",
+      "llm_description": "Fig. 16: (a) Geometric structures of 1-uc freestanding BTO with BaO (upper panel) and TiO2 (lower panel)  terminations and (b) SnS monolayer. Polar structures of 1-uc BTO on SnS with (c) BaO termination and  (e) TiO2 termination. (d, f) Energy barriers and polarization switching pathways for the BTO/SnS  heterostructure with BaO termination and TiO2 termination, respectively. Red and green arrows represent  the polarization direction in the SnS and BTO layers. Energy landscapes (left panels), po",
       "page": "28",
-      "attachment_key": "49DBX6NH",
-      "file": "fig_16_49DBX6NH.png",
+      "attachment_key": "MI7YCSTX",
+      "file": "fig_16_MI7YCSTX.png",
       "tags": [
         "Done"
       ],
@@ -109,10 +109,10 @@
     {
       "fig_number": "17",
       "title": "Figure 17",
-      "llm_description": "Fig. 17: (a, b) Top view of the VS2 bilayer in up (AB) and down (BA) polarization states. (c, d, e) Charge  density difference plots for the VS2 bilayer in polar states (AB, BA) and the non-polar state (AA). (f) Double-well potential curve for the VSe2 bilayer (paramagnetic state) with respect to in",
+      "llm_description": "Fig. 17: (a, b) Top view of the VS2 bilayer in up (AB) and down (BA) polarization states. (c, d, e) Charge  density difference plots for the VS2 bilayer in polar states (AB, BA) and the non-polar state (AA). (f) Double-well potential curve for the VSe2 bilayer (paramagnetic state) with respect to interlayer sliding. (g, h) Band  structure with SOC for the antiferromagnetic FE configurations 푷↑푴↑↓ and 푷↓푴↓↑ and corresponding  berry curvature in the first Brillouin zone. (i, j) Band structure with",
       "page": "30",
-      "attachment_key": "22TJ9294",
-      "file": "fig_17_22TJ9294.png",
+      "attachment_key": "GCQLXFUN",
+      "file": "fig_17_GCQLXFUN.png",
       "tags": [
         "Done"
       ],
@@ -122,10 +122,10 @@
     {
       "fig_number": "18",
       "title": "Figure 18",
-      "llm_description": "Fig. 18: (a) Crystal structures of the three phases of layered ZrI2: 1T′(휶), 푻ퟎ, and 푻풅(휷). The symbols M  and P stand for the clockwise and counterclockwise rotated ZrI6 octahedra in ZrI2 bulk. The ± sign  represents the displacement direction of the I-I bond relative to the lower trilayer. (b) Enl",
+      "llm_description": "Fig. 18: (a) Crystal structures of the three phases of layered ZrI2: 1T′(휶), 푻ퟎ, and 푻풅(휷). The symbols M  and P stand for the clockwise and counterclockwise rotated ZrI6 octahedra in ZrI2 bulk. The ± sign  represents the displacement direction of the I-I bond relative to the lower trilayer. (b) Enlarged view of the  phonon spectrum for 푻ퟎ- ZrI2. (c) FE polarization in 푻풅(휷)-ZrI2 via the intermediate 푻ퟎ phase. (d) Double-well energy curve and polarization as a function of interlayer sliding dist",
       "page": "33",
-      "attachment_key": "B2PGHWGJ",
-      "file": "fig_18_B2PGHWGJ.png",
+      "attachment_key": "TT3NFJTQ",
+      "file": "fig_18_TT3NFJTQ.png",
       "tags": [
         "Done"
       ],
@@ -134,11 +134,11 @@
     },
     {
       "fig_number": "19",
-      "title": "20：MnBi₂Te₄",
-      "llm_description": "",
+      "title": "Figure 19",
+      "llm_description": "Fig. 19: (a) Side view of 3R and 2H stacking configurations for the bilayer MoBi2Te4. (b) Top view of the  AB stacking configuration, with a green arrow representing the sliding pathway. Red (blue) balls are the  Mn atoms in the upper (lower) layer, while the yellow (purple) balls correspond to Te (Bi) atoms. (c)  Ferroelectric switching pathway for the 2H stacking configuration. Insets show the differential charge  density at the minimum and maximum energy points along the pathway. (d) Variatio",
       "page": "35",
-      "attachment_key": "XLDDN7TJ",
-      "file": "fig_19_XLDDN7TJ.png",
+      "attachment_key": "PFJF35FL",
+      "file": "fig_19_PFJF35FL.png",
       "tags": [
         "Done"
       ],
@@ -148,10 +148,10 @@
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "Fig. 2: (a) Variation in out-of-plane polarization and electric dipole moment as a function of interlayer  spacing. (b) Phase diagram of the electric dipole moment as a function of interlayer spacing and applied in-plane biaxial strain. Changes in the out-of-plane interlayer distance (ΔZ) with the a",
+      "llm_description": "Fig. 2: (a) Variation in out-of-plane polarization and electric dipole moment as a function of interlayer  spacing. (b) Phase diagram of the electric dipole moment as a function of interlayer spacing and applied in-plane biaxial strain. Changes in the out-of-plane interlayer distance (ΔZ) with the applied uniaxial strain  along the (c) x and (d) y directions, respectively. Reprinted with permission from ref. [40]. Copyright ©  2022 American Physical Society.",
       "page": "6",
-      "attachment_key": "A9NGDH9W",
-      "file": "fig_2_A9NGDH9W.png",
+      "attachment_key": "WXXKXBRL",
+      "file": "fig_2_WXXKXBRL.png",
       "tags": [
         "Done"
       ],
@@ -161,10 +161,10 @@
     {
       "fig_number": "20",
       "title": "Figure 20",
-      "llm_description": "Fig. 20: (a) Crystal structure of bulk MnBi2Te4 (MBT). (b) Atomic structures of four-layer MnBi2Te4  (FLMBT) after breaking 푷 symmetry and corresponding ferroelectric switching. (c) NEB calculated energy  barrier for 푷ퟏ-FLMBT. (d) The band structure of 푷ퟏ-FLMBT with SOC. (e) Anomalous Hall conductiv",
+      "llm_description": "Fig. 20: (a) Crystal structure of bulk MnBi2Te4 (MBT). (b) Atomic structures of four-layer MnBi2Te4  (FLMBT) after breaking 푷 symmetry and corresponding ferroelectric switching. (c) NEB calculated energy  barrier for 푷ퟏ-FLMBT. (d) The band structure of 푷ퟏ-FLMBT with SOC. (e) Anomalous Hall conductivity  for the 푷ퟏ-FLMBT and 푷ퟏ ′ -FLMBT. (f) Chern number as a function of interlayer distance increment (휹d)  between surface single layer and trilayer in pristine FLMBT. Reprinted with permission from",
       "page": "36",
-      "attachment_key": "S8ZHA5CI",
-      "file": "fig_20_S8ZHA5CI.png",
+      "attachment_key": "MSGL9MAG",
+      "file": "fig_20_MSGL9MAG.png",
       "tags": [
         "Done"
       ],
@@ -174,10 +174,10 @@
     {
       "fig_number": "21",
       "title": "Figure 21",
-      "llm_description": "Fig. 21: Geometric structures of (a) anti-parallel stacked CrI3 bilayer, (b) anti-parallel stacked Cr2Ge2Te6  bilayer, and (c) parallel stacked Fe3GeTe2 bilayer. The states I and II in (a), (b) &amp; (c) are bi-stable  ferroelectric states with opposite polarization marked as red arrows. (d) The ene",
+      "llm_description": "Fig. 21: Geometric structures of (a) anti-parallel stacked CrI3 bilayer, (b) anti-parallel stacked Cr2Ge2Te6  bilayer, and (c) parallel stacked Fe3GeTe2 bilayer. The states I and II in (a), (b) &amp; (c) are bi-stable  ferroelectric states with opposite polarization marked as red arrows. (d) The energy barrier for the  ferroelectric switching for the CrI3, Cr2Ge2Te6, and Fe3GeTe2 bilayers. Reprinted with permission from ref.  [96]. Copyright © 2023 Elsevier.  Ma",
       "page": "37",
-      "attachment_key": "5UGVMZGH",
-      "file": "fig_21_5UGVMZGH.png",
+      "attachment_key": "7MRZGUTM",
+      "file": "fig_21_7MRZGUTM.png",
       "tags": [
         "Done"
       ],
@@ -187,10 +187,10 @@
     {
       "fig_number": "22",
       "title": "Figure 22",
-      "llm_description": "Fig. 22: (a) The energy profile of interlayer sliding of MnSe bilayer. (b) The energy barrier for the  ferroelectricity switching ABBA of MnSe bilayer. (c) The geometric structures of the bi-stable  ferroelectric states AB, BA and the intermediate state IS. (d) The polarization and magnetic moment ",
+      "llm_description": "Fig. 22: (a) The energy profile of interlayer sliding of MnSe bilayer. (b) The energy barrier for the  ferroelectricity switching ABBA of MnSe bilayer. (c) The geometric structures of the bi-stable  ferroelectric states AB, BA and the intermediate state IS. (d) The polarization and magnetic moment along  the switching pathway ABBA. (e) The differential charge density with yellow (blue) bubbles denoting the  accumulation (depletion) of electrons in bi-stable states. The variation in electric po",
       "page": "38",
-      "attachment_key": "CHV8YYIG",
-      "file": "fig_22_CHV8YYIG.png",
+      "attachment_key": "3BZPZSMY",
+      "file": "fig_22_3BZPZSMY.png",
       "tags": [
         "Done"
       ],
@@ -200,10 +200,10 @@
     {
       "fig_number": "23",
       "title": "Figure 23",
-      "llm_description": "Fig. 23: (a) Top and side view of VI2 monolayer. Noncollinear Y (120°-ordered) AFM order with (b) positive  and (c) negative spin spiral chirality in VI2 monolayer. (d) A schematic demonstrating spin spiral order  induced electric polarization. (e) The variation in energy difference between down and",
+      "llm_description": "Fig. 23: (a) Top and side view of VI2 monolayer. Noncollinear Y (120°-ordered) AFM order with (b) positive  and (c) negative spin spiral chirality in VI2 monolayer. (d) A schematic demonstrating spin spiral order  induced electric polarization. (e) The variation in energy difference between down and up spin spiral  chirality (∆푬푫→푼) with the external out-of-plane electric field in VI2 monolayer. (f) The energy distribution  plot for VI2 bilayer showing different stackings (with reference to AB).",
       "page": "40",
-      "attachment_key": "GAX5BILR",
-      "file": "fig_23_GAX5BILR.png",
+      "attachment_key": "IQTNM2V2",
+      "file": "fig_23_IQTNM2V2.png",
       "tags": [
         "Done"
       ],
@@ -213,10 +213,10 @@
     {
       "fig_number": "24",
       "title": "Figure 24",
-      "llm_description": "Fig. 24: Top view of atomic structures of (a) CrI3 and (b) MnSe2 monolayers. (c) Energy profiles of  CrI3/MnSe2 heterobilayer as a function of interlayer sliding, indicating sliding configurations S1, S2, and  S3. The variation in electric polarization difference (푷풆풙= 푷푨푭푴−푷푭푴) with the on-site ene",
+      "llm_description": "Fig. 24: Top view of atomic structures of (a) CrI3 and (b) MnSe2 monolayers. (c) Energy profiles of  CrI3/MnSe2 heterobilayer as a function of interlayer sliding, indicating sliding configurations S1, S2, and  S3. The variation in electric polarization difference (푷풆풙= 푷푨푭푴−푷푭푴) with the on-site energy difference  (Δdd) between magnetic ions and the hopping strength (풕 represents the interatomic hopping integrals of  the two-ion model and 풕풑풑 represents the hopping between non-magnetic orbitals ",
       "page": "41",
-      "attachment_key": "U9KDA9JC",
-      "file": "fig_24_U9KDA9JC.png",
+      "attachment_key": "TLD45LIJ",
+      "file": "fig_24_TLD45LIJ.png",
       "tags": [
         "Done"
       ],
@@ -226,10 +226,10 @@
     {
       "fig_number": "25",
       "title": "Figure 25",
-      "llm_description": "Fig. 25: (a) AA stacked SnS2/MnPSe3/SnS2 heterostructure with polarization along the +z direction arising  from a dipole moment contribution from the S-P atom pair. (b) Two transition paths for ferroelectric  switching in the trilayer heterostructure based on sliding sequential order and (c) the cor",
+      "llm_description": "Fig. 25: (a) AA stacked SnS2/MnPSe3/SnS2 heterostructure with polarization along the +z direction arising  from a dipole moment contribution from the S-P atom pair. (b) Two transition paths for ferroelectric  switching in the trilayer heterostructure based on sliding sequential order and (c) the corresponding  transition energy barriers. Reprinted with permission from ref. [104]. Copyright © 2024 American  Chemical Society.  d",
       "page": "42",
-      "attachment_key": "AWM2A6YV",
-      "file": "fig_25_AWM2A6YV.png",
+      "attachment_key": "Y6TELKJU",
+      "file": "fig_25_Y6TELKJU.png",
       "tags": [
         "Done"
       ],
@@ -238,11 +238,11 @@
     },
     {
       "fig_number": "26",
-      "title": "铁电与铁磁性",
-      "llm_description": "",
+      "title": "Figure 26",
+      "llm_description": "Figure 26: (a) Model for Ferroelectric switching and their corresponding (b) charge depletion around Mn  ions and (c) energy band structures for the SnS2/MnPSe3/SnS2 heterostructure. Reprinted with permission  from ref. [104]. Copyright © 2024 American Chemical Society.  a",
       "page": "43",
-      "attachment_key": "F9HI6URQ",
-      "file": "fig_26_F9HI6URQ.png",
+      "attachment_key": "WRL54Q7E",
+      "file": "fig_26_WRL54Q7E.png",
       "tags": [
         "Done"
       ],
@@ -252,10 +252,10 @@
     {
       "fig_number": "27",
       "title": "Figure 27",
-      "llm_description": "Fig. 27: (a) Top and side views of PtBr3 monolayer. (b)-(d) Crystal structures of AA′, AB′, and AC′ stacking  orders of PtBr3 bilayer. (e) Crystal Hall Effect. (f) Kerr angle and (g) ellipticity in magneto-optical Kerr  effect (MOKE) for +푷 and -푷 phases of AC′ stacking. Reprinted with permission fr",
+      "llm_description": "Fig. 27: (a) Top and side views of PtBr3 monolayer. (b)-(d) Crystal structures of AA′, AB′, and AC′ stacking  orders of PtBr3 bilayer. (e) Crystal Hall Effect. (f) Kerr angle and (g) ellipticity in magneto-optical Kerr  effect (MOKE) for +푷 and -푷 phases of AC′ stacking. Reprinted with permission from ref. [109]. Copyright  © 2024 American Physical Society.    M",
       "page": "44",
-      "attachment_key": "KSA9BYK4",
-      "file": "fig_27_KSA9BYK4.png",
+      "attachment_key": "UMBP4VUW",
+      "file": "fig_27_UMBP4VUW.png",
       "tags": [
         "Done"
       ],
@@ -265,10 +265,10 @@
     {
       "fig_number": "28",
       "title": "Figure 28",
-      "llm_description": "Figure 28: Energy vs polarization for a number of sliding ferroelectric bilayers. Plot (b) provides a  magnified view of the low energy-polarization region.  nTable 2 · 第 47 页Table 2:  Reported Curie temperature in Kelvin units for the discussed sliding ferroelectric materials.  eFormula 19 · 第 48 页",
+      "llm_description": "Figure 28: Energy vs polarization for a number of sliding ferroelectric bilayers. Plot (b) provides a  magnified view of the low energy-polarization region.  n",
       "page": "47",
-      "attachment_key": "TNMSSG2C",
-      "file": "fig_28_TNMSSG2C.png",
+      "attachment_key": "5ICIG7NK",
+      "file": "fig_28_5ICIG7NK.png",
       "tags": [
         "Done"
       ],
@@ -278,10 +278,10 @@
     {
       "fig_number": "29",
       "title": "Figure 29",
-      "llm_description": "Fig. 29: (a) The polarization 푷(푻) and (b) the critical switching field −푬̃풄 normalized by ퟖ∆/(ퟑ√ퟑ푷ퟎ)  variation with temperature for several dimensionless switching barriers ∆̃= 푨ퟎ∆/풌푩푻ퟎ with 휸= ퟎ. ퟎퟏ. (c)  The entropy change per unit mass ∆풔(푬) with the electric field at 푻= 푻풄 +. Reprinted with pe",
+      "llm_description": "Fig. 29: (a) The polarization 푷(푻) and (b) the critical switching field −푬̃풄 normalized by ퟖ∆/(ퟑ√ퟑ푷ퟎ)  variation with temperature for several dimensionless switching barriers ∆̃= 푨ퟎ∆/풌푩푻ퟎ with 휸= ퟎ. ퟎퟏ. (c)  The entropy change per unit mass ∆풔(푬) with the electric field at 푻= 푻풄 +. Reprinted with permission from  ref. [47]. Copyright © 2023 American Physical Society.  d",
       "page": "49",
-      "attachment_key": "PLIPWZLZ",
-      "file": "fig_29_PLIPWZLZ.png",
+      "attachment_key": "PC3552FQ",
+      "file": "fig_29_PC3552FQ.png",
       "tags": [
         "Done"
       ],
@@ -291,10 +291,10 @@
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "Fig. 3: (a) Schematic representation of 풑풛 orbital distortion in AB stacking of BN bilayer. (b) Projected band  structure of the AB-stacked BN bilayer. (c) Partial charge density corresponding to points ① and ② in  Fig. 2.3 (b), respectively. (d) Variation in polarization as a function of the electr",
+      "llm_description": "Fig. 3: (a) Schematic representation of 풑풛 orbital distortion in AB stacking of BN bilayer. (b) Projected band  structure of the AB-stacked BN bilayer. (c) Partial charge density corresponding to points ① and ② in  Fig. 2.3 (b), respectively. (d) Variation in polarization as a function of the electric field in the range (-0.05,  0.05) V/Å. (e) NEB calculations along the path (ABAABAAPAB) with different colors  representing the different values of the electric field. The inset shows the varia",
       "page": "7",
-      "attachment_key": "RD7I5V4B",
-      "file": "fig_3_RD7I5V4B.png",
+      "attachment_key": "4WK7RC3W",
+      "file": "fig_3_4WK7RC3W.png",
       "tags": [
         "Done"
       ],
@@ -304,10 +304,10 @@
     {
       "fig_number": "4",
       "title": "Figure 4",
-      "llm_description": "Fig. 4: (a) The variation of the imaginary part of the order parameter (흍) with temperature. 풂∗ and 풃∗ are  the reciprocal lattice vectors and 푮= 풂∗−풃∗. Purple arrows represent the sliding vector 풕. (b) Coercive  field (푬⊥,풄) as a function of temperature (orange line).  The purple line represents th",
+      "llm_description": "Fig. 4: (a) The variation of the imaginary part of the order parameter (흍) with temperature. 풂∗ and 풃∗ are  the reciprocal lattice vectors and 푮= 풂∗−풃∗. Purple arrows represent the sliding vector 풕. (b) Coercive  field (푬⊥,풄) as a function of temperature (orange line).  The purple line represents the 푬⊥,풄 as a function of  temperature as an additional parallel electric field (푬∥) of 0.2 V/Å is applied at 60° counterclockwise to y-axis (×). (c) The relationship between 푬⊥,풄 and 푬∥, as obtained an",
       "page": "9",
-      "attachment_key": "G3HMT2HH",
-      "file": "fig_4_G3HMT2HH.png",
+      "attachment_key": "KNAMQJ9W",
+      "file": "fig_4_KNAMQJ9W.png",
       "tags": [
         "Done"
       ],
@@ -316,11 +316,11 @@
     },
     {
       "fig_number": "5",
-      "title": "激光诱导超快极化切换与动力学多铁性",
-      "llm_description": "",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5: (a) The energy surface depicting all the stacking configurations. (b) The energy and (c) polarization  as a function of the amplitude of E (4) mode (Q[E(4)]). (d) Sketch represents the polarization vector change  when sliding between AB and BA configurations. (e)The electric field pulse used in simulations generating  (f) polarization components (푷풙, 푷풚, 푷풛) and (g) magnetic moment components (푴풙, 푴풚, 푴풛). Reprinted  with permission from ref. [48]. Copyright © 2024 American Physical Soci",
       "page": "10",
-      "attachment_key": "YT3QTYVX",
-      "file": "fig_5_YT3QTYVX.png",
+      "attachment_key": "6I78ZK76",
+      "file": "fig_5_6I78ZK76.png",
       "tags": [
         "Done"
       ],
@@ -329,11 +329,11 @@
     },
     {
       "fig_number": "6",
-      "title": "Td-WTe₂双层",
-      "llm_description": "",
+      "title": "Figure 6",
+      "llm_description": "Fig. 6: (a) Geometric structures of two oppositely polarized states and intermediate state. (b) NEB  translation pathway connecting the polarized states for the WTe2 bilayer. Energy and vertical polarization  plot as the upper layer dragged along the (c) -풙 direction at 풚 = ퟎ; and (d) -풚 direction at 풙 = −(풂+ 풃)/ퟐ. (e) Variation in vertical polarization with compression of the interlayer distance. (f) Polarization  profiles calculated using Density Functional Theory (DFT) potential drop (open bl",
       "page": "13",
-      "attachment_key": "AJ4YWA2C",
-      "file": "fig_6_AJ4YWA2C.png",
+      "attachment_key": "K9RVARA2",
+      "file": "fig_6_K9RVARA2.png",
       "tags": [
         "Done"
       ],
@@ -342,11 +342,11 @@
     },
     {
       "fig_number": "7",
-      "title": "BX/YN/ZC系列",
-      "llm_description": "",
+      "title": "Figure 7",
+      "llm_description": "Fig. 7: (a) Side views of BP, GaN, and GeC bilayers in the AC stacking configuration. (b) Energy barrier  and polarization along the AC → AB stacking switching pathway, calculated using the NEB method. (c)  Correlation between the optimal interlayer distance and the anion-to-cation electronegativity ratio (푬풂/푬풄).  (d) Polarization as a function of the system&#39;s effective distance 풅풆풇풇. (e) Relationship between polarization  and the electronegativity ratio normalized by the effective distance",
       "page": "15",
-      "attachment_key": "AQ7TBNSC",
-      "file": "fig_7_AQ7TBNSC.png",
+      "attachment_key": "5ZKSFJXQ",
+      "file": "fig_7_5ZKSFJXQ.png",
       "tags": [
         "Done"
       ],
@@ -355,11 +355,11 @@
     },
     {
       "fig_number": "8",
-      "title": "Janus TMDs与MoS₂/WS₂",
-      "llm_description": "",
+      "title": "Figure 8",
+      "llm_description": "Fig. 8: (a) Top and side views of the two polarized states, AB and AC, of the SeMoS bilayer. (b) Planar-averaged electric potential for the SeMoS bilayer along the z direction. (c) Energy barrier and polarization  along the switching pathway ABAC. Polarization as a function of the optimal interlayer distance for the  (d) XMoY bilayer and (e) XWY bilayer. (f) Relationship between polarization and effective distance. (g)  Variation in polarization with changes in the interlayer distance. (h) Ener",
       "page": "17",
-      "attachment_key": "MX8U9U6Z",
-      "file": "fig_8_MX8U9U6Z.png",
+      "attachment_key": "PHYF2JFI",
+      "file": "fig_8_PHYF2JFI.png",
       "tags": [
         "Done"
       ],
@@ -368,11 +368,11 @@
     },
     {
       "fig_number": "9",
-      "title": "层极化自旋霍尔效应（LP-SHE）",
-      "llm_description": "",
+      "title": "Figure 9",
+      "llm_description": "Fig. 9: A schematic representation of layer-polarized spin Hall effect (LP-SHE) for hole-doped (left) and  electron-doped (right) polar stacked bilayers exhibiting sliding ferroelectricity. (b) and (c) Layer-polarized  band structures for AB and BA stacked MoTe2 bilayer, respectively. (d) Berry curvature near the valence  band maximum (VBM) along high-symmetry lines of the MoTe2 bilayer. (f) Spin Berry curvature-projected  band structure and 풌-resolved spin Berry curvature along high-symmetry li",
       "page": "19",
-      "attachment_key": "B86USQS2",
-      "file": "fig_9_B86USQS2.png",
+      "attachment_key": "AVZKMT9S",
+      "file": "fig_9_AVZKMT9S.png",
       "tags": [
         "Done"
       ],
@@ -382,19 +382,166 @@
   ],
   "tables": [
     {
-      "id": "T1",
+      "id": "tab_1",
       "title": "Table 1",
-      "content": "<table><thead><tr><th>材料</th><th>表征</th><th>理论</th><th>实验</th><th>实验来源</th></tr></thead><tbody><tr><td>h-BN双层</td><td>1.58×10⁴ K（旧理论模型）<br>1500 K（机器学习势修正）</td><td>~1500 K</td><td>–</td><td>[46] (DREAM框架)</td></tr><tr><td>WTe₂ 双层</td><td>–</td><td>350 K</td><td>350 K</td><td>[51]</td></tr><tr><td>ReSe₂ 多层</td><td>–</td><td>–</td><td>405 K</td><td>[15]</td></tr><tr><td>β-ZrI₂</td><td>约400 K（bulk）</td><td>位移&lt;476 K（双24//）</td><td>–</td><td>[84]–85</td></tr><tr><td>C/BN四层</td><td>约300-400 K</td><td>–</td><td>–</td><td>[71]</td></tr></tbody></table>",
-      "page": "-"
+      "content": "Table 1. The band gap in eV units, out-of-plane polarization (mentioned otherwise in-plane for in-plane) in  pC.m-1 units (unless specified), and ferroelectric switching energy barrier in meV units.   u",
+      "page": "45",
+      "attachment_key": "3QKTNISV",
+      "file": "tab_1_3QKTNISV.png"
+    },
+    {
+      "id": "tab_2",
+      "title": "Table 2",
+      "content": "Table 2:  Reported Curie temperature in Kelvin units for the discussed sliding ferroelectric materials.  e",
+      "page": "47",
+      "attachment_key": "CNML9EBW",
+      "file": "tab_2_CNML9EBW.png"
     },
     {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials|\n|短标题|层状和范德华二维材料中滑动铁电性的理论研究进展|\n|作者|[[Arneet Kaur]]、 [[Abir De Sarkar]]|\n|期刊名称|[[Journal of Physics：Condensed Matter]]|\n|DOI|[10.1088/1361-648X/addf05](https://doi.org/10.1088/1361-648X/addf05)|\n|存档位置||\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[03_二维铁电与滑动铁电 (2D/Sliding Ferroelectricity)]]|\n|条目链接|[My Library](zotero://select/library/items/QGM7RIPI)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/3U7JU5XX)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials|\n|短标题|层状和范德华二维材料中滑动铁电性的理论研究进展|\n|作者|[[Arneet Kaur]]、 [[Abir De Sarkar]]|\n|期刊名称|[[Journal of Physics：Condensed Matter]]|\n|DOI|[10.1088/1361-648X/addf05](https://doi.org/10.1088/1361-648X/addf05)|\n|存档位置||\n|文库编目|0|\n|索书号|0|\n|版权||\n|分类|[[03_二维铁电与滑动铁电 (2D/Sliding Ferroelectricity)]]|\n|条目链接|[My Library](zotero://select/library/items/QGM7RIPI)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/3U7JU5XX)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[zhangNonvolatileControlTopological2025]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_10",
+      "title": "Equation 10",
+      "content": "(eq. 10)",
+      "page": "11",
+      "attachment_key": "EG6HZVKT",
+      "file": "eq_10_EG6HZVKT.png"
+    },
+    {
+      "id": "eq_13",
+      "title": "Equation 13",
+      "content": "(eq. 13)",
+      "page": "12",
+      "attachment_key": "LFPVEJ4K",
+      "file": "eq_13_LFPVEJ4K.png"
+    },
+    {
+      "id": "eq_14",
+      "title": "Equation 14",
+      "content": "(eq. 14)",
+      "page": "15",
+      "attachment_key": "I93RIQPS",
+      "file": "eq_14_I93RIQPS.png"
+    },
+    {
+      "id": "eq_16",
+      "title": "Equation 16",
+      "content": "(eq. 16)  p",
+      "page": "23",
+      "attachment_key": "ED73SZUL",
+      "file": "eq_16_ED73SZUL.png"
+    },
+    {
+      "id": "eq_17",
+      "title": "Equation 17",
+      "content": "(eq. 17)",
+      "page": "39",
+      "attachment_key": "ENVBAXF3",
+      "file": "eq_17_ENVBAXF3.png"
+    },
+    {
+      "id": "eq_18",
+      "title": "Equation 18",
+      "content": "(eq. 18)",
+      "page": "41",
+      "attachment_key": "ARIS5SRN",
+      "file": "eq_18_ARIS5SRN.png"
+    },
+    {
+      "id": "eq_19",
+      "title": "Equation 19",
+      "content": "(eq. 19)",
+      "page": "48",
+      "attachment_key": "QEYAP45U",
+      "file": "eq_19_QEYAP45U.png"
+    },
+    {
+      "id": "eq_20",
+      "title": "Equation 20",
+      "content": "(eq. 20)",
+      "page": "49",
+      "attachment_key": "URI5MQNZ",
+      "file": "eq_20_URI5MQNZ.png"
+    },
+    {
+      "id": "eq_21",
+      "title": "Equation 21",
+      "content": "(eq.21)",
+      "page": "49",
+      "attachment_key": "8CWLAPNS",
+      "file": "eq_21_8CWLAPNS.png"
+    },
+    {
+      "id": "eq_23",
+      "title": "Equation 23",
+      "content": "(eq. 23)",
+      "page": "49",
+      "attachment_key": "QRKNBC4D",
+      "file": "eq_23_QRKNBC4D.png"
+    },
+    {
+      "id": "eq_25",
+      "title": "Equation 25",
+      "content": "(eq. 25)",
+      "page": "50",
+      "attachment_key": "FNM46Z9F",
+      "file": "eq_25_FNM46Z9F.png"
+    },
+    {
+      "id": "eq_26",
+      "title": "Equation 26",
+      "content": "(eq. 26)",
+      "page": "50",
+      "attachment_key": "DTISGU7I",
+      "file": "eq_26_DTISGU7I.png"
+    },
+    {
+      "id": "eq_27",
+      "title": "Equation 27",
+      "content": "(eq. 27)",
+      "page": "50",
+      "attachment_key": "7T5QSPXL",
+      "file": "eq_27_7T5QSPXL.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(eq. 4).",
+      "page": "6",
+      "attachment_key": "HGFDZPHI",
+      "file": "eq_4_HGFDZPHI.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "(eq. 5)",
+      "page": "8",
+      "attachment_key": "T7EMI4TE",
+      "file": "eq_5_T7EMI4TE.png"
+    },
+    {
+      "id": "eq_6",
+      "title": "Equation 6",
+      "content": "(eq. 6)",
+      "page": "8",
+      "attachment_key": "YYHPFE8I",
+      "file": "eq_6_YYHPFE8I.png"
+    },
+    {
+      "id": "eq_7",
+      "title": "Equation 7",
+      "content": "(eq. 7)",
+      "page": "9",
+      "attachment_key": "DG7HVECU",
+      "file": "eq_7_DG7HVECU.png"
+    }
+  ],
   "tags": [
     "Done"
   ],

@@ -1,0 +1,82 @@
+{
+  "parent_key": "nicholsonUniaxialStraininducedPhase2021",
+  "title": "nicholsonUniaxialStraininducedPhase2021",
+  "figures": [
+    {
+      "fig_number": "1",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1 Effect of strain on the electronic structure of IrTe2. a, b Top and side views of the crystal structure of IrTe2 in the high-temperature 1 × 1 (a) and low-temperature 6 × 1 phase (b). The formation of Ir–Ir dimers is highlighted by solid blue lines. Red lines are the unit cells of the corresponding phases. The experimental kx and ky directions are marked. c Bulk Brillouin zone of the high-temperature phase showing the high-symmetry points. d Photograph of the strain device. Samples are or",
+      "page": "3",
+      "attachment_key": "UZTFFAL6",
+      "file": "fig_1_UZTFFAL6.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "2",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2 Real-space view of the strain-induced 6 × 1 phase. a, b Large scale STM images of an (a) unstrained and (b) strained sample at 4.5 K. A characterization of the strained sample at various points across the surface is shown in Supplementary Fig. S3. c, e LEED images of (c) unstrained (E = 85 eV) and (e) strained samples (E = 60 eV) at T = 30 K. A single rotational domain and 6 × 1 periodicity are observed in the LEED pattern of the strained sample. d, f Atomic resolution STM images of the l",
+      "page": "4",
+      "attachment_key": "7I8TUSG4",
+      "file": "fig_2_7I8TUSG4.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "3",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3 Strain-induced charge transfer. a XPS measurements (hν = 130 eV, T = 300 K) of the Ir 4f7/2 core level for strained and unstrained samples, measured at the same position as the relevant ARPES data. The appearance of a distinct shoulder in the strained sample reveals the appearance of the Ir3+δ+ site, not normally present above 280 K, implying Ir to Te charge transfer. b The same Ir 4f7/2 core level at 30 K. Again, the Ir3+δ+ peak is enhanced in the strained case. The ratio of the Ir3+δ+ p",
+      "page": "4",
+      "attachment_key": "NYNJ78QB",
+      "file": "fig_3_NYNJ78QB.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4 Observation of reduced interlayer coupling and Lifshitz transition in the Dirac dispersions. a Calculated relative bond strengths in the 6 × 1 phase highlighting significant weakening of the interlayer bonds. Bond strength changes are given with reference to the integrated COHP in the high-temperature phase. The majority of interlayer bonds are strongly weakened (blue) in the 6 × 1 phase. All bond strengths are tabulated in Supplementary Table S1. b Out-of-plane (kz) ARPES dispersions at ",
+      "page": "5",
+      "attachment_key": "SRHBAT5F",
+      "file": "fig_4_SRHBAT5F.png",
+      "tags": [
+        "unread"
+      ],
+      "materials": [
+        "TMDs及其变体（MoS2）"
+      ],
+      "methods": []
+    }
+  ],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Uniaxial strain-induced phase transition in the 2D topological semimetal IrTe2|\n|短标题|二维拓扑半金属IrTe2的单轴应变诱导相变|\n|作者|[[Christopher W. Nicholson]]、 [[Maxime Rumo]]、 [[Aki Pulkkinen]]、 [[Geoffroy Kremer]]、 [[Björn Salzmann]]、 [[Marie-Laure Mottas]]、 [[Baptiste Hildebrand]]、 [[Thomas Jaouen]]、 [[Timur K. Kim]]、 [[Saumya Mukherjee]]、 [[KeYuan Ma]]、 [[Matthias Muntwiler]]、 [[Fabian O. von Rohr]]、 [[Cephise Cacho]]、 [[Claude Monney]]|\n|期刊名称|[[Communications Materials]]|\n|DOI|[10.1038/s43246-021-00130-5](https://doi.org/10.1038/s43246-021-00130-5)|\n|存档位置|52|\n|文库编目|9.6|\n|索书号|2|\n|版权||\n|分类|[[07_发光机理与陷阱物理 (ML Mechanisms)]]|\n|条目链接|[My Library](zotero://select/library/items/FYHGGQEQ)|\n|PDF 附件|<ul><li><a href=\"zotero://open-pdf/library/items/PSUQKPLL\">Nicholson 等 - 2021 - Uniaxial strain-induced phase transition in the 2D topological semimetal IrTe2</a></li><li><a href=\"zotero://open-pdf/library/items/PAHNF27P\">Nicholson 等 - 2021 - Uniaxial strain-induced phase transition in the 2D topological semimetal IrTe2.pdf</a></li></ul>|\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [
+    "TMDs及其变体（MoS2）"
+  ],
+  "methods": []
+}

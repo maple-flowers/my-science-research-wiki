@@ -4,137 +4,136 @@
   "figures": [
     {
       "fig_number": "1",
-      "title": "交换耦合参数J、DMI面内分量d||、各向异性常数K、d||/J比值和κ值",
-      "llm_description": "",
+      "title": "Figure 1",
+      "llm_description": "Fig. 1. (a) Top and side views of ML CrInTe2. (b) Top and side views of ML In2Se3, with arrows (P↑ and P↓) indicating the polarization direction. (c) Top and side  views of CrInTe2/In2Se3 heterostructure featuring different stacking configurations, depicting both upward (P↑) and downward (P↓) polarizations of In2Se3.",
       "page": "3",
-      "attachment_key": "NIWJCW2Q",
-      "file": "fig_1_NIWJCW2Q.png",
+      "attachment_key": "JDGLCTDB",
+      "file": "fig_1_JDGLCTDB.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3"
-      ],
-      "methods": [
-        "DFT",
-        "first-principles",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "2",
-      "title": "原子分辨的磁各向异性势能和Dzyaloshinskii-Moriya相互作用相关自旋轨道耦合能的局域化",
-      "llm_description": "",
+      "title": "Figure 2",
+      "llm_description": "Fig. 2. (a) Atom-resolved magnetic anisotropy energy. p-orbital-resolved magnetic anisotropy of Te2 atoms in (b) CrInTe2/In2Se3(P↑) and (c) CrInTe2/In2Se3(P↓). (d)  Atomic-layer-resolved localization of DMI-associated SOC energy. p-orbital-resolved magnetic anisotropy of Te1 atoms in (e) CrInTe2/In2Se3(P↑) and (f)  CrInTe2/In2Se3(P↓).",
       "page": "4",
-      "attachment_key": "JR5CBB7Z",
-      "file": "fig_2_JR5CBB7Z.png",
+      "attachment_key": "Q7TYSSIJ",
+      "file": "fig_2_Q7TYSSIJ.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3"
-      ],
-      "methods": [
-        "DFT",
-        "first-principles",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "3",
-      "title": "拓扑磁动力学的微磁模拟结果",
-      "llm_description": "",
+      "title": "Figure 3",
+      "llm_description": "Fig. 3. (a) Spin textures of CrInTe2/In2Se3 under zero field and Bz = 50 mT. (b) Relationship between the topological charge Q and the magnetic field Bz for CrInTe2/  In2Se3(P↓). (c) Phase diagrams of CrInTe2/In2Se3(P↓) as a function of temperature and Bz, along with the variation of spin texture with temperature at Bz = 2.0 T. (d)  Relationship between the skyrmion radius Rx and Bz for CrInTe2/In2Se3(P↓).",
       "page": "4",
-      "attachment_key": "3PR5KUN5",
-      "file": "fig_3_3PR5KUN5.png",
+      "attachment_key": "Z9FGHBYU",
+      "file": "fig_3_Z9FGHBYU.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3"
-      ],
-      "methods": [
-        "DFT",
-        "first-principles",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "4",
-      "title": "MAE和DMI在拓扑磁性中的相互作用",
-      "llm_description": "",
+      "title": "Figure 4",
+      "llm_description": "Fig. 4. (a) The relationship between spin texture and K under magnetic fields of 0 T and 1.6 T. (b) The energy contributions of total energy from various exchange  energies in the spin Hamiltonian. (c) The contributions of Zeeman energy (EZeeman), anisotropy energy (EAni), and DMI energy (EDMI) in the spin Hamiltonian.",
       "page": "5",
-      "attachment_key": "RV7H8M8K",
-      "file": "fig_4_RV7H8M8K.png",
+      "attachment_key": "TV6K5X9T",
+      "file": "fig_4_TV6K5X9T.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3"
-      ],
-      "methods": [
-        "DFT",
-        "first-principles",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "5",
-      "title": "d||和K的相图以及κ值表征的自旋织构相图",
-      "llm_description": "",
+      "title": "Figure 5",
+      "llm_description": "Fig. 5. (a) The spin texture diagram of CrInTe2/In2Se3(P↓) as a function of d|| and K, with J set to 9.85 meV; (b) Spin texture diagram of CrInTe2/In2Se3(P↓)  characterized by κ. The purple, orange, green, and blue lines represent κ = −10, κ = −5, κ = 5, and κ = 10, respectively.",
       "page": "6",
-      "attachment_key": "N79KVZLW",
-      "file": "fig_5_N79KVZLW.png",
+      "attachment_key": "SCSIXLYM",
+      "file": "fig_5_SCSIXLYM.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3"
-      ],
-      "methods": [
-        "DFT",
-        "first-principles",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     },
     {
       "fig_number": "6",
-      "title": "斯格明子和双子子的电流驱动动力学",
-      "llm_description": "",
+      "title": "Figure 6",
+      "llm_description": "ig. 6. Motion snapshots of (a) N´eel-type skyrmion and (b) bimeron at 0 ns, 3 ns, and 6 ns. The effect of the spin transfer torque parameter u on vx (c) and vy",
       "page": "7",
-      "attachment_key": "WE34LPXZ",
-      "file": "fig_6_WE34LPXZ.png",
+      "attachment_key": "ZU3NDFU8",
+      "file": "fig_6_ZU3NDFU8.png",
       "tags": [
         "Done"
       ],
-      "materials": [
-        "In2Se3"
-      ],
-      "methods": [
-        "DFT",
-        "first-principles",
-        "STM"
-      ]
+      "materials": [],
+      "methods": []
     }
   ],
   "tables": [
     {
+      "id": "tab_1",
+      "title": "Table 1",
+      "content": "Table 1  Exchange coupling parameter J, in-plane component of DMI d||, anisotropy  constant K, d||/J ratio, and κ values.",
+      "page": "3",
+      "attachment_key": "DUDZIDX5",
+      "file": "tab_1_DUDZIDX5.png"
+    },
+    {
       "id": "MD-T1",
       "title": "MD Table 1",
-      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Nonvolatile control of topological magnetism in two-dimensional CrInTe2/In2Se3 multiferroic heterostructures|\n|短标题|二维CrInTe2/In2Se3多铁异质结构拓扑磁性的非易失性控制|\n|作者|[[Shuo Zhang]]、 [[Yunfei Zhang]]、 [[Dan Xing]]、 [[Lixiu Guan]]、 [[Junguang Tao]]|\n|期刊名称|[[Materials Today Chemistry]]|\n|DOI|[10.1016/j.mtchem.2025.103049](https://doi.org/10.1016/j.mtchem.2025.103049)|\n|存档位置||\n|文库编目|7.4|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/3XD6QXZ5)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/NB55NM5L)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Nonvolatile control of topological magnetism in two-dimensional CrInTe2/In2Se3 multiferroic heterostructures|\n|短标题|二维CrInTe2/In2Se3多铁异质结构拓扑磁性的非挥发控制|\n|作者|[[Shuo Zhang]]、 [[Yunfei Zhang]]、 [[Dan Xing]]、 [[Lixiu Guan]]、 [[Junguang Tao]]|\n|期刊名称|[[Materials Today Chemistry]]|\n|DOI|[10.1016/j.mtchem.2025.103049](https://doi.org/10.1016/j.mtchem.2025.103049)|\n|存档位置||\n|文库编目|7.4|\n|索书号|2|\n|版权||\n|分类|[[01_多铁性综述 (Multiferroics Review)]]|\n|条目链接|[My Library](zotero://select/library/items/3XD6QXZ5)|\n|PDF 附件|[PDF](zotero://open-pdf/library/items/NB55NM5L)|\n|关联文献|[[zhangEmergingFrontiersTwodimensional2025]]、 [[chenStrongSlidingFerroelectricity2024]]、 [[kresseEfficientIterativeSchemes1996d]]、 [[gaoGiantChiralMagnetoelectric2024a]]、 [[tangMultiferroicityTwodimensionalVan2025]]、 [[laiTwodimensionalFerromagnetismDriven2019b]]、 [[guoAdvancesTwodimensionalFerroelectric2025]]、 [[feiFerroelectricSwitchingTwodimensional2018a]]、 [[wuSlidingFerroelectricity2D2021a]]、 [[cuiIntercorrelatedInplaneOutofplane2018a]]、 [[zhaoOpticalFingerprintsTwodimensional2024]]、 [[tahirFerroelectricityNonvolatileMemristor2025]]、 [[cheongMultiferroicsMagneticTwist2007a]]、 [[wangVASPKITUserfriendlyInterface2021a]]、 [[songEvidenceSinglelayerVan2022]]、 [[sharmaRoomtemperatureFerroelectricSemimetal2019]]、 [[laiTwodimensionalFerromagnetismDriven2019]]、 [[blochlProjectorAugmentedwaveMethod1994b]]、 [[dingPredictionIntrinsicTwodimensional2017a]]、 [[naguib25thAnniversaryArticle2013a]]、 [[RecentAdvancesGrowth2025]]、 [[aminiAtomicscaleVisualizationMultiferroicity2024]]、 [[wuNonvolatileSwitchableHalfmetallicity2024]]、 [[kresseUltrasoftPseudopotentialsProjector1999c]]、 [[yuFerroelectricControlMagnetism2026]]、 [[henkelmanClimbingImageNudged2000c]]、 [[hanTunableSlidingFerroelectricity2025]]、 [[perdewGeneralizedGradientApproximation1996a]]、 [[sunSlidingFerroelectricityTwodimensional2025b]]、 [[tangCombiningIntrinsicSlidinginduced2025]]、 [[wangTunableD0Topological2025b]]、 [[wangTwodimensionalFerroelectricMetal2025]]、 [[gaoStrainEngineeringFerroelectric2024]]、 [[caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]、 [[wuCoexistenceFerroelectricityAntiferroelectricity2024]]、 [[kaurRecentAdvancesTheoretical2025a]]、 [[miaoMagneticFerroelectricMetal2024]]、 [[heSwitchingTwodimensionalSliding2025]]、 [[zhaoRealization2DMultiferroic2024]]、 [[hillWhyAreThere2000a]]、 [[bhowalPolarMetalsPrinciples2023b]]、 [[sattarFunctionalizedDoubleTransition2025]]、 [[songEvidenceSinglelayerVan2022b]]、 [[zahraCriticalAnalysisFerroelectric2025]]、 [[dudarevElectronenergylossSpectraStructural1998a]]、 [[neumayerCompetingPolarPhases2025]]、 [[tianRoomtemperatureTwodimensionalMultiferroic2026]]、 [[xunCoexistingMagnetismFerroelectric2024]]、 [[king-smithTheoryPolarizationCrystalline1993]]、 [[king-smithTheoryPolarizationCrystalline1993c]]|",
       "page": "-"
     }
   ],
-  "formulas": [],
+  "formulas": [
+    {
+      "id": "eq_1",
+      "title": "Equation 1",
+      "content": "(1)",
+      "page": "2",
+      "attachment_key": "VFQJF82Y",
+      "file": "eq_1_VFQJF82Y.png"
+    },
+    {
+      "id": "eq_3",
+      "title": "Equation 3",
+      "content": "(3)",
+      "page": "2",
+      "attachment_key": "4IHDA4XH",
+      "file": "eq_3_4IHDA4XH.png"
+    },
+    {
+      "id": "eq_4",
+      "title": "Equation 4",
+      "content": "(4)",
+      "page": "3",
+      "attachment_key": "MV938FQK",
+      "file": "eq_4_MV938FQK.png"
+    },
+    {
+      "id": "eq_5",
+      "title": "Equation 5",
+      "content": "(5)",
+      "page": "6",
+      "attachment_key": "LRHE8QNY",
+      "file": "eq_5_LRHE8QNY.png"
+    }
+  ],
   "tags": [
     "Done"
   ],
-  "materials": [
-    "In2Se3"
-  ],
-  "methods": [
-    "DFT",
-    "first-principles",
-    "STM"
-  ]
+  "materials": [],
+  "methods": []
 }

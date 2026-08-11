@@ -1,0 +1,19 @@
+{
+  "parent_key": "Cui2022",
+  "title": "Cui2022",
+  "figures": [],
+  "tables": [
+    {
+      "id": "MD-T1",
+      "title": "MD Table 1",
+      "content": "|<div style=\"width: 5em\">Key</div>|Value|\n|--:|:--|\n|文献类型|journalArticle|\n|标题|Investigating arrangements of doping B atoms affecting electrical structures of graphene nanoribbons from DFTB simulations|\n|短标题|B原子掺杂对石墨烯纳米带电结构影响的DFTB模拟研究|\n|作者|[[Yang Cui]]、 [[Dandan Zhao]]、 [[Jing Li]]、 [[Lin Zhang]]|\n|期刊名称|[[Materials Science in Semiconductor Processing]]|\n|DOI|[10.1016/j.mssp.2022.106899](https://doi.org/10.1016/j.mssp.2022.106899)|\n|存档位置||\n|文库编目|5.2|\n|索书号|3|\n|版权||\n|分类|[[东北大学张林老师]]|\n|条目链接|[My Library](zotero://select/library/items/PQUZ9765)|\n|PDF 附件||\n|关联文献||",
+      "page": "-"
+    }
+  ],
+  "formulas": [],
+  "tags": [
+    "unread"
+  ],
+  "materials": [],
+  "methods": []
+}
