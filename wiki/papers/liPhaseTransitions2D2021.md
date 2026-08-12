@@ -246,7 +246,7 @@ Wenbin Li、Xiaofeng Qian、Ju Li，2021，*Nature Reviews Materials* 6, 829–8
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-devices]]、[[../figures/heterostructures-stacking]]、[[../figures/experimental-setups]]、[[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
   - 年度 [[../write/2021]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
-  - 话题 [[../topics/D02-多铁性材料]]、[[../topics/Z01-材料模拟计算设计]]
+  - 话题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/liPhaseTransitions2D2021]]
 
 ## 🆕 新概念/实体建议

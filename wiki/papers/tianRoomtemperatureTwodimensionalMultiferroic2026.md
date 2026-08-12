@@ -109,7 +109,7 @@ Dacheng Tian, Shulin Zhong, Jianyu Dong et al.（共同一作），2026 年，*N
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]（Cr-t₂g/e_g 态密度与能带填充模型）、[[../figures/heterostructures-stacking]]、[[../figures/experimental-setups]]、[[../figures/domain-walls|畴与畴壁结构]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - 年度 [[../write/2026]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
-  - 主题 [[../topics/D02-多铁性材料]]、[[../topics/Z01-材料模拟计算设计]]
+  - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/tianRoomtemperatureTwodimensionalMultiferroic2026]]
 
 ## 📊 关键图表

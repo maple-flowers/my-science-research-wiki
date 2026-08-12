@@ -69,7 +69,7 @@ G. Kresse 与 J. Hafner，1994-05-15，Physical Review B 49(20), 14251–14269�
   - 图表 [[../figures/electronic-bands]]（DOS 赝能隙→能隙、带隙局域态）
   - 图表 [[../figures/mathematical-models]]（g(R)、S(Q)、键角分布、局域化参数 L）
   - 年度 [[../write/1994]]
-  - 主题 [[../topics/Z01-材料模拟计算设计]]
+  - 主题 [[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994]]
 ## 🆕 新概念/实体建议
   - `ab-initio-molecular-dynamics`（AIMD，从头算分子动力学；从电子基态实时算力的 MD，本文是 Born-Oppenheimer MD 路线的奠基性工作之一）

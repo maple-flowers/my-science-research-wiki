@@ -123,8 +123,8 @@ Zikun Tang, Yi Hu, Lukas Rogée, Duanzijing Liu, Shu Ping Lau et al.，2025，*C
   - 图表 [[../figures/optical-spectra]]（SHG/PFM/MOKE 表征）
   - 图表 [[../figures/experimental-setups]]
   - 年度 [[../write/2025]]
-  - 主题 [[../topics/D02-多铁性材料]]
-  - 主题 [[../topics/Z01-材料模拟计算设计]]
+  - 主题 [[多铁性材料]]
+  - 主题 [[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/tangMultiferroicityTwodimensionalVan2025]]
 
 ## 🆕 新概念/实体建议

@@ -91,7 +91,7 @@ Gao, Chen, Qi et al.，2024，Applied Physics Letters 125, 212903，DOI 10.1063/
   - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/WTe2]]、[[../entities/SnTe]]、[[../entities/domain-wall]]、[[../entities/HgBr2]]、[[../entities/CuInP2S6]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/domain-walls]]、[[../figures/mathematical-models]]
   - 年度 [[../write/2024]]
-  - 话题 [[../topics/D02-多铁性材料]]、[[../topics/Z01-材料模拟计算设计]]
+  - 话题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/gaoStrainEngineeringFerroelectric2024]]
 
 ## 📊 关键图表

@@ -85,7 +85,7 @@ Ying Zhao, Yanxia Wang, Yue Yang, Jijun Zhao, Xue Jiang（大连理工大学/华
   - 实体 [[../entities/TMDs]]、[[../entities/VASP]]、[[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/CrTe2]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking]]、[[../figures/experimental-setups|实验测试与测量装置]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - 年度 [[../write/2024]]
-  - 主题 [[../topics/D02-多铁性材料]]、[[../topics/Z01-材料模拟计算设计]]
+  - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/zhaoRealization2DMultiferroic2024]]
 ## 🆕 新概念/实体建议
   - `intercalation`（插层）：外来原子/分子嵌入范德华层间间隙形成杂化化合物的化学过程，是本文设计策略的核心。

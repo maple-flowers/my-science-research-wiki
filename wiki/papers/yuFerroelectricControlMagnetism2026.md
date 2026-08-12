@@ -110,7 +110,7 @@ Cuiju Yu, Liangliang Hong, Zhao Chen, Zhao Liu, Shizhe Jiao, Xiaofeng Liu*, Wei 
   - 实体 [[../entities/VASP]]、[[../entities/Wannier90]]、[[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/Fe3GeTe2]]、[[../entities/TMDs]]、[[../entities/h-BN]]、[[../entities/BiFeO3]]、[[../entities/HoMnO3]]、[[../entities/MXenes]]、[[../entities/CrTe2]]、[[../entities/domain-wall]]、[[../entities/crsbr]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]、[[../figures/electronic-devices]]、[[../figures/mathematical-models]]
   - 年度 [[../write/2026]]
-  - 主题 [[../topics/D02-多铁性材料]]、[[../topics/Z01-材料模拟计算设计]]
+  - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/yuFerroelectricControlMagnetism2026]]
 
 ## 📊 关键图表

@@ -117,7 +117,7 @@ Manfred Fiebig、Thomas Lottermoser、Dennis Meier、Morgan Trassin（ETH Züric
   - 图表 [[../figures/experimental-setups]]
   - 年度 [[../write/2016]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
-  - 主题 [[../topics/D02-多铁性材料]]
+  - 主题 [[多铁性材料]]
   - 相关论文 [[../../raw/note/fiebigEvolutionMultiferroics2016]]
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体：

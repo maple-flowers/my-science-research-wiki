@@ -113,7 +113,7 @@ Sang-Wook Cheong & Maxim Mostovoy，2007，*Nature Materials* 6(1), 13–20，DO
   - 图表 [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结 (Multiferroic & Magnetoelectric Heterostructures)]]
   - 年度 [[../write/2007]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
-  - 主题 [[../topics/D02-多铁性材料]]
+  - 主题 [[多铁性材料]]
   - 相关论文 **cheongMultiferroicsMagneticTwist2007a**
 
 ## 🆕 新概念/实体建议

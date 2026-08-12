@@ -85,7 +85,7 @@ Lin Zhang，2019，*Progress in Natural Science: Materials International* 29(2):
   - 图表 [[../figures/mathematical-models]]（EAM 总能量公式、Sommerfeld 插值势、惯性矩/形状因子、杜隆-珀蒂热容斜率）
   - 年度 [[../write/2019]]
   - 相关论文 [[../../raw/note/Zhang2019c]]
-  - （主题契合 [[../topics/Z01-材料模拟计算设计]]，关键词即 "Computational materials design"，但该条目不在本格式规定的双链类别内，特此备注）
+  - （主题契合 [[材料模拟计算设计]]，关键词即 "Computational materials design"，但该条目不在本格式规定的双链类别内，特此备注）
 
 ## 📊 关键图表
 笔记未附图片（raw/figures/Zhang2019c/ 仅有 manifest.json，figures 列表为空）。论文原图为 Fig.1 势能-时间步弛豫、Fig.2 五类键对示意、Fig.3 表面/体积比-直径、Fig.4 势能与形状因子-温度、Fig.5 键对分数-温度、Fig.6 堆积快照、Fig.7 热容斜率-直径。

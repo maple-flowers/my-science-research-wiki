@@ -117,7 +117,7 @@ Feng-Hui Gong, Yun-Long Tang, Yu-Jia Wang, Yu-Ting Chen, Bo Wu, Li-Xin Yang, Yin
   - 图表 [[../figures/optical-spectra]]
   - 图表 [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - 年度 [[../write/2023]]
-  - 主题 [[../topics/Z01-材料模拟计算设计]]
+  - 主题 [[材料模拟计算设计]]
   - 相关论文 **gongAbsenceCriticalThickness2023**
 
 ## 📊 关键图表

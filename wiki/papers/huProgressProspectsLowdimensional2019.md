@@ -155,7 +155,7 @@ Ting Hu、Erjun Kan（阚二军，南京理工大学应用物理系）et al.，2
   - 图表 [[../figures/experimental-setups]]
   - 图表 [[../figures/domain-walls]]
   - 年度 [[../write/2019]]
-  - 主题 [[../topics/D02-多铁性材料]]
+  - 主题 [[多铁性材料]]
   - 项目 [[../projects/project-2-mn-multiferroics]]（SrMnO₃ 应变多铁及 Mn 基多铁综述脉络）
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]（1-UC SnTe 铁电增强、Tc 提升机理）
   - 相关论文 [[../../raw/note/huProgressProspectsLowdimensional2019]]

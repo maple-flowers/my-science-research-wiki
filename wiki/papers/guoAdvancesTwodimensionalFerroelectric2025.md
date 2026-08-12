@@ -117,7 +117,7 @@ Zi-Han Guo（郭子涵）、Lin He（何林，通讯作者，北京师范大学�
   - 实体 [[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/SnTe]]、[[../entities/BiFeO3]]、[[../entities/domain-wall]]、[[../entities/CuInP2S6|CuInP₂S₆ (CIPS)]]、[[../entities/bp-bi-bismuth|BP-Bi（类黑磷铋）]]、[[../entities/d1t-mote2|d1T-MoTe₂]]、[[../entities/3r-tmds|3R 相 TMDs]]、[[../entities/rbn-rhombohedral-bn|rBN（菱方BN）]]、[[../entities/mn-bi2-te4-mbt|MnBi₂Te₄ (MBT)]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/electronic-devices]]、[[../figures/optical-spectra]]、[[../figures/vibrational-spectra]]、[[../figures/heterostructures-stacking]]、[[../figures/mathematical-models]]、[[../figures/domain-walls]]、[[../figures/experimental-setups]]、[[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - 年度 [[../write/2025]]
-  - 主题 [[../topics/D02-多铁性材料]]、[[../topics/Z01-材料模拟计算设计]]
+  - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/guoAdvancesTwodimensionalFerroelectric2025]]
 ## 📊 关键图表
   - ![图1：CIPS（a-e，四重势阱/PFM盒中盒/电滞回线）与 α-In₂Se₃（f-h，偶极锁定/单层PFM/β′β″相）自发极化](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_1_7K9CL28G.png) -> [[../figures/electronic-devices|电子与突触器件]]

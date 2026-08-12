@@ -108,7 +108,7 @@ Haoqiang Ai, Feifei Li, Haoyun Bai, Dong Liu, Kin Ho Lo, Shengyuan A. Yang, Yosh
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking]]、[[../figures/mathematical-models]]、[[../figures/experimental-setups|实验测试与测量装置]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - 年度 [[../write/2022]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
-  - 主题 [[../topics/D02-多铁性材料]]、[[../topics/Z01-材料模拟计算设计]]
+  - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/aiFerroelectricityCoexistedPorbital2022]]
 
 ## 🆕 新概念/实体建议

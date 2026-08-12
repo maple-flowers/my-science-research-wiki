@@ -128,7 +128,7 @@ Sayantika Bhowal、Nicola A. Spaldin（ETH Zürich），2023，*Annual Review of
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking]]、[[../figures/domain-walls]]、[[../figures/vibrational-spectra]]、[[../figures/experimental-setups]]
   - 年度 [[../write/2023]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]
-  - 主题 [[../topics/D02-多铁性材料]]、[[../topics/Z01-材料模拟计算设计]]
+  - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/bhowalPolarMetalsPrinciples2023b]]
 
 ## 📊 关键图表
