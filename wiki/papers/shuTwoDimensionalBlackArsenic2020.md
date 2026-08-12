@@ -104,20 +104,66 @@ Yiqing Shu, Jia Guo, Taojian Fan 等，2020，ACS Applied Materials & Interfaces
   - `electron-hole-recombination`（概念）：电子-空穴复合速率，决定半导体饱和吸收体的饱和强度和调制深度
 ## 📊 关键图表
   - ![图1 LPE制备流程与b-AsP晶体结构](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_1_CK9CPM5I.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+    - **图示描述**：左面板为液相剥离法（LPE）制备流程示意——块体 b-AsP 晶体在溶剂中经探头超声剥离、离心分离得到含少层纳米片的分散液；右面板为 b-AsP 的正交晶系褶皱蜂窝晶格球棍模型，As 与 P 原子比例约 0.2:0.8，层间为弱范德华作用、面内为强共价键。
+    - **关键特征**：层状结构是 LPE 可剥离的结构基础；褶皱蜂窝晶格继承自黑磷并由 As 随机取代部分 P；As 掺杂破坏了原有的镜面对称性，为后续低复合率提供结构前提。
+    - **结论/意义**：交代材料来源与原子构型，把"可液相剥离 + 低对称性合金"两条线索同时建立起来。
   - ![图2 SEM/TEM/HRTEM/SAED/AFM/Raman 形貌与结构表征](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_2_3F3W8NM9.png) -> [[../figures/vibrational-spectra|振动能谱与声子谱]]
+    - **图示描述**：六联面板表征 LPE 制备的 b-AsP 纳米片：(a) SEM 显示块体层状形貌；(b) TEM 显示半透明薄片状纳米片；(c) HRTEM 给出清晰晶格条纹；(d) SAED 呈规则单晶衍射斑；(e) AFM 形貌及高度剖面；(f) Raman 光谱标出 Ag¹、B₂g、Ag² 三个特征峰。
+    - **关键特征**：AFM 插图测得纳米片平均厚度约 5 nm；Raman 低频区 200–300 cm⁻¹ 弱峰归因为 As 振动（As 含量低故峰弱），高频区 300–500 cm⁻¹ 归因为 P–P / As–P / P–As 多种键合；HRTEM 与 SAED 共同证实高结晶度与单晶性质。
+    - **结论/意义**：从形貌、厚度、结晶度到振动指纹多重印证 LPE 成功产出高质量少层 b-AsP，为后续光学测量提供合格样品。
   - ![图3 UV-vis-NIR 线性吸收光谱与 XPS 元素分析](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_3_TJ7DXYBR.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+    - **图示描述**：(a) 300–2200 nm 范围的 UV-vis-NIR 稳态线性吸收谱，吸收强度随波长减小平滑上升；(b, c) 分别为 As 3d 与 P 2p 轨道的 XPS 高分辨谱。
+    - **关键特征**：吸收谱是不同厚度/形状/带隙纳米片吸收的包络，无尖锐激子峰，呈现宽带线性响应；XPS 仅检出 As 与 P 两种元素，无氧化或溶剂杂质峰，说明 LPE 过程未改变化学组成。
+    - **结论/意义**：证明 b-AsP 具备从可见到近红外乃至更长相干波段的宽带吸收潜力，且纯度满足非线性光学与器件集成要求。
   - ![图4 开孔 Z 扫描曲线及透射率-光强拟合](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_4_MSPUKV32.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+    - **图示描述**：(a–c) 800、1550、1800 nm 三个波长下的开孔 Z 扫描曲线，横轴为样品相对焦点位置 z（mm），纵轴为归一化透射率 T(z)；(d–f) 为对应波长下归一化透射率随输入峰值光强（GW/cm²）的变化，散点是实验数据、实线是单光子吸收模型拟合。
+    - **关键特征**：三条 Z 扫描曲线在焦点 z = 0 处均出现明显透射峰，是典型可饱和吸收信号；拟合给出 1800 nm 处 β = −0.23 cm/GW、Is = 3.336 GW/cm²、Ts = 10.45%、Tns = 10.27%；800 nm 与 1550 nm 处 β 分别为 −0.49、−0.15 cm/GW；1800 nm 处 Is 比石墨烯（25.4 GW/cm²）、黑磷（58.2 GW/cm²）低约一个数量级。
+    - **结论/意义**：定量确立 b-AsP 在近红外至中红外具有"大 β + 低 Is"的宽带饱和吸收优势，是其作为高性能 SA 的核心实验证据。
   - ![图5 块体 b-P 与 b-AsP 的 DFT 能带结构](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_5_MVYKWDCC.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+    - **图示描述**：(a) 块体黑磷（b-P）的能带结构；(b–d) 块体 b-AsP 沿 z、x、y 三个方向取五个原胞构造超胞后的能带结构，均采用 PBE 泛函（HSE 因严重高估带隙而未采用）。
+    - **关键特征**：块体 b-AsP 的 PBE 带隙仅 0.0915 eV，远小于块体 b-P 的 0.2737 eV；带隙越小，激子结合能越低、电子-空穴对越不易复合，对应更低的饱和强度；三个方向超胞结果一致，表明结论对建模方向不敏感。
+    - **结论/意义**：从电子结构层面解释 b-AsP 低 Is 的第一重原因——极小带隙，为图 4 的实验观测提供理论支撑。
   - ![图6 VBM/CBM 部分电荷密度分布](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_6_LNFE9U8X.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+    - **图示描述**：(a, b) 块体 b-AsP（1 1 5 超胞）在价带顶 VBM 与导带底 CBM 处的部分电荷密度等值面；(c, d) 同样视角下块体 b-P 的 VBM 与 CBM 电荷密度作为对照。
+    - **关键特征**：b-AsP 中 VBM（空穴）与 CBM（电子）的电荷云在实空间落在不同原子位点/区域，呈明显空间分离；b-P 中 VBM 与 CBM 电荷分布高度重叠；As 掺杂同时打破结构对称，可能诱导内建电场进一步阻碍复合。
+    - **结论/意义**：与图 5 的小带隙共同构成"小带隙 + 电荷空间分离 + 破缺对称"三重机制，直观解释为何 b-AsP 的电子-空穴复合率显著低于 b-P，从而获得低 Is、大 Ts。
   - ![图7 EDF/TDF 光纤激光器环形腔装置示意图](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_7_XLTSTL6I.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+    - **图示描述**：(a) 掺铒光纤激光器（EDF，1.5 μm 波段）与 (b) 掺铥光纤激光器（TDF，2 μm 波段）的环形腔结构示意图，b-AsP 纳米片与一段微纳光纤耦合构成可饱和吸收器件接入腔内。
+    - **关键特征**：腔内典型元件包括 WDM 波分复用器（耦合泵浦光）、隔离器（保证单向传输）、偏振控制器（调节腔内偏振态以启动锁模）、输出耦合器；b-AsP-SA 以微纳光纤倏逝场集成方式接入，光-物质作用距离长、散热好。
+    - **结论/意义**：给出器件验证平台，说明 b-AsP 是被嵌入标准光纤激光腔中作为被动锁模元件，而非空间光分立器件。
   - ![图8 1.5 μm EDF 锁模激光输出特性](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_8_4BIKEVDR.png) -> [[../figures/electronic-devices|电子与突触器件]]
+    - **图示描述**：六联面板展示基于 b-AsP-SA 的 EDF 锁模输出：(a) 1000 ns 跨度内的脉冲序列；(b) 输出光谱；(c) 连续 7 小时光谱稳定性监测；(d) 射频频谱（插图为 100 MHz 宽带）；(e) 自相关迹及 Sech² 拟合；(f) 输出功率随泵浦功率变化。
+    - **关键特征**：脉冲间隔约 86.5 ns，对应重复频率 8.49 MHz；中心波长 1564.52 nm，3 dB 带宽 3.63 nm；SNR 约 61 dB，宽带 RF 无谐波/脉冲分裂；Sech² 拟合脉宽 828 fs，TBP ≈ 0.366（变换极限 0.315，提示弱啁啾）；斜率效率 2.9%，泵浦 300 mW 时最大输出 7.97 mW；7 小时光谱无明显畸变。
+    - **结论/意义**：在近红外通讯波段证明 b-AsP-SA 可输出高质量飞秒孤子锁模脉冲，且在基频下长时间稳定、无脉冲爆发。
   - ![图9 2 μm TDF 锁模激光输出特性](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_9_VN5J8H2G.png) -> [[../figures/electronic-devices|电子与突触器件]]
+    - **图示描述**：与图 8 同构的六联面板，但工作在 2 μm 中红外波段的 TDF 环形腔：(a) 脉冲序列；(b) 光谱；(c) 7 小时光谱稳定性；(d) 射频谱（插图为 100 MHz 宽带）；(e) 自相关迹及 Sech² 拟合；(f) 输出-泵浦功率曲线。
+    - **关键特征**：腔往返时间 162.2 ns（腔长约 32.8 m），重复频率 6.09 MHz；中心波长 1888.42 nm，3 dB 带宽 1.59 nm，光谱两侧出现对称 Kelly 边带（孤子锁模标志）；SNR 约 68.8 dB；Sech² 拟合脉宽 2.49 ps，TBP ≈ 0.332（接近变换极限）；斜率效率 3.5%，最大输出功率 35.5 mW；移除 b-AsP-SA 后无论如何调节偏振控制器都无法锁模。
+    - **结论/意义**：在 2 μm 中红外实现高稳定皮秒孤子锁模，35.5 mW 输出功率为同期黑磷 SA（8.45 mW）的 4 倍以上，凸显 b-AsP 在高功率中红外超快光源中的应用潜力。
   - ![公式1 Z扫描透射率公式](../../raw/figures/shuTwoDimensionalBlackArsenic2020/eq_1_HSKRPJHL.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+    - **图示描述**：开孔 Z 扫描归一化透射率公式 T(z) = 1 − βI₀L_eff / [2^(3/2)(1 + z²/z₀²)]，其中 I₀ 为焦点处轴上峰值强度，z₀ 为瑞利长度，L_eff 为样品有效长度。
+    - **关键特征**：β < 0 对应可饱和吸收（焦点处透射率升高），β > 0 对应双光子/反饱和吸收；论文以此公式对 800、1550、1800 nm 三条 Z 扫描曲线分别拟合得到 β = −0.49、−0.15、−0.23 cm/GW；有效长度 L_eff 汇总于支持信息表 S1。
+    - **结论/意义**：是从 Z 扫描原始数据提取非线性吸收系数 β 的标准拟合模型。
   - ![公式2 单光子吸收模型](../../raw/figures/shuTwoDimensionalBlackArsenic2020/eq_2_YHEALJHC.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+    - **图示描述**：单光子饱和吸收模型 T(z) = 1 − A_s/(1 + I/Is) − A_ns，把归一化透射率分解为饱和吸收项 A_s/(1+I/Is) 与常数非饱和损耗 A_ns。
+    - **关键特征**：拟合可同时给出饱和强度 Is（GW/cm²）、调制深度 Ts（即 A_s，%）、非饱和损耗 Tns（即 A_ns，%）；1800 nm 处 Is = 3.336 GW/cm²、Ts = 10.45%、Tns = 10.27%。
+    - **结论/意义**：把"光强-透射率"曲线映射为可饱和吸收体的三个工程参数，是评估 SA 锁模启动能力与插入损耗的核心公式。
   - ![公式3 时间带宽积公式](../../raw/figures/shuTwoDimensionalBlackArsenic2020/eq_3_CZVDUUZZ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+    - **图示描述**：时间带宽积 TBP = τ_pulse · C · Δλ / λ_c²，其中 τ_pulse 为脉宽、C 为光速、Δλ 为 3 dB 光谱带宽、λ_c 为中心波长。
+    - **关键特征**：Sech² 型变换极限脉冲 TBP = 0.315；本工作 EDF 输出 TBP ≈ 0.366（弱啁啾），TDF 输出 TBP ≈ 0.332（接近变换极限）；数值越接近 0.315 表示脉冲越接近无啁啾的傅里叶变换极限。
+    - **结论/意义**：用于判定锁模脉冲质量，证明两台激光器输出脉冲均接近变换极限。
   - ![表1 不同波长下 b-AsP 的 NLO 参数](../../raw/figures/shuTwoDimensionalBlackArsenic2020/tab_1_SLJ4WQKY.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+    - **图示描述**：列出 800、1550、1800 nm 三个波长下 b-AsP 的线性吸收系数 α₀、非线性吸收系数 β、饱和强度 Is、调制深度 Ts、非饱和损耗 Tns。
+    - **关键特征**：α₀ 分别为 68.33、33.09、27.78 cm⁻¹；β 为 −0.49、−0.15、−0.23 cm/GW；Is 为 7.218、3.929、3.336 GW/cm²；Ts/Tns 在 800 nm 为 19.27%/19.27%，在 1550 nm 为 21.74%/21.27%，在 1800 nm 为 10.45%/10.27%；进入中红外（1800 nm）后 Is 最低，意味着最容易达到饱和。
+    - **结论/意义**：定量说明 b-AsP 的非线性性能随波长演化规律，是图 4 拟合结果的数值汇总。
   - ![表2 不同 NLO 材料在 2 μm 处 β 与 Is 对比](../../raw/figures/shuTwoDimensionalBlackArsenic2020/tab_2_C4VVZ55R.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+    - **图示描述**：把 b-AsP 在 1800 nm、100 fs 激发下的 β 与 Is 与石墨烯、黑磷、MOFs、GeP 等已报道基准 NLO 材料并列对比。
+    - **关键特征**：石墨烯 β = −0.181 ± 0.023 cm/GW、Is = 25.4 ± 4.82 GW/cm²；黑磷 β = −0.1 ± 0.028 cm/GW、Is = 58.2 ± 19.4 GW/cm²；GeP β = −0.368 cm/GW、Is = 55.1 GW/cm²；b-AsP β = −0.23 cm/GW、Is = 3.336 GW/cm²，Is 比石墨烯、黑磷低约一个数量级。
+    - **结论/意义**：在材料库坐标中确立 b-AsP"低饱和强度"这一核心竞争优势，支撑其低阈值锁模能力。
   - ![表3 不同 NLO 材料 2 μm 锁模光纤激光器性能对比](../../raw/figures/shuTwoDimensionalBlackArsenic2020/tab_3_RQ4AGITH.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+    - **图示描述**：对比石墨烯、Bi₂Te₃、WS₂、MoSe₂、黑磷与 b-AsP 作为 SA 在 2 μm 锁模光纤激光器中的脉宽、3 dB 带宽、重复频率与输出功率。
+    - **关键特征**：b-AsP 输出功率 35.5 mW、脉宽 1.543 ps（正文图 9 自相关拟合值为 2.49 ps，表中所列数值取自不同拟合/工作点）、3 dB 带宽 1.59 nm、重频 6.09 MHz；石墨烯仅 1.21 mW，Bi₂Te₃ 约 2 mW，WS₂ 约 0.6 mW，MoSe₂ 约 4.3 mW，黑磷 8.45 mW；b-AsP 输出功率是黑磷的 4 倍以上。
+    - **结论/意义**：从器件层面直接凸显 b-AsP 在 2 μm 高功率中红外锁模光纤激光器中的领先地位，论文将其归因于超低 Is 带来的高损伤阈值与高功率稳定性。
+
 ## 🔬 项目连接
   - **project-1（双光子）— weak**：本文使用开孔 Z 扫描技术测量非线性吸收系数，与双光子吸收研究中常用的 Z 扫描表征方法共享同一实验手段和数据拟合框架（T(z) 公式、单光子吸收模型）。但本文测量的是可饱和吸收（β < 0），与双光子吸收（β > 0）物理过程相反，仅在方法学层面有参考价值，材料和机理无直接关联。
   - project-2 / project-3 / project-4 / project-5 / project-6 / project-7：无直接项目连接。本文虽使用 DFT（PBE 泛函）计算能带结构和电荷密度，但研究对象（b-AsP 非线性光学）与上述项目的核心材料体系（Mn 多铁、TTF 分子、SnTe 铁电等）和物理问题差异较大，不构成有意义的参考。

@@ -112,14 +112,33 @@ Yongle Zhong, Yuxiang Xiao, Zhengfang Qian, Wen Xiong, Pu Huang（深圳大学�
 
 ## 📊 关键图表
   - ![图1 ABO₃单层高通量筛选框架、SrOsO₃剥离能曲线、35种候选材料的剥离能-带隙散点图](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/fig_1_VBUYWAI7.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+    - **图示描述**：由三幅子图构成——(a) 从 831 种 ABO₃ 出发、经"低键密度晶面识别→剥离→稳定性验证→铁性分析→相锁定调控"的研究框架流程图；(b) SrOsO₃ 单层剥离能随拉伸步数变化的曲线，横轴为剥离步数、纵轴为 E_exf（eV/Å²）；(c) 35 种候选单层在剥离能–带隙平面上的散点图，并标注已实验剥离的 2D Fe₂O₃、TiFeO₃ 作为基准。
+    - **关键特征**：SrOsO₃ 剥离能峰值为 0.134 eV/Å²；NaZnO₃ 低至 0.049 eV/Å²，与石墨烯（0.013）、MoS₂（0.019）、h-BN（0.032 eV/Å²）同量级；候选带隙覆盖 0–3.758 eV；筛选阈值为 ρ ≤ 0.3 bonds/Å² 且 ξ⊥ < ξ∥、E_exf ≤ 0.13 eV/Å²。
+    - **结论/意义**：以"键密度 + 面外/面内结合强度"判据首次实现对非范德华 ABO₃ 的高通量可剥离晶面识别，奠定全文方法论基础。
   - ![图3 SrOsO₃与SrIrO₃相锁定能带（HSE06+SOC）、Rashba自旋纹理、各候选材料VBM/CBM自旋劈裂能统计](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/fig_3_D9Z5WUU3.png) → [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
+    - **图示描述**：(a) SrOsO₃ P4mm↔P4bm 与 SrIrO₃ Pc↔P4bm 的 HSE06+SOC 能带（红/蓝分别为自旋上/下，横轴 k-path，纵轴 E−E_F，单位 eV）；(b) SrOsO₃ 在 Γ 附近二维布里渊区的 Rashba 型自旋纹理箭头场；(c) 各候选单层 VBM/CBM 处自旋劈裂能的柱状对比（单位 eV）。
+    - **关键特征**：SrOsO₃ P4mm 相 VBM/CBM 劈裂达 0.606/0.411 eV，为目前已知二维 AFM 氧化物最高值；ZnPbO₃ 次之 0.293 eV；1% 面内双轴压缩使 VBM 劈裂降至 0.309 eV（杂化率 0.65→0.35）；SrIrO₃ Pc 相自旋上/下带隙 1.14/1.35 eV，转入 P4bm 后自旋下通道金属化、自旋上带隙扩至 3.58 eV，形成 100% 自旋极化半金属。
+    - **结论/意义**：直接证据表明极性 P4mm 反演破缺 + Os 5d/O 2p 强 p–d 杂化共同驱动巨自旋劈裂，并展示相锁定可同时切换导电性、磁性与能带排序。
   - ![图4 P4mm/P4bm势能图、OsO₅键合网络与结构参数随应变演化、pCOHP/−ICOHP、应变-相变能量景观](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/fig_4_ABKMCTN8.png) → [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
+    - **图示描述**：五联图——(a) P4mm 与 P4bm 两势阱在外场下反转的势能示意图；(b) SrOsO₃ OsO₅ 键合网络，标注面外 d₁、面内 d₂ 键长与扭转角 θ；(c) θ、d₁、d₂ 随面内双轴应变 ε_ab（%）的演化；(d) 不同应变下 Os–O 的 −pCOHP 曲线及 −ICOHP 积分；(e) 相变路径能量随 ε_ab 变化的等高线景观。
+    - **关键特征**：ε_ab = 1.2% 时 θ 由 8.68° 降至 0°，驱动 P4bm→P4mm；面外 −ICOHP 由 0.53 升至 0.91 eV，面内各向异性被淬灭；相变势垒随应变反转：1% 时 +0.11 meV/atom、1.2% 时 −3.74、2% 时 −7.9 meV/atom；本征 P4bm↔P4mm 势垒仅 9.1 meV/atom；SrIrO₃ 需 a 轴压缩 3.5%、SrMoO₃ 需 a 拉 0.7%/b 压 2.7%、BiFeO₃ 需 a/b 压 4%/3%。
+    - **结论/意义**：从电子结构（pCOHP）和原子构型两个尺度阐明应变如何通过增强面外 Os–O 成键驱动五面体回转，给出超低能耗、飞秒级相控自旋器件的定量阈值。
   - 公式（键密度、剥离能求和、对称性容差、平均原子位移、Arrhenius 相变时间）：
     - ![Eq.1 键密度 ρ=N(R_i,R_j)/A](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_1_V7P47HW7.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+      - **图示描述**：定义晶面上单位面积所切断化学键数 ρ = N(R_i, R_j)/A（i ≠ j），R_i、R_j 为晶面两侧相邻原子坐标，A 为键合原子张成的平面面积。
+      - **关键特征**：筛选阈值取 ρ ≤ 0.3 bonds/Å²；法线方向通过扫描选取使交切键数最小者；该量与化学成分、对称性解耦，是判据的几何基础。
     - ![Eq.2 剥离能增量求和 ΔE_j](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_2_RTSAUWAA.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+      - **图示描述**：剥离能按逐步拉伸-弛豫增量累加 ΔE_j = (1/A) Σ_{i=0}^{j} (E_{i,1} − E_{i,0})，E_{i,0} 为瞬时稳态能、E_{i,1} 为拉伸弛豫后能量。
+      - **关键特征**：每步外移 ~0.2 Å，加 DFT-D3 色散修正；当 E_{i,1} ≤ E_{i,0} 时判定层分离；对所有 ΔE 求和即得 E_exf，最低 0.049 eV/Å²（NaZnO₃）。
     - ![Eq.3 对称性等价判据 ŜR_j≈R_i≤δ](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_3_HFYN8N2W.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+      - **图示描述**：AIMD 快照中两原子构型在对称操作 Ŝ 下等价的判据，要求原子位置偏差 ≤ δ，其中 δ = δ_p + δ_a 为位置容差与晶格角容差之和。
+      - **关键特征**：用于在 ~10 ps、300 K NVT 轨迹中自动识别新相空间群、去重得到 {S₀, S₁, …} 代表性结构，是相扫描工作流的核心判据。
     - ![Eq.4 两相平均原子位移 ΔR](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_4_RIHQZJF6.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+      - **图示描述**：ΔR = (1/N) √[Σ_{α=x,y,z} (R_{α,j} − R_{α,i})²]，量化两相间原子几何重构幅度。
+      - **关键特征**：用于配合 cNEB 判定 P4mm/P4bm/Pc 等相间的结构距离，配合 6.9–118.4 meV/atom 势垒范围评估动力学可达性。
     - ![Eq.5 Arrhenius 1/τ=A·exp(−E_A/k_BT)](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_5_4G2LJYRT.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+      - **图示描述**：序-序相变特征时间 τ 的 Arrhenius 估计 1/τ = A·exp(−E_A/k_BT)，A 为尝试频率、E_A 为 cNEB 势垒。
+      - **关键特征**：取 A = 10 THz、T = 300 K、E_A = 9.1 meV/atom，得 τ ~ 21–232 fs；对应单次开关能耗 4.4×10⁻⁴–4.9×10⁻³ fJ，较 3 nm 环栅 SiC/SiGe CMOS 的 2.85 ps 电荷动力学跨入飞秒量级。
   - （笔记未附原图2：T_N/T_C 统计、Os–O–Os 超交换路径示意、MLWF 等值面；亦未附表1的独立图片，但表1文字数据在笔记正文中完整保留。）
 
 ## 🔬 项目连接

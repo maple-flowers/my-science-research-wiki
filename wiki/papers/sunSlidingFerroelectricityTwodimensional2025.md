@@ -369,48 +369,92 @@ Xiaoyao Sun、Qian Xia、Tengfei Cao、Shuoguo Yuan 等，2025，*Materials Scie
 综述共 18 幅图、3 张表、1 个公式，全部嵌入如下：
 
 - Fig. 1 二维滑动铁电材料与器件应用总览（FTJ、FeFET、光伏器件、突触器件）。
+  - **图示描述**：综述性总览图，以中心辐射的方式把典型二维滑动铁电材料（石墨烯、h-BN、TMDs 等）与四大类核心器件——铁电隧道结 FTJ、场效应晶体管 FeFET、光伏器件和突触器件——并置呈现。
+  - **关键特征**：建立"材料—应用"映射；强调滑动铁电性是把多种常见二维材料赋予铁电功能的统一平台；预示从单一材料研究到系统性器件开发的范式转变。
   ![Fig.1 二维滑动铁电材料与器件应用总览](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_1_IP9FMC6N.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Fig. 2 滑动铁电材料发展时间线（2017 理论预测—2020 h-BN/石墨烯结构观测—2021 h-BN 表面极化—后续器件验证）。
+  - **图示描述**：以时间轴形式标出 2017 年理论预测、2020 年 h-BN/石墨烯结构观测、2021 年 h-BN 表面极化、随后 3R-MoS₂、γ-InSe 等体系的实验验证与器件探索等关键节点。
+  - **关键特征**：直观呈现该领域从"理论预测"到"实验遍地开花"的爆发式发展；2022–2024 年节点密集，标志着进入材料谱系与器件性能同步推进阶段；为读者提供宏观历史视野。
   ![Fig.2 滑动铁电发展时间线](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_2_668MSTBJ.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Fig. 3 三种铁电机制对比：(a) ABO₃ 钙钛矿离子位移；(b) 二维本征铁电（α-In₂Se₃）；(c) 滑动铁电（h-BN）。
+  - **图示描述**：三联对比示意图，分别展示 (a) 传统 ABO₃ 钙钛矿的 B 位离子位移、(b) α-In₂Se₃ 等二维本征铁电中层内原子位移、(c) h-BN 等范德华双层的层间整体滑移。
+  - **关键特征**：把"滑动"确立为与离子位移并列的第三类铁电机制；前两者依赖层内原子位移，滑动 FE 依赖层间整体滑移；不涉及强化学键断裂，因此本征抗疲劳、翻转能垒低；与 Table 1 的四类铁电材料优缺点对比形成机制级呼应。
   ![Fig.3 钙钛矿/本征2D/滑动三种铁电机制对比](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_3_MJ4XCXMR.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Fig. 4 三种构建滑动 FE 的路径：(a) 双层间莫尔超晶格（石墨烯旋转）；(b) 3R 非中心对称堆叠层间滑移；(c) 双层间扭转。
+  - **图示描述**：三联示意图展示三条工程化路径：(a) 石墨烯等双层通过小角度扭转形成长周期莫尔超晶格；(b) 3R 菱方堆叠（R3m）借固有非中心对称性产生极化；(c) 同质/异质双层间人为控制扭转角打破反演对称。
+  - **关键特征**：莫尔超晶格由周期势起伏重新调制电荷分布；3R 相直接利用非中心对称堆叠；扭转角是最普适、可调的方法；三条路径共同构成后续材料与器件设计的"工程手册"。
   ![Fig.4 三种构建滑动铁电的途径](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_4_NPRDG4HD.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Fig. 5 (a) MoS₂ 的 3R 与 2H（镜面对称）原子结构；(b) 3R 菱方堆叠的晶格弛豫与极化；(c–d) 扭转双层/三层石墨烯中的莫尔条纹超晶格及层间滑移、畴演化。
+  - **图示描述**：以 MoS₂ 和石墨烯为例的结构细节图：(a) 3R 菱方相与 2H 六方相的原子结构对照；(b) 3R 堆叠下晶格弛豫、畴壁形成与能带对应；(c–d) 扭转双层/三层石墨烯中的莫尔条纹、层间滑移与畴演化。
+  - **关键特征**：2H 为镜面对称、偶数层抵消极化，3R 为非中心对称、偶数层仍保留 OOP 极化；K 谷动量分裂到不同层，栅压可调控极化；石墨烯通过莫尔周期势与畴壁运动被纳入滑动 FE 范畴，显示机制普适性。
   ![Fig.5 3R/2H结构与莫尔条纹弛豫](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_5_WCYVSJFZ.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Fig. 6 (a–b) CVD 制备 MoS₂（硫粉+MoO₃，Ar 保护气）；(c–d) UV 胶带剥离/转移铜网上石墨烯。
+  - **图示描述**：制备方法示意：(a–b) 以硫粉和 MoO₃ 为前驱体、Ar 为保护气的 CVD 生长 MoS₂ 装置；(c–d) 利用 UV 胶带从块体机械剥离并把石墨烯转移到铜网等衬底的流程。
+  - **关键特征**：CVD 属"自下而上"路线，可直接生长特定相（如 3R）和异质结，但可能引入缺陷；机械剥离+堆叠转移属"自上而下"路线，能获得高质量单晶并精确控制扭转角，但样品尺寸小、层数难控；两者互补，是当前材料制备的基础。
   ![Fig.6 CVD制备与UV胶带转移](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_6_VIW6WRL3.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
 - Fig. 7 (a) WTe₂ 铁电性探测；(b) 压电响应相位图；(c) 双层异质结构振幅响应；(d) 栅压对极化的影响、不同栅压下表面电势图与双层 3R-MoS₂ 能带。
+  - **图示描述**：PFM 与电学表征组合图：(a) PFM 测试 WTe₂ 的装置示意；(b) 压电响应相位图显示 180° 翻转；(c) 双层异质结振幅回线；(d) 不同栅压下双层 3R-MoS₂ 的表面电势图与能带结构。
+  - **关键特征**：PFM 的 180° 相位翻转是铁电畴翻转的直接证据；振幅滞回线证实可切换极化；栅压调控 K 谷在层间的分配，从而调制极化；把宏观铁电响应与微观轨道杂化、电荷重分布联系起来。
   ![Fig.7 WTe2与3R-MoS2 PFM/电学表征](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_7_E8U54CNX.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Fig. 8 (a) 4D-STEM 暗场成像；(b) 扭转角减小过程中非铁电—铁电转变时畴壁运动的实时观测；(c) MoSSe 扭转角产生 Se–Se 构象对应的滑动；(d) 扭转堆叠产生的波纹结构示意。
+  - **图示描述**：以 4D-STEM 为主的结构表征：(a) 暗场成像原理；(b) 扭转角减小过程中非铁电—铁电转变时畴壁运动的实时序列；(c) MoSSe 扭转后 Se–Se 构象对应的层间滑动；(d) 扭转堆叠形成的波纹/涡旋状极化纹理示意。
+  - **关键特征**：4D-STEM 在皮米（pm）尺度分辨层间位移与局部堆垛构型，空间分辨率可达约 80 pm；直接观测畴壁运动与铁电相形成；不同扭转角对应不同莫尔周期和极化分布；为滑动 FE 微观起源提供最直接的结构证据。
   ![Fig.8 4D-STEM与扭转堆叠畴壁动力学](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_8_TCTNIAM4.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Fig. 9 (a) 石墨烯/h-BN 扭转超晶格 vdW 器件；(b) 转移曲线迟滞；(c) Bernal 堆叠双层石墨烯晶格；(d) 石墨烯扭转形成超晶格的双层器件；(e) 石墨烯器件电阻特性。
+  - **图示描述**：石墨烯/h-BN 扭转超晶格器件案例：(a) vdW 器件结构；(b) 转移曲线中的显著迟滞；(c) Bernal 堆叠双层石墨烯晶格与层间滑动路径；(d) 石墨烯扭转形成超晶格的双层器件；(e) 不同构型下的电阻特性。
+  - **关键特征**：上层 h-BN/石墨烯 30°、下层 0° 扭转的器件出现显著铁电滞回；多层滑动路径计算显示存在对应能量转换的跨层滑动；以电学输运数据直接证明石墨烯体系中可重复、可调控的滑动铁电；属"理论到实践"的首批证据之一。
   ![Fig.9 石墨烯/h-BN扭转超晶格器件](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_9_PQXND8EP.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Fig. 10 (a) h-BN 堆叠类型；(b) 各类型不同偏压态 I–V 曲线；(c–d) 外加电场下 h-BN 畴演化；(e) 层间差分电荷密度；(f) r-BN z 轴极化；(g) 不同温度 PFM 信号指示居里温度；(h) 不同偏压下 PFM 振幅/相位回线。
+  - **图示描述**：h-BN/r-BN 体系的堆叠—电学—PFM 综合表征：(a) 多种堆叠类型；(b) 各类型在高/低偏压态的 I–V 曲线；(c–d) 外场下畴演化；(e) 层间差分电荷密度；(f) r-BN 沿 z 轴的极化分布；(g) 不同温度下的 PFM 信号指示居里温度；(h) 不同偏压下 PFM 振幅/相位回线。
+  - **关键特征**：极化源于层间未补偿电荷的转移，而非离子位移；不同堆叠类型对应不同阻态与铁电/反铁电倾向；温度依赖 PFM 可识别居里温度；偏压驱动的振幅/相位回线证实 h-BN/r-BN 中可翻转的面外极化。
   ![Fig.10 h-BN/r-BN堆叠、电学与PFM表征](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_10_GMTK9YT3.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Fig. 11 (a) 不同层数下电场—漏极电流关系；(b) 三层 WTe₂ 电场—电导关系；(c) 3R-MoS₂ 双栅器件示意；(d) 双栅控制与 3R-MoS₂ 原子堆叠；(e–f) WSe₂ 等器件。
+  - **图示描述**：TMDs 器件族的层数与栅控对比：(a) 不同层数下电场—漏极电流关系；(b) 三层 WTe₂ 在面内滑动机制下的电场—电导稳态曲线；(c–d) 3R-MoS₂ 双栅器件结构与原子堆叠；(e–f) WSe₂ 等器件的扭转/界面极化积累。
+  - **关键特征**：三层 WTe₂ 极化由面内（IP）层间滑动促进，表现出稳态电导滞回；3R-MoS₂ 双栅可独立调控载流子浓度与极化；界面极化积累和莫尔超晶格旋转凸显结构微调的重要性；层数奇偶、堆叠序列共同决定极化大小与稳定性。
   ![Fig.11 不同层数与双栅3R-MoS2/WSe2器件](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_11_347LFPW8.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Fig. 12 MX 结构与器件：(a) AA/AC 堆叠与层间滑移诱导极化；(b) 器件示意；(c) GaSe 纳米片 SS-PFM；(d) SHG 信号强度与偏振角依赖。
+  - **图示描述**：MX 族（GaSe、GeSe、SnSe 等）案例：(a) AA/AC/AB/AD 堆叠构型与层间滑移诱导极化；(b) 器件结构示意；(c) GaSe 纳米片的开关谱 PFM（SS-PFM）；(d) SHG 信号强度随偏振角的依赖。
+  - **关键特征**：能量排序 AC < AB < AA < AD，AA/AC 倾向铁电、AB/AD 倾向反铁电；多层 GaSe 以层内滑动为主，电阻切换重复性好、ON/OFF 比高；SHG 偏振依赖证实反演对称破缺；为 MX 族在 FE/AFE 之间切换提供实验依据。
   ![Fig.12 MX（GaSe等）堆叠、SS-PFM与SHG](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_12_HWWZSN8Y.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Fig. 13 (a) 3R-MoS₂ 沟道 FeFET 示意；(b) 原子级铁电极化翻转；(c) 编程/擦除性能；(d) 堆叠 3R-MoS₂ FET 转移特性（约 7 V 存储窗口）。
+  - **图示描述**：3R-MoS₂ 基 FeFET：(a) 以 3R-MoS₂ 为沟道的 FET 结构；(b) 不稳定 AA 堆垛演化为 AB 或 BA 两种极化态的原子级翻转示意；(c) 编程/擦除循环耐久；(d) 堆叠 3R-MoS₂ FET 的转移特性迟滞。
+  - **关键特征**：存储窗口约 7 V；编程/擦除循环可达 >10⁴ 次，体现无疲劳特性；小电场即可翻转极化，层间滑动不产生缺陷；转移曲线迟滞是 FeFET 非易失存储的关键标志。
   ![Fig.13 3R-MoS2 FeFET结构与转移特性](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_13_XSTYQFRU.png) -> [[../figures/electronic-devices|电子与突触器件]]
 - Fig. 14 (a) 硫族结构本征铁电极化（上）与滑动铁电极化转移（下）；(b) 3R-MoS₂ 器件对 53 ns、100 ns、10 μs 写脉冲的漏极电流响应（超快可编程性）；(c) 不同电场下 3R-MoS₂ 平均磁畴翻转速度（可达 ~300 μm/s）。
+  - **图示描述**：超快翻转性能：(a) 硫族材料本征铁电极化（上）与滑动铁电极化转移（下）对照；(b) 3R-MoS₂ 器件对 53 ns、100 ns、10 μs 写脉冲的漏极电流响应；(c) 不同电场下平均畴翻转速度随场强变化。
+  - **关键特征**：写脉冲短至 53 ns 仍可稳定写入；畴壁运动速度最高约 300 μm/s；高电场下翻转速度显著提升；耐久性测试显示长循环下开关比稳定，支撑滑动 FE 的"超快+无疲劳"定位。
   ![Fig.14 超快53-ns翻转与畴壁运动速度](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_14_UCCGBWQW.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Fig. 15 (a) 石墨烯/h-BN 异质结双栅沟道突触器件；(b) 顶面莫尔周期势将电荷局域化实现电子横向流动；(c) 输入图样训练；(d) 两个输出神经元对输入图样的响应训练；功耗低至 ~20 pW。
+  - **图示描述**：石墨烯/h-BN 莫尔超晶格突触器件：(a) 双栅沟道器件结构；(b) 顶面莫尔周期势将电荷局域化、实现电子横向流动的示意；(c) 输入图样训练集；(d) 两个输出神经元对输入图样响应随训练轮次的演化。
+  - **关键特征**：器件功耗低至约 20 pW；可实现长时程增强/抑制（LTP/LTD）等突触可塑性；莫尔周期势提供天然的电荷局域化位点；演示了模式识别/无监督学习等神经形态功能，为打破冯·诺依曼瓶颈提供新路径。
   ![Fig.15 石墨烯/h-BN莫尔突触器件](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_15_RDRJFJNV.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Fig. 16 (a) 少数层 h-BN 与双层 3R-MoS₂ 作隧穿层、石墨烯作电极的 FTJ；(b–c) 双层 h-BN 与 3R-MoS₂ 隧穿电导 dI/dV（畴壁钉扎在隧穿区边缘）；(e–f) MoS₂/WS₂ 异质双层作隧穿层的高/低阻态及对应 ON/OFF ~10³。
+  - **图示描述**：滑动铁电隧道结 FTJ：(a) 以少数层 h-BN 或双层 3R-MoS₂ 为隧穿层、石墨烯为电极的"三明治"结构；(b–c) 双层 h-BN 与 3R-MoS₂ 的隧穿电导 dI/dV，畴壁被钉扎在隧穿区边缘；(e–f) MoS₂/WS₂ 异质双层作隧穿层时的高/低阻态。
+  - **关键特征**：极化方向改变隧穿势垒形状，产生高/低阻态；MoS₂/WS₂ 异质双层 FTJ 的 ON/OFF 比约 10³；畴壁钉扎决定阻态稳定性；原子级厚度隧穿层使 TER 效应在低电压下即可读出。
   ![Fig.16 h-BN/3R-MoS2/MoS2-WS2 FTJ](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_16_UM7J8ZHZ.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Fig. 17 (a) 双栅实现逻辑器件示意；(b–c) 用双层/三层 MoSi₂N₄ 替代沟道材料构建滑动铁电逻辑器件，实现极化行为。
+  - **图示描述**：基于 MoSi₂N₄ 的滑动铁电逻辑存储器件：(a) 双栅结构实现逻辑功能的示意；(b–c) 以双层/三层 MoSi₂N₄ 替代沟道材料构建器件，并观测到极化调控的逻辑行为。
+  - **关键特征**：把滑动 FE 从存储器拓展到逻辑运算；MoSi₂N₄ 作为新兴 MAX 相衍生物，兼具环境稳定性与可切换极化；双栅可独立调控极化与载流子，实现存算一体的原型功能。
   ![Fig.17 MoSi2N4滑动铁电逻辑器件](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_17_UFUDD9CJ.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Fig. 18 (a) 人工突触晶体管 LTP/LTD 阈值（4 V 脉冲，底栅 0–1 V）；(b) 生物突触与自适应行为（含"眼睑"自适应示意）；(c) 双向突触阈值滑动，阈值 θₘ 可调（m=1,2,3,…）。
+  - **图示描述**：自适应人工突触：(a) 突触晶体管在 4 V 写脉冲、底栅 0–1 V 扫描下的 LTP/LTD 阈值；(b) 生物突触与"眼睑"式自适应行为类比；(c) 双向可调阈值 θₘ（m=1,2,3,…）随脉冲序列滑动。
+  - **关键特征**：利用滑动 FE 的渐进极化翻转模拟阈值自适应；4 V 脉冲即可实现 LTP/LTD，底栅压在 0–1 V 范围精细调节；双向阈值滑动可模拟生物突触的自适应与稳态可塑性；为神经形态计算中可调激活函数提供硬件原型。
   ![Fig.18 自适应人工突触与双向阈值滑动](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_18_E5IUKUJH.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Table 1 钙钛矿铁电、铪基铁电、典型二维本征铁电与滑动铁电的优缺点对比（退极化场、疲劳、CMOS 兼容性、极化值）。
+  - **图示描述**：四类铁电材料横向对比表，列目包括钙钛矿铁电、铪基铁电、典型二维本征铁电和滑动铁电，比较维度涵盖退极化场、抗疲劳性、CMOS 兼容性、极化值与厚度可缩性等。
+  - **关键特征**：钙钛矿极化大但纳米尺寸效应严重；铪基 CMOS 兼容但疲劳/均匀性受限；二维本征铁电厚度小但材料选择有限；滑动 FE 原子级厚度、抗疲劳、退极化场被有效屏蔽，但极化值普遍偏低；该表锚定滑动 FE 在铁电家族中的差异化定位。
   ![Table 1 四类铁电材料优缺点对比](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/tab_1_N6IMKLEB.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
 - Table 2 实验报道与理论预测的二维滑动铁电材料汇总（h-BN、r-BN、WTe₂、GaSe、3R-MoS₂、ReS₂、γ-InSe、TaS₂、WS₂、WSe₂、Cd₃Cl₆；石墨烯、MnSe、MoSSe、Tl₂S、VSe₂、MX、MX₂、HgI₂、FeCl₂、GdI₂、CrI₃、β-ZrI₂、MoSi₂N₄、BX、YN、ZC、B₂X₃、LaBr₂、VSi₂N₄、PdSe₂/PtSe₂、Cr₂Ge₂Te₆、Fe₃GeTe₂），含层数、极化强度、表征证据、DFT 泛函等。
+  - **图示描述**：二维滑动铁电材料大表，分实验报道与理论预测两部分，列出 h-BN、r-BN、WTe₂、GaSe、3R-MoS₂、ReS₂、γ-InSe、TaS₂、WS₂、WSe₂、Cd₃Cl₆ 以及石墨烯、MnSe、MoSSe、Tl₂S、VSe₂、HgI₂、FeCl₂、GdI₂、CrI₃、β-ZrI₂、MoSi₂N₄、BX、YN、VSi₂N₄、PdSe₂/PtSe₂、Cr₂Ge₂Te₆、Fe₃GeTe₂ 等材料。
+  - **关键特征**：极化基准包括 GaSe 约 6.19 pC/m、MX₂ 约 0.59–0.77 pC/m、BX 约 0.965–3.707 pC/m、YN 约 5.765–13.837 pC/m、PdSe₂/PtSe₂ 双层约 ±17.11 pC/cm、Tl₂S 约 0.037 pC/m、HgI₂ 约 0.16 μC/cm²；表中同时记录层数、表征证据（PFM/SHG/STEM/电学）和 DFT 泛函（PBE 等），是选材与对照的关键数据库。
   ![Table 2 二维滑动铁电材料实验与理论清单](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/tab_2_L32I87BT.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 - Table 3 层间扭转角与铁电性的对应关系（石墨烯、MoS₂/graphene、h-BN/graphene、Tl₂S、h-BN、WSe₂、MoS₂、MoSe₂、WS₂；角度、相结构、层数、表征证据）。
+  - **图示描述**：层间扭转角与铁电性关联表，覆盖石墨烯、MoS₂/石墨烯、h-BN/石墨烯、Tl₂S、h-BN、WSe₂、MoS₂、MoSe₂、WS₂ 等体系，列出扭转角度、相结构、层数和表征证据。
+  - **关键特征**：石墨烯扭转角范围可从约 0.3° 至 38.2°；WSe₂ 报道约 5.1° 等具体角度；扭转角与莫尔周期、铁电相稳定性直接相关；为"扭转角工程"提供可查的实验/理论参数清单。
   ![Table 3 扭转角—铁电性对应关系](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/tab_3_2VHVRALU.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
 - Eq. 1 垂直电场下滑动双层的哈密顿量：含共轭动量 π̂ₛ = ρₛ ûₛ、弹性常数 λ、μ 等，是 Landau/连续介质描述层间滑移自由度的核心方程。
+  - **图示描述**：垂直外电场下滑动双层的连续介质哈密顿量，以层间滑移场 ûₛ 为自由度，包含共轭动量 π̂ₛ = ρₛ ûₛ、层间压缩弹性常数 λ 与层间剪切弹性常数 μ 等参量。
+  - **关键特征**：把层间滑移形式化为与电场耦合的力学自由度；λ、μ 分别控制层间压缩与剪切刚度；与 Landau–Ginzburg 自由能结合可导出矫顽场、畴壁能和翻转路径；是连接微观 DFT 计算与宏观器件响应的理论核心。
   ![Eq.1 滑动双层在垂直电场下的哈密顿量](../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/eq_1_KY8JAUNW.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 
 ## 🔬 项目连接

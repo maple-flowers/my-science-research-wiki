@@ -92,13 +92,42 @@ Wei Xun, Chao Wu, Hanbo Sun, Weixi Zhang, Yin-Zhong Wu, Ping Li，2024，Nano Le
 ## 🆕 新概念/实体建议
   - `GdI2`（碘化钆）：新型二维铁磁半导体/多铁候选材料，4f⁷5d¹ 构型，大谷极化（155.5 meV）。
 ## 📊 关键图表
+  - **图1 滑移多铁机制示意图：AA(AFM,无极化)→AB/BA(FM,反向铁电与谷极化)**
   - ![图1 滑移多铁机制示意图：AA(AFM,无极化)→AB/BA(FM,反向铁电与谷极化)](../../raw/figures/xunCoexistingMagnetismFerroelectric2024/fig_1_UNCVPF48.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - **图示描述**：概念机制图，用三列对比 AA、AB、BA 三种双层堆垛的磁序、能带（橙/浅绿锥体分别表示自旋向上/向下能带）与铁电极化 P（深灰色箭头）。
+  - **关键特征**：AA 堆垛层间磁矩反平行（AFM），K/K' 能带简并，无谷极化亦无铁电极化；滑移至 AB 后磁矩转为平行（FM），K/K' 谷发生劈裂并产生 +z 方向的自发极化 P；BA 与 AB 同为 FM，但 P 反转为 −z，谷极化同步翻转。
+  - **结论/意义**：以一张图给出"滑移即三序协同翻转"的论文总纲，奠定滑移多铁（sliding multiferroic）概念。
+  - **图2 单层GdI₂晶体结构、ELF、声子谱及SOC能带（谷劈裂155.5 meV）**
   - ![图2 单层GdI₂晶体结构、ELF、声子谱及SOC能带（谷劈裂155.5 meV）](../../raw/figures/xunCoexistingMagnetismFerroelectric2024/fig_2_AGA9PAPG.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - **图示描述**：由七个子图构成，分别给出单层 GdI₂ 的俯视图/侧视图晶体结构（a）、电子局域函数 ELF（b）、声子色散谱（c）、无 SOC 自旋极化能带（d）、含 SOC 的轨道分辨能带（e），以及磁矩沿 +z（f）和 −z（g）方向时的 SOC 能带。
+  - **关键特征**：面内晶格常数 4.17 Å，Gd 位于 I 三角棱柱中心，反演对称性破缺；ELF 显示电子集中在原子周围，Gd–I 为典型离子键；声子谱无虚频且形成能 −11.140 eV，证明动力学稳定；FM-AFM 能量差 ΔE=−266 meV，MAE=0.777 meV/cell（易轴沿面内 x，需约 3.58 T 磁场才转到面外）；VBM 主要由 Gd d_xy、d_x²−y² 轨道贡献，开启 SOC 后 K/K' 谷劈裂达 155.5 meV（大于 VSe₂ 约 90 meV、VSiXN₄ 约 70 meV、MoTe₂/EuO 约 20 meV）；磁矩由 +z 翻到 −z 时谷极化符号反转。
+  - **结论/意义**：确立单层 GdI₂ 为具有大谷极化的铁磁半导体，为双层滑移多铁提供合格的构建单元。
+  - **图3 双层GdI₂滑移能垒、层间交换能随滑移路径变化及二维磁相图**
   - ![图3 双层GdI₂滑移能垒、层间交换能随滑移路径变化及二维磁相图](../../raw/figures/xunCoexistingMagnetismFerroelectric2024/fig_3_XJ7U4H33.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - **图示描述**：上排 (a–c) 对应 AA 类堆垛、下排 (d–f) 对应 AA′ 类堆垛；(a,d) 为沿滑移路径的总能曲线（灰/蓝球分别表示 AFM/FM 磁基态，橙色球为能量极小），(b,e) 为 AFM-FM 能量差 ΔE 沿 [1̄10]（红实线）和 [100]（蓝虚线）方向的变化，(c,f) 为 6×6 网格扫描得到的全二维滑移空间磁相图（红=FM，蓝=AFM）。
+  - **关键特征**：AB 与 BA 是 AA 类的能量最低稳态，AB→BA 翻转能垒仅 16.42 meV（低于室温 k_BT≈26 meV）；AA 堆垛层间交换能 ΔE≈−1.794 meV（AFM 基态），AB/BA 为 +1.046 meV（FM 基态）；AA′ 类中 BA′ 最稳、AB′ 能量高 0.75 meV，AB′ 附近为 FM、其余多为 AFM；相图清晰显示 D3h 对称的 AA 为 AFM，破缺 xy 镜面降至 C3v 的 AB/BA 区域转为 FM，并伴随面外电极化（真空能级跃变 ΔΦ=±22.86 meV，P=3.68×10⁻¹² C/m）。
+  - **结论/意义**：定量证明磁基态、铁电极化与层间滑移矢量强耦合，是"磁电耦合"的直接计算证据。
+  - **图4 轨道依赖层间交换及Gd-I-I-Gd超超交换路径示意图**
   - ![图4 轨道依赖层间交换及Gd-I-I-Gd超超交换路径示意图](../../raw/figures/xunCoexistingMagnetismFerroelectric2024/fig_4_5PV9HUPZ.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - **图示描述**：(a) 为 d 轨道选择定则示意，对比 d_z²–d_z² 虚跃迁在 AFM/FM 构型下的允许/禁止；(b–e) 标出 AA、AB、AB′、BA′ 四种堆垛中最近邻 J₁⊥（红色连线）和次近邻 J₂⊥（蓝色连线）的 Gd–Gd 交换路径；(f–i) 为对应的 Gd–I–I–Gd 超超交换轨道示意图。
+  - **关键特征**：基于 Gd 4f⁷5d¹ 构型与洪特规则，d_z²–d_z² 半满轨道间跃迁仅在 AFM 自旋下允许，倾向 AFM；而 d_z²→空 d_xy/d_x²−y²、d_z²→d_xz/d_yz 的跃迁由局域洪特耦合主导，倾向 FM；AA 堆垛中 J₁⊥ 沿 d_z²–d_z² 路径主导（J₁⊥=0.243 meV，AFM），J₂⊥ 较弱；AB 堆垛因滑移改变轨道重叠，J₁⊥ 变为 d_z²–d_xy/d_x²−y² 路径（J₁⊥=−0.036 meV，FM），J₂⊥ 亦为 FM，整体磁基态由 AFM 翻转为 FM。
+  - **结论/意义**：把堆垛依赖的磁相变追溯到 d 轨道杂化路径的竞争，给出超超交换（supersuperexchange）的微观图像。
+  - **图5 AA/AB/BA堆垛的自旋分辨能带与贝里曲率（谷极化翻转）**
   - ![图5 AA/AB/BA堆垛的自旋分辨能带与贝里曲率（谷极化翻转）](../../raw/figures/xunCoexistingMagnetismFerroelectric2024/fig_5_GWY2W8FP.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - **图示描述**：考虑 SOC 效应下 AA、AB、BA 三种堆垛的自旋分辨能带（a,c,e）与动量空间贝里曲率分布（b,d,f）对比。
+  - **关键特征**：AA 为 AFM 态，K/K' 处自旋向上、向下能带在能量上仍简并，无净谷极化，贝里曲率在 K 与 K' 大小相等、符号相反（+26.2 与 −26.2 Å²），无净谷霍尔响应；滑移到 AB 后磁基态变 FM，VBM 出现 158 meV 的谷极化，K/K' 贝里曲率不对称（+25.0 与 −28.8 Å²），产生净谷霍尔效应；继续滑移到 BA 时谷极化符号反转，贝里曲率分布对调（+28.8 与 −25.0 Å²），谷霍尔电压方向随之翻转。
+  - **结论/意义**：从能带与拓扑输运量上证实铁电翻转 ↔ 磁态 ↔ 谷极化三序协同反转，闭环论文核心论断。
+  - **表1 不同堆垛下Gd-Gd层间距离、配位数、海森堡交换参数J及ΔE**
   - ![表1 不同堆垛下Gd-Gd层间距离、配位数、海森堡交换参数J及ΔE](../../raw/figures/xunCoexistingMagnetismFerroelectric2024/tab_1_W2FY2753.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - **图示描述**：汇总 AA、AB、AB′、BA′ 四种典型堆垛下 Gd–Gd 最近邻（NN）与次近邻（second-NN）层间距离、每单胞交换键数（方括号）、海森堡交换参数 J₁⊥、J₂⊥、J∥ 以及层间 AFM-FM 能量差 ΔE。
+  - **关键特征**：AA 堆垛 NN 距离 8.139 Å、每胞 1 条 J₁⊥ 键，J₁⊥=0.243 meV（AFM）、J₂⊥=−0.003 meV、J∥=−8.253 meV、ΔE=−1.794 meV，NN 的 AFM 耦合压制 6 条 J₂⊥ 的弱 FM 贡献，整体为 AFM；AB 堆垛 NN 距离缩短到 7.888 Å、每胞 3 条 J₁⊥ 键，J₁⊥=−0.036 meV 反号为 FM、J₂⊥=−0.007 meV、ΔE=+1.046 meV，整体 FM；AB′ 配位数与 AA 相同（1+6）但 J₁⊥ 仅 0.002 meV、ΔE=+0.206 meV，BA′ 配位数与 AB 相同（3+3）但 J₁⊥=0.066 meV、ΔE=−1.403 meV，二者磁基态相反，说明仅靠配位数不足以判断磁序，对称性/轨道重叠才是关键；层内 J∥ 约 −8.25 meV 始终为强 FM。
+  - **结论/意义**：为图4的轨道图像和图3的磁相图提供定量的海森堡参数支撑。
+  - **公式(1)-(4) SOC有效哈密顿量与谷劈裂解析表达式**
   - ![公式(1)-(4) SOC有效哈密顿量与谷劈裂解析表达式](../../raw/figures/xunCoexistingMagnetismFerroelectric2024/eq_1_HMB6GSG3.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：把 SOC 项 H_SOC=L·S 拆为同自旋 H_SOC⁰ 与反自旋 H_SOC¹ 两部分，并在 VBM 由自旋向上能带贡献的前提下忽略 H_SOC¹；当面外磁化（θ=φ=0）时 H_SOC⁰=S_z L_z；取 τ=±1 对应 K/K' 的轨道基函数 |ψ^τ_v⟩=(1/√2)(|d_xy⟩+iτ|d_x²−y²⟩)⊗|↑⟩，推导得价带谷劈裂 E^K_v−E^{K'}_v=4i⟨d_xy|S_z|d_xy⟩⟨d_x²−y²|L_z|d_xy⟩。
+  - **关键特征**：解析表达式直接给出谷劈裂正比于 S_z 期望值与 L_z 矩阵元的乘积，从而自然解释磁矩沿 +z/−z 时谷极化符号反转；C₃ 对称下 d_xy 与 d_x²−y² 通过 L_z 耦合（L_z|d_xy⟩=−2iℏ|d_x²−y²⟩、L_z|d_x²−y²⟩=2iℏ|d_xy⟩）是劈裂不为零的轨道来源；解析结果与 DFT 计算的 155.5 meV 一致，且 U=2.5–5 eV 范围内谷极化仅变化 0.5 meV，结果稳健。
+  - **结论/意义**：把"磁性翻转带动谷极化翻转"从数值观测提升为可解析推导的物理关系，是磁-谷耦合的理论核心。
+
 ## 🔬 项目连接
   - **project-2（Mn 多铁）— strong**：本文直接研究二维多铁材料中铁磁-铁电-铁谷三序耦合，磁电耦合机制、堆垛依赖磁相变（AFM↔FM）、超超交换轨道图像均可为 Mn 基多铁体系（尤其层状/二维 Mn 氧化物）的磁电耦合机理提供类比和方法参考；滑移铁电作为非离子位移型极化起源，也丰富了多铁极化图像。
   - **project-5（SnTe 铁电模拟）— medium**：滑移铁电性的 DFT 计算流程（平面平均静电势跃变 ΔΦ 定极化、Berry 曲率/贝里相位、层间堆垛能垒扫描）对 SnTe 铁电模拟有方法学参考价值；AB/BA 简并极化翻转对与铁电畴翻转能垒计算可类比。

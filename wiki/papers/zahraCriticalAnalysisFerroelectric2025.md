@@ -91,27 +91,71 @@ Saman Zahra, Bo Dai, Xianhua Wei, Fei Zhou, Syed Irfan et al.，2025，Critical 
   - 相关论文 [[../../raw/note/zahraCriticalAnalysisFerroelectric2025]]
 ## 📊 关键图表
   - 图1：MXene 应用示意图：![图1](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_1_WJ78IQDN.png)
+  - **图示描述**：以 MXene 为中心的辐射状示意图，外围分电学（电池、超级电容器）、磁学（电磁干扰屏蔽）、光学（光子学、激光器）、机械以及层状结构五大应用板块。
+  - **关键特征**：全景式呈现 MXene 的多功能平台属性；强调其高导电、可调表面端基、高比表面积带来的跨领域应用潜力；为后文聚焦铁电/铁磁两大物性提供应用语境。
   - 图2：MAX 相结构、刻蚀分层流程及单/双过渡金属 MXene 分类：![图2](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_2_NA4IK5IN.png)
+  - **图示描述**：(a) 周期表中标出 M（早期过渡金属）、A（IIIA/IVA 族）、X（C/N）元素；(b) 从三维 MAX 相选择性刻蚀 A 层再经分层得到二维 MXene 纳米片；(c) 按 M 元素数量分为单过渡金属（如 Ti3C2）与双过渡金属（如 Mo2TiC2）MXene。
+  - **关键特征**：M-X 为金属/离子/共价混合键，强于 M-A 金属键，故刻蚀仅断 M-A；已报道约 155 种 MAX 相、约 55 种 MXene；n=1 时 M 原子呈 ABAB 六方密堆，n=2、3 时呈 ABCABC 面心立方堆垛；通式 M_{n+1}X_nT_x 的来源一目了然。
   - 图3：铁电 P-E 回线与铁磁 M-H 回线对比，及 3D 铁电体死层/退极化场问题：![图3](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_3_3DJURTX2.png)
+  - **图示描述**：(a) 铁电体在外电场 E 下偶极矩 P 翻转形成的 P-E 电滞回线，同时示意传统 3D 铁电薄膜的死层与退极化场；(b) 铁磁体在外磁场 H 下磁矩 M 翻转形成的 M-H 磁滞回线。
+  - **关键特征**：两条回线均呈"翻转—滞后"特征，是 FE/FM 的身份证；铁电源于电荷有序，铁磁源于自旋有序；3D 铁电薄膜在减薄时受死层、退极化场、屏蔽场共同作用，面外极化难以稳定。
   - 图4：3D 铁电电容屏蔽场/死层效应 vs 2D In2Se3 无死层的稳定极化：![图4](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_4_IYHEZJU4.png)
+  - **图示描述**：(a) 3D 铁电电容中电极/界面处的屏蔽电荷产生 E_screen 屏蔽场，叠加退极化场削弱面外极化；(b) 以 In2Se3 为代表的 2D 范德华铁电体单层结构，无界面死层即可保持面内/面外极化。
+  - **关键特征**：厚度越薄，死层对 3D 铁电体的压制越显著；范德华表面干净、无悬挂键，使 2D 铁电在纳米尺度仍稳定；该图是"为什么要在 2D MXene 中找铁电"的核心物理动机。
   - 图5：α-MXene 可调铁电性与极化翻转能量势垒：![图5](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_5_TZK88HMA.png)
+  - **图示描述**：α 相（类 α-In2Se3 六方相）MXene（Nb2CF2、Mo2CO2、Ta2CF2、W2CF2、Mo2CF2）的原子结构及极化上/下两态，附表给出各材料极化值（eÅ）与极化翻转能量势垒（eV）。
+  - **关键特征**：这一族 α-MXene 被 DFT 预测为罕见的"铁电金属"；势垒过低则极化易受热扰动丢失，过高则翻转电压过大，图中数值为筛选存储材料提供依据；基于此类材料的 FTJ 隧穿电阻比 TER 极高。
   - 图6：TPU/BTO/MXene 体系介电常数及 BTO/MXene/4H-SiC 异质结合成流程：![图6](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_6_B2W2HNHJ.png)
+  - **图示描述**：(a) TPU、TPU/BTO、TPU/MXene、TPU/BTO/MXene 四种纳米复合材料的介电常数与介电损耗随频率曲线；(b) BTO 掺杂 MXene/4H-SiC 异质结紫外探测器的合成流程。
+  - **关键特征**：TPU/BTO/MXene 三元体系介电常数最高，源于 BTO 铁电极化与 MXene 导电网络/微电容的协同；MXene 还可破坏 BTO 对称性、增强 BTO/4H-SiC 界面内建电场，通过铁电-热释电-光电子效应提升光敏性。
   - 图7：BT/f-Ti3C2Tx 复合材料合成流程、SEM 形貌与结构：![图7](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_7_33QRNVQ5.png)
+  - **图示描述**：(a–c) 在 Ti3C2Tx 纳米片上原位生长 BaTiO3 纳米颗粒的合成策略；(e–h) 从 Ti3AlC2 MAX 相→多层 Ti3C2Tx→少层 Ti3C2Tx→BT/f-Ti3C2Tx 复合物的 SEM 形貌演变；(k) BTO 借助表面亚稳态 Ti 原子在 MXene 上成核的原子示意图。
+  - **关键特征**：MXene 表面的亚稳态 Ti 原子充当天然反应位点，无需额外添加剂即可实现 BTO 紧密成核；"原位生长"保证高质量界面，是后续锂电内建电场富集 Li+ 的结构基础。
   - 图8：V2C 的 PFM 蝴蝶曲线与相位回滞（铁电实验证据）：![图8](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_8_75AQ6FBG.png)
+  - **图示描述**：压电力显微镜（PFM）对三种不同刻蚀/还原条件 V2CTx（V2C-HF、V2C-OH、V2C-BH）测得的形貌、振幅、相位图，以及振幅-电压蝴蝶曲线和相位-电压回滞曲线。
+  - **关键特征**：振幅蝴蝶曲线对应压电形变，相位曲线呈现 ~180° 翻转，是铁电极化可被电场可逆翻转的直接指纹；三种样品的翻转电场不同，证明刻蚀/还原条件（即端基）可直接调控 V2C 的铁电性能。
   - 图9：过渡金属在 Zr2CO2 的 Zr 位/C 位/O 位掺杂构型：![图9](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_9_TRMJGYHW.png)
+  - **图示描述**：DFT 建模给出 Cr 等过渡金属在 Zr2CO2 单层中的三种替位构型：(a) Zr 位替代、(c) C 位替代、(e) O 位替代，以及各自优化后的局域结构。
+  - **关键特征**：比较三类位点的形成能可判断热力学最易实现的掺杂方式；结论是 Cr 替 Zr 位形成能最低、具铁磁基态与半金属性；该图是"计算筛选掺杂位点"策略的范例。
   - 图10：Cr2COOH 中两个不等价 Cr 的 3d 轨道分裂与磁矩（3 μB+2 μB=5 μB/单胞）：![图10](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_10_8U7ZULVR.png)
+  - **图示描述**：扭曲八面体晶体场下 Cr2COOH 中两个不等价 Cr 原子（Cr1、Cr2）的 3d 轨道能级分裂图，标出每个轨道的电子占据与对应磁矩。
+  - **关键特征**：Cr1 为 3d³ 贡献 3 μB，Cr2 为 3d² 贡献 2 μB，每单胞总磁矩 5 μB；两 Cr 局域配位环境不同导致 d 轨道分裂方式不同，净磁矩非零→宏观铁磁性；材料为铁磁半导体。
   - 图11：Gd 掺杂 Ti3C2 MXene 的稳定铁磁 M-H 回滞回线：![图11](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_11_YQE9M99K.png)
+  - **图示描述**：300 K（室温）与 100 K（低温）下 Gd³⁺/Ti3C2 复合物的磁化强度 M 随外加磁场 H 变化的磁滞回线。
+  - **关键特征**：闭合"S"型曲线显示矫顽力与剩磁，是铁磁体指纹；300 K 仍保留清晰回线，表明实现室温铁磁性；机制为 Gd³⁺ 自由电子与费米能级处 Ti-3d 自旋密度的交换耦合，形成软铁磁复合。
   - 图12：Nb/Ti3C2 及 Lewis 熔盐刻蚀 Co 掺入 MXene 的"S"形 M-H 曲线：![图12](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_12_XYHAII72.png)
+  - **图示描述**：(a,b) Nb 掺杂 Ti3C2 的理论与实验 M-H 曲线；(c) Lewis 熔融盐刻蚀过程中 Co²⁺ 高温掺入碳氮化物 Ti3CNCl2 所得的"S"形 M-H 曲线。
+  - **关键特征**：Nb 无需额外端基即可在 Ti3C2 中诱导铁磁；熔盐法实现无氟、无毒刻蚀并同步完成磁性元素掺杂；典型"S"形回线证实 Co 掺入后铁磁序稳定。
   - 图13：双过渡金属 Mo2TiC2Tx 的多铁性制备流程：![图13](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_13_XIXH3SKR.png)
+  - **图示描述**：Rabia Tahir 等从 Mo2TiAlC2 MAX 相出发，经刻蚀、分层得到 Mo2TiC2Tx 薄膜并测试其 FE/FM 共存的简单制备流程。
+  - **关键特征**：这是室温下在双过渡金属 MXene 薄膜中实验观察到多铁性的代表工作；刻蚀工艺增强铁电性并同时诱导铁磁性；DTM 多铁材料在纳米器件中具潜力。
   - 图14：Gd 取代 BiFeO3（BFO）的 SEM 图像：![图14](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_14_QBIS6L9Y.png)
+  - **图示描述**：Gd 掺杂 BiFeO3 纳米颗粒的扫描电子显微镜形貌图，展示颗粒尺寸、分布与团聚情况。
+  - **关键特征**：Gd 取代改变 BFO 晶粒尺寸与形貌，是后续 BGFSO 共掺体系磁性增强的微观结构基础；与纯 BFO 对比可看出稀土掺杂对钙钛矿微结构的调制。
   - 图15：BGFSO（BiGdFeSnO）共掺杂 Ti3C2Tx 增强铁电与磁性：![图15](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_15_EIYBVH5Q.png)
+  - **图示描述**：300 K 下 (a) BGFSO 纳米颗粒、(b) Ti3C2Tx/BGFSO 复合物的 M-H 磁滞回线对比。
+  - **关键特征**：复合后饱和磁化与剩余磁化均增强，呈典型"S"形铁磁回线；Ti3C2Tx 与 BGFSO 界面的超交换作用是磁性增强来源；证明铁磁钙钛矿与 MXene 复合是室温磁电/多铁设计的有效路径。
   - 图16：Mo2Ti2C3Tx/激光还原石墨烯三层铁电忆阻器结构及 Roff/Ron≈10²、10³ 次循环耐久性：![图16](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_16_QTZLCSU8.png)
+  - **图示描述**：以 Mo2Ti2C3Tx MXene 为中间活性层、激光还原石墨烯为上下电极的三层铁电忆阻器结构，及其 I-V 开关曲线、电阻开关耐久性。
+  - **关键特征**：存储窗口 R_off/R_on≈10²，循环耐久性达 10³ 次；MXene 铁电性使导电细丝形成可控；对比 Cu/PZT 体系，MXene 显著降低 Cu 离子迁移势垒（PZT 中约 4.43 eV）。
   - 图17：MXene 在锂离子电池中的应用及 BT/f-Ti3C2Tx 循环稳定性与内建电场富集 Li+：![图17](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_17_BSC7ZVIJ.png)
+  - **图示描述**：(a) MXene 用于锂离子电池示意；(b,c) BT/f-Ti3C2Tx 复合物的循环稳定性与倍率性能；(d) BTO 纳米颗粒极化内建电场吸引 Li+ 至 MXene 负极的机理示意。
+  - **关键特征**：10 A g⁻¹ 下比容量达 84 mAh g⁻¹，约为本征 Ti3C2Tx 的 5 倍；BTO 同时抑制 MXene 片层堆叠与 Ti 原子还原；铁电极化内建电场加速 Li+ 传输并促进均匀 SEI 膜。
   - 图18：Li:ZnO/Ti3C2 压电纳米发电机（PENG）结构示意，输出性能提升约两倍：![图18](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_18_RHWDV2LQ.png)
+  - **图示描述**：Li 掺杂 ZnO 纳米线与 Ti3C2 MXene 复合的 PENG 器件分层结构，以及其输出电压/电流相对于纯 Li:ZnO PENG 的对比。
+  - **关键特征**：MXene 在极化过程中协助 Li:ZnO 纳米线有效极化；纳米线包覆阻止金属 Ti3C2 薄片聚集，提高电场均匀性；铁电性与输出功率整体提升约 2 倍。
   - 图19：Janus MXene（-O/-F/-OH 端基）的磁各向异性对比：![图19](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_19_9V332539.png)
+  - **图示描述**：不同端基（-O、-F、-OH）的 Janus MXene 原子结构与磁各向异性能（MAE）对比，区分面内 vs 面外各向异性。
+  - **关键特征**：-O 端基 Janus MXene 磁各向异性较低；-F、-OH 端基倾向面内各向异性；TiCrCO2 在所有 Janus MXene 中铁磁性与交换常数最高；双过渡金属 W2CrN2O2、Mo2Cr2N2O2 表现强铁磁半金属性，是自旋电子学优选。
   - 表1：MXene 刻蚀方法汇总：![表1](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/tab_1_P986MHTG.png)
+  - **图示描述**：系统列出湿法 HF 刻蚀、氟盐/强酸、NH4HF2、无氟熔盐、电化学刻蚀、CVD 等方法的试剂、条件、所得端基及优缺点。
+  - **关键特征**：刻蚀方法直接决定端基 T_x（-O/-OH/-F/-Cl/-S/-Br/-NH2 等），是性能调控第一旋钮；HF 法成熟但有毒，熔盐/电化学/CVD 代表绿色、规模化方向。
   - 表2：MXene 基铁电复合材料与铁电忆阻器性能汇总：![表2](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/tab_2_LK2UPNT4.png)
+  - **图示描述**：汇总 Cu/MXene/PZT、BFO/MXene、MXene-PZT、Mo2Ti2C3Tx/激光还原石墨烯等体系的器件结构、开关比、工作电压、耐久性等关键指标。
+  - **关键特征**：MXene 引入普遍降低开关电压、提高开关比与耐久性；表中数据为横向比较 MXene 铁电忆阻器性能提供统一依据。
   - 表3：不同表面官能团类型及其应用汇总：![表3](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/tab_3_AJMB32HI.png)
+  - **图示描述**：列出 -O、-F、-OH、-Cl、-S、-Br、-NH2、N 端等官能团对应的电子结构、磁性/铁电倾向及典型应用（电池、TENG、催化、自旋电子等）。
+  - **关键特征**：-O/-OH 为电子受体使 MXene 呈 p 型，-F 倾向电子给体；端基不对称是诱导铁电的关键；在 TENG 中 -NH2 端为摩擦正、N 端为摩擦负，开路电压可达 250 V。
 ## 🔬 项目连接
 project-2 Mn多铁（弱相关：综述系统讨论 Mn₂C/Mn₂CO₂ 等 Mn 基 MXene 的反铁磁/铁磁基态，以及 Hf₂VC₂F₂、i-MXene 等 II 型多铁与磁电耦合机制，可为本项目提供二维多铁材料设计与磁电耦合判据的参考）；其余项目无直接连接。
 ## 🔗 项目双链

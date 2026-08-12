@@ -5,65 +5,99 @@
     {
       "fig_number": "1",
       "title": "Figure 1",
-      "llm_description": "(a) Schematics showing the splitting of the two spin-polarized bands (parabolic bands with different colors) in the Rashba effect. (b) Top view of the spin textures at the energy contours shown in panel a. (c) Illustration of (left) type-I and (right) type-II Weyl semimetals (WSMs). (d) Schematic phase diagram showing topologically distinct phases of the Pb1−xSnxTe alloy with the variation of two parameters, polarity and Sn/Pb ratio. Panel adapted from Reference 102.",
-      "page": "15",
-      "attachment_key": "K5QYFLQM",
-      "file": "fig_1_K5QYFLQM.png",
-      "tags": [
-        "Done"
-      ],
+      "llm_description": "Introduction of polar-metal concepts. (a) Cartoons distinguishing (i) polar metal — a lattice with a permanent dipole but free carriers, polarization not necessarily switchable; (ii) ferroelectric-like metal — a structural transition from nonpolar to polar phase on cooling, polarization not field-switchable; (iii) ferroelectric metal — a metal whose polarization is switchable by an applied electric field. (b) Coulomb repulsion energies of a one-dimensional ionic chain in a centrosymmetric equally spaced configuration (distance a, charge +1, V = 4.5/a) versus a non-centrosymmetric configuration with alternating a/3 and 2a/3 spacings, illustrating why conventional metals favor centrosymmetric packing.",
+      "page": "3",
+      "attachment_key": "14DBA61B",
+      "file": "fig_1_14DBA61B.png",
+      "tags": ["Done"],
       "materials": [],
       "methods": []
     },
     {
       "fig_number": "2",
       "title": "Figure 2",
-      "llm_description": "Ferroelectric metal WTe2. (a) Schematic illustration of the three equivalent distortion vectors for the polarization up states, P1up, P2up, and P3up (solid lines) and the polarization down states, P1down, P2down, and P3down (dashed lines). The curved arrows denote low-energy transitions between polarization up and down states along different distortion vectors; switching between up and down polarization along the same distortion vector has a prohibitively high energy barrier. Panel adapted from ",
-      "page": "13",
-      "attachment_key": "MZBMKDTD",
-      "file": "fig_2_MZBMKDTD.png",
-      "tags": [
-        "Done"
-      ],
+      "llm_description": "Schematic of the timeline of polar-metal research (left) and their exotic properties (right). Timeline marks the 1965 Anderson–Blount prediction, 2013 discovery of ferroelectric-like LiOsO3, and 2018 discovery of switchable ferroelectric metal WTe2, among other milestones. Property icons illustrate Rashba spin–orbit coupling (spin texture in kx–ky plane), Weyl-node band topology, thermoelectric effect (heat gradient driving current J), magnetoelectric effect (current I inducing magnetization M), multiferroicity (electric field E and magnetic field B cross-controlling P and M), and unconventional superconductivity.",
+      "page": "5",
+      "attachment_key": "80A6D28C",
+      "file": "fig_2_80A6D28C.png",
+      "tags": ["Done"],
       "materials": [],
       "methods": []
     },
     {
       "fig_number": "3",
       "title": "Figure 3",
-      "llm_description": "Geometric polar metals. In Ca3Ru2O7, the combined (a) zone-boundary rotation and (b) tilt modes couple to (c) the zone-center polar mode to cause the polar symmetry. (d) The polar Pm21n structure of Bi5Mn5O17, depicting the displacements of the Bi atoms (blue arrows) that result in a net polarization P along the b direction. Panels a–c adapted with permission from Reference 55; copyright 2018 American Chemical Society. Panel d adapted from Reference 18.",
+      "llm_description": "Polar metals obtained by doping ferroelectrics. (a) Temperature–electron-dopant-concentration (n, cm−3) phase diagram of BaTiO3−δ showing insulator-to-metal crossover and persistence of cubic/tetragonal/orthorhombic/rhombohedral structural phases. (b) DFT-calculated polarization of tetragonal and pseudocubic BaTiO3 versus electron and hole concentration, with an anomalous polarization enhancement at low hole doping. (c) STEM images of Nb-doped PbTiO3 (PbTi0.96Nb0.04O3 and PbTi0.88Nb0.12O3) showing Ti/Nb off-centering (red arrows) relative to Pb columns (blue dots) and induced local polarization. (d) Layered geometric ferroelectric BaMF6: high-symmetry centrosymmetric structure versus polar structure, where MF6-octahedron rotations drive a secondary Ba-ion polar displacement.",
+      "page": "7",
+      "attachment_key": "A0B92BF7",
+      "file": "fig_3_A0B92BF7.png",
+      "tags": ["Done"],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "4",
+      "title": "Figure 4",
+      "llm_description": "Free energy across a paraelectric-to-ferroelectric phase transition for (a) proper and (b) improper ferroelectrics. In proper FEs below Tc the free energy has a characteristic double-well F(P) with two minima at ±P that can be switched by an external electric field. In improper FEs the free energy remains a single well, but its minimum is shifted to a nonzero polarization P through coupling to a nonpolar primary order parameter (e.g. a rotation/tilt distortion); polarization is therefore a secondary consequence and less sensitive to free carriers.",
+      "page": "8",
+      "attachment_key": "BAD5B403",
+      "file": "fig_4_BAD5B403.png",
+      "tags": ["Done"],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "5",
+      "title": "Figure 5",
+      "llm_description": "Geometric polar metals. In Ca3Ru2O7, the combined (a) zone-boundary rotation mode X2+ and (b) tilt mode X3− couple to (c) the zone-center polar mode Γ5− to cause the polar symmetry, while Ru-t2g states that dominate metallic conduction are largely unaffected. (d) The polar Pm21n structure of Bi5Mn5O17, depicting Bi-atom displacements (blue arrows) that produce a net polarization P along the b direction; Mn substitution provides a route to multiferroic polar metals.",
       "page": "9",
       "attachment_key": "SDUYTBB2",
-      "file": "fig_3_SDUYTBB2.png",
-      "tags": [
-        "Done"
-      ],
+      "file": "fig_5_SDUYTBB2.png",
+      "tags": ["Done"],
       "materials": [],
       "methods": []
     },
     {
       "fig_number": "6",
       "title": "Figure 6",
-      "llm_description": "Figure 6",
+      "llm_description": "Ferroelectric-like polar metal LiOsO3. (a) High-temperature nonpolar R-3c and low-temperature polar R3c crystal structures, with Li ions displaced along the pseudocubic [111] direction below Ts = 140 K. (b) Total and partial density of states showing EF dominated by Os-d/O-p hybridization (metallic conduction from the OsO6 network). (c) Energy versus displacement along the A2u polar mode: the double well is almost entirely from Li–O displacements, while Os–O displacements alone raise the energy. (d) Geometric origin of Li rattling: in-plane Li–O ≈ 1.9 Å versus out-of-plane ≈ 2.7 Å underbonding drives Li off-centering. (e) Order–disorder potential-well sketch for Li in the polar transition.",
       "page": "11",
       "attachment_key": "GDKZHFYP",
       "file": "fig_6_GDKZHFYP.png",
-      "tags": [
-        "Done"
-      ],
+      "tags": ["Done"],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "7",
+      "title": "Figure 7",
+      "llm_description": "Ferroelectric metal WTe2. (a) Three equivalent distortion vectors for polarization-up states P1up/P2up/P3up (solid) and polarization-down states P1down/P2down/P3down (dashed) in the hexagonal symmetry; direct up–down switching along the same distortion vector is prohibitively high in energy, while cross-vector paths have low barriers. (b) Interlayer sliding mechanism for bilayer WTe2: horizontal shift of the upper layer relative to the lower by (d1+d2) along x reverses the vertical polarization P. (c) Differential charge density showing reversal of interlayer chemical bonding upon sliding, the microscopic origin of polarization switching.",
+      "page": "13",
+      "attachment_key": "MZBMKDTD",
+      "file": "fig_7_MZBMKDTD.png",
+      "tags": ["Done"],
+      "materials": [],
+      "methods": []
+    },
+    {
+      "fig_number": "8",
+      "title": "Figure 8",
+      "llm_description": "Rashba and topological properties of polar metals. (a) Splitting of two spin-polarized parabolic bands in the Rashba effect with dispersion ±αRk. (b) Top view of the spin texture on the energy contours from panel (a), showing spin–momentum locking. (c) Illustration of type-I (point-like Fermi surface) and type-II (tilted cone touching electron/hole pockets) Weyl semimetals. (d) Schematic phase diagram of the Pb1−xSnxTe alloy as a function of polarity and Sn/Pb ratio, showing topologically distinct phases including normal insulator, topological crystalline insulator and Weyl semimetal regimes.",
+      "page": "15",
+      "attachment_key": "K5QYFLQM",
+      "file": "fig_8_K5QYFLQM.png",
+      "tags": ["Done"],
       "materials": [],
       "methods": []
     },
     {
       "fig_number": "9",
       "title": "Figure 9",
-      "llm_description": "Figure 9",
+      "llm_description": "Topological and superconducting phenomena in polar metals. (a,b) Band dispersion around the L point in the Brillouin zone for (a) nonpolar and (b) polar phases of LiOsO3: broken inversion symmetry in the polar phase converts the cubic Dirac point into three crossing nodal rings. (c) Berry-curvature dipole / nonlinear Hall effect mechanism: at equilibrium Ω(k) = −Ω(−k) cancels, while an applied electric field displaces the Fermi surface by as, yielding a net Berry curvature and second-harmonic Hall current. (d) Schematic phase diagram of SrTiO3 showing coexistence of ferroelectric (FE) and superconducting (SC) orders under Ca doping, with Tc enhanced near the FE quantum critical point.",
       "page": "18",
       "attachment_key": "25F96G46",
       "file": "fig_9_25F96G46.png",
-      "tags": [
-        "Done"
-      ],
+      "tags": ["Done"],
       "materials": [],
       "methods": []
     }
@@ -80,7 +114,7 @@
     {
       "id": "eq_1",
       "title": "Equation 1",
-      "content": "1.",
+      "content": "Rashba Hamiltonian H_R = α_R (σ × k)·ẑ, giving two spin-split parabolic dispersions E±(k) = ħ²k²/(2m*) ± α_R k with chiral spin–momentum locking.",
       "page": "15",
       "attachment_key": "GRQCHY2Y",
       "file": "eq_1_GRQCHY2Y.png"
@@ -88,7 +122,7 @@
     {
       "id": "eq_2",
       "title": "Equation 2",
-      "content": "2.",
+      "content": "Berry curvature dipole tensor D_bd = (1/(2π)³) ∫ d³k (∂_b f₀) Ω_d = −(1/(2π)³) ∫ d³k (∂_b Ω_d) f₀, which converts an applied electric field into a second-order nonlinear Hall conductivity χ_abc; its antisymmetric component defines a gyrotropic vector along the polar axis.",
       "page": "17",
       "attachment_key": "6B39EVXQ",
       "file": "eq_2_6B39EVXQ.png"
@@ -96,15 +130,13 @@
     {
       "id": "eq_3",
       "title": "Equation 3",
-      "content": "3.",
+      "content": "Kinetic magnetoelectric effect M_j = K_ij E_i = − a₀/(2π)³ ∫ d³k m_j(k) ∂_{k_i}ε_k (∂f₀/∂ε_k) E_i in the relaxation-time approximation, with Fermi-surface displacement a_s = −(eτ/ħ) E = −a₀ E. Field-induced rigid shift of the Fermi surface yields a net orbital magnetization; symmetry-allowed in all gyrotropic (including polar) metals.",
       "page": "19",
       "attachment_key": "6CAHWPFM",
       "file": "eq_3_6CAHWPFM.png"
     }
   ],
-  "tags": [
-    "Done"
-  ],
+  "tags": ["Done"],
   "materials": [],
   "methods": []
 }

@@ -103,7 +103,12 @@ VahidMohammadi, Rosen, Gogotsi，2021，Science，DOI 10.1126/science.abf1581
   - `entities/Ti2C`、`entities/Ta4C3`、`entities/Mo2CTx`：代表性 M_2X、M_4X_3 与钼基 MXene。
 
 ## 📊 关键图表
-笔记未附图片（manifest 中 figures/formulas 为空，仅有一张元数据表格，未抽取图像）。论文正文图 1 为 MXene 结构与应用总览图（3/5/7/9 原子层、终端 −F/=O/−Cl/−Br、应用全景），可在后续补充 PDF 时补入 `raw/figures/vahidmohammadiWorldTwodimensionalCarbides2021/`。
+> 说明：`raw/figures/vahidmohammadiWorldTwodimensionalCarbides2021/` 下仅有 `manifest.json`，未抽取任何图片文件；`raw/note` 也只保留了摘要与图 1 图注，没有逐图深度解析。以下根据论文图注与摘要对关键图作文字描述，待获取原始 PDF 后可补入对应图片。
+
+- **图1：二维碳化物和氮化物（MXenes）的结构与应用总览**
+  - **图示描述**：该图为综述的总览/图形摘要图，展示 MXenes 通式 M_{n+1}X_nT_x 的结构分类与应用全景——按 3、5、7、9 个原子层（对应 M_2X、M_3X_2、M_4X_3、M_5C_4）排列，金属（M）层夹碳/氮（X）层，可含一种或两种金属原子，表面以 −F、=O、−Cl、−Br 等终端（T_x）覆盖。
+  - **关键特征**：①结构多样性来自奇数原子层厚度、单金属或双金属有序（面内有序 i-MXene、面外有序 o-MXene）、以及多种表面终端的组合，理论可能组分超过 100 种，叠加终端与碳氮化物/固溶体后组分空间再增加约一个数量级；②性能维度覆盖光电、力学与电化学，MXenes 以金属性导体为主，填补了二维材料工具箱中高电导构件的空白；③应用从储能与能量采集、电/光催化、水净化与脱盐、电磁干扰屏蔽、通信天线、光学与等离子体器件、传感器、致动器、复合材料一直延伸到生物医学。
+  - **结论/意义**：该图是整篇综述论点的可视化缩影，把"结构分类 → 可调性能 → 广泛应用"的主线浓缩于一图，并支撑作者提出的 MXetronics（全 MXene 光电子学）概念，是理解全文论证框架的核心图。
 
 ## 🔬 项目连接
   - **project-7 CDW（weak）**：综述把 MXenes 定位为二维金属性过渡金属碳/氮化物大家族，并强调缺陷与应变工程对电子结构的调控，为 CDW 等二维金属电子态提供了不同于 TMD 的材料平台与物理图像；但本文未直接讨论 CDW，故仅 weak。

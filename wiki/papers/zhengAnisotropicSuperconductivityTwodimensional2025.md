@@ -112,10 +112,23 @@ Jing-Jing Zheng、Jingyu Li、Rong-Rong Ma、Fengkai Guo、Jiang-Jiang Ma、Peng
 
 ## 📊 关键图表
   - ![图1 Cu3(CO)6 单层的原子结构、轨道分辨能带、PDOS（N(EF)=16.2 states/eV/unit cell）与二维费米面（π1/π2/δ 三片，颜色为费米速度）](../../raw/figures/zhengAnisotropicSuperconductivityTwodimensional2025/fig_1_ZTA2YSXI.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
+  - **图示描述**：(a) 俯视原子结构，黑色实线标出含一个 Cu3(CO)6 化学式单元的原胞，蓝/黑/红分别为 Cu/C/O，Cu 原子构成完美 kagome 点阵、四重配位 O；(b) 沿 Γ–K–M–Γ 的轨道分辨能带，EF=0，三条带穿过 EF，颜色区分 Cu dxy,x2−y2、C pz、O pz 等轨道贡献；(c) 对应的分波态密度（灰色为总 DOS）；(d) 二维费米面，色标为费米速度 vF 大小。
+  - **关键特征**：优化晶格常数 a=7.732 Å，Cu–O/C–O/C–C 键长分别为 2.03/1.33/1.02 Å，属 P6/mmm（No.191）；N(EF)=16.2 states/eV/unit cell，是硫代类似物 Cu3(CS)6（3.56）的 4.5 倍以上；M 点附近同时出现类狄拉克锥、K–M 路径上的平带以及 −0.01 eV 处的范霍夫奇点，M 点附近 vF 显著压低是平带的直接证据；费米面由围绕 Γ 的三片空穴袋组成——内圈 π1（C pz/O pz/Cu dxz,yz，圆形）、中圈 π2（花瓣形，与 δ 相交）、外圈 δ（Cu dxy,x2−y2 与 O s+px,y 杂化，圆形）。
+  - **结论/意义**：确立"高 N(EF)+平带/范霍夫奇点+三片费米面"的电子前提，为后续强电-声耦合与各向异性超导提供电子结构基础。
   - ![图2 声子谱（45 支，无虚频）+ 模式分辨 λqν 红圈、PhDOS（Cu/O/C 及面内/面外投影）、Eliashberg 谱函数 α²F(ω) 与累积 λ(ω)=0.72、q 分辨 λq 六芒星分布](../../raw/figures/zhengAnisotropicSuperconductivityTwodimensional2025/fig_2_5UQP53W8.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
+  - **图示描述**：(a) 沿高对称路径的声子色散，红圈大小正比于模式分辨电-声耦合 λqν；(b) 按 Cu/O/C 原子投影的声子态密度 PhDOS；(c) 按面内（xy，红线）/面外（z，蓝线）振动投影的 PhDOS；(d) Eliashberg 谱函数 α²F(ω)（红线）与累积耦合 λ(ω)（蓝线）；(e) 整个布里渊区的 q 分辨 λq 二维分布。
+  - **关键特征**：15 原子原胞共 45 支声子（3 声学+42 光学），全布里渊区无虚频，证明动力学稳定；频率分三区——I 区 <40 meV 以 Cu、O 振动为主，II 区 40–49 meV 为 C 与 O 强混合，III 区 >49 meV 为 C 高能光学模（50–80 meV 突出 Oxy、80–174 meV 以 C 为主）；总 λ=0.72（低于 Cu3(CS)6 的 1.16），其中 I 区贡献 0.43（59.7%）、II 区约 30.6%（Cz 面外+Oxy/Oz）、III 区仅约 9.7%；(a)(e) 中 Γ 附近低能光学支红圈最大，λq 呈六重对称六角星芒分布。
+  - **结论/意义**：证明超导配对胶水主要来自 Cu/O 主导的 <40 meV 低能声子，与 LiC6、Cu3(CS)6 中"低能声子主导 EPC"的图像一致。
   - ![图3 费米面上动量分辨 λnk（0.62–1.31）与 5 K 下能隙 Δnk（2.08–3.90 meV）、Δ(T) 的 BCS 拟合（Tc=16.5 K）、15 K 下超导态准粒子 DOS 相干峰](../../raw/figures/zhengAnisotropicSuperconductivityTwodimensional2025/fig_3_YSERMQTH.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
+  - **图示描述**：(a) 费米面上动量分辨电-声耦合 λnk 的三维着色图及其归一化分布 ρ(λnk)；(b) 5 K 时费米面上动量分辨超导能隙 Δnk（meV）及分布 ρ(Δnk)；(c) 各向异性能隙随温度的演化，红色虚线为 BCS 型 Δ(T)=Δ0 tanh[2.2√((Tc−T)/T)] 拟合；(d) 15 K 下超导态准粒子态密度 Ns(ω)/N(EF) 随频率 ω 的变化。
+  - **关键特征**：λnk 范围 0.62–1.31，δ 带（外圈）最大（由 Cu dxy,x2−y2/O s+px,y 驱动），π1 仅 0.62–0.67，π2 为 0.71–0.78；5 K 下 Δnk=2.08–3.90 meV，其空间分布与 λnk 一一对应，ρ(Δnk) 呈三个峰但在能量上连续，判定为单能隙各向异性；零温平均 Δ0=2.80 meV，拟合得 Tc=16.5 K（远高于 Cu3(CS)6 的 4.43 K）；2Δ0/kBTc=3.94，略大于弱耦合 BCS 值 3.53，对应中等耦合；15 K 下 ±2.2 meV 处出现 BCS 相干峰。
+  - **结论/意义**：定量给出 Cu3(CO)6 为 Tc=16.5 K 的单能隙各向异性 BCS 超导体，是论文的核心结论图。
   - ![图4 电子磁化率实部 χ′(q) 与虚部 χ′′(q)（费米面嵌套函数），K 点及 M–K 路径上的强峰与 λq 强耦合位置对应](../../raw/figures/zhengAnisotropicSuperconductivityTwodimensional2025/fig_4_NCJN9LEL.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
+  - **图示描述**：(a) 电子磁化率实部 χ′(q) 在布里渊区内的二维分布，反映电子体系对扰动的整体稳定性；(b) 虚部 χ′′(q)，即 ω→0 极限下的费米面嵌套函数 Σk δ(εk−εF)δ(εk+q−εF)，红/绿/蓝分别对应高/中/低值。
+  - **关键特征**：Γ 点（q=0）处 χ′′ 的发散是自嵌套平凡项，无物理意义；在 K 点周围及沿 M–K 路径出现显著强峰，形成围绕 K 点的三角形图案和围绕 Γ 的六边形/圆周图案；这些强峰位置与图2(a)、2(e) 中 λqν/λq 的强耦合波矢精确重合。
+  - **结论/意义**：从微观上证实费米面嵌套是驱动并增强 Cu3(CO)6 电-声耦合的机制，同时提示该体系存在 CDW/SDW 等竞争序的潜在可能。
   - 公式图：Eliashberg 谱函数 eq_1、累积 λ(ω) eq_2、动量分辨 λk eq_3、质量重整化 Z eq_4、能隙方程 eq_5、各向异性 λ(k,k′,n−n′) eq_6、BCS 型 Δ(T) eq_7、χ′(q) eq_8、χ′′(q) eq_9（均在 raw/figures 同目录下）
+
 
 ## 🔬 项目连接
   - **project-7（CDW）—— 核心参考价值**：(1) 本文方法学直接是 CDW 研究的标准武器——用 DFPT 声子谱查虚频、用电子磁化率虚部 χ′′(q) = Σ_k δ(εk−εF)δ(εk+q−εF) 定量识别费米面嵌套波矢，再与电声 λqν 对照；(2) 物理想像上，Cu3(CO)6 同时具备高 N(EF)=16.2 states/eV、平带、VHs 和强嵌套峰，正是 CDW/SDW 等竞争序最容易出现的电子环境，作者及 AI 批判分析都明确把 CDW 列为应进一步检验的失稳通道；(3) 文中引用 [97] Calandra & Mauri (PRL 2011) 关于 TiSe2 中电声相互作用同时产生 CDW 与超导穹顶的工作，把"嵌套—电声耦合—CDW/超导竞争"的因果链写得很清楚，可直接作为 project-7 讨论 CDW–超导共存的方法与文献模板；(4) χ′/χ′′ 双图（图4）与 λq 图（图2e）并置的呈现方式，可作为 project-7 图表组织范式。

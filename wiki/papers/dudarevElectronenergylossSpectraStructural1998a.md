@@ -65,13 +65,42 @@ S. L. Dudarev, G. A. Botton, S. Y. Savrasov, C. J. Humphreys, A. P. Sutton et al
   - 相关论文 **dudarevElectronenergylossSpectraStructural1998a**
 ## 📊 关键图表
 列出本文关键图
+  - **图1**：
   - ![图1 上：氧K边EELS实验谱与LSDA/LSDA+U计算的O 2p空态DOS对比；下：总能量随晶格常数变化曲线](../../raw/figures/dudarevElectronenergylossSpectraStructural1998a/fig_1_D42XHL87.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：上半部分为归一化的氧 K 边实验 EELS 谱（实线，能量轴已平移 528.3 eV 以对齐 O 1s 芯能级）与 LSDA、LSDA+U（Ū=6.2 eV 和 8.0 eV）计算的 O 2p 空态密度（虚线，经高斯展宽模拟 0.4–0.5 eV 仪器/寿命分辨率）的对比；下半部分为 LSDA 与 LSDA+U 每 NiO 单元总能量随晶格常数的变化曲线。
+  - **关键特征**：(1) LSDA 两主峰间距比实验大 ~2 eV，且低能 O 2p–Ni 3d 杂化峰权重过高；(2) Ū=6.2 eV 时两峰间距与低能峰强度均显著贴近实验，Ū=8.0 eV 也优于 LSDA 但峰距偏差稍大；(3) 能量极小值从 LSDA 的 4.08 Å 右移至 LSDA+U（Ū=6.2 eV）的 4.19 Å，接近实验值 4.17 Å（Ū=8.0 eV 给出 4.22 Å）；(4) 对应的 LSDA+U 带隙为 3.0 eV（Ū=8.0 eV 为 3.2 eV），高于 LSDA 的 0.6 eV 但仍低于实验 4.2 eV。
+  - **结论/意义**：同一 Ū=6.2 eV 同时再现光谱的峰位/峰强和结构的平衡晶格常数，是 LSDA+U 方法统一描述 NiO 激发谱与基态结构的核心证据。
+  - **图2**：
   - ![图2 上：NiO岩盐结构；下：(100)面 LSDA+U 与 LSDA 电荷密度差，显示间隙区电荷密度减少、共价键减弱](../../raw/figures/dudarevElectronenergylossSpectraStructural1998a/fig_2_GBIMQZ9U.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - **图示描述**：上图为 NiO 岩盐（NaCl 型）晶体结构示意（白球为氧、灰球为镍）；下图为在 (100) 晶面上 LSDA+U（Ū=6.2 eV）相对于 LSDA 的电荷密度差 Δρ = ρ(LSDA+U) − ρ(LSDA) 的空间分布。
+  - **关键特征**：(1) Ni–O 之间的间隙区域 Δρ 为负，即 LSDA+U 下该区域成键电荷减少；(2) 电子云收缩至 Ni 离子周围，反映 3d 电子因在位库仑排斥而更局域；(3) 该图像与图1 中低能 O 2p–Ni 3d 杂化峰被压低、向高能移动完全自洽，而对应 O 2p–Ni 4s/4p 的高能峰几乎不受影响，体现 U 的轨道选择性。
+  - **结论/意义**：从实空间电荷分布上阐明了 U 使平衡晶格常数增大的微观机制——减弱 Ni–O 共价键合、键网"松弛"。
+  - **公式(1)**：
   - ![公式(1) 含轨道简并的模型哈密顿量，含Ū和J̄两项](../../raw/figures/dudarevElectronenergylossSpectraStructural1998a/eq_1_Q5JBCHIW.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：考虑 3d 壳层五重轨道简并的 Hubbard 模型哈密顿量，求和遍及轨道投影 m, m′（d 电子取 −2…2）与自旋 σ；第一项系数为 Ū/2（相反自旋、含 m=m′ 自身相互作用），第二项系数为 (Ū−J̄)/2（同自旋、m≠m′）。
+  - **关键特征**：(1) Ū 为球平均屏蔽库仑矩阵元（有效在位排斥），J̄ 为球平均 Hund 交换；(2) 对单轨道 Hubbard 模型退化为 (U/2)Σ_σ n̂_σ n̂_{−σ}；(3) 固定 J̄=0.95 eV，本文主要变化 Ū。
+  - **结论/意义**：是后续推导整数/非整数占据能量差、构造 LSDA+U 泛函的出发点。
+  - **公式(4)**：
   - ![公式(4) LSDA+U总能量泛函（对角占据数形式）](../../raw/figures/dudarevElectronenergylossSpectraStructural1998a/eq_4_UT7YQAUM.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：E_LSDA+U = E_LSDA + (Ū−J̄)/2 · Σ_σ (n_m,σ − n²_m,σ)，其中 n_m,σ 为第 m 个 d 轨道的占据数；该式由非整数占据的 UHF 能量表达式减去整数占据下的密度泛函表达式得到。
+  - **关键特征**：(1) 修正项在整数占据（n=0 或 1）时为零，保证不破坏原子参考态；(2) 在半占据 n=1/2 时惩罚最大，强制轨道占据两极分化，从而打开关联带隙；(3) 形式上是 Anisimov 轨道依赖 LSDA+U 的简化版本。
+  - **结论/意义**：定义了 LSDA+U 的能量修正，是计算 O 2p DOS 与总能量曲线的实际泛函。
+  - **公式(5)**：
   - 公式(5) 旋转不变的LSDA+U泛函 E_LSDA+(Ū-J̄)/2 Σ_σ[Trρ^σ-Tr(ρ^σρ^σ)]（笔记未附该公式图片）
+  - **图示描述**：将公式(4)中对角占据数推广为 d 电子密度矩阵 ρ^σ，得到旋转不变形式 E_LSDA+U = E_LSDA + (Ū−J̄)/2 · Σ_σ [Tr(ρ^σ) − Tr(ρ^σ ρ^σ)]。
+  - **关键特征**：(1) 对 d 轨道空间的任意幺正变换（如实 d 轨道基与球谐基之间）保持不变；(2) 桥接 Anisimov 等的轨道依赖形式与 Liechtenstein 等的旋转不变泛函；(3) 整数占据极限下第二项消失，使该泛函可一致计算固体内聚能。
+  - **结论/意义**：克服了早期 LSDA+U 对轨道基组选择的依赖，是实际可在任意程序中实现的协变形式。
+  - **公式(6)**：
   - ![公式(6) 单电子势矩阵元 V_jl^σ = δE_LSDA/δρ_jl^σ + (Ū-J̄)(δ_jl/2 - ρ_jl^σ)](../../raw/figures/dudarevElectronenergylossSpectraStructural1998a/eq_6_KX36V9IK.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：对公式(5)关于密度矩阵元 ρ_{jl}^σ 求变分导数得到的单电子势矩阵：V_{jl}^σ = δE_LSDA/δρ_{jl}^σ + (Ū−J̄)(δ_{jl}/2 − ρ_{jl}^σ)。
+  - **关键特征**：(1) 第二项 (Ū−J̄) 作用于已占据轨道（ρ→1）时为负、未占据轨道（ρ→0）时为正，从而把占据态下移、空态上移、打开带隙；(2) 非对角元使势本身也是密度矩阵的函数，需自洽求解；(3) 是 FP-LMTO 自洽循环中实际进入 Kohn–Sham 方程的势。
+  - **结论/意义**：把能量泛函转化为可数值求解的单电子势，是 LSDA+U 自洽计算的执行方程。
+  - **公式(7)**：
   - ![公式(7) 用Kohn-Sham本征值表示的总能量，含双计数修正项](../../raw/figures/dudarevElectronenergylossSpectraStructural1998a/eq_7_YP9VVUC6.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：用 Kohn–Sham 本征值 {ε_i} 重写总能量：E_LSDA+U = E_LSDA[{ε_i}] + (Ū−J̄)/2 · Σ_{l,j,σ} ρ_{lj}^σ ρ_{jl}^σ，其中末项为双计数修正。
+  - **关键特征**：(1) 末项减去被 E_LSDA[{ε_i}] 重复计入的在位平均库仑能；(2) 与整数占据消去性质配合，使原子与固体参考态一致；(3) 是输出表1中结合能、弹性模量等结构量的总能量表达式。
+  - **结论/意义**：给出实际计算总能量（及晶格常数、内聚能、体弹/剪切模量）所使用的表达式。
+
 ## 🔬 项目连接
 无直接项目连接。本文是 LSDA+U 方法学奠基性 work，所验证的 DFT+U 方案是计算过渡金属氧化物（含 project-2 Mn 多铁体系）电子结构的通用工具，但本文研究对象为 NiO，与七个项目均无直接数据或材料连接。
 ## 🔗 项目双链

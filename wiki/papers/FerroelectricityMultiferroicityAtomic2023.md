@@ -121,7 +121,9 @@ Nature Nanotechnology 编辑部（未署名社论），2023，Nature Nanotechnol
   - `entities/MoS2`、`entities/WS2`、`entities/WSe2`、`entities/MoSe2` — 非极性 TMD 单层，可通过相同双层堆叠 or MoS₂/WS₂ 交替堆叠产生室温铁电回滞。
 
 ## 📊 关键图表
-笔记未附学术图片（原文为 Editorial，仅一张装饰性配图 Credit: Perov Stanislav / Alamy Stock Photo，raw/figures 目录下无图）。
+  - **图示描述**：本文为《Nature Nanotechnology》2023 年第 18 卷的一篇编辑评论（Editorial），全文未包含任何数据图表、示意图或学术图片，正文中仅有一处装饰性配图致谢（Credit: Perov Stanislav / Alamy Stock Photo），与论文学术内容无直接关联，故不纳入图表解析。
+  - **关键特征**：(1) 文章以纯文本形式围绕"钙钛矿氧化物 / 氧化铪 / 范德瓦尔斯堆叠"三条材料主线组织叙事，所有论据均以 14 篇参考文献为锚点，未提供原始数据曲线或结构图；(2) 关键定量论断（PbTiO₃ 临界厚度 1.2 nm、Hf₀.₈Zr₀.₂O₂ 在 1 nm 厚仍有可翻转极化等）均直接引自已发表文献，而非本文配图；(3) raw/figures 目录下仅含 manifest.json，无 fig_*/tab_*/eq_* 图片文件可供 wiki 页引用。
+  - **结论/意义**：该评论的价值在于分类框架与全局视角，而非可视化数据；理解其论断需结合 frontmatter 中列出的关键原始文献（Fong 2004、Cheema 2020、Fei 2018、Wang 2022 等）及其各自的图表。
 
 ## 🔬 项目连接
   - **project-2 Mn多铁 — medium**：本文虽不直接研究 Mn 基多铁，但清晰阐述了多铁材料的核心矛盾（铁电需 d⁰、铁磁需部分填充 d 轨道）、第二类多铁机制（磁序破缺反演对称诱导极化，以 CuCrP₂S₆、NiI₂ 为例）以及 vdW 磁/铁电异质结磁电耦合策略（Cr₂Ge₂Te₆/In₂Se₃ 等）。这些物理图像和分类框架可直接迁移到 Mn 基多铁（如 MnVO₃、SrMnO₃ 等）的机理叙述与异质结设计中。

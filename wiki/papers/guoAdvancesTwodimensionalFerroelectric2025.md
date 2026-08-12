@@ -121,15 +121,53 @@ Zi-Han Guo（郭子涵）、Lin He（何林，通讯作者，北京师范大学�
   - 相关论文 [[../../raw/note/guoAdvancesTwodimensionalFerroelectric2025]]
 ## 📊 关键图表
   - ![图1：CIPS（a-e，四重势阱/PFM盒中盒/电滞回线）与 α-In₂Se₃（f-h，偶极锁定/单层PFM/β′β″相）自发极化](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_1_7K9CL28G.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - **图示描述**：本图汇总两类经典离子位移型二维铁电体。(a-e) 为 CuInP₂S₆：层状硫族骨架、Cu⁺ 在 S 八面体笼中的四重势阱模型、LP→HP 切换时 Cu⁺/In³⁺ 协同位移、30 nm 薄片上 ±偏压写入的 PFM"盒中盒"相位图（比例尺 1 μm），以及相位 180°翻转+振幅蝴蝶型回线。(f-h) 为 α-In₂Se₃：Se-In-Se-In-Se 五层结构中央 Se 原子双稳态移动同步翻转面内/面外极化的"偶极锁定"、单层 PFM 形貌与压电回滞，以及 β′ 反铁电相/β″ 铁电相的层内极化方向对比。
+  - **关键特征**：CIPS 的 Cu⁺ 在四个等效势阱（Cu1/Cu1′/Cu3 等）间跃迁，Tc≈315 K，4 nm 薄膜仍保持约 320 K 的室温铁电；PFM 相位 180°跳变与振幅蝴蝶曲线共同构成铁电性"金标准"指纹。α-In₂Se₃ 单层极限仍可被电场翻转，但其偶极锁定模型与 C3v 对称性矛盾，催生了"分数量子铁电性"解释。
+  - **结论/意义**：该图代表传统离子位移范式在二维极限的延续，为后文滑移铁电新范式提供对照基准。
+
   - ![图2：BP-Bi（a-d，翘曲Δh/能带/双势阱/pz轨道电荷密度）与 d1T-MoTe₂（e-h，PFM/K3+Γ₂⁻模式/差分电荷密度）](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_2_UYFSHFQT.png) → [[../figures/crystal-structures|晶体结构与原子排布]]
+  - **图示描述**：(a-d) 展示首个单元素二维铁电体 BP-Bi：sp²–sp³ 杂化诱导的亚晶格翘曲 Δh=±d0 两种镜像构型、半导体能带、自由能-Δh 双势阱曲线及 P-Δh 近线性关系，以及 A/B 子格 pz 轨道旋转与价电荷密度分布。(e-h) 展示 d1T-MoTe₂：单层 ±8 V 写入的 PFM 盒中盒图案（1 μm）、相位/振幅回线、K3 模式（三个 Mo 形成等边三角形三聚体）与 Γ₂⁻ 模式（Te 面外弛豫）协同畸变，以及铁电 d1T 相与顺电 1T 相之间的差分电荷密度（红积累/蓝耗尽）。
+  - **关键特征**：BP-Bi 极化强度随 Δh 线性增大，A/B 子格 pz 轨道不对称占据是微观起源，Tc≈210 K；自由能单位 eV/晶胞，极化单位 pC/m。d1T-MoTe₂ 面内三聚化偶极相互抵消、面外电荷不对称产生净极化，Tc≈338 K；翻转路径存在争议，Wan 等提出正交子空间耦合理论解释双稳态切换。
+  - **结论/意义**：说明本征二维铁电既可由单元素翘曲破缺反演对称产生，也可由复杂晶格畸变协同实现，扩展了离子位移范式的材料边界。
+
   - ![图3：hBN 滑移铁电实验验证（六种高对称堆叠/t-hBN的EFM三角畴/石墨烯-p-hBN器件/电阻相图/电滞回线/SP区面内极化拓扑网络）](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_3_4EZJK5IN.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - **图示描述**：(a) hBN/hBN 六种高对称堆叠（AA′、AB、BA、AA、AB′、BA′）；(b) 转角 hBN 的 dc-EFM 相位图显示大面积周期性三角形电势调制；(c) 石墨烯/p(t)-hBN 场效应器件结构；(d) t-hBN 器件石墨烯电阻随顶栅/背栅变化的二维相图（双峰渐进）；(e) p-hBN 与 t-hBN 电阻-电压回滞对比；(f-h) AB/BA 畴壁过渡区（SP）的原子构型、第一性原理计算的面内极化强度矢量，以及形成的半子/反半子拓扑网络。
+  - **关键特征**：hBN 带隙约 5.97 eV，仅 AB/BA 平行构型产生面外极化，AA′ 偶极反平行抵消；EFM/KPFM 测得 AB/BA 畴间电势差约 200 mV。p-hBN 呈陡峭矩形回线（单畴快速翻转，适合非易失存储），t-hBN 呈渐进双峰回线（畴壁迁移主导，适合低功耗可编程器件）。SP 区还存在周期性面内偶极子，可形成 meron/antimeron 拓扑极化网络。
+  - **结论/意义**：通过 EFM、量子输运和理论计算三条独立证据链，首次完整确立 hBN 滑移铁电范式，并揭示畴壁本身的拓扑物态。
+
   - ![图4：WTe₂（a-e，层数依赖电滞回线/Hirshfeld电荷/拉曼剪切模消失）与 2H-TMDs（f-h，H/R堆叠/三角莫尔畴/单畴多畴回滞对比）](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_4_2X9UPMDA.png) -> [[../figures/vibrational-spectra|振动能谱与声子谱]]
+  - **图示描述**：(a-c) 三层、双层、单层 WTe₂ 器件电阻-栅压电滞回线；(d) Td-WTe₂ 层状结构并标注用于 Hirshfeld 电荷分析的四个近邻 Te 原子柱；(e) 5 层 WTe₂ 拉曼剪切模在垂直电压下的响应；(f) 2H-TMDs 的 H 堆叠与两种平行 R 堆叠原子结构；(g) 转角 2H-TMDs PFM 相位图显示 200 nm 周期三角形莫尔铁电畴；(h) 单畴主导与多畴共存 R 堆叠器件的极化回线对比。
+  - **关键特征**：WTe₂ 单层无回线、双/三层出现显著回滞（相变温度约 350 K），直接证明铁电性来自层间效应；Hirshfeld 分析显示双层面外极化反转对应沿 b 轴 0.72 Å（能垒 0.6 meV/cell，Li 2018）或 0.493 Å（0.3 meV/cell，Ren 2019）的层间滑移。R 堆叠 TMDs 对石墨烯势场调制 2ΔV_P≈110 meV，约为 hBN 的一半；单畴呈陡峭单峰回线，多畴呈渐进双峰回线。
+  - **结论/意义**：WTe₂ 是首个实验证实的滑移铁电体；层数依赖与拉曼剪切模消失把极化反转与 Td→1T′→Td 层间滑移相变直接关联。
+
   - ![图5：双层石墨烯新奇滑移铁电（LSAS现象/能带模型/多级铁电响应/Vt-Vb相图/WSe₂屏蔽对照/ABC堆垛BN-石墨烯）](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_5_STBTQZWP.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - **图示描述**：(a) BN 封装双层石墨烯（BLG）正/反向背栅扫描相图之差，白色区域即"层特异性异常屏蔽"（LSAS）；(b,c) 垂直电场下 BLG 层间电荷转移与极化形成的能量/态密度示意模型；(d) 更精细的 Vt-Vb 相图，在电荷中性点（CNP）和莫尔平带完全填充点（FFP）附近均出现电滞回环；(e,f) 五条切割线位置及对应的电阻-Vt 响应；(g) 插入 WSe₂ 屏蔽 BN/石墨烯莫尔势前后的回滞对比；(h) 上下 BN 与单层石墨烯形成 ABC 堆垛时产生层间自极化的结构示意。
+  - **关键特征**：LSAS 表明极化态可冻结并屏蔽外场；Lu 组测得层间电荷转移密度高达 10¹³ cm⁻²，对应极化约 5 pC/m，100 K 内保持电滞、300 K 基本消失；魔角 TBG 在 <100 mK 下铁电双稳态可与超导/关联绝缘态共存。2025 年 WSe₂ 屏蔽实验（回滞仍存在）与 ABC 堆垛 BN-石墨烯（室温极化约 1.76 μC/cm²）共同动摇了"石墨烯本征铁电"的归因。
+  - **结论/意义**：该图呈现了最具颠覆性也最具争议的体系——在非极性半金属中观察到铁电响应，并把起源讨论引向 BN 封装层的非中心对称堆叠。
+
   - ![图6：畴工程四类结构（背栅PFM原位观测/应变区畴壁合并/孤立单畴壁-周期三角畴-多畴壁交联-完全位错畴及各自电滞回线）](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_6_LPWUBNHG.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - **图示描述**：(a) 背栅电场下用 PFM 原位观测 R-MoSe₂ 畴壁移动的器件示意和振幅图（比例尺 300 nm）；(b,c) 应变积累区相邻畴壁合并形成完全螺旋错位结构的 PFM 图像；(d-g) 四类典型畴结构示意图及对应电滞回线：孤立单畴壁、周期三角莫尔畴、多畴壁交联、完全位错畴。
+  - **关键特征**：(i) 孤立单畴壁——外场驱动畴壁整体移动触发全域反转，显著双极回线，适合高性能非易失存储；(ii) 周期三角莫尔畴——C3 对称性钉扎节点，仅靠畴面积弹性缩放实现弱迟滞、线性多态响应；(iii) 多畴壁交联——缺陷/污染引入额外钉扎，极化反转效率极低；(iv) 完全位错畴——位错网络锁死极化方向，翻转需 >1 V/nm，无电滞响应。
+  - **结论/意义**：把畴壁形态与极化翻转动力学、回线形状和器件用途一一对应，为"畴工程"理性设计铁电器件提供蓝图。
+
   - ![图7：非易失存储与光电异质结（3R-MoS₂多态/MEP能垒/疲劳特性/53 ns脉冲/铁电BN-WSe₂激子调控/PL谱/泵浦探测激子限域/WSe₂-WTe₂非线性反常霍尔）](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_7_ZGPUVX9E.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：(a-c) 不同层数 3R-MoS₂ 的极化态数量、极化强度、最小能量路径（MEP）与能垒；(d) 电压脉冲驱动的多态切换及保持特性；(e) 不同脉宽/循环次数下的电阻比疲劳曲线；(f) 53 ns 超短脉冲写入；(g) 铁电畴 hBN 封装单层 WSe₂ 的器件结构；(h) AB/BA 畴对 WSe₂ 正/负三重激子（trion）PL 强度的空间调制；(i,j) 泵浦-探测验证 t-hBN 莫尔势对激子扩散的限域；(k,l) WSe₂/铁电 WTe₂ 异质结中非线性反常霍尔效应的铁电开关。
+  - **关键特征**：n 层 3R-MoS₂ 对应 n 个简并能态和 2n−1 种原子构型，相邻态切换能垒恒为约 15.4 meV/cell（与层数无关）；硫空位迁移能垒（层内 2.6 eV、层间 4.6 eV）远高于极化切换能垒（约 136 meV），MD 模拟保障 10⁶ 次循环无衰减，并稳定响应 53 ns 脉冲。p-hBN 器件极化切换达 1 ns，100 ns 脉冲下 10¹¹ 次循环稳定。
+  - **结论/意义**：从多态存储、抗疲劳/超快写入到铁电调控激子与拓扑霍尔输运，系统展示滑移铁电在器件层面的性能优势与跨物态耦合潜力。
+
   - ![图8：自发光伏与材料生长（WSe₂/BP光伏/石墨烯屏蔽3R-MoS₂/EQE 16%/2 ps响应/倾斜FeNi生长rBN/Ni-M外延3R-TMDs/SHG-XRD验证/高迁移率）](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_8_WMJBUIEV.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - **图示描述**：(a,b) WSe₂/BP 器件的自发光伏 I-V 特性，零偏压光电流方向受极化调控；(c) 石墨烯作为电极兼屏蔽层抑制退极化场的 3R-MoS₂ 隧道结；(d) 不同器件零偏光电流的激光功率依赖；(e,f) 泵浦-探测光电流随 Δτ 演化；(g,h) 倾斜 FeNi(111) 原子台阶引导厘米级 ABC 堆垛 rBN 单晶生长及其与 hBN 结构对比；(i,j) SHG 与 XRD 验证 rBN 单晶性；(k-n) Ni-M（M=Mo,W）界面外延晶圆级 3R-TMDs 及 SHG/XRD 普适性验证；(o) 3R-MoS₂ FET 迁移率数据。
+  - **关键特征**：石墨烯屏蔽退极化场后，10 层 3R-MoS₂ 器件外部量子效率（EQE）高达 16%；石墨烯/3R-MoS₂ 界面光电流电荷转移时间约 2 ps。Qi 等在倾斜 FeNi(111) 上实现厘米级 rBN 单晶；Qin 等用 Ni-M 外延法合成层数 1–15000 精准可控的晶圆级 3R-TMDs，双层/三层 3R-MoS₂ 室温迁移率达 155/190 cm² V⁻¹ s⁻¹，远超 2H 相。
+  - **结论/意义**：把滑移铁电从实验室器件推进到高效率光伏和晶圆级单晶生长，是走向工业化应用的关键一步。
+
   - ![公式(1)：Berry phase 极化强度 P = (e/(2π)³) Σ_n^occ ∫_BZ dk A_n(k)](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/eq_1_HLFFW8ZS.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：King-Smith & Vanderbilt（1993）提出的贝里相位极化公式，P = (e/(2π)³) Σ_n^occ ∫_BZ dk A_n(k)，其中 A_n(k) 为第 n 条占据态的贝里联络，在布里渊区上积分并对所有占据能带求和。
+  - **关键特征**：用 Wilson 环或累积相位差量化电荷中心位移，把宏观极化定义为量子几何量而非偶极矩密度；是计算二维铁电（尤其是滑移铁电）极化强度的标准第一性原理方法。
+
   - ![公式(2)：层间差分电荷密度 Δρ_interlayer(r) = ρ_total(r) − Σ_i ρ_isolated^i(r)](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/eq_2_P3F62JLF.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：层间差分电荷密度定义为异质结总电荷密度减去各孤立层电荷密度之和：Δρ_interlayer(r) = ρ_total(r) − Σ_i ρ_isolated^i(r)。
+  - **关键特征**：直观显示层间滑移后电子在界面的积累（正值）与耗尽（负值）区域，配合 Berry 相位极化与 NEB 能垒，构成滑移铁电理论分析"三件套"，用于判定电荷重分布方向并量化层间电荷转移。
+
 ## 🔬 项目连接
   - project-5 SnTe铁电模拟：直接相关。本文在 §1.3 BP-Bi 部分明确引用 Chang 等人 2016 年 Science 工作（参考文献 51–53），指出 SnTe 作为与 BP-Bi 结构类似的第 IV–VI 主族化合物，具有面内铁电性（原子级厚度 SnTe 中 robust in-plane ferroelectricity），是滑移/本征二维铁电图景的重要参照体系。
   - project-2 Mn多铁：弱相关。§3.6 讨论 MnBi₂Te₄ 作为铁电-反铁磁-拓扑三重耦合体系，涉及铁电极化对磁序和 QAHE 的非易失调控，但 Mn 本身并非本文核心材料。

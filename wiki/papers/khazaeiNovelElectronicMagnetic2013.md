@@ -116,13 +116,48 @@ Khazaei, Arai, Sasaki, Chung, Venkataramanan, Estili, Sakka, Kawazoe et al.，20
   - `Ti2CO2` / `Sc2CF2` / `Cr2C` / `Cr2N`：本文具体预测的功能化 MXene 实体，可作为 MXene 子条目或在 MXenes 条目中详述。
 
 ## 📊 关键图表
+  - **图1：MAX 相到 MXene 的结构演变及 A/B 型空心位**
   - ![图1 MAX相到MXene的结构演变及A/B型空心位](../../raw/figures/khazaeiNovelElectronicMagnetic2013/fig_0_A944QDPD.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - **图示描述**：(a) 层状 M₂AX 块体 MAX 相的典型结构，M（过渡金属）、A（主族元素）、X（C/N）原子层交替堆垛；(b) 移除 A 层后所得二维 M₂X（MXene）的俯视图与侧视图，呈现 M–X–M 三层原子板。
+  - **关键特征**：M–X 键为强共价/离子键，M–A 键为较弱的金属键，这是化学刻蚀能选择性去除 A 层的结构基础；俯视图虚线标出 A 型空心位（正下方无 X 原子）和 B 型空心位（正下方有 X 原子），二者是后续 F/OH/O 官能团可能的吸附位点。
+  - **结论/意义**：该图奠定全文结构模型的几何语言，所有功能化构型与电子性质差异均围绕 A/B 两类空心位展开。
+
+  - **图4：Ti₂CO₂ 声子色散谱**
   - ![图4 Ti2CO2声子色散谱（无虚频，动力学稳定）](../../raw/figures/khazaeiNovelElectronicMagnetic2013/fig_2_7VHUK5LE.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：完全氧终止的 Ti₂CO₂ 沿第一布里渊区高对称路径的声子色散曲线，横轴为波矢，纵轴为声子频率（THz）。
+  - **关键特征**：图中所有声学支与光学支频率均为正值，没有虚频出现；虚频意味着结构在微小扰动下会自发弛豫到更低能量构型。
+  - **结论/意义**：从动力学角度证明 Ti₂CO₂ 等完全功能化 MXene 机械稳定、可实验存在，为后续电子结构与热电性质预测提供了稳定性前提。
+
+  - **图6：Ti₂C、Ti₂CF₂、Ti₂CO₂ 的态密度演变**
   - ![图6 Ti2C、Ti2CF2、Ti2CO2的态密度演变](../../raw/figures/khazaeiNovelElectronicMagnetic2013/fig_6_L6YM244Q.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - **图示描述**：(a–c) 原始 Ti₂C 的总态密度及 Ti、C 原子轨道投影态密度；(d) Ti₂CF₂、(e) Ti₂CO₂ 的态密度，费米能级统一置零。
+  - **关键特征**：原始 Ti₂C 费米能级穿过 Ti-d 带，是金属；C-p 带位于 −3 至 −5 eV，与 Ti-d 带之间存在约 1.0 eV 的天然间隙。F 官能化时每个 F 接受 1 个电子，费米能级下移但仍落在 Ti-d 带内，Ti₂CF₂ 保持金属性，并在约 −7 eV 出现 F-p/Ti-d 杂化带。O 官能化时每个 O 接受 2 个电子，Ti(+4) 的价电子恰好满足 C(−4) 与两个 O(−2) 的需求，费米能级被推入 d–p 间隙中心，Ti₂CO₂ 变为带隙 0.24 eV 的间接带隙半导体。
+  - **结论/意义**：以 Ti 系为例直观演示了"电子计数规则"——官能团吸电子数与金属价电子数是否匹配决定金属–半导体转变，是全文核心机理图。
+
+  - **图7：Sc₂C 及其 F/O 功能化体系的态密度**
   - ![图7 Sc2C及其F/O功能化体系的态密度](../../raw/figures/khazaeiNovelElectronicMagnetic2013/fig_7_2JKX7NVX.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - **图示描述**：(a–c) 原始 Sc₂C 的总态密度及 Sc、C 投影态密度；(d) Sc₂CF₂、(e) 假设取模型 2 构型时 Sc₂CO₂ 的态密度，费米能级置零。
+  - **关键特征**：原始 Sc₂C 费米能级位于 Sc-d 带内，为金属，C-p 带与 Sc-d 带间约有 0.5 eV 间隙。Sc 最高氧化态为 +3，每个 F/OH 仅需 1 个电子，因此 F 或 OH 官能化后费米能级即落入间隙，Sc₂CF₂（带隙 1.03 eV）和 Sc₂C(OH)₂（带隙 0.45 eV，直接带隙）为半导体。若 Sc₂CO₂ 采用模型 2（O 均在 A 位），O 共需 4 个电子而 Sc 只能提供 3 个，费米能级仍落在 d 带内呈金属性；这与总能计算矛盾，提示真实稳定构型另有其图。
+  - **结论/意义**：通过对比 Ti(+4) 与 Sc(+3) 的价电子差异，阐明为何 Sc 系在 F/OH 下即可半导体化，并为图 8 的模型 3 重构埋下伏笔。
+
+  - **图8：Sc₂CO₂ 模型 3 的分波态密度**
   - ![图8 Sc2CO2模型3的分波态密度（O_B-C杂化导致绝缘体）](../../raw/figures/khazaeiNovelElectronicMagnetic2013/fig_2013_9WCGT42E.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - **图示描述**：Sc₂CO₂ 最稳定构型（模型 3：一个 O 在 A 型空心位 O_A，另一个 O 移至 B 型空心位 O_B）的总态密度，以及 Sc_A/Sc_B、C、O_A/O_B 的分波投影态密度。
+  - **关键特征**：O-p 能带因局域构型不同而分裂为 O_B p 带（−6.5 至 −5 eV）和 O_A p 带（−4.5 至 −3 eV），均与 Sc-d 轨道杂化；Sc_A–O_A、Sc_B–O_B 距离分别为 2.085 Å 和 2.101 Å。关键在于 O_B pz 与下方 C pz 轨道直接杂化，O_B–C 距离仅 1.65 Å（短于 O_B–Sc_B），在 1.0–1.5 eV 处形成 C pz–O_B pz 反键态，该未占据反键态的分裂打开了约 1.8 eV 的带隙。
+  - **结论/意义**：解释了当金属无法提供足够电子时，O 原子通过迁移到 B 位与 C 直接成键来"自救"获电子，使 Sc₂CO₂ 成为绝缘体；这是电子计数规则在电子供求失衡时驱动结构重构的典型案例。
+
+  - **图9：Ti₂CO₂ 和 Sc₂C(OH)₂ 的塞贝克系数随化学势变化**
   - ![图9 Ti2CO2和Sc2C(OH)2的塞贝克系数随化学势变化](../../raw/figures/khazaeiNovelElectronicMagnetic2013/fig_850_F5TPYD5G.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - **图示描述**：基于 BoltzTrap 计算的单层 Ti₂CO₂（a）和 Sc₂C(OH)₂（b）塞贝克系数 S 随电子化学势 μ 的变化曲线，不同曲线对应不同温度；Ti₂CO₂ 价带/导带边位于 −0.12 和 +0.12 eV，Sc₂C(OH)₂ 位于 −0.225 和 +0.225 eV。
+  - **关键特征**：在约 100 K 低温下，Ti₂CO₂ 塞贝克系数峰值约 1140 μV/K；带隙更大的 Sc₂C(OH)₂（0.45 eV）在相同温度下峰值更高。巨大 S 值源于带边附近态密度的剧烈反差（导带底 DOS 极高、价带顶 DOS 极低）。作为对比，SrTiO₃ 在 90 K 的巨塞贝克系数约为 850 μV/K，商用 Bi₂Te₃ 仅约 ±200 μV/K。
+  - **结论/意义**：预测半导体性 MXene 是潜在的高性能低温热电材料；作者同时指出完整 ZT 评估还需电导率 σ 与晶格/电子热导率 κl、κe。
+
+  - **表3：Cr₂C/Cr₂N 功能化体系的磁矩与铁磁–非磁能量差**
   - ![表3 Cr2C/Cr2N功能化体系的磁矩与铁磁-非磁能量差](../../raw/figures/khazaeiNovelElectronicMagnetic2013/tab_2_H34HFH2L.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - **图示描述**：自旋极化 GGA/PBE 计算得到的 Cr₂C、Cr₂N 经 F、OH、O 官能化后的磁基态、每个 Cr 原子的磁矩（μB/Cr）以及铁磁态相对非磁态的能量差 ΔE（eV/Cr）。
+  - **关键特征**：Cr₂CF₂ 磁矩 2.71 μB/Cr、ΔE = −0.12 eV/Cr；Cr₂C(OH)₂ 磁矩 2.24 μB/Cr、ΔE = −0.08 eV/Cr；Cr₂CO₂ 磁矩为 0、非磁。Cr₂NF₂ 磁矩 3.23 μB/Cr、ΔE = −0.35 eV/Cr；Cr₂N(OH)₂ 磁矩 3.01 μB/Cr、ΔE = −0.26 eV/Cr；Cr₂NO₂ 磁矩 2.50 μB/Cr、ΔE = −0.49 eV/Cr。磁性均来源于 Cr 的 d 轨道，ΔE 数值较大，预示铁磁序可能维持到近室温。
+  - **结论/意义**：首次理论预测了 Cr 基 MXene 的铁磁性，将 MXene 的性质空间从半导体拓展到磁性二维材料，并提出应变可进一步调控磁性（类比 VS₂、VSe₂）。
+
 
 ## 🔬 项目连接
   - **project-2（Mn多铁）— weak**：本文用自旋极化 GGA/PBE 预测 Cr 基 MXene 的铁磁基态，并明确提出应变可诱导/调控二维磁性（类比 VS₂、VSe₂）。这套"磁性二维体系的 DFT 稳定性 + 磁矩 + FM/非磁能量差"计算流程，对 Mn 基多铁体系中磁序判定与应变调控有方法学参考价值；材料体系本身不重叠。

@@ -115,10 +115,30 @@ Cuiju Yu, Liangliang Hong, Zhao Chen, Zhao Liu, Shizhe Jiao, Xiaofeng Liu*, Wei 
 
 ## 📊 关键图表
   - ![图1 插层破缺对称的概念示意与单层 Cr4S4FBr2 原子结构（Pmm2, a=3.51 Å, b=4.85 Å），标注极化轴和 J1–J4 交换路径](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_1_4AF7AZPM.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - **图示描述**：(a) 概念图——红/蓝圆盘为 A 型反铁磁的上下两层 CrSBr，灰色球为插层卤素（F/Cl/Br/I），卤素三角配位的上下不对称打破反演对称，产生垂直电极化 P（灰箭头），翻转 P 即带动净磁化 M_tot（红/蓝箭头）180° 翻转；右侧示意 P↑/P↓ 两态自旋分辨能带的镜像反转。(b) 单层 Cr₄S₄FBr₂ 的俯视与侧视原子结构，Pmm2 (C₂ᵥ) 对称，a=3.51 Å、b=4.85 Å、c=20 Å；中心 F 分别与上层 1 个 Cr、下层 2 个 Cr 成键，红箭头标出 c 轴极化方向，黑箭头标出 J₁–J₄ 磁交换路径。
+  - **关键特征**：F 原子位移导致八面体/三角双锥两种晶体场，使上下 Cr 局域磁矩不等，构成 A 型完全补偿亚铁磁（净磁矩仅 0.20 μB/cell）；约 90° 的 Cr–X–Cr 键给铁磁超交换、约 180° 键给反铁磁超交换（Goodenough–Kanamori–Anderson 规则），180° 的 J₄ 因金属性呈双交换铁磁；图(a)把"插层→对称破缺→铁电-自旋锁定"这一设计范式一次性可视化。
+  - **结论/意义**：该图给出全文的材料设计原理和原子结构坐标，是后续电子结构、铁电翻转、拓扑与器件讨论的几何基础。
+
   - ![图2 P↑/P↓ 自旋分辨能带与 DOS（S 点非相对论自旋劈裂 1.33 eV，EF+0.05 eV 处极化 +91%/−91%）、F 周围静电势、NEB 翻转路径（Ea=0.11 eV/f.u.）、FE–PE 相变（TC=334 K）、线性磁电响应 αS=7.1×10⁻¹⁴ G·cm²/V](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_2_5KVKTVLU.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - **图示描述**：六个子图合成 CSFB 的"电子结构 + 铁电 + 磁电"性质包。(a)(b) 为 P↑/P↓ 两态的自旋分辨能带和总态密度（红/蓝为自旋上/下，能量零轴为费米能级）；(c) F 周围 −0.1 Ry（红）至 2.0 Ry（黄）的静电势等值面；(d) NEB 给出的双势阱翻转路径，插图依次为初态、过渡态、末态的 F 位置；(e) F 原子平均位移 u_avg（序参量）和比热容随温度的变化；(f) P↑/P↓ 两态净磁矩随外电场的变化及线性拟合。
+  - **关键特征**：能带穿越费米能级，体系为金属；S 点非相对论自旋劈裂达 1.33 eV，与 KV₂Se₂O（1.6 eV）、α-MnTe（1.1 eV）、RuO₂（1.4 eV）等交变磁体相当，主要来自 Cr d(x²−y²) 轨道；E_F+0.05 eV 处 P↑/P↓ 自旋极化分别为 +91%/−91%；面外极化 1.11 pC/m，翻转势垒仅 0.11 eV/f.u.，MD 给出 FE–PE 转变 570 K，DFT 校正后 T_C=334 K；μ₀ΔM=α_S·E 给出 α_S=7.1×10⁻¹⁴ G·cm²/V，超过 Fe 薄膜（2.9×10⁻¹⁴），接近双层 VS₂（9.8×10⁻¹⁴）。
+  - **结论/意义**：该图同时证明 CSFB 兼具室温以上铁电序、低翻转势垒、可被电场所翻转的自旋极化以及线性磁电响应，是"铁电–自旋锁定"和强磁电耦合的核心证据。
+
   - ![图3 含 SOC 能带（c 轴磁化在 X/Y 点开 3、11 meV 隙）、P↑/P↓ 贝里曲率（C=−2 与 +2）及第 93 带面外自旋纹理的完全反转](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_3_Q88I2C3V.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - **图示描述**：上排 (a)(b)(c) 对应 P↑ 态、下排 (d)(e)(f) 对应 P↓ 态。(a)(d) 为磁矩沿 c 轴、含自旋轨道耦合的能带结构；(b)(e) 为第一至第 93（最高占据）能带在整个二维布里渊区上累加的贝里曲率等高图；(c)(f) 为第 93 带在价带顶附近的面外自旋纹理。
+  - **关键特征**：c 轴磁化时 SOC 在 X、Y 点分别打开 3 meV 与 11 meV 的小隙；P↑ 与 P↓ 两态贝里曲率在 k 空间呈互补反号分布，积分陈数分别为 C=−2 和 C=+2，即电场翻转铁电极化即可翻转"能隙陈数"；面外自旋纹理在两态之间完全镜像反转，从自旋织构层面独立验证磁电耦合；体系仍为金属、无全局带隙，因此不期待受拓扑保护的无耗散边缘态。
+  - **结论/意义**：该图把磁电耦合从自旋极化推进到贝里相位和拓扑不变量层面，提示在应力或掺杂打开全局隙后可走向电场调控的量子反常霍尔态。
+
   - ![图4 CSFB/CrSBr/CSFB 多铁隧道结 PC/APC 构型、偏压依赖 I–V 与 MR（0.04 V 时 MR=4.8×10³%，IPC=13.8 nA、IAPC=0.27 nA）及自旋分辨透射谱](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_4_FXA8A5X6.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - **图示描述**：(a) CSFB/CrSBr/CSFB"金属-绝缘-金属"三明治多铁隧道结的侧视示意，两侧金属性 CSFB 作自旋注入电极、中间绝缘 CrSBr 作隧穿势垒；PC（上下 CSFB 磁化平行）与 APC（反平行）构型仅通过翻转两端 CSFB 的电极化即可互相切换。(b) 左轴为 PC/APC 的电流-电压曲线（单位 nA），右轴为对应磁阻 MR 随偏压的变化。(c) 0.04 V 偏压下 PC 与 APC 的自旋分辨透射系数谱。
+  - **关键特征**：0.04 V 低偏压下 I_PC=13.8 nA、I_APC=0.27 nA，相差近两个数量级；MR=(G_PC−G_APC)/G_APC×100% 峰值达 4.8×10³%；PC 构型电流自旋极化率约 +97%、APC 约 −60%，铁电翻转使两端电极的自旋滤波方向同步反转；偏压升至 0.10 V 时 MR 降至约 10²%，另一反平行构型 APC2 在 0.02 V 给出 MR=4.4×10³%。
+  - **结论/意义**：该图从器件层面演示了纯电极化（而非磁场）驱动的非易失性巨磁阻，是论文走向低功耗自旋存储/逻辑应用的关键概念验证。
+
   - ![表1 Cr4S4FBr2 家族（Cr4S4F3、Cr4S4Cl3/Br3、Cr4Se4Cl3/Br3）与 BL CrSBr、NiI2、In2Se3、BL 1T′-WTe2 等标杆材料的 J、TN/TC、MAE、D、Ea/EC、αS 与分类（A-FiMM / FMHM 等）汇总](../../raw/figures/yuFerroelectricControlMagnetism2026/tab_1_IX3ZWAJ8.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
+  - **图示描述**：表格行分为两块——上半部为本文设计的 CSFB 家族（Cr₄S₄FBr₂、Cr₄S₄F₃、Cr₄S₄Cl₃、Cr₄S₄Br₃、Cr₄Se₄Cl₃、Cr₄Se₄Br₃），下半部为 BL CrSBr、BL MnPSe₃、Cu₂InI₃、Hf₂VC₂F₂、NiI₂、BL VS₂、In₂Se₃、CuInP₂S₆、BL 1T′-WTe₂、1T-MoS₂ 等已报道二维磁/铁电/多铁标杆；列依次给出 J₁/J₁′、J₂/J₂′、J₃、J₄/J₄′（meV）、T_N/T_C（K）、易轴 EA、MAE（μeV/Cr）、面外偶极矩 D（pC/m）、翻转势垒/矫顽场 E_a/E_C（eV 与 mV/Å）、α_S（10⁻¹⁴ G·cm²/V）以及分类（A-FiMM、FMHM、A-AFMS、N-AFMS、AFMM、Y-AFMS、S-AFMS、NMS、NMM 等）。
+  - **关键特征**：CSFB 本体 T_N/T_C=469/334 K、MAE=86 μeV/Cr、D=1.11 pC/m、E_a/E_C=0.11 eV / 43 mV/Å、α_S=7.1，分类为 A 型完全补偿亚铁磁金属（A-FiMM）；Cr₄S₄F₃ 保持 A-FiMM 且 α_S 升至 11.8、非相对论自旋劈裂 1.55 eV；Cr₄S₄Cl₃/Br₃ 与 Cr₄Se₄Cl₃/Br₃ 转为铁磁半金属（FMHM），T_N/T_C 多数在室温以上；与标杆相比，CSFB 在转变温度、翻转势垒、磁电系数三项指标上同时具有综合优势。
+  - **结论/意义**：该表是论文"材料家族 + 普适性"论证的数据浓缩，说明卤素/硫族元素替换可在 A-FiMM 与 FMHM 之间调控物性，插层策略可推广到整个 CrSBr 同构二维磁体家族。
+
 
 ## 🔬 项目连接
 project-2 Mn多铁——主体材料虽为 Cr 基，但作者明确将插层策略推广到 MnNX 同构家族，预测 Mn₄N₄X₃（X=F, Cl, Br, I）为动力学稳定、铁磁、自发极化的半金属型 I 类多铁体，与 Mn 基多铁项目直接相关；其余项目（双光子、机械发光 NN、TTF 分子计算、SnTe 铁电模拟、湿度传感器、CDW）无直接连接。

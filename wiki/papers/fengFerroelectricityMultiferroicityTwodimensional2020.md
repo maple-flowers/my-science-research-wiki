@@ -111,15 +111,41 @@ Xukun Feng、Jian Liu、Xikui Ma、Mingwen Zhao（山东大学），2020，*Phys
 
 ## 📊 关键图表
   - ![图1 Sc₂P₂Se₆ 和 ScCrP₂Se₆ FE 相晶体结构（俯/侧视图，箭头为极化方向）](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_1_KNUZRZVA.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - **图示描述**：(a) Sc₂P₂Se₆ 与 (b) ScCrP₂Se₆ 铁电相的俯视图与侧视图，菱形框标记原胞，箭头指示垂直于平面的自发极化方向。
+  - **关键特征**：Sc₂P₂Se₆ 空间群 P31m、a=6.683 Å；ScCrP₂Se₆ FE 相空间群 P3、a=6.535 Å；铁电性源于半数 P 原子相对 Se 面的垂直翘曲（而非 CuInP₂S₆ 中 Cu 离子位移），由 Sc³⁺ 大离子半径迫使 P 离开平面、破缺反演对称性；AFE 相 ScCrP₂Se₆ 畸变为 P1，a=6.303 Å、b=11.651 Å。
+  - **结论/意义**：奠定"非磁性 Sc 承担极化、磁性 Cr 承担磁矩"的功能分工结构基础，是突破 d⁰ 规则的几何起源。
   - ![图2 Berry 相位法计算的极化随 c 轴归一化位移变化（Sc₂P₂Se₆ 12.36 pC/m，ScCrP₂Se₆ 6.11 pC/m）](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_2_EBAXUVA2.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - **图示描述**：横轴为沿 c 轴的归一化原子位移（FE-PE-FE 绝热路径），纵轴为 Berry 相位法计算的面外电偶极矩（pC/m），(a) Sc₂P₂Se₆、(b) ScCrP₂Se₆。
+  - **关键特征**：Sc₂P₂Se₆ 极化 12.36 pC/m，ScCrP₂Se₆ 6.11 pC/m；按层厚 4.0 Å 折算为 3.09 与 1.53 μC/cm²；与 Sc₂CO₂（1.60 μC/cm²）相当，比 CuInP₂Se₆（0.322 μC/cm²）、AgBiP₂Se₆（0.2 μC/cm²）大约一个数量级；Cr 取代后极化减半反映电子结构重构。
+  - **结论/意义**：定量证实两种单层均为面外铁电体，并给出可与实验对照的极化强度量级。
   - ![图3 CINEB 最小能量路径：FE-PE-FE 翻转（a,b）与 FE-AFE 相变（c,d），势垒 0.34/0.31 eV 与 0.13/0.12 eV](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_3_DRGCZ5TZ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：横轴为 CINEB 反应坐标，纵轴为每化学式单元的能量（eV/f.u.）；(a,b) FE→PE→FE 极化翻转路径，(c,d) FE↔AFE 相变路径。
+  - **关键特征**：FE-PE-FE 翻转势垒 0.34 eV/f.u.（Sc₂P₂Se₆）与 0.31 eV/f.u.（ScCrP₂Se₆），远高于 α-In₂Se₃ 的 0.057 eV/f.u.；FE-AFE 势垒 0.13/0.12 eV/f.u.；AFE 相较 FE 相能量低 0.1–0.14 eV/f.u.，但势垒高于室温 k_BT≈0.026 eV，FE 是稳健亚稳态；FE/AFE 竞争由原子位移应变能与极化电场能（去极化场）共同决定。
+  - **结论/意义**：证明 FE 态在室温下不会自发滑向 AFE 态，且可被外电场初始化和翻转，为非易失性极化提供热力学保障。
   - ![图4 (a) FE/AFE 相下 FM、AFM1/2/3 相对能量；(b) (110) 面内角度依赖磁各向异性能](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_4_BA9J7JI8.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - **图示描述**：(a) 2×1 超胞中 FM、AFM1、AFM2、AFM3 四种磁序在 FE 与 AFE 相下的相对能量柱状图（插图标注 Cr 离子距离，单位 Å）；(b) ScCrP₂Se₆ 在 (110) 面内磁各向异性能（μeV/Cr）随磁化方向角度的变化曲线。
+  - **关键特征**：FE 相磁基态为 AFM，EAFM−EFM≈−4.3 meV/f.u.（弱 AFM）；AFE 相磁基态翻转为 FM；MAE 范围 7.2–195.7 μeV/Cr，大于立方 Fe/Ni 的 0.4–5 μeV；FE-AFM 易轴沿 [010]（垂直极化方向），AFE-FM 易轴沿 [111]；高 MAE 足以抵抗 Mermin–Wagner 限制、支撑二维长程磁序。
+  - **结论/意义**：直接给出"FE 对 AFM、AFE 对 FM"的磁电锁定证据，并确认二维磁性可稳定存在。
+  - 图 5：FE/AFE 相的分态密度 (PDOS)、Cr–Se–Se–Cr 三条交换路径示意，以及蒙特卡洛磁矩-温度曲线（T_C≈46 K）。
+  - **图示描述**：(a,b) 对比 FE-AFM 与 AFE-FM 态下 Cr d 轨道与 Se p 轨道在费米能级附近的 PDOS 重叠；(c) 标出 J1/J2/J3 对应的 Cr1–Cr2、Cr1–Cr3、Cr1–Cr4 路径；(d) 50×25 超胞（2500 磁位）、每温度 10⁹ 步 MC 模拟的磁化强度随温度变化。
+  - **关键特征**：FE 相 Se p 在 E_F 附近贡献小，Cr–Se–Se–Cr 间接交换弱，直接交换占主导→AFM；AFE 相晶格畸变缩短 Cr–Se 距离、增强 p-d 杂化，Cr1–Cr2 路径重叠最大、Cr1–Cr4 最小，整体超交换增强→FM；居里温度约 46 K，与单层 CrI₃（45 K）相当。（注：raw/figures 目录未提供独立图 5 图片文件，此处以文字描述。）
+  - **结论/意义**：从电子结构层面阐明 FE/AFE 切换之所以能翻转磁序，是自旋-晶格-电荷耦合的微观机制。
   - ![图6 外电场方向 (a) 与四态（FE-AFM/FE-FM/AFE-AFM/AFE-FM）能量随电场变化，0.82 V/Å 处发生 FE-AFM ↔ AFE-FM 切换](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_6_KSEK8MIC.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：(a) 沿极化方向施加外电场的几何示意；(b) FE-AFM、FE-FM、AFE-AFM、AFE-FM 四种态的能量随外电场强度（V/Å）的演化曲线。
+  - **关键特征**：FE 与 AFE 能量对电场均呈二次关系，但 FE 相变化斜率更大；静态磁交换能本身几乎不随电场改变，切换由静电能驱动；临界电场 ≈0.82 V/Å 处基态由 FE-AFM 转为 AFE-FM；反向电场可实现可逆翻转，构成"电写磁读"原型。
+  - **结论/意义**：首次在该体系理论演示用外电场在 FM/AFM 之间可逆切换，是非易失磁电存储器件的核心功能验证。
   - 公式 (1) 形成能：![Eform = (E_Sc2P2Se6 − 2μSc − 2μP − 6μSe)/n](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/eq_1_8NSJ2NRV.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：Sc₂P₂Se₆ 单层的形成能定义，E_Sc2P2Se6 为 FE 相总能量，μ_Sc、μ_P、μ_Se 为对应体相化学势，n 为原胞原子数。
+  - **关键特征**：计算值 −0.922 eV/atom，负值表明热力学稳定；配合无虚频声子谱共同确认结构可合成性。
   - 公式 (2) 形成能：![Eform = (E_ScCrP2Se6 − μSc − μCr − 2μP − 6μSe)/n](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/eq_2_RVMXSQ4R.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
-  - 表 I AFE 相四磁序相对能量（meV）与 J1/J2/J3 交换常数（meV）：![tab_1](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/tab_1_C76XBQJN.png) -> [[../figures/mathematical-models|数学模型与物理公式]]；EFM=0，EAFM1=23.3、EAFM2=33.8、EAFM3=21.6；J1=0.25、J2=0.22、J3=0.08
-  - 表 II 磁各向异性能（μeV）：![tab_2](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/tab_2_XJCN8GYA.png) -> [[../figures/mathematical-models|数学模型与物理公式]]；FE 易轴 [010]，AFE 易轴 [111]
-  - 图 5（PDOS、交换路径示意、MC 磁矩-温度曲线，TC≈46 K）原笔记未附独立图片文件，见原文 Fig. 5 描述
+  - **图示描述**：ScCrP₂Se₆ 单层形成能定义，在公式 (1) 基础上加入 μ_Cr 并把 Sc 化学势系数改为 1。
+  - **关键特征**：计算值 −0.587 eV/atom；多种 Cr 分布构型能量差 < 0.01 eV/atom，均出现面外极化与自旋极化共存，作者取 Cr 均匀分布构型作代表。
+  - 表 I AFE 相四磁序相对能量（meV）与 J1/J2/J3 交换常数（meV）：![tab_1](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/tab_1_C76XBQJN.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：AFE 相 2×1×1 超胞中 FM、AFM1、AFM2、AFM3 相对 FM 构型的总能量，以及 Cr1–Cr2、Cr1–Cr3、Cr1–Cr4 三条路径的最近邻交换耦合参数。
+  - **关键特征**：EFM=0、EAFM1=23.3、EAFM2=33.8、EAFM3=21.6 meV（均高于 FM，确认 FM 为基态）；J1=0.25、J2=0.22、J3=0.08 meV，全部为正，按 Goodenough–Kanamori 规则对应 FM 超交换；J1 路径（Cr1–Cr2）p-d 杂化最强，与 PDOS 结果一致。
+  - 表 II 磁各向异性能（μeV）：![tab_2](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/tab_2_XJCN8GYA.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：ScCrP₂Se₆ FE 与 AFE 相沿 [100]、[010]、[110]、[001]、[111] 五个方向的磁各向异性能，易轴能量置零。
+  - **关键特征**：FE 相 MAE = 7.2/0.0/31.2/106.9/195.7 μeV（易轴 [010]）；AFE 相 MAE = 123.9/82.7/31.8/156.5/0.0 μeV（易轴 [111]）；相变不仅翻转磁序，也翻转易轴方向，体现磁与晶格的强耦合。
 
 ## 🔬 项目连接
   - **project-2（Mn 多铁）**：直接相关。(1) 本文系统讨论的过渡金属磷三硫/硒化物家族 MPX₃ 包含 MnPSe₃（参考文献 51，载流子掺杂后半金属）和 FePSe₃，与 Mn 基多铁材料同族同结构，可作为 Mn 多铁体系的结构-机制参照；(2) d⁰ 规则及其突破策略——用非磁性 Sc 承担铁电畸变、用磁性 Cr 承担磁矩，"功能离子各司其职"——为在 Mn 体系中设计铁电-磁共存提供了可迁移的化学设计思路（Mn 本身具 d 电子，需寻找不依赖 d⁰ 阳离子位移的极化起源，如本文 P 原子翘曲或阴离子位移）；(3) FE/AFE 相变通过晶格畸变调制 Cr–Se–Se–Cr 超交换路径从而切换 FM/AFM 的自旋-晶格-电荷耦合机制，可类比用于 Mn–O/Se 路径的磁电耦合分析；(4) 方法链可复用：Berry 相位算极化、CINEB 算翻转势垒、GGA+U（U−J=3 eV）处理 3d 强关联、四磁序能量对比定 J、海森堡哈密顿量 + MC 50×25 超胞（2500 磁位）10⁹ 步估居里温度。

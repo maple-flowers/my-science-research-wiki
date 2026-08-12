@@ -94,10 +94,29 @@ A. H. Castro Neto，2001，Physical Review Letters 86, 4382–4385，DOI 10.1103
   - 相关论文 [[../../raw/note/CastroNeto2001charge]]
 
 ## 📊 关键图表
+  - **图1：CDW 与超导转变温度相图**
   - ![图1 T_cdw 与 T_c 随 a/c 变化的相图，显示 TaSe₂/TaS₂/NbSe₂/NbS₂ 的反相关关系](../../raw/figures/CastroNeto2001charge/fig_1_VHUZ3FLK.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
-  - ![图3 理论与 ARPES 测得的电子自能虚部 ImΣ(k_F,ω) 对比，ω<60 meV 呈线性，>60 meV 饱和](../../raw/figures/CastroNeto2001charge/fig_3_Y8PXIM8Z.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：横轴为面内晶格常数与层间距之比 a/c（无量纲），纵轴为转变温度 T（K）。星号标记 CDW 转变温度 T_cdw，实心方块标记超导转变温度 T_c；从左到右四种材料依次为 TaSe₂、TaS₂、NbSe₂、NbS₂。
+  - **关键特征**：随 a/c 增大（二维性减弱、层间耦合增强），T_cdw 单调下降而 T_c 单调上升，二者呈明显反相关；TaSe₂ 的 T_c ≈ 0.1 K，已非常接近理论预言的超导量子临界点 QCP（g ≈ g_c）；加压使 c 减小、T_c 升高的实验趋势与该图像一致。
+  - **结论/意义**：证明 a/c 是统一控制 CDW 与超导竞争的关键结构参数，是 f 波 CDW 理论解释整个 TMD 家族相图的直接证据。
+
+  - **图2：费米面与 f 波 CDW 能隙拓扑示意图**
   - 图 2（费米面示意图，标注狄拉克点、鞍点、节线与 f 波 CDW 能隙）笔记未附图片。
-  - 关键公式图片：自能公式 (1) ![eq_1](../../raw/figures/CastroNeto2001charge/eq_1_DEPUZYQZ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、紧束缚电子-声子矩阵元 (2) ![eq_2](../../raw/figures/CastroNeto2001charge/eq_2_ZS3EZMM3.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、旋量 (3) ![eq_3](../../raw/figures/CastroNeto2001charge/eq_3_NP9B3NTQ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、狄拉克哈密顿量 (4) ![eq_4](../../raw/figures/CastroNeto2001charge/eq_4_V4FEX7ZQ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、声学声子哈密顿量 (5) ![eq_5](../../raw/figures/CastroNeto2001charge/eq_5_EHHPEHVI.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、压电耦合 (6) ![eq_6](../../raw/figures/CastroNeto2001charge/eq_6_AVZCH9NK.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、配对哈密顿量 (7) ![eq_7](../../raw/figures/CastroNeto2001charge/eq_7_M5Y9GEBU.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、平均场 (8) ![eq_8](../../raw/figures/CastroNeto2001charge/eq_8_XTSE6ERP.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、序参量定义 (9) ![eq_9](../../raw/figures/CastroNeto2001charge/eq_9_CQKXMTFR.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、零温序参量 (11) ![eq_11](../../raw/figures/CastroNeto2001charge/eq_11_WN9L9ZFB.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、KT 温度 (12) ![eq_12](../../raw/figures/CastroNeto2001charge/eq_12_M84KTL8V.png) -> [[../figures/mathematical-models|数学模型与物理公式]]（公式 (10) 笔记未附图片）。
+  - **图示描述**：二维布里渊区原理示意图，标出 Γ、K、M 高对称点；Γ 与 K 周围为空穴型费米面，虚线为与波矢 Q₁ 关联的节线（电子-声子耦合 g=0），实心圆为费米面与节线相交的狄拉克点，空心圆为态密度对数发散的鞍点，粗线为提议的 f 波 CDW 能隙剖面。
+  - **关键特征**：CDW 能隙并非各向同性打开，而是具有六重对称性，波瓣（最大值，约 60 meV）沿 Γ-K 鞍点方向，在六个狄拉克点处降为零；Q₁ 连接不同费米面分支上的狄拉克点且嵌套良好，能形成 CDW；Q₂ 连接同一分支节点但该方向嵌套不良，故狄拉克点处不能打开能隙；节点处的无能隙低能激发即为狄拉克费米子，是 CDW 相保持良金属性的根源。
+  - **结论/意义**：这是 f 波 CDW 模型的几何基础，把"动量依赖电声耦合 + 费米面拓扑 + 不完全嵌套"统一在一张图中，解释了为何 TMD 进入 CDW 后电阻率反而下降。
+
+  - **图3：电子自能虚部 ImΣ(k_F,ω) 与 ARPES 数据对比**
+  - ![图3 理论与 ARPES 测得的电子自能虚部 ImΣ(k_F,ω) 对比，ω<60 meV 呈线性，>60 meV 饱和](../../raw/figures/CastroNeto2001charge/fig_3_Y8PXIM8Z.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：横轴为结合能 ω（meV，ω<0 侧），纵轴为电子自能虚部 ImΣ(k_F,ω)（meV），直接反映电子散射率。实验数据为方块（T=34 K）和五边形（T=76 K），取自 Valla 等人的 ARPES 测量；理论曲线为点线（T=0 K）、实线（T=34 K）、虚线（T=76 K）。
+  - **关键特征**：|ω| < Max|Δ_cdw| ≈ 60 meV 区间内 ImΣ 与 |ω| 呈线性关系（而非费米液体的 ω²），拟合给出 τ₀⁻¹ = 27 meV、α = 2.14、γ = 0.212；零能截距随温度线性增加 αT；当 |ω| > 60 meV 时狄拉克描述失效，ImΣ 饱和于常数 1/τ₁ ≈ 73 meV；三条理论曲线分别在对应温度上定量复现实验点。
+  - **结论/意义**：以最少参数定量复现 ARPES 谱，直接证实 CDW 相中狄拉克电子经压电耦合与声学声子相互作用产生边缘费米液体行为，是全文理论与实验对图的核心证据。
+
+  - **关键公式图片**：自能公式 (1) ![eq_1](../../raw/figures/CastroNeto2001charge/eq_1_DEPUZYQZ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、紧束缚电子-声子矩阵元 (2) ![eq_2](../../raw/figures/CastroNeto2001charge/eq_2_ZS3EZMM3.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、旋量 (3) ![eq_3](../../raw/figures/CastroNeto2001charge/eq_3_NP9B3NTQ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、狄拉克哈密顿量 (4) ![eq_4](../../raw/figures/CastroNeto2001charge/eq_4_V4FEX7ZQ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、声学声子哈密顿量 (5) ![eq_5](../../raw/figures/CastroNeto2001charge/eq_5_EHHPEHVI.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、压电耦合 (6) ![eq_6](../../raw/figures/CastroNeto2001charge/eq_6_AVZCH9NK.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、配对哈密顿量 (7) ![eq_7](../../raw/figures/CastroNeto2001charge/eq_7_M5Y9GEBU.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、平均场 (8) ![eq_8](../../raw/figures/CastroNeto2001charge/eq_8_XTSE6ERP.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、序参量定义 (9) ![eq_9](../../raw/figures/CastroNeto2001charge/eq_9_CQKXMTFR.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、零温序参量 (11) ![eq_11](../../raw/figures/CastroNeto2001charge/eq_11_WN9L9ZFB.png) -> [[../figures/mathematical-models|数学模型与物理公式]]、KT 温度 (12) ![eq_12](../../raw/figures/CastroNeto2001charge/eq_12_M84KTL8V.png) -> [[../figures/mathematical-models|数学模型与物理公式]]（公式 (10) 笔记未附图片）。
+  - **图示描述**：以上 11 个公式图片按论文推导顺序排列，构成从 f 波 CDW 微观模型到狄拉克电子、压电耦合、边缘费米液体自能、声子配对、量子临界点与 KT 超导转变的完整方程链；公式 (10) 为有限温序参量表达式，原始笔记未截图。
+  - **关键特征**：(1) ImΣ = τ₀⁻¹ + αT + γ|ω|（τ₀⁻¹=27 meV, α=2.14, γ=0.212）在 |ω|<60 meV 成立；(2) 紧束缚矩阵元 g_λ(k,q) 证明 g(k,Q₁) 沿节线为零；(4) H_D = v_F k_⊥ σ_z + v_0 k_∥ σ_x 给出各向异性狄拉克色散 ε=±√(v_F²k_⊥²+v_0²k_∥²)；(6) H_C = κ∫Φ ΣΨ†Ψ 描述压电耦合；(11) |Δ_s(0,g)| = 4πv_F v_0(1/g_c − 1/g) 仅当 g>g_c=4π^{3/2}√(v_F v_0)/Λ 时非零，定义 QCP；(12) T_KT = πσ_s/(2m*) 中 σ_s ∝ |Δ_s(0,g)|² 给出 KT 转变。
+  - **结论/意义**：公式链共同支撑论文三条论断——CDW 相低能激发为狄拉克电子、其与声子压电耦合产生边缘费米液体行为、声子同时介导超导配对并导致 QCP 与 KT 型相变。
+
 
 ## 🔬 项目连接
   - **project-7（CDW 电荷密度波）— core**：本文正是 project-7 立项时已列入的核心理论文献。其价值在于：(1) 给出 2H-TMD 中 CDW 不是绝缘体、而是"无能隙 f 波 CDW + 狄拉克电子"良金属态的微观机制，直接支撑项目笔记中"CDW 相低能激发为狄拉克电子，材料保持金属性"的论述；(2) 提供电子-声子耦合 g_λ(k,q) 因动量依赖而在节线上消失、从而 Δ_cdw(k) ∝ g 在狄拉克点为零的具体推导路径，可作为项目 DFT+电声计算（如 Wannier-Fourier 插值电子-声子矩阵元）的解释框架；(3) 把 ARPES 自能 ImΣ = τ₀⁻¹ + αT + γ|ω|（拟合值 τ₀⁻¹ = 27 meV, α = 2.14, γ = 0.212；|Δ_cdw|_max ≈ 60 meV；高能饱和 1/τ₁ ≈ 73 meV）与狄拉克-声子压电耦合定量对应，为项目 analysis 类似体系输运/谱学数据提供模板；(4) 阐明 T_cdw 与 T_c 随 a/c 的反相关、超导 QCP（g_c = 4π^{3/2}√(v_F v_0)/Λ，临界晶格常数 a_c）以及 KT/3D-XY 相变标度 T_c ≈ T_KT + b/ln²(T_KT/(cU⊥))，可直接复用到 project-7 规划的外场（压力、电荷掺杂）调控 CDW-超导竞争相图；(5) 与 project-7 正在研究的 1T' FM-CDW 体系（Chen 2022）形成"节点狄拉克 CDW"与"二聚化磁性 CDW"两种 CDW 原型对照，丰富项目机理分类。

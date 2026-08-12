@@ -104,10 +104,25 @@ Tang, Tian, Ouyang, Pan, Chen et al.，2025，Physical Review B 111, L081407，D
 
 ## 📊 关键图表
   - ![图1 本征+滑移极化的八态概念模型（FE/AFE 耦合）](../../raw/figures/tangCombiningIntrinsicSlidinginduced2025/fig_1_5ZZ65FF7.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+    - **图示描述**：概念示意图，(a) 双层结构侧视给出层间铁电耦合（FE，两层 PI 同向）与反铁电耦合（AFE，头对头/尾对尾）两种排列，红箭头为本征极化 PI、绿箭头为滑移诱导极化 PS；(b) 俯视展开 H 堆叠下 PI 上下方向与 PS 配置组合出的全部八种极化组态。
+    - **关键特征**：两个自由度（每层 PI 方向 + 层间 PS）组合给出 2³=8 个理论态；FE/AFE 耦合由层内 PI 相对方向决定；尾对尾 AFE 组态在后续电场合规切换路径中不出现，故双层实际可切换态缩减为 6 个。
+    - **结论/意义**：该图奠定"复合铁电体"概念基础——单一体系同时容纳离子位移型与滑移型两种极化，状态数远超任一单一机制。
   - ![图2 1T″-MoSe2 单层结构、PI 翻转势垒(271 meV/f.u.)、八种 H 堆叠构型及差分电荷密度](../../raw/figures/tangCombiningIntrinsicSlidinginduced2025/fig_2_QPPY5P3H.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+    - **图示描述**：材料实现证据图。(a) 1T″-MoSe₂ 单层几何，由 1T 相 2×2 重构而来，Mo 原子形成收缩/扩张三角形导致 Se 面外位移；(b) NEB 给出单层 PI 翻转能量势垒；(c)–(j) H 堆叠双层八种构型 S1–S8 及各自 PS 符号；(k)–(p) S5、S6 在不同层间极化耦合（IPC）下的平面平均差分电荷密度 Δρ（e/Å），红蓝区分别对应电子积累/耗尽。
+    - **关键特征**：单层 PI 翻转势垒 271 meV/f.u.（MoS₂ 212、MoTe₂ 306 meV/f.u.）；Berry 相极化 0.18 pC/m（MoS₂ 0.32、MoTe₂ 0.22 pC/m），折算约 0.018 μC/cm²；八种构型 PS 符号按 {S1,S3,S5} 与 {S2,S4,S6} 分为两组，符号不随 IPC 改变（堆叠顺序不变、电子重构保持）；Δρ 显示层间电子积累/耗尽导致电荷重心偏移，PS 幅值可大于 PI；各堆叠均为能量局域极小，构型间能量差约 20 meV/f.u.。
+    - **结论/意义**：差分电荷密度直接证实 PS 的电子起源，高 PI 势垒与低滑移势垒的数量级差为电场分级控制提供材料基础。
   - ![图3 双层六态切换：滑移路径 NEB 势垒、HP+/LP−₂/LP−₁/HP− 循环及各态净极化](../../raw/figures/tangCombiningIntrinsicSlidinginduced2025/fig_3_CJWERQTE.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+    - **图示描述**：双层切换机制核心图。(a)(b) 固定层内极化向下时各堆叠间滑移 NEB 路径与势垒；(c) 外电场 E₁↓/E₂↓/E₃↓ 驱动下 HP⁺→LP⁻₂→LP⁻₁→HP⁻ 再反向回到 HP⁺ 的六态循环；(d) 六态净极化值（pC/m）及相邻态间转换势垒。
+    - **关键特征**：S2→S5 势垒约 44 meV/f.u.，远低于 S2→S3 的约 325 meV/f.u.，系统优先走 S2→S5→S6→S3 低能路径，构成"逐层滑移"；S5↔S6 势垒约 38–46 meV/f.u.；LP⁻₂ 中顶层 PI 翻转势垒比底层低 10 meV/f.u.，使中等电场只翻顶层（LP⁻₂→LP⁻₁），更大电场才翻底层（LP⁻₁→HP⁻）；六态 HP⁺、LP⁻₂、LP⁻₁、HP⁻、LP⁺₂、LP⁺₁ 均为能量局域极小，对应 log₂6≈2.58 bit/单元。
+    - **结论/意义**：势垒差与层不对称共同实现"逐层滑移-逐层翻转"，是双层六态可被电场分级寻址的物理依据。
   - ![图4 三层十态切换：堆叠顺序、逐层滑移-逐层翻转路径、E1<E2≈E3<E4<E5 电场分级](../../raw/figures/tangCombiningIntrinsicSlidinginduced2025/fig_4_WYM5EB9V.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+    - **图示描述**：三层拓展图。(a)–(e) H 堆叠三层 1T″-MoSe₂ 在切换中涉及的五种堆叠顺序；(f) 从 HP⁺₁ 出发经多次逐层滑移和逐层翻转至 HP⁻₁ 的十态切换路径；(g) 十态净极化大小及相邻转换势垒，给出所需电场趋势。
+    - **关键特征**：底层滑移势垒 12 meV/f.u. 低于顶层 13 meV/f.u.，故先发生层选择性滑移；LP⁺₂ 态中中间层因承受两个反向层间极化的有效内场，其 PI 翻转势垒反而低于顶/底层，被优先翻转；顶/底层 PI 翻转势垒差约 16 meV/f.u.；所需电场满足 E₁↓ < E₂↓ ≈ E₃↓ < E₄↓ < E₅↓；共 10 个可切换态，对应 log₂10≈3.32 bit/单元。
+    - **结论/意义**：证明多态机制可向更多层推广，状态数随层数增长，但需 ML 势/多尺度方法应对构型空间指数膨胀。
   - ![表I S5/S6 堆叠下 PT_I、PB_I、PS、Ptot（pC/m）数值](../../raw/figures/tangCombiningIntrinsicSlidinginduced2025/tab_5_L73S9YPF.png)
+    - **图示描述**：表 I 列出 S5、S6 两种堆叠在四种层内极化组态（↑↑、↓↓、↑↓、↓↑）下的顶层本征极化 PT_I、底层本征极化 PB_I、滑移诱导极化 PS 与总极化 Ptot，单位均为 pC/m。
+    - **关键特征**：同一堆叠下 PS 符号在四种 IPC 中保持一致（S5 全为负、S6 全为正），仅幅值小幅变化（S5 约 −0.29 至 −0.69 pC/m，S6 约 0.30 至 0.69 pC/m）；PT_I/PB_I 随层内方向翻转在 ±0.16 至 ±0.23 pC/m 范围；Ptot 在 −0.69 至 +0.69 pC/m 间变化，FE 耦合 ↑↑/↓↓ 给出最大净极化，AFE 耦合 ↑↓/↓↑ 给出较低但非零的净极化。
+    - **结论/意义**：定量印证 PS 符号由堆叠顺序决定、与 IPC 解耦，且 PS 可与 PI 量级相当甚至更大，是多态极化可分辨性的数据基础。
 
 ## 🔬 项目连接
   - **project-5（SnTe 铁电模拟）— strong**：本文是 2D 铁电方法学核心文献。引言引用 Chang et al. Science 2016 在原子级厚度 SnTe 中发现面内铁电性[6]，与项目材料直接同源；计算流程（VASP + PBE + PAW + DFT-D3 + Berry 相极化 + NEB 翻转势垒 + AIMD 热稳定性）正是 SnTe 铁电模拟可复用的标准流程；"层选择性翻转""逐层滑移-逐层翻转"机制及电场分级控制思想，对 SnTe 薄膜/多层的极化翻转路径设计有直接类比价值；多态铁电隧道结（FTJ）的器件设想也与 SnTe 铁电存储方向契合。

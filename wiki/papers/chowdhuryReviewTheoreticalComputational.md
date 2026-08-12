@@ -115,14 +115,41 @@ wiki 中没有、但值得新建的概念或材料实体，每个给 kebab-case 
 
 ## 📊 关键图表
   - 图1：单层与块体 2H/1T-TaSe₂ 的晶体结构与含 SOC 费米面：![图1 晶体结构与费米面](../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_1_6U85MKFS.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+    - **图示描述**：(a)–(d) 为单层和块体 2H-TaSe₂、1T-TaSe₂ 在计入自旋轨道耦合（SOC）后的计算费米面；(e)(f) 分别为 2H 相（三角棱柱配位）与 1T 相（八面体配位）的晶体结构。能量单位 eV。
+    - **关键特征**：单层 2H-TaSe₂ 费米面近圆形、结构简单；单层 1T-TaSe₂ 呈复杂"大卫之星"形；块体因层间耦合和 SOC 显著改变费米面拓扑。
+    - **结论/意义**：直观展示晶相（2H vs. 1T）与维度（单层 vs. 块体）是调控电子结构、决定 CDW 不稳定性及其波矢的关键"旋钮"。
   - 图2：2H-TaS₂ 79 cm⁻¹ CDW 模频率随温度变化，施加微小压应变模拟非公度性后与实验吻合：![图2 CDW模频率温度依赖性](../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_2_TCKUYQ2X.png) -> [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+    - **图示描述**：横轴温度（K）、纵轴拉曼频移（cm⁻¹），对比 2H-TaS₂ 79 cm⁻¹ CDW 模频率随温度的变化，红点为实验、蓝三角为沿 c 轴施加 −0.3% 压缩应变以模拟 IC-CDW 的 DFT 结果。
+    - **关键特征**：CDW 模随温度升高发生红移（软化）；施加微小应力的 DFT 模型在 3×3×1 超胞内近似非公度结构，近乎完美复现实验曲线；未施加应力的模型与实验偏差大。
+    - **结论/意义**：验证了"以电子温度代真实温度"和"以应力代非公度性"两项近似的物理合理性，是 DFT 处理 IC-CDW 的方法论胜利。
   - 图3：单层 2H- 与 1T-TaSe₂ 的能带结构与态密度（红虚线为块体对照）：![图3 单层TaSe2能带结构与态密度](../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_3_F6W5S8YU.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+    - **图示描述**：(a)(b) 单层 2H-TaSe₂、(c)(d) 单层 1T-TaSe₂ 的能带结构与态密度（DOS），实线为单层结果、红虚线为块体对照。横轴为波矢，纵轴能量（eV），DOS 以 states/eV 为单位。
+    - **关键特征**：两晶相在费米能级（E=0 eV）附近能带色散截然不同，与 Ta 5d 轨道和 Se 配位场作用相关；单层相对块体在能带劈裂和带宽上差异明显。
+    - **结论/意义**：层间耦合显著影响电子结构，直观说明维度降低如何重塑能带、进而影响 CDW 与超导竞争。
   - 图4：2H-TaSe₂ 低频拉曼中的 Amp1/Amp2 振幅模与 P1/P2 相位模及其 DFT 原子振动图：![图4 低温拉曼光谱与CDW振膜模式](../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_4_A8RC6ZVV.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+    - **图示描述**：(a) 低温（<130 K）下拉曼谱出现 Amp1、Amp2、P1、P2 四个新峰；(b) 各峰频率与半高宽随温度的变化；(c) DFT 计算的原子振动可视化（Se 原子绿色圆球，箭头表示位移）。
+    - **关键特征**：Amp1/Amp2 随降温频率上升、线宽窄化、强度增大，是 CDW 序参量振幅振荡（振幅模）；P1/P2 频率和 FWHM 几乎不随温度变化、强度上升，且仅在 C-CDW 相出现（IC-CDW 中为声学支、拉曼非活性），判定为相位模。
+    - **结论/意义**：将光谱学特征与原子级集体运动一一对应，"看见"CDW 态，是计算-实验协同识别振幅模/相位模的范例。
   - 图5：1T-TaS₂ C-CDW 相两种层间堆叠（Ts=c 与 Ts=2a+c）下的原子结构、S 3p PDOS 与三维电荷转移动力学：![图5 1T-TaS2层间堆垛与电荷转移](../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_5_ZK5MIJ9I.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+    - **图示描述**：(a) "大卫之星"团簇及 Ts=c（星心对齐）与 Ts=2a+c（含面内位移）两种层间堆叠；(b) 两种堆叠下 S 3p 轨道的投影态密度（PDOS，能量单位 eV）；(c) SIESTA/vdWDF 模拟的 S 原子散射平面，颜色由蓝到棕表示强度。
+    - **关键特征**：层内结构相同，仅层间堆叠不同，即可显著改变 S 3p PDOS 和电子态空间分布；结合芯空穴时钟实验显示亚飞秒电荷转移在面内/面外各向同性。
+    - **结论/意义**：证明看似二维的 1T-TaS₂ 在 C-CDW 相可表现出三维、各向同性的电荷转移动力学，层间耦合不可忽略。
   - 图6：1T-TaSe₂ C-CDW 相 13-Ta 大卫之星超结构、层间堆叠及 [001]/[102] 衍射图的实验-模拟对照：![图6 1T-TaSe2 C-CDW三维超结构](../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_6_L5P3GS6D.png) -> [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+    - **图示描述**：(a) 13 个 Ta 原子组成的"大卫之星"团簇及 Se 原子在 c 轴方向的高度起伏（红高蓝低）；(b) 层间堆叠关系；(c)–(h) 沿 [001]、[102] 等晶轴的实验与模拟电子衍射图样，c 轴坐标以 c 为单位。
+    - **关键特征**：C-CDW 相中层间形成长程有序三维堆垛（蓝虚线三角标出），模拟衍射图样与实验高度吻合。
+    - **结论/意义**：从衍射层面直接证实 CDW 态的三维本质，即使少数层样品也不能完全忽略层间耦合。
   - 图7：2H-MX₂ CDW 转变温度厚度依赖、单层电子-声子耦合 λ 与由 ΔQ_I、λ、1/⟨r²⟩ 构成的"深渊"统一相图：![图7 维度依赖CDW统一相图](../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_7_NZSMJSXX.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+    - **图示描述**：(a) 多种 2H-TMDs 的 CDW 转变温度随厚度（层数）变化的实验数据；(b) DFT 计算的单层 2H-MX₂ 电子-声子耦合常数 λ（无量纲）；(c) 以离子电荷转移 ΔQ_I、电子-声子耦合 λ、电子波函数空间扩展 1/⟨r²⟩ 为三轴的统一相图。
+    - **关键特征**：当 ΔQ_I 与 λ 较低、而波函数空间扩展较大时，系统落入"深渊"区域允许 CDW 稳定存在；曲面之上 CDW 被禁。
+    - **结论/意义**：将零散的厚度依赖和 λ 数据提升为统一的三维参数框架，为预测其他低维材料的 CDW 行为提供普适理论指导。
   - 表1：2H-TaS₂ 实验与有/无应力 DFT 拉曼模（cm⁻¹）的温度依赖对比：![表1 2H-TaS2拉曼模温度依赖对比](../../raw/figures/chowdhuryReviewTheoreticalComputational/tab_1_F2IWIW2A.png) -> [[../figures/vibrational-spectra|振动能谱与声子谱]]
-  - 表2：不同泛函-赝势组合下 TaSe₂ 原胞拉曼模与实验的平均误差，LDA(PW)+模守恒最优（3.2 cm⁻¹）：![表2 泛函-赝势组合拉曼误差基准](../../raw/figures/chowdhuryReviewTheoreticalComputational/tab_2_2GIU5ZQ2.png) -> [[../figures/vibrational-spectra|振动能谱与声子谱]]
+    - **图示描述**：列出 2H-TaS₂ 多个 CDW 特征拉曼模式在不同温度下的实验频率，并与两种 DFT 模型（施加应力模拟 IC-CDW、未施加应力）逐一对比，单位 cm⁻¹。
+    - **关键特征**：施加微小应力的模型（如 CDW 模在 51 cm⁻¹）显著优于无应力模型，整体与实验吻合良好。
+    - **结论/意义**：定量证据表明，对非公度 CDW 体系仅用简单超胞不够，需要"以应变换非公度性"的建模技巧。
+  - 表2：不同泛函-赝势组合下 TaSe₂ 原胞拉曼模与实验的平均误差，LDA(PW)+模守恒最优（3.2 cm⁻¹）：![表2 泛函-赝势组合拉曼误差基准](../../raw/figures/chowdhuryReviewTheoreticalComputational/tab_2_2GIU5ZQ2A.png) -> [[../figures/vibrational-spectra|振动能谱与声子谱]]
+    - **图示描述**：列出 GGA、LDA 等交换关联泛函与 Norm-conserving、Ultra-soft、PAW 等赝势的多种组合所计算的 TaSe₂ 单胞拉曼频率，并与实验值（cm⁻¹）对照，末行给出平均误差。
+    - **关键特征**：LDA(PW)+模守恒赝势平均误差最小（3.2 cm⁻¹），优于 GGA(PBE-PAW)（10.5 cm⁻¹）、GGA(PW)（11.2 cm⁻¹）；GGA 晶格常数更准但拉曼频率反而不如 LDA，误差互补。
+    - **结论/意义**：为计算研究者提供参数选择基准，强调针对特定材料和物性做基准测试、而非盲目追求"更高级"泛函的重要性。
 
 ## 🔬 项目连接
   - project-7 CDW：直接对应，是该项目的方法论综述，提供 DFT 处理温度、非公度性、拉曼模式、维度效应的全套参考，应作为项目背景与计算方法主引文。
