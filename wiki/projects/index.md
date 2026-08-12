@@ -23,7 +23,7 @@ description: 七大主线科研项目索引、知识库关联说明与文献池�
 | :--- | :--- | :--- | :--- | :--- |
 | [[project-1-two-photon|项目一]] | 双光固化和双光发光 | [[../../wiki/concepts/2D-materials\|二维材料]] | `MMAD3PQB` | `E:\swan_goose\燕燕\香香\项目一：双光固化和双光发光` |
 | [[project-2-mn-multiferroics|项目二]] | Mn极化结构铁电材料 | [[../../wiki/concepts/multiferroicity\|多铁性]], [[../../wiki/entities/BiFeO3\|BiFeO3]] | `PTX5TBVQ` | `E:\swan_goose\燕燕\香香\项目二：Mn极化结构铁电材料` |
-| [[project-3-mechanoluminescence-nn|项目三]] | 应力发光神经网络 | [[../../wiki/concepts/machine-learning-potential\|机器学习]] | `BCFMXHAU` | `E:\swan_goose\燕燕\香香\项目三：应力发光神经网络` |
+| [[project-3-topological-devices|项目三]] | 拓扑量子器件 | [[../../wiki/concepts/altermagnetism\|变换磁性]], [[../../wiki/concepts/sliding-ferroelectricity\|滑动铁电]] | `TQD2026X` | `E:\swan_goose\燕燕\香香\项目三：拓扑量子器件` |
 | [[project-4-ttf-molecular-calc|项目四]] | lsl老师的ttf分子计算 | [[../../wiki/entities/deep-potential\|Deep Potential]] | `ZQUX2PP6` | `E:\swan_goose\燕燕\香香\项目四：lsl老师的ttf分子计算` |
 | [[project-5-snte-ferroelectric-sim|项目五]] | lammps势函数SnTe铁电模拟 | [[../../wiki/entities/SnTe\|SnTe]], [[../../wiki/concepts/sliding-ferroelectricity\|滑动铁电]] | `K9PXCWF9` | `E:\swan_goose\燕燕\香香\项目五：lammps势函数SnTe铁电模拟` |
 | [[project-6-humidity-sensor|项目六]] | 小花闻的电压湿度传感器 | [[../../wiki/concepts/2D-materials\|二维材料]] | `7Z2S985G` | `E:\swan_goose\燕燕\香香\项目六：小花闻的电压湿度传感器` |

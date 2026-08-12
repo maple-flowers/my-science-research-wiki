@@ -10,33 +10,33 @@ url: "https://doi.org/10.1088/1361-648X/abb740"
 paper_type: theory
 status: ingested
 year_read: 2026
-original_note: "[[../../raw/note/Mińkowski2021cation]]"
+original_note:: [[../../raw/note/Mińkowski2021cation]]
 projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
 concepts: [density-functional-theory, machine-learning-potential, spin-orbit-coupling]
 entities: [PbTe, SnTe, VASP]
 methods: [dft, md, mlip, neb]
 materials: [PbTe, SnTe]
 figures: [crystal-structures, mathematical-models]
-"领域基础知识": >-
+领域基础知识:: >-
   PbTe（碲化铅）和CdTe（碲化镉）是分别属于IV-VI族和II-VI族的半导体材料，它们构成的异质结构广泛应用于中红外光电器件（如量子点激光器）。PbTe为岩盐矿结构，CdTe为闪锌矿结构，二者晶格常数非常接近，但晶格类型不同，且互不相溶。在高温退火下，该体系会发生纳米层向量子点的形态转变，该过程由原子扩散驱动，而点缺陷（尤其是间隙原子）的扩散被认为是关键。
-"研究背景": >-
+研究背景:: >-
   实验上已能通过控制生长条件制备出高质量的PbTe/CdTe量子点结构，并观察到其形态演化，但现有的理论模型（如Cahn-Hilliard模型、动力学蒙特卡洛）均为粗粒化模型，缺乏对原子尺度微观机制（如原子如何跨界面迁移并导致晶格重构）的精确描述。为填补这一空白，需要从原子层面研究点缺陷的扩散行为，以此作为理解宏观形态演化的基础。
-"作者的问题意识": >-
+作者的问题意识:: >-
   作者的核心问题是：在PbTe和CdTe体材料中，阳离子间隙原子（Pb和Cd）的微观扩散机制是什么？各自对总扩散的贡献有多大？以及如何通过一种具备高精度和高效率的计算方法，来揭示这些静态计算方法（如NEB）可能遗漏的复杂动力学过程？
-"主要研究对象": >-
+主要研究对象:: >-
   本征阳离子间隙原子，即位于PbTe晶格间隙中的一个额外Pb原子，以及位于CdTe晶格间隙中的一个额外Cd原子。研究其在各自体材料构成的4×4×4超胞（共512个晶格原子+1个间隙原子）中的扩散行为。
-"主要研究方法": >-
+主要研究方法:: >-
   采用基于**神经网络势**（NNP）的**分子动力学**（MD）模拟。首先，通过**密度泛函理论**（DFT）计算生成大量原子构型的能量和受力数据作为“参考数据”；然后，利用这些数据训练高维神经网络，构建能够精确复现DFT势能面的NNP力场；最后，将训练好的NNP作为力场，在LAMMPS中进行长时间（纳秒级）MD模拟，从模拟轨迹中提取均方位移（MSD）来计算扩散系数，并通过分析原子位移细节来识别微观扩散机制。
-"研究意义": >-
+研究意义:: >-
   理论层面，本研究首次清晰揭示了PbTe和CdTe中阳离子间隙扩散的“跳跃”与“交换”双机制图像，并定量给出了各自的活化能，修正了之前对单一扩散机制的认知，为理解半导体中的原子扩散提供了新的微观视角。方法学层面，成功验证了NNP-MD方法在复杂半导体缺陷动力学研究中的巨大潜力，为后续研究提供了高效且精确的计算框架，具有推广价值。
-"研究结论": >-
+研究结论:: >-
   1. PbTe和CdTe中的阳离子间隙扩散均通过“跳跃”（间隙原子在间隙位点间移动）和“交换”（间隙原子与晶格原子互换位置）两种机制发生。2. 在PbTe中，交换机制因活化能更低而占主导；在CdTe中，跳跃机制因活化能更低而占主导。但由于交换机制的单次有效位移更长，它对总扩散的贡献在两种材料中都很重要。3. 总扩散系数的温度依赖性偏离了简单的阿伦尼乌斯关系，这是两种不同活化能机制共同作用的结果。4. 计算得到的活化能与现有实验和理论结果在数量级上可比。
-"对领域的贡献": >-
+对领域的贡献:: >-
   1. 提出了一个解释PbTe/CdTe体系中原子扩散的全新微观物理模型，即“交换”机制，这为理解该体系在界面处的形态演化（可能需要晶格重建）提供了关键的原子级线索。2. 建立了一套完整的NNP-MD模拟流程，该流程能处理大规模、长时间的缺陷动力学问题，为半导体缺陷工程领域提供了强有力的研究工具。
-"未来研究方向提及": >-
+未来研究方向提及:: >-
   1. 将研究对象从单一材料扩展到**跨界面体系**，即研究Pb原子在CdTe中，以及Cd原子在PbTe中的扩散行为。2. 探索由“原子交换”机制引发的局部晶格结构（如从岩盐矿到闪锌矿）的动力学重建过程，以直接连接微观扩散与宏观形态转变。3. 开发能描述PbTe/CdTe界面的NNP，以直接模拟界面处的原子迁移。
-"未来研究方向思考": >-
-  1. **缺陷的耦合效应**：未来可研究间隙扩散与空位扩散之间的耦合。例如，一个交换机制产生的“新”间隙原子，是否更倾向于与随之产生的空位发生复合？2. **电荷态动力学**：发展能够描述电子结构和电荷态变化的机器学习势函数（如基于深度学习的电荷均衡方法），以更精确地模拟半导体中载流子对缺陷扩散的影响。3. **多尺度模拟的对接**：将本研究的MD模拟结果（如扩散系数、反应路径）作为输入参数，输入到更高尺度的动力学蒙特卡洛或相场模型中，从而实现从原子尺度到宏观器件的直接模拟，真正预测和优化实验工艺。 🚀 [笔记回链](zotero://select/library/items/KGQY99XS) * * * `GPT 自定 ②` `deepseek-v4-pro` _由批量 AI 解读自动生成于 2026/8/11 07:03:42 （重新解读）_ 🏷️ #🤖️/AI文献解读 🏷️ #🤖️/AI文献阅读
+未来研究方向思考:: >-
+  1. **缺陷的耦合效应**：未来可研究间隙扩散与空位扩散之间的耦合。例如，一个交换机制产生的“新”间隙原子，是否更倾向于与随之产生的空位发生复合？2. **电荷态动力学**：发展能够描述电子结构和电荷态变化的机器学习势函数（如基于深度学习的电荷均衡方法），以更精确地模拟半导体中载流子对缺陷扩散的影响。3. **多尺度模拟的对接**：将本研究的MD模拟结果（如扩散系数、反应路径）作为输入参数，输入到更高尺度的动力学蒙特卡洛或相场模型中，从而实现从原子尺度到宏观器件的直接模拟，真正预测和优化实验工艺。
 tags:
   - paper
   - type/theory
@@ -80,14 +80,22 @@ tags:
 
 ## Mińkowski2021cation — 基于神经网络势的分子动力学模拟研究碲化铅和碲化镉中阳离子间隙扩散
 
-- **元数据**：Marcin Mińkowski, Kerstin Hummer, Christoph Dellago et al.，2021，*Journal of Physics: Condensed Matter* 33, 015901，DOI: 10.1088/1361-648X/abb740
+## 📄 元数据
+Marcin Mińkowski, Kerstin Hummer, Christoph Dellago et al.，2021，*Journal of Physics: Condensed Matter* 33, 015901，DOI: 10.1088/1361-648X/abb740
 
-- **一句话**：用 Behler–Parrinello 神经网络势（NNP）驱动长时 MD，首次揭示 PbTe（岩盐矿）和 CdTe（闪锌矿）中阳离子间隙原子均通过"直接跳跃"和"与晶格原子交换"两种机制扩散，二者活化能不同导致总扩散系数偏离 Arrhenius 行为；PbTe 中交换主导，CdTe 中跳跃主导。
+## 💡 一句话
+用 Behler–Parrinello 神经网络势（NNP）驱动长时 MD，首次揭示 PbTe（岩盐矿）和 CdTe（闪锌矿）中阳离子间隙原子均通过"直接跳跃"和"与晶格原子交换"两种机制扩散，二者活化能不同导致总扩散系数偏离 Arrhenius 行为；PbTe 中交换主导，CdTe 中跳跃主导。
 
-- **现有wiki双链**：
+## 🔗 Wiki 双链
   - 概念 [[../concepts/density-functional-theory]]
   - 概念 [[../concepts/machine-learning-potential]]
   - 概念 [[../concepts/spin-orbit-coupling]]
+  - 概念 [[../concepts/interstitial-diffusion|间隙扩散]]
+  - 概念 [[../concepts/interstitial-exchange-mechanism|间隙-晶格交换机制]]
+  - 概念 [[../concepts/arrhenius-deviation|非阿伦尼乌斯行为]]
+  - 概念 [[../concepts/behler-parrinello-nnp|Behler–Parrinello 神经网络势]]
+  - 概念 [[../concepts/block-averaging-msd|MSD 块平均误差估计]]
+  - 概念 [[../concepts/CdTe|CdTe（碲化镉）]]
   - 实体 [[../entities/PbTe]]
   - 实体 [[../entities/SnTe]]
   - 实体 [[../entities/VASP]]
@@ -99,17 +107,13 @@ tags:
   - 项目 [[../projects/project-4-ttf-molecular-calc]]
   - 相关论文 [[../../raw/note/Mińkowski2021cation]]
 
-- **新概念/实体建议**：
-  - `interstitial-diffusion.md`（间隙扩散）：点缺陷在晶格间隙位之间迁移的输运方式，与空位扩散并列；本文给出跳跃/交换双机制图像。
-  - `interstitial-exchange-mechanism.md`（间隙-晶格交换机制）：间隙原子踢出晶格原子并取而代之、被踢出者成为新间隙原子的协同接力式扩散，单步有效位移大于直接跳跃。
-  - `arrhenius-deviation.md`（非阿伦尼乌斯行为）：扩散系数在 Arrhenius 图上弯曲，源于多种活化能不同的机制并行贡献；可用双指数项之和拟合。
-  - `CdTe.md`（碲化镉）：II–VI 族闪锌矿半导体，PbTe/CdTe 异质结的另一半，中红外量子点基质材料。
-  - `behler-parrinello-nnp.md`（Behler–Parrinello 神经网络势）：以原子中心对称函数为描述符、高维神经网络拟合 DFT 势能面的方法，n2p2 实现，本文方法核心。
-  - `block-averaging-msd.md`（MSD 块平均误差估计）：用块大小-方差乘积平台值估计扩散系数统计误差的标准做法。
+## 🆕 新概念/实体建议
+（暂无）
 
-- **关键图表**：笔记未附图片（raw/figures 下仅有 manifest.json，未抽取图 1–8 图像文件；正文含图 1 轨迹投影、图 2 MSD、图 3 块平均收敛、图 4 总 D 的 Arrhenius 图、图 5–6 跳跃/交换机制示意、图 7 分机制速率 Arrhenius 图、图 8 双机制拟合，以及表 1–4 数值）。
+## 📊 关键图表
+笔记未附图片（raw/figures 下仅有 manifest.json，未抽取图 1–8 图像文件；正文含图 1 轨迹投影、图 2 MSD、图 3 块平均收敛、图 4 总 D 的 Arrhenius 图、图 5–6 跳跃/交换机制示意、图 7 分机制速率 Arrhenius 图、图 8 双机制拟合，以及表 1–4 数值）。
 
-- **项目连接**：
+## 🔬 项目连接
   - **project-1 双光子**：无直接项目连接。
   - **project-2 Mn 多铁（缺陷/掺杂调控）**：有方法参考价值。本文展示的"DFT 参考数据 → 迭代训练 NNP（以外推警告和多网络分歧主动加样）→ LAMMPS 长时 MD → MSD/块平均提取扩散系数 → 按原子 ID 追踪区分跳跃与交换事件 → 分机制 Arrhenius 拟合"完整流程，可直接迁移到 Mn 基多铁材料中掺杂/间隙离子迁移、缺陷动力学的模拟；其"交换机制导致协同输运"的物理图像也可类比缺陷在钙钛矿晶格中的迁移。对讨论缺陷如何介导铁电/磁序耦合有参考意义。
   - **project-3 机械发光 NN**：无直接项目连接。
@@ -118,17 +122,27 @@ tags:
   - **project-6 湿度传感器**：无直接项目连接。
   - **project-7 CDW**：无直接项目连接。
 
-- **组织与用词**：论文按"应用背景（PbTe/CdTe 量子点形态演化）→ 体系晶体学（岩盐矿 vs 闪锌矿、间隙位等价性）→ 方法三部曲（VASP/PBEsol 生成参考数据、n2p2 训练 NNP、LAMMPS MD）→ 结果（NNP 误差、MSD 与块平均、总 D 的 Arrhenius 拟合、轨迹可视化识别两种机制、分机制速率拟合、双机制模型重拟合）→ 与实验/NEB 对比 → 结论与跨界面展望"线性展开。论证的关键转折是：总 Arrhenius 图略微弯曲 → 轨迹分析发现跳跃/交换两机制 → 分别统计速率并拟合活化能 → 用两项之和重拟合总 D 成功复现弯曲，形成闭环。方法严谨性体现在：三个独立随机种子训练 NNP 交叉验证、迭代式主动学习消除外推、块平均量化统计误差、用"原子 ID 是否改变 + 连续 10 步"判据区分交换与涨落。值得复用的术语：
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
+## 📝 组织与用词
+论文按"应用背景（PbTe/CdTe 量子点形态演化）→ 体系晶体学（岩盐矿 vs 闪锌矿、间隙位等价性）→ 方法三部曲（VASP/PBEsol 生成参考数据、n2p2 训练 NNP、LAMMPS MD）→ 结果（NNP 误差、MSD 与块平均、总 D 的 Arrhenius 拟合、轨迹可视化识别两种机制、分机制速率拟合、双机制模型重拟合）→ 与实验/NEB 对比 → 结论与跨界面展望"线性展开。论证的关键转折是：总 Arrhenius 图略微弯曲 → 轨迹分析发现跳跃/交换两机制 → 分别统计速率并拟合活化能 → 用两项之和重拟合总 D 成功复现弯曲，形成闭环。方法严谨性体现在：三个独立随机种子训练 NNP 交叉验证、迭代式主动学习消除外推、块平均量化统计误差、用"原子 ID 是否改变 + 连续 10 步"判据区分交换与涨落。值得复用的术语：
   - neural network potential (NNP) — 神经网络势
-  - interstitial exchange mechanism — 间隙-晶格交换机制
+  - [[../concepts/interstitial-exchange-mechanism|interstitial exchange mechanism — 间隙-晶格交换机制]]
   - direct hop — 直接跳跃
-  - Arrhenius deviation / non-Arrhenius behaviour — 非阿伦尼乌斯行为
+  - [[../concepts/arrhenius-deviation|Arrhenius deviation / non-Arrhenius behaviour — 非阿伦尼乌斯行为]]
   - symmetry functions (G2/G3/G9) — 对称函数
   - extrapolation warning — 外推警告（主动学习判据）
-  - block averaging — 块平均（误差估计）
+  - [[../concepts/block-averaging-msd|block averaging — 块平均]]（误差估计）
   - tetrahedral interstitial sites Ta/Tc — 四面体间隙位（阴离子/阳离子配位）
 
-- **可写入wiki的要点**：
+## ✏️ 可写入 Wiki 的要点
   1. **方法流程**：VASP（PBEsol 泛函，Γ 点，4×4×4 超胞 512/513 原子）生成能量/力参考数据 → n2p2 训练 Behler–Parrinello NNP（Rc=6 Å，G2/G3/G9 对称函数，两隐层各 25 节点，Kalman 滤波，β=5，50 epoch）→ LAMMPS 跑 700–1200 K NPT MD（2 fs 步长，≤800 K 跑 8 ns，850 K 跑 6 ns，≥900 K 跑 4 ns）。
   2. **主动学习策略**：训练集迭代扩充——把 MD 中触发外推警告最多的构型、以及两个独立 NNP 预测分歧最大的构型挑出做 DFT 标注后重训，直至相关温度区间无外推警告；过渡态附近构型靠可视化手动补入。最终 PbTe 用 4898 个构型、CdTe 用 2866 个构型（90% 训练 / 10% 测试）。
   3. **NNP 精度**：能量 RMSE 约 0.47–0.57 meV/atom（PbTe）、0.25–0.54 meV/atom（CdTe）；力 RMSE 约 69–73 meV/Å（PbTe）、55–72 meV/Å（CdTe）；三网络给出的活化能相差 ≤100 meV，作者以此作为 NNP 方法计算活化能的不确定度估计。

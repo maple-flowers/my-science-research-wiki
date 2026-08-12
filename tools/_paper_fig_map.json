@@ -1,0 +1,286 @@
+{
+ "chen3dLevelSymmetry2025": [
+  "crystal-structures",
+  "heterostructures-stacking-domains-devices"
+ ],
+ "fengFerroelectricityMultiferroicityTwodimensional2020": [
+  "crystal-structures",
+  "heterostructures-stacking-multiferroic"
+ ],
+ "chenStrongSlidingFerroelectricity2024": [
+  "crystal-structures",
+  "heterostructures-stacking-sliding"
+ ],
+ "guoAdvancesTwodimensionalFerroelectric2025": [
+  "crystal-structures",
+  "heterostructures-stacking-domains-devices"
+ ],
+ "chenFerromagneticNonmagnetic1T2022": [
+  "crystal-structures"
+ ],
+ "aiFerroelectricityCoexistedPorbital2022": [
+  "crystal-structures",
+  "experimental-setups",
+  "heterostructures-stacking-multiferroic"
+ ],
+ "heUltrafastSwitchingDynamics2024": [
+  "crystal-structures",
+  "domain-walls",
+  "heterostructures-stacking-sliding"
+ ],
+ "aminiAtomicscaleVisualizationMultiferroicity2024": [
+  "crystal-structures",
+  "domain-walls",
+  "heterostructures-stacking-multiferroic"
+ ],
+ "sharmaRoomtemperatureFerroelectricSemimetal2019": [
+  "crystal-structures",
+  "domain-walls"
+ ],
+ "sunSlidingFerroelectricityTwodimensional2025": [
+  "crystal-structures",
+  "electronic-devices",
+  "experimental-setups",
+  "heterostructures-stacking-reviews"
+ ],
+ "kresseEfficientIterativeSchemes1996d": [
+  "crystal-structures",
+  "domain-walls",
+  "electronic-bands",
+  "electronic-devices",
+  "mathematical-models",
+  "optical-spectra"
+ ],
+ "heSwitchingTwodimensionalSliding2025": [
+  "crystal-structures",
+  "heterostructures-stacking-sliding"
+ ],
+ "hanTunableSlidingFerroelectricity2025": [
+  "crystal-structures",
+  "heterostructures-stacking-sliding"
+ ],
+ "perdewGeneralizedGradientApproximation1996a": [
+  "crystal-structures",
+  "electronic-bands",
+  "vibrational-spectra"
+ ],
+ "tianRoomtemperatureTwodimensionalMultiferroic2026": [
+  "domain-walls",
+  "heterostructures-stacking-multiferroic"
+ ],
+ "kaurRecentAdvancesTheoretical2025a": [
+  "domain-walls",
+  "heterostructures-stacking-moire"
+ ],
+ "kresseUltrasoftPseudopotentialsProjector1999c": [
+  "electronic-bands",
+  "mathematical-models"
+ ],
+ "RecentAdvancesGrowth2025": [
+  "electronic-devices",
+  "experimental-setups",
+  "heterostructures-stacking-domains-devices",
+  "vibrational-spectra"
+ ],
+ "cuiIntercorrelatedInplaneOutofplane2018a": [
+  "experimental-setups"
+ ],
+ "Chen2016electrical": [
+  "experimental-setups",
+  "mathematical-models"
+ ],
+ "zhaoRealization2DMultiferroic2024": [
+  "experimental-setups",
+  "heterostructures-stacking-multiferroic"
+ ],
+ "chenHafniumBasedFerroelectricPostMoore2026": [
+  "experimental-setups",
+  "mathematical-models"
+ ],
+ "wangFormationMechanismTwin2019": [
+  "heterostructures-stacking-domains-devices"
+ ],
+ "liFerroelasticityDomainPhysics2016": [
+  "heterostructures-stacking-domains-devices"
+ ],
+ "xuTwodimensionalFerroelasticityVan2021": [
+  "heterostructures-stacking-domains-devices"
+ ],
+ "duUltrasensitiveOptoelectronicBiosensor2025": [
+  "heterostructures-stacking-domains-devices"
+ ],
+ "kimObservationPhaseTransition1997": [
+  "heterostructures-stacking-domains-devices"
+ ],
+ "zhaoOpticalFingerprintsTwodimensional2024": [
+  "heterostructures-stacking-domains-devices"
+ ],
+ "naguib25thAnniversaryArticle2013a": [
+  "heterostructures-stacking-domains-devices"
+ ],
+ "xueEmergingNonvolatileMemories2011": [
+  "heterostructures-stacking-domains-devices"
+ ],
+ "gongAbsenceCriticalThickness2023": [
+  "heterostructures-stacking-domains-devices"
+ ],
+ "niuDirectVisualizationLargeScale2021": [
+  "heterostructures-stacking-domains-devices"
+ ],
+ "huangTwodimensionalIn2Se3Rising2022": [
+  "heterostructures-stacking-domains-devices"
+ ],
+ "neumayerCompetingPolarPhases2025": [
+  "heterostructures-stacking-domains-devices"
+ ],
+ "lvUnconventionalHystereticTransition2022": [
+  "heterostructures-stacking-domains-devices"
+ ],
+ "huangPolarPhaseDomain2019": [
+  "heterostructures-stacking-domains-devices"
+ ],
+ "martinThinfilmFerroelectricMaterials2016": [
+  "heterostructures-stacking-domains-devices"
+ ],
+ "liMonolayerPuckeredPentagonal2022": [
+  "heterostructures-stacking-mechanics-misc"
+ ],
+ "Zhang2002b": [
+  "heterostructures-stacking-mechanics-misc"
+ ],
+ "zhongHighthroughputExfoliationMultiferroic2025": [
+  "heterostructures-stacking-mechanics-misc",
+  "mathematical-models"
+ ],
+ "Li2013bonding": [
+  "heterostructures-stacking-mechanics-misc",
+  "mathematical-models"
+ ],
+ "Zhang2003a": [
+  "heterostructures-stacking-mechanics-misc",
+  "mathematical-models"
+ ],
+ "cossuStackingChargedensityWaves2024": [
+  "heterostructures-stacking-moire"
+ ],
+ "pedramraziManipulatingTopologicalDomain2019": [
+  "heterostructures-stacking-moire"
+ ],
+ "xunCoexistingMagnetismFerroelectric2024": [
+  "heterostructures-stacking-multiferroic"
+ ],
+ "wuCoexistenceFerroelectricityAntiferroelectricity2024": [
+  "heterostructures-stacking-multiferroic"
+ ],
+ "tangMultiferroicityTwodimensionalVan2025": [
+  "heterostructures-stacking-multiferroic"
+ ],
+ "shenEmergenceMultipleFerroelectric2025": [
+  "heterostructures-stacking-multiferroic"
+ ],
+ "miaoMagneticFerroelectricMetal2024": [
+  "heterostructures-stacking-multiferroic"
+ ],
+ "cheongMultiferroicsMagneticTwist2007a": [
+  "heterostructures-stacking-multiferroic"
+ ],
+ "yuFerroelectricControlMagnetism2026": [
+  "heterostructures-stacking-multiferroic"
+ ],
+ "hanPolarTopologicalMaterials2025": [
+  "heterostructures-stacking-polar-cdw"
+ ],
+ "huProgressProspectsLowdimensional2019": [
+  "heterostructures-stacking-polar-cdw"
+ ],
+ "liPhaseTransitions2D2021": [
+  "heterostructures-stacking-polar-cdw"
+ ],
+ "yanagizawaSwitchingChargedensityWave2023": [
+  "heterostructures-stacking-polar-cdw"
+ ],
+ "kawakamiChargedensityWaveAssociated2023": [
+  "heterostructures-stacking-polar-cdw"
+ ],
+ "wangTwodimensionalFerroelectricMetal2025": [
+  "heterostructures-stacking-polar-cdw"
+ ],
+ "guanRecentProgressTwoDimensional2020": [
+  "heterostructures-stacking-reviews"
+ ],
+ "tangCombiningIntrinsicSlidinginduced2025": [
+  "heterostructures-stacking-sliding"
+ ],
+ "wuSlidingFerroelectricity2D2021a": [
+  "heterostructures-stacking-sliding"
+ ],
+ "yangRipplingFerroicPhase2021": [
+  "heterostructures-stacking-sliding"
+ ],
+ "zhangNonvolatileControlTopological2025": [
+  "heterostructures-stacking-spintronics-strain"
+ ],
+ "zhengAnisotropicSuperconductivityTwodimensional2025": [
+  "heterostructures-stacking-spintronics-strain"
+ ],
+ "wangTunableD0Topological2025b": [
+  "heterostructures-stacking-spintronics-strain"
+ ],
+ "liuSpintronicsTwoDimensionalMaterials2020b": [
+  "heterostructures-stacking-spintronics-strain"
+ ],
+ "wuNonvolatileSwitchableHalfmetallicity2024": [
+  "heterostructures-stacking-spintronics-strain"
+ ],
+ "hallEnvironmentalControlCharge": [
+  "heterostructures-stacking-spintronics-strain"
+ ],
+ "nicholsonUniaxialStraininducedPhase2021": [
+  "heterostructures-stacking-spintronics-strain"
+ ],
+ "pengStrainEngineering2D2020": [
+  "heterostructures-stacking-spintronics-strain"
+ ],
+ "yangStrainEngineeringTwodimensional2021": [
+  "heterostructures-stacking-spintronics-strain"
+ ],
+ "lezoualchStudyChargeDensity": [
+  "heterostructures-stacking-spintronics-strain"
+ ],
+ "<citekey>": [
+  "heterostructures-stacking"
+ ],
+ "Srinivasan1989lead": [
+  "mathematical-models"
+ ],
+ "chowdhuryReviewTheoreticalComputational": [
+  "mathematical-models"
+ ],
+ "Zhang2019b": [
+  "mathematical-models"
+ ],
+ "petkovStructureIntercalatedCs2002": [
+  "mathematical-models"
+ ],
+ "Wang2023ultracompact": [
+  "mathematical-models"
+ ],
+ "Scremin2018nonlinear": [
+  "mathematical-models"
+ ],
+ "Kumar2017microstructuring": [
+  "mathematical-models"
+ ],
+ "zhangEmergingFrontiersTwodimensional2025": [
+  "mathematical-models"
+ ],
+ "Makogon2012wave": [
+  "mathematical-models"
+ ],
+ "ivanovskiOscillationStructureHall1994": [
+  "mathematical-models"
+ ],
+ "king-smithTheoryPolarizationCrystalline1993": [
+  "mathematical-models"
+ ]
+}

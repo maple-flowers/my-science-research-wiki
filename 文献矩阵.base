@@ -1,17 +1,15 @@
+formulas:
+  未命名: ""
+properties:
+  "note.对领域的贡献::":
+    displayName: "对领域的贡献:"
 views:
   - type: table
     name: 表格
     filters:
       and:
-        - file.tags.contains("🤖️")
-        - file.folder == "科研Wiki/raw/note"
+        - file.folder == "科研Wiki/wiki/papers"
     order:
-      - file.name
-      - 中文标题
-    sort:
-      - property: file.name
-        direction: ASC
-  - type: table
-    name: 视图
-  - type: table
-    name: 视图 2
+      - file.basename
+    columnSize:
+      file.basename: 337

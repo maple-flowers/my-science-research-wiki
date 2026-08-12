@@ -22,7 +22,7 @@ category: [D02, Z01]
    - **极化翻转路径**：如图所示，$\alpha$-MXene 的极化反转通过金属原子的位移实现，具有较低的翻转势垒。
 
    ![Polarization reversal in alpha-MXene](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_5_TZK88HMA.png)
-   *图 1: $\alpha$-MXene 中极化从向下到向上的反转过程及计算势垒（[[../../raw/note/zahraCriticalAnalysisFerroelectric2025|Zahra et al., 2025]]）*
+   *图 1: $\alpha$-MXene 中极化从向下到向上的反转过程及计算势垒（[[../papers/zahraCriticalAnalysisFerroelectric2025|Zahra et al., 2025]]）*
 
 ## 调控手段与动力学
 
@@ -30,18 +30,18 @@ category: [D02, Z01]
    - 最新模拟研究表明，利用**机械弯曲**诱导的层间滑移可实现极化翻转。这种弯曲会产生不可逆的扭结（Kink），包含铁电拓扑畴壁（如 Néel 型或 Ising 型），为“滑动电子学 (Slidetronics)”提供了电场之外的机械调控维度。
    
    ![Mechanical bending induced polarization switching](../../raw/figures/heSwitchingTwodimensionalSliding2025/fig_3_H6HN8MAN.png)
-   *图 2: 弯曲诱导的 31° 和 57° 扭结及其对应的畴壁结构（[[../../raw/note/heSwitchingTwodimensionalSliding2025|He et al., 2025]]）*
+   *图 2: 弯曲诱导的 31° 和 57° 扭结及其对应的畴壁结构（[[../papers/heSwitchingTwodimensionalSliding2025|He et al., 2025]]）*
 
 2. **压电力显微表征 (PFM)**：
    - 实验上常通过 PFM 的相位-偏压迟滞回线和振幅-偏压蝶形曲线来证实超薄层中的铁电切换行为。
 
    ![PFM characterization of ferroelectric composites](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_17_BSC7ZVIJ.png)
-   *图 3: BT/f-Ti3C2Tx 复合材料的 PFM 相位回线与振幅曲线（[[../../raw/note/zahraCriticalAnalysisFerroelectric2025|Zahra et al., 2025]]）*
+   *图 3: BT/f-Ti3C2Tx 复合材料的 PFM 相位回线与振幅曲线（[[../papers/zahraCriticalAnalysisFerroelectric2025|Zahra et al., 2025]]）*
 
 ## 核心应用领域
 
 1. **非挥发性存储器 (NVMT)**：
-   - 具备非破坏性读取、超快读写速度（纳秒级）和超低功耗特性（[[../../raw/note/xueEmergingNonvolatileMemories2011|Xue et al., 2011]]）。
+   - 具备非破坏性读取、超快读写速度（纳秒级）和超低功耗特性（[[../papers/xueEmergingNonvolatileMemories2011|Xue et al., 2011]]）。
 2. **神经形态计算 (Neuromorphic Computing)**：
    - 通过外加脉冲精确调控隧道区域内畴壁的渐进式移动，使 FTJ 展现出多态连续可调的电导。这种行为能够模拟生物突触的长期增强（LTP）与长期抑制（LTD）功能。
 3. **多功能耦合与 2D 多铁性**：
@@ -49,15 +49,15 @@ category: [D02, Z01]
    - **光电/热电耦合**：结合 MXene 的优异光热性能，可开发出基于铁电-焦耳-光电耦合效应的新型传感器。
 
 ![2D Multiferroics Landscape](../../raw/figures/RecentAdvancesGrowth2025/fig_15_TMK8S5HG.png)
-*图 4: 二维多铁性材料的耦合效应及应用概览（[[../../raw/note/RecentAdvancesGrowth2025|Recent Advances in Growth, 2025]]）*
+*图 4: 二维多铁性材料的耦合效应及应用概览（[[../papers/RecentAdvancesGrowth2025|Recent Advances in Growth, 2025]]）*
 
 ## 本库相关论文
 
-- [[../../raw/note/sunSlidingFerroelectricityTwodimensional2025|Sliding ferroelectricity in 2D materials and device applications (Sun et al., 2025)]]：系统总结了滑动铁电机制及其在场效应晶体管和隧道结中的应用。
-- [[../../raw/note/heSwitchingTwodimensionalSliding2025|Switching Two-Dimensional Sliding Ferroelectrics by Mechanical Bending (He et al., 2025)]]：提出了通过机械应力/弯曲切换滑动铁电状态的新机制。
-- [[../../raw/note/zahraCriticalAnalysisFerroelectric2025|A critical analysis of ferroelectric and ferromagnetic properties in two-dimensional MXene (Zahra et al., 2025)]]：深入分析了 MXene 体系的铁电金属性及多功能应用。
-- [[../../raw/note/FerroelectricityMultiferroicityAtomic2023|Ferroelectricity and multiferroicity down to the atomic thickness (Nature Nanotechnology Editorial, 2023)]]：综述了钙钛矿、氧化铪及范德华堆叠在原子级厚度下的进展。
-- [[../../raw/note/yuFerroelectricControlMagnetism2026|Ferroelectric Control of Magnetism and Giant Magnetoresistance (Yu et al., 2026)]]：探讨了铁电对隧道磁电性能的调控。
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025|Sliding ferroelectricity in 2D materials and device applications (Sun et al., 2025)]]：系统总结了滑动铁电机制及其在场效应晶体管和隧道结中的应用。
+- [[../papers/heSwitchingTwodimensionalSliding2025|Switching Two-Dimensional Sliding Ferroelectrics by Mechanical Bending (He et al., 2025)]]：提出了通过机械应力/弯曲切换滑动铁电状态的新机制。
+- [[../papers/zahraCriticalAnalysisFerroelectric2025|A critical analysis of ferroelectric and ferromagnetic properties in two-dimensional MXene (Zahra et al., 2025)]]：深入分析了 MXene 体系的铁电金属性及多功能应用。
+- [[../papers/FerroelectricityMultiferroicityAtomic2023|Ferroelectricity and multiferroicity down to the atomic thickness (Nature Nanotechnology Editorial, 2023)]]：综述了钙钛矿、氧化铪及范德华堆叠在原子级厚度下的进展。
+- [[../papers/yuFerroelectricControlMagnetism2026|Ferroelectric Control of Magnetism and Giant Magnetoresistance (Yu et al., 2026)]]：探讨了铁电对隧道磁电性能的调控。
 
 ## 关联概念与实体
 

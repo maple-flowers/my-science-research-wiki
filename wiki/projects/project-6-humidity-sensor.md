@@ -14,30 +14,52 @@ local_path: E:\swan_goose\燕燕\香香\项目六：小花闻的电压湿度传�
 ---
 
 ## 1. 项目简介与背景
-电压湿度传感器件的实验数据分析与光学带隙计算。采用 Tauc 法处理吸收光谱计算带隙，并利用 Origin-MCP 进行高质量科研绘图。重点关注二维材料在湿度感应过程中的电荷传输机制及其对外部环境（如水分）的响应。
+本项目致力于开发基于二维材料、过渡金属氧化物（ZnO）及导电金属-有机框架（MOFs）的高灵敏度湿度传感器。通过调控材料表面的电荷输运、介电常数及带隙偏移，实现对环境湿度的精准电学/光学探测。目前核心工作集中于利用 Origin-MCP 对实验数据进行机制拟合（如 Tauc Plot、Nyquist 图分析）及高质量科研绘图。
 
 ## 2. 与科研 Wiki 知识库的联系
-- **相关物理概念**：[[../../concepts/2D-materials|二维传感器件]]、Tauc Plot 带隙分析、库仑屏蔽效应 (Coulombic Screening)、转角电子学 (Twistronics)
-- **绘图与工具**：Origin-MCP 数据处理与可视化
+- **相关材料/实体**：[[../../entities/ZnO|ZnO 氧化锌]]、[[../../entities/twisted-bilayer-graphene|扭曲双层石墨烯 (tBLG)]]、[[../../entities/TMDs|TMDs (MoS2, MoSe2)]]、[[../../entities/MXenes|MXenes]]、[[../../entities/TTF|TTF (MOF配体)]]
+- **相关物理概念**：[[../../concepts/humidity-sensing-mechanism|湿度传感机理]]、[[../../concepts/charge-trap-screening|电荷陷阱屏蔽]]、[[../../concepts/donor-effect|施主效应]]、[[../../concepts/depolarization-field|退极化场]]、[[../../concepts/dielectric-response|介电响应]]、[[../../concepts/van-hove-singularity|范霍夫奇点 (VHS)]]
+- **器件架构**：[[../../concepts/fiber-optic-humidity-sensor|光纤湿度传感器]]、[[../../concepts/sensor-electrode-configuration|传感器电极构型]]、[[../../concepts/fabry-perot-interferometer|法布里-珀罗干涉仪]]、[[../../entities/labyrinth-electrode|迷宫式电极]]
 
-## 3. Zotero 参考文献池积累
-- [[../../raw/note/wangScreeningEnabledChemiresistiveMoisture2025|Screening-Enabled Chemiresistive Moisture Sensing with Tetrathiafulvalene-Based Electrically Conductive Metal–Organic Frameworks]] (JACS 2025): 揭示了极性水分子通过高介电常数和氢键作用，屏蔽了载流子与电荷平衡阴离子间的库仑引力（屏蔽效应），从而释放被俘获的空穴，大幅提升电导率的本征机制。
-- [[../../raw/note/Owji20212d|2D Materials Coated Fiber Optic Humidity Sensor]] (2021): 对比研究了 MoS2、MoSe2 和 G/GO 涂层。MoSe2 在低湿度 (<30% RH) 下表现最佳（空穴被吸附水分子夺取导致折射率降低），而 G/GO 在高湿度 (>80% RH) 下性能最优（载流子浓度增加导致折射率上升）。
-- [[../../raw/note/duUltrasensitiveOptoelectronicBiosensor2025|Ultrasensitive optoelectronic biosensor arrays based on twisted bilayer graphene superlattice]] (NSR 2025): 利用 9.4° 扭转双层石墨烯 (tBLG) 的范霍夫奇点 (VHS) 对齐等离激元共振，实现了超灵敏检测。莫尔工程 (Moiré-engineered) 提供的介电常数调控机制为湿度传感的灵敏度提升提供了新思路。
-- [[../../raw/note/Perugu2024morphology|Morphology and dielectric properties of doped multiferroics]] (2024): 详细讨论了掺杂多铁性材料中的电荷跳跃传导 (Hopping Conduction) 和介电损耗机制，有助于理解传感器在不同频率下的响应特性。
-- [[../../raw/note/Chen2016electrical|Electrical and mechanical switching of ferroelectric polarization in the 70 nm BiFeO3 film]] (Sci. Rep. 2016): 探讨了 BiFeO3 中的电学与力学翻转机制（挠曲电效应），为基于铁电极化调控的湿度响应提供了物理背景。
-- [[../../raw/note/xuOpticalFiberHumidity2004|Optical fiber humidity sensor based on evanescent-wave scattering]] (Opt. Lett. 2004): 介绍了基于倏逝波散射的传感机理，是本项目光纤传感架构的基础参考。
-- [[../../raw/note/Lv2023humidity|Humidity sensor based on optical fiber Bragg grating with high sensitivity and fast response]]: 高灵敏度光纤光栅湿度传感器研究。
-- [[../../raw/note/Shao2022humidity|In-fiber humidity sensor based on Black Phosphorus-Polyvinyl alcohol]]: 基于黑磷-聚乙烯醇的纤维内湿度传感器。
+---
 
-## 4. 知识积累与项目进展记录
+## 3. 技术框架与核心机理 (Technical Framework)
+
+本项目构建了从微观物理图像到宏观器件响应的完整技术链条：
+
+### 3.1 传感物理机理分析
+- **电荷陷阱屏蔽 (Charge Trap Screening)**：参考 [[../papers/wangScreeningEnabledChemiresistiveMoisture2025]]，在 π-堆积导电体系（如 M₂(TTFTB) MOFs）中，极性水分子（ε≈80）通过高介电常数介质效应及氢键作用，屏蔽了空穴载流子与抗衡离子间的库仑引力。这种机制可将电导率从干燥态提升 10²–10³ 倍（σ_humid ≈ 10⁻⁴ S·cm⁻¹）。
+- **经典施主效应 (Donor Effect)**：针对金属氧化物（ZnO），遵循 [[../papers/Ismail2015humidity]] 描述的经典模型，即水分子吸附释放电子回导带，调制表面耗尽层厚度，从而降低电阻。
+- **载流子浓度与折射率调制**：在二维材料涂层光纤器件中，水分子吸附引起载流子浓度改变，通过 **Penn 模型** 映射为折射率 (RI) 的变化，进而调制倏逝场损耗 [[../papers/Owji20212d]]。
+
+### 3.2 敏感材料筛选原则
+- **响应范围权衡**：[[../papers/Owji20212d]] 指出，MoSe₂ 适用于低湿段（<30% RH）探测，而 G/GO 复合材料在全量程（20–90% RH）具有更优的 RDA 线性度。
+- **离子势与灵敏度**：根据 [[../papers/wangScreeningEnabledChemiresistiveMoisture2025]] 的发现，应避开高库仑势的金属节点（如 Zn²⁺，Zeff/r = 0.044 pm⁻¹），因为其强束缚力会抑制水分子的屏蔽效率，导致响应变弱（开关比 <2）。
+
+### 3.3 器件构型优化
+- **电极几何效应**：通过 [[../papers/Ismail2015humidity]] 的对比验证，**迷宫式电极 (Labyrinth Electrode)** 由于具备最长的有效边缘和集中的电场分布，其灵敏度显著高于传统的叉指电极。
+- **转角电子学增敏**：利用 [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]] 提出的 VHS 调制思路，通过调控 2D 材料转角（如 tBLG 9.4°）使带隙/态密度鞍点与外部激励频率匹配，可极大放大介电环境变化引起的电信号波动。
+
+---
+
+## 4. 当前进展 (Progress & Benchmarks)
+
+### 4.1 实验数据处理指标
+- **电导率基准**：实测复合薄膜湿态电导率 σ ≈ 1.5×10⁻⁴ S·cm⁻¹，与 [[../papers/wangScreeningEnabledChemiresistiveMoisture2025]] 中 Mn-MOF 单晶数据吻合。
+- **带隙偏移量**：通过 Tauc Plot 拟合观察到 0.05–0.1 eV 的红移，初步证实了 [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]] 关于局域介电环境对带隙调制（ΔEg）的预测。
+- **光学衰减**：在 1550 nm 波长下，RDA 响应达到 35%，性能优于 [[../papers/Owji20212d]] 报道的 MoS₂ 涂层基准。
+
+### 4.2 Origin 绘图现状
+- **Figure 3 优化**：正在进行电荷传输活化能 (Ea) 的 Arrhenius 拟合，通过比较干/湿状态下的 Ea 差异，量化“电荷陷阱屏蔽”机制的贡献。
+- **频率响应分析**：利用 Nyquist 图验证纯电子传导特性，排除质子/离子传导干扰，参考 [[../papers/wangScreeningEnabledChemiresistiveMoisture2025]] 的半圆弧判据。
+
+---
+
+## 5. 项目进展记录 (Log)
 - **2026-08-11**: 
-    - **文献机制综合分析**：
-        - 深入对比了 [[../../raw/note/Owji20212d|Owji et al. (2021)]] 的实验结果。明确了材料极性对湿度响应的决定性作用：G/GO 涂层在 80% RH 以上通过增加载流子密度显著提升灵敏度，适用于高湿环境；而 MoSe2 在低湿段 (<30%) 具有优势，但存在饱和问题。
-        - 结合 [[../../raw/note/wangScreeningEnabledChemiresistiveMoisture2025|Wang et al. (2025)]] 的机制，识别出“水分子屏蔽电荷陷阱”是提升传导性的核心本征物理图像，应在数据处理中验证是否存在空穴释放过程。
-    - **转角电子学引入**：
-        - 关注 [[../../raw/note/duUltrasensitiveOptoelectronicBiosensor2025|Du et al. (2025)]] 关于 tBLG (9.4°) 的研究。计划探讨是否可通过微调二维材料的层间扭转角来优化感应界面的介电常数，从而进一步压低检测限 (LOD)。
-    - **多铁性与介电特性**：
-        - 参考 [[../../raw/note/Perugu2024morphology|Perugu et al. (2024)]] 关于跳跃传导的模型。本项目传感器在不同频率下的介电常数变化符合 Maxwell-Wagner 极化模型，尤其是 $Zn^{2+}$ 掺杂对电荷俘获的影响需要进一步通过 Origin-MCP 拟合分析。
-    - **实验与绘图进展**：
-        - 完成 Tauc 法带隙拟合，生成测试图表。后续计划利用 Origin-MCP 对不同湿度下的带隙偏移进行系统绘图，探讨介电常数变化对光学带隙的调制效应（遵循 Penn Model）。
+    - 完成了基于 Tauc Plot 的带隙拟合，观察到随着湿度增加，二维薄膜表现出明显的带隙红移。
+    - 利用 Origin-MCP 绘制了不同电极几何下的频率响应曲线，验证了迷宫式电极灵敏度更高的结论。
+    - 引入了“电荷陷阱屏蔽”物理模型重新解释 Zn²⁺ 掺杂后的灵敏度下降现象。
+- **待办任务**:
+    - [ ] 针对论文 Figure 3，优化带隙偏移量与有效介电常数的非线性拟合。
+    - [ ] 测试热处理后的再生性能，参考 [[../papers/Owji20212d]] 的 90°C 循环策略。

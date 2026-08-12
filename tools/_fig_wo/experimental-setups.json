@@ -1,0 +1,644 @@
+[
+ {
+  "citekey": "2019optical",
+  "filename": "fig_1_BJNL3G4F.png",
+  "alt": "图1 测量系统框图：输入-过程-输出",
+  "path": "../../raw/figures/2019optical/fig_1_BJNL3G4F.png"
+ },
+ {
+  "citekey": "2019optical",
+  "filename": "fig_2_FULPP47Y.png",
+  "alt": "图2 光纤传感器系统示意图（光源-调制区-探测器）",
+  "path": "../../raw/figures/2019optical/fig_2_FULPP47Y.png"
+ },
+ {
+  "citekey": "2019optical",
+  "filename": "fig_3_KR9YLLPQ.png",
+  "alt": "图3 湿度测量系统总体框图（激光源-TiO2-SiO2光纤-湿度腔-光电二极管-Arduino-LCD/PC）",
+  "path": "../../raw/figures/2019optical/fig_3_KR9YLLPQ.png"
+ },
+ {
+  "citekey": "2019optical",
+  "filename": "fig_4_BFV9Y8WP.png",
+  "alt": "图4 剥离长度1 cm时湿度-电压关系",
+  "path": "../../raw/figures/2019optical/fig_4_BFV9Y8WP.png"
+ },
+ {
+  "citekey": "2019optical",
+  "filename": "fig_5_5XEUBXZM.png",
+  "alt": "图5 剥离长度2 cm时湿度-电压关系（最优，R²=0.982，灵敏度0.0376 V/%）",
+  "path": "../../raw/figures/2019optical/fig_5_5XEUBXZM.png"
+ },
+ {
+  "citekey": "2019optical",
+  "filename": "fig_6_GZ2SLHRB.png",
+  "alt": "图6 剥离长度3 cm时湿度-电压关系",
+  "path": "../../raw/figures/2019optical/fig_6_GZ2SLHRB.png"
+ },
+ {
+  "citekey": "2019optical",
+  "filename": "fig_7_J268S4RT.png",
+  "alt": "图7 2 cm剥离长度下湿度-ADC值校准曲线 y=0.131x−22.58，R²=0.984",
+  "path": "../../raw/figures/2019optical/fig_7_J268S4RT.png"
+ },
+ {
+  "citekey": "2019optical",
+  "filename": "tab_1_64NAU4YA.png",
+  "alt": "表1 自制仪器与标准湿度计5点对比，平均误差2.78%",
+  "path": "../../raw/figures/2019optical/tab_1_64NAU4YA.png"
+ },
+ {
+  "citekey": "Doroodmand2017conjugated",
+  "filename": "fig_1_SCVHIKUS.png",
+  "alt": "图1 湿度光学传感器装置示意图：1500 mL 玻璃腔、白光LED、相机、玻碳探针、IR光源、参考湿度计",
+  "path": "../../raw/figures/Doroodmand2017conjugated/fig_1_SCVHIKUS.png"
+ },
+ {
+  "citekey": "Doroodmand2017conjugated",
+  "filename": "tab_1_7D7D2S6F.png",
+  "alt": "表1 本传感器与先前报道的阻抗型湿度传感器性能对比（线性度、响应/恢复时间、线性范围、迟滞）",
+  "path": "../../raw/figures/Doroodmand2017conjugated/tab_1_7D7D2S6F.png"
+ },
+ {
+  "citekey": "Goswami2011multiferroic",
+  "filename": "fig_2_G3IS8VEN.png",
+  "alt": "图2 跨 TN 多个温度下的 XRD 实验谱与 FullProf 精修结果（R3c）",
+  "path": "../../raw/figures/Goswami2011multiferroic/fig_2_G3IS8VEN.png"
+ },
+ {
+  "citekey": "Goswami2011multiferroic",
+  "filename": "fig_3_9WFFLRUD.png",
+  "alt": "图3 室温 0 T 与 5 T 下的中子衍射实验谱与精修结果（λ=2.41 Å）",
+  "path": "../../raw/figures/Goswami2011multiferroic/fig_3_9WFFLRUD.png"
+ },
+ {
+  "citekey": "Jin2015studying",
+  "filename": "fig_2_MUN94SVB.png",
+  "alt": "图2 PFM实验装置示意、表面形貌及极化前后VPFM/x-LPFM图像",
+  "path": "../../raw/figures/Jin2015studying/fig_2_MUN94SVB.png"
+ },
+ {
+  "citekey": "Jin2015studying",
+  "filename": "fig_3_YANLELY3.png",
+  "alt": "图3 差分PFM图像、71/109/180度翻转实例及面积统计饼图",
+  "path": "../../raw/figures/Jin2015studying/fig_3_YANLELY3.png"
+ },
+ {
+  "citekey": "Kumar2017microstructuring",
+  "filename": "fig_3_YY3P3QFG.png",
+  "alt": "图3 SU-8/AR-N 4340 中制备的 2D 光栅、微盘、IIT Kanpur 校徽、6 μm 3D 微柱阵列",
+  "path": "../../raw/figures/Kumar2017microstructuring/fig_3_YY3P3QFG.png"
+ },
+ {
+  "citekey": "Kumar2017microstructuring",
+  "filename": "fig_4_HUGYSKHH.png",
+  "alt": "图4 1.3 NA 油浸物镜获得的高分辨光栅 AFM 形貌，线轮廓 FWHM ≈ 500 nm",
+  "path": "../../raw/figures/Kumar2017microstructuring/fig_4_HUGYSKHH.png"
+ },
+ {
+  "citekey": "Nakanishi2009full",
+  "filename": "fig_4_C7TIS8Z6.png",
+  "alt": "图4 概率函数对比",
+  "path": "../../raw/figures/Nakanishi2009full/fig_4_C7TIS8Z6.png"
+ },
+ {
+  "citekey": "Owji20212d",
+  "filename": "fig_1_98CHAIYT.png",
+  "alt": "G/GO多模态表征",
+  "path": "../../raw/figures/Owji20212d/fig_1_98CHAIYT.png"
+ },
+ {
+  "citekey": "Owji20212d",
+  "filename": "fig_2_85FTWFJ3.png",
+  "alt": "MoSe2多模态表征",
+  "path": "../../raw/figures/Owji20212d/fig_2_85FTWFJ3.png"
+ },
+ {
+  "citekey": "Owji20212d",
+  "filename": "fig_3_KCZ5KA3C.png",
+  "alt": "MoS2多模态表征",
+  "path": "../../raw/figures/Owji20212d/fig_3_KCZ5KA3C.png"
+ },
+ {
+  "citekey": "Owji20212d",
+  "filename": "fig_4_G28F63FH.png",
+  "alt": "ESMF及涂层SEM",
+  "path": "../../raw/figures/Owji20212d/fig_4_G28F63FH.png"
+ },
+ {
+  "citekey": "Owji20212d",
+  "filename": "fig_5_IRYG438B.png",
+  "alt": "制备与测试装置示意",
+  "path": "../../raw/figures/Owji20212d/fig_5_IRYG438B.png"
+ },
+ {
+  "citekey": "Owji20212d",
+  "filename": "fig_6_BASLP7NW.png",
+  "alt": "RDA-RH核心曲线",
+  "path": "../../raw/figures/Owji20212d/fig_6_BASLP7NW.png"
+ },
+ {
+  "citekey": "Owji20212d",
+  "filename": "fig_7_GRUWVRJD.png",
+  "alt": "重复性与标定拟合",
+  "path": "../../raw/figures/Owji20212d/fig_7_GRUWVRJD.png"
+ },
+ {
+  "citekey": "Owji20212d",
+  "filename": "fig_8_RCK6WPNT.png",
+  "alt": "灵敏度对比",
+  "path": "../../raw/figures/Owji20212d/fig_8_RCK6WPNT.png"
+ },
+ {
+  "citekey": "Perugu2024morphology",
+  "filename": "fig_1_IKKL6V54.png",
+  "alt": "XRD patterns of BLFO nanoparticles",
+  "path": "../../raw/figures/Perugu2024morphology/fig_1_IKKL6V54.png"
+ },
+ {
+  "citekey": "Perugu2024morphology",
+  "filename": "fig_2_JGXD77K2.png",
+  "alt": "FESEM images of BLFO nanoparticles",
+  "path": "../../raw/figures/Perugu2024morphology/fig_2_JGXD77K2.png"
+ },
+ {
+  "citekey": "Perugu2024morphology",
+  "filename": "fig_3_JUCADD23.png",
+  "alt": "TEM images of BLFO nanoparticles",
+  "path": "../../raw/figures/Perugu2024morphology/fig_3_JUCADD23.png"
+ },
+ {
+  "citekey": "RecentAdvancesGrowth2025",
+  "filename": "fig_5_ATZ3HWYI.png",
+  "alt": "图5 CVD界面调制生长晶圆级单胞Cr₂S₃（AFM单层厚1.8 nm）",
+  "path": "../../raw/figures/RecentAdvancesGrowth2025/fig_5_ATZ3HWYI.png"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "filename": "fig_1_L9TCNR8X.png",
+  "alt": "图1 G/GO纳米片FESEM形貌、EDX能谱与C/O元素mapping",
+  "path": "../../raw/figures/Tobeiha2025optical/fig_1_L9TCNR8X.png"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "filename": "fig_4_ZCMERMYH.png",
+  "alt": "图4 暗态下ΔI随电压与湿度的变化",
+  "path": "../../raw/figures/Tobeiha2025optical/fig_4_ZCMERMYH.png"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "filename": "fig_6_6MRB2R5R.png",
+  "alt": "图6 光-湿耦合核心数据：ΔI′/ΔI′′/ΔI′′′拆解",
+  "path": "../../raw/figures/Tobeiha2025optical/fig_6_6MRB2R5R.png"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "filename": "fig_7_QLKTIAUR.png",
+  "alt": "图7 响应/恢复时间与循环稳定性",
+  "path": "../../raw/figures/Tobeiha2025optical/fig_7_QLKTIAUR.png"
+ },
+ {
+  "citekey": "Unknown2003charge",
+  "filename": "fig_1_PVI4APFY.png",
+  "alt": "图1 77 K 下 (BEDT-TTF)₁.₅CuCl₂(a) 与 (BEDT-TTF)₁.₅CuBr₂(b) 的 X 波段 EPR 谱，同时显示 BEDT-TTF⁺ 自由基峰与 Cu(II) 四重超精细分裂，Br 化物中 Cu(II) 信号更强",
+  "path": "../../raw/figures/Unknown2003charge/fig_1_PVI4APFY.png"
+ },
+ {
+  "citekey": "Unknown2003charge",
+  "filename": "tab_2_D6DYHUT9.png",
+  "alt": "表2 BEDT-TTF 及两种化合物的循环伏安峰电位 (V vs Ag/Ag⁺)",
+  "path": "../../raw/figures/Unknown2003charge/tab_2_D6DYHUT9.png"
+ },
+ {
+  "citekey": "Unknown2025diffractive",
+  "filename": "fig_2_659W9S3I.png",
+  "alt": "图2 制造DOE的2.5倍光学显微镜俯视图，可见相位图样及缺陷小孔",
+  "path": "../../raw/figures/Unknown2025diffractive/fig_2_659W9S3I.png"
+ },
+ {
+  "citekey": "Unknown2025diffractive",
+  "filename": "fig_3_UAU27GWL.png",
+  "alt": "图3 DOE中心45度倾角SEM图像（1000倍），可见阶梯效应和表面粗糙度",
+  "path": "../../raw/figures/Unknown2025diffractive/fig_3_UAU27GWL.png"
+ },
+ {
+  "citekey": "Unknown2025diffractive",
+  "filename": "tab_1_UZ8F8VCU.png",
+  "alt": "表1 2PP工艺参数：功率25mW、扫速10mm/s、层厚0.1μm、填充0.3μm、材料FemtoBond",
+  "path": "../../raw/figures/Unknown2025diffractive/tab_1_UZ8F8VCU.png"
+ },
+ {
+  "citekey": "Wang2023ultracompact",
+  "filename": "fig_2_P5YTRJBX.png",
+  "alt": "图2 飞秒激光TPP平台与偶相位板（m=2,q=12）设计/SEM/实测高度，误差~0.2μm",
+  "path": "../../raw/figures/Wang2023ultracompact/fig_2_P5YTRJBX.png"
+ },
+ {
+  "citekey": "Wang2023ultracompact",
+  "filename": "fig_3_VUFTF2IG.png",
+  "alt": "图3 螺旋相位板（m=3,q=2）设计相位、SEM与逐层台阶状实测高度",
+  "path": "../../raw/figures/Wang2023ultracompact/fig_3_VUFTF2IG.png"
+ },
+ {
+  "citekey": "Wang2023ultracompact",
+  "filename": "fig_5_7PBM4FCJ.png",
+  "alt": "图5 4-f系统实验表征光路（BE→MPP→L1→RS→L2→RAP→CCD）",
+  "path": "../../raw/figures/Wang2023ultracompact/fig_5_7PBM4FCJ.png"
+ },
+ {
+  "citekey": "Wei2021",
+  "filename": "fig_1_UIMKRHUI.png",
+  "alt": "模型构建示意图",
+  "path": "../../raw/figures/Wei2021/fig_1_UIMKRHUI.png"
+ },
+ {
+  "citekey": "Wixtrom2011electrical",
+  "filename": "fig_4_MP2B22N5.png",
+  "alt": "图4 黑色多晶型TTF-CA压片的循环伏安曲线（±6 V，近线性电阻行为）",
+  "path": "../../raw/figures/Wixtrom2011electrical/fig_4_MP2B22N5.png"
+ },
+ {
+  "citekey": "XiaokangZhang2013calibrating",
+  "filename": "fig_1_ANUNFWXE.png",
+  "alt": "图1 光纤湿度传感器实物：光纤固定于镂空平板，两侧铜线保护，中段涂覆琼脂糖",
+  "path": "../../raw/figures/XiaokangZhang2013calibrating/fig_1_ANUNFWXE.png"
+ },
+ {
+  "citekey": "XiaokangZhang2013calibrating",
+  "filename": "fig_3_3L3M3YGV.png",
+  "alt": "图3 30–100% RH、25–34°C 范围内的 701×91 校准矩阵（分辨率 0.1% RH、0.1°C）",
+  "path": "../../raw/figures/XiaokangZhang2013calibrating/fig_3_3L3M3YGV.png"
+ },
+ {
+  "citekey": "XiaokangZhang2013calibrating",
+  "filename": "fig_4_PW6KLWFM.png",
+  "alt": "图4 新拌混凝土 33 小时监测中湿度传感器（A_H）与温度传感器（A_T，放大10倍取整）的原始光功率输出",
+  "path": "../../raw/figures/XiaokangZhang2013calibrating/fig_4_PW6KLWFM.png"
+ },
+ {
+  "citekey": "XiaokangZhang2013calibrating",
+  "filename": "fig_5_YJ46D44S.png",
+  "alt": "图5 经校准矩阵反演后的混凝土内部 RH（100%→68.9%）与温度（升至 32.3°C 后降至 28°C）演化曲线",
+  "path": "../../raw/figures/XiaokangZhang2013calibrating/fig_5_YJ46D44S.png"
+ },
+ {
+  "citekey": "Yarai2005optical",
+  "filename": "fig_1_JN75GA67.png",
+  "alt": "传感头与测量系统示意图，SLF对、泵浦/探测光路、滤光片与锁相检测",
+  "path": "../../raw/figures/Yarai2005optical/fig_1_JN75GA67.png"
+ },
+ {
+  "citekey": "Yarai2005optical",
+  "filename": "fig_2_HW3467S2.png",
+  "alt": "检测信号幅度随相对湿度变化（14/18/22°C 三条拟合线），fm=10 Hz、泵浦100 mW、R=10 μm",
+  "path": "../../raw/figures/Yarai2005optical/fig_2_HW3467S2.png"
+ },
+ {
+  "citekey": "Yarai2005optical",
+  "filename": "fig_3_CQNZVRBT.png",
+  "alt": "归一化检测信号与估算绝对湿度随空气温度变化（RH=15%与45%两组），D.A.为干空气",
+  "path": "../../raw/figures/Yarai2005optical/fig_3_CQNZVRBT.png"
+ },
+ {
+  "citekey": "Zhang2002b",
+  "filename": "fig_2_XUHQZPIE.png",
+  "alt": "连续冷却的等温离散化",
+  "path": "../../raw/figures/Zhang2002b/fig_2_XUHQZPIE.png"
+ },
+ {
+  "citekey": "Zhang2002b",
+  "filename": "fig_4_GILHIVAN.png",
+  "alt": "CA邻居定义",
+  "path": "../../raw/figures/Zhang2002b/fig_4_GILHIVAN.png"
+ },
+ {
+  "citekey": "Zhang2002b",
+  "filename": "fig_7_XNUWJQCG.png",
+  "alt": "实验与模拟对比",
+  "path": "../../raw/figures/Zhang2002b/fig_7_XNUWJQCG.png"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "filename": "fig_11_C5MNERW5.png",
+  "alt": "1°C/s下实验金相与模拟组织对比",
+  "path": "../../raw/figures/Zhang2003a/fig_11_C5MNERW5.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "fig_2_34UVRTQI.png",
+  "alt": "图2 1421/1422/1441/1661原子对示意图",
+  "path": "../../raw/figures/Zhang2019a/fig_2_34UVRTQI.png"
+ },
+ {
+  "citekey": "chenHafniumBasedFerroelectricPostMoore2026",
+  "filename": "fig_5_CWFJTDMK.png",
+  "alt": "物理机制图解",
+  "path": "../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_5_CWFJTDMK.png"
+ },
+ {
+  "citekey": "chenHafniumBasedFerroelectricPostMoore2026",
+  "filename": "fig_6_N4SVXSM2.png",
+  "alt": "性能表征图集",
+  "path": "../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_6_N4SVXSM2.png"
+ },
+ {
+  "citekey": "chenHafniumBasedFerroelectricPostMoore2026",
+  "filename": "tab_1_FSTFNUCW.png",
+  "alt": "掺杂HfO2性能对比表",
+  "path": "../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/tab_1_FSTFNUCW.png"
+ },
+ {
+  "citekey": "cheongMultiferroicsMagneticTwist2007a",
+  "filename": "fig_6_7B4LX9VV.png",
+  "alt": "图6 螺旋((Eu,Y)MnO₃)与非螺旋(YMn₂O₅交换伸缩)磁致电电性对比及P∥e₃×Q定则",
+  "path": "../../raw/figures/cheongMultiferroicsMagneticTwist2007a/fig_6_7B4LX9VV.png"
+ },
+ {
+  "citekey": "cossuStackingChargedensityWaves2024",
+  "filename": "fig_7_DY75UYF5.png",
+  "alt": "图7：纯 GGA（无 vdW 修正）下的补充 STM 模拟",
+  "path": "../../raw/figures/cossuStackingChargedensityWaves2024/fig_7_DY75UYF5.png"
+ },
+ {
+  "citekey": "cossuStackingChargedensityWaves2024",
+  "filename": "fig_8_U6BTPHHS.png",
+  "alt": "图8：基态 HC-HC_(S3) 在不同偏压下的 STM 图像",
+  "path": "../../raw/figures/cossuStackingChargedensityWaves2024/fig_8_U6BTPHHS.png"
+ },
+ {
+  "citekey": "cossuStackingChargedensityWaves2024",
+  "filename": "fig_9_TJ7WPXTW.png",
+  "alt": "图9：结构因子原始数据点（附录 B）",
+  "path": "../../raw/figures/cossuStackingChargedensityWaves2024/fig_9_TJ7WPXTW.png"
+ },
+ {
+  "citekey": "duUltrasensitiveOptoelectronicBiosensor2025",
+  "filename": "fig_1_BXNBIMFM.png",
+  "alt": "图1 传感器结构、激子-等离激元耦合原理与CRISPR检测流程",
+  "path": "../../raw/figures/duUltrasensitiveOptoelectronicBiosensor2025/fig_1_BXNBIMFM.png"
+ },
+ {
+  "citekey": "duUltrasensitiveOptoelectronicBiosensor2025",
+  "filename": "fig_6_5U9MCGPA.png",
+  "alt": "图6 空间光电流成像与肺癌临床样本qPCR对比验证",
+  "path": "../../raw/figures/duUltrasensitiveOptoelectronicBiosensor2025/fig_6_5U9MCGPA.png"
+ },
+ {
+  "citekey": "fornerQuantumTemperatureEffects1993",
+  "filename": "fig_1_ZWUNGVGZ.png",
+  "alt": "图1 蛋白质中氢键通道示意，标注 W/M/J/X",
+  "path": "../../raw/figures/fornerQuantumTemperatureEffects1993/fig_1_ZWUNGVGZ.png"
+ },
+ {
+  "citekey": "fornerQuantumTemperatureEffects1993",
+  "filename": "fig_6_T99ZL7CA.png",
+  "alt": "图6 单链 W=13/M=114m_p 与 W=39/M=342m_p 对比，验证 3 倍参数才能复现三链",
+  "path": "../../raw/figures/fornerQuantumTemperatureEffects1993/fig_6_T99ZL7CA.png"
+ },
+ {
+  "citekey": "guanRecentProgressTwoDimensional2020",
+  "filename": "fig_6_3VRPTQHT.png",
+  "alt": "图6 α-In2Se3：a)薄片AFM/PFM相位振幅；b)mica上2-6 nm厚In2Se3的IP PFM相位及翻转后图像",
+  "path": "../../raw/figures/guanRecentProgressTwoDimensional2020/fig_6_3VRPTQHT.png"
+ },
+ {
+  "citekey": "guanRecentProgressTwoDimensional2020",
+  "filename": "fig_12_4NNKT9MX.png",
+  "alt": "图12 BA2PbCl4：a)表面形貌与不同方位角的角分辨PFM（蓝箭头标识极化矢量）；b)50 nm薄片用共面电极、40 nm薄片用扫描探针的侧向PFM",
+  "path": "../../raw/figures/guanRecentProgressTwoDimensional2020/fig_12_4NNKT9MX.png"
+ },
+ {
+  "citekey": "hanPolarTopologicalMaterials2025",
+  "filename": "fig_8_T55NYWX7.png",
+  "alt": "铁电氧化物纳米结构中的极性拓扑：几何约束示意图；BFO纳米岛中心畴/涡旋畴的PFM矢量图与相场模拟；BFO纳米晶中的极性所罗门环",
+  "path": "../../raw/figures/hanPolarTopologicalMaterials2025/fig_8_T55NYWX7.png"
+ },
+ {
+  "citekey": "hanPolarTopologicalMaterials2025",
+  "filename": "fig_10_VZUXER45.png",
+  "alt": "多场操控：HAADF-STEM实时观测PTO/STO涡旋→波→极化向下；BFO纳米岛电场诱导中心↔涡旋相变；P(VDF-TrFE)力/电螺旋旋转；光脉冲/热致3D超晶相",
+  "path": "../../raw/figures/hanPolarTopologicalMaterials2025/fig_10_VZUXER45.png"
+ },
+ {
+  "citekey": "kimObservationPhaseTransition1997",
+  "filename": "fig_4_UBIPM8AI.png",
+  "alt": "图4 另一处高压脉冲后典型 STM 像，多个 H 相区域的相界均沿晶体方向呈 60° 特征角，102×102 Å",
+  "path": "../../raw/figures/kimObservationPhaseTransition1997/fig_4_UBIPM8AI.png"
+ },
+ {
+  "citekey": "kresseUltrasoftPseudopotentialsProjector1999c",
+  "filename": "tab_2_KYMT83C9.png",
+  "alt": "PAW 数据集与 US-PP 参数：价态、截断半径、截断能（表II）",
+  "path": "../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/tab_2_KYMT83C9.png"
+ },
+ {
+  "citekey": "majumdarInterplayChargeDensity2020",
+  "filename": "fig_1_ZD74FXXV.png",
+  "alt": "图1 磁光成像：Tc 标定与磁通穿透（低场迈斯纳态、高场缺陷引导穿透）",
+  "path": "../../raw/figures/majumdarInterplayChargeDensity2020/fig_1_ZD74FXXV.png"
+ },
+ {
+  "citekey": "martinThinfilmFerroelectricMaterials2016",
+  "filename": "fig_3_E2ECUFLB.png",
+  "alt": "图3 热学性质：PbZr0.95Ti0.05O3电卡ΔT>12 K；热释电本征/外禀/次级贡献解耦；BaTiO3单晶直接vs间接电卡测量对比；PZT中电场可逆调控热导率~11%",
+  "path": "../../raw/figures/martinThinfilmFerroelectricMaterials2016/fig_3_E2ECUFLB.png"
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "filename": "fig_8_EKWLWV8J.png",
+  "alt": "图7 Ti3C2Tx经DMSO插层—水分层—丁达尔效应胶体—过滤成纸的全过程示意",
+  "path": "../../raw/figures/naguib25thAnniversaryArticle2013a/fig_8_EKWLWV8J.png"
+ },
+ {
+  "citekey": "neumayerCompetingPolarPhases2025",
+  "filename": "fig_1_4FMFYJBN.png",
+  "alt": "图1 顺电/弛豫体/反铁电/铁电四种极性有序度示意",
+  "path": "../../raw/figures/neumayerCompetingPolarPhases2025/fig_1_4FMFYJBN.png"
+ },
+ {
+  "citekey": "pedramraziManipulatingTopologicalDomain2019",
+  "filename": "fig_2_CEYQDS2J.png",
+  "alt": "图2 三种1T′/1T′畴界(120°/60°/0°)的STM形貌、DFT弛豫结构与STS dI/dV谱对比",
+  "path": "../../raw/figures/pedramraziManipulatingTopologicalDomain2019/fig_2_CEYQDS2J.png"
+ },
+ {
+  "citekey": "perdewGeneralizedGradientApproximation1996a",
+  "filename": "fig_1_JDC9MYFC.png",
+  "alt": "图1 增强因子对比",
+  "path": "../../raw/figures/perdewGeneralizedGradientApproximation1996a/fig_1_JDC9MYFC.png"
+ },
+ {
+  "citekey": "petkovStructureIntercalatedCs2002",
+  "filename": "fig_1_2TLQSU8V.png",
+  "alt": "图1：原始Si32O64和CsxSi32O64的粉末衍射图样(a)及结构函数S(Q)(b)",
+  "path": "../../raw/figures/petkovStructureIntercalatedCs2002/fig_1_2TLQSU8V.png"
+ },
+ {
+  "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+  "filename": "fig_1_VIE5IKT4.png",
+  "alt": "图1 PAW加性缀加示意：(a)全空间平面波赝量，(b)减赝单中心项，(c)加全电子单中心项",
+  "path": "../../raw/figures/shishkinImplementationPerformanceFrequencydependentGWmethod2006/fig_1_VIE5IKT4.png"
+ },
+ {
+  "citekey": "shuTwoDimensionalBlackArsenic2020",
+  "filename": "fig_7_XLTSTL6I.png",
+  "alt": "图7 EDF/TDF 光纤激光器环形腔装置示意图",
+  "path": "../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_7_XLTSTL6I.png"
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "filename": "fig_1_GZQKY2GB.png",
+  "alt": "ED Fig.1 NiI2 晶体的 X 射线与电子衍射",
+  "path": "../../raw/figures/songEvidenceSinglelayerVan2022/fig_1_GZQKY2GB.png"
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "filename": "fig_6_VIW6WRL3.png",
+  "alt": "Fig.6 CVD制备与UV胶带转移",
+  "path": "../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_6_VIW6WRL3.png"
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "filename": "tab_1_N6IMKLEB.png",
+  "alt": "Table 1 四类铁电材料优缺点对比",
+  "path": "../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/tab_1_N6IMKLEB.png"
+ },
+ {
+  "citekey": "tanRevealingEmergentMagnetic2024",
+  "filename": "fig_532_PAC4JMMV.png",
+  "alt": "图1 α-Fe₂O₃ 的 DQM 实验装置、ODMR 谱及 4 K/300 K 下重构的 Bz 磁场图，呈现莫林相变两侧磁相对比",
+  "path": "../../raw/figures/tanRevealingEmergentMagnetic2024/fig_532_PAC4JMMV.png"
+ },
+ {
+  "citekey": "tangGridbasedBaderAnalysis2009",
+  "filename": "fig_3_RLCNJDLK.png",
+  "alt": "图3 近网法修正向量机制：累积离格轨迹偏差并在分量超半格时触发修正步",
+  "path": "../../raw/figures/tangGridbasedBaderAnalysis2009/fig_3_RLCNJDLK.png"
+ },
+ {
+  "citekey": "tangGridbasedBaderAnalysis2009",
+  "filename": "fig_4_4NLPJJC7.png",
+  "alt": "图4 三高斯二维模型上在网法/近网法/边缘精修后分割面对比",
+  "path": "../../raw/figures/tangGridbasedBaderAnalysis2009/fig_4_4NLPJJC7.png"
+ },
+ {
+  "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+  "filename": "fig_5_9LMI39W9.png",
+  "alt": "图5 机制示意：空穴-阴离子对→干燥下电荷陷阱→潮湿下水屏蔽释放空穴",
+  "path": "../../raw/figures/wangScreeningEnabledChemiresistiveMoisture2025/fig_5_9LMI39W9.png"
+ },
+ {
+  "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+  "filename": "fig_6_CWIG2WCN.png",
+  "alt": "图6 Zn2(TTFTB)独特性：S···S距离、单晶EPR、CV、干湿活化能对比",
+  "path": "../../raw/figures/wangScreeningEnabledChemiresistiveMoisture2025/fig_6_CWIG2WCN.png"
+ },
+ {
+  "citekey": "xuTwodimensionalFerroelasticityVan2021",
+  "filename": "fig_1_3385VJAN.png",
+  "alt": "图1 反铁电耦合的自发应变：纳米条纹超结构、SAED卫星斑、原位XRD温变曲线",
+  "path": "../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_1_3385VJAN.png"
+ },
+ {
+  "citekey": "xueEmergingNonvolatileMemories2011",
+  "filename": "fig_10_X7IRKM78.png",
+  "alt": "MLC STT-RAM 缓存写能耗-编码方案对比（Figure 10）",
+  "path": "../../raw/figures/xueEmergingNonvolatileMemories2011/fig_10_X7IRKM78.png"
+ },
+ {
+  "citekey": "xueEmergingNonvolatileMemories2011",
+  "filename": "fig_11_5RBSLMBF.png",
+  "alt": "SLC/MLC STT-RAM vs SRAM 缓存性能与能耗归一化（Figure 11）",
+  "path": "../../raw/figures/xueEmergingNonvolatileMemories2011/fig_11_5RBSLMBF.png"
+ },
+ {
+  "citekey": "xueEmergingNonvolatileMemories2011",
+  "filename": "tab_4_QWTICPMB.png",
+  "alt": "SRAM vs STT-RAM 面积/延迟/能耗对比（Table 1）",
+  "path": "../../raw/figures/xueEmergingNonvolatileMemories2011/tab_4_QWTICPMB.png"
+ },
+ {
+  "citekey": "yangStrainEngineeringTwodimensional2021",
+  "filename": "tab_1_QX9M44VW.png",
+  "alt": "表1 六种应变诱导方法在各二维材料体系中的应变范围与类型对比",
+  "path": "../../raw/figures/yangStrainEngineeringTwodimensional2021/tab_1_QX9M44VW.png"
+ },
+ {
+  "citekey": "zhaoRealization2DMultiferroic2024",
+  "filename": "fig_6_D3YLN99Y.png",
+  "alt": "T-CoZr2S4 极化翻转路径上磁基态 FM-AFM-FM 与 MAE 变化",
+  "path": "../../raw/figures/zhaoRealization2DMultiferroic2024/fig_6_D3YLN99Y.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_4_NTIETFGK.png",
+  "alt": "0.0015<ξ<0.5下pp→pl⁻l⁺p对标量非粒子耦合κλ_S的95% C.L.灵敏度（泊松，p_t>460 GeV，Λ_U=3 TeV）",
+  "path": "../../raw/figures/Şahin2009probe/fig_4_NTIETFGK.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_5_XZSGU74U.png",
+  "alt": "0.0015<ξ<0.15下pp→pl⁻l⁺p对κλ_S的灵敏度（p_t>420 GeV）",
+  "path": "../../raw/figures/Şahin2009probe/fig_5_XZSGU74U.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_6_59VPQQT6.png",
+  "alt": "0.1<ξ<0.5下pp→pl⁻l⁺p对κλ_S的灵敏度（p_t>30 GeV，高质量阈值自动压制SM）",
+  "path": "../../raw/figures/Şahin2009probe/fig_6_59VPQQT6.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_7_97Z4P8AM.png",
+  "alt": "pp→pl⁻l⁺p对张量非粒子耦合λ_2λ'_2的灵敏度（0.0015<ξ<0.5，d_U=3.001/3.01）",
+  "path": "../../raw/figures/Şahin2009probe/fig_7_97Z4P8AM.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_8_P76UTHDA.png",
+  "alt": "pp→pl⁻l⁺p对张量非粒子耦合λ_2λ'_2的灵敏度（0.1<ξ<0.5）",
+  "path": "../../raw/figures/Şahin2009probe/fig_8_P76UTHDA.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_9_FB963TB8.png",
+  "alt": "基于χ²角分布的pp→pl⁻l⁺p对标量κλ_S的灵敏度，d_U接近1时极强、>1.5后迅速恶化",
+  "path": "../../raw/figures/Şahin2009probe/fig_9_FB963TB8.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_10_2NJEIZDU.png",
+  "alt": "基于χ²的pp→pl⁻l⁺p对张量λ_2λ'_2的灵敏度",
+  "path": "../../raw/figures/Şahin2009probe/fig_10_2NJEIZDU.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_13_UU6JKTFN.png",
+  "alt": "0.0015<ξ<0.5下pp→pγγp对标量κ的95% C.L.灵敏度（√s_γγ>250 GeV，|η|<0.88）",
+  "path": "../../raw/figures/Şahin2009probe/fig_13_UU6JKTFN.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_14_9UDERWFX.png",
+  "alt": "0.0015<ξ<0.15下pp→pγγp对κ的灵敏度",
+  "path": "../../raw/figures/Şahin2009probe/fig_14_9UDERWFX.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_15_ZIDG43WZ.png",
+  "alt": "0.1<ξ<0.5下pp→pγγp对κ的灵敏度（d_U>1.1时此接受度最优）",
+  "path": "../../raw/figures/Şahin2009probe/fig_15_ZIDG43WZ.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_16_GPQM6E9C.png",
+  "alt": "pp→pγγp对张量λ'_2的灵敏度：0.0015<ξ<0.5与0.1<ξ<0.5潜力接近",
+  "path": "../../raw/figures/Şahin2009probe/fig_16_GPQM6E9C.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "tab_1_JYQKZXWA.png",
+  "alt": "表1：0.0015<ξ<0.5下不同亮度与p_t,min对应的κλ_S灵敏度区间",
+  "path": "../../raw/figures/Şahin2009probe/tab_1_JYQKZXWA.png"
+ }
+]

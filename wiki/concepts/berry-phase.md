@@ -25,7 +25,7 @@ $$\gamma_n = \oint_C \mathbf{A}_n(\mathbf{k}) \cdot d\mathbf{k}$$
 
 ## 2. Modern Theory of Polarization (MTP)
 
-The most significant application of the Berry phase in materials science is the **Modern Theory of Polarization**, established by [[../../raw/note/king-smithTheoryPolarizationCrystalline1993|King-Smith and Vanderbilt (1993)]]. Before this theory, polarization in crystals was ill-defined because it depended on the choice of the unit cell.
+The most significant application of the Berry phase in materials science is the **Modern Theory of Polarization**, established by [[../papers/king-smithTheoryPolarizationCrystalline1993|King-Smith and Vanderbilt (1993)]]. Before this theory, polarization in crystals was ill-defined because it depended on the choice of the unit cell.
 
 King-Smith and Vanderbilt showed that the change in electronic polarization $\Delta \mathbf{P}_{el}$ between two states (e.g., a centrosymmetric reference state and a ferroelectric state) is proportional to the Berry phase of the valence bands:
 $$\Delta \mathbf{P}_{el} = \frac{ife}{8\pi^3} \sum_n \int_{BZ} d\mathbf{k} \langle u_{n\mathbf{k}} | \nabla_{\mathbf{k}} | u_{n\mathbf{k}} \rangle$$
@@ -46,16 +46,16 @@ The total electronic polarization is essentially the sum of the displacements of
 In modern 2D materials research, Berry phase calculations are the standard method for determining spontaneous polarization in first-principles studies (DFT).
 
 ### In2Se3 and III2-VI3 Materials
-[[../../raw/note/dingPredictionIntrinsicTwodimensional2017a|Ding et al. (2017)]] utilized the Berry phase method to predict intrinsic 2D ferroelectricity in $\text{In}_2\text{Se}_3$. They demonstrated that the non-centrosymmetric arrangement of atoms in the quintuple layers leads to a robust out-of-plane and in-plane polarization, which is switchable and persists at room temperature.
+[[../papers/dingPredictionIntrinsicTwodimensional2017a|Ding et al. (2017)]] utilized the Berry phase method to predict intrinsic 2D ferroelectricity in $\text{In}_2\text{Se}_3$. They demonstrated that the non-centrosymmetric arrangement of atoms in the quintuple layers leads to a robust out-of-plane and in-plane polarization, which is switchable and persists at room temperature.
 
 ### 2D Multiferroics via Intercalation
-Recent high-throughput studies, such as the work by [[../../raw/note/zhaoRealization2DMultiferroic2024|Zhao et al. (2024)]], have applied Berry phase calculations to screen for multiferroic materials in intercalated $\text{AM}_2\text{X}_4$ superlattices.
+Recent high-throughput studies, such as the work by [[../papers/zhaoRealization2DMultiferroic2024|Zhao et al. (2024)]], have applied Berry phase calculations to screen for multiferroic materials in intercalated $\text{AM}_2\text{X}_4$ superlattices.
 
 ![Structure of T-AM2X4 and H-AM2X4](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_1_S88Q2EF3.png)
-*Fig 1. Structural diagrams of intercalated 2D materials where Berry phase calculations are used to determine polarization states [[../../raw/note/zhaoRealization2DMultiferroic2024|Zhao2024]].*
+*Fig 1. Structural diagrams of intercalated 2D materials where Berry phase calculations are used to determine polarization states [[../papers/zhaoRealization2DMultiferroic2024|Zhao2024]].*
 
 ![High-throughput screening flowchart](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_2_7QNUMABJ.png)
-*Fig 2. Flowchart of high-throughput screening using first-principles calculations to identify ferroic materials [[../../raw/note/zhaoRealization2DMultiferroic2024|Zhao2024]].*
+*Fig 2. Flowchart of high-throughput screening using first-principles calculations to identify ferroic materials [[../papers/zhaoRealization2DMultiferroic2024|Zhao2024]].*
 
 Key findings in these 2D systems include:
 - **Strong Magnetoelectric Coupling**: The Berry phase-derived polarization can be coupled to magnetic order, allowing for electrical control of magnetism.

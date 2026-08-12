@@ -1,65 +1,49 @@
 ---
-title: Ferroelasticity
-type: concept
-tags: [phase-transition, domain-wall, ferroics, 2D-materials, straintronics]
+tags: [concept, ferroics, phase-transition, domain-wall, 2D-materials, straintronics]
+category: [D02]
 ---
 
-# Ferroelasticity in 2D Materials
+# 铁弹性 / Ferroelasticity
 
-**Ferroelasticity** is a physical phenomenon where a material exhibits multiple stable orientation variants in the absence of external stress, and can be switched between these variants by the application of mechanical stress. In two-dimensional (2D) systems, ferroelasticity offers a unique platform for **straintronics**—the manipulation of electronic, magnetic, and topological properties through lattice distortion.
+**铁弹性** 是指材料在无外加应力的情况下存在多种能量等价且稳定的取向变体（Orientation Variants），并且可以通过施加机械应力在这些变体之间实现可逆切换的物理现象。在二维（2D）体系中，铁弹性为**应变电子学（Straintronics）**提供了理想平台，即利用晶格畸变调控材料的电子、磁性与拓扑物性。
 
-## 1. Physical Mechanisms
+## 1. 微观物理机制
 
-### 1.1 Peierls Distortion in 1T'-TMDs
-In group-VI transition metal dichalcogenides (TMDs), the high-symmetry 1T phase is often unstable towards a structural distortion known as **Peierls distortion**. This leads to the formation of the **1T' phase** (e.g., in WTe$_2$ and MoTe$_2$), characterized by metal-atom dimerization and a distorted rectangular lattice.
+### 1.1 Peierls 畸变与 1T'-TMDs
+在第 VI 族过渡金属硫族化合物（TMDs）中，高对称性的 1T 相在能量上往往不稳定，倾向于发生 **Peierls 畸变**。这种畸变导致金属原子二聚化（Dimerization），形成长方形晶格的 **1T' 相**（如 $WTe_2$ 和 $MoTe_2$）。由于畸变可以沿三角晶格的三个等价方向发生，从而产生三种取向变体（O1, O2, O3）（[[../papers/liFerroelasticityDomainPhysics2016|Li & Li 2016]]）。
 
-![Atomistic structure of 1T and 1T' phases showing the structural distortion generic to group VI MX2 monolayers.](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_1_YTRF2PW6.png)
-*Source: [[../../raw/note/liFerroelasticityDomainPhysics2016|Li & Li, Nat. Commun. 2016]]*
+### 1.2 自发应变与 β'-In₂Se₃
+在范德华材料 **$\beta'-In_2Se_3$** 中，铁弹性起源于与**反铁电位移**强耦合的自发应变（约 0.49%）。不同于 1T'-TMDs 的二聚化机制，$\beta'-In_2Se_3$ 的铁弹性表现为宏观的纳米条纹超结构（Nanostriped Superstructure），其畴界移动由极小的单轴拉伸应力（$\le 0.5\%$）驱动（[[../papers/xuTwodimensionalFerroelasticityVan2021|Xu 2021]]）。
 
-This distortion can occur along three symmetry-equivalent directions of the triangular M-atom lattice, resulting in **three orientation variants** (O1, O2, and O3).
+## 2. 能量学与动力学
 
-![Three orientation variants of 1T0–MX2 monolayers derived from the triangular lattice.](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_2_KHBH8L57.png)
+### 2.1 翻转能垒 (Switching Barrier)
+不同变体之间的切换需要克服一定的能量势垒。在 $1T'-WTe_2$ 单层中，NEB 计算显示变体转换能垒 **$< 0.2\text{ eV/f.u.}$**，这保证了材料在室温下具有良好的机械可塑性与翻转活性（[[../papers/liFerroelasticityDomainPhysics2016|Li & Li 2016]]）。
 
-### 1.2 Antiferroelectric-Coupled Spontaneous Strain in $\beta'$-In$_2$Se$_3$
-In van der Waals $\beta'$-In$_2$Se$_3$, ferroelasticity originates from an **antiferroelectric distortion** that is intrinsically coupled to a **spontaneous strain** ($\approx 0.49\%$). Unlike 1T'-TMDs where the distortion is driven by electronic dimerization, the ferroelasticity in $\beta'$-In$_2$Se$_3$ manifests as a nanostriped superstructure.
+### 2.2 屈服应变 (Yield Strain)
+二维铁性材料通常表现出极高的机械强度。例如，$\beta'-In_2Se_3$ 在保持铁弹翻转特性的同时，其屈服应变可达 **$\approx 5.5\%$**，远高于传统三维陶瓷材料。
 
-![TEM and STEM evidence of the nanostriped superstructure and satellite diffraction in β’-In2Se3.](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_1_3385VJAN.png)
-*Source: [[../../raw/note/xuTwodimensionalFerroelasticityVan2021|Xu et al., Nat. Commun. 2021]]*
+## 3. 畴物理 (Domain Physics)
+铁弹畴是具有不同取向变体的区域，由**畴壁（Domain Walls, DWs）**分隔。在 2D 体系中，畴壁具有独特的对称性与功能化潜力：
+- **W-walls**：受对称性严格限制的边界。
+- **S-walls**：应变依赖的边界，其取向随局部应变场动态调整以最小化弹性能。
+- **功能性**：畴壁处可能由于对称性进一步破缺而承载独特的电子态或拓扑相，成为二维纳米线器件的天然构建模块（[[../papers/liFerroelasticityDomainPhysics2016|Li & Li 2016]]）。
 
-## 2. Quantitative Energetics and Switching
+## 4. 应变调控与多铁性耦合
+通过铁弹性与磁性的耦合，可以设计高性能的二维多铁材料。
+- **插层调控**：在 TMDs 双层中插入过渡金属原子形成的 **$AM_2X_4$** 体系中，铁弹/铁电翻转可以直接改变材料的磁基态（如 FM $\leftrightarrow$ AFM）或磁易轴方向，实现强磁电耦合（[[../papers/zhaoRealization2DMultiferroic2024|Zhao 2024]]）。
 
-### 2.1 Transition Barriers
-The switching between ferroelastic variants requires overcoming a potential energy barrier. In 1T'-WTe$_2$, Nudged Elastic Band (NEB) calculations reveal a relatively low transformation barrier of **< 0.2 eV per formula unit (f.u.)**, facilitating reversible switching.
+## 5. 关键图表
 
-![NEB calculation of transformation barrier and the pathway for orientation switching in 1T0–WTe2.](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_6_DIRK5297.png)
+![1T'相的Peierls畸变与变体](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_2_KHBH8L57.png)
+*图 1：1T'-MX₂ 单层中源自三角晶格的三个取向变体。摘自 [[../papers/liFerroelasticityDomainPhysics2016]]*
 
-### 2.2 Strain-Induced Switching
-Experimental validation in $\beta'$-In$_2$Se$_3$ has shown that domain variants can be controlled by uniaxial tensile strain. A switching strain of **$\le 0.5\%$** is sufficient to induce domain wall motion, while the material maintains mechanical integrity up to a yield strain of **$\approx 5.5\%$**.
+![In2Se3中的条纹畴结构](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_1_3385VJAN.png)
+*图 2：β’-In2Se3 中的纳米条纹超结构与卫星衍射斑点。摘自 [[../papers/xuTwodimensionalFerroelasticityVan2021]]*
 
-![Polarized-light imaging showing reversible domain switching under vertical uniaxial tensile strain.](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_4_BVK6GKZN.png)
-
-## 3. Domain Physics
-Ferroelastic domains are regions of different orientation variants separated by **domain walls (DWs)**. These boundaries are categorized based on their symmetry properties:
-- **W-walls:** Symmetry-fixed boundaries.
-- **S-walls:** Strain-dependent boundaries that may change orientation to minimize elastic energy.
-
-In 2D systems, these walls can exhibit distinct electronic states or even host topological phases.
-
-![DFT-relaxed atomistic structures of domain boundaries between variants O1, O2, and O3 in 1T0–WTe2.](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_7_BRNW8WQ3.png)
-
-## 4. Multiferroicity and Intercalation Strategies
-Emerging research focuses on coupling ferroelasticity/ferroelectricity with magnetic order to create **2D Multiferroics**. A promising strategy involves the intercalation of metal atoms (A) into MX$_2$ bilayers to form $AM_2X_4$ compounds. High-throughput screening has identified 21 candidates with strong magnetoelectric coupling, where the magnetic ground state can be controlled by ferroic switching.
-
-![Structural diagram of intercalation compounds AM2X4 for multiferroic realization.](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_1_S88Q2EF3.png)
-*Source: [[../../raw/note/zhaoRealization2DMultiferroic2024|Zhao et al., npj Comput. Mater. 2024]]*
-
-| Property | Typical Value | Material System |
-| :--- | :--- | :--- |
-| **Spontaneous Strain** | ~3% (TMDs), 0.49% (In$_2$Se$_3$) | 1T'-MX$_2$, $\beta'$-In$_2$Se$_3$ |
-| **Switching Barrier** | < 200 meV/f.u. | 1T'-WTe$_2$ |
-| **Yield Strain** | ~5.5% | $\beta'$-In$_2$Se$_3$ |
-
-## References
-- [[../../raw/note/liFerroelasticityDomainPhysics2016|Li, W., & Li, J. (2016). Ferroelasticity and domain physics in two-dimensional transition metal dichalcogenide monolayers. Nature Communications, 7, 10843.]]
-- [[../../raw/note/xuTwodimensionalFerroelasticityVan2021|Xu, C., et al. (2021). Two-dimensional ferroelasticity in van der Waals β’-In2Se3. Nature Communications, 12, 3600.]]
-- [[../../raw/note/zhaoRealization2DMultiferroic2024|Zhao, Y., et al. (2024). Realization of 2D multiferroic with strong magnetoelectric coupling by intercalation: a first-principles high-throughput prediction. npj Computational Materials, 10, 131.]]
+## 6. 相关概念
+- [[straintronics|应变电子学 Straintronics]]
+- [[2D-materials|二维范德华材料与低维铁性]]
+- [[multiferroicity|多铁性 Multiferroicity]]
+- [[../entities/WTe2|二碲化钨 WTe2]]
+- [[../entities/In2Se3|硒化铟 In2Se3]]

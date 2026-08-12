@@ -7,7 +7,7 @@ metadata:
 
 # 乐高式组装 / LEGO-like Assembly
 
-**乐高式组装** 是由 Yan 等人提出的一种描述二维非层状 III-V 族半导体结构稳定性的理论模型。该模型认为，这些材料的复杂二维结构可以解构为少数几种基础“积木块”的有序排列 [[../../raw/note/yanDecipheringStabilityTwodimensional2025|Yan et al. 2025]]。
+**乐高式组装** 是由 Yan 等人提出的一种描述二维非层状 III-V 族半导体结构稳定性的理论模型。该模型认为，这些材料的复杂二维结构可以解构为少数几种基础“积木块”的有序排列 [[../papers/yanDecipheringStabilityTwodimensional2025|Yan et al. 2025]]。
 
 ## 1. 基础构建块 (Building Blocks)
 
@@ -28,13 +28,13 @@ $$E_{total} = \sum (n_i \cdot E_{block, i})$$
 
 基于该理论预测的 **TT (Transition structure)** 构型：
 - **构成**：结合了四面体与三角形构建块。
-- **性能**：在多种 III-V 材料中被证明比以往预测的平面六角形更稳，且在 [[../../entities/GaSb|GaSb]] 中实现了纪录级的迁移率。
+- **性能**：在多种 III-V 材料中被证明比以往预测的平面六角形更稳，且在 [[../entities/GaSb|GaSb]] 中实现了纪录级的迁移率。
 
 ## 4. 相关实体
-- [[../../entities/GaAs|GaAs]]
-- [[../../entities/GaSb|GaSb]]
-- [[../../entities/BAs|BAs]]
-- [[../../entities/InSb|InSb]]
+- [[../entities/GaAs|GaAs]]
+- [[../entities/GaSb|GaSb]]
+- [[../entities/BAs|BAs]]
+- [[../entities/InSb|InSb]]
 
 ## 5. 相关概念
 - [[electron-counting-rule|电子计数规则 (ECR)]]

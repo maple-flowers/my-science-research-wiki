@@ -1,0 +1,98 @@
+[
+ {
+  "citekey": "Chen2016electrical",
+  "filename": "fig_1_ZZASGZCF.png",
+  "alt": "Fig.1 初始畴结构与8种极化方向",
+  "path": "../../raw/figures/Chen2016electrical/fig_1_ZZASGZCF.png"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "filename": "fig_2_8M5UCVB2.png",
+  "alt": "Fig.2 电学翻转的成核-分解-重组过程",
+  "path": "../../raw/figures/Chen2016electrical/fig_2_8M5UCVB2.png"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "filename": "fig_4_I3MJA2P9.png",
+  "alt": "Fig.4 力学翻转与电学翻转相似的畴演化",
+  "path": "../../raw/figures/Chen2016electrical/fig_4_I3MJA2P9.png"
+ },
+ {
+  "citekey": "fiebigEvolutionMultiferroics2016",
+  "filename": "fig_3_53RYW3RI.png",
+  "alt": "图3 多铁薄膜架构：交换耦合、应变耦合（3D传递型）与多铁界面、多铁畴壁（2D受限型）",
+  "path": "../../raw/figures/fiebigEvolutionMultiferroics2016/fig_3_53RYW3RI.png"
+ },
+ {
+  "citekey": "fiebigEvolutionMultiferroics2016",
+  "filename": "fig_4_XAGRJUG2.png",
+  "alt": "图4 I类与II类多铁中畴与畴壁的对比：II类中每个铁电畴壁必为磁畴壁",
+  "path": "../../raw/figures/fiebigEvolutionMultiferroics2016/fig_4_XAGRJUG2.png"
+ },
+ {
+  "citekey": "gomez-ortizKittelLawDomain2023",
+  "filename": "fig_1_I73SSRGV.png",
+  "alt": "图1 双畴结构弛豫为涡旋畴壁",
+  "path": "../../raw/figures/gomez-ortizKittelLawDomain2023/fig_1_I73SSRGV.png"
+ },
+ {
+  "citekey": "gomez-ortizKittelLawDomain2023",
+  "filename": "fig_2_AAWRLAWB.png",
+  "alt": "图2 Kittel定律验证",
+  "path": "../../raw/figures/gomez-ortizKittelLawDomain2023/fig_2_AAWRLAWB.png"
+ },
+ {
+  "citekey": "gomez-ortizKittelLawDomain2023",
+  "filename": "fig_4_LEVTBY7M.png",
+  "alt": "图4 畴密度相竞争",
+  "path": "../../raw/figures/gomez-ortizKittelLawDomain2023/fig_4_LEVTBY7M.png"
+ },
+ {
+  "citekey": "hanPolarTopologicalMaterials2025",
+  "filename": "fig_5_QTFREVWS.png",
+  "alt": "本征静电能调控：退极化场驱动单畴→条带畴→通量闭合畴→涡旋畴的演化；La掺杂BFO纳米岛带电畴壁→中性畴壁涡旋；挠曲电场",
+  "path": "../../raw/figures/hanPolarTopologicalMaterials2025/fig_5_QTFREVWS.png"
+ },
+ {
+  "citekey": "hanPolarTopologicalMaterials2025",
+  "filename": "fig_11_K2X98ARY.png",
+  "alt": "电阻特性：BFO纳米岛十字形带电畴壁巨电导及±3V百次循环；导电畴壁通断实现NOT门；自支撑PTO/STO双层类斯格明子畴±5V可逆阻变（>200 Gbit/in²）",
+  "path": "../../raw/figures/hanPolarTopologicalMaterials2025/fig_11_K2X98ARY.png"
+ },
+ {
+  "citekey": "huangPolarPhaseDomain2019",
+  "filename": "fig_5_3YM4C6KN.png",
+  "alt": "图5 Fe掺杂MoTe₂的STM形貌、畴壁高度剖面与dI/dV谱：相畴壁空态增强电导、极性畴壁满态增强电导",
+  "path": "../../raw/figures/huangPolarPhaseDomain2019/fig_5_3YM4C6KN.png"
+ },
+ {
+  "citekey": "prosandeevKittelLawInBiFeO3Ultrathin2010",
+  "filename": "fig_1_GV39IF8G.png",
+  "alt": "图1：8 nm 厚 BFO 薄膜在 10 K 下 71° 条带畴的局域软模 u_i 与 AFD 矢量 ξ_i 实空间快照，表面形成涡旋磁通闭合",
+  "path": "../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/fig_1_GV39IF8G.png"
+ },
+ {
+  "citekey": "prosandeevKittelLawInBiFeO3Ultrathin2010",
+  "filename": "fig_3_F6HAM93G.png",
+  "alt": "图3：h=20 薄膜平衡周期下关键能量的逐点实空间分布：(a) AFD短程能集中在畴壁；(b) 电偶极长程能集中在表面畴内部；(c) 磁电耦合能同样集中在表面远离畴壁处",
+  "path": "../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/fig_3_F6HAM93G.png"
+ },
+ {
+  "citekey": "tanRevealingEmergentMagnetic2024",
+  "filename": "fig_2_F3UEVWZT.png",
+  "alt": "图2 通过 DQM 对拓扑反铁磁织构分类：a-Bloch 反相畴壁、顺/逆时针 a-Bloch 半子、反半子、双半子的计算/实测 Bz 及重构 m_xy",
+  "path": "../../raw/figures/tanRevealingEmergentMagnetic2024/fig_2_F3UEVWZT.png"
+ },
+ {
+  "citekey": "xuTwodimensionalFerroelasticityVan2021",
+  "filename": "fig_3_AJIMIKF6.png",
+  "alt": "图3 偏光显微镜下A/B/C三畴变体及角分辨透射强度",
+  "path": "../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_3_AJIMIKF6.png"
+ },
+ {
+  "citekey": "xuTwodimensionalFerroelasticityVan2021",
+  "filename": "fig_5_X3B8N42J.png",
+  "alt": "图5 CVD生长~6.6 nm（约7五元层）超薄薄片中的二维铁弹性",
+  "path": "../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_5_X3B8N42J.png"
+ }
+]

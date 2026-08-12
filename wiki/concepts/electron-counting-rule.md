@@ -7,7 +7,7 @@ metadata:
 
 # 电子计数规则 / Electron Counting Rule (ECR)
 
-**电子计数规则** 是半导体物理与化学中判断表面重构及纳米结构稳定性的重要经验准则。在 2025 年关于二维 III-V 半导体的研究中，该规则被用来解释[[lego-assembly|“积木块”]]组装的化学本质 [[../../raw/note/yanDecipheringStabilityTwodimensional2025|Yan et al. 2025]]。
+**电子计数规则** 是半导体物理与化学中判断表面重构及纳米结构稳定性的重要经验准则。在 2025 年关于二维 III-V 半导体的研究中，该规则被用来解释[[lego-assembly|“积木块”]]组装的化学本质 [[../papers/yanDecipheringStabilityTwodimensional2025|Yan et al. 2025]]。
 
 ## 1. 核心内容
 
@@ -22,5 +22,5 @@ metadata:
 
 ## 3. 相关概念
 - [[lego-assembly|乐高式组装]]
-- [[../../entities/GaAs|GaAs]]
-- [[../../entities/GaSb|GaSb]]
+- [[../entities/GaAs|GaAs]]
+- [[../entities/GaSb|GaSb]]

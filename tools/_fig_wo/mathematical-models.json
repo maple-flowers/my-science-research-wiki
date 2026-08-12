@@ -1,0 +1,1436 @@
+[
+ {
+  "citekey": "2019optical",
+  "filename": "eq_3_NILGGZ7L.png",
+  "alt": "公式3 倏逝场 Ez=E0·exp(−z/dp)",
+  "path": "../../raw/figures/2019optical/eq_3_NILGGZ7L.png"
+ },
+ {
+  "citekey": "2019optical",
+  "filename": "eq_4_4BLSJGW9.png",
+  "alt": "公式4 穿透深度 dp=λ/(2nπ√(sin²θ−n²))",
+  "path": "../../raw/figures/2019optical/eq_4_4BLSJGW9.png"
+ },
+ {
+  "citekey": "Barnett2006coexistence",
+  "filename": "fig_4_C58AQ3FI.png",
+  "alt": "图4 φ=π/2 时的 CDW 原子位移模式（蓝色原子构成未畸变子晶格）；插图为总能量随 φ 的变化，固定 μ 与固定 N 两种极端均在 π/2 取极小",
+  "path": "../../raw/figures/Barnett2006coexistence/fig_4_C58AQ3FI.png"
+ },
+ {
+  "citekey": "Barnett2006coexistence",
+  "filename": "eq_1_KAWULESM.png",
+  "alt": "式1 紧束缚色散 ε⁰_k=Σ_R t_|R| cos(k·R)",
+  "path": "../../raw/figures/Barnett2006coexistence/eq_1_KAWULESM.png"
+ },
+ {
+  "citekey": "Barnett2006coexistence",
+  "filename": "eq_2_2NLQ8BHX.png",
+  "alt": "式2 Σ1 对称原子位移 δR=Σ_Q u cos(Q·R+φ) Q̂",
+  "path": "../../raw/figures/Barnett2006coexistence/eq_2_2NLQ8BHX.png"
+ },
+ {
+  "citekey": "Barnett2006coexistence",
+  "filename": "eq_3_MM8DS6VN.png",
+  "alt": "式3 CDW 微扰 H'=Σ_{k,Q} Δ_Q^k c_k†c_{k+Q}+h.c.",
+  "path": "../../raw/figures/Barnett2006coexistence/eq_3_MM8DS6VN.png"
+ },
+ {
+  "citekey": "Barnett2006coexistence",
+  "filename": "eq_4_BPDHU8NX.png",
+  "alt": "式4 电子-声子耦合矩阵元 Δ_Q^k",
+  "path": "../../raw/figures/Barnett2006coexistence/eq_4_BPDHU8NX.png"
+ },
+ {
+  "citekey": "Barnett2006coexistence",
+  "filename": "eq_5_9RAUZVSG.png",
+  "alt": "式5 总能量 E_tot(u,φ)=∫^μ ερ(ε)dε+E_el(u)",
+  "path": "../../raw/figures/Barnett2006coexistence/eq_5_9RAUZVSG.png"
+ },
+ {
+  "citekey": "Blessing2026optical",
+  "filename": "eq_3_A6ZT7KXZ.png",
+  "alt": "公式3 Tauc关系式",
+  "path": "../../raw/figures/Blessing2026optical/eq_3_A6ZT7KXZ.png"
+ },
+ {
+  "citekey": "CastroNeto2001charge",
+  "filename": "fig_3_Y8PXIM8Z.png",
+  "alt": "图3 理论与 ARPES 测得的电子自能虚部 ImΣ(k_F,ω) 对比，ω<60 meV 呈线性，>60 meV 饱和",
+  "path": "../../raw/figures/CastroNeto2001charge/fig_3_Y8PXIM8Z.png"
+ },
+ {
+  "citekey": "CastroNeto2001charge",
+  "filename": "eq_1_DEPUZYQZ.png",
+  "alt": "eq_1",
+  "path": "../../raw/figures/CastroNeto2001charge/eq_1_DEPUZYQZ.png"
+ },
+ {
+  "citekey": "CastroNeto2001charge",
+  "filename": "eq_2_ZS3EZMM3.png",
+  "alt": "eq_2",
+  "path": "../../raw/figures/CastroNeto2001charge/eq_2_ZS3EZMM3.png"
+ },
+ {
+  "citekey": "CastroNeto2001charge",
+  "filename": "eq_3_NP9B3NTQ.png",
+  "alt": "eq_3",
+  "path": "../../raw/figures/CastroNeto2001charge/eq_3_NP9B3NTQ.png"
+ },
+ {
+  "citekey": "CastroNeto2001charge",
+  "filename": "eq_4_V4FEX7ZQ.png",
+  "alt": "eq_4",
+  "path": "../../raw/figures/CastroNeto2001charge/eq_4_V4FEX7ZQ.png"
+ },
+ {
+  "citekey": "CastroNeto2001charge",
+  "filename": "eq_5_EHHPEHVI.png",
+  "alt": "eq_5",
+  "path": "../../raw/figures/CastroNeto2001charge/eq_5_EHHPEHVI.png"
+ },
+ {
+  "citekey": "CastroNeto2001charge",
+  "filename": "eq_6_AVZCH9NK.png",
+  "alt": "eq_6",
+  "path": "../../raw/figures/CastroNeto2001charge/eq_6_AVZCH9NK.png"
+ },
+ {
+  "citekey": "CastroNeto2001charge",
+  "filename": "eq_7_M5Y9GEBU.png",
+  "alt": "eq_7",
+  "path": "../../raw/figures/CastroNeto2001charge/eq_7_M5Y9GEBU.png"
+ },
+ {
+  "citekey": "CastroNeto2001charge",
+  "filename": "eq_8_XTSE6ERP.png",
+  "alt": "eq_8",
+  "path": "../../raw/figures/CastroNeto2001charge/eq_8_XTSE6ERP.png"
+ },
+ {
+  "citekey": "CastroNeto2001charge",
+  "filename": "eq_9_CQKXMTFR.png",
+  "alt": "eq_9",
+  "path": "../../raw/figures/CastroNeto2001charge/eq_9_CQKXMTFR.png"
+ },
+ {
+  "citekey": "CastroNeto2001charge",
+  "filename": "eq_11_WN9L9ZFB.png",
+  "alt": "eq_11",
+  "path": "../../raw/figures/CastroNeto2001charge/eq_11_WN9L9ZFB.png"
+ },
+ {
+  "citekey": "CastroNeto2001charge",
+  "filename": "eq_12_M84KTL8V.png",
+  "alt": "eq_12",
+  "path": "../../raw/figures/CastroNeto2001charge/eq_12_M84KTL8V.png"
+ },
+ {
+  "citekey": "Chen2019superconductivity",
+  "filename": "fig_3_F22L5HMT.png",
+  "alt": "图3 非均匀超导渗流与涡旋约束示意：(a) 0D 成核→1D 网络渗流→2D 全域超导；(b) 1D 通道中涡旋被钉扎，解释 Little-Parks 振荡",
+  "path": "../../raw/figures/Chen2019superconductivity/fig_3_F22L5HMT.png"
+ },
+ {
+  "citekey": "Delley2000",
+  "filename": "fig_1_4IAQM378.png",
+  "alt": "Si原胞总能量随倒空间网格阶数的指数收敛",
+  "path": "../../raw/figures/Delley2000/fig_1_4IAQM378.png"
+ },
+ {
+  "citekey": "Delley2000",
+  "filename": "fig_2_93PFNGDX.png",
+  "alt": "Cu原胞总能量随k网格阶数的幂律收敛，Bloechl修正显著优于线性四面体法",
+  "path": "../../raw/figures/Delley2000/fig_2_93PFNGDX.png"
+ },
+ {
+  "citekey": "Goswami2011multiferroic",
+  "filename": "fig_4_X25BTCRC.png",
+  "alt": "图4 (a) DSC、(b) 晶格参数 a/c、(c) 体积、(d) 离子位移 δ、(e) 极化 P 随温度变化",
+  "path": "../../raw/figures/Goswami2011multiferroic/fig_4_X25BTCRC.png"
+ },
+ {
+  "citekey": "Islam2025enhancement",
+  "filename": "eq_1_C6GVHFKT.png",
+  "alt": "式1 σ_sc∝λ^-2=(4πn_s e²/m*c²)/(1+ξ/l)",
+  "path": "../../raw/figures/Islam2025enhancement/eq_1_C6GVHFKT.png"
+ },
+ {
+  "citekey": "Islam2025enhancement",
+  "filename": "eq_2_YU2D9CF8.png",
+  "alt": "式2 α模型双能隙加权叠加：σ_sc(T)/σ_sc(0)=ωσ_1+(1-ω)σ_2",
+  "path": "../../raw/figures/Islam2025enhancement/eq_2_YU2D9CF8.png"
+ },
+ {
+  "citekey": "Kang2012dimer",
+  "filename": "fig_3_UVCA88PZ.png",
+  "alt": "图3 PoDW相电荷磁化率的费曼图与三轨道模型计算结果",
+  "path": "../../raw/figures/Kang2012dimer/fig_3_UVCA88PZ.png"
+ },
+ {
+  "citekey": "Kang2012dimer",
+  "filename": "fig_4_9JE6KANU.png",
+  "alt": "图4 轨道成分导致C4对称性破缺的费曼图",
+  "path": "../../raw/figures/Kang2012dimer/fig_4_9JE6KANU.png"
+ },
+ {
+  "citekey": "Koley2020charge",
+  "filename": "fig_6_WAX2QD4C.png",
+  "alt": "图6 DMFT 电阻率随温度变化（x=0 与 x=1）及 TaSeS 超导序参量的 BCS 拟合",
+  "path": "../../raw/figures/Koley2020charge/fig_6_WAX2QD4C.png"
+ },
+ {
+  "citekey": "Kumar2017microstructuring",
+  "filename": "fig_1_2SW9UPB2.png",
+  "alt": "图1 TPP原理与体素尺寸理论预测（I vs I²、阈值效应、D 随驻留时间/功率/NA 变化）",
+  "path": "../../raw/figures/Kumar2017microstructuring/fig_1_2SW9UPB2.png"
+ },
+ {
+  "citekey": "Kumar2017microstructuring",
+  "filename": "eq_3_HDYU79KZ.png",
+  "alt": "公式3 高斯光束强度分布 I(r,z)",
+  "path": "../../raw/figures/Kumar2017microstructuring/eq_3_HDYU79KZ.png"
+ },
+ {
+  "citekey": "Kumar2017microstructuring",
+  "filename": "eq_4_8XWIF9CQ.png",
+  "alt": "公式4 束宽 w(z) 随离焦量 z 的变化",
+  "path": "../../raw/figures/Kumar2017microstructuring/eq_4_8XWIF9CQ.png"
+ },
+ {
+  "citekey": "Nakanishi2009full",
+  "filename": "fig_2_WEKX4R52.png",
+  "alt": "图2 双光子波函数频谱",
+  "path": "../../raw/figures/Nakanishi2009full/fig_2_WEKX4R52.png"
+ },
+ {
+  "citekey": "Nakanishi2009full",
+  "filename": "fig_3_7BSFYA7Y.png",
+  "alt": "图3 时域波函数",
+  "path": "../../raw/figures/Nakanishi2009full/fig_3_7BSFYA7Y.png"
+ },
+ {
+  "citekey": "Owji20212d",
+  "filename": "fig_9_NIKPV7TY.png",
+  "alt": "方差分析",
+  "path": "../../raw/figures/Owji20212d/fig_9_NIKPV7TY.png"
+ },
+ {
+  "citekey": "RecentAdvancesGrowth2025",
+  "filename": "tab_1_VAP6KBBP.png",
+  "alt": "表1 理论预测与实验合成的二维多铁材料汇总",
+  "path": "../../raw/figures/RecentAdvancesGrowth2025/tab_1_VAP6KBBP.png"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "filename": "eq_1_7T2KD6P7.png",
+  "alt": "公式1 Kubelka–Munk函数",
+  "path": "../../raw/figures/Tobeiha2025optical/eq_1_7T2KD6P7.png"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "filename": "eq_2_4BAWYKNG.png",
+  "alt": "公式2 Tauc公式",
+  "path": "../../raw/figures/Tobeiha2025optical/eq_2_4BAWYKNG.png"
+ },
+ {
+  "citekey": "Unknown2003charge",
+  "filename": "fig_2_UB562FUX.png",
+  "alt": "图2 (BEDT-TTF)₁.₅CuCl₂ 磁化率随温度变化，4–50 K 服从居里-外斯定律，50 K 以上偏离",
+  "path": "../../raw/figures/Unknown2003charge/fig_2_UB562FUX.png"
+ },
+ {
+  "citekey": "Unknown2025diffractive",
+  "filename": "eq_1_B6YEPTRM.png",
+  "alt": "公式1 调制深度与相位差关系 Δφ=(2π/λ)·h·(n-n₀)",
+  "path": "../../raw/figures/Unknown2025diffractive/eq_1_B6YEPTRM.png"
+ },
+ {
+  "citekey": "Unknown2025diffractive",
+  "filename": "eq_2_ECICBZXC.png",
+  "alt": "公式2 远场振幅为输入振幅与相位的FFT",
+  "path": "../../raw/figures/Unknown2025diffractive/eq_2_ECICBZXC.png"
+ },
+ {
+  "citekey": "Unknown2025diffractive",
+  "filename": "eq_3_TEFASD2R.png",
+  "alt": "公式3 轴锥镜后理论空间强度分布（零阶贝塞尔函数J₀）",
+  "path": "../../raw/figures/Unknown2025diffractive/eq_3_TEFASD2R.png"
+ },
+ {
+  "citekey": "Wang2023ultracompact",
+  "filename": "fig_4_4Y53N3SH.png",
+  "alt": "图4 整体高度误差与相位离散化误差对偶/螺旋光束重叠积分和效率的影响",
+  "path": "../../raw/figures/Wang2023ultracompact/fig_4_4Y53N3SH.png"
+ },
+ {
+  "citekey": "Wu2018",
+  "filename": "eq_1_JGIRGE42.png",
+  "alt": "公式1 吸附能定义 Eads = Etot(Sislab) + E(Ge) − Etot(Ge/Sislab)",
+  "path": "../../raw/figures/Wu2018/eq_1_JGIRGE42.png"
+ },
+ {
+  "citekey": "XiaokangZhang2013calibrating",
+  "filename": "eq_1_V2WHGBSH.png",
+  "alt": "公式(1) 饱和水汽压经验公式",
+  "path": "../../raw/figures/XiaokangZhang2013calibrating/eq_1_V2WHGBSH.png"
+ },
+ {
+  "citekey": "XiaokangZhang2013calibrating",
+  "filename": "eq_2_ZEMR3UEV.png",
+  "alt": "公式(2) 列号 k = A_T − 249",
+  "path": "../../raw/figures/XiaokangZhang2013calibrating/eq_2_ZEMR3UEV.png"
+ },
+ {
+  "citekey": "XiaokangZhang2013calibrating",
+  "filename": "eq_3_JFFR4H5W.png",
+  "alt": "公式(3) RH(%) = (i + 299)/10",
+  "path": "../../raw/figures/XiaokangZhang2013calibrating/eq_3_JFFR4H5W.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "eq_1_JKSLE4FW.png",
+  "alt": "EAM总势能公式 Eq.1",
+  "path": "../../raw/figures/Zhang2019a/eq_1_JKSLE4FW.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "eq_3_IY4F7YGW.png",
+  "alt": "广义元素对势 Eq.3",
+  "path": "../../raw/figures/Zhang2019a/eq_3_IY4F7YGW.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "eq_4_LZSYGSBF.png",
+  "alt": "电子密度函数 Eq.4",
+  "path": "../../raw/figures/Zhang2019a/eq_4_LZSYGSBF.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "eq_5_AKZ9ZC4I.png",
+  "alt": "嵌入能分段公式 Eq.5–7",
+  "path": "../../raw/figures/Zhang2019a/eq_5_AKZ9ZC4I.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "eq_6_3NZCI3TL.png",
+  "alt": "嵌入能分段公式 Eq.6",
+  "path": "../../raw/figures/Zhang2019a/eq_6_3NZCI3TL.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "eq_7_WN3PU9VD.png",
+  "alt": "嵌入能分段公式 Eq.7",
+  "path": "../../raw/figures/Zhang2019a/eq_7_WN3PU9VD.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "eq_9_KF8MDN7A.png",
+  "alt": "对分布函数公式 Eq.9",
+  "path": "../../raw/figures/Zhang2019a/eq_9_KF8MDN7A.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "fig_1_8GSJRYRQ.png",
+  "alt": "图1 Ti135/Ti257/Ti895弛豫过程每原子能量随时间步变化",
+  "path": "../../raw/figures/Zhang2019a/fig_1_8GSJRYRQ.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "fig_3_VVXJNDWX.png",
+  "alt": "图3 小尺寸粒子平均能量-温度曲线",
+  "path": "../../raw/figures/Zhang2019a/fig_3_VVXJNDWX.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "fig_6_T7VXXEFK.png",
+  "alt": "图6 大尺寸粒子（Ti1099–Ti3455）能量-温度曲线",
+  "path": "../../raw/figures/Zhang2019a/fig_6_T7VXXEFK.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "fig_7_TQ8EAVTC.png",
+  "alt": "图7 六粒子1421/1422原子对数量随温度变化",
+  "path": "../../raw/figures/Zhang2019a/fig_7_TQ8EAVTC.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "fig_8_2H6SNMFM.png",
+  "alt": "图8 ΔEav/ΔT斜率随原子数N变化（杜隆-珀蒂1.5kB边界）",
+  "path": "../../raw/figures/Zhang2019a/fig_8_2H6SNMFM.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "tab_1_GBW2JGJ2.png",
+  "alt": "表1 EAM势参数",
+  "path": "../../raw/figures/Zhang2019a/tab_1_GBW2JGJ2.png"
+ },
+ {
+  "citekey": "aiFerroelectricityCoexistedPorbital2022",
+  "filename": "tab_1_F77ML8K3.png",
+  "alt": "表1 各体系电偶极矩、二维/三维极化、真空能级差与反转势垒汇总",
+  "path": "../../raw/figures/aiFerroelectricityCoexistedPorbital2022/tab_1_F77ML8K3.png"
+ },
+ {
+  "citekey": "bhowalPolarMetalsPrinciples2023b",
+  "filename": "eq_1_GRQCHY2Y.png",
+  "alt": "公式1 Rashba 哈密顿量 H_R = α_R(σ×k)·ẑ",
+  "path": "../../raw/figures/bhowalPolarMetalsPrinciples2023b/eq_1_GRQCHY2Y.png"
+ },
+ {
+  "citekey": "bhowalPolarMetalsPrinciples2023b",
+  "filename": "eq_2_6B39EVXQ.png",
+  "alt": "公式2 贝里曲率偶极子 D_bd 定义",
+  "path": "../../raw/figures/bhowalPolarMetalsPrinciples2023b/eq_2_6B39EVXQ.png"
+ },
+ {
+  "citekey": "bhowalPolarMetalsPrinciples2023b",
+  "filename": "eq_3_6CAHWPFM.png",
+  "alt": "公式3 动磁电效应磁化 M_j 表达式",
+  "path": "../../raw/figures/bhowalPolarMetalsPrinciples2023b/eq_3_6CAHWPFM.png"
+ },
+ {
+  "citekey": "blochlProjectorAugmentedwaveMethod1994b",
+  "filename": "fig_3_VUN7LY3T.png",
+  "alt": "Mn 原子波函数精度",
+  "path": "../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_3_VUN7LY3T.png"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "filename": "fig_2_I5CNT3WX.png",
+  "alt": "图2 CrS₂、CrSe₂、CrTe₂在双轴应变(εx, εy)下的总能量地形图，显示NM-CDW与FM-CDW两个能谷及其间势垒（101/35.1/5.9 meV/f.u.）",
+  "path": "../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_2_I5CNT3WX.png"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "filename": "fig_6_G7J6AFJX.png",
+  "alt": "图6 电荷掺杂诱导CrS₂ NM↔FM CDW可逆相变：(a)(b) 晶格常数随电子/空穴注入的滞后回线；(c) 相变能垒随掺杂浓度降低",
+  "path": "../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_6_G7J6AFJX.png"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "filename": "tab_1_8B4NNDWG.png",
+  "alt": "表1 HgX₂体相与双层关键参数：结合能、极化、Hg位移、FE-PE能垒",
+  "path": "../../raw/figures/chenStrongSlidingFerroelectricity2024/tab_1_8B4NNDWG.png"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "filename": "fig_4_A8RC6ZVV.png",
+  "alt": "图4 低温拉曼光谱与CDW振膜模式",
+  "path": "../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_4_A8RC6ZVV.png"
+ },
+ {
+  "citekey": "cossuStackingChargedensityWaves2024",
+  "filename": "fig_4_Q3DQNIFN.png",
+  "alt": "图4：GGA+DF 下各 CDW 构型的 Se-Se 键长斑块模式",
+  "path": "../../raw/figures/cossuStackingChargedensityWaves2024/fig_4_Q3DQNIFN.png"
+ },
+ {
+  "citekey": "cossuStackingChargedensityWaves2024",
+  "filename": "fig_5_GXNU2V27.png",
+  "alt": "图5：正常相、单层 HC 与双层三种 CDW 的恒流模式模拟 STM 图像（-0.2 V）",
+  "path": "../../raw/figures/cossuStackingChargedensityWaves2024/fig_5_GXNU2V27.png"
+ },
+ {
+  "citekey": "cossuStackingChargedensityWaves2024",
+  "filename": "tab_2_X3L9MSGS.png",
+  "alt": "表II：双层与单层 CDW 相对能量（GGA 与 GGA+DF，meV/f.u.）",
+  "path": "../../raw/figures/cossuStackingChargedensityWaves2024/tab_2_X3L9MSGS.png"
+ },
+ {
+  "citekey": "deSousa2008electrical",
+  "filename": "fig_1_MFP3ILKR.png",
+  "alt": "图1 自旋波模式示意图",
+  "path": "../../raw/figures/deSousa2008electrical/fig_1_MFP3ILKR.png"
+ },
+ {
+  "citekey": "deSousa2008electrical",
+  "filename": "fig_2_R7A39F2L.png",
+  "alt": "图2 低频磁静波色散",
+  "path": "../../raw/figures/deSousa2008electrical/fig_2_R7A39F2L.png"
+ },
+ {
+  "citekey": "deSousa2008electrical",
+  "filename": "eq_1_Y9P2ARA9.png",
+  "alt": "公式1 自由能模型",
+  "path": "../../raw/figures/deSousa2008electrical/eq_1_Y9P2ARA9.png"
+ },
+ {
+  "citekey": "deSousa2008electrical",
+  "filename": "eq_2_UN2VYJHQ.png",
+  "alt": "公式2 平衡态磁化",
+  "path": "../../raw/figures/deSousa2008electrical/eq_2_UN2VYJHQ.png"
+ },
+ {
+  "citekey": "deSousa2008electrical",
+  "filename": "eq_3_5JPU4UAB.png",
+  "alt": "公式3 LL方程",
+  "path": "../../raw/figures/deSousa2008electrical/eq_3_5JPU4UAB.png"
+ },
+ {
+  "citekey": "deSousa2008electrical",
+  "filename": "eq_4_73M6B244.png",
+  "alt": "公式4 线性化方程",
+  "path": "../../raw/figures/deSousa2008electrical/eq_4_73M6B244.png"
+ },
+ {
+  "citekey": "deSousa2008electrical",
+  "filename": "eq_5_5UMZPRN2.png",
+  "alt": "公式5 退磁场",
+  "path": "../../raw/figures/deSousa2008electrical/eq_5_5UMZPRN2.png"
+ },
+ {
+  "citekey": "deSousa2008electrical",
+  "filename": "eq_6_B9NHXCTN.png",
+  "alt": "公式6 电磁振子耦合",
+  "path": "../../raw/figures/deSousa2008electrical/eq_6_B9NHXCTN.png"
+ },
+ {
+  "citekey": "deSousa2008electrical",
+  "filename": "eq_7_KENZE8X2.png",
+  "alt": "公式7 低频色散关系",
+  "path": "../../raw/figures/deSousa2008electrical/eq_7_KENZE8X2.png"
+ },
+ {
+  "citekey": "dingPredictionIntrinsicTwodimensional2017a",
+  "filename": "fig_2_SFY5AWMG.png",
+  "alt": "图2 极化反转动力学路径：(a)中心Se直接位移能垒0.85 eV；(b)三步协同运动路径能垒仅0.066 eV",
+  "path": "../../raw/figures/dingPredictionIntrinsicTwodimensional2017a/fig_2_SFY5AWMG.png"
+ },
+ {
+  "citekey": "dingPredictionIntrinsicTwodimensional2017a",
+  "filename": "fig_4_R4T9H5FQ.png",
+  "alt": "图4 畴壁运动动力学路径：低能畴壁构型形成能 0.22 eV/单胞，移动能垒 0.40/0.28 eV per unit cell，远低于直接位移的0.85 eV",
+  "path": "../../raw/figures/dingPredictionIntrinsicTwodimensional2017a/fig_4_R4T9H5FQ.png"
+ },
+ {
+  "citekey": "dingPredictionIntrinsicTwodimensional2017a",
+  "filename": "fig_5_TVNYX8LU.png",
+  "alt": "图5 In2Se3基异质结电子结构：(a)单层In2Se3间接带隙1.46 eV(HSE06)；(b-e)In2Se3/石墨烯中肖特基势垒随极化翻转可调；(f-i)In2Se3/WSe2中极化翻转导致显著带隙减小",
+  "path": "../../raw/figures/dingPredictionIntrinsicTwodimensional2017a/fig_5_TVNYX8LU.png"
+ },
+ {
+  "citekey": "dudarevElectronenergylossSpectraStructural1998a",
+  "filename": "fig_1_D42XHL87.png",
+  "alt": "图1 上：氧K边EELS实验谱与LSDA/LSDA+U计算的O 2p空态DOS对比；下：总能量随晶格常数变化曲线",
+  "path": "../../raw/figures/dudarevElectronenergylossSpectraStructural1998a/fig_1_D42XHL87.png"
+ },
+ {
+  "citekey": "dudarevElectronenergylossSpectraStructural1998a",
+  "filename": "eq_1_Q5JBCHIW.png",
+  "alt": "公式(1) 含轨道简并的模型哈密顿量，含Ū和J̄两项",
+  "path": "../../raw/figures/dudarevElectronenergylossSpectraStructural1998a/eq_1_Q5JBCHIW.png"
+ },
+ {
+  "citekey": "dudarevElectronenergylossSpectraStructural1998a",
+  "filename": "eq_4_UT7YQAUM.png",
+  "alt": "公式(4) LSDA+U总能量泛函（对角占据数形式）",
+  "path": "../../raw/figures/dudarevElectronenergylossSpectraStructural1998a/eq_4_UT7YQAUM.png"
+ },
+ {
+  "citekey": "dudarevElectronenergylossSpectraStructural1998a",
+  "filename": "eq_6_KX36V9IK.png",
+  "alt": "公式(6) 单电子势矩阵元 V_jl^σ = δE_LSDA/δρ_jl^σ + (Ū-J̄)(δ_jl/2 - ρ_jl^σ)",
+  "path": "../../raw/figures/dudarevElectronenergylossSpectraStructural1998a/eq_6_KX36V9IK.png"
+ },
+ {
+  "citekey": "dudarevElectronenergylossSpectraStructural1998a",
+  "filename": "eq_7_YP9VVUC6.png",
+  "alt": "公式(7) 用Kohn-Sham本征值表示的总能量，含双计数修正项",
+  "path": "../../raw/figures/dudarevElectronenergylossSpectraStructural1998a/eq_7_YP9VVUC6.png"
+ },
+ {
+  "citekey": "fengFerroelectricityMultiferroicityTwodimensional2020",
+  "filename": "fig_3_DRGCZ5TZ.png",
+  "alt": "图3 CINEB 最小能量路径：FE-PE-FE 翻转（a,b）与 FE-AFE 相变（c,d），势垒 0.34/0.31 eV 与 0.13/0.12 eV",
+  "path": "../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_3_DRGCZ5TZ.png"
+ },
+ {
+  "citekey": "fengFerroelectricityMultiferroicityTwodimensional2020",
+  "filename": "fig_6_KSEK8MIC.png",
+  "alt": "图6 外电场方向 (a) 与四态（FE-AFM/FE-FM/AFE-AFM/AFE-FM）能量随电场变化，0.82 V/Å 处发生 FE-AFM ↔ AFE-FM 切换",
+  "path": "../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_6_KSEK8MIC.png"
+ },
+ {
+  "citekey": "fengFerroelectricityMultiferroicityTwodimensional2020",
+  "filename": "eq_1_8NSJ2NRV.png",
+  "alt": "Eform = (E_Sc2P2Se6 − 2μSc − 2μP − 6μSe)/n",
+  "path": "../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/eq_1_8NSJ2NRV.png"
+ },
+ {
+  "citekey": "fengFerroelectricityMultiferroicityTwodimensional2020",
+  "filename": "eq_2_RVMXSQ4R.png",
+  "alt": "Eform = (E_ScCrP2Se6 − μSc − μCr − 2μP − 6μSe)/n",
+  "path": "../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/eq_2_RVMXSQ4R.png"
+ },
+ {
+  "citekey": "fengFerroelectricityMultiferroicityTwodimensional2020",
+  "filename": "tab_1_C76XBQJN.png",
+  "alt": "tab_1",
+  "path": "../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/tab_1_C76XBQJN.png"
+ },
+ {
+  "citekey": "fengFerroelectricityMultiferroicityTwodimensional2020",
+  "filename": "tab_2_XJCN8GYA.png",
+  "alt": "tab_2",
+  "path": "../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/tab_2_XJCN8GYA.png"
+ },
+ {
+  "citekey": "fiebigEvolutionMultiferroics2016",
+  "filename": "fig_6_YGJN2WD3.png",
+  "alt": "图6 回旋自旋结构中的电磁振子：不同自旋激发模式对应不同极化振荡",
+  "path": "../../raw/figures/fiebigEvolutionMultiferroics2016/fig_6_YGJN2WD3.png"
+ },
+ {
+  "citekey": "fornerQuantumTemperatureEffects1993",
+  "filename": "fig_4_H44SYVER.png",
+  "alt": "图4 T=0 K 三链 |D₂⟩ 模型中 A/E/L 三种初始激发的概率演化",
+  "path": "../../raw/figures/fornerQuantumTemperatureEffects1993/fig_4_H44SYVER.png"
+ },
+ {
+  "citekey": "fornerQuantumTemperatureEffects1993",
+  "filename": "fig_5_S8YM3HWP.png",
+  "alt": "图5 图4 三种激发各取一条链的展示，孤子形态相似",
+  "path": "../../raw/figures/fornerQuantumTemperatureEffects1993/fig_5_S8YM3HWP.png"
+ },
+ {
+  "citekey": "fornerQuantumTemperatureEffects1993",
+  "filename": "fig_7_IJ3GVAZB.png",
+  "alt": "图7 |D₁⟩ 态 A 模式：三链与标准参数单链一致，无需重整化（X=62 与 180 pN）",
+  "path": "../../raw/figures/fornerQuantumTemperatureEffects1993/fig_7_IJ3GVAZB.png"
+ },
+ {
+  "citekey": "fornerQuantumTemperatureEffects1993",
+  "filename": "fig_8_IKE7SU6I.png",
+  "alt": "图8 T=300 K 三链 |D₁⟩ 局域激发下不同 (W,X) 的孤子钉扎/传播行为",
+  "path": "../../raw/figures/fornerQuantumTemperatureEffects1993/fig_8_IKE7SU6I.png"
+ },
+ {
+  "citekey": "fornerQuantumTemperatureEffects1993",
+  "filename": "fig_9_C54DDFU2.png",
+  "alt": "图9 同图8，但为 E 模式初始激发",
+  "path": "../../raw/figures/fornerQuantumTemperatureEffects1993/fig_9_C54DDFU2.png"
+ },
+ {
+  "citekey": "fornerQuantumTemperatureEffects1993",
+  "filename": "fig_10_G5QKSR4D.png",
+  "alt": "图10 同图8，但为对称 A 模式（三链相同，仅示一链）",
+  "path": "../../raw/figures/fornerQuantumTemperatureEffects1993/fig_10_G5QKSR4D.png"
+ },
+ {
+  "citekey": "gaoStrainEngineeringFerroelectric2024",
+  "filename": "fig_2_IN5TJMNF.png",
+  "alt": "单轴应变调控能量、极化与势垒",
+  "path": "../../raw/figures/gaoStrainEngineeringFerroelectric2024/fig_2_IN5TJMNF.png"
+ },
+ {
+  "citekey": "gaoStrainEngineeringFerroelectric2024",
+  "filename": "eq_1_8LY7GLV9.png",
+  "alt": "转变应变张量定义",
+  "path": "../../raw/figures/gaoStrainEngineeringFerroelectric2024/eq_1_8LY7GLV9.png"
+ },
+ {
+  "citekey": "gaoStrainEngineeringFerroelectric2024",
+  "filename": "eq_2_VYQ8NWNX.png",
+  "alt": "2D应变矩阵形式",
+  "path": "../../raw/figures/gaoStrainEngineeringFerroelectric2024/eq_2_VYQ8NWNX.png"
+ },
+ {
+  "citekey": "gaoStrainEngineeringFerroelectric2024",
+  "filename": "eq_3_QGZE4SD7.png",
+  "alt": "η21转变应变张量",
+  "path": "../../raw/figures/gaoStrainEngineeringFerroelectric2024/eq_3_QGZE4SD7.png"
+ },
+ {
+  "citekey": "gaoStrainEngineeringFerroelectric2024",
+  "filename": "eq_4_DGN4M7N8.png",
+  "alt": "η31转变应变张量",
+  "path": "../../raw/figures/gaoStrainEngineeringFerroelectric2024/eq_4_DGN4M7N8.png"
+ },
+ {
+  "citekey": "gomez-ortizKittelLawDomain2023",
+  "filename": "fig_3_KHD8X69N.png",
+  "alt": "图3 力常数谱分析",
+  "path": "../../raw/figures/gomez-ortizKittelLawDomain2023/fig_3_KHD8X69N.png"
+ },
+ {
+  "citekey": "guanRecentProgressTwoDimensional2020",
+  "filename": "fig_1_TFDQCV55.png",
+  "alt": "图1 理论上的二维铁电材料：中心对称与畸变1T-MoS2原子结构、能带及电荷密度；MX2三聚化畸变模式与锯齿链",
+  "path": "../../raw/figures/guanRecentProgressTwoDimensional2020/fig_1_TFDQCV55.png"
+ },
+ {
+  "citekey": "guanRecentProgressTwoDimensional2020",
+  "filename": "tab_1_C3YX4WQX.png",
+  "alt": "表1 理论预测的二维铁电材料池（含年份、IP/OOP、极化值、厚度、Tc、机制、参考文献）",
+  "path": "../../raw/figures/guanRecentProgressTwoDimensional2020/tab_1_C3YX4WQX.png"
+ },
+ {
+  "citekey": "guoAdvancesTwodimensionalFerroelectric2025",
+  "filename": "fig_7_ZGPUVX9E.png",
+  "alt": "图7：非易失存储与光电异质结（3R-MoS₂多态/MEP能垒/疲劳特性/53 ns脉冲/铁电BN-WSe₂激子调控/PL谱/泵浦探测激子限域/WSe₂-WTe₂非线性反常霍尔）",
+  "path": "../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_7_ZGPUVX9E.png"
+ },
+ {
+  "citekey": "guoAdvancesTwodimensionalFerroelectric2025",
+  "filename": "eq_1_HLFFW8ZS.png",
+  "alt": "公式(1)：Berry phase 极化强度 P = (e/(2π)³) Σ_n^occ ∫_BZ dk A_n(k)",
+  "path": "../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/eq_1_HLFFW8ZS.png"
+ },
+ {
+  "citekey": "guoAdvancesTwodimensionalFerroelectric2025",
+  "filename": "eq_2_P3F62JLF.png",
+  "alt": "公式(2)：层间差分电荷密度 Δρ_interlayer(r) = ρ_total(r) − Σ_i ρ_isolated^i(r)",
+  "path": "../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/eq_2_P3F62JLF.png"
+ },
+ {
+  "citekey": "hallEnvironmentalControlCharge",
+  "filename": "fig_5_GVH5QXYH.png",
+  "alt": "图5 不同掺杂 x 与杂化 Γ 下的声子色散及掺杂–杂化 CDW 相图（3×3 / 2×2 / 无 CDW）",
+  "path": "../../raw/figures/hallEnvironmentalControlCharge/fig_5_GVH5QXYH.png"
+ },
+ {
+  "citekey": "hallEnvironmentalControlCharge",
+  "filename": "eq_1_7WBRZCSC.png",
+  "alt": "公式1 由 TB 费米面面积计算载流子浓度 n_e=2−(A_FS,h,↑+A_FS,h,↓)/A_BZ",
+  "path": "../../raw/figures/hallEnvironmentalControlCharge/eq_1_7WBRZCSC.png"
+ },
+ {
+  "citekey": "hallEnvironmentalControlCharge",
+  "filename": "eq_2_2CGFLMXF.png",
+  "alt": "公式2 声子自能 Π_{qαβ}=(2/N)Σ g (f_{k+q,m}−f_{k,n})/(ε_{k+q,m}−ε_{k,n}) g*",
+  "path": "../../raw/figures/hallEnvironmentalControlCharge/eq_2_2CGFLMXF.png"
+ },
+ {
+  "citekey": "hanPolarTopologicalMaterials2025",
+  "filename": "fig_1_N2QJLWJM.png",
+  "alt": "极性拓扑发展里程碑与早期理论预测：时间线、降维策略、PZT薄膜厚度依赖的通量闭合畴、PZT纳米棒/BTO纳米点中的涡旋预言",
+  "path": "../../raw/figures/hanPolarTopologicalMaterials2025/fig_1_N2QJLWJM.png"
+ },
+ {
+  "citekey": "hanPolarTopologicalMaterials2025",
+  "filename": "fig_3_PVEGGHU4.png",
+  "alt": "典型铁电材料各向异性：四方/菱方相极化变体、有机分子取向、Bloch型畴壁、各向异性对Landau能势垒的平坦化",
+  "path": "../../raw/figures/hanPolarTopologicalMaterials2025/fig_3_PVEGGHU4.png"
+ },
+ {
+  "citekey": "hanPolarTopologicalMaterials2025",
+  "filename": "fig_13_23FXQ3JQ.png",
+  "alt": "THz场下极性涡旋集体动力学：CW/CCW涡旋对弹簧球链模型；004超晶格峰与δ04卫星峰傅里叶谱中的可调涡旋子模式；涡旋子振荡周期内的手性动态反转",
+  "path": "../../raw/figures/hanPolarTopologicalMaterials2025/fig_13_23FXQ3JQ.png"
+ },
+ {
+  "citekey": "heUltrafastSwitchingDynamics2024",
+  "filename": "fig_2_WP5XMYXN.png",
+  "alt": "图2 DP模型与DFT的能量/原子力基准测试（能量误差0.60 meV/atom）",
+  "path": "../../raw/figures/heUltrafastSwitchingDynamics2024/fig_2_WP5XMYXN.png"
+ },
+ {
+  "citekey": "henkelmanClimbingImageNudged2000c",
+  "filename": "fig_1_KRQQQH5S.png",
+  "alt": "CH4/Ir(111) 解离吸附 MEP：常规 NEB 与 CI-NEB 对比",
+  "path": "../../raw/figures/henkelmanClimbingImageNudged2000c/fig_1_KRQQQH5S.png"
+ },
+ {
+  "citekey": "henkelmanClimbingImageNudged2000c",
+  "filename": "fig_2_UCDE3WDT.png",
+  "alt": "H2/Si(100) 解离吸附 MEP：等弹簧与可变弹簧 CI-NEB 对比",
+  "path": "../../raw/figures/henkelmanClimbingImageNudged2000c/fig_2_UCDE3WDT.png"
+ },
+ {
+  "citekey": "hillWhyAreThere2000a",
+  "filename": "fig_6_77XXFCEF.png",
+  "alt": "图6 B位阳离子双势阱势能",
+  "path": "../../raw/figures/hillWhyAreThere2000a/fig_6_77XXFCEF.png"
+ },
+ {
+  "citekey": "hillWhyAreThere2000a",
+  "filename": "fig_14_5IHZ4TQ3.png",
+  "alt": "图14 不稳定铁电声子模式本征矢",
+  "path": "../../raw/figures/hillWhyAreThere2000a/fig_14_5IHZ4TQ3.png"
+ },
+ {
+  "citekey": "huProgressProspectsLowdimensional2019",
+  "filename": "tab_1_7HW925PZ.png",
+  "alt": "表1 已报道低维铁电材料汇总（极化值、方向、翻转势垒、Tc、理论/实验标注）",
+  "path": "../../raw/figures/huProgressProspectsLowdimensional2019/tab_1_7HW925PZ.png"
+ },
+ {
+  "citekey": "huangPolarPhaseDomain2019",
+  "filename": "fig_2_5BJMDIVH.png",
+  "alt": "图2 截面DF-TEM与HAADF-STEM：室温1T′孪晶壁含Td单元，80 K下Td/1T′类超晶格相畴壁",
+  "path": "../../raw/figures/huangPolarPhaseDomain2019/fig_2_5BJMDIVH.png"
+ },
+ {
+  "citekey": "huangPolarPhaseDomain2019",
+  "filename": "fig_4_XGAF6DAZ.png",
+  "alt": "图4 平面DF-TEM中Td极性畴、电子束操控畴壁、DFT势能面与低能垒翻转路径、群-子群关系",
+  "path": "../../raw/figures/huangPolarPhaseDomain2019/fig_4_XGAF6DAZ.png"
+ },
+ {
+  "citekey": "junqueraCriticalThicknessFerroelectricity2003",
+  "filename": "fig_2_XASEAFPQ.png",
+  "alt": "图2 不同 BaTiO3 厚度 m=2–10 下能量随软模畸变 y 的变化：m≤4 顺电稳定，m≥6 出现双阱铁电相；插图为 P_s 随 m 的恢复",
+  "path": "../../raw/figures/junqueraCriticalThicknessFerroelectricity2003/fig_2_XASEAFPQ.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_4_HGFDZPHI.png",
+  "alt": "eq4",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_4_HGFDZPHI.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_5_T7EMI4TE.png",
+  "alt": "eq5",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_5_T7EMI4TE.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_6_YYHPFE8I.png",
+  "alt": "eq6",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_6_YYHPFE8I.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_7_DG7HVECU.png",
+  "alt": "eq7",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_7_DG7HVECU.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_10_EG6HZVKT.png",
+  "alt": "eq10",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_10_EG6HZVKT.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_13_LFPVEJ4K.png",
+  "alt": "eq13",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_13_LFPVEJ4K.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_14_I93RIQPS.png",
+  "alt": "eq14",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_14_I93RIQPS.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_16_ED73SZUL.png",
+  "alt": "eq16",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_16_ED73SZUL.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_17_ENVBAXF3.png",
+  "alt": "eq17",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_17_ENVBAXF3.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_18_ARIS5SRN.png",
+  "alt": "eq18",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_18_ARIS5SRN.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_19_QEYAP45U.png",
+  "alt": "eq19",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_19_QEYAP45U.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_20_URI5MQNZ.png",
+  "alt": "eq20",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_20_URI5MQNZ.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_21_8CWLAPNS.png",
+  "alt": "eq21",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_21_8CWLAPNS.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_23_QRKNBC4D.png",
+  "alt": "eq23",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_23_QRKNBC4D.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_25_FNM46Z9F.png",
+  "alt": "eq25",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_25_FNM46Z9F.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_26_DTISGU7I.png",
+  "alt": "eq26",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_26_DTISGU7I.png"
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "filename": "eq_27_7T5QSPXL.png",
+  "alt": "eq27",
+  "path": "../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_27_7T5QSPXL.png"
+ },
+ {
+  "citekey": "khazaeiNovelElectronicMagnetic2013",
+  "filename": "fig_2_7VHUK5LE.png",
+  "alt": "图4 Ti2CO2声子色散谱（无虚频，动力学稳定）",
+  "path": "../../raw/figures/khazaeiNovelElectronicMagnetic2013/fig_2_7VHUK5LE.png"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "filename": "fig_1_FYHIVIJQ.png",
+  "alt": "图1 液态/非晶态守恒量Ω与势能E随时间变化，验证数值稳定性（液态<5 meV/atom，非晶<1 meV/atom）",
+  "path": "../../raw/figures/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994/fig_1_FYHIVIJQ.png"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "filename": "fig_2_66JCTN4F.png",
+  "alt": "图2 金刚石/β-Sn/fcc/bcc/sc 多相 E-V 与 P-V 状态方程，验证赝势（金刚石→β-Sn 相变压计算 75 kbar vs 实验 100 kbar）",
+  "path": "../../raw/figures/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994/fig_2_66JCTN4F.png"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "filename": "fig_3_5XCMSDMI.png",
+  "alt": "图3 完整热历史：1250 K 液态→分段淬火→600 K 退火→300 K 非晶，温度与势能随时间演化",
+  "path": "../../raw/figures/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994/fig_3_5XCMSDMI.png"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "filename": "fig_4_X5MYLLJD.png",
+  "alt": "图4 不同温度下均方位移 ⟨r²(t)⟩，扩散随降温急剧冻结",
+  "path": "../../raw/figures/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994/fig_4_X5MYLLJD.png"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "filename": "fig_9_6S6SJV8R.png",
+  "alt": "图9 扩散系数 D(T)：液态 D≈1.0×10⁻⁴ cm²/s，T_a 以下降至 6%",
+  "path": "../../raw/figures/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994/fig_9_6S6SJV8R.png"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "filename": "fig_10_GPYHLBTY.png",
+  "alt": "图10 液态与非晶态速度自相关函数 ψ(t)：液态笼蔽振荡 vs 非晶多频叠加",
+  "path": "../../raw/figures/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994/fig_10_GPYHLBTY.png"
+ },
+ {
+  "citekey": "kresseUltrasoftPseudopotentialsProjector1999c",
+  "filename": "eq_2_FQCU82JS.png",
+  "alt": "PAW 线性变换：从赝波函数恢复全电子波函数（Eq.2）",
+  "path": "../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_2_FQCU82JS.png"
+ },
+ {
+  "citekey": "kresseUltrasoftPseudopotentialsProjector1999c",
+  "filename": "eq_3_YBB62KAS.png",
+  "alt": "PAW 电荷密度分解 n = ñ + n¹ − ñ¹（Eq.3）",
+  "path": "../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_3_YBB62KAS.png"
+ },
+ {
+  "citekey": "kresseUltrasoftPseudopotentialsProjector1999c",
+  "filename": "eq_20_9ZF6QIUA.png",
+  "alt": "PAW 总能量三项分解 E = Ẽ + E¹ − Ẽ¹（Eq.20）",
+  "path": "../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_20_9ZF6QIUA.png"
+ },
+ {
+  "citekey": "kresseUltrasoftPseudopotentialsProjector1999c",
+  "filename": "eq_35_SUNR7ATM.png",
+  "alt": "US-PP 非局域势强度 G_ij^US（Eq.35），即 PAW 线性化产物",
+  "path": "../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_35_SUNR7ATM.png"
+ },
+ {
+  "citekey": "kresseUltrasoftPseudopotentialsProjector1999c",
+  "filename": "eq_50_F823C9C2.png",
+  "alt": "PAW 哈密顿算符 H = −½Δ + ṽ_eff + Σ|p̃_i⟩(D̂_ij+D¹_ij−D̃¹_ij)⟨p̃_j|（Eq.50）",
+  "path": "../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_50_F823C9C2.png"
+ },
+ {
+  "citekey": "lezoualchStudyChargeDensity",
+  "filename": "fig_4_SNX492YC.png",
+  "alt": "论文图4：1T-VSe₂ 与 1T-VTe₂ 单层沿 Γ-M-K-Γ 的声子色散，虚频软模标志 CDW 失稳波矢",
+  "path": "../../raw/figures/lezoualchStudyChargeDensity/fig_4_SNX492YC.png"
+ },
+ {
+  "citekey": "liFerroelasticityDomainPhysics2016",
+  "filename": "fig_5_XYSVC9LT.png",
+  "alt": "图5 沿a轴单轴拉伸下O1与O2/O3能量曲线及公切线（1%–4%共存区）",
+  "path": "../../raw/figures/liFerroelasticityDomainPhysics2016/fig_5_XYSVC9LT.png"
+ },
+ {
+  "citekey": "liFerroelasticityDomainPhysics2016",
+  "filename": "eq_1_HP8MGPF4.png",
+  "alt": "公式1 1T相超胞矩阵H0",
+  "path": "../../raw/figures/liFerroelasticityDomainPhysics2016/eq_1_HP8MGPF4.png"
+ },
+ {
+  "citekey": "liFerroelasticityDomainPhysics2016",
+  "filename": "eq_2_2S66YKHE.png",
+  "alt": "公式2 Green-Lagrange应变张量定义",
+  "path": "../../raw/figures/liFerroelasticityDomainPhysics2016/eq_2_2S66YKHE.png"
+ },
+ {
+  "citekey": "liFerroelasticityDomainPhysics2016",
+  "filename": "eq_3_EBEPXLQF.png",
+  "alt": "公式3 二维应变张量对称形式",
+  "path": "../../raw/figures/liFerroelasticityDomainPhysics2016/eq_3_EBEPXLQF.png"
+ },
+ {
+  "citekey": "liFerroelasticityDomainPhysics2016",
+  "filename": "eq_4_JSWN4I98.png",
+  "alt": "公式4 WTe2从1T到1T′三变体的自发应变矩阵η1/η2/η3",
+  "path": "../../raw/figures/liFerroelasticityDomainPhysics2016/eq_4_JSWN4I98.png"
+ },
+ {
+  "citekey": "liFerroelasticityDomainPhysics2016",
+  "filename": "eq_5_F7HM6IDY.png",
+  "alt": "公式5 O1→O2/O1→O3的相对转换应变张量e²₁/e³₁",
+  "path": "../../raw/figures/liFerroelasticityDomainPhysics2016/eq_5_F7HM6IDY.png"
+ },
+ {
+  "citekey": "liMonolayerPuckeredPentagonal2022",
+  "filename": "fig_4_SDLAKTEL.png",
+  "alt": "图4 铁弹翻转IS-MS-FS路径及NEB能垒(258 meV/atom)，易磁化轴随之旋转90°",
+  "path": "../../raw/figures/liMonolayerPuckeredPentagonal2022/fig_4_SDLAKTEL.png"
+ },
+ {
+  "citekey": "liMonolayerPuckeredPentagonal2022",
+  "filename": "eq_1_JWCKFJZ2.png",
+  "alt": "公式(1) 准二维海森堡模型哈密顿量 H=-J0Σ⟨i,j⟩Si·Sj - λΣSi²",
+  "path": "../../raw/figures/liMonolayerPuckeredPentagonal2022/eq_1_JWCKFJZ2.png"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "filename": "eq_4_ENLRRCIZ.png",
+  "alt": "公式4 Hanle公式",
+  "path": "../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/eq_4_ENLRRCIZ.png"
+ },
+ {
+  "citekey": "lvUnconventionalHystereticTransition2022",
+  "filename": "fig_3_6R9M3JH7.png",
+  "alt": "图3 CDW能隙Eg和一级衍射峰积分强度I_CDW的滞回行为，证明滞回源于序参量振幅变化",
+  "path": "../../raw/figures/lvUnconventionalHystereticTransition2022/fig_3_6R9M3JH7.png"
+ },
+ {
+  "citekey": "lvUnconventionalHystereticTransition2022",
+  "filename": "fig_4_TWS8WWQT.png",
+  "alt": "图4 候选机制排除：XANES排除价态转变、老化实验估算势垒>1 eV、RTe3/EuTe4结构对比、层间相位切换模型",
+  "path": "../../raw/figures/lvUnconventionalHystereticTransition2022/fig_4_TWS8WWQT.png"
+ },
+ {
+  "citekey": "martinThinfilmFerroelectricMaterials2016",
+  "filename": "fig_4_HJX46T8M.png",
+  "alt": "图4 器件应用：BiFeO3中109°畴壁的c-AFM导电证据；负电容双阱势能与C=d²U/dQ²<0示意；DFT计算LiNbO3上石墨烯n/p型掺杂；拉曼G峰空间成像显示载流子调制",
+  "path": "../../raw/figures/martinThinfilmFerroelectricMaterials2016/fig_4_HJX46T8M.png"
+ },
+ {
+  "citekey": "miaoMagneticFerroelectricMetal2024",
+  "filename": "tab_1_T9BJAJ33.png",
+  "alt": "表1 不同滑移操作下双层FGT的相对能量",
+  "path": "../../raw/figures/miaoMagneticFerroelectricMetal2024/tab_1_T9BJAJ33.png"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "filename": "eq_5_CHV2BXBT.png",
+  "alt": "Lifshitz 不变量耦合 f_me = g_ij E_i M_i ∂_j M_j（逆 DM 唯象项）",
+  "path": "../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_5_CHV2BXBT.png"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "filename": "eq_6_MIR7PCTA.png",
+  "alt": "螺旋诱导极化 P ∝ q × e_3",
+  "path": "../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_6_MIR7PCTA.png"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "filename": "eq_8_R4NXDVHZ.png",
+  "alt": "自旋哈密顿量 H = Σ J S_i S_j + Σ K S_i S_i - μ_B Σ g S_i H",
+  "path": "../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_8_R4NXDVHZ.png"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "filename": "eq_9_6K6YYPVD.png",
+  "alt": "磁致极化统一公式 P = -(1/V)⟨∂H/∂E⟩",
+  "path": "../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_9_6K6YYPVD.png"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "filename": "eq_13_EFE9JBVM.png",
+  "alt": "Onsager 倒易 α^em_ij(ω,L,H)=α^me_ji(ω,-L,H)",
+  "path": "../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_13_EFE9JBVM.png"
+ },
+ {
+  "citekey": "nahasFrustrationSelfOrderingTopological2016",
+  "filename": "fig_3_G45FFNWX.png",
+  "alt": "阻挫定量证据：逆介电常数-温度、MC自相关函数、缺陷空间概率分布",
+  "path": "../../raw/figures/nahasFrustrationSelfOrderingTopological2016/fig_3_G45FFNWX.png"
+ },
+ {
+  "citekey": "nahasFrustrationSelfOrderingTopological2016",
+  "filename": "eq_1_PSSAZUZG.png",
+  "alt": "蒙特卡洛时间自相关函数公式(1)",
+  "path": "../../raw/figures/nahasFrustrationSelfOrderingTopological2016/eq_1_PSSAZUZG.png"
+ },
+ {
+  "citekey": "niuDirectVisualizationLargeScale2021",
+  "filename": "eq_2_VTFU78ZM.png",
+  "alt": "公式2 Te 空位形成能计算式",
+  "path": "../../raw/figures/niuDirectVisualizationLargeScale2021/eq_2_VTFU78ZM.png"
+ },
+ {
+  "citekey": "perdewGeneralizedGradientApproximation1996a",
+  "filename": "tab_1_GMJNJVEU.png",
+  "alt": "表I 原子化能",
+  "path": "../../raw/figures/perdewGeneralizedGradientApproximation1996a/tab_1_GMJNJVEU.png"
+ },
+ {
+  "citekey": "perdewGeneralizedGradientApproximation1996a",
+  "filename": "eq_7_KUPYSBIE.png",
+  "alt": "eq7 H函数",
+  "path": "../../raw/figures/perdewGeneralizedGradientApproximation1996a/eq_7_KUPYSBIE.png"
+ },
+ {
+  "citekey": "perdewGeneralizedGradientApproximation1996a",
+  "filename": "eq_14_6VZ3PA5A.png",
+  "alt": "eq14 Fx",
+  "path": "../../raw/figures/perdewGeneralizedGradientApproximation1996a/eq_14_6VZ3PA5A.png"
+ },
+ {
+  "citekey": "petkovStructureIntercalatedCs2002",
+  "filename": "eq_1_89B8JNNH.png",
+  "alt": "公式(1)：PDF的傅里叶变换定义式",
+  "path": "../../raw/figures/petkovStructureIntercalatedCs2002/eq_1_89B8JNNH.png"
+ },
+ {
+  "citekey": "prosandeevKittelLawInBiFeO3Ultrathin2010",
+  "filename": "eq_1_QC77D3EP.png",
+  "alt": "公式(1)：包含 FE-AFD、磁偶极、磁交换、软模/AFD/应变-磁交换耦合、双二次耦合及 Dzyaloshinskii-Moriya 型项的有效哈密顿量",
+  "path": "../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/eq_1_QC77D3EP.png"
+ },
+ {
+  "citekey": "prosandeevKittelLawInBiFeO3Ultrathin2010",
+  "filename": "eq_2_PVFVZZCH.png",
+  "alt": "公式(2)：Kittel 唯象能量密度 e_tot=e0+A/w+Cw",
+  "path": "../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/eq_2_PVFVZZCH.png"
+ },
+ {
+  "citekey": "shuTwoDimensionalBlackArsenic2020",
+  "filename": "eq_1_HSKRPJHL.png",
+  "alt": "公式1 Z扫描透射率公式",
+  "path": "../../raw/figures/shuTwoDimensionalBlackArsenic2020/eq_1_HSKRPJHL.png"
+ },
+ {
+  "citekey": "shuTwoDimensionalBlackArsenic2020",
+  "filename": "eq_2_YHEALJHC.png",
+  "alt": "公式2 单光子吸收模型",
+  "path": "../../raw/figures/shuTwoDimensionalBlackArsenic2020/eq_2_YHEALJHC.png"
+ },
+ {
+  "citekey": "shuTwoDimensionalBlackArsenic2020",
+  "filename": "eq_3_CZVDUUZZ.png",
+  "alt": "公式3 时间带宽积公式",
+  "path": "../../raw/figures/shuTwoDimensionalBlackArsenic2020/eq_3_CZVDUUZZ.png"
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "filename": "eq_1_KY8JAUNW.png",
+  "alt": "Eq.1 滑动双层在垂直电场下的哈密顿量",
+  "path": "../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/eq_1_KY8JAUNW.png"
+ },
+ {
+  "citekey": "tanRevealingEmergentMagnetic2024",
+  "filename": "fig_4_TQTWANCS.png",
+  "alt": "图4 二维积分磁荷 |Qm| 随积分半径 r 的标度：半子线性增长、反半子近零并因织构间相互作用而偏离",
+  "path": "../../raw/figures/tanRevealingEmergentMagnetic2024/fig_4_TQTWANCS.png"
+ },
+ {
+  "citekey": "tangGridbasedBaderAnalysis2009",
+  "filename": "fig_1_KVIXKFR9.png",
+  "alt": "图1 在网法中被限制在网格点上的最陡上升路径与Bader体积分配",
+  "path": "../../raw/figures/tangGridbasedBaderAnalysis2009/fig_1_KVIXKFR9.png"
+ },
+ {
+  "citekey": "tangGridbasedBaderAnalysis2009",
+  "filename": "fig_5_92CQE7PC.png",
+  "alt": "图5 水分子O–H之间Bader分割面：在网法棱角分明 vs 近网法平滑自然",
+  "path": "../../raw/figures/tangGridbasedBaderAnalysis2009/fig_5_92CQE7PC.png"
+ },
+ {
+  "citekey": "tangGridbasedBaderAnalysis2009",
+  "filename": "fig_6_6VPUB9DV.png",
+  "alt": "图6 NaCl晶体中Na离子Bader价电荷随网格密度的收敛性：近网法单调收敛到0.828 e，在网法残留约0.01 e系统偏差",
+  "path": "../../raw/figures/tangGridbasedBaderAnalysis2009/fig_6_6VPUB9DV.png"
+ },
+ {
+  "citekey": "tangGridbasedBaderAnalysis2009",
+  "filename": "fig_7_DXF7DHMH.png",
+  "alt": "图7 水分子旋转45°前后Bader体积形状：在网法取向依赖明显，近网法基本不变",
+  "path": "../../raw/figures/tangGridbasedBaderAnalysis2009/fig_7_DXF7DHMH.png"
+ },
+ {
+  "citekey": "tangGridbasedBaderAnalysis2009",
+  "filename": "fig_8_KHXYRY68.png",
+  "alt": "图8 氧原子Bader电荷随分子旋转角的变化：在网法波动约0.1 e，近网法近似水平",
+  "path": "../../raw/figures/tangGridbasedBaderAnalysis2009/fig_8_KHXYRY68.png"
+ },
+ {
+  "citekey": "tangGridbasedBaderAnalysis2009",
+  "filename": "fig_9_LX93LDMB.png",
+  "alt": "图9 近网法计算时间与网格点数呈线性O(N)标度（约11.5 s/百万点，2.5 GHz G5 PowerPC）",
+  "path": "../../raw/figures/tangGridbasedBaderAnalysis2009/fig_9_LX93LDMB.png"
+ },
+ {
+  "citekey": "wuNonvolatileSwitchableHalfmetallicity2024",
+  "filename": "fig_6_CCWSDHLM.png",
+  "alt": "能带对齐、静电势、差分电荷密度与积分（图6）",
+  "path": "../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_6_CCWSDHLM.png"
+ },
+ {
+  "citekey": "wuNonvolatileSwitchableHalfmetallicity2024",
+  "filename": "eq_1_SBLTVUHU.png",
+  "alt": "海森堡哈密顿量（公式1）",
+  "path": "../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/eq_1_SBLTVUHU.png"
+ },
+ {
+  "citekey": "wuNonvolatileSwitchableHalfmetallicity2024",
+  "filename": "eq_2_LN5CXQKY.png",
+  "alt": "二阶微扰 MAE 公式（公式2）",
+  "path": "../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/eq_2_LN5CXQKY.png"
+ },
+ {
+  "citekey": "xuTwodimensionalFerroelasticityVan2021",
+  "filename": "eq_1_RV7ML8IY.png",
+  "alt": "公式1 A畴二维自发应变张量 εxx=+0.0049, εyy=-0.0049",
+  "path": "../../raw/figures/xuTwodimensionalFerroelasticityVan2021/eq_1_RV7ML8IY.png"
+ },
+ {
+  "citekey": "xuTwodimensionalFerroelasticityVan2021",
+  "filename": "eq_2_32AYJAP5.png",
+  "alt": "公式2 120°旋转矩阵J±",
+  "path": "../../raw/figures/xuTwodimensionalFerroelasticityVan2021/eq_2_32AYJAP5.png"
+ },
+ {
+  "citekey": "xuTwodimensionalFerroelasticityVan2021",
+  "filename": "eq_3_7FVA24F6.png",
+  "alt": "公式3 B畴自发应变张量",
+  "path": "../../raw/figures/xuTwodimensionalFerroelasticityVan2021/eq_3_7FVA24F6.png"
+ },
+ {
+  "citekey": "xuTwodimensionalFerroelasticityVan2021",
+  "filename": "eq_4_SRTNGGDU.png",
+  "alt": "公式4 C畴自发应变张量",
+  "path": "../../raw/figures/xuTwodimensionalFerroelasticityVan2021/eq_4_SRTNGGDU.png"
+ },
+ {
+  "citekey": "xuTwodimensionalFerroelasticityVan2021",
+  "filename": "fig_4_BVK6GKZN.png",
+  "alt": "图4 ≤0.5%外应变驱动的铁弹畴切换序列及A畴面积分数-应变曲线",
+  "path": "../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_4_BVK6GKZN.png"
+ },
+ {
+  "citekey": "xuTwodimensionalFerroelasticityVan2021",
+  "filename": "eq_5_AL5UGS89.png",
+  "alt": "公式5 3R相A变体三维应变张量（含εxz=-0.0126）",
+  "path": "../../raw/figures/xuTwodimensionalFerroelasticityVan2021/eq_5_AL5UGS89.png"
+ },
+ {
+  "citekey": "xuTwodimensionalFerroelasticityVan2021",
+  "filename": "eq_6_3IVQPWRA.png",
+  "alt": "公式6 3R相B变体三维应变张量",
+  "path": "../../raw/figures/xuTwodimensionalFerroelasticityVan2021/eq_6_3IVQPWRA.png"
+ },
+ {
+  "citekey": "xuTwodimensionalFerroelasticityVan2021",
+  "filename": "eq_7_MK27GVUB.png",
+  "alt": "公式7 3R相C变体三维应变张量",
+  "path": "../../raw/figures/xuTwodimensionalFerroelasticityVan2021/eq_7_MK27GVUB.png"
+ },
+ {
+  "citekey": "xunCoexistingMagnetismFerroelectric2024",
+  "filename": "eq_1_HMB6GSG3.png",
+  "alt": "公式(1)-(4) SOC有效哈密顿量与谷劈裂解析表达式",
+  "path": "../../raw/figures/xunCoexistingMagnetismFerroelectric2024/eq_1_HMB6GSG3.png"
+ },
+ {
+  "citekey": "yangRipplingFerroicPhase2021",
+  "filename": "eq_1_VAIRPZZ9.png",
+  "alt": "公式 机器学习势总能量表达式 Etot=ΣEi=ΣΣαm K(Vi,Vt)",
+  "path": "../../raw/figures/yangRipplingFerroicPhase2021/eq_1_VAIRPZZ9.png"
+ },
+ {
+  "citekey": "yangRipplingFerroicPhase2021",
+  "filename": "eq_4_QASXJXYU.png",
+  "alt": "公式 波纹热涨落 Gao-Huang 模型 <h²>≈16 kB T S0/(π² δ)",
+  "path": "../../raw/figures/yangRipplingFerroicPhase2021/eq_4_QASXJXYU.png"
+ },
+ {
+  "citekey": "yangStrainEngineeringTwodimensional2021",
+  "filename": "eq_1_TAWJDU8R.png",
+  "alt": "公式1 预应变定义 εpre=ΔL/L×100%",
+  "path": "../../raw/figures/yangStrainEngineeringTwodimensional2021/eq_1_TAWJDU8R.png"
+ },
+ {
+  "citekey": "yangStrainEngineeringTwodimensional2021",
+  "filename": "eq_2_MVDKLZED.png",
+  "alt": "公式2 褶皱顶部最大应变 ε=π²hδ(1−σ²)/λ²",
+  "path": "../../raw/figures/yangStrainEngineeringTwodimensional2021/eq_2_MVDKLZED.png"
+ },
+ {
+  "citekey": "yangStrainEngineeringTwodimensional2021",
+  "filename": "eq_3_HMFU6L9E.png",
+  "alt": "公式3 弯曲基底应变 ε=τ/(2R)；AFM针尖局部应变 ε=F/(AE)",
+  "path": "../../raw/figures/yangStrainEngineeringTwodimensional2021/eq_3_HMFU6L9E.png"
+ },
+ {
+  "citekey": "yangStrainEngineeringTwodimensional2021",
+  "filename": "eq_4_GCHGJJJ9.png",
+  "alt": "公式4 气泡高宽比 h/R=√(πγ/(5C₁Y))",
+  "path": "../../raw/figures/yangStrainEngineeringTwodimensional2021/eq_4_GCHGJJJ9.png"
+ },
+ {
+  "citekey": "yangStrainEngineeringTwodimensional2021",
+  "filename": "eq_5_MPIIV52Z.png",
+  "alt": "公式5 气泡局部应变 ε∝(h/R)²",
+  "path": "../../raw/figures/yangStrainEngineeringTwodimensional2021/eq_5_MPIIV52Z.png"
+ },
+ {
+  "citekey": "yangStrainEngineeringTwodimensional2021",
+  "filename": "eq_6_PSPYJIMK.png",
+  "alt": "公式6 悬浮膜中心应变 ε=σ(ν)(δ/a)²",
+  "path": "../../raw/figures/yangStrainEngineeringTwodimensional2021/eq_6_PSPYJIMK.png"
+ },
+ {
+  "citekey": "yangStrainEngineeringTwodimensional2021",
+  "filename": "eq_7_23JKPS6N.png",
+  "alt": "公式7 应变修正二阶非线性极化率张量 χ⁽²⁾ᵢⱼₖ=χ⁽²,⁰⁾ᵢⱼₖ+Pᵢⱼₖₗₘuₗₘ",
+  "path": "../../raw/figures/yangStrainEngineeringTwodimensional2021/eq_7_23JKPS6N.png"
+ },
+ {
+  "citekey": "yangStrainEngineeringTwodimensional2021",
+  "filename": "eq_8_6QU4TXB3.png",
+  "alt": "公式8（原文编号续）配套非线性光学/力学关系",
+  "path": "../../raw/figures/yangStrainEngineeringTwodimensional2021/eq_8_6QU4TXB3.png"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "filename": "tab_1_DUDZIDX5.png",
+  "alt": "磁学参数表",
+  "path": "../../raw/figures/zhangNonvolatileControlTopological2025/tab_1_DUDZIDX5.png"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "filename": "eq_1_VFQJF82Y.png",
+  "alt": "方程1 LLG",
+  "path": "../../raw/figures/zhangNonvolatileControlTopological2025/eq_1_VFQJF82Y.png"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "filename": "eq_3_4IHDA4XH.png",
+  "alt": "方程3 拓扑荷",
+  "path": "../../raw/figures/zhangNonvolatileControlTopological2025/eq_3_4IHDA4XH.png"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "filename": "eq_4_MV938FQK.png",
+  "alt": "方程4 自旋哈密顿量",
+  "path": "../../raw/figures/zhangNonvolatileControlTopological2025/eq_4_MV938FQK.png"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "filename": "eq_5_LRHE8QNY.png",
+  "alt": "方程5 Thiele",
+  "path": "../../raw/figures/zhangNonvolatileControlTopological2025/eq_5_LRHE8QNY.png"
+ },
+ {
+  "citekey": "zhaoRealization2DMultiferroic2024",
+  "filename": "tab_1_P98XXL3P.png",
+  "alt": "表1：19 种非磁铁电体带隙、极化与翻转势垒",
+  "path": "../../raw/figures/zhaoRealization2DMultiferroic2024/tab_1_P98XXL3P.png"
+ },
+ {
+  "citekey": "zhaoRealization2DMultiferroic2024",
+  "filename": "tab_2_BHS6QQPS.png",
+  "alt": "表2：21 种多铁体磁基态、T_C/T_N、MAE、极化与势垒",
+  "path": "../../raw/figures/zhaoRealization2DMultiferroic2024/tab_2_BHS6QQPS.png"
+ },
+ {
+  "citekey": "zhongHighthroughputExfoliationMultiferroic2025",
+  "filename": "eq_1_V7P47HW7.png",
+  "alt": "Eq.1 键密度 ρ=N(R_i,R_j)/A",
+  "path": "../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_1_V7P47HW7.png"
+ },
+ {
+  "citekey": "zhongHighthroughputExfoliationMultiferroic2025",
+  "filename": "eq_2_RTSAUWAA.png",
+  "alt": "Eq.2 剥离能增量求和 ΔE_j",
+  "path": "../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_2_RTSAUWAA.png"
+ },
+ {
+  "citekey": "zhongHighthroughputExfoliationMultiferroic2025",
+  "filename": "eq_3_HFYN8N2W.png",
+  "alt": "Eq.3 对称性等价判据 ŜR_j≈R_i≤δ",
+  "path": "../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_3_HFYN8N2W.png"
+ },
+ {
+  "citekey": "zhongHighthroughputExfoliationMultiferroic2025",
+  "filename": "eq_4_RIHQZJF6.png",
+  "alt": "Eq.4 两相平均原子位移 ΔR",
+  "path": "../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_4_RIHQZJF6.png"
+ },
+ {
+  "citekey": "zhongHighthroughputExfoliationMultiferroic2025",
+  "filename": "eq_5_4G2LJYRT.png",
+  "alt": "Eq.5 Arrhenius 1/τ=A·exp(−E_A/k_BT)",
+  "path": "../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_5_4G2LJYRT.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_2_5LAQBAH5.png",
+  "alt": "子过程 γγ→l⁻l⁺ 的树级费曼图：SM的t/u道与非粒子s道交换",
+  "path": "../../raw/figures/Şahin2009probe/fig_2_5LAQBAH5.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_3_R6SGB7CS.png",
+  "alt": "pp→pl⁻l⁺p截面随末态轻子p_t,min的变化：SM在高p_t处骤降，非粒子贡献平坦",
+  "path": "../../raw/figures/Şahin2009probe/fig_3_R6SGB7CS.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_11_QLNM5NJK.png",
+  "alt": "子过程 γγ→γγ 的树级费曼图：非粒子s/t/u道（SM树级禁止）",
+  "path": "../../raw/figures/Şahin2009probe/fig_11_QLNM5NJK.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_12_E3XFYLRV.png",
+  "alt": "γγ→γγ的SM 1-loop本底：左总截面随E_cm（<200 GeV因费米子圈急升），右角分布在前后向达峰",
+  "path": "../../raw/figures/Şahin2009probe/fig_12_E3XFYLRV.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "fig_17_PIHYE2NA.png",
+  "alt": "pp→pγγp对能量标度Λ_U的95% C.L.下限（κ=1），d_U在1.4–1.9时优于双轻子道",
+  "path": "../../raw/figures/Şahin2009probe/fig_17_PIHYE2NA.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "eq_1_45GS54YR.png",
+  "alt": "公式(1.3)–(1.7)：标量与张量非粒子传播子、A_{d_U}与张量投影算符T^{μν,ρσ}",
+  "path": "../../raw/figures/Şahin2009probe/eq_1_45GS54YR.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "eq_2_JVER5U93.png",
+  "alt": "公式(2.1)–(2.6)：EPA截面卷积、有效γγ亮度、等效光子谱与质子电/磁形状因子",
+  "path": "../../raw/figures/Şahin2009probe/eq_2_JVER5U93.png"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "filename": "eq_3_5FHLBYZH.png",
+  "alt": "公式(3.1)：γγ→l⁻l⁺极化求和振幅平方（SM+标量+张量及干涉项）",
+  "path": "../../raw/figures/Şahin2009probe/eq_3_5FHLBYZH.png"
+ }
+]

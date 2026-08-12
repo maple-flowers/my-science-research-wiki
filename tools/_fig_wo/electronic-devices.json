@@ -1,0 +1,272 @@
+[
+ {
+  "citekey": "Kumar2017microstructuring",
+  "filename": "fig_5_5NHRW2UU.png",
+  "alt": "图5 不同峰值强度（2.5–5.7 GW/cm²）与写入速度（300–1600 μm/s）下微线条的 AFM 形貌与高度剖面",
+  "path": "../../raw/figures/Kumar2017microstructuring/fig_5_5NHRW2UU.png"
+ },
+ {
+  "citekey": "Kumar2017microstructuring",
+  "filename": "fig_6_JCA8NIX8.png",
+  "alt": "图6 线宽 FWHM 对峰值强度与写入速度的定量依赖，与阈值模型拟合一致",
+  "path": "../../raw/figures/Kumar2017microstructuring/fig_6_JCA8NIX8.png"
+ },
+ {
+  "citekey": "Perugu2024morphology",
+  "filename": "fig_7_VYYYBSDJ.png",
+  "alt": "P-E loops of BLFO nanoparticles",
+  "path": "../../raw/figures/Perugu2024morphology/fig_7_VYYYBSDJ.png"
+ },
+ {
+  "citekey": "Perugu2024morphology",
+  "filename": "tab_2_NSH5KDBB.png",
+  "alt": "Table 2 dielectric parameters",
+  "path": "../../raw/figures/Perugu2024morphology/tab_2_NSH5KDBB.png"
+ },
+ {
+  "citekey": "RecentAdvancesGrowth2025",
+  "filename": "fig_15_TMK8S5HG.png",
+  "alt": "图15 二维多铁应用全景：M/P/ε内序参与H/E/σ外场耦合对应存储、自旋电子、传感等应用",
+  "path": "../../raw/figures/RecentAdvancesGrowth2025/fig_15_TMK8S5HG.png"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "filename": "fig_5_L5452RHL.png",
+  "alt": "图5 21% RH下不同波长激光的I-V曲线",
+  "path": "../../raw/figures/Tobeiha2025optical/fig_5_L5452RHL.png"
+ },
+ {
+  "citekey": "bhowalPolarMetalsPrinciples2023b",
+  "filename": "fig_2_MZBMKDTD.png",
+  "alt": "图2 极性金属研究时间线（1965 Anderson-Blount → 2013 LiOsO₃ → 2018 WTe₂）及奇异性质概览",
+  "path": "../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_2_MZBMKDTD.png"
+ },
+ {
+  "citekey": "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+  "filename": "fig_1_A3L3NFIH.png",
+  "alt": "图1 双栅器件结构与顶/底栅对 K1 的非对称调控；底栅呈蝶形磁滞回线，顶栅 K1 基本不变",
+  "path": "../../raw/figures/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025/fig_1_A3L3NFIH.png"
+ },
+ {
+  "citekey": "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+  "filename": "fig_3_4EF32C6T.png",
+  "alt": "图3 基于 Fe3GaTe2/P(VDF-TrFE) 的可重构自旋逻辑器件与 AND/NAND/NOR 真值表",
+  "path": "../../raw/figures/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025/fig_3_4EF32C6T.png"
+ },
+ {
+  "citekey": "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+  "filename": "fig_5_5DVL5DND.png",
+  "alt": "图5 多铁器件集成用于 4×4 像素字母/数字二分类：Sigmoid 型输出、TIA+比较器电路、ROC/AUC 与混淆矩阵",
+  "path": "../../raw/figures/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025/fig_5_5DVL5DND.png"
+ },
+ {
+  "citekey": "chenHafniumBasedFerroelectricPostMoore2026",
+  "filename": "fig_1_3VD9GL58.png",
+  "alt": "Hf-FEs材料器件应用总览",
+  "path": "../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_1_3VD9GL58.png"
+ },
+ {
+  "citekey": "chenHafniumBasedFerroelectricPostMoore2026",
+  "filename": "fig_2_FL9DP299.png",
+  "alt": "Hf-FEs发展时间线",
+  "path": "../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_2_FL9DP299.png"
+ },
+ {
+  "citekey": "chenHafniumBasedFerroelectricPostMoore2026",
+  "filename": "fig_7_5ZNA8QXN.png",
+  "alt": "存储应用",
+  "path": "../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_7_5ZNA8QXN.png"
+ },
+ {
+  "citekey": "chenHafniumBasedFerroelectricPostMoore2026",
+  "filename": "fig_8_49WAIQHG.png",
+  "alt": "突触可塑性",
+  "path": "../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_8_49WAIQHG.png"
+ },
+ {
+  "citekey": "chenHafniumBasedFerroelectricPostMoore2026",
+  "filename": "fig_9_6UW5JTH3.png",
+  "alt": "神经网络系统",
+  "path": "../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_9_6UW5JTH3.png"
+ },
+ {
+  "citekey": "chenHafniumBasedFerroelectricPostMoore2026",
+  "filename": "fig_10_LT3D7PBR.png",
+  "alt": "图像处理应用",
+  "path": "../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_10_LT3D7PBR.png"
+ },
+ {
+  "citekey": "chenHafniumBasedFerroelectricPostMoore2026",
+  "filename": "fig_11_MTJAQVFZ.png",
+  "alt": "逻辑运算",
+  "path": "../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_11_MTJAQVFZ.png"
+ },
+ {
+  "citekey": "chenHafniumBasedFerroelectricPostMoore2026",
+  "filename": "fig_12_CFHFZM9L.png",
+  "alt": "挑战与展望",
+  "path": "../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_12_CFHFZM9L.png"
+ },
+ {
+  "citekey": "chenHafniumBasedFerroelectricPostMoore2026",
+  "filename": "tab_2_UQKGTEBW.png",
+  "alt": "器件性能对比表",
+  "path": "../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/tab_2_UQKGTEBW.png"
+ },
+ {
+  "citekey": "guanRecentProgressTwoDimensional2020",
+  "filename": "fig_8_DAZQFJF5.png",
+  "alt": "图8 a)MBE生长6 nm In2Se3的PFM振幅/相位与蝴蝶/迟滞回线；b)DC偏压写入前后OOP/IP PFM振幅相位",
+  "path": "../../raw/figures/guanRecentProgressTwoDimensional2020/fig_8_DAZQFJF5.png"
+ },
+ {
+  "citekey": "guanRecentProgressTwoDimensional2020",
+  "filename": "fig_16_S7AWXGMW.png",
+  "alt": "图16 a)graphene-BTO-SRO与b)MoS2-BTO-SRO隧道结中铁电极化翻转",
+  "path": "../../raw/figures/guanRecentProgressTwoDimensional2020/fig_16_S7AWXGMW.png"
+ },
+ {
+  "citekey": "guanRecentProgressTwoDimensional2020",
+  "filename": "fig_17_CZC3M8NZ.png",
+  "alt": "图17 a)MoS2-PZT FeFET在可见光照射下的光电存储与光学翻转；b)MoSe2 FeFET的器件结构、保持与耐久",
+  "path": "../../raw/figures/guanRecentProgressTwoDimensional2020/fig_17_CZC3M8NZ.png"
+ },
+ {
+  "citekey": "guoAdvancesTwodimensionalFerroelectric2025",
+  "filename": "fig_1_7K9CL28G.png",
+  "alt": "图1：CIPS（a-e，四重势阱/PFM盒中盒/电滞回线）与 α-In₂Se₃（f-h，偶极锁定/单层PFM/β′β″相）自发极化",
+  "path": "../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_1_7K9CL28G.png"
+ },
+ {
+  "citekey": "hanPolarTopologicalMaterials2025",
+  "filename": "fig_4_GL8NMQIW.png",
+  "alt": "扫描探针在铁电氧化物薄膜中写入极性拓扑：SPM装置、面内拖尾电场分布、BFO薄膜中的闭合畴与中心型象限畴",
+  "path": "../../raw/figures/hanPolarTopologicalMaterials2025/fig_4_GL8NMQIW.png"
+ },
+ {
+  "citekey": "hanPolarTopologicalMaterials2025",
+  "filename": "fig_14_UHRUDTIR.png",
+  "alt": "极性拓扑材料与器件研究的总结与展望：五大挑战（CMOS兼容材料、多场机制、单点寻址/阵列化、多功能/多铁拓扑、电DMI等新物理）",
+  "path": "../../raw/figures/hanPolarTopologicalMaterials2025/fig_14_UHRUDTIR.png"
+ },
+ {
+  "citekey": "houStrainbasedRoomtemperatureNonvolatile2019",
+  "filename": "fig_1_G4AIPMDF.png",
+  "alt": "图1 器件结构与基本操作：PMN-PT/MoTe2/Ni叠层示意、光学照片、Ni应变计蝴蝶曲线、13 nm MoTe2转移特性、半金属态与半导体态I-V对比（半导体态呈肖特基行为）",
+  "path": "../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_1_G4AIPMDF.png"
+ },
+ {
+  "citekey": "houStrainbasedRoomtemperatureNonvolatile2019",
+  "filename": "fig_2_8BASCCDL.png",
+  "alt": "图2 70 nm MoTe2器件在300→270→330→300 K温度循环下的对数尺度电导-电场演化，双极→单极（非易失）转变，最终G_on/G_off≈6.2×10^6",
+  "path": "../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_2_8BASCCDL.png"
+ },
+ {
+  "citekey": "houStrainbasedRoomtemperatureNonvolatile2019",
+  "filename": "fig_3_33VVCMHG.png",
+  "alt": "图3 CAFM实空间成像：低电导态下接触边缘的非导电（半导体相）区域，以及栅压脉冲序列下半导体相区的可逆写入/擦除",
+  "path": "../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_3_33VVCMHG.png"
+ },
+ {
+  "citekey": "houStrainbasedRoomtemperatureNonvolatile2019",
+  "filename": "fig_4_4I4JUQYB.png",
+  "alt": "图4 接触金属效应与有限元模拟：PMN-PT(111)上Ni器件CAFM图与沟道应变FEA模拟吻合；Ag（−0.2 GPa，~4%调制）vs Ni（0.58 GPa，~10^9%调制）对比；静态拉应变偏置+铁电动态应变调制机理示意",
+  "path": "../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_4_4I4JUQYB.png"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "filename": "fig_6_I7PXRSCV.png",
+  "alt": "图6 器件结构趋势",
+  "path": "../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_6_I7PXRSCV.png"
+ },
+ {
+  "citekey": "neumayerCompetingPolarPhases2025",
+  "filename": "fig_4_5SCTR6B5.png",
+  "alt": "图4 CIPS不同FE相间转换机制：温度依赖、电场诱导复杂翻转、Cu离子电导激活的宏观P-E回线变化",
+  "path": "../../raw/figures/neumayerCompetingPolarPhases2025/fig_4_5SCTR6B5.png"
+ },
+ {
+  "citekey": "sharmaRoomtemperatureFerroelectricSemimetal2019",
+  "filename": "fig_3_GGXMSAT5.png",
+  "alt": "图3 电容器结构中的极化翻转：电滞回线、蝴蝶曲线及电压脉冲写入畴",
+  "path": "../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_3_GGXMSAT5.png"
+ },
+ {
+  "citekey": "shuTwoDimensionalBlackArsenic2020",
+  "filename": "fig_8_4BIKEVDR.png",
+  "alt": "图8 1.5 μm EDF 锁模激光输出特性",
+  "path": "../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_8_4BIKEVDR.png"
+ },
+ {
+  "citekey": "shuTwoDimensionalBlackArsenic2020",
+  "filename": "fig_9_VN5J8H2G.png",
+  "alt": "图9 2 μm TDF 锁模激光输出特性",
+  "path": "../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_9_VN5J8H2G.png"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "filename": "fig_6_XUH5R4R7.png",
+  "alt": "图6 MESO逻辑器件结构：多铁层电场写入+逆Rashba自旋-电荷转换读出，目标<100 mV、~5 μC/cm²、1 aJ/bit",
+  "path": "../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_6_XUH5R4R7.png"
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "filename": "fig_13_XSTYQFRU.png",
+  "alt": "Fig.13 3R-MoS2 FeFET结构与转移特性",
+  "path": "../../raw/figures/sunSlidingFerroelectricityTwodimensional2025/fig_13_XSTYQFRU.png"
+ },
+ {
+  "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+  "filename": "fig_2_NPPDW9RW.png",
+  "alt": "图2 四种MOF单晶器件在干/湿N2循环切换下的电流-时间响应，Mn/Co/Cd开关比>10^3，Zn约10^2",
+  "path": "../../raw/figures/wangScreeningEnabledChemiresistiveMoisture2025/fig_2_NPPDW9RW.png"
+ },
+ {
+  "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+  "filename": "fig_3_4NSSR4L5.png",
+  "alt": "图3 I-V、Nyquist、气氛控制方案、CW-EPR、原位PXRD(006)峰位移、四种MOF电导率汇总——排除O2、电荷密度和本征迁移率机制",
+  "path": "../../raw/figures/wangScreeningEnabledChemiresistiveMoisture2025/fig_3_4NSSR4L5.png"
+ },
+ {
+  "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+  "filename": "fig_4_RPGH3YNP.png",
+  "alt": "图4 Pt溅射阻塞电极器件I-V/Nyquist与10V直流极化，排除质子传导",
+  "path": "../../raw/figures/wangScreeningEnabledChemiresistiveMoisture2025/fig_4_RPGH3YNP.png"
+ },
+ {
+  "citekey": "wuNonvolatileSwitchableHalfmetallicity2024",
+  "filename": "fig_7_CLHBQT7G.png",
+  "alt": "基于异质结的非易失 FET 器件原型（图7）",
+  "path": "../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_7_CLHBQT7G.png"
+ },
+ {
+  "citekey": "xueEmergingNonvolatileMemories2011",
+  "filename": "fig_1_YA2TDDV5.png",
+  "alt": "PCM 单元与阵列结构（Figure 1）",
+  "path": "../../raw/figures/xueEmergingNonvolatileMemories2011/fig_1_YA2TDDV5.png"
+ },
+ {
+  "citekey": "xueEmergingNonvolatileMemories2011",
+  "filename": "fig_29_U8XCGBQD.png",
+  "alt": "PCM 工艺偏差与电流调节（Figure 29 摘录页）",
+  "path": "../../raw/figures/xueEmergingNonvolatileMemories2011/fig_29_U8XCGBQD.png"
+ },
+ {
+  "citekey": "xueEmergingNonvolatileMemories2011",
+  "filename": "fig_3_RCPBXVPH.png",
+  "alt": "3D NUCA 堆叠结构/PCM 编程（Figure 3）",
+  "path": "../../raw/figures/xueEmergingNonvolatileMemories2011/fig_3_RCPBXVPH.png"
+ },
+ {
+  "citekey": "xueEmergingNonvolatileMemories2011",
+  "filename": "fig_6_QFWICZWK.png",
+  "alt": "PCM/DRAM 混合主存架构（Figure 6 摘录页）",
+  "path": "../../raw/figures/xueEmergingNonvolatileMemories2011/fig_6_QFWICZWK.png"
+ },
+ {
+  "citekey": "xueEmergingNonvolatileMemories2011",
+  "filename": "tab_00_W2XATRL6.png",
+  "alt": "MLC MTJ 状态转换电流矩阵（Table 3）",
+  "path": "../../raw/figures/xueEmergingNonvolatileMemories2011/tab_00_W2XATRL6.png"
+ }
+]
