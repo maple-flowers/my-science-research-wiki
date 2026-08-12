@@ -98,10 +98,29 @@ Kaiyun Chen、Xue Yan、Junkai Deng、Yuan Yan、Jiabei He、Dongxiao Kan、Wang
 
 ## 📊 关键图表
   - ![图1 不同表面钝化下Mn2N的晶体结构与DOS](../../raw/figures/chen3dLevelSymmetry2025/fig_1_FPIYZWQV.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - **图示描述**：(a) 单层 Mn2N 的"反 1T-TMD"三明治晶体结构（N 居中、两层 Mn 在外），黑色菱形为原胞、橙色矩形为计算所用矩形晶胞；(b) 底面统一 O 钝化、顶面分别以 O/F/OH/Cl 钝化得到的对称 Mn2NO2 与 Janus Mn2NOF、Mn2NOOH、Mn2NOCl；(c) 四种结构的自旋分辨态密度（DOS），横轴为相对费米能级的能量（eV），竖虚线为 EF。
+  - **关键特征**：Mn2NO2 自旋多数通道零带隙、自旋少数带隙 3.21 eV，呈半金属；Janus Mn2NOCl 仍保持半金属；Mn2NOF 与 Mn2NOOH 两个自旋通道均打开带隙，自旋多数带隙分别为 160.4 meV 与 21.2 meV（自旋少数为 1.934 eV 与 2.944 eV），SOC 修正后 Mn2NOF/Mn2NOOH 带隙分别升至约 0.46 eV 与 0.28 eV；HSE06 与 Γ-M-K 原胞路径验证结论不变。
+  - **结论/意义**：该图确立"表面钝化原子的选择可在同一 Mn2N 母体上切换半金属/半导体"这一核心现象，且打破了"对称钝化才半金属"的简单直觉，引出后续对机制的追问。
+
   - ![图2 Mn2NOT中Mn 3d轨道在C3v对称下的简并分裂（PDOS）](../../raw/figures/chen3dLevelSymmetry2025/fig_2_MYLDFAU5.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - **图示描述**：(a) 对比 Mn 3d 轨道在理想八面体场（左，t2g/eg 分裂）与三角晶场 C3v 坐标系（右，dz2 单态 + eI(dyz+dxz) + eII(dxy+dx²-y²) 两个双重态）下的分裂模式；(b)–(d) 分别为 Mn2NO2、Mn2NOF、Mn2NOCl 中 Mn 3d 各轨道的自旋多数投影态密度（PDOS），右侧附局域配位结构与键长。
+  - **关键特征**：三种结构中 dyz/dxz 始终重叠、dxy/dx²-y² 始终重叠，C3v 下的单态+双双重态简并模式不因顶面钝化原子而改变；Mn2NOF 中 F 侧 Mn-N/Mn-F 键长为 2.19/2.09 Å、O 侧为 2.09/1.95 Å，Mn2NOCl 中 Mn-N 2.19 Å 短于 Mn-Cl 2.46 Å，但畸变八面体仍维持相同简并度；费米能级以下 MnF/MnCl 的 PDOS 强于 MnO，以上则反之，预示两侧能级发生相对位移。
+  - **结论/意义**：证伪了"局域配位对称性/3d 轨道简并决定半金属-半导体"的传统晶体场解释，把机制搜索从轨道分裂模式转向两侧 Mn 3d 轨道的绝对能级位置。
+
   - ![图3 3d能级分离、静电势、ELF与半金属/半导体机制示意](../../raw/figures/chen3dLevelSymmetry2025/fig_3_FNK5QA76.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - **图示描述**：(a)–(c) Mn2NO2、Mn2NOF、Mn2NOCl 的 Mn 3d 自旋多数投影能带（PBAND），颜色编码轨道贡献；(d)–(f) 对应的面外平均静电势曲线叠加电子局域函数（ELF）切片，黑圈标出 Mn-F/Mn-Cl 键区；(g)、(h) 为半金属 Mn2NO2 与半导体 Mn2NOF 的离子-轨道填充示意图，红箭头表示 Mn 给出的电子。
+  - **关键特征**：Mn2NO2 的 eI 在 Γ、S 点形成电子口袋、eII 穿越 EF，两侧 Mn 均为 Mn3.5+（d3.5，磁矩约 3.5 μB），最高 eI 被 0.5 个电子部分填充；Mn2NOF 中 MnO-eI 上移为空的 CBM、MnF-eI 下移为满的 VBM，费米能级卡在两者之间打开带隙，对应 Mn4+ 低自旋 d3（MnO，3.624 μB）与 Mn2+ 高自旋 d5（MnF，4.480 μB）；Mn2NOF 的静电势显著不对称、Mn-F 与 F 侧 Mn-N 键区 ELF 降低，而 Mn2NOCl 电势近对称、两侧 Mn-N 的 ELF 相近；Mn2NOOH 因 OH⁻ 吸电子能力弱于 F⁻，能级分离较小故带隙更小。
+  - **结论/意义**：该图建立全文核心机制——两侧 Mn 3d 能级分离度驱动不对称电荷转移与 eI 轨道"全满/全空"对峙，决定费米能级位置与半金属/半导体归属，并自然解释了 V2NOF 等 Janus MXenes 中长期存在的理论-计算矛盾。
+
   - ![图4 电子/空穴掺杂诱导Mn2NOF半导体→半金属转变的PBAND](../../raw/figures/chen3dLevelSymmetry2025/fig_4_UF8RVP2Q.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - **图示描述**：(a) 电子掺杂 0.02 e⁻/atom 与 (b) 空穴掺杂 0.02 h⁺/atom 下 Mn2NOF 中 O 侧 Mn（MnO）与 F 侧 Mn（MnF）的自旋多数投影能带，(b)、(c) 位置分别插入电子（蓝箭头）填入 MnO-eI、空穴（橙箭头）清空 MnF-eI 的轨道示意图。
+  - **关键特征**：电子掺杂把额外电子填入原本空的 MnO-eI（Γ–X 之间的电子口袋），CBM 下移穿过 EF，MnO 双重态 eI(dyz+dxz) 变为部分填充；空穴掺杂则清空原本全满的 MnF-eI，VBM 上移穿过 EF；两种掺杂都不引起两侧 Mn 之间的电荷再分配，只是在最高 eI 能级上加减电子；极小掺杂浓度（0.02 carrier/atom）即可闭合带隙。
+  - **结论/意义**：以最直接的方式验证图3的轨道占据模型——只要打破"MnO-eI 全空 + MnF-eI 全满"的格局，半导体立刻回到半金属，为栅压/电荷掺杂写入-擦除半金属通道提供理论依据。
+
   - ![图5 单轴应变调控电荷转移、静电势与带隙闭合](../../raw/figures/chen3dLevelSymmetry2025/fig_5_8N9WHPHB.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - **图示描述**：沿 y 方向对 Mn2NOF 施加 −5% 至 +10% 单轴应变，(a) MnF 与 MnO 上 Bader 负电荷随应变的变化，(b) 不同应变下的面外静电势曲线，(c) GGA+U 与 SOC 两套方案下自旋多数带隙随应变的变化，(d) +10% 拉伸应变时 MnF/MnO 的 3d 投影能带。
+  - **关键特征**：拉伸应变增大时 MnF 负电荷减少、MnO 负电荷增加，电子由高自旋 MnF(d5) 转向低自旋 MnO(d3)，两侧 Mn-N 静电势趋于对称；压缩应变效应相反，电荷差与电势差进一步增大、带隙变宽；GGA+U 下临界应变约 +3%、SOC 下约 +7% 时带隙闭合，Mn2NOOH 的对应临界应变更小（约 +2%/+5%）；+10% 拉伸下 MnO-eI（CBM，电子口袋）与 MnF-eI（VBM，空穴口袋）在 Γ–X 同时跨过 EF，两侧 eI 均部分填充。
+  - **结论/意义**：用力学应变"抹平"两侧能级差，从另一条独立路径重现了掺杂诱导的半导体→半金属转变，证明 3d 能级对称性机制可被外场可逆调控，支撑单一材料内通过局域应变/掺杂构建无化学界面可重构自旋电子器件的设想。
 
 ## 🔬 项目连接
   - **project-2（Mn多铁）— strong**：本文核心材料是Mn基二维体系Mn2N MXene，使用DFT+U（U=4 eV）系统研究Mn的氧化态（Mn2+/Mn3.5+/Mn4+）、3d轨道填充与磁矩（3.5 μB、4.48 μB、3.624 μB），对理解Mn基磁性/多铁材料中电荷转移与轨道占据的关系有直接参考价值；铁磁基态、强关联处理流程可复用。

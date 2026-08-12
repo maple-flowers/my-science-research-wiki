@@ -132,14 +132,55 @@ Sayantika Bhowal、Nicola A. Spaldin（ETH Zürich），2023，*Annual Review of
   - 相关论文 [[../../raw/note/bhowalPolarMetalsPrinciples2023b]]
 
 ## 📊 关键图表
-  - ![图1 极性金属/类铁电金属/铁电金属概念区分及一维离子链库仑排斥能对比](../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_1_K5QYFLQM.png) -> [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
-  - ![图2 极性金属研究时间线（1965 Anderson-Blount → 2013 LiOsO₃ → 2018 WTe₂）及奇异性质概览](../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_2_MZBMKDTD.png) -> [[../figures/electronic-devices|电子与突触器件]]
-  - ![图3 掺杂铁电体制备极性金属：BaTiO₃₋δ 相图、DFT 极化-掺杂曲线、Nb-PTO 的 STEM 原子位移、BaMF₆ 几何铁电结构](../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_3_SDUYTBB2.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图1 极性金属/类铁电金属/铁电金属概念区分及一维离子链库仑排斥能对比](../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_1_14DBA61B.png) -> [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+  - **图示描述**：由两个子图组成，(a) 用卡通示意区分"极性金属—类铁电金属—铁电金属"三层概念（永久偶极但极化不可测/可发生非极性→极性相变但不可翻转/电场可翻转），(b) 对比中心对称与非中心对称一维离子链的库仑排斥能。
+  - **关键特征**：等间距中心对称链（间距 a，电荷 +1）的库仑排斥能 V = 4.5 × a，小于间距交替为 a/3、2a/3 的非中心对称链；这解释了常规金属键无方向性、天然倾向中心对称堆积的原因；图 (a) 建立从"仅极性对称"到"可翻转极化"的递进术语谱系。
+  - **结论/意义**：从静电能最小化角度说明"极性+金属性"为何传统上被视为禁忌组合，为后文 Anderson–Blount 解耦原则铺垫。
+  - ![图2 极性金属研究时间线（1965 Anderson-Blount → 2013 LiOsO₃ → 2018 WTe₂）及奇异性质概览](../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_2_80A6D28C.png) -> [[../figures/heterostructures-stacking-reviews|综述与总览]]
+  - **图示描述**：左侧时间线标注自 1965 年 Anderson & Blount 理论预言到 2013 年 LiOsO₃、2018 年 WTe₂ 实验突破的关键节点；右侧以图标形式枚举极性金属承载的奇异物性。
+  - **关键特征**：列举的物性包括 kx–ky 动量空间中带自旋纹理的 Rashba 耦合、Weyl 节点能带拓扑、温差驱动电流 J 的热电效应、电流 I 感应磁化 M 的磁电效应、电场 E/磁场 B 交叉控制 P/M 的多铁性，以及非常规超导；时间线跨度约半世纪，呈现长期沉寂后近十年的"爆发式"发展。
+  - **结论/意义**：把材料发现史与物性谱系并置，说明该领域已从单一材料探索走向多效应交叉平台。
+  - ![图3 掺杂铁电体制备极性金属：BaTiO₃₋δ 相图、DFT 极化-掺杂曲线、Nb-PTO 的 STEM 原子位移、BaMF₆ 几何铁电结构](../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_3_A0B92BF7.png) -> [[../figures/crystal-structures-phase|晶体结构与相变]]
+  - **图示描述**：四子图说明"向传统/非传统铁电体掺入载流子获得极性金属"的策略：(a) BaTiO₃₋δ 温度-掺杂相图，(b) DFT 计算的四方/赝立方 BaTiO₃ 极化-载流子浓度曲线，(c) Nb 掺杂 PbTiO₃ 的 STEM 原子图像，(d) 层状几何铁电体 BaMF₆ 的高对称与极性结构对比。
+  - **关键特征**：BaTiO₃₋δ 进入金属态后铁电结构相变（C/T/O/R 相）仍持续至临界电子浓度 n；DFT 曲线显示 n 型掺杂下铁电畸变可维持至约 0.1 e/单胞，而低空穴掺杂下极化反而因面内 Ti–O 键减弱而增强；STEM 中 PbTi₀.₈₈Nb₀.₁₂O₃ 仍可见 Ti/Nb 相对 Pb 的偏心位移并出现金属导电；BaMF₆ 中 MF₆ 八面体旋转驱动 Ba 离子次级极性位移。
+  - **结论/意义**：从相图、第一性原理、原子成像和结构模型四个尺度共同证明"掺杂不必然杀死极性"，并区分传统铁电体的掺杂耐受性与几何铁电体的本征解耦。
+  - ![图4 本征铁电体与赝本征铁电体跨顺电-铁电相变的自由能曲线](../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_4_BAD5B403.png) -> [[../figures/crystal-structures-phase|晶体结构与相变]]
+  - **图示描述**：对比 (a) 本征铁电体与 (b) 赝本征铁电体在 T > Tc 与 T < Tc 时自由能 F 随极化 P 的变化：本征情形 T < Tc 出现 ±P 双势阱；赝本征情形始终为单势阱，只是最小值被非极性主序参量耦合偏移到非零 P 处。
+  - **关键特征**：本征双阱的两极小值可由外电场在 ±P 间翻转；赝本征中极化是旋转/倾斜等非极性主畸变的次级产物，其大小由主序参量决定而非直接由外场翻转；图中标出 T > Tc 的顺电相与 T < Tc 的铁电相。
+  - **结论/意义**：清晰区分两类铁电性，解释赝本征铁电体的极化为何对屏蔽其主序参量的自由载流子不敏感——这是设计极性金属的关键平台。
+  - ![图5 几何极性金属：Ca₃Ru₂O₇ 的旋转/倾斜/极性模式耦合与 Bi₅Mn₅O₁₇ 极性结构](../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_5_SDUYTBB2.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - **图示描述**：(a–c) Ca₃Ru₂O₇ 中波矢边界旋转模 X₂⁺ 与倾斜模 X₃⁻ 耦合到区域中心极性模 Γ₅⁻ 共同降低对称性；(d) Bi₅Mn₅O₁₇ 的 Pm2₁n 极性结构，Bi 原子位移（蓝色箭头）沿 b 方向产生净极化 P。
+  - **关键特征**：Ca₃Ru₂O₇ 的金属导电由 Ru-t₂g 态主导，而几何畸变几乎不影响这些态，实现电子解耦；Bi₅Mn₅O₁₇ 中 Bi³⁺ 孤对电子增强极化、Mn 离子提供磁性，是潜在多铁极性金属。
+  - **结论/意义**：给出赝本征（混合赝本征）几何机制的具体结构图像，并示范以孤对电子+磁性离子设计多铁极性金属。
   - ![图6 类铁电金属 LiOsO₃：R-3c/R3c 晶体结构、态密度、Li 位移驱动的双阱势、几何起源与有序-无序势阱](../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_6_GDKZHFYP.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
-  - ![图9 LiOsO₃ 极性相 Dirac 点→节线环演化、贝里曲率偶极子/NHE 机制、SrTiO₃ 铁电超导相图](../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_9_25F96G46.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - **图示描述**：五个子图系统剖析首个类铁电金属 LiOsO₃：(a) 高温 R-3c 与低温 R3c 晶体结构，(b) 总/分态密度，(c) 沿 A₂u 模式的势能-位移曲线，(d) Li 在氧笼中的配位几何，(e) 有序-无序模型下的 Li 势阱。
+  - **关键特征**：140 K 发生 R-3c→R3c 连续二级相变，Li⁺ 沿赝立方 [111] 位移约 0.5 Å；费米能级处态密度主要由 Os-d 与 O-p 杂化贡献，金属性来自 OsO₆ 网络；双阱势几乎完全由 Li–O 位移贡献，单独 Os–O 位移反而升高能量，双阱深度约 44 meV、相变温度对应约 12 meV；Li 在面内 Li–O 距离约 1.9 Å、面外约 2.7 Å 的"欠束缚"配位驱动其位移。
+  - **结论/意义**：Li 位移（极性来源）与 Os-t₂g 导电电子在化学/轨道层面高度解耦，是 Anderson–Blount "解耦电子机制"的标杆实例。
+  - ![图7 铁电金属 WTe₂：三个等效畸变矢量、层间滑移翻转路径与差分电荷密度](../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_7_MZBMKDTD.png) -> [[../figures/heterostructures-stacking-sliding|滑动铁电与层间滑移]]
+  - **图示描述**：(a) 六方对称性下三个等效极化上态 P1up/P2up/P3up（实线）与下态 P1down/P2down/P3down（虚线）的畸变矢量示意；(b) 双层 WTe₂ 上层相对下层沿 x 滑移 (d₁+d₂) 实现垂直极化翻转；(c) 滑移前后层间差分电荷密度，显示化学键合反转。
+  - **关键特征**：沿同一畸变矢量直接上下翻转能垒极高，但跨矢量路径（如 P1up→P2up→P1down）能垒显著降低；面内滑移与面外极化在空间上解耦，自由电子限于面内输运；层间 Te–Te 成键状态随滑移反转，是极化的微观来源。
+  - **结论/意义**：完整揭示 WTe₂ "空间解耦"翻转机制，确立首个可电场翻转的铁电金属，并为超薄铁电器件提供新原理。
+  - ![图8 极性金属中的 Rashba 效应与拓扑：自旋劈裂能带、自旋织构、两类 Weyl 半金属及 Pb₁₋ₓSnₓTe 相图](../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_8_K5QYFLQM.png) -> [[../figures/electronic-bands|电子能带与拓扑]]
+  - **图示描述**：(a) Rashba 效应下两条自旋极化抛物线能带在 k 空间劈裂；(b) 恒能面上自旋垂直于动量的手性自旋织构；(c) 第一类（点状费米面）与第二类（倾斜锥、电子-空穴口袋接触）Weyl 半金属；(d) Pb₁₋ₓSnₓTe 以极性与 Sn/Pb 比为轴的拓扑相图。
+  - **关键特征**：色散为 E±(k) = ħ²k²/(2m*) ± α_R k；自旋-动量锁定方向可由极化翻转切换；图 (d) 中标出正常绝缘体、拓扑晶体绝缘体与 Weyl 半金属相区，极性与拓扑可共存并受组分/极性调控。
+  - **结论/意义**：把反演破缺的极性金属与 Rashba 自旋电子学、电场可调 Weyl 拓扑直接连通，是极性金属物性设计的核心图之一。
+  - ![图9 LiOsO₃ 极性相 Dirac 点→节线环演化、贝里曲率偶极子/NHE 机制、SrTiO₃ 铁电超导相图](../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_9_25F96G46.png) -> [[../figures/electronic-bands-superconductivity|电子能带与超导]]
+  - **图示描述**：四个子图展示极性金属平台的拓扑与量子物性：(a,b) LiOsO₃ 非极性相与极性相在 L 点附近的能带对比，(c) 贝里曲率偶极子导致非线性霍尔效应的费米面示意，(d) SrTiO₃ 中铁电与超导共存的示意相图。
+  - **关键特征**：非极性 LiOsO₃ 在 T 点由非简单滑移镜面保护线性/立方 Dirac 点；进入极性 R3c 相后反演破缺使 L 处 Dirac 点退化为包围 L 的节线环；图 (c) 平衡时 ±k 处贝里曲率 Ω(k) = −Ω(−k) 相消，加电场 E 后费米面位移 a_s 导致净贝里曲率与二倍频霍尔电流 j_a^{2ω}；图 (d) 中 Ca 掺杂/同位素替代/应变调节 SrTiO₃ 的铁电量子临界点，超导 T_c 在该临界点附近被增强。
+  - **结论/意义**：把极性金属与拓扑半金属、非线性霍尔效应、铁电量子临界超导统一到同一图像下，论证 NHE/KME 是所有极性金属的对称性普适指纹。
+  - **关键公式（共 3 个）**
   - ![公式1 Rashba 哈密顿量 H_R = α_R(σ×k)·ẑ](../../raw/figures/bhowalPolarMetalsPrinciples2023b/eq_1_GRQCHY2Y.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：写出反演破缺体系中相对论性自旋-轨道耦合的 Rashba 哈密顿量 H_R = α_R (σ × k)·ẑ，描述极性电场方向 ẑ、电子动量 k 与泡利矩阵 σ 之间的三重叉积关系。
+  - **关键特征**：色散分裂为两支抛物线，能移 ±α_R k，自旋在恒能面上垂直于动量形成手性自旋纹理（自旋-动量锁定）；α_R 的大小由极性结构破缺反演的强度和自旋-轨道耦合共同决定，可被电极化翻转所切换。
+  - **结论/意义**：是讨论极性金属中电场可调自旋电子学以及 SrTiO₃ 铁电超导配对机制的基础模型哈密顿量。
   - ![公式2 贝里曲率偶极子 D_bd 定义](../../raw/figures/bhowalPolarMetalsPrinciples2023b/eq_2_6B39EVXQ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：给出贝里曲率偶极子张量 D_bd = (1/(2π)³) ∫ d³k (∂_b f₀) Ω_d = −(1/(2π)³) ∫ d³k (∂_b Ω_d) f₀ 的定义，其中 f₀ 为零场平衡费米分布、Ω_d 为贝里曲率。
+  - **关键特征**：D_bd 刻画贝里曲率在动量空间的一阶矩（偶极），它把外电场 E 转化为二阶非线性霍尔电导率 χ_abc = −ε_adc e³τ/[2(1+iωτ)] D_bd；其反对称分量 D⁻ = (D − Dᵀ)/2 对应的矢量 d_a = ε_abc D⁻_bc/2 指向极性轴；已在双层/多层 WTe₂ 上测得二倍频霍尔电压 V_y^{2ω}，DFT 预测 LiOsO₃ 中 D_xy = −D_yx 待实验验证。
+  - **结论/意义**：为把非线性霍尔效应发展为探测极性金属相变与极性轴方向的通用实验工具提供了定量表达式。
   - ![公式3 动磁电效应磁化 M_j 表达式](../../raw/figures/bhowalPolarMetalsPrinciples2023b/eq_3_6CAHWPFM.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：写出动磁电效应（KME）在弛豫时间近似下的线性响应 M_j = K_ij E_i = − a₀/(2π)³ ∫ d³k m_j(k) ∂_{k_i}ε_k (∂f₀/∂ε_k) E_i，其中费米面位移 a_s = −(eτ/ħ) E = −a₀ E。
+  - **关键特征**：KME 与 NHE 机制同源——外加电场使费米面刚性偏移 a_s，非平衡电子分布携带净轨道磁矩 m_j(k) 从而产生磁化；所有非磁性旋光性（含极性）金属对称性允许该效应；铁电金属中极化反转可切换 K_ij 符号，类铁电金属的结构相变可将其开启/关闭。
+  - **结论/意义**：把电流诱导磁化确立为极性金属另一普适非平衡效应，并提示其与 k 空间磁电多极矩的定量联系是未来方向。
 
 ## 🔬 项目连接
   - project-5 SnTe铁电模拟：SnTe 在岩盐相下为拓扑晶体绝缘体，低温发生沿⟨111⟩的铁电相变；In 掺杂 Pb₁₋ₓSnₓTe 在临界浓度 x_c≈0.35 附近同时保留铁电性（极化沿⟨001⟩）与非平庸拓扑，构成铁电 Weyl 半金属相，已由能斯特效应测量证实——与 SnTe 铁电/拓扑模拟直接相关。

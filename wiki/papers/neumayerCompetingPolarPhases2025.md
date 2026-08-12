@@ -127,12 +127,41 @@ Sabine Neumayer, Huimin Qiao, Nina Balke et al.，2025，Applied Physics Letters
   - `pfm-piezoresponse-force-microscopy`：压电力显微镜实体/方法——本文核心局域表征工具，用于识别LP/HP/AFE相及翻转路径。
 
 ## 📊 关键图表
+  - **图1：四种极性有序度示意（顺电/弛豫体·偶极玻璃/反铁电/铁电）**
   - ![图1 顺电/弛豫体/反铁电/铁电四种极性有序度示意](../../raw/figures/neumayerCompetingPolarPhases2025/fig_1_4FMFYJBN.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - **图示描述**：概念示意图，按偶极子排列的有序程度依次展示顺电体（PE，偶极子随机分布、净极化为零）、弛豫体/偶极玻璃（局部纳米极性区、无长程序）、反铁电体（AFE，相邻偶极子反平行、净极化为零，电场下可转为极性态）和铁电体（FE，偶极子同向集体排列、具有可翻转自发极化）四类材料。
+  - **关键特征**：无坐标轴与物理单位，横轴可理解为"极性有序度"由弱到强；AFE 与 FE 均具长程序但净极化方向相反；弛豫体介于 PE 与 AFE/FE 之间，只有短程极性纳米区；强调 AFE、弛豫体在电场下可被诱导出极性响应，为后续多相转换提供分类基础。
+  - **结论/意义**：为全文"竞争极性相"建立统一的极性序语言，明确 FE、AFE、PE、弛豫体之间并非互不相干，而是可通过外场相互转化的同一谱系。
+
+  - **图2：CIPS 中 in-layer（LP）与 in-gap（HP）两种 FE 相的结构及 DFT 能量–c 轴曲线**
   - ![图2 CIPS中in-layer与in-gap FE相结构及DFT能量-c轴曲线（能差21.6 meV/f.u.）](../../raw/figures/neumayerCompetingPolarPhases2025/fig_2_V7R5BUVE.png)
+  - **图示描述**：(a)(b) 为 CIPS 晶体结构示意，黑色箭头标示极化方向，Cu 原子位置以分布函数示意；(a) 中 Cu 位于 P₂S₆ 层内（in-layer / LP 相），(b) 中 Cu 移入 vdW 间隙（in-gap / HP 相）；(c) 为 DFT 计算的能量–c 轴晶格参数曲线，纵轴单位 meV/f.u.，横轴单位 Å。
+  - **关键特征**：LP 相自发极化 5.0 μC/cm²、压电系数 −15.6 pm/V（负压电）；HP 相自发极化 11.3 μC/cm²、压电系数 +2.5 pm/V；两条抛物线能量极小值仅相差 21.6 meV/f.u.，且平衡 c 轴略有偏移；极小值附近的非谐势阱是负压电效应的结构来源。
+  - **结论/意义**：从原子结构与第一性原理能量层面证明两种极化大小、压电符号迥异的 FE 相近乎简并，为温度/应变/电场诱导 LP↔HP 转换及四态（±LP, ±HP）存储提供热力学基础。
+
+  - **图3：CIPS 中三种 AFE 相（层间 / 层内 I / 层内 II）结构及其相对 FE 相的能量**
   - ![图3 CIPS三种AFE相（层间/层内I/层内II）结构及相对FE相能量（最大差30.5 meV/f.u.）](../../raw/figures/neumayerCompetingPolarPhases2025/fig_3_IGPCQM6L.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - **图示描述**：(a)–(c) 为三种 AFE 有序结构示意图：(a) interlayer AFE 为相邻层间偶极反平行，(b)(c) intralayer AFE I/II 为同一层内偶极反平行的不同构型；(d) 为三种 AFE 相相对于 FE 相的能量差柱状图，纵轴单位 meV/f.u.。
+  - **关键特征**：interlayer AFE 能量最低；三种 AFE 相与 FE 相的最大能量差仅 30.5 meV/f.u.；所有 AFE 构型净极化为零但 Cu 位置不同；CIPSe 中则是层内 AFE 最稳定（与 CIPS 形成对比），CCPS 还预测出 Cu 移入 vdW 间隙的 AFE 相。
+  - **结论/意义**：把"竞争极性相"从两种 FE 相扩展到 FE–AFE 之间，证实 AFE 同样是可被外场激发的近简并亚稳态，奠定 FE↔AFE 可逆转换与多态调控的理论依据。
+
+  - **图4：CIPS 中不同 FE 相之间的三种转换机制——温度、电场、离子电导耦合**
   - ![图4 CIPS不同FE相间转换机制：温度依赖、电场诱导复杂翻转、Cu离子电导激活的宏观P-E回线变化](../../raw/figures/neumayerCompetingPolarPhases2025/fig_4_5SCTR6B5.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - **图示描述**：三联图。(a) 升温序列的 PFM 压电响应图（上）与示意相图（下），温度轴 °C；(b) 不同位置测得的 PFM 压电滞回线，横轴偏压 V、纵轴压电响应 pm/V；(c) 直流脉冲前后宏观 P–E 滞回线，横轴电压/电场、纵轴极化 μC/cm²。
+  - **关键特征**：(a) 加热时约 60 °C 的 LP 畴先消失、65 °C 仅剩 HP 畴、70 °C（居里温度）以上转为零压电响应的 PE 相；(b) 同一样品不同位置可出现 +HP↔−LP、+LP↔−HP、+HP↔−HP、+LP↔−LP 等多种翻转路径，远超二进制；(c) 负 DC 脉冲（>200 ms）激活 Cu⁺ 离子电流后，矫顽电压偏移、可切换极化增大，甚至出现极化逆外电场排列；更长/更强脉冲可使 FE 切换消失（Cu 亚晶格无序成 PE 态或回线移出窗口），施加正 DC 电压后可完全恢复。
+  - **结论/意义**：把温度、电场、Cu 离子迁移三条调控路径统一在一张图中，实验证明 CIPS 可实现四态翻转和离子–极性耦合的非常规切换，是超越二进制存储与神经形态器件的核心实验证据。
+
+  - **图5：CIPS 与 CIPSe 中 FE–AFE 相转换的 PFM 证据（raw/figures 中未提供图片文件，以下为文字描述）**
+  - **图示描述**：三联 PFM 图。(a) CIPS 中单极正三角 DC 电压写入后的离-field PFM 滞回线，横轴电压 V、纵轴压电响应 pm/V；(b) CIPS 施加 5 V_AC 交流扫描后的压电响应面扫图；(c) CIPSe 在 200 K 下 0 V（上）与 +1 V DC（下）的压电响应面扫图。
+  - **关键特征**：(a) 滞回线在 0 pm/V 处出现台阶状"捏合/束腰"特征，是经历 FE→AFE→FE 转换的典型标志；(b) 5 V_AC 使部分 +LP 畴转为零 PFM 响应的 AFE 区，零响应层深度约 6 nm；自发 AFE 表面相可深达 165 nm，其下为向上 FE 畴；(c) 0 V 下 FE/AFE 畴共存，+1 V DC 下 FE 畴明显长大，且 FE/AFE 畴壁处压电响应显著增强（CIPS 及 CIPS/IPS 界面无此增强）。
+  - **结论/意义**：从 DC、AC 两种激励和 CIPS、CIPSe 两种材料体系给出 FE↔AFE 可逆转换的局域实验证据，并发现 CIPSe 中"活性"FE/AFE 畴壁，开辟畴壁电子学新功能单元。
+  - 注：图5（CIPS/CIPSe中FE-AFE转换PFM图）笔记未附图片文件，raw/figures 目录中确无 fig_5，故仅以文字描述补充。
+
+  - **图6：CIPS 薄片 FIB 截面的 HAADF-STEM 像与 GPA 应变分量 e_yy 图**
   - ![图6 CIPS薄片FIB截面HAADF STEM图像及GPA应变分量eyy图，显示层错缺陷与非均匀应变](../../raw/figures/neumayerCompetingPolarPhases2025/fig_6_RANL6GIG.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - 注：图5（CIPS/CIPSe中FE-AFE转换PFM图）笔记未附图片文件。
+  - **图示描述**：(a) 为聚焦离子束（FIB）制备的 CIPS 薄片截面高角环形暗场（HAADF）STEM 像，利用 ⟨002⟩ 反射形成 Bragg 像以增强层状衬度；(b) 为同一区域经几何相分析（GPA）得到的面内应变分量 e_yy 分布图，应变本身无量纲（以分数/百分比表示）。
+  - **关键特征**：(a) 中可直接观察到层堆叠中的层错、位错、扭结等缺陷；(b) 中缺陷周围呈现明显的非均匀应变场（局部压/拉应变交替）；图像为原子分辨率，但原文未给出具体应变量化数值范围。
+  - **结论/意义**：在真实材料中直接看到缺陷诱导的局域应变，为"为什么 HP/in-gap FE、AFE 等稀有相只在局域微区稳定"提供了结构线索——局部应变很可能是稳定这些近简并亚稳相的关键旋钮，也指明缺陷工程是未来重要方向。
 
 ## 🔬 项目连接
   - project-2 Mn多铁：本文理论预测部分明确讨论多铁性TMTPs（CCPS、CMPS、NCPS、NMPS）同时具有电极化和磁化，且预测了in-gap FE/AFE相，可直接丰富Mn多铁项目对2D多铁家族的视野。

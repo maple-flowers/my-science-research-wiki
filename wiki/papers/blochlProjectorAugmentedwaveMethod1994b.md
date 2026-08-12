@@ -107,25 +107,59 @@ P. E. Blöchl，1994，Physical Review B 50(24), 17953–17979，DOI: 10.1103/Ph
   - 相关论文 **blochlProjectorAugmentedwaveMethod1994b**
 
 ## 📊 关键图表
-  - 图1：Mn 原子的全电子分波（实线）、赝分波（虚线/点划线）与投影函数（s/p/d 通道），3s、3p 作为价态处理。
+  - 图1：Mn 原子的全电子分波、赝分波与投影函数（s/p/d 通道）
   ![Mn 的分波与投影函数](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_1_MBXMFE5N.png) -> [[../figures/electronic-bands|电子能带与电子态]]
-  - 图2：Mn 原子散射性质（对数导数 D_l(ε) 随能量），单分波（虚线）价区偏差大，两分波（实线）在占据态以上约 1.5 Ry 内精确。
-  ![Mn 原子散射性质](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_2_TFC3U9WB.png) -> [[../figures/electronic-bands|电子能带与电子态]]
-  - 图3：Mn 原子波函数精度比较。价带能量 −8.16 eV 时 PAW 重构 AE 波函数与精确解误差 <1%；高能 +13.61 eV 时 s 波约 15% 偏差，为分波截断的典型特征。
-  ![Mn 原子波函数精度](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_3_VUN7LY3T.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
-  - 图4：Fe₂ 第一性原理分子动力学能量演化。守恒能量（实线）在 0.5 ps 内漂移 <0.8 meV，无单调漂移，振动周期对应 441 cm⁻¹，证明全波函数能量守恒 MD 的可行性。
-  ![Fe2 分子动力学能量守恒](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_4_7SIKWYXK.png) -> [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
-  - 图5：第一行元素及 Fe 原子总能量的平面波收敛性，30–40 Ry 达到 0.1 eV 精度。
-  ![原子总能量平面波收敛性](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_5_F273ESRL.png) -> [[../figures/electronic-bands|电子能带与电子态]]
-  - 图6：双原子分子结合能的平面波收敛性，30 Ry 时误差 <0.1 eV，比绝对总能量收敛更快。
-  ![结合能平面波收敛性](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_6_SXMJN2H7.png) -> [[../figures/electronic-bands|电子能带与电子态]]
-  - 图7：双原子分子键长的平面波收敛性，30 Ry 时键长精确到 0.02 a₀（<1%）。
-  ![键长平面波收敛性](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_7_4YR3MYMF.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
-  - 表I：构造 PS 分波所用参数（截断参数 A=6，各原子的 ṽ_ps(0)、匹配半径等）。
-  ![表I PS分波构造参数](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/tab_6_8N64J9RS.png) -> [[../figures/electronic-bands|电子能带与电子态]]
-  - 表II：30 Ry 截断下 H₂、Li₂、Be₂、B₂、N₂、O₂、F₂、Fe₂ 等二聚体的结合能、键长、振动频率与其他全电子 LDA 计算的对比（键长偏差 <1%，频率偏差约 4%，结合能偏差 0.1–0.2 eV）。
-  ![表II 二聚体性质对比](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/tab_30_9X7NQLGJ.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - **图示描述**：采用 2×3 子图布局，左列 (a)-(c) 对比 Mn 原子 s、p、d 三个角动量通道的全电子（AE，实线）与赝（PS，虚线/点划线）分波，右列 (d)-(f) 给出对应通道的第一、第二投影函数；横轴为到核距离 r（单位 a₀），纵轴为函数值。
+  - **关键特征**：AE 分波在核附近剧烈振荡，体现全电子波函数的节点结构；PS 分波在增强区域外与 AE 完全重合、在核附近被平滑化；投影函数严格局域在增强区域内，其形状与对应 PS 分波相关联；Mn 的 3s、3p 被当作价态（半芯态）显式处理。
+  - **结论/意义**：该图给出 PAW 变换三要素的可视化"配方"，PS 分波的平滑度直接决定所需平面波截断，投影函数的局域性保证了单中心修正的计算效率。
 
+  - 图2：Mn 原子散射性质（对数导数 D_l(ε) 随能量变化）
+  ![Mn 原子散射性质](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_2_TFC3U9WB.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - **图示描述**：单图三条曲线，横轴为能量 ε（eV），纵轴为在 r=3a₀ 处计算的对数导数 D_l(ε)=r·∂rP_l(r,ε)/P_l(r,ε)，分别对应 s、p、d 角动量；三角、圆、方符号为精确解，实线为每 l 用两个分波的 PAW（表 I 中 Mn2 设置），虚线为仅用一个分波的 PAW。
+  - **关键特征**：价带区（约 −10–0 eV）两种设置均与精确解吻合；能量高于约 5 eV 后单分波结果明显偏离，s 通道偏差最大；增加第二个分波后散射性质在占据态以上约 1.5 Ry（约 20 eV）范围内仍保持精确。
+  - **结论/意义**：对数导数直接反映波函数在 muffin-tin 边界的匹配质量，证明通过增加每角动量分波数可系统扩展 PAW 的能量适用范围，这是过渡金属窄 d 态需要两分波的依据。
+
+  - 图3：Mn 原子波函数精度比较
+  ![Mn 原子波函数精度](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_3_VUN7LY3T.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - **图示描述**：2×3 子图，上排 (a)-(c) 对应价带能量 ε=−8.16 eV、下排 (d)-(f) 对应高能 ε=+13.61 eV，每图给出 PAW 重构的 AE 波函数（实线）、径向薛定谔方程精确解（圆点）、差值放大 10 倍（点划线）及 PS 波函数（虚线）；横轴 r（a₀），s、p、d 通道分列。
+  - **关键特征**：价带能区 PAW 重构波函数与精确解几乎完全重合，相对误差 <1%；高能区 s 通道在核附近低估极大值、偏差约 15%，而 p、d 通道仍保持高精度；PS 波函数在核附近显著平滑、在增强区外与 AE 一致。
+  - **结论/意义**：该图直观证明 PAW 能在宽能量范围内高保真地重构全电子波函数——这是赝势方法无法直接提供的，高能 s 波的偏差属分波截断的典型可控误差。
+
+  - 图4：Fe₂ 第一性原理分子动力学的能量演化
+  ![Fe2 分子动力学能量守恒](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_4_7SIKWYXK.png) -> [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
+  - **图示描述**：单图三条曲线，横轴为模拟时间（ps），纵轴为相对于初始值的能量（eV）；点划线为 LDA 总能量（Born-Oppenheimer 势能面），虚线为波函数虚拟动能，实线为守恒总能量。
+  - **关键特征**：势能面与虚拟动能呈规整反相周期振荡，周期对应振动频率约 441 cm⁻¹；守恒能量在 0.5 ps 内漂移 <0.8 meV，无系统性单调漂移；虚拟动能振荡是波函数在势能面上的绝热运动，并非偏离 BO 面；对应核质量重整化约 8%。
+  - **结论/意义**：这是首次基于完整全电子波函数实现能量守恒的 Car-Parrinello 分子动力学，证明 PAW 力与总能量严格一致，可用于高质量动力学模拟。
+
+  - 图5：第一行元素及 Fe 原子总能量的平面波收敛性
+  ![原子总能量平面波收敛性](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_5_F273ESRL.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - **图示描述**：横轴为平面波截断能 E_pw（Ry），纵轴为相对于 E_pw=50 Ry 结果的总能量差 ΔE（eV）；曲线覆盖 H、Li、Be、B、N、O、F 及 Fe，使用不同符号区分（H△、Li*、Be□、B◇、N▽、O○、F☆、Fe¤）。
+  - **关键特征**：H、Li 等轻元素收敛最快，O、F 等较"硬"元素与 Fe 收敛最慢；所有被测元素在 30–40 Ry 截断下误差均 <0.1 eV；Fe 作为含 3d 与半芯态的过渡金属代表仍能在此截断收敛。
+  - **结论/意义**：确立了 PAW 实际计算中 30 Ry 量级平面波截断即可达到化学精度，与超软赝势收敛性相当但保留全电子信息。
+
+  - 图6：双原子分子结合能的平面波收敛性
+  ![结合能平面波收敛性](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_6_SXMJN2H7.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - **图示描述**：横轴 E_pw（Ry），纵轴为相对于 50 Ry 结果的结合能差 ΔE（eV），被测二聚体与符号同图5。
+  - **关键特征**：结合能（能量差）的收敛显著快于绝对总能量，因原子参考抵消了大部分系统误差；在 30 Ry 截断下误差已 <0.1 eV；轻元素二聚体在更低截断即收敛。
+  - **结论/意义**：说明 PAW 中相对能量（成键、反应能）比绝对总能量更易收敛，30 Ry 足以可靠预测分子结合能。
+
+  - 图7：双原子分子键长的平面波收敛性
+  ![键长平面波收敛性](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_7_4YR3MYMF.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - **图示描述**：横轴 E_pw（Ry），纵轴为相对于 50 Ry 结果的键长差 Δd（a₀），二聚体与符号同图5。
+  - **关键特征**：30 Ry 时键长误差已 <0.02 a₀，相对偏差 <1%；键长对截断的敏感度低于总能量；各元素曲线趋势一致，无异常元素。
+  - **结论/意义**：与表 II 中 30 Ry 下键长偏差 <1% 的结论互相印证，证明 PAW 在中等截断下即可给出可靠的结构参数。
+
+  - 表I：构造 PS 分波所用参数
+  ![表I PS分波构造参数](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/tab_6_8N64J9RS.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - **图示描述**：列出 H、Li、Be、B、N、O、F、Mn（Mn1/Mn2 两种设置）、Fe 等原子构造 PS 分波时的参数，所有原子与角动量通道统一取截断参数 A=6，并给出匹配半径 r_c、ṽ_ps(0) 等。
+  - **关键特征**：A=6 为全局固定的多项式阶数/指数参数；截断半径 r_c 通常取共价半径的约 3/4，使 PS 势在缀加区外与 AE 原子势几乎相同；Mn2 对应每角动量两个分波的设置（图2实线所用），Mn1 为单分波设置。
+  - **结论/意义**：该表是 PAW 势构造"配方"的参数清单，为复现本文结果及后续元素势的构建提供了可操作的数值依据。
+
+  - 表II：30 Ry 截断下二聚体性质与全电子 LDA 结果的对比
+  ![表II 二聚体性质对比](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/tab_30_9X7NQLGJ.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - **图示描述**：汇总 H₂、Li₂、Be₂、B₂、N₂、O₂、F₂、Fe₂ 等二聚体在 30 Ry 平面波截断下的结合能、键长、振动频率，并与当时最精确的全电子 LDA 计算并列对比。
+  - **关键特征**：PAW 键长与全电子结果偏差 <1%；振动频率偏差约 4%；结合能偏差在 0.1–0.2 eV 量级；二聚体键长短、势场非球性强，被视为对任何电子结构方法的严格测试，Fe₂ 还验证了含过渡金属体系的可靠性。
+  - **结论/意义**：以一组严格测试体系定量证明 PAW 以 30 Ry 的中等代价即可达到最先进全电子方法的精度，是论文方法学论断的核心数值证据。
 ## 🔬 项目连接
   - **project-2 Mn多铁（core）**：项目子课题明确使用 VASP 做多孔 MoS₂、多层黑磷、高通量 DFT 计算，且核心材料含 Mn（BiFeO₃、HoMnO₃、Mn 基多铁）。PAW 正是 VASP 的默认电子结构表示，本文是理解 VASP 中 PAW 势、截断能选择、半芯态处理（3s/3p）、Mn/Fe 等过渡金属 d 电子为何需要两分波的原始文献，直接决定计算精度与收敛性判断，属核心方法文献。
   - **project-7 CDW（strong）**：项目对 CrS₂、VTe₂、MnX₂ 等 TMD 做 DFT 计算（1T/1T′ 结构、DOS、电荷掺杂、磁耦合），这些过渡金属二硫属化物的 DFT 几乎都依赖 PAW 势处理 Cr/V/Mn 的 d 电子与 S/Te 的价电子。本文关于过渡金属用四阶多项式匹配 PS 势、每角动量两分波处理窄 d 态、30 Ry 收敛标准等内容可直接指导其 INCAR/POTCAR 选择与收敛性测试。

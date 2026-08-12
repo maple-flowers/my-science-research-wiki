@@ -90,10 +90,25 @@ Kawakami, Sugawara, Oka, Nakayama, Yaegashi, Souma, Takahashi, Fukumura, Sato et
   - `VTe2`（二碲化钒）：制备前驱体，其费米面为 K 点三角形空穴口袋，4×4 CDW。
 ## 📊 关键图表
   - ![图1 MBE+拓扑反应制备单层VS₂及RHEED/芯能级/STM表征](../../raw/figures/kawakamiChargedensityWaveAssociated2023/fig_1_6T5AGUJF.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+  - **图示描述**：图1展示"先MBE生长单层VTe₂、再硫蒸气退火将Te置换为S"的拓扑化学反应流程，并通过RHEED、芯能级光电子谱和STM确认产物质量。子图b/c为VTe₂和硫化后VS₂的RHEED图样，d为对应强度剖面，e为宽能量范围光电子谱（插图为Te 4d区），f/g为STM形貌及台阶高度剖面。
+  - **关键特征**：VTe₂与VS₂均呈清晰1×1 RHEED条纹，证明为单层单晶膜；硫化后RHEED峰位相对中心峰外移，对应晶格常数收缩；S 2p₁/₂/2p₃/₂峰在结合能162–163 eV出现，同时原Te 4d峰（40–42 eV）完全消失，定量证明Te被S完全置换；STM测得单层岛台阶高度0.9 nm，证实单层属性。
+  - **结论/意义**：该组合工艺克服了硫高蒸气压导致直接MBE生长VS₂的困难，为后续ARPES/STM提供了高质量、无VTe₂混杂的单层1T-VS₂样品。
   - ![图2 单层VTe₂与VS₂的ARPES能带对比及DFT计算](../../raw/figures/kawakamiChargedensityWaveAssociated2023/fig_2_6CWHPRW4.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+  - **图示描述**：图2在T=40 K下沿六角布里渊区K–Γ–M截线比较单层VTe₂与VS₂的价带ARPES强度图（a–d），并与自由站立单层1T-VS₂的DFT能带计算（e）对照；c、d为E_F附近V 3d带的放大图。
+  - **关键特征**：硫化后空穴型Te 5p带整体下移，在E_B=2.5–3.0 eV出现较平坦的S 3p特征，源于S 3p轨道能级低于Te 5p；V 3d带沿ΓM方向带宽增加（晶格收缩使V–V跃迁积分增大）；实验V 3d带宽约0.5 eV，窄于DFT的0.75 eV，归因于V 3d电子关联导致的质量重整化；Γ点S 3p能级位置与计算吻合，说明石墨烯衬底电荷转移可忽略、界面为弱范德华耦合；40 K下未见V 3d铁磁分裂。
+  - **结论/意义**：确认薄膜为1T相单层VS₂、与衬底耦合弱，并揭示电子关联对V 3d带的重整化效应。
   - ![图3 VS₂费米面上各向异性CDW能隙的ARPES证据](../../raw/figures/kawakamiChargedensityWaveAssociated2023/fig_3_NBFRXLHF.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+  - **图示描述**：图3在T=40 K给出二维k空间ARPES等能面（a，红色曲线为1T-VS₂计算费米面）、穿过M点椭球电子口袋的5条截线cut 1–5的ARPES强度图（b）与对应DFT计算（c）、费米波矢k_F处的能量分布曲线EDCs（d），以及能隙大小Δ和前沿中点随k的变化（e）。
+  - **关键特征**：E_F处实验强度集中在Γ点而非DFT预言的M点椭球口袋，直到E_B≈0.3 eV才逐渐重现口袋轮廓，直接表明口袋上谱重被能隙抑制；cut 5（近M点，MM方向）U型带底在~0.4 eV，E_F附近强度被强烈抑制，cut 1（近Γ点，ΓM方向）抑制尺度系统性减小；EDCs谱峰从点5的E_B~0.35 eV逐渐移到点1的~0.1 eV，对应能隙各向异性；计算值cut 1约110 meV、cut 5约260 meV，与实验定性一致；所有EDC在E_F处保留残余谱重，呈赝能隙行为（类比欠掺杂高温铜氧化物），且能隙在室温仍存在。
+  - **结论/意义**：实验证实CDW在整个M点椭球电子口袋上打开各向异性、全费米面覆盖的能隙，并提示CDW涨落/电子-电子散射等多体效应导致赝能隙。
   - ![图4 STM条纹CDW超结构与CDW相能带计算-实验对比](../../raw/figures/kawakamiChargedensityWaveAssociated2023/fig_4_Q95L96M2.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - **图示描述**：图4在T=4.8 K给出高分辨STM形貌（a）及其FFT（b），结构优化后的CDW超晶胞原子模型（d），CDW超结构折叠回1×1 BZ的计算谱重（e），并在M–K–M（f、g）和K–Γ–M（h、i）截线上将CDW相计算与ARPES实验对比。
+  - **关键特征**：STM显示条纹状CDW，FFT给出周期为√21×√3 R10.9°（倒格矢g₁=(2/9)b₁−(1/9)b₂、g₂=−(1/9)b₁+(5/9)b₂），不同于块体3√3×3√3 R30°及VSe₂/VTe₂单层的4×4等周期；CDW相中M–K之间V 3d带穿E_F处谱重被抑制，与ARPES一致；Γ点下方V 3d带在CDW相计算中位于E_F以下并出现折叠带，被实验复现，而未畸变1T相（白色虚线）预言该带在E_F以上，被明确排除。
+  - **结论/意义**：把ARPES观察到的各向异性能隙归因于√21×√3 CDW本身，而非电子关联等其他机制，建立实空间超结构与动量空间能隙的对应。
   - ![图5 常规q与高阶2q费米面嵌套协同覆盖整个电子口袋示意图](../../raw/figures/kawakamiChargedensityWaveAssociated2023/fig_5_24Y68D7B.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - **图示描述**：图5将单层VS₂计算费米面（红色实线）分别按q=g₂（a）、q=g₁（b）、高阶矢量q'=2g₁（c）平移（蓝色虚线），橙色阴影/圆圈标出重叠区域，d为q=g₁与q'=2g₁嵌套区域的合并图。
+  - **关键特征**：q=g₂仅在几个离散点相交，嵌套条件很差；q=g₁在M₁附近长条形口袋的平行段重叠良好，但M₂、M₃侧口袋及Γ点周围弯曲段未被嵌套，无法解释全能隙；q'=2g₁在M₂、M₃口袋直线段及拐角弯曲区产生大面积重叠；q与2q协同后嵌套区几乎覆盖整个椭球口袋；DFT在2g₁处同时给出电子极化率χ(q)局部增强和声学声子虚频，自由能上√21×√3相比1T相低18 meV/原胞（4×4相仅低4 meV），解释相选择。
+  - **结论/意义**：提出"常规q + 高阶2q协同嵌套"新机制——q主要嵌套平行段、打开沿MK方向的较大能隙，2q嵌套弯曲段、打开Γ附近较小能隙，二者协作实现全费米面能隙，并把VS₂/VTe₂的CDW差异归因于M点椭球电子口袋与K点三角空穴口袋的拓扑差异。
 ## 🔬 项目连接
   - **project-7（CDW）— core**：本文是CDW机制研究的核心机理论文。直接提供"高阶费米面嵌套"这一新概念，给出 q+2q 协同打开全费米面能隙的完整实验-理论证据链（ARPES能隙各向异性、STM超结构周期、电子极化率 χ(q) 增强、声子虚频），并比较了 VS₂（M点椭球电子口袋，2q嵌套有效）与 VTe₂（K点三角空穴口袋，2q嵌套无效）的费米面拓扑差异。这些内容可直接充实 project-7 中关于费米面嵌套理论适用边界、CDW能隙各向异性起源、以及VX₂家族CDW周期多样性的论述。
 ## 🔗 项目双链

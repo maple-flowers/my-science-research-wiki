@@ -93,9 +93,17 @@ Gajdos, Hummer, Kresse, Furthmuller, Bechstedt，2006，Physical Review B 73, 04
 ## 🆕 新概念/实体建议
   - 材料实体 Si、SiC、AlP、diamond-C 可酌情建立（本文基准材料，但与现有项目材料距离较远）。
 ## 📊 关键图表
+  - **图1：Si 与 GaAs 介电函数虚部 ε₂ 的纵向 vs 横向 vs APW+LO 对比**
   - ![Si 与 GaAs 介电函数虚部 ε₂，纵向 vs 横向 vs APW+LO](../../raw/figures/gajdosLinearOpticalProperties2006/fig_1_BWLDA4M8.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - **图示描述**：双子图二维曲线图，上为 Si、下为 GaAs；横轴光子能量（eV），纵轴为介电函数虚部 ε₂（无量纲），ε₂ 峰值即光吸收峰。实线/点线为本文纵向表达式，虚线为传统横向表达式，方形符号为全电子 APW+LO 基准；主要光学跃迁峰 E₀、E₁、E₂、E₀'、E₁' 按 Yu & Cardona 约定用箭头标出。
+  - **关键特征**：纵向与横向给出完全相同的峰位（由基态 Kohn-Sham 能带与选择定则决定），差异只在峰强；Si 的横向表达式显著高估峰强，纵向曲线与 APW+LO 几乎重合；GaAs 因 PAW 势已含 d 投影子，两式结果差异较小；若在横向计算中补入 d 投影子，峰强即回落至纵向水平，证实误差来自标准 PAW 势 l=1 截断不足。
+  - **结论/意义**：该图直观证明纵向表达式在标准 PAW 势下即可恢复全电子精度，纠正了横向表达式对 Si、SiC、AlP 吸收强度的系统高估。
+  - **表III：五种立方材料的离子钳位静态宏观介电常数综合对比**
   - ![静态介电常数综合对比表（纵向/横向、mic/RPA/DFT、cond/LR、APW+LO、实验）](../../raw/figures/gajdosLinearOpticalProperties2006/tab_0_AX2DEQS7.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
-  - 笔记另附 33 张公式 PNG（eq_1 至 eq_37），覆盖 PAW 变换、极化率矩阵、极化矢量、Sternheimer 方程等核心推导。
+  - **图示描述**：行为 C、Si、SiC、AlP、GaAs、Ga_dAs 六种材料设置，列为不同方法与近似：纵向/横向、mic（忽略局域场）/RPA（Hartree 级局域场）/DFT（含交换关联局域场）、cond（对导带求和）/LR（DFPT 线性响应）、含/不含 d 投影子、APW+LO 全电子基准以及实验值。
+  - **关键特征**：纵向表达式下 mic_cond 与 mic_LR、RPA_cond 与 RPA_LR、DFT_cond 与 DFT_LR 两两吻合，验证导带求和与 DFPT 自洽；Si mic_cond 纵向 14.04、横向 16.50，横向加入 d 投影子后降至 14.09，与纵向偏差 <1%；含局域场后介电常数降低 3%–9%（如 Si mic 14.08→RPA 12.66→DFT 13.29，C 5.98→5.54→5.80）；DFT_LR 纵向值 C 5.80、Si 13.29、SiC 6.97、AlP 8.33、GaAs 14.42、Ga_dAs 14.37，与 APW+LO（Si 13.99 mic、GaAs 15.36 mic）在 1% 内一致；实验值 C 5.70、Si 11.90、SiC 6.52、AlP 7.54、GaAs 11.10，LDA 系统高估 5%–20%，且带隙越小高估越严重。
+  - **结论/意义**：本表是全文核心数据，定量证明纵向表达式在标准 PAW 势下即达全电子精度，并把剩余与实验的偏差干净归因于 LDA 带隙低估而非 PAW 技术误差。
+  - 笔记另附 33 张公式 PNG（eq_1 至 eq_37），覆盖 PAW 变换、极化率矩阵、极化矢量 β_nk（式30，含赝波函数 k 导数、投影函数 k 导数、偶极矩修正 μ_ij 三项）、Sternheimer 方程（式32–34）等核心推导，wiki 正文未单独引用。
 ## 🔬 项目连接
   - **project-5（SnTe 铁电模拟）— strong**：SnTe 计算使用 VASP/PAW 与 DFPT，介电常数、Born 有效电荷、声子与铁电软模都依赖 DFPT/线性响应框架。本文正是 VASP 中 PAW-DFPT 介电矩阵的奠基性文献，解释了为何 PAW 计算必须用纵向表达式、偶极矩修正项从何而来、mic/RPA/DFT 三种局域场近似的层级，以及 k 点网格（MP 远快于 Γ-centered）和空带收敛的实践要点。对理解 SnTe 静态/光学介电常数计算结果的精度与误差来源直接可复用。
   - **project-2（Mn 多铁）— medium**：多铁性材料（BiFeO₃ 等）的 DFT/PAW 计算同样涉及介电响应、光学谱与磁电耦合表征。本文提供 PAW 框架下精确计算电子介电函数的方法学标准，可用于校验 PAW 势选择、l 截断（标准势 l=1 对纵向足够，横向需 l=2）、局域场效应是否纳入等计算设置；论文本身不涉及磁性或多铁机制，故为方法迁移级连接。
