@@ -91,23 +91,28 @@ Guan-Yong Wang, Weiyu Xie, Dan Xu, Hai-Yang Ma, Hao Yang, Hong Lu, Hao-Hua Sun, 
   - `ripplocation`（褶皱位错）：范德华层状材料中通过局部屈曲形成的类位错面缺陷，本文观察到的窄而不对称褶皱与此概念相关。
 ## 📊 关键图表
   - ![图1 实验装置与不同位置表面褶皱的STM图像](../../raw/figures/wangFormationMechanismTwin2019/fig_1_5XL4D84H.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - ![图2 WTe2原子结构模型与含孪晶畴界的高分辨STM图像](../../raw/figures/wangFormationMechanismTwin2019/fig_2_4DW469QQ.png)
+  - ![图2 WTe2原子结构模型与含孪晶畴界的高分辨STM图像](../../raw/figures/wangFormationMechanismTwin2019/fig_2_4DW469QQ.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
   - ![图3 正常区域与孪晶区域的GPA应变映射及统计](../../raw/figures/wangFormationMechanismTwin2019/fig_3_GNIMFLSG.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - ![图4 原子滑移过程与广义堆垛层错能（GSFE）曲线](../../raw/figures/wangFormationMechanismTwin2019/fig_4_HM29HPEF.png)
+  - ![图4 原子滑移过程与广义堆垛层错能（GSFE）曲线](../../raw/figures/wangFormationMechanismTwin2019/fig_4_HM29HPEF.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
 ## 🔬 项目连接
   - **project-5（SnTe铁电模拟）— medium**：本文的DFT+弹性理论方法（GSFE曲线计算、Peierls框架推导临界应变）可直接迁移到SnTe中铁电畴壁成核与应变驱动结构相变的能垒计算；应变场与畴界耦合的物理图像对理解SnTe中应变调控铁电翻转有方法论参考价值。
   - **project-2（Mn多铁）— weak**：本文讨论铁弹性切换及二维TMDC中铁弹/铁磁/多铁行为的可能性，畴界物理与多铁材料中的畴结构有类比意义；但材料体系与具体机制差异较大，仅提供畴界-应变耦合的一般物理图像。
   - **project-7（CDW）— weak**：本文引言和结论提及畴界可承载一维CDW（如MoSe2镜像孪晶界）等拓扑保护边缘态，应变场与畴界涌现物性的相互作用对CDW研究有背景参考价值；但WTe2的TDB本身未展示CDW。
+## 🔗 项目双链
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
 文章采用"实验观察→提出矛盾→定量分析→理论验证→结论"的经典论证链条。先以铟胶固化引入应变的巧妙实验装置在WTe2表面首次观察到TDB，发现其总与褶皱共生而与"小应力热驱动"旧说矛盾；再用GPA将剪切应变εxy定量锁定为7%-9%；最后以DFT-GSFE计算给出6.4%临界应变的理论预测，与实验吻合。值得复用的术语：孪晶畴界（twin domain boundary, TDB）、位移诱导孪晶（displacement-induced twinning）、广义堆垛层错能（generalized stacking fault energy, GSFE）、几何相位分析（geometric phase analysis, GPA）、临界剪切应变（critical shear strain）、不稳定层错能（unstable stacking fault energy, γusf）、不稳定孪晶能（unstable twin fault energy, γutf）、铁弹性切换（ferroelastic switching）、分位错（partial dislocation）、Peierls框架（Peierls framework）。
 ## ✏️ 可写入 Wiki 的要点
-  - 首次在WTe2单晶表面实验观察到孪晶畴界（TDB），孪晶内部准一维条纹与基体条纹夹角约122°（略偏离理想1T相的120°，源于1T→1T'晶格畸变）。
+  - 首次在WTe2单晶表面实验观察到[[../concepts/twin-domain-boundary|孪晶畴界]]（TDB），孪晶内部准一维条纹与基体条纹夹角约122°（略偏离理想1T相的120°，源于1T→1T'晶格畸变）。
   - TDB总是与表面褶皱（rippling）共生，褶皱高度约100-200 pm、宽度约6 nm；但表面观察到的褶皱中只有不到10%是孪晶界。
   - GPA应变分析表明：正常区域εxy在（-1%, 1%）波动，而孪晶区域εxy系统性跃升至7%-9%；εxx和εyy无显著一致变化，证明剪切应变εxy是TDB形成的主控因素。
   - DFT计算单层1T'-WTe2的GSFE曲线，定义了γusf（不稳定层错能）、γsf（层错能）、γutf（不稳定孪晶能）等关键能量参数；γusf/γutf = 0.894，表明材料孪晶倾向很大，与实验上罕见孤立层错一致。
-  - 基于Peierls框架推导：层错产生（I→II）需6.4%剪切应变（速率决定步骤），孪晶成核（III→IV）需5.0%，孪晶生长（V→VI）需5.2%；6.4%即为启动完整孪晶过程的临界剪切应变，与实验值7%吻合。
+  - 基于[[../concepts/peierls-framework|Peierls框架]]推导：层错产生（I→II）需6.4%剪切应变（速率决定步骤），孪晶成核（III→IV）需5.0%，孪晶生长（V→VI）需5.2%；6.4%即为启动完整孪晶过程的临界剪切应变，与实验值7%吻合。
   - 1T'-WTe2中不同变体间转换势垒约0.2 eV/f.u.，远小于MoTe2的H→T'势垒（0.8-0.9 eV/f.u.）；但本文证明小势垒不等于热激活即可成核，因为起始层错步骤仍需大应变克服γusf。
   - 二维与三维孪晶机制有本质区别：三维金属（Al, Ni, Cu）中滑动发生在相邻原子面之间，而二维层状材料中孪晶必须通过单层内大量原子沿特定方向的集体协同位移完成，能垒更高（γutf约为典型3D金属的3倍）。
   - 实验通过铟胶固化引入应变：加热熔化铟后放置WTe2，冷却时因铟与WTe2热膨胀系数不匹配及固化过程非均匀形变，在WTe2中引入大的局部应变场。
   - WTe2晶格常数实验测量值：a轴3.48 Å，b轴6.25 Å；Td相为三维层状结构，单层1T'相中W原子沿a轴位移、Te原子沿c轴交错。
-  - TDB的观察证明了WTe2中铁弹性切换的可能性，为二维TMDC中铁弹、铁磁乃至多铁性行为开辟了思路；可控产生和操控局部应变对利用畴界拓扑保护边缘态等涌现物性具有重要意义。
+  - TDB的观察证明了WTe2中[[../concepts/ferroelasticity|铁弹性]]切换的可能性，为二维TMDC中铁弹、铁磁乃至[[../concepts/multiferroicity|多铁性]]行为开辟了思路；可控产生和操控局部应变对利用畴界拓扑保护边缘态等涌现物性具有重要意义。

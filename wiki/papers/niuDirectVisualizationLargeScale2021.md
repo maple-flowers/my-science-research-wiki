@@ -96,12 +96,16 @@ Niu, Weng, Li, Guo, Wang, Han, Pan, Lin et al.，2021，*Advanced Science* 8(20)
   - ![图3 双轴倾转电子衍射验证褶皱各向异性（FWHM 不对称展宽）](../../raw/figures/niuDirectVisualizationLargeScale2021/fig_3_YQPFZU83.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - ![图4 Te 空位在褶皱挤压侧聚集的统计与 DFT 形成能](../../raw/figures/niuDirectVisualizationLargeScale2021/fig_4_JWV2USTB.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - ![图5 晶界与部分氧化对各向异性褶皱的调制](../../raw/figures/niuDirectVisualizationLargeScale2021/fig_5_TYKDWJZN.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - ![公式2 Te 空位形成能计算式](../../raw/figures/niuDirectVisualizationLargeScale2021/eq_2_VTFU78ZM.png)
+  - ![公式2 Te 空位形成能计算式](../../raw/figures/niuDirectVisualizationLargeScale2021/eq_2_VTFU78ZM.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 
 ## 🔬 项目连接
   - **project-7（CDW，weak）**：论文被收入"单层 CDW 与维度效应"分类，但其内容本身不研究 CDW；可参考之处在于对单层 TMD（WTe2）本征原子结构、集体晶格畸变与维度效应的原子尺度 STEM 表征方法，以及各向异性晶格畸变的电子衍射判据，可作为单层 TMD 结构表征的方法学参照。
   - **project-5（SnTe 铁电模拟，weak）**：本文用 DFT 证明局部弯曲应变可不对称地降低空位形成能（挤压侧更低），并将 SOC 诱导带隙从平坦时的 0.18 eV 增大到 0.22 eV；这种"应变—缺陷—电子结构"耦合的计算思路（固定 z 坐标正弦弯曲超胞 + 形成能公式）对低对称性、含自旋轨道耦合材料的应变工程模拟有方法类比价值，但材料体系与铁电主题无直接重合。
   - 其余项目（project-1 双光子、project-2 Mn多铁、project-3 机械发光NN、project-4 TTF分子计算、project-6 湿度传感器）无直接连接。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 
 ## 📝 组织与用词
 论文按"提出空气敏感难题 → 构建全流程惰性保护方案 → 原子成像发现各向异性褶皱 → 双轴倾转衍射宏观验证 → DFT 解释缺陷择优 → 晶界/氧化外场验证 → 结论"的证据链递进。值得复用的术语：
@@ -118,11 +122,11 @@ Niu, Weng, Li, Guo, Wang, Han, Pan, Lin et al.，2021，*Advanced Science* 8(20)
 ## ✏️ 可写入 Wiki 的要点
   1. 全流程互联惰性气氛系统（CVD 炉—手套箱—真空转移杆—TEM）使空气敏感单层 1T'-WTe2 在生长、转移、表征全过程中隔绝空气；空气中暴露 5 min 光学衬度即褪色，惰性环境保护 48 h 无变化，空气中制备的 STEM 样品晶格被氧化纳米颗粒破坏，而保护环境下呈现大面积完整原子晶格。
   2. CVD 生长条件：15 mg NaCl + 60 mg WO3 前驱体置于加热区中心，Te 粉在上游 9 cm；820 °C 保温 5 min，80 sccm Ar + 20 sccm H2 载气；用异丙醇辅助直接润湿转移到 Quantifoil Au 网，HF-H2O (1:4) 刻蚀氧化硅剥离。
-  3. 单层 1T'-WTe2 中存在本征各向异性褶皱：传播方向只垂直于 (100)、(110) 或 (1−10) 中的某一个晶面，且不能在同一薄片中共存；机械剥离样品中同样存在，证实其内禀性。
+  3. 单层 1T'-WTe2 中存在本征[[../concepts/anisotropic-rippling|[[../concepts/migdal-eliashberg-theory|各向异性]]褶皱]]：传播方向只垂直于 (100)、(110) 或 (1−10) 中的某一个晶面，且不能在同一薄片中共存；机械剥离样品中同样存在，证实其内禀性。
   4. 褶皱的原子判据：弯曲使 Te/W 柱构成的投影四边形单元沿弯曲方向被压扁（红色菱形/箭头）；通过对畸变单元做空间分布图可重建三维起伏并确定传播方向，弯曲斜率约 0.2。
-  5. 双轴倾转电子衍射给出宏观验证：绕 α 轴倾转时 (330)、(360) 衍射斑 FWHM 显著展宽（对应 (110)/(120) 晶面原子集体位移），而绕 β 轴时 (3−30)、(3−60) 几乎不变；倒易杆锥角 12°–16°，结合 HAADF测得横向周期 L≈12 nm，得褶皱平均高度 ≈2.5 nm（AFM 佐证）。与 MoS2 单层各向同性褶皱形成对比。
+  5. 双轴倾转电子衍射给出宏观验证：绕 α 轴倾转时 (330)、(360) 衍射斑 FWHM 显著展宽（对应 (110)/(120) 晶面原子集体位移），而绕 β 轴时 (3−30)、(3−60) 几乎不变；[[../concepts/reciprocal-relrod|倒易杆]]锥角 12°–16°，结合 HAADF测得横向周期 L≈12 nm，得褶皱平均高度 ≈2.5 nm（AFM 佐证）。与 MoS2 单层各向同性褶皱形成对比。
   6. 褶皱起源：1T' 相低对称性（无旋转对称）和各向异性 W–Te 键导致沿不同晶向对应变的响应/容忍度不同，热扰动下应变集中于某一择优面释放；DFT 能量景观支持该机制。
   7. 1T'-WTe2 单胞低对称性产生 4 个不等价 Te 空位（site 1/2 × up/down）；统计（多个薄片、约 1000 nm²、P<0.05）表明无论哪种位点，Te 空位都优先聚集在弯曲的挤压侧（constrictive side），形貌诱导变形压倒了各向异性晶格键合的作用。
-  8. DFT（PWmat，PBE，SG15 模守恒赝势，50 Ryd 截断，DFT-D2 色散校正）通过固定 W 原子 z 坐标为正弦函数 Δz=d·sin(2πy/b) 构建弯曲超胞，证实挤压侧空位形成能更低，且弯曲越大形成能越低；site 1 因 W–Te 键更近、对应变更敏感，形成能波动比 site 2 更剧烈。Te 空位形成能公式 E_f = E_Te + E(W32Te63) − 32 E(WTe2)。
-  9. 褶皱还调制电子结构：考虑 SOC 时 WTe2 由半金属变为半导体，褶皱使 SOC 带隙 from 平坦时 0.18 eV 增大到 0.22 eV，提示可通过褶皱形貌连续调控带隙。
+  8. DFT（PWmat，PBE，SG15 [[../concepts/norm-conserving-pseudopotential|模守恒赝势]]，50 Ryd 截断，DFT-D2 色散校正）通过固定 W 原子 z 坐标为正弦函数 Δz=d·sin(2πy/b) 构建弯曲超胞，证实挤压侧[[../concepts/vacancy-formation-energy|空位[[../concepts/formation-energy|形成能]]]]更低，且弯曲越大形成能越低；site 1 因 W–Te 键更近、对应变更敏感，形成能波动比 site 2 更剧烈。Te 空位形成能公式 E_f = E_Te + E(W32Te63) − 32 E(WTe2)。
+  9. 褶皱还调制电子结构：考虑 SOC 时 WTe2 由[[../concepts/half-metal|半金属]]变为半导体，褶皱使 SOC 带隙 from 平坦时 0.18 eV 增大到 0.22 eV，提示可通过褶皱形貌连续调控带隙。
   10. 晶界处仅当晶界应变方向在某一晶粒内垂直于择优晶面时才诱发该侧褶皱；部分氧化时连续褶皱被软化为同向（同面外方向）的阶梯状精细结构以释放局域应变，说明外来源（晶界、氧化团簇）的定向应变可各向异性地驱动/调制褶皱。

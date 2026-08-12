@@ -110,31 +110,34 @@ Pankaj Sharma, Fei-Xiang Xiang, Ding-Fu Shao, Dawei Zhang, Evgeny Y. Tsymbal, Al
 ## 📊 关键图表
   - ![图1 WTe₂晶体结构（Td相，Pmn21）、XRD、R-T金属行为及SdH振荡](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_1_NDNYXQ2A.png) → [[../figures/crystal-structures|晶体结构与原子排布]]
   - ![图2 PFM观测到的反平行铁电畴（20–50 nm），振幅暗线对应畴壁，相位差约180°](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_2_UK4SYAPY.png) → [[../figures/domain-walls|畴与畴壁结构]]
-  - ![图3 电容器结构中的极化翻转：电滞回线、蝴蝶曲线及电压脉冲写入畴](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_3_GGXMSAT5.png)
+  - ![图3 电容器结构中的极化翻转：电滞回线、蝴蝶曲线及电压脉冲写入畴](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_3_GGXMSAT5.png) -> [[../figures/electronic-devices|电子与突触器件]]
   - ![图4 DFT能带结构、平面平均电荷密度及极化翻转能垒（0.29 eV/f.u.）](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_4_F86EWZ63.png) → [[../figures/crystal-structures|晶体结构与原子排布]]
 
 ## 🔬 项目连接
 无直接项目连接。project-5（SnTe 铁电模拟）在主题上同属铁电材料 DFT 计算，但体系与机制不同。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+
 ## 📝 组织与用词
 文章采用"结构确认 → 性质确认 → 静态畴证据 → 动态翻转证据 → 理论解释"的闭环论证。先以 XRD 和电输运确立非中心对称半金属基态，再用 PFM 给出铁电畴的直接成像，继而以电容器结构克服金属短路难题实现电致翻转，最后以 DFT 揭示极化起源与低能垒翻转路径。论证中反复强调"不完全屏蔽"使金属与铁电共存，并以天然氧化层作为介电层的器件设计为关键实验技巧。值得在 wiki 中复用的术语：
-  - Ferroelectric metal / 铁电金属
-  - Weyl semimetal / 外尔半金属（Type II / II型）
+  - Ferroelectric metal / 铁电金属 [[../concepts/ferroelectric-metal|铁电金属]]
+  - Weyl semimetal / 外尔半金属 [[../concepts/weyl-semimetal|外尔半金属]]（Type II / II型）
   - Piezoresponse force microscopy (PFM) / 压电力显微镜
   - Incomplete screening / 不完全屏蔽
   - Debye length / 德拜长度
-  - Polarization switching / 极化翻转
+  - Polarization switching / 极化翻转 [[../concepts/polarization-switching|极化翻转]]
   - Ferroelastic domain / 铁弹畴
-  - Berry phase method / Berry 相位法
+  - Berry phase method [[../concepts/berry-phase|Berry phase method]] / Berry 相位法
 
 ## ✏️ 可写入 Wiki 的要点
   1. WTe₂ 属 Td 相正交结构，极性空间群 Pmn2₁（C₂ᵥ 点群），W 原子形成略弯曲的锯齿链并导致 Te 八面体畸变；镜面 ac、bc 排除 [100]/[010] 极化，缺失 ab 镜面使 [001]（c 轴）方向极化成为可能。
-  2. 电输运：电阻从 300 K 到 10 K 单调下降（dR/dT>0），30 mK、10 T 下 SdH 振荡出现四个主频，对应两组电子口袋和两组空穴口袋，证实半金属基态并解释其巨大非饱和磁阻。
-  3. PFM 在新鲜解理的块体 WTe₂ 表面（N₂ 环境、室温）直接观测到反平行铁电畴，畴尺寸约 20–50 nm，呈扭曲椭圆/条纹状；畴壁处振幅极小、相邻畴相位差约 180°，表面 RMS 粗糙度约 0.2 nm。
+  2. 电输运：电阻从 300 K 到 10 K 单调下降（dR/dT>0），30 mK、10 T 下 SdH 振荡出现四个主频，对应两组电子口袋和两组空穴口袋，证实[[../concepts/half-metal|半金属]]基态并解释其巨大非饱和磁阻。
+  3. PFM 在新鲜解理的块体 WTe₂ 表面（N₂ 环境、室温）直接观测到反平行[[../concepts/ferroelectric-domain|铁电畴]]，畴尺寸约 20–50 nm，呈扭曲椭圆/条纹状；畴壁处振幅极小、相邻畴相位差约 180°，表面 RMS 粗糙度约 0.2 nm。
   4. 为克服金属高电导导致无法施加电场的难题，作者利用 WTe₂ 表面自然氧化层（约 2.5 nm 厚、非晶、自限过程）作为介电层，制备金属/氧化层/WTe₂ 电容器结构（WTe₂ 薄片厚 15 nm，顶电极 Ti/Au 厚 9.5 nm），成功测得典型相位电滞回线（约 180° 翻转）和振幅"蝴蝶曲线"，并以 -2.5 V 脉冲可逆写入/擦除极化态。
-  5. DFT（Quantum ESPRESSO + VASP，GGA-PBE，含 SOC，Berry 相位法）计算总极化 P ≈ 0.19 μC/cm²，主要来自离子实和价带电子（P_ion + P_VB）；电子口袋电荷密度近对称不贡献偶极，空穴口袋因载流子密度极小贡献 < 0.01 μC/cm²，可忽略。
-  6. 极化翻转能垒：直接反演路径高达 0.70 eV/f.u.（面内原子位移大），但 Td 相由六方结构畸变而来、存在三个等效畸变矢量，跨畸变矢量翻转（P_up1 → P_down2）能垒降至 0.29 eV/f.u.，可比拟 BiFeO₃ 的约 0.43 eV/f.u.，从理论上支持室温翻转。
+  5. DFT（Quantum ESPRESSO + VASP，GGA-PBE，含 SOC，Berry 相位法）计算总极化 P ≈ 0.19 μC/cm²，主要来自离子实和价带电子（P_ion + P_VB）；电子口袋[[../concepts/charge-density|电荷密度]]近对称不贡献偶极，空穴口袋因载流子密度极小贡献 < 0.01 μC/cm²，可忽略。
+  6. [[../concepts/polarization-switching|极化翻转]]能垒：直接反演路径高达 0.70 eV/f.u.（面内原子位移大），但 Td 相由六方结构畸变而来、存在三个等效畸变矢量，跨畸变矢量翻转（P_up1 → P_down2）能垒降至 0.29 eV/f.u.，可比拟 BiFeO₃ 的约 0.43 eV/f.u.，从理论上支持室温翻转。
   7. 压电系数：DFPT + 有限差分法算得 d₃₃ ≈ 6.5 pm/V，实验测得约 0.7 pm/V，相差一个数量级；作者归因于 PFM 信号仅取自约 1.6 nm 的德拜屏蔽层内、电场分布高度非均匀，这反过来佐证了材料的金属性。
-  8. 畴的体性质争议：德拜长度仅约 1.6 nm，PFM 信号原则上只来自表面薄层；作者提出铁电-铁弹耦合可使表面电场引发的键长波动以弹性介导的畴壁运动向体内传播，但尚无直接实验证据，留待后续研究。
-  9. 历史定位：Anderson 与 Blount 于 1965 年提出"铁电金属"猜想；此前 LiOsO₃（140 K）、Cd₂Re₂O₇（200 K）仅在低温发生结构转变，BaTiO₃₋δ 等掺杂体系存在铁电不稳定性随载流子浓度升高而削弱及纳米相分离争议，氧化物异质结极性金属依赖界面工程；Fei et al. (Nature 2018) 在少层 WTe₂ 器件中演示了铁电翻转，而本文将其推进到块体单晶并直接成像铁电畴。
-  10. 意义与展望：将铁电性研究疆域从绝缘体/半导体拓展至拓扑半金属，开辟"铁电拓扑电子学"；金属体系中的铁电畴壁物理、少层/单层 WTe₂ 铁电性、电场调控外尔点、以及寻找更多本征铁电金属（其他具有类似畸变结构的过渡金属硫族化合物）是后续方向。
+  8. 畴的体性质争议：德拜长度仅约 1.6 nm，PFM 信号原则上只来自表面薄层；作者提出铁电-铁弹耦合可使表面电场引发的键长波动以弹性介导的[[../concepts/domain-wall-motion|畴壁运动]]向体内传播，但尚无直接实验证据，留待后续研究。
+  9. 历史定位：Anderson 与 Blount 于 1965 年提出"[[../concepts/ferroelectric-metal|铁电金属]]"猜想；此前 LiOsO₃（140 K）、Cd₂Re₂O₇（200 K）仅在低温发生结构转变，BaTiO₃₋δ 等掺杂体系存在铁电不稳定性随载流子浓度升高而削弱及纳米相分离争议，氧化物异质结[[../concepts/polar-metal|极性金属]]依赖界面工程；Fei et al. (Nature 2018) 在少层 WTe₂ 器件中演示了铁电翻转，而本文将其推进到块体单晶并直接成像铁电畴。
+  10. 意义与展望：将[[../concepts/ferroelectricity|铁电性]]研究疆域从绝缘体/半导体拓展至拓扑半金属，开辟"铁电拓扑电子学"；金属体系中的铁电畴壁物理、少层/单层 WTe₂ 铁电性、电场调控外尔点、以及寻找更多本征铁电金属（其他具有类似畸变结构的[[../entitys/TMDs|过渡金属硫族化合物]]）是后续方向。

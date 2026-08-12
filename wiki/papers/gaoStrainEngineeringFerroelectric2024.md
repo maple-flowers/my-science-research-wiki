@@ -96,25 +96,29 @@ Gao, Chen, Qi et al.，2024，Applied Physics Letters 125, 212903，DOI 10.1063/
 
 ## 📊 关键图表
   - 图1 β-In₂Se₃（顺电相）与 β'-In₂Se₃（铁电相）的晶体结构及 P₀/P₆₀/P₁₂₀ 三个对称等效极化取向
-    ![β'-In2Se3晶体结构与三个极化变体](../../raw/figures/gaoStrainEngineeringFerroelectric2024/fig_1_24Y2WQCH.png)
+    ![β'-In2Se3晶体结构与三个极化变体](../../raw/figures/gaoStrainEngineeringFerroelectric2024/fig_1_24Y2WQCH.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
   - 图2 x方向单轴应变下的能量差、极化分量、FE-P₆₀→FE-P₀ 相变势垒及结构演化
-    ![单轴应变调控能量、极化与势垒](../../raw/figures/gaoStrainEngineeringFerroelectric2024/fig_2_IN5TJMNF.png)
+    ![单轴应变调控能量、极化与势垒](../../raw/figures/gaoStrainEngineeringFerroelectric2024/fig_2_IN5TJMNF.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
   - 图4 60°/180° 畴壁在不同方向拉伸应变下的构型演化（120°畴壁弛豫后自发转为180°畴壁）
-    ![应变调控畴壁构型](../../raw/figures/gaoStrainEngineeringFerroelectric2024/fig_4_TABIBKCU.png)
+    ![应变调控畴壁构型](../../raw/figures/gaoStrainEngineeringFerroelectric2024/fig_4_TABIBKCU.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
   - 公式(1) Green-Lagrange 转变应变张量定义
-    ![转变应变张量定义](../../raw/figures/gaoStrainEngineeringFerroelectric2024/eq_1_8LY7GLV9.png)
+    ![转变应变张量定义](../../raw/figures/gaoStrainEngineeringFerroelectric2024/eq_1_8LY7GLV9.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
   - 公式(2) 2D 转变应变矩阵形式（轴向+剪切分量）
-    ![2D应变矩阵形式](../../raw/figures/gaoStrainEngineeringFerroelectric2024/eq_2_VYQ8NWNX.png)
+    ![2D应变矩阵形式](../../raw/figures/gaoStrainEngineeringFerroelectric2024/eq_2_VYQ8NWNX.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
   - 公式(3) FE-P₀→FE-P₆₀ 的转变应变张量 η₂₁
-    ![η21转变应变张量](../../raw/figures/gaoStrainEngineeringFerroelectric2024/eq_3_QGZE4SD7.png)
+    ![η21转变应变张量](../../raw/figures/gaoStrainEngineeringFerroelectric2024/eq_3_QGZE4SD7.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
   - 公式(4) FE-P₀→FE-P₁₂₀ 的转变应变张量 η₃₁
-    ![η31转变应变张量](../../raw/figures/gaoStrainEngineeringFerroelectric2024/eq_4_DGN4M7N8.png)
+    ![η31转变应变张量](../../raw/figures/gaoStrainEngineeringFerroelectric2024/eq_4_DGN4M7N8.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
   - （注：raw/figures 中未附图3，图3为剪切应变能量/极化曲线及六态应变调控网络图）
 
 ## 🔬 项目连接
   - **project-5（SnTe 铁电模拟）— strong**：论文引言明确将 SnTe 列为已被实验证实的二维面内铁电体之一；其方法链条（VASP + PBE-GGA + PAW + Berry phase 算极化 + CI-NEB 算翻转势垒 + 1×√3 矩形胞/16×1 超胞模拟畴壁）正是 SnTe 铁电模拟可直接复用的计算流程。单轴/剪切应变下极化旋转、势垒降低至零、畴壁类型随应变方向切换的结论，可为 SnTe 薄膜在衬底失配应变下的极化与畴结构演化提供直接物理图像与对照数据。
   - **project-2（Mn 多铁）— medium**：本工作系统展示了"铁弹性-铁电性耦合 → 应力调控极化"这一多铁性核心机制，虽材料为二维 In₂Se₃ 而非 Mn 基多铁，但铁弹/铁电同源耦合、应变降低相变势垒、畴壁夹角决定畴壁类型等物理图像，可为 Mn 基多铁中应变/应力调控磁电耦合、畴壁行为提供可类比的机制参考；其转变应变张量分析方法也可迁移到多铁相变的定量描述。
   - **project-7（CDW）/project-4（TTF 分子计算）/project-1/3/6**：无直接项目连接。应变工程 DFT 流程在全球形式上可为其他计算项目提供方法学参考，但论文机制与材料均不直接对应，不打连接标签。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 
 ## 📝 组织与用词
 文章遵循"提出问题（电场调控在 2D 极限失效）→ 建立模型（β'-In₂Se₃ 三相变体 + 转变应变张量）→ 单轴应变验证 → 剪切应变验证 → 畴壁拓展 → 结论与检测方案"的经典理论计算范式。论证以 Green-Lagrange 应变张量解析预测指导 DFT 数值验证，再用 CI-NEB 揭示势垒机制，最后推广到畴壁超胞，层层递进。值得复用的术语：
@@ -132,11 +136,11 @@ Gao, Chen, Qi et al.，2024，Applied Physics Letters 125, 212903，DOI 10.1063/
 ## ✏️ 可写入 Wiki 的要点
   1. β'-In₂Se₃ 由顺电相 β-In₂Se₃（中心 Se 原子位于反演对称中心，a=b=4.014 Å）经中心 Se 偏移得到，FE 相比 PE 相低 0.083 eV/f.u.；FE-P₀ 晶格 a=4.127 Å、b=6.876 Å，表现为沿极化方向 a 自发伸长、垂直方向 b 收缩，即铁电极化与铁弹应变同源。
   2. 因六方晶格三重旋转对称，β'-In₂Se₃ 存在三个对称等效的面内极化取向 P₀、P₆₀、P₁₂₀，加反向共六个可切换极化方向。
-  3. 转变应变张量用 Green-Lagrange 形式 η_i0 = 1/2[H_0^{−T} H_i^T H_i H_0^{−1} − I] 计算；FE-P₀→FE-P₆₀ 的 η₂₁ 与 FE-P₀→FE-P₁₂₀ 的 η₃₁ 对角元均为 e_xx=−0.026、e_yy=0.0297，非对角剪切元 e_xy=∓0.029，说明变体间转换同时需要单轴和剪切应变。
+  3. [[../concepts/transformation-strain|转变应变]]张量用 Green-Lagrange 形式 η_i0 = 1/2[H_0^{−T} H_i^T H_i H_0^{−1} − I] 计算；FE-P₀→FE-P₆₀ 的 η₂₁ 与 FE-P₀→FE-P₁₂₀ 的 η₃₁ 对角元均为 e_xx=−0.026、e_yy=0.0297，非对角剪切元 e_xy=∓0.029，说明变体间转换同时需要单轴和剪切应变。
   4. x 方向单轴拉伸应变约 3% 时，FE-P₆₀/FE-P₁₂₀ 能量曲线突然变平（其晶格 a 已等于 FE-P₀ 平衡值），极化分量 P_x 增至最大、P_y 降至零，极化矢量转向应变方向并自发转变为 FE-P₀；撤去应变 fully relax 后仍停在 FE-P₀。
   5. 应变不仅改变变体相对能量，更关键是降低相变势垒：无应变时 FE-P₆₀→FE-P₀ 势垒约 7.5 meV/f.u.，2% 拉伸应变下势垒趋近于零，从而在零温即可发生自发铁弹-铁电相变。这与 WTe₂、HgBr₂ 等二维铁弹材料形成对比——后者应变只能改变相对稳定性，因势垒过大无法自发相变。
   6. 剪切应变同样有效：约 +2% 处 FE-P₆₀ 能量开始低于 FE-P₀，约 +3.5% 处 FE-P₆₀ 成为基态；约 −3.5% 处 FE-P₁₂₀ 成为基态。FE-P₆₀→FE-P₁₂₀ 路径中最高能量点不是 β 相而是沿 y 方向极化的结构，势垒同样为 7.5 meV/f.u.，剪切应变可克服该势垒。配合三重对称性，单轴+剪切应变可覆盖六个极化方向。
   7. 用 16×1 超胞（16 个单胞、80 个原子）构建 60°/120°/180° 畴壁：120° 畴壁不稳定，弛豫后自发转变为 180° 畴壁（因法向极化分量不连续会在畴壁处积累束缚电荷、静电能较高）。
   8. 畴壁对应变的响应由"拉伸方向与畴壁夹角"决定：应变垂直于 60° 畴壁时畴壁在 5% 应变内保持；平行于 60° 畴壁时 3% 应变即转为 180° 畴壁；与 60° 畴壁成 60° 时 4% 应变转为近似单畴。对 180° 畴壁：平行时保持，垂直时 4% 应变转为 60° 畴壁，成 60° 时先在 4% 转 60° 畴壁、再在 5% 转近似单畴。
-  9. 计算细节：VASP + PBE-GGA + PAW，平面波截断 500 eV，单层含真空层；Monkhorst-Pack k 点采样密度 <0.05 Å⁻¹；能量收敛 10⁻⁶ eV、力收敛 0.001 eV Å⁻¹；CI-NEB 算势垒，Berry phase 算极化。
-  10. 实验验证建议：利用光学二次谐波（SHG，对结构不对称性敏感）和应变下各向异性电导测量来检测/区分极化方向；最近实验已观察到 β'-In₂Se₃ 中 180° 并排反平行纳米条纹（本征面内反铁电性可稳定至单层），其宽度可用光学方法调控，为应变编程畴壁提供实验基础。
+  9. 计算细节：VASP + PBE-GGA + PAW，平面波截断 500 eV，单层含真空层；Monkhorst-Pack [[../concepts/k-point-sampling|k 点采样]]密度 <0.05 Å⁻¹；能量收敛 10⁻⁶ eV、力收敛 0.001 eV Å⁻¹；CI-NEB 算势垒，Berry phase 算极化。
+  10. 实验验证建议：利用光学二次谐波（SHG，对结构不对称性敏感）和应变下[[../concepts/migdal-eliashberg-theory|各向异性]]电导测量来检测/区分极化方向；最近实验已观察到 β'-In₂Se₃ 中 180° 并排反平行纳米条纹（本征面内[[../concepts/antiferroelectricity|反铁电性]]可稳定至单层），其宽度可用光学方法调控，为应变编程畴壁提供实验基础。

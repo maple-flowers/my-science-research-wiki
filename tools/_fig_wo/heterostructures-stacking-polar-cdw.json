@@ -1,0 +1,68 @@
+[
+ {
+  "citekey": "Johannes2008fermi",
+  "filename": "fig_1_SNEVCPH4.png",
+  "alt": "图1 理想 1D Peierls 模型中 χ′(q) 在 q=2k_F 的对数发散被温度、散射 γ、几何偏差 δk 急剧削弱为弱峰",
+  "path": "../../raw/figures/Johannes2008fermi/fig_1_SNEVCPH4.png"
+ },
+ {
+  "citekey": "Johannes2008fermi",
+  "filename": "fig_7_RUGZDKQS.png",
+  "alt": "图7 CeTe₃ 的 χ′′(q) 最强峰在 q_nest 而 χ′(q) 最强峰在 q_CDW，二者解耦",
+  "path": "../../raw/figures/Johannes2008fermi/fig_7_RUGZDKQS.png"
+ },
+ {
+  "citekey": "Koley2020charge",
+  "filename": "fig_2_FKBHXYLS.png",
+  "alt": "图2 Δ_CDW 与 Δ_SC 随无序强度 Vd 的演化（团簇 vs 随机）",
+  "path": "../../raw/figures/Koley2020charge/fig_2_FKBHXYLS.png"
+ },
+ {
+  "citekey": "Koley2020charge",
+  "filename": "fig_3_FXDQH4QY.png",
+  "alt": "图3 不同 Q 矢下载流子密度调制 ξi 的 CDW 空间图案",
+  "path": "../../raw/figures/Koley2020charge/fig_3_FXDQH4QY.png"
+ },
+ {
+  "citekey": "bhowalPolarMetalsPrinciples2023b",
+  "filename": "fig_1_K5QYFLQM.png",
+  "alt": "图1 极性金属/类铁电金属/铁电金属概念区分及一维离子链库仑排斥能对比",
+  "path": "../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_1_K5QYFLQM.png"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "filename": "fig_5_CKQVRHWC.png",
+  "alt": "图5 第IV–VII族TMDs中1T′ FM/NM CDW相及其形成机制（二聚化 vs 超交换）全景图，CrX₂位于两类机制交叉点",
+  "path": "../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_5_CKQVRHWC.png"
+ },
+ {
+  "citekey": "cheongMultiferroicsMagneticTwist2007a",
+  "filename": "fig_1_D8A9TF3K.png",
+  "alt": "图1 电荷有序诱导铁电性的四种模型（位点/键中心电荷序、↑↑↓↓+交换伸缩、LuFe₂O₄双层、YNiO₃）",
+  "path": "../../raw/figures/cheongMultiferroicsMagneticTwist2007a/fig_1_D8A9TF3K.png"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "filename": "fig_2_TCKUYQ2X.png",
+  "alt": "图2 CDW模频率温度依赖性",
+  "path": "../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_2_TCKUYQ2X.png"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "filename": "fig_6_L5P3GS6D.png",
+  "alt": "图6 1T-TaSe2 C-CDW三维超结构",
+  "path": "../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_6_L5P3GS6D.png"
+ },
+ {
+  "citekey": "hallEnvironmentalControlCharge",
+  "filename": "fig_4_ARG5LDMS.png",
+  "alt": "图4 Li 掺杂：(√7×√7)R19.1° Li 吸附超结构，去 Li 后露出 2×2 CDW，2Δ=19±9 meV",
+  "path": "../../raw/figures/hallEnvironmentalControlCharge/fig_4_ARG5LDMS.png"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "filename": "fig_4_TV6K5X9T.png",
+  "alt": "MAE 对拓扑相与能量的影响",
+  "path": "../../raw/figures/zhangNonvolatileControlTopological2025/fig_4_TV6K5X9T.png"
+ }
+]

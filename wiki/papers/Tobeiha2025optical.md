@@ -101,27 +101,31 @@ Nafiseh Tobeiha, Nafiseh Memarian, Fatemeh Ostovari，2025年，*Scientific Repo
   - 实体 `graphene-oxide`（氧化石墨烯）：含羰基、羟基、环氧、羧基等含氧官能团的石墨烯衍生物，亲水、带可调带隙。
   - 实体 `g-go-nanosheets`（G/GO纳米片复合物）：G导电畴与GO亲水畴共存的混合体系，兼具高载流子迁移率与水分子吸附能力。
 ## 📊 关键图表
-  - ![图1 G/GO纳米片FESEM形貌、EDX能谱与C/O元素mapping](../../raw/figures/Tobeiha2025optical/fig_1_L9TCNR8X.png)
-  - ![图2 XRD、FTIR、Raman与PL结构/光学表征](../../raw/figures/Tobeiha2025optical/fig_2_KXGPCBPJ.png)
-  - ![图3 DRS光谱与Tauc图（1.56 eV与2.66 eV双带隙）](../../raw/figures/Tobeiha2025optical/fig_3_WVRUWYBP.png)
-  - ![图4 暗态下ΔI随电压与湿度的变化](../../raw/figures/Tobeiha2025optical/fig_4_ZCMERMYH.png)
-  - ![图5 21% RH下不同波长激光的I-V曲线](../../raw/figures/Tobeiha2025optical/fig_5_L5452RHL.png)
-  - ![图6 光-湿耦合核心数据：ΔI′/ΔI′′/ΔI′′′拆解](../../raw/figures/Tobeiha2025optical/fig_6_6MRB2R5R.png)
-  - ![图7 响应/恢复时间与循环稳定性](../../raw/figures/Tobeiha2025optical/fig_7_QLKTIAUR.png)
-  - ![公式1 Kubelka–Munk函数](../../raw/figures/Tobeiha2025optical/eq_1_7T2KD6P7.png)
-  - ![公式2 Tauc公式](../../raw/figures/Tobeiha2025optical/eq_2_4BAWYKNG.png)
+  - ![图1 G/GO纳米片FESEM形貌、EDX能谱与C/O元素mapping](../../raw/figures/Tobeiha2025optical/fig_1_L9TCNR8X.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图2 XRD、FTIR、Raman与PL结构/光学表征](../../raw/figures/Tobeiha2025optical/fig_2_KXGPCBPJ.png) -> [[../figures/vibrational-spectra|振动能谱与声子谱]]
+  - ![图3 DRS光谱与Tauc图（1.56 eV与2.66 eV双带隙）](../../raw/figures/Tobeiha2025optical/fig_3_WVRUWYBP.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图4 暗态下ΔI随电压与湿度的变化](../../raw/figures/Tobeiha2025optical/fig_4_ZCMERMYH.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图5 21% RH下不同波长激光的I-V曲线](../../raw/figures/Tobeiha2025optical/fig_5_L5452RHL.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![图6 光-湿耦合核心数据：ΔI′/ΔI′′/ΔI′′′拆解](../../raw/figures/Tobeiha2025optical/fig_6_6MRB2R5R.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图7 响应/恢复时间与循环稳定性](../../raw/figures/Tobeiha2025optical/fig_7_QLKTIAUR.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![公式1 Kubelka–Munk函数](../../raw/figures/Tobeiha2025optical/eq_1_7T2KD6P7.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式2 Tauc公式](../../raw/figures/Tobeiha2025optical/eq_2_4BAWYKNG.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 ## 🔬 项目连接
   - **project-6（湿度传感器）— core**：本文是G/GO基光学湿度传感器的直接实验研究，从材料制备（声化学剥离+滴涂）、表征（XRD/FTIR/Raman/PL/DRS）、器件构筑（硅片+银浆欧姆接触）、湿度腔测试（30–80% RH，IVM-2.10系统）到光-湿耦合机制（p型掺杂、激子结合能、双光子吸收）完整覆盖。差分电流ΔI′/ΔI′′/ΔI′′′解耦光、湿及协同贡献的方法学可直接复用于项目6其他湿敏材料的光调控测试；450 nm蓝光增强策略（响应1.0 s、恢复1.3 s、线性度好）为器件工作波长选择提供直接范例；表1的六维性能评价框架（灵敏度/选择性/响应/恢复/稳定性/线性度）可作为项目6器件对比的标准模板。
   - **project-1（双光子）— weak**：文中在解释808 nm（~1.53 eV）如何激发带隙>2 eV of GO时，明确讨论了双光子吸收（two-photon absorption，~3.2 eV合能）这一非线性光学机制，并指出其需要高光强、在中等激光功率下贡献电子数有限。这为project-1理解石墨烯/GO体系在近红外飞秒激光下的双光子吸收截面、激发态电子向水分子转移的竞争通道提供了材料层面的参考，但本文未涉及双光子荧光，仅为机制层面的形式类比。
   - 其他项目（project-2/3/4/5/7）：无直接项目连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+
 ## 📝 组织与用词
 论文采用"合成→表征→暗态基准→单波长光电流→光-湿耦合→机制解释→性能评估"的递进结构。核心论证手法是通过三个差分电流（ΔI′总效应、ΔI′′光照净贡献、ΔI′′′湿度净贡献）将混合信号解耦，再用能带-激子结合能模型统一解释450 nm与808 nm的差异化行为。值得在wiki叙述中复用的术语：
-  - 相对湿度 / Relative Humidity (RH)
+  - 相对湿度 [[../concepts/relative-humidity|相对湿度]] / Relative Humidity (RH)
   - 声化学剥离 / sonochemical exfoliation
   - p型半导体 / p-type semiconductor
-  - 光学带隙 / optical bandgap
-  - 激子结合能 / exciton binding energy
-  - 双光子吸收 / two-photon absorption
+  - 光学带隙 [[../concepts/optical-band-gap|光学带隙]] / optical bandgap
+  - 激子结合能 [[../concepts/exciton-binding-energy|激子结合能]] / exciton binding energy
+  - 双光子吸收 [[../concepts/two-photon-absorption|双光子吸收]] / two-photon absorption
   - 光生载流子 / photogenerated carriers
   - 界面电荷转移 / interfacial charge transfer
   - 响应/恢复时间 / response/recovery time
@@ -131,9 +135,9 @@ Nafiseh Tobeiha, Nafiseh Memarian, Fatemeh Ostovari，2025年，*Scientific Repo
   2. XRD三个特征峰：2θ=10°（GO(001)，层间距0.83 nm）、2θ=20°（GO/G中间相，0.48 nm）、2θ=26°（G(002)多层结构，0.38 nm），证实G与GO畴共存。
   3. FTIR：3000–3600 cm⁻¹为O-H伸缩，1382–1746 cm⁻¹为羧基/环氧，1026 cm⁻¹为C=O；Raman：D峰~1345 cm⁻¹（缺陷/sp³）、G峰~1587 cm⁻¹（sp²面内E2g）、2D峰~2668 cm⁻¹。
   4. PL在280 nm/300 nm激发下分别于378 nm/386 nm出现蓝光发射，源于sp²团簇中电子-空穴对辐射复合及氧原子与G费米能级附近π态的键合。
-  5. DRS+Tauc图给出两个光学带隙：1.56 eV（~794 nm，G畴）和2.66 eV（~466 nm，GO畴），是后续波长选择的能量标尺。
+  5. DRS+[[../concepts/tauc-plot|Tauc图]]给出两个[[../concepts/optical-band-gap|光学带隙]]：1.56 eV（~794 nm，G畴）和2.66 eV（~466 nm，GO畴），是后续波长选择的能量标尺。
   6. 暗态湿敏机制：Hummers法制备的G为p型半导体，水分子含氧端电负性高，从G表面抽取电子，使空穴浓度升高、电流增大；湿度越高载流子密度越高。
   7. 21% RH下I-V：808 nm电流最大，450 nm次之，370 nm最小；450 nm与808 nm处电流异常增大，分别对应2.66 eV与1.56 eV带隙共振。
   8. 差分电流定义：ΔI′=I(光,湿)−I(暗,21%RH)为总效应；ΔI′′=I(光,湿)−I(暗,同湿)为光照净贡献；ΔI′′′=I(光,湿)−I(光,21%RH)为湿度净贡献。450 nm下三者均随湿度线性增加；808 nm下ΔI′′′为负，即湿度升高反而抑制电流。
-  9. 机制解释：450 nm光子（~2.76 eV）超过GO带隙且足以克服石墨烯~3 eV的激子结合能，光生电子自由度高，易被水分子捕获，进一步增强p型掺杂，形成光-湿正向协同；808 nm光子（~1.53 eV）激发的电子受激子结合能强束缚，双光子吸收贡献电子数少，高湿度下这些电子与H⁺/空穴复合反而消耗载流子，导致负响应。
+  9. 机制解释：450 nm光子（~2.76 eV）超过GO带隙且足以克服[[../entitys/graphene|石墨烯]]~3 eV的[[../concepts/exciton-binding-energy|激子结合能]]，光生电子自由度高，易被水分子捕获，进一步增强p型掺杂，形成光-湿正向协同；808 nm光子（~1.53 eV）激发的电子受激子结合能强束缚，[[../concepts/two-photon-absorption|[[../concepts/biphoton|双光子]]吸收]]贡献电子数少，高湿度下这些电子与H⁺/空穴复合反而消耗载流子，导致负响应。
   10. 性能数据（40% RH）：暗态响应1.9 s/恢复2.1 s；450 nm响应1.0 s/恢复1.3 s；808 nm响应1.7 s/恢复1.39 s。表1六维评价中只有450 nm在灵敏度、选择性、响应/恢复、稳定性、线性度上全部合格，370 nm全不合格，808 nm非线性。

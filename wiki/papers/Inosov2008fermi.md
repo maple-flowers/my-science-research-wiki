@@ -108,16 +108,20 @@ D S Inosov, V B Zabolotnyy, D V Evtushinsky, A A Kordyuk, B Büchner, R Follath,
   - **project-2（Mn 多铁）— weak**：论文结论部分仅以类比方式提到第一过渡族金属（Mn、Fe、Co、Ni）插层 NbS₂ 会强烈改变磁转变温度（Friend 1977、Yamamura 2004），用以支撑"Cu 插层可能增强 CDW"的论点；本身不涉及多铁性或 Mn 氧化物的磁电耦合，仅可作为"插层调控层状硫族化合物有序态"的远缘背景参考。
   - project-1（双光子）、project-3（机械发光 NN）、project-4（TTF 分子计算）、project-5（SnTe 铁电模拟）、project-6（湿度传感器）：无直接项目连接。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+
 ## 📝 组织与用词
 论文按"Peierls 理论与三种争议场景 → ARPES 测量 → 紧束缚参数化 → Lindhard 函数计算 → TaSe₂ 温度演化 → 三材料横向对比 → 结论与开放问题"展开，论证主轴是一个可证伪命题："若简单嵌套驱动 CDW，则 χ₀ 峰应位于公度波矢且峰强与 T_CDW 正相关"，然后用实验同时否定这两个推论，从而把图像修正为"嵌套提供不稳定性、电子-声子耦合决定 T_CDW、嵌套矢量天然非公度且普适"。值得复用的术语：
   - [[../concepts/fermi-surface-nesting|Fermi surface nesting — 费米面嵌套]]
   - [[../concepts/lindhard-function|Lindhard function / bare spin susceptibility — Lindhard 函数 / 裸自旋磁化率]]
   - nesting vector — 嵌套矢量
-  - incommensurate / commensurate CDW — 非公度 / 公度电荷密度波
+  - incommensurate / commensurate CDW — 非公度 / 公度电荷密度波 [[../concepts/commensurate-cdw|公度电荷密度波]]
   - lock-in transition — 锁相（lock-in）转变
   - [[../concepts/electron-phonon-coupling|electron–phonon coupling — 电子-声子耦合]]
   - [[../concepts/kohn-anomaly|Kohn anomaly — Kohn 异常]]
-  - rigid band shift / rigid band approximation — 刚性带移 / 刚性带近似
+  - rigid band shift / rigid band approximation — 刚性带移 / 刚性带近似 [[../concepts/rigid-band-approximation|刚性带近似]]
   - [[../concepts/van-hove-singularity|van Hove singularity]] ([[../concepts/saddle-point|saddle point]]) — 范霍夫奇点（鞍点）
   - dogbone / barrel Fermi surface — "狗骨"状 / 桶状费米面
 
@@ -125,10 +129,10 @@ D S Inosov, V B Zabolotnyy, D V Evtushinsky, A A Kordyuk, B Büchner, R Follath,
   - [[../concepts/commensurate-incommensurate|commensurate-incommensurate]]
   - [[../concepts/rigid-band-approximation|rigid-band-approximation]]
 ## ✏️ 可写入 Wiki 的要点
-  1. Peierls 不稳定性判据（论文式 1）：4η̄²_q/ℏω_q − 2Ū_q + V̄_q > 1/χ_q，其中 χ_q 为裸自旋磁化率（Lindhard 函数），η̄_q 为局域电子-声子耦合，Ū_q、V̄_q 为局域近似下的直接/交换库仑作用；当 χ_q 在某 q 处发散或出现强峰且左端为正时触发 CDW/PLD。
-  2. TMDC 中 CDW 驱动机制在文献中存在三种场景：(i) 简单费米面嵌套；(ii) 范霍夫奇点（鞍点）嵌套；(iii) 费米面与鞍点带的部分嵌套。本文用高精度 ARPES 检验场景 (i)。
-  3. 2H-TaSe₂ 在正常态（290、180 K）和非公度 CDW 态（107 K）的 Lindhard 函数均在 ~0.58–0.60 ΓM 处出现尖锐嵌套峰，而非公度 CDW 波矢 2/3 ΓM ≈ 0.667 ΓM；用 Rossnagel 等人 2005 年的独立紧束缚参数在 125 K 复算，峰位几乎相同，排除了模型人为性。
-  4. TaSe₂ 中嵌套矢量随温度非单调演化：从室温向 122 K 降温时先远离公度位置（体系"感受并规避"不稳定性），进入 ICDW 态后又被推回靠近公度位置，最终在 90 K 驱动 3×3 公度 lock-in；同期 61 声子支在 300 K 已出现类 Kohn 异常并随降温进一步软化，指示强电子-声子耦合。
+  1. [[../concepts/peierls-instability|Peierls 不稳定性]]判据（论文式 1）：4η̄²_q/ℏω_q − 2Ū_q + V̄_q > 1/χ_q，其中 χ_q 为裸自旋磁化率（[[../concepts/lindhard-function|Lindhard 函数]]），η̄_q 为局域[[../concepts/electron-phonon-coupling|电子-声子耦合]]，Ū_q、V̄_q 为局域近似下的直接/交换库仑作用；当 χ_q 在某 q 处发散或出现强峰且左端为正时触发 CDW/PLD。
+  2. TMDC 中 CDW 驱动机制在文献中存在三种场景：(i) 简单[[../concepts/fermi-surface-nesting|[[../concepts/fermi-surfaces|费米面]]嵌套]]；(ii) [[../concepts/van-hove-singularity|范霍夫奇点]]（鞍点）嵌套；(iii) 费米面与鞍点带的部分嵌套。本文用高精度 ARPES 检验场景 (i)。
+  3. 2H-TaSe₂ 在正常态（290、180 K）和非公度 CDW 态（107 K）的 Lindhard 函数均在 ~0.58–0.60 ΓM 处出现尖锐嵌套峰，而非公度 CDW 波矢 2/3 ΓM ≈ 0.667 ΓM；用 Rossnagel 等人 2005 年的独立[[../concepts/tight-binding|紧束缚]]参数在 125 K 复算，峰位几乎相同，排除了模型人为性。
+  4. TaSe₂ 中嵌套矢量随温度非单调演化：从室温向 122 K 降温时先远离公度位置（体系"感受并规避"不稳定性），进入 ICDW 态后又被推回靠近公度位置，最终在 90 K 驱动 3×3 公度 lock-in；同期 61 声子支在 300 K 已出现类 [[../concepts/kohn-anomaly|Kohn 异常]]并随降温进一步软化，指示强电子-声子耦合。
   5. 三材料对比：χ₀ 峰强排序 NbSe₂ > Cu₀.₂NbS₂ > TaSe₂，但 T_CDW 排序 TaSe₂（122 K）> NbSe₂（33.5 K）> Cu₀.₂NbS₂（未观测到 CDW），直接否定"嵌套越强 T_CDW 越高"的简单直觉；作者把差异归因于声子谱、电子-声子耦合或被忽略的 kz 色散。
   6. 嵌套矢量的普适性：尽管 TaSe₂ 为"单空穴桶 + 电子狗骨"拓扑、NbSe₂/Cu₀.₂NbS₂ 为"双空穴桶"拓扑，三者主导嵌套矢量均位于 0.60 ± 0.05 ΓM；不同材料靠不同费米面片段的相切（M-K 桶、K-Γ 桶、K-K 自相切等）"殊途同归"地实现同一 q。
   7. 刚性带移灵敏度实验：TaSe₂ 能带整体刚性平移 20 meV（约 4% 电子掺杂）即可把室温 χ₀ 峰从 0.6 ΓM 推到公度 2/3 ΓM；而 Cu₀.₂NbS₂ 实际掺杂高达 20% 却仍保留同一嵌套矢量，说明 Cu 插层并非简单刚性带移，而是把与嵌套相关的费米面片段"钉扎"在原位（与 Battaglia 等在 Ni/Mn 插层 NbS₂ 中观察到的 Γ 桶不受插层影响一致）。

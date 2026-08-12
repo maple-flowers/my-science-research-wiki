@@ -130,7 +130,7 @@ wiki 中没有、但值得新建的概念或材料实体：
 
 ## 📊 关键图表
   - ![图1 h-BN双层铁电性：极化矢量随层间滑移的演化、能量势垒与电荷密度差](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_1_TZK5GGQL.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
-  - ![图2 DP模型与DFT的能量/原子力基准测试（能量误差0.60 meV/atom）](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_2_WP5XMYXN.png)
+  - ![图2 DP模型与DFT的能量/原子力基准测试（能量误差0.60 meV/atom）](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_2_WP5XMYXN.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
   - ![图3 DP与DFT声子色散对比，验证AB堆垛动力学稳定性](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_3_FPIDI2M5.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
   - ![图4 50-700 K热稳定性：层间距与极化随温度变化](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_4_DAWZJSBV.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
   - ![图5 四种畴壁的原子结构与极化分布：0°布洛赫型、90°奈尔型，宽度9.7-40.7 nm](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_5_BK4H4WHC.png) → [[../figures/domain-walls|畴与畴壁结构]]
@@ -147,10 +147,19 @@ wiki 中没有、但值得新建的概念或材料实体：
   - **project-6 湿度传感器**：无直接项目连接。
   - **project-7 CDW**：弱参考价值。畴壁作为拓扑缺陷的类孤子（soliton-like）运动、临界驱动力与速度的定量关系，与CDW中相移孤子的动力学在物理图像上有可类比之处；但本文研究的是铁电极化畴壁而非电荷密度波畴壁，机制不同，仅提供拓扑缺陷动力学的方法论参考。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
 文章遵循"提出问题→构建方法→静态结构→动态行为→特殊结构（莫尔）→总结"的计算物理研究范式。先以领域两大谜题（实验翻转场偏低、莫尔回线变窄）为引子，将答案锁定在畴壁；再展示DP模型的构建与精度验证；随后从静态（四种畴壁的原子结构、宽度、一维弹性模型）到动态（畴壁运动、临界场、速度、翻转时间）层层推进；最后将尺度拓展至莫尔超晶格，提出超顺电态与缺陷钉扎机制。论证以模拟数据为核心，辅以解析模型（一维弹性模型、LGD唯象分析）进行定量解释。值得复用的关键词/术语：
   - 堆垛工程铁电性（stacking-engineered ferroelectricity）
-  - 滑移铁电性（sliding ferroelectricity）
+  - 滑移铁电性 [[../concepts/sliding-ferroelectricity|滑移铁电性]]（sliding ferroelectricity）
   - 畴壁纹理（domain-wall texture）：布洛赫型/奈尔型（Bloch-type/Néel-type）
   - 超顺电态（super-paraelectric state）
   - 深度势能（deep potential, DP）/ 并发学习（concurrent learning, DP-Gen）
@@ -159,13 +168,13 @@ wiki 中没有、但值得新建的概念或材料实体：
   - 类孤子运动（soliton-like motion）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. h-BN双层AB/BA堆垛产生面外极化Pz=1.46×10⁻¹² C/m（Berry相位法，optB86b-vdW泛函），极化源于层间电荷转移而非离子位移；鞍点（SP）构型为纯面内极化1.38×10⁻¹² C/m，极化模长在翻转路径上基本保持不变。
-  2. DP模型通过DP-Gen并发学习流程训练23轮，生成11,580个构型；能量误差0.60 meV/atom，面内力误差0.051 eV/Å，面外力误差0.017 eV/Å；截断半径Rc=6 Å，嵌入网络(25,50,100)，拟合网络(240,240,240)，训练180万步。
+  1. h-BN双层AB/BA堆垛产生面外极化Pz=1.46×10⁻¹² C/m（[[../concepts/berry-phase|Berry相位]]法，optB86b-vdW泛函），极化源于[[../concepts/interlayer-charge-transfer|层间[[../concepts/charge-transfer|电荷转移]]]]而非离子位移；鞍点（SP）构型为纯面内极化1.38×10⁻¹² C/m，极化模长在翻转路径上基本保持不变。
+  2. DP模型通过DP-Gen[[../concepts/concurrent-learning|并发学习]]流程训练23轮，生成11,580个构型；能量误差0.60 meV/atom，面内力误差0.051 eV/Å，面外力误差0.017 eV/Å；截断半径Rc=6 Å，嵌入网络(25,50,100)，拟合网络(240,240,240)，训练180万步。
   3. 四种一维畴壁按DW与滑移矢量夹角φ分类：0°（布洛赫型，平面，最稳定）、30°、60°、90°（奈尔型，面外屈曲最显著）；畴壁宽度随φ单调增加：9.7、17.6、32.1、40.7 nm，比钙钛矿铁电体（~0.7 nm）大一个数量级。
-  4. 一维弹性模型给出畴壁宽度w = u₀/2·√(λ₁ᴰ/Δ)，其中λ₁ᴰ为面内拉梅力系数，Δ为单位长度翻转势垒；范德华材料超低Δ与极高面内刚度λ₁ᴰ共同导致超宽畴壁；λ₁ᴰ可通过应变/电场调控，是铁电畴壁工程的新自由度（类比磁学中交换作用）。
-  5. 单畴直接翻转临界场：100 K时Fs=3.8×10⁻³ eV/Å（Ev≈1.41 V/nm），300 K时3.5×10⁻³ eV/Å（~1.32 V/nm），对热涨落不敏感；而通过0°畴壁运动翻转的临界Fs仅7×10⁻⁵ eV/Å（Ev=0.026 V/nm），降低约两个数量级；90°畴壁临界Fs=3×10⁻⁴ eV/Å（Ev=0.11 V/nm）。
+  4. 一维弹性模型给出畴壁宽度w = u₀/2·√(λ₁ᴰ/Δ)，其中λ₁ᴰ为面内拉梅力系数，Δ为单位长度[[../concepts/switching-barrier|翻转势垒]]；范德华材料超低Δ与极高面内刚度λ₁ᴰ共同导致超宽畴壁；λ₁ᴰ可通过应变/电场调控，是铁电[[../concepts/domain-wall-engineering|畴壁工程]]的新自由度（类比磁学中[[../concepts/exchange-interaction|交换作用]]）。
+  5. 单畴直接翻转临界场：100 K时Fs=3.8×10⁻³ eV/Å（Ev≈1.41 V/nm），300 K时3.5×10⁻³ eV/Å（~1.32 V/nm），对热涨落不敏感；而通过0°[[../concepts/domain-wall-motion|畴壁运动]]翻转的临界Fs仅7×10⁻⁵ eV/Å（Ev=0.026 V/nm），降低约两个数量级；90°畴壁临界Fs=3×10⁻⁴ eV/Å（Ev=0.11 V/nm）。
   6. 300 K下施加Fs=5×10⁻⁴ eV/Å（Ev=0.18 V/nm）时，两个0°畴壁以~6000 m/s速度相向运动，9 ps内湮灭；100 nm直径器件翻转时间约15 ps，预示超快低功耗非易失存储。
   7. 垂直电场Ev与横向剪切力Fs的关系为Fs=Ev·Z*₁₃，Berry相位计算给出Z*₁₃^top=0.027、Z*₁₃^bottom=−0.027，比BaTiO₃小两个数量级；LGD唯象分析表明梯度能系数Gij增大→畴壁更宽→速度更快→临界场更低（临界场与畴壁宽度成反比）。
-  8. 0.385°扭转莫尔超晶格（355,012原子）弛豫后，AB/BA畴扩张为三角形、高能AA畴收缩为点；垂直电场下BA畴由三角形变为类六边形，Pz在Ev=0.026 V/nm即快速饱和至1.32×10⁻¹² C/m，撤场后恢复，P-E曲线无回滞——本征态为超顺电体而非铁电体。
-  9. 氮空位（VN）对畴壁形成约50 meV的捕获势阱，少量缺陷即可钉扎畴壁，阻止AB/BA畴尺寸在零场下平衡，从而产生剩余极化与类铁电回滞——这为莫尔结构实验中观测到的铁电响应提供了缺陷钉扎机制解释。
-  10. 热稳定性：50-700 K范围内单畴结构保持完整，700 K时极化仅从1.46降至1.14×10⁻¹² C/m（因层间距热膨胀增大），证实极高居里温度；面内化学键刚度使极化几乎不受热涨落影响。
+  8. 0.385°扭转[[../concepts/moire-superlattice|莫尔[[../concepts/superlattice|超晶格]]]]（355,012原子）弛豫后，AB/BA畴扩张为三角形、高能AA畴收缩为点；垂直电场下BA畴由三角形变为类六边形，Pz在Ev=0.026 V/nm即快速饱和至1.32×10⁻¹² C/m，撤场后恢复，P-E曲线无回滞——本征态为超顺电体而非铁电体。
+  9. 氮空位（VN）对畴壁形成约50 meV的捕获势阱，少量缺陷即可钉扎畴壁，阻止AB/BA畴尺寸在零场下平衡，从而产生[[../concepts/remanent-polarization|剩余极化]]与类铁电回滞——这为莫尔结构实验中观测到的铁电响应提供了缺陷钉扎机制解释。
+  10. 热稳定性：50-700 K范围内单畴结构保持完整，700 K时极化仅从1.46降至1.14×10⁻¹² C/m（因层间距热膨胀增大），证实极高[[../concepts/curie-temperature|居里温度]]；面内化学键刚度使极化几乎不受热涨落影响。

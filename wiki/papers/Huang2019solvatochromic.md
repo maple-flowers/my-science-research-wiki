@@ -12,7 +12,7 @@ year_read: 2026
 original_note:: [[../../raw/note/Huang2019solvatochromic]]
 projects: [project-1, project-6]
 concepts: [solvatochromism, two-photon-absorption, two-photon-fluorescence, intramolecular-charge-transfer, twisted-intramolecular-charge-transfer, exciplex, local-excited-state, donor-pi-acceptor, push-pull-chromophore, thermochromism, viscosity-sensing, fluorescence-quantum-yield, lippert-mataga, solvent-polarity-scales, triple-fluorescence]
-entities: [stilbene, DCS, P1-probe, P2-probe, dimethylamino, diphenylamino, cyano-group, glycerol, DMSO, fluorescein, quinine-bisulfate]
+entities: [stilbene, DCS, dicyanostilbene-1a, dicyanostilbene-1b, dimethylamino, diphenylamino, cyano-group, glycerol, DMSO, fluorescein, quinine-bisulfate]
 methods: [uv-vis-spectroscopy, fluorescence-spectroscopy, two-photon-excited-fluorescence, tpa-cross-section-measurement, nmr-spectroscopy, mass-spectrometry, wittig-horner-reaction, solvent-polarity-correlation]
 materials: [P1, P2, DCS]
 figures: [optical-spectra]
@@ -61,8 +61,8 @@ tags:
   - concept/triple-fluorescence
   - entity/stilbene
   - entity/DCS
-  - entity/P1-probe
-  - entity/P2-probe
+  - entity/dicyanostilbene-1a
+  - entity/dicyanostilbene-1b
   - entity/dimethylamino
   - entity/diphenylamino
   - entity/cyano-group
@@ -97,7 +97,7 @@ Huang, Peng, Fan et al.，2019，*American Journal of Biomedical Science & Resea
 
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/solvatochromism|溶剂化变色]]、[[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/two-photon-fluorescence|双光子荧光]]、[[../concepts/intramolecular-charge-transfer|分子内电荷转移]]、[[../concepts/twisted-intramolecular-charge-transfer|扭转分子内电荷转移]]、[[../concepts/exciplex|激基复合物]]、[[../concepts/local-excited-state|局域激发态]]、[[../concepts/donor-pi-acceptor|供体-π-受体]]、[[../concepts/push-pull-chromophore|推拉生色团]]、[[../concepts/triple-fluorescence|三重荧光]]、[[../concepts/lippert-mataga|Lippert–Mataga方程]]
-  - 实体 [[../entities/stilbene|二苯乙烯]]、[[../entities/DCS|DCS]]、[[../entities/P1-probe|P1探针]]、[[../entities/P2-probe|P2探针]]、[[../entities/fluorescein|荧光素]]、[[../entities/quinine-bisulfate|硫酸奎宁]]
+  - 实体 [[../entities/stilbene|二苯乙烯]]、[[../entities/DCS|DCS]]、[[../entities/dicyanostilbene-1a|P1探针]]、[[../entities/dicyanostilbene-1b|P2探针]]、[[../entities/fluorescein|荧光素]]、[[../entities/quinine-bisulfate|硫酸奎宁]]
   - 图表 [[../figures/optical-spectra]]
   - 年度 [[../write/2019]]
   - 项目 [[../projects/project-1-two-photon]]
@@ -124,26 +124,30 @@ Huang, Peng, Fan et al.，2019，*American Journal of Biomedical Science & Resea
   - **project-6（湿度传感器，weak）**：本文演示了通过发光波长/强度比响应环境参数（极性、粘度、温度）的比率型荧光传感思路，以及多参数解耦（LE/TICT/Exciplex 三带对环境的差异化响应）。若项目六涉及湿度响应光学材料，其"颜色变化优于强度变化"的比率测量策略和对氢键给体（HBD）效应的讨论可作为方法学类比；但材料体系与刺激类型不同，仅为远距离方法参考。
   - 其他项目：与 project-2/3/4/5/7 无直接项目连接。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+
 ## 📝 组织与用词
 文章按"提出问题（缺乏多功能大 δ 双光子探针）→分子设计（DCS 骨架、双氰基+二甲氨基 D-π-A）→合成（Wittig-Horner 路线）→光物理表征（吸收/发射/TPEF/δ/粘度/温度/浓度）→机理（ICT + TICT + Exciplex 三态模型）→结论与展望"组织。逻辑链是"基态不敏感、激发态敏感"的对比贯穿始终：吸收峰位对溶剂几乎不变（401-419 nm），而发射位移近 200 nm，由此论证 ICT 态的高极性；再用粘度/温度/浓度对三带的不同影响把 LE/TICT/Exciplex 分开。值得在 wiki 中复用的术语：
   - *solvatochromism* 溶剂化变色
   - *two-photon absorption cross section (δ, GM)* 双光子吸收截面（戈佩特-迈耶单位）
-  - *D-π-A / push-pull chromophore* 给体-π-受体/推拉生色团
-  - *ICT / TICT* 分子内电荷转移 / 扭转分子内电荷转移
+  - *D-π-A / push-pull chromophore* 给体-π-受体/推拉生色团 [[../concepts/push-pull-chromophore|推拉生色团]]
+  - *ICT / TICT* 分子内电荷转移 / 扭转分子内电荷转移 [[../concepts/twisted-intramolecular-charge-transfer|扭转分子内电荷转移]]
   - *exciplex (E band)* 激基复合物（E 带）
   - *localized excited state (LE, B band / ¹Lb)* 局域激发态
   - *HBD vs NHD (aprotic)* 氢键给体溶剂 vs 非氢键给体（非质子）溶剂
   - *ratiometric fluorescence sensing* 比率型荧光传感（Ia/Ib 强度比）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. P1 发射峰随溶剂极性从环己烷 445 nm（摘要值；Table 1 为 451 nm）红移到 DMSO 641 nm（Table 1 为 603 nm；正文同时给出两组数字，摘要覆盖至 641 nm），位移约 196 nm，是文献中最宽的二苯乙烯溶剂化变色范围之一；吸收峰始终位于 401-419 nm，几乎不变，证明基态极性小、激发态极性大（ICT 特征）。
+  1. P1 发射峰随溶剂极性从环己烷 445 nm（摘要值；Table 1 为 451 nm）红移到 DMSO 641 nm（Table 1 为 603 nm；正文同时给出两组数字，摘要覆盖至 641 nm），位移约 196 nm，是文献中最宽的[[../entities/stilbene|二苯乙烯]][[../concepts/solvatochromism|溶剂化变色]]范围之一；吸收峰始终位于 401-419 nm，几乎不变，证明基态极性小、激发态极性大（ICT 特征）。
   2. 荧光量子产率 Φ 从环己烷 0.805 降至 DMSO 0.066（降幅超一个数量级），归因于强极性溶剂中非辐射 TICT 通道被激活。
   3. TPA 截面 δmax 在环己烷高达 6670 GM，在 DMF 降至 1450 GM（正文另给"非极性 5560 GM / DMF 130 GM"的极值说法，两组数据并存），激发窗口位于 800-840 nm，正好处于生物成像光学窗口 700-1000 nm。
   4. 分子设计关键：在二苯乙烯同一芳环的邻位与间位同时引入两个氰基——既作为强吸电子基稳定电荷分离的 ICT 态、降低跃迁能、增大激发态偶极矩，又直接扩展 π 共轭体系，从而同时提升 δ 和 Φ；P1 用二甲氨基（强给体），P2 用二苯氨基（弱给体、空间位阻大），P2 变色范围约 156 nm、δ 整体偏低。
   5. 质子性溶剂（HBD，如醇类）通过氢键稳定基态给体（二甲氨基），使基态能量下降，相对非质子极性溶剂产生蓝移；发射波数（cm⁻¹）与 ET(30)、Z、δΔG≠、π*、Δf 线性拟合 r² 分别为 0.90、0.90、0.90、0.85、0.82（P2 与 π* 的 r² 达 0.96），证明响应主要由偶极性/极化率驱动。
-  6. 首次在双光子激发下观察到三重荧光：B 带（~410 nm，LE/¹Lb）、A 带（~485 nm，TICT/¹La）、E 带（~542 nm，分子间 Exciplex）。E 带在单光子发射中几乎不可见（强度低、寿命短，且单/双光子选择定则不同），在纯甘油中因高粘度阻碍分子间碰撞而消失。
+  6. 首次在[[../concepts/two-photon-excitation|[[../concepts/biphoton|双光子]]激发]]下观察到[[../concepts/triple-fluorescence|三重荧光]]：B 带（~410 nm，LE/¹Lb）、A 带（~485 nm，TICT/¹La）、E 带（~542 nm，分子间 Exciplex）。E 带在单光子发射中几乎不可见（强度低、寿命短，且单/双光子选择定则不同），在纯甘油中因高粘度阻碍分子间碰撞而消失。
   7. 粘度响应：B 带强度随甘油比例（粘度）单调增强（高粘度抑制 LE 的非辐射扭转）；TPE 中 A 带强度先快速下降后回升，呈非单调行为；低浓度（10⁻⁶ M）下 Ia/Ib 随粘度增加而减小，高浓度（3×10⁻⁶ M）下反而增大，说明浓度必须严格控制。
-  8. 温度响应（甘油中）：A 带随升温红移（粘度下降、溶剂弛豫更充分、达到更低能量的溶剂化平衡态），B 带相对强度下降（升温有利于 LE→TICT 转化）；这使 P1 同时是一种热致变色探针。
+  8. 温度响应（甘油中）：A 带随升温红移（粘度下降、[[../concepts/solvent-relaxation|溶剂弛豫]]更充分、达到更低能量的溶剂化平衡态），B 带相对强度下降（升温有利于 LE→TICT 转化）；这使 P1 同时是一种热致变色探针。
   9. 合成路线：2,5-二甲基对苯二甲腈（4）经 NBS/BPO 苄位溴代得（5），再与 P(OEt)₃ 反应生成膦酸酯（6），最后与 4-二甲氨基苯甲醛（或 4-二苯氨基苯甲醛）在 NaH/THF 下经 Wittig-Horner 缩合得 P1（黄色粉末，产率 65%，mp 256-257 °C，C₁₉H₁₇N₃）/P2（绿色晶体，62%，mp 213-214 °C，C₂₉H₂₁N₃）。
-  10. TPEF 截面测量细节：锁模 Ti:蓝宝石激光 ~80 fs/80 MHz；荧光素（10⁻⁴ M in 0.1 M NaOH）为参比；逐点验证荧光强度对激发强度的二次方依赖以排除饱和/光降解；溶液浓度 10⁻⁵ M、室温、空气平衡；绝对截面实验不确定度 ±20%。量子产率以 0.05 M H₂SO₄ 中硫酸奎宁（Φ=0.546）为参比，误差 ±10%。
+  10. TPEF 截面测量细节：锁模 Ti:蓝宝石激光 ~80 fs/80 MHz；[[../entities/fluorescein|荧光素]]（10⁻⁴ M in 0.1 M NaOH）为参比；逐点验证荧光强度对激发强度的二次方依赖以排除饱和/光降解；溶液浓度 10⁻⁵ M、室温、空气平衡；绝对截面实验不确定度 ±20%。量子产率以 0.05 M H₂SO₄ 中[[../entities/quinine-bisulfate|硫酸奎宁]]（Φ=0.546）为参比，误差 ±10%。
   11. 批判性提示（笔记中 AI 解读指出）：三重荧光的归属主要依赖粘度/温度/浓度响应，缺乏飞秒瞬态吸收等直接动力学证据；Ia/Ib 的浓度依赖性会严重影响细胞内定量；δ 在极性溶剂中骤降可能削弱其在水相生物环境中的双光子亮度优势；论文未量化"小分子尺寸"的实际优势，也未做活细胞验证，P1 为强疏水分子，需水溶性/靶向/近红外化改造后才能用于活体成像。

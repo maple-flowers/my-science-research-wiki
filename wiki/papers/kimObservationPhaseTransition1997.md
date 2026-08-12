@@ -87,15 +87,19 @@ Ju-Jin Kim, Chan Park, W. Yamaguchi, O. Shiino, K. Kitazawa, T. Hasegawa，1997�
   - 相关论文 [[../../raw/note/kimObservationPhaseTransition1997]]
 
 ## 📊 关键图表
-  - ![图1(a) -10 V/0.5 ms 脉冲后大范围 STM 形貌，可见中心移除坑及周围 T 相(√13×√13 CDW) 与新生 H 相(平坦三角晶格) 共存，357×357 Å](../../raw/figures/kimObservationPhaseTransition1997/fig_1_8G3QCPIX.png)
-  - ![图2 相界高分辨原子像：(a) -250 mV 同时显示 T 相 CDW 超晶格相对原子晶格旋转约 14°，(b) -10 mV 显示跨相界原子行平行但存在分数倍错位，77×77 Å](../../raw/figures/kimObservationPhaseTransition1997/fig_2_2J5B6DA5.png)
+  - ![图1(a) -10 V/0.5 ms 脉冲后大范围 STM 形貌，可见中心移除坑及周围 T 相(√13×√13 CDW) 与新生 H 相(平坦三角晶格) 共存，357×357 Å](../../raw/figures/kimObservationPhaseTransition1997/fig_1_8G3QCPIX.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图2 相界高分辨原子像：(a) -250 mV 同时显示 T 相 CDW 超晶格相对原子晶格旋转约 14°，(b) -10 mV 显示跨相界原子行平行但存在分数倍错位，77×77 Å](../../raw/figures/kimObservationPhaseTransition1997/fig_2_2J5B6DA5.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
   - ![图3 T-H 相界原子模型：(a) 沿 [112̄0] 截面，表层 S 原子层共格滑移；(b) 俯视 S 原子构型，滑移 (√3/3)a₀ 致界面 (√3/6)a₀≈1 Å 错位](../../raw/figures/kimObservationPhaseTransition1997/fig_3_4YVA892K.png)
-  - ![图4 另一处高压脉冲后典型 STM 像，多个 H 相区域的相界均沿晶体方向呈 60° 特征角，102×102 Å](../../raw/figures/kimObservationPhaseTransition1997/fig_4_UBIPM8AI.png)
+  - ![图4 另一处高压脉冲后典型 STM 像，多个 H 相区域的相界均沿晶体方向呈 60° 特征角，102×102 Å](../../raw/figures/kimObservationPhaseTransition1997/fig_4_UBIPM8AI.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
 
 ## 🔬 项目连接
   - **project-7（CDW，strong）**：本文是 TMD CDW 体系 STM 研究的经典实验文献。核心观测对象即 1T-TaS₂ 室温近公度相（NCCDW）的 √13×√13 超结构（周期 ~13 Å，畴周期 80–85 Å）；CDW 在三角形相界角部发生 13°–15° 旋转并形成 CDW 孪晶、被界面钉扎，是理解 CDW 弹性、公度性-非公度性、畴与缺陷相互作用的直接实验素材。新生 H 相上观测到的微弱 √13×√13 CDW 信号被归因于下方第二层 T 相的"透视"信号，可作为 STM 深度敏感性/层间耦合的参考案例。
   - **project-5（SnTe 铁电模拟，weak）**：方法/物理类比层面有参考价值。本文提出的"表面原子层沿特定晶向整体相干滑移、在相界处产生分数倍错位、相界沿高对称方向（60°）择优形成"的图像，与层状/低维材料中滑动铁电性、铁弹/铁电畴壁的原子级结构、拓扑相界的形成能与取向有形式上的类比；其"最小能量路径沿 [112̄0]"的滑移势垒图像也可启发对 SnTe 中位移型相变路径、畴壁能各向异性的思考。但本文不涉及铁电物理，故仅 weak。
   - **project-1/2/3/4/6**：无直接项目连接（不涉及双光子、Mn 多铁、机械发光 NN、TTF 分子计算或湿度传感）。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 
 ## 📝 组织与用词
   文章按"现象观察 → 结构表征 → 机制解释"的快速通讯逻辑展开：先给出大范围形貌证明 H 相生成（图1），再用多偏压高分辨像在原子尺度证明两相晶格连续而 S 原子行存在分数倍错位（图2），随后提出并定量验证 S 层共格滑移模型（图3），最后以 60° 特征相界（图4）和"H 相上弱 CDW 来自下层"作为旁证。关键术语：
@@ -109,7 +113,7 @@ Ju-Jin Kim, Chan Park, W. Yamaguchi, O. Shiino, K. Kitazawa, T. Hasegawa，1997�
   - CDW twin — CDW 孪晶
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 1T-TaS₂ 在室温处于 NCCDW 相，表面形成周期 ~13 Å 的 √13×√13 CDW 超结构，畴周期 80–85 Å；该 CDW 超晶格相对底层原子晶格（a₀≈3.3 Å）旋转约 14°。
+  1. 1T-TaS₂ 在室温处于 NCCDW 相，表面形成周期 ~13 Å 的 √13×√13 CDW 超结构，畴周期 80–85 Å；该 CDW [[../concepts/superlattice|超晶格]]相对底层原子晶格（a₀≈3.3 Å）旋转约 14°。
   2. STM 针尖电压脉冲（−8 至 −9 V 阈值，典型 −10 V × 0.5–1 ms）可在室温、UHV（~1×10⁻¹⁰ Torr）恒流模式下，在 1T-TaS₂ 表面诱导出直径 100–500 Å 的 H 相（2H-TaS₂）区域，跨界无台阶，截面分析确认高度连续。
   3. T→H 相变机制为表层 S 原子层沿 [112̄0] 方向集体相干滑移 (√3/3)a₀（~1.9 Å），将 Ta 由八面体配位转为三棱柱配位；最小能量路径沿该方向。
   4. 模型预测并经图2(b)证实：T/H 相界处 S 原子行存在 (√3/6)a₀≈1 Å 的分数倍错位，两行沿相界平行但位移非晶格常数整数倍，充当"缓冲行"。

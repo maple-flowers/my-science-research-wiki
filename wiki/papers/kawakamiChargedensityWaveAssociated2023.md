@@ -92,28 +92,31 @@ Kawakami, Sugawara, Oka, Nakayama, Yaegashi, Souma, Takahashi, Fukumura, Sato et
   - ![图1 MBE+拓扑反应制备单层VS₂及RHEED/芯能级/STM表征](../../raw/figures/kawakamiChargedensityWaveAssociated2023/fig_1_6T5AGUJF.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
   - ![图2 单层VTe₂与VS₂的ARPES能带对比及DFT计算](../../raw/figures/kawakamiChargedensityWaveAssociated2023/fig_2_6CWHPRW4.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
   - ![图3 VS₂费米面上各向异性CDW能隙的ARPES证据](../../raw/figures/kawakamiChargedensityWaveAssociated2023/fig_3_NBFRXLHF.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
-  - ![图4 STM条纹CDW超结构与CDW相能带计算-实验对比](../../raw/figures/kawakamiChargedensityWaveAssociated2023/fig_4_Q95L96M2.png)
-  - ![图5 常规q与高阶2q费米面嵌套协同覆盖整个电子口袋示意图](../../raw/figures/kawakamiChargedensityWaveAssociated2023/fig_5_24Y68D7B.png)
+  - ![图4 STM条纹CDW超结构与CDW相能带计算-实验对比](../../raw/figures/kawakamiChargedensityWaveAssociated2023/fig_4_Q95L96M2.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图5 常规q与高阶2q费米面嵌套协同覆盖整个电子口袋示意图](../../raw/figures/kawakamiChargedensityWaveAssociated2023/fig_5_24Y68D7B.png) -> [[../figures/electronic-bands|电子能带与电子态]]
 ## 🔬 项目连接
   - **project-7（CDW）— core**：本文是CDW机制研究的核心机理论文。直接提供"高阶费米面嵌套"这一新概念，给出 q+2q 协同打开全费米面能隙的完整实验-理论证据链（ARPES能隙各向异性、STM超结构周期、电子极化率 χ(q) 增强、声子虚频），并比较了 VS₂（M点椭球电子口袋，2q嵌套有效）与 VTe₂（K点三角空穴口袋，2q嵌套无效）的费米面拓扑差异。这些内容可直接充实 project-7 中关于费米面嵌套理论适用边界、CDW能隙各向异性起源、以及VX₂家族CDW周期多样性的论述。
+## 🔗 项目双链
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
 论文遵循"问题提出—样品制备突破—电子结构表征—实空间CDW确认—传统机制失效—新机制提出与计算验证—材料间对比"的论证链。先以ARPES/STM并置建立实空间-动量空间对应，再用图5的可视化嵌套分析把 q 与 2q 的分工讲清楚，最后用自由能差（18 meV vs 4 meV）和费米面拓扑差异解释为何 VS₂ 选择 √21×√3 CDW 而 VTe₂ 选择 4×4 CDW。值得复用的术语：
   - [[../concepts/fermi-surface-nesting|Fermi-surface nesting / 费米面嵌套]]
   - Higher-order nesting vector / 高阶嵌套矢量（2q）
   - [[../concepts/charge-density-wave|Stripe charge-density wave / 条纹状电荷密度波]]
   - [[../concepts/electronic-susceptibility|Electronic susceptibility χ]](q) / 电子极化率
-  - [[../concepts/phonon-soft-mode|Phonon soft mode]] (imaginary frequency) / 声子软模（虚频）
+  - [[../concepts/soft-mode|Phonon soft mode]] (imaginary frequency) / 声子软模（虚频）
   - [[../concepts/pseudogap|Pseudogap / 赝能隙]]
   - [[../concepts/topotactic-reaction|Topotactic reaction / 拓扑化学反应]]
   - [[../concepts/mass-renormalization|Mass renormalization / 质量重整化]]
 ## ✏️ 可写入 Wiki 的要点
   1. 单层1T-VS₂中存在周期为 √21 R10.9° × √3 R30° 的条纹状CDW，不同于块体 3√3×3√3 R30°，也不同于单层 VSe₂/VTe₂ 的 4×4、4×1、√7×√3 等周期。
-  2. ARPES观测到CDW在整个费米面（M点椭球电子口袋）上打开各向异性能隙：沿MM截线约0.35 eV（计算260 meV），靠近Γ点约0.1 eV（计算110 meV），且能隙在室温仍存在。
-  3. EDCs在EF处保留残余谱重，表现为赝能隙行为，类比欠掺杂高温铜氧化物，推测源于CDW涨落与电子-电子散射等多体相互作用。
+  2. ARPES观测到CDW在整个[[../concepts/fermi-surfaces|费米面]]（M点椭球电子口袋）上打开[[../concepts/migdal-eliashberg-theory|各向异性]]能隙：沿MM截线约0.35 eV（计算260 meV），靠近Γ点约0.1 eV（计算110 meV），且能隙在室温仍存在。
+  3. EDCs在EF处保留残余谱重，表现为[[../concepts/pseudogap|赝能隙]]行为，类比欠掺杂高温铜氧化物，推测源于CDW涨落与电子-电子散射等多体相互作用。
   4. 常规单一嵌套矢量 q=g₁ 只能嵌套 M₁ 附近的平行段，无法覆盖 M₂、M₃ 及 Γ 点附近的弯曲段；q=g₂ 仅产生离散交叉点，均不能解释全能隙。
   5. 高阶嵌套矢量 q'=2g₁ 有效连接 M₂、M₃ 口袋弯曲段，与 q=g₁ 协同后几乎覆盖整个椭球口袋，从而打开全能隙。
-  6. DFT计算在 2g₁ 波矢处同时发现电子极化率 χ(q) 局部增强和声学声子虚频，分别给出电子驱动与晶格不稳定性证据。
+  6. DFT计算在 2g₁ 波矢处同时发现[[../concepts/electronic-susceptibility|电子极化率]] χ(q) 局部增强和声学声子虚频，分别给出电子驱动与晶格不稳定性证据。
   7. √21×√3 CDW相每个原胞自由能比1T相低18 meV，而4×4相仅低4 meV，解释了实验观察到的相选择。
   8. VS₂（M点长条形电子口袋）与 VTe₂（K点三角形空穴口袋）费米面拓扑差异决定了2q嵌套是否有效，统一解释了两材料CDW行为差异：VTe₂三角形口袋拐角因嵌套不足保持无能隙。
-  9. 制备方法创新：先MBE生长单层VTe₂，再在硫气氛中经拓扑化学反应将Te完全置换为S（RHEED峰外移、Te 4d峰消失、S 2p峰出现、0.9 nm单层台阶证实），克服了硫高蒸气压导致直接生长困难。
-  10. 实验V 3d带宽0.5 eV窄于DFT的0.75 eV，归因于V 3d电子关联导致的质量重整化；Γ点S 3p能级位置与计算吻合，表明石墨烯衬底电荷转移可忽略、界面为弱范德华耦合。
+  9. 制备方法创新：先MBE生长单层VTe₂，再在硫气氛中经[[../concepts/topochemical-reaction|拓扑化学]]反应将Te完全置换为S（RHEED峰外移、Te 4d峰消失、S 2p峰出现、0.9 nm单层台阶证实），克服了硫高蒸气压导致直接生长困难。
+  10. 实验V 3d带宽0.5 eV窄于DFT的0.75 eV，归因于V 3d[[../concepts/electron-correlation|电子关联]]导致的[[../concepts/mass-renormalization|质量重整化]]；Γ点S 3p能级位置与计算吻合，表明[[../entitys/graphene|石墨烯]]衬底[[../concepts/charge-transfer|电荷转移]]可忽略、界面为弱范德华耦合。

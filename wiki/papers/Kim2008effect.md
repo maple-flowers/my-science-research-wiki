@@ -107,6 +107,10 @@ Dae Ho Kim, Ho Nyung Lee, Michael D. Biegalski, Hans M. Christen，2008，Applie
   - **project-2（Mn 多铁）**：strong。BiFeO₃ 是室温单相多铁的范式材料，本文系统量化了外延应变-结构-铁电极化-反铁磁序之间的关系，为 Mn 基多铁薄膜的应变工程设计、孤对电子/位移型机制对比、以及磁电解耦调控提供直接的实验范式与物理图像。
   - **project-5（SnTe 铁电模拟）**：medium。本文的几何投影分析方法（将法线方向测量值投影回本征极化方向）、c/a 比与极化方向旋转的定量关系、以及孤对电子驱动 vs 位移型铁电对应变响应差异的讨论，对铁电薄膜应变效应的第一性原理计算与结果解释有方法学参考价值。
   - 其余项目（project-1 双光子、project-3 机械发光 NN、project-4 TTF 分子计算、project-6 湿度传感器、project-7 CDW）无直接项目连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+
 ## 📝 组织与用词
 文章按"动机（BaTiO₃ 应变敏感 vs BiFeO₃ 机制未知）→ 实验设计（厚度梯度构建应变谱）→ 结构表征（HRXRD/RSM 证实四方→菱形演化）→ 磁性确认（SQUID 排除铁磁杂质）→ 铁电测量（低温 P-E 回线）→ 几何投影解释（本征 P 仅变 1.6%）→ 机制升华（孤对电子 vs 位移型）"的链条组织，以厚度为单一变量干净地分离应变效应。值得复用的术语：
   - [[../concepts/epitaxial-strain|epitaxial strain]]（外延应变）
@@ -124,9 +128,9 @@ Dae Ho Kim, Ho Nyung Lee, Michael D. Biegalski, Hans M. Christen，2008，Applie
   2. 完全应变膜面内晶格被压缩至 3.905 Å（块体 3.962 Å），面外伸长至 c=4.068 Å，压应变约 1.5%。
   3. 临界厚度约 90 nm，大于相似失配下 PZT/SrTiO₃ 的 40 nm，作者归因于 BiFeO₃ 允许倾斜相变的结构自由度。
   4. 完全应变膜 Pr=69.2±1 μC/cm²，弛豫膜（960 nm）Pr=66.0±1 μC/cm²；投影至伪立方 [111] 后 P[111] 分别为 116.9 和 115.0 μC/cm²，应变导致的本征极化增量仅 1.6%。
-  5. 测得 Pr 的 4.8% 变化几乎全部源于 c/a 比减小和角畸变增大引起的极化矢量向 [001] 方向轻微旋转（几何投影效应），而非极化大小变化。
-  6. 矫顽场 Ec ∝ d^(−0.61±0.08)，符合 Kay-Dunn 标度律（n=−2/3），且在 77–960 nm 全厚度范围内不受四方→菱形结构相变影响。
+  5. 测得 Pr 的 4.8% 变化几乎全部源于 c/a 比减小和角畸变增大引起的极化矢量向 [001] 方向轻微旋转（[[../concepts/geometric-projection|几何投影效应]]），而非极化大小变化。
+  6. [[../concepts/coercive-field|矫顽场]] Ec ∝ d^(−0.61±0.08)，符合 [[../concepts/kay-dunn-scaling|Kay-Dunn 标度律]]（n=−2/3），且在 77–960 nm 全厚度范围内不受四方→菱形[[../concepts/structural-phase-transition|结构相变]]影响。
   7. SQUID 室温磁化曲线扣除 SrTiO₃ 抗磁背景后，BiFeO₃ 薄膜磁化极小且无特征，确认反铁磁序，排除 Bi 挥发导致的 γ-Fe₂O₃ 等铁磁杂质。
   8. 铁电回线在 77.3 K、2 kHz 下测量（室温因漏电无法测量），方形饱和回线，Pr 对频率弱依赖且随最大电场饱和，证实数据为本征极化。
   9. 实验 Pr 对应变的依赖性弱于第一性原理计算预测（应变膜 63.4 vs 弛豫膜 57.0 μC/cm²），作者认为缺陷、对称性变化等计算未计入因素进一步弱化了应变效应。
-  10. 机制对比：BaTiO₃ 的 Ti 3d–O 2p 位移型铁电对应变强耦合；BiFeO₃ 的 Bi 6s² 孤对电子驱动铁电性由局域化学键合决定，对全晶格尺度应变不敏感，这是其高极化鲁棒性的根源。
+  10. 机制对比：BaTiO₃ 的 Ti 3d–O 2p 位移型铁电对应变[[../concepts/strong-coupling|强耦合]]；BiFeO₃ 的 Bi 6s² [[../concepts/lone-pair-ferroelectricity|[[../concepts/lone-pair-electrons|孤对电子]][[../concepts/driven-ferroelectricity|驱动[[../concepts/ferroelectricity|铁电性]]]]]]由局域化学键合决定，对全晶格尺度应变不敏感，这是其高极化鲁棒性的根源。

@@ -2,7 +2,19 @@
 
 > 收录二维多铁材料、铁电-铁磁共存、磁电耦合异质结（如 Tl₂NO₂/WTe₂）及范德华多铁候选体系的结构与物性图表，涵盖铁电极化翻转、层间滑移调控磁性、PFM/MFM 电写磁读等关键实验与计算结果。
 
-[[科研Wiki/wiki/figures/_index|← 返回总索引]]
+[[科研Wiki/wiki/figures/_index|← 返回总索引]] · [[heterostructures-stacking|← 返回异质结枢纽]]
+
+---
+
+> **📂 子页面导航**：本主题图表较多，进一步拆分为 3 个深层子页面，点击下表跳转：
+>
+> | 子页面 | 主题 | 条目数 |
+> |--------|------|--------|
+> | [[heterostructures-stacking-multiferroic-materials\|🧲 多铁材料]] | DFT 多铁化合物、滑移铁电控磁、实验二维多铁、拓扑磁结构 | 46 |
+> | [[heterostructures-stacking-multiferroic-mechanisms\|⚙️ 机制与理论]] | 磁电耦合公式、多铁机制分类、磁性序理论 | 22 |
+> | [[heterostructures-stacking-multiferroic-tables\|📋 参数汇总表]] | 多铁材料体系汇总、交换耦合与磁序参数表 | 14 |
+>
+> 以下为本页直接收录的核心共存与磁电耦合图表。
 
 ---
 

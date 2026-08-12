@@ -111,27 +111,36 @@ G. Kresse、J. Hafner，1993，*Physical Review B* 47(1), 558–561，DOI: 10.11
   - **project-3 机械发光NN**：无直接项目连接（力场训练数据可来自AIMD，但本文不涉及ML，仅在"经典预平衡+量子精修"思路上有间接前史意义，已在machine-learning-potential双链中体现）。
   - **project-6 湿度传感器**：无直接项目连接。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
 论文以"问题—方法—双重验证—结论"四段式组织：先指出CPMD在金属中的非绝热机制（频率共振+能级交叉），再给出精确基态AIMD的算法链（内层CG→子空间对角化→Fermi能/Kerker混合→外层收敛判据；离子侧Nosé热浴+四阶预测-校正+子空间对齐预测），然后以自由电子金属Na（易）和"坏金属"Ge（难）两个算例逐级验证能量守恒、原子结构与电子结构，最后讨论与经典MD的衔接和计算成本。论证特点是"先证明绝热性可控，再证明物理量与实验吻合"，每一步都给出量化收敛指标（meV/atom、fs、Ry、kbar）。
   - 值得复用的术语（中英对照）：
     - 从头算分子动力学 / *ab initio* molecular dynamics (AIMD)
-    - Car-Parrinello方法 / Car-Parrinello method（虚构电子动力学）
+    - Car-Parrinello方法 [[../concepts/car-parrinello-method|Car-Parrinello方法]] / Car-Parrinello method（虚构电子动力学）
     - 非绝热性 / nonadiabaticity（电子-离子能量转移）
-    - 共轭梯度极小化 / conjugate-gradient minimization
-    - 子空间对齐 / subspace alignment（波函数预测）
+    - 共轭梯度极小化 [[../concepts/conjugate-gradient-minimization|共轭梯度极小化]] / conjugate-gradient minimization
+    - 子空间对齐 [[../concepts/subspace-alignment|子空间对齐]] / subspace alignment（波函数预测）
     - Hellmann-Feynman力 / Hellmann-Feynman forces
     - Kerker电荷混合 / Kerker mixing scheme（抑制charge sloshing）
     - 对关联函数 / pair correlation function g(R)；键角分布 / bond-angle distribution g₃(θ,R_max)
-    - 赝能隙 / pseudogap（液态IV族元素DOS中E_F下约5 eV低谷）
+    - 赝能隙 [[../concepts/pseudogap|赝能隙]] / pseudogap（液态IV族元素DOS中E_F下约5 eV低谷）
 
 ## ✏️ 可写入 Wiki 的要点
   1. **精确基态AIMD路线**：每个MD步都用共轭梯度法把Kohn-Sham能量极小化到电子基态（收敛判据：每原子能量变化<1.5×10⁻⁵ eV），再计算Hellmann-Feynman力推动离子；完全不引入电子虚构动力学，从而在金属中彻底避免CPMD的非绝热失稳，绝热性"完全可控"。
   2. **CPMD在金属中失稳的两个机制**：(a) 金属零带隙使电子激发特征频率落入离子振动频率区，发生共振，能量由离子流向电子；(b) 费米能级附近占据态与空态能级交叉。绝缘体能用"带隙/虚构电子质量"实现频率分离，金属不能。
-  3. **双重迭代算法链**：内层对每个k点、每条能带做预条件CG优化（本征值变化<10⁻⁵ eV或首步变化的30%）；遍历所有带（含若干空带）后做子空间对角化，以Gaussian展宽计算分数占据与Fermi能（此时变分量是广义自由能而非内能，Weinert-Davenport/Wentzcovitch等人结论）；电荷密度用Kerker方案混合以阻尼低q分量振荡（charge sloshing）。
-  4. **波函数预测与时间步长**：离子移动后用Arias-Payne-Joannopoulos子空间对齐预测新波函数，初猜与基态能量差<3×10⁻⁵ eV/atom（Na）或<5×10⁻⁵ eV/atom（Ge）；离子用Nosé热浴+四阶预测-校正（Gear）积分，时间步长可达3 fs，与经典MD同量级。
+  3. **双重迭代算法链**：内层对每个k点、每条能带做预条件CG优化（本征值变化<10⁻⁵ eV或首步变化的30%）；遍历所有带（含若干空带）后做子空间对角化，以Gaussian展宽计算分数占据与Fermi能（此时变分量是广义自由能而非内能，Weinert-Davenport/Wentzcovitch等人结论）；[[../concepts/charge-density|电荷密度]]用Kerker方案混合以阻尼低q分量振荡（charge sloshing）。
+  4. **波函数预测与时间步长**：离子移动后用Arias-Payne-Joannopoulos[[../concepts/subspace-alignment|子空间对齐]]预测新波函数，初猜与基态能量差<3×10⁻⁵ eV/atom（Na）或<5×10⁻⁵ eV/atom（Ge）；离子用Nosé热浴+四阶预测-校正（Gear）积分，时间步长可达3 fs，与[[../concepts/molecular-dynamics|经典MD]]同量级。
   5. **赝势与基组参数**：Vanderbilt超软赝势的Kleinman-Bylander因子化+King-Smith-Payne-Lin实空间投影；Na用r_c=2.0 a.u.、截断6 Ry、Γ点、54原子；Ge用r_c=1.5 a.u.（s/d非局域）、截断12 Ry（约7000平面波）、32×32×32网格、64原子、138带（10个空带）、Gaussian展宽0.2 eV。固态Ge金刚石晶格常数偏差1.3%，α→β-Sn相变压力计算75 kbar（实验100 kbar）。
-  6. **液态Na（T=400 K, n=0.02436 Å⁻³）结果**：2.5 ps内总能量漂移<1–2 meV/atom；g(R)与Waseda实验吻合；配位数N_c=13（积分至第一极小）或N_c=10（对称积分第一峰），对应致密无规球堆积；扩散系数D≈6×10⁻⁵ cm²/s（实验5.3×10⁻⁵）；键角分布在63.5°和116.5°有峰，为二十面体短程有序。
-  7. **液态Ge（T=1250 K, n=0.04385 Å⁻³）结果**：2.7 ps（900步）内总能量变化4 meV（<内聚能0.1%，对应~50 K温度波动）；配位数N_c=6.2（实验6.8，正常金属为10–12）；短键(<2.80 Å)键角集中于四面体角109°，长键兼具109°与60°，与Na的二十面体序截然不同，反映sp³共价键合残留。
-  8. **液态Ge赝能隙的物理**：电子DOS在E_F以下约5 eV处有深赝能隙，与光电子谱（Indlekofer等1988，实验分辨率~0.2 eV）一致；该赝能隙与任何晶相DOS都不同，是熔化后短程序深刻改变、sp³杂化破坏的结果；为重液态IV族元素（Ge、Sn、Pb）的特征，液态Si不明显（更接近自由电子）；成因是相对论效应导致s-p劈裂增大，Ge中4s电子部分穿入3d芯态进一步增强电子-离子相互作用。
+  6. **液态Na（T=400 K, n=0.02436 Å⁻³）结果**：2.5 ps内总能量漂移<1–2 meV/atom；g(R)与Waseda实验吻合；配位数N_c=13（积分至第一极小）或N_c=10（对称积分第一峰），对应致密无规球堆积；扩散系数D≈6×10⁻⁵ cm²/s（实验5.3×10⁻⁵）；键角分布在63.5°和116.5°有峰，为[[../concepts/icosahedral-packing|二十面体]]短程有序。
+  7. **液态Ge（T=1250 K, n=0.04385 Å⁻³）结果**：2.7 ps（900步）内总能量变化4 meV（<[[../concepts/cohesive-energy|内聚能]]0.1%，对应~50 K温度波动）；配位数N_c=6.2（实验6.8，正常金属为10–12）；短键(<2.80 Å)键角集中于四面体角109°，长键兼具109°与60°，与Na的二十面体序截然不同，反映sp³共价键合残留。
+  8. **液态Ge[[../concepts/pseudogap|赝能隙]]的物理**：电子DOS在E_F以下约5 eV处有深赝能隙，与光电子谱（Indlekofer等1988，实验分辨率~0.2 eV）一致；该赝能隙与任何晶相DOS都不同，是熔化后短程序深刻改变、sp³杂化破坏的结果；为重液态IV族元素（Ge、Sn、Pb）的特征，液态Si不明显（更接近自由电子）；成因是相对论效应导致s-p劈裂增大，Ge中4s电子部分穿入3d芯态进一步增强电子-离子相互作用。
   9. **经典MD/AIMD分层策略**：基于赝势微扰论的经典对势可较好再现g(R)，但在三重态关联和局域原子组态涨落层面有差异，低温接近液态金属-非晶半导体转变时这些差异变重要；因此可用经典MD趋近平衡，再切换到耗时的Hellmann-Feynman AIMD做精确采样——这是后续MLIP/分层模拟思想的早期表述。
-  10. **计算成本与历史地位**：Na 2.5 ps <12 CPU小时，Ge 2.7 ps 110 CPU小时（Fujitsu VP 50）；本文算法（共轭梯度极小化、子空间对齐、Kerker混合、精确H-F力）成为Kresse后续开发的VASP的核心，是现代Born-Oppenheimer AIMD在金属/凝聚态体系广泛应用的方法学起点。
+  10. **计算成本与历史地位**：Na 2.5 ps <12 CPU小时，Ge 2.7 ps 110 CPU小时（Fujitsu VP 50）；本文算法（[[../concepts/conjugate-gradient-minimization|共轭梯度极小化]]、子空间对齐、Kerker混合、精确H-F力）成为Kresse后续开发的VASP的核心，是现代Born-Oppenheimer AIMD在金属/凝聚态体系广泛应用的方法学起点。

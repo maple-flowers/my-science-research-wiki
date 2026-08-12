@@ -127,7 +127,7 @@ Haoqiang Ai, Feifei Li, Haoyun Bai, Dong Liu, Kin Ho Lo, Shengyuan A. Yang, Yosh
   - ![图2 FE-WZ′ Tl₂NO₂自旋极化能带/PDOS、自旋电荷密度、角度依赖MAE、蒙特卡洛磁矩-比热-温度曲线(Tc≈415 K)](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/fig_2_L8RANRZE.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - ![图3 静电势差、电荷密度差、Tl₂NO₂极化反转路径(势垒0.65 eV)及In₂NO₂应变诱导双势阱](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/fig_3_T6UG5N7Z.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - ![图4 Tl₂NO₂/WTe₂异质结中极化方向调控自旋分辨电荷转移与能带杂化（磁电效应）](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/fig_4_CBUZJBZC.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
-  - ![表1 各体系电偶极矩、二维/三维极化、真空能级差与反转势垒汇总](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/tab_1_F77ML8K3.png)
+  - ![表1 各体系电偶极矩、二维/三维极化、真空能级差与反转势垒汇总](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/tab_1_F77ML8K3.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 
 ## 🔬 项目连接
   - **project-2 Mn多铁**：高度相关。本文核心是"同一离子（N）同时提供铁电极化与磁矩"这一多铁设计新范式，可直接启发Mn基多铁中"d电子磁性 + 另一亚晶格铁电"或"p轨道辅助磁性"的机理思考；d⁰规则的物理根源、I型/II型多铁分类、孤对电子铁电（BiFeO₃）与几何铁电（YMnO₃）的对比，为Mn多铁项目提供机理参照；Stoner判据分析磁基态、CI-NEB计算极化反转势垒、海森堡模型+蒙特卡洛估算Tc的完整计算流程可直接复用到Mn体系；应变诱导铁电（In₂NO₂ >1%拉伸）的思路可类比迁移到Mn基薄膜的应变工程。
@@ -135,6 +135,15 @@ Haoqiang Ai, Feifei Li, Haoyun Bai, Dong Liu, Kin Ho Lo, Shengyuan A. Yang, Yosh
   - **project-7 CDW**：间接相关。本文使用的声子谱虚频→软模→结构相变分析方法（fcc Tl₂NO₂在Γ点虚频驱动对称性破缺）与CDW中声子软化/电荷密度波相变的分析手段一致；费米能级附近平带、高态密度峰（N-2p）驱动电子失稳的图像与CDW的费米面嵌套机制有方法论上的可类比性。
   - **project-4 TTF分子计算**：方法学参考价值。VASP+PBE/HSE06计算流程、形成能定义、声子谱/AIMD稳定性验证、自旋极化与SOC处理等DFT工作流可作为分子/低维体系计算的规范参照。
   - **project-1 双光子 / project-3 机械发光NN / project-6 湿度传感器**：无直接项目连接。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
   - 文章按"提出d⁰规则瓶颈 → 设计p轨道策略 → 筛选53种结构确定稳定相 → 分别验证磁性（Stoner机制）和铁电性（N偏心位移）→ 异质结演示磁电耦合"的因果链组织，逻辑是典型的"机理假设—计算验证—功能演示"范式。
@@ -150,12 +159,12 @@ Haoqiang Ai, Feifei Li, Haoyun Bai, Dong Liu, Kin Ho Lo, Shengyuan A. Yang, Yosh
 
 ## ✏️ 可写入 Wiki 的要点
   1. X₂NO₂（X = In, Tl）为O-X-N-X-O五层三角晶格结构，类MXene；fcc相中心对称（D3d），FE-ZB′/FE-WZ′相N原子偏心四面体配位（三长一短X-N键，C3v对称），N偏心位移是面外铁电的结构根源，与α-In₂Se₃类似。
-  2. FE-WZ′ Tl₂NO₂形成能 0.279 eV/atom（低于硅烯 0.744 eV/atom），声子谱无虚频、AIMD 300 K稳定、满足Born-Huang力学判据，是实验可合成的基态相；fcc Tl₂NO₂在Γ点有两个虚频光学模，自发破缺对称。
+  2. FE-WZ′ Tl₂NO₂[[../concepts/formation-energy|形成能]] 0.279 eV/atom（低于硅烯 0.744 eV/atom），声子谱无虚频、AIMD 300 K稳定、满足Born-Huang力学判据，是实验可合成的基态相；fcc Tl₂NO₂在Γ点有两个虚频光学模，自发破缺对称。
   3. Tl的d、f壳层全满，磁性完全来自N-2p_x/2p_y电子自旋极化：单胞净磁矩 1.06 μB，N局域磁矩 0.6 μB，顶表面O贡献 0.2 μB；FM比sAFM低 128.92 meV/N；自旋向下能带穿越EF，呈金属性（巡游铁磁）。
   4. Stoner机制：非磁态N-2p在Γ-M附近形成平带，D(EF)=5.03 states/eV/N，I≈0.97 eV，D(EF)·I≈4.9 > 1，满足Stoner判据；FM基态在SOC与6%双轴拉伸应变下仍稳健。
-  5. FE-WZ′ Tl₂NO₂易磁化面为xy平面（面内各向同性），MAE≈166 μeV/N，远大于经典磁性金属，与CrGeTe₃单层（220 μeV/f.u.）相当；基于海森堡模型的蒙特卡洛模拟给出Tc≈415 K（平均场近似332 K），高于室温。
+  5. FE-WZ′ Tl₂NO₂易磁化面为xy平面（面内各向同性），MAE≈166 μeV/N，远大于经典磁性金属，与CrGeTe₃单层（220 μeV/f.u.）相当；基于[[../concepts/heisenberg-model|海森堡模型]]的蒙特卡洛模拟给出Tc≈415 K（平均场近似332 K），高于室温。
   6. Tl₂NO₂面外自发极化：真空能级差ΔΦ=0.75 eV，电偶极矩 0.045 eÅ，P₂D=6.6 pC/m，P₃D=1.3 μC/cm²（取厚度5.2 Å），与α-In₂Se₃同数量级；CI-NEB反转势垒 0.65 eV/unit cell，经中心对称顺电相过渡。
-  7. In₂NO₂本征fcc相最稳定（非铁电），但双轴拉伸应变≥1%时FE-ZB′相出现双势阱，4%应变下势垒最大 0.14 eV、P≈2.79 μC/cm²，fcc相声子谱出现虚频，是应变工程诱导铁电金属的实例。
+  7. In₂NO₂本征fcc相最稳定（非铁电），但双轴拉伸应变≥1%时FE-ZB′相出现[[../concepts/double-well|双势阱]]，4%应变下势垒最大 0.14 eV、P≈2.79 μC/cm²，fcc相声子谱出现虚频，是[[../concepts/strain-engineering|应变工程]]诱导[[../concepts/ferroelectric-metal|铁电金属]]的实例。
   8. 二维极限下电子面外运动受限，对极化的屏蔽不充分，使金属性Tl₂NO₂的面外铁电可能被电场翻转，归为Anderson-Blount铁电金属（参照LiOsO₃、双层WTe₂）。
   9. Tl₂NO₂/2H-WTe₂异质结（晶格失配~1%，DFT-D3描述层间作用）：极化向上时WTe₂向Tl₂NO₂转移的自旋向下电子显著增多，K点附近两层自旋向下态杂化，总磁矩从 0.95 μB（极化向下）降至 0.90 μB（极化向上），演示了电场（控极化）调控磁性的界面磁电效应。
-  10. 计算方法：VASP + PAW + PBE（结构/基本性质）+ HSE06（精确能带），截断能 520 eV，k网格 16×16×1（PBE）/10×10×1（HSE06），真空层 >15 Å，偶极校正；声子谱用PHONOPY线性响应；AIMD 5×5超胞 300 K/1 fs；Tc用MCSOLVER海森堡蒙特卡洛；反转路径用CI-NEB。
+  10. 计算方法：VASP + PAW + PBE（结构/基本性质）+ HSE06（精确能带），截断能 520 eV，k网格 16×16×1（PBE）/10×10×1（HSE06），真空层 >15 Å，偶极校正；声子谱用PHONOPY[[../concepts/linear-response|线性响应]]；AIMD 5×5超胞 300 K/1 fs；Tc用MCSOLVER海森堡蒙特卡洛；反转路径用CI-NEB。

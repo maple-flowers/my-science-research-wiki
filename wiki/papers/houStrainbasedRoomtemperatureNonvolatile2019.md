@@ -93,17 +93,20 @@ Wenhui Hou, Ahmad Azizimanesh, Arfan Sewaket, Tara Peña, Carla Watson, Ming Liu
   - `schottky-junction`（概念）：金属-半导体接触形成的整流势垒；本文关态由Ni/相变MoTe2构成的两个背靠背肖特基二极管实现低漏电。
 
 ## 📊 关键图表
-  - ![图1 器件结构与基本操作：PMN-PT/MoTe2/Ni叠层示意、光学照片、Ni应变计蝴蝶曲线、13 nm MoTe2转移特性、半金属态与半导体态I-V对比（半导体态呈肖特基行为）](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_1_G4AIPMDF.png)
-  - ![图2 70 nm MoTe2器件在300→270→330→300 K温度循环下的对数尺度电导-电场演化，双极→单极（非易失）转变，最终G_on/G_off≈6.2×10^6](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_2_8BASCCDL.png)
-  - ![图3 CAFM实空间成像：低电导态下接触边缘的非导电（半导体相）区域，以及栅压脉冲序列下半导体相区的可逆写入/擦除](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_3_33VVCMHG.png)
-  - ![图4 接触金属效应与有限元模拟：PMN-PT(111)上Ni器件CAFM图与沟道应变FEA模拟吻合；Ag（−0.2 GPa，~4%调制）vs Ni（0.58 GPa，~10^9%调制）对比；静态拉应变偏置+铁电动态应变调制机理示意](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_4_4I4JUQYB.png)
+  - ![图1 器件结构与基本操作：PMN-PT/MoTe2/Ni叠层示意、光学照片、Ni应变计蝴蝶曲线、13 nm MoTe2转移特性、半金属态与半导体态I-V对比（半导体态呈肖特基行为）](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_1_G4AIPMDF.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![图2 70 nm MoTe2器件在300→270→330→300 K温度循环下的对数尺度电导-电场演化，双极→单极（非易失）转变，最终G_on/G_off≈6.2×10^6](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_2_8BASCCDL.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![图3 CAFM实空间成像：低电导态下接触边缘的非导电（半导体相）区域，以及栅压脉冲序列下半导体相区的可逆写入/擦除](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_3_33VVCMHG.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![图4 接触金属效应与有限元模拟：PMN-PT(111)上Ni器件CAFM图与沟道应变FEA模拟吻合；Ag（−0.2 GPa，~4%调制）vs Ni（0.58 GPa，~10^9%调制）对比；静态拉应变偏置+铁电动态应变调制机理示意](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_4_4I4JUQYB.png) -> [[../figures/electronic-devices|电子与突触器件]]
 
 ## 🔬 项目连接
 无直接项目连接。概念上与 project-5（SnTe铁电模拟）共享"铁电+二维材料"主题，但本文为实验性应变相变器件，研究对象（MoTe2 vs SnTe）和方法（器件输运/CAFM vs 模拟）均不同，不构成直接项目连接。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+
 ## 📝 组织与用词
 文章按"问题（FET纳米尺度漏电与玻尔兹曼暴政）→方案（应变替代电场的相变开关）→器件设计（静态接触应力偏置+铁电动态应变调制）→多维实验验证（宏观电学-应变计关联、I-V肖特基指纹、CAFM实空间成像、Ag/Ni/MgF2对照、变温、FEA模拟、拉曼）→性能与局限→展望"组织，证据链层层递进、正反对照严密。值得在wiki叙述中复用的关键词/术语：
-  - Strain engineering / 应变工程
+  - Strain engineering / 应变工程 [[../concepts/strain-engineering|应变工程]]
   - Straintronics / 应变电子学
   - Phase-change transistor / 相变晶体管
   - Non-volatile strain switching / 非易失应变开关
@@ -115,8 +118,8 @@ Wenhui Hou, Ahmad Azizimanesh, Arfan Sewaket, Tara Peña, Carla Watson, Ming Liu
   - Conductive atomic force microscopy (CAFM) / 导电原子力显微镜
 
 ## ✏️ 可写入 Wiki 的要点
-  1. **核心机制**：以电场诱导铁电体PMN-PT的逆压电应变作为控制量，驱动1T′-MoTe2在半金属相与半导体相之间可逆相变，完全绕过传统FET用电场耗尽载流子的机制，从而不受60 mV/dec亚阈值摆幅限制，从根本上消除静态功耗。
-  2. **器件架构**：PMN-PT(011)或(111)弛豫铁电单晶（0.25–0.3 mm厚，Au/Ti底电极）同时作为栅介质和应变源；机械剥离的1T′-MoTe2薄片（13–70 nm，低湿度<10% RH或手套箱中剥离以增强粘附）为沟道；35 nm电子束蒸发 Ni为源漏接触。制备温度严格控制在80 °C以下（远低于135 °C居里温度），避免铁电畴被淬火细化到纳米尺度。
+  1. **核心机制**：以电场诱导铁电体PMN-PT的逆压电应变作为控制量，驱动1T′-MoTe2在[[../concepts/half-metal|半金属]]相与半导体相之间可逆相变，完全绕过传统FET用电场耗尽载流子的机制，从而不受60 mV/dec亚阈值摆幅限制，从根本上消除静态功耗。
+  2. **器件架构**：PMN-PT(011)或(111)弛豫铁电单晶（0.25–0.3 mm厚，Au/Ti底电极）同时作为栅介质和应变源；机械剥离的1T′-MoTe2薄片（13–70 nm，低湿度<10% RH或手套箱中剥离以增强粘附）为沟道；35 nm电子束蒸发 Ni为源漏接触。制备温度严格控制在80 °C以下（远低于135 °C[[../concepts/curie-temperature|居里温度]]），避免[[../concepts/ferroelectric-domain|铁电畴]]被淬火细化到纳米尺度。
   3. **"静态偏置+动态调制"设计范式**：Ni接触沉积时在接触处施加0.58 GPa面内拉应力（对应~0.4%应变），将MoTe2预置在接近相界的"工作点"；PMN-PT施加~0.4%峰峰值的可逆电场可控应变作为"小信号"。由CAFM测得半导体区延伸长度结合FEA（MoTe2杨氏模量/泊松比取文献值）提取出相变应变量化阈值约0.33%。
   4. **性能数据**：13 nm器件首次观察到与应变蝴蝶曲线完全同步的室温可逆开关（>1个数量级）；70 nm（~100层）器件经温度循环训练后在300 K实现 G_on/G_off ≈ 6.2×10^6（摘要称~10^7），远优于任何接触方案、任何厚度的2H-MoTe2 FET（70 nm厚沟道在传统FET中因电场屏蔽只能实现<1个数量级调制）。开态为完全金属性（欧姆I-V），关态为两个背靠背肖特基二极管（低偏压下低电流）。
   5. **非易失性来源**：初始应变随电场呈对称双极"蝴蝶"回线；经反复电场循环后，Ni薄膜应力使PMN-PT内弹性偶极子定向排列，产生内建电场偏置，应变曲线由双极演变为单极，零场下保留两个稳定应变状态，即非易失性。该不对称性与铁电晶体取向、应变计方向无关。部分器件需多次栅压扫描"训练"后才出现稳定开关（可能与循环中MoTe2/铁电体粘附增强有关）。
@@ -124,4 +127,4 @@ Wenhui Hou, Ahmad Azizimanesh, Arfan Sewaket, Tara Peña, Carla Watson, Ming Liu
   7. **对照实验确证拉应力必要性**：50 nm Ag接触（−0.2 GPa低压缩应力）13个器件在所有温度下仅~4%电导调制；Ni接触（0.58 GPa拉应力）达~10^9%调制；将Ag接触用高拉应力绝缘MgF2层封装后，大电导开关恢复，形成"应力源必需"的闭环验证。28个Ni器件中约8个低调制（(111)上1/3、(011)上1/4），归因于薄片落在单畴/多畴、畴极化方向、铁电应变相对接触方向、MoTe2晶向等不可控因素。以2H-MoTe2为起始材料加Ni接触未观察到相变。
   8. **温度依赖性**：270 K低温利于半导体相，330 K高温利于半金属相，与2H-MoTe2低温更稳定的既有结论一致；相界对应变高度敏感，温度循环可用于训练单极非易失行为。其他次要因素包括差异热收缩、薄膜应力随温度弛豫、PMN-PT压电系数温度依赖。
   9. **拉曼辨析新相**：通过透明双面抛光MgO衬底做背面拉曼（532 nm，2 mW）检测Ni接触下方相变材料，发现应变诱导半导体相并非标准2H-MoTe2，其额外拉曼峰与文献中应变或激光加热诱导的相变MoTe2特征相似，精确结构待定。
-  10. **局限与展望**：耐久仅40–70次（归因于范德华层间滑移导致应变无法完全传递，建议减薄至单层以消除该变量）；速度受限于0.25–0.3 mm块体单晶需150 V/10 ms脉冲，薄膜铁电体（如HfO2基）有望达到亚纳秒至皮秒、阿焦/比特；该"铁电+二维材料"平台可推广至电场调控磁性、拓扑、超导等量子相变。
+  10. **局限与展望**：耐久仅40–70次（归因于范德华层间滑移导致应变无法完全传递，建议减薄至单层以消除该变量）；速度受限于0.25–0.3 mm块体单晶需150 V/10 ms脉冲，薄膜铁电体（如HfO2基）有望达到亚纳秒至皮秒、阿焦/比特；该"铁电+[[../concepts/2D-materials|二维材料]]"平台可推广至电场调控磁性、拓扑、超导等量子相变。

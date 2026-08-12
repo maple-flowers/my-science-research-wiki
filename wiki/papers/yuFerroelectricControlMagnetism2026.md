@@ -117,31 +117,34 @@ Cuiju Yu, Liangliang Hong, Zhao Chen, Zhao Liu, Shizhe Jiao, Xiaofeng Liu*, Wei 
   - ![图1 插层破缺对称的概念示意与单层 Cr4S4FBr2 原子结构（Pmm2, a=3.51 Å, b=4.85 Å），标注极化轴和 J1–J4 交换路径](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_1_4AF7AZPM.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - ![图2 P↑/P↓ 自旋分辨能带与 DOS（S 点非相对论自旋劈裂 1.33 eV，EF+0.05 eV 处极化 +91%/−91%）、F 周围静电势、NEB 翻转路径（Ea=0.11 eV/f.u.）、FE–PE 相变（TC=334 K）、线性磁电响应 αS=7.1×10⁻¹⁴ G·cm²/V](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_2_5KVKTVLU.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - ![图3 含 SOC 能带（c 轴磁化在 X/Y 点开 3、11 meV 隙）、P↑/P↓ 贝里曲率（C=−2 与 +2）及第 93 带面外自旋纹理的完全反转](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_3_Q88I2C3V.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
-  - ![图4 CSFB/CrSBr/CSFB 多铁隧道结 PC/APC 构型、偏压依赖 I–V 与 MR（0.04 V 时 MR=4.8×10³%，IPC=13.8 nA、IAPC=0.27 nA）及自旋分辨透射谱](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_4_FXA8A5X6.png)
-  - ![表1 Cr4S4FBr2 家族（Cr4S4F3、Cr4S4Cl3/Br3、Cr4Se4Cl3/Br3）与 BL CrSBr、NiI2、In2Se3、BL 1T′-WTe2 等标杆材料的 J、TN/TC、MAE、D、Ea/EC、αS 与分类（A-FiMM / FMHM 等）汇总](../../raw/figures/yuFerroelectricControlMagnetism2026/tab_1_IX3ZWAJ8.png)
+  - ![图4 CSFB/CrSBr/CSFB 多铁隧道结 PC/APC 构型、偏压依赖 I–V 与 MR（0.04 V 时 MR=4.8×10³%，IPC=13.8 nA、IAPC=0.27 nA）及自旋分辨透射谱](../../raw/figures/yuFerroelectricControlMagnetism2026/fig_4_FXA8A5X6.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![表1 Cr4S4FBr2 家族（Cr4S4F3、Cr4S4Cl3/Br3、Cr4Se4Cl3/Br3）与 BL CrSBr、NiI2、In2Se3、BL 1T′-WTe2 等标杆材料的 J、TN/TC、MAE、D、Ea/EC、αS 与分类（A-FiMM / FMHM 等）汇总](../../raw/figures/yuFerroelectricControlMagnetism2026/tab_1_IX3ZWAJ8.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 
 ## 🔬 项目连接
 project-2 Mn多铁——主体材料虽为 Cr 基，但作者明确将插层策略推广到 MnNX 同构家族，预测 Mn₄N₄X₃（X=F, Cl, Br, I）为动力学稳定、铁磁、自发极化的半金属型 I 类多铁体，与 Mn 基多铁项目直接相关；其余项目（双光子、机械发光 NN、TTF 分子计算、SnTe 铁电模拟、湿度传感器、CDW）无直接连接。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
 全文按 “提出问题（I/II/III 型多铁的瓶颈）→ 设计策略（非金属离子插层诱导 Jahn–Teller 畸变）→ 材料验证（CSFB 的磁、电、拓扑物性）→ 器件演示（MFTJ 巨磁阻）→ 推广（Cr₄X₄Y₃ 与 Mn₄N₄X₃ 家族）” 五步推进，方法链为 DFT（PBE+U, U=1 eV；HSE06 校验）→ CI-NEB → 有效哈密顿量 + MD/蒙特卡洛 → NEGF 输运，形成原子尺度到器件尺度的多尺度闭环。值得在 wiki 叙述中复用的术语：
   - 插层诱导对称性破缺 / intercalation-induced symmetry breaking
   - A 型完全补偿亚铁磁金属 / A-type fully compensated ferrimagnetic metal (A-FiMM)
   - 自旋–铁电锁定 / spin–ferroelectricity locking
-  - 几何铁电性 / geometric ferroelectricity（姜–泰勒畸变 Jahn–Teller distortion）
+  - 几何铁电性 [[../concepts/geometric-ferroelectricity|几何铁电性]] / geometric ferroelectricity（姜–泰勒畸变 Jahn–Teller distortion）
   - 非相对论自旋劈裂 / nonrelativistic spin splitting
   - 能隙陈数 / gap Chern number
   - 线性磁电系数 / linear magnetoelectric coefficient αS（μ₀ΔM=αS·E）
-  - 多铁隧道结 / multiferroic tunneling junction (MFTJ)
+  - 多铁隧道结 [[../concepts/multiferroic-tunnel-junction|多铁隧道结]] / multiferroic tunneling junction (MFTJ)
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 设计范式：在 A 型反铁磁范德华材料的层间插入非金属卤素离子，利用其三角配位的上下不对称打破空间反演对称，同时保留层间 AFM 序，从而在单一物相中集成铁电性与磁性并实现本征强磁电耦合（III 型多铁思路）。
-  2. 目标材料单层 Cr₄S₄FBr₂ 由双层 CrSBr “融合” 而来——中心 F 配体替换两个 Br，分别与上层 1 个 Cr、下层 2 个 Cr 成键，形成 Pmm2 (C₂ᵥ) 对称（a=3.51 Å, b=4.85 Å, c=20 Å）；上下两个连接 F 的 Cr 分别处于八面体和三角双锥晶体场，导致局域磁矩不对称，构成 A 型完全补偿亚铁磁体，净磁矩仅 0.20 μB/cell。
+  1. 设计范式：在 A 型反铁磁范德华材料的层间插入非金属卤素离子，利用其三角配位的上下不对称打破空间反演对称，同时保留层间 AFM 序，从而在单一物相中集成[[../concepts/ferroelectricity|铁电性]]与磁性并实现本征强[[../concepts/magnetoelectric-coupling|磁电耦合]]（III 型多铁思路）。
+  2. 目标材料单层 Cr₄S₄FBr₂ 由双层 CrSBr “融合” 而来——中心 F 配体替换两个 Br，分别与上层 1 个 Cr、下层 2 个 Cr 成键，形成 Pmm2 (C₂ᵥ) 对称（a=3.51 Å, b=4.85 Å, c=20 Å）；上下两个连接 F 的 Cr 分别处于八面体和三角双锥晶体场，导致局域磁矩不对称，构成 A 型完[[../concepts/fully-compensated-ferrimagnet|全补偿亚铁磁体]]，净磁矩仅 0.20 μB/cell。
   3. 电子结构：金属性，S 点非相对论自旋劈裂达 1.33 eV，与 KV₂Se₂O（1.6 eV）、α-MnTe（1.1 eV）、RuO₂（1.4 eV）等交变磁体相当；劈裂来源于 Cr 位点在位交换场 ΔE≈⟨ψ|ΔVxc|ψ⟩，主要由 Cr d(x²−y²) 轨道贡献，而非净磁矩大小；EF+0.05 eV 处 P↑/P↓ 自旋极化分别达 +91%/−91%。
-  4. 铁电性：F 原子从下 Cr–Cr 桥位迁移到上桥位带动极化翻转，面外极化 1.11 pC/m，NEB 翻转势垒仅 0.11 eV/f.u.；有效哈密顿量 + MD 给出 EC≈73 mV/Å，按哈密顿/DFT 势垒比 1.8 校正后 EC≈43 mV/Å，与 In₂Se₃（100 mV/Å）、CuInP₂S₆（14 mV/Å）、HfO₂（159 mV/Å）相当；MD 给出 FE–PE 相变 570 K，DFT 校正后 TC=334 K。
-  5. 磁性与温度：提取 J1/J1′=−19.39/−5.73、J2/J2′=−4.07/−6.70、J3=0.34、J4/J4′=−5.01/−20.31 meV；约 90° Cr–X–Cr 键给 FM 超交换、约 180° 键给 AFM 超交换（Goodenough–Kanamori–Anderson 规则），而 180° 的 J4 为 FM 则归因于金属性导致的双交换；易轴沿 b 轴，MAE=86 μeV/Cr；蒙特卡洛比热曲线显示两步磁相变（底层先失序、顶层后失序），全局 TN=469 K，MA 仅使 TN 偏移 2–10 K。
-  6. 强磁电耦合：翻转铁电极化可整体反转自旋极化方向、面外自旋纹理，并使贝里曲率在第一布里渊区反号；磁矩沿 c 轴时 SOC 在 X、Y 点开 3、11 meV 隙，P↑ 与 P↓ 的“能隙陈数”分别为 C=−2 与 +2——这是电场驱动的陈数翻转；体系仍为金属、无全局带隙，故不期望受拓扑保护的无耗散边缘输运，但可对应力/掺杂打开全局隙后实现量子反常霍尔态构成提示。线性磁电系数 αS=7.1×10⁻¹⁴ G·cm²/V，超过 Fe 薄膜（2.9×10⁻¹⁴），接近双层 VS₂（9.8×10⁻¹⁴）。
-  7. 器件：CSFB/CrSBr/CSFB 多铁隧道结，金属性 CSFB 作自旋注入端、绝缘 CrSBr 作势垒；仅靠翻转两端 CSFB 电极化即在 PC（M↑(P↑)/M↑/M↑(P↓)）与 APC（M↓(P↓)/M↑/M↓(P↑)）间切换。0.04 V 偏压下 IPC=13.8 nA、IAPC=0.27 nA，MR=(GPC−GAPC)/GAPC×100% 峰值 4.8×10³%；PC 自旋流极化 +97%、APC 为 −60%；透射系数相差近两个数量级。另一反平行构型 APC2 (M↑/M↑/M↓) 在 0.02 V 给出 MR=4.4×10³%。偏压升高到 0.10 V 时 MR 降至 ~10²%。
-  8. 稳定性与合成路径：声子谱无虚频、1000 K 下 AIMD 无结构重构、形成能 −1.391 eV/atom、力学稳定；借鉴 μ₃-F 桥连金属有机框架与杂化层状氟化物钙钛矿，提出两条可行合成路线——氧化还原介导的卤素离子交换插层、堆垛工程；并讨论了插层结合能、中间体热稳定性与器件制备方案。
-  9. 策略通用性：Cr₄S₄F₃ 保持 A-FiMM，αS=11.8×10⁻¹⁴ G·cm²/V、非相对论自旋劈裂 1.55 eV；Cr₄S₄Cl₃、Cr₄S₄Br₃、Cr₄Se₄Cl₃、Cr₄Se₄Br₃ 转为铁磁半金属（FMHM，费米能级 100% 自旋极化），TN/TC 多在室温以上；Mn₄N₄X₃（X=F, Cl, Br, I）单层均动力学稳定、铁磁且有自发极化，为反演对称破缺驱动的 I 类多铁半金属，说明该插层范式可推广至整个 CrSBr 同构二维磁体家族。
+  4. 铁电性：F 原子从下 Cr–Cr 桥位迁移到上桥位带动[[../concepts/polarization-switching|极化翻转]]，面外极化 1.11 pC/m，NEB [[../concepts/switching-barrier|翻转势垒]]仅 0.11 eV/f.u.；[[../concepts/effective-hamiltonian|有效哈密顿量]] + MD 给出 EC≈73 mV/Å，按哈密顿/DFT 势垒比 1.8 校正后 EC≈43 mV/Å，与 In₂Se₃（100 mV/Å）、CuInP₂S₆（14 mV/Å）、HfO₂（159 mV/Å）相当；MD 给出 FE–PE 相变 570 K，DFT 校正后 TC=334 K。
+  5. 磁性与温度：提取 J1/J1′=−19.39/−5.73、J2/J2′=−4.07/−6.70、J3=0.34、J4/J4′=−5.01/−20.31 meV；约 90° Cr–X–Cr 键给 FM [[../concepts/superexchange|超交换]]、约 180° 键给 AFM 超交换（Goodenough–Kanamori–Anderson 规则），而 180° 的 J4 为 FM 则归因于金属性导致的[[../concepts/double-exchange|双交换]]；易轴沿 b 轴，MAE=86 μeV/Cr；蒙特卡洛比热曲线显示两步磁相变（底层先失序、顶层后失序），全局 TN=469 K，MA 仅使 TN 偏移 2–10 K。
+  6. 强磁电耦合：翻转铁电极化可整体反转自旋极化方向、面外[[../concepts/spin-texture|自旋纹理]]，并使贝里曲率在第一[[../concepts/brillouin-zone|布里渊区]]反号；磁矩沿 c 轴时 SOC 在 X、Y 点开 3、11 meV 隙，P↑ 与 P↓ 的“能隙陈数”分别为 C=−2 与 +2——这是电场驱动的陈数翻转；体系仍为金属、无全局带隙，故不期望受拓扑保护的无耗散边缘输运，但可对应力/掺杂打开全局隙后实现量子反常霍尔态构成提示。线性磁电系数 αS=7.1×10⁻¹⁴ G·cm²/V，超过 Fe 薄膜（2.9×10⁻¹⁴），接近双层 VS₂（9.8×10⁻¹⁴）。
+  7. 器件：CSFB/CrSBr/CSFB [[../concepts/multiferroic-tunnel-junction|多铁隧道结]]，金属性 CSFB 作[[../concepts/spin-injection|自旋注入]]端、绝缘 CrSBr 作势垒；仅靠翻转两端 CSFB 电极化即在 PC（M↑(P↑)/M↑/M↑(P↓)）与 APC（M↓(P↓)/M↑/M↓(P↑)）间切换。0.04 V 偏压下 IPC=13.8 nA、IAPC=0.27 nA，MR=(GPC−GAPC)/GAPC×100% 峰值 4.8×10³%；PC 自旋流极化 +97%、APC 为 −60%；透射系数相差近两个数量级。另一反平行构型 APC2 (M↑/M↑/M↓) 在 0.02 V 给出 MR=4.4×10³%。偏压升高到 0.10 V 时 MR 降至 ~10²%。
+  8. 稳定性与合成路径：声子谱无虚频、1000 K 下 AIMD 无结构重构、[[../concepts/formation-energy|形成能]] −1.391 eV/atom、力学稳定；借鉴 μ₃-F 桥连金属有机框架与杂化层状氟化物钙钛矿，提出两条可行合成路线——氧化还原介导的卤素离子交换插层、堆垛工程；并讨论了插层结合能、中间体热稳定性与器件制备方案。
+  9. 策略通用性：Cr₄S₄F₃ 保持 A-FiMM，αS=11.8×10⁻¹⁴ G·cm²/V、非相对论自旋劈裂 1.55 eV；Cr₄S₄Cl₃、Cr₄S₄Br₃、Cr₄Se₄Cl₃、Cr₄Se₄Br₃ 转为铁磁[[../concepts/half-metal|半金属]]（FMHM，费米能级 100% 自旋极化），TN/TC 多在室温以上；Mn₄N₄X₃（X=F, Cl, Br, I）单层均动力学稳定、铁磁且有自发极化，为[[../concepts/inversion-symmetry-breaking|反演对称破缺]]驱动的 I 类多铁半金属，说明该插层范式可推广至整个 CrSBr 同构二维磁体家族。
   10. 批判要点（可写入 wiki 的“争议/局限”视角）：全部结论基于 DFT/模型哈密顿量，TC、TN、EC 依赖有效哈密顿量参数（模型高估势垒约 1.8 倍）；金属中自由载流子对几何铁电偶极场的屏蔽程度未定量；APC 电流不为零且极化率仅 −60%（PC 为 +97%），不对称性可能来自势垒/界面态；MFTJ 为理想范德华接触、完美界面模型，上下 CSFB 电极化的独立寻址在实际电路中仍具挑战；其“完全补偿亚铁磁 + 1.33 eV 非相对论自旋劈裂”的组合与交变磁体（altermagnet）特征高度吻合，但作者未采用该分类。

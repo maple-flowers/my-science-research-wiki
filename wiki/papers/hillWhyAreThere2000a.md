@@ -91,17 +91,20 @@ Nicola A. Hill，2000，*The Journal of Physical Chemistry B* 104(29), 6694-6709
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/hillWhyAreThere2000a]]
 ## 📊 关键图表
-  - ![图1 顺磁/铁磁/反铁磁磁偶极子排列](../../raw/figures/hillWhyAreThere2000a/fig_1_IBXL696E.png)
-  - ![图2 铁磁/亚铁磁体磁滞回线](../../raw/figures/hillWhyAreThere2000a/fig_2_KKS5BNZD.png)
-  - ![图5 立方钙钛矿ABO3结构](../../raw/figures/hillWhyAreThere2000a/fig_5_WE9Z7I8I.png)
-  - ![图6 B位阳离子双势阱势能](../../raw/figures/hillWhyAreThere2000a/fig_6_77XXFCEF.png)
-  - ![图7 立方顺磁LaMnO3与BiMnO3态密度对比](../../raw/figures/hillWhyAreThere2000a/fig_7_QKCZVNU3.png)
-  - ![图9 Γ-X方向能带（标注对称性）](../../raw/figures/hillWhyAreThere2000a/fig_9_3UYZVE62.png)
-  - ![图14 不稳定铁电声子模式本征矢](../../raw/figures/hillWhyAreThere2000a/fig_14_5IHZ4TQ3.png)
-  - ![图15 六方钙钛矿（YMnO3，Mn为5配位）](../../raw/figures/hillWhyAreThere2000a/fig_15_7LK5BGXG.png)
-  - ![表1 紧束缚参数（BiMnO3/LaMnO3/YMnO3）](../../raw/figures/hillWhyAreThere2000a/tab_1_KSG7PGTX.png)
+  - ![图1 顺磁/铁磁/反铁磁磁偶极子排列](../../raw/figures/hillWhyAreThere2000a/fig_1_IBXL696E.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图2 铁磁/亚铁磁体磁滞回线](../../raw/figures/hillWhyAreThere2000a/fig_2_KKS5BNZD.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图5 立方钙钛矿ABO3结构](../../raw/figures/hillWhyAreThere2000a/fig_5_WE9Z7I8I.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图6 B位阳离子双势阱势能](../../raw/figures/hillWhyAreThere2000a/fig_6_77XXFCEF.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图7 立方顺磁LaMnO3与BiMnO3态密度对比](../../raw/figures/hillWhyAreThere2000a/fig_7_QKCZVNU3.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图9 Γ-X方向能带（标注对称性）](../../raw/figures/hillWhyAreThere2000a/fig_9_3UYZVE62.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图14 不稳定铁电声子模式本征矢](../../raw/figures/hillWhyAreThere2000a/fig_14_5IHZ4TQ3.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图15 六方钙钛矿（YMnO3，Mn为5配位）](../../raw/figures/hillWhyAreThere2000a/fig_15_7LK5BGXG.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![表1 紧束缚参数（BiMnO3/LaMnO3/YMnO3）](../../raw/figures/hillWhyAreThere2000a/tab_1_KSG7PGTX.png) -> [[../figures/electronic-bands|电子能带与电子态]]
 ## 🔬 项目连接
 project-2 Mn多铁。本文系统研究BiMnO3、YMnO3、LaMnO3等锰基钙钛矿中磁性与铁电性的共存机制，提出d0规则及孤对电子/几何结构两条破局路径，是Mn基多铁材料设计的经典理论基石。
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+
 ## 📝 组织与用词
 文章按"提出问题→分别回顾铁磁/铁电微观理论→逐一排除对称性、绝缘性、离子尺寸等因素→锁定d电子占据为关键→两个第一性原理案例（BiMnO3化学驱动 vs YMnO3结构驱动）→总结d0规则并展望"的侦探式逻辑展开。论证方法上以LaMnO3为共同对照，通过人为关闭自旋极化、固定立方结构等"计算理想实验"分离变量。值得复用的术语：
   - d0规则 ([[../concepts/d0-rule|d0 rule]] / d0-ness)
@@ -113,13 +116,13 @@ project-2 Mn多铁。本文系统研究BiMnO3、YMnO3、LaMnO3等锰基钙钛矿
   - 共价杂化 (covalent hybridization)
   - 几何/结构铁电性 ([[../concepts/geometric-ferroelectricity|geometric ferroelectricity]])
 ## ✏️ 可写入 Wiki 的要点
-  1. **d0规则**：在标准钙钛矿氧化物中，B位位移型铁电性要求B阳离子形式上为d0构型（如Ti4+、Zr4+、Nb5+）；而磁性（铁磁/反铁磁/亚铁磁）要求d轨道部分填充。同一离子无法同时满足，是磁电多铁材料稀少的根本化学矛盾。
+  1. **d0规则**：在标准钙钛矿氧化物中，B位位移型[[../concepts/ferroelectricity|铁电性]]要求B阳离子形式上为d0构型（如Ti4+、Zr4+、Nb5+）；而磁性（铁磁/反铁磁/亚铁磁）要求d轨道部分填充。同一离子无法同时满足，是磁电多铁材料稀少的根本化学矛盾。
   2. **抑制铁电的是d电子占据本身而非磁序**：通过人为令自旋向上/向下密度相等来"关闭磁性"，LaMnO3的铁电虚频并未显著恢复（顺磁→铁磁仅使铁电模从较弱进一步减弱至21.1i cm⁻¹），说明 d 轨道占据才是压制偏心位移的主因，自旋极化是次要因素。
-  3. **BiMnO3的化学破局**：紧束缚拟合表明，仅用Mn 3d-O 2p基组即可拟合LaMnO3能带（RMS=0.20 eV），但BiMnO3必须加入Bi 6s/6p轨道（RMS从0.25降至0.12 eV）；Bi 6p-O 2p σ转移积分比Bi 6s-O 2p还大约30%。Bi-O共价性削弱Mn-O反铁磁超交换，解释了其异常铁磁性；铁电软模虚频（82.30i cm⁻¹）约为LaMnO3两倍，本征矢显示Bi与氧笼反向运动而Mn几乎不动，即A位驱动的铁电性。
+  3. **BiMnO3的化学破局**：[[../concepts/tight-binding|紧束缚]]拟合表明，仅用Mn 3d-O 2p基组即可拟合LaMnO3能带（RMS=0.20 eV），但BiMnO3必须加入Bi 6s/6p轨道（RMS从0.25降至0.12 eV）；Bi 6p-O 2p σ转移积分比Bi 6s-O 2p还大约30%。Bi-O共价性削弱Mn-O反铁磁[[../concepts/superexchange|超交换]]，解释了其异常[[../concepts/ferromagnetism|铁磁性]]；铁电软模虚频（82.30i cm⁻¹）约为LaMnO3两倍，本征矢显示Bi与氧笼反向运动而Mn几乎不动，即A位驱动的铁电性。
   4. **YMnO3的结构破局**：立方相YMnO3的电子结构和紧束缚参数与LaMnO3高度相似（Y 4d-O 2p为离子性，无显著共价杂化），仅Mn-O重叠因晶格常数小（3.84 Å vs 3.95 Å）增大约10%。其铁电性源于Y3+半径过小无法稳定立方钙钛矿，转而形成六方P63cm结构，Mn处于5配位三角双锥（dsp3杂化），配位几何本身非中心对称，从而绕过d0规则。
   5. **对称性并非瓶颈**：122个Shubnikov点群中有13个（1, 2, 2′, m, m′, 3, 3m′, 4, 4m′m′, m′m2′, m′m′2′, 6, 6m′m′）同时允许自发极化P和磁化M，数量不可忽略，故对称性限制不是多铁稀少的主因。
   6. **绝缘性也非主因**：铁电体须为绝缘体以维持可翻转极化；虽然元素铁磁体多为金属，但反铁磁体、亚铁磁体和弱铁磁体通常是绝缘体，而反铁磁铁电体同样稀少，说明不能简单归咎于磁性绝缘体短缺。
-  7. **Jahn-Teller畸变是竞争性畸变**：Mn3+(d4)、Ti3+(d1)等离子的d型Jahn-Teller畸变使氧八面体沿c轴协同拉长并伴随轨道有序，"冻结"了另一条结构失稳通道，压制偏心铁电位移；因此Fe3+(d5)、Cr3+(d3)等非Jahn-Teller离子更适合作为多铁材料的磁性源。
-  8. **BiFeO3的预示**：文中指出BiFeO3在1110 K以下铁电、奈尔温度约670 K（反铁磁），并表现出线性磁电效应（磁场诱导弱铁磁性及极化大幅增加）；Fe3+为d5非Jahn-Teller离子，Bi-O孤对电子驱动铁电，是d0规则例外的典型代表，后被证实为室温多铁标杆。
-  9. **电子铁电性猜想**：在立方相BiMnO3中观察到同对称性Bi 6p与Mn 3d能带交叉（杂化为零）及Mn 3d→Bi 6p电荷转移，可能满足Portengen等提出的d-f（此处为d-p）激子凝聚条件，预言约10 μC/cm²的内建极化，提供一种不依赖离子位移的铁电机制。
+  7. **[[../concepts/jahn-teller-distortion|Jahn-Teller畸变]]是竞争性畸变**：Mn3+(d4)、Ti3+(d1)等离子的d型Jahn-Teller畸变使氧八面体沿c轴协同拉长并伴随轨道有序，"冻结"了另一条结构失稳通道，压制偏心铁电位移；因此Fe3+(d5)、Cr3+(d3)等非Jahn-Teller离子更适合作为多铁材料的磁性源。
+  8. **BiFeO3的预示**：文中指出BiFeO3在1110 K以下铁电、奈尔温度约670 K（反铁磁），并表现出线性磁电效应（磁场诱导[[../concepts/weak-ferromagnetism|弱铁磁性]]及极化大幅增加）；Fe3+为d5非Jahn-Teller离子，Bi-O[[../concepts/lone-pair-electrons|孤对电子]]驱动铁电，是d0规则例外的典型代表，后被证实为室温多铁标杆。
+  9. **电子铁电性猜想**：在立方相BiMnO3中观察到同对称性Bi 6p与Mn 3d能带交叉（杂化为零）及Mn 3d→Bi 6p[[../concepts/charge-transfer|电荷转移]]，可能满足Portengen等提出的d-f（此处为d-p）[[../concepts/exciton-condensation|激子凝聚]]条件，预言约10 μC/cm²的内建极化，提供一种不依赖离子位移的铁电机制。
   10. **方法学**：采用平面波赝势(CASTEP 2.1)+LSDA，平面波截断60 Ry，6×6×6 Monkhorst-Pack k网格，对Mn使用部分非线性芯态修正的优化赝势；通过Hellmann-Feynman力（位移0.1 Å）构建Γ点力常数矩阵并由声学求和规则提取声子频率，以虚频判定铁电不稳定性。

@@ -22,5 +22,5 @@ metadata:
 
 ## 3. 相关概念
 - [[lego-assembly|乐高式组装]]
-- [[../../entities/GaAs|GaAs]]
-- [[../../entities/GaSb|GaSb]]
+- [[../entities/GaAs|GaAs]]
+- [[../entities/GaSb|GaSb]]

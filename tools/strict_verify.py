@@ -63,8 +63,8 @@ for p in sorted(all_files):
     # wikilinks
     for m in re.finditer(r"\[\[([^\]]+)\]\]", txt):
         total_wikilinks += 1
-        inner = m.group(1)
-        target = inner.split("|")[0].split("#")[0].strip()
+        inner = m.group(1).replace("\\|", "|")
+        target = inner.split("|")[0].split("#")[0].strip().rstrip("\\")
         if not target: continue
         if target.startswith("http"): continue
 
@@ -83,6 +83,13 @@ for p in sorted(all_files):
             continue
 
         total_checked += 1
+        # vault-absolute like 科研Wiki/wiki/... (check before "/" relative-path test)
+        if target.startswith("科研Wiki/"):
+            cand = os.path.join(BASE, target[len("科研Wiki/"):])
+            if os.path.isfile(cand) or os.path.isfile(cand + ".md"):
+                continue
+            broken.append((rel, target))
+            continue
         # relative path form
         if target.startswith("../") or target.startswith("../../") or "/" in target:
             if not exists_rel(p, target):
@@ -92,11 +99,6 @@ for p in sorted(all_files):
         # bare slug -> Obsidian resolves by basename anywhere in vault
         if target in slug_to_paths:
             continue
-        # vault-absolute like 科研Wiki/wiki/...
-        if target.startswith("科研Wiki/"):
-            cand = os.path.join(BASE, target[len("科研Wiki/"):])
-            if os.path.isfile(cand) or os.path.isfile(cand + ".md"):
-                continue
         broken.append((rel, target))
 
 print("=== STRICT WIKI VERIFICATION ===")

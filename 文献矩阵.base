@@ -1,5 +1,8 @@
 formulas:
   未命名: ""
+properties:
+  "note.对领域的贡献::":
+    displayName: "对领域的贡献:"
 views:
   - type: table
     name: 表格
@@ -7,6 +10,6 @@ views:
       and:
         - file.folder == "科研Wiki/wiki/papers"
     order:
-      - file.name
-      - title
-      - doi
+      - file.basename
+    columnSize:
+      file.basename: 337

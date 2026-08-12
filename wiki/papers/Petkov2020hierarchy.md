@@ -113,16 +113,21 @@ Valeri Petkov, Junjie Yang, Sarvjit Shastri, Yang Ren，2020，Physical Review B
   - **project-5 SnTe铁电模拟 — strong（方法可直接复用）**：SnTe铁电性源于局部晶格畸变（Sn原子偏离中心、正方→平行四边形畸变），与本文关注的"局部结构畸变vs平均晶体结构"问题高度同源。本文的"高能XRD总散射→PDF→共振差分PDF→~8–9万原子RMC三维建模→键角/二面角/部分PDF定量分析"完整流程可直接迁移到SnTe的局域铁电畸变表征；尤其RMC不预设平均对称性、能容纳多种键长环境的特性，正是研究SnTe中Sn偏心位移和局域极性团簇所需要的方法。
   - **project-2 Mn多铁 — medium（方法学+配位多面体物理类比）**：Mn基多铁中Mn-O配位多面体畸变、八面体倾转与磁电耦合密切相关。本文用键角分布和二面角分布定量刻画配位多面体畸变和金属原子层皱褶的分析思路，以及"局部结构完美度决定集体电子/铁性序能否出现"的物理图像，对project-2中理解多铁材料的结构-性能关系有方法学参考价值；但材料体系（TMDs vs Mn氧化物）和物理机制（CDW/SC vs 磁电耦合）不同，故为medium。
   - project-1 双光子、project-3 机械发光NN、project-4 TTF分子计算、project-6 湿度传感器：无直接项目连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+
 ## 📝 组织与用词
 文章按"问题提出（CDW/SC竞争但结构机制不清）→体系选择（等电子TaSe₂₋ₓTeₓ，端元结构差异大）→平均结构（Rietveld）→局域结构（PDF/共振差分PDF证实单相和双腱长）→大尺度建模（RMC 8–9万原子）→定量结构参数（键角、二面角、部分PDF、半径比）→关联TCDW/Tc→提炼层级模型"递进，论证链条是"平均结构不够用→PDF看到局域→RMC看到三维→部分PDF判3D周期性→对应Tc穹顶"。值得复用的术语：电荷密度波（Charge Density Wave, CDW）、超导（Superconductivity, SC）、原子对分布函数（Pair Distribution Function, PDF）、反向蒙特卡洛（Reverse Monte Carlo, RMC）、层级关系（hierarchy）、配位多面体（coordination polyhedron）、三角棱柱配位（trigonal prismatic coordination）、八面体配位（octahedral coordination）、层皱褶（buckling of TM planes）、三维周期性（3D periodicity of TM sublattice）、化学压力（chemical pressure）。
 ## ✏️ 可写入 Wiki 的要点
   - 层级模型：强晶格畸变（Ta层皱褶）同时破坏CDW和SC；完美二维晶格周期性是CDW的必要不充分条件；Ta亚晶格的三维长程周期性是SC出现的额外必要条件；配位多面体完美度是影响Tc高低的次级因素。
   - TaSe₂₋ₓTeₓ中SC仅出现在x≈0.2（3R相，三角棱柱）和x≈1（1T相，八面体）附近，Tc(x)不对称；这两个成分共同点是Ta层平整、Ta呈完美六角排列、Ta亚晶格在3D上与平均晶格对齐。
-  - 端元2H-TaSe₂在T_ICDW~122 K进入非公度3a×3a CDW、T_CCDW~90 K进入公度CDW，Ta形成六边形7原子团簇，Tc~0.14 K；1T'-TaTe₂在~170 K发生结构相变，双锯齿Ta链断裂成"蝴蝶"团簇串（3a×1a超结构），低至0.05 K无SC。
+  - 端元2H-TaSe₂在T_ICDW~122 K进入非公度3a×3a CDW、T_CCDW~90 K进入公度CDW，Ta形成六边形7原子团簇，Tc~0.14 K；1T'-TaTe₂在~170 K发生[[../concepts/structural-phase-transition|结构相变]]，双锯齿Ta链断裂成"蝴蝶"团簇串（3a×1a超结构），低至0.05 K无SC。
   - 中间成分x=0.66（TaSe₁.₃₄Te₀.₆₆）三角棱柱配位失稳，Ta层严重皱褶、二面角分布极宽、Ta亚晶格无周期性，既无CDW也无SC。
   - PDF第一峰在x=0.66和x=1处分裂为短Ta-Se键和长Ta-Te键两个分量，首次实验证实固溶体中存在两种截然不同的腱长；与两端PDF加权平均的对比排除了相分离，证明是原子尺度均匀的单相固溶体。
   - 共振差分PDF：在Ta K边（67.416 keV）上下37 eV和327 eV两能量相减，使Ta-Ta贡献从总PDF的~30%提升到差分PDF的~50%，是研究Ta亚晶格的关键技术。
   - RMC模型基于~100×100×100 Å³盒子、80000–90000原子，约束Ta-硫族配位数≈6、硫族-Ta配位数≈3、原子间距不小于离子半径之和；从300 K逐级降温精修到100 K，拟合优度~10%。
   - Gamble半径比判据：R_Ta⁺/R_Ch⁻>0.49倾向三角棱柱、<0.49倾向八面体（理想三棱柱接触临界值0.527）；Te离子半径~1.85 Å、Se~1.72 Å，Te替Se扩张多面体、增大Ta-Ta间距、抑制Ta-Ta金属键，从而抑制CDW。
-  - 外压与化学压力的统一图像：正外压通过减小1T'-TaTe₂八面体畸变、或使2H-TaSe₂三角棱柱向八面体转变，恢复Ta亚晶格3D周期性而诱导SC；Te替Se的负化学压力在富Se区通过稳定3R相达到类似效果。
+  - 外压与[[../concepts/chemical-pressure|化学压力]]的统一图像：正外压通过减小1T'-TaTe₂八面体畸变、或使2H-TaSe₂三角棱柱向八面体转变，恢复Ta亚晶格3D周期性而诱导SC；Te替Se的负化学压力在富Se区通过稳定3R相达到类似效果。
   - 方法论意义：高能XRD（105.7 keV, q_max~30 Å⁻¹）+共振散射+PDF+大规模RMC的组合，突破了传统晶体学只能描述平均周期结构的局限，可在原子尺度解析含多种配位环境和键长的复杂功能材料，具有普适推广价值。

@@ -105,6 +105,10 @@ Ping Kwan Johnny Wong, Wen Zhang, Jun Zhou, Fabio Bussolotti, Xinmao Yin, Lei Zh
   - **project-2（Mn 多铁）— weak**：本文不涉及 Mn 或多铁，但在方法层面有参考价值：元素特异性 XMCD 排除衬底/杂质磁干扰的判据，以及"CDW 不稳定性抑制铁磁序"的竞争物理，可类比用于判断二维磁性/多铁体系中理论预测与实验磁性的差异；同组 Wong et al. (Adv. Mater. 2019, VSe₂ 自旋阻挫，ref 23) 亦属同一方法体系。
   - project-1（双光子）、project-3（机械发光 NN）、project-4（TTF 分子计算）、project-5（SnTe 铁电模拟）、project-6（湿度传感器）：无直接项目连接。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+
 ## 📝 组织与用词
 论证沿"MBE 制备 → STM 结构与 CDW 实空间确认 → PES 化学态/价带 → ARPES 能带与相鉴定 → XAS/XMCD 裁决 d¹ 构型与磁性 → DFT 解释衬底为何抑制 1T'"层层递进，是否定性结论（无铁磁）与肯定性结论（1T/d¹/(4×4) CDW）交织的证据链范式。值得复用的术语：
   - [[../concepts/1t-phase|1T phase / 1T' phase]]（1T 相 / 1T' 相）
@@ -117,13 +121,13 @@ Ping Kwan Johnny Wong, Wen Zhang, Jun Zhou, Fabio Bussolotti, Xinmao Yin, Lei Zh
   - anisotropic CDW gap（[[../concepts/charge-density-wave|各向异性 CDW 能隙]]）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 单层 VTe₂（MBE/HOPG，650 K 生长，Te/V 通量比 >10，Se/Te 保护帽）实验上确认为金属性 1T 相，面内晶格常数 3.6±0.1 Å（DFT 弛豫 3.61 Å，1T 理论值 3.64 Å），单层台阶高 ~8.5 Å（含范德华间隙），空间群 P3m1。
-  2. 低温 STM 首次在实空间观察到单层 VTe₂ 的 (4×4) CDW 超结构，与块体 (3×1) 双锯齿链不同；该 (4×4) 图案据 LEED/ARPES 文献在 <186 K 出现，在二维费米面 M 点附近打开最大 ~50 meV 的各向异性能隙，Γ 点无隙。
+  1. 单层 VTe₂（MBE/HOPG，650 K 生长，Te/V 通量比 >10，Se/Te 保护帽）实验上确认为金属性 [[../concepts/1t-phase|1T 相]]，面内晶格常数 3.6±0.1 Å（DFT 弛豫 3.61 Å，1T 理论值 3.64 Å），单层台阶高 ~8.5 Å（含范德华间隙），空间群 P3m1。
+  2. 低温 STM 首次在实空间观察到单层 VTe₂ 的 (4×4) CDW 超结构，与块体 (3×1) 双锯齿链不同；该 (4×4) 图案据 LEED/ARPES 文献在 <186 K 出现，在二维[[../concepts/fermi-surfaces|费米面]] M 点附近打开最大 ~50 meV 的[[../concepts/migdal-eliashberg-theory|各向异性]]能隙，Γ 点无隙。
   3. STS（77 K）dI/dV 在费米能级呈凹陷而非清晰能隙，因 STS 动量积分——部分动量区（M-K）有隙、Γ 点无隙，且受热展宽与 CDW 能隙温度依赖影响。
-  4. PES：V 2p₃/₂=512.9 eV、V 2p₁/₂=520.5 eV，Te 3d₅/₂=572.0 eV、Te 3d₃/₂=582.3 eV，对应 V⁴⁺；价带费米边主要由 V 3d 贡献，1–6 eV 为 Te 4p + 石墨衬底；功函数 ~4.7 eV（比 HOPG 上单层 VSe₂ 低 ~0.3 eV）。单层 VTe₂ 对空气极敏感：氧化使费米边谱重骤降、芯能级移向高结合能、功函数降 ~0.2 eV。
+  4. PES：V 2p₃/₂=512.9 eV、V 2p₁/₂=520.5 eV，Te 3d₅/₂=572.0 eV、Te 3d₃/₂=582.3 eV，对应 V⁴⁺；价带费米边主要由 V 3d 贡献，1–6 eV 为 Te 4p + 石墨衬底；[[../concepts/work-function|功函数]] ~4.7 eV（比 HOPG 上单层 VSe₂ 低 ~0.3 eV）。单层 VTe₂ 对空气极敏感：氧化使费米边谱重骤降、芯能级移向高结合能、功函数降 ~0.2 eV。
   5. ARPES（He Iα, 21.218 eV，能量分辨率 20 meV）：费米能级附近见弱色散 V 3d 带与强向下色散的简并 Te 4p 带；11 K 实验能带与 1T 相 DFT 吻合、与 2H 不符；只观察到单一 d 带而非交换劈裂双带，间接排除铁磁基态；300 K→11 K 的 Γ 点 EDC 峰宽变窄但无 leading-edge 中点位移，确认 Γ 点无 CDW 能隙。
   6. XAS（V L₂,₃ 边，TEY 模式，16 K，±1 T）：518/524 eV 主峰对应 V 2p→3d 偶极跃迁，主峰前精细结构为原子多重态残余，与块体 VS₂、单层 VSe₂ 相似，是 1T 相和 d¹ 构型的指纹证据；八面体晶体场中 V⁴⁺ 单电子占据 t₂g。
   7. XMCD（16–300 K）信号在实验误差内可忽略，元素特异性地排除单层 VTe₂ 中 V 的本征铁磁有序；作者指出此前 CVD-VTe₂/SiO₂ 的 VSM 铁磁信号可能来自衬底（Si、HOPG 常含磁杂质）与外禀扰动，不同背景扣法会给出差异巨大的磁矩。作者假设 CDW 不稳定性与 DFT 预测的铁磁基态竞争并抑制之，类似单层 VSe₂ 情形。
-  8. DFT（VASP，PAW-PBE，vdW-optB88，截断 500 eV，21×21×1 k 网格；层间真空 20 Å；界面用石墨烯 3×9、T 相 2×6、T' 相 2×2 超胞，应变 <2%）：无论有无衬底，1T' 相能量均低于 1T 相（自支撑 ~0.1 eV/超胞，石墨烯上 ~0.08 eV/超胞），与实验只观察到 1T 相矛盾；差分电荷密度显示石墨烯→VTe₂ 电荷转移。
-  9. 衬底抑制 1T' 的机制：自支撑 1T' 中 V 原子沿 b 轴规则位移形成双锯齿链；置于石墨烯上后规则位移消失，沿 a、b 轴呈更随机畸变，Te 原子高度差与 V 条带间距均显著减小，1T' 结构调制被"抹平"；作者推测多层石墨烯（HOPG）上抑制更强，可解释实验未观察到 1T'。提示热力学基态能量并非决定 MBE 生长相的唯一因素，衬底钉扎与非平衡生长动力学同样关键。
-  10. 块体 VTe₂ 在 390–437 K 发生 1T（六方）→1T'（单斜）相变，与层间 Te–Te 耦合（Te p_z 轨道起关键作用）及电子-声子耦合相关；碱金属（Li、Na）插层降低相变温度并使结构参数趋近 1T，佐证沿 c 轴 Te–Te 层间耦合对相变的决定性作用——单层移除此耦合是 (4×4) 取代 (3×1) 的物理根源。
+  8. DFT（VASP，PAW-PBE，vdW-optB88，截断 500 eV，21×21×1 k 网格；层间真空 20 Å；界面用[[../entitys/graphene|石墨烯]] 3×9、T 相 2×6、T' 相 2×2 超胞，应变 <2%）：无论有无衬底，1T' 相能量均低于 1T 相（自支撑 ~0.1 eV/超胞，石墨烯上 ~0.08 eV/超胞），与实验只观察到 1T 相矛盾；差分[[../concepts/charge-density|电荷密度]]显示石墨烯→VTe₂ [[../concepts/charge-transfer|电荷转移]]。
+  9. 衬底抑制 1T' 的机制：自支撑 1T' 中 V 原子沿 b 轴规则位移形成双锯齿链；置于石墨烯上后规则位移消失，沿 a、b 轴呈更随机畸变，Te 原子高度差与 V 条带间距均显著减小，1T' 结构调制被"抹平"；作者推测[[../entitys/graphene-tetralayer|多层石墨烯]]（HOPG）上抑制更强，可解释实验未观察到 1T'。提示热力学基态能量并非决定 MBE 生长相的唯一因素，衬底钉扎与非平衡生长动力学同样关键。
+  10. 块体 VTe₂ 在 390–437 K 发生 1T（六方）→1T'（单斜）相变，与层间 Te–Te 耦合（Te p_z 轨道起关键作用）及[[../concepts/electron-phonon-coupling|电子-声子耦合]]相关；碱金属（Li、Na）插层降低相变温度并使结构参数趋近 1T，佐证沿 c 轴 Te–Te 层间耦合对相变的决定性作用——单层移除此耦合是 (4×4) 取代 (3×1) 的物理根源。

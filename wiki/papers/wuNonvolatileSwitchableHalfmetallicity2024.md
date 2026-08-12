@@ -109,16 +109,16 @@ Changwei Wu, Shanwei Sun, Weiping Gong, Jiangyu Li, Xiao Wang et al.，2024，*P
 ## 📊 关键图表
   - ![Hf2MnC2O2 单层结构、自旋密度、直接/超交换示意与自旋极化能带（图1）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_1_678PD9X8.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - ![Hf2MnC2O2/Sc2CO2 异异质结 DW-(I) 与 UP-(II) 稳定堆垛构型（图2）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_2_66KAAFE2.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
-  - ![磁矩与交换参数 J1 随界面距离 d_O-Sc 的变化（图3）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_3_LXQGMD2X.png)
-  - ![Pk/Pm 态不同 d_O-Sc 下的分态密度 PDOS（图4）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_4_MV3747TM.png)
+  - ![磁矩与交换参数 J1 随界面距离 d_O-Sc 的变化（图3）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_3_LXQGMD2X.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![Pk/Pm 态不同 d_O-Sc 下的分态密度 PDOS（图4）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_4_MV3747TM.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - ![孤立单层与 Pk/Pm 异质结的自旋极化能带结构（图5）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_5_TLLCI2HJ.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
-  - ![能带对齐、静电势、差分电荷密度与积分（图6）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_6_CCWSDHLM.png)
-  - ![基于异质结的非易失 FET 器件原型（图7）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_7_CLHBQT7G.png)
+  - ![能带对齐、静电势、差分电荷密度与积分（图6）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_6_CCWSDHLM.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![基于异质结的非易失 FET 器件原型（图7）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_7_CLHBQT7G.png) -> [[../figures/electronic-devices|电子与突触器件]]
   - ![Sc2CO2/Hf2MnC2O2/Sc2CO2 三明治四种极化态构型与能带（图8）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_8_H3M7RY24.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - ![Mn 与 Hf 的轨道分辨磁各向异性能（图9）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_9_42AFRGJH.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
-  - ![海森堡哈密顿量（公式1）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/eq_1_SBLTVUHU.png)
-  - ![二阶微扰 MAE 公式（公式2）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/eq_2_LN5CXQKY.png)
-  - ![P1–P4 磁矩与 J1 汇总（表1）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/tab_1_KZ2KGHKA.png)
+  - ![海森堡哈密顿量（公式1）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/eq_1_SBLTVUHU.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![二阶微扰 MAE 公式（公式2）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/eq_2_LN5CXQKY.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![P1–P4 磁矩与 J1 汇总（表1）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/tab_1_KZ2KGHKA.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
 
 ## 🔬 项目连接
   - **project-2（Mn 多铁）— 强相关**。本文核心磁性原子正是 Mn，磁性来源于 Mn–C–Mn 键角 95.22° 的超交换（Goodenough–Kanamori–Anderson 规则），与直接交换竞争后 FM 胜出。可迁移内容：(1) Mn 基二维体系中用 GGA+U（Mn 3d 取 U=4 eV，Dudarev 方案）处理强关联的参数经验；(2) 通过构建 2×1×1 超胞比较 FM/AFM 总能量、拟合最近邻海森堡模型提取 J₁ 的标准流程（公式1，ΔE = E_AFM − E_FM = 81.75 meV/cell 对应 J₁ = 6.38 meV）；(3) 磁电耦合的"铁电对称性破缺 + 铁磁时间反演破缺 → 自旋选择性电荷转移"机理，可类比到 Mn 多铁异质结中分析界面电荷重排对 Mn 价态/磁矩的影响；(4) 轨道分辨 MAE 分析方法（三角晶场下 d 轨道分裂为 |mz=0⟩、|±1⟩、|±2⟩ 三组，再用公式2判断自旋翻转项正负贡献），可直接用于判断 Mn 体系易轴翻转；(5) 通过人工缩放层间距 d_O–Sc 扫描 PDOS 演化来分离界面杂化贡献的论证技巧。
@@ -126,27 +126,36 @@ Changwei Wu, Shanwei Sun, Weiping Gong, Jiangyu Li, Xiao Wang et al.，2024，*P
   - **project-7（CDW）**：无直接项目连接。仅在二维材料/层间 vdW 相互作用描述层面有泛泛相关性，未涉及电荷密度波物理。
   - **project-1 双光子 / project-3 机械发光 NN / project-4 TTF 分子计算 / project-6 湿度传感器**：无直接项目连接。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
   - 论证按"孤立铁磁层基态 → 异质结结构与稳定性 → Pk/Pm 电子性质对比 → 电荷转移机理 → 器件原型 → 三明治增强验证 → MAE 微观解析"层层递进；用人工扫描界面距离 d_O–Sc 结合 PDOS 的方式把"现象—机理"因果链锁死，是非常干净的计算论证范式。
   - 值得复用的关键词/术语：
-    - 半金属性（half-metallicity）
-    - 双极磁性半导体（bipolar magnetic semiconductor, BMS）
-    - 超交换作用（superexchange）/ Goodenough–Kanamori–Anderson 规则
-    - 磁各向异性能（magnetic anisotropy energy, MAE）
+    - 半金属性 [[../concepts/half-metallicity|半金属性]]（half-metallicity）
+    - 双极磁性半导体 [[../concepts/bipolar-magnetic-semiconductor|双极磁性半导体]]（bipolar magnetic semiconductor, BMS）
+    - 超交换作用 [[../concepts/superexchange|超交换作用]]（superexchange）/ Goodenough–Kanamori–Anderson 规则
+    - 磁各向异性能 [[../concepts/magnetic-anisotropy-energy|磁各向异性能]]（magnetic anisotropy energy, MAE）
     - 选择性电荷转移（selective interfacial charge transfer）
     - 空间反演对称性破缺 / 时间反演对称性破缺（spatial inversion / time-reversal symmetry breaking）
     - 铁电双稳态（ferroelectric bistability）
     - 范德华多铁异质结（vdW multiferroic heterostructure）
-    - 极性金属（polar metal）
+    - 极性金属 [[../concepts/polar-metal|极性金属]]（polar metal）
 
 ## ✏️ 可写入 Wiki 的要点
   1. Hf₂MnC₂O₂ 为七层 O–Hf–C–Mn–C–Hf–O 三角反棱柱（D3d）结构，a = b = 3.24 Å，O–Hf、C–Hf、Mn–C 键长分别为 2.11、2.32、2.20 Å；Mn 为 3d⁶4s¹，失去一个电子呈高自旋 Mn⁺ d⁶，磁矩 3.54 μB（C、O、Hf 分别贡献 0.173、0.003、0.055 μB）。
-  2. Hf₂MnC₂O₂ 的 FM 比 AFM 低 81.75 meV/cell，J₁ = 6.38 meV；Mn–C–Mn 键角 95.22°，按 Goodenough–Kanamori–Anderson 规则超交换倾向 FM，并压倒 Mn–Mn 直接交换的 AFM 倾向（与 CrI₃、Mn₂Ge₂Te₆ 情形类似）。
-  3. Hf₂MnC₂O₂ 是双极磁性半导体：VBM 在 Γ 点自旋向上通道（主要为 C p），CBM 在 M 点自旋向下通道（主要为 Mn d），间接带隙 0.26 eV，可产生 100% 自旋极化电流。
-  4. Sc₂CO₂ a = 3.35 Å，间接带隙 1.93 eV，VBM 来自 C p、CBM 来自 Sc d；具有 Pk/Pm 两个能量简并的面外铁电稳态，两表面功函数差约 2.1 eV；与 Hf₂MnC₂O₂ 晶格失配 < 3.3%。
-  5. Pk 态下 Hf₂MnC₂O₂ 保持半导体（J₁ = 6.72 meV，Mn 磁矩 3.53 μB，MAE = −93 μeV/cell，面内）；Pm 态下变为半金属——自旋向下通道穿越费米能级、自旋向上通道仍有带隙，J₁ 升至 9.97 meV（摘要处写 9.67 meV），Mn 磁矩降至 3.47 μB，MAE = +47 μeV/cell，易轴翻转为面外。
-  6. 机理双对称性协同：Sc₂CO₂ 空间反演破缺给出 2.1 eV 表面功函数差和极化场；Hf₂MnC₂O₂ 时间反演破缺使两自旋通道带边非简并集。Pk 时两自旋 CB均高于 Sc₂CO₂ VB，电荷转移被抑制；Pm 时自旋向下 CB 降至 Sc₂CO₂ VB 之下，电子选择性注入自旋向下通道，使其金属化并增强 Mn d–C p 在 −1.1 至 −0.6 eV 的杂化，从而强化 FM 超交换。Pm 态下 Sc₂CO₂ 自身也转为极性金属。
-  7. 三明治 Sc₂CO₂/Hf₂MnC₂O₂/Sc₂CO₂ 四态（P1–P4）中，双 Pm 协同的 P4 态 J₁ 进一步达 11.57 meV，C1、C2 磁矩均降至 0.15 μB，半金属性最显著；P2/P3 镜像对称，J₁ = 9.76 meV。
-  8. MAE 用公式 MAE = E[100] − E[001] 定义；基于二阶微扰（公式2）分解为自旋守恒（ΔSz=0，Lz/Lx）与自旋翻转（ΔSx=±1）项。三角晶场下 d 轨道分裂为 dz²(|mz=0⟩)、(dxz,dyz)(|±1⟩)、(dx²−y²,dxy)(|±2⟩)。Pm 电荷转移使自旋向下 CB 下移、带隙减小，Mn/Hf 的 |mz=0,±1⟩ 自旋翻转项经 Lx 贡献正 MAE，超过 |±2⟩ 经 Lz 的负贡献，使易轴由面内翻为面外。
-  9. 计算细节：VASP，PAW–PBE，截断能 550 eV，力收敛 0.01 eV/Å、能量 10⁻⁵ eV（MAE 时 10⁻⁸ eV），D3 范德华修正，k 网格 17×17×1（MAE 用 31×31×1），z 方向真空 20 Å，Dudarev GGA+U（Mn U=4 eV，Sc U=2 eV）；并用 optPBE-vdW、DFT-D2 验证电子结构与 MAE 翻转结论的鲁棒性。
+  2. Hf₂MnC₂O₂ 的 FM 比 AFM 低 81.75 meV/cell，J₁ = 6.38 meV；Mn–C–Mn 键角 95.22°，按 Goodenough–Kanamori–Anderson 规则[[../concepts/superexchange|超交换]]倾向 FM，并压倒 Mn–Mn [[../concepts/direct-exchange|直接交换]]的 AFM 倾向（与 CrI₃、Mn₂Ge₂Te₆ 情形类似）。
+  3. Hf₂MnC₂O₂ 是[[../concepts/bipolar-magnetic-semiconductor|双极磁性半导体]]：VBM 在 Γ 点自旋向上通道（主要为 C p），CBM 在 M 点自旋向下通道（主要为 Mn d），间接带隙 0.26 eV，可产生 100% 自旋极化电流。
+  4. Sc₂CO₂ a = 3.35 Å，间接带隙 1.93 eV，VBM 来自 C p、CBM 来自 Sc d；具有 Pk/Pm 两个能量简并的面外铁电稳态，两表面[[../concepts/work-function|功函数]]差约 2.1 eV；与 Hf₂MnC₂O₂ 晶格失配 < 3.3%。
+  5. Pk 态下 Hf₂MnC₂O₂ 保持半导体（J₁ = 6.72 meV，Mn 磁矩 3.53 μB，MAE = −93 μeV/cell，面内）；Pm 态下变为[[../concepts/half-metal|半金属]]——自旋向下通道穿越费米能级、自旋向上通道仍有带隙，J₁ 升至 9.97 meV（摘要处写 9.67 meV），Mn 磁矩降至 3.47 μB，MAE = +47 μeV/cell，易轴翻转为面外。
+  6. 机理双对称性协同：Sc₂CO₂ 空间反演破缺给出 2.1 eV 表面功函数差和极化场；Hf₂MnC₂O₂ 时间反演破缺使两自旋通道带边非简并集。Pk 时两自旋 CB均高于 Sc₂CO₂ VB，[[../concepts/charge-transfer|电荷转移]]被抑制；Pm 时自旋向下 CB 降至 Sc₂CO₂ VB 之下，电子选择性注入自旋向下通道，使其金属化并增强 Mn d–C p 在 −1.1 至 −0.6 eV 的杂化，从而强化 FM 超交换。Pm 态下 Sc₂CO₂ 自身也转为[[../concepts/polar-metal|极性金属]]。
+  7. 三明治 Sc₂CO₂/Hf₂MnC₂O₂/Sc₂CO₂ 四态（P1–P4）中，双 Pm 协同的 P4 态 J₁ 进一步达 11.57 meV，C1、C2 磁矩均降至 0.15 μB，[[../concepts/half-metallicity|半金属性]]最显著；P2/P3 镜像对称，J₁ = 9.76 meV。
+  8. MAE 用公式 MAE = E[100] − E[001] 定义；基于二阶微扰（公式2）分解为自旋守恒（ΔSz=0，Lz/Lx）与[[../concepts/spin-flop|自旋翻转]]（ΔSx=±1）项。三角晶场下 d 轨道分裂为 dz²(|mz=0⟩)、(dxz,dyz)(|±1⟩)、(dx²−y²,dxy)(|±2⟩)。Pm 电荷转移使自旋向下 CB 下移、带隙减小，Mn/Hf 的 |mz=0,±1⟩ 自旋翻转项经 Lx 贡献正 MAE，超过 |±2⟩ 经 Lz 的负贡献，使易轴由面内翻为面外。
+  9. 计算细节：VASP，PAW–PBE，截断能 550 eV，力收敛 0.01 eV/Å、能量 10⁻⁵ eV（MAE 时 10⁻⁸ eV），D3 [[../concepts/vdw-correction|范德华修正]]，k 网格 17×17×1（MAE 用 31×31×1），z 方向真空 20 Å，Dudarev GGA+U（Mn U=4 eV，Sc U=2 eV）；并用 optPBE-vdW、DFT-D2 验证电子结构与 MAE 翻转结论的鲁棒性。
   10. 器件概念：以 Hf₂MnC₂O₂/Sc₂CO₂ 为沟道构建非易失 FET，Pk 对应 "0/OFF"（半导体高阻），Pm 对应 "1/ON"（半金属、100% 自旋极化电流）；写入只需翻转铁电极化，撤场后双稳态保持，内建电场抗热涨落，避免读取破坏。

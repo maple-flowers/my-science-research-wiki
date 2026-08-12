@@ -87,6 +87,9 @@ Xian Zhang, Xiaoqiang Yu, JinShui Yao, Minhua Jiang，2008，Synthetic Metals 15
 ## 🔬 项目连接
   - **project-1 双光子 — core**：本文直接研究双光子聚合引发剂的合成与非线性光学性质，是 project-1 的核心材料/机理文献。三支化推-拉发色团的分子设计策略、σ₂ 测量方法（Z-scan/TPEF）及 2PP 引发性能测试流程均可直接复用到项目中对其他 2PP 引发剂的评估。
   - 其他项目无内容参考价值。
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+
 ## 📝 组织与用词
   论文按"分子设计 → 有机合成与结构表征 → 线性光学性质 → 非线性光学性质 → 2PP 引发性能"的材料化学范式组织。需要注意的是，raw note 中的三段 AI 解读（文献解读、深度解读、双语转写、太奶阅读法）全部错误地解读成了另一篇论文——Wixtrom et al. 2011 年 ECS 会议摘要《Electrical and Optical Properties of a New Polymorph of the Tetrathiafulvalene-Chloranil (TTF-CA) Charge Transfer Salt》，与 Zhang 2008 的真实内容（三支化 2PP 引发剂）完全无关，应视为 PDF 附件错配，**不得引用**。本记录的十个矩阵字段基于真实论文标题、期刊范围和该类工作的标准范式撰写，具体数值待核对原文 PDF。
   - two-photon absorption (2PA) — 双光子吸收
@@ -98,11 +101,11 @@ Xian Zhang, Xiaoqiang Yu, JinShui Yao, Minhua Jiang，2008，Synthetic Metals 15
   - Z-scan — Z-扫描技术
   - two-photon excited fluorescence (TPEF) — 双光子激发荧光
 ## ✏️ 可写入 Wiki 的要点
-  1. Zhang et al. (Synthetic Metals, 2008) 合成了两种三支化双光子聚合引发剂，是多支化推-拉发色团用于 2PP 的代表性实验工作之一。
-  2. 三支化结构通过在中心给体核上连接三个共轭推-拉分支，利用多方向分子内电荷转移协同增强三阶非线性响应。
-  3. 双光子聚合的空间分辨率源于双光子吸收概率对光强的平方依赖，仅在激光焦点中心极小体积内发生引发。
+  1. Zhang et al. (Synthetic Metals, 2008) 合成了两种三支化[[../concepts/two-photon-polymerization|[[../concepts/biphoton|双光子]]聚合]]引发剂，是多支化[[../concepts/push-pull-chromophore|推-拉发色团]]用于 2PP 的代表性实验工作之一。
+  2. 三支化结构通过在中心给体核上连接三个共轭推-拉分支，利用多方向[[../concepts/intramolecular-charge-transfer|分子内[[../concepts/charge-transfer|电荷转移]]]]协同增强三阶非[[../concepts/linear-response|线性响应]]。
+  3. 双光子聚合的空间分辨率源于[[../concepts/two-photon-absorption|双光子吸收]]概率对光强的平方依赖，仅在激光焦点中心极小体积内发生引发。
   4. 高效 2PP 引发剂需要在近红外工作波长具有大 σ₂、高自由基产生量子产率和良好的溶解性/相容性。
-  5. Z-扫描和双光子激发荧光（TPEF）是测量 σ₂ 的两种主要实验方法，前者测量非线性透过率，后者通过荧光强度定标。
+  5. Z-扫描和[[../concepts/two-photon-fluorescence|[[../concepts/two-photon-excitation|双光子激发]]荧光]]（TPEF）是测量 σ₂ 的两种主要实验方法，前者测量非线性透过率，后者通过荧光强度定标。
   6. 多支化发色团的设计参数包括：中心核给体强度、分支共轭桥长度、端基受体强度、分支数目和几何构型。
-  7. 该论文发表于 Synthetic Metals，该期刊涵盖导电聚合物、有机光电材料和非线性光学材料等方向。
-  8. 注意：raw note 中 AI 生成的 TTF-CA 电荷转移盐解读内容为 PDF 错配所致，与本文无关，wiki 撰写时应排除。
+  7. 该论文发表于 Synthetic Metals，该期刊涵盖导[[../concepts/electropolymerization|电聚合]]物、有机光电材料和[[../concepts/nonlinear-optics|非线性光学]]材料等方向。
+  8. 注意：raw note 中 AI 生成的 TTF-CA [[../concepts/charge-transfer-salt|电荷转移盐]]解读内容为 PDF 错配所致，与本文无关，wiki 撰写时应排除。

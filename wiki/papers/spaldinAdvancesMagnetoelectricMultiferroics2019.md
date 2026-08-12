@@ -125,15 +125,18 @@ N. A. Spaldin & R. Ramesh et al.，2019，Nature Materials，vol. 18, pp. 203–
   - 实体 `CoFe2O4` / `BaTiO3`：垂直排列纳米复合多铁的经典磁性尖晶石/铁电钙钛矿组合。
 
 ## 📊 关键图表
-  - ![图1 多铁性家族树：d0/孤对电子铁电根与d/f电子磁性根组合形成各材料分支](../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_1_EI832AIH.png)
-  - ![图2 多铁复合结构：(a) LuFeO3/LuFe2O4原子级超晶格；(b) BaTiO3-CoFe2O4垂直纳米柱；(c) BFO应变诱导T/R混合相及R'磁性相](../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_2_S95EDSFB.png)
-  - ![图3 Bi2O3–Fe2O3相图，阴影区为预测可发现新多铁相的成分范围](../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_3_88W3KSTZ.png)
-  - ![图4 多铁畴壁功能：(a) BFO中109°畴壁原子结构；(b) 畴壁导电；(c) 忆阻I-V滞回；(d,e) ErMnO3带电畴壁极性依赖电导](../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_4_T9Q4GRTD.png)
-  - ![图5 磁电多极子：单极子（左）、环形矩（中）、四极子（右），对应磁电张量不同分量](../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_5_4ZFAN59W.png)
-  - ![图6 MESO逻辑器件结构：多铁层电场写入+逆Rashba自旋-电荷转换读出，目标<100 mV、~5 μC/cm²、1 aJ/bit](../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_6_XUH5R4R7.png)
+  - ![图1 多铁性家族树：d0/孤对电子铁电根与d/f电子磁性根组合形成各材料分支](../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_1_EI832AIH.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图2 多铁复合结构：(a) LuFeO3/LuFe2O4原子级超晶格；(b) BaTiO3-CoFe2O4垂直纳米柱；(c) BFO应变诱导T/R混合相及R'磁性相](../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_2_S95EDSFB.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图3 Bi2O3–Fe2O3相图，阴影区为预测可发现新多铁相的成分范围](../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_3_88W3KSTZ.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图4 多铁畴壁功能：(a) BFO中109°畴壁原子结构；(b) 畴壁导电；(c) 忆阻I-V滞回；(d,e) ErMnO3带电畴壁极性依赖电导](../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_4_T9Q4GRTD.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图5 磁电多极子：单极子（左）、环形矩（中）、四极子（右），对应磁电张量不同分量](../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_5_4ZFAN59W.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图6 MESO逻辑器件结构：多铁层电场写入+逆Rashba自旋-电荷转换读出，目标<100 mV、~5 μC/cm²、1 aJ/bit](../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_6_XUH5R4R7.png) -> [[../figures/electronic-devices|电子与突触器件]]
 
 ## 🔬 项目连接
 project-2 Mn多铁（本文系统讨论了SrMnO3应变诱导铁电性、Mn基钙钛矿PbMnO3等候选体系，以及含Mn的双钙钛矿铁磁有序设计，与Mn多铁项目直接相关）；其余项目无直接连接。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
   - 文章采用"总-分-总"结构，沿"基础科学（新材料与机制→BiFeO3旗舰→畴壁功能）→表征与建模方法→应用（电控磁取向/磁态→射频器件→MESO逻辑）→挑战与机遇（十大挑战）"三大支柱层层递进。
@@ -151,16 +154,16 @@ project-2 Mn多铁（本文系统讨论了SrMnO3应变诱导铁电性、Mn基钙
     - Attojoule switching（阿焦级开关）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 多铁性定义为同一相中存在两种以上初级铁性序（铁磁、铁电、铁弹、铁涡旋），现代语境通常特指兼具铁电与磁性且存在磁电耦合的材料；多铁体与磁电体有交集但不等同（如Cr2O3是磁电体但非多铁体）。
-  2. "多铁性家族树"四根系：铁电性的两个传统机制为d0性（BaTiO3中Ti⁴⁺）和孤对电子立体化学活性（BiFeO3中Bi³⁺ 6s²、PbTiO3中Pb²⁺、GeTe中Ge²⁺）；磁性的两个机制为局域f电子（稀土）和部分占据d电子（过渡金属）。未探索分支包括"非常规铁电性+f电子磁性"以及"非常规磁性（稀磁半导体、拓扑材料、SrTiO3）+常规铁电性"。
-  3. 复合多铁策略：水平超晶格（LuFeO3/LuFe2O4原子级逐层生长）、垂直排列纳米复合（CoFe2O4纳米柱外延嵌入BaTiO3，三维共格异质外延增强耦合与矫顽场）、应变诱导混合相（BFO在LaAlO3上的T/R共存，R'相磁性增强）；开放问题包括单向交换偏置、位错/反相边界磁无序、<20 nm纳米柱合成。
-  4. 新型铁电性分支：几何驱动（YMnO3氧八面体旋转耦合次级极性畸变，极化小而稳健）；电荷有序（Fe3O4在~100 K以下形成极性Verwey电荷有序态，但带隙小、漏电高、回滞差）；磁序驱动（自旋螺旋打破反演对称性，通常有序温度低，但YBaCuFeO5中化学无序可将其提升至接近室温）；规避d0要求（应变SrMnO3、负化学压力BaMnO3中部分填充d态Mn离子偏心位移）。
-  5. BiFeO3关键数据：铁电极化~90 μC/cm²，居里温度~1100 K，奈尔温度~640 K，是唯一在室温以上同时具有强铁电性与磁有序的单相材料；~5%压应变下超四方T-like相c/a增大、Fe-O近四方锥配位，极化高达~150 μC/cm²沿[001]；双轴拉伸应变（NdScO3衬底）稳定正交相，极化沿面内[110]；过去十年约6000篇论文。
+  1. [[../concepts/multiferroicity|多铁性]]定义为同一相中存在两种以上初级[[../concepts/ferroic-order|铁性序]]（铁磁、铁电、铁弹、铁涡旋），现代语境通常特指兼具铁电与磁性且存在[[../concepts/magnetoelectric-coupling|磁电耦合]]的材料；多铁体与磁电体有交集但不等同（如Cr2O3是磁电体但非多铁体）。
+  2. "多铁性家族树"四根系：[[../concepts/ferroelectricity|铁电性]]的两个传统机制为d0性（BaTiO3中Ti⁴⁺）和[[../concepts/lone-pair-electrons|孤对电子]]立体化学活性（BiFeO3中Bi³⁺ 6s²、PbTiO3中Pb²⁺、GeTe中Ge²⁺）；磁性的两个机制为局域f电子（稀土）和部分占据d电子（过渡金属）。未探索分支包括"非常规铁电性+f电子磁性"以及"非常规磁性（稀磁半导体、拓扑材料、SrTiO3）+常规铁电性"。
+  3. 复合多铁策略：水平[[../concepts/superlattice|超晶格]]（LuFeO3/LuFe2O4原子级逐层生长）、垂直排列纳米复合（CoFe2O4纳米柱外延嵌入BaTiO3，三维共格异质外延增[[../concepts/strong-coupling|强耦合]]与[[../concepts/coercive-field|矫顽场]]）、应变诱导混合相（BFO在LaAlO3上的T/R共存，R'相磁性增强）；开放问题包括单向[[../concepts/exchange-bias|交换偏置]]、位错/反相边界磁无序、<20 nm纳米柱合成。
+  4. 新型铁电性分支：几何驱动（YMnO3[[../concepts/octahedral-rotation|氧八面体旋转]]耦合次级极性畸变，极化小而稳健）；[[../concepts/charge-order|电荷有序]]（Fe3O4在~100 K以下形成极性Verwey电荷有序态，但带隙小、漏电高、回滞差）；磁序驱动（[[../concepts/spin-spiral|自旋螺旋]]打破[[../concepts/inversion-symmetry|反演对称性]]，通常有序温度低，但YBaCuFeO5中化学无序可将其提升至接近室温）；规避d0要求（应变SrMnO3、负[[../concepts/chemical-pressure|化学压力]]BaMnO3中部分填充d态Mn离子偏心位移）。
+  5. BiFeO3关键数据：铁电极化~90 μC/cm²，[[../concepts/curie-temperature|居里温度]]~1100 K，奈尔温度~640 K，是唯一在室温以上同时具有强铁电性与磁有序的单相材料；~5%压应变下超四方T-like相c/a增大、Fe-O近四方锥配位，极化高达~150 μC/cm²沿[001]；双轴拉伸应变（NdScO3衬底）稳定正交相，极化沿面内[110]；过去十年约6000篇论文。
   6. BiFeO3还展现光伏效应、光催化、光致伸缩、电致变色、气敏等非多铁直接相关物性，源于带隙区Fe-3d态（改变带隙与带边对称性）与铁电内建电场的共同作用；其表面存在不同于体相的"皮层"（skin layer）。
-  7. 畴壁功能：BFO中109°铁电畴壁宽仅1–3 nm，具有远高于体相的导电性、强忆阻滞回、磁电阻、自旋输运和光伏响应；温度低于~50 K电导增大并出现大磁电阻，暗示畴壁金属性输运可能；ErMnO3中非本征铁电相变导致头对头/尾对尾带电畴壁，尾对尾壁电导增强；TbMnO3孪晶畴壁处观察到二维铁磁相。核心开放问题是能否在畴壁内实现并调控金属-绝缘体转变。
-  8. 表征方法：PFM/(c-)AFM/MFM扫描探针兼具空间与功能分辨率；金刚石NV色心探针直接成像BFO中螺旋磁矩；像差校正电镜+EELS可识别氧原子及氧八面体旋转/倾斜；电子圆二色（波带片诱导电子束螺旋性）提取磁信息；超快同步辐射X射线与飞秒激光探测自旋-电荷耦合动力学；BFO薄膜超快极化调制发射THz辐射可直接反映极化状态，有望作为存储读出；PLD生长中原位二次谐波发生监控铁电序形成。
-  9. 理论方法层级：DFT为金标准但限于~100原子、皮秒尺度；第二性原理有效哈密顿量（含铁电畸变、八面体旋转、应变、磁矩互作用及磁-晶格耦合）可准确再现BFO晶体磁结构并模拟畴壁、异质结、纳秒极化翻转；Landau-Ginzburg热力学势含极性与反铁畸畸变及其与磁性耦合，可预测薄膜/纳米结构性质；磁电多极子（单极子、环形矩、四极子）作为同时打破空间反演与时间反演的序参量是新理论方向。
+  7. 畴壁功能：BFO中109°[[../concepts/ferroelectric-domain|铁电畴]]壁宽仅1–3 nm，具有远高于体相的导电性、强忆阻滞回、磁电阻、[[../concepts/spin-transport|自旋输运]]和光伏响应；温度低于~50 K电导增大并出现大磁电阻，暗示畴壁金属性输运可能；ErMnO3中非本征铁电相变导致头对头/尾对尾带电畴壁，尾对尾壁电导增强；TbMnO3孪晶畴壁处观察到二维铁磁相。核心开放问题是能否在畴壁内实现并调控金属-绝缘体转变。
+  8. 表征方法：PFM/(c-)AFM/MFM扫描探针兼具空间与功能分辨率；金刚石NV色心探针直接成像BFO中螺旋磁矩；[[../concepts/aberration-correction|像差校正]]电镜+EELS可识别氧原子及氧八面体旋转/倾斜；电子圆二色（波带片诱导电子束螺旋性）提取磁信息；超快同步辐射X射线与飞秒激光探测自旋-电荷耦合动力学；BFO薄膜超快极化调制发射THz辐射可直接反映极化状态，有望作为存储读出；PLD生长中原位二次谐波发生监控铁电序形成。
+  9. 理论方法层级：DFT为金标准但限于~100原子、皮秒尺度；[[../concepts/second-principles|第二性原理]][[../concepts/effective-hamiltonian|有效哈密顿量]]（含铁电畸变、八面体旋转、应变、磁矩互作用及磁-晶格耦合）可准确再现BFO晶体磁结构并模拟畴壁、异质结、纳秒[[../concepts/polarization-switching|极化翻转]]；Landau-Ginzburg热力学势含极性与反铁畸畸变及其与磁性耦合，可预测薄膜/纳米结构性质；磁电多极子（单极子、[[../concepts/toroidal-moment|环形矩]]、四极子）作为同时打破空间反演与时间反演的[[../concepts/order-parameter|序参量]]是新理论方向。
   10. 电场控磁能耗对比：自旋转移矩（STT）需~10¹¹ A/m²电流密度、~10 fJ/bit；电容式多铁器件10×10 nm²尺寸下仅~1 aJ，低四个数量级. 室温重大突破：CoFe与BFO交换耦合实现电场驱动铁磁层磁化 180° 确定性翻转（Heron et al., Nature 2014）；全氧化物 LSMO/BFO 界面可电控交换偏置但温度 <100 K；FeRh/PMN-PT中电场经压电应变驱动铁磁-反铁磁相变，伴随~25%电阻变化，但最佳工作温度约 100 °C 需降至室温。
   11. MESO器件（Manipatruni et al., Nature 2019）：多铁层用电场写入磁化（电荷→自旋），逆Rashba-Edelstein效应层读出（自旋→电荷）。两大材料瓶颈：IREE电压输出需从数百 μV 提升至数百 mV（2–3个数量级）；多铁开关电压需从~5 V降至~100 mV，对应极化~5 μC/cm²。BFO矫顽场遵循Kay-Dunn标度 E_c ∝ t^(–2/3)（t为膜厚）；La替代可降低极化从而降低开关能但尚不足；推向铁电/反铁电相界或寻找无强八面体旋转的材料是替代路径。
   12. 十大挑战——科学：①发现室温强耦合、低漏电、高剩磁新多铁材料（最高优先级）；②原子尺度设计+逐层生长合成新材料；③开发磁电耦合新机制并探索其强度极限；④理解/控制/利用动力学及动态开关极限；⑤探索多铁序在非常规超导、量子临界等涌现现象中的作用。技术：⑥10 nm尺度室温下铁电/磁序参量热稳定性；⑦开关电压降至~100 mV；⑧设计~1–5 μC/cm²小而稳定自发极化的本征铁电多铁体；⑨合成方法的集成放大、刻蚀与工艺集成；⑩长期目标达到Landauer极限 kT ln2。
-  13. 其他应用方向：电场可调铁磁共振实现射频/微波滤波器、移相器、天线（如FeGaB/PZN-PT中应变改变磁各向异性）；MERAM磁电随机存储器；电压可调磁电阻；磁场传感器。作者呼吁从基础发现转向转化研发，类比GaN-LED产业化历程，并指出BFO反铁磁净磁矩为零是根本局限，需开发高居里温度、强耦合的氧化物铁磁/亚铁磁体（尖晶石或双钙钛矿为候选）。
+  13. 其他应用方向：电场可调铁磁共振实现射频/微波滤波器、移相器、天线（如FeGaB/PZN-PT中应变改变[[../concepts/magnetic-anisotropy-energy|磁各向异性]]）；MERAM磁电随机存储器；电压可调磁电阻；磁场传感器。作者呼吁从基础发现转向转化研发，类比GaN-LED产业化历程，并指出BFO反铁磁净磁矩为零是根本局限，需开发高居里温度、强耦合的氧化物铁磁/亚铁磁体（尖晶石或双钙钛矿为候选）。

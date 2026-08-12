@@ -108,23 +108,23 @@ P. E. Blöchl，1994，Physical Review B 50(24), 17953–17979，DOI: 10.1103/Ph
 
 ## 📊 关键图表
   - 图1：Mn 原子的全电子分波（实线）、赝分波（虚线/点划线）与投影函数（s/p/d 通道），3s、3p 作为价态处理。
-  ![Mn 的分波与投影函数](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_1_MBXMFE5N.png)
+  ![Mn 的分波与投影函数](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_1_MBXMFE5N.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - 图2：Mn 原子散射性质（对数导数 D_l(ε) 随能量），单分波（虚线）价区偏差大，两分波（实线）在占据态以上约 1.5 Ry 内精确。
-  ![Mn 原子散射性质](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_2_TFC3U9WB.png)
+  ![Mn 原子散射性质](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_2_TFC3U9WB.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - 图3：Mn 原子波函数精度比较。价带能量 −8.16 eV 时 PAW 重构 AE 波函数与精确解误差 <1%；高能 +13.61 eV 时 s 波约 15% 偏差，为分波截断的典型特征。
-  ![Mn 原子波函数精度](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_3_VUN7LY3T.png)
+  ![Mn 原子波函数精度](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_3_VUN7LY3T.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
   - 图4：Fe₂ 第一性原理分子动力学能量演化。守恒能量（实线）在 0.5 ps 内漂移 <0.8 meV，无单调漂移，振动周期对应 441 cm⁻¹，证明全波函数能量守恒 MD 的可行性。
-  ![Fe2 分子动力学能量守恒](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_4_7SIKWYXK.png)
+  ![Fe2 分子动力学能量守恒](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_4_7SIKWYXK.png) -> [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
   - 图5：第一行元素及 Fe 原子总能量的平面波收敛性，30–40 Ry 达到 0.1 eV 精度。
-  ![原子总能量平面波收敛性](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_5_F273ESRL.png)
+  ![原子总能量平面波收敛性](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_5_F273ESRL.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - 图6：双原子分子结合能的平面波收敛性，30 Ry 时误差 <0.1 eV，比绝对总能量收敛更快。
-  ![结合能平面波收敛性](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_6_SXMJN2H7.png)
+  ![结合能平面波收敛性](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_6_SXMJN2H7.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - 图7：双原子分子键长的平面波收敛性，30 Ry 时键长精确到 0.02 a₀（<1%）。
-  ![键长平面波收敛性](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_7_4YR3MYMF.png)
+  ![键长平面波收敛性](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_7_4YR3MYMF.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
   - 表I：构造 PS 分波所用参数（截断参数 A=6，各原子的 ṽ_ps(0)、匹配半径等）。
-  ![表I PS分波构造参数](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/tab_6_8N64J9RS.png)
+  ![表I PS分波构造参数](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/tab_6_8N64J9RS.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - 表II：30 Ry 截断下 H₂、Li₂、Be₂、B₂、N₂、O₂、F₂、Fe₂ 等二聚体的结合能、键长、振动频率与其他全电子 LDA 计算的对比（键长偏差 <1%，频率偏差约 4%，结合能偏差 0.1–0.2 eV）。
-  ![表II 二聚体性质对比](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/tab_30_9X7NQLGJ.png)
+  ![表II 二聚体性质对比](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/tab_30_9X7NQLGJ.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
 
 ## 🔬 项目连接
   - **project-2 Mn多铁（core）**：项目子课题明确使用 VASP 做多孔 MoS₂、多层黑磷、高通量 DFT 计算，且核心材料含 Mn（BiFeO₃、HoMnO₃、Mn 基多铁）。PAW 正是 VASP 的默认电子结构表示，本文是理解 VASP 中 PAW 势、截断能选择、半芯态处理（3s/3p）、Mn/Fe 等过渡金属 d 电子为何需要两分波的原始文献，直接决定计算精度与收敛性判断，属核心方法文献。
@@ -133,28 +133,34 @@ P. E. Blöchl，1994，Physical Review B 50(24), 17953–17979，DOI: 10.1103/Ph
   - **project-4 TTF分子计算（weak）**：项目以 UFF/LAMMPS/MACE/DeepMD 分子模拟为主，涉及 TTF 有机分子（C/S/H），不直接做平面波 DFT。但若用 DFT 生成训练数据或做单点能参考，PAW 对第一行元素（C/N/O/F/S）的处理结论（一分波即可、30 Ry 收敛）有间接参考意义，故定为 weak。
   - **project-1 双光子 / project-3 机械发光NN / project-6 湿度传感器**：无直接项目连接（光学/ML/器件实验为主，不涉及平面波 DFT 电子结构方法）。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+
 ## 📝 组织与用词
   文章按"形式理论（II）→实用近似（III）→力/哈密顿量/重叠矩阵（IV）→Car-Parrinello 分子动力学（V）→分波与投影函数构造（VI）→截断误差分析与扩展（VII）→数值测试（VIII）→与现有方法比较（IX）"的总-分-总结构组织。先给最一般线性变换，再逐层落到可实现方案，最后用误差分析反向证明设计选择的合理性，并把 LAPW 与赝势分别证明为其特例/近似，完成两大流派的理论统一。
   值得复用的关键术语：
   - 投影增强波（Projector Augmented-Wave, PAW）
   - 全电子分波 / 赝分波（AE / PS partial waves）
-  - 投影函数（projector functions）
+  - 投影函数 [[../concepts/projector-functions|投影函数]]（projector functions）
   - 线性变换（linear transformation T = 1 + Σ_R T_R）
-  - 增强区域（augmentation region / muffin-tin sphere / core region）
-  - 补偿电荷密度（compensation charge density n̂）
-  - 加法缀加（additive augmentation）
-  - 冻结芯近似（frozen-core approximation）
-  - 重叠算符（overlap operator Õ，放松范数守恒的结果）
+  - 增强区域 [[../concepts/augmentation-region|增强区域]]（augmentation region / muffin-tin sphere / core region）
+  - 补偿电荷密度 [[../concepts/compensation-charge-density|补偿电荷密度]]（compensation charge density n̂）
+  - 加法缀加 [[../concepts/additive-augmentation|加法缀加]]（additive augmentation）
+  - 冻结芯近似 [[../concepts/frozen-core-approximation|冻结芯近似]]（frozen-core approximation）
+  - 重叠算符 [[../concepts/overlap-operator|重叠算符]]（overlap operator Õ，放松范数守恒的结果）
   - Pulay 力（Pulay forces，位置依赖基组拖拽电子产生的力）
 
 ## ✏️ 可写入 Wiki 的要点
-  - PAW 核心变换：|Ψ⟩ = |Ψ̃⟩ + Σ_i (|φ_i⟩ − |φ̃_i⟩) ⟨p̃_i|Ψ̃⟩，三要素为 AE 分波 |φ_i⟩、PS 分波 |φ̃_i⟩（增强区域外与 AE 分波相同）、投影函数 ⟨p̃_i|（满足 ⟨p̃_i|φ̃_j⟩=δ_ij）。
+  - PAW 核心变换：|Ψ⟩ = |Ψ̃⟩ + Σ_i (|φ_i⟩ − |φ̃_i⟩) ⟨p̃_i|Ψ̃⟩，三要素为 AE 分波 |φ_i⟩、PS 分波 |φ̃_i⟩（[[../concepts/augmentation-region|增强区域]]外与 AE 分波相同）、[[../concepts/projector-functions|投影函数]] ⟨p̃_i|（满足 ⟨p̃_i|φ̃_j⟩=δ_ij）。
   - 任意算符 A 的 PS 表示为 Ã = T†AT，形式与广义可分离赝势完全一致；PS 算符含直接作用项与两类局域投影修正项，后者在径向网格上用球谐函数与 Clebsch-Gordan 系数求值。
   - 总能量分解为 E = Ẽ + E¹ − Ẽ¹：Ẽ 在规则网格/傅里叶空间计算平滑部分，E¹、Ẽ¹ 在径向网格上做单中心 AE 与 PS 修正，相减去除双计数。
-  - 补偿电荷密度 n̂ = Σ_R n̂_R = Σ_R,L g_RL(r) Q_RL（广义高斯函数）使单中心电荷差的多极矩为零，把静电作用转移到平面波部分，并允许电荷密度平面波截断仅取波函数截断的两倍（相比 USPP 的四倍显著省算）。
+  - [[../concepts/compensation-charge-density|[[../concepts/compensation-charge|补偿电荷]]密度]] n̂ = Σ_R n̂_R = Σ_R,L g_RL(r) Q_RL（广义高斯函数）使单中心电荷差的多极矩为零，把静电作用转移到平面波部分，并允许[[../concepts/charge-density|电荷密度]]平面波截断仅取波函数截断的两倍（相比 USPP 的四倍显著省算）。
   - 实用近似仅两个：平面波截断 E_pw（典型 30 Ry）与每位点每角动量分波数（典型 1–2 个，l_max=1 或 2）；第一行元素一分波即可，过渡金属窄 d 态和半芯态需两分波。
-  - 放松范数守恒导致非平凡重叠算符 Õ = 1 + Σ_ij |p̃_i⟩(⟨φ_i|φ_j⟩−⟨φ̃_i|φ̃_j⟩)⟨p̃_j|，波函数需在 Õ 下正交化；这是 PAW/USPP 区别于范数守恒赝势的根本点。
+  - 放松范数守恒导致非平凡[[../concepts/overlap-operator|重叠算符]] Õ = 1 + Σ_ij |p̃_i⟩(⟨φ_i|φ_j⟩−⟨φ̃_i|φ̃_j⟩)⟨p̃_j|，波函数需在 Õ 下正交化；这是 PAW/USPP 区别于范数守恒赝势的根本点。
   - 力分三部分：F_R = F_R⁽¹⁾+F_R⁽²⁾+F_R⁽³⁾，分别对应平滑部分刚性位移、单中心密度形状变化（Pulay 力）、波函数正交性变化；力与总能量 must 一致才能保证 MD 能量守恒。
-  - 加法缀加原理下，AE 与 PS 分波以完全相同方式截断，未显式包含的高阶分波由平面波尾部表示，基组完备性不依赖分波数；误差分析证明芯与核的强变化势不对截断误差贡献（电荷密度可迁移性误差与能量可迁移性误差有效抵消）。
-  - 数值验证：MnFO₃（Mn +7 氧化态）冻芯与显式含半芯 3s/3p 结果几乎一致（d_MnF≈3.19–3.21 a₀，d_MnO≈2.97–2.98 a₀），与全电子计算吻合，优于赝势（高估约 2.5%）；Fe₂ 全电子 Car-Parrinello MD 能量漂移 <0.8 meV/0.5 ps，核质量重整化约 8%。
+  - [[../concepts/additive-augmentation|加法缀加]]原理下，AE 与 PS 分波以完全相同方式截断，未显式包含的高阶分波由平面波尾部表示，基组完备性不依赖分波数；误差分析证明芯与核的强变化势不对截断误差贡献（电荷密度可迁移性误差与能量可迁移性误差有效抵消）。
+  - 数值验证：MnFO₃（Mn +7 氧化态）冻芯与显式含半芯 3s/3p 结果几乎一致（d_MnF≈3.19–3.21 a₀，d_MnO≈2.97–2.98 a₀），与全电子计算吻合，优于赝势（高估约 2.5%）；Fe₂ 全电子 Car-Parrinello MD 能量漂移 <0.8 meV/0.5 ps，核[[../concepts/mass-renormalization|质量重整化]]约 8%。
   - 方法统一：LAPW 是 PAW 的特例（用球面值与导数匹配代替投影函数内积）；范数守恒赝势可通过对单中心密度偏离原子值做一阶泰勒展开从 PAW 导出；Vanderbilt 超软赝势与 PAW 形式相似但 PAW 是全电子方法（保留完整波函数、含芯态、无"赝化"步骤），且因单中心项在径向网格处理而效率更高。

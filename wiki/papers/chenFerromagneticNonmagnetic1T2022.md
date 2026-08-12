@@ -123,18 +123,23 @@ Kaiyun Chen, Junkai Deng, Dongxiao Kan, Yuan Yan, Qian Shi, Wangtu Huo, Mengshan
 
 ## 📊 关键图表
   - ![图1 (a) 1T/1T′晶体结构与结构畸变指数d₁/d₂定义；(b) VX₂、CrX₂、MnX₂各体系1T′ NM/FM CDW相相对1T相的能量对比](../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_1_A35ZUT23.png) → [[../figures/crystal-structures|晶体结构与原子排布]]
-  - ![图2 CrS₂、CrSe₂、CrTe₂在双轴应变(εx, εy)下的总能量地形图，显示NM-CDW与FM-CDW两个能谷及其间势垒（101/35.1/5.9 meV/f.u.）](../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_2_I5CNT3WX.png)
-  - ![图3 (a)(b) CrS₂ NM/FM态的DOS与分波电荷密度（NM态有Cr-Cr二聚键，FM态无）；(c) 两种形成机制示意图（二聚化 vs 直接交换→超交换）](../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_3_S4SQXJK8.png)
-  - ![图4 1T′ MnX₂的DOS与分波电荷密度，显示Mn-Mn二聚键存在但磁矩未完全淬灭](../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_4_4CKAZSB9.png)
-  - ![图5 第IV–VII族TMDs中1T′ FM/NM CDW相及其形成机制（二聚化 vs 超交换）全景图，CrX₂位于两类机制交叉点](../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_5_CKQVRHWC.png)
-  - ![图6 电荷掺杂诱导CrS₂ NM↔FM CDW可逆相变：(a)(b) 晶格常数随电子/空穴注入的滞后回线；(c) 相变能垒随掺杂浓度降低](../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_6_G7J6AFJX.png)
-  - ![表II 1T与1T′相中各原子磁矩，证实FM相中硫族原子出现反平行诱导磁矩（超交换特征）](../../raw/figures/chenFerromagneticNonmagnetic1T2022/tab_2_CETJI676.png)
+  - ![图2 CrS₂、CrSe₂、CrTe₂在双轴应变(εx, εy)下的总能量地形图，显示NM-CDW与FM-CDW两个能谷及其间势垒（101/35.1/5.9 meV/f.u.）](../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_2_I5CNT3WX.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图3 (a)(b) CrS₂ NM/FM态的DOS与分波电荷密度（NM态有Cr-Cr二聚键，FM态无）；(c) 两种形成机制示意图（二聚化 vs 直接交换→超交换）](../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_3_S4SQXJK8.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图4 1T′ MnX₂的DOS与分波电荷密度，显示Mn-Mn二聚键存在但磁矩未完全淬灭](../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_4_4CKAZSB9.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图5 第IV–VII族TMDs中1T′ FM/NM CDW相及其形成机制（二聚化 vs 超交换）全景图，CrX₂位于两类机制交叉点](../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_5_CKQVRHWC.png) -> [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+  - ![图6 电荷掺杂诱导CrS₂ NM↔FM CDW可逆相变：(a)(b) 晶格常数随电子/空穴注入的滞后回线；(c) 相变能垒随掺杂浓度降低](../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_6_G7J6AFJX.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![表II 1T与1T′相中各原子磁矩，证实FM相中硫族原子出现反平行诱导磁矩（超交换特征）](../../raw/figures/chenFerromagneticNonmagnetic1T2022/tab_2_CETJI676.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
 
 ## 🔬 项目连接
   - **project-7（CDW）— core**：本文是CDW主题的核心机理论文。系统区分了TMDs中铁磁CDW的两种形成机制（Peierls型M-M二聚化 vs 直接交换→超交换转变），提出结构畸变指数d₁/d₂作为判据，并给出CrS₂中电荷掺杂调控CDW相（NM/FM可逆相变、伴随12.17%应变）的完整DFT图像，可直接充实CDW条目的机理与调控部分。
   - **project-2（Mn多铁）— medium**：MnX₂（MnS₂/MnSe₂/MnTe₂）的1T′ FM-CDW源于Mn-Mn二聚化但磁矩未完全淬灭；论文对Cr-X-Cr/Mn-X-Mn超交换与GKA规则（键角≈90°→FM）的分析，以及磁性原子+非磁性阴离子介导磁耦合的微观图像，对理解含Mn多铁体系中的磁交换机制有方法学与物理类比价值。
   - **project-5（SnTe铁电模拟）— weak**：论文使用的DFT+CI-NEB计算相变能垒、双轴应变能量地形图、电荷（载流子）掺杂调控结构相变的计算流程，对SnTe铁电模拟中应变/掺杂调控相变的计算设计具有方法学参考意义；材料体系无直接关联。
   - project-1（双光子）、project-3（机械发光NN）、project-4（TTF分子计算）、project-6（湿度传感器）：无直接项目连接。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 
 ## 📝 组织与用词
 论文按"计算筛选（VX₂/CrX₂/MnX₂九体系）→ 机制辨析（DOS/ELF/磁矩证据区分两种FM-CDW成因）→ 外场调控（CrS₂电荷掺杂可逆相变与应变输出）"三段式推进。论证以"结构畸变指数d₁/d₂"为贯穿线索，将几何结构、磁矩分布与电子结构三类证据相互印证。值得复用的术语：
@@ -150,13 +155,13 @@ Kaiyun Chen, Junkai Deng, Dongxiao Kan, Yuan Yan, Qian Shi, Wangtu Huo, Mengshan
 
   - [[../concepts/CINEB|CINEB]]
 ## ✏️ 可写入 Wiki 的要点
-  1. TMDs的1T′相是高对称1T相的畸变产物，相邻金属原子列间距d₁≠d₂，定义d₁/d₂为结构畸变指数（<1）；NM-CDW的经典机制是Peierls畸变驱动的锯齿形M-M二聚链。
+  1. TMDs的1T′相是高对称1T相的畸变产物，相邻金属原子列间距d₁≠d₂，定义d₁/d₂为[[../concepts/structural-distortion-index|结构畸变指数]]（<1）；NM-CDW的经典机制是[[../concepts/peierls-distortion|Peierls畸变]]驱动的锯齿形M-M二聚链。
   2. VX₂/CrX₂/MnX₂九体系 DFT筛选结果：VS₂、VSe₂无稳定1T′相；VTe₂和MnX₂仅有1T′ FM-CDW；CrX₂（CrS₂/CrSe₂/CrTe₂）是唯一同时具有NM与FM两种1T′ CDW态的家族。
-  3. FM-CDW形成机制一（CrX₂、VTe₂）：1T相中Cr-Cr为直接交换（AFM）；1T′畸变后Cr-X-Cr键角≈90°、Cr 3d⁵，按GKA规则超交换稳定FM；证据是FM相中X原子出现与M反平行的诱导磁矩（如CrS₂中Cr 2.189 μB、S −0.135 μB），且无Cr-Cr二聚键，d₁/d₂≈0.8。
-  4. FM-CDW形成机制二（MnX₂）：1T′相中存在明显Mn-Mn二聚键，但Mn比VI族金属d电子更多，二聚化未能完全湮灭磁矩（Mn磁矩从1T相约2.9 μB降至1T′相约1.1 μB），故保留FM；d₁/d₂<0.7，畸变更严重。
-  5. 结构畸变指数d₁/d₂可作为区分两种FM-CDW机制的简单几何"指纹"：≈0.7–0.8对应超交换机制，<0.7对应M-M二聚化机制。
+  3. FM-CDW形成机制一（CrX₂、VTe₂）：1T相中Cr-Cr为[[../concepts/direct-exchange|直接交换]]（AFM）；1T′畸变后Cr-X-Cr键角≈90°、Cr 3d⁵，按[[../concepts/goodenough-kanamori-anderson-rules|GKA规则]][[../concepts/superexchange|超交换]]稳定FM；证据是FM相中X原子出现与M反平行的诱导磁矩（如CrS₂中Cr 2.189 μB、S −0.135 μB），且无Cr-Cr二聚键，d₁/d₂≈0.8。
+  4. FM-CDW形成机制二（MnX₂）：1T′相中存在明显Mn-Mn二聚键，但Mn比VI族金属d电子更多，[[../concepts/dimerization|二聚化]]未能完全湮灭磁矩（Mn磁矩从1T相约2.9 μB降至1T′相约1.1 μB），故保留FM；d₁/d₂<0.7，畸变更严重。
+  5. [[../concepts/structural-distortion-index|结构畸变指数d₁]]/d₂可作为区分两种FM-CDW机制的简单几何"指纹"：≈0.7–0.8对应超交换机制，<0.7对应M-M二聚化机制。
   6. CrX₂两态能量景观：双轴应变下存在NM-CDW与FM-CDW两个能谷，CrS₂中势垒约101 meV/f.u.（室温可共存），CrSe₂降至35.1 meV/f.u.，CrTe₂仅5.9 meV/f.u.；1T′ FM-CDW CrTe₂声子谱有虚频，倾向转回1T相。
   7. CrS₂ NM/FM晶格常数差异巨大：NM相a=2.994 Å、b=5.471 Å；FM相a=3.325 Å、b=5.626 Å，对应本征应变约11.05%（x）和2.81%（y）。
-  8. 电荷掺杂可逆相变：对NM-CrS₂注入电子至−0.16 e/atom时突变为FM（a从3.088→3.464 Å，b从5.617→5.950 Å，d₁/d₂从0.739跳至0.911，磁矩升至4.379 μB），输出εx≈12.17%、εy≈5.93%；反向空穴掺杂经1T相回到NM，形成滞后回线。
+  8. [[../concepts/charge-doping|电荷掺杂]]可逆相变：对NM-CrS₂注入电子至−0.16 e/atom时突变为FM（a从3.088→3.464 Å，b从5.617→5.950 Å，d₁/d₂从0.739跳至0.911，磁矩升至4.379 μB），输出εx≈12.17%、εy≈5.93%；反向空穴掺杂经1T相回到NM，形成滞后回线。
   9. CI-NEB表明无掺杂时NM→FM势垒约87.4 meV/f.u.，电子/空穴掺杂至±0.10 e/atom时势垒降至约20–26 meV/f.u.（接近室温热能~26 meV），使室温自发相变成为可能；Li插层（20%浓度约提供0.24 e/atom）或离子液体栅压可达此掺杂水平。
-  10. 该应变输出远超石墨烯/氧化石墨烯（~1–6.3%）、MoS₂（~5.8%）、MoTe₂（~3.2%）等典型二维驱动材料，为纳米致动器、电控磁自旋电子器件与多态存储提供了新材料平台；计算采用PBE/PAW，未考虑DFT+U/HSE06、温度熵贡献与非均匀掺杂效应，是其主要局限。
+  10. 该应变输出远超[[../entitys/graphene|石墨烯]]/[[../entities/graphene-oxide|氧化石墨烯]]（~1–6.3%）、MoS₂（~5.8%）、MoTe₂（~3.2%）等典型二维驱动材料，为纳米致动器、电控磁自旋电子器件与[[../concepts/multistate-memory|多态存储]]提供了新材料平台；计算采用PBE/PAW，未考虑DFT+U/HSE06、温度熵贡献与非均匀掺杂效应，是其主要局限。

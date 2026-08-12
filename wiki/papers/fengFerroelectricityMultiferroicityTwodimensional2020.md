@@ -112,13 +112,13 @@ Xukun Feng、Jian Liu、Xikui Ma、Mingwen Zhao（山东大学），2020，*Phys
 ## 📊 关键图表
   - ![图1 Sc₂P₂Se₆ 和 ScCrP₂Se₆ FE 相晶体结构（俯/侧视图，箭头为极化方向）](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_1_KNUZRZVA.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - ![图2 Berry 相位法计算的极化随 c 轴归一化位移变化（Sc₂P₂Se₆ 12.36 pC/m，ScCrP₂Se₆ 6.11 pC/m）](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_2_EBAXUVA2.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
-  - ![图3 CINEB 最小能量路径：FE-PE-FE 翻转（a,b）与 FE-AFE 相变（c,d），势垒 0.34/0.31 eV 与 0.13/0.12 eV](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_3_DRGCZ5TZ.png)
+  - ![图3 CINEB 最小能量路径：FE-PE-FE 翻转（a,b）与 FE-AFE 相变（c,d），势垒 0.34/0.31 eV 与 0.13/0.12 eV](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_3_DRGCZ5TZ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
   - ![图4 (a) FE/AFE 相下 FM、AFM1/2/3 相对能量；(b) (110) 面内角度依赖磁各向异性能](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_4_BA9J7JI8.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
-  - ![图6 外电场方向 (a) 与四态（FE-AFM/FE-FM/AFE-AFM/AFE-FM）能量随电场变化，0.82 V/Å 处发生 FE-AFM ↔ AFE-FM 切换](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_6_KSEK8MIC.png)
-  - 公式 (1) 形成能：![Eform = (E_Sc2P2Se6 − 2μSc − 2μP − 6μSe)/n](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/eq_1_8NSJ2NRV.png)
-  - 公式 (2) 形成能：![Eform = (E_ScCrP2Se6 − μSc − μCr − 2μP − 6μSe)/n](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/eq_2_RVMXSQ4R.png)
-  - 表 I AFE 相四磁序相对能量（meV）与 J1/J2/J3 交换常数（meV）：![tab_1](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/tab_1_C76XBQJN.png)；EFM=0，EAFM1=23.3、EAFM2=33.8、EAFM3=21.6；J1=0.25、J2=0.22、J3=0.08
-  - 表 II 磁各向异性能（μeV）：![tab_2](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/tab_2_XJCN8GYA.png)；FE 易轴 [010]，AFE 易轴 [111]
+  - ![图6 外电场方向 (a) 与四态（FE-AFM/FE-FM/AFE-AFM/AFE-FM）能量随电场变化，0.82 V/Å 处发生 FE-AFM ↔ AFE-FM 切换](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_6_KSEK8MIC.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - 公式 (1) 形成能：![Eform = (E_Sc2P2Se6 − 2μSc − 2μP − 6μSe)/n](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/eq_1_8NSJ2NRV.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - 公式 (2) 形成能：![Eform = (E_ScCrP2Se6 − μSc − μCr − 2μP − 6μSe)/n](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/eq_2_RVMXSQ4R.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - 表 I AFE 相四磁序相对能量（meV）与 J1/J2/J3 交换常数（meV）：![tab_1](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/tab_1_C76XBQJN.png) -> [[../figures/mathematical-models|数学模型与物理公式]]；EFM=0，EAFM1=23.3、EAFM2=33.8、EAFM3=21.6；J1=0.25、J2=0.22、J3=0.08
+  - 表 II 磁各向异性能（μeV）：![tab_2](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/tab_2_XJCN8GYA.png) -> [[../figures/mathematical-models|数学模型与物理公式]]；FE 易轴 [010]，AFE 易轴 [111]
   - 图 5（PDOS、交换路径示意、MC 磁矩-温度曲线，TC≈46 K）原笔记未附独立图片文件，见原文 Fig. 5 描述
 
 ## 🔬 项目连接
@@ -130,9 +130,18 @@ Xukun Feng、Jian Liu、Xikui Ma、Mingwen Zhao（山东大学），2020，*Phys
   - **project-6（湿度传感器）**：无直接项目连接。
   - **project-7（CDW）**：无直接项目连接。本文未涉及电荷密度波；虽 AFE 相 P1 对称性畸变与 CDW 有形式上的晶格畸变相似性，但机制不同，不构成可迁移参考。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
 文章按"数据库筛选原型 → 半取代设计多铁体 → 声子/形成能验证稳定性 → Berry 相位定量极化 → CINEB 给出 FE↔PE↔FE 与 FE↔AFE 势垒 → 四磁序对比锁定 FE-AFM/AFE-FM → PDOS 与 J 常数揭示超交换机制 → MAE 保障二维长程磁序 → MC 估 TC≈46 K → 外电场演示 0.82 V/Å 临界切换"的递进链条组织；引言以 d⁰ 规则立靶，结论以自旋-晶格-电荷耦合回应。值得复用的术语：
-  - d⁰ rule / d⁰ 规则
+  - d⁰ rule / d⁰ 规则 [[../concepts/d0-rule|d⁰ 规则]]
   - [[../concepts/out-of-plane-polarization|out-of-plane ferroelectric polarization / 面外铁电极化]]
   - antiferroelectric ([[../concepts/antiferroelectricity|AFE]]) / 反铁电
   - [[../concepts/spin-lattice-charge-coupling|spin–lattice–charge coupling / 自旋-晶格-电荷耦合]]
@@ -143,13 +152,13 @@ Xukun Feng、Jian Liu、Xikui Ma、Mingwen Zhao（山东大学），2020，*Phys
 
   - [[../concepts/d0-rule|d0-rule]]
 ## ✏️ 可写入 Wiki 的要点
-  1. Sc₂P₂Se₆ 单层（P31m，a=6.683 Å）面外铁电极化源于 P 原子垂直翘曲（半数 P 凸出 Se 面），而非 CuInP₂S₆ 中 Cu 离子位移机制；Sc³⁺ 大离子半径导致 P 无法稳定在平面内，破缺反演对称性。
+  1. Sc₂P₂Se₆ 单层（P31m，a=6.683 Å）面外铁电极化源于 P 原子垂直翘曲（半数 P 凸出 Se 面），而非 CuInP₂S₆ 中 Cu 离子位移机制；Sc³⁺ 大离子半径导致 P 无法稳定在平面内，破缺[[../concepts/inversion-symmetry|反演对称性]]。
   2. 极化值：Sc₂P₂Se₆ 为 12.36 pC/m（取厚度 4.0 Å 等效 3.09 μC/cm²），ScCrP₂Se₆ 为 6.11 pC/m（1.53 μC/cm²）；与 Sc₂CO₂（1.60 μC/cm²）相当，比 CuInP₂Se₆（0.322 μC/cm²）、AgBiP₂Se₆（0.2 μC/cm²）大约一个数量级。
-  3. FE-PE-FE 翻转势垒为 0.34 eV/f.u.（Sc₂P₂Se₆）和 0.31 eV/f.u.（ScCrP₂Se₆），远高于 α-In₂Se₃ 的 0.057 eV/f.u.；FE-AFE 势垒为 0.13/0.12 eV/f.u.，AFE 比 FE 低 0.1–0.14 eV/f.u.，FE 是稳健亚稳态，室温下不会自发转为 AFE。
-  4. 形成能分别为 −0.922 和 −0.587 eV/atom，声子谱无虚频；ScCrP₂Se₆ 多种 Cr 分布构型能量差 < 0.01 eV/atom，均存在面外极化与自旋极化共存。
+  3. FE-PE-FE [[../concepts/switching-barrier|翻转势垒]]为 0.34 eV/f.u.（Sc₂P₂Se₆）和 0.31 eV/f.u.（ScCrP₂Se₆），远高于 α-In₂Se₃ 的 0.057 eV/f.u.；FE-AFE 势垒为 0.13/0.12 eV/f.u.，AFE 比 FE 低 0.1–0.14 eV/f.u.，FE 是稳健[[../concepts/metastability|亚稳态]]，室温下不会自发转为 AFE。
+  4. [[../concepts/formation-energy|形成能]]分别为 −0.922 和 −0.587 eV/atom，声子谱无虚频；ScCrP₂Se₆ 多种 Cr 分布构型能量差 < 0.01 eV/atom，均存在面外极化与自旋极化共存。
   5. ScCrP₂Se₆（P3，a=6.535 Å；AFE 相 P1，a=6.303 Å，b=11.651 Å）每个 Cr³⁺ 携 3 μB 局域磁矩；FE 相间接带隙 0.27 eV，AFE 相 0.54 eV，PE 态金属性且不稳定。
-  6. 磁电耦合核心：FE 相 Cr–Se–Se–Cr 路径上 Se p 与 Cr d 在 EF 附近重叠弱，间接交换弱，直接交换主导 → AFM（EAFM−EFM=−4.3 meV/f.u.）；AFE 相晶格畸变缩短/改变 Cr–Se 距离，p-d 杂化增强，超交换（J1=0.25、J2=0.22、J3=0.08 meV，均为正即 FM）主导 → FM。
+  6. [[../concepts/magnetoelectric-coupling|磁电耦合]]核心：FE 相 Cr–Se–Se–Cr 路径上 Se p 与 Cr d 在 EF 附近重叠弱，间接交换弱，[[../concepts/direct-exchange|直接交换]]主导 → AFM（EAFM−EFM=−4.3 meV/f.u.）；AFE 相晶格畸变缩短/改变 Cr–Se 距离，p-d 杂化增强，[[../concepts/superexchange|超交换]]（J1=0.25、J2=0.22、J3=0.08 meV，均为正即 FM）主导 → FM。
   7. MAE 为 7.2–195.7 μeV/Cr，大于立方 Fe/Ni（0.4–5 μeV），足以支撑二维长程磁序；FE-AFM 易轴沿 [010]（垂直于极化方向），AFE-FM 易轴沿 [111]。
-  8. 海森堡哈密顿量 H = H₀ − J₁ΣMᵢMⱼ − J₂ΣMₖMₗ − J₃ΣMₘMₙ；MC 用 50×25 超胞（2500 磁位）、每温度 10⁹ 步，得 AFE-FM 相居里温度约 46 K，与 CrI₃ 单层（45 K）相当。
+  8. 海森堡哈密顿量 H = H₀ − J₁ΣMᵢMⱼ − J₂ΣMₖMₗ − J₃ΣMₘMₙ；MC 用 50×25 超胞（2500 磁位）、每温度 10⁹ 步，得 AFE-FM 相[[../concepts/curie-temperature|居里温度]]约 46 K，与 CrI₃ 单层（45 K）相当。
   9. 外电场沿极化方向时 FE 与 AFE 能量均呈二次关系，FE 相能量随电场变化更显著；E=0.82 V/Å 时最低能态由 FE-AFM 切换为 AFE-FM，静态下磁交换能本身几乎不随电场变化，切换由静电能驱动。
   10. 计算设置：VASP、PAW、PBE、GGA+U（U−J=3 eV）、500 eV 截断、10⁻⁵ eV 收敛、力 < 0.01 eV/Å、7×7×1 k 网格、>20 Å 真空、Grimme D2、Phonopy 有限位移、Berry 相位、CINEB；可作为二维铁电/多铁 DFT 研究的标准模板。

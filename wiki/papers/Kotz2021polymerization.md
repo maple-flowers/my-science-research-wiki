@@ -90,6 +90,9 @@ Kotz, Quick, Risch, Martin, Hoose, Thiel, Helmer, Rapp et al.，2021，*Advanced
   - **project-1 双光子 — core（核心）**：本文直接是双光子聚合（2PP/TPP）方法学论文，标题即点明 "Two-Photon Polymerization of Nanocomposites"。对 project-1 的参考价值包括：（1）2PP 在高负载无机纳米颗粒复合树脂中的工艺窗口与分辨率表现；（2）纳米颗粒引发的散射、双光子吸收与焦点畸变对写分辨率的影响；（3）复合树脂配方（单体、光引发剂、SiO₂ 纳米颗粒负载量）这一与"双光子聚合引发剂"直接相关的材料设计；（4）聚合后收缩/烧结收缩对最终结构尺寸的影响，是 2PP 写微光学器件时必须建模的环节。笔记在 Zotero 中的分类正是"01_双光子聚合引发剂 (2PP Initiators)"，与 project-1 高度一致，判定为 **core**。
   - project-2 Mn 多铁 / project-3 机械发光NN / project-4 TTF分子计算 / project-5 SnTe铁电模拟 / project-6 湿度传感器 / project-7 CDW：无直接项目连接（材料体系、物理机制与计算流程均不相关，仅在"三维微纳结构加工"这一通用层面有微弱形式类比，不构成参考价值）。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+
 ## 📝 组织与用词
   文章按"问题—材料/工艺链—表征—器件展示"的工艺论文逻辑展开：先指出玻璃微纳加工缺乏真三维亚微米手段，再给出"复合树脂制备 → 2PP 直写 → 显影 → 热脱脂 → 高温烧结"完整流程，然后以 SEM 和光学表征证明致密化、收缩与透明性，最后用木堆结构、微透镜/光子结构等展示器件级能力。值得在 wiki 叙述中复用的关键术语：
   - Two-photon polymerization (2PP/TPP) — 双光子聚合
@@ -103,11 +106,11 @@ Kotz, Quick, Risch, Martin, Hoose, Thiel, Helmer, Rapp et al.，2021，*Advanced
   - Micro-optics — 微光学
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 双光子聚合可用于含无定形 SiO₂ 纳米颗粒的光敏复合树脂，制造三维亚微米聚合物/陶瓷复合坯体。
-  2. 坯体经热脱脂去除有机单体后，在约 1300 °C 烧结，可致密化为透明熔融石英玻璃，材料性能接近本体熔融石英。
+  1. [[../concepts/two-photon-polymerization|[[../concepts/biphoton|双光子]]聚合]]可用于含无定形 SiO₂ 纳米颗粒的光敏复合树脂，制造三维亚微米[[../concepts/polymer-phase-separation|聚合物]]/陶瓷复合坯体。
+  2. 坯体经[[../concepts/debinding|热脱脂]]去除有机单体后，在约 1300 °C 烧结，可致密化为透明[[../concepts/fused-silica-glass|熔融石英玻璃]]，材料性能接近本体熔融石英。
   3. 烧结带来显著但各向同性的体积/线收缩，使最终玻璃特征尺寸缩小到亚微米（数百纳米）量级，反而提高了写分辨率。
-  4. 该工艺把玻璃 3D 打印的分辨率从十微米量级推进到亚微米/衍射极限以下，可制备真三维任意形貌玻璃微结构。
-  5. 应用展示包括木堆（woodpile）三维光子结构、微透镜/微光学元件、玻璃微流控等，证明其在光子学与微光学中的可用性。
+  4. 该工艺把玻璃 3D 打印的分辨率从十微米量级推进到亚微米/[[../concepts/diffraction-limit|衍射极限]]以下，可制备真三维任意形貌玻璃微结构。
+  5. 应用展示包括木堆（woodpile）三维光子结构、微透镜/[[../concepts/micro-optics|[[../concepts/micro-optics|微光学]]元件]]、玻璃微流控等，证明其在光子学与微光学中的可用性。
   6. 复合树脂中高体积分数纳米颗粒会引起光学散射，对 2PP 的焦点形状与写分辨率有影响，是配方与工艺优化的关键。
   7. 该工作是 Glassomer / Rapp 组把纳米复合玻璃料从模塑/DLP 扩展到 2PP 的代表性工作，发表于 *Advanced Materials* 33(9), 2021，DOI 10.1002/adma.202170062。
   8. 对 project-1（双光子）而言，本文提供了"2PP 引发剂/复合树脂配方—写参数—后烧结收缩"完整可复用工艺链，可作为纳米复合功能材料 2PP 方向的奠基性方法文献引用。

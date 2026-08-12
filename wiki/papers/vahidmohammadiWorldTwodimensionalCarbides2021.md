@@ -111,6 +111,11 @@ VahidMohammadi, Rosen, Gogotsi，2021，Science，DOI 10.1126/science.abf1581
   - **project-2 Mn 多铁（weak）**：作者明确提到理论预测的铁磁性 MXene 以及拓扑绝缘/磁性 MXene 的前景，可作为二维磁性/多铁候选材料的旁支参考；但全文未讨论 Mn 体系或磁电耦合，故 weak。
   - project-1 双光子、project-3 机械发光 NN、project-4 TTF 分子计算、project-6 湿度传感器：无直接项目连接。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+
 ## 📝 组织与用词
 文章以"BACKGROUND → ADVANCES → OUTLOOK"三段式组织，先把 MXenes 置于二维材料合成范式转变的背景下（不需范德华前驱体），再按电子/光学/化学/力学/电化学性能与应用铺开，最后以挑战—方向成对的方式给出展望。值得在 wiki 中复用的术语：
   - MXene（M_{n+1}X_nT_x，二维过渡金属碳/氮/碳氮化物）
@@ -124,12 +129,12 @@ VahidMohammadi, Rosen, Gogotsi，2021，Science，DOI 10.1126/science.abf1581
 
 ## ✏️ 可写入 Wiki 的要点
   1. MXenes 通式 M_{n+1}X_nT_x，n=1–4，对应 M_2X、M_3X_2、M_4X_3、M_5C_4，分别含 3、5、7、9 个原子层；金属 M 层夹 C/N（X）层，表面带 T_x 终端。
-  2. 2011 年 Ti_3C_2 首次报道；截至 2021 年已合成数十种组分，理论可能组分 >100，叠加表面终端、碳氮化物与固溶体后组分空间再增加约一个数量级。
-  3. MXenes 由 MAX 相经选择性蚀刻 A 族元素层制得，证明二维材料合成不必依赖范德华键合层状前驱体。
+  2. 2011 年 Ti_3C_2 首次报道；截至 2021 年已合成数十种组分，理论可能组分 >100，叠加[[../concepts/surface-termination|表面终端]]、碳氮化物与固溶体后组分空间再增加约一个数量级。
+  3. MXenes 由 [[../concepts/max-phase|MAX 相]]经[[../concepts/selective-etching|选择性蚀刻]] A 族元素层制得，证明[[../concepts/2D-materials|二维材料]]合成不必依赖范德华键合层状前驱体。
   4. 双金属有序 MXenes 分两类：面内有序 i-MXene 与面外有序 o-MXene，是扩展组分与性能的重要结构自由度。
-  5. 与以介电/半导体/半金属为主的传统二维材料不同，MXenes 主要为金属性导体，填补了二维高电导构件的空白，催生"MXetronics"概念。
+  5. 与以介电/半导体/[[../concepts/half-metal|半金属]]为主的传统二维材料不同，MXenes 主要为金属性导体，填补了二维高电导构件的空白，催生"MXetronics"概念。
   6. MXenes 具有电化学/化学可调的等离子体性质，带间跃迁与等离激元共振覆盖紫外-可见-近红外全波段，可用于电致变色与光热治疗。
-  7. MXenes 在 THz–GHz 频段与电磁波强耦合，被用于电磁干扰屏蔽与通信/天线；表面氧化还原活性赋予其电池、超级电容器与电催化储能能力。
-  8. MXene 表面电荷使其可不加表面活性剂/黏结剂在水中加工并形成液晶；层间可控间距用于气体分离、水净化与透析；有机分子、聚合物、离子可插层调谐性能。
-  9. 未来关键挑战：氮化物 MXene 合成滞后；需开发气相合成以适配芯片微加工；需大规模、环境友好合成；需精确控制缺陷、应变与表面化学以实现理论预测的本征半导体、拓扑绝缘、铁磁性 MXene。
+  7. MXenes 在 THz–GHz 频段与电磁波[[../concepts/strong-coupling|强耦合]]，被用于电磁干扰屏蔽与通信/天线；表面氧化还原活性赋予其电池、超级电容器与[[../concepts/electrocatalysis|电催化]]储能能力。
+  8. MXene 表面电荷使其可不加表面活性剂/黏结剂在水中加工并形成液晶；层间可控间距用于气体分离、水净化与透析；有机分子、[[../concepts/polymer-phase-separation|聚合物]]、离子可插层调谐性能。
+  9. 未来关键挑战：氮化物 MXene 合成滞后；需开发气相合成以适配芯片微加工；需大规模、环境友好合成；需精确控制缺陷、应变与表面化学以实现理论预测的本征半导体、拓扑绝缘、[[../concepts/ferromagnetism|铁磁性]] MXene。
   10. 作者认为最令人兴奋的前景是 MXene 与其他二维材料通过溶液自组装构筑异质结构与器件，代表了二维材料从单一材料走向混合集成的方向。

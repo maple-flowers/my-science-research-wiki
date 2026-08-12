@@ -10,7 +10,7 @@ tags: [entity, computational-tools, DFT, first-principles]
 
 ## 1. 核心优势与技术特色
 
-- **密度泛函微扰理论 (DFPT)**：QE 的核心组件 `PHonon` 是其区别于 VASP 等软件的关键优势。它允许在布里渊区的任意 $q$ 点直接计算声子频率和本征矢量，是识别 [[../concepts/phonon-soft-mode|声子软模]] 和研究 [[../concepts/charge-density-wave|电荷密度波 (CDW)]] 机制的首选工具。
+- **密度泛函微扰理论 (DFPT)**：QE 的核心组件 `PHonon` 是其区别于 VASP 等软件的关键优势。它允许在布里渊区的任意 $q$ 点直接计算声子频率和本征矢量，是识别 [[../concepts/soft-mode|声子软模]] 和研究 [[../concepts/charge-density-wave|电荷密度波 (CDW)]] 机制的首选工具。
 - **电-声相互作用**：配合 [[EPW|EPW]] 代码，QE 可以通过 Wannier 插值精确处理全布里渊区的电声耦合矩阵元，从而预测 [[../concepts/anisotropic-superconductivity|各向异性超导]] 性质。
 - **丰富的关联泛函**：支持 LDA、GGA (PBE/PBEsol)、DFT+U、vdW-DF 等，能够处理关联电子体系及范德华力主导的二维材料。
 - **高性能并行**：针对大规模集群优化，支持包含数百个原子的复杂超胞计算。

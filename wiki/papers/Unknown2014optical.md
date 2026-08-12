@@ -12,10 +12,19 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Unknown2014optical]]
 projects: [project-6]
-concepts: []
-entities: []
+concepts:
+  - fabry-perot-interferometer
+  - fiber-optic-humidity-sensor
+  - fringe-contrast
+  - layer-by-layer-self-assembly
+entities:
+  - PAH-PSS-multilayer
+  - hollow-core-photonic-crystal-fiber
 methods: [tem]
-materials: []
+materials:
+  - PAH
+  - PSS
+  - optical-fiber
 figures: [experimental-setups, optical-spectra]
 领域基础知识:: >-
   光纤传感技术利用光在光纤中传播的特性，实现对外界物理、化学或生物量的测量。其优势在于抗电磁干扰、体积小、耐腐蚀和可远程分布式测量。法布里-珀罗干涉仪（F-P）是一种由两个平行反射面构成的光学谐振腔，当光在其中多次反射并发生干涉，输出的光谱对腔长和腔内介质折射率的变化极其敏感，是构建高精度传感器的理想结构。
@@ -71,6 +80,9 @@ Qingmei Sui, Mingshun Jiang*, Zhongwei Jin, Faye Zhang, Yuqiang Cao, Lei Jia（�
 ## 🔬 项目连接
 project-6 湿度传感器（直接对应，IFPI+LbL PAH/PSS 光纤 RH 传感器原型，可作为该项目的器件结构、敏感材料和性能基准参考）
 
+## 🔗 项目双链
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+
 ## 📝 组织与用词
 论文按"原理建模 → 结构与材料设计 → 纳米涂层制备与表征 → 静态/动态/温度实验 → 结论"的经典应用研究线性范式展开；先建立四反射面（M1–M4）复合 F-P 腔的反射电场叠加公式，将湿度→薄膜折射率 nf→反射系数 R3/R4→条纹对比度这一传感链条理论化，再以镀膜前后光谱对比（19.08→13.61 dB）证实成膜，最后系统给出静态灵敏度、动态响应时间和温度稳定性三类性能数据。值得在 wiki 中复用的关键词/术语：
   - 本征法布里-珀罗干涉仪 / intrinsic Fabry-Perot interferometer (IFPI)
@@ -83,13 +95,13 @@ project-6 湿度传感器（直接对应，IFPI+LbL PAH/PSS 光纤 RH 传感器�
   - 石英晶体微天平 / quartz crystal microbalance (QCM)
 
 ## ✏️ 可写入 Wiki 的要点
-  1. **器件结构**：IFPI 由一段 30 μm 长的 HCPCF 熔接在两段单模光纤（SMF，后段长 600 μm）之间构成"SMF–HCPCF–SMF"夹心结构，形成空芯腔（L1）、SMF 腔（L2）和端面薄膜腔（L3）三个腔及四个反射面 M1–M4；HCPCF 靠光子带隙导光，等效折射率 nh=1。
+  1. **器件结构**：IFPI 由一段 30 μm 长的 HCPCF 熔接在两段单模光纤（SMF，后段长 600 μm）之间构成"SMF–HCPCF–SMF"夹心结构，形成空芯腔（L1）、SMF 腔（L2）和端面薄膜腔（L3）三个腔及四个反射面 M1–M4；HCPCF 靠光子带隙导光，等效[[../concepts/refractive-index|折射率]] nh=1。
   2. **反射系数公式**：R1=R2=(nh−n0)²/(nh+n0)²；R3=(nh−nf)²/(nh+nf)²；R4=(nf−ne)²/(nf+ne)²；总反射电场 Er 为四个面一阶反射场之和（含传播相位 e^{−j2βL}、M2 处 π 相移、A1–A3 传输损耗），总光强 Itotal=|Er/Ei|²。
-  3. **温度/功率不敏感机理**：Itotal 是反射场与入射场之比，与输入光功率无关；光纤（SiO₂）热膨胀系数和热光系数极小，因此以对比度为解调量时无需温度补偿，20–100 °C、40%RH 下对比度波动 <0.01 dB。
+  3. **温度/功率不敏感机理**：Itotal 是反射场与入射场之比，与输入光功率无关；光纤（SiO₂）热膨胀系数和热光系数极小，因此以对比度为解调量时无需[[../concepts/temperature-compensation|温度补偿]]，20–100 °C、40%RH 下对比度波动 <0.01 dB。
   4. **湿敏机理**：水蒸气浓度升高→水分子吸附在 PAH/PSS 膜表面并扩散→含湿膜整体折射率 nf 低于脱气干膜→R3、R4 改变→反射光谱条纹对比度单调下降（5%RH 时约 13.4 dB，90%RH 时约 12.7 dB）；理论上膜厚 L3 溶胀也会影响反射率，但作者未单独区分。
   5. **LbL 制备工艺**：光纤端面先用 piranha 溶液（浓 H₂SO₄:30% H₂O₂ = 7:3 v/v）清洗获得负电表面；交替浸入 PAH（Mw=70 kg/mol，正电）和 PSS（Mw=70 kg/mol，负电）溶液，每次室温 10 min，聚阳离子/聚阴离子之间用去离子水冲洗 3×1 min 并 N₂ 吹干；沉积 15 个双层；QCM 监测显示膜厚随双层数线性增长，平均 4 nm/双层（5→15 双层约 20→60 nm）。
   6. **成膜验证**：镀膜前最大条纹对比度 19.08 dB，镀膜后（35%RH 环境）降至 13.61 dB，对比度下降主要由新增反射面 M3、M4 引起的多光束能量重新分配所致，证实纳米涂层成功沉积。
   7. **静态性能**：在 5–90%RH 范围内灵敏度 0.08 dB/%RH；MOI SM130 光学分析仪强度分辨率 0.01 dB，对应 RH 分辨率约 0.125%；同一 RH 下 10 min 测量内对比度漂移极小，三条不同时间测量曲线几乎重合，重复性和稳定性良好。
   8. **动态响应**：光谱仪以 1 kHz 扫描；RH 上升（吸附）响应时间 2 s，RH 下降（解吸）响应时间 6 s；不对称性归因于水分子扩散进入纳米薄膜快、克服氢键/范德华力脱附慢；可通过纳米多孔膜或更薄膜缩短响应时间，但会以牺牲灵敏度为代价。
   9. **平台与校准**：有机玻璃湿度腔通过两路压力阀分别控制干空气和湿空气比例调湿；以商用 Rotronix HygroFlex2 电容式湿度计作参考校准；反射光谱由 MOI SM130 采集、计算机实时监测。
-  10. **可拓展方向与局限**：更换不同功能薄膜（PDDA/PSS、TiO₂ 纳米颗粒等作者前期工作用于折射率测量；气体敏感膜可测 H₂/CH₄/VOCs；应力膜可测压力/声波）可将该 F-P 端面平台推广为多参量传感器；论文未做长期老化/循环稳定性、气体交叉敏感性和不同湿度下的温度串扰测试，且灵敏度-响应时间存在 trade-off。
+  10. **可拓展方向与局限**：更换不同功能薄膜（PDDA/PSS、TiO₂ 纳米颗粒等作者前期工作用于折射率测量；气体敏感膜可测 H₂/CH₄/VOCs；应力膜可测压力/声波）可将该 F-P 端面平台推广为多参量传感器；论文未做长期老化/循环稳定性、气体[[../concepts/cross-sensitivity|交叉敏感]]性和不同湿度下的温度串扰测试，且灵敏度-响应时间存在 trade-off。

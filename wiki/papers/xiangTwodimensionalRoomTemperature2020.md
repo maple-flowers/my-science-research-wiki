@@ -91,26 +91,30 @@ Hongjun Xiang，2020，National Science Review 7(12): 1844–1845，DOI 10.1093/
   - **project-2（Mn 多铁）— strong**：本文直接讨论多铁性材料中磁电耦合的物理机制。所评述的"极化驱动轨道偏移 + 层间耦合梯度稳定铁磁并实现电写磁读"机制，为 Mn 基多铁材料中电调控磁序提供可类比的物理图像；d⁰/dⁿ 化学矛盾、Type-I/Type-II 多铁体分类也是项目叙述的基础背景。
   - **project-5（SnTe 铁电模拟）— medium**：CuCrX₂ 与 SnTe 同属二维铁电体系，本文涉及的二维极限下铁电翻转、层间工程、DFT 预测思路以及"铁电翻转动力学需更直接模拟"的方法论提醒，对 SnTe 铁电模拟的计算设置与物理讨论有方法参考价值；但材料体系与铁电起源不同（SnTe 为孤对电子驱动，CuCrX₂ 为插层/位移驱动），故为 medium。
   - 其余项目（project-1 双光子、project-3 机械发光 NN、project-4 TTF 分子计算、project-6 湿度传感器、project-7 CDW）无直接内容参考价值。
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+
 ## 📝 组织与用词
 文章为典型 Research Highlights 评论结构——"传统困境（d⁰ vs dⁿ）→ 二维新思路 → Zhong 等的具体预测（三层/四层模型数据）→ 意义与待验证问题"，一段成文、引用 9 篇文献。值得复用的术语：
   - multiferroics / 多铁性材料
   - [[../concepts/ferroelectricity|ferroelectricity]] (FE) / 铁电性
   - [[../concepts/ferromagnetism|ferromagnetism]] (FM) / 铁磁性
   - magnetoelectric (ME) coupling / 磁电耦合
-  - [[../concepts/type-i-multiferroic|type-I / type-II multiferroics / 第一类/第二类多铁体]]
+  - [[../concepts/type-i-multiferroics|type-I / type-II multiferroics / 第一类/第二类多铁体]]
   - [[../concepts/curie-temperature|Curie temperature / 居里温度]]
   - [[../concepts/polarization-switching|polarization switching / 极化翻转]]
   - [[../concepts/interlayer-coupling-gradient|interlayer coupling gradient / 层间耦合梯度]]
-  - electrical writing + magnetic reading / 电写磁读
+  - electrical writing + magnetic reading / 电写磁读 [[../concepts/electric-write-magnetic-read|电写磁读]]
   - Cu-intercalated CrS₂ / 铜插层二硫化铬
   - [[../concepts/electric-write-magnetic-read|electric-write-magnetic-read]]
 ## ✏️ 可写入 Wiki 的要点
   1. 传统单相多铁材料罕见的化学根源：铁电序要求阳离子空 d 壳层（d⁰，如 Ti⁴⁺），磁序要求部分填充 d 壳层（dⁿ，如 Fe³⁺），二者互斥。
-  2. Type-I 多铁体中铁电与磁性来源不同，磁电耦合弱；Type-II 多铁体中铁电由磁有序诱导，耦合较强但自旋驱动的极化通常 <0.01 C/m²、居里温度大多 <150 K，难以实用。
-  3. Zhong 等（Natl Sci Rev 2020, 7:373–80）预测二维薄层 CuCrX₂（X=S, Se）的铁磁与铁电居里温度均高于室温；铁磁性由增强的载流子密度和极化驱动的轨道位移（polarization-driven orbital shifting）共同稳定。
+  2. Type-I 多铁体中铁电与磁性来源不同，[[../concepts/magnetoelectric-coupling|磁电耦合]]弱；Type-II 多铁体中铁电由磁有序诱导，耦合较强但自旋驱动的极化通常 <0.01 C/m²、[[../concepts/curie-temperature|居里温度]]大多 <150 K，难以实用。
+  3. Zhong 等（Natl Sci Rev 2020, 7:373–80）预测二维薄层 CuCrX₂（X=S, Se）的铁磁与铁电居里温度均高于室温；[[../concepts/ferromagnetism|铁磁性]]由增强的载流子密度和极化驱动的轨道位移（polarization-driven orbital shifting）共同稳定。
   4. 相邻层间耦合参数的梯度（gradient of interlayer coupling parameter）使不同厚度薄膜呈现多样的磁电层类型。
   5. 三层 Cu 插层 CrS₂（Cu₂(CrS₂)₃）面内铁电、垂直方向亚铁磁，净磁矩 2.62 μB/f.u.；极化向下时中间层与下层 AFM 耦合、与顶层 FM 耦合，极化向上时中间层磁矩反转，从而实现 2.62 μB/f.u. 净磁矩的 180° 反转。
-  6. 四层 Cu₃(CrS₂)₄ 上两层 FM 耦合、与下两层 AFM 耦合，净磁矩较小为 0.35 μB/f.u.，但同样可通过极化翻转反转磁化方向；层数可调控净磁矩大小。
-  7. 铁电翻转过程中能带结构中自旋向上与自旋向下通道发生交换（swapping of spin-up and spin-down channels），构成"电写磁读"新型存储架构的物理基础。
-  8. 向红军指出该工作的意义在于开辟二维室温铁磁-铁电强耦合多铁体新路径，并激发更多二维体系多铁性研究；待解决问题包括实验合成验证以及对铁电翻转动力学过程的更直接模拟（如确认磁矩在翻转瞬间是否完全跟随）。
+  6. 四层 Cu₃(CrS₂)₄ 上两层 FM 耦合、与下两层 AFM 耦合，净磁矩较小为 0.35 μB/f.u.，但同样可通过[[../concepts/polarization-switching|极化翻转]]反转磁化方向；层数可调控净磁矩大小。
+  7. 铁电翻转过程中能带结构中自旋向上与自旋向下通道发生交换（swapping of spin-up and spin-down channels），构成"[[../concepts/electric-write-magnetic-read|电写磁读]]"新型存储架构的物理基础。
+  8. 向红军指出该工作的意义在于开辟二维室温铁磁-铁电[[../concepts/strong-coupling|强耦合]]多铁体新路径，并激发更多二维体系[[../concepts/multiferroicity|多铁性]]研究；待解决问题包括实验合成验证以及对铁电翻转动力学过程的更直接模拟（如确认磁矩在翻转瞬间是否完全跟随）。
   9. 本文为评论/展望文章（perspective），非原创计算或实验工作；所引数据均来自 Zhong et al., Natl Sci Rev 2020, 7:373–80。

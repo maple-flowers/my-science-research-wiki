@@ -91,7 +91,7 @@ Mahé Lezoualc'H，2025，Université Paris-Saclay 博士论文（NNT 2025UPASP0
   - 概念 [[../concepts/fermi-surface-nesting|费米面嵌套]]
   - 概念 [[../concepts/intercalation|插层]]
   - 概念 [[../concepts/peierls-transition|Peierls相变]]
-  - 概念 [[../concepts/phonon-soft-mode|声子软模]]
+  - 概念 [[../concepts/soft-mode|声子软模]]
   - 实体 [[../entities/TMDs]]
   - 实体 [[../entities/VSe2|二硒化钒 VSe₂]]
   - 实体 [[../entities/VTe2|二碲化钒 VTe₂]]
@@ -114,7 +114,7 @@ Mahé Lezoualc'H，2025，Université Paris-Saclay 博士论文（NNT 2025UPASP0
   - ![论文图1](../../raw/figures/lezoualchStudyChargeDensity/fig_1_DUEI5PQ5.png)
   - ![论文图2](../../raw/figures/lezoualchStudyChargeDensity/fig_2_M79IKXMJ.png)
   - ![论文图3](../../raw/figures/lezoualchStudyChargeDensity/fig_3_NDLE7FBC.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
-  - ![论文图4：1T-VSe₂ 与 1T-VTe₂ 单层沿 Γ-M-K-Γ 的声子色散，虚频软模标志 CDW 失稳波矢](../../raw/figures/lezoualchStudyChargeDensity/fig_4_SNX492YC.png)
+  - ![论文图4：1T-VSe₂ 与 1T-VTe₂ 单层沿 Γ-M-K-Γ 的声子色散，虚频软模标志 CDW 失稳波矢](../../raw/figures/lezoualchStudyChargeDensity/fig_4_SNX492YC.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
   - ![论文图5](../../raw/figures/lezoualchStudyChargeDensity/fig_5_5Q38TX98.png)
   - ![论文图6：1T-VTe₂ 中 (4×1)γ/(4×1)α/(4×4)/(4×1)γ 滑移相的 STM 模拟及 NEB 相变能垒（旋转 ~1.7 eV，相变/相移 ~3.0–3.3 eV）](../../raw/figures/lezoualchStudyChargeDensity/fig_6_636CJF56.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - ![论文图7：不同 CDW 相及异相界面纳米带的零偏压电导与 I-V 曲线，CDW 相电导普遍低于原始相但相间差异小](../../raw/figures/lezoualchStudyChargeDensity/fig_7_47SP3LTQ.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
@@ -124,16 +124,22 @@ Mahé Lezoualc'H，2025，Université Paris-Saclay 博士论文（NNT 2025UPASP0
   - **project-4 TTF 分子计算 — medium**：NEGF+DFT 电子输运计算框架（Fireball）及电子-声子耦合导致输运降低的物理图像，对 TTF 分子晶体电荷输运模拟有方法参考价值；CDW 中晶格畸变降低电子跃迁概率与 TTF 中电子-晶格耦合输运问题可类比。
   - **project-2 Mn 多铁 — weak**：论文讨论了 DFT 预测磁性基态而实验未见磁序、CDW 与磁性相互竞争的问题，并在批判性分析中建议用 DFT+U/DMFT 处理 V 3d 关联效应；这与 Mn 多铁中磁序/铁电序竞争及 DFT+U 方法学主题有边缘关联，但材料体系不同。
   - project-1 双光子、project-3 机械发光 NN、project-6 湿度传感器：无内容参考价值，不列入。
+## 🔗 项目双链
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+
 ## 📝 组织与用词
 论文按"理论方法（DFT/DFPT/NEGF）→ CDW 经典与现代理论 → DFPT 软模构建 CDW 基态模型 → 化学调控（N 吸附、Na 插层）→ 物理操控（STM 脉冲 + NEB 能垒）→ 电子输运评估 CDW-tronics → 结论"的递进逻辑组织，理论计算与 MPQ/台湾大学实验组紧密对照。值得复用的术语：电荷密度波 (charge density wave, CDW)；软模/虚频 (soft mode / imaginary frequency)；电子-声子耦合 (electron-phonon coupling)；费米面嵌套 (Fermi surface nesting)；插层 (intercalation)；CDW 电子学 (CDW-tronics)；微动弹性带 (nudged elastic band, NEB)；非平衡格林函数 (NEGF)；层间解耦 (interlayer decoupling)；多米诺/相干声子切换 (domino / coherent phonon switching)。
 ## ✏️ 可写入 Wiki 的要点
   1. **CDW 建模方法论**：在原始 1×1 单胞中用 DFPT 算声子谱，虚频软模给出失稳波矢 q 与本征矢；在超胞中按 Δu = Σ Re[U_{ν,q}·exp(iq·R)] 叠加原子位移，再弛豫得到 CDW 相。该流程成功复现 1T-VSe₂ 的 (4×4)、(√7×√3) 及 1T-VTe₂ 的 (4×1)、(3×√3)、(√21×√3) 等多相。
   2. **1T-VSe₂ 软模**：声子谱在 1/2 Γ-M（对应 4×1 畸变）和 3/5 Γ-K（对应 √7×√3 畸变）处有两个虚频；多软模共存解释实验中多 CDW 相竞争。
   3. **1T-VTe₂ 软模**：在 1/2 Γ-M、1/2 Γ-K、1/3 Γ-K 处有三个虚频，分别对应 4×1、3×√3、√21×√3，故 VTe₂ 比 VSe₂ CDW 多形态性更丰富。
-  4. **驱动力认识**：CDW 主要由电子-声子耦合导致的晶格动力学失稳驱动，而非单纯费米面嵌套；费米面附近 V dz² 轨道尖峰提供电子不稳定性。
+  4. **驱动力认识**：CDW 主要由[[../concepts/electron-phonon-coupling|电子-声子耦合]]导致的晶格动力学失稳驱动，而非单纯[[../concepts/fermi-surface-nesting|[[../concepts/fermi-surfaces|费米面]]嵌套]]；费米面附近 V dz² 轨道尖峰提供电子不稳定性。
   5. **N 掺杂**：氮等离子体处理在 1T-VSe₂ 表面引入三类缺陷（I 型 N 桥位吸附、III 型 N 替代底层 Se、II 型未完全确认），但 (4×4) CDW 整体稳健不被破坏。
   6. **Na 插层双重机制**：Na 向顶层 VSe₂ 转移电子（n 型掺杂）使 V dz² 轨道下移，同时作为"楔子"减弱层间范德华耦合，使顶层表现如孤立单层，从而把体相 (4×4) CDW 转变为单层本征的 (√7×√3) CDW；Na 岛边缘观测到反常"p 型掺杂"，归因于局域静电场斯塔克栅极效应。
   7. **STM 针尖可逆切换**：1T-VTe₂ 单层中 STM 脉冲可在 (4×4) 与 (4×1) 相间及 (4×1) 不同取向（α/β/γ）间可逆切换；电报噪声分析显示切换产额在 ±1 V 附近有阈值且与电流大小无关，表明是单电子非弹性隧穿过程而非电场效应。
   8. **NEB 相变能垒**：(4×1)γ → (4×1)α 旋转能垒最低，约 1.7 eV/(4×4) 单胞；(4×1)γ → (4×4) 相变及 (4×1)γ → 滑移相能垒约 3.0–3.3 eV/(4×4) 单胞；旋转只需改单轴畸变方向故更易，与实验定性一致。单电子（~1 eV）触发约 50 个单胞纳米畴集体切换的能量鸿沟由"多米诺骨牌"/相干声子级联模型解释。
   9. **输运与 CDW-tronics 局限**：NEGF 弹道输运计算显示所有 CDW 相电导均显著低于未畸变原始相（原子位移降低电子跃迁概率），但不同 CDW 相（4×1α vs 4×4）及异相界面（4×4/4×1α）之间电导/I-V 差异很小；说明 CDW 可作开/关开关，但靠取向切换实现多值存储困难，未来应关注畴壁散射、CDW 滑动非线性输运及界面重构。
-  10. **方法局限与展望**：PBE 泛函对范德华力和 V 3d 强关联处理不足，建议引入 vdW-DF、DFT+U、SSCHA（非谐效应可改变 CDW 转变温度）、DMFT、TDDFT/分子动力学模拟能量耗散；磁性与 CDW 竞争（DFT 预铁磁序但实验未见）是开放问题。
+  10. **方法局限与展望**：[[../concepts/pbe-functional|PBE 泛函]]对范德华力和 V 3d 强关联处理不足，建议引入 vdW-DF、DFT+U、SSCHA（[[../concepts/anharmonic-effects|非谐效应]]可改变 CDW 转变温度）、DMFT、TDDFT/[[../concepts/molecular-dynamics|分子动力学]]模拟能量耗散；磁性与 CDW 竞争（DFT 预铁磁序但实验未见）是开放问题。

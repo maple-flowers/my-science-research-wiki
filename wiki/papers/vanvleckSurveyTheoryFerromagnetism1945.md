@@ -79,40 +79,43 @@ J. H. Van Vleck，1945，Reviews of Modern Physics 17(1), 27–47，DOI [10.1103
   - 实体 `MnO.md`：经典反铁磁体，Bizette-Squire-Tsai 的 χ(T) 数据被范弗莱克用来检验交错分子场理论
 
 ## 📊 关键图表
-  - ![图1 居里点以上磁化率倒数 1/χ 对温度的线性关系（Fe、Ni），验证居里-外斯定律](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_1_JGCCWFME.png)
-  - ![图2 镍在居里点附近放大，区分顺磁居里点 Tc 与铁磁居里点 Tc'（相差约20 K）](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_2_EV7HIL9D.png)
-  - ![图3 约化饱和磁化强度 I/I0 对约化温度 T/Tc：经典 S=∞ 与量子 S=1/2、1 等布里渊曲线对比，Ni、Co 数据支持量子曲线](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_3_BWKBMTLT.png)
-  - ![图4 斯托纳理论：左侧 T<Tc 约化磁化强度、右侧 T>Tc 约化 1/χ，不同曲线对应 kθ'/ε0；∞ 极限回归 S=1/2 外斯曲线](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_4_LTZBJ47J.png)
-  - ![图5 T=0 时约化饱和磁矩 ζ0 随 kθ'/ε0 变化；2/3<kθ'/ε0<2^(-1/3) 区间 ζ0<1，解释非整数玻尔磁子数](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_5_BCMRE37Q.png)
-  - ![图6 反铁磁体 χ(T) 对约化温度：理论实线与 MnO 实验虚线（Bizette 等），奈尔温度处出现峰值](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_6_7227PTRL.png)
+  - ![图1 居里点以上磁化率倒数 1/χ 对温度的线性关系（Fe、Ni），验证居里-外斯定律](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_1_JGCCWFME.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图2 镍在居里点附近放大，区分顺磁居里点 Tc 与铁磁居里点 Tc'（相差约20 K）](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_2_EV7HIL9D.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图3 约化饱和磁化强度 I/I0 对约化温度 T/Tc：经典 S=∞ 与量子 S=1/2、1 等布里渊曲线对比，Ni、Co 数据支持量子曲线](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_3_BWKBMTLT.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图4 斯托纳理论：左侧 T<Tc 约化磁化强度、右侧 T>Tc 约化 1/χ，不同曲线对应 kθ'/ε0；∞ 极限回归 S=1/2 外斯曲线](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_4_LTZBJ47J.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图5 T=0 时约化饱和磁矩 ζ0 随 kθ'/ε0 变化；2/3<kθ'/ε0<2^(-1/3) 区间 ζ0<1，解释非整数玻尔磁子数](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_5_BCMRE37Q.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图6 反铁磁体 χ(T) 对约化温度：理论实线与 MnO 实验虚线（Bizette 等），奈尔温度处出现峰值](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_6_7227PTRL.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
 
 ## 🔬 项目连接
 无直接项目连接。本文为铁磁性量子理论的奠基性综述，与 project-2 Mn 多铁中涉及的磁性/交换耦合概念有背景性关联，但不构成直接研究连接。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
   论证沿"唯象之谜 → 微观之钥 → 定域范式的多种近似 → 巡游范式 → 两范式比较 → 交换积分符号 → 向弱顺磁/反铁磁推广 → 与价键理论类比作结"的主线推进，每一步都把理论预测与 Fe/Ni/Co/Gd/MnO 的实验并置，形成"成功—困境—更优近似"的批判链条。
   可复用术语：
   - 分子场 / molecular field（Weiss field）
   - 交换积分 / exchange integral
-  - 交换作用 / exchange interaction
-  - 布里渊函数 / Brillouin function
+  - 交换作用 [[../concepts/exchange-interaction|交换作用]] / exchange interaction
+  - 布里渊函数 [[../concepts/brillouin-function|布里渊函数]] / Brillouin function
   - 对应态定律 / law of corresponding states
-  - 自旋波 / spin wave
+  - 自旋波 [[../concepts/spin-wave|自旋波]] / spin wave
   - 集体电子（巡游电子）/ collective (itinerant) electron
   - 交错分子场 / staggered molecular field
-  - 关联能 / correlation energy
-  - 贝特-佩尔斯-外斯方法 / Bethe-Peierls-Weiss method
+  - 关联能 [[../concepts/correlation-energy|关联能]] / correlation energy
+  - 贝特-佩尔斯-外斯方法 [[../concepts/bethe-peierls-weiss-method|贝特-佩尔斯-外斯方法]] / Bethe-Peierls-Weiss method
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 外斯分子场 H_eff=H+qM 将朗之万顺磁论改为 M=Np L(p(H+qM)/kT)，弱场下得居里-外斯定律 χ=C/(T-Tc)，Tc=Np²q/3k；并预言约化坐标 i=M/Np、τ=T/Tc 下的普适"对应态定律"曲线，被范弗莱克评为"定性正确、定量错误"。
-  2. 经典偶极-偶极耦合最多给出 q≤4π 且具强各向异性，而实验所需 q~10³ 且近各向同性，构成"分子场之谜"；1928 年海森堡以量子交换作用解决：狄拉克形式 U_ij=-2J_ij S_i·S_j 中 J>0 时自旋平行能量最低，耦合源自库仑能与泡利原理而非磁力，天然各向同性。
+  1. [[../concepts/molecular-field|外斯分子场]] H_eff=H+qM 将朗之万顺磁论改为 M=Np L(p(H+qM)/kT)，弱场下得居里-外斯定律 χ=C/(T-Tc)，Tc=Np²q/3k；并预言约化坐标 i=M/Np、τ=T/Tc 下的普适"对应态定律"曲线，被范弗莱克评为"定性正确、定量错误"。
+  2. 经典偶极-偶极耦合最多给出 q≤4π 且具强[[../concepts/migdal-eliashberg-theory|各向异性]]，而实验所需 q~10³ 且近各向同性，构成"分子场之谜"；1928 年海森堡以量子[[../concepts/exchange-interaction|交换作用]]解决：狄拉克形式 U_ij=-2J_ij S_i·S_j 中 J>0 时自旋平行能量最低，耦合源自库仑能与泡利原理而非磁力，天然各向同性。
   3. 双电子系统单/三重态能量 W=K±J 经矩阵恒等式即可导出式(8)；推广至多电子原子时假设同原子未满壳层各电子交换积分相同，是对 d 轨道多样性的粗略简化。
   4. 平均场近似（Stoner 以时间平均代替瞬时自旋）给出 q=zJ/Np²、Tc=2zJS(S+1)/3k、C=4Np²S(S+1)/3k，但过于宽松——连一维链都被预言为铁磁；海森堡高斯近似又过严（要求 z≥8），且使 1/χ-T 曲线过度弯曲。
-  5. Opechowski 高阶级数 (3k/4Np²S(S+1))χ = T-Tc+a/T+b/T²+c/T³+... 收敛极差：截到 b/T² 可恢复简单立方铁磁性，但算到 c/T³ 时连面心立方（z=12）都失去铁磁性，被判定为"徒劳"。
+  5. Opechowski 高阶级数 (3k/4Np²S(S+1))χ = T-Tc+a/T+b/T²+c/T³+... 收敛极差：截到 b/T² 可恢复简单立方[[../concepts/ferromagnetism|铁磁性]]，但算到 c/T³ 时连面心立方（z=12）都失去铁磁性，被判定为"徒劳"。
   6. 贝特-佩尔斯-外斯（Peter Weiss）方法将中心原子+z 个近邻作为结构单元严格求解 z+1 自旋量子力学问题，壳层外部以自洽有效场 H_e（不必是 M 的线性函数、系数 α 可随 T 变）代替；能区分同配位数 z=6 的简单立方（铁磁，Tc=1.85J/k）与平面六方晶格（无铁磁性），体心立方 Tc=2.9J/k，明显优于高斯近似且 1/χ-T 近似为直线。
-  7. 伊辛模型用 -2J s_zi s_zj 替代完整矢量耦合，虽严格清晰但忽略横向分量，主要在一维/二维可解，仅作为理解磁性晶体本征值问题的数学阶梯。
-  8. 布洛赫自旋波（基于 Slater 对 N-1 平行+1 反平行态的严格解，低 k 密度下叠加）给出低温律 M=Np[1-A(kT/J)^(3/2)]，简单立方 A=0.1174；并证明平面六方晶格即使在绝对零度也不铁磁，T^(3/2) 律得 Fallot 等实验支持。
-  9. 斯托纳集体电子模型把外斯分子场叠加到索末菲电子论上，特征函数 F 含自旋上/下两子带的费米-狄拉克积分（式21），自由能、比热、磁矩由式22–23给出；关键无量纲参数 kθ'/ε0 为交换能与费米（能带展宽）能之比：kθ'/ε0→∞ 退化为 S=1/2 外斯曲线；临界值 2/3；2/3<kθ'/ε0<2^(-1/3)≈0.79 时 T=0 饱和 ζ0 介于 0–1 之间，自然给出非整数玻尔磁子数（如 Ni 的 0.6 μB）；并预言线性于 T 的"过剩电子比热"。
-  10. 范弗莱克为镍提出定域阵营的替代解释：固体中 4s 带较宽、约 70% 位于 3d 带之上，平均组态为 4s^0.6 3d^9.4，即 60% 格点为 d⁹、40% 为 d¹⁰，由此直接得到 0.6 μB/原子，无须借助斯托纳中间带机制；并指出斯托纳模型忽略了 Wigner-Seitz 关联能——真实材料介于"完全定域"与"完全巡游"之间，犹如价键理论中海特勒-伦敦与洪德-马利肯两极。
+  7. [[../concepts/ising-model|伊辛模型]]用 -2J s_zi s_zj 替代完整矢量耦合，虽严格清晰但忽略横向分量，主要在一维/二维可解，仅作为理解磁性晶体本征值问题的数学阶梯。
+  8. [[../concepts/bloch-spin-wave|布洛赫[[../concepts/spin-wave|自旋波]]]]（基于 Slater 对 N-1 平行+1 反平行态的严格解，低 k 密度下叠加）给出低温律 M=Np[1-A(kT/J)^(3/2)]，简单立方 A=0.1174；并证明平面六方晶格即使在绝对零度也不铁磁，T^(3/2) 律得 Fallot 等实验支持。
+  9. [[../concepts/stoner-model|斯托纳集体电子]]模型把外斯分子场叠加到索末菲电子论上，特征函数 F 含自旋上/下两子带的费米-狄拉克积分（式21），自由能、比热、磁矩由式22–23给出；关键无量纲参数 kθ'/ε0 为交换能与费米（能带展宽）能之比：kθ'/ε0→∞ 退化为 S=1/2 外斯曲线；临界值 2/3；2/3<kθ'/ε0<2^(-1/3)≈0.79 时 T=0 饱和 ζ0 介于 0–1 之间，自然给出非整数玻尔磁子数（如 Ni 的 0.6 μB）；并预言线性于 T 的"过剩电子比热"。
+  10. 范弗莱克为镍提出定域阵营的替代解释：固体中 4s 带较宽、约 70% 位于 3d 带之上，平均组态为 4s^0.6 3d^9.4，即 60% 格点为 d⁹、40% 为 d¹⁰，由此直接得到 0.6 μB/原子，无须借助斯托纳中间带机制；并指出斯托纳模型忽略了 Wigner-Seitz [[../concepts/correlation-energy|关联能]]——真实材料介于"完全定域"与"完全巡游"之间，犹如价键理论中海特勒-伦敦与洪德-马利肯两极。
   11. 交换积分符号：Slater 工作定则——原子半径相对核间距足够小方有铁磁性；Sommerfeld-Bethe 论证波函数 r^l 因子使 d/f 电子（l≥2）在核内被压低、让电子间排斥项主导而 J>0，s 电子则永不铁磁；钆（4f⁷，S=7/2，⁸S 态）4f 电子深埋、无巡游与轨道残余，Trombe 实验测得居里常数恰为 35Np²/3k 且 1/χ-T 曲率远小于 Ni，印证高自旋下定域海森堡图像与涨落修正 a/Tc²∝1/(S²+S) 变小。
-  12. J<0 时自旋反平行：可分成交错 A、B 子晶格的晶格（简单立方、体心立方）出现反铁磁性，存在奈尔温度；T>TN 时 χ=C/(T+θ)，T<TN 时 χ 随降温下降，T=0 时平行/垂直外场情形按 1:2 加权得 χ0/χc=2/3（实测 0.3–0.85）；不能划分子晶格或电子迁移显著时则表现为近似与温度无关的弱顺磁性（如 Al，尽管自由原子为 ²P）；MnO、MnSe、Cr2O3、CrSb、MnS 为反铁磁实例，MnS 中可见极窄磁滞回线。
+  12. J<0 时自旋反平行：可分成交错 A、B 子晶格的晶格（简单立方、体心立方）出现[[../concepts/antiferromagnetism|反铁磁性]]，存在奈尔温度；T>TN 时 χ=C/(T+θ)，T<TN 时 χ 随降温下降，T=0 时平行/垂直外场情形按 1:2 加权得 χ0/χc=2/3（实测 0.3–0.85）；不能划分子晶格或电子迁移显著时则表现为近似与温度无关的弱顺磁性（如 Al，尽管自由原子为 ²P）；MnO、MnSe、Cr2O3、CrSb、MnS 为反铁磁实例，MnS 中可见极窄磁滞回线。

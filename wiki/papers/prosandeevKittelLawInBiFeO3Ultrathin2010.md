@@ -96,14 +96,18 @@ S. Prosandeev, S. Lisenkov, L. Bellaiche et al.，2010，Physical Review Letters
   - `open-circuit-boundary-conditions`（开路电学边界条件）：表面无自由电荷补偿的边界，存在退极化场，区别于短路（理想电极）条件。
   - `real-space-energy-decomposition`（实空间逐点能量分解）：本文首创的分析方法，将每项能量按格点投影，从而在原子尺度定位其空间来源（畴壁 vs 表面）。
 ## 📊 关键图表
-  - ![图1：8 nm 厚 BFO 薄膜在 10 K 下 71° 条带畴的局域软模 u_i 与 AFD 矢量 ξ_i 实空间快照，表面形成涡旋磁通闭合](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/fig_1_GV39IF8G.png)
-  - ![图2：(a) 总能-畴周期拟合 e_tot=e0+Aw+C/w；(b) AFD短程能 ∝1/w；(c) 电偶极与磁电耦合能 ∝w；(d) w_e²-h 线性关系；(e) 1/A∝h；(f) C≈常数](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/fig_2_478MJ9U5.png)
-  - ![图3：h=20 薄膜平衡周期下关键能量的逐点实空间分布：(a) AFD短程能集中在畴壁；(b) 电偶极长程能集中在表面畴内部；(c) 磁电耦合能同样集中在表面远离畴壁处](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/fig_3_F6HAM93G.png)
-  - ![公式(1)：包含 FE-AFD、磁偶极、磁交换、软模/AFD/应变-磁交换耦合、双二次耦合及 Dzyaloshinskii-Moriya 型项的有效哈密顿量](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/eq_1_QC77D3EP.png)
-  - ![公式(2)：Kittel 唯象能量密度 e_tot=e0+A/w+Cw](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/eq_2_PVFVZZCH.png)
+  - ![图1：8 nm 厚 BFO 薄膜在 10 K 下 71° 条带畴的局域软模 u_i 与 AFD 矢量 ξ_i 实空间快照，表面形成涡旋磁通闭合](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/fig_1_GV39IF8G.png) -> [[../figures/domain-walls|畴与畴壁结构]]
+  - ![图2：(a) 总能-畴周期拟合 e_tot=e0+Aw+C/w；(b) AFD短程能 ∝1/w；(c) 电偶极与磁电耦合能 ∝w；(d) w_e²-h 线性关系；(e) 1/A∝h；(f) C≈常数](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/fig_2_478MJ9U5.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图3：h=20 薄膜平衡周期下关键能量的逐点实空间分布：(a) AFD短程能集中在畴壁；(b) 电偶极长程能集中在表面畴内部；(c) 磁电耦合能同样集中在表面远离畴壁处](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/fig_3_F6HAM93G.png) -> [[../figures/domain-walls|畴与畴壁结构]]
+  - ![公式(1)：包含 FE-AFD、磁偶极、磁交换、软模/AFD/应变-磁交换耦合、双二次耦合及 Dzyaloshinskii-Moriya 型项的有效哈密顿量](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/eq_1_QC77D3EP.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式(2)：Kittel 唯象能量密度 e_tot=e0+A/w+Cw](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/eq_2_PVFVZZCH.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 ## 🔬 项目连接
   - **project-2（Mn 多铁）— core**：本文是 BiFeO3 多铁畴物理的核心机理论文，直接演示了多铁体系中铁电（u_i）、反铁畸变（ω_i）、G 型反铁磁与弱铁磁（m_i，约 0.03 μB）四套自由度及其磁电耦合如何共同决定畴结构；其有效哈密顿量中 E_ij、F_ij、G_ij、K_ij（Dzyaloshinskii-Moriya 型）等耦合项的构造方式，对 Mn 基多铁（如 MnVO3、SrMnO3 等）的磁电耦合建模有直接范本价值。
   - **project-5（SnTe 铁电模拟）— medium**：Kittel 定律本身是铁电薄膜畴标度的基础理论，本文给出的 w_e = √(C0(h-h0)/A0) 推导、开路边界下二维长程偶极矩阵的处理、以及实空间逐点能量分解方法，可直接迁移到 SnTe 薄膜/纳米片畴结构模拟中，用于判断畴宽-厚度关系并定位畴壁能与表面能的微观来源；1.5% 压应变迫使 u_i、ξ_i 沿 ⟨uuv⟩ 的结果也提示应力度对铁电方向的调控。
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+
 ## 📝 组织与用词
   - 论证结构遵循"争议提出 → 有效哈密顿量建模 → 蒙特卡洛求平衡畴 → Kittel 唯象拟合 → 系数厚度依赖 → 实空间能量分解定位微观机制"，层次非常清晰，是 PRL 式"现象验证+机制颠覆"的典范。
   - 关键术语：
@@ -118,13 +122,13 @@ S. Prosandeev, S. Lisenkov, L. Bellaiche et al.，2010，Physical Review Letters
     - flux-closure vortices（磁通闭合涡旋）
     - weak ferromagnetism（弱铁磁性，由 Dzyaloshinskii-Moriya 型 K_ij(ω_i−ω_j)·(m_i×m_j) 项产生）
 ## ✏️ 可写入 Wiki 的要点
-  1. BFO(001) 超薄膜在 1.5% 压应变、开路边界、T=10 K 下形成沿 [100] 交替的"上/下"71° 纳米条带畴；畴内 u_i 与 ξ_i 均沿 [uuv]（v>u），表面四层内偶极和 AFD 矢量形成涡旋以消除面外极化与退极化场。
+  1. BFO(001) 超薄膜在 1.5% 压应变、开路边界、T=10 K 下形成沿 [100] 交替的"上/下"71° 纳米条带畴；畴内 u_i 与 ξ_i 均沿 [uuv]（v>u），表面四层内偶极和 AFD 矢量形成涡旋以消除面外极化与[[../concepts/depolarization-field|退极化场]]。
   2. 除 G 型反铁磁矢量外，每个畴内还存在约 0.03 μB 的弱铁磁矢量，其方向在 up/down 畴间翻转，原因是弱 FM 矢量倾向于垂直 ξ_i，而 ξ_i 在畴间旋转。
-  3. 当 h>5（约 20 Å）时 w_e²∝h，斜率约 31（以 5 原子胞晶格常数为单位），严格遵循 Kittel 定律；h<3 时条带畴消失（h=1 转为纯 AFD 态）。临界厚度与 PZT、PbTiO3 铁电薄膜（h≈3）同量级。
+  3. 当 h>5（约 20 Å）时 w_e²∝h，斜率约 31（以 5 原子胞晶格常数为单位），严格遵循 [[../concepts/kittels-law|Kittel 定律]]；h<3 时条带畴消失（h=1 转为纯 AFD 态）。临界厚度与 PZT、PbTiO3 铁电薄膜（h≈3）同量级。
   4. 总能可用 e_tot=e0+Aw+C/w 精确拟合；对 h>5 有 1/A∝h（即 A=A0/(h−h0)，h0≈1.5 晶格常数）且 C≈C0 为常数；由 ∂E/∂w=0 得 w_e=√(C/A)=√(C0(h−h0)/A0)，且 C0/A0≈31，与 w_e²-h 斜率自洽。
-  5. 颠覆性机制：1/w 项的主要贡献并非短程电偶极相互作用，而是 AFD（氧八面体倾斜）短程相互作用 e_AFD,SR；短程偶极能的正 1/w 贡献几乎被电偶极局域自能的负 1/w 贡献完全抵消。AFD 短程能在数值上约为短程偶极能的两倍。
+  5. 颠覆性机制：1/w 项的主要贡献并非短程电偶极相互作用，而是 AFD（[[../concepts/oxygen-octahedra-tilting|氧八面体倾斜]]）短程相互作用 e_AFD,SR；短程偶极能的正 1/w 贡献几乎被电偶极局域自能的负 1/w 贡献完全抵消。AFD 短程能在数值上约为短程偶极能的两倍。
   6. w 项的两个主要贡献是：(i) 电偶极-偶极长程相互作用（对应 Kittel 模型中的杂散场）；(ii) 磁电相互作用能（公式(1)中含 E_ij 的双二次项），后者是多铁材料独有的新贡献。
-  7. 实空间逐点分解显示：AFD 短程能在贯穿整个膜厚的畴壁内显著升高；电偶极长程能与磁电耦合能则集中在上下表面、远离畴壁的畴内部；磁电耦合能集中在表面是因为该处局域电偶极幅度最小。
-  8. 有效哈密顿量公式(1)共 8 项：E_FE-AFD（铁电、应变、AFD 及其耦合，长程偶极矩阵替换为二维 OC 形式）、磁偶极-偶极、磁交换、软模-磁交换耦合（E_ij）、AFD-磁交换耦合（F_ij）、应变-磁交换耦合（G_ij）、应变-软模双二次项（B_0l，再现应变下极化行为）、以及 (ω_i−ω_j)·(m_i×m_j) 型 Dzyaloshinskii-Moriya 项（K_ij，再现弱铁磁性）。
+  7. 实空间逐点分解显示：AFD 短程能在贯穿整个膜厚的畴壁内显著升高；电偶极长程能与[[../concepts/magnetoelectric-coupling|磁电耦合]]能则集中在上下表面、远离畴壁的畴内部；磁电耦合能集中在表面是因为该处局域电偶极幅度最小。
+  8. [[../concepts/effective-hamiltonian|有效哈密顿量]]公式(1)共 8 项：E_FE-AFD（铁电、应变、AFD 及其耦合，长程偶极矩阵替换为二维 OC 形式）、磁偶极-偶极、磁交换、软模-磁交换耦合（E_ij）、AFD-磁交换耦合（F_ij）、应变-磁交换耦合（G_ij）、应变-软模双二次项（B_0l，再现应变下极化行为）、以及 (ω_i−ω_j)·(m_i×m_j) 型 Dzyaloshinskii-Moriya 项（K_ij，再现[[../concepts/weak-ferromagnetism|弱铁磁性]]）。
   9. 方法学意义：基于第一性原理参数化的有效哈密顿量 + 蒙特卡洛（最多 10⁶ sweeps）可处理 Nx×Ny×h 超胞（h=1–20，即约 4–80 Å），并通过逐点能量分解将宏观标度律映射到原子尺度的空间位置，这一分析范式可推广到其他复杂铁性/多铁体系。
   10. 与实验的关系：解释了 Catalan et al. (PRL 2008) 观察到的偏离 Kittel 定律现象源于分形/不规则畴而非材料本征；预测与 Huang et al. (PRB 2009) 关于 109° 畴的稀少线性数据一致；低生长速率下分形态可转变为直壁畴（H. Béa 私人通讯）。

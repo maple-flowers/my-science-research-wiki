@@ -110,14 +110,17 @@ Xuanyi Li, Zhili Zhu, Qing Yang, Zexian Cao, Yeliang Wang, Sheng Meng, Jiatao Su
   - `PdSe2`（实体）：层状五边形二维材料原型，是PP-VTe2结构与强层间键合的类比对象。
 
 ## 📊 关键图表
-  - ![图1 BP-VTe2晶体结构与能带、PP-VTe2顶视/侧视、布里渊区及模拟STM图像](../../raw/figures/liMonolayerPuckeredPentagonal2022/fig_1_VTVDBDPY.png)
+  - ![图1 BP-VTe2晶体结构与能带、PP-VTe2顶视/侧视、布里渊区及模拟STM图像](../../raw/figures/liMonolayerPuckeredPentagonal2022/fig_1_VTVDBDPY.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
   - ![图2 PP-VTe2声子色散、子层滑移能量、能带结构(0.33 eV带隙)、带隙随层厚演化及剥离能](../../raw/figures/liMonolayerPuckeredPentagonal2022/fig_2_AMLNLTG6.png) → [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
-  - ![图3 面内磁各向异性能极坐标图、铁磁/倾斜铁磁磁构型、MC模拟磁矩-温度曲线(Tc~110 K)及磁化率/比热](../../raw/figures/liMonolayerPuckeredPentagonal2022/fig_3_PAXER5D6.png)
-  - ![图4 铁弹翻转IS-MS-FS路径及NEB能垒(258 meV/atom)，易磁化轴随之旋转90°](../../raw/figures/liMonolayerPuckeredPentagonal2022/fig_4_SDLAKTEL.png)
-  - ![公式(1) 准二维海森堡模型哈密顿量 H=-J0Σ⟨i,j⟩Si·Sj - λΣSi²](../../raw/figures/liMonolayerPuckeredPentagonal2022/eq_1_JWCKFJZ2.png)
+  - ![图3 面内磁各向异性能极坐标图、铁磁/倾斜铁磁磁构型、MC模拟磁矩-温度曲线(Tc~110 K)及磁化率/比热](../../raw/figures/liMonolayerPuckeredPentagonal2022/fig_3_PAXER5D6.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图4 铁弹翻转IS-MS-FS路径及NEB能垒(258 meV/atom)，易磁化轴随之旋转90°](../../raw/figures/liMonolayerPuckeredPentagonal2022/fig_4_SDLAKTEL.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式(1) 准二维海森堡模型哈密顿量 H=-J0Σ⟨i,j⟩Si·Sj - λΣSi²](../../raw/figures/liMonolayerPuckeredPentagonal2022/eq_1_JWCKFJZ2.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 
 ## 🔬 项目连接
 无直接项目连接（主题上与project-2 Mn多铁同属多铁性材料体系，但本文材料为VTe2而非Mn基氧化物，方法为纯DFT预测，不直接归属任何既有项目）。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
 文章按"背景动机→块体参照相→单层结构建模→稳定性验证→电子结构→磁性基态→铁弹性与多铁耦合→电控磁性展望→结论"的递进逻辑展开。先以BP-VTe2（半金属）为对照，凸显单层PP相（半导体）的物性突变；稳定性从动力学（声子谱无虚频）、力学（Born-Huang判据）、可制备性（剥离能72.46 meV/Å²）三重论证；磁性部分用DFT+U确定FM基态、MAE确定面内易轴[100]、海森堡模型+MC模拟桥接出Tc≈110 K；最后以NEB计算给出铁弹翻转能垒并指出易轴90°旋转这一核心耦合证据。值得复用的关键词/术语：
@@ -126,20 +129,20 @@ Xuanyi Li, Zhili Zhu, Qing Yang, Zexian Cao, Yeliang Wang, Sheng Meng, Jiatao Su
   - half-metallic（半金属）
   - multiferroic coupling（多铁耦合）
   - ferroelastic switching（铁弹性翻转）
-  - magnetic anisotropy energy, MAE（磁各向异性能）
+  - magnetic anisotropy energy, MAE [[../concepts/magnetic-anisotropy-energy|MAE]]（磁各向异性能）
   - Curie temperature（居里温度）
   - nudged elastic band, NEB（微动弹性带方法）
   - exfoliation energy（剥离能）
   - electrical control of magnetism（电控磁性）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. PP-VTe2是VTe2的全新二维相，空间群Pca21，矩形晶胞a=6.774 Å、b=6.655 Å，由两个以五边形为基元、化学键合的子层构成（单个子层不能独立稳定），面内各向异性约1.8%；其结构灵感来自块体黄铁矿相BP-VTe2（空间群Pa-3，晶格常数6.746 Å）的(100)面。
-  2. BP-VTe2为半金属：自旋向上通道金属性，自旋向下通道带隙1.088 eV；每个V原子在八面体晶体场中3个未配对电子占据t2g能级，磁矩约3 μB；化学形成能−0.265 eV/atom，仅略高于1T-VTe2（−0.307 eV/atom），提示实验可合成性。
-  3. 单层PP-VTe2为间接带隙0.33 eV的铁磁半导体，显著区别于BP-VTe2的半金属性；带隙随子层数由2增至8而从0.33 eV降至0.11 eV，并发生间接→直接带隙转变；该窄带隙远小于CrI3(1.07 eV)、CrBr3(1.34 eV)、Cr2Ge2Te6(0.88 eV)，面向红外光电子应用。
-  4. 稳定性三重证据：弹性常数C11=49.66、C22=72.92、C12=6.976、C44=24.59 N/m满足Born-Huang判据（C11C22−C12²>0, C44>0）；声子谱全布里渊区无虚频；子层相对滑移能量计算表明无位移构型为全局能量最低；剥离能72.46 meV/Å²，有望类似PdSe2通过外延生长制备。
+  1. PP-VTe2是VTe2的全新二维相，空间群Pca21，矩形晶胞a=6.774 Å、b=6.655 Å，由两个以五边形为基元、化学键合的子层构成（单个子层不能独立稳定），面内[[../concepts/migdal-eliashberg-theory|各向异性]]约1.8%；其结构灵感来自块体黄铁矿相BP-VTe2（空间群Pa-3，晶格常数6.746 Å）的(100)面。
+  2. BP-VTe2为[[../concepts/half-metal|半金属]]：自旋向上通道金属性，自旋向下通道带隙1.088 eV；每个V原子在八面体晶体场中3个未配对电子占据t2g能级，磁矩约3 μB；化学[[../concepts/formation-energy|形成能]]−0.265 eV/atom，仅略高于1T-VTe2（−0.307 eV/atom），提示实验可合成性。
+  3. 单层PP-VTe2为间接带隙0.33 eV的铁磁半导体，显著区别于BP-VTe2的[[../concepts/half-metallicity|半金属性]]；带隙随子层数由2增至8而从0.33 eV降至0.11 eV，并发生间接→直接带隙转变；该窄带隙远小于CrI3(1.07 eV)、CrBr3(1.34 eV)、Cr2Ge2Te6(0.88 eV)，面向红外光电子应用。
+  4. 稳定性三重证据：弹性常数C11=49.66、C22=72.92、C12=6.976、C44=24.59 N/m满足Born-Huang判据（C11C22−C12²>0, C44>0）；声子谱全[[../concepts/brillouin-zone|布里渊区]]无虚频；子层相对滑移能量计算表明无位移构型为全局能量最低；剥离能72.46 meV/Å²，有望类似PdSe2通过外延生长制备。
   5. 磁性基态：DFT+U（Ueff=0/3/5 eV，Dudarev方法）计算表明在所有Ueff下FM态能量均低于NM和三种AFM态，为本征铁磁半导体；最近邻交换耦合J0=3.68 meV；每个V有8个最近邻磁性原子（同子层4个、另一子层4个）。
-  6. 磁各向异性：易磁化轴沿面内[100]方向（与PP-VTe2唯一螺旋轴重合），与面内[010]、[110]方向能量差分别为0.45、1.83 meV/单胞，与面外[001]方向差1.23 meV/单胞；沿V-Te键方向存在倾斜FM亚稳态，能量比面内FM态高0.15 meV。
-  7. 居里温度：基于准二维海森堡模型（含最近邻交换J0和单离子各向异性λ）在100×100网格上进行5,000,000步MC模拟（温度步长5 K），由磁矩、磁化率χ和比热CV峰值共同确定Tc≈110 K，高于CrI3(45 K)、CrBr3(27 K)、Cr2Ge2Te6(30 K)等实验二维磁体。
+  6. [[../concepts/magnetic-anisotropy-energy|磁各向异性]]：易磁化轴沿面内[100]方向（与PP-VTe2唯一螺旋轴重合），与面内[010]、[110]方向能量差分别为0.45、1.83 meV/单胞，与面外[001]方向差1.23 meV/单胞；沿V-Te键方向存在倾斜FM[[../concepts/metastability|亚稳态]]，能量比面内FM态高0.15 meV。
+  7. [[../concepts/curie-temperature|居里温度]]：基于准二维[[../concepts/heisenberg-model|海森堡模型]]（含最近邻交换J0和单离子各向异性λ）在100×100网格上进行5,000,000步MC模拟（温度步长5 K），由磁矩、磁化率χ和比热CV峰值共同确定Tc≈110 K，高于CrI3(45 K)、CrBr3(27 K)、Cr2Ge2Te6(30 K)等实验二维磁体。
   8. 多铁耦合机制：NEB计算表明，沿x轴加压、y轴拉伸（仅1.8%应变）使矩形晶胞转为正方形后再旋转90°，可实现铁弹翻转；下层亚层Te原子水平移动保持五边形基元完整；翻转能垒 258 meV/atom，与黑磷烯等二维铁弹材料相当；翻转后易磁化轴同步旋转90°，构成应变可控的直接铁弹-铁磁多铁耦合。
-  9. 电控磁性：投影DOS显示总磁矩完全来自−1至−0.1 eV能量区间的自旋极化态，且几乎全部由V 3d电子贡献；通过栅压调节化学势，在空穴浓度4.5×10^14 cm^-2下可使每单胞净磁矩在12-10 μB间调节，适合在高介电衬底上实现电控磁；PP-VSe2与PP-VS2因费米能级附近能带结构相似，同样有望实现电控磁性。
+  9. 电控磁性：投影DOS显示总磁矩完全来自−1至−0.1 eV能量区间的自旋极化态，且几乎全部由V 3d电子贡献；通过栅压调节[[../concepts/chemical-potential|化学势]]，在空穴浓度4.5×10^14 cm^-2下可使每单胞净磁矩在12-10 μB间调节，适合在高介电衬底上实现电控磁；PP-VSe2与PP-VS2因费米能级附近能带结构相似，同样有望实现电控磁性。
   10. 计算方法细节：VASP软件包，PAW赝势，PBE-GGA泛函，9×9×1 Monkhorst-Pack k点网格，平面波截断能500 eV，真空层20 Å，总能收敛至10^-8 eV、力收敛至10^-6 eV/Å（对消除虚频声子至关重要），声子用DFPT，弹性常数用有限畸变法，MAE自洽计算中包含SOC。

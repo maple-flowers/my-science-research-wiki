@@ -98,15 +98,19 @@ Ying Zhao, Yanxia Wang, Yue Yang, Jijun Zhao, Xue Jiang（大连理工大学/华
 ## 📊 关键图表
   - ![T-/H-AM2X4 晶体结构与铁电翻转机制](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_1_S88Q2EF3.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - ![960→21 高通量筛选漏斗流程图](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_2_7QNUMABJ.png) → [[../figures/experimental-setups|实验测试与测量装置]]
-  - ![T-PdZr2Se4 与 T-CoTi2Te4 电子结构及极化/传导电子空间分离](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_3_VSIZIKC2.png)
-  - ![T-CoZr2S4 极化翻转路径上磁基态 FM-AFM-FM 与 MAE 变化](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_6_D3YLN99Y.png)
-  - ![T-CoTi2Te4 FE1/FE2 态能带与 PDOS 自旋极化反转](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_7_DKCIN6VB.png)
-  - ![表1：19 种非磁铁电体带隙、极化与翻转势垒](../../raw/figures/zhaoRealization2DMultiferroic2024/tab_1_P98XXL3P.png)
-  - ![表2：21 种多铁体磁基态、T_C/T_N、MAE、极化与势垒](../../raw/figures/zhaoRealization2DMultiferroic2024/tab_2_BHS6QQPS.png)
-  - ![表3：T-CdCr2Te4 顶层/底层 Cr 的 J 与 DMI 参数](../../raw/figures/zhaoRealization2DMultiferroic2024/tab_3_2VLQ8VY7.png)
+  - ![T-PdZr2Se4 与 T-CoTi2Te4 电子结构及极化/传导电子空间分离](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_3_VSIZIKC2.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![T-CoZr2S4 极化翻转路径上磁基态 FM-AFM-FM 与 MAE 变化](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_6_D3YLN99Y.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![T-CoTi2Te4 FE1/FE2 态能带与 PDOS 自旋极化反转](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_7_DKCIN6VB.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![表1：19 种非磁铁电体带隙、极化与翻转势垒](../../raw/figures/zhaoRealization2DMultiferroic2024/tab_1_P98XXL3P.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![表2：21 种多铁体磁基态、T_C/T_N、MAE、极化与势垒](../../raw/figures/zhaoRealization2DMultiferroic2024/tab_2_BHS6QQPS.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![表3：T-CdCr2Te4 顶层/底层 Cr 的 J 与 DMI 参数](../../raw/figures/zhaoRealization2DMultiferroic2024/tab_3_2VLQ8VY7.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - 注：原文图4（极化翻转调控斯格明子自旋织构快照）与图5（温度-磁场相图）在 raw/figures 目录中未附图片。
 ## 🔬 项目连接
 project-2 Mn多铁（本文 a 类含多种 Mn 基多铁体如 T-CuMn₂Se₄、T-AgMn₂S₄/Se₄、T-CdMn₂Se₄，T-AgMn₂Se₄ 的 T_C 高达 525 K，与 Mn 多铁主题直接相关）；其余 project-1/3/4/5/6/7 无直接连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+
 ## 📝 组织与用词
 论文按"策略提出 → 四步高通量筛选 → 铁电行为（半导体/金属分开讨论）→ 三类磁电耦合机制逐一剖析 → 结论"递进展开。论证以筛选漏斗（960→104/100→40→21）为骨架，再用三个代表材料（T-CdCr₂Te₄、T-CoZr₂S₄、T-CoTi₂Te₄）分别承载 a/b/c 三类机制，结构清晰、数据-机制对应。值得复用的术语：
   - [[../concepts/intercalation|插层 intercalation]]
@@ -120,13 +124,13 @@ project-2 Mn多铁（本文 a 类含多种 Mn 基多铁体如 T-CuMn₂Se₄、T
   - [[../concepts/dzyaloshinskii-moriya-interaction|dzyaloshinskii-moriya-interaction]]
   - [[../concepts/topological-spin-texture|topological-spin-texture]]
 ## ✏️ 可写入 Wiki 的要点
-  1. 插层设计原理：将 3d/4d 过渡金属 A 插入 2H 或 1T 相 MX₂ 双层的类四方空位，A 与一层 1 个 X、另一层 3 个 X 配位，形成不对称四面体配位而破缺反演对称；A 在两位置间 180° 翻转即实现极化反转，构成 H-/T-AM₂X₄ 两种结构。
-  2. 筛选漏斗：960 种组合 → 结构优化确认自发极化 → 声子谱无虚频（104 种）且形成能为负（100 种）→ 铁电翻转势垒 < 200 meV/f.u.（约合室温 k_BT/原子）并排除已报道体系 → 40 种稳定铁电体 → 磁基态筛选得 21 种多铁体（10 FM、9 AFM、2 FiM）。
+  1. 插层设计原理：将 3d/4d 过渡金属 A 插入 2H 或 [[../concepts/1t-phase|1T 相]] MX₂ 双层的类四方空位，A 与一层 1 个 X、另一层 3 个 X 配位，形成不对称四面体配位而破缺反演对称；A 在两位置间 180° 翻转即实现极化反转，构成 H-/T-AM₂X₄ 两种结构。
+  2. 筛选漏斗：960 种组合 → 结构优化确认自发极化 → 声子谱无虚频（104 种）且[[../concepts/formation-energy|形成能]]为负（100 种）→ 铁电[[../concepts/switching-barrier|翻转势垒]] < 200 meV/f.u.（约合室温 k_BT/原子）并排除已报道体系 → 40 种稳定铁电体 → 磁基态筛选得 21 种多铁体（10 FM、9 AFM、2 FiM）。
   3. 金属铁电共存机制：以 T-PdZr₂Se₄ 为例，传导电子 ρ_c(z) 主要分布于顶/底 ZrSe₂ 层，极化电子 ρ_P(z)=ρ_FE−ρ_PE 主要局域在插层 Pd 原子周围并呈振荡；两类电荷实空间分离使传导电子无法完全屏蔽垂直极化，Pout=3.10 pC/m。16 种非磁金属铁电体 Pout 在 0.43–9.61 pC/m，均大于实验测得的 WTe₂ 双层（0.42 pC/m）。
   4. 半导体铁电体（T-CdSc₂Se₄、T-CdRh₂S₄、T-CoSc₂S₄、T-CoY₂S₄）同时具有面内 Pin（Berry phase，最高 306.45 pC/m）和面外 Pout（偶极修正，最高 15.22 pC/m），与 In₂Se₃ 相当，并存在面内-面外铁电关联（dipole locking），可用于多向场效应晶体管。
   5. 分类依据：a 类（12 种）磁性来自 MX₂ 层 M 原子（A=Pd/Cu/Ag/Zn/Cd 满 d 壳层非磁）；b 类（7 种，CoSc₂S₄、CoY₂S₄、CoZr₂S₄、CoZr₂Se₄、CrMo₂Se₄、MnMo₂S₄、MnMo₂Se₄）磁性来自插层 A 原子；c 类（2 种，CoTi₂Se₄、CoTi₂Te₄）磁性来自 A 与 M 两者。
   6. a 类旗舰 T-CdCr₂Te₄：FM 基态，T_C=260 K（MC），FE 转变温度 >300 K（AIMD：250 K 时 Cd 位移 0.376 Å，300 K 降至 0.020 Å），Pout=2.77 pC/m，E_B=66 meV/f.u.，MAE=−0.34 meV/Cr（面内易轴）；T-AgMn₂Se₄ 的 T_C 更高达 525 K。
-  7. a 类电控斯格明子：FE1 态顶层 CrTe₂ 的 D 值约为底层 3 倍，FE2 态反转；D/|J| 比在 9.03%–20.80% 间随极化切换。MC 模拟显示 FE1 态顶层在 B=2.4–3.17 T 出现反斯格明子（直径 3.8–8.9 nm，随场增大而缩小），底层保持 FM；FE2 态顶层/底层行为互换，且两态斯格明子手性相反。斯格明子晶格相临界温度约 40 K（T>40 K 时条纹畴直接转 FM，T>60 K 为无序相）。
-  8. b 类 T-CoZr₂S₄：J1>0 主导 FM，MAE=0.61 meV/Co（面外易轴），T_C≈70 K，FE 在 300 K 稳定；极化翻转路径上磁基态经历 FM→AFM→FM，PE 相处 MAE 骤变为 −13.34 meV/Co（易轴翻为面内），T-CoY₂S₄ 与 H-MnMo₂Se₄ 表现类似耦合。
+  7. a 类电控[[../concepts/skyrmion|斯格明子]]：FE1 态顶层 CrTe₂ 的 D 值约为底层 3 倍，FE2 态反转；D/|J| 比在 9.03%–20.80% 间随极化切换。MC 模拟显示 FE1 态顶层在 B=2.4–3.17 T 出现反斯格明子（直径 3.8–8.9 nm，随场增大而缩小），底层保持 FM；FE2 态顶层/底层行为互换，且两态斯格明子手性相反。斯格明子晶格相临界温度约 40 K（T>40 K 时条纹畴直接转 FM，T>60 K 为无序相）。
+  8. b 类 T-CoZr₂S₄：J1>0 主导 FM，MAE=0.61 meV/Co（面外易轴），T_C≈70 K，FE 在 300 K 稳定；[[../concepts/polarization-switching|极化翻转]]路径上磁基态经历 FM→AFM→FM，PE 相处 MAE 骤变为 −13.34 meV/Co（易轴翻为面内），T-CoY₂S₄ 与 H-MnMo₂Se₄ 表现类似耦合。
   9. c 类 T-CoTi₂Te₄：FiM 基态，净磁矩 0.21 μB/f.u.（T-CoTi₂Se₄ 为 0.24 μB/f.u.）；FE1 态费米能级传导电子以自旋向下为主、FE2 态转为自旋向上为主；Titop/Tibot 磁矩由 0.62/0.82 μB 互换为 0.82/0.62 μB；易磁化轴由 x 方向翻为 z 方向，实现对自旋极化输运的电场调控。
   10. 方法学：VASP + PAW + PBE(GGA)+U，平面波截断 500 eV，k 点间距 2π×0.02 Å⁻¹，真空层 >15 Å；Phonopy 有限位移法算声子；形成能 E_f=(E_AM2X4−E_A−2E_M−4E_X)/7；CI-NEB 算翻转势垒；Berry phase 算 Pin、偶极修正算 Pout；MC（80×80 晶格，Spirit 软件，Metropolis 算法，最小 6×10⁵ 步）估算 T_C/T_N 并模拟自旋织构；AIMD（NVT，4×4×1 超胞，≥10 ps，1 fs 步长）估算 FE 转变温度。含 DMI 的自旋哈密顿量为 H=ΣJ_ij S_i·S_j − A_z Σ(S_i^z)² + Σ D_ij·(S_i×S_j)。

@@ -95,10 +95,10 @@ B. Delley，2000，*The Journal of Chemical Physics* 113(18), 7756–7764，DOI 
   - 相关论文 **Delley2000**
 
 ## 📊 关键图表
-  - ![Si原胞总能量随倒空间网格阶数的指数收敛](../../raw/figures/Delley2000/fig_1_4IAQM378.png)
-  - ![Cu原胞总能量随k网格阶数的幂律收敛，Bloechl修正显著优于线性四面体法](../../raw/figures/Delley2000/fig_2_93PFNGDX.png)
-  - ![石墨能带结构与态密度，K–H线简并显示半金属特性](../../raw/figures/Delley2000/fig_3_PJKJZSMX.png)
-  - ![六方固体6×6×n未平移k网格在ab面的投影，特殊k点以粗体标出](../../raw/figures/Delley2000/fig_4_LTYPR8VY.png)
+  - ![Si原胞总能量随倒空间网格阶数的指数收敛](../../raw/figures/Delley2000/fig_1_4IAQM378.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![Cu原胞总能量随k网格阶数的幂律收敛，Bloechl修正显著优于线性四面体法](../../raw/figures/Delley2000/fig_2_93PFNGDX.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![石墨能带结构与态密度，K–H线简并显示半金属特性](../../raw/figures/Delley2000/fig_3_PJKJZSMX.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![六方固体6×6×n未平移k网格在ab面的投影，特殊k点以粗体标出](../../raw/figures/Delley2000/fig_4_LTYPR8VY.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - 表 I（Cu 随截断半径 Rc 收敛）、表 II（Si 与 FLAPW 对比）、表 III（Si 零点振动随超胞收敛）、表 IV（石墨/金刚石相对稳定性）、表 V（G2 集 148 分子生成焓偏差）、表 VI（C/Si/S 原子生成焓分解）以表格图片形式收录于 `raw/figures/Delley2000/tab_0_FNPDC6W7.png`、`tab_298_S38GC7X5.png`
 
 ## 🔬 项目连接
@@ -108,13 +108,22 @@ B. Delley，2000，*The Journal of Chemical Physics* 113(18), 7756–7764，DOI 
   - **project-7 CDW**：方法学参考。CDW 材料多为含费米面的金属，文中图 2 与正文对金属 k 点积分的幂律收敛、Bloechl 修正相对于线性四面体法的显著精度提升、k 点不足导致虚假占据与 SCF 振荡及其阻尼方法，是计算金属/CDW 体系电子结构与声子不稳定性时 k 点收敛测试的标准参考。
   - **project-1 双光子、project-3 机械发光 NN、project-6 湿度传感器**：无直接项目连接（本文为电子结构 DFT 方法学，不涉及双光子吸收、神经网络势建模或湿敏器件物理）。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
   文章按"提出问题（分子→固体）→ 四大方法模块（短尾局域基函数 / 半局域赝势矩阵元 / k 表示矩阵元与 BZ 积分 / 梯度泛函数值处理）→ 基准标定（Cu、Si、石墨、α-S8 的 Rc 与 k 网格收敛，与 FLAPW 对照）→ 应用（G2 分子集与原子参考态生成焓）→ 结论（瓶颈在泛函）"递进，论证以"数值实现细节 + 收敛曲线/表格 + 与独立方法或实验对照"三位一体展开。
   可复用术语：
-  - numerical atomic orbitals / 数值原子轨道（NAO）
+  - numerical atomic orbitals / 数值原子轨道 [[../concepts/numerical-atomic-orbitals|数值原子轨道]]（NAO）
   - short-tail localized basis / 短尾局域基函数（soft confining potential 软约束势 + hard wall 硬壁）
   - semilocal pseudopotential / 半局域赝势（ECP、AREP、scalar relativistic 标量相对论）
-  - Brillouin-zone integration / 布里渊区积分（Monkhorst–Pack mesh、tetrahedron method with Bloechl corrections）
+  - Brillouin-zone integration / 布里渊区积分 [[../concepts/brillouin-zone-integration|布里渊区积分]]（Monkhorst–Pack mesh、tetrahedron method with Bloechl corrections）
   - Fermi-surface curvature correction / 费米面曲率二阶修正
   - LDA (PWC) vs GGA (BP/B88PW91, PBE) overbinding/softening / 过结合与软化
   - enthalpy of formation & atomic reference state / 生成焓与原子参考态
@@ -123,11 +132,11 @@ B. Delley，2000，*The Journal of Chemical Physics* 113(18), 7756–7764，DOI 
 ## ✏️ 可写入 Wiki 的要点
   1. DMol3 用自由原子的数值径向解作为基函数主体（DND 为双数值 + d 极化，DNP 再加更高极化），在分离原子极限精确，因而用较少基函数即可高精度描述成键；基函数通过软约束势（类谐振势，可用半径更高次幂）与硬壁边界条件结合实现严格有限截断，兼顾动能实空间计算与矩阵稀疏性。
   2. 时间复杂度公式 T ≈ a N Rc^{2d}/M + b N³(K/M)int + c N log M：矩阵元/密度部分对体系大小 N 线性、对截断半径 Rc 随维度 d 呈 2d 次幂；对角化为 N³ 且对 k 点数 K 线性；线性部分可高效并行，对角化按 k 点分布到处理器。
-  3. 绝缘体（Si）总能量对 k 网格阶数呈**指数收敛**，控制变量是倒空间网格间距（默认 δk = 0.03 a.u.），Si 原胞默认 6 阶网格；金属（Cu）因费米面呈**幂律收敛**，默认 8 阶网格。
+  3. 绝缘体（Si）总能量对 k 网格阶数呈**指数收敛**，控制变量是倒空间网格间距（默认 δk = 0.03 a.u.），Si 原胞默认 6 阶网格；金属（Cu）因[[../concepts/fermi-surfaces|费米面]]呈**幂律收敛**，默认 8 阶网格。
   4. 金属 BZ 积分采用 Bloechl 四面体格点法并默认启用二阶（费米面曲率）修正，相对线性四面体法精度大幅提升；二阶修正会在部分 k 点产生负占据权重（总占据仍正定），简并能带在某 k 点与空带重合时等权占据两轨道以避免 SCF 虚假振荡，也可用有限温度占据或高斯展宽阻尼。
   5. 半局域赝势 Vps = Vloc + Σ_lm |lm⟩V_l(r)⟨lm|；球面上的角投影（式 2）主导矩阵元构建时间，故 Kleinman–Bylander 型完全可分离化并不能显著加速。Stuttgart–Dresden ECP 与 AREP 原为 Hartree–Fock 波函数方法开发，直接用于 DFT 会产生额外晶格收缩——对 Cu，全电子标量相对论收缩为 0.76%，ECP 非相对论版给出 0.94% 相对论收缩，剩余约 1.2% 收缩归因于赝势在 DFT 中的可移植性不足。
-  6. 与 FLAPW 在同一泛函下对照（Si，表 II）：DMol3 与 FLAPW 能量差 < 1 mHa、晶格常数差 0.1%、体模量差 3%；但两者与实验的偏差大于彼此偏差，证明数值方法已收敛、误差 majorly 来自泛函。加 f、g 极化函数系统降低 KS 带隙至与 FLAPW 一致的收敛值（约 0.50 eV），但 KS 带隙仍远小于光学带隙。
-  7. LDA(PWC) 过结合：Cu 晶格偏短、体模量 174 GPa（实验 137 GPa）；BP(GGA) 使 Cu 晶格膨胀约 2%、体模量降至 113 GPa。Si 上 PWC 晶格偏差 −0.5%、B = 97 GPa（实验 98.8 GPa），BP 晶格 +0.8%、B = 90 GPa。
+  6. 与 FLAPW 在同一泛函下对照（Si，表 II）：DMol3 与 FLAPW 能量差 < 1 mHa、晶格常数差 0.1%、体模量差 3%；但两者与实验的偏差大于彼此偏差，证明数值方法已收敛、误差 majorly 来自泛函。加 f、g 极化函数系统降低 KS 带隙至与 FLAPW 一致的收敛值（约 0.50 eV），但 KS 带隙仍远小于[[../concepts/optical-band-gap|光学带隙]]。
+  7. LDA(PWC) 过结合：Cu 晶格偏短、体模量 174 GPa（实验 137 GPa）；BP(GGA) 使 Cu 晶格膨胀约 2%、体模量降至 113 GPa。Si 上 PWC [[../concepts/lattice-bias|晶格偏差]] −0.5%、B = 97 GPa（实验 98.8 GPa），BP 晶格 +0.8%、B = 90 GPa。
   8. 石墨是弱键失效的典型案例：PWC 给出 c/a = 2.694（偏小），GGA 高估 c/a 13.8%、PBE 高估 14.5%、B88PW91 高估约 25%；但 c 轴膨胀对应的总能降低仅约 1 mHa/原子。PWC 错误预测金刚石比石墨稳定 1.2 mHa/原子，BP 正确预测石墨更稳定 3.9 mHa/原子（2.4 kcal/mol），说明 GGA 才修正弱键相对稳定性。
-  9. G2 中性分子集（148 个）生成焓（298 K）：BP/B88PW91 平均绝对偏差约 5.9 kcal/mol、rms 8.0；PBE 用实验原子参考时平均绝对偏差高达 12.4 kcal/mol（系统性过估原子解离能），改用自洽计算的 H/N/O/F/Cl 分子参考态与 C/Si/S 固体参考态后降至 7.1 kcal/mol，接近 BP指标。Si、S 原子生成焓被 BP 低估（Si 计算 99.58 vs 实验 106.6 kcal/mol；S 60.33 vs 65.66），PWC 则反转为高估。
+  9. G2 中性分子集（148 个）[[../concepts/enthalpy-of-formation|生成焓]]（298 K）：BP/B88PW91 平均绝对偏差约 5.9 kcal/mol、rms 8.0；PBE 用实验原子参考时平均绝对偏差高达 12.4 kcal/mol（系统性过估原子解离能），改用自洽计算的 H/N/O/F/Cl 分子参考态与 C/Si/S 固体参考态后降至 7.1 kcal/mol，接近 BP指标。Si、S 原子生成焓被 BP 低估（Si 计算 99.58 vs 实验 106.6 kcal/mol；S 60.33 vs 65.66），PWC 则反转为高估。
   10. 零点振动/热修正收敛：Si 超胞从 2 原子增至 64 原子，E_vib(0) 从 1.10 收敛到 1.41 kcal/mol/原子，H(298)−H(0) 从 0.20 到 0.78；16 原子超胞即可给出 ~0.1 kcal/mol 精度。石墨零点能用 36 原子超胞、金刚石与 Si 用 16 原子超胞计算。

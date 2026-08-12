@@ -100,8 +100,8 @@ Graeme Henkelman, Blas P. Uberuaga, Hannes Jónsson，2000，The Journal of Chem
   - `variable-spring-constants`（可变弹簧常数）：随图像能量线性增强弹簧，使图像在高能鞍点区加密。
   - 实体建议：`Ir-111`、`Si-100`（本文两个验证表面体系，可作为表面催化/半导体表面实体）。
 ## 📊 关键图表
-  - ![CH4/Ir(111) 解离吸附 MEP：常规 NEB 与 CI-NEB 对比](../../raw/figures/henkelmanClimbingImageNudged2000c/fig_1_KRQQQH5S.png)
-  - ![H2/Si(100) 解离吸附 MEP：等弹簧与可变弹簧 CI-NEB 对比](../../raw/figures/henkelmanClimbingImageNudged2000c/fig_2_UCDE3WDT.png)
+  - ![CH4/Ir(111) 解离吸附 MEP：常规 NEB 与 CI-NEB 对比](../../raw/figures/henkelmanClimbingImageNudged2000c/fig_1_KRQQQH5S.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![H2/Si(100) 解离吸附 MEP：等弹簧与可变弹簧 CI-NEB 对比](../../raw/figures/henkelmanClimbingImageNudged2000c/fig_2_UCDE3WDT.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
   - 笔记另附公式 1–6 的图片（eq_1 至 eq_6），分别对应 hTST 速率公式、NEB 合力、真实力垂直投影、弹簧力平行投影、CI 修正力、可变弹簧常数分段公式。
 ## 🔬 项目连接
   - **project-5（SnTe 铁电 LAMMPS 势函数模拟，strong）**：CI-NEB 是用 DFT 或经验势/MLIP 计算铁电极化翻转路径、相变势垒与最小能量路径的标准工具；论文明确指出 NEB/CI-NEB 可与经验势结合并扩展到百万原子体系，且在 VASP 中实现，直接对应 SnTe 极化翻转、相变动力学所需的势垒计算流程。可变弹簧常数对处理 SnTe 中长而平坦的翻转路径特别有用。
@@ -109,12 +109,18 @@ Graeme Henkelman, Blas P. Uberuaga, Hannes Jónsson，2000，The Journal of Chem
   - **project-4（TTF 分子晶体 MD/MLIP，medium）**：论文明确提到 NEB/CI-NEB 已与经验势结合用于大分子体系（含百万原子算例），可与 DeepMD/MACE 等 MLIP 联用计算 TTF 分子晶体中层间滑动、相变或电荷转移相关的过渡态与势垒，为 MLIP 训练集补充过渡态构型。
   - **project-7（CDW 电荷密度波，medium）**：项目图表规划中包含 NM/FM CDW 态之间的能量景观与相变势垒（Figure 2），CI-NEB 可直接用于计算 1T/1T' 相 or NM/FM-CDW 相之间的相变 MEP 与势垒，为机电驱动应变与滞后回线提供能量路径数据。
   - project-1（双光子）、project-3（机械发光 NN）、project-6（湿度传感器）：无直接项目连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
 文章是典型的"问题—方法—验证"通讯体：第 I 节由稀有事件/TST 引出鞍点搜索问题并回顾 NEB 及切线改进；第 II 节给出 DFT 计算设置（PW91、超软赝势、VASP、平面波截断 350/200 eV）；第 III 节用公式 (2)–(4) 重述常规 NEB 的力投影；第 IV 节给出 CI 修改公式 (5) 并用 CH4/Ir(111) 验证；第 V 节给出可变弹簧常数公式 (6) 并用 H2/Si(100) 验证，最后以收敛步数（179/190/178 次力评估）证明无额外成本。值得复用的术语：Climbing Image（爬升图像）、Nudging/Force Projection（微动/力投影）、Minimum Energy Path（最小能量路径）、Saddle Point（鞍点）、Corner-cutting（切角问题）、Sliding-down（下滑问题）、Dividing Surface（分界面）、Harmonic TST（谐波过渡态理论）、Variable Spring Constants（可变弹簧常数）、Reaction Coordinate（反应坐标）。
 ## ✏️ 可写入 Wiki 的要点
   1. CI-NEB 的核心修正是公式 (5)：$F_{i_\max}=-\nabla E(R_{i_\max})+2\,\nabla E(R_{i_\max})|_{\parallel}$，即把最高能图像所受势能力沿弹性带切线方向的分量反转、垂直分量保持不变，使其沿带"爬升"而垂直方向仍向 MEP 驰豫，最高能图像完全不受弹簧力作用。
   2. 该修改是纯代数操作，不增加任何力评估次数；所有图像同时弛豫，CI-NEB 与常规 NEB 的计算量之差在 10% 以内（CH4/Ir(111) 算例中 CI-NEB 甚至不一定更慢）。
-  3. NEB 的"微动"力投影（公式 2–4）只保留真实力的垂直分量 $-\nabla E|_\perp$ 和弹簧力的平行分量 $F^s|_\parallel=k(|\mathbf R_{i+1}-\mathbf R_i|-|\mathbf R_i-\mathbf R_{i-1}|)\hat\tau_i$，从而同时消除"切角"（弹簧力拉直弯曲路径）和"下滑"（真实力把图像拉向端点极小值）两个问题。
+  3. NEB 的"微动"[[../concepts/force-projection-nudging|力投影]]（公式 2–4）只保留真实力的垂直分量 $-\nabla E|_\perp$ 和弹簧力的平行分量 $F^s|_\parallel=k(|\mathbf R_{i+1}-\mathbf R_i|-|\mathbf R_i-\mathbf R_{i-1}|)\hat\tau_i$，从而同时消除"切角"（弹簧力拉直弯曲路径）和"下滑"（真实力把图像拉向端点极小值）两个问题。
   4. 可变弹簧常数公式 (6)：$k'_i=k_{\max}-\Delta k\,(E_{\max}-E_i)/(E_{\max}-E_{\rm ref})$（$E_i>E_{\rm ref}$ 时），否则取 $k_{\max}-\Delta k$；$E_i$ 取弹簧所连两图像中能量较高者，$E_{\rm ref}$ 取 MEP 两端点中能量较高者，从而保证两端图像密度大致均衡并将图像拉向鞍点区。
   5. hTST 速率公式 (1)：$k^{\rm hTST}=(\prod_i^{3N}\nu_i^{\rm init}/\prod_i^{3N-1}\nu_i^\ddagger)\exp[-(E^\ddagger-E^{\rm init})/k_BT]$，鞍点缺失一个（虚频）模方向，频率乘积比包含熵效应。
   6. CH4/Ir(111) 算例：DFT/PW91 预测活化能约 0.4 eV（实验 0.28 eV，尚需零点能、色散、有限尺寸修正）；过渡态时最近邻 Ir 原子被拉出表面 0.5 Å，说明 MEP 显著偏离端点直线插值，简单线性插值路径会失败；MEP 上存在一个比 0.0 端点化学吸附态更深的中间极小值（H 处于桥位）。

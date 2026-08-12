@@ -113,7 +113,7 @@ Fei Wang, Li Deng, Yanzhao Wu, Xiang Yin, Junwei Tong, Xianmin Zhang，2025，Ap
   - 概念 [[../concepts/dzyaloshinskii-moriya-interaction|Dzyaloshinskii–Moriya 相互作用]]
   - 概念 [[../concepts/half-metal|半金属]]
   - 概念 [[../concepts/heisenberg-model|海森堡模型]]
-  - 概念 [[../concepts/magnetic-anisotropy|磁各向异性]]
+  - 概念 [[../concepts/magnetic-anisotropy-energy|磁各向异性]]
   - 概念 [[../concepts/micromagnetic-simulation|微磁学模拟]]
   - 概念 [[../concepts/topological-spin-texture|拓扑自旋织构]]
   - 概念 [[../concepts/stoner-model|Stoner 模型]]
@@ -146,8 +146,8 @@ Fei Wang, Li Deng, Yanzhao Wu, Xiang Yin, Junwei Tong, Xianmin Zhang，2025，Ap
 ## 📊 关键图表
   - ![图1 单层 In₂NO₂ 晶体结构、能带、差分电荷密度与态密度，揭示半金属及 N-p 轨道 d0 磁性起源](../../raw/figures/wangTunableD0Topological2025b/fig_1_7FXHGJ8M.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - ![图2 原子分辨 SOC 能量差、零场/1T 下自旋织构、±P 态斯格明子手性相反](../../raw/figures/wangTunableD0Topological2025b/fig_2_QZWY2VAA.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
-  - ![图3 垂直/水平磁场下斯格明子与双半子的磁场及温度演化（0–150 K / 0–120 K）](../../raw/figures/wangTunableD0Topological2025b/fig_3_UYVUXL8I.png)
-  - ![图4 J、d_k、SIA 随双轴应变变化，及应变-磁场拓扑相图（斯格明子/双半子）](../../raw/figures/wangTunableD0Topological2025b/fig_4_R8KDU8IB.png)
+  - ![图3 垂直/水平磁场下斯格明子与双半子的磁场及温度演化（0–150 K / 0–120 K）](../../raw/figures/wangTunableD0Topological2025b/fig_3_UYVUXL8I.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图4 J、d_k、SIA 随双轴应变变化，及应变-磁场拓扑相图（斯格明子/双半子）](../../raw/figures/wangTunableD0Topological2025b/fig_4_R8KDU8IB.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
   - ![图5 In₂NO₂/MoSe₂ 异质结结构、差分电荷密度及 ±P 态 Q-Bz 曲线，演示电场开关"0/1"](../../raw/figures/wangTunableD0Topological2025b/fig_5_GYG5QB2H.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - ![表2 In₂NO₂/MoSe₂ 异质结 ±P 态磁参数（J、d_k、k、K 等）](../../raw/figures/wangTunableD0Topological2025b/tab_2_6CDFIS37.png)
 
@@ -156,13 +156,17 @@ Fei Wang, Li Deng, Yanzhao Wu, Xiang Yin, Junwei Tong, Xianmin Zhang，2025，Ap
   - **project-5（SnTe 铁电模拟）— medium**：论文展示了一整套可复用的二维铁电 DFT 工作流——Berry 相位极化计算、双轴应变对铁电/磁性参数的调谐、vdW 异质结（In₂NO₂/MoSe₂）中极化方向调制界面电荷转移与功函数失配的分析。这些方法对 SnTe 薄膜/异质结的铁电模拟有直接方法学参考价值；拓扑磁部分本身关系不大。
   - project-1（双光子）、project-3（机械发光 NN）、project-4（TTF 分子计算）、project-6（湿度传感器）、project-7（CDW）：无直接项目连接。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+
 ## 📝 组织与用词
 文章按"问题提出 → 材料设计 → 电子/磁性质论证 → 磁场/温度/应变/电场多维度调控 → 器件编码演示"的递进逻辑组织，先确立 In₂NO₂ 的 d⁰ 铁磁性与本征铁电性，再以 DFT 参数驱动微磁学模拟得到斯格明子/双半子相图，最后落到 In₂NO₂/MoSe₂ 异质结的"0/1"编码。值得在 wiki 中复用的术语：
-  - d⁰ 磁性 / d0 magnetism
-  - 拓扑自旋织构 / topological spin texture
-  - 斯格明子 / skyrmion
-  - 双半子 / bimeron
-  - Dzyaloshinskii–Moriya 相互作用 / Dzyaloshinskii–Moriya interaction (DMI)
+  - d⁰ 磁性 [[../concepts/d0-magnetism|d⁰ 磁性]] / d0 magnetism
+  - 拓扑自旋织构 [[../concepts/topological-spin-texture|拓扑自旋织构]] / topological spin texture
+  - 斯格明子 [[../concepts/skyrmion|斯格明子]] / skyrmion
+  - 双半子 [[../concepts/bimeron|双半子]] / bimeron
+  - Dzyaloshinskii–Moriya 相互作用 [[../concepts/dzyaloshinskii-moriya-interaction|Dzyaloshinskii–Moriya 相互作用]] / Dzyaloshinskii–Moriya interaction (DMI)
   - 单离子各向异性 / single-ion anisotropy (SIA)
   - 铁电场效应 / ferroelectric field effect
   - 拓扑电荷 / topological charge Q
@@ -170,12 +174,12 @@ Fei Wang, Li Deng, Yanzhao Wu, Xiang Yin, Junwei Tong, Xianmin Zhang，2025，Ap
 
 ## ✏️ 可写入 Wiki 的要点
   1. 单层 In₂NO₂ 为 P3m1（No. 156）三角晶格，O–In–N–In–O 五原子层堆垛，优化晶格常数 a = 3.41 Å，结构与已合成的 α-In₂Se₃ 类似；声子谱与 AIMD 验证其动力学和热稳定性。
-  2. In 原子电子构型由 [Kr]4d¹⁰5s²5p¹ 失去 3 个电子变为 [Kr]4d¹⁰5s⁰5p⁰，N 原子变为 1s²2s²2p⁵，仅一个未配对 p 电子，体系总磁矩 1 μ_B/f.u.，N 原子上 M_N = 0.584 μ_B（非整数，体现离域铁磁，用 Stoner 模型描述）；U 值对能带几乎无影响，取 U = 0 eV。
-  3. 能带为半金属：一自旋通道穿费米面、另一通道有带隙；SOC 对电子结构影响很小。
-  4. 磁参数：J = 32.2194 meV（铁磁），面内 DMI d_k 在 +P/-P 态分别为 +0.9367/-0.9367 meV，各向异性交换 k ≈ 0，K_MCA = 18 μeV、K_MSA = 3.8 μeV，单离子各向异性 K = 14.2 μeV（面外易轴），蒙特卡洛估计 T_C ≈ 105 K；面外 DMI d_⊥ 因 C3 对称可忽略。
+  2. In 原子电子构型由 [Kr]4d¹⁰5s²5p¹ 失去 3 个电子变为 [Kr]4d¹⁰5s⁰5p⁰，N 原子变为 1s²2s²2p⁵，仅一个未配对 p 电子，体系总磁矩 1 μ_B/f.u.，N 原子上 M_N = 0.584 μ_B（非整数，体现离域铁磁，用 [[../concepts/stoner-model|Stoner 模型]]描述）；U 值对能带几乎无影响，取 U = 0 eV。
+  3. 能带为[[../concepts/half-metal|半金属]]：一自旋通道穿[[../concepts/fermi-surfaces|费米面]]、另一通道有带隙；SOC 对电子结构影响很小。
+  4. 磁参数：J = 32.2194 meV（铁磁），面内 DMI d_k 在 +P/-P 态分别为 +0.9367/-0.9367 meV，[[../concepts/migdal-eliashberg-theory|各向异性]]交换 k ≈ 0，K_MCA = 18 μeV、K_MSA = 3.8 μeV，单离子各向异性 K = 14.2 μeV（面外易轴），蒙特卡洛估计 T_C ≈ 105 K；面外 DMI d_⊥ 因 C3 对称可忽略。
   5. 强 DMI 主要来自较重的 In 原子的 SOC，而非磁性元素 N 本身——打破"只有重磁性元素才有大 DMI"的直觉。
-  6. 垂直磁场 B_z = 1–5 T 下形成 d⁰ 斯格明子，B_z = 2 T 时拓扑荷峰值 Q = 8，5 T 时斯格明子直径约 9.6 nm，5.5 T 时进入平庸铁磁态；0–150 K 范围内 Q 稳定，归因于 p 轨道磁性的离域化。
-  7. 面内磁场 B_x = 1.5–3 T 下形成双半子，0–120 K 稳定，130 K 进入无序相。
+  6. 垂直磁场 B_z = 1–5 T 下形成 d⁰ [[../concepts/skyrmion|斯格明子]]，B_z = 2 T 时[[../concepts/topological-charge|拓扑荷]]峰值 Q = 8，5 T 时斯格明子直径约 9.6 nm，5.5 T 时进入平庸铁磁态；0–150 K 范围内 Q 稳定，归因于 p 轨道磁性的离域化。
+  7. 面内磁场 B_x = 1.5–3 T 下形成[[../concepts/bimeron|双半子]]，0–120 K 稳定，130 K 进入无序相。
   8. ±P 极化态下 DMI 符号相反，使斯格明子手性相反，可用面外电场可逆翻转手性。
-  9. 应变工程：拉伸应变使 d_k 单调增加、J 略减，|d_k/J| 显著增大，SIA 保持为正并增强；5% 拉伸下斯格明子可在 B_z = 4–11 T 范围内纯相存在，密度增大；压缩应变影响很小。论文引用 MoS₂ 器件典型应变 ≤2.5%、WS₂ 可达 4%，建议 In₂NO₂ 器件可用约 3% 应变。
-  10. In₂NO₂/MoSe₂ 异质结晶格失配仅 2.4%，±P 态下界面电荷转移量因功函数失配不同导致 J、d_k 等参数差异；-P 态 B_z < 5.9 T 为斯格明子相，+P 态仅在 B_z = 5.9–7.0 T 出现斯格明子相（5.9 T 时直径 7.96 nm），从而在约 5.9 T 固定磁场下用电场翻转极化即可在铁磁"0"态与斯格明子"1"态之间非易失切换。
+  9. [[../concepts/strain-engineering|应变工程]]：拉伸应变使 d_k 单调增加、J 略减，|d_k/J| 显著增大，SIA 保持为正并增强；5% 拉伸下斯格明子可在 B_z = 4–11 T 范围内纯相存在，密度增大；压缩应变影响很小。论文引用 MoS₂ 器件典型应变 ≤2.5%、WS₂ 可达 4%，建议 In₂NO₂ 器件可用约 3% 应变。
+  10. In₂NO₂/MoSe₂ 异质结晶格失配仅 2.4%，±P 态下界面[[../concepts/charge-transfer|电荷转移]]量因[[../concepts/work-function|功函数]]失配不同导致 J、d_k 等参数差异；-P 态 B_z < 5.9 T 为斯格明子相，+P 态仅在 B_z = 5.9–7.0 T 出现斯格明子相（5.9 T 时直径 7.96 nm），从而在约 5.9 T 固定磁场下用电场翻转极化即可在铁磁"0"态与斯格明子"1"态之间非易失切换。

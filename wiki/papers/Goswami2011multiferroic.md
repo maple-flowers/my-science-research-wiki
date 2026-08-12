@@ -79,7 +79,7 @@ Goswami, Bhattacharya, Choudhury, Ouladdiaf, Chatterji，2011，Applied Physics 
 通过变温 XRD 与加场中子衍射，首次直接证实约 22 nm 的 BiFeO3 纳米颗粒中仍存在强磁电耦合——极化在 TN 处跃升约 30%、在 5 T 磁场下被抑制约 7%。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/antiferromagnetism|反铁磁性]]、[[../concepts/spin-spiral|自旋螺旋]]、[[../concepts/dzyaloshinskii-moriya-interaction|DM相互作用]]、[[../concepts/oxygen-octahedron-rotation|氧八面体旋转]]、[[../concepts/magnetoelastic-coupling|磁弹耦合]]、[[../concepts/size-effect|尺寸效应]]
+  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/antiferromagnetism|反铁磁性]]、[[../concepts/spin-spiral|自旋螺旋]]、[[../concepts/dzyaloshinskii-moriya-interaction|DM相互作用]]、[[../concepts/oxygen-octahedron-rotation|氧八面体旋转]]、[[../concepts/magnetoelastic-coupling|磁弹耦合]]、[[../concepts/critical-thickness-ferroelectric|尺寸效应]]
   - 实体 [[../entities/BiFeO3]]、[[../entities/Bi2Fe4O9]]、[[../entities/FullProf]]、[[../entities/ILL-D20]]
   - 图表 [[../figures/crystal-structures]]
   - 年度 [[../write/2011]]
@@ -87,14 +87,17 @@ Goswami, Bhattacharya, Choudhury, Ouladdiaf, Chatterji，2011，Applied Physics 
   - 相关论文 **Goswami2011multiferroic**
 
 ## 📊 关键图表
-  - ![图1 TEM 与 HRTEM 照片，显示 ~22 nm 单晶颗粒及 (012) 面晶格条纹](../../raw/figures/Goswami2011multiferroic/fig_1_IBYY5PIF.png)
-  - ![图2 跨 TN 多个温度下的 XRD 实验谱与 FullProf 精修结果（R3c）](../../raw/figures/Goswami2011multiferroic/fig_2_G3IS8VEN.png)
-  - ![图3 室温 0 T 与 5 T 下的中子衍射实验谱与精修结果（λ=2.41 Å）](../../raw/figures/Goswami2011multiferroic/fig_3_9WFFLRUD.png)
-  - ![图4 (a) DSC、(b) 晶格参数 a/c、(c) 体积、(d) 离子位移 δ、(e) 极化 P 随温度变化](../../raw/figures/Goswami2011multiferroic/fig_4_X25BTCRC.png)
+  - ![图1 TEM 与 HRTEM 照片，显示 ~22 nm 单晶颗粒及 (012) 面晶格条纹](../../raw/figures/Goswami2011multiferroic/fig_1_IBYY5PIF.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图2 跨 TN 多个温度下的 XRD 实验谱与 FullProf 精修结果（R3c）](../../raw/figures/Goswami2011multiferroic/fig_2_G3IS8VEN.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图3 室温 0 T 与 5 T 下的中子衍射实验谱与精修结果（λ=2.41 Å）](../../raw/figures/Goswami2011multiferroic/fig_3_9WFFLRUD.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图4 (a) DSC、(b) 晶格参数 a/c、(c) 体积、(d) 离子位移 δ、(e) 极化 P 随温度变化](../../raw/figures/Goswami2011multiferroic/fig_4_X25BTCRC.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 
 ## 🔬 项目连接
   - **project-2 Mn 多铁（strong）**：本文是 BiFeO3 纳米尺度磁电耦合的直接实验证据，对项目有多方面参考价值。机制上，作者提出"自旋螺旋抑制 → 净磁化增强 → 通过 DM 相互作用增强氧八面体绕 [111] 轴的非铁电旋转 → 极性-旋转畸变耦合改变铁电位移"这一完整链条，对 Mn 基多铁中磁-晶格-极化耦合的物理图像是直接可类比的模板；数据上，给出了 R3c 结构跨 TN 的精修原子坐标、Bi-O/Fe-O 键长、Fe-O-Fe/O-Bi-O 键角，以及 0 T/5 T 下的对比（如 Bi 的 z 坐标 0.4524→0.4486、净 δ 减小约 0.06 Å），可作为结构-极化关系的对照；方法上，展示了用变温 XRD + 加场中子衍射 + 离子位移点电荷模型间接定量磁电耦合的完整流程，且 BFO 本身就是 project-2 wiki 页中明确列出的参考实体。
   - project-1 双光子 / project-3 机械发光 NN / project-4 TTF 分子计算 / project-5 SnTe 铁电模拟 / project-6 湿度传感器 / project-7 CDW：无直接项目连接。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
 文章走"问题（纳米尺度耦合是否存在）→ 样品与基础物性（TEM、TN=635 K）→ 两条互补证据链（变温 XRD 给极化跃变 30%；加场中子衍射给磁场抑制 7%）→ 机制讨论（排除六方锰氧化物式畴翻转，提出自旋螺旋抑制 + DM + 八面体旋转耦合）→ 结论与展望（P-E 回线直测、器件集成）"的紧凑 APL 四段式结构。值得复用的术语：
@@ -110,12 +113,12 @@ Goswami, Bhattacharya, Choudhury, Ouladdiaf, Chatterji，2011，Applied Physics 
   - [[../concepts/point-charge-model|point-charge-model]]
 ## ✏️ 可写入 Wiki 的要点
   1. 超声化学共沉淀法合成的 ~22 nm BiFeO3 颗粒为单晶（HRTEM 晶格条纹对应 (012) 面），室温及跨 TN 空间群均保持 R3c，与块体一致；含约 5% Bi2Fe4O9 杂质。
-  2. 纳米颗粒 TN 由块体 ~653 K 降至 ~635 K；DSC 峰显著宽化，表明一级相变在纳米尺度因表面效应而圆化，但 TN 处仍有约 0.4% 的体积收缩，保留一级特征。
-  3. 变温 XRD 精修显示跨 TN 时晶格参数 a、c 与体积均出现异常，源自磁弹耦合；基于离子位移模型算出的极化 P 在 TN 处跃升约 30%。
-  4. 室温中子衍射（λ=2.41 Å）给出磁传播矢量 (0,0,0)（公度磁晶格），Fe3+ 磁矩约 3.22 μB；加 5 T 磁场后净离子位移 δ 减小约 0.06 Å，对应极化被抑制约 7%，未观察到极化方向翻转。
+  2. 纳米颗粒 TN 由块体 ~653 K 降至 ~635 K；DSC 峰显著宽化，表明[[../concepts/first-order-phase-transition|一级相变]]在纳米尺度因表面效应而圆化，但 TN 处仍有约 0.4% 的体积收缩，保留一级特征。
+  3. 变温 XRD 精修显示跨 TN 时晶格参数 a、c 与体积均出现异常，源自[[../concepts/magnetoelastic-coupling|磁弹耦合]]；基于离子位移模型算出的极化 P 在 TN 处跃升约 30%。
+  4. 室温中子衍射（λ=2.41 Å）给出[[../concepts/magnetic-propagation-vector|磁传播矢量]] (0,0,0)（公度磁晶格），Fe3+ 磁矩约 3.22 μB；加 5 T 磁场后净离子位移 δ 减小约 0.06 Å，对应极化被抑制约 7%，未观察到极化方向翻转。
   5. 极化方向在低温下偏离 [111]rh‖[001]hex 约 27° 向六方 ab 面倾斜（颗粒应变约 0.1%），升温至 TN 方向回到 [111]rh‖[001]hex。
   6. 磁有序"从无到有"对极化的影响（30%）远大于远低于 TN 时 5 T 磁场的微扰（7%），据此作者排除了六方锰氧化物中畴翻转-伸缩介导的耦合机制。
-  7. 提出的耦合机制：粒径 < ~62 nm 抑制周期约 62 nm 的自旋螺旋，释放大磁化（~0.4 μB/Fe），经 DM 相互作用增强氧八面体绕 [111] 轴的非铁电旋转；因极性畸变与旋转畸变相互耦合，旋转变化牵引 Bi/Fe 偏心位移，从而调控极化。
+  7. 提出的耦合机制：粒径 < ~62 nm 抑制周期约 62 nm 的[[../concepts/spin-spiral|自旋螺旋]]，释放大磁化（~0.4 μB/Fe），经 DM 相互作用增强氧八面体绕 [111] 轴的非铁电旋转；因极性畸变与旋转畸变相互耦合，旋转变化牵引 Bi/Fe 偏心位移，从而调控极化。
   8. 极化由 Abrahams–Kurtz–Jamieson 离子位移/点电荷方法从精修原子坐标估算（P ~ Σ qi δi），属间接测量；作者明确指出未来需在零场与加场下直接做 P-E 电滞回线验证。
-  9. 粉末样品平均掉了各向异性，无法确定磁场相对于晶轴的方向，这可能掩盖了单晶中沿特定方向更剧烈（甚至翻转）的响应。
+  9. 粉末样品平均掉了[[../concepts/migdal-eliashberg-theory|各向异性]]，无法确定磁场相对于晶轴的方向，这可能掩盖了单晶中沿特定方向更剧烈（甚至翻转）的响应。
   10. Table I/II 提供了 298–643 K 七个温度及 0/5 T 下完整的 R3c 精修数据（晶格常数、Wyckoff 坐标、Bi-O/Fe-O 键长、Fe-O-Fe/O-Bi-O 键角、Rp/Rwp/χ²），可作为 BFO 纳米颗粒结构-极化关系的可复用基准数据。

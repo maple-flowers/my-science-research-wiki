@@ -93,10 +93,13 @@ Greg Khitrov，2000，MRS Bulletin，25(12), 6-7，DOI: [10.1557/mrs2000.238](ht
   - **project-1（双光子）— core**：本文是 project-1 的核心机理性文献。它完整展示了一个双光子聚合体系的配方与工艺：双光子引发剂 bis(diphenylamino) diphenyl hexatriene、DPHPA 单体、N-vinyl pyrrolidinone 活性稀释剂、E7 向列液晶；光源为 90 fs、800 nm、500 Hz、950 μJ、光斑 7 mm² 的飞秒脉冲；两束脉冲时空重合引发自由基聚合。对 project-1 筛选/设计双光子引发剂、优化曝光剂量与相分离形貌具有直接参考价值。文中明确指出双光子吸收后自由基由"引发剂激发电子向 DPHPA 阴离子转移"产生，这一电子转移机制对引发剂分子设计（供体-共轭桥-受体结构）有指导意义。此外，H-TPIP 相对单光子法将液晶畴缩小约 3 倍、富液晶相占比从大幅下降至 25–30%，是定量评价双光子加工优势的基准数据。
   - 其他项目（project-2 至 project-7）：无直接项目连接。本文不涉及 Mn 多铁、机械发光 NN、TTF 分子计算、SnTe 铁电模拟、湿度传感或 CDW。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+
 ## 📝 组织与用词
 文章以"问题—方法—对比证据—机理—展望"的新闻简报体例组织：先指出单光子全息聚合相分离粗糙、开关慢的瓶颈；再引入 H-TPIP 的非线性局域化原理；随后给出配方、激光参数与 LVSEM/偏振显微证据；最后用"自由基初始分布改变聚合-相分离动力学"解释形貌改善，并展望三维内部直写。可复用术语：
   - Holographic two-photon induced photopolymerization (H-TPIP) / 全息双光子诱导光聚合
-  - Nonlinear absorption / 非线性吸收
+  - Nonlinear absorption / 非线性吸收 [[../concepts/nonlinear-absorption|非线性吸收]]
   - Free-radical initiation / 自由基引发
   - Phase-separated morphology / 相分离形貌
   - Liquid-crystal domain / 液晶畴
@@ -105,12 +108,12 @@ Greg Khitrov，2000，MRS Bulletin，25(12), 6-7，DOI: [10.1557/mrs2000.238](ht
   - Volumetric direct writing / 体积直写（材料内部三维写入）
 
 ## ✏️ 可写入 Wiki 的要点
-  - H-TPIP 配方：DPHPA 单体 + bis(diphenylamino) diphenyl hexatriene 双光子引发剂 + N-vinyl pyrrolidinone 活性稀释剂 + 向列液晶 E7，夹于两片 ITO 导电玻璃之间，液层厚度 8 μm。
+  - H-TPIP 配方：DPHPA 单体 + bis(diphenylamino) diphenyl hexatriene [[../concepts/biphoton|双光子]]引发剂 + N-vinyl pyrrolidinone 活性稀释剂 + 向列液晶 E7，夹于两片 ITO 导电玻璃之间，液层厚度 8 μm。
   - 激光参数：两束 90 fs 脉冲（λ=800 nm，单脉冲 950 μJ，重复频率 500 Hz，光斑 7 mm²）在时空上重合；聚合曝光时间最长 60 s。
-  - 自由基产生机制：双光子吸收后，激发电子从引发剂转移至 DPHPA 阴离子，进而引发自由基聚合（而非引发剂直接断链）。
-  - 光栅结构：周期约 3 μm；LVSEM 截面显示相分离液晶畴尺寸 20–200 nm，富液晶相仅占光栅周期的 25–30%，其余为交联聚合物。
+  - 自由基产生机制：[[../concepts/two-photon-absorption|双光子吸收]]后，激发电子从引发剂转移至 DPHPA 阴离子，进而引发自由基聚合（而非引发剂直接断链）。
+  - 光栅结构：周期约 3 μm；LVSEM 截面显示相分离液晶畴尺寸 20–200 nm，富液晶相仅占光栅周期的 25–30%，其余为交联[[../concepts/polymer-phase-separation|聚合物]]。
   - 对比优势：同一团队此前的单光子全息聚合所得富液晶畴占比远大于 H-TPIP；改进源于 H-TPIP 引发体积小得多，自由基初始分布高度局域，形成陡峭浓度梯度，扭曲了聚合-相分离动力学相对于扩散的关系，抑制液晶长程扩散与聚集，"冻结"纳米级微结构。
-  - 开关原理：施加适度电场使 E7 液晶分子重新取向，改变折射率调制深度，从而调控透射/衍射光束强度，实现信息在两态间快速切换。
+  - 开关原理：施加适度电场使 [[../entities/E7-liquid-crystal|E7 液晶]]分子重新取向，改变[[../concepts/refractive-index|折射率]]调制深度，从而调控透射/衍射光束强度，实现信息在两态间快速切换。
   - 三维加工前景：由于双光子过程的非线性与局域性，可在周围透明固体介质内部直接形成相分离衍射结构，有望在材料内部写入透镜等复杂光学元件（体积直写）。
   - 方法学局限（批判性）：500 Hz 重复频率、60 s 曝光对实验室可行但通量低，不利于工业化；飞秒激光系统昂贵复杂；成本效益是否优于优化后的单光子路线仍需评估。
   - 该工作原文发表于 *Chemistry of Materials*（2000年10月号），MRS Bulletin 此文为研究新闻报道，作者为 Greg Khitrov。

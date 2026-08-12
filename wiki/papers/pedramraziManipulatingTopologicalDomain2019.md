@@ -95,41 +95,50 @@ Zahra Pedramrazi, Charlotte Herbig, Artem Pulkin, Shujie Tang, ... Michael F. Cr
 ## 💡 一句话
 用 STM 针尖脉冲在单层 1T′-WSe2 中可逆写入/擦除铁弹畴界（120°/60°/0°）并诱导 1T′→1H 相变，结合 STS 与 DFT/NEGF 首次系统表征了 QSHI 中拓扑"未保护"的 1T′/1T′ 畴界面态，建立了其与拓扑保护 1T′/1H 边缘态的谱学鉴别标准。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/topological-defects]]、[[../concepts/ferroelasticity]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/quantum-spin-hall-insulator|量子自旋霍尔绝缘体]]、[[../concepts/WSe2|WSe2]]、[[../concepts/topological-vs-trivial-interface|拓扑与平庸界面]]、[[../concepts/nonequilibrium-greens-function|非平衡格林函数]]、[[../concepts/pseudogap-zero-bias-anomaly|赝能隙/零偏压异常]]、[[../concepts/peierls-distortion|Peierls畸变]]
+  - 概念 [[../concepts/2D-materials]]、[[../concepts/topological-defects]]、[[../concepts/ferroelasticity]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/quantum-spin-hall-effect|量子自旋霍尔绝缘体]]、[[../entities/WSe2|WSe2]]、[[../concepts/topological-vs-trivial-interface|拓扑与平庸界面]]、[[../concepts/nonequilibrium-greens-function|非平衡格林函数]]、[[../concepts/pseudogap|赝能隙/零偏压异常]]、[[../concepts/peierls-distortion|Peierls畸变]]
   - 实体 [[../entities/TMDs]]、[[../entities/domain-wall]]、[[../entities/WTe2]]
   - 图表 [[../figures/domain-walls]]、[[../figures/electronic-bands]]、[[../figures/crystal-structures]]、[[../figures/experimental-setups]]、[[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积 (Moiré, Twist & Stacking)]]
   - 年度 [[../write/2019]]
   - 相关论文 [[../../raw/note/pedramraziManipulatingTopologicalDomain2019]]
 ## 📊 关键图表
   - ![图1 STM针尖脉冲诱导1T′-WSe2结构相变：(a,b)可逆产生1T′/1T′畴界；(c,d)1T′→1H相变](../../raw/figures/pedramraziManipulatingTopologicalDomain2019/fig_1_K7BJPPZ4.png) → [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
-  - ![图2 三种1T′/1T′畴界(120°/60°/0°)的STM形貌、DFT弛豫结构与STS dI/dV谱对比](../../raw/figures/pedramraziManipulatingTopologicalDomain2019/fig_2_CEYQDS2J.png)
+  - ![图2 三种1T′/1T′畴界(120°/60°/0°)的STM形貌、DFT弛豫结构与STS dI/dV谱对比](../../raw/figures/pedramraziManipulatingTopologicalDomain2019/fig_2_CEYQDS2J.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
   - ![图3 同一区域120°畴界与1T′/1H边界的能量依赖dI/dV mapping，揭示平庸畴界态的色散与能量依赖衰减长度](../../raw/figures/pedramraziManipulatingTopologicalDomain2019/fig_3_RZS9DWGU.png) → [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
   - ![图4 DFT/NEGF计算的三种畴界自旋分辨能带与顶层Se原子LDOS，复现实验主要趋势并预言自旋极化](../../raw/figures/pedramraziManipulatingTopologicalDomain2019/fig_4_EMKKQ7YH.png) → [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
 ## 🔬 项目连接
   - **project-2 Mn多铁**：有间接参考价值。本文研究的是铁弹（ferroelastic）畴界而非铁电/磁畴壁，但其"畴界两侧序参量取向不同→畴界处出现一维界面态、界面态色散/自旋极化随畴界角度变化"的物理图像，可类比 Mn 基多铁材料中铁电/铁磁畴壁的导电通道与畴壁电子学（domain-wall electronics）。方法上，"DFT 弛豫畴界原子结构 + NEGF 半无限边界计算畴界能带/LDOS"的计算流程可直接迁移到多铁畴壁的电子结构计算；"用 STS dI/dV 谱区分拓扑保护态与平庸缺陷态、用能量依赖 LDOS mapping 提取衰减长度"的表征策略对多铁畴壁导电通道的实验鉴别有借鉴意义。
   - **project-5 SnTe铁电模拟**：参考价值较强但角度不同。SnTe 是铁电拓扑晶态绝缘体，本文研究的 1T′-WSe2 是 QSHI，两者都涉及"拓扑非平庸材料中畴/畴界的电子结构"这一核心问题。可迁移点：(1) 铁弹/铁电畴取向翻转机制——本文证实单层 1T′ 相通过 STM 脉冲在三等价 Peierls 畸变取向间可逆切换（V_pulse≥6 V，铁弹性证据），对 SnTe 中铁弹-铁电耦合畴的翻转势垒/成核概率计算有类比价值；(2) 畴界类型决定电子结构——120°畴界面外自旋极化、60°畴界自旋方向旋转、0°畴界因反演对称无自旋极化，这一"对称性→自旋纹理"的分析范式可迁移到 SnTe 不同类型铁电畴壁（如 {110} vs {100}）的拓扑性质差异；(3) 计算方法上 NEGF + 半无限边界处理一维畴界的方案适用于 SnTe 畴界的拓扑边缘态计算。但需注意 SnTe 是三维拓扑晶态绝缘体（镜面陈数保护），与二维 Z2 QSHI 的保护机制不同，不能直接套用"Z2 相同即平庸"的判据。
   - **project-1 双光子 / project-3 机械发光NN / project-4 TTF分子计算 / project-6 湿度传感器 / project-7 CDW**：无直接项目连接。唯一弱关联：本文提及 1T′ 相源于 1T 母相的 Peierls 畸变（一种 CDW 不稳定性），对 project-7 理解 CDW 与结构二聚化的关系有边缘背景价值，但不涉及 CDW 的核心物理，不计为实质连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
 文章按"实验操控（针尖脉冲写入畴界）→结构分类（120°/60°/0°三种畴界的原子成像与 DFT 模型）→局域电子性质（STS 点谱 + 能量依赖 dI/dV mapping）→理论印证（DFT 弛豫 + NEGF 能带/LDOS，自旋极化分析）→结论与器件概念"的链条推进；核心对比是在同一区域同时测量平庸 1T′/1T′ 畴界与拓扑 1T′/1H 边界（图3），用能量依赖的实空间 LDOS 直观区分两者。值得复用的术语：
-  - 量子自旋霍尔绝缘体 / quantum spin Hall insulator (QSHI)
+  - 量子自旋霍尔绝缘体 [[../concepts/quantum-spin-hall-effect|量子自旋霍尔绝缘体]] / quantum spin Hall insulator (QSHI)
   - 拓扑平庸畴界 / topologically trivial domain boundary（Z2 不变量两侧相同）
   - 铁弹性 / ferroelasticity（外应力下取向畴可逆切换）
-  - Peierls 畸变 / Peierls distortion（1T→1T′ 二聚化的结构起源）
-  - 非平衡格林函数 / nonequilibrium Green's function (NEGF)（半无限畴界电子结构方法）
+  - Peierls 畸变 [[../concepts/peierls-distortion|Peierls 畸变]] / Peierls distortion（1T→1T′ 二聚化的结构起源）
+  - 非平衡格林函数 [[../concepts/nonequilibrium-greens-function|非平衡格林函数]] / nonequilibrium Green's function (NEGF)（半无限畴界电子结构方法）
   - 能量依赖衰减长度 / energy-dependent decay length（畴界面态空间局域程度随能量变化）
-  - 赝能隙/零偏压异常 / pseudogap / zero-bias anomaly（无序+电子-电子相互作用导致的 V=0 处 LDOS 抑制）
+  - 赝能隙 [[../concepts/pseudogap|赝能隙]]/零偏压异常 / pseudogap / zero-bias anomaly（无序+电子-电子相互作用导致的 V=0 处 LDOS 抑制）
   - 螺旋边缘态 / helical edge state（拓扑保护、自旋-动量锁定）
   - [[../concepts/peierls-distortion|peierls-distortion]]
-  - [[../concepts/quantum-spin-hall-insulator|quantum-spin-hall-insulator]]
-  - [[../concepts/pseudogap-zero-bias-anomaly|pseudogap-zero-bias-anomaly]]
+  - [[../concepts/quantum-spin-hall-effect|quantum-spin-hall-insulator]]
+  - [[../concepts/pseudogap|pseudogap-zero-bias-anomaly]]
 ## ✏️ 可写入 Wiki 的要点
   1. 单层 1T′-WSe2 是 QSHI，体带隙约 85±21 mV（FWHM），中心位于 −130±5 mV（因 BLG/SiC 衬底 n 型掺杂而负移）；1H 相为拓扑平庸半导体。
-  2. STM 针尖脉冲可在单层 1T′-WSe2 中实现两类操控：V_pulse≥6 V 时在不同 1T′ 取向往返切换（可逆，铁弹性直接证据，高电流 300 mV/1 nA 扫描可擦除）；V_pulse≥10 V 时诱导 1T′→1H 局部相变（不可逆，仅在受限区域发生，1H 区表观高度更低）。取向翻转势垒低于 1T′→1H 相变异垒。
-  3. 1T′ 相由 C3 对称的 1T 母相经 Peierls 畸变形成三个等价二聚化取向，故畴界只能取 120°（占85%）、60°（13%）、0°（2%）三种；畴界为直线缺陷，最长约 20 nm。
-  4. 120°和60°畴界的 STS 谱在 −300 mV 至 0 V 呈宽斜坡、无明显体带隙特征；0°畴界在体带隙能量处保留明显凹陷。三者均在 V=0 处有窄凹陷（赝能隙），归归因于低维体系中无序与长程电子-电子相互作用的协同，在畴界处更显著。
+  2. STM 针尖脉冲可在单层 1T′-WSe2 中实现两类操控：V_pulse≥6 V 时在不同 1T′ 取向往返切换（可逆，[[../concepts/ferroelasticity|铁弹性]]直接证据，高电流 300 mV/1 nA 扫描可擦除）；V_pulse≥10 V 时诱导 1T′→1H 局部相变（不可逆，仅在受限区域发生，1H 区表观高度更低）。取向[[../concepts/switching-barrier|翻转势垒]]低于 1T′→1H 相变异垒。
+  3. 1T′ 相由 C3 对称的 1T 母相经 [[../concepts/peierls-distortion|Peierls 畸变]]形成三个等价[[../concepts/dimerization|二聚化]]取向，故畴界只能取 120°（占85%）、60°（13%）、0°（2%）三种；畴界为直线缺陷，最长约 20 nm。
+  4. 120°和60°畴界的 STS 谱在 −300 mV 至 0 V 呈宽斜坡、无明显体带隙特征；0°畴界在体带隙能量处保留明显凹陷。三者均在 V=0 处有窄凹陷（[[../concepts/pseudogap|赝能隙]]），归归因于低维体系中无序与长程电子-电子相互作用的协同，在畴界处更显著。
   5. 能量依赖 dI/dV mapping（图3）：120°畴界态主要分布在 −400 mV<Vs<−60 mV，在价带深处（−400 mV）亮、能隙内（−120 mV）仍亮、接近导带底（−60 mV）变暗；1T′/1H 拓扑边缘态在能隙内保持高 LDOS。120°畴界态衰减长度比拓扑边缘态更强地依赖能量，低能端更弥散。
   6. DFT/NEGF 计算：60°畴界（对称性最低）缺陷模跨越整个带隙；120°畴界留有约 10 meV 微小能隙（经 σ=30 meV 高斯展宽后抹平，与实验一致）；0°畴界因反演对称保留类体能隙且无自旋极化。120°畴界态面外自旋极化，60°畴界同一能带内自旋方向旋转。
   7. 拓扑判据：界面两侧 Z2 不变量不同（1T′/1H、1T′/真空）则必然存在受拓扑保护、直接连接价带与导带的螺旋边缘态（STS 上为能隙内清晰峰）；Z2 相同（1T′/1T′）的界面态是非保护的色散缺陷模，不直接连接价带导带，对无序敏感。
   8. 理论方法：先以平面波 DFT 在 ribbon 几何下周期性边界弛豫畴界原子结构，再用 NEGF 加半无限边界条件计算一维线缺陷的自旋分辨能带和 LDOS，克服周期性超胞方法处理开放缺陷的局限。
   9. 理论与实验的主要差异：DFT 预言 E=0 处 LDOS 峰，实验观测到宽凹陷，归因于 DFT 未包含的无序+电子-电子相互作用（Altshuler-Aronov 型零偏压异常/库仑赝能隙），提示低维畴界体系需 GW 或 DMFT 等多体方法补充。
-  10. 器件概念：可将 1T′ 拓扑边缘视为无耗散"高速公路"，用可控写入的平庸 1T′/1T′ 畴界作为"道岔"，将沿 QSH 边缘传播的载流子可控偏转入畴界面态，实现栅压可调的电荷/自旋输运（本文仅提供电子结构层面的概念验证，未做输运测量）。
+  10. 器件概念：可将 1T′ 拓扑边缘视为无耗散"高速公路"，用可控写入的平庸 1T′/1T′ 畴界作为"道岔"，将沿 QSH 边缘传播的载流子可控偏转入畴界面态，实现栅压可调的电荷/[[../concepts/spin-transport|自旋输运]]（本文仅提供电子结构层面的概念验证，未做输运测量）。

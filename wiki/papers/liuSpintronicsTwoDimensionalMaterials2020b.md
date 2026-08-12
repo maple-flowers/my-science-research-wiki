@@ -165,37 +165,42 @@ Yanping Liu, Cheng Zeng, Jiahong Zhong, Junnan Ding, Zhiming M. Wang, Zongwen Li
 
 ## 📊 关键图表
   - 图1 非磁二维材料磁性工程策略：氢化/空位/纳米带、双层石墨烯墨西哥帽能带、石墨烯/YIG 邻近效应器件。
-    ![图1 磁性工程策略](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_1_VXXN2SRG.png)
+    ![图1 磁性工程策略](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_1_VXXN2SRG.png) -> [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - 图2 不同隧道势垒（Al2O3/MgO/hBN）下石墨烯自旋注入极化率随年份的发展。
-    ![图2 电注入发展](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_2_IPZH8V89.png)
+    ![图2 电注入发展](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_2_IPZH8V89.png) -> [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - 图3 快速拾取转移技术、FM/双层 hBN/石墨烯中偏压诱导的 ±100% 注入/检测极化率、氟化石墨烯隧穿势垒。
-    ![图3 高效电注入](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_3_TM5KIMSA.png)
+    ![图3 高效电注入](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_3_TM5KIMSA.png) -> [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - 图4 光学注入（WSe2/石墨烯、Co/MoS2 飞秒激光）、Bi2Te2Se 拓扑绝缘体注入、MoS2 邻近诱导自旋霍尔效应、石墨烯/Pt 自旋-电荷转换。
-    ![图4 光注入与SOC注入](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_4_767YPDYC.png)
+    ![图4 光注入与SOC注入](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_4_767YPDYC.png) -> [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - 图5 Rashba 界面与 TI 表面态的能带/费米轮廓及 Edelstein 效应：电荷流→自旋积累的微观图像。
-    ![图5 Edelstein效应](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_5_JCRJICFM.png)
+    ![图5 Edelstein效应](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_5_JCRJICFM.png) -> [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - 图6 石墨烯自旋器件结构演进：氧化物势垒→悬浮→不同衬底→hBN 衬底/封装。
-    ![图6 器件结构趋势](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_6_I7PXRSCV.png)
+    ![图6 器件结构趋势](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_6_I7PXRSCV.png) -> [[../figures/electronic-devices|电子与突触器件]]
   - 图7 Hanle 测量原理、不同堆叠 hBN 势垒比较、柔性石墨烯自旋电路、hBN/BP/hBN 自旋阀、硅烯 FET 合成-转移-制备流程。
-    ![图7 Hanle与多材料自旋阀](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_7_8WSJ9B3P.png)
+    ![图7 Hanle与多材料自旋阀](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_7_8WSJ9B3P.png) -> [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - 图8 自旋操控：离子栅调控 Fe3GeTe2 至室温以上、双层 CrI3 静电掺杂 AFM↔FM、轨道依赖层间超-超交换、MoS2/石墨烯室温栅控自旋阀、Y 形自旋流解复用器。
-    ![图8 自旋操控](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_8_FACCGDNS.png)
+    ![图8 自旋操控](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_8_FACCGDNS.png) -> [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - 图9 应用：多层 MoS2 MTJ、Fe3GeTe2/hBN/Fe3GeTe2 全二维 MTJ（TMR 160%）、石墨烯自旋滤波、五铁磁电极石墨烯磁逻辑门（OR/NAND）。
-    ![图9 器件应用](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_9_WV5SSCXM.png)
+    ![图9 器件应用](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_9_WV5SSCXM.png) -> [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - 图10 全文总结示意：电/光注入→二维材料自旋流→异质结界面操控→逻辑信号。
-    ![图10 综述概览](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_10_4P9YXWDC.png)
+    ![图10 综述概览](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/fig_10_4P9YXWDC.png) -> [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - 表1 部分二维磁性材料的 Tc、电学性质与磁学性质（Cr2Ge2Te6、Cr2Si2Te6、Fe3GeTe2、VSe2、VS2、MnSe2、CrI3、CrBr3、ReI3、ReBr3）。
-    ![表1 二维磁性材料](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/tab_1_KH35PVEU.png)
+    ![表1 二维磁性材料](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/tab_1_KH35PVEU.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - 表2 2007–2019 年石墨烯/BP/MoS2 自旋输运 τs、λs、温度随器件结构的发展。
-    ![表2 自旋输运进展](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/tab_2_R3KVKYLJ.png)
+    ![表2 自旋输运进展](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/tab_2_R3KVKYLJ.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - 公式(4) Hanle 拟合公式：R_NL ∝ ±∫[1/√(4πDs t)] exp(−L²/4Ds t) cos(ω_L t) exp(−t/τs) dt。
-    ![公式4 Hanle公式](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/eq_4_ENLRRCIZ.png)
+    ![公式4 Hanle公式](../../raw/figures/liuSpintronicsTwoDimensionalMaterials2020b/eq_4_ENLRRCIZ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 
 ## 🔬 项目连接
   - **project-2 Mn多铁（strong）**：本综述是二维磁性与磁电耦合的核心参考。Fe3GeTe2 离子液体栅将 Tc 调至室温以上、双层 CrI3 静电掺杂实现层间 AFM↔FM 切换、Cr2Ge2Te6/Cr2Si2Te6 的应力-自旋-晶格耦合、CrI3 层间堆叠决定磁耦合（轨道依赖超-超交换）等，与 Mn 基多铁项目关注的"电场/应力调控磁序""层状磁体磁电耦合""二维 vdW 磁体"直接对应；表1 提供的二维磁体 Tc 数据库可直接复用；磁电多铁性被作者明确点名作为提升电调控效率的途径（但理论信息尚少），与项目主题高度契合。
   - **project-5 SnTe铁电模拟（medium）**：SnTe 作为拓扑晶态绝缘体/铁电半导体，其 Rashba SOC、自旋-电荷转换、界面邻近效应是本综述第2.4节与第4.2节的核心物理。Rashba 哈密顿量 H_R = v0 ẑ·(k×σ)、Edelstein 效应、自旋霍尔/逆自旋霍尔效应、TI 表面态向石墨烯注入自旋（Bi2Te2Se）、石墨烯/MoS2 与石墨烯/WS2 邻近诱导 SOC 的第一性原理结果，均可为 SnTe 异质结中 SOC 与铁电耦合的模拟提供物理图像与计算参照（例如界面质量对邻近效应强度的决定性作用）。
   - **project-7 CDW（weak）**：本综述未直接讨论电荷密度波或 WTe2，仅在"二维金属/半金属"和"新型二维材料"层面有形式上的交集（如 VSe2、1T-VS2 等 1T 相过渡金属二硫化物被列为室温铁磁候选，与 CDW 相竞争/共存的 1T 相材料同源）。可作为 1T-TMD 相图与层状金属物性的背景文献，但无直接机制或数据可复用。
   - project-1 双光子、project-3 机械发光NN、project-4 TTF分子计算、project-6 湿度传感器：无直接项目连接。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
   全文按"注入→输运→操控→应用"四幕递进组织，每幕先列物理障碍、再给技术路线、后以代表性实验数据收束；表1（二维磁体 Tc 数据库）与表2（自旋输运编年史）承担定量骨架，图10 回扣全局。论证反复回到同一组核心矛盾：石墨烯弱 SOC 利于长距离输运却不利于电控，强 SOC（邻近 TMDCs）利于操控却缩短 τs；室温二维铁磁体稀缺；外在散射（衬底、残留物、接触）vs 本征弛豫机制之争。值得在 wiki 叙述中复用的术语：
@@ -213,13 +218,13 @@ Yanping Liu, Cheng Zeng, Jiahong Zhong, Junnan Ding, Zhiming M. Wang, Zongwen Li
   - spin-transfer torque (STT) / 自旋转移矩
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 电导率失配公式 P = (r_F P_F + r_C P_C)/r_FN（r_FN = r_F + r_N + r_C）定量说明铁磁金属直接接触二维材料时自旋注入效率极低；插入隧道势垒使 r_C ≠ 0 是标准解法，hBN 因原子级平整、与石墨烯晶格失配仅约 1.8% 成为最佳势垒。
+  1. 电导率失配公式 P = (r_F P_F + r_C P_C)/r_FN（r_FN = r_F + r_N + r_C）定量说明铁磁金属直接接触[[../concepts/2D-materials|二维材料]]时[[../concepts/spin-injection|自旋注入]]效率极低；插入隧道势垒使 r_C ≠ 0 是标准解法，hBN 因原子级平整、与[[../entitys/graphene|石墨烯]]晶格失配仅约 1.8% 成为最佳势垒。
   2. Gurram et al. 在 FM/双层 hBN/石墨烯/hBN 异质结中通过直流偏压将差分注入/检测极化率推至接近 ±100%（Nat. Commun. 8, 248, 2017）；Kamalakar et al. 用 Co/CVD-hBN/石墨烯实现约 65% 极化率并首次观测到信号反转。
-  3. 自旋注入除电注入外尚有三条路径：(i) 磁工程（氢化石墨烯每个 H 贡献约 1 μB；空位、锯齿纳米带；偏压双层石墨烯墨西哥帽能带 Stoner 失稳）；(ii) 光注入（WSe2 圆偏光谷极化扩散至石墨烯；飞秒激光在 Co 中产生远平衡自旋注入 MoS2，自旋电流密度达 10^6–10^8 A cm^-2）；(iii) SOC 注入（Rashba/TI 表面态 Edelstein 效应、重金属/Pt 自旋霍尔效应）。
+  3. 自旋注入除电注入外尚有三条路径：(i) 磁工程（氢化石墨烯每个 H 贡献约 1 μB；空位、锯齿纳米带；偏压[[../entities/bilayer-graphene|双层石墨烯]]墨西哥帽能带 Stoner 失稳）；(ii) 光注入（WSe2 圆偏光谷极化扩散至石墨烯；飞秒激光在 Co 中产生远平衡自旋注入 MoS2，自旋电流密度达 10^6–10^8 A cm^-2）；(iii) SOC 注入（Rashba/TI 表面态 [[../concepts/edelstein-effect|Edelstein 效应]]、重金属/Pt [[../concepts/spin-hall-effect|自旋[[../concepts/hall-effect|霍尔效应]]]]）。
   4. Rashba 哈密顿量 H_R = v0 ẑ·(k×σ)，对应有效 k 依赖磁场 B(k) = 2α ẑ×k；Edelstein 效应使面内电荷流 j_C 偏移费米轮廓 Δk，在横向产生自旋积累并可扩散为纯三维自旋流。
-  5. 石墨烯自旋输运性能编年史：SiO2/Si 衬底 τs≈170 ps、λs≈2 μm（2007/300 K）；SiC 衬底 1.3 ns；hBN 衬底 0.39 ns/4.5 μm；hBN 部分封装 2 ns/12 μm；悬浮 + hBN 封装 12.6 ns/30.5 μm（迄今剥离石墨烯最高，2016）；hBN 封装 2–3 层势垒可达 1.86 ns。自旋弛豫时间与迁移率无强相关，电荷散射不是主因，溶剂残留和接触诱导退相更为关键。
+  5. 石墨烯[[../concepts/spin-transport|自旋输运]]性能编年史：SiO2/Si 衬底 τs≈170 ps、λs≈2 μm（2007/300 K）；SiC 衬底 1.3 ns；hBN 衬底 0.39 ns/4.5 μm；hBN 部分封装 2 ns/12 μm；悬浮 + hBN 封装 12.6 ns/30.5 μm（迄今剥离石墨烯最高，2016）；hBN 封装 2–3 层势垒可达 1.86 ns。[[../concepts/spin-relaxation|自旋弛豫]]时间与迁移率无强相关，电荷散射不是主因，溶剂残留和接触诱导退相更为关键。
   6. Hanle 拟合公式 R_NL ∝ ±∫₀^∞ [1/√(4πDs t)] exp(−L²/4Ds t) cos(ω_L t) exp(−t/τs) dt，ω_L = gμ_B B⊥/ℏ，是提取 τs、λs 的标准方法；λs = √(τs Ds)。
   7. 其他通道：黑磷 hBN/BP/hBN 在 100 K 下 τs 达 4 ns、λs > 6 μm；硅烯通过 Ag(111) 外延 + 原位 Al2O3 封装 + 剥离转移实现室温 FET；多层 MoS2 导带中自旋扩散长度约 235 nm。
-  8. 二维磁体电控：离子液体栅将三层 Fe3GeTe2 的 Tc 调至室温以上（Deng et al., Nature 563, 94, 2018）；双栅双层 CrI3 通过静电掺杂实现层间 AFM↔FM 完全可逆切换（Jiang et al.）；CrI3 层间磁耦合由堆叠方式决定，机制为轨道依赖的超-超交换（Sivadas et al.）。
-  9. 应力/层间 vdW 调控：Cr2Si2Te6、Cr2Ge2Te6、Fe3GeTe2 中均存在自旋-晶格耦合；Cr2Si2Te6 在应力下 Tc 可至 290 K；设计高温二维铁磁体的经验法则是"增强交换相互作用 + 单轴磁各向异性"。
-  10. 器件：Fe3GeTe2/hBN/Fe3GeTe2 全二维 MTJ 低温 TMR 达 160%；CrI3 作势垒的磁 vdW 异质结 TMR 可达 10^6%（磁振子辅助隧穿）；石墨烯因与 Co/Ni 晶格匹配产生自旋滤波，低温 MR 12%、室温 5%；五铁磁电极石墨烯磁逻辑门通过 I_w/I_r 自旋扭矩 management 电极磁化，可实现 OR{ A,D } 与 NAND{ A,D }；基于石墨烯/TMDCs 的 Spin-FET 式精确自旋进动（Datta–Das, 1990）尚未真正实现。
+  8. 二维磁体电控：离子液体栅将三层 Fe3GeTe2 的 Tc 调至室温以上（Deng et al., Nature 563, 94, 2018）；双栅双层 CrI3 通过静电掺杂实现层间 AFM↔FM 完全可逆切换（Jiang et al.）；CrI3 [[../concepts/interlayer-magnetic-coupling|层间磁耦合]]由堆叠方式决定，机制为轨道依赖的超-[[../concepts/superexchange|超交换]]（Sivadas et al.）。
+  9. 应力/层间 vdW 调控：Cr2Si2Te6、Cr2Ge2Te6、Fe3GeTe2 中均存在自旋-晶格耦合；Cr2Si2Te6 在应力下 Tc 可至 290 K；设计高温二维铁磁体的经验法则是"增强交换相互作用 + 单轴[[../concepts/magnetic-anisotropy-energy|磁各向异性]]"。
+  10. 器件：Fe3GeTe2/hBN/Fe3GeTe2 全二维 MTJ 低温 TMR 达 160%；CrI3 作势垒的磁 [[../concepts/van-der-waals-heterostructure|vdW 异质结]] TMR 可达 10^6%（磁振子辅助隧穿）；石墨烯因与 Co/Ni 晶格匹配产生自旋滤波，低温 MR 12%、室温 5%；五铁磁电极石墨烯磁逻辑门通过 I_w/I_r 自旋扭矩 management 电极磁化，可实现 OR{ A,D } 与 NAND{ A,D }；基于石墨烯/TMDCs 的 Spin-FET 式精确自旋进动（Datta–Das, 1990）尚未真正实现。

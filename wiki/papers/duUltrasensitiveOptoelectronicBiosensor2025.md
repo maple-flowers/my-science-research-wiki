@@ -117,21 +117,25 @@ Bowen Du, Xilin Tian, Zhi Chen, Yanqi Ge, Chuanghu Chen, Haiyan Gao, Zhongyang L
   - 年度 [[../write/2025]]
   - 相关论文 **duUltrasensitiveOptoelectronicBiosensor2025**
 ## 📊 关键图表
-  - ![图1 传感器结构、激子-等离激元耦合原理与CRISPR检测流程](../../raw/figures/duUltrasensitiveOptoelectronicBiosensor2025/fig_1_BXNBIMFM.png)
+  - ![图1 传感器结构、激子-等离激元耦合原理与CRISPR检测流程](../../raw/figures/duUltrasensitiveOptoelectronicBiosensor2025/fig_1_BXNBIMFM.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
   - ![图2 不同转角tBLG拉曼光谱、金纳米盘SEM/AFM形貌、光电流-电压/功率曲线、实时开关与空间光电流成像](../../raw/figures/duUltrasensitiveOptoelectronicBiosensor2025/fig_2_TCFKNXU2.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - ![图3 吸收光谱蓝移、泵浦-探测载流子动力学、DFPT介电常数各向异性、DFT能带与STS验证VHS](../../raw/figures/duUltrasensitiveOptoelectronicBiosensor2025/fig_3_GLKWBZ8Y.png)
+  - ![图3 吸收光谱蓝移、泵浦-探测载流子动力学、DFPT介电常数各向异性、DFT能带与STS验证VHS](../../raw/figures/duUltrasensitiveOptoelectronicBiosensor2025/fig_3_GLKWBZ8Y.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
   - ![图4 转角依赖的光响应度-光子能量关系、偏压调制、调制深度与FDTD热点模拟](../../raw/figures/duUltrasensitiveOptoelectronicBiosensor2025/fig_4_9UN4Q757.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - ![图5 DNA折纸组装、PAGE验证、TEM三角形结构、AFM高度分布、浓度依赖光电流与检测限标准曲线](../../raw/figures/duUltrasensitiveOptoelectronicBiosensor2025/fig_5_3KFW8A5V.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - ![图6 空间光电流成像与肺癌临床样本qPCR对比验证](../../raw/figures/duUltrasensitiveOptoelectronicBiosensor2025/fig_6_5U9MCGPA.png)
+  - ![图6 空间光电流成像与肺癌临床样本qPCR对比验证](../../raw/figures/duUltrasensitiveOptoelectronicBiosensor2025/fig_6_5U9MCGPA.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
 ## 🔬 项目连接
   - **project-5（SnTe铁电模拟）— weak**：本文使用DFPT计算tBLG的面内/面外介电常数张量（εXX/εYY/εZZ），计算流程（PBE泛函、500 eV截断、DFPT从OUTCAR读取介电张量）与铁电材料介电/声子计算在方法层面有共通之处。但其物理体系（石墨烯莫尔超晶格 vs SnTe铁电）和研究目标（光电传感 vs 铁电极化）差异很大，仅DFPT方法可参考。
   - **project-6（湿度传感器）— weak**：本文是二维材料基光电传感器，展示了利用2D材料介电环境变化进行信号转导的器件架构，以及金纳米结构增强信号的思路。湿度传感同样依赖材料表面介电/电导环境变化，但本文的靶标（核酸）、机制（CRISPR酶切+等离激元耦合）和读出方式（光电流）与湿度传感截然不同，仅"2D材料+介电环境调制+电学读出"的器件概念有形式上的可借鉴性。
   - project-1（双光子）、project-2（Mn多铁）、project-3（机械发光NN）、project-4（TTF分子计算）、project-7（CDW）：无直接项目连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+
 ## 📝 组织与用词
 文章采用"器件设计构建 → 物理机制验证 → 光电性能表征 → 生物传感验证 → 临床转化"的经典递进结构。先建立tBLG/金纳米盘的物理增强层，再叠加DNA折纸-CRISPR生物识别层，层层验证。值得复用的术语：
   - [[../concepts/twistronics|twistronics / 转角电子学]]
   - [[../concepts/van-hove-singularity|van Hove singularity]] (VHS) / 范霍夫奇点
-  - moiré superlattice / 莫尔超晶格
+  - moiré superlattice / 莫尔超晶格 [[../concepts/moire-superlattice|莫尔超晶格]]
   - [[../concepts/exciton-plasmon-coupling|exciton–plasmon coupling / 激子-等离激元耦合]]
   - localized surface plasmon resonance (LSPR) / 局域表面等离激元共振
   - trans-cleavage / 反式切割
@@ -141,13 +145,13 @@ Bowen Du, Xilin Tian, Zhi Chen, Yanqi Ge, Chuanghu Chen, Haiyan Gao, Zhongyang L
   - external quantum efficiency (EQE) / 外量子效率
   - [[../concepts/localized-surface-plasmon-resonance|localized-surface-plasmon-resonance]]
 ## ✏️ 可写入 Wiki 的要点
-  1. 9.4° tBLG的VHS能量间隔2E_VHS ≈ 1.84 eV，与660 nm光子能量（1.88 eV）和金纳米盘LSPR峰精确对齐，实现激子-等离激元强耦合。VHS能量与转角的经验关系为E_vhs = E₀|sin(3θ)|，E₀ = 3.9 eV。
+  1. 9.4° tBLG的VHS能量间隔2E_VHS ≈ 1.84 eV，与660 nm光子能量（1.88 eV）和[[../entities/gold-nanodisks|金纳米盘]]LSPR峰精确对齐，实现激子-等离激元[[../concepts/strong-coupling|强耦合]]。VHS能量与转角的经验关系为E_vhs = E₀|sin(3θ)|，E₀ = 3.9 eV。
   2. 金纳米盘/tBLG异质结在60 μW低光照下光响应度达14.64 mA/W，是纯tBLG（2.34 mA/W）的6.27倍，EQE 27.51%，光电流密度为纯tBLG的7倍。金纳米盘参数：周期274 nm，厚度 50 nm （Cr/Au 5/45 nm），异质结面积7 μm × 7 μm。
   3. 飞秒泵浦-探测揭示：纯tBLG载流子弛豫时间τ = 1.14 ± 0.10 ps（VHS态局域化载流子），金纳米盘/tBLG缩短至371.11 ± 61.98 fs（快约3倍），同时光响应度反升6.27倍，证明耦合极化激元加速了能量转移而非简单猝灭。Au-SLG仅缩短35.5%（555.62 fs vs SLG 861.44 fs）但光响应度有限，排除了纯等离激元贡献的主导地位。
-  4. DFPT计算表明9.4° tBLG面内介电常数εXX/εYY比13.2° 与 21.8° tBLG高数个数量级，面外εZZ在所有转角下均低。这种强各向异性意味着电场仅通过面内极化有效调制，9.4°的高ε增强了界面电荷屏蔽和电场局域，放大等离激元热点。
+  4. DFPT计算表明9.4° tBLG面内介电常数εXX/εYY比13.2° 与 21.8° tBLG高数个数量级，面外εZZ在所有转角下均低。这种强[[../concepts/migdal-eliashberg-theory|各向异性]]意味着电场仅通过面内极化有效调制，9.4°的高ε增强了界面电荷屏蔽和电场局域，放大等离激元热点。
   5. STS测量在约1.84 eV处观测到LDOS峰，与DFT计算的VHS能量和660 nm光子能量（1.88 eV）三重吻合，是VHS存在的直接实验证据。拉曼G带在9.4°最强，I_G/I_2D比SLG高约28.11倍。
   6. 9.4°器件在0.2 V偏压下即达到近100%调制深度（ΔM = (Cp−C)/(Cp+C)），阈值电压显著低于其他转角，与其高面内介电常数一致。空间光电流成像呈高斯分布，FWHM约1.5 μm，与等离激元限域尺度吻合。
-  7. CRISPR-Cas12a检测机制：无靶标时DNA折纸锚定的AuNP（探针高度18–21 nm）破坏激子-等离激元耦合，吸收峰红移至684 nm，光电流低（关态）；靶标miRNA-21激活Cas12a反式切割ssDNA连接子，AuNP释放，吸收峰蓝移至663 nm，耦合恢复，光电流升高（开态）。残留DNA链导致峰位比原始660 nm略有红移（663 nm）。
+  7. CRISPR-Cas12a检测机制：无靶标时DNA折纸锚定的AuNP（探针高度18–21 nm）破坏[[../concepts/exciton-plasmon-coupling|激子-等离激元耦合]]，吸收峰红移至684 nm，光电流低（关态）；靶标miRNA-21激活Cas12a反式切割ssDNA连接子，AuNP释放，吸收峰蓝移至663 nm，耦合恢复，光电流升高（开态）。残留DNA链导致峰位比原始660 nm略有红移（663 nm）。
   8. 生物传感性能：LOD = 44.63 aM（IUPAC 3σ标准，阈值6.45%），动态范围10 aM–100 pM跨7个数量级，检测时间<1小时，可区分单核苷酸错配，在PBS和全血中20天保持高响应保真度。信号变化率公式ΔI = (I₂−I₁)/I₀ × 100%（I₀基线、I₁ AuNP固定后、I₂反式切割后）。
   9. 临床验证：10例肺癌患者血浆样本中miRNA-21 与 miRNA-155检测结果与qPCR高度一致，且本传感器信号变化率显著高于qPCR的Ct值区分度，展示了更高的信号对比度。
-  10. DFT计算参数：GGA-PBE泛函，平面波截断500 eV，2×2×1 Monkhorst-Pack K网格，15 Å z轴真空层，力收敛0.01 eV/Å，能量收敛10⁻⁵ eV（弛豫）/10⁻⁷ eV（SCF），DFT-D3范德华校正，介电常数由DFPT计算从OUTCAR读取。器件制备采用CVD石墨烯、800 nm飞秒激光切割、EBL（EBPG 5150）图案化。
+  10. DFT计算参数：GGA-PBE泛函，平面波截断500 eV，2×2×1 Monkhorst-Pack K网格，15 Å z轴真空层，力收敛0.01 eV/Å，能量收敛10⁻⁵ eV（弛豫）/10⁻⁷ eV（SCF），DFT-D3范德华校正，介电常数由DFPT计算从OUTCAR读取。器件制备采用CVD[[../entitys/graphene|石墨烯]]、800 nm飞秒激光切割、EBL（EBPG 5150）图案化。

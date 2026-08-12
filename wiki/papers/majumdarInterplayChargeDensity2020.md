@@ -90,43 +90,46 @@ Arnab Majumdar, Derrick VanGennep, Jérémy Brisbois, Dmitriy Chareev, Andrey V.
   - 相关论文 [[../../raw/note/majumdarInterplayChargeDensity2020]]
 
 ## 📊 关键图表
-  - ![图1 磁光成像：Tc 标定与磁通穿透（低场迈斯纳态、高场缺陷引导穿透）](../../raw/figures/majumdarInterplayChargeDensity2020/fig_1_ZD74FXXV.png)
-  - ![图2 电阻率与霍尔效应：NbSe₂ 在 33 K 的 CDW 异常及 27.9 K 载流子符号反转](../../raw/figures/majumdarInterplayChargeDensity2020/fig_2_RGX7HF7C.png)
-  - ![图3 比热与高压电阻率：CDW 被压力单调抑制；常压电阻曲线 kink 在 7 GPa 消失](../../raw/figures/majumdarInterplayChargeDensity2020/fig_3_WHEZB7KW.png)
-  - ![图4 温度-压力相图：NbSe₂ 中 T_CDW 在 ~5 GPa 消失、T_c 穹顶状上升；NbS₂ 的 T_c 缓慢线性增长](../../raw/figures/majumdarInterplayChargeDensity2020/fig_4_I3R7KT6H.png)
-  - ![图5 Andreev 反射谱：两组次谐波能隙结构直接证实双能隙 s 波](../../raw/figures/majumdarInterplayChargeDensity2020/fig_5_95NCRL4U.png)
-  - ![图6 第一性原理费米面：1–10 GPa 下拓扑几乎不变，Γ 点 2 GPa 出现 Se/S 衍生薄饼状电子口袋](../../raw/figures/majumdarInterplayChargeDensity2020/fig_6_PBKIZIBJ.png)
-  - ![图7 高压上临界场：NbS₂ 低温饱和（WHH+泡利顺磁，1.8 T）；NbSe₂ 上翘（Gurevich 双带，7.2 T）](../../raw/figures/majumdarInterplayChargeDensity2020/fig_7_QX7KQHHB.png)
-  - ![图8 伦敦穿透深度：双 s 波模型（实线）拟合远优于 d 波（虚线），证实无节点能隙](../../raw/figures/majumdarInterplayChargeDensity2020/fig_8_6C3IC6MY.png)
-  - ![图9 Uemura 图：NbSe₂/NbS₂ 显著偏离 T_c–n_s/m* 普适线性关系](../../raw/figures/majumdarInterplayChargeDensity2020/fig_9_DBZZJIZT.png)
+  - ![图1 磁光成像：Tc 标定与磁通穿透（低场迈斯纳态、高场缺陷引导穿透）](../../raw/figures/majumdarInterplayChargeDensity2020/fig_1_ZD74FXXV.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图2 电阻率与霍尔效应：NbSe₂ 在 33 K 的 CDW 异常及 27.9 K 载流子符号反转](../../raw/figures/majumdarInterplayChargeDensity2020/fig_2_RGX7HF7C.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图3 比热与高压电阻率：CDW 被压力单调抑制；常压电阻曲线 kink 在 7 GPa 消失](../../raw/figures/majumdarInterplayChargeDensity2020/fig_3_WHEZB7KW.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图4 温度-压力相图：NbSe₂ 中 T_CDW 在 ~5 GPa 消失、T_c 穹顶状上升；NbS₂ 的 T_c 缓慢线性增长](../../raw/figures/majumdarInterplayChargeDensity2020/fig_4_I3R7KT6H.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图5 Andreev 反射谱：两组次谐波能隙结构直接证实双能隙 s 波](../../raw/figures/majumdarInterplayChargeDensity2020/fig_5_95NCRL4U.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图6 第一性原理费米面：1–10 GPa 下拓扑几乎不变，Γ 点 2 GPa 出现 Se/S 衍生薄饼状电子口袋](../../raw/figures/majumdarInterplayChargeDensity2020/fig_6_PBKIZIBJ.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图7 高压上临界场：NbS₂ 低温饱和（WHH+泡利顺磁，1.8 T）；NbSe₂ 上翘（Gurevich 双带，7.2 T）](../../raw/figures/majumdarInterplayChargeDensity2020/fig_7_QX7KQHHB.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图8 伦敦穿透深度：双 s 波模型（实线）拟合远优于 d 波（虚线），证实无节点能隙](../../raw/figures/majumdarInterplayChargeDensity2020/fig_8_6C3IC6MY.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图9 Uemura 图：NbSe₂/NbS₂ 显著偏离 T_c–n_s/m* 普适线性关系](../../raw/figures/majumdarInterplayChargeDensity2020/fig_9_DBZZJIZT.png) -> [[../figures/electronic-bands|电子能带与电子态]]
 
 ## 🔬 项目连接
 project-7 CDW（电荷密度波）直接相关——本文是 CDW 与超导竞争、CDW 起源（费米面嵌套 vs 电子-声子耦合）、高压调控 CDW 的核心实验文献。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
   文章采用"现象→调控→微观机制→宏观验证"的递进论证：(A) 磁光成像确认样品质量与磁通钉扎特征；(B) 电阻率/霍尔效应展示 CDW 引起的载流子符号反转；(C-D) 高压比热/输运/磁化构建 T-P 相图，确立 CDW-SC 竞争；(E) Andreev 谱微观探测双能隙；(F) DFT 费米面计算排除嵌套机制；(G) 高压 H_c2 区分泡利顺磁（NbS₂）与多带效应（NbSe₂）；(H-I) 伦敦穿透深度宏观证实 s 波双能隙；最后以 Uemura 图收尾，指出机理独特性。多手段互证是全文方法论核心。
   值得复用的关键词/术语：
-  - 电荷密度波 / Charge density wave (CDW)
-  - 多带超导电性 / Multiband superconductivity
+  - 电荷密度波 [[../concepts/charge-density-wave|电荷密度波]] / Charge density wave (CDW)
+  - 多带超导电性 [[../concepts/multiband-superconductivity|多带超导电性]] / Multiband superconductivity
   - 双 s 波能隙 / Two-gap s-wave
   - 安德列夫反射次谐波能隙结构 / Subharmonic gap structure (SGS) of Andreev reflection
-  - 伦敦穿透深度 / London penetration depth λ_ab
-  - 泡利顺磁效应 / Pauli paramagnetic effect (Clogston-Chandrasekhar limit)
-  - 费米面嵌套 / Fermi surface nesting
-  - Uemura 关系（上村图）/ Uemura plot (T_c vs n_s/m*)
+  - 伦敦穿透深度 [[../concepts/london-penetration-depth|伦敦穿透深度]] / London penetration depth λ_ab
+  - 泡利顺磁效应 [[../concepts/pauli-paramagnetic-effect|泡利顺磁效应]] / Pauli paramagnetic effect (Clogston-Chandrasekhar limit)
+  - 费米面嵌套 [[../concepts/fermi-surface-nesting|费米面嵌套]] / Fermi surface nesting
+  - Uemura 关系 [[../concepts/uemura-relation|Uemura 关系]]（上村图）/ Uemura plot (T_c vs n_s/m*)
   - 动量依赖电子-声子耦合 / q-dependent electron-phonon coupling
   - 上临界场 / Upper critical field H_c2
-  - 压力调控 / Pressure tuning (diamond anvil cell)
+  - 压力调控 [[../concepts/pressure-tuning|压力调控]] / Pressure tuning (diamond anvil cell)
   - 磁通钉扎 / Flux pinning
 
 ## ✏️ 可写入 Wiki 的要点
   1. **材料基本参数**：2H-NbSe₂ 常压下 T_CDW≈33 K、T_c≈7.2 K；2H-NbS₂ 无 CDW、T_c≈5.7 K。两者同构（六方 2H 相，层状 TMD），是剥离 CDW 对超导影响的理想对比体系。
   2. **CDW-SC 竞争相图**：在 NbSe₂ 中，压力 0–7 GPa 内 T_CDW 单调下降并于约 4.8–5 GPa 完全消失，同时 T_c 从 7.2 K 急剧升至约 8.5 K；CDW 消失后 T_c 上升变缓，在约 10 GPa 形成穹顶后略降，呈现典型竞争关系。NbS₂ 无 CDW，T_c 随压力至 25 GPa 仅缓慢线性增长。
   3. **CDW 引起的载流子重构**：NbSe₂ 在 T≈27.9 K（低于 T_CDW≈33 K）发生霍尔系数符号反转（p 型→n 型）；空穴浓度先升至 p=1.71×10²³ cm⁻³，反转后电子浓度达 n=2.4×10²³ cm⁻³；电子迁移率在 ~10 K 达 30 cm²V⁻¹s⁻¹。NbS₂ 始终为 p 型，6.3 K 时空穴迁移率仅 9.9 cm²V⁻¹s⁻¹。
-  4. **双 s 波能隙（Andreev 谱）**：S-c-S 断裂结本征多重 Andreev 反射（IMARE）观测到两组独立次谐波能隙结构。NbS₂：Δ_L/k_BT_c=2.01±0.23、Δ_S/k_BT_c=1.15±0.24；NbSe₂：Δ_L/k_BT_c=2.1±0.2、Δ_S/k_BT_c=1.25±0.2。大能隙超过弱耦合 BCS 值（1.76），表明强带内耦合；小能隙低于 BCS 值，表明两凝聚体间存在非零相互作用。凹陷对称形状指示 s 波序参量。
-  5. **双 s 波能隙（穿透深度独立验证）**：由捕获磁矩法（√M_t→0 外推）确定 H_c1，再经 GL 关系得到 λ_ab(T)。双 s 波模型拟合参数：NbSe₂（11 GPa）Δ_L/k_BT_c=2.78±0.3、Δ_S/k_BT_c=1.19±0.3、权重 r=0.25±0.08；NbS₂（15 GPa）Δ_L/k_BT_c=2.45±0.15、Δ_S/k_BT_c=1.35±0.2、r=0.22±0.2。d 波模型（g(φ)=|cos2φ|）明显偏离数据，排除节点能隙。
-  6. **费米面拓扑与 CDW 起源**：QUANTUM ESPRESSO（PAW-PBE，15×15×4 k 网格，150 Ry 截断）计算显示 1–10 GPa 内两材料 FS 拓扑几乎不变，无新嵌套矢量；NbSe₂ 在 2 GPa 于 Γ 点出现 Se 衍生的薄饼状电子口袋（推测为 CDW 抑制的前兆），大能隙对应 Nb 衍生的四个准二维管状费米面，小能隙对应 Se/S 衍生口袋。结果支持 CDW 源于动量依赖电子-声子矩阵而非费米面嵌套（与 Johannes & Mazin 2008、Whangbo & Canadell 一致）。
-  7. **高压 H_c2 的不同主导机制**（7 GPa，低至 300 mK）：NbS₂ 的 H_c2(T) 低温饱和，WHH 模型含自旋顺磁项 α=0.75、可忽略自旋轨道散射 λ_so=0，拟合得 μ_0H_c2(0)=1.8 T；NbSe₂ 的 H_c2(T) 无上饱和地向上弯曲，需用 Gurevich 双带模型（D_1=4.73、η=0.34）拟合，得 μ_0H_c2(0)=7.2 T。
-  8. **GL 相干长度与退磁因子**：由 H_c2 得 ξ_ab=27.2(2) nm（NbSe₂）和 22.4(2) nm（NbS₂）；退磁因子 N≈0.96（NbSe₂）、0.95（NbS₂），因薄片状几何导致强退磁效应。
-  9. **偏离 Uemura 关系**：λ_ab⁻²(0)（即 n_s/m*）与 T_c 的数据点在 Uemura 图上显著远离铜氧化物、铁基（1111/122）、MgB₂ 所遵循的普适线性关系，且常压与高压数据均偏离，表明 NbSe₂/NbS₂ 不属于 Uemura 分类中的非常规超导，其 T_c 主要由大能隙带内强耦合决定而非超流密度。
+  4. **双 s 波能隙（Andreev 谱）**：S-c-S 断裂结本征多重 [[../concepts/andreev-reflection|Andreev 反射]]（IMARE）观测到两组独立次谐波能隙结构。NbS₂：Δ_L/k_BT_c=2.01±0.23、Δ_S/k_BT_c=1.15±0.24；NbSe₂：Δ_L/k_BT_c=2.1±0.2、Δ_S/k_BT_c=1.25±0.2。大能隙超过弱耦合 BCS 值（1.76），表明强带内耦合；小能隙低于 BCS 值，表明两凝聚体间存在非零相互作用。凹陷对称形状指示 s 波[[../concepts/order-parameter|序参量]]。
+  5. **双 s 波能隙（[[../concepts/penetration-depth|穿透深度]]独立验证）**：由捕获磁矩法（√M_t→0 外推）确定 H_c1，再经 GL 关系得到 λ_ab(T)。双 s 波模型拟合参数：NbSe₂（11 GPa）Δ_L/k_BT_c=2.78±0.3、Δ_S/k_BT_c=1.19±0.3、权重 r=0.25±0.08；NbS₂（15 GPa）Δ_L/k_BT_c=2.45±0.15、Δ_S/k_BT_c=1.35±0.2、r=0.22±0.2。d 波模型（g(φ)=|cos2φ|）明显偏离数据，排除节点能隙。
+  6. **[[../concepts/fermi-surfaces|费米面]]拓扑与 CDW 起源**：QUANTUM ESPRESSO（PAW-PBE，15×15×4 k 网格，150 Ry 截断）计算显示 1–10 GPa 内两材料 FS 拓扑几乎不变，无新嵌套矢量；NbSe₂ 在 2 GPa 于 Γ 点出现 Se 衍生的薄饼状电子口袋（推测为 CDW 抑制的前兆），大能隙对应 Nb 衍生的四个准二维管状费米面，小能隙对应 Se/S 衍生口袋。结果支持 CDW 源于动量依赖电子-声子矩阵而非[[../concepts/fermi-surface-nesting|费米面嵌套]]（与 Johannes & Mazin 2008、Whangbo & Canadell 一致）。
+  7. **高压 H_c2 的不同主导机制**（7 GPa，低至 300 mK）：NbS₂ 的 H_c2(T) 低温饱和，[[../concepts/werthamer-helfand-hohenberg-model|WHH 模型]]含自旋顺磁项 α=0.75、可忽略自旋轨道散射 λ_so=0，拟合得 μ_0H_c2(0)=1.8 T；NbSe₂ 的 H_c2(T) 无上饱和地向上弯曲，需用 Gurevich 双带模型（D_1=4.73、η=0.34）拟合，得 μ_0H_c2(0)=7.2 T。
+  8. **GL [[../concepts/coherence-length|相干长度]]与退磁因子**：由 H_c2 得 ξ_ab=27.2(2) nm（NbSe₂）和 22.4(2) nm（NbS₂）；退磁因子 N≈0.96（NbSe₂）、0.95（NbS₂），因薄片状几何导致强退磁效应。
+  9. **偏离 [[../concepts/uemura-relation|Uemura 关系]]**：λ_ab⁻²(0)（即 n_s/m*）与 T_c 的数据点在 Uemura 图上显著远离铜氧化物、铁基（1111/122）、MgB₂ 所遵循的普适线性关系，且常压与高压数据均偏离，表明 NbSe₂/NbS₂ 不属于 Uemura 分类中的非常规超导，其 T_c 主要由大能隙带内[[../concepts/strong-coupling|强耦合]]决定而非[[../concepts/superfluid-density|超流密度]]。
   10. **CDW-涡旋态关联**：常压下 NbSe₂ 电阻转变曲线在磁场中出现 kink，被归因于涡旋物质的有序-无序（固-固）相变；当 CDW 在 7 GPa 被完全抑制后该 kink 消失，首次在实验上提示 CDW 序与涡旋物质相之间存在耦合，值得用 STM 等微观手段进一步研究。

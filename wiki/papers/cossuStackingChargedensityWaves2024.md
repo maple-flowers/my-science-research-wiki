@@ -104,19 +104,23 @@ F. Cossu, D. Nafday, K. Palotás, M. Biderang, H.-S. Kim, A. Akbari, I. Di Marco
 ## 🆕 新概念/实体建议
 
 ## 📊 关键图表
-  - ![图1：单层/双层结构及 HC/CC/HX 三种单层 CDW 与 HC-HC、HC-CC 双层 blend 的位移构型](../../raw/figures/cossuStackingChargedensityWaves2024/fig_1_Q8LV7XLD.png)
+  - ![图1：单层/双层结构及 HC/CC/HX 三种单层 CDW 与 HC-HC、HC-CC 双层 blend 的位移构型](../../raw/figures/cossuStackingChargedensityWaves2024/fig_1_Q8LV7XLD.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
   - ![图2：七种关键 CDW 堆叠构型的轴测视图](../../raw/figures/cossuStackingChargedensityWaves2024/fig_2_T57PVLQW.png) → [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
   - ![图3：对称态与三种最稳定 CDW 构型的总态密度（E_F 附近赝能隙）](../../raw/figures/cossuStackingChargedensityWaves2024/fig_3_IFCX25A7.png) → [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
-  - ![图4：GGA+DF 下各 CDW 构型的 Se-Se 键长斑块模式](../../raw/figures/cossuStackingChargedensityWaves2024/fig_4_Q3DQNIFN.png)
-  - ![图5：正常相、单层 HC 与双层三种 CDW 的恒流模式模拟 STM 图像（-0.2 V）](../../raw/figures/cossuStackingChargedensityWaves2024/fig_5_GXNU2V27.png)
-  - ![图6：(h,k,0) 平面几何结构因子——左列结构数据、右列费米能级附近部分电荷密度](../../raw/figures/cossuStackingChargedensityWaves2024/fig_6_Q5Z2ZLRD.png)
-  - ![图7：纯 GGA（无 vdW 修正）下的补充 STM 模拟](../../raw/figures/cossuStackingChargedensityWaves2024/fig_7_DY75UYF5.png)
-  - ![图8：基态 HC-HC_(S3) 在不同偏压下的 STM 图像](../../raw/figures/cossuStackingChargedensityWaves2024/fig_8_U6BTPHHS.png)
-  - ![图9：结构因子原始数据点（附录 B）](../../raw/figures/cossuStackingChargedensityWaves2024/fig_9_TJ7WPXTW.png)
-  - ![表II：双层与单层 CDW 相对能量（GGA 与 GGA+DF，meV/f.u.）](../../raw/figures/cossuStackingChargedensityWaves2024/tab_2_X3L9MSGS.png)
+  - ![图4：GGA+DF 下各 CDW 构型的 Se-Se 键长斑块模式](../../raw/figures/cossuStackingChargedensityWaves2024/fig_4_Q3DQNIFN.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图5：正常相、单层 HC 与双层三种 CDW 的恒流模式模拟 STM 图像（-0.2 V）](../../raw/figures/cossuStackingChargedensityWaves2024/fig_5_GXNU2V27.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图6：(h,k,0) 平面几何结构因子——左列结构数据、右列费米能级附近部分电荷密度](../../raw/figures/cossuStackingChargedensityWaves2024/fig_6_Q5Z2ZLRD.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图7：纯 GGA（无 vdW 修正）下的补充 STM 模拟](../../raw/figures/cossuStackingChargedensityWaves2024/fig_7_DY75UYF5.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图8：基态 HC-HC_(S3) 在不同偏压下的 STM 图像](../../raw/figures/cossuStackingChargedensityWaves2024/fig_8_U6BTPHHS.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图9：结构因子原始数据点（附录 B）](../../raw/figures/cossuStackingChargedensityWaves2024/fig_9_TJ7WPXTW.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![表II：双层与单层 CDW 相对能量（GGA 与 GGA+DF，meV/f.u.）](../../raw/figures/cossuStackingChargedensityWaves2024/tab_2_X3L9MSGS.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 
 ## 🔬 项目连接
 project-7 CDW（电荷密度波）。本文直接对应 CDW 层间堆叠与维度效应，是 project-7 的核心理论参考；对 project-5 SnTe 铁电模拟中涉及的层间耦合/堆叠方法学有间接借鉴意义。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
   文章按"引言（1T 型金属-绝缘体转变启发 → 金属性 2H 型是否同样存在堆叠效应）→ 方法（DFT/PBE+多种 vdW 修正、3×3 超胞、Tersoff-Hamann STM 模拟）→ 结果（正常相结构、CDW 能量景观、电子结构、Se 图案与 STM、电荷密度与结构因子）→ 讨论与结论（推广至薄膜/块体、展望磁性/压力/扭转/拉曼）"的经典链条展开。论证策略是：先用多种 vdW 方案标定基准结构（表 I），再系统枚举 blend × displacement 构型得到能量层级（表 II），然后分别从实空间（STM 图 5）和倒空间（结构因子图 6）给出可实验检测的指纹，最后将结论 from 1T 推广到金属性 2H 型 TMDs。
@@ -134,13 +138,13 @@ project-7 CDW（电荷密度波）。本文直接对应 CDW 层间堆叠与维�
   10. 电子-声子耦合（electron-phonon coupling）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 2H-NbSe₂ 双层是保持块体中心反演对称性的最小单元，两层单层彼此旋转 π；正常相空间群 P3m1，CDW 态下降为 C2/m（HC-HC 全部位移）、P3m1（HC-CC，除 S2 外）、C1（HC-CC_(S2)）、P1（CC-CC_(S2)）或 Cm（CC-CC 其他位移）。
+  1. 2H-NbSe₂ 双层是保持块体中心[[../concepts/inversion-symmetry|反演对称性]]的最小单元，两层单层彼此旋转 π；正常相空间群 P3m1，CDW 态下降为 C2/m（HC-HC 全部位移）、P3m1（HC-CC，除 S2 外）、C1（HC-CC_(S2)）、P1（CC-CC_(S2)）或 Cm（CC-CC 其他位移）。
   2. 三种最稳定的单层 CDW 模式为 HC（hollow-centered triangular）、CC（chalcogen-centered triangular）、HX（hexagonal）；其在 1H-NbSe₂ 单层中的相对能量（GGA+DF）为 HC=0、CC=1.43、HX=2.06 meV/f.u.。
   3. 双层基态为 HC-HC_(S3)（GGA 与 GGA+DF 一致），第一激发态 HC-HC_(S1)（0.06 / 0.21 meV/f.u.），第二激发态为混合堆叠 HC-CC_(S4)（0.18 / 0.39 meV/f.u.）；前三激发态能量窗口仅 0.18（GGA）/0.39（GGA+DF）meV/f.u.，小于单层 HC–CC 差，预示多种堆叠可在缺陷或热激发下共存。
   4. vdW 修正显著改变层间距：GGA 给出 d_Nb-Nb=6.926 Å、d_Se-Se=3.560 Å；GGA+TS 给出 6.053 / 2.732 Å（TS 过度束缚，混合 blend 无法收敛到正确对称性）；GGA+DF 给出 6.527 / 3.141 Å（主文采用，与块体实验值 c/2≈6.27 Å 同量级）；GGA+MBD@FI 给出 6.178 / 2.844 Å。
   5. 计算参数：VASP + PAW + PBE，平面波截断 500 eV；原胞 k 网格 45×45×1、3×3 超胞 20×20×1；结构弛豫力收敛至 10⁻³ eV/Å，电子步能量容差 10⁻⁷–10⁻⁹ eV；面内晶格常数固定为 3.45 Å，z 方向真空层 20 Å。
-  6. 电子结构证据：不同堆叠整体 DOS 相似，但 HC-CC_(S4) 在 −1.8 eV 出现尖锐峰，投影 DOS 指认为层间 Se 原子的 p_z 轨道杂化，是层间耦合的直接电子指纹；CDW 能量增益与费米能级处态密度耗尽程度呈正相关，将一维 Peierls 逻辑推广到由动量依赖电声耦合驱动的二维 NbSe₂。
+  6. 电子结构证据：不同堆叠整体 DOS 相似，但 HC-CC_(S4) 在 −1.8 eV 出现尖锐峰，投影 DOS 指认为层间 Se 原子的 p_z 轨道杂化，是层间耦合的直接电子指纹；CDW 能量增益与费米能级处[[../concepts/density-of-states|态密度]]耗尽程度呈正相关，将一维 Peierls 逻辑推广到由动量依赖电声耦合驱动的二维 NbSe₂。
   7. STM 模拟（Tersoff-Hamann，−0.2 V 偏压、电流等高线最大值 5.8 Å）：无 CDW 对称双层 corrugation 13 pm，CDW 双层 29–39 pm，单层 HC 51 pm；绿斑位置构成指纹——HC-HC_(S3) 位于三叶状凸起之一、HC-HC_(S1) 位于凹陷之一、HC-CC_(S4) 位于所有尖端；绿斑表观高度差分别为 2、4–5、6 pm，现代 STM 垂直分辨率（<10 pm）足以分辨。
-  8. 几何结构因子：结构数据（模拟 XRD）中 CDW 峰被强布拉格峰掩盖，但差异图（c/e）形状可区分；费米能级附近部分电荷密度（模拟 FT-STM）中 CDW 峰位于中心点到一级布拉格峰距离的 1/3 处，呈六重星状，HC-HC_(S3) 与 HC-CC_(S4) 的差异图案（d/f）显著不同，为 XRD、TEM、EELS 实验提供补充判据。
+  8. [[../concepts/geometric-structure-factor|几何结构因子]]：结构数据（模拟 XRD）中 CDW 峰被强布拉格峰掩盖，但差异图（c/e）形状可区分；费米能级附近部分[[../concepts/charge-density|电荷密度]]（模拟 FT-STM）中 CDW 峰位于中心点到一级布拉格峰距离的 1/3 处，呈六重星状，HC-HC_(S3) 与 HC-CC_(S4) 的差异图案（d/f）显著不同，为 XRD、TEM、EELS 实验提供补充判据。
   9. Se-Se 键长斑块规律：每一 blend 中能量最低构型（HC-HC_(S3)、HC-CC_(S4)）对应上下两层 Se-Se"斑块"不重叠；作者推测层间 p_z 轨道相干性最大化是稳定机制，是对 Lin et al.（Nano Lett. 2022）轴向键合维度效应机制的推广。
   10. 热稳定性估计：与 1T-TaS₂ 块体两堆叠态能量差 0.08 meV/f.u. 对应约 60 K 锁定温度相比，2H-NbSe₂ 双层 0.18–0.39 meV/f.u. 的激发能预示在实验 CDW 临界温度（~33 K）以下堆叠应稳定；原子位移仅 ~0.2 Å 且非完全同相，振动熵修正估计 <0.04 meV/f.u.，不足以翻转表 II 能量层级；作者明确指出精确结论需声子谱计算，但不在本文范围。

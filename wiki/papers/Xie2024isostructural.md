@@ -13,9 +13,14 @@ year_read: 2026
 original_note:: [[../../raw/note/Xie2024isostructural]]
 projects: [project-3]
 concepts: [density-functional-theory, spin-orbit-coupling]
-entities: []
+entities:
+  - BCPC
+  - BCPSO
 methods: [dft, tem, xrd]
-materials: []
+materials:
+  - carbazole
+  - BCPC
+  - BCPB
 figures: [crystal-structures, optical-spectra]
 领域基础知识:: >-
   力致发光(ML)是材料在机械力刺激下发光的现象。有机ML材料相比无机物具有柔性、易修饰等优点，但通常发光寿命极短（纳秒级），限制了其实际应用。有机长余辉(Afterglow)材料可通过主客体掺杂等策略实现长达毫秒甚至秒级的发光寿命，但其激发源通常是光而非机械力。
@@ -83,25 +88,28 @@ Zongliang Xie, Yufeng Xue, Xianhe Zhang, Junru Chen, Zesen Lin, Bin Liu（新加
 ## 🔬 项目连接
 project-3 机械发光NN——本文是有机力致发光（ML）领域的重要进展，系统阐明了pML材料的设计原则、光物理机理与性能数据，可为ML材料数据库构建、ML性能预测模型及应力传感应用提供核心参考。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+
 ## 📝 组织与用词
 论文采用"提出问题→策略设计→渐进式对比实验→多维度机理揭示→普适性验证→应用演示"的经典论证链条。以三组对照体系（PC&PB → BPC&BPB → BCPC&BCPB）渐进式展示Br与CN修饰的决定性作用，再通过更换主体（BCPSO）及客体（b-BCPC、c-BCPC）证明策略普适性。机理部分用TRES光谱、TD-DFT计算、单晶X射线衍射、Hirshfeld表面分析及SOC计算形成完整证据链，最终汇聚于Jablonski能级图。值得复用的术语：
   - 持久力致发光 / persistent mechanoluminescence (pML)
-  - 同构掺杂 / isostructural doping
-  - 电荷转移激基复合物 / charge-transfer exciplex (CTE)
+  - 同构掺杂 [[../concepts/isostructural-doping|同构掺杂]] / isostructural doping
+  - 电荷转移激基复合物 [[../concepts/charge-transfer-exciplex|电荷转移激基复合物]] / charge-transfer exciplex (CTE)
   - 磷光组分比例 / ratio of phosphorescence component (RPhos)
   - 系间窜越 / intersystem crossing ([[../concepts/intersystem-crossing|ISC]])
   - 自旋-轨道耦合 / spin-orbital coupling ([[../concepts/spin-orbit-coupling|SOC]])
-  - 重原子效应 / heavy atom effect
+  - 重原子效应 [[../concepts/heavy-atom-effect|重原子效应]] / heavy atom effect
   - 非辐射跃迁抑制 / suppression of non-radiative transitions
 
   - [[../concepts/persistent-mechanoluminescence|persistent-mechanoluminescence]]
 ## ✏️ 可写入 Wiki 的要点
-  1. **核心性能数据**：同构掺杂体系pML寿命范围 18.8–384.1 ms，磷光量子产率（ΦPhos）最高达 11.9%（BCPC&b-BCPC），实现绿（~499/537/581 nm）、黄（~543/591/646 nm）、橙（~565/613/674 nm）三色pML。
+  1. **核心性能数据**：[[../concepts/isostructural-doping|同构掺杂]]体系pML寿命范围 18.8–384.1 ms，磷光量子产率（ΦPhos）最高达 11.9%（BCPC&b-BCPC），实现绿（~499/537/581 nm）、黄（~543/591/646 nm）、橙（~565/613/674 nm）三色pML。
   2. **pML实现的关键判据**：pML并非余辉与ML的简单叠加，而是要求磷光在总发光中占绝对主导。BCPC&BCPB的RPhos高达91.8%，而PC&PB不足1%、BPC&BPB仅18.7%——只有RPhos足够高时，机械力产生的激发态能量才主要通过长寿命磷光通道释放。
-  3. **Br和CN的协同作用（四效应）**：①CN作为强吸电子基增强分子偶极矩与CT特性；②Br的重原子效应与CN的杂原子效应（提供n轨道参与n-π*跃迁）共同增强T1-S0间SOC，促进ISC及磷光辐射；③Br和CN引入额外分子间相互作用（C-H···N 2.63 Å、C≡N···Br 3.31 Å、更紧密的C-H···π 2.54–2.75 Å），抑制非辐射跃迁；④晶体空隙从 34.4% 降至 32.1%，刚性环境保护三线态激子。
-  4. **CT激基复合物能级平台机理**：TD-DFT计算表明BCPC&BCPB激基复合物的S2(1CTE)=2.50 eV与T3(3CTE)=2.50 eV恰好介于主体本征CT态S5(1CTH)=3.18 eV/T6(3CTH)=3.14 eV与客体本征CT态S1(1CTG)=2.39 eV/T2(3CTG)=2.39 eV之间，形成能量阶梯，使激子从高能级高效级联至客体最低三重态T1(3LEG)=2.25 eV并发射超长磷光。
+  3. **Br和CN的协同作用（四效应）**：①CN作为强吸电子基增强分子偶极矩与CT特性；②Br的[[../concepts/heavy-atom-effect|重原子效应]]与CN的杂原子效应（提供n轨道参与n-π*跃迁）共同增强T1-S0间SOC，促进ISC及磷光辐射；③Br和CN引入额外分子间相互作用（C-H···N 2.63 Å、C≡N···Br 3.31 Å、更紧密的C-H···π 2.54–2.75 Å），抑制非辐射跃迁；④晶体空隙从 34.4% 降至 32.1%，刚性环境保护三线态激子。
+  4. **CT[[../concepts/exciplex|激基复合物]]能级平台机理**：TD-DFT计算表明BCPC&BCPB激基复合物的S2(1CTE)=2.50 eV与T3(3CTE)=2.50 eV恰好介于主体本征CT态S5(1CTH)=3.18 eV/T6(3CTH)=3.14 eV与客体本征CT态S1(1CTG)=2.39 eV/T2(3CTG)=2.39 eV之间，[[../concepts/formation-energy|形成能]]量阶梯，使激子从高能级高效级联至客体最低三重态T1(3LEG)=2.25 eV并发射超长磷光。
   5. **压电骨架的结构基础**：三种主体均属非中心对称极性空间群（PC: Fdd2，BPC: Iba2，BCPC与BCPSO: P21），这是机械力诱导断裂面电荷分离进而产生ML的必要晶体学条件。结构修饰使二聚体偶极矩从PC的 2.71 Debye 增至 BCPC 的 9.71 Debye。
-  6. **掺杂浓度与同构性**：所有体系均采用 1 mol% 客体掺杂。客体与主体结构高度相似（如BCPB与BCPC仅将咔唑环替换为苯并吲哚），确保客体嵌入不破坏主体晶格的压电性及堆积模式，同时避免浓度猝灭。
+  6. **掺杂浓度与同构性**：所有体系均采用 1 mol% 客体掺杂。客体与主体结构高度相似（如BCPB与BCPC仅将咔唑环替换为苯并吲哚），确保客体嵌入不破坏主体晶格的压电性及堆积模式，同时避免[[../concepts/concentration-quenching|浓度猝灭]]。
   7. **完整pML光物理过程（Jablonski图）**：机械刺激→断裂面电荷积累与复合（CR）→在主体及CT激基复合物上形成激子→通过 1CTE/3CTE 平台级联能量转移（ET/CT）→经ISC布居客体 3LEG→在刚性环境中以超长磷光形式辐射（同时存在IC、RISC等竞争过程）。
   8. **普适性验证**：除咔唑体系外，吩噻嗪氧化物主体BCPSO（与BCPC元素组成不同但结构相似）同样成功，BCPSO&b-BCPC寿命达 384.1 ms、RPhos约 95%；文献报道的压电化合物 2BCzA 配合定制客体 b-CzA 也实现 pML，证明该策略不依赖单一骨架。
   9. **器件制备方法**：采用熔融浇筑法（melt-casting），将掺杂材料置于 25×25×0.5 mm 石英槽中 180 °C 熔化后冷却结晶，表面覆盖PET薄膜封装成三明治结构，可实现掩模图案化的高分辨率光学存储、压力敏感显示（按压显影）及应力轨迹可视化。

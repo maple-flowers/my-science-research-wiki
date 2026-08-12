@@ -89,7 +89,7 @@ Qing Zhang, Aiqing Fan, Yongshuai Wang, Fan Wu, Lin Li, Hong Meng, Dechao Geng e
 系统梳理二维范德华材料中"滑动铁电性"的材料体系、五种打破反演对称性的工程策略、层间滑移翻转的微观机制（层间电荷转移、逐层翻转、拓扑畴壁扭结）以及柔性存储/FTJ/超快光电/神经形态器件应用，并指出理论-实验鸿沟、动力学黑箱、性能跷跷板与规模化制备四大挑战。
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/sliding-ferroelectricity]]、[[../concepts/2D-materials]]、[[../concepts/moire-superlattice]]、[[../concepts/polarization-switching]]、[[../concepts/strain-engineering]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/ferroelasticity]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/bilayer-stacking-ferroelectricity|双层堆垛铁电理论 (BSF)]]、[[../concepts/layer-by-layer-switching|逐层翻转]]、[[../concepts/interlayer-charge-transfer|层间电荷转移]]、[[../concepts/non-stoichiometric-ferroelectricity|非化学计量比铁电]]、[[../concepts/slide-electronics|滑动电子学]]
-  - 实体 [[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/WTe2]]、[[../entities/In2Se3]]、[[../entities/domain-wall]]、[[../entities/SnTe]]、[[../concepts/MoS2|MoS2]]、[[../concepts/WSe2|WSe2]]、[[../entities/graphene|石墨烯]]、[[../entities/CuInP2S6]]、[[../entities/HgI2]]、[[../entities/ZrI2]]
+  - 实体 [[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/WTe2]]、[[../entities/In2Se3]]、[[../entities/domain-wall]]、[[../entities/SnTe]]、[[../entities/MoS2|MoS2]]、[[../entities/WSe2|WSe2]]、[[../entities/graphene|石墨烯]]、[[../entities/CuInP2S6]]、[[../entities/HgI2]]、[[../entities/ZrI2]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]、[[../figures/domain-walls]]、[[../figures/electronic-devices]]、[[../figures/optical-spectra]]、[[../figures/mathematical-models|数学模型与物理公式]]
   - 年度 [[../write/2025]]、[[../write/2017]]（2017 年 Wu 组首次理论提出）、[[../write/2018]]（双层 WTe2 实验证实）
   - 项目 [[../projects/project-2-mn-multiferroics]]（WSe2 在 3° 扭转角下铁电-铁磁共存、ZrI2 铁弹-铁电多铁预测，与多铁主题相关）
@@ -103,6 +103,10 @@ Qing Zhang, Aiqing Fan, Yongshuai Wang, Fan Wu, Lin Li, Hong Meng, Dechao Geng e
 笔记未附图片（raw/figures 目录仅有 manifest.json，无图像文件）。文中关键图：Fig.1 里程碑时间线（2017 理论→2025）；Fig.2 多层石墨烯 ABAC/CBAB 多步翻转路径；Fig.3 hBN KPFM/PFM/PUND（±1.5 V，0.375 μC/cm²）；Fig.4 In2Se3 相工程（β/β'/α、3R vs 2H 畴壁取向）；Fig.5 SnSe2 高阶多型与 hBN/石墨烯斜堆叠（1.76 μC/cm² 纪录、奇偶效应、>50 000 次循环）；Fig.6 0.5° 扭转 hBN 莫尔 AB/BA 三角畴；Fig.7 Y:InSe 与 Fe1+αTe2 非化学计量比；Fig.8 3R-MoS2 AB/BA 能垒与逐层滑移；Fig.9 3R-MoS2 柔性阵列（>1000 次弯曲）与 ε-InSe ~3 ps 光电。Table 1 为 17 行材料参数汇总（相、堆垛、层数、空间群、极化强度、策略、表征）。
 ## 🔬 项目连接
 project-2 Mn 多铁——本文虽不以 Mn 基材料为核心，但系统讨论了 WSe2 扭转 3° 时铁电与铁磁共存、ZrI2 铁弹-铁电多铁六态逻辑、HgI2 铁电-自旋电子耦合，为多铁耦合设计提供了滑动铁电视角；project-5 SnTe 铁电模拟——SnTe 仅作为已证实二维铁电背景体系之一被引用。其余项目无直接连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+
 ## 📝 组织与用词
 文章采用"背景/问题→材料体系→工程策略→微观机制→器件应用→挑战展望"的总-分-总链条，是一篇聚焦而非穷尽的 Perspective。五大对称性破缺策略（非中心对称晶相 / 不对称堆垛 / 扭转-莫尔 / 非化学计量比 / 异质结）构成全文骨架。值得复用的术语：
   - [[../concepts/sliding-ferroelectricity|sliding ferroelectricity]]（滑动铁电性）
@@ -117,12 +121,12 @@ project-2 Mn 多铁——本文虽不以 Mn 基材料为核心，但系统讨论
   - property trade-off / polarization–switching-barrier seesaw（性能权衡 / 极化-翻转势垒跷跷板）
 ## ✏️ 可写入 Wiki 的要点
   1. 历史定位：2017 年 Wu 组（Li & Wu, ACS Nano 11, 6382）首次通过第一性原理提出"即使单层中心对称，精心设计的双层/多层堆垛也可打破反演对称产生鲁棒面外极化"；2018 年 Fei et al.（Nature 560, 336）在双层 WTe2 中首次实验证实（金属体系铁电翻转）。
-  2. 微观机制：极化翻转不依赖离子位移，而是层间亚埃级横向滑移（WTe2 中 0.72 Å）导致未补偿层间电荷转移（Δq≈0.07 e，Hirshfeld 分析），产生 OOP 偶极；这是与传统位移型铁电的根本区别。
-  3. 多层 3R-MoS2 翻转为逐层进行：单层滑完后形成反平行 OOP 偶极的亚稳中间态（Meng et al. 2022 Nat. Commun.）；三层中不同界面畴壁顺序脱钉决定整体路径（Liang et al. 2025 Nat. Nanotechnol.），是多态存储的物理基础。
-  4. 五种对称性破缺策略：(i) 非中心对称晶相（3R/1T''/1T'''-MoS2，剪切转变螺位错实现 0.036 V/nm 集体翻转，10 V 下 7 V 存储窗口、保持 >10^4 s、耐久 >10^4 次）；(ii) 不对称堆垛（BSF 通用理论；SnSe2 6R/12R/18R/18C；hBN/石墨烯斜堆叠）；(iii) 扭转/莫尔（0.25° 双层 MoS2，WSe2 在 0°–3° 铁电、≥4° 消失、3° 时 FE+FM 共存）；(iv) 非化学计量比（Y:γ-InSe d33≈7.5 pm/V 提升一个数量级；Fe1+αTe2 Frankel 缺陷+滑移；AgCr1-xS2 Cr 空位）；(v) 异质结（MoS2/WS2 无扭转极化约为单层 α-In2Se3 的 6 倍）。
-  5. 性能数据：hBN/石墨烯斜堆叠单层石墨烯器件室温极化 1.76 μC/cm²（滑动铁电纪录），双层 0.81、三层 1.22 μC/cm²（奇偶效应、协同层间滑移），耐久 >50 000 次；外延 hBN/石墨烯 Au/Cr 器件矫顽场 ±1.5 V、剩余极化 0.375 μC/cm²、稳定 >1 周；30° 扭转 hBN 包裹的 Bernal 双层石墨烯莫尔超晶格面电荷密度达 10^13 cm^-2，远超莫尔能带理论预测。
+  2. 微观机制：[[../concepts/polarization-switching|极化翻转]]不依赖离子位移，而是层间亚埃级横向滑移（WTe2 中 0.72 Å）导致未补偿[[../concepts/interlayer-charge-transfer|层间[[../concepts/charge-transfer|电荷转移]]]]（Δq≈0.07 e，Hirshfeld 分析），产生 OOP 偶极；这是与传统位移型铁电的根本区别。
+  3. 多层 3R-MoS2 翻转为逐层进行：单层滑完后形成反平行 OOP 偶极的亚稳中间态（Meng et al. 2022 Nat. Commun.）；三层中不同界面畴壁顺序脱钉决定整体路径（Liang et al. 2025 Nat. Nanotechnol.），是[[../concepts/multistate-memory|多态存储]]的物理基础。
+  4. 五种对称性破缺策略：(i) 非中心对称晶相（3R/1T''/1T'''-MoS2，剪切转变螺位错实现 0.036 V/nm 集体翻转，10 V 下 7 V 存储窗口、保持 >10^4 s、耐久 >10^4 次）；(ii) 不对称堆垛（BSF 通用理论；SnSe2 6R/12R/18R/18C；hBN/[[../entitys/graphene|石墨烯]]斜堆叠）；(iii) 扭转/莫尔（0.25° 双层 MoS2，WSe2 在 0°–3° 铁电、≥4° 消失、3° 时 FE+FM 共存）；(iv) 非化学计量比（Y:γ-InSe d33≈7.5 pm/V 提升一个数量级；Fe1+αTe2 Frankel 缺陷+滑移；AgCr1-xS2 Cr 空位）；(v) 异质结（MoS2/WS2 无扭转极化约为单层 α-In2Se3 的 6 倍）。
+  5. 性能数据：hBN/石墨烯斜堆叠单层石墨烯器件室温极化 1.76 μC/cm²（滑动铁电纪录），双层 0.81、三层 1.22 μC/cm²（奇偶效应、协同层间滑移），耐久 >50 000 次；外延 hBN/石墨烯 Au/Cr 器件[[../concepts/coercive-field|矫顽场]] ±1.5 V、[[../concepts/remanent-polarization|剩余极化]] 0.375 μC/cm²、稳定 >1 周；30° 扭转 hBN 包裹的 Bernal [[../entities/bilayer-graphene|双层石墨烯]][[../concepts/moire-superlattice|莫尔[[../concepts/superlattice|超晶格]]]]面[[../concepts/charge-density|电荷密度]]达 10^13 cm^-2，远超莫尔能带理论预测。
   6. 杂化晶体 CCC（(15-冠-5)Cd3Cl6）首次在宏观尺度直接测得滑动铁电滞回线（0.3–0.4 μC/cm²，P21），铁电响应来自层内分子转子冻结形成偶极与层间滑动的协同，宽带隙排除漏电流干扰。
-  7. 理论体系扩展：HgI2 0.16 μC/cm² + 滑动可控 Rashba 自旋织构；β-ZrI2 0.39 μC/cm² + 负纵向压电 + 120° 铁弹翻转-极化反转耦合的六态逻辑 + 带电畴壁准 2D 电子气；penta-PdSe2/PtSe2 双层超低翻转势垒 1.91 meV/atom、极化 ±17.11×10^-10 C/m、负泊松比。
-  8. 器件应用：3R-MoS2 双层可重写铁电晶体管阵列柔性集成，>1000 次弯曲循环保持性能；ε-InSe 仅偶数层呈现 OOP 极化，开关比 ≈10^4，铁电极化诱导近红外 ~3 ps 超快体光伏响应；滑动铁电 FTJ 理论预测大隧穿电阻比；少层滑动铁电突触晶体管通过栅极脉冲模拟突触权重用于神经形态计算。
-  9. 非常规翻转动力学：机械弯曲在 hBN/3R-MoS2 中通过扭折（kink）形成拓扑畴壁反转极化（区别于挠曲电效应，He et al. 2025 PRL）；倾斜电场耦合 BN 过渡态面内极化分量降低临界场（D3h 对称单层通用方法）；hBN 非对角 Born 有效电荷导致雪崩式翻转与蜿蜒畴壁运动。
-  10. 核心挑战：(i) BSF 理论预测众多（如 CrI3）但精确堆垛合成仅验证少数原型；(ii) 电子关联导致预测与实测翻转势垒差距 >100 meV，缺陷介导成核主导真实行为；(iii) 强极化（>50 μC/cm²）与低翻转场（<0.1 MV/cm）因层间耦合强弱要求互斥而难以兼得；(iv) 0.1°–5° 小转角大面积 CVD 生长受热力学不稳定性制约；(v) 尚无技术同时达到 <10 fs 时间、Å 空间、meV 能量分辨率以完整探测翻转事件。
+  7. 理论体系扩展：HgI2 0.16 μC/cm² + 滑动可控 [[../concepts/rashba-spin-texture|Rashba 自旋织构]]；β-ZrI2 0.39 μC/cm² + 负纵向压电 + 120° 铁弹翻转-极化反转耦合的六态逻辑 + 带电畴壁准 2D 电子气；penta-PdSe2/PtSe2 双层超低[[../concepts/switching-barrier|翻转势垒]] 1.91 meV/atom、极化 ±17.11×10^-10 C/m、负泊松比。
+  8. 器件应用：3R-MoS2 双层可重写铁电晶体管阵列柔性集成，>1000 次弯曲循环保持性能；ε-InSe 仅偶数层呈现 OOP 极化，开关比 ≈10^4，铁电极化诱导近红外 ~3 ps 超快体光伏响应；滑动铁电 FTJ 理论预测大隧穿电阻比；少层滑动铁电突触晶体管通过栅极脉冲模拟突触权重用于[[../concepts/neuromorphic-computing|神经形态计算]]。
+  9. 非常规翻转动力学：机械弯曲在 hBN/3R-MoS2 中通过扭折（kink）形成拓扑畴壁反转极化（区别于[[../concepts/flexoelectric-effect|挠曲电效应]]，He et al. 2025 PRL）；倾斜电场耦合 BN 过渡态面内极化分量降低临界场（D3h 对称单层通用方法）；hBN 非对角 [[../concepts/born-effective-charge|Born 有效电荷]]导致雪崩式翻转与蜿蜒[[../concepts/domain-wall-motion|畴壁运动]]。
+  10. 核心挑战：(i) BSF 理论预测众多（如 CrI3）但精确堆垛合成仅验证少数原型；(ii) [[../concepts/electron-correlation|电子关联]]导致预测与实测翻转势垒差距 >100 meV，缺陷介导成核主导真实行为；(iii) 强极化（>50 μC/cm²）与低翻转场（<0.1 MV/cm）因层间耦合强弱要求互斥而难以兼得；(iv) 0.1°–5° 小转角大面积 CVD 生长受热力学不稳定性制约；(v) 尚无技术同时达到 <10 fs 时间、Å 空间、meV 能量分辨率以完整探测翻转事件。

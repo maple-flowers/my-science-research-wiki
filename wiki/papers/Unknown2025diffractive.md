@@ -89,15 +89,15 @@ Behlau, Marx, Zimmermann, Thüsing, Albini, Esen, Ostendorf，2025，Journal of 
   - 概念：[[../concepts/beam-shaping|光束整形]]、[[../concepts/diffractive-optical-element|衍射光学元件 DOE]]、[[../concepts/two-photon-polymerization|双光子聚合 2PP]]、[[../concepts/computer-generated-hologram|计算机生成全息图 CGH]]、[[../concepts/bessel-beam|贝塞尔光束]]、[[../concepts/axicon|轴锥镜]]、[[../concepts/staircase-effect|阶梯效应]]、[[../concepts/laser-damage-threshold|激光损伤阈值]]、[[../concepts/stitching|拼接技术]]、[[../concepts/nonlinear-absorption|非线性吸收]]、[[../concepts/FemtoBond-4B|FemtoBond 4B 光刻胶]]
 
 ## 📊 关键图表
-  - ![图1 DOE设计：(a)输入高斯振幅分布 (b)CGH相位图 (c)FFT远场振幅](../../raw/figures/Unknown2025diffractive/fig_1_4KZB7NP3.png)
-  - ![图2 制造DOE的2.5倍光学显微镜俯视图，可见相位图样及缺陷小孔](../../raw/figures/Unknown2025diffractive/fig_2_659W9S3I.png)
-  - ![图3 DOE中心45度倾角SEM图像（1000倍），可见阶梯效应和表面粗糙度](../../raw/figures/Unknown2025diffractive/fig_3_UAU27GWL.png)
-  - ![图4 不同层数/层高的远场振幅模拟：(a)2层4.4μm (b)10层1.5μm (c)45层100nm (d)255层17nm](../../raw/figures/Unknown2025diffractive/fig_4_8S7FBEP8.png)
-  - ![图5 DOE后51mm处实测光束相机拼接图像，可见两个相交环形光束](../../raw/figures/Unknown2025diffractive/fig_5_VLRMQTLM.png)
-  - ![表1 2PP工艺参数：功率25mW、扫速10mm/s、层厚0.1μm、填充0.3μm、材料FemtoBond](../../raw/figures/Unknown2025diffractive/tab_1_UZ8F8VCU.png)
-  - ![公式1 调制深度与相位差关系 Δφ=(2π/λ)·h·(n-n₀)](../../raw/figures/Unknown2025diffractive/eq_1_B6YEPTRM.png)
-  - ![公式2 远场振幅为输入振幅与相位的FFT](../../raw/figures/Unknown2025diffractive/eq_2_ECICBZXC.png)
-  - ![公式3 轴锥镜后理论空间强度分布（零阶贝塞尔函数J₀）](../../raw/figures/Unknown2025diffractive/eq_3_TEFASD2R.png)
+  - ![图1 DOE设计：(a)输入高斯振幅分布 (b)CGH相位图 (c)FFT远场振幅](../../raw/figures/Unknown2025diffractive/fig_1_4KZB7NP3.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图2 制造DOE的2.5倍光学显微镜俯视图，可见相位图样及缺陷小孔](../../raw/figures/Unknown2025diffractive/fig_2_659W9S3I.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图3 DOE中心45度倾角SEM图像（1000倍），可见阶梯效应和表面粗糙度](../../raw/figures/Unknown2025diffractive/fig_3_UAU27GWL.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图4 不同层数/层高的远场振幅模拟：(a)2层4.4μm (b)10层1.5μm (c)45层100nm (d)255层17nm](../../raw/figures/Unknown2025diffractive/fig_4_8S7FBEP8.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图5 DOE后51mm处实测光束相机拼接图像，可见两个相交环形光束](../../raw/figures/Unknown2025diffractive/fig_5_VLRMQTLM.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![表1 2PP工艺参数：功率25mW、扫速10mm/s、层厚0.1μm、填充0.3μm、材料FemtoBond](../../raw/figures/Unknown2025diffractive/tab_1_UZ8F8VCU.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![公式1 调制深度与相位差关系 Δφ=(2π/λ)·h·(n-n₀)](../../raw/figures/Unknown2025diffractive/eq_1_B6YEPTRM.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式2 远场振幅为输入振幅与相位的FFT](../../raw/figures/Unknown2025diffractive/eq_2_ECICBZXC.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式3 轴锥镜后理论空间强度分布（零阶贝塞尔函数J₀）](../../raw/figures/Unknown2025diffractive/eq_3_TEFASD2R.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 
 ## 🔬 项目连接
   - **project-1 双光子 — strong（强相关）**：本文是一篇 2PP 制造应用论文，对双光子项目有直接参考价值：
@@ -106,6 +106,9 @@ Behlau, Marx, Zimmermann, Thüsing, Albini, Esen, Ostendorf，2025，Journal of 
     3. 论文展示了 2PP 技术的一个高端应用场景（高功率激光微光学元件），为引发剂性能需求（透明度、热稳定性、抗激光损伤）提供了应用导向的指标；
     4. 后处理方向（煅烧去除有机组分、高温退火、ALD 涂层）对理解杂化光刻胶中有机/无机组分分工有参考价值。
   - project-2 至 project-7：无直接项目连接（本文不涉及 Mn 多铁、机械发光 NN、TTF 分子计算、SnTe 铁电模拟、湿度传感或 CDW）。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 
 ## 📝 组织与用词
   文章遵循经典工程研究逻辑"设计→制造→表征→验证"：
@@ -118,20 +121,20 @@ Behlau, Marx, Zimmermann, Thüsing, Albini, Esen, Ostendorf，2025，Journal of 
   全文贯穿"制造效率—表面质量—光学性能"三维权衡主线。
 
   值得复用的关键词/术语：
-  - 光束整形 (beam shaping)
+  - 光束整形 [[../concepts/beam-shaping|光束整形]] (beam shaping)
   - 衍射光学元件 (diffractive optical element, DOE)
-  - 双光子聚合 (two-photon polymerization, 2PP)
+  - 双光子聚合 [[../concepts/two-photon-polymerization|双光子聚合]] (two-photon polymerization, 2PP)
   - 计算机生成全息图 (computer-generated hologram, CGH)
-  - 轴锥镜 (axicon)
-  - 贝塞尔光束 (Bessel beam)
-  - 阶梯效应 (staircase effect)
+  - 轴锥镜 [[../concepts/axicon|轴锥镜]] (axicon)
+  - 贝塞尔光束 [[../concepts/bessel-beam|贝塞尔光束]] (Bessel beam)
+  - 阶梯效应 [[../concepts/staircase-effect|阶梯效应]] (staircase effect)
   - 拼接 (stitching)
   - 调制深度 (modulation depth)
   - 损伤阈值 (damage threshold)
 
 ## ✏️ 可写入 Wiki 的要点
-  1. **DOE 几何参数**：直径 3.5 mm，最大结构高度 6.4 μm，最小高度（基底）2 μm，有效调制深度 h = 4.4 μm；光刻胶折射率 n = 1.55（800 nm 波长下），对应相位调制量 Δφ = 6π。
-  2. **CGH 算法改进**：在 Liesener 等人的棱镜-透镜算法基础上，将轴向聚焦的"透镜项"替换为"轴锥镜项"（axicon hologram），轴锥镜角度设为 6°，从而将高斯光束直接转换为贝塞尔/环形光束；CGH 矩阵 5833×5833 像素，像素尺寸 600 nm。
+  1. **DOE 几何参数**：直径 3.5 mm，最大结构高度 6.4 μm，最小高度（基底）2 μm，有效调制深度 h = 4.4 μm；光刻胶[[../concepts/refractive-index|折射率]] n = 1.55（800 nm 波长下），对应相位调制量 Δφ = 6π。
+  2. **CGH 算法改进**：在 Liesener 等人的棱镜-透镜算法基础上，将轴向聚焦的"透镜项"替换为"[[../concepts/axicon|轴锥镜]]项"（axicon hologram），轴锥镜角度设为 6°，从而将高斯光束直接转换为贝塞尔/环形光束；CGH 矩阵 5833×5833 像素，像素尺寸 600 nm。
   3. **调制深度公式**：Δφ = (2π/λ)·h·(n−n₀)，其中 λ = 800 nm，n = 1.55，n₀ ≈ 1；选择 6π 而非更大调制深度是衍射效率与打印时间的折中。
   4. **远场模拟方法**：远场振幅 A 通过输入振幅 Aᵢ 与相位 φᵢ 的快速傅里叶变换（FFT）计算得到，用于预测双环形光束和高阶衍射环。
   5. **2PP 拼接制造**：物镜 FOV 仅 500 μm × 500 μm（20×, NA = 0.8），将 STL 分割为 7×7 = 49 块逐块逐层打印；通过在玻璃基板上测三点拟合倾斜平面，对每块的 Z 起始位置做动态补偿（倾斜校正），消除了 3.5 mm 范围内数微米的垂直度误差。
@@ -139,4 +142,4 @@ Behlau, Marx, Zimmermann, Thüsing, Albini, Esen, Ostendorf，2025，Journal of 
   7. **层高对衍射质量的影响（图4模拟）**：2 层（4.4 μm 层高）时 −1 级衍射环强度接近主环；10 层（1.5 μm）时高阶环减弱；45 层（100 nm，实际参数）时高阶环已不占主导；255 层（17 nm）时伪影基本消失但制造时间不可接受。
   8. **实测光束轮廓**：在 DOE 后 51 mm 处用光束相机捕获直径约 10 mm 的两个相交环形光束；环由多个间距约 600 μm 的细环组成（衍射生成环形光束的典型现象）；角落亮点对应拼接区微孔衍射；外环伪影可能源于 6π 调制深度不完美匹配。
   9. **损伤阈值数据**：使用 1030 nm、191 fs、100 kHz 飞秒激光，以 5% 步长每步持续 30 s 升功率；DOE 在 22.8 W 平均功率（228 μJ 脉冲能量）下未损坏，对应峰值功率密度 24.8 GW/cm²、激光能量密度 4.74 mJ/cm²；高阈值归因于 6.4 μm 极薄厚度减少了吸收。
-  10. **贝塞尔光束理论参数**：轴锥镜后轴上强度按零阶贝塞尔函数 J₀ 分布；按文中参数计算焦斑直径约 8 μm，最高强度出现在距 DOE 12 mm 处；因焦斑尺寸与相机像素相当且相机无法置于焦距位置，实验只表征了远场环形光束。
+  10. **[[../concepts/bessel-beam|贝塞尔光束]]理论参数**：轴锥镜后轴上强度按零阶贝塞尔函数 J₀ 分布；按文中参数计算焦斑直径约 8 μm，最高强度出现在距 DOE 12 mm 处；因焦斑尺寸与相机像素相当且相机无法置于焦距位置，实验只表征了远场环形光束。

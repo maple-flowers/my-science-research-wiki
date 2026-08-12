@@ -108,13 +108,13 @@ S. S. Islam, V. Sazgari, C. Witteveen, J. N. Graham, O. Gerguri, P. Král, M. Ba
   - 实体 `1T-MoTe2.md`：本文图 5 中作为对比的拓扑/外尔超导体，已有 wiki WTe2 可作为邻近条目。
 
 ## 📊 关键图表
-  - ![图1 4H-NbSe2与2H-NbS2晶体结构对比（三棱柱配位；4H ABAC vs 2H AB堆垛）](../../raw/figures/Islam2025enhancement/fig_1_KVZVNDQP.png)
-  - ![图2 4H-NbSe2压力-温度相图：纵向电阻、霍尔符号反转、磁阻、Tc/T_CDW/T*汇总](../../raw/figures/Islam2025enhancement/fig_2_M6ARWPEM.png)
-  - ![图3 常压下σ_sc与λ_eff^-2的温度依赖及抗磁位移；(s+s)-波双能隙拟合](../../raw/figures/Islam2025enhancement/fig_3_SJKFU38M.png)
-  - ![图4 不同压力下归一化超流密度；λ_eff^-2(0)增幅4H=75%/2H=32%/NbS2=20%，Tc仅温和上升](../../raw/figures/Islam2025enhancement/fig_4_EH6DKUBG.png)
+  - ![图1 4H-NbSe2与2H-NbS2晶体结构对比（三棱柱配位；4H ABAC vs 2H AB堆垛）](../../raw/figures/Islam2025enhancement/fig_1_KVZVNDQP.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图2 4H-NbSe2压力-温度相图：纵向电阻、霍尔符号反转、磁阻、Tc/T_CDW/T*汇总](../../raw/figures/Islam2025enhancement/fig_2_M6ARWPEM.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图3 常压下σ_sc与λ_eff^-2的温度依赖及抗磁位移；(s+s)-波双能隙拟合](../../raw/figures/Islam2025enhancement/fig_3_SJKFU38M.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图4 不同压力下归一化超流密度；λ_eff^-2(0)增幅4H=75%/2H=32%/NbS2=20%，Tc仅温和上升](../../raw/figures/Islam2025enhancement/fig_4_EH6DKUBG.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - ![图5 T_c/T_c(0)对[n_s/m*]/[n_s/m*]_0的Uemura型双对数标度，对比铜氧化物、铁基、RbV3Sb5、1T'-MoTe2](../../raw/figures/Islam2025enhancement/fig_5_RT7FCE3Z.png)
-  - ![式1 σ_sc∝λ^-2=(4πn_s e²/m*c²)/(1+ξ/l)](../../raw/figures/Islam2025enhancement/eq_1_C6GVHFKT.png)
-  - ![式2 α模型双能隙加权叠加：σ_sc(T)/σ_sc(0)=ωσ_1+(1-ω)σ_2](../../raw/figures/Islam2025enhancement/eq_2_YU2D9CF8.png)
+  - ![式1 σ_sc∝λ^-2=(4πn_s e²/m*c²)/(1+ξ/l)](../../raw/figures/Islam2025enhancement/eq_1_C6GVHFKT.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![式2 α模型双能隙加权叠加：σ_sc(T)/σ_sc(0)=ωσ_1+(1-ω)σ_2](../../raw/figures/Islam2025enhancement/eq_2_YU2D9CF8.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 
 ## 🔬 项目连接
   - **project-1 双光子**：无直接项目连接。本文为低温凝聚态/超导实验，与双光子光学过程无可迁移方法 or 数据。
@@ -124,6 +124,15 @@ S. S. Islam, V. Sazgari, C. Witteveen, J. N. Graham, O. Gerguri, P. Král, M. Ba
   - **project-5 SnTe铁电模拟**：中等方法学参考价值。① 本文反复强调静水压是"干净"的调控手段，不引入掺杂无序，这与 SnTe 中外压/应变调控铁电相变的模拟思路一致；② 作者把超流密度剧变归因于压力下能带重整化、范霍夫奇点靠近 E_F、p-d 杂化变化，并明确呼吁开展压力下的第一性原理能带/声子/EPC 计算——这对 SnTe 中压力调制带结构、软模、铁电软模-电子耦合的计算设计有直接对照意义；③ ξ/l 清洁极限、有效质量 m* 与 n_s 的解耦分析框架，可迁移到铁电软模/有效质量讨论。
   - **project-6 湿度传感器**：无直接项目连接。
   - **project-7 CDW**：**直接核心相关**。本文是 CDW-超导竞争问题的关键实验论文：(a) 在 4H-NbSe₂ 中建立了 0–2.1 GPa 的 T-p 相图，T_CDW 从 55 K 仅降至 ~45 K（~20%），而 T_c 从 6.3 K 升至 7.3 K（~15%）；(b) 通过无 CDW 的 2H-NbS₂ 同样出现 20% 超流密度增强这一对照，直接证明压力增强超导存在独立于 CDW 压制的机制；(c) 给出 μSR 测得的 n_s/m* 定量数据：4H-NbSe₂ +75%（2.05 GPa）、2H-NbSe₂ +32%（2.2 GPa）、2H-NbS₂ +20%（1.8 GPa），同时 T_c 仅 +16%/+11%/+5%；(d) 超导能隙 Δ₁、Δ₂ 在压力下基本保持不变（s+s 双能隙，权重 ω≈0.54/0.52），说明压力改变的是相刚度/有效载流子而非配对强度；(e) 把 TMD（含 1T'-MoTe₂）与铜氧化物、Ba₁₋ₓRbₓFe₂As₂、RbV₃Sb5 放进同一张 Uemura 图，发现 NbSe₂/NbS₂ 体系斜率与最优掺杂铜氧化物一致；(f) 主张 2H-NbSe₂ 的 CDW 主要由动量 q 依赖的 EPC 驱动，而非费米面嵌套/鞍点，且 CDW 仅打开 Nb 4d 费米面片层的一小部分，最大可用 D(E_F)≈1%，定量说明仅靠压制 CDW 远不足以解释 75% 的超流密度增幅。这些都可直接写入 CDW 项目的竞争序、压力调控、Uemura 标度章节。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
 文章采用"提出矛盾 → 对比实验设计（有/无 CDW、4H/2H 多型体）→ 宏观相图（磁输运）→ 微观刚度（μSR）→ 反证（能隙不变、无 CDW 体系也增强）→ 跨体系普适化（Uemura 图）"的递进式论证。核心修辞是用三组不匹配数字（CDW 仅降 20% vs n_s/m* 增 75%；Tc 仅增 16% vs n_s/m* 增 75%；无 CDW 体系仍增 20%）反复击穿"简单竞争"模型。值得在 wiki 叙述中复用的中英术语：
@@ -139,13 +148,13 @@ S. S. Islam, V. Sazgari, C. Witteveen, J. N. Graham, O. Gerguri, P. Král, M. Ba
   10. 清洁极限 clean limit (ξ/l→0)
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 4H-NbSe₂ 在 ~2 GPa 静水压下超流密度 n_s/m* 增加 75%，是同类 TMD 中最高；2H-NbSe₂ 增 32%（2.2 GPa），无 CDW 的 2H-NbS₂ 仍增 20%（1.8 GPa）；T_c 仅分别 +0.94 K（16%）、+0.76 K（11%）、+0.28 K（5%）。
-  2. 4H-NbSe₂ 的 CDW 起始温度 T_CDW 在 0–2.1 GPa 仅从 55 K 降到 ~45 K（~20%），与 2H-NbSe₂ 的压制幅度相近；霍尔信号在 T* 处由负（电子型）转正（空穴型）、磁阻在 T_CDW 以下上升，二者共同指示 CDW 诱导的费米面重构与空穴口袋形成。
-  3. 关键定量关系：σ_sc/γ_μ = 0.06091·Φ₀·λ_eff⁻²，且 σ_sc ∝ λ⁻² = (4π n_s e²/m*c²)/(1+ξ/l)；由 G-L 关系 ξ=√(Φ₀/2πH_c2) 与已知 H_c2 得 ξ≈3.5 nm（4H-NbSe₂）、ξ∥ab≈3.8 nm（2H-NbS₂），配合范德华层状各向异性（压力主要压层间距、面内平均自由程近似不变），论证体系处于清洁极限，故 λ⁻² 直接正比于 n_s/m*。
-  4. 常压 TF-μSR（30 mT）显示 σ_sc(T) 在低温趋饱和，符合无节点（nodeless）超导；双能隙 (s+s)-波 α 模型显著优于单 s 波；两能隙对应四个 Nb 4d 圆柱面费米片层上的大能隙与 Γ 点附近 Se 4p "煎饼"小口袋上的小能隙，权重 ω≈0.54（4H）、0.52（2H）且几乎不随压力变化。
+  1. 4H-NbSe₂ 在 ~2 GPa 静水压下[[../concepts/superfluid-density|超流密度]] n_s/m* 增加 75%，是同类 TMD 中最高；2H-NbSe₂ 增 32%（2.2 GPa），无 CDW 的 2H-NbS₂ 仍增 20%（1.8 GPa）；T_c 仅分别 +0.94 K（16%）、+0.76 K（11%）、+0.28 K（5%）。
+  2. 4H-NbSe₂ 的 CDW 起始温度 T_CDW 在 0–2.1 GPa 仅从 55 K 降到 ~45 K（~20%），与 2H-NbSe₂ 的压制幅度相近；霍尔信号在 T* 处由负（电子型）转正（空穴型）、磁阻在 T_CDW 以下上升，二者共同指示 CDW 诱导的[[../concepts/fermi-surfaces|费米面]]重构与空穴口袋形成。
+  3. 关键定量关系：σ_sc/γ_μ = 0.06091·Φ₀·λ_eff⁻²，且 σ_sc ∝ λ⁻² = (4π n_s e²/m*c²)/(1+ξ/l)；由 G-L 关系 ξ=√(Φ₀/2πH_c2) 与已知 H_c2 得 ξ≈3.5 nm（4H-NbSe₂）、ξ∥ab≈3.8 nm（2H-NbS₂），配合范德华层状[[../concepts/migdal-eliashberg-theory|各向异性]]（压力主要压层间距、面内平均自由程近似不变），论证体系处于清洁极限，故 λ⁻² 直接正比于 n_s/m*。
+  4. 常压 TF-μSR（30 mT）显示 σ_sc(T) 在低温趋饱和，符合无节点（nodeless）超导；[[../concepts/two-gap-superconductivity|双能隙]] (s+s)-波 α 模型显著优于单 s 波；两能隙对应四个 Nb 4d 圆柱面费米片层上的大能隙与 Γ 点附近 Se 4p "煎饼"小口袋上的小能隙，权重 ω≈0.54（4H）、0.52（2H）且几乎不随压力变化。
   5. 两个超导能隙 Δ₁、Δ₂ 在整个压力范围内基本保持不变（见 SM 图 S3），说明压力未改变配对强度，n_s/m* 的剧变来自有效质量 m* 下降或参与超导的载流子数增加，而非配对胶增强。
-  6. 2H-NbSe₂ 的费米面由四个 Nb 4d 衍生带（K/中点点状柱面）和一个 Se 4p 衍生三维小口袋组成；CDW 仅在 Nb 4d 片层的小部分区域打开能隙，与超导能隙在 k 空间不重合；CDW 可动用的最大态密度 D(E_F)≈1%，数量级上无法解释 75% 的超流密度增幅。
-  7. 文献证据倾向：2H-NbSe₂ 的 CDW 由动量 q 依赖的电子-声子耦合（EPC）驱动，而非传统的费米面嵌套/鞍点机制（Weber 2011、Johannes & Mazin 2008 等）；压力下 EPC、多带费米面结构、p-d 杂化的复杂耦合可能共同主导超流密度增强。
+  6. 2H-NbSe₂ 的费米面由四个 Nb 4d 衍生带（K/中点点状柱面）和一个 Se 4p 衍生三维小口袋组成；CDW 仅在 Nb 4d 片层的小部分区域打开能隙，与超导能隙在 k 空间不重合；CDW 可动用的最大[[../concepts/density-of-states|态密度]] D(E_F)≈1%，数量级上无法解释 75% 的超流密度增幅。
+  7. 文献证据倾向：2H-NbSe₂ 的 CDW 由动量 q 依赖的[[../concepts/electron-phonon-coupling|电子-声子耦合]]（EPC）驱动，而非传统的[[../concepts/fermi-surface-nesting|费米面嵌套]]/鞍点机制（Weber 2011、Johannes & Mazin 2008 等）；压力下 EPC、多带费米面结构、p-d 杂化的复杂耦合可能共同主导超流密度增强。
   8. 从头算（Zhou 2023, PRB 108, 224518）显示 4H-NbSe₂ 相比 2H-NbSe₂ 具有更弱的 p-d 杂化和 E_F 附近额外的态密度，这与其更低 T_c、更高 T_CDW 及对压力更强的超流密度响应一致；这为通过堆垛/多型工程调控 TMD 超导提供了理论入口。
-  9. T_c 与 n_s/m* 的双对数图上，4H/2H-NbSe₂、2H-NbS₂ 斜率相同，且与最优掺杂铜氧化物（La₂₋ₓBaₓCuO₄）和铁基（Ba₁₋ₓRbₓFe₂As₂）的绝对值相近（铁基符号相反），而 1T'-MoTe₂ 与 RbV₃Sb₅ 斜率更陡；TMD 的 T_c/T_F 比铜氧化物小约 20 倍却仍保持非常规斜率，挑战了"Uemura 关系仅属于低超流密度 BEC 端"的简单理解。
+  9. T_c 与 n_s/m* 的双对数图上，4H/2H-NbSe₂、2H-NbS₂ 斜率相同，且与最优掺杂铜氧化物（La₂₋ₓBaₓCuO₄）和铁基（Ba₁₋ₓRbₓFe₂As₂）的绝对值相近（铁基符号相反），而 1T'-MoTe₂ 与 RbV₃Sb₅ 斜率更陡；TMD 的 T_c/T_F 比铜氧化物小约 20 倍却仍保持非常规斜率，挑战了"[[../concepts/uemura-relation|Uemura 关系]]仅属于低超流密度 BEC 端"的简单理解。
   10. 作者明确呼吁的后续工作：压力下的第一性原理能带/声子/EPC 计算、高压 ARPES 直接观测费米面与能隙演化、把 μSR 推广到 1T/3R 等其他多型体及插层化合物；这些是 CDW 项目可直接对接的研究路线图。

@@ -89,18 +89,18 @@ L. Zhang, C.B. Zhang, Y.M. Wang, S.Q. Wang, H.Q. Ye，2003，Acta Materialia 51(
   - `A36-low-carbon-steel`（A36 低碳钢）：本工作的模拟对象，成分 C0.17 Mn0.74 Si0.012 Cu0.016 Ni0.01 Cr0.019（wt%）
   - `cementite`（渗碳体 Fe3C）：高冷速下碳富集形成并阻碍铁素体生长的第二相
 ## 📊 关键图表
-  - ![Fe-C合金示意相图与Ae3线](../../raw/figures/Zhang2003a/fig_1_JCY8J4H6.png)
-  - ![六边形CA网格的六个最近邻与L_CA](../../raw/figures/Zhang2003a/fig_2_3PQK3GA3.png)
+  - ![Fe-C合金示意相图与Ae3线](../../raw/figures/Zhang2003a/fig_1_JCY8J4H6.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![六边形CA网格的六个最近邻与L_CA](../../raw/figures/Zhang2003a/fig_2_3PQK3GA3.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
   - ![元胞三态：α/γ/α-γ界面](../../raw/figures/Zhang2003a/fig_3_TIVF3D85.png) → [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
-  - ![A36钢初始奥氏体与最终铁素体/渗碳体模拟组织](../../raw/figures/Zhang2003a/fig_4_Y5RG7LME.png)
-  - ![铁素体晶粒尺寸dα随冷却速率Q下降](../../raw/figures/Zhang2003a/fig_5_UEJHYHYW.png)
-  - ![每奥氏体晶粒内铁素体晶粒数M：模拟与实验对比](../../raw/figures/Zhang2003a/fig_6_F9QA8UF3.png)
-  - ![形核元胞数n_nuc随过冷度ΔT：I区上升II区饱和（561/1352/1590）](../../raw/figures/Zhang2003a/fig_7_CK99QF4V.png)
-  - ![铁素体转变分数Y随过冷度ΔT](../../raw/figures/Zhang2003a/fig_8_2JAJBYIB.png)
-  - ![铁素体转变分数Y随时间t：高冷速相变更快](../../raw/figures/Zhang2003a/fig_9_WIGUFCEW.png)
-  - ![形核分数Y_nuc随ΔT：高冷速下早期剧烈振荡](../../raw/figures/Zhang2003a/fig_10_GMMDUYPD.png)
-  - ![1°C/s下实验金相与模拟组织对比](../../raw/figures/Zhang2003a/fig_11_C5MNERW5.png)
-  - ![表1：Si/Mn/Ni/Cu/Cr的Zener参数ΔT_i^M与ΔT_i^NM](../../raw/figures/Zhang2003a/tab_1_MV8VNLSS.png)
+  - ![A36钢初始奥氏体与最终铁素体/渗碳体模拟组织](../../raw/figures/Zhang2003a/fig_4_Y5RG7LME.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![铁素体晶粒尺寸dα随冷却速率Q下降](../../raw/figures/Zhang2003a/fig_5_UEJHYHYW.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![每奥氏体晶粒内铁素体晶粒数M：模拟与实验对比](../../raw/figures/Zhang2003a/fig_6_F9QA8UF3.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![形核元胞数n_nuc随过冷度ΔT：I区上升II区饱和（561/1352/1590）](../../raw/figures/Zhang2003a/fig_7_CK99QF4V.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![铁素体转变分数Y随过冷度ΔT](../../raw/figures/Zhang2003a/fig_8_2JAJBYIB.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![铁素体转变分数Y随时间t：高冷速相变更快](../../raw/figures/Zhang2003a/fig_9_WIGUFCEW.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![形核分数Y_nuc随ΔT：高冷速下早期剧烈振荡](../../raw/figures/Zhang2003a/fig_10_GMMDUYPD.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![1°C/s下实验金相与模拟组织对比](../../raw/figures/Zhang2003a/fig_11_C5MNERW5.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![表1：Si/Mn/Ni/Cu/Cr的Zener参数ΔT_i^M与ΔT_i^NM](../../raw/figures/Zhang2003a/tab_1_MV8VNLSS.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
 ## 🔬 项目连接
 无直接项目连接。本文是低碳钢奥氏体→铁素体扩散型相变的元胞自动机介观模拟，与双光子/非线性光学（project-1）、Mn 多铁（project-2）、机械发光 NN（project-3）、TTF 分子计算（project-4）、SnTe 铁电模拟（project-5）、湿度传感（project-6）、CDW（project-7）在材料体系、物理机制和方法上均无可复用的直接参考价值；其 CA/有限体积扩散求解流程针对钢铁凝固相变设计，不属于上述项目所依赖的 DFT/MLIP/光学/铁电方法链。
 ## 📝 组织与用词
@@ -114,13 +114,13 @@ L. Zhang, C.B. Zhang, Y.M. Wang, S.Q. Wang, H.Q. Ye，2003，Acta Materialia 51(
   - α/γ interface cell / α/γ 界面元胞（过渡态）
   - equiaxed growth / 等轴生长
 ## ✏️ 可写入 Wiki 的要点
-  1. 模型用 200×200 二维六边形 CA 网格代表 125×125 μm² 样品、周期性边界，六边形网格比正方形网格能显著降低数值各向异性。
-  2. 四项基本假设：(i) Fe-Xi-C 等效为超元素 S–C 二元；(ii) 铁素体在奥氏体晶界形核；(iii) 生长由 C 在 γ 中的扩散控制；(iv) 以 Fe-C 相图 γ 相线 Ae3 为相变平衡判据。
+  1. 模型用 200×200 二维六边形 CA 网格代表 125×125 μm² 样品、周期性边界，六边形网格比正方形网格能显著降低数值[[../concepts/migdal-eliashberg-theory|各向异性]]。
+  2. 四项基本假设：(i) Fe-Xi-C 等效为超元素 S–C 二元；(ii) 铁素体在奥氏体[[../concepts/grain-boundary-nucleation|晶界形核]]；(iii) 生长由 C 在 γ 中的扩散控制；(iv) 以 Fe-C 相图 γ 相线 Ae3 为相变平衡判据。
   3. 形核率 I(T) = K1(kT)^(−1/2) D_γ exp[−K2/(kT(ΔG_{γ→α}^N)²)]，其中 K1=2.07×10³ J^{1/2} cm^{−4}、K2=6.33×10^{−15} J³ mol^{−2}（Umemoto 等经验值）；形核驱动力 ΔG_{γ→α}^N = ΔG_{γ→α}^S − RT ln a_γ^S，叠加 Zener 参数（表1：Mn ΔT^M=−39.5、ΔT^NM=−37.5；Si 0/−3；Ni −18/−6；Cu −11.5/−4.5；Cr −18/−19）。
   4. 扩散用 ∂c_ν/∂t = D_ν∇²c_ν，界面用 Stefan 条件 D_γ(∂c_γ/∂n) − D_α(∂c_α/∂n) = v_n(c_α^{α/γ} − c_γ^{α/γ})；六边形网格上用显式有限体积法求解。
-  5. CA 概率规则：形核概率 p_nuc = δn·S_γ（δn 由式9 对过冷度积分），随机数 r_s≤p_nuc 即形核；捕获概率 p_cap = l(t)/L_CA，l(t)=∫v dt；元胞转变后向邻居奥氏体元胞平均分配 c_precipitate = c − c^{α*}，每个邻居得 c_precipitate/n_ei，自然再现软碰撞。
+  5. CA 概率规则：形核概率 p_nuc = δn·S_γ（δn 由式9 对[[../concepts/undercooling|过冷度]]积分），随机数 r_s≤p_nuc 即形核；捕获概率 p_cap = l(t)/L_CA，l(t)=∫v dt；元胞转变后向邻居奥氏体元胞平均分配 c_precipitate = c − c^{α*}，每个邻居得 c_precipitate/n_ei，自然再现[[../concepts/soft-impingement|软碰撞]]。
   6. 时间步 Δt = min(L_CA/v_max, L_CA²/D_α, L_CA²/D_γ)，同时受生长速度和两相扩散稳定性约束。
-  7. A36 钢（d_γ=18 μm）模拟定量结果：冷速 11/41/61 °C/s 对应的饱和形核数 n_nuc = 561/1352/1590；冷速越大 d_α 越小、M 越大、相变完成时间越短；最终转变分数 Y 几乎相同，高冷速因渗碳体析出而略低。
+  7. A36 钢（d_γ=18 μm）模拟定量结果：冷速 11/41/61 °C/s 对应的饱和形核数 n_nuc = 561/1352/1590；冷速越大 d_α 越小、M 越大、相变完成时间越短；最终转变分数 Y 几乎相同，高冷速因[[../concepts/cementite-precipitation|渗碳体析出]]而略低。
   8. 形核集中在过冷早期 zone I 完成，zone II 进入饱和；高冷速下 Y_nuc=n_nuc/(n_nuc+n_grow) 在 ΔT<95 °C 区间剧烈振荡且数值更高，表明早期形核主导而非生长主导。
   9. 低冷速下形核数少，每个铁素体晶粒平均分担的排出碳更多、扩散更充分，利于等轴生长，最终晶粒粗大；高冷速则相反。
   10. 渗碳体作为铁素体生长前方 α/γ 界面元胞碳富集到无法及时扩散时形成的障碍相，是高冷速下 Y 饱和值略降的原因；模型与 Militzer 等实验的 M 曲线及 1 °C/s 金相形貌均吻合。

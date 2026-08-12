@@ -108,15 +108,19 @@ Wang Ying, Lu Chengliang, Wu Menghao（华中科技大学物理学院），2025�
 
 ## 📊 关键图表
   - ![双层CuCrS2几何结构、能带/PDOS、静电势与差分电荷密度](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_1_YWXULNJX.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
-  - ![O2分子在少层CuCrX2表面的吸附构型与吸附能柱状图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_2_MDNEN53L.png)
+  - ![O2分子在少层CuCrX2表面的吸附构型与吸附能柱状图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_2_MDNEN53L.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
   - ![双层CuCrX2表面ORR反应路径与吉布斯自由能变化图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_3_47S2LRMK.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
   - ![三层CuCrX2基态自旋构型、PDOS及ORR自由能图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_4_DX4JT9JH.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
-  - ![四层CuCrX2基态自旋构型、PDOS及ORR自由能图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_5_TZW26C6K.png)
+  - ![四层CuCrX2基态自旋构型、PDOS及ORR自由能图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_5_TZW26C6K.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
   - ![少层CuCrX2的OER吉布斯自由能变化图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_6_YZJF6YBP.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
 
 ## 🔬 项目连接
   - **project-2（Mn多铁）| medium**：本文研究的CuCrX2是同时具有面内铁磁性（基态FM）和面外铁电性的二维多铁体系，层间为FM/AFM混合耦合。其"金属性+铁电性共存"的物理图像、自旋极化DFT+PBE+D3+U类计算流程、以及铁电极化与磁结构共存的论证方式，可为Mn基多铁材料（如BiFeO3、HoMnO3体系）的第一性原理研究提供方法学和物理类比参考；尤其对理解二维受限体系中极化未被自由电荷完全屏蔽这一机制有直接参考价值。
   - **project-5（SnTe铁电模拟）| medium**：本文是二维铁电材料DFT模拟的典型工作：通过结构不对称性（Cu四面体配位两邻层距离不等）量化垂直极化（~2 pC/m），用平面平均静电势给出两表面功函数差（3.98 vs 4.34 eV），并用差分电荷密度展示极化对表面电荷分布的调控。这些"极化→表面功函数→电荷转移"的计算流程与分析语言，可直接迁移到SnTe铁电/滑动铁电模拟中对表面极化效应的表征；P+/P-表面催化差异也为极化翻转功能设计提供类比。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 
 ## 📝 组织与用词
   文章按"提出矛盾（铁电体须绝缘 vs 电催化剂须金属）→ 材料验证（金属性+垂直铁电性）→ 性能评估（ORR/OER自由能图与过电位）→ 机理揭示（极化调控电荷转移）"四段式组织。先以晶体场理论解释Cu⁺(d¹⁰)的sp³四面体配位如何产生垂直极化，再用能带/PDOS确认金属性并定位活性位点（表面S/Se原子），随后系统对比2-4层、S/Se、P+/P-共12组工况的过电位，最后以差分电荷密度闭环证明极化效应。论证以CHE热力学框架为骨干，数据密度高，比较对象明确（Pt、IrO2）。
@@ -131,13 +135,13 @@ Wang Ying, Lu Chengliang, Wu Menghao（华中科技大学物理学院），2025�
   - [[../concepts/sabatier-principle|Sabatier principle / 萨巴蒂尔原理]]
 
 ## ✏️ 可写入 Wiki 的要点
-  1. **铁电金属机制**：二维CuCrX2中Cu⁺(d¹⁰)取sp³四面体配位，每个Cu与一层1个X、另一层3个X配位，导致Cu与两相邻层垂直距离不等，产生约2 pC/m的垂直极化；电子面内自由但面外受量子限域，极化不被完全屏蔽。
+  1. **[[../concepts/ferroelectric-metal|铁电金属]]机制**：二维CuCrX2中Cu⁺(d¹⁰)取sp³四面体配位，每个Cu与一层1个X、另一层3个X配位，导致Cu与两相邻层垂直距离不等，产生约2 pC/m的垂直极化；电子面内自由但面外受量子限域，极化不被完全屏蔽。
   2. **金属性与活性位点**：双层CuCrS2能带多条穿过费米能级，费米能级附近PDOS主要由表面S原子p轨道贡献（而非Cu/Cr金属离子），表面X原子即为高密度活性位点。
-  3. **极化表面功函数差**：双层CuCrS2两表面功函数Φ分别为3.98 eV和4.34 eV，电子从P-（低Φ）流向P+（高Φ）; 差分电荷密度显示P+表面吸附O时电荷转移量更大，从原子尺度证明极化促进催化。
-  4. **ORR过电位系统数据**：2L CuCrS2的P-/P+面η_ORR为0.68/0.38 V；3L为0.70/0.28 V；4L为0.71/0.33 V。3L P+-CuCrS2的0.28 V是作者所知目前已报道ORR催化剂最低值，优于Pt基催化剂（~0.45 V）。
+  3. **极化表面[[../concepts/work-function|功函数]]差**：双层CuCrS2两表面功函数Φ分别为3.98 eV和4.34 eV，电子从P-（低Φ）流向P+（高Φ）; 差分[[../concepts/charge-density|电荷密度]]显示P+表面吸附O时[[../concepts/charge-transfer|电荷转移]]量更大，从原子尺度证明极化促进催化。
+  4. **ORR[[../concepts/overpotential|过电位]]系统数据**：2L CuCrS2的P-/P+面η_ORR为0.68/0.38 V；3L为0.70/0.28 V；4L为0.71/0.33 V。3L P+-CuCrS2的0.28 V是作者所知目前已报道ORR催化剂最低值，优于Pt基催化剂（~0.45 V）。
   5. **CuCrSe2性能较差**：2L/3L/4L CuCrSe2 P+面η_ORR分别为1.06/1.02/0.99 V，PDS均为第一步O₂→*OOH；原因是Se电负性较弱导致O₂吸附过强，符合Sabatier原理。
   6. **PDS随极化面变化**：CuCrS2的P-面PDS为最后一步OH*→H₂O，P+面PDS为第三步O*→OH*，极化反转改变了反应瓶颈。
   7. **OER性能**：多数体系PDS为第三步O*→OOH*；2L和3L CuCrS2 P+面η_OER分别为0.43 V和0.50 V，低于IrO2基准（0.56 V），证实CuCrS2为理想ORR/OER双功能催化剂。
   8. **计算方法细节**：VASP，自旋极化PBE-GGA，PAW赝势，DFT-D3色散修正；7×7×1 Monkhorst-Pack k网格，520 eV截断，10⁻⁶ eV能量收敛，>15 Å真空层；CHE模型，气相O₂自由能由2G(H₂)+G(O₂)-2G(H₂O)=4.92 eV反推以规避O₂高自旋态DFT误差。
   9. **过电位公式**：η_ORR = max(ΔG₁,ΔG₂,ΔG₃,ΔG₄)/e + 1.23 V；η_OER = max(ΔG₁..ΔG₄)/e − 1.23 V；ΔG = ΔE + ΔZPE − TΔS + ΔG_U，吸附中间体取TS≈0。
-  10. **磁结构**：2L CuCrX2基态为铁磁性；3L/4L（记作Cu₂(CrX₂)₃、Cu₃(CrX₂)₄）面内自旋耦合均为FM，层间为FM与AFM混合构型，且均为金属。
+  10. **磁结构**：2L CuCrX2基态为[[../concepts/ferromagnetism|铁磁性]]；3L/4L（记作Cu₂(CrX₂)₃、Cu₃(CrX₂)₄）面内自旋耦合均为FM，层间为FM与AFM混合构型，且均为金属。

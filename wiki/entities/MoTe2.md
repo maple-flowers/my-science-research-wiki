@@ -8,7 +8,7 @@ category: [D02, Z01]
 **MoTe2** 是一种展现出丰富物理特性的过渡金属硫族化物 (TMD)。它不仅是研究**滑动铁电性**和**铁电金属**的原型体系，还通过磁性原子替代实现了二维磁电耦合。
 
 ## 1. 结构相与滑动铁电性
-- **晶体结构**：MoTe2 具有多种同质异形体，包括 $2H$（半导体）、$1T'$（半金属）和 $T_d$（外尔半金属）相。
+- **晶体结构**：MoTe2 具有多种同质异形体，包括 $2H$（半导体）、$1T'$（半金属）和 $T_d$（外尔半金属）相。1T′ 与 2H 两相能量差在 TMD 中最小，约 0.3% 的拉伸应变即可诱导相变，是应变相变器件的核心沟道材料 [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]]。
 - **滑动铁电机制**：在双层或少层 $3R$ 堆垛的 MoTe2 中，通过层间的微小滑移打破了空间反演对称性，诱导出稳健的面外自发极化。这种**滑动铁电性**具有极低的翻转能垒（$\sim 1\text{ meV/f.u.}$），是开发超低功耗存储器件的理想机制 [[../papers/kaurRecentAdvancesTheoretical2025a]]。
 - **铁电金属态**：在 $T_d$ 相的薄层 MoTe2 中，极化电荷与金属态载流子共存，展现出反常的铁电金属特性 [[../papers/FerroelectricityMultiferroicityAtomic2023]]。
 
@@ -27,6 +27,7 @@ category: [D02, Z01]
 ## 4. 本库相关代表性论文
 - [[../papers/FerroelectricityMultiferroicityAtomic2023]]：综述 MoTe2 在原子级厚度下的铁电金属与尺寸效应。
 - [[../papers/kaurRecentAdvancesTheoretical2025a]]：详述 MoTe2 双层中的滑动铁电机制及层极化自旋效应。
+- [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]]：应变诱导室温非易失 2H/1T′ 相变。
 
 ## 5. 关联概念与实体
 - [[../concepts/sliding-ferroelectricity|滑动铁电性 Sliding Ferroelectricity]]

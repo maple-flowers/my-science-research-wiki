@@ -104,18 +104,21 @@ Raghwendra Kumar, S. Anantha Ramakrishna，2017，Current Science，112(08): 166
   - `threshold-effect`（阈值效应）：光聚合需超过最小剂量阈值，使实际固化区远小于光斑，是突破衍射极限的关键。
   - `diffraction-limit`（衍射极限）：传统光学聚焦的最小尺度限制；TPP 通过 I² 非线性与阈值将特征尺寸压缩至 FWHM 的 1/√2 以下。
 ## 📊 关键图表
-  - ![图1 TPP原理与体素尺寸理论预测（I vs I²、阈值效应、D 随驻留时间/功率/NA 变化）](../../raw/figures/Kumar2017microstructuring/fig_1_2SW9UPB2.png)
-  - ![图2 亚纳秒双光子激光直写系统光路示意与实物照片](../../raw/figures/Kumar2017microstructuring/fig_2_ENZRABLZ.png)
-  - ![图3 SU-8/AR-N 4340 中制备的 2D 光栅、微盘、IIT Kanpur 校徽、6 μm 3D 微柱阵列](../../raw/figures/Kumar2017microstructuring/fig_3_YY3P3QFG.png)
-  - ![图4 1.3 NA 油浸物镜获得的高分辨光栅 AFM 形貌，线轮廓 FWHM ≈ 500 nm](../../raw/figures/Kumar2017microstructuring/fig_4_HUGYSKHH.png)
-  - ![图5 不同峰值强度（2.5–5.7 GW/cm²）与写入速度（300–1600 μm/s）下微线条的 AFM 形貌与高度剖面](../../raw/figures/Kumar2017microstructuring/fig_5_5NHRW2UU.png)
-  - ![图6 线宽 FWHM 对峰值强度与写入速度的定量依赖，与阈值模型拟合一致](../../raw/figures/Kumar2017microstructuring/fig_6_JCA8NIX8.png)
+  - ![图1 TPP原理与体素尺寸理论预测（I vs I²、阈值效应、D 随驻留时间/功率/NA 变化）](../../raw/figures/Kumar2017microstructuring/fig_1_2SW9UPB2.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图2 亚纳秒双光子激光直写系统光路示意与实物照片](../../raw/figures/Kumar2017microstructuring/fig_2_ENZRABLZ.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图3 SU-8/AR-N 4340 中制备的 2D 光栅、微盘、IIT Kanpur 校徽、6 μm 3D 微柱阵列](../../raw/figures/Kumar2017microstructuring/fig_3_YY3P3QFG.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图4 1.3 NA 油浸物镜获得的高分辨光栅 AFM 形貌，线轮廓 FWHM ≈ 500 nm](../../raw/figures/Kumar2017microstructuring/fig_4_HUGYSKHH.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图5 不同峰值强度（2.5–5.7 GW/cm²）与写入速度（300–1600 μm/s）下微线条的 AFM 形貌与高度剖面](../../raw/figures/Kumar2017microstructuring/fig_5_5NHRW2UU.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![图6 线宽 FWHM 对峰值强度与写入速度的定量依赖，与阈值模型拟合一致](../../raw/figures/Kumar2017microstructuring/fig_6_JCA8NIX8.png) -> [[../figures/electronic-devices|电子与突触器件]]
   - ![公式1 双光子吸收能量速率 dW/dt ∝ I² Im[χ⁽³⁾]](../../raw/figures/Kumar2017microstructuring/eq_1_B45IT96C.png)
-  - ![公式3 高斯光束强度分布 I(r,z)](../../raw/figures/Kumar2017microstructuring/eq_3_HDYU79KZ.png)
-  - ![公式4 束宽 w(z) 随离焦量 z 的变化](../../raw/figures/Kumar2017microstructuring/eq_4_8XWIF9CQ.png)
+  - ![公式3 高斯光束强度分布 I(r,z)](../../raw/figures/Kumar2017microstructuring/eq_3_HDYU79KZ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式4 束宽 w(z) 随离焦量 z 的变化](../../raw/figures/Kumar2017microstructuring/eq_4_8XWIF9CQ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 ## 🔬 项目连接
   - **project-1 双光固化和双光发光 — core**：本文是项目的核心机理性实验文献。直接给出 (1) TPA 速率公式 dW/dt = (8π²ω)/(cn²) I² Im[χ⁽³⁾]；(2) 基于阈值条件 I_th² βτ f t ≥ E_th 与高斯光束传播推导的体素宽 D 与深 L 解析表达式（公式 5、6），将 D/L 与平均功率 P_av、驻留时间 t、重复频率 f、NA、阈值能量密度 E'_th 定量关联；(3) 一套完整的亚纳秒（700 ps, 532 nm）TPP 系统搭建方案（AOM 选单、3D 压电台 0.5 nm 闭环、LabVIEW 坐标控制、二向色镜滤 1064 nm）；(4) 商用光刻胶 SU-8、AR-N 4340 与 3 wt% 2,4-二乙基-9H-噻吨-9-酮光引发剂的工艺配方与旋涂/前烘/后烘/显影参数；(5) 实验拟合得到 E'_th ≈ 6.6×10⁻⁷³ W²/m⁴，可作为项目计算/实验对照的可复用基准数据；(6) 功率、写入速度、NA 对线宽/线高影响的系统定量曲线。这些机制、配方、工艺窗口数据对 project-1 选择光源、光引发剂和预测分辨率具有直接参考价值。
   - project-2 Mn多铁 / project-3 机械发光NN / project-4 TTF分子计算 / project-5 SnTe铁电模拟 / project-6 湿度传感器 / project-7 CDW：均无内容参考价值，不列入。
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+
 ## 📝 组织与用词
 论文按"原理（TPA/阈值理论 → 体素尺寸公式）→ 设备与材料（自研亚纳秒系统 + 商用光刻胶新组合）→ 制备（2D/3D 微结构）→ 表征校准（AFM/光学显微镜测线宽，拟合 E'_th）→ 结论"的经典实证链条展开，理论预测先行、实验数据回扣模型。值得在 wiki 叙述中复用的术语：
   - two-photon polymerization (TPP) — 双光子聚合
@@ -133,7 +136,7 @@ Raghwendra Kumar, S. Anantha Ramakrishna，2017，Current Science，112(08): 166
   - 阈值条件写成 I_th² βτ f t ≥ E_th（β 为吸收系数，τ 脉宽，f 重复频率，t 驻留时间，E_th 单位体积阈值能量）；结合高斯光束 I(r,z) 可推出体素宽 D(t,NA,P_av,f) 与体素深 L 的解析公式（原文公式 5、6），D/L 随 P_av、f、t 增大而增大，随 NA 增大而减小。
   - 写入速度 v 与驻留时间成反比，因此提高写入速度等价于缩短 t，线宽单调下降；理论预测小体素需要功率略高于阈值、驻留时间 < 20 ms、平均功率约 1 mW、高 NA 物镜。
   - 自研系统：Bright Solutions Wedge_532_1064 亚纳秒激光器（700 ps，532/1064 nm 同时输出，二向色镜取 532 nm）；AOM 布拉格角衍射选 +1 级控制开关；Physik Instrumente E-725 三维压电台 200×200×200 μm、0.5 nm 闭环分辨率；Nikon Eclipse Ti-s 倒置显微镜配 50×/100× 物镜；Newport 浮式防震台；LabVIEW 读入 CAD 笛卡尔坐标并协同控制位移台与 AOM。
-  - 材料组合首次报道：商用负胶 SU-8-3005（MicroChem）与 AR-N 4340（Allresist）+ 3 wt% 2,4-二乙基-9H-噻吨-9-酮光引发剂（吸收峰 255 nm，但在 532 nm 具大 TPA 截面）。AR-N 4340 本身对 532 nm TPA 已足够强，甚至无需光引发剂即可固化；SU-8 则需添加光引发剂。
+  - 材料组合首次报道：商用负胶 SU-8-3005（MicroChem）与 AR-N 4340（Allresist）+ 3 wt% 2,4-二乙基-9H-噻吨-9-酮[[../concepts/photoinitiator|光引发剂]]（吸收峰 255 nm，但在 532 nm 具大 TPA 截面）。AR-N 4340 本身对 532 nm TPA 已足够强，甚至无需光引发剂即可固化；SU-8 则需添加光引发剂。
   - SU-8 工艺：玻璃基底先 6000 RPM 旋涂 HMDS 45 s、120 °C 烘 2 min 增粘；SU-8+光引发剂 2000 RPM 旋涂 1 min，65 °C/2 min + 95 °C/3 min 前烘；532 nm 直写后 65 °C/3 min + 95 °C/5 min 后烘；丙二醇甲醚醋酸酯显影 20 s，异丙醇洗 1 min。AR-N 4340 工艺：2000 RPM 旋涂 1 min，85 °C/2 min 前烘，曝光后 95 °C/5 min 后烘，AR-300-475 显影 20 s，去离子水洗 1 min。
   - 典型制备参数（0.8 NA，图3）：平均功率 1.2 mW、写入速度 100 μm/s、重复频率 10 kHz；高分辨参数（1.3 NA 100× 油浸，图4）：1.0 mW、200 μm/s、10 kHz，得 FWHM ≈ 500 nm 清晰线条与高约 6 μm 的 3D 微柱阵列，证明 2D/3D 加工能力。
   - 工艺窗口：峰值强度 2.5–5.7 GW/cm² 范围内，过强（最左两条）造成树脂损伤，过弱（最右）线条不连续（低于阈值），存在最优窗口；写入速度 300→1600 μm/s 时线条变窄、变矮、轮廓趋圆滑，这些趋势与公式 5 预测一致。

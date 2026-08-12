@@ -1,47 +1,72 @@
 ---
-tags: [entity, material, magnetic, 2D, sliding-ferroelectricity, multiferroicity]
+tags: [entity, material, magnetic, 2D, vdW, multiferroic, sliding-ferroelectricity]
+title: 碘化铬 / Chromium Triiodide (CrI3)
+type: entity
+status: mature
 category: [D01, Z02]
+formula: CrI3
+aliases: ["三碘化铬", "CrI₃", "chromium triiodide"]
+class: [transition-metal-trihalide, vdW, magnetic-insulator]
+properties: [ising-ferromagnetism, stacking-dependent-magnetism, sliding-ferroelectricity, magnetoelectric-coupling]
+related_entities: [Cr2Ge2Te6, Fe3GeTe2, NiI2, CrInTe2]
+key_quantities:
+  Tc_monolayer: "~45 K"
+  magnetic_easy_axis: "面外 (Ising 型)"
+  Cr_state: "Cr³⁺ t2g³，S = 3/2"
+  note: "层间磁序随堆垛（平行/反平行）在 FM/AFM 间切换；滑动极化来自层间界面电荷重排（理论）"
+papers: [kaurRecentAdvancesTheoretical2025a, yangRipplingFerroicPhase2021, zhangNonvolatileControlTopological2025]
+updated: 2026-08
 ---
 
 # 碘化铬 / Chromium Triiodide (CrI3)
 
-**CrI3** 是一种典型的二维范德华铁磁绝缘体，也是二维磁性与多铁性研究的里程碑材料。2017 年，CrI3 作为首个被实验证实的单层厚度磁性材料，打破了 Mermin–Wagner 定理在二维各向同性海森堡模型中的限制，证明了各向异性（Ising 型）可以稳定长程磁序。近年来，随“滑移电子学（Slidetronics）”的兴起，CrI3 因其独特的**层间滑动铁电性**以及由此产生的强磁电耦合效应，成为了二维多铁性物理的原型体系。
+CrI3 是二维范德华磁性绝缘体的里程碑材料：2017 年它成为首个在单层厚度下被实验证实具有铁磁性的材料，证明磁各向异性可在二维极限下稳定长程磁序（绕开 Mermin–Wagner 限制）。单层 CrI3 是面外易轴的 Ising 铁磁体；双层/多层的层间磁序对堆垛方式高度敏感，并由此衍生出滑动铁电性与磁电耦合，是二维"滑移电子学 (slidetronics)"的原型体系之一 [[../papers/kaurRecentAdvancesTheoretical2025a]]。
 
-## 1. 物理机制：从 Ising 磁性到滑动多铁性
+## 👵 太奶导读
 
-在单层极限下，CrI3 表现为具有面外易轴的 Ising 型铁磁体，磁转变温度 $T_C \approx 45\text{ K}$。其磁性源自 Cr$^{3+}$ 离子的 $t_{2g}^3$ 构型，通过 Cr-I-Cr 超交换作用产生铁磁耦合 [[../papers/kaurRecentAdvancesTheoretical2025a]]。
+太奶，您把这材料想成一摞扑克牌，每张牌是一层原子。单层的时候，牌上画满了朝同一个方向站的小磁针（都朝上或都朝下），这就是"铁磁"，能耐到约零下二百二十八度（45 K）。
 
-当材料堆叠为双层或多层时，其物理性质表现出极高的对称性依赖：
-- **层间磁序稳定性**：双层 CrI3 的层间磁序对堆垛方式极其敏感。实验发现，菱面体堆垛（Rhombohedral, AB）通常对应铁磁层间耦合，而单斜堆垛（Monoclinic, AB'）则倾向于反铁磁耦合。
-- **滑动诱导极化**：由于范德华层间作用力较弱，层间相对滑动（Sliding）会打破空间反演对称性。在特定的非中心对称堆叠（如 AB 堆垛的移动变体）中，层间界面的电子云重排而非离子位移产生垂直面外的自发极化 [[../papers/chenStrongSlidingFerroelectricity2024]]。这种起源于纯电子响应的铁电性被称为**滑动铁电性**。
+妙就妙在两张牌叠一起的时候：它们是对齐着放还是错开一点放，两层的磁针是"头对头"还是"背靠背"可就不一样了——一种叠法两层磁针同向（铁磁），另一种叠法反向（反铁磁）。只要让上面这张牌相对底下那张轻轻一搓（这就是"滑动"），叠法变了，磁的脾气也跟着变；更巧的是这一搓还把材料的对称给搓没了，凭空搓出一个电的方向来。于是"搓一下牌"就能同时管磁又管电，这就是磁电耦合，做又薄又省电的存储器全靠它。
 
-## 2. 磁电耦合与相位锁定 (Phase-Locked Properties)
+要提醒太奶一句：这里"搓出电来"主要是理论家算出来的门道，真正在 CrI3 上把电方向测出来的实验还不多；有些资料把别的碘化物（比如碘化汞 HgI2）测得的大极化安到 CrI3 头上，那是张冠李戴，咱们这儿只说 CrI3 自己的事儿。
 
-CrI3 最显著的特征是其铁电极化与磁性序参量的**强耦合锁定**。在双层体系中，极化的翻转（通过层间滑移实现）往往伴随着层间磁序从反铁磁（AFM）到铁磁（FM）的切换。
-- **电控磁性**：通过外加垂直电场驱动层间滑动，可以实现磁性的非易失性切换。这种机制规避了传统多铁材料中复杂的畴壁运动，提供了极高响应速度的磁电转换路径。
-- **波纹工程 (Ripple Engineering)**：由于二维材料的柔性，CrI3 中普遍存在的本征波纹（Ripples）会引入局域应变场。波纹可以稳定顺电相中的短程铁性序，形成极性纳米微区，从而显著提高铁性相变温度，并改变畴翻转的动力学模式（从协同雪崩式转变为局域随机过程） [[../papers/yangRipplingFerroicPhase2021]]。
+## 🏗️ 结构概览
 
-## 3. 主要物性参数
+CrI3 是层状范德华晶体：铬（Cr）原子被碘（I）原子八面体配位，形成"碘—铬—碘"三明治单层，层间靠弱范德华力结合，可机械剥离。多层的层间堆垛分平行与反平行构型，直接决定层间磁耦合与是否破缺反演对称。
 
-| 参数名称 | 数值 | 备注 |
+![图：CrI3、Cr2Ge2Te6、Fe3GeTe2 双层的几何结构（a–c）与铁电翻转能垒（d）](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_21_7MRZGUTM.png)
+*   **看图要点**：(a) 为反平行堆垛的 CrI3 双层（Cr 蓝、I 紫），平行堆垛中心对称、反平行堆垛非中心对称——后者因破缺反演对称而允许垂直极化；(d) 对比三种磁性双层沿滑动路径的铁电翻转能垒，能垒越低意味着"一搓就翻"越省电 [[../papers/kaurRecentAdvancesTheoretical2025a]]。
+*   **来源**：[[../papers/kaurRecentAdvancesTheoretical2025a]] -> [[../figures/crystal-structures|晶体结构]]
+
+## 🧩 Ising 铁磁性与堆垛依赖的层间磁序
+
+- **单层铁磁**：Cr³⁺ 为 $t_{2g}^3$（$S=3/2$），经 Cr–I–Cr 超交换耦合，单层 $T_C\approx45$ K，面外磁各向异性稳定长程铁磁序。
+- **层间磁序随堆垛切换**：双层 CrI3 基态为铁磁，而其层间耦合对堆垛极其敏感——菱方（rhombohedral, AB）堆垛倾向层间铁磁，单斜（monoclinic, AB′）堆垛倾向反铁磁；层间相对滑动可在两者间切换。
+- **磁性起源的滑动极化**：在非中心对称的反平行堆垛中，层间界面电子云重排（而非离子位移）产生垂直极化；滑动翻转堆垛即可翻转极化，并同步改变磁基态，实现电写磁读式的磁电耦合 [[../papers/kaurRecentAdvancesTheoretical2025a]]。
+
+## 🎯 波纹工程与外场调控
+
+- **波纹（ripples）**：二维薄膜本征的面外弯曲波纹引入局域应变场，可在顺电背景中稳定短程铁性序、形成极性纳米微区，提升铁性相变温度，并把畴翻转从协同雪崩式改为局域随机过程。该工作以 GeSe 为模型，CrI3 作为磁性二维体系被列为重要拓展对象 [[../papers/yangRipplingFerroicPhase2021]]。
+- **异质结拓扑调控**：借助滑动铁电性，可对 CrI3 相关异质结中的拓扑序进行非易失电学控制 [[../papers/zhangNonvolatileControlTopological2025]]。
+
+## 📊 主要物性参数
+
+| 参数 | 数值 | 备注 |
 | :--- | :--- | :--- |
-| **转变温度 ($T_C$, 单层)** | $45\text{ K}$ | 铁磁态 |
-| **磁易轴** | 垂直面外 | Ising 型磁性 |
-| **极化强度 ($P$)** | $\sim 0.1\text{--}0.5\text{ pC/m}$ | 滑动诱导极化 |
-| **层间交换能** | $\sim 0.5\text{ meV}$ | 随堆垛构型正负翻转 |
-| **材料类别** | 过渡金属卤化物 | 典型范德华层状晶体 |
+| 单层 $T_C$ | ~45 K | Ising 铁磁 |
+| 磁易轴 | 面外 | 各向异性稳定 2D 磁序 |
+| Cr 价态/自旋 | Cr³⁺，$t_{2g}^3$，$S=3/2$ | Cr–I–Cr 超交换 |
+| 层间磁序 | 堆垛依赖（FM/AFM） | 平行↔反平行堆垛切换 |
+| 极化来源 | 层间界面电荷重排 | 滑动铁电（理论为主） |
+| 材料家族 | 过渡金属三卤化物 | 范德华磁性绝缘体 |
 
-## 4. 本库相关代表性论文
+## 📚 相关论文 (Related Papers)
 
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]：详述 CrI3 作为滑动多铁性原型的理论框架与调控机制。
-- [[../papers/chenStrongSlidingFerroelectricity2024]]：对比分析 CrI3 与 HgI2 等碘化物在滑动铁电性上的电子起源差异。
-- [[../papers/yangRipplingFerroicPhase2021]]：探讨波纹结构对二维铁性材料（含 CrI3 展望）相变温度的提升作用。
-- [[../papers/zhangNonvolatileControlTopological2025]]：研究通过滑动铁电性对 CrI3 相关异质结中拓扑序的非易失控制。
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]：综述滑动铁电，含 §3.4 CrI3/Cr2Ge2Te6/Fe3GeTe2 双层的堆垛、翻转能垒与磁电耦合。
+- [[../papers/yangRipplingFerroicPhase2021]]：波纹对二维铁性相变与畴开关的影响（CrI3 为磁性拓展体系）。
+- [[../papers/zhangNonvolatileControlTopological2025]]：滑动铁电对 CrI3 相关异质结拓扑序的非易失控制。
 
-## 5. 关联概念与实体
+## 🔗 关联概念与实体 (Related Concepts & Entities)
 
-- [[../concepts/sliding-ferroelectricity|滑动铁电性 Sliding Ferroelectricity]]：核心机制。
-- [[../concepts/multiferroicity|多铁性 Multiferroicity]]：CrI3 的物性归属。
-- [[../concepts/magnetoelectric-coupling|磁电耦合 Magnetoelectric Coupling]]：极化与磁序的锁定效应。
-- [[../entities/NiI2|碘化镍 NiI2]]：本征单层多铁体系（螺旋磁诱导极化）。
-- [[../entities/Cr2Ge2Te6|锗碲化铬 Cr2Ge2Te6]]：另一类重要的二维铁磁半导体。
+- [[../concepts/sliding-ferroelectricity|滑动铁电性]]、[[../concepts/magnetoelectric-coupling|磁电耦合]]、[[../concepts/ferromagnetism|铁磁性]]、[[../concepts/magnetic-anisotropy-energy|磁各向异性能]]、[[../concepts/interlayer-stacking|层间堆垛]]
+- [[../entities/Cr2Ge2Te6|Cr2Ge2Te6]]（二维铁磁半导体对照）、[[../entities/Fe3GeTe2|Fe3GeTe2]]（金属性二维铁磁对照）、[[../entities/NiI2|NiI2]]（II 型多铁对照）

@@ -1,0 +1,890 @@
+[
+ {
+  "citekey": "Barnett2006coexistence",
+  "filename": "fig_2_PLAEDPRV.png",
+  "alt": "图2 (a) 以 Ta 为中心的低能瓦尼尔函数，中心 d_z² 对称、尾部 d_xy/d_x²-y² 对称；(b) 三角晶格中 WF 符号示意；(c)(d) 最近邻相消干涉、次近邻相长干涉",
+  "path": "../../raw/figures/Barnett2006coexistence/fig_2_PLAEDPRV.png"
+ },
+ {
+  "citekey": "Barnett2006coexistence",
+  "filename": "fig_5_TP3BLRWQ.png",
+  "alt": "图5 CDW 态沿 ΓM 方向：(a) 未畸变子晶格能带无隙穿费米能级；(b) 畸变子晶格能带在 E_F 打开能隙；(c)(d) 正常态与 CDW 态理论 ARPES 谱（η=40 meV）",
+  "path": "../../raw/figures/Barnett2006coexistence/fig_5_TP3BLRWQ.png"
+ },
+ {
+  "citekey": "CastroNeto2001charge",
+  "filename": "fig_1_VHUZ3FLK.png",
+  "alt": "图1 T_cdw 与 T_c 随 a/c 变化的相图，显示 TaSe₂/TaS₂/NbSe₂/NbS₂ 的反相关关系",
+  "path": "../../raw/figures/CastroNeto2001charge/fig_1_VHUZ3FLK.png"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "filename": "fig_3_V2QYGQGG.png",
+  "alt": "Fig.3 力学翻转面积比随针尖力递增至100%",
+  "path": "../../raw/figures/Chen2016electrical/fig_3_V2QYGQGG.png"
+ },
+ {
+  "citekey": "Chen2019superconductivity",
+  "filename": "fig_1_WTGGFJU9.png",
+  "alt": "图1 E-t 相图：C/NC/IC 三相及超导穹顶，红线为 a1∝E 耦合，灰线为 E 无关耦合；插图显示 η 在 t_c 处跳变（一级相变）",
+  "path": "../../raw/figures/Chen2019superconductivity/fig_1_WTGGFJU9.png"
+ },
+ {
+  "citekey": "Chen2019superconductivity",
+  "filename": "fig_4_GA2DJVHW.png",
+  "alt": "补充相图/纹理图（fig_4）",
+  "path": "../../raw/figures/Chen2019superconductivity/fig_4_GA2DJVHW.png"
+ },
+ {
+  "citekey": "Goswami2011multiferroic",
+  "filename": "fig_1_IBYY5PIF.png",
+  "alt": "图1 TEM 与 HRTEM 照片，显示 ~22 nm 单晶颗粒及 (012) 面晶格条纹",
+  "path": "../../raw/figures/Goswami2011multiferroic/fig_1_IBYY5PIF.png"
+ },
+ {
+  "citekey": "Islam2025enhancement",
+  "filename": "fig_1_KVZVNDQP.png",
+  "alt": "图1 4H-NbSe2与2H-NbS2晶体结构对比（三棱柱配位；4H ABAC vs 2H AB堆垛）",
+  "path": "../../raw/figures/Islam2025enhancement/fig_1_KVZVNDQP.png"
+ },
+ {
+  "citekey": "Islam2025enhancement",
+  "filename": "fig_2_M6ARWPEM.png",
+  "alt": "图2 4H-NbSe2压力-温度相图：纵向电阻、霍尔符号反转、磁阻、Tc/T_CDW/T*汇总",
+  "path": "../../raw/figures/Islam2025enhancement/fig_2_M6ARWPEM.png"
+ },
+ {
+  "citekey": "Jin2015studying",
+  "filename": "fig_1_BPD8ZZPF.png",
+  "alt": "图1 BFO晶胞、欧拉角定义及理论压电响应曲面 u1/u2/u3",
+  "path": "../../raw/figures/Jin2015studying/fig_1_BPD8ZZPF.png"
+ },
+ {
+  "citekey": "Johannes2008fermi",
+  "filename": "fig_8_RIPIJUU5.png",
+  "alt": "图8 Na 原子链弛豫后形成之字形构型（间距 3.43 Å，角度 152°），加倍晶胞但不打开 E_F 能隙",
+  "path": "../../raw/figures/Johannes2008fermi/fig_8_RIPIJUU5.png"
+ },
+ {
+  "citekey": "Kang2012dimer",
+  "filename": "fig_6_77V2YUW7.png",
+  "alt": "图6 单个钴杂质周围LDOS模拟，再现6a二聚体结构",
+  "path": "../../raw/figures/Kang2012dimer/fig_6_77V2YUW7.png"
+ },
+ {
+  "citekey": "Koley2020charge",
+  "filename": "fig_1_4WRCB6UJ.png",
+  "alt": "图1 BdG 中无序/CDW/超导配对振幅的实空间分布，团簇与随机构型对比",
+  "path": "../../raw/figures/Koley2020charge/fig_1_4WRCB6UJ.png"
+ },
+ {
+  "citekey": "Koley2020charge",
+  "filename": "fig_5_3UH4R4WV.png",
+  "alt": "图5 2H-TaSe₂ 与 TaSeS 的晶体结构、能带、DOS 与费米面对比",
+  "path": "../../raw/figures/Koley2020charge/fig_5_3UH4R4WV.png"
+ },
+ {
+  "citekey": "Laverock2005fermi",
+  "filename": "fig_1_FRREPGHI.png",
+  "alt": "图1 RTe2与RTe3晶体结构对比，RTe3中双Te方平面夹于RTe层之间",
+  "path": "../../raw/figures/Laverock2005fermi/fig_1_FRREPGHI.png"
+ },
+ {
+  "citekey": "Li2013bonding",
+  "filename": "tab_2_NBLVPVL5.png",
+  "alt": "表II 六种MX2两方向的E、σ*、ε*、各向异性因子φ与ΔQ",
+  "path": "../../raw/figures/Li2013bonding/tab_2_NBLVPVL5.png"
+ },
+ {
+  "citekey": "Perugu2024morphology",
+  "filename": "tab_1_9HPFLKMG.png",
+  "alt": "Table 1 structural parameters",
+  "path": "../../raw/figures/Perugu2024morphology/tab_1_9HPFLKMG.png"
+ },
+ {
+  "citekey": "RecentAdvancesGrowth2025",
+  "filename": "fig_7_NZYZKTDJ.png",
+  "alt": "图7 单层CuCrSe₂的晶体结构与高温多铁性",
+  "path": "../../raw/figures/RecentAdvancesGrowth2025/fig_7_NZYZKTDJ.png"
+ },
+ {
+  "citekey": "Wei2021",
+  "filename": "fig_2_HEFEACEL.png",
+  "alt": "优化结构",
+  "path": "../../raw/figures/Wei2021/fig_2_HEFEACEL.png"
+ },
+ {
+  "citekey": "Wei2021",
+  "filename": "fig_3_HZFN27FK.png",
+  "alt": "直径差与面积比",
+  "path": "../../raw/figures/Wei2021/fig_3_HZFN27FK.png"
+ },
+ {
+  "citekey": "Wei2021",
+  "filename": "fig_4_JANH5U8W.png",
+  "alt": "键角变化",
+  "path": "../../raw/figures/Wei2021/fig_4_JANH5U8W.png"
+ },
+ {
+  "citekey": "Wei2021",
+  "filename": "fig_6_HH7C2QLX.png",
+  "alt": "Mülliken布居差",
+  "path": "../../raw/figures/Wei2021/fig_6_HH7C2QLX.png"
+ },
+ {
+  "citekey": "Wei2021",
+  "filename": "fig_7_UNPG39BZ.png",
+  "alt": "Mülliken布居可视化",
+  "path": "../../raw/figures/Wei2021/fig_7_UNPG39BZ.png"
+ },
+ {
+  "citekey": "Wei2021",
+  "filename": "tab_1_6LUL9Z5F.png",
+  "alt": "几何参数表",
+  "path": "../../raw/figures/Wei2021/tab_1_6LUL9Z5F.png"
+ },
+ {
+  "citekey": "Wixtrom2011electrical",
+  "filename": "fig_1_MS9CRGT4.png",
+  "alt": "图1 TTF与CA分子结构",
+  "path": "../../raw/figures/Wixtrom2011electrical/fig_1_MS9CRGT4.png"
+ },
+ {
+  "citekey": "Wixtrom2011electrical",
+  "filename": "fig_2_B3QYUYLU.png",
+  "alt": "图2 黑色多晶型TTF-CA的X射线粉末衍射图谱与三斜晶胞参数",
+  "path": "../../raw/figures/Wixtrom2011electrical/fig_2_B3QYUYLU.png"
+ },
+ {
+  "citekey": "Wixtrom2011electrical",
+  "filename": "fig_3_J53PAA5C.png",
+  "alt": "图3 黑色多晶型TTF-CA的晶体结构（混合堆砌）",
+  "path": "../../raw/figures/Wixtrom2011electrical/fig_3_J53PAA5C.png"
+ },
+ {
+  "citekey": "Wu2018",
+  "filename": "fig_1_VL4JLVHG.png",
+  "alt": "图1 初始构建的Si(001)平板模型（3×3和6×6单胞，3原子层，265 Å真空层）",
+  "path": "../../raw/figures/Wu2018/fig_1_VL4JLVHG.png"
+ },
+ {
+  "citekey": "Wu2018",
+  "filename": "fig_2_REWLZVN8.png",
+  "alt": "图2 p(2×2)重构表面原子结构（Zigzag不对称二聚体，键长2.30/2.60 Å，翘曲角8.30°/9.81°）",
+  "path": "../../raw/figures/Wu2018/fig_2_REWLZVN8.png"
+ },
+ {
+  "citekey": "Wu2018",
+  "filename": "fig_3_CXK2HJNT.png",
+  "alt": "图3 c(4×2)重构表面原子结构（反铁电式翘曲排列，翘曲角10.36°，部分二聚体翘曲方向无序）",
+  "path": "../../raw/figures/Wu2018/fig_3_CXK2HJNT.png"
+ },
+ {
+  "citekey": "Wu2018",
+  "filename": "fig_4_448UV8HK.png",
+  "alt": "图4 p(2×2)和c(4×2)表面Mulliken电荷布居等高线图（上翘原子得电荷>4.00，下陷原子失电荷<4.00；p(2×2)呈带状，c(4×2)呈块状）",
+  "path": "../../raw/figures/Wu2018/fig_4_448UV8HK.png"
+ },
+ {
+  "citekey": "Wu2018",
+  "filename": "fig_5_5S2TAJJS.png",
+  "alt": "图5 Ge原子在Si二聚体上的6个初始吸附位置示意图（Top_SiA/B/D/C、Bridge_Si(A-B)/(C-D)，h=1.2–5.4 Å）",
+  "path": "../../raw/figures/Wu2018/fig_5_5S2TAJJS.png"
+ },
+ {
+  "citekey": "Wu2018",
+  "filename": "fig_6_KFPGS48H.png",
+  "alt": "图6 吸附能随初始高度h变化曲线（p(2×2)最高约5.6 eV，c(4×2)最高约4.8 eV，多峰谷波动）",
+  "path": "../../raw/figures/Wu2018/fig_6_KFPGS48H.png"
+ },
+ {
+  "citekey": "Wu2018",
+  "filename": "fig_7_ZMMHBDT2.png",
+  "alt": "图7 18种稳定Ge吸附几何构型（顶位/桥位/偏心桥位）",
+  "path": "../../raw/figures/Wu2018/fig_7_ZMMHBDT2.png"
+ },
+ {
+  "citekey": "Wu2018",
+  "filename": "fig_8_3389MDG6.png",
+  "alt": "图8 Ge原子与二聚体局部Mulliken电荷布居（Ge布居2.57–3.11，总是失电荷）",
+  "path": "../../raw/figures/Wu2018/fig_8_3389MDG6.png"
+ },
+ {
+  "citekey": "Wu2018",
+  "filename": "fig_9_KRFUWFLH.png",
+  "alt": "图9 整个表面Mulliken电荷分布全局图",
+  "path": "../../raw/figures/Wu2018/fig_9_KRFUWFLH.png"
+ },
+ {
+  "citekey": "Wu2018",
+  "filename": "tab_1_EJMQ6AWK.png",
+  "alt": "表1 重构表面二聚体键长与翘曲角（与DFT和实验值对比）",
+  "path": "../../raw/figures/Wu2018/tab_1_EJMQ6AWK.png"
+ },
+ {
+  "citekey": "Wu2018",
+  "filename": "tab_2_3TJTUIDV.png",
+  "alt": "表2 未重构与重构表面总能量及表面能（重构降低表面能0.0458/0.0469 eV/Å²）",
+  "path": "../../raw/figures/Wu2018/tab_2_3TJTUIDV.png"
+ },
+ {
+  "citekey": "Wu2018",
+  "filename": "tab_3_J24H28UA.png",
+  "alt": "表3 Ge原子稳定吸附构型参数汇总（初始高度、吸附能、键长、翘曲角、布居数）",
+  "path": "../../raw/figures/Wu2018/tab_3_J24H28UA.png"
+ },
+ {
+  "citekey": "Wu2021",
+  "filename": "fig_1_W6FHVP2A.png",
+  "alt": "Si(001) c(4×2)重构slab模型及Ge二聚体初始h、θ定义",
+  "path": "../../raw/figures/Wu2021/fig_1_W6FHVP2A.png"
+ },
+ {
+  "citekey": "Wu2021",
+  "filename": "fig_2_C6JSRYAA.png",
+  "alt": "Eave随初始高度h和倾角θ变化的能量景观图，标出A–F六个低能区",
+  "path": "../../raw/figures/Wu2021/fig_2_C6JSRYAA.png"
+ },
+ {
+  "citekey": "Wu2021",
+  "filename": "fig_3_CMVVBG5C.png",
+  "alt": "A区垂直吸附构型DVTS/DVBS及Mülliken布居分布",
+  "path": "../../raw/figures/Wu2021/fig_3_CMVVBG5C.png"
+ },
+ {
+  "citekey": "Wu2021",
+  "filename": "fig_4_P6D5AYM3.png",
+  "alt": "B区MHS/DPBS/DITS构型及电荷分布",
+  "path": "../../raw/figures/Wu2021/fig_4_P6D5AYM3.png"
+ },
+ {
+  "citekey": "Wu2021",
+  "filename": "fig_5_WUF2ACJ5.png",
+  "alt": "C、D区MHS+MBS和DPTS构型及电荷分布",
+  "path": "../../raw/figures/Wu2021/fig_5_WUF2ACJ5.png"
+ },
+ {
+  "citekey": "Wu2021",
+  "filename": "fig_6_NKMHIWSF.png",
+  "alt": "E区五种构型（MHS+MBS/DPBS/DVBS/DITS）及电荷分布",
+  "path": "../../raw/figures/Wu2021/fig_6_NKMHIWSF.png"
+ },
+ {
+  "citekey": "Wu2021",
+  "filename": "fig_7_AFM89M3Y.png",
+  "alt": "F区构型，含Ge二聚体空位吸附DHS导致Si二聚体断裂",
+  "path": "../../raw/figures/Wu2021/fig_7_AFM89M3Y.png"
+ },
+ {
+  "citekey": "Wu2021",
+  "filename": "fig_8_NYPUQI9Y.png",
+  "alt": "各构型HOMO、LUMO能级及能隙EGap对比",
+  "path": "../../raw/figures/Wu2021/fig_8_NYPUQI9Y.png"
+ },
+ {
+  "citekey": "Wu2021",
+  "filename": "tab_1_B4DKJGTV.png",
+  "alt": "表1：22个稳定构型的Eave、h、θ",
+  "path": "../../raw/figures/Wu2021/tab_1_B4DKJGTV.png"
+ },
+ {
+  "citekey": "Wu2021",
+  "filename": "tab_2_S7HWABDH.png",
+  "alt": "表2：各构型Ge二聚体、Ge–Si、Si–Si键的键长BL与键能BE",
+  "path": "../../raw/figures/Wu2021/tab_2_S7HWABDH.png"
+ },
+ {
+  "citekey": "Zhang2002b",
+  "filename": "fig_1_DADI282V.png",
+  "alt": "Fe-C相图与Ae3温度",
+  "path": "../../raw/figures/Zhang2002b/fig_1_DADI282V.png"
+ },
+ {
+  "citekey": "Zhang2002b",
+  "filename": "fig_3_MKLDVB48.png",
+  "alt": "晶界形核示意",
+  "path": "../../raw/figures/Zhang2002b/fig_3_MKLDVB48.png"
+ },
+ {
+  "citekey": "Zhang2002b",
+  "filename": "fig_6_2JBIIL8Q.png",
+  "alt": "组织演化模拟",
+  "path": "../../raw/figures/Zhang2002b/fig_6_2JBIIL8Q.png"
+ },
+ {
+  "citekey": "Zhang2002b",
+  "filename": "fig_8_ATG5KEXH.png",
+  "alt": "冷速-晶粒尺寸曲线",
+  "path": "../../raw/figures/Zhang2002b/fig_8_ATG5KEXH.png"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "filename": "fig_1_JCY8J4H6.png",
+  "alt": "Fe-C合金示意相图与Ae3线",
+  "path": "../../raw/figures/Zhang2003a/fig_1_JCY8J4H6.png"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "filename": "fig_2_3PQK3GA3.png",
+  "alt": "六边形CA网格的六个最近邻与L_CA",
+  "path": "../../raw/figures/Zhang2003a/fig_2_3PQK3GA3.png"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "filename": "fig_4_Y5RG7LME.png",
+  "alt": "A36钢初始奥氏体与最终铁素体/渗碳体模拟组织",
+  "path": "../../raw/figures/Zhang2003a/fig_4_Y5RG7LME.png"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "filename": "fig_5_UEJHYHYW.png",
+  "alt": "铁素体晶粒尺寸dα随冷却速率Q下降",
+  "path": "../../raw/figures/Zhang2003a/fig_5_UEJHYHYW.png"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "filename": "fig_6_F9QA8UF3.png",
+  "alt": "每奥氏体晶粒内铁素体晶粒数M：模拟与实验对比",
+  "path": "../../raw/figures/Zhang2003a/fig_6_F9QA8UF3.png"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "filename": "fig_7_CK99QF4V.png",
+  "alt": "形核元胞数n_nuc随过冷度ΔT：I区上升II区饱和（561/1352/1590）",
+  "path": "../../raw/figures/Zhang2003a/fig_7_CK99QF4V.png"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "filename": "fig_8_2JAJBYIB.png",
+  "alt": "铁素体转变分数Y随过冷度ΔT",
+  "path": "../../raw/figures/Zhang2003a/fig_8_2JAJBYIB.png"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "filename": "fig_9_WIGUFCEW.png",
+  "alt": "铁素体转变分数Y随时间t：高冷速相变更快",
+  "path": "../../raw/figures/Zhang2003a/fig_9_WIGUFCEW.png"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "filename": "fig_10_GMMDUYPD.png",
+  "alt": "形核分数Y_nuc随ΔT：高冷速下早期剧烈振荡",
+  "path": "../../raw/figures/Zhang2003a/fig_10_GMMDUYPD.png"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "filename": "tab_1_MV8VNLSS.png",
+  "alt": "表1：Si/Mn/Ni/Cu/Cr的Zener参数ΔT_i^M与ΔT_i^NM",
+  "path": "../../raw/figures/Zhang2003a/tab_1_MV8VNLSS.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "fig_4_SK6TQB88.png",
+  "alt": "图4 Ti135/Ti257/Ti895不同温度PDF与原子堆积快照",
+  "path": "../../raw/figures/Zhang2019a/fig_4_SK6TQB88.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "fig_5_UJHJUH45.png",
+  "alt": "图5 熔化温度随粒子直径变化（<4 nm振荡，>4 nm收敛）",
+  "path": "../../raw/figures/Zhang2019a/fig_5_UJHJUH45.png"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "filename": "fig_9_JRFEECJM.png",
+  "alt": "图9 Ti1099/Ti2361/Ti3347不同温度原子堆积（表面预熔可视化）",
+  "path": "../../raw/figures/Zhang2019a/fig_9_JRFEECJM.png"
+ },
+ {
+  "citekey": "bhowalPolarMetalsPrinciples2023b",
+  "filename": "fig_3_SDUYTBB2.png",
+  "alt": "图3 掺杂铁电体制备极性金属：BaTiO₃₋δ 相图、DFT 极化-掺杂曲线、Nb-PTO 的 STEM 原子位移、BaMF₆ 几何铁电结构",
+  "path": "../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_3_SDUYTBB2.png"
+ },
+ {
+  "citekey": "bhowalPolarMetalsPrinciples2023b",
+  "filename": "fig_6_GDKZHFYP.png",
+  "alt": "图6 类铁电金属 LiOsO₃：R-3c/R3c 晶体结构、态密度、Li 位移驱动的双阱势、几何起源与有序-无序势阱",
+  "path": "../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_6_GDKZHFYP.png"
+ },
+ {
+  "citekey": "bhowalPolarMetalsPrinciples2023b",
+  "filename": "fig_9_25F96G46.png",
+  "alt": "图9 LiOsO₃ 极性相 Dirac 点→节线环演化、贝里曲率偶极子/NHE 机制、SrTiO₃ 铁电超导相图",
+  "path": "../../raw/figures/bhowalPolarMetalsPrinciples2023b/fig_9_25F96G46.png"
+ },
+ {
+  "citekey": "blochlProjectorAugmentedwaveMethod1994b",
+  "filename": "fig_7_4YR3MYMF.png",
+  "alt": "键长平面波收敛性",
+  "path": "../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_7_4YR3MYMF.png"
+ },
+ {
+  "citekey": "blochlProjectorAugmentedwaveMethod1994b",
+  "filename": "tab_30_9X7NQLGJ.png",
+  "alt": "表II 二聚体性质对比",
+  "path": "../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/tab_30_9X7NQLGJ.png"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "filename": "fig_1_6U85MKFS.png",
+  "alt": "图1 晶体结构与费米面",
+  "path": "../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_1_6U85MKFS.png"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "filename": "fig_5_ZK5MIJ9I.png",
+  "alt": "图5 1T-TaS2层间堆垛与电荷转移",
+  "path": "../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_5_ZK5MIJ9I.png"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "filename": "fig_7_NZSMJSXX.png",
+  "alt": "图7 维度依赖CDW统一相图",
+  "path": "../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_7_NZSMJSXX.png"
+ },
+ {
+  "citekey": "cossuStackingChargedensityWaves2024",
+  "filename": "fig_1_Q8LV7XLD.png",
+  "alt": "图1：单层/双层结构及 HC/CC/HX 三种单层 CDW 与 HC-HC、HC-CC 双层 blend 的位移构型",
+  "path": "../../raw/figures/cossuStackingChargedensityWaves2024/fig_1_Q8LV7XLD.png"
+ },
+ {
+  "citekey": "dingPredictionIntrinsicTwodimensional2017a",
+  "filename": "fig_1_NBSIMFLM.png",
+  "alt": "图1 In2Se3 QL的层状结构，FE-ZB'与FE-WZ'基态中中心Se层的不对称配位（1.68 Å vs 2.55 Å）打破面外中心对称",
+  "path": "../../raw/figures/dingPredictionIntrinsicTwodimensional2017a/fig_1_NBSIMFLM.png"
+ },
+ {
+  "citekey": "dudarevElectronenergylossSpectraStructural1998a",
+  "filename": "fig_2_GBIMQZ9U.png",
+  "alt": "图2 上：NiO岩盐结构；下：(100)面 LSDA+U 与 LSDA 电荷密度差，显示间隙区电荷密度减少、共价键减弱",
+  "path": "../../raw/figures/dudarevElectronenergylossSpectraStructural1998a/fig_2_GBIMQZ9U.png"
+ },
+ {
+  "citekey": "fiebigEvolutionMultiferroics2016",
+  "filename": "fig_5_RQV3IESF.png",
+  "alt": "图5 晶胞中磁环矩（T=Σri×Si）、铁涡旋畴与磁单极子自旋排列",
+  "path": "../../raw/figures/fiebigEvolutionMultiferroics2016/fig_5_RQV3IESF.png"
+ },
+ {
+  "citekey": "fornerQuantumTemperatureEffects1993",
+  "filename": "fig_3_ATRT67MT.png",
+  "alt": "图3 四种 (W,X) 参数下单链 |a_n(t)|² 与晶格位移平方的时间演化",
+  "path": "../../raw/figures/fornerQuantumTemperatureEffects1993/fig_3_ATRT67MT.png"
+ },
+ {
+  "citekey": "gaoStrainEngineeringFerroelectric2024",
+  "filename": "fig_1_24Y2WQCH.png",
+  "alt": "β'-In2Se3晶体结构与三个极化变体",
+  "path": "../../raw/figures/gaoStrainEngineeringFerroelectric2024/fig_1_24Y2WQCH.png"
+ },
+ {
+  "citekey": "gaoStrainEngineeringFerroelectric2024",
+  "filename": "fig_4_TABIBKCU.png",
+  "alt": "应变调控畴壁构型",
+  "path": "../../raw/figures/gaoStrainEngineeringFerroelectric2024/fig_4_TABIBKCU.png"
+ },
+ {
+  "citekey": "gomez-ortizKittelLawDomain2023",
+  "filename": "fig_5_JV3KYDD2.png",
+  "alt": "图5 不同L下极化构型",
+  "path": "../../raw/figures/gomez-ortizKittelLawDomain2023/fig_5_JV3KYDD2.png"
+ },
+ {
+  "citekey": "gongAbsenceCriticalThickness2023",
+  "filename": "fig_1_SYSSN7EC.png",
+  "alt": "图1 不同厚度 PTO/STO 超晶格的 DF-TEM、SAED 与 (103) RSM，周期从 13.8 nm 演变到 6.8 nm",
+  "path": "../../raw/figures/gongAbsenceCriticalThickness2023/fig_1_SYSSN7EC.png"
+ },
+ {
+  "citekey": "guanRecentProgressTwoDimensional2020",
+  "filename": "fig_5_VAVBDKCG.png",
+  "alt": "图5 CuInP2S6：a)原子结构（S骨架中Cu/In/P-P填充八面体空隙）；b)不同Cu/In比下的PFM图像；c)2-4层CuInP2S6的AFM形貌、PFM振幅/相位及反偏压写入的相位图",
+  "path": "../../raw/figures/guanRecentProgressTwoDimensional2020/fig_5_VAVBDKCG.png"
+ },
+ {
+  "citekey": "guoAdvancesTwodimensionalFerroelectric2025",
+  "filename": "fig_3_4EZJK5IN.png",
+  "alt": "图3：hBN 滑移铁电实验验证（六种高对称堆叠/t-hBN的EFM三角畴/石墨烯-p-hBN器件/电阻相图/电滞回线/SP区面内极化拓扑网络）",
+  "path": "../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_3_4EZJK5IN.png"
+ },
+ {
+  "citekey": "guoAdvancesTwodimensionalFerroelectric2025",
+  "filename": "fig_5_STBTQZWP.png",
+  "alt": "图5：双层石墨烯新奇滑移铁电（LSAS现象/能带模型/多级铁电响应/Vt-Vb相图/WSe₂屏蔽对照/ABC堆垛BN-石墨烯）",
+  "path": "../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_5_STBTQZWP.png"
+ },
+ {
+  "citekey": "hallEnvironmentalControlCharge",
+  "filename": "fig_1_8TUKQU42.png",
+  "alt": "图1 单层 TaS₂/Gr/Ir(111) 的 STM 概览：3×3 CDW、莫尔条纹、原子晶格三套周期及 32 meV 部分能隙",
+  "path": "../../raw/figures/hallEnvironmentalControlCharge/fig_1_8TUKQU42.png"
+ },
+ {
+  "citekey": "hanPolarTopologicalMaterials2025",
+  "filename": "fig_2_LS5XEME2.png",
+  "alt": "极性拓扑结构示意图：畴壁、通量闭合畴、涡旋、反涡旋、半子（刺猬型/涡旋型）、斯格明子（Néel/Bloch型）",
+  "path": "../../raw/figures/hanPolarTopologicalMaterials2025/fig_2_LS5XEME2.png"
+ },
+ {
+  "citekey": "hanPolarTopologicalMaterials2025",
+  "filename": "fig_9_YAM9SISH.png",
+  "alt": "块体与有机铁电体中的极性拓扑：BNT基陶瓷成分驱动畴演化；(4,4-DFPD)2PbI4象限畴；向列态铁电液晶的K11/K33-P0拓扑相图",
+  "path": "../../raw/figures/hanPolarTopologicalMaterials2025/fig_9_YAM9SISH.png"
+ },
+ {
+  "citekey": "hanTunableSlidingFerroelectricity2025",
+  "filename": "tab_2_C3TE8IV7.png",
+  "alt": "表I 晶格常数、极化与MAE",
+  "path": "../../raw/figures/hanTunableSlidingFerroelectricity2025/tab_2_C3TE8IV7.png"
+ },
+ {
+  "citekey": "hillWhyAreThere2000a",
+  "filename": "fig_5_WE9Z7I8I.png",
+  "alt": "图5 立方钙钛矿ABO3结构",
+  "path": "../../raw/figures/hillWhyAreThere2000a/fig_5_WE9Z7I8I.png"
+ },
+ {
+  "citekey": "hillWhyAreThere2000a",
+  "filename": "fig_15_7LK5BGXG.png",
+  "alt": "图15 六方钙钛矿（YMnO3，Mn为5配位）",
+  "path": "../../raw/figures/hillWhyAreThere2000a/fig_15_7LK5BGXG.png"
+ },
+ {
+  "citekey": "huProgressProspectsLowdimensional2019",
+  "filename": "fig_4_5BRDE7JW.png",
+  "alt": "图4 二维钙钛矿薄膜中 FE 100-S（表面效应）与 FE 110-IP（三线性耦合）两种越薄越强的反常铁电态",
+  "path": "../../raw/figures/huProgressProspectsLowdimensional2019/fig_4_5BRDE7JW.png"
+ },
+ {
+  "citekey": "huProgressProspectsLowdimensional2019",
+  "filename": "fig_6_VN5VRBVL.png",
+  "alt": "图6 带电 CrBr₃ 单层中 CrBr₆ 八面体不对称 Jahn-Teller 畸变诱导面内 FE+FM",
+  "path": "../../raw/figures/huProgressProspectsLowdimensional2019/fig_6_VN5VRBVL.png"
+ },
+ {
+  "citekey": "huProgressProspectsLowdimensional2019",
+  "filename": "fig_7_ACL4KQI9.png",
+  "alt": "图7 Hf₂VC₂F₂ MXene 中 120° Y 型自旋序打破反演对称产生垂直极化（Type-II 多铁）",
+  "path": "../../raw/figures/huProgressProspectsLowdimensional2019/fig_7_ACL4KQI9.png"
+ },
+ {
+  "citekey": "huangPolarPhaseDomain2019",
+  "filename": "fig_3_MQH427TB.png",
+  "alt": "图3 80 K SAED花样与Td/1T′超晶格原子模型，统一空间群Pm",
+  "path": "../../raw/figures/huangPolarPhaseDomain2019/fig_3_MQH427TB.png"
+ },
+ {
+  "citekey": "junqueraCriticalThicknessFerroelectricity2003",
+  "filename": "fig_1_BHUIKLVH.png",
+  "alt": "图1 SrRuO3/BaTiO3/SrRuO3 短路铁电电容器结构与计算超胞（SrO/TiO2 界面）",
+  "path": "../../raw/figures/junqueraCriticalThicknessFerroelectricity2003/fig_1_BHUIKLVH.png"
+ },
+ {
+  "citekey": "khazaeiNovelElectronicMagnetic2013",
+  "filename": "fig_0_A944QDPD.png",
+  "alt": "图1 MAX相到MXene的结构演变及A/B型空心位",
+  "path": "../../raw/figures/khazaeiNovelElectronicMagnetic2013/fig_0_A944QDPD.png"
+ },
+ {
+  "citekey": "kimObservationPhaseTransition1997",
+  "filename": "fig_1_8G3QCPIX.png",
+  "alt": "图1(a) -10 V/0.5 ms 脉冲后大范围 STM 形貌，可见中心移除坑及周围 T 相(√13×√13 CDW) 与新生 H 相(平坦三角晶格) 共存，357×357 Å",
+  "path": "../../raw/figures/kimObservationPhaseTransition1997/fig_1_8G3QCPIX.png"
+ },
+ {
+  "citekey": "kimObservationPhaseTransition1997",
+  "filename": "fig_2_2J5B6DA5.png",
+  "alt": "图2 相界高分辨原子像：(a) -250 mV 同时显示 T 相 CDW 超晶格相对原子晶格旋转约 14°，(b) -10 mV 显示跨相界原子行平行但存在分数倍错位，77×77 Å",
+  "path": "../../raw/figures/kimObservationPhaseTransition1997/fig_2_2J5B6DA5.png"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "filename": "fig_5_LFUQ743K.png",
+  "alt": "图5 液态 Ge（1250 K）的 g(R)、S(Q)（Q≈2k_F 肩峰）、键角分布、DOS（−4.5 eV 赝能隙）",
+  "path": "../../raw/figures/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994/fig_5_LFUQ743K.png"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "filename": "fig_6_4RFP7VPZ.png",
+  "alt": "图6 过冷液态 Ge（750–650 K）：四面体角峰增强，但仍金属性",
+  "path": "../../raw/figures/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994/fig_6_4RFP7VPZ.png"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "filename": "fig_7_AEAIHDCJ.png",
+  "alt": "图7 淬火态非晶 Ge（300 K）：g(R) 第一/二峰分离、109° 键角、费米能级处打开能隙",
+  "path": "../../raw/figures/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994/fig_7_AEAIHDCJ.png"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "filename": "fig_11_FEJF5ST3.png",
+  "alt": "图11 液态 ψ(ω)：30 meV 处 LA 侧峰",
+  "path": "../../raw/figures/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994/fig_11_FEJF5ST3.png"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "filename": "fig_13_K4IFYHDX.png",
+  "alt": "图13 两种 T=0 构型（慢淬/快淬）g(R) 对比",
+  "path": "../../raw/figures/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994/fig_13_K4IFYHDX.png"
+ },
+ {
+  "citekey": "kresseUltrasoftPseudopotentialsProjector1999c",
+  "filename": "tab_0_3958RDNP.png",
+  "alt": "小分子键长对比 PAW/US-PP/AE（表I）",
+  "path": "../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/tab_0_3958RDNP.png"
+ },
+ {
+  "citekey": "kresseUltrasoftPseudopotentialsProjector1999c",
+  "filename": "tab_4_Q4HQJ9DS.png",
+  "alt": "Fe/Co/Ni 块体晶格常数、体模量、磁矩对比（表V）",
+  "path": "../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/tab_4_Q4HQJ9DS.png"
+ },
+ {
+  "citekey": "krishnamurthiSpinChargeDensity2020",
+  "filename": "fig_1_HUGVUADV.png",
+  "alt": "图1 MTB原子结构、DFT能带与一维范霍夫奇点态密度",
+  "path": "../../raw/figures/krishnamurthiSpinChargeDensity2020/fig_1_HUGVUADV.png"
+ },
+ {
+  "citekey": "krishnamurthiSpinChargeDensity2020",
+  "filename": "fig_2_KKTLCIRI.png",
+  "alt": "图2 三倍超胞折叠能带；DFT+U后SDW/CDW打开~0.26 eV间接带隙及对应DoS",
+  "path": "../../raw/figures/krishnamurthiSpinChargeDensity2020/fig_2_KKTLCIRI.png"
+ },
+ {
+  "citekey": "liFerroelasticityDomainPhysics2016",
+  "filename": "fig_3_A8FT3APU.png",
+  "alt": "图3 (Δa/a0, Δb/b0)双轴应变空间中O1/O2-O3/2H的能量最低相图",
+  "path": "../../raw/figures/liFerroelasticityDomainPhysics2016/fig_3_A8FT3APU.png"
+ },
+ {
+  "citekey": "liMonolayerPuckeredPentagonal2022",
+  "filename": "fig_1_VTVDBDPY.png",
+  "alt": "图1 BP-VTe2晶体结构与能带、PP-VTe2顶视/侧视、布里渊区及模拟STM图像",
+  "path": "../../raw/figures/liMonolayerPuckeredPentagonal2022/fig_1_VTVDBDPY.png"
+ },
+ {
+  "citekey": "liMonolayerPuckeredPentagonal2022",
+  "filename": "fig_3_PAXER5D6.png",
+  "alt": "图3 面内磁各向异性能极坐标图、铁磁/倾斜铁磁磁构型、MC模拟磁矩-温度曲线(Tc~110 K)及磁化率/比热",
+  "path": "../../raw/figures/liMonolayerPuckeredPentagonal2022/fig_3_PAXER5D6.png"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "filename": "fig_3_2R6DZHUK.png",
+  "alt": "Fig. 3 界面相变存储与 Sb2Te3-GeTe 超晶格扩散开关",
+  "path": "../../raw/figures/liPhaseTransitions2D2021/fig_3_2R6DZHUK.png"
+ },
+ {
+  "citekey": "majumdarInterplayChargeDensity2020",
+  "filename": "fig_4_I3R7KT6H.png",
+  "alt": "图4 温度-压力相图：NbSe₂ 中 T_CDW 在 ~5 GPa 消失、T_c 穹顶状上升；NbS₂ 的 T_c 缓慢线性增长",
+  "path": "../../raw/figures/majumdarInterplayChargeDensity2020/fig_4_I3R7KT6H.png"
+ },
+ {
+  "citekey": "martinThinfilmFerroelectricMaterials2016",
+  "filename": "fig_2_WCM7X879.png",
+  "alt": "图2 非传统应变：不同激光能量(1.5 vs 2.7 J/cm²)生长BaTiO3的RSM与Δc/c≈4.1%晶格膨胀；Tc从~100°C升至>600°C；氧八面体旋转a⁻a⁻c⁺诱导杂化非本征铁电示意",
+  "path": "../../raw/figures/martinThinfilmFerroelectricMaterials2016/fig_2_WCM7X879.png"
+ },
+ {
+  "citekey": "martinThinfilmFerroelectricMaterials2016",
+  "filename": "fig_5_4V7HUWMA.png",
+  "alt": "图5 未来方向：ABC型化合物高通量筛选(a0-Eg、k14-e14)；PbTiO3皮秒超快泵浦-探测c轴动力学(5 ps退极化场极小值)；PbTiO3/SrTiO3超晶格中极化涡旋-反涡旋STEM",
+  "path": "../../raw/figures/martinThinfilmFerroelectricMaterials2016/fig_5_4V7HUWMA.png"
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "filename": "fig_1_ANXZLC65.png",
+  "alt": "图1 MAX相及其对应MXene的原子结构对比",
+  "path": "../../raw/figures/naguib25thAnniversaryArticle2013a/fig_1_ANXZLC65.png"
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "filename": "fig_2_AJLZG4PX.png",
+  "alt": "图2 从MAX相粉末经HF刻蚀、洗涤到手风琴状多层MXene的合成流程示意图",
+  "path": "../../raw/figures/naguib25thAnniversaryArticle2013a/fig_2_AJLZG4PX.png"
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "filename": "fig_3_5EP3ZZBQ.png",
+  "alt": "图3 多种MXene的SEM/XRD/TEM/HRTEM/SAED/光学显微形貌表征",
+  "path": "../../raw/figures/naguib25thAnniversaryArticle2013a/fig_3_5EP3ZZBQ.png"
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "filename": "fig_4_7Z8YXW72.png",
+  "alt": "图4 Ti3C2Tx纳米卷轴与OH封端Ti3C2纳米管原子模型",
+  "path": "../../raw/figures/naguib25thAnniversaryArticle2013a/fig_4_7Z8YXW72.png"
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "filename": "fig_5_CYM8WEI6.png",
+  "alt": "图5 功能化MXene表面T基团的三种构型I/II/III（侧视与顶视）",
+  "path": "../../raw/figures/naguib25thAnniversaryArticle2013a/fig_5_CYM8WEI6.png"
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "filename": "fig_7_REW23JCK.png",
+  "alt": "图9 多层Ti3C2Tx粉末电极与少层MXene纸电极在锂离子电池中的性能对比",
+  "path": "../../raw/figures/naguib25thAnniversaryArticle2013a/fig_7_REW23JCK.png"
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "filename": "tab_1_9AG9T2XP.png",
+  "alt": "表1 不同MAX相合成MXene的HF浓度、时间、c晶格参数及产率",
+  "path": "../../raw/figures/naguib25thAnniversaryArticle2013a/tab_1_9AG9T2XP.png"
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "filename": "tab_2_287UB7NX.png",
+  "alt": "表2 多种裸MXene单层的面内弹性常数c11、a晶格参数与费米能级DOS（含对应MAX相c11对照）",
+  "path": "../../raw/figures/naguib25thAnniversaryArticle2013a/tab_2_287UB7NX.png"
+ },
+ {
+  "citekey": "nahasFrustrationSelfOrderingTopological2016",
+  "filename": "fig_1_ERWWNUJX.png",
+  "alt": "周期性超胞示意：4根BTO纳米线嵌入BST基质",
+  "path": "../../raw/figures/nahasFrustrationSelfOrderingTopological2016/fig_1_ERWWNUJX.png"
+ },
+ {
+  "citekey": "nahasFrustrationSelfOrderingTopological2016",
+  "filename": "fig_2_8IYT2TMA.png",
+  "alt": "5 K下C1–C4四种手性构型的面内偶极场与涡旋/反涡旋分布",
+  "path": "../../raw/figures/nahasFrustrationSelfOrderingTopological2016/fig_2_8IYT2TMA.png"
+ },
+ {
+  "citekey": "nicholsonUniaxialStraininducedPhase2021",
+  "filename": "fig_1_UZTFFAL6.png",
+  "alt": "图1 应变对 IrTe2 电子结构的影响：晶体结构、应变装置照片、未应变/应变下 ARPES 能带与费米面对比",
+  "path": "../../raw/figures/nicholsonUniaxialStraininducedPhase2021/fig_1_UZTFFAL6.png"
+ },
+ {
+  "citekey": "petkovStructureIntercalatedCs2002",
+  "filename": "fig_2_SYM42JPI.png",
+  "alt": "图2：CsxSi32O64 (x=0, 3.6, 4.6)的实验(圆圈)与模型(实线)PDF G(r)",
+  "path": "../../raw/figures/petkovStructureIntercalatedCs2002/fig_2_SYM42JPI.png"
+ },
+ {
+  "citekey": "petkovStructureIntercalatedCs2002",
+  "filename": "fig_3_8VYN6S86.png",
+  "alt": "图3：CsxSi32O64电子化合物的Cs差分PDF，实验(圆圈)与模型(实线)",
+  "path": "../../raw/figures/petkovStructureIntercalatedCs2002/fig_3_8VYN6S86.png"
+ },
+ {
+  "citekey": "petkovStructureIntercalatedCs2002",
+  "filename": "fig_4_WGZDUGRI.png",
+  "alt": "图4：CsxSi32O64原子结构片段，Cs+离子(红)在纳米孔中组装成锯齿形链，O为蓝色，Si为黑色",
+  "path": "../../raw/figures/petkovStructureIntercalatedCs2002/fig_4_WGZDUGRI.png"
+ },
+ {
+  "citekey": "shuTwoDimensionalBlackArsenic2020",
+  "filename": "fig_1_CK9CPM5I.png",
+  "alt": "图1 LPE制备流程与b-AsP晶体结构",
+  "path": "../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_1_CK9CPM5I.png"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "filename": "fig_2_S95EDSFB.png",
+  "alt": "图2 多铁复合结构：(a) LuFeO3/LuFe2O4原子级超晶格；(b) BaTiO3-CoFe2O4垂直纳米柱；(c) BFO应变诱导T/R混合相及R'磁性相",
+  "path": "../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_2_S95EDSFB.png"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "filename": "fig_3_88W3KSTZ.png",
+  "alt": "图3 Bi2O3–Fe2O3相图，阴影区为预测可发现新多铁相的成分范围",
+  "path": "../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_3_88W3KSTZ.png"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "filename": "fig_4_T9Q4GRTD.png",
+  "alt": "图4 多铁畴壁功能：(a) BFO中109°畴壁原子结构；(b) 畴壁导电；(c) 忆阻I-V滞回；(d,e) ErMnO3带电畴壁极性依赖电导",
+  "path": "../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_4_T9Q4GRTD.png"
+ },
+ {
+  "citekey": "tangGridbasedBaderAnalysis2009",
+  "filename": "fig_2_9NMYMX6H.png",
+  "alt": "图2 在网法晶格偏差示意：格点轨迹偏离真实梯度线，使分割面沿网格方向对齐",
+  "path": "../../raw/figures/tangGridbasedBaderAnalysis2009/fig_2_9NMYMX6H.png"
+ },
+ {
+  "citekey": "wangFormationMechanismTwin2019",
+  "filename": "fig_2_4DW469QQ.png",
+  "alt": "图2 WTe2原子结构模型与含孪晶畴界的高分辨STM图像",
+  "path": "../../raw/figures/wangFormationMechanismTwin2019/fig_2_4DW469QQ.png"
+ },
+ {
+  "citekey": "wangFormationMechanismTwin2019",
+  "filename": "fig_4_HM29HPEF.png",
+  "alt": "图4 原子滑移过程与广义堆垛层错能（GSFE）曲线",
+  "path": "../../raw/figures/wangFormationMechanismTwin2019/fig_4_HM29HPEF.png"
+ },
+ {
+  "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+  "filename": "fig_1_MXBQAIX7.png",
+  "alt": "图1 Mn2(TTFTB)晶体结构：沿c轴纳米孔道、π-堆积TTF柱、配位水",
+  "path": "../../raw/figures/wangScreeningEnabledChemiresistiveMoisture2025/fig_1_MXBQAIX7.png"
+ },
+ {
+  "citekey": "wangTunableD0Topological2025b",
+  "filename": "fig_4_R8KDU8IB.png",
+  "alt": "图4 J、d_k、SIA 随双轴应变变化，及应变-磁场拓扑相图（斯格明子/双半子）",
+  "path": "../../raw/figures/wangTunableD0Topological2025b/fig_4_R8KDU8IB.png"
+ },
+ {
+  "citekey": "wangTwodimensionalFerroelectricMetal2025",
+  "filename": "fig_2_MDNEN53L.png",
+  "alt": "O2分子在少层CuCrX2表面的吸附构型与吸附能柱状图",
+  "path": "../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_2_MDNEN53L.png"
+ },
+ {
+  "citekey": "wangTwodimensionalFerroelectricMetal2025",
+  "filename": "fig_5_TZW26C6K.png",
+  "alt": "四层CuCrX2基态自旋构型、PDOS及ORR自由能图",
+  "path": "../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_5_TZW26C6K.png"
+ },
+ {
+  "citekey": "wernetSpectroscopicCharacterizationMicroscopic2005",
+  "filename": "fig_1_4TFGLKJ8.png",
+  "alt": "图1 气相/液面/超临界/液态/冰五种水的氧K边谱对比；534、536 eV双峰=自由O-H，535 eV峰=单断供体键，537–542 eV后边=氢键；超临界水缺535 eV峰且后边更宽",
+  "path": "../../raw/figures/wernetSpectroscopicCharacterizationMicroscopic2005/fig_1_4TFGLKJ8.png"
+ },
+ {
+  "citekey": "wernetSpectroscopicCharacterizationMicroscopic2005",
+  "filename": "fig_3_HY4NF6GV.png",
+  "alt": "图3 实验-计算谱定量拟合：(a)超临界谱与0.35倍气相谱；(b)差谱=纯氢键组分；(c)DFT三构型加权拟合，90%来自四扭曲氢键构型；(d)均匀非键分布谱被排除",
+  "path": "../../raw/figures/wernetSpectroscopicCharacterizationMicroscopic2005/fig_3_HY4NF6GV.png"
+ },
+ {
+  "citekey": "xuTwodimensionalFerroelasticityVan2021",
+  "filename": "fig_2_2XYWZEZB.png",
+  "alt": "图2 60°与120°畴壁原子结构、SAED分裂斑点及晶格间距映射",
+  "path": "../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_2_2XYWZEZB.png"
+ },
+ {
+  "citekey": "xunCoexistingMagnetismFerroelectric2024",
+  "filename": "tab_1_W2FY2753.png",
+  "alt": "表1 不同堆垛下Gd-Gd层间距离、配位数、海森堡交换参数J及ΔE",
+  "path": "../../raw/figures/xunCoexistingMagnetismFerroelectric2024/tab_1_W2FY2753.png"
+ },
+ {
+  "citekey": "yuFerroelectricControlMagnetism2026",
+  "filename": "fig_4_FXA8A5X6.png",
+  "alt": "图4 CSFB/CrSBr/CSFB 多铁隧道结 PC/APC 构型、偏压依赖 I–V 与 MR（0.04 V 时 MR=4.8×10³%，IPC=13.8 nA、IAPC=0.27 nA）及自旋分辨透射谱",
+  "path": "../../raw/figures/yuFerroelectricControlMagnetism2026/fig_4_FXA8A5X6.png"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "filename": "fig_3_Z9FGHBYU.png",
+  "alt": "拓扑磁结构相图与温度稳定性",
+  "path": "../../raw/figures/zhangNonvolatileControlTopological2025/fig_3_Z9FGHBYU.png"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "filename": "fig_5_SCSIXLYM.png",
+  "alt": "d-K 相图与 κ 判据",
+  "path": "../../raw/figures/zhangNonvolatileControlTopological2025/fig_5_SCSIXLYM.png"
+ }
+]

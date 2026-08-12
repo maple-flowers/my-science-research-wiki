@@ -101,19 +101,23 @@ Xiaoyan Miao, Milorad Milošević, Chunmei Zhang，2024，Physica B: Condensed M
   - ![图2 FGT单层与State-1/State-2双层的自旋极化能带](../../raw/figures/miaoMagneticFerroelectricMetal2024/fig_2_HRQRQ5VP.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - ![图3 Fe-d轨道投影态密度与自旋分辨轨道投影能带](../../raw/figures/miaoMagneticFerroelectricMetal2024/fig_3_JXUJYRXV.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - ![图4 双轴压缩应变对State-1/State-2极化的调控](../../raw/figures/miaoMagneticFerroelectricMetal2024/fig_4_WEH6C4WM.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
-  - ![表1 不同滑移操作下双层FGT的相对能量](../../raw/figures/miaoMagneticFerroelectricMetal2024/tab_1_T9BJAJ33.png)
+  - ![表1 不同滑移操作下双层FGT的相对能量](../../raw/figures/miaoMagneticFerroelectricMetal2024/tab_1_T9BJAJ33.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 ## 🔬 项目连接
   - **project-2（Mn多铁）— strong**：本文核心问题正是磁性与铁电极化在金属体系中的共存，直接提供"磁性铁电金属"这一多铁性新范式；其"垂直极化—面内导电解耦""层间电荷转移生极化""滑移不破坏 FM 基态"等机制，以及 FM/AFM 能量对比、U* 处理 Fe 3d 的流程，对 Mn 基多铁（尤其是金属/半金属多铁）的磁电共存机理分析有直接参考价值。
   - **project-5（SnTe铁电模拟）— medium**：方法学可直接复用——经典电动力学 ∫ρz dz 计算面外极化、CI-NEB 算翻转势垒、双轴应变调控极化方向、DFT-D3 描述层间相互作用、Bader 电荷分析追踪极化起源，均是 SnTe 铁电模拟中常用的计算组合；其"电子极化与离子极化竞争导致应变下极化反转"的分析框架也可迁移到 SnTe 应变工程讨论。材料本身（FGT vs SnTe）和维度不同，故定为 medium。
   - 其他项目（project-1/3/4/6/7）：无直接连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+
 ## 📝 组织与用词
 文章按"提出悖论（铁电vs金属vs磁三者互斥）→选材（二维vdW巡游铁磁金属FGT）→方法（DFT-D3+U*+NEB）→能量筛选最稳滑移态→逐项验证铁电/磁/金属三性→应变调控"的递进链组织；先用表1能量比较锁定 State-1/2，再用 Bader 电荷解释极化起源、FM/AFM 能量对比确认磁基态、能带/DOS 确认金属性，最后加应变旋钮，逻辑闭环完整。值得复用的术语：铁电金属（ferroelectric metal）、磁性极性金属（magnetic polar metal）、滑移铁电性（sliding ferroelectricity）、未补偿层间电荷转移（uncompensated interlayer charge transfer）、面内-面外解耦（in-plane/out-of-plane decoupling）、巡游铁磁性（itinerant ferromagnetism）、极化翻转势垒（polarization switching barrier）、双轴应变调控（biaxial strain engineering）。
 ## ✏️ 可写入 Wiki 的要点
   - 双层 FGT 通过相对滑移 (1/3,1/3) 和 (−1/3,−1/3) 得到两个能量简并的最稳态 State-1/State-2，分别具 P↑/P↓ 垂直极化，大小均为 ±8.3×10⁻⁴ eÅ/unit cell；其他滑移构型能量高 19.6–21.4 meV。
-  - CI-NEB 计算的 P↑↔P↓ 翻转势垒约 13 meV/unit cell，低于 In₂Se₃（~60 meV/unit cell）而高于 WTe₂（~0.6 meV/unit cell），因只需克服弱层间 vdW 相互作用，室温下可翻转。
-  - 极化微观起源：Bader 电荷分析显示 State-1 中顶层与底层电荷得失约 0.03 e，未补偿的垂直层间电荷转移形成面外偶极矩；State-2 电荷转移方向相反，极化随之翻转。
-  - 磁基态：层内为 FM，层间 FM 构型比 AFM 能量更低；滑移不改变 FGT 的铁磁基态。双层相比块体层数减少使 Pauli 势降低，反而增强 FM 型层间交换耦合。Fe 3d 轨道通过线性响应法获取 U* 值进行在位库仑修正。
-  - 金属性：费米能级附近态密度和能带主要由 Fe 3d 轨道贡献；面内传导电子在垂直方向受限，与面外极化空间解耦（类比 WTe₂ 双层），故自由电子不屏蔽垂直偶极矩，使金属性与铁电性共存。
-  - 应变调控：约 −1% 双轴压缩应变即使 State-1/State-2 极化方向反转；机制是应变让层内 FeII 与 Ge 原子偏离 z 方向镜面位置、产生反向离子极化，当离子极化贡献超过电子极化贡献时总极化反转。ε=−1%,−2%,−3%,−4% 时 State-1 极化约 −1.3,−1.8,−3.6×10⁻⁴ 和 −3.1×10⁻³ eÅ/unit cell，绝对值随应变增大。
+  - CI-NEB 计算的 P↑↔P↓ [[../concepts/switching-barrier|翻转势垒]]约 13 meV/unit cell，低于 In₂Se₃（~60 meV/unit cell）而高于 WTe₂（~0.6 meV/unit cell），因只需克服弱层间 vdW 相互作用，室温下可翻转。
+  - 极化微观起源：Bader 电荷分析显示 State-1 中顶层与底层电荷得失约 0.03 e，未补偿的垂直[[../concepts/interlayer-charge-transfer|层间[[../concepts/charge-transfer|电荷转移]]]]形成面外偶极矩；State-2 电荷转移方向相反，极化随之翻转。
+  - 磁基态：层内为 FM，层间 FM 构型比 AFM 能量更低；滑移不改变 FGT 的铁磁基态。双层相比块体层数减少使 Pauli 势降低，反而增强 FM 型层间交换耦合。Fe 3d 轨道通过[[../concepts/linear-response|线性响应]]法获取 U* 值进行在位库仑修正。
+  - 金属性：费米能级附近[[../concepts/density-of-states|态密度]]和能带主要由 Fe 3d 轨道贡献；面内传导电子在垂直方向受限，与面外极化空间解耦（类比 WTe₂ 双层），故自由电子不屏蔽垂直偶极矩，使金属性与[[../concepts/ferroelectricity|铁电性]]共存。
+  - 应变调控：约 −1% 双轴压缩应变即使 State-1/State-2 极化方向反转；机制是应变让层内 FeII 与 Ge 原子偏离 z 方向镜面位置、产生反向离子极化，当离子极化贡献超过[[../concepts/electronic-polarization|电子极化]]贡献时总极化反转。ε=−1%,−2%,−3%,−4% 时 State-1 极化约 −1.3,−1.8,−3.6×10⁻⁴ 和 −3.1×10⁻³ eÅ/unit cell，绝对值随应变增大。
   - 计算参数：VASP + PAW + GGA-PBE + DFT-D3，平面波截断 500 eV，Γ 中心 8×8×1 k 网格，真空层 ≥30 Å，力收敛 0.001 eV/Å、能量收敛 10⁻⁶ eV；极化由经典电动力学 ∫ρz dz 在整个超胞积分得到并加偶极校正。
   - 结构背景：FGT 单层为 P6₃/mmc 六方中心对称结构，五层原子次序 Te–Fe–(FeII,Ge)–Fe–Te，Fe 占两个不等价 Wyckoff 位（FeI, FeII）；块体 AB 堆叠具反演对称，AA 堆叠双层有 Mz 镜像但直接叠出的 IM 态不稳定，会自发滑移到 State-1/2。

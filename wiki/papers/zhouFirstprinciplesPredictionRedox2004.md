@@ -95,7 +95,7 @@ F. Zhou, M. Cococcioni, C. A. Marianetti, D. Morgan, G. Ceder，2004，Physical 
   - 概念 [[../concepts/electron-correlation]]
   - 概念 [[../concepts/hubbard-u]]
   - 概念 [[../concepts/linear-response]]
-  - 概念 [[../concepts/charge-ordering]]
+  - 概念 [[../concepts/charge-order]]
   - 概念 [[../concepts/jahn-teller-distortion]]
   - 概念 [[../concepts/redox-potential]]
   - 实体 [[../entities/VASP]]
@@ -115,13 +115,16 @@ F. Zhou, M. Cococcioni, C. A. Marianetti, D. Morgan, G. Ceder，2004，Physical 
 ## 🔬 项目连接
   - **project-2（Mn 多铁）— strong**：本文系统计算了 Mn²⁺/Mn³⁺/Mn⁴⁺ 在橄榄石 LiMnPO₄/MnPO₄ 与尖晶石 LiₓMn₂O₄ 中的自洽 U 值（Mn²⁺ 3.92 eV、Mn³⁺ 5.09/4.64 eV、Mn⁴⁺ 5.04 eV），并演示了 GGA+U 如何稳定 Mn³⁺ 高自旋态与 Jahn-Teller 畸变、如何在 LiMn₂O₄ 中自发产生 Mn³⁺/Mn⁴⁺ 电荷有序。对含 Mn 的多铁氧化物选择 U 值、判断自旋态与电荷有序、理解 GGA 失效模式有直接方法学参考价值。
   - 其他项目（project-1 双光子、project-3 机械发光 NN、project-4 TTF 分子计算、project-5 SnTe 铁电模拟、project-6 湿度传感、project-7 CDW）：无直接项目连接。project-5 虽用 DFT，但 SnTe 为 s-p 电子主导的 IV-VI 半导体，不存在本文所针对的局域 d 电子自相互作用问题，方法不直接适用。
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+
 ## 📝 组织与用词
 论文按"现象（GGA 系统低估电压，表 I）→ 归因（自相互作用误差在离域/局域态间不抵消）→ 方案（旋转不变 DFT+U，Eq. 4–6）→ 参数自洽（线性响应 U，Eq. 7–8）→ 三类结构验证（橄榄石/层状/尖晶石，图 4–6、表 II–III）→ 物理讨论（电离势/电子亲和能/带隙）"展开。值得复用的术语：
   - [[../concepts/self-interaction-error|self-interaction error]]（自相互作用误差）
   - on-site Coulomb correlation（在位库仑关联）
   - bare / screened response（裸响应 / 屏蔽响应）
   - fractional occupation（非整数占据）
-  - [[../concepts/charge-ordering|charge ordering]]（电荷有序）
+  - [[../concepts/charge-order|charge ordering]]（电荷有序）
   - high-spin / low-spin state（高自旋 / 低自旋态）
   - Jahn-Teller distortion（[[../concepts/jahn-teller-distortion|Jahn-Teller 畸变]]）
   - average intercalation voltage（平均嵌入电压）
@@ -129,10 +132,10 @@ F. Zhou, M. Cococcioni, C. A. Marianetti, D. Morgan, G. Ceder，2004，Physical 
   1. 平均锂嵌入电压公式：⟨V⟩ = −[E(Liₓ₂MOᵧ) − E(Liₓ₁MOᵧ) − (x₂−x₁)E(Li metal)] / [(x₂−x₁)F]，忽略熵与 PΔV 贡献后仅由三个总能量决定。
   2. GGA/LDA 对 LiNiO₂/NiO₂、LiMn₂O₄/Mn₂O₄、LiFePO₄/FePO₄ 计算电压分别为 3.19、3.18、2.97 V，实验值为 3.85、4.15、3.5 V，系统性低估 0.5–1.0 V。
   3. DFT+U 修正项 E_U = (U_eff/2) Tr[n̂(1−n̂)]，惩罚 d 轨道非整数占据，强制整数占据以消除自相互作用；U_eff = U − J，固定 U_eff 时能量对 J 不敏感。
-  4. 自洽 U 由线性响应得到：U = (χ₀⁻¹ − χ⁻¹)_ii，其中 χ₀ 为冻结 Kohn-Sham 势的裸响应、χ 为完全自洽的屏蔽响应；微扰在越来越大的超胞中施加直至 U 收敛。
+  4. 自洽 U 由[[../concepts/linear-response|线性响应]]得到：U = (χ₀⁻¹ − χ⁻¹)_ii，其中 χ₀ 为冻结 Kohn-Sham 势的裸响应、χ 为完全自洽的屏蔽响应；微扰在越来越大的超胞中施加直至 U 收敛。
   5. U 值规律：高价态 U 一般高于低价态（如 Fe²⁺ 3.71 eV vs Fe³⁺ 4.90 eV）；橄榄石磷酸盐中 U 普遍高于层状/尖晶石致密氧化物，因 PO₄ 基团隔断 TM-O-TM 使 d 带更窄、更局域。
   6. LiFePO₄：GGA 2.97 V → GGA+U（U=4.30 eV）3.47 V，实验 3.5 V；Fe²⁺/Fe³⁺ 均为高自旋、AFM 有序。
-  7. LiₓMn₂O₄：GGA+U 同时预测两个电压平台 4.19 V 与 2.97 V（实验 4.15、2.95 V），关键在于 x=1 时自发形成 Mn³⁺/Mn⁴⁺ 电荷有序；纯 GGA 给出分数价态，无法同时再现两平台。
+  7. LiₓMn₂O₄：GGA+U 同时预测两个电压平台 4.19 V 与 2.97 V（实验 4.15、2.95 V），关键在于 x=1 时自发形成 Mn³⁺/Mn⁴⁺ [[../concepts/charge-order|电荷有序]]；纯 GGA 给出分数价态，无法同时再现两平台。
   8. CoPO₄ 中 GGA 预测 Co³⁺ 为非自旋极化 t⁶₂g，晶胞体积仅 244.24 Å³（实验 278.66 Å³）；GGA+U 稳定高自旋 t⁴₂g e²g，体积修正为 273.42 Å³，电压从 3.70 V 修正到 4.73 V（实验 ~4.8 V）。
   9. LiNiO₂：GGA 3.19 V → GGA+U 3.92 V（实验 3.85 V）；Ni³⁺ 为低自旋 t⁶₂g e¹g 弱 Jahn-Teller 离子，实验无合作 JT 畸变，与计算一致。
   10. 物理机制：金属锂中电子离域、自相互作用小；TM 氧化物中 d 电子局域、自相互作用大；电子从锂转移到 TM 时 GGA 高估局域态能量，使反应能不够负、电压偏低；GGA+U 通过抑制分数占据移除该虚假自相互作用，本质是正确再现电离势与电子亲和能（固体带隙）之差。

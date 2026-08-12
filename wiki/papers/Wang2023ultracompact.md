@@ -89,21 +89,24 @@ Wang Jue, Cai Chengkun, Fu Tianhao, Wang Kangrui, Liang Yize, Wang Jian（华中
   - 实体 `SZ-2080.md`：本文使用的有机-无机杂化光刻胶（折射率 n_p≈1.5，设计波长 1550 nm 时 π 相位对应高度 1.55 μm），TPP 常用材料。
 
 ## 📊 关键图表
-  - ![图1 偶/螺旋MG光束生成原理（相位调制+4-f滤波+传播不变性模拟）](../../raw/figures/Wang2023ultracompact/fig_1_UAN2BY4E.png)
-  - ![图2 飞秒激光TPP平台与偶相位板（m=2,q=12）设计/SEM/实测高度，误差~0.2μm](../../raw/figures/Wang2023ultracompact/fig_2_P5YTRJBX.png)
-  - ![图3 螺旋相位板（m=3,q=2）设计相位、SEM与逐层台阶状实测高度](../../raw/figures/Wang2023ultracompact/fig_3_VUFTF2IG.png)
-  - ![图4 整体高度误差与相位离散化误差对偶/螺旋光束重叠积分和效率的影响](../../raw/figures/Wang2023ultracompact/fig_4_4Y53N3SH.png)
-  - ![图5 4-f系统实验表征光路（BE→MPP→L1→RS→L2→RAP→CCD）](../../raw/figures/Wang2023ultracompact/fig_5_7PBM4FCJ.png)
-  - ![图6 不同m,q偶MG光束实测傅里叶频谱（主环+中心低频亮斑）](../../raw/figures/Wang2023ultracompact/fig_6_2GF3S7IT.png)
-  - ![图7 不同m,q偶MG光束实测横向光强（椭圆晶格图案）](../../raw/figures/Wang2023ultracompact/fig_7_8R2524RD.png)
-  - ![图8 偶MG光束（m=2,q=12）Z=100-800mm传播不变性](../../raw/figures/Wang2023ultracompact/fig_8_D2NF53YM.png)
-  - ![图9 不同m,q螺旋MG光束实测光强（椭圆环，离心率随m增大）](../../raw/figures/Wang2023ultracompact/fig_9_DCPXH63U.png)
-  - ![图10 螺旋MG光束（m=3,q=2）800mm传播不变性](../../raw/figures/Wang2023ultracompact/fig_10_7JWVFILZ.png)
+  - ![图1 偶/螺旋MG光束生成原理（相位调制+4-f滤波+传播不变性模拟）](../../raw/figures/Wang2023ultracompact/fig_1_UAN2BY4E.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图2 飞秒激光TPP平台与偶相位板（m=2,q=12）设计/SEM/实测高度，误差~0.2μm](../../raw/figures/Wang2023ultracompact/fig_2_P5YTRJBX.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图3 螺旋相位板（m=3,q=2）设计相位、SEM与逐层台阶状实测高度](../../raw/figures/Wang2023ultracompact/fig_3_VUFTF2IG.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图4 整体高度误差与相位离散化误差对偶/螺旋光束重叠积分和效率的影响](../../raw/figures/Wang2023ultracompact/fig_4_4Y53N3SH.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图5 4-f系统实验表征光路（BE→MPP→L1→RS→L2→RAP→CCD）](../../raw/figures/Wang2023ultracompact/fig_5_7PBM4FCJ.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图6 不同m,q偶MG光束实测傅里叶频谱（主环+中心低频亮斑）](../../raw/figures/Wang2023ultracompact/fig_6_2GF3S7IT.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图7 不同m,q偶MG光束实测横向光强（椭圆晶格图案）](../../raw/figures/Wang2023ultracompact/fig_7_8R2524RD.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图8 偶MG光束（m=2,q=12）Z=100-800mm传播不变性](../../raw/figures/Wang2023ultracompact/fig_8_D2NF53YM.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图9 不同m,q螺旋MG光束实测光强（椭圆环，离心率随m增大）](../../raw/figures/Wang2023ultracompact/fig_9_DCPXH63U.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图10 螺旋MG光束（m=3,q=2）800mm传播不变性](../../raw/figures/Wang2023ultracompact/fig_10_7JWVFILZ.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
   - 公式图：椭圆柱坐标变换(eq_1)、马蒂厄光束表达式(eq_2)、主环半径/宽度、高度-相位转换(eq_4)。
 
 ## 🔬 项目连接
   - **project-1（双光固化和双光发光）— strong（直接可复用）**：这是一篇典型的双光子聚合（TPP/2PP）工艺论文，与项目"双光子吸收引发双光固化材料制备"主题直接对口。可复用内容包括：(1) 完整的 TPP 工艺参数链——PHAROS 飞秒激光器 515 nm、340 fs、200 kHz，Zeiss 63×/NA1.4 油浸物镜聚焦，SZ-2080 光刻胶 100 °C 预烘 30 min，聚合后甲基异丁基酮显影 10 min + 异丙醇 5 min；(2) 双光子吸收只发生在焦点、光强平方依赖从而实现 ~100 nm 三维分辨率的机理图像；(3) 相位设计→高度分布→逐层扫描直写的"设计到元件"转化方法（h=λφ/[2π(n_p−1)]）；(4) 对 TPP 固有误差（整体高度误差、层间离散化台阶）的量化容忍度分析，对评估固化精度/层间距选择有方法参考。注：本文偏光学器件应用、不涉及引发剂分子设计或 TDDFT 激发态计算，故定为 strong 而非 core。
   - project-2/3/4/5/6/7：无直接项目连接（本文为微纳光学/光束整形，与 Mn多铁、机械发光NN、TTF分子计算、SnTe铁电模拟、湿度传感、CDW 均无机制或方法交集）。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 
 ## 📝 组织与用词
 文章按"问题提出（SLM/全息/超表面的体积与像素化瓶颈）→ 理论设计（椭圆柱坐标下马蒂厄光束与 4-f 滤波模型）→ TPP 制造与误差量化 → 4-f 实验表征（频谱、横向分布、800 mm 传播不变性）→ 结论展望"的工程逻辑链展开，先建立理想马蒂厄光束无法实现、退而求有限能量 MG 光束的物理前提，再用重叠积分/效率双指标把工艺误差与光束质量定量挂钩，论证严密。值得复用的术语：
@@ -120,8 +123,8 @@ Wang Jue, Cai Chengkun, Fu Tianhao, Wang Kangrui, Liang Yize, Wang Jian（华中
 
   - [[../concepts/nondiffracting-beams|nondiffracting-beams]]
 ## ✏️ 可写入 Wiki 的要点
-  1. 无衍射光束概念由 Durnin 于 1987 年提出；马蒂厄光束是亥姆霍兹方程在椭圆柱坐标 (ξ,η,z) 下的解，横向强度呈椭圆晶格状，区别于同心圆环状的贝塞尔光束，并具无衍射、自重建、自加速特性。
-  2. 理想马蒂厄光束能量无限无法实现；实验可产生的是携带有限能量的马蒂厄-高斯（MG）光束——高斯光束加载理想马蒂厄相位后经 4-f 系统空间滤波得到。
+  1. [[../concepts/diffraction-free-beam|无衍射光束]]概念由 Durnin 于 1987 年提出；马蒂厄光束是亥姆霍兹方程在椭圆柱坐标 (ξ,η,z) 下的解，横向强度呈椭圆晶格状，区别于同心圆环状的[[../concepts/bessel-beam|贝塞尔光束]]，并具无衍射、自重建、自加速特性。
+  2. 理想马蒂厄光束能量无限无法实现；实验可产生的是携带有限能量的马蒂厄-高斯（MG）光束——高斯光束加载理想马蒂厄相位后经 [[../concepts/four-f-system|4-f 系统]]空间滤波得到。
   3. 椭圆柱坐标与直角坐标关系：x=c·cosh ξ·cos η，y=c·sinh ξ·sin η，c²=a²−b²；椭圆参数 q=c²k_t²/4，k_0=ω/ν=√(k_t²+k_z²)；m≥2 且 q≤m²/2−1 时归一化系数 A_m(q)、B_m(q) 可忽略。
   4. 偶数/奇数/螺旋马蒂厄光束分别由 Ce_m·ce_m、Se_m·se_m 及二者的 i 线性组合（螺旋）乘以 exp(ik_z z) 构成；螺旋型具涡旋波前、携带轨道角动量、中心为暗斑；A_m(q)=B_m(q) 时呈现椭圆环。
   5. 相位-高度转换关系：h(x,y)=λφ(x,y)/[2π(n_p−1)]。本文 λ=1.55 μm、n_p=1.5，二元 0/π 相位对应高度 0/1.55 μm；器件尺寸 300 μm×300 μm，TPP 空间精度约 100 nm。

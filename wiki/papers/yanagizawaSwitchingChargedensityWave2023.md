@@ -102,7 +102,7 @@ Koki Yanagizawa, Katsuaki Sugawara, Tappei Kawakami, Ryuichi Ando, Ken Yaegashi,
 
 ## 📊 关键图表
   - ![图1 单层 1T-TiTe₂ 晶体结构、RHEED、180 K/30 K ARPES 能带与 DFT 计算、2×2 BZ 折叠](../../raw/figures/yanagizawaSwitchingChargedensityWave2023/fig_1_8BLPKNE6.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
-  - ![图2 Ts 与 K 沉积双路载流子调控下的 ARPES/费米面、T_CDW≈90 K 的能隙、电子口袋上各向异性能隙、嵌套示意](../../raw/figures/yanagizawaSwitchingChargedensityWave2023/fig_2_2JEUWVDS.png)
+  - ![图2 Ts 与 K 沉积双路载流子调控下的 ARPES/费米面、T_CDW≈90 K 的能隙、电子口袋上各向异性能隙、嵌套示意](../../raw/figures/yanagizawaSwitchingChargedensityWave2023/fig_2_2JEUWVDS.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - ![图3 单层 TiSe₂（激子凝聚）与 TiTe₂（半金属屏蔽）能带结构对比，排除激子机制](../../raw/figures/yanagizawaSwitchingChargedensityWave2023/fig_3_FAYTPTD5.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
   - ![图4 DFT 费米面计算的电子磁化率 Re[χ₀(q)]：原始态 q=½G 亮点 vs 电子掺杂 0.1 eV 后消失](../../raw/figures/yanagizawaSwitchingChargedensityWave2023/fig_4_BQBPQY75.png)
 
@@ -111,29 +111,33 @@ Koki Yanagizawa, Katsuaki Sugawara, Tappei Kawakami, Ryuichi Ando, Ken Yaegashi,
   - **project-5（SnTe 铁电模拟，medium）**：本文的 DFT 计算流程对 SnTe 铁电模拟有方法学参考价值——Quantum Espresso + GGA-PBE + 60 Ry 平面波截断 + 12×12×1 k 网格 + >10 Å 真空层，是标准的二维/薄膜电子结构计算配方；更关键的是从 DFT 费米面计算 Lindhard 电子磁化率 χ₀(q) 实部来定位结构/电子不稳定性波矢的做法，可类比迁移到铁电软模分析（铁电失稳同样与 q=0 或特定 q 处的极化率发散有关）。化学势差仅 0.1 eV 即令 χ₀(q) 亮点消失，也提示掺杂/载流子浓度对铁电相稳定性的定量影响。
   - 其余项目（project-1 双光子、project-2 Mn 多铁、project-3 机械发光 NN、project-4 TTF 分子计算、project-6 湿度传感器）无直接项目连接。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+
 ## 📝 组织与用词
   - 论证结构遵循"建立基准电子结构 → 两路独立载流子调控 → 能隙与各向异性观测 → 机制逐一排除 → χ₀(q) 理论确证"的经典实验物理链条。两种掺杂手段（改 Ts 改化学计量比 / 表面沉积 K）互为对照，排除了单一方法引入无序假象的可能；再以同构 TiSe₂ 作为"机制对照样品"排除激子凝聚，论证严密。
-  - 机制讨论采用枚举排除法：(i) 无序效应、(ii) 范霍夫奇异点散射、(iii) Jahn-Teller 畸变、(iv) 强电子-声子耦合、(v) 费米面嵌套——逐一给出排除/保留证据。
+  - 机制讨论采用枚举排除法：(i) 无序效应、(ii) 范霍夫奇异点散射、(iii) Jahn-Teller 畸变 [[../concepts/jahn-teller-distortion|Jahn-Teller 畸变]]、(iv) 强电子-声子耦合、(v) 费米面嵌套——逐一给出排除/保留证据。
   - 值得复用的关键词/术语：
-    - 电荷密度波 (Charge-Density Wave, CDW)
-    - 费米面嵌套 (Fermi-surface nesting)
-    - 激子凝聚 (Exciton condensation)
-    - 能带折叠 (Band folding)
+    - 电荷密度波 [[../concepts/charge-density-wave|电荷密度波]] (Charge-Density Wave, CDW)
+    - 费米面嵌套 [[../concepts/fermi-surface-nesting|费米面嵌套]] (Fermi-surface nesting)
+    - 激子凝聚 [[../concepts/exciton-condensation|激子凝聚]] (Exciton condensation)
+    - 能带折叠 [[../concepts/band-folding|能带折叠]] (Band folding)
     - 载流子补偿 (Carrier compensation)
-    - 电子磁化率 / Lindhard 函数 (Electronic susceptibility χ₀(q))
+    - 电子磁化率 [[../concepts/electronic-susceptibility|电子磁化率]] / Lindhard 函数 (Electronic susceptibility χ₀(q))
     - 谱重 (Spectral weight)
     - 领先边缘中点位移 (Leading-edge midpoint shift)
     - 部分嵌套 (Partial nesting)
     - 维度效应 / 费米面扁平化 (Dimensionality effect / FS flattening)
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 单层 1T-TiTe₂ 是补偿型半金属（负带隙），Γ 点有空穴口袋（Te 5p），M 点有浅椭球型电子口袋（Ti 3d）；体材料则因 L 点电子口袋沿 k_z 强 warping 而无 CDW。
+  1. 单层 1T-TiTe₂ 是补偿型[[../concepts/half-metal|半金属]]（负带隙），Γ 点有空穴口袋（Te 5p），M 点有浅椭球型电子口袋（Ti 3d）；体材料则因 L 点电子口袋沿 k_z 强 warping 而无 CDW。
   2. 单层 TiTe₂ 的 2×2 CDW 转变温度 T_CDW ≈ 90 K，由 ARPES 领先边缘位移随温度消失确定；CDW 态在 M 点出现 Γ 点空穴带的折叠副本，谱重约为主带的 10%（远弱于 TiSe₂）。
   3. CDW 仅在有效零掺杂（电子 ≈ 空穴 ≈ 0.08/晶胞）的极窄窗口出现；Ts=400 °C 样品约 0.06 h⁺（空穴掺杂）、Ts=440 °C 约 0.37 e⁻（电子掺杂）、K 沉积 6/12/24 min 分别约 0.07/0.21/0.39 e⁻，所有非补偿样品折叠带均消失。
-  4. 掺杂物理：略高于最优 Ts 产生 Te 空位（电子给体）；略低则 Te 吸附原子（受主，因 Te 功函数 4.95 eV > TiTe₂ 4.86 eV）；K 沉积为表面电荷转移电子掺杂，每 K 原子约贡献 1 e⁻。
-  5. CDW 能隙在 M 点椭球电子口袋上强各向异性：短轴方向（与折叠空穴口袋重叠最好）能隙最大（70 meV 峰位），向长轴方向逐渐闭合；空穴口袋能隙为 2–10 meV。
-  6. 排除激子凝聚：TiTe₂ 是半金属，自由载流子强屏蔽使激子无法稳定（对照 TiSe₂ 为间接零带隙半导体，激子能隙约 0.2 eV，折叠带强度大）。
-  7. 排除其他机制：K 沉积样品准粒子寿命不变 → 非无序；正常态无范霍夫奇异点；CDW 前后高结合能带无移动 → Jahn-Teller 畸变影响极小；单层无能带 kink（体材料有）→ 强电子-声子耦合证据不足。
-  8. DFT（Quantum Espresso，GGA-PBE，60 Ry，12×12×1，真空 >10 Å）计算的 Re[χ₀(q)] 在原始态 q=½G（M 点）出现局部极大值，化学势上移 0.1 eV（对应电子掺杂）后该亮点消失，与实验一致。
-  9. tK=6 min 样品费米面看似仍满足部分嵌套但 CDW 已消失，作者推测椭球电子口袋长轴扩张降低了嵌套 k 区占总费米面的比例，提示存在一个临界嵌套面积比。
-  10. 方法学结论：载流子调谐是钉扎原子层 TMD 中 CDW 机制的通用有效手段；费米面嵌套驱动的 CDW 比激子凝聚驱动的更脆弱；下一步可通过电学栅压/化学掺杂逼近 CDW 边界寻找超导等奇异量子相。
+  4. 掺杂物理：略高于最优 Ts 产生 Te 空位（电子给体）；略低则 Te 吸附原子（受主，因 Te [[../concepts/work-function|功函数]] 4.95 eV > TiTe₂ 4.86 eV）；K 沉积为表面[[../concepts/charge-transfer|电荷转移]]电子掺杂，每 K 原子约贡献 1 e⁻。
+  5. CDW 能隙在 M 点椭球电子口袋上强[[../concepts/migdal-eliashberg-theory|各向异性]]：短轴方向（与折叠空穴口袋重叠最好）能隙最大（70 meV 峰位），向长轴方向逐渐闭合；空穴口袋能隙为 2–10 meV。
+  6. 排除[[../concepts/exciton-condensation|激子凝聚]]：TiTe₂ 是半金属，自由载流子强屏蔽使激子无法稳定（对照 TiSe₂ 为间接零带隙半导体，激子能隙约 0.2 eV，折叠带强度大）。
+  7. 排除其他机制：K 沉积样品准粒子寿命不变 → 非无序；正常态无范霍夫奇异点；CDW 前后高结合能带无移动 → [[../concepts/jahn-teller-distortion|Jahn-Teller 畸变]]影响极小；单层无能带 kink（体材料有）→ 强[[../concepts/electron-phonon-coupling|电子-声子耦合]]证据不足。
+  8. DFT（Quantum Espresso，GGA-PBE，60 Ry，12×12×1，真空 >10 Å）计算的 Re[χ₀(q)] 在原始态 q=½G（M 点）出现局部极大值，[[../concepts/chemical-potential|化学势]]上移 0.1 eV（对应电子掺杂）后该亮点消失，与实验一致。
+  9. tK=6 min 样品[[../concepts/fermi-surfaces|费米面]]看似仍满足部分嵌套但 CDW 已消失，作者推测椭球电子口袋长轴扩张降低了嵌套 k 区占总费米面的比例，提示存在一个临界嵌套面积比。
+  10. 方法学结论：[[../concepts/carrier-tuning|载流子调谐]]是钉扎原子层 TMD 中 CDW 机制的通用有效手段；[[../concepts/fermi-surface-nesting|费米面嵌套]]驱动的 CDW 比激子凝聚驱动的更脆弱；下一步可通过电学栅压/化学掺杂逼近 CDW 边界寻找超导等奇异量子相。

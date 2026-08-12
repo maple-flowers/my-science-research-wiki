@@ -33,4 +33,4 @@ Quinine Bisulfate 是一种经典的荧光参比标准物，在光物理研究�
 
 - **概念**：[[../concepts/fluorescence-quantum-yield]] (荧光量子产率), [[../concepts/two-photon-fluorescence]] (双光子荧光)
 - **参比物**：[[fluorescein]] (荧光素)
-- **探针实体**：[[P1-probe]], [[P2-probe]]
+- **探针实体**：[[dicyanostilbene-1a]] (P1/1a), [[dicyanostilbene-1b]] (P2/1b)

@@ -13,9 +13,11 @@ year_read: 2026
 original_note:: [[../../raw/note/wernetSpectroscopicCharacterizationMicroscopic2005]]
 projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
 concepts: [density-functional-theory]
-entities: []
+entities:
+  - supercritical-water
 methods: [dft, raman, tem, xanes]
-materials: []
+materials:
+  - water
 figures: [experimental-setups, optical-spectra]
 领域基础知识:: >-
   超临界水（Supercritical water）是温度和压力均高于其临界点（374.1°C， 220.6巴）的水。在该状态下，水兼具气体和液体的性质，如高扩散性、低粘度和高溶解能力，是一种极具潜力的绿色溶剂。其独特的性质源于其分子间氢键（Hydrogen bond）网络在高温高压下的重构。
@@ -92,9 +94,9 @@ Ph. Wernet, D. Testemale, J.-L. Hazemann, R. Argoud, P. Glatzel, L. G. M. Petter
   - 相关论文 [[../../raw/note/wernetSpectroscopicCharacterizationMicroscopic2005]]
 
 ## 📊 关键图表
-  - ![图1 气相/液面/超临界/液态/冰五种水的氧K边谱对比；534、536 eV双峰=自由O-H，535 eV峰=单断供体键，537–542 eV后边=氢键；超临界水缺535 eV峰且后边更宽](../../raw/figures/wernetSpectroscopicCharacterizationMicroscopic2005/fig_1_4TFGLKJ8.png)
+  - ![图1 气相/液面/超临界/液态/冰五种水的氧K边谱对比；534、536 eV双峰=自由O-H，535 eV峰=单断供体键，537–542 eV后边=氢键；超临界水缺535 eV峰且后边更宽](../../raw/figures/wernetSpectroscopicCharacterizationMicroscopic2005/fig_1_4TFGLKJ8.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
   - ![图2 超临界水与冰的扩展K边谱（~560 eV第二极大）；峰位低移3.3±0.8 eV对应O–O距从2.75 Å拉长到3.1±0.1 Å](../../raw/figures/wernetSpectroscopicCharacterizationMicroscopic2005/fig_2_TVX3KJZU.png)
-  - ![图3 实验-计算谱定量拟合：(a)超临界谱与0.35倍气相谱；(b)差谱=纯氢键组分；(c)DFT三构型加权拟合，90%来自四扭曲氢键构型；(d)均匀非键分布谱被排除](../../raw/figures/wernetSpectroscopicCharacterizationMicroscopic2005/fig_3_HY4NF6GV.png)
+  - ![图3 实验-计算谱定量拟合：(a)超临界谱与0.35倍气相谱；(b)差谱=纯氢键组分；(c)DFT三构型加权拟合，90%来自四扭曲氢键构型；(d)均匀非键分布谱被排除](../../raw/figures/wernetSpectroscopicCharacterizationMicroscopic2005/fig_3_HY4NF6GV.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
 
 ## 🔬 项目连接
   - **project-1 双光子**：无直接项目连接。本文研究水的氢键与 X 射线散射，不涉及双光子过程或相关材料。
@@ -104,6 +106,15 @@ Ph. Wernet, D. Testemale, J.-L. Hazemann, R. Argoud, P. Glatzel, L. G. M. Petter
   - **project-5 SnTe铁电模拟**：无直接项目连接。氢键扭曲与铁电扭曲在"局域对称性破缺+宏观平均掩盖双峰分布"层面有松散的物理类比（衍射/RDF 平均无法区分两种局域构型这一方法论教训同样适用于铁电局域极化分析），但材料、能量尺度、计算方法均不同，不构成实质参考。
   - **project-6 湿度传感器**：有**弱参考价值**。图 1(b) 液态水表面谱是"受体键合+两个悬空 O–H"的特征指纹，这正是湿度传感中水分子吸附在固体表面时常见的构型；本文对 534/536 eV 自由 O–H 双峰与 537 eV 以上氢键后边的指认，可作为用氧 K 边谱识别表面水吸附状态的参考基准。但本文主体是 380 °C/300 bar 的体相超临界水，与常温常压表面吸附水条件差异大，仅谱学指认层面可参考。
   - **project-7 CDW**：无直接项目连接。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
 文章按"问题（衍射 RDF 的系综平均模糊性）→ 方法（XRS 硬 X 射线穿透 + 供体氢键敏感）→ 指纹对照（五相谱图定性识别二元性）→ 定量（差谱得 35% 类气相，扩展谱得 O–O=3.1 Å，DFT 拟合得四扭曲氢键占 90%）→ 模型（结合 SAXS 相关长度构建 5–10 分子斑块非均相模型）→ 宏观解释（有机物溶解于稀区、离子接触对）"递进。关键术语：
@@ -117,13 +128,13 @@ Ph. Wernet, D. Testemale, J.-L. Hazemann, R. Argoud, P. Glatzel, L. G. M. Petter
   - Heterogeneous patch model — 非均相斑块模型
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 超临界水（380 °C, 300 bar, 0.54 g/cm³）中约 **65±20%** 的分子具有四个完整氢键，但全部扭曲（O–O 距 2.65–3.3 Å，O–H···O 角 150°–180°，冰为 2.75 Å/180°）；约 **35±20%** 的分子有两个自由 O–H 键，完全不做供体氢键，可能仅做 1–2 个受体氢键。
+  1. [[../entities/supercritical-water|超临界水]]（380 °C, 300 bar, 0.54 g/cm³）中约 **65±20%** 的分子具有四个完整氢键，但全部扭曲（O–O 距 2.65–3.3 Å，O–H···O 角 150°–180°，冰为 2.75 Å/180°）；约 **35±20%** 的分子有两个自由 O–H 键，完全不做供体氢键，可能仅做 1–2 个受体氢键。
   2. 成键分子平均 **O–O 距 3.1±0.1 Å**（由扩展谱 ~560 eV 峰相对冰低移 3.3±0.8 eV 推算），对应氢键键长约 2.1 Å；这解释了中子衍射 O–H RDF 在 ~2 Å 处的宽肩峰，且与中子/X 射线衍射一致。
   3. 超临界水谱**缺失液态水 535 eV 特征峰**（该峰对应一个断裂/弱化供体键），说明成键分子是"四键饱和"而非液态水式的"部分断键"——这是对"均匀部分断键网络"传统模型的关键反证。
   4. DFT 拟合中四扭曲氢键构型贡献 **90%** 信号，单扭曲供体键和规则冰状构型各仅约 5%；计算还排除了均匀非键分布（O–O=3.9 Å，谱与气相相似但无 537 eV 以上强度），并限制二聚体/三聚体/链状中间构型总量在几个百分点。
   5. XRS 用 **6–12 keV 硬 X 射线**探测 540 eV 软 X 射线边，在低动量转移 q≈3–7 Å⁻¹ 下与 XAS 等价；硬 X 射线穿透 Be 窗和氧化铝管壁，实现高温高压体相原位探测，这是常规软 XAS 做不到的。能量分辨率约 1 eV，相对能量校准精度 ±0.2 eV。
   6. 谱图归一化基于 **Thomas–Reiche–Kuhn 求和规则**：近边区（532–547 eV）积分强度与价空穴数成正比，氢键不显著改变价电子数，故面积归一化后可直接比较不同构型相对丰度；边跳归一化给出系统误差，最终 0.35±0.2。
-  7. 非均相斑块模型：SAXS 相关长度 **5.6±0.4 Å** + 斑块内每分子体积 27–33 Å³ → 平均每斑块 **5–10 个分子**；斑块不断形成-瓦解，稀区为类气相分子。该模型解释超临界水有机物高溶解度（有机物进入稀区无需断氢键网络）和离子接触对现象（氢键网络不够扩展以分别溶剂化阴、阳离子）。
+  7. [[../concepts/heterogeneous-patch-model|非均相斑块模型]]：SAXS 相关长度 **5.6±0.4 Å** + 斑块内每分子体积 27–33 Å³ → 平均每斑块 **5–10 个分子**；斑块不断形成-瓦解，稀区为类气相分子。该模型解释超临界水有机物高溶解度（有机物进入稀区无需断氢键网络）和离子接触对现象（氢键网络不够扩展以分别溶剂化阴、阳离子）。
   8. 氢键断裂判据：O–O 距 ≥3.3 Å，或 O–H···O 角 <150°，或两者兼有；XRS 无法区分这三种断键机制，对受体侧氢键也不敏感——这是该技术的固有局限。
   9. DFT 计算用 **11 分子团簇**模拟中心分子的第一配位壳层（团簇尺寸依据 SAXS 斑块大小选择），分子内 O–H 固定 0.95 Å、H–O–H 角 109.47°（5% 变化对谱无显著影响，且中子衍射证实分子内结构不随温压变化），系统扫描最近邻距离/角度生成数十种构型，振子强度用线性增宽高斯卷积。
   10. 实验在 APS 18-ID 波荡器线站完成：Si(400) 双晶单色器，Ge(555) 多晶分析器（布拉格角 86.4°），超临界水扫描 10010–10090 eV，累计 75×40 min 扫描，538 eV 处峰位共 2200 计数（背景扣除后），计数率仅 1–2 counts/s。

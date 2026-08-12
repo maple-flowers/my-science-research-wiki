@@ -17,6 +17,13 @@ PBE GGA 对 20 个小分子的原子化能计算与 UHF、LSD、PW91 及实验�
 *   **关键特征**：PBE 平均绝对误差 7.9 kcal/mol，与 PW91（8.0）持平、远优于 LSD（31.4）和 UHF（71.2）；振动零点能已从实验值中扣除。
 *   **另见**：同表亦收录于 [[crystal-structures#📊 关键数据表格 (Key Data Tables)|晶体结构与原子排布]]。
 
+### 2. 泛函-赝势组合拉曼误差基准
+系统对比不同交换关联泛函与赝势组合对拉曼活性模频率的计算精度，为第一性原理拉曼计算提供方法学参考。
+
+![表：泛函-赝势组合拉曼误差基准](../../raw/figures/chowdhuryReviewTheoreticalComputational/tab_2_2GIU5ZQ2.png)
+*   **来源**：[[../papers/chowdhuryReviewTheoreticalComputational]]
+*   **关键特征**：不同泛函-赝势组合的拉曼频率误差系统对比，指导计算方法选择。
+
 ---
 
 ## 🧲 二维多铁材料体系综述 (2D Multiferroic Systems Overview)
@@ -53,8 +60,108 @@ AFM、XRD、XPS 等手段对二维多铁薄片厚度、结晶取向与化学态�
 
 ---
 
+## 🔬 拉曼光谱实验表征 (Experimental Raman Spectroscopy)
+
+### 1. 多模式结构/光学综合表征
+XRD、FTIR、Raman 与 PL 光致发光谱联用，对材料结构与光学性质进行综合表征。
+
+![图：XRD、FTIR、Raman与PL结构/光学表征](../../raw/figures/Tobeiha2025optical/fig_2_KXGPCBPJ.png)
+*   **来源**：[[../papers/Tobeiha2025optical]]
+*   **关键特征**：拉曼谱与 XRD、FTIR 互验结构相纯度，PL 谱补充光学带隙信息。
+
+### 2. 黑砷薄膜形貌与拉曼结构表征
+SEM、TEM、HRTEM、SAED、AFM 与拉曼谱联用，全面表征二维黑砷的形貌、晶体结构与层数。
+
+![图：SEM/TEM/HRTEM/SAED/AFM/Raman 形貌与结构表征](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_2_3F3W8NM9.png)
+*   **来源**：[[../papers/shuTwoDimensionalBlackArsenic2020]]
+*   **关键特征**：拉曼峰位与层数关联，确认二维黑砷的高质量晶格结构。
+
+### 3. 石墨烯拉曼光谱与能带特征
+未应变石墨烯的蜂窝晶格、狄拉克锥能带、典型拉曼光谱及普适透射率的综合展示。
+
+![图：未应变石墨烯的蜂窝晶格、狄拉克锥能带、典型拉曼光谱及普适透射率](../../raw/figures/pengStrainEngineering2D2020/fig_4_2XE82KJJ.png)
+*   **来源**：[[../papers/pengStrainEngineering2D2020]]
+*   **关键特征**：G 峰与 2D 峰构成石墨烯拉曼指纹，2D 峰强度与形状对层数敏感。
+
+### 4. 块体 NiI₂ 变温偏振拉曼光谱
+块体 NiI₂ 在不同温度下的偏振拉曼散射谱，追踪多铁相变过程中振动模的软化与劈裂。
+
+![图：块体 NiI2 变温偏振拉曼光谱](../../raw/figures/songEvidenceSinglelayerVan2022/fig_4_8NRPR6W3.png)
+*   **来源**：[[../papers/songEvidenceSinglelayerVan2022]]
+*   **关键特征**：变温拉曼追踪电磁振子相关软模行为，揭示磁结构相变。
+
+### 5. 角分辨偏振拉曼 ARPRS
+角分辨偏振拉曼散射（ARPRS）测量，用于判定 NiI₂ 振动模的对称性归属。
+
+![图：角分辨偏振拉曼 ARPRS](../../raw/figures/songEvidenceSinglelayerVan2022/fig_5_SVSUQPWV.png)
+*   **来源**：[[../papers/songEvidenceSinglelayerVan2022]]
+*   **关键特征**：偏振角度依赖的强度调制直接反映振动模的不可约表示归属。
+
+### 6. 多层 NiI₂ 变温拉曼软模
+2 层与 3 层 NiI₂ 的变温拉曼光谱，观测维度限制下的软模演化。
+
+![图：2层/3层 NiI2 变温拉曼软模](../../raw/figures/songEvidenceSinglelayerVan2022/fig_9_VF7LAEDU.png)
+*   **来源**：[[../papers/songEvidenceSinglelayerVan2022]]
+*   **关键特征**：层数减少导致软模频率与相变温度的维度依赖位移。
+
+---
+
+## 🌊 磁电振子与动态耦合 (Electromagnons & Dynamic Coupling)
+
+### 1. NiI₂ 手性螺旋与电磁振子
+NiI₂ 的晶体结构、手性磁螺旋排列及电磁振子耦合示意图。
+
+![图：NiI₂ 晶体结构、手性螺旋、电磁振子](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_1_8V5GWLM9.png)
+*   **来源**：[[../papers/gaoGiantChiralMagnetoelectric2024a]]
+*   **关键特征**：手性磁螺旋破缺空间反演对称性，诱导自旋-晶格-极化三重耦合。
+
+### 2. 电磁振子动态磁电耦合与材料对比
+电磁振子动态磁电耦合强度的测量与多材料体系对比。
+
+![图：电磁振子动态磁电耦合与材料对比](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_4_VW7A6NTD.png)
+*   **来源**：[[../papers/gaoGiantChiralMagnetoelectric2024a]]
+*   **关键特征**：NiI₂ 的磁电振子耦合强度在已知多铁材料中居于前列。
+
+### 3. 电磁振子自旋关联展开公式
+将自旋-自旋关联函数分解为静态极化与动态涨落，从而导出电磁振子耦合项。
+
+![公式：电磁振子替代 S_i^a S_j^b -> ⟨S_i^a⟩δS_j^b+δS_i^a⟨S_j^b⟩](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_15_B3WEWD6S.png)
+*   **来源**：[[../papers/mostovoyMultiferroicsDifferentRoutes2024]]
+*   **关键特征**：Hartree-Fock 型分解将双自旋涨落降阶为极化-自旋耦合，是电磁振子理论的核心步骤。
+
+---
+
+## 💻 拉曼计算与振动模分析 (Raman Computation & Mode Analysis)
+
+### 1. 2H-TaS₂ 拉曼模温度依赖对比
+2H-TaS₂ 各拉曼活性模频率随温度变化的实验与计算对比汇总。
+
+![表：2H-TaS2拉曼模温度依赖对比](../../raw/figures/chowdhuryReviewTheoreticalComputational/tab_1_F2IWIW2A.png)
+*   **来源**：[[../papers/chowdhuryReviewTheoreticalComputational]]
+*   **关键特征**：温度依赖拉曼模频率与线宽的系统对比，为电荷密度波相变提供振动谱证据。
+
+---
+
+## 🔧 应变与层依赖拉曼响应 (Strain & Layer-Dependent Raman Response)
+
+### 1. 应变机制拉曼峰位证据链
+AHE 曲线偏转、TEM 界面、拉曼峰位红/蓝移、XRD 晶格常数变化、DFT 交换耦合常数的综合证据链。
+
+![图：应变机制证据链：AHE 曲线偏转、TEM 界面、拉曼峰位红/蓝移、XRD 晶格常数变化、DFT 交换耦合常数](../../raw/figures/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025/fig_2_BQHGIU8F.png)
+*   **来源**：[[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]
+*   **关键特征**：拉曼峰位的红移/蓝移直接关联界面应变，验证应变介导磁电耦合机制。
+
+### 2. WTe₂ 层依赖拉曼剪切模
+WTe₂ 层数依赖的电滞回线、Hirshfeld 电荷及拉曼剪切模消失，以及 2H-TMDs 的堆叠/莫尔畴对比。
+
+![图：WTe₂（a-e，层数依赖电滞回线/Hirshfeld电荷/拉曼剪切模消失）与 2H-TMDs（f-h，H/R堆叠/三角莫尔畴/单畴多畴回滞对比）](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_4_2X9UPMDA.png)
+*   **来源**：[[../papers/guoAdvancesTwodimensionalFerroelectric2025]]
+*   **关键特征**：拉曼剪切模随层数演化消失，标志滑移铁电相变的振动谱指纹。
+
+---
+
 ## 🔗 相关概念与实体 (Related Concepts & Entities)
 
-**核心概念**：[[../concepts/density-functional-theory|密度泛函理论 (DFT)]]、[[../concepts/gga-functional|广义梯度近似 (GGA)]]、[[../concepts/electron-phonon-coupling|电声耦合]]、[[../concepts/multiferroicity|多铁性]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/ferromagnetism|铁磁性]]、[[../concepts/ferroelasticity|铁弹性]]、[[../concepts/magnetoelectric-coupling|磁电耦合]]、[[../concepts/multiferroic-tunnel-junction|多铁隧道结]]、[[../concepts/spin-field-effect-transistor|自旋场效应晶体管]]
+**核心概念**：[[../concepts/density-functional-theory|密度泛函理论 (DFT)]]、[[../concepts/gga-functional|广义梯度近似 (GGA)]]、[[../concepts/electron-phonon-coupling|电声耦合]]、[[../concepts/multiferroicity|多铁性]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/magnetoelectric-coupling|磁电耦合]]、[[../concepts/electromagnon|电磁振子]]、[[../concepts/spiral-magnetic-order|螺旋磁序]]、[[../concepts/soft-mode|声子软模]]、[[../concepts/strain-engineering|应变工程]]
 
-**相关材料/实体**：[[../entities/TMDs|过渡金属硫族化合物 (TMDs)]]、[[../entities/graphene|石墨烯]]、[[../entities/NiI2|NiI₂]]、[[../entities/Cr2S3|Cr₂S₃]]、[[../entities/CuCrP2S6|CuCrP₂S₆]]、[[../entities/CuCrSe2|CuCrSe₂]]
+**相关材料/实体**：[[../entities/TMDs|过渡金属硫族化合物 (TMDs)]]、[[../entities/graphene|石墨烯]]、[[../entities/NiI2|NiI₂]]、[[../entities/WTe2|WTe₂]]、[[../entities/TaS2|TaS₂]]、[[../entities/Cr2S3|Cr₂S₃]]、[[../entities/CuCrP2S6|CuCrP₂S₆]]、[[../entities/CuCrSe2|CuCrSe₂]]

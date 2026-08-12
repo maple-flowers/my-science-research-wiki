@@ -137,7 +137,7 @@ Zhao Guan, He Hu, Xinwei Shen, Pinghua Xiang, Ni Zhong, Junhao Chu, Chungang Dua
 这是一篇系统综述，将二维铁电材料从理论预测、实验证实、表征方法、内在机制（层内键合 vs 层间平移）到器件应用做了完整梳理，并把已被实验证实的二维铁电体锁定为 CuInP₂S₆、α-In₂Se₃、SnTe、WTe₂、d1T-MoTe₂、BA₂PbCl₄ 等六种少数体系。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/polarization-switching]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/berry-phase]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/strain-engineering]]、[[../concepts/ferroelasticity]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/charge-density-wave]]、[[../concepts/topological-defects]]、[[../concepts/moire-superlattice]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/finite-size-effect|有限尺寸效应]]、[[../concepts/dipole-locking|偶极锁定]]、[[../concepts/electronic-polarization|电子极化]]、[[../concepts/trimerization|三聚化]]、[[../concepts/improper-ferroelectricity|不正铁电性]]、[[../concepts/ferroelectric-metal|铁电金属]]、[[../concepts/flexoelectricity|挠曲电性]]、[[../concepts/ferrovalley|铁谷]]、[[../concepts/valleytronics|谷电子学]]
+  - 概念 [[../concepts/2D-materials]]、[[../concepts/polarization-switching]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/berry-phase]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/strain-engineering]]、[[../concepts/ferroelasticity]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/charge-density-wave]]、[[../concepts/topological-defects]]、[[../concepts/moire-superlattice]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/finite-size-effect|有限尺寸效应]]、[[../concepts/dipole-locking|偶极锁定]]、[[../concepts/electronic-polarization|电子极化]]、[[../concepts/trimerization|三聚化]]、[[../concepts/improper-ferroelectricity|不正铁电性]]、[[../concepts/ferroelectric-metal|铁电金属]]、[[../concepts/flexoelectric-effect|挠曲电性]]、[[../concepts/ferrovalley|铁谷]]、[[../concepts/valleytronics|谷电子学]]
   - 实体 [[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/SnTe]]、[[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/BiFeO3]]、[[../entities/VASP]]、[[../entities/domain-wall]]、[[../entities/CuInP2S6|CuInP₂S₆]]、[[../entities/MoTe2|MoTe₂]]、[[../entities/GeSe]]、[[../entities/SnS]]、[[../entities/PZT]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/domain-walls]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]、[[../figures/electronic-devices]]、[[../figures/optical-spectra]]、[[../figures/vibrational-spectra]]、[[../figures/experimental-setups]]
   - 年度 [[../write/2020]]
@@ -151,45 +151,45 @@ Zhao Guan, He Hu, Xinwei Shen, Pinghua Xiang, Ni Zhong, Junhao Chu, Chungang Dua
 
 ## 📊 关键图表
 
-  ![图1 理论上的二维铁电材料：中心对称与畸变1T-MoS2原子结构、能带及电荷密度；MX2三聚化畸变模式与锯齿链](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_1_TFDQCV55.png)
+  ![图1 理论上的二维铁电材料：中心对称与畸变1T-MoS2原子结构、能带及电荷密度；MX2三聚化畸变模式与锯齿链](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_1_TFDQCV55.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 
-  ![图2 a)蜂窝AB二元单层在谷处的价带（含/不含SOC）；b)In2Se3三维晶体结构与FE-ZB0/FE-WZ0中自发极化方向；c)AgBiP2Se6单层结构、两种畸变相侧视图与铁电/顺电相声子谱](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_2_99593M24.png)
+  ![图2 a)蜂窝AB二元单层在谷处的价带（含/不含SOC）；b)In2Se3三维晶体结构与FE-ZB0/FE-WZ0中自发极化方向；c)AgBiP2Se6单层结构、两种畸变相侧视图与铁电/顺电相声子谱](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_2_99593M24.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 
-  ![图3 a)BN双层铁电翻转与graphene/BN异质结堆叠势；b)V族元素单层（As/Sb/Bi）未畸变/畸变结构与As单层自由能等高线](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_3_Z32US3ZV.png)
+  ![图3 a)BN双层铁电翻转与graphene/BN异质结堆叠势；b)V族元素单层（As/Sb/Bi）未畸变/畸变结构与As单层自由能等高线](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_3_Z32US3ZV.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 
-  ![图4 a)甲基封端germanene/stanene、Sn(P,As,Sb)–CH2OCH3、–SH/–Cl钝化硅(111)、–OH/–F功能化石墨烯纳米带等非范德华二维铁电体；b)SnS/SnSe单层铁电翻转路径（90°铁弹-铁电耦合）](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_4_VYU3KHJR.png)
+  ![图4 a)甲基封端germanene/stanene、Sn(P,As,Sb)–CH2OCH3、–SH/–Cl钝化硅(111)、–OH/–F功能化石墨烯纳米带等非范德华二维铁电体；b)SnS/SnSe单层铁电翻转路径（90°铁弹-铁电耦合）](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_4_VYU3KHJR.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 
-  ![图5 CuInP2S6：a)原子结构（S骨架中Cu/In/P-P填充八面体空隙）；b)不同Cu/In比下的PFM图像；c)2-4层CuInP2S6的AFM形貌、PFM振幅/相位及反偏压写入的相位图](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_5_VAVBDKCG.png)
+  ![图5 CuInP2S6：a)原子结构（S骨架中Cu/In/P-P填充八面体空隙）；b)不同Cu/In比下的PFM图像；c)2-4层CuInP2S6的AFM形貌、PFM振幅/相位及反偏压写入的相位图](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_5_VAVBDKCG.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
 
-  ![图6 α-In2Se3：a)薄片AFM/PFM相位振幅；b)mica上2-6 nm厚In2Se3的IP PFM相位及翻转后图像](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_6_3VRPTQHT.png)
+  ![图6 α-In2Se3：a)薄片AFM/PFM相位振幅；b)mica上2-6 nm厚In2Se3的IP PFM相位及翻转后图像](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_6_3VRPTQHT.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
 
-  ![图7 a)PFM极化图案与SHG映射验证In2Se3偶极锁定；b)5 nm In2Se3畴、迟滞回线与极化翻转；c)β′-In2Se3的OOP/IP PFM图像](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_7_NAP9UVA4.png)
+  ![图7 a)PFM极化图案与SHG映射验证In2Se3偶极锁定；b)5 nm In2Se3畴、迟滞回线与极化翻转；c)β′-In2Se3的OOP/IP PFM图像](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_7_NAP9UVA4.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
 
-  ![图8 a)MBE生长6 nm In2Se3的PFM振幅/相位与蝴蝶/迟滞回线；b)DC偏压写入前后OOP/IP PFM振幅相位](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_8_DAZQFJF5.png)
+  ![图8 a)MBE生长6 nm In2Se3的PFM振幅/相位与蝴蝶/迟滞回线；b)DC偏压写入前后OOP/IP PFM振幅相位](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_8_DAZQFJF5.png) -> [[../figures/electronic-devices|电子与突触器件]]
 
-  ![图9 1 u.c. SnTe薄膜：a)条纹畴STM像；b)跨畴边界傅里叶变换；c)4.7 K dI/dV谱；d)单畴岛STM；e)沿上下方向空间分辨dI/dV谱（能带弯曲）](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_9_64E2DDJW.png)
+  ![图9 1 u.c. SnTe薄膜：a)条纹畴STM像；b)跨畴边界傅里叶变换；c)4.7 K dI/dV谱；d)单畴岛STM；e)沿上下方向空间分辨dI/dV谱（能带弯曲）](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_9_64E2DDJW.png) -> [[../figures/electronic-bands|电子能带与电子态]]
 
-  ![图10 WTe2铁电金属：a)1T′结构、器件几何与未掺杂三层T1/双层B1器件电导G双稳态；b)系列温度下石墨烯电导显示两种OOP极化态（Tc≈350 K）](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_10_6NVPDULZ.png)
+  ![图10 WTe2铁电金属：a)1T′结构、器件几何与未掺杂三层T1/双层B1器件电导G双稳态；b)系列温度下石墨烯电导显示两种OOP极化态（Tc≈350 K）](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_10_6NVPDULZ.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 
-  ![图11 单层 d1T-MoTe2：a)实验与计算拉曼；b,c)2H与d1T'的HRTEM；d)±8 V极化后的PFM相位；e,f)俯视图与原子结构；g)PFM相位迟滞与蝴蝶曲线；h)1T与d1T电荷密度差；i)Pt上I-V曲线](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_11_7BSJLTHS.png)
+  ![图11 单层 d1T-MoTe2：a)实验与计算拉曼；b,c)2H与d1T'的HRTEM；d)±8 V极化后的PFM相位；e,f)俯视图与原子结构；g)PFM相位迟滞与蝴蝶曲线；h)1T与d1T电荷密度差；i)Pt上I-V曲线](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_11_7BSJLTHS.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 
-  ![图12 BA2PbCl4：a)表面形貌与不同方位角的角分辨PFM（蓝箭头标识极化矢量）；b)50 nm薄片用共面电极、40 nm薄片用扫描探针的侧向PFM](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_12_4NNKT9MX.png)
+  ![图12 BA2PbCl4：a)表面形貌与不同方位角的角分辨PFM（蓝箭头标识极化矢量）；b)50 nm薄片用共面电极、40 nm薄片用扫描探针的侧向PFM](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_12_4NNKT9MX.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
 
-  ![图13 二维铁电机制总览：a)离子位移与电子极化；b)共价键断裂/形成的偶极锁定；c)BN双层几何与铁电翻转路径（层间平移）](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_13_US86QS95.png)
+  ![图13 二维铁电机制总览：a)离子位移与电子极化；b)共价键断裂/形成的偶极锁定；c)BN双层几何与铁电翻转路径（层间平移）](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_13_US86QS95.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 
-  ![图14 二维铁电器件：a)锗烯铁电结/IP异质结/羟基化硅表面铁电PN结；b)In2Se3/graphene与In2Se3/WSe2异质结；c)2D-FTJ（p-MX/MX/n-MX）与In:SnSe/SnSe/Sb:SnSe同质结构的k||分辨透射](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_14_AI3X3IRX.png)
+  ![图14 二维铁电器件：a)锗烯铁电结/IP异质结/羟基化硅表面铁电PN结；b)In2Se3/graphene与In2Se3/WSe2异质结；c)2D-FTJ（p-MX/MX/n-MX）与In:SnSe/SnSe/Sb:SnSe同质结构的k||分辨透射](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_14_AI3X3IRX.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 
-  ![图15 a)MoS2/CuInP2S6铁电场效应晶体管；b)电控平面In2Se3器件；c)基于IP极化的FTJ非易失性存储器（SnTe）](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_15_TLDS8BXM.png)
+  ![图15 a)MoS2/CuInP2S6铁电场效应晶体管；b)电控平面In2Se3器件；c)基于IP极化的FTJ非易失性存储器（SnTe）](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_15_TLDS8BXM.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 
-  ![图16 a)graphene-BTO-SRO与b)MoS2-BTO-SRO隧道结中铁电极化翻转](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_16_S7AWXGMW.png)
+  ![图16 a)graphene-BTO-SRO与b)MoS2-BTO-SRO隧道结中铁电极化翻转](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_16_S7AWXGMW.png) -> [[../figures/electronic-devices|电子与突触器件]]
 
-  ![图17 a)MoS2-PZT FeFET在可见光照射下的光电存储与光学翻转；b)MoSe2 FeFET的器件结构、保持与耐久](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_17_CZC3M8NZ.png)
+  ![图17 a)MoS2-PZT FeFET在可见光照射下的光电存储与光学翻转；b)MoSe2 FeFET的器件结构、保持与耐久](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_17_CZC3M8NZ.png) -> [[../figures/electronic-devices|电子与突触器件]]
 
-  ![图18 a)铁电相GeSe单层Px/Py态能带（谷极化）；b)正/负铁电位移下的Rashba分裂能带；c)LiNbO3铁电衬底对MoS2生长与输运的调控](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_18_BCUNP366.png)
+  ![图18 a)铁电相GeSe单层Px/Py态能带（谷极化）；b)正/负铁电位移下的Rashba分裂能带；c)LiNbO3铁电衬底对MoS2生长与输运的调控](../../raw/figures/guanRecentProgressTwoDimensional2020/fig_18_BCUNP366.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 
-  ![表1 理论预测的二维铁电材料池（含年份、IP/OOP、极化值、厚度、Tc、机制、参考文献）](../../raw/figures/guanRecentProgressTwoDimensional2020/tab_1_C3YX4WQX.png)
+  ![表1 理论预测的二维铁电材料池（含年份、IP/OOP、极化值、厚度、Tc、机制、参考文献）](../../raw/figures/guanRecentProgressTwoDimensional2020/tab_1_C3YX4WQX.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 
-  ![表2 实验证实的二维铁电材料（截至2019年仅六种：CuInP2S6、α-In2Se3、SnTe、WTe2、d1T-MoTe2、BA2PbCl4）](../../raw/figures/guanRecentProgressTwoDimensional2020/tab_2_HICUJFQ6.png)
+  ![表2 实验证实的二维铁电材料（截至2019年仅六种：CuInP2S6、α-In2Se3、SnTe、WTe2、d1T-MoTe2、BA2PbCl4）](../../raw/figures/guanRecentProgressTwoDimensional2020/tab_2_HICUJFQ6.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 
 ## 🔬 项目连接
   - **project-5 SnTe铁电模拟 — core**：SnTe 是本文六大已证实二维铁电体之一（§2.2.3），详述了 Chang et al. *Science* 2016 的关键结果：1 u.c.（0.63 nm）SnTe 在液氦温度下的稳定 IP 自发极化，源于从正方形到平行四边形的轻微晶格畸变（沿 [110] 对角线伸长），相邻畴的伸长对角线互相垂直；STM 条纹畴、跨畴边界傅里叶变换双峰、STS 能带弯曲构成完整证据链；2–4 u.c. SnTe 在室温下仍具鲁棒铁电性；基于此设计的 FeRAM 原型器件 ON/OFF 比高达 3000。综述还把 IV 族碲化物（XTe, X=Si, Ge, Sn）作为整体讨论，指出其相对 IV 族硫族化物的优势是不受奇偶层数限制，并引用了更多 group-IV tellurides 铁电相的理论预测（文献 75, 109）。这对 project-5 的 SnTe 第一性原理模拟直接提供了实验锚点（畸变方向、极化沿 [110]、1 u.c. 仍稳定）、可比材料族（GeTe、SiTe、GeSe、SnS）、以及标准计算流程（DFT+Berry phase 算极化、NEB 算翻转势垒、HSE 算带隙）。
@@ -200,29 +200,35 @@ Zhao Guan, He Hu, Xinwei Shen, Pinghua Xiang, Ni Zhong, Junhao Chu, Chungang Dua
   - **project-3 机械发光NN**：无直接项目连接。
   - **project-6 湿度传感器**：无直接项目连接。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
   文章采用“总—分—总”经典综述结构：引言（尺寸效应痛点）→ 第 2 节材料（先理论预测池再实验证实，凸显“理论多、实验少”的反差）→ 第 3 节方法（计算 recipe + STM/PFM/SHG/TEM 四种实验探针）→ 第 4 节机制（层内键合 vs 层间平移一级分类）→ 第 5 节应用与挑战（FeFET/FTJ/2D-3D 集成/铁电诱导新物理）→ 第 6 节展望。论证主线是“破缺反演对称是二维铁电的必要条件，PFM 是必要但不充分证据，多技术联用才是黄金标准”。
 
   可在 wiki 叙述中复用的中英术语：
-  - *finite-size effect* / *depolarization field* — 有限尺寸效应 / 退极化场
+  - *finite-size effect* / *depolarization field* — 有限尺寸效应 / 退极化场 [[../concepts/depolarization-field|退极化场]]
   - *in-plane (IP) / out-of-plane (OOP) polarization* — 面内 / 面外极化
   - *intralayer bonding vs interlayer translation* — 层内键合 / 层间平移
   - *dipole locking (covalent bond reconstruction)* — 偶极锁定（共价键重构）
   - *electronic polarization (spin-exchange / electron-hole correlation)* — 电子极化（自旋交换/电子-空穴关联）
   - *trimerization / zigzag chain* — 三聚化 / 锯齿链
-  - *ferroelectric metal (Anderson-Blount)* — 铁电金属/极性金属
+  - *ferroelectric metal (Anderson-Blount)* — 铁电金属/极性金属 [[../concepts/polar-metal|极性金属]]
   - *piezoresponse force microscopy (PFM) butterfly loop / phase hysteresis* — PFM 蝴蝶曲线 / 相位迟滞
   - *second harmonic generation (SHG)* — 二次谐波（反演对称破缺探针）
   - *tunneling electroresistance (TER)* — 隧道电致电阻
 
 ## ✏️ 可写入 Wiki 的要点
-  1. **二维铁电突破尺寸效应的物理根源**：传统钙钛矿铁电薄膜厚度低于几到几十纳米时，因长程库仑耦合减弱、退极化场增强、表面重构等失去极化；二维范德华材料层内强共价键、层间弱范德华力、表面无悬挂键，使铁电性可在 1 u.c.（SnTe 0.63 nm、In₂Se₃ 1.2 nm、CuInP₂S₆ 4 nm）下稳定。
+  1. **二维铁电突破[[../concepts/critical-thickness-ferroelectric|尺寸效应]]的物理根源**：传统钙钛矿铁电薄膜厚度低于几到几十纳米时，因长程库仑耦合减弱、[[../concepts/depolarization-field|退极化场]]增强、[[../concepts/surface-reconstruction|表面重构]]等失去极化；二维范德华材料层内强共价键、层间弱范德华力、表面无悬挂键，使[[../concepts/ferroelectricity|铁电性]]可在 1 u.c.（SnTe 0.63 nm、In₂Se₃ 1.2 nm、CuInP₂S₆ 4 nm）下稳定。
   2. **SnTe 的铁电畸变定量化**：1 u.c. SnTe 由正方形畸变为平行四边形，伸长对角线沿 [110] 及其等价方向；相邻畴的对角线相互垂直；极化是面内的；STS 上的能带弯曲方向直接读取极化指向；2–4 u.c. 室温仍稳定；FeRAM 器件 ON/OFF ≈ 3000。
-  3. **α-In₂Se₃ 的偶极锁定**：单层 In₂Se₃ 由 Se-In-Se-In-Se 五原子层构成；中心 Se 层与上下两个 In 层间距不等，同时产生 IP 与 OOP 极化；垂直电场翻转 OOP 极化时，中心 Se 原子横向移动、In-Se 共价键断裂并重建，带动 IP 极化旋转 90°；薄至 3 nm（Xiao PRL 2018）乃至 1.2 nm（Xue AFEM 2018）仍具室温铁电；SHG 与 PFM 联用证实极化锁定；但 In₂Se₃ 的机制在文献中仍存争议（Ding 的极性位移图像 vs Xiao/Cui 的偶极锁定图像）。
+  3. **α-In₂Se₃ 的[[../concepts/dipole-locking|偶极锁定]]**：单层 In₂Se₃ 由 Se-In-Se-In-Se 五原子层构成；中心 Se 层与上下两个 In 层间距不等，同时产生 IP 与 OOP 极化；垂直电场翻转 OOP 极化时，中心 Se 原子横向移动、In-Se 共价键断裂并重建，带动 IP 极化旋转 90°；薄至 3 nm（Xiao PRL 2018）乃至 1.2 nm（Xue AFEM 2018）仍具室温铁电；SHG 与 PFM 联用证实极化锁定；但 In₂Se₃ 的机制在文献中仍存争议（Ding 的极性位移图像 vs Xiao/Cui 的偶极锁定图像）。
   4. **CuInP₂S₆ 是离子位移型铁电**：ABP₂X₆ 型 TMTP 家族，Cu⁺ 在硫八面体空洞中两偏心位置间有序化；反平行偶极排列大幅降低内部退极化场，使其在超薄厚度下稳定；Tc≈315–320 K（室温附近）；4 nm 厚仍可被 PFM 翻转；但 Cu 离子迁移也会产生形貌变化和电化学假信号，是 PFM 判读的警示案例。
-  5. **WTe₂ 是首个实验证实的二维铁电金属**：双层/三层 1T′-WTe₂ 在 350 K 以下呈现电导双稳态，对应两种 OOP 极化；机制被归因于电子-空穴关联而非离子位移（4 K 单层电导对垂直电场几乎无响应；极化在超过自发极化电势和电子-空穴密度补偿点时翻转）；这挑战了“铁电必为绝缘体”的传统认知，上承 Anderson-Blount 1965 年的极性金属设想与 LiOsO₃（2013, 140 K Li 离子沿 [111] 位移）。
-  6. **d1T-MoTe₂ 的三聚化机制**：单层 d1T-MoTe₂ 室温下因 Mo 三聚化（Te 原子向 Mo 面位移约 0.6 Å，Te-Te 距 3.4 Å）打破反演对称而具 IP 铁电；2H 相无 PFM 信号作对照；HRTEM+SHG+PFM 三技术联用确认；是“不正铁电性”的 TMD 代表。
-  7. **机制一级分类框架**：二维铁电机制可按三种方式分类——(i) 按偶极形成位置分为层内键合（结构畸变/离子位移、偶极锁定/共价键重构、电子极化/自旋交换）与层间相互作用（层间平移、BN 类滑移铁电、莫尔超晶格）；(ii) 按载流子分为离子位移和电子极化；(iii) 按键合构型分为离子位移型和共价键型；反演对称破缺是统一必要条件。
-  8. **标准第一性原理计算 recipe**：VASP + PAW + PBE-GGA（或 LDA），带隙用 HSE06；k 点 Monkhorst-Pack；z 方向真空层约 20 Å 消除层间相互作用；NEB 算铁电/铁弹相变翻转势垒；Berry phase（King-Smith & Vanderbilt）算自发极化；强关联体系用 DFT+U；范德华作用用 Lennard-Jones 势。
+  5. **WTe₂ 是首个实验证实的二维[[../concepts/ferroelectric-metal|铁电金属]]**：双层/三层 1T′-WTe₂ 在 350 K 以下呈现电导双稳态，对应两种 OOP 极化；机制被归因于电子-空穴关联而非离子位移（4 K 单层电导对垂直电场几乎无响应；极化在超过自发极化电势和电子-空穴密度补偿点时翻转）；这挑战了“铁电必为绝缘体”的传统认知，上承 Anderson-Blount 1965 年的[[../concepts/polar-metal|极性金属]]设想与 LiOsO₃（2013, 140 K Li 离子沿 [111] 位移）。
+  6. **d1T-MoTe₂ 的[[../concepts/trimerization|三聚化]]机制**：单层 d1T-MoTe₂ 室温下因 Mo 三聚化（Te 原子向 Mo 面位移约 0.6 Å，Te-Te 距 3.4 Å）打破反演对称而具 IP 铁电；2H 相无 PFM 信号作对照；HRTEM+SHG+PFM 三技术联用确认；是“[[../concepts/improper-ferroelectricity|不正铁电性]]”的 TMD 代表。
+  7. **机制一级分类框架**：二维铁电机制可按三种方式分类——(i) 按偶极形成位置分为层内键合（结构畸变/离子位移、偶极锁定/共价键重构、[[../concepts/electronic-polarization|电子极化]]/自旋交换）与层间相互作用（层间平移、BN 类滑移铁电、[[../concepts/moire-superlattice|莫尔[[../concepts/superlattice|超晶格]]]]）；(ii) 按载流子分为离子位移和电子极化；(iii) 按键合构型分为离子位移型和共价键型；[[../concepts/inversion-symmetry-breaking|反演对称破缺]]是统一必要条件。
+  8. **标准第一性原理计算 recipe**：VASP + PAW + PBE-GGA（或 LDA），带隙用 HSE06；k 点 Monkhorst-Pack；z 方向真空层约 20 Å 消除层间相互作用；NEB 算铁电/铁弹相变[[../concepts/switching-barrier|翻转势垒]]；Berry phase（King-Smith & Vanderbilt）算自发极化；强关联体系用 DFT+U；范德华作用用 Lennard-Jones 势。
   9. **PFM 是必要但不充分证据**：PFM 检测电致机械应变，任何引起形变的现象（静电吸引、离子迁移/电化学膨胀、电荷注入、环境影响）都可能产生类铁电相位对比度和蝴蝶曲线；在 CuInP₂S₆ 等离子导体上尤需警惕；必须联合 SHG（验证反演对称破缺）、STEM（直接观察原子位移）、变温/变频对照、非铁电相对照（如 β-In₂Se₃、2H-MoTe₂ 无信号）形成完整证据链。
-  10. **器件与新物理**：已演示的原型包括 SnTe FeRAM（ON/OFF≈3000）、MoS₂/CuInP₂S₆ FeFET（>4 个数量级开关比）、In₂Se₃ 平面二极管、In:SnSe/SnSe/Sb:SnSe 同质结 2D-FTJ（TER≈1460%）、1 u.c. BTO FTJ（TER 370%）、2 u.c. BTO FTJ（TER 2700%）、MoS₂-PZT 光电 FeFET、MoSe₂ FeFET；铁电还能诱导谷极化（GeSe）、Rashba 自旋纹理翻转（GeTe/InP 超晶格）、控制 MoS₂ 在 LiNbO₃ 衬底上的择优生长。BA₂PbCl₄ 等 Ruddlesden-Popper 杂化钙钛矿和 BiFeO₃ 1 u.c. 超薄膜说明传统钙钛矿也能逼近二维极限。
+  10. **器件与新物理**：已演示的原型包括 SnTe FeRAM（ON/OFF≈3000）、MoS₂/CuInP₂S₆ FeFET（>4 个数量级开关比）、In₂Se₃ 平面二极管、In:SnSe/SnSe/Sb:SnSe 同质结 2D-FTJ（TER≈1460%）、1 u.c. BTO FTJ（TER 370%）、2 u.c. BTO FTJ（TER 2700%）、MoS₂-PZT 光电 FeFET、MoSe₂ FeFET；铁电还能诱导谷极化（GeSe）、Rashba [[../concepts/spin-texture|自旋纹理]]翻转（GeTe/InP 超晶格）、控制 MoS₂ 在 LiNbO₃ 衬底上的择优生长。BA₂PbCl₄ 等 Ruddlesden-Popper 杂化钙钛矿和 BiFeO₃ 1 u.c. 超薄膜说明传统钙钛矿也能逼近二维极限。

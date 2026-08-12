@@ -87,7 +87,7 @@ Kubra Sattar, Rabia Tahir, Syedah Afsheen Zahra, Zhenyue Nie, Jing Wang, Houbing
 首次通过 400 °C 真空热处理在自支撑双过渡金属 MXene Mo₂Ti₂C₃Tₓ 薄膜中原位生成金红石 TiO₂/MoO₃ 相并诱导出室温铁电性，以此为活性层、激光还原石墨烯（LSG）为上下电极构筑全柔性 LSG/H-DTM/LSG 三明治忆阻器，实现双极性阻变（开关比 ~10²、耐久 10³ 次、保持 5×10³ s），机理为铁电内电场调控的氧空位导电细丝。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/ferroelectric-memristor|铁电忆阻器]]、[[../concepts/oxygen-vacancy-filament|氧空位导电细丝]]、[[../concepts/resistive-switching-memory|阻变存储器]]、[[../concepts/space-charge-limited-current|空间电荷限制电流（SCLC）]]
+  - 概念 [[../concepts/2D-materials]]、[[../entities/ferroelectric-memristor|铁电忆阻器]]、[[../concepts/oxygen-vacancy-filament|氧空位导电细丝]]、[[../concepts/resistive-switching-memory|阻变存储器]]、[[../concepts/space-charge-limited-current|空间电荷限制电流（SCLC）]]
   - 实体 [[../entities/MXenes]]、[[../entities/Mo2Ti2C3Tx|Mo₂Ti₂C₃Tₓ]]、[[../entities/laser-reduced-graphene|激光还原石墨烯（LSG）]]
   - 图表 [[../figures/electronic-devices]]、[[../figures/crystal-structures]]
   - 年度 [[../write/2025]]
@@ -105,17 +105,26 @@ Kubra Sattar, Rabia Tahir, Syedah Afsheen Zahra, Zhenyue Nie, Jing Wang, Houbing
   - project-6 湿度传感器：无直接项目连接。
   - project-7 CDW：无直接项目连接。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
 文章按"材料制备→物性表征→功能验证→机理分析"经典范式展开：(1) HF 刻蚀 + TMAOH 插层制得自支撑 Mo₂Ti₂C₃Tₓ 薄膜；(2) 400 °C 真空热处理诱导 TiO₂/MoO₃ 氧化相；(3) 用 XRD/FTIR/Raman 三件套确认氧化相，PFM + P-E 回线 + 蝴蝶形 C-V 构成铁电证据链；(4) 制备 LSG/H-DTM/LSG 与对照 LSG/DTM/LSG 器件做 I-V 对比；(5) Log I-Log V 拟合区分 LRS（欧姆，斜率≈1）与 HRS（SCLC，斜率≈2）；(6) 提出铁电内电场辅助氧空位导电细丝模型。值得复用的术语：双过渡金属 MXene（double transition MXene, DTM）；铁电忆阻器（ferroelectric memristor）；阻变存储器（resistive RAM, RRAM）；双极性电阻开关（bipolar resistive switching）；氧空位导电细丝（oxygen vacancy conduction filament）；激光还原石墨烯（laser-scribed/reduced graphene, LSG）；空间电荷限制电流（space-charge-limited current, SCLC）；剩余极化（remnant polarization, Pᵣ）。
 
 ## ✏️ 可写入 Wiki 的要点
-  - 自支撑 Mo₂Ti₂C₃Tₓ 薄膜由 Mo₂Ti₂AlC₃ MAX 相经 HF（1 g MAX + 10 mL HF，500 rpm，96 h，50 °C）刻蚀、25% TMAOH 插层剥离制得；XRD (002) 峰从 7.6°→6.8°→~5°，对应 c-lp 由 23.24 Å 增大到 32 Å（d 间距 16 Å）。
+  - 自支撑 Mo₂Ti₂C₃Tₓ 薄膜由 Mo₂Ti₂AlC₃ [[../concepts/max-phase|MAX 相]]经 HF（1 g MAX + 10 mL HF，500 rpm，96 h，50 °C）刻蚀、25% TMAOH 插层剥离制得；XRD (002) 峰从 7.6°→6.8°→~5°，对应 c-lp 由 23.24 Å 增大到 32 Å（d 间距 16 Å）。
   - 400 °C 真空热处理后 (002) 峰仍保留，但 12°/30°/35° 出现弱峰，归属为金红石/锐钛矿 TiO₂ 与 MoO₃；FTIR 出现 Ti–O（618、1425 cm⁻¹）和 Mo–O（867、1164 cm⁻¹）峰；Raman 新增 146、330 cm⁻¹（TiO₂）与 816、986 cm⁻¹（MoO₃ 的 Mo–O–Mo 与 Mo=O）。
-  - 原始 Mo₂Ti₂C₃Tₓ 的 P-E 曲线为类圆形损耗型、无滞回；热处理后呈现典型饱和电滞回线，Pᵣ 随电压（5→500 V）增大而增大、随频率升高而减小（畴壁与可动电荷响应变慢）；C-V 呈蝴蝶形，三者共同证实室温铁电性。
-  - PFM（Bruker IconIR，探针 2.8 N/m、75 kHz，0.4 Hz、2 V_AC）在 1.5 μm 扫描区观察到不规则、小尺寸的 OOP/IP 铁电畴衬度；薄膜表面起伏约 240 nm。
+  - 原始 Mo₂Ti₂C₃Tₓ 的 P-E 曲线为类圆形损耗型、无滞回；热处理后呈现典型饱和电滞回线，Pᵣ 随电压（5→500 V）增大而增大、随频率升高而减小（畴壁与可动电荷响应变慢）；C-V 呈蝴蝶形，三者共同证实室温[[../concepts/ferroelectricity|铁电性]]。
+  - PFM（Bruker IconIR，探针 2.8 N/m、75 kHz，0.4 Hz、2 V_AC）在 1.5 μm 扫描区观察到不规则、小尺寸的 OOP/IP [[../concepts/ferroelectric-domain|铁电畴]]衬度；薄膜表面起伏约 240 nm。
   - 器件结构 LSG/H-DTM/LSG（活性层 ~40 μm 厚，0.2×0.2 cm²；LSG 电极 0.5×0.5 cm²，Nafion 粘结），对照 LSG/DTM/LSG 仅呈线性欧姆响应、无开关；热处理器件在 ±4 V 窗口下双极性开关，SET ≈ +1.8 V、RESET ≈ −1.7 V。
   - 开关比 R_off/R_on ≈ 10²；直流扫描耐久 10³ 次循环、保持 5×10³ s（~83 min）；LRS 的 Log I–Log V 斜率 ≈1（欧姆传导，细丝形成），HRS 斜率 ≈2（Child 平方律，SCLC，细丝断裂）。
-  - 机理：TiO₂/MoO₃ 提供高浓度氧空位 Vₒ；铁电极化束缚电荷产生的内电场使 Vₒ 沿特定方向漂移，与 MXene 金属性自由载流子协同从底电极生长成连续细丝（SET/LRS），反向偏压下 Vₒ 回迁使细丝断裂（RESET/HRS）；空间电荷场与铁电极化场同向耦合→增强导通，反向→增强陷阱捕获→HRS。
-  - LSG 电极由 GO 自支撑薄膜（700 rpm 旋涂）经激光雕刻机（900 mm/min）直接光热还原制得；GO 在 11° 的 (001) 尖峰激光处理后消失、25° 出现宽化 rGO 峰，避免了传统金属电极的离子扩散与漏电流问题。
+  - 机理：TiO₂/MoO₃ 提供高浓度[[../concepts/oxygen-vacancy|氧空位]] Vₒ；铁电极化束缚电荷产生的内电场使 Vₒ 沿特定方向漂移，与 MXene 金属性自由载流子协同从底电极生长成连续细丝（SET/LRS），反向偏压下 Vₒ 回迁使细丝断裂（RESET/HRS）；空间电荷场与铁电极化场同向耦合→增强导通，反向→增强陷阱捕获→HRS。
+  - LSG 电极由 GO [[../concepts/free-standing-film|自支撑薄膜]]（700 rpm 旋涂）经激光雕刻机（900 mm/min）直接光热还原制得；GO 在 11° 的 (001) 尖峰激光处理后消失、25° 出现宽化 rGO 峰，避免了传统金属电极的离子扩散与漏电流问题。
   - 作者自身指出的局限与批判点：铁电性归因于金红石 TiO₂，但块体金红石通常顺电，真实来源可能涉及应变/界面；MoO₃ 在阻变中的角色未厘清；Nafion（质子导体）对总电阻/开关速度的贡献未排除；缺少弯曲半径-次数定量柔性数据、器件均一性统计与导电细丝的原位 TEM 直接观测；XPS 数据"另行发表"。
-  - 该工作与同组 Fatima/Tahir 等的全 MXene 铁电存储器（Mo₂TiC₂Tₓ/FE-Ti₃C₂Tₓ/Mo₂TiC₂Tₓ, APL 2023）、Sattar 等 FE-MXene/BiFeO₃ 自支撑忆阻器（Carbon 221, 2024）构成"热处理诱导 MXene 铁电→铁电 MXene 忆阻器"系列，可在 MXenes 实体条目中串联。
+  - 该工作与同组 Fatima/Tahir 等的全 MXene 铁电存储器（Mo₂TiC₂Tₓ/FE-Ti₃C₂Tₓ/Mo₂TiC₂Tₓ, APL 2023）、Sattar 等 FE-MXene/BiFeO₃ 自支撑[[../concepts/memristor|忆阻器]]（Carbon 221, 2024）构成"热处理诱导 MXene 铁电→铁电 MXene 忆阻器"系列，可在 MXenes 实体条目中串联。

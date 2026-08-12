@@ -28,13 +28,13 @@ $$E_{total} = \sum (n_i \cdot E_{block, i})$$
 
 基于该理论预测的 **TT (Transition structure)** 构型：
 - **构成**：结合了四面体与三角形构建块。
-- **性能**：在多种 III-V 材料中被证明比以往预测的平面六角形更稳，且在 [[../../entities/GaSb|GaSb]] 中实现了纪录级的迁移率。
+- **性能**：在多种 III-V 材料中被证明比以往预测的平面六角形更稳，且在 [[../entities/GaSb|GaSb]] 中实现了纪录级的迁移率。
 
 ## 4. 相关实体
-- [[../../entities/GaAs|GaAs]]
-- [[../../entities/GaSb|GaSb]]
-- [[../../entities/BAs|BAs]]
-- [[../../entities/InSb|InSb]]
+- [[../entities/GaAs|GaAs]]
+- [[../entities/GaSb|GaSb]]
+- [[../entities/BAs|BAs]]
+- [[../entities/InSb|InSb]]
 
 ## 5. 相关概念
 - [[electron-counting-rule|电子计数规则 (ECR)]]

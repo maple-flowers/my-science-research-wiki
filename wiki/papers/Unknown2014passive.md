@@ -12,10 +12,11 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Unknown2014passive]]
 projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
-concepts: []
+concepts: [two-photon-polymerization, two-photon-absorption, biphoton, photoinitiator, polymer-phase-separation, monolithic-integration]
 entities: []
 methods: [device-i-v, eam, stm-mbe]
-materials: []
+materials:
+  - PDMS
 figures: []
 领域基础知识:: >-
   微流控芯片涉及微米尺度通道内流体控制，其流动多为低雷诺数层流，混合主要依赖分子扩散，效率极低。被动混合通过几何结构扰动流线，无需外部能量；双光子聚合（TPP）是一种飞秒激光直写技术，可制造任意三维微纳结构，精度高。
@@ -101,9 +102,18 @@ Yi-Jui Liu, Po-Yu Chen, Jiun-Yi Yang, Chingfu Tsou, Yi-Hsiung Lee, Patrice Balde
   - **project-6 湿度传感器**：无直接项目连接。本文"passive"指无源流体混合（无需外部能量驱动），与无源/被动湿度传感器的物理机制无关；研究对象是微通道内液体混合（乙醇/墨水、层流、雷诺数、Z向流线），不涉及水汽吸附、阻抗变化或传感材料。唯一勉强的间接联系是TPP可作为三维微结构的通用加工手段，若未来传感器需要复杂三维微结构可借鉴其工艺，但本文本身不提供任何湿度传感相关机制或数据。
   - **project-7 CDW**：无直接项目连接。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
 论文遵循"问题提出→设计与制造→实验验证→仿真机理解释"的经典工程研究范式。引言部分先建立微流控层流混合难题的背景，对比主动/被动混合优劣，指出二维障碍物的局限和堵塞风险，从而引出TPP原位三维制造方案；方法部分按TPP系统、PDMS通道、混合器加工三个子节递进；结果部分先演示混合实验并定义混合指数，再对比四种结构，最后用COMSOL仿真揭示Z向流线机理；结论简短回扣三维扰动增强混合的核心主张。值得复用的关键词/术语：
-  - 双光子聚合（Two-Photon Polymerization, TPP）
+  - 双光子聚合 [[../concepts/two-photon-polymerization|双光子聚合]]（Two-Photon Polymerization, TPP）
   - 被动微混合器（passive micromixer）
   - 层流（laminar flow）/ 低雷诺数（low Reynolds number）
   - 混沌对流（chaotic advection）
@@ -113,13 +123,13 @@ Yi-Jui Liu, Po-Yu Chen, Jiun-Yi Yang, Chingfu Tsou, Yi-Hsiung Lee, Patrice Balde
   - 原位三维制造（in-situ 3-D fabrication）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. TPP系统核心参数：被动调Q Nd:YAG微片激光器波长532 nm，100×油浸物镜NA=1.3，PZT三维纳米定位台控制扫描轨迹，利用双光子吸收的非线性阈值特性使聚合仅发生在焦点极小体素内，可在已键合的透明PDMS通道内原位写入三维结构。
+  1. TPP系统核心参数：被动调Q Nd:YAG微片激光器波长532 nm，100×油浸物镜NA=1.3，PZT三维纳米定位台控制扫描轨迹，利用[[../concepts/two-photon-absorption|[[../concepts/biphoton|双光子]]吸收]]的非线性阈值特性使聚合仅发生在焦点极小体素内，可在已键合的透明PDMS通道内原位写入三维结构。
   2. 微通道设计：Y形PDMS通道，主通道宽80 μm、深25 μm，两分支宽35 μm、夹角120°，PDMS与玻璃经氧等离子体处理后永久键合。
   3. 混合器几何：三叶螺旋桨，外径φ=37 μm（略小于通道半宽80 μm，不触壁），叶片尺寸5 μm×15 μm、厚5 μm、间距20 μm；螺旋形桨叶相对平面桨叶的唯一区别是叶片沿轴向扭转，引入Z向高度变化。
-  4. 材料：商用光敏树脂Photomer 3015（Henkel）+光引发剂，95%乙醇显影溶解未聚合树脂。
+  4. 材料：商用光敏树脂Photomer 3015（Henkel）+[[../concepts/photoinitiator|光引发剂]]，95%乙醇显影溶解未聚合树脂。
   5. 混合指数公式：I = 1 − (1/N)·Σ√[((c_k − c̄)/c̄)²] × 100%，其中c_k为像素k的颜色强度，c̄为采样区域N个像素平均值；完全未混合时I≈100%，完全均匀时I=0。
   6. 定量对比结果（12 μl/min流量，混合器位于汇合点下游400 μm，测量区在700 μm处）：圆柱混合指数~78%、菱形柱~60%、平面桨叶~40%、螺旋形桨叶~20%（即混合效率>80%）。
   7. 机理解释：圆柱和菱形柱仅产生XY平面内绕流，平面桨叶Z向扰动极弱；螺旋形桨叶的螺旋面迫使流体获得Z向速度分量，在通道厚度方向形成螺旋流线，通过三维拉伸折叠大幅增加流体界面面积与浓度梯度，将混合从纯分子扩散提升为混沌对流主导。
   8. 单级结构即可达到>80%混合效率，无需密集障碍物阵列，有利于降低压降与堵塞风险。
   9. 论文局限性：仅测试单一流量（12 μl/min），未考察Re/Pe数变化影响；仅用乙醇/墨水模型流体，未做生物样品验证；未报告压降；未测量结构力学耐久性（5 μm厚叶片在持续剪切下的可靠性）；仿真缺少micro-PIV实验流场验证；未与鱼骨形、蛇形等经典高性能被动混合器横向对比。
-  10. TPP方法论意义：验证了在预封装微通道内原位制造任意三维聚合物微结构的可行性，为微阀、微泵、细胞支架、微透镜等多功能单片集成元件的制造提供了工艺路径。
+  10. TPP方法论意义：验证了在预封装微通道内原位制造任意三维[[../concepts/polymer-phase-separation|聚合物]]微结构的可行性，为微阀、微泵、细胞支架、微透镜等多功能[[../concepts/monolithic-integration|单片集成]]元件的制造提供了工艺路径。

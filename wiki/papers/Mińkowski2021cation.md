@@ -122,6 +122,15 @@ Marcin Mińkowski, Kerstin Hummer, Christoph Dellago et al.，2021，*Journal of
   - **project-6 湿度传感器**：无直接项目连接。
   - **project-7 CDW**：无直接项目连接。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
 论文按"应用背景（PbTe/CdTe 量子点形态演化）→ 体系晶体学（岩盐矿 vs 闪锌矿、间隙位等价性）→ 方法三部曲（VASP/PBEsol 生成参考数据、n2p2 训练 NNP、LAMMPS MD）→ 结果（NNP 误差、MSD 与块平均、总 D 的 Arrhenius 拟合、轨迹可视化识别两种机制、分机制速率拟合、双机制模型重拟合）→ 与实验/NEB 对比 → 结论与跨界面展望"线性展开。论证的关键转折是：总 Arrhenius 图略微弯曲 → 轨迹分析发现跳跃/交换两机制 → 分别统计速率并拟合活化能 → 用两项之和重拟合总 D 成功复现弯曲，形成闭环。方法严谨性体现在：三个独立随机种子训练 NNP 交叉验证、迭代式主动学习消除外推、块平均量化统计误差、用"原子 ID 是否改变 + 连续 10 步"判据区分交换与涨落。值得复用的术语：
   - neural network potential (NNP) — 神经网络势

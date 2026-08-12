@@ -19,4 +19,9 @@ In high-viscosity environments or restricted geometries, DCS manifests a rare "t
 3.  **Exciplex State (E-band)**: A transient charge-transfer complex formed between an excited DCS molecule and a ground-state neighbor, appearing as a broad, red-shifted emission band.
 
 ### Physical Characteristics and Synthesis
-Synthetically, DCS is accessible via Wittig-Horner condensation between 2,5-dicyano-benzyl phosphonate and 4-aminobenzaldehyde derivatives [[../papers/Huang2019solvatochromic]]. The resulting materials typically exist as crystalline powders with high thermal stability (melting points >200 °C). The balance between the planarity of the stilbene backbone and the rotational degrees of freedom of the donor/acceptor substituents defines the complex photophysics of the DCS entity.
+Synthetically, DCS is accessible via Wittig-Horner condensation between 2,5-dicyano-benzyl phosphonate and 4-aminobenzaldehyde derivatives [[../papers/Huang2019solvatochromic]]. The resulting materials typically exist as crystalline powders with high thermal stability (melting points >200 °C). The balance between the planarity of the stilbene backbone and the rotational degrees of freedom of the donor/acceptor substituents defines the complex photophysics of the DCS entity. This dicyanostilbene scaffold was previously used by the authors for metal-ion two-photon fluorescence (TPF) probe design [[../papers/H2017fluorescence]].
+
+## Related Papers
+
+- [[../papers/Huang2019solvatochromic]]
+- [[../papers/H2017fluorescence]]

@@ -10,7 +10,7 @@ ABP2X6 家族是一类具有低对称性的层状范德华材料，属于过渡�
 ABP2X6 家族的结构特征是由 [P₂X₆]⁴⁻ 单元构成的骨架，金属阳离子 A 和 B 填充在由 X 原子形成的八面体间隙中。与高对称性的 MPX₃ 体系（如 MnPS₃, P31m）不同，ABP2X6 由于 A 和 B 位原子的占据规律及位移，通常表现出更低的对称性（如 monoclinic $Cc$ 或 triclinic $P1$） [[../papers/laiTwodimensionalFerromagnetismDriven2019]]。
 
 其铁电性的起源具有多样性：
-1. **离子位移机制**：以 [[../concepts/cips-cu-in-p2s6]] (CIPS) 和 [[../entities/cu-crp2s6]] (CCPS) 为代表，极化主要来源于 A 位阳离子（如 Cu⁺）沿 c 轴向范德华间隙的偏心位移。
+1. **离子位移机制**：以 [[../concepts/cips-cu-in-p2s6]] (CIPS) 和 [[../entities/CuCrP2S6]] (CCPS) 为代表，极化主要来源于 A 位阳离子（如 Cu⁺）沿 c 轴向范德华间隙的偏心位移。
 2. **原子翘曲机制**：在 Sc₂P₂Se₆ 等体系中，极化来源于 P₂ 单元相对于 Se 平面的垂直翘曲，这种机制不依赖于传统的 $d^0$ 规则 [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]]。
 
 ## 相锁定的物理特性 (Phase-Locked Properties)
@@ -26,7 +26,7 @@ ABP2X6 家族的一个显著特点是存在多种能量极其接近的极性相�
 ## 代表性成员与物性
 | 材料 | 极性起源 | 磁性 | 关键特性 |
 | :--- | :--- | :--- | :--- |
-| [[../entities/cu-crp2s6]] | Cu⁺ 位移 | FM (少层) | I 型多铁、三重锁定机制 |
+| [[../entities/CuCrP2S6]] | Cu⁺ 位移 | FM (少层) | I 型多铁、三重锁定机制 |
 | [[../concepts/cips-cu-in-p2s6]] | Cu⁺ 位移 | 无 | 负压电性、离子导电耦合 |
 | [[../concepts/cipse-cu-in-p2se6]] | Cu⁺ 位移 | 无 | FE/AFE 畴壁压电增强 |
 | AgVP₂Se₆ | Ag⁺ 位移 | FM | 预测的面内极化多铁体 |

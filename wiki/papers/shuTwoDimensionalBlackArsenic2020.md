@@ -103,24 +103,27 @@ Yiqing Shu, Jia Guo, Taojian Fan 等，2020，ACS Applied Materials & Interfaces
   - `mode-locked-fiber-laser`（概念）：锁模光纤激光器，利用可饱和吸收体在环形腔内产生超短孤子脉冲
   - `electron-hole-recombination`（概念）：电子-空穴复合速率，决定半导体饱和吸收体的饱和强度和调制深度
 ## 📊 关键图表
-  - ![图1 LPE制备流程与b-AsP晶体结构](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_1_CK9CPM5I.png)
-  - ![图2 SEM/TEM/HRTEM/SAED/AFM/Raman 形貌与结构表征](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_2_3F3W8NM9.png)
-  - ![图3 UV-vis-NIR 线性吸收光谱与 XPS 元素分析](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_3_TJ7DXYBR.png)
-  - ![图4 开孔 Z 扫描曲线及透射率-光强拟合](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_4_MSPUKV32.png)
-  - ![图5 块体 b-P 与 b-AsP 的 DFT 能带结构](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_5_MVYKWDCC.png)
-  - ![图6 VBM/CBM 部分电荷密度分布](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_6_LNFE9U8X.png)
-  - ![图7 EDF/TDF 光纤激光器环形腔装置示意图](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_7_XLTSTL6I.png)
-  - ![图8 1.5 μm EDF 锁模激光输出特性](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_8_4BIKEVDR.png)
-  - ![图9 2 μm TDF 锁模激光输出特性](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_9_VN5J8H2G.png)
-  - ![公式1 Z扫描透射率公式](../../raw/figures/shuTwoDimensionalBlackArsenic2020/eq_1_HSKRPJHL.png)
-  - ![公式2 单光子吸收模型](../../raw/figures/shuTwoDimensionalBlackArsenic2020/eq_2_YHEALJHC.png)
-  - ![公式3 时间带宽积公式](../../raw/figures/shuTwoDimensionalBlackArsenic2020/eq_3_CZVDUUZZ.png)
-  - ![表1 不同波长下 b-AsP 的 NLO 参数](../../raw/figures/shuTwoDimensionalBlackArsenic2020/tab_1_SLJ4WQKY.png)
-  - ![表2 不同 NLO 材料在 2 μm 处 β 与 Is 对比](../../raw/figures/shuTwoDimensionalBlackArsenic2020/tab_2_C4VVZ55R.png)
-  - ![表3 不同 NLO 材料 2 μm 锁模光纤激光器性能对比](../../raw/figures/shuTwoDimensionalBlackArsenic2020/tab_3_RQ4AGITH.png)
+  - ![图1 LPE制备流程与b-AsP晶体结构](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_1_CK9CPM5I.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图2 SEM/TEM/HRTEM/SAED/AFM/Raman 形貌与结构表征](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_2_3F3W8NM9.png) -> [[../figures/vibrational-spectra|振动能谱与声子谱]]
+  - ![图3 UV-vis-NIR 线性吸收光谱与 XPS 元素分析](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_3_TJ7DXYBR.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图4 开孔 Z 扫描曲线及透射率-光强拟合](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_4_MSPUKV32.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图5 块体 b-P 与 b-AsP 的 DFT 能带结构](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_5_MVYKWDCC.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图6 VBM/CBM 部分电荷密度分布](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_6_LNFE9U8X.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图7 EDF/TDF 光纤激光器环形腔装置示意图](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_7_XLTSTL6I.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图8 1.5 μm EDF 锁模激光输出特性](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_8_4BIKEVDR.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![图9 2 μm TDF 锁模激光输出特性](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_9_VN5J8H2G.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![公式1 Z扫描透射率公式](../../raw/figures/shuTwoDimensionalBlackArsenic2020/eq_1_HSKRPJHL.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式2 单光子吸收模型](../../raw/figures/shuTwoDimensionalBlackArsenic2020/eq_2_YHEALJHC.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式3 时间带宽积公式](../../raw/figures/shuTwoDimensionalBlackArsenic2020/eq_3_CZVDUUZZ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![表1 不同波长下 b-AsP 的 NLO 参数](../../raw/figures/shuTwoDimensionalBlackArsenic2020/tab_1_SLJ4WQKY.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![表2 不同 NLO 材料在 2 μm 处 β 与 Is 对比](../../raw/figures/shuTwoDimensionalBlackArsenic2020/tab_2_C4VVZ55R.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![表3 不同 NLO 材料 2 μm 锁模光纤激光器性能对比](../../raw/figures/shuTwoDimensionalBlackArsenic2020/tab_3_RQ4AGITH.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
 ## 🔬 项目连接
   - **project-1（双光子）— weak**：本文使用开孔 Z 扫描技术测量非线性吸收系数，与双光子吸收研究中常用的 Z 扫描表征方法共享同一实验手段和数据拟合框架（T(z) 公式、单光子吸收模型）。但本文测量的是可饱和吸收（β < 0），与双光子吸收（β > 0）物理过程相反，仅在方法学层面有参考价值，材料和机理无直接关联。
   - project-2 / project-3 / project-4 / project-5 / project-6 / project-7：无直接项目连接。本文虽使用 DFT（PBE 泛函）计算能带结构和电荷密度，但研究对象（b-AsP 非线性光学）与上述项目的核心材料体系（Mn 多铁、TTF 分子、SnTe 铁电等）和物理问题差异较大，不构成有意义的参考。
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+
 ## 📝 组织与用词
 文章按"材料制备 → 结构表征 → 线性/非线性光学测量 → DFT 理论解释 → 光纤激光器器件验证"的经典材料科学闭环组织。论证链条为：DFT 揭示小带隙+电荷分离+破缺对称 → 低电子-空穴复合率 → 低饱和强度 → 高性能锁模脉冲。值得复用的术语：
   - [[../concepts/saturable-absorber|saturable absorber]]（可饱和吸收体，SA）
@@ -135,11 +138,11 @@ Yiqing Shu, Jia Guo, Taojian Fan 等，2020，ACS Applied Materials & Interfaces
   - liquid-phase exfoliation（液相剥离法，LPE）
   - [[../concepts/exfoliation-energy|exfoliation-energy]]
 ## ✏️ 可写入 Wiki 的要点
-  1. b-AsP 是 V 族二元二维合金，As:P ≈ 0.2:0.8，正交晶系褶皱蜂窝晶格，带隙可在 0.15-0.3 eV（对应 4.13-8.27 μm）范围内调节，填补石墨烯（零带隙）与黑磷（0.3-2.2 eV）之间的长波红外空白。
+  1. b-AsP 是 V 族二元二维合金，As:P ≈ 0.2:0.8，正交晶系褶皱蜂窝晶格，带隙可在 0.15-0.3 eV（对应 4.13-8.27 μm）范围内调节，填补[[../entitys/graphene|石墨烯]]（零带隙）与黑磷（0.3-2.2 eV）之间的长波红外空白。
   2. LPE 制备的 b-AsP 纳米片平均厚度约 5 nm，Raman 特征峰为 Ag1、B2g、Ag2；低频区（200-300 cm⁻¹）弱峰归因为 As 振动，高频区（300-500 cm⁻¹）归因为 P-P/As-P 键合。
   3. Z 扫描测得 1800 nm 处 β = -0.23 cm/GW，Is = 3.336 GW/cm²，Ts = 10.45%；Is 比石墨烯（25.4 GW/cm²）和黑磷（58.2 GW/cm²）低近一个数量级。
-  4. DFT（PBE 泛函）计算块体 b-AsP 带隙 0.0915 eV，远小于块体 b-P 的 0.2737 eV；HSE 泛函因严重高估带隙而未采用。
-  5. b-AsP 低饱和强度的三个微观机制：(a) 带隙小→激子结合能低→复合慢；(b) VBM 与 CBM 电荷密度在实空间分离→电子空穴空间隔离；(c) As 掺杂打破结构对称性→内建电场阻碍复合。
+  4. DFT（[[../concepts/pbe-functional|PBE 泛函]]）计算块体 b-AsP 带隙 0.0915 eV，远小于块体 b-P 的 0.2737 eV；HSE 泛函因严重高估带隙而未采用。
+  5. b-AsP 低饱和强度的三个微观机制：(a) 带隙小→[[../concepts/exciton-binding-energy|激子结合能]]低→复合慢；(b) VBM 与 CBM [[../concepts/charge-density|电荷密度]]在实空间分离→电子空穴空间隔离；(c) As 掺杂打破结构对称性→内建电场阻碍复合。
   6. 1.5 μm EDF 锁模结果：中心波长 1564.52 nm，3 dB 带宽 3.63 nm，脉宽 828 fs（Sech² 拟合），重频 8.49 MHz，SNR ≈ 61 dB，TBP ≈ 0.366，最大输出 7.97 mW（泵浦 300 mW，斜率效率 2.9%）。
   7. 2 μm TDF 锁模结果：中心波长 1888.42 nm，3 dB 带宽 1.59 nm，脉宽 2.49 ps，重频 6.09 MHz，SNR ≈ 68.8 dB，TBP ≈ 0.332，最大输出 35.5 mW（斜率效率 3.5%），光谱具典型 Kelly 边带。
   8. 移除 b-AsP SA 后无论如何调节偏振控制器均无锁模脉冲，证实 b-AsP 是锁模的关键因素；7 小时光谱监测无畸变，基频下无脉冲爆发和谐波锁模。

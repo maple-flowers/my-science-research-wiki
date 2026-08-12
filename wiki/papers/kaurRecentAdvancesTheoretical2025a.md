@@ -201,38 +201,38 @@ Arneet Kaur, Abir De Sarkar，2025，*Journal of Physics: Condensed Matter* 37, 
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]、[[../projects/project-7-cdw-charge-density-wave]]、[[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-1-two-photon]]
   - 相关论文 [[../../raw/note/kaurRecentAdvancesTheoretical2025a]]
 ## 📊 关键图表
-  - 图1 h-BN 双层滑动铁电原理、GPRI/LPRI 与 DFT 势降对比、莫尔畴壁 ![h-BN sliding FE and GPRI](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_1_AU76XCXF.png)
-  - 图2 层间距/应变对 h-BN 极化、负泊松比与负压电性的影响 ![interlayer spacing and strain](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_2_WXXKXBRL.png)
-  - 图3 N-pz 轨道畸变、电场调化极化与 NEB 能垒、三态翻转 ![orbital distortion and E-field](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_3_4WK7RC3W.png)
-  - 图4 DREAM/Allegro MLIP 预测 Tc≈1500 K、倾斜电场降低矫顽场、恒定 24° 倾角 ![MLIP Tc and inclined E](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_4_KNAMQJ9W.png)
-  - 图5 THz 激光 3–4 ps 超快翻转、动态多铁性感生磁场 12 nT ![laser-induced switching](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_5_6I78ZK76.png)
-  - 图6 Td-WTe2 双层 0.6 meV 能垒、双阱势、自旋织构反转、自旋 FET 设计 ![WTe2 bilayer](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_6_K9RVARA2.png)
-  - 图7 III–V/IV 族二元双层 (BP, GaN, GeC)：极化与电负性比/有效距离关系、GeC 为唯一全局极性基态 ![binary bilayers](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_7_5ZKSFJXQ.png)
-  - 图8 Janus TMD (SeMoS/TeMoS)：内建电场比压缩层间距更能提升极化而不显著升能垒；MoS2/WS2 异质双层 ![Janus TMDs](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_8_PHYF2JFI.png)
-  - 图9 层极化自旋霍尔效应 (LP-SHE)、Berry 曲率、MoTe2/MoS2 应变调控 ![LP-SHE](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_9_AVZKMT9S.png)
-  - 图10 1T′-ReS2 多层：A/A′ 双稳态、电荷转移、极化/能垒随层数上升 ![ReS2 multilayers](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_10_739TUGAA.png)
-  - 图11 MoSi2N4/MoGe2N4 双层：层分辨 VBM/CBM、莫尔 II 型量子点阵列 ![MoSi2N4](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_11_BNEYWJCN.png)
-  - 图12 HgI2 双层：双阱、屏蔽电荷积分求极化、Rashba 自旋织构、室温稳定 ![HgI2](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_12_5DRMFEUA.png)
-  - 图13 GeS2/CuInP2S6：位移铁电+滑动铁电四/六态耦合、莫尔极化织构、0.7 TB/cm² 存储密度 ![GeS2-CIPS](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_13_Q2ZT9TYR.png)
-  - 图14 跨层滑动铁电：h-BN/石墨烯/h-BN；苯分子层/石墨烯/h-BN 达 10⁴ Tbit/in² ![across-layer SF](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_14_EU6ERPYG.png)
-  - 图15 四层/多层石墨烯极性堆垛 (ABAC, CABA, CBAB)、滑动莫尔铁电性、平带 ![graphene multilayers](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_15_7HMHTA47.png)
-  - 图16 1-uc BaTiO3/SnS：二维/三维杂化稳定超薄铁电，Néel 点、Bloch 涡旋、联合扭转-滑动 ![BTO-SnS](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_16_MI7YCSTX.png)
-  - 图17 3R-VS2 多铁：四种 P-M 构型、Berry 曲率随电场、AFM↔FM、线性/二阶磁电系数、四态控制 ![VS2 multiferroic](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_17_GCQLXFUN.png)
-  - 图18 ZrI2：T0/1T′/Td 相、声子虚频、双阱、六逻辑态多铁、头对头畴壁金属性与 0.24 eV 势差 ![ZrI2](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_18_TT3NFJTQ.png)
-  - 图19 2H-MnBi2Te4 双层：滑动切换磁序与拓扑（陈数），层间 Te-pz 耦合 ![MnBi2Te4 bilayer](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_19_PFJF35FL.png)
-  - 图20 四层 MnBi2Te4：破 P 对称的铁电 QAH 绝缘体，σxy=±e²/h，陈数随层间距变化 ![FE-QAH FLMBT](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_20_MSGL9MAG.png)
-  - 图21 CrI3、Cr2Ge2Te6、Fe3GeTe2 双层反平行/平行堆垛的滑动铁电与"压电多铁效应" ![magnetic bilayers](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_21_7MRZGUTM.png)
-  - 图22 MnSe 双层：2.7 pC/m 极化、电控塞曼劈裂、8 mμB/胞净磁矩、应变与空穴掺杂协同 ![MnSe multiferroic](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_22_3BZPZSMY.png)
-  - 图23 VI2：自旋螺旋序诱导的非位移铁电、滑动-螺旋手性锁定、SOC 依赖 ![VI2 spin spiral](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_23_IQTNM2V2.png)
-  - 图24 CrI3/MnSe2 异质双层：紧束缚+DFT 揭示磁序可反转层间电子极化，非易失磁电耦合 ![CrI3-MnSe2](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_24_TLD45LIJ.png)
-  - 图25 SnS2/MnPSe3/SnS2：滑动打破 PT 对称诱导交变磁性，两条翻转路径与能垒 ![SnS2-MnPSe3](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_25_Y6TELKJU.png)
-  - 图26 SnS2/MnPSe3/SnS2：Mn 周围电荷耗尽、交变磁体能带劈裂 ![altermagnetic bands](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_26_WRL54Q7E.png)
-  - 图27 PtBr3：AA′/AB′/AC′ 堆垛、晶体霍尔效应、MOKE 克尔角与椭偏率随 ±P 反转 ![PtBr3 altermagnet](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_27_UMBP4VUW.png)
-  - 图28 全部滑动铁电双层的"极化–能垒"性能地图（理想区：右下，高极化低能垒），绿色为多铁材料 ![polarization-barrier map](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_28_5ICIG7NK.png)
+  - 图1 h-BN 双层滑动铁电原理、GPRI/LPRI 与 DFT 势降对比、莫尔畴壁 ![h-BN sliding FE and GPRI](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_1_AU76XCXF.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图2 层间距/应变对 h-BN 极化、负泊松比与负压电性的影响 ![interlayer spacing and strain](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_2_WXXKXBRL.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图3 N-pz 轨道畸变、电场调化极化与 NEB 能垒、三态翻转 ![orbital distortion and E-field](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_3_4WK7RC3W.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图4 DREAM/Allegro MLIP 预测 Tc≈1500 K、倾斜电场降低矫顽场、恒定 24° 倾角 ![MLIP Tc and inclined E](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_4_KNAMQJ9W.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图5 THz 激光 3–4 ps 超快翻转、动态多铁性感生磁场 12 nT ![laser-induced switching](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_5_6I78ZK76.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图6 Td-WTe2 双层 0.6 meV 能垒、双阱势、自旋织构反转、自旋 FET 设计 ![WTe2 bilayer](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_6_K9RVARA2.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图7 III–V/IV 族二元双层 (BP, GaN, GeC)：极化与电负性比/有效距离关系、GeC 为唯一全局极性基态 ![binary bilayers](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_7_5ZKSFJXQ.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图8 Janus TMD (SeMoS/TeMoS)：内建电场比压缩层间距更能提升极化而不显著升能垒；MoS2/WS2 异质双层 ![Janus TMDs](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_8_PHYF2JFI.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图9 层极化自旋霍尔效应 (LP-SHE)、Berry 曲率、MoTe2/MoS2 应变调控 ![LP-SHE](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_9_AVZKMT9S.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图10 1T′-ReS2 多层：A/A′ 双稳态、电荷转移、极化/能垒随层数上升 ![ReS2 multilayers](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_10_739TUGAA.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图11 MoSi2N4/MoGe2N4 双层：层分辨 VBM/CBM、莫尔 II 型量子点阵列 ![MoSi2N4](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_11_BNEYWJCN.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图12 HgI2 双层：双阱、屏蔽电荷积分求极化、Rashba 自旋织构、室温稳定 ![HgI2](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_12_5DRMFEUA.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图13 GeS2/CuInP2S6：位移铁电+滑动铁电四/六态耦合、莫尔极化织构、0.7 TB/cm² 存储密度 ![GeS2-CIPS](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_13_Q2ZT9TYR.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图14 跨层滑动铁电：h-BN/石墨烯/h-BN；苯分子层/石墨烯/h-BN 达 10⁴ Tbit/in² ![across-layer SF](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_14_EU6ERPYG.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图15 四层/多层石墨烯极性堆垛 (ABAC, CABA, CBAB)、滑动莫尔铁电性、平带 ![graphene multilayers](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_15_7HMHTA47.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图16 1-uc BaTiO3/SnS：二维/三维杂化稳定超薄铁电，Néel 点、Bloch 涡旋、联合扭转-滑动 ![BTO-SnS](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_16_MI7YCSTX.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图17 3R-VS2 多铁：四种 P-M 构型、Berry 曲率随电场、AFM↔FM、线性/二阶磁电系数、四态控制 ![VS2 multiferroic](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_17_GCQLXFUN.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图18 ZrI2：T0/1T′/Td 相、声子虚频、双阱、六逻辑态多铁、头对头畴壁金属性与 0.24 eV 势差 ![ZrI2](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_18_TT3NFJTQ.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图19 2H-MnBi2Te4 双层：滑动切换磁序与拓扑（陈数），层间 Te-pz 耦合 ![MnBi2Te4 bilayer](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_19_PFJF35FL.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图20 四层 MnBi2Te4：破 P 对称的铁电 QAH 绝缘体，σxy=±e²/h，陈数随层间距变化 ![FE-QAH FLMBT](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_20_MSGL9MAG.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图21 CrI3、Cr2Ge2Te6、Fe3GeTe2 双层反平行/平行堆垛的滑动铁电与"压电多铁效应" ![magnetic bilayers](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_21_7MRZGUTM.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图22 MnSe 双层：2.7 pC/m 极化、电控塞曼劈裂、8 mμB/胞净磁矩、应变与空穴掺杂协同 ![MnSe multiferroic](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_22_3BZPZSMY.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图23 VI2：自旋螺旋序诱导的非位移铁电、滑动-螺旋手性锁定、SOC 依赖 ![VI2 spin spiral](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_23_IQTNM2V2.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图24 CrI3/MnSe2 异质双层：紧束缚+DFT 揭示磁序可反转层间电子极化，非易失磁电耦合 ![CrI3-MnSe2](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_24_TLD45LIJ.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图25 SnS2/MnPSe3/SnS2：滑动打破 PT 对称诱导交变磁性，两条翻转路径与能垒 ![SnS2-MnPSe3](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_25_Y6TELKJU.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图26 SnS2/MnPSe3/SnS2：Mn 周围电荷耗尽、交变磁体能带劈裂 ![altermagnetic bands](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_26_WRL54Q7E.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图27 PtBr3：AA′/AB′/AC′ 堆垛、晶体霍尔效应、MOKE 克尔角与椭偏率随 ±P 反转 ![PtBr3 altermagnet](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_27_UMBP4VUW.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图28 全部滑动铁电双层的"极化–能垒"性能地图（理想区：右下，高极化低能垒），绿色为多铁材料 ![polarization-barrier map](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_28_5ICIG7NK.png) -> [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
   - 图29 连续介质模型：P(T) 一级相变、临界场、电卡熵变 Δs(E) ![first-order transition](../../raw/figures/kaurRecentAdvancesTheoretical2025a/fig_29_PC3552FQ.png)
   - 表1 各材料带隙、面外/面内极化 (pC/m)、翻转能垒 (meV) 汇总 ![Table 1](../../raw/figures/kaurRecentAdvancesTheoretical2025a/tab_1_3QKTNISV.png)
   - 表2 各滑动铁电材料居里温度 (K) 汇总 ![Table 2](../../raw/figures/kaurRecentAdvancesTheoretical2025a/tab_2_CNML9EBW.png)
-  - 公式图像（笔记中按原文顺序抽取的关键公式）：![eq4](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_4_HGFDZPHI.png) ![eq5](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_5_T7EMI4TE.png) ![eq6](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_6_YYHPFE8I.png) ![eq7](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_7_DG7HVECU.png) ![eq10](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_10_EG6HZVKT.png) ![eq13](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_13_LFPVEJ4K.png) ![eq14](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_14_I93RIQPS.png) ![eq16](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_16_ED73SZUL.png) ![eq17](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_17_ENVBAXF3.png) ![eq18](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_18_ARIS5SRN.png) ![eq19](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_19_QEYAP45U.png) ![eq20](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_20_URI5MQNZ.png) ![eq21](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_21_8CWLAPNS.png) ![eq23](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_23_QRKNBC4D.png) ![eq25](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_25_FNM46Z9F.png) ![eq26](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_26_DTISGU7I.png) ![eq27](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_27_7T5QSPXL.png)
+  - 公式图像（笔记中按原文顺序抽取的关键公式）：![eq4](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_4_HGFDZPHI.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq5](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_5_T7EMI4TE.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq6](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_6_YYHPFE8I.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq7](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_7_DG7HVECU.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq10](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_10_EG6HZVKT.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq13](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_13_LFPVEJ4K.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq14](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_14_I93RIQPS.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq16](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_16_ED73SZUL.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq17](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_17_ENVBAXF3.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq18](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_18_ARIS5SRN.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq19](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_19_QEYAP45U.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq20](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_20_URI5MQNZ.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq21](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_21_8CWLAPNS.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq23](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_23_QRKNBC4D.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq25](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_25_FNM46Z9F.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq26](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_26_DTISGU7I.png) -> [[../figures/mathematical-models|数学模型与物理公式]] ![eq27](../../raw/figures/kaurRecentAdvancesTheoretical2025a/eq_27_7T5QSPXL.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 ## 🔬 项目连接
   - **project-5 SnTe 铁电模拟 —— strong**。本文是滑动铁电 DFT 方法论的"全集"：现代极化理论/Berry 相（King-Smith & Vanderbilt）计算 P、Wannier 电荷中心、NEB/CI-NEB 计算翻转路径与能垒、差分电荷密度与平面平均屏蔽电荷积分求 P、PBE/PBE+U/SOC、DFPT 声子、AIMD 室温稳定性、电偶极矩随层间距/应变/电场的扫描流程——均可直接迁移到 SnTe（以及本项目中任何铁电体）的 DFT 模拟。文中还给出了关键"陷阱"：(i) 应使用"孤立势垒 Δ"而非集体翻转势垒与 Tc 关联（Tc≈2Δ/3kB）；(ii) 二维材料高面内刚度使低能垒下极化仍稳健；(iii) 倾斜电场可降低矫顽场；(iv) Janus/内建电场比压缩层间距更能提升极化而不抬能垒；(v) 表1/表2/图28 的极化-能垒地图可作为 SnTe 计算结果的横向参照系。SnTe 在文中虽未直接出现（讨论了 SnS 与 1-uc BTO/SnS），但同属 IV–VI 铁电半导体方法论范畴。
   - **project-2 Mn 多铁 —— strong**。综述第 3 节几乎是"Mn 基二维多铁手册"：MnBi2Te4（滑动切换磁序与 QAH/轴子拓扑）、MnSe（AFM 滑动铁电、电控塞曼劈裂、磁电系数 αS≈−9.8×10⁻¹⁴ G·cm²/V）、SnS2/MnPSe3/SnS2（PT 破缺诱导交变磁性）、CrI3/MnSe2 异质结（磁序反转电子极化）。磁电耦合的微观机制（层间 dz²–pz 杂化、Berry 曲率随电场、μ0ΔM=βE²+αE）对 Mn 基多铁项目的物理图像与计算设计有直接参考价值；altermagnetism、dynamical multiferroicity 等新概念也可作为 wiki 多铁条目扩充。
@@ -241,28 +241,35 @@ Arneet Kaur, Abir De Sarkar，2025，*Journal of Physics: Condensed Matter* 37, 
   - **project-1 双光子 —— weak**。§2.1.4 讨论 THz 激光（1.08 THz，高斯包络电场脉冲）共振激发 E(4)/E(5) 红外软模、3–4 ps 内实现层间滑动翻转，并通过 TD-DFT 给出电子激发→电声能量转移→层间滑动三步机制，且动态多铁性感生磁场。这对光-铁电耦合、光控磁有参考价值，但与双光子荧光/吸收无直接关系。
   - **project-3 机械发光 NN**：无直接项目连接。
   - **project-6 湿度传感器**：无直接项目连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+
 ## 📝 组织与用词
 文章按"原型 h-BN → 单质/二元/TMD/Janus/多层/异质结/分子层 → 多铁与拓扑耦合 → 群论与热力学一般理论 → 隧道结应用 → 总结"递进；每材料小节统一给出对称性破缺、极化值、NEB 能垒、应变/电场/层数响应、新奇物性，是非常规范的理论综述范式。值得在 wiki 中复用的术语：
-  - sliding ferroelectricity / 滑动铁电性
+  - sliding ferroelectricity [[../concepts/sliding-ferroelectricity|sliding ferroelectricity]] / 滑动铁电性
   - out-of-plane (interlayer) polarization / 面外（层间）极化
-  - across-layer sliding ferroelectricity (ALSF) / 跨层滑动铁电性
+  - across-layer sliding ferroelectricity (ALSF) / 跨层滑动铁电性 [[../concepts/across-layer-sliding-ferroelectricity|跨层滑动铁电性]]
   - Global/Local Polarization Registry Index (GPRI/LPRI) / 全局/局部极化登记指数
   - orbital distortion (N-pz) / 轨道畸变
-  - dynamical multiferroicity (P×∂tP) / 动态多铁性
+  - dynamical multiferroicity (P×∂tP) / 动态多铁性 [[../concepts/dynamical-multiferroicity|动态多铁性]]
   - altermagnetic phase / 交变磁性相
-  - layer-polarized spin Hall effect (LP-SHE) / 层极化自旋霍尔效应
+  - layer-polarized spin Hall effect (LP-SHE) / 层极化自旋霍尔效应 [[../concepts/layer-polarized-spin-hall-effect|层极化自旋霍尔效应]]
   - inclined/tilted electric field / 倾斜电场
   - isolated barrier Δ vs. collective switching barrier / 孤立势垒与集体翻转势垒
 ## ✏️ 可写入 Wiki 的要点
-  1. 滑动铁电性是电子效应：Jiang 等在 h-BN 中证实滑动不产生面外离子位移，极化来自层间电荷转移；Liu 等进一步指出 N-pz MLWF 瓣在双层中不对称（N1 比 N2 畸变更强），N-pz–B-pz 排斥与 N-pz–B³⁺ 吸引共同导致电荷中心偏移。
+  1. 滑动[[../concepts/ferroelectricity|铁电性]]是电子效应：Jiang 等在 h-BN 中证实滑动不产生面外离子位移，极化来自[[../concepts/interlayer-charge-transfer|层间[[../concepts/charge-transfer|电荷转移]]]]；Liu 等进一步指出 N-pz MLWF 瓣在双层中不对称（N1 比 N2 畸变更强），N-pz–B-pz 排斥与 N-pz–B³⁺ 吸引共同导致电荷中心偏移。
   2. 定量参考值：h-BN 双层 P=2.08 pC/m（Wannier 法 2.14，实验 2.25 pC/m @4.2 K），NEB 能垒 9 meV（BA→AP→AB 路径仅 2.6 meV）；层间电压 U=qd/εS 约 0.23 V (BN)、0.17 V (C/BN)。
   3. GPRI=(S_BN−S_NB)/(S_BN^max−S_NB^max)，以二维高斯原子投影重叠定义，σ_BN=σ_NB=0.22b (b=a/√3, a=2.51 Å) 时与 DFT 势降最佳吻合；可推广到 WTe2、MoS2（引入指数 f(h)=e^{−α(h−h0)} 修正不等价层间距）与转角莫尔体系（LPRI 给出 ~10 nm 畴壁宽度，与 KPFM 实验一致）。
   4. 应变/压力规律：P 与层间距成反比；面内双轴应变经弛豫反而增大层间距（负面外泊松比），h-BN AB 构型同时具有负纵向压电 d33；压力与应变使 P 和能垒同时升高。Janus TMD 中内建电场（而非压缩层间距）可在不显著抬能垒下将 TeMoS 极化较 MoS2 提升 65%——P 越大，电场下 AB/AC 能量差越大，越易电控翻转。
-  5. MLIP 精度：DREAM/Allegro 框架同时预测能量、力与 Born 有效电荷张量，结构能量差 MAE=0.053 meV/atom；用复序参量 ψ=e^{iG·t} 的 MD（900 原子，1–2000 K，50 ps/点）给出 h-BN Tc≈1500 K（此前高估为 1.58×10⁴ K），并证实倾斜 24° 电场 (E∥=0.2 V/Å) 将 E⊥,c 从 ~2 V/Å 显著降低。
-  6. 激光超快翻转：h-BN 的 E(4)/E(5) 简并光学模在 1.08 THz，沿 y 偏振的高斯脉冲在 5 K 下 3–4 ps 内克服势垒完成翻转；P 矢量做摆线型旋转并按 M=(S/2me)(e²/ħ)(Z̄*/Z̄*_yy Z̄*_zz) P×∂tP 感生 Mx≈2.7×10⁻⁸ μB、B≈12 nT（动态多铁性）。TD-DFT 给出"电子 pz 激发→电声能量转移→层间滑动→弛豫反向极化"三步机制。
-  7. WTe2 原型：Pmn21 正交结构，NEB 势垒 0.6 meV，P_max=0.37 pC/m（实验 0.23）；AFE 态比 FE 高 0.39 eV/f.u.，Tc≈350 K；Tc 应与"孤立势垒 Δ"关联 (Tc≈2Δ/3kB) 而非集体翻转势垒。极化翻转时 Rashba 自旋纹理反转，可设计自旋 FET（n≥3 层 WTe2 做电极解决阻抗失配）。
-  8. 跨层滑动铁电 (ALSF)：单质双层任何滑动都不破反演，但四层石墨烯的 ABAC/CABA/CBAB 等堆垛通过次近邻不对称耦合产生 0.21 pC/m 面外 + 57.49 pC/m 面内极化，能垒 <5 meV；h-BN/插层石墨烯/h-BN 为 0.48 pC/m、3 meV。1+3 转角四层石墨烯的极性畴可被电场平移底层切换——"滑动莫尔铁电性"。苯分子层/石墨烯/h-BN 预测 10⁴ Tbit/in²。
+  5. MLIP 精度：DREAM/Allegro 框架同时预测能量、力与 [[../concepts/born-effective-charge|Born 有效电荷]]张量，结构能量差 MAE=0.053 meV/atom；用复[[../concepts/order-parameter|序参量]] ψ=e^{iG·t} 的 MD（900 原子，1–2000 K，50 ps/点）给出 h-BN Tc≈1500 K（此前高估为 1.58×10⁴ K），并证实倾斜 24° 电场 (E∥=0.2 V/Å) 将 E⊥,c 从 ~2 V/Å 显著降低。
+  6. 激光超快翻转：h-BN 的 E(4)/E(5) 简并光学模在 1.08 THz，沿 y 偏振的高斯脉冲在 5 K 下 3–4 ps 内克服势垒完成翻转；P 矢量做摆线型旋转并按 M=(S/2me)(e²/ħ)(Z̄*/Z̄*_yy Z̄*_zz) P×∂tP 感生 Mx≈2.7×10⁻⁸ μB、B≈12 nT（[[../concepts/dynamical-multiferroicity|动态[[../concepts/multiferroicity|多铁性]]]]）。TD-DFT 给出"电子 pz 激发→电声能量转移→层间滑动→弛豫反向极化"三步机制。
+  7. WTe2 原型：Pmn21 正交结构，NEB 势垒 0.6 meV，P_max=0.37 pC/m（实验 0.23）；AFE 态比 FE 高 0.39 eV/f.u.，Tc≈350 K；Tc 应与"孤立势垒 Δ"关联 (Tc≈2Δ/3kB) 而非集体[[../concepts/switching-barrier|翻转势垒]]。[[../concepts/polarization-switching|极化翻转]]时 Rashba [[../concepts/spin-texture|自旋纹理]]反转，可设计自旋 FET（n≥3 层 WTe2 做电极解决阻抗失配）。
+  8. 跨层滑动铁电 (ALSF)：单质双层任何滑动都不破反演，但[[../entities/graphene-tetralayer|四层[[../entitys/graphene|石墨烯]]]]的 ABAC/CABA/CBAB 等堆垛通过次近邻不对称耦合产生 0.21 pC/m 面外 + 57.49 pC/m 面内极化，能垒 <5 meV；h-BN/插层石墨烯/h-BN 为 0.48 pC/m、3 meV。1+3 转角四层石墨烯的极性畴可被电场平移底层切换——"滑动莫尔铁电性"。苯分子层/石墨烯/h-BN 预测 10⁴ Tbit/in²。
   9. 多铁耦合定量：3R-VS2 中 δd=0.6 Å 时线性磁电 αS≈−9.8×10⁻¹⁴ G·cm²/V (−1.48×10⁻⁷ s/m)，δd=0.8 Å 时出现二阶 βS≈−4.5×10⁻²² G·cm³/V²；AFM↔FM 转变伴随半导体-金属转变。MnSe 双层 P=2.7 pC/m、层间电势差 0.23 V、电控净磁矩 8 mμB/胞，磁电效应随层数线性增长（三层 16、四层 24 mμB）；空穴掺杂 1.39×10¹⁵ cm⁻² 时磁矩极大 0.3 μB。
-  10. 拓扑与交变磁性：2H-MnBi2Te4 双层 AB′↔AC′ 翻转能垒 30 meV，可在 AFM/FM 与平庸/陈绝缘体态间切换；四层 P1-FLMBT 为铁电 QAH 绝缘体，σxy=±e²/h，P 翻转逆转 AFM 自旋分布、Berry 曲率与手性边缘态。SnS2/MnPSe3/SnS2 与 PtBr3 中滑动破坏 PT 对称后出现交变磁相，伴随晶体霍尔效应与 MOKE，可用于非易失读取。ZrI2 头对头带电畴壁因束缚电荷使价/导带抵达费米面（0.24 eV 势差）而金属化，形成能 E_DW=2P_el E_g/e≈1 mJ/m²。
-  11. 一般理论判据：双层要有面外极化必须打破反演、z 镜面、二次旋转轴等对称性；两个中心对称单层也可堆出极性双层。连续介质机电（横场 Ising 类）模型给出一级 FE–PE 相变（P(T) 在 Tc 不连续、临界场随温度变化、伴随电卡熵变 Δs(E)）；尽管翻转势垒极低，二维材料的高面内刚度使弹性能代价抑制热涨落，从而保护长程铁电序（与 Mermin–Wagner 约束相容）。
-  12. 应用：滑动铁电隧道结预测巨大 TER；压电纳米发电机（WTe2 沿 x/y 拖动产生振荡电信号）；滑移可调制载流子迁移率（ZrI2 金属畴壁）；MoSi2N4 莫尔超晶格中垂直极化（非层间杂化）产生 II 型量子点阵列用于激子捕获；GeS2/CIPS 莫尔阵列 5° 转角下 0.7 TB/cm² 存储密度。
+  10. 拓扑与[[../concepts/altermagnetism|交变磁性]]：2H-MnBi2Te4 双层 AB′↔AC′ 翻转能垒 30 meV，可在 AFM/FM 与平庸/陈绝缘体态间切换；四层 P1-FLMBT 为铁电 QAH 绝缘体，σxy=±e²/h，P 翻转逆转 AFM 自旋分布、Berry 曲率与手性边缘态。SnS2/MnPSe3/SnS2 与 PtBr3 中滑动破坏 PT 对称后出现交变磁相，伴随晶体[[../concepts/hall-effect|霍尔效应]]与 MOKE，可用于非易失读取。ZrI2 头对头带电畴壁因束缚电荷使价/导带抵达[[../concepts/fermi-surfaces|费米面]]（0.24 eV 势差）而金属化，[[../concepts/formation-energy|形成能]] E_DW=2P_el E_g/e≈1 mJ/m²。
+  11. 一般理论判据：双层要有面外极化必须打破反演、z 镜面、二次旋转轴等对称性；两个中心对称单层也可堆出极性双层。连续介质机电（横场 Ising 类）模型给出一级 FE–PE 相变（P(T) 在 Tc 不连续、临界场随温度变化、伴随电卡熵变 Δs(E)）；尽管翻转势垒极低，[[../concepts/2D-materials|二维材料]]的高面内刚度使弹性能代价抑制热涨落，从而保护长程铁电序（与 Mermin–Wagner 约束相容）。
+  12. 应用：滑动[[../entitys/FTJ|铁电隧道结]]预测巨大 TER；压电纳米发电机（WTe2 沿 x/y 拖动产生振荡电信号）；滑移可调制载流子迁移率（ZrI2 金属畴壁）；MoSi2N4 [[../concepts/moire-superlattice|莫尔[[../concepts/superlattice|超晶格]]]]中垂直极化（非层间杂化）产生 II 型量子点阵列用于激子捕获；GeS2/CIPS 莫尔阵列 5° 转角下 0.7 TB/cm² 存储密度。

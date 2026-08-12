@@ -94,17 +94,17 @@ G. Kresse、J. Furthmüller，1996，Physical Review B 54(16), 11169–11186，D
   - 相关论文 [[../../raw/note/kresseEfficientIterativeSchemes1996d]]
 ## 📊 关键图表
   - 图1：fcc-Fe（4 晶胞）自洽循环中不同方案下原子受力的收敛性，opt（式25 修正）较 out 快约 100 倍，证明 Pulay 型力修正对离子弛豫/MD 的关键作用。
-  ![Fig.1 力的收敛性对比（fcc-Fe）](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_1_CDNY7B53.png)
+  ![Fig.1 力的收敛性对比（fcc-Fe）](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_1_CDNY7B53.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - 图2：RMM-DIIS 在不同尺寸立方金刚石超胞（1×–8×）中的非自洽总自由能收敛，各曲线几乎重合，证明对角化迭代次数与系统尺寸无关。
-  ![Fig.2 RMM-DIIS 对金刚石的非自洽能量收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_2_K2M97DMS.png)
+  ![Fig.2 RMM-DIIS 对金刚石的非自洽能量收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_2_K2M97DMS.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - 图3：RMM-DIIS（实）与 CGa（虚）对不同尺寸 fcc-Fe 超胞的非自洽能量收敛，逐带 RMM-DIIS 比全自由度 CGa 振荡更小、步数更少。
-  ![Fig.3 RMM-DIIS 与 CGa 对 fcc-Fe 的非自洽收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_3_GBM9JB34.png)
+  ![Fig.3 RMM-DIIS 与 CGa 对 fcc-Fe 的非自洽收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_3_GBM9JB34.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - 图4：自洽计算中 RMM-DIIS 与 CGa 对金刚石的总能量（上）和力（下）收敛，RMM-DIIS 约 10–12 步、力达三位小数精度，比 CGa 快 2–3 倍。
-  ![Fig.4 金刚石自洽能量与力收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_4_45NBH4FX.png)
+  ![Fig.4 金刚石自洽能量与力收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_4_45NBH4FX.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - 图5：fcc-Fe 自洽能量（上）与力（下）收敛，Kerker+Pulay 混合使迭代次数从最小到最大晶胞仅增约一倍，而 CGa 对大晶胞几乎不收敛。
-  ![Fig.5 fcc-Fe 自洽能量与力收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_5_MDMEZAFI.png)
+  ![Fig.5 fcc-Fe 自洽能量与力收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_5_MDMEZAFI.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - 图6：近自由电子金属 fcc-Al 的自洽能量收敛，RMM-DIIS 仅需约 8 步且与尺寸无关，CGa 随尺寸增大性能急剧下降。
-  ![Fig.6 fcc-Al 自洽能量收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_6_D9VHA5DL.png)
+  ![Fig.6 fcc-Al 自洽能量收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_6_D9VHA5DL.png) -> [[../figures/electronic-bands|电子能带与电子态]]
   - 表 I（C 体系）：IBM RS/6000 Model 590 上单步耗时（秒）：8 原子 RMM=1.0/CG=1.0/CGa=1.2；216 原子 RMM=410/CG=800，RMM 对大体系快约一倍。
   ![Table I 碳体系单步耗时](../../raw/figures/kresseEfficientIterativeSchemes1996d/tab_6000_PUVVJLFL.png)
 ## 🔬 项目连接
@@ -115,6 +115,12 @@ G. Kresse、J. Furthmüller，1996，Physical Review B 54(16), 11169–11186，D
   - **project-1 双光子**：以实验双光子荧光为主，不涉及平面波 DFT 电子步，无直接项目连接。
   - **project-3 机械发光 NN**：以神经网络/实验为主，无直接项目连接。
   - **project-6 湿度传感器**：以器件/实验为主，无直接项目连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
 全文按"问题分解 → 两大引擎 → 数值验证"组织：第二节建立含部分占据的 KS 自由能泛函与自洽循环、并推导力修正；第三节推导 RMM-DIIS 对角化（对比顺序 CG、子空间旋转、计算量与迭代次数标度）；第四节推导 Pulay 混合与 Kerker 预条件/度量；第五节在绝缘体（金刚石）、开壳层过渡金属（fcc-Fe）、简单金属（fcc-Al）上系统测试非自洽与自洽收敛、单步耗时与尺寸标度；第六节结论。论证的核心手法是把一个病态耦合问题（KS 基态）拆成两个可分别预条件的子问题（对角化 + 电荷混合），再用收敛曲线和计时表证明"总耗时=单步时间×迭代次数"才是公平判据。值得在 wiki 中复用的术语：
   - RMM-DIIS（残差最小化-迭代子空间直接求逆，residual minimization method–direct inversion in the iterative subspace）
@@ -128,7 +134,7 @@ G. Kresse、J. Furthmüller，1996，Physical Review B 54(16), 11169–11186，D
 ## ✏️ 可写入 Wiki 的要点
   1. RMM-DIIS 不最小化 Rayleigh 商 ⟨φ|H|φ⟩/⟨φ|S|φ⟩，而最小化残差范数 ||(H−ε_app S)|φ⟩||；残差范数在每个本征态处都是正定的局部极小值，因此原则上无需显式正交化即可收敛到离初值最近的本征态，把 O(N³) 正交化降至最低。
   2. RMM-DIIS 每步沿预条件残差 K|R⟩ 做 Jacobi 试探步 |φ₁⟩=|φ₀⟩+λK|R₀⟩（λ 限 0.1–1，通常 0.3–1），再用 DIIS 在试探向量张成的子空间中最小化残差范数（式 35–39，等价于一个小维度广义本征问题）；试探步廉价故总以试探步收尾。
-  3. 必须保留子空间旋转（Rayleigh-Ritz，式 32–34）和 Gram-Schmidt 重新正交化：相邻本征值 ε 与 ε+δε 之间的残差范数势垒仅为 δε 量级，无旋转时 RMM-DIIS 会越过浅丘收敛到错误能带；旋转还使首步残差等于精确正交梯度、保证初始最速下降稳定。
+  3. 必须保留[[../concepts/subspace-rotation|子空间旋转]]（Rayleigh-Ritz，式 32–34）和 Gram-Schmidt 重新正交化：相邻本征值 ε 与 ε+δε 之间的残差范数势垒仅为 δε 量级，无旋转时 RMM-DIIS 会越过浅丘收敛到错误能带；旋转还使首步残差等于精确正交梯度、保证初始最速下降稳定。
   4. 金属必须包含费米能级以上空带（文中 fcc-Fe 用 1.5 Nions 个空带）：只算占据带时最高占据带与最低空带间隙随系统尺寸缩小，γ_min∝1/N，收敛随 √N 变慢；空带把"问题区域"上移到对总能/力不重要的未占据态，使所有占据带迭代次数与尺寸无关。
   5. Pulay 混合把输入密度写成历史值的线性组合 ρ_in^opt=Σa_i ρ_in^i，在 Σa_i=1（电子数守恒）下最小化残差范数；作者证明这等价于准牛顿法，其逆雅可比（即介电矩阵逆）满足 G_m|ΔR_i⟩=−|Δρ_i⟩（式 57–60），具有二次收敛性——这是对 Annett 认为 Broyden 类方法不改善标度的直接反驳。
   6. Kerker 预条件 G_q=A·q²/(q²+q₀²)（式 61）针对金属中介电矩阵 J≈1−χU、U(q)∝1/q² 的长波发散：小 q 时 G→0、几乎不混合以阻尼电荷晃动，大 q 时 G→A 退化为高效线性混合；默认 A=0.8、体材料 q₀≈1.0–1.5 Å⁻¹（fcc-Fe 最优 q₀≈4.0 Å⁻¹），磁性体系/表面可用 A=0.2。

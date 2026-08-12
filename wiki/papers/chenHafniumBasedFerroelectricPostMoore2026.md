@@ -155,33 +155,33 @@ Xiangwei Chen, Zheng Wang, Jialin Meng, Tianyu Wang（山东大学），2026，N
   - 相关论文 **chenHafniumBasedFerroelectricPostMoore2026**
 ## 📊 关键图表
   - 图1：Hf-FEs材料、器件结构与应用总览
-  ![Hf-FEs材料器件应用总览](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_1_3VD9GL58.png)
+  ![Hf-FEs材料器件应用总览](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_1_3VD9GL58.png) -> [[../figures/electronic-devices|电子与突触器件]]
   - 图2：2011–2025年Hf-FEs关键进展时间线
-  ![Hf-FEs发展时间线](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_2_FL9DP299.png)
+  ![Hf-FEs发展时间线](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_2_FL9DP299.png) -> [[../figures/electronic-devices|电子与突触器件]]
   - 图3：掺杂HfO₂晶体结构、STEM/TEM图像与器件制造工艺流程
-  ![掺杂工程与制造工艺](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_3_XHE7JUE9.png)
+  ![掺杂工程与制造工艺](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_3_XHE7JUE9.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
   - 图4：FeFET/FTJ/FeRAM/Fe-Diode四类器件结构与阵列
-  ![四类器件结构](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_4_L3JZI8BN.png)
+  ![四类器件结构](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_4_L3JZI8BN.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
   - 图5：物理机制——声子平带、相变、DFT掺杂筛选、应变、氧空位、畴壁运动与氧离子迁移路径
-  ![物理机制图解](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_5_CWFJTDMK.png)
+  ![物理机制图解](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_5_CWFJTDMK.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
   - 图6：P-E回线、I-V/C-V曲线、漏电流、开关速度、热稳定性、耐久性、均匀性与保持性
-  ![性能表征图集](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_6_N4SVXSM2.png)
+  ![性能表征图集](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_6_N4SVXSM2.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
   - 图7：存储应用——TCAM/CECAM阵列与2D/3D FeNAND
-  ![存储应用](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_7_5ZNA8QXN.png)
+  ![存储应用](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_7_5ZNA8QXN.png) -> [[../figures/electronic-devices|电子与突触器件]]
   - 图8：突触可塑性——EPSC/PPF/LTP-LTD/SADP/SWDP/SRDP/STDP/学习-遗忘-再学习
-  ![突触可塑性](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_8_49WAIQHG.png)
+  ![突触可塑性](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_8_49WAIQHG.png) -> [[../figures/electronic-devices|电子与突触器件]]
   - 图9：神经网络——SLP/CNN/SNN/VGG-11架构、MNIST识别与芯片集成
-  ![神经网络系统](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_9_6UW5JTH3.png)
+  ![神经网络系统](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_9_6UW5JTH3.png) -> [[../figures/electronic-devices|电子与突触器件]]
   - 图10：图像处理——ANN/CNN、储备池计算、图像加密、贝叶斯医学诊断、边缘检测
-  ![图像处理应用](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_10_LT3D7PBR.png)
+  ![图像处理应用](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_10_LT3D7PBR.png) -> [[../figures/electronic-devices|电子与突触器件]]
   - 图11：存内逻辑运算——AND/OR/NOR/NAND可重构布尔逻辑
-  ![逻辑运算](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_11_MTJAQVFZ.png)
+  ![逻辑运算](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_11_MTJAQVFZ.png) -> [[../figures/electronic-devices|电子与突触器件]]
   - 图12：未来展望与挑战思维导图
-  ![挑战与展望](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_12_CFHFZM9L.png)
+  ![挑战与展望](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_12_CFHFZM9L.png) -> [[../figures/electronic-devices|电子与突触器件]]
   - 表1：不同掺杂HfO₂铁电薄膜性能对比（掺杂剂/浓度/厚度/堆叠/2Pr/Ec/热稳定性）
-  ![掺杂HfO2性能对比表](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/tab_1_FSTFNUCW.png)
+  ![掺杂HfO2性能对比表](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/tab_1_FSTFNUCW.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
   - 表2：不同HfO₂铁电器件性能交叉对比（结构/开关速度/保持/耐久性/功耗）
-  ![器件性能对比表](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/tab_2_UQKGTEBW.png)
+  ![器件性能对比表](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/tab_2_UQKGTEBW.png) -> [[../figures/electronic-devices|电子与突触器件]]
 ## 🔬 项目连接
   - **project-5 SnTe铁电模拟（medium）**：本文虽以HfO₂薄膜器件为核心，不直接涉及SnTe，但在铁电物理与计算方法层面对project-5 有明确参考价值：
     1. **极化翻转微观机制**：综述详细总结了畴壁运动（(2;0)型路径能垒仅73 meV，对比(1;1)型1.36 eV）与氧离子协同迁移（层内/层间路径）两种翻转机制，这一"低能垒畴壁路径"图像可类比SnTe中铁电畴翻转的能垒分析。
@@ -192,25 +192,28 @@ Xiangwei Chen, Zheng Wang, Jialin Meng, Tianyu Wang（山东大学），2026，N
     局限：HfO₂为萤石结构氧化物、实验器件导向，SnTe为IV-VI族岩盐结构、DFT基础研究导向，材料体系与研究尺度差异较大，故评为medium而非strong。
   - **project-2 Mn多铁（weak）**：仅在展望中一句提及"基于HfO₂的多铁性材料有望应用于自旋轨道转矩器件"，无实质性 Mn或多铁机制讨论，参考价值有限。
   - project-1双光子、project-3机械发光NN、project-4 TTF分子计算、project-6湿度传感器、project-7 CDW：无直接项目连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+
 ## 📝 组织与用词
 文章采用"背景问题→材料基础→器件结构→物理机制→性能指标→存储应用→神经形态计算→挑战展望"的总-分-总递进结构，逻辑链条是"冯·诺依曼瓶颈→Hf-FEs材料优势（CMOS兼容/微缩）→掺杂工程稳定o相→四类器件各有侧重→微观翻转机制→突触可塑性模拟→交叉阵列VMM→系统级集成挑战"。每个器件小节均按"结构原理→代表性性能数据→现存挑战"三段式展开。值得复用的关键词/术语：
   - 亚稳态极性正交相（metastable polar orthorhombic phase, Pca2₁）
   - 无标度铁电性（scale-free ferroelectricity）/ 平带声子（flat phonon bands）
-  - 畴壁运动（domain wall motion）/ (2;0)-type vs (1;1)-type DW
-  - 成核限制开关模型（nucleation-limited switching, NLS）/ KAI模型
+  - 畴壁运动 [[../concepts/domain-wall-motion|畴壁运动]]（domain wall motion）/ (2;0)-type vs (1;1)-type DW
+  - 成核限制开关模型（nucleation-limited switching, NLS）/ KAI模型 [[../concepts/kai-model|KAI模型]]
   - 隧穿电致电阻比（tunneling electroresistance ratio, TER）
-  - 存内计算/存内逻辑（in-memory computing / logic-in-memory, LiM）
+  - 存内计算 [[../concepts/in-memory-computing|存内计算]]/存内逻辑（in-memory computing / logic-in-memory, LiM）
   - 向量-矩阵乘法（vector-matrix multiplication, VMM）
   - 唤醒/疲劳/印记效应（wake-up / fatigue / imprint effect）
   - BEOL热预算（back-end-of-line thermal budget, <400 °C）
 ## ✏️ 可写入 Wiki 的要点
-  1. HfO₂铁电性源于亚稳态极性正交相（o-phase, Pca2₁），而非稳定的单斜相（m-phase, P2₁/c）；温度序列为m→t（P4₂/nmc, >1973 K）→c（Fm3̄m, >2773 K）。2011年Böscke等首次在Si:HfO₂中发现铁电性。
-  2. 掺杂工程是稳定o相的核心手段：Zr掺杂（HZO）工艺窗口最宽（400–600 °C结晶，50%浓度）；La掺杂稳定效应最强，2Pr可达55 μC cm⁻²（800 °C退火），并抑制氧空位；Al掺杂通过压应变稳定超薄膜铁电相；La-Al共掺杂协同调控氧空位与应变。
-  3. 四类器件性能对比：FeFET（三端，MFS/MFMIS，开关比3.5×10⁶，存储窗口2 V）；FTJ（两端，500 ps开关，0.12 fJ/bit写入，>10⁷次循环）；FeRAM（1T-1C FeCAP，1.2 V低压，>10¹²–10¹³次循环，10年保持）；Fe-Diode（肖特基势垒调制，自选择抑制潜行电流，800 ps开关，16层3D堆叠，面积效率0.06 F²/state）。
+  1. HfO₂[[../concepts/ferroelectricity|铁电性]]源于[[../concepts/metastability|亚稳态]]极性正交相（o-phase, Pca2₁），而非稳定的单斜相（m-phase, P2₁/c）；温度序列为m→t（P4₂/nmc, >1973 K）→c（Fm3̄m, >2773 K）。2011年Böscke等首次在Si:HfO₂中发现铁电性。
+  2. 掺杂工程是稳定o相的核心手段：Zr掺杂（HZO）工艺窗口最宽（400–600 °C结晶，50%浓度）；La掺杂稳定效应最强，2Pr可达55 μC cm⁻²（800 °C退火），并抑制[[../concepts/oxygen-vacancy|氧空位]]；Al掺杂通过压应变稳定超薄膜铁电相；La-Al共掺杂协同调控氧空位与应变。
+  3. 四类器件性能对比：FeFET（三端，MFS/MFMIS，开关比3.5×10⁶，存储窗口2 V）；FTJ（两端，500 ps开关，0.12 fJ/bit写入，>10⁷次循环）；FeRAM（1T-1C FeCAP，1.2 V低压，>10¹²–10¹³次循环，10年保持）；Fe-Diode（[[../concepts/schottky-barrier|肖特基势垒]]调制，自选择抑制潜行电流，800 ps开关，16层3D堆叠，面积效率0.06 F²/state）。
   4. 铁电性起源三大理论：声子带驱动机制（软模→晶格失稳，Lee等平带声子诱导无标度铁电序）；缺陷介导机制（V_O²⁺>2%使o相热力学稳定于m相，解释唤醒/疲劳）；界面/尺寸约束机制（纳米尺度表面/界面能主导相稳定性）。当前共识为多尺度多物理场协同。
-  5. 极化翻转微观路径：(2;0)型畴壁路径能垒仅73 meV（几何上类似t相），远低于(1;1)型1.36 eV；0.4%拉伸应变可消除过渡势垒。氧离子迁移分"层内迁移"（Op原位反转偶极）与"层间迁移"（Onp跨极性/非极性边界交换身份）两条路径。
-  6. 宏观开关动力学：多晶HfO₂薄膜由成核过程主导（NLS模型），而非经典KAI模型的成核后自由横向扩展；Cristóbal Alessandri等提取HZO的最小开关时间τ∞≈236 ns、激活场Ea≈2.4 MV cm⁻¹、局域场增强因子符合广义贝塔分布。
+  5. [[../concepts/polarization-switching|极化翻转]]微观路径：(2;0)型畴壁路径能垒仅73 meV（几何上类似t相），远低于(1;1)型1.36 eV；0.4%拉伸应变可消除过渡势垒。氧离子迁移分"层内迁移"（Op原位反转偶极）与"层间迁移"（Onp跨极性/非极性边界交换身份）两条路径。
+  6. 宏观开关动力学：多晶HfO₂薄膜由成核过程主导（NLS模型），而非经典[[../concepts/kai-model|KAI模型]]的成核后自由横向扩展；Cristóbal Alessandri等提取HZO的最小开关时间τ∞≈236 ns、激活场Ea≈2.4 MV cm⁻¹、局域场[[../concepts/enhancement-factor|增强因子]]符合广义贝塔分布。
   7. 应变调控定量结果：Fan等证明>3%双轴拉伸应变使Pca2₁相比反极性Pbca相更稳定；面内拉伸通过泊松效应引起面外收缩，驱动t→o相变。
   8. DFT掺杂筛选：Rohit Batra等用高通量DFT研究近40种掺杂剂，发现离子半径大、电负性低的掺杂剂（镧系、Ca/Sr/Ba/Y等）最有效稳定P-O1相。
-  9. 神经形态实现：Hf-FEs交叉阵列通过欧姆定律+基尔霍夫定律在模拟域物理完成VMM；SLP在MNIST达90%准确率，SNN 50个epoch达~98%且抗噪声，VGG-11用于CNN评估；AFE HZO电容突触能耗245 fJ/spike，保持>10年，>10⁹次循环；1T-1R忆阻芯片能效119.7 TOPS/W，10 ns读出。
+  9. 神经形态实现：Hf-FEs[[../concepts/crossbar-array|交叉阵列]]通过欧姆定律+基尔霍夫定律在模拟域物理完成VMM；SLP在MNIST达90%准确率，SNN 50个epoch达~98%且抗噪声，VGG-11用于CNN评估；AFE HZO电容突触能耗245 fJ/spike，保持>10年，>10⁹次循环；1T-1R忆阻芯片能效119.7 TOPS/W，10 ns读出。
   10. 核心挑战：o相亚稳性可靠稳定；氧空位双重角色的精确纳米尺度控制；存储窗口-耐久性-低电压三角权衡；BEOL热预算冲突（结晶>450 °C vs BEOL <400 °C，PE-ALD可在300 °C实现2Pr≈20–40 μC cm⁻²）；3D集成的高深宽比保形沉积；器件间/循环间变异性的系统级容错。

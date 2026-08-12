@@ -102,6 +102,12 @@ Shuichi Nosé，1984，The Journal of Chemical Physics 81(1), 511–519，DOI 10
   - **project-7 CDW（weak）**：CDW 体系若采用 AIMD 研究有限温电荷密度波涨落与相变，Nosé 热浴的参数选择（Q 匹配声子频率）和遍历性问题（Nosé–Hoover 链的必要性）对结果有影响；本文是方法学参考但非核心物理文献。
   - **project-1 双光子 / project-3 机械发光NN / project-6 湿度传感器**：无直接项目连接。前两者以光学实验/神经网络为主，后者以传感材料与器件实验为主，均不涉及经典 MD 控温方法。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
 文章以"统一框架"为论证主线：先建立 ES 方法作为理论基准（第 II 节，虚变量→实变量→其他势形式），再通过施加 ∂H/∂s=0 约束导出 HLME 方法（第 III 节），继而把 Haile–Gupta 动量标度视为非对数势的反例并给出偏差阶数，最后推广到 TP 系综（第 IV 节）并讨论自由度、g、Q、守恒律修正（第 V 节）。论证方式是解析配分函数 + δ 函数积分，不依赖数值实验。值得在 wiki 中复用的术语：
   - extended system method（扩展系统方法）
@@ -118,10 +124,10 @@ Shuichi Nosé，1984，The Journal of Chemical Physics 81(1), 511–519，DOI 10
   1. **ES 哈密顿量**：H = Σ p_i²/(2m_i s²) + φ(q) + p_s²/(2Q) + gkT ln s；s 为附加自由度，Q 为 s 的"质量"（量纲 energy·time²），对数势 gkT ln s 是产生正则分布的关键。
   2. **变量缩放关系**：q_i=q_i'、p_i=p_i'/s、dt'=dt/s（实变量）；NPT 下再叠加 q_i=V^{1/3}q_i'、p_i=p_i'/(V^{1/3}s)。
   3. **g 取值规则（Table III）**：虚时间采样 g=3N+1，实时间采样 g=3N（ES 方法）；约束方法对应 g=3N 与 g=3N-1。考虑总动量守恒时 ES 虚时间采样应取 g=3N+3，瞬时温度按 (3N-3)kT/2 定义。
-  4. **严格性结论**：ES 方法在动量空间与坐标空间均严格给出正则分布；HLME 约束方法仅坐标空间严格，动量空间为 δ(Σ p_i'^2/2m_i - gkT/2)；Haile–Gupta 动量标度方法偏差 O(N^{-1/2})，与微正则系综投影到坐标空间的偏差同阶。
+  4. **严格性结论**：ES 方法在动量空间与坐标空间均严格给出正则分布；HLME 约束方法仅坐标空间严格，动量空间为 δ(Σ p_i'^2/2m_i - gkT/2)；Haile–Gupta 动量标度方法偏差 O(N^{-1/2})，与[[../concepts/microcanonical-ensemble|微正则系综]]投影到坐标空间的偏差同阶。
   5. **涨落阶数**：HG 方法对一阶量（内能、维里）引入 O(N^{-1}) 修正，对涨落量（热容、压缩率）修正可达 O(1)，故不能用于热容等涨落敏感量；ES 方法给出正确的温度涨落 ⟨(T_i-T)²⟩=2T²/(3N)。
   6. **HLME 即 ES 加约束**：在 ES 中令 ∂H/∂s=0（总动能恒定）与 p_s=0，s 由瞬时动量决定 s=[Σ p_i²/(m_i gkT)]^{1/2}，代入实变量方程即得 dq_i/dt'=p_i/m_i、dp_i/dt'=-∂φ/∂q_i-α p_i，α=(ds/dt)/s。
   7. **对数势的唯一性**：将 s 的势换成 gkT s^n 等非对数形式时，配分函数出现 Heaviside 截断与多项式因子，由 g ln(1+a/g)=a-a²/(2g)+… 展开可知偏差主项为 O(N^{-1/2})；只有 log 的逆函数（指数）能与玻尔兹曼因子精确匹配。
   8. **NPT 扩展**：H_TP = Σ p_i²/(2m_i V^{2/3}s²) + φ(V^{1/3}q) + p_s²/(2Q) + gkT ln s + p_v²/(2W) + P_ex V，虚时间 g=3N+1时投影分布 ∝ exp[-(H_0+P_ex V)/kT]，严格对应 NPT；加约束可得 Evans–Morriss 恒温恒压方程。
   9. **Q 的选择准则**：理论上静态量与 Q 无关，但有限模拟中需令 s 谐振频率 ω_s²=2gkT/(Q⟨s⟩²) 与物理系统速度自相关函数谱的二阶矩同量级（约相当于声波走过最近邻距离的时间）；Q 过大→采样慢，Q 过小→s 与物理解耦。
-  10. **后续影响**：本文是 Nosé–Hoover 恒温器（Hoover 1985 简化实变量方程）与 Nosé–Hoover 链（Martyna 等，解决小系统/低频模式的遍历性问题）的理论源头；其"扩展自由度 + 哈密顿力学 → 投影目标系综"思路被推广到恒压、恒化学势、路径积分 MD 等众多系综方法。
+  10. **后续影响**：本文是 Nosé–Hoover [[../concepts/thermostat|恒温器]]（Hoover 1985 简化实变量方程）与 Nosé–Hoover 链（Martyna 等，解决小系统/低频模式的遍历性问题）的理论源头；其"扩展自由度 + 哈密顿力学 → 投影目标系综"思路被推广到恒压、恒[[../concepts/chemical-potential|化学势]]、路径积分 MD 等众多系综方法。

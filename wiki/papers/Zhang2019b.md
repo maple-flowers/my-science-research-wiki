@@ -12,11 +12,22 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Zhang2019b]]
 projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
-concepts: []
-entities: []
+concepts:
+  - molecular-dynamics
+  - embedded-atom-method
+  - icosahedral-cluster
+  - hcp-bcc-transition
+  - dulong-petit-law
+  - size-dependent-melting
+  - undercooling-hysteresis
+  - particle-coalescence
+entities:
+  - Moldy
 methods: [dft, eam, md, mlip, stm-mbe]
-materials: []
-figures: []
+materials:
+  - Ti
+figures:
+  - mathematical-models
 领域基础知识:: >-
   纳米颗粒的物理化学性质具有尺寸依赖性，其熔化和凝固行为与块体材料显著不同。钛具有六方密堆积（HCP）和体心立方（BCC）两种晶体结构，分别在低温与高温下稳定。增材制造（3D打印）技术通过逐层熔化粉末来构建复杂形状的部件，此过程的核心是纳米颗粒的熔化和融合，理解其微观机制是优化工艺的基础。
 研究背景:: >-
@@ -106,6 +117,15 @@ Lin Zhang, Yaming Wang，2019，JOM 71(12), 4917-4924，DOI 10.1007/s11837-019-0
   - **project-5 SnTe 铁电模拟**：有较明确的方法学参考价值。(1) 尺寸依赖的相变温度与滞后：本文用加热-冷却循环 + 二分法标定转变温度，系统量化了 Tm、Tf、T_HCP-BCC、T_BCC-HCP 随粒径的变化及过冷度，这一流程可直接迁移到 SnTe 纳米颗粒/薄膜铁电相变温度的尺寸效应模拟。(2) 单畴 vs 多畴：两颗粒聚结时小颗粒在 HCP-BCC 转变驱动下融合为单畴 BCC 颗粒、大颗粒则保留晶界/高能扩展缺陷形成多畴——这与铁电体中畴壁、缺陷对极化翻转/居里温度的影响在物理图像上可类比；晶界作为"内表面"降低熔点的机制可类比缺陷降低铁电稳定性。(3) 势函数一致性：单一势描述两相 vs 插值势导致负比热的教训，对选择/构造 SnTe 铁电相变的经典势或 ML 势有直接参考意义。(4) 形状因子（惯性张量最小/最大主轴比）作为序参量量化结构转变的方法，可用于追踪铁电畸变或相变前后形貌变化。
   - **project-6 湿度传感器**：无直接项目连接。无吸附、水合、离子传导或传感机制内容。
   - **project-7 CDW**：弱类比价值。本文研究的是结构型固-固相变（HCP-BCC，位移型/重构型），CDW 是电子失稳驱动的晶格调制，机制不同；但"相变温度随尺寸振荡、对表面形貌敏感、加热-冷却滞后"的表征方法和物理图像（表面原子配位不足触发/阻碍相变）可为低维 CDW 体系的尺寸效应研究提供参照。非直接连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
   - 论证组织：工程动机（增材制造钛粉）→ 方法（单一 EAM 势 + Moldy MD，NVT，50 K 步长，90 万步弛豫）→ 单颗粒尺寸效应（势能/形状因子曲线 → 原子快照 → 转变温度 → 热容异常）→ 双颗粒聚结（接触变形 → HCP-BCC 驱动单畴化 → 熔点升高）→ 结论。逻辑链是"能量曲线识别相变→快照确认结构→统计温度定量→推广到聚结"。
   - 值得复用的术语：
@@ -114,19 +134,19 @@ Lin Zhang, Yaming Wang，2019，JOM 71(12), 4917-4924，DOI 10.1007/s11837-019-0
     - 六方密排/体心立方 HCP/BCC
     - [[../concepts/dulong-petit-law|杜隆-珀蒂定律 Dulong-Petit law]]
     - 形状因子 shape factor（惯性张量主轴比）
-    - 过冷/滞后 undercooling / hysteresis
+    - 过冷/滞后 undercooling / hysteresis [[../concepts/hysteresis|hysteresis]]
     - 单畴结构 single-domain structure
     - 聚结/烧结颈 coalescence / neck formation
     - 幻数团簇 magic cluster
     - [[../concepts/processing-structure-property-relation|加工-结构-性能关系 processing-structure-property relation]]
 ## ✏️ 可写入 Wiki 的要点
-  1. 尺寸分岔的相变路径：<300 原子的 Ti 纳米颗粒加热时由初始 HCP 转为能量更低的二十面体（五重对称、表面为类{111}密排面），Ti13 为幻数团簇全程稳定；>300 原子颗粒经历 HCP→BCC→熔体，>600 原子才完整呈现三步序列（含 BCC→HCP 逆转变）。
-  2. 熔点尺寸效应：Ti611 (2.76 nm) 熔点 880 K，Ti3995 (5.20 nm) 升至 1064 K，符合吉布斯-汤姆逊效应（表面原子配位不足导致预熔，熔点随粒径增大趋近块体值）。
-  3. 凝固显著滞后：所有大颗粒凝固需大过冷度（如 Ti611 Tm=880 K vs Tf=787 K，过冷约 93 K），源于液-固形核界面能势垒；HCP↔BCC 转变温度随粒径呈振荡变化，对表面形貌敏感。
-  4. 热容异常：大颗粒（D>3 nm）势能贡献的热容斜率 ΔU/ΔT 接近 2.0，高于杜隆-珀蒂定律势能部分的 1.5，因 HCP-BCC 相变在温度区间内持续吸收潜热；Ti13 因结构稳定斜率为 0。
+  1. 尺寸分岔的相变路径：<300 原子的 Ti 纳米颗粒加热时由初始 HCP 转为能量更低的[[../concepts/icosahedral-packing|二十面体]]（五重对称、表面为类{111}密排面），Ti13 为幻数团簇全程稳定；>300 原子颗粒经历 HCP→BCC→熔体，>600 原子才完整呈现三步序列（含 BCC→HCP 逆转变）。
+  2. 熔点[[../concepts/critical-thickness-ferroelectric|尺寸效应]]：Ti611 (2.76 nm) 熔点 880 K，Ti3995 (5.20 nm) 升至 1064 K，符合吉布斯-汤姆逊效应（表面原子配位不足导致预熔，熔点随粒径增大趋近块体值）。
+  3. 凝固显著滞后：所有大颗粒凝固需大[[../concepts/undercooling|过冷度]]（如 Ti611 Tm=880 K vs Tf=787 K，过冷约 93 K），源于液-固形核界面能势垒；HCP↔BCC 转变温度随粒径呈振荡变化，对表面形貌敏感。
+  4. 热容异常：大颗粒（D>3 nm）势能贡献的热容斜率 ΔU/ΔT 接近 2.0，高于[[../concepts/dulong-petit-law|杜隆-珀蒂定律]]势能部分的 1.5，因 HCP-BCC 相变在温度区间内持续吸收潜热；Ti13 因结构稳定斜率为 0。
   5. 聚结单畴化机制：两颗粒以 {1-210} 晶面、0.3 nm 间距接触，300 K 下经压缩变形形成连接颈并伴随相对滑移；Ti611-Ti611 在 800 K 经 HCP-BCC 转变融合为单畴 BCC Ti1222，熔点由 880 K 升至约 1000 K；Ti919 对界面消失但未合一，Ti1809 对仍保留清晰界面（即使各自内部已转 BCC），形成多畴。
   6. 单畴化提升熔点的物理：融合为无晶界单畴相当于增大有效曲率半径（吉布斯-汤姆逊）；多畴中的晶界是高能"内表面"，熔化可从晶界优先起始，抵消尺寸增大带来的熔点升高。
   7. 势函数方法学要点：本文采用 Pasianot-Savino 的单一 EAM 势同时描述 HCP 与 BCC，避免了 Mendelev 等用 tanh 插值拼接 BCC/HCP 两势时在相变区间出现势能下降、导致负比热的热力学不一致问题——这是构造跨相变势函数的重要教训。
   8. 模拟参数：23 种尺寸（13–3995 原子，0.54–5.2 nm），NVT 系综，1 fs 时间步，每温度点 90 万步平衡+统计，50 K 温度步长；模拟盒足够大以避免 26 个周期映像间相互作用；用二分法精确标定转变温度。
   9. 形状因子方法：将惯性张量对角化取最小/最大主轴比，1.0 为完美球，用于量化颗粒球化/凝固过程；小颗粒统计时取最后 10 万步中能量最低的瞬时构型以消除整体转动导致的平均坐标畸变。
-  10. 工程意义：细纳米粉在 AM 烧结初期可借助 HCP-BCC 固态相变实现低能单畴融合和致密化，但大颗粒融合后残留的晶界/扩展缺陷构成力学薄弱区，需通过粉末粒度分布与热历程调控最终微观结构。
+  10. 工程意义：细纳米粉在 AM 烧结初期可借助 HCP-BCC [[../concepts/solid-state-phase-transformation|固态相变]]实现低能单畴融合和致密化，但大颗粒融合后残留的晶界/扩展缺陷构成力学薄弱区，需通过粉末粒度分布与热历程调控最终微观结构。

@@ -110,7 +110,7 @@ Nature Nanotechnology 编辑部（未署名社论），2023，Nature Nanotechnol
 这篇编辑评论以"钙钛矿氧化物 / 氧化铪 / 范德瓦尔斯堆叠"三分框架，系统评述原子级厚度铁电与多铁材料的最新突破，指出氧化铪的 CMOS 兼容性与 vdW 堆叠工程是两大主线，而环境稳定性/封装是共同瓶颈。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/moire-superlattice]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelasticity]]、[[../concepts/lego-assembly]]、[[../concepts/size-effect]]、[[../concepts/hafnia-ferroelectricity]]、[[../concepts/stacking-engineered-ferroelectricity]]、[[../concepts/type-ii-multiferroics]]、[[../concepts/encapsulation-2d]]
+  - 概念 [[../concepts/multiferroicity]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/moire-superlattice]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelasticity]]、[[../concepts/lego-assembly]]、[[../concepts/critical-thickness-ferroelectric]]、[[../concepts/hafnia-ferroelectricity]]、[[../concepts/stacking-engineered-ferroelectricity]]、[[../concepts/type-ii-multiferroics]]、[[../concepts/encapsulation-2d]]
   - 实体 [[../entities/BiFeO3]]、[[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/PbTiO3]]、[[../entities/HfO2]]、[[../entities/CuInP2S6]]、[[../entities/SnS]]、[[../entities/MoTe2]]、[[../entities/CuCrP2S6]]、[[../entities/NiI2]]、[[../entities/Cr2Ge2Te6]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]
   - 年度 [[../write/2023]]
@@ -128,27 +128,31 @@ Nature Nanotechnology 编辑部（未署名社论），2023，Nature Nanotechnol
   - **project-5 SnTe铁电模拟 — strong**：本文与 SnTe 超薄铁电模拟高度相关：(1) 系统讨论二维面内铁电性，并明确以 SnS 为代表——SnS 与 SnTe 同为 IV–VI 族单硫族化物、同为面内极化、同样具有孤对电子驱动的畸变机制，是最近邻的类比体系；(2) 阐述了铁电临界厚度/尺寸效应及其在不同体系中的反常行为，为 SnTe 薄膜/二维极限下的极化稳定性模拟提供物理参照；(3) 介绍滑移铁电、堆叠工程铁电等层间自由度产生极化的机制，对 SnTe 双层/异质结模拟有方法论启发；(4) 氧化铪"越薄越强"与钙钛矿"越薄越弱"的对比，为理解 SnTe 尺寸效应提供坐标系。
   - project-1 双光子、project-3 机械发光NN、project-4 TTF分子计算、project-6 湿度传感器、project-7 CDW：无直接项目连接（project-7 中 WTe₂ 虽被提及，但仅涉及滑移铁电，与 CDW 物理无机理/方法重叠，故不列入）。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+
 ## 📝 组织与用词
 文章以"总—分—总"结构展开：先定义铁电/多铁并指出块体材料的工艺与尺寸瓶颈，然后按钙钛矿氧化物 → 氧化铪 → 范德瓦尔斯材料三条材料主线分述，再专门讨论二维多铁（本征第二类多铁 + 异质结磁电耦合），最后以环境稳定性/封装收尾。论证以 14 篇关键文献为锚点，将分散于不同子领域的进展整合为"原子级厚度铁电/多铁"的统一叙事。值得在 wiki 叙述中复用的术语：
   - spontaneous electric polarization（自发电极化）
-  - size effect / critical thickness（尺寸效应 / 临界厚度）
+  - size effect / critical thickness [[../concepts/critical-thickness|critical thickness]]（尺寸效应 / 临界厚度）
   - ferroelectric tunnel junction（铁电隧道结, FTJ）
-  - sliding ferroelectricity（滑移铁电）
+  - sliding ferroelectricity [[../concepts/sliding-ferroelectricity|sliding ferroelectricity]]（滑移铁电）
   - moiré ferroelectricity（莫尔铁电）
   - stacking engineering / stacking mismatch（堆叠工程 / 堆叠失配）
   - type-II multiferroic（第二类多铁）
   - magnetoelectric coupling（磁电耦合）
-  - inversion symmetry breaking（反演对称性破缺）
+  - inversion symmetry breaking [[../concepts/inversion-symmetry-breaking|inversion symmetry breaking]]（反演对称性破缺）
   - encapsulation technique（封装技术）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 铁电材料虽名"铁"但未必含铁，核心是具有可被外电场翻转的自发极化；多铁材料在同一相中同时存在两种及以上初级铁性序（铁磁、铁电、铁弹、铁涡）。
-  2. 钙钛矿铁电体的传统尺寸效应在 PbTiO₃ 中表现为铁电相仅在临界厚度 1.2 nm（约 3 个单胞）以上稳定，但这意味着器件微型化并无刚性厚度下限（Fong et al., Science 2004）。
-  3. 单晶胞厚无铅多铁 BiFeO₃ 仍具有可翻转面外自发极化，可用于构建铁电隧道结（Wang et al., Nat. Commun. 2018），但钙钛矿氧化物与 CMOS 工艺集成困难。
-  4. 氧化铪基 Hf₀.₈Zr₀.₂O₂ 在 1 nm 厚度仍表现出反演对称破缺和可翻转极化，无铁电临界厚度（Cheema et al., Nature 2020）；与钙钛矿相反，其极性畸变随膜厚减小而增强（"越薄越强"），且二元氧化物结构简单、与 CMOS 天然兼容，是极化驱动低功耗存储器与铁电存储的主力候选。
+  1. 铁电材料虽名"铁"但未必含铁，核心是具有可被外电场翻转的自发极化；多铁材料在同一相中同时存在两种及以上初级[[../concepts/ferroic-order|铁性序]]（铁磁、铁电、铁弹、铁涡）。
+  2. 钙钛矿铁电体的传统[[../concepts/critical-thickness-ferroelectric|尺寸效应]]在 PbTiO₃ 中表现为铁电相仅在临界厚度 1.2 nm（约 3 个单胞）以上稳定，但这意味着器件微型化并无刚性厚度下限（Fong et al., Science 2004）。
+  3. 单晶胞厚无铅多铁 BiFeO₃ 仍具有可翻转面外自发极化，可用于构建[[../entitys/FTJ|铁电隧道结]]（Wang et al., Nat. Commun. 2018），但钙钛矿氧化物与 CMOS 工艺集成困难。
+  4. [[../entitys/HfO2|氧化铪]]基 Hf₀.₈Zr₀.₂O₂ 在 1 nm 厚度仍表现出[[../concepts/inversion-symmetry-breaking|反演对称破缺]]和可翻转极化，无[[../concepts/critical-thickness-ferroelectric|铁电临界厚度]]（Cheema et al., Nature 2020）；与钙钛矿相反，其极性畸变随膜厚减小而增强（"越薄越强"），且二元氧化物结构简单、与 CMOS 天然兼容，是极化驱动低功耗存储器与铁电存储的主力候选。
   5. 范德瓦尔斯铁电体因尺寸与堆叠效应而显著区别于块体：本征面外铁电仅有 CuInP₂S₆、In₂Se₃、MoTe₂ 等少数几例；纯面内铁电在二维 SnS 中发现（Higashitarumizu et al., Nat. Commun. 2020）。
-  6. 滑移铁电：单层 WTe₂ 非极性，但双层/三层因层间堆叠失配产生自发面外极化（Fei et al., Nature 2018），极化可由层间横向滑移翻转，将铁电机制从离子位移拓展到层间相对位移。
+  6. 滑移铁电：单层 WTe₂ 非极性，但双层/三层因[[../concepts/interlayer-stacking|层间堆叠]]失配产生自发面外极化（Fei et al., Nature 2018），极化可由层间横向滑移翻转，将铁电机制从离子位移拓展到层间相对位移。
   7. 莫尔铁电：扭转氮化硼中亚稳非中心对称平行取向产生稳健铁电序，莫尔条纹导致交错极化并改变翻转动力学（Vizner Stern et al., Science 2021；Yasuda et al., Science 2021）。
-  8. 堆叠工程铁电：两个相同 TMD 单层（WSe₂、MoSe₂、WS₂、MoS₂）平行堆叠可在室温观测到铁电回滞（Wang et al., Nat. Nanotechnol. 2022）；交替堆叠 MoS₂/WS₂ 无需转角即可破缺对称获得面外铁电（Rogée et al., Science 2022），使非铁电块体可被"组装"成铁电堆叠。
-  9. 二维多铁的两条路径：(a) 本征第二类多铁——少层 CuCrP₂S₆ 中磁序破缺反演对称诱导极化并展现极化–磁化耦合（Lai et al., Nanoscale 2019）；单层 NiI₂ 光学探测到多铁态但尚待直接电磁测量确认（Song et al., Nature 2023）；(b) 异质结磁电耦合——理论预言铁磁 Cr₂Ge₂Te₆/铁电 In₂Se₃ 双层具有强层间磁电效应（Gong et al., Nat. Commun. 2019），另有多种铁磁/铁电、反铁磁/铁电异质双层被提出，绕过了单体材料 d 轨道占据的化学矛盾。
-  10. 许多硫族化物/卤化物 vdW 铁电在空气环境下易与氧和水反应而降解，开发不损害铁电性能的封装技术是该领域走向应用的前沿瓶颈；这也是将超薄铁电/多铁材料集成进低功耗器件时必须与器件架构协同设计的工程问题。
+  8. [[../concepts/stacking-engineered-ferroelectricity|[[../concepts/stack-engineering|堆叠工程]]铁电]]：两个相同 TMD 单层（WSe₂、MoSe₂、WS₂、MoS₂）平行堆叠可在室温观测到铁电回滞（Wang et al., Nat. Nanotechnol. 2022）；交替堆叠 MoS₂/WS₂ 无需转角即可破缺对称获得面外铁电（Rogée et al., Science 2022），使非铁电块体可被"组装"成铁电堆叠。
+  9. 二维多铁的两条路径：(a) 本征[[../concepts/type-ii-multiferroics|第二类多铁]]——少层 CuCrP₂S₆ 中磁序破缺反演对称诱导极化并展现极化–磁化耦合（Lai et al., Nanoscale 2019）；单层 NiI₂ 光学探测到多铁态但尚待直接电磁测量确认（Song et al., Nature 2023）；(b) 异质结[[../concepts/magnetoelectric-coupling|磁电耦合]]——理论预言铁磁 Cr₂Ge₂Te₆/铁电 In₂Se₃ 双层具有强层间磁电效应（Gong et al., Nat. Commun. 2019），另有多种铁磁/铁电、反铁磁/铁电异质双层被提出，绕过了单体材料 d 轨道占据的化学矛盾。
+  10. 许多硫族化物/卤化物 vdW 铁电在空气环境下易与氧和水反应而降解，开发不损害[[../concepts/ferroelectricity|铁电性]]能的封装技术是该领域走向应用的前沿瓶颈；这也是将超薄铁电/多铁材料集成进低功耗器件时必须与器件架构协同设计的工程问题。

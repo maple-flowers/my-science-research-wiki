@@ -93,23 +93,27 @@ Gajdos, Hummer, Kresse, Furthmuller, Bechstedt，2006，Physical Review B 73, 04
 ## 🆕 新概念/实体建议
   - 材料实体 Si、SiC、AlP、diamond-C 可酌情建立（本文基准材料，但与现有项目材料距离较远）。
 ## 📊 关键图表
-  - ![Si 与 GaAs 介电函数虚部 ε₂，纵向 vs 横向 vs APW+LO](../../raw/figures/gajdosLinearOpticalProperties2006/fig_1_BWLDA4M8.png)
-  - ![静态介电常数综合对比表（纵向/横向、mic/RPA/DFT、cond/LR、APW+LO、实验）](../../raw/figures/gajdosLinearOpticalProperties2006/tab_0_AX2DEQS7.png)
+  - ![Si 与 GaAs 介电函数虚部 ε₂，纵向 vs 横向 vs APW+LO](../../raw/figures/gajdosLinearOpticalProperties2006/fig_1_BWLDA4M8.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![静态介电常数综合对比表（纵向/横向、mic/RPA/DFT、cond/LR、APW+LO、实验）](../../raw/figures/gajdosLinearOpticalProperties2006/tab_0_AX2DEQS7.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
   - 笔记另附 33 张公式 PNG（eq_1 至 eq_37），覆盖 PAW 变换、极化率矩阵、极化矢量、Sternheimer 方程等核心推导。
 ## 🔬 项目连接
   - **project-5（SnTe 铁电模拟）— strong**：SnTe 计算使用 VASP/PAW 与 DFPT，介电常数、Born 有效电荷、声子与铁电软模都依赖 DFPT/线性响应框架。本文正是 VASP 中 PAW-DFPT 介电矩阵的奠基性文献，解释了为何 PAW 计算必须用纵向表达式、偶极矩修正项从何而来、mic/RPA/DFT 三种局域场近似的层级，以及 k 点网格（MP 远快于 Γ-centered）和空带收敛的实践要点。对理解 SnTe 静态/光学介电常数计算结果的精度与误差来源直接可复用。
   - **project-2（Mn 多铁）— medium**：多铁性材料（BiFeO₃ 等）的 DFT/PAW 计算同样涉及介电响应、光学谱与磁电耦合表征。本文提供 PAW 框架下精确计算电子介电函数的方法学标准，可用于校验 PAW 势选择、l 截断（标准势 l=1 对纵向足够，横向需 l=2）、局域场效应是否纳入等计算设置；论文本身不涉及磁性或多铁机制，故为方法迁移级连接。
   - 其余项目（project-1 双光子、project-3 机械发光 NN、project-4 TTF 分子、project-6 湿度传感、project-7 CDW）无直接项目连接；project-4 虽也用 DFT，但分子体系光学性质与 PAW 周期性固体长波极限问题关系较远。
+## 🔗 项目双链
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+
 ## 📝 组织与用词
 论文按"提出问题（横向表达式在非局域 PAW 势下失效）→ 理论推导（Adler-Wiser 公式 + PAW 变换 + q→0 Taylor 展开 → 极化矢量含三项）→ DFPT 拓展（Sternheimer 方程）→ 数值验证（五种立方材料，与横向、全电子 APW+LO 对比）→ 结论与展望（GW/BSE）"组织。关键术语：projector-augmented wave（PAW，投影缀加波）、longitudinal/transversal expression（纵向/横向表达式）、polarizability matrix（极化率矩阵）、dielectric function（介电函数）、local field effects（局域场效应）、dipole correction μ_ij（偶极矩修正项）、ion-clamped dielectric constant（离子钳位介电常数，即 ε∞）、density functional perturbation theory（DFPT，密度泛函微扰理论）、long-wavelength limit q→0（长波极限）。
 ## ✏️ 可写入 Wiki 的要点
   1. PAW 方法中计算长波极限光学性质必须采用纵向表达式（位置算符 r·E），因为横向表达式（动量算符 p·A）成立的前提 [H,r]=−iℏ²/mₑ ∇ 仅对纯局域势成立，而 PAW 势是非局域的，且赝波函数未正确归一化。
-  2. 纵向表达式的核心是极化矢量 β_nk（论文式30），由三项组成：赝波函数对 k 的导数 ∇_k|ũ⟩、投影函数随 k 变化项、以及全新的偶极矩修正项 μ_ij；第三项补偿 PAW 球内全电子与赝波函数偶极矩之差，是本文最大创新。
+  2. 纵向表达式的核心是极化矢量 β_nk（论文式30），由三项组成：赝波函数对 k 的导数 ∇_k|ũ⟩、[[../concepts/projector-functions|投影函数]]随 k 变化项、以及全新的[[../concepts/dipole-correction|偶极矩修正]]项 μ_ij；第三项补偿 PAW 球内全电子与赝波函数偶极矩之差，是本文最大创新。
   3. 对 C、Si、SiC、AlP，纵向表达式单中心展开到 l=1（p 态）即收敛；横向表达式需包含 l=2（d 投影子）才能达到同等精度。标准 PAW 势对 2p/3p 元素通常只到 l=1，因此横向结果系统偏大（如 Si mic_cond 横向 16.50 vs 纵向 14.04 vs APW+LO 13.99）。
-  4. DFT 近似下含局域场效应的离子钳位静态介电常数：C 5.80、Si 13.29、SiC 6.97、AlP 8.33、GaAs 14.42（Ga 3d 作价态时 GadAs 为 14.37）；忽略局域场（mic）时分别为 5.98、14.08、7.29、9.12、15.18。局域场效应使介电常数降低 3%–9%。
+  4. DFT 近似下含[[../concepts/local-field-effects|局域场效应]]的离子钳位静态介电常数：C 5.80、Si 13.29、SiC 6.97、AlP 8.33、GaAs 14.42（Ga 3d 作价态时 GadAs 为 14.37）；忽略局域场（mic）时分别为 5.98、14.08、7.29、9.12、15.18。局域场效应使介电常数降低 3%–9%。
   5. LDA 介电常数比实验值高估 5%–20%，带隙越小高估越严重（实验：C 5.7、Si 11.9、SiC 6.52、AlP 7.54、GaAs 11.1）；这是 LDA 低估带隙的固有缺陷，而非 PAW 技术误差。本文工作使剩余误差可干净归因于泛函本身。
-  6. DFPT（线性响应，LR）结果与导带态求和（cond）结果在 mic/RPA/DFT 三个层级都几乎完全一致，验证了理论与实现的自洽；DFPT 无需计算空带，静态介电计算更高效。
-  7. k 点收敛实践：12×12×12 Monkhorst-Pack 网格足够（不包含 Γ 点）；Γ-centered 网格对 GaAs 收敛极慢（需 48×48×48），原因是 GaAs 小带隙与浅半芯态；空带数 60 即收敛。这对所有 PAW-DFPT 介电计算都有参考价值。
-  8. PAW 球内单中心局域场项可忽略——DFT_LR 与 RPA_cond/DFT_cond 的吻合证明 PAW 球内势的变化对宏观介电函数无贡献，因为局域场贡献被 1/|G+G'| 因子加权。
+  6. DFPT（[[../concepts/linear-response|线性响应]]，LR）结果与导带态求和（cond）结果在 mic/RPA/DFT 三个层级都几乎完全一致，验证了理论与实现的自洽；DFPT 无需计算空带，静态介电计算更高效。
+  7. k 点收敛实践：12×12×12 [[../concepts/monkhorst-pack-grid|Monkhorst-Pack 网格]]足够（不包含 Γ 点）；Γ-centered 网格对 GaAs 收敛极慢（需 48×48×48），原因是 GaAs 小带隙与浅半芯态；空带数 60 即收敛。这对所有 PAW-DFPT 介电计算都有参考价值。
+  8. PAW 球内单中心局域场项可忽略——DFT_LR 与 RPA_cond/DFT_cond 的吻合证明 PAW 球内势的变化对宏观[[../concepts/dielectric-function|介电函数]]无贡献，因为局域场贡献被 1/|G+G'| 因子加权。
   9. 动态介电函数 ε₂ 的峰位（E₀, E₁, E₂, E₀', E₁'）由基态 Kohn-Sham 能带与选择定则决定，纵向/横向给出完全相同的峰位（如 Si E₁：PAW 2.71 eV vs APW+LO 2.70 eV；GadAs E₁：2.10 vs 2.11 eV）；差异仅在峰强。
-  10. 本工作为 PAW-GW 与 PAW-BSE 铺平道路：此前 PAW-GW 计算回避 q=0 库仑奇点处理，本文给出的精确长波极限极化率矩阵是 GW 自能与 BSE 激子计算所需屏蔽相互作用的必要输入；方法也可直接推广到杂化泛函（精确交换/HSE）。
+  10. 本工作为 PAW-GW 与 PAW-BSE 铺平道路：此前 PAW-GW 计算回避 q=0 库仑奇点处理，本文给出的精确长波极限[[../concepts/polarizability-matrix|极化率矩阵]]是 GW 自能与 BSE 激子计算所需屏蔽相互作用的必要输入；方法也可直接推广到杂化泛函（精确交换/HSE）。

@@ -85,7 +85,7 @@ Zhiwei Peng, Xiaolin Chen, Yulong Fan, David J. Srolovitz, Dangyuan Lei et al.�
   - 概念 [[../concepts/deformation-potential]]
   - 概念 [[../concepts/moire-superlattice]]
   - 概念 [[../concepts/exciton-funnel-effect|激子漏斗效应]]
-  - 概念 [[../concepts/graphene|石墨烯]]
+  - 概念 [[../entities/graphene|石墨烯]]
   - 概念 [[../concepts/pseudomagnetic-field|赝磁场]]
   - 概念 [[../concepts/raman-strain-splitting|拉曼应变分裂]]
   - 概念 [[../concepts/second-harmonic-generation|二次谐波产生]]
@@ -109,39 +109,42 @@ Zhiwei Peng, Xiaolin Chen, Yulong Fan, David J. Srolovitz, Dangyuan Lei et al.�
 ## 📊 关键图表
   - ![图1 未应变 TMDCs 的晶体结构、激子、自旋轨道劈裂、DFT 能带及 MoS2 吸收/PL 光谱](../../raw/figures/pengStrainEngineering2D2020/fig_1_XEEBDMHH.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - ![图2 应变下 TMDCs 能带演化、PL/吸收峰线性红移、双层 WSe2 间接-直接带隙转变](../../raw/figures/pengStrainEngineering2D2020/fig_2_RIQ4Y63V.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
-  - ![图4 未应变石墨烯的蜂窝晶格、狄拉克锥能带、典型拉曼光谱及普适透射率](../../raw/figures/pengStrainEngineering2D2020/fig_4_2XE82KJJ.png)
+  - ![图4 未应变石墨烯的蜂窝晶格、狄拉克锥能带、典型拉曼光谱及普适透射率](../../raw/figures/pengStrainEngineering2D2020/fig_4_2XE82KJJ.png) -> [[../figures/vibrational-spectra|振动能谱与声子谱]]
   - ![图5 应变石墨烯的拉曼 G/2D 峰位移与分裂、G⁺/G⁻ 本征矢量及 SERS 增强](../../raw/figures/pengStrainEngineering2D2020/fig_5_954WAB7W.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
-  - ![图6 应变诱导石墨烯光学电导率各向异性及偏振依赖吸收实验](../../raw/figures/pengStrainEngineering2D2020/fig_6_H37PWHPZ.png)
+  - ![图6 应变诱导石墨烯光学电导率各向异性及偏振依赖吸收实验](../../raw/figures/pengStrainEngineering2D2020/fig_6_H37PWHPZ.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
   - ![图7 均匀单轴应变加载技术：两点弯曲、悬臂弯曲、卷曲、MEMS 拉伸](../../raw/figures/pengStrainEngineering2D2020/fig_7_WN4NC4WF.png)
   - ![图8 均匀双轴应变加载技术：热膨胀失配法与压电衬底（PMN-PT）法](../../raw/figures/pengStrainEngineering2D2020/fig_8_35EP5LZS.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - ![图9 非均匀局部应变技术：激光照射、预拉伸释放起皱、纳米柱/粗糙金属表面支撑](../../raw/figures/pengStrainEngineering2D2020/fig_9_28U6HD94.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
-  - ![图10 应用：石墨烯-PDMS 光纤应变传感器、SHG 应变成像、宽谱太阳能漏斗器件](../../raw/figures/pengStrainEngineering2D2020/fig_10_62NUBFKF.png)
+  - ![图10 应用：石墨烯-PDMS 光纤应变传感器、SHG 应变成像、宽谱太阳能漏斗器件](../../raw/figures/pengStrainEngineering2D2020/fig_10_62NUBFKF.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
   - ![图11 应用：纳米柱阵列上确定性单光子源、尖端增强 PL 纳米成像（<15 nm）](../../raw/figures/pengStrainEngineering2D2020/fig_11_JJ8ACRHR.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
-  - ![表1 不同应变类型下 TMDCs 与石墨烯的光谱位移系数及光学效应汇总](../../raw/figures/pengStrainEngineering2D2020/tab_1_8UZCMMCY.png)
+  - ![表1 不同应变类型下 TMDCs 与石墨烯的光谱位移系数及光学效应汇总](../../raw/figures/pengStrainEngineering2D2020/tab_1_8UZCMMCY.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
 
 ## 🔬 项目连接
 无直接项目连接。（主题上与 project-3 机械发光的"力学刺激→光发射"范式有间接呼应，但材料体系与机理不同。）
 
+## 🔗 项目双链
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+
 ## 📝 组织与用词
 文章采用经典综述逻辑链"理论奠基 → 本征基线 → 应变现象 → 加载技术 → 应用展望"。理论部分先建立宏观连续弹性理论（应变张量 ε_ij、拉伸能 F_st 与弯曲能 F_b、Lamé 常数、二维杨氏模量 Y_2d 和泊松比 ν），再通过 Cauchy–Born 近似连接到微观紧束缚（TB）和 k·p 有效哈密顿量（含形变势 f3、赝规范场 f4/f5 项）。现象部分按材料分两条线：TMDCs 侧写 PL 线性位移、直接-间接带隙转变、激子漏斗、SHG 应变传感、2H→1T' 相变；石墨烯侧写拉曼峰位移/分裂、带隙打开、各向异性吸收。技术部分按均匀单轴、均匀双轴、非均匀局部三类梳理并对比可达应变量级。最后汇总为传感器、太阳能漏斗、单光子源、纳米成像四类应用。值得在 wiki 叙述中复用的关键词：
-  - 应变工程 / strain engineering
+  - 应变工程 [[../concepts/strain-engineering|应变工程]] / strain engineering
   - 带隙调谐 / band-structure tuning
-  - 激子漏斗效应 / exciton funnel effect
-  - 赝磁场（赝规范场）/ pseudomagnetic field (pseudo-gauge field)
+  - 激子漏斗效应 [[../concepts/exciton-funnel-effect|激子漏斗效应]] / exciton funnel effect
+  - 赝磁场 [[../concepts/pseudomagnetic-field|赝磁场]]（赝规范场）/ pseudomagnetic field (pseudo-gauge field)
   - 光致发光红移/蓝移 / PL redshift/blueshift
   - 直接-间接带隙转变 / direct-to-indirect bandgap transition
   - 拉曼 G 峰分裂 / Raman G-band splitting (G⁺/G⁻)
-  - 二次谐波产生 / second-harmonic generation (SHG)
+  - 二次谐波产生 [[../concepts/second-harmonic-generation|二次谐波产生]] / second-harmonic generation (SHG)
 
 ## ✏️ 可写入 Wiki 的要点
-  1. **机械应变极限**：自由悬浮单层 MoS2 的断裂应变 >10%（断裂应力约为杨氏模量的 1/8，接近 Griffith 理论极限），而体硅通常在 ≤1.5% 应变下断裂；石墨烯可承受高达 25% 的弹性应变。这为大幅调控能带提供了空间。
+  1. **机械应变极限**：自由悬浮单层 MoS2 的断裂应变 >10%（断裂应力约为杨氏模量的 1/8，接近 Griffith 理论极限），而体硅通常在 ≤1.5% 应变下断裂；[[../entitys/graphene|石墨烯]]可承受高达 25% 的弹性应变。这为大幅调控能带提供了空间。
   2. **TMDCs 激子峰位移率（实验定量值）**：单层 MoS2 吸收谱中 A 激子 −64±5 meV/%、B 激子 −68±5 meV/%；PL 谱中 A 激子 −45±7 meV/%；单层 WSe2 吸收谱 A/B 激子分别为 −54±2/−50±3 meV/%；单层 MoSe2 PL 为 −27±2 meV/%；双层 MoS2 间接带隙峰位移率高达约 −129 meV/%（远大于直接带隙峰），表明间接带隙对应变更敏感。
   3. **应变更变带隙类型**：单层 MoS2/WS2 在约 2–2.5% 单轴拉伸应变下发生直接→间接带隙转变（伴随 PL 猝灭）；双层 WSe2 在仅 0.73% 单轴拉伸应变下即发生间接→直接转变（PL 强度急剧增强）；单层 MoS2 在 10–15% 双轴拉伸应变下理论预言半导体→金属相变。
   4. **应变驱动室温相变**：Song 等（2016）在悬空 MoTe2 上用 AFM 针尖施加局部拉伸应变，在室温下实现半导体 2H 相（拉曼特征峰 230 cm⁻¹）向金属 1T' 相（140 cm⁻¹）的可逆转变，将相变温度从 855 °C 降至室温，有望用于非易失存储与可重构器件。
   5. **石墨烯拉曼应变指纹**：单轴拉伸破坏六重对称性，使 G 峰分裂为 G⁺（垂直应变方向，−10.8 cm⁻¹/%）和 G⁻（平行应变方向，−31.7 cm⁻¹/%），2D 峰位移 −64 cm⁻¹/% 并分裂为 2D⁺/2D⁻；压缩应变则产生蓝移（G⁺ +22.3 cm⁻¹/%）与分裂。双轴拉伸下 2D 峰位移率可达 −160.3 cm⁻¹/%。这些系数是定量反演应变大小和方向的标尺。
-  6. **石墨烯带隙打开与赝磁场**：TB 计算预言 >20% 单轴应变可打开带隙；剪切+单轴应变在 12–17% 范围内可打开 0–0.9 eV 带隙；三角形对称的非均匀应变可产生 10–100 T（纳米气泡中高达 300 T）的均匀赝磁场，导致赝朗道能级与零场量子霍尔效应；近期 GPa 级激光冲击实验在石墨烯中诱导出高达 2.1 eV 的可调带隙。
-  7. **石墨烯普适吸收与应变各向异性**：未应变单层石墨烯的可见光吸收率由精细结构常数决定，πα≈2.3%，与频率和偏振无关；应变使光学电导率变为各向异性，透射率依赖入射光偏振方向，可用于光隔离器等偏振器件。
-  8. **激子漏斗效应**：Castellanos-Gomez 等（2013）在起皱 MoS2 中证实，褶皱顶部局部拉伸应变最大、带隙最小，光生激子在带隙梯度驱动下漂移数百纳米至褶皱顶部复合，A 激子 PL 红移；Feng 等（2012）理论提出 0–9% 双轴应变可将 MoS2 带隙从 2.0 eV 连续调至 1.1 eV，实现覆盖 677–905 nm 的宽谱太阳能漏斗。
+  6. **石墨烯带隙打开与[[../concepts/pseudomagnetic-field|赝磁场]]**：TB 计算预言 >20% 单轴应变可打开带隙；剪切+单轴应变在 12–17% 范围内可打开 0–0.9 eV 带隙；三角形对称的非均匀应变可产生 10–100 T（纳米气泡中高达 300 T）的均匀赝磁场，导致赝朗道能级与零场量子[[../concepts/hall-effect|霍尔效应]]；近期 GPa 级激光冲击实验在石墨烯中诱导出高达 2.1 eV 的可调带隙。
+  7. **石墨烯普适吸收与应变[[../concepts/migdal-eliashberg-theory|各向异性]]**：未应变单层石墨烯的可见光吸收率由精细结构常数决定，πα≈2.3%，与频率和偏振无关；应变使[[../concepts/optical-conductivity|光学电导率]]变为各向异性，透射率依赖入射光偏振方向，可用于光隔离器等偏振器件。
+  8. **[[../concepts/exciton-funnel-effect|激子漏斗效应]]**：Castellanos-Gomez 等（2013）在起皱 MoS2 中证实，褶皱顶部局部拉伸应变最大、带隙最小，光生激子在带隙梯度驱动下漂移数百纳米至褶皱顶部复合，A 激子 PL 红移；Feng 等（2012）理论提出 0–9% 双轴应变可将 MoS2 带隙从 2.0 eV 连续调至 1.1 eV，实现覆盖 677–905 nm 的宽谱太阳能漏斗。
   9. **SHG 应变成像**：二阶非线性极化率 χ^(2) 对应变线性依赖（五阶光弹张量，D3h 对称下仅 P1、P2 两个独立参数）；偏振分辨 SHG 强度 I∝[A cos(3φ)+B cos(2θ+φ)]²，Mennel 等（2018）据此实现了 280 nm 空间分辨率的全应变张量映射。
   10. **应变诱导单光子源**：将单层/双层 WSe2 转移到 Si 纳米柱阵列或粗糙 Ag 膜上，局部应变产生类量子点发射体，线宽窄至约 0.1 meV（自由激子约 10 meV），二阶相干 g²(0)=0.07±0.04，衰减时间 2.8 ns（单层）/4.8 ns（双层）；与金属等离激元腔耦合后 Purcell 因子可达 551，衰减时间缩短至约 98 ps。
   11. **理论框架公式**：弹性能 Fel=Fst+Fb，其中 Fst=Y2d/[2(1−ν²)](εxx²+εyy²+2ν εxx εyy+(1−ν)εxy²)，Fb=½κ(∇²h)²；微观 TB 哈密顿量中应变修正键矢 δ'n=(I+ε)δn+Δ；k·p 模型 H1=f3Σεii+f4Σεii σz+f5[(εxx−εyy)σx−2εxy σy]，分别对应中隙移动、赝规范场与剪切耦合。

@@ -151,6 +151,15 @@ Rabia Tahir, Sheryar Abid, Kubra Sattar, Arooma Syed, Iftikhar Hussain, Kaili Zh
   - **project-6 湿度传感器**：**有弱参考价值**。① XPS 证实 MXene 表面在空气/水汽中缓慢氧化形成 Nb₂O₅/Nb₂O₅₋ₓ，并在 O 1s 最高结合能端（531.9 eV）出现吸附分子水/羟基峰——这正是 MXene 基湿度/气体传感器的信号来源；② 论文讨论了 MXene 对端基高度敏感、易氧化的特性，对理解 MXene 湿敏机理与长期稳定性有参考意义；③ 但本文核心是存储器，未涉及湿度传感性能测试，仅作为材料化学背景参考。
   - **project-7 CDW**：无直接项目连接。论文未讨论电荷密度波、Peierls 相变虽被提及但指 Nb–O 键中 Nb 原子位移产生的结构不对称，与 CDW 的电子失稳机制不同。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
   - 论证组织遵循典型"合成→结构表征→物性发现→器件应用→机理"的材料-器件范式：引言（2D+铁电+忆阻器的协同动机）→ 2.1–2.3 材料合成与 XRD/EDS/SEM/Raman/XPS 表征 → 2.4–2.5 P-E 与 PFM 铁电分析 → 2.6 两种电极器件 I-V 与导电机理 → 结论。表1/2/3 分别承担"本工作数据""铁电横向对比""忆阻器横向对比"三个锚定功能。机理部分采用双线并行：铁电起源（F 端基 + Nb₂O₅ 类比 NbOX₂）与阻变起源（VCM 氧空位导电丝 + 铁电极化辅助），并在图8d 汇合。
   - 可复用关键词/术语：
@@ -166,13 +175,13 @@ Rabia Tahir, Sheryar Abid, Kubra Sattar, Arooma Syed, Iftikhar Hussain, Kaili Zh
     - Domain wall pinning / leakage current（畴壁钉扎/漏电流）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. Nb₂CTₓ MXene 自支撑薄膜（约 30 μm 厚，由 Nb₂AlC MAX 相经 48–49% HF 55 °C 刻蚀 72 h、25% TMAOH 55 °C 插层 5 h 制得）首次被实验证实具有铁电性；XRD (002) 峰由 12.7° 移至 6.5°，c-LP 由 13.94 Å 增至 22.96 Å，d 间距由 6.97 Å 增至 11.48 Å 以上。
-  2. 1000 Hz、+165 kV/cm 下 Pr = 5.12 μC/cm²、Pmax = 19.85 μC/cm²，是当时自支撑 MXene 薄膜报道的最高剩余极化；100 Hz 下因畴壁受缺陷黏滞阻力而回线开口更明显。电压 1→500 V 范围内 Pr 由 1.2×10⁻⁵ 单调增至 5.12 μC/cm²。
+  1. Nb₂CTₓ MXene [[../concepts/free-standing-film|自支撑薄膜]]（约 30 μm 厚，由 [[../entitys/Nb2AlC-MAX|Nb₂AlC [[../concepts/max-phase|MAX 相]]]]经 48–49% HF 55 °C 刻蚀 72 h、25% TMAOH 55 °C 插层 5 h 制得）首次被实验证实具有[[../concepts/ferroelectricity|铁电性]]；XRD (002) 峰由 12.7° 移至 6.5°，c-LP 由 13.94 Å 增至 22.96 Å，d 间距由 6.97 Å 增至 11.48 Å 以上。
+  2. 1000 Hz、+165 kV/cm 下 Pr = 5.12 μC/cm²、Pmax = 19.85 μC/cm²，是当时自支撑 MXene 薄膜报道的最高[[../concepts/remanent-polarization|剩余极化]]；100 Hz 下因畴壁受缺陷黏滞阻力而回线开口更明显。电压 1→500 V 范围内 Pr 由 1.2×10⁻⁵ 单调增至 5.12 μC/cm²。
   3. 垂直 PFM 在 ±10 V box-in-box 中显示强振幅对比与锐利 180° 相位反转，横向 PFM 信号弱且斑驳，证明**面外极化主导**；SS-PFM 在 ±100 V 下蝴蝶振幅与相位翻转更饱和。
-  4. 铁电起源被归因于：(a) HF 刻蚀引入的 −F 端基与 Nb–O 键协同，类比 NbOX₂（X=卤素）家族中卤素诱导 Nb 偏心位移、Peierls 畸变导致键长不等而产生自发极化；(b) 空气慢氧化形成的表面 Nb₂O₅（Nb⁵⁺）与亚氧化物（Nb³⁺/Nb⁴⁺）可能贡献或增强铁电。作者承认缺乏原子分辨 TEM 与 DFT 直接证据。
-  5. XPS O 1s 在 530.6 eV 的峰被指认为欠配位氧/氧空位（Vo），对应 Nb₂O₅₋ₓ 亚化学计量态，是 VCM 阻变的直接证据；531.9 eV 为吸附水/羟基。
+  4. 铁电起源被归因于：(a) HF 刻蚀引入的 −F 端基与 Nb–O 键协同，类比 NbOX₂（X=卤素）家族中卤素诱导 Nb 偏心位移、[[../concepts/peierls-distortion|Peierls 畸变]]导致键长不等而产生自发极化；(b) 空气慢氧化形成的表面 Nb₂O₅（Nb⁵⁺）与亚氧化物（Nb³⁺/Nb⁴⁺）可能贡献或增强铁电。作者承认缺乏原子分辨 TEM 与 DFT 直接证据。
+  5. XPS O 1s 在 530.6 eV 的峰被指认为欠配位氧/[[../concepts/oxygen-vacancy|氧空位]]（Vo），对应 Nb₂O₅₋ₓ 亚化学计量态，是 VCM 阻变的直接证据；531.9 eV 为吸附水/羟基。
   6. 两种 MIM 器件均在 ±3 V 窗口实现双极阻变，V_read 分别为 2 V（Ti₃C₂Tₓ 电极）与 1.7 V（rGO 电极），无需额外热处理或氧化；ON/OFF 比 ≈4 与 ≈8（均 <10），耐久性 80 次循环，Ti₃C₂Tₓ 器件保持 >1200 s。
-  7. 导电机理由电极决定：Ti₃C₂Tₓ/Nb₂CTₓ/Ti₃C₂Tₓ 的 log(I)-log(V) 斜率≈1.8，为对称 MXene-MXene 结的近欧姆/无陷阱 SCLC（均匀电子注入、无强肖特基势垒）；rGO/Nb₂CTₓ/rGO 斜率由 >3（陷阱填充 SCLC）过渡到 ≈1.6（欧姆区），符合 Vo 团簇构成导电细丝的形成-断裂模型。
+  7. 导电机理由电极决定：Ti₃C₂Tₓ/Nb₂CTₓ/Ti₃C₂Tₓ 的 log(I)-log(V) 斜率≈1.8，为对称 MXene-MXene 结的近欧姆/无陷阱 SCLC（均匀电子注入、无强[[../concepts/schottky-barrier|肖特基势垒]]）；rGO/Nb₂CTₓ/rGO 斜率由 >3（陷阱填充 SCLC）过渡到 ≈1.6（欧姆区），符合 Vo 团簇构成导电细丝的形成-断裂模型。
   8. P-E 回线在负开关端开口、漏电密度不对称（J=1232 nA/cm² at − vs 781.8 nA/cm² at +），来源包括 Vo 充当施主、Nb 阳离子非化学计量、湿化学与高速离心引入的晶界缺陷及畴壁钉扎；作者建议用掺杂钝化 Vo、电极/铁电体界面工程、精确化学计量与退火来抑制漏电。
-  9. 与既有 MXene 基忆阻器（多用 Ag/Cu 等活性金属电极、依赖电化学金属化 ECM）不同，本工作依赖开关层**本征 Vo**的 VCM，无需活性金属电极 or 额外氧化步骤；但 rGO 器件 RESET 电流存在循环间波动，被归因于 rGO-MXene 界面电荷俘获/去俘获与 Vo 重分布。
-  10. 作者提出的性能提升路线：引入更多 Vo、复合强铁电材料、CVD 制备、纳米尺度应变工程、缺陷钝化；远期应用指向神经形态计算（LTP/LTD、STDP 人工突触），但本工作未做脉冲突触测量。批判性局限包括：ON/OFF <10 远低于商用 10⁶ 要求、铁电起源缺直接结构证据、"自支撑"优势未在器件层面验证、缺多器件统计与长期空气/湿度稳定性数据。
+  9. 与既有 MXene 基[[../concepts/memristor|忆阻器]]（多用 Ag/Cu 等活性金属电极、依赖电化学金属化 ECM）不同，本工作依赖开关层**本征 Vo**的 VCM，无需活性金属电极 or 额外氧化步骤；但 rGO 器件 RESET 电流存在循环间波动，被归因于 rGO-MXene 界面[[../concepts/charge-trapping|电荷俘获]]/去俘获与 Vo 重分布。
+  10. 作者提出的性能提升路线：引入更多 Vo、复合强铁电材料、CVD 制备、纳米尺度[[../concepts/strain-engineering|应变工程]]、缺陷钝化；远期应用指向[[../concepts/neuromorphic-computing|神经形态计算]]（LTP/LTD、STDP 人工突触），但本工作未做脉冲突触测量。批判性局限包括：ON/OFF <10 远低于商用 10⁶ 要求、铁电起源缺直接结构证据、"自支撑"优势未在器件层面验证、缺多器件统计与长期空气/湿度稳定性数据。

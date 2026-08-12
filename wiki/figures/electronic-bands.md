@@ -6,6 +6,20 @@
 
 ---
 
+> **📂 子页面导航**：电子能带图像已按主题拆分为 5 个子页面，点击下表快速跳转：
+>
+> | 子页面 | 主题 | 条目数 |
+> |--------|------|--------|
+> | [[electronic-bands-experimental|🔬 实验测量]] | ARPES/STM/输运、CDW 实验表征 | 16 |
+> | [[electronic-bands-computational|💻 能带结构计算]] | DFT/TB 能带、轨道权重、应变调控 | 22 |
+> | [[electronic-bands-fermi-surfaces|🌊 费米面与嵌套]] | 费米面拓扑、嵌套矢量、CDW 波矢 | 12 |
+> | [[electronic-bands-dos-pdos|📊 态密度]] | DOS/PDOS、总能收敛性 | 21 |
+> | [[electronic-bands-superconductivity|⚡ 超导能隙]] | 双能隙、Andreev、超流密度 | 7 |
+>
+> [[科研Wiki/wiki/figures/electronic-bands|← 返回本页]]
+
+---
+
 ## ⚛️ Kohn-Sham 能量泛函与部分占据 (KS Functional & Partial Occupancies)
 
 ### 1. 增广电荷积分 (Augmentation Charge Integral)
@@ -289,6 +303,17 @@ $$ E_{XC}^{GGA}[n_\uparrow, n_\downarrow] = \int d^3r\, n\, \epsilon_X^{unif}(s)
 
 *   **变量说明**：$s=|\nabla n|/(2k_F n)$ 为约化密度梯度；该形式将非局域性编码进 $F_{XC}$，在均匀极限（$s\to 0$）下自动恢复 LSDA。
 *   **来源**：[[../papers/perdewGeneralizedGradientApproximation1996a]]
+
+---
+
+## 📐 超软赝势收敛性表格 (USPP Convergence Tables)
+
+### 1. PS 分波构造参数
+表 I：PS 分波构造参数，包括投影函数类型、截断半径与能量参考值。
+
+![表：表I PS分波构造参数](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/tab_6_8N64J9RS.png)
+*   **来源**：[[../papers/blochlProjectorAugmentedwaveMethod1994b]]
+*   **关键特征**：投影函数截断半径的选择直接影响赝势的转移性，典型值取 1.2–1.5 倍共价半径。
 
 ---
 

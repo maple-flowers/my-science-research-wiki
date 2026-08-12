@@ -98,12 +98,15 @@ Atsushi Yarai, Takuji Nakanishi，2005，IEICE Electronics Express，Vol.2 No.14
   - `super-luminescence-diode`（实体，SLD）：850 nm 宽谱低相干探测光源。
   - `thermo-electric-cooler`（实体，TEC/帕尔帖元件）：用于局部改变传感头温度以独立调控绝对湿度。
 ## 📊 关键图表
-  - ![传感头与测量系统示意图，SLF对、泵浦/探测光路、滤光片与锁相检测](../../raw/figures/Yarai2005optical/fig_1_JN75GA67.png)
-  - ![检测信号幅度随相对湿度变化（14/18/22°C 三条拟合线），fm=10 Hz、泵浦100 mW、R=10 μm](../../raw/figures/Yarai2005optical/fig_2_HW3467S2.png)
-  - ![归一化检测信号与估算绝对湿度随空气温度变化（RH=15%与45%两组），D.A.为干空气](../../raw/figures/Yarai2005optical/fig_3_CQNZVRBT.png)
+  - ![传感头与测量系统示意图，SLF对、泵浦/探测光路、滤光片与锁相检测](../../raw/figures/Yarai2005optical/fig_1_JN75GA67.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![检测信号幅度随相对湿度变化（14/18/22°C 三条拟合线），fm=10 Hz、泵浦100 mW、R=10 μm](../../raw/figures/Yarai2005optical/fig_2_HW3467S2.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![归一化检测信号与估算绝对湿度随空气温度变化（RH=15%与45%两组），D.A.为干空气](../../raw/figures/Yarai2005optical/fig_3_CQNZVRBT.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
 ## 🔬 项目连接
   - **project-6 湿度传感器（core）**：本文正是光纤湿度传感器的机理性实验论文，对 project-6 有直接参考价值：(1) 给出了一种不依赖湿敏涂层、靠水分子本征近红外吸收（1.48 μm 第二吸收峰）工作的全光学湿度检测路线，避免涂层老化；(2) 明确区分了绝对湿度与相对湿度响应，指出必须做温度补偿——这是任何光学湿度计做实际读出时都要处理的核心问题；(3) 提供了 SLF 微腔 + 泵浦-探测 + 锁相放大的具体参数（间隙 ~30 μm、R=10 μm、fm=10 Hz、泵浦100 mW、探测850 nm/0.1 mW、852 nm/30 nm 干涉滤光片），可作为同类光纤传感头设计与信噪比预算的参照；(4) 用 TEC 控温、双湿度腔（15%/45% RH）+ 理论绝对湿度曲线对照的实验方案，可直接借鉴用于评估其他湿度传感器的温度交叉敏感性；(5) 指出气流扰动造成水汽分布不均是主要误差源，对传感器封装与气路设计有提示意义。
   - 其他项目（project-1 双光子、project-2 Mn多铁、project-3 机械发光NN、project-4 TTF分子计算、project-5 SnTe铁电模拟、project-7 CDW）均无直接内容连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+
 ## 📝 组织与用词
 论文遵循“引言指出现有两类方案矛盾 → 传感系统（原理+器件+波长选择）→ 实验结果（RH 线性响应、温度依赖、绝对湿度验证）→ 结论”的标准工程论证结构。核心论证链为：水分子吸收 1.48 μm 泵浦光 → 局域温升 <10⁻² K → 空气折射率形成凹透镜样梯度 Δn → SLF 间耦合效率下降 → 探测光（850 nm）功率被锁相放大器检出 → 信号正比于水汽数密度即绝对湿度。值得在 wiki 叙述中复用的术语：热透镜效应（thermal lens effect）、球透镜光纤（spherical lensed fiber, SLF）、泵浦-探测（pump-probe）、光热效应（photothermal effect）、光耦合效率（optical coupling efficiency）、绝对湿度/相对湿度（absolute/relative humidity）、温度补偿（temperature compensation）、锁相检测（lock-in detection）、调制频率（modulation frequency）、近红外水吸收峰（near-infrared water absorption peak）。
 ## ✏️ 可写入 Wiki 的要点
@@ -111,9 +114,9 @@ Atsushi Yarai, Takuji Nakanishi，2005，IEICE Electronics Express，Vol.2 No.14
   2. 泵浦光为 1.48 μm 多模激光二极管（光纤输出 100 mW），位于水的近红外“第二吸收峰”附近（第一峰在 1.92 μm），水吸收谱宽与多模光谱匹配，且该波段大气中其他气体无显著吸收，保证选择性。
   3. 探测光为 850 nm 超辐射发光二极管（SLD，FWHM 40 nm，输出 0.1 mW），经光纤耦合器与泵浦光合束后进入光纤 A；PD 前用 852 nm、FWHM 30 nm 干涉滤光片阻挡泵浦光，仅探测光进入 Si 光电二极管。
   4. 泵浦光以 fm=10 Hz 调制，TL 引起的耦合效率变化成为同频交流信号，经放大后由锁相放大器提取；温升不超过 10⁻² K，对空气实际无加热。
-  5. 图2：在 14、18、22°C 三个温度下，检测信号幅度均与相对湿度 RH 成线性关系，证明器件可作湿度计；温度越高斜率越大。
+  5. 图2：在 14、18、22°C 三个温度下，检测信号幅度均与[[../concepts/relative-humidity|相对湿度]] RH 成线性关系，证明器件可作湿度计；温度越高斜率越大。
   6. 图3：在 18°C 下分别保持腔室 RH=15% 和 45%，用带帕尔帖元件的 TEC 局部改变传感器周围温度，实测归一化信号随温度变化趋势与 1013 hPa 下估算的绝对湿度理论曲线高度一致，证明传感器本质上测量绝对湿度（水汽密度）。
-  7. 关键实践结论：要由该传感器获得精确相对湿度，必须结合温度测量对检测信号做温度补偿。
-  8. 与已有方案对比：Tm³⁺:YAG 荧光吸收型需 1-3 W 高功率泵浦激光器；塑料聚合物涂覆光纤/塑料光纤型虽低成本、响应快但传输损耗大、不适合数百米以上远程监测；本方案泵浦 <100 mW、用石英光纤、无需包层处理，兼顾低功耗、长距离与长寿命。
+  7. 关键实践结论：要由该传感器获得精确相对湿度，必须结合温度测量对检测信号做[[../concepts/temperature-compensation|温度补偿]]。
+  8. 与已有方案对比：Tm³⁺:YAG 荧光吸收型需 1-3 W 高功率泵浦激光器；塑料[[../concepts/polymer-phase-separation|聚合物]]涂覆光纤/塑料光纤型虽低成本、响应快但传输损耗大、不适合数百米以上远程监测；本方案泵浦 <100 mW、用石英光纤、无需包层处理，兼顾低功耗、长距离与长寿命。
   9. 已观察到的测量误差（图3散点偏离理论线）归因于气流扰动导致传感器周围水汽分布不均匀；传感头通过小耦合孔与大容积腔室连通以抑制边界湿度扰动，但封装/气流仍有优化空间。
   10. 传感原理继承自作者前期的全光纤热透镜仪器与基于 SLF 的热透镜光谱气体传感器工作（参考文献 [6][7][8]），本文是将该技术平台具体应用于湿度测量。

@@ -105,7 +105,7 @@ Bo Xu, Zhanpeng Gong, Jingran Liu, Yunfei Hong, Yang Yang, Lou Li, Yilun Liu, Ju
 通过 DFT→DeepMD 分子动力学→有限元的多尺度模拟，首次在二维铅硫族化合物 PbX（X=S, Se, Te）中用应变工程从顺电基态"无中生有"地诱导出可逆的铁电相变，并按需设计出涡旋、反涡旋、通量闭合等类斯格明子极性拓扑图案。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/strain-engineering]]、[[../concepts/topological-defects]]、[[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/machine-learning-potential]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelasticity]]、[[../concepts/ferroelectric-topological-defects|铁电拓扑缺陷]]、[[../concepts/soft-mode|软模]]、[[../concepts/paraelectric-ferroelectric-transition|顺电-铁电相变]]、[[../concepts/polar-vortex|极性涡旋]]、[[../concepts/antivortex|反涡旋]]、[[../concepts/flux-closure|通量闭合畴]]、[[../concepts/polarization-phase-diagram|极化-应变相图]]、[[../concepts/giant-piezoelectricity|巨压电效应]]、[[../concepts/multiscale-simulation|多尺度模拟]]
+  - 概念 [[../concepts/2D-materials]]、[[../concepts/strain-engineering]]、[[../concepts/topological-defects]]、[[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/machine-learning-potential]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelasticity]]、[[../concepts/ferroelectric-topological-defects|铁电拓扑缺陷]]、[[../concepts/soft-mode|软模]]、[[../concepts/paraelectric-ferroelectric-transition|顺电-铁电相变]]、[[../concepts/polar-vortex|极性涡旋]]、[[../concepts/antivortex|反涡旋]]、[[../concepts/flux-closure-domain|通量闭合畴]]、[[../concepts/polarization-phase-diagram|极化-应变相图]]、[[../concepts/giant-piezoelectricity|巨压电效应]]、[[../concepts/multiscale-simulation|多尺度模拟]]
   - 实体 [[../entities/PbTe]]、[[../entities/VASP]]、[[../entities/deep-potential]]、[[../entities/domain-wall]]、[[../entities/DeepMD-kit|DeepMD-kit]]、[[../entities/LAMMPS|LAMMPS]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/vibrational-spectra]]、[[../figures/mathematical-models]]、[[../figures/domain-walls]]
   - 年度 [[../write/2022]]
@@ -125,26 +125,29 @@ Bo Xu, Zhanpeng Gong, Jingran Liu, Yunfei Hong, Yang Yang, Lou Li, Yilun Liu, Ju
   - project-2（Mn 多铁）：无直接连接。本文只涉及纯铁电/力学自由度，不含磁性、磁电耦合或 Mn 基氧化物。
   - project-1/3/4/6/7：无直接连接（非双光子、非机械发光 NN、非 TTF 分子、非湿度传感、非 CDW）。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+
 ## 📝 组织与用词
   - 论证按"问题提出 → DFT 微观机制（相变+软模+相图）→ DeepMD-MD 介观验证（压痕涡旋）→ FEM 宏观器件设计（孔洞形状调拓扑）→ 结论"递进，是一篇标准的多尺度模拟理论文章，逻辑链条即"应变场设计 → 相变控制 → 拓扑图案编写"。
   - 值得在 wiki 中复用的术语：
-    - ferroelectric topological defect / 铁电拓扑缺陷
+    - ferroelectric topological defect / 铁电拓扑缺陷 [[../concepts/ferroelectric-topological-defects|铁电拓扑缺陷]]
     - skyrmion-like polar structure / 类斯格明子极性结构
-    - paraelectric (PE)–ferroelectric (FE) transition / 顺电-铁电相变
-    - soft mode / 软模（横向光学模软化）
+    - paraelectric (PE)–ferroelectric (FE) transition / 顺电-铁电相变 [[../concepts/paraelectric-ferroelectric-transition|顺电-铁电相变]]
+    - soft mode [[../concepts/soft-mode|soft mode]] / 软模（横向光学模软化）
     - Landau double-well potential / Landau 双势阱
-    - strain engineering / 应变工程
-    - polarization phase diagram / 极化-应变相图
+    - strain engineering / 应变工程 [[../concepts/strain-engineering|应变工程]]
+    - polarization phase diagram / 极化-应变相图 [[../concepts/polarization-phase-diagram|极化-应变相图]]
     - antivortex & flux-closure / 反涡旋与通量闭合畴
 
 ## ✏️ 可写入 Wiki 的要点
   1. 二维 PbX（X=S, Se, Te）基态为高对称顺电相（空间群 Cmcm，Pb 与 X 共面），与 GeS/GeSe/SnS/SnSe 等本征 Pnma 铁电体不同；施加单轴拉伸 >3.5%（PbTe）或面内剪切 >3.6% 即可诱导 Cmcm→Pnma 的可逆位移型铁电相变，产生面内自发极化。
   2. 相变临界应变随材料不同：PbS 为 1.6% 拉伸 / 2.1% 剪切，PbSe 为 2.2% / 2.4%，PbTe 为 3.5% / 3.6%（见表1）；晶格常数 a 分别为 4.237、4.400、4.638 Å。
-  3. 相变由 Γ 点横向光学软模驱动：4% 拉伸下 PE 相声子谱在 Γ 点出现虚频，FE 相所有声子模恢复为正频；软模本征矢为 Pb 与 X 原子沿 x 方向反向振动，直接破坏中心反演对称性。
-  4. 能量-序参量曲线在临界应变以上由单势阱变为 Landau 双势阱，两个极小值对应 ±[100] 极化态，是铁电双稳态的热力学标志；应变在二维 PbX 中扮演了传统铁电体（如 BaTiO₃）中温度的角色。
+  3. 相变由 Γ 点横向光学软模驱动：4% 拉伸下 PE 相声子谱在 Γ 点出现虚频，FE 相所有声子模恢复为正频；软模本征矢为 Pb 与 X 原子沿 x 方向反向振动，直接破坏中心[[../concepts/inversion-symmetry|反演对称性]]。
+  4. 能量-[[../concepts/order-parameter|序参量]]曲线在临界应变以上由单势阱变为 Landau [[../concepts/double-well|双势阱]]，两个极小值对应 ±[100] 极化态，是铁电双稳态的热力学标志；应变在二维 PbX 中扮演了传统铁电体（如 BaTiO₃）中温度的角色。
   5. ELF 显示相变伴随显著化学键重构：PE 相中每个 Te 周围有 5 个价键，FE[100] 相中为 3 个，FE[110] 相中为 4 个；FE 相呈现黑磷式褶皱（puckered）结构。
   6. 临界应变附近出现巨压电系数"爆发"：PbTe 拉伸 e₁₁ 峰值约 139.2×10⁻¹⁰ C/m，PbSe 拉伸 e₁₁ 峰值约 144.3×10⁻¹⁰ C/m，远超远离相变点的稳态值，对应力-电能量收集与高灵敏传感有意义。
-  7. 作者构建了 (ε_x, ε_y, γ_xy) 全空间极化相图：γ_xy=0 时极化沿较大应变方向（ε_x>ε_y 沿 [100]，ε_x=ε_y 沿 [110]），引入剪切后极化方向连续旋转；这张相图是后续用应变场"绘制"任意图案的查找表。
-  8. 用 DeepMD-kit 训练深度学习势（损失函数 L = p_ε Δε² + p_f/(3N) Σ|ΔF_i|² + p_ξ/9 ‖Δξ‖²，同时拟合能量、力、virial），在 LAMMPS 中对 60×60 单胞（~28×28 nm）PbTe 薄膜做 10 K、半径 3.5 nm 球形压头压痕，压深 3.6 nm 时中心区出现由 90° 畴壁分隔的四象限涡旋极性图案，首次在二维材料中实现极性拓扑态。
-  9. FEM 把 PbTe 视为各向异性弹性膜，按局部应变是否越过相变临界值切换 PE/FE 相弹性常数 (C₁₁, C₂₂, C₁₂ 等)，在带孔硬质衬底上施加均匀气压使薄膜鼓泡：圆孔（200 nm，14 MPa）→ 立方反涡旋；方孔晶格对齐孔边（200 nm，8 MPa）→ 圆形反涡旋；方孔晶格旋转 45°（4.5 MPa）→ 通量闭合畴。证明孔洞形状+晶体取向即可挑选拓扑类别。
+  7. 作者构建了 (ε_x, ε_y, γ_xy) 全空间极化相图：γ_xy=0 时极化沿较大应变方向（ε_x>ε_y 沿 [100]，ε_x=ε_y 沿 [110]），引入剪切后极化方向连续旋转；这张相图是后续用应变场"绘制"任意图案的[[../concepts/lookup-table-calibration|查找表]]。
+  8. 用 DeepMD-kit 训练深度学习势（损失函数 L = p_ε Δε² + p_f/(3N) Σ|ΔF_i|² + p_ξ/9 ‖Δξ‖²，同时拟合能量、力、virial），在 LAMMPS 中对 60×60 单胞（~28×28 nm）PbTe 薄膜做 10 K、半径 3.5 nm 球形压头压痕，压深 3.6 nm 时中心区出现由 90° 畴壁分隔的四象限涡旋极性图案，首次在[[../concepts/2D-materials|二维材料]]中实现极性拓扑态。
+  9. FEM 把 PbTe 视为[[../concepts/migdal-eliashberg-theory|各向异性]]弹性膜，按局部应变是否越过相变临界值切换 PE/FE 相弹性常数 (C₁₁, C₂₂, C₁₂ 等)，在带孔硬质衬底上施加均匀气压使薄膜鼓泡：圆孔（200 nm，14 MPa）→ 立方[[../concepts/antivortex|反涡旋]]；方孔晶格对齐孔边（200 nm，8 MPa）→ 圆形反涡旋；方孔晶格旋转 45°（4.5 MPa）→ [[../concepts/flux-closure-domain|通量闭合畴]]。证明孔洞形状+晶体取向即可挑选拓扑类别。
   10. 局限：全程 0 K/10 K 模拟，未讨论室温热稳定性；FEM 在相界处用均质化阶跃切换参数，忽略梯度能和畴壁动力学；缺乏实验验证（需要 AFM 压痕+PFM/4D-STEM DPC 联用）；未给出拓扑态的电学/光学读取方案；DeepMD 势在训练集外（如相变附近、非均匀应变）的泛化误差未量化。这些正是 project-5 等后续工作可补足的方向。

@@ -85,14 +85,14 @@ L. Zhang, C. C. Zhang, Y. Y. Wang, X. X. Liu, G. G. Wang，2002，Journal of Mat
   - `low-carbon-steel`（低碳钢）：以 Fe–C–Si–Mn 为代表、碳含量约 0.15 wt% 的钢种，组织以铁素体为主。
   - `fe-c-phase-diagram`（铁碳相图）：模型确定 Ae3、cγ、cα 等热力学边界的依据。
 ## 📊 关键图表
-  - 图1 Fe–C 相图示意，标出 Ae3 温度线 ![Fe-C相图与Ae3温度](../../raw/figures/Zhang2002b/fig_1_DADI282V.png)
-  - 图2 连续冷却曲线离散为等温阶梯的近似处理 ![连续冷却的等温离散化](../../raw/figures/Zhang2002b/fig_2_XUHQZPIE.png)
-  - 图3 铁素体在奥氏体晶界形核并向晶内生长示意 ![晶界形核示意](../../raw/figures/Zhang2002b/fig_3_MKLDVB48.png)
-  - 图4 六边形 CA 网格的中心元胞与六个最近邻 ![CA邻居定义](../../raw/figures/Zhang2002b/fig_4_GILHIVAN.png)
-  - 图5 元胞的 γ / α / α-γ 界面三种状态 ![元胞三种状态](../../raw/figures/Zhang2002b/fig_5_9UZ6KLBG.png)
-  - 图6 Q=1 K/s 下铁素体形核-生长-最终组织的演化快照（0.6×0.6 mm，200×200 元胞） ![组织演化模拟](../../raw/figures/Zhang2002b/fig_6_2JBIIL8Q.png)
-  - 图7 不同冷速（0.05–5.0 K/s）下实验光学金相与模拟组织对比 ![实验与模拟对比](../../raw/figures/Zhang2002b/fig_7_XNUWJQCG.png)
-  - 图8 平均铁素体晶粒尺寸随冷却速率增大而单调下降的定量曲线 ![冷速-晶粒尺寸曲线](../../raw/figures/Zhang2002b/fig_8_ATG5KEXH.png)
+  - 图1 Fe–C 相图示意，标出 Ae3 温度线 ![Fe-C相图与Ae3温度](../../raw/figures/Zhang2002b/fig_1_DADI282V.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - 图2 连续冷却曲线离散为等温阶梯的近似处理 ![连续冷却的等温离散化](../../raw/figures/Zhang2002b/fig_2_XUHQZPIE.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - 图3 铁素体在奥氏体晶界形核并向晶内生长示意 ![晶界形核示意](../../raw/figures/Zhang2002b/fig_3_MKLDVB48.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - 图4 六边形 CA 网格的中心元胞与六个最近邻 ![CA邻居定义](../../raw/figures/Zhang2002b/fig_4_GILHIVAN.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - 图5 元胞的 γ / α / α-γ 界面三种状态 ![元胞三种状态](../../raw/figures/Zhang2002b/fig_5_9UZ6KLBG.png) -> [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
+  - 图6 Q=1 K/s 下铁素体形核-生长-最终组织的演化快照（0.6×0.6 mm，200×200 元胞） ![组织演化模拟](../../raw/figures/Zhang2002b/fig_6_2JBIIL8Q.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - 图7 不同冷速（0.05–5.0 K/s）下实验光学金相与模拟组织对比 ![实验与模拟对比](../../raw/figures/Zhang2002b/fig_7_XNUWJQCG.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - 图8 平均铁素体晶粒尺寸随冷却速率增大而单调下降的定量曲线 ![冷速-晶粒尺寸曲线](../../raw/figures/Zhang2002b/fig_8_ATG5KEXH.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
 ## 🔬 项目连接
 无直接项目连接。本文属于钢铁冶金领域的介观组织模拟（元胞自动机 + 扩散方程），与 project-1 双光子、project-2 Mn 多铁、project-3 机械发光 NN、project-4 TTF 分子计算、project-5 SnTe 铁电模拟、project-6 湿度传感器、project-7 CDW 在材料体系、物理机制与计算方法（非 DFT/MD/MLIP，而是概率性 CA）上均无可复用的机制或数据。project-5 虽涉及铁电材料的计算模拟，但其尺度（电子结构/DFT）与物理（极化翻转）和本文（介观相变动力学/碳扩散）差异过大，不构成有意义的方法学借鉴。
 ## 📝 组织与用词
@@ -115,6 +115,6 @@ L. Zhang, C. C. Zhang, Y. Y. Wang, X. X. Liu, G. G. Wang，2002，Journal of Mat
   5. 生长由碳在 α/γ 界面的扩散通量守恒控制：Dγ(∂cγ/∂n) − Dα(∂cα/∂n) = vn(cγ − cα)；铁素体向邻居界面元胞的捕获概率 pcap = l/LCA，其中 l 为一个时间步内的生长长度。
   6. 温度场与溶质场均用显式有限体积法在六边形邻域上扩散，更新式为 u(i,j) + (2Δt/3LCA²)Σ Du(u_nei − u_ij) → u_ij；跨相界面时扩散系数按界面元胞中 α/γ 相分数 f 加权（式 19–21）。
   7. 时间步长取 Δt = (1/5) min(LCA/vmax, LCA²/Du, LCA²/Dα, LCA²/Dγ)，即必须小于生长、热扩散、α 中溶质扩散、γ 中溶质扩散四个时间尺度中最快者的 1/5，以保证数值稳定和物理一致。
-  8. 扩散控制的"自限制"机制：先形核的铁素体向邻近奥氏体排出碳并释放潜热，使邻区碳浓度升高（Ae3 下降）、温度升高，导致过冷度 ΔT 减小、后续形核概率下降，从而自然产生大小不均的晶粒分布。
+  8. 扩散控制的"自限制"机制：先形核的铁素体向邻近奥氏体排出碳并释放潜热，使邻区碳浓度升高（Ae3 下降）、温度升高，导致[[../concepts/undercooling|过冷度]] ΔT 减小、后续形核概率下降，从而自然产生大小不均的晶粒分布。
   9. 冷速效应：高冷速下过冷度大、形核点被大量激活，且溶质来不及扩散、渗碳体在生长前沿析出钉扎界面，故得到细小晶粒；低冷速下形核少、扩散充分、晶粒充分长大。模拟初始奥氏体晶粒 126 μm，冷速 0.05→5.0 K/s 时实验铁素体晶粒 106→33 μm、模拟 108→38 μm，定量吻合。
-  10. 模型局限：二维截面与三维晶粒尺寸的体视学换算未严格处理；扩散系数 Dγ、Dα 取常数而非 Arrhenius 温度依赖；超元素近似忽略了不同合金元素对碳活度和界面能的差异化影响；形核常数 K1、K2 等参数的可移植性有限，作者展望三维扩展、CALPHAD 耦合以及与轧制变形/再结晶模型的集成。
+  10. 模型局限：二维截面与三维晶粒尺寸的体视学换算未严格处理；扩散系数 Dγ、Dα 取常数而非 Arrhenius 温度依赖；[[../concepts/super-element-approximation|超元素近似]]忽略了不同合金元素对碳活度和界面能的差异化影响；形核常数 K1、K2 等参数的可移植性有限，作者展望三维扩展、CALPHAD 耦合以及与轧制变形/再结晶模型的集成。

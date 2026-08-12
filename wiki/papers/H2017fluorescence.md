@@ -77,8 +77,8 @@ Chibao Huang、Junle Qu，2017，*Biomarkers Journal*，DOI 10.21767/2472-1646.1
 
 ## 🔗 Wiki 双链
   - 图表 [[../figures/optical-spectra]]
-  - 概念 [[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/solvatochromism|溶剂化变色]]、[[../concepts/thermo-solvatochromism|热致溶剂化变色]]、[[../concepts/intramolecular-charge-transfer|分子内电荷转移]]、[[../concepts/twisted-intramolecular-charge-transfer|扭曲分子内电荷转移]]、[[../concepts/exciplex|激基复合物]]、[[../concepts/locally-excited-state|局域激发态]]、[[../concepts/d-pi-a-architecture|D-π-A构型]]、[[../concepts/solvent-relaxation|溶剂弛豫]]
-  - 实体 [[../entities/P1|P1]]、[[../entities/P2|P2]]、[[../entities/dicyanostilbene|双氰基二苯乙烯]]
+  - 概念 [[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/solvatochromism|溶剂化变色]]、[[../concepts/thermo-solvatochromism|热致溶剂化变色]]、[[../concepts/intramolecular-charge-transfer|分子内电荷转移]]、[[../concepts/twisted-intramolecular-charge-transfer|扭曲分子内电荷转移]]、[[../concepts/exciplex|激基复合物]]、[[../concepts/local-excited-state|局域激发态]]、[[../concepts/d-pi-a-architecture|D-π-A构型]]、[[../concepts/solvent-relaxation|溶剂弛豫]]
+  - 实体 [[../entities/dicyanostilbene-1a|P1]]、[[../entities/dicyanostilbene-1b|P2]]、[[../entities/DCS|双氰基二苯乙烯]]
   - 年度 [[../write/2017]]
   - 项目 [[../projects/project-1-two-photon]]
   - 相关论文 **H2017fluorescence**
@@ -90,17 +90,20 @@ Chibao Huang、Junle Qu，2017，*Biomarkers Journal*，DOI 10.21767/2472-1646.1
   - **project-1 双光子（strong）**：本文是直接的双光子发光文献。可复用内容包括：(1) 分子设计规则——在单个芳环上同时引入邻位和间位双氰基受体，既能显著降低跃迁能、扩展共轭以提高 δ，又能通过间位氰基协同扩散邻位氰基氮上的负电荷，稳定 TICT 中间体；(2) 具体性能数据——D-π-A 型二苯乙烯分子 δ 可达 5560 GM（环己烷，790 nm），为评估同类推拉电子发色团的双光子亮度提供了量级参照；(3) 激发态物理图像——LE / TICT / Exciplex 三态竞争及其对极性、粘度、温度、浓度的差异响应，可直接迁移到双光子发光材料的环境敏感性分析；(4) 方法学——双光子激发荧光（TPE）光谱、δ 测量，以及用 ET(30)/π*/Δf 等溶剂参数做线性溶剂化能关系（LSER）拟合来定量表征溶剂化显色。本文不涉及双光子固化/聚合，因此判为 strong 而非 core。
   - 其他项目（project-2 Mn多铁、project-3 机械发光NN、project-4 TTF分子计算、project-5 SnTe铁电模拟、project-6 湿度传感器、project-7 CDW）均无内容参考价值，不列入。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+
 ## 📝 组织与用词
 论文按“分子设计与合成 → 溶剂化变色（图1-2，表1）→ 温度/粘度依赖与三重荧光（图3）→ 浓度依赖与激发态归属 → 双光子截面与机理（ICT-溶剂弛豫-TICT）→ 结论”的递进结构组织。图3 是全文核心证据，浓度依赖（补充图 S3-S6）用于区分 TICT（分子内）与 Exciplex（分子间）。值得在 wiki 叙述中复用的术语：双光子吸收截面（two-photon absorption cross-section, δ / GM）；溶剂化显色（solvatochromism）；给体-π-受体（D-π-A / push-pull chromophore）；分子内电荷转移（intramolecular charge transfer, ICT）；扭曲分子内电荷转移（twisted intramolecular charge transfer, TICT）；局域激发态（locally excited state, LE）；激基复合物（exciplex）；双光子三重荧光（two-photon triple fluorescence）。
 
 ## ✏️ 可写入 Wiki 的要点
-  1. P1（2,5-二氰基-4-甲基-4′-二甲氨基二苯乙烯）由二甲氨基苯甲醛与（2,5-二氰基-4-甲基苄基）膦酸二乙酯经 NaH 存在下的 Wittig-Horner 缩合制得，产率 65%；P2（二苯氨基类似物）产率 62%。
+  1. P1（2,5-二氰基-4-甲基-4′-二甲氨基[[../entities/stilbene|二苯乙烯]]）由二甲氨基苯甲醛与（2,5-二氰基-4-甲基苄基）膦酸二乙酯经 NaH 存在下的 Wittig-Horner 缩合制得，产率 65%；P2（二苯氨基类似物）产率 62%。
   2. P1 吸收峰几乎不随溶剂变化（约 396–409 nm），而发射峰从环己烷 445 nm 红移至 DMSO 641 nm，位移达 196 nm，覆盖整个可见光区；这种“吸收不变、发射大变”的特征使其可以用单一激发波长检测不同极性环境。
   3. 发射峰波数与 ET(30)、Kosower Z、δΔG≠ 的线性相关系数 r²=0.90，与 π* 为 0.85，与 Lippert-Mataga Δf 为 0.82，表明广义溶剂极性（偶极-偶极 + 氢键）主导光谱响应；质子溶剂因氢键稳定基态而相对非质子极性溶剂蓝移（EtOH 606 nm < DMF 634 nm）。
-  4. 双光子激发峰位于 790 nm（生物成像窗口 700–1000 nm 内）；δmax 在环己烷中高达 5560 GM，在强极性 DMF 中仅 130 GM，相差约 43 倍，归因于激发态从平面共轭构型向非共面 TICT 构型的转变。
+  4. [[../concepts/two-photon-excitation|[[../concepts/biphoton|双光子]]激发]]峰位于 790 nm（生物成像窗口 700–1000 nm 内）；δmax 在环己烷中高达 5560 GM，在强极性 DMF 中仅 130 GM，相差约 43 倍，归因于激发态从平面共轭构型向非共面 TICT 构型的转变。
   5. 甘油中升温（20→70 °C）使 A 带（1La，TICT）和 B 带（1Lb，LE）均红移，B 带相对强度下降；单光子（λex=410 nm）与双光子（λex=790 nm）变化趋势一致，说明两种激发方式布居到相同发光态。
   6. 甘油-乙醇混合体系中，双光子激发下随粘度增加：B 带（LE）单调增强；A 带（TICT）先快速下降后增强；位于 542 nm 的 E 带（Exciplex）在中等粘度出现、纯甘油中消失；单光子下 E 带未被观察到，作者归因于其强度低、寿命短，双光子焦点处高局部激发态浓度促进了分子间 Exciplex 形成。
   7. 浓度依赖：低浓度（10⁻⁶ M）下 IA/IB 随粘度增加而降低，高浓度（3×10⁻⁶ M）下则相反；E 带强度随 P1 浓度增大而增强，支持其分子间 Exciplex 归属。
-  8. 三带归属：B 带 = LE 态（平面、短波），A 带 = TICT 态（给/受体近正交、长波、弱发光），E 带 = 分子间 Exciplex（强 D-A 分子间电荷转移复合物）。
-  9. 双氰基设计的双重作用：邻位和间位氰基在基态即为强受体，降低跃迁能、增大激发态偶极矩和对极性的敏感度；同时两氰基扩展 π 共轭，显著提高 δ 和量子产率；激发态绝热 ICT 使邻位氰基氮带负电，经溶剂弛豫后被极性溶剂与间位氰基共同稳定。
-  10. 极性溶剂中量子产率骤降（如苯中 Φ=0.715，DMSO 中 Φ=0.013）与发光态经非共面、非辐射 TICT 通道快速衰减一致；P2 因二苯氨基给电子能力弱于二甲氨基，ICT 程度较低，溶剂化变色范围和 δ 均小于 P1。
+  8. 三带归属：B 带 = LE 态（平面、短波），A 带 = TICT 态（给/受体近正交、长波、弱发光），E 带 = 分子间 Exciplex（强 D-A 分子间[[../concepts/charge-transfer|电荷转移]]复合物）。
+  9. 双氰基设计的双重作用：邻位和间位氰基在基态即为强受体，降低跃迁能、增大激发态偶极矩和对极性的敏感度；同时两氰基扩展 π 共轭，显著提高 δ 和量子产率；激发态绝热 ICT 使邻位氰基氮带负电，经[[../concepts/solvent-relaxation|溶剂弛豫]]后被极性溶剂与间位氰基共同稳定。
+  10. 极性溶剂中量子产率骤降（如苯中 Φ=0.715，DMSO 中 Φ=0.013）与发光态经非共面、非辐射 TICT 通道快速衰减一致；P2 因二苯氨基给电子能力弱于二甲氨基，ICT 程度较低，[[../concepts/solvatochromism|溶剂化变色]]范围和 δ 均小于 P1。

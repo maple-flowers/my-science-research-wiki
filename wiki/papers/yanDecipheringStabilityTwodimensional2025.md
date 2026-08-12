@@ -134,6 +134,15 @@ Yuan Yan, Kaiyun Chen, Minglei Sun, Minglei Sun, Yinchang Ma, Peiyao Wang, Junka
 ## 🔬 项目连接
 无直接项目连接。笔记虽被归入"06_单层 CDW 与维度效应"分类，但本文主题是 III-V 半导体二维化的稳定性与迁移率，与 project-1 双光子、project-2 Mn多铁、project-3 机械发光NN、project-4 TTF分子计算、project-5 SnTe铁电模拟、project-6 湿度传感器、project-7 CDW 均无直接重叠；方法论（DFT+ML+形变势迁移率）可被 project-5 及 topic Z01 借鉴。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
   论证沿"历史困境（黑暗中射击）→ 数据驱动解构（DBSCAN 发现积木）→ 化学机理（轨道杂化+ECR）→ LEGO 理性组装（TT/E2/E4）→ 能量回归验证（线性叠加，四面体贡献2-3倍于三角形）→ 性能兑现（TT 超高迁移率，形变势骤降）"推进，形成"观察-建模-设计-验证-预测"闭环，并在结尾把规则推广到 II-VI、IV 族。值得复用的术语：
   - 二维化 / two-dimensionalization
@@ -148,14 +157,14 @@ Yuan Yan, Kaiyun Chen, Minglei Sun, Minglei Sun, Yinchang Ma, Peiyao Wang, Junka
   - 声子散射 / phonon scattering；电声耦合 / electron-phonon (electroacoustic) coupling
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 历史趋势：二维 III-V 最稳定结构随预测时间推移"对称性降低、晶胞原子数增多"——屈曲蜂窝 P3m1（2 原子）→ NB 结构 P2/m（8 原子），与石墨烯中高对称更稳定的直觉相反；驱动力是消除悬挂键。
+  1. 历史趋势：二维 III-V 最稳定结构随预测时间推移"对称性降低、晶胞原子数增多"——屈曲蜂窝 P3m1（2 原子）→ NB 结构 P2/m（8 原子），与[[../entitys/graphene|石墨烯]]中高对称更稳定的直觉相反；驱动力是消除悬挂键。
   2. 积木分类（DBSCAN 对键长-键角聚类）：III 族中心聚成三类——三角形（~120°, sp²）、四面体（~109.5°, sp³）、扭曲三角形（107–117°）；V 族中心除上述三类外还有伞状、金字塔状等，共占 39%，呈"非定向胶水"特征。III 族原子序数增大（B→In），扭曲三角形比例由 35.3% 降至 20.0%，规则三角形由 29.4% 升至 43.3%。
-  3. ECR 机理：四面体积木中成键前一个电子从 X(V) 转移到 M(III)，随后各成四键满足八隅律；平面三角形中 M 发生 sp³→sp² 杂化，M 悬挂键轨道为空、X 悬挂键轨道饱和；扭曲三角形中 M 三个 sp³ 电子成键、一个 sp³ 轨道空置——三者均满足电子计数规则。
+  3. ECR 机理：四面体积木中成键前一个电子从 X(V) 转移到 M(III)，随后各成四键满足八隅律；平面三角形中 M 发生 sp³→sp² 杂化，M 悬挂键轨道为空、X 悬挂键轨道饱和；扭曲三角形中 M 三个 sp³ 电子成键、一个 sp³ 轨道空置——三者均满足[[../concepts/electron-counting-rule|电子计数规则]]。
   4. 组装规则：纯三角形经"Pop-It"式上下翻转顶点可得 Z13（zigzag 方向一列上、三列下）、Z33、A21（armchair 方向）、A11(=V形)、Z22(=扶手椅形)；纯四面体共棱组装得 E2（共2棱）、E4（共4棱）；混合得 TT（矩形对称，4M+4X/晶胞，MX₃表面+MX₄内部）。
   5. 16 种 MX 化合物基态相图：BN=平面蜂窝（Π键，类石墨烯）；TT 最稳定 8 种——BP、BAs、GaN、GaP、GaAs、InN、InP、InAs；DLHC 最稳定 4 种——AlP、AlAs、AlSb、GaSb；E2=BSb；E4=InSb。解释了为何 MBE 能合成 AlSb-DLHC 却不能合成 InSb-DLHC（InSb 基态是 E4 而非 DLHC）。
   6. 能量回归模型 E_tot = α₁n₁ + α₂n₂ + β₁n₁' + β₂n₂' + C（四积木比例×系数），GaAs R²=0.95、RMSE=23 meV/atom；8 个材料族中 7 个 R²>0.8（InAs 例外 0.67）；所有系数为负，四面体系数绝对值是三角形的 2–3 倍。
   7. 元素趋势：随非金属 X 原子序数增大，四面体系数绝对值增大（GaP/GaAs/GaSb: −0.22/−0.30/−0.34），归因于电负性降低更易 sp³；随金属 M 原子序数增大，四面体系数绝对值减小（AlAs/GaAs/InAs: −0.41/−0.30/−0.17），归因于对外层电子吸引减弱、对成键角度要求降低。纯三角结构（Z33、Z13 等）彼此能量差 <10 meV/atom，呈"阶梯"状。
   8. 动力学/热稳定性：所有 LEGO 新结构声子谱无虚频；300 K、超胞 >20 Å、5 ps AIMD 无结构破坏。
-  9. TT 相迁移率（形变势理论，300 K，μ = eħ³C₂D/(kBT m* m_d E₁²)）：BP、BAs、AlP、GaP、GaAs、GaSb 等达 10⁵ cm² V⁻¹ s⁻¹，部分超过石墨烯(2×10⁵)、石墨二炔(2×10⁵)、黑磷(2.6×10⁴)、MoS₂(200)；TT-GaSb 空穴 y 方向迁移率 3.4×10⁸ cm² V⁻¹ s⁻¹，比体相高 5 个数量级。
+  9. TT 相迁移率（[[../concepts/deformation-potential|形变势]]理论，300 K，μ = eħ³C₂D/(kBT m* m_d E₁²)）：BP、BAs、AlP、GaP、GaAs、GaSb 等达 10⁵ cm² V⁻¹ s⁻¹，部分超过石墨烯(2×10⁵)、石墨二炔(2×10⁵)、黑磷(2.6×10⁴)、MoS₂(200)；TT-GaSb 空穴 y 方向迁移率 3.4×10⁸ cm² V⁻¹ s⁻¹，比体相高 5 个数量级。
   10. 高迁移率机理：TT 结构有效质量反而略增，迁移率飙升主要来自形变势常数骤降（μ ∝ 1/E₁²）；TT-GaSb 空穴 y 方向 E₁ 仅 0.0037 eV（体相 3.40 eV，常见范围 0.1–10 eV），因为其价带顶 VBM 完全由 pₓ 轨道占据、无 p_y 态，对 y 方向单轴应变不敏感——这是"轨道-应变解耦"导致极弱电声耦合的典型案例。电子迁移率对重元素（GaAs、GaSb、InSb、InAs）二维化后反而下降，因其电子有效质量激增（如 InAs y 方向 0.028→0.32，InSb 0.027→0.79）。
   11. 计算细节：VASP，PAW-PBE，截断能 450 eV，弛豫 k 网格 >30/a×30/b×1、静态 >60/a×60/b×1，真空层 ≥20 Å，能量收敛 10⁻⁸ eV、力收敛 10⁻⁴ eV/Å；有效质量用 HSE06；形变势由带边-单轴应变线性拟合得到；并对体相 III-V 做了方法验证（计算值与实验值吻合）。

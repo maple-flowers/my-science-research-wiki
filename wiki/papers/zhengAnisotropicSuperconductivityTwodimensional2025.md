@@ -123,17 +123,26 @@ Jing-Jing Zheng、Jingyu Li、Rong-Rong Ma、Fengkai Guo、Jiang-Jiang Ma、Peng
   - **project-5（SnTe 铁电模拟）—— 弱方法学参考**：仅在 DFT 结构优化、声子谱（软模/虚频判定）这一通用层面可借鉴；本文不涉及铁电、极性畸变或 Berry 相，与 SnTe 物理无直接交集。
   - **project-1（双光子）、project-2（Mn 多铁）、project-3（机械发光 NN）、project-6（湿度传感器）**：无直接项目连接。（注：引言提及 Mn3(CO)6 是该 MOF 家族的一员，但本文未做 Mn 体系的磁性/多铁分析，不构成 project-2 的实质参考。）
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
 论文按"引言（类比 Cu3(CS)6 提出问题）→ 计算方法（DFT/DFPT/EPW/ME 方程与参数）→ 结果四小节 A 结构与电子性质 → B 声子与电声相互作用 → C 各向异性超导 → D 电子磁化率（嵌套）→ 结论"的递进链条展开，每一步结论都由对应图支撑：图1 立"高 N(EF)+平带/VHs"的电子前提，图2 立"低能 Cu/O 声子主导耦合、λ=0.72"，图3 立"单能隙各向异性、Tc=16.5 K、2Δ0/kBTc=3.94"，图4 回到微观机制"嵌套驱动"。值得复用的术语：kagome lattice（笼目晶格）、2D-MOF（二维金属有机框架）、π–d conjugation（π-d 共轭）、electron-phonon coupling, EPC（电子-声子耦合）、Eliashberg spectral function α²F(ω)（Eliashberg 谱函数）、Fermi surface nesting（费米面嵌套）、van Hove singularity / flat band（范霍夫奇点 / 平带）、anisotropic single-gap BCS superconductivity（单能隙各向异性 BCS 超导）。
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 结构：Cu3(CO)6 单层属 P6/mmm（No.191），优化晶格常数 a = 7.732 Å，Cu 原子构成完美 kagome 点阵，每个 Cu 由 4 个 O 四重配位，Cu–O/C–O/C–C 键长分别为 2.03/1.33/1.02 Å；原胞 15 原子，共 45 支声子模（3 声学 + 42 光学），整个布里渊区无虚频，动力学稳定。
+  1. 结构：Cu3(CO)6 单层属 P6/mmm（No.191），优化晶格常数 a = 7.732 Å，Cu 原子构成完美 kagome 点阵，每个 Cu 由 4 个 O 四重配位，Cu–O/C–O/C–C 键长分别为 2.03/1.33/1.02 Å；原胞 15 原子，共 45 支声子模（3 声学 + 42 光学），整个[[../concepts/brillouin-zone|布里渊区]]无虚频，动力学稳定。
   2. 电子结构：三条带穿过 EF，呈金属性；N(EF) = 16.2 states/eV/unit cell，是硫代类似物 Cu3(CS)6（3.56）的 4.5 倍以上；EF 附近态主要来自 Cu dxy,x2−y2、C pz、O pz 以及 Cu dxz,yz、O s+px,y 的杂化。
-  3. kagome 特征电子结构：M 点附近类狄拉克锥、K–M 路径上的平带、−0.01 eV 处的范霍夫奇点共存；M 点附近费米速度 vF = (1/ħ)|∂E/∂k| 显著压低，是平带的直接光谱证据。
-  4. 费米面三片结构：中心圆形空穴袋 π1（C pz/O pz/Cu dxz,yz）、花瓣形 π2（与 δ 相交）、外圈圆形空穴袋 δ（Cu dxy,x2−y2 与 O s+px,y 杂化），均围绕 Γ 点。
+  3. kagome 特征电子结构：M 点附近类狄拉克锥、K–M 路径上的平带、−0.01 eV 处的[[../concepts/van-hove-singularity|范霍夫奇点]]共存；M 点附近费米速度 vF = (1/ħ)|∂E/∂k| 显著压低，是平带的直接光谱证据。
+  4. [[../concepts/fermi-surfaces|费米面]]三片结构：中心圆形空穴袋 π1（C pz/O pz/Cu dxz,yz）、花瓣形 π2（与 δ 相交）、外圈圆形空穴袋 δ（Cu dxy,x2−y2 与 O s+px,y 杂化），均围绕 Γ 点。
   5. 电声耦合：总 λ = 0.72（低于 Cu3(CS)6 的 1.16）；按频率分三区——I 区 <40 meV（Cu、O 振动）贡献 0.43（59.7%），II 区 40–49 meV（Cz 面外 + Oxy/Oz）贡献约 30.6%，III 区 >49 meV（C 高能光学模）仅约 9.7%；与 LiC6、Cu3(CS)6 一致，低能声子主导。
-  6. 各向异性：费米面上 λnk 范围 0.62–1.31，δ 带最大（Cu dxy,x2−y2/O s+px,y 驱动），π1 仅 0.62–0.67，π2 为 0.71–0.78；Δnk 分布与 λnk 一一对应，5 K 下 2.08–3.90 meV，零温平均 Δ0 = 2.80 meV。
+  6. [[../concepts/migdal-eliashberg-theory|各向异性]]：费米面上 λnk 范围 0.62–1.31，δ 带最大（Cu dxy,x2−y2/O s+px,y 驱动），π1 仅 0.62–0.67，π2 为 0.71–0.78；Δnk 分布与 λnk 一一对应，5 K 下 2.08–3.90 meV，零温平均 Δ0 = 2.80 meV。
   7. 超导判定：单能隙各向异性 BCS 超导体；Δ(T) 可用 Δ(T)=Δ0 tanh[2.2√((Tc−T)/T)] 拟合；Tc = 16.5 K，远高于 Cu3(CS)6 的 4.43 K；2Δ0/kBTc = 3.94，略大于弱耦合 BCS 值 3.53，对应中等耦合；15 K 下 Ns(ω)/N(EF) 在 ±2.2 meV 处出现相干峰。
-  8. 嵌套机制：χ′′(q) 在 K 点及 M–K 路径上出现强峰（Γ 点 q=0 的发散为自嵌套平凡项），其位置与图2中 λqν/λq 强耦合区精确对应，证明费米面嵌套是增强电声耦合的微观机制。
-  9. 计算流程与参数：QE + PBE + 优化模守恒 Vanderbilt 赝势，波函数/电荷密度截断 80/320 Ry，真空层约 12 Å，力收敛 10−6 Ry/Bohr、SCF 10−7 Ry，16×16×1 k-mesh（0.01 Ry Methfessel–Paxton）；DFPT 声子在 4×4×1 q 网格；EPW 在 8×8×1 粗网格构造 Wannier 函数，插值到 40×40×1 细网格；Matsubara 截断 4.5×180 meV = 0.80 eV；δ 函数用电子 25 meV、声子 0.5 meV 洛伦兹展宽；库仑赝势 μc* = 0.1（2D 材料常用 0.05–0.2）。
-  10. 开放问题（AI 批判与作者展望）：μ* 取值与 Tc 鲁棒性、单能隙 vs. 多能隙（三个 Δ 峰是否对应 π1/π2/δ 三带）、PBE 对嵌套描述精度与 HSE/GW 交叉验证、强嵌套下的 CDW/SDW 竞争序与磁性基态、Cu(111)/Ag(111) 衬底（电荷转移/应变/杂化）对 Tc 的影响、金属中心替换（Zn/Mn/Ag/Au 等）与静电/化学掺杂调控 Tc 等，均待后续研究。
+  8. 嵌套机制：χ′′(q) 在 K 点及 M–K 路径上出现强峰（Γ 点 q=0 的发散为自嵌套平凡项），其位置与图2中 λqν/λq [[../concepts/strong-coupling|强耦合]]区精确对应，证明[[../concepts/fermi-surface-nesting|费米面嵌套]]是增强电声耦合的微观机制。
+  9. 计算流程与参数：QE + PBE + 优化模守恒 Vanderbilt 赝势，波函数/[[../concepts/charge-density|电荷密度]]截断 80/320 Ry，真空层约 12 Å，力收敛 10−6 Ry/Bohr、SCF 10−7 Ry，16×16×1 k-mesh（0.01 Ry Methfessel–Paxton）；DFPT 声子在 4×4×1 q 网格；EPW 在 8×8×1 粗网格构造 [[../concepts/wannier-function|Wannier 函数]]，插值到 40×40×1 细网格；Matsubara 截断 4.5×180 meV = 0.80 eV；δ 函数用电子 25 meV、声子 0.5 meV 洛伦兹展宽；库仑赝势 μc* = 0.1（2D 材料常用 0.05–0.2）。
+  10. 开放问题（AI 批判与作者展望）：μ* 取值与 Tc 鲁棒性、单能隙 vs. 多能隙（三个 Δ 峰是否对应 π1/π2/δ 三带）、PBE 对嵌套描述精度与 HSE/GW 交叉验证、强嵌套下的 CDW/SDW [[../concepts/competing-orders|竞争序]]与磁性基态、Cu(111)/Ag(111) 衬底（[[../concepts/charge-transfer|电荷转移]]/应变/杂化）对 Tc 的影响、金属中心替换（Zn/Mn/Ag/Au 等）与静电/化学掺杂调控 Tc 等，均待后续研究。

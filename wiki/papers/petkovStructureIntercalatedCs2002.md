@@ -93,15 +93,18 @@ Petkov, Billinge, Vogt, Ichimura, Dye，2002，Physical Review Letters 89, 07550
   - `ITQ-4`（Si₃₂O₆₄全硅沸石）：具有直径约7 Å伪一维正弦形孔道的沸石宿主，是本文的关键材料实体，可在 wiki/entities 下新建。
 
 ## 📊 关键图表
-  - ![图1：原始Si32O64和CsxSi32O64的粉末衍射图样(a)及结构函数S(Q)(b)](../../raw/figures/petkovStructureIntercalatedCs2002/fig_1_2TLQSU8V.png)
-  - ![图2：CsxSi32O64 (x=0, 3.6, 4.6)的实验(圆圈)与模型(实线)PDF G(r)](../../raw/figures/petkovStructureIntercalatedCs2002/fig_2_SYM42JPI.png)
-  - ![图3：CsxSi32O64电子化合物的Cs差分PDF，实验(圆圈)与模型(实线)](../../raw/figures/petkovStructureIntercalatedCs2002/fig_3_8VYN6S86.png)
-  - ![图4：CsxSi32O64原子结构片段，Cs+离子(红)在纳米孔中组装成锯齿形链，O为蓝色，Si为黑色](../../raw/figures/petkovStructureIntercalatedCs2002/fig_4_WGZDUGRI.png)
-  - ![公式(1)：PDF的傅里叶变换定义式](../../raw/figures/petkovStructureIntercalatedCs2002/eq_1_89B8JNNH.png)
+  - ![图1：原始Si32O64和CsxSi32O64的粉末衍射图样(a)及结构函数S(Q)(b)](../../raw/figures/petkovStructureIntercalatedCs2002/fig_1_2TLQSU8V.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图2：CsxSi32O64 (x=0, 3.6, 4.6)的实验(圆圈)与模型(实线)PDF G(r)](../../raw/figures/petkovStructureIntercalatedCs2002/fig_2_SYM42JPI.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图3：CsxSi32O64电子化合物的Cs差分PDF，实验(圆圈)与模型(实线)](../../raw/figures/petkovStructureIntercalatedCs2002/fig_3_8VYN6S86.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图4：CsxSi32O64原子结构片段，Cs+离子(红)在纳米孔中组装成锯齿形链，O为蓝色，Si为黑色](../../raw/figures/petkovStructureIntercalatedCs2002/fig_4_WGZDUGRI.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![公式(1)：PDF的傅里叶变换定义式](../../raw/figures/petkovStructureIntercalatedCs2002/eq_1_89B8JNNH.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 
 ## 🔬 项目连接
   - **project-7（CDW）—— medium**：本文虽以沸石而非TMD为研究对象，但在方法和物理图像上与project-7有明确类比价值。（1）方法学：作者展示了用高能同步辐射X射线总散射+差分PDF技术提取嵌入客体物种（Cs离子）局域结构的完整流程，这一方法可直接迁移到碱金属插层TMD中插层离子占位与CDW无序结构的表征；（2）物理类比：Cs⁺在伪一维孔道中形成锯齿形链、孔道内低密度关联电子气表现出莫特绝缘/反铁磁行为，是一维强关联电子体系的典型结构-物性耦合案例，与CDW体系中一维费米面嵌套、Peierls畸变的物理图像相通；（3）作者在展望中明确提出探索该一维阳离子链-电子气耦合体系可能存在的电荷密度波等新奇量子物态。材料体系不同（沸石vs TMD），故定为medium而非strong。
   - 其他项目（project-1双光子、project-2 Mn多铁、project-3机械发光NN、project-4 TTF分子计算、project-5 SnTe铁电模拟、project-6湿度传感器）：无直接项目连接。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
   文章按"问题提出→方法引入→实验验证→模型筛选→结论与意义"的经典PRL论证链条组织。先指出纳米结构材料缺乏长程有序使传统布拉格晶体学失效，引出PDF技术；再通过对比纯净沸石与两种Cs负载量样品的总PDF和差分PDF，定性发现Cs相关的~4 Å新峰；随后用排除法测试Cs⁰、Cs⁻、Cs⁺三种化学态及多种排列模型，只有Cs⁺交替占据4h/4g位的锯齿链模型能同时拟合总PDF和差分PDF；最后从库仑排斥平衡角度解释了~5.2 Å最小离子间距和x≈4.6的负载上限，并将结构图像与NMR展宽、反铁磁性等物性自洽关联。值得复用的关键词/术语：
@@ -115,7 +118,7 @@ Petkov, Billinge, Vogt, Ichimura, Dye，2002，Physical Review Letters 89, 07550
   - Coulomb repulsion / interionic distance — 库仑排斥/离子间距
 
 ## ✏️ 可写入 Wiki 的要点
-  1. **首个室温稳定无机电子化合物的结构确认**：CsₓSi₃₂O₆₄中Cs以Cs⁺正离子形式存在于ITQ-4沸石的伪一维正弦形孔道（直径约7 Å，平行于单斜晶胞c轴）内，排列成短程有序的连续锯齿形链，形成正电亚晶格，孔道内的低密度电子气作为"阴离子"提供电荷平衡。
+  1. **首个室温稳定无机[[../concepts/electride|电子化合物]]的结构确认**：CsₓSi₃₂O₆₄中Cs以Cs⁺正离子形式存在于ITQ-4沸石的伪一维正弦形孔道（直径约7 Å，平行于单斜晶胞c轴）内，排列成短程有序的连续锯齿形链，形成正电亚晶格，孔道内的低密度电子气作为"阴离子"提供电荷平衡。
   2. **PDF方法的核心公式**：G(r) = 4πr[ρ(r)−ρ₀] = (2/π)∫₀^{Qmax} Q[S(Q)−1]sin(Qr)dQ，通过傅里叶变换整个衍射图谱（含布拉格峰和漫散射）同时获取长程和短程结构信息，是研究结构相干性仅在纳米尺度的材料的关键手段。
   3. **差分PDF的化学特异性**：通过取不同Cs含量样品总PDF的加权差值，无需同位素替换或共振散射即可分离出Cs-Cs和Cs-骨架的原子对关联；差分PDF在高达13 Å以远仍有物理振荡，证明Cs离子并非随机分布而是形成延伸的有序亚结构。
   4. **排除法确定Cs的化学态**：任何包含中性Cs原子（Cs⁰，半径2.67 Å）或负价Cs⁻离子（半径3.5 Å）的模型都无法重现实验PDF；只有Cs⁺（半径1.8 Å）模型与数据吻合，从结构上支持了光学和NMR实验关于Cs电离的结论。
@@ -123,5 +126,5 @@ Petkov, Billinge, Vogt, Ichimura, Dye，2002，Physical Review Letters 89, 07550
   6. **负载上限的物理根源**：x>4时超过一半的4h/4g位被占据，迫使部分Cs⁺以约4 Å的极短距离接触，库仑排斥能急剧升高导致结构失稳，这解释了实验上x≈4.6的合成上限（此时短链段上约每两个ITQ-4晶胞一个Cs⁺）。
   7. **骨架拓扑保持**：所有样品PDF中1.61 Å处的尖锐峰（Si-O键长，SiO₄四面体单元）在Cs嵌入后保持不变，且水处理后布拉格峰可恢复，证明沸石骨架仅发生畸变而拓扑未被破坏——这是差分PDF方法成立的前提假设。
   8. **实验条件**：NSLS X7A光束线，29.09 keV（λ=0.425 Å）高能同步辐射X射线，本征锗探测器多通道分析；数据经通量、背景、康普顿散射和吸收校正后以绝对电子单位归一化，用RAD程序处理，PDFFIT程序建模。
-  9. **结构-物性自洽**：延伸的Cs⁺阳离子亚晶格要求电子气沿正弦孔道离域展开，这与实验观测到的NMR谱线展宽（电子离域）和反铁磁性（电子间交换耦合）一致；该体系还表现出莫特绝缘体行为。
+  9. **结构-物性自洽**：延伸的Cs⁺阳离子亚晶格要求电子气沿正弦孔道离域展开，这与实验观测到的NMR谱线展宽（电子离域）和[[../concepts/antiferromagnetism|反铁磁性]]（电子间交换耦合）一致；该体系还表现出[[../concepts/mott-insulator|莫特绝缘体]]行为。
   10. **PDF相对于表面成像技术的互补性**：PDF探测体相结构，是扫描探针显微镜等仅适用于暴露表面纳米阵列的成像技术的必要补充，特别适合研究密封在毛细管中的空气敏感电子化合物。

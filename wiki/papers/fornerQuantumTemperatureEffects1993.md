@@ -12,11 +12,11 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/fornerQuantumTemperatureEffects1993]]
 projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
-concepts: []
+concepts: [davydov-soliton, exciton-phonon-coupling, interchain-coupling, self-trapping]
 entities: []
 methods: [dft, mlip, tem]
 materials: []
-figures: []
+figures: [experimental-setups, crystal-structures, mathematical-models]
 领域基础知识:: >-
   达维多夫孤子（Davydov Soliton）是解释α-螺旋蛋白质中能量传输的经典理论，其核心是酰胺-I振动激发（C=O伸缩）与氢键链晶格畸变的耦合，形成局域化、无损耗传播的能量包。该理论的关键在于激子跃迁、激子-声子耦合（X）和氢键力常数（W）等参数之间的竞争。
 研究背景:: >-
@@ -59,19 +59,28 @@ W Forner，1993，*Journal of Physics: Condensed Matter* 5(7): 823–840，DOI: 
   - `self-trapping`（自陷）：激发通过畸变自身周围晶格而被局域化的非线性现象
 ## 📊 关键图表
 （笔记未附 Figure 2 参数空间相图；以下图均见 raw/figures）
-  - ![图1 蛋白质中氢键通道示意，标注 W/M/J/X](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_1_ZWUNGVGZ.png)
-  - ![图3 四种 (W,X) 参数下单链 |a_n(t)|² 与晶格位移平方的时间演化](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_3_ATRT67MT.png)
-  - ![图4 T=0 K 三链 |D₂⟩ 模型中 A/E/L 三种初始激发的概率演化](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_4_H44SYVER.png)
-  - ![图5 图4 三种激发各取一条链的展示，孤子形态相似](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_5_S8YM3HWP.png)
-  - ![图6 单链 W=13/M=114m_p 与 W=39/M=342m_p 对比，验证 3 倍参数才能复现三链](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_6_T99ZL7CA.png)
-  - ![图7 |D₁⟩ 态 A 模式：三链与标准参数单链一致，无需重整化（X=62 与 180 pN）](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_7_IJ3GVAZB.png)
-  - ![图8 T=300 K 三链 |D₁⟩ 局域激发下不同 (W,X) 的孤子钉扎/传播行为](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_8_IKE7SU6I.png)
-  - ![图9 同图8，但为 E 模式初始激发](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_9_C54DDFU2.png)
-  - ![图10 同图8，但为对称 A 模式（三链相同，仅示一链）](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_10_G5QKSR4D.png)
+  - ![图1 蛋白质中氢键通道示意，标注 W/M/J/X](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_1_ZWUNGVGZ.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图3 四种 (W,X) 参数下单链 |a_n(t)|² 与晶格位移平方的时间演化](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_3_ATRT67MT.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图4 T=0 K 三链 |D₂⟩ 模型中 A/E/L 三种初始激发的概率演化](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_4_H44SYVER.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图5 图4 三种激发各取一条链的展示，孤子形态相似](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_5_S8YM3HWP.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图6 单链 W=13/M=114m_p 与 W=39/M=342m_p 对比，验证 3 倍参数才能复现三链](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_6_T99ZL7CA.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图7 |D₁⟩ 态 A 模式：三链与标准参数单链一致，无需重整化（X=62 与 180 pN）](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_7_IJ3GVAZB.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图8 T=300 K 三链 |D₁⟩ 局域激发下不同 (W,X) 的孤子钉扎/传播行为](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_8_IKE7SU6I.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图9 同图8，但为 E 模式初始激发](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_9_C54DDFU2.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图10 同图8，但为对称 A 模式（三链相同，仅示一链）](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_10_G5QKSR4D.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
 ## 🔬 项目连接
   - project-7（CDW 电荷密度波）：弱方法/物理图像参考。本文研究的是一维耦合链中激子-声子耦合导致的自陷孤波，与 CDW 中电子-声子耦合、孤子/位错输运、链间耦合导致的二维有序化属于同一类非线性凝聚态物理语言；其"先解耦晶格按玻色-爱因斯坦统计分配 Nk_BT 能量、再嵌入运动方程"的有限温处理，以及对参数空间 (X,W) 扫描判定孤子稳定性的思路，可为一维/准一维 CDW 体系的唯象建模提供类比。但本文不涉及具体 CDW 材料，也不使用 DFT/MLIP 等现代计算流程。
   - project-4（TTF 分子计算）：弱方法参考。TTF 等分子晶体中同样存在分子内振动激发与晶格声子的耦合及链间输运问题；本文对 |D₁⟩ 相干态拟设、多链耦合方程的推导，以及"单链等效多链需做参数重整化"的经验，可为分子链中激子/极化子动力学建模提供形式参考。但本文对象是蛋白质酰胺-I 振动，非 TTF 电荷输运。
   - project-1 / project-2 / project-3 / project-5 / project-6：无直接项目连接（双光子吸收、Mn 基多铁、机械发光神经网络、SnTe 铁电模拟、湿度传感器均与本文的蛋白质孤子模型无机制、材料或方法交集）。
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
 文章按"模型回顾（§2）→ 单链 300 K 参数扫描（§3）→ 三链零温验证 Scott 猜想（§4）→ 三链 300 K 动力学（§5）→ 结论（§6）"层层递进；先在 |D₂⟩ 框架下确认 Scott 的 3 倍因子对 A/E/局域激发均成立，再揭示 |D₁⟩ 对称 A 模式无需重整化的根本差异，最后以三链有限温模拟将两种拟设态的结论统一到"W > 30–40 N/m"阈值上。值得复用的术语：
   - [[../concepts/davydov-soliton|Davydov soliton — 达维多夫孤子]]

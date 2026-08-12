@@ -25,6 +25,8 @@ DFTB+ 结合 **Mülliken 布居分析 (Mülliken Population Analysis)**，可深
 - **波纹工程 (Ripple Engineering)**：局域曲率通过挠曲电效应与原子级铁性序参量强耦合，稳定的波纹能够形成长寿命的**极性纳米微区 (PNR)**。这些微区在冷却过程中作为异质形核点，显著提升了宏观相变温度 $T_c$ [[../papers/yangRipplingFerroicPhase2021]]。
 - **动力学模式转变**：波纹引入的局域应力场会打破畴翻转的长程协同性，使**雪崩动力学 (Avalanche Dynamics)** 从幂律分布的级联行为退化为受波纹位置驱动的局域随机过程（高斯分布） [[../papers/yangRipplingFerroicPhase2021]]。
 
+- [[../papers/Wu2018]]
+
 ## 关联概念与实体
 
 - [[../concepts/density-functional-theory|密度泛函理论 DFT]]

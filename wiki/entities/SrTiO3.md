@@ -19,7 +19,7 @@ category: [D02, Z01]
 
 ## 3. 应变工程与维度调控
 - **应变诱导铁电性**：通过外延应变（如生长在晶格常数较小的衬底上），可以打破 STO 的中心对称性，诱导出室温铁电性 [[../papers/martinThinfilmFerroelectricMaterials2016]]。这在 **[[../entities/SrMnO3|SrMnO3]]** 等相似钙钛矿体系中也被广泛研究 [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]]。
-- **自支撑 (Freestanding) 膜与拓扑态**：在自支撑的 STO 膜中，利用褶皱或弯曲产生的**应变梯度**（[[../concepts/flexoelectricity|挠曲电效应]]），可以稳定产生极性半子 (Meron) 和迷宫畴，实现非极性材料向极性拓扑态的转化 [[../papers/hanPolarTopologicalMaterials2025]]。
+- **自支撑 (Freestanding) 膜与拓扑态**：在自支撑的 STO 膜中，利用褶皱或弯曲产生的**应变梯度**（[[../concepts/flexoelectric-effect|挠曲电效应]]），可以稳定产生极性半子 (Meron) 和迷宫畴，实现非极性材料向极性拓扑态的转化 [[../papers/hanPolarTopologicalMaterials2025]]。
 
 ## 4. 电子学与自旋轨道耦合
 - **相锁定 (Phase-locked) 调控**：在新型二维氧化物单层设计中，STO 及其衍生物被预测可作为研究**巨自旋劈裂**和**半金属态**的候选平台，通过微小应变即可实现电子-自旋特性的协同调控 [[../papers/zhongHighthroughputExfoliationMultiferroic2025]]。
@@ -40,5 +40,5 @@ category: [D02, Z01]
 - [[../papers/Chen2016electrical]]：展示了以 STO 为衬底生长的 BiFeO3 薄膜的电-机械极化开关。
 
 ## 7. 关联概念与实体
-- **概念**：[[../concepts/depolarizing-field|去极化场]]、[[../concepts/polar-skyrmion|极性斯格明子]]、[[../concepts/flexoelectricity|挠曲电效应]]、[[../concepts/strain-engineering|应变工程]]
+- **概念**：[[../concepts/depolarizing-field|去极化场]]、[[../concepts/polar-skyrmion|极性斯格明子]]、[[../concepts/flexoelectric-effect|挠曲电效应]]、[[../concepts/strain-engineering|应变工程]]
 - **实体**：[[../entities/PbTiO3|钛酸铅 (PTO)]]、[[../entities/BaTiO3|钛酸钡 (BTO)]]、[[../entities/BiFeO3|铁酸铋 (BFO)]]、[[../entities/SrRuO3|钌酸锶 (SRO)]]

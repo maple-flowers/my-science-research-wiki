@@ -110,21 +110,30 @@ Michael Naguib, Vadym N. Mochalin, Michel W. Barsoum, Yury Gogotsi et al.，2014
   - 实体 `Ti2CTx` / `Nb2CTx` / `V2CTx` / `Ta4C3Tx`：已合成的其他 MXene 成员，各自具有不同容量/电压窗口，可在 MXenes 条目中以列表呈现，暂不必单独建文件。
 
 ## 📊 关键图表
-  - ![图1 MAX相及其对应MXene的原子结构对比](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_1_ANXZLC65.png)
-  - ![图2 从MAX相粉末经HF刻蚀、洗涤到手风琴状多层MXene的合成流程示意图](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_2_AJLZG4PX.png)
-  - ![图3 多种MXene的SEM/XRD/TEM/HRTEM/SAED/光学显微形貌表征](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_3_5EP3ZZBQ.png)
-  - ![图4 Ti3C2Tx纳米卷轴与OH封端Ti3C2纳米管原子模型](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_4_7Z8YXW72.png)
-  - ![图5 功能化MXene表面T基团的三种构型I/II/III（侧视与顶视）](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_5_CYM8WEI6.png)
+  - ![图1 MAX相及其对应MXene的原子结构对比](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_1_ANXZLC65.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图2 从MAX相粉末经HF刻蚀、洗涤到手风琴状多层MXene的合成流程示意图](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_2_AJLZG4PX.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图3 多种MXene的SEM/XRD/TEM/HRTEM/SAED/光学显微形貌表征](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_3_5EP3ZZBQ.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图4 Ti3C2Tx纳米卷轴与OH封端Ti3C2纳米管原子模型](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_4_7Z8YXW72.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图5 功能化MXene表面T基团的三种构型I/II/III（侧视与顶视）](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_5_CYM8WEI6.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
   - ![图6 肼插层OH-Ti3C2的分子动力学模拟：c轴随N/C比阶梯增大、单层排列、模拟与实验XRD吻合](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_6_GV6F3IFM.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - ![图7 Ti3C2Tx经DMSO插层—水分层—丁达尔效应胶体—过滤成纸的全过程示意](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_8_EKWLWV8J.png)
-  - ![图8 Ti2AlC/Ti2C/Ti2CO2/Ti2C(OH)2总态密度与分态密度对比，揭示移除Al及表面封端对电子结构的调控](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_9_FDUT7S4B.png)
-  - ![图9 多层Ti3C2Tx粉末电极与少层MXene纸电极在锂离子电池中的性能对比](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_7_REW23JCK.png)
-  - ![表1 不同MAX相合成MXene的HF浓度、时间、c晶格参数及产率](../../raw/figures/naguib25thAnniversaryArticle2013a/tab_1_9AG9T2XP.png)
-  - ![表2 多种裸MXene单层的面内弹性常数c11、a晶格参数与费米能级DOS（含对应MAX相c11对照）](../../raw/figures/naguib25thAnniversaryArticle2013a/tab_2_287UB7NX.png)
+  - ![图7 Ti3C2Tx经DMSO插层—水分层—丁达尔效应胶体—过滤成纸的全过程示意](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_8_EKWLWV8J.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图8 Ti2AlC/Ti2C/Ti2CO2/Ti2C(OH)2总态密度与分态密度对比，揭示移除Al及表面封端对电子结构的调控](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_9_FDUT7S4B.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图9 多层Ti3C2Tx粉末电极与少层MXene纸电极在锂离子电池中的性能对比](../../raw/figures/naguib25thAnniversaryArticle2013a/fig_7_REW23JCK.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![表1 不同MAX相合成MXene的HF浓度、时间、c晶格参数及产率](../../raw/figures/naguib25thAnniversaryArticle2013a/tab_1_9AG9T2XP.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![表2 多种裸MXene单层的面内弹性常数c11、a晶格参数与费米能级DOS（含对应MAX相c11对照）](../../raw/figures/naguib25thAnniversaryArticle2013a/tab_2_287UB7NX.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
   - 注：原文实际图序为图1–图9，文件名按提取工具的哈希命名；其中 fig_8/fig_9 文件分别对应原文图7与图8，fig_7 文件对应原文图9。
 
 ## 🔬 项目连接
 无直接项目连接。本文是 MXenes/二维材料的开创性综述，不涉及 project-1 双光子、project-2 Mn 多铁、project-3 机械发光 NN、project-4 TTF 分子计算、project-5 SnTe 铁电模拟、project-6 湿度传感器、project-7 CDW 中的任何一个；但其中 DFT 电子结构方法、表面终端调控电子/磁性、二维异质结（MoS₂/Ti₂C）等思想可作为 wiki 二维材料方法论的背景参考。
+
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
   - 论证按"前驱体 MAX 相 → 选择性刻蚀合成 → 原子结构（DFT + XRD/TEM） → 插层与大规模分层 → 电子/磁/力学性质 → 储能等应用 → 总结与展望"的材料学经典链条递进，每一节都是"实验现象 + DFT/MD 理论解释"双轨并行，并以图表作为两轨之间的锚点。
@@ -142,16 +151,16 @@ Michael Naguib, Vadym N. Mochalin, Michel W. Barsoum, Yury Gogotsi et al.，2014
     10. Configurations I, II, III / 官能团构型 I/II/III
 
 ## ✏️ 可写入 Wiki 的要点
-  1. **合成范式**：MAX 相（P6₃/mmc 六方层状，M_{n+1}AX_n，n=1–3）中 M–X 键为共价/金属/离子混合键而 M–A 键为较弱金属键；室温下用特定浓度含水 HF 搅拌即可选择性溶出 A（Al）层，Al 被 O/OH/F 终端取代，从而把三维层状固体转化为二维 M_{n+1}X_nTₓ 片；反应后须用去离子水洗至 pH 4–6。这是"从强化学键合 3D 前驱体化学刻蚀制备 2D 材料"的普适新范式，区别于石墨烯/TMDs 的机械/液相剥离。
-  2. **已合成家族**：截至 2013 年已报道 Ti₃C₂、Ti₂C、Nb₂C、V₂C、(Ti₀.₅,Nb₀.₅)₂C、(V₀.₅,Cr₀.₅)₃C₂、Ti₃CN、Ta₄C₃ 及 Nb₄C₃；单层 M₂X、M₃X₂、M₄X₃ 分别由 3、5、7 个原子层构成，厚度均 <1 nm，横向尺寸可达数十微米。纯 Ti₂N、Ti₄N₃ 等氮化物 MXene 当时未能合成，原因是 Ti_{n+1}N_n 内聚能更低而由 Ti_{n+1}AlN_n 生成的形成能更高。
+  1. **合成范式**：[[../concepts/max-phase|MAX 相]]（P6₃/mmc 六方层状，M_{n+1}AX_n，n=1–3）中 M–X 键为共价/金属/离子混合键而 M–A 键为较弱金属键；室温下用特定浓度含水 HF 搅拌即可选择性溶出 A（Al）层，Al 被 O/OH/F 终端取代，从而把三维层状固体转化为二维 M_{n+1}X_nTₓ 片；反应后须用去离子水洗至 pH 4–6。这是"从强化学键合 3D 前驱体化学刻蚀制备 2D 材料"的普适新范式，区别于[[../entitys/graphene|石墨烯]]/TMDs 的机械/液相剥离。
+  2. **已合成家族**：截至 2013 年已报道 Ti₃C₂、Ti₂C、Nb₂C、V₂C、(Ti₀.₅,Nb₀.₅)₂C、(V₀.₅,Cr₀.₅)₃C₂、Ti₃CN、Ta₄C₃ 及 Nb₄C₃；单层 M₂X、M₃X₂、M₄X₃ 分别由 3、5、7 个原子层构成，厚度均 <1 nm，横向尺寸可达数十微米。纯 Ti₂N、Ti₄N₃ 等氮化物 MXene 当时未能合成，原因是 Ti_{n+1}N_n [[../concepts/cohesive-energy|内聚能]]更低而由 Ti_{n+1}AlN_n 生成的[[../concepts/formation-energy|形成能]]更高。
   3. **刻蚀条件的材料依赖性**：Ti₂AlC 需 10% HF/10 h，Ta₄AlC₃ 需 50% HF/72 h，V₂AlC 经研磨细化后从 90 h 缩至 8 h；Ti–Al 键能约 0.98 eV，Nb–Al 约 1.21 eV，解释了二者刻蚀难度差异。50% HF 会把 Ti₂AlC 完全溶解，而 10% HF 才能得到 Ti₂C，说明 n 越小越易被过度刻蚀；长时间刻蚀会在 Ta₄C₃Tₓ 上形成孔洞缺陷。
-  4. **XRD/SAED 判据**：完全转化后非 (000l) 峰消失，(000l) 峰宽化并向低角度偏移（c 轴增大）；样品需冷压至 450 MPa 以增强 (000l) 峰强度；EDS 测 A:M 比量化转化程度但会因残留 AlF₃ 等副产物而高估未反应 MAX 相。SAED 沿 [0001] 方向保持与母体 MAX 相同的六方对称斑点，证实 3D→2D 是拓扑化学转化而非非晶化；Ti₃C₂ 在 200 kV 电子束下比石墨烯更稳定。
-  5. **表面官能团构型**：DFT 给出 Ti₃C₂T₂ 的三种构型——构型 I：T 位于三个相邻 C 原子之间的空心位上方、正对 Ti(2)；构型 II：T 位于 C 原子正上方；构型 III：上下两侧分别为 I 和 II。能量稳定性顺序 I > III > II，F 和 OH 都倾向 I，构型 II 因 T 与底层 C 的空间位阻排斥最不稳定；Ti₂CO₂ 在 –4 至 0 eV 氧化学势范围内热力学最稳定，声子谱无虚频。
-  6. **电子结构与磁性**：移除 Al 后，原 Ti–Al 悬挂键重排为离域 Ti–Ti 金属键，使裸 MXene 在 E_f 附近的 DOS 比母体 MAX 相高 1.9–4.8 倍（Ti_{n+1}C_n 为 1.9–3.2 倍，Ti_{n+1}N_n 为 2.8–4.8 倍）；当 I·N(E_f)>1（I≈0.9 eV）时出现铁磁或反铁磁不稳定性（Cr₂C/Cr₂N/Ta₃C₂ 铁磁；Ti₃C₂/Ti₃N₂ 反铁磁），但 O/OH/F/H 封端会形成 p–d 键、耗尽 E_f 附近态密度而使磁性消失（Cr₂C、Cr₂N 在封端后仍保持近室温磁矩，尚未被实验验证）。
-  7. **带隙对终端与泛函的敏感性**：Ti₃C₂ 为金属；Ti₃C₂(OH)₂、Ti₃C₂F₂ 打开 <0.1 eV 小带隙（构型 I/III 为半导体，构型 II 仍为金属）；O 封端可给出更显著带隙——Sc₂CO₂ 1.8 eV、Hf₂CO₂ 1.0 eV、Sc₂CF₂ 1.03 eV、Zr₂CO₂ 0.88 eV、Ti₂CO₂ 在 PBE 下 0.24 eV 而 HSE06 下达 0.88 eV。同一构型在 PBE 下为窄带隙半导体，在 HSE06 下可能预测为金属，提示 wiki 叙述引用带隙数值时必须注明泛函。
+  4. **XRD/SAED 判据**：完全转化后非 (000l) 峰消失，(000l) 峰宽化并向低角度偏移（c 轴增大）；样品需冷压至 450 MPa 以增强 (000l) 峰强度；EDS 测 A:M 比量化转化程度但会因残留 AlF₃ 等副产物而高估未反应 MAX 相。SAED 沿 [0001] 方向保持与母体 MAX 相同的六方对称斑点，证实 3D→2D 是[[../concepts/topochemical-reaction|拓扑化学]]转化而非非晶化；Ti₃C₂ 在 200 kV 电子束下比石墨烯更稳定。
+  5. **表面官能团构型**：DFT 给出 Ti₃C₂T₂ 的三种构型——构型 I：T 位于三个相邻 C 原子之间的空心位上方、正对 Ti(2)；构型 II：T 位于 C 原子正上方；构型 III：上下两侧分别为 I 和 II。能量稳定性顺序 I > III > II，F 和 OH 都倾向 I，构型 II 因 T 与底层 C 的空间位阻排斥最不稳定；Ti₂CO₂ 在 –4 至 0 eV 氧[[../concepts/chemical-potential|化学势]]范围内热力学最稳定，声子谱无虚频。
+  6. **电子结构与磁性**：移除 Al 后，原 Ti–Al 悬挂键重排为离域 Ti–Ti 金属键，使裸 MXene 在 E_f 附近的 DOS 比母体 MAX 相高 1.9–4.8 倍（Ti_{n+1}C_n 为 1.9–3.2 倍，Ti_{n+1}N_n 为 2.8–4.8 倍）；当 I·N(E_f)>1（I≈0.9 eV）时出现铁磁或反铁磁不稳定性（Cr₂C/Cr₂N/Ta₃C₂ 铁磁；Ti₃C₂/Ti₃N₂ 反铁磁），但 O/OH/F/H 封端会形成 p–d 键、耗尽 E_f 附近[[../concepts/density-of-states|态密度]]而使磁性消失（Cr₂C、Cr₂N 在封端后仍保持近室温磁矩，尚未被实验验证）。
+  7. **带隙对终端与泛函的敏感性**：Ti₃C₂ 为金属；Ti₃C₂(OH)₂、Ti₃C₂F₂ 打开 <0.1 eV 小带隙（构型 I/III 为半导体，构型 II 仍为金属）；O 封端可给出更显著带隙——Sc₂CO₂ 1.8 eV、Hf₂CO₂ 1.0 eV、Sc₂CF₂ 1.03 eV、Zr₂CO₂ 0.88 eV、Ti₂CO₂ 在 PBE 下 0.24 eV 而 HSE06 下达 0.88 eV。同一构型在 PBE 下为[[../concepts/narrow-gap-semiconductor|窄带隙半导体]]，在 HSE06 下可能预测为金属，提示 wiki 叙述引用带隙数值时必须注明泛函。
   8. **插层与分层**：肼（N₂H₄）在 Ti₃C₂(OH)₂ 层间以平行基面取向排列，N/C≈0.4 时形成完整单层，c≈25–26 Å；DMSO 插层 Δc 高达 15.4 Å（环境水共插层），空气中放置 3 周后 c 轴翻倍，去离子水中温和超声 6 h 即可大规模分层，得到无表面活性剂的稳定胶体水溶液（丁达尔效应），过滤后成柔性、无添加剂 MXene 纸；迄今唯一被大规模分层的是 Ti₃C₂Tₓ。
-  9. **导电性与亲水性**：冷压（~1 GPa）自支撑 MXene 圆片电阻率从 Ti₃C₂Tₓ 的 22 Ω □⁻¹ 到 Ti₂CTₓ 的 339 Ω □⁻¹，与多层石墨烯相当；水接触角 27°–41°，与氧封端碳表面相当，确证亲水性。插层有机物后电阻率上升 1–2 个数量级，提示可用于化学传感器。
+  9. **导电性与亲水性**：冷压（~1 GPa）自支撑 MXene 圆片电阻率从 Ti₃C₂Tₓ 的 22 Ω □⁻¹ 到 Ti₂CTₓ 的 339 Ω □⁻¹，与[[../entitys/graphene-tetralayer|多层石墨烯]]相当；水接触角 27°–41°，与氧封端碳表面相当，确证亲水性。插层有机物后电阻率上升 1–2 个数量级，提示可用于化学传感器。
   10. **力学与热电预测**：裸 M_{n+1}C_n 单层 c₁₁ 高于对应 MAX 相（移除 A 后电子密度更集中于 M–X 层），但 MXene 片至少 3 个原子层厚，弯曲刚度 ∝ t³ 因而显著高于石墨烯；DFT 还预测半导体 Ti₂CO₂、Sc₂C(OH)₂ 在约 100 K 下塞贝克系数 ≈1000 μV K⁻¹，可与 SrTiO₃ 的巨塞贝克系数相比。
   11. **储能性能**：DFT 预测裸 Ti₃C₂ 上 Li 扩散势垒仅 0.07 eV（远低于锐钛矿 TiO₂ 的 0.35–0.65 eV 和石墨的 ≈0.3 eV），理论容量 320 mAh g⁻¹；实验上非分层 V₂CTₓ 在 1C 下达 280 mAh g⁻¹、10C 下 125 mAh g⁻¹；DMSO 分层的 Ti₃C₂Tₓ 纸电极在 1C 下可逆容量 410 mAh g⁻¹（含粘结剂/碳添加剂流延膜的约 4 倍），36C 循环 700 次后仍有 110 mAh g⁻¹；Ti₃C₂Tₓ 纸在 KOH 中体积电容 >330 F cm⁻³，循环 >10 000 次；Ti₂CTₓ 用于锂电混合电容器负极时 930 W kg⁻¹ 下能量密度 30 Wh kg⁻¹、循环 1000 次。所有 MXene 均存在首圈不可逆容量问题，可能源于 SEI 形成或 Li 与表面基团的不可逆反应。
-  12. **异质结与催化**：DFT 预测 Ti₂C 沉积在 MoS₂ 上会因界面强化学键使 MoS₂ 转为金属；Ti₂CF₂、Ti₂C(OH)₂ 与 MoS₂ 为物理吸附，保留 MoS₂ 半导体性并产生 n 型掺杂（肖特基势垒分别为 0.85、0.26 eV）；Ti₂C 表面 O₂ 无能垒解离形成 Ti₂CO₂ 后即使 550 °C 也排斥进一步氧化、不生成 TiO₂，提示催化应用潜力；Pt/Ti₃C₂Tₓ 燃料电池催化剂 10 000 次循环后 Pt 电化学表面积损失 15.7%，远优于 Pt/C 的 40.8%。
-  13. **作者明确列出的未来方向**：控制/修饰表面化学；建立 Mn+1XnTₓ 随 T、x 变化的精确结构；理解插层化合物结构与性质；测定不同环境下化学/热稳定性；实现 Ti₃C₂Tₓ 以外 MXene 的大规模分层；寻找比 HF 更安全的刻蚀剂；合成无官能团"裸"MXene；从 MAX 薄膜直接制备 MXene 薄膜以构建电子器件；系统表征单层 MXene 的电、磁、光、热、力学性质；拓展至聚合物增强、催化、透明导体、传感器等应用；并亟需发展能描述范德华/氢键的 DFT 方法和适用于插层/复合体系的经典力场（类似 ClayFF、ReaxFF）。
+  12. **异质结与催化**：DFT 预测 Ti₂C 沉积在 MoS₂ 上会因界面强化学键使 MoS₂ 转为金属；Ti₂CF₂、Ti₂C(OH)₂ 与 MoS₂ 为物理吸附，保留 MoS₂ 半导体性并产生 n 型掺杂（[[../concepts/schottky-barrier|肖特基势垒]]分别为 0.85、0.26 eV）；Ti₂C 表面 O₂ 无能垒解离形成 Ti₂CO₂ 后即使 550 °C 也排斥进一步氧化、不生成 TiO₂，提示催化应用潜力；Pt/Ti₃C₂Tₓ 燃料电池催化剂 10 000 次循环后 Pt 电化学表面积损失 15.7%，远优于 Pt/C 的 40.8%。
+  13. **作者明确列出的未来方向**：控制/修饰表面化学；建立 Mn+1XnTₓ 随 T、x 变化的精确结构；理解插层化合物结构与性质；测定不同环境下化学/热稳定性；实现 Ti₃C₂Tₓ 以外 MXene 的大规模分层；寻找比 HF 更安全的刻蚀剂；合成无官能团"裸"MXene；从 MAX 薄膜直接制备 MXene 薄膜以构建电子器件；系统表征单层 MXene 的电、磁、光、热、力学性质；拓展至[[../concepts/polymer-phase-separation|聚合物]]增强、催化、透明导体、传感器等应用；并亟需发展能描述范德华/氢键的 DFT 方法和适用于插层/复合体系的经典力场（类似 ClayFF、ReaxFF）。

@@ -90,12 +90,12 @@ Ri He, Hua Wang, Fenglin Deng, Yuxiang Gao, Bingwen Zhang, Yubai Shi, Run-Wei Li
   - 概念 [[../concepts/ferroelasticity]]
   - 概念 [[../concepts/topological-defects]]
   - 概念 [[../concepts/berry-phase]]（文中提及Berry curvature memory/stacking transition相关引用）
-  - 概念 [[../concepts/flexoelectricity|挠曲电效应]]（本文"类挠曲电效应"的经典对照）
+  - 概念 [[../concepts/flexoelectric-effect|挠曲电效应]]（本文"类挠曲电效应"的经典对照）
   - 概念 [[../concepts/bending-induced-kink|弯曲诱导扭结]]（本文核心新结构概念）
   - 概念 [[../concepts/slidetronics|滑移电子学 slidetronics]]
   - 概念 [[../concepts/sliding-phonon-mode|滑动声子模]]（滑动铁电翻转的软模基础）
-  - 概念 [[../concepts/bilayer-graphene|双层石墨烯]]（非极性对照体系）
-  - 概念 [[../concepts/MoS2|二硫化钼 MoS₂]]（3R-MoS₂滑动铁电体系）
+  - 概念 [[../entities/bilayer-graphene|双层石墨烯]]（非极性对照体系）
+  - 概念 [[../entities/MoS2|二硫化钼 MoS₂]]（3R-MoS₂滑动铁电体系）
   - 实体 [[../entities/h-BN]]
   - 实体 [[../entities/TMDs]]（3R-MoS₂）
   - 实体 [[../entities/domain-wall]]

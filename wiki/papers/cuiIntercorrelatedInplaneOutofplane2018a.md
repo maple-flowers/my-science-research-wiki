@@ -124,6 +124,11 @@ Cui, Hu, Yan, Addiego, Gao, Wang, Wang, Li, Cheng, Li, Zhang, Alshareef, Wu, Zhu
   - project-2（Mn 多铁）— **medium**：α-In2Se3 本身不是多铁，但提供了二维极限下"IP 与 OOP 极化内禀互锁"这一与磁电耦合思路相近的多序参量耦合范例；其层间反平行堆叠、奇偶效应、单畴形成条件（IP 极化大于 OOP + 载流子屏蔽退极化场）可作为 Mn 基多铁/二维多铁讨论中的物理类比与对照。
   - project-4（TTF 分子计算）— **weak**：方法学层面可参考其 DFT 工作流（PBE 结构弛豫 + HSE06 带隙 + optB88-vdW 处理弱相互作用 + 力收敛 0.005 eV/Å），对含弱相互作用的分子晶体计算有间接参考价值；材料体系与物理问题差异较大。
   - project-1 / project-3 / project-6 / project-7：无直接项目连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+
 ## 📝 组织与用词
 文章沿"材料制备（CVD + 慢冷筛 α 相）→ 结构确认（AFM/Raman/SAED/STEM 确定 FE-ZB' 构型）→ 本征铁电性（PFM 奇偶效应 + SED 电场成像）→ 极化关联翻转（畴写入 + 带回线测真伪）→ 器件应用（CAFM 垂直阻变 + 平面可切换二极管 + 光控多态）"层层递进。论证中以 PFM 相位作为极化方向的指纹，以 SED 电场矢量图作为微观"眼见为实"，以顶电极回线排除静电/离子伪像，最后用电学输运将极化态与电阻态绑定。值得复用的术语：
   - [[../concepts/ferroelectricity|ferroelectricity / 铁电性]]
@@ -135,13 +140,13 @@ Cui, Hu, Yan, Addiego, Gao, Wang, Wang, Li, Cheng, Li, Zhang, Alshareef, Wu, Zhu
   - [[../concepts/switchable-diode|switchable diode effect / 可切换二极管效应]]
   - [[../concepts/depolarizing-field|depolarizing field / 退极化场]]
 ## ✏️ 可写入 Wiki 的要点
-  1. α-In2Se3 为室温二维范德华铁电半导体，带隙约 1.3 eV，在双层至 6 nm 薄片中均保持铁电性；CVD 生长后以 0.1 °C/min 慢冷可显著提高 α 相比例，快冷样品以非铁电 β 相为主。
+  1. α-In2Se3 为室温二维范德华铁电半导体，带隙约 1.3 eV，在双层至 6 nm 薄片中均保持[[../concepts/ferroelectricity|铁电性]]；CVD 生长后以 0.1 °C/min 慢冷可显著提高 α 相比例，快冷样品以非铁电 β 相为主。
   2. α-In2Se3 单层原子结构确认为 FE-ZB' 构型（五层 Se–In–Se–In–Se 中中心 Se 偏离中心位置），是 Ding et al. (Nat. Commun. 2017) 预测的四种 α 相构型中能量最低的铁电构型。
   3. α-In2Se3 的 IP 极化远大于 OOP 极化（OOP 小几十倍），但两者在电场下本征互锁：垂直电场翻转 OOP 极化时，中心 Se 原子层横向位移同步带动 IP 极化旋转；这区别于 SnTe（仅 IP）和 CuInP2S6（仅 OOP）。
-  4. PFM 相位在 1L–6L 间呈奇偶振荡：2 nm（约 2L）相位约 120°，3 nm（约 3L）约 −60°，4 nm（约 4L）回到约 120°；DFT 双层计算与 SED 电场成像一致表明层间反平行堆叠。
+  4. PFM 相位在 1L–6L 间呈[[../concepts/odd-even-oscillation|奇偶振荡]]：2 nm（约 2L）相位约 120°，3 nm（约 3L）约 −60°，4 nm（约 4L）回到约 120°；DFT 双层计算与 SED 电场成像一致表明层间反平行堆叠。
   5. SED 通过测量 CBED 图样强度重心（CoW）位移直接成像投影电场：在 2L/3L 边界处电场由 [12̄10] 翻到 [101̄0]，Ex 反转明显、Ey 小幅反转，为层间反平行极化提供直接微观证据。
-  6. 单畴态成因：IP 极化大于 OOP 使退极化场较小，且 α-In2Se3 较高载流子浓度可中和边界极化电荷，二者协同使每个台阶内自然形成单畴；与 CuInP2S6（OOP 主导、易成畴壁）形成对比。
-  7. 顶电极（Au, Φ=2 μm, 20 nm）下仍测得蝴蝶形振幅回线与 180° 相位突变，排除了表面静电、电荷注入、离子迁移等 PFM 伪像；顶电极回线更不对称、矫顽场更大，归因于沉积过程引入的"死层"。
-  8. 垂直 CAFM 结构中，±6 V 写入后高低阻态电流相差超过 4 个数量级，输运由金属/铁电体/金属背对背肖特基势垒主导，势垒高度随极化方向变化。
-  9. 横向 Au/α-In2Se3/Au 器件基于 IP 极化实现"可切换二极管"：极化升高一个界面肖特基势垒、降低对面界面势垒，导致整流方向随极化反转；±10 V 下开关比约 10，±4 V 区间呈现相反整流特性。
-  10. 结合 ~1.3 eV 可见光响应（LED ~8 mW/cm²），平面器件实现电场写两态 + 光照叠加两态共四个阻变态的多态存储；β-In2Se3 对照器件仅有光响应而无阻变，证明阻变源于铁电极化。写入畴在空气中可识别约 10 h，是后续需解决的保持力问题。
+  6. 单畴态成因：IP 极化大于 OOP 使[[../concepts/depolarization-field|退极化场]]较小，且 α-In2Se3 较高载流子浓度可中和边界极化电荷，二者协同使每个台阶内自然形成单畴；与 CuInP2S6（OOP 主导、易成畴壁）形成对比。
+  7. 顶电极（Au, Φ=2 μm, 20 nm）下仍测得蝴蝶形振幅回线与 180° 相位突变，排除了表面静电、电荷注入、离子迁移等 PFM 伪像；顶电极回线更不对称、[[../concepts/coercive-field|矫顽场]]更大，归因于沉积过程引入的"死层"。
+  8. 垂直 CAFM 结构中，±6 V 写入后高低阻态电流相差超过 4 个数量级，输运由金属/铁电体/金属背对背[[../concepts/schottky-barrier|肖特基势垒]]主导，势垒高度随极化方向变化。
+  9. 横向 Au/α-In2Se3/Au 器件基于 IP 极化实现"[[../concepts/switchable-diode|可切换二极管]]"：极化升高一个界面肖特基势垒、降低对面界面势垒，导致整流方向随极化反转；±10 V 下开关比约 10，±4 V 区间呈现相反整流特性。
+  10. 结合 ~1.3 eV 可见光响应（LED ~8 mW/cm²），平面器件实现电场写两态 + 光照叠加两态共四个阻变态的[[../concepts/multistate-memory|多态存储]]；β-In2Se3 对照器件仅有光响应而无阻变，证明阻变源于铁电极化。写入畴在空气中可识别约 10 h，是后续需解决的保持力问题。

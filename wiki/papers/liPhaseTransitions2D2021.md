@@ -270,13 +270,13 @@ Wenbin Li、Xiaofeng Qian、Ju Li，2021，*Nature Reviews Materials* 6, 829–8
 
 ## 📊 关键图表
   - 图 2：MoTe2 多晶型相变的多场调控——激光诱导图案化、离子液体场效应静电掺杂、垂直电场下 2Hd 导电细丝。
-    ![Fig. 2 MoTe2 多晶型相变的激光/静电/电场调控](../../raw/figures/liPhaseTransitions2D2021/fig_2_RTFYSEMI.png)
+    ![Fig. 2 MoTe2 多晶型相变的激光/静电/电场调控](../../raw/figures/liPhaseTransitions2D2021/fig_2_RTFYSEMI.png) -> [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
   - 图 3：2D/界面扩散型相变用于相变存储——Sb2Te3-GeTe 超晶格中 GeTe 层（~5 Å）受应变 Sb2Te3 层调制的原子扩散。
-    ![Fig. 3 界面相变存储与 Sb2Te3-GeTe 超晶格扩散开关](../../raw/figures/liPhaseTransitions2D2021/fig_3_2R6DZHUK.png)
+    ![Fig. 3 界面相变存储与 Sb2Te3-GeTe 超晶格扩散开关](../../raw/figures/liPhaseTransitions2D2021/fig_3_2R6DZHUK.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
   - 图 4：2D 铁性相变——1T′-WTe2 单层三种等价取向态与铁弹畴界；原子级薄 SnTe 中的面内铁电性（Tc≈270 K）。
-    ![Fig. 4 1T′-WTe2 铁弹取向变体与 SnTe 面内铁电](../../raw/figures/liPhaseTransitions2D2021/fig_4_IARMXNJS.png)
+    ![Fig. 4 1T′-WTe2 铁弹取向变体与 SnTe 面内铁电](../../raw/figures/liPhaseTransitions2D2021/fig_4_IARMXNJS.png) -> [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
   - 图 5：2D/2D 模板化扩散相变——CVD 生长中 MoS2/WS2 异质结与 MoxW1−xS2 合金在不同温度下的相分离/混合及生长动力学。
-    ![Fig. 5 CVD 生长中相分离异质结与合金的动力学调控](../../raw/figures/liPhaseTransitions2D2021/fig_5_RCAID2CF.png)
+    ![Fig. 5 CVD 生长中相分离异质结与合金的动力学调控](../../raw/figures/liPhaseTransitions2D2021/fig_5_RCAID2CF.png) -> [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
 
 ## 🔬 项目连接
   - **project-5 SnTe铁电模拟 — core**：SnTe 是本文铁电章节的核心范例（图 4b），明确指出原子级薄 SnTe 中"已实验实现鲁棒的面内铁电性，铁电转变温度 270 K"；并讨论 IV 族单硫族化物（GeS/GeSe/SnS/SnSe）的面内极化、去极化场、Berry 曲率/位移电流存储与铁弹耦合，直接为 SnTe 铁电模拟提供维度效应、相图与可观测物性的物理图像。
@@ -287,21 +287,26 @@ Wenbin Li、Xiaofeng Qian、Ju Li，2021，*Nature Reviews Materials* 6, 829–8
   - **project-4 TTF分子计算**：无直接项目连接（全文聚焦无机 2D 晶体，未涉及分子晶体/TTF 电荷转移体系；但其 DFT 势能面/相变动力学方法论可作弱类比，不计入连接）。
   - **project-6 湿度传感器**：无直接项目连接（无湿度/气体传感或表面吸附内容）。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
   - 文章以"维度降低如何改变相变"为主线，先建框架（短程/长程/空间三维度），再按相变类型展开（多晶型 → 铁性 → 高温扩散），最后落到器件与展望，形成"物理根源—材料体系—器件功能"的闭环。
   - 关键术语对照：phase engineering（相变工程）；polymorphic transition（多晶型相变）；ferroic order（铁性序）；diffusive vs displacive transition（扩散型/位移型相变）；weak dielectric screening（弱介电屏蔽）；electrostatic doping（静电掺杂）；Euler buckling（欧拉屈曲）；ripplocation（褶皱位错）；Mermin–Wagner theorem（Mermin–Wagner 定理）；Berry-curvature memory（贝里曲率存储）；interfacial PCM（界面相变存储）；flexural engineering（柔性/弯曲工程）。
 
 ## ✏️ 可写入 Wiki 的要点
-  - 2D 相变的特异性可归结为三要素：短程键合（配位数损失与再杂化、表面重构）、长程相互作用（面外静电屏蔽趋弱、弹性弯曲在能量上可行）、空间可及性（上下表面均可被化学/光/电场触及）。
-  - 2D 介电函数 ε(q∥)=1+2πα2D q∥，q∥→0 时 ε→1，意味着长程库仑作用在 2D 中几乎不被屏蔽；这使静电掺杂可达 ~10^14 e cm^-2（3D 中会发生库仑爆炸），并使 2D 金属也可铁电/挠曲电极化。
-  - TMD 多晶型能量差按 MoS2→MoSe2→MoTe2（及 W 系列）递减：MoS2 2H–1T′ 约 0.5 eV/f.u.，MoTe2 约 43 meV/f.u.，WTe2 的 1T′ 为基态；2H 为三棱柱半导体相（带隙 1.0–2.5 eV），1T 为八面体金属相且 Peierls 不稳定，1T′ 为扭曲八面体量子自旋霍尔绝缘相（~0.1 eV 能隙）。
+  - 2D 相变的特异性可归结为三要素：短程键合（配位数损失与再杂化、[[../concepts/surface-reconstruction|表面重构]]）、长程相互作用（面外静电屏蔽趋弱、弹性弯曲在能量上可行）、空间可及性（上下表面均可被化学/光/电场触及）。
+  - 2D [[../concepts/dielectric-function|介电函数]] ε(q∥)=1+2πα2D q∥，q∥→0 时 ε→1，意味着长程库仑作用在 2D 中几乎不被屏蔽；这使静电掺杂可达 ~10^14 e cm^-2（3D 中会发生库仑爆炸），并使 2D 金属也可铁电/挠曲电极化。
+  - TMD [[../concepts/polymorphism|多晶型]]能量差按 MoS2→MoSe2→MoTe2（及 W 系列）递减：MoS2 2H–1T′ 约 0.5 eV/f.u.，MoTe2 约 43 meV/f.u.，WTe2 的 1T′ 为基态；2H 为三棱柱半导体相（带隙 1.0–2.5 eV），1T 为八面体金属相且 Peierls 不稳定，1T′ 为扭曲八面体量子自旋霍尔绝缘相（~0.1 eV 能隙）。
   - MoTe2 的 2H↔1T′ 可被多种外场触发：碱金属插层（化学）、热（体相 Tc≈500–820 °C，Te 缺位降低 Tc）、~0.2% 双轴应变（室温）、激光（Te 空位，~3% 浓度即可反转稳定性）、~4 V 离子液体栅压、垂直电场（瞬态 2Hd 导电细丝）。
-  - 位移型相变速度 v∝(F/Fth)^n，n 可高达约 20 并在声子群速处饱和；扩散型相变 n≈1、热激活激活。2D 材料抗拉极限远高于体无机材料（石墨烯~20%、MoS2~10%，体无机~0.2%），压缩时以 ripplocation 形式松弛而非位错增殖。
-  - Hohenberg–Mermin–Wagner 定理禁止短程相互作用 2D 体系的有限温度连续对称破缺，但磁各向异性（打开有限尺寸自旋波带隙）和长程偶极相互作用提供逃逸出口；CrI3 单层铁磁、Cr2Ge2Te6 单层 Tc≈40 K、Fe3GeTe2 可栅压调至室温以上即为例证。
-  - 2D 铁电代表体系：SnTe 面内极化 Tc≈270 K；α-In2Se3 面内/面外极化互锁；CuInP2S6；扭曲 1T-MoTe2；少层 WTe2 半金属通过层间滑移呈铁电。去极化场在 2D 中更严峻，但原子级薄材料仍可维持稳定极化。
+  - 位移型相变速度 v∝(F/Fth)^n，n 可高达约 20 并在声子群速处饱和；扩散型相变 n≈1、热激活激活。2D 材料抗拉极限远高于体无机材料（[[../entitys/graphene|石墨烯]]~20%、MoS2~10%，体无机~0.2%），压缩时以 ripplocation 形式松弛而非位错增殖。
+  - Hohenberg–Mermin–Wagner 定理禁止短程相互作用 2D 体系的有限温度连续对称破缺，但[[../concepts/magnetic-anisotropy-energy|磁各向异性]]（打开有限尺寸[[../concepts/spin-wave|自旋波]]带隙）和长程偶极相互作用提供逃逸出口；CrI3 单层铁磁、Cr2Ge2Te6 单层 Tc≈40 K、Fe3GeTe2 可栅压调至室温以上即为例证。
+  - 2D 铁电代表体系：SnTe 面内极化 Tc≈270 K；α-In2Se3 面内/面外极化互锁；CuInP2S6；扭曲 1T-MoTe2；少层 WTe2 [[../concepts/half-metal|半金属]]通过层间滑移呈铁电。[[../concepts/depolarization-field|去极化场]]在 2D 中更严峻，但原子级薄材料仍可维持稳定极化。
   - IV 族单硫族化物 GeS/GeSe/SnS/SnSe 是天然 2D 多铁（铁电+铁弹耦合）；α-SnO 单层的铁弹马氏体相变可光-力耦合翻转，开关能耗比 GST 低约一个数量级。
   - 2D CDW/Peierls 失稳源于电声耦合增强；NbSe2 单层相比体相 CDW 序增强。2D 铁性/拓扑体系的另一条非易失存储路径是奇数层 WTe2 的 Berry 曲率偶极——非线性反常霍尔电压随极化反号（偶数层不变），位移电流亦呈存储效应。
-  - 界面 PCM（GeTe/Sb2Te3、TiTe2/Sb2Te3 超晶格）把原子扩散限制在 ~5 Å 的 GeTe 层内，由应变/不可动 Sb2Te3 层调制，从而提高速度、降低写入能耗、减小电阻漂移与噪声；展望方向包括非硫族 2D 材料（氧化物/磷族/卤族）、熵稳定相、ML+晶体结构预测、原位 TEM/超快电子衍射/tr-ARPES/SHG、柔性工程（赝磁场、挠曲电、莫尔）以及堆叠 2D/转角电子学。
+  - 界面 PCM（GeTe/Sb2Te3、TiTe2/Sb2Te3 [[../concepts/superlattice|超晶格]]）把原子扩散限制在 ~5 Å 的 GeTe 层内，由应变/不可动 Sb2Te3 层调制，从而提高速度、降低写入能耗、减小电阻漂移与噪声；展望方向包括非硫族 2D 材料（氧化物/磷族/卤族）、熵稳定相、ML+晶体结构预测、原位 TEM/超快电子衍射/tr-ARPES/SHG、柔性工程（[[../concepts/pseudomagnetic-field|赝磁场]]、挠曲电、莫尔）以及堆叠 2D/[[../concepts/twistronics|转角电子学]]。
 
 **项目连接**：project-5（core）、project-2（strong）、project-7（strong）；project-1/3/4/6 无直接连接。
 **图数**：4（fig_2_RTFYSEMI.png、fig_3_2R6DZHUK.png、fig_4_IARMXNJS.png、fig_5_RCAID2CF.png）。

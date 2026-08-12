@@ -83,12 +83,15 @@ Chuan Chen, Lei Su, A. H. Castro Neto, Vitor M. Pereira et al.，2019，Physical
   - 实体 `TiSe2`（1T-TiSe₂）：本文原型体系，CDW 转变 ~60 K、最优 T_sc ~4 K，目前 wiki/entities 中无此条目。
   - 实体 `2H-TaSe2`、`1T-TaS2`、`2H-NbSe2`：补充材料中用于论证普适性的对比 TMD 体系。
 ## 📊 关键图表
-  - ![图1 E-t 相图：C/NC/IC 三相及超导穹顶，红线为 a1∝E 耦合，灰线为 E 无关耦合；插图显示 η 在 t_c 处跳变（一级相变）](../../raw/figures/Chen2019superconductivity/fig_1_WTGGFJU9.png)
-  - ![图2 近公度相实空间结构：(a) δρ(r) 与黄色虚线标出的 Kagome DC 网络；(b,c) 相位 π 滑移与振幅在 DC 处下降>30%；(d,e) Φ(r) 局域于 DC，Kagome 顶点处峰值约为单条 DC 上的两倍](../../raw/figures/Chen2019superconductivity/fig_2_WA3G7MTL.png)
-  - ![图3 非均匀超导渗流与涡旋约束示意：(a) 0D 成核→1D 网络渗流→2D 全域超导；(b) 1D 通道中涡旋被钉扎，解释 Little-Parks 振荡](../../raw/figures/Chen2019superconductivity/fig_3_F22L5HMT.png)
-  - ![补充相图/纹理图（fig_4）](../../raw/figures/Chen2019superconductivity/fig_4_GA2DJVHW.png)
+  - ![图1 E-t 相图：C/NC/IC 三相及超导穹顶，红线为 a1∝E 耦合，灰线为 E 无关耦合；插图显示 η 在 t_c 处跳变（一级相变）](../../raw/figures/Chen2019superconductivity/fig_1_WTGGFJU9.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图2 近公度相实空间结构：(a) δρ(r) 与黄色虚线标出的 Kagome DC 网络；(b,c) 相位 π 滑移与振幅在 DC 处下降>30%；(d,e) Φ(r) 局域于 DC，Kagome 顶点处峰值约为单条 DC 上的两倍](../../raw/figures/Chen2019superconductivity/fig_2_WA3G7MTL.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图3 非均匀超导渗流与涡旋约束示意：(a) 0D 成核→1D 网络渗流→2D 全域超导；(b) 1D 通道中涡旋被钉扎，解释 Little-Parks 振荡](../../raw/figures/Chen2019superconductivity/fig_3_F22L5HMT.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![补充相图/纹理图（fig_4）](../../raw/figures/Chen2019superconductivity/fig_4_GA2DJVHW.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
 ## 🔬 项目连接
 project-7 CDW（电荷密度波）——本文是 CDW 与超导竞争/共存、C-IC 转变、DC 畴壁网络的核心理论文献，直接支撑项目-7；无其他直接项目连接。
+## 🔗 项目双链
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
 文章按"实验动机（TiSe₂ 超导穹顶 + STM 看到 DC + Little-Parks 振荡）→ 构建 CDW 的 McMillan GL 自由能（含锁相能 E、梯度项 B、三波耦合 D/M/K）→ 谐波展开数值极小化 → 得到 E-t 相图及 NC 相 Kagome DC 网络 → 引入 SC 自由能并通过 a_s=a₀−a₁Σ|∇ψ_j|²将超导耦合到 CDW 梯度 → 预言非均匀 PDW 态与 0D→1D→2D 渗流 → 用 Little-Parks 周期定量估算 L~70 nm、δ~0.01 与实验吻合"展开。补充材料 S1–S13 系统论证对称性、参数选择、谐波展开收敛性与普适性。值得复用的术语：
   - 错位相子 / 失配畴壁（[[../concepts/discommensuration|discommensuration]], DC）
@@ -101,12 +104,12 @@ project-7 CDW（电荷密度波）——本文是 CDW 与超导竞争/共存、C
   - [[../concepts/little-parks-oscillation|Little–Parks 振荡]]（Little-Parks oscillations）
 ## ✏️ 可写入 Wiki 的要点
   1. 原型体系 1T-TiSe₂ 在 ~60 K 进入 2×2 公度 CDW（C-CDW），电子掺杂（栅压/Cu 插层）或加压抑制 C-CDW 后，在 C→IC 转变附近出现 T_sc^max≈4 K 的超导穹顶；CDW 关联在超导相中仍持续存在。
-  2. CDW 自由能由三非共线复序参量 ψ_j=φ_j e^{iθ_j}（j=1,2,3，对应 Q_j^C=G_j/2 三个 C3 对称波矢）描述：f₀ 含 A|ψ_j|²+B|(i∇+q_j^I)ψ_j|²+G|ψ_j|⁴（B 项偏好 IC），f₁ 含 −(E/2)Σ(ψ_j²+c.c.) 锁相项（偏好 C）以及 −3D/2(ψ₁ψ₂ψ₃+c.c.)、−M/2Σ(ψ_j ψ*_{j+1}ψ*_{j+2}+c.c.)、K/2Σ_{i≠j}|ψ_iψ_j|² 三波耦合项。参数取 A=t, K=G=2M=−2D=2, B(q^I)²=1，全部 ~1 无精细调节。
-  3. 引入变分参数 η=|q_j|/q^I（η=0 为 C，η=1 为均匀 IC，之间为 NC），通过 Nakanishi–Shiba 谐波展开 ψ_j=Δ_{j;0}+ΣΔ_{j;lmn}e^{iq_{j;lmn}·r}（截断 N=3，共 39 个实变分参数，200 次随机初值极小化）数值求解，得到 E-t 相图：大 E（低掺杂）为 C，小 E（高掺杂）为 IC，中间狭窄 NC 区由 DC 网络构成；C-IC 转变为一级相变（η 在 t_c 处跳变）。
-  4. 近公度相中 DC 形成叠加于 C-CDW 上的二维 Kagome 超晶格；DC 处相位阶梯跳变 π（TiSe₂ 的公度分数 ν=1/2，一般情形跳变 2πν），振幅下降超过 30%；一维纯相位极限下鞍点方程退化为 sine-Gordon 方程，DC 即其孤子解。DC 网络周期 L=2πν/(ηq^I)=√3 a/(ηδ)，a 为晶格常数。
+  2. CDW 自由能由三非共线复[[../concepts/order-parameter|序参量]] ψ_j=φ_j e^{iθ_j}（j=1,2,3，对应 Q_j^C=G_j/2 三个 C3 对称波矢）描述：f₀ 含 A|ψ_j|²+B|(i∇+q_j^I)ψ_j|²+G|ψ_j|⁴（B 项偏好 IC），f₁ 含 −(E/2)Σ(ψ_j²+c.c.) 锁相项（偏好 C）以及 −3D/2(ψ₁ψ₂ψ₃+c.c.)、−M/2Σ(ψ_j ψ*_{j+1}ψ*_{j+2}+c.c.)、K/2Σ_{i≠j}|ψ_iψ_j|² 三波耦合项。参数取 A=t, K=G=2M=−2D=2, B(q^I)²=1，全部 ~1 无精细调节。
+  3. 引入变分参数 η=|q_j|/q^I（η=0 为 C，η=1 为均匀 IC，之间为 NC），通过 Nakanishi–Shiba 谐波展开 ψ_j=Δ_{j;0}+ΣΔ_{j;lmn}e^{iq_{j;lmn}·r}（截断 N=3，共 39 个实变分参数，200 次随机初值极小化）数值求解，得到 E-t 相图：大 E（低掺杂）为 C，小 E（高掺杂）为 IC，中间狭窄 NC 区由 DC 网络构成；C-IC 转变为[[../concepts/first-order-phase-transition|一级相变]]（η 在 t_c 处跳变）。
+  4. 近公度相中 DC 形成叠加于 C-CDW 上的二维 Kagome [[../concepts/superlattice|超晶格]]；DC 处相位阶梯跳变 π（TiSe₂ 的公度分数 ν=1/2，一般情形跳变 2πν），振幅下降超过 30%；一维纯相位极限下鞍点方程退化为 sine-Gordon 方程，DC 即其孤子解。DC 网络周期 L=2πν/(ηq^I)=√3 a/(ηδ)，a 为晶格常数。
   5. SC 自由能 F_sc=∫[a_s|Φ|²+b_s|∇Φ|²+c_s|Φ|⁴]dr，关键耦合为 a_s=a₀−a₁Σ_j|∇ψ_j|²：在 C 畴内部 ∇ψ=0，a_s 正（正常）；在 DC 处梯度大，a_s 变负，超导优先成核。a₀∝T−T₀ 捕获涨落增强配对，a₁>0。计算中取 a₀=10t+60、b_s=c_s=1。
   6. 为重现有限掺杂窗口的超导穹顶，令 a₁→a₁E（a₁=500）：掺杂增大→E 减小→CDW 涨落被屏蔽→SC 在 IC 极限被抑制，红线形成穹顶；若 a₁ 与 E 无关（灰线，a₁=500×2.1），SC 将一直延伸到 IC 极限。
   7. 预测的非均匀超导态：Φ(r) 完全跟随 DC 网络，C 畴内 Φ(X₁)=0，单条 DC 上有峰值，两条 DC 相交的 Kagome 顶点处 Φ(X₃)≈2Φ(X₂)。降温分三阶段——T_s1^cd<T≤T_s0^cd 时在顶点 0D 成核；T_s2^cd<T≤T_s1^cd 时沿 DC 连成 1D 渗透网络；T<T_s2^cd 时扩展为 2D 全域超导；若 Φ 向 C 区穿透长度小于 L，则 T_s2^cd 可能为 0，超导最多只通过 1D 网络贯穿。
   8. 该非均匀超导具有配对密度波（PDW）特征，空间周期由 DC 网络而非内禀配对不稳定性决定；在 1D 渗流阶段，磁场下涡旋被 DC 晶格自然钉扎，超流沿 1D 通道循环，构成微观超导线网格，可解释 TiSe₂ 薄膜中的 Little–Parks 磁阻振荡。
-  9. 定量估算：取六角网格 f=φ/φ₀=1/4、首个磁阻极小值 B≈0.13 T、TiSe₂ a=0.35 nm、η~1，得 L=√3 a/(ηδ)=[φ₀/(2√3 B)]^{1/2}≈70 nm、δ≈0.01，与 X 射线衍射（穹顶内 δ~5–15%）和 STM（T_sc 以上最优掺杂处 DC 间距数十 nm、DC 内态密度增强）数量级吻合。
+  9. 定量估算：取六角网格 f=φ/φ₀=1/4、首个磁阻极小值 B≈0.13 T、TiSe₂ a=0.35 nm、η~1，得 L=√3 a/(ηδ)=[φ₀/(2√3 B)]^{1/2}≈70 nm、δ≈0.01，与 X 射线衍射（穹顶内 δ~5–15%）和 STM（T_sc 以上最优掺杂处 DC 间距数十 nm、DC 内[[../concepts/density-of-states|态密度]]增强）数量级吻合。
   10. 普适性：框架不依赖 TiSe₂  specifics——2H-NbSe₂（小 E、IC-CDW 后超导，T_icdw=33 K, T_sc=7.2 K）、2H-TaSe₂（进入 C-CDW 后不超导）、1T-TaS₂（常压 C-CDW 不超导、加压进入 NC 后出现超导）均符合作者提出的"CDW 公度性与超导反相关"规律；推广到 ν=1/3 等其他公度条件只需改写 f₁ 中的非线性项。模型局限：唯象、未自洽考虑 SC 对 CDW 的反馈、忽略层间耦合与无序（T_cdw~60 K ≫ T_sc~4 K 支持被动背景近似）。

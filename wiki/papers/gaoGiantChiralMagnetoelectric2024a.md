@@ -114,7 +114,7 @@ Frank Y. Gao, Xinyue Peng, Xinle Cheng 等（共 16 位作者，Angel Rubio、Ed
   - 概念 [[../concepts/quadrature-phase|正交相位 π/2]]（ΔP 与 ΔM 振荡差 90°，自然光学活性的动力学指纹）
   - 概念 [[../concepts/frozen-magnon|冻结磁振子近似]]（按磁振子本征矢位移自旋构型、Berry phase 算极化变化以提取 αij）
   - 概念 [[../concepts/magnetic-frustration|磁阻挫]]（三角晶格上 J1/J3 竞争稳定螺旋序）
-  - 概念 [[../concepts/NiI2|碘化镍 NiI₂]]（CdCl₂ 型菱方范德华 II 型多铁，TAFM≈75 K、THM≈60 K）
+  - 概念 [[../entities/NiI2|碘化镍 NiI₂]]（CdCl₂ 型菱方范德华 II 型多铁，TAFM≈75 K、THM≈60 K）
   - 实体 [[../entities/NiI2|碘化镍 NiI₂]]（CdCl₂ 型 R3̄m 菱方范德华 II 型多铁，单层仍保持螺旋多铁序）
   - 图表 [[../figures/crystal-structures]]（NiI₂ R3̄m 菱方、NiI₆ 八面体三角晶格、螺旋序 q=(0.138a*,0,1.457c*)）
   - 图表 [[../figures/optical-spectra]]（圆偏振拉曼 4.09/4.51 meV 两电磁振子；太赫兹 NOA 谱）
@@ -128,9 +128,9 @@ Frank Y. Gao, Xinyue Peng, Xinle Cheng 等（共 16 位作者，Angel Rubio、Ed
   - 相关论文 **gaoGiantChiralMagnetoelectric2024a**
 
 ## 📊 关键图表
-  - ![图1 NiI₂ 晶体结构、手性螺旋、电磁振子](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_1_8V5GWLM9.png)
-  - ![图2 静态与瞬态 SHG 偏振测量](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_2_S3NZQZ25.png)
-  - ![图4 电磁振子动态磁电耦合与材料对比](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_4_VW7A6NTD.png)
+  - ![图1 NiI₂ 晶体结构、手性螺旋、电磁振子](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_1_8V5GWLM9.png) -> [[../figures/vibrational-spectra|振动能谱与声子谱]]
+  - ![图2 静态与瞬态 SHG 偏振测量](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_2_S3NZQZ25.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图4 电磁振子动态磁电耦合与材料对比](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_4_VW7A6NTD.png) -> [[../figures/vibrational-spectra|振动能谱与声子谱]]
   - 图3（电极化与磁化动力学、π/2 相位差）笔记未导出独立图片文件，仅正文描述。
   - 另有 eq_1/eq_2/eq_3（自旋哈密顿量与推广自旋流极化公式）及 fig_0（TOC）PNG。
 
@@ -150,6 +150,15 @@ Frank Y. Gao, Xinyue Peng, Xinle Cheng 等（共 16 位作者，Angel Rubio、Ed
   - **project-6 湿度传感器**：无。
   - **project-7 CDW**：引言提到 CDW 也可在非手性晶格中产生手性，但正文不涉及 CDW，无直接连接。
 
+## 🔗 项目双链
+- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
+- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
+- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
+- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+
 ## 📝 组织与用词
   - 文章按"理论先行预测 → SHG 选畴 → 泵浦-探测双通道实验 → 相位/强度量化 → DFT 机理回归"的闭环组织；先给 DFT 预测的两个电磁振子与 αij 量级，再用实验证实 π/2 相位差与 11×10³ ps m⁻¹，最后用推广自旋流模型解释为何如此大。
   - 值得复用的术语：
@@ -168,11 +177,11 @@ Frank Y. Gao, Xinyue Peng, Xinle Cheng 等（共 16 位作者，Angel Rubio、Ed
 ## ✏️ 可写入 Wiki 的要点
   1. NiI₂ 为 CdCl₂ 型菱方晶格（高温空间群 R3̄m），Ni²⁺（S=1）处于 I⁻ 八面体中形成三角晶格；零场冷却下 T_AFM≈75 K 进入共线 AFM，T_HM≈60 K 进入螺旋磁相，传播矢量 q=(0.138a*, 0, 1.457c*)，螺旋序破反演/镜面/三重轴、保留面内 C₂ 轴。
   2. 螺旋序通过逆 DM 机制与自旋依赖金属-配体杂化诱导面内电极化 P（沿 y ∥ C₂），使 NiI₂ 成为 II 型多铁；该多铁态可延续至单层极限。
-  3. Γ 点存在两个低能电磁振子：EMo（C₂-奇，4.09 meV≈0.99 THz，ΔP/ΔM 垂直 C₂）和 EMe（C₂-偶，4.51 meV≈1.09 THz，ΔP/ΔM 平行 C₂），均具拉曼与红外双重活性；圆偏振拉曼下 σ⁺/σ⁻ 强度不对称直接显示手性。
-  4. 用 1.13 eV（低于电荷转移隙、处于 d–d 跃迁之间）泵浦作"冷激发"，1.20 eV 探测；tr-SHG 对 ΔP 敏感、tr-RKerr 对 ΔM 敏感；两通道在 EMo 上振荡初始相位恒差 π/2，与 DFT 预测一致，是自然光学活性的指纹。
+  3. Γ 点存在两个低能[[../concepts/electromagnon|电磁振子]]：EMo（C₂-奇，4.09 meV≈0.99 THz，ΔP/ΔM 垂直 C₂）和 EMe（C₂-偶，4.51 meV≈1.09 THz，ΔP/ΔM 平行 C₂），均具拉曼与红外双重活性；圆偏振拉曼下 σ⁺/σ⁻ 强度不对称直接显示手性。
+  4. 用 1.13 eV（低于[[../concepts/charge-transfer|电荷转移]]隙、处于 d–d 跃迁之间）泵浦作"冷激发"，1.20 eV 探测；tr-SHG 对 ΔP 敏感、tr-RKerr 对 ΔM 敏感；两通道在 EMo 上振荡初始相位恒差 π/2，与 DFT 预测一致，是自然光学活性的指纹。
   5. 提取 Im[α_κκ] = 11×10³ ps m⁻¹（~4 meV/1 THz），DFT 值 12×10³ ps m⁻¹；对应 η≈1000° mm⁻¹，比 CuO、CuFe₀.₉₆₅Ga₀.₀₃₅O₂ 等螺旋磁体高约两个数量级，也超过所有已测单相多铁中的旋光双折射（GB）。
   6. 巨耦合的微观三要素：非共线自旋织构 + 配体 I 上 λ≈0.5 eV 的强 SOC + Ni–I 间异常强的 d–p 杂化（t/Δ≈0.33，源于 Ni 较大电负性与 I 大原子半径）；这是纯电子（IDM）机制，区别于传统声子介导电磁振子，故响应快（THz）且强。
   7. 推广自旋流模型给出 P̂ = λ(Δt/Δ⁴⁻¹) d_{d-p} [n̂·(S₁×S₂)]，对磁单胞键求和得二维 Pel=4.1×10⁻¹³ C m⁻¹（DFT 5.3×10⁻¹³ C m⁻¹），共线自旋或 SOC 为零时极化消失——证明非共线+SOC 是必要条件。
   8. DFT 细节：VASP、PAW、PBE+U（Dudarev U=4 eV）、SOC 全开、截断 350 eV；四态法在 7×5×1 超胞取交换参数（J1=−5.03, J2=0.32, J3=3.95 meV，双二次 B=−0.89 meV）；7×1×1 超胞 + Berry phase 算极化；冻结磁振子法（VASP penalty functional ħω=1.0 eV 约束自旋）算电磁振子电极化。
   9. EMo 电偶极矩 d_o=2.5 μ_B/c（垂直基态 P），EMe d_e=10.3 μ_B/c（平行 P）；tr-RKerr 只见 EMo 不见 EMe，因 C₂-偶 EMe 无面外磁化分量。
-  10. SHG 偏振图案随温度从六重对称变为二重对称（点群 2，C₂ 轴沿 φ=90°），是判定单一对映纯畴的依据；该相位提取方法可推广为手性畴成像手段。未来方向包括 THz 强场相干翻转手性畴、手性光学腔诱导新奇磁态、vdW 异质结界面 SOC 工程增强耦合。
+  10. SHG 偏振图案随温度从六重对称变为二重对称（点群 2，C₂ 轴沿 φ=90°），是判定单一对映纯畴的依据；该相位提取方法可推广为手性畴成像手段。未来方向包括 THz 强场相干翻转手性畴、手性光学腔诱导新奇磁态、[[../concepts/van-der-waals-heterostructure|vdW 异质结]]界面 SOC 工程增[[../concepts/strong-coupling|强耦合]]。
