@@ -1,57 +1,6 @@
+# 基础晶体结构 (Fundamental Crystal Structures)
 
-*   **来源**：[[../papers/Jin2015studying]]
-
-*   **关键特征**：(a) 伪立方钙钛矿结构中的Fe离子
-*   **来源**：[[../papers/Koley2020charge]]
-
-*   **关键特征**：分别对应2H-TaSe
-*   **来源**：[[../papers/RecentAdvancesGrowth2025]]
-
-*   **关键特征**：展示了通过CVD实现晶圆级（1英寸）、取向可控
-*   **来源**：[[../papers/Wixtrom2011electrical]]
-
-*   **关键特征**：图中显示了一系列尖锐的布拉格衍射峰，表明产物为结晶性良好的纯相。黑色
-*   **来源**：[[../papers/Wixtrom2011electri
-*   **来源**：[[../papers/Zhang2003a]]
-
-*   **关键特征**：展示了一个中
-*   **来源**：[[../papers/Zhang2019a]]
-
-*   **关键特征**：
-*   **来源**：[[../papers/Zhang2019a]]
-
-*   **关键特征**：直观展示了三个
-*   **来源**：[[../papers/bhowalPolarMetalsPrinciples2023b]]
-
-*
-*   **来源**：[[../papers/fiebigEvolutionMultiferroics2016]]
-
-*   **关键特征**：b) 铁涡态（Ferrotoroidic）：图中展示了由不同环向矩（箭头）组成的畴结构。如果这些畴能在其共轭场（环向场）下翻转，就形成了铁涡态，这是一种新的基本铁性序。) 伪立方钙钛矿结构中的Fe离子
-*   **来源**：[[../papers/Koley2020charge]]
-
-*   **关键特征**：分别对应2H-TaSe
-*   **来源**：[[../papers/RecentAdvancesGrowth2025]]
-
-*   **关键特征**：展示了通过CVD实现晶圆级（1英寸）、取向可控
-*   **来源**：[[../papers/Wixtrom2011electrical]]
-
-*   **关键特征**：图中显示了一系列尖锐的布拉格衍射峰，表明产物为结晶性良好的纯相。黑色
-*   **来源**：[[../papers/Wixtrom2011electri
-*   **来源**：[[../papers/Zhang2003a]]
-
-*   **关键特征**：展示了一个中
-*   **来源**：[[../papers/Zhang2019a]]
-
-*   **关键特征**：
-*   **来源**：[[../papers/Zhang2019a]]
-
-*   **关键特征**：直观展示了三个
-*   **来源**：[[../papers/bhowalPolarMetalsPrinciples2023b]]
-
-*
-*   **来源**：[[../papers/fiebigEvolutionMultiferroics2016]]
-
-*   **关键特征**：b) 铁涡态（Ferrotoroidic）：图中展示了由不同环向矩（箭头）组成的畴结构。如果这些畴能在其共轭场（环向场）下翻转，就形成了铁涡态，这是一种新的基本铁性序。垛构型、Janus 结构、层间滑移与结构畸变。
+> 收录单层与多层晶体几何、堆垛构型、Janus 结构、层间滑移与结构畸变等基础晶体结构图。本页为 [[crystal-structures|晶体结构图库]] 的子页面。
 
 [[科研Wiki/wiki/figures/crystal-structures|← 返回枢纽页]]
 

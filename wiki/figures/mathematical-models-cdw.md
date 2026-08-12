@@ -1,53 +1,6 @@
+# 数学模型与物理公式 (Mathematical Models & Formulas)
 
-*   **来源**：[[../papers/CastroNeto2001charge]]
-
-*   **关键特征**：将理论计算的电子自能虚部 I[
-*   **来源**：[[../papers/Barnett2006coexistence]]
-
-*   **关键特征**：展示了由公式(2)在相位φ=π/2时确定的原子位移模式。箭头表示原子的位移方向
-*   **来源**：[[../papers/chenFerromagneticNonmagnetic1T2022]]
-
-*   **关键特征**
-*   **来源**：[[../papers/chenFerromagneticNonmagnetic1T2022]]
-
-*   *
-*   **来源**：[[../papers/cossuStackingCharg
-*   **来源**：[[../papers/Kol
-*   **来源**：[[../papers/Kang2012dimer]]
-
-*   **关键特征**：展示了计算PoDW相中 $\chi_c$ 时所涉及的主要费曼图（Feynman Diagrams）。图中包含正常和反常格林函数（Gre
-*   **来源**：[[../papers/Kang2012dimer]]
-
-*   **关键特征**：展示了在PoDW和SDW共存且假定其序参量相等的情况下，导致 $\chi(\vec{q}_a)$ 和 $\chi(\vec{q}_b)$ 产生差异的最主要费曼图。图中明确标出了因轨道重叠而产生的顶点（Verte
-*   **来源**：[[../papers/hallEnvironmentalControlCharge]]
-
-*   **关键特征**：不同条件下的声子色散关系。纵轴为声子能量(me
-*   **来源**：[[../papers/Unknown2003charge]]
-
-*   **关键特征**：曲线图，展示了磁化率（χ）随温度（T）的变化。（横波）、ZA（面外波）。垂直位移。将理论计算的电子自能虚部 I[
-*   **来源**：[[../papers/Barnett2006coexistence]]
-
-*   **关键特征**：展示了由公式(2)在相位φ=π/2时确定的原子位移模式。箭头表示原子的位移方向
-*   **来源**：[[../papers/chenFerromagneticNonmagnetic1T2022]]
-
-*   **关键特征**
-*   **来源**：[[../papers/chenFerromagneticNonmagnetic1T2022]]
-
-*   *
-*   **来源**：[[../papers/cossuStackingCharg
-*   **来源**：[[../papers/Kol
-*   **来源**：[[../papers/Kang2012dimer]]
-
-*   **关键特征**：展示了计算PoDW相中 $\chi_c$ 时所涉及的主要费曼图（Feynman Diagrams）。图中包含正常和反常格林函数（Gre
-*   **来源**：[[../papers/Kang2012dimer]]
-
-*   **关键特征**：展示了在PoDW和SDW共存且假定其序参量相等的情况下，导致 $\chi(\vec{q}_a)$ 和 $\chi(\vec{q}_b)$ 产生差异的最主要费曼图。图中明确标出了因轨道重叠而产生的顶点（Verte
-*   **来源**：[[../papers/hallEnvironmentalControlCharge]]
-
-*   **关键特征**：不同条件下的声子色散关系。纵轴为声子能量(me
-*   **来源**：[[../papers/Unknown2003charge]]
-
-*   **关键特征**：曲线图，展示了磁化率（χ）随温度（T）的变化。（横波）、ZA（面外波）。垂直位移。真实物理公式与数据表格，涵盖 DFT 电子结构方法（USPP/PAW、迭代对角化、Berry 相极化）、非线性光学与激光微加工、铁电/多铁器件基准、CDW 声子模、磁输运模型、以及相稳定性与弹性力学的解析判据。所有条目均直接取自原刊公式或数据表，剔除了 Zotero 元数据与 AI 转写噪声。
+> 本页为 [[mathematical-models|物理模型与数学公式]] 的子页面：电荷密度波、电荷有序模型。
 
 [[科研Wiki/wiki/figures/_index|← 返回总索引]]
 

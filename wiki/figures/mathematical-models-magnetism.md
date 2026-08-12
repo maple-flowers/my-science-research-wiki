@@ -1,15 +1,6 @@
+# 数学模型与物理公式 (Mathematical Models & Formulas)
 
-*   **来源**：[[../papers/deSousa2008electrical]]
-
-*   **关键特征**：图中展示了两个子晶格磁化矢量 M₁ 和 M₂ 围绕其平衡位置的同相进动。关键特征是，二
-*   **来源**：[[../papers/tanRevealingEmergentMagnetic2024]
-*   **来源**：[[../papers/nahasFrustrationSelfOrderingTopological2016]]
-
-*   **关键特征**：展示了配置C10的平面内逆介电常数（χ⁻¹）随温度（T）的变化。红色直线是对高温部分的线性拟合，两个垂直箭头分别标出了矩阵中缺陷有序化温度（Tord ~ 75 K）和居里-外斯温度（θCW = 240 K）。子晶格磁化矢量 M₁ 和 M₂ 围绕其平衡位置的同相进动。关键特征是，二
-*   **来源**：[[../papers/tanRevealingEmergentMagnetic2024]
-*   **来源**：[[../papers/nahasFrustrationSelfOrderingTopological2016]]
-
-*   **关键特征**：展示了配置C10的平面内逆介电常数（χ⁻¹）随温度（T）的变化。红色直线是对高温部分的线性拟合，两个垂直箭头分别标出了矩阵中缺陷有序化温度（Tord ~ 75 K）和居里-外斯温度（θCW = 240 K）。据表格，涵盖 DFT 电子结构方法（USPP/PAW、迭代对角化、Berry 相极化）、非线性光学与激光微加工、铁电/多铁器件基准、CDW 声子模、磁输运模型、以及相稳定性与弹性力学的解析判据。所有条目均直接取自原刊公式或数据表，剔除了 Zotero 元数据与 AI 转写噪声。
+> 本页为 [[mathematical-models|物理模型与数学公式]] 的子页面：海森堡模型、磁各向异性、自旋输运。
 
 [[科研Wiki/wiki/figures/_index|← 返回总索引]]
 

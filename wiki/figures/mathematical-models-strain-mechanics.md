@@ -1,49 +1,6 @@
+# 数学模型与物理公式 (Mathematical Models & Formulas)
 
-*   **来源**：[[../papers/liFerroelasticityDomainPhysics2016]]
-
-*   **关键特征**：图表展示了在模拟单轴拉伸实验（拉伸a轴，b轴方向应力自由弛豫）时，O
-*   **来源**：[[../papers/heUltrafastSwitchingDynamics2024]]
-
-*   **关键特征**：能量对比散点图，横轴是DFT能量，纵轴是DP能量。所有点紧
-*   **来源**：[[../papers/Zhang2019a]]
-
-*   **关键特征**：展示了Ti135
-*   **来源**：[[../papers/Zhang2019a]]
-
-*   **关键特征*
-*   **来源**：[[../papers/Zhang2019a]]
-
-*   **关键特征**：展示了
-*   **来源**：[[../papers/Zhang2019a]]
-
-*   **关键特征**：展
-*   **来源**：[[../papers/Zhang2019a]]
-
-*   **关键特征**：展示了在300
-*   **来源**：[[../papers/guanRecentProgressTwoDimensional2020]]
-
-*   **关键特征**：对比了中心对称的1T相和铁电性的畸变1T相。电荷密度差（Charge Density Difference） 图直观地显示了反演对称性破缺（Inversion Symmetry Breaking），这是铁电性的必要条件。畸变主要由Mo原子在面内位移引起。*   **关键特征**：图表展示了在模拟单轴拉伸实验（拉伸a轴，b轴方向应力自由弛豫）时，O
-*   **来源**：[[../papers/heUltrafastSwitchingDynamics2024]]
-
-*   **关键特征**：能量对比散点图，横轴是DFT能量，纵轴是DP能量。所有点紧
-*   **来源**：[[../papers/Zhang2019a]]
-
-*   **关键特征**：展示了Ti135
-*   **来源**：[[../papers/Zhang2019a]]
-
-*   **关键特征*
-*   **来源**：[[../papers/Zhang2019a]]
-
-*   **关键特征**：展示了
-*   **来源**：[[../papers/Zhang2019a]]
-
-*   **关键特征**：展
-*   **来源**：[[../papers/Zhang2019a]]
-
-*   **关键特征**：展示了在300
-*   **来源**：[[../papers/guanRecentProgressTwoDimensional2020]]
-
-*   **关键特征**：对比了中心对称的1T相和铁电性的畸变1T相。电荷密度差（Charge Density Difference） 图直观地显示了反演对称性破缺（Inversion Symmetry Breaking），这是铁电性的必要条件。畸变主要由Mo原子在面内位移引起。实物理公式与数据表格，涵盖 DFT 电子结构方法（USPP/PAW、迭代对角化、Berry 相极化）、非线性光学与激光微加工、铁电/多铁器件基准、CDW 声子模、磁输运模型、以及相稳定性与弹性力学的解析判据。所有条目均直接取自原刊公式或数据表，剔除了 Zotero 元数据与 AI 转写噪声。
+> 本页为 [[mathematical-models|物理模型与数学公式]] 的子页面：弹性、挠曲电、应变耦合。
 
 [[科研Wiki/wiki/figures/_index|← 返回总索引]]
 

@@ -1,37 +1,6 @@
+# 器件制备流程与架构 (Device Fabrication & Architectures)
 
-*   **来源**：[[../papers/chenHafniumBasedFerroelectricPostMoore2026]]
-
-*   **关键特
-*   **来源**：[[../papers/chenHafniumBasedFerroelectricPostMoo
-*   **来源**：[[../papers/Unknown2025diffractive]]
-
-*   **关键特征**：展示了整个直径3.5毫米衍射光学元件的俯视图。图中可以清楚辨认出与图1(b)计算相符的相位图样。同时，图像也
-*   **来源**：[[../papers/Unkn
-*   **来源**：[[../papers/chenHafniumBasedFerroelectricPo
-*   **来源**：[[../papers/chenHafniumBasedFerroelectricPostMoore2026]]
-
-*   **关键特征**：这是一组评估铁电器件好坏的标准测
-*   **来源**：[[../papers/sunSlidingFerroelectricityTwodimensional2025]]
-
-* 
-*   **来源**：[[../papers/xueEmergingNonvolatileMemories2011]]
-
-*   **关键特征**：一个柱状图，展示了不同配置下的执行时间和能耗。械剥离和转移的过程。*   **关键特
-*   **来源**：[[../papers/chenHafniumBasedFerroelectricPostMoo
-*   **来源**：[[../papers/Unknown2025diffractive]]
-
-*   **关键特征**：展示了整个直径3.5毫米衍射光学元件的俯视图。图中可以清楚辨认出与图1(b)计算相符的相位图样。同时，图像也
-*   **来源**：[[../papers/Unkn
-*   **来源**：[[../papers/chenHafniumBasedFerroelectricPo
-*   **来源**：[[../papers/chenHafniumBasedFerroelectricPostMoore2026]]
-
-*   **关键特征**：这是一组评估铁电器件好坏的标准测
-*   **来源**：[[../papers/sunSlidingFerroelectricityTwodimensional2025]]
-
-* 
-*   **来源**：[[../papers/xueEmergingNonvolatileMemories2011]]
-
-*   **关键特征**：一个柱状图，展示了不同配置下的执行时间和能耗。械剥离和转移的过程。、存储器件架构（FeFET、FTJ、FeRAM、STT-RAM）、二维材料异质结堆叠、以及微纳加工（光刻、刻蚀、转移）等器件制造相关的图表。
+> 收录器件工艺流程、存储器件架构（FeFET/FTJ/FeRAM/STT-RAM）、二维材料异质结堆叠与微纳加工图表。本页为 [[experimental-setups|实验测试与测量装置]] 的子页面。
 
 [[科研Wiki/wiki/figures/experimental-setups|← 返回实验装置索引]]
 

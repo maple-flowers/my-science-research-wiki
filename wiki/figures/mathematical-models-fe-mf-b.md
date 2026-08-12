@@ -1,13 +1,6 @@
+# 数学模型与物理公式 (Mathematical Models & Formulas)
 
-*   **来源**：[[../papers/gomez-ortizKittelLawDomain2023]]
-
-*   **关键特征**：虚线表示中心对称参考相的能量。在q_min ≈ 0.
-*   **来源**：[[../papers/martinThinfilmFerroelectricMaterials2016]]
-
-*   **关键特征**：压电力显微镜（左、中）和导电原子力显微镜（右）图像对比，直接证明了BiFeO₃中109°畴壁具有电子导电性，而畴内是绝缘的。特征**：虚线表示中心对称参考相的能量。在q_min ≈ 0.
-*   **来源**：[[../papers/martinThinfilmFerroelectricMaterials2016]]
-
-*   **关键特征**：压电力显微镜（左、中）和导电原子力显微镜（右）图像对比，直接证明了BiFeO₃中109°畴壁具有电子导电性，而畴内是绝缘的。式与数据表格，涵盖 DFT 电子结构方法（USPP/PAW、迭代对角化、Berry 相极化）、非线性光学与激光微加工、铁电/多铁器件基准、CDW 声子模、磁输运模型、以及相稳定性与弹性力学的解析判据。所有条目均直接取自原刊公式或数据表，剔除了 Zotero 元数据与 AI 转写噪声。
+> 本页为 [[mathematical-models|物理模型与数学公式]] 的子页面：铁电/多铁唯象模型与公式（中）。
 
 [[科研Wiki/wiki/figures/_index|← 返回总索引]]
 

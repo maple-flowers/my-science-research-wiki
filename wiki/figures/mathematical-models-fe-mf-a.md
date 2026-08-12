@@ -1,66 +1,6 @@
+# 数学模型与物理公式 (Mathematical Models & Formulas)
 
-*   **来源**：[[../papers/fengFerroelectricityMultiferroicityTwodimensio
-*   **来源**：[[../papers/fen
-*   **来源**：[[../papers/junqueraCriticalThicknessFerroelectricity2003]]
-
-*   **关键特征**：这是一张核心结果图。横轴是软模畸变 y的幅度（以体相BaTiO
-*   **来源**：[[../papers/liMonolayerPuckeredPentagonal2022]]
-
-*   **关键特征**：横轴为NEB计算的反应路径坐标，纵轴为“Energy (eV/atom)”。从IS到MS再到FS，
-*   **来源**：[[../papers/fiebigEvolutionMultiferroics2016]]
-
-*   **关键特征**
-*   **来源**：[[../papers/Goswami2011multiferroic]]
-
-*   **关键特征**：(a) 差示扫描量热（DSC）曲线：对比了块材（黑色）和纳米颗粒（红色）在TN附近的DSC迹线。块材有一个尖锐的吸热峰，
-*   **来源**：[[../papers/huangPolarPhaseDomain2019]]
-
-*   **关键特征**：选区电子衍射斑点沿c轴分裂
-*   **来源**：[[../papers/huangPolarPhaseDomain2019]]
-
-*   **关键特征**：在平面视图中，暗场像的黑白衬度反映了Td相中极化方向不
-*   **来源**：[[../papers/xuTwodimensionalFerroelasticityVan2021]]
-
-*   **
-*   **来源**：[[../papers/hanPolarTopologicalMaterials2025]]
-
-*   **关键特征**：_图1a是一个时间线流程图_，展示了从2003
-*   **来源**：[[../papers/hanPolarTopologicalMaterials2025]]
-
-*   **来源**：[[../papers/
-*   **来源**：[[../papers/lvUnconventionalHystereticTransition2022]]
-
-*   **关键特征**：Eu L₃边的X射线吸收近边结构谱y表示）。明了外电场方向。**：[[../papers/fen
-*   **来源**：[[../papers/junqueraCriticalThicknessFerroelectricity2003]]
-
-*   **关键特征**：这是一张核心结果图。横轴是软模畸变 y的幅度（以体相BaTiO
-*   **来源**：[[../papers/liMonolayerPuckeredPentagonal2022]]
-
-*   **关键特征**：横轴为NEB计算的反应路径坐标，纵轴为“Energy (eV/atom)”。从IS到MS再到FS，
-*   **来源**：[[../papers/fiebigEvolutionMultiferroics2016]]
-
-*   **关键特征**
-*   **来源**：[[../papers/Goswami2011multiferroic]]
-
-*   **关键特征**：(a) 差示扫描量热（DSC）曲线：对比了块材（黑色）和纳米颗粒（红色）在TN附近的DSC迹线。块材有一个尖锐的吸热峰，
-*   **来源**：[[../papers/huangPolarPhaseDomain2019]]
-
-*   **关键特征**：选区电子衍射斑点沿c轴分裂
-*   **来源**：[[../papers/huangPolarPhaseDomain2019]]
-
-*   **关键特征**：在平面视图中，暗场像的黑白衬度反映了Td相中极化方向不
-*   **来源**：[[../papers/xuTwodimensionalFerroelasticityVan2021]]
-
-*   **
-*   **来源**：[[../papers/hanPolarTopologicalMaterials2025]]
-
-*   **关键特征**：_图1a是一个时间线流程图_，展示了从2003
-*   **来源**：[[../papers/hanPolarTopologicalMaterials2025]]
-
-*   **来源**：[[../papers/
-*   **来源**：[[../papers/lvUnconventionalHystereticTransition2022]]
-
-*   **关键特征**：Eu L₃边的X射线吸收近边结构谱y表示）。明了外电场方向。 电子结构方法（USPP/PAW、迭代对角化、Berry 相极化）、非线性光学与激光微加工、铁电/多铁器件基准、CDW 声子模、磁输运模型、以及相稳定性与弹性力学的解析判据。所有条目均直接取自原刊公式或数据表，剔除了 Zotero 元数据与 AI 转写噪声。
+> 本页为 [[mathematical-models|物理模型与数学公式]] 的子页面：铁电/多铁唯象模型与公式（上）。
 
 [[科研Wiki/wiki/figures/_index|← 返回总索引]]
 

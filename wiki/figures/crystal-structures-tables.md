@@ -1,49 +1,7 @@
+# 数据表格与补充结构 (Data Tables & Supplementary Structures)
 
-*   **来源**：[[../papers/huProgressProspectsLowdimensional2019]]
+> 收录关键数据表格以及溢出的基础晶体结构图。本页为 [[crystal-structures|晶体结构图库]] 的子页面。
 
-*   **关键特征**：这是Type-II 多铁的经典机制，即极化完全由磁
-*   **来源**：[[../papers/huangPolarPhaseDomain2019]]
-
-*   **关键特征**：不同颜色线条标示了1T’-I、1T’-II和Td相的衍射斑点。通过测量(1
-*   **来源**：[[../papers/krishnamurthiSpinChargeDensity2020]]
-
-*   **关键特征**：在费米能级附近，态密度出现了尖锐的
-*   **来源**：[[../papers/liMonolayerPuckeredPentagonal2022]]
-
-*   **关键特征**：展示了块体黄铁矿相VTe₂的结构。图中用绿色虚线标出了构成单层PP-VTe₂的“V₂Te₄”子层，直观
-*   **来源**：[[../papers/nicholsonUni
-*   **来源**：[[../papers/shuTwoDimensionalBlackArsenic2020]]
-
-*   **关键特征**：(a) 展示了通过液相剥离法（LPE） 制备二维b-AsP纳米片的过程。流程大致为：块体晶体 → 在溶剂中超声处理 → 离心分离 → 得到含有纳
-*   **来源**：[[../papers/spaldinAdvancesMagnetoelectric
-*   **来源**：[[../papers/wangFormationMechanismTwin2019]]
-
-*   **关键
-*   **来源**：[[../papers/wangFormationMechanismTwin2019]]
-*   **来源**：[[../papers/xuTwodimensionalFerroelasticityVan2021]]
-
-*   **关键特征**：原子级分辨率的ADF-STEM（环形暗场像）图像，直观展示了60°和120°畴壁（DWs）。可以看到，跨过畴壁，基本晶格保持连贯，但纳米条纹的取向发生了改变。的层-层生长技术。特征**：这是Type-II 多铁的经典机制，即极化完全由磁
-*   **来源**：[[../papers/huangPolarPhaseDomain2019]]
-
-*   **关键特征**：不同颜色线条标示了1T’-I、1T’-II和Td相的衍射斑点。通过测量(1
-*   **来源**：[[../papers/krishnamurthiSpinChargeDensity2020]]
-
-*   **关键特征**：在费米能级附近，态密度出现了尖锐的
-*   **来源**：[[../papers/liMonolayerPuckeredPentagonal2022]]
-
-*   **关键特征**：展示了块体黄铁矿相VTe₂的结构。图中用绿色虚线标出了构成单层PP-VTe₂的“V₂Te₄”子层，直观
-*   **来源**：[[../papers/nicholsonUni
-*   **来源**：[[../papers/shuTwoDimensionalBlackArsenic2020]]
-
-*   **关键特征**：(a) 展示了通过液相剥离法（LPE） 制备二维b-AsP纳米片的过程。流程大致为：块体晶体 → 在溶剂中超声处理 → 离心分离 → 得到含有纳
-*   **来源**：[[../papers/spaldinAdvancesMagnetoelectric
-*   **来源**：[[../papers/wangFormationMechanismTwin2019]]
-
-*   **关键
-*   **来源**：[[../papers/wangFormationMechanismTwin2019]]
-*   **来源**：[[../papers/xuTwodimensionalFerroelasticityVan2021]]
-
-*   **关键特征**：原子级分辨率的ADF-STEM（环形暗场像）图像，直观展示了60°和120°畴壁（DWs）。可以看到，跨过畴壁，基本晶格保持连贯，但纳米条纹的取向发生了改变。的层-层生长技术。
 [[科研Wiki/wiki/figures/crystal-structures|← 返回枢纽页]]
 
 ---

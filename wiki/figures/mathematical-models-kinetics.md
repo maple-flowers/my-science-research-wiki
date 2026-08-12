@@ -1,33 +1,6 @@
+# 数学模型与物理公式 (Mathematical Models & Formulas)
 
-*   **来源**：[[../papers/fornerQuantumTemperatureEffects1993]]
-
-*   **关键特征**：展示三条链（共300个位点）的 (|\alpha_n(t)|^2) 演化。A 模式：三条链上形成完全相同的、同步移动的局域脉
-*   **来源**：[[../papers/fornerQuantumTemperatureEffects1993]]
-
-*   **关键特征**：分别显示 A、E、L 三种初
-*   **来源**：[[../papers/fornerQuantumTemperatureEffects1993]]
-
-*   **关键特征**：增大 (W) 有利于孤子
-*   **来源**：[[../papers/fornerQuantumTemperatureEffects1993]]
-
-*   **关键特征**：初始激发对称分布在两条链上。与局域激发类似，增大 (W) 至 40 N m⁻¹ 以上
-*   **来源**：[[../papers/fornerQuantumTemperatureEffects1993]]
-
-*   **关键特征**：增大 (W) 有利于孤子形成，当 (W) 在 40–60 N m⁻¹ 时，即使 (X=62,\text{pN}) 也能在 300 K 下维持孤子。
-
-*   **关键特征**：展示三条链（共300个位点）的 (|\alpha_n(t)|^2) 演化。A 模式：三条链上形成完全相同的、同步移动的局域脉
-*   **来源**：[[../papers/fornerQuantumTemperatureEffects1993]]
-
-*   **关键特征**：分别显示 A、E、L 三种初
-*   **来源**：[[../papers/fornerQuantumTemperatureEffects1993]]
-
-*   **关键特征**：增大 (W) 有利于孤子
-*   **来源**：[[../papers/fornerQuantumTemperatureEffects1993]]
-
-*   **关键特征**：初始激发对称分布在两条链上。与局域激发类似，增大 (W) 至 40 N m⁻¹ 以上
-*   **来源**：[[../papers/fornerQuantumTemperatureEffects1993]]
-
-*   **关键特征**：增大 (W) 有利于孤子形成，当 (W) 在 40–60 N m⁻¹ 时，即使 (X=62,\text{pN}) 也能在 300 K 下维持孤子。真实物理公式与数据表格，涵盖 DFT 电子结构方法（USPP/PAW、迭代对角化、Berry 相极化）、非线性光学与激光微加工、铁电/多铁器件基准、CDW 声子模、磁输运模型、以及相稳定性与弹性力学的解析判据。所有条目均直接取自原刊公式或数据表，剔除了 Zotero 元数据与 AI 转写噪声。
+> 本页为 [[mathematical-models|物理模型与数学公式]] 的子页面：相场动力学、畴演化、微结构动力学。
 
 [[科研Wiki/wiki/figures/_index|← 返回总索引]]
 

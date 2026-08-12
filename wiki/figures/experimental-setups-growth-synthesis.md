@@ -1,10 +1,6 @@
+# 生长、合成与高通量筛选 (Growth, Synthesis & Screening)
 
-*   **来源**：[[../papers/cuiIntercorrelatedInplaneOutofp
-*   **来源**：[[../papers/RecentAdvancesGrowth2025]]
-
-*   **关键特征**：展示了通过CVD实现晶圆级（1英寸）、取向可控的Cr₂S₃生长，其AFM图显示单层厚度仅为1.8 nm。这是从实验室小样品到工业级制备的重大突破。母衬底上合成In₂Se₃的方法。：[[../papers/RecentAdvancesGrowth2025]]
-
-*   **关键特征**：展示了通过CVD实现晶圆级（1英寸）、取向可控的Cr₂S₃生长，其AFM图显示单层厚度仅为1.8 nm。这是从实验室小样品到工业级制备的重大突破。母衬底上合成In₂Se₃的方法。T 等二维材料生长合成装置示意图、高通量 DFT 筛选流程、以及材料制备方法对比表。重点聚焦铁电/多铁二维范德华材料的可控制备路线。
+> 收录 CVD/MBE/ALD 等二维材料生长合成装置示意图、高通量 DFT 筛选流程以及材料制备方法对比表，重点聚焦铁电/多铁二维范德华材料的可控制备路线。本页为 [[experimental-setups|实验测试与测量装置]] 的子页面。
 
 [[科研Wiki/wiki/figures/experimental-setups|← 返回实验装置索引]]
 
