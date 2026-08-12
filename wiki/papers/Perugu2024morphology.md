@@ -87,7 +87,7 @@ Perugu S, Bhanu Kiran G, Anil Babu T, Raghavaiah BV，2024，*Indian Journal of 
   - 图表 [[../figures/crystal-structures]]
   - 年度 [[../write/2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
-  - 话题 [[../topics/D02-多铁性材料]]
+  - 话题 [[多铁性材料]]
   - 相关论文 [[../../raw/note/Perugu2024morphology]]
 
 ## 📊 关键图表

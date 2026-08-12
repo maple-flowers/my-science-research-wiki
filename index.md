@@ -1,6 +1,6 @@
 # 科研 Wiki 索引
 
-回答任何问题前，先读本页定位，再深入具体页面。分类体系来自[[../爱调研的猫猫/厦门中国材料学大会/0.科研领域调研|厦门中国材料学大会]]。
+回答任何问题前，先读本页定位，再深入具体页面。
 
 ## 概念（Concepts）
 
@@ -33,36 +33,39 @@
 
 ## 主题（Topics）
 
-*每个大会子类一页，链接回大会调研报告。*
+*每个子类一页。*
 
-- [[wiki/topics/D02-多铁性材料]]
-- [[wiki/topics/Z01-材料模拟计算设计]]
+- [[wiki/topics/多铁性材料|多铁性材料]]
+- [[wiki/topics/材料模拟计算设计|材料模拟计算设计]]
+- [[wiki/topics/实验表征与材料制备|实验表征与材料制备]]
+- [[wiki/topics/电子结构与多铁性|电子结构与多铁性]]
+- [[wiki/topics/材料物理|材料物理]]
+- [[wiki/topics/计算工具与模拟方法|计算工具与模拟方法]]
 
 ## 论文卡片（Papers）
 
-*按分类组织；新摄入的论文追加到对应分类下。当前共 135 篇论文增强卡片。*
+*新摄入的论文全部放在一起，最终打标签交叉分类。当前共 188 篇论文增强卡片（全部使用 citekey 命名，与 `raw/note/` 一一对应），详见 [[wiki/papers/]]。*
 
-- **D02 多铁性材料**
-  - [[wiki/papers/2005_Spaldin_The Renaissance of M_KEY-D72SE9HA|Spaldin & Fiebig 2005 — Renaissance of Magnetoelectric Multiferroics]]
-  - [[wiki/papers/2007_Ramesh_Multiferroics：progr_KEY-2V9G68K6|Ramesh & Spaldin 2007 — Multiferroics: progress and prospects]]
-  - [[wiki/papers/2016_Fiebig_The evolution of mul_KEY-2USFQC4T|Fiebig et al. 2016 — The evolution of multiferroics]]
-  - [[wiki/papers/2024_He_Ultrafast switching_KEY-ZTNTAL7L|He 2024 — Ultrafast switching in stacking-engineered ferroelectrics]]
+- **多铁性材料**
+  - [[wiki/papers/spaldinRenaissanceMagnetoelectricMultiferroics2005|Spaldin & Fiebig 2005 — Renaissance of Magnetoelectric Multiferroics]]
+  - [[wiki/papers/rameshMultiferroicsProgressProspects2007|Ramesh & Spaldin 2007 — Multiferroics: progress and prospects]]
+  - [[wiki/papers/fiebigEvolutionMultiferroics2016|Fiebig et al. 2016 — The evolution of multiferroics]]
+  - [[wiki/papers/heUltrafastSwitchingDynamics2024|He 2024 — Ultrafast switching in stacking-engineered ferroelectrics]]
 
-- **Z01 材料模拟计算设计 (代表性文献选列)**
-  - [[wiki/papers/2024_He_Ultrafast switching_KEY-ZTNTAL7L|Ultrafast switching dynamics of the ferroelectric domain wall in h-BN]]
-  - [[wiki/papers/2021_Wu_Sliding ferroelectri_KEY-B52WT4T8|Sliding ferroelectricity in 2D van der Waals materials]]
-  - [[wiki/papers/2024_Chen_Strong Sliding Ferro_KEY-3Q4MAH3N|Strong Sliding Ferroelectricity and Interlayer Sliding]]
-  - [[wiki/papers/2022_Song_Evidence for a singl_KEY-VCURTAHK|Evidence for a single-layer van der Waals multiferroic]]
-  - [[wiki/papers/2024_Miao_Magnetic ferroelectr_KEY-R2TZ62V5|Magnetic ferroelectric metal in bilayer Fe3GeTe2]]
-  - [[wiki/papers/2026_Yu_Ferroelectric Contro_KEY-K8QQEGEB|Ferroelectric Control of Magnetism and Giant Magnetoelectric Effect]]
-  - [[wiki/papers/2025_Sun_Sliding ferroelectri_KEY-KZZ35845|Sliding ferroelectricity in two-dimensional materials]]
-  - [[wiki/papers/2022_Wu_Electrostatic gating_KEY-62HMEAQ4|Electrostatic gating and intercalation in 2D materials]]
-  - *共计 131 篇计算材料学与二维铁电/多铁相关论文卡片，详见 [[wiki/papers/]]*
+- **材料模拟计算设计 (代表性文献选列)**
+  - [[wiki/papers/heUltrafastSwitchingDynamics2024|Ultrafast switching dynamics of the ferroelectric domain wall in h-BN]]
+  - [[wiki/papers/wuSlidingFerroelectricity2D2021a|Sliding ferroelectricity in 2D van der Waals materials]]
+  - [[wiki/papers/chenStrongSlidingFerroelectricity2024|Strong Sliding Ferroelectricity and Interlayer Sliding]]
+  - [[wiki/papers/songEvidenceSinglelayerVan2022|Evidence for a single-layer van der Waals multiferroic]]
+  - [[wiki/papers/miaoMagneticFerroelectricMetal2024|Magnetic ferroelectric metal in bilayer Fe3GeTe2]]
+  - [[wiki/papers/yuFerroelectricControlMagnetism2026|Ferroelectric Control of Magnetism and Giant Magnetoelectric Effect]]
+  - [[wiki/papers/wuElectrostaticGatingIntercalation2022|Electrostatic gating and intercalation in 2D materials]]
+- *完整列表见 [[wiki/papers/]]，共 188 篇。*
 
 ## 学术写作（Writing）
 
-- [[科研Wiki/wiki/write/_index|学术写作用词与思路索引 Writing Style Index]]
-  - 按年份聚合论文原句：[[wiki/write/2025|2025]], [[wiki/write/2024|2024]], [[wiki/write/2023|2023]] ...
+- [[wiki/write/_index|学术写作用词与思路索引 Writing Style Index]]
+  - 按年份聚合论文原句（写作总结页按需从 `_index` 生成）
 
 ## 核心科研项目（Projects）
 
@@ -77,21 +80,28 @@
 
 ## 自动日报流（Daily Feed）
 
-- [[raw/文献日报/2026-08-07|最新文献推送（文献鸟）]]
+*文献鸟（Stork）自动推送写入 `raw/文献日报/`，由 [[SCHEMA#摄入源|摄入源规范]] 与 `stork_daily.py` 维护。当前目录暂无已归档日报。*
 
 ## 图表库（Figures）
 
-系统分类索引见 [[wiki/figures/_index|图表库总索引]]。包含以下核心分类：
-- [[wiki/figures/structural-diagrams|结构图与材料原子构型 (374幅)]]
-- [[wiki/figures/band-structures|能带结构与光谱 (227幅)]]
-- [[wiki/figures/device-schematics|器件设计与实验装置 (289幅)]]
+系统分类索引见 [[wiki/figures/_index|图表库总索引]]（47 页 / 1088 个条目）。核心分类枢纽页：
+- [[wiki/figures/crystal-structures|结构与原子构型 Crystal Structures]]
+- [[wiki/figures/heterostructures-stacking|异质结与堆叠层 Heterostructures & Stacking]]
+- [[wiki/figures/electronic-bands|能带结构与电子态 Band Structures]]
+- [[wiki/figures/experimental-setups|实验装置与表征手段 Experimental Setups]]
+- [[wiki/figures/optical-spectra|光谱与非线性光学 Optical Spectra]]
+- [[wiki/figures/mathematical-models|物理模型与公式 Mathematical Models]]
 
-图表库已分类归档 118 篇文献的共计 3,562 幅图表元数据。为了保持仓库轻量化，图片本身不保存在本地，可通过条目中的文献关联链接直接在原始 PDF 的对应页码中查阅。
+图表库已分类归档 188 篇文献的图表元数据。为了保持仓库轻量化，图片本身不保存在本地，可通过条目中的文献关联链接直接在原始 PDF 的对应页码中查阅。
 
 ## 原始层（Raw）
 
-- 原始 AI 笔记 (`raw/note/*.md`)：共 138 篇。
+- 原始 AI 笔记 (`raw/note/*.md`)：共 531 篇（citekey 命名）。
+- 原始图表资产 (`raw/figures/<KEY>/`)：共 531 个 KEY 目录 / 1,671 张 PNG / 531 份 `manifest.json`。
+- 文献矩阵数据库：[[文献矩阵.base]]。
 
-## 日志
+## 规范、日志与维护经验
 
-见 [[log]]。
+- 条目编写格式规范（怎么写）见 [[wiki/format-spec]]。
+- 时间导向的变更记录与批量维护踩坑经验（frontmatter / 双链 / 校验 / 去重）见 [[log]]。
+- 全库架构规范总纲见 [[SCHEMA]]，更新工作流见 [[update]]。

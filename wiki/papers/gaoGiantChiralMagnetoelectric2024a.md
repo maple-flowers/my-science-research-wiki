@@ -123,8 +123,8 @@ Frank Y. Gao, Xinyue Peng, Xinle Cheng 等（共 16 位作者，Angel Rubio、Ed
   - 图表 [[../figures/experimental-setups]]（tr-SHG + tr-RKerr 双通道泵浦-探测、SHG 偏振畴成像）
   - 年度 [[../write/2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
-  - 主题 [[../topics/D02-多铁性材料]]
-  - 主题 [[../topics/Z01-材料模拟计算设计]]
+  - 主题 [[多铁性材料]]
+  - 主题 [[材料模拟计算设计]]
   - 相关论文 **gaoGiantChiralMagnetoelectric2024a**
 
 ## 📊 关键图表

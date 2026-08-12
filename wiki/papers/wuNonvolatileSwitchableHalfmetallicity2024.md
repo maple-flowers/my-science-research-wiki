@@ -103,7 +103,7 @@ Changwei Wu, Shanwei Sun, Weiping Gong, Jiangyu Li, Xiao Wang et al.，2024，*P
   - 图表 [[../figures/electronic-bands]]、[[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]、[[../figures/mathematical-models]]、[[../figures/electronic-devices]]
   - 年度 [[../write/2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
-  - 主题 [[../topics/D02-多铁性材料]]、[[../topics/Z01-材料模拟计算设计]]
+  - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/wuNonvolatileSwitchableHalfmetallicity2024]]
 
 ## 📊 关键图表

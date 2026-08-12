@@ -113,7 +113,7 @@ Lane W. Martin & Andrew M. Rappe，2016，*Nature Reviews Materials* 2, 16087，
   - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]、[[../figures/domain-walls]]、[[../figures/electronic-bands]]、[[../figures/experimental-setups]]、[[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - 年度 [[../write/2016]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-7-cdw-charge-density-wave]]
-  - 主题 [[../topics/D02-多铁性材料]]、[[../topics/Z01-材料模拟计算设计]]
+  - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/martinThinfilmFerroelectricMaterials2016]]
 
 ## 🆕 新概念/实体建议

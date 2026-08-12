@@ -96,7 +96,7 @@ G. Kresse、J. Hafner，1993，*Physical Review B* 47(1), 558–561，DOI: 10.11
   - 图表 [[../figures/electronic-bands]]（液态Ge电子态密度/赝能隙的计算-实验对照）
   - 图表 [[../figures/mathematical-models]]（Hellmann-Feynman力、Kohn-Sham泛函极小化、预测-校正积分）
   - 年度 [[../write/1993]]
-  - 主题 [[../topics/Z01-材料模拟计算设计]]
+  - 主题 [[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/kresseInitiomolecularDynamicsLiquid1993]]
 
 ## 📊 关键图表

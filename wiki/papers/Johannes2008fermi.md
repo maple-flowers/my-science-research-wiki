@@ -99,7 +99,7 @@ M. D. Johannes, I. I. Mazin，2008，Physical Review B 77, 165135，DOI [10.1103
   - 图表 [[../figures/crystal-structures]]
   - 年度 [[../write/2008]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 主题 [[../topics/Z01-材料模拟计算设计]]
+  - 主题 [[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/Johannes2008fermi]]
 ## 🆕 新概念/实体建议
   - 实体 `CeTe3.md` — 三碲化铈，RTe₃ 家族准一维 Te-p 费米面，是“隐藏嵌套”的范例；计算用 LDA+U（U=4.5 eV）去除 f 带。

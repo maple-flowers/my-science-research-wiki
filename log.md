@@ -2,6 +2,105 @@
 
 > 时间导向的变更记录。每次 ingest / 重大修订追加一条，格式：`## [YYYY-MM-DD] <操作> | <标题>`。内容导向索引见 [[index]]。
 
+## [2026-08-12] feat | 写作库改为五年段语料库并完成中文化
+
+### 变更内容
+
+- **结构重组**：删除 38 个单年文件（`1945.md`…`2026.md`、`Unknown.md`，旧 `### From:` 逐篇堆砌格式），新建 7 个五年段文件：`1945-1999.md`、`2000-2004.md`、`2005-2009.md`、`2010-2014.md`、`2015-2019.md`、`2020-2024.md`、`2025-2029.md`；重写 `_index.md`，新增跨段高频模式页 `_patterns.md`。
+- **删除模拟语料**：`wiki/write/example.md`（英文例句系模拟，非真实语料）已删除，杜绝被误当真实句引用。
+- **统一头部**：七个段文件统一为 `# <YYYY–YYYY> Writing Synthesis: <英文主题>` + `[[_index|← 返回写作索引]]` + 中文说明 blockquote + `---`，无 frontmatter；正文统一 8 个 H2（✍️0 Title … 🧬7 Evolution），表头统一 `实例 | 直译 | 骨架拆解`，经典案例小标题统一 `### 🧩 经典案例逐句拆解：<描述>`，来源行统一 `> **来源**：截取自 ...`（不用 `[!quote]`）。
+- **中文化讲解**：所有"我写的"综述/分析散文、`**语法点**`、`**核心教训**`、引导语改为中文；论文逐字原句、①–⑥编号句、blockquote、"骨架拆解"列的英文句型模板一律保留英文。共翻译约 92 段（2000-2004≈15、2010-2014 19、2015-2019 21、2020-2024 37），1945-1999/2005-2009/2025-2029 讲解本就是中文。
+- **校验**：脚本核对全部 8 个文件 8 个 H2 齐全、1288 条 `[[../papers/<citekey>]]` 链接 0 断裂；正文无成段遗漏的英文综述（扫描阈值：英文>60 字符且中文<5 的非引用行）。
+
+### 维护经验（write/ 批量任务）
+
+1. **语料真实性是铁律**：英文例句必须逐字摘自 `raw/note/*.md` 的 `❸ 双语转写`，不可模拟/改写/凭印象补。某时间段可读论文少时（如 2000-2004 仅 8 篇、2015-2019 仅 9 篇真正相关），宁可该段薄也不编造——agent 主动报告缺口而非凑数是正确行为。
+2. **讲解中文、原句英文的边界要给死**：批量翻译时必须明确"只译我写的分析散文，保留引号原句/骨架模板/citekey/wikilink"，否则 agent 容易把论文原句也翻了或漏译综述段。
+3. **并行 agent 要在 prompt 里自包含**：每个段文件一个 agent，prompt 写清保留项清单；但它们会"擅自"改 H1（如把英文 H1 译成中文），收尾必须统一核对 H1 系列一致性。
+4. **链接校验用精确正则**：`\[\[\.\./papers/([^|\]#<>]+)`，并先把 Obsidian 转义 `\|` 替换成 `|`，否则 `citekey\` 会被误判为断链；`<citekey>` 这种字面示例要在判断时排除。
+5. **frontmatter 里不要留指向临时文件的路径**：早期 `source_notes: [tools/_write_notes_*.md]` 在临时文件删除后变成死引用，已移除。段文件一律无 frontmatter。
+6. **避免在 Windows 内联 Python 里写反斜杠转义**：`rstrip('\\')` 在内联 `python -c` 中易触发 `SyntaxError`，复杂校验逻辑写成临时 .py 文件用 `PYTHONUTF8=1` 跑，跑完删除。
+
+## [2026-08-12] refactor | 编写规范拆分为 wiki/format-spec
+
+- **SCHEMA.md 瘦身**（824 → 76 行）：六大条目编写规范（图表库 / 概念与实体 / 论文条目 / 写作库 / 主题 / 项目）全部移出，独立成 [[wiki/format-spec]]；SCHEMA 只保留目录约定、标签体系、核心链接规范、铁律与指引。目录约定树同步加入 format-spec.md 元页面。
+- 最终职责划分：[[SCHEMA]] = 规范总纲（约定/链接/铁律），[[wiki/format-spec]] = 条目编写格式规范（怎么写），[[log]] = 时间记录 + 踩坑经验。
+
+## [2026-08-12] refactor | Papers / Figures 维护经验（2026-08 批量校对）
+
+> 本批整理 `wiki/papers/` 与 `wiki/figures/` 时踩过的坑与确立的规则，供后续批量任务复用（原为 SCHEMA 附录，2026-08-12 经 `wiki/maintenance.md` 中转后并入本时间导向日志）。
+
+### 一、Papers frontmatter（混合 YAML + Dataview 内联字段）
+
+每篇 paper 的 `---` 块是**混合结构**：普通 YAML 字段（`citekey/title/authors/year/...`）与 Dataview 双冒号内联字段（`original_note::`、`领域基础知识:: >-` 等）共存。注意：
+
+- **`original_note` 必须是双冒号内联字段**：写成 `original_note:: [[../../raw/note/<citekey>]]`，且 `[[ ]]` **绝不能加双引号**。写成 YAML 单冒号 `original_note: "[[...]]"` 会被当成字符串、Dataview 无法识别为链接。
+- **frontmatter 之前不能有任何内容**：曾出现整段孤立的 `领域基础知识:: >- ...` 重复块挡在 `---` 之前（如 Gulhare2021），导致该页等于没有 frontmatter。批量脚本一律以 `t.startswith("---\n")` 起算，不满足即报错。
+- **列表字段两种写法都合法**：行内 `concepts: [a, b, c]` 或多行 `  - item`。审计空字段时，解析器必须两种都能识别，否则会把多行列表误判为空。
+- **空字段要区分"真缺失"与"本就不适用"**：
+  - 综述/Perspective（如 Spaldin 多铁综述）`methods` 为空是正常的，不要硬塞方法。
+  - 理论/方法经典论文（Kresse、Perdew、Nose、Monkhorst、Dudarev、van Vleck、Delley）没有具体研究材料，`materials`/`figures` 为空正常。
+  - `projects` 为空，仅当 `## 🔬 项目连接` 明确写"无直接项目连接"时才保留为空——这正好贯彻"看内容参考价值，不看 Zotero 归属"。
+- **回填正文已有的双链**：body `## 🔗 Wiki 双链` 里按"概念/实体/图表/项目"分行列出了 slug，是回填空 frontmatter 列表字段的权威来源。`projects` 链形如 `project-1-two-photon`，frontmatter 只取 `project-1` 码。
+- **figures 字段必须指向真实存在的图表页 slug**（如 `optical-spectra`、`experimental-setups-spectroscopy-diffraction`），不能臆造 `xrd-patterns`、`ml-intensity-curves` 这类不存在的子页。
+
+### 二、CJK 术语自动双链（可写入 Wiki 的要点）
+
+对 `## ✏️ 可写入 Wiki 的要点` 正文做概念/实体双链时，中文子串匹配极易误伤，确立三条规则：
+
+1. **最短长度 ≥ 3 个 CJK 字符**，并维护 STOP 停用集合（"铁电/相变/材料…"等泛词，以及"面内/面外/纵向/横向/内建"等歧义修饰词）。
+2. **复合词边界判定**：匹配到某词时，若向左/向右延伸一个 CJK 字能组成词典里的更长词，则**拒绝**这次匹配（避免"界面内建"里的"面内"被链走）；否则允许（"为挠曲电效应"里的"挠曲电效应"正确成链）。
+3. **保护段优先**：wikilink、行内/块级数学 `$...$`/`$$...$$`、反引号代码、`![](...)` 图片、`http(s)://` URL 一律不参与替换。
+4. 幂等：section 里已含 `[[../concepts/` 或 `[[../entities/` 就跳过。
+
+### 三、图表页（figures）组织
+
+- **>50 条拆分**：单页超 50 个 H3 条目按物理主题拆成枢纽页 + 子页面，子页命名 `<分类>-<子主题>.md`，`_index.md` 同步加行并填真实条目数。枢纽页被大量反向引用时**保留原文件**，不要删/改名。
+- **图片路径用 angle-bracket 语法时** `![](<path>)` 会让朴素校验脚本把 `<>` 当成路径的一部分而误报 missing；校验器需对 `(![...](<)path(>))` 归一化。
+- 本批图表库最终约 1230 个 H3 条目、分布在 47 个页面，0 个缺失图片。
+
+### 四、校验脚本要点（strict_verify.py 三个误报修复）
+
+1. **表格里转义管道符**：`[[slug\|label]]` 的 `\|` 要先 `replace("\\|","|")`，并对 slug 末尾残留的反斜杠 `rstrip("\\")`，否则会报 255+ 个假断链。
+2. **vault-绝对链接** `[[科研Wiki/...]]` 含 `/`，必须在"相对路径含 `/`"判定**之前**处理，否则被当成相对路径误判。
+3. **图片路径 `<>`** 归一化后再查磁盘。
+
+### 五、用 cli-anything-obsidian 校验
+
+- 先 `export OBSIDIAN_API_KEY=...`（Local REST API 插件里取），`cli-anything-obsidian server status` 确认连通。
+- **vault 根在 `科研Wiki/` 的上一级**，所以读取论文页路径是 `科研Wiki/wiki/papers/<citekey>.md`，不是 `wiki/papers/...`。
+- Windows GBK 控制台输出含下标（如 `Mn₂N` 的 `₂`）会崩，命令前加 `PYTHONUTF8=1 PYTHONIOENCODING=utf-8`。
+- 用法：frontmatter 改完后 `vault read` 抽查问题页能否被 Obsidian 正常解析，是对 YAML 合法性的最终确认。
+
+### 六、Frontmatter 语法检查清单（每次批量改完跑一遍）
+
+对每篇 paper 检查并保证：①以 `---\n` 开头且有闭合 `\n---\n`；②纯 YAML 部分能被 `yaml.safe_load` 解析（Dataview `key:: >-` 及其缩进续行要先整体剔除再解析）；③无重复 YAML 键；④行内列表 `[]`、双引号成对；⑤`[[ ]]` 平衡（注意 `![alt](...)` 里数学括号 `Im[χ⁽³⁾]` 紧邻 `]` 会产生 `]]` 假象，属合法图片语法，非断链）；⑥无 AI 残留文本。
+
+### 七、Dataview 十字段批量审计（188 篇全量校验）
+
+10 个中文字段（`领域基础知识/研究背景/作者的问题意识/主要研究对象/主要研究方法/研究意义/研究结论/对领域的贡献/未来研究方向提及/未来研究方向思考`）必须全部存在于 frontmatter 内、各恰好一次、非空、格式为 `key:: >-\n  <值>`，且正文（闭合 `---` 之后）不得残留同名字段。
+
+- **字段块正则**：`^(领域基础知识|研究背景|...|未来研究方向思考)::.*(?:\n[ \t]+.*)*\n?`（`re.M`）——字段头加后续所有缩进续行，作为一个整体匹配，用于计数、去重与删除。
+- **逐篇检查项**：①fm 内每个 key 计数 == 1（0 = 缺失，>1 = 重复块）；②body 内计数 == 0（否则是 force-sync 残留的游离块）；③把字段头与续行拼起来后非空；④值内不得嵌入下一个字段标记（正则 `\s(其他键):{1,2}`，注意 raw/note 里 `对领域的贡献` 用单冒号，提取时残留会被带进 wiki 值）。
+- **两类典型故障及修复**：
+  1. **整块重复**（如 zahraCriticalAnalysisFerroelectric2025 的 3 个字段各出现两次、内容完全相同）：用字段块正则按出现顺序遍历，保留首次、删除后续重复 span（从后往前删以免位移），不要手动编辑。
+  2. **值尾粘连下一字段**（如 amini 的 `研究结论` 末尾粘了一整段 `对领域的贡献: 1...`，而下一个字段又有干净副本）：这是从 raw/note 提取时 `对领域的贡献:` 单冒号未被字段分隔正则截断所致；定位后直接裁掉粘连尾句，保留独立字段。
+- **权威来源是 raw/note**：这 10 个字段的值一律从 `raw/note/<citekey>.md` 的 blockquote 关键字标记（`> key:: value`；`对领域的贡献` 是单冒号 `> 对领域的贡献:`）提取，不要自行改写或 paraphrase。重建时先把 fm 和 body 里所有旧字段块整体剔除，再在 `tags:` 之前插入一份干净块；写文件用 `open(p,'w',encoding='utf-8')`，**不要**传 `newline="\n"`（Windows 下会抛 `OSError: [Errno 22]`）。
+- **本批结果**：188 篇全量校验后，仅 zahra（3 字段整块重复）与 amini（结论尾粘连贡献段）两篇有问题，均已修复；复核 0 篇有问题。
+
+### 八、概念/实体重名与近义合并（concepts / entities 去重）
+
+整理 `wiki/concepts/`（1154 → 1089 个）与 `wiki/entities/` 时，分三轮机械 + 语义排查，共删除 65 个重复文件、无断链残留。
+
+1. **concept/entity 同名碰撞（36 个）**：同一 slug（如 `BaTiO3`、`MoS2`、`NiI2`、`WIEN2k`、`PFM`、`graphene`、`MAX-phases`…）在两个目录各有一份。判据：**具体材料/代码/仪器/器件 → 归 `entities/`；抽象现象/机制 → 归 `concepts/`**。这批全是材料/软件/仪器，故以 entity 为规范家：内容更丰富的那一份（特例：`VSe2`、`WIEN2k` 的 concept 更详尽，把 concept 内容转成 entity）作为最终 entity，把双方的 Related Papers 去重合并，再把全库 `[[...concepts/<slug>]]` 改写为 `[[...entities/<slug>]]`，最后删 concept 文件。
+2. **拼写/单复数变体（9 组 + 15+ 组语义近义）**：先按归一化 key（去连字符、复数 s/es、NFKC）找机械重复（`bessel-beam(s)`、`polar-metal(s)`、`pseudo-gap`/`pseudogap`、`skyrmion(s)`、`type-ii-multiferroic(s)`、`DFTB+`/`dftb`…）；再按 H1 标题中文段（斜杠/括号前部分）找语义重复（`flexoelectricity`/`flexoelectric-effect`、`charge-order`/`-ordering`、`exciton-condensation`/`excitonic-`、`icosahedral-packing`/`-structure`、`funnel-effect`/`exciton-funnel-effect`、`twisted-intramolecular-charge-transfer`/`tict-...`、`ginzburg-landau`/`-theory`、`quantum-spin-hall`/`-effect`/`-insulator`、`soft-mode`/`phonon-soft-mode`、`bandwidth-control`(富文本)→`bandwidth-controlled-mott-transition`、`size-effect`(内容实为临界厚度)→`critical-thickness-ferroelectric` 等）。规范名取**单数、最常见、最贴切的标准术语**；把两份的描述与 Related Papers 合并进规范文件，删除别名文件。
+3. **包含关系要分清"真重复"与"父子概念"**：token 包含（短 slug 是长 slug 的子串）大多是合法的父/子关系，**不要合并**——如 `hall-effect` ⊃ `quantum-anomalous-hall-effect`、`charge-density-wave` ⊃ `spin-charge-density-wave`、`magnetic-anisotropy` ⊃ `perpendicular-magnetic-anisotropy`、`molecular-dynamics` ⊃ `ab-initio-molecular-dynamics`。只有当两份描述的是**同一概念的不同命名**（同一 H1、同一机制）时才合并；`soft-mode-theory`、`soft-mode-phonon`（平带声子机制）作为 `soft-mode` 的不同侧面保留并互链。
+
+- **合并操作模板**：①读两份正文，抽取各自 `- [[../papers/<key>]]` 做有序并集；②以规范文件 frontmatter 为准，改正文 H1，合并描述；③重写 `## Related Papers` 为并集，保留 `## 关联概念与实体` 等尾部小节；④删除别名文件；⑤全库正则 `(\[\[[^\]]*?concepts/)<old>(\||\]\])` → `\1<new>\2` 改写反向链接；⑥最后校验无任何文件再链接到已删 slug。
+- **校验**：改完跑 `strict_verify.py`，并单独 grep 已删 slug 确认 0 个 stale 链接；verify 里残留的 broken links 是历史遗留的"指向尚未创建 stub"的前向链接，与本次去重无关。
+
+4. **实体去重补记（探针分子 P1/P2）**：`wiki/entities/` 里同一对 D-π-A 二苯乙烯探针在不同论文里用了不同代号，产生 5 个碎文件：`P1`（H2017 叫法）、`P1-probe`（Huang2019 的 1a）、`P2`、`P2-probe`、`dicyanostilbene`（骨架）。它们其实是同一对分子——2,5-二氰基-4-甲基-4' 取代二苯乙烯，H2017 记 P1/P2，Huang2019/2023 记 1a/1b。合并为描述性 slug **`dicyanostilbene-1a`**（二甲氨基给体，δmax=6670 GM，Φ=0.805）与 **`dicyanostilbene-1b`**（二苯氨基给体，变色范围较小），骨架描述并入更详尽的 **`DCS`** 实体（已含 H2017 前期 TPF 探针设计的引用）。删除 5 个文件；同步改写正文双链、frontmatter `entities:` 列表与 `entity/<slug>` 建议列表，以及 `quinine-bisulfate` 里的裸 `[[P1-probe]]`。教训：**跨论文代号不同的同一实体要按化学名归一**，并同时搜正文 wikilink、frontmatter 列表、正文中的 `entity/slug` 建议项三处引用。
+
 ## [2026-08-12] refactor | 交接文档全部待办清零
 
 - **论文格式统一（188 篇）**：将扁平 `- **bold-label**：` bullet 和 `### ` 标题统一转换为 `## emoji 标题` 层级格式（📄元数据 / 💡一句话 / 🔗Wiki双链 / 📊关键图表 / 🔬项目连接 / 📝组织与用词 / ✏️可写入Wiki要点 / 🆕新概念实体建议）。
@@ -62,7 +161,7 @@
   - [[wiki/entities/deep-potential|deep-potential (机器学习势)]] — 更新。阐述 DeePMD-kit + DP-Gen 在超快畴壁与莫尔超晶格研究中的工作流。
   - [[wiki/entities/BiFeO3|BiFeO3]]、[[wiki/entities/HoMnO3|HoMnO3]] — 保持并丰富了双向链接。
 - **主题页与总索引更新**：
-  - 更新 [[wiki/topics/Z01-材料模拟计算设计]]，梳理了计算物理方向、关键材料体系与核心论文。
+  - 更新 [[材料模拟计算设计]]，梳理了计算物理方向、关键材料体系与核心论文。
   - 更新 [[index]]，建立完整的概念、实体、主题、论文与图表索引体系，确保全库符合 [[SCHEMA]] 的双向链接规范。
 
 ## [2026-08-06] 初始化骨架
@@ -73,7 +172,7 @@
 ## [2026-08-06] ingest | 多铁性 D02 试点 4 篇
 
 - 论文卡片：[[raw/note/2005_Spaldin_The Renaissance of M_KEY-D72SE9HA]]（2005）、[[raw/note/2007_Ramesh_Multiferroics：progr_KEY-2V9G68K6]]（2007）、[[raw/note/2016_Fiebig_The evolution of mul_KEY-2USFQC4T]]（2016）、[[raw/note/2024_He_Ultrafast switching_KEY-ZTNTAL7L]]（2024）。
-- 主题页：[[wiki/topics/D02-多铁性材料]]，链回厦门大会 D02 调研报告。
+- 主题页：[[多铁性材料]]，链回厦门大会 D02 调研报告。
 - 概念页：multiferroicity、magnetoelectric-coupling、sliding-ferroelectricity、super-paraelectricity。
 - 实体页：BiFeO3、HoMnO3、domain-wall、deep-potential。
 - 原始指针页：`raw/papers/{ZTNTAL7L,D72SE9HA,2V9G68K6,2USFQC4T}.md`。
@@ -132,4 +231,4 @@
 
 - **全量同步完成**：成功对 `爱看论文的猫猫/note` 下全部 138 篇 Markdown 笔记与 Zotero 库进行自动化摄入与三层 Wiki 架构构建。
 - **图表提取与 Review 规则**：完成 118 篇 Original Research 论文的 3,562 张图表与 JSON Manifest 提取；自动跳过 Review 论文抽图。
-- **索引更新**：已更新 [[index]] 及 [[wiki/topics/Z01-材料模拟计算设计]] 主题导览页。
+- **索引更新**：已更新 [[index]] 及 [[材料模拟计算设计]] 主题导览页。

@@ -2,15 +2,19 @@
 
 本文件是 Karpathy LLM Wiki 架构的规范约束（Schema）。任何 LLM 在本仓库执行 ingest / query / lint 时必须遵守本规范。原始资料（Zotero PDF、`raw/note/`）为第一层输入；`wiki/`（主题、概念、实体、项目）与 `wiki/figures/`（图表文字描述及细化索引）为知识层，由 LLM 拥有并维护。
 
+本文件统一定义全库的**目录约定、标签体系、链接规范与维护铁律**；各层条目的编写格式规范见 [[wiki/format-spec]]，批量维护的踩坑经验见 [[log]]（2026-08-12 维护经验条目），更新工作流（机械同步 + 智能合成）见 [[update]]。
+
 ## 目录约定
 
 ```
 科研Wiki/
-├── SCHEMA.md              本文件
+├── SCHEMA.md              本文件（规范约束）
 ├── index.md               内容导向总索引
-├── log.md                 时间导向日志
+├── log.md                 时间导向日志（含 2026-08 批量维护经验）
+├── update.md              更新工作流（机械同步 + 智能合成）
+├── 文献矩阵.base          文献矩阵数据库文件
 ├── raw/
-│   ├── note/              第一层输入：原始 AI 阅读笔记 (YYYY_Author_Title_KEY-<KEY>.md)
+│   ├── note/              第一层输入：原始 AI 阅读笔记 (<citekey>.md)
 │   ├── figures/           第一层图表元数据输入：按 KEY 存放的 manifest.json 及本地图片资产 (.png)
 │   └── 文献日报/YYYY-MM-DD.md  文献鸟自动推送流（Raw Ingest）
 ├── wiki/
@@ -18,9 +22,11 @@
 │   ├── topics/            按材料大会分类的聚合页
 │   ├── entities/          材料/器件/方法实体页
 │   ├── concepts/          物理概念页
-│   ├── figures/           细化图表分类库与总索引 (_index.md)
-│   └── write/             学术写作与用词库（按年份聚合）
-└── tools/                 脚本与工具
+│   ├── figures/           细化图表分类库与总索引 (_index.md + 枢纽页/子页面)
+│   ├── papers/            论文增强卡片（wiki 正式条目，唯一可直链 raw/note 的页面）
+│   ├── write/             学术写作用词库（_index.md + 五年段 <YYYY>-<YYYY>.md）
+│   └── format-spec.md     条目编写格式规范（六类怎么写）
+└── tools/                 脚本与工具（ingest_papers/、ingest_batches/ 等）
 ```
 
 ## 摄入源（Ingest Sources）
@@ -42,14 +48,29 @@
 
 ## 核心链接规范
 
-- 所有文献相关的双向链接统一直接指向 `raw/note/` 下的具体笔记文件（例如 `[[raw/note/2024_He_Ultrafast switching_KEY-ZTNTAL7L]]`）。
-- 概念、实体与主题均直接关联至 `raw/note/` 下的笔记。
-- 细化图表分类文件存放于 `wiki/figures/` 目录下，包含 8 个概念子库（如 `crystal-structures.md`）和 1 个 `_index.md` 总索引。
-- 学术写作用词库存放于 `wiki/write/` 目录下，按文献发表年份聚合。
+- **引文链接层级**：`wiki/papers/<citekey>` 是论文在 wiki 中的正式条目，是**唯一**允许直链 `raw/note/` 的页面（`[[../../raw/note/<citekey>]]`）。`wiki/concepts/`、`wiki/entities/`、`wiki/figures/`、`wiki/write/`、`wiki/projects/`、`wiki/topics/` 等其他条目引用某篇论文时，一律链 `[[../papers/<citekey>]]`（或对应相对路径），**不得**直接链 `raw/note/`。
+- **链接完整性**：始终保持 `wiki/papers/` ↔ `raw/note/` 之间、`wiki/` 各页面 ↔ `wiki/papers/` 之间的双向 `[[ ]]` 链接通畅。
+- 细化图表分类文件存放于 `wiki/figures/` 目录下，包含 1 个 `_index.md` 总索引及按物理主题拆分的枢纽页/子页面（当前 47 页 / 约 1088 个条目）。
+- 学术写作用词库存放于 `wiki/write/` 目录下：`_index.md` 总索引 + 五年段 `<YYYY>-<YYYY>.md` 文件（如 `2020-2024.md`），无年份论文归入 `Unknown.md`。
+
+---
+
+## 条目编写规范
+
+各层条目的编写格式规范（图表库 / 概念与实体 / 论文条目 / 写作库 / 主题 / 项目 六类）已独立归档，见 [[wiki/format-spec]]。
 
 ## 铁律
 
 - **图表库资产管理**：允许在 `raw/figures/<KEY>/` 下存放从 Zotero 复制的图片文件（从 `C:\Users\sgg\Zotero\storage` 同步），以便在 Obsidian 中直接预览。`manifest.json` 需记录 `figures`、`tables` 和 `formulas` 三类结构化信息。
-- **链接完整性**：始终保持 `wiki/` 各概念与 `raw/note/` 之间的双向 `[[ ]]` 链接通畅。
+- **不要直接手动编辑 `raw/` 目录**：该目录由脚本和 Zotero 同步维护。
+- **链接优先**：`wiki/papers/<citekey>` 是论文在 wiki 中的正式条目，须回链原 note `[[../../raw/note/<citekey>]]`。
+- **引文指向 wiki/papers/**：`wiki/concepts/`、`wiki/entities/`、`wiki/figures/`、`wiki/write/`、`wiki/projects/`、`wiki/topics/` 等条目引用某篇论文时，一律链 `[[../papers/<citekey>]]`（或对应相对路径），**不得**直接链 `raw/note/`。只有 `wiki/papers/<citekey>` 可以直连 `raw/note`。
+- **链接完整性**：始终保持全库 `[[ ]]` 双向链接通畅。
+- `tools/ingest_papers/` 下的逐篇记录是中间产物，最终归档到 `wiki/papers/`，不要在 `tools/` 下长期保留。
+- **Wiki 是动态的**：随着新论文的加入，概念和实体的描述应趋于丰富和准确。
 - 所有日期用 `YYYY-MM-DD`。
 - 中文为叙述语言，英文 slug/专有名词保留原文。
+
+---
+
+> **2026-08 批量维护的踩坑经验已归档至 [[log]]**（2026-08-12 维护经验条目）：frontmatter 混合结构、CJK 双链规则、图表页组织、校验脚本要点、Dataview 十字段审计、概念/实体去重，均不再重复于 SCHEMA。

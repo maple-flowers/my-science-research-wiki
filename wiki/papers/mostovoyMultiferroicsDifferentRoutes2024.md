@@ -102,7 +102,7 @@ Maxim Mostovoy，2024，npj Spintronics 2, 18，DOI [10.1038/s44306-024-00021-8]
   - 图表 [[../figures/mathematical-models]]、[[../figures/crystal-structures]]
   - 年度 [[../write/2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
-  - 主题 [[../topics/D02-多铁性材料]]
+  - 主题 [[多铁性材料]]
   - 相关论文 [[../../raw/note/mostovoyMultiferroicsDifferentRoutes2024]]
 ## 🆕 新概念/实体建议
   - `inverse-dm-interaction`（逆 Dzyaloshinskii–Moriya 相互作用）：非共线自旋 S_i×S_j 通过 SOC 驱动配体位移产生键偶极 d_ij ∝ r̂_ij × (S_i×S_j)，是螺旋磁体铁电性的核心机制。

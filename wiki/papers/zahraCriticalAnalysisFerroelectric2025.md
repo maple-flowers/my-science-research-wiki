@@ -87,7 +87,7 @@ Saman Zahra, Bo Dai, Xianhua Wei, Fei Zhou, Syed Irfan et al.，2025，Critical 
   - 实体 [[../entities/MXenes]]、[[../entities/BiFeO3]]、[[../entities/In2Se3]]、[[../entities/TMDs]]、[[../entities/hf2vc2f2]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups]]
   - 年度 [[../write/2025]]
-  - 主题 [[../topics/D02-多铁性材料]]、[[../topics/Z01-材料模拟计算设计]]
+  - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/zahraCriticalAnalysisFerroelectric2025]]
 ## 📊 关键图表
   - 图1：MXene 应用示意图：![图1](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_1_WJ78IQDN.png)
