@@ -11,10 +11,10 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Unknown2014passive]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-1]
 concepts: [two-photon-polymerization, two-photon-absorption, biphoton, photoinitiator, polymer-phase-separation, monolithic-integration]
 entities: []
-methods: [device-i-v, eam, stm-mbe]
+methods: []
 materials:
   - PDMS
 figures: []
@@ -44,28 +44,13 @@ tags:
   - year/2014
   - project/project-1
   - relevance/project-1/strong
-  - project/project-2
-  - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/medium
-  - project/project-5
-  - relevance/project-5/medium
-  - project/project-6
-  - relevance/project-6/medium
-  - project/project-7
-  - relevance/project-7/medium
   - method/device-i-v
   - method/eam
   - method/stm-mbe
   - topic/2d-materials
   - topic/charge-density-wave
   - topic/ferroelectricity
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
-  - topic/two-photon-fluorescence
 ---
 
 ## Unknown2014passive — 双光子聚合制备的三维被动微混合器用于微流控混合
@@ -145,12 +130,6 @@ Yi-Jui Liu, Po-Yu Chen, Jiun-Yi Yang, Chingfu Tsou, Yi-Hsiung Lee, Patrice Balde
 
 ## 🔗 项目双链
 - 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
 论文遵循"问题提出→设计与制造→实验验证→仿真机理解释"的经典工程研究范式。引言部分先建立微流控层流混合难题的背景，对比主动/被动混合优劣，指出二维障碍物的局限和堵塞风险，从而引出TPP原位三维制造方案；方法部分按TPP系统、PDMS通道、混合器加工三个子节递进；结果部分先演示混合实验并定义混合指数，再对比四种结构，最后用COMSOL仿真揭示Z向流线机理；结论简短回扣三维扰动增强混合的核心主张。值得复用的关键词/术语：
@@ -164,7 +143,7 @@ Yi-Jui Liu, Po-Yu Chen, Jiun-Yi Yang, Chingfu Tsou, Yi-Hsiung Lee, Patrice Balde
   - 原位三维制造（in-situ 3-D fabrication）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. TPP系统核心参数：被动调Q Nd:YAG微片激光器波长532 nm，100×油浸物镜NA=1.3，PZT三维纳米定位台控制扫描轨迹，利用[[../concepts/two-photon-absorption|[[../concepts/biphoton|双光子]]吸收]]的非线性阈值特性使聚合仅发生在焦点极小体素内，可在已键合的透明PDMS通道内原位写入三维结构。
+  1. TPP系统核心参数：被动调Q Nd:YAG微片激光器波长532 nm，100×油浸物镜NA=1.3，PZT三维纳米定位台控制扫描轨迹，利用[[../concepts/two-photon-absorption|双光子吸收]]的非线性阈值特性使聚合仅发生在焦点极小体素内，可在已键合的透明PDMS通道内原位写入三维结构。
   2. 微通道设计：Y形PDMS通道，主通道宽80 μm、深25 μm，两分支宽35 μm、夹角120°，PDMS与玻璃经氧等离子体处理后永久键合。
   3. 混合器几何：三叶螺旋桨，外径φ=37 μm（略小于通道半宽80 μm，不触壁），叶片尺寸5 μm×15 μm、厚5 μm、间距20 μm；螺旋形桨叶相对平面桨叶的唯一区别是叶片沿轴向扭转，引入Z向高度变化。
   4. 材料：商用光敏树脂Photomer 3015（Henkel）+[[../concepts/photoinitiator|光引发剂]]，95%乙醇显影溶解未聚合树脂。

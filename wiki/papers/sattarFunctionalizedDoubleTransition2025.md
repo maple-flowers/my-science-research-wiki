@@ -11,12 +11,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/sattarFunctionalizedDoubleTransition2025]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: []
 concepts: [2D-materials]
 entities: [MXenes]
-methods: [afm-pfm, device-i-v, dft, raman, tem, xps, xrd]
+methods: [afm-pfm, device-i-v, raman, tem, xps, xrd]
 materials: [MXenes]
-figures: [crystal-structures, electronic-devices]
+figures: []
 领域基础知识:: >-
   二维过渡金属碳化物/氮化物（MXene）是一类新型二维材料，具有高导电性、丰富表面化学与优异机械柔性。双过渡金属MXene（如Mo₂Ti₂C₃Tx）是其中一类复杂结构，其性质因两种金属原子的协同作用而更加丰富。忆阻器是阻值随其电学历史变化的新型非易失性存储器件，是构建神经形态计算系统的核心元件。
 研究背景:: >-
@@ -41,20 +41,6 @@ tags:
   - paper
   - type/experiment
   - year/2025
-  - project/project-1
-  - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/medium
-  - project/project-5
-  - relevance/project-5/medium
-  - project/project-6
-  - relevance/project-6/medium
-  - project/project-7
-  - relevance/project-7/medium
   - concept/2D-materials
   - entity/MXenes
   - method/afm-pfm
@@ -69,13 +55,10 @@ tags:
   - topic/charge-density-wave
   - topic/domain-walls
   - topic/ferroelectricity
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/mxene
   - topic/polarization
   - topic/topological-defects
-  - topic/two-photon-fluorescence
 ---
 
 ## sattarFunctionalizedDoubleTransition2025 — 功能化双过渡金属 Mo₂Ti₂C₃Tₓ 铁电 MXene 与激光还原石墨烯基柔性忆阻器
@@ -146,13 +129,6 @@ Kubra Sattar, Rabia Tahir, Syedah Afsheen Zahra, Zhenyue Nie, Jing Wang, Houbing
   - project-7 CDW：无直接项目连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
 文章按"材料制备→物性表征→功能验证→机理分析"经典范式展开：(1) HF 刻蚀 + TMAOH 插层制得自支撑 Mo₂Ti₂C₃Tₓ 薄膜；(2) 400 °C 真空热处理诱导 TiO₂/MoO₃ 氧化相；(3) 用 XRD/FTIR/Raman 三件套确认氧化相，PFM + P-E 回线 + 蝴蝶形 C-V 构成铁电证据链；(4) 制备 LSG/H-DTM/LSG 与对照 LSG/DTM/LSG 器件做 I-V 对比；(5) Log I-Log V 拟合区分 LRS（欧姆，斜率≈1）与 HRS（SCLC，斜率≈2）；(6) 提出铁电内电场辅助氧空位导电细丝模型。值得复用的术语：双过渡金属 MXene（double transition MXene, DTM）；铁电忆阻器（ferroelectric memristor）；阻变存储器（resistive RAM, RRAM）；双极性电阻开关（bipolar resistive switching）；氧空位导电细丝（oxygen vacancy conduction filament）；激光还原石墨烯（laser-scribed/reduced graphene, LSG）；空间电荷限制电流（space-charge-limited current, SCLC）；剩余极化（remnant polarization, Pᵣ）。

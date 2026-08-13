@@ -15,7 +15,7 @@ concepts: [density-functional-theory, dft-plus-u, self-interaction-error, electr
 entities: [VASP]
 methods: [dft, dft-plus-u, gga, lda, paw, linear-response-u, spin-polarized-dft, total-energy-method]
 materials: [LiFePO4, LiMnPO4, LiCoPO4, LiNiPO4, FePO4, MnPO4, CoPO4, NiPO4, LiCoO2, LiNiO2, LixMn2O4, LixCo2O4, Li-metal]
-figures: [crystal-structures, mathematical-models]
+figures: []
 领域基础知识:: >-
   第一性原理计算，特别是密度泛函理论（DFT）中的局域密度近似（LDA）和广义梯度近似（GGA），是预测材料性质的主流方法。氧化还原电位是衡量材料在电化学反应中得失电子能力的核心指标，直接决定了电池的输出电压。
 研究背景:: >-

@@ -11,7 +11,7 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Huang2023two]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-1]
 concepts:
   - solvatochromism
   - two-photon-absorption-cross-section
@@ -25,7 +25,7 @@ methods: [dft, nmr, spectroscopy]
 materials:
   - dicyanostilbene-1a
   - dicyanostilbene-1b
-figures: [optical-spectra]
+figures: []
 领域基础知识:: >-
   双光子激发荧光（TPEF）探针利用近红外飞秒脉冲同时吸收两个光子实现激发，具有深层组织穿透、低光毒性和高空间分辨率优势，是活体生物成像的重要工具。理想的双光子环境敏感探针需在700–1000 nm生物窗口内具有大双光子吸收截面（δTPA，单位GM），并能通过溶剂化显色（发射波长随环境极性移动）或激发态构型变化（LE/TICT/激基复合物）对极性、粘度、温度等微环境参数做出响应。
 研究背景:: >-
@@ -52,29 +52,9 @@ tags:
   - year/2023
   - project/project-1
   - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/medium
-  - project/project-5
-  - relevance/project-5/medium
-  - project/project-6
-  - relevance/project-6/medium
-  - project/project-7
-  - relevance/project-7/medium
   - method/dft
   - method/nmr
   - method/spectroscopy
-  - topic/2d-materials
-  - topic/charge-density-wave
-  - topic/ferroelectricity
-  - topic/humidity-sensing
-  - topic/molecular-crystal
-  - topic/multiferroics
-  - topic/optical-spectra
-  - topic/polarization
   - topic/two-photon-fluorescence
 ---
 
@@ -144,12 +124,6 @@ Chi-Bao Huang（黄齐宝，遵义师范学院信息工程学院），2023，*Jo
 
 ## 🔗 项目双链
 - 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
 文章为单作者短篇研究（7 页），论证遵循"分子设计动机 → Wittig-Horner 合成 → 单光子溶剂化显色 → 双光子截面与极性依赖 → 粘度/温度/浓度依赖的三重荧光 → ICT-溶剂弛豫机理 → 结论"的经典链条；正文与支持信息（Fig. S1–S22、Table S18、NMR、合成细节）相互印证。论证以光谱现象+溶剂极性参数线性拟合为主，缺少超快光谱和理论计算的直接证据。值得在 wiki 叙述中复用的术语：
@@ -164,7 +138,7 @@ Chi-Bao Huang（黄齐宝，遵义师范学院信息工程学院），2023，*Jo
 
 ## ✏️ 可写入 Wiki 的要点
   1. 探针 1a（2,5-二氰基-4-甲基-4'-二甲氨基[[../entities/stilbene|二苯乙烯]]）的最低能量吸收峰几乎不随溶剂变化（约 396–409 nm），而发射峰从环己烷 445 nm 红移至 DMSO 641 nm，位移达 196 nm；这一对比表明基态偶极矩小、激发态偶极矩显著增大，是典型正向[[../concepts/solvatochromism|溶剂化显色]]。1b（二苯氨基给体）位移较小，约 156 nm（环己烷 452 nm → DMSO 604 nm），因为二苯氨基给电子能力弱于二甲氨基。
-  2. 1a 的峰值[[../concepts/two-photon-absorption-cross-section|[[../concepts/two-photon-absorption|[[../concepts/biphoton|双光子]]吸收]]截面]] δTPA 在环己烷中高达 5560 GM（λ_TP,ex = 790 nm），在强极性非质子 DMF 中降至 130 GM；1b 在环己烷中达 6670 GM（810 nm）。截面随极性增大而下降，归因于激发态由共平面 LE 构型向非共面、非辐射的 TICT 构型转变。
+  2. 1a 的峰值[[../concepts/two-photon-absorption-cross-section|双光子吸收]]截面]] δTPA 在环己烷中高达 5560 GM（λ_TP,ex = 790 nm），在强极性非质子 DMF 中降至 130 GM；1b 在环己烷中达 6670 GM（810 nm）。截面随极性增大而下降，归因于激发态由共平面 LE 构型向非共面、非辐射的 TICT 构型转变。
   3. 1a 发射能（波数）与五种溶剂极性参数线性拟合的 r² 分别为：ET(30) 0.90、Kosower Z 0.90、δΔG≠ 0.90、π* 0.85、Lippert–Mataga Δf 0.82，证实发射能主要由溶剂极性/极化率决定，符合 Lippert–Mataga 框架。
   4. 质子性溶剂（氢键供体 HBD，如醇类）通过与二甲氨基给体形成氢键、更稳定基态而非激发态，使发射相对强极性非质子溶剂（NHD）发生蓝移；这解释了醇类数据点对极性-发射能线性关系的偏离。1a 在 MeOH/EtOH 中单光子发射峰分别为 605/597 nm。
   5. 首次观察到双光子[[../concepts/triple-fluorescence|三重荧光]]：在甘油-乙醇混合溶剂中，[[../concepts/two-photon-excitation|双光子激发]]谱同时出现 B 带（LE 态，¹Lb）、A 带（TICT 态，¹La）和位于 542 nm 的 E 带（分子间[[../concepts/exciplex|激基复合物]]）。E 带在纯甘油（高粘度）中消失，因为高粘度阻止分子间[[../concepts/charge-transfer|电荷转移]]碰撞；E 带在单光子发射中不出现，作者归因于其强度低、寿命短。

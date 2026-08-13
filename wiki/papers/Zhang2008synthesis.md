@@ -15,7 +15,7 @@ concepts: [two-photon-absorption, two-photon-polymerization, nonlinear-optics, p
 entities: [triphenylamine]
 methods: [organic-synthesis, uv-vis-spectroscopy, fluorescence-spectroscopy, z-scan, two-photon-excited-fluorescence, nonlinear-optical-characterization]
 materials: [three-branched-chromophore, two-photon-initiator]
-figures: [optical-spectra, chemical-structures]
+figures: []
 领域基础知识:: >-
   双光子聚合（two-photon polymerization, 2PP）是一种利用飞秒或皮秒激光聚焦于光敏树脂内部，通过同时吸收两个近红外光子引发局部聚合的三维微纳加工技术。双光子吸收（two-photon absorption, 2PA）是一个三阶非线性光学过程，其跃迁概率正比于光强的平方，因而具有固有的三维空间选择性。2PP 引发剂（initiator）是决定加工分辨率、灵敏度和阈值的关键组分，要求其在工作波长（通常 700–1000 nm）具有大的双光子吸收截面（σ₂）和高的引发效率。三支化（three-branched）多极性发色团通过在中心给体核上连接三个推-拉电子分支，可利用协同的分子内电荷转移增强非线性响应，是 2PP 引发剂设计中的重要结构策略。
 研究背景:: >-
@@ -101,11 +101,11 @@ Xian Zhang, Xiaoqiang Yu, JinShui Yao, Minhua Jiang，2008，Synthetic Metals 15
   - Z-scan — Z-扫描技术
   - two-photon excited fluorescence (TPEF) — 双光子激发荧光
 ## ✏️ 可写入 Wiki 的要点
-  1. Zhang et al. (Synthetic Metals, 2008) 合成了两种三支化[[../concepts/two-photon-polymerization|[[../concepts/biphoton|双光子]]聚合]]引发剂，是多支化[[../concepts/push-pull-chromophore|推-拉发色团]]用于 2PP 的代表性实验工作之一。
+  1. Zhang et al. (Synthetic Metals, 2008) 合成了两种三支化[[../concepts/two-photon-polymerization|双光子聚合]]引发剂，是多支化[[../concepts/push-pull-chromophore|推-拉发色团]]用于 2PP 的代表性实验工作之一。
   2. 三支化结构通过在中心给体核上连接三个共轭推-拉分支，利用多方向[[../concepts/intramolecular-charge-transfer|分子内[[../concepts/charge-transfer|电荷转移]]]]协同增强三阶非[[../concepts/linear-response|线性响应]]。
   3. 双光子聚合的空间分辨率源于[[../concepts/two-photon-absorption|双光子吸收]]概率对光强的平方依赖，仅在激光焦点中心极小体积内发生引发。
   4. 高效 2PP 引发剂需要在近红外工作波长具有大 σ₂、高自由基产生量子产率和良好的溶解性/相容性。
-  5. Z-扫描和[[../concepts/two-photon-fluorescence|[[../concepts/two-photon-excitation|双光子激发]]荧光]]（TPEF）是测量 σ₂ 的两种主要实验方法，前者测量非线性透过率，后者通过荧光强度定标。
+  5. Z-扫描和[[../concepts/two-photon-fluorescence|双光子激发荧光]]（TPEF）是测量 σ₂ 的两种主要实验方法，前者测量非线性透过率，后者通过荧光强度定标。
   6. 多支化发色团的设计参数包括：中心核给体强度、分支共轭桥长度、端基受体强度、分支数目和几何构型。
   7. 该论文发表于 Synthetic Metals，该期刊涵盖导[[../concepts/electropolymerization|电聚合]]物、有机光电材料和[[../concepts/nonlinear-optics|非线性光学]]材料等方向。
   8. 注意：raw note 中 AI 生成的 TTF-CA [[../concepts/charge-transfer-salt|电荷转移盐]]解读内容为 PDF 错配所致，与本文无关，wiki 撰写时应排除。

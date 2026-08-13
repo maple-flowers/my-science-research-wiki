@@ -6,7 +6,7 @@ year: 2021
 journal: "Advanced Materials"
 doi: "10.1002/adma.202170062"
 url: "https://doi.org/10.1002/adma.202170062"
-paper_type: method
+paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Kotz2021polymerization]]
@@ -63,7 +63,6 @@ tags:
   - material/fused-silica
   - material/silica-nanoparticles
   - material/photocurable-resin
-  - topic/two-photon-fluorescence
   - topic/micro-optics
   - topic/additive-manufacturing
   - topic/glass-materials
@@ -106,11 +105,11 @@ Kotz, Quick, Risch, Martin, Hoose, Thiel, Helmer, Rapp et al.，2021，*Advanced
   - Micro-optics — 微光学
 
 ## ✏️ 可写入 Wiki 的要点
-  1. [[../concepts/two-photon-polymerization|[[../concepts/biphoton|双光子]]聚合]]可用于含无定形 SiO₂ 纳米颗粒的光敏复合树脂，制造三维亚微米[[../concepts/polymer-phase-separation|聚合物]]/陶瓷复合坯体。
+  1. [[../concepts/two-photon-polymerization|双光子聚合]]可用于含无定形 SiO₂ 纳米颗粒的光敏复合树脂，制造三维亚微米[[../concepts/polymer-phase-separation|聚合物]]/陶瓷复合坯体。
   2. 坯体经[[../concepts/debinding|热脱脂]]去除有机单体后，在约 1300 °C 烧结，可致密化为透明[[../concepts/fused-silica-glass|熔融石英玻璃]]，材料性能接近本体熔融石英。
   3. 烧结带来显著但各向同性的体积/线收缩，使最终玻璃特征尺寸缩小到亚微米（数百纳米）量级，反而提高了写分辨率。
   4. 该工艺把玻璃 3D 打印的分辨率从十微米量级推进到亚微米/[[../concepts/diffraction-limit|衍射极限]]以下，可制备真三维任意形貌玻璃微结构。
-  5. 应用展示包括木堆（woodpile）三维光子结构、微透镜/[[../concepts/micro-optics|[[../concepts/micro-optics|微光学]]元件]]、玻璃微流控等，证明其在光子学与微光学中的可用性。
+  5. 应用展示包括木堆（woodpile）三维光子结构、微透镜/[[../concepts/micro-optics|微光学元件]]、玻璃微流控等，证明其在光子学与微光学中的可用性。
   6. 复合树脂中高体积分数纳米颗粒会引起光学散射，对 2PP 的焦点形状与写分辨率有影响，是配方与工艺优化的关键。
   7. 该工作是 Glassomer / Rapp 组把纳米复合玻璃料从模塑/DLP 扩展到 2PP 的代表性工作，发表于 *Advanced Materials* 33(9), 2021，DOI 10.1002/adma.202170062。
   8. 对 project-1（双光子）而言，本文提供了"2PP 引发剂/复合树脂配方—写参数—后烧结收缩"完整可复用工艺链，可作为纳米复合功能材料 2PP 方向的奠基性方法文献引用。

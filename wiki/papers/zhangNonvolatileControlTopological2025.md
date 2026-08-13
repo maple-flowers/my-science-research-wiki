@@ -15,7 +15,7 @@ concepts: [multiferroicity, magnetoelectric-coupling, 2d-materials, spin-orbit-c
 entities: [In2Se3, CrInTe2, VASP, Spirit, Fe3GeTe2, CrTe2, CrGeTe3, CrI3]
 methods: [dft, dft-plus-u, gga-pbe, paw, soc, berry-phase, micromagnetic-simulation, llg, spin-spiral, spin-transfer-torque, thiele-equation]
 materials: [CrInTe2, In2Se3, CrInTe2-In2Se3]
-figures: [crystal-structures, heterostructures-stacking, electronic-bands, domain-walls, electronic-devices, mathematical-models, experimental-setups]
+figures: [crystal-structures-bulk, crystal-structures-xrd-phases, domain-walls-switching-properties, electronic-bands-cdw-transport, mathematical-models-magnetoelectric]
 领域基础知识:: >-
   二维范德华磁性材料中的拓扑自旋结构（如磁斯格明子、双半子）因其拓扑保护性和纳米级尺寸，成为下一代高密度、低功耗自旋电子学器件的信息载体。其形成与稳定依赖于海森堡交换作用(J)、Dzyaloshinskii-森谷相互作用(DMI)和磁各向异性能(MAE)之间的复杂竞争。
 研究背景:: >-
@@ -104,7 +104,7 @@ Shuo Zhang, Yunfei Zhang, Dan Xing, Lixiu Guan, Junguang Tao et al.，2025，Mat
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/topological-defects]]、[[../concepts/skyrmion]]、[[../concepts/bimeron]]、[[../concepts/dzyaloshinskii-moriya-interaction]]、[[../concepts/heisenberg-exchange]]、[[../concepts/magnetic-anisotropy-energy]]、[[../concepts/rashba-effect]]、[[../concepts/spin-transfer-torque]]、[[../concepts/skyrmion-hall-effect]]、[[../concepts/topological-charge]]、[[../concepts/llg-equation]]、[[../concepts/micromagnetic-simulation]]、[[../concepts/racetrack-memory]]、[[../concepts/superexchange]]
   - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/Fe3GeTe2]]、[[../entities/CrTe2]]、[[../entities/CrI3]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]、[[../figures/electronic-bands]]、[[../figures/domain-walls]]、[[../figures/mathematical-models]]、[[../figures/electronic-devices]]、[[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/domain-walls]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
   - 年度 [[../write/2025]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/zhangNonvolatileControlTopological2025]]
@@ -131,7 +131,7 @@ Shuo Zhang, Yunfei Zhang, Dan Xing, Lixiu Guan, Junguang Tao et al.，2025，Mat
     - **图示描述**：(a) 单层 CrInTe2 的俯视与侧视图，呈现 Te2–Cr–Te1–In 堆叠序列、C3v 对称且反演破缺的三角晶格，a = b = 4.04 Å；(b) 单层 α-In2Se3 的俯视与侧视图，显示 Se–In–Se–In–Se 五重层结构及 P↑/P↓ 两种面外铁电极化方向，a = b = 4.07 Å；(c) 异质结俯视与侧视图，沿红/绿箭头平移得到 AB1/AC1/AD1 等共 12 种堆叠。
     - **关键特征**：异质结晶格失配仅 0.7%，可形成共格界面；P↓-AC1（Se–In 界面）在 12 种构型中能量最低，比对应 P↑-AC1 低 140 meV/单胞；各构型界面键长 l1 = 2.84–2.85 Å、l2 = 2.75–2.76 Å，键角 θ1 = 90.15°–90.85°、θ2 ≈ 94°，表明极化翻转时结构骨架基本保持。
     - **结论/意义**：确立后续电子结构与磁参数计算的结构模型，低失配与双稳态极化是实现非易失电控的结构前提。
-    ![CrInTe2/In2Se3 晶体结构与堆叠](../../raw/figures/zhangNonvolatileControlTopological2025/fig_1_JDGLCTDB.png) -> [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
+    ![CrInTe2/In2Se3 晶体结构与堆叠](../../raw/figures/zhangNonvolatileControlTopological2025/fig_1_JDGLCTDB.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - 图2 原子/轨道分辨的 MAE 与 DMI 贡献：Te 原子主导 MAE，Te2 主导 DMI；极化翻转使 Te1 对 DMI 的贡献由 −8.81 meV 反转为 +3.20 meV：
     - **图示描述**：(a) 各原子（Cr、Te1、Te2、In 等）对 MAE 的 SOC 能量贡献柱状图，对比本征 CrInTe2、P↑ 与 P↓ 三态；(b, c) Te2 原子 p 轨道分辨的 MAE 贡献（p_x–p_y、p_z–p_x、p_z–p_y 等杂化通道）；(d) 原子层分辨的 DMI 相关 SOC 能量 ΔE_SOC-DMI；(e, f) Te1 原子 p 轨道分辨的 MAE 贡献。所有能量单位为 meV。
     - **关键特征**：Te 原子主导 MAE，P↑ 态 ΔE_SOC-MAE = 4.47 meV、P↓ 态 4.03 meV（本征仅 1.22 meV）；DMI 主要由 Te2 贡献，极化翻转使 Te1 对 DMI 的贡献由 −8.81 meV 反转为 +3.20 meV，是 DMI 净增强的直接微观来源；Te2 的 p_x–p_y 杂化对 MAE 负贡献、p_z–p_x/p_y 正贡献，P↓ 态下负贡献更负。
@@ -141,35 +141,35 @@ Shuo Zhang, Yunfei Zhang, Dan Xing, Lixiu Guan, Junguang Tao et al.，2025，Mat
     - **图示描述**：(a) 0 K 下 P↑ 与 P↓ 态在 Bz = 0 T 和 50 mT 时的自旋织构快照；(b) P↓ 态拓扑电荷 |Q| 随外磁场 Bz（T）的变化曲线；(c) P↓ 态温度 T（K）–磁场 Bz（T）二维相图，划分 SkX、FD、FM、PM 区域，并附 2.0 T 下不同温度的自旋织构；(d) P↓ 态斯格明子半径 R_x（nm）随 Bz 的变化。
     - **关键特征**：P↑ 态在 50 mT 时 SkX 坍塌为 FM，而 P↓ 态 SkX 维持至 5.2 T；|Q| 在 Bz ≈ 2.8 T 达峰 17，5.6 T 完全进入 FM；R_x 由 0 T 的 6.15 nm 压缩至 5.2 T 的 2.86 nm；200 K、4.4 T 下 SkX 密度仍 >628 μm⁻²，热稳定性优于 CrSeI/In2Te3，200 K 以上转入 FD 再到 PM。
     - **结论/意义**：直接证明极化翻转可在极低辅助场下非易失地"写入/擦除"斯格明子，并量化了温度与磁场稳定窗口。
-    ![拓扑磁结构相图与温度稳定性](../../raw/figures/zhangNonvolatileControlTopological2025/fig_3_Z9FGHBYU.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+    ![拓扑磁结构相图与温度稳定性](../../raw/figures/zhangNonvolatileControlTopological2025/fig_3_Z9FGHBYU.png) -> [[../figures/crystal-structures-xrd-phases|XRD与相变]]
   - 图4 K 值对拓扑相及各能量项（E_Ani、E_DMI、E_Ex、E_Zeeman）的调控：K > 2.0 meV/Cr 稳定孤立斯格明子，K < −2.0 meV/Cr 稳定双半子：
     - **图示描述**：(a) Bz = 0 T 与 1.6 T 下自旋织构随 K（meV/Cr）变化的相图；(b) 0 T 下总能量 E_tot 及交换能 E_Ex、DMI 能 E_DMI、各向异性能 E_Ani 随 K 的变化；(c) 1.6 T 下加入塞曼能 E_Zeeman 后的各能量项分解。
     - **关键特征**：Bz = 0 T 时 K > 2.0 meV/Cr 抑制迷宫畴，稳定半径约 5.8 nm 的孤立 Néel 斯格明子；K < −2.0 meV/Cr 且 |K| > 2 meV/Cr 时出现双半子；E_Ex 在 K = 0 最大、随 |K| 增大而减小，E_DMI 趋势相反，二者竞争驱动 E_tot 随 K 呈抛物线下降；1.6 T 下 E_Zeeman 在 K 为负时几乎不变，K 为正时小幅下降。
     - **结论/意义**：揭示 K 是切换斯格明子/双半子拓扑态的关键旋钮，并通过能量分解阐明 E_Ani–E_DMI 竞争的物理内涵。
-    ![MAE 对拓扑相与能量的影响](../../raw/figures/zhangNonvolatileControlTopological2025/fig_4_TV6K5X9T.png) -> [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+    ![MAE 对拓扑相与能量的影响](../../raw/figures/zhangNonvolatileControlTopological2025/fig_4_TV6K5X9T.png) -> [[../figures/crystal-structures-xrd-phases|XRD与相变]]
   - 图5 d∥–K 全局相图与无量纲判据 κ：|κ| < 5 为斯格明子-迷宫混合相，5 < |κ| < 10 为孤立斯格明子/双半子窗口：
     - **图示描述**：(a) 零场下自旋织构随 d∥（meV）和 K（meV/Cr）变化的二维相图，标出 FM、迷宫畴、斯格明子、双半子区域；(b) 以无量纲参数 κ = (π/4)²·2JK/(3d∥²) 为横轴的一维相图，叠加 κ = ±5、±10 边界线。
     - **关键特征**：d∥ 较小时体系为 FM，随 d∥ 增大迷宫畴与斯格明子密度升高，DMI 是非平庸拓扑态的必要条件；|κ| < 5 对应斯格明子-迷宫混合（SLM）相；5 < |κ| < 10 为孤立斯格明子/双半子稳定窗口；|κ| 更大时共线能量占优、回到 FM；斯格明子与双半子的半径、密度均与 |K| 成反比。
     - **结论/意义**：把 J、K、d∥ 的多参数竞争压缩为单一无量纲量 κ，为筛选与设计二维 vdW 多铁异质结提供普适"配方"。
-    ![d-K 相图与 κ 判据](../../raw/figures/zhangNonvolatileControlTopological2025/fig_5_SCSIXLYM.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+    ![d-K 相图与 κ 判据](../../raw/figures/zhangNonvolatileControlTopological2025/fig_5_SCSIXLYM.png) -> [[../figures/crystal-structures-xrd-phases|XRD与相变]]
   - 图6 电流驱动动力学：u = 0.6 μeV（j ≈ 4.14×10⁹ A/m²）下，斯格明子霍尔角 11.68°（v_x = 3.25, v_y = 0.67 m/s），双半子仅 2.44°（v_x = 2.71, v_y = 0.12 m/s）：
     - **图示描述**：(a, b) u = 0.6 μeV 下 Néel 型斯格明子与双半子在 0、3、6 ns 的运动快照，白色虚线为轨迹；(c) 纵向速度 v_x（m/s）随自旋转移矩 u（μeV）的变化；(d) 横向速度 v_y（m/s）随 u 的变化。
     - **关键特征**：相同电流密度下斯格明子 v_x = 3.25 m/s、v_y = 0.67 m/s，霍尔角 11.68°；双半子 v_x = 2.71 m/s、v_y = 0.12 m/s，霍尔角 2.44°，减小约 80%；物理上斯格明子耗散张量各向同性（d_xx = d_yy = d，tan θ = G/(αd)），双半子耗散张量各向异性（d_xx ≠ d_yy，tan θ = G/(αd_xx)），横向漂移被抑制；随 u 增大，v_x 斯格明子约为双半子 1.2 倍，v_y 差异可达 5.5 倍。
     - **结论/意义**：证明双半子在赛道存储器等需精确轨迹控制的器件中显著优于斯格明子，而斯格明子的大横向漂移可用于逻辑分流。
-    ![斯格明子与双半子电流驱动动力学](../../raw/figures/zhangNonvolatileControlTopological2025/fig_6_ZU3NDFU8.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+    ![斯格明子与双半子电流驱动动力学](../../raw/figures/zhangNonvolatileControlTopological2025/fig_6_ZU3NDFU8.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - 表1 两种极化态下磁学参数对比（J、K、d∥ 随极化翻转的变化）：
     - **图示描述**：汇总本征单层 CrInTe2、CrInTe2/In2Se3(P↑)、CrInTe2/In2Se3(P↓) 三种状态下的海森堡交换 J、各向异性常数 K、面内 DMI 系数 d∥ 等磁学参数。
     - **关键特征**：J 由本征 12.60 meV 降至 P↑ 的 11.69 meV，再降至 P↓ 的 9.85 meV（P↑→P↓ 再降约 16%）；K 由本征 0.73 meV/Cr 提升至 P↑ 的 2.44、P↓ 的 1.96 meV/Cr，即极化翻转使 MAE 抑制约 20%；d∥ 由 P↑ 的 1.87 meV 增至 P↓ 的 1.98 meV，增强约 6%，超过其他 Cr 基 vdW 磁体报道值。
     - **结论/意义**：用一组定量参数闭环支撑"极化翻转协同调制 DMI↑、MAE↓、J↓"的核心论断，是后续微磁学模拟的输入。
-    ![磁学参数表](../../raw/figures/zhangNonvolatileControlTopological2025/tab_1_DUDZIDX5.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+    ![磁学参数表](../../raw/figures/zhangNonvolatileControlTopological2025/tab_1_DUDZIDX5.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
   - 关键方程（LLG 方程、自旋转移矩强度 u、拓扑荷 Q、自旋哈密顿量、Thiele 方程）：
     - **图示描述**：依次给出微磁学模拟所用的 Landau-Lifshitz-Gilbert 方程（含阻尼、STT 与热场项，α = 0.1）、自旋转移矩强度定义 u = jPħμ_B/(2eM_s)、拓扑荷 Q = (1/4π)∫m·(∂_x m × ∂_y m) dxdy、自旋哈密顿量 H = −JΣS_i·S_j − KΣ(S_i^z)² − ΣD_ij·(S_i×S_j) − B_zΣS_i^z，以及描述刚体运动的 Thiele 方程 G×v − αD·v + 4πB·j = 0。
     - **关键特征**：LLG 是 Spirit 微磁模拟（150×150×1 超胞、周期性边界）的动力学基础；u 与电流密度 j 线性对应，u = 0.6 μeV 对应 j ≈ 4.14×10⁹ A/m²；自旋哈密顿量中 J 为各向同性交换、K 为有效各向异性（含磁晶与形状贡献）、D_ij 按 Moriya 规则在 C3v 下以面内 d∥ 为主；Thiele 方程中 G = (0,0,−4πQ)，耗散张量 D 的各向同性/各向异性直接决定斯格明子与双半子的霍尔角差异。
     - **结论/意义**：这组方程把 DFT 提取的 J、K、d∥ 与宏观自旋织构、电流驱动动力学连接起来，构成全文"微观参数—静态相图—动态轨迹"的理论骨架。
-    ![方程1 LLG](../../raw/figures/zhangNonvolatileControlTopological2025/eq_1_VFQJF82Y.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
-    ![方程3 拓扑荷](../../raw/figures/zhangNonvolatileControlTopological2025/eq_3_4IHDA4XH.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
-    ![方程4 自旋哈密顿量](../../raw/figures/zhangNonvolatileControlTopological2025/eq_4_MV938FQK.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
-    ![方程5 Thiele](../../raw/figures/zhangNonvolatileControlTopological2025/eq_5_LRHE8QNY.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+    ![方程1 LLG](../../raw/figures/zhangNonvolatileControlTopological2025/eq_1_VFQJF82Y.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
+    ![方程3 拓扑荷](../../raw/figures/zhangNonvolatileControlTopological2025/eq_3_4IHDA4XH.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
+    ![方程4 自旋哈密顿量](../../raw/figures/zhangNonvolatileControlTopological2025/eq_4_MV938FQK.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
+    ![方程5 Thiele](../../raw/figures/zhangNonvolatileControlTopological2025/eq_5_LRHE8QNY.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
 
 ## 🔬 项目连接
   - **project-2（Mn 多铁）— strong**：本文是二维多铁异质结磁电耦合的代表性理论工作，其核心机制——铁电极化翻转通过界面电荷转移与轨道杂化协同调制磁相互作用参数（DMI、MAE、J）——与 Mn 基多铁中磁电耦合的物理图像高度可类比。可复用要点：(1) 原子-轨道分辨的 SOC 能量分解方法（ΔE_SOC-MAE、ΔE_SOC-DMI）用于定位磁电耦合的微观来源；(2) GGA+U 下提取 J、DMI（顺/逆时针自旋螺旋能量对比）、MAE 的计算流程；(3) 界面 Se→In 电荷转移改变 Te p 轨道杂化从而调控磁性的因果链，可类比到 Mn 基多铁中通过阴离子 p 轨道介导的超交换/磁电耦合；(4) Goodenough–Kanamori–Anderson 规则下键角变化（θ1、θ2 偏离 90°）削弱 Cr–Te–Cr 超交换的分析范式。

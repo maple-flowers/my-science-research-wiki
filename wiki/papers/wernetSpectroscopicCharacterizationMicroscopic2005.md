@@ -11,14 +11,14 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/wernetSpectroscopicCharacterizationMicroscopic2005]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-6]
 concepts: [density-functional-theory]
 entities:
   - supercritical-water
-methods: [dft, raman, tem, xanes]
+methods: [dft, raman, xanes]
 materials:
   - water
-figures: [experimental-setups, optical-spectra]
+figures: [mathematical-models-computational, optical-spectra]
 领域基础知识:: >-
   超临界水（Supercritical water）是温度和压力均高于其临界点（374.1°C， 220.6巴）的水。在该状态下，水兼具气体和液体的性质，如高扩散性、低粘度和高溶解能力，是一种极具潜力的绿色溶剂。其独特的性质源于其分子间氢键（Hydrogen bond）网络在高温高压下的重构。
 研究背景:: >-
@@ -43,20 +43,8 @@ tags:
   - paper
   - type/experiment
   - year/2005
-  - project/project-1
-  - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/medium
-  - project/project-5
-  - relevance/project-5/medium
   - project/project-6
   - relevance/project-6/weak
-  - project/project-7
-  - relevance/project-7/medium
   - concept/density-functional-theory
   - method/dft
   - method/raman
@@ -64,12 +52,9 @@ tags:
   - method/xanes
   - topic/charge-density-wave
   - topic/ferroelectricity
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/optical-spectra
   - topic/polarization
-  - topic/two-photon-fluorescence
 ---
 
 ## wernetSpectroscopicCharacterizationMicroscopic2005 — 超临界水中微观氢键差异的光谱表征
@@ -95,7 +80,7 @@ Ph. Wernet, D. Testemale, J.-L. Hazemann, R. Argoud, P. Glatzel, L. G. M. Petter
 
 ## 📊 关键图表
   - **图1：气相/液面/超临界/液态/冰五种水的氧 K 边近边谱对比**
-  - ![图1 气相/液面/超临界/液态/冰五种水的氧K边谱对比；534、536 eV双峰=自由O-H，535 eV峰=单断供体键，537–542 eV后边=氢键；超临界水缺535 eV峰且后边更宽](../../raw/figures/wernetSpectroscopicCharacterizationMicroscopic2005/fig_1_4TFGLKJ8.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图1 气相/液面/超临界/液态/冰五种水的氧K边谱对比；534、536 eV双峰=自由O-H，535 eV峰=单断供体键，537–542 eV后边=氢键；超临界水缺535 eV峰且后边更宽](../../raw/figures/wernetSpectroscopicCharacterizationMicroscopic2005/fig_1_4TFGLKJ8.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：横轴为氧 K 边能量转移（eV，约 532–547 eV 近边区），纵轴为按 532–547 eV 面积归一化的强度；五个子图自上而下列出 (a) 气相、(b) 液态水表面、(c) 380 °C/300 bar 超临界水、(d) 常压液态水、(e) 冰。
   - **关键特征**：气相与液面谱在 534 eV（4a₁）和 536 eV（2b₁）出现尖锐双峰，对应两个自由 O–H（不做供体氢键）；液态水在 535 eV 有特征小峰，指示一个断裂或弱化的供体氢键；冰在 534–536 eV 几乎无强度，537–542 eV 后边呈以约 541 eV 为中心的尖锐强峰，对应规整四面体四氢键网络；超临界水既有 534 eV 主峰+536 eV 肩峰（类气相组分），又有 537–542 eV 强后边（成键组分），但后边比冰更宽且缺失 535 eV 峰。
   - **结论/意义**：定性证明超临界水不是"均匀部分断键的类液网络"，而是"类气相分子 + 四氢键饱和但严重扭曲分子"的二元共存，这是论文非均相模型的指纹证据。
@@ -105,7 +90,7 @@ Ph. Wernet, D. Testemale, J.-L. Hazemann, R. Argoud, P. Glatzel, L. G. M. Petter
   - **关键特征**：约 560 eV 的第二极大峰位对最近邻 O–O 距离敏感（距离越远峰位能量越低）；超临界水该峰相对冰向低能方向移动 3.3±0.8 eV；以冰的 O–O 距 2.75 Å 为基准换算，超临界水成键分子平均 O–O 距被拉长 0.3±0.1 Å，至 3.1±0.1 Å；对应氢键键长约 2.1 Å，落在完整氢键判据（O–O ≤ 3.3–3.5 Å）之内。
   - **结论/意义**：定量给出超临界水成键区"键被显著拉长但仍完整"的几何参数，且与中子/X 射线衍射在相似条件下 O–O RDF 第一峰 3.0–3.2 Å 的结果一致。
   - **图3：实验-计算谱定量拟合（差谱+DFT 构型分解）**
-  - ![图3 实验-计算谱定量拟合：(a)超临界谱与0.35倍气相谱；(b)差谱=纯氢键组分；(c)DFT三构型加权拟合，90%来自四扭曲氢键构型；(d)均匀非键分布谱被排除](../../raw/figures/wernetSpectroscopicCharacterizationMicroscopic2005/fig_3_HY4NF6GV.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图3 实验-计算谱定量拟合：(a)超临界谱与0.35倍气相谱；(b)差谱=纯氢键组分；(c)DFT三构型加权拟合，90%来自四扭曲氢键构型；(d)均匀非键分布谱被排除](../../raw/figures/wernetSpectroscopicCharacterizationMicroscopic2005/fig_3_HY4NF6GV.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：四个子图共享能量转移（eV）横轴与归一化强度纵轴：(a) 超临界水谱（实线）与按 0.35 缩放的气相谱（虚线）；(b) 两者之差，即纯氢键组分谱；(c) (b) 与 DFT 计算的三种完全成键构型谱（冰状、单扭曲供体+受体、四扭曲氢键）加权和对比，插图展示不同缩放因子对 534 eV 差谱强度的影响以确定 0.35±0.2 误差；(d) O–O 距 3.9 Å 的均匀非成键分子计算谱。
   - **关键特征**：缩放因子 0.35±0.2 给出超临界水中具有两个自由 O–H（不做供体氢键）的类气相分子比例，剩余约 65% 为成键组分；差谱在 535 eV 无峰、542 eV 以上仍有显著权重，与液态水谱明显不同；DFT 最佳拟合中四扭曲氢键构型贡献约 90% 信号，单扭曲供体构型与冰状构型各仅约 5%，成键构型 O–O 距 2.65–3.3 Å、O–H···O 角 150°–180°；(d) 的均匀非成键谱在 537 eV 以上无强度，与实验矛盾，被明确排除，二聚体/三聚体/链状等中间构型总量被限制在几个百分点。
   - **结论/意义**：定量锁定"约 35% 类气相 + 约 65% 四键饱和但扭曲"的二元构型比例及成键区几何范围，是论文从定性指纹走向定量非均相斑块模型的核心分析图。
@@ -120,13 +105,7 @@ Ph. Wernet, D. Testemale, J.-L. Hazemann, R. Argoud, P. Glatzel, L. G. M. Petter
   - **project-7 CDW**：无直接项目连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 - 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
 文章按"问题（衍射 RDF 的系综平均模糊性）→ 方法（XRS 硬 X 射线穿透 + 供体氢键敏感）→ 指纹对照（五相谱图定性识别二元性）→ 定量（差谱得 35% 类气相，扩展谱得 O–O=3.1 Å，DFT 拟合得四扭曲氢键占 90%）→ 模型（结合 SAXS 相关长度构建 5–10 分子斑块非均相模型）→ 宏观解释（有机物溶解于稀区、离子接触对）"递进。关键术语：

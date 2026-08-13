@@ -11,12 +11,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/tianRoomtemperatureTwodimensionalMultiferroic2026]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-2, project-5]
 concepts: [2D-materials, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, sliding-ferroelectricity, spin-orbit-coupling, strain-engineering]
 entities: [BiFeO3, CrTe2, In2Se3, TMDs, VASP]
 methods: [afm-pfm, berry-phase, dft, dft-plus-u, mfm, raman, squid, stm-mbe, tem, xanes]
 materials: [BiFeO3, CrTe2, In2Se3, TMDs]
-figures: [crystal-structures, electronic-bands, experimental-setups, heterostructures-stacking]
+figures: [crystal-structures-bulk, domain-walls-structures, electronic-bands-dos-fermi]
 领域基础知识:: >-
   多铁性材料（Multiferroics）是指在同一相中同时具备铁电性（Ferroelectricity）和铁磁性（Ferromagnetism）等两种或以上铁性有序的材料。其核心价值在于磁电耦合（Magnetoelectric coupling，ME coupling），即可以通过电场控制磁化状态（反之亦然）。这是实现超低功耗“电写磁读”存储器件的物理基础。传统多铁材料面临性能弱、工作温度低等问题。二维材料为该领域带来了新机遇。
 研究背景:: >-
@@ -41,20 +41,10 @@ tags:
   - paper
   - type/experiment
   - year/2026
-  - project/project-1
-  - relevance/project-1/medium
   - project/project-2
   - relevance/project-2/strong
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/weak
   - project/project-5
   - relevance/project-5/medium
-  - project/project-6
-  - relevance/project-6/medium
-  - project/project-7
-  - relevance/project-7/weak
   - concept/2D-materials
   - concept/density-functional-theory
   - concept/magnetoelectric-coupling
@@ -86,13 +76,10 @@ tags:
   - topic/charge-density-wave
   - topic/ferroelectricity
   - topic/ferromagnetism
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/phase-transition
   - topic/polarization
   - topic/strain-engineering
-  - topic/two-photon-fluorescence
 ---
 
 ## tianRoomtemperatureTwodimensionalMultiferroic2026 — 具有电压可控磁序的室温二维多铁金属
@@ -106,7 +93,7 @@ Dacheng Tian, Shulin Zhong, Jianyu Dong et al.（共同一作），2026 年，*N
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/spin-orbit-coupling]]（作为被本文机制取代的对照）、[[../concepts/sliding-ferroelectricity]]（本文明确排除的对照机制）、[[../concepts/polarization-switching]]、[[../concepts/strain-engineering]]（FM/AFM 层 0.37/0.39 nm 晶格失配与应变）、[[../concepts/density-functional-theory]]、[[../concepts/interlayer-charge-transfer|层间电荷转移]]、[[../concepts/electron-filling-magnetism|电子填充驱动磁有序]]、[[../concepts/ferroelectric-metal|铁电金属/多铁金属]]、[[../concepts/zigzag-antiferromagnetism|锯齿状反铁磁序]]、[[../concepts/electric-write-magnetic-read|电写磁读]]、[[../concepts/fm-afm-superlattice|FM/AFM 超晶格设计原则]]
   - 实体 [[../entities/CrTe2]]、[[../entities/BiFeO3]]（传统块体多铁对照）、[[../entities/In2Se3]]（矫顽电压 1.5 V 对照）、[[../entities/TMDs]]、[[../entities/VASP]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]（Cr-t₂g/e_g 态密度与能带填充模型）、[[../figures/heterostructures-stacking]]、[[../figures/experimental-setups]]、[[../figures/domain-walls|畴与畴壁结构]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]（Cr-t₂g/e_g 态密度与能带填充模型）、[[../figures/domain-walls|畴与畴壁结构]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - 年度 [[../write/2026]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
@@ -114,22 +101,22 @@ Dacheng Tian, Shulin Zhong, Jianyu Dong et al.（共同一作），2026 年，*N
 
 ## 📊 关键图表
   - **图1：单层与双层 CrTe₂ 的原子级结构与电子性质**
-  - ![图1 单层与双层 CrTe₂ 的原子级结构与电子性质：1T 结构模型、单层 STM/LEED（0.37 nm，z-AFM 锯齿条纹）、双层 STM/LEED（0.37+0.39 nm 两套斑点，第二层六方密堆积 FM）、dI/dV 证实金属性](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_1_USCG2SF4.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图1 单层与双层 CrTe₂ 的原子级结构与电子性质：1T 结构模型、单层 STM/LEED（0.37 nm，z-AFM 锯齿条纹）、双层 STM/LEED（0.37+0.39 nm 两套斑点，第二层六方密堆积 FM）、dI/dV 证实金属性](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_1_USCG2SF4.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：8 个面板 (a–h) 依次给出 1T-CrTe₂ 晶体结构模型（Cr 被 Te 八面体配位的层状三角结构），单层 CrTe₂/石墨烯/SiC(0001) 的 STM 形貌（台阶 0.8 nm）、90 eV LEED 斑点（晶格 0.37 nm）、−0.1 V 高分辨 SP-STM 锯齿条纹（a=0.74 nm、b=0.64 nm，对应 2×√3 重构），以及双层的 STM 形貌（第二层高出 0.6 nm）、LEED（同时出现 0.37 nm 外圈与 0.39 nm 内圈两套斑点）、第二层六方密堆积 SP-STM（0.39 nm）和单层/双层 dI/dV 谱。
   - **关键特征**：单层 LEED 晶格 0.37 nm、SP-STM 呈锯齿状条纹，对应 z-AFM 序；双层 LEED 出现 0.37 nm（第一层）+0.39 nm（第二层）两套斑点，SP-STM 第二层为六方密堆积，指示第一层 AFM、第二层 FM 的异层磁构型；dI/dV 在费米能级非零，单层与双层均为金属，奠定"二维多铁金属"基础；拉曼 E₂g（126.6 cm⁻¹）、A₁g（142.9 cm⁻¹）在大气暴露两周后仍可探测。
   - **结论/意义**：从原子尺度直接证实双层 CrTe₂ 由 AFM/FM 两层构成、层间存在晶格失配并保持金属性，为后续多铁性与层间电荷转移模型提供结构前提。
   - **图2（wiki 图序，对应正文 Fig. 5）：双层 CrTe₂ 中铁电性起源的能带填充与层间电荷转移模型**
-  - ![图2（manifest 标注为 page 6）双层 CrTe₂ 中铁电性起源的能带/电荷模型：FM 与 z-AFM 的 DOS 与 t₂g/e_g 填充、能量-电荷转移曲线（极小值 ~0.019 C m⁻²）、~0.1 eV 静电势差、差分电荷密度（~0.020 C m⁻²，P≈3.0 pC m⁻¹）](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_2_WFPFNDUZ.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图2（manifest 标注为 page 6）双层 CrTe₂ 中铁电性起源的能带/电荷模型：FM 与 z-AFM 的 DOS 与 t₂g/e_g 填充、能量-电荷转移曲线（极小值 ~0.019 C m⁻²）、~0.1 eV 静电势差、差分电荷密度（~0.020 C m⁻²，P≈3.0 pC m⁻¹）](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_2_WFPFNDUZ.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：理论面板 (a–e)，(a)(b) 分别为 FM 和 z-AFM 单层中 Cr-t₂g/e_g 轨道的态密度与能带填充示意；(c) FM+z-AFM 体系总能量随层间电荷转移量（横轴 C m⁻²）变化的曲线，插图指示电子由 z-AFM 层流向 FM 层；(d) FM 与 z-AFM 单层沿 z 方向的静电势分布；(e) z-AFM/FM 超晶格差分电荷密度图及沿 z 的线平均。
   - **关键特征**：FM 态自旋向上 t₂g 全占、e_g 部分填充（<25%），相邻 Cr 平行自旋 e_g 可杂化降能；z-AFM 态反平行自旋阻碍 e_g/t₂g 直接耦合；能量极小值在电荷转移 ~0.019 C m⁻²，超过半填充即失稳使电荷转移自限制；FM 与 z-AFM 单层静电势差 ~0.1 eV，是驱动层间电荷转移的内建泵；差分电荷密度定量给出 ~0.020 C m⁻² 转移量，沿 z 产生自发极化 P≈3.0 pC m⁻¹，远大于典型滑移铁电体 0.1–1.2 pC m⁻¹；补充图 10 显示极化方向在所有滑移构型下不变，排除结构滑移起源。
   - **结论/意义**：把多铁性归因为"电子填充驱动的层间电荷转移"，替代传统 II 型多铁依赖的自旋轨道耦合范式，是全文的理论核心。
   - **图3：多铁双层 CrTe₂ 的"电写磁读"功能演示**
-  - ![图3 电写磁读：PFM 在 ±6/±7/±8 V 下写入"盒中盒"铁电畴（a-d），同一区域 MFM 读出完全对应的磁畴图案（e-h），对比度随写入电压同步增强](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_3_85N9YJPF.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图3 电写磁读：PFM 在 ±6/±7/±8 V 下写入"盒中盒"铁电畴（a-d），同一区域 MFM 读出完全对应的磁畴图案（e-h），对比度随写入电压同步增强](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_3_85N9YJPF.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：同一微区的 PFM（a–d，写入与面外振幅/相位读出）与 MFM（e–h，磁畴读出）配对图像；(a)(e) 为未写入的初始态，(b)(f)、(c)(g)、(d)(h) 依次对应 ±6 V、±7 V、±8 V 直流偏压写入的"盒中盒"图案。
   - **关键特征**：初始态 MFM 呈现自然条纹磁畴；±6 V 写入后 MFM 出现与 PFM 写入图案边界完全重合的磁畴，直接证明电场翻转铁电极化即可重构磁序；±2 V 以下衬度可忽略（矫顽阈值，与 PFM 1–2 V 矫顽电压一致），反向偏压给出反向 PFM/MFM 衬度，证实可逆双向控制；写入电压由 ±6 V 增至 ±8 V 时 PFM 与 MFM 衬度同步增强；0 V 非磁性导电针尖在不同抬针高度下不产生类似 MFM 图案（补充图 5），排除静电力假象；大气暴露两周后该"电写磁读"仍有效，14 天 PFM/MFM 衬度保留约初始 30%，25 天趋于饱和。
   - **结论/意义**：在室温、大气条件下直接演示非易失"电写磁读"，是双层 CrTe₂ 强磁电耦合最关键的实验证据。
   - **图4：外磁场下 PFM/MFM 畴衬度的演化（磁反控电）**
-  - ![图4 磁场依赖的 PFM/MFM：0→1300 Oe 外磁场下写入畴的衬度逐步减弱直至均匀，反向证实磁电耦合的双向性](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_4_QKXBGTR6.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图4 磁场依赖的 PFM/MFM：0→1300 Oe 外磁场下写入畴的衬度逐步减弱直至均匀，反向证实磁电耦合的双向性](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_4_QKXBGTR6.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：在已写入"盒中盒"图案的同一区域，依次施加 0、500、900、1300 Oe 外磁场后采集的 PFM 图像 (a–d) 与 MFM 图像 (e–h)。
   - **关键特征**：0 Oe 时 PFM 与 MFM 畴界锐利、衬度强；随磁场升至 500、900 Oe，PFM 与 MFM 衬度同步减弱、畴界逐渐模糊；1300 Oe 时图像近乎均匀；磁畴被外场趋同后通过磁电耦合反过来削弱铁电畴稳定性。
   - **结论/意义**：与图3 电写磁读互为镜像，证明磁电耦合是双向的——不仅电场可控磁，磁场亦可反作用于铁电态。
@@ -147,13 +134,8 @@ Dacheng Tian, Shulin Zhong, Jianyu Dong et al.（共同一作），2026 年，*N
   - **project-1（双光子）、project-3（机械发光 NN）、project-6（湿度传感器）**：无直接项目连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
   文章按"制备 → 结构/磁基态表征 → 多铁性实证 → 电写磁读功能演示 → 磁场反控 → 理论机制（能带填充模型）→ 讨论与设计原则"的经典实验-理论闭环展开。论证的关键张力是"铁电性与磁性本质互斥"这一传统矛盾，作者用 FM/AFM 双层间的电荷转移同时解决了对称性破缺（铁电）和磁序共存两个问题。理论部分用 t₂g/e_g 轨道填充的化学图像把磁基态与电荷转移直接绑定，再用能量极小值曲线、静电势差、差分电荷密度三组计算互为印证。讨论部分将具体材料提升为"FM/AFM 超晶格 + 三重设计框架"的普适原则。
@@ -168,7 +150,7 @@ Dacheng Tian, Shulin Zhong, Jianyu Dong et al.（共同一作），2026 年，*N
   8. FM/AFM 超晶格设计原则（FM/AFM superlattice design principle）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. **材料事实**：双层 CrTe₂ 通过 MBE 在[[../entitys/graphene|石墨烯]]/4H-SiC(0001) 上生长（Cr 通量 0.1 Å min⁻¹，Te 通量 6 Å min⁻¹，衬底 350 °C，本底真空 2×10⁻¹⁰ mbar）；第一层为 z-AFM（晶格 0.37 nm，2×√3 重构，a=0.74 nm, b=0.64 nm），第二层为 FM（晶格 0.39 nm，六方密堆积）；两层均为金属（dI/dV 在 E_F 非零）。
+  1. **材料事实**：双层 CrTe₂ 通过 MBE 在[[../entities/graphene|石墨烯]]/4H-SiC(0001) 上生长（Cr 通量 0.1 Å min⁻¹，Te 通量 6 Å min⁻¹，衬底 350 °C，本底真空 2×10⁻¹⁰ mbar）；第一层为 z-AFM（晶格 0.37 nm，2×√3 重构，a=0.74 nm, b=0.64 nm），第二层为 FM（晶格 0.39 nm，六方密堆积）；两层均为金属（dI/dV 在 E_F 非零）。
   2. **室温磁性数据**：双层 CrTe₂ 在 20–300 K 面外/面内均有清晰磁滞回线；20 K 饱和磁化强度 2.44 μ_B/Cr，DFT(0 K) 预测 3.2 μ_B/Cr，偏差归因于有限温度自旋涨落；单层仅显衬底顺磁信号，XMLD 证实其 AFM-顺磁转变；双层室温 XMCD 有信号而单层无可检测二向色性。
   3. **室温[[../concepts/ferroelectricity|铁电性]]数据**：双层 PFM 相位回线 180° 翻转、振幅蝴蝶形；矫顽电压 1–2 V，与 In₂Se₃（1.5 V）、SnS（2.0 V）相当；单层无压电响应。±7 V 直流偏压可写入非易失"盒中盒"畴图案。
   4. **[[../concepts/electric-write-magnetic-read|电写磁读]]实验**：同一区域 PFM 写入 ±6/±7/±8 V 盒中盒图案后，MFM 读出完全一致的磁畴；衬度随写入电压增大而同步增强；用 0 V 非磁性导电针尖在不同抬针高度下对照实验排除了静电力假象；±2 V 以下无可观测衬度（矫顽阈值），反向偏压给出反向 PFM/MFM 衬度（可逆双向控制）。

@@ -15,7 +15,7 @@ concepts: [humidity-sensing-mechanism, donor-effect, depletion-layer, sol-gel-me
 entities: [ZnO, SnO2, TiO2, Al-doped-ZnO, Sn-doped-ZnO, Ga-doped-ZnO, QCM, interdigitated-electrode, labyrinth-electrode, castellated-electrode, circle-electrode]
 methods: [literature-review, sol-gel, hydrothermal-growth, hydrolyzation-method, qcm, dielectrophoresis, capacitive-measurement]
 materials: [ZnO, Sn-doped-ZnO, Al-doped-ZnO, Ga-doped-ZnO, ZnO-TiO2-core-shell, SnO2-SiO2-composite, porous-anodic-aluminum-oxide, SiCN-ceramic, LaFeO3]
-figures: [electronic-devices, crystal-structures, experimental-setups]
+figures: []
 领域基础知识:: >-
   湿度传感器是监测环境中水蒸气含量的关键器件，广泛应用于工业、农业、医疗等领域。其核心原理是利用敏感材料吸附水分子后引起的物理或化学性质变化（如电阻、电容、质量）来检测湿度。相对湿度传感器（%RH）是主流类型，其中陶瓷/半导体型湿度传感器因其高灵敏度、低成本、高稳定性而备受关注。
 研究背景:: >-

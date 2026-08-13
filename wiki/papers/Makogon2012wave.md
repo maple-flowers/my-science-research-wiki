@@ -10,12 +10,12 @@ paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Makogon2012wave]]
-projects: [project-7, project-2, project-4]
+projects: [project-4, project-7]
 concepts: [charge-density-wave, fermi-surface-nesting, spin-density-wave, spin-charge-density-wave, hubbard-model, random-phase-approximation, soft-mode, optical-lattice, staggered-zeeman-field, hubbard-stratonovich-transformation, tight-binding, landau-free-energy]
 entities: [potassium-40]
 methods: [tight-binding, rpa, hubbard-stratonovich, saddle-point-approximation, analytic-continuation, numerical-susceptibility]
 materials: [ultracold-40K, optical-lattice]
-figures: [electronic-bands, experimental-setups, mathematical-models]
+figures: [electronic-bands-band-structures, electronic-bands-cdw-transport]
 领域基础知识:: >-
   强关联电子系统、哈伯德模型、自旋密度波、电荷密度波、量子模拟、光晶格中的超冷原子。
 研究背景:: >-
@@ -42,8 +42,6 @@ tags:
   - year/2012
   - project/project-7
   - relevance/project-7/strong
-  - project/project-2
-  - relevance/project-2/medium
   - project/project-4
   - relevance/project-4/weak
   - concept/charge-density-wave
@@ -95,8 +93,6 @@ D. Makogon, I. B. Spielman, C. Morais Smith，2012，EPL (Europhysics Letters) 9
   - 概念 [[../concepts/hubbard-stratonovich-transformation|哈伯德-斯特拉托诺维奇变换]]
   - 概念 [[../concepts/tight-binding|紧束缚]]
   - 图表 [[../figures/electronic-bands]]
-  - 图表 [[../figures/mathematical-models]]
-  - 图表 [[../figures/experimental-setups]]
   - 年度 [[../write/2012]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/Makogon2012wave]]
@@ -105,12 +101,12 @@ D. Makogon, I. B. Spielman, C. Morais Smith，2012，EPL (Europhysics Letters) 9
   - 实体 `potassium-40.md`（⁴⁰K）：作者建议的实验用费米子同位素，文中给出激光波长约 980 nm、远失谐于 D1/D2 线的具体参数。
 
 ## 📊 关键图表
-  - ![图1：实验布局、能级图与四能带结构（第三能带白色等高线为同心方圆形费米面）](../../raw/figures/Makogon2012wave/fig_1_W2ZSL64K.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图1：实验布局、能级图与四能带结构（第三能带白色等高线为同心方圆形费米面）](../../raw/figures/Makogon2012wave/fig_1_W2ZSL64K.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
   - **图示描述**：本图分三个子图，给出从实验方案到单粒子物理的完整链条。(a) 为实验布局：两束频率差 δω 的相向传播激光在 xˆ–yˆ 平面内线性偏振形成光晶格，沿 zˆ 的射频磁场 B_rf cos(δωt+φ) 与沿 xˆ 的偏置场 B_0 共同操控原子自旋；(b) 为原子能级图，展示两个塞曼 m_F 子能级如何被光场与射频磁场耦合（双光子拉曼过程）；(c) 为 Ω_R=2t、Ω_rf=4t、φ=π/4 下计算的四能带色散，横轴为 k_+、k_-（以 π/k_r 为单位），纵轴为能量 E/t，白色等高线标出填充至第三能带时的费米面，并附 k_+k_- 平面投影。
   - **关键特征**：第三能带呈"变形墨西哥帽"形状，费米面由两个同心的方圆形（squircle）构成，介于方形与圆形之间；沿对角方向内外两圈近似平直的边可以通过波矢 Q=(π/4,π/4) 实现"不完全嵌套"（ε^(3)_{p+Q}≈ε^(3)_p），白色箭头即标注该嵌套矢量；这种非圆形、非完美嵌套的几何是后续 SCDW 失稳的根源；波矢以 π/k_r 为单位，能量以跳跃能 t 为单位。
   - **结论/意义**：该图从实验配置出发推导出具有同心方圆形费米面的四能带结构，为整篇论文提供了单粒子基础，也直接指明了失稳波矢 Q 的几何来源。
 
-  - ![图2：(a)静态磁化率最大特征值在Q=(π/4,π/4)处主峰；(b-d)动态磁化率迹虚部随U增大在Q点软化](../../raw/figures/Makogon2012wave/fig_2_DZDKDGH8.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图2：(a)静态磁化率最大特征值在Q=(π/4,π/4)处主峰；(b-d)动态磁化率迹虚部随U增大在Q点软化](../../raw/figures/Makogon2012wave/fig_2_DZDKDGH8.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - **图示描述**：本图分四个子图，给出多体相互作用导致的静态失稳与动态软模证据。(a) 为矩阵 ηχ_k(0) 最大特征值 λ_k 在整个布里渊区（k_+, k_- 平面）上的三维分布图，计算参数 φ=π/4、Ω_R=2t、Ω_rf=4t、μ=t、k_BT=10⁻³t，网格 240×240；(b)–(d) 为 k_x=0（即 k_+=−k_-）截面上动态磁化率迹的虚部 Tr[Im χ^RPA_k(ω)] 在 k_y–ω 平面上的对数标度图，解析延拓取 κ=10⁻²，三图分别对应 U=0、U/t=2.60(3)、U/t=2.89(3)。
   - **关键特征**：(a) 中最高主峰位于 Q=(π/4,π/4)，λ_Q=0.345(3)，由 Stoner 型判据 U_c⁻¹=max_k λ_k 得临界相互作用 U_c/t=2.89(3)，该峰对应特征向量 V_Q 兼具反铁磁特征且为 SDW 与 CDW 的混合，即 SCDW；周围衍射图案般的次级峰是方圆形费米面其他近似嵌套通道的反映；对比计算显示若只计入自旋通道则 U_c/t=2.13(3)（明显偏低），只计入电荷通道在排斥 U>0 下根本无失稳，说明自旋-电荷耦合不可缺。(b) U=0 时仅见从原点出发的线性色散朗道零声；(c) U/t=2.60(3) 时在 πk_y/k_r=π/4（即 Q 点）从零能萌发出第二支线性色散模式；(d) U/t=2.89(3) 时该模式在 ω=0 处谱权重急剧增大、能量软化至零，成为软模，标志二级相变发生；ω 以 t 为单位，谱权重为对数刻度。
   - **结论/意义**：静态磁化率锁定了失稳波矢与临界值，动态谱则以软模形式从动力学上证实了二级相变，二者共同支撑"在该方圆形费米面上存在耦合的自旋-电荷密度波"这一核心论断，并为布拉格光谱实验探测提供了可观测信号。
@@ -122,9 +118,8 @@ D. Makogon, I. B. Spielman, C. Morais Smith，2012，EPL (Europhysics Letters) 9
   - project-1（双光子）、project-3（机械发光 NN）、project-5（SnTe 铁电模拟）、project-6（湿度传感器）：无直接项目连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 - 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
   文章按"实验方案 → 有效紧束缚哈密顿量 → 单粒子能带与费米面 → 多体 SO(3,1)×SO(3,1) 理论 → 静态失稳（图2a）→ 动态软模（图2b-d）→ 结论"的经典理论物理链条推进，每一步都给出可被实验检验的参数（Ω_R、Ω_rf、φ、μ、U/t）。论证上先建立单粒子图像，再以相互作用 U 为旋钮展示从零声到软模的演化，逻辑闭环清晰。值得在 wiki 叙述中复用的术语：

@@ -10,12 +10,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/lvUnconventionalHystereticTransition2022]]
-projects: [project-7, project-5]
+projects: [project-5]
 concepts: [charge-density-wave, 2d-materials, hysteresis, interlayer-phase-coupling, incommensurate-cdw, metastability, order-parameter, double-well]
 entities: [EuTe4, RTe3]
 methods: [electrical-transport, arpes, xrd, xanes, electron-diffraction, landau-ginzburg]
 materials: [EuTe4]
-figures: [crystal-structures, electronic-bands, mathematical-models]
+figures: [electronic-bands-cdw-transport, electronic-bands-dos-fermi, heterostructures-stacking]
 领域基础知识:: >-
   滞后现象（Hysteresis）是系统状态依赖于历史路径的一种非平衡响应，在凝聚态物理中普遍存在。电荷密度波（Charge Density Wave, CDW）是低维材料中电子密度的一种周期性调制，常伴随晶格畸变，是研究滞后与亚稳态的理想平台。公度（Commensurate）与非公度（Incommensurate）是描述电荷密度波周期与晶格周期关系的术语，当二者之比为无理数或非简单分数时即为非公度。
 研究背景:: >-
@@ -40,9 +40,7 @@ tags:
   - paper
   - type/experiment
   - year/2022
-  - project/project-7
   - project/project-5
-  - relevance/project-7/core
   - relevance/project-5/weak
   - concept/charge-density-wave
   - concept/2d-materials
@@ -84,9 +82,7 @@ B. Q. Lv, Alfred Zong, D. Wu, A. V. Rozhkov, Boris V. Fine, Su-Di Chen, et al.�
   - 概念 [[../concepts/interlayer-phase-coupling|层间相位耦合]]
   - 概念 [[../concepts/metastability|亚稳态]]
   - 实体 [[../entities/RTe3|RTe₃ 稀土三碲化物]]
-  - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/electronic-bands]]
-  - 图表 [[../figures/mathematical-models]]
   - 图表 [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - 年度 [[../write/2022]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
@@ -96,22 +92,22 @@ B. Q. Lv, Alfred Zong, D. Wu, A. V. Rozhkov, Boris V. Fine, Su-Di Chen, et al.�
   - `EuTe4`（entity）— 四碲化铕，准二维层状CDW材料，原胞含Te单层（Te0）和Te双层（Te1/Te2），CDW波矢q_CDW=0.643(3)b*，能隙196 meV。
 
 ## 📊 关键图表
-  - ![图1 EuTe4中的非公度CDW：晶体结构、XRD卫星峰、ARPES费米面与能带色散（Eg=196 meV）](../../raw/figures/lvUnconventionalHystereticTransition2022/fig_1_Q6SSGDZ3.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - ![图1 EuTe4中的非公度CDW：晶体结构、XRD卫星峰、ARPES费米面与能带色散（Eg=196 meV）](../../raw/figures/lvUnconventionalHystereticTransition2022/fig_1_Q6SSGDZ3.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：六联图给出EuTe₄中CDW的静态表征。(a)晶体结构，黑线标出原胞，包含Te双层（Te1/Te2）与Te单层（Te0）两种近正方形Te原子层；(b)室温透射X射线衍射图，布拉格峰两侧可见沿b轴的CDW卫星峰；(c)沿(0,K,10)方向的高分辨X射线强度扫描，电子衍射看到的单个CDW峰劈裂为一次、二次谐波两个卫星峰；(d)室温ARPES费米面无明显强度对比；(e)20 K下E_F以下0.2 eV的等能轮廓出现CDW折叠带；(f)55 K沿C1切向的能带色散。
   - **关键特征**：精确测得CDW波矢 q_CDW = 0.643(3)b*（非2/3，证明非公度）；由衍射峰宽估算关联长度面内≥77 nm、面外≥107 nm，为长程有序；55 K时Γ̄–X̄方向最大单粒子能隙 Eg = 196(7) meV，对应平均场T_c下限约646 K；折叠带的锐利出现与能隙内谱权重完全缺失，佐证CDW具有长程相位相干。
   - **结论/意义**：把EuTe₄锚定为一个长程、非公度、大能隙的CDW基态，为后续在其内部观测到巨滞回提供基准参照。
 
-  - ![图2 电阻率巨热滞回线（>400 K）及CDW波矢在整个温区内不变](../../raw/figures/lvUnconventionalHystereticTransition2022/fig_2_IR4WWUA2.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图2 电阻率巨热滞回线（>400 K）及CDW波矢在整个温区内不变](../../raw/figures/lvUnconventionalHystereticTransition2022/fig_2_IR4WWUA2.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - **图示描述**：(a)沿a轴测量的电阻率–温度曲线，黑箭头指示升/降温方向，在80–400 K范围内形成巨大滞回环，标注T1–T5为后续定点测量位置；插图为30 K和300 K的电子衍射图。(b)在滞回线上T2、T4、T5三点测的沿Γ̄–X̄方向ARPES能带强度。(c)由X射线衍射得到的CDW波矢随温度变化，误差棒来自两个独立卫星峰反推q_CDW的差值。
   - **关键特征**：滞回环温度宽度 > 400 K，是已知晶体固体中的最大纪录；插图中30 K与300 K电子衍射均存在CDW卫星斑点，证明滞回完全位于CDW相内部（是major loop内的minor loop，major loop上沿>500 K）；三个温度点的ARPES能带除热展宽与整体刚性能量移动外无重整化或新折叠；q_CDW在整个温区实验误差内不变，直接排除非公度–公度转变机制。
   - **结论/意义**：确立了"CDW相内、波矢不变"的非常规滞回现象，把它与传统金属–CDW相变及IC–C转变区分开。
 
-  - ![图3 CDW能隙Eg和一级衍射峰积分强度I_CDW的滞回行为，证明滞回源于序参量振幅变化](../../raw/figures/lvUnconventionalHystereticTransition2022/fig_3_6R9M3JH7.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图3 CDW能隙Eg和一级衍射峰积分强度I_CDW的滞回行为，证明滞回源于序参量振幅变化](../../raw/figures/lvUnconventionalHystereticTransition2022/fig_3_6R9M3JH7.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - **图示描述**：(a)在同一晶粒上连续完成两个50 K→400 K→50 K热循环，ARPES在E1动量点测得的最大前沿能隙Eg随温度演化；插图为180 K两个连续升温分支的能量分布曲线。(b)一级CDW衍射峰积分强度I_CDW（按400 K→42 K→400 K→300 K序列末尾300 K值归一化）随温度的变化，对应布拉格峰本身无滞回。
   - **关键特征**：Eg在两个热循环中均呈现与电阻率一致的滞回，且循环间几乎完全重合，排除高温放气污染表面；约120 K处的转折被解释为化学势移动；I_CDW ∝ Δ²（序参量振幅平方），其同样表现滞回而布拉格峰不滞回，定量说明前沿能隙的滞回主要来自CDW能隙本身而非化学势；整体现象学为"升温分支平均CDW振幅更强 → 能隙更大 → 电阻率更高"。
   - **结论/意义**：把宏观电阻率滞回的微观载体锁定为CDW序参量振幅，而非化学势或载流子浓度漂移。
 
-  - ![图4 候选机制排除：XANES排除价态转变、老化实验估算势垒>1 eV、RTe3/EuTe4结构对比、层间相位切换模型](../../raw/figures/lvUnconventionalHystereticTransition2022/fig_4_TWS8WWQT.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图4 候选机制排除：XANES排除价态转变、老化实验估算势垒>1 eV、RTe3/EuTe4结构对比、层间相位切换模型](../../raw/figures/lvUnconventionalHystereticTransition2022/fig_4_TWS8WWQT.png) -> [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：四格图系统排除已知机制并提出新模型。(a)43–325 K范围内Eu L₃边XANES谱，插图为Ba₀.₉₃Eu₀.₀₇Al₂O₄参考样；(b)完成400 K→20 K→300 K热循环后立即在300 K测的电阻率随时间衰减，插图为相对于ρ₀的百分比变化–对数时间图及对数拟合；(c)RTe₃与EuTe₄的结构对比示意；(d)Te单层与Te双层CDW的两种面外构型（同相φ=0、反相φ=π）。
   - **关键特征**：XANES全温区只出现Eu²⁺峰、无Eu³⁺信号，排除价态转变；老化曲线在3000 min内准对数衰减幅度<10%，与升降温分支间数量级差异相比可忽略；用τ~3000 min、ν₀~1 THz估算势垒 w ~ k_BT ln(ν₀τ) > 1 eV（室温k_BT≈26 meV），且扫速从0.15到10 K/min变化时滞回几乎不变，排除强玻璃态；结构对比指出RTe₃仅有Te双层而EuTe₄多出Te单层，由此提出相对相位自由度，自由能取 F = F₀ + a(T)cos φ + b cos²φ，φ=0与φ=π近简并，两态切换即巨滞回来源。
   - **结论/意义**：通过排除法和与RTe₃的对照，把>400 K的巨滞回归因于准二维体系独有的层间CDW相对相位切换，并给出材料判据（非等效电中性层、共享波矢、载流子耗尽、弱屏蔽）。
@@ -123,7 +119,6 @@ B. Q. Lv, Alfred Zong, D. Wu, A. V. Rozhkov, Boris V. Fine, Su-Di Chen, et al.�
   - 其余项目无直接连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 
 ## 📝 组织与用词

@@ -11,12 +11,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/gaoGiantChiralMagnetoelectric2024a]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-2, project-3, project-4, project-6]
 concepts: [2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, spin-orbit-coupling, topological-defects]
 entities: [VASP, domain-wall]
 methods: [afm-pfm, berry-phase, dft, dft-plus-u, raman, tight-binding, xanes]
 materials: [domain-wall]
-figures: [crystal-structures, electronic-bands, experimental-setups, mathematical-models, optical-spectra]
+figures: [crystal-structures-bulk, mathematical-models-magnetoelectric, optical-spectra]
 领域基础知识:: >-
   手性（Chirality）是自然界的基本属性，可由晶格几何或磁结构产生。磁致手性体体现在第II类多铁性体（Type-II Multiferroics）中，其磁序与电序通过磁电耦合（Magnetoelectric Coupling）效应紧密纠缠。自然光学活性（Natural Optical Activity）是手性材料中光偏振面旋转的效应，其强度可由动态磁电耦合张量（α(ω)）描述。范德华（van der Waals）材料为实现二维极限下的多铁性提供了新平台。
 研究背景:: >-
@@ -41,20 +41,14 @@ tags:
   - paper
   - type/experiment
   - year/2024
-  - project/project-1
-  - relevance/project-1/medium
   - project/project-2
   - relevance/project-2/weak
   - project/project-3
   - relevance/project-3/medium
   - project/project-4
   - relevance/project-4/weak
-  - project/project-5
-  - relevance/project-5/core
   - project/project-6
   - relevance/project-6/medium
-  - project/project-7
-  - relevance/project-7/medium
   - concept/2D-materials
   - concept/berry-phase
   - concept/density-functional-theory
@@ -77,13 +71,10 @@ tags:
   - topic/domain-walls
   - topic/ferroelectricity
   - topic/ferromagnetism
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/optical-spectra
   - topic/polarization
   - topic/topological-defects
-  - topic/two-photon-fluorescence
 ---
 
 ## gaoGiantChiralMagnetoelectric2024a — 范德瓦尔斯多铁材料中的巨手性磁电振荡
@@ -128,11 +119,11 @@ Frank Y. Gao, Xinyue Peng, Xinle Cheng 等（共 16 位作者，Angel Rubio、Ed
   - 相关论文 **gaoGiantChiralMagnetoelectric2024a**
 
 ## 📊 关键图表
-  - ![图1 NiI₂ 晶体结构、手性螺旋、电磁振子](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_1_8V5GWLM9.png) -> [[../figures/vibrational-spectra|振动能谱与声子谱]]
+  - ![图1 NiI₂ 晶体结构、手性螺旋、电磁振子](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_1_8V5GWLM9.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
     - **图示描述**：六联图总览 NiI₂ 的结构-磁序-激发：(a) 左旋/右旋自旋螺旋示意图展示磁致手性；(b) 高温 R3̄m 菱方晶格中 Ni（蓝）被 I（红）八面体包围形成三角晶格层；(c) THM≈60 K 以下 (001) 面内 proper-screw 螺旋序，传播矢量 q=(0.138a*,0,1.457c*)，面内分量 qin 垂直于沿 y ∥ C₂ 轴的电极化 P；(d) 2.4 K 下 σ⁺/σ⁻ 圆偏振低频拉曼谱；(e) DFT 在 7×1 单层超胞算得的电磁振子能量-动量色散；(f) EMo/EMe 的自旋进动本征矢及 ΔP、ΔM 矢量方向。
     - **关键特征**：零场冷下 TAFM≈75 K 进入共线 AFM、THM≈60 K 进入螺旋多铁相；σ⁺/σ⁻ 拉曼在 4.09 meV（~0.99 THz，EMo，C₂-奇）与 4.51 meV（~1.09 THz，EMe，C₂-偶）出现不对称双峰，直接显示手性；DFT 给出区心 EMo≈3.92 meV、EMe≈4.30 meV，与实验吻合；EMo 的 ΔP、ΔM 垂直 C₂ 轴，EMe 平行 C₂ 轴；基态二维 Pel=5.3×10⁻¹³ C m⁻¹，EMo 电偶极矩 do=2.5 μB/c、EMe de=10.3 μB/c。
     - **结论/意义**：建立了"非共线螺旋 → 逆 DM 诱发电极化 → 一对低能电磁振子"的理论图像，预测 Im[αii]≈10⁴ ps m⁻¹ 的巨大动态磁电耦合，为后续 tr-SHG/tr-RKerr 实验提供模式辨认依据。
-  - ![图2 静态与瞬态 SHG 偏振测量](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_2_S3NZQZ25.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图2 静态与瞬态 SHG 偏振测量](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_2_S3NZQZ25.png) -> [[../figures/optical-spectra|光学光谱]]
     - **图示描述**：SHG 偏振与时间分辨测量四/六联图：(a) 对映纯畴上平行（蓝）/交叉（红）偏振配置下静态 SHG 强度随温度变化，插图为 THM 以上六重、以下二重的偏振花瓣；(b) 交叉偏振、探测光 φ=0°（⊥C₂）、泵浦通量 1.10 mJ cm⁻² 下 tr-SHG 振荡随温度的瀑布图；(c,e) 平行/交叉配置下延迟 1.9 ps（蓝）和 2.2 ps（红）的偏振切片；(d,f) 2.4 K、1.65 mJ cm⁻² 下 tr-SHG 信号随延迟时间与探测偏振角 φ 的二维图。
     - **关键特征**：进入多铁相时 SHG 强度急剧增强，偏振图案由六重对称变为二重对称，C₂ 轴锁定在 φ=90°，对应点群 2 的单一对映纯畴；升温时 EMo 振荡幅度衰减、频率软化，至 THM≈60 K 消失（扩展数据图 2 给出软化曲线）；平行配置（d）在偏振-时间轴上保持稳定相位，是单模响应；交叉配置（f）出现叶瓣数在四叶/二叶间交替并逐渐失相，是 EMo 与 EMe 拍频干涉的指纹。
     - **结论/意义**：该图确立了"SHG 选畴 + 亚带隙冷泵浦 + 各向异性 tr-SHG"的方法学，把电极化矢量 ΔP(t) 在 xy 面内的完整相干动力学可视化，并分离出 EMo、EMe 两个电磁振子。
@@ -140,7 +131,7 @@ Frank Y. Gao, Xinyue Peng, Xinle Cheng 等（共 16 位作者，Angel Rubio、Ed
     - **图示描述**：五联图综合 tr-SHG 与 tr-RKerr 通道：(a) 从图 2d,f 反演的二阶非线性极化率张量元 Δχ⁽²⁾(t)（点）及阻尼振子拟合（线），按频率分红/蓝两组；(b) 拟合所得 EMo、EMe 能量与 tr-RKerr 提取频率的对照；(c) ΔPx、ΔPy 相对静态 P0 的平面轨迹；(d) 0.55–1.65 mJ cm⁻² 多种泵浦通量下极向 tr-RKerr 信号；(e) tr-SHG 与 tr-RKerr 中 EMo 振荡初始相位 Φ 随泵浦通量的变化，误差棒为 95% 置信区间。
     - **关键特征**：tr-SHG 同时分辨 EMo（C₂-奇张量元，红）和 EMe（C₂-偶张量元，蓝），tr-RKerr 只见 EMo 不见 EMe，因 C₂-偶 EMe 无面外磁化分量；ΔP 矢量在 xy 面内走出椭圆率渐变的螺旋轨迹，源自两模拍频；所有泵浦通量下 tr-SHG 与 tr-RKerr 的 EMo 初始相位恒差 π/2，与 DFT/自旋模型预测的正交调制一致。
     - **结论/意义**：π/2 相位差是自然光学活性（NOA）的动力学指纹，将电极化通道与磁化通道解耦并直接比较相位，排除了旋光双折射（GB）等同张量其他效应，从实验上锁定了手性磁电耦合的本质。
-  - ![图4 电磁振子动态磁电耦合与材料对比](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_4_VW7A6NTD.png) -> [[../figures/vibrational-spectra|振动能谱与声子谱]]
+  - ![图4 电磁振子动态磁电耦合与材料对比](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_4_VW7A6NTD.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
     - **图示描述**：两联图量化磁电耦合强度：(a) 在泵浦通量 1.65 mJ cm⁻² 下，将 tr-SHG（蓝）和 tr-RKerr（红）信号转换为投影到 κ 轴的电极化 ΔPκ（10⁻¹⁶ C m⁻¹）和磁化 ΔMκ（10⁻⁸ A）随延迟时间的振荡，并与 DFT 加唯象阻尼的理论曲线（阴影）对比；(b) 在不同多铁/螺旋磁体材料中反演的太赫兹动态磁电耦合常数 α(ω)（单位 ps m⁻¹）随能量（meV）汇总，蓝圆为 NOA、红三角为 GB。
     - **关键特征**：实验 ΔPκ、ΔMκ 曲线清晰呈现 π/2 相位差且幅值与 DFT 阴影高度吻合；沿 EMo 调制轴 κ 提取 Im{ακκ}=11×10³ ps m⁻¹（~4 meV/1 THz），与 DFT 理论值 12×10³ ps m⁻¹ 一致；对应旋光率 η≈1000° mm⁻¹，比 CuO、CuFe₀.₉₆₅Ga₀.₀₃₅O₂ 等螺旋磁体以及 Ba₂CoGe₂O₇、Eu₀.₇Y₀.₃MnO₃、(Fe,Zn)₂Mo₃O₈ 等单相多铁中的 GB/定向二向色性高出约两个数量级。
     - **结论/意义**：定量坐实"巨（giant）"字——NiI₂ 单畴中的 THz 自然光学活性为已知螺旋磁体之最；DFT 与紧束缚/推广自旋流模型把该增强归因于非共线自旋 + I 上 λ≈0.5 eV 强 SOC + Ni–I 间 t/Δ≈0.33 的异常强 d–p 杂化三者协同的纯电子逆 DM 机制。
@@ -163,13 +154,10 @@ Frank Y. Gao, Xinyue Peng, Xinle Cheng 等（共 16 位作者，Angel Rubio、Ed
   - **project-7 CDW**：引言提到 CDW 也可在非手性晶格中产生手性，但正文不涉及 CDW，无直接连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 - 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
 - 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 - 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
   - 文章按"理论先行预测 → SHG 选畴 → 泵浦-探测双通道实验 → 相位/强度量化 → DFT 机理回归"的闭环组织；先给 DFT 预测的两个电磁振子与 αij 量级，再用实验证实 π/2 相位差与 11×10³ ps m⁻¹，最后用推广自旋流模型解释为何如此大。

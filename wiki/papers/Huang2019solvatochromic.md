@@ -15,7 +15,7 @@ concepts: [solvatochromism, two-photon-absorption, two-photon-fluorescence, intr
 entities: [stilbene, DCS, dicyanostilbene-1a, dicyanostilbene-1b, dimethylamino, diphenylamino, cyano-group, glycerol, DMSO, fluorescein, quinine-bisulfate]
 methods: [uv-vis-spectroscopy, fluorescence-spectroscopy, two-photon-excited-fluorescence, tpa-cross-section-measurement, nmr-spectroscopy, mass-spectrometry, wittig-horner-reaction, solvent-polarity-correlation]
 materials: [P1, P2, DCS]
-figures: [optical-spectra]
+figures: []
 领域基础知识:: >-
   双光子荧光（Two-Photon Fluorescence, TPF）利用近红外光作为激发源，具有深层组织穿透、低光毒性和高空间分辨率等优点，是生物成像的前沿技术。溶剂化变色（Solvatochromism）是指荧光分子发射光谱随环境极性改变而红移或蓝移的现象。双光子吸收截面（Two-Photon Absorption Cross Section, δ，单位GM）是衡量分子双光子吸收能力的核心指标，数值越大，分子在双光子激发下“越亮”。
 研究背景:: >-
@@ -231,7 +231,7 @@ Huang, Peng, Fan et al.，2019，*American Journal of Biomedical Science & Resea
   3. TPA 截面 δmax 在环己烷高达 6670 GM，在 DMF 降至 1450 GM（正文另给"非极性 5560 GM / DMF 130 GM"的极值说法，两组数据并存），激发窗口位于 800-840 nm，正好处于生物成像光学窗口 700-1000 nm。
   4. 分子设计关键：在二苯乙烯同一芳环的邻位与间位同时引入两个氰基——既作为强吸电子基稳定电荷分离的 ICT 态、降低跃迁能、增大激发态偶极矩，又直接扩展 π 共轭体系，从而同时提升 δ 和 Φ；P1 用二甲氨基（强给体），P2 用二苯氨基（弱给体、空间位阻大），P2 变色范围约 156 nm、δ 整体偏低。
   5. 质子性溶剂（HBD，如醇类）通过氢键稳定基态给体（二甲氨基），使基态能量下降，相对非质子极性溶剂产生蓝移；发射波数（cm⁻¹）与 ET(30)、Z、δΔG≠、π*、Δf 线性拟合 r² 分别为 0.90、0.90、0.90、0.85、0.82（P2 与 π* 的 r² 达 0.96），证明响应主要由偶极性/极化率驱动。
-  6. 首次在[[../concepts/two-photon-excitation|[[../concepts/biphoton|双光子]]激发]]下观察到[[../concepts/triple-fluorescence|三重荧光]]：B 带（~410 nm，LE/¹Lb）、A 带（~485 nm，TICT/¹La）、E 带（~542 nm，分子间 Exciplex）。E 带在单光子发射中几乎不可见（强度低、寿命短，且单/双光子选择定则不同），在纯甘油中因高粘度阻碍分子间碰撞而消失。
+  6. 首次在[[../concepts/two-photon-excitation|双光子激发]]下观察到[[../concepts/triple-fluorescence|三重荧光]]：B 带（~410 nm，LE/¹Lb）、A 带（~485 nm，TICT/¹La）、E 带（~542 nm，分子间 Exciplex）。E 带在单光子发射中几乎不可见（强度低、寿命短，且单/双光子选择定则不同），在纯甘油中因高粘度阻碍分子间碰撞而消失。
   7. 粘度响应：B 带强度随甘油比例（粘度）单调增强（高粘度抑制 LE 的非辐射扭转）；TPE 中 A 带强度先快速下降后回升，呈非单调行为；低浓度（10⁻⁶ M）下 Ia/Ib 随粘度增加而减小，高浓度（3×10⁻⁶ M）下反而增大，说明浓度必须严格控制。
   8. 温度响应（甘油中）：A 带随升温红移（粘度下降、[[../concepts/solvent-relaxation|溶剂弛豫]]更充分、达到更低能量的溶剂化平衡态），B 带相对强度下降（升温有利于 LE→TICT 转化）；这使 P1 同时是一种热致变色探针。
   9. 合成路线：2,5-二甲基对苯二甲腈（4）经 NBS/BPO 苄位溴代得（5），再与 P(OEt)₃ 反应生成膦酸酯（6），最后与 4-二甲氨基苯甲醛（或 4-二苯氨基苯甲醛）在 NaH/THF 下经 Wittig-Horner 缩合得 P1（黄色粉末，产率 65%，mp 256-257 °C，C₁₉H₁₇N₃）/P2（绿色晶体，62%，mp 213-214 °C，C₂₉H₂₁N₃）。

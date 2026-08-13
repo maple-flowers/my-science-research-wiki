@@ -16,7 +16,7 @@ concepts: [berry-phase, density-functional-theory, ferroelasticity, magnetoelect
 entities: [BiFeO3, HoMnO3]
 methods: [berry-phase, dft, tight-binding]
 materials: [BiFeO3, HoMnO3]
-figures: [crystal-structures, electronic-bands]
+figures: [crystal-structures-bulk, electronic-bands-band-structures, electronic-bands-cdw-transport, electronic-bands-dos-fermi, electronic-devices-memory-transistors, mathematical-models-computational, vibrational-spectra]
 领域基础知识:: >-
   多铁性材料指在同一相中同时具有铁电性（自发极化）、铁磁性（自发磁化）或铁弹性中的两种 or 以上性质的材料。钙钛矿氧化物（ABO₃）是研究铁电性和磁性的核心结构。铁电性的微观机制常与B位离子d⁰构型和A/B位离子与氧的共价杂化有关，而磁性则要求过渡金属离子有未填满的d轨道。
 研究背景:: >-
@@ -91,33 +91,66 @@ Nicola A. Hill，2000，*The Journal of Physical Chemistry B* 104(29), 6694-6709
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/hillWhyAreThere2000a]]
 ## 📊 关键图表
-  - ![图1 顺磁/铁磁/反铁磁磁偶极子排列](../../raw/figures/hillWhyAreThere2000a/fig_1_IBXL696E.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图1 顺磁/铁磁/反铁磁磁偶极子排列](../../raw/figures/hillWhyAreThere2000a/fig_1_IBXL696E.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - **图示描述**：示意三种基本磁结构中原子磁偶极矩（小箭头）的排列方式，(a) 顺磁态方向随机，(b) 铁磁态全部平行排列，(c) 反铁磁态相邻偶极矩反向平行。
   - **关键特征**：顺磁态高温下热运动主导，宏观磁矩为零；铁磁态产生非零净磁化并可被外场翻转；反铁磁态虽微观有序但宏观磁矩相消。该图为讨论"磁性要求部分填充 d 轨道并发生自旋有序"提供直观定义。
-  - ![图2 铁磁/亚铁磁体磁滞回线](../../raw/figures/hillWhyAreThere2000a/fig_2_KKS5BNZD.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图2 铁磁/亚铁磁体磁滞回线](../../raw/figures/hillWhyAreThere2000a/fig_2_KKS5BNZD.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
   - **图示描述**：横轴为外加磁场 H，纵轴为磁感应强度 B（或磁化强度 M），描绘铁磁/亚铁磁体在循环外场下的闭合磁滞回线，并标出饱和磁感应 Bs、剩余磁感应 Br 和矫顽力 Hc。
   - **关键特征**：撤去外场后保留剩磁 Br 是磁存储的物理基础；反向矫顽场 Hc 决定数据保持的稳定性；近方形回线适合存储，窄回线适合变压器铁芯。作者以此说明多铁材料若同时具备电极化与磁滞回线，将可承载多态存储等新功能。
-  - ![图5 立方钙钛矿ABO3结构](../../raw/figures/hillWhyAreThere2000a/fig_5_WE9Z7I8I.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图5 立方钙钛矿ABO3结构](../../raw/figures/hillWhyAreThere2000a/fig_5_WE9Z7I8I.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：ABO3 立方钙钛矿晶胞的球棍模型，大 A 阳离子占据立方体八个顶角，小 B 阳离子位于体心，被六个灰色氧阴离子构成的正八面体包围。
   - **关键特征**：B 位离子处于氧八面体中心，居里温度以下沿 <111> 或 <100> 方向偏心位移即可产生自发极化；A 位离子半径与 A–O 共价性会通过晶格应变远程影响铁电稳定性。此结构是讨论 d0 规则与 BiMnO3、YMnO3 两个反例的共同结构起点。
-  - ![图6 B位阳离子双势阱势能](../../raw/figures/hillWhyAreThere2000a/fig_6_77XXFCEF.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图6 B位阳离子双势阱势能](../../raw/figures/hillWhyAreThere2000a/fig_6_77XXFCEF.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：横轴为 B 位阳离子相对氧八面体中心的位移，纵轴为势能，绘出钙钛矿铁电体典型的"W"形双势阱曲线，左右两个极小值对应两种相反方向的偏心位置。
   - **关键特征**：高温顺电相离子在中心附近振动，越过势垒在两阱间往返；低温铁电相离子"冻结"于某一势阱，产生可被电场翻转的自发极化；软模理论中该势垒对应铁电声子频率在 Tc 处软化至零。它把位移型铁电相变浓缩为一个唯象图像，也是后文判断"d 电子占据是否填平双势阱"的判据。
-  - ![图7 立方顺磁LaMnO3与BiMnO3态密度对比](../../raw/figures/hillWhyAreThere2000a/fig_7_QKCZVNU3.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图7 立方顺磁LaMnO3与BiMnO3态密度对比](../../raw/figures/hillWhyAreThere2000a/fig_7_QKCZVNU3.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：左右并列两幅 DFT 态密度图，分别为立方顺磁相 LaMnO3 和 BiMnO3，能量范围约 -12 eV 到 4 eV，费米能级置零，宽峰 -7~-2 eV 为 O 2p，其上为经晶体场劈裂的 Mn 3d t2g/eg 子带。
   - **关键特征**：两图中费米能级均切入 Mn 3d t2g 高态密度区，预示立方相应发生自旋极化或结构畸变；BiMnO3 在 -12~-10 eV 多出一条孤立的 Bi 6s 占据带，LaMnO3 无对应峰；Bi 6p 与 O 2p 形态显著不同，为 Bi–O 共价杂化提供第一手证据。
-  - ![图9 Γ-X方向能带（标注对称性）](../../raw/figures/hillWhyAreThere2000a/fig_9_3UYZVE62.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图9 Γ-X方向能带（标注对称性）](../../raw/figures/hillWhyAreThere2000a/fig_9_3UYZVE62.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
   - **图示描述**：沿简单立方布里渊区 Γ→X 方向的能带放大图，以实线标出 Δ1 对称性能带、虚线为其余能带，并在 Γ、X 点旁标注 X1、X'4 等不可约表示，能量轴向下延伸以纳入低能 O 2s 与 La 5p 半芯态。
   - **关键特征**：LaMnO3 中两条 O 2p Δ1 带从 Γ 到 X 单调下降、Mn 3d Δ1 带单调上升，可用仅含 Mn 3d/O 2p 的基组良好拟合；BiMnO3 中强色散的 Bi 6p Δ1 带穿越 Mn 3d Δ1 带并在 X 附近落入费米能级以下，使 X 点电荷密度出现明显 Bi 分量，正是紧束缚拟合必须引入 Bi 6s/6p 轨道的原因。
-  - ![图14 不稳定铁电声子模式本征矢](../../raw/figures/hillWhyAreThere2000a/fig_14_5IHZ4TQ3.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图14 不稳定铁电声子模式本征矢](../../raw/figures/hillWhyAreThere2000a/fig_14_5IHZ4TQ3.png) -> [[../figures/vibrational-spectra|振动光谱]]
   - **图示描述**：两幅晶胞示意图以箭头表示 Γ 点不稳定光学声子的原子位移方向与相对振幅，(a) 为铁电型不稳定模，大的 A 位（Bi/La）阳离子与氧笼反向运动；(b) 为非铁电模，主要由赤道面氧原子转动构成。
   - **关键特征**：BiMnO3 铁电模虚频约 82.30i cm⁻¹，约为 LaMnO3（21.1i cm⁻¹）的两倍，不稳定性显著更强；本征矢中 Mn 与氧同向移动、几乎不主导位移，与 BaTiO3 中 Ti 驱动的图像相反；这说明 BiMnO3 的铁电性由 A 位 Bi–O 共价性驱动，绕开了对 B 位 d0 的要求。
-  - ![图15 六方钙钛矿（YMnO3，Mn为5配位）](../../raw/figures/hillWhyAreThere2000a/fig_15_7LK5BGXG.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图15 六方钙钛矿（YMnO3，Mn为5配位）](../../raw/figures/hillWhyAreThere2000a/fig_15_7LK5BGXG.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：YMnO3 六方钙钛矿（P63cm）高温顺电结构，展示密排氧层的 ABC–ACB 堆垛，Mn 位于五配位三角双锥位置，Y/稀土占据七配位空隙。
   - **关键特征**：Mn 由立方相的 6 配位八面体变为 5 配位三角双锥（dsp3 杂化），配位多面体本身缺乏反演中心，为铁电偶极提供"结构双阱"；Y3+ 半径过小无法稳定立方钙钛矿，转而稳定该六方相；铁电居里温度约 914 K，奈尔温度约 80 K，是结构驱动绕开 d0 规则的代表。
-  - ![表1 紧束缚参数（BiMnO3/LaMnO3/YMnO3）](../../raw/figures/hillWhyAreThere2000a/tab_1_KSG7PGTX.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![表1 紧束缚参数（BiMnO3/LaMnO3/YMnO3）](../../raw/figures/hillWhyAreThere2000a/tab_1_KSG7PGTX.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
   - **图示描述**：表格列出对 Γ→X 方向从头算能带做非线性最小二乘拟合得到的紧束缚参数，E 为轨道能、V 为最近邻（下标 2 为次近邻）原子间转移积分，单位 eV，对照 BiMnO3、LaMnO3、YMnO3 三种体系。
   - **关键特征**：仅用 Mn 3d + O 2s/2p 基组即可拟合 LaMnO3 与 YMnO3，RMS 偏差均约 0.20 eV，说明其物理由 Mn–O 杂化主导；BiMnO3 须加入 Bi 6s/6p 轨道才能把 RMS 从 0.25 eV 降到 0.12 eV，其中 σ 型 Bi 6p–O 2p 转移积分比 Bi 6s–O 2p 还大约 30%；YMnO3 因晶格常数 3.84 Å 小于 LaMnO3 的 3.95 Å，Mn–O 重叠增大约 10%，除此之外与 LaMnO3 几乎一致。
+  - ![图3 第一过渡系金属3d/4s态密度（Stoner模型）](../../raw/figures/hillWhyAreThere2000a/fig_3_KF5RZXYU.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
+  - **图示描述**：纵轴为能量E，横轴为态密度D(E)，示意第一过渡系金属（Mn—Zn）的3d（实线）与4s（虚线）能带相对位置及费米能级；3d带窄而态密度高，4s带宽而态密度低。
+  - **关键特征**：Fe、Co、Ni的费米能级落在高态密度的3d带中，满足Stoner铁磁性条件；Cu、Zn的3d带填满或接近填满而无磁性，说明磁性需要费米面处未填满的d电子。
+  - ![图4 考虑交换劈裂后的自旋分辨3d/4s态密度](../../raw/figures/hillWhyAreThere2000a/fig_4_EARW8FVH.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
+  - **图示描述**：纵轴为能量，左右横轴分别为自旋向上与自旋向下的态密度，展示引入交换作用后3d带与4s带的自旋劈裂；多数自旋与少数自旋能带发生相对刚性位移。
+  - **关键特征**：交换劈裂使上下自旋能带占据数不等，从而产生净磁矩；Ni处多数自旋3d带填满而少数自旋未填满，解释了非整数原子磁矩，也表明磁性要求d轨道部分占据。
+  - ![图8 立方顺磁LaMnO3与BiMnO3的能带结构对比](../../raw/figures/hillWhyAreThere2000a/fig_8_MSLGTV6D.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
+  - **图示描述**：上下两幅能带图分别为立方顺磁相LaMnO3和BiMnO3，能量范围约-12~4 eV，高对称路径为Γ-X-M-Γ-X-M-R-X；右侧标注主要轨道成分La 5d/Mn 3d/O 2p与Bi 6p/Mn 3d/O 2p/Bi 6s。
+  - **关键特征**：BiMnO3在-12~-10 eV出现孤立的Bi 6s占据带，Bi 6p带位于O 2p之上并与Mn 3d存在较强杂化，为A位孤对电子驱动铁电性提供了电子结构证据。
+  - ![图10 LaMnO3与BiMnO3的Δ1能带及紧束缚拟合（有限基组）](../../raw/figures/hillWhyAreThere2000a/fig_10_YF7NY83P.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
+  - **图示描述**：左右两幅Δ1对称性能带图对比LaMnO3与BiMnO3，黑色圆点为从头算结果，实线为紧束缚拟合；拟合基组仅含Mn 3d与O 2s/2p。
+  - **关键特征**：LaMnO3的Δ1能带可被Mn-O基组较好复现，RMS约0.20 eV；BiMnO3的拟合明显偏离，RMS约0.25 eV，说明仅用Mn-O杂化无法描述其能带，必须引入Bi轨道。
+  - ![图11 含Bi 6s/6p的BiMnO3 Δ1能带紧束缚拟合](../../raw/figures/hillWhyAreThere2000a/fig_11_HSHQJEE8.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
+  - **图示描述**：BiMnO3沿Γ-Δ-X的Δ1对称性能带，黑点为从头算结果，实线为加入Bi 6s/6p轨道后的紧束缚拟合。
+  - **关键特征**：引入Bi轨道后拟合质量显著提高，RMS降至约0.12 eV；Bi 6p Δ1带被压低并与Mn 3d带交叉，显示Bi-O强共价杂化是BiMnO3电子结构的关键。
+  - ![图12 立方铁磁LaMnO3与BiMnO3的自旋极化态密度](../../raw/figures/hillWhyAreThere2000a/fig_12_8EBRM8X3.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
+  - **图示描述**：上下两幅自旋极化总态密度图分别为立方铁磁LaMnO3和BiMnO3；实线代表自旋向上（正轴），虚线代表自旋向下（负轴），费米能级置零。
+  - **关键特征**：BiMnO3低能区出现Bi 6s峰，Mn 3d自旋劈裂导致上下自旋占据不对称；顺磁态中观察到的Bi-O共价特征在铁磁相中依然保留，说明Bi驱动机制不依赖于磁序。
+  - ![图13 立方铁磁LaMnO3与BiMnO3的自旋分辨能带结构](../../raw/figures/hillWhyAreThere2000a/fig_13_N92KZA4L.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
+  - **图示描述**：四幅能带图展示立方铁磁LaMnO3与BiMnO3的少数自旋（上排）和多数自旋（下排）能带沿Γ-X-M-Γ-X-M-R-X的色散。
+  - **关键特征**：自旋极化后两种材料仍保持与顺磁计算类似的差异；BiMnO3少数自旋导带具有Bi 6p成分，为文中讨论的电子铁电性可能提供了能带结构线索。
+  - ![图16 立方顺磁YMnO3的能带结构](../../raw/figures/hillWhyAreThere2000a/fig_16_6C4XYQXL.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
+  - **图示描述**：立方顺磁YMnO3的能带结构，能量范围约-10~4 eV，高对称路径为Γ-X-M-Γ-X-M-R-X；右侧标注Y 3d、Mn 3d、O 2p主要成分。
+  - **关键特征**：与LaMnO3类似，费米能级切入Mn 3d带，Y 3d位于高能区且与O 2p杂化弱，表明Y-O键以离子性为主；其电子结构与LaMnO3高度相似，预示铁电性并非来自电子机制。
+  - ![图17 YMnO3沿Γ-Δ-X的Δ1能带及紧束缚拟合](../../raw/figures/hillWhyAreThere2000a/fig_17_L8PJ9YZR.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
+  - **图示描述**：YMnO3沿Γ-Δ-X的Δ1对称性能带，包含从头算数据与紧束缚拟合曲线；图中标注了各能带的对称性编号与轨道成分。
+  - **关键特征**：紧束缚参数与LaMnO3接近，仅因晶格常数较小导致Mn-O重叠增大约10%；该图说明立方相YMnO3的成键由Mn-O杂化主导，支持其铁电性源自六方结构而非A位共价性。
+  - ![图18 立方铁磁YMnO3的自旋分辨能带结构](../../raw/figures/hillWhyAreThere2000a/fig_18_VQVK3KW3.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
+  - **图示描述**：两幅能带图展示立方铁磁YMnO3的少数自旋与多数自旋能带沿Γ-X-M-Γ-X-M-R-X的色散。
+  - **关键特征**：自旋极化后YMnO3能带与LaMnO3铁磁能带类似，无Bi 6s/6p导致的额外低能带；进一步证明Y³⁺离子半径效应通过稳定六方相而非改变电子结构来实现多铁性。
+  - ![表2 BiMnO3含Bi 6s/6p的紧束缚参数](../../raw/figures/hillWhyAreThere2000a/tab_2_PN4ZSH3D.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
+  - **图示描述**：表2列出对BiMnO3含Bi 6s/6p基组的紧束缚拟合参数，包括轨道能量E（如E_Bi6s≈-10.31 eV）与原子间转移积分V（如Bi 6p-O 2p σ≈-1.06 eV），单位eV。
+  - **关键特征**：Bi 6p-O 2p σ转移积分强度比Bi 6s-O 2p大约30%，Bi 6p-Bi 6p σ作用也很大；这些参数将Δ1能带拟合RMS降至0.12 eV，量化了Bi-O共价杂化对BiMnO3能带的决定性作用。
 
 ## 🔬 项目连接
 project-2 Mn多铁。本文系统研究BiMnO3、YMnO3、LaMnO3等锰基钙钛矿中磁性与铁电性的共存机制，提出d0规则及孤对电子/几何结构两条破局路径，是Mn基多铁材料设计的经典理论基石。

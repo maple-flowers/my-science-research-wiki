@@ -15,7 +15,7 @@ concepts: [two-photon-polymerization, two-photon-absorption, voxel, photoinitiat
 entities: [SU-8, AR-N-4340, thioxanthone-photoinitiator, AOM, LabVIEW, AFM, piezo-nanopositioning-stage, sub-nanosecond-laser]
 methods: [two-photon-polymerization, laser-direct-writing, afm, optical-microscopy, theoretical-modeling, spin-coating, photolithography-process]
 materials: [SU-8, AR-N-4340, 2-4-diethyl-9H-thioxanthen-9-one]
-figures: [mathematical-models, experimental-setups, optical-micrographs, afm-topography]
+figures: [electronic-devices-memory-transistors, experimental-setups, mathematical-models-formulas]
 领域基础知识:: >-
   双光子聚合（TPP）是一种基于双光子吸收（TPA）非线性效应的微纳加工技术。其吸收速率与光强平方成正比，能将光化学反应局域在焦点中心的极小体积内，从而实现超越衍射极限的3D结构制造。体素（Voxel）是其最小构建单元。
 研究背景:: >-
@@ -69,7 +69,6 @@ tags:
   - material/SU-8
   - material/AR-N-4340
   - material/2-4-diethyl-9H-thioxanthen-9-one
-  - topic/two-photon-fluorescence
   - topic/microfabrication
   - topic/photopolymerization
   - topic/nonlinear-optics
@@ -104,7 +103,7 @@ Raghwendra Kumar, S. Anantha Ramakrishna，2017，Current Science，112(08): 166
   - `threshold-effect`（阈值效应）：光聚合需超过最小剂量阈值，使实际固化区远小于光斑，是突破衍射极限的关键。
   - `diffraction-limit`（衍射极限）：传统光学聚焦的最小尺度限制；TPP 通过 I² 非线性与阈值将特征尺寸压缩至 FWHM 的 1/√2 以下。
 ## 📊 关键图表
-  - ![图1 TPP原理与体素尺寸理论预测（I vs I²、阈值效应、D 随驻留时间/功率/NA 变化）](../../raw/figures/Kumar2017microstructuring/fig_1_2SW9UPB2.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图1 TPP原理与体素尺寸理论预测（I vs I²、阈值效应、D 随驻留时间/功率/NA 变化）](../../raw/figures/Kumar2017microstructuring/fig_1_2SW9UPB2.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
   - **图示描述**：四联体原理示意图。(a) 对比高斯光束强度 I 与 I² 的空间分布与 FWHM；(b) 用强度曲线与聚合阈值水平虚线说明阈值效应如何把固化区压缩到焦点中心；(c) (d) 为由公式 (5) 预测的体素宽度 D 随驻留时间、平均功率和物镜 NA 的理论曲线（λ = 532 nm，f = 10 kHz）。
   - **关键特征**：
     - I² 曲线的 FWHM 比 I 曲线窄约 √2 倍，是非线性吸收压缩特征尺寸的根本机制；
@@ -113,7 +112,7 @@ Raghwendra Kumar, S. Anantha Ramakrishna，2017，Current Science，112(08): 166
     - NA 越高（如 1.3、1.4）D 越小，说明高 NA 物镜是高分辨率的主要途径；
     - 在精细聚焦条件下，驻留时间与 NA 对 D 的影响比平均功率更显著。
   - **结论/意义**：给出后续工艺优化和图 5、图 6 实验数据拟合的理论框架，所有理论曲线使用拟合得到的 E'_th ≈ 6.6×10⁻⁷³ W²/m⁴ 绘制。
-  - ![图2 亚纳秒双光子激光直写系统光路示意与实物照片](../../raw/figures/Kumar2017microstructuring/fig_2_ENZRABLZ.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图2 亚纳秒双光子激光直写系统光路示意与实物照片](../../raw/figures/Kumar2017microstructuring/fig_2_ENZRABLZ.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：(a) 自研亚纳秒激光直写系统光路与控制流程示意图；(b) 系统实物照片。光路自激光器 (L) 经声光调制器 (AOM)、高反镜、二向色镜进入倒置显微镜物镜，聚焦到由 3D 压电台 (3DPS) 承载的样品 (SH)，CCD (C) 经二向色镜实时监控，全部由 LabVIEW 协同控制。
   - **关键特征**：
     - 光源为 Bright Solutions Wedge_532_1064，脉宽 700 ps，同时输出 532 nm 与 1064 nm，二向色镜只保留 532 nm；
@@ -122,7 +121,7 @@ Raghwendra Kumar, S. Anantha Ramakrishna，2017，Current Science，112(08): 166
     - 整机置于 Newport 浮式防震台，配 Nikon Eclipse Ti-s 倒置显微镜与 50×/100× 高 NA 物镜；
     - CAD 笛卡尔坐标经文本文件导入 LabVIEW，同时驱动位移台与 AOM。
   - **结论/意义**：以全商用、低成本组件构成完整的 TPP 直写平台，是论文"廉价替代飞秒系统"论断的硬件证据。
-  - ![图3 SU-8/AR-N 4340 中制备的 2D 光栅、微盘、IIT Kanpur 校徽、6 μm 3D 微柱阵列](../../raw/figures/Kumar2017microstructuring/fig_3_YY3P3QFG.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图3 SU-8/AR-N 4340 中制备的 2D 光栅、微盘、IIT Kanpur 校徽、6 μm 3D 微柱阵列](../../raw/figures/Kumar2017microstructuring/fig_3_YY3P3QFG.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：五联结构展示图。(a) (b) 为 SU-8 中二维光栅和二维微盘阵列的 AFM 三维形貌；(c) 为 IIT Kanpur 校徽的光学显微镜照片；(d) 为 SU-8 中三维微柱阵列的光学显微镜照片；(e) 为在 AR-N 4340 中制备的二维微盘阵列。统一工艺参数：平均功率 1.2 mW、写入速度 100 μm/s、重复频率 10 kHz、NA = 0.8 物镜。
   - **关键特征**：
     - AFM 三维形貌显示光栅与微盘阵列周期规整、高度均匀，证明 2D 周期结构能力；
@@ -131,7 +130,7 @@ Raghwendra Kumar, S. Anantha Ramakrishna，2017，Current Science，112(08): 166
     - AR-N 4340 上同样可形成规则微盘，表明材料方案具有普适性；
     - 所有结构使用同一组温和参数即获得良好形貌，工艺窗口较宽。
   - **结论/意义**：从 2D 阵列、复杂图案到 3D 微柱、跨两种光刻胶，全面验证了自研系统的多功能加工能力。
-  - ![图4 1.3 NA 油浸物镜获得的高分辨光栅 AFM 形貌，线轮廓 FWHM ≈ 500 nm](../../raw/figures/Kumar2017microstructuring/fig_4_HUGYSKHH.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图4 1.3 NA 油浸物镜获得的高分辨光栅 AFM 形貌，线轮廓 FWHM ≈ 500 nm](../../raw/figures/Kumar2017microstructuring/fig_4_HUGYSKHH.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：使用 100×、NA = 1.3 油浸物镜在 SU-8 中写出的二维光栅 AFM 形貌图，插图为沿选定线条测得的高度剖面（横轴位置 μm，纵轴高度 nm）。工艺参数：平均功率 1.0 mW、写入速度 200 μm/s、重复频率 10 kHz。
   - **关键特征**：
     - 插图剖面的半高全宽（FWHM）约 500 nm，是本系统达到的最佳线宽；
@@ -139,7 +138,7 @@ Raghwendra Kumar, S. Anantha Ramakrishna，2017，Current Science，112(08): 166
     - 对应图 1d 中高 NA 曲线的小体素预测，理论与实验一致；
     - 该分辨率被作者定位为可与飞秒系统"可比"的亚微米水平。
   - **结论/意义**：500 nm FWHM 是论文核心性能指标，直接支撑"亚纳秒+商用胶即可达亚微米分辨率"的中心结论。
-  - ![图5 不同峰值强度（2.5–5.7 GW/cm²）与写入速度（300–1600 μm/s）下微线条的 AFM 形貌与高度剖面](../../raw/figures/Kumar2017microstructuring/fig_5_5NHRW2UU.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![图5 不同峰值强度（2.5–5.7 GW/cm²）与写入速度（300–1600 μm/s）下微线条的 AFM 形貌与高度剖面](../../raw/figures/Kumar2017microstructuring/fig_5_5NHRW2UU.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：工艺参数扫描结果。(a) 为不同激光峰值强度下写出的微线条阵列 AFM 形貌，从左至右峰值强度由 5.7 递减至 2.5 GW/cm²；(b) 为不同写入速度下的微线条 AFM 形貌，从左至右速度由 300 增至 1600 μm/s；(c) (d) 分别为 (a) (b) 对应线条的高度剖面。
   - **关键特征**：
     - 峰值强度最高的最左两条线出现树脂损伤，最右一条因低于阈值而线条不连续，中间区段为可用工艺窗口；
@@ -148,7 +147,7 @@ Raghwendra Kumar, S. Anantha Ramakrishna，2017，Current Science，112(08): 166
     - 高度剖面给出比形貌图更定量的宽/高变化，用于图 6 数据提取；
     - 图 5b 左起第四条微线被选为 E'_th 拟合基准线。
   - **结论/意义**：以单参数扫描同时呈现损伤阈值、聚合阈值和最优窗口，为图 6 的定量拟合和工艺优化提供原始数据。
-  - ![图6 线宽 FWHM 对峰值强度与写入速度的定量依赖，与阈值模型拟合一致](../../raw/figures/Kumar2017microstructuring/fig_6_JCA8NIX8.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![图6 线宽 FWHM 对峰值强度与写入速度的定量依赖，与阈值模型拟合一致](../../raw/figures/Kumar2017microstructuring/fig_6_JCA8NIX8.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
   - **图示描述**：由图 5 提取的线宽 FWHM 与工艺参数的定量关系。(a) 横轴为激光峰值强度（GW/cm²），纵轴为线宽（μm）；(b) 横轴为写入速度（μm/s），纵轴同为线宽 FWHM（μm）；数据点带误差棒，并叠加由公式 (5) 用 E'_th = 6.6×10⁻⁷³ W²/m⁴ 生成的理论拟合曲线。
   - **关键特征**：
     - 线宽随峰值强度呈非线性单调增加，误差棒反映多次测量的离散度；
@@ -160,11 +159,11 @@ Raghwendra Kumar, S. Anantha Ramakrishna，2017，Current Science，112(08): 166
   - **图示描述**：双光子吸收能量密度变化速率方程 dW/dt = (8π²ω)/(c n²) I² Im[χ⁽³⁾]。W 为单位体积吸收能量，ω 为光角频率，c 为真空光速，n 为折射率，I 为光强，χ⁽³⁾ 为介质三阶非线性极化率。
   - **关键特征**：速率正比于 I²，使 TPA 仅在焦点高峰值强度区发生；Im[χ⁽³⁾] 决定材料双光子吸收强度，是引入大截面光引发剂的理论依据。
   - **结论/意义**：这是全文所有阈值与体素公式的出发点，也是"非线性压缩光斑"论证的物理基础。
-  - ![公式3 高斯光束强度分布 I(r,z)](../../raw/figures/Kumar2017microstructuring/eq_3_HDYU79KZ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式3 高斯光束强度分布 I(r,z)](../../raw/figures/Kumar2017microstructuring/eq_3_HDYU79KZ.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
   - **图示描述**：高斯光束沿径向 r 与轴向 z 的强度分布 I(r,z) = 2P/[π w(z)²] exp[−2(r/w(z))²]，其中 P 为平均功率，w(z) 为 z 平面处的光斑半径。
   - **关键特征**：径向呈高斯衰减；束腰处振幅最大；离焦后 w(z) 增大、峰值强度下降，决定体素只在焦点附近形成。
   - **结论/意义**：与阈值条件结合即可积分出体素宽 D 与深 L，是公式 (5)、(6) 的直接来源。
-  - ![公式4 束宽 w(z) 随离焦量 z 的变化](../../raw/figures/Kumar2017microstructuring/eq_4_8XWIF9CQ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式4 束宽 w(z) 随离焦量 z 的变化](../../raw/figures/Kumar2017microstructuring/eq_4_8XWIF9CQ.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
   - **图示描述**：高斯光束束宽沿传播方向的演化式 w(z) = w₀ [1 + (z/z_R)²]^(1/2)，其中 w₀ 为束腰半径，z_R 为瑞利长度，二者均由 λ 和 NA/n 决定。
   - **关键特征**：NA 越大，w₀ 与 z_R 同时缩小；轴向聚焦越深，束宽按二次方展宽；该式把物镜 NA 纳入体素深度方向的计算。
   - **结论/意义**：解释了高 NA 物镜同时压缩体素横向和纵向尺寸的原因，为图 1d 的 NA 扫描曲线提供依据。

@@ -11,12 +11,12 @@ paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Delley2000]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-4, project-5, project-7]
 concepts: [density-functional-theory]
 entities: [VASP]
 methods: [dft]
 materials: []
-figures: [crystal-structures, electronic-bands]
+figures: [electronic-bands-band-structures, mathematical-models-computational, mathematical-models-simulations]
 领域基础知识:: >-
   密度泛函理论 (DFT) 是计算化学与材料科学中求解多电子体系电子结构的主流方法。它通过将多体问题简化为单电子在有效势场中运动的问题，极大地降低了计算复杂度。其数值实现通常基于不同的基组展开，如平面波、高斯轨道与数值原子轨道。计算固体时，需处理周期性边界条件，并通过布里渊区积分对电子态求和。
 研究背景:: >-
@@ -41,18 +41,10 @@ tags:
   - paper
   - type/theory
   - year/2000
-  - project/project-1
-  - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/weak
-  - project/project-3
-  - relevance/project-3/medium
   - project/project-4
   - relevance/project-4/weak
   - project/project-5
   - relevance/project-5/strong
-  - project/project-6
-  - relevance/project-6/medium
   - project/project-7
   - relevance/project-7/medium
   - concept/density-functional-theory
@@ -61,11 +53,8 @@ tags:
   - topic/2d-materials
   - topic/charge-density-wave
   - topic/ferroelectricity
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/polarization
-  - topic/two-photon-fluorescence
 ---
 
 ## Delley2000 — 从分子到固体的 DMol3 方法
@@ -96,27 +85,35 @@ B. Delley，2000，*The Journal of Chemical Physics* 113(18), 7756–7764，DOI 
 
 ## 📊 关键图表
   - **图 1：Si 原胞总能量随倒空间网格阶数的收敛性**
-  - ![Si原胞总能量随倒空间网格阶数的指数收敛](../../raw/figures/Delley2000/fig_1_4IAQM378.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![Si原胞总能量随倒空间网格阶数的指数收敛](../../raw/figures/Delley2000/fig_1_4IAQM378.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
   - **图示描述**：纵轴为 Si 原胞总能量相对于收敛极限的差值（单位 mHa，1 Ha ≈ 27.2114 eV），横轴为 Monkhorst–Pack 倒空间网格阶数；实心点为包含 Γ 点的未平移网格，空心点为平移网格（shifted meshes）。
   - **关键特征**：随网格阶数从 2 增至 14，总能量差呈典型的**指数收敛**，这是绝缘体/半导体因带隙存在、被积函数光滑的标志；平移网格在同阶数下误差普遍低于未平移网格（如 10 阶平移与 14 阶未平移相当），但考虑对称性约化后两者特殊 k 点数接近（14 阶未平移 104 个、10 阶平移 110 个）；默认 δk = 0.03 a.u. 对应 Si 原胞取 6 阶网格。
   - **结论/意义**：证明对绝缘体只需用倒空间网格间距（而非绝对 k 点数）作为先验收敛控制变量，为小带隙半导体（如 SnTe 顺电相）的 k 点收敛测试建立了标准范式。
   - **图 2：Cu 原胞总能量随 k 网格阶数的幂律收敛**
-  - ![Cu原胞总能量随k网格阶数的幂律收敛，Bloechl修正显著优于线性四面体法](../../raw/figures/Delley2000/fig_2_93PFNGDX.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![Cu原胞总能量随k网格阶数的幂律收敛，Bloechl修正显著优于线性四面体法](../../raw/figures/Delley2000/fig_2_93PFNGDX.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：纵轴为金属 Cu 原胞总能量差（mHa），横轴为 k 网格阶数；圆点表示启用 Bloechl 二阶（费米面曲率）修正的四面体法，三角形表示线性四面体法，实心/空心分别对应未平移/平移网格。
   - **关键特征**：与 Si 不同，Cu 因费米面切割部分填充能带，总能量随网格阶数按**幂律**缓慢收敛；Bloechl 修正曲线在所有阶数下都比线性四面体法低数个量级的误差，显著加速金属 k 点积分；Cu 原胞默认取 8 阶网格；二阶修正会在部分 k 点引入负占据权重（积分总占据仍正定），可结合有限温度占据或高斯展宽抑制 SCF 虚假振荡。
   - **结论/意义**：确立了金属/CDW 等含费米面体系必须使用 Bloechl 四面体积分并加密 k 网格的方法论准则，是 project-7 等金属态电子结构计算的直接参考。
   - **图 3：石墨能带结构与态密度**
-  - ![石墨能带结构与态密度，K–H线简并显示半金属特性](../../raw/figures/Delley2000/fig_3_PJKJZSMX.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![石墨能带结构与态密度，K–H线简并显示半金属特性](../../raw/figures/Delley2000/fig_3_PJKJZSMX.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
   - **图示描述**：左半为石墨沿 Γ–M–K–H 高对称路径的能带色散（纵轴能量，eV，以费米能级 E_F 为零），右半为对应的态密度 DOS（states/eV，能量轴与左侧对齐）；采用 BP 泛函、未平移 12×12×4 k 网格及实验几何（a = 246 pm，c = 680 pm）。
   - **关键特征**：在 K–H 线上价带顶与导带底简并并恰好穿过 E_F，带隙为零；E_F 处 DOS 非零但极小，形成经典"V 形"伪隙，印证石墨为**半金属**；DOS 中的峰对应能带中较平坦、电子态富集的区段；PWC 给出 c/a = 2.694（偏小），GGA/PBE/B88PW91 分别高估 c/a 约 13.8%、14.5%、25%，但 c 轴膨胀对应的总能变化仅约 1 mHa/原子。
   - **结论/意义**：既展示了 DMol3 计算半金属能带的能力，也暴露了 GGA 对石墨层间弱键描述失效的问题，为后续 vdW-DF/DFT-D 修正提供了经典基准。
   - **图 4：六方固体 6×6×n 未平移 k 网格在 ab 面的投影**
-  - ![六方固体6×6×n未平移k网格在ab面的投影，特殊k点以粗体标出](../../raw/figures/Delley2000/fig_4_LTYPR8VY.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![六方固体6×6×n未平移k网格在ab面的投影，特殊k点以粗体标出](../../raw/figures/Delley2000/fig_4_LTYPR8VY.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：将三维 6×6×n 未平移 Monkhorst–Pack 网格投影到六方晶格的 ab 倒格面上；普通圆圈表示倒格点，粗体点表示经空间群对称性约化后需显式计算的"特殊 k 点"。
   - **关键特征**：要让网格点恰好落在 K–H 线（石墨半金属简并线）上，ab 面网格阶数必须为 3 的倍数；因此能带/DOS 展示用 12×12×4，而日常性质计算为避免 E_F 处简并导致的虚假占据，选用 8×8×4 网格（ab 面阶数不是 3 的倍数，避开 K–H 采样问题）；该示意图是对称性约化与 k 网格设计的直观教具。
   - **结论/意义**：解释了石墨类六方体系 k 点选择的几何约束，对层状/二维材料的收敛性测试具有普遍指导意义。
   - **表 I–VI（以表格图片形式收录）**
   - 表 I（Cu 随截断半径 Rc 收敛，PWC 下 Rc > 9 a.u. 晶格常数稳定在 0.1% 内、B ≈ 174 GPa，BP 使晶格膨胀约 2%、B 降至 113 GPa）、表 II（Si 与 FLAPW 对照：同泛函下能量差 < 1 mHa、晶格差 0.1%、体模量差 3%；加 f/g 极化将 KS 带隙从 0.59 eV 降至约 0.50 eV 收敛值）、表 III（Si 零点振动能随超胞从 2 原子 1.10 收敛到 64 原子 1.41 kcal/mol/原子，16 原子超胞即达 ~0.1 kcal/mol 精度）、表 IV（PWC 错判金刚石比石墨稳定 1.2 mHa/原子，BP 正确给出石墨稳定 3.9 mHa/原子≈2.4 kcal/mol）、表 V（G2 集 148 分子：BP 平均绝对偏差 5.9 kcal/mol、rms 8.0；PBE 用实验原子参考时偏差大，改用自洽 H/N/O/F/Cl 分子与 C/Si/S 固体参考态后显著改善）、表 VI（C/Si/S 气态原子生成焓分解，含结合能、洪特规则增益、零点能等贡献）以表格图片形式收录于 `raw/figures/Delley2000/tab_0_FNPDC6W7.png`、`tab_298_S38GC7X5.png`
+  - **表I 不同截断半径Rc下分子/固体结构性质的基准测试**
+    - **图示描述**：对比数值原子轨道基组的不同截断半径（Rc=8、10、12、11-d、10-g）与FLAPW、10-BP方法所得的总能误差Et与Es、带隙Eg、晶格常数相对误差a及体模量B。
+    - **关键特征**：Rc=8时Et=4.5 mHa、B=108 GPa；Rc增至10/12后Et降到3.3 mHa，与FLAPW参考值（Et=3.3 mHa、B=97 GPa）一致，说明Rc=10已足够收敛；10-BP给出带隙0.67 eV、体模量90 GPa。
+    ![表I 不同截断半径Rc下分子/固体结构性质的基准测试](../../raw/figures/Delley2000/tab_0_FNPDC6W7.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
+  - **表II 石墨、硅、α-S8的DMol3原子化能与298 K生成热**
+    - **图示描述**：列出石墨、硅、α-S8的价层能量Es、非球形势能Ens、零点振动能E0v、热焓修正Eth及298 K生成热ΔHf，并与实验值逐项对照。
+    - **关键特征**：石墨ΔHf计算169.63 vs 实验169.98 kcal/mol（吻合极好）；硅99.58 vs 106.6、α-S8 60.33 vs 65.66，偏差约6-7 kcal/mol，反映共价固体中基组与泛函的系统性欠束缚。
+    ![表II 石墨、硅、α-S8的DMol3原子化能与298 K生成热](../../raw/figures/Delley2000/tab_298_S38GC7X5.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
 
 ## 🔬 项目连接
   - **project-4 TTF 分子计算**：直接方法参考。(1) DMol3 本就是分子 DFT 代码，文中详述数值原子轨道基组在分子中的精度来源（分离原子极限精确解 + 少量极化函数），与项目中 TTF 有机分子晶体的 DFT 参考计算选型直接相关；(2) 表 V 对 G2 集 148 个中性分子的生成焓系统标定（BP 平均绝对偏差约 6 kcal/mol，PBE 用计算原子参考态后接近 BP），为评估 TTF 分子内/分子间键能、生成焓的泛函选择提供定量依据；(3) 文中零点振动能与 298 K 热修正随超胞尺寸的收敛（16 原子超胞即可达 ~0.1 kcal/mol，表 III）可作为 TTF 晶体声子/热力学修正的收敛标准；(4) 对石墨层间弱键在 GGA 下被严重削弱（c/a 高估 14–25%）的讨论，对 TTF 晶体 π–π 堆叠/层间作用能的泛函与色散修正选择具有警示价值（需 DFT-D/vdW-DF），与项目中用 UFF/MACE/DeepMD 描述层间作用的验证逻辑相通。
@@ -126,12 +123,8 @@ B. Delley，2000，*The Journal of Chemical Physics* 113(18), 7756–7764，DOI 
   - **project-1 双光子、project-3 机械发光 NN、project-6 湿度传感器**：无直接项目连接（本文为电子结构 DFT 方法学，不涉及双光子吸收、神经网络势建模或湿敏器件物理）。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
 - 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
 - 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词

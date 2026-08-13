@@ -10,12 +10,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/H2017fluorescence]]
-projects: [project-1]
+projects: []
 concepts: [two-photon-absorption, solvatochromism, thermo-solvatochromism, intramolecular-charge-transfer, twisted-intramolecular-charge-transfer, exciplex, locally-excited-state, d-pi-a-architecture, solvent-relaxation, fluorescence-sensing]
 entities: [P1, dicyanostilbene, P2]
 methods: [steady-state-uv-vis-fluorescence, two-photon-excited-fluorescence, two-photon-cross-section, wittig-horner-synthesis, linear-solvation-energy-relationship]
 materials: [P1, P2]
-figures: [optical-spectra]
+figures: []
 领域基础知识:: >-
   双光子荧光（TPF）探针是用于生物成像的重要工具，其性能关键参数包括双光子吸收截面（δ）和荧光响应性。溶剂化变色探针通过改变发射波长（而非仅仅强度）来响应环境极性，信号更准确。理想的 TPF 溶剂化变色探针需兼具宽光谱响应范围、大 δ 和小分子尺寸。
 研究背景:: >-
@@ -40,8 +40,6 @@ tags:
   - paper
   - type/experiment
   - year/2017
-  - project/project-1
-  - relevance/project-1/strong
   - concept/two-photon-absorption
   - concept/solvatochromism
   - concept/thermo-solvatochromism
@@ -111,7 +109,6 @@ Chibao Huang、Junle Qu，2017，*Biomarkers Journal*，DOI 10.21767/2472-1646.1
   - 其他项目（project-2 Mn多铁、project-3 机械发光NN、project-4 TTF分子计算、project-5 SnTe铁电模拟、project-6 湿度传感器、project-7 CDW）均无内容参考价值，不列入。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 
 ## 📝 组织与用词
 论文按“分子设计与合成 → 溶剂化变色（图1-2，表1）→ 温度/粘度依赖与三重荧光（图3）→ 浓度依赖与激发态归属 → 双光子截面与机理（ICT-溶剂弛豫-TICT）→ 结论”的递进结构组织。图3 是全文核心证据，浓度依赖（补充图 S3-S6）用于区分 TICT（分子内）与 Exciplex（分子间）。值得在 wiki 叙述中复用的术语：双光子吸收截面（two-photon absorption cross-section, δ / GM）；溶剂化显色（solvatochromism）；给体-π-受体（D-π-A / push-pull chromophore）；分子内电荷转移（intramolecular charge transfer, ICT）；扭曲分子内电荷转移（twisted intramolecular charge transfer, TICT）；局域激发态（locally excited state, LE）；激基复合物（exciplex）；双光子三重荧光（two-photon triple fluorescence）。
@@ -120,7 +117,7 @@ Chibao Huang、Junle Qu，2017，*Biomarkers Journal*，DOI 10.21767/2472-1646.1
   1. P1（2,5-二氰基-4-甲基-4′-二甲氨基[[../entities/stilbene|二苯乙烯]]）由二甲氨基苯甲醛与（2,5-二氰基-4-甲基苄基）膦酸二乙酯经 NaH 存在下的 Wittig-Horner 缩合制得，产率 65%；P2（二苯氨基类似物）产率 62%。
   2. P1 吸收峰几乎不随溶剂变化（约 396–409 nm），而发射峰从环己烷 445 nm 红移至 DMSO 641 nm，位移达 196 nm，覆盖整个可见光区；这种“吸收不变、发射大变”的特征使其可以用单一激发波长检测不同极性环境。
   3. 发射峰波数与 ET(30)、Kosower Z、δΔG≠ 的线性相关系数 r²=0.90，与 π* 为 0.85，与 Lippert-Mataga Δf 为 0.82，表明广义溶剂极性（偶极-偶极 + 氢键）主导光谱响应；质子溶剂因氢键稳定基态而相对非质子极性溶剂蓝移（EtOH 606 nm < DMF 634 nm）。
-  4. [[../concepts/two-photon-excitation|[[../concepts/biphoton|双光子]]激发]]峰位于 790 nm（生物成像窗口 700–1000 nm 内）；δmax 在环己烷中高达 5560 GM，在强极性 DMF 中仅 130 GM，相差约 43 倍，归因于激发态从平面共轭构型向非共面 TICT 构型的转变。
+  4. [[../concepts/two-photon-excitation|双光子激发]]峰位于 790 nm（生物成像窗口 700–1000 nm 内）；δmax 在环己烷中高达 5560 GM，在强极性 DMF 中仅 130 GM，相差约 43 倍，归因于激发态从平面共轭构型向非共面 TICT 构型的转变。
   5. 甘油中升温（20→70 °C）使 A 带（1La，TICT）和 B 带（1Lb，LE）均红移，B 带相对强度下降；单光子（λex=410 nm）与双光子（λex=790 nm）变化趋势一致，说明两种激发方式布居到相同发光态。
   6. 甘油-乙醇混合体系中，双光子激发下随粘度增加：B 带（LE）单调增强；A 带（TICT）先快速下降后增强；位于 542 nm 的 E 带（Exciplex）在中等粘度出现、纯甘油中消失；单光子下 E 带未被观察到，作者归因于其强度低、寿命短，双光子焦点处高局部激发态浓度促进了分子间 Exciplex 形成。
   7. 浓度依赖：低浓度（10⁻⁶ M）下 IA/IB 随粘度增加而降低，高浓度（3×10⁻⁶ M）下则相反；E 带强度随 P1 浓度增大而增强，支持其分子间 Exciplex 归属。

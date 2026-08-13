@@ -21,7 +21,7 @@ materials:
   - carbazole
   - BCPC
   - BCPB
-figures: [crystal-structures, optical-spectra]
+figures: []
 领域基础知识:: >-
   力致发光(ML)是材料在机械力刺激下发光的现象。有机ML材料相比无机物具有柔性、易修饰等优点，但通常发光寿命极短（纳秒级），限制了其实际应用。有机长余辉(Afterglow)材料可通过主客体掺杂等策略实现长达毫秒甚至秒级的发光寿命，但其激发源通常是光而非机械力。
 研究背景:: >-

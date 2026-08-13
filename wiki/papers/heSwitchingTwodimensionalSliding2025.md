@@ -16,7 +16,7 @@ concepts: [2D-materials, berry-phase, ferroelasticity, machine-learning-potentia
 entities: [In2Se3, TMDs, VASP, WTe2, Wannier90, domain-wall, h-BN]
 methods: [berry-phase, dft, mlip, neb]
 materials: [In2Se3, TMDs, WTe2, domain-wall, h-BN]
-figures: [crystal-structures, domain-walls, heterostructures-stacking, mathematical-models]
+figures: [domain-walls-structures, heterostructures-stacking, mathematical-models-elasticity-strain]
 领域基础知识:: >-
   二维范德华（vdW）材料层内为强共价键、层间为弱范德华作用，层间相对平移所产生的"堆垛序"是调控电学、光学、磁学和拓扑性质的关键自由度。当非极性单层以不对称方式堆叠（如 h-BN 的 AB 堆叠）时，层间电荷转移会产生垂直层面的自发极化，极化方向可通过层间微小滑移反转，即"滑动铁电性"，已在双层 WTe2、h-BN、3R-MoS2、MoTe2 中实验观测到。滑动铁电的翻转由软"滑动声子"模触发，相比传统离子位移型铁电体具有更快、更耐疲劳的潜力。二维材料还具有极低的弯曲刚度和高断裂强度，可产生比氧化物异质外延大几个数量级的应变梯度。
 研究背景:: >-
@@ -104,26 +104,25 @@ Ri He, Hua Wang, Fenglin Deng, Yuxiang Gao, Bingwen Zhang, Yubai Shi, Run-Wei Li
   - 实体 [[../entities/VASP]]、[[../entities/Wannier90]]（极化计算方法背景）
   - 实体 [[../entities/bilayer-graphene|双层石墨烯]]（非极性二维体系，验证机制不依赖铁电性）
   - 图表 [[../figures/domain-walls]]
-  - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/heterostructures-stacking]]
   - 图表 [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
   - 图表 [[../figures/mathematical-models]]（能量竞争模型公式1-3）
   - 年度 [[../write/2025]]
   - 相关论文 **heSwitchingTwodimensionalSliding2025**
 ## 📊 关键图表
-  - ![图1 双层h-BN在不同初始弯曲角θ下弛豫后的原子结构：θ<12°恢复平面，12°<θ<62°形成31°单扭结，θ>62°形成31°+57°双扭结](../../raw/figures/heSwitchingTwodimensionalSliding2025/fig_1_HAQT3EAV.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图1 双层h-BN在不同初始弯曲角θ下弛豫后的原子结构：θ<12°恢复平面，12°<θ<62°形成31°单扭结，θ>62°形成31°+57°双扭结](../../raw/figures/heSwitchingTwodimensionalSliding2025/fig_1_HAQT3EAV.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：图1以侧视原子结构展示双层 h-BN 从平面 AB 堆叠出发，沿 x 轴人为施加初始弯曲角 θ 后再做全原子弛豫得到的最终构型；(a) 为理想圆弧示意，(b)–(d) 分别对应小、中、大三种 θ 下弛豫后的平面、单扭结和双扭结形态。
   - **关键特征**：弯曲区特征长度 12.3 nm，层间滑移量满足几何关系 Δd = θ·D（D 为层间距 3.25 Å）；θ < 12° 时回弹为平面（θ₀ = 0°），12° < θ < 62° 时形成角度固定的 31° 单扭结，θ > 62° 时出现 31° + 57° 紧邻双扭结；扭结卸载后不回弹，属于不可逆塑性重构，区别于常规二维薄片的弹性弯曲。
   - **结论/意义**：该图给出"弯曲不形成平滑圆弧而形成离散扭结"这一核心现象的直接原子证据，奠定全文能量竞争解释的结构基础。
-  - ![图2 (a)层间滑动路径上的堆垛能景观（AB/BA为极小值，SP/AA为极大值）；(b)弛豫后角度θ₀随初始θ的阶梯状关系，临界角12°和62°](../../raw/figures/heSwitchingTwodimensionalSliding2025/fig_2_ZQQMMCBF.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图2 (a)层间滑动路径上的堆垛能景观（AB/BA为极小值，SP/AA为极大值）；(b)弛豫后角度θ₀随初始θ的阶梯状关系，临界角12°和62°](../../raw/figures/heSwitchingTwodimensionalSliding2025/fig_2_ZQQMMCBF.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：图2把结构现象与能量景观对应起来：(a) 横轴为弯曲驱动的层间滑移路径、纵轴为堆垛能，绘出 AB/BA 极小值与 SP/AA 极大值构成的双势阱；(b) 横轴为初始弯曲角 θ、纵轴为弛豫后角度 θ₀，显示三段离散平台。
   - **关键特征**：AB、BA 为全局能量极小（稳定极化堆垛），SP（鞍点）和 AA 为能量极大（不稳定堆垛）；到达 SP 对应 Δd = 0.71 Å、θ = 12°，到达 AA 对应 Δd = 2.84 Å、θ = 62°；θ₀–θ 曲线在 12° 和 62° 处发生跳变，把弯曲响应切成 0°、31°、31°+57° 三个离散态。
   - **结论/意义**：该图从能量学上解释了扭结角度为何固定、临界角为何是 12° 和 62°，把几何滑移量与堆垛能垒直接定量对应起来。
-  - ![图3 弯曲h-BN中的极化纹理：(a)31°扭结为Néel型畴壁（SP堆垛核心，极化面内旋转），(b)57°扭结为Ising型畴壁（AA堆垛核心，极化过零反向），(c)AB→SP→BA→AA→AB循环切换示意](../../raw/figures/heSwitchingTwodimensionalSliding2025/fig_3_H6HN8MAN.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图3 弯曲h-BN中的极化纹理：(a)31°扭结为Néel型畴壁（SP堆垛核心，极化面内旋转），(b)57°扭结为Ising型畴壁（AA堆垛核心，极化过零反向），(c)AB→SP→BA→AA→AB循环切换示意](../../raw/figures/heSwitchingTwodimensionalSliding2025/fig_3_H6HN8MAN.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：图3在扭结原子结构上叠加极化矢量箭头，(a)(b) 分别给出 31° 和 57° 扭结的侧视/顶视图及极化分布，(c) 为 AB→SP→BA→AA→AB 循环堆垛切换的概念示意。
   - **关键特征**：31° 扭结以 SP 堆垛为核心，构成 Néel 型畴壁——极化大小基本不变、方向在面内平滑旋转 180°，畴壁中心极化完全位于面内；57° 扭结以 AA 堆垛为核心，构成 Ising 型畴壁——极化在中心降为零后再反向长出；两类畴壁均可把面外极化从向上翻为向下，且几乎不伴随离子垂直位移。
   - **结论/意义**：该图证明弯曲诱导扭结在晶体学上即铁电拓扑畴壁，把"机械弯曲—层间滑移—极化翻转"串成完整机制，并明确区别于由应变梯度驱动离子位移的传统挠曲电效应。
-  - ![图4 h-BN和3R-MoS₂双壁纳米管形成能随直径变化及解析模型ΔE=E_circle−E_kink，预测临界直径（h-BN约2.8 nm，3R-MoS₂约9.1 nm）](../../raw/figures/heSwitchingTwodimensionalSliding2025/fig_4_J9YU9FTH.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图4 h-BN和3R-MoS₂双壁纳米管形成能随直径变化及解析模型ΔE=E_circle−E_kink，预测临界直径（h-BN约2.8 nm，3R-MoS₂约9.1 nm）](../../raw/figures/heSwitchingTwodimensionalSliding2025/fig_4_J9YU9FTH.png) → [[../figures/mathematical-models-elasticity-strain|应变、弹性与力学模型]]
   - **图示描述**：图4以扶手椅型双壁纳米管为可控模型，(a)(b) 分别绘出 h-BN 和 3R-MoS₂ 纳米管在弛豫前（理想圆形）与弛豫后（出现扭结）的形成能随直径变化，(c) 给出解析模型中 ΔE = E_circle − E_kink 随直径的变化。
   - **关键特征**：当直径超过临界值后，扭结纳米管形成能低于圆形纳米管，扭结在热力学上更稳定；解析模型预测 h-BN 临界直径约 2.8 nm、3R-MoS₂ 约 9.1 nm，与深度势能模拟的 ~1.8 nm 和 ~9.4 nm 高度一致；3R-MoS₂ 扭结角约 17.5° 和 34°，约为 h-BN 的一半，原因是其层间距更大（6.14 Å vs 3.25 Å），而 θ ∝ Δd/D。
   - **结论/意义**：该图把扭结成因定量归结为弯曲弹性能与层间 vdW 堆垛能的竞争，并证明机制可推广到其他 vdW 双层，为临界尺寸设计提供了解析判据。

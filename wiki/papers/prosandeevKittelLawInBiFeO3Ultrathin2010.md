@@ -15,7 +15,7 @@ concepts: [multiferroicity, magnetoelectric-coupling, strain-engineering, kittel
 entities: [BiFeO3, domain-wall, PZT, BaTiO3, PbTiO3]
 methods: [effective-hamiltonian, monte-carlo, first-principles, real-space-energy-decomposition]
 materials: [BiFeO3, PZT, BaTiO3, PbTiO3]
-figures: [domain-walls, crystal-structures, mathematical-models]
+figures: [domain-walls-structures, mathematical-models-formulas, mathematical-models-magnetoelectric]
 领域基础知识:: >-
   多铁性材料（如铁酸铋BiFeO3）同时具有铁电序和磁序，其独特的磁电耦合效应在新型器件中具有潜力。薄膜中的铁电畴结构决定其宏观性能，其尺寸效应由经典的基特尔定律（Kittel Law）描述，该定律指出条带状畴的宽度与薄膜厚度的平方根成正比。
 研究背景:: >-
@@ -83,7 +83,7 @@ S. Prosandeev, S. Lisenkov, L. Bellaiche et al.，2010，Physical Review Letters
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/kittel-law|基特尔定律]]、[[../concepts/effective-hamiltonian|有效哈密顿量]]、[[../concepts/oxygen-octahedra-tilting|氧八面体倾斜]]、[[../concepts/domain-wall-energy|畴壁能]]、[[../concepts/depolarizing-field|退极化场]]、[[../concepts/open-circuit-boundary-conditions|开路电学边界条件]]、[[../concepts/real-space-energy-decomposition|实空间能量分解]]、[[../concepts/weak-ferromagnetism|弱铁磁性]]
   - 实体 [[../entities/BiFeO3]]、[[../entities/domain-wall]]、[[../entities/BaTiO3|BaTiO₃]]、[[../entities/PZT|PZT]]、[[../entities/PbTiO3|PbTiO₃]]
-  - 图表 [[../figures/domain-walls]]、[[../figures/crystal-structures]]、[[../figures/mathematical-models]]
+  - 图表 [[../figures/domain-walls]]、[[../figures/mathematical-models]]
   - 年度 [[../write/2010]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/prosandeevKittelLawInBiFeO3Ultrathin2010]]
@@ -96,23 +96,23 @@ S. Prosandeev, S. Lisenkov, L. Bellaiche et al.，2010，Physical Review Letters
   - `open-circuit-boundary-conditions`（开路电学边界条件）：表面无自由电荷补偿的边界，存在退极化场，区别于短路（理想电极）条件。
   - `real-space-energy-decomposition`（实空间逐点能量分解）：本文首创的分析方法，将每项能量按格点投影，从而在原子尺度定位其空间来源（畴壁 vs 表面）。
 ## 📊 关键图表
-  - ![图1：8 nm 厚 BFO 薄膜在 10 K 下 71° 条带畴的局域软模 u_i 与 AFD 矢量 ξ_i 实空间快照，表面形成涡旋磁通闭合](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/fig_1_GV39IF8G.png) -> [[../figures/domain-walls|畴与畴壁结构]]
+  - ![图1：8 nm 厚 BFO 薄膜在 10 K 下 71° 条带畴的局域软模 u_i 与 AFD 矢量 ξ_i 实空间快照，表面形成涡旋磁通闭合](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/fig_1_GV39IF8G.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：8 nm 厚、1.5% 压应变的 (001) BFO 超薄膜在 10 K 蒙特卡洛平衡态下的 (X,Z) 截面矢量图；(a) 箭头为局域软模 u_i（即局域铁电偶极方向与大小），(b) 箭头为反铁畸变矢量 ξ_i=ω_i e^{ik·r_i}（氧八面体倾斜轴与倾角）。
   - **关键特征**：沿 [100] 交替出现"上/下"71° 纳米条带畴；畴内（远离上下各 4 层 (001) B 层）u_i 与 ξ_i 共同沿 [uuv]（up，v>u）或 [uu-v̄]（down）取向，方向一致来自压应变；上下表面四层内 u_i 与 ξ_i 卷曲形成 flux-closure 涡旋，无净面外极化以消除退极化场；每个畴内除 G 型反铁磁外还存在约 0.03 μ_B 的弱铁磁矢量，方向在 up/down 畴间翻转（倾向垂直 ξ_i）。
   - **结论/意义**：直观界定了后续能量分解所讨论的"规则直壁条带畴"，并展示其同时具备 Landau–Lifshitz 型表面磁通闭合与 Kittel 型直壁特征。
-  - ![图2：(a) 总能-畴周期拟合 e_tot=e0+Aw+C/w；(b) AFD短程能 ∝1/w；(c) 电偶极与磁电耦合能 ∝w；(d) w_e²-h 线性关系；(e) 1/A∝h；(f) C≈常数](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/fig_2_478MJ9U5.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图2：(a) 总能-畴周期拟合 e_tot=e0+Aw+C/w；(b) AFD短程能 ∝1/w；(c) 电偶极与磁电耦合能 ∝w；(d) w_e²-h 线性关系；(e) 1/A∝h；(f) C≈常数](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/fig_2_478MJ9U5.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：揭示 Kittel 定律及其微观起源的六联图；(a) h=20 薄膜每 5 原子胞总内能 e_tot（mHa）对畴周期 w（晶格常数）的散点与 e_tot=e0+Aw+C/w 拟合；(b)–(c) 分项能量密度对 w 的依赖；(d)–(f) 平衡畴周期及拟合系数对膜厚 h 的依赖。
   - **关键特征**：(a) 散点呈碗形且被公式(2)精确拟合，最低点即 w_e；(b) AFD 短程相互作用能密度 e_AFD,SR 随 1/w 下降，是 C/w 项主因（约为短程偶极能代价的两倍，短程偶极的正 1/w 贡献被电偶极局域自能的负 1/w 几乎抵消）；(c) 电偶极-偶极长程能与磁电耦合能（公式(1)含 E_ij 项）均随 w 线性增长，构成 Aw 项；(d) h>5（约 20 Å）时 w_e²∝h，斜率约 31（以 5 原子胞晶格常数为单位，PZT 对比值约 20），h<3 时条带畴消失、h=1 转为纯 AFD 态；(e) h>5 时 1/A∝h，即 A=A0/(h−h0)，h0≈1.5 晶格常数；(f) C≈C0 与厚度无关；由 w_e=√(C/A)=√(C0(h−h0)/A0) 给出 w_e∝√h，且 C0/A0≈31 与 (d) 斜率自洽。
   - **结论/意义**：在临界厚度 h≈20 Å 以上严格证实 Kittel 定律，并通过系数厚度依赖从唯象层面锁定了"1/w 来自 AFD、w 来自偶极长程与磁电耦合"的非传统机制。
-  - ![图3：h=20 薄膜平衡周期下关键能量的逐点实空间分布：(a) AFD短程能集中在畴壁；(b) 电偶极长程能集中在表面畴内部；(c) 磁电耦合能同样集中在表面远离畴壁处](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/fig_3_F6HAM93G.png) -> [[../figures/domain-walls|畴与畴壁结构]]
+  - ![图3：h=20 薄膜平衡周期下关键能量的逐点实空间分布：(a) AFD短程能集中在畴壁；(b) 电偶极长程能集中在表面畴内部；(c) 磁电耦合能同样集中在表面远离畴壁处](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/fig_3_F6HAM93G.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：h=20 薄膜在平衡畴周期 w_e 下的 (X,Z) 截面逐点能量密度热图，亮色代表能量代价高；(a) AFD 短程相互作用能、(b) 电偶极-偶极长程相互作用能、(c) 磁电耦合相互作用能。
   - **关键特征**：(a) e_AFD,SR 高值贯穿整个膜厚、强烈局域在畴壁处，微观解释了其 1/w 依赖（畴壁密度 ∝1/w）；(b) 电偶极长程能高值集中在上下表面、远离畴壁的畴内部，对应 Kittel 模型的杂散场/退极化场；(c) 磁电耦合能同样集中在表面远离畴壁处，原因是表面局域电偶极幅度最小（见图1(a)），从而改变 E_ij 耦合代价。
   - **结论/意义**：将抽象的"1/w 项"和"w 项"分别定位到原子尺度的畴壁与表面，是多铁 BFO 中 Kittel 定律非传统微观起源最直接的视觉证据，也示范了实空间逐点能量分解方法。
-  - ![公式(1)：包含 FE-AFD、磁偶极、磁交换、软模/AFD/应变-磁交换耦合、双二次耦合及 Dzyaloshinskii-Moriya 型项的有效哈密顿量](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/eq_1_QC77D3EP.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式(1)：包含 FE-AFD、磁偶极、磁交换、软模/AFD/应变-磁交换耦合、双二次耦合及 Dzyaloshinskii-Moriya 型项的有效哈密顿量](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/eq_1_QC77D3EP.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
   - **图示描述**：本文所用基于第一性原理参数化的有效哈密顿量 E_tot({u_i},{η},{ω_i},{m_i})，自由度为局域软模 u_i、应变 η、氧八面体倾斜 ω_i 与磁矩 m_i（|m_i|=4 μ_B）。
   - **关键特征**：共八项——E_FE-AFD（铁电/应变/AFD 及其耦合，长程偶极矩阵替换为开路边界下的二维形式）、磁偶极-偶极 Q_ij、磁交换 D_ij、软模-磁交换双二次耦合 E_ij（磁电耦合）、AFD-磁交换耦合 F_ij、应变-磁交换耦合 G_ij、应变-软模双二次项 B_0l（再现应变下极化）、以及 K_ij(ω_i−ω_j)·(m_i×m_j) 型 Dzyaloshinskii–Moriya 项（再现弱铁磁性）；j 对 Fe 位点 i 取第一至第三近邻，唯磁偶极项取所有 Fe 位点、DM 项仅取最近邻。
   - **结论/意义**：这是支撑全部蒙特卡洛与能量分解的模型基础，其中 E_ij 磁电项与 AFD 短程项正是图2、图3中新机制的来源。
-  - ![公式(2)：Kittel 唯象能量密度 e_tot=e0+A/w+Cw](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/eq_2_PVFVZZCH.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式(2)：Kittel 唯象能量密度 e_tot=e0+A/w+Cw](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/eq_2_PVFVZZCH.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
   - **图示描述**：Landau–Lifshitz–Kittel 唯象能量密度表达式，每 5 原子胞总能 e_tot=e0+Aw+C/w，其中 w 为畴周期，e0、A、C 对给定膜厚为常数。
   - **关键特征**：C/w 为畴壁能项（随畴细化而升高），Aw 为长程场/表面能项（随畴变大而升高）；对 w 求极小得平衡周期 w_e=√(C/A)；结合 h>5 时 A=A0/(h−h0)、C=C0，推得 w_e=√(C0(h−h0)/A0)∝√h，即 Kittel 定律；数值上 C0/A0≈31 晶格常数，与 w_e²-h 斜率一致。
   - **结论/意义**：公式(2)是连接原子尺度模拟与经典标度律的桥梁，本文证明其在 BFO 超薄膜中形式成立但 A、C 的物理内涵已被 AFD 与磁电耦合替换。

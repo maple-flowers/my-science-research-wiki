@@ -6,7 +6,7 @@ year: 2023
 journal: "Nature Nanotechnology"
 doi: "10.1038/s41565-023-01494-0"
 url: "https://doi.org/10.1038/s41565-023-01494-0"
-paper_type: perspective
+paper_type: review
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/FerroelectricityMultiferroicityAtomic2023]]
@@ -15,7 +15,7 @@ concepts: [multiferroicity, ferroelectric-tunnel-junction, sliding-ferroelectric
 entities: [BiFeO3, In2Se3, WTe2, h-BN, TMDs, PbTiO3, HfO2, CuInP2S6, SnS, MoTe2, CuCrP2S6, NiI2, Cr2Ge2Te6, MoS2, WS2, WSe2, MoSe2]
 methods: [pfm, thin-film-epitaxy, electrical-transport, optical-shg, dft]
 materials: [PbTiO3, BiFeO3, Hf0.8Zr0.2O2, CuInP2S6, In2Se3, MoTe2, SnS, WTe2, h-BN, CuCrP2S6, NiI2, Cr2Ge2Te6, MoS2, WS2, WSe2, MoSe2]
-figures: [crystal-structures, heterostructures-stacking]
+figures: []
 领域基础知识:: >-
   铁电材料具有可被外电场翻转的自发极化，多铁材料在同一相中同时存在两种或以上铁序（如铁电性与铁磁性）。传统块体铁电/多铁材料面临与微电子工艺不兼容和尺寸效应导致铁电性减弱的问题，而原子级厚度的超薄铁电/多铁材料为低功耗微型化器件提供了新机遇。
 研究背景:: >-
@@ -150,11 +150,11 @@ Nature Nanotechnology 编辑部（未署名社论），2023，Nature Nanotechnol
 ## ✏️ 可写入 Wiki 的要点
   1. 铁电材料虽名"铁"但未必含铁，核心是具有可被外电场翻转的自发极化；多铁材料在同一相中同时存在两种及以上初级[[../concepts/ferroic-order|铁性序]]（铁磁、铁电、铁弹、铁涡）。
   2. 钙钛矿铁电体的传统[[../concepts/critical-thickness-ferroelectric|尺寸效应]]在 PbTiO₃ 中表现为铁电相仅在临界厚度 1.2 nm（约 3 个单胞）以上稳定，但这意味着器件微型化并无刚性厚度下限（Fong et al., Science 2004）。
-  3. 单晶胞厚无铅多铁 BiFeO₃ 仍具有可翻转面外自发极化，可用于构建[[../entitys/FTJ|铁电隧道结]]（Wang et al., Nat. Commun. 2018），但钙钛矿氧化物与 CMOS 工艺集成困难。
-  4. [[../entitys/HfO2|氧化铪]]基 Hf₀.₈Zr₀.₂O₂ 在 1 nm 厚度仍表现出[[../concepts/inversion-symmetry-breaking|反演对称破缺]]和可翻转极化，无[[../concepts/critical-thickness-ferroelectric|铁电临界厚度]]（Cheema et al., Nature 2020）；与钙钛矿相反，其极性畸变随膜厚减小而增强（"越薄越强"），且二元氧化物结构简单、与 CMOS 天然兼容，是极化驱动低功耗存储器与铁电存储的主力候选。
+  3. 单晶胞厚无铅多铁 BiFeO₃ 仍具有可翻转面外自发极化，可用于构建[[../entities/FTJ|铁电隧道结]]（Wang et al., Nat. Commun. 2018），但钙钛矿氧化物与 CMOS 工艺集成困难。
+  4. [[../entities/HfO2|氧化铪]]基 Hf₀.₈Zr₀.₂O₂ 在 1 nm 厚度仍表现出[[../concepts/inversion-symmetry-breaking|反演对称破缺]]和可翻转极化，无[[../concepts/critical-thickness-ferroelectric|铁电临界厚度]]（Cheema et al., Nature 2020）；与钙钛矿相反，其极性畸变随膜厚减小而增强（"越薄越强"），且二元氧化物结构简单、与 CMOS 天然兼容，是极化驱动低功耗存储器与铁电存储的主力候选。
   5. 范德瓦尔斯铁电体因尺寸与堆叠效应而显著区别于块体：本征面外铁电仅有 CuInP₂S₆、In₂Se₃、MoTe₂ 等少数几例；纯面内铁电在二维 SnS 中发现（Higashitarumizu et al., Nat. Commun. 2020）。
   6. 滑移铁电：单层 WTe₂ 非极性，但双层/三层因[[../concepts/interlayer-stacking|层间堆叠]]失配产生自发面外极化（Fei et al., Nature 2018），极化可由层间横向滑移翻转，将铁电机制从离子位移拓展到层间相对位移。
   7. 莫尔铁电：扭转氮化硼中亚稳非中心对称平行取向产生稳健铁电序，莫尔条纹导致交错极化并改变翻转动力学（Vizner Stern et al., Science 2021；Yasuda et al., Science 2021）。
-  8. [[../concepts/stacking-engineered-ferroelectricity|[[../concepts/stack-engineering|堆叠工程]]铁电]]：两个相同 TMD 单层（WSe₂、MoSe₂、WS₂、MoS₂）平行堆叠可在室温观测到铁电回滞（Wang et al., Nat. Nanotechnol. 2022）；交替堆叠 MoS₂/WS₂ 无需转角即可破缺对称获得面外铁电（Rogée et al., Science 2022），使非铁电块体可被"组装"成铁电堆叠。
+  8. [[../concepts/stacking-engineered-ferroelectricity|堆叠工程铁电]]：两个相同 TMD 单层（WSe₂、MoSe₂、WS₂、MoS₂）平行堆叠可在室温观测到铁电回滞（Wang et al., Nat. Nanotechnol. 2022）；交替堆叠 MoS₂/WS₂ 无需转角即可破缺对称获得面外铁电（Rogée et al., Science 2022），使非铁电块体可被"组装"成铁电堆叠。
   9. 二维多铁的两条路径：(a) 本征[[../concepts/type-ii-multiferroics|第二类多铁]]——少层 CuCrP₂S₆ 中磁序破缺反演对称诱导极化并展现极化–磁化耦合（Lai et al., Nanoscale 2019）；单层 NiI₂ 光学探测到多铁态但尚待直接电磁测量确认（Song et al., Nature 2023）；(b) 异质结[[../concepts/magnetoelectric-coupling|磁电耦合]]——理论预言铁磁 Cr₂Ge₂Te₆/铁电 In₂Se₃ 双层具有强层间磁电效应（Gong et al., Nat. Commun. 2019），另有多种铁磁/铁电、反铁磁/铁电异质双层被提出，绕过了单体材料 d 轨道占据的化学矛盾。
   10. 许多硫族化物/卤化物 vdW 铁电在空气环境下易与氧和水反应而降解，开发不损害[[../concepts/ferroelectricity|铁电性]]能的封装技术是该领域走向应用的前沿瓶颈；这也是将超薄铁电/多铁材料集成进低功耗器件时必须与器件架构协同设计的工程问题。

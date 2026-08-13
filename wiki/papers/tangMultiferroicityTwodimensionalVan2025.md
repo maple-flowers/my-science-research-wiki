@@ -11,12 +11,12 @@ paper_type: review
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/tangMultiferroicityTwodimensionalVan2025]]
-projects: [project-2, project-5]
+projects: [project-2]
 concepts: [2D-materials, ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, sliding-ferroelectricity, spin-orbit-coupling, strain-engineering]
 entities: [BiFeO3, CrTe2, Fe3GeTe2, In2Se3, MXenes, TMDs]
 methods: [afm-pfm]
 materials: [BiFeO3, CrTe2, Fe3GeTe2, In2Se3, MXenes, TMDs]
-figures: [crystal-structures, domain-walls, experimental-setups, heterostructures-stacking, optical-spectra]
+figures: []
 领域基础知识:: >-
   多铁性材料是指同时存在两种或以上铁性序（如铁电性、铁磁性、铁弹性）的单一相材料。这些铁性序通常表现为自发极化(P)、自发磁化(M)或自发应变(ε)，并可被各自的外部共轭场（电场、磁场、应力）所翻转。多铁性的核心价值在于不同铁性序之间的相互耦合（磁电耦合），使得用电场控制磁化或用磁场控制电极化成为可能，为低功耗信息器件提供了物理基础。二维范德华材料因其层内强化学键和层间弱范德华力的独特结构，在原子级厚度下仍能保持稳定，并展现出高度可调的物理性质，为突破传统三维多铁材料的瓶颈提供了新维度。
 研究背景:: >-
@@ -43,8 +43,6 @@ tags:
   - year/2025
   - project/project-2
   - relevance/project-2/medium
-  - project/project-5
-  - relevance/project-5/weak
   - concept/2D-materials
   - concept/ferroelasticity
   - concept/magnetoelectric-coupling
@@ -70,15 +68,12 @@ tags:
   - topic/charge-density-wave
   - topic/ferroelectricity
   - topic/ferromagnetism
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/mxene
   - topic/optical-spectra
   - topic/phase-transition
   - topic/polarization
   - topic/strain-engineering
-  - topic/two-photon-fluorescence
 ---
 
 ## tangMultiferroicityTwodimensionalVan2025 — 二维范德华材料的多铁性：挑战与机遇
@@ -165,7 +160,6 @@ Zikun Tang, Yi Hu, Lukas Rogée, Duanzijing Liu, Shu Ping Lau et al.，2025，*C
 
 ## 🔗 项目双链
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 
 ## 📝 组织与用词
 文章按"3D瓶颈→2D机遇→四大设计策略（第2节，全文核心）→四大挑战（材料/检测/温度耦合/器件）→展望"的Perspective逻辑展开，每类策略配1–2个具体材料案例并与图4子图对应，表1作为定量数据支撑。论证特点是把零散工作归纳为方法论框架，并反复区分"共存(coexistence)"与"耦合(coupling)"。值得复用的术语：

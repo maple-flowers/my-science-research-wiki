@@ -11,12 +11,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Islam2025enhancement]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-5, project-7]
 concepts: [2D-materials, charge-density-wave, strain-engineering]
 entities: [TMDs]
-methods: [arpes, dft, mlip, muon-sr, tight-binding]
+methods: [muon-sr]
 materials: [TMDs]
-figures: [crystal-structures, electronic-bands]
+figures: [crystal-structures-bulk, electronic-bands-band-structures, electronic-bands-cdw-transport]
 领域基础知识:: >-
   过渡金属二硫族化物（TMDs）是一类层状材料，展现出丰富的电子序，包括电荷密度波（CDW）和超导电性。超流密度（nₛ/m*，超导载流子浓度与有效质量之比）是表征超导态刚度和载流子属性的核心物理量，与伦敦穿透深度λeff成反比。BCS理论预言了常规超导体中Tc与nₛ/m*的关系，而非常规超导体（如铜氧化物）则展现出偏离此理论的Uemura标度律。
 研究背景:: >-
@@ -41,18 +41,8 @@ tags:
   - paper
   - type/experiment
   - year/2025
-  - project/project-1
-  - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/core
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/weak
   - project/project-5
   - relevance/project-5/medium
-  - project/project-6
-  - relevance/project-6/medium
   - project/project-7
   - relevance/project-7/core
   - concept/2D-materials
@@ -67,15 +57,10 @@ tags:
   - material/TMDs
   - topic/2d-materials
   - topic/charge-density-wave
-  - topic/ferroelectricity
-  - topic/humidity-sensing
-  - topic/molecular-crystal
-  - topic/multiferroics
   - topic/phase-transition
   - topic/strain-engineering
   - topic/superconductivity
   - topic/topological-defects
-  - topic/two-photon-fluorescence
 ---
 
 ## Islam2025enhancement — 有无电荷密度波的过渡金属二硫族化物中压力诱导的超流密度增强
@@ -108,22 +93,22 @@ S. S. Islam, V. Sazgari, C. Witteveen, J. N. Graham, O. Gerguri, P. Král, M. Ba
   - 实体 `1T-MoTe2.md`：本文图 5 中作为对比的拓扑/外尔超导体，已有 wiki WTe2 可作为邻近条目。
 
 ## 📊 关键图表
-  - ![图1 4H-NbSe2与2H-NbS2晶体结构对比（三棱柱配位；4H ABAC vs 2H AB堆垛）](../../raw/figures/Islam2025enhancement/fig_1_KVZVNDQP.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图1 4H-NbSe2与2H-NbS2晶体结构对比（三棱柱配位；4H ABAC vs 2H AB堆垛）](../../raw/figures/Islam2025enhancement/fig_1_KVZVNDQP.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：对比展示 4H-NbSe₂（左，ABAC 四层堆垛）与 2H-NbS₂（右，AB 两层堆垛）的侧视/顶视晶体结构，中部为 Nb 原子被六个 S/Se 包围的三棱柱配位多面体。
   - **关键特征**：两种多型体的单层结构相同，均为三棱柱配位的 MX₂ 层；差异仅在层间堆垛顺序（4H 四层 vs 2H 两层），由此改变层间耦合、p-d 杂化与费米面结构；这是后续压力响应差异（4H 对压力更敏感）的结构起点。
   - **结论/意义**：把"有/无 CDW"与"多型体堆垛"两个变量同时摆到台面上，为用 4H 与 2H 对照分离 CDW 效应提供结构基础。
 
-  - ![图2 4H-NbSe2压力-温度相图：纵向电阻、霍尔符号反转、磁阻、Tc/T_CDW/T*汇总](../../raw/figures/Islam2025enhancement/fig_2_M6ARWPEM.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图2 4H-NbSe2压力-温度相图：纵向电阻、霍尔符号反转、磁阻、Tc/T_CDW/T*汇总](../../raw/figures/Islam2025enhancement/fig_2_M6ARWPEM.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - **图示描述**：四面板磁输运结果——(a) 0–2.1 GPa 下纵向电阻 R(T)、(b) 霍尔电阻 ρ_H(T)、(c) 9 T 下磁阻 MR(T)、(d) 汇总出的 T-p 相图，并叠加 2H-NbSe₂ 数据作对比。
   - **关键特征**：(a) 中 T_c 随压力从 6.3 K 缓升至 7.3 K（约 +15%）；(b) 中常压下霍尔信号在 T*≈55 K 由负（电子型）转正（空穴型），是 CDW 诱导费米面重构、出现空穴口袋的标志；(c) 中磁阻在 T_CDW≈55 K 以下上升，独立佐证 CDW 转变；(d) 中 T_CDW/T* 在 2.1 GPa 内仅下降约 20%（55→45 K），与 2H-NbSe₂ 的压制幅度相近。
   - **结论/意义**：宏观相图看似支持"CDW-超导简单竞争"，但 CDW 仅被压制 20%、T_c 仅升 15%，与后面 μSR 测得的 n_s/m* 剧增 75% 形成第一组数字矛盾。
 
-  - ![图3 常压下σ_sc与λ_eff^-2的温度依赖及抗磁位移；(s+s)-波双能隙拟合](../../raw/figures/Islam2025enhancement/fig_3_SJKFU38M.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图3 常压下σ_sc与λ_eff^-2的温度依赖及抗磁位移；(s+s)-波双能隙拟合](../../raw/figures/Islam2025enhancement/fig_3_SJKFU38M.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
   - **图示描述**：常压 TF-μSR（μ₀H=30 mT）结果：(a) 4H-NbSe₂ 与 2H-NbS₂ 的超导弛豫率 σ_sc(T)（左轴，单位 μs⁻¹）及由其换算的伦敦穿透深度倒数平方 λ_eff⁻²(T)（右轴，单位 μm⁻²）；(b) 抗磁位移 B_dia(T)。
   - **关键特征**：σ_sc 在 T_c 以下由零渐升、低温（T≲2 K）趋饱和，是无节点（nodeless）超导的典型特征；黑色实线 (s+s)-波双能隙 α 模型显著优于红色虚线单 s 波模型；两能隙分别对应四个 Nb 4d 圆柱面费米片层上的大能隙与 Γ 点附近 Se 4p"煎饼"小口袋上的小能隙；B_dia 在 T_c 以下强负值，证明超导是体效应而非场致磁性。
   - **结论/意义**：确立两种材料都是体态、无节点、(s+s)-波双能隙超导体，为压力演化分析定下零压基准与拟合模型。
 
-  - ![图4 不同压力下归一化超流密度；λ_eff^-2(0)增幅4H=75%/2H=32%/NbS2=20%，Tc仅温和上升](../../raw/figures/Islam2025enhancement/fig_4_EH6DKUBG.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图4 不同压力下归一化超流密度；λ_eff^-2(0)增幅4H=75%/2H=32%/NbS2=20%，Tc仅温和上升](../../raw/figures/Islam2025enhancement/fig_4_EH6DKUBG.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - **图示描述**：全文核心结果图。(a)(b) 分别为 4H-NbSe₂ 与 2H-NbS₂ 在多个压力下归一化到零压零温值的 σ_sc(T)/σ_sc(0)；(c) 归一化零温超流密度 λ_eff⁻²(0) 随压力变化，叠加 2H-NbSe₂；(d) 三种材料 T_c 随压力变化。
   - **关键特征**：在 2.05 GPa 下 4H-NbSe₂ 的 n_s/m* 增加 75%，2H-NbSe₂ 在 2.2 GPa 增加 32%，无 CDW 的 2H-NbS₂ 在 1.8 GPa 仍增加 20%；双能隙权重几乎不随压力变化（ω≈0.54/0.52），(s+s)-波模型可拟合全部压力数据；T_c 增幅分别仅为 0.94 K（16%）、0.76 K（11%）、0.28 K（5%），与 n_s/m* 剧变严重失配；两个超导能隙 Δ₁、Δ₂ 在整个压力范围基本不变（见 SM 图 S3）。
   - **结论/意义**：用三组数字（CDW 仅降 20% vs n_s/m* 升 75%、T_c 仅升 16% vs n_s/m* 升 75%、无 CDW 体系仍升 20%）击穿"压制 CDW 释放态密度"的简单竞争模型，指出压力直接改变相刚度/有效质量/参与超导的载流子数，而非配对强度。
@@ -133,15 +118,18 @@ S. S. Islam, V. Sazgari, C. Witteveen, J. N. Graham, O. Gerguri, P. Král, M. Ba
   - **关键特征**：黑色虚线代表常规 BCS 预期（n_s/m* 变化而 T_c 几乎不变）；4H/2H-NbSe₂、2H-NbS₂ 数据点落在同一条正斜率直线上，斜率与最优掺杂铜氧化物相近（铁基符号相反），强烈偏离 BCS；1T'-MoTe₂ 与 RbV₃Sb₅ 斜率更陡；TMD 的 T_c/T_F 比铜氧化物小约 20 倍却仍保持非常规斜率。
   - **结论/意义**：把 TMDs 纳入铜氧化物/铁基/笼目共有的 Uemura 非常规标度版图，暗示这些体系共享由超流密度（相刚度）而非配对强度决定 T_c 的物理，可在 BEC-BCS 渡越框架下统一理解。
 
-  - ![式1 σ_sc∝λ^-2=(4πn_s e²/m*c²)/(1+ξ/l)](../../raw/figures/Islam2025enhancement/eq_1_C6GVHFKT.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![式1 σ_sc∝λ^-2=(4πn_s e²/m*c²)/(1+ξ/l)](../../raw/figures/Islam2025enhancement/eq_1_C6GVHFKT.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - **图示描述**：μSR 弛豫率 σ_sc 与伦敦穿透深度 λ_eff、超流密度 n_s/m* 之间的核心关系式，其中 ξ 为超导相干长度、l 为正常态平均自由程。
   - **关键特征**：清洁极限 ξ/l→0 下分母趋于 1，σ_sc∝λ⁻²∝n_s/m*；作者由 G-L 关系 ξ=√(Φ₀/2πH_c2) 与已知 H_c2 估算 ξ≈3.5 nm（4H-NbSe₂）、ξ∥ab≈3.8 nm（2H-NbS₂），并基于范德华层状各向异性论证压力主要压缩层间距、面内 l 近似不变，故体系在研究压力范围内始终接近清洁极限。
   - **结论/意义**：为把 μSR 测得的 σ_sc 直接解读为 n_s/m* 提供定量合法性，是整篇论文数据解释的基石。
 
-  - ![式2 α模型双能隙加权叠加：σ_sc(T)/σ_sc(0)=ωσ_1+(1-ω)σ_2](../../raw/figures/Islam2025enhancement/eq_2_YU2D9CF8.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![式2 α模型双能隙加权叠加：σ_sc(T)/σ_sc(0)=ωσ_1+(1-ω)σ_2](../../raw/figures/Islam2025enhancement/eq_2_YU2D9CF8.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
   - **图示描述**：经验 α 模型下双能隙超导体归一化超流密度的加权叠加公式，Δ₀,₁、Δ₀,₂ 为两个能隙在 T=0 的值，ω 与 1−ω 为其对 σ_sc 的相对贡献权重。
   - **关键特征**：模型假设不同能带上的超导能隙彼此独立但共享同一 T_c；拟合得到 4H-NbSe₂ 与 2H-NbS₂ 的权重 ω≈0.54 与 0.52，且在 0–2 GPa 范围内几乎不随压力变化；提取出的 Δ₁、Δ₂ 也基本压力无关（SM 图 S3）。
   - **结论/意义**：定量证明压力改变的是超流密度的整体幅度而非能隙结构或两带相对权重，把"配对强度不变、相刚度剧变"这一核心论断落到可拟合的公式上。
+  - ![图5 RbV3Sb5与各类超导体的Uemura标度对比](../../raw/figures/Islam2025enhancement/fig_5_RT7FCE3Z.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
+  - **图示描述**：横轴为归一化的有效穿透深度平方倒数λ_eff⁻²，纵轴为归一化临界温度Tc，展示RbV3Sb5在0–2 GPa加压下相对Bose-Einstein凝聚线与Uemura线性标度的偏离。
+  - **关键特征**：RbV3Sb5（紫色星号）在高压下Tc/Tc(p=0)升至约4.5、λ_eff⁻²归一化值达3–4，明显脱离常规与非常规超导体聚集的(1,1)附近区域，表明加压同时增强了超流密度与配对强度。
 
 
 ## 🔬 项目连接
@@ -154,12 +142,7 @@ S. S. Islam, V. Sazgari, C. Witteveen, J. N. Graham, O. Gerguri, P. Král, M. Ba
   - **project-7 CDW**：**直接核心相关**。本文是 CDW-超导竞争问题的关键实验论文：(a) 在 4H-NbSe₂ 中建立了 0–2.1 GPa 的 T-p 相图，T_CDW 从 55 K 仅降至 ~45 K（~20%），而 T_c 从 6.3 K 升至 7.3 K（~15%）；(b) 通过无 CDW 的 2H-NbS₂ 同样出现 20% 超流密度增强这一对照，直接证明压力增强超导存在独立于 CDW 压制的机制；(c) 给出 μSR 测得的 n_s/m* 定量数据：4H-NbSe₂ +75%（2.05 GPa）、2H-NbSe₂ +32%（2.2 GPa）、2H-NbS₂ +20%（1.8 GPa），同时 T_c 仅 +16%/+11%/+5%；(d) 超导能隙 Δ₁、Δ₂ 在压力下基本保持不变（s+s 双能隙，权重 ω≈0.54/0.52），说明压力改变的是相刚度/有效载流子而非配对强度；(e) 把 TMD（含 1T'-MoTe₂）与铜氧化物、Ba₁₋ₓRbₓFe₂As₂、RbV₃Sb5 放进同一张 Uemura 图，发现 NbSe₂/NbS₂ 体系斜率与最优掺杂铜氧化物一致；(f) 主张 2H-NbSe₂ 的 CDW 主要由动量 q 依赖的 EPC 驱动，而非费米面嵌套/鞍点，且 CDW 仅打开 Nb 4d 费米面片层的一小部分，最大可用 D(E_F)≈1%，定量说明仅靠压制 CDW 远不足以解释 75% 的超流密度增幅。这些都可直接写入 CDW 项目的竞争序、压力调控、Uemura 标度章节。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
 - 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词

@@ -7,16 +7,16 @@ year: 2024
 journal: "npj Spintronics"
 doi: "10.1038/s44306-024-00021-8"
 url: "https://doi.org/10.1038/s44306-024-00021-8"
-paper_type: experiment
+paper_type: review
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/mostovoyMultiferroicsDifferentRoutes2024]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-2, project-4, project-5, project-7]
 concepts: [2D-materials, berry-phase, charge-density-wave, ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, topological-defects]
 entities: [BiFeO3, HoMnO3, TMDs, domain-wall]
 methods: [berry-phase, dft, nmr]
 materials: [BiFeO3, HoMnO3, TMDs, domain-wall]
-figures: [crystal-structures, mathematical-models]
+figures: [crystal-structures-bulk, domain-walls-switching-properties, electronic-bands-cdw-transport, mathematical-models-formulas, mathematical-models-magnetoelectric]
 领域基础知识:: >-
   多铁性材料（Multiferroics）指在同一相中同时存在铁电序（Ferroelectric order）和磁序（Magnetic order）的材料。其核心特征是磁电耦合（Magnetoelectric coupling），即电场可以控制磁化强度，磁场可以控制电极化强度。根据起源，可分为第I类（铁电与磁性起源不同）和第II类（铁电性由特定磁序诱导产生）多铁性材料。
 研究背景:: >-
@@ -41,18 +41,12 @@ tags:
   - paper
   - type/experiment
   - year/2024
-  - project/project-1
-  - relevance/project-1/medium
   - project/project-2
   - relevance/project-2/core
-  - project/project-3
-  - relevance/project-3/medium
   - project/project-4
   - relevance/project-4/medium
   - project/project-5
   - relevance/project-5/medium
-  - project/project-6
-  - relevance/project-6/medium
   - project/project-7
   - relevance/project-7/medium
   - concept/2D-materials
@@ -81,13 +75,10 @@ tags:
   - topic/domain-walls
   - topic/ferroelectricity
   - topic/ferromagnetism
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/polarization
   - topic/strain-engineering
   - topic/topological-defects
-  - topic/two-photon-fluorescence
 ---
 
 ## mostovoyMultiferroicsDifferentRoutes2024 — 多铁性：通往磁电耦合的不同路径
@@ -123,22 +114,22 @@ Maxim Mostovoy，2024，npj Spintronics 2, 18，DOI [10.1038/s44306-024-00021-8]
     - **关键特征**：反演下 L₁↔L₂，因此 L₁²−L₂² 为反演奇函数而时间反演下为偶，允许磁电耦合；沿 a 轴诱导电极化 P_a = g_a(L₁²−L₂²)；属于非本征铁电体的典型形式；代表材料如 HoMnO₃ 等正交稀土锰氧化物。
     - **结论/意义**：说明共线多分量磁序也能打破反演并产生铁电极化，是第 II 类多铁中对称交换伸缩路径的唯象起点。
   - **式 (3) — 两个独立反宇称磁序的乘积耦合**
-  - ![独立双磁序耦合 f_me = g_i E_i L_+ L_-](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_3_QT46AJ4D.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![独立双磁序耦合 f_me = g_i E_i L_+ L_-](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_3_QT46AJ4D.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
     - **图示描述**：L₊ 与 L₋ 是分别在反演下为偶、奇的两个独立磁序参量，其乘积 L₊L₋ 同时为反演奇、时间反演偶，可与均匀电场线性耦合。
     - **关键特征**：两个磁序因破坏不同对称性而在不同温度出现；GdFeO₃ 中 Fe 序 T_Fe=661 K（不破反演、弱铁磁），Gd 序 T_Gd=2.5 K（破反演），后者出现后材料成为多铁；P_i = g_i L₊L₋。
     - **结论/意义**：这是稀土正铁氧体中电控磁翻转的对称性基础——电场翻转 L₊ 即可翻转与之成正比的弱铁磁矩。
   - **式 (4) — 螺旋磁序的自旋构型**
-  - ![螺旋自旋结构 S(x)=A_1 e_1 cos(q·x)+A_2 e_2 sin(q·x)](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_4_VS5SN3GH.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![螺旋自旋结构 S(x)=A_1 e_1 cos(q·x)+A_2 e_2 sin(q·x)](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_4_VS5SN3GH.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
     - **图示描述**：自旋矢量沿波矢 q 方向在 e₁–e₂ 平面内周期旋转，cos(q·x) 项在空间反演下为偶、sin(q·x) 项为奇，自然混合宇称。
     - **关键特征**：低温下 A₁≈A₂≈S，所有格点有序自旋长度近似相等；e₃=e₁×e₂ 为螺旋面法向；摆线型（e₃⊥q）在任意对称性晶体中可诱导极化；螺旋型（e₃∥q）仅在低对称晶体中允许 P∥q。
     - **结论/意义**：螺旋序的内在宇称混合是逆 DM 机制产生宏观极化的几何前提，解释了螺旋多铁材料为何如此普遍。
   - **式 (5) — Lifshitz 不变量形式的逆 DM 磁电项**
-  - ![Lifshitz 不变量耦合 f_me = g_ij E_i M_i ∂_j M_j（逆 DM 唯象项）](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_5_CHV2BXBT.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![Lifshitz 不变量耦合 f_me = g_ij E_i M_i ∂_j M_j（逆 DM 唯象项）](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_5_CHV2BXBT.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
     - **图示描述**：自由能中电场 E_i 与磁化梯度组合 M_i ∂_j M_j（Lifshitz 不变量）耦合；两个轴矢量乘积 M_iM_j 在所有对称操作下与极矢量梯度组合变换方式相同。
     - **关键特征**：在中心对称磁体中 Lifshitz 不变量本身因反演变号而被禁戒，但与同样反演奇的电场耦合后成为允许项；对反铁磁体将 M 替换为 Néel 矢量 L 仍然成立（亚晶格符号对 L_iL_j 整体相同）。
     - **结论/意义**：这是逆 DM 机制的唯象表达，把螺旋调制的不均匀性直接转化为电极化来源。
   - **式 (6) — 螺旋诱导电极化方向 P ∝ q × e₃**
-  - ![螺旋诱导极化 P ∝ q × e_3](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_6_MIR7PCTA.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![螺旋诱导极化 P ∝ q × e_3](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_6_MIR7PCTA.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
     - **图示描述**：将式 (4) 螺旋构型代入式 (5) 后得到的宏观极化方向，由螺旋波矢 q 与螺旋面法向 e₃ 的叉乘决定。
     - **关键特征**：摆线型螺旋（e₃⊥q）给出垂直于 q 与 e₃ 的极化，适用于任何晶体对称性；DyMnO₃、TbMnO₃ 等螺旋反铁磁体中测得的螺旋诱导极化最大值约 0.3 μC/cm²；低对称晶体中螺旋型（e₃∥q）可由额外耦合给出 P∥q。
     - **结论/意义**：该式以极简形式锁定了螺旋手性与极化方向的对应关系，是螺旋多铁的标志性公式。
@@ -148,42 +139,42 @@ Maxim Mostovoy，2024，npj Spintronics 2, 18，DOI [10.1038/s44306-024-00021-8]
     - **关键特征**：q∥x（二重轴）时极化 P∥q；q∥y 时 P 仍平行二重轴且垂直于 q；MnI₂、CoI₂（P3̄m1）中磁场在 ab 面旋转时极化以两倍角速度反向旋转。
     - **结论/意义**：说明低对称三角晶格磁体可突破摆线型螺旋的限制，产生更丰富的波矢-极化几何关系，对二维范德华多铁（NiI₂、MnI₂）尤为关键。
   - **式 (8) — 通用自旋哈密顿量**
-  - ![自旋哈密顿量 H = Σ J S_i S_j + Σ K S_i S_i - μ_B Σ g S_i H](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_8_R4NXDVHZ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![自旋哈密顿量 H = Σ J S_i S_j + Σ K S_i S_i - μ_B Σ g S_i H](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_8_R4NXDVHZ.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
     - **图示描述**：包含三项的微观自旋哈密顿量：最近邻交换 J_{ij}^{ab}、单离子各向异性 K_i^{ab}、以及 g 张量介导的塞曼相互作用。
     - **关键特征**：交换项含各向同性 Heisenberg 与反对称 DM 部分（D_{ij}^a = ½ ε_{abc} J_{ij}^{bc}）；耦合常数若对局域电场有线性依赖即可产生磁致电偶极。
     - **结论/意义**：是后续式 (9) 统一微观极化公式的出发点，把宏观磁电效应锚定在自旋-自旋耦合对电场的敏感度上。
   - **式 (9) — 磁致电极化的微观统一公式**
-  - ![磁致极化统一公式 P = -(1/V)⟨∂H/∂E⟩](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_9_6K6YYPVD.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![磁致极化统一公式 P = -(1/V)⟨∂H/∂E⟩](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_9_6K6YYPVD.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
     - **图示描述**：P = −(1/V)⟨∂H/∂E⟩，将磁有序态下的电极化分解为交换项、单离子各向异性项与 g 张量项三部分对电场的导数。
     - **关键特征**：对称交换伸缩 d_ij = (∂J_ij/∂E)(S_i·S_j) 来自 Heisenberg 交换，在共线非等价键上最强，YMnO₃ 薄膜与加压 TbMnO₃ 中达 P=1–2 μC/cm²；逆 DM 项 d_ij^a = (∂D_ij/∂E_a)[S_i×S_j] 来自 SOC；单离子/g 张量项在 Fe₂Mo₃O₈、LiFePO₄ 中贡献显著。
     - **结论/意义**：该式是整篇综述微观机制的核心，将第 II 类多铁所有极化来源统一在同一个热力学导数框架内。
   - **式 (10) — 逆 DM 微观键偶极**
-  - ![逆 DM 微观键偶极 d_ij ∝ r̂_ij × (S_i × S_j)](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_10_NU8CEAAU.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![逆 DM 微观键偶极 d_ij ∝ r̂_ij × (S_i × S_j)](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_10_NU8CEAAU.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
     - **图示描述**：单配体介导的 DM 矢量满足 D_ij ∝ r̂_ij×u，对电场一阶展开后得到键偶极 d_ij ∝ r̂_ij×[S_i×S_j]，其中 r̂_ij 为连接两磁位点方向的单位矢量。
     - **关键特征**：非共线自旋 S_i×S_j≠0 通过 SOC 驱动配体位移产生偶极；可等价表述为自旋流理论 P_a ∝ ε_{ab} j_i^b；螺旋态下 j_i^a ∝ q_i e₃^a，从而回到式 (6)。
     - **结论/意义**：给出逆 DM 机制从键尺度到宏观极化的完整推导链，是螺旋磁体铁电性的微观图像。
   - **式 (11) — 杂化非本征铁电的晶格序参量乘积耦合**
-  - ![杂化非本征铁电 f_int = g Δ_1 Δ_2 E](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_11_DINMRTDI.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![杂化非本征铁电 f_int = g Δ_1 Δ_2 E](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_11_DINMRTDI.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
     - **图示描述**：双层钙钛矿 Ca₃Mn₂O₇ 中两个共存的周期晶格畸变（氧八面体倾斜 Δ₁ 与旋转 Δ₂，波矢 Q=(½,½,0)）的乘积与均匀电场耦合。
     - **关键特征**：Δ₁ 单独破反演但因波矢非零不能直接耦合均匀 E，必须通过 Δ₁Δ₂ 乘积；两个畸变的共同出现诱导宏观极化；是第 I 类多铁中将磁性与强极化绑定的关键路径。
     - **结论/意义**：为"用晶格畸变做中介耦合铁电与磁性"提供了对称性模板，启发了杂化非本征铁电材料的设计。
   - **式 (12) — 弱铁磁矩的晶格-磁耦合项**
-  - ![弱铁磁矩耦合 f_wfm = λ Δ_1 L H](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_12_MALCEW7I.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![弱铁磁矩耦合 f_wfm = λ Δ_1 L H](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_12_MALCEW7I.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
     - **图示描述**：倾斜序参量 Δ₁、G 型反铁磁 Néel 矢量 L 与磁场 H 耦合，自由能项 f_wfm = λ Δ₁ L H。
     - **关键特征**：铁电态中金属-配体-金属键畸变改变 DM 相互作用使自旋倾斜，产生弱铁磁矩 M = λ Δ₁ L；外加电场翻转 Δ₁ 即同时翻转 P 与 M；Ca₃Mn₂O₇ 等材料主要受高电导率困扰而难以电翻转。
     - **结论/意义**：在第 I 类多铁中实现电控磁的核心机制，展示了晶格畸变作为电-磁双向开关的可行性。
   - **式 (13) — 动态磁电响应的 Onsager 倒易关系**
-  - ![Onsager 倒易 α^em_ij(ω,L,H)=α^me_ji(ω,-L,H)](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_13_EFE9JBVM.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![Onsager 倒易 α^em_ij(ω,L,H)=α^me_ji(ω,-L,H)](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_13_EFE9JBVM.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
     - **图示描述**：两个动态磁电张量 α^em（电极化对振荡磁场的响应）与 α^me（磁化对振荡电场的响应）通过 Onsager 关系互相约束，时间反演序参量 L 在转置时变号。
     - **关键特征**：ω 为光频，H 为静磁场；螺旋态中所有自旋经时间反演反转后可由沿 q 平移半个螺旋周期抵消，给出附加对称性。
     - **结论/意义**：是讨论电磁振子吸收与非互易定向二向色性的热力学基础，把静态磁电对称性推广到光学频段。
   - **式 (14) — 无场螺旋态的电磁张量自对偶**
-  - ![无场螺旋态 α^em_ij(ω)=α^me_ji(ω)](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_14_7JCIPNNW.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![无场螺旋态 α^em_ij(ω)=α^me_ji(ω)](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_14_7JCIPNNW.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
     - **图示描述**：在无外加磁场的非公度螺旋态中，式 (13) 中时间反演加半周期平移的组合对称性使 α^em_ij(ω) = α^me_ji(ω)。
     - **关键特征**：同时加电场与磁场光分量可产生非互易定向二向色性，强度 ∝ Im(α^em_ij + α^me_ji)；该二向色性需同时破反演与时间反演，在螺旋态中只有加外磁场才能观测到。
     - **结论/意义**：解释了为何电磁振子在零场下存在、但二向色性等非互易光学现象必须加磁场，为 THz/微波二极管效应提供对称性依据。
   - **式 (15) — 电磁振子的动态偶极替代规则**
-  - ![电磁振子替代 S_i^a S_j^b → ⟨S_i^a⟩δS_j^b+δS_i^a⟨S_j^b⟩](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_15_B3WEWD6S.png) -> [[../figures/vibrational-spectra|振动能谱与声子谱]]
+  - ![电磁振子替代 S_i^a S_j^b → ⟨S_i^a⟩δS_j^b+δS_i^a⟨S_j^b⟩](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_15_B3WEWD6S.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
     - **图示描述**：将式 (9) 中静态自旋乘积 S_i^a S_j^b 替换为平均自旋与振荡分量的交叉项 ⟨S_i^a⟩δS_j^b(t) + δS_i^a(t)⟨S_j^b⟩，描述以光频 ω 振荡的磁振子诱导的电偶极。
     - **关键特征**：因 δS_i(t)⊥⟨S_i⟩，对称交换伸缩机制仅在非共线自旋态下非零（共线时两内积抵消）；最低能电磁振子是螺旋面集体旋转（逆 DM）；更强峰来自光学磁振子通过对称交换伸缩振荡偶极；RMn₂O₅ 中其谱重经 Kramers–Kronig 导致螺旋转变处静态介电常数台阶式巨增；THz 脉冲可在 TbMnO₃ 中驱动螺旋面小角度旋转。
     - **结论/意义**：从微观上说明了电磁振子为何偏爱非共线磁体，并把磁振子谱、介电响应与光控自旋统一起来。
@@ -196,12 +187,9 @@ Maxim Mostovoy，2024，npj Spintronics 2, 18，DOI [10.1038/s44306-024-00021-8]
   - **project-6 湿度传感器**：无直接项目连接。
   - **project-7 CDW（中等强度的物理类比）**：(1) TTF-BA 中自旋-派尔斯二聚化本质上是一维 Peierls/CDW 型晶格失稳，与 CDW 共享"波矢 q 的周期调制打破反演→诱导极化"的对称性逻辑；(2) 文中对螺旋磁序 S(x)=e₁cos(q·x)+e₂sin(q·x) 的傅里叶分量宇称分析（cos 偶、sin 奇）与 CDW 中 cos(q·r)/sin(q·r) 分量的相位/手性分析方法一致；(3) 杂化非本征铁电中"周期晶格畸变（PLD）作为极化副产物"的图像与 CDW 中 PLD 伴随电荷调制高度相似，Δ₁Δ₂ 乘积耦合可类比 CDW 中多模耦合；(4) YBaCuFeO₅ 中 Cu/Fe 化学无序通过杂质键周围自旋结构形变的长程相互作用把螺旋（非公度调制）稳定区扩展到 ∼400 K，这对理解无序/缺陷如何稳定 CDW 调制态有方法论启发；(5) 逆 DM 与对称交换伸缩把调制波矢 q 与宏观极化方向绑定（P ∝ q×e₃），可为 CDW 材料中电极化/铁电与 CDW 耦合（如 1T'-TMD 中 FM-CDW）提供对称性判据参考。但文中不直接讨论 TMD CDW 或费米面嵌套，属于跨体系机制借鉴。
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
 - 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
 - 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词

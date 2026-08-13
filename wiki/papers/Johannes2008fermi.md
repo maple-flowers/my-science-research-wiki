@@ -7,16 +7,16 @@ year: 2008
 journal: "Physical Review B"
 doi: "10.1103/PhysRevB.77.165135"
 url: "https://doi.org/10.1103/PhysRevB.77.165135"
-paper_type: experiment
+paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Johannes2008fermi]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-5, project-7]
 concepts: [2D-materials, charge-density-wave, density-functional-theory, spin-orbit-coupling]
 entities: [TMDs, VASP]
 methods: [arpes, dft, tight-binding]
 materials: [TMDs]
-figures: [crystal-structures, electronic-bands]
+figures: [crystal-structures-bulk, electronic-bands-band-structures, electronic-bands-cdw-transport, electronic-bands-dos-fermi]
 领域基础知识:: >-
   电荷密度波 (CDW) 是低维金属中电荷密度和晶格结构的周期性调制现象。传统理论认为其源于费米面嵌套 (Fermi Surface Nesting) 导致的纯电子不稳定性，即派尔斯相变 (Peierls Transition)。费米面嵌套是指费米面的不同部分可以通过平移一个特定波矢（即CDW波矢）而重合。
 研究背景:: >-
@@ -41,18 +41,8 @@ tags:
   - paper
   - type/experiment
   - year/2008
-  - project/project-1
-  - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/medium
   - project/project-5
   - relevance/project-5/medium
-  - project/project-6
-  - relevance/project-6/medium
   - project/project-7
   - relevance/project-7/core
   - concept/2D-materials
@@ -68,7 +58,6 @@ tags:
   - topic/2d-materials
   - topic/charge-density-wave
   - topic/ferroelectricity
-  - topic/molecular-crystal
   - topic/phase-transition
   - topic/polarization
 ---
@@ -104,35 +93,35 @@ M. D. Johannes, I. I. Mazin，2008，Physical Review B 77, 165135，DOI [10.1103
 ## 🆕 新概念/实体建议
   - 实体 `CeTe3.md` — 三碲化铈，RTe₃ 家族准一维 Te-p 费米面，是“隐藏嵌套”的范例；计算用 LDA+U（U=4.5 eV）去除 f 带。
 ## 📊 关键图表
-  - ![图1 理想 1D Peierls 模型中 χ′(q) 在 q=2k_F 的对数发散被温度、散射 γ、几何偏差 δk 急剧削弱为弱峰](../../raw/figures/Johannes2008fermi/fig_1_SNEVCPH4.png) -> [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+  - ![图1 理想 1D Peierls 模型中 χ′(q) 在 q=2k_F 的对数发散被温度、散射 γ、几何偏差 δk 急剧削弱为弱峰](../../raw/figures/Johannes2008fermi/fig_1_SNEVCPH4.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
     - **图示描述**：对比理想半满一维自由电子气与引入温度、Drude 弛豫率 γ、几何不完全嵌套 δk 三种非理想条件后实部极化率 χ′(q) 随波矢 q 的变化曲线；横轴以 k_F 为单位，纵轴为 χ′(q)（任意单位）。
     - **关键特征**：理想情形下 χ′(q) 在 q=±2k_F 处呈对数发散；引入 γ~0.1–0.2 eV 后峰高仅为 χ′(0) 的 2–2.5 倍；T=10 K 时增强约 4 倍；5% 几何偏差（δk/k_F=0.05）时增强仅约 3 倍；第三维方向 δk 量级色散同样破坏嵌套。
     - **结论/意义**：从理论上证明派尔斯纯电子不稳定性极其脆弱，真实材料中几乎不可能以理想形式存在。
-  - ![图2 CDW 打开能隙 2V 后的能量增益 δE_k：主导项来自费米能级以下所有占据态而非费米面附近](../../raw/figures/Johannes2008fermi/fig_2_LRPET7NK.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图2 CDW 打开能隙 2V 后的能量增益 δE_k：主导项来自费米能级以下所有占据态而非费米面附近](../../raw/figures/Johannes2008fermi/fig_2_LRPET7NK.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
     - **图示描述**：上图为 Q=2k_F 非公度转变前后的单电子能带示意（虚线为原带、实线为打开 2V 能隙后的新带），下图为按嵌套波矢连接的电子态对的能量差 ΔE_k 与单态能量下移 δE_k 随 q/k_F 的分布，阴影区为总能量增益。
     - **关键特征**：一阶微扰给出 δE_G/V²≈(1/16μ)[1+2ln(8μ/V)]；第一项（非发散）来自费米面附近 ΔE_k<V 的态；第二项（随带宽对数发散）来自费米能级以下直至带底的所有占据态，是主导项。
     - **结论/意义**：颠覆"CDW 仅为消除费米面态密度"的传统认识，强调全部占据态及带间跃迁对不稳定性的贡献。
-  - ![图3 TaSe₂ 费米面：E_F 下移 40 meV 后拓扑显著改变，但 χ′/χ′′ 几乎不变](../../raw/figures/Johannes2008fermi/fig_3_SK4I977K.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图3 TaSe₂ 费米面：E_F 下移 40 meV 后拓扑显著改变，但 χ′/χ′′ 几乎不变](../../raw/figures/Johannes2008fermi/fig_3_SK4I977K.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
     - **图示描述**：TaSe₂ 在 q_x–q_y 平面内的 DFT 费米面，(a) 为未平移费米能级，(b) 为将 E_F 下移 0.04 eV 以匹配 ARPES 观测；计算中包含自旋-轨道耦合（重 Ta 元素）。
     - **关键特征**：仅 40 meV 的费米能级移动就使片状费米面拓扑显著改变，与 ARPES 近乎吻合；但同一移动对 χ′(q) 和 χ′′(q) 无可观察影响；q_CDW=(1/3,0,0) 处"连弱嵌套都没有"。
     - **结论/意义**：直接证明费米面几何形状对决定 CDW 极化率结构不重要，目视费米面寻找嵌套无预测能力。
-  - ![图4 TaSe₂ 的 χ′′(q)（嵌套峰位于错误波矢）与 χ′(q)（弱峰位于正确 q_CDW）对比](../../raw/figures/Johannes2008fermi/fig_4_DDJ3N7RI.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图4 TaSe₂ 的 χ′′(q)（嵌套峰位于错误波矢）与 χ′(q)（弱峰位于正确 q_CDW）对比](../../raw/figures/Johannes2008fermi/fig_4_DDJ3N7RI.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
     - **图示描述**：TaSe₂ 在 q_x–q_y 平面上的二维彩色图，左为虚部极化率 χ′′(q)（即嵌套函数），右为实部极化率 χ′(q)；亮度代表强度。
     - **关键特征**：χ′′ 的最强嵌套峰位于远离 q_CDW=(1/3,0,0) 的波矢（与 NbSe₂ 类似，约在 (1/3,1/3,0)）；χ′ 在 q_CDW 处出现弱峰，但该峰来自有限能量电子跃迁而非费米面几何；χ′′ 与 χ′ 的峰位置解耦。
     - **结论/意义**：χ′′ 反映拓扑、χ′ 才决定稳定性，二者解耦是"嵌套不驱动 CDW"的直接证据。
-  - ![图5 CeTe₃ 层状结构与纯 Te 层中 p_x/p_y 紧束缚模型及准一维费米面](../../raw/figures/Johannes2008fermi/fig_5_A4X8CSIK.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图5 CeTe₃ 层状结构与纯 Te 层中 p_x/p_y 紧束缚模型及准一维费米面](../../raw/figures/Johannes2008fermi/fig_5_A4X8CSIK.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
     - **图示描述**：(a) CeTe₃ 层状晶体结构，纯 Te 层（大球）与 Ce–Te 层交替堆叠；(b) 纯 Te 层中 Te p_x、p_y 轨道的最近邻紧束缚示意，t_σ≈5t_π；(c) 该模型给出的交叉影线准一维费米面，并叠加旋转 45° 的折叠后小布里渊区。
     - **关键特征**：E_F 附近态以 Te p 轨道为主；最近邻 Te 位因层堆叠对称性破缺而不等价，导致晶胞变大、BZ 旋转；折叠后准一维带状结构仍清晰可见，为后续嵌套分析提供基础。
     - **结论/意义**：从结构与最小 TB 模型出发解释 CeTe₃ 准一维费米面的来源，是图6、图7 嵌套/隐藏嵌套讨论的铺垫。
-  - ![图6 CeTe₃ 完整 DFT 费米面；沿 (110) 的 q_nest 完美嵌套但与 CDW 无关，q_CDW 处嵌套差却出现 χ′ 峰](../../raw/figures/Johannes2008fermi/fig_6_32RCJVCM.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图6 CeTe₃ 完整 DFT 费米面；沿 (110) 的 q_nest 完美嵌套但与 CDW 无关，q_CDW 处嵌套差却出现 χ′ 峰](../../raw/figures/Johannes2008fermi/fig_6_32RCJVCM.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
     - **图示描述**：(a) 完整 DFT 计算的 CeTe₃ 费米面（细线）与准一维 TB 模型结果（粗虚线）叠加；(b)(c) 为卡通图，分别演示沿 (110) 方向 q_nest 的近似完美嵌套、以及沿 q_CDW=(1,0,0) 方向的差嵌套。
     - **关键特征**：q_nest 处两准一维费米片几乎完全重合，产生 χ′′ 最强峰；q_CDW 处在 E_F 上嵌套差，但被连接两态的费米速度等大反向（v_k=−v_{k+q}），使 E_F 上下宽能量范围内 ε_k+vδk 与 ε_{k+q}−vδk 能量简并，即"隐藏嵌套"。
     - **结论/意义**：用隐藏嵌套机制解释为何正确的 CDW 波矢处 χ′ 出现峰而 χ′′ 不敏感。
-  - ![图7 CeTe₃ 的 χ′′(q) 最强峰在 q_nest 而 χ′(q) 最强峰在 q_CDW，二者解耦](../../raw/figures/Johannes2008fermi/fig_7_RUGZDKQS.png) -> [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+  - ![图7 CeTe₃ 的 χ′′(q) 最强峰在 q_nest 而 χ′(q) 最强峰在 q_CDW，二者解耦](../../raw/figures/Johannes2008fermi/fig_7_RUGZDKQS.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
     - **图示描述**：CeTe₃ 在 q_x–q_y 平面上的 χ′′(q)（上图）与 χ′(q)（下图）彩色图；箭头分别标出 q_nest（来自图6b 的完美几何嵌套）与 q_CDW 的位置。
     - **关键特征**：χ′′ 最强峰位于 q_nest，而同一位置在 χ′ 中完全消失；q_CDW 处 χ′′ 几乎无特征，χ′ 却出现清晰峰；χ′ 峰高的主要贡献来自远离 E_F 的有限能量跃迁，而非费米面嵌套。
     - **结论/意义**：以最直观方式把"费米面嵌套"与"CDW 电子不稳定性"彻底解耦，是全文核心论点的关键图证。
-  - ![图8 Na 原子链弛豫后形成之字形构型（间距 3.43 Å，角度 152°），加倍晶胞但不打开 E_F 能隙](../../raw/figures/Johannes2008fermi/fig_8_RIPIJUU5.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图8 Na 原子链弛豫后形成之字形构型（间距 3.43 Å，角度 152°），加倍晶胞但不打开 E_F 能隙](../../raw/figures/Johannes2008fermi/fig_8_RIPIJUU5.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
     - **图示描述**：初始为等间距（3.34 Å）一维 Na 原子链，非链方向间距 38 Å；允许二维自由度弛豫后形成的之字形（zigzag）稳定构型，标出原子间距 3.43 Å 与弯折角 152°。
     - **关键特征**：钳制离子时纯电子 CDW 不稳定；仅允许沿一维方向弛豫时即使预置二聚化也回弹；放开二维自由度才出现之字形畸变，晶胞加倍；但 BZ 边界 k=±π/a 处矩阵元因垂直方向积分而归零，E_F 处无能隙；强制二聚化虽打开能隙却能量上不稳定。
     - **结论/意义**：在最接近理想派尔斯的体系中也排除了 Peierls 机制，表明派尔斯不稳定性比理论预期更弱，CDW 与结构相变无本质区别。
@@ -142,12 +131,7 @@ M. D. Johannes, I. I. Mazin，2008，Physical Review B 77, 165135，DOI [10.1103
   - **project-5（SnTe 铁电模拟）**：弱方法学参考。本文展示 LDA/LDA+U、自旋-轨道耦合（重元素 Ta）、以及“钳制离子 vs 允许弛豫”的超胞对比计算，可类比用于铁电畸变稳定性测试；但物理对象（CDW vs 铁电位移）不同。
   - **project-1 / project-2 / project-3 / project-6**：无直接项目连接。
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
 - 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
@@ -158,7 +142,7 @@ M. D. Johannes, I. I. Mazin，2008，Physical Review B 77, 165135，DOI [10.1103
   3. Peierls 发散极其脆弱：引入 Drude 弛豫率 γ 后，χ′(±2k_F)/χ′(0)≈¼ln(1+64μ²/γ²)；γ~0.1–0.2 eV 时增强仅 2–2.5 倍；T=10 K 时约 4 倍；几何不完全嵌套 δk 时 χ′(2k_F)/χ′(0)≈½[1+ln(4k_F/δk)]，5% 偏差（δk/k_F=0.05）增强仅约 3 倍。第三维方向 δk 量级色散同样破坏嵌套，输运[[../concepts/migdal-eliashberg-theory|各向异性]]小于一个数量级的材料在“嵌套意义上”是三维的。
   4. DFT 总能量表达式 δE_tot=−½δV_ext χ δV_ext=−½δV_ext χ₀(1−v_iχ₀)⁻¹δV_ext 表明：即使无相互作用的 χ₀ 发散，全极化率 χ=χ₀/ε 也受 −1/v_i 限制而不发散；考虑局域场后给出 Pick–Cohen–Martin 声子频率公式。相互作用半满系统对无穷小扰动稳定，只有电声耦合超过临界值的有限畸变才能稳定。
   5. CDW 能量增益的来源被定量改写：δE_G/V²≈(1/16μ)[1+2ln(8μ/V)]。第一项（非发散）来自费米能级附近 ∆E_k<V 的态；第二项（随带宽对数发散）来自费米能级以下直至带底的所有占据态，是主导项。因此“优化所有占据态能量”比“在最大费米面面积上打开能隙”更重要，带间跃迁不可忽略。
-  6. 绝缘二带[[../concepts/tight-binding|[[../concepts/tight-binding|紧束缚]]模型]]（带间距 ε）的带间极化率 χ′_inter(q)=(1/a)/√(ε²−4sin²(qa/2))，在 BZ 边界 q=π/a 处相对 q=0 增强 ε/√(ε²−4) 倍；ε=2.25（能隙为带宽 1/8）时增强 2.2 倍，与典型“嵌套增强”同量级，说明没有费米面也能产生类 CDW 的 χ′ 结构。
+  6. 绝缘二带[[../concepts/tight-binding|紧束缚模型]]（带间距 ε）的带间极化率 χ′_inter(q)=(1/a)/√(ε²−4sin²(qa/2))，在 BZ 边界 q=π/a 处相对 q=0 增强 ε/√(ε²−4) 倍；ε=2.25（能隙为带宽 1/8）时增强 2.2 倍，与典型“嵌套增强”同量级，说明没有费米面也能产生类 CDW 的 χ′ 结构。
   7. NbSe₂：χ′′ 的嵌套峰在 q=(1/3,1/3,0)，而实验 q_CDW=(1/3,0,0)；χ′ 在 q_CDW 仅有弱峰，必须与同波矢电声耦合协同。超胞计算中离子钳制时即使人工预置电荷调制也会弛豫回高对称态；允许离子移动后正确波矢的不稳定性才出现。
   8. TaSe₂：[[../concepts/spin-orbit-coupling|自旋-轨道耦合]]（重 Ta）显著改变 Γ–K 附近色散和费米面拓扑；E_F 下移 0.04 eV 可使计算费米面与 ARPES 近乎一致，但该移动对 χ′、χ′′ 无可观察影响，直接证明费米面形状对决定 CDW 磁化率结构不重要；q_CDW 处“连弱嵌套都没有”，χ′ 峰来自有限能量电子跃迁。
   9. CeTe₃：纯 Te 层的 p_x/p_y 最近邻紧束缚模型（t_σ≈5t_π）给出交叉影线准一维费米面，折叠入旋转 45° 的小 BZ；沿 (110) 的 q_nest 近乎完美嵌套并产生最强 χ′′ 峰，但与 CDW 无关；q_CDW=(1,0,0) 处 χ′′ 弱而 χ′ 强，原因是被连接两态的费米速度等大反向（v_k=−v_{k+q}），使 E_F 上下宽能量范围内 ε_k+vδk 与 ε_{k+q}−vδk 能量简并——即“[[../concepts/hidden-nesting|隐藏嵌套]]”（Whangbo et al., Science 1991）。计算用 LDA+U（U=4.5 eV，fully localized limit）移除 Ce f 带，~30000 k 点。

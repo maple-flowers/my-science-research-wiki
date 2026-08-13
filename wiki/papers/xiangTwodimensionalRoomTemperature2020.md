@@ -6,7 +6,7 @@ year: 2020
 journal: "National Science Review"
 doi: "10.1093/nsr/nwaa258"
 url: "https://doi.org/10.1093/nsr/nwaa258"
-paper_type: perspective
+paper_type: review
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/xiangTwodimensionalRoomTemperature2020]]
@@ -15,7 +15,7 @@ concepts: [multiferroicity, magnetoelectric-coupling, 2d-materials, polarization
 entities: [CuCrS2, CuCrSe2]
 methods: [dft]
 materials: [CuCrS2, CuCrSe2, CrS2]
-figures: [crystal-structures]
+figures: []
 领域基础知识:: >-
   多铁材料，特别是同时具有铁电性和铁磁性的材料，因在新兴存储器等领域的应用潜力而备受关注。传统三维多铁材料因铁电（需空d轨道）和磁性（需部分填充d轨道）的化学本征矛盾而极为罕见，且已知材料的磁电耦合弱、工作温度低，难以实用化。
 研究背景:: >-

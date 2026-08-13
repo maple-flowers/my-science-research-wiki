@@ -6,7 +6,7 @@ year: 1996
 journal: "Physical Review B"
 doi: "10.1103/PhysRevB.54.11169"
 url: "https://doi.org/10.1103/PhysRevB.54.11169"
-paper_type: method
+paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/kresseEfficientIterativeSchemes1996d]]
@@ -15,7 +15,7 @@ concepts: [density-functional-theory, rmm-diis, pulay-mixing, kerker-preconditio
 entities: [VASP]
 methods: [dft, plane-wave-basis, ultrasoft-pseudopotential, rmm-diis, pulay-mixing, kerker-preconditioning, conjugate-gradient, iterative-diagonalization, methfessel-paxton-smearing, charge-density-mixing]
 materials: [diamond, fcc-Fe, fcc-Al]
-figures: [convergence-plots, timing-tables, algorithm-scaling]
+figures: [mathematical-models-computational]
 领域基础知识:: >-
   Kohn-Sham 密度泛函理论 (KS-DFT)、局域密度近似 (LDA)、广义梯度近似 (GGA)、平面波基组、赝势 (Pseudopotentials)、自洽场 (SCF) 方法、迭代对角化、电荷密度混合。
 研究背景:: >-
@@ -94,32 +94,32 @@ G. Kresse、J. Furthmüller，1996，Physical Review B 54(16), 11169–11186，D
   - 相关论文 [[../../raw/note/kresseEfficientIterativeSchemes1996d]]
 ## 📊 关键图表
   - 图1：fcc-Fe（4 晶胞）自洽循环中不同方案下原子受力的收敛性，opt（式25 修正）较 out 快约 100 倍，证明 Pulay 型力修正对离子弛豫/MD 的关键作用。
-  ![Fig.1 力的收敛性对比（fcc-Fe）](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_1_CDNY7B53.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  ![Fig.1 力的收敛性对比（fcc-Fe）](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_1_CDNY7B53.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：横轴为自洽迭代步数，纵轴为原子受力（单位 eV/Å），对比 fcc-Fe 4 晶胞在自洽循环中采用 out（未经修正的输出密度）、mix（混合密度）、opt（混合密度叠加式(25) Pulay 力修正）三种方案时力的收敛曲线。
   - **关键特征**：out 曲线数十步后仍剧烈振荡，误差约为 opt 的 100 倍；mix 曲线收敛性大幅改善但初期仍有波动；opt 曲线最平滑，约 10 步即达高精度，且随步数单调下降。
   - **结论/意义**：证明原子力对电荷密度的微小误差极其敏感，式(25) 修正计入了离子位移时输入密度自身的变化，是获得可靠结构弛豫与分子动力学力的关键。
   - 图2：RMM-DIIS 在不同尺寸立方金刚石超胞（1×–8×）中的非自洽总自由能收敛，各曲线几乎重合，证明对角化迭代次数与系统尺寸无关。
-  ![Fig.2 RMM-DIIS 对金刚石的非自洽能量收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_2_K2M97DMS.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  ![Fig.2 RMM-DIIS 对金刚石的非自洽能量收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_2_K2M97DMS.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：固定势场下仅迭代波函数，横轴为 RMM-DIIS 迭代步数，纵轴为总自由能（单位 eV），四条曲线分别对应 1（8 原子）、2、4、8 个立方金刚石晶胞。
   - **关键特征**：四条收敛曲线几乎完全重合；尽管随超胞增大最高占据态与最低空态之间隙缩小，RMM-DIIS 仍稳定收敛到正确本征态；初始波函数由随机初始化加 3 次 CG 子空间旋转生成。
   - **结论/意义**：直接证明 RMM-DIIS 对角化所需迭代次数与体系尺寸无关，是本文 O(N²) 标度论断的核心证据之一。
   - 图3：RMM-DIIS（实）与 CGa（虚）对不同尺寸 fcc-Fe 超胞的非自洽能量收敛，逐带 RMM-DIIS 比全自由度 CGa 振荡更小、步数更少。
-  ![Fig.3 RMM-DIIS 与 CGa 对 fcc-Fe 的非自洽收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_3_GBM9JB34.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  ![Fig.3 RMM-DIIS 与 CGa 对 fcc-Fe 的非自洽收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_3_GBM9JB34.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：固定势场下对比 RMM-DIIS（实线）与直接最小化 KS 泛函的 CGa（虚线），横轴为迭代步数，纵轴为 fcc-Fe 超胞的总自由能（单位 eV），覆盖 1×–8× 不同超胞尺寸。
   - **关键特征**：两种方法均表现出与尺寸无关的收敛性；RMM-DIIS 能量下降更快、曲线更平滑，所需步数更少；CGa 振荡略大但也能在固定势场下收敛。
   - **结论/意义**：说明即使在非自洽阶段，分而治之的"逐带对角化"策略也比整体优化的直接法更高效，为后续自洽对比奠定基线。
   - 图4：自洽计算中 RMM-DIIS 与 CGa 对金刚石的总能量（上）和力（下）收敛，RMM-DIIS 约 10–12 步、力达三位小数精度，比 CGa 快 2–3 倍。
-  ![Fig.4 金刚石自洽能量与力收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_4_45NBH4FX.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  ![Fig.4 金刚石自洽能量与力收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_4_45NBH4FX.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：开启自洽循环后金刚石体系的收敛曲线，上图纵轴为总能量（单位 eV）、下图纵轴为原子力（单位 eV/Å），横轴均为自洽迭代步数，RMM-DIIS 为实线、CGa 为虚线。
   - **关键特征**：能量上 RMM-DIIS 约 12 步即达极高精度，CGa 需约 30 步；力上 RMM-DIIS 曲线平滑快速下降，10 步后小数点后三位以上正确，CGa 需至少加倍迭代步数才能达到同等精度。
   - **结论/意义**：这是"自洽循环 + 专门混合"策略完胜直接最小化的直接证据——自洽循环把耦合问题解耦，由 Pulay/Kerker 混合高效处理密度更新，而 CGa 在密度变化引起的复杂势能面上共轭梯度搜索效率骤降。
   - 图5：fcc-Fe 自洽能量（上）与力（下）收敛，Kerker+Pulay 混合使迭代次数从最小到最大晶胞仅增约一倍，而 CGa 对大晶胞几乎不收敛。
-  ![Fig.5 fcc-Fe 自洽能量与力收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_5_MDMEZAFI.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  ![Fig.5 fcc-Fe 自洽能量与力收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_5_MDMEZAFI.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：过渡金属 fcc-Fe 的自洽收敛，上图为总能量、下图为原子力随迭代步数的变化，对比 RMM-DIIS（实线）与 CGa（虚线），并覆盖 1-cell 到 8-cell 不同超胞尺寸。
   - **关键特征**：RMM-DIIS 能量约 20 步内收敛，从最小到最大超胞迭代次数仅增加约一倍；CGa 收敛非常缓慢，且随体系尺寸增大显著恶化，大晶胞下几乎不收敛；Fe 的开壳层 d 电子使电荷晃动比金刚石更严重。
   - **结论/意义**：证明 RMM-DIIS 结合 Pulay 混合与 Kerker 预条件能有效压制金属体系的长波电荷振荡，而直接法因缺乏对密度更新的预条件在金属中失效。
   - 图6：近自由电子金属 fcc-Al 的自洽能量收敛，RMM-DIIS 仅需约 8 步且与尺寸无关，CGa 随尺寸增大性能急剧下降。
-  ![Fig.6 fcc-Al 自洽能量收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_6_D9VHA5DL.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  ![Fig.6 fcc-Al 自洽能量收敛](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_6_D9VHA5DL.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：近自由电子金属 fcc-Al 的自洽总自由能（单位 eV）随迭代步数的收敛曲线，对比 RMM-DIIS 与 CGa，并覆盖从小到大多个超胞尺寸。
   - **关键特征**：RMM-DIIS 仅需约 8 步即收敛，且与体系尺寸无关；CGa 收敛性随尺寸增大而显著变差；Al 的介电屏蔽行为与 Kerker 模型高度吻合，使预条件混合近乎最优。
   - **结论/意义**：再次强调针对金属长波介电响应设计 Kerker 预条件的重要性，是 RMM-DIIS+Pulay 方案在简单金属上接近最优收敛的直接体现。

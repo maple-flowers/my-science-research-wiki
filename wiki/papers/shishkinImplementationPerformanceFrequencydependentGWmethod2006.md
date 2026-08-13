@@ -1,22 +1,22 @@
 ---
 citekey: shishkinImplementationPerformanceFrequencydependentGWmethod2006
-title: "Implementation and performance of the frequency-dependent<mml:math xmlns:mml='http://www.w3.org/1998/Math/MathML' display='inline'><mml:mrow><mml:mi>G</mml:mi><mml:mi>W</mml:mi></mml:mrow></mml:math>method within the PAW framework"
-title_zh: "频率相关的实现和性能http://www.w3.org/1998/Math/MathML“display=“inline”><mml:mrow><mml:mi>G<mml:mi>W</mml:mi>PAW框架内的方法"
+title: "Implementation and performance of the frequency-dependent GW method within the PAW framework"
+title_zh: "PAW 框架内频率相关 GW 方法的实现与性能"
 authors: [M. Shishkin, G. Kresse]
 year: 2006
 journal: "Physical Review B"
 doi: "10.1103/PhysRevB.74.035101"
 url: "https://doi.org/10.1103/PhysRevB.74.035101"
-paper_type: experiment
+paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/shishkinImplementationPerformanceFrequencydependentGWmethod2006]]
-projects: [project-4]
+projects: []
 concepts: [density-functional-theory]
 entities: [GaAs, VASP]
-methods: [arpes, device-i-v, dft]
+methods: [dft]
 materials: [GaAs]
-figures: [electronic-bands, mathematical-models]
+figures: [electronic-bands-cdw-transport]
 领域基础知识:: >-
   固体物理中，激发态能量（准粒子能量）的计算是连接理论与实验（如光电发射）的关键。传统的密度泛函理论（DFT）在预测带隙上存在系统性偏差，而GW近似（GW approximation）通过引入动态屏蔽的多体电子-电子相互作用，是目前最主流的高精度激发态计算方法。计算成本高是其核心挑战，尤其在处理全频率依赖性和d/f电子时。
 研究背景:: >-
@@ -41,8 +41,6 @@ tags:
   - paper
   - type/experiment
   - year/2006
-  - project/project-4
-  - relevance/project-4/medium
   - concept/density-functional-theory
   - entity/GaAs
   - entity/VASP
@@ -50,7 +48,6 @@ tags:
   - method/device-i-v
   - method/dft
   - material/GaAs
-  - topic/molecular-crystal
   - topic/optical-spectra
   - topic/polarization
 ---
@@ -67,7 +64,6 @@ M. Shishkin, G. Kresse，2006，Physical Review B 74, 035101，DOI: 10.1103/Phys
   - 实体 [[../entities/VASP]]
   - 实体 [[../entities/GaAs]]
   - 图表 [[../figures/electronic-bands]]
-  - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2006]]
   - 相关论文 [[../../raw/note/shishkinImplementationPerformanceFrequencydependentGWmethod2006]]
 
@@ -84,7 +80,7 @@ M. Shishkin, G. Kresse，2006，Physical Review B 74, 035101，DOI: 10.1103/Phys
   - 实体 `troullier-martins-pseudopotential`（TM模守恒赝势）：对比基准，在1 Ry以上散射性质偏离全电子结果，导致GW带隙偏大0.1-0.2 eV。
 
 ## 📊 关键图表
-  - ![图1 PAW加性缀加示意：(a)全空间平面波赝量，(b)减赝单中心项，(c)加全电子单中心项](../../raw/figures/shishkinImplementationPerformanceFrequencydependentGWmethod2006/fig_1_VIE5IKT4.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图1 PAW加性缀加示意：(a)全空间平面波赝量，(b)减赝单中心项，(c)加全电子单中心项](../../raw/figures/shishkinImplementationPerformanceFrequencydependentGWmethod2006/fig_1_VIE5IKT4.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - **图示描述**：图1用(a)(b)(c)三个子图直观说明PAW方法的核心思想——加性缀加（additive augmentation）。(a)在整个空间的规则平面波网格上定义平滑的赝波函数和赝电荷密度；(b)在原子球内重构赝波函数并计算赝单中心能量项，随后将其从总能量中**减去**；(c)在球内重构全电子（AE）波函数并计算AE单中心能量项，再将其**加回**。
   - **关键特征**：平面波部分处理平滑的价电子区域，描述质量与模守恒赝势相当；原子球内通过"先减后加"的补丁式修正恢复全电子波函数的快速振荡；该加性缀加也是本文把球内GW自能近似为Hartree-Fock、并在HF水平处理芯-价相互作用的形式前提。
   - **结论/意义**：此图是理解全文PAW-GW实现的概念基础——它解释了PAW为何能同时保留赝势的平面波效率与全电子方法在芯区的精度。
@@ -124,7 +120,6 @@ M. Shishkin, G. Kresse，2006，Physical Review B 74, 035101，DOI: 10.1103/Phys
 无直接项目连接。本文是GW计算方法学论文，属topic Z01-材料模拟计算设计；可作为project-4（TTF分子计算）及未来任何需要高精度准粒子能带/带隙计算的方法论参考。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 
 ## 📝 组织与用词
 文章按"方法动机（DFT带隙不准、GW成本高、d电子难处理）→ PAW形式体系（加性缀加、准粒子方程、介电矩阵、自能、单中心项HF近似、芯-价HF处理）→ 谱表示加速算法（极化率Hilbert变换、自能屏蔽双电子积分插值）→ Si/GaAs/CdS三材料系统验证（逐步解冻芯壳层、LDA vs HF芯-价对标全电子与赝势文献）→ 结论与耗时"组织。论证核心链条：PAW球内自能用HF近似误差<0.02 eV，平面波项精确处理；谱表示使全频率GW计算量约为静态2倍；HF处理芯-价相互作用是含d电子体系收敛的关键。值得复用的术语：

@@ -1,22 +1,22 @@
 ---
 citekey: fengFerroelectricityMultiferroicityTwodimensional2020
-title: "Ferroelectricity and multiferroicity in two-dimensional Sc                     <sub>2</sub>                     P                     <sub>2</sub>                     Se                     <sub>6</sub>                     and ScCrP                     <sub>2</sub>                     Se                     <sub>6</sub>                     monolayers"
-title_zh: "二维Sc<sub>2</sub>P<sub>2</sub>Se<sub>6</sub>"
+title: "Ferroelectricity and multiferroicity in two-dimensional Sc₂P₂Se₆ and ScCrP₂Se₆ monolayers"
+title_zh: "二维 Sc₂P₂Se₆ 与 ScCrP₂Se₆ 单层的铁电性与多铁性"
 authors: [Xukun Feng, Jian Liu, Xikui Ma, Mingwen Zhao]
 year: 2020
 journal: "Physical Chemistry Chemical Physics"
 doi: "10.1039/C9CP06966F"
 url: "https://doi.org/10.1039/C9CP06966F"
-paper_type: experiment
+paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/fengFerroelectricityMultiferroicityTwodimensional2020]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-2, project-4, project-5]
 concepts: [2D-materials, berry-phase, density-functional-theory, ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling]
 entities: [Fe3GeTe2, In2Se3, SnTe, TMDs, VASP, h-BN]
 methods: [afm-pfm, berry-phase, dft, monte-carlo, neb]
 materials: [Fe3GeTe2, In2Se3, SnTe, TMDs, h-BN]
-figures: [crystal-structures, electronic-bands, mathematical-models]
+figures: [crystal-structures-bulk, domain-walls-switching-properties, experimental-setups, mathematical-models-computational, mathematical-models-formulas, mathematical-models-simulations]
 领域基础知识:: >-
   本领域涉及凝聚态物理与材料科学，核心是**多铁性材料**，即同时具有**铁电性**（可被外电场反转的自发极化）和**铁磁性**（可被外磁场反转的自发磁化）的单一材料。二维多铁材料因其在纳米级高密度、低功耗存储器（如磁电存储器）中的潜力而备受关注。研究的主要挑战在于突破“d⁰规则”，该规则指出铁电性和磁性对过渡金属离子的d电子排布需求是相互排斥的。
 研究背景:: >-
@@ -41,20 +41,12 @@ tags:
   - paper
   - type/experiment
   - year/2020
-  - project/project-1
-  - relevance/project-1/medium
   - project/project-2
   - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/medium
   - project/project-4
   - relevance/project-4/medium
   - project/project-5
   - relevance/project-5/strong
-  - project/project-6
-  - relevance/project-6/medium
-  - project/project-7
-  - relevance/project-7/weak
   - concept/2D-materials
   - concept/berry-phase
   - concept/density-functional-theory
@@ -82,12 +74,9 @@ tags:
   - topic/2d-materials
   - topic/charge-density-wave
   - topic/ferroelectricity
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/phase-transition
   - topic/polarization
-  - topic/two-photon-fluorescence
 ---
 
 ## fengFerroelectricityMultiferroicityTwodimensional2020 — 二维 Sc₂P₂Se₆ 与 ScCrP₂Se₆ 单层中的铁电性与多铁性
@@ -101,7 +90,7 @@ Xukun Feng、Jian Liu、Xikui Ma、Mingwen Zhao（山东大学），2020，*Phys
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/2D-materials]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/ferroelasticity]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/d0-rule|d⁰ 规则]]、[[../concepts/out-of-plane-ferroelectricity|面外铁电性]]、[[../concepts/antiferroelectricity|反铁电性]]、[[../concepts/superexchange-goodenough-kanamori|Goodenough–Kanamori 超交换规则]]、[[../concepts/magnetic-anisotropy-energy|磁各向异性能]]、[[../concepts/spin-lattice-charge-coupling|自旋-晶格-电荷耦合]]、[[../concepts/transition-metal-phosphorus-trichalcogenides|过渡金属磷三硫/硒化物]]、[[../concepts/C2DB]]、[[../concepts/CINEB|CINEB 爬坡弹性带]]、[[../concepts/Sc2P2Se6|Sc₂P₂Se₆]]、[[../concepts/ScCrP2Se6|ScCrP₂Se₆]]
   - 实体 [[../entities/VASP]]、[[../entities/Fe3GeTe2]]、[[../entities/In2Se3]]、[[../entities/TMDs]]、[[../entities/SnTe]]、[[../entities/h-BN]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - 年度 [[../write/2020]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 **fengFerroelectricityMultiferroicityTwodimensional2020**
@@ -110,19 +99,19 @@ Xukun Feng、Jian Liu、Xikui Ma、Mingwen Zhao（山东大学），2020，*Phys
   - （本页建议项均已提升为现有 wiki 双链）
 
 ## 📊 关键图表
-  - ![图1 Sc₂P₂Se₆ 和 ScCrP₂Se₆ FE 相晶体结构（俯/侧视图，箭头为极化方向）](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_1_KNUZRZVA.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图1 Sc₂P₂Se₆ 和 ScCrP₂Se₆ FE 相晶体结构（俯/侧视图，箭头为极化方向）](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_1_KNUZRZVA.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：(a) Sc₂P₂Se₆ 与 (b) ScCrP₂Se₆ 铁电相的俯视图与侧视图，菱形框标记原胞，箭头指示垂直于平面的自发极化方向。
   - **关键特征**：Sc₂P₂Se₆ 空间群 P31m、a=6.683 Å；ScCrP₂Se₆ FE 相空间群 P3、a=6.535 Å；铁电性源于半数 P 原子相对 Se 面的垂直翘曲（而非 CuInP₂S₆ 中 Cu 离子位移），由 Sc³⁺ 大离子半径迫使 P 离开平面、破缺反演对称性；AFE 相 ScCrP₂Se₆ 畸变为 P1，a=6.303 Å、b=11.651 Å。
   - **结论/意义**：奠定"非磁性 Sc 承担极化、磁性 Cr 承担磁矩"的功能分工结构基础，是突破 d⁰ 规则的几何起源。
-  - ![图2 Berry 相位法计算的极化随 c 轴归一化位移变化（Sc₂P₂Se₆ 12.36 pC/m，ScCrP₂Se₆ 6.11 pC/m）](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_2_EBAXUVA2.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图2 Berry 相位法计算的极化随 c 轴归一化位移变化（Sc₂P₂Se₆ 12.36 pC/m，ScCrP₂Se₆ 6.11 pC/m）](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_2_EBAXUVA2.png) → [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：横轴为沿 c 轴的归一化原子位移（FE-PE-FE 绝热路径），纵轴为 Berry 相位法计算的面外电偶极矩（pC/m），(a) Sc₂P₂Se₆、(b) ScCrP₂Se₆。
   - **关键特征**：Sc₂P₂Se₆ 极化 12.36 pC/m，ScCrP₂Se₆ 6.11 pC/m；按层厚 4.0 Å 折算为 3.09 与 1.53 μC/cm²；与 Sc₂CO₂（1.60 μC/cm²）相当，比 CuInP₂Se₆（0.322 μC/cm²）、AgBiP₂Se₆（0.2 μC/cm²）大约一个数量级；Cr 取代后极化减半反映电子结构重构。
   - **结论/意义**：定量证实两种单层均为面外铁电体，并给出可与实验对照的极化强度量级。
-  - ![图3 CINEB 最小能量路径：FE-PE-FE 翻转（a,b）与 FE-AFE 相变（c,d），势垒 0.34/0.31 eV 与 0.13/0.12 eV](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_3_DRGCZ5TZ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图3 CINEB 最小能量路径：FE-PE-FE 翻转（a,b）与 FE-AFE 相变（c,d），势垒 0.34/0.31 eV 与 0.13/0.12 eV](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_3_DRGCZ5TZ.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
   - **图示描述**：横轴为 CINEB 反应坐标，纵轴为每化学式单元的能量（eV/f.u.）；(a,b) FE→PE→FE 极化翻转路径，(c,d) FE↔AFE 相变路径。
   - **关键特征**：FE-PE-FE 翻转势垒 0.34 eV/f.u.（Sc₂P₂Se₆）与 0.31 eV/f.u.（ScCrP₂Se₆），远高于 α-In₂Se₃ 的 0.057 eV/f.u.；FE-AFE 势垒 0.13/0.12 eV/f.u.；AFE 相较 FE 相能量低 0.1–0.14 eV/f.u.，但势垒高于室温 k_BT≈0.026 eV，FE 是稳健亚稳态；FE/AFE 竞争由原子位移应变能与极化电场能（去极化场）共同决定。
   - **结论/意义**：证明 FE 态在室温下不会自发滑向 AFE 态，且可被外电场初始化和翻转，为非易失性极化提供热力学保障。
-  - ![图4 (a) FE/AFE 相下 FM、AFM1/2/3 相对能量；(b) (110) 面内角度依赖磁各向异性能](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_4_BA9J7JI8.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图4 (a) FE/AFE 相下 FM、AFM1/2/3 相对能量；(b) (110) 面内角度依赖磁各向异性能](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_4_BA9J7JI8.png) → [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：(a) 2×1 超胞中 FM、AFM1、AFM2、AFM3 四种磁序在 FE 与 AFE 相下的相对能量柱状图（插图标注 Cr 离子距离，单位 Å）；(b) ScCrP₂Se₆ 在 (110) 面内磁各向异性能（μeV/Cr）随磁化方向角度的变化曲线。
   - **关键特征**：FE 相磁基态为 AFM，EAFM−EFM≈−4.3 meV/f.u.（弱 AFM）；AFE 相磁基态翻转为 FM；MAE 范围 7.2–195.7 μeV/Cr，大于立方 Fe/Ni 的 0.4–5 μeV；FE-AFM 易轴沿 [010]（垂直极化方向），AFE-FM 易轴沿 [111]；高 MAE 足以抵抗 Mermin–Wagner 限制、支撑二维长程磁序。
   - **结论/意义**：直接给出"FE 对 AFM、AFE 对 FM"的磁电锁定证据，并确认二维磁性可稳定存在。
@@ -130,20 +119,20 @@ Xukun Feng、Jian Liu、Xikui Ma、Mingwen Zhao（山东大学），2020，*Phys
   - **图示描述**：(a,b) 对比 FE-AFM 与 AFE-FM 态下 Cr d 轨道与 Se p 轨道在费米能级附近的 PDOS 重叠；(c) 标出 J1/J2/J3 对应的 Cr1–Cr2、Cr1–Cr3、Cr1–Cr4 路径；(d) 50×25 超胞（2500 磁位）、每温度 10⁹ 步 MC 模拟的磁化强度随温度变化。
   - **关键特征**：FE 相 Se p 在 E_F 附近贡献小，Cr–Se–Se–Cr 间接交换弱，直接交换占主导→AFM；AFE 相晶格畸变缩短 Cr–Se 距离、增强 p-d 杂化，Cr1–Cr2 路径重叠最大、Cr1–Cr4 最小，整体超交换增强→FM；居里温度约 46 K，与单层 CrI₃（45 K）相当。（注：raw/figures 目录未提供独立图 5 图片文件，此处以文字描述。）
   - **结论/意义**：从电子结构层面阐明 FE/AFE 切换之所以能翻转磁序，是自旋-晶格-电荷耦合的微观机制。
-  - ![图6 外电场方向 (a) 与四态（FE-AFM/FE-FM/AFE-AFM/AFE-FM）能量随电场变化，0.82 V/Å 处发生 FE-AFM ↔ AFE-FM 切换](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_6_KSEK8MIC.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图6 外电场方向 (a) 与四态（FE-AFM/FE-FM/AFE-AFM/AFE-FM）能量随电场变化，0.82 V/Å 处发生 FE-AFM ↔ AFE-FM 切换](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/fig_6_KSEK8MIC.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
   - **图示描述**：(a) 沿极化方向施加外电场的几何示意；(b) FE-AFM、FE-FM、AFE-AFM、AFE-FM 四种态的能量随外电场强度（V/Å）的演化曲线。
   - **关键特征**：FE 与 AFE 能量对电场均呈二次关系，但 FE 相变化斜率更大；静态磁交换能本身几乎不随电场改变，切换由静电能驱动；临界电场 ≈0.82 V/Å 处基态由 FE-AFM 转为 AFE-FM；反向电场可实现可逆翻转，构成"电写磁读"原型。
   - **结论/意义**：首次在该体系理论演示用外电场在 FM/AFM 之间可逆切换，是非易失磁电存储器件的核心功能验证。
-  - 公式 (1) 形成能：![Eform = (E_Sc2P2Se6 − 2μSc − 2μP − 6μSe)/n](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/eq_1_8NSJ2NRV.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - 公式 (1) 形成能：![Eform = (E_Sc2P2Se6 − 2μSc − 2μP − 6μSe)/n](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/eq_1_8NSJ2NRV.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
   - **图示描述**：Sc₂P₂Se₆ 单层的形成能定义，E_Sc2P2Se6 为 FE 相总能量，μ_Sc、μ_P、μ_Se 为对应体相化学势，n 为原胞原子数。
   - **关键特征**：计算值 −0.922 eV/atom，负值表明热力学稳定；配合无虚频声子谱共同确认结构可合成性。
-  - 公式 (2) 形成能：![Eform = (E_ScCrP2Se6 − μSc − μCr − 2μP − 6μSe)/n](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/eq_2_RVMXSQ4R.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - 公式 (2) 形成能：![Eform = (E_ScCrP2Se6 − μSc − μCr − 2μP − 6μSe)/n](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/eq_2_RVMXSQ4R.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
   - **图示描述**：ScCrP₂Se₆ 单层形成能定义，在公式 (1) 基础上加入 μ_Cr 并把 Sc 化学势系数改为 1。
   - **关键特征**：计算值 −0.587 eV/atom；多种 Cr 分布构型能量差 < 0.01 eV/atom，均出现面外极化与自旋极化共存，作者取 Cr 均匀分布构型作代表。
-  - 表 I AFE 相四磁序相对能量（meV）与 J1/J2/J3 交换常数（meV）：![tab_1](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/tab_1_C76XBQJN.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - 表 I AFE 相四磁序相对能量（meV）与 J1/J2/J3 交换常数（meV）：![tab_1](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/tab_1_C76XBQJN.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
   - **图示描述**：AFE 相 2×1×1 超胞中 FM、AFM1、AFM2、AFM3 相对 FM 构型的总能量，以及 Cr1–Cr2、Cr1–Cr3、Cr1–Cr4 三条路径的最近邻交换耦合参数。
   - **关键特征**：EFM=0、EAFM1=23.3、EAFM2=33.8、EAFM3=21.6 meV（均高于 FM，确认 FM 为基态）；J1=0.25、J2=0.22、J3=0.08 meV，全部为正，按 Goodenough–Kanamori 规则对应 FM 超交换；J1 路径（Cr1–Cr2）p-d 杂化最强，与 PDOS 结果一致。
-  - 表 II 磁各向异性能（μeV）：![tab_2](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/tab_2_XJCN8GYA.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - 表 II 磁各向异性能（μeV）：![tab_2](../../raw/figures/fengFerroelectricityMultiferroicityTwodimensional2020/tab_2_XJCN8GYA.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：ScCrP₂Se₆ FE 与 AFE 相沿 [100]、[010]、[110]、[001]、[111] 五个方向的磁各向异性能，易轴能量置零。
   - **关键特征**：FE 相 MAE = 7.2/0.0/31.2/106.9/195.7 μeV（易轴 [010]）；AFE 相 MAE = 123.9/82.7/31.8/156.5/0.0 μeV（易轴 [111]）；相变不仅翻转磁序，也翻转易轴方向，体现磁与晶格的强耦合。
 
@@ -157,13 +146,9 @@ Xukun Feng、Jian Liu、Xikui Ma、Mingwen Zhao（山东大学），2020，*Phys
   - **project-7（CDW）**：无直接项目连接。本文未涉及电荷密度波；虽 AFE 相 P1 对称性畸变与 CDW 有形式上的晶格畸变相似性，但机制不同，不构成可迁移参考。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
 - 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
 文章按"数据库筛选原型 → 半取代设计多铁体 → 声子/形成能验证稳定性 → Berry 相位定量极化 → CINEB 给出 FE↔PE↔FE 与 FE↔AFE 势垒 → 四磁序对比锁定 FE-AFM/AFE-FM → PDOS 与 J 常数揭示超交换机制 → MAE 保障二维长程磁序 → MC 估 TC≈46 K → 外电场演示 0.82 V/Å 临界切换"的递进链条组织；引言以 d⁰ 规则立靶，结论以自旋-晶格-电荷耦合回应。值得复用的术语：

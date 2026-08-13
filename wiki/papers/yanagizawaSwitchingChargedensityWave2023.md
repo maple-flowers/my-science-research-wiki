@@ -15,7 +15,7 @@ concepts: [charge-density-wave, fermi-surface-nesting, 2d-materials, density-fun
 entities: [TMDs, TiTe2, TiSe2, bilayer-graphene, SiC, Quantum-Espresso, potassium]
 methods: [arpes, mbe, dft, gga, rheed, k-deposition-doping, temperature-dependent-arpes, electronic-susceptibility, first-principles]
 materials: [TiTe2, TiSe2, bilayer-graphene, 4H-SiC]
-figures: [crystal-structures, electronic-bands, electronic-devices]
+figures: [crystal-structures-bulk, electronic-bands-band-structures, electronic-bands-dos-fermi]
 # ↓↓↓ 十个文献矩阵字段（逐字复制自 note 中第一份 AI 解读第九节的 blockquote）↓↓↓
 领域基础知识:: >-
   电荷密度波（CDW）是低维体系中电子密度周期性调制的量子凝聚态，常与晶格畸变共存。过渡金属二硫族化合物（TMDs）是研究CDW与维度、超导等其他量子序相互作用的理想平台。角分辨光电子能谱（ARPES）是直接测量材料电子结构（能带、费米面）的核心实验技术。费米面嵌套和激子凝聚是解释CDW形成的两种主要微观机制。
@@ -102,19 +102,19 @@ Koki Yanagizawa, Katsuaki Sugawara, Tappei Kawakami, Ryuichi Ando, Ken Yaegashi,
 
 ## 📊 关键图表
   - **图1：原始单层 1T-TiTe₂ 的电子结构与 2×2 CDW 指纹**
-  - ![图1 单层 1T-TiTe₂ 晶体结构、RHEED、180 K/30 K ARPES 能带与 DFT 计算、2×2 BZ 折叠](../../raw/figures/yanagizawaSwitchingChargedensityWave2023/fig_1_8BLPKNE6.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+  - ![图1 单层 1T-TiTe₂ 晶体结构、RHEED、180 K/30 K ARPES 能带与 DFT 计算、2×2 BZ 折叠](../../raw/figures/yanagizawaSwitchingChargedensityWave2023/fig_1_8BLPKNE6.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
     - **图示描述**：(a) 单层 1T-TiTe₂ 八面体配位晶体结构；(b) 双层石墨烯/SiC 上生长薄膜的 RHEED 图；(c)–(f) 沿 Γ–M 方向、T = 180 K 与 30 K 的 EDC、ARPES 强度与二阶导数图；(e) DFT 计算能带；(g) 正常相与 2×2 CDW 相布里渊区对比。
     - **关键特征**：180 K 时 Γ 点可见 Te 5p 空穴带穿越 E_F、M 点有 Ti 3d 浅电子带，约 −1.5 eV 处有 M 形带，与 DFT 吻合，确认单层 TiTe₂ 为负带隙补偿半金属；降至 30 K 时 M 点电子带下方出现额外强度（白箭头），是 Γ 点空穴带被 2×2 CDW 周期势折叠至 M 点的副本，折叠带谱重约为主带的 10%，远弱于同构 TiSe₂。
     - **结论/意义**：确立原始样品的本征电子结构，并以 M 点折叠带作为后续判断 CDW 开/关的直接 ARPES 指纹。
 
   - **图2：Ts 与 K 沉积双路载流子调控下 CDW 的开关、T_CDW 与各向异性能隙**
-  - ![图2 Ts 与 K 沉积双路载流子调控下的 ARPES/费米面、T_CDW≈90 K 的能隙、电子口袋上各向异性能隙、嵌套示意](../../raw/figures/yanagizawaSwitchingChargedensityWave2023/fig_2_2JEUWVDS.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图2 Ts 与 K 沉积双路载流子调控下的 ARPES/费米面、T_CDW≈90 K 的能隙、电子口袋上各向异性能隙、嵌套示意](../../raw/figures/yanagizawaSwitchingChargedensityWave2023/fig_2_2JEUWVDS.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
     - **图示描述**：(a)–(f) Ts = 400/420/440 °C 样品在 40 K 的 Γ–M ARPES 强度/二阶导数及 E_F ± 50 meV 费米面图；(g)–(l) t_K = 6/12/24 min 钾沉积样品的对应数据；(m)–(n) Γ 点内空穴口袋 k_F 处变温 EDC 与领先边缘位移；(o)–(q) M 点椭球电子口袋五个 k_F 点的 EDC、对称化 EDC 及峰位/位移；(r) 三种掺杂下费米面拓扑与 q_CDW 示意。
     - **关键特征**：Ts = 420 °C 原始样品电子/空穴各约 0.08 e⁻(h⁺)/晶胞，M 点折叠带清晰，蓝/红箭头标出 2×2 嵌套矢量 q_CDW；Ts = 400 °C（约 0.06 h⁺，空穴掺杂）、Ts = 440 °C（约 0.37 e⁻，电子掺杂）以及 t_K = 6/12/24 min（约 0.07/0.21/0.39 e⁻）所有非补偿样品折叠带均消失；空穴口袋领先边缘在 30 K 位移 2–10 meV 并呈双峰，位移在约 90 K 归零，给出 T_CDW ≈ 90 K；电子口袋短轴点 5 处 EDC 在 70 meV 出现峰并显著位移，沿长轴向点 1 位移逐渐消失，表明 CDW 能隙在椭球口袋上强各向异性。
     - **结论/意义**：两种独立掺杂手段共同证明 2×2 CDW 仅在电子-空穴精确补偿的极窄窗口出现，且能隙各向异性与 Γ 内空穴口袋/M 椭球电子口袋短轴的部分嵌套几何完全吻合。
 
   - **图3：与单层 TiSe₂ 对比排除激子凝聚机制**
-  - ![图3 单层 TiSe₂（激子凝聚）与 TiTe₂（半金属屏蔽）能带结构对比，排除激子机制](../../raw/figures/yanagizawaSwitchingChargedensityWave2023/fig_3_FAYTPTD5.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+  - ![图3 单层 TiSe₂（激子凝聚）与 TiTe₂（半金属屏蔽）能带结构对比，排除激子机制](../../raw/figures/yanagizawaSwitchingChargedensityWave2023/fig_3_FAYTPTD5.png) → [[../figures/electronic-bands-band-structures|能带结构与带隙]]
     - **图示描述**：(a)、(c) 分别为单层 TiSe₂ 与 TiTe₂ 在 CDW 相沿 Γ–M 的 ARPES 强度图；(b)、(d) 为两者整体能带结构示意图，对比半导体性零带隙与半金属负带隙。
     - **关键特征**：TiSe₂ 在 M 点显示高强度折叠带，对应间接零带隙半导体中电子-空穴强库仑作用形成的激子凝聚，激子能隙约 0.2 eV；TiTe₂ 的 M 点折叠带强度明显更弱，且其半金属本性提供大量自由载流子，对库仑作用产生强屏蔽，使激子无法稳定。
     - **结论/意义**：以同构体系作为机制对照，直接排除激子凝聚作为单层 TiTe₂ CDW 的驱动力，把机制讨论指向费米面拓扑本身。

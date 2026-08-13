@@ -10,12 +10,12 @@ paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/junqueraCriticalThicknessFerroelectricity2003]]
-projects: [project-5, project-2]
+projects: [project-5]
 concepts: [density-functional-theory, berry-phase, strain-engineering, polarization-switching, ferroelectric-tunnel-junction, critical-thickness, depolarizing-field, screening-length, soft-mode, spontaneous-polarization, ferroelectricity, short-circuit-boundary]
 entities: [SnTe, SIESTA, BaTiO3, SrRuO3, SrTiO3]
 methods: [dft, lda, berry-phase, numerical-atomic-orbital, supercell, soft-mode-analysis, electrostatic-model]
 materials: [BaTiO3, SrRuO3, SrTiO3]
-figures: [crystal-structures, heterostructures-stacking, mathematical-models]
+figures: [electronic-devices-memory-transistors, mathematical-models-simulations]
 领域基础知识:: >-
   凝聚态物理、材料科学、铁电物理学、第一性原理计算。铁电体为具有自发极化且极化方向可随外加电场反转的材料，钙钛矿氧化物是重要一类。
 研究背景:: >-
@@ -41,9 +41,7 @@ tags:
   - type/theory
   - year/2003
   - project/project-5
-  - project/project-2
   - relevance/project-5/strong
-  - relevance/project-2/medium
   - concept/density-functional-theory
   - concept/berry-phase
   - concept/strain-engineering
@@ -86,20 +84,20 @@ Junquera & Ghosez，2003，*Nature* 422, 506–509，DOI 10.1038/nature01501。
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/strain-engineering]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/critical-thickness]]、[[../concepts/depolarizing-field]]、[[../concepts/ferroelectricity]]、[[../concepts/screening-length]]、[[../concepts/short-circuit-boundary]]、[[../concepts/soft-mode]]、[[../concepts/spontaneous-polarization]]
   - 实体 [[../entities/SnTe]]、[[../entities/BaTiO3]]、[[../entities/SIESTA]]、[[../entities/SrRuO3]]、[[../entities/SrTiO3]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]、[[../figures/mathematical-models]]
+  - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2003]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/junqueraCriticalThicknessFerroelectricity2003]]
 
 ## 📊 关键图表
-  - ![图1 SrRuO3/BaTiO3/SrRuO3 短路铁电电容器结构与计算超胞（SrO/TiO2 界面）](../../raw/figures/junqueraCriticalThicknessFerroelectricity2003/fig_1_BHUIKLVH.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图1 SrRuO3/BaTiO3/SrRuO3 短路铁电电容器结构与计算超胞（SrO/TiO2 界面）](../../raw/figures/junqueraCriticalThicknessFerroelectricity2003/fig_1_BHUIKLVH.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
   - **图示描述**：展示第一性原理计算所模拟的完整铁电电容器结构，包含宏观示意（a）与原子超胞（b）：由上至下依次为 SrRuO₃ 顶电极 / BaTiO₃ 铁电薄膜 / SrRuO₃ 底电极，外延生长于 SrTiO₃ 衬底上，两电极短路连接；原子图标明了 SrO/TiO₂ 界面终端及周期性超胞通式 [SrO-(RuO₂-SrO)ₙ/TiO₂-(BaO-TiO₂)ₘ]（n=5，m=2–10）。
   - **关键特征**：
     - 计算中显式包含金属电极与界面，不同于以往仅研究孤立薄膜、假设 E=0 完美屏蔽的理论工作。
     - 面内晶格常数固定为 SrTiO₃ 体相值，隐式施加约 2% 压应变，该应变将自发极化由 24 μC cm⁻² 放大至 31 μC cm⁻²。
     - 周期性边界条件自然实现电极间短路（等电势），是后续退极化场得以物理引入的前提。
   - **结论/意义**：确立了"真实电极 + 铁电层 + 衬底"的完整器件模型，是本研究区别于前人工作并发现临界厚度的方法学起点。
-  - ![图2 不同 BaTiO3 厚度 m=2–10 下能量随软模畸变 y 的变化：m≤4 顺电稳定，m≥6 出现双阱铁电相；插图为 P_s 随 m 的恢复](../../raw/figures/junqueraCriticalThicknessFerroelectricity2003/fig_2_XASEAFPQ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图2 不同 BaTiO3 厚度 m=2–10 下能量随软模畸变 y 的变化：m≤4 顺电稳定，m≥6 出现双阱铁电相；插图为 P_s 随 m 的恢复](../../raw/figures/junqueraCriticalThicknessFerroelectricity2003/fig_2_XASEAFPQ.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
   - **图示描述**：核心结果图。横轴为沿体相四方软模的归一化位移幅度 y（y=1 对应体相 BaTiO₃ 四方畸变量），纵轴为相对于顺电参考相的能量差；不同曲线对应 BaTiO₃ 厚度 m=2–10 个晶胞，符号为 DFT-LDA 计算结果，实线为静电模型 E=U−P·E_d 的拟合；插图给出自发极化 P_s 随 m 的变化。
   - **关键特征**：
     - m≤4 时曲线呈"U"型，最小值位于 y=0，顺电相稳定，铁电性消失。
@@ -123,7 +121,6 @@ Junquera & Ghosez，2003，*Nature* 422, 506–509，DOI 10.1038/nature01501。
 
 ## 🔗 项目双链
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
   - 文章采用"问题—矛盾—模型—结果—机制—影响"的简洁 Nature 论证链。先指出前人在 E=0 假设下预测无临界尺寸，再用包含真实电极的超胞计算给出反例，然后用宏观平均电荷密度与静电势把退极化场可视化，最后用 E = U − P·E_d 解析模型定量复现第一性原理结果，证明静电学主导、界面化学键合贡献次要。并通过漏电流时间尺度（~0.1 s）与极化翻转时间尺度（~10⁻⁹ s）的对比排除了有限电导率对临界厚度结论的干扰。
@@ -146,5 +143,5 @@ Junquera & Ghosez，2003，*Nature* 422, 506–509，DOI 10.1038/nature01501。
   6. **超临界厚度后的残余压制**：即使 m>6，退极化场仍使 P_s 低于体相值，并随 m 增大缓慢趋近体相值（图 2 插图）；这意味着器件在临界厚度以上仍受静电场影响，关联到[[../concepts/coercive-field|矫顽场]]、开关电压、疲劳等性能。
   7. **漏电流时间尺度论证**：典型铁电电容 J < 10⁻⁵ A cm⁻²、σ_pol < 10⁻⁶ C cm⁻² 下，漏电流屏蔽所需时间约 0.1 s，远长于[[../concepts/polarization-switching|极化翻转]]时间 ~10⁻⁹ s，故漏电流不能阻止亚临界厚度薄膜弛豫回顺电态；但长时间尺度上仍可能影响矫顽场与疲劳。
   8. **与前人工作的边界**：Ghosez & Rabe (2000)、Meyer & Vanderbilt (2001) 等在零内场（完美屏蔽）条件下预测无临界尺寸；本工作通过引入真实金属-钙钛矿界面（有限屏蔽长度、界面化学、衬底应变）推翻了该结论。Rao et al. (1997) 虽研究过金属/BaTiO₃ 界面，但未讨论铁电不稳定性。
-  9. **计算细节**：SIESTA 代码、[[../concepts/numerical-atomic-orbitals|[[../concepts/numerical-atomic-orbitals|数值原子轨道]]基组]]、LDA；SrO/TiO₂ 界面终端（实验上因 Ru 挥发性所致）；先以中心 TiO₂ 层镜面对称约束弛豫得到顺电参考态（原子最大受力 < 40 meV Å⁻¹），再沿体相四方软模位移模式 y 扫描能量；对 m=2 超胞还做了无约束全原子弛豫验证，原子自发回到顺电位置。
+  9. **计算细节**：SIESTA 代码、[[../concepts/numerical-atomic-orbitals|数值原子轨道基组]]、LDA；SrO/TiO₂ 界面终端（实验上因 Ru 挥发性所致）；先以中心 TiO₂ 层镜面对称约束弛豫得到顺电参考态（原子最大受力 < 40 meV Å⁻¹），再沿体相四方软模位移模式 y 扫描能量；对 m=2 超胞还做了无约束全原子弛豫验证，原子自发回到顺电位置。
   10. **后续启示**：寻找更短屏蔽长度 of 电极材料（金属、导电氧化物乃至二维导体）、界面工程（插层、终端调控）、多畴与畴壁屏蔽、缺陷/[[../concepts/oxygen-vacancy|氧空位]]的电荷补偿，是降低临界厚度与调控超薄[[../concepts/ferroelectricity|铁电性]]能的主要方向；临界厚度以下结构可能作为高介电常数材料 or 出现[[../concepts/ferroelectric-metal|铁电金属]]等新量子态。

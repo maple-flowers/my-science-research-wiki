@@ -7,16 +7,16 @@ year: 2020
 journal: "Physical Review B"
 doi: "10.1103/PhysRevB.102.161106"
 url: "https://doi.org/10.1103/PhysRevB.102.161106"
-paper_type: experiment
+paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/krishnamurthiSpinChargeDensity2020]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-2]
 concepts: [2D-materials, berry-phase, charge-density-wave, density-functional-theory, magnetoelectric-coupling, topological-defects]
 entities: [TMDs, VASP, domain-wall]
 methods: [berry-phase, dft, dft-plus-u, stm-mbe]
 materials: [TMDs, domain-wall]
-figures: [crystal-structures, electronic-bands, mathematical-models]
+figures: [electronic-bands-band-structures, electronic-bands-dos-fermi]
 领域基础知识:: >-
   二维过渡金属硫族化物（TMDCs）是半导体材料，其生长过程中常见的镜像孪晶界（MTB）是一维线缺陷。实验发现，这些MTB在室温下表现出金属性，但其低温下的基态是Tomonaga-Luttinger液体（TLL）还是电荷密度波（CDW），存在争议。
 研究背景:: >-
@@ -41,20 +41,8 @@ tags:
   - paper
   - type/experiment
   - year/2020
-  - project/project-1
-  - relevance/project-1/medium
   - project/project-2
   - relevance/project-2/weak
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/medium
-  - project/project-5
-  - relevance/project-5/weak
-  - project/project-6
-  - relevance/project-6/medium
-  - project/project-7
-  - relevance/project-7/strong
   - concept/2D-materials
   - concept/berry-phase
   - concept/charge-density-wave
@@ -74,13 +62,10 @@ tags:
   - topic/charge-density-wave
   - topic/domain-walls
   - topic/ferroelectricity
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/phase-transition
   - topic/polarization
   - topic/topological-defects
-  - topic/two-photon-fluorescence
 ---
 
 ## krishnamurthiSpinChargeDensity2020 — 过渡金属硫族化物边界处的自旋/电荷密度波（The Sign of Three）
@@ -109,27 +94,25 @@ Sridevi Krishnamurthi、Geert Brocks，2020，Physical Review B 102, 161106，DO
   - 实体 [[../entities/VASP]]
   - 实体 [[../entities/domain-wall]]
   - 图表 [[../figures/electronic-bands]]
-  - 图表 [[../figures/crystal-structures]]
-  - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2020]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/krishnamurthiSpinChargeDensity2020]]
 
 ## 📊 关键图表
-  - ![图1 MTB原子结构、DFT能带与一维范霍夫奇点态密度](../../raw/figures/krishnamurthiSpinChargeDensity2020/fig_1_HUGVUADV.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图1 MTB原子结构、DFT能带与一维范霍夫奇点态密度](../../raw/figures/krishnamurthiSpinChargeDensity2020/fig_1_HUGVUADV.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：三联图。(a) 为 MoSe₂ 单层中 4|4P 型镜像孪晶界（MTB）的俯视图原子结构，蓝/绿/红球分别表示 Mo、Se 及边缘钝化用的 O 原子，红虚线标出 MTB 的镜像对称面，黑色虚线标出沿 MTB 方向的计算周期，箭头标注面内极化 **P** 的方向，在跨过 MTB 时发生 P↔−P 反转。(b) 为沿 MTB 方向（Γ→X）的 DFT 能带色散，纵轴为相对于费米能级的能量（eV），灰色阴影为体相带隙，其中红色能带以 Mo dxz 轨道为主、绿色能带以 Mo dxy/dz² 轨道为主，红色能带穿过 E_F 而绿色能带全空。(c) 为与之对应的投影态密度（PDoS）。
   - **关键特征**：两条隙内能带即拓扑极化反转所产生的一维边界态；红色 dxz 能带恰好 1/3 填充、绿色 dxy/dz² 能带全空，对应由补偿电荷 λ=2e/(3a) 锁定的占据数；PDoS 在 E_F 附近出现尖锐的一维范霍夫奇点，证实这些态严格局域于 MTB 并具有一维属性。
   - **结论/意义**：此图确立"拓扑极化突变 → 1/3 分数填充金属边界态"这一全文论证的物理起点，也是后续讨论电子关联失稳的基础。
-  - ![图2 三倍超胞折叠能带；DFT+U后SDW/CDW打开~0.26 eV间接带隙及对应DoS](../../raw/figures/krishnamurthiSpinChargeDensity2020/fig_2_KKTLCIRI.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图2 三倍超胞折叠能带；DFT+U后SDW/CDW打开~0.26 eV间接带隙及对应DoS](../../raw/figures/krishnamurthiSpinChargeDensity2020/fig_2_KKTLCIRI.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
   - **图示描述**：三联图展示引入电子关联前后的能带对比。(a) 将图1(b) 的能带折叠到沿 MTB 方向三倍化（3×）的超胞中，原 1/3 填充的红色 dxz 能带被折成三条子带，最低支填满、上面两支全空；绿色 dxy/dz² 能带折成三支且全部位于 E_F 之上，此时体系仍为金属。(b) 为在 Dudarev DFT+U（U−J=3 eV）下重新自洽优化电子结构后的能带，未做任何原子位移。(c) 为与(b) 对应的态密度。
   - **关键特征**：电子关联在红色 dxz 带内打开约 0.47 eV 的直接带隙；X 点占据的 dxz 态与 Γ 点未占据的 dxy/dz² 态之间形成约 0.26 eV 的整体间接带隙；DoS 在 E_F 处出现清晰能隙，两侧仍由尖锐的一维范霍夫奇点标记；每个 3× 超胞总能量降低约 67 meV（MoS₂ 对应间接带隙 0.10 eV、能损 27 meV/3×胞）。
   - **结论/意义**：这是全文的核心证据——仅靠电子关联即可使 1/3 填充的金属 MTB 发生金属-绝缘体转变，形成 SDW/CDW，而无需 Peierls 型原子畸变。
-  - ![图3 MTB自旋密度(0.40,-0.20,-0.21 μB)、电荷密度差、有/无SDW/CDW的模拟STM图像对比](../../raw/figures/krishnamurthiSpinChargeDensity2020/fig_3_BHEQCAD2.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图3 MTB自旋密度(0.40,-0.20,-0.21 μB)、电荷密度差、有/无SDW/CDW的模拟STM图像对比](../../raw/figures/krishnamurthiSpinChargeDensity2020/fig_3_BHEQCAD2.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：四联图给出 SDW/CDW 基态的实空间图像。(a) 为 MTB 附近的自旋密度等值面，红色表示自旋向上、绿色表示自旋向下；(b) 为相对于理想 1× 金属结构的电荷密度差，棕色表示电荷积累、绿色表示电荷耗尽；(c)、(d) 分别为 SDW/CDW 态和理想 1× 态的模拟 STM 图像，均由 −0.5 eV 至费米能级的局域态密度（LDoS）积分得到。
   - **关键特征**：沿 MTB 一侧三个 Mo 原子的磁矩依次为 0.40、−0.20、−0.21 μB，呈"大-小-小"排布，构成周期三倍的 SDW；电荷密度差显示幅度较微妙但同样三倍周期的 CDW；图(c) STM 模拟沿 MTB 出现亮-暗-暗的 3× 条纹，完美复现 Barja et al. (Nat. Phys. 2016) 的实验图案，而图(d) 中 1× 结构亮度均匀无调制；自由弛豫后所有键长、键角均未变化。
   - **结论/意义**：从自旋、电荷、STM 三个层面同时证实 SDW/CDW 为纯电子效应，并直接与实验 3× CDW 观测对应；作者据此预言 SDW 可由自旋极化 STM 直接观测。
-  - ![图4 带隙、总能量降低、最大磁矩随Hubbard U-J的变化；阈值约0.5 eV](../../raw/figures/krishnamurthiSpinChargeDensity2020/fig_4_DEQTHTTR.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图4 带隙、总能量降低、最大磁矩随Hubbard U-J的变化；阈值约0.5 eV](../../raw/figures/krishnamurthiSpinChargeDensity2020/fig_4_DEQTHTTR.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
   - **图示描述**：以 Hubbard U−J（横轴，0–3 eV）为自变量的参数扫描结果，分为上下两个子图。上图红色曲线对应左轴带隙（eV），黑色曲线对应右轴每个 3× 超胞的总能量（meV/3× cell）；下图蓝色曲线为 MTB 上 Mo 原子的最大磁矩（μB）。
   - **关键特征**：带隙与最大磁矩均随 U−J 单调增加，在 U−J=3 eV 时分别约为 0.26–0.27 eV 和 0.4 μB；每 3× 胞总能量随 U−J 单调下降，在 U−J=3 eV 时得益约 67–70 meV；只有当 U−J≲0.5 eV 时 SDW/CDW 才不能形成；以实验观测的 ~0.1 eV 能隙反推，有效 U−J 落在约 1–1.5 eV 区间，对 Mo 4d 电子属合理值。
   - **结论/意义**：证明 SDW/CDW 是电子关联驱动的鲁棒基态而非特定 U 值下的巧合，为理论结果与实验能隙的定量对应以及 MoS₂/MoSe₂ 中的普适性提供了参数依据。
@@ -144,13 +127,7 @@ Sridevi Krishnamurthi、Geert Brocks，2020，Physical Review B 102, 161106，DO
   - **project-6（湿度传感器）**：无直接项目连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
   - 论证结构遵循"实验矛盾（TLL vs CDW）→ 拓扑根源（Z₃ 极化反转）→ 电子数锁定（1/3 填充）→ 关联失稳（DFT+U 纯电子 SDW/CDW）→ 实验验证（STM 模拟）→ 拓扑激发预言（分数电荷孤子）"的递进链条，标题"The Sign of Three"以 Z₃ 不变量、1/3 填充、三倍周期、±1/3 e 电荷四个"三"贯穿全文。

@@ -15,7 +15,7 @@ concepts: [nonlinear-absorption, saturable-absorption, charge-transfer, z-scan, 
 entities: [TTF, PMMA, TTFClO4, Origin, titanium-sapphire-laser]
 methods: [open-aperture-z-scan, femtosecond-spectroscopy, absorption-spectroscopy, rate-equation-modeling, solvent-casting, gaussian-beam-integration, analytical-fitting]
 materials: [TTF+, PMMA, TTFClO4]
-figures: [optical-spectra, mathematical-models]
+figures: []
 领域基础知识:: >-
   非线性光学研究材料在强光下吸收系数随光强变化的行为。饱和吸收是指当光强增大到一定程度时，基态粒子被大量抽运到激发态，可吸收光子的粒子数减少，导致吸收系数下降、透过率升高的现象。Z扫描是一种通过让样品沿聚焦高斯光束光轴移动来测量非线性吸收（开孔）和非线性折射（闭孔）的标准单光束技术。四硫富瓦烯（TTF）具有三种稳定氧化态（TTF⁰、TTF⁺、TTF²⁺），其自由基阳离子盐易形成二聚体和高阶聚集体，并在近红外出现强而宽的电荷转移（CT）吸收带。
 研究背景:: >-

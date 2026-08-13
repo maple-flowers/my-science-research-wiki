@@ -1,7 +1,7 @@
 ---
 citekey: liFerroelasticityDomainPhysics2016
 title: "Ferroelasticity and domain physics in two-dimensional transition metal dichalcogenide monolayers"
-title_zh: "二维过渡金属二氯化铝单分子膜的铁弹性和畴物理"
+title_zh: "二维过渡金属二硫族化物单层的铁弹性和畴物理"
 authors: [Wenbin Li, Ju Li]
 year: 2016
 journal: "Nature Communications"
@@ -11,12 +11,12 @@ paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/liFerroelasticityDomainPhysics2016]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-2, project-5, project-7]
 concepts: [2D-materials, density-functional-theory, ferroelasticity, multiferroicity, strain-engineering, topological-defects]
 entities: [TMDs, VASP, WTe2, domain-wall]
 methods: [dft, md, neb, raman, tem, xanes]
 materials: [TMDs, WTe2, domain-wall]
-figures: [crystal-structures, domain-walls, mathematical-models]
+figures: [crystal-structures-bulk, crystal-structures-xrd-phases, domain-walls-structures, mathematical-models-elasticity-strain, mathematical-models-formulas]
 领域基础知识:: >-
   二维材料（2D materials）是厚度为单个或几个原子层的晶体材料，其代表是石墨烯。过渡金属二硫化物（TMDs）是另一类重要的二维材料，化学式为MX₂（M=Mo， W；X=S， Se， Te），具有多种结构相（如2H， 1T， 1T'），并展现出优异的机械、电子和光学性质，是柔性电子与纳米器件的理想候选。铁弹性（Ferroelasticity）是指材料具有两个或多个能量简并的取向变体，且这些变体可在外加应力下可逆切换的现象，通常伴随应力-应变滞后回线。
 研究背景:: >-
@@ -41,18 +41,10 @@ tags:
   - paper
   - type/theory
   - year/2016
-  - project/project-1
-  - relevance/project-1/medium
   - project/project-2
   - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/medium
   - project/project-5
   - relevance/project-5/medium
-  - project/project-6
-  - relevance/project-6/medium
   - project/project-7
   - relevance/project-7/medium
   - concept/2D-materials
@@ -79,13 +71,10 @@ tags:
   - topic/domain-walls
   - topic/ferroelectricity
   - topic/ferromagnetism
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/phase-transition
   - topic/polarization
   - topic/topological-defects
-  - topic/two-photon-fluorescence
 ---
 
 ## liFerroelasticityDomainPhysics2016 — 二维过渡金属二硫族化合物单层中的铁弹性与畴物理
@@ -122,44 +111,44 @@ Wenbin Li & Ju Li，2016，Nature Communications 7:10843，DOI [10.1038/ncomms10
   - 相关论文 [[../../raw/note/liFerroelasticityDomainPhysics2016]]
 
 ## 📊 关键图表
-  - ![图1 1T与1T′-WTe2单层原子结构对比，示W原子二聚化之字形链](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_1_YTRF2PW6.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - ![图1 1T与1T′-WTe2单层原子结构对比，示W原子二聚化之字形链](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_1_YTRF2PW6.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：对比 WTe₂ 单层 1T 相与 1T′ 相的原子结构；左侧 1T 相中 W 原子（蓝）排成二维三角晶格、Te 原子（橙）构成正八面体配位，右侧 1T′ 相中 W 原子沿 [100] 方向二聚化成平行"之"字形链，八面体发生扭曲、对称性降低。
   - **关键特征**：1T 相二维原胞是边长 t₀ 的 120° 菱形，1T′ 相原胞为 a×b 矩形，对应 1T 的 1×√3 超胞；红色/绿色虚线框分别标出两种二维单胞；该 Peierls 畸变由费米面嵌套驱动，是后续三个取向变体与铁弹性的结构根源。
-  - ![图2 1T′相三个取向变体O1/O2/O3的起源与原子结构](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_2_KHBH8L57.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - ![图2 1T′相三个取向变体O1/O2/O3的起源与原子结构](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_2_KHBH8L57.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：(a) 在 1T 相 W 原子三角晶格上用箭头 1、2、3 标出三个对称等效的 Peierls 畸变方向；(b–d) 分别为沿这三个方向二聚化后弛豫得到的 O1、O2、O3 取向变体原子结构。
   - **关键特征**：三个变体的 W–W 二聚化链互成 120°：O1 链平行 x 轴，O2/O3 链与 x 轴约成 ±60°；三者同属 1T′ 结构、能量简并但晶格取向不同；这种 P3m2 三重对称自发破缺到矩形相，是铁弹性"多个能量相等取向态"判据的直接证据。
-  - ![图3 (Δa/a0, Δb/b0)双轴应变空间中O1/O2-O3/2H的能量最低相图](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_3_A8FT3APU.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图3 (Δa/a0, Δb/b0)双轴应变空间中O1/O2-O3/2H的能量最低相图](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_3_A8FT3APU.png) -> [[../figures/crystal-structures-xrd-phases|XRD与相变]]
   - **图示描述**：以 O1 平衡晶格常数 a₀、b₀ 为参考，横轴 Δa/a₀、纵轴 Δb/b₀ 为 ±10% 工程应变，按 11×11 网格（121 点）DFT 扫描后二维样条插值，用不同色块标出各应变点能量最低的相/变体（O1、O2/O3、2H），曲线为相邻相能量等值边界。
   - **关键特征**：O1 与 O2/O3 势能面在仅几个百分点双轴应变处交叉；最快切换路径是沿 a 轴（二聚化金属链方向）拉伸同时沿 b 轴压缩（约 +4%/−2%）；双轴应变不破坏 y 方向镜像，故 O2/O3 保持简并；2H 相在 WTe₂ 中仅占左上角很小区域，与未考虑变体自由度的早期相图明显不同；该交叉应变在 TMD 单层可承受的 ~10% 弹性应变范围内。
   - **结论/意义**：从热力学上证明应变可在 O1 与 O2/O3 之间切换稳定性，是二维铁弹性的核心定量证据。
-  - ![图4 剪切应变ε_xy下三变体能量分化，可选择性切换O2/O3](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_4_EGN83GUV.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - ![图4 剪切应变ε_xy下三变体能量分化，可选择性切换O2/O3](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_4_EGN83GUV.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：横轴为施加在 O1 参考超胞上的剪切应变 ε_xy（%），纵轴为相对于 O1 的能量差（eV/WTe₂），O1 能量为基准线，O2、O3 能量曲线分别随正、负剪切应变下降。
   - **关键特征**：约 ±3.5% 的剪切应变即可使 O3（正剪切）或 O2（负剪切）成为最低能变体，打破双轴应变下 O2/O3 的镜像简并；这为通过特定应力模式"畴工程"选择性地稳定某一变体提供了理论依据。
-  - ![图5 沿a轴单轴拉伸下O1与O2/O3能量曲线及公切线（1%–4%共存区）](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_5_XYSVC9LT.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图5 沿a轴单轴拉伸下O1与O2/O3能量曲线及公切线（1%–4%共存区）](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_5_XYSVC9LT.png) -> [[../figures/mathematical-models-elasticity-strain|应变、弹性与力学模型]]
   - **图示描述**：横轴为沿 a 轴（二聚化 W 链方向）的单轴拉伸应变（%），纵轴为能量；b 轴方向应力弛豫到零（σ_y=0，对应自由边界），分别画出 O1 与 O2/O3 的能量曲线，并在两曲线间作公切线（虚线）。
   - **关键特征**：公切线两切点分别位于 1% 与 4% 应变处；在 1%–4% 区间内，O1 与 O2/O3 共存态的总能量低于任单一变体，对应应力-应变曲线上的"力平台"；触发共存的应变低至 1%，比图 3 双轴交叉点更易实验实现（拉伸不引发屈曲）。
   - **结论/意义**：在最接近实验的单轴拉伸条件下论证了变体共存与切换的热力学可行性。
-  - ![图6 NEB计算的O1→O2变体切换路径与0.22 eV/f.u.势垒](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_6_DIRK5297.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - ![图6 NEB计算的O1→O2变体切换路径与0.22 eV/f.u.势垒](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_6_DIRK5297.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：(a) 爬升图像 NEB 计算得到的 O1→O2 变体切换能量沿反应坐标的变化，呈典型双势阱曲线；(b) 路径上初始态、过渡态、末态等关键点的原子结构快照，展示 W–W 二聚链逐步扭转、重排的过程。
   - **关键特征**：固定超胞 NEB 给出切换势垒约 0.22 eV/f.u.；广义固态 NEB（允许超胞自由度弛豫）给出 0.19 eV/f.u.，两者一致；显著低于 1T′↔2H 相变势垒 ~0.8 eV/f.u.；按 10 THz 光学声子尝试频率估算，0.2 eV 势垒对应约 0.2 ns 的时间尺度；势垒低的几何原因是变体切换只扭曲八面体配位，而 1T′→2H 需将八面体配位整体改为三角棱柱配位。
   - **结论/意义**：从动力学上排除"热力学可行但动力学受阻"的可能，证明室温下铁弹切换可快速发生。
-  - ![图7 O1-O2/O1-O3/O2-O3三种DFT弛豫准一维铁弹畴壁原子结构](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_7_BRNW8WQ3.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - ![图7 O1-O2/O1-O3/O2-O3三种DFT弛豫准一维铁弹畴壁原子结构](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_7_BRNW8WQ3.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：(a–c) 分别为零外应力下 O1–O2、O1–O3、O2–O3 三种共格孪晶界（畴壁）的 DFT 弛豫原子结构，不同变体区域用不同颜色阴影（橙、绿、蓝）叠加标识，畴壁处原子重排实现两相间的平滑过渡。
   - **关键特征**：三种畴壁由 120° 旋转对称相互联系、能量简并；在二维体系中畴壁是准一维线缺陷，而非三维体系中的二维界面；DFT 畴壁形成能为 MoS₂ 27、MoSe₂ 46、MoTe₂ 40、WS₂ 22、WSe₂ 51、WTe₂ 52 meV·Å⁻¹，远低于三维位错形成能（数百 meV/Å），保证畴壁在外力下可滑移。
   - **结论/意义**：给出铁弹畴结构的直接理论图像，为暗场 TEM、SAED 观测及畴壁上潜在拓扑电子态的研究提供靶标。
-  - ![公式1 1T相超胞矩阵H0](../../raw/figures/liFerroelasticityDomainPhysics2016/eq_1_HP8MGPF4.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式1 1T相超胞矩阵H0](../../raw/figures/liFerroelasticityDomainPhysics2016/eq_1_HP8MGPF4.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
   - **图示描述**：1T 母相 2×2√3 超胞的二维基矢矩阵 H₀ = [h₁, h₂] = [2t₀, 0; 0, 2√3 t₀]，其中 h₁ = 2t₀ x̂、h₂ = 2√3 t₀ ŷ，h₁、h₂ 按列矢量处理。
   - **关键特征**：该公共超胞可分别畸变为 O1、O2、O3 三个变体的超胞，是定量比较三变体自发应变的参考构型；t₀ 为 1T 相菱形原胞边长。
-  - ![公式2 Green-Lagrange应变张量定义](../../raw/figures/liFerroelasticityDomainPhysics2016/eq_2_2S66YKHE.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式2 Green-Lagrange应变张量定义](../../raw/figures/liFerroelasticityDomainPhysics2016/eq_2_2S66YKHE.png) -> [[../figures/mathematical-models-elasticity-strain|应变、弹性与力学模型]]
   - **图示描述**：由变换矩阵 Jᵢ（满足 Hᵢ = JᵢH₀）定义的 Green-Lagrange 相变应变张量 ηᵢ = ½(JᵢᵀJᵢ − I) = ½[(H₀⁻¹)ᵀ Hᵢᵀ Hᵢ H₀⁻¹ − I]，上标 −1、T 分别表示求逆与转置，I 为 2×2 单位矩阵。
   - **关键特征**：将"母相→畸变相"的晶格映射转化为可直接比较的有限应变度量，是计算各变体自发应变与变体间相对转换应变的统一数学框架。
-  - ![公式3 二维应变张量对称形式](../../raw/figures/liFerroelasticityDomainPhysics2016/eq_3_EBEPXLQF.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式3 二维应变张量对称形式](../../raw/figures/liFerroelasticityDomainPhysics2016/eq_3_EBEPXLQF.png) -> [[../figures/mathematical-models-elasticity-strain|应变、弹性与力学模型]]
   - **图示描述**：二维相变应变张量的对称分量形式 η = [ε_xx, ε_xy; ε_xy, ε_yy]。
   - **关键特征**：ε_xx、ε_yy 为沿 x、y 方向的拉伸/压缩应变，ε_xy 为剪切应变分量；论文据此区分双轴应变（不破镜像、O2/O3 简并）与剪切应变（破镜像、可选择性稳定 O2 或 O3）。
-  - ![公式4 WTe2从1T到1T′三变体的自发应变矩阵η1/η2/η3](../../raw/figures/liFerroelasticityDomainPhysics2016/eq_4_JSWN4I98.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式4 WTe2从1T到1T′三变体的自发应变矩阵η1/η2/η3](../../raw/figures/liFerroelasticityDomainPhysics2016/eq_4_JSWN4I98.png) -> [[../figures/mathematical-models-elasticity-strain|应变、弹性与力学模型]]
   - **图示描述**：DFT 弛豫得到的 WTe₂ 单层三变体相对于 1T 母相的自发应变矩阵：η₁ = [−0.005, 0.0; 0.0, 0.039]、η₂ = [0.029, −0.019; −0.019, 0.006]、η₃ = [0.029, 0.019; 0.019, 0.007]。
   - **关键特征**：O1 主要表现为 y 方向 +3.9% 拉伸，而 O2/O3 伴随约 ±1.9% 剪切分量；三者非对角元的符号差异正是后续剪切应变可区分 O2/O3 的几何来源。
-  - ![公式5 O1→O2/O1→O3的相对转换应变张量e²₁/e³₁](../../raw/figures/liFerroelasticityDomainPhysics2016/eq_5_F7HM6IDY.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式5 O1→O2/O1→O3的相对转换应变张量e²₁/e³₁](../../raw/figures/liFerroelasticityDomainPhysics2016/eq_5_F7HM6IDY.png) -> [[../figures/mathematical-models-elasticity-strain|应变、弹性与力学模型]]
   - **图示描述**：以 1T′ 相 O1 变体为参考构型，从变体 i 到 j 的相对相变应变张量 eⱼᵢ；O1→O2 与 O1→O3 的结果为 e²₁ = [0.034, −0.019; −0.019, −0.030]、e³₁ = [0.033, 0.019; 0.019, −0.030]。
   - **关键特征**：在无应变 O1 上施加约 +3.4% x 拉伸、−3.0% y 压缩（及 ±1.9% 剪切）即可使体系更倾向 O2 或 O3；应变量级仅百分之几，落在 TMD 单层 ~10% 弹性应变窗口内，构成"外应力可耦合切换变体"这一铁弹性判据的定量基础。
 
@@ -174,12 +163,8 @@ Wenbin Li & Ju Li，2016，Nature Communications 7:10843，DOI [10.1038/ncomms10
   - **project-7 CDW**：有物理机制参考价值。本文 1T→1T′ 转变明确归因于"费米面嵌套诱导的 Peierls 畸变"（Fermi surface nesting induced Peierls distortion），金属原子二聚化成链正是 CDW 有序化的经典实空间图像；文中引用的 Peierls 畸变与二聚化机制可为 CDW 项目中电荷密度波-晶格耦合的物理描述提供原型案例。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
 - 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
@@ -194,7 +179,7 @@ Wenbin Li & Ju Li，2016，Nature Communications 7:10843，DOI [10.1038/ncomms10
   - 公切线构造 / Common tangent construction
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 1T′ 相 TMD 单层起源于 1T 金属相的[[../concepts/fermi-surface-nesting|[[../concepts/fermi-surfaces|费米面]]嵌套]]-[[../concepts/peierls-distortion|Peierls 畸变]]：相邻 W/Mo 原子沿 [100]、[010] 或 [110] 三个等效方向[[../concepts/dimerization|二聚化]]成平行"之"字形链，使 P3m2 三重对称破缺为矩形（1×√3 超胞）低对称相，从而产生 O1、O2、O3 三个能量简并的[[../concepts/orientation-variants|取向变体]]。
+  1. 1T′ 相 TMD 单层起源于 1T 金属相的[[../concepts/fermi-surface-nesting|费米面嵌套]]-[[../concepts/peierls-distortion|Peierls 畸变]]：相邻 W/Mo 原子沿 [100]、[010] 或 [110] 三个等效方向[[../concepts/dimerization|二聚化]]成平行"之"字形链，使 P3m2 三重对称破缺为矩形（1×√3 超胞）低对称相，从而产生 O1、O2、O3 三个能量简并的[[../concepts/orientation-variants|取向变体]]。
   2. 用 Green-Lagrange 应变张量 ηᵢ = ½(JᵢᵀJᵢ − I) 定量描述变体间转换应变；WTe₂ 中 O1→O2 的转换应变张量为 e²₁ = [0.034, −0.019; −0.019, −0.030]，即只需约 +3.4% 拉伸配 −3% 压缩即可在变体间切换，完全在 TMD 单层可承受的 ~10% 弹性应变范围内。
   3. 在 (Δa/a₀, Δb/b₀) 双轴应变空间中扫描 11×11 网格并二维样条插值得到势能面，O1 与 O2/O3 的能量等值线在百分之几应变处交叉；双轴应变不破坏 y 方向镜像对称，故 O2/O3 能量简并，而 ±3.5% 剪切应变 ε_xy 可打破简并、选择性稳定 O3 或 O2。
   4. 沿二聚化金属链方向（a 轴）单轴拉伸、b 轴零应力弛豫条件下，O1 与 O2/O3 能量曲线的公切线切点位于 1% 和 4% 应变处，表明应变低至 1% 时即进入变体共存区，比双轴交叉点更易实验实现；这对应力-应变曲线上的"力平台"。

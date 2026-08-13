@@ -11,12 +11,12 @@ paper_type: review
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/vanvleckSurveyTheoryFerromagnetism1945]]
-projects: [project-2]
+projects: []
 concepts: [spin-orbit-coupling]
 entities: []
 methods: [stm-mbe]
 materials: []
-figures: [mathematical-models]
+figures: [electronic-bands-band-structures, electronic-bands-cdw-transport, mathematical-models-magnetoelectric]
 领域基础知识:: >-
   铁磁性是材料在低于居里温度时产生自发磁化的现象，其微观理论基石是量子力学中的交换作用，而非经典磁偶极子相互作用。该领域存在两大核心范式：以海森堡模型为代表的定域电子理论和以斯通纳模型为代表的巡游电子理论，真实材料通常介于两者之间。外斯分子场理论是唯象描述的经典成功模型。
 研究背景:: >-
@@ -41,8 +41,6 @@ tags:
   - paper
   - type/review
   - year/1945
-  - project/project-2
-  - relevance/project-2/medium
   - concept/spin-orbit-coupling
   - method/stm-mbe
   - topic/2d-materials
@@ -79,27 +77,27 @@ J. H. Van Vleck，1945，Reviews of Modern Physics 17(1), 27–47，DOI [10.1103
   - 实体 `MnO.md`：经典反铁磁体，Bizette-Squire-Tsai 的 χ(T) 数据被范弗莱克用来检验交错分子场理论
 
 ## 📊 关键图表
-  - ![图1 居里点以上磁化率倒数 1/χ 对温度的线性关系（Fe、Ni），验证居里-外斯定律](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_1_JGCCWFME.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图1 居里点以上磁化率倒数 1/χ 对温度的线性关系（Fe、Ni），验证居里-外斯定律](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_1_JGCCWFME.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - **图示描述**：横轴为温度（°C），纵轴为居里点以上磁化率倒数 1/χ，绘制铁（Fe）和镍（Ni）两条实验曲线，高温段均近似为直线，是外斯分子场导出的居里-外斯定律 χ=C/(T-Tc) 的直接图像。
   - **关键特征**：Fe、Ni 的高温数据点都落在一条直线上，外推到 1/χ=0 给出"顺磁居里点" Tc；铁的曲线在约 900 °C 处因 α↔γ 多晶型相变出现明显的不连续弯折；图中近直线的高线性度后来被范弗莱克视为理论上的"神秘"之处，因为更精细的级数修正反而会引入弯曲。
   - **结论/意义**：该图奠定了外斯唯象分子场理论的实验基础，也是后续所有量子模型（海森堡、斯托纳）必须首先解释的基准曲线。
-  - ![图2 镍在居里点附近放大，区分顺磁居里点 Tc 与铁磁居里点 Tc'（相差约20 K）](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_2_EV7HIL9D.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图2 镍在居里点附近放大，区分顺磁居里点 Tc 与铁磁居里点 Tc'（相差约20 K）](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_2_EV7HIL9D.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
   - **图示描述**：将图1中镍在居里点附近的区域放大，横轴为温度，纵轴为 1/χ，示意性标出由高温直线外推得到的顺磁居里点 Tc 与实际自发磁化消失的铁磁居里点 Tc'。
   - **关键特征**：Tc 与 Tc' 并不重合，通常 Tc > Tc'，镍中两者相差约 20 K；这一差距被归因于分子场理论未包含的短程序/自旋涨落等"二级效应"，是平均场图像在相变附近失效的直接证据。
   - **结论/意义**：该图提示要理解居里点附近的真实行为，必须超越简单外斯理论，引入贝特-佩尔斯-外斯方法、自旋波或日后的重正化群处理。
-  - ![图3 约化饱和磁化强度 I/I0 对约化温度 T/Tc：经典 S=∞ 与量子 S=1/2、1 等布里渊曲线对比，Ni、Co 数据支持量子曲线](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_3_BWKBMTLT.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图3 约化饱和磁化强度 I/I0 对约化温度 T/Tc：经典 S=∞ 与量子 S=1/2、1 等布里渊曲线对比，Ni、Co 数据支持量子曲线](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_3_BWKBMTLT.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - **图示描述**：横轴为约化温度 τ=T/Tc，纵轴为约化饱和磁化强度 i=I/I0（与绝对零度值之比），把经典朗之万外斯曲线（S=∞）与不同自旋量子数 S 的布里渊函数量子曲线（S=1/2, 1, 3/2…）画在同一"对应态"坐标中，并叠加 Ni、Co 实验点。
   - **关键特征**：所有曲线都从 (0,1) 单调下降到 (1,0)；S=∞ 经典曲线在低温段下降最慢，S=1/2 量子曲线最陡；Ni、Co 的实验数据明显偏向有限 S 的量子曲线而非经典曲线，证明自旋量子化在磁化行为中可被直接观测。
   - **结论/意义**：这是"对应态定律"的核心图像，也是量子力学（布里渊函数取代朗之万函数）在宏观磁性上取得成功的关键证据，被范弗莱克评为"定性正确"。
-  - ![图4 斯托纳理论：左侧 T<Tc 约化磁化强度、右侧 T>Tc 约化 1/χ，不同曲线对应 kθ'/ε0；∞ 极限回归 S=1/2 外斯曲线](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_4_LTZBJ47J.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图4 斯托纳理论：左侧 T<Tc 约化磁化强度、右侧 T>Tc 约化 1/χ，不同曲线对应 kθ'/ε0；∞ 极限回归 S=1/2 外斯曲线](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_4_LTZBJ47J.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
   - **图示描述**：同一图板分左右两部分，共享约化温度 T/Tc 横轴：左侧画 T<Tc 时约化饱和磁化强度 I/I0，右侧画 T>Tc 时正比于 1/χ 的量；不同曲线对应斯托纳模型的无量纲参数 kθ'/ε0（交换能与费米能带展宽能之比）。
   - **关键特征**：kθ'/ε0→∞ 极限下左右两侧曲线分别与图3中 S=1/2 布里渊外斯曲线完全重合，实现巡游模型向定域模型的退化；随 kθ'/ε0 减小，左侧 T=0 饱和磁化强度可小于 1，右侧 1/χ 曲线出现明显弯曲而非直线；参数临界值为 2/3，低于此值不出现铁磁序。
   - **结论/意义**：该图系统展示了斯托纳集体电子模型如何通过单一参数把"完全巡游"和"完全定域"两种极端连续地连接起来，并自然预言非整数饱和磁矩与高温磁化率弯曲。
-  - ![图5 T=0 时约化饱和磁矩 ζ0 随 kθ'/ε0 变化；2/3<kθ'/ε0<2^(-1/3) 区间 ζ0<1，解释非整数玻尔磁子数](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_5_BCMRE37Q.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图5 T=0 时约化饱和磁矩 ζ0 随 kθ'/ε0 变化；2/3<kθ'/ε0<2^(-1/3) 区间 ζ0<1，解释非整数玻尔磁子数](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_5_BCMRE37Q.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - **图示描述**：横轴为斯托纳参数 kθ'/ε0（交换能/费米能，无量纲），纵轴为绝对零度下的约化饱和磁矩 ζ0，即实际饱和磁矩与所有电子自旋完全平行时磁矩之比。
   - **关键特征**：当 kθ'/ε0 ≤ 2/3 时 ζ0=0，不出现铁磁序；当 2/3 < kθ'/ε0 < 2^(-1/3)≈0.79 时 ζ0 取 0 到 1 之间的非整数值，意味着即使在 T=0 自旋上、下子带也未完全劈裂，每个原子贡献分数个玻尔磁子；当 kθ'/ε0 ≥ 2^(-1/3) 后 ζ0=1，达到完全极化。
   - **结论/意义**：这是斯托纳模型解释镍 0.6 μB/原子等非整数磁矩的关键图，把"非整数玻尔磁子数"这一长期疑难转化为能带部分极化的自然结果，是巡游电子范式相对定域模型的核心优势之一。
-  - ![图6 反铁磁体 χ(T) 对约化温度：理论实线与 MnO 实验虚线（Bizette 等），奈尔温度处出现峰值](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_6_7227PTRL.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图6 反铁磁体 χ(T) 对约化温度：理论实线与 MnO 实验虚线（Bizette 等），奈尔温度处出现峰值](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_6_7227PTRL.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
   - **图示描述**：横轴为约化温度 T/TN，纵轴为归一化磁化率 χ（在奈尔温度处取 1），实线为交错子晶格分子场理论曲线，虚线为 Bizette、Squire、Tsai 对 MnO 的实验测量。
   - **关键特征**：T>TN 时 χ=C/(T+θ) 随降温而升高；在 T=TN 处出现一个尖锐的极大值；T<TN 时 χ 随降温反而下降，反映 A、B 子晶格反平行排列越来越稳固，外场越难偏转自旋；T=0 时平行/垂直外场两种构型按 1:2 加权给出 χ0/χc≈2/3（实验在 0.3–0.85 之间）；MnO 实验虚线整体趋势与理论实线吻合。
   - **结论/意义**：该图把 J<0 的交换作用理论从抽象公式落到可观测量上，确立了反铁磁性作为独立磁有序相的地位，并将 Néel 的交错分子场图像引入主流固体物理。
@@ -109,7 +107,6 @@ J. H. Van Vleck，1945，Reviews of Modern Physics 17(1), 27–47，DOI [10.1103
 无直接项目连接。本文为铁磁性量子理论的奠基性综述，与 project-2 Mn 多铁中涉及的磁性/交换耦合概念有背景性关联，但不构成直接研究连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
   论证沿"唯象之谜 → 微观之钥 → 定域范式的多种近似 → 巡游范式 → 两范式比较 → 交换积分符号 → 向弱顺磁/反铁磁推广 → 与价键理论类比作结"的主线推进，每一步都把理论预测与 Fe/Ni/Co/Gd/MnO 的实验并置，形成"成功—困境—更优近似"的批判链条。

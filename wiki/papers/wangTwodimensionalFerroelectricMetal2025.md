@@ -15,7 +15,7 @@ concepts: [2D-materials, density-functional-theory, multiferroicity, magnetoelec
 entities: [VASP, CuCrS2, CuCrSe2, IrO2, Pt]
 methods: [dft, dft-d3, paw-pbe, spin-polarized-dft, che-model, gibbs-free-energy, band-structure, pdos, charge-density-difference, electrostatic-potential]
 materials: [CuCrS2, CuCrSe2]
-figures: [crystal-structures, electronic-bands, mathematical-models]
+figures: [electronic-bands-dos-fermi, mathematical-models-simulations]
 领域基础知识:: >-
   电催化中的氧还原反应（ORR）和氧析出反应（OER）是能源转换技术（如燃料电池、金属-空气电池）的核心。传统高效催化剂依赖贵金属，成本高昂。二维材料因其高比表面积与独特电子性质，成为催化剂研究的前沿。铁电材料因其自发极化能调控表面化学，但传统上被认为是绝缘体，不适用于电催化。
 研究背景:: >-
@@ -91,7 +91,7 @@ Wang Ying, Lu Chengliang, Wu Menghao（华中科技大学物理学院），2025�
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/2D-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelectric-metal|铁电金属]]、[[../concepts/electrocatalysis|电催化]]、[[../concepts/overpotential|过电位]]、[[../concepts/computational-hydrogen-electrode|计算氢电极]]、[[../concepts/sabatier-principle|萨巴蒂尔原理]]、[[../concepts/work-function|功函数]]
   - 实体 [[../entities/VASP]]、[[../entities/CuCrSe2]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW与相变]]
+  - 图表 [[../figures/electronic-bands]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW与相变]]
   - 年度 [[../write/2025]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/wangTwodimensionalFerroelectricMetal2025]]
@@ -107,27 +107,27 @@ Wang Ying, Lu Chengliang, Wu Menghao（华中科技大学物理学院），2025�
   - `IrO2`、`Pt`：作为OER/ORR贵金属基准催化剂被引用（η_OER=0.56 V，η_ORR≈0.45 V）。
 
 ## 📊 关键图表
-  - ![双层CuCrS2几何结构、能带/PDOS、静电势与差分电荷密度](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_1_YWXULNJX.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+  - ![双层CuCrS2几何结构、能带/PDOS、静电势与差分电荷密度](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_1_YWXULNJX.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
     - **图示描述**：五面板组合图，(a) 双层CuCrS2原子结构，Cu与上下S层距离不等形成sp³四面体配位；(b) 能带结构与PDOS，多条能带穿过费米能级；(c) xy平面平均静电势沿z方向分布；(d)(e) 分别为O原子吸附在P⁻面和P⁺面的差分电荷密度（黄聚蓝耗，等值面0.0025 e/Å³）。
     - **关键特征**：两表面功函数Φ分别为3.98 eV和4.34 eV（差0.36 eV），电子从P⁻（低Φ）流向P⁺（高Φ）；费米能级附近PDOS主要由表面S原子p轨道贡献，而非Cu/Cr金属离子，确定S为高密度活性位点；P⁺面吸附O时电荷转移量明显大于P⁻面，直接证明极化促进催化。
     - **结论/意义**：一张图同时建立"金属性+垂直铁电性共存"与"极化调控表面电荷转移"两条核心论断。
-  - ![O2分子在少层CuCrX2表面的吸附构型与吸附能柱状图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_2_MDNEN53L.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![O2分子在少层CuCrX2表面的吸附构型与吸附能柱状图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_2_MDNEN53L.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
     - **图示描述**：(a) O₂分子在少层CuCrX2表面X（S/Se）原子顶位的吸附构型示意；(b) 2L/3L/4L、P⁻/P⁺、CuCrS₂/CuCrSe₂各工况的O₂吸附能柱状图，纵轴单位eV。
     - **关键特征**：所有吸附能落在0.78–1.31 eV区间，作者依据Sabatier原理视为"恰到好处"的理想范围；相同层数下CuCrSe₂对O₂的吸附普遍强于CuCrS₂，归因于Se电负性弱于S；高密度表面X原子即为活性位点。
     - **结论/意义**：为后续"CuCrSe₂吸附过强导致PDS卡在第一步"的解释提供能量学依据。
-  - ![双层CuCrX2表面ORR反应路径与吉布斯自由能变化图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_3_47S2LRMK.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+  - ![双层CuCrX2表面ORR反应路径与吉布斯自由能变化图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_3_47S2LRMK.png) → [[../figures/mathematical-models-simulations|模拟与数值结果]]
     - **图示描述**：(a) 双层CuCrX2表面四电子缔合路径O₂→*OOH→*O→*OH→H₂O示意；(b)–(e) 分别为CuCrS₂/CuCrSe₂的P⁻和P⁺面在U=0 V与U=1.23 V下的ORR吉布斯自由能阶梯图，横轴为四个反应中间体，纵轴ΔG（eV）。
     - **关键特征**：2L CuCrS₂ P⁻/P⁺面η_ORR分别为0.68/0.38 V；2L CuCrSe₂ P⁻/P⁺面为0.60/1.06 V；CuCrS₂ P⁻面PDS为最后一步*OH→H₂O，P⁺面PDS为第三步*O→*OH；CuCrSe₂两面PDS均为第一步O₂→*OOH；2L CuCrS₂ P⁺面0.38 V已低于Pt基催化剂（~0.45 V）。
     - **结论/意义**：首次在同一图中对比显示极化反转可改变PDS位置，且P⁺面显著优于P⁻面。
-  - ![三层CuCrX2基态自旋构型、PDOS及ORR自由能图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_4_DX4JT9JH.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+  - ![三层CuCrX2基态自旋构型、PDOS及ORR自由能图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_4_DX4JT9JH.png) → [[../figures/mathematical-models-simulations|模拟与数值结果]]
     - **图示描述**：(a) 三层CuCrS₂（即Cu₂(CrX₂)₃）基态自旋构型（面内FM、层间FM/AFM混合）与PDOS；(b) 三层CuCrX2两表面在四电子路径下的ORR ΔG阶梯图。
     - **关键特征**：三层体系仍为金属，费米能级附近PDOS显著；3L CuCrS₂ P⁻/P⁺面η_ORR为0.70/0.28 V，3L CuCrSe₂为0.54/1.02 V；P⁺面PDS仍为第三步*O→*OH，CuCrSe₂两面PDS仍为第一步O₂→*OOH。
     - **结论/意义**：3L P⁺-CuCrS₂的0.28 V是全文最优值，也是作者所知已报道ORR催化剂中的最低值。
-  - ![四层CuCrX2基态自旋构型、PDOS及ORR自由能图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_5_TZW26C6K.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![四层CuCrX2基态自旋构型、PDOS及ORR自由能图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_5_TZW26C6K.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
     - **图示描述**：(a) 四层CuCrS₂（Cu₃(CrX₂)₄）基态自旋构型与PDOS；(b) 四层CuCrX2两表面四电子路径的ORR ΔG阶梯图。
     - **关键特征**：面内自旋耦合仍为FM、层间FM/AFM混合且保持金属性；4L CuCrS₂ P⁻/P⁺面η_ORR为0.71/0.33 V，4L CuCrSe₂为0.51/0.99 V；性能随层数呈非单调变化（3L最优，4L次之，2L再次）。
     - **结论/意义**：与图3、图4共同构成2–4层系统扫描，揭示层数对极化场和过电位的精细调控，但作者未给微观解释。
-  - ![少层CuCrX2的OER吉布斯自由能变化图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_6_YZJF6YBP.png) → [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+  - ![少层CuCrX2的OER吉布斯自由能变化图](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_6_YZJF6YBP.png) → [[../figures/mathematical-models-simulations|模拟与数值结果]]
     - **图示描述**：(a)–(c) 分别为2L、3L、4L CuCrX2在不同电极电压下沿四电子路径H₂O→*OH→*O→*OOH→O₂的OER ΔG阶梯图，黑箭头标出PDS，整体呈逐渐上坡趋势。
     - **关键特征**：多数体系PDS为第三步*O→*OOH；2L与3L CuCrS₂ P⁺面η_OER分别为0.43 V和0.50 V，均低于贵金属基准IrO₂（0.56 V）；OER是ORR逆过程，自由能曲线为能量耗散型。
     - **结论/意义**：与低η_ORR（最低0.28 V）合起来证明CuCrS₂是理想的ORR/OER双功能非贵金属催化剂。

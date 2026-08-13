@@ -15,7 +15,7 @@ concepts: [mechanoluminescence, thermoluminescence, trap-depth, dislocation-medi
 entities: [SrAl2O4, Eu2-plus, RCA931-pmt, Nucleonix-TL10091, Shimadzu-UV1700, Rigaku-D]
 methods: [combustion-synthesis, xrd, uv-vis-absorption, scherrer-formula, impact-ml, pmt-detection, tl-glow-curve, initial-rise-method, chens-peak-method, glow-curve-fitting]
 materials: [SrAl2O4-Eu, strontium-nitrate, aluminium-nitrate, europium-oxide, urea]
-figures: [optical-spectra, crystal-structures, mathematical-models]
+figures: [crystal-structures, mathematical-models, optical-spectra]
 领域基础知识:: >-
   机械发光(ML)和热释光(TL)是固体材料中两种重要的发光现象，分别由机械作用（如应力、断裂）和热量激发。它们都与材料内部的缺陷（陷阱）能级密切相关，陷阱可以捕获并存储载流子（电子或空穴）。稀土离子（如Eu²⁺）掺杂的铝酸锶(SrAl2O4)是一种高效的荧光材料，其Eu²⁺的5d-4f跃迁是主要的发光来源。
 研究背景:: >-

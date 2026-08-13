@@ -10,12 +10,12 @@ paper_type: review
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Gittard2013polymerization]]
-projects: [project-1]
+projects: []
 concepts: [two-photon-polymerization, tissue-engineering, regenerative-medicine, scaffold, vascularization, prevascularization, contact-guidance, mass-transport, extracellular-matrix, voxel, two-photon-absorption, diffraction-limit, rapid-prototyping, stereolithography, multibeam-writing, micromolding-replication, laser-bioprinting, soft-lithography, surface-morphology]
 entities: [Ormocer, PEGDA, PCL, PLA, BSA, fibrinogen, collagen, fibrin, PEG, PMMA, TORP, hydroxyapatite]
 methods: [two-photon-polymerization, sem, laser-bioprinting, soft-lithography, micromolding, cell-culture, femtosecond-laser, computer-generated-holography, in-vivo-implantation]
 materials: [Ormocer, PEGDA, PCL, PLA, BSA, fibrinogen, collagen, fibrin, PEG, PMMA]
-figures: [sem-micrographs, tissue-engineering-scaffolds, medical-devices]
+figures: []
 领域基础知识:: >-
   组织工程与再生医学旨在通过结合生物材料、细胞和生长因子来修复或替换受损组织。其核心挑战包括模拟天然细胞外基质、维持细胞存活、实现组织整合和血管化。支架作为人工细胞外基质，其微纳结构（如孔隙率、表面粗糙度、拓扑形貌）和物质传输能力是决定成败的关键。
 研究背景:: >-
@@ -40,8 +40,6 @@ tags:
   - paper
   - type/review
   - year/2013
-  - project/project-1
-  - relevance/project-1/strong
   - concept/two-photon-polymerization
   - concept/tissue-engineering
   - concept/regenerative-medicine
@@ -148,7 +146,6 @@ Gittard, Koroleva, Nguyen, Fadeeva, Gaidukeviciute, Schlie, Narayan, Chichkov，
   - **project-1（双光子）— strong**：本文是 2PP 技术在再生医学中应用的综述，对双光子项目有直接参考价值：(1) 详细阐述了双光子吸收的非线性光学原理（光强二次方依赖、双锥体体素、30 nm 超衍射极限分辨率）及分辨率影响因素（激光波长/功率/脉宽/脉冲频率、扫描速度、光栅间距、光引发剂类型与浓度、自由基淬灭剂），其中光引发剂种类和浓度直接影响体素尺寸，对引发剂设计有参考意义；(2) 系统列举了已用 2PP 加工的材料体系（Ormocer、PEGDA、PCL/PLA共聚物、Zr/Ti基溶胶-凝胶、金属离子掺杂丙烯酸酯、BSA、纤维蛋白原、胶原），可作为引发剂-树脂配伍的背景资料；(3) 指出 2PP 最大瓶颈是逐点扫描速度慢，展望了 CGH 多光束并行加工（四光束→1/4时间）和微模塑复制两条路线，对理解技术演进有帮助。本文不涉及具体引发剂分子的合成或光物理表征，因此评为 strong 而非 core。
   - project-2 至 project-7：无直接项目连接。
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 
 ## 📝 组织与用词
 文章按"领域需求（组织工程五大挑战）→ 微纳尺度生物学基础（2D vs 3D、表面粗糙度、接触引导、传质/血管化）→ 2PP 技术原理与材料 → 应用案例（假体、Lego支架、细胞打印）→ 未来四大方向（多光束、预血管化、微模塑天然材料、微创器件）→ 结论"的经典综述逻辑展开，建立了"生物学需求—技术能力"的清晰映射。值得复用的术语：
@@ -164,7 +161,7 @@ Gittard, Koroleva, Nguyen, Fadeeva, Gaidukeviciute, Schlie, Narayan, Chichkov，
   - Computer-generated holography (CGH) / 计算机生成全息图
   - [[../concepts/computer-generated-hologram|computer-generated-hologram]]
 ## ✏️ 可写入 Wiki 的要点
-  1. 2PP 基于飞秒激光诱导[[../concepts/photoinitiator|光引发剂]]的[[../concepts/two-photon-absorption|[[../concepts/biphoton|双光子]]吸收]]（非线性过程，光强二次方依赖），聚合仅发生在焦点中心近似双锥形的体素内，分辨率可超越光学[[../concepts/diffraction-limit|衍射极限]]，文献报道达 30 nm；分辨率可通过激光参数和材料组成调节以平衡精度与速度。
+  1. 2PP 基于飞秒激光诱导[[../concepts/photoinitiator|光引发剂]]的[[../concepts/two-photon-absorption|双光子吸收]]（非线性过程，光强二次方依赖），聚合仅发生在焦点中心近似双锥形的体素内，分辨率可超越光学[[../concepts/diffraction-limit|衍射极限]]，文献报道达 30 nm；分辨率可通过激光参数和材料组成调节以平衡精度与速度。
   2. 2PP 分辨率影响因素 include：激光光斑尺寸、波长、能量、脉宽、脉冲持续时间、脉冲频率、峰值强度，以及扫描速度、光栅间距、层间距；树脂光学性质、光引发剂类型与浓度、自由基淬灭剂添加也显著影响体素大小。
   3. 已用 2PP 加工的材料：Ormocer（有机-无机杂化）、PEGDA（防污/非致血栓）、可生物降解 PCL/PLA 共聚物、Zr基和Ti基溶胶-凝胶复合材料、金属离子掺杂丙烯酸酯、BSA、纤维蛋白原、胶原等天然蛋白。
   4. 微米级表面粗糙度通常降低细胞增殖与粘附，纳米级粗糙度（如 200 nm 陶瓷晶粒）反而增强；尖峰结构对成纤维细胞增殖有抑制作用（利于抗疤痕）但不影响神经母细胞瘤细胞，显示细胞类型特异性。

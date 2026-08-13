@@ -12,10 +12,10 @@ year_read: 2026
 original_note:: [[../../raw/note/vahidmohammadiWorldTwodimensionalCarbides2021]]
 projects: [project-7, project-5, project-2]
 concepts: [2d-materials, selective-etching, surface-termination, strain-engineering, intercalation, plasmonics, mxetronics, solid-solution, mixed-metal-ordering, liquid-crystal, electromagnetic-shielding]
-entities: [MXenes, MAX-phases, Ti3C2, Ti2C, Ta4C3, Mo2CTx, Science]
+entities: [MXenes, MAX-phases, Ti3C2, Ti2C, Ta4C3, Mo2CTx]
 methods: [selective-etching, additive-manufacturing, vapor-phase-synthesis, dft, computational-atomistic-design]
 materials: [Ti3C2, Ti2C, Ta4C3, M5C4-MXene, carbide-MXenes, nitride-MXenes, carbonitride-MXenes]
-figures: [crystal-structures]
+figures: []
 领域基础知识:: >-
   MXenes 是过渡金属碳化物、氮化物及碳氮化物的二维大家族，通式为 M_{n+1}X_nT_x（M 为早期过渡金属，X 为 C/N，T_x 为表面终端 −F、=O、−Cl、−Br 等），由其对应的三维 MAX 相（强键合层状固体）经选择性蚀刻 A 族元素层制得。与石墨烯、h-BN、TMD 等依赖范德华层状前驱体的二维材料不同，MXenes 的发现表明二维材料合成并不必须以范德华键合层状前驱体为前提。截至 2021 年已合成数十种组分，理论可能组分超过 100 种，叠加表面终端与碳氮化物/固溶体后组分空间还可再提升一个数量级。
 研究背景:: >-

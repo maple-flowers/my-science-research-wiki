@@ -15,7 +15,7 @@ concepts: [ferroelectricity, polarization-switching, 2D-materials, multiferroici
 entities: [In2Se3, BiFeO3, h-BN, TMDs, SnTe, domain-wall, graphene, HfO2, SiO2, PVDF-TrFE, CuInP2S6, FeFET, FeS-FET, FeCT, FSJ, ferroelectric-memristor]
 methods: [dft, first-principles, molecular-dynamics, ab-initio-md, neb, phonon-spectrum, phonon-projection, pfm, afm-pfm, shg, leem-leed, stem-saed, raman, stm, kpfm, sem, cvd, mbe, mechanical-exfoliation, vdw-epitaxy, colloidal-synthesis, device-i-v, ald]
 materials: [In2Se3, alpha-In2Se3, beta-In2Se3, beta0-In2Se3, graphene, h-BN, HfO2, SiO2, BiFeO3, CuInP2S6, SnTe, PVDF-TrFE]
-figures: [crystal-structures, mathematical-models, domain-walls, electronic-devices, vibrational-spectra, experimental-setups]
+figures: [crystal-structures-bulk, vibrational-spectra]
 领域基础知识:: >-
   铁电存储器的物理基础是基于铁电材料中可被外部电场翻转的自发极化，用于实现非易失性数据存储。传统铁电材料在纳米尺度会因退极化场效应而丧失铁电性，阻碍器件小型化。二维材料因其范德华层状结构，为解决此问题提供了新平台。
 研究背景:: >-
@@ -131,7 +131,7 @@ Yu-Ting Huang, Nian-Ke Chen, Zhen-Ze Li, Xue-Peng Wang, Hong-Bo Sun, Shengbai Zh
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/2D-materials]]、[[../concepts/polarization-switching]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/machine-learning-potential]]、[[../concepts/strain-engineering]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/phase-change-type-ferroelectrics|相变型铁电体]]、[[../concepts/re-bonding-mechanism|再成键机制]]、[[../concepts/mexican-hat-pes|墨西哥帽势能面]]、[[../concepts/dipole-locking|偶极锁定]]、[[../concepts/entropy-barrier|熵垒]]、[[../concepts/shear-phonon-mode|剪切声子模式]]、[[../concepts/in-memory-computing|存内计算]]、[[../concepts/neuromorphic-computing|神经形态计算]]、[[../concepts/schottky-barrier|肖特基势垒]]、[[../concepts/domain-wall-motion|畴壁运动]]
   - 实体 [[../entities/In2Se3]]、[[../entities/BiFeO3]]、[[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/SnTe]]、[[../entities/domain-wall]]、[[../entities/graphene|石墨烯]]、[[../entities/HfO2|HfO₂]]、[[../entities/PVDF-TrFE]]、[[../entities/CuInP2S6|CuInP₂S₆]]、[[../entities/FeFET]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]、[[../figures/domain-walls]]、[[../figures/electronic-devices]]、[[../figures/vibrational-spectra]]、[[../figures/experimental-setups]]、[[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]、[[../figures/domain-walls]]、[[../figures/electronic-devices]]、[[../figures/vibrational-spectra]]、[[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - 年度 [[../write/2022]]、[[../write/2017]]、[[../write/2018]]、[[../write/2019]]、[[../write/2021]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]
   - 相关论文 **huangTwodimensionalIn2Se3Rising2022**
@@ -155,7 +155,7 @@ Yu-Ting Huang, Nian-Ke Chen, Zhen-Ze Li, Xue-Peng Wang, Hong-Bo Sun, Shengbai Zh
   - **图示描述**：(A) Web of Science 上 2D/二维 In₂Se₃ 相关发文量的年度柱状图，(B) 对应引用量柱状图，(C) 从 2017 年理论预测到 2018 年后突触器件、FeFET、记忆/神经计算系统演示的里程碑时间线。
   - **关键特征**：2017 年 Ding 等与 Xiao 等分别预测/观测到单层 α-In₂Se₃ 的互锁铁电性，是整个领域的起飞点；2017 年后发文与引用量均持续陡增，COVID-19 期间也未中断；时间线显示该领域在 4–5 年内从基础物性快速推进到器件与类脑计算演示。
   - **结论/意义**：定量说明 2D In₂Se₃ 是近年二维铁电领域的中心材料之一，支撑综述选题的时效性。
-  - 图3 单层 In2Se3 五层原子结构及 α（铁电）、β（顺电）、β0 畸变相 ![图3](../../raw/figures/huangTwodimensionalIn2Se3Rising2022/fig_3_U5LQBVVS.png) -> [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 图3 单层 In2Se3 五层原子结构及 α（铁电）、β（顺电）、β0 畸变相 ![图3](../../raw/figures/huangTwodimensionalIn2Se3Rising2022/fig_3_U5LQBVVS.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：(A) 单层 In₂Se₃ 五层原子（Se–In–Se–In–Se）三角晶格的俯视图；(B)–(D) 为 α 相三维结构与侧视图，标出 OOP（黑箭头）与 IP（红箭头）极化；(E) 为中心对称的 β 相；(F) 为中心 Se 偏离对称中心、带 IP 极化的 β′（β0）畸变相。
   - **关键特征**：α 相中顶层 In 为四面体配位、底层 In 为八面体配位，配位不对称是铁电性的结构起源；OOP 与 IP 两种极化方向互锁，翻转其一必翻转另一；β 相两个 In 亚层均为八面体配位、中心 Se 在对称中心，整体无极化；β′ 相中心 Se 偏心畸变，能量比 β 相更低，存在 IP 极化。
   - **结论/意义**：奠定全文"相变型铁电体"的结构基础，也为后续图4 的墨西哥帽 PES 和图8 的协同翻转路径提供原子坐标。
@@ -179,7 +179,7 @@ Yu-Ting Huang, Nian-Ke Chen, Zhen-Ze Li, Xue-Peng Wang, Hong-Bo Sun, Shengbai Zh
   - **图示描述**：(A) NEB 计算的单步直接翻转路径：中心 Se(m) 从一侧偏心位置直接跳到对侧；(B) 三步协同路径：上三层集体滑动形成 β′ 中间相 → Se(m) 旋转 60° → 上两层再集体滑动回到反向 α 相。
   - **关键特征**：单步法势垒高达约 0.85 eV/单位胞，室温下几乎不可发生；三步协同法势垒仅约 0.066 eV/单位胞，比单步法低一个数量级以上；中间经过 β′/β0 结构，说明铁电翻转本质上是有序-有序的结构相变而非简单离子位移。
   - **结论/意义**：从理论上确定了 α-In₂Se₃ 极化反转的真实物理路径，支撑其"相变型铁电体"分类，并解释了器件中可实现的翻转速度。
-  - 图9 750 K MD 中剪切声子模式驱动 α→β 相变的原子位移与声子投影 ![图9](../../raw/figures/huangTwodimensionalIn2Se3Rising2022/fig_9_EZYL86NC.png) -> [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 图9 750 K MD 中剪切声子模式驱动 α→β 相变的原子位移与声子投影 ![图9](../../raw/figures/huangTwodimensionalIn2Se3Rising2022/fig_9_EZYL86NC.png) -> [[../figures/vibrational-spectra|振动光谱]]
   - **图示描述**：(A–B) 750 K ab initio MD 模拟 4 ps 前后结构从 α 相到 β 相的对比；(C) 触发相变的面内剪切光学声子模式示意；(D–E) 各原子亚层位移随时间变化；(F) 原子位移在各声子模式上的投影振幅随时间演化。
   - **关键特征**：α→β 相变在约 1.5 ps 内完成，属于超快结构相变；运动方式是上两层（In(t)、Se(t)）与下三层（Se(m)、In(b)、Se(b)）作反向面内集体剪切；声子投影中只有该剪切光学模式的振幅随时间单调增长，其它模式不增长。
   - **结论/意义**：把相变动力学归因于单一剪切声子模式的软化/激发，为用熵垒和集体模式语言解释 β→α 反向翻转变慢提供依据。
@@ -233,6 +233,6 @@ Yu-Ting Huang, Nian-Ke Chen, Zhen-Ze Li, Xue-Peng Wang, Hong-Bo Sun, Shengbai Zh
   5. ab initio MD（750 K）显示 α→β 相变可在约 1.5 ps 内完成，由 α 相的面内剪切光学声子模式驱动，表现为上两层（In(t)、Se(t)）与下三层（Se(m)、In(b)、Se(b)）的反向集体运动；声子投影分析中仅该剪切模式位移随时间单调增长。
   6. β→α 反向翻转因 βpc 相的熵垒而显著变慢：以 β0 为起点在 OOP 电场下数十 ps 内可转回 α，而以 βpc 为起点在同等时间尺度下保持稳定——这解释了实验器件速度（ns–μs）远慢于本征 α→β 过程（ps）的矛盾。
   7. 实验上 IP 极化比 OOP 极化强约一个数量级；2H 堆垛的少层 α-In2Se3 表现出奇偶层效应：奇数层 IP 电偶极矩约 2.18 eÅ，偶数层几乎抵消；3R 堆垛则相邻层 IP 极化同向，总极化不随层数抵消。
-  8. 器件性能：FeFET（In2Se3 顶栅+[[../entitys/graphene|石墨烯]]沟道，ΔR/R 从 1% 提升至 58.5%，~50 ms）；FeS-FET（In2Se3 同时作沟道，15 nm HfO2 下开关比 >10^8、5 V 工作）；c-FSJ（±2.5 V 铁电阻变，80 ns 脉冲、在线学习准确率 ~92%、RON≈390 MΩ）；FeCT（40 ns 编程、6 V 存储窗口、234/40 fJ 每脉冲的长时程增强/抑制）。
+  8. 器件性能：FeFET（In2Se3 顶栅+[[../entities/graphene|石墨烯]]沟道，ΔR/R 从 1% 提升至 58.5%，~50 ms）；FeS-FET（In2Se3 同时作沟道，15 nm HfO2 下开关比 >10^8、5 V 工作）；c-FSJ（±2.5 V 铁电阻变，80 ns 脉冲、在线学习准确率 ~92%、RON≈390 MΩ）；FeCT（40 ns 编程、6 V 存储窗口、234/40 fJ 每脉冲的长时程增强/抑制）。
   9. 非对称 metal/α-In2Se3/p+-Si c-FSJ 利用 p+-Si 耗尽区极化调制[[../concepts/schottky-barrier|肖特基势垒]]，0.2 V 下开关比达 10^4，140 °C 仍保持 10^3，展现极端环境应用潜力；KPFM 研究表明平面[[../concepts/memristor|忆阻器]]的电阻切换并非源于金属-铁电界面势垒反转，而是沟道内[[../concepts/polarization-switching|极化翻转]]导致的能带偏移。
   10. 作者提出相变型二维铁电体的三条设计准则：范德华层状结构、单层内[[../concepts/inversion-symmetry|反演对称性]]破缺、相对柔性的化学键（共价-离子竞争键、metavalent bonding、hyperbonding 或 resonant bonding）；并指出七大挑战（翻转原子图像、速度/熵垒、FeCT 机理、IP 极化应用、晶圆级生长、单层器件验证、高通量新材料筛选），其中机器学习原子势被明确推荐用于畴壁大尺度模拟。

@@ -15,7 +15,7 @@ concepts: [two-photon-absorption, nonlinear-absorption, photopolymerization, hol
 entities: [DPHPA, E7-liquid-crystal, bis-diphenylamino-diphenyl-hexatriene, N-vinyl-pyrrolidinone, ITO-glass]
 methods: [h-tpip, two-photon-polymerization, holographic-lithography, femtosecond-laser-fabrication, free-radical-initiation, polarized-transmission-microscopy, low-voltage-sem]
 materials: [DPHPA, E7-nematic-LC, bis-diphenylamino-diphenyl-hexatriene-initiator, N-vinyl-pyrrolidinone]
-figures: [experimental-setups]
+figures: []
 领域基础知识:: >-
   材料科学，包括：表面科学中的表面态与能带弯曲理论；光学材料中的光聚合与非线性光学原理；纳米磁学中的薄膜生长、微结构与磁性关联机制；真空科学与表面分析技术。
 研究背景:: >-

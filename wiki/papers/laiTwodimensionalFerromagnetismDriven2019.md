@@ -1,7 +1,7 @@
 ---
 citekey: laiTwodimensionalFerromagnetismDriven2019
-title: "Two-dimensional ferromagnetism and driven ferroelectricity in van der Waals CuCrP                     <sub>2</sub>                     S                     <sub>6</sub>"
-title_zh: "vanderWaalsCuCrP中的二维铁磁性和驱动铁电性"
+title: "Two-dimensional ferromagnetism and driven ferroelectricity in van der Waals CuCrP₂S₆"
+title_zh: "范德华 CuCrP₂S₆ 中的二维铁磁性和驱动铁电性"
 authors: [Youfang Lai, Zhigang Song, Yi Wan, Mingzhu Xue, Changsheng Wang, Yu Ye, Lun Dai, Zhidong Zhang]
 year: 2019
 journal: "Nanoscale"
@@ -11,12 +11,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/laiTwodimensionalFerromagnetismDriven2019]]
-projects: [project-2]
+projects: []
 concepts: [2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling]
 entities: [BiFeO3, In2Se3, SnTe, VASP]
 methods: [afm-pfm, berry-phase, dft, dft-plus-u, neb, squid, xps]
 materials: [BiFeO3, In2Se3, SnTe]
-figures: [crystal-structures, electronic-bands, experimental-setups, heterostructures-stacking, mathematical-models]
+figures: []
 领域基础知识:: >-
   多铁性材料是指同时具有铁电性、铁磁性等多种铁性序的材料。二维（2D）范德华材料因其原子级光滑表面与优异电学性能，是解决传统三维多铁材料在纳米尺度因悬挂键和量子隧穿效应导致性能下降问题的理想平台。目前，同时具有本征铁磁性和铁电性的二维多铁材料在实验上十分罕见。
 研究背景:: >-
@@ -41,8 +41,6 @@ tags:
   - paper
   - type/experiment
   - year/2019
-  - project/project-2
-  - relevance/project-2/medium
   - concept/2D-materials
   - concept/berry-phase
   - concept/density-functional-theory
@@ -143,7 +141,6 @@ Youfang Lai, Zhigang Song (共同一作/通讯), Yi Wan, Mingzhu Xue, Changsheng
 无直接项目连接（本文为 Cu/Cr 硫代磷酸盐体系，非 Mn 基；但与 project-2 Mn多铁 在"二维多铁/磁电耦合"主题上相邻，可作为 I 型二维多铁的方法学与对照参考）。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
   - 论证组织：经典的"理论预测 → 实验验证 → 机制解释 → 家族拓展"四段式。理论部分先建立 FE/AFE 两相结构并以 NEB 论证电场驱动相变的可行性，再确立铁磁基态与单向磁各向异性，进而引出 SOC 桥接的自旋-偶极-谷三重锁定，最后做层数依赖与同家族预测；实验部分依次用 PFM 证实室温面外铁电、用 VSM/MOKE 证实低温铁磁，与计算逐条呼应。

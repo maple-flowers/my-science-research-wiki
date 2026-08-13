@@ -15,7 +15,7 @@ concepts: [2d-materials, strain-engineering, topological-defects, berry-phase, d
 entities: [VASP, PbTe, domain-wall, deep-potential, PbS, PbSe, LAMMPS, DeepMD-kit, PBE-functional]
 methods: [dft, dft-pp, pbe, berry-phase, phonon-spectrum, deepmd, mlip, md, lammps, fem, soft-mode-analysis, elf, piezoelectric-coefficient, indentation-simulation]
 materials: [PbS, PbSe, PbTe, 2D-PbX]
-figures: [crystal-structures, vibrational-spectra, mathematical-models, domain-walls, polarization-phase-diagram, multiscale-simulation-workflow, device-schematics]
+figures: []
 领域基础知识:: >-
   铁电拓扑缺陷（如斯格明子、涡旋）是下一代高密度非易失性存储器的潜在信息载体，因其具有拓扑保护性且尺寸可至纳米级。二维（2D）材料，特别是二维铁电体，因其原子级厚度和优异柔性，为突破传统钙钛矿氧化物在此领域的应用瓶颈提供了新平台。应变工程是调控二维材料物性的有效手段。第四族单硫族化合物（Group-IV Monochalcogenides）是一类重要的二维铁电材料，其结构与性质对应变敏感。顺电相（Paraelectric Phase）与铁电相（Ferroelectric Phase）是两种不同的极化状态，前者无自发极化，后者具有可被电场翻转的自发极化。第一性原理计算（DFT）、分子动力学模拟（MD）和有限元方法（FEM）是材料科学中多尺度模拟的常用方法。
 研究背景:: >-

@@ -6,7 +6,7 @@ year: 1996
 journal: "Physical Review Letters"
 doi: "10.1103/PhysRevLett.77.3865"
 url: "https://doi.org/10.1103/PhysRevLett.77.3865"
-paper_type: method
+paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/perdewGeneralizedGradientApproximation1996a]]
@@ -15,7 +15,7 @@ concepts: [density-functional-theory, exchange-correlation-functional, generaliz
 entities: [VASP, CADPAC]
 methods: [dft, gga, pbe, lsd, pseudopotential, atomization-energy-benchmark]
 materials: []
-figures: [mathematical-models]
+figures: [mathematical-models-computational, mathematical-models-formulas]
 领域基础知识:: >-
   密度泛函理论(DFT)是一种通过电子密度而非波函数来研究多电子体系电子结构的方法。其核心是寻找精确的交换-关联能(EXC)泛函。局域自旋密度近似(LSD)基于均匀电子气模型，而广义梯度近似(GGA)则通过引入电子密度梯度(=n)来修正非均匀密度效应，是更高级的近似方法。
 研究背景:: >-
@@ -94,22 +94,22 @@ Perdew、Burke、Ernzerhof，1996，Physical Review Letters 77(18), 3865–3868�
   - **图示描述**：二维曲线图，横轴为无量纲密度梯度 s=|∇n|/(2k_F n)（无单位，物理相关范围 0≤s≤3），纵轴为交换-关联增强因子 F_XC（无单位，F_XC=1 即退化为 LSD）。实线为本文 PBE，空心圆圈为 PW91，两组曲线分别对应 ζ=0（自旋非极化）和 ζ=1（完全自旋极化）。
   - **关键特征**：F_XC 随 s 单调上升，体现 GGA 随密度梯度增大而增强交换、减弱关联的非局域修正；PBE 实线与 PW91 圆圈在整个 s 范围（尤其 s<3 的实际体系区间）几乎重合，证明简化后的 PBE 抓住了 PW91 的核心非局域物理；ζ=1 曲线低于 ζ=0，说明完全自旋极化体系中 GGA 的非局域修正相对较弱；实际价电子密度区 1≤r_s/a₀≤10 内交换非局域性占主导，故 GGA 比 LSD 更偏好密度不均匀性。
   - **结论/意义**：定性验证了"做减法"并未损失物理——PBE 以更简洁的形式再现了 PW91 的数值行为，为后续表I 的定量精度验证提供直观依据。
-  - ![图1 增强因子对比](../../raw/figures/perdewGeneralizedGradientApproximation1996a/fig_1_JDC9MYFC.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图1 增强因子对比](../../raw/figures/perdewGeneralizedGradientApproximation1996a/fig_1_JDC9MYFC.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **表I：20 个小分子原子化能，UHF/LSD/PW91/PBE 与实验值对比（单位 kcal/mol，1 eV=23.06 kcal/mol）**
   - **图示描述**：表格横向列出 H₂、LiH、CH₄、NH₃、H₂O、HF、CO、N₂、O₂、F₂ 等 20 个小分子的原子化能 D_E，对比 UHF、LSD、PW91、PBE 四种方法与实验值 D_E^expt，末行为平均绝对误差；计算使用修改版 CADPAC 程序，在实验几何结构上对自洽密度评估 E_XC。
   - **关键特征**：UHF 平均绝对误差 71.2 kcal/mol，因忽略关联而严重低估原子化能；LSD 误差 31.4 kcal/mol，系统性过度结合（overbinding，化学键过强）；PW91 误差 8.0 kcal/mol、PBE 误差 7.9 kcal/mol，两者几乎完全相同，把 LSD 的误差降低约一个数量级；PBE 与 PW91 在每个分子上的数值差异都在 1–2 kcal/mol 量级，无系统性偏差。
   - **结论/意义**：定量证明 PBE 在去除 PW91 复杂性和理论缺陷的同时，分子能量精度完全不打折，是 PBE 取代 PW91 成为标准 GGA 泛函的核心实战证据。
-  - ![表I 原子化能](../../raw/figures/perdewGeneralizedGradientApproximation1996a/tab_1_GMJNJVEU.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![表I 原子化能](../../raw/figures/perdewGeneralizedGradientApproximation1996a/tab_1_GMJNJVEU.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **公式(7)：关联能梯度修正项 H 的解析形式**
   - **图示描述**：H 是 PBE 关联能表达式 E_C^GGA=∫d³r n[ε_C^unif+H] 中的梯度修正项，以无量纲梯度 t、自旋缩放因子 φ(ζ) 和基本常数 β≈0.066725、γ≈0.031091 构造；A 由 β、γ 和 ε_C^unif 决定，是连接三个极限的插值参数。
   - **关键特征**：t→0 缓慢变化极限下 H→(e²/a₀)βφ³t²，恢复二阶梯度展开；t→∞ 快速变化极限下 H→−ε_C^unif，使关联在密度急剧变化处（如分子尾部）正确消失；高密度均匀缩放极限下 H→(e²/a₀)γφ³ln t²，精确抵消 ε_C^unif 的对数奇点，使关联能趋于常数（修正了 PW91 在此极限下的错误）；H 关于 t 单调增长，保证 E_C^GGA≤0。
   - **结论/意义**：仅用三个能量上关键的物理极限就唯一约束出一个简洁解析式，体现了 PBE"奥卡姆剃刀"的构造哲学。
-  - ![eq7 H函数](../../raw/figures/perdewGeneralizedGradientApproximation1996a/eq_7_KUPYSBIE.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![eq7 H函数](../../raw/figures/perdewGeneralizedGradientApproximation1996a/eq_7_KUPYSBIE.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
   - **公式(14)：交换增强因子 F_X(s)=1+κ−κ/(1+μs²/κ)**
   - **图示描述**：F_X(s) 是 PBE 交换能 E_X^GGA=∫d³r n ε_X^unif(n) F_X(s) 中的无量纲增强因子，仅含两个常数 μ≈0.21951、κ=0.804；该形式最早由 Becke 提出，但 Becke 用的是经验拟合值（κ=0.967、μ=0.235），PBE 全部改为基本物理常数。
   - **关键特征**：s=0 时 F_X=1，正确恢复均匀电子气（LSD）极限；s→0 时 F_X→1+μs²，其中 μ=β(π²/3) 与关联项系数精确抵消，恢复 LSD 对均匀电子气的线性响应（这是 PBE 相对 PW91 的关键修正之一）；s→∞ 时 F_X→1+κ=1.804，恰好等于 Lieb-Oxford 界允许的最紧上限；曲线从 1 平滑单调地逼近 1.804，无 PW91 势函数中的虚假振荡。
   - **结论/意义**：四个物理条件（均匀缩放、自旋缩放、线性响应、Lieb-Oxford 界）唯一确定这个简洁形式，是 PBE 无经验参数宣称的核心支撑。
-  - ![eq14 Fx](../../raw/figures/perdewGeneralizedGradientApproximation1996a/eq_14_6VZ3PA5A.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![eq14 Fx](../../raw/figures/perdewGeneralizedGradientApproximation1996a/eq_14_6VZ3PA5A.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
 
 ## 🔬 项目连接
   - **project-2（Mn 多铁）**：strong。Mn 基多铁材料的 DFT 计算普遍以 PBE 或 PBE+U 为标准泛函；理解 PBE 的自相互作用误差、对过渡金属氧化物带隙低估和过度结合倾向，是判断何时需要加 U、加多大 U 的直接依据。论文对关联能梯度项 H 和交换增强因子的推导，有助于理解 +U 修正到底在补 PBE 的什么缺陷。

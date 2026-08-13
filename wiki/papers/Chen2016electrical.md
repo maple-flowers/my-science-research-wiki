@@ -15,7 +15,7 @@ concepts: [polarization-switching, ferroelasticity, multiferroicity, magnetoelec
 entities: [BiFeO3, domain-wall, SrTiO3, La0.67Sr0.33MnO3, BaTiO3, PbZrxTi1-xO3, ITO, PLD, PFM, c-AFM]
 methods: [pld, pfm, c-afm, photovoltaic-measurement, phase-field]
 materials: [BiFeO3, SrTiO3, La0.67Sr0.33MnO3, BaTiO3, PbZr0.2Ti0.8O3, ITO]
-figures: [crystal-structures, domain-walls, electronic-devices]
+figures: [domain-walls-structures, domain-walls-switching-properties, electronic-devices-memory-transistors]
 领域基础知识:: >-
   铁电体是具有自发极化且极化方向可被外电场反转的材料。铁电畴是极化方向一致的区域，其畴壁的运动和极化翻转是铁电存储器、压电传感器等器件工作的物理基础。多铁性材料铁酸铋同时具有铁电性和反铁磁性，在室温下具有多种极化方向和畴壁类型，是研究畴动力学的理想平台。
 研究背景:: >-
@@ -95,7 +95,7 @@ Liufang Chen, Zhihao Cheng, Wenting Xu, Xiangjian Meng, Guoliang Yuan, Junming L
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/polarization-switching]]、[[../concepts/ferroelasticity]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/flexoelectric-effect|挠曲电效应]]、[[../concepts/ferroelectric-domain|铁电畴]]、[[../concepts/domain-wall-motion|畴壁运动]]、[[../concepts/coercive-field|矫顽场]]、[[../concepts/ferroelectric-photovoltaic-effect|铁电光伏效应]]、[[../concepts/depletion-layer|耗尽层]]、[[../concepts/two-step-switching|两步翻转]]
   - 实体 [[../entities/BiFeO3]]、[[../entities/domain-wall]]、[[../entities/SrTiO3]]、[[../entities/BaTiO3]]、[[../entities/ITO]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/domain-walls]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups|实验测试与测量装置]]、[[../figures/mathematical-models|数学模型与物理公式]]
+  - 图表 [[../figures/domain-walls]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups|实验测试与测量装置]]、[[../figures/mathematical-models|数学模型与物理公式]]
   - 年度 [[../write/2016]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 **Chen2016electrical**
@@ -113,27 +113,27 @@ Liufang Chen, Zhihao Cheng, Wenting Xu, Xiangjian Meng, Guoliang Yuan, Junming L
 
 ## 📊 关键图表
   - 图1 BiFeO₃ 薄膜初始畴结构
-    ![Fig.1 初始畴结构与8种极化方向](../../raw/figures/Chen2016electrical/fig_1_ZZASGZCF.png) -> [[../figures/domain-walls|畴与畴壁结构]]
+    ![Fig.1 初始畴结构与8种极化方向](../../raw/figures/Chen2016electrical/fig_1_ZZASGZCF.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
     - **图示描述**：(a) BiFeO₃ 晶胞沿四条赝立方体对角线的 8 种极化方向示意（P1–P4 向上、P−1–P−4 向下）；(b) 5×5 μm² 范围的 AFM 表面形貌；(c–f) 经 +6 V 极化后，悬臂分别沿 [100] 与 [010] 方向所测的垂直 (OP) 与水平 (IP) PFM 相位图。
     - **关键特征**：表面呈纳米级光滑，是后续针尖施加 1.18 GPa 应力而不产生塑性损伤的前提；6 V 极化后形成以 P2–P3、P3–P4、P4–P1 为主的 μm 级 71° 条纹畴；OP 相位区分向上/向下，两组正交 IP 相位组合可唯一确定 P1–P4 四种面内取向。
     - **结论/意义**：建立了后续电学/力学翻转实验的初始畴基线，并定义了全文使用的 8 态极化记号与 71°/109°/180° 畴壁语言。
   - 图2 电学翻转畴演化
-    ![Fig.2 电学翻转的成核-分解-重组过程](../../raw/figures/Chen2016electrical/fig_2_8M5UCVB2.png) -> [[../figures/domain-walls|畴与畴壁结构]]
+    ![Fig.2 电学翻转的成核-分解-重组过程](../../raw/figures/Chen2016electrical/fig_2_8M5UCVB2.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
     - **图示描述**：对图1蓝色方框内 P1–P2 条纹畴逐级施加 −1.8 V、−2 V、−2.3 V 针尖偏压后，OP/IP PFM 相位图的四列序列；标注 A–F 六个初始单畴区域及其子区域 A2–A4 等。
     - **关键特征**：−1.8 V 时新畴 B2、C2 等优先在原 P1–P2 畴壁处成核，畴界变模糊；−2 V 时 >94% 区域翻转向下，因多路径并发而分解为超出 PFM 分辨率的 nm 畴，在 IP 图中呈棕色（已排除仪器相位偏移）；−2.3 V（>Vc≈2.3 V，对应 Ec≈38 kV/mm）时纳米畴重组为 μm 级 P−3/P−4 畴。
     - **结论/意义**：给出电学翻转"成核—分解—重组"三阶段模板，并以 A2(P1)→A3(P−1)→A4(P−3) 等路径证明 180° 翻转由 71°+109° 两步铁弹翻转完成。
   - 图3 力学翻转的定量演化
-    ![Fig.3 力学翻转面积比随针尖力递增至100%](../../raw/figures/Chen2016electrical/fig_3_V2QYGQGG.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+    ![Fig.3 力学翻转面积比随针尖力递增至100%](../../raw/figures/Chen2016electrical/fig_3_V2QYGQGG.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
     - **图示描述**：(a,b) 3325 nN 力扫描前后 1×1 μm² 区域的表面形貌对比；(c–h) 用 30 nm 直径 PFM 针尖依次施加 140、700、1050、1400、1750、3325 nN 力后的 OP 相位图序列。
     - **关键特征**：向下畴面积比随力单调上升 0 → 8.9% → 41.4% → 82.2% → 95.9% → 100%；按接触面积 ~707 nm² 换算，700 nN ≈ 0.25 GPa、3325 nN ≈ 1.18 GPa，最大应力仍低于 BiFeO₃ 塑性损伤阈值；加压前后形貌均光滑，翻转态在大气中保持 2 天不退。
     - **结论/意义**：本文最核心的实证结果，首次把机械力完全翻转铁电极化的厚度从 ~5 nm（BaTiO₃、PZT）推进到 70 nm、矫顽场 ~38 kV/mm 的 BiFeO₃，并以挠曲电场 E_f=(f/ε)(∂e/∂z) 解释驱动力。
   - 图4 力学翻转畴演化细节
-    ![Fig.4 力学翻转与电学翻转相似的畴演化](../../raw/figures/Chen2016electrical/fig_4_I3MJA2P9.png) -> [[../figures/domain-walls|畴与畴壁结构]]
+    ![Fig.4 力学翻转与电学翻转相似的畴演化](../../raw/figures/Chen2016electrical/fig_4_I3MJA2P9.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
     - **图示描述**：与图2平行的力学翻转 PFM 序列，对 G、H、I、J、K 五个初始单畴区域依次施加 875 nN、1050 nN、1330 nN 针尖力，给出 OP/IP 相位图。
     - **关键特征**：875 nN 时新畴在 μm 级畴壁处成核；1050 nN 时 μm 畴分解为超出 PFM 分辨率的 nm 畴（IP 棕色区）；1330 nN 时纳米畴重组为 μm 级向下畴，典型路径 G1(P1)→G2(P−2)→G4(P−3) 为 109°+71°，J1(P4)→J2(P−3)→J3(P−2) 同为两步翻转。
     - **结论/意义**：与图2逐阶段并排对照，证明无论驱动力是外电场还是挠曲电内电场，畴演化路径由材料内禀能量景观决定，均为两步铁弹翻转介导的 180° 翻转。
   - 图5 两种无损读出方案
-    ![Fig.5 c-AFM漏电流与光伏Isc两种无损读出方案](../../raw/figures/Chen2016electrical/fig_5_V43HJ2T7.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+    ![Fig.5 c-AFM漏电流与光伏Isc两种无损读出方案](../../raw/figures/Chen2016electrical/fig_5_V43HJ2T7.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
     - **图示描述**：(a–c) 先用 ±6 V 写入向上/向下极化图案，再以 1 V 偏压（远低于 Vc=2.3 V）做 c-AFM 电流成像；(d) 300 μm 直径 ITO 顶电极、~100 mW/cm² 可见光照射的光伏测量示意；(e) 短路电流 Isc 随光照开关的时间序列。
     - **关键特征**：c-AFM 图中向下极化区电流显著大于向上极化区——p 型 LSMO/n 型 BiFeO₃ 界面耗尽层随极化方向变窄/展宽；光伏 Isc 方向与极化反向绑定，向下极化 Isc≈+20 nA、向上极化 Isc≈−30 nA；11 次光照开关循环无明显衰减。
     - **结论/意义**：验证了"力学写入 + 低偏压电流/光伏短路电流无损读出"的存储范式，读取电场远低于矫顽场，不会扰动所存极化态。

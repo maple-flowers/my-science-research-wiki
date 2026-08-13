@@ -15,7 +15,7 @@ concepts: [thermal-lens-effect, photothermal-effect, pump-probe-technique, optic
 entities: [spherical-lensed-fiber, laser-diode, super-luminescence-diode, lock-in-amplifier, si-photodiode, optical-interference-filter, fiber-coupler, thermo-electric-cooler]
 methods: [thermal-lens-spectroscopy, pump-probe-spectroscopy, lock-in-detection, optical-absorption-spectroscopy, fiber-optic-sensing]
 materials: [silica-optical-fiber, water-vapor]
-figures: [experimental-setups]
+figures: [electronic-devices-sensors, experimental-setups]
 领域基础知识:: >-
   光纤传感技术利用光纤作为传光或传感元件，具有抗电磁干扰、体积小、可远程监测等优点。湿度传感器用于测量空气中水汽含量，绝对湿度指单位体积空气的水汽质量，相对湿度是当前绝对湿度与同温下饱和绝对湿度的百分比。热透镜效应是一种光热效应，指介质吸收高斯分布激光束能量后，因温度梯度导致折射率梯度分布，从而形成类似透镜的效应，使通过的探测光束发散或汇聚。
 研究背景:: >-
@@ -98,15 +98,15 @@ Atsushi Yarai, Takuji Nakanishi，2005，IEICE Electronics Express，Vol.2 No.14
   - `super-luminescence-diode`（实体，SLD）：850 nm 宽谱低相干探测光源。
   - `thermo-electric-cooler`（实体，TEC/帕尔帖元件）：用于局部改变传感头温度以独立调控绝对湿度。
 ## 📊 关键图表
-  - ![传感头与测量系统示意图，SLF对、泵浦/探测光路、滤光片与锁相检测](../../raw/figures/Yarai2005optical/fig_1_JN75GA67.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![传感头与测量系统示意图，SLF对、泵浦/探测光路、滤光片与锁相检测](../../raw/figures/Yarai2005optical/fig_1_JN75GA67.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：图1包含(a)(b)两个子图与右侧系统框图，展示由两根端面相对的球透镜光纤（SLF，球面半径 R=10 μm）构成的传感头，以及泵浦激光、探测光、光纤耦合器、干涉滤光片、Si 光电二极管和锁相放大器组成的完整测量链路；(a)为泵浦关断时探测光在两光纤间正常耦合的光路，(b)为泵浦开启后水汽吸收形成热透镜、探测光发散偏离光纤 B 的光路。
   - **关键特征**：两根 SLF 端面间距 <50 μm（实测约 30 μm），预先调整到约 2 倍焦距 f₀ 后固定，中间填充待测空气；标注了干空气折射率 n₁、热透镜引起的折射率变化 Δn（Δn<0，等效凹透镜）、焦距 f₀ 和纤芯直径 d_c；泵浦源为 1.48 μm 多模激光二极管（光纤输出 100 mW，位于水近红外吸收第二峰），探测源为 850 nm SLD（FWHM 40 nm、0.1 mW），PD 前用 852 nm/FWHM 30 nm 干涉滤光片阻挡泵浦光；泵浦光以 f_m=10 Hz 调制，局域温升不超过 10⁻² K，对空气实际无加热。
   - **结论/意义**：该图是全文的机理基石，直观给出"水分子吸收泵浦光 → 局域温升 → 折射率梯度（热透镜）→ SLF 间光耦合效率下降 → 探测光功率被锁相放大器检出"的信号链，并解释了为何无需对光纤包层做化学处理即可获得湿度信号。
-  - ![检测信号幅度随相对湿度变化（14/18/22°C 三条拟合线），fm=10 Hz、泵浦100 mW、R=10 μm](../../raw/figures/Yarai2005optical/fig_2_HW3467S2.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![检测信号幅度随相对湿度变化（14/18/22°C 三条拟合线），fm=10 Hz、泵浦100 mW、R=10 μm](../../raw/figures/Yarai2005optical/fig_2_HW3467S2.png) -> [[../figures/electronic-devices-sensors|传感器与探测器]]
   - **图示描述**：图2横轴为大气相对湿度 RH（%），纵轴为锁相放大器输出的检测信号幅度（μV/a.u.），在 14、18、22 °C 三个温度下各给出一组数据点及线性拟合线，实验条件为泵浦调制频率 f_m=10 Hz、泵浦功率 100 mW、SLF 球面半径 R=10 μm、端面间距约 30 μm。
   - **关键特征**：三条拟合线均显示信号幅度随 RH 线性增加，证明该 TL 传感器可作为湿度计（hygrometer）使用；温度越高拟合线斜率越大、截距也相应抬升，即在相同 RH 下高温对应更强信号；该斜率差异被归因于温度升高使饱和水汽量增大、相同 RH 对应的绝对水汽密度升高，从而热透镜效应增强。
   - **结论/意义**：图2验证了器件的基本湿度计功能，并通过斜率的温度依赖性提示传感器实际响应的是绝对湿度而非相对湿度，直接引出图3的验证实验与"必须温度补偿"的结论。
-  - ![归一化检测信号与估算绝对湿度随空气温度变化（RH=15%与45%两组），D.A.为干空气](../../raw/figures/Yarai2005optical/fig_3_CQNZVRBT.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![归一化检测信号与估算绝对湿度随空气温度变化（RH=15%与45%两组），D.A.为干空气](../../raw/figures/Yarai2005optical/fig_3_CQNZVRBT.png) -> [[../figures/electronic-devices-sensors|传感器与探测器]]
   - **图示描述**：图3横轴为传感器周围空气温度（°C），纵轴同时表示 1013 hPa、18 °C 基准下估算的绝对湿度（g/m³，以两条实线表示）和归一化检测信号（无量纲，以散点表示）；实验在两个腔室中分别将 18 °C 时的 RH 锁定为 15% 和 45%，用带帕尔帖元件的 TEC 局部改变传感头温度，D.A.（Dry Air）为干空气基线。
   - **关键特征**：在 RH=15% 与 RH=45% 两组条件下，归一化信号散点随温度的变化趋势均与对应绝对湿度理论曲线高度吻合，证明传感器直接测量的是水汽数密度即绝对湿度；散点相对理论线存在一定偏差，作者归因于气流扰动造成传感器周围水汽分布不均，尽管传感头通过小耦合孔与大容积腔室连通以抑制边界湿度扰动；f_m 仍为 10 Hz。
   - **结论/意义**：图3以"固定 RH、改变温度"的实验设计将绝对湿度变量独立出来，为图2中斜率随温度升高的现象给出物理判定——传感器本质上是绝对湿度传感器，因此要获得精确相对湿度必须结合温度测量进行温度补偿。

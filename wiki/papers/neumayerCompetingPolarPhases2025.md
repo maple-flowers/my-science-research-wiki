@@ -11,12 +11,12 @@ paper_type: review
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/neumayerCompetingPolarPhases2025]]
-projects: [project-2, project-5]
+projects: [project-2]
 concepts: [2D-materials, density-functional-theory, ferroelectric-tunnel-junction, multiferroicity, polarization-switching, sliding-ferroelectricity, strain-engineering]
 entities: [In2Se3, TMDs, VASP, WTe2, domain-wall]
 methods: [afm-pfm, dft, mlip, raman, tem, xrd]
 materials: [In2Se3, TMDs, WTe2, domain-wall]
-figures: [crystal-structures, domain-walls, electronic-devices, experimental-setups, mathematical-models, vibrational-spectra]
+figures: [crystal-structures-surfaces-defects, domain-walls-switching-properties, heterostructures-stacking]
 领域基础知识:: >-
   极性材料、铁电体、压电效应、热电效应、二维（2D）材料、范德华（vdW）材料、反铁电体、顺电体、弛豫体、偶极玻璃。
 研究背景:: >-
@@ -43,8 +43,6 @@ tags:
   - year/2025
   - project/project-2
   - relevance/project-2/medium
-  - project/project-5
-  - relevance/project-5/medium
   - concept/2D-materials
   - concept/density-functional-theory
   - concept/ferroelectric-tunnel-junction
@@ -71,15 +69,11 @@ tags:
   - topic/charge-density-wave
   - topic/domain-walls
   - topic/ferroelectricity
-  - topic/ferromagnetism
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/phase-transition
   - topic/polarization
   - topic/strain-engineering
   - topic/topological-defects
-  - topic/two-photon-fluorescence
 ---
 
 ## neumayerCompetingPolarPhases2025 — 二维铁电过渡金属硫代和硒酸盐中的竞争极性相
@@ -106,9 +100,7 @@ Sabine Neumayer, Huimin Qiao, Nina Balke et al.，2025，Applied Physics Letters
   - 图表 [[../figures/crystal-structures]]（in-layer/in-gap FE及AFE结构图）
   - 图表 [[../figures/domain-walls]]（FE/AFE畴壁与PFM畴图）
   - 图表 [[../figures/vibrational-spectra]]（Raman光谱用于AFE相鉴定和压力依赖研究）
-  - 图表 [[../figures/experimental-setups]]（PFM、STEM、P-E回线测量）
   - 图表 [[../figures/mathematical-models]]（Landau-Devonshire压力-温度相图）
-  - 图表 [[../figures/electronic-devices]]（FeFET、隧道结、神经形态器件应用）
   - 图表 [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用 (Domains, Domain Walls, In₂Se₃ & Devices)]]
   - 年度 [[../write/2025]]
   - 相关论文 [[../../raw/note/neumayerCompetingPolarPhases2025]]
@@ -128,7 +120,7 @@ Sabine Neumayer, Huimin Qiao, Nina Balke et al.，2025，Applied Physics Letters
 
 ## 📊 关键图表
   - **图1：四种极性有序度示意（顺电/弛豫体·偶极玻璃/反铁电/铁电）**
-  - ![图1 顺电/弛豫体/反铁电/铁电四种极性有序度示意](../../raw/figures/neumayerCompetingPolarPhases2025/fig_1_4FMFYJBN.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图1 顺电/弛豫体/反铁电/铁电四种极性有序度示意](../../raw/figures/neumayerCompetingPolarPhases2025/fig_1_4FMFYJBN.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
   - **图示描述**：概念示意图，按偶极子排列的有序程度依次展示顺电体（PE，偶极子随机分布、净极化为零）、弛豫体/偶极玻璃（局部纳米极性区、无长程序）、反铁电体（AFE，相邻偶极子反平行、净极化为零，电场下可转为极性态）和铁电体（FE，偶极子同向集体排列、具有可翻转自发极化）四类材料。
   - **关键特征**：无坐标轴与物理单位，横轴可理解为"极性有序度"由弱到强；AFE 与 FE 均具长程序但净极化方向相反；弛豫体介于 PE 与 AFE/FE 之间，只有短程极性纳米区；强调 AFE、弛豫体在电场下可被诱导出极性响应，为后续多相转换提供分类基础。
   - **结论/意义**：为全文"竞争极性相"建立统一的极性序语言，明确 FE、AFE、PE、弛豫体之间并非互不相干，而是可通过外场相互转化的同一谱系。
@@ -140,13 +132,13 @@ Sabine Neumayer, Huimin Qiao, Nina Balke et al.，2025，Applied Physics Letters
   - **结论/意义**：从原子结构与第一性原理能量层面证明两种极化大小、压电符号迥异的 FE 相近乎简并，为温度/应变/电场诱导 LP↔HP 转换及四态（±LP, ±HP）存储提供热力学基础。
 
   - **图3：CIPS 中三种 AFE 相（层间 / 层内 I / 层内 II）结构及其相对 FE 相的能量**
-  - ![图3 CIPS三种AFE相（层间/层内I/层内II）结构及相对FE相能量（最大差30.5 meV/f.u.）](../../raw/figures/neumayerCompetingPolarPhases2025/fig_3_IGPCQM6L.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - ![图3 CIPS三种AFE相（层间/层内I/层内II）结构及相对FE相能量（最大差30.5 meV/f.u.）](../../raw/figures/neumayerCompetingPolarPhases2025/fig_3_IGPCQM6L.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：(a)–(c) 为三种 AFE 有序结构示意图：(a) interlayer AFE 为相邻层间偶极反平行，(b)(c) intralayer AFE I/II 为同一层内偶极反平行的不同构型；(d) 为三种 AFE 相相对于 FE 相的能量差柱状图，纵轴单位 meV/f.u.。
   - **关键特征**：interlayer AFE 能量最低；三种 AFE 相与 FE 相的最大能量差仅 30.5 meV/f.u.；所有 AFE 构型净极化为零但 Cu 位置不同；CIPSe 中则是层内 AFE 最稳定（与 CIPS 形成对比），CCPS 还预测出 Cu 移入 vdW 间隙的 AFE 相。
   - **结论/意义**：把"竞争极性相"从两种 FE 相扩展到 FE–AFE 之间，证实 AFE 同样是可被外场激发的近简并亚稳态，奠定 FE↔AFE 可逆转换与多态调控的理论依据。
 
   - **图4：CIPS 中不同 FE 相之间的三种转换机制——温度、电场、离子电导耦合**
-  - ![图4 CIPS不同FE相间转换机制：温度依赖、电场诱导复杂翻转、Cu离子电导激活的宏观P-E回线变化](../../raw/figures/neumayerCompetingPolarPhases2025/fig_4_5SCTR6B5.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![图4 CIPS不同FE相间转换机制：温度依赖、电场诱导复杂翻转、Cu离子电导激活的宏观P-E回线变化](../../raw/figures/neumayerCompetingPolarPhases2025/fig_4_5SCTR6B5.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
   - **图示描述**：三联图。(a) 升温序列的 PFM 压电响应图（上）与示意相图（下），温度轴 °C；(b) 不同位置测得的 PFM 压电滞回线，横轴偏压 V、纵轴压电响应 pm/V；(c) 直流脉冲前后宏观 P–E 滞回线，横轴电压/电场、纵轴极化 μC/cm²。
   - **关键特征**：(a) 加热时约 60 °C 的 LP 畴先消失、65 °C 仅剩 HP 畴、70 °C（居里温度）以上转为零压电响应的 PE 相；(b) 同一样品不同位置可出现 +HP↔−LP、+LP↔−HP、+HP↔−HP、+LP↔−LP 等多种翻转路径，远超二进制；(c) 负 DC 脉冲（>200 ms）激活 Cu⁺ 离子电流后，矫顽电压偏移、可切换极化增大，甚至出现极化逆外电场排列；更长/更强脉冲可使 FE 切换消失（Cu 亚晶格无序成 PE 态或回线移出窗口），施加正 DC 电压后可完全恢复。
   - **结论/意义**：把温度、电场、Cu 离子迁移三条调控路径统一在一张图中，实验证明 CIPS 可实现四态翻转和离子–极性耦合的非常规切换，是超越二进制存储与神经形态器件的核心实验证据。
@@ -158,7 +150,7 @@ Sabine Neumayer, Huimin Qiao, Nina Balke et al.，2025，Applied Physics Letters
   - 注：图5（CIPS/CIPSe中FE-AFE转换PFM图）笔记未附图片文件，raw/figures 目录中确无 fig_5，故仅以文字描述补充。
 
   - **图6：CIPS 薄片 FIB 截面的 HAADF-STEM 像与 GPA 应变分量 e_yy 图**
-  - ![图6 CIPS薄片FIB截面HAADF STEM图像及GPA应变分量eyy图，显示层错缺陷与非均匀应变](../../raw/figures/neumayerCompetingPolarPhases2025/fig_6_RANL6GIG.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - ![图6 CIPS薄片FIB截面HAADF STEM图像及GPA应变分量eyy图，显示层错缺陷与非均匀应变](../../raw/figures/neumayerCompetingPolarPhases2025/fig_6_RANL6GIG.png) → [[../figures/crystal-structures-surfaces-defects|表面、缺陷与形貌]]
   - **图示描述**：(a) 为聚焦离子束（FIB）制备的 CIPS 薄片截面高角环形暗场（HAADF）STEM 像，利用 ⟨002⟩ 反射形成 Bragg 像以增强层状衬度；(b) 为同一区域经几何相分析（GPA）得到的面内应变分量 e_yy 分布图，应变本身无量纲（以分数/百分比表示）。
   - **关键特征**：(a) 中可直接观察到层堆叠中的层错、位错、扭结等缺陷；(b) 中缺陷周围呈现明显的非均匀应变场（局部压/拉应变交替）；图像为原子分辨率，但原文未给出具体应变量化数值范围。
   - **结论/意义**：在真实材料中直接看到缺陷诱导的局域应变，为"为什么 HP/in-gap FE、AFE 等稀有相只在局域微区稳定"提供了结构线索——局部应变很可能是稳定这些近简并亚稳相的关键旋钮，也指明缺陷工程是未来重要方向。
@@ -170,7 +162,6 @@ Sabine Neumayer, Huimin Qiao, Nina Balke et al.，2025，Applied Physics Letters
 
 ## 🔗 项目双链
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 
 ## 📝 组织与用词
 文章采用典型Perspective"总-分-总"结构：（1）引言从传统铁电微型化困境→2D vdW FE→TMTPs独特性→提出"能量接近的竞争极性相"核心概念；（2）近期发展分两小节——A. CIPS中不同FE相（LP/HP）之间经温度/电场/离子电导的转换，B. CIPS与CIPSe中FE-AFE可逆转换及畴壁电子学；（3）展望围绕直接结构验证、缺陷工程、化学空间和异质结构展开。论证以DFT能量数据（meV/f.u.）为热力学基础、以PFM局域观测为实验证据、以宏观P-E回线为功能验证，形成"理论预测—局域证实—宏观调控"的证据链。值得复用的关键词：

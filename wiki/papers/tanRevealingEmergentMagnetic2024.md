@@ -11,12 +11,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/tanRevealingEmergentMagnetic2024]]
-projects: [project-2]
+projects: []
 concepts: [topological-defects]
 entities: [domain-wall]
 methods: [afm-pfm, squid]
 materials: [domain-wall]
-figures: [experimental-setups, domain-walls, heterostructures-stacking-multiferroic, mathematical-models]
+figures: [crystal-structures-xrd-phases, domain-walls-structures, electronic-bands-cdw-transport]
 领域基础知识:: >-
   本工作属于**凝聚态物理**与**自旋电子学**领域，核心涉及反铁磁体中的拓扑自旋织构及其产生的涌现电磁现象。关键概念包括：**反铁磁体 (AFM)**、**拓扑自旋织构**（如**梅隆 (meron)**、**反梅隆 (antimeron)**、**斯格明子 (skyrmion)**）、**涌现磁荷 (emergent magnetic charge)**、**钻石量子磁测量 (DQM)** 以及**斜方反铁磁性**。
 研究背景:: >-
@@ -41,8 +41,6 @@ tags:
   - paper
   - type/experiment
   - year/2024
-  - project/project-2
-  - relevance/project-2/core
   - concept/topological-defects
   - entity/domain-wall
   - method/afm-pfm
@@ -77,22 +75,22 @@ Anthony K. C. Tan, Hariom Jani, Michael Högen 等（共13位作者，通讯：T
 
 ## 📊 关键图表
   - **图1 α-Fe₂O₃ 的 DQM 实验装置、ODMR 谱及 4 K/300 K 下重构的 Bz 磁场图**
-  - ![图1 α-Fe₂O₃ 的 DQM 实验装置、ODMR 谱及 4 K/300 K 下重构的 Bz 磁场图，呈现莫林相变两侧磁相对比](../../raw/figures/tanRevealingEmergentMagnetic2024/fig_532_PAC4JMMV.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图1 α-Fe₂O₃ 的 DQM 实验装置、ODMR 谱及 4 K/300 K 下重构的 Bz 磁场图，呈现莫林相变两侧磁相对比](../../raw/figures/tanRevealingEmergentMagnetic2024/fig_532_PAC4JMMV.png) -> [[../figures/crystal-structures-xrd-phases|XRD与相变]]
     - **图示描述**：自上而下展示材料结构（a–d：α-Fe₂O₃ 原子排布、M₁/M₂ 反铁磁亚晶格、Néel 矢量 l⃗ = M₁−M₂ 与 DMI 诱导的净磁化 m⃗ = M₁+M₂，倾斜角 Δ ≈ 1.1 mrad）、DQM 装置与 NV 色心 ODMR 读出原理（e–f），以及 T = 4 K 与 300 K（分别低于/高于莫林相变 T_M ≈ 200 K）下的 ODMR 谱（g–h）和重构 Bz 磁场图（i–j，比例尺 1 μm）。
     - **关键特征**：4 K（T < T_M）下磁矩面外排列、m⃗ ≈ 0，Bz 图仅见窄而锐利、零背景的畴壁信号；300 K（T > T_M）下磁矩面内倾斜、平均 mΔ ≈ 2×10³ A m⁻¹，Bz 图呈现更宽、非零背景的拓扑织构特征；ODMR 共振峰 f+ 的频移直接给出 NV 处投影磁场 B_NV，偏置场约 0.5 mT，D ≈ 2.87 GHz、γ̃ ≈ 28 MHz mT⁻¹。
     - **结论/意义**：以莫林相变两侧的磁相对比验证了"面内倾斜磁化才产生可测杂散场"这一前提，确立 DQM 作为后续拓扑织构成像的实验平台。
   - **图2 通过 DQM 对拓扑反铁磁织构分类**
-  - ![图2 通过 DQM 对拓扑反铁磁织构分类：a-Bloch 反相畴壁、顺/逆时针 a-Bloch 半子、反半子、双半子的计算/实测 Bz 及重构 m_xy](../../raw/figures/tanRevealingEmergentMagnetic2024/fig_2_F3UEVWZT.png) -> [[../figures/domain-walls|畴与畴壁结构]]
+  - ![图2 通过 DQM 对拓扑反铁磁织构分类：a-Bloch 反相畴壁、顺/逆时针 a-Bloch 半子、反半子、双半子的计算/实测 Bz 及重构 m_xy](../../raw/figures/tanRevealingEmergentMagnetic2024/fig_2_F3UEVWZT.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
     - **图示描述**：按五行三列排布（比例尺 200 nm，Bz 色标 ±0.35 mT），每行依次给出理论模型计算 Bz、实验实测 Bz、正则化重构的面内磁化 m_xy（箭头）；对象分别为 a-Bloch 反相畴壁（a–c）、逆时针 a-Bloch 半子（d–f）、顺时针 a-Bloch 半子（g–i）、反半子（j–l，绕数 N = −1）和双半子（m–o）。
     - **关键特征**：ADW 的 Bz 呈正弦状、中心过零，振幅由 sin(ξ_a) 调制，a-Néel 相（ξ_a = 0, π）因 ∇·m = 0 而无信号；a-Bloch 半子（N = +1）的 Bz 径向对称，顺/逆时针极性相反，重构 m_xy 显示反向涡旋；反半子 Bz 呈二重对称；双半子为半子–反半子束缚对的叠加信号。
     - **结论/意义**：通过"模型—实测—重构"三联对照首次在实验上区分 a-Bloch 半子的手性（这是 X 射线二色性做不到的），并系统分类了 α-Fe₂O₃ 中拓扑织构的磁场指纹。
   - **图3 涌现磁荷的三维场线与面密度分布**
-  - ![图3 反（正）磁场线三维可视化与向下延拓得到的 σm：单极、反单极、偶极、四极磁荷分布](../../raw/figures/tanRevealingEmergentMagnetic2024/fig_200_PVG5Y5B7.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图3 反（正）磁场线三维可视化与向下延拓得到的 σm：单极、反单极、偶极、四极磁荷分布](../../raw/figures/tanRevealingEmergentMagnetic2024/fig_200_PVG5Y5B7.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
     - **图示描述**：上排（a–d）为样品表面向上延拓的三维磁场线（流管粗细/颜色分别编码 |B| 与 Bz），下排（e–h）为对 Bz 做传递函数反卷积并向下延拓得到的面磁荷密度 σ_m = −t(∇·m_xy) 图，比例尺 200 nm；四列依次对应逆时针 a-Bloch 半子、顺时针 a-Bloch 半子、ADW、反半子。
     - **关键特征**：逆时针半子的场线向外发散、σ_m 为正源（单极子）；顺时针半子场线向内汇聚、σ_m 为负汇（反单极子）；ADW 呈现正负相邻的 σ_m（偶极子）；反半子呈四瓣正负交替（四极子）；该重构仅依赖薄膜近似下 Bz ∝ ∇·m_xy 的对偶关系 σ_m/t = −∇·m_xy = Δ(ẑ·V⃗)，不依赖半子模型假设。
     - **结论/意义**：把抽象的磁化散度可视化为单极/偶极/四极三类磁荷分布，直接建立"交错涡度手性 ↔ 涌现磁荷极性"的对偶图像，是全文核心概念图。
   - **图4 二维积分磁荷 |Q_m| 随积分半径 r 的标度**
-  - ![图4 二维积分磁荷 |Qm| 随积分半径 r 的标度：半子线性增长、反半子近零并因织构间相互作用而偏离](../../raw/figures/tanRevealingEmergentMagnetic2024/fig_4_TQTWANCS.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图4 二维积分磁荷 |Qm| 随积分半径 r 的标度：半子线性增长、反半子近零并因织构间相互作用而偏离](../../raw/figures/tanRevealingEmergentMagnetic2024/fig_4_TQTWANCS.png) -> [[../figures/crystal-structures-xrd-phases|XRD与相变]]
     - **图示描述**：（a–b）两个实验反半子的 σ_m 图，点线圆圈标出以织构中心为圆心、半径 r 的积分区域 S；（c）为 |Q_m(r)| = |∫_S σ_m dS| 曲线：浅蓝/浅红虚线为单个半子/反半子数据，深蓝/深红虚线为平均，黑色实线为线性半子模型预测，横轴 r 单位 nm，纵轴 |Q_m| 单位 10⁻¹⁰ A·m。
     - **关键特征**：半子的 |Q_m| 随 r 线性增长，符合孤立单极子理论（r > R_M 时 Q_m = 2π mΔ sin(ξ_a) r t）；理想孤立反半子因二重旋转对称 Q_m ≡ 0，但实测在长程因邻近织构扰动而偏离零值；该偏离说明 Q_m 不是拓扑不变量，a-Bloch→a-Néel 的平滑过渡即可令 Q_m → 0。
     - **结论/意义**：定量证明 α-Fe₂O₃ 中的磁荷是二维、非量子化、披覆在拓扑织构上的等效分布，并揭示多织构通过"磁荷画布"相互作用，区别于自旋冰中三维量子化的磁单极子。
@@ -101,7 +99,6 @@ Anthony K. C. Tan, Hariom Jani, Michael Högen 等（共13位作者，通讯：T
 无直接项目连接。本文属反铁磁拓扑自旋织构与量子磁成像方向，与 project-2（Mn 多铁）在反铁磁氧化物主题上有外围相邻关系，但材料体系（α-Fe₂O₃ 而非 Mn 基多铁）与核心物理（涌现磁荷而非磁电耦合）均不重合。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
 论文按"问题→方法→对偶理论→实验分类→磁荷成像→定量标度→展望"递进：先指出同步辐射 X 射线二色性虽能看到反铁磁织构却无法读取涡度符号，再引入 DQM 对 canted AFM 的弱杂散场成像；核心理论桥梁是薄膜近似下 Bz ∝ ∇·m_xy，并由 m⃗ = Δ(ẑ×l⃗) 推出 ∇·m_xy = Δ[ẑ·(∇×l⃗)]，从而把可测磁场、磁化散度、交错涡度、磁荷四者等同起来；随后在 TM 上下识别 ADW、a-Bloch 半子、反半子、双半子，并将其分别对应偶极、单极、四极磁荷；最后用 Qm–r 标度说明磁荷非拓扑不变量且受多织构相互作用调制。值得在 wiki 叙述中复用的术语：
@@ -115,7 +112,7 @@ Anthony K. C. Tan, Hariom Jani, Michael Högen 等（共13位作者，通讯：T
   - 半子–反半子–双半子 / Meron–antimeron–bimeron
 
 ## ✏️ 可写入 Wiki 的要点
-  1. α-Fe₂O₃（[[../entitys/alpha-Fe2O3|赤铁矿]]）是反铁磁氧化物绝缘体，沿 c 轴堆叠反平行铁磁亚晶格 M₁、M₂；Néel 矢量 l⃗ = M₁−M₂，净磁化 m⃗ = M₁+M₂。TM≈200 K 发生[[../concepts/morin-transition|莫林相变]]：TM 以下磁矩主要面外、m⃗≈0；TM 以上面内排列，块体 DMI（沿 c 轴）造成 Δ≈1.1 mrad 的面内倾斜，平均 mΔ≈2×10³ A m⁻¹，且 m⃗· l⃗ = 0。
+  1. α-Fe₂O₃（[[../entities/alpha-Fe2O3|赤铁矿]]）是反铁磁氧化物绝缘体，沿 c 轴堆叠反平行铁磁亚晶格 M₁、M₂；Néel 矢量 l⃗ = M₁−M₂，净磁化 m⃗ = M₁+M₂。TM≈200 K 发生[[../concepts/morin-transition|莫林相变]]：TM 以下磁矩主要面外、m⃗≈0；TM 以上面内排列，块体 DMI（沿 c 轴）造成 Δ≈1.1 mrad 的面内倾斜，平均 mΔ≈2×10³ A m⁻¹，且 m⃗· l⃗ = 0。
   2. DQM 以金刚石探针中单个 [[../concepts/nv-center|NV 色心]]为点传感器，在样品上方恒定高度扫描；基态 |0⟩ 与 |±1⟩ 的塞曼分裂经 ODMR 读出，弱场近似下 ΔE₊ = hγ̃ BNV，其中 D≈2.87 GHz、γ̃≈28 MHz mT⁻¹、偏置场 Bbias≈0.5 mT；通过傅里叶重构由 BNV 得到实验室坐标 (Bx, By, Bz)，空间分辨率由 NV–样品距离 dNV 决定。
   3. 薄膜近似下测量场满足 Bz = αxy(t,d) ∗ ∇·m⃗_xy + αz(t,d) ∗ ∇²mz（式1）；αi 为有效点扩散函数（~d 尺度的模糊核）。α-Fe₂O₃ 中因 DMI 对称 mz=0、m_xy≠0，故 Bz 就是倾斜磁化散度与 αxy 的卷积。
   4. 对沿 ẑ 的 DMI，净磁化 m⃗ = Δ(ẑ×l⃗)，由此导出 ∇·m⃗_xy = Δ[ẑ·(∇×l⃗)]。因此 Bz 图像直接给出[[../concepts/staggered-vorticity|交错涡度]] V⃗ = ∇×l⃗ 的投影——这是 X 射线二色性（对交错磁化符号不敏感）无法获得的量，也是 DQM 区分顺时针/逆时针 a-Bloch 半子的根本原因。

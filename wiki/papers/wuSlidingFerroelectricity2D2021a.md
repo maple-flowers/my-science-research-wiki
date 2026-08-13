@@ -11,12 +11,12 @@ paper_type: review
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/wuSlidingFerroelectricity2D2021a]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-2, project-5]
 concepts: [2D-materials, berry-phase, density-functional-theory, ferroelasticity, magnetoelectric-coupling, moire-superlattice, multiferroicity, polarization-switching, sliding-ferroelectricity, spin-orbit-coupling, super-paraelectricity]
 entities: [BiFeO3, In2Se3, MXenes, SnTe, TMDs, VASP, WTe2, Wannier90, h-BN]
 methods: [afm-pfm, berry-phase, dft, md]
 materials: [BiFeO3, In2Se3, MXenes, SnTe, TMDs, WTe2, h-BN]
-figures: [crystal-structures, domain-walls, electronic-bands, experimental-setups, heterostructures-stacking]
+figures: [domain-walls-structures, domain-walls-switching-properties, electronic-bands-cdw-transport, electronic-bands-dos-fermi, heterostructures-stacking]
 领域基础知识:: >-
   铁电性是指材料具有自发极化且极化方向可被外电场翻转的特性。二维范德华材料是层内由强共价键、层间由弱范德华力结合的材料，为研究新型物理和器件提供了原子级厚度的理想平台。
 研究背景:: >-
@@ -41,20 +41,10 @@ tags:
   - paper
   - type/review
   - year/2021
-  - project/project-1
-  - relevance/project-1/medium
   - project/project-2
   - relevance/project-2/strong
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/medium
   - project/project-5
   - relevance/project-5/strong
-  - project/project-6
-  - relevance/project-6/medium
-  - project/project-7
-  - relevance/project-7/medium
   - concept/2D-materials
   - concept/berry-phase
   - concept/density-functional-theory
@@ -91,15 +81,12 @@ tags:
   - topic/domain-walls
   - topic/ferroelectricity
   - topic/ferromagnetism
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/mxene
   - topic/polarization
   - topic/strain-engineering
   - topic/superconductivity
   - topic/topological-defects
-  - topic/two-photon-fluorescence
 ---
 
 ## wuSlidingFerroelectricity2D2021a — 二维范德华材料中的滑动铁电性：相关物理与未来机遇
@@ -130,12 +117,10 @@ Menghao Wu（吴梦昊，华中科技大学）& Ju Li（李巨，MIT），2021�
   - 实体 [[../entities/In2Se3]]（早期已知的少数二维面外铁电体之一）
   - 实体 [[../entities/SnTe]]（参考文献 12，Chang et al. Science 2016，单层 SnTe 面内铁电，被引为二维铁电早期里程碑）
   - 实体 [[../entities/VASP]]、[[../entities/Wannier90]]（DFT/Berry 相极化计算工具背景）
-  - 图表 [[../figures/crystal-structures]]（AB/BA/AA'/ABC/3R 堆垛、ripplocation 原子结构）
   - 图表 [[../figures/heterostructures-stacking]]（扭转双层、Moiré 超晶格、双栅 vdW 异质结器件）
   - 图表 [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]（AB↔BA 滑移路径、ripplocation 翻转、集体/孤立势垒模型）
   - 图表 [[../figures/domain-walls]]（ripplocation 畴壁、20–50 nm 铁电畴）
   - 图表 [[../figures/electronic-bands]]（Moiré 电势诱导 II 型能带对齐、层间激子捕获）
-  - 图表 [[../figures/experimental-setups]]（PFM、KPFM、EFM、双栅石墨烯探测器）
   - 年度 [[../write/2021]]（本文发表年，亦为 Yasuda/Vizner Stern 两篇 Science 实验年）
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
@@ -151,42 +136,42 @@ Menghao Wu（吴梦昊，华中科技大学）& Ju Li（李巨，MIT），2021�
   - 实体 `AlN`（石墨型双层，10.29 pC/m，迄今已知二维铁电最高垂直极化）、`InSe`（β-InSe 室温 PFM 蝴蝶曲线）、`GaSe`、`CrI3`（R/H 型堆垛依赖层间磁性）、`ZrI2`（负压电、层间滑动铁电）、`GaN`/`SiC`/`ZnO`（蜂窝晶格二元化合物高极化双层）。
 
 ## 📊 关键图表
-  - ![图1 滑动铁电机理：BN双层AB→BA滑移路径、扭转BN莫尔铁电畴、3R体相、WTe2普适判据](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_1_37UWP3F7.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图1 滑动铁电机理：BN双层AB→BA滑移路径、扭转BN莫尔铁电畴、3R体相、WTe2普适判据](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_1_37UWP3F7.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：四个子图共同阐述滑动铁电性的机制与普适判据。(A) AB 堆垛 BN 双层的原子结构，黑色箭头标出 B→N 的层间电荷转移，红色箭头指出沿三个等价方向滑移一个 B–N 键长即可实现 AB↔BA 翻转；(B) 小角度扭转 BN 双层形成的莫尔超晶格，红/黄/绿圈分别为 AA（无极化）、AB（极化向下）、BA（极化向上）畴；(C) 3R 相 MoS₂、InSe 等 ABC 堆垛体相；(D) WTe₂ 双层为例说明普适判据。
   - **关键特征**：BN 双层垂直极化为 2.08 pC/m（折合 0.68 μC/cm²）；单胞翻转面能垒约 9 meV/unit cell；蜂窝晶格体系有三个等效翻转态，WTe₂ 等为双稳态；判据要求体系非中心对称，且对中心水平面做 M_z 镜像所得的极化反转态能由层间面内平移 t_∥ 实现。
   - **结论/意义**：这张图确立了"面内滑移翻转面外极化"的物理图像，把二维铁电候选从极少数扩展到大多数已知二维材料。
 
-  - ![图2 不同堆垛下的极性/非极性相：ABC vs AB 体相BN差分电荷、MoS2/SnS2/WTe2/CrI3 多型体](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_2_UQ8NW6V3.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图2 不同堆垛下的极性/非极性相：ABC vs AB 体相BN差分电荷、MoS2/SnS2/WTe2/CrI3 多型体](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_2_UQ8NW6V3.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：对比同一化学成分在不同堆垛序下的极性差异。(A) 体相 BN 的 ABC 与 AB 堆垛层间差分电荷密度，蓝色/黄色等值面分别表示电子耗尽与积聚；(B)–(E) 分别展示 MoS₂ 多型体、三角/六角相 SnS₂、正交/单斜相 WTe₂、R 型/H 型 CrI₃/CrBr₃ 的原子结构。
   - **关键特征**：AB 堆垛的体相 BN/MoS₂/InSe 虽层间不等价，但保持垂直镜面对称而无净极化；只有 ABC（3R）堆垛因层间电荷分布不对称才产生垂直极化，3R-BN 体极化高达 7.6 μC/cm²；这些近简并相能量差很小，仅部分极性相可通过横向平移相互转换（如单斜↔正交 WTe₂），而三角→六角 SnS₂、R→H CrI₃ 无法由纯平移达成。
   - **结论/意义**：强调"堆垛序工程"是实现滑动铁电性的合成关键——并非所有堆垛都有极性，电场可驱动 AB 体相转变为极性 3R 相。
 
-  - ![图3 WTe2与BN薄层铁电性实验探测：PFM畴、双栅石墨烯器件滞回、KPFM表面电势畴](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_3_MVR597PP.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图3 WTe2与BN薄层铁电性实验探测：PFM畴、双栅石墨烯器件滞回、KPFM表面电势畴](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_3_MVR597PP.png) → [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
   - **图示描述**：三组里程碑实验的器件结构与表征结果。(A) 约 15 nm 厚 WTe₂ 薄片的 PFM 振幅/相位成像及偏压驱动的压电响应回线；(B) 双栅 vdW 异质结（Au/Cr 顶栅/hBN/石墨烯/0°平行双层 BN/hBN/PdAu 底栅）中石墨烯电阻 R_xx 对顶栅和底栅电压的响应；(C) 两片 3 nm 厚、微扭转 h-BN 的开尔文探针力显微镜表面电势图。
   - **关键特征**：WTe₂ 中可见 20–50 nm 扭曲圆形反平行铁电畴，畴壁在振幅图中呈暗线；石墨烯探测器 20 K 测得 WTe₂ 极化约 0.16 pC/m（DFT 约 0.38 pC/m），居里温度约 350 K，单层无双稳态；BN 双层的底栅扫描显示电阻滞回与载流子密度 n_H 突跳，且几乎不依赖温度、维持至室温；KPFM 观测到数 μm² 反向极化畴，带电探针扫描可移动畴壁。
   - **结论/意义**：构成从金属（WTe₂）到绝缘体（BN）的完整实验证据链，证实滑动铁电性可被电场翻转并在室温下保持。
 
-  - ![图4 莫尔铁电性：扭转hBN的EFM三角电势超晶格、半导体双层II型能带对齐、层间激子能量随扭转角](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_4_CI58NPVT.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图4 莫尔铁电性：扭转hBN的EFM三角电势超晶格、半导体双层II型能带对齐、层间激子能量随扭转角](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_4_CI58NPVT.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：莫尔铁电性的实验观测与理论模型。(A) 扭转 h-BN 双层的静电力显微镜（EFM）图像，呈现规则三角超晶格电势分布；(B) 扭转半导体双层不同局域堆垛区域中上下层能带的相对位移，形成 II 型（type-II）能带对齐；(C) WX₂/MoX₂（X=S,Se）扭转双层中，不同堆叠域的层间激子能量随扭转角变化的理论曲线。
   - **关键特征**：EFM 三角图案直接对应 AB/BA/AA 局域堆垛的周期电势调制；II 型对齐使电子、空穴分别局限于不同层，莫尔铁电畴壁网络可捕获电子、空穴和层间激子，形成量子点阵列；MX₂/M'X'₂/MX₂ 三层还预测了双色莫尔电势与具有相反电偶极的两个独立三角超晶格。
   - **结论/意义**：说明滑动铁电性在扭转体系中演化为莫尔铁电性，可与莫尔平带、电子关联、非常规超导及激子物理耦合。
 
-  - ![图5 低翻转势垒与高热稳定性统一：WTe2集体vs孤立势垒、MoS2中ripplocation、光驱动BN堆垛转变](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_5_FQBZIJ7L.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图5 低翻转势垒与高热稳定性统一：WTe2集体vs孤立势垒、MoS2中ripplocation、光驱动BN堆垛转变](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_5_FQBZIJ7L.png) → [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
   - **图示描述**：解释滑动铁电如何同时做到低写入能耗与高热稳定性。(A) WTe₂ 双层中铁电翻转（低"集体"势垒）与铁电-反铁电转变（高"孤立"势垒）的能量路径对比；(B) MoS₂ 双层中作为畴壁的 ripplocation（兼具面内位错与面外屈曲波纹）原子结构；(C) BN 双层中由光机械飞秒脉冲驱动的 AA'→AB' 堆垛转变示意。
   - **关键特征**：BN 集体翻转势垒仅 4.5 meV/f.u.、WTe₂ 仅 0.15 meV/f.u.，远低于所有室温铁电体（BiFeO₃ 为 0.43 eV/f.u.，常规门槛 >27 meV/f.u.）；非易失条件为 Q(0)≫50 k_BT，可写条件为可读场（<10 MV/cm）下 Q<5 k_BT（对应 ns–ps 翻转）；vdW 层中 Frank 定律（核心能 ∝|b|²）因长程面内弹性能被屈曲波纹弛豫而失效，Peierls 势垒极低；光驱动路径可实现皮秒级写入并用非线性 Edelstein 效应读出。
   - **结论/意义**：这是文章最核心的动力学图像——"集体势垒 vs 孤立势垒"的分离打破了传统铁电/磁存储中的速度-稳定性权衡。
 
-  - ![图6 滑动铁电性机遇示意图：连接莫尔物理、多铁、自旋电子学、谷电子学、拓扑、超导、非线性霍尔、存储应用](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_6_J7QFEQ5R.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图6 滑动铁电性机遇示意图：连接莫尔物理、多铁、自旋电子学、谷电子学、拓扑、超导、非线性霍尔、存储应用](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_6_J7QFEQ5R.png) → [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - **图示描述**：以滑动铁电性为中心向外辐射的概览图，把它与莫尔物理、金属铁电性、多铁耦合、自旋-轨道电子学、谷电子学、非平庸能带拓扑、超导电性、铁电非线性反常霍尔效应、负压电性以及非易失存储器/低功耗器件等方向连接起来。
   - **关键特征**：图中分支涵盖：①反铁磁耦合铁磁双层（Cr₂NO₂/VS₂/MoN₂）可切换磁化 0.008/0.016/0.09 μB/f.u. 的"电写磁读"；②少层 WTe₂ 中极化翻转同步翻转 Berry 曲率偶极子，奇层非线性霍尔反向、偶层不变；③非磁性强 SOC 铁电双层（如 WSe₂）的动量锁定自旋纹理；④BN、ZrI₂ 双层的负压电性；⑤与莫尔平带、关联绝缘态、超导的潜在耦合。
   - **结论/意义**：这是论文的"研究蓝图"，把滑动铁电性定位为可电控调控磁性、自旋、谷、拓扑与关联态的通用旋钮。
 
-  - ![表1 AB堆叠vdW双层计算垂直极化（pC/m）：BN 2.08, ZnO 8.22, AlN 10.29, GaN 9.72, SiC 6.17, MoS2 0.97, InSe 0.24, GaSe 0.46](../../raw/figures/wuSlidingFerroelectricity2D2021a/tab_1_XD6YJ7L4.png) -> [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![表1 AB堆叠vdW双层计算垂直极化（pC/m）：BN 2.08, ZnO 8.22, AlN 10.29, GaN 9.72, SiC 6.17, MoS2 0.97, InSe 0.24, GaSe 0.46](../../raw/figures/wuSlidingFerroelectricity2D2021a/tab_1_XD6YJ7L4.png) -> [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：第一性原理计算得到的 AB 堆垛范德华双层垂直极化值汇总表，单位为二维极化单位 pC/m。
   - **关键特征**：BN 2.08、ZnO 8.22、AlN 10.29、GaN 9.72、SiC 6.17、MoS₂ 0.97、InSe 0.24、GaSe 0.46 pC/m；其中 AlN 双层 10.29 pC/m 是当时已知二维铁电中最高垂直极化，约为 BN 的五倍；pC/m 除以层间距可换算为三维 μC/cm²（BN 的 2.08 pC/m ≈ 0.68 μC/cm²）。
   - **结论/意义**：为高通量筛选高极化二维铁电提供基准，表明蜂窝晶格二元化合物（氮化物、碳化物）极化显著高于 TMDs。
 
-  - ![表2 vdW体结构计算垂直极化（μC/cm²）：3R-BN 2.41（正文另给7.6）, 3R-MoS2 0.52, 3R-InSe 0.08, h-SnS2 0.18, h-SnSe2 0.42, h-CrI3 0.06, ZrI2 0.31](../../raw/figures/wuSlidingFerroelectricity2D2021a/tab_2_6GGLBS2P.png) -> [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![表2 vdW体结构计算垂直极化（μC/cm²）：3R-BN 2.41（正文另给7.6）, 3R-MoS2 0.52, 3R-InSe 0.08, h-SnS2 0.18, h-SnSe2 0.42, h-CrI3 0.06, ZrI2 0.31](../../raw/figures/wuSlidingFerroelectricity2D2021a/tab_2_6GGLBS2P.png) -> [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：范德华体相结构的计算垂直极化值汇总表，单位为三维标准单位 μC/cm²。
   - **关键特征**：3R-BN 2.41（正文另给 7.6）μC/cm²，3R-MoS₂ 0.52，3R-InSe 0.08，六方相 h-SnS₂ 0.18、h-SnSe₂ 0.42，h-CrI₃ 0.06，ZrI₂ 0.31 μC/cm²；体相因不受退极化场限制，极化可比双层显著增强；涵盖 R3m 蜂窝体系（3R 相）、1T/1T' 体系的六角/正交极性相。
   - **结论/意义**：说明滑动铁电性不仅限于双层，在合适堆垛的体相中同样存在，且极化可与传统铁电体同量级比较。
@@ -198,13 +183,8 @@ Menghao Wu（吴梦昊，华中科技大学）& Ju Li（李巨，MIT），2021�
   - **project-1（双光子）、project-3（机械发光 NN）、project-4（TTF 分子计算）、project-6（湿度传感器）、project-7（CDW）**：无直接项目连接。其中 WTe₂ 虽为已知 CDW/ Weyl 半金属材料，本文聚焦其铁电性而非 CDW，对 project-7 仅有材料交集而无机制参考价值；project-4 的 DFT 方法论虽通用，但本文为固态层状材料，与分子晶体计算流程差异较大，不构成实质方法参考。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
 文章按"理论模型 → 实验验证 → 相关物理 → 潜在应用 → 展望"递进。理论部分以 BN 双层为原型建立对称性判据（非中心对称 + 水平镜像态可由层间平移达到），再推广到蜂窝晶格二元化合物、TMDs、1T/1T' 体系与体相 3R 相；实验部分按金属（WTe₂, 2018）→ 绝缘体（BN, 2020）→ 半导体（InSe/TMDs, 2019–2021）的证据链组织；相关物理发散为莫尔铁电、多铁/自旋轨道、金属铁电、非线性反常霍尔四个方向；应用部分以"集体势垒 vs 孤立势垒"模型统一解释低能耗与高稳定性，并讨论疲劳豁免（无氧缺陷迁移）与光驱动翻转。值得复用的术语：
@@ -231,7 +211,7 @@ Menghao Wu（吴梦昊，华中科技大学）& Ju Li（李巨，MIT），2021�
   4. **堆垛敏感性**：并非所有堆垛都有极性——BN 双层 AA'（B 在 N 正上方重叠）非极性且与 AB 近简并；体相中 AA' 与 AB 均保持垂直镜面对称而非极性，只有 ABC（3R 相）堆叠因层间[[../concepts/charge-density|电荷密度]]不对称产生垂直极化。电场可驱动 AB→3R 转变。SnS₂ 三角相/六角相、WTe₂ 单斜/正交相、CrI₃ R/H 型等多型体中，仅部分可由横向平移互相转换。
   5. **ripplocation 畴壁动力学**：翻转通过"ripplocation"环（兼具位错与面外屈曲）的形核与扩展完成；由于 vdW 层间耦合弱、层内共价键刚，长程面内弹性能被屈曲"波纹"几乎完全弛豫，使位错核心能 ∝|b|² 的 Frank 定律失效，Peierls 势垒极低，畴壁可在小驱动力下快速移动。
   6. **速度-稳定性统一**：非易失存储要求 ①零场激活能 Q(0)≫50k_BT（抗热扰动），②可读场（<10 MV/cm）下 Q<5k_BT（ns–ps 翻转）。集体[[../concepts/switching-barrier|翻转势垒]]（=类比磁体中的 K，层间剪切，BN 4.5 meV/f.u.、WTe₂ 0.15 meV/f.u.）决定写入速度/能耗，孤立翻转势垒（=NJ+K，层内拉伸）决定热稳定性；二者分离打破传统铁电/磁存储的权衡。所有传统室温铁电集体势垒均 >27 meV/f.u.（BiFeO₃ 为 0.43 eV/f.u.）。
-  7. **实验证据链**：WTe₂（Fei et al. Nature 2018，[[../entitys/graphene|石墨烯]]探测器测滞回，Tc≈350 K；Sharma et al. Sci. Adv. 2019，PFM 直接成像 20–50 nm 反平行畴）；BN（Yasuda et al. Science 2021 双栅石墨烯器件，n_H 突跳至室温；Vizner Stern et al. Science 2021 KPFM 观测数 μm 反向畴并用电偏置探针移动畴壁）；β-InSe（Hu et al. APL 2019，室温 PFM 蝴蝶曲线）；TMDs 双层（Wang et al. 2021，极化约为 BN 一半）。
+  7. **实验证据链**：WTe₂（Fei et al. Nature 2018，[[../entities/graphene|石墨烯]]探测器测滞回，Tc≈350 K；Sharma et al. Sci. Adv. 2019，PFM 直接成像 20–50 nm 反平行畴）；BN（Yasuda et al. Science 2021 双栅石墨烯器件，n_H 突跳至室温；Vizner Stern et al. Science 2021 KPFM 观测数 μm 反向畴并用电偏置探针移动畴壁）；β-InSe（Hu et al. APL 2019，室温 PFM 蝴蝶曲线）；TMDs 双层（Wang et al. 2021，极化约为 BN 一半）。
   8. **莫尔铁电性**：小角度扭转形成周期 AA/AB/BA 局域堆垛，AA 区极化消失、AB/BA 极化反向，构成三角[[../concepts/superlattice|超晶格]][[../concepts/ferroelectric-domain|铁电畴]]网络；可产生周期性 n/p 掺杂（石墨烯/BN）、II 型[[../concepts/band-alignment|能带对齐]]与激子/电子/空穴捕获阵列（WX₂/MoX₂）、双色莫尔电势（MX₂/M'X'₂/MX₂ 三层）；[[../entities/bilayer-graphene|双层石墨烯]]/hBN 中还观测到由莫尔平带[[../concepts/electron-correlation|电子关联]]驱动的非常规铁电性（Zheng et al. Nature 2020）。
   9. **金属铁电性与非线性霍尔**：WTe₂ 实验证实足够薄的[[../concepts/polar-metal|极性金属]]可被电场穿透翻转（区别于 Anderson-Blount 极性金属 LiOsO₃ 的不可翻转极化）；少层 WTe₂ 中[[../concepts/polarization-switching|极化翻转]]同步翻转 Berry 曲率偶极子与 shift dipole，奇层（除 1T' 单层）非线性霍尔电压反向、偶层不变（Xiao et al. Nat. Phys. 2020 证实），构成非破坏性 Berry 曲率记忆读出。
   10. **多铁与疲劳豁免**：反铁磁耦合铁磁双层（Cr₂NO₂/VS₂/MoN₂）可由层间电压翻转净磁矩（0.008–0.09 μB/f.u.）；非磁性强 SOC 铁电双层（如 WSe₂）具动量线性 SOC 锁定的[[../concepts/spin-texture|自旋纹理]]，可电控。滑动铁电体因清洁 vdW 界面无氧缺陷迁移且离子位移严格面内，可豁免钙钛矿铁电的电极界面疲劳机制；另预测光机械飞秒脉冲驱动 AA'→AB' 堆垛转变（皮秒写入，非线性 [[../concepts/edelstein-effect|Edelstein 效应]]读出）与负压电性（BN、ZrI₂）。

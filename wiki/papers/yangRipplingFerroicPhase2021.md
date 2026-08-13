@@ -15,7 +15,7 @@ concepts: [2d-materials, ferroelasticity, multiferroicity, strain-engineering, d
 entities: [VASP, LAMMPS, SnTe, In2Se3, WTe2, GeSe, CrI3, Cr2Ge2Te6, domain-wall]
 methods: [md, mlip, dft, kernel-ridge-regression, npt-nvt-ensembles, stress-strain, order-parameter-analysis, autocorrelation-function, first-principles-md]
 materials: [GeSe, SnTe, In2Se3, CrI3, Cr2Ge2Te6]
-figures: [crystal-structures, domain-walls, mathematical-models]
+figures: [crystal-structures-bulk, crystal-structures-surfaces-defects, domain-walls-structures, mathematical-models-computational, mathematical-models-elasticity-strain]
 领域基础知识:: >-
   二维材料的面外弯曲柔韧性导致本征结构缺陷“波纹”的产生。波纹通过引入局域化应变场，影响材料的电子、力学和摩擦等物理性质。同时，二维铁性材料（如铁电、铁弹体）因其自发极化/应变及外场可调性，在新型功能器件中具有巨大潜力。然而，波纹对二维铁性的影响是领域内长期存在的认知空白。
 研究背景:: >-
@@ -108,37 +108,37 @@ Yang Yang, Hongxiang Zong, Jun Sun, Xiangdong Ding et al.，2021，Advanced Mate
   - 相关论文 [[../../raw/note/yangRipplingFerroicPhase2021]]
 ## 📊 关键图表
   - **图1：单层 GeSe 的晶体结构、四畴变体与温度诱导铁性相变**
-  - ![图1 单层GeSe晶体结构、四畴变体、势能-温度相变曲线、晶格常数演化及原子级铁性序空间分布与角度关联函数](../../raw/figures/yangRipplingFerroicPhase2021/fig_1_9ERHR5CE.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图1 单层GeSe晶体结构、四畴变体、势能-温度相变曲线、晶格常数演化及原子级铁性序空间分布与角度关联函数](../../raw/figures/yangRipplingFerroicPhase2021/fig_1_9ERHR5CE.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：图1a-b 给出单层 GeSe 褶皱蜂窝晶格及四个能量等效畴变体（以原子级铁性序参量 Rp 方向着色，色环定义矢量取向）；图1c-d 为加热-冷却循环中势能（eV/原子）和 x/y 晶格常数（Å）随温度的演化；图1e-h 是 200→400→246→200 K 各阶段 Rp 的空间分布图；图1i 为不同温度下空间关联角 θij(r)（度）随距离 r（nm）的曲线。
   - **关键特征**：势能曲线在加热约 310 K、冷却约 260 K 处出现不连续跳变，对应一级铁性相变并带弱滞后；高温相 x/y 晶格常数趋同、自发应变消失；400 K 时长程序消失但局部仍存在团簇状"偶极子"，即极性纳米微区；θij(r) 在低温相 r>6 nm 仍 <45°，在高温相 r<2 nm 保持 75°–90°（低于完全随机的 90°），定量证实短程铁性序存在；冷却至 200 K 形成由两个 90° 畴壁分隔的条纹状多畴。
   - **结论/意义**：建立了单层 GeSe 铁弹-铁电强耦合体系的相变基线，并首次在二维高温相中识别出区别于体材料顺电相的短程有序极性纳米微区。
 
   - **图2：波纹对温度诱导铁性相变的调控**
-  - ![图2 波纹对铁性相变的影响：序参量-温度、弛豫时间、平均曲率及相关性、波纹振幅热涨落、波峰波谷处铁性序长寿命](../../raw/figures/yangRipplingFerroicPhase2021/fig_2_594HMLNH.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图2 波纹对铁性相变的影响：序参量-温度、弛豫时间、平均曲率及相关性、波纹振幅热涨落、波峰波谷处铁性序长寿命](../../raw/figures/yangRipplingFerroicPhase2021/fig_2_594HMLNH.png) → [[../figures/crystal-structures-surfaces-defects|表面、缺陷与形貌]]
   - **图示描述**：图2a 对比 constrained（无波纹）与 unconstrained（有波纹）模型平均铁性序幅度 |Rp| 随温度的变化；图2b 为两模型铁性序弛豫时间 τ（ps）-温度曲线；图2c 给出空间平均曲率 κ（Å⁻¹）及其与 |Rp| 的相关性随温度变化；图2d 为波纹均方振幅 <h²>（Å²）-温度关系；图2e-h 为 280 K 下经 0.2 ps 与 2.0 ps 时间平均的表面形貌及对应局域铁性序分布。
   - **关键特征**：波纹将冷却相变温度从约 245 K 提升至约 275 K，并增大铁性序幅度；2Tc 处波纹使弛豫速率降低约 23.3%（τ 显著延长）；平均铁性序增量 ΔR 与平均曲率 κ 呈强线性相关，高温下相关性二次增长；<h²> 随温度线性增长，符合 Gao-Huang 热力学模型（GeSe 低温相弯曲刚度 δ=1.35 eV，样品初始面积 27237.5 Å²）；波峰/波谷处局域铁性序寿命最长，高温下经 100τ 仍有残留；大尺度长寿命波纹与 ZA 声子模一致。
   - **结论/意义**：证明波纹通过曲率耦合稳定高温短程铁性序，并在冷却时充当异质形核点，从而提高相变温度，为"波纹工程"调控 Tc 提供依据。
 
   - **图3：双轴应变对波纹的主动调控**
-  - ![图3 双轴应变调控波纹：曲率-应变曲线及压缩应变诱导高温条纹状铁电畴](../../raw/figures/yangRipplingFerroicPhase2021/fig_3_V7PAZ76Z.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图3 双轴应变调控波纹：曲率-应变曲线及压缩应变诱导高温条纹状铁电畴](../../raw/figures/yangRipplingFerroicPhase2021/fig_3_V7PAZ76Z.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：图3a 为 350 K 下平均曲率 κ（Å⁻¹）随双轴应变（%，正拉伸/负压缩）的变化曲线；图3b-c 与图3d-e 分别对比无应变和施加 −0.2% 双轴压缩应变时的表面形貌与局域铁性序分布。
   - **关键特征**：拉伸应变抑制波纹（κ 减小），压缩应变增强波纹（κ 增大）；350 K 无应变样品整体无序，而 −0.2% 压缩下波纹显著增强并诱导出清晰条纹状铁电畴；这表明通过应变/衬底工程可在高于 Tc 的温度下主动写入并稳定铁性畴。
   - **结论/意义**：在模拟层面验证了"波纹工程"的可操作性，即通过外场调控波纹曲率来控制二维铁性畴图案。
 
   - **图4：波纹对应力诱导畴翻转动力学的重塑**
-  - ![图4 波纹对应力诱导畴翻转的影响：应力-应变曲线、微观畴演化、应力降PDF从幂律到高斯的转变](../../raw/figures/yangRipplingFerroicPhase2021/fig_4_6PXSF5EA.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图4 波纹对应力诱导畴翻转的影响：应力-应变曲线、微观畴演化、应力降PDF从幂律到高斯的转变](../../raw/figures/yangRipplingFerroicPhase2021/fig_4_6PXSF5EA.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：图4a 为 50 K 沿 x 拉伸时 NPT 平坦模型（蓝）与 NVT 波纹模型（红）的应力（GPa）-应变（%）曲线；图4b-q 依次给出两种模型在不同应变下的微观畴结构演化；图4r 为首次屈服后应力降幅度 A 的概率密度 P(A) 对比。
   - **关键特征**：无波纹曲线在 ε≈4%、9–11%、16% 出现三次突发应力降，对应初级孪晶 (ηx,−Px)、次级孪晶 (ηx,Px) 的形核与竞争生长，并出现初级畴"吞噬"次级畴的自催化级联；有波纹曲线在 ε>4% 后明显平滑，波纹通过改变曲率协调畸变，次级孪晶形核应变由 9.7% 推迟到 12.9%；无波纹 P(A) 服从截断幂律 P(A)~A^(−δ)（δ=1.3），为协同雪崩动力学标志，有波纹 P(A) 变为高斯分布，反映独立随机的局域翻转；补充材料 Fig. S12 证明 NPT/NVT 系综本身不改变该统计。
   - **结论/意义**：从宏观力学响应、微观畴演化到统计物理三个层面，证明波纹把畴翻转从长程协同雪崩转变为局域随机过程。
 
   - **公式 1：机器学习势总能量表达式**
-  - ![公式 机器学习势总能量表达式 Etot=ΣEi=ΣΣαm K(Vi,Vt)](../../raw/figures/yangRipplingFerroicPhase2021/eq_1_VAIRPZZ9.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式 机器学习势总能量表达式 Etot=ΣEi=ΣΣαm K(Vi,Vt)](../../raw/figures/yangRipplingFerroicPhase2021/eq_1_VAIRPZZ9.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：基于 Botu-Ramprasad 框架、核岭回归（KRR）构建的 ML 势总能量公式，系统总能量 Etot 为各原子能量 Ei 之和，每个 Ei 由权重系数 αm 与原子环境特征 Vi 和参考数据集 Vt 之间的核函数 K(Vi,Vt) 线性叠加得到。
   - **关键特征**：以 11893 个 DFT 构型（VASP, PBE-GGA, 300 eV cutoff, 3×3×1 k 网格）训练，使用 121 个特征（指数衰减余弦键函数 + 高斯平滑径向分布）；ML 势重现晶格常数、弹性常数、声子谱、相变温度与相变势垒；超胞 40a×40b（a=3.986 Å, b=4.246 Å），LAMMPS 模拟，使万原子、纳秒级波纹-铁性耦合动力学成为可能。
   - **结论/意义**：这是连接 DFT 精度与大尺度 MD 的方法学核心，支撑全文全部定量结论。
 
   - **公式 2：波纹热涨落 Gao-Huang 模型**
-  - ![公式 波纹热涨落 Gao-Huang 模型 <h²>≈16 kB T S0/(π² δ)](../../raw/figures/yangRipplingFerroicPhase2021/eq_4_QASXJXYU.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式 波纹热涨落 Gao-Huang 模型 <h²>≈16 kB T S0/(π² δ)](../../raw/figures/yangRipplingFerroicPhase2021/eq_4_QASXJXYU.png) -> [[../figures/mathematical-models-elasticity-strain|应变、弹性与力学模型]]
   - **图示描述**：Gao-Huang 热力学模型给出二维膜波纹均方振幅 <h²>≈16 k_B T S0/(π² δ)，其中 k_B 为玻尔兹曼常数、T 为温度、S0 为样品初始面积、δ 为弯曲刚度。
   - **关键特征**：<h²> 与温度 T 成正比、与弯曲刚度 δ 和初始面积 S0 成反比；单层 GeSe 低温相 δ=1.35 eV，样品 S0=27237.5 Å²；MD 测得的波纹振幅热涨落与该解析模型线性吻合，验证了模拟中波纹为热力学平衡涨落而非数值伪影。
   - **结论/意义**：为把波纹作为可定量预测的热力学自由度、并进一步通过应变/衬底工程设计波纹提供了解析基础。

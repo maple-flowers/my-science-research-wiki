@@ -11,12 +11,12 @@ paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/heUltrafastSwitchingDynamics2024]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-4, project-5]
 concepts: [2D-materials, berry-phase, density-functional-theory, machine-learning-potential, moire-superlattice, polarization-switching, sliding-ferroelectricity, strain-engineering, super-paraelectricity, topological-defects]
 entities: [VASP, deep-potential, domain-wall, h-BN]
 methods: [berry-phase, dft, mlip]
-materials: [deep-potential, domain-wall, h-BN]
-figures: [crystal-structures, domain-walls, heterostructures-stacking, vibrational-spectra]
+materials: [deep-potential, h-BN]
+figures: [domain-walls-structures, heterostructures-stacking, mathematical-models-computational]
 领域基础知识:: >-
   铁电性、范德华材料、二维材料、极化翻转、畴壁动力学
 研究背景:: >-
@@ -41,20 +41,10 @@ tags:
   - paper
   - type/theory
   - year/2024
-  - project/project-1
-  - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/core
-  - project/project-3
-  - relevance/project-3/medium
   - project/project-4
   - relevance/project-4/medium
   - project/project-5
   - relevance/project-5/strong
-  - project/project-6
-  - relevance/project-6/medium
-  - project/project-7
-  - relevance/project-7/weak
   - concept/2D-materials
   - concept/berry-phase
   - concept/density-functional-theory
@@ -76,16 +66,11 @@ tags:
   - material/domain-wall
   - material/h-BN
   - topic/2d-materials
-  - topic/charge-density-wave
   - topic/domain-walls
   - topic/ferroelectricity
-  - topic/humidity-sensing
   - topic/ml-interatomic-potential
-  - topic/molecular-crystal
-  - topic/multiferroics
   - topic/polarization
   - topic/topological-defects
-  - topic/two-photon-fluorescence
 ---
 
 ## heUltrafastSwitchingDynamics2024 — 堆垛工程铁电体中铁电有序的超快开关动力学
@@ -113,8 +98,6 @@ Ri He, Bingwen Zhang, Hua Wang, Lei Li, Ping Tang, Gerrit Bauer, Zhicheng Zhong 
   - 实体 [[../entities/VASP]]
   - 实体 [[../entities/domain-wall]]
   - 图表 [[../figures/domain-walls]]
-  - 图表 [[../figures/vibrational-spectra]]
-  - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/heterostructures-stacking]]
   - 图表 [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
   - 年度 [[../write/2024]]
@@ -129,35 +112,35 @@ wiki 中没有、但值得新建的概念或材料实体：
   - `concurrent-learning`（并发学习/DP-Gen流程）：一种机器学习势训练策略，通过迭代探索构型空间、自动筛选DFT标注样本，本文用23轮迭代生成11,580个训练构型。
 
 ## 📊 关键图表
-  - ![图1 h-BN双层铁电性：极化矢量随层间滑移的演化、能量势垒与电荷密度差](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_1_TZK5GGQL.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图1 h-BN双层铁电性：极化矢量随层间滑移的演化、能量势垒与电荷密度差](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_1_TZK5GGQL.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：以h-BN双层为对象，展示铁电极化如何由层间滑移与层间电荷转移产生。(a)极化矢量随上下层相对滑移一整个晶胞的变化，颜色编码面外极化Pz；(b)沿最低能量路径上Pz与体系总能量随滑移距离的演化；(c)AB、BA及鞍点(SP)三种构型的原子排布与电荷密度差（等值面0.00017 e/Å³）。
   - **关键特征**：AB与BA为两个能量简并的稳态，分别对应向上与向下的面外极化Pz=1.46×10⁻¹² C/m；二者由鞍点隔开，鞍点为纯面内极化1.38×10⁻¹² C/m，极化模长在翻转路径上几乎不变；完全重叠的AA构型能量最高、不稳定；电荷由一层转移至另一层，极化源于电荷转移而非离子位移。
   - **结论/意义**：从微观上确立了滑移铁电的低势垒翻转路径，为后续畴壁运动与超快开关提供了能量学基础。
-  - ![图2 DP模型与DFT的能量/原子力基准测试（能量误差0.60 meV/atom）](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_2_WP5XMYXN.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图2 DP模型与DFT的能量/原子力基准测试（能量误差0.60 meV/atom）](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_2_WP5XMYXN.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：DP机器学习势相对于DFT基准的散点对比。(a)能量对比；(b–d)分别为x、y、z三方向原子受力分量对比，所有点均为最终训练集中的构型，插图给出平均绝对误差。
   - **关键特征**：能量平均绝对误差仅0.60 meV/atom；面内力(x,y)误差0.051 eV/Å，面外力(z)误差0.017 eV/Å；散点紧密沿对角线分布。
   - **结论/意义**：证明DP模型以~1 meV/atom精度复现DFT能量与受力，为十万原子级畴壁和莫尔结构模拟提供了可靠势函数。
-  - ![图3 DP与DFT声子色散对比，验证AB堆垛动力学稳定性](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_3_FPIDI2M5.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图3 DP与DFT声子色散对比，验证AB堆垛动力学稳定性](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_3_FPIDI2M5.png) → [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：AB堆垛h-BN双层的声子色散关系与声子态密度(DOS)，DP模型(红圈)与DFT(实线)结果叠加对比，横轴为布里渊区高对称路径。
   - **关键特征**：两支曲线几乎完全重合；4原子原胞给出3支声学支与9支光学支；Γ点附近声学支频率趋于零且全程无虚频(负频率)。
   - **结论/意义**：既验证了DP模型对晶格动力学的描述能力，也证明AB堆垛双层在室温常压下动力学稳定。
-  - ![图4 50-700 K热稳定性：层间距与极化随温度变化](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_4_DAWZJSBV.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图4 50-700 K热稳定性：层间距与极化随温度变化](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_4_DAWZJSBV.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：基于100×100×1(40,000原子)超胞的NPT-DPMD模拟。(a)600 K下的原子结构快照；(b)平均层间距与面外极化随温度(0–700 K)的变化；(c)Pz对层间距的依赖关系。
   - **关键特征**：高温下仍保持单畴完整、未自发成核畴壁；700 K时层间距热膨胀增大，Pz由1.46×10⁻¹² C/m略降至1.14×10⁻¹² C/m；Pz随层间距单调递减。
   - **结论/意义**：面内化学键刚度使极化几乎免疫热涨落，证实该体系具有极高的居里温度与器件级热鲁棒性。
-  - ![图5 四种畴壁的原子结构与极化分布：0°布洛赫型、90°奈尔型，宽度9.7-40.7 nm](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_5_BK4H4WHC.png) → [[../figures/domain-walls|畴与畴壁结构]]
+  - ![图5 四种畴壁的原子结构与极化分布：0°布洛赫型、90°奈尔型，宽度9.7-40.7 nm](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_5_BK4H4WHC.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：(a)0°畴壁与(b)90°畴壁的原子结构放大图；(c)四种畴壁(0°、30°、60°、90°)局域面外极化Pz沿垂直畴壁方向的分布剖面，灰色阴影标示极化梯度核心区。
   - **关键特征**：0°畴壁保持平面并呈布洛赫型纹理；90°畴壁出现明显面外屈曲(buckling)并呈奈尔型纹理；畴壁中心为纯面内极化1.38×10⁻¹² C/m，与单畴Pz相差<5%；宽度随夹角φ单调增加：9.7、17.6、32.1、40.7 nm，比钙钛矿铁电体(~0.7 nm)大约一个数量级。
   - **结论/意义**：一维弹性模型w=(u₀/2)√(λ₁ᴰ/Δ)表明，超低翻转势垒Δ与高面内刚度λ₁ᴰ共同造成超宽畴壁，并将λ₁ᴰ确立为可由应变/电场调控的新自由度。
-  - ![图6 300 K下畴壁运动动力学快照：9 ps内两畴壁湮灭实现翻转](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_6_IH4EUPKK.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图6 300 K下畴壁运动动力学快照：9 ps内两畴壁湮灭实现翻转](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_6_IH4EUPKK.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：300 K下畴壁运动的时间分辨DPMD模拟。(a)t=0施加Fs=5×10⁻⁴ eV/Å(Ev≈0.18 V/nm)后两个0°畴壁在0、2.5、5、8、9 ps的铁电纹理快照；(b)不同剪切力下AB/BA畴尺寸随时间的演化(含0°与90°畴壁)。
   - **关键特征**：两畴壁以类孤子方式相向运动，约9 ps后湮灭为单畴；Fs<7×10⁻⁵ eV/Å时畴壁被内禀钉扎、不动；超过临界力后畴尺寸线性增长，对应0.18 V/nm下匀速~6000 m/s；0°与90°畴壁临界Fs分别为7×10⁻⁵、3×10⁻⁴ eV/Å(对应Ev=0.026、0.11 V/nm)。
   - **结论/意义**：畴壁运动的临界场比单畴直接翻转(100 K时3.8×10⁻³ eV/Å，~1.41 V/nm)低两个数量级，100 nm器件翻转时间约15 ps，直接解释了实验低场翻转并指向超快低功耗存储。
-  - ![图7 0.385°扭转莫尔结构的P-E曲线：无回滞，超顺电态](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_7_UDICC663.png) → [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - ![图7 0.385°扭转莫尔结构的P-E曲线：无回滞，超顺电态](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_7_UDICC663.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：0.385°扭转莫尔双层(355,012原子)的空间平均面外极化Pz随垂直电场Ev的变化(P-E曲线)，插图为最大电场与零电场下的极化纹理。
   - **关键特征**：弛豫后AB/BA畴扩张为三角形、高能AA畴收缩为点；Pz在超低临界Ev≈0.026 V/nm即快速饱和至1.32×10⁻¹² C/m(此时BA畴变为类六边形)；撤场后纹理恢复、Pz归零；整条P-E曲线无开口、无回滞。
   - **结论/意义**：证明理想扭转莫尔结构本征为超顺电态而非铁电态，实验观测到的铁电响应需另由缺陷钉扎等机制解释。
-  - ![图8 氮空位对畴壁的钉扎能垒（约50 meV）](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_8_RY66EXIM.png) → [[../figures/domain-walls|畴与畴壁结构]]
+  - ![图8 氮空位对畴壁的钉扎能垒（约50 meV）](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_8_RY66EXIM.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：(a)含单个氮空位(VN)及不同位置0°畴壁的31,810原子超胞；(b)DP预测的0°畴壁接近并远离VN过程中的能量变化曲线。
   - **关键特征**：能量曲线在VN位置出现深约50 meV的捕获势阱；畴壁被空位捕获，需额外约50 meV能量才能脱钉；少量VN即可阻碍畴壁自由运动。
   - **结论/意义**：为莫尔结构实验中观测到的剩余极化与类铁电回滞提供了缺陷钉扎机制，是连通理想超顺电态与实测铁电响应的关键一环。
@@ -172,13 +155,8 @@ wiki 中没有、但值得新建的概念或材料实体：
   - **project-7 CDW**：弱参考价值。畴壁作为拓扑缺陷的类孤子（soliton-like）运动、临界驱动力与速度的定量关系，与CDW中相移孤子的动力学在物理图像上有可类比之处；但本文研究的是铁电极化畴壁而非电荷密度波畴壁，机制不同，仅提供拓扑缺陷动力学的方法论参考。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
 - 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
 文章遵循"提出问题→构建方法→静态结构→动态行为→特殊结构（莫尔）→总结"的计算物理研究范式。先以领域两大谜题（实验翻转场偏低、莫尔回线变窄）为引子，将答案锁定在畴壁；再展示DP模型的构建与精度验证；随后从静态（四种畴壁的原子结构、宽度、一维弹性模型）到动态（畴壁运动、临界场、速度、翻转时间）层层推进；最后将尺度拓展至莫尔超晶格，提出超顺电态与缺陷钉扎机制。论证以模拟数据为核心，辅以解析模型（一维弹性模型、LGD唯象分析）进行定量解释。值得复用的关键词/术语：

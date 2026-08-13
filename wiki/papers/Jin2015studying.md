@@ -15,7 +15,7 @@ concepts: [polarization-switching, multiferroicity, magnetoelectric-coupling, fe
 entities: [BiFeO3, domain-wall, PFM, first-principles-piezoelectric-tensor]
 methods: [pfm, 2d-pfm, first-principles, dft, euler-angle-rotation, numerical-inversion, mod-film-growth, xrd]
 materials: [BiFeO3, Pt-Ti-SiO2-Si]
-figures: [crystal-structures, mathematical-models, experimental-setups, domain-walls]
+figures: [domain-walls-switching-properties, experimental-setups]
 领域基础知识:: >-
   多铁性材料（特别是铁酸铋 BiFeO₃）中的铁电畴结构、极化翻转机制，以及压电力显微镜（PFM）的基本原理。理解铁电体、铁弹体、逆压电效应、菱方钙钛矿结构等概念是阅读本文的基础。
 研究背景:: >-
@@ -82,7 +82,7 @@ Yaming Jin, Xiaomei Lu, Junting Zhang, Yi Kan, Huifeng Bo, Fengzhen Huang, Tingt
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/polarization-switching]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/ferroelasticity]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/piezoelectric-response]]、[[../concepts/polycrystalline-ferroelectrics]]、[[../concepts/charge-migration-energy]]
   - 实体 [[../entities/BiFeO3]]、[[../entities/domain-wall]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]、[[../figures/experimental-setups]]、[[../figures/domain-walls]]
+  - 图表 [[../figures/experimental-setups]]、[[../figures/domain-walls]]
   - 年度 [[../write/2015]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/Jin2015studying]]
@@ -90,15 +90,15 @@ Yaming Jin, Xiaomei Lu, Junting Zhang, Yi Kan, Huifeng Bo, Fengzhen Huang, Tingt
   - `PFM`（压电响应力显微镜）：实验技术实体条目，可涵盖 VPFM/LPFM、锁相检测、导电探针等。
   - `first-principles-piezoelectric-tensor`（第一性原理压电张量）：方法实体，d₁₀₅=80、d₂₀₂=27、d₃₀₁=1.4、d₃₀₃=23 pC/N 等参数可写入。
 ## 📊 关键图表
-  - ![图1 BFO晶胞、欧拉角定义及理论压电响应曲面 u1/u2/u3](../../raw/figures/Jin2015studying/fig_1_BPD8ZZPF.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图1 BFO晶胞、欧拉角定义及理论压电响应曲面 u1/u2/u3](../../raw/figures/Jin2015studying/fig_1_BPD8ZZPF.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
   - **图示描述**：(a) BFO 菱方相（R3c）伪立方晶胞及 Fe 离子排布，三重轴沿晶体坐标系 z₀；(b) 用欧拉角 (Φ, θ, Ψ) 定义晶粒坐标系 (x₀,y₀,z₀) 相对实验室坐标系 (x,y,z) 的旋转；(c) 由压电张量经欧拉旋转算出的面外压电位移 u₃ 随 (Φ, θ) 变化的响应曲面；(d) 在 Ψ = 0°/30°/60°/90° 四个取值下面内压电位移 u₁、u₂ 随 (Φ, θ) 的响应曲面。
   - **关键特征**：压电系数取自第一性原理，非零分量为 d₁₀₅ = 80 pC/N、d₂₀₂ = 27 pC/N、d₃₀₁ = 1.4 pC/N、d₃₀₃ = 23 pC/N；晶胞基矢 a₀ = [0, 5.59, 0] Å、b₀ = [−4.84, −2.79, 0.577] Å、c₀ = [0, 0, 13.9] Å；u₃ 的正负直接对应 θ < 90°/θ > 90°，即面外极化分量 Pz 的朝向；u₁/u₂ 同时依赖 Φ、θ、Ψ 三个欧拉角，关系比 u₃ 更复杂。
   - **结论/意义**：这张"理论指纹库"把任意晶粒取向映射到可测的 OP/IP 压电位移，是全文从二维 PFM 信号反演三维极化方向与翻转角的方法学基石。
-  - ![图2 PFM实验装置示意、表面形貌及极化前后VPFM/x-LPFM图像](../../raw/figures/Jin2015studying/fig_2_MUN94SVB.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图2 PFM实验装置示意、表面形貌及极化前后VPFM/x-LPFM图像](../../raw/figures/Jin2015studying/fig_2_MUN94SVB.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：(a) 二维 PFM 探测装置示意，导电探针作顶电极、Pt 底电极，同时采集垂直 (VPFM/OP) 与水平 (x-LPFM/IPx) 锁相信号；(b) 多晶 BFO 薄膜表面形貌；(c, d) 极化前同区域的 VPFM 与 x-LPFM 图像；(e, f) 在中心 1 μm × 1 μm 白色虚框内施加 +12 V（电场沿 −z）极化后再扫描的 VPFM 与 x-LPFM 图像，整幅扫描范围为 2 μm × 2 μm。
   - **关键特征**：薄膜厚约 300 nm、平均晶粒尺寸约 130 nm（MOD 法生长于 Pt/Ti/SiO₂/Si）；形貌图在极化前后无变化，排除了形貌/损伤假象；虚框内 VPFM、x-LPFM 衬度在极化后显著改变，直接显示发生了压电响应（即极化）翻转；探针 AC 激励约 2 V、21 kHz，扫描速率约 1 Hz，+12 V 极化对探针安全且足以驱动翻转。
   - **结论/意义**：给出"写畴—再成像"实验的原始证据，表明电场写入只改变极化状态而不改变表面形貌，为后续差分图像与角度统计提供数据源。
-  - ![图3 差分PFM图像、71/109/180度翻转实例及面积统计饼图](../../raw/figures/Jin2015studying/fig_3_YANLELY3.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图3 差分PFM图像、71/109/180度翻转实例及面积统计饼图](../../raw/figures/Jin2015studying/fig_3_YANLELY3.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
   - **图示描述**：(a, b) 极化后减极化前的 VPFM、x-LPFM 差分图像，灰底上的紫色/白色区域表示信号发生变化的翻转畴，编号标记被统计的畴（带后缀 "a" 者为异常翻转畴）；(c) 三个典型畴分别被判定为 71°、109°、180° 翻转的实例，标出翻转前后极化矢量；(d) 按翻转角与初始面外极化 (OPP) 相对电场方向（平行/反平行）分类的面积占比统计图。
   - **关键特征**：总体 71° 翻转占约 42%，109° 与 180° 各占约 29%；约 85% 翻转为"正常"（ΔPz < 0，紫色），其余为 ΔPz > 0 的"异常"翻转（白色），异常翻转只通过 71°/109° 发生、无 180°；约 34% 的翻转面积发生在初始 OPP 平行于极化电场的区域（Pz′ < 0），是多晶膜特有现象；初始 OPP 反平行时 71° 与 180° 占比相近（27% vs 29%）、109° 仅 10%，初始 OPP 平行时无 180°、109°（19%）略多于 71°（15%）；差分 x-LPFM 中紫/白约各半，说明 −z 电场下面内翻转无 x 方向倾向性。
   - **结论/意义**：定量给出多晶 BFO 的翻转角分布与"异常翻转"占比，是"电荷迁移能 vs 面内应力能"竞争模型及变电压实验讨论所依据的核心统计结果。

@@ -10,12 +10,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Srinivasan1989lead]]
-projects: [project-5]
+projects: []
 concepts: [molecular-beam-epitaxy, fabry-perot-interferometer, infrared-detection, band-pass-filter, photoconductivity, skin-depth, atmospheric-window, narrow-gap-semiconductor, quantum-efficiency, detectivity, optical-constants]
 entities: [PbSnTe, KCl, HgCdTe, SnTe, Perkin-Elmer]
 methods: [mbe, xrd, vegard-law, optical-transmission-spectroscopy, blackbody-response-measurement, photoconductivity-measurement, knudsen-cell-evaporation]
 materials: [Pb0.82Sn0.18Te, KCl-substrate]
-figures: [optical-spectra, electronic-devices, experimental-setups]
+figures: []
 领域基础知识:: >-
   红外成像系统依赖8-14微米大气窗口，Pb₁₋ₓSnₓTe和Hg₁₋ₓCdₓTe是该波段关键材料。分子束外延（MBE）是一种能精确控制薄膜厚度和组分的先进生长技术。
 研究背景:: >-
@@ -40,8 +40,6 @@ tags:
   - paper
   - type/experiment
   - year/1989
-  - project/project-5
-  - relevance/project-5/weak
   - concept/molecular-beam-epitaxy
   - concept/fabry-perot-interferometer
   - concept/infrared-detection
@@ -143,7 +141,6 @@ T. Srinivasan & J. Sobhanadri，1989，Defence Science Journal, Vol. 39, No. 1, 
   - 其他项目（project-1 双光子、project-2 Mn多铁、project-3 机械发光NN、project-4 TTF分子计算、project-6 湿度传感器、project-7 CDW）：无直接项目连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 
 ## 📝 组织与用词
 论文采用典型的"材料制备 → 光学参数提取 → 滤波器设计与验证 → 探测器设计与验证 → 黑体响应测试 → 结论"递进式实验报告结构。滤波器部分以法布里-珀罗干涉公式（透射强度、峰值波数、带宽）为主线，从干涉级次 m 与膜厚/吸收的权衡论证为何取最小级次 m=2；探测器部分以响应率 R、探测率 D*、NEP 三个优值公式为主线，从量子效率极大化条件 d=1/α 推出最佳膜厚 4 μm，再通过偏置电流扫描确定最佳工作点，形成"理论预计算 → 生长 → 实测验证"的闭环。值得在 wiki 叙述中复用的关键词/术语：

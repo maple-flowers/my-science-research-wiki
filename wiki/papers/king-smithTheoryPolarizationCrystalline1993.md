@@ -15,7 +15,7 @@ concepts: [berry-phase, berry-connection, modern-polarization-theory, wannier-fu
 entities: [GaAs, VASP, Wannier90, Quantum-ESPRESSO]
 methods: [dft, berry-phase, lda, pseudopotential, monkhorst-pack, dfpt-linear-response]
 materials: [GaAs]
-figures: [mathematical-models]
+figures: []
 领域基础知识:: >-
   需要掌握晶体平移对称性与布洛赫定理、Kohn–Sham 密度泛函理论（DFT）、平面波赝势方法，以及布里渊区积分等基本能带论工具；同时要熟悉贝里相位（Berry phase）/几何相位这一量子力学概念，以及瓦尼尔函数（Wannier function）作为布洛赫波在实空间的局域表示。理解压电效应、铁电效应、热电效应等宏观极化响应现象有助于把握论文动机。
 研究背景:: >-
