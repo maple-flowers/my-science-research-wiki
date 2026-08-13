@@ -1,11 +1,11 @@
 ---
-tags: [concept, stub]
+status: alias
+redirect_to: ../../concepts/domain-walls
+merged_into: "畴壁（概念） / Domain Walls (Concept)"
 ---
 
-# 畴壁钉扎）
+# 畴壁钉扎
 
-畴壁钉扎）：点缺陷（如氮空位）对畴壁运动的捕获与阻碍效应，是解释理想莫尔超顺电态与实验观测铁电回滞之间差异的关键机制。
-
-## Related Papers
-
-- [[../papers/heUltrafastSwitchingDynamics2024]]
+> ⚠️ **本页面已合并**到 [[../../concepts/domain-walls|畴壁（概念） / Domain Walls (Concept)]]（作为别名）。请前往主页查看规范内容。
+>
+> 合并依据：去重计划（2026-08-13）识别为别名；主页中已添加 `畴壁钉扎` 到 `aliases` 列表。

@@ -1,5 +1,6 @@
 ---
 tags: [concept, stub]
+aliases: ["铁电非线性反常霍尔效应"]
 ---
 
 # 霍尔效应

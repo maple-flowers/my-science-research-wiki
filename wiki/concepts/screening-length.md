@@ -1,5 +1,6 @@
 ---
 tags: [concept, stub]
+aliases: ["德拜屏蔽长度"]
 ---
 
 # 屏蔽长度）

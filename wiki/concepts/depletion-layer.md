@@ -1,5 +1,6 @@
 ---
 tags: [concept, stub]
+aliases: ["耗尽层读出"]
 ---
 
 # 耗尽层

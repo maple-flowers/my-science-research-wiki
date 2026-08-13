@@ -5,7 +5,7 @@ type: entity
 status: mature
 category: [D02, Z01]
 formula: CuInP2S6
-aliases: ["CIPS", "硫磷酸铜铟", "CuInP₂S₆"]
+aliases: ["CIPS", "硫磷酸铜铟", "CuInP₂S₆", "CIPS"]
 class: [TMTP, MPS3, vdW, semiconductor]
 properties: [ferroelectricity, ionic-polar-coupling, negative-piezoelectricity, bulk-photovoltaic-effect, competing-polar-phases]
 related_entities: [CuCrP2S6, In2Se3, SnS]

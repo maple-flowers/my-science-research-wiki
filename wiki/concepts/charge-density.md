@@ -1,5 +1,6 @@
 ---
 tags: [concept, stub]
+aliases: ["电荷密度混合"]
 ---
 
 # 电子数密度

@@ -1,5 +1,6 @@
 ---
 tags: [concept]
+aliases: ["吸附能景观 / Adsorption Energy Landscape"]
 ---
 
 # 吸附能 (Adsorption Energy, E_ads)

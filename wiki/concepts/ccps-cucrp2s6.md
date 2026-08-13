@@ -1,11 +1,13 @@
 ---
-tags: [concept, stub]
+status: alias
+redirect_to: ../../entities/CuCrP2S6
+merged_into: "硫代磷酸铜铬 / Copper Chromium Thiophosphate (CuCrP2S6, CCPS)"
+merged_from_type: concepts
+merged_to_type: entities
 ---
 
-# Ccps Cucrp2S6
+# CCPS
 
-CuCrP2S6（CCPS）实体——多铁性TMTP，理论预测同时具有电极化和磁化及in-gap FE/AFE相，与project-2相关。
-
-## Related Papers
-
-- [[../papers/neumayerCompetingPolarPhases2025]]
+> ⚠️ **本页面已合并**到 [[../../entities/CuCrP2S6|硫代磷酸铜铬 / Copper Chromium Thiophosphate (CuCrP2S6, CCPS)]]（作为别名，跨类型 concepts→entities）。请前往主页查看规范内容。
+>
+> 合并依据：去重计划（2026-08-13）识别为别名；主页中已添加 `Ccps Cucrp2S6` 到 `aliases` 列表。

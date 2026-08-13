@@ -1,5 +1,6 @@
 ---
 tags: [concept, stub]
+aliases: ["Linear Response U"]
 ---
 
 # 线性响应，均匀电子气对小密度涨落的响应，PBE

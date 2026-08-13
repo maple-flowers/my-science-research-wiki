@@ -1,11 +1,11 @@
 ---
-tags: [concept, stub]
+status: alias
+redirect_to: ../../concepts/domain-walls
+merged_into: "畴壁（概念） / Domain Walls (Concept)"
 ---
 
-# 铁电畴壁）
+# 铁电畴壁
 
-铁电畴壁）：铁电畴之间的界面，在金属体系中可能呈现新颖导电性/拓扑性质，是本文指出的后续研究方向。
-
-## Related Papers
-
-- [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]]
+> ⚠️ **本页面已合并**到 [[../../concepts/domain-walls|畴壁（概念） / Domain Walls (Concept)]]（作为别名）。请前往主页查看规范内容。
+>
+> 合并依据：去重计划（2026-08-13）识别为别名；主页中已添加 `铁电畴壁` 到 `aliases` 列表。

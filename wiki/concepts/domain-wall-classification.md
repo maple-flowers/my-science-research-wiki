@@ -1,11 +1,11 @@
 ---
-tags: [concept, stub]
+status: alias
+redirect_to: ../../concepts/domain-walls
+merged_into: "畴壁（概念） / Domain Walls (Concept)"
 ---
 
 # Domain Wall Classification
 
-W 墙/S 墙分类）：Wf 墙取向由母相对称性固定（120° DW 沿 {11-20}），S 墙取向依赖自发应变量级（60° DW 沿 {1-100}），适合作为畴壁条目的补充概念。
-
-## Related Papers
-
-- [[../papers/xuTwodimensionalFerroelasticityVan2021]]
+> ⚠️ **本页面已合并**到 [[../../concepts/domain-walls|畴壁（概念） / Domain Walls (Concept)]]（作为别名）。请前往主页查看规范内容。
+>
+> 合并依据：去重计划（2026-08-13）识别为别名；主页中已添加 `Domain Wall Classification` 到 `aliases` 列表。

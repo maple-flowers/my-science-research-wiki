@@ -1,6 +1,7 @@
 ---
 tags: [entity, material, multiferroic, 2D, magnetic, vdW]
 category: [D01, Z02]
+aliases: ["CCPS"]
 ---
 
 # 硫代磷酸铜铬 / Copper Chromium Thiophosphate (CuCrP2S6, CCPS)

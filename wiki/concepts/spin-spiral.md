@@ -7,7 +7,7 @@ status: mature
 domain: magnetism
 mechanism: 自旋方向沿传播方向周期性旋转的非共线磁序，由竞争交换（J1/J2/J3）与磁阻挫产生，波矢 q 表征周期与手性
 related_concepts: [type-ii-multiferroics, magnetoelectric-coupling, electromagnon, inverse-dzyaloshinskii-moriya, multiferroicity, dzyaloshinskii-moriya-interaction, magnetic-frustration]
-aliases: ["螺旋磁序", "螺旋自旋序", "摆线磁序", "Spin Spiral", "Helimagnetic order"]
+aliases: ["螺旋磁序", "螺旋自旋序", "摆线磁序", "Spin Spiral", "Helimagnetic order", "自旋螺旋多铁性"]
 key_quantities:
   wavevector: "传播矢量 q 决定周期 λ=2π/q；自旋旋转轴 e 与 q 区分螺旋(screw)/摆线(cycloidal)/锥形(conical)"
   origin: "竞争交换（J1/J2/J3）、几何阻挫与 Dzyaloshinskii–Moriya 相互作用共同稳定螺旋"

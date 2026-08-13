@@ -1,6 +1,7 @@
 ---
 tags: [concept, ferroelectric, domain-wall]
 category: [D02, Z01]
+aliases: ["铁电畴壁", "Domain Wall Classification", "畴壁成核", "畴壁钉扎", "畴壁极化纹理", "畴壁导电，头对头/尾对尾带电畴壁因未补偿束缚电荷形成导电通道，开关比>10³。", "畴壁电子学", "畴壁能", "畴壁工程", "畴壁运动"]
 ---
 
 # 畴壁（概念） / Domain Walls (Concept)

@@ -1,5 +1,6 @@
 ---
 tags: [concept, stub]
+aliases: ["密度泛函紧束缚（DFTB） / Density Functional Tight Binding"]
 ---
 
 # 紧束缚模型/最小模型

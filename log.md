@@ -58,6 +58,68 @@
 - 建议 **A**：先 `git log --all -- tools/extract_figures.py` 看历史里有没有。
 
 
+
+## [2026-08-13] refactor | 实体与概念去重：28 对 alias 合并
+
+### 范围
+基于 phase 0 审计（1290 页扫描），识别 31 个高置信 alias 候选；其中 28 对通过**软合并**（dead 页→redirect stub + live 页添加 alias 字段），3 对未执行（详见末尾"未合并"）。
+
+### 软合并机制
+对每个 alias 对：
+- **Live 页** frontmatter 添加 `aliases: [...]` 数组（新别名追加在末尾）
+- **Dead 页** 改为最小 redirect stub：
+  ```yaml
+  ---
+  status: alias
+  redirect_to: ../../<type>/<live-slug>
+  merged_into: "<live H1>"
+  ---
+  # <原 H1>
+  > ⚠️ **本页面已合并**到 [[../../<type>/<live-slug>|<live H1>]]...
+  ```
+
+### 合并明细
+
+#### 跨类型（concept → entity）：2 对
+- `concepts/ccps-cucrp2s6` → `entities/CuCrP2S6`（CCPS 缩写）
+- `concepts/cips-cu-in-p2s6` → `entities/CuInP2S6`（CIPS 缩写）
+
+#### 概念内：26 对
+**domain-walls 家族**（10 个变体全部合并到主 `domain-walls`）：
+- `ferroelectric-domain-wall`, `domain-wall-classification`, `domain-wall-nucleation`, `domain-wall-pinning`, `domain-wall-texture`, `domain-wall-conduction`, `domain-wall-electronics`, `domain-wall-energy`, `domain-wall-engineering`, `domain-wall-motion`
+
+**其他物理概念**（13 对）：
+- `magnetic-skyrmion` → `skyrmion`
+- `spin-spiral-multiferroics` → `spin-spiral`
+- `linear-response-u` → `linear-response`
+- `dftb-density-functional-tight-binding` → `tight-binding`
+- `electron-counting-rule-surface` → `electron-counting-rule`
+- `depletion-layer-readout` → `depletion-layer`
+- `mcmillan-ginzburg-landau-theory` → `ginzburg-landau`
+- `adsorption-energy-landscape` → `adsorption-energy`
+- `optical-humidity-sensing` → `humidity-sensing`
+- `negative-piezoelectricity` → `piezoelectricity`
+- `second-principles-calculations` → `second-principles`
+- `interfacial-phase-change-memory` → `phase-change-memory`
+- `debye-screening-length` → `screening-length`
+- `ferroelectric-nonlinear-anomalous-hall-effect` → `hall-effect`
+- `inverse-rashba-edelstein-effect` → `edelstein-effect`
+- `charge-density-mixing` → `charge-density`
+
+### 验证结果
+- 28/28 redirect 目标全部存在
+- 21 处 wiki 内部 backlink（如 paper 卡片）现在走 redirect 跳转，仍有效
+- 19 个 live 页增加 alias 字段（`domain-walls` 增 10 个，其余 1 个）
+
+### 未合并的候选（3 对）
+- `entities/ABINIT` 与 `entities/VASP` 同为 DFT 软件但是独立项目，**不合并**
+- `entities/b-AsP`（β-AsP）是与 black-phosphorus 不同的材料，**不合并**
+- `entities/PFM` 有独立 frontmatter 与定义性内容，**不合并**
+- `concepts/cipse-cu-in-p2se6`（CIPSe）的目标 `CuInP2Se6` 不存在，**暂留 dead 等未来增页**
+
+### 后续
+- 阶段 1 廉价清理（修 typo、补 status 字段）尚未执行
+- 阶段 2 智能重写（按 Tier A/B/C 成熟化）待启动
 ## [2026-08-12] feat | 写作库改为五年段语料库并完成中文化
 
 ### 变更内容
@@ -288,4 +350,5 @@
 - **全量同步完成**：成功对 `爱看论文的猫猫/note` 下全部 138 篇 Markdown 笔记与 Zotero 库进行自动化摄入与三层 Wiki 架构构建。
 - **图表提取与 Review 规则**：完成 118 篇 Original Research 论文的 3,562 张图表与 JSON Manifest 提取；自动跳过 Review 论文抽图。
 - **索引更新**：已更新 [[index]] 及 [[材料模拟计算设计]] 主题导览页。
+
 

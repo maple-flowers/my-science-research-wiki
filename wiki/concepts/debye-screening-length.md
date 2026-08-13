@@ -1,11 +1,11 @@
 ---
-tags: [concept, stub]
+status: alias
+redirect_to: ../../concepts/screening-length
+merged_into: "屏蔽长度）"
 ---
 
-# 德拜屏蔽长度）
+# 德拜屏蔽长度
 
-德拜屏蔽长度）：金属/半金属中电场被自由载流子屏蔽的特征深度；WTe₂ 中约 1.6 nm，决定 PFM 信号仅来自表面薄层，是理解金属中铁电性探测的关键概念。
-
-## Related Papers
-
-- [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]]
+> ⚠️ **本页面已合并**到 [[../../concepts/screening-length|屏蔽长度）]]（作为别名）。请前往主页查看规范内容。
+>
+> 合并依据：去重计划（2026-08-13）识别为别名；主页中已添加 `德拜屏蔽长度` 到 `aliases` 列表。

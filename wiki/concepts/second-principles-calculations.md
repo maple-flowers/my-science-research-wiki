@@ -1,11 +1,11 @@
 ---
-tags: [concept, stub]
+status: alias
+redirect_to: ../../concepts/second-principles
+merged_into: "第二性原理方法）"
 ---
 
-# 第二性原理计算）
+# 第二性原理计算
 
-第二性原理计算）：从DFT拟合关键参数构建有效哈密顿量，可模拟数千至数百万原子、纳秒尺度动力学（畴壁、异质结、极化翻转），是连接微观物理与宏观器件的核心多尺度方法。
-
-## Related Papers
-
-- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]]
+> ⚠️ **本页面已合并**到 [[../../concepts/second-principles|第二性原理方法）]]（作为别名）。请前往主页查看规范内容。
+>
+> 合并依据：去重计划（2026-08-13）识别为别名；主页中已添加 `第二性原理计算` 到 `aliases` 列表。

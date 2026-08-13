@@ -1,6 +1,7 @@
 ---
 tags: [concept, phase-transition, Landau-theory]
 category: [Z01]
+aliases: ["Mcmillan Ginzburg Landau Theory"]
 ---
 
 

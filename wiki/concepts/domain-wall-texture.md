@@ -1,11 +1,11 @@
 ---
-tags: [concept, stub]
+status: alias
+redirect_to: ../../concepts/domain-walls
+merged_into: "畴壁（概念） / Domain Walls (Concept)"
 ---
 
-# 畴壁极化纹理）
+# 畴壁极化纹理
 
-畴壁极化纹理）：描述畴壁内极化矢量旋转方式的概念，如布洛赫型（Bloch，极化在畴壁面内旋转）与奈尔型（Néel，极化在垂直畴壁面内旋转），区别于传统伊辛型畴壁。
-
-## Related Papers
-
-- [[../papers/heUltrafastSwitchingDynamics2024]]
+> ⚠️ **本页面已合并**到 [[../../concepts/domain-walls|畴壁（概念） / Domain Walls (Concept)]]（作为别名）。请前往主页查看规范内容。
+>
+> 合并依据：去重计划（2026-08-13）识别为别名；主页中已添加 `畴壁极化纹理` 到 `aliases` 列表。

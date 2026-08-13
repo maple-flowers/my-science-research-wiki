@@ -1,11 +1,11 @@
 ---
-tags: [concept, stub]
+status: alias
+redirect_to: ../../concepts/tight-binding
+merged_into: "紧束缚模型/最小模型"
 ---
 
 # 密度泛函紧束缚（DFTB） / Density Functional Tight Binding
 
-密度泛函紧束缚方法，介于经验势与全电子DFT之间的半经验量子方法，适合大体系高通量扫描；本文用其完成774构型弛豫。
-
-## Related Papers
-
-- [[../papers/Wu2021]]
+> ⚠️ **本页面已合并**到 [[../../concepts/tight-binding|紧束缚模型/最小模型]]（作为别名）。请前往主页查看规范内容。
+>
+> 合并依据：去重计划（2026-08-13）识别为别名；主页中已添加 `密度泛函紧束缚（DFTB） / Density Functional Tight Binding` 到 `aliases` 列表。

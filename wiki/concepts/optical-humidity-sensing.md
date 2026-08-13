@@ -1,11 +1,11 @@
 ---
-tags: [concept, stub]
+status: alias
+redirect_to: ../../concepts/humidity-sensing
+merged_into: "湿度传感"
 ---
 
-# 光学湿度传感）
+# 光学湿度传感
 
-光学湿度传感）：利用光与湿敏材料相互作用（光吸收、光电流、折射率变化等）检测湿度的传感范式，区别于传统电阻/电容式。
-
-## Related Papers
-
-- [[../papers/Tobeiha2025optical]]
+> ⚠️ **本页面已合并**到 [[../../concepts/humidity-sensing|湿度传感]]（作为别名）。请前往主页查看规范内容。
+>
+> 合并依据：去重计划（2026-08-13）识别为别名；主页中已添加 `光学湿度传感` 到 `aliases` 列表。

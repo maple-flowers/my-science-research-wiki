@@ -1,5 +1,6 @@
 ---
 tags: [concept, stub]
+aliases: ["逆Rashba-Edelstein效应"]
 ---
 
 # Edelstein Effect

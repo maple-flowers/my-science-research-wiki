@@ -1,5 +1,6 @@
 ---
 tags: [concept, stub]
+aliases: ["光学湿度传感"]
 ---
 
 # 湿度传感

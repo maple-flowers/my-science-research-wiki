@@ -1,11 +1,11 @@
 ---
-tags: [concept, stub]
+status: alias
+redirect_to: ../../concepts/domain-walls
+merged_into: "畴壁（概念） / Domain Walls (Concept)"
 ---
 
-# 畴壁成核）
+# 畴壁成核
 
-畴壁成核）：新畴优先在已有畴界处成核，是电学/力学翻转共通的第一步机制。
-
-## Related Papers
-
-- [[../papers/Chen2016electrical]]
+> ⚠️ **本页面已合并**到 [[../../concepts/domain-walls|畴壁（概念） / Domain Walls (Concept)]]（作为别名）。请前往主页查看规范内容。
+>
+> 合并依据：去重计划（2026-08-13）识别为别名；主页中已添加 `畴壁成核` 到 `aliases` 列表。

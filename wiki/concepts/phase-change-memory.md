@@ -1,5 +1,6 @@
 ---
 tags: [concept, stub]
+aliases: ["界面相变存储，GeTe/Sb2Te3、TiTe2/Sb2Te3"]
 ---
 
 # 相变存储器

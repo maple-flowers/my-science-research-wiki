@@ -1,5 +1,6 @@
 ---
 tags: [concept, stub]
+aliases: ["第二性原理计算"]
 ---
 
 # 第二性原理方法）

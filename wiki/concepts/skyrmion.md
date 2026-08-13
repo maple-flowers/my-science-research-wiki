@@ -1,6 +1,7 @@
 ---
 tags: [concept, topology, magnetism]
 category: [D02]
+aliases: ["磁斯格明子"]
 ---
 
 # 斯格明子 / Skyrmion

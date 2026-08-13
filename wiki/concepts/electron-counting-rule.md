@@ -3,6 +3,7 @@ name: electron-counting-rule
 description: 判断半导体表面或二维结构稳定性的经验规则，要求成键轨道填满且反键轨道全空。
 metadata:
   type: concept
+aliases: ["表面电子计数规则"]
 ---
 
 # 电子计数规则 / Electron Counting Rule (ECR)
