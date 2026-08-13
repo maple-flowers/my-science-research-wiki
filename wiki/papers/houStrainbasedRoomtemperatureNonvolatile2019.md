@@ -11,12 +11,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/houStrainbasedRoomtemperatureNonvolatile2019]]
-projects: [project-5]
+projects: []
 concepts: [2D-materials, ferroelasticity, polarization-switching, strain-engineering]
 entities: [TMDs]
 methods: [afm-pfm, device-i-v, raman, tem, xanes]
 materials: [TMDs]
-figures: [electronic-devices, experimental-setups, heterostructures-stacking, vibrational-spectra]
+figures: [electronic-devices-memory-transistors, mathematical-models-elasticity-strain]
 领域基础知识:: >-
   应变工程（Strain Engineering）通过机械应力改变材料的晶格常数，进而调控其电子能带结构乃至晶相。铁电体（Ferroelectrics）是具有自发极化，且该极化方向可被外加电场反转的材料，其逆压电效应可实现电场对材料应变的控制。二维材料（2D Materials）如过渡金属硫族化合物（TMDCs），因原子级厚度和强共价键而能承受远超块体材料的弹性应变，其物理性质对应变极为敏感。
 研究背景:: >-
@@ -41,8 +41,6 @@ tags:
   - paper
   - type/experiment
   - year/2019
-  - project/project-5
-  - relevance/project-5/medium
   - concept/2D-materials
   - concept/ferroelasticity
   - concept/polarization-switching
@@ -56,7 +54,6 @@ tags:
   - material/TMDs
   - topic/2d-materials
   - topic/ferroelectricity
-  - topic/humidity-sensing
   - topic/phase-transition
   - topic/polarization
   - topic/strain-engineering
@@ -77,10 +74,7 @@ Wenhui Hou, Ahmad Azizimanesh, Arfan Sewaket, Tara Peña, Carla Watson, Ming Liu
   - 概念 [[../concepts/ferroelasticity]]
   - 概念 [[../concepts/polarization-switching]]
   - 实体 [[../entities/TMDs]]
-  - 图表 [[../figures/heterostructures-stacking]]
   - 图表 [[../figures/electronic-devices]]
-  - 图表 [[../figures/experimental-setups]]
-  - 图表 [[../figures/vibrational-spectra]]
   - 年度 [[../write/2019]]
   - 相关论文 **houStrainbasedRoomtemperatureNonvolatile2019**
 
@@ -93,22 +87,22 @@ Wenhui Hou, Ahmad Azizimanesh, Arfan Sewaket, Tara Peña, Carla Watson, Ming Liu
   - `schottky-junction`（概念）：金属-半导体接触形成的整流势垒；本文关态由Ni/相变MoTe2构成的两个背靠背肖特基二极管实现低漏电。
 
 ## 📊 关键图表
-  - ![图1 器件结构与基本操作：PMN-PT/MoTe2/Ni叠层示意、光学照片、Ni应变计蝴蝶曲线、13 nm MoTe2转移特性、半金属态与半导体态I-V对比（半导体态呈肖特基行为）](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_1_G4AIPMDF.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![图1 器件结构与基本操作：PMN-PT/MoTe2/Ni叠层示意、光学照片、Ni应变计蝴蝶曲线、13 nm MoTe2转移特性、半金属态与半导体态I-V对比（半导体态呈肖特基行为）](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_1_G4AIPMDF.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
     - **图示描述**：图1展示器件结构与基本操作。(a) 为PMN-PT/1T′-MoTe2/Ni三端叠层示意，含同材料Ni薄膜应变计；(b) 为PMN-PT(011)上MoTe2薄片的光学照片（比例尺10 μm）；(c) 为Ni应变计测得的面内应变–电场（kV cm⁻¹ vs %）蝴蝶曲线，对比第1次、第6次扫描及温度循环后由双极演变为单极的回线；(d) 为13 nm MoTe2器件的IDS–EGS转移特性（W/L=2）；(e) 为半金属态（SM，线性欧姆）与半导体态（SC，非线性整流）的I–V对比，插图放大SM态。
     - **关键特征**：(c) 中应变峰峰约0.4%，是铁电体逆压电应变量化值；(d) 转移曲线与(c) 应变蝴蝶曲线形状高度同步，直接证明沟道电导由应变驱动而非电场直接耗尽载流子；13 nm器件室温下可逆开关超过一个数量级；(e) 半导体态在低偏压下表现为两个背靠背肖特基二极管，是相变后出现带隙的"电学指纹"，而制备态只有1T′相（无带隙），肖特基行为仅在低导态出现。
     - **结论/意义**：建立"电场→PMN-PT应变→MoTe2相变→电导开关"的因果链，并从I–V指纹确证低导态为半导体相，是整篇论文的核心机制证据。
 
-  - ![图2 70 nm MoTe2器件在300→270→330→300 K温度循环下的对数尺度电导-电场演化，双极→单极（非易失）转变，最终G_on/G_off≈6.2×10^6](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_2_8BASCCDL.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![图2 70 nm MoTe2器件在300→270→330→300 K温度循环下的对数尺度电导-电场演化，双极→单极（非易失）转变，最终G_on/G_off≈6.2×10^6](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_2_8BASCCDL.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
     - **图示描述**：图2为9个子图组成的对数坐标GDS–EGS曲线阵列，展示70 nm（约100层）MoTe2器件在300 K→270 K→330 K→回到300 K温度循环下，栅电场扫描过程中沟道电导（μS）的演化。
     - **关键特征**：低温（270 K、280 K）有利于半导体相（低电导），高温（330 K）有利于半金属相（高电导），与2H-MoTe2低温更稳定的既有结论一致；随电场反复扫描，曲线由初始对称双极蝴蝶型逐渐演变为不对称单极回线，零场下保留两个稳定应变状态，即非易失性来源；最终300 K态实现Gon/Goff ≈ 6.2×10⁶（摘要给出约10⁷），并在后续3个循环中保持鲁棒；对70 nm厚沟道而言，传统FET因电场屏蔽只能实现<1个数量级的调制。
     - **结论/意义**：证明通过"温度+电场"训练可获得稳定的非易失单极开关，且巨大开关比不受沟道厚度屏蔽限制，从性能上超越传统2H-MoTe2 FET。
 
-  - ![图3 CAFM实空间成像：低电导态下接触边缘的非导电（半导体相）区域，以及栅压脉冲序列下半导体相区的可逆写入/擦除](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_3_33VVCMHG.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![图3 CAFM实空间成像：低电导态下接触边缘的非导电（半导体相）区域，以及栅压脉冲序列下半导体相区的可逆写入/擦除](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_3_33VVCMHG.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
     - **图示描述**：图3为图2器件在低电导态下的导电原子力显微镜（CAFM）结果。(a) 表面形貌图；(b) 对应电流图，显示接触边缘附近大面积低电流（深色）非导电区；(c–e) 为三种栅压脉冲设置下的电流图，分别对应初始态、同向脉冲后和反向脉冲后，图中以滞回环示意脉冲方向。
     - **关键特征**：低导态下非导电区局域在接触电极边缘，对应应变集中诱发的MoTe2半导体相；同向脉冲使非导电区在源/漏两侧对称出现并保留，反向脉冲后两侧非导电区"闭合"、沟道恢复高电导，证明相变可被栅压电脉冲可逆写入/擦除；所有器件的CAFM均未在距接触边缘250–500 nm以外观察到电导变化，表明相变主要发生在接触下方而沟道中部仍由1T′金属相连接。
     - **结论/意义**：在实空间直接"看到"接触边缘的应变诱导相变及其脉冲可逆性，将宏观电学开关与局域结构相变联系起来，是接触应变偏置机制最直观的可视化证据。
 
-  - ![图4 接触金属效应与有限元模拟：PMN-PT(111)上Ni器件CAFM图与沟道应变FEA模拟吻合；Ag（−0.2 GPa，~4%调制）vs Ni（0.58 GPa，~10^9%调制）对比；静态拉应变偏置+铁电动态应变调制机理示意](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_4_4I4JUQYB.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![图4 接触金属效应与有限元模拟：PMN-PT(111)上Ni器件CAFM图与沟道应变FEA模拟吻合；Ag（−0.2 GPa，~4%调制）vs Ni（0.58 GPa，~10^9%调制）对比；静态拉应变偏置+铁电动态应变调制机理示意](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_4_4I4JUQYB.png) -> [[../figures/mathematical-models-elasticity-strain|应变、弹性与力学模型]]
     - **图示描述**：图4验证接触应力的作用。(a) 左侧为PMN-PT(111)上50 nm MoTe2（W/L=6.3）Ni接触器件的CAFM电流图，中间为给定边缘夹持拉伸应变时沟道εx分布的有限元（FEA）模拟，下方为"接触静态应变（蓝）+PMN-PT电场可控动态应变（红）"协同越过相界的机理示意；(b) 为Ag接触（−0.2 GPa低压应力）与Ni接触（0.58 GPa拉应力）器件GDS–EGS对比，插图为Ag器件的变温演化。
     - **关键特征**：FEA应变分布与CAFM电流图像形状高度吻合，(111)取向衬底上仍出现相变表明该机制对铁电取向不敏感；由接触应力计算得接触处施加约0.4%拉伸应变，结合CAFM测得的半导体区延伸长度提取相变应变量化阈值约0.33%，与MoTe2相变的实验和理论预测一致；Ag接触13个器件所有温度下仅约4%电导调制，Ni器件达约10⁹%调制（量级差异）；高拉应力绝缘MgF2封装低应力Ag接触后可恢复大开关，形成"拉伸应力源必需"的闭环对照。
     - **结论/意义**：通过Ni/Ag/MgF2对照与FEA模拟确证"静态接触拉伸应变偏置+铁电动态应变调制"是相变开关的必要设计范式，并定量给出相变阈值应变。
@@ -118,7 +112,6 @@ Wenhui Hou, Ahmad Azizimanesh, Arfan Sewaket, Tara Peña, Carla Watson, Ming Liu
 无直接项目连接。概念上与 project-5（SnTe铁电模拟）共享"铁电+二维材料"主题，但本文为实验性应变相变器件，研究对象（MoTe2 vs SnTe）和方法（器件输运/CAFM vs 模拟）均不同，不构成直接项目连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 
 ## 📝 组织与用词
 文章按"问题（FET纳米尺度漏电与玻尔兹曼暴政）→方案（应变替代电场的相变开关）→器件设计（静态接触应力偏置+铁电动态应变调制）→多维实验验证（宏观电学-应变计关联、I-V肖特基指纹、CAFM实空间成像、Ag/Ni/MgF2对照、变温、FEA模拟、拉曼）→性能与局限→展望"组织，证据链层层递进、正反对照严密。值得在wiki叙述中复用的关键词/术语：

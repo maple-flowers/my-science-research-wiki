@@ -10,12 +10,12 @@ paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Li2013bonding]]
-projects: [project-5, project-4, project-7]
+projects: [project-4, project-5]
 concepts: [2d-materials, strain-engineering, density-functional-theory, bond-density, binding-strength, p-d-hybridization, d-band-center, charge-transfer-descriptor, mechanical-anisotropy, stress-strain-relation, bader-charge-analysis, bonding-charge-density, poisson-contraction, ultimate-strength]
 entities: [TMDs, VASP, ABINIT, MoS2, WS2, MoSe2, WSe2, MoTe2, WTe2]
 methods: [dft, lda, paw, norm-conserving-pp, bader-charge, dos-pdos, charge-density-difference, stress-strain, first-principles, uniaxial-tension]
 materials: [MoS2, MoSe2, MoTe2, WS2, WSe2, WTe2]
-figures: [crystal-structures, electronic-bands, mathematical-models]
+figures: [crystal-structures-bulk, electronic-bands-dos-fermi, experimental-setups]
 领域基础知识:: >-
   二维材料、过渡金属二硫化物（TMDs）的基本结构（三明治X-M-X结构）、晶向（扶手椅与锯齿）、连续介质力学基本概念（应力、应变、杨氏模量、极限强度）。
 研究背景:: >-
@@ -42,10 +42,8 @@ tags:
   - year/2013
   - project/project-4
   - project/project-5
-  - project/project-7
   - relevance/project-5/medium
   - relevance/project-4/weak
-  - relevance/project-7/weak
   - concept/2d-materials
   - concept/strain-engineering
   - concept/density-functional-theory
@@ -102,7 +100,7 @@ Li, Medhekar, Shenoy，2013，*The Journal of Physical Chemistry C* 117(30), 158
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/2D-materials]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/bond-density]]、[[../concepts/binding-strength]]、[[../concepts/bonding-charge-density|键合电荷密度]]、[[../concepts/charge-transfer-descriptor|电荷转移描述符 ΔQ]]、[[../concepts/d-band-center|d 带中心]]、[[../concepts/mechanical-anisotropy|力学各向异性]]、[[../concepts/p-d-hybridization|p-d 轨道杂化]]、[[../concepts/ultimate-strength|极限强度 σ*]]
   - 实体 [[../entities/TMDs]]、[[../entities/VASP]]、[[../entities/MoTe2|MoTe₂]]、[[../entities/WTe2|WTe₂]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
   - 年度 [[../write/2013]]
   - 相关论文 [[../../raw/note/Li2013bonding]]
 
@@ -111,27 +109,27 @@ Li, Medhekar, Shenoy，2013，*The Journal of Physical Chemistry C* 117(30), 158
   - 实体 `ABINIT`：本文用于力学响应（应力–应变）计算的开源平面波 DFT 软件，采用 LDA + HGH 模守恒赝势。
 
 ## 📊 关键图表
-  - ![图1 MX2单层晶体结构（俯视/侧视），红色原胞、蓝色正交超胞，x=扶手椅、y=锯齿](../../raw/figures/Li2013bonding/fig_1_42JAUWDZ.png) → [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
+  - ![图1 MX2单层晶体结构（俯视/侧视），红色原胞、蓝色正交超胞，x=扶手椅、y=锯齿](../../raw/figures/Li2013bonding/fig_1_42JAUWDZ.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：图1给出单层 MX₂ 的俯视(a)与侧视(b)原子结构示意；紫色大球为过渡金属 M（Mo/W），黄色小球为硫族元素 X（S/Se/Te），构成 X–M–X 三明治结构，每个 M 与周围六个 X 三角棱柱配位。俯视中红色菱形为六方原胞（1 个 M + 2 个 X），蓝色矩形为单轴拉伸所用正交超胞，x 轴标为扶手椅方向、y 轴为锯齿方向。
   - **关键特征**：扶手椅方向平行于 M–X 键在 M 原子面内的投影，锯齿方向与之垂直，预示两方向加载时键的拉伸/弯曲模式不同；侧视图直观显示三层夹心结构和层间范德华间隙；该几何定义是后续应力–应变各向异性分析的基础。
   - **结论/意义**：把"晶向各向异性"这一宏观概念锚定到具体的原子排布与超胞取向上。
-  - ![图2 沿扶手椅(a)和锯齿(b)方向的应力–应变曲线，实线WX2、虚线MoX2](../../raw/figures/Li2013bonding/fig_2_KFMW534E.png) → [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
+  - ![图2 沿扶手椅(a)和锯齿(b)方向的应力–应变曲线，实线WX2、虚线MoX2](../../raw/figures/Li2013bonding/fig_2_KFMW534E.png) → [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：图2为六种单层 MX₂ 的拉伸应力 σ（GPa）对单轴应变 ε（无量纲）曲线，(a) 沿扶手椅方向、(b) 沿锯齿方向；实线为 WX₂、虚线为 MoX₂，横向允许弛豫以计入泊松收缩，超胞应力经 Z/h 因子重整化为二维等效应力。
   - **关键特征**：小应变 ε<4% 区间六条曲线几乎重合且线性，两方向杨氏模量一致（六方对称→面内弹性各向同性），MoS₂ 的 E≈220 GPa 与 AFM 实验 270±100 GPa 吻合；ε>4% 后曲线分叉并出现明显峰值即极限强度 σ*，组分趋势 WS₂>WSe₂>MoS₂>WTe₂>MoSe₂>MoTe₂；扶手椅 σ* 为锯齿方向的 1.5–2.2 倍（与石墨烯相反，石墨烯扶手椅方向峰值低约 9%）；扶手椅极限应变 ε*≈0.28–0.32，远大于锯齿方向 0.14–0.19。
   - **结论/意义**：这是全文最核心的力学结果图，一次性给出小应变各向同性、大应变各向异性以及组分/方向双重依赖关系。
-  - ![图3 六种无应变MX2的总态密度与投影态密度（M-s/p/d，X-s/p），费米能级置零](../../raw/figures/Li2013bonding/fig_3_KYS7RB5V.png) → [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
+  - ![图3 六种无应变MX2的总态密度与投影态密度（M-s/p/d，X-s/p），费米能级置零](../../raw/figures/Li2013bonding/fig_3_KYS7RB5V.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：图3为六种无应变 MX₂ 的总态密度（TDOS，单位 States/eV/Unit Cell）及投影态密度（PDOS），六个子图 (a)–(f) 依次对应 MoS₂、MoSe₂、MoTe₂、WS₂、WSe₂、WTe₂；横轴为能量（eV，E_F=0），分别把 M 的 s/p/d 与 X 的 s/p 轨道投影出来。
   - **关键特征**：费米能级以下 0 至 −8 eV 区间 M-d 与 X-p 峰强烈重叠，是 p–d 杂化（共价键）的直接谱学证据；从硫化物→硒化物→碲化物，杂化峰整体向 E_F 上移（如 MoS₂ 最深峰 −5.25 eV，至 MoTe₂ 相应峰上移约 1 eV），低能 d 峰降低、近 E_F 峰增强；d 带中心 E_d 依次变浅：MoS₂/MoSe₂/MoTe₂ 为 −2.68/−2.37/−1.94 eV，WS₂/WSe₂/WTe₂ 为 −2.98/−2.65/−2.18 eV；W 的 5d 比 Mo 的 4d 更弥散，WX₂ 杂化更强。
   - **结论/意义**：从电子结构层面解释了为何 WX₂ 强于 MoX₂、MS₂ 强于 MSe₂ 强于 MTe₂——E_d 越深、M–X 共价键越强。
-  - ![图4 六种MX2的键合电荷密度（过M、X原子平面），红为电子积累、蓝为耗散，单位e/Bohr³](../../raw/figures/Li2013bonding/fig_4_8HDYAYEQ.png) → [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
+  - ![图4 六种MX2的键合电荷密度（过M、X原子平面），红为电子积累、蓝为耗散，单位e/Bohr³](../../raw/figures/Li2013bonding/fig_4_8HDYAYEQ.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：图4为六种 MX₂ 在同时穿过 M 与 X 原子平面内的键合电荷密度（电荷密度差），(a)–(f) 依次为 MoS₂、MoSe₂、MoTe₂、WS₂、WSe₂、WTe₂；由体系价电荷密度减去中性原子叠加得到，色标单位 e/Bohr³，红色为电子积累、蓝色为电子耗散。
   - **关键特征**：M–X 之间出现明显红色"山峰"，即共用电子对的局域积累，是共价键的实空间可视化；X 周围被大片红色覆盖、M 周围呈蓝色，直观显示 M→X 电荷转移（离子键成分）；从硫化物到碲化物，M–X 间红色区逐渐变浅、范围缩小，对应共价键强度与电荷积累量递减，与图2宏观强度下降趋势完全吻合；WS₂ 的红色键合区最强、MoTe₂ 最弱。
   - **结论/意义**：把图3中倒易空间的 p–d 杂化结论在实空间中可视化，为"键越强→材料越强"提供直观图像证据。
-  - ![图5 杨氏模量(a)和极限强度(b)随电荷转移ΔQ的线性关系](../../raw/figures/Li2013bonding/fig_5_2QR532HQ.png) → [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
+  - ![图5 杨氏模量(a)和极限强度(b)随电荷转移ΔQ的线性关系](../../raw/figures/Li2013bonding/fig_5_2QR532HQ.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：图5把六种 MX₂ 的力学量对 Bader 电荷分析得到的 M→X 电荷转移量 ΔQ（单位 e）作图：(a) 杨氏模量 E（GPa），(b) 极限强度 σ*（GPa），并分别对扶手椅、锯齿两方向数据点做线性拟合 E(σ*)≈a+b·ΔQ。
   - **关键特征**：所有数据点近似落在一条直线上；拟合参数（表 III）：E 的 a=171.97 GPa、b=61.34 GPa/e，σ*_AR 的 a=18.21 GPa、b=10.40 GPa/e，σ*_ZZ 的 a=16.86 GPa、b=1.60 GPa/e；即 ΔQ 每增加 0.1 e，E 升高约 6.1 GPa、扶手椅 σ* 升高约 1.04 GPa；WS₂ 的 ΔQ=1.07 e 最大、MoTe₂ 的 ΔQ=0.37 e 最小，与强度排序一致。
   - **结论/意义**：论文的"点睛之笔"，把复杂 DFT 结果压缩成一个易算的电荷转移描述符，可用于快速筛选高强度 TMD；但仅基于六种同构型材料拟合，外推到其他族/二维体系的适用边界尚待验证。
-  - ![表II 六种MX2两方向的E、σ*、ε*、各向异性因子φ与ΔQ](../../raw/figures/Li2013bonding/tab_2_NBLVPVL5.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![表II 六种MX2两方向的E、σ*、ε*、各向异性因子φ与ΔQ](../../raw/figures/Li2013bonding/tab_2_NBLVPVL5.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：表II汇总六种无应变单层 MX₂ 在扶手椅(x)与锯齿(y)两方向的杨氏模量 E（GPa）、极限强度 σ*（GPa）、极限应变 ε*，以及各向异性因子 φ=σ*_AR/σ*_ZZ 和 Bader 电荷转移量 ΔQ（e），是图2、图5的定量数据底表。
   - **关键特征**：WS₂ 最强：E_AR=244.18 GPa、σ*_AR=29.96 GPa、φ=1.50、ΔQ=1.07 e；MoTe₂ 最弱且各向异性最大：E_AR=125.94 GPa、σ*_AR=17.12 GPa、σ*_ZZ=7.88 GPa、φ=2.17、ΔQ=0.37 e；扶手椅 ε* 介于 0.28–0.32，锯齿 ε* 介于 0.14–0.19；两方向 E 几乎相等但 σ* 差异显著，φ 与强度呈反相关（材料越弱各向异性越强）。
   - **结论/意义**：为柔性器件设计和后续理论/实验对比提供六种单层 TMD 的完整本征力学参数数据库。
@@ -143,9 +141,8 @@ Li, Medhekar, Shenoy，2013，*The Journal of Physical Chemistry C* 117(30), 158
   - project-1/2/3/6：无直接项目连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 - 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
+- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 
 ## 📝 组织与用词
   - 论证结构："问题提出（实验只有 MoS₂ 取向平均数据）→ 方法（ABINIT 算应力–应变，VASP 算电子结构）→ 现象（小应变各向同性/大应变各向异性、组分趋势）→ 机理（DOS/PDOS、d 带中心、键合电荷密度）→ 定量模型（E、σ* 与 ΔQ 线性拟合）"，是典型的"组分→电子结构→宏观性能"三段式 DFT 工作。
@@ -165,7 +162,7 @@ Li, Medhekar, Shenoy，2013，*The Journal of Physical Chemistry C* 117(30), 158
   1. 六种单层 VI 族 TMD 的晶格常数（LDA）：MoS₂/WS₂ a=3.13 Å，MoSe₂/WSe₂ a=3.25 Å，MoTe₂/WTe₂ a=3.49 Å；M–X 键长 2.38/2.39、2.51、2.70 Å，与实验误差<1%。
   2. 计算细节：力学部分用 ABINIT + LDA + Hartwigsen–Goedecker–Hutter [[../concepts/norm-conserving-pseudopotential|模守恒赝势]]（Mo、W 半芯电子作价电子），平面波截断 65 Ha，弛豫/应力 k 网格分别 15×15×1 和 10×15×1；电子结构用 VASP + LDA + PAW，截断 400 eV；真空层 12 Å，应力乘以 Z/h 重整化。
   3. 小应变（ε<4%）下两方向杨氏模量几乎相同（六方对称→面内弹性各向同性）；MoS₂ E≈220 GPa，与实验单层 270±100 GPa、少层 330±70 GPa 吻合；MoS₂ 平均[[../concepts/ultimate-strength|极限强度]]约 22 GPa，与 AFM 纳米压痕实验 23 GPa 吻合。
-  4. 大应变下六方对称破缺，扶手椅方向极限强度显著高于锯齿方向，φ=σ*_AR/σ*_ZZ 介于 1.50（WS₂）到 2.17（MoTe₂）；强度越低的材料[[../concepts/migdal-eliashberg-theory|各向异性]]越强。这与[[../entitys/graphene|石墨烯]]相反——石墨烯扶手椅方向峰值应力比锯齿方向低 9%。
+  4. 大应变下六方对称破缺，扶手椅方向极限强度显著高于锯齿方向，φ=σ*_AR/σ*_ZZ 介于 1.50（WS₂）到 2.17（MoTe₂）；强度越低的材料[[../concepts/migdal-eliashberg-theory|各向异性]]越强。这与[[../entities/graphene|石墨烯]]相反——石墨烯扶手椅方向峰值应力比锯齿方向低 9%。
   5. 组分趋势：同金属 MS₂ > MSe₂ > MTe₂；同硫族 WX₂ > MoX₂。表 II 关键值：WS₂ 最强（E_AR=244.18 GPa、σ*_AR=29.96 GPa、φ=1.50、ΔQ=1.07 e）；MoTe₂ 最弱且各向异性最大（E_AR=125.94 GPa、σ*_AR=17.12 GPa、σ*_ZZ=7.88 GPa、φ=2.17、ΔQ=0.37 e）。
   6. 扶手椅方向极限应变 ε*_AR=0.28–0.32，远大于锯齿方向 ε*_ZZ=0.14–0.19；这与 DFTB 对 MoS₂ 纳米管预测两方向均约 16% 形成对比，说明二维单层与纳米管几何在大应变下力学响应不同。
   7. 电子结构机理：费米能级以下 0 到 −8 eV 区间 M-d 与 X-p [[../concepts/density-of-states|态密度]]峰强烈重叠即 p–d 杂化；从硫化物到碲化物，杂化峰整体向费米能级上移（MoS₂ 最深峰约 −5.25 eV，MoTe₂ 对应峰上移约 1 eV），且低能 d 峰降低、近费米峰增强。

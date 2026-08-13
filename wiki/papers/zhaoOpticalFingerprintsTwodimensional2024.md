@@ -15,7 +15,7 @@ concepts: [sliding-ferroelectricity, multiferroicity, magnetoelectric-coupling, 
 entities: [VASP, Wannier90, Fe3GeTe2, VSe2, MnBi2Te4, WRFP, FINDSYM]
 methods: [dft, gga-pbe, dft-plus-u, soc, wannier-interpolation, symmetry-analysis, tensor-analysis, first-principles, isomorphic-group-method]
 materials: [VSe2, MnBi2Te4]
-figures: [crystal-structures, optical-spectra, mathematical-models]
+figures: [crystal-structures-bulk, heterostructures-stacking, optical-spectra]
 领域基础知识:: >-
   二维范德华材料、层间滑移铁电性、多铁性（同时存在铁磁序和铁电序）、非线光学（二次谐波产生SHG、磁光克尔效应MOKE）、对称性分析（空间反演对称性、时间反演对称性、镜面对称性）、第一性原理计算（DFT）。
 研究背景:: >-
@@ -93,24 +93,24 @@ Hong-Miao Zhao, Hang Zhou, Wei Gan, Hui Han, Hui Li, Rui-Chun Xiao et al.，2024
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/sliding-ferroelectricity]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/symmetry-analysis|对称性分析]]、[[../concepts/optical-kerr-effect|磁光克尔效应]]、[[../concepts/second-harmonic-generation|二次谐波产生]]、[[../concepts/neel-vector|奈尔矢量]]、[[../concepts/anomalous-hall-effect|反常霍尔效应]]、[[../concepts/magnetic-point-group|磁点群]]、[[../concepts/d0-rule|d⁰规则]]
   - 实体 [[../entities/VASP]]、[[../entities/Wannier90]]、[[../entities/Fe3GeTe2]]、[[../entities/VSe2]]、[[../entities/MnBi2Te4]]、[[../entities/WRFP]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/optical-spectra]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/optical-spectra]]、[[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - 年度 [[../write/2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/zhaoOpticalFingerprintsTwodimensional2024]]
 ## 📊 关键图表
-  - ![图1 层间堆叠/滑移方式与四多铁态的对称性联结](../../raw/figures/zhaoOpticalFingerprintsTwodimensional2024/fig_1_PSWKHEGL.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - ![图1 层间堆叠/滑移方式与四多铁态的对称性联结](../../raw/figures/zhaoOpticalFingerprintsTwodimensional2024/fig_1_PSWKHEGL.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：(a) 两种层间堆叠/滑移方案的示意：Case 1（单层无 P̂ 但有 M̂_z，如 VSe₂）采用 A/A 堆叠并沿扶手椅方向滑移；Case 2（单层有 P̂ 但无 M̂_z，如 MnBi₂Te₄）采用 A/B 堆叠（B = Ĉ_2z A）后再滑移。(b) 四个多铁态 P↑N↑、P↑N↓、P↓N↓、P↓N↑ 的方块图，红箭头表示上下层磁矩（奈尔矢量 N = M_top − M_bottom），绿箭头表示面外铁电极化 P。
   - **关键特征**：M̂_z 同时翻转 P 与 N（P↑N↑ ↔ P↓N↓）；T̂ 只翻转 N（P↑N↑ ↔ P↑N↓）；M̂_z T̂ 只翻转 P（P↑N↑ ↔ P↓N↑），三操作将四态联结成闭环。
   - **结论/意义**：这是全文对称性分析的基石，把"滑移产生铁电+层间 AFM"的物理图像统一为可由群论处理的抽象双层模型。
-  - ![图2 双层VSe2四多铁态的反常光电导σ^A_xy与SHG系数](../../raw/figures/zhaoOpticalFingerprintsTwodimensional2024/fig_2_ZPVW798L.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - ![图2 双层VSe2四多铁态的反常光电导σ^A_xy与SHG系数](../../raw/figures/zhaoOpticalFingerprintsTwodimensional2024/fig_2_ZPVW798L.png) → [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：双层 VSe₂（Case 1，磁点群 3m′，磁空间群 P3m′1）四多铁态的第一性原理光学谱：(a) 反常光电导 σ^A_xy 随光子能量（eV）的变化曲线；(b) SHG 张量元 χ^(2) 的 T̂-偶（even/i 型）与 T̂-奇（odd/c 型）分量实部（pm/V）随光子能量（eV）的变化。
   - **关键特征**：σ^A_xy 在 P↑N↑ 与 P↓N↓ 下曲线重合、在 P↑N↓ 与 P↓N↑ 下曲线重合且与前者反号，验证其在 M̂_z 下不变、在 T̂ 与 M̂_z T̂ 下变号；非零 SHG 偶分量为 χ_zzz、χ_xxz(=χ_xzx=χ_yyz=χ_yzy)、χ_zxx(=χ_zyy)、χ_yyy(=−χ_xxy=−χ_xyx=−χ_yxx)，奇分量满足 χ_xxx=−χ_xyy=−χ_yxy=−χ_yyx 与 χ_xyz=χ_xzy=−χ_yxz=−χ_yzx；偶面内 SHG 约为单层的 2 倍，而 T̂-奇分量显著小于单层。
   - **结论/意义**：DFT 结果与 Table I 的符号表完全吻合，证明 Kerr 信号只能区分奈尔矢量方向（两种），而 SHG 携带更丰富的多铁态指纹。
-  - ![图3 双层MnBi2Te4晶体结构、σ^A_xy及偶/奇SHG系数](../../raw/figures/zhaoOpticalFingerprintsTwodimensional2024/fig_3_67Z7B2PL.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图3 双层MnBi2Te4晶体结构、σ^A_xy及偶/奇SHG系数](../../raw/figures/zhaoOpticalFingerprintsTwodimensional2024/fig_3_67Z7B2PL.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：双层 MnBi₂Te₄（Case 2，A/B 堆叠，磁点群 3m′）的结构与光学系数：(a) P↑N↑ 态七层序列 Te–Bi–Te–Mn–Te–Bi–Te 的晶体结构侧视，红箭头标 Mn 位磁矩、绿箭头标整体面外极化；(b) 四多铁态的 σ^A_xy 随光子能量（eV）变化；(c) 四多铁态 SHG 偶、奇分量（pm/V）随光子能量（eV）变化。
   - **关键特征**：仅翻转 FE 或仅翻转 Néel 序时 σ^A_xy 变号，两者同时翻转时 σ^A_xy 不变，与 Table I 一致；双层 MnBi₂Te₄ 与双层 VSe₂ 单层磁点群不同，但双层磁点群均为 3m′，故 SHG 张量约束相同；低频区（接近 0 eV）SHG 系数异常大，作者推测与其拓扑性质有关。
   - **结论/意义**：在 Case 2 体系上再次验证对称性结论，并提示 MnBi₂Te₄ 的 SHG 可能兼作拓扑电子结构的探针。
-  - ![图4 斜入射SHG探测构型与PPP偏振分辨"六瓣花"图案](../../raw/figures/zhaoOpticalFingerprintsTwodimensional2024/fig_4_H4MUSGVJ.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图4 斜入射SHG探测构型与PPP偏振分辨"六瓣花"图案](../../raw/figures/zhaoOpticalFingerprintsTwodimensional2024/fig_4_H4MUSGVJ.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：(a) 斜入射 SHG 实验几何示意：P 偏振基频光（ω，红）以倾角入射样品，收集 P 偏振倍频光（2ω，蓝），φ 为晶体 x 轴与实验室 x′z′ 入射面之间的方位角；(b) PPP 配置下四多铁态 SHG 强度随 φ 变化的极坐标图，半径为信号强度。
   - **关键特征**：所有态均呈 Ĉ₃ 对称的"六瓣花"图案；花瓣不均匀且相对 x/y 轴有错位角，该错位角由偶/奇 SHG 系数的相对大小与相位决定；E_PPP(2ω) ∝ χ^odd_xxx cos(3φ) + χ^even_yyy sin(3φ) + 2χ^even_xxz + χ^even_zxx + χ^even_zzz，演示参数取 χ^even_yyy : χ^odd_xxx : (2χ^even_xxz + χ^even_zxx + χ^even_zzz) = 1 : 0.5 : 0.2；四态花瓣形状与偏转互不相同，可唯一识别；对照传统多铁（P̂ 联结 P↑/P↓）斜入射 SHG 无法区分正负铁电态，滑移多铁由 M̂_z 联结故可区分。
   - **结论/意义**：给出可直接用于实验的无损全光读取方案，支撑"电写-光读"存储与多铁畴成像的应用设想。

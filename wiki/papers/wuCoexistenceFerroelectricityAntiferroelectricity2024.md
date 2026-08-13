@@ -15,7 +15,7 @@ concepts: [multiferroicity, magnetoelectric-coupling, 2D-materials, polarization
 entities: [BiFeO3, h-BN, VASP, domain-wall, NiI2, graphene]
 methods: [dft, stem, raman-spectroscopy, mcd-rmcd, ferroelectric-hysteresis, pxrd, monte-carlo, atomistic-spin-simulation, kai-model, magneto-optical-electric-joint-measurement, cvt-synthesis, polarization-current-loops]
 materials: [NiI2, h-BN, graphene, BiFeO3]
-figures: [crystal-structures, electronic-bands, optical-spectra, domain-walls, mathematical-models, experimental-setups]
+figures: [crystal-structures-bulk, domain-walls-structures, domain-walls-switching-properties]
 领域基础知识:: >-
   多铁性材料（Multiferroics）指同时具有铁电序（或反铁电序）和磁序的材料，能够实现电场与磁场的相互调控，在低功耗存储器、传感器和逻辑器件等领域有巨大应用前景。传统单相多铁材料稀少，而二维范德华（vdW）材料的兴起为探索新机理和新体系提供了平台。铁电性（Ferroelectricity）的核心是存在可被外电场翻转的自发电极化，而反铁电性（Antiferroelectricity）则表现为相邻偶极子反平行排列，可在强电场下诱导出铁电相。
 研究背景:: >-
@@ -103,7 +103,7 @@ Yangliu Wu, Zhaozhuo Zeng, Haipeng Lu, Xiaocang Han, Chendi Yang, Nanshu Liu, Xi
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/polarization-switching]]、[[../concepts/topological-defects]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/antiferroelectricity|反铁电性]]、[[../concepts/type-ii-multiferroics|第二类多铁]]、[[../concepts/knb-mechanism|KNB机制]]、[[../concepts/inverse-dzyaloshinskii-moriya|逆DM相互作用]]、[[../concepts/bimeron|双半子]]、[[../concepts/spin-flop|自旋翻转]]、[[../concepts/kai-model|KAI模型]]
   - 实体 [[../entities/BiFeO3]]、[[../entities/h-BN]]、[[../entities/VASP]]、[[../entities/domain-wall]]、[[../entities/NiI2|三碘化镍]]、[[../entities/graphene|石墨烯]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/optical-spectra]]、[[../figures/domain-walls]]、[[../figures/mathematical-models]]、[[../figures/experimental-setups]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/domain-walls]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - 年度 [[../write/2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/wuCoexistenceFerroelectricityAntiferroelectricity2024]]
@@ -111,19 +111,19 @@ Yangliu Wu, Zhaozhuo Zeng, Haipeng Lu, Xiaocang Han, Chendi Yang, Nanshu Liu, Xi
   - `helical-spin-order` / `non-collinear-magnetism`（螺旋自旋序/非共线磁性）：NiI₂ 中 q‖[210] 的螺旋磁态，是铁电极化来源。
   - 方法/平台 `magneto-optical-electric-joint-measurement`（MOEJSI，磁-光-电联合测量系统）：Witec Alpha 300R + 7T 超导磁体 + 10 K 低温台 + 铁电测试仪，空间分辨率 ~590 nm。
 ## 📊 关键图表
-  - ![三层NiI2三明治器件、菱方晶体结构、STEM、圆偏振拉曼、MCD光谱](../../raw/figures/wuCoexistenceFerroelectricityAntiferroelectricity2024/fig_110_EBMFYQCQ.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![三层NiI2三明治器件、菱方晶体结构、STEM、圆偏振拉曼、MCD光谱](../../raw/figures/wuCoexistenceFerroelectricityAntiferroelectricity2024/fig_110_EBMFYQCQ.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
     - **图示描述**：图1从结构与磁性两个角度确认三层 NiI₂ 的样品质量与磁基态，包含五个子图：(a) Gr/hBN/NiI₂/Gr/hBN 三明治器件爆炸示意图；(b) 菱方（rhombohedral）晶体结构，Ni²⁺ 被 I⁻ 八面体包围、三层 (I–Ni–I) 为重复单元沿 c 轴错位堆垛；(c) 原子分辨率 ADF-STEM 图与 FFT 插图；(d) 室温圆偏振拉曼光谱；(e) 10 K 下 +3 T、0 T、−3 T 的白光 MCD 光谱。
     - **关键特征**：STEM 测得 (110) 面间距 1.9 Å，与菱方相吻合；拉曼在 ~124.7 cm⁻¹（A₁g 声子模）和 ~20 cm⁻¹（层间剪切模 SM）出现两个特征峰，SM 的存在是三层厚度的指纹；10 K 时 ~30 cm⁻¹ 磁振子模与 ~78 cm⁻¹ Eg 模在 ~35 K 同时消失，对应磁转变温度 TN ≈ 35 K；MCD 在 ~2.3 eV 出现一对随磁场反向而反转的相反符号峰，0 T 时零剩磁，直接证明 10 K 下为反铁磁基态；2.3 eV/2.33 eV 被选定为后续 RMCD 工作光子能量。
     - **结论/意义**：此图建立了"高质量三层菱方 NiI₂ + 10 K 反铁磁基态"的结构与磁性基线，并解释了三明治封装（hBN 抑漏、石墨烯作电极）是后续铁电电滞回线可测的前提。
-  - ![RMCD成像显示类双半子磁畴及非共线反铁磁磁滞回线](../../raw/figures/wuCoexistenceFerroelectricityAntiferroelectricity2024/fig_2_MJWI3AEA.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![RMCD成像显示类双半子磁畴及非共线反铁磁磁滞回线](../../raw/figures/wuCoexistenceFerroelectricityAntiferroelectricity2024/fig_2_MJWI3AEA.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]
     - **图示描述**：图2用极向 RMCD 显微术成像三层 NiI₂ 的面外磁畴与磁滞行为：(a) 10 K 下 −0.75 T、0 T、+0.75 T 的 RMCD 扫描图；(b) 单个类"双半子（bimeron）"畴的放大 RMCD 图配自旋纹理示意（颜色表 Sz，箭头表面内自旋）；(c) 沿白线的 RMCD 截面线扫；(d) 在图 a 黑圈区域采集的 ±3 T RMCD 磁滞回线，红/蓝曲线分别对应升/降场。
     - **关键特征**：RMCD 强度正比于面外磁化 Mz，亮暗斑代表自旋向上/向下磁畴，且两者成对出现，尺度在微米级；核心区自旋向上或向下、向边缘逐渐归零，符合摆线基态中一对相反手性的 meron–antimeron（拓扑半子对）纹理；该织构在整个 −0.75 至 +0.75 T 扫描范围内稳定，作者归因于拓扑保护；磁滞回线在 0 T 附近信号被抑制至零（零剩磁），±1.2 至 ±2.6 T 区间缓慢上升，呈现典型 spin-flop 平台，说明层间反铁磁耦合下存在复杂的非共线自旋。
     - **结论/意义**：这是三层 NiI₂ 中非共线反铁磁序和拓扑磁畴的直接成像证据，为后续"螺旋磁序 → 铁电极化"和"手性畴交错 → 反铁电"的理论图像提供了实验对象。
-  - ![不同频率下P-E/I-E电滞回线（FE→AFE演化）及螺旋磁序-极化模型与原子自旋模拟](../../raw/figures/wuCoexistenceFerroelectricityAntiferroelectricity2024/fig_3_Z8PFBKB9.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![不同频率下P-E/I-E电滞回线（FE→AFE演化）及螺旋磁序-极化模型与原子自旋模拟](../../raw/figures/wuCoexistenceFerroelectricityAntiferroelectricity2024/fig_3_Z8PFBKB9.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]
     - **图示描述**：图3是全文核心，把电学测量和理论模型并置：(a) 不同频率（6.7、3.3、1.3 Hz）下器件1的 P–E 电滞回线；(b) 对应 I–E 回线；(c) 扣除线性背景、经洛伦兹拟合后的 I–E 回线；(d)(e) DFT 给出的螺旋磁构型俯视与侧视，粉色箭头 q 为自旋传播矢量（面内沿 [210]，与 a 轴成 30°），绿色箭头 e 为自旋旋转轴（面内垂直 a 轴），展示层间 AFM 耦合与面外 P；(f)(g)(h) 原子级自旋模型得到的 Sz 条纹畴、对应的 Pz 铁电偶极纹理，以及反铁电畴放大图。
     - **关键特征**：6.7 Hz 时 P–E 为矩形铁电回线、I–E 出现一对尖锐翻转电流峰（FE 畴翻转）；1.3 Hz 时 P–E 演化为双电滞回线、I–E 出现两对峰，分别对应 AFE↔FE 场致相变；3.3 Hz 介于两者之间；按 KNB/逆 DM 关系 P = γ e × q，q 与 e 的几何产生沿 c 轴的面外极化，与实验一致；模拟中相反手性的螺旋磁畴产生相反 Pz 的铁电畴（红/黑虚线框），过渡区相反 Pz 偶极交错排列（图 h 浅蓝虚线圈），宏观净极化为零，即反铁电畴。
     - **结论/意义**：此图给出二维极限下铁电/反铁电共存与频率依赖演化的决定性证据，并从微观上把 AFE 起源解释为相反手性磁畴的空间交错，同时驳斥了"SHG/LD 即可判定铁电"的做法。
-  - ![磁场调控剩余极化、矫顽场与KAI模型翻转时间](../../raw/figures/wuCoexistenceFerroelectricityAntiferroelectricity2024/fig_4_VPPFAFF4.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![磁场调控剩余极化、矫顽场与KAI模型翻转时间](../../raw/figures/wuCoexistenceFerroelectricityAntiferroelectricity2024/fig_4_VPPFAFF4.png) → [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
     - **图示描述**：图4量化磁电耦合：(a–c) 16.4、24.5、36.6 Hz 三个频率下面外磁场 H‖c 中剩余极化 Pr 随 μ₀H 的变化（误差棒为均值标准误差）；(d) 磁控率 (Pr−Pr₀)/Pr₀ 在频率-磁场平面的二维相图；(e) 不同磁场下的 I–E 回线显示翻转电流峰漂移；(f)(g) 用 KAI（Kolmogorov–Avrami–Ishibashi）模型对 −ln(1−ΔP(t)/2Pr) 与时间关系的拟合；(h) 归一化翻转时间 (τ−τ₀)/τ₀ 随磁场的变化。
     - **关键特征**：Pr 在所有频率下随 |H| 单调下降；24.5 Hz、7 T 时磁控率达到约 −7%，呈现第二类多铁的典型特征；电流峰随磁场减弱并向更高电场漂移，即矫顽电场增大、翻转更"困难"；KAI 拟合给出翻转时间 τ 随 |H| 增加而增加，在 −7 T 时最大增幅约 20%，且对 H 呈偶对称；微观上 H‖c 使自旋从横向螺旋（e‖b, P‖c）转为横向锥形（e‖H‖c），P 由 ‖c 重取向至 ‖b，从而压低面外 Pr；补充数据还显示面内磁场沿不同方位角可分别减小或增大 Pr，对应 e 与 q 夹角的减小/增大。
     - **结论/意义**：此图从静态 Pr、矫顽场和动力学翻转时间三个维度直接证明磁场可调控铁电行为，把宏观磁控比与 KNB 微观几何（e × q）对应起来，确立了少层 NiI₂ 作为二维磁电耦合平台的地位。
@@ -155,7 +155,7 @@ Yangliu Wu, Zhaozhuo Zeng, Haipeng Lu, Xiaocang Han, Chendi Yang, Nanshu Liu, Xi
   3. MCD 在 2.3 eV 处出现随磁场反转的一对相反符号峰，0 T 时零剩磁，直接证明 10 K 下为反铁磁基态；2.33 eV 激光用于 RMCD 成像，RMCD 强度正比于面外磁化。
   4. RMCD 扫描在三层及其他少层 NiI₂ 中观测到微米尺度、成对出现的类"[[../concepts/bimeron|双半子]]（bimeron）"拓扑磁畴：核心区面外自旋向上/向下，向边缘逐渐归零，被解释为摆线基态中一对相反手性的 meron–antimeron；在 -0.75 至 +0.75 T 范围内稳定，可能受拓扑保护。
   5. RMCD 磁滞回线在 0 T 附近信号被抑制（零剩磁），在 ±1.2–2.6 T 区间缓慢上升，为典型的 spin-flop 行为，表明[[../entities/CrI3|层间反铁磁]]耦合并存复杂的非共线自旋。
-  6. 器件采用 Gr/hBN/NiI₂/Gr/hBN 三明治结构：hBN 作为绝缘层抑制漏电流（纯 hBN 仅给出线性 P–E 与矩形 I–E），[[../entitys/graphene|石墨烯]]作电极；总电荷 Q = 2Pr·A(NiI₂) + σE·A·t(hBN)，hBN 线性背景不影响铁电特征。
+  6. 器件采用 Gr/hBN/NiI₂/Gr/hBN 三明治结构：hBN 作为绝缘层抑制漏电流（纯 hBN 仅给出线性 P–E 与矩形 I–E），[[../entities/graphene|石墨烯]]作电极；总电荷 Q = 2Pr·A(NiI₂) + σE·A·t(hBN)，hBN 线性背景不影响铁电特征。
   7. 频率依赖的 P–E/I–E 回线是 FE/AFE 共存的决定性证据：6.7 Hz 时单对尖锐翻转电流峰+矩形 P–E（铁电）；1.3 Hz 时双对峰（AFE↔FE 相变）+双电滞回线（反铁电）；3.3 Hz 介于两者之间。该行为在另一少层样品与类体相样品中重复出现。
   8. DFT 表明三层 NiI₂ 磁基态为螺旋自旋，q 矢量面内投影沿 [210]（与 a 轴成 30°），e 矢量面内投影垂直于 a 轴；自旋旋转面取向主要由 Kitaev 相互作用决定；层间 AFM 耦合源于较大的第二近邻层间交换参数；按 KNB/逆 DM 关系 P = γ e × q，q 与 e 的几何产生面外（c 轴）铁电极化，与实验一致。
   9. 原子级自旋模型（有效场、大超胞）给出条纹状螺旋磁畴；不同手性的螺旋磁畴简并但产生相反 Pz，构成反向[[../concepts/ferroelectric-domain|铁电畴]]；在过渡区相反 Pz 局域偶极交错排列，形成净极化为零的反铁电畴，从微观上解释了 FE/AFE 共存；不同类型畴的翻转动力学差异解释了频率依赖的 FE→AFE 演化。

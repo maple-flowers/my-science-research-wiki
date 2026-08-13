@@ -15,7 +15,7 @@ concepts: [mechanoluminescence, concentration-quenching, radiation-induced-defec
 entities: [Ba3VO4-2, europium-dopant, Co-60, PMT, storage-oscilloscope, JCPDS]
 methods: [solid-state-reaction, xrd, gamma-irradiation, impact-mechanoluminescence, pmt-oscilloscope, bandpass-filter-spectroscopy]
 materials: [Ba3VO4-2-Eu, BaCO3, V2O5, Eu2O3]
-figures: [optical-spectra, experimental-setups, experimental-setups-spectroscopy-diffraction]
+figures: []
 领域基础知识:: >-
   固态照明（SSL）技术利用发光二极管和荧光粉组合产生白光。机械发光（Mechanoluminescence, ML）是指材料在机械力作用下发光的现象，其机理通常涉及辐射诱导缺陷对电荷的俘获和机械力作用下的释放与复合。
 研究背景:: >-

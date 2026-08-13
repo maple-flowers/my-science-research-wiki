@@ -1,167 +1,176 @@
-# 振动能谱与声子谱 (Vibrational & Phonon Spectra)
-
-> 收录声子色散、声子态密度、红外与拉曼活性振动模式相关的图表、数据表及物理公式。原始聚合中绝大多数条目为 Zotero 元数据表与 AI 双语转写，清理后保留与振动能谱/第一性原理计算相关的真实数据表。
-
-[[科研Wiki/wiki/figures/_index|← 返回总索引]]
-
+---
+tags:
+  - type/figure-collection
 ---
 
-## 🧮 第一性原理方法验证数据 (First-Principles Benchmark Data)
+# 振动光谱
 
-### 1. 分子原子化能基准：PBE 与 PW91 泛函对比
-PBE GGA 对 20 个小分子的原子化能计算与 UHF、LSD、PW91 及实验值的系统对比，实验值已扣除零点振动能。
+> 声子谱、拉曼光谱、红外光谱、振动模式
 
-<table><thead><tr><th style="text-align:left">System</th><th style="text-align:left">$D_E$ UHF</th><th style="text-align:left">$D_E$ LSD</th><th style="text-align:left">$D_E$ PW91</th><th style="text-align:left">$D_E$ PBE</th><th style="text-align:left">$D_E$ expt</th></tr></thead><tbody><tr><td style="text-align:left">$\text{H}_2$</td><td style="text-align:left">84</td><td style="text-align:left">113</td><td style="text-align:left">105</td><td style="text-align:left">105</td><td style="text-align:left">109</td></tr><tr><td style="text-align:left">$\text{LiH}$</td><td style="text-align:left">33</td><td style="text-align:left">60</td><td style="text-align:left">53</td><td style="text-align:left">52</td><td style="text-align:left">58</td></tr><tr><td style="text-align:left">$\text{CH}$</td><td style="text-align:left">328</td><td style="text-align:left">462</td><td style="text-align:left">421</td><td style="text-align:left">420</td><td style="text-align:left">419</td></tr><tr><td style="text-align:left">$\text{NH}$</td><td style="text-align:left">201</td><td style="text-align:left">337</td><td style="text-align:left">303</td><td style="text-align:left">302</td><td style="text-align:left">297</td></tr><tr><td style="text-align:left">$\text{OH}$</td><td style="text-align:left">68</td><td style="text-align:left">124</td><td style="text-align:left">110</td><td style="text-align:left">110</td><td style="text-align:left">107</td></tr><tr><td style="text-align:left">$\text{H}_2\text{O}$</td><td style="text-align:left">155</td><td style="text-align:left">267</td><td style="text-align:left">235</td><td style="text-align:left">234</td><td style="text-align:left">232</td></tr><tr><td style="text-align:left">$\text{HF}$</td><td style="text-align:left">97</td><td style="text-align:left">162</td><td style="text-align:left">143</td><td style="text-align:left">142</td><td style="text-align:left">141</td></tr><tr><td style="text-align:left">$\text{Li}_2$</td><td style="text-align:left">23</td><td style="text-align:left">20</td><td style="text-align:left">19</td><td style="text-align:left">24</td><td style="text-align:left">24</td></tr><tr><td style="text-align:left">$\text{LiF}$</td><td style="text-align:left">89</td><td style="text-align:left">153</td><td style="text-align:left">137</td><td style="text-align:left">136</td><td style="text-align:left">139</td></tr><tr><td style="text-align:left">$\text{Be}_2$</td><td style="text-align:left">27</td><td style="text-align:left">13</td><td style="text-align:left">10</td><td style="text-align:left">10</td><td style="text-align:left">3</td></tr><tr><td style="text-align:left">$\text{C}_2\text{H}_2$</td><td style="text-align:left">294</td><td style="text-align:left">460</td><td style="text-align:left">415</td><td style="text-align:left">415</td><td style="text-align:left">405</td></tr><tr><td style="text-align:left">$\text{C}_2\text{H}_4$</td><td style="text-align:left">428</td><td style="text-align:left">633</td><td style="text-align:left">573</td><td style="text-align:left">571</td><td style="text-align:left">563</td></tr><tr><td style="text-align:left">$\text{HCN}$</td><td style="text-align:left">199</td><td style="text-align:left">361</td><td style="text-align:left">326</td><td style="text-align:left">326</td><td style="text-align:left">312</td></tr><tr><td style="text-align:left">$\text{CO}$</td><td style="text-align:left">174</td><td style="text-align:left">299</td><td style="text-align:left">269</td><td style="text-align:left">269</td><td style="text-align:left">259</td></tr><tr><td style="text-align:left">$\text{N}_2$</td><td style="text-align:left">115</td><td style="text-align:left">267</td><td style="text-align:left">242</td><td style="text-align:left">243</td><td style="text-align:left">229</td></tr><tr><td style="text-align:left">$\text{NO}$</td><td style="text-align:left">53</td><td style="text-align:left">199</td><td style="text-align:left">171</td><td style="text-align:left">172</td><td style="text-align:left">153</td></tr><tr><td style="text-align:left">$\text{O}_2$</td><td style="text-align:left">33</td><td style="text-align:left">175</td><td style="text-align:left">143</td><td style="text-align:left">144</td><td style="text-align:left">121</td></tr><tr><td style="text-align:left">$\text{F}_2$</td><td style="text-align:left">237</td><td style="text-align:left">78</td><td style="text-align:left">54</td><td style="text-align:left">53</td><td style="text-align:left">39</td></tr><tr><td style="text-align:left">$\text{P}_2$</td><td style="text-align:left">36</td><td style="text-align:left">142</td><td style="text-align:left">120</td><td style="text-align:left">120</td><td style="text-align:left">117</td></tr><tr><td style="text-align:left">$\text{Cl}_2$</td><td style="text-align:left">17</td><td style="text-align:left">81</td><td style="text-align:left">64</td><td style="text-align:left">63</td><td style="text-align:left">58</td></tr><tr><td style="text-align:left"><strong>Mean abs. error</strong></td><td style="text-align:left"><strong>71.2</strong></td><td style="text-align:left"><strong>31.4</strong></td><td style="text-align:left"><strong>8.0</strong></td><td style="text-align:left"><strong>7.9</strong></td><td style="text-align:left">$\dots$</td></tr></tbody></table>
+## 条目
 
-*   **来源**：[[../papers/perdewGeneralizedGradientApproximation1996a]]
-*   **关键特征**：PBE 平均绝对误差 7.9 kcal/mol，与 PW91（8.0）持平、远优于 LSD（31.4）和 UHF（71.2）；振动零点能已从实验值中扣除。
-*   **另见**：同表亦收录于 [[crystal-structures#📊 关键数据表格 (Key Data Tables)|晶体结构与原子排布]]。
+### 1. 式4 电子-声子耦合矩阵元 Δ_Q^k
+![式4 电子-声子耦合矩阵元 Δ_Q^k](../../raw/figures/Barnett2006coexistence/eq_4_BPDHU8NX.png)
+*   **来源**：[[../papers/Barnett2006coexistence]]
+*   **图示描述**：微扰矩阵元 Δ_Q^k = −u e^{−iφ} Σ_R γ_|R| (e^{−iQ·R}−1) e^{−ik·R} Q̂·R̂，假设跃迁变化与相邻原子距离改变成正比。
+*   **关键特征**：R 求和遍历次近邻，γ_|R|=2（能量/距离）为电子-声子耦合常数；稳健性检验中加入 γ₁≈γ₂/3（对应 t₁≈t₂/3），费米面仍不打开全局准粒子能隙。
 
-### 2. 泛函-赝势组合拉曼误差基准
-系统对比不同交换关联泛函与赝势组合对拉曼活性模频率的计算精度，为第一性原理拉曼计算提供方法学参考。
+### 2. 表1 峰值波长与吸光度
+![表1 峰值波长与吸光度](../../raw/figures/Blessing2026optical/tab_1_26GLALFU.png)
+*   **来源**：[[../papers/Blessing2026optical]]
+*   **图示描述**：横轴为波长 200–1000 nm，纵轴为吸光度 A (a.u.)，四条曲线分别对应 10 V、11 V、12 V、13 V 沉积的 SnTe 薄膜。所有样品均在紫外区出现峰值，随后随波长向可见-近红外延伸而逐渐下降。
+*   **关键特征**：11 V 样品在 321 nm 处吸光度最高（A=1.2077 a.u.），12 V 次之（350 nm, A=1.1071 a.u.），10 V（340 nm, A=0.9707 a.u.）与 13 V（330 nm, A=0.9651 a.u.）接近；电压-吸光度呈非单调关系，提示 11 V 附近存在薄膜光密度"甜点"。
 
-![表：泛函-赝势组合拉曼误差基准](../../raw/figures/chowdhuryReviewTheoreticalComputational/tab_2_2GIU5ZQ2.png)
-*   **来源**：[[../papers/chowdhuryReviewTheoreticalComputational]]
-*   **关键特征**：不同泛函-赝势组合的拉曼频率误差系统对比，指导计算方法选择。
+### 3. 图2 透射率-波长关系
+![图2 透射率-波长关系](../../raw/figures/Blessing2026optical/fig_2_XHH25RF2.png)
+*   **来源**：[[../papers/Blessing2026optical]]
+*   **图示描述**：横轴为波长 200–1000 nm，纵轴为吸光度 A (a.u.)，四条曲线分别对应 10 V、11 V、12 V、13 V 沉积的 SnTe 薄膜。所有样品均在紫外区出现峰值，随后随波长向可见-近红外延伸而逐渐下降。
+*   **关键特征**：11 V 样品在 321 nm 处吸光度最高（A=1.2077 a.u.），12 V 次之（350 nm, A=1.1071 a.u.），10 V（340 nm, A=0.9707 a.u.）与 13 V（330 nm, A=0.9651 a.u.）接近；电压-吸光度呈非单调关系，提示 11 V 附近存在薄膜光密度"甜点"。
 
----
+### 4. 图3 反射率-波长关系
+![图3 反射率-波长关系](../../raw/figures/Blessing2026optical/fig_3_CH8LJZUF.png)
+*   **来源**：[[../papers/Blessing2026optical]]
+*   **图示描述**：横轴为波长 200–1000 nm，纵轴为吸光度 A (a.u.)，四条曲线分别对应 10 V、11 V、12 V、13 V 沉积的 SnTe 薄膜。所有样品均在紫外区出现峰值，随后随波长向可见-近红外延伸而逐渐下降。
+*   **关键特征**：11 V 样品在 321 nm 处吸光度最高（A=1.2077 a.u.），12 V 次之（350 nm, A=1.1071 a.u.），10 V（340 nm, A=0.9707 a.u.）与 13 V（330 nm, A=0.9651 a.u.）接近；电压-吸光度呈非单调关系，提示 11 V 附近存在薄膜光密度"甜点"。
 
-## 🧲 二维多铁材料体系综述 (2D Multiferroic Systems Overview)
+### 5. 图4 Tauc图(αhν)² vs hν
+![图4 Tauc图(αhν)² vs hν](../../raw/figures/Blessing2026optical/fig_4_7VKS6R9V.png)
+*   **来源**：[[../papers/Blessing2026optical]]
+*   **图示描述**：横轴为波长 200–1000 nm，纵轴为吸光度 A (a.u.)，四条曲线分别对应 10 V、11 V、12 V、13 V 沉积的 SnTe 薄膜。所有样品均在紫外区出现峰值，随后随波长向可见-近红外延伸而逐渐下降。
+*   **关键特征**：11 V 样品在 321 nm 处吸光度最高（A=1.2077 a.u.），12 V 次之（350 nm, A=1.1071 a.u.），10 V（340 nm, A=0.9707 a.u.）与 13 V（330 nm, A=0.9651 a.u.）接近；电压-吸光度呈非单调关系，提示 11 V 附近存在薄膜光密度"甜点"。
 
-### 1. 铁性序的对称性判据
-对比铁电、铁磁、铁弹三类基本铁性序对空间反演与时间反演对称性的破缺情况，是判断晶格振动与自旋、极化耦合模式的出发点。
+### 6. 图9 光学电导率-光子能量关系
+![图9 光学电导率-光子能量关系](../../raw/figures/Blessing2026optical/fig_9_QZPAV7WX.png)
+*   **来源**：[[../papers/Blessing2026optical]]
+*   **图示描述**：横轴为波长 200–1000 nm，纵轴为吸光度 A (a.u.)，四条曲线分别对应 10 V、11 V、12 V、13 V 沉积的 SnTe 薄膜。所有样品均在紫外区出现峰值，随后随波长向可见-近红外延伸而逐渐下降。
+*   **关键特征**：11 V 样品在 321 nm 处吸光度最高（A=1.2077 a.u.），12 V 次之（350 nm, A=1.1071 a.u.），10 V（340 nm, A=0.9707 a.u.）与 13 V（330 nm, A=0.9651 a.u.）接近；电压-吸光度呈非单调关系，提示 11 V 附近存在薄膜光密度"甜点"。
 
-<table><thead><tr><th>铁性类别</th><th>英文名称</th><th style="text-align:center">是否破坏空间反演对称性</th><th style="text-align:center">是否破坏时间反演对称性</th></tr></thead><tbody><tr><td>铁电性</td><td>Ferroelectricity (FE)</td><td style="text-align:center">✓</td><td style="text-align:center">✗</td></tr><tr><td>铁磁性</td><td>Ferromagnetism (FM)</td><td style="text-align:center">✗</td><td style="text-align:center">✓</td></tr><tr><td>铁弹性</td><td>Ferroelasticity</td><td style="text-align:center">✗</td><td style="text-align:center">✗</td></tr></tbody></table>
-
-*   **来源**：[[../papers/RecentAdvancesGrowth2025]]
-*   **另见**：该对称性判据的完整五类铁性序版本收录于 [[experimental-setups#🔧 器件制备流程与架构 (Device Fabrication & Architectures)|实验测试与测量装置]]。
-
-### 2. 二维样品结构表征手段
-AFM、XRD、XPS 等手段对二维多铁薄片厚度、结晶取向与化学态的判定结果。
-
-<table><thead><tr><th>表征手段</th><th>特征参数</th><th>结果</th></tr></thead><tbody><tr><td>AFM</td><td>高度轮廓</td><td>证实为单一单元层（1.8 nm）</td></tr><tr><td>XRD</td><td>θ摇摆曲线</td><td>局限在半极宽度84.0°–85.5°</td></tr><tr><td>XPS</td><td>化学态</td><td>形成Cr₂S₃及Al-S键（连接单层或基底）</td></tr></tbody></table>
-
-*   **来源**：[[../papers/RecentAdvancesGrowth2025]]
-
-### 3. 二维多铁材料制备方法比较
-机械剥离、液相剥离、CVD、CVT 等自顶向下/自底向上制备路线的优缺点及典型材料。
-
-<table><thead><tr><th>方法</th><th>类别</th><th>优点</th><th>局限</th><th>典型材料</th></tr></thead><tbody><tr><td>机械剥离</td><td>自顶向下</td><td>高结晶质量清洁表面</td><td>厚度/尺寸无法控制、产率低</td><td>石墨烯、TMDs</td></tr><tr><td>液相剥离</td><td>自顶向下</td><td>产量可行、利用率高</td><td>薄片尺寸有限、溶剂/离子残留</td><td>石墨烯、金属片</td></tr><tr><td>化学气相沉积(CVD)</td><td>自底向上</td><td>生长控制好、尺寸大、质量高</td><td>真空条件控制复杂</td><td>Cr₂S₃、CuCrSe₂</td></tr><tr><td>化学气相传输(CVT)</td><td>自底向上</td><td>高纯单晶、多晶及其设备，层厚控制清洗</td><td>易形成较大的原始粉末</td><td>NiI₂、CuCrP₂S₆</td></tr></tbody></table>
-
-*   **来源**：[[../papers/RecentAdvancesGrowth2025]]
-
-### 4. 多铁效应的器件应用方向
-磁电耦合在非易失存储、自旋电子、传感器、能量收集、微波/RF 等领域的关键指标与器件形态。
-
-<table><thead><tr><th>应用类别</th><th>依托效应</th><th>关键指标/器件</th></tr></thead><tbody><tr><td>非易失存储</td><td>铁电极化+自旋的ME</td><td>四态隧道效应、磁性切换</td></tr><tr><td>自旋电子</td><td>磁电耦合</td><td>自旋场效应晶体管、多铁隧道结</td></tr><tr><td>传感器</td><td>磁电效应</td><td>磁场感知探测器</td></tr><tr><td>制动器</td><td>压电/磁致伸缩</td><td>低功耗柔性致动</td></tr><tr><td>能量收集</td><td>磁电耦合</td><td>复合电压压电/磁致伸缩材料</td></tr><tr><td>微波/RF</td><td>磁电效应</td><td>可调滤波器、天线、FMR调谐</td></tr><tr><td>相移器</td><td>电磁耦合</td><td>微波相控阵雷达、通讯</td></tr></tbody></table>
-
-*   **来源**：[[../papers/RecentAdvancesGrowth2025]]
-*   **另见**：同表的 markdown 版本收录于 [[electronic-devices#🔌 器件应用与分类 (Device Applications & Categories)|电子与突触器件]]，HTML 版本收录于 [[experimental-setups#🔧 器件制备流程与架构 (Device Fabrication & Architectures)|实验测试与测量装置]]。
-
----
-
-## 🔬 拉曼光谱实验表征 (Experimental Raman Spectroscopy)
-
-### 1. 多模式结构/光学综合表征
-XRD、FTIR、Raman 与 PL 光致发光谱联用，对材料结构与光学性质进行综合表征。
-
-![图：XRD、FTIR、Raman与PL结构/光学表征](../../raw/figures/Tobeiha2025optical/fig_2_KXGPCBPJ.png)
+### 7. 图2 XRD、FTIR、Raman与PL结构/光学表征
+![图2 XRD、FTIR、Raman与PL结构/光学表征](../../raw/figures/Tobeiha2025optical/fig_2_KXGPCBPJ.png)
 *   **来源**：[[../papers/Tobeiha2025optical]]
-*   **关键特征**：拉曼谱与 XRD、FTIR 互验结构相纯度，PL 谱补充光学带隙信息。
+*   **图示描述**：四子图结构-光学综合表征：(a) XRD衍射图谱，(b) FTIR红外光谱，(c) Raman拉曼光谱，(d) PL光致发光光谱（280 nm与300 nm两种激发）。
+*   **关键特征**：XRD在2θ=10°、20°、26°出现三个峰，对应GO(001)、GO/G中间相和G(002)，布拉格定律给出层间距0.83 nm、0.48 nm、0.38 nm，证实G畴与GO畴共存；FTIR在3000–3600 cm⁻¹有宽强O-H峰，1382–1746 cm⁻¹为羧基/环氧，1026 cm⁻¹为C=O，证明含氧官能团丰富、材料亲水；Raman出现D峰~1345 cm⁻¹（缺陷/sp³）、G峰~1587 cm⁻¹（sp²面内E2g）、2D峰~2668 cm⁻¹；PL在280 nm/300 nm激发下分别于378 nm/386 nm出现蓝光发射，源于sp²团簇中电子-空穴对的辐射复合。
 
-### 2. 黑砷薄膜形貌与拉曼结构表征
-SEM、TEM、HRTEM、SAED、AFM 与拉曼谱联用，全面表征二维黑砷的形貌、晶体结构与层数。
+### 8. 表II 二聚体性质对比
+![表II 二聚体性质对比](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/tab_30_9X7NQLGJ.png)
+*   **来源**：[[../papers/blochlProjectorAugmentedwaveMethod1994b]]
+*   **图示描述**：汇总 H₂、Li₂、Be₂、B₂、N₂、O₂、F₂、Fe₂ 等二聚体在 30 Ry 平面波截断下的结合能、键长、振动频率，并与当时最精确的全电子 LDA 计算并列对比。
+*   **关键特征**：PAW 键长与全电子结果偏差 <1%；振动频率偏差约 4%；结合能偏差在 0.1–0.2 eV 量级；二聚体键长短、势场非球性强，被视为对任何电子结构方法的严格测试，Fe₂ 还验证了含过渡金属体系的可靠性。
 
-![图：SEM/TEM/HRTEM/SAED/AFM/Raman 形貌与结构表征](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_2_3F3W8NM9.png)
-*   **来源**：[[../papers/shuTwoDimensionalBlackArsenic2020]]
-*   **关键特征**：拉曼峰位与层数关联，确认二维黑砷的高质量晶格结构。
-
-### 3. 石墨烯拉曼光谱与能带特征
-未应变石墨烯的蜂窝晶格、狄拉克锥能带、典型拉曼光谱及普适透射率的综合展示。
-
-![图：未应变石墨烯的蜂窝晶格、狄拉克锥能带、典型拉曼光谱及普适透射率](../../raw/figures/pengStrainEngineering2D2020/fig_4_2XE82KJJ.png)
-*   **来源**：[[../papers/pengStrainEngineering2D2020]]
-*   **关键特征**：G 峰与 2D 峰构成石墨烯拉曼指纹，2D 峰强度与形状对层数敏感。
-
-### 4. 块体 NiI₂ 变温偏振拉曼光谱
-块体 NiI₂ 在不同温度下的偏振拉曼散射谱，追踪多铁相变过程中振动模的软化与劈裂。
-
-![图：块体 NiI2 变温偏振拉曼光谱](../../raw/figures/songEvidenceSinglelayerVan2022/fig_4_8NRPR6W3.png)
-*   **来源**：[[../papers/songEvidenceSinglelayerVan2022]]
-*   **关键特征**：变温拉曼追踪电磁振子相关软模行为，揭示磁结构相变。
-
-### 5. 角分辨偏振拉曼 ARPRS
-角分辨偏振拉曼散射（ARPRS）测量，用于判定 NiI₂ 振动模的对称性归属。
-
-![图：角分辨偏振拉曼 ARPRS](../../raw/figures/songEvidenceSinglelayerVan2022/fig_5_SVSUQPWV.png)
-*   **来源**：[[../papers/songEvidenceSinglelayerVan2022]]
-*   **关键特征**：偏振角度依赖的强度调制直接反映振动模的不可约表示归属。
-
-### 6. 多层 NiI₂ 变温拉曼软模
-2 层与 3 层 NiI₂ 的变温拉曼光谱，观测维度限制下的软模演化。
-
-![图：2层/3层 NiI2 变温拉曼软模](../../raw/figures/songEvidenceSinglelayerVan2022/fig_9_VF7LAEDU.png)
-*   **来源**：[[../papers/songEvidenceSinglelayerVan2022]]
-*   **关键特征**：层数减少导致软模频率与相变温度的维度依赖位移。
-
----
-
-## 🌊 磁电振子与动态耦合 (Electromagnons & Dynamic Coupling)
-
-### 1. NiI₂ 手性螺旋与电磁振子
-NiI₂ 的晶体结构、手性磁螺旋排列及电磁振子耦合示意图。
-
-![图：NiI₂ 晶体结构、手性螺旋、电磁振子](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_1_8V5GWLM9.png)
-*   **来源**：[[../papers/gaoGiantChiralMagnetoelectric2024a]]
-*   **关键特征**：手性磁螺旋破缺空间反演对称性，诱导自旋-晶格-极化三重耦合。
-
-### 2. 电磁振子动态磁电耦合与材料对比
-电磁振子动态磁电耦合强度的测量与多材料体系对比。
-
-![图：电磁振子动态磁电耦合与材料对比](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_4_VW7A6NTD.png)
-*   **来源**：[[../papers/gaoGiantChiralMagnetoelectric2024a]]
-*   **关键特征**：NiI₂ 的磁电振子耦合强度在已知多铁材料中居于前列。
-
-### 3. 电磁振子自旋关联展开公式
-将自旋-自旋关联函数分解为静态极化与动态涨落，从而导出电磁振子耦合项。
-
-![公式：电磁振子替代 S_i^a S_j^b -> ⟨S_i^a⟩δS_j^b+δS_i^a⟨S_j^b⟩](../../raw/figures/mostovoyMultiferroicsDifferentRoutes2024/eq_15_B3WEWD6S.png)
-*   **来源**：[[../papers/mostovoyMultiferroicsDifferentRoutes2024]]
-*   **关键特征**：Hartree-Fock 型分解将双自旋涨落降阶为极化-自旋耦合，是电磁振子理论的核心步骤。
-
----
-
-## 💻 拉曼计算与振动模分析 (Raman Computation & Mode Analysis)
-
-### 1. 2H-TaS₂ 拉曼模温度依赖对比
-2H-TaS₂ 各拉曼活性模频率随温度变化的实验与计算对比汇总。
-
-![表：2H-TaS2拉曼模温度依赖对比](../../raw/figures/chowdhuryReviewTheoreticalComputational/tab_1_F2IWIW2A.png)
-*   **来源**：[[../papers/chowdhuryReviewTheoreticalComputational]]
-*   **关键特征**：温度依赖拉曼模频率与线宽的系统对比，为电荷密度波相变提供振动谱证据。
-
----
-
-## 🔧 应变与层依赖拉曼响应 (Strain & Layer-Dependent Raman Response)
-
-### 1. 应变机制拉曼峰位证据链
-AHE 曲线偏转、TEM 界面、拉曼峰位红/蓝移、XRD 晶格常数变化、DFT 交换耦合常数的综合证据链。
-
-![图：应变机制证据链：AHE 曲线偏转、TEM 界面、拉曼峰位红/蓝移、XRD 晶格常数变化、DFT 交换耦合常数](../../raw/figures/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025/fig_2_BQHGIU8F.png)
+### 9. 图2 应变机制证据链：AHE 曲线偏转、TEM 界面、拉曼峰位红/蓝移、XRD 晶格常数变化、DFT 交换耦合常数
+![图2 应变机制证据链：AHE 曲线偏转、TEM 界面、拉曼峰位红/蓝移、XRD 晶格常数变化、DFT 交换耦合常数](../../raw/figures/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025/fig_2_BQHGIU8F.png)
 *   **来源**：[[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]
-*   **关键特征**：拉曼峰位的红移/蓝移直接关联界面应变，验证应变介导磁电耦合机制。
+*   **图示描述**：图2 用六组子图构建"电学—结构—理论"完整证据链：(a)(b) 为 θH=0° 面内磁场下不同底栅极化电压的反常霍尔电阻 Rxy-B 曲线（Rxy 单位 Ω，B 单位 T）；(c) 为器件截面 TEM 图像；(d) 为 Fe₃GaTe₂ 拉曼光谱随底栅 V₂ 的演化；(e) 为 XRD 谱及插图中 a/c 晶格常数（Å）随 V₂ 的变化；(f) 为 DFT 计算的不同应变下块体 Fe₃GaTe₂ 沿 mx/mz 方向交换耦合常数。
+*   **关键特征**：负偏压（−10 V）使易磁化轴由 90° 偏至约 95°（面外分量增强），正偏压使其向面内偏转；TEM 显示 Fe₃GaTe₂ 与 P(VDF-TrFE) 形成分子级紧密、无缺陷界面；Fe₃GaTe₂ 特征峰 ~125 cm⁻¹（A1g）、~141 cm⁻¹（E²₁g）在正偏压下蓝移（压缩）、负偏压下红移（拉伸），V₂=+10 V 估算拉伸应变约 0.6–0.8%，V₂=−10 V 压缩应变约 0.4–0.5%；XRD 定量零偏 a=3.972 Å、c=16.225 Å，±10 V 下 εa≈0.5–0.8%；DFT 显示 (a+0.8%, c−0.48%) 拉伸应变下总耦合能倾向面内磁化，与实验一致。
 
-### 2. WTe₂ 层依赖拉曼剪切模
-WTe₂ 层数依赖的电滞回线、Hirshfeld 电荷及拉曼剪切模消失，以及 2H-TMDs 的堆叠/莫尔畴对比。
+### 10. 图1 体相HgX₂的滑动铁电相变：(a) PE→±P结构示意图，(b) PE-HgI₂声子谱虚频软模，(c) 双势阱翻转路径与极化演变
+![图1 体相HgX₂的滑动铁电相变：(a) PE→±P结构示意图，(b) PE-HgI₂声子谱虚频软模，(c) 双势阱翻转路径与极化演变](../../raw/figures/chenStrongSlidingFerroelectricity2024/fig_1_I9JJ25R3.png)
+*   **来源**：[[../papers/chenStrongSlidingFerroelectricity2024]]
 
-![图：WTe₂（a-e，层数依赖电滞回线/Hirshfeld电荷/拉曼剪切模消失）与 2H-TMDs（f-h，H/R堆叠/三角莫尔畴/单畴多畴回滞对比）](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_4_2X9UPMDA.png)
-*   **来源**：[[../papers/guoAdvancesTwodimensionalFerroelectric2025]]
-*   **关键特征**：拉曼剪切模随层数演化消失，标志滑移铁电相变的振动谱指纹。
+### 11. 表1 2H-TaS2拉曼模温度依赖对比
+![表1 2H-TaS2拉曼模温度依赖对比](../../raw/figures/chowdhuryReviewTheoreticalComputational/tab_1_F2IWIW2A.png)
+*   **来源**：[[../papers/chowdhuryReviewTheoreticalComputational]]
+*   **图示描述**：列出 2H-TaS₂ 多个 CDW 特征拉曼模式在不同温度下的实验频率，并与两种 DFT 模型（施加应力模拟 IC-CDW、未施加应力）逐一对比，单位 cm⁻¹。
+*   **关键特征**：施加微小应力的模型（如 CDW 模在 51 cm⁻¹）显著优于无应力模型，整体与实验吻合良好。
 
----
+### 12. 表2 泛函-赝势组合拉曼误差基准
+![表2 泛函-赝势组合拉曼误差基准](../../raw/figures/chowdhuryReviewTheoreticalComputational/tab_2_2GIU5ZQ2A.png)
+*   **来源**：[[../papers/chowdhuryReviewTheoreticalComputational]]
+*   **图示描述**：列出 GGA、LDA 等交换关联泛函与 Norm-conserving、Ultra-soft、PAW 等赝势的多种组合所计算的 TaSe₂ 单胞拉曼频率，并与实验值（cm⁻¹）对照，末行给出平均误差。
+*   **关键特征**：LDA(PW)+模守恒赝势平均误差最小（3.2 cm⁻¹），优于 GGA(PBE-PAW)（10.5 cm⁻¹）、GGA(PW)（11.2 cm⁻¹）；GGA 晶格常数更准但拉曼频率反而不如 LDA，误差互补。
 
-## 🔗 相关概念与实体 (Related Concepts & Entities)
+### 13. 表2 2H-MoS2拉曼模式的DFT(PBE-Norm)与实验对比
+![表2 2H-MoS2拉曼模式的DFT(PBE-Norm)与实验对比](../../raw/figures/chowdhuryReviewTheoreticalComputational/tab_2_2GIU5ZQ2.png)
+*   **来源**：[[../papers/chowdhuryReviewTheoreticalComputational]]
+*   **图示描述**：逐模式对比实验测得的E1g、E2g¹、E2g²、A1g拉曼峰位与GGA(PBE-Norm)计算值，并给出平均误差。
+*   **关键特征**：E1g实验136 cm⁻¹ vs 计算147.0（偏差最大）；E2g¹/E2g²实验210 vs 计算206.3；A1g实验239 vs 计算237；平均误差5.1 cm⁻¹，表明PBE可定量复现层内振动模但对层间/剪切模误差偏大。
 
-**核心概念**：[[../concepts/density-functional-theory|密度泛函理论 (DFT)]]、[[../concepts/gga-functional|广义梯度近似 (GGA)]]、[[../concepts/electron-phonon-coupling|电声耦合]]、[[../concepts/multiferroicity|多铁性]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/magnetoelectric-coupling|磁电耦合]]、[[../concepts/electromagnon|电磁振子]]、[[../concepts/spiral-magnetic-order|螺旋磁序]]、[[../concepts/soft-mode|声子软模]]、[[../concepts/strain-engineering|应变工程]]
+### 14. 图4 低温拉曼光谱与CDW振膜模式
+![图4 低温拉曼光谱与CDW振膜模式](../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_4_A8RC6ZVV.png)
+*   **来源**：[[../papers/chowdhuryReviewTheoreticalComputational]]
+*   **图示描述**：(a) 低温（<130 K）下拉曼谱出现 Amp1、Amp2、P1、P2 四个新峰；(b) 各峰频率与半高宽随温度的变化；(c) DFT 计算的原子振动可视化（Se 原子绿色圆球，箭头表示位移）。
+*   **关键特征**：Amp1/Amp2 随降温频率上升、线宽窄化、强度增大，是 CDW 序参量振幅振荡（振幅模）；P1/P2 频率和 FWHM 几乎不随温度变化、强度上升，且仅在 C-CDW 相出现（IC-CDW 中为声学支、拉曼非活性），判定为相位模。
 
-**相关材料/实体**：[[../entities/TMDs|过渡金属硫族化合物 (TMDs)]]、[[../entities/graphene|石墨烯]]、[[../entities/NiI2|NiI₂]]、[[../entities/WTe2|WTe₂]]、[[../entities/TaS2|TaS₂]]、[[../entities/Cr2S3|Cr₂S₃]]、[[../entities/CuCrP2S6|CuCrP₂S₆]]、[[../entities/CuCrSe2|CuCrSe₂]]
+### 15. 图1 蛋白质中氢键通道示意，标注 W/M/J/X
+![图1 蛋白质中氢键通道示意，标注 W/M/J/X](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_1_ZWUNGVGZ.png)
+*   **来源**：[[../papers/fornerQuantumTemperatureEffects1993]]
+*   **图示描述**：α-螺旋蛋白质中一条氢键通道的简化示意图，标出沿链轴排列的位点 n−1、n、n+1，以及氢键弹簧常数 W、位点质量 M、链内偶极耦合 J 和激子-声子耦合 X 四个核心参数。
+*   **关键特征**：仅为物理模型示意，无量纲与坐标轴；为后续哈密顿量（式 1，含 ε₀、J、M、W、X 五项）提供空间直观；三链结构中相邻链上的 C=O 振子还通过偶极-偶极项 L = 1.54 meV 耦合。
+
+### 16. 图14 不稳定铁电声子模式本征矢
+![图14 不稳定铁电声子模式本征矢](../../raw/figures/hillWhyAreThere2000a/fig_14_5IHZ4TQ3.png)
+*   **来源**：[[../papers/hillWhyAreThere2000a]]
+*   **图示描述**：两幅晶胞示意图以箭头表示 Γ 点不稳定光学声子的原子位移方向与相对振幅，(a) 为铁电型不稳定模，大的 A 位（Bi/La）阳离子与氧笼反向运动；(b) 为非铁电模，主要由赤道面氧原子转动构成。
+*   **关键特征**：BiMnO3 铁电模虚频约 82.30i cm⁻¹，约为 LaMnO3（21.1i cm⁻¹）的两倍，不稳定性显著更强；本征矢中 Mn 与氧同向移动、几乎不主导位移，与 BaTiO3 中 Ti 驱动的图像相反；这说明 BiMnO3 的铁电性由 A 位 Bi–O 共价性驱动，绕开了对 B 位 d0 的要求。
+
+### 17. 图9
+![图9](../../raw/figures/huangTwodimensionalIn2Se3Rising2022/fig_9_EZYL86NC.png)
+*   **来源**：[[../papers/huangTwodimensionalIn2Se3Rising2022]]
+*   **图示描述**：(A–B) 750 K ab initio MD 模拟 4 ps 前后结构从 α 相到 β 相的对比；(C) 触发相变的面内剪切光学声子模式示意；(D–E) 各原子亚层位移随时间变化；(F) 原子位移在各声子模式上的投影振幅随时间演化。
+*   **关键特征**：α→β 相变在约 1.5 ps 内完成，属于超快结构相变；运动方式是上两层（In(t)、Se(t)）与下三层（Se(m)、In(b)、Se(b)）作反向面内集体剪切；声子投影中只有该剪切光学模式的振幅随时间单调增长，其它模式不增长。
+
+### 18. 图4 Ti2CO2声子色散谱（无虚频，动力学稳定）
+![图4 Ti2CO2声子色散谱（无虚频，动力学稳定）](../../raw/figures/khazaeiNovelElectronicMagnetic2013/fig_2_7VHUK5LE.png)
+*   **来源**：[[../papers/khazaeiNovelElectronicMagnetic2013]]
+*   **图示描述**：完全氧终止的 Ti₂CO₂ 沿第一布里渊区高对称路径的声子色散曲线，横轴为波矢，纵轴为声子频率（THz）。
+*   **关键特征**：图中所有声学支与光学支频率均为正值，没有虚频出现；虚频意味着结构在微小扰动下会自发弛豫到更低能量构型。
+
+### 19. 图10 液态与非晶态速度自相关函数 ψ(t)：液态笼蔽振荡 vs 非晶多频叠加
+![图10 液态与非晶态速度自相关函数 ψ(t)：液态笼蔽振荡 vs 非晶多频叠加](../../raw/figures/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994/fig_10_GPYHLBTY.png)
+*   **来源**：[[../papers/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994]]
+*   **图示描述**：(a) T=1250 K 液态与 (b) 300 K 退火非晶态下，归一化速度自相关函数 ψ(t)=⟨v(0)·v(t)⟩/⟨v²⟩ 随时间（ps）的演化，用于表征原子运动的时间关联。
+*   **关键特征**：液态 ψ(t) 在快速衰减到零附近后出现阻尼振荡，振荡周期约 0.2 ps，反映周围原子构成的瞬态"笼"对中心原子的反弹；非晶态下扩散背景消失，ψ(t) 表现为多个频率叠加的持续振荡，振幅缓慢衰减，对应固体本征振动模式。
+
+### 20. 论文图4：1T-VSe₂ 与 1T-VTe₂ 单层沿 Γ-M-K-Γ 的声子色散，虚频软模标志 CDW 失稳波矢
+![论文图4：1T-VSe₂ 与 1T-VTe₂ 单层沿 Γ-M-K-Γ 的声子色散，虚频软模标志 CDW 失稳波矢](../../raw/figures/lezoualchStudyChargeDensity/fig_4_SNX492YC.png)
+*   **来源**：[[../papers/lezoualchStudyChargeDensity]]
+*   **图示描述**：用 DFPT 在 1×1 单胞中计算的 1T-VSe₂ 与 1T-VTe₂ 单层沿 Γ-M-K-Γ 高对称路径的声子色散曲线；虚频（不稳定声子模式）以负值绘制。
+*   **关键特征**：1T-VSe₂ 在 1/2 Γ-M（对应 4×1 畸变）和 3/5 Γ-K（对应 √7×√3 畸变）出现两个虚频软模；1T-VTe₂ 则在 1/2 Γ-M、1/2 Γ-K、1/3 Γ-K 处出现三个虚频，分别对应 4×1、3×√3、√21×√3 畸变，解释 VTe₂ 比 VSe₂ 更丰富的 CDW 多形态性。
+
+### 21. 图4 未应变石墨烯的蜂窝晶格、狄拉克锥能带、典型拉曼光谱及普适透射率
+![图4 未应变石墨烯的蜂窝晶格、狄拉克锥能带、典型拉曼光谱及普适透射率](../../raw/figures/pengStrainEngineering2D2020/fig_4_2XE82KJJ.png)
+*   **来源**：[[../papers/pengStrainEngineering2D2020]]
+*   **图示描述**：石墨烯的基线图，(a) 蜂窝晶格（A/B 两子格）与面内光学声子振动方向、(b) K/K′ 点处线性色散的狄拉克锥、(c) 2.41 eV 激发下典型拉曼光谱（G 峰 ~1582 cm⁻¹、2D/G′ 峰 ~2700 cm⁻¹，缺陷样出现 D 峰 ~1350 cm⁻¹）、(d) 双声子共振与 G/D/2D 峰的散射过程示意、(e) 可见光波段的普适透射率曲线。
+*   **关键特征**：未应变石墨烯在狄拉克点为零带隙，载流子为无质量狄拉克费米子；单层可见光吸收率由精细结构常数决定，πα≈2.3%，透射率 ~97.7%，与频率和偏振无关；G 峰为双重简并的面内光学声子，是后续应变分裂讨论的基准。
+
+### 22. 图5 应变石墨烯的拉曼 G/2D 峰位移与分裂、G⁺/G⁻ 本征矢量及 SERS 增强
+![图5 应变石墨烯的拉曼 G/2D 峰位移与分裂、G⁺/G⁻ 本征矢量及 SERS 增强](../../raw/figures/pengStrainEngineering2D2020/fig_5_954WAB7W.png)
+*   **来源**：[[../papers/pengStrainEngineering2D2020]]
+*   **图示描述**：(a) TB 计算的剪切+单轴应变（约 15%）下石墨烯能带，显示在狄拉克点附近打开带隙；(b–c) 单轴拉伸下 2D 峰与 G 峰的红移和分裂为 2D⁺/2D⁻、G⁺/G⁻ 子峰；(d) G⁺/G⁻ 声子本征矢量方向示意；(f–h) 石墨烯转移到粗糙银膜上同时出现 SERS 电磁增强与局部应变诱导的拉曼位移/分裂。
+*   **关键特征**：G⁺（垂直应变方向）位移率约 −10.8 cm⁻¹/%，G⁻（平行应变方向）约 −31.7 cm⁻¹/%；2D 峰单轴位移约 −64 cm⁻¹/%，双轴拉伸可达 −160.3 cm⁻¹/%；压缩应变则出现蓝移（G⁺ 约 +22.3 cm⁻¹/%）；TB 预言 12–17% 剪切+单轴应变可打开 0–0.9 eV 带隙。
+
+### 23. ED Fig.4 块体 NiI2 变温偏振拉曼光谱
+![ED Fig.4 块体 NiI2 变温偏振拉曼光谱](../../raw/figures/songEvidenceSinglelayerVan2022/fig_4_8NRPR6W3.png)
+*   **来源**：[[../papers/songEvidenceSinglelayerVan2022]]
+*   **图示描述**：a 为 XY 交叉偏振通道 30 K 到 300 K 的 waterfall 变温拉曼谱（横轴 Raman shift，单位 cm⁻¹）；中段为 XX 与 XY 通道的对比；底部为 30 K 时 Domain I 与 Domain II 上 σ⁺、σ⁻ 入射的圆偏振拉曼谱及其差值 σ⁺−σ⁻（净 ROA）。
+*   **关键特征**：T_N,1 以上仅观察到 80.2 cm⁻¹ 的 E_g 声子；T_N,1 以下出现 120.8、168.8 cm⁻¹ 单磁振子峰；T_N,2 以下低频准弹性信号（QES）硬化为 31、37 cm⁻¹ 的尖锐电磁振子模；31、37 cm⁻¹ 模在 σ⁺ 与 σ⁻ 下强度显著不对称，净 ROA 幅值大，并在 Domain I 与 Domain II 间符号相反；其余声子/磁振子峰无 ROA。
+
+### 24. ED Fig.5 角分辨偏振拉曼 ARPRS
+![ED Fig.5 角分辨偏振拉曼 ARPRS](../../raw/figures/songEvidenceSinglelayerVan2022/fig_5_SVSUQPWV.png)
+*   **来源**：[[../papers/songEvidenceSinglelayerVan2022]]
+*   **图示描述**：多子图极坐标曲线，分别给出多铁相中 31 cm⁻¹、37 cm⁻¹ 模式在 XY 构型下随样品转角的强度分布，并与纯声子/纯磁振子对称性预期对比；同时展示 80 cm⁻¹ 附近峰的高分辨线形以及 120.8、168.8 cm⁻¹ 磁振子模的温度依赖。
+*   **关键特征**：31、37 cm⁻¹ 模的极坐标图既不符合纯声子的拉曼张量也不符合纯磁振子，必须用磁振子-声子混合（电磁振子）张量拟合；80.2 cm⁻¹ E_g 声子在 T_N,2 以下分裂为 79.9 与 80.2 cm⁻¹ 两支，反映单斜畸变使简并解除；120.8、168.8 cm⁻¹ 模仅在 T_N,1 以下出现，其温度依赖与磁有序参量一致。
+
+### 25. ED Fig.9 2层/3层 NiI2 变温拉曼软模
+![ED Fig.9 2层/3层 NiI2 变温拉曼软模](../../raw/figures/songEvidenceSinglelayerVan2022/fig_9_VF7LAEDU.png)
+*   **来源**：[[../papers/songEvidenceSinglelayerVan2022]]
+*   **图示描述**：a、b 分别为 2 层和 3 层 NiI₂ 在 XY 交叉偏振构型下从高温到低温的 waterfall 变温拉曼谱，横轴 Raman shift（cm⁻¹），重点关注低频区。
+*   **关键特征**：低温下在约 38 cm⁻¹ 处出现与块材电磁振子对应的软模；该模在 2 层样品中于 25 K 以下、在 3 层样品中于 35 K 以下建立，强度随降温快速增大；这些软模出现温度与双折射 θ(T) 与 SHG 给出的 T_c（2L ≈ 30 K、3L ≈ 39 K）在同一区间。
+
+### 26. 图4 应变对声子（石墨烯G峰分裂、MoS₂ E'峰分裂）与能带（WSe₂间接-直接带隙转变、漏斗效应）的调控
+![图4 应变对声子（石墨烯G峰分裂、MoS₂ E'峰分裂）与能带（WSe₂间接-直接带隙转变、漏斗效应）的调控](../../raw/figures/yangStrainEngineeringTwodimensional2021/fig_4_KDFATFZY.png)
+*   **来源**：[[../papers/yangStrainEngineeringTwodimensional2021]]
+*   **图示描述**：(A) 单层石墨烯拉曼 G 峰随单轴应变红移并分裂为 G⁺/G⁻；(B) 单层 MoS₂ 的 E' 面内峰分裂而 A'₁ 面外峰几乎不动；(C)(D) 褶皱 MoS₂ 的光学照片与 E¹₂g 峰位 Raman mapping；(E) 双层 WSe₂ 光致发光谱随拉伸应变增强、红移；(F) "漏斗效应"示意，激子向褶皱顶部最大应变、最窄带隙处漂移复合。
+*   **关键特征**：石墨烯 G 峰在应变 >0.6% 时分裂，解除 E₂g 简并；MoS₂ 面内振动对应变更敏感，面外 A'₁ 峰基本不响应；Raman mapping 仅在褶皱处显示峰位红移，实现应变空间成像；双层 WSe₂ 拉伸下导带极小值由 K 移至 Σ，发生间接→直接带隙转变，PL 强度急剧增强；1% 拉伸使单层 MoS₂ 带隙减小约 45 meV、双层约 120 meV。
+
+### 27. 960→21 高通量筛选漏斗流程图
+![960→21 高通量筛选漏斗流程图](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_2_7QNUMABJ.png)
+*   **来源**：[[../papers/zhaoRealization2DMultiferroic2024]]
+*   **图示描述**：以漏斗式流程图呈现从 960 种非中心对称 AM₂X₄ 候选物到最终 21 种多铁体的四步高通量筛选，每一步标出通过的材料数目与判据。
+*   **关键特征**：第一步结构优化确认自发极化；第二步声子谱无虚频（104 种）+ 形成能为负（100 种）保证动力学/热力学稳定；第三步以铁电翻转势垒 < 200 meV/f.u. 并排除已报道体系，筛出 40 种稳定铁电体；第四步按磁基态再筛得 21 种多铁体（10 FM、9 AFM、2 FiM），并按磁性起源分成 type-a/b/c 三类。
+
+### 28. 图2 声子谱（45 支，无虚频）+ 模式分辨 λqν 红圈、PhDOS（Cu/O/C 及面内/面外投影）、Eliashberg 谱函数 α²F(ω) 与累积 λ(ω)=0.72、q 分辨 λq 六芒星分布
+![图2 声子谱（45 支，无虚频）+ 模式分辨 λqν 红圈、PhDOS（Cu/O/C 及面内/面外投影）、Eliashberg 谱函数 α²F(ω) 与累积 λ(ω)=0.72、q 分辨 λq 六芒星分布](../../raw/figures/zhengAnisotropicSuperconductivityTwodimensional2025/fig_2_5UQP53W8.png)
+*   **来源**：[[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]]
+*   **图示描述**：(a) 沿高对称路径的声子色散，红圈大小正比于模式分辨电-声耦合 λqν；(b) 按 Cu/O/C 原子投影的声子态密度 PhDOS；(c) 按面内（xy，红线）/面外（z，蓝线）振动投影的 PhDOS；(d) Eliashberg 谱函数 α²F(ω)（红线）与累积耦合 λ(ω)（蓝线）；(e) 整个布里渊区的 q 分辨 λq 二维分布。
+*   **关键特征**：15 原子原胞共 45 支声子（3 声学+42 光学），全布里渊区无虚频，证明动力学稳定；频率分三区——I 区 <40 meV 以 Cu、O 振动为主，II 区 40–49 meV 为 C 与 O 强混合，III 区 >49 meV 为 C 高能光学模（50–80 meV 突出 Oxy、80–174 meV 以 C 为主）；总 λ=0.72（低于 Cu3(CS)6 的 1.16），其中 I 区贡献 0.43（59.7%）、II 区约 30.6%（Cz 面外+Oxy/Oz）、III 区仅约 9.7%；(a)(e) 中 Γ 附近低能光学支红圈最大，λq 呈六重对称六角星芒分布。

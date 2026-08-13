@@ -1,0 +1,26 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# OS-specific junk
+*.swp
+*.swo
+*~
+
+# Large / regenerable intermediates (one-off, see log.md 2026-08-13)
+# tools/figure_*.json are output of figure-rebuild workflows, regenerated on demand
+tools/figure_*.json
+tools/figure_slug_map.json
+tools/stale_annotated_links.json
+tools/new_entries_*.json
+tools/new_figure_entries.json
+
+.claude/settings.local.json

@@ -15,8 +15,7 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/2019optical]]
-projects:
-  - project-6
+projects: [project-6]
 concepts:
   - evanescent-wave
   - optical-fiber-sensor
@@ -48,11 +47,7 @@ materials:
   - TiO2-SiO2-composite
   - polymer-optical-fiber
   - PEG-6000
-figures:
-  - experimental-setups
-  - mathematical-models
-  - optical-spectra
-  - calibration-curves
+figures: [electronic-devices-memory-transistors, electronic-devices-sensors, experimental-setups, mathematical-models-formulas]
 领域基础知识:: 光纤传感器利用光在光纤中传输的特性来感知外界物理量，具有抗电磁干扰、耐腐蚀等优点。其核心传感原理常基于倏逝波，即光场在纤芯-包层界面渗透到外部环境的部分，其特性会随外部介质折射率变化而改变。塑料光纤因成本低、柔韧性好，在传感领域备受关注。
 研究背景:: 传统湿度传感器存在易受电磁干扰、稳定性不足等局限。利用光纤技术，特别是通过替换光纤包层为亲水材料来开发新型湿度传感器，已成为研究热点。已有研究尝试了明胶、TiO2、PAH/SiO2等材料，但性能仍有提升空间，需要探索新的敏感材料体系和优化结构。
 作者的问题意识:: 如何开发一种基于新型亲水材料（TiO2-SiO2复合材料）的塑料光纤湿度传感器，并通过系统研究其结构参数（包层剥离长度）和构建完整的测量系统，来验证其可行性和性能？
@@ -111,41 +106,41 @@ Febrielviyanti, Harmadi, Dahyunir Dahlan, Yetria Rilda, Helmi Septaria Herlin，
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/evanescent-wave|倏逝波]]、[[../concepts/optical-fiber-sensor|光纤传感器]]、[[../concepts/humidity-sensing|湿度传感]]、[[../concepts/intensity-modulation|光强调制]]、[[../concepts/dip-coating|浸渍提拉法]]
   - 实体 [[../entities/TiO2-SiO2|TiO2-SiO2纳米复合材料]]、[[../entities/polymer-optical-fiber|聚合物光纤（POF）]]
-  - 图表 [[../figures/experimental-setups]]（图1-3 测量/系统框图）、[[../figures/mathematical-models]]（倏逝场公式 Ez=E0·exp(−z/dp)、穿透深度 dp、误差/精度公式）、[[../figures/optical-spectra]]（强度调制型光传感输出曲线）
+  - 图表 [[../figures/experimental-setups]]（图1-3 测量/系统框图）、[[../figures/mathematical-models]]（倏逝场公式 Ez=E0·exp(−z/dp)、穿透深度 dp、误差/精度公式）
   - 年度 [[../write/2019]]
   - 项目 [[../projects/project-6-humidity-sensor]]
   - 相关论文 **2019optical**
 
 ## 📊 关键图表
-  - ![图1 测量系统框图：输入-过程-输出](../../raw/figures/2019optical/fig_1_BJNL3G4F.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图1 测量系统框图：输入-过程-输出](../../raw/figures/2019optical/fig_1_BJNL3G4F.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：通用测量系统的三段式流程框图，从左到右依次为"输入（Input）→ 过程（Process）→ 输出（Output）"，对应传感器元件、信号处理单元与显示终端。
   - **关键特征**：输入即光纤传感探头，将湿度这一物理量转换为光强变化；过程为 Arduino Uno 微控制器及其内置 ADC，完成模拟电压到数字量的换算；输出为 LCD 或 PC 上显示的相对湿度数值。
   - **结论/意义**：为全文提供测量系统的概念框架，是后续图3具体工程实现的抽象模板。
-  - ![图2 光纤传感器系统示意图（光源-调制区-探测器）](../../raw/figures/2019optical/fig_2_FULPP47Y.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图2 光纤传感器系统示意图（光源-调制区-探测器）](../../raw/figures/2019optical/fig_2_FULPP47Y.png) -> [[../figures/electronic-devices-sensors|传感器与探测器]]
   - **图示描述**：引自文献[13]的通用光纤传感系统示意图，展示激光二极管光源、光纤、调制区（传感探头）、光电探测器与显示输出之间的物理连接关系。
   - **关键特征**：光从光源进入光纤，在调制区被外界湿度调制后到达光电二极管转换为电信号；调制区即包层被 TiO2-SiO2 替代的光纤段，是传感器的核心；图中清晰区分了内禀（intrinsic）与外禀（extrinsic）传感路径，本研究采用消逝场（evanescent）型内禀传感。
   - **结论/意义**：阐明了强度调制型光纤传感器的物理架构，为理解"湿度→光强→电压"的信号链提供直观模型。
-  - ![图3 湿度测量系统总体框图（激光源-TiO2-SiO2光纤-湿度腔-光电二极管-Arduino-LCD/PC）](../../raw/figures/2019optical/fig_3_KR9YLLPQ.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图3 湿度测量系统总体框图（激光源-TiO2-SiO2光纤-湿度腔-光电二极管-Arduino-LCD/PC）](../../raw/figures/2019optical/fig_3_KR9YLLPQ.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：本研究实际搭建的湿度测量系统总体框图，链路为"激光二极管光源 → TiO2-SiO2 替代包层的聚合物光纤（置于湿度腔内）→ 光电二极管探测器 → Arduino Uno → LCD/PC 显示"。
   - **关键特征**：光源为 638 nm 红色二极管激光器；光纤总长 21 cm（Autonics FD-620-10），中段包层被剥离并浸涂 TiO2-SiO2；传感段置于可控湿度腔中，水蒸气直接作用于涂层；光电二极管输出电压经 Arduino Uno（ATmega328，10 bit ADC，0–5 V 映射 0–1023）采样，并可通过以太网扩展板上传。
   - **结论/意义**：将图2的通用架构落地为完整的实验装置，体现"材料—结构—电路—软件"的系统集成思路。
-  - ![图4 剥离长度1 cm时湿度-电压关系](../../raw/figures/2019optical/fig_4_BFV9Y8WP.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图4 剥离长度1 cm时湿度-电压关系](../../raw/figures/2019optical/fig_4_BFV9Y8WP.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
   - **图示描述**：包层剥离长度为 1 cm 时，光电二极管输出电压（纵轴，V）随腔内相对湿度（横轴，% RH）变化的散点与线性拟合曲线，包含增湿与脱湿两组数据以观察迟滞。
   - **关键特征**：数据点相对分散，线性度在三种长度中最差；增湿与脱湿曲线存在明显不重合，迟滞较显著；原因在于传感区过短，光与湿敏涂层相互作用不足，信噪比偏低。
   - **结论/意义**：作为对照样本说明 1 cm 剥离长度不足以提供稳定可重复的湿度响应。
-  - ![图5 剥离长度2 cm时湿度-电压关系（最优，R²=0.982，灵敏度0.0376 V/%）](../../raw/figures/2019optical/fig_5_5XEUBXZM.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图5 剥离长度2 cm时湿度-电压关系（最优，R²=0.982，灵敏度0.0376 V/%）](../../raw/figures/2019optical/fig_5_5XEUBXZM.png) -> [[../figures/electronic-devices-sensors|传感器与探测器]]
   - **图示描述**：包层剥离长度为 2 cm、TiO2-SiO2 涂层配比 1:2 时，输出电压（V）对相对湿度（% RH）的散点图与线性拟合，同样叠加增湿/脱湿两组数据。
   - **关键特征**：数据点紧密围绕拟合直线，判定系数 R²=0.982，为三种长度中最高；拟合斜率即灵敏度 0.0376 V/%（约 37.6 mV/%）；增湿与脱湿曲线吻合最好，迟滞最小；电压随湿度升高而上升。
   - **结论/意义**：确立 2 cm 为最佳包层剥离长度，是全文筛选最优结构参数的核心证据，也是后续 ADC 校准（图7）所选用的传感器。
-  - ![图6 剥离长度3 cm时湿度-电压关系](../../raw/figures/2019optical/fig_6_GZ2SLHRB.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图6 剥离长度3 cm时湿度-电压关系](../../raw/figures/2019optical/fig_6_GZ2SLHRB.png) -> [[../figures/electronic-devices-sensors|传感器与探测器]]
   - **图示描述**：包层剥离长度为 3 cm 时输出电压（V）随相对湿度（% RH）变化的散点与拟合曲线，含增湿/脱湿两组数据。
   - **关键特征**：线性度较 2 cm 差，迟滞也更大；更长的裸露段引入额外的光传输损耗以及水分子吸/脱附动力学的非均匀性，导致响应稳定性下降；体现"剥离越长越灵敏"的直觉并不成立，存在最优窗口。
   - **结论/意义**：与图4、图5共同构成剥离长度参数扫描，证明 2 cm 是灵敏度与稳定性的平衡点。
-  - ![图7 2 cm剥离长度下湿度-ADC值校准曲线 y=0.131x−22.58，R²=0.984](../../raw/figures/2019optical/fig_7_J268S4RT.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图7 2 cm剥离长度下湿度-ADC值校准曲线 y=0.131x−22.58，R²=0.984](../../raw/figures/2019optical/fig_7_J268S4RT.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：在最优 2 cm 剥离长度下，Arduino ADC 读数（横轴，无量纲，0–1023）与标准湿度计测得的相对湿度（纵轴，% RH）之间的散点及线性拟合。
   - **关键特征**：拟合得到传递函数 y=0.131x−22.58，其中 x 为 ADC 值、y 为湿度（% RH）；斜率 0.131 为 ADC 转换系数，截距 −22.58 为系统偏移；判定系数 R²=0.984，线性度优良；该方程被写入 Arduino Uno 程序，实现实时湿度换算。
   - **结论/意义**：标志传感器从"性能表征"走向"实际测量"，是系统集成与标定的关键一步。
-  - ![表1 自制仪器与标准湿度计5点对比，平均误差2.78%](../../raw/figures/2019optical/tab_1_64NAU4YA.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![表1 自制仪器与标准湿度计5点对比，平均误差2.78%](../../raw/figures/2019optical/tab_1_64NAU4YA.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：自制光纤湿度计与标准湿度计在 5 个测试点上的读数对比表，三列分别为自制仪器读数（%）、标准湿度计读数（%）和单点误差（%）。
   - **关键特征**：自制仪器读数范围 88.8%–97.42% RH，标准湿度计对应 90.73%–99.7% RH；单点误差介于 1.7%–4.1% 之间，平均误差 2.78%；误差主要来自光纤与光电二极管的手动对准重复性差，以及光纤微弯/宏弯引入的光功率波动。
   - **结论/意义**：定量验证了整套系统的测量精度，证明方案可行但鲁棒性不足，作者据此指出传感器尚不能直接作为成熟测量仪器，需标准化封装。
@@ -153,11 +148,11 @@ Febrielviyanti, Harmadi, Dahyunir Dahlan, Yetria Rilda, Helmi Septaria Herlin，
   - **图示描述**：测量精度计算公式 An=1−[(Yn−Yo)/Yn]×100%，其中 Yn 为标准湿度计真值、Yo 为自制仪器读数。
   - **关键特征**：与误差公式 en=|(Yn−Yo)/Yn|×100%（原文公式1，未单列图）互补，用于把表1中 5 个测点的偏差换算为精度百分比；是评估系统相对于标准仪器偏离程度的统计工具。
   - **结论/意义**：为"平均误差 2.78%"这一结论提供计算依据。
-  - ![公式3 倏逝场 Ez=E0·exp(−z/dp)](../../raw/figures/2019optical/eq_3_NILGGZ7L.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式3 倏逝场 Ez=E0·exp(−z/dp)](../../raw/figures/2019optical/eq_3_NILGGZ7L.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
   - **图示描述**：倏逝波电场沿垂直纤芯—包层界面方向的衰减公式 Ez=E0·exp(−z/dp)，z 为距界面距离，E0 为界面处初始场强，dp 为穿透深度。
   - **关键特征**：电场在包层中按指数规律衰减，而非突然截止；dp 越大，倏逝场延伸到包层越远，与外界环境（吸湿后的 TiO2-SiO2 涂层）相互作用越强，导波光损耗越大；湿度通过改变涂层折射率来调制 dp，从而调制到达探测器的光强。
   - **结论/意义**：是整个传感器"湿度→折射率→穿透深度→光强"机理链条的数学基础。
-  - ![公式4 穿透深度 dp=λ/(2nπ√(sin²θ−n²))](../../raw/figures/2019optical/eq_4_4BLSJGW9.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式4 穿透深度 dp=λ/(2nπ√(sin²θ−n²))](../../raw/figures/2019optical/eq_4_4BLSJGW9.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
   - **图示描述**：倏逝波穿透深度公式 dp=λ/(2nπ√(sin²θ−n²))，λ 为光源波长（本研究 638 nm），θ 为光线在纤芯—包层界面的入射角，n 为包层与纤芯折射率之比 n_clad/n_core。
   - **关键特征**：dp 与波长 λ 成正比，与折射率比 n 及入射角 θ 成非线性关系；TiO2-SiO2 涂层吸水后 n_clad 发生变化，直接改变 dp，进而改变导波光强；原文对 n_clad 升降方向与 dp、光强之间因果的论述存在表述上的不自洽，需结合图4–6的实测趋势谨慎解读。
   - **结论/意义**：把材料的光学参数（折射率）与可测的宏观信号（光强/电压）定量联系起来，是结构优化与材料改进的理论依据。

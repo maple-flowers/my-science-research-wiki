@@ -13,8 +13,7 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Blessing2026optical]]
-projects:
-  - project-5
+projects: [project-5]
 concepts:
   - optical-band-gap
   - electrochemical-deposition
@@ -37,8 +36,10 @@ materials:
   - SnTe
   - FTO
 figures:
+  - electronic-bands-band-structures
+  - mathematical-models-formulas
   - optical-spectra
-  - mathematical-models
+  - vibrational-spectra
 领域基础知识:: Ⅳ-Ⅵ族过渡金属硫族化合物是下一代光电材料，其中碲化锡(SnTe)因窄带隙、拓扑绝缘体特性及本征p型导电性，在红外探测、热电转换和光伏领域有重要应用。半导体薄膜的制备方法（如电化学沉积）对其光学性能有关键影响。
 研究背景:: SnTe薄膜的光学性质对其光电应用至关重要，但沉积参数如何影响其光学行为尚不完全清楚。此前研究已探索多种制备方法，其中电化学沉积(ECD)因成本低、可控性好而备受关注。本研究旨在系统探究电化学沉积中，沉积电压对SnTe薄膜光学性能的调控规律。
 作者的问题意识:: 如何通过简单、可控的电化学沉积参数（特别是沉积电压）来精准调控SnTe薄膜的光学性能？不同电压下制备的薄膜，其在吸光度、透射率、反射率、光学带隙、光学电导率等关键指标上有何差异？能否筛选出最适合光伏电池吸收层或窗口层的特定电压条件？
@@ -100,57 +101,57 @@ Osolobri B.U., Ojoba C.K., Ikhioya I.L.，2026，Journal of Interdisciplinary Po
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 **Blessing2026optical**
 ## 📊 关键图表
-  ![图1 不同电压下SnTe薄膜的吸收光谱](../../raw/figures/Blessing2026optical/fig_1_TE2JAVC3.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  ![图1 不同电压下SnTe薄膜的吸收光谱](../../raw/figures/Blessing2026optical/fig_1_TE2JAVC3.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：横轴为波长 200–1000 nm，纵轴为吸光度 A (a.u.)，四条曲线分别对应 10 V、11 V、12 V、13 V 沉积的 SnTe 薄膜。所有样品均在紫外区出现峰值，随后随波长向可见-近红外延伸而逐渐下降。
   - **关键特征**：11 V 样品在 321 nm 处吸光度最高（A=1.2077 a.u.），12 V 次之（350 nm, A=1.1071 a.u.），10 V（340 nm, A=0.9707 a.u.）与 13 V（330 nm, A=0.9651 a.u.）接近；电压-吸光度呈非单调关系，提示 11 V 附近存在薄膜光密度"甜点"。
   - **结论/意义**：该图是判定 11 V 薄膜最适合做光伏吸收层的第一条证据，紫外强吸收对应带间跃迁主导。
 
-  ![图2 透射率-波长关系](../../raw/figures/Blessing2026optical/fig_2_XHH25RF2.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  ![图2 透射率-波长关系](../../raw/figures/Blessing2026optical/fig_2_XHH25RF2.png) -> [[../figures/vibrational-spectra|振动光谱]]
   - **图示描述**：纵轴为透射率 T (%)，横轴为波长 200–1000 nm，四条曲线同样对应四个沉积电压；整体趋势与吸收光谱相反，紫外区骤降，可见-近红外区回升。
   - **关键特征**：11 V 薄膜在全波段透射率均最低，与图1最高吸光度相互印证；10 V、12 V、13 V 样品在可见-近红外区透射率较高（多数波段 >60%），12 V 样品透射率居前。
   - **结论/意义**：高透射的 10/12/13 V 薄膜被作者划归窗口层或透明光电器件候选，而 11 V 的低透射强化其吸收层定位。
 
-  ![图3 反射率-波长关系](../../raw/figures/Blessing2026optical/fig_3_CH8LJZUF.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  ![图3 反射率-波长关系](../../raw/figures/Blessing2026optical/fig_3_CH8LJZUF.png) -> [[../figures/vibrational-spectra|振动光谱]]
   - **图示描述**：纵轴为反射率 R (%)，横轴为波长 200–1000 nm，四条曲线在紫外区出现低谷，向可见-近红外逐渐抬升。
   - **关键特征**：全部样品反射率整体偏低（大部分波段 <20%），12 V 薄膜反射率最高，11 V 薄膜反射率最低；与 A+T+R≈1 的能量守恒一致。
   - **结论/意义**：低反射意味着更多入射光进入活性层，对光伏有利；12 V 的"高反射+高透射"组合被建议可作透明导电层或多结电池背反射器。
 
-  ![图4 Tauc图(αhν)² vs hν](../../raw/figures/Blessing2026optical/fig_4_7VKS6R9V.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  ![图4 Tauc图(αhν)² vs hν](../../raw/figures/Blessing2026optical/fig_4_7VKS6R9V.png) -> [[../figures/vibrational-spectra|振动光谱]]
   - **图示描述**：以 (αhν)² 为纵轴、光子能量 hν (eV) 为横轴的 Tauc 图，四条曲线对应四个电压；将线性段外推至横轴截距即得光学带隙 E_g，假设直接允许跃迁 (n=2)。
   - **关键特征**：外推得到带隙 10 V=1.83 eV、11 V=1.41 eV、12 V=1.75 eV、13 V=1.90 eV；11 V 截距最靠近低能端。
   - **结论/意义**：1.41 eV 接近 Shockley–Queisser 单结电池最优带隙 (~1.4 eV)，是 11 V 薄膜成为吸收层候选的核心定量依据；但作者仅用 n=2 未论证直接带隙归属，为方法学局限。
 
-  ![图5 光学带隙随沉积电压变化(V形)](../../raw/figures/Blessing2026optical/fig_5_W46P6FBM.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  ![图5 光学带隙随沉积电压变化(V形)](../../raw/figures/Blessing2026optical/fig_5_W46P6FBM.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
   - **图示描述**：横轴为沉积电压 (10–13 V)，纵轴为从图4提取的光学带隙 E_g (eV)，四个数据点连成先降后升的 V 形曲线。
   - **关键特征**：带隙从 10 V 的 1.83 eV 急剧下降到 11 V 的 1.41 eV，再回升至 12 V 的 1.75 eV 和 13 V 的 1.90 eV，总可调范围 0.49 eV。
   - **结论/意义**：直观证明沉积电压可显著调控 SnTe 薄膜带隙；作者将 V 形归因于 11 V 处化学计量比与缺陷态最优，高电压侧过电位引入晶格应变与点缺陷使带隙展宽。
 
-  ![图7 消光系数-波长关系](../../raw/figures/Blessing2026optical/fig_7_5I8KBYU6.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  ![图7 消光系数-波长关系](../../raw/figures/Blessing2026optical/fig_7_5I8KBYU6.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：纵轴为消光系数 k（无量纲，由 k=αλ/4π 计算），横轴为波长 200–1000 nm，四条曲线对应四个电压；整体紫外高、可见-近红外低。
   - **关键特征**：11 V 样品在最宽波长范围内 k 值最高，与吸光度/吸收系数趋势一致；10/12/13 V 在可见-近红外 k 很小，对应高透明度。
   - **结论/意义**：高 k 意味着光在活性层内被快速衰减，适合吸收层；低 k 则适合光学窗口或透明电极。
 
-  ![图8 折射率-波长关系](../../raw/figures/Blessing2026optical/fig_8_66F8PD9W.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  ![图8 折射率-波长关系](../../raw/figures/Blessing2026optical/fig_8_66F8PD9W.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：纵轴为折射率 n（由反射率经 n=(1+√R)/(1−√R) 推出），横轴为波长 200–1000 nm；四条曲线均呈紫外高、长波低的正常色散。
   - **关键特征**：n 随波长增加而下降，符合 Cauchy/Sellmeier 型介电响应；不同电压下 n 的高低次序被作者解释为薄膜致密度/堆积率差异。
   - **结论/意义**：折射率数据落在已报道 SnTe 薄膜区间内，证明样品物理合理；其电压依赖性为光学涂层/抗反层设计提供参考，但缺少厚度数据使绝对值比较受限。
 
-  ![图9 光学电导率-光子能量关系](../../raw/figures/Blessing2026optical/fig_9_QZPAV7WX.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  ![图9 光学电导率-光子能量关系](../../raw/figures/Blessing2026optical/fig_9_QZPAV7WX.png) -> [[../figures/vibrational-spectra|振动光谱]]
   - **图示描述**：纵轴为光学电导率 σ (S/cm，由 σ=αhν/4π 计算)，横轴为光子能量 hν (eV)，四条曲线先升后降，出现明显峰值。
   - **关键特征**：四个样品的 σ 峰位分别在 3.74 eV (10 V)、3.86 eV (11 V)、3.54 eV (12 V)、3.54 eV (13 V)；11 V 样品峰值最高，约 2.64×10⁻³ S/cm，12 V 最低。
   - **结论/意义**：σ 直接量化光照下载流子产生与输运能力，11 V 的最高值与最窄带隙、最高吸收共同闭环证明其为最佳吸收层候选。
 
-  ![公式3 Tauc关系式](../../raw/figures/Blessing2026optical/eq_3_A6ZT7KXZ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  ![公式3 Tauc关系式](../../raw/figures/Blessing2026optical/eq_3_A6ZT7KXZ.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
   - **图示描述**：Tauc 关系式 (αhν)ⁿ = A(hν − E_g)，其中 α 为吸收系数、hν 为光子能量 (eV)、E_g 为光学带隙、A 为常数、n 为跃迁模式指数。
   - **关键特征**：本文取 n=2 对应直接允许跃迁，作图时把 (αhν)² 线性段外推至零得到 E_g；配套关系还有 λ(nm)=1240/E_g(eV)。
   - **结论/意义**：这是从吸收光谱提取图4、图5带隙数据的核心公式；但作者未论证 SnTe 薄膜确为直接带隙，亦未与 n=1/2 的间接跃迁结果对比。
 
-  ![表1 峰值波长与吸光度](../../raw/figures/Blessing2026optical/tab_1_26GLALFU.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  ![表1 峰值波长与吸光度](../../raw/figures/Blessing2026optical/tab_1_26GLALFU.png) -> [[../figures/vibrational-spectra|振动光谱]]
   - **图示描述**：列出四个电压样品的吸收峰波长 λ (nm) 与峰值吸光度 A (a.u.)，是图1数据的数值化汇总。
   - **关键特征**：10 V→340 nm/0.9707；11 V→321 nm/1.2077（最高）；12 V→350 nm/1.1071；13 V→330 nm/0.9651；峰值波长在 321–350 nm 间小幅漂移。
   - **结论/意义**：以表格形式固定图1关键读数，明确 11 V 吸光度领先，并提示峰位漂移可能来自电压诱导的化学计量比/膜厚变化。
 
-  ![表2 不同电压下的光学带隙](../../raw/figures/Blessing2026optical/tab_2_DGRMRC25.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  ![表2 不同电压下的光学带隙](../../raw/figures/Blessing2026optical/tab_2_DGRMRC25.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
   - **图示描述**：列出四个电压样品经 Tauc 外推得到的光学带隙 E_g (eV)，是图4、图5数据的数值化汇总。
   - **关键特征**：10 V=1.83 eV、11 V=1.41 eV（最低）、12 V=1.75 eV、13 V=1.90 eV（最高），整体跨度 0.49 eV。
   - **结论/意义**：1.41 eV 贴近 Shockley–Queisser 最优带隙，是判定 11 V 为光伏吸收层候选的关键定量证据；其余三个较宽带隙样品被作者建议用于窗口层或叠层电池。

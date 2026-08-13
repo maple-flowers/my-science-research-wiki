@@ -12,8 +12,7 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Doroodmand2017conjugated]]
-projects:
-  - project-6
+projects: [project-6]
 concepts:
   - hydrochromism
   - reflective-filter
@@ -57,10 +56,7 @@ materials:
   - salen-monomer
   - salicylaldehyde
   - ethylenediamine
-figures:
-  - experimental-setups
-  - vibrational-spectra
-  - optical-spectra
+figures: [electronic-devices-sensors, experimental-setups]
 领域基础知识:: 湿度是表示大气干燥程度的物理量，常用**相对湿度**表示，即空气中水汽压与饱和水汽压的百分比。湿度传感器是基于物理或化学效应，将湿度转换为可测量信号的器件，传统方法包括阻抗、电容、声表面波等。**光学湿度传感器**则是通过检测与水汽相互作用后的光信号变化（如强度、波长、相位）来工作，具有灵敏度高、抗电磁干扰等优点。**循环伏安法**是电化学中一种常用的动态电位扫描技术，用于研究电极反应过程。**导电聚合物**是可以通过化学或电化学掺杂获得导电性的有机高分子材料。
 研究背景:: 湿度检测在工业、农业、医药等领域至关重要。现有湿度传感器中，光学传感器因其高灵敏度、快响应和宽线性范围等优势受到关注。然而，当前光学湿度传感器仍面临灵敏度有限、成本高等挑战。**Salen**是一类重要的席夫碱配体，其金属配合物已被广泛研究，但基于自由Salen单体的导电聚合物及其在湿度传感中的应用尚属空白。
 作者的问题意识:: 作者旨在解决当前光学湿度传感器存在的灵敏度受限和成本高昂问题，通过开发一种基于**电合成共轭Salen聚合物**的新型**水致变色反射滤光片**，探索一种全新的、低成本、高性能地湿度传感机制与器件。
@@ -142,12 +138,12 @@ Mohammad Mahdi Doroodmand, Sina Owji，2017，*International Journal of Advanced
 
 ## 📊 关键图表
   - **图1：湿度光学传感器装置示意图**
-  - ![图1 湿度光学传感器装置示意图：1500 mL 玻璃腔、白光LED、相机、玻碳探针、IR光源、参考湿度计](../../raw/figures/Doroodmand2017conjugated/fig_1_SCVHIKUS.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图1 湿度光学传感器装置示意图：1500 mL 玻璃腔、白光LED、相机、玻碳探针、IR光源、参考湿度计](../../raw/figures/Doroodmand2017conjugated/fig_1_SCVHIKUS.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：一个 10×10×15 cm、容积约 1500 mL 的黑色玻璃密闭腔，将镀有共轭 Salen 聚合物薄膜的玻碳电极从一侧插入；另一侧以 10–20° 非镜面夹角布置白光 LED 与数码相机（AGPtek，X800），IR 光源（HG-IR1XYJ-F-1W）紧贴电极用于加热除湿，腔内还集成参考湿度计（Lutron GCH-2018）、温度计、小风扇、N₂ 进气口与超声加湿器。
   - **关键特征**：①玻碳电极同时承担 CV 电合成的工作电极与光学检测的反射镜，是整套设计的核心整合点；②相机/光源相对镜面取 10–20° 偏角，避开镜面反射、采集经聚合物滤光后的漫反射颜色信号；③腔体外壁涂黑并置于暗室，消除杂散光；④每次测试前用 IR 照射约 0.5 min、再以 2 L/min 的 N₂ 吹扫约 1 min，消除水分子残留造成的记忆效应与迟滞。
   - **结论/意义**：该装置以最低廉的白光 LED + 数码相机读出方案实现了"水致变色反射滤光片"机理，是论文区别于传统阻抗/电容式湿度传感器的硬件基础。
   - **表1：本传感器与先前报道的阻抗型湿度传感器性能对比**
-  - ![表1 本传感器与先前报道的阻抗型湿度传感器性能对比（线性度、响应/恢复时间、线性范围、迟滞）](../../raw/figures/Doroodmand2017conjugated/tab_1_7D7D2S6F.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![表1 本传感器与先前报道的阻抗型湿度传感器性能对比（线性度、响应/恢复时间、线性范围、迟滞）](../../raw/figures/Doroodmand2017conjugated/tab_1_7D7D2S6F.png) -> [[../figures/electronic-devices-sensors|传感器与探测器]]
   - **图示描述**：三列对比表——参数（线性度 R、标准偏差、t₉₀ 上升时间、恢复时间、线性范围、迟滞）、本工作数值、八篇阻抗型 RH 传感器文献（引文 [25]–[33]）的对应数值。
   - **关键特征**：①线性度 R = 0.9971，与最佳对比文献 0.9972 相当；②t₉₀ 上升时间 9.5 s，远快于阻抗型器件的 30–300 s；③恢复时间 10 s，对比文献多在 20–390 s（仅一篇为 8 s）；④线性范围 5–80% RH，与阻抗型常见区间相当，覆盖中低湿主流应用；⑤最大迟滞 7.5% RH，略劣于阻抗型最佳值 5.8–6.1% RH；⑥标准偏差 3.0%。
   - **结论/意义**：定量证明该光学传感器在响应/恢复速度上对阻抗型器件有数量级优势，但迟滞指标提示聚合物吸水-脱附仍有优化空间。

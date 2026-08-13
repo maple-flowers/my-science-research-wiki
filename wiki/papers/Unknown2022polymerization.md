@@ -6,7 +6,7 @@ year: 2022
 journal: "Research Outreach"
 doi: "10.32907/RO-132-3319244231"
 url: "https://doi.org/10.32907/RO-132-3319244231"
-paper_type: perspective
+paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Unknown2022polymerization]]
@@ -15,7 +15,7 @@ concepts: [two-photon-polymerization, fabry-perot-cavity, optical-sensing, micro
 entities: [optical-fiber, gold, photoresist]
 methods: [two-photon-polymerization, magnetron-sputtering, sem, optical-reflection-spectroscopy, fabry-perot-interferometry]
 materials: [photoresist, gold, silica-optical-fiber]
-figures: [optical-spectra, experimental-setups]
+figures: []
 领域基础知识:: >-
   光学传感、微纳制造、光纤传感器。法布里-珀罗光学腔（FPC）是一种通过两个平行反射镜间光的多光束干涉来实现高灵敏度测量的核心光学元件，其谐振波长对环境变化极其敏感。
 研究背景:: >-
@@ -129,7 +129,7 @@ Williams JC, Chandrahalim H, Suelzer JS, Usechak NG et al.，2022，Research Out
   - 谐振波长（Resonant Wavelength）
   - 折射率（Refractive Index, RI）
 ## ✏️ 可写入 Wiki 的要点
-  1. **2PP 物理机制**：飞秒激光高峰值功率使光敏树脂分子在焦点处同时吸收两个光子（等效单光子波长减半），[[../concepts/two-photon-absorption|[[../concepts/biphoton|双光子]]吸收]]概率正比于光强平方，聚合被严格限制在焦点中心极小体素（~100 nm）内，可超越光学[[../concepts/diffraction-limit|衍射极限]]实现真三维直写，无需分层堆叠即可加工悬空和可动微结构。
+  1. **2PP 物理机制**：飞秒激光高峰值功率使光敏树脂分子在焦点处同时吸收两个光子（等效单光子波长减半），[[../concepts/two-photon-absorption|双光子吸收]]概率正比于光强平方，聚合被严格限制在焦点中心极小体素（~100 nm）内，可超越光学[[../concepts/diffraction-limit|衍射极限]]实现真三维直写，无需分层堆叠即可加工悬空和可动微结构。
   2. **FPC 传感原理**：两面平行高反镜构成光学腔，满足共振条件（腔长等于半波长整数倍）时入射光与腔内反射光相长干涉，反射光谱在共振波长处出现波谷；外界温度/压力/[[../concepts/refractive-index|折射率]]等变化改变腔长或腔内介质折射率，导致谐振波长漂移，通过监测漂移量反推物理量。高反射率镜面→高品质因子（Q 值）→尖锐共振峰→高检测灵敏度。
   3. **核心工艺创新——可开合微机械设计**：在 FPC 顶部反射镜与底座之间设计[[../concepts/monolithic-integration|单片集成]]铰链（hinge）和锁扣（latch）。2PP 制造时顶盖处于打开状态，两面镜子内表面完全暴露；[[../concepts/magnetron-sputtering|磁控溅射]]定向沉积金膜后，用微探针闭合顶盖并以锁扣固定，无需后续对准装配即可获得精确平行的光学腔。这一"打开-镀膜-闭合"方案解决了封闭微腔内表面因遮挡而无法进行高质量定向镀膜的普适性难题。
   4. **磁控溅射镀膜优势**：方向性好（离子在电磁场引导下近乎直线飞行，适合定向沉积）、金膜纯度高致密且附着力强、工艺温度低（对[[../concepts/polymer-phase-separation|聚合物]]基底热损伤小）、膜厚可通过功率/气压/时间精确控制。

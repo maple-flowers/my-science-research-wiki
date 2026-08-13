@@ -1,24 +1,211 @@
-# 光学与吸收光谱 (Optical & Absorption Spectra)
-
-> 收录光吸收谱、介电函数（实部/虚部）、光电导率、折射率与反射率等光学响应相关的图表与物理公式。内容涵盖薄膜介电函数与光学带隙、非线性光学与 Z 扫描、范德华材料光学表征、SHG 偏振映射、应变工程光学响应以及介电函数第一性原理计算。
-
-[[科研Wiki/wiki/figures/_index|← 返回总索引]]
-
+---
+tags:
+  - type/figure-collection
 ---
 
-## 📑 子页面导航
+# 光学光谱
 
-| 子页面 | 主题 | 条目数 |
-| --- | --- | --- |
-| [[optical-spectra-thinfilms-nlo\|薄膜光谱、第一性原理与器件]] | 电荷介电矩阵、SnTe/SnO₂ 薄膜光学带隙、介电函数 ab initio 计算、湿度/磁导率/激光直写等器件光谱 | 19 |
-| [[optical-spectra-2d-shg-multiferroic\|二维材料光学、SHG 与多铁光谱]] | b-AsP 非线性光学与 Z 扫描、MG/DOE 光束整形、NiI₂/MnBi₂Te₄/In₂Se₃ 等范德华材料 SHG 与偏振表征、应变工程光学 | 33 |
+> 吸收/透射/反射光谱、荧光/发光、SHG、光学常数
 
-**合计**：2 个子页面共 52 条光学图表。
+## 条目
 
----
+### 1. 图1 不同电压下SnTe薄膜的吸收光谱
+![图1 不同电压下SnTe薄膜的吸收光谱](../../raw/figures/Blessing2026optical/fig_1_TE2JAVC3.png)
+*   **来源**：[[../papers/Blessing2026optical]]
 
-## 🔗 相关概念与实体 (Related Concepts & Entities)
+### 2. 图7 消光系数-波长关系
+![图7 消光系数-波长关系](../../raw/figures/Blessing2026optical/fig_7_5I8KBYU6.png)
+*   **来源**：[[../papers/Blessing2026optical]]
+*   **图示描述**：横轴为波长 200–1000 nm，纵轴为吸光度 A (a.u.)，四条曲线分别对应 10 V、11 V、12 V、13 V 沉积的 SnTe 薄膜。所有样品均在紫外区出现峰值，随后随波长向可见-近红外延伸而逐渐下降。
+*   **关键特征**：11 V 样品在 321 nm 处吸光度最高（A=1.2077 a.u.），12 V 次之（350 nm, A=1.1071 a.u.），10 V（340 nm, A=0.9707 a.u.）与 13 V（330 nm, A=0.9651 a.u.）接近；电压-吸光度呈非单调关系，提示 11 V 附近存在薄膜光密度"甜点"。
 
-**核心概念**：[[../concepts/dielectric-function|介电函数]]、[[../concepts/dielectric-response|介电响应]]、[[../concepts/optical-conductivity|光电导率]]、[[../concepts/refractive-index|折射率]]、[[../concepts/optical-band-gap|光学带隙]]、[[../concepts/tauc-plot|Tauc 图]]、[[../concepts/nonlinear-optics|非线性光学]]、[[../concepts/second-harmonic-generation|二次谐波产生 (SHG)]]、[[../concepts/z-scan|Z 扫描]]、[[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/saturable-absorption|可饱和吸收]]、[[../concepts/linear-dichroism|线性二色性]]、[[../concepts/birefringence|双折射]]
+### 3. 图8 折射率-波长关系
+![图8 折射率-波长关系](../../raw/figures/Blessing2026optical/fig_8_66F8PD9W.png)
+*   **来源**：[[../papers/Blessing2026optical]]
+*   **图示描述**：横轴为波长 200–1000 nm，纵轴为吸光度 A (a.u.)，四条曲线分别对应 10 V、11 V、12 V、13 V 沉积的 SnTe 薄膜。所有样品均在紫外区出现峰值，随后随波长向可见-近红外延伸而逐渐下降。
+*   **关键特征**：11 V 样品在 321 nm 处吸光度最高（A=1.2077 a.u.），12 V 次之（350 nm, A=1.1071 a.u.），10 V（340 nm, A=0.9707 a.u.）与 13 V（330 nm, A=0.9651 a.u.）接近；电压-吸光度呈非单调关系，提示 11 V 附近存在薄膜光密度"甜点"。
 
-**相关材料/实体**：[[../entities/SnTe|SnTe]]、[[../entities/MnBi2Te4|MnBi₂Te₄]]、[[../entities/NiI2|NiI₂]]、[[../entities/b-AsP|黑砷磷 (b-AsP)]]、[[../entities/BiFeO3|BiFeO₃]]、[[../entities/In2Se3|In₂Se₃]]、[[../entities/WSe2|WSe₂]]、[[../entities/graphene|石墨烯]]
+### 4. 图3 DRS光谱与Tauc图（1.56 eV与2.66 eV双带隙）
+![图3 DRS光谱与Tauc图（1.56 eV与2.66 eV双带隙）](../../raw/figures/Tobeiha2025optical/fig_3_WVRUWYBP.png)
+*   **来源**：[[../papers/Tobeiha2025optical]]
+*   **图示描述**：(a) 漫反射DRS吸收光谱，展示样品在紫外-可见光区的吸收特征；(b) 经Kubelka–Munk函数转换后的Tauc图，通过外推线性段得到光学带隙。
+*   **关键特征**：DRS显示吸收主要集中在紫外区，并延伸至部分可见光区，符合GO基材料特征；Tauc图外推得到两个光学带隙：1.56 eV（约794 nm）归因于G畴，2.66 eV（约466 nm）归因于GO畴；两带隙共存表明材料内部存在两种能级结构的纳米域。
+
+### 5. 图1 77 K 下 (BEDT-TTF)₁.₅CuCl₂(a) 与 (BEDT-TTF)₁.₅CuBr₂(b) 的 X 波段 EPR 谱，同时显示 BEDT-TTF⁺ 自由基峰与 Cu(II) 四重超精细分裂，Br 化物中 Cu(II) 信号更强
+![图1 77 K 下 (BEDT-TTF)₁.₅CuCl₂(a) 与 (BEDT-TTF)₁.₅CuBr₂(b) 的 X 波段 EPR 谱，同时显示 BEDT-TTF⁺ 自由基峰与 Cu(II) 四重超精细分裂，Br 化物中 Cu(II) 信号更强](../../raw/figures/Unknown2003charge/fig_1_PVI4APFY.png)
+*   **来源**：[[../papers/Unknown2003charge]]
+*   **图示描述**：两个子图分别为 Cl 化物 (a) 与 Br 化物 (b) 在 77 K 冷冻溶液中的一阶导数 EPR 谱；横轴为磁场，纵轴为吸收信号的一阶导数，同时叠加了有机自由基与过渡金属离子两类顺磁中心的响应。
+*   **关键特征**：g ≈ 2.07（接近自由电子 g = 2.0023）的尖锐单峰归属为 BEDT-TTF⁺· 自由基，证明给体被部分氧化；g∥ > g⊥ > 2 且带四重超精细分裂的轴向信号归属为 d⁹ 构型的 Cu(II)，表明 Cu 未被完全还原；Br 化物中 Cu(II) 峰相对 BEDT-TTF⁺ 峰的强度明显高于 Cl 化物，直接反映 Br 化物残留更多 Cu(II)；表 1 给出 Cu(II) g∥ = 2.390（Cl）/2.480（Br），BEDT-TTF 自由基 g ≈ 2.06–2.08。
+
+### 6. 表1 EPR 参数、居里-外斯参数、有效磁矩与室温电导率汇总
+![表1 EPR 参数、居里-外斯参数、有效磁矩与室温电导率汇总](../../raw/figures/Unknown2003charge/tab_1_AJ7CFCDI.png)
+*   **来源**：[[../papers/Unknown2003charge]]
+*   **图示描述**：表格横向并列两种化合物的 EPR g 值（Cu(II) g⊥/g∥ 与 BEDT-TTF 自由基 g）、峰峰线宽 ΔHpp（G）、居里常数 C 与外斯温度 θ、有效磁矩 μeff（BM）以及室温粉末电导率 σ（S·cm⁻¹）。
+*   **关键特征**：Cu(II) 满足 g∥ > g⊥ > 2 的轴向 d⁹ 特征；C(Br) = 0.53 > C(Cl) = 0.39，定量对应 Br 化物更多 Cu(II)；μeff ≈ 1.22–1.26 BM 显著低于 1.73 BM，证实非磁 Cu(I) 共存；σ_RT(Cl) = 9.4×10⁻⁵ S·cm⁻¹ 比 σ_RT(Br) = 8.5×10⁻⁶ S·cm⁻¹ 高约一个数量级，二者均落在绝缘体区间，且比完全还原的 (BEDT-TTF)₂Cu^ICl₂（~10⁻³ S·cm⁻¹）低 1–2 个数量级。
+
+### 7. 图1 DOE设计：(a)输入高斯振幅分布 (b)CGH相位图 (c)FFT远场振幅
+![图1 DOE设计：(a)输入高斯振幅分布 (b)CGH相位图 (c)FFT远场振幅](../../raw/figures/Unknown2025diffractive/fig_1_4KZB7NP3.png)
+*   **来源**：[[../papers/Unknown2025diffractive]]
+*   **图示描述**：图1三联图展示 DOE 的设计输入与理论输出：(a) 全息平面上直径 3.5 mm（1/e²）的高斯入射振幅分布；(b) 由棱镜-轴锥镜算法算出的 5833×5833 像素、像素尺寸 600 nm 的 CGH 灰度相位图，呈同心环与干涉条纹交织图案；(c) 对输入振幅 Aᵢ 与相位 φᵢ 做 FFT 得到的远场振幅，可见两个主环形光束及外围较弱的高阶衍射环。
+*   **关键特征**：CGH 将传统棱镜-透镜算法中的透镜项替换为 6° 轴锥镜项，从而把高斯光束同时整形成一对相邻环形光束（近场对应两个贝塞尔光束）；灰度像素映射为 2–6.4 μm 的表面高度，对应 4.4 μm 调制深度与 6π 相位差；外围次级环强度越低代表衍射效率越高，是后续实验验证的基准。
+
+### 8. 表1 2PP工艺参数：功率25mW、扫速10mm/s、层厚0.1μm、填充0.3μm、材料FemtoBond
+![表1 2PP工艺参数：功率25mW、扫速10mm/s、层厚0.1μm、填充0.3μm、材料FemtoBond](../../raw/figures/Unknown2025diffractive/tab_1_UZ8F8VCU.png)
+*   **来源**：[[../papers/Unknown2025diffractive]]
+*   **图示描述**：表1 汇总 DOE 制造所用的 2PP 关键工艺参数。
+*   **关键特征**：平均激光功率 25 mW；扫描速度 10 mm/s；层厚 0.1 μm（对应 45 层）；填充间距（hatch）0.3 μm；光刻胶材料为 FemtoBond 4B；配合 Ti:Sa 激光器（780 nm、100 fs、82 MHz）与 20×/NA 0.8 物镜，总制造时长 68.5 h。
+
+### 9. 公式2 远场振幅为输入振幅与相位的FFT
+![公式2 远场振幅为输入振幅与相位的FFT](../../raw/figures/Unknown2025diffractive/eq_2_ECICBZXC.png)
+*   **来源**：[[../papers/Unknown2025diffractive]]
+*   **图示描述**：公式2 表明 DOE 远场振幅 A 由全息平面输入振幅 Aᵢ 与输入相位 φᵢ 的快速傅里叶变换（FFT）计算得到。
+*   **关键特征**：仿真直接复现图1(c) 与图4 各子图；可在不打印实物的前提下预测主环位置、强度以及高阶衍射杂散光；是把离散层数（阶梯效应）映射为远场光斑质量的工具。
+
+### 10. 图4 不同层数/层高的远场振幅模拟：(a)2层4.4μm (b)10层1.5μm (c)45层100nm (d)255层17nm
+![图4 不同层数/层高的远场振幅模拟：(a)2层4.4μm (b)10层1.5μm (c)45层100nm (d)255层17nm](../../raw/figures/Unknown2025diffractive/fig_4_8S7FBEP8.png)
+*   **来源**：[[../papers/Unknown2025diffractive]]
+*   **图示描述**：四幅 FFT 远场模拟图，比较灰度离散化层数变化对衍射图样的影响：(a) 2 层/4.4 μm 近似二值相位；(b) 10 层/1.5 μm；(c) 45 层/100 nm（本实验实际参数）；(d) 255 层/17 nm（近理想连续相位）。
+*   **关键特征**：(a) 中代表 −1 级的最小圆环强度与主环相当，杂散光最严重；随层数增加、层高减小，轴锥镜同心光栅引入的高阶衍射环逐步减弱；(c) 45 层时高阶环已不占主导，光束轮廓接近设计；(d) 255 层伪影基本消失但制造时间不可接受。
+
+### 11. 图5 DOE后51mm处实测光束相机拼接图像，可见两个相交环形光束
+![图5 DOE后51mm处实测光束相机拼接图像，可见两个相交环形光束](../../raw/figures/Unknown2025diffractive/fig_5_VLRMQTLM.png)
+*   **来源**：[[../papers/Unknown2025diffractive]]
+*   **图示描述**：在 DOE 后 51 mm 处用光束相机（LaserCam-HR II）捕获、再由 AutoStitch 拼接而成的实测远场强度图；两个直径约 10 mm 的环形光束相交，交叠区内可见 DOE 的方形轮廓。
+*   **关键特征**：每个环并非单环，而是由间距约 600 μm 的多个细环组成，是衍射法生成环形光束的典型现象；拼接方块角落的亮点对应图2 的微孔衍射；外围一个更大的包围环可能源于 6π 调制深度未完美匹配；因采用线性坐标而非图1(c) 的对数坐标，更暗的高阶环不可见；实验未直接测近场贝塞尔光束（计算焦斑直径约 8 μm，最高强度位于 12 mm 处），因为其尺寸与相机像素相当且相机无法置于焦距位置。
+
+### 12. 图1 双光子辐射吸收机理：a) 顺序型（经真实中间激发态），b) 同时型（经虚态）
+![图1 双光子辐射吸收机理：a) 顺序型（经真实中间激发态），b) 同时型（经虚态）](../../raw/figures/WRZYSZCZYNSKI2010initiators/fig_1_QPNCJL4V.png)
+*   **来源**：[[../papers/WRZYSZCZYNSKI2010initiators]]
+*   **图示描述**：简化的 Jablonski 能级图，纵轴为能量，分子从基态 S₀ 跃迁至更高激发态，对比两条双光子吸收路径——a) 顺序型经真实中间态 S₁，b) 同时型经虚态直接到达 S₁。
+
+### 13. 图4 整体高度误差与相位离散化误差对偶/螺旋光束重叠积分和效率的影响
+![图4 整体高度误差与相位离散化误差对偶/螺旋光束重叠积分和效率的影响](../../raw/figures/Wang2023ultracompact/fig_4_4Y53N3SH.png)
+*   **来源**：[[../papers/Wang2023ultracompact]]
+*   **图示描述**：(a)(b) 示意两类制造误差——(a)整体相位调制深度按比例缩放（如 0/π 变成 0/0.9π），(b)逐层扫描造成的相位离散化（连续曲面变成 31 级台阶）；(c)(d) 分别对偶 MG 与螺旋 MG 给出重叠积分(红圆)和效率(橙方块)随相位调制深度的变化曲线，并附 1.8π/2.0π/2.2π 处的光强小图。
+*   **关键特征**：31 级离散化下偶马蒂厄光束重叠积分在所有调制深度均 >99.5%；偶光束效率在调制深度 <2.2π 时随深度单调上升、之后缓降；螺旋光束的重叠积分与效率在约 2.1π（而非理想 2π）处同时达到峰值，原因是离散化使最优相位调制深度偏移；标记上误差棒表示不同离散级数（如 15 级、31 级、连续）带来的偏差；无离散化的理想连续相位下两种光束都在 2π 取极大。
+
+### 14. 图6 不同m,q偶MG光束实测傅里叶频谱（主环+中心低频亮斑）
+![图6 不同m,q偶MG光束实测傅里叶频谱（主环+中心低频亮斑）](../../raw/figures/Wang2023ultracompact/fig_6_2GF3S7IT.png)
+*   **来源**：[[../papers/Wang2023ultracompact]]
+*   **图示描述**：3×3 阵列展示 m=0,1,2、q=12,24,36 共九组偶 MPP 在 L1 后焦面（傅里叶面）实测的光强分布。
+*   **关键特征**：每组都有清晰的环形主谱，与图1(a1)模拟的环结构一致；所有环中心额外出现亮斑，论文解释为入射高斯光斑略大于 MPP、未调制部分衍射到低频分量所致；环半径随 q 与横向波矢 k_t 变化，反映不同椭圆参数下马蒂厄谱的几何差异；中心亮斑只影响效率，不影响滤波后光束的形态。
+
+### 15. 图7 不同m,q偶MG光束实测横向光强（椭圆晶格图案）
+![图7 不同m,q偶MG光束实测横向光强（椭圆晶格图案）](../../raw/figures/Wang2023ultracompact/fig_7_8R2524RD.png)
+*   **来源**：[[../papers/Wang2023ultracompact]]
+*   **图示描述**：与图6 参数一一对应（m=0,1,2；q=12,24,36），在 L2 后焦面（像面）用 CCD 记录的偶 MG 光束横向光强。
+*   **关键特征**：每张子图都呈现椭圆网格/晶格状光斑，随 m 增加节点线增多、随 q 增大椭圆被拉得更扁，与式(2) Ce_m·ce_m 理论预测一致；m=2,q=12 光束实测能量效率约 40%，仿真值为 54.5%，差距主要来自入射高斯光超出 MPP 面积的额外损失；图样与仿真对比吻合度高。
+
+### 16. 图8 偶MG光束（m=2,q=12）Z=100-800mm传播不变性
+![图8 偶MG光束（m=2,q=12）Z=100-800mm传播不变性](../../raw/figures/Wang2023ultracompact/fig_8_D2NF53YM.png)
+*   **来源**：[[../papers/Wang2023ultracompact]]
+*   **图示描述**：以 m=2,q=12 偶 MG 光束为代表的传播不变性验证；(a) Z=100–800 mm、步长 100 mm 的横向光强序列（Z=0 为 L2 后焦面），(b) 用平移 RAP 测得的沿光轴(z)强度分布。
+*   **关键特征**：横跨约 700 mm 距离内椭圆晶格图案的形状与尺度基本保持稳定；轴向强度剖面呈"光针"状近似均匀分布；等效无衍射距离约 800 mm，远大于同口径高斯光束瑞利长度；数据与图1(c1)仿真趋势一致。
+
+### 17. 图9 不同m,q螺旋MG光束实测光强（椭圆环，离心率随m增大）
+![图9 不同m,q螺旋MG光束实测光强（椭圆环，离心率随m增大）](../../raw/figures/Wang2023ultracompact/fig_9_DCPXH63U.png)
+*   **来源**：[[../papers/Wang2023ultracompact]]
+*   **图示描述**：多组(m,q)参数下螺旋 MPP 经 4-f 系统产生的实测横向光强阵列。
+*   **关键特征**：当 A_m(q)=B_m(q) 时螺旋光束表现为椭圆环状而非晶格，中心为暗斑（相位奇点/OAM 涡旋）；随阶数 m 增大，最内环的椭圆离心率增大，椭圆被拉长；q 改变则调节环半径与椭圆扁平度；所有图样与式(2)螺旋解的仿真吻合。
+
+### 18. 图10 螺旋MG光束（m=3,q=2）800mm传播不变性
+![图10 螺旋MG光束（m=3,q=2）800mm传播不变性](../../raw/figures/Wang2023ultracompact/fig_10_7JWVFILZ.png)
+*   **来源**：[[../papers/Wang2023ultracompact]]
+*   **图示描述**：对 m=3,q=2 螺旋 MG 光束的传播不变性验证；(a) Z=100–800 mm 的横向光强序列，(b) 沿传播轴 z 的实测强度分布。
+*   **关键特征**：椭圆环结构在约 700 mm 传播距离内保持尺度与形状不变，中心暗斑稳定存在；轴向剖面同样呈拉长的"光针"形态；与图8偶光束结果并列，说明传播不变性对偶/螺旋两类 MG 光束均成立。
+
+### 19. Si 与 GaAs 介电函数虚部 ε₂，纵向 vs 横向 vs APW+LO
+![Si 与 GaAs 介电函数虚部 ε₂，纵向 vs 横向 vs APW+LO](../../raw/figures/gajdosLinearOpticalProperties2006/fig_1_BWLDA4M8.png)
+*   **来源**：[[../papers/gajdosLinearOpticalProperties2006]]
+*   **图示描述**：双子图二维曲线图，上为 Si、下为 GaAs；横轴光子能量（eV），纵轴为介电函数虚部 ε₂（无量纲），ε₂ 峰值即光吸收峰。实线/点线为本文纵向表达式，虚线为传统横向表达式，方形符号为全电子 APW+LO 基准；主要光学跃迁峰 E₀、E₁、E₂、E₀'、E₁' 按 Yu & Cardona 约定用箭头标出。
+*   **关键特征**：纵向与横向给出完全相同的峰位（由基态 Kohn-Sham 能带与选择定则决定），差异只在峰强；Si 的横向表达式显著高估峰强，纵向曲线与 APW+LO 几乎重合；GaAs 因 PAW 势已含 d 投影子，两式结果差异较小；若在横向计算中补入 d 投影子，峰强即回落至纵向水平，证实误差来自标准 PAW 势 l=1 截断不足。
+
+### 20. 图2 静态与瞬态 SHG 偏振测量
+![图2 静态与瞬态 SHG 偏振测量](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_2_S3NZQZ25.png)
+*   **来源**：[[../papers/gaoGiantChiralMagnetoelectric2024a]]
+*   **图示描述**：SHG 偏振与时间分辨测量四/六联图：(a) 对映纯畴上平行（蓝）/交叉（红）偏振配置下静态 SHG 强度随温度变化，插图为 THM 以上六重、以下二重的偏振花瓣；(b) 交叉偏振、探测光 φ=0°（⊥C₂）、泵浦通量 1.10 mJ cm⁻² 下 tr-SHG 振荡随温度的瀑布图；(c,e) 平行/交叉配置下延迟 1.9 ps（蓝）和 2.2 ps（红）的偏振切片；(d,f) 2.4 K、1.65 mJ cm⁻² 下 tr-SHG 信号随延迟时间与探测偏振角 φ 的二维图。
+*   **关键特征**：进入多铁相时 SHG 强度急剧增强，偏振图案由六重对称变为二重对称，C₂ 轴锁定在 φ=90°，对应点群 2 的单一对映纯畴；升温时 EMo 振荡幅度衰减、频率软化，至 THM≈60 K 消失（扩展数据图 2 给出软化曲线）；平行配置（d）在偏振-时间轴上保持稳定相位，是单模响应；交叉配置（f）出现叶瓣数在四叶/二叶间交替并逐渐失相，是 EMo 与 EMe 拍频干涉的指纹。
+
+### 21. 图4 拓扑数 NQ=-1、LSMO 边界条件效应、紫外-可见吸收与矫顽电压厚度依赖
+![图4 拓扑数 NQ=-1、LSMO 边界条件效应、紫外-可见吸收与矫顽电压厚度依赖](../../raw/figures/gongAbsenceCriticalThickness2023/fig_4_4ADC7YNR.png)
+*   **来源**：[[../papers/gongAbsenceCriticalThickness2023]]
+*   **图示描述**：六面板综合图，(a)(b) 为 4 nm PTO 层 PTO/STO 界面处的模拟极化矢量分布及对应拓扑密度 ρ_top 分布，(c) 为拓扑数 N_Q 随 PTO 层厚度的变化，(d) 为把 STO 替换为导电 LSMO 电极后的 (103) RSM，(e) 为 (PTO₁₂/STO₁₂)₁₀、(PTO₄/STO₄)₁₀ 与纯 STO、纯 PTO 的紫外-可见吸收谱，(f) 为各厚度超晶格 PFM 测得的矫顽电压 U。
+*   **关键特征**：拓扑密度呈环状集中在斯格明子外围，按 N_Q = (1/4π)∬u·(∂ₓu×∂ᵧu) dxdy 积分得 N_Q = −1（中心极化沿 −z），且在所有模拟厚度下恒为 −1，不随 h 变化；PTO/LSMO 超晶格的 RSM 中斯格明子卫星峰消失，而极性涡旋不受 LSMO/SRO 等导电边界条件影响，说明斯格明子成核强烈依赖绝缘边界维持的大去极化场与界面电荷屏蔽；含斯格明子的超晶格在整个可见光波段吸收强于纯 PTO/STO，吸收边下降区间变窄（箭头所示），可能源于刺猬状和 Bloch 状极化组分；PFM 振幅呈蝴蝶形回线、相位呈 180° 方波回线，证明可翻转铁电性，矫顽电压 U = (|U⁺|+|U⁻|)/2 随 PTO 层减薄单调下降，(PTO₂/STO₂)₁₀ 约 1.2 V。
+
+### 22. 图6
+![图6](../../raw/figures/huangTwodimensionalIn2Se3Rising2022/fig_6_SCLIAXEC.png)
+*   **来源**：[[../papers/huangTwodimensionalIn2Se3Rising2022]]
+*   **图示描述**：(A–D) 不同厚度（约 2–6.1 nm）α-In₂Se₃ 的面内 PFM（IP-PFM）相位图；(E–F) 同一区域的二次谐波（SHG）强度图与 PFM 相位图对照；(G) 反向电压方波写入后的 OOP 与 IP 相位图；(H) OOP 翻转后 IP 方向的 SHG 成像。
+*   **关键特征**：2H 堆垛少层的 IP 相位随层数奇偶交替反转 180°，奇数层 IP 偶极矩约 2.18 e·Å，偶数层层间几乎抵消；SHG 强度分布与 PFM 畴图案高度重合，从光学对称性角度独立印证极化；OOP 被翻转后 IP 相位图同步全区域翻转，两者锁死；翻转边界出现 SHG 干涉暗线。
+
+### 23. 图11 应用：纳米柱阵列上确定性单光子源、尖端增强 PL 纳米成像（<15 nm）
+![图11 应用：纳米柱阵列上确定性单光子源、尖端增强 PL 纳米成像（<15 nm）](../../raw/figures/pengStrainEngineering2D2020/fig_11_JJ8ACRHR.png)
+*   **来源**：[[../papers/pengStrainEngineering2D2020]]
+*   **图示描述**：(a–c) 将单层/双层 WSe₂ 转移到 Si 纳米柱阵列上，每个柱顶的局部应变产生类量子点发射体，展示其阵列化光谱与二阶相干测量；(d–g) 利用金属或 AFM 针尖对二维材料施加可控弹性/塑性应变并进行尖端增强 PL（TEPL）成像，实现亚 15 nm 分辨率的形貌-光学关联。
+*   **关键特征**：应变局域发射体线宽窄至约 0.1 meV（自由激子约 10 meV），二阶相干 g²(0)=0.07±0.04，衰减时间 2.8 ns（单层）/4.8 ns（双层）；与金属等离激元腔耦合后 Purcell 因子可达 551，寿命缩短至约 98 ps；TEPL 空间分辨率优于 15 nm。
+
+### 24. 表1 不同波长下 b-AsP 的 NLO 参数
+![表1 不同波长下 b-AsP 的 NLO 参数](../../raw/figures/shuTwoDimensionalBlackArsenic2020/tab_1_SLJ4WQKY.png)
+*   **来源**：[[../papers/shuTwoDimensionalBlackArsenic2020]]
+*   **图示描述**：列出 800、1550、1800 nm 三个波长下 b-AsP 的线性吸收系数 α₀、非线性吸收系数 β、饱和强度 Is、调制深度 Ts、非饱和损耗 Tns。
+*   **关键特征**：α₀ 分别为 68.33、33.09、27.78 cm⁻¹；β 为 −0.49、−0.15、−0.23 cm/GW；Is 为 7.218、3.929、3.336 GW/cm²；Ts/Tns 在 800 nm 为 19.27%/19.27%，在 1550 nm 为 21.74%/21.27%，在 1800 nm 为 10.45%/10.27%；进入中红外（1800 nm）后 Is 最低，意味着最容易达到饱和。
+
+### 25. 表2 不同 NLO 材料在 2 μm 处 β 与 Is 对比
+![表2 不同 NLO 材料在 2 μm 处 β 与 Is 对比](../../raw/figures/shuTwoDimensionalBlackArsenic2020/tab_2_C4VVZ55R.png)
+*   **来源**：[[../papers/shuTwoDimensionalBlackArsenic2020]]
+*   **图示描述**：把 b-AsP 在 1800 nm、100 fs 激发下的 β 与 Is 与石墨烯、黑磷、MOFs、GeP 等已报道基准 NLO 材料并列对比。
+*   **关键特征**：石墨烯 β = −0.181 ± 0.023 cm/GW、Is = 25.4 ± 4.82 GW/cm²；黑磷 β = −0.1 ± 0.028 cm/GW、Is = 58.2 ± 19.4 GW/cm²；GeP β = −0.368 cm/GW、Is = 55.1 GW/cm²；b-AsP β = −0.23 cm/GW、Is = 3.336 GW/cm²，Is 比石墨烯、黑磷低约一个数量级。
+
+### 26. 图3 UV-vis-NIR 线性吸收光谱与 XPS 元素分析
+![图3 UV-vis-NIR 线性吸收光谱与 XPS 元素分析](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_3_TJ7DXYBR.png)
+*   **来源**：[[../papers/shuTwoDimensionalBlackArsenic2020]]
+*   **图示描述**：(a) 300–2200 nm 范围的 UV-vis-NIR 稳态线性吸收谱，吸收强度随波长减小平滑上升；(b, c) 分别为 As 3d 与 P 2p 轨道的 XPS 高分辨谱。
+*   **关键特征**：吸收谱是不同厚度/形状/带隙纳米片吸收的包络，无尖锐激子峰，呈现宽带线性响应；XPS 仅检出 As 与 P 两种元素，无氧化或溶剂杂质峰，说明 LPE 过程未改变化学组成。
+
+### 27. 图4 开孔 Z 扫描曲线及透射率-光强拟合
+![图4 开孔 Z 扫描曲线及透射率-光强拟合](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_4_MSPUKV32.png)
+*   **来源**：[[../papers/shuTwoDimensionalBlackArsenic2020]]
+*   **图示描述**：(a–c) 800、1550、1800 nm 三个波长下的开孔 Z 扫描曲线，横轴为样品相对焦点位置 z（mm），纵轴为归一化透射率 T(z)；(d–f) 为对应波长下归一化透射率随输入峰值光强（GW/cm²）的变化，散点是实验数据、实线是单光子吸收模型拟合。
+*   **关键特征**：三条 Z 扫描曲线在焦点 z = 0 处均出现明显透射峰，是典型可饱和吸收信号；拟合给出 1800 nm 处 β = −0.23 cm/GW、Is = 3.336 GW/cm²、Ts = 10.45%、Tns = 10.27%；800 nm 与 1550 nm 处 β 分别为 −0.49、−0.15 cm/GW；1800 nm 处 Is 比石墨烯（25.4 GW/cm²）、黑磷（58.2 GW/cm²）低约一个数量级。
+
+### 28. ED Fig.3 NiI2 波长依赖二次谐波产生
+![ED Fig.3 NiI2 波长依赖二次谐波产生](../../raw/figures/songEvidenceSinglelayerVan2022/fig_3_ZTPW73ZE.png)
+*   **来源**：[[../papers/songEvidenceSinglelayerVan2022]]
+*   **图示描述**：a–c 为 826 nm 激发下单畴 CVT 块材的旋转各向异性 SHG（RA-SHG）极坐标图、非线性张量元拟合及其温度依赖；d–f 为同一测量在 991 nm 激发下的对应结果。横轴为样品方位角（度），纵轴为 SHG 计数（任意单位）。
+*   **关键特征**：826 nm 的 RA-SHG 图案必须用 ED（电偶极）+ MD（磁偶极）张量共同才能拟合，说明该波长靠近共振、存在磁致 SHG 污染；991 nm（低于光学带隙和 d-d 跃迁）的图案仅由 ED 张量即可完美拟合，温度依赖与 C₂ 单斜点群一致；PVD 薄片给出与 CVT 块材相同的 991 nm RA-SHG 图案，证明两种生长方式对称性一致。
+
+### 29. ED Fig.8 单层 NiI2 温度依赖 SHG 成像
+![ED Fig.8 单层 NiI2 温度依赖 SHG 成像](../../raw/figures/songEvidenceSinglelayerVan2022/fig_8_WKNSHMS2.png)
+*   **来源**：[[../papers/songEvidenceSinglelayerVan2022]]
+*   **图示描述**：a–b 为三个独立单层 NiI₂ 晶体在 780 nm 和 991 nm 激发下的变温 SHG 空间成像；c 为三个单层晶体积分 SHG 计数随温度（K）的演化曲线（归一化）。
+*   **关键特征**：991 nm 激发的 ED-SHG 信号在约 20 K 以下显著增强，转变温度与图2d 偏振旋转给出的 T_c ≈ 21 K 吻合；780 nm 通道因波长接近共振而叠加了与温度无关的 NiI₂/hBN 界面或衬底残余 SHG 背景；扣除背景后，三个不同单层晶体均给出相同的转变温度，表明这是单层 NiI₂ 本征行为而非样品差异。
+
+### 30. 图1 气相/液面/超临界/液态/冰五种水的氧K边谱对比；534、536 eV双峰=自由O-H，535 eV峰=单断供体键，537–542 eV后边=氢键；超临界水缺535 eV峰且后边更宽
+![图1 气相/液面/超临界/液态/冰五种水的氧K边谱对比；534、536 eV双峰=自由O-H，535 eV峰=单断供体键，537–542 eV后边=氢键；超临界水缺535 eV峰且后边更宽](../../raw/figures/wernetSpectroscopicCharacterizationMicroscopic2005/fig_1_4TFGLKJ8.png)
+*   **来源**：[[../papers/wernetSpectroscopicCharacterizationMicroscopic2005]]
+*   **图示描述**：横轴为氧 K 边能量转移（eV，约 532–547 eV 近边区），纵轴为按 532–547 eV 面积归一化的强度；五个子图自上而下列出 (a) 气相、(b) 液态水表面、(c) 380 °C/300 bar 超临界水、(d) 常压液态水、(e) 冰。
+*   **关键特征**：气相与液面谱在 534 eV（4a₁）和 536 eV（2b₁）出现尖锐双峰，对应两个自由 O–H（不做供体氢键）；液态水在 535 eV 有特征小峰，指示一个断裂或弱化的供体氢键；冰在 534–536 eV 几乎无强度，537–542 eV 后边呈以约 541 eV 为中心的尖锐强峰，对应规整四面体四氢键网络；超临界水既有 534 eV 主峰+536 eV 肩峰（类气相组分），又有 537–542 eV 强后边（成键组分），但后边比冰更宽且缺失 535 eV 峰。
+
+### 31. 图2 超临界水与冰的扩展K边谱（~560 eV第二极大）；峰位低移3.3±0.8 eV对应O–O距从2.75 Å拉长到3.1±0.1 Å
+![图2 超临界水与冰的扩展K边谱（~560 eV第二极大）；峰位低移3.3±0.8 eV对应O–O距从2.75 Å拉长到3.1±0.1 Å](../../raw/figures/wernetSpectroscopicCharacterizationMicroscopic2005/fig_2_TVX3KJZU.png)
+*   **来源**：[[../papers/wernetSpectroscopicCharacterizationMicroscopic2005]]
+*   **图示描述**：横轴为更宽能量范围的能量转移（eV，约 520–585 eV），纵轴为归一化 XRS 强度；叠加展示超临界水与结晶冰两条谱，重点比较约 560 eV 处由光电子背散射干涉形成的第二极大，插图放大该峰位差异。
+*   **关键特征**：约 560 eV 的第二极大峰位对最近邻 O–O 距离敏感（距离越远峰位能量越低）；超临界水该峰相对冰向低能方向移动 3.3±0.8 eV；以冰的 O–O 距 2.75 Å 为基准换算，超临界水成键分子平均 O–O 距被拉长 0.3±0.1 Å，至 3.1±0.1 Å；对应氢键键长约 2.1 Å，落在完整氢键判据（O–O ≤ 3.3–3.5 Å）之内。
+
+### 32. 图8 柔性光电探测器：褶皱石墨烯增强光吸收、单层MoS₂压电光电子效应调控肖特基势垒
+![图8 柔性光电探测器：褶皱石墨烯增强光吸收、单层MoS₂压电光电子效应调控肖特基势垒](../../raw/figures/yangStrainEngineeringTwodimensional2021/fig_8_ZEAZ8UJ9.png)
+*   **来源**：[[../papers/yangStrainEngineeringTwodimensional2021]]
+*   **图示描述**：(A)(B) 褶皱结构石墨烯光电探测器示意及光吸收对比，三维起皱形貌增大有效光吸收面积并拓宽吸收谱；(C) 单层 MoS₂ 光电探测器中，应变通过压电效应产生极化电荷，调控金属/MoS₂ 界面肖特基势垒高度，从而促进光生载流子分离与传输的能带示意。
+*   **关键特征**：性能增强来自两条并行机制——几何上褶皱增加光程与吸收面积，电子学上压电光电子效应调制界面肖特基势垒；应变同时可窄化带隙，把吸收谱拓宽至更长波长。
+
+### 33. 图2 双层VSe2四多铁态的反常光电导σ^A_xy与SHG系数
+![图2 双层VSe2四多铁态的反常光电导σ^A_xy与SHG系数](../../raw/figures/zhaoOpticalFingerprintsTwodimensional2024/fig_2_ZPVW798L.png)
+*   **来源**：[[../papers/zhaoOpticalFingerprintsTwodimensional2024]]
+*   **图示描述**：双层 VSe₂（Case 1，磁点群 3m′，磁空间群 P3m′1）四多铁态的第一性原理光学谱：(a) 反常光电导 σ^A_xy 随光子能量（eV）的变化曲线；(b) SHG 张量元 χ^(2) 的 T̂-偶（even/i 型）与 T̂-奇（odd/c 型）分量实部（pm/V）随光子能量（eV）的变化。
+*   **关键特征**：σ^A_xy 在 P↑N↑ 与 P↓N↓ 下曲线重合、在 P↑N↓ 与 P↓N↑ 下曲线重合且与前者反号，验证其在 M̂_z 下不变、在 T̂ 与 M̂_z T̂ 下变号；非零 SHG 偶分量为 χ_zzz、χ_xxz(=χ_xzx=χ_yyz=χ_yzy)、χ_zxx(=χ_zyy)、χ_yyy(=−χ_xxy=−χ_xyx=−χ_yxx)，奇分量满足 χ_xxx=−χ_xyy=−χ_yxy=−χ_yyx 与 χ_xyz=χ_xzy=−χ_yxz=−χ_yzx；偶面内 SHG 约为单层的 2 倍，而 T̂-奇分量显著小于单层。
+
+### 34. 图4 斜入射SHG探测构型与PPP偏振分辨"六瓣花"图案
+![图4 斜入射SHG探测构型与PPP偏振分辨"六瓣花"图案](../../raw/figures/zhaoOpticalFingerprintsTwodimensional2024/fig_4_H4MUSGVJ.png)
+*   **来源**：[[../papers/zhaoOpticalFingerprintsTwodimensional2024]]
+*   **图示描述**：(a) 斜入射 SHG 实验几何示意：P 偏振基频光（ω，红）以倾角入射样品，收集 P 偏振倍频光（2ω，蓝），φ 为晶体 x 轴与实验室 x′z′ 入射面之间的方位角；(b) PPP 配置下四多铁态 SHG 强度随 φ 变化的极坐标图，半径为信号强度。
+*   **关键特征**：所有态均呈 Ĉ₃ 对称的"六瓣花"图案；花瓣不均匀且相对 x/y 轴有错位角，该错位角由偶/奇 SHG 系数的相对大小与相位决定；E_PPP(2ω) ∝ χ^odd_xxx cos(3φ) + χ^even_yyy sin(3φ) + 2χ^even_xxz + χ^even_zxx + χ^even_zzz，演示参数取 χ^even_yyy : χ^odd_xxx : (2χ^even_xxz + χ^even_zxx + χ^even_zzz) = 1 : 0.5 : 0.2；四态花瓣形状与偏转互不相同，可唯一识别；对照传统多铁（P̂ 联结 P↑/P↓）斜入射 SHG 无法区分正负铁电态，滑移多铁由 M̂_z 联结故可区分。

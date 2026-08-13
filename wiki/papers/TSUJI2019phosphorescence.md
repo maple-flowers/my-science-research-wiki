@@ -15,7 +15,7 @@ concepts: [mechanoluminescence, phosphorescence, exponential-decay, trap-depleti
 entities: [PMT, oscilloscope, pulsed-led, photodiode]
 methods: [time-resolved-phosphorescence, exponential-fitting, hydrostatic-loading, pulsed-led-excitation, pmt-detection]
 materials: [mechanoluminescent-powder, elastomeric-composite]
-figures: [optical-spectra, mathematical-models, experimental-setups]
+figures: []
 领域基础知识:: >-
   机械发光（mechanoluminescence, ML）是材料在机械刺激（压缩、拉伸、摩擦、静水压力等）下发光的现象，其微观机制通常与陷阱载流子在应力作用下脱陷并在发光中心复合有关。磷光（phosphorescence）是激发停止后发光仍持续的现象，其衰减曲线反映了陷阱载流子的释放动力学，常以单指数或多指数函数 I(t)=I0 exp(-t/τ)+B 拟合，τ 为磷光寿命。对 ML 材料施加静水载荷（hydrostatic load）可在不引入剪切/断裂发光干扰的情况下，研究应力如何调制陷阱释放与磷光衰减；重吸收（reabsorption）则是发射光子在样品内部被自身吸收从而改变表观衰减曲线的效应。
 研究背景:: >-

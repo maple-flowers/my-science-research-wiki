@@ -11,12 +11,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/tahirFerroelectricityNonvolatileMemristor2025]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-2, project-4, project-5, project-6]
 concepts: [2D-materials, multiferroicity, polarization-switching, strain-engineering]
 entities: [BiFeO3, MXenes, TMDs]
 methods: [afm-pfm, device-i-v, dft, raman, tem, xps, xrd]
 materials: [BiFeO3, MXenes, TMDs]
-figures: [crystal-structures, electronic-devices, experimental-setups, vibrational-spectra]
+figures: []
 领域基础知识:: >-
   二维材料（如石墨烯、过渡金属二硫族化物、MXene）具有原子级厚度、高载流子迁移率与机械柔韧性，被视为下一代电子器件的候选体系。铁电性指材料在无外场下具有可被电场反转的自发极化，以极化-电场（P-E）电滞回线、剩余极化 Pr、矫顽场 Ec 及压电力显微镜（PFM）下的畴翻转为判据。忆阻器是电阻依赖于历史电荷状态、可在高/低阻态间非易失切换的两端器件，常用于 ReRAM 与神经形态计算，其阻变机制包括价态变化机制（VCM，氧空位迁移形成/断裂导电丝）、电化学金属化（ECM）、电荷俘获与铁电开关等。MXene 是由 MAX 相经化学刻蚀去除 A 层得到的二维过渡金属碳/氮化物，通式 M_{n+1}X_nT_x，表面带有 −O、−F、−OH 等端基。
 研究背景:: >-
@@ -41,20 +41,14 @@ tags:
   - paper
   - type/experiment
   - year/2025
-  - project/project-1
-  - relevance/project-1/medium
   - project/project-2
   - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/medium
   - project/project-4
   - relevance/project-4/medium
   - project/project-5
   - relevance/project-5/medium
   - project/project-6
   - relevance/project-6/core
-  - project/project-7
-  - relevance/project-7/medium
   - concept/2D-materials
   - concept/multiferroicity
   - concept/polarization-switching
@@ -76,15 +70,12 @@ tags:
   - topic/charge-density-wave
   - topic/domain-walls
   - topic/ferroelectricity
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/mxene
   - topic/phase-transition
   - topic/polarization
   - topic/strain-engineering
   - topic/topological-defects
-  - topic/two-photon-fluorescence
 ---
 
 ## tahirFerroelectricityNonvolatileMemristor2025 — 自支撑二维碳化铌（Nb₂CTₓ MXene）的铁电性与非易失性忆阻应用
@@ -198,13 +189,10 @@ Rabia Tahir, Sheryar Abid, Kubra Sattar, Arooma Syed, Iftikhar Hussain, Kaili Zh
   - **project-7 CDW**：无直接项目连接。论文未讨论电荷密度波、Peierls 相变虽被提及但指 Nb–O 键中 Nb 原子位移产生的结构不对称，与 CDW 的电子失稳机制不同。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
 - 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 - 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
   - 论证组织遵循典型"合成→结构表征→物性发现→器件应用→机理"的材料-器件范式：引言（2D+铁电+忆阻器的协同动机）→ 2.1–2.3 材料合成与 XRD/EDS/SEM/Raman/XPS 表征 → 2.4–2.5 P-E 与 PFM 铁电分析 → 2.6 两种电极器件 I-V 与导电机理 → 结论。表1/2/3 分别承担"本工作数据""铁电横向对比""忆阻器横向对比"三个锚定功能。机理部分采用双线并行：铁电起源（F 端基 + Nb₂O₅ 类比 NbOX₂）与阻变起源（VCM 氧空位导电丝 + 铁电极化辅助），并在图8d 汇合。
@@ -221,7 +209,7 @@ Rabia Tahir, Sheryar Abid, Kubra Sattar, Arooma Syed, Iftikhar Hussain, Kaili Zh
     - Domain wall pinning / leakage current（畴壁钉扎/漏电流）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. Nb₂CTₓ MXene [[../concepts/free-standing-film|自支撑薄膜]]（约 30 μm 厚，由 [[../entitys/Nb2AlC-MAX|Nb₂AlC [[../concepts/max-phase|MAX 相]]]]经 48–49% HF 55 °C 刻蚀 72 h、25% TMAOH 55 °C 插层 5 h 制得）首次被实验证实具有[[../concepts/ferroelectricity|铁电性]]；XRD (002) 峰由 12.7° 移至 6.5°，c-LP 由 13.94 Å 增至 22.96 Å，d 间距由 6.97 Å 增至 11.48 Å 以上。
+  1. Nb₂CTₓ MXene [[../concepts/free-standing-film|自支撑薄膜]]（约 30 μm 厚，由 [[../entities/Nb2AlC-MAX|Nb₂AlC [[../concepts/max-phase|MAX 相]]]]经 48–49% HF 55 °C 刻蚀 72 h、25% TMAOH 55 °C 插层 5 h 制得）首次被实验证实具有[[../concepts/ferroelectricity|铁电性]]；XRD (002) 峰由 12.7° 移至 6.5°，c-LP 由 13.94 Å 增至 22.96 Å，d 间距由 6.97 Å 增至 11.48 Å 以上。
   2. 1000 Hz、+165 kV/cm 下 Pr = 5.12 μC/cm²、Pmax = 19.85 μC/cm²，是当时自支撑 MXene 薄膜报道的最高[[../concepts/remanent-polarization|剩余极化]]；100 Hz 下因畴壁受缺陷黏滞阻力而回线开口更明显。电压 1→500 V 范围内 Pr 由 1.2×10⁻⁵ 单调增至 5.12 μC/cm²。
   3. 垂直 PFM 在 ±10 V box-in-box 中显示强振幅对比与锐利 180° 相位反转，横向 PFM 信号弱且斑驳，证明**面外极化主导**；SS-PFM 在 ±100 V 下蝴蝶振幅与相位翻转更饱和。
   4. 铁电起源被归因于：(a) HF 刻蚀引入的 −F 端基与 Nb–O 键协同，类比 NbOX₂（X=卤素）家族中卤素诱导 Nb 偏心位移、[[../concepts/peierls-distortion|Peierls 畸变]]导致键长不等而产生自发极化；(b) 空气慢氧化形成的表面 Nb₂O₅（Nb⁵⁺）与亚氧化物（Nb³⁺/Nb⁴⁺）可能贡献或增强铁电。作者承认缺乏原子分辨 TEM 与 DFT 直接证据。

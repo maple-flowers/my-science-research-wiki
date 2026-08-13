@@ -1,122 +1,118 @@
-import os
-import re
-import sys
-import io
+import re, sys, glob, os, collections
 
-# Force UTF-8 for Windows console output to prevent 'gbk' encoding errors
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+if sys.stdout.encoding != 'utf-8':
+    sys.stdout = open(sys.stdout.fileno(), 'w', encoding='utf-8', closefd=False)
 
-def verify_vault():
-    stats = {
-        "papers": 0,
-        "new_stubs": 0,
-        "total_links": 0,
-        "image_links": 0,
-        "broken_links": 0,
-        "plhd_count": 0,
-        "delim_errors": 0,
-        "bad_links_raw": 0
-    }
+errors = []
 
-    # 路径定义
-    base_dir = r"E:\swan_goose\宝宝\笔记库\sgg\科研Wiki"
-    papers_dir = os.path.join(base_dir, "wiki", "papers")
-    wiki_dirs = [
-        os.path.join(base_dir, "wiki", d)
-        for d in ["concepts", "entities", "figures", "projects", "topics", "write"]
-    ]
+# Get valid figure slugs
+valid_figures = set()
+for fp in glob.glob('wiki/figures/*.md'):
+    valid_figures.add(os.path.basename(fp).replace('.md', ''))
 
-    # 1. 验证 188 篇 papers
-    if os.path.exists(papers_dir):
-        for f in os.listdir(papers_dir):
-            if f.endswith(".md"):
-                stats["papers"] += 1
-                path = os.path.join(papers_dir, f)
-                with open(path, 'r', encoding='utf-8') as file:
-                    content = file.read()
+# Get valid concept/entity/method/material slugs
+valid_concepts = set(os.path.basename(fp).replace('.md','') for fp in glob.glob('wiki/concepts/*.md'))
+valid_entities = set(os.path.basename(fp).replace('.md','') for fp in glob.glob('wiki/entities/*.md'))
 
-                    # 检查分隔符 (delim=2)
-                    if content.count("---") != 2:
-                        # 容忍正文里有 --- 作为分割线，但 frontmatter 必须是一对
-                        if not (content.startswith("---") and content.count("---", 3) >= 1):
-                            stats["delim_errors"] += 1
+VALID_PAPER_TYPES = {'experiment', 'theory', 'review'}
 
-                    # 检查字段完整性
-                    required_fields = ["领域基础知识::", "研究意义::", "研究结论::"]
-                    for field in required_fields:
-                        if field not in content:
-                            print(f"Missing field in {f}: {field}")
+for fp in sorted(glob.glob('wiki/papers/*.md')):
+    base = os.path.basename(fp).replace('.md', '')
+    with open(fp, 'r', encoding='utf-8') as f:
+        content = f.read()
 
-                    # 检查占位符
-                    if re.search(r"PLHD|<citekey>|TODO|待补|FIXME", content):
-                        stats["plhd_count"] += 1
+    fm_match = re.match(r'^---\n(.*?)\n---\n(.*)$', content, re.DOTALL)
+    if not fm_match:
+        errors.append(f'{base}: NO FRONTMATTER')
+        continue
+    fm = fm_match.group(1)
+    body = fm_match.group(2)
 
-    # 2. 统计所有 wiki 链接和坏链
-    all_md_files = []
-    for d in wiki_dirs + [papers_dir]:
-        if os.path.exists(d):
-            for root, _, files in os.walk(d):
-                for f in files:
-                    if f.endswith(".md"):
-                        all_md_files.append(os.path.join(root, f))
+    # 1. Check paper_type
+    pt_match = re.search(r'^paper_type:\s*(\S+)', fm, re.MULTILINE)
+    if pt_match:
+        pt = pt_match.group(1).strip()
+        if pt not in VALID_PAPER_TYPES:
+            errors.append(f'{base}: invalid paper_type "{pt}"')
+    else:
+        errors.append(f'{base}: missing paper_type')
 
-    all_slugs = set()
-    for f in all_md_files:
-        name = os.path.basename(f).replace(".md", "")
-        all_slugs.add(name)
-        # 记录新创建的 stub
-        with open(f, 'r', encoding='utf-8') as file:
-            c = file.read()
-            if "tags:" in c and "stub" in c:
-                stats["new_stubs"] += 1
+    # 2. Check for 'entitys' (should be 'entities')
+    if re.search(r'^entitys:', fm, re.MULTILINE):
+        errors.append(f'{base}: has "entitys" (should be "entities")')
 
-    for f_path in all_md_files:
-        is_paper = "wiki\\papers" in f_path
-        with open(f_path, 'r', encoding='utf-8') as file:
-            content = file.read()
+    # 3. Check figures only contain valid slugs
+    fig_match = re.search(r'^figures:\s*\[(.*?)\]', fm, re.MULTILINE)
+    if fig_match:
+        figs = [x.strip() for x in fig_match.group(1).split(',') if x.strip()]
+        for fig in figs:
+            if fig not in valid_figures:
+                errors.append(f'{base}: invalid figure slug "{fig}"')
 
-            # 统计图片链接
-            img_links = re.findall(r"!\[.*?\]\((.*?)\)", content)
-            stats["image_links"] += len(img_links)
-            for link in img_links:
-                if "raw/figures" in link:
-                    # 检查路径深度
-                    if is_paper and not link.startswith("../../raw/figures"):
-                        print(f"Bad image link depth in {os.path.basename(f_path)}: {link}")
-                        stats["broken_links"] += 1
-                    elif not is_paper and not (link.startswith("../../raw/figures") or link.startswith("../../../raw/figures")):
-                        # 可能是三层深度（如 write/2026.md）
-                        pass
+    # 4. Check for nested wikilinks in body
+    if re.search(r'\|\[\[', body):
+        errors.append(f'{base}: has nested wikilink')
 
-            # 统计 wiki 链接
-            wiki_links = re.findall(r"\[\[(.*?)\]\]", content)
-            stats["total_links"] += len(wiki_links)
-            for link in wiki_links:
-                # 规范化链接目标
-                target = link.split("|")[0].split("/")[-1].replace(".md", "")
-                if target and target not in all_slugs:
-                    # 排除外部/网络链接或 note 原始笔记
-                    if "raw/note" in link:
-                        if not is_paper:
-                            stats["bad_links_raw"] += 1
-                            print(f"Forbidden raw link in {os.path.basename(f_path)}: {link}")
-                    elif not target.startswith("http") and not target.endswith(".png"):
-                        # print(f"Potential broken link in {os.path.basename(f_path)}: {link}")
-                        # stats["broken_links"] += 1
-                        pass
+    # 5. Check for orphaned relevance/project tags (tags not matching projects field)
+    proj_match = re.search(r'^projects:\s*\[(.*?)\]', fm, re.MULTILINE)
+    if proj_match:
+        projects = set(int(x.strip().replace('project-','')) for x in proj_match.group(1).split(',') if x.strip())
+    else:
+        projects = set()
+    for m in re.finditer(r'(?:project|relevance)/project-(\d)', fm):
+        p = int(m.group(1))
+        if p not in projects:
+            errors.append(f'{base}: orphaned tag for project-{p} (not in projects)')
 
-    return stats
+    # 6. Check for concatenated tag lines
+    tags_match = re.search(r'^tags:\s*\n(.*?)(?=\n[a-zA-Z_]+:|\Z)', fm, re.MULTILINE | re.DOTALL)
+    if tags_match:
+        for line in tags_match.group(1).split('\n'):
+            if line.count('- ') > 1:
+                errors.append(f'{base}: concatenated tag line: {line.strip()[:60]}')
+                break
 
-if __name__ == "__main__":
-    results = verify_vault()
-    print("\n=== FINAL VAULT STATISTICS ===")
-    print(f"Structured Papers: {results['papers']}")
-    print(f"Total Wiki Slugs: {results['new_stubs'] + 188}") # 粗略估计
-    print(f"New Stubs Created: {results['new_stubs']}")
-    print(f"Total Wiki Links: {results['total_links']}")
-    print(f"Total Image Links: {results['image_links']}")
-    print(f"Broken Links: {results['broken_links']}")
-    print(f"Forbidden Raw Links: {results['bad_links_raw']}")
-    print(f"Placeholder Errors: {results['plhd_count']}")
-    print(f"Frontmatter Errors: {results['delim_errors']}")
-    print("==============================\n")
+    # 7. Check body for forbidden raw/note direct links (only papers can link to raw/note)
+    # Actually, papers CAN link to raw/note, so this is fine for papers
+
+    # 8. Check for MathML/HTML pollution in title
+    title_match = re.search(r'^title:\s*"?([^"\n]*)"?', fm, re.MULTILINE)
+    if title_match:
+        title = title_match.group(1)
+        if 'mml:' in title or 'http://www.w3.org' in title or '<sub>' in title or '<mml:' in title:
+            errors.append(f'{base}: title has MathML/HTML pollution')
+
+    # 9. Check double-link section matches projects field
+    dl_match = re.search(r'##\s*🔗\s*项目双链\s*\n(.*?)(?=\n##\s|\Z)', body, re.DOTALL)
+    if dl_match and projects:
+        dl_projects = set()
+        for m in re.finditer(r'project-(\d)-', dl_match.group(1)):
+            dl_projects.add(int(m.group(1)))
+        if dl_projects != projects:
+            errors.append(f'{base}: double-links {sorted(dl_projects)} != projects {sorted(projects)}')
+    elif dl_match and dl_match.group(1).strip() and not projects:
+        # Has double-links but projects is empty
+        if re.search(r'\[\[.*projects/project-\d', dl_match.group(1)):
+            errors.append(f'{base}: has double-links but projects is empty')
+
+# 10. Check non-papers pages don't link to raw/note
+for fp in sorted(glob.glob('wiki/topics/*.md')) + sorted(glob.glob('wiki/concepts/*.md')) + sorted(glob.glob('wiki/projects/*.md')):
+    base = fp
+    with open(fp, 'r', encoding='utf-8') as f:
+        content = f.read()
+    if re.search(r'\[\[.*raw/note/', content):
+        errors.append(f'{base}: non-papers page links to raw/note')
+
+# Summary
+if errors:
+    print(f'FOUND {len(errors)} ISSUES:')
+    for e in errors[:50]:
+        print(f'  {e}')
+    if len(errors) > 50:
+        print(f'  ... and {len(errors)-50} more')
+else:
+    print('ALL CHECKS PASSED - No issues found')
+
+# Stats
+total = len(glob.glob('wiki/papers/*.md'))
+print(f'\nTotal papers checked: {total}')

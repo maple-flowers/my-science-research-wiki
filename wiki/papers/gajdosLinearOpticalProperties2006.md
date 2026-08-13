@@ -6,16 +6,16 @@ year: 2006
 journal: "Physical Review B"
 doi: "10.1103/PhysRevB.73.045112"
 url: "https://doi.org/10.1103/PhysRevB.73.045112"
-paper_type: method
+paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/gajdosLinearOpticalProperties2006]]
-projects: [project-5, project-2]
+projects: [project-5]
 concepts: [density-functional-theory, dielectric-function, polarizability-matrix, local-field-effects, paw-method, longitudinal-transversal-expression, dipole-correction, dfpt, kohn-sham, berry-phase]
 entities: [VASP, GaAs, WIEN2k]
 methods: [dft, dfpt, paw, lda, rpa, k-point-convergence, gw, bse, apw-lo, k-p-perturbation]
 materials: [Si, GaAs, diamond-C, SiC, AlP]
-figures: [optical-spectra, mathematical-models]
+figures: [mathematical-models-computational, optical-spectra]
 领域基础知识:: >-
   材料的宏观光学性质，如吸收和反射，由频率相关的介电函数描述。在计算物理中，该函数通过计算电子对外部电磁场的线性响应，即极化率矩阵，特别是在长波极限（动量转移 q→0）下的行为得到。此极限下的计算对数值方法和理论模型都提出了挑战。
 研究背景:: >-
@@ -41,9 +41,7 @@ tags:
   - type/method
   - year/2006
   - project/project-5
-  - project/project-2
   - relevance/project-5/strong
-  - relevance/project-2/medium
   - concept/density-functional-theory
   - concept/dielectric-function
   - concept/polarizability-matrix
@@ -94,12 +92,12 @@ Gajdos, Hummer, Kresse, Furthmuller, Bechstedt，2006，Physical Review B 73, 04
   - 材料实体 Si、SiC、AlP、diamond-C 可酌情建立（本文基准材料，但与现有项目材料距离较远）。
 ## 📊 关键图表
   - **图1：Si 与 GaAs 介电函数虚部 ε₂ 的纵向 vs 横向 vs APW+LO 对比**
-  - ![Si 与 GaAs 介电函数虚部 ε₂，纵向 vs 横向 vs APW+LO](../../raw/figures/gajdosLinearOpticalProperties2006/fig_1_BWLDA4M8.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![Si 与 GaAs 介电函数虚部 ε₂，纵向 vs 横向 vs APW+LO](../../raw/figures/gajdosLinearOpticalProperties2006/fig_1_BWLDA4M8.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：双子图二维曲线图，上为 Si、下为 GaAs；横轴光子能量（eV），纵轴为介电函数虚部 ε₂（无量纲），ε₂ 峰值即光吸收峰。实线/点线为本文纵向表达式，虚线为传统横向表达式，方形符号为全电子 APW+LO 基准；主要光学跃迁峰 E₀、E₁、E₂、E₀'、E₁' 按 Yu & Cardona 约定用箭头标出。
   - **关键特征**：纵向与横向给出完全相同的峰位（由基态 Kohn-Sham 能带与选择定则决定），差异只在峰强；Si 的横向表达式显著高估峰强，纵向曲线与 APW+LO 几乎重合；GaAs 因 PAW 势已含 d 投影子，两式结果差异较小；若在横向计算中补入 d 投影子，峰强即回落至纵向水平，证实误差来自标准 PAW 势 l=1 截断不足。
   - **结论/意义**：该图直观证明纵向表达式在标准 PAW 势下即可恢复全电子精度，纠正了横向表达式对 Si、SiC、AlP 吸收强度的系统高估。
   - **表III：五种立方材料的离子钳位静态宏观介电常数综合对比**
-  - ![静态介电常数综合对比表（纵向/横向、mic/RPA/DFT、cond/LR、APW+LO、实验）](../../raw/figures/gajdosLinearOpticalProperties2006/tab_0_AX2DEQS7.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![静态介电常数综合对比表（纵向/横向、mic/RPA/DFT、cond/LR、APW+LO、实验）](../../raw/figures/gajdosLinearOpticalProperties2006/tab_0_AX2DEQS7.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：行为 C、Si、SiC、AlP、GaAs、Ga_dAs 六种材料设置，列为不同方法与近似：纵向/横向、mic（忽略局域场）/RPA（Hartree 级局域场）/DFT（含交换关联局域场）、cond（对导带求和）/LR（DFPT 线性响应）、含/不含 d 投影子、APW+LO 全电子基准以及实验值。
   - **关键特征**：纵向表达式下 mic_cond 与 mic_LR、RPA_cond 与 RPA_LR、DFT_cond 与 DFT_LR 两两吻合，验证导带求和与 DFPT 自洽；Si mic_cond 纵向 14.04、横向 16.50，横向加入 d 投影子后降至 14.09，与纵向偏差 <1%；含局域场后介电常数降低 3%–9%（如 Si mic 14.08→RPA 12.66→DFT 13.29，C 5.98→5.54→5.80）；DFT_LR 纵向值 C 5.80、Si 13.29、SiC 6.97、AlP 8.33、GaAs 14.42、Ga_dAs 14.37，与 APW+LO（Si 13.99 mic、GaAs 15.36 mic）在 1% 内一致；实验值 C 5.70、Si 11.90、SiC 6.52、AlP 7.54、GaAs 11.10，LDA 系统高估 5%–20%，且带隙越小高估越严重。
   - **结论/意义**：本表是全文核心数据，定量证明纵向表达式在标准 PAW 势下即达全电子精度，并把剩余与实验的偏差干净归因于 LDA 带隙低估而非 PAW 技术误差。
@@ -110,7 +108,6 @@ Gajdos, Hummer, Kresse, Furthmuller, Bechstedt，2006，Physical Review B 73, 04
   - 其余项目（project-1 双光子、project-3 机械发光 NN、project-4 TTF 分子、project-6 湿度传感、project-7 CDW）无直接项目连接；project-4 虽也用 DFT，但分子体系光学性质与 PAW 周期性固体长波极限问题关系较远。
 ## 🔗 项目双链
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
 论文按"提出问题（横向表达式在非局域 PAW 势下失效）→ 理论推导（Adler-Wiser 公式 + PAW 变换 + q→0 Taylor 展开 → 极化矢量含三项）→ DFPT 拓展（Sternheimer 方程）→ 数值验证（五种立方材料，与横向、全电子 APW+LO 对比）→ 结论与展望（GW/BSE）"组织。关键术语：projector-augmented wave（PAW，投影缀加波）、longitudinal/transversal expression（纵向/横向表达式）、polarizability matrix（极化率矩阵）、dielectric function（介电函数）、local field effects（局域场效应）、dipole correction μ_ij（偶极矩修正项）、ion-clamped dielectric constant（离子钳位介电常数，即 ε∞）、density functional perturbation theory（DFPT，密度泛函微扰理论）、long-wavelength limit q→0（长波极限）。

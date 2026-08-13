@@ -15,7 +15,7 @@ concepts: [landau-quantization, avoided-crossing, quantum-tunneling, quantum-tra
 entities: []
 methods: [analytical-derivation, numerical-solution, schrodinger-equation, variable-separation, parabolic-cylinder-functions, feynman-hellmann-theorem]
 materials: []
-figures: [crystal-structures, mathematical-models]
+figures: []
 领域基础知识:: >-
   凝聚态物理学，介观物理，量子输运理论，量子力学。涉及朗道量子化、霍尔效应、量子隧穿、能级抗交叉等核心概念。
 研究背景:: >-

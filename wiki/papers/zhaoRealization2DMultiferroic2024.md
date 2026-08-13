@@ -11,12 +11,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/zhaoRealization2DMultiferroic2024]]
-projects: [project-1, project-2]
+projects: []
 concepts: [2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, topological-defects]
 entities: [CrTe2, In2Se3, TMDs, VASP, WTe2]
 methods: [afm-pfm, berry-phase, dft, monte-carlo, neb]
 materials: [CrTe2, In2Se3, TMDs, WTe2]
-figures: [crystal-structures, electronic-bands, heterostructures-stacking, mathematical-models]
+figures: [crystal-structures-bulk, domain-walls-switching-properties, electronic-bands-dos-fermi, experimental-setups, mathematical-models-magnetoelectric, vibrational-spectra]
 领域基础知识:: >-
   二维（2D）材料，多铁性（同时存在铁电、铁磁等序），磁电耦合效应（电场控磁，磁场控电），第I类多铁（磁性、铁电来源不同，耦合弱），第II类多铁（铁电源于特殊磁序，耦合强但极化弱），插层（在材料层间插入原子/分子），过渡金属硫族化合物（TMDs），斯格明子（一种拓扑保护的涡旋状自旋结构），Dzyaloshinskii-Moriya相互作用（DMI，非中心对称体系中的反对称交换作用，是形成斯格明子的关键）。
 研究背景:: >-
@@ -41,10 +41,6 @@ tags:
   - paper
   - type/experiment
   - year/2024
-  - project/project-1
-  - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/medium
   - concept/2D-materials
   - concept/berry-phase
   - concept/density-functional-theory
@@ -83,7 +79,7 @@ Ying Zhao, Yanxia Wang, Yue Yang, Jijun Zhao, Xue Jiang（大连理工大学/华
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/topological-defects]]、[[../concepts/polarization-switching]]
   - 实体 [[../entities/TMDs]]、[[../entities/VASP]]、[[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/CrTe2]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking]]、[[../figures/experimental-setups|实验测试与测量装置]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/mathematical-models]]、[[../figures/experimental-setups|实验测试与测量装置]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - 年度 [[../write/2024]]
   - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/zhaoRealization2DMultiferroic2024]]
@@ -96,15 +92,15 @@ Ying Zhao, Yanxia Wang, Yue Yang, Jijun Zhao, Xue Jiang（大连理工大学/华
   - `high-throughput-screening`（高通量筛选）：基于第一性原理批量计算并按稳定性/能垒/物性漏斗式筛选候选材料的方法论。
   - 实体 `T-CdCr2Te4`：本文旗舰型 a 类多铁体，近室温（T_C=260 K）、电场可克斯格明子手性。
 ## 📊 关键图表
-  - ![T-/H-AM2X4 晶体结构与铁电翻转机制](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_1_S88Q2EF3.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![T-/H-AM2X4 晶体结构与铁电翻转机制](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_1_S88Q2EF3.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
     - **图示描述**：对比展示基于 1T 相 MX₂ 双层的 T-AM₂X₄ 与基于 2H 相的 H-AM₂X₄ 两种晶体结构，标出插层原子 A 的两个等效位置 FE1/FE2 及 A 在两位置间翻转的位移路径（蓝色箭头）。
     - **关键特征**：A 原子（紫色）与一侧 1 个 X、另一侧 3 个 X 形成不对称四面体配位，从而破缺中心反演对称并产生自发极化；A 在 FE1↔FE2 间 180° 翻转即对应上下层配位环境互换与极化反向，是整篇论文"插层诱导铁电"策略的结构起源。
     - **结论/意义**：该图给出全部 960 种候选物共用的结构母型，把铁电翻转简化为单原子在四面体空位间的位移，为后续低翻转势垒设计提供几何基础。
-  - ![960→21 高通量筛选漏斗流程图](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_2_7QNUMABJ.png) → [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![960→21 高通量筛选漏斗流程图](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_2_7QNUMABJ.png) → [[../figures/vibrational-spectra|振动光谱]]
     - **图示描述**：以漏斗式流程图呈现从 960 种非中心对称 AM₂X₄ 候选物到最终 21 种多铁体的四步高通量筛选，每一步标出通过的材料数目与判据。
     - **关键特征**：第一步结构优化确认自发极化；第二步声子谱无虚频（104 种）+ 形成能为负（100 种）保证动力学/热力学稳定；第三步以铁电翻转势垒 < 200 meV/f.u. 并排除已报道体系，筛出 40 种稳定铁电体；第四步按磁基态再筛得 21 种多铁体（10 FM、9 AFM、2 FiM），并按磁性起源分成 type-a/b/c 三类。
     - **结论/意义**：这张图是全文论证骨架，把"插层策略"落到可复制的筛选流水线，并直接给出 21 种候选物的分类结果。
-  - ![T-PdZr2Se4 与 T-CoTi2Te4 电子结构及极化/传导电子空间分离](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_3_VSIZIKC2.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![T-PdZr2Se4 与 T-CoTi2Te4 电子结构及极化/传导电子空间分离](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_3_VSIZIKC2.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
     - **图示描述**：左右两栏分别对应金属铁电体 T-PdZr₂Se₄（非磁）与 T-CoTi₂Te₄（自旋极化），每栏含 (a,d) 能带、(b,e) PDOS、(c,f) 沿 z 方向的传导电子密度 ρ_c(z) 与极化电子密度 ρ_P(z) 曲线。
     - **关键特征**：能带显示费米能级穿过能带、无带隙，证实两种材料均为金属；PDOS 表明 T-PdZr₂Se₄ 的导电电子主要来自 ZrSe₂ 层；ρ_c 主要分布在顶/底 MX₂ 层，而 ρ_P=ρ_FE−ρ_PE 局域在插层原子周围并呈振荡——两类电荷实空间分离使自由电子无法完全屏蔽面外极化，T-PdZr₂Se₄ 的 P_out 达 3.10 pC/m。
     - **结论/意义**：该图从电子结构层面解释了"金属性与铁电性共存"这一反直觉现象，是论文提出金属铁电新机制的核心证据。
@@ -116,23 +112,23 @@ Ying Zhao, Yanxia Wang, Yue Yang, Jijun Zhao, Xue Jiang（大连理工大学/华
     - **图示描述**：横轴为垂直磁场（约 0–3.5 T），纵轴为温度（0–60 K），用色块/边界标出条纹畴、反斯格明子晶格、FM 与无序相等区域。
     - **关键特征**：T = 0 K 时反斯格明子相锁定在约 2.4–3.17 T 的窄磁场窗口；随温度升高窗口变窄、临界场降低；T > 40 K 后不再形成斯格明子，条纹畴直接转入 FM；T > 60 K 进入热无序相，斯格明子晶格相的临界温度约 40 K。
     - **结论/意义**：给出实验上观测电控斯格明子的温度/磁场操作窗口，也指出当前体系斯格明子相仍受低温限制。
-  - ![T-CoZr2S4 极化翻转路径上磁基态 FM-AFM-FM 与 MAE 变化](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_6_D3YLN99Y.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![T-CoZr2S4 极化翻转路径上磁基态 FM-AFM-FM 与 MAE 变化](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_6_D3YLN99Y.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
     - **图示描述**：横轴为 CI-NEB 得到的铁电翻转路径（FE1 → PE → FE2），多条彩色曲线表示不同 AFM 构型相对 FM 态的能量差 ΔE，黑色曲线表示磁各向异性能 MAE 沿路径的变化。
     - **关键特征**：FE1、FE2 两端 ΔE_AFM−FM > 0，磁基态为 FM；接近 PE 相处 ΔE 变负，磁基态转为 AFM，整体经历 FM→AFM→FM 可逆转变；PE 相处 MAE 骤变为约 −13.34 meV/Co，易磁化轴由面外翻为面内；代表材料 T-CoZr₂S₄ 的 T_C ≈ 70 K，FE 在 300 K 仍稳定。
     - **结论/意义**：该图刻画了 type-b 磁电耦合机制——极化路径不仅切换电极化，还同时切换磁基态与易轴方向，为电场调控磁序提供新途径。
-  - ![T-CoTi2Te4 FE1/FE2 态能带与 PDOS 自旋极化反转](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_7_DKCIN6VB.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![T-CoTi2Te4 FE1/FE2 态能带与 PDOS 自旋极化反转](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_7_DKCIN6VB.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
     - **图示描述**：(a,b) 为 T-CoTi₂Te₄ 在 FE1 与 FE2 态下的电子能带，(c,d) 为对应自旋分辨的 PDOS，对比费米能级附近上、下自旋通道的占据。
     - **关键特征**：两种极化态均为金属；FE1 态费米能级附近传导电子以自旋向下为主，FE2 态翻转为自旋向上为主；Ti_top/Ti_bot 磁矩由 0.62/0.82 μ_B 互换为 0.82/0.62 μ_B，净磁矩约 0.21 μB/f.u.；易磁化轴由 x 方向翻为 z 方向。
     - **结论/意义**：该图是 type-c 磁电耦合的直接证据——极化翻转重排了自旋极化电子的实空间分布，可用于电控自旋滤波或自旋逻辑器件。
-  - ![表1：19 种非磁铁电体带隙、极化与翻转势垒](../../raw/figures/zhaoRealization2DMultiferroic2024/tab_1_P98XXL3P.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![表1：19 种非磁铁电体带隙、极化与翻转势垒](../../raw/figures/zhaoRealization2DMultiferroic2024/tab_1_P98XXL3P.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
     - **图示描述**：表格汇总从 40 种稳定铁电体中分出的 19 种非磁（半导体/金属）铁电体，列出 GGA+U 带隙、磁基态、面外极化 P_out 与铁电翻转势垒 E_B。
     - **关键特征**：4 种半导体铁电体同时具有面内 P_in（Berry phase，最高约 306.45 pC/m）和面外 P_out（偶极修正，最高约 15.22 pC/m），量级与 In₂Se₃ 相当；其余金属铁电体 P_out 分布在约 0.43–9.61 pC/m，普遍大于实验测得的 WTe₂ 双层（0.42 pC/m）；势垒整体控制在 200 meV/f.u. 阈值以下。
     - **结论/意义**：表 1 量化了"插层策略"在非磁体系中的铁电性能，为后续多铁筛选提供基准池。
-  - ![表2：21 种多铁体磁基态、T_C/T_N、MAE、极化与势垒](../../raw/figures/zhaoRealization2DMultiferroic2024/tab_2_BHS6QQPS.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![表2：21 种多铁体磁基态、T_C/T_N、MAE、极化与势垒](../../raw/figures/zhaoRealization2DMultiferroic2024/tab_2_BHS6QQPS.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
     - **图示描述**：表格列出全部 21 种多铁 AM₂X₄ 的磁基态（FM/AFM/FiM）、居里/奈尔温度 T_C/T_N、磁各向异性能 MAE、面外极化 P_out 与翻转势垒 E_B，并按 type-a/b/c 分组。
     - **关键特征**：type-a 旗舰 T-CdCr₂Te₄ 的 T_C ≈ 260 K、FE 转变温度 >300 K、P_out ≈ 2.77 pC/m、E_B ≈ 66 meV/f.u.；type-b 代表 T-CoZr₂S₄ 的 T_C ≈ 70 K 但 FE 在室温稳定；type-c 代表 T-CoTi₂Te₄ 净磁矩约 0.21 μB/f.u.、E_B ≈ 79 meV/f.u.；同属 type-a 的 T-AgMn₂Se₄ T_C 高达约 525 K。
     - **结论/意义**：表 2 是论文交付给实验方的候选材料清单，把三类磁电耦合机制与具体组分、关键性能参数一一对应。
-  - ![表3：T-CdCr2Te4 顶层/底层 Cr 的 J 与 DMI 参数](../../raw/figures/zhaoRealization2DMultiferroic2024/tab_3_2VLQ8VY7.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![表3：T-CdCr2Te4 顶层/底层 Cr 的 J 与 DMI 参数](../../raw/figures/zhaoRealization2DMultiferroic2024/tab_3_2VLQ8VY7.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
     - **图示描述**：表格给出 T-CdCr₂Te₄ 在 FE1 与 FE2 态下，顶层与底层 CrTe₂ 亚层的近邻海森堡交换 J_ij 与 Dzyaloshinskii-Moriya 矢量 D_ij 等自旋哈密顿量参数。
     - **关键特征**：FE1 态顶层 |D| 约为底层的 3 倍，FE2 态两层的 D 强度与方向整体互换；J 始终为铁磁性符号但随极化方向略有变化；由此算出的 D/|J| 比落在约 9.03%–20.80%，恰好进入可承载斯格明子的区间；这些参数是 MC 模拟复现反斯格明子及其手性反转的直接输入。
     - **结论/意义**：表 3 把"电场控斯格明子"的现象学观察落实到可量化的微观磁耦合参数上，是 type-a 机制的定量支撑。
@@ -140,8 +136,6 @@ Ying Zhao, Yanxia Wang, Yue Yang, Jijun Zhao, Xue Jiang（大连理工大学/华
 ## 🔬 项目连接
 project-2 Mn多铁（本文 a 类含多种 Mn 基多铁体如 T-CuMn₂Se₄、T-AgMn₂S₄/Se₄、T-CdMn₂Se₄，T-AgMn₂Se₄ 的 T_C 高达 525 K，与 Mn 多铁主题直接相关）；其余 project-1/3/4/5/6/7 无直接连接。
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
 论文按"策略提出 → 四步高通量筛选 → 铁电行为（半导体/金属分开讨论）→ 三类磁电耦合机制逐一剖析 → 结论"递进展开。论证以筛选漏斗（960→104/100→40→21）为骨架，再用三个代表材料（T-CdCr₂Te₄、T-CoZr₂S₄、T-CoTi₂Te₄）分别承载 a/b/c 三类机制，结构清晰、数据-机制对应。值得复用的术语：

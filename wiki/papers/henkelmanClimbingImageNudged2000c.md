@@ -6,7 +6,7 @@ year: 2000
 journal: "The Journal of Chemical Physics"
 doi: "10.1063/1.1329672"
 url: "https://doi.org/10.1063/1.1329672"
-paper_type: method
+paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/henkelmanClimbingImageNudged2000c]]
@@ -15,7 +15,7 @@ concepts: [nudged-elastic-band, climbing-image-neb, minimum-energy-path, saddle-
 entities: [VASP, Ir-111, Si-100]
 methods: [neb, ci-neb, dft, plane-wave, pw91, ultrasoft-pseudopotentials, hTST, projected-velocity-verlet, variable-spring-constants]
 materials: [CH4, H2, Ir, Si]
-figures: [mathematical-models, energy-path-profile]
+figures: [mathematical-models-simulations]
 领域基础知识:: >-
   计算化学与凝聚态物理中的“稀有事件”问题，即原子的振动频率远高于其发生反应或扩散的速率，导致直接模拟不可行。通过**过渡态理论（TST）**及其**谐波近似（hTST）**，反应速率计算被转化为在**势能面（PES）**上寻找连接初态与终态的**最小能量路径（MEP）**，并精确定位路径上的能量最高点——**鞍点（Saddle Point）**。
 研究背景:: >-
@@ -101,13 +101,13 @@ Graeme Henkelman, Blas P. Uberuaga, Hannes Jónsson，2000，The Journal of Chem
   - 实体建议：`Ir-111`、`Si-100`（本文两个验证表面体系，可作为表面催化/半导体表面实体）。
 ## 📊 关键图表
   - **图 1：CH₄/Ir(111) 解离吸附 MEP——常规 NEB 与 CI-NEB 对比**
-  - ![CH4/Ir(111) 解离吸附 MEP：常规 NEB 与 CI-NEB 对比](../../raw/figures/henkelmanClimbingImageNudged2000c/fig_1_KRQQQH5S.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![CH4/Ir(111) 解离吸附 MEP：常规 NEB 与 CI-NEB 对比](../../raw/figures/henkelmanClimbingImageNudged2000c/fig_1_KRQQQH5S.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
   - **图示描述**：以归一化反应坐标（0.0 为解离后 H 与 CH₃ 分别吸附在相邻 Ir 顶位，1.0 为距表面 4 Å 的 CH₄ 分子）为横轴，体系能量（eV）为纵轴，对比 8 个可动图像下常规 NEB（圆点/方块点）与 CI-NEB（三角点）两条 MEP；曲线由相邻图像间的力—能三次多项式插值得到。
   - **关键特征**：① 常规 NEB 在窄能垒顶部没有图像，插值曲线最高点明显偏低，系统性低估活化能；② CI-NEB 把一个图像严格拉到鞍点上，直接读出活化能约 0.4 eV（DFT/PW91，实验值 0.28 eV，尚需零点能、色散、有限尺寸修正）；③ MEP 上存在一个比 0.0 端化学吸附态更深的中间极小值（H 处于桥位），过渡态最近邻 Ir 原子被拉出表面 0.5 Å，说明真实路径显著偏离端点直线插值；④ 两种方法的力评估次数差在 10% 以内，CI-NEB 不一定更慢。
   - **结论/意义**：该图直接证明 CI 修改只需代数反转势能力的切线分量，即可在零额外成本下消除常规 NEB 对窄能垒活化能的插值低估。
 
   - **图 2：H₂/Si(100) 解离吸附 MEP——等弹簧与可变弹簧 CI-NEB 对比**
-  - ![H2/Si(100) 解离吸附 MEP：等弹簧与可变弹簧 CI-NEB 对比](../../raw/figures/henkelmanClimbingImageNudged2000c/fig_2_UCDE3WDT.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![H2/Si(100) 解离吸附 MEP：等弹簧与可变弹簧 CI-NEB 对比](../../raw/figures/henkelmanClimbingImageNudged2000c/fig_2_UCDE3WDT.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
   - **图示描述**：横轴为归一化反应坐标（0.0 为吸附在 Si 二聚体上的解离态，1.0 为距表面 3.8 Å 的 H₂ 分子），纵轴为能量（eV）；对比等弹簧常数的 CI-NEB（圆点/方块点）与能量自适应可变弹簧常数的 CI-NEB（三角点，曲线整体上移 1.0 eV 以便区分），两条路径均由 DFT/PW91 计算。
   - **关键特征**：① 等弹簧时大量图像堆在反应坐标 0.6–1.0 的长而平坦的物理吸附前驱区，窄而陡的能垒区只有两个点；② 可变弹簧按公式 (6) 让高能段弹簧变硬、低能段变软，图像被"拉向"鞍点附近，平坦区变得稀疏，能垒区显著加密，从而改善切线估计与鞍点反应坐标；③ 收敛容差 0.03 eV/Å 下，常规 NEB 需 179 次力评估，等弹簧 CI-NEB 需 190 次，可变弹簧 CI-NEB 仅需 178 次，加密鞍点并未增加计算量；④ E_ref 取两端点中较高者的能量，保证两个端点附近图像密度大致均衡。
   - **结论/意义**：该图验证了可变弹簧常数方案在不对称 MEP（长平坦前驱区 + 窄能垒）中能以同等计算代价把分辨率集中到鞍点，是 CI-NEB 的关键配套策略。

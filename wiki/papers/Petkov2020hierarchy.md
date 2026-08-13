@@ -15,7 +15,7 @@ concepts: [charge-density-wave, 2D-materials, superconductivity, pair-distributi
 entities: [TMDs, TaSe2, TaTe2, TaSe2-xTex, GSAS-II, RMCpp, advanced-photon-source]
 methods: [high-energy-xrd, synchrotron-xrd, rietveld-refinement, pair-distribution-function, resonant-xrd, reverse-monte-carlo, magnetometry, ppms-vsm]
 materials: [TaSe2, TaTe2, TaSe2-xTex]
-figures: [crystal-structures, vibrational-spectra]
+figures: []
 领域基础知识:: >-
   过渡金属二硫属化物（TMDs）是一类由过渡金属（如Ta）和硫族元素（如S, Se, Te）组成的层状材料，其晶格结构多样，包含2H、3R、1T、1T‘等多种多型体。电荷密度波（CDW）与超导（SC）是TMDs中常见的两种相互竞争的集体电子态，其出现与晶格结构、温度和化学掺杂密切相关。
 研究背景:: >-

@@ -15,7 +15,7 @@ concepts: [charge-density-wave, electride, pair-distribution-function, mott-insu
 entities: [ITQ-4, Cs, PDFFIT, RAD]
 methods: [pxrd, pair-distribution-function, synchrotron-xrd, differential-pdf, pdffit]
 materials: [CsxSi32O64, ITQ-4, cesium]
-figures: [crystal-structures, mathematical-models]
+figures: [crystal-structures-bulk, crystal-structures-surfaces-defects, crystal-structures-xrd-phases, mathematical-models-formulas]
 领域基础知识:: >-
   电子化合物是一类特殊的离子固体，其阴离子是"囚禁"在宿主晶格空腔中的自由电子。这些低密度电子气表现出强关联电子行为，如莫特绝缘体和海森堡反铁磁性。原子对分布函数是一种通过傅里叶变换整个X射线/中子衍射图谱（包括布拉格峰和漫散射）来获取材料中原子间距概率分布的技术，能同时解析长程和短程结构，尤其擅长研究纳米尺度、缺乏长程有序的材料。
 研究背景:: >-
@@ -94,27 +94,27 @@ Petkov, Billinge, Vogt, Ichimura, Dye，2002，Physical Review Letters 89, 07550
 
 ## 📊 关键图表
   - **图1**：原始Si₃₂O₆₄沸石与两种Cs负载量电子化合物 CsₓSi₃₂O₆₄（x = 0, 3.6, 4.6）的粉末衍射图样(a)及对应结构函数 S(Q)(b)，横坐标为波矢 Q（Å⁻¹），插图放大展示了12–20 Å⁻¹区间。
-  - ![图1：原始Si32O64和CsxSi32O64的粉末衍射图样(a)及结构函数S(Q)(b)](../../raw/figures/petkovStructureIntercalatedCs2002/fig_1_2TLQSU8V.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图1：原始Si32O64和CsxSi32O64的粉末衍射图样(a)及结构函数S(Q)(b)](../../raw/figures/petkovStructureIntercalatedCs2002/fig_1_2TLQSU8V.png) -> [[../figures/crystal-structures-xrd-phases|XRD与相变]]
   - **图示描述**：上图(a)为原始粉末衍射强度随 Q 的变化，下图(b)为经过通量、背景、康普顿散射和吸收校正并以绝对电子单位归一化后的结构函数 S(Q)；三条曲线自上而下分别对应纯 ITQ-4 与 x=3.6、x=4.6 两种电子化合物。
   - **关键特征**：纯 Si₃₂O₆₄ 显示高而尖锐的布拉格峰，证明骨架的长程晶体有序；掺 Cs 后布拉格峰在 Q≈2 Å⁻¹ 处即显著衰减并合并为缓慢振荡的漫散射背景，插图(12–20 Å⁻¹)更清晰地展示了峰的消失与漫散射主导；S(Q) 在高 Q 区仍有振荡，说明局域尺度上材料依然有序，这正是 PDF 方法可以解析纳米受限 Cs 结构的前提。
   - **结论/意义**：直观证明传统只取布拉格峰的晶体学方法在此体系失效，必须采用同时利用布拉格峰与漫散射的 PDF 技术，是全文论证的出发点。
   - **图2**：CsₓSi₃₂O₆₄（x = 0, 3.6, 4.6）的实验（圆圈）与锯齿链 Cs⁺ 模型（实线）总原子对分布函数 G(r)，横坐标为原子间距 r（Å），纵坐标为 G(r)（Å⁻²）。
-  - ![图2：CsxSi32O64 (x=0, 3.6, 4.6)的实验(圆圈)与模型(实线)PDF G(r)](../../raw/figures/petkovStructureIntercalatedCs2002/fig_2_SYM42JPI.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图2：CsxSi32O64 (x=0, 3.6, 4.6)的实验(圆圈)与模型(实线)PDF G(r)](../../raw/figures/petkovStructureIntercalatedCs2002/fig_2_SYM42JPI.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：三组 PDF 曲线纵向错开排列，分别覆盖纯沸石骨架以及两种 Cs 负载样品；圆圈是 NSLS X7A 光束线 29.09 keV 同步辐射实验数据，实线是在 I2/m 空间群约束下用 PDFFIT 计算的模型 PDF。
   - **关键特征**：三条曲线在 r ≈ 1.61 Å 处均有尖锐峰，对应 SiO₄ 四面体的 Si–O 键长，证明 Cs 嵌入后沸石基本骨架单元未被破坏；掺 Cs 样品在 r ≈ 4 Å 处出现一个随 x 增大而增强的新峰（箭头标出），被明确归因于含 Cs 原子对（Cs–Cs 或 Cs–骨架）的关联；锯齿链 Cs⁺ 模型实线与实验圆圈在整个 r 范围高度吻合，而 Cs⁰（半径 2.67 Å）和 Cs⁻（半径 3.5 Å）模型均无法重现数据。
   - **结论/意义**：从总 PDF 层面同时验证了"骨架拓扑保持"与"Cs 以 Cs⁺ 形式形成有序阵列"两条核心论断。
   - **图3**：两种 CsₓSi₃₂O₆₄ 电子化合物的 Cs 差分 PDF（实验圆圈 vs 锯齿链模型实线），通过对不同 Cs 含量样品总 PDF 做加权差值得到，化学特异性地分离出 Cs 相关信号。
-  - ![图3：CsxSi32O64电子化合物的Cs差分PDF，实验(圆圈)与模型(实线)](../../raw/figures/petkovStructureIntercalatedCs2002/fig_3_8VYN6S86.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图3：CsxSi32O64电子化合物的Cs差分PDF，实验(圆圈)与模型(实线)](../../raw/figures/petkovStructureIntercalatedCs2002/fig_3_8VYN6S86.png) -> [[../figures/crystal-structures-surfaces-defects|表面、缺陷与形貌]]
   - **图示描述**：差分 PDF 仅反映 Cs–Cs 与 Cs–硅酸盐骨架之间的原子对关联，骨架本身的信号被扣除；横坐标仍为 r（Å），两条曲线分别对应 x=3.6 与 x=4.6 样品。
   - **关键特征**：实验差分 PDF 在 r 高达 13 Å 甚至更远仍呈现清晰、规则的物理振荡而非随机噪声，证明孔道内 Cs 物种并非随机分布而是形成延伸、连贯的纳米尺度有序亚结构；锯齿链模型计算的实线与实验圆圈在整个 0–13 Å 范围吻合良好；该方法无需同位素替换或共振散射即实现了化学选择性，前提是不同 Cs 含量样品的骨架局域结构保持一致（已由 1.61 Å 峰不变验证）。
   - **结论/意义**：差分 PDF 把 Cs 亚晶格从复杂总信号中剥离出来，是判定 Cs 形成"延伸锯齿链"而非孤立团簇的关键证据。
   - **图4（彩色）**：CsₓSi₃₂O₆₄ 的原子结构片段，直观呈现 Cs⁺ 离子在 ITQ-4 正弦形纳米孔道内组装成的锯齿形链。
-  - ![图4：CsxSi32O64原子结构片段，Cs+离子(红)在纳米孔中组装成锯齿形链，O为蓝色，Si为黑色](../../raw/figures/petkovStructureIntercalatedCs2002/fig_4_WGZDUGRI.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图4：CsxSi32O64原子结构片段，Cs+离子(红)在纳米孔中组装成锯齿形链，O为蓝色，Si为黑色](../../raw/figures/petkovStructureIntercalatedCs2002/fig_4_WGZDUGRI.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：红色大球为 Cs⁺ 离子，蓝色为 O 原子，黑色为 Si 原子；视角沿 ITQ-4 单斜晶胞 c 轴方向展开，可见直径约 7 Å 的伪一维正弦形孔道。
   - **关键特征**：Cs⁺ 紧贴孔道壁交替占据 I2/m 空间群中的 4h (1/2, y, 0) 与 4g (0, y, 0) 位，y 分别为 0.870(5) 和 0.370(5)；当 x 接近 4 时这两组位点恰好半满，形成连续的之字形阳离子链；链上相邻 Cs⁺–Cs⁺ 最小间距约 5.2 Å，是紧密堆积趋势与同号电荷库仑排斥相平衡的结果；当 x > 4 必须占据超过一半位点，迫使出现约 4 Å 的过近 Cs⁺–Cs⁺ 接触，库仑排斥能骤增，解释了实验上 x ≈ 4.6 的合成上限。
   - **结论/意义**：把 PDF 拟合得到的原子坐标具象化为正电亚晶格图像，为孔道内低密度电子气作为"阴离子"提供电荷平衡，并与 NMR 展宽、反铁磁性等物性自洽。
   - **公式(1)**：原子对分布函数 G(r) 的定义式，通过对结构函数 Q[S(Q)−1] 做正弦傅里叶变换得到实空间原子间距概率分布。
-  - ![公式(1)：PDF的傅里叶变换定义式](../../raw/figures/petkovStructureIntercalatedCs2002/eq_1_89B8JNNH.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式(1)：PDF的傅里叶变换定义式](../../raw/figures/petkovStructureIntercalatedCs2002/eq_1_89B8JNNH.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
   - **图示描述**：G(r) = 4πr[ρ(r) − ρ₀] = (2/π) ∫₀^{Qmax} Q[S(Q) − 1] sin(Qr) dQ，其中 ρ₀ 为平均原子数密度，ρ(r) 为原子对密度，Q 为波矢大小，S(Q) 为校正归一化后的粉末衍射结构函数。
   - **关键特征**：积分覆盖整个衍射图谱（包括布拉格峰和漫散射），因此可以同时捕捉长程有序与短程序/无序；高 Qmax 直接决定实空间分辨率，是 PDF 能解析纳米尺度、缺乏长程平移对称材料（如本文嵌 Cs 沸石）的数学基础；数据用 RAD 程序校正归约、PDFFIT 程序建模拟合。
   - **结论/意义**：这一公式是整篇论文方法论的核心，把"衍射图谱 → 实空间原子距离分布"打通，使后续图2、图3的结构判定成为可能。

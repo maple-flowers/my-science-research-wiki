@@ -10,12 +10,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/wongEvidenceMetallic1T]]
-projects: [project-7, project-2]
+projects: [project-7]
 concepts: [2d-materials, charge-density-wave, spin-orbit-coupling, density-functional-theory, 1t-phase, 1t-prime-phase, fermi-surface-nesting, electron-phonon-coupling, substrate-effect, d1-electronic-configuration, octahedral-crystal-field, exchange-splitting, vdw-magnets]
 entities: [VTe2, VASP, TMDs, HOPG, graphene]
 methods: [mbe, stm-sts, pes-xps, arpes, xas, xmcd, dft, paw-pbe, vdw-dft]
 materials: [VTe2]
-figures: [crystal-structures, electronic-bands]
+figures: []
 # ↓↓↓ 十个文献矩阵字段（逐字复制自 raw/note blockquote）↓↓↓
 领域基础知识:: >-
   二维材料、过渡金属二硫化物（TMDs）是研究热点，其家族成员展现出丰富的电子特性，如金属、半导体、磁性和超导性。电荷密度波（CDW）是低维体系中常见的量子现象，指电子密度和晶格原子位置的周期性调制。体系维度降低会显著影响材料的物理性质，包括相变行为。
@@ -42,9 +42,7 @@ tags:
   - type/experiment
   - year/2019
   - project/project-7
-  - project/project-2
   - relevance/project-7/strong
-  - relevance/project-2/weak
   - concept/2d-materials
   - concept/charge-density-wave
   - concept/spin-orbit-coupling
@@ -132,7 +130,6 @@ raw/figures 目录仅有 manifest.json，无实际图片文件，以下五张关
 
 ## 🔗 项目双链
 - 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
 论证沿"MBE 制备 → STM 结构与 CDW 实空间确认 → PES 化学态/价带 → ARPES 能带与相鉴定 → XAS/XMCD 裁决 d¹ 构型与磁性 → DFT 解释衬底为何抑制 1T'"层层递进，是否定性结论（无铁磁）与肯定性结论（1T/d¹/(4×4) CDW）交织的证据链范式。值得复用的术语：
@@ -153,6 +150,6 @@ raw/figures 目录仅有 manifest.json，无实际图片文件，以下五张关
   5. ARPES（He Iα, 21.218 eV，能量分辨率 20 meV）：费米能级附近见弱色散 V 3d 带与强向下色散的简并 Te 4p 带；11 K 实验能带与 1T 相 DFT 吻合、与 2H 不符；只观察到单一 d 带而非交换劈裂双带，间接排除铁磁基态；300 K→11 K 的 Γ 点 EDC 峰宽变窄但无 leading-edge 中点位移，确认 Γ 点无 CDW 能隙。
   6. XAS（V L₂,₃ 边，TEY 模式，16 K，±1 T）：518/524 eV 主峰对应 V 2p→3d 偶极跃迁，主峰前精细结构为原子多重态残余，与块体 VS₂、单层 VSe₂ 相似，是 1T 相和 d¹ 构型的指纹证据；八面体晶体场中 V⁴⁺ 单电子占据 t₂g。
   7. XMCD（16–300 K）信号在实验误差内可忽略，元素特异性地排除单层 VTe₂ 中 V 的本征铁磁有序；作者指出此前 CVD-VTe₂/SiO₂ 的 VSM 铁磁信号可能来自衬底（Si、HOPG 常含磁杂质）与外禀扰动，不同背景扣法会给出差异巨大的磁矩。作者假设 CDW 不稳定性与 DFT 预测的铁磁基态竞争并抑制之，类似单层 VSe₂ 情形。
-  8. DFT（VASP，PAW-PBE，vdW-optB88，截断 500 eV，21×21×1 k 网格；层间真空 20 Å；界面用[[../entitys/graphene|石墨烯]] 3×9、T 相 2×6、T' 相 2×2 超胞，应变 <2%）：无论有无衬底，1T' 相能量均低于 1T 相（自支撑 ~0.1 eV/超胞，石墨烯上 ~0.08 eV/超胞），与实验只观察到 1T 相矛盾；差分[[../concepts/charge-density|电荷密度]]显示石墨烯→VTe₂ [[../concepts/charge-transfer|电荷转移]]。
-  9. 衬底抑制 1T' 的机制：自支撑 1T' 中 V 原子沿 b 轴规则位移形成双锯齿链；置于石墨烯上后规则位移消失，沿 a、b 轴呈更随机畸变，Te 原子高度差与 V 条带间距均显著减小，1T' 结构调制被"抹平"；作者推测[[../entitys/graphene-tetralayer|多层石墨烯]]（HOPG）上抑制更强，可解释实验未观察到 1T'。提示热力学基态能量并非决定 MBE 生长相的唯一因素，衬底钉扎与非平衡生长动力学同样关键。
+  8. DFT（VASP，PAW-PBE，vdW-optB88，截断 500 eV，21×21×1 k 网格；层间真空 20 Å；界面用[[../entities/graphene|石墨烯]] 3×9、T 相 2×6、T' 相 2×2 超胞，应变 <2%）：无论有无衬底，1T' 相能量均低于 1T 相（自支撑 ~0.1 eV/超胞，石墨烯上 ~0.08 eV/超胞），与实验只观察到 1T 相矛盾；差分[[../concepts/charge-density|电荷密度]]显示石墨烯→VTe₂ [[../concepts/charge-transfer|电荷转移]]。
+  9. 衬底抑制 1T' 的机制：自支撑 1T' 中 V 原子沿 b 轴规则位移形成双锯齿链；置于石墨烯上后规则位移消失，沿 a、b 轴呈更随机畸变，Te 原子高度差与 V 条带间距均显著减小，1T' 结构调制被"抹平"；作者推测[[../entities/graphene-tetralayer|多层石墨烯]]（HOPG）上抑制更强，可解释实验未观察到 1T'。提示热力学基态能量并非决定 MBE 生长相的唯一因素，衬底钉扎与非平衡生长动力学同样关键。
   10. 块体 VTe₂ 在 390–437 K 发生 1T（六方）→1T'（单斜）相变，与层间 Te–Te 耦合（Te p_z 轨道起关键作用）及[[../concepts/electron-phonon-coupling|电子-声子耦合]]相关；碱金属（Li、Na）插层降低相变温度并使结构参数趋近 1T，佐证沿 c 轴 Te–Te 层间耦合对相变的决定性作用——单层移除此耦合是 (4×4) 取代 (3×1) 的物理根源。

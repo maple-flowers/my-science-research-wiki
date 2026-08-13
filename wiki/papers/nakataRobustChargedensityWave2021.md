@@ -10,12 +10,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/nakataRobustChargedensityWave2021]]
-projects: [project-7, project-2, project-5]
+projects: [project-5, project-7]
 concepts: [charge-density-wave, 2d-materials, electron-correlation, mott-insulator, hubbard-model, star-of-david, electron-phonon-coupling, bandwidth-control, lower-hubbard-band]
 entities: [TMDs, 1T-TaSe2, 1T-NbSe2, 1T-TaS2, graphene, SiC]
 methods: [mbe, arpes, stm, core-level-spectroscopy, tr-arpes, bcs-gap-fitting, electron-doping]
 materials: [1T-TaSe2, 1T-NbSe2, 1T-TaS2]
-figures: [crystal-structures, electronic-bands]
+figures: []
 领域基础知识:: >-
   低维性与电子关联的结合是莫特绝缘相、高温超导等奇异量子现象的核心。过渡金属二硫族化物（TMD）1T-TaS2在低温下形成"大卫之星"（Star-of-David）电荷密度波（CDW）超结构，并伴随非磁性的莫特绝缘相，是研究带宽控制型莫特相变的经典体系。莫特物理的关键参量是有效库仑能 U 与电子动能带宽 W 之比 U/W：当 U/W 超过临界值时，半满带体系因电子间强排斥而打开莫特-哈伯德能隙，分裂为下哈伯德带（LHB）与上哈伯德带（UHB）。CDW 引起的晶格畸变会重整并压窄电子能带，使 U/W 增大，从而把体系推向莫特绝缘态。
 研究背景:: >-
@@ -42,8 +42,6 @@ tags:
   - year/2021
   - project/project-7
   - relevance/project-7/core
-  - project/project-2
-  - relevance/project-2/weak
   - project/project-5
   - relevance/project-5/weak
   - concept/charge-density-wave
@@ -133,9 +131,8 @@ Nakata, Sugawara, Chainani, Oka, Bao, Zhou, Chuang, Cheng, Kawakami, Saruta, Fuk
   - project-1（双光子）、project-3（机械发光 NN）、project-4（TTF 分子计算）、project-6（湿度传感器）：无直接项目连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
+- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
 论文采用"现象发现—多维扰动验证—同族对照解耦机制—应用展望"的论证结构。先以 ARPES/STM/芯能级谱确立单层 TaSe2 的 CDW-莫特相，再沿温度、掺杂、光激发三条轴证明其鲁棒性，继而用 TaSe2 vs NbSe2 的反直觉对比把决定 U/W 的主导因素从本征 U 转移到 CDW 畸变对 W 的压制，最后落到室温器件。值得复用的术语：
@@ -161,5 +158,5 @@ Nakata, Sugawara, Chainani, Oka, Bao, Zhou, Chuang, Cheng, Kawakami, Saruta, Fuk
   6. LHB 在 K 电子掺杂下表现出非刚性行为：随 dK 增加整体向高结合能移动（从 ~0.28 eV 到 ~0.75 eV）并展宽，即使 dK=6.4×10^13 atoms/cm²（约 100% 星团密度）仍保持峰形；I_EF/I_LHB 远小于块体 TaS2 在 300 K 完全金属化时的比值，说明关联骨架未被摧毁，且预期的 UHB 未按刚性带模型出现，提示隙内掺杂态。
   7. Ta 4f 芯能级在低温下劈裂为两组子峰（对应星团中心与外围不等价 Ta 位点），升温至 400 K 仍以肩峰形式存在，从局域化学环境角度独立证明 CDW 在高温下存活。
   8. tr-ARPES 显示强光激发后 LHB 仍能恢复，未出现块体中光致熔融 [[../concepts/cdw-mott-phase|CDW-莫特相]]的行为，与化学掺杂结果一致，表明二维 CDW-莫特相对光致扰动同样鲁棒。
-  9. K 覆盖度通过同一蒸发速率在[[../entities/bilayer-graphene|双层[[../entitys/graphene|石墨烯]]]]上标定：利用石墨烯 π 带费米体积随 K 掺杂的变化反推沉积速率，再乘以 TaSe2 上的沉积时间得到 dK；3.2 与 6.4×10^13 atoms/cm² 分别对应约 50% 与 100% 的大卫之星密度。
+  9. K 覆盖度通过同一蒸发速率在[[../entities/bilayer-graphene|双层[[../entities/graphene|石墨烯]]]]上标定：利用石墨烯 π 带费米体积随 K 掺杂的变化反推沉积速率，再乘以 TaSe2 上的沉积时间得到 dK；3.2 与 6.4×10^13 atoms/cm² 分别对应约 50% 与 100% 的大卫之星密度。
   10. 样品制备：单层 1T-TaSe2/NbSe2 通过 MBE 生长于双层石墨烯/6H-SiC(0001) 衬底上；ARPES 测量温度范围 40–450 K，光源涵盖真空紫外激光与同步辐射；作者尝试用简单磁铁实验探测磁性但未发现信号，磁性基态（非磁/量子自旋液体/弱反铁磁）仍待 XMCD、μSR 等手段确认。

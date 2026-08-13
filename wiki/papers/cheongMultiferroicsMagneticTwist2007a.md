@@ -11,12 +11,12 @@ paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/cheongMultiferroicsMagneticTwist2007a]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-2, project-7]
 concepts: [berry-phase, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling]
 entities: [BiFeO3, HoMnO3, domain-wall]
 methods: [afm-pfm, berry-phase, dft]
 materials: [BiFeO3, HoMnO3, domain-wall]
-figures: [crystal-structures, mathematical-models]
+figures: [crystal-structures-xrd-phases, domain-walls-switching-properties, heterostructures-stacking]
 领域基础知识:: >-
   铁电性要求材料具有可被电场翻转的自发电极化，传统本征铁电体（如 BaTiO₃）依赖过渡金属空 d 壳层（3d⁰）与氧的共价杂化；磁性则需要部分填充的 d 壳层提供未配对自旋，这一 d 壳层填充矛盾使铁电性与磁性在同一离子上互斥。电极化 P 在空间反演下变号、时间反演下不变，磁化 M 恰好相反，因此静态均匀 P 与 M 之间只允许非线性耦合。多铁性材料指同时具备两种或以上铁性序（铁电、铁磁、铁弹）的材料，而磁电耦合指电极化与磁化之间的相互调控。
 研究背景:: >-
@@ -41,18 +41,8 @@ tags:
   - paper
   - type/theory
   - year/2007
-  - project/project-1
-  - relevance/project-1/medium
   - project/project-2
   - relevance/project-2/core
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/medium
-  - project/project-5
-  - relevance/project-5/weak
-  - project/project-6
-  - relevance/project-6/medium
   - project/project-7
   - relevance/project-7/weak
   - concept/berry-phase
@@ -73,13 +63,10 @@ tags:
   - topic/domain-walls
   - topic/ferroelectricity
   - topic/ferromagnetism
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/phase-transition
   - topic/polarization
   - topic/topological-defects
-  - topic/two-photon-fluorescence
 ---
 
 ## cheongMultiferroicsMagneticTwist2007a — 多铁性：铁电的磁扭曲（Multiferroics: a magnetic twist for ferroelectricity）
@@ -109,7 +96,6 @@ Sang-Wook Cheong & Maxim Mostovoy，2007，*Nature Materials* 6(1), 13–20，DO
   - 实体 [[../entities/CoCr2O4|CoCr₂O₄（尖晶石锥形磁体）]]
   - 实体 [[../entities/LuFe2O4|LuFe₂O₄（电子铁电体）]]
   - 图表 [[../figures/crystal-structures]]
-  - 图表 [[../figures/mathematical-models]]
   - 图表 [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结 (Multiferroic & Magnetoelectric Heterostructures)]]
   - 年度 [[../write/2007]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
@@ -121,31 +107,31 @@ Sang-Wook Cheong & Maxim Mostovoy，2007，*Nature Materials* 6(1), 13–20，DO
 
 ## 📊 关键图表
   - **表1：铁电体分类** — 按"反演对称性破缺机制"将铁电体分为本征（proper）与非本征（improper）两大类。
-  - ![表1 铁电体分类：本征（d⁰共价、孤对电子）与非本征（几何、电子、磁性铁电体）](../../raw/figures/cheongMultiferroicsMagneticTwist2007a/tab_1_X3QYE982.png) -> [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]
+  - ![表1 铁电体分类：本征（d⁰共价、孤对电子）与非本征（几何、电子、磁性铁电体）](../../raw/figures/cheongMultiferroicsMagneticTwist2007a/tab_1_X3QYE982.png) -> [[../figures/crystal-structures-xrd-phases|XRD与相变]]
   - **图示描述**：两栏表格，左栏列出反演对称破缺的微观机制，右栏给出代表性材料。本征类包括 3d⁰ 过渡金属-氧共价键合（BaTiO₃）和 Bi/Pb 的 6s² 孤对电子极化（BiMnO₃、BiFeO₃）；非本征类包括结构相变驱动的几何铁电体（K₂SeO₄、Cs₂CdI₄、六方 RMnO₃）、电荷有序驱动的电子铁电体（LuFe₂O₄）以及磁有序驱动的磁性铁电体（正交 RMnO₃、RMn₂O₅、CoCr₂O₄）。
   - **关键特征**：(1) 明确把"磁有序诱导极化"单列为非本征铁电体的一个子类，是本文范式转换的分类学基础；(2) BaTiO₃（3d⁰）与 BiFeO₃（6s² 孤对电子）虽为本征铁电体，但前者无磁性、后者磁电来自不同离子故耦合弱；(3) 几何/电子/磁性三类非本征铁电体的共同特征是极化作为其他序参量的副产品出现，从而对该序参量的外场调控高度敏感。
   - **结论/意义**：该表把 TbMnO₃、RMn₂O₅、CoCr₂O₄ 等阻挫磁体正式定位为"磁性铁电体"，为全文讨论磁致铁电机制划定材料范畴。
 
   - **图1：电荷有序体系中的铁电性** — 四个子图示意不同电荷/自旋有序模式如何破缺反演对称。
-  - ![图1 电荷有序诱导铁电性的四种模型（位点/键中心电荷序、↑↑↓↓+交换伸缩、LuFe₂O₄双层、YNiO₃）](../../raw/figures/cheongMultiferroicsMagneticTwist2007a/fig_1_D8A9TF3K.png) -> [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
+  - ![图1 电荷有序诱导铁电性的四种模型（位点/键中心电荷序、↑↑↓↓+交换伸缩、LuFe₂O₄双层、YNiO₃）](../../raw/figures/cheongMultiferroicsMagneticTwist2007a/fig_1_D8A9TF3K.png) -> [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：(a) 一维链上位点中心与键中心电荷序共存，红/蓝球代表不同价态阳离子，绿色虚线为二聚键，二者叠加产生沿链方向的净极化 P；(b) ↑↑↓↓ 共线自旋序与位点中心电荷序耦合，平行自旋对被拉近、反平行对被推远（黑色箭头为离子位移），通过交换伸缩产生 P；(c) LuFe₂O₄ 双层三角晶格，Fe 平均价 +2.5，上下两层 Fe²⁺:Fe³⁺ 比分别为 2:1 与 1:2，层间电荷失衡产生垂直于层面的 P；(d) 钙钛矿 YNiO₃ 在 a–b 面内 ↑↑↓↓ 自旋序与 Ni³⁺/Ni^(3−δ)+ 电荷序协同破缺中心对称。
   - **关键特征**：(1) 面板 a 对应 Pr₁₋ₓCaₓMnO₃ 中键中心/位点中心电荷序共存机制（Efremov et al., Nature Mater. 2004）；(2) 面板 b 是后续 RMn₂O₅ 交换伸缩机制的一维原型；(3) 面板 c 中 LuFe₂O₄ 电荷有序温度约 350 K，是电子铁电体的代表；(4) 面板 d 说明电荷序与磁序可协同破缺反演对称，为 RNiO₃ 等材料的多铁性提供理论预期。
   - **结论/意义**：图1系统展示了"非螺旋"路径下铁电性的多种起源，说明磁序并非唯一触发器，电荷序与晶格畸变的组合同样可诱导非本征铁电。
 
   - **图2：磁致电铁体的高磁场可调性** — 四组实验数据展示磁场对极化与介电常数的剧烈调控。
-  - ![图2 磁致电铁体的高场可调性：TbMnO₃极化90°翻转、DyMnO₃巨磁介电(~500%)、TbMn₂O₅ 180°可逆翻转、DyMn₂O₅介电台阶](../../raw/figures/cheongMultiferroicsMagneticTwist2007a/fig_2_PNAIBBQF.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图2 磁致电铁体的高场可调性：TbMnO₃极化90°翻转、DyMnO₃巨磁介电(~500%)、TbMn₂O₅ 180°可逆翻转、DyMn₂O₅介电台阶](../../raw/figures/cheongMultiferroicsMagneticTwist2007a/fig_2_PNAIBBQF.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
   - **图示描述**：(a) TbMnO₃ 的极化分量 P_c（红）与 P_a（蓝）随沿 b 轴磁场 H_b 的变化；(b) DyMnO₃ 在不同温度（2、4、9 K 等）下介电常数 ε_b 随 H_b 的变化；(c) TbMn₂O₅ 中沿 b 轴极化 P_b 随时间的变化，蓝/红阴影区为沿 a 轴的正/反向脉冲磁场；(d) DyMn₂O₅ 在不同恒定磁场（0–9 T）下 ε_b 随温度 T 的台阶式变化。
   - **关键特征**：(1) TbMnO₃ 在约 5 T 处发生自旋翻转相变，P_c 突然归零而 P_a 出现，极化矢量整体旋转 90°（polarization flop），极化幅值约 10⁻² μC/cm² 量级；(2) DyMnO₃ 在约 5 T 窄场窗内 ε_b 增长约 500%，即巨磁介电效应（colossal magnetodielectric effect）；(3) TbMn₂O₅ 中脉冲磁场可使 P_b 在约 ±40 nC/cm² 间高度可逆地 180° 翻转（+P_b↔−P_b），具备非易失存储特征；(4) DyMn₂O₅ 的 ε_b 在约 25 K 以下出现台阶，磁场从 0 T 增至 9 T 时台阶幅度显著增大，表明磁场增强了铁电序。
   - **结论/意义**：该图是"磁控电"范式的核心实验证据，证明即使磁致电铁体的极化绝对值比传统铁电体小 2–3 个数量级，其磁场敏感度仍前所未有。
 
   - **图6：螺旋与非螺旋磁致电电性的对比** — 左中右三面板分别展示 (Eu,Y)MnO₃ 的螺旋序及场致翻转、YMn₂O₅ 的共线交换伸缩机制。
-  - ![图6 螺旋((Eu,Y)MnO₃)与非螺旋(YMn₂O₅交换伸缩)磁致电电性对比及P∥e₃×Q定则](../../raw/figures/cheongMultiferroicsMagneticTwist2007a/fig_6_7B4LX9VV.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图6 螺旋((Eu,Y)MnO₃)与非螺旋(YMn₂O₅交换伸缩)磁致电电性对比及P∥e₃×Q定则](../../raw/figures/cheongMultiferroicsMagneticTwist2007a/fig_6_7B4LX9VV.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
   - **图示描述**：(a) 零场下 Eu₀.₇₅Y₀.₂₅MnO₃ 的螺旋磁结构，波矢 Q ∥ b，自旋在 a–b 面内旋转、旋转轴 e₃ ∥ c，由 P ∥ e₃×Q 给出 P ∥ a；(b) 沿 a 轴加场后自旋翻转至在 b–c 面内绕 H 旋转，e₃ ∥ a，P 随之转到 c 轴，实现 90° 极化翻转；(c) YMn₂O₅ 沿 c 轴俯视的 Mn 自旋排布，绿色虚线为沿 a 轴的反铁磁锯齿链，跨链 Mn³⁺–Mn⁴⁺ 对中蓝色虚椭圆为反平行、红色虚椭圆为平行，黑色空心箭头表示交换伸缩驱动的离子位移方向。
   - **关键特征**：(1) 面板 a、b 用非磁性稀土 Eu/Y 替代 Tb/Dy，排除稀土矩干扰，干净地验证了 P ∥ e₃×Q 定则；(2) 零场 Q ∥ b、e₃ ∥ c 给出 P ∥ a，H ∥ a 场致 flop 后 e₃ ∥ a 给出 P ∥ c，与图2a 的实验观测定量一致；(3) 面板 c 中 Mn 自旋构成五自旋环 Mn⁴⁺–Mn³⁺–Mn³⁺–Mn⁴⁺–Mn³⁺，奇数环导致阻挫；反平行对键缩短、平行对键拉长，非对称畸变模式破缺反演对称并沿 b 轴产生净 P；(4) 该机制由海森堡交换（而非弱 DM 相互作用）驱动，潜在极化更大。
   - **结论/意义**：图6把螺旋序（逆 DM/自旋流）与共线序（交换伸缩）两类机制并置，分别对应 RMnO₃ 与 RMn₂O₅ 两大材料家族，是全文微观机制的总结性图释。
 
   - **文中图14（版式插图）**。
-  - ![文中图14（版式插图）](../../raw/figures/cheongMultiferroicsMagneticTwist2007a/fig_14_3983JFDD.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![文中图14（版式插图）](../../raw/figures/cheongMultiferroicsMagneticTwist2007a/fig_14_3983JFDD.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：综述正文中的版式插图，raw/note 未给出该编号图的独立解析段落；从其在原文中的位置判断，用于配合多铁性材料或磁电异质结构相关的文字讨论。
   - **关键特征**：无定量数据；作为示意图辅助正文论述，具体物理内容以所链接的图表页与原文为准。
 
@@ -170,12 +156,7 @@ Sang-Wook Cheong & Maxim Mostovoy，2007，*Nature Materials* 6(1), 13–20，DO
   - **project-7（CDW 电荷密度波）—— 边缘参考**：文章讨论电荷有序绝缘体（Fe₃O₄ 的 Verwey 转变、Pr₁₋ₓCaₓMnO₃ 位点/键中心电荷序、LuFe₂O₄ 电子铁电体），这些"电荷序破缺反演对称"的物理与 CDW 体系中的对称性破缺、非公度调制有可类比之处，但 CDW 项目关注的是过渡金属二硫化物中的 CDW，机理与材料体系差异较大，仅作边缘类比。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
 - 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词

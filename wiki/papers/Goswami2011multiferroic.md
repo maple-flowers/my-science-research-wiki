@@ -10,12 +10,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Goswami2011multiferroic]]
-projects: [project-2]
+projects: []
 concepts: [multiferroicity, magnetoelectric-coupling, spin-spiral, dzyaloshinskii-moriya-interaction, oxygen-octahedron-rotation, magnetoelastic-coupling, size-effect, strain-engineering, antiferromagnetism, first-order-phase-transition]
 entities: [BiFeO3, Bi2Fe4O9, FullProf, ILL-D20]
 methods: [powder-xrd, neutron-diffraction, rietveld-refinement, tem-hrtem, dsc-calorimetry, dc-magnetization, point-charge-model]
 materials: [BiFeO3-nanoparticles]
-figures: [crystal-structures, tem-micrographs, xrd-patterns, neutron-diffraction-patterns, temperature-dependent-properties]
+figures: [crystal-structures-bulk, crystal-structures-xrd-phases, experimental-setups]
 领域基础知识:: >-
   多铁性材料（Multiferroics）同时具有铁电序与磁序，且两者存在耦合。BiFeO₃（BFO）是室温多铁性材料，块材中为反铁磁序（带有自旋螺旋调制）和铁电序，磁电耦合机制包括Dzyaloshinskii-Moriya相互作用等。纳米材料因尺寸效应可抑制自旋螺旋，产生弱铁磁性。
 研究背景:: >-
@@ -40,8 +40,6 @@ tags:
   - paper
   - type/experiment
   - year/2011
-  - project/project-2
-  - relevance/project-2/strong
   - concept/multiferroicity
   - concept/magnetoelectric-coupling
   - concept/spin-spiral
@@ -88,19 +86,19 @@ Goswami, Bhattacharya, Choudhury, Ouladdiaf, Chatterji，2011，Applied Physics 
 
 ## 📊 关键图表
   - **图1**：超声化学法合成的 ~22 nm BiFeO3 纳米颗粒的 TEM 与 HRTEM 照片。
-  - ![图1 TEM 与 HRTEM 照片，显示 ~22 nm 单晶颗粒及 (012) 面晶格条纹](../../raw/figures/Goswami2011multiferroic/fig_1_IBYY5PIF.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图1 TEM 与 HRTEM 照片，显示 ~22 nm 单晶颗粒及 (012) 面晶格条纹](../../raw/figures/Goswami2011multiferroic/fig_1_IBYY5PIF.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：(a) TEM 照片给出整体形貌与粒径分布（平均约 22 nm，颗粒间有轻微团聚）；(b) HRTEM 照片对单颗粒做原子级分辨，可见规则晶格条纹。
   - **关键特征**：(b) 中条纹间距对应 R3c 结构的 (012) 晶面（部分颗粒观察到 (110) 面取向）；条纹连续贯穿整个颗粒，无内部晶界，证明颗粒为高度结晶的单晶；单晶性保证了后续 Rietveld 精修与极化估算的结构可靠性。
   - **图2**：跨越 TN 的多个温度下（298–643 K）粉末 XRD 实验谱与 FullProf 精修结果。
-  - ![图2 跨 TN 多个温度下的 XRD 实验谱与 FullProf 精修结果（R3c）](../../raw/figures/Goswami2011multiferroic/fig_2_G3IS8VEN.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图2 跨 TN 多个温度下的 XRD 实验谱与 FullProf 精修结果（R3c）](../../raw/figures/Goswami2011multiferroic/fig_2_G3IS8VEN.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：横轴为衍射角 2θ，纵向堆叠多个温度的谱图；红色空心圆为实验数据，黑色实线为 FullProf 计算谱，蓝色实线为残差，绿色竖线为布拉格峰位。
   - **关键特征**：298 K 至 643 K 全部谱线均可用 R3c 空间群（六方坐标）指标化，跨 TN (~635 K) 无结构相变；含约 5% Bi2Fe4O9 杂质峰并已指认；精修考虑了晶粒尺寸与微应变展宽，χ² 约 2.2–2.7，为后续提取晶格常数、原子坐标与离子位移提供基础。
   - **图3**：室温下 0 T 与 5 T 磁场的粉末中子衍射谱及精修结果（λ = 2.41 Å，ILL D20）。
-  - ![图3 室温 0 T 与 5 T 下的中子衍射实验谱与精修结果（λ=2.41 Å）](../../raw/figures/Goswami2011multiferroic/fig_3_9WFFLRUD.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图3 室温 0 T 与 5 T 下的中子衍射实验谱与精修结果（λ=2.41 Å）](../../raw/figures/Goswami2011multiferroic/fig_3_9WFFLRUD.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：与图2类似的实验/计算/残差/布拉格峰布局，但绿色竖线同时标出晶体学与磁性晶格的布拉格位置；上下两条谱分别对应零场和 5 T。
   - **关键特征**：磁传播矢量 k = (0,0,0)，为公度磁晶格；Fe3+ 有序磁矩约 3.22 μB；对比 0 T/5 T 精修，Bi 的 z 坐标由 0.4524 变为 0.4486，净离子位移 δ 减小约 0.06 Å，对应极化被抑制约 7%；未观察到极化方向翻转；χ² 分别为 30.3 与 16.1，磁结构精修可接受。
   - **图4**：DSC、晶格参数、体积、离子位移与极化随温度变化的五子图综合图。
-  - ![图4 (a) DSC、(b) 晶格参数 a/c、(c) 体积、(d) 离子位移 δ、(e) 极化 P 随温度变化](../../raw/figures/Goswami2011multiferroic/fig_4_X25BTCRC.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图4 (a) DSC、(b) 晶格参数 a/c、(c) 体积、(d) 离子位移 δ、(e) 极化 P 随温度变化](../../raw/figures/Goswami2011multiferroic/fig_4_X25BTCRC.png) -> [[../figures/crystal-structures-xrd-phases|XRD与相变]]
   - **图示描述**：五个子图共享温度 T（K）横轴：(a) DSC 热流（块体黑、纳米红）、(b) 晶格参数 c（左轴，Å）与 a（右轴，Å）、(c) 晶胞体积 V（Å³）、(d) Bi/Fe 偏心位移及净 δ（菱形/倒三角/星号，Å）、(e) 点电荷模型计算的铁电极化 P（μC/cm²）。
   - **关键特征**：纳米颗粒 TN 由块体 ~653 K 降至 ~635 K，DSC 吸热峰明显宽化（表面效应圆化一级相变）；TN 处 V 收缩约 0.4%，a、c 出现拐折，呈磁弹耦合特征；δBi、δFe 与净 δ 在 TN 处台阶式跃升；P 在 TN 处跃升约 30%，磁有序"从无到有"对极化的影响远大于远低于 TN 时 5 T 磁场的 7% 抑制。
   - **结论/意义**：温变（30%）与场变（7%）两条独立证据链共同证实 ~22 nm 颗粒中仍存在强多铁性耦合，并支持"自旋螺旋抑制 → DM 作用增强氧八面体绕 [111] 非铁电旋转 → 极性-旋转耦合调控极化"的机制图像。
@@ -110,7 +108,6 @@ Goswami, Bhattacharya, Choudhury, Ouladdiaf, Chatterji，2011，Applied Physics 
   - project-1 双光子 / project-3 机械发光 NN / project-4 TTF 分子计算 / project-5 SnTe 铁电模拟 / project-6 湿度传感器 / project-7 CDW：无直接项目连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
 文章走"问题（纳米尺度耦合是否存在）→ 样品与基础物性（TEM、TN=635 K）→ 两条互补证据链（变温 XRD 给极化跃变 30%；加场中子衍射给磁场抑制 7%）→ 机制讨论（排除六方锰氧化物式畴翻转，提出自旋螺旋抑制 + DM + 八面体旋转耦合）→ 结论与展望（P-E 回线直测、器件集成）"的紧凑 APL 四段式结构。值得复用的术语：

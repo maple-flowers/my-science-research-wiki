@@ -11,12 +11,12 @@ paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Mińkowski2021cation]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-2, project-4, project-5]
 concepts: [density-functional-theory, machine-learning-potential, spin-orbit-coupling]
 entities: [PbTe, SnTe, VASP]
 methods: [dft, md, mlip, neb]
 materials: [PbTe, SnTe]
-figures: [crystal-structures, mathematical-models]
+figures: []
 领域基础知识:: >-
   PbTe（碲化铅）和CdTe（碲化镉）是分别属于IV-VI族和II-VI族的半导体材料，它们构成的异质结构广泛应用于中红外光电器件（如量子点激光器）。PbTe为岩盐矿结构，CdTe为闪锌矿结构，二者晶格常数非常接近，但晶格类型不同，且互不相溶。在高温退火下，该体系会发生纳米层向量子点的形态转变，该过程由原子扩散驱动，而点缺陷（尤其是间隙原子）的扩散被认为是关键。
 研究背景:: >-
@@ -41,20 +41,12 @@ tags:
   - paper
   - type/theory
   - year/2021
-  - project/project-1
-  - relevance/project-1/medium
   - project/project-2
   - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/medium
   - project/project-4
   - relevance/project-4/medium
   - project/project-5
   - relevance/project-5/medium
-  - project/project-6
-  - relevance/project-6/medium
-  - project/project-7
-  - relevance/project-7/medium
   - concept/density-functional-theory
   - concept/machine-learning-potential
   - concept/spin-orbit-coupling
@@ -67,15 +59,7 @@ tags:
   - method/neb
   - material/PbTe
   - material/SnTe
-  - topic/2d-materials
-  - topic/charge-density-wave
-  - topic/ferroelectricity
-  - topic/humidity-sensing
   - topic/ml-interatomic-potential
-  - topic/molecular-crystal
-  - topic/multiferroics
-  - topic/polarization
-  - topic/two-photon-fluorescence
 ---
 
 ## Mińkowski2021cation — 基于神经网络势的分子动力学模拟研究碲化铅和碲化镉中阳离子间隙扩散
@@ -169,13 +153,9 @@ Marcin Mińkowski, Kerstin Hummer, Christoph Dellago et al.，2021，*Journal of
   - **project-7 CDW**：无直接项目连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
 - 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
 论文按"应用背景（PbTe/CdTe 量子点形态演化）→ 体系晶体学（岩盐矿 vs 闪锌矿、间隙位等价性）→ 方法三部曲（VASP/PBEsol 生成参考数据、n2p2 训练 NNP、LAMMPS MD）→ 结果（NNP 误差、MSD 与块平均、总 D 的 Arrhenius 拟合、轨迹可视化识别两种机制、分机制速率拟合、双机制模型重拟合）→ 与实验/NEB 对比 → 结论与跨界面展望"线性展开。论证的关键转折是：总 Arrhenius 图略微弯曲 → 轨迹分析发现跳跃/交换两机制 → 分别统计速率并拟合活化能 → 用两项之和重拟合总 D 成功复现弯曲，形成闭环。方法严谨性体现在：三个独立随机种子训练 NNP 交叉验证、迭代式主动学习消除外推、块平均量化统计误差、用"原子 ID 是否改变 + 连续 10 步"判据区分交换与涨落。值得复用的术语：

@@ -1,6 +1,62 @@
-# 科研 Wiki 日志
+﻿# 科研 Wiki 日志
 
 > 时间导向的变更记录。每次 ingest / 重大修订追加一条，格式：`## [YYYY-MM-DD] <操作> | <标题>`。内容导向索引见 [[index]]。
+
+
+## [2026-08-13] cleanup | `tools/` 目录清理 22 个一次性文件
+
+### 清理范围
+
+- **`__pycache__/`**（1 个目录，25 KB）—— 8-13 figure 重建脚本留下的 .pyc 编译缓存。
+- **8 个中间产物 JSON**（合计 ~3.4 MB，可由脚本重生成）：
+  `figure_classified.json`（1.1 MB）、`figure_entries.json`（1.1 MB）、
+  `figure_entries_full.json`（965 KB）、`figure_slug_map.json`（116 KB）、
+  `stale_annotated_links.json`（1.6 KB）、`new_entries_g1.json`（6.3 KB）、
+  `new_entries_g2.json`（4.1 KB）、`new_figure_entries.json`（10.3 KB）。
+- **`FIGURE_GAPS.md`**（6.3 KB）—— figure 重建 session 的状态报告，已并入本日志。
+- **12 个一次性修复脚本**（8-13 凌晨 1:00–2:00 那次"修 wiki/figures"session 跑出来的 one-off 补丁，
+  共同特征是同样的 `import re, os, sys, glob` 模板，仅差几行修改逻辑）：
+  `analyze_a.py`、`fix_a.py`、`fix_f_global.py`、`fix_f_tags.py`、`fix_figures.py`、
+  `fix_figures_c3.py`、`fix_mechanical.py`、`fix_nested_links.py`、`fix_orphan_tags.py`、
+  `fix_tag_format.py`、`fix_title_pollution.py`、`fix_titles.py`。
+
+合计释放 **~3.4 MB**，`tools/` 从 41 个条目瘦身到 19 个 / 152 KB。
+
+### 保留
+
+- **12 个 git 跟踪的生产脚本**（未变）：`update_raw_assets.py`、`strict_verify.py`、
+  `run_ingest.py`、`backfill_frontmatter.py`、`final_verify.py`（已修改未提交，详见下）、
+  `count_figures.py`、`extract_metadata.py`、`extract_matrix_fields.py`、
+  `extract_wiki_data.py`、`extract_writing.py`、`extract_spectra.py`、`extract_candidates.py`。
+- **7 个未跟踪的 figure 重建脚本**（8-13 上午 10:00–12:00 跑出的，仍是工作流支撑代码），
+  暂不 git add，留作近期审计/再处理用：
+  `classify_figures.py`、`rebuild_figures.py`、`clean_stale_bare_links.py`、
+  `extract_figures_full.py`、`verify_figures.py`、`update_paper_links.py`、
+  `insert_new_figures.py`。
+
+### 顺手做的事
+
+- 新建根 `.gitignore`（之前不存在），加入 `__pycache__/` 防止 Python 缓存再污染。
+
+### ⚠️ 待确认 1：`final_verify.py` 有未提交改动
+
+`git status` 显示 `M tools/final_verify.py`：118 行新增 / 122 行删除，
+本地版本（99 行）与 git HEAD（108 行）结构差异较大，可能是被某个 session 改写过逻辑。
+需要 `git diff tools/final_verify.py` 完整 review 后决定 commit / revert / 调整。
+
+### ⚠️ 待确认 2：`tools/extract_figures.py` 在文档中引用但物理上不存在
+
+`update.md` 描述了 `python tools/update_raw_assets.py`（存在），但 `log.md` 2026-08-07
+条目里有以下两处引用：
+- "编写 `tools/extract_figures.py`：按附件 key 定位 Zotero PDF，`pdfimages` 抽内嵌位图、过滤 logo……"
+- "用法：位图为主的论文用默认 `pdfimages` 模式；矢量综述用 `python tools/extract_figures.py --fitz <KEY>`"
+
+现存 `extract_figures_full.py` 功能不同（**从 `wiki/papers/关键图表` 节抽条目元数据**，
+不是从 Zotero PDF 抽图），不能替代原脚本。两种处置：
+- A. 找回 `extract_figures.py`（从 git log 找旧版，或重新实现 pdfimages/pdftoppm/PyMuPDF 抽图逻辑）
+- B. 改 `log.md` 改写为"该脚本被替换为更细的子命令"，但 `log.md` 是历史日志不该回改
+- 建议 **A**：先 `git log --all -- tools/extract_figures.py` 看历史里有没有。
+
 
 ## [2026-08-12] feat | 写作库改为五年段语料库并完成中文化
 
@@ -232,3 +288,4 @@
 - **全量同步完成**：成功对 `爱看论文的猫猫/note` 下全部 138 篇 Markdown 笔记与 Zotero 库进行自动化摄入与三层 Wiki 架构构建。
 - **图表提取与 Review 规则**：完成 118 篇 Original Research 论文的 3,562 张图表与 JSON Manifest 提取；自动跳过 Review 论文抽图。
 - **索引更新**：已更新 [[index]] 及 [[材料模拟计算设计]] 主题导览页。
+

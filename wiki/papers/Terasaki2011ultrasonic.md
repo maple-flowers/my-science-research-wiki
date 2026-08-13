@@ -15,7 +15,7 @@ concepts: [mechanoluminescence, elastic-deformation, trap-levels, mechano-optica
 entities: [SrAl2O4-Eu]
 methods: [ultrasonic-irradiation, sem-microscopy, optical-emission-detection]
 materials: [SrAl2O4-Eu]
-figures: [experimental-setups, optical-spectra]
+figures: []
 领域基础知识:: >-
   机械发光(Mecholuminescence, ML)是指材料在受到机械应力（如摩擦、挤压、冲击）时发光的物理现象。传统ML多为破坏性发光或强度极弱。本研究团队开发的革命性ML材料可在弹性变形区域内（非破坏性）高效、持续地发出可见光，其粉末颗粒本身既是应力传感器，也是发光体。
 研究背景:: >-

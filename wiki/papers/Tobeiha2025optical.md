@@ -15,7 +15,7 @@ concepts: [2d-materials, p-type-semiconductor, exciton-binding-energy, optical-b
 entities: [graphene, graphene-oxide, g-go-nanosheets]
 methods: [fesem, edx, xrd, ftir, raman-spectroscopy, pl-spectroscopy, diffuse-reflectance-spectroscopy, tauc-plot, dip-coating, iv-measurement, sonochemical-exfoliation]
 materials: [graphene, graphene-oxide, silicon-substrate]
-figures: [crystal-structures, vibrational-spectra, optical-spectra, electronic-devices]
+figures: [electronic-devices-memory-transistors, electronic-devices-sensors, experimental-setups, mathematical-models-formulas, optical-spectra, vibrational-spectra]
 领域基础知识:: >-
   相对湿度(RH)是衡量环境水汽含量的关键物理量，其精确测量在工业、农业、医疗等领域至关重要。湿度传感器主要分为电阻型、电容型和光学型。光学湿度传感器利用光与湿敏材料相互作用引起的信号变化进行检测，具有精度高、响应快、抗电磁干扰等优点。石墨烯(G)和氧化石墨烯(GO)是典型的二维材料，具有超高比表面积和丰富的表面官能团，对水分子极为敏感，是构建高性能湿度传感器的理想平台。
 研究背景:: >-
@@ -88,7 +88,7 @@ Nafiseh Tobeiha, Nafiseh Memarian, Fatemeh Ostovari，2025年，*Scientific Repo
   - 实体 [[../entities/graphene|石墨烯]]
   - 年度 [[../write/2025]]
   - 项目 [[../projects/project-6-humidity-sensor]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/vibrational-spectra]]、[[../figures/optical-spectra]]、[[../figures/electronic-devices]]
+  - 图表 [[../figures/vibrational-spectra]]、[[../figures/optical-spectra]]、[[../figures/electronic-devices]]
   - 相关论文 [[../../raw/note/Tobeiha2025optical]]
 ## 🆕 新概念/实体建议
   - `exciton-binding-energy`（激子结合能）：光生电子-空穴对的库仑束缚能，是本文解释450 nm与808 nm波长差异化光-湿耦合效应的核心物理量，石墨烯中约3 eV。
@@ -101,39 +101,39 @@ Nafiseh Tobeiha, Nafiseh Memarian, Fatemeh Ostovari，2025年，*Scientific Repo
   - 实体 `graphene-oxide`（氧化石墨烯）：含羰基、羟基、环氧、羧基等含氧官能团的石墨烯衍生物，亲水、带可调带隙。
   - 实体 `g-go-nanosheets`（G/GO纳米片复合物）：G导电畴与GO亲水畴共存的混合体系，兼具高载流子迁移率与水分子吸附能力。
 ## 📊 关键图表
-  - ![图1 G/GO纳米片FESEM形貌、EDX能谱与C/O元素mapping](../../raw/figures/Tobeiha2025optical/fig_1_L9TCNR8X.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图1 G/GO纳米片FESEM形貌、EDX能谱与C/O元素mapping](../../raw/figures/Tobeiha2025optical/fig_1_L9TCNR8X.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
     - **图示描述**：三联图，(a) FESEM场发射扫描电镜下G/GO纳米片的微观形貌，(b) EDX能谱，(c) C与O元素面分布mapping。
     - **关键特征**：FESEM中可见典型二维片层的平坦区与褶皱，是薄层纳米片成功剥离的标志；EDX仅检出C、O两元素，无杂质，C/O重量比约2.34，表明氧化程度介于纯石墨烯与纯氧化石墨烯之间；C、O mapping在所选区域内均匀分布，说明氧化过程均匀。
     - **结论/意义**：从形貌与成分双重确证G/GO混合纳米片合成成功，为后续光-湿耦合测试提供可靠的材料基础。
-  - ![图2 XRD、FTIR、Raman与PL结构/光学表征](../../raw/figures/Tobeiha2025optical/fig_2_KXGPCBPJ.png) -> [[../figures/vibrational-spectra|振动能谱与声子谱]]
+  - ![图2 XRD、FTIR、Raman与PL结构/光学表征](../../raw/figures/Tobeiha2025optical/fig_2_KXGPCBPJ.png) -> [[../figures/vibrational-spectra|振动光谱]]
     - **图示描述**：四子图结构-光学综合表征：(a) XRD衍射图谱，(b) FTIR红外光谱，(c) Raman拉曼光谱，(d) PL光致发光光谱（280 nm与300 nm两种激发）。
     - **关键特征**：XRD在2θ=10°、20°、26°出现三个峰，对应GO(001)、GO/G中间相和G(002)，布拉格定律给出层间距0.83 nm、0.48 nm、0.38 nm，证实G畴与GO畴共存；FTIR在3000–3600 cm⁻¹有宽强O-H峰，1382–1746 cm⁻¹为羧基/环氧，1026 cm⁻¹为C=O，证明含氧官能团丰富、材料亲水；Raman出现D峰~1345 cm⁻¹（缺陷/sp³）、G峰~1587 cm⁻¹（sp²面内E2g）、2D峰~2668 cm⁻¹；PL在280 nm/300 nm激发下分别于378 nm/386 nm出现蓝光发射，源于sp²团簇中电子-空穴对的辐射复合。
     - **结论/意义**：从晶体结构、化学键、分子振动到电子能级建立G/GO的完整"物化身份档案"，为后续载流子行为与光吸收解释奠定结构基础。
-  - ![图3 DRS光谱与Tauc图（1.56 eV与2.66 eV双带隙）](../../raw/figures/Tobeiha2025optical/fig_3_WVRUWYBP.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图3 DRS光谱与Tauc图（1.56 eV与2.66 eV双带隙）](../../raw/figures/Tobeiha2025optical/fig_3_WVRUWYBP.png) -> [[../figures/optical-spectra|光学光谱]]
     - **图示描述**：(a) 漫反射DRS吸收光谱，展示样品在紫外-可见光区的吸收特征；(b) 经Kubelka–Munk函数转换后的Tauc图，通过外推线性段得到光学带隙。
     - **关键特征**：DRS显示吸收主要集中在紫外区，并延伸至部分可见光区，符合GO基材料特征；Tauc图外推得到两个光学带隙：1.56 eV（约794 nm）归因于G畴，2.66 eV（约466 nm）归因于GO畴；两带隙共存表明材料内部存在两种能级结构的纳米域。
     - **结论/意义**：这是全文最关键的能量标尺，直接决定后续选择450 nm（~2.76 eV）与808 nm（~1.53 eV）激光进行对照实验，并解释两者差异化的光-湿耦合行为。
-  - ![图4 暗态下ΔI随电压与湿度的变化](../../raw/figures/Tobeiha2025optical/fig_4_ZCMERMYH.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图4 暗态下ΔI随电压与湿度的变化](../../raw/figures/Tobeiha2025optical/fig_4_ZCMERMYH.png) -> [[../figures/electronic-devices-sensors|传感器与探测器]]
     - **图示描述**：暗态基准测试：(a) 在30%–80% RH不同湿度下，电流变化量ΔI = I − I₀ 随外加电压的变化曲线；(b) 固定4 V偏压下ΔI随相对湿度的变化。
     - **关键特征**：ΔI随电压单调线性增加，且湿度越高曲线斜率越大；4 V偏压下ΔI随湿度上升而非线性增大；Hummers法制备的G为p型半导体，水分子含氧端电负性高，从G表面抽取电子，使空穴载流子密度升高，湿度越高空穴浓度越大、电流越大。
     - **结论/意义**：建立传感器在无光照下的p型湿敏基准响应，作为后续所有光学实验的参照基线。
-  - ![图5 21% RH下不同波长激光的I-V曲线](../../raw/figures/Tobeiha2025optical/fig_5_L5452RHL.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![图5 21% RH下不同波长激光的I-V曲线](../../raw/figures/Tobeiha2025optical/fig_5_L5452RHL.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
     - **图示描述**：环境湿度（21% RH）下，传感器在370、450、520、808、980 nm等不同波长激光照射时的总电流-电压曲线对比。
     - **关键特征**：总体上电流随波长增大而增加，808 nm红外照射下电流最大、370 nm紫外下最小；但450 nm与808 nm两处电流相对相邻波长（520、980 nm）出现异常上翘，不满足简单单调关系；450 nm处的增强对应GO带隙2.66 eV的单光子共振，808 nm（~1.53 eV）接近G带隙1.56 eV并可能涉及双光子吸收（合能~3.2 eV）。
     - **结论/意义**：揭示光电流并非光子能量的线性响应，而是与材料双带隙结构共振，为后续波长-湿度耦合实验筛选出450 nm与808 nm两个关键波长。
-  - ![图6 光-湿耦合核心数据：ΔI′/ΔI′′/ΔI′′′拆解](../../raw/figures/Tobeiha2025optical/fig_6_6MRB2R5R.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图6 光-湿耦合核心数据：ΔI′/ΔI′′/ΔI′′′拆解](../../raw/figures/Tobeiha2025optical/fig_6_6MRB2R5R.png) -> [[../figures/electronic-devices-sensors|传感器与探测器]]
     - **图示描述**：全文核心数据图，四个子图在370/450/808 nm激光与30%–80% RH耦合条件下，分别绘制三个差分电流随电压的变化，以及(d) 4 V偏压下随湿度的汇总对比。
     - **关键特征**：ΔI′ = I(光,湿) − I(暗,21%RH) 表征光加湿总效应，450 nm下随湿度线性增长、370与808 nm无规律；ΔI′′ = I(光,湿) − I(暗,同湿) 为光照净贡献，450 nm随湿度规律增加，808 nm在40% RH达到峰值后反而下降；ΔI′′′ = I(光,湿) − I(光,21%RH) 为湿度净贡献，450 nm下为正且显著线性增加，808 nm下为负、随湿度升高而减小；450 nm光子（~2.76 eV）足以克服GO带隙2.66 eV与石墨烯~3 eV的激子结合能，光生电子自由度高、易被水分子捕获，形成光-湿正向协同；808 nm光子能量不足、激子束缚强，双光子吸收贡献电子数有限，高湿下电子与H⁺/空穴复合反而消耗载流子。
     - **结论/意义**：通过变量解耦给出450 nm激光优越性的决定性证据，并以"光子能量-激子结合能-界面电荷转移"模型统一解释两种波长的相反行为。
-  - ![图7 响应/恢复时间与循环稳定性](../../raw/figures/Tobeiha2025optical/fig_7_QLKTIAUR.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图7 响应/恢复时间与循环稳定性](../../raw/figures/Tobeiha2025optical/fig_7_QLKTIAUR.png) -> [[../figures/electronic-devices-sensors|传感器与探测器]]
     - **图示描述**：(a)(b)(c) 分别在暗态、450 nm激光、808 nm激光下，40% RH阶跃时的响应/恢复瞬态曲线；下方子图为40%与80% RH下多次吸脱附循环的重复性测试。
     - **关键特征**：响应时间（达到ΔI 80%）暗态1.9 s、450 nm 1.0 s、808 nm 1.7 s；恢复时间（恢复至80%）暗态2.1 s、450 nm 1.3 s、808 nm 1.39 s；450 nm在响应与恢复两项均最快；多次循环后电流基线与幅度基本保持，重复性良好；快速动力学归因于2θ=10°处GO(001) 0.83 nm的较大层间距有利于水分子快速进出。
     - **结论/意义**：从动态响应与循环可靠性定量证明450 nm光照不仅提升灵敏度与线性度，还显著加快响应/恢复速度，是综合最优工作模式。
-  - ![公式1 Kubelka–Munk函数](../../raw/figures/Tobeiha2025optical/eq_1_7T2KD6P7.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式1 Kubelka–Munk函数](../../raw/figures/Tobeiha2025optical/eq_1_7T2KD6P7.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
     - **图示描述**：Kubelka–Munk函数 F(R) = (1 − R)² / (2R)，将漫反射率R转换为与吸收系数α成正比的量（F(R) = α/S，S为散射系数）。
     - **关键特征**：是把DRS粉末样品反射率数据转化为吸收光谱的标准桥梁；无需测量绝对吸收系数即可用于后续Tauc分析；适用于本文G/GO粉末这类强散射样品。
     - **结论/意义**：为图3由DRS反射谱得到Tauc图、进而外推1.56 eV与2.66 eV双带隙提供数学依据。
-  - ![公式2 Tauc公式](../../raw/figures/Tobeiha2025optical/eq_2_4BAWYKNG.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![公式2 Tauc公式](../../raw/figures/Tobeiha2025optical/eq_2_4BAWYKNG.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
     - **图示描述**：Tauc关系式 (α·hν)^(1/n) = A(hν − Eg)，其中α为吸收系数、hν为光子能量、Eg为带隙、A为常数，n由跃迁类型决定（直接跃迁n=1/2，间接跃迁n=2）。
     - **关键特征**：以(αhν)^(1/n)对hν作图，将吸收边线性段外推至横轴即可读出光学带隙Eg；本文对G/GO样品外推得到1.56 eV（约794 nm）和2.66 eV（约466 nm）两个能态值，分别对应G畴与GO畴；与公式1的Kubelka–Munk转换联用，构成完整的DRS带隙分析流程。
     - **结论/意义**：定量给出全文波长选择与激子机制讨论所依赖的双带隙能量标尺。
@@ -167,5 +167,5 @@ Nafiseh Tobeiha, Nafiseh Memarian, Fatemeh Ostovari，2025年，*Scientific Repo
   6. 暗态湿敏机制：Hummers法制备的G为p型半导体，水分子含氧端电负性高，从G表面抽取电子，使空穴浓度升高、电流增大；湿度越高载流子密度越高。
   7. 21% RH下I-V：808 nm电流最大，450 nm次之，370 nm最小；450 nm与808 nm处电流异常增大，分别对应2.66 eV与1.56 eV带隙共振。
   8. 差分电流定义：ΔI′=I(光,湿)−I(暗,21%RH)为总效应；ΔI′′=I(光,湿)−I(暗,同湿)为光照净贡献；ΔI′′′=I(光,湿)−I(光,21%RH)为湿度净贡献。450 nm下三者均随湿度线性增加；808 nm下ΔI′′′为负，即湿度升高反而抑制电流。
-  9. 机制解释：450 nm光子（~2.76 eV）超过GO带隙且足以克服[[../entitys/graphene|石墨烯]]~3 eV的[[../concepts/exciton-binding-energy|激子结合能]]，光生电子自由度高，易被水分子捕获，进一步增强p型掺杂，形成光-湿正向协同；808 nm光子（~1.53 eV）激发的电子受激子结合能强束缚，[[../concepts/two-photon-absorption|[[../concepts/biphoton|双光子]]吸收]]贡献电子数少，高湿度下这些电子与H⁺/空穴复合反而消耗载流子，导致负响应。
+  9. 机制解释：450 nm光子（~2.76 eV）超过GO带隙且足以克服[[../entities/graphene|石墨烯]]~3 eV的[[../concepts/exciton-binding-energy|激子结合能]]，光生电子自由度高，易被水分子捕获，进一步增强p型掺杂，形成光-湿正向协同；808 nm光子（~1.53 eV）激发的电子受激子结合能强束缚，[[../concepts/two-photon-absorption|双光子吸收]]贡献电子数少，高湿度下这些电子与H⁺/空穴复合反而消耗载流子，导致负响应。
   10. 性能数据（40% RH）：暗态响应1.9 s/恢复2.1 s；450 nm响应1.0 s/恢复1.3 s；808 nm响应1.7 s/恢复1.39 s。表1六维评价中只有450 nm在灵敏度、选择性、响应/恢复、稳定性、线性度上全部合格，370 nm全不合格，808 nm非线性。

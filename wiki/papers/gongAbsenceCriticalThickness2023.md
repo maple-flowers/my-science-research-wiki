@@ -11,14 +11,14 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/gongAbsenceCriticalThickness2023]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-2, project-5]
 concepts: [density-functional-theory, polarization-switching, strain-engineering, topological-defects]
 entities: [VASP]
 methods: [afm-pfm, berry-phase, dft, phase-field, stm-mbe, tem, xrd]
 materials:
   - PbTiO3
   - SrTiO3
-figures: [crystal-structures, domain-walls, experimental-setups, heterostructures-stacking, optical-spectra]
+figures: [crystal-structures-bulk, mathematical-models-simulations, optical-spectra]
 领域基础知识:: >-
   铁电材料中畴结构（Ferroic Domains）的周期（d）与薄膜厚度（h）普遍遵循经典的Kittel定律（Kittel's law），即d ∝ √h。该定律描述了为平衡退极化能（Depolarization Energy）和畴壁能（Domain Wall Energy），畴尺寸随膜厚增加而增大的热力学平衡规律。
 研究背景:: >-
@@ -43,20 +43,10 @@ tags:
   - paper
   - type/experiment
   - year/2023
-  - project/project-1
-  - relevance/project-1/medium
   - project/project-2
   - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/strong
   - project/project-5
   - relevance/project-5/core
-  - project/project-6
-  - relevance/project-6/medium
-  - project/project-7
-  - relevance/project-7/weak
   - concept/density-functional-theory
   - concept/polarization-switching
   - concept/strain-engineering
@@ -74,15 +64,12 @@ tags:
   - topic/domain-walls
   - topic/ferroelectricity
   - topic/ferromagnetism
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/optical-spectra
   - topic/phase-transition
   - topic/polarization
   - topic/strain-engineering
   - topic/topological-defects
-  - topic/two-photon-fluorescence
 ---
 
 ## gongAbsenceCriticalThickness2023 — 违反 Kittel 定律的极性斯格明子临界厚度缺失
@@ -111,9 +98,6 @@ Feng-Hui Gong, Yun-Long Tang, Yu-Jia Wang, Yu-Ting Chen, Bo Wu, Li-Xin Yang, Yin
   - 实体 [[../entities/PbTiO3|PbTiO3 (PTO)]]
   - 实体 [[../entities/SrTiO3|SrTiO3 (STO)]]
   - 图表 [[../figures/crystal-structures]]
-  - 图表 [[../figures/heterostructures-stacking]]
-  - 图表 [[../figures/domain-walls]]
-  - 图表 [[../figures/experimental-setups]]
   - 图表 [[../figures/optical-spectra]]
   - 图表 [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - 年度 [[../write/2023]]
@@ -121,15 +105,15 @@ Feng-Hui Gong, Yun-Long Tang, Yu-Jia Wang, Yu-Ting Chen, Bo Wu, Li-Xin Yang, Yin
   - 相关论文 **gongAbsenceCriticalThickness2023**
 
 ## 📊 关键图表
-  - ![图1 不同厚度 PTO/STO 超晶格的 DF-TEM、SAED 与 (103) RSM，周期从 13.8 nm 演变到 6.8 nm](../../raw/figures/gongAbsenceCriticalThickness2023/fig_1_SYSSN7EC.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图1 不同厚度 PTO/STO 超晶格的 DF-TEM、SAED 与 (103) RSM，周期从 13.8 nm 演变到 6.8 nm](../../raw/figures/gongAbsenceCriticalThickness2023/fig_1_SYSSN7EC.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：复合图，对 (PTOₙ/STOₙ)₁₀ 超晶格系列（n = 37, 28, 23, 19, 12, 9, 4, 2 u.c.）依次给出截面 DF-TEM 暗场像、内嵌的 (202) SAED 放大斑点，以及在衬底 (103) 反射附近、qₓ–q_z 散射平面内的对数 RSM；DF 像用 g = 002 衍射矢量拍摄。
   - **关键特征**：DF 像中的明暗强度调制和 SAED 主斑两侧的白色箭头卫星斑，共同指示面内长程有序的极性斯格明子晶格；RSM 中 q_z 方向的布拉格超晶格峰对应 PTO/STO 层厚的面外周期，qₓ 方向的卫星峰对应斯格明子面内周期，按 d = 1/Δqₓ 计算；八个厚度对应的周期依次为 13.8、11.1、10.0、9.5、6.8、6.7、5.2、6.8 nm；n = 19–37 区间周期随厚度减小而单调下降，符合 Kittel 定律，但 n = 2–12 区间周期维持在约 5–6 nm，n = 2 时反而回升至 6.8 nm，且 (PTO₂/STO₂)₁₀ 的 RSM 中仍有清晰卫星峰。
   - **结论/意义**：该图在宏观统计层面直接呈现了 d–h 关系的反 Kittel 行为，并把斯格明子存在的 PTO 层厚度推进到 2 u.c.（约 0.8 nm），为"临界厚度缺失"提供第一手实验证据。
-  - ![图2 斯格明子周期 d 与 PTO 层厚 h 的实验与相场双曲拟合及能量密度曲线](../../raw/figures/gongAbsenceCriticalThickness2023/fig_2_7DNARR37.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图2 斯格明子周期 d 与 PTO 层厚 h 的实验与相场双曲拟合及能量密度曲线](../../raw/figures/gongAbsenceCriticalThickness2023/fig_2_7DNARR37.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
   - **图示描述**：四面板曲线图，横轴均为 PTO 层厚 h（nm），纵轴为斯格明子周期 d（nm）或总能量密度；(a) 实验数据点加双曲拟合与 Kittel 定律预测虚线，(b)(c) 分别为统计法（d = √(S/N)）和能量最低法两种相场模拟结果，(d) 不同厚度 STO/PTO/STO 三层膜的总能量密度–周期曲线。
   - **关键特征**：实验双曲拟合为 d = 0.68h + 2.17/h + 3.24（nm），h < 4 nm 时实验点明显偏离黑色 Kittel 虚线，第二项 2.17/h 在超薄区主导，使曲线在约 5–6 nm 处出现"勾形"反曲；两种相场方法分别给出 d = 0.72h + 3.73/h + 4.48 和 d = 1.32h + 4.10/h + 2.48，定性复现"先减后增"；图 (d) 中每条能量密度曲线的极小值（黑色箭头）即对应最优周期，随 h 减小最低点先左移后右移，直接解释最优周期的非单调演化；补充能量分解显示 h ≥ 4 nm 时体/静电/梯度/弹性各能量分量在最优周期附近均单调，h < 4 nm 时体自由能出现极小值、梯度能出现极大值，单调性破坏。
   - **结论/意义**：该图建立了取代 d ∝ √h 的双曲标度律 d = Ah + B/h + C，并通过相场能量曲线把该体系中 Kittel 定律的下限定在 h ≈ 4 nm。
-  - ![图4 拓扑数 NQ=-1、LSMO 边界条件效应、紫外-可见吸收与矫顽电压厚度依赖](../../raw/figures/gongAbsenceCriticalThickness2023/fig_4_4ADC7YNR.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - ![图4 拓扑数 NQ=-1、LSMO 边界条件效应、紫外-可见吸收与矫顽电压厚度依赖](../../raw/figures/gongAbsenceCriticalThickness2023/fig_4_4ADC7YNR.png) → [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：六面板综合图，(a)(b) 为 4 nm PTO 层 PTO/STO 界面处的模拟极化矢量分布及对应拓扑密度 ρ_top 分布，(c) 为拓扑数 N_Q 随 PTO 层厚度的变化，(d) 为把 STO 替换为导电 LSMO 电极后的 (103) RSM，(e) 为 (PTO₁₂/STO₁₂)₁₀、(PTO₄/STO₄)₁₀ 与纯 STO、纯 PTO 的紫外-可见吸收谱，(f) 为各厚度超晶格 PFM 测得的矫顽电压 U。
   - **关键特征**：拓扑密度呈环状集中在斯格明子外围，按 N_Q = (1/4π)∬u·(∂ₓu×∂ᵧu) dxdy 积分得 N_Q = −1（中心极化沿 −z），且在所有模拟厚度下恒为 −1，不随 h 变化；PTO/LSMO 超晶格的 RSM 中斯格明子卫星峰消失，而极性涡旋不受 LSMO/SRO 等导电边界条件影响，说明斯格明子成核强烈依赖绝缘边界维持的大去极化场与界面电荷屏蔽；含斯格明子的超晶格在整个可见光波段吸收强于纯 PTO/STO，吸收边下降区间变窄（箭头所示），可能源于刺猬状和 Bloch 状极化组分；PFM 振幅呈蝴蝶形回线、相位呈 180° 方波回线，证明可翻转铁电性，矫顽电压 U = (|U⁺|+|U⁻|)/2 随 PTO 层减薄单调下降，(PTO₂/STO₂)₁₀ 约 1.2 V。
   - **结论/意义**：该图把斯格明子的拓扑不变性、对静电边界条件的敏感性，以及超薄超晶格低至 1.2 V 的可翻转铁电性和可见光吸收增强串成一体，支撑其在低功耗、超高密度拓扑存储与光电器件中的应用前景。
@@ -141,13 +125,8 @@ Feng-Hui Gong, Yun-Long Tang, Yu-Jia Wang, Yu-Ting Chen, Bo Wu, Li-Xin Yang, Yin
   - **project-1 双光子 / project-3 机械发光 NN / project-4 TTF 分子计算 / project-6 湿度传感器 / project-7 CDW**：无直接项目连接（project-4 虽用 DFT，但体系为分子晶体，本文钙钛矿超晶格的去极化场/临界厚度/相场方法不具直接参考价值；project-7 的周期调制与斯格明子晶格仅有形式上的相似，机制不同）。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
   - 论证沿"现象发现 → 规律提取 → 机制解释 → 极限验证 → 拓扑与功能"五步推进：先用 DF-TEM/SAED/RSM 对 n=37→2 的厚度系列给出周期统计，观察到 h<4 nm 偏离 Kittel 定律；再用双曲函数拟合实验与两条相场曲线；随后通过能量分项单调性变化和去极化场剖面解释失效根源；再以 HAADF-STEM 实空间极化图 + 10×10×4 超胞 DFT 证实 2 u.c. 极限下斯格明子存在；最后给出拓扑数、边界条件敏感性、光学吸收和 PFM 矫顽电压。

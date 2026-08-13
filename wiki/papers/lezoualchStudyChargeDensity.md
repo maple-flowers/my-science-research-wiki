@@ -15,7 +15,7 @@ concepts: [charge-density-wave, 2d-materials, density-functional-theory, electro
 entities: [TMDs, Quantum-Espresso, Fireball, VSe2, VTe2, STM]
 methods: [dft, dfpt, negf, neb, stm-simulation]
 materials: [1T-VSe2, 1T-VTe2]
-figures: [crystal-structures, electronic-bands, vibrational-spectra, electronic-devices]
+figures: [crystal-structures-bulk, crystal-structures-xrd-phases, electronic-devices-memory-transistors, vibrational-spectra]
 领域基础知识:: >-
   凝聚态物理学，特别是低维系统中的量子集体现象，如电荷密度波（CDW）。理论基础包括Peierls相变、费米面嵌套、电子-声子耦合。核心材料体系为二维过渡金属二硫族化物（TMDs），如1T-VSe₂和1T-VTe₂，了解其晶体结构（1T相，八面体配位）、电子结构（V的3d轨道起关键作用）和基本性质。
 研究背景:: >-
@@ -119,11 +119,11 @@ Mahé Lezoualc'H，2025，Université Paris-Saclay 博士论文（NNT 2025UPASP0
     - **图示描述**：方法学章节的流程示意图，串联 DFT 基态计算、DFPT 声子谱/电声耦合、NEGF 电子输运以及 NEB 相变能垒等本论文使用的多尺度第一性原理计算框架。
     - **关键特征**：展示从 1×1 单胞的电子结构与声子谱出发，提取虚频软模的波矢 q 与本征矢，在超胞中按 Δu = Σ Re[U·exp(iq·R)] 叠加原子位移并弛豫得到 CDW 相，再用于 STM 模拟与输运计算的完整链条。
     - **结论/意义**：体现论文的方法论贡献——以 DFPT 软模为入口系统构建 CDW 原子构型，可推广至其他 TMD 及类似晶格失稳体系。
-  - ![论文图3](../../raw/figures/lezoualchStudyChargeDensity/fig_3_NDLE7FBC.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
+  - ![论文图3](../../raw/figures/lezoualchStudyChargeDensity/fig_3_NDLE7FBC.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
     - **图示描述**：1T-VSe₂/1T-VTe₂ 单层的晶体结构、布里渊区高对称路径以及相关 CDW 超结构（如 4×4、√7×√3、4×1 等）的几何关系示意。
     - **关键特征**：标示出 1T 相八面体配位、V 原子 dz² 轨道主导的费米面以及不同软模波矢（1/2 Γ-M、3/5 Γ-K、1/2 Γ-K、1/3 Γ-K）在布里渊区中的位置，把 CDW 周期与动量空间失稳点一一对应。
     - **结论/意义**：为理解后续声子谱、NEB 与输运计算中的几何与方向约定提供参考底图。
-  - ![论文图4：1T-VSe₂ 与 1T-VTe₂ 单层沿 Γ-M-K-Γ 的声子色散，虚频软模标志 CDW 失稳波矢](../../raw/figures/lezoualchStudyChargeDensity/fig_4_SNX492YC.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![论文图4：1T-VSe₂ 与 1T-VTe₂ 单层沿 Γ-M-K-Γ 的声子色散，虚频软模标志 CDW 失稳波矢](../../raw/figures/lezoualchStudyChargeDensity/fig_4_SNX492YC.png) -> [[../figures/vibrational-spectra|振动光谱]]
     - **图示描述**：用 DFPT 在 1×1 单胞中计算的 1T-VSe₂ 与 1T-VTe₂ 单层沿 Γ-M-K-Γ 高对称路径的声子色散曲线；虚频（不稳定声子模式）以负值绘制。
     - **关键特征**：1T-VSe₂ 在 1/2 Γ-M（对应 4×1 畸变）和 3/5 Γ-K（对应 √7×√3 畸变）出现两个虚频软模；1T-VTe₂ 则在 1/2 Γ-M、1/2 Γ-K、1/3 Γ-K 处出现三个虚频，分别对应 4×1、3×√3、√21×√3 畸变，解释 VTe₂ 比 VSe₂ 更丰富的 CDW 多形态性。
     - **结论/意义**：从第一性原理证明 CDW 主要由电子-声子耦合驱动的晶格动力学失稳所致，多个共存软模直接对应实验上相互竞争的多种 CDW 相，是全文 CDW 建模流程的起点。
@@ -131,11 +131,11 @@ Mahé Lezoualc'H，2025，Université Paris-Saclay 博士论文（NNT 2025UPASP0
     - **图示描述**：1T-VSe₂ 在氮吸附/钠插层等外部化学调控下的原子结构与 STM 图像对比，展示缺陷类型识别以及 Na 插层诱导的 CDW 相变。
     - **关键特征**：N 等离子体处理引入 I 型（N 桥位吸附）、III 型（N 替代底层 Se）等缺陷，但 (4×4) CDW 整体保持稳健；Na 插入层间后顶层 VSe₂ 由体相 (4×4) 转变为单层本征的 (√7×√3) CDW，同时在 Na 岛边缘出现反常"p 型掺杂"特征。
     - **结论/意义**：揭示 Na 插层通过电子掺杂（V dz² 轨道下移）与层间解耦协同把"体相 CDW"切换为"单层 CDW"，确立化学手段对 CDW 相的可调控性。
-  - ![论文图6：1T-VTe₂ 中 (4×1)γ/(4×1)α/(4×4)/(4×1)γ 滑移相的 STM 模拟及 NEB 相变能垒（旋转 ~1.7 eV，相变/相移 ~3.0–3.3 eV）](../../raw/figures/lezoualchStudyChargeDensity/fig_6_636CJF56.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
+  - ![论文图6：1T-VTe₂ 中 (4×1)γ/(4×1)α/(4×4)/(4×1)γ 滑移相的 STM 模拟及 NEB 相变能垒（旋转 ~1.7 eV，相变/相移 ~3.0–3.3 eV）](../../raw/figures/lezoualchStudyChargeDensity/fig_6_636CJF56.png) → [[../figures/crystal-structures-xrd-phases|XRD与相变]]
     - **图示描述**：(a–d) 为 1T-VTe₂ 单层中 (4×1)γ、(4×1)α、(4×4) 以及 π/2 相移后的 (4×1)γ 滑移等不同 CDW 相的 DFT 模拟 STM 图像；(e) 为用 NEB 计算的从 (4×1)γ 出发转向其余各相的最小能量路径。
     - **关键特征**：模拟 STM 衬度与实验高度吻合，验证了所建原子模型；(4×1)γ → (4×1)α 旋转能垒最低，约 1.7 eV/(4×4) 单胞；(4×1)γ → (4×4) 相变及 → (4×1)γ 滑移相的能垒较高，约 3.0–3.3 eV/(4×4) 单胞；旋转只需改变单轴畸变方向而相变需引入多方向原子协同位移，故能垒差异显著。
     - **结论/意义**：首次定量给出 1T-VTe₂ 中 CDW 旋转、相变与相位滑移的动力学难度，解释实验上 STM 脉冲触发旋转比相变更容易，并为"单电子触发约 50 个单胞纳米畴集体切换"的多米诺/相干声子模型提供能垒基准。
-  - ![论文图7：不同 CDW 相及异相界面纳米带的零偏压电导与 I-V 曲线，CDW 相电导普遍低于原始相但相间差异小](../../raw/figures/lezoualchStudyChargeDensity/fig_7_47SP3LTQ.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
+  - ![论文图7：不同 CDW 相及异相界面纳米带的零偏压电导与 I-V 曲线，CDW 相电导普遍低于原始相但相间差异小](../../raw/figures/lezoualchStudyChargeDensity/fig_7_47SP3LTQ.png) → [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
     - **图示描述**：(a、c) 为单相（4×4、4×1α 等）和异相界面（如 4×4/4×1α）纳米带在零偏压下的电子透射谱/电导；(b、d) 为对应的 NEGF 计算电流-电压（I-V）曲线，并与未畸变原始相做对比。
     - **关键特征**：所有 CDW 相的电导均显著低于原始金属相，因为晶格畸变改变原子间距、降低电子跃迁概率并增加界面散射；但不同 CDW 相之间以及不同取向之间的电导/I-V 差异很小，异相界面对输运的额外调制也有限。
     - **结论/意义**：表明 CDW 可作为电导"开/关"开关，但靠取向切换实现多值存储在弹道输运下并不现实，为"CDW-tronics"指明应转向畴壁散射、CDW 集体滑动的非线性输运及界面重构等方向。
@@ -158,7 +158,7 @@ Mahé Lezoualc'H，2025，Université Paris-Saclay 博士论文（NNT 2025UPASP0
   1. **CDW 建模方法论**：在原始 1×1 单胞中用 DFPT 算声子谱，虚频软模给出失稳波矢 q 与本征矢；在超胞中按 Δu = Σ Re[U_{ν,q}·exp(iq·R)] 叠加原子位移，再弛豫得到 CDW 相。该流程成功复现 1T-VSe₂ 的 (4×4)、(√7×√3) 及 1T-VTe₂ 的 (4×1)、(3×√3)、(√21×√3) 等多相。
   2. **1T-VSe₂ 软模**：声子谱在 1/2 Γ-M（对应 4×1 畸变）和 3/5 Γ-K（对应 √7×√3 畸变）处有两个虚频；多软模共存解释实验中多 CDW 相竞争。
   3. **1T-VTe₂ 软模**：在 1/2 Γ-M、1/2 Γ-K、1/3 Γ-K 处有三个虚频，分别对应 4×1、3×√3、√21×√3，故 VTe₂ 比 VSe₂ CDW 多形态性更丰富。
-  4. **驱动力认识**：CDW 主要由[[../concepts/electron-phonon-coupling|电子-声子耦合]]导致的晶格动力学失稳驱动，而非单纯[[../concepts/fermi-surface-nesting|[[../concepts/fermi-surfaces|费米面]]嵌套]]；费米面附近 V dz² 轨道尖峰提供电子不稳定性。
+  4. **驱动力认识**：CDW 主要由[[../concepts/electron-phonon-coupling|电子-声子耦合]]导致的晶格动力学失稳驱动，而非单纯[[../concepts/fermi-surface-nesting|费米面嵌套]]；费米面附近 V dz² 轨道尖峰提供电子不稳定性。
   5. **N 掺杂**：氮等离子体处理在 1T-VSe₂ 表面引入三类缺陷（I 型 N 桥位吸附、III 型 N 替代底层 Se、II 型未完全确认），但 (4×4) CDW 整体稳健不被破坏。
   6. **Na 插层双重机制**：Na 向顶层 VSe₂ 转移电子（n 型掺杂）使 V dz² 轨道下移，同时作为"楔子"减弱层间范德华耦合，使顶层表现如孤立单层，从而把体相 (4×4) CDW 转变为单层本征的 (√7×√3) CDW；Na 岛边缘观测到反常"p 型掺杂"，归因于局域静电场斯塔克栅极效应。
   7. **STM 针尖可逆切换**：1T-VTe₂ 单层中 STM 脉冲可在 (4×4) 与 (4×1) 相间及 (4×1) 不同取向（α/β/γ）间可逆切换；电报噪声分析显示切换产额在 ±1 V 附近有阈值且与电流大小无关，表明是单电子非弹性隧穿过程而非电场效应。

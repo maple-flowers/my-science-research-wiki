@@ -11,12 +11,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/zhongHighthroughputExfoliationMultiferroic2025]]
-projects: [project-1, project-2, project-5]
+projects: []
 concepts: [2D-materials, altermagnetism, berry-phase, binding-strength, bond-density, density-functional-theory, ferroelasticity, giant-spin-splitting, magnetoelectric-coupling, multiferroicity, phase-interlocked, spin-orbit-coupling, strain-engineering]
 entities: [BiFeO3, MnVO3, NaZnO3, SrIrO3, SrMoO3, SrOsO3, TMDs, VASP, Wannier90, ZnPbO3, h-BN]
 methods: [afm-pfm, berry-phase, dfpt, dft, monte-carlo, neb]
 materials: [BiFeO3, MnVO3, NaZnO3, SrIrO3, SrMoO3, SrOsO3, TMDs, ZnPbO3, h-BN]
-figures: [crystal-structures, electronic-bands, mathematical-models]
+figures: [crystal-structures-bulk, crystal-structures-xrd-phases, electronic-bands-band-structures, mathematical-models-elasticity-strain, mathematical-models-simulations]
 领域基础知识:: >-
   二维材料、非范德华材料、三元氧化物钙钛矿（ABO₃）、多铁性材料、自旋电子学、第一性原理计算（DFT）、高通量计算筛选。
 研究背景:: >-
@@ -41,12 +41,6 @@ tags:
   - paper
   - type/experiment
   - year/2025
-  - project/project-1
-  - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/medium
-  - project/project-5
-  - relevance/project-5/medium
   - concept/2D-materials
   - concept/altermagnetism
   - concept/berry-phase
@@ -111,32 +105,32 @@ Yongle Zhong, Yuxiang Xiao, Zhengfang Qian, Wen Xiong, Pu Huang（深圳大学�
   - 相关论文 [[../../raw/note/zhongHighthroughputExfoliationMultiferroic2025]]
 
 ## 📊 关键图表
-  - ![图1 ABO₃单层高通量筛选框架、SrOsO₃剥离能曲线、35种候选材料的剥离能-带隙散点图](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/fig_1_VBUYWAI7.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图1 ABO₃单层高通量筛选框架、SrOsO₃剥离能曲线、35种候选材料的剥离能-带隙散点图](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/fig_1_VBUYWAI7.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
     - **图示描述**：由三幅子图构成——(a) 从 831 种 ABO₃ 出发、经"低键密度晶面识别→剥离→稳定性验证→铁性分析→相锁定调控"的研究框架流程图；(b) SrOsO₃ 单层剥离能随拉伸步数变化的曲线，横轴为剥离步数、纵轴为 E_exf（eV/Å²）；(c) 35 种候选单层在剥离能–带隙平面上的散点图，并标注已实验剥离的 2D Fe₂O₃、TiFeO₃ 作为基准。
     - **关键特征**：SrOsO₃ 剥离能峰值为 0.134 eV/Å²；NaZnO₃ 低至 0.049 eV/Å²，与石墨烯（0.013）、MoS₂（0.019）、h-BN（0.032 eV/Å²）同量级；候选带隙覆盖 0–3.758 eV；筛选阈值为 ρ ≤ 0.3 bonds/Å² 且 ξ⊥ < ξ∥、E_exf ≤ 0.13 eV/Å²。
     - **结论/意义**：以"键密度 + 面外/面内结合强度"判据首次实现对非范德华 ABO₃ 的高通量可剥离晶面识别，奠定全文方法论基础。
-  - ![图3 SrOsO₃与SrIrO₃相锁定能带（HSE06+SOC）、Rashba自旋纹理、各候选材料VBM/CBM自旋劈裂能统计](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/fig_3_D9Z5WUU3.png) → [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
+  - ![图3 SrOsO₃与SrIrO₃相锁定能带（HSE06+SOC）、Rashba自旋纹理、各候选材料VBM/CBM自旋劈裂能统计](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/fig_3_D9Z5WUU3.png) → [[../figures/electronic-bands-band-structures|能带结构与带隙]]
     - **图示描述**：(a) SrOsO₃ P4mm↔P4bm 与 SrIrO₃ Pc↔P4bm 的 HSE06+SOC 能带（红/蓝分别为自旋上/下，横轴 k-path，纵轴 E−E_F，单位 eV）；(b) SrOsO₃ 在 Γ 附近二维布里渊区的 Rashba 型自旋纹理箭头场；(c) 各候选单层 VBM/CBM 处自旋劈裂能的柱状对比（单位 eV）。
     - **关键特征**：SrOsO₃ P4mm 相 VBM/CBM 劈裂达 0.606/0.411 eV，为目前已知二维 AFM 氧化物最高值；ZnPbO₃ 次之 0.293 eV；1% 面内双轴压缩使 VBM 劈裂降至 0.309 eV（杂化率 0.65→0.35）；SrIrO₃ Pc 相自旋上/下带隙 1.14/1.35 eV，转入 P4bm 后自旋下通道金属化、自旋上带隙扩至 3.58 eV，形成 100% 自旋极化半金属。
     - **结论/意义**：直接证据表明极性 P4mm 反演破缺 + Os 5d/O 2p 强 p–d 杂化共同驱动巨自旋劈裂，并展示相锁定可同时切换导电性、磁性与能带排序。
-  - ![图4 P4mm/P4bm势能图、OsO₅键合网络与结构参数随应变演化、pCOHP/−ICOHP、应变-相变能量景观](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/fig_4_ABKMCTN8.png) → [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
+  - ![图4 P4mm/P4bm势能图、OsO₅键合网络与结构参数随应变演化、pCOHP/−ICOHP、应变-相变能量景观](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/fig_4_ABKMCTN8.png) → [[../figures/mathematical-models-elasticity-strain|应变、弹性与力学模型]]
     - **图示描述**：五联图——(a) P4mm 与 P4bm 两势阱在外场下反转的势能示意图；(b) SrOsO₃ OsO₅ 键合网络，标注面外 d₁、面内 d₂ 键长与扭转角 θ；(c) θ、d₁、d₂ 随面内双轴应变 ε_ab（%）的演化；(d) 不同应变下 Os–O 的 −pCOHP 曲线及 −ICOHP 积分；(e) 相变路径能量随 ε_ab 变化的等高线景观。
     - **关键特征**：ε_ab = 1.2% 时 θ 由 8.68° 降至 0°，驱动 P4bm→P4mm；面外 −ICOHP 由 0.53 升至 0.91 eV，面内各向异性被淬灭；相变势垒随应变反转：1% 时 +0.11 meV/atom、1.2% 时 −3.74、2% 时 −7.9 meV/atom；本征 P4bm↔P4mm 势垒仅 9.1 meV/atom；SrIrO₃ 需 a 轴压缩 3.5%、SrMoO₃ 需 a 拉 0.7%/b 压 2.7%、BiFeO₃ 需 a/b 压 4%/3%。
     - **结论/意义**：从电子结构（pCOHP）和原子构型两个尺度阐明应变如何通过增强面外 Os–O 成键驱动五面体回转，给出超低能耗、飞秒级相控自旋器件的定量阈值。
   - 公式（键密度、剥离能求和、对称性容差、平均原子位移、Arrhenius 相变时间）：
-    - ![Eq.1 键密度 ρ=N(R_i,R_j)/A](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_1_V7P47HW7.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+    - ![Eq.1 键密度 ρ=N(R_i,R_j)/A](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_1_V7P47HW7.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
       - **图示描述**：定义晶面上单位面积所切断化学键数 ρ = N(R_i, R_j)/A（i ≠ j），R_i、R_j 为晶面两侧相邻原子坐标，A 为键合原子张成的平面面积。
       - **关键特征**：筛选阈值取 ρ ≤ 0.3 bonds/Å²；法线方向通过扫描选取使交切键数最小者；该量与化学成分、对称性解耦，是判据的几何基础。
-    - ![Eq.2 剥离能增量求和 ΔE_j](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_2_RTSAUWAA.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+    - ![Eq.2 剥离能增量求和 ΔE_j](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_2_RTSAUWAA.png) -> [[../figures/mathematical-models-elasticity-strain|应变、弹性与力学模型]]
       - **图示描述**：剥离能按逐步拉伸-弛豫增量累加 ΔE_j = (1/A) Σ_{i=0}^{j} (E_{i,1} − E_{i,0})，E_{i,0} 为瞬时稳态能、E_{i,1} 为拉伸弛豫后能量。
       - **关键特征**：每步外移 ~0.2 Å，加 DFT-D3 色散修正；当 E_{i,1} ≤ E_{i,0} 时判定层分离；对所有 ΔE 求和即得 E_exf，最低 0.049 eV/Å²（NaZnO₃）。
-    - ![Eq.3 对称性等价判据 ŜR_j≈R_i≤δ](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_3_HFYN8N2W.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+    - ![Eq.3 对称性等价判据 ŜR_j≈R_i≤δ](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_3_HFYN8N2W.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
       - **图示描述**：AIMD 快照中两原子构型在对称操作 Ŝ 下等价的判据，要求原子位置偏差 ≤ δ，其中 δ = δ_p + δ_a 为位置容差与晶格角容差之和。
       - **关键特征**：用于在 ~10 ps、300 K NVT 轨迹中自动识别新相空间群、去重得到 {S₀, S₁, …} 代表性结构，是相扫描工作流的核心判据。
-    - ![Eq.4 两相平均原子位移 ΔR](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_4_RIHQZJF6.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+    - ![Eq.4 两相平均原子位移 ΔR](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_4_RIHQZJF6.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
       - **图示描述**：ΔR = (1/N) √[Σ_{α=x,y,z} (R_{α,j} − R_{α,i})²]，量化两相间原子几何重构幅度。
       - **关键特征**：用于配合 cNEB 判定 P4mm/P4bm/Pc 等相间的结构距离，配合 6.9–118.4 meV/atom 势垒范围评估动力学可达性。
-    - ![Eq.5 Arrhenius 1/τ=A·exp(−E_A/k_BT)](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_5_4G2LJYRT.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+    - ![Eq.5 Arrhenius 1/τ=A·exp(−E_A/k_BT)](../../raw/figures/zhongHighthroughputExfoliationMultiferroic2025/eq_5_4G2LJYRT.png) -> [[../figures/crystal-structures-xrd-phases|XRD与相变]]
       - **图示描述**：序-序相变特征时间 τ 的 Arrhenius 估计 1/τ = A·exp(−E_A/k_BT)，A 为尝试频率、E_A 为 cNEB 势垒。
       - **关键特征**：取 A = 10 THz、T = 300 K、E_A = 9.1 meV/atom，得 τ ~ 21–232 fs；对应单次开关能耗 4.4×10⁻⁴–4.9×10⁻³ fJ，较 3 nm 环栅 SiC/SiGe CMOS 的 2.85 ps 电荷动力学跨入飞秒量级。
   - （笔记未附原图2：T_N/T_C 统计、Os–O–Os 超交换路径示意、MLWF 等值面；亦未附表1的独立图片，但表1文字数据在笔记正文中完整保留。）
@@ -145,9 +139,6 @@ Yongle Zhong, Yuxiang Xiao, Zhengfang Qian, Wen Xiong, Pu Huang（深圳大学�
 project-2 Mn 多铁直接相关——筛选名单中 MnVO₃ 为高转变温度多铁候选之一，且方法学可推广至 Mn 基钙钛矿；其余 project-1/3/4/5/6/7 无直接连接（project-5 SnTe 铁电模拟主题邻近但材料体系不同，可作方法借鉴而非直接连接）。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 
 ## 📝 组织与用词
   - 论证按"方法提出 → 高通量筛选 → 稳定性验证 → 物性深挖（磁性/自旋）→ 相耦合调控 → 应变工程 → 器件展望"闭环展开；每一节均以代表性体系（SrOsO₃ 为主，SrIrO₃/SrMoO₃/BiFeO₃ 为辅）锚定抽象结论，并以 MLWF、pCOHP、cNEB 三类微观证据交叉印证，逻辑严密。
@@ -165,7 +156,7 @@ project-2 Mn 多铁直接相关——筛选名单中 MnVO₃ 为高转变温度�
 
 ## ✏️ 可写入 Wiki 的要点
   1. **方法学判据**：可剥离晶面需同时满足低[[../concepts/bond-density|键密度]] ρ ≤ 0.3 bonds/Å² 与 ξ⊥ < ξ∥；剥离能阈值取 E_exf ≤ 0.13 eV/Å²。剥离通过固定底层、每步外移约 0.2 Å 并弛豫直至断键来模拟，E_exf = Σ ΔE/A（Eq.1–2）。该判据不依赖化学成分与对称性，已用 TiFeO₃、FeCr₂O₄、α-Fe₂O₃ 等已知可剥离非范德华材料验证。
-  2. **筛选规模与结果**：从 Materials Project + ICSD 的 831 种实验合成 ABO₃ 出发，得到 35 种稳定可剥离单层（16 AFM/FM/FiM、18 FE、8 FC、1 无[[../concepts/ferroic-order|铁性序]]），剥离能最低 0.049 eV/Å²（NaZnO₃），MnSnO₃ 0.057、BiFeO₃ 0.109、SrOsO₃ 0.134 eV/Å²，与[[../entitys/graphene|石墨烯]] 0.013、MoS₂ 0.019、h-BN 0.032、BP 0.023 eV/Å² 同量级。
+  2. **筛选规模与结果**：从 Materials Project + ICSD 的 831 种实验合成 ABO₃ 出发，得到 35 种稳定可剥离单层（16 AFM/FM/FiM、18 FE、8 FC、1 无[[../concepts/ferroic-order|铁性序]]），剥离能最低 0.049 eV/Å²（NaZnO₃），MnSnO₃ 0.057、BiFeO₃ 0.109、SrOsO₃ 0.134 eV/Å²，与[[../entities/graphene|石墨烯]] 0.013、MoS₂ 0.019、h-BN 0.032、BP 0.023 eV/Å² 同量级。
   3. **稳定性验证流程**：对每个候选做 AIMD 采样→空间群识别（容差 δ=δp+δa）→DFT 全弛豫→DFPT/Phonopy 声子谱（无虚频）→~10 ps、300 K、NVT 长时 AIMD→cNEB 相变路径；代表性体系 BiFeO₃/SrOsO₃/SrMoO₃/MnVO₃ 的多相被 6.9–118.4 meV/atom 势垒隔开，动力学可及。
   4. **SrOsO₃ 高 T_N 微观机制**：P4mm 四方结构，每晶胞 2 Sr + 2 Os + 6 O；Os–O 面内 1.93 Å、面外 2.05 Å。Néel 型 AFM 比 FM 低 1.384 eV/晶胞，面外[[../concepts/magnetic-anisotropy-energy|磁各向异性能]] 63.35 meV。MFT/TB2J 给出 1NN J₁=−11.19 meV，约为 2NN J₂(1.96 meV) 的 5.7 倍、3NN J₃(0.20 meV) 的两个数量级；C₄ᵥ 晶体场下 Os 5d 分裂为 A₁(dz²)、E(dxz,dyz)、B₁(dx²⁻y²)、B₂(dxy)，AFM [[../concepts/superexchange|超交换]]由 B₁↔B₁（dx²⁻y²–px/py）与 E↔E（dxz/dyz–pz）通道主导；4 个自旋近邻 + 大 |J₁| 共同给出 T_N=300 K。BiFeO₃ 280 K、SrMoO₃ 315 K。
   5. **[[../concepts/giant-spin-splitting|巨自旋劈裂]]**：35 种中 15 种在 CBM/VBM 有显著劈裂；SrOsO₃ P4mm 相 VBM/CBM 分别达 0.606/0.411 eV，远超 2D SrTiO₃(~0.1 eV)、Mn₂ClXH(0.062–0.089 eV)、CrSBr 双层(~0.25 eV)，为目前已知最大的二维 AFM 氧化物自旋劈裂；ZnPbO₃ 次之为 0.293 eV。机制：极性 P4mm 中 Os 占 1a/1b 两个不等价 Wyckoff 位破缺反演对称 + Os 5d/O 2p 强杂化（杂化率 0.65）；自旋劈裂与杂化率近线性相关。1% 面内双轴压缩（等价层厚拉伸 1.6%，Os–O 从 2.05→2.28 Å）使杂化率降至 0.35、VBM 劈裂降至 0.309 eV，定量证明 p–d 杂化的主导作用。

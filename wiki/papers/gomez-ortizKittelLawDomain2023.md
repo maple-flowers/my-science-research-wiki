@@ -15,7 +15,7 @@ concepts: [kittel-law, polar-vortices, vortex-antivortex-pair, depolarization-fi
 entities: [PbTiO3, SrTiO3, BiFeO3, SCALE-UP, PHONOPY, domain-wall]
 methods: [second-principles, dft, monte-carlo-annealing, langevin-md, force-constant-bands, phonon-spectra, born-effective-charges, effective-hamiltonian]
 materials: [PbTiO3, SrTiO3, PbTiO3-SrTiO3-superlattice]
-figures: [domain-walls, crystal-structures, mathematical-models]
+figures: [crystal-structures-bulk, domain-walls-structures]
 领域基础知识:: >-
   铁电材料中存在自发极化区域"畴"，不同畴的边界为"畴壁"。畴的形成是为了降低退极化场和静电能量。经典的Kittel定律描述了铁磁畴中畴宽与材料厚度的平方根关系，并后来被推广至铁电材料。
 研究背景:: >-
@@ -95,7 +95,7 @@ Fernando Gómez-Ortiz, Hugo Aramberri, Juan M. López, Pablo García-Fernández,
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/topological-defects]]、[[../concepts/strain-engineering]]、[[../concepts/ferroelasticity]]、[[../concepts/polarization-switching]]、[[../concepts/kittel-law|Kittel定律]]、[[../concepts/polar-vortex|极性涡旋]]、[[../concepts/vortex-antivortex-pair|涡旋-反涡旋对]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/second-principles|第二性原理]]、[[../concepts/superlattice|超晶格]]、[[../concepts/anharmonic-effects|非谐效应]]、[[../concepts/polarization-waves|极化波]]、[[../concepts/topological-charge|拓扑荷]]、[[../entities/PHONOPY|PHONOPY]]
   - 实体 [[../entities/BiFeO3]]、[[../entities/domain-wall]]、[[../entities/PbTiO3|PbTiO₃]]、[[../entities/SrTiO3|SrTiO₃]]
-  - 图表 [[../figures/domain-walls]]、[[../figures/crystal-structures]]、[[../figures/mathematical-models]]
+  - 图表 [[../figures/domain-walls]]、[[../figures/crystal-structures]]
   - 年度 [[../write/2023]]
   - 相关论文 **gomez-ortizKittelLawDomain2023**
 ## 🆕 新概念/实体建议
@@ -103,32 +103,32 @@ Fernando Gómez-Ortiz, Hugo Aramberri, Juan M. López, Pablo García-Fernández,
   - 实体 `SCALE-UP.md`：第二性原理有效哈密顿量模拟所用的软件包。
 ## 📊 关键图表
   - 图1：双畴结构从 Ising 初态弛豫为顺时针/逆时针极化涡旋畴壁（畴壁厚约 1 u.c.，出现 y 向极化分量）
-    ![图1 双畴结构弛豫为涡旋畴壁](../../raw/figures/gomez-ortizKittelLawDomain2023/fig_1_I73SSRGV.png) -> [[../figures/domain-walls|畴与畴壁结构]]
+    ![图1 双畴结构弛豫为涡旋畴壁](../../raw/figures/gomez-ortizKittelLawDomain2023/fig_1_I73SSRGV.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
     - **图示描述**：(a) 周期性边界下红/蓝双畴超胞示意；(b) 初始 180° Ising 构型，偶极矩在单个晶胞内沿 z 轴从向上突翻为向下；(c) 蒙特卡洛退火弛豫后的偶极矩地图，箭头为局域偶极矩、颜色为沿 y 向极化分量，畴壁处自发形成交替排列的顺时针/逆时针极性涡旋。
     - **关键特征**：畴壁厚度 δ≈1 u.c.，与后续 ω=L/2−1 的取法一致；涡旋轴垂直于堆叠方向（沿 y），核区出现面外（轴向）极化分量；该涡旋畴壁构型是 n=8–16 范围内的真实基态，而非理想 Ising 壁。
     - **结论/意义**：说明 Kittel 标度所针对的"畴壁"在该超晶格中是非 Ising 的拓扑涡旋壁，为把经典定律推广到复杂织构奠定结构基础。
   - 图2：不同 n 下单胞能量随横向尺寸 L 的曲线及 ω²–n 线性拟合（Kittel 定律验证，红点能量最小化、蓝方块力常数法）
-    ![图2 Kittel定律验证](../../raw/figures/gomez-ortizKittelLawDomain2023/fig_2_AAWRLAWB.png) -> [[../figures/domain-walls|畴与畴壁结构]]
+    ![图2 Kittel定律验证](../../raw/figures/gomez-ortizKittelLawDomain2023/fig_2_AAWRLAWB.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
     - **图示描述**：(a) n=8–16 u.c. 各层厚下，每个五原子单胞能量（meV/5-atom cell）随横向尺寸 L（u.c.）的 U 型曲线；(b) 由曲线极小值经 ω=L/2−1 得到的 ω²（u.c.²）对 PbTiO₃ 层厚 d（u.c.）作图，红点为全能量最小化、蓝方块为图3 力常数带结果，并附线性拟合。
     - **关键特征**：n 越大，整体单胞能量越低（PbTiO₃ 极化趋体相、SrTiO₃ 极化减小，从静电耦合过渡到解耦），且能量极小值变浅并向更大 L 移动；两套数据均给出 ω²∝d 的线性关系，直接验证 Kittel 定律 ω²/δ=Ad；红点始终位于蓝方块上方，能量最小化法预测更宽的畴。
     - **结论/意义**：以两条独立证据链确认 Kittel 定律在极性涡旋相中成立，二者系统性偏差被归因于简谐分析无法捕捉的非谐弛豫。
   - 图3：Γ–X 力常数带与最强不稳定声子模 q_min≈0.123，冻结后得规则涡旋阵列
-    ![图3 力常数谱分析](../../raw/figures/gomez-ortizKittelLawDomain2023/fig_3_KHD8X69N.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+    ![图3 力常数谱分析](../../raw/figures/gomez-ortizKittelLawDomain2023/fig_3_KHD8X69N.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
     - **图示描述**：(a) (PbTiO₃)₉/(SrTiO₃)₉ 高对称参考态沿 Γ–X 的力常数带（本征值，负值代表不稳定模），虚线为中心对称参考能量，红点标示最强不稳定性；(b) 按该软模波矢冻结位移后的原子/偶极构型。
     - **关键特征**：最强不稳定模位于 q_min≈0.123（分数坐标）；据 ω=1/(2q)−1 独立预测最优畴宽，与图2 红点趋势一致但系统性偏窄；冻结所得涡旋中心严格位于 PbTiO₃ 层中心、无偏移，与图1(c) 含偏移和面内倾斜的全弛豫结构形成对照。
     - **结论/意义**：从晶格动力学角度独立验证 Kittel 标度，并揭示谐波近似遗漏非谐效应（涡旋偏移、极化倾斜、退极化电荷减小），解释其低估畴宽的原因。
   - 图4：2 畴与 4 畴构型能量交叉，临界横向尺寸 Lc 随 n 增大
-    ![图4 畴密度相竞争](../../raw/figures/gomez-ortizKittelLawDomain2023/fig_4_LEVTBY7M.png) -> [[../figures/domain-walls|畴与畴壁结构]]
+    ![图4 畴密度相竞争](../../raw/figures/gomez-ortizKittelLawDomain2023/fig_4_LEVTBY7M.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
     - **图示描述**：对各层厚 n，比较 2 畴（实心点）与 4 畴（空心点）构型每五原子单胞能量随横向尺寸 L 的变化；黑色实心方块标出两曲线交点即临界尺寸 Lc，数字 1–4 对应图5 具体构型。
     - **关键特征**：L<Lc 时 2 畴更稳定（畴壁数少、畴壁能惩罚主导）；L>Lc 时 4 畴更稳定（静电能惩罚主导，需引入更多畴壁屏蔽退极化场）；Lc 随 n 增大而增大。
     - **结论/意义**：定量给出畴壁能与静电能竞争决定最优畴数的相边界，是理解亚稳态与畴形成动力学的起点。
   - 图5：n=12 时 L=24/36/48 u.c. 下极化地图，含亚稳态界面新生涡旋-反涡旋对及升温后 4 畴态
-    ![图5 不同L下极化构型](../../raw/figures/gomez-ortizKittelLawDomain2023/fig_5_JV3KYDD2.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+    ![图5 不同L下极化构型](../../raw/figures/gomez-ortizKittelLawDomain2023/fig_5_JV3KYDD2.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
     - **图示描述**：n=12 时四个代表性极化构型：L 较小的 4 畴亚稳态出现沿 [100]pc 的极化波、面内净极化及涡旋核向界面偏移；L≈Lc 附近为宽大 2 畴稳态；L>Lc 的 2 畴亚稳态在 PbTiO₃/SrTiO₃ 界面出现新生涡旋-反涡旋对；升温后由该亚稳态弛豫为规则 4 畴态。
     - **关键特征**：L 越小，相邻涡旋核偏移越大，无法居于 PbTiO₃ 层中心；界面新生涡旋/反涡旋对是新畴的成核点，可分割已有上/下极化区；在 T<50 K 该 2 畴亚稳态为长寿命相，升温至 ≥90 K 或施加 ≥−0.5% 压应变即可越过势垒形成新畴；反向（L<Lc 高畴密度极化波态）即使升温也无法弛豫到低密度畴。
     - **结论/意义**：直观呈现静电能与梯度能势垒形态的不对称性，以及升温/压应变触发低畴密度亚稳态向 Kittel 基态转变的路径。
   - 图6：n=14, L=28, T=90 K, −0.5% 压应变下，0–600 fs 内涡旋拉长→反涡旋合并为涡度−2→湮灭形成新畴的 MD 快照
-    ![图6 涡旋-反涡旋复合动力学](../../raw/figures/gomez-ortizKittelLawDomain2023/fig_6_RKRLCYXC.png) -> [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
+    ![图6 涡旋-反涡旋复合动力学](../../raw/figures/gomez-ortizKittelLawDomain2023/fig_6_RKRLCYXC.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
     - **图示描述**：(a) n=14、L=28、T=90 K、−0.5% 压应变下的初始 2 畴亚稳态，虚线框标出待分析的上畴区域，上下界面各有两涡旋（红）一反涡旋（浅蓝）；(b) 该区域 0–600 fs 朗之万 MD 时间序列，深蓝点为涡度 −2 的双反涡旋，虚线椭圆标示向下极化单胞数随时间增加。
     - **关键特征**：0–550 fs 涡旋沿界面拉长、向下极化单胞从 3 个增至 4–5 个，反涡旋被推向 PbTiO₃ 层中心；约 550 fs 两反涡旋合并为涡度 −2 的高能双反涡旋（能量随涡度二次方增长，符合 Kosterlitz–Thouless XY 模型）；约 50 fs 内即与两涡旋湮灭，形成向下极化新畴及一对新的拉长顺/逆时针涡旋；反涡旋优先出现在极化幅度较小的 SrTiO₃ 层，净涡度为零符合周期性边界下的庞加莱–霍普夫定理。
     - **结论/意义**：首次以原子尺度 MD 拍录"成核→拉长→合并→湮灭"四步缺陷复合过程，阐明亚稳态自发增加畴密度、弛豫至 Kittel 最优尺寸的微观驱动力。

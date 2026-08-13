@@ -4,6 +4,8 @@
 
 ## 概念（Concepts）
 
+*共 1087 个概念页，下列仅为代表性条目，完整列表见 `wiki/concepts/` 目录。*
+
 - [[wiki/concepts/sliding-ferroelectricity|滑动/堆叠铁电性 Sliding Ferroelectricity]]
 - [[wiki/concepts/multiferroicity|多铁性 Multiferroicity]]
 - [[wiki/concepts/magnetoelectric-coupling|磁电耦合 Magnetoelectric Coupling]]
@@ -14,8 +16,11 @@
 - [[wiki/concepts/2D-materials|二维范德华材料 2D Materials]]
 - [[wiki/concepts/machine-learning-potential|机器学习势与大尺度原子模拟 MLIP]]
 - [[wiki/concepts/ferroelectric-tunnel-junction|铁电隧道结与非挥发存储器 FTJ]]
+- ……等等，涵盖铁电/多铁、磁电、拓扑、二维材料、电荷密度波、超导、光学、机器学习势、缺陷与相变等方向，详见 `wiki/concepts/`。
 
 ## 实体（Entities：材料/器件/结构/方法）
+
+*共 203 个实体页，下列仅为代表性条目，完整列表见 `wiki/entities/` 目录。*
 
 - **二维材料体系**：
   - [[wiki/entities/h-BN|六方氮化硼 h-BN]]
@@ -24,12 +29,16 @@
   - [[wiki/entities/SnTe|碲化锡 SnTe]]
   - [[wiki/entities/MXenes|过渡金属碳/氮化物 MXenes]]
   - [[wiki/entities/Fe3GeTe2|铁锗碲 Fe3GeTe2]]
+  - [[wiki/entities/1T-TaS2|1T-TaS₂]]、[[wiki/entities/2H-TaSe2|2H-TaSe₂]]、[[wiki/entities/CrI3|CrI₃]]、[[wiki/entities/Cr2Ge2Te6|Cr₂Ge₂Te₆]]、[[wiki/entities/black-phosphorus|黑磷]] 等
 - **钙钛矿/氧化物多铁体系**：
   - [[wiki/entities/BiFeO3|铁酸铋 BiFeO3]]
   - [[wiki/entities/HoMnO3|锰酸钬 HoMnO3]]
+  - [[wiki/entities/BaTiO3|钛酸钡 BaTiO₃]]、[[wiki/entities/BiMnO3|BiMnO₃]]、[[wiki/entities/CoCr2O4|CoCr₂O₄]] 等
 - **微观结构与算法工具**：
   - [[wiki/entities/domain-wall|畴壁 Domain Wall]]
   - [[wiki/entities/deep-potential|机器学习势 Deep Potential (DPMD)]]
+  - [[wiki/entities/ABINIT|ABINIT]]、[[wiki/entities/ARPES|ARPES]]、[[wiki/entities/bader-code|Bader 电荷分析]] 等
+- ……等等，涵盖二维材料、钙钛矿/氧化物、分子多铁、软件/仪器、器件结构等，详见 `wiki/entities/`。
 
 ## 主题（Topics）
 

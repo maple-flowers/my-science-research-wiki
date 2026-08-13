@@ -50,7 +50,6 @@ tags:
   - method/afm-pfm
   - method/tem
   - method/xrd
-  - topic/2d-materials
   - topic/strain-engineering
 ---
 

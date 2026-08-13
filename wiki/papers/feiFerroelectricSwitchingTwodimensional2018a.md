@@ -15,7 +15,7 @@ concepts: [polarization-switching, 2d-materials, multiferroicity, polar-metal, e
 entities: [WTe2, h-BN, graphene, BaTiO3]
 methods: [device-i-v, dry-transfer, e-beam-lithography, afm, four-terminal-measurement, graphene-field-sensor]
 materials: [WTe2]
-figures: [crystal-structures, electronic-devices, mathematical-models]
+figures: []
 领域基础知识:: >-
   铁电体是内部具有自发极化，且该极化方向可被外加电场翻转的材料。传统上，这一性质被认为仅存在于绝缘体中，因为金属中的自由电子会屏蔽静电场，阻止极化形成和反转。铁电金属（Ferroelectric metal）是理论上可能存在的极性金属，但其极性是否可翻转一直未被证实。二维材料（2D Materials）和范德华异质结（Van der Waals heterostructures）技术允许构建原子级厚度的器件，为研究这类新奇物理现象提供了平台。
 研究背景:: >-
@@ -139,7 +139,7 @@ Fei, Zhao, Palomaki, Sun, Miller, Zhao, Yan, Xu, Cobden et al.，2018，Nature 5
 ## ✏️ 可写入 Wiki 的要点
   1. **结构对称性**：三维 1T′-WTe₂ 属极性空间群 Pnm2₁，含 b-c 镜面 M 与 a-c 滑移面 G，极轴为垂直层面的 c 轴；单层存在对称中心而非极性，2-3 层因堆叠破缺[[../concepts/inversion-symmetry|反演对称性]]er获得极性。
   2. **层数依赖的铁电开关**：双层和三层 WTe₂ 的电导在 E⊥≈0 附近出现双稳态回滞，温度从 1.6 K 一直持续到 350 K 以上；单层无回滞（反证极性来自堆叠，同时排除 hBN 电荷注入假象），厚层（≥4 层）因 E⊥ 在纳米尺度被屏蔽而不能翻转，三层所需翻转场大于双层。
-  3. **极化强度定量**：用单层[[../entitys/graphene|石墨烯]]替换顶栅作电场传感器，P↑↔P↓ 翻转引起顶 hBN 中电场跳变 δEt，由在 WTe₂ 上直接加偏压 VW 校准得到 δV=dt·δEt；20 K 下 P≈1×10⁴ e·cm⁻¹，相当于在两层间（间距 ~0.7 nm）转移 ~2×10¹¹ e·cm⁻²，比 BaTiO₃ 体极化 ~0.2 C·m⁻²（~10¹⁴ e·cm⁻²）小三个数量级，解释了常规位移电流法无法探测的原因。
+  3. **极化强度定量**：用单层[[../entities/graphene|石墨烯]]替换顶栅作电场传感器，P↑↔P↓ 翻转引起顶 hBN 中电场跳变 δEt，由在 WTe₂ 上直接加偏压 VW 校准得到 δV=dt·δEt；20 K 下 P≈1×10⁴ e·cm⁻¹，相当于在两层间（间距 ~0.7 nm）转移 ~2×10¹¹ e·cm⁻²，比 BaTiO₃ 体极化 ~0.2 C·m⁻²（~10¹⁴ e·cm⁻²）小三个数量级，解释了常规位移电流法无法探测的原因。
   4. **静电学极化估算公式**：在 dt=db≫d、导体无限压缩率模型下，高斯定律给出 ε₀εhBN·Et = ε₀Ei + P/d 与 2Et·dt + Ei·d = 0，从而 δEt=2P/[ε₀(2dt+εhBN·d)]；dt≈10 nm、d≈1 nm、εhBN≈4 时退化为 P≈ε₀dt·δEt=ε₀δV。实际 dt:db 可达 1:3、有限压缩率与极化电荷展宽引入数量级为 1 的修正因子。
   5. **双栅解耦 E⊥ 与 ne**：定义几何面电容 Ct=εhBNε₀/dt、Cb=εhBNε₀/db，则 `E⊥=(−CtVt+CbVb)/(2εhBNε₀)`、栅诱导载流子面密度 `ene=CtVt+CbVb`，可在保持 ne 恒定下扫描 E⊥（设 Vt/dt=−Vb/db），反之亦然，从而把铁电翻转与掺杂效应分开。
   6. **[[../concepts/ferroelectricity|铁电性]]与金属性共存**：ne>nc≈2×10¹² cm⁻² 时双层 WTe₂ 呈金属性，但蝴蝶形回滞仍然存在（仅变小）；E⊥=0 处 P↑ 与 P↓ 的 G(ne) 几乎重合，使电导可作为极化态的非破坏性读出信号。低温（7 K）下负 ne（空穴掺杂）使回滞窗口变宽，200 K 时窗口几乎不随 ne 变化。

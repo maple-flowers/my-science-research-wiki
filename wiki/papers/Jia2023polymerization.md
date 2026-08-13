@@ -10,12 +10,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Jia2023polymerization]]
-projects: [project-1]
+projects: []
 concepts: [two-photon-polymerization, aberration-correction, bessel-beams, high-order-bessel-beams, orbital-angular-momentum, adaptive-optics, wavefront-sensing, optical-vortex, diffraction-free-beam, photopolymerization, self-healing-beam, complex-amplitude-modulation]
 entities: [spatial-light-modulator, BBO-crystal, SU-8, CCD-camera, Holoeye-PLUTO, Olympus-20x-objective, ZEISS-Gemini-300, femtosecond-fiber-laser, mechanical-shutter, ND-filter]
 methods: [multichannel-interferometric-wavefront-sensing, two-photon-polymerization, scanning-electron-microscopy, angular-spectrum-method, computer-generated-hologram, blazed-grating-diffraction, phase-only-modulation, fourier-spectrum-imaging, circularity-analysis]
 materials: [SU-8-2075, cyclopentanone]
-figures: [experimental-setups, beam-intensity-profiles, sem-micrographs, circularity-measurement, wavefront-sensing-schematic]
+figures: []
 领域基础知识:: >-
   飞秒激光双光子聚合是一种利用超快激光脉冲在光敏材料内部引发双光子吸收，从而实现亚微米级分辨率的三维微纳加工技术。自适应光学通过空间光调制器等可编程器件动态调控光场波前，以生成任意结构光束或补偿像差。光学像差是光学系统中偏离理想成像条件的各种误差，会导致焦点模糊、光场畸变。高阶贝塞尔光束是一种具有环形强度分布和轨道角动量的无衍射光束，对相位畸变极其敏感。
 研究背景:: >-
@@ -40,8 +40,6 @@ tags:
   - paper
   - type/experiment
   - year/2023
-  - project/project-1
-  - relevance/project-1/strong
   - concept/two-photon-polymerization
   - concept/aberration-correction
   - concept/bessel-beams
@@ -147,7 +145,6 @@ Erse Jia、Chen Xie、Na Xiao、Francois Courvoisier、Minglie Hu，2023，Chine
   - project-2/3/4/5/6/7：无直接连接（无 Mn 多铁、机械发光 NN、TTF 分子计算、SnTe 铁电、湿度传感、CDW 相关内容）。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 
 ## 📝 组织与用词
 论文按"问题（自适应光学 2PP 中的像差）→ 原理（多通道干涉波前传感，公式 I∝|Ui|²+|Ur|²+2|Ui||Ur|cos(φi−φr)，干涉最强即同相位）→ 装置（含飞秒源、BBO 倍频、SLM、望远镜、CCD）→ 光束校正（傅里叶谱与纵/横光强对比模拟）→ 2PP 加工（SU-8 微管 SEM + 圆形度 C=4πA/P² 量化）→ 不同拓扑荷普适性（m=4/6/8）→ 结论与展望"递进。值得在 wiki 中复用的术语：

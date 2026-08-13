@@ -12,10 +12,10 @@ year_read: 2026
 original_note:: [[../../raw/note/Nakanishi2009full]]
 projects: [project-1]
 concepts: [two-photon-absorption, two-photon-wavefunction, time-correlation, entanglement-induced-two-photon-transparency, biphoton, spontaneous-parametric-down-conversion, quantum-optics, electromagnetic-induced-transparency]
-entities: [three-level-atom, Kyoto-University, JPSJ]
+entities: [three-level-atom]
 methods: [full-quantum-theory, second-order-perturbation-theory, first-order-perturbation-theory, time-ordered-wavefunction, spectral-analysis]
 materials: []
-figures: [mathematical-models]
+figures: [electronic-bands-band-structures, mathematical-models-computational, mathematical-models-formulas]
 领域基础知识:: >-
   量子光学、非线性光学，核心概念包括双光子吸收（Two-Photon Absorption, TPA）、光子对（Photon Pairs）、双光子波函数（Two-Photon Wavefunction）、时间关联（Time Correlation）。研究涉及量子电动力学（QED）中的阶梯型三能级原子（|g〉, |a〉, |b〉）与连续模式量子化光场的相互作用，以及使用一阶和二阶含时微扰理论计算跃迁概率。
 研究背景:: >-
@@ -87,22 +87,22 @@ Nakanishi, Kobayashi, Sugiyama, Kitano，2009，*Journal of the Physical Society
     - **图示描述**：两个子图分别给出本文讨论的两类原子跃迁能级结构。(a) 二能级原子从基态 |g〉吸收一个频率为 Ω 的光子跃迁至激发态 |e〉，对应一阶微扰过程；(b) 三能级阶梯型原子，光子1（频率 ω₁，对应跃迁频率 Ω_a）诱导 |g〉→|a〉，光子2（频率 ω₂，对应 Ω_b）再诱导 |a〉→|b〉，中间态失谐为 Δ。
     - **关键特征**：(a) 中 P₁ 由单光子波函数在 Ω 处的谱强 |Ψ(Ω)|² 决定；(b) 中必须按时间顺序先吸收光子1再吸收光子2，因此引入阶跃函数 θ(t₂−t₁)，是后续"时序双光子波函数"和 P₂ 公式的物理出发点；Δ 为中间态失谐量，定义为 Δ ≡ (Ω_a−Ω_b)/2 − ω̄₋。
     - **结论/意义**：本图确立了全文统一的记号（|g〉、|a〉、|b〉、Ω_a、Ω_b、Δ），把单光子和双光子吸收放在同一能级语言下对比。
-    ![图1 能级图](../../raw/figures/Nakanishi2009full/fig_1_83GWVL74.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+    ![图1 能级图](../../raw/figures/Nakanishi2009full/fig_1_83GWVL74.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
   - 图2 双光子波函数频谱：(a)|Ψ(ω₁,ω₂)|沿 ω₊ 宽 1/T、沿 ω₋ 宽 1/τ；(b)时序 |Ψ̃|被 1/ω₋ 卷积拖尾展宽
     - **图示描述**：在 (ω₁,ω₂) 频域平面上对比双光子波函数加时序前后的模值。横轴取差频 ω₋ = (ω₁−ω₂)/2，纵轴取和频 ω₊ = ω₁+ω₂；(a) 为原始波函数 |Ψ|，(b) 为时序波函数 |Ψ̃|，即 ψ(t₁,t₂)θ(t₂−t₁) 的二维傅里叶变换。
     - **关键特征**：(a) 中谱形沿 ω₊ 方向宽 1/T（相干时间决定）、沿 ω₋ 方向宽 1/τ（关联时间决定），因 τ≪T 呈沿 ω₋ 拉长的椭圆，直观显示光子对在频率上的反关联；(b) 中阶跃函数频谱 Θ(ω) 含 1/ω 柯西主值项，与 Ψ 卷积后沿 ω₋ 方向被显著展宽并形成长尾；正是这一拖尾使 P₂ 对中间态失谐仅按 1/Δ² 缓慢衰减，而非 δ 函数。
     - **结论/意义**：本图从几何上解释了为什么强时间关联（短 τ）能在大失谐下仍保持非零的双光子吸收谱分量，是 P₂ ∝ (T/τ)(1/Δ²) 标度律的图像基础。
-    ![图2 双光子波函数频谱](../../raw/figures/Nakanishi2009full/fig_2_WEKX4R52.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+    ![图2 双光子波函数频谱](../../raw/figures/Nakanishi2009full/fig_2_WEKX4R52.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - 图3 时域双光子波函数：(a)高斯型，t₁+t₂ 方向宽 T、t₁−t₂ 方向窄 τ；(b)矩形型，t₁−t₂ 为 ±τ 矩形窗
     - **图示描述**：在 (t₁,t₂) 到达时间平面上绘制 |ψ(t₁,t₂)| 的等值线，对比本文解析处理的两类双光子波函数。(a) 高斯型 ψ∝exp[−(t₁+t₂)²/(16T²)]exp[−(t₁−t₂)²/(4τ²)]，可由高斯频谱滤波获得；(b) 矩形型 ψ∝exp[−(t₁+t₂)²/(16T²)]·Π_τ(t₁−t₂)，Π_τ 为 |t|<τ 的窗函数，由 II 型 SPDC 加双折射群速度补偿产生。
     - **关键特征**：两图沿 t₁+t₂ 方向均为宽 T 的高斯包络，对应长相干时间；沿 t₁−t₂ 方向高斯型呈平滑的窄高斯峰（宽 τ），矩形型则是在 [−τ,τ] 内均匀、边界陡然截断的硬窗；矩形窗在频域对应 sinc 函数并具有精确零点，这是它能实现 P₁=0 的数学来源，而高斯型频谱无零点、只能指数压低。
     - **结论/意义**：本图把"高斯 vs 矩形"两种物理可实现的光子对时间结构可视化，直接对应图4 中两组定性不同的概率曲线。
-    ![图3 时域波函数](../../raw/figures/Nakanishi2009full/fig_3_7BSFYA7Y.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+    ![图3 时域波函数](../../raw/figures/Nakanishi2009full/fig_3_7BSFYA7Y.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - 图4 核心函数对比：(a)|F(Δτ)|²（P2，缓慢 1/(Δτ)² 衰减）vs e^{-2(Δτ)²}（P1，指数衰减）；(b)sinc²(Δτ/2)（P2）vs sinc²(Δτ)（P1），周期差两倍导致"魔法点"
     - **图示描述**：横轴均为无量纲量 Δ·τ（失谐量与关联时间之积），纵轴为无量纲概率函数；(a) 高斯波函数情形，实线 |F(Δ·τ)|² 正比于 P₂（F 为等离子体色散函数），虚线 e^{-2(Δ·τ)²} 正比于 P₁；(b) 矩形波函数情形，实线 sinc²(Δ·τ/2) 正比于 P₂，虚线 sinc²(Δ·τ) 正比于 P₁。
     - **关键特征**：(a) 在 Δ·τ>1 区域，虚线（P₁）指数衰减至近零，而实线（P₂）仅按 ~1/(Δ·τ)² 多项式衰减，故比值 R_G = (√π/2)r₂T·|F(Δ·τ)|²/e^{-2(Δ·τ)²} 随 Δ·τ 增大而发散，可使 P₂≫P₁；(b) 两条曲线均为周期振荡但周期差两倍，当 Δ·τ = π(2n+1)（n 为整数）时 sinc²(Δ·τ)=0 → P₁ 完全抑制，而 sinc²(Δ·τ/2) = sinc²(π(2n+1)/2) = 4/[π(2n+1)]² ≠ 0 → P₂ 保持非零；另一组零点 Δ·τ = 2πn 则令 P₂=0（即 Fei 等 1997 预言的双光子透明）。
     - **结论/意义**：(b) 图直接给出"纠缠诱导双光子透明"的定量条件 Δ·τ = π(2n+1)，是全文最核心的预言——无需耦合光或腔，仅靠剪裁光子对时间波函数即可实现无单光子损耗的双光子吸收。
-    ![图4 概率函数对比](../../raw/figures/Nakanishi2009full/fig_4_C7TIS8Z6.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+    ![图4 概率函数对比](../../raw/figures/Nakanishi2009full/fig_4_C7TIS8Z6.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
   - 笔记另附 eq_1 至 eq_42 共 42 个公式截图（场算符、微扰展开、高斯/矩形波函数及其傅里叶变换、P1/P2 表达式等）。
 
 ## 🔬 项目连接
@@ -130,7 +130,7 @@ Nakanishi, Kobayashi, Sugiyama, Kitano，2009，*Journal of the Physical Society
   - type-II SPDC with group-velocity compensation（II 型自发参量下转换+群速度补偿，矩形波函数的物理来源）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. [[../concepts/two-photon-absorption|[[../concepts/biphoton|双光子]]吸收]]概率的全量子公式：P₂ = 4π²r₁r₂|Ψ̃(Ω_a,Ω_b)|²，其中 Ψ̃(ω₁,ω₂) 是 **时序**[[../concepts/two-photon-wavefunction|双光子波函数]] ψ(t₁,t₂)θ(t₂−t₁) 的二维傅里叶变换；θ(t₂−t₁) 强制光子 1（|g〉→|a〉）必须先于光子 2（|a〉→|b〉）被吸收。
+  1. [[../concepts/two-photon-absorption|双光子吸收]]概率的全量子公式：P₂ = 4π²r₁r₂|Ψ̃(Ω_a,Ω_b)|²，其中 Ψ̃(ω₁,ω₂) 是 **时序**[[../concepts/two-photon-wavefunction|双光子波函数]] ψ(t₁,t₂)θ(t₂−t₁) 的二维傅里叶变换；θ(t₂−t₁) 强制光子 1（|g〉→|a〉）必须先于光子 2（|a〉→|b〉）被吸收。
   2. 单光子吸收概率：对非纠缠光 P₁ = 2πr|Ψ(Ω)|²（仅由跃迁频率处谱强决定）；对纠缠光子对，P₁ = 2πr₁∫dω₂'|Ψ(Ω_a,ω₂')|²，必须对伴生光子频率求迹，不能直接取边缘谱。
   3. 一般标度律：当双光子共振 ω̄₊=Ω_a+Ω_b 且失谐 Δ 足够大时，Ψ̃(Ω_a,Ω_b)∝(√T/τ)(1/Δ)，故 **P₂ ∝ (T/τ)(1/Δ²)**；τ≪T 是 SPDC 孪生光子对相对经典超短脉冲高效发生 TPA 的量子根源。
   4. 时序 θ 函数的频域核 Θ(ω)=√(π/2)δ(ω)−(i/√(2π))P(1/ω)，其 1/ω 项使 Ψ̃ 沿 ω₋=(ω₁−ω₂)/2 方向被显著展宽，这是双光子谱对中间态失谐仅按 1/Δ² 缓慢衰减（而非 δ 函数）的数学来源。

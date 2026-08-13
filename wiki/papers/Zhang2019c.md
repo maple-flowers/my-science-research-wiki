@@ -17,7 +17,7 @@ entities: [Ti]
 methods: [eam, md, pair-analysis]
 materials:
   - Ti
-figures: [crystal-structures, mathematical-models]
+figures: []
 领域基础知识:: >-
   钛及钛合金具有低密度、高比强度、优异的生物相容性和耐腐蚀性，广泛应用于增材制造和生物医用植入物领域。在纳米尺度下，材料的性能会显著偏离宏观块体材料。嵌入原子势（EAM）是描述金属体系原子间相互作用的有效多体势函数。杜隆-珀蒂定律是经典热力学中描述晶体比热容的定律，其极限值为每个原子3k_B (k_B为玻尔兹曼常数)。
 研究背景:: >-
@@ -42,32 +42,15 @@ tags:
   - paper
   - type/experiment
   - year/2019
-  - project/project-1
-  - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/medium
-  - project/project-5
-  - relevance/project-5/medium
-  - project/project-6
-  - relevance/project-6/medium
-  - project/project-7
-  - relevance/project-7/medium
   - method/eam
   - method/md
   - method/stm-mbe
   - method/xanes
   - topic/charge-density-wave
   - topic/ferroelectricity
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/optical-spectra
   - topic/phase-transition
-  - topic/two-photon-fluorescence
 ---
 ---
 
@@ -130,13 +113,6 @@ Lin Zhang，2019，*Progress in Natural Science: Materials International* 29(2):
 无直接项目连接（project-1 双光子 / project-2 Mn多铁 / project-3 机械发光NN / project-4 TTF分子计算 / project-5 SnTe铁电模拟 / project-6 湿度传感器 / project-7 CDW 均不直接对应；本文为 Ti 金属团簇的经典 MD/EAM 模拟，面向增材制造）。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
 论文遵循"问题→模型→观测→机制→普适化"的计算材料学范式。引言由钛合金植入物与增材制造纳米粉末的应用背景切入，引用同步辐射 XAS 在 15–1000 原子自由 Ti 团簇上观测到的尺寸依赖光谱作为待解释现象；方法节给出 EAM 总能量公式、温度依赖 Sommerfeld 势（双曲正切插值）、NVT 升温协议、惯性矩与形状因子、对分析技术；结果节按"表面比定量化（图3）→ 能量/形状演化（图4）→ 键对指纹（图5）→ 堆积快照（图6）→ 热容与经典极限（图7）"层层递进；结论收束为四条。贯穿主线是"表面原子低配位→低激发能→结构重排触发器"。可复用术语：

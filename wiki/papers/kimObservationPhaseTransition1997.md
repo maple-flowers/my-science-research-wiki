@@ -10,12 +10,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/kimObservationPhaseTransition1997]]
-projects: [project-7, project-5]
+projects: [project-7]
 concepts: [charge-density-wave, 2d-materials, polytypism, tip-induced-phase-transition, coherent-layer-sliding, phase-boundary, sliding-ferroelectricity, topological-defects]
 entities: [TMDs, 1T-TaS2, 2H-TaS2, 2H-TaSe2, Pt-Ir-tip]
 methods: [uhv-stm, constant-current-stm, stm-voltage-pulse, stm-topography, iodine-vapor-transport]
 materials: [1T-TaS2, 2H-TaS2]
-figures: [crystal-structures, stm-topography]
+figures: [crystal-structures-bulk]
 领域基础知识:: >-
   过渡金属二硫化物（TMDs）是一类层状材料，其多型体由金属原子的配位（如八面体T相、三棱柱H相）决定，并表现出电荷密度波（CDW）等奇异电子性质。扫描隧道显微镜（STM）是表面科学中原子级成像与操控的核心工具。
 研究背景:: >-
@@ -41,9 +41,7 @@ tags:
   - type/experiment
   - year/1997
   - project/project-7
-  - project/project-5
   - relevance/project-7/strong
-  - relevance/project-5/weak
   - concept/charge-density-wave
   - concept/2d-materials
   - concept/polytypism
@@ -88,12 +86,12 @@ Ju-Jin Kim, Chan Park, W. Yamaguchi, O. Shiino, K. Kitazawa, T. Hasegawa，1997�
 
 ## 📊 关键图表
   - **图1：−10 V/0.5 ms 脉冲后的大范围 STM 形貌（357×357 Å，成像条件 2 nA、−25 mV）**
-  - ![图1(a) -10 V/0.5 ms 脉冲后大范围 STM 形貌，可见中心移除坑及周围 T 相(√13×√13 CDW) 与新生 H 相(平坦三角晶格) 共存，357×357 Å](../../raw/figures/kimObservationPhaseTransition1997/fig_1_8G3QCPIX.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图1(a) -10 V/0.5 ms 脉冲后大范围 STM 形貌，可见中心移除坑及周围 T 相(√13×√13 CDW) 与新生 H 相(平坦三角晶格) 共存，357×357 Å](../../raw/figures/kimObservationPhaseTransition1997/fig_1_8G3QCPIX.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：针尖脉冲（十字标记处）在中心打出一个整层移除的暗坑（电子轰击升华所致），坑周围可见两类区域——右上/左侧为带强烈周期起伏（周期约 13 Å）的原始 T 相 √13×√13 CDW，中部为平坦、无 CDW 调制的新生 H 相三角晶格（a₀≈3.3 Å）；方框区在同图(b)中放大。
   - **关键特征**：(1) 两相跨界无高度台阶，截面分析证实高度连续；(2) 相界呈约 60°/270° 的特征三角形夹角；(3) 三角相界角部 CDW 极大值行（白线）相对未畸变 CDW 晶格旋转 13°–15°，被解释为 CDW 孪晶被界面钉扎后的重排；(4) 相变阈值偏压约 −8 至 −9 V，−10 V 下 H 相区尺寸 100–500 Å。
   - **结论/意义**：这是 T→H 相变在宏观尺度上的首份直观证据，并给出相界几何与 CDW 畸变的定性图像。
   - **图2：T/H 相界的双偏压高分辨原子像（77×77 Å）**
-  - ![图2 相界高分辨原子像：(a) -250 mV 同时显示 T 相 CDW 超晶格相对原子晶格旋转约 14°，(b) -10 mV 显示跨相界原子行平行但存在分数倍错位，77×77 Å](../../raw/figures/kimObservationPhaseTransition1997/fig_2_2J5B6DA5.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图2 相界高分辨原子像：(a) -250 mV 同时显示 T 相 CDW 超晶格相对原子晶格旋转约 14°，(b) -10 mV 显示跨相界原子行平行但存在分数倍错位，77×77 Å](../../raw/figures/kimObservationPhaseTransition1997/fig_2_2J5B6DA5.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：同一相界区域在两种偏压下成像；(a) −250 mV、1 nA 时 T 相区（左上）的 √13×√13 CDW 超晶格相对底层原子晶格旋转约 14°，H 相区（右下）显示三角原子晶格；(b) −10 mV 低偏压下两区域均显出相同的原子晶格，白线沿跨界原子行描绘。
   - **关键特征**：(1) 两相的底层原子晶格具有几乎相同的间距和取向，排除了重结晶或大范围破坏；(2) 跨界原子行彼此平行，但横向位移为晶格常数的分数倍而非整数倍；(3) 相界处两行原子充当"缓冲行"，构成位错阵列；(4) 该分数错位与图3模型预测的 (√3/6)a₀≈1 Å 定量吻合。
   - **结论/意义**：为"表面 S 层整体相干滑移"机制提供决定性的原子级证据——只能由整层平移而非原子扩散/重构解释。
@@ -103,7 +101,7 @@ Ju-Jin Kim, Chan Park, W. Yamaguchi, O. Shiino, K. Kitazawa, T. Hasegawa，1997�
   - **关键特征**：(1) 最有效的 T→H 转换路径是 S 原子集体沿 [112̄0] 方向滑移 (√3/3)a₀（a₀≈3.3 Å，即约 1.9 Å）；(2) 该滑移正好把 Ta 由八面体配位翻转为三棱柱配位；(3) 模型预测相界处 S 原子行错位为 (√3/6)a₀≈1 Å；(4) 最小能量路径沿该晶向，受六方晶格对称性约束。
   - **结论/意义**：把图2的实验观测固化为可定量检验的滑移模型，是全文机制论证的理论核心。
   - **图4：另一处高压脉冲区域的相界形貌（102×102 Å）**
-  - ![图4 另一处高压脉冲后典型 STM 像，多个 H 相区域的相界均沿晶体方向呈 60° 特征角，102×102 Å](../../raw/figures/kimObservationPhaseTransition1997/fig_4_UBIPM8AI.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图4 另一处高压脉冲后典型 STM 像，多个 H 相区域的相界均沿晶体方向呈 60° 特征角，102×102 Å](../../raw/figures/kimObservationPhaseTransition1997/fig_4_UBIPM8AI.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：另一脉冲点附近的典型 STM 像，显示多个独立的新生 H 相区域及其边界。
   - **关键特征**：(1) 多数相界沿三角晶格的密排高对称方向延伸，特征夹角稳定在 60°；(2) 60° 角对应三角/六方晶格的本征晶格角，而非偶然形貌；(3) 该几何在不同脉冲位置重复出现，证明相变具有晶体学择优取向而非随机破坏。
   - **结论/意义**：从可重复性和对称性两方面旁证滑移模型——相界能量沿高对称晶向最低，进一步排除焦耳烧蚀等非晶机制。
@@ -115,7 +113,6 @@ Ju-Jin Kim, Chan Park, W. Yamaguchi, O. Shiino, K. Kitazawa, T. Hasegawa，1997�
 
 ## 🔗 项目双链
 - 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 
 ## 📝 组织与用词
   文章按"现象观察 → 结构表征 → 机制解释"的快速通讯逻辑展开：先给出大范围形貌证明 H 相生成（图1），再用多偏压高分辨像在原子尺度证明两相晶格连续而 S 原子行存在分数倍错位（图2），随后提出并定量验证 S 层共格滑移模型（图3），最后以 60° 特征相界（图4）和"H 相上弱 CDW 来自下层"作为旁证。关键术语：

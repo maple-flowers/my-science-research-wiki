@@ -11,12 +11,12 @@ paper_type: review
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/wuElectrostaticGatingIntercalation2022]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-7]
 concepts: [2D-materials, charge-density-wave, moire-superlattice, spin-orbit-coupling, strain-engineering]
 entities: [Fe3GeTe2, TMDs, WTe2]
 methods: [afm-pfm, device-i-v, mlip, raman, tem, xanes]
 materials: [Fe3GeTe2, TMDs, WTe2]
-figures: [crystal-structures, electronic-bands, electronic-devices, experimental-setups, heterostructures-stacking, mathematical-models, optical-spectra, vibrational-spectra]
+figures: []
 领域基础知识:: >-
   二维材料（尤其是过渡金属硫族化合物TMDs和层状过渡金属氧化物）具有层内强共价键、层间弱范德华力的独特结构，是进行“客体物种（原子、离子、分子）”调控的理想平台。这种调控能在不破坏层内共价键的前提下，实现材料性质的深度、可逆改变。
 研究背景:: >-
@@ -41,18 +41,6 @@ tags:
   - paper
   - type/review
   - year/2022
-  - project/project-1
-  - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/medium
-  - project/project-5
-  - relevance/project-5/medium
-  - project/project-6
-  - relevance/project-6/medium
   - project/project-7
   - relevance/project-7/medium
   - concept/2D-materials
@@ -76,14 +64,11 @@ tags:
   - topic/charge-density-wave
   - topic/ferroelectricity
   - topic/ferromagnetism
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/optical-spectra
   - topic/phase-transition
   - topic/polarization
   - topic/superconductivity
-  - topic/two-photon-fluorescence
 ---
 
 ## wuElectrostaticGatingIntercalation2022 — 二维材料中的静电门控与插层（Electrostatic gating and intercalation in 2D materials）
@@ -160,12 +145,6 @@ Yecun Wu, Danfeng Li, Chun-Lan Wu, Harold Y. Hwang, Yi Cui et al.，2022，*Natu
   - 其余项目（project-1双光子、project-2 Mn多铁、project-3机械发光NN、project-4 TTF分子计算、project-6湿度传感器）：无直接项目连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
 - 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
@@ -187,7 +166,7 @@ Yecun Wu, Danfeng Li, Chun-Lan Wu, Harold Y. Hwang, Yi Cui et al.，2022，*Natu
   4. **三类插层客体**：零价原子（Cu、Co、Ag、Au等，保持零价态，电子交换弱、层间作用弱，可高浓度插入）；带电离子（碱金属Li⁺/Na⁺/K⁺、过渡金属Cr/Fe/Ni、稀土、O²⁻等，引发配位数与晶场变化，碱金属以强库仑作用、过渡金属以共价键替代原范德华作用；理论表明Li⁺–石墨键具共价特征）；分子（含氮有机分子/吡啶/长链烷基铵、金属氢氧化物、金属卤化物，尺寸几Å到几nm，显著撑开c轴）。
   5. **三种插层方法**：固态反应（高温、热力学控制、产物为最稳定相，无法获得[[../concepts/metastability|亚稳态]]材料）；电化学方法（工作电极/电解质/对电极三端，通过电压或电流驱动，由电量精确监控插层离子数，在诱导相变前高度可逆——如LiCoO₂在<4.2 V下Li嵌脱可逆，过充则因释氧发生不可逆相变）；[[../concepts/topochemical-reaction|拓扑化学]]方法（低温下利用不同离子迁移率的巨大差异，选择性插入或脱出特定离子而保持骨架，获得高温路线无法企及的亚稳态相；金属氢化物NaH/LiH/CaH₂/TiH₂是氧脱插的常用固态还原剂，可避免H₂/金属吸气剂需中温而导致分解为二元氧化物的问题）。
   6. **拓扑化学脱氧与无限层材料**：CaH₂在低温下将钙铁石SrFeO₂.₅还原为无限层SrFeO₂（方形平面配位、独特反铁磁基态，加压转变为S=1高自旋态并发生AFM→FM转变）；更突出的是将(001) SrTiO₃衬底上的钙钛矿Nd₀.₈Sr₀.₂NiO₃薄膜拓扑还原为无限层Nd₀.₈Sr₀.₂NiO₂超导体（Li et al., Nature 572, 624, 2019），随后Pr₁₋ₓSrₓNiO₂薄膜超导被发现，开辟层状镍酸盐超导家族；衬底不仅承载拓扑转变单晶膜，还可重新定向氧脱插方向、提供[[../concepts/epitaxial-strain|外延应变]]更改晶格对称性与配位环境。其他低镍价Ruddlesden–Popper相（La₃Ni₂O₆、RE₄Ni₃O₈）具大轨道极化、电荷/自旋有序、条纹相。
-  7. **插层的三类效应**：(i)掺杂——基于客体与宿主[[../concepts/chemical-potential|化学势]]之差及空带的[[../concepts/charge-transfer|电荷转移]]（Li⁺每个原子最多贡献1个电子；[[../entitys/graphene|石墨烯]]为两性，卤素插层可强空穴掺杂；大多数TMDs/氧化物只能做电子受体，因带负电的硫族/氧层对负电客体存在库仑排斥）；(ii)化学键合——插层原子价电子与宿主原子电子云重叠杂化形成新键（自插层Ta₇S₁₂中每个插层Ta与6个S键合为八面体超结构，出现穿过费米能级的自旋分裂带而产生磁性；有机分子插层Cr₂Ge₂Te₆使磁耦合由弱[[../concepts/superexchange|超交换]]变为强[[../concepts/double-exchange|双交换]]，[[../concepts/curie-temperature|居里温度]]显著提高）；(iii)结构相变——Li插层MoS₂经电荷转移使电子能量急剧升高，驱动半导体2H→金属1T相变（并可见1T'亚稳相）；微量Li电化学插入WTe₂产生大的[[../concepts/migdal-eliashberg-theory|各向异性]]面内应变并伴生新相；吡啶插层TaS₂将层间距由6 Å增至12 Å，使3D块体呈现2D超导（有机金属晶体）；长链烷基溴化铵插层黑磷等形成单层原子晶体分子[[../concepts/superlattice|超晶格]]。
+  7. **插层的三类效应**：(i)掺杂——基于客体与宿主[[../concepts/chemical-potential|化学势]]之差及空带的[[../concepts/charge-transfer|电荷转移]]（Li⁺每个原子最多贡献1个电子；[[../entities/graphene|石墨烯]]为两性，卤素插层可强空穴掺杂；大多数TMDs/氧化物只能做电子受体，因带负电的硫族/氧层对负电客体存在库仑排斥）；(ii)化学键合——插层原子价电子与宿主原子电子云重叠杂化形成新键（自插层Ta₇S₁₂中每个插层Ta与6个S键合为八面体超结构，出现穿过费米能级的自旋分裂带而产生磁性；有机分子插层Cr₂Ge₂Te₆使磁耦合由弱[[../concepts/superexchange|超交换]]变为强[[../concepts/double-exchange|双交换]]，[[../concepts/curie-temperature|居里温度]]显著提高）；(iii)结构相变——Li插层MoS₂经电荷转移使电子能量急剧升高，驱动半导体2H→金属1T相变（并可见1T'亚稳相）；微量Li电化学插入WTe₂产生大的[[../concepts/migdal-eliashberg-theory|各向异性]]面内应变并伴生新相；吡啶插层TaS₂将层间距由6 Å增至12 Å，使3D块体呈现2D超导（有机金属晶体）；长链烷基溴化铵插层黑磷等形成单层原子晶体分子[[../concepts/superlattice|超晶格]]。
   8. **NaₓCoO₂与水插层超导**：γ-NaₓCoO₂在x=0.7最稳定，Na脱插至x<0.5过程中依次呈现居里–外斯金属→顺磁金属→CDW金属态→[[../concepts/charge-order|电荷有序]]绝缘体；进一步向CoO₂层间插入水分子后出现[[../concepts/superconductivity|超导电性]]并随x呈超导穹顶，机制涉及Co³⁺/Co⁴⁺低自旋→高自旋转变及Co位三角晶格的本征阻挫自旋结构。
   9. **空间可控插层与器件**：本征n型SnS₂经Co插层呈p型、经Cu插层呈金属行为，结合光刻可在同一纳米片上无缝集成n型SnS₂、p型Cu-SnS₂和金属型Co-SnS₂区域；Li插层MoS₂通过增强声子散射、c轴应变和堆垛无序使跨面热导率降低一个数量级，构成热开/关比约10的电化学热晶体管；1T金属相MoS₂用作2H-MoS₂晶体管的低阻接触；有机分子电化学插层TiS₂形成无机/有机杂化超晶格，制备n型柔性热电材料；Cu插层Bi₂Se₃/Bi₂Te₃因吸收降低和零波抗反射纳米光子效应增强透光率。
   10. **未来方向**：多价3d金属离子门控/插层（如FeCl₄⁻顺磁离子门控Pt实现铁磁态可逆电切换）将引入轨道/自旋自由度；阴离子（脱）插层尚待开发，软氟化化学（低温阴离子插入+交换）已用于调控铜氧化物至高温超导；[[../concepts/van-der-waals-heterostructure|范德华异质结]]（如石墨烯/MoX₂叠层中Li插层容量与电位改变）和扭转[[../concepts/moire-superlattice|莫尔超晶格]]（理论预言客体在莫尔晶格中有局域能量有利位置，可产生独特能带）成为新宿主；双重（脱）插层（阳离子插入+阴离子脱出）与顺序拓扑化学合成、衬底外延应变协同；固态离子栅极因兼容光刻/沉积而最有希望突破单器件级集成，但仍需解决大规模均匀插层、封装与苛刻环境下的稳定性/耐久性。

@@ -11,7 +11,7 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Zhang2019b]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-5, project-7]
 concepts:
   - molecular-dynamics
   - embedded-atom-method
@@ -26,9 +26,7 @@ entities:
 methods: [dft, eam, md, mlip, stm-mbe]
 materials:
   - Ti
-figures:
-  - mathematical-models
-领域基础知识:: >-
+figures: []领域基础知识:: >-
   纳米颗粒的物理化学性质具有尺寸依赖性，其熔化和凝固行为与块体材料显著不同。钛具有六方密堆积（HCP）和体心立方（BCC）两种晶体结构，分别在低温与高温下稳定。增材制造（3D打印）技术通过逐层熔化粉末来构建复杂形状的部件，此过程的核心是纳米颗粒的熔化和融合，理解其微观机制是优化工艺的基础。
 研究背景:: >-
   纯钛因其优异的生物相容性在骨科和牙科植入物中应用广泛，但其力学性能有待提升，且传统技术难以制造具有复杂多孔结构的植入物。增材制造（AM）为解决此问题提供了可能，但AM过程中，钛粉末颗粒在纳米尺度下的熔化、凝固和融合行为直接决定了产品的微观结构和性能，而这一微观机制尚不清晰，缺乏原子尺度的理解。
@@ -52,18 +50,8 @@ tags:
   - paper
   - type/experiment
   - year/2019
-  - project/project-1
-  - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/weak
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/core
   - project/project-5
   - relevance/project-5/strong
-  - project/project-6
-  - relevance/project-6/medium
   - project/project-7
   - relevance/project-7/weak
   - method/dft
@@ -74,14 +62,11 @@ tags:
   - topic/charge-density-wave
   - topic/domain-walls
   - topic/ferroelectricity
-  - topic/humidity-sensing
   - topic/ml-interatomic-potential
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/phase-transition
   - topic/polarization
   - topic/topological-defects
-  - topic/two-photon-fluorescence
 ---
 
 ## Zhang2019b — 基于原子模拟的钛纳米颗粒熔化、冻结和聚结过程中的堆积变化
@@ -150,12 +135,7 @@ Lin Zhang, Yaming Wang，2019，JOM 71(12), 4917-4924，DOI 10.1007/s11837-019-0
   - **project-6 湿度传感器**：无直接项目连接。无吸附、水合、离子传导或传感机制内容。
   - **project-7 CDW**：弱类比价值。本文研究的是结构型固-固相变（HCP-BCC，位移型/重构型），CDW 是电子失稳驱动的晶格调制，机制不同；但"相变温度随尺寸振荡、对表面形貌敏感、加热-冷却滞后"的表征方法和物理图像（表面原子配位不足触发/阻碍相变）可为低维 CDW 体系的尺寸效应研究提供参照。非直接连接。
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
 - 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词

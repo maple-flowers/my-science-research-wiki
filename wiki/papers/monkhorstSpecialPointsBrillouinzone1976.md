@@ -6,7 +6,7 @@ year: 1976
 journal: "Physical Review B"
 doi: "10.1103/PhysRevB.13.5188"
 url: "https://doi.org/10.1103/PhysRevB.13.5188"
-paper_type: method
+paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/monkhorstSpecialPointsBrillouinzone1976]]
@@ -15,7 +15,7 @@ concepts: [density-functional-theory, brillouin-zone-integration, monkhorst-pack
 entities: [VASP, Wannier90]
 methods: [dft, brillouin-zone-integration, k-point-sampling, monkhorst-pack, fourier-interpolation, gilat-raubenheimer]
 materials: []
-figures: [mathematical-models]
+figures: []
 领域基础知识:: >-
   固体物理中的能带理论，布里渊区（Brillouin Zone, BZ），倒空间，波矢（wave vector），晶格点群对称性，态密度（Density of States, DOS）。
 研究背景:: >-

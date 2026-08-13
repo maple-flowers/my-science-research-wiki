@@ -6,7 +6,7 @@ year: 1984
 journal: "The Journal of Chemical Physics"
 doi: "10.1063/1.447334"
 url: "https://doi.org/10.1063/1.447334"
-paper_type: method
+paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/noseUnifiedFormulationConstant1984]]

@@ -11,12 +11,12 @@ paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/zhengAnisotropicSuperconductivityTwodimensional2025]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-4, project-7]
 concepts: [2D-materials, charge-density-wave, density-functional-theory]
 entities: [MXenes, TMDs, Wannier90]
 methods: [berry-phase, dfpt, dft, mlip]
 materials: [MXenes, TMDs]
-figures: [crystal-structures, electronic-bands, mathematical-models]
+figures: [electronic-bands-dos-fermi, vibrational-spectra]
 领域基础知识:: >-
   二维材料科学、二维金属有机框架（2D-MOFs）、超导物理学、第一性原理计算。2D-MOFs是由金属离子和有机配体通过配位键自组装形成的具有高度有序晶体结构的二维材料，其导电性通常较差，但Cu-BHT等共轭MOFs因π-d共轭效应而表现出金属性甚至超导电性。
 研究背景:: >-
@@ -41,18 +41,8 @@ tags:
   - paper
   - type/theory
   - year/2025
-  - project/project-1
-  - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/medium
   - project/project-4
   - relevance/project-4/medium
-  - project/project-5
-  - relevance/project-5/medium
-  - project/project-6
-  - relevance/project-6/medium
   - project/project-7
   - relevance/project-7/medium
   - concept/2D-materials
@@ -70,13 +60,10 @@ tags:
   - topic/2d-materials
   - topic/charge-density-wave
   - topic/ferroelectricity
-  - topic/humidity-sensing
   - topic/mof
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/mxene
   - topic/superconductivity
-  - topic/two-photon-fluorescence
 ---
 
 ## zhengAnisotropicSuperconductivityTwodimensional2025 — 二维金属-有机kagome骨架Cu3(CO)6中的各向异性超导电性
@@ -105,25 +92,25 @@ Jing-Jing Zheng、Jingyu Li、Rong-Rong Ma、Fengkai Guo、Jiang-Jiang Ma、Peng
   - 实体 [[../entities/Cu3CS6|Cu3(CS)6 / Cu-BHT]]（硫代类似物，2D-MOF 中首个被预测 Tc=4.43 K 并在块体 ≈0.25 K 观测到超导的体系）
   - 实体 [[../entities/Quantum-ESPRESSO|Quantum ESPRESSO]]（DFT/DFPT 计算软件）
   - 实体 [[../entities/EPW|EPW]]（基于 Wannier 插值计算电声耦合与各向异性 Eliashberg 方程的代码）
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程 (Spintronics & Strain Engineering)]]
+  - 图表 [[../figures/electronic-bands]]、[[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程 (Spintronics & Strain Engineering)]]
   - 年度 [[../write/2025]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/zhengAnisotropicSuperconductivityTwodimensional2025]]
 
 ## 📊 关键图表
-  - ![图1 Cu3(CO)6 单层的原子结构、轨道分辨能带、PDOS（N(EF)=16.2 states/eV/unit cell）与二维费米面（π1/π2/δ 三片，颜色为费米速度）](../../raw/figures/zhengAnisotropicSuperconductivityTwodimensional2025/fig_1_ZTA2YSXI.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
+  - ![图1 Cu3(CO)6 单层的原子结构、轨道分辨能带、PDOS（N(EF)=16.2 states/eV/unit cell）与二维费米面（π1/π2/δ 三片，颜色为费米速度）](../../raw/figures/zhengAnisotropicSuperconductivityTwodimensional2025/fig_1_ZTA2YSXI.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：(a) 俯视原子结构，黑色实线标出含一个 Cu3(CO)6 化学式单元的原胞，蓝/黑/红分别为 Cu/C/O，Cu 原子构成完美 kagome 点阵、四重配位 O；(b) 沿 Γ–K–M–Γ 的轨道分辨能带，EF=0，三条带穿过 EF，颜色区分 Cu dxy,x2−y2、C pz、O pz 等轨道贡献；(c) 对应的分波态密度（灰色为总 DOS）；(d) 二维费米面，色标为费米速度 vF 大小。
   - **关键特征**：优化晶格常数 a=7.732 Å，Cu–O/C–O/C–C 键长分别为 2.03/1.33/1.02 Å，属 P6/mmm（No.191）；N(EF)=16.2 states/eV/unit cell，是硫代类似物 Cu3(CS)6（3.56）的 4.5 倍以上；M 点附近同时出现类狄拉克锥、K–M 路径上的平带以及 −0.01 eV 处的范霍夫奇点，M 点附近 vF 显著压低是平带的直接证据；费米面由围绕 Γ 的三片空穴袋组成——内圈 π1（C pz/O pz/Cu dxz,yz，圆形）、中圈 π2（花瓣形，与 δ 相交）、外圈 δ（Cu dxy,x2−y2 与 O s+px,y 杂化，圆形）。
   - **结论/意义**：确立"高 N(EF)+平带/范霍夫奇点+三片费米面"的电子前提，为后续强电-声耦合与各向异性超导提供电子结构基础。
-  - ![图2 声子谱（45 支，无虚频）+ 模式分辨 λqν 红圈、PhDOS（Cu/O/C 及面内/面外投影）、Eliashberg 谱函数 α²F(ω) 与累积 λ(ω)=0.72、q 分辨 λq 六芒星分布](../../raw/figures/zhengAnisotropicSuperconductivityTwodimensional2025/fig_2_5UQP53W8.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
+  - ![图2 声子谱（45 支，无虚频）+ 模式分辨 λqν 红圈、PhDOS（Cu/O/C 及面内/面外投影）、Eliashberg 谱函数 α²F(ω) 与累积 λ(ω)=0.72、q 分辨 λq 六芒星分布](../../raw/figures/zhengAnisotropicSuperconductivityTwodimensional2025/fig_2_5UQP53W8.png) → [[../figures/vibrational-spectra|振动光谱]]
   - **图示描述**：(a) 沿高对称路径的声子色散，红圈大小正比于模式分辨电-声耦合 λqν；(b) 按 Cu/O/C 原子投影的声子态密度 PhDOS；(c) 按面内（xy，红线）/面外（z，蓝线）振动投影的 PhDOS；(d) Eliashberg 谱函数 α²F(ω)（红线）与累积耦合 λ(ω)（蓝线）；(e) 整个布里渊区的 q 分辨 λq 二维分布。
   - **关键特征**：15 原子原胞共 45 支声子（3 声学+42 光学），全布里渊区无虚频，证明动力学稳定；频率分三区——I 区 <40 meV 以 Cu、O 振动为主，II 区 40–49 meV 为 C 与 O 强混合，III 区 >49 meV 为 C 高能光学模（50–80 meV 突出 Oxy、80–174 meV 以 C 为主）；总 λ=0.72（低于 Cu3(CS)6 的 1.16），其中 I 区贡献 0.43（59.7%）、II 区约 30.6%（Cz 面外+Oxy/Oz）、III 区仅约 9.7%；(a)(e) 中 Γ 附近低能光学支红圈最大，λq 呈六重对称六角星芒分布。
   - **结论/意义**：证明超导配对胶水主要来自 Cu/O 主导的 <40 meV 低能声子，与 LiC6、Cu3(CS)6 中"低能声子主导 EPC"的图像一致。
-  - ![图3 费米面上动量分辨 λnk（0.62–1.31）与 5 K 下能隙 Δnk（2.08–3.90 meV）、Δ(T) 的 BCS 拟合（Tc=16.5 K）、15 K 下超导态准粒子 DOS 相干峰](../../raw/figures/zhengAnisotropicSuperconductivityTwodimensional2025/fig_3_YSERMQTH.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
+  - ![图3 费米面上动量分辨 λnk（0.62–1.31）与 5 K 下能隙 Δnk（2.08–3.90 meV）、Δ(T) 的 BCS 拟合（Tc=16.5 K）、15 K 下超导态准粒子 DOS 相干峰](../../raw/figures/zhengAnisotropicSuperconductivityTwodimensional2025/fig_3_YSERMQTH.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：(a) 费米面上动量分辨电-声耦合 λnk 的三维着色图及其归一化分布 ρ(λnk)；(b) 5 K 时费米面上动量分辨超导能隙 Δnk（meV）及分布 ρ(Δnk)；(c) 各向异性能隙随温度的演化，红色虚线为 BCS 型 Δ(T)=Δ0 tanh[2.2√((Tc−T)/T)] 拟合；(d) 15 K 下超导态准粒子态密度 Ns(ω)/N(EF) 随频率 ω 的变化。
   - **关键特征**：λnk 范围 0.62–1.31，δ 带（外圈）最大（由 Cu dxy,x2−y2/O s+px,y 驱动），π1 仅 0.62–0.67，π2 为 0.71–0.78；5 K 下 Δnk=2.08–3.90 meV，其空间分布与 λnk 一一对应，ρ(Δnk) 呈三个峰但在能量上连续，判定为单能隙各向异性；零温平均 Δ0=2.80 meV，拟合得 Tc=16.5 K（远高于 Cu3(CS)6 的 4.43 K）；2Δ0/kBTc=3.94，略大于弱耦合 BCS 值 3.53，对应中等耦合；15 K 下 ±2.2 meV 处出现 BCS 相干峰。
   - **结论/意义**：定量给出 Cu3(CO)6 为 Tc=16.5 K 的单能隙各向异性 BCS 超导体，是论文的核心结论图。
-  - ![图4 电子磁化率实部 χ′(q) 与虚部 χ′′(q)（费米面嵌套函数），K 点及 M–K 路径上的强峰与 λq 强耦合位置对应](../../raw/figures/zhengAnisotropicSuperconductivityTwodimensional2025/fig_4_NCJN9LEL.png) → [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
+  - ![图4 电子磁化率实部 χ′(q) 与虚部 χ′′(q)（费米面嵌套函数），K 点及 M–K 路径上的强峰与 λq 强耦合位置对应](../../raw/figures/zhengAnisotropicSuperconductivityTwodimensional2025/fig_4_NCJN9LEL.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：(a) 电子磁化率实部 χ′(q) 在布里渊区内的二维分布，反映电子体系对扰动的整体稳定性；(b) 虚部 χ′′(q)，即 ω→0 极限下的费米面嵌套函数 Σk δ(εk−εF)δ(εk+q−εF)，红/绿/蓝分别对应高/中/低值。
   - **关键特征**：Γ 点（q=0）处 χ′′ 的发散是自嵌套平凡项，无物理意义；在 K 点周围及沿 M–K 路径出现显著强峰，形成围绕 K 点的三角形图案和围绕 Γ 的六边形/圆周图案；这些强峰位置与图2(a)、2(e) 中 λqν/λq 的强耦合波矢精确重合。
   - **结论/意义**：从微观上证实费米面嵌套是驱动并增强 Cu3(CO)6 电-声耦合的机制，同时提示该体系存在 CDW/SDW 等竞争序的潜在可能。
@@ -137,12 +124,7 @@ Jing-Jing Zheng、Jingyu Li、Rong-Rong Ma、Fengkai Guo、Jiang-Jiang Ma、Peng
   - **project-1（双光子）、project-2（Mn 多铁）、project-3（机械发光 NN）、project-6（湿度传感器）**：无直接项目连接。（注：引言提及 Mn3(CO)6 是该 MOF 家族的一员，但本文未做 Mn 体系的磁性/多铁分析，不构成 project-2 的实质参考。）
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
 - 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
 - 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词

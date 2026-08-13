@@ -15,7 +15,7 @@ concepts: [two-photon-absorption, two-photon-polymerization, photoinitiator, d-p
 entities: [coumarin, stilbene, diphenyliodonium-salt, habi, thiazine-dye, triphenylamine, xanthene-dye, femtosecond-laser]
 methods: [literature-review, photopolymerization-kinetics, two-photon-absorption-spectroscopy, structure-property-analysis]
 materials: [e-stilbene, dibutylamino-stilbene, coumarin-derivatives, ketocoumarin-derivatives, thiazine-dyes, triphenylamine-derivatives, eosin, dpi, habi]
-figures: [jablonski-diagram, reaction-mechanism-scheme]
+figures: [mathematical-models-formulas, optical-spectra]
 领域基础知识:: >-
   本领域为光聚合化学，核心是理解光与物质的相互作用。传统光聚合是单光子过程，遵循线性吸收，为表面固化技术。而双光子聚合是基于非线性光学原理，即分子同时吸收两个低能量光子达到激发态，其吸收概率与光强的平方成正比，从而将光化学反应限制在激光焦点处的极小三维体积内。
 研究背景:: >-
@@ -116,14 +116,14 @@ Wrzyszczyński A.，2010，*Polimery*，55(3), 167–171，DOI: 10.14314/polimer
   - `diphenyliodonium-salt` — 二苯基碘鎓盐（DPI），碘鎓盐类电子给体共引发剂，接受电子后裂解产生芳基自由基
   - `habi` — 邻氯六苯基双咪唑（HABI），另一类常用电子给体共引发剂
 ## 📊 关键图表
-  - ![图1 双光子辐射吸收机理：a) 顺序型（经真实中间激发态），b) 同时型（经虚态）](../../raw/figures/WRZYSZCZYNSKI2010initiators/fig_1_QPNCJL4V.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图1 双光子辐射吸收机理：a) 顺序型（经真实中间激发态），b) 同时型（经虚态）](../../raw/figures/WRZYSZCZYNSKI2010initiators/fig_1_QPNCJL4V.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：简化的 Jablonski 能级图，纵轴为能量，分子从基态 S₀ 跃迁至更高激发态，对比两条双光子吸收路径——a) 顺序型经真实中间态 S₁，b) 同时型经虚态直接到达 S₁。
   - **关键特征**：
     - 顺序型：先吸收 hν₁ 跃迁至真实中间激发态（如 S₁），该态寿命为 10⁻⁴–10⁻⁹ s，在寿命内再吸收 hν₂ 跃迁至 Sₙ；对光源峰值功率要求较低，传统光源或长寿命三重态即可实现。
     - 同时型：不存在真实中间能级，两光子通过寿命 < 10⁻¹⁵ s 的虚态被同时吸收，需飞秒钛宝石激光器（脉宽约 100 fs，波长约 800 nm）提供极高光子密度。
     - 无论哪种机制，单位时间单位体积内被激发分子数 N ∝ I₀²（单光子为 ∝ I₀），因此吸收被限制在焦点 λ³ 体素内；约 800 nm 的近红外光近似对应 UV 400 nm 单光子能量的两倍。
   - **结论/意义**：该图是理解双光子聚合为何需要飞秒激光、为何能在透明树脂内部实现真三维"体加工"的物理基础。
-  - ![反应式(1) 单光子与双光子引发聚合对比](../../raw/figures/WRZYSZCZYNSKI2010initiators/eq_1_FNAAKA6M.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![反应式(1) 单光子与双光子引发聚合对比](../../raw/figures/WRZYSZCZYNSKI2010initiators/eq_1_FNAAKA6M.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
   - **图示描述**：对比两条引发反应方程式——单光子路径为 hν(UV) + 引发剂 → R· 或 R⁺；双光子路径为 2 hν(NIR) + 引发剂 → R· 或 R⁺，分别对应线性吸收与非线性吸收下活性种（自由基或阳离子）的生成。
   - **关键特征**：
     - 单光子：近紫外光沿光路被线性吸收，固化主要发生在单体/树脂表面，是"面加工"，须逐层叠加。
@@ -149,7 +149,7 @@ Wrzyszczyński A.，2010，*Polimery*，55(3), 167–171，DOI: 10.14314/polimer
   - 光诱导电子转移（[[../concepts/photoinduced-electron-transfer|photoinduced electron transfer]], PET）
   - 近红外（near-infrared, NIR, bliska podczerwień）
 ## ✏️ 可写入 Wiki 的要点
-  1. [[../concepts/two-photon-absorption|[[../concepts/biphoton|双光子]]吸收]]由 Göppert-Mayer 于 1931 年理论预言，1961 年由 Kaiser 和 Garret 实验证实；截面单位 GM = 10⁻⁵⁰ cm⁴·s·photon⁻¹。
+  1. [[../concepts/two-photon-absorption|双光子吸收]]由 Göppert-Mayer 于 1931 年理论预言，1961 年由 Kaiser 和 Garret 实验证实；截面单位 GM = 10⁻⁵⁰ cm⁴·s·photon⁻¹。
   2. TPA 有两种机制：顺序型（经真实中间激发态，寿命 10⁻⁴–10⁻⁹ s）和同时型（经寿命 < 10⁻¹⁵ s 的虚态，需飞秒钛宝石激光器，~100 fs 脉冲，~800 nm 波长）。
   3. [[../concepts/two-photon-excitation|双光子激发]]粒子数 ∝ I₀²，单光子 ∝ I₀；因此 TPA 被限制在激光焦点 λ³ 体素内，实现真三维加工。[[../concepts/two-photon-polymerization|双光子聚合]]速率 ∝ I₀，单光子聚合速率 ∝ I₀⁰·⁵（源于自由基链终止动力学）。
   4. 高效双光子引发剂需同时满足：δ > 10⁻⁵⁰ cm⁴·s·photon⁻¹（即 > 1 GM，实际高效体系可达数百 GM），且能高效产生活性自由基/离子。

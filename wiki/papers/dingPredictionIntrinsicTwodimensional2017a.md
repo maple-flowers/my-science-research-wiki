@@ -10,12 +10,12 @@ paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/dingPredictionIntrinsicTwodimensional2017a]]
-projects: [project-5, project-2]
+projects: [project-5]
 concepts: [ferroelectricity, berry-phase, polarization-switching, 2d-materials, strain-engineering, density-functional-theory, depolarization-field, schottky-barrier, in-plane-out-of-plane-coupling, quintuple-layer, vdW-heterostructure]
 entities: [In2Se3, VASP, graphene, WSe2, PbTiO3, TMDs, SnTe]
 methods: [dft, pbe-gga, hse06, berry-phase, ci-neb, dft-d3, phonon-dispersion, ab-initio-md, paw]
 materials: [In2Se3, graphene, WSe2, Al2S3, Al2Se3, Al2Te3, Ga2S3, Ga2Se3, Ga2Te3, In2S3, In2Te3]
-figures: [crystal-structures, electronic-bands, domain-walls, heterostructures-stacking, energy-barriers]
+figures: [crystal-structures-bulk, domain-walls-structures, domain-walls-switching-properties, electronic-bands-band-structures, mathematical-models-simulations]
 领域基础知识:: >-
   二维范德华材料是具有原子级厚度的层状材料，层内由强共价键连接，层间由弱范德华力结合。铁电性描述材料具有自发且可被外电场反转的电极化，其传统研究多集中于钙钛矿氧化物薄膜，但存在临界厚度限制。
 研究背景:: >-
@@ -41,9 +41,7 @@ tags:
   - type/theory
   - year/2017
   - project/project-5
-  - project/project-2
   - relevance/project-5/strong
-  - relevance/project-2/weak
   - concept/ferroelectricity
   - concept/berry-phase
   - concept/polarization-switching
@@ -98,7 +96,7 @@ Ding, Zhu, Wang, Gao, Xiao, Gu, Zhang & Zhu，2017，Nature Communications 8:149
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/2D-materials]]、[[../concepts/berry-phase]]、[[../concepts/polarization-switching]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/schottky-barrier|肖特基势垒]]、[[../concepts/in-plane-out-of-plane-coupling|面内-面外极化耦合]]、[[../concepts/quintuple-layer|五元层(QL)]]
   - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/TMDs]]、[[../entities/SnTe]]、[[../entities/PbTiO3]]、[[../entities/graphene|石墨烯]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/domain-walls]]、[[../figures/heterostructures-stacking]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/domain-walls]]
   - 年度 [[../write/2017]]
   - 相关论文 **dingPredictionIntrinsicTwodimensional2017a**
 
@@ -108,12 +106,12 @@ Ding, Zhu, Wang, Gao, Xiao, Gu, Zhang & Zhu，2017，Nature Communications 8:149
 
 ## 📊 关键图表
   - **图1：In2Se3 五元层（QL）的层状结构**
-  - ![图1 In2Se3 QL的层状结构，FE-ZB'与FE-WZ'基态中中心Se层的不对称配位（1.68 Å vs 2.55 Å）打破面外中心对称](../../raw/figures/dingPredictionIntrinsicTwodimensional2017a/fig_1_NBSIMFLM.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图1 In2Se3 QL的层状结构，FE-ZB'与FE-WZ'基态中中心Se层的不对称配位（1.68 Å vs 2.55 Å）打破面外中心对称](../../raw/figures/dingPredictionIntrinsicTwodimensional2017a/fig_1_NBSIMFLM.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：图(a,b)为层状 In2Se3 的三维结构与俯视图，一个 QL 由 Se-In-Se-In-Se 五层原子组成，层内原子占据三角晶格的 A/B/C 位点；图(c-h)依次对比闪锌矿、纤锌矿、fcc 三种高对称衍生结构以及两个简并基态 FE-ZB'（ABBCA）、FE-WZ'（ABBAC）和亚稳 fcc' 的侧视。
   - **关键特征**：FE-ZB' 与 FE-WZ' 中中心 Se 层到两侧 In 层的间距分别为 1.68 Å 与 2.55 Å，构成"一长键-三短键"的四面体配位，直接打破面外中心对称；图(f,g)中的黑色箭头 P 标出方向相反的自发面外极化，面外偶极矩约 0.11 eÅ/单胞（HSE06；PBE 为 0.094 eÅ/单胞）；一个 QL 总厚度约 6.8 Å，面内晶格常数约 4.106 Å；亚稳 fcc' 比基态高 0.057 eV/单胞，作为非极性参比态。
   - **结论/意义**：该图从结构上确立了 In2Se3 QL 铁电性的几何起源，是全文"结构非对称 → 自发极化"论证链的基石。
   - **图2：极化反转的动力学路径**
-  - ![图2 极化反转动力学路径：(a)中心Se直接位移能垒0.85 eV；(b)三步协同运动路径能垒仅0.066 eV](../../raw/figures/dingPredictionIntrinsicTwodimensional2017a/fig_2_SFY5AWMG.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图2 极化反转动力学路径：(a)中心Se直接位移能垒0.85 eV；(b)三步协同运动路径能垒仅0.066 eV](../../raw/figures/dingPredictionIntrinsicTwodimensional2017a/fig_2_SFY5AWMG.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
   - **图示描述**：横轴为 CI-NEB 反应坐标（极化向下的 FE-ZB' 初态 → 极化向上的等价终态），纵轴为相对总能量；(a)为中心 Se 层直接从 B 位横向滑移到 C 位的路径，(b)为上三层 Se-In-Se 协同运动的三步路径。
   - **关键特征**：直接位移路径的活化势垒高达 0.85 eV/单胞（图中按 1/10 比例缩小显示），室温下几乎不可逾越；三步协同路径依次为：上三层整体滑移到亚稳 fcc'、中心 Se 绕 C 位旋转 60°、顶二层沿旋转 60° 方向再滑移，最高势垒仅 0.066 eV/单胞，与经典铁电体 PbTiO3 相当；面外极化反转同步带动面内 [110] 极化反转，二者相互锁定。
   - **结论/意义**：协同运动机制把反转能垒降低一个数量级，证明 In2Se3 的极化可被微小电场在室温下反复写入/擦除，是其作为铁电存储材料的决定性证据。
@@ -123,15 +121,19 @@ Ding, Zhu, Wang, Gao, Xiao, Gu, Zhang & Zhu，2017，Nature Communications 8:149
   - **关键特征**：活化势垒随电场线性下降；0.3 V/Å 的面外电位移场使两极态能量差达 0.056 eV/单胞，室温下布居差近 10 倍；仅 0.03 V/Å 的面内 [110] 电场即可产生 0.142 eV/单胞的能量差，布居差超过 200 倍；面内电场通过驱动协同运动中的横向滑移来翻转面外极化，构成面内-面外交叉耦合控制。
   - **结论/意义**：该图量化了电场写入的可行性，并提出"水平电场翻转垂直极化"的新调控范式，为多端器件设计提供物理依据。
   - **图4：畴壁运动的动力学路径**
-  - ![图4 畴壁运动动力学路径：低能畴壁构型形成能 0.22 eV/单胞，移动能垒 0.40/0.28 eV per unit cell，远低于直接位移的0.85 eV](../../raw/figures/dingPredictionIntrinsicTwodimensional2017a/fig_4_R4T9H5FQ.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图4 畴壁运动动力学路径：低能畴壁构型形成能 0.22 eV/单胞，移动能垒 0.40/0.28 eV per unit cell，远低于直接位移的0.85 eV](../../raw/figures/dingPredictionIntrinsicTwodimensional2017a/fig_4_R4T9H5FQ.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：底部中央为含两个相反极化畴的初始超胞（黑色虚线方框标示畴壁位置），左右为畴壁移动后的终态，顶部为对应过渡态；(a,b)分别为低能和高能畴壁构型及其 CI-NEB 能量曲线。
   - **关键特征**：低能构型(a)中两畴壁总形成能为 0.22 eV/单胞，移动活化势垒分别为 0.40 eV/单胞和 0.28 eV/单胞；高能构型(b)形成能高达 1.45 eV/单胞（含 0.71、0.099 eV 等过渡态）；畴壁辅助反转势垒显著低于单畴直接位移的 0.85 eV/单胞。
   - **结论/意义**：该图说明真实器件中极化反转可通过畴壁横向"蚕食"扩张完成，为有限尺寸、含缺陷样品中的开关动力学提供了更贴近实际的机制。
   - **图5：In2Se3 基范德华异质结的电子结构**
-  - ![图5 In2Se3基异质结电子结构：(a)单层In2Se3间接带隙1.46 eV(HSE06)；(b-e)In2Se3/石墨烯中肖特基势垒随极化翻转可调；(f-i)In2Se3/WSe2中极化翻转导致显著带隙减小](../../raw/figures/dingPredictionIntrinsicTwodimensional2017a/fig_5_TVNYX8LU.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图5 In2Se3基异质结电子结构：(a)单层In2Se3间接带隙1.46 eV(HSE06)；(b-e)In2Se3/石墨烯中肖特基势垒随极化翻转可调；(f-i)In2Se3/WSe2中极化翻转导致显著带隙减小](../../raw/figures/dingPredictionIntrinsicTwodimensional2017a/fig_5_TVNYX8LU.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
   - **图示描述**：所有能带图费米能级设为零；(a)为单层 FE-ZB' In2Se3 的 HSE06 能带，插图为含 Γ、M、K 高对称点的第一布里渊区；(b-e)为 In2Se3/石墨烯异质结的侧视图与 GGA-PBE 能带（In2Se3 能带红色、石墨烯能带黄色、绿圈标狄拉克点）；(f-i)为 In2Se3/WSe2 异质结（In2Se3 红色、WSe2 蓝色）。
   - **关键特征**：单层 In2Se3 为间接带隙半导体，HSE06 带隙 1.46 eV（PBE 为 0.78 eV），QL 两侧真空能级差高达 1.37 eV（HSE06），源自面外极化内建电场；In2Se3/石墨烯中翻转极化使石墨烯狄拉克点相对费米能级显著移动，实现肖特基势垒高度的非易失性调控，两种极化构型系统偶极矩分别为 0.11 和 0.03 eÅ/In2Se3 单胞；In2Se3/WSe2 中极化翻转导致整体带隙显著减小，两构型偶极矩为 0.10 和 0.06 eÅ/单胞，偶极矩减小源于层间电荷转移的屏蔽效应（图 e、i）。
   - **结论/意义**：该图把本征铁电性转化为器件语言——极化方向可作为非易失"局域栅极"调控相邻二维材料的能带对齐，是 In2Se3 用于非易失存储器和可重构逻辑的直接演示。
+  - **图3 外电场与电位移场下In2Se3的极化翻转势垒及相能量差**
+    - **图示描述**：(a) 电位移场D=0–0.3 V/Å下的激活势垒（黑圆）与两相能量差（灰方）；(b) 电场E=0–0.03 V/Å下的对应关系，插图给出极化翻转路径的侧视与俯视原子构型。
+    - **关键特征**：零场激活势垒约0.0655 eV/单胞；D增至0.3 V/Å时势垒降至约0.055 eV、能量差降至-0.06 eV，电场下两者近似线性下降，说明外场可有效降低翻转壁垒并使目标相变为基态。
+    ![图3 外电场与电位移场下In2Se3的极化翻转势垒及相能量差](../../raw/figures/dingPredictionIntrinsicTwodimensional2017a/fig_3_8DJADZGY.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
 
 ## 🔬 项目连接
   - **project-5（SnTe铁电模拟）— strong**：本文是二维铁电性 DFT 预测的经典方法学范本，计算流程可直接复用于 SnTe 铁电模拟：(1) 用 Berry 相方法计算面内极化、用偶极矩计算面外极化；(2) 用 CI-NEB 搜索极化反转最小能量路径与活化能垒；(3) 用石墨电极短路超胞检验铁电相对退极化场的抵抗能力；(4) 用 DFT-D3 修正构建范德华异质结并计算极化翻转对能带对齐的非易失性调控。文中还引用了 Chang et al. Science 2016 在 SnTe 中发现面内铁电性的工作（参考文献11），属于同一二维铁电脉络。
@@ -140,7 +142,6 @@ Ding, Zhu, Wang, Gao, Xiao, Gu, Zhang & Zhu，2017，Nature Communications 8:149
 
 ## 🔗 项目双链
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
 论文按"结构搜索 → 铁电本质 → 反转动力学 → 外电场调控 → 畴壁运动 → 异质结器件 → 家族推广"的递进逻辑展开，每一步都用能量定量判据（总能差、活化能垒、声子虚频、极化值）支撑结论。值得复用的术语：
@@ -161,6 +162,6 @@ Ding, Zhu, Wang, Gao, Xiao, Gu, Zhang & Zhu，2017，Nature Communications 8:149
   5. 将单层 In2Se3 夹在两个短路石墨电极之间，铁电 FE-ZB' 相仍比非极性 fcc' 相稳定，内建电场依然存在，证明其本征铁电能抵抗[[../concepts/depolarization-field|退极化场]]——这是传统钙钛矿超薄薄膜难以做到的。
   6. 畴壁辅助反转：低能畴壁构型[[../concepts/formation-energy|形成能]] 0.22 eV/单胞，移动能垒 0.40/0.28 eV/单胞，远低于单畴直接位移的 0.85 eV，是真实器件中极化反转的另一可行机制。
   7. 单层 In2Se3 为间接带隙半导体，HSE06 带隙 1.46 eV（PBE 0.78 eV），QL 两侧真空能级差高达 1.37 eV（HSE06），源于面外极化产生的内建电场。
-  8. In2Se3/[[../entitys/graphene|石墨烯]]异质结中，翻转 In2Se3 极化可移动石墨烯狄拉克点相对费米能级的位置，实现[[../concepts/schottky-barrier|肖特基势垒]]的非易失性调控；In2Se3/WSe2 异质结中，[[../concepts/polarization-switching|极化翻转]]导致整个体系带隙显著减小。
+  8. In2Se3/[[../entities/graphene|石墨烯]]异质结中，翻转 In2Se3 极化可移动石墨烯狄拉克点相对费米能级的位置，实现[[../concepts/schottky-barrier|肖特基势垒]]的非易失性调控；In2Se3/WSe2 异质结中，[[../concepts/polarization-switching|极化翻转]]导致整个体系带隙显著减小。
   9. [[../concepts/ferroelectricity|铁电性]]推广至整个 III2-VI3 家族：Al2S3、Al2Se3、Al2Te3、Ga2S3、Ga2Se3、Ga2Te3、In2S3、In2Te3 的 QL 形式均以 FE-ZB'/FE-WZ' 为基态且声子无虚频；含 In 化合物兼有亚稳 fcc' 相，含 Ga 化合物的 fcc 衍生结构不稳定。
   10. 计算方法细节：VASP + PAW + PBE 结构弛豫，HSE06 修正带隙，Berry 相算极化，CI-NEB 算能垒，DFT-D3 处理异质结层间相互作用，真空层 >15 Å 并在其中放置锯齿状自洽偶极层修正两侧真空能级错位，k 网格 12×12×1。

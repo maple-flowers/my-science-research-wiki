@@ -10,12 +10,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Inosov2008fermi]]
-projects: [project-7, project-2]
+projects: [project-7]
 concepts: [charge-density-wave, 2D-materials, fermi-surface-nesting, lindhard-function, peierls-transition, van-hove-singularity, kohn-anomaly, electron-phonon-coupling, incommensurate-order, rigid-band-approximation, pseudogap]
 entities: [TMDs, TaSe2, NbSe2, CuxNbS2]
 methods: [arpes, tight-binding, lindhard-function]
 materials: [2H-TaSe2, 2H-NbSe2, Cu0.2NbS2]
-figures: [electronic-bands, mathematical-models]
+figures: []
 领域基础知识:: >-
   电荷密度波是材料中电子密度和晶格结构的周期性调制现象，通常由费米面嵌套驱动。费米面是电子在动量空间占据的最高能量状态的集合。当费米面存在平行片段时，可被同一波矢q（嵌套矢量）连接，导致系统的响应函数（Lindhard函数）在该波矢处发散，从而引发晶格不稳定性和电荷密度波形成。过渡金属二硫化物是研究电荷密度波与超导等量子态相互作用的典型准二维体系。
 研究背景:: >-
@@ -42,8 +42,6 @@ tags:
   - year/2008
   - project/project-7
   - relevance/project-7/core
-  - project/project-2
-  - relevance/project-2/weak
   - concept/charge-density-wave
   - concept/2d-materials
   - concept/fermi-surface-nesting
@@ -128,7 +126,6 @@ raw/figures/Inosov2008fermi/ 下仅有 manifest.json、无图像文件，故以�
 
 ## 🔗 项目双链
 - 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
 论文按"Peierls 理论与三种争议场景 → ARPES 测量 → 紧束缚参数化 → Lindhard 函数计算 → TaSe₂ 温度演化 → 三材料横向对比 → 结论与开放问题"展开，论证主轴是一个可证伪命题："若简单嵌套驱动 CDW，则 χ₀ 峰应位于公度波矢且峰强与 T_CDW 正相关"，然后用实验同时否定这两个推论，从而把图像修正为"嵌套提供不稳定性、电子-声子耦合决定 T_CDW、嵌套矢量天然非公度且普适"。值得复用的术语：
@@ -148,7 +145,7 @@ raw/figures/Inosov2008fermi/ 下仅有 manifest.json、无图像文件，故以�
   - [[../concepts/rigid-band-approximation|rigid-band-approximation]]
 ## ✏️ 可写入 Wiki 的要点
   1. [[../concepts/peierls-instability|Peierls 不稳定性]]判据（论文式 1）：4η̄²_q/ℏω_q − 2Ū_q + V̄_q > 1/χ_q，其中 χ_q 为裸自旋磁化率（[[../concepts/lindhard-function|Lindhard 函数]]），η̄_q 为局域[[../concepts/electron-phonon-coupling|电子-声子耦合]]，Ū_q、V̄_q 为局域近似下的直接/交换库仑作用；当 χ_q 在某 q 处发散或出现强峰且左端为正时触发 CDW/PLD。
-  2. TMDC 中 CDW 驱动机制在文献中存在三种场景：(i) 简单[[../concepts/fermi-surface-nesting|[[../concepts/fermi-surfaces|费米面]]嵌套]]；(ii) [[../concepts/van-hove-singularity|范霍夫奇点]]（鞍点）嵌套；(iii) 费米面与鞍点带的部分嵌套。本文用高精度 ARPES 检验场景 (i)。
+  2. TMDC 中 CDW 驱动机制在文献中存在三种场景：(i) 简单[[../concepts/fermi-surface-nesting|费米面嵌套]]；(ii) [[../concepts/van-hove-singularity|范霍夫奇点]]（鞍点）嵌套；(iii) 费米面与鞍点带的部分嵌套。本文用高精度 ARPES 检验场景 (i)。
   3. 2H-TaSe₂ 在正常态（290、180 K）和非公度 CDW 态（107 K）的 Lindhard 函数均在 ~0.58–0.60 ΓM 处出现尖锐嵌套峰，而非公度 CDW 波矢 2/3 ΓM ≈ 0.667 ΓM；用 Rossnagel 等人 2005 年的独立[[../concepts/tight-binding|紧束缚]]参数在 125 K 复算，峰位几乎相同，排除了模型人为性。
   4. TaSe₂ 中嵌套矢量随温度非单调演化：从室温向 122 K 降温时先远离公度位置（体系"感受并规避"不稳定性），进入 ICDW 态后又被推回靠近公度位置，最终在 90 K 驱动 3×3 公度 lock-in；同期 61 声子支在 300 K 已出现类 [[../concepts/kohn-anomaly|Kohn 异常]]并随降温进一步软化，指示强电子-声子耦合。
   5. 三材料对比：χ₀ 峰强排序 NbSe₂ > Cu₀.₂NbS₂ > TaSe₂，但 T_CDW 排序 TaSe₂（122 K）> NbSe₂（33.5 K）> Cu₀.₂NbS₂（未观测到 CDW），直接否定"嵌套越强 T_CDW 越高"的简单直觉；作者把差异归因于声子谱、电子-声子耦合或被忽略的 kz 色散。

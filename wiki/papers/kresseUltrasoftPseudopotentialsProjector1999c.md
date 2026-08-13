@@ -11,12 +11,12 @@ paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/kresseUltrasoftPseudopotentialsProjector1999c]]
-projects: [project-2, project-4, project-5, project-7]
+projects: []
 concepts: [density-functional-theory]
 entities: [VASP]
 methods: [dft]
 materials: []
-figures: [mathematical-models]
+figures: [crystal-structures-bulk, electronic-bands-cdw-transport, mathematical-models-computational, mathematical-models-formulas]
 领域基础知识:: >-
   密度泛函理论，第一性原理计算，平面波基组，模守恒赝势，超软赝势，投影增强波方法，电子结构计算。
 研究背景:: >-
@@ -41,20 +41,11 @@ tags:
   - paper
   - type/theory
   - year/1999
-  - project/project-2
-  - relevance/project-2/medium
-  - project/project-4
-  - relevance/project-4/medium
-  - project/project-5
-  - relevance/project-5/medium
-  - project/project-7
-  - relevance/project-7/medium
   - concept/density-functional-theory
   - entity/VASP
   - method/dft
   - topic/charge-density-wave
   - topic/ferroelectricity
-  - topic/molecular-crystal
   - topic/multiferroics
 ---
 
@@ -75,42 +66,42 @@ G. Kresse、D. Joubert，1999，Physical Review B 59(3), 1758–1775，DOI: 10.1
 
 ## 📊 关键图表
   - **Eq. 2 — PAW 线性变换（ψ 与 ψ̃ 的关系）**
-  - ![PAW 线性变换：从赝波函数恢复全电子波函数（Eq.2）](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_2_FQCU82JS.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![PAW 线性变换：从赝波函数恢复全电子波函数（Eq.2）](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_2_FQCU82JS.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
     - **图示描述**：公式把平滑的赝波函数 |ψ̃ₙ⟩ 与全电子波函数 |ψₙ⟩ 通过原子参考态的全电子部分波 |φᵢ⟩、赝部分波 |φ̃ᵢ⟩ 及投影函数 ⟨p̃ᵢ| 联系起来，是 PAW 方法的基石；球外用赝波函数，球内用 (φᵢ−φ̃ᵢ) 叠加修正。
     - **关键特征**：(1) 变换是线性的，变分对象仍是平面波网格上的 ψ̃ₙ；(2) 指标 i 同时编码原子位点 R、角动量 (l,m) 和参考能量指标 k；(3) φᵢ 与 φ̃ᵢ 在核心半径 r_c 外完全相同，在 r_c 内连续匹配；(4) 投影函数满足对偶条件 ⟨p̃ᵢ|φ̃ⱼ⟩ = δᵢⱼ。
     - **结论/意义**：该式把"恢复核区剧烈振荡波函数"的任务交给预计算的原子数据集，使 PAW 兼具平面波的简单性和全电子精度。
   - **Eq. 3 — PAW 电荷密度三项分解 n = ñ + n¹ − ñ¹**
-  - ![PAW 电荷密度分解 n = ñ + n¹ − ñ¹（Eq.3）](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_3_YBB62KAS.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![PAW 电荷密度分解 n = ñ + n¹ − ñ¹（Eq.3）](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_3_YBB62KAS.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
     - **图示描述**：总电荷密度被拆成平面波网格上的平滑赝密度 ñ、各原子径向支持网格上的全电子 onsite 密度 n¹，以及球内重叠的赝密度 ñ¹ 三项；后者带负号避免重复计数。
     - **关键特征**：(1) ñ 直接由赝波函数在规则 FFT 网格上求出；(2) n¹ 与 ñ¹ 只在半径 r_rad 内的径向网格上计算，采用占据矩阵 ρᵢⱼ = Σₙ fₙ ⟨ψ̃ₙ|p̃ᵢ⟩⟨p̃ⱼ|ψ̃ₙ⟩；(3) 径向网格与平面波网格之间无交叉耦合项；(4) 当投影函数组完备时，增强球内 ñ¹ 与 ñ 严格相等。
     - **结论/意义**：这种"网格+球内补丁"的分解是后续 Hartree 能、XC 能同样拆三项的模板，也是 PAW 能在 US-PP 代码里增量实现的关键。
   - **Eq. 20 — PAW 总能量 E = Ẽ + E¹ − Ẽ¹**
-  - ![PAW 总能量三项分解 E = Ẽ + E¹ − Ẽ¹（Eq.20）](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_20_9ZF6QIUA.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![PAW 总能量三项分解 E = Ẽ + E¹ − Ẽ¹（Eq.20）](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_20_9ZF6QIUA.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
     - **图示描述**：总能量写成平面波网格项 Ẽ、原子球内全电子项 E¹、原子球内赝项 Ẽ¹ 三段的代数和，Ẽ 与常规赝势程序结构相同，E¹−Ẽ¹ 是把赝值校正成全电子值的补丁。
     - **关键特征**：(1) Hartree 能按 (ñ+n̂)、(ñ¹+n̂)、n¹ 拆成网格平滑项、球内赝项、球内全电子项；(2) 交换关联能采用 E_xc[ñ+n̂+ñ_c] + Ē_xc[n¹+n_c] − Ē_xc[ñ¹+n̂+ñ_c]，在网格项和球内赝项中显式加入部分核心电荷 ñ_c（[[../concepts/nonlinear-core-correction|非线性核心修正]]）；(3) 核-核相互作用改用 Ewald 求和 U(R,Z_ion)；(4) 相对于 Blöchl 原始 PAW，这一改写更贴近赝势代码习惯并改善了 GGA 在核附近的数值稳定性。
     - **结论/意义**：该重构泛函是本文的工程核心——把 PAW 装进现有 US-PP 平面波代码只需新增 E¹−Ẽ¹ 这一原子中心项。
   - **Eq. 35 — US-PP 非局域势强度 G^US_ij**
-  - ![US-PP 非局域势强度 G_ij^US（Eq.35），即 PAW 线性化产物](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_35_SUNR7ATM.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![US-PP 非局域势强度 G_ij^US（Eq.35），即 PAW 线性化产物](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_35_SUNR7ATM.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
     - **图示描述**：把 PAW 泛函中两个原子中心项 E¹、Ẽ¹ 在原子参考占据数 ρ^a_ij 附近作一阶泰勒展开，其导数合并给出 US-PP 的非局域赝势强度矩阵 G^US_ij；这是 US-PP 总能量泛函中唯一"新"出现的参数。
     - **关键特征**：(1) 展开在原子参考态（如 Fe 的 4s^1.5 3d^{n−1.5} 分数占据）附近进行，使体系偏离参考态最小时线性化误差最小；(2) G^US_ij 在赝势生成时一次性计算并固定，自洽循环中不再更新；(3) 当增强函数取全电子形式 Q̂_ij = φᵢ*φⱼ − φ̃ᵢ*φ̃ⱼ（Eq.36）时，US-PP 与冻结核心 PAW 严格等价；(4) 伪化增强电荷引入的高阶项在强磁性、强电荷转移体系中变得不可忽略。
     - **结论/意义**：该式从数学上证明 US-PP 是 PAW 的一阶线性化近似，统一了现代赝势理论的两大主流。
   - **Eq. 50 — PAW 哈密顿算符 H = −½Δ + ṽ_eff + Σ|p̃ᵢ⟩(D̂_ij+D¹_ij−D̃¹_ij)⟨p̃ⱼ|**
-  - ![PAW 哈密顿算符 H = −½Δ + ṽ_eff + Σ|p̃_i⟩(D̂_ij+D¹_ij−D̃¹_ij)⟨p̃_j|（Eq.50）](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_50_F823C9C2.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![PAW 哈密顿算符 H = −½Δ + ṽ_eff + Σ|p̃_i⟩(D̂_ij+D¹_ij−D̃¹_ij)⟨p̃_j|（Eq.50）](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_50_F823C9C2.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
     - **图示描述**：哈密顿量由动能项、平面波网格上的平滑有效势 ṽ_eff，以及非局域投影项 |p̃ᵢ⟩ ΔD_ij ⟨p̃ⱼ| 构成；广义本征方程为 H|ψ̃ₙ⟩ = εₙ S|ψ̃ₙ⟩，重叠算符 S = 1 + Σ|p̃ᵢ⟩ q_ij ⟨p̃ⱼ|（Eq.40）。
     - **关键特征**：(1) PAW 中 D¹_ij、D̃¹_ij 依赖当前占据矩阵 ρ_ij，在电子迭代中每步更新；(2) US-PP 中这两项被原子参考势固定，仅在生成赝势时算一次，这是两种方法实现上的唯一实质差别；(3) 力由 Goedecker–Maschke 定理拆成 F1（局域势移动）、F2（补偿电荷移动）、F3（投影函数移动）及 NLCC 项 F_nlcc（Eq.58–61），PAW 与 US-PP 表达式几乎相同。
     - **结论/意义**：该哈密顿量形式简洁、与 US-PP 代码骨架兼容，直接指导了 VASP 中 PAW 模块的实现。
   - **表 II — PAW/US-PP 数据集参数（价态、r_lc、r_comp、E_cut）**
-  - ![PAW 数据集与 US-PP 参数：价态、截断半径、截断能（表II）](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/tab_2_KYMT83C9.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![PAW 数据集与 US-PP 参数：价态、截断半径、截断能（表II）](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/tab_2_KYMT83C9.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
     - **图示描述**：表中逐元素列出本文所用 PAW 与 US-PP 数据集的价电子配置、部分波截断半径 r_lc（a.u.）、US-PP 增强电荷截断半径 r_comp（a.u.）以及所需平面波截断能 E_cut（eV），覆盖 H–F、Li–Cl、Ca、3d 过渡金属 Fe/Co/Ni 等。
     - **关键特征**：(1) 第一行元素 C/N/O/F 的 r_lc 约 1.3–1.5 a.u.，对应 E_cut ≈ 400 eV，相对偏硬；(2) r_comp 仅出现在 US-PP 列，PAW 不需要伪化增强电荷；(3) Ca 提供两种价态处理（3p 入价 vs 3s3p 入价），用于检验半芯态效应；(4) K–Mn、Rb–Ru、Cs–Os 等元素若把 np 半芯态留作核心会出现[[../concepts/ghost-states|鬼态]]，必须作为价态处理。
     - **结论/意义**：该表是复现本文全部基准测试的数据集规格说明，也是后续 VASP PAW 势库的构建参考。
   - **表 I — 小分子键长 PAW/US-PP/AE 对比（LDA, CA-PZ）**
-  - ![小分子键长对比 PAW/US-PP/AE（表I）](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/tab_0_3958RDNP.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![小分子键长对比 PAW/US-PP/AE（表I）](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/tab_0_3958RDNP.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
     - **图示描述**：对比 H₂、Li₂、N₂、F₂、BF₃、SiF₄、H₂O 等小分子在 US-PP、PAW 与弛豫核心全电子（AE）三种方法下的平衡键长（Å）及水分子键角（°）；括号内为采用更硬 r_c（r_c≈1.1 a.u., E_cut≈700 eV）的结果。
     - **关键特征**：(1) PAW 与 AE 差异普遍 <0.1%，例如 N₂ 键长 PAW = 2.076 Å、AE = 2.068 Å，F₂ = 2.633 vs 2.615 Å；(2) 硬 PAW 进一步把 F₂ 推到 2.621 Å，更接近 AE；(3) BF₃、SiF₄ 等大电负性差体系软 PAW 误差仍 <0.5%；(4) US-PP 与 PAW 差异约 0.1%，但 Li/Na 含强局域半芯态时 US-PP 构建困难，Li 的 1s 甚至无法解冻。
     - **结论/意义**：小分子基准证明 PAW 以与 US-PP 相近的代价达到弛豫核心全电子精度，验证了"PAW=全电子方法"的宣称。
   - **表 V — bcc Fe / hcp Co / fcc Ni 的晶格常数、体模量、磁矩**
-  - ![Fe/Co/Ni 块体晶格常数、体模量、磁矩对比（表V）](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/tab_4_Q4HQJ9DS.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![Fe/Co/Ni 块体晶格常数、体模量、磁矩对比（表V）](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/tab_4_Q4HQJ9DS.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
     - **图示描述**：对铁磁 bcc Fe、hcp Co、fcc Ni 三种块体，列出 FLAPW、PAW、US-PP 给出的平衡晶格常数 a（Å）、体弹模量 B（Mbar）和局域磁矩 M₀（μ_B）；括号外为 LDA、括号内为 GGA(PBE) 结果。表 IV/VI 还分别给出原子磁化能 ΔE_m 和以 NM hcp Fe 为零点的相能差。
     - **关键特征**：(1) 原子磁化能 Fe: PAW 2.61 eV ≈ AE 2.60 eV，US-PP 高估至 2.75 eV；(2) GGA 下 bcc FM Fe 的磁矩 US-PP = 2.32 μ_B，PAW/FLAPW = 2.20 μ_B；体模量 US-PP = 1.51 Mbar，PAW/FLAPW = 1.74 Mbar；(3) 以 NM hcp Fe 为零点，bcc FM Fe 相对能量 PAW = FLAPW = −273 meV，US-PP 仅 −191 meV，偏差 80–120 meV（约 60 meV/μ_B）；(4) 把 US-PP 增强电荷截断半径收紧到 0.5 a.u.（US-AE）可复现 PAW，证明误差完全来自增强电荷伪化；Co、Ni 上 US-PP 偏差明显小于 Fe，说明误差与磁矩/电荷重构幅度相关；(5) GGA 对核区波函数形状比 LDA 更敏感，因而放大 US-PP 误差。
     - **结论/意义**：磁性 3d 单质是 US-PP 的"试金石"，该表系统证实 US-PP 在强磁体系中存在可观测的系统偏差，而 PAW 与 FLAPW 一致，为选择 PAW 处理磁性 Fe/Co/Ni 提供了定量依据。
@@ -119,10 +110,6 @@ G. Kresse、D. Joubert，1999，Physical Review B 59(3), 1758–1775，DOI: 10.1
 无直接项目连接；但作为 VASP/PAW 方法学奠基文献，间接支撑所有基于 DFT 平面波赝势的模拟项目（project-4 TTF 分子计算、project-5 SnTe 铁电模拟、project-2 Mn 多铁、project-7 CDW），尤其在涉及磁性 Fe/Co/Ni、半芯态或强电负性差体系时直接指导赝势选择。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
   - 论证组织：从精确 Kohn–Sham 泛函出发 → 重构 PAW 总能量泛函（Hartree/交换关联的“网格平滑项 + 原子球修正项”补丁式分解，引入补偿电荷与部分核心电荷）→ 在原子参考占据数附近线性化 E¹、Ẽ¹ 直接导出 US-PP 泛函（Eq.34–35）→ 推导重叠算符、哈密顿量、双计数修正 [[../concepts/double-counting-correction|双计数修正]]、力与应力（Eq.39–61）→ PAW 数据集构造（部分波/投影/核心电荷/补偿函数/双网格）→ 小分子、块体、磁性 Fe/Co/Ni 三级数值基准 → 讨论。

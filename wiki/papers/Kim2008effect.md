@@ -15,7 +15,7 @@ concepts: [strain-engineering, multiferroicity, polarization-switching, lone-pai
 entities: [BiFeO3, SrTiO3, SrRuO3, BaTiO3, PZT]
 methods: [pld, hrxrd, rsm, squid-magnetometry, pe-hysteresis, first-principles]
 materials: [BiFeO3, SrTiO3, SrRuO3, BaTiO3, PZT]
-figures: [crystal-structures]
+figures: []
 领域基础知识:: >-
   多铁性材料指同时存在铁电序和（反）铁磁序的单相或复合体系，如 BiFeO₃。外延应变是因薄膜与衬底晶格常数失配而在薄膜中产生的弹性应变，可改变晶格对称性，进而调控铁电、磁性等物性。BiFeO₃ 的铁电性由 Bi 离子 6s² 孤对电子驱动，与 Fe 离子反铁磁序兼容，是一种典型的多铁性材料。
 研究背景:: >-
@@ -148,4 +148,4 @@ Dae Ho Kim, Ho Nyung Lee, Michael D. Biegalski, Hans M. Christen，2008，Applie
   7. SQUID 室温磁化曲线扣除 SrTiO₃ 抗磁背景后，BiFeO₃ 薄膜磁化极小且无特征，确认反铁磁序，排除 Bi 挥发导致的 γ-Fe₂O₃ 等铁磁杂质。
   8. 铁电回线在 77.3 K、2 kHz 下测量（室温因漏电无法测量），方形饱和回线，Pr 对频率弱依赖且随最大电场饱和，证实数据为本征极化。
   9. 实验 Pr 对应变的依赖性弱于第一性原理计算预测（应变膜 63.4 vs 弛豫膜 57.0 μC/cm²），作者认为缺陷、对称性变化等计算未计入因素进一步弱化了应变效应。
-  10. 机制对比：BaTiO₃ 的 Ti 3d–O 2p 位移型铁电对应变[[../concepts/strong-coupling|强耦合]]；BiFeO₃ 的 Bi 6s² [[../concepts/lone-pair-ferroelectricity|[[../concepts/lone-pair-electrons|孤对电子]][[../concepts/driven-ferroelectricity|驱动[[../concepts/ferroelectricity|铁电性]]]]]]由局域化学键合决定，对全晶格尺度应变不敏感，这是其高极化鲁棒性的根源。
+  10. 机制对比：BaTiO₃ 的 Ti 3d–O 2p 位移型铁电对应变[[../concepts/strong-coupling|强耦合]]；BiFeO₃ 的 Bi 6s² [[../concepts/lone-pair-ferroelectricity|孤对电子[[../concepts/driven-ferroelectricity|驱动[[../concepts/ferroelectricity|铁电性]]]]]]由局域化学键合决定，对全晶格尺度应变不敏感，这是其高极化鲁棒性的根源。

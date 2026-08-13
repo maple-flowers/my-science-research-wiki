@@ -11,12 +11,12 @@ paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/kresseInitiomolecularDynamicsLiquid1993]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-4, project-5, project-7]
 concepts: [density-functional-theory, machine-learning-potential]
 entities: [SnTe, VASP]
-methods: [dft, md, mlip]
+methods: [dft, md]
 materials: [SnTe]
-figures: [electronic-bands, mathematical-models]
+figures: []
 领域基础知识:: >-
   从头算分子动力学（AIMD）结合密度泛函理论（DFT）和分子动力学模拟，不依赖经验参数。
 研究背景:: >-
@@ -41,18 +41,10 @@ tags:
   - paper
   - type/theory
   - year/1993
-  - project/project-1
-  - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/weak
   - project/project-4
   - relevance/project-4/medium
   - project/project-5
   - relevance/project-5/strong
-  - project/project-6
-  - relevance/project-6/medium
   - project/project-7
   - relevance/project-7/medium
   - concept/density-functional-theory
@@ -65,12 +57,9 @@ tags:
   - material/SnTe
   - topic/charge-density-wave
   - topic/ferroelectricity
-  - topic/humidity-sensing
   - topic/ml-interatomic-potential
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/phase-transition
-  - topic/two-photon-fluorescence
 ---
 
 ## kresseInitiomolecularDynamicsLiquid1993 — 液态金属的从头算分子动力学
@@ -143,12 +132,8 @@ raw/figures 中未提取到图片文件（manifest.json 的 figures 数组为空
   - **project-6 湿度传感器**：无直接项目连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
 - 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
 - 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词

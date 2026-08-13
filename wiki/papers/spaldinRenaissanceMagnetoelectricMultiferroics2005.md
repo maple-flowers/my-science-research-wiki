@@ -7,16 +7,16 @@ year: 2005
 journal: "Science"
 doi: "10.1126/science.1113357"
 url: "https://doi.org/10.1126/science.1113357"
-paper_type: perspective
+paper_type: review
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/spaldinRenaissanceMagnetoelectricMultiferroics2005]]
-projects: [project-1, project-2]
+projects: [project-2]
 concepts: [ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, strain-engineering]
 entities: [BiFeO3, HoMnO3, domain-wall]
 methods: []
 materials: [BiFeO3, HoMnO3, domain-wall]
-figures: [crystal-structures, domain-walls, mathematical-models]
+figures: []
 领域基础知识:: >-
   多铁性材料（Multiferroics）是同时具有两种或以上铁性（如铁磁性、铁电性、铁弹性）的单相化合物。磁电效应（Magnetoelectric Effect）特指电场控制磁化或磁场控制电极化的交叉耦合，是多铁性材料最受关注的功能。传统铁电性（需要空d轨道）和铁磁性（需要部分填充d轨道）在离子尺度上相互排斥。
 研究背景:: >-
@@ -41,8 +41,6 @@ tags:
   - paper
   - type/perspective
   - year/2005
-  - project/project-1
-  - relevance/project-1/medium
   - project/project-2
   - relevance/project-2/core
   - concept/ferroelasticity
@@ -63,7 +61,6 @@ tags:
   - topic/polarization
   - topic/strain-engineering
   - topic/topological-defects
-  - topic/two-photon-fluorescence
 ---
 
 ## spaldinRenaissanceMagnetoelectricMultiferroics2005 — 磁电多铁性的复兴（The Renaissance of Magnetoelectric Multiferroics）
@@ -118,7 +115,6 @@ Nicola A. Spaldin、Manfred Fiebig，2005，*Science* 309(5733), 391–392，DOI
   - 其余项目无直接连接（project-1 双光子仅因 PDF 提取时混入了同页神经科学 Perspective 文本，与本文无关）。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词

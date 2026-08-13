@@ -11,12 +11,12 @@ paper_type: review
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/fiebigEvolutionMultiferroics2016]]
-projects: [project-1, project-2]
+projects: []
 concepts: [ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, topological-defects]
 entities: [BiFeO3, HoMnO3, domain-wall]
 methods: [xrd]
 materials: [BiFeO3, HoMnO3, domain-wall]
-figures: [crystal-structures, domain-walls, electronic-devices, experimental-setups, heterostructures-stacking, mathematical-models, optical-spectra]
+figures: [domain-walls-structures, electronic-bands-cdw-transport, mathematical-models-magnetoelectric]
 领域基础知识:: >-
   多铁性材料（Multiferroics）是同时存在铁电序（Ferroelectric Order）和磁序（Magnetic Order）的化合物。核心研究目标是利用电场控制磁性，以实现低功耗、高速的信息存储与处理。该领域涉及凝聚态物理、材料科学与器件物理的交叉，其核心挑战在于传统材料中铁电性（需空d轨道）与磁性（需未满d轨道）的相互排斥性。
 研究背景:: >-
@@ -41,10 +41,6 @@ tags:
   - paper
   - type/review
   - year/2016
-  - project/project-1
-  - relevance/project-1/weak
-  - project/project-2
-  - relevance/project-2/medium
   - concept/ferroelasticity
   - concept/magnetoelectric-coupling
   - concept/multiferroicity
@@ -69,7 +65,6 @@ tags:
   - topic/polarization
   - topic/strain-engineering
   - topic/topological-defects
-  - topic/two-photon-fluorescence
 ---
 
 ## fiebigEvolutionMultiferroics2016 — 多铁性的演化（The evolution of multiferroics）
@@ -109,12 +104,7 @@ Manfred Fiebig、Thomas Lottermoser、Dennis Meier、Morgan Trassin（ETH Züric
   - 实体 [[../entities/LuFe2O4|LuFe₂O₄]]
   - 实体 [[../entities/SrMnO3|SrMnO₃]]
   - 图表 [[../figures/domain-walls]]
-  - 图表 [[../figures/crystal-structures]]
-  - 图表 [[../figures/heterostructures-stacking]]
-  - 图表 [[../figures/optical-spectra]]
-  - 图表 [[../figures/electronic-devices]]
   - 图表 [[../figures/mathematical-models]]
-  - 图表 [[../figures/experimental-setups]]
   - 年度 [[../write/2016]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 主题 [[多铁性材料]]
@@ -125,35 +115,33 @@ wiki 中没有、但值得新建的概念或材料实体：
   - 实体 `Cr2O3.md`：非多铁但具时空反演双破缺，展示线性磁电效应、铁涡旋性、磁准单极子与最早NDD。
   - 实体 `CaMn7O12.md`：铁轴磁体，逆DM机制下极化最高之一（0.3 μC/cm²）。
 ## 📊 关键图表
-  - ![图1 四种多铁性机制：孤对电子、几何、电荷有序、自旋驱动（逆DM/交换伸缩/p-d杂化）](../../raw/figures/fiebigEvolutionMultiferroics2016/fig_1_DQ5C86TF.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图1 四种多铁性机制：孤对电子、几何、电荷有序、自旋驱动（逆DM/交换伸缩/p-d杂化）](../../raw/figures/fiebigEvolutionMultiferroics2016/fig_1_DQ5C86TF.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
     - **图示描述**：以四个子图示意磁序与铁电长程序共存的四种微观机制：(a) BiFeO₃中Bi³⁺ 6s²孤对电子不对称分布形成局域偶极；(b) h-RMnO₃中MnO₅双锥倾斜挤压R³⁺位移；(c) LuFe₂O₄中Fe²⁺/Fe³⁺电荷有序；(d) 自旋驱动的三条路径（逆DM、交换伸缩、自旋依赖p-d杂化）。
     - **关键特征**：孤对电子机制给出Ps≈100 μC/cm²（应变下达150），Tc=1103 K、TN=643 K，是唯一室温单相多铁；几何机制Ps=5.6 μC/cm²、Tc≥1200 K但TN≤120 K；电荷有序声称约25 μC/cm²但铁电性至今存争议；自旋驱动由P∝eij×(Si×Sj)、P∝Rij(Si·Sj)、P∝(Si·eij)²eij三个公式统一描述。
     - **结论/意义**：该图是全文的"家族谱系图"，确立了I类（a-c独立起源）与II类（d磁致铁电）分类，是理解各材料体系物理根源的基石。
-  - ![图2 不同机制单相多铁材料最大极化值对比（对数轴，BiFeO3~100、LuFe2O4~25、h-YMnO3~5.6、自旋驱动<1 μC/cm²）](../../raw/figures/fiebigEvolutionMultiferroics2016/fig_2_YBF93IC6.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图2 不同机制单相多铁材料最大极化值对比（对数轴，BiFeO3~100、LuFe2O4~25、h-YMnO3~5.6、自旋驱动<1 μC/cm²）](../../raw/figures/fiebigEvolutionMultiferroics2016/fig_2_YBF93IC6.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
     - **图示描述**：纵轴为最大自发极化值Ps（对数刻度，单位μC/cm²），按四大机制分组比较代表性单相多铁材料的极化强度。
     - **关键特征**：孤对电子BiFeO₃约100 μC/cm²居首；电荷有序LuFe₂O₄约25 μC/cm²但标注争议；几何h-YMnO₃约5.6 μC/cm²；自旋驱动类普遍<1 μC/cm²，其中共线交换伸缩约1 μC/cm²、CaMn₇O₁₂约0.3 μC/cm²、逆DM螺旋相约0.1 μC/cm²。
     - **结论/意义**：量化揭示I类"强铁电弱耦合"与II类"强耦合弱极化"的张力，指出提高自旋驱动体系极化与有序温度是材料设计核心挑战。
-  - ![图3 多铁薄膜架构：交换耦合、应变耦合（3D传递型）与多铁界面、多铁畴壁（2D受限型）](../../raw/figures/fiebigEvolutionMultiferroics2016/fig_3_53RYW3RI.png) -> [[../figures/domain-walls|畴与畴壁结构]]
+  - ![图3 多铁薄膜架构：交换耦合、应变耦合（3D传递型）与多铁界面、多铁畴壁（2D受限型）](../../raw/figures/fiebigEvolutionMultiferroics2016/fig_3_53RYW3RI.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
     - **图示描述**：四种薄膜/异质结策略示意：(a) 交换耦合（FE/AFM多铁层/FM通过界面J传递）；(b) 应变耦合（压电↔磁致伸缩，应力σ传递）；(c) 多铁性仅存在于ε/μ两材料的二维界面；(d) 多铁性仅存在于单晶内部A⁺/A⁻畴之间的畴壁。
     - **关键特征**：(a)(b)属3D传递型，多铁性来自体相复合，BiFeO₃-CoFe已演示室温可重复电场翻转磁化；(c)(d)属2D受限型，多铁性由对称性破缺"凭空"出现在界面或畴壁；衬底外延应窗口约±0.1%可调。
     - **结论/意义**：标志研究从三维块材走向原子级界面，指明从"发现多铁材料"到"设计多铁功能"的范式转变。
-  - ![图4 I类与II类多铁中畴与畴壁的对比：II类中每个铁电畴壁必为磁畴壁](../../raw/figures/fiebigEvolutionMultiferroics2016/fig_4_XAGRJUG2.png) -> [[../figures/domain-walls|畴与畴壁结构]]
+  - ![图4 I类与II类多铁中畴与畴壁的对比：II类中每个铁电畴壁必为磁畴壁](../../raw/figures/fiebigEvolutionMultiferroics2016/fig_4_XAGRJUG2.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
     - **图示描述**：红线为铁电畴壁、蓝线为磁畴壁，对比I类（磁电独立）与II类（电由磁生）中两类畴壁的重合关系。
     - **关键特征**：I类中P畴与M畴图案可互不重合，畴壁各自独立；只有部分区域巧合重合才形成多铁畴壁（橙线）。II类中由于铁电由磁序诱导，对称性强制每一个铁电畴壁同时是磁畴壁，所有畴壁"天生"多铁。
     - **结论/意义**：从微观畴结构解释了为何II类磁电耦合远强于I类，并为h-YMnO₃中SHG观测到的畴壁磁电耦合提供模型，是畴壁工程学的理论依据。
-  - ![图5 晶胞中磁环矩（T=Σri×Si）、铁涡旋畴与磁单极子自旋排列](../../raw/figures/fiebigEvolutionMultiferroics2016/fig_5_RQV3IESF.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图5 晶胞中磁环矩（T=Σri×Si）、铁涡旋畴与磁单极子自旋排列](../../raw/figures/fiebigEvolutionMultiferroics2016/fig_5_RQV3IESF.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
     - **图示描述**：三个子图展示时空反演双破缺衍生的高阶自旋织构：(a) 晶胞内六自旋首尾相接形成涡旋，定义环矩T=Σᵢ rᵢ×Sᵢ；(b) 相反环矩取向构成铁涡旋畴结构；(c) 自旋由一点向外辐射或向内汇聚，呈磁单极准粒子排列。
     - **关键特征**：磁环矩同时破坏空间反演与时间反演，被提为继铁电、铁磁、铁弹之后第四种初级铁性序；LiCoPO₄中可用正交电磁场组合的环向场翻转畴；Cr₂O₃等体系最早展示相关NDD与磁电响应。
     - **结论/意义**：说明多铁性研究的深层物理是对称性双破缺，并将其延伸到铁涡旋性、磁单极准粒子等基础新物态，已外溢到高能物理与宇宙学。
-  - ![图6 回旋自旋结构中的电磁振子：不同自旋激发模式对应不同极化振荡](../../raw/figures/fiebigEvolutionMultiferroics2016/fig_6_YGJN2WD3.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图6 回旋自旋结构中的电磁振子：不同自旋激发模式对应不同极化振荡](../../raw/figures/fiebigEvolutionMultiferroics2016/fig_6_YGJN2WD3.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
     - **图示描述**：灰色箭头为易平面内的回旋自旋静态结构（由逆DM产生z方向极化P），四个子图分别展示不同磁振子激发模式：(a) 平面内摆动但P不变；(b) 同时调制对称与反对称交换导致P振幅空间调制；(c)(d) 易平面绕y或z轴旋转引起P方向或振幅变化。
     - **关键特征**：仅(b)(d)类激发伴随电极化振荡，才是真正的电磁振子；最早在o-TbMnO₃/o-GdMnO₃中报道，且o-GdMnO₃中可在多铁相之外出现；GaFeO₃中相关NDD达Δα/α≈1.6×10⁻³，Ba₂CoGe₂O₇太赫兹段达Δα/α≈1。
     - **结论/意义**：揭示磁电耦合的动力学一面，证明电磁振子与NDD是对称性产物而非多铁性专属，为太赫兹磁光器件与皮秒级全光控磁奠定基础。
 ## 🔬 项目连接
 project-2 Mn多铁 直接相关——本综述系统讨论了 h-RMnO₃、o-TbMnO₃、TbMn₂O₅、Ca₃Mn₂O₇、SrMnO₃、LuMnO₃、MnWO₄、CaMn₇O₁₂ 等 Mn 基多铁体系的机制、畴壁与应变调控，可作为该项目的框架性参考。project-1 双光子 间接受益（二次谐波产生 SHG 是多铁畴成像的关键手段）。其余项目无直接连接。
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
 
 ## 📝 组织与用词
 全文按"历史播种（1950s–2000）→ 四大共存机制与I/II类分类 → 薄膜/异质结（交换耦合、应变、界面）→ 畴与畴壁 → 非平衡动力学 → 反演对称破缺（铁涡旋、磁单极、电磁振子、NDD）→ 对其他领域的影响 → 趋势与挑战"的链条展开，以"磁电互斥禁忌"为逻辑起点，以"对称性双破缺"贯穿深层物理，以"室温可重复电控磁化翻转"为应用圣杯。Box 1 集中定义 ferroic / magnetoelectric / multiferroic / magnetodielectric / domain 等术语。值得复用的关键词：

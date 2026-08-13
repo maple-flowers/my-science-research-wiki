@@ -11,7 +11,7 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/gorkovStrongElectronlatticeCoupling2012]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-5, project-7]
 concepts: [2D-materials, charge-density-wave]
 entities: [TMDs]
 methods: [arpes, dft, nmr, tight-binding]
@@ -41,18 +41,8 @@ tags:
   - paper
   - type/experiment
   - year/2012
-  - project/project-1
-  - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/strong
   - project/project-5
   - relevance/project-5/medium
-  - project/project-6
-  - relevance/project-6/medium
   - project/project-7
   - relevance/project-7/core
   - concept/2D-materials
@@ -66,7 +56,6 @@ tags:
   - topic/2d-materials
   - topic/charge-density-wave
   - topic/ferroelectricity
-  - topic/molecular-crystal
   - topic/phase-transition
   - topic/polarization
 ---
@@ -109,12 +98,7 @@ Lev P. Gor'kov，2012，Physical Review B 85, 165142，DOI: 10.1103/PhysRevB.85.
   - **project-4（TTF 分子计算）— 间接相关**：TTF-TCNQ 是经典准一维 CDW 体系，本文的强 e-ph 耦合重整化方法（格林函数按位移展开、精确求和单点所有阶、得到非谐局域势）为分子晶体中电声耦合与 Peierls/Migdal 失稳的分析提供了可迁移的解析范式，但 TTF 分子计算本身以 DFT 为主，直接参考价值有限。
   - project-1、project-2、project-3、project-6：无直接项目连接。
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
 - 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
@@ -129,7 +113,7 @@ Lev P. Gor'kov，2012，Physical Review B 85, 165142，DOI: 10.1103/PhysRevB.85.
   - 态密度（[[../concepts/density-of-states|density of states]], DOS）；能量尺度 T*=1/πν(E_F)
   - [[../concepts/order-disorder-vs-displacive-transition|order-disorder-vs-displacive-transition]]
 ## ✏️ 可写入 Wiki 的要点
-  1. **机制主张**：TMDC 中 CDW 是两阶段过程——(i) 强 e-ph 耦合使单个过渡金属离子的有效弹性势能形成双阱，体系等价于伊辛自旋 σ_i=±1；(ii) 低温下弱位点间相互作用使自旋有序化形成长程 CDW。这与传统[[../concepts/fermi-surface-nesting|[[../concepts/fermi-surfaces|费米面]]嵌套]]和鞍点机制预测的"费米能隙打开→绝缘化"根本不同。
+  1. **机制主张**：TMDC 中 CDW 是两阶段过程——(i) 强 e-ph 耦合使单个过渡金属离子的有效弹性势能形成双阱，体系等价于伊辛自旋 σ_i=±1；(ii) 低温下弱位点间相互作用使自旋有序化形成长程 CDW。这与传统[[../concepts/fermi-surface-nesting|费米面嵌套]]和鞍点机制预测的"费米能隙打开→绝缘化"根本不同。
   2. **核心公式（局域势）**：U_tot(u_i) = (1/πν(E_F))[ũ_i² − ln(1+Λ²ũ_i²)]（式15），其中 Λ² 为无量纲 e-ph 耦合常数（式13：g²=(Mω₀²/2πν(E_F))Λ²），ũ_i=u_i/u₀。Λ²>1 时在 ũ_{±}=±√(1−Λ⁻²) 处出现两个深极小值；Λ²<1 时为带四次非谐修正的单阱（式17）。
   3. **能隙尺度**：双阱深度与隧道谱 CDW 能隙由 T*=1/πν(E_F)=W/(2π) 决定，量级 0.1–0.3 eV；对 2H-NbSe₂，ν(E_F)=2.8 states/eV（每两条 Nb d 带，每原胞），与隧道实验测得的 ~90 meV（TaSe₂）、~60 meV（NbSe₂）吻合，远大于 k_B T_CDW。
   4. **金属性保留**：CDW [[../concepts/order-parameter|序参量]] gū_i(Q) 耦合 E(p) 与 E(p+Q) 态，在配对点附近将能带劈裂为 Ē_{1,2}=E(p±Q/2)±|gū_i(Q)|（式24），但因结构波矢 Q≈a*/3 与 Γ 中心费米面半径不匹配，能隙主要落在 E_F 之下的能带内部，费米面附近仍有载流子。

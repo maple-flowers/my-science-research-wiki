@@ -10,12 +10,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Wang2023ultracompact]]
-projects: [project-1]
+projects: []
 concepts: [nondiffracting-beams, mathieu-gauss-beams, two-photon-polymerization, phase-plate, spatial-filtering, orbital-angular-momentum, beam-shaping, vortex-wavefront]
 entities: [SZ-2080, spatial-light-modulator, metasurface, PHAROS-laser]
 methods: [femtosecond-laser-micromachining, two-photon-polymerization, layer-by-layer-scanning, sem, laser-confocal-microscopy, four-f-system, overlap-integral, numerical-simulation]
 materials: [SZ-2080, photoresist]
-figures: [experimental-setups, mathematical-models]
+figures: [experimental-setups, mathematical-models-simulations, optical-spectra]
 领域基础知识:: >-
   无衍射光束（Nondiffracting Beams）是光学中一类能在有限距离内保持横向光强分布不变的光束，典型代表有贝塞尔光束和马蒂厄光束。马蒂厄光束（Mathieu Beams）是亥姆霍兹方程在椭圆坐标系下的解，具有椭圆晶格状的横截面光场分布。飞秒激光双光子聚合（TPP）是一种利用飞秒激光脉冲在光敏树脂中引发双光子吸收，从而实现超越衍射极限的纳米级真三维加工技术。空间光调制器（SLM）是一种能对光波进行空间相位或振幅调制的液晶器件，常用于生成结构光束。
 研究背景:: >-
@@ -40,8 +40,6 @@ tags:
   - paper
   - type/experiment
   - year/2023
-  - project/project-1
-  - relevance/project-1/strong
   - concept/nondiffracting-beams
   - concept/mathieu-gauss-beams
   - concept/two-photon-polymerization
@@ -89,52 +87,52 @@ Wang Jue, Cai Chengkun, Fu Tianhao, Wang Kangrui, Liang Yize, Wang Jian（华中
   - 实体 `SZ-2080.md`：本文使用的有机-无机杂化光刻胶（折射率 n_p≈1.5，设计波长 1550 nm 时 π 相位对应高度 1.55 μm），TPP 常用材料。
 
 ## 📊 关键图表
-  - ![图1 偶/螺旋MG光束生成原理（相位调制+4-f滤波+传播不变性模拟）](../../raw/figures/Wang2023ultracompact/fig_1_UAN2BY4E.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图1 偶/螺旋MG光束生成原理（相位调制+4-f滤波+传播不变性模拟）](../../raw/figures/Wang2023ultracompact/fig_1_UAN2BY4E.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
   - **图示描述**：分组(a1-c1)为偶 MG 光束(m=2, q=12)、(a2-c2)为螺旋 MG 光束(m=3, q=2)的生成原理数值模拟；(a) 为 1550 nm 高斯光加载马蒂厄相位后经 f1=30 mm 透镜得到的环状傅里叶谱，(b) 为环形狭缝滤波后经 f2=300 mm 透镜重构的横向光强，(c) 为沿传播轴 z 的强度分布。
   - **关键特征**：未滤波谱含主环加多个外围弱环，理想马蒂厄光束谱仅有一条无限细主环；主环半径 R=k_tλf1/(2π)、宽度 ΔR=2λf1/(ω0π)；重构光斑已近似理想椭圆晶格/椭圆环；(c) 显示横向模式在有限距离内保持不变，即传播不变性；仿真中焦距 c 分别取 50 μm(偶)与 19 μm(螺旋)。
   - **结论/意义**：该图奠定"相位调制+4-f 系统空间滤波"的整文方法学框架，从理论上证明 MG 光束可由高斯光束经 MPP 与双透镜系统产生。
 
-  - ![图2 飞秒激光TPP平台与偶相位板（m=2,q=12）设计/SEM/实测高度，误差~0.2μm](../../raw/figures/Wang2023ultracompact/fig_2_P5YTRJBX.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图2 飞秒激光TPP平台与偶相位板（m=2,q=12）设计/SEM/实测高度，误差~0.2μm](../../raw/figures/Wang2023ultracompact/fig_2_P5YTRJBX.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：(a)(b) 飞秒激光 TPP 制造平台光路示意，(c) 偶 MPP(m=2,q=12)的二元(0/π)相位设计，(d) 玻璃基底上多枚 MPP 阵列的显微照片，(e) 单枚 MPP 的 SEM 图，(f)(g) 设计与实测三维高度分布对比（高度放大 20× 显示）。
   - **关键特征**：光源为 PHAROS 飞秒激光器（515 nm、340 fs、200 kHz），经 Zeiss 63×/NA1.4 油镜聚焦于 SZ-2080 光刻胶；预烘 100 °C/30 min，显影甲基异丁基酮 10 min + 异丙醇 5 min；设计波长 λ=1.55 μm、n_p=1.5，由 h=λφ/[2π(n_p−1)] 得 0/π 对应 0/1.55 μm；器件尺寸 300 μm×300 μm；实测与设计高度吻合，表面高度误差约 0.2 μm。
   - **结论/意义**：首次以 TPP 三维直写出与设计高度一致的偶 MPP，证明该工艺可把连续相位映射成纳米精度的真实三维形貌。
 
-  - ![图3 螺旋相位板（m=3,q=2）设计相位、SEM与逐层台阶状实测高度](../../raw/figures/Wang2023ultracompact/fig_3_VUFTF2IG.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图3 螺旋相位板（m=3,q=2）设计相位、SEM与逐层台阶状实测高度](../../raw/figures/Wang2023ultracompact/fig_3_VUFTF2IG.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：(a) 螺旋 MPP(m=3,q=2)的连续相位设计，呈现多同心环与螺旋波前拓扑；(b) 制造后螺旋 MPP 的 SEM 图像；(c) 激光共聚焦显微镜实测的三维高度分布（高度放大 5× 显示）。
   - **关键特征**：螺旋相位非二元、沿角向连续卷绕，对应涡旋波前与轨道角动量；实测形貌清晰可见 TPP 逐层扫描留下的台阶状结构（离散化误差来源）；结构比偶 MPP 更复杂，但整体环带轮廓仍与设计一致。
   - **结论/意义**：证明 TPP 不仅能做二元相位板，也能直写具有连续/涡旋相位的真三维元件，为螺旋 MG 光束的产生提供硬件基础。
 
-  - ![图4 整体高度误差与相位离散化误差对偶/螺旋光束重叠积分和效率的影响](../../raw/figures/Wang2023ultracompact/fig_4_4Y53N3SH.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图4 整体高度误差与相位离散化误差对偶/螺旋光束重叠积分和效率的影响](../../raw/figures/Wang2023ultracompact/fig_4_4Y53N3SH.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：(a)(b) 示意两类制造误差——(a)整体相位调制深度按比例缩放（如 0/π 变成 0/0.9π），(b)逐层扫描造成的相位离散化（连续曲面变成 31 级台阶）；(c)(d) 分别对偶 MG 与螺旋 MG 给出重叠积分(红圆)和效率(橙方块)随相位调制深度的变化曲线，并附 1.8π/2.0π/2.2π 处的光强小图。
   - **关键特征**：31 级离散化下偶马蒂厄光束重叠积分在所有调制深度均 >99.5%；偶光束效率在调制深度 <2.2π 时随深度单调上升、之后缓降；螺旋光束的重叠积分与效率在约 2.1π（而非理想 2π）处同时达到峰值，原因是离散化使最优相位调制深度偏移；标记上误差棒表示不同离散级数（如 15 级、31 级、连续）带来的偏差；无离散化的理想连续相位下两种光束都在 2π 取极大。
   - **结论/意义**：定量证明 TPP 固有的高度/离散化误差对光束质量影响极小，为工艺鲁棒性提供了直接数据支撑。
 
-  - ![图5 4-f系统实验表征光路（BE→MPP→L1→RS→L2→RAP→CCD）](../../raw/figures/Wang2023ultracompact/fig_5_7PBM4FCJ.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图5 4-f系统实验表征光路（BE→MPP→L1→RS→L2→RAP→CCD）](../../raw/figures/Wang2023ultracompact/fig_5_7PBM4FCJ.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：MG 光束产生与表征的 4-f 实验光路：准直激光经扩束器(BE)照射 MPP，L1(f=30 mm)后焦面放环形狭缝(RS)做空间滤波，L2(f=300 mm)重构并放大光束至 CCD 靶面；平移台上的直角棱镜(RAP)作光学延迟线以扫描轴向强度。
   - **关键特征**：L1 与 L2 焦距比 1:10，将 300 μm 相位板图案放大到 CCD 可分辨尺寸；RAP 沿轴向移动等效改变传播距离 Z，是图8/图10 轴向强度测量的硬件实现；光路元件顺序即论文所有光学表征（图6–10）的统一装置。
   - **结论/意义**：把纳米尺度 MPP 与宏观光束测量对接起来，是后续频谱、横向光强与长距离传播不变性数据的测试基础。
 
-  - ![图6 不同m,q偶MG光束实测傅里叶频谱（主环+中心低频亮斑）](../../raw/figures/Wang2023ultracompact/fig_6_2GF3S7IT.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图6 不同m,q偶MG光束实测傅里叶频谱（主环+中心低频亮斑）](../../raw/figures/Wang2023ultracompact/fig_6_2GF3S7IT.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：3×3 阵列展示 m=0,1,2、q=12,24,36 共九组偶 MPP 在 L1 后焦面（傅里叶面）实测的光强分布。
   - **关键特征**：每组都有清晰的环形主谱，与图1(a1)模拟的环结构一致；所有环中心额外出现亮斑，论文解释为入射高斯光斑略大于 MPP、未调制部分衍射到低频分量所致；环半径随 q 与横向波矢 k_t 变化，反映不同椭圆参数下马蒂厄谱的几何差异；中心亮斑只影响效率，不影响滤波后光束的形态。
   - **结论/意义**：从频谱层面验证 MPP 确实把高斯光转换成了马蒂厄谱，并定位了效率损失的物理来源。
 
-  - ![图7 不同m,q偶MG光束实测横向光强（椭圆晶格图案）](../../raw/figures/Wang2023ultracompact/fig_7_8R2524RD.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图7 不同m,q偶MG光束实测横向光强（椭圆晶格图案）](../../raw/figures/Wang2023ultracompact/fig_7_8R2524RD.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：与图6 参数一一对应（m=0,1,2；q=12,24,36），在 L2 后焦面（像面）用 CCD 记录的偶 MG 光束横向光强。
   - **关键特征**：每张子图都呈现椭圆网格/晶格状光斑，随 m 增加节点线增多、随 q 增大椭圆被拉得更扁，与式(2) Ce_m·ce_m 理论预测一致；m=2,q=12 光束实测能量效率约 40%，仿真值为 54.5%，差距主要来自入射高斯光超出 MPP 面积的额外损失；图样与仿真对比吻合度高。
   - **结论/意义**：在光束形貌层面证明 TPP 制备的偶 MPP 能高质量复现不同阶数与椭圆参数的 MG 光束。
 
-  - ![图8 偶MG光束（m=2,q=12）Z=100-800mm传播不变性](../../raw/figures/Wang2023ultracompact/fig_8_D2NF53YM.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图8 偶MG光束（m=2,q=12）Z=100-800mm传播不变性](../../raw/figures/Wang2023ultracompact/fig_8_D2NF53YM.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：以 m=2,q=12 偶 MG 光束为代表的传播不变性验证；(a) Z=100–800 mm、步长 100 mm 的横向光强序列（Z=0 为 L2 后焦面），(b) 用平移 RAP 测得的沿光轴(z)强度分布。
   - **关键特征**：横跨约 700 mm 距离内椭圆晶格图案的形状与尺度基本保持稳定；轴向强度剖面呈"光针"状近似均匀分布；等效无衍射距离约 800 mm，远大于同口径高斯光束瑞利长度；数据与图1(c1)仿真趋势一致。
   - **结论/意义**：实验确认所产生偶 MG 光束具有长距离无衍射特性，是器件性能达标的核心证据之一。
 
-  - ![图9 不同m,q螺旋MG光束实测光强（椭圆环，离心率随m增大）](../../raw/figures/Wang2023ultracompact/fig_9_DCPXH63U.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图9 不同m,q螺旋MG光束实测光强（椭圆环，离心率随m增大）](../../raw/figures/Wang2023ultracompact/fig_9_DCPXH63U.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：多组(m,q)参数下螺旋 MPP 经 4-f 系统产生的实测横向光强阵列。
   - **关键特征**：当 A_m(q)=B_m(q) 时螺旋光束表现为椭圆环状而非晶格，中心为暗斑（相位奇点/OAM 涡旋）；随阶数 m 增大，最内环的椭圆离心率增大，椭圆被拉长；q 改变则调节环半径与椭圆扁平度；所有图样与式(2)螺旋解的仿真吻合。
   - **结论/意义**：把器件能力从偶 MG 扩展到携带轨道角动量的螺旋 MG，证明 TPP 可制造涡旋波前元件。
 
-  - ![图10 螺旋MG光束（m=3,q=2）800mm传播不变性](../../raw/figures/Wang2023ultracompact/fig_10_7JWVFILZ.png) -> [[../figures/optical-spectra|光学与吸收光谱]]
+  - ![图10 螺旋MG光束（m=3,q=2）800mm传播不变性](../../raw/figures/Wang2023ultracompact/fig_10_7JWVFILZ.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：对 m=3,q=2 螺旋 MG 光束的传播不变性验证；(a) Z=100–800 mm 的横向光强序列，(b) 沿传播轴 z 的实测强度分布。
   - **关键特征**：椭圆环结构在约 700 mm 传播距离内保持尺度与形状不变，中心暗斑稳定存在；轴向剖面同样呈拉长的"光针"形态；与图8偶光束结果并列，说明传播不变性对偶/螺旋两类 MG 光束均成立。
   - **结论/意义**：完成对螺旋 MG 光束无衍射性能的闭环验证，连同图6–9共同表明 TPP-MPP 方案可在 300 μm 尺寸、100 nm 精度下同时实现高光束质量与长距离无衍射。
@@ -146,7 +144,6 @@ Wang Jue, Cai Chengkun, Fu Tianhao, Wang Kangrui, Liang Yize, Wang Jian（华中
   - project-2/3/4/5/6/7：无直接项目连接（本文为微纳光学/光束整形，与 Mn多铁、机械发光NN、TTF分子计算、SnTe铁电模拟、湿度传感、CDW 均无机制或方法交集）。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 
 ## 📝 组织与用词
 文章按"问题提出（SLM/全息/超表面的体积与像素化瓶颈）→ 理论设计（椭圆柱坐标下马蒂厄光束与 4-f 滤波模型）→ TPP 制造与误差量化 → 4-f 实验表征（频谱、横向分布、800 mm 传播不变性）→ 结论展望"的工程逻辑链展开，先建立理想马蒂厄光束无法实现、退而求有限能量 MG 光束的物理前提，再用重叠积分/效率双指标把工艺误差与光束质量定量挂钩，论证严密。值得复用的术语：

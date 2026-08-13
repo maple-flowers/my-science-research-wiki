@@ -11,12 +11,12 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/yanDecipheringStabilityTwodimensional2025]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: []
 concepts: [2D-materials, binding-strength, bond-density, deformation-potential, density-functional-theory, electron-counting-rule, lego-assembly]
 entities: [BAs, GaAs, GaSb, InSb, TMDs, VASP, h-BN]
 methods: [device-i-v, dft, mlip, stm-mbe]
 materials: [BAs, GaAs, GaSb, InSb, TMDs, h-BN]
-figures: [crystal-structures, electronic-bands, mathematical-models, vibrational-spectra]
+figures: []
 领域基础知识:: >-
   III-V族半导体（如GaAs, GaN）是光电子产业的核心材料，其 "二维化" 旨在通过量子限域效应获得更优性能，但面临因表面悬挂键导致的结构不稳定性难题。
 研究背景:: >-
@@ -41,20 +41,6 @@ tags:
   - paper
   - type/experiment
   - year/2025
-  - project/project-1
-  - relevance/project-1/medium
-  - project/project-2
-  - relevance/project-2/medium
-  - project/project-3
-  - relevance/project-3/medium
-  - project/project-4
-  - relevance/project-4/medium
-  - project/project-5
-  - relevance/project-5/medium
-  - project/project-6
-  - relevance/project-6/medium
-  - project/project-7
-  - relevance/project-7/medium
   - concept/2D-materials
   - concept/binding-strength
   - concept/bond-density
@@ -82,10 +68,7 @@ tags:
   - topic/2d-materials
   - topic/charge-density-wave
   - topic/ferroelectricity
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
-  - topic/two-photon-fluorescence
 ---
 
 ## yanDecipheringStabilityTwodimensional2025 — 解读二维III-V半导体的稳定性：积木及其多功能组装
@@ -161,13 +144,6 @@ Yuan Yan, Kaiyun Chen, Minglei Sun, Minglei Sun, Yinchang Ma, Peiyao Wang, Junka
 无直接项目连接。笔记虽被归入"06_单层 CDW 与维度效应"分类，但本文主题是 III-V 半导体二维化的稳定性与迁移率，与 project-1 双光子、project-2 Mn多铁、project-3 机械发光NN、project-4 TTF分子计算、project-5 SnTe铁电模拟、project-6 湿度传感器、project-7 CDW 均无直接重叠；方法论（DFT+ML+形变势迁移率）可被 project-5 及 topic Z01 借鉴。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
-- 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
-- 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
   论证沿"历史困境（黑暗中射击）→ 数据驱动解构（DBSCAN 发现积木）→ 化学机理（轨道杂化+ECR）→ LEGO 理性组装（TT/E2/E4）→ 能量回归验证（线性叠加，四面体贡献2-3倍于三角形）→ 性能兑现（TT 超高迁移率，形变势骤降）"推进，形成"观察-建模-设计-验证-预测"闭环，并在结尾把规则推广到 II-VI、IV 族。值得复用的术语：
@@ -183,7 +159,7 @@ Yuan Yan, Kaiyun Chen, Minglei Sun, Minglei Sun, Yinchang Ma, Peiyao Wang, Junka
   - 声子散射 / phonon scattering；电声耦合 / electron-phonon (electroacoustic) coupling
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 历史趋势：二维 III-V 最稳定结构随预测时间推移"对称性降低、晶胞原子数增多"——屈曲蜂窝 P3m1（2 原子）→ NB 结构 P2/m（8 原子），与[[../entitys/graphene|石墨烯]]中高对称更稳定的直觉相反；驱动力是消除悬挂键。
+  1. 历史趋势：二维 III-V 最稳定结构随预测时间推移"对称性降低、晶胞原子数增多"——屈曲蜂窝 P3m1（2 原子）→ NB 结构 P2/m（8 原子），与[[../entities/graphene|石墨烯]]中高对称更稳定的直觉相反；驱动力是消除悬挂键。
   2. 积木分类（DBSCAN 对键长-键角聚类）：III 族中心聚成三类——三角形（~120°, sp²）、四面体（~109.5°, sp³）、扭曲三角形（107–117°）；V 族中心除上述三类外还有伞状、金字塔状等，共占 39%，呈"非定向胶水"特征。III 族原子序数增大（B→In），扭曲三角形比例由 35.3% 降至 20.0%，规则三角形由 29.4% 升至 43.3%。
   3. ECR 机理：四面体积木中成键前一个电子从 X(V) 转移到 M(III)，随后各成四键满足八隅律；平面三角形中 M 发生 sp³→sp² 杂化，M 悬挂键轨道为空、X 悬挂键轨道饱和；扭曲三角形中 M 三个 sp³ 电子成键、一个 sp³ 轨道空置——三者均满足[[../concepts/electron-counting-rule|电子计数规则]]。
   4. 组装规则：纯三角形经"Pop-It"式上下翻转顶点可得 Z13（zigzag 方向一列上、三列下）、Z33、A21（armchair 方向）、A11(=V形)、Z22(=扶手椅形)；纯四面体共棱组装得 E2（共2棱）、E4（共4棱）；混合得 TT（矩形对称，4M+4X/晶胞，MX₃表面+MX₄内部）。

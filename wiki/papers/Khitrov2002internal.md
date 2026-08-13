@@ -6,7 +6,7 @@ year: 2002
 journal: "MRS Bulletin"
 doi: "10.1557/mrs2002.84"
 url: "https://doi.org/10.1557/mrs2002.84"
-paper_type: perspective
+paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Khitrov2002internal]]
@@ -15,7 +15,7 @@ concepts: [two-photon-excitation, photoluminescence-mapping, vls-growth, nanowir
 entities: [ZnSe, GaN, carbon-nanotube, Si-SiGe-nanowire, Ti-sapphire-laser, PMMA]
 methods: [two-photon-microscopy, photoluminescence-imaging, pulsed-laser-ablation, vls-growth, e-beam-lithography, afm-nanomechanics, electroluminescence]
 materials: [ZnSe, GaN, Si-SiGe, carbon-nanotube]
-figures: [experimental-setups, optical-spectra]
+figures: []
 领域基础知识:: >-
   纳米线（nanowire）是通过气-液-固（VLS）等机制生长的一维单晶半导体结构；超晶格（superlattice）是由两种不同材料周期性交替排列形成的量子结构；双光子激发（two-photon excitation）是利用低于带隙能量的光子，在焦点处通过双光子吸收实现局域激发；稀土掺杂GaN是指在氮化镓中掺入稀土离子以产生特征发光。
 研究背景:: >-
@@ -130,7 +130,7 @@ Greg Khitrov et al.，2002，MRS Bulletin，27(4), 285，DOI: 10.1557/mrs2002.84
   - **sacrificial layer (PMMA) / 牺牲层（聚甲基丙烯酸甲酯）**
   - **lateral color integration / 横向颜色集成**
 ## ✏️ 可写入 Wiki 的要点
-  1. [[../concepts/two-photon-excitation|[[../concepts/biphoton|双光子]]激发]] PL 成像：日本静冈大学 Y. Kawata 等首次用双光子激发激光扫描显微镜获得多晶 ZnSe 内部缺陷三维图像，深度达表面下 200 μm（Optics Letters, 2002-03-01）。
+  1. [[../concepts/two-photon-excitation|双光子激发]] PL 成像：日本静冈大学 Y. Kawata 等首次用双光子激发激光扫描显微镜获得多晶 ZnSe 内部缺陷三维图像，深度达表面下 200 μm（Optics Letters, 2002-03-01）。
   2. 光路参数：200 mW Ti:sapphire 激光器，790 nm 波长，80 fs 脉冲；经扩束器与物镜聚焦；样品为 5 mm×5 mm×3 mm 多晶 ZnSe，置于 50 nm 精度的三维平移台上；二向色镜+干涉滤光片分离激发光与 PL，PMT 探测强度。
   3. 三维局域化原理：790 nm 光子能量远低于 ZnSe 带隙，单光子不被吸收；仅在焦点处光子密度足够高时发生[[../concepts/two-photon-absorption|双光子吸收]]，因此激发被严格限制在焦点三维小体积内，天然具备光学切片能力。
   4. 缺陷衬度：杂质、空腔、裂纹等吸收或衍射 PL，在扫描图像中表现为暗区，据此构建缺陷图。

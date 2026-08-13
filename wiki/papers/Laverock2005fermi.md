@@ -15,7 +15,7 @@ concepts: [charge-density-wave, fermi-surface-nesting, bilayer-splitting, genera
 entities: [GdTe3, LuTe3, LuTe2, RTe3]
 methods: [lmto, dft, first-principles, 2d-acar, positron-annihilation, arpes, lcw-folding, maximum-entropy-deconvolution]
 materials: [GdTe3, LuTe3, LuTe2, RTe3]
-figures: [crystal-structures, electronic-bands, mathematical-models, fermi-surfaces]
+figures: [crystal-structures-bulk, electronic-bands-band-structures, electronic-bands-cdw-transport, electronic-bands-dos-fermi]
 领域基础知识:: >-
   凝聚态物理中，低维金属的费米面嵌套（Fermi Surface Nesting）是驱动电荷密度波（CDW）形成的一种经典机制。费米面上大段平行的部分可由一个波矢q连接，导致电子系统失稳并形成周期性电荷密度调制。
 研究背景:: >-
@@ -80,14 +80,14 @@ J. Laverock, S. B. Dugdale, Zs. Major, M. A. Alam, N. Ru, I. R. Fisher, G. Santi
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2D-materials]]、[[../concepts/fermi-surface-nesting|费米面嵌套]]、[[../concepts/bilayer-splitting|双层劈裂]]、[[../concepts/generalized-susceptibility|广义磁化率]]、[[../concepts/2d-acar|2D-ACAR]]、[[../concepts/commensurate-incommensurate|公度-非公度]]、[[../concepts/fermi-surfaces|费米面]]
   - 实体 [[../entities/RTe3|RTe₃ 稀土三碲化物]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/mathematical-models]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]
   - 年度 [[../write/2005]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/Laverock2005fermi]]
 ## 🆕 新概念/实体建议
   - `GdTe3.md`、`LuTe3.md`、`LuTe2.md`（实体）：本文实验/计算所用具体材料，相关页面尚未建立。
 ## 📊 关键图表
-  - ![图1 RTe2与RTe3晶体结构对比，RTe3中双Te方平面夹于RTe层之间](../../raw/figures/Laverock2005fermi/fig_1_FRREPGHI.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图1 RTe2与RTe3晶体结构对比，RTe3中双Te方平面夹于RTe层之间](../../raw/figures/Laverock2005fermi/fig_1_FRREPGHI.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：对比展示 (a) RTe₂（四方反-Cu₂Sb 结构，空间群 P4/nmm）与 (b) RTe₃（层状 NdTe₃ 结构，空间群 Cmcm）的晶体结构，晶体学 b 轴为长轴。RTe₃ 的关键特征是两层正方平面排列的 Te 原子层被夹在惰性的 RTe 板层之间。
   - **关键特征**：RTe₃ 中双 Te 方平面是后续双层劈裂与费米面嵌套的结构前提；RTe 板层近似惰性，导电电子主要集中在 Te 5p 平面；电阻率各向异性 ρa/ρb 在 SmTe₃ 中高达约 5000，印证了准二维性。
   - **结论/意义**：此图确立了 RTe₃ 作为准二维 CDW 模型体系的结构基础，也是将 RTe₂（单层 Te 平面、公度 CDW）作为对照基准的依据。
@@ -95,15 +95,15 @@ J. Laverock, S. B. Dugdale, Zs. Major, M. A. Alam, N. Ru, I. R. Fisher, G. Santi
   - **图示描述**：LMTO-ASA 计算的 LuTe₂ 沿第一布里渊区高对称路径（Γ-X-N-Z-Γ-Y-M-R-…）的电子能带结构；纵轴为相对费米能级的能量 E − E_F（单位 eV），EF = 0 以横线标出。
   - **关键特征**：共有三条能带穿过 EF，主要由平面 Te 层的 5p 轨道贡献；沿 [010] 方向（Γ−Y、N−R）色散极小、能带近乎平坦，证实层间耦合很弱、电子结构强准二维；其中两条能带对应菱形费米面片，第三条仅刚穿过 EF，对计算细节敏感。
   - **结论/意义**：为 LuTe₂ 的公度嵌套提供能带层面的依据，并作为方法可靠性基准，再过渡到 LuTe₃ 的双层劈裂讨论。
-  - ![图3 LuTe2计算费米面：菱形嵌套片、公度嵌套矢量q=(1/2)a*及Y点空穴口袋](../../raw/figures/Laverock2005fermi/fig_3_QW7G5HW5.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图3 LuTe2计算费米面：菱形嵌套片、公度嵌套矢量q=(1/2)a*及Y点空穴口袋](../../raw/figures/Laverock2005fermi/fig_3_QW7G5HW5.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：(a) 穿过 Γ 点的 (010) 平面上 LuTe₂ 的计算费米面，箭头标出公度嵌套矢量；(b) 负责嵌套的单一菱形（钻石形）费米面片；(c) 以 Y 点为中心的小型空穴口袋。Γ 点位于布里渊区中心。
   - **关键特征**：两片菱形费米面拥有大段平行边，构成嵌套的理想几何条件；箭头所示嵌套矢量为 q = (1/2) a*，对应 (2×1×1) 公度超结构；Y 点空穴口袋尺寸小、对计算细节敏感，与嵌套矢量无关。
   - **结论/意义**：在已知公度 CDW 的 RTe₂ 中复现 q = (1/2) a*，验证 LMTO 计算方法可靠，为后续 RTe₃ 非公度嵌套的对比奠定基准。
-  - ![图4 LuTe3电子能带结构，双Te层耦合导致双层劈裂](../../raw/figures/Laverock2005fermi/fig_4_KAHH2V8W.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图4 LuTe3电子能带结构，双Te层耦合导致双层劈裂](../../raw/figures/Laverock2005fermi/fig_4_KAHH2V8W.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
   - **图示描述**：与图 2 相同高对称路径下，LMTO 计算的 LuTe₃ 电子能带结构；纵轴仍为 E − E_F（eV），图中放大部分突出穿过 EF 能带的细微劈裂。
   - **关键特征**：与 LuTe₂ 相比，穿过 EF 的 Te 5p 能带因两个不等价正方 Te 平面之间的耦合而发生双层劈裂（bilayer splitting）；沿 [010] 仍保持弱色散，准二维性不变；该劈裂在 CeTe₃、SmTe₃ 的 ARPES 实验中已被报道。
   - **结论/意义**：双层劈裂是理解 RTe₃ 费米面由单片菱形变为内外两片、嵌套矢量由公度 1/2 转为非公度 ≈2/7 的关键能带学原因。
-  - ![图5 LuTe3计算费米面：内外菱形片间非公度嵌套q~(2/7)a*及X点电子口袋](../../raw/figures/Laverock2005fermi/fig_5_ZNXQ9ZJB.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图5 LuTe3计算费米面：内外菱形片间非公度嵌套q~(2/7)a*及X点电子口袋](../../raw/figures/Laverock2005fermi/fig_5_ZNXQ9ZJB.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：(a) 穿过 Γ 点的 (010) 平面上 LuTe₃ 的计算费米面，箭头标出非公度嵌套矢量；(b) 因双层劈裂形成的内外两个菱形费米面片；(c) 位于 X 点的两个电子口袋，高对称点标注与图 3 一致。
   - **关键特征**：嵌套发生在内、外两个菱形片之间，矢量 q ≈ (2/7) a*，为非公度；与图 3 中 LuTe₂ 的单一菱形片、公度 q = 1/2 a* 形成直接对比；X 点电子口袋是后续 2D-ACAR 实验中用来核对理论-实验一致性的标志性特征。
   - **结论/意义**：此图从费米面几何上解释了 RTe₃ CDW 为何非公度，是理论计算部分的核心结论图。
@@ -111,10 +111,16 @@ J. Laverock, S. B. Dugdale, Zs. Major, M. A. Alam, N. Ru, I. R. Fisher, G. Santi
   - **图示描述**：由 LMTO 计算得到的 LuTe₃ 沿 [100] 方向广义磁化率 χ(q) 曲线；横轴为波矢 q（单位 a*，a* = 2π/a），纵轴为 χ(q)（任意单位）。
   - **关键特征**：在 q ≈ 0.26 a* 处出现明显而宽阔的峰；峰位对应内、外菱形费米面片之间的最佳嵌套；峰宽源于费米面的双层劈裂，意味着一段波矢范围内嵌套条件都较好，是非公度 CDW 的定量理论指纹。
   - **结论/意义**：把"几何上看起来平行"的嵌套图像提升为 χ(q) 峰值的定量预测，并与 ARPES 的 2/7 a*（≈0.286 a*）和电子衍射的 0.27–0.31 a* 相吻合。
-  - ![图7 LMTO计算的LuTe3占据密度(a)与2D-ACAR实验GdTe3占据密度(b)对比，实验嵌套矢量q=(0.28±0.02)a*](../../raw/figures/Laverock2005fermi/fig_7_ZS7PHWDK.png) -> [[../figures/electronic-bands|电子能带与电子态]]
+  - ![图7 LMTO计算的LuTe3占据密度(a)与2D-ACAR实验GdTe3占据密度(b)对比，实验嵌套矢量q=(0.28±0.02)a*](../../raw/figures/Laverock2005fermi/fig_7_ZS7PHWDK.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：(a) LMTO 计算的 LuTe₃ 与 (b) 2D-ACAR 实验测量的 GdTe₃ 在第一布里渊区 [010] 投影方向上的 k 空间占据密度；浅色（阴影）代表高占据率，明暗边界即费米面，高对称点在投影中标出。实验在约 80 K 下累积约 1.5 亿计数，并经最大熵去卷积。
   - **关键特征**：理论与实验的占据区形状、大小高度一致，X 点电子口袋的尺寸和形状均吻合；实验图中可见大段平行的费米面边界，直接展示嵌套；用"过零法"（最大熵去卷积图减去原始占据图，取零值轮廓）测得嵌套矢量 q = (0.28 ± 0.02, 0, 0) a*，且在 [100] 与 [001] 方向均存在；谱仪分辨率约为 BZ 的 15%，CDW 能隙造成的阶跃模糊被淹没，因而看到的是未重构的"裸"费米面。
   - **结论/意义**：此图是全文证据链的闭环——实验嵌套矢量 0.28 a* 与理论 χ(q) 峰 0.26 a*、电子衍射 0.27–0.31 a*、ARPES 2/7 a* 交叉验证，决定性地支持费米面嵌套驱动 RTe₃ CDW 的论断。
+  - ![图2 2H-TaSe2的电子能带结构](../../raw/figures/Laverock2005fermi/fig_2_ACX8597X.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
+  - **图示描述**：沿高对称路径Γ-X-N-Z-Γ-Y-M-R-P-Y-R-N-Γ的能带图，能量范围约-6至4 eV，费米能级置零。
+  - **关键特征**：多条Ta 5d能带穿越费米能级，其鞍点与平带段构成费米面嵌套的来源，为后续χ(q)计算中CDW不稳定性提供能带基础。
+  - ![图6 2H-TaSe2的广义磁化率χ(q)](../../raw/figures/Laverock2005fermi/fig_6_NNR73I97.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
+  - **图示描述**：倒空间波矢q自0至1 a*的广义电子磁化率χ(q)曲线，q=0处的发散已作截断处理。
+  - **关键特征**：χ(q)在q≈0.22–0.25 a*出现显著峰（约0.5任意单位），与实验观测的2×2 CDW波矢一致，说明该CDW可由费米面嵌套驱动的电子磁化率峰解释。
 
 ## 🔬 项目连接
   - **project-7（CDW）— core**：本文是 CDW 费米面嵌套机制的经典实验/理论联合标杆文献，直接构成本项目的核心机理参考。具体可复用内容：(1) RTe₃ 菱形费米面片 + 单一嵌套矢量连接大段平行边的标准几何图像；(2) 用广义磁化率 χ(q) 峰值定量定位 CDW 波矢的计算流程；(3) 双 Te 层耦合导致双层劈裂、进而将公度嵌套（RTe₂, q=1/2 a*）转为非公度嵌套（RTe₃, q≈2/7 a*）的物理图像，可类比到其他多层/双层 CDW 体系；(4) 2D-ACAR 体相探针与 ARPES 表面探针互补的方法论——前者对 CDW 能隙不敏感从而看到"裸"费米面，后者直接测能隙各向异性（RTe₃ 中沿 Γ−Y 能隙约 200 meV）；(5) 实验嵌套矢量 0.28 a* 与电子衍射 0.27–0.31 a*、ARPES 2/7 a* 的交叉验证范式，可作为项目中判定嵌套驱动 CDW 的证据链模板。

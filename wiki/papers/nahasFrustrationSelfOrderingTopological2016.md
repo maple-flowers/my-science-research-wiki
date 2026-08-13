@@ -15,7 +15,7 @@ concepts: [topological-defects, geometric-frustration, chirality, vortex-antivor
 entities: [BaTiO3, BaSrTiO3]
 methods: [effective-hamiltonian, monte-carlo, first-principles, dielectric-susceptibility, autocorrelation-analysis]
 materials: [BaTiO3, Ba0.15Sr0.85TiO3]
-figures: [crystal-structures, domain-walls, mathematical-models]
+figures: [crystal-structures-bulk, mathematical-models-simulations]
 领域基础知识:: >-
   几何阻挫(Geometrical Frustration)是指由于系统几何结构导致其内部相互作用无法同时被满足，从而抑制长程有序、形成高度简并基态的物理现象。铁电体(Ferroelectrics)是具有自发极化，且极化方向可随外电场翻转的材料。拓扑缺陷(Topological Defects)是序参量场中无法通过连续形变消除的奇点，如铁电体中的极化涡旋(Vortex)和反涡旋(Antivortex)。手性(Chirality)指一个物体无法与其镜像重合的特性。
 研究背景:: >-
@@ -83,24 +83,24 @@ Y. Nahas, S. Prokhorenko, L. Bellaiche，2016，Physical Review Letters 116, 117
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/topological-defects|拓扑缺陷]]、[[../concepts/geometric-frustration|几何阻挫]]、[[../concepts/chirality|手性]]、[[../concepts/vortex-antivortex|涡旋-反涡旋]]、[[../concepts/residual-entropy|剩余熵]]、[[../concepts/ground-state-degeneracy|基态简并]]、[[../concepts/frustration-index|阻挫指数]]、[[../concepts/effective-hamiltonian|有效哈密顿量]]、[[../concepts/flux-closure-domain|磁通闭合畴]]、[[../concepts/antiferrotoroidic-order|反铁环形序]]、[[../concepts/toroidal-moment|环形矩]]、[[../concepts/depolarizing-field|退极化场]]、[[../concepts/ferroelectricity|铁电性]]、[[../entities/BaTiO3|钛酸钡]]、[[../concepts/BaSrTiO3|钛酸锶钡]]
   - 实体 [[../entities/BaTiO3|钛酸钡]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/domain-walls]]、[[../figures/mathematical-models]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]
   - 年度 [[../write/2016]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/nahasFrustrationSelfOrderingTopological2016]]
 ## 📊 关键图表
-  - ![周期性超胞示意：4根BTO纳米线嵌入BST基质](../../raw/figures/nahasFrustrationSelfOrderingTopological2016/fig_1_ERWWNUJX.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![周期性超胞示意：4根BTO纳米线嵌入BST基质](../../raw/figures/nahasFrustrationSelfOrderingTopological2016/fig_1_ERWWNUJX.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：模拟所用周期性超胞的三维示意，4 根截面为正方形的 BTO 纳米线以正方形阵列嵌入 Ba₀.₁₅Sr₀.₈₅TiO₃ 基质，轴向沿伪立方 [001]，x、y、z 三方向均施加周期性边界条件。
   - **关键特征**：超胞尺寸 32×32×6 个晶格常数；每根纳米线截面 n_x^W = n_y^W = 12（约 21.4 nm²），线间距 4 个晶格常数；BTO 与 BST 极化率差异使纳米线成为手性自由度的载体、基质成为被阻挫的对象；该几何参数（线径、间距）直接决定后续阻挫强度，是全文所有计算与讨论的空间基础。
   - **意义**：定义了"几何阻挫"中"几何"二字的来源——强铁电体方阵列对周围弱铁电基质施加的边界条件。
-  - ![5 K下C1–C4四种手性构型的面内偶极场与涡旋/反涡旋分布](../../raw/figures/nahasFrustrationSelfOrderingTopological2016/fig_2_8IYT2TMA.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![5 K下C1–C4四种手性构型的面内偶极场与涡旋/反涡旋分布](../../raw/figures/nahasFrustrationSelfOrderingTopological2016/fig_2_8IYT2TMA.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：5 K 弛豫后 C1:[++++]、C2:[--+-]、C3:[--++]、C4:[-++−] 四种手性构型在任意 (001) 面内的电偶极矢量场，深色箭头为纳米线内偶极子、浅色箭头为基质偶极子，蓝点为涡旋（拓扑荷 +1）、红点为反涡旋（拓扑荷 −1）。
   - **关键特征**：以 C1 为参考，C2/C3/C4 每单胞能量差仅 0.76 / 0.86 / 1.55 meV，冷启动退火可落入任一构型，构成准四重基态简并；C4（反铁环形排列）中涡旋与反涡旋呈高度有序的交错（staggered）自组装阵列，是铁电体中首次报道的几何阻挫诱导周期性缺陷有序结构；缺陷由 O(2) 卷绕数按小方格四偶极投影在单位圆上的覆盖方向判定（逆时针 +1、顺时针 −1、未覆盖无缺陷）；不同手性输入导致基质微结构迥异，直接证明手性对基质施加了不相容的取向边界条件。
   - **意义**：给出"手性 → 几何约束 → 阻挫 → 缺陷自有序化"因果链的定性图像，是全文最核心的结果图。
-  - ![阻挫定量证据：逆介电常数-温度、MC自相关函数、缺陷空间概率分布](../../raw/figures/nahasFrustrationSelfOrderingTopological2016/fig_3_G45FFNWX.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![阻挫定量证据：逆介电常数-温度、MC自相关函数、缺陷空间概率分布](../../raw/figures/nahasFrustrationSelfOrderingTopological2016/fig_3_G45FFNWX.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：三子图组合。(a) 构型 C10（线间距加大至 6 个晶格常数）的逆面内介电常数 χ⊥⁻¹=(χ₁₁+χ₂₂)/2 随温度 T 的变化，红线为高温线性拟合，箭头标出 T_ord 与 θ_CW；(b) 5 K 下 C1–C4 缺陷空间分布的蒙特卡洛时间自相关函数 G(δt_s)；(c) 5 K 下 C4 构型缺陷空间概率分布（黄→深蓝表示高→低概率，统计自 100000 次弛豫后 5000 次扫描）。
   - **关键特征**：高温拟合得 θ_CW ≈ 240 K，基质有序化温度 T_ord ≈ 75 K，C10 的阻挫指数 f = θ_CW/T_ord ≈ 3.2；C1–C4 的 f 分别为 3.09、3.13、3.68、4.03，C4（反铁环形）阻挫最强，增大线间距（C10 vs C1）会减弱对基质缺陷的约束、增强阻挫；χ⊥⁻¹ 在 240→75 K 区间保持准线性，表明基质偶极在 θ_CW 以下仍近似自由涨落、顺相被异常延长；G 随 δt_s 下降表明基质缺陷在 5 K 仍持续空间涨落（纳米线内涡旋 G=1 保持钉扎），C4 下降幅度最大、与其 f 最大一致；概率图中纳米线中心亮斑尖锐（钉扎），基质中阵列弥散（浮动特性），单胞能量标准差约 10⁻⁵ eV，T→0 时熵非零即存在剩余构型熵；两次相变分别发生在约 330 K（纳米线获得非零环形矩 z 分量、面内磁化率小尖峰）和约 75 K（基质涡旋/反涡旋数目守恒、面内磁化率显著尖峰）。
   - **意义**：从宏观介电响应、动力学自相关、空间概率三个角度定量证实几何阻挫，并把阻挫强度、缺陷自由体积与基态简并度三者定量关联。
-  - ![蒙特卡洛时间自相关函数公式(1)](../../raw/figures/nahasFrustrationSelfOrderingTopological2016/eq_1_PSSAZUZG.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![蒙特卡洛时间自相关函数公式(1)](../../raw/figures/nahasFrustrationSelfOrderingTopological2016/eq_1_PSSAZUZG.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
   - **图示描述**：论文公式 (1)，归一化的蒙特卡洛时间自相关函数 G(δt_s)，用以量化拓扑缺陷空间分布在两次相隔 δt_s 次 MC 扫描之间的相似度。
   - **关键特征**：G = (1/ρ_T^N (s−δt_s)) Σ_{t_s,i} δ[W(t_s,i); W(t_s+δt_s,i)]，其中 t_s 为 MC 扫描序号、ρ_T^N 为温度 T 下平均缺陷数、s 为总扫描数；δ[W;W'] 按两时刻位点 i 上缺陷空间分布是否相同取 1 或 0；G=1 表示分布完全不变，G 下降表示缺陷发生空间重排，可定量估计缺陷在基质中的"自由体积"；该公式是图 3(b) 曲线和剩余熵论断的计算依据。
   - **意义**：为"浮动缺陷晶格"提供可计算的统计度量，把微观构型涨落与宏观剩余熵联系起来。

@@ -6,7 +6,7 @@ year: 2009
 journal: "Journal of Physics: Condensed Matter"
 doi: "10.1088/0953-8984/21/8/084204"
 url: "https://doi.org/10.1088/0953-8984/21/8/084204"
-paper_type: method
+paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/tangGridbasedBaderAnalysis2009]]
@@ -15,7 +15,7 @@ concepts: [density-functional-theory, bader-analysis, charge-density, zero-flux-
 entities: [VASP, Gaussian-98, Quantum-ESPRESSO, PAW, pseudopotential, Vanderbilt-ultrasoft]
 methods: [dft, plane-wave, bader-charge-analysis, grid-based-algorithm, finite-difference, post-processing, mp2, monkhorst-pack]
 materials: [NaCl, H2O]
-figures: [algorithm-schematics, convergence-plots]
+figures: [crystal-structures-bulk, electronic-bands-dos-fermi, experimental-setups, mathematical-models-computational]
 领域基础知识:: >-
   Bader分析是一种基于电荷密度拓扑性质将空间划分为原子体积的方法，其基础是电子密度这一可观测量。它比基于波函数的Mulliken分析更稳健，常用于第一性原理计算（如DFT）的后处理，将体系性质分解为原子贡献。该领域的关键挑战在于如何高效、准确地在离散网格上实现这种划分，并避免算法本身引入的人为误差。
 研究背景:: >-
@@ -91,47 +91,47 @@ W Tang、E Sanville、G Henkelman，2009，*Journal of Physics: Condensed Matter
   - 相关论文 [[../../raw/note/tangGridbasedBaderAnalysis2009]]
 
 ## 📊 关键图表
-  - ![图1 在网法中被限制在网格点上的最陡上升路径与Bader体积分配](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_1_KVIXKFR9.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图1 在网法中被限制在网格点上的最陡上升路径与Bader体积分配](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_1_KVIXKFR9.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：二维电荷密度网格上在网法（on-grid）的工作原理示意：(a) 从两个电荷密度极大值 m1、m2 之间的各网格点出发，沿水平、垂直或对角线方向（二维 8 个离散邻居）追踪最陡上升路径；(b) 所有路径终点汇聚到同一极大值的点集（绿色到 m1、蓝色到 m2）构成该原子的 Bader 体积，红色曲线为分割面。
   - **关键特征**：路径被严格限制在相邻网格点之间跳跃；一旦轨迹碰到已分配点即终止，路径上所有点归入同一 Bader 区域；每个点只需处理一次，因而算法 O(N) 线性标度；分割面在离散网格上呈现明显的网格状棱角。
   - **结论/意义**：该图是理解后续晶格偏差问题的起点——网格化机制带来高效率，也埋下了分割面被网格方向"绑架"的隐患。
 
-  - ![图2 在网法晶格偏差示意：格点轨迹偏离真实梯度线，使分割面沿网格方向对齐](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_2_9NMYMX6H.png) -> [[../figures/crystal-structures|晶体结构与原子排布]]
+  - ![图2 在网法晶格偏差示意：格点轨迹偏离真实梯度线，使分割面沿网格方向对齐](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_2_9NMYMX6H.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：在一张二维网格上叠加真实的连续梯度线（蓝色弯曲箭头）和真实分割面（红色斜线），对比在网法实际走出的直箭头路径；浅蓝点本应属于另一侧 Bader 体积，却被错误归入当前区域。
   - **关键特征**：二维只有 8 个、三维只有 26 个离散跳跃方向，无法精确跟随与网格成小角度的连续梯度；格点路径偏离真实轨迹并跨越真实零通量面；最终分割面被"拉成"沿 x 格点方向的直线/折面；这一偏差在网格无限加密的极限下仍然存在，无法靠提高分辨率消除。
   - **结论/意义**：直观定义了本文要解决的核心缺陷——晶格偏差（lattice bias），并说明其根源是轨迹被强行离散化。
 
-  - ![图3 近网法修正向量机制：累积离格轨迹偏差并在分量超半格时触发修正步](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_3_RLCNJDLK.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图3 近网法修正向量机制：累积离格轨迹偏差并在分量超半格时触发修正步](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_3_RLCNJDLK.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：近网法（near-grid）单条上升轨迹的"跳跃—修正"细节：从某格点出发，先按中心有限差分算出真实梯度并沿其走到离格点 r_grad，再跳到最近格点 r_grid，二者之差作为修正向量 r 累积；当 r 的某个分量超过半个网格间距时触发一次额外修正步（图中为 −y 方向），并从 r 中扣除该步长。
   - **关键特征**：修正向量 r 始终从当前格点指向真实的离格轨迹；触发阈值是"半个网格间距"，保证任意方向上格点路径与真实轨迹偏差不超过半格；新增终止条件——到达一个自身及邻居都已分配给同一区域的点即可停止；初分配后还需对边界点做一次边缘精修。
   - **结论/意义**：这是全文方法论核心，用"格点跳跃 + 记忆偏差"的方式在不离开网格的前提下追踪连续梯度，从而既保留 O(N) 效率又消除晶格偏差。
 
-  - ![图4 三高斯二维模型上在网法/近网法/边缘精修后分割面对比](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_4_4NLPJJC7.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图4 三高斯二维模型上在网法/近网法/边缘精修后分割面对比](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_4_4NLPJJC7.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：在三个高斯函数人为构造、真实分割面与网格成小角度的二维电荷密度上，对比三种处理结果：(a) 在网法，(b) 近网法单次迭代，(c) 近网法再做一次边缘精修；灰色斜线为真实分割面，白色区域为错误分配区。
   - **关键特征**：(a) 在网法给出与网格对齐的垂直分割面，错误区沿真实斜线大片连续分布；(b) 近网法一次迭代后错误区被压缩到真实分割面附近一两个格点宽度内；(c) 再做一次精修后除两个低分辨率误配点外全部修正；网格加密后近网法可收敛到精确 Bader 体积。
   - **结论/意义**：这是一个受控模型算例，干净地展示了"修正向量 + 边缘精修"对晶格偏差的消除能力，为后续真实体系测试提供原理性证据。
 
-  - ![图5 水分子O–H之间Bader分割面：在网法棱角分明 vs 近网法平滑自然](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_5_92CQE7PC.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图5 水分子O–H之间Bader分割面：在网法棱角分明 vs 近网法平滑自然](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_5_92CQE7PC.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：H₂O 分子中氧原子 O 与两个氢原子 H 之间 Bader 分割面的三维形状对比，左为在网法、右为近网法；电荷密度由 Gaussian 98 在 aug-cc-pVDZ/MP2 水平下计算，并写到 257³ 正交网格上。
   - **关键特征**：在网法的 O–H 界面呈现明显的、由网格面构成的棱角和小面，是晶格偏差在真实分子上的直接体现；近网法界面平滑、圆润，符合化学直觉；右侧仍可见的轻微波纹来自有限网格分辨率而非算法偏差，可通过加密网格减小。
   - **结论/意义**：首次在真实分子体系中定性证明近网法能给出物理上合理的 Bader 表面。
 
-  - ![图6 NaCl晶体中Na离子Bader价电荷随网格密度的收敛性：近网法单调收敛到0.828 e，在网法残留约0.01 e系统偏差](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_6_6VPUB9DV.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图6 NaCl晶体中Na离子Bader价电荷随网格密度的收敛性：近网法单调收敛到0.828 e，在网法残留约0.01 e系统偏差](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_6_6VPUB9DV.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：横轴为电荷密度网格点数（从 60³ 到 350³，约 0.2–4 千万点），纵轴为 NaCl 晶体中 Na 离子的价电荷（e）；蓝色虚线 0.828 e 为近网法在极密网格下的收敛基准，蓝点为近网法结果、黑点为在网法结果，插图为 8 原子 NaCl 晶胞。
   - **关键特征**：计算条件为 VASP + PW91、PAW/Vanderbilt 赝势、262.5 eV 截断、3×3×3 Monkhorst–Pack k 点、晶格常数 5.86 Å；近网法曲线随网格加密单调、平滑地收敛到 0.828 e；在网法即使加密到约 4×10⁷ 点，仍残留约 0.01 e 的系统性偏差且不消失；必须把赝势冻芯电荷加回电荷密度网格才能得到准确 Bader 电荷。
   - **结论/意义**：定量证明近网法具有正确的"网格加密即收敛"行为，而在网法带有无法靠加密消除的系统误差，是支持算法替换最有力的证据。
 
-  - ![图7 水分子旋转45°前后Bader体积形状：在网法取向依赖明显，近网法基本不变](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_7_DXF7DHMH.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图7 水分子旋转45°前后Bader体积形状：在网法取向依赖明显，近网法基本不变](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_7_DXF7DHMH.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：H₂O 分子在电荷密度网格平面内旋转 45° 前后的 Bader 体积形状对比，左列为在网法、右列为近网法；电荷密度由 VASP 计算，截断能 250 eV、Γ 点采样。
   - **关键特征**：在网法下分子旋转前后 O、H 的 Bader 体积轮廓明显不同，分割面位置被网格方向带着走；近网法下旋转前后体积形状几乎重合，恢复了物理上应有的旋转不变性；该现象与图6 的系统偏差同源，都是晶格偏差在实空间上的表现。
   - **结论/意义**：从形状层面定性说明近网法消除了非物理的分子取向依赖，这是任何严谨电荷分析方法都必须满足的基本对称性。
 
-  - ![图8 氧原子Bader电荷随分子旋转角的变化：在网法波动约0.1 e，近网法近似水平](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_8_KHXYRY68.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图8 氧原子Bader电荷随分子旋转角的变化：在网法波动约0.1 e，近网法近似水平](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_8_KHXYRY68.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]
   - **图示描述**：横轴为 H₂O 分子相对电荷密度网格的旋转角度（度），纵轴为氧原子 Bader 价电荷（e）；两条曲线分别对应在网法（On-grid）和近网法（Near-grid）。
   - **关键特征**：在网法不仅系统性低估 H→O 电荷转移，氧电荷还随旋转角出现约 0.1 e 的明显波动；近网法的氧电荷约为 −1.23 e，曲线基本为一条水平线，随角度变化极小；该定量结果与图7 的形状观察一致，把取向依赖从视觉现象变成可报告的数值误差。
   - **结论/意义**：定量证实近网法给出的原子电荷在分子任意取向下都稳定，避免了约 0.1 e 量级的人为取向误差。
 
-  - ![图9 近网法计算时间与网格点数呈线性O(N)标度（约11.5 s/百万点，2.5 GHz G5 PowerPC）](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_9_LX93LDMB.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图9 近网法计算时间与网格点数呈线性O(N)标度（约11.5 s/百万点，2.5 GHz G5 PowerPC）](../../raw/figures/tangGridbasedBaderAnalysis2009/fig_9_LX93LDMB.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：双对数坐标下，近网法分析 8 原子 NaCl 晶胞电荷密度所需 CPU 时间（秒）随网格点数（60³ 到 300³）的变化，数据点良好拟合成斜率为 1 的直线。
   - **关键特征**：斜率为 1 表明计算时间与网格点数成正比，即 O(N) 线性标度；在 2.5 GHz G5 PowerPC 上每分析 100 万个网格点约需 11.5 s；修正向量和一次边缘精修的额外开销可忽略，没有破坏原在网法的高效性。
   - **结论/意义**：证明近网法在消除晶格偏差、提升精度的同时完整保留了原算法处理大规模平面波 DFT 网格数据所必需的线性标度性能。

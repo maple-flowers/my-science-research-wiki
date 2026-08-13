@@ -11,12 +11,12 @@ paper_type: review
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/xueEmergingNonvolatileMemories2011]]
-projects: [project-2, project-3, project-4, project-5]
+projects: [project-2, project-5]
 concepts: [ferroelectric-tunnel-junction, polarization-switching, spin-orbit-coupling]
 entities: []
 methods: [device-i-v, mlip, tem]
 materials: []
-figures: [electronic-devices]
+figures: [domain-walls-structures, electronic-devices-memory-transistors, experimental-setups]
 领域基础知识:: >-
   非易失性存储器，如相变存储器(PCM)、自旋转移力矩磁阻存储器(STT-RAM)和忆阻器，是基于不同于传统电荷存储的新物理机制（如材料相变、电子自旋、离子迁移）来存储信息，具有非易失、低漏电、高密度和快速读取等潜力，正被研究用于构建下一代存储系统。
 研究背景:: >-
@@ -43,10 +43,6 @@ tags:
   - year/2011
   - project/project-2
   - relevance/project-2/strong
-  - project/project-3
-  - relevance/project-3/weak
-  - project/project-4
-  - relevance/project-4/medium
   - project/project-5
   - relevance/project-5/strong
   - concept/ferroelectric-tunnel-junction
@@ -59,12 +55,9 @@ tags:
   - topic/charge-density-wave
   - topic/ferroelectricity
   - topic/ferromagnetism
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/phase-transition
   - topic/polarization
-  - topic/two-photon-fluorescence
 ---
 
 ## xueEmergingNonvolatileMemories2011 — 新兴非易失性存储器（PCM / STT-RAM / MLC STT-RAM / 忆阻器综述）
@@ -96,47 +89,47 @@ Chun Jason Xue、Youtao Zhang、Yiran Chen、Guangyu Sun、J. Joshua Yang、Hai 
 ## 🆕 新概念/实体建议
   - 实体建议：`GST.md`（Ge2Sb2Te5 相变合金）、`TaOx.md`（高耐久性忆阻材料，>10^12 次循环）、`MgO-MTJ.md`（MgO 势垒磁隧道结）。
 ## 📊 关键图表
-  - ![PCM 单元与阵列结构（Figure 1）](../../raw/figures/xueEmergingNonvolatileMemories2011/fig_1_YA2TDDV5.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![PCM 单元与阵列结构（Figure 1）](../../raw/figures/xueEmergingNonvolatileMemories2011/fig_1_YA2TDDV5.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
   - **图示描述**：左侧为 PCM 单元的三维剖面，自上而下为顶电极、GST（Ge2Sb2Te5）硫族化物层、加热器和底电极；右侧为对应的电路符号及其在位线（Bitline）/字线（Wordline）交叉阵列中的 1T1R 接法。
   - **关键特征**：晶体管作为选通开关、GST 电阻作为存储元件，是 PCM 按字节寻址的基础；单元夹在 BL/WL 之间，可组成二维 cross-point 阵列；GST 具备晶态（低阻，逻辑 1）与非晶态（高阻，逻辑 0）两个稳定相。
   - **结论/意义**：奠定了 PCM 器件-阵列的基本拓扑，也是后续讨论 P&V 写、工艺偏差和磨损均衡的物理起点。
 
-  - ![MLC STT-RAM 缓存写能耗-编码方案对比（Figure 10）](../../raw/figures/xueEmergingNonvolatileMemories2011/fig_10_X7IRKM78.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![MLC STT-RAM 缓存写能耗-编码方案对比（Figure 10）](../../raw/figures/xueEmergingNonvolatileMemories2011/fig_10_X7IRKM78.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
   - **图示描述**：柱状图，横轴为 4!=24 种将 2-bit 数据映射到 R00–R11 四个阻态的编码方案（E1–E24），纵轴为 16 MB MLC STT-RAM 缓存在该编码下的归一化写能耗/寿命（该图在原文中对应不同编码方案下的相对寿命评估，与 fig_9 写能耗图构成一对）。
   - **关键特征**：编码方案之间写能耗差异最高可达 27.5%；最优编码（R00→11, R01→10, R10→01, R11→00，对应 E19 一类方案）同时获得最低写能耗和最长寿命；原因是它最小化了需要大翻转电流（66.4 μA 硬翻转）的状态转换频率，从而减轻 MgO 势垒的 TDDB 退化（ln TTF ≈ 1/E）。
   - **结论/意义**：证明 MLC STT-RAM 中数据-阻态编码并非中性，编码寻优可同时降低功耗、延长寿命。
 
-  - ![SLC/MLC STT-RAM vs SRAM 缓存性能与能耗归一化（Figure 11）](../../raw/figures/xueEmergingNonvolatileMemories2011/fig_11_5RBSLMBF.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![SLC/MLC STT-RAM vs SRAM 缓存性能与能耗归一化（Figure 11）](../../raw/figures/xueEmergingNonvolatileMemories2011/fig_11_5RBSLMBF.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
   - **图示描述**：柱状图，以 2 MB SRAM 缓存为基准（=1.0），比较 2 MB / 16 MB 两种容量下 SLC 与 MLC STT-RAM 的归一化执行时间与能耗。
   - **关键特征**：2 MB SLC/MLC STT-RAM 的能耗仅为 SRAM 的约 15–17%；16 MB MLC 能耗进一步降到同容量 SLC 的约 78%；2 MB MLC 执行时间为 1.025（略慢于 SRAM），16 MB MLC 反超至 0.979，因为更大的片上容量压低了缺失率；STT-RAM 待机功耗仅 0.125 W，而等面积 SRAM 为 1.04 W。
   - **结论/意义**：用仿真数据说明 STT-RAM 以可忽略的性能代价换取 ~85% 的能耗节省，是嵌入式大容量缓存的有力候选。
 
-  - ![PCM 工艺偏差与电流调节（Figure 29 摘录页）](../../raw/figures/xueEmergingNonvolatileMemories2011/fig_29_U8XCGBQD.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![PCM 工艺偏差与电流调节（Figure 29 摘录页）](../../raw/figures/xueEmergingNonvolatileMemories2011/fig_29_U8XCGBQD.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
   - **图示描述**：论文摘录页，讨论 PCM 在芯片级由于工艺偏差导致各单元最优 RESET 电流离散、统一按最大值写入会"过编程"的问题，并给出按 4 MB 块或按行做电流调节（current provision / fine-grained regulation）的方案。
   - **关键特征**：写能量增大 2× 可使 PCM 耐久性下降约 50×；随机偏差大于系统偏差，即使按行调电流仍会过度编程多数单元；Jiang 等的细粒度方案允许每行最多 6 个单元进入休眠并用 ECC 挽救，再随磨损逐步调高电流唤醒备份单元。
   - **结论/意义**：揭示 PCM 寿命问题的根源在器件离散性，需要电路-架构协同的细粒度电流管理而非单一全局电流。
 
-  - ![3D NUCA 堆叠结构/PCM 编程（Figure 3）](../../raw/figures/xueEmergingNonvolatileMemories2011/fig_3_RCPBXVPH.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![3D NUCA 堆叠结构/PCM 编程（Figure 3）](../../raw/figures/xueEmergingNonvolatileMemories2011/fig_3_RCPBXVPH.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
   - **图示描述**：电压-时间波形图，展示 PCM 的"编程-验证"（Program-and-Verify, P&V）迭代写流程：先一个 RESET 脉冲统一初态，再施加幅度递增的 SET 脉冲序列（V_set,0, V_set,1, …），每个 SET 脉冲后紧跟一个 verify 读脉冲，直到电阻落入目标窗口。
   - **关键特征**：RESET 需把 GST 加热到熔点 ~600°C 以上再快速淬火成非晶态；SET 需加热到结晶温度 ~300°C 至熔点之间并保持 t_set 时间缓慢结晶；P&V 可精确控阻、支撑 MLC 与低误码率，但也是 PCM 写延迟（~1 μs）比读延迟（50–100 ns）慢 10× 以上的直接原因。
   - **结论/意义**：解释了 PCM 读写不对称的根本机制，为后续混合主存、写缓存、差分写等架构优化提供动机。
 
-  - ![PCM/DRAM 混合主存架构（Figure 6 摘录页）](../../raw/figures/xueEmergingNonvolatileMemories2011/fig_6_QFWICZWK.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![PCM/DRAM 混合主存架构（Figure 6 摘录页）](../../raw/figures/xueEmergingNonvolatileMemories2011/fig_6_QFWICZWK.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
   - **图示描述**：两种 PCM/DRAM 混合主存组织方式：(a) DRAM 作为 PCM 主存的后端缓存，对 OS 透明，由内存控制器管理；(b) PCM 与 DRAM 作为两个独立地址空间暴露给 OS，由软件按页热度做迁移。
   - **关键特征**：方案 (a) 中 Qureshi 的 DRAM 缓冲只需 PCM 容量的 3%、面积开销 13%，即可获得约 3× 性能加速和 3× 寿命延长；方案 (b) 依赖 PCM-aware 页面策略（Dhiman 等的写监测迁移、Zhang 等的 MultiQueue 热度分类）将写密集页放入 DRAM；两类方案分别对应"硬件透明"与"软件灵活"的取舍。
   - **结论/意义**：给出在 PCM 写耐久性/延迟短板未解决前，用 DRAM 吸收写流量的主流系统路径。
 
-  - ![STT-RAM 单元/外围电路（Figure 65 摘录页）](../../raw/figures/xueEmergingNonvolatileMemories2011/fig_65_9CFTL3R5.png) → [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - ![STT-RAM 单元/外围电路（Figure 65 摘录页）](../../raw/figures/xueEmergingNonvolatileMemories2011/fig_65_9CFTL3R5.png) → [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
   - **图示描述**：摘录页给出 STT-RAM 的"1T1J"单元：一个 NMOS 访问管与一个磁隧道结（MTJ）串联，MTJ 由自由层 / MgO 隧道势垒 / 固定层构成，外围包括字线/位线/源线、双极性写脉冲与读偏置发生器、灵敏放大器。
   - **关键特征**：写"0"/写"1"通过 BL-SL 间正/反方向的自旋极化电流翻转自由层磁化方向；两层平行时 MTJ 低阻、反平行时高阻，由 TMR 决定读裕量；65 nm 工艺下 STT-RAM 单元面积约为 SRAM 的 25%，4 MB STT-RAM 与 1 MB SRAM 面积相当（~36 mm²），读 2.318 ns、写 6.181 ns、读能 0.858 nJ、写能 2.997 nJ、待机 0.125 W。
   - **结论/意义**：展示了 STT-RAM 作为 SRAM 替代者在密度与漏电上的优势，以及写延迟/写能偏高的代价。
 
-  - ![MLC MTJ 状态转换电流矩阵（Table 3）](../../raw/figures/xueEmergingNonvolatileMemories2011/tab_00_W2XATRL6.png) -> [[../figures/electronic-devices|电子与突触器件]]
+  - ![MLC MTJ 状态转换电流矩阵（Table 3）](../../raw/figures/xueEmergingNonvolatileMemories2011/tab_00_W2XATRL6.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：45 nm 节点、10 ns 写脉冲条件下，MLC MTJ 四个阻态 R00<R01<R10<R11 之间状态转换所需电流的 4×4 矩阵（单位 μA），"X"表示无法一步完成的转换。
   - **关键特征**：最大转换电流 66.4 μA，出现在 R11/R10→R00 的硬畴翻转；软畴翻转（如 R00→R01）只需约 38.3 μA，R11→R10 仅需 39.3 μA；R11→R01 等转换必须两步走（先 66.4 μA 到 R00，再 38.3 μA 到 R01）；正电流方向定义为自由层→参考层。
   - **结论/意义**：定量给出 ZT/ST/HT/TT 四类转换的代价不对称性，是 MLC 写前读策略与编码优化的直接数据依据。
 
-  - ![SRAM vs STT-RAM 面积/延迟/能耗对比（Table 1）](../../raw/figures/xueEmergingNonvolatileMemories2011/tab_4_QWTICPMB.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![SRAM vs STT-RAM 面积/延迟/能耗对比（Table 1）](../../raw/figures/xueEmergingNonvolatileMemories2011/tab_4_QWTICPMB.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：65 nm 工艺下，1 MB SRAM 缓存体与 4 MB STT-RAM 缓存体在面积、读/写延迟、读/写能量、待机功耗上的对比表（含 ECC 开销）。
   - **关键特征**：两者面积几乎相同（SRAM 36.2 mm² vs STT-RAM 36.0 mm²），但 STT-RAM 容量为 4×；读延迟 2.318 ns 与 SRAM 2.252 ns 相近，写延迟 6.181 ns 约为 SRAM 2.244 ns 的 2.8×；读能略低（0.858 vs 1.074 nJ），写能更高（2.997 vs 0.956 nJ）；待机功耗 STT-RAM 仅 0.125 W，约为 SRAM 1.04 W 的 1/8。
   - **结论/意义**：以等面积约束量化了 STT-RAM"以写延迟/写能换容量与漏电"的权衡，是其替换 L2/L3 SRAM 决策的核心数据。
@@ -151,8 +144,6 @@ Chun Jason Xue、Youtao Zhang、Yiran Chen、Guangyu Sun、J. Joshua Yang、Hai 
   - **project-7 CDW**：无直接项目连接。论文未涉及电荷密度波物理。
 ## 🔗 项目双链
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
-- 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
 
 ## 📝 组织与用词

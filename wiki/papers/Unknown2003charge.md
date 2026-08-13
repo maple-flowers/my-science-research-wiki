@@ -1,7 +1,7 @@
 ---
 citekey: Unknown2003charge
-title: "Bis(ethylenedithio)tetrathiafulvalene (BEDT-TTF) Charge Transfer Compounds with Copper(II) Halides: (BEDT-TTF)<sub>1.5</sub>CuX<sub>2</sub>(X=Cl, Br)"
-title_zh: "含铜（II）卤化物的双（亚乙基二硫代）四硫富瓦烯（BEDT-TTF）电荷转移化合物：（BEDT-TTF）<"
+title: "Bis(ethylenedithio)tetrathiafulvalene (BEDT-TTF) Charge Transfer Compounds with Copper(II) Halides: (BEDT-TTF)₁.₅CuX₂(X=Cl, Br)"
+title_zh: "含铜（II）卤化物的双（亚乙基二硫代）四硫富瓦烯（BEDT-TTF）电荷转移化合物：（BEDT-TTF）₁.₅CuX₂（X=Cl, Br）"
 authors: [ Kim, Young-Inn]
 year: 2003
 journal: "Bulletin of the Korean Chemical Society"
@@ -11,7 +11,7 @@ paper_type: experiment
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Unknown2003charge]]
-projects: [project-1, project-4, project-7]
+projects: [project-4]
 concepts:
   - charge-transfer-compound
   - bedt-ttf
@@ -24,7 +24,7 @@ materials:
   - BEDT-TTF
   - CuCl2
   - CuBr2
-figures: [experimental-setups, mathematical-models, heterostructures-stacking-multiferroic]
+figures: [electronic-bands-cdw-transport, electronic-devices-sensors, optical-spectra]
 领域基础知识:: >-
   电荷转移复合物是有机导体和超导体的重要来源，通常由电子给体（如BEDT-TTF）和电子受体（如金属卤化物）组成。BEDT-TTF（双(乙撑二硫)四硫富瓦烯）是一种富硫的π电子给体分子，因其能形成多样化的导电结构而备受关注。材料的导电性能高度依赖于给体分子的堆积方式以及电荷转移程度。
 研究背景:: >-
@@ -49,21 +49,15 @@ tags:
   - paper
   - type/experiment
   - year/2003
-  - project/project-1
-  - relevance/project-1/medium
   - project/project-4
   - relevance/project-4/strong
-  - project/project-7
-  - relevance/project-7/weak
   - method/epr
   - method/squid
   - topic/charge-density-wave
   - topic/ferroelectricity
-  - topic/humidity-sensing
   - topic/molecular-crystal
   - topic/multiferroics
   - topic/superconductivity
-  - topic/two-photon-fluorescence
 ---
 
 ## Unknown2003charge — 双(乙撑二硫)四硫富瓦烯(BEDT-TTF)与卤化铜(II)的电荷转移化合物：(BEDT-TTF)₁.₅CuX₂ (X=Cl, Br)
@@ -78,22 +72,22 @@ Young-Inn Kim，2003，Bulletin of the Korean Chemical Society，24(9), 1389–1
   - 相关论文 [[../../raw/note/Unknown2003charge]]
 ## 📊 关键图表
   - **图1：77 K 下 (BEDT-TTF)₁.₅CuCl₂(a) 与 (BEDT-TTF)₁.₅CuBr₂(b) 的 X 波段 EPR 谱（冷冻玻璃 DMF/CH₂Cl₂ = 50/50）**
-  - ![图1 77 K 下 (BEDT-TTF)₁.₅CuCl₂(a) 与 (BEDT-TTF)₁.₅CuBr₂(b) 的 X 波段 EPR 谱，同时显示 BEDT-TTF⁺ 自由基峰与 Cu(II) 四重超精细分裂，Br 化物中 Cu(II) 信号更强](../../raw/figures/Unknown2003charge/fig_1_PVI4APFY.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![图1 77 K 下 (BEDT-TTF)₁.₅CuCl₂(a) 与 (BEDT-TTF)₁.₅CuBr₂(b) 的 X 波段 EPR 谱，同时显示 BEDT-TTF⁺ 自由基峰与 Cu(II) 四重超精细分裂，Br 化物中 Cu(II) 信号更强](../../raw/figures/Unknown2003charge/fig_1_PVI4APFY.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：两个子图分别为 Cl 化物 (a) 与 Br 化物 (b) 在 77 K 冷冻溶液中的一阶导数 EPR 谱；横轴为磁场，纵轴为吸收信号的一阶导数，同时叠加了有机自由基与过渡金属离子两类顺磁中心的响应。
   - **关键特征**：g ≈ 2.07（接近自由电子 g = 2.0023）的尖锐单峰归属为 BEDT-TTF⁺· 自由基，证明给体被部分氧化；g∥ > g⊥ > 2 且带四重超精细分裂的轴向信号归属为 d⁹ 构型的 Cu(II)，表明 Cu 未被完全还原；Br 化物中 Cu(II) 峰相对 BEDT-TTF⁺ 峰的强度明显高于 Cl 化物，直接反映 Br 化物残留更多 Cu(II)；表 1 给出 Cu(II) g∥ = 2.390（Cl）/2.480（Br），BEDT-TTF 自由基 g ≈ 2.06–2.08。
   - **结论/意义**：这是支撑"BEDT-TTF 部分氧化 + Cu 处于 Cu(II/I) 混合价态，且 Br 化物 Cu(II) 比例更高"这一核心论断最直接的谱学证据。
   - **图2：(BEDT-TTF)₁.₅CuCl₂ 的磁化率-温度依赖关系（SQUID，4–300 K）**
-  - ![图2 (BEDT-TTF)₁.₅CuCl₂ 磁化率随温度变化，4–50 K 服从居里-外斯定律，50 K 以上偏离](../../raw/figures/Unknown2003charge/fig_2_UB562FUX.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![图2 (BEDT-TTF)₁.₅CuCl₂ 磁化率随温度变化，4–50 K 服从居里-外斯定律，50 K 以上偏离](../../raw/figures/Unknown2003charge/fig_2_UB562FUX.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - **图示描述**：横轴为温度 T（K，约 4–300 K），纵轴为摩尔磁化率 χ（emu/mol），曲线展示样品从低温到室温的顺磁响应及居里-外斯拟合区间。
   - **关键特征**：4–50 K 出现典型"居里尾巴"，χ 随降温急剧上升，符合 χ = C/(T−θ)；Cl 化物拟合得 C = 0.39、θ = −0.9 K，Br 化物 C = 0.53、θ = +0.9 K（见原文表 1），C 值更大定量印证 Br 化物含更多局域 Cu(II) 磁矩；50 K 以上偏离居里-外斯行为，作者以 χ(T) = χ_Cu(II) + χ_TTF⁺ + δ(T) 描述，δ(T) 代表 BEDT-TTF⁺ 间交换/反铁磁相互作用；室温 μeff = 1.26 BM（Cl）、1.22 BM（Br），均低于单未配对电子纯自旋值 1.73 BM。
   - **结论/意义**：低温磁化率由局域 Cu(II) 主导，而 μeff 偏低则从宏观磁学角度独立证明存在抗磁 Cu(I)，即混合价态 Cu(II/I)。
   - **表1：(BEDT-TTF)₁.₅CuX₂ 的 EPR 参数、居里-外斯参数、有效磁矩与室温电导率汇总**
-  - ![表1 EPR 参数、居里-外斯参数、有效磁矩与室温电导率汇总](../../raw/figures/Unknown2003charge/tab_1_AJ7CFCDI.png) -> [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![表1 EPR 参数、居里-外斯参数、有效磁矩与室温电导率汇总](../../raw/figures/Unknown2003charge/tab_1_AJ7CFCDI.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：表格横向并列两种化合物的 EPR g 值（Cu(II) g⊥/g∥ 与 BEDT-TTF 自由基 g）、峰峰线宽 ΔHpp（G）、居里常数 C 与外斯温度 θ、有效磁矩 μeff（BM）以及室温粉末电导率 σ（S·cm⁻¹）。
   - **关键特征**：Cu(II) 满足 g∥ > g⊥ > 2 的轴向 d⁹ 特征；C(Br) = 0.53 > C(Cl) = 0.39，定量对应 Br 化物更多 Cu(II)；μeff ≈ 1.22–1.26 BM 显著低于 1.73 BM，证实非磁 Cu(I) 共存；σ_RT(Cl) = 9.4×10⁻⁵ S·cm⁻¹ 比 σ_RT(Br) = 8.5×10⁻⁶ S·cm⁻¹ 高约一个数量级，二者均落在绝缘体区间，且比完全还原的 (BEDT-TTF)₂Cu^ICl₂（~10⁻³ S·cm⁻¹）低 1–2 个数量级。
   - **结论/意义**：该表是全文"数据枢纽"，把 EPR、磁性、电导率三条证据并置，直接建立"Cu(II) 残留量 ↑ → μeff 与 C 变化 → σ ↓"的构效关系。
   - **表2：BEDT-TTF 及两种化合物的循环伏安峰电位（DMF/0.1 M TEAP，V vs Ag/Ag⁺）**
-  - ![表2 BEDT-TTF 及两种化合物的循环伏安峰电位 (V vs Ag/Ag⁺)](../../raw/figures/Unknown2003charge/tab_2_D6DYHUT9.png) -> [[../figures/experimental-setups|实验测试与测量装置]]
+  - ![表2 BEDT-TTF 及两种化合物的循环伏安峰电位 (V vs Ag/Ag⁺)](../../raw/figures/Unknown2003charge/tab_2_D6DYHUT9.png) -> [[../figures/electronic-devices-sensors|传感器与探测器]]
   - **图示描述**：表格列出中性 BEDT-TTF 以及 (BEDT-TTF)₁.₅CuCl₂、(BEDT-TTF)₁.₅CuBr₂ 的各氧化还原过程的阴极峰 Epc、半波电位 E₁/₂、阳极峰 Epa，单位均为 V vs Ag/Ag⁺。
   - **关键特征**：中性 BEDT-TTF 的 ET⁺/ET 半波电位为 +0.20 V，而化合物中移至 +0.12 V（Cl）/+0.13 V（Br），负移约 70–80 mV，表明固体中 BEDT-TTF 已部分带正电、更易进一步氧化；两种化合物同时出现 Cu⁺/Cu（Cl: E₁/₂ = +0.04 V；Br: −0.06 V）与 Cu²⁺/Cu⁺（~+0.60–0.61 V）两对 Cu 的氧化还原峰；BEDT-TTF 的 ET²⁺/ET⁺ 过程在化合物中位于 +0.24–0.25 V，与中性分子（+0.32 V）同样负移。
   - **结论/意义**：循环伏安从电化学角度独立佐证 BEDT-TTF 已被部分氧化、铜以 Cu(II/I) 混合价态共存，与 EPR/SQUID 结论相互印证。
@@ -102,9 +96,7 @@ Young-Inn Kim，2003，Bulletin of the Korean Chemical Society，24(9), 1389–1
   - **project-7（CDW）——弱相关**：本文研究的 BEDT-TTF 盐属于低维有机导体大家族，IR 中 ~1400/~1330 cm⁻¹ 的 vibronic 双峰与 ~970 nm 电荷转移吸收带，反映电子-分子振动耦合，这与 CDW 体系中电声耦合的物理图像同源，可作为有机导体电声耦合现象的旁证文献；但本文未直接讨论 CDW，参考价值有限。
   - **project-1/2/3/5/6**：无直接项目连接（双光子、Mn 多铁、机械发光 NN、SnTe 铁电模拟、湿度传感器均与 BEDT-TTF/Cu 卤化物体系在材料、机制与方法上无交集）。
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 - 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
 论文为短篇 Notes，遵循"合成→组成→光谱离子化证据→EPR/磁性证实混合价→电导率关联→CV 电化学佐证→结论"的线性实验论文逻辑；核心因果链为"卤素配体电子诱导效应差异 → Cu(II) 残留量差异 → 库仑散射强度差异 → 电导率差异"，并通过与 TTF/CuX₂ 及文献中 2:1 高导电相的横向对比强化结论。可复用术语：电荷转移化合物 (charge transfer compound)、BEDT-TTF⁺ 自由基阳离子 (BEDT-TTF radical cation)、混合价态 Cu(II/I) (mixed-valence copper(II/I))、振动电子耦合带 (vibronic bands)、A1g 振动模式 (A1g mode)、超精细分裂 (hyperfine splitting)、居里-外斯定律 (Curie-Weiss law)、库仑散射 (Coulomb scattering/interaction)、电子诱导效应 (electron inductive effect)、半波电位 (half-wave potential)。

@@ -11,12 +11,12 @@ paper_type: theory
 status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/aiFerroelectricityCoexistedPorbital2022]]
-projects: [project-1, project-2, project-3, project-4, project-5, project-6, project-7]
+projects: [project-2, project-4, project-5]
 concepts: [2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering]
 entities: [BiFeO3, Fe3GeTe2, In2Se3, MXenes, VASP, WTe2]
 methods: [afm-pfm, berry-phase, dfpt, dft, monte-carlo, neb]
 materials: [BiFeO3, Fe3GeTe2, In2Se3, MXenes, WTe2]
-figures: [crystal-structures, electronic-bands, heterostructures-stacking, mathematical-models]
+figures: [crystal-structures-bulk, electronic-bands-dos-fermi]
 领域基础知识:: >-
   多铁性材料、二维铁电性、二维铁磁性、d0规则、密度泛函理论(DFT)、第一性原理计算。
 研究背景:: >-
@@ -41,20 +41,12 @@ tags:
   - paper
   - type/theory
   - year/2022
-  - project/project-1
-  - relevance/project-1/medium
   - project/project-2
   - relevance/project-2/core
-  - project/project-3
-  - relevance/project-3/medium
   - project/project-4
   - relevance/project-4/medium
   - project/project-5
   - relevance/project-5/strong
-  - project/project-6
-  - relevance/project-6/medium
-  - project/project-7
-  - relevance/project-7/weak
   - concept/2D-materials
   - concept/berry-phase
   - concept/density-functional-theory
@@ -84,14 +76,11 @@ tags:
   - topic/charge-density-wave
   - topic/ferroelectricity
   - topic/ferromagnetism
-  - topic/humidity-sensing
-  - topic/molecular-crystal
   - topic/multiferroics
   - topic/mxene
   - topic/phase-transition
   - topic/polarization
   - topic/strain-engineering
-  - topic/two-photon-fluorescence
 ---
 
 ## aiFerroelectricityCoexistedPorbital2022 — 二维金属氮氧化物中铁电性与p轨道铁磁性和金属性的共存
@@ -105,7 +94,7 @@ Haoqiang Ai, Feifei Li, Haoyun Bai, Dong Liu, Kin Ho Lo, Shengyuan A. Yang, Yosh
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/strain-engineering]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/berry-phase]]
   - 实体 [[../entities/VASP]]、[[../entities/MXenes]]、[[../entities/BiFeO3]]、[[../entities/In2Se3]]、[[../entities/Fe3GeTe2]]、[[../entities/WTe2]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking]]、[[../figures/mathematical-models]]、[[../figures/experimental-setups|实验测试与测量装置]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/experimental-setups|实验测试与测量装置]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
   - 年度 [[../write/2022]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
@@ -123,23 +112,23 @@ Haoqiang Ai, Feifei Li, Haoyun Bai, Dong Liu, Kin Ho Lo, Shengyuan A. Yang, Yosh
   - `double-well-potential`（双势阱势）：铁电极化反转能量曲线特征，两个简并极小值对应±P。
 
 ## 📊 关键图表
-  - ![图1 X₂NO₂三种相(fcc/FE-ZB′/FE-WZ′)的晶体结构与Tl₂NO₂声子谱](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/fig_1_4T7YPY8F.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图1 X₂NO₂三种相(fcc/FE-ZB′/FE-WZ′)的晶体结构与Tl₂NO₂声子谱](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/fig_1_4T7YPY8F.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：(a–c) X₂NO₂单层 fcc、FE-ZB′、FE-WZ′ 三种相的俯视图与侧视图（虚线为单胞），(d–f) Tl₂NO₂对应相沿 Γ–M–K 路径的声子色散（纵轴为声子频率，THz）。
   - **关键特征**：fcc 相中心对称（D3d 点群），N 位于六个 X 原子中心；FE-ZB′/FE-WZ′ 相中 N 垂直偏心位移，与四个 X 原子形成"三长一短"四面体配位（C3v 极性结构），是面外铁电的结构根源；fcc Tl₂NO₂ 在 Γ 点出现两个明显虚频光学模（软模），动力学不稳定并自发对称破缺；FE-WZ′ 相声子谱全正，与 AIMD 300 K 和 Born–Huang 判据共同确认其为稳定基态。
   - **结论**：从结构与声子两个层面确立 FE-WZ′ Tl₂NO₂ 为实验可合成的铁电基态相。
-  - ![图2 FE-WZ′ Tl₂NO₂自旋极化能带/PDOS、自旋电荷密度、角度依赖MAE、蒙特卡洛磁矩-比热-温度曲线(Tc≈415 K)](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/fig_2_L8RANRZE.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图2 FE-WZ′ Tl₂NO₂自旋极化能带/PDOS、自旋电荷密度、角度依赖MAE、蒙特卡洛磁矩-比热-温度曲线(Tc≈415 K)](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/fig_2_L8RANRZE.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：(a) PBE 级别下 FE-WZ′ Tl₂NO₂ 的自旋极化能带（左，费米能级设零，高对称点 Γ/M/K）与元素分辨 PDOS（右）；(b) sAFM 与 FM 态的自旋电荷密度顶/侧视图（等值面 0.1 e/Å³，青色自旋向上、橙色自旋向下）；(c) 磁矩在 xy、xz、yz 面内旋转时的角度依赖 MAE；(d) 基于海森堡模型的蒙特卡洛模拟给出的磁矩 M（红）与比热 Cv（紫）随温度曲线。
   - **关键特征**：N-2p_x/2p_y 轨道显著自旋极化，自旋向下能带穿越费米能级，呈金属性（巡游铁磁标志）；单胞净磁矩 1.06 μB，N 局域磁矩 0.6 μB，顶表面 O 贡献 0.2 μB，Tl 无磁矩（d/f 全满）；FM 比 sAFM 低 128.92 meV/N，D(EF)=5.03 states/eV/N、I≈0.97 eV 满足 Stoner 判据 D(EF)·I≈4.9>1；易磁化面为 xy 平面（面内各向同性），MAE≈166 μeV/N，可与 CrGeTe₃ 单层 220 μeV/f.u. 比拟；蒙特卡洛 Tc≈415 K（平均场近似 332 K），比热峰对应 FM–顺磁相变。
   - **结论**：证明 N-2p 巡游电子驱动了室温以上、抗 SOC 与 6% 应变的强铁磁金属态。
-  - ![图3 静电势差、电荷密度差、Tl₂NO₂极化反转路径(势垒0.65 eV)及In₂NO₂应变诱导双势阱](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/fig_3_T6UG5N7Z.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图3 静电势差、电荷密度差、Tl₂NO₂极化反转路径(势垒0.65 eV)及In₂NO₂应变诱导双势阱](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/fig_3_T6UG5N7Z.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：(a) 弛豫后单层沿 z 方向的静电势曲线；(b) FE-WZ′ 与 fcc Tl₂NO₂（左）、FE-ZB′ 与 fcc In₂NO₂（右）的电荷密度差顶/侧视图（等值面 1 e/Å³，绿色为电荷耗尽、黄色为积累、紫色箭头为电极化）；(c) FE-WZ′ Tl₂NO₂ 极化反转的 CI-NEB 最小能量路径；(d) FE-ZB′ In₂NO₂ 在 0–5% 双轴拉伸应变下、两反极性态（P 与 −P）之间的最小能量路径。
   - **关键特征**：Tl₂NO₂ 上下表面真空能级差 ΔΦ=0.75 eV，电偶极矩 p_e=0.045 eÅ，对应 P₂D=6.6 pC/m、P₃D=1.3 μC/cm²（取厚度 5.2 Å），与 α-In₂Se₃ 同数量级；极化反转经中心对称顺电相，势垒 0.65 eV/unit cell，与块体 Td-WTe₂（0.70 eV/f.u.）相当；In₂NO₂ 无应变时为单势阱、fcc 最稳定（非铁电），≥1% 拉伸应变出现双势阱，4% 应变下势垒最大 0.14 eV、P≈2.79 μC/cm²，同时 fcc 相声子出现虚频。
   - **结论**：证实 Tl₂NO₂ 为本征二维铁电金属，并演示 In₂NO₂ 可由应变工程从非铁电调为铁电金属。
-  - ![图4 Tl₂NO₂/WTe₂异质结中极化方向调控自旋分辨电荷转移与能带杂化（磁电效应）](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/fig_4_CBUZJBZC.png) → [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
+  - ![图4 Tl₂NO₂/WTe₂异质结中极化方向调控自旋分辨电荷转移与能带杂化（磁电效应）](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/fig_4_CBUZJBZC.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：(a)(b) Tl₂NO₂/WTe₂ 异质结在极化向上(a)与向下(b)时自旋向上/向下通道的电荷密度差（红 O、淡蓝 N、灰 Tl、橙 Te、绿 W 球；绿色箭头为极化方向，d 为层间距）；(c)(d) 对应的自旋分辨能带（橙/紫线为 Tl₂NO₂ 贡献的自旋向上/向下带，红/绿点大小表示 WTe₂ 贡献的自旋向上/向下态权重）。
   - **关键特征**：2H-WTe₂ 与 Tl₂NO₂ 晶格失配约 1%，层间作用以 DFT-D3 描述；极化向上（AA1 最稳堆垛）时从 WTe₂ 转移到 Tl₂NO₂ 的自旋向下电子显著增多，层间距与结合能同步下降；K 点附近两层自旋向下态在极化向上时于 EF 附近发生明显杂化，极化向下时无此现象；总磁矩由极化向下的 0.95 μB 降至极化向上的 0.90 μB。
   - **结论**：从电荷密度与能带两个层面证明翻转铁电极化可改变界面自旋选择性电荷转移，实现电场调控磁性的界面磁电效应。
-  - ![表1 各体系电偶极矩、二维/三维极化、真空能级差与反转势垒汇总](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/tab_1_F77ML8K3.png) -> [[../figures/mathematical-models|数学模型与物理公式]]
+  - ![表1 各体系电偶极矩、二维/三维极化、真空能级差与反转势垒汇总](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/tab_1_F77ML8K3.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：汇总 FE-ZB′ In₂NO₂、FE-ZB′ In₂NO₂(+4% 应变)、FE-WZ′ Tl₂NO₂ 三个体系的电偶极矩 p_e（eÅ/unit cell）、二维极化 P₂D（pC/m）、三维极化 P₃D（μC/cm²）、真空能级差 ΔΦ（eV/unit cell）和极化反转势垒 E_barrier（eV/unit cell）。
   - **关键特征**：FE-ZB′ In₂NO₂ 本征态 p_e=0.088、P₂D=13.90、P₃D=2.75、ΔΦ=1.57，但无反转势垒（fcc 更稳定，非铁电）；加 4% 应变后 p_e=0.092、P₂D=13.48、P₃D=2.79、ΔΦ=1.52、E_barrier=0.14，成为铁电体；FE-WZ′ Tl₂NO₂ p_e=0.045、P₂D=6.60、P₃D=1.26、ΔΦ=0.75、E_barrier=0.65，势垒最高，非易失性最好。
   - **结论**：定量对比三种体系的铁电关键参数，支撑"Tl₂NO₂ 本征铁电、In₂NO₂ 应变诱导铁电"的论断。
@@ -152,13 +141,9 @@ Haoqiang Ai, Feifei Li, Haoyun Bai, Dong Liu, Kin Ho Lo, Shengyuan A. Yang, Yosh
   - **project-1 双光子 / project-3 机械发光NN / project-6 湿度传感器**：无直接项目连接。
 
 ## 🔗 项目双链
-- 项目 [[../projects/project-1-two-photon|项目一：双光固化和双光发光]]
 - 项目 [[../projects/project-2-mn-multiferroics|项目二：Mn极化结构铁电材料]]
-- 项目 [[../projects/project-3-mechanoluminescence-nn|项目三：应力发光神经网络]]
 - 项目 [[../projects/project-4-ttf-molecular-calc|项目四：lsl老师的ttf分子计算]]
 - 项目 [[../projects/project-5-snte-ferroelectric-sim|项目五：lammps势函数SnTe铁电模拟]]
-- 项目 [[../projects/project-6-humidity-sensor|项目六：小花闻的电压湿度传感器]]
-- 项目 [[../projects/project-7-cdw-charge-density-wave|项目七：CDW电荷密度波]]
 
 ## 📝 组织与用词
   - 文章按"提出d⁰规则瓶颈 → 设计p轨道策略 → 筛选53种结构确定稳定相 → 分别验证磁性（Stoner机制）和铁电性（N偏心位移）→ 异质结演示磁电耦合"的因果链组织，逻辑是典型的"机理假设—计算验证—功能演示"范式。

@@ -5,8 +5,8 @@ title_zh: "用平面波基组计算金属和半导体从头算总能量的效率
 authors: [G. Kresse, J. Furthmüller]
 year: 1996
 journal: "Computational Materials Science"
-doi: "10.1016/0927-0256(96"
-url: "https://doi.org/10.1016/0927-0256(96"
+doi: "10.1016/0927-0256(96)00008-0"
+url: "https://doi.org/10.1016/0927-0256(96)00008-0"
 paper_type: theory
 status: ingested
 year_read: 2026
@@ -16,7 +16,7 @@ concepts: [density-functional-theory]
 entities: [VASP]
 methods: [dft]
 materials: []
-figures: [mathematical-models]
+figures: []
 领域基础知识:: >-
   本领域为计算材料科学中的第一性原理总能计算，基于密度泛函理论（DFT）的Kohn-Sham方程，采用平面波基组与赝势（pseudopotential）或超软赝势（ultrasoft pseudopotential, US-PP）来展开电子波函数，通过自洽求解电子基态能量与电荷密度。
 研究背景:: >-
@@ -51,7 +51,6 @@ tags:
   - entity/VASP
   - method/dft
   - topic/ferroelectricity
-  - topic/molecular-crystal
   - topic/multiferroics
 ---
 
