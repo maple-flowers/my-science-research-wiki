@@ -9,7 +9,7 @@ stoichiometry: Monolayer / Bilayer
 class: [vdW, magnet, semiconductor]
 properties: [ferromagnetism, interlayer-antiferromagnetism, multiferroic-coupling]
 related_entities: [CrTe2, VSe2, TMDs]
-papers: [chenStrongSlidingFerroelectricity2024, huangTwodimensionalIn2Se3Rising2022, cheongMultiferroicsMagneticTwist2007a, kaurRecentAdvancesTheoretical2025a, liPhaseTransitions2D2021, liuSpintronicsTwoDimensionalMaterials2020b, sunSlidingFerroelectricityTwodimensional2025, yangRipplingFerroicPhase2021, zhangNonvolatileControlTopological2025]
+papers: [chenStrongSlidingFerroelectricity2024, huangTwodimensionalIn2Se3Rising2022, cheongMultiferroicsMagneticTwist2007a, kaurRecentAdvancesTheoretical2025a, liPhaseTransitions2D2021, liuSpintronicsTwoDimensionalMaterials2020b, sunSlidingFerroelectricityTwodimensional2025, yangRipplingFerroicPhase2021, zhangNonvolatileControlTopological2025, laiTwodimensionalFerromagnetismDriven2019, songEvidenceSinglelayerVan2022, tangMultiferroicityTwodimensionalVan2025]
 updated: 2026-08
 ---
 
@@ -51,7 +51,9 @@ updated: 2026-08
 - [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
 - [[../papers/yangRipplingFerroicPhase2021]]
 - [[../papers/zhangNonvolatileControlTopological2025]]
-
+- [[../papers/laiTwodimensionalFerromagnetismDriven2019]]
+- [[../papers/songEvidenceSinglelayerVan2022]]
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/heisenberg-model|海森堡模型]]（描述其磁性的基础）

@@ -6,7 +6,7 @@ status: mature
 domain: [solid-state-physics, surface-science, microelectronics]
 mechanism: 将一个电子从材料内部移到表面外真空能级处所需的最小能量
 related_concepts: [schottky-barrier, band-alignment, band-offset, electrostatic-gating]
-papers: [chenHafniumBasedFerroelectricPostMoore2026, duUltrasensitiveOptoelectronicBiosensor2025, wangTwodimensionalFerroelectricMetal2025]
+papers: [chenHafniumBasedFerroelectricPostMoore2026, duUltrasensitiveOptoelectronicBiosensor2025, wangTwodimensionalFerroelectricMetal2025, wangTunableD0Topological2025b, wongEvidenceMetallic1T, wuNonvolatileSwitchableHalfmetallicity2024, yanagizawaSwitchingChargedensityWave2023]
 updated: 2026-08
 ---
 
@@ -51,7 +51,10 @@ $$\Phi = E_{vac} - E_F$$
 - [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]：讨论了铁电极化产生的表面场如何等效改变有效功函数，实现对肖特基二极管的调控。
 - [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]]：涉及金属纳米颗粒与二维材料界面处的电子逸出功平衡。
 - [[../papers/wangTwodimensionalFerroelectricMetal2025]]
-
+- [[../papers/wangTunableD0Topological2025b]]
+- [[../papers/wongEvidenceMetallic1T]]
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]]
+- [[../papers/yanagizawaSwitchingChargedensityWave2023]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/schottky-barrier|肖特基势垒]]

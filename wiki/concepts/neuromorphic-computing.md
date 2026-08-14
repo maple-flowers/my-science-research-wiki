@@ -6,7 +6,7 @@ status: mature
 domain: [artificial-intelligence, computer-architecture, neuroscience]
 mechanism: 模拟生物神经系统（神经元与突触）的并行、异步、存算一体计算范式
 related_concepts: [synaptic-plasticity, in-memory-computing, memristor, synaptic-weight]
-papers: [chenHafniumBasedFerroelectricPostMoore2026, xueEmergingNonvolatileMemories2011, huangTwodimensionalIn2Se3Rising2022, sunSlidingFerroelectricityTwodimensional2025]
+papers: [chenHafniumBasedFerroelectricPostMoore2026, xueEmergingNonvolatileMemories2011, huangTwodimensionalIn2Se3Rising2022, sunSlidingFerroelectricityTwodimensional2025, tahirFerroelectricityNonvolatileMemristor2025, zhangNonvolatileControlTopological2025]
 updated: 2026-08
 ---
 
@@ -47,7 +47,8 @@ updated: 2026-08
 - [[../papers/xueEmergingNonvolatileMemories2011]]：讨论了忆阻器在模拟突触功能中的应用。
 - [[../papers/huangTwodimensionalIn2Se3Rising2022]]
 - [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
-
+- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]
+- [[../papers/zhangNonvolatileControlTopological2025]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/synaptic-plasticity|突触可塑性]]

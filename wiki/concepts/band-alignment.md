@@ -6,7 +6,7 @@ status: mature
 domain: [semiconductor-physics, heterostructures]
 mechanism: 两种不同材料接触时，它们的导带底、价带顶以及费米能级在界面处的相对能量排布
 related_concepts: [band-offset, schottky-barrier, work-function, van-der-waals-heterostructure]
-papers: [duUltrasensitiveOptoelectronicBiosensor2025, liuSpintronicsTwoDimensionalMaterials2020b]
+papers: [duUltrasensitiveOptoelectronicBiosensor2025, liuSpintronicsTwoDimensionalMaterials2020b, dingPredictionIntrinsicTwodimensional2017a, wuSlidingFerroelectricity2D2021a]
 updated: 2026-08
 ---
 
@@ -45,7 +45,8 @@ updated: 2026-08
 
 - [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]]：研究了利用能带对齐（特别是 VHS 位置）与等离激元共振匹配实现高效传感。
 - [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]：讨论了自旋注入时铁磁金属与 2D 通道的能带匹配问题。
-
+- [[../papers/dingPredictionIntrinsicTwodimensional2017a]]
+- [[../papers/wuSlidingFerroelectricity2D2021a]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/band-offset|能带偏移]]

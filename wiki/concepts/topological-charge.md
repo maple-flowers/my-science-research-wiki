@@ -6,7 +6,7 @@ status: developing
 domain: [condensed-matter-physics, topological-physics, spintronics]
 mechanism: 实空间极化/自旋织构或动量空间能带流形中拓扑映射的卷绕数
 related_concepts: [berry-curvature, skyrmion, polar-vortex, bulk-boundary-correspondence, chern-number]
-papers: [hanPolarTopologicalMaterials2025, wangTunableD0Topological2025b, gomez-ortizKittelLawDomain2023, gongAbsenceCriticalThickness2023, zhangNonvolatileControlTopological2025]
+papers: [hanPolarTopologicalMaterials2025, wangTunableD0Topological2025b, gomez-ortizKittelLawDomain2023, gongAbsenceCriticalThickness2023, zhangNonvolatileControlTopological2025, Jia2023polymerization]
 updated: 2026-08
 ---
 
@@ -48,7 +48,7 @@ $$C = \frac{1}{2\pi} \oint_{S} \Omega \cdot d\vec{S} = \pm 1$$
 - [[../papers/gomez-ortizKittelLawDomain2023]]
 - [[../papers/gongAbsenceCriticalThickness2023]]
 - [[../papers/zhangNonvolatileControlTopological2025]]
-
+- [[../papers/Jia2023polymerization]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/skyrmion|斯格明子]]（典型的 $Q=\pm1$ 织构）

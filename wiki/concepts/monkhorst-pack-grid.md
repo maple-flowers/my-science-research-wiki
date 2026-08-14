@@ -6,7 +6,7 @@ status: mature
 domain: [computational-physics, electronic-structure]
 mechanism: 通过均匀划分布里渊区，生成一组特殊的 k 点集，用于数值积分计算电荷密度和总能量。
 related_concepts: [plane-wave-basis, self-consistent-field-cycle, methfessel-paxton-smearing]
-papers: [monkhorstSpecialPointsBrillouinzone1976, kresseEfficiencyAbinitioTotal1996a]
+papers: [monkhorstSpecialPointsBrillouinzone1976, kresseEfficiencyAbinitioTotal1996a, gajdosLinearOpticalProperties2006]
 updated: 2026-08
 ---
 
@@ -47,7 +47,7 @@ $$ \mathbf{k}_{prs} = u_p \mathbf{b}_1 + u_r \mathbf{b}_2 + u_s \mathbf{b}_3 $$
 
 - [[../papers/monkhorstSpecialPointsBrillouinzone1976]]：Monkhorst-Pack 方法的奠基之作，系统论述了网格生成与正交性。
 - [[../papers/kresseEfficiencyAbinitioTotal1996a]]：讨论了 MP 网格在金属体系中与展宽技术（Smearing）的协同收敛问题。
-
+- [[../papers/gajdosLinearOpticalProperties2006]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[methfessel-paxton-smearing|MP 展宽]]：处理金属费米面采样不连续问题的必备搭档。

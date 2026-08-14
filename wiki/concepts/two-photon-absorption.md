@@ -6,7 +6,7 @@ status: mature
 domain: [nonlinear-optics, biophotonics, photophysics]
 mechanism: 分子在极短时间内（~10^-15 s）同时吸收两个光子，从基态跃迁到高能激发态
 related_concepts: [two-photon-absorption-cross-section, two-photon-fluorescence, second-harmonic-generation, nonlinear-optics]
-papers: [Huang2023two, Huang2019solvatochromic, H2017fluorescence, Gittard2013polymerization, Khitrov2000holographic, Kumar2017microstructuring, Nakanishi2009full, Tobeiha2025optical, Unknown2014passive, WRZYSZCZYNSKI2010initiators, Zhang2008synthesis]
+papers: [Huang2023two, Huang2019solvatochromic, H2017fluorescence, Gittard2013polymerization, Khitrov2000holographic, Kumar2017microstructuring, Nakanishi2009full, Tobeiha2025optical, Unknown2014passive, WRZYSZCZYNSKI2010initiators, Zhang2008synthesis, Khitrov2002internal, Unknown2022polymerization]
 updated: 2026-08
 ---
 
@@ -51,7 +51,8 @@ TPA 最显著的物理特征是其**概率与入射光强度的平方成正比**
 - [[../papers/Unknown2014passive]]
 - [[../papers/WRZYSZCZYNSKI2010initiators]]
 - [[../papers/Zhang2008synthesis]]
-
+- [[../papers/Khitrov2002internal]]
+- [[../papers/Unknown2022polymerization]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/two-photon-absorption-cross-section|双光子吸收截面]]

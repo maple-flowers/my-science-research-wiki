@@ -84,6 +84,8 @@ Sugata Chowdhury、Heather M. Hill、Albert F. Rigosi、Patrick M. Vora、Angela
   - 概念 [[../concepts/moire-superlattice]]（展望中提到转角/异质结对 CDW 的调控）
   - 实体 [[../entities/TMDs]]
   - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/TaS2]]
+  - 实体 [[../entities/TaSe2]]
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/vibrational-spectra]]
   - 图表 [[../figures/heterostructures-stacking]]

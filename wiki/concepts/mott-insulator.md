@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, strongly-correlated-systems]
 mechanism: 由于电子间强烈的库仑排斥作用（Hubbard U），导致本应是金属的体系发生能隙打开而变为绝缘体
 related_concepts: [charge-density-wave, van-hove-singularity, pseudogap]
-papers: [Johannes2008fermi, CastroNeto2001charge, Koley2020charge, dudarevElectronenergylossSpectraStructural1998a, nakataRobustChargedensityWave2021, petkovStructureIntercalatedCs2002]
+papers: [Johannes2008fermi, CastroNeto2001charge, Koley2020charge, dudarevElectronenergylossSpectraStructural1998a, nakataRobustChargedensityWave2021, petkovStructureIntercalatedCs2002, perdewGeneralizedGradientApproximation1996a]
 updated: 2026-08
 ---
 
@@ -48,7 +48,7 @@ updated: 2026-08
 - [[../papers/dudarevElectronenergylossSpectraStructural1998a]]
 - [[../papers/nakataRobustChargedensityWave2021]]
 - [[../papers/petkovStructureIntercalatedCs2002]]
-
+- [[../papers/perdewGeneralizedGradientApproximation1996a]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/charge-density-wave|电荷密度波 (CDW)]]：常与莫特绝缘态在相同体系中出现。

@@ -6,7 +6,7 @@ status: mature
 domain: [computational-physics, density-functional-theory]
 mechanism: 通过从平滑赝波函数到全电子波函数的线性变换，兼顾全电子 LAPW 方法的高精度与平面波赝势方法的高效率
 related_concepts: [density-functional-theory, pseudopotential, frozen-core-approximation, overlap-operator, projector-functions]
-papers: [blochlProjectorAugmentedwaveMethod1994b, kresseUltrasoftPseudopotentialsProjector1999c, gajdosLinearOpticalProperties2006]
+papers: [blochlProjectorAugmentedwaveMethod1994b, kresseUltrasoftPseudopotentialsProjector1999c, gajdosLinearOpticalProperties2006, shishkinImplementationPerformanceFrequencydependentGWmethod2006]
 updated: 2026-08
 ---
 
@@ -57,7 +57,7 @@ $$S = 1 + \sum_{ij} |\tilde{p}_i\rangle (\langle\varphi_i|\varphi_j\rangle - \la
 - [[../papers/blochlProjectorAugmentedwaveMethod1994b]]：PAW 方法的奠基性理论论文，给出了详尽的推导与原子/分子测试基准。
 - [[../papers/kresseUltrasoftPseudopotentialsProjector1999c]]：将 PAW 形式化引入 VASP 软件，并论证了其与 Vanderbilt 超软赝势的等价性与优越性。
 - [[../papers/gajdosLinearOpticalProperties2006]]
-
+- [[../papers/shishkinImplementationPerformanceFrequencydependentGWmethod2006]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/density-functional-theory|密度泛函理论 (DFT)]]

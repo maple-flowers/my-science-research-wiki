@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, magnetism]
 mechanism: 铁磁/反铁磁界面处的交换相互作用导致磁滞回线发生水平漂移
 related_concepts: [magnetoelectric-coupling, multiferroicity, neel-temperature, Curie-temperature]
-papers: [rameshMultiferroicsProgressProspects2007, fiebigEvolutionMultiferroics2016, mostovoyMultiferroicsDifferentRoutes2024]
+papers: [rameshMultiferroicsProgressProspects2007, fiebigEvolutionMultiferroics2016, mostovoyMultiferroicsDifferentRoutes2024, tangMultiferroicityTwodimensionalVan2025]
 updated: 2026-08
 ---
 
@@ -45,7 +45,7 @@ $$ H_{eb} = \frac{J_{int}}{M_{FM} t_{FM}} $$
 - [[../papers/rameshMultiferroicsProgressProspects2007]]：详细讨论了在 BiFeO₃ 薄膜异质结中利用交换偏置实现电控磁的蓝图。
 - [[../papers/fiebigEvolutionMultiferroics2016]]：阐述了多铁性材料中交换偏置的动力学特性。
 - [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]：分析了新型范德华多铁界面处的交换偏置效应。
-
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/magnetoelectric-coupling|磁电耦合]]（应用目标）

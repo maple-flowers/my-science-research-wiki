@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, charge-density-wave]
 mechanism: 一维金属链在低温下由于电子-声子耦合发生的自发晶格畸变与电荷密度调制
 related_concepts: [charge-density-wave, fermi-surface-nesting, periodic-lattice-distortion, kohn-anomaly]
-papers: [Johannes2008fermi, Inosov2008fermi, CastroNeto2001charge, cossuStackingChargedensityWaves2024, kawakamiChargedensityWaveAssociated2023, liPhaseTransitions2D2021]
+papers: [Johannes2008fermi, Inosov2008fermi, CastroNeto2001charge, cossuStackingChargedensityWaves2024, kawakamiChargedensityWaveAssociated2023, liPhaseTransitions2D2021, Koley2020charge]
 updated: 2026-08
 ---
 
@@ -56,7 +56,7 @@ updated: 2026-08
 - [[../papers/cossuStackingChargedensityWaves2024]]
 - [[../papers/kawakamiChargedensityWaveAssociated2023]]
 - [[../papers/liPhaseTransitions2D2021]]
-
+- [[../papers/Koley2020charge]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/charge-density-wave|电荷密度波 (CDW)]]：派尔斯不稳定性的宏观表现。

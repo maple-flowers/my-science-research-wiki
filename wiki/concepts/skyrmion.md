@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, magnetism, topology]
 mechanism: 由 DMI 稳定出的具有非平庸拓扑电荷的准粒子磁构型
 related_concepts: [Dzyaloshinskii-Moriya-interaction, spin-spiral, magnetic-anisotropy]
-papers: [gongAbsenceCriticalThickness2023, tanRevealingEmergentMagnetic2024, mostovoyMultiferroicsDifferentRoutes2024, cheongMultiferroicsMagneticTwist2007a, wangTunableD0Topological2025b, zhangNonvolatileControlTopological2025]
+papers: [gongAbsenceCriticalThickness2023, tanRevealingEmergentMagnetic2024, mostovoyMultiferroicsDifferentRoutes2024, cheongMultiferroicsMagneticTwist2007a, wangTunableD0Topological2025b, zhangNonvolatileControlTopological2025, songEvidenceSinglelayerVan2022, zahraCriticalAnalysisFerroelectric2025, zhaoRealization2DMultiferroic2024]
 updated: 2026-08
 ---
 
@@ -41,7 +41,9 @@ updated: 2026-08
 - [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]
 - [[../papers/wangTunableD0Topological2025b]]
 - [[../papers/zhangNonvolatileControlTopological2025]]
-
+- [[../papers/songEvidenceSinglelayerVan2022]]
+- [[../papers/zahraCriticalAnalysisFerroelectric2025]]
+- [[../papers/zhaoRealization2DMultiferroic2024]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/dzyaloshinskii-moriya-interaction|DMI 相互作用]]（微观起源）

@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, charge-density-wave]
 mechanism: 费米面的平行片段通过特定波矢 q 互相平移重合的几何特性
 related_concepts: [charge-density-wave, peierls-instability, lindhard-function, kohn-anomaly]
-papers: [Johannes2008fermi, Inosov2008fermi, Laverock2005fermi, Barnett2006coexistence, CastroNeto2001charge, Kang2012dimer, Koley2020charge, Makogon2012wave, kawakamiChargedensityWaveAssociated2023, lezoualchStudyChargeDensity, wongEvidenceMetallic1T, yanagizawaSwitchingChargedensityWave2023, zhengAnisotropicSuperconductivityTwodimensional2025]
+papers: [Johannes2008fermi, Inosov2008fermi, Laverock2005fermi, Barnett2006coexistence, CastroNeto2001charge, Kang2012dimer, Koley2020charge, Makogon2012wave, kawakamiChargedensityWaveAssociated2023, lezoualchStudyChargeDensity, wongEvidenceMetallic1T, yanagizawaSwitchingChargedensityWave2023, zhengAnisotropicSuperconductivityTwodimensional2025, chowdhuryReviewTheoreticalComputational, gorkovStrongElectronlatticeCoupling2012, Islam2025enhancement, majumdarInterplayChargeDensity2020]
 updated: 2026-08
 ---
 
@@ -60,7 +60,10 @@ updated: 2026-08
 - [[../papers/wongEvidenceMetallic1T]]
 - [[../papers/yanagizawaSwitchingChargedensityWave2023]]
 - [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]]
-
+- [[../papers/chowdhuryReviewTheoreticalComputational]]
+- [[../papers/gorkovStrongElectronlatticeCoupling2012]]
+- [[../papers/Islam2025enhancement]]
+- [[../papers/majumdarInterplayChargeDensity2020]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/peierls-instability|派尔斯不稳定性]]：嵌套驱动的一维极限情形。

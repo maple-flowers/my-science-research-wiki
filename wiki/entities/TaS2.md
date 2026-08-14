@@ -8,7 +8,7 @@ stoichiometry: 1T
 class: [TMD, vdW, Mott-insulator]
 properties: [charge-density-wave, Mott-transition, superconductivity]
 related_entities: [1t-phase, NbSe2, VSe2]
-papers: [nakataRobustChargedensityWave2021, CastroNeto2001charge, Koley2020charge, hallEnvironmentalControlCharge]
+papers: [nakataRobustChargedensityWave2021, CastroNeto2001charge, Koley2020charge, hallEnvironmentalControlCharge, chowdhuryReviewTheoreticalComputational]
 updated: 2026-08
 ---
 
@@ -51,7 +51,7 @@ updated: 2026-08
 - [[../papers/CastroNeto2001charge]]：经典的 TMD CDW 物理综述。
 - [[../papers/Koley2020charge]]
 - [[../papers/hallEnvironmentalControlCharge]]
-
+- [[../papers/chowdhuryReviewTheoreticalComputational]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/charge-density-wave|电荷密度波 (CDW)]]

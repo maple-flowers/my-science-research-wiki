@@ -6,7 +6,7 @@ status: developing
 domain: [condensed-matter-physics, ferroelectricity]
 mechanism: 晶体内部具有相同自发极化取向的微观连续区域
 related_concepts: [domain-wall, polarization-switching, domain-wall-nucleation]
-papers: [Chen2016electrical, wuSlidingFerroelectricity2D2021a, huangPolarPhaseDomain2019, cuiIntercorrelatedInplaneOutofplane2018a]
+papers: [Chen2016electrical, wuSlidingFerroelectricity2D2021a, huangPolarPhaseDomain2019, cuiIntercorrelatedInplaneOutofplane2018a, houStrainbasedRoomtemperatureNonvolatile2019, sattarFunctionalizedDoubleTransition2025, shenEmergenceMultipleFerroelectric2025]
 updated: 2026-08
 ---
 
@@ -41,7 +41,9 @@ updated: 2026-08
 - [[../papers/huangPolarPhaseDomain2019]]：讨论了极性相中畴结构的稳定性及其对物性的影响。
 - [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]]
 - [[../papers/wuSlidingFerroelectricity2D2021a]]
-
+- [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]]
+- [[../papers/sattarFunctionalizedDoubleTransition2025]]
+- [[../papers/shenEmergenceMultipleFerroelectric2025]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/domain-wall|畴壁]]（界面层）
