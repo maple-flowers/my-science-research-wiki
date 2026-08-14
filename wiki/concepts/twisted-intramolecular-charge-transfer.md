@@ -1,14 +1,5 @@
----
-tags: [concept, stub]
----
+# twisted-intramolecular-charge-transfer
 
-
-# 扭曲分子内电荷转移 / Twisted Intramolecular Charge Transfer (TICT)
-
-扭曲分子内电荷转移（TICT）态，激发态给/受体绕键扭转近 90°，偶极极大、通常弱发光，对粘度和极性敏感。
-
-## Related Papers
-
-- [[../papers/H2017fluorescence]]
-- [[../papers/Huang2019solvatochromic]]
-- [[../papers/Huang2023two]]
+- [[../papers/H2017fluorescence]] — Dicyanostilbene-based Two-photon Thermo-solvatochromic Fluorescence Probes with Two-photon Triple Fluorescence
+- [[../papers/Huang2019solvatochromic]] — Stilbene-Based Two-Photon Thermo-Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature
+- [[../papers/Huang2023two]] — Two Dicyanostilbene-Based Two-Photon Fluorescence Environmentally Sensitive Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence

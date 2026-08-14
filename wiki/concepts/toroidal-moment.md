@@ -1,12 +1,6 @@
----
-tags: [concept, stub]
----
+# toroidal-moment
 
-# 环矩）
-
-环矩）：锥形磁体中 ⟨T⟩ ∝ ⟨P×M⟩，同时破缺时间与空间反演。
-
-## Related Papers
-
-- [[../papers/cheongMultiferroicsMagneticTwist2007a]]
-- [[../papers/nahasFrustrationSelfOrderingTopological2016]]
+- [[../papers/cheongMultiferroicsMagneticTwist2007a]] — Multiferroics: a magnetic twist for ferroelectricity
+- [[../papers/fiebigEvolutionMultiferroics2016]] — The evolution of multiferroics
+- [[../papers/nahasFrustrationSelfOrderingTopological2016]] — Frustration and Self-Ordering of Topological Defects in Ferroelectrics
+- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]] — Advances in magnetoelectric multiferroics

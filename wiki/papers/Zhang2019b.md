@@ -77,7 +77,7 @@ Lin Zhang, Yaming Wang，2019，JOM 71(12), 4917-4924，DOI 10.1007/s11837-019-0
 用单一 EAM 势的分子动力学系统揭示了钛纳米颗粒（13–3995 原子）在加热-冷却循环中的尺寸依赖相变路径（小颗粒二十面体、大颗粒 HCP→BCC→熔体）以及两颗粒聚结时的单畴化机制。
 ## 🔗 Wiki 双链
 本文涉及且 wiki 中已存在的条目：
-  - 年度 [[../write/2019]]
+  - 年度 [[../write/2015-2019|2019]]
   - 相关论文 [[../../raw/note/Zhang2019b]]
   - 概念：[[../concepts/molecular-dynamics|分子动力学 (MD)]]、[[../concepts/embedded-atom-method|嵌入原子法 (EAM)]]、[[../concepts/icosahedral-cluster|二十面体团簇]]、[[../concepts/hcp-bcc-transition|HCP-BCC 固-固相变]]、[[../concepts/dulong-petit-law|杜隆-珀蒂定律]]、[[../concepts/size-dependent-melting|尺寸依赖熔化]]、[[../concepts/undercooling-hysteresis|过冷与相变滞后]]、[[../concepts/particle-coalescence|纳米颗粒聚结]]
   - 实体：[[../entities/Moldy|Moldy]]

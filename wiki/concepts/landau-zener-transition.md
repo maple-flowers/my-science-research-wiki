@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# landau-zener-transition
 
-# 朗道-齐纳跃迁
-
-朗道-齐纳跃迁：参数扫过避免交叉点时量子态间的非绝热跃迁
-
-## Related Papers
-
-- [[../papers/ivanovskiOscillationStructureHall1994]]
+- [[../papers/ivanovskiOscillationStructureHall1994]] — The oscillation structure of the Hall current in the presence of a contact surface

@@ -1,60 +1,112 @@
 ---
-tags: [concept, switching, dynamics, ferroelectric, polarization]
-category: [D02, Z01]
+tags: [concept, ferroelectricity, polarization]
+title: 极化翻转 / Polarization Switching
+type: concept
+status: mature
+domain: [ferroelectricity, dielectric-physics]
+mechanism: 外加电场驱动下，铁电自发极化偶极子克服势垒重定向的过程
+related_concepts: [ferroelectricity, sliding-ferroelectricity, domain-wall-motion, depolarization-field]
+papers: [huangTwodimensionalIn2Se3Rising2022, heUltrafastSwitchingDynamics2024, zhangEmergingFrontiersTwodimensional2025, Chen2016electrical, FerroelectricityMultiferroicityAtomic2023, Jin2015studying, Kim2008effect, RecentAdvancesGrowth2025, aiFerroelectricityCoexistedPorbital2022, bhowalPolarMetalsPrinciples2023b, caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025, chenHafniumBasedFerroelectricPostMoore2026, chenStrongSlidingFerroelectricity2024, cheongMultiferroicsMagneticTwist2007a, cuiIntercorrelatedInplaneOutofplane2018a, deSousa2008electrical, dingPredictionIntrinsicTwodimensional2017a, feiFerroelectricSwitchingTwodimensional2018a, fengFerroelectricityMultiferroicityTwodimensional2020, fiebigEvolutionMultiferroics2016, gaoStrainEngineeringFerroelectric2024, gomez-ortizKittelLawDomain2023, gongAbsenceCriticalThickness2023, guanRecentProgressTwoDimensional2020, guoAdvancesTwodimensionalFerroelectric2025, hanPolarTopologicalMaterials2025, hanTunableSlidingFerroelectricity2025, heSwitchingTwodimensionalSliding2025, houStrainbasedRoomtemperatureNonvolatile2019, huProgressProspectsLowdimensional2019, huangPolarPhaseDomain2019, junqueraCriticalThicknessFerroelectricity2003, kaurRecentAdvancesTheoretical2025a, king-smithTheoryPolarizationCrystalline1993, laiTwodimensionalFerromagnetismDriven2019, liPhaseTransitions2D2021, martinThinfilmFerroelectricMaterials2016, miaoMagneticFerroelectricMetal2024, mostovoyMultiferroicsDifferentRoutes2024, neumayerCompetingPolarPhases2025, rameshMultiferroicsProgressProspects2007, sharmaRoomtemperatureFerroelectricSemimetal2019, shenEmergenceMultipleFerroelectric2025, spaldinRenaissanceMagnetoelectricMultiferroics2005, sunSlidingFerroelectricityTwodimensional2025, tahirFerroelectricityNonvolatileMemristor2025, tangCombiningIntrinsicSlidinginduced2025, tangMultiferroicityTwodimensionalVan2025, tianRoomtemperatureTwodimensionalMultiferroic2026, wangTunableD0Topological2025b, wangTwodimensionalFerroelectricMetal2025, wuCoexistenceFerroelectricityAntiferroelectricity2024, wuNonvolatileSwitchableHalfmetallicity2024, wuSlidingFerroelectricity2D2021a, xiangTwodimensionalRoomTemperature2020, xuTunableFerroelectricTopological2022, xuTwodimensionalFerroelasticityVan2021, xueEmergingNonvolatileMemories2011, yangRipplingFerroicPhase2021, yuFerroelectricControlMagnetism2026, zahraCriticalAnalysisFerroelectric2025, zhangNonvolatileControlTopological2025, zhaoRealization2DMultiferroic2024]
+updated: 2026-08
 ---
 
-# 极化翻转与动力学 / Polarization Switching Dynamics
+# 极化翻转 / Polarization Switching
 
-铁电及多铁材料在外加电场、机械应变、光照或热激发作用下，其自发极化矢量发生方向改变（如 $180^\circ$ 反转或 $90^\circ$ 转向）的非平衡动力学过程。极化翻转速率、临界场强度及翻转路径是决定铁电存储器（FeRAM/FTJ）和逻辑器件工作速度与功耗的关键物理指标。
+极化翻转 (Polarization Switching) 是铁电材料在外加足够大电场（矫顽电场）作用下，其内部自发极化方向发生可逆改变的物理过程。它是铁电体在非易失性数据存储、压电换能及多态逻辑器件中应用的基础。
 
-## 1. 经典翻转模型与机制
+## 👵 太奶导读
 
-实际晶体中的极化翻转很少通过单畴均匀翻转（Stoner-Wohlfarth 型，势垒极高）完成，通常遵循以下机制：
+孩子，这个“极化翻转”其实就像是阅兵式上的队伍转方向。
+在铁电材料内部，住着一排排排得整整齐齐的“小箭头”（电偶极子），它们可能全都指着上方（这就是极化向上）。
+当你在外面接上电，施加一个反向电场时，这电场就像是教官喊了一声“齐步掉头！”
+于是，这些小箭头就会刷地一下全掉过头来，指着下方了（这就是极化翻转）。
+传统的翻转是让原子在格子里上下跳，而最新的“滑移翻转”则像是指尖搓两层纸，只要轻轻一滑，这小箭头就掉过头去了，既省力又好用。
 
-- **畴壁核化与生长**：极化翻转始于反向畴的核化（通常在缺陷、晶界或电极界面），随后通过[[../entities/domain-wall|畴壁（Domain Wall）]]的横向运动扩张完成。
-- **KAI 模型 (Kolmogorov-Avrami-Ishibashi)**：适用于理想单晶，描述畴在均匀成核后的线性扩张过程。
-- **NLS 模型 (Nucleation-Limited Switching)**：适用于多晶或存在无序的系统，翻转速率受限于局部成核时间的分布，表现为展宽的翻转时间特性。
+## 🏗️ 结构概览：协同翻转路径
 
-## 2. 二维滑动铁电体的超快动力学
+在二维铁电材料（如 α-In₂Se₃）中，极化翻转表现出高度的层间协同性。
 
-范德华（vdW）二维材料（如双层 [[../entities/h-BN|h-BN]]、[[../entities/TMDs|3R-MoS₂]]）通过层间相对滑动克服弱 vdW 势垒实现极化反转，表现出不同于传统铁电体的动力学特征：
+![图：α-In₂Se₃ 的极化翻转势垒与路径（单步 vs 三步协同）](../../raw/figures/huangTwodimensionalIn2Se3Rising2022/fig_8_EC7NT7IT.png)
+*   **看图要点**：图中对比了两种翻转路径。直接单步跳跃的势垒极高（~0.85 eV/u.c.），而通过上三层集体滑动、经过 β' 中间相、再让 Se(m) 旋转的三步协同路径，其势垒仅为 0.066 eV/u.c.。这在理论上解释了该材料能实现超快翻转的原因。
+*   **来源**：[[../papers/huangTwodimensionalIn2Se3Rising2022]] -> [[../figures/mathematical-models|数学模型与物理公式]]
 
-- **皮秒级超快翻转**：[[../papers/heUltrafastSwitchingDynamics2024|Ultrafast switching dynamics of the ferroelectric domain wall]] 研究指出，滑动铁电体在电场驱动下可实现皮秒至纳秒级的翻转。其畴壁运动的临界电场（约 0.026 V/nm）比单畴翻转势垒（约 1.41 V/nm）低近两个数量级。
-- **异常宽的畴壁与高速度**：由于层间滑动势垒较低，滑动铁电畴壁异常宽（达 10-40 nm）。模拟显示畴壁移动速度可达 ~6000 m/s，接近声速。其畴壁宽度 $w$ 遵循 1D 弹性模型 $w \propto \sqrt{\lambda_{1D}/\Delta}$，其中 $\lambda_{1D}$ 为一维弹性模量，$\Delta$ 为层间堆垛势垒。
-- **滑动声子模式**：极化翻转由软化的“滑动声子（Sliding Phonon）”模式触发，这决定了层间滑动的本征频率限。
+## 🧩 机制：畴壁运动与滑移
 
-## 3. 多场驱动的翻转新范式
+在宏观上，极化翻转很少通过整畴直接均匀跳跃完成，而是通过畴壁运动 (Domain Wall Motion) 实现。
 
-- **机械弯曲与扭结（Kinks）**：
-  在 [[../papers/heSwitchingTwodimensionalSliding2025|Switching Two-Dimensional Sliding Ferroelectrics by Mechanical Bending]] 中，研究者发现机械弯曲会在双层 vdW 材料中诱导不可逆的扭结（Kink）。扭结本质上是**铁电拓扑畴壁**：
-    - **3R-hBN 31° 扭结**：对应 Néel 型畴壁，极化在面内平滑旋转实现反转。
-    - **57° 扭结**：对应 Ising 型畴壁，极化在畴壁中心消失并反向。
-  这种机制不同于传统的**挠曲电效应（Flexoelectricity）**，其核心是弯曲能与层间堆垛能的竞争导致的局部层间滑动。
-- **铁电金属与半金属的电场调控**：
-  二维铁电半金属（如 WTe₂）的极化翻转具有特殊的非挥发特性。[[../papers/feiFerroelectricSwitchingTwodimensional2018a|Ferroelectric switching of a two-dimensional metal]] 首次证实了在双层 WTe₂ 中，利用栅极电场调控带边电子结构和层间电荷相关性，可实现室温下的稳定翻转，并伴随双稳态电导特征。
+![图：h-BN 双层中 0° 与 90° 铁电畴壁运动过程](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_6_IH4EUPKK.png)
+*   **关键特征**：在剪切力/电场作用下，不同极化的畴壁（如 AB 畴与 BA 畴的边界）发生移动。畴壁运动所需的临界驱动电场比单畴直接翻转低两个数量级，这揭示了低矫顽场的物理起源，并展示了皮秒量级的超快开关动力学。
+*   **来源**：[[../papers/heUltrafastSwitchingDynamics2024]] -> [[../figures/domain-walls-structures|畴结构与畴壁]]
 
-## 4. 莫尔超晶格与缺陷效应
+## 📚 相关论文 (Related Papers)
 
-- **超顺电性（Super-paraelectricity）**：在无缺陷的[[moire-superlattice|莫尔超晶格]]中，极化畴在极低场下即可发生可逆运动，表现出零滞后的超顺电特征。
-- **缺陷钉扎（Defect Pinning）**：氮空位（$V_N$）等点缺陷会作为畴壁的钉扎中心，在超顺电背景中诱导出迟滞回线，使非挥发存储成为可能。
+- [[../papers/huangTwodimensionalIn2Se3Rising2022]]：研究了 α-In₂Se₃ 中“再成键”和“偶极锁定”主导的翻转机制。
+- [[../papers/heUltrafastSwitchingDynamics2024]]：利用机器学习势大尺度模拟了滑移铁电中畴壁运动的超快动力学。
+- [[../papers/zhangEmergingFrontiersTwodimensional2025]]：综述了滑动铁电体系中多样化的层间翻转行为和多态存储潜力。
+- [[../papers/Chen2016electrical]]
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]]
+- [[../papers/Jin2015studying]]
+- [[../papers/Kim2008effect]]
+- [[../papers/RecentAdvancesGrowth2025]]
+- [[../papers/aiFerroelectricityCoexistedPorbital2022]]
+- [[../papers/bhowalPolarMetalsPrinciples2023b]]
+- [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]
+- [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]
+- [[../papers/chenStrongSlidingFerroelectricity2024]]
+- [[../papers/cheongMultiferroicsMagneticTwist2007a]]
+- [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]]
+- [[../papers/deSousa2008electrical]]
+- [[../papers/dingPredictionIntrinsicTwodimensional2017a]]
+- [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]
+- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]]
+- [[../papers/fiebigEvolutionMultiferroics2016]]
+- [[../papers/gaoStrainEngineeringFerroelectric2024]]
+- [[../papers/gomez-ortizKittelLawDomain2023]]
+- [[../papers/gongAbsenceCriticalThickness2023]]
+- [[../papers/guanRecentProgressTwoDimensional2020]]
+- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]
+- [[../papers/hanPolarTopologicalMaterials2025]]
+- [[../papers/hanTunableSlidingFerroelectricity2025]]
+- [[../papers/heSwitchingTwodimensionalSliding2025]]
+- [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]]
+- [[../papers/huProgressProspectsLowdimensional2019]]
+- [[../papers/huangPolarPhaseDomain2019]]
+- [[../papers/junqueraCriticalThicknessFerroelectricity2003]]
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]
+- [[../papers/king-smithTheoryPolarizationCrystalline1993]]
+- [[../papers/laiTwodimensionalFerromagnetismDriven2019]]
+- [[../papers/liPhaseTransitions2D2021]]
+- [[../papers/martinThinfilmFerroelectricMaterials2016]]
+- [[../papers/miaoMagneticFerroelectricMetal2024]]
+- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]
+- [[../papers/neumayerCompetingPolarPhases2025]]
+- [[../papers/rameshMultiferroicsProgressProspects2007]]
+- [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]]
+- [[../papers/shenEmergenceMultipleFerroelectric2025]]
+- [[../papers/spaldinRenaissanceMagnetoelectricMultiferroics2005]]
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
+- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]
+- [[../papers/tangCombiningIntrinsicSlidinginduced2025]]
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]]
+- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]
+- [[../papers/wangTunableD0Topological2025b]]
+- [[../papers/wangTwodimensionalFerroelectricMetal2025]]
+- [[../papers/wuCoexistenceFerroelectricityAntiferroelectricity2024]]
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]]
+- [[../papers/wuSlidingFerroelectricity2D2021a]]
+- [[../papers/xiangTwodimensionalRoomTemperature2020]]
+- [[../papers/xuTunableFerroelectricTopological2022]]
+- [[../papers/xuTwodimensionalFerroelasticityVan2021]]
+- [[../papers/xueEmergingNonvolatileMemories2011]]
+- [[../papers/yangRipplingFerroicPhase2021]]
+- [[../papers/yuFerroelectricControlMagnetism2026]]
+- [[../papers/zahraCriticalAnalysisFerroelectric2025]]
+- [[../papers/zhangNonvolatileControlTopological2025]]
+- [[../papers/zhaoRealization2DMultiferroic2024]]
 
-## 本库相关论文
+## 🔗 关联概念与实体 (Related Concepts & Entities)
 
-- **动力学模拟与机制**：
-  - [[../papers/heUltrafastSwitchingDynamics2024|Ultrafast switching dynamics of the ferroelectric domain wall]]：利用机器学习势揭示 h-BN 超快畴壁运动。
-  - [[../papers/heSwitchingTwodimensionalSliding2025|Switching Two-Dimensional Sliding Ferroelectrics by Mechanical Bending]]：机械弯曲诱导的扭结与极化翻转。
-- **二维铁电体系探索**：
-  - [[../papers/feiFerroelectricSwitchingTwodimensional2018a|Ferroelectric switching of a two-dimensional metal]]：双层 WTe₂ 铁电金属的发现。
-  - [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019|A room-temperature ferroelectric semimetal]]：室温铁电半金属开关特性。
-  - [[../papers/yangRipplingFerroicPhase2021|Rippling Ferroic Phase Transition and Domain Switching]]：机械皱褶诱导的相变与翻转。
-- **器件应用**：
-  - [[../papers/sunSlidingFerroelectricityTwodimensional2025|Sliding ferroelectricity in two-dimensional van der Waals materials]]：综述滑动铁电的翻转特性及其在非易失存储中的应用。
-
-## 关联概念与实体
-
-- [[sliding-ferroelectricity|滑动铁电性 Sliding Ferroelectricity]]
-- [[moire-superlattice|莫尔超晶格 Moiré Superlattice]]
-- [[../entities/domain-wall|畴壁 Domain Wall]]
-- [[../entities/h-BN|氮化硼 h-BN]]
-- [[../entities/TMDs|过渡金属硫化物 TMDs]]
-- [[../entities/deep-potential|机器学习势 Deep Potential]]
+- [[../concepts/sliding-ferroelectricity|滑动铁电性]]（横向滑移翻转）
+- [[../concepts/domain-wall-motion|畴壁运动]]（翻转主要途径）
+- [[../concepts/depolarization-field|退极化场]]（阻碍翻转的长程力）
+- [[../entities/In2Se3|In₂Se₃]]（典型翻转材料）

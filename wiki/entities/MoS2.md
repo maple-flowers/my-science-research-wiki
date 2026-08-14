@@ -1,51 +1,66 @@
 ---
-title: 二硫化钼 / Molybdenum Disulfide (MoS2)
+tags: [entity, material, TMD, 2D, semiconductor]
+title: 二硫化钼 (MoS2) / Molybdenum Disulfide
 type: entity
-tags: [TMDs, 2D-materials, sliding-ferroelectricity, semiconductor, dichalcogenide]
-category: [D02, Z01]
+status: mature
+formula: MoS2
+stoichiometry: 2H
+class: [TMD, vdW, semiconductor]
+properties: [direct-bandgap, valley-polarization, photoluminescence]
+related_entities: [WS2, MoTe2, 2h-phase, 1t-phase]
+papers: [liPhaseTransitions2D2021, RecentAdvancesGrowth2025, FerroelectricityMultiferroicityAtomic2023, Li2013bonding, Owji20212d, chenHafniumBasedFerroelectricPostMoore2026, guanRecentProgressTwoDimensional2020, kaurRecentAdvancesTheoretical2025a, liuSpintronicsTwoDimensionalMaterials2020b, sunSlidingFerroelectricityTwodimensional2025]
+updated: 2026-08
 ---
 
-# 二硫化钼 / Molybdenum Disulfide (MoS2)
+# 二硫化钼 (MoS2) / Molybdenum Disulfide
 
-**MoS₂** 是最典型的过渡金属二硫族化合物（TMD），因其层状范德华结构、直接带隙单层半导体特性以及多晶相（2H、1T、3R、1T'）可调性，成为二维电子学、铁电学和自旋电子学的核心研究平台。
+二硫化钼 (MoS2) 是二维半导体领域的明星材料。它在块体状态下是间接带隙半导体，但当减薄至单层时，由于量子限制效应转变为直接带隙半导体，展现出极强的光致发光 (PL) 效应和独特的能谷电子学性质。
 
-## 核心物理特性
+## 奶奶导读
 
-### 滑动铁电性
-- **3R 相 MoS₂**：3R 堆垛的 MoS₂ 双层/多层天然具备非中心对称结构，表现出面外滑动铁电极化，极化强度约 **0.05 μC/cm²**，可在室温下电场切换 [[../papers/chenStrongSlidingFerroelectricity2024]]。
-- **堆叠工程铁电**：两个相同的 MoS₂ 单层平行堆叠即可在室温观测到铁电回滞；交替堆叠 MoS₂/WS₂ 无需转角即可破缺对称性获得面外铁电 [[../papers/FerroelectricityMultiferroicityAtomic2023]]。
-- **抗疲劳机制**：3R-MoS₂ 器件的抗疲劳性源于硫空位迁移能垒（层内 2.6 eV，层间 4.6 eV）远高于极化切换能垒（~136 meV），单个硫空位无法钉扎畴壁，可稳定响应 53 ns 超短脉冲 [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]。
+太奶啊，这 MoS2 就是二维材料里的“变形金刚”和“发光纸片”。它本来像是一叠厚厚的黑色复写纸，虽然能导电但不太亮眼。可如果您把它撕到只剩一层薄薄的原子层，它就会突然“变身”，变得非常爱发光（光致发光）。而且它还有两个像“山谷”一样的电子能量坑，我们可以用特定的光让电子只进其中的一个坑（能谷极化），就像给电子发了不同的通行证。
 
-### 1T 相与应变铁电
-- **d1T-MoS₂**：理论预测的二维铁电材料，通过三聚化畸变破缺中心对称，产生本征面内极化 [[../papers/guanRecentProgressTwoDimensional2020]]。
-- **应变工程**：MoS₂ 的应变输出约 5.8%，作为二维驱动材料的典型对比基准 [[../papers/chenFerromagneticNonmagnetic1T2022]]。
+## 🏗️ 结构概览
 
-### 器件应用
-- **FeFET**：MoS₂ 作为沟道材料与铁电层（PZT、CuInP2S6）构成铁电场效应晶体管，实现非易失存储与光电探测 [[../papers/guanRecentProgressTwoDimensional2020]]。
-- **后摩尔铁电器件**：MoS₂ 作为沟道材料用于 HfO₂ 基铁电 FET，是后摩尔非易失存储的重要候选 [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]。
+MoS2 的稳态结构为 2H 相，Mo 原子位于六角排列的 S 原子中心，呈三棱柱配位。
 
-## 主要物性参数
+![图：MoS2 的多晶型结构 (2H vs 1T)](../../raw/figures/liPhaseTransitions2D2021/fig_5_RCAID2CF.png)
+*   **看图要点**：图中对比了 MoS2 的 2H 相（三棱柱配位，半导体）和 1T 相（八面体配位，金属）。2H 相是自然界最稳定的形态。
+*   **来源**：[[../papers/liPhaseTransitions2D2021]] -> [[../figures/crystal-structures-bulk|晶体结构]]
 
-| 参数 | 数值 | 备注 |
-| :--- | :--- | :--- |
-| 单层带隙 | ~1.8 eV (直接) | 单层；块体为间接带隙 ~1.2 eV |
-| 滑动铁电极化 (3R) | ~0.05 μC/cm² | 双层 |
-| 晶体结构 | 2H / 3R / 1T / 1T' | 多晶相可调 |
+## 🧩 直接带隙与光电性能
 
-## Related Papers
+MoS2 的最显著特征是随厚度减薄发生的带隙转变。
 
-- [[../papers/FerroelectricityMultiferroicityAtomic2023]]：综述，堆叠工程铁电中 MoS₂ 的角色
-- [[../papers/guanRecentProgressTwoDimensional2020]]：d1T-MoS₂ 理论铁电预测
-- [[../papers/chenStrongSlidingFerroelectricity2024]]：3R-MoS₂ 极化强度作为对比基准
-- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]：3R-MoS₂ 抗疲劳机制与器件性能
-- [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]：MoS₂ 沟道铁电 FET
-- [[../papers/chenFerromagneticNonmagnetic1T2022]]：MoS₂ 应变输出对比
-- [[../papers/Li2013bonding]]：MoS₂ 化学键分析
+*   **带隙转变**：从块体的 $\sim 1.2\text{ eV}$（间接）转变为单层的 $\sim 1.8\text{ eV}$（直接）。
+*   **能谷电子学**：在单层 MoS2 中，由于空间反演对称性破缺和强自旋-轨道耦合，$K$ 和 $K'$ 能谷的电子具有不同的角动量特性，可通过圆偏振光选择性激发。
+*   **相变工程**：通过锂离子插层或电场调控，MoS2 可以从 2H 相转变为金属性的 1T 或 1T' 相，用于开发高性能忆阻器或催化电极。
 
-## 关联概念与实体
+## 🔬 物理参数表
 
-- [[../concepts/sliding-ferroelectricity|滑动铁电性]]
-- [[../concepts/2D-materials|二维范德华材料]]
-- [[../entities/TMDs|过渡金属硫族化合物 TMDs]]
-- [[../entities/MoTe2|碲化钼 MoTe₂]]
-- [[../entities/WTe2|碲化钨 WTe₂]]
+| 属性 | 数值 (单层) |
+| :--- | :--- |
+| 带隙 (Bandgap) | $\sim 1.8\text{ eV}$ (直接) |
+| 载流子迁移率 | $200\text{--}500\text{ cm}^2\text{V}^{-1}\text{s}^{-1}$ |
+| 激子结合能 | $\sim 0.5\text{ eV}$ |
+
+## 📚 相关论文 (Related Papers)
+
+- [[../papers/liPhaseTransitions2D2021]]：详细讨论了 MoS2 的相变与调控机制。
+- [[../papers/RecentAdvancesGrowth2025]]：综述了 TMD 晶圆级生长的最新进展。
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]]
+- [[../papers/Li2013bonding]]
+- [[../papers/Owji20212d]]
+- [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]
+- [[../papers/guanRecentProgressTwoDimensional2020]]
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]
+- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../concepts/valley-polarization|能谷极化]]
+- [[../concepts/photoluminescence|光致发光]]
+- [[../entities/WS2|二硫化钨 (WS2)]]
+- [[../entities/2h-phase|2H 相]]
+- [[../entities/1t-phase|1T 相]]

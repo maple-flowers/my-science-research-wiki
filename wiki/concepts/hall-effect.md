@@ -1,12 +1,6 @@
----
-tags: [concept, stub]
-aliases: ["铁电非线性反常霍尔效应"]
----
+# hall-effect
 
-# 霍尔效应
-
-霍尔效应：正交电磁场下载流子产生横向电流的现象
-
-## Related Papers
-
-- [[../papers/ivanovskiOscillationStructureHall1994]]
+- [[../papers/ivanovskiOscillationStructureHall1994]] — The oscillation structure of the Hall current in the presence of a contact surface
+- [[../papers/kaurRecentAdvancesTheoretical2025a]] — Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials
+- [[../papers/pengStrainEngineering2D2020]] — Strain engineering of 2D semiconductors and graphene: from strain fields to band-structure tuning and photonic applications
+- [[../papers/xunCoexistingMagnetismFerroelectric2024]] — Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensional Materials

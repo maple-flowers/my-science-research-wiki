@@ -1,75 +1,89 @@
 ---
-tags: [entity, material, 2D, vdW, TMD, ferroelectric-metal, topological-semimetal, sliding-ferroelectricity]
-title: 二碲化钨 / Tungsten Ditelluride (WTe2)
+tags: [entity, material, TMD, 2D, semimetal, ferroelectric]
+title: 二碲化钨 (WTe2) / Tungsten Ditealluride
 type: entity
 status: mature
-category: [D01, Z02]
 formula: WTe2
-aliases: ["WTe₂", "tungsten ditelluride"]
-class: [TMD, 1T-prime-Td-phase, semimetal, topological]
-properties: [ferroelectric-metal, sliding-ferroelectricity, weyl-semimetal, giant-magnetoresistance, quantum-spin-hall, superconductivity]
-related_entities: [TMDs, MoTe2, CrTe2]
-key_quantities:
-  P_out_bilayer: "~0.42 pC/m（双层实验值）"
-  switching_temperature: "~350 K（双层/三层电滞回线）"
-  monolayer_Tc_SC: "~1 K（静电掺杂下单层超导）"
-  sliding_path: "沿 b 轴 ~0.49–0.72 Å，能垒 ~0.3–0.6 meV/cell（理论）"
-  note: "单层无电滞回线，证明极化来自层间电荷重排而非本征离子位移"
-papers: [feiFerroelectricSwitchingTwodimensional2018a, guoAdvancesTwodimensionalFerroelectric2025, zhaoRealization2DMultiferroic2024]
+stoichiometry: Td
+class: [TMD, vdW, semimetal]
+properties: [ferroelectric-metal, weyl-semimetal, magnetoresistance]
+related_entities: [MoTe2, td-phase]
+papers: [sharmaRoomtemperatureFerroelectricSemimetal2019, liPhaseTransitions2D2021, FerroelectricityMultiferroicityAtomic2023, Li2013bonding, aiFerroelectricityCoexistedPorbital2022, bhowalPolarMetalsPrinciples2023b, chenFerromagneticNonmagnetic1T2022, chenStrongSlidingFerroelectricity2024, feiFerroelectricSwitchingTwodimensional2018a, gaoStrainEngineeringFerroelectric2024, guanRecentProgressTwoDimensional2020, guoAdvancesTwodimensionalFerroelectric2025, hanTunableSlidingFerroelectricity2025, heSwitchingTwodimensionalSliding2025, huProgressProspectsLowdimensional2019, huangPolarPhaseDomain2019, kaurRecentAdvancesTheoretical2025a, liFerroelasticityDomainPhysics2016, miaoMagneticFerroelectricMetal2024, neumayerCompetingPolarPhases2025, nicholsonUniaxialStraininducedPhase2021, niuDirectVisualizationLargeScale2021, pedramraziManipulatingTopologicalDomain2019, pengStrainEngineering2D2020, shenEmergenceMultipleFerroelectric2025, sunSlidingFerroelectricityTwodimensional2025, wangFormationMechanismTwin2019, wuElectrostaticGatingIntercalation2022, wuSlidingFerroelectricity2D2021a, yangRipplingFerroicPhase2021, yuFerroelectricControlMagnetism2026, zhangEmergingFrontiersTwodimensional2025, zhaoRealization2DMultiferroic2024]
 updated: 2026-08
 ---
 
-# 二碲化钨 / Tungsten Ditelluride (WTe2)
+# 二碲化钨 (WTe2) / Tungsten Ditealluride
 
-WTe2 是过渡金属二硫化物（TMD）家族的"异类"：它是半金属而非半导体，并集**铁电金属性、Weyl 半金属、巨磁阻、量子自旋霍尔边缘态与门压可调超导**于一身。2018 年，双层/少层 WTe2 成为**首个被实验证实的二维滑移铁电体**——在金属性导电背景下，垂直电场仍可非易失地翻转面外极化，打破了"金属中自由电子必屏蔽偶极、故不能铁电"的传统认知 [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]。
+二碲化钨 (WTe2) 是一种极为特殊的过渡金属硫族化合物。它在体相下以不具有空间反演对称性的 $T_d$ 相稳定存在，是公认的 **II 型外尔半金属 (Type-II Weyl Semimetal)**。更具革命性的是，WTe2 也是首个被实验证实存在室温**铁电半金属**（极性金属）特性的范德华材料。
 
-## 👵 太奶导读
+## 奶奶导读
 
-太奶，照老理儿说，能导电的金属是做不成"铁电"（能记住电方向）的：金属里自由电子太多，一点电荷偏向立刻被它们中和抹平了，就像在水坑里垒不住沙堡。可这 WTe2 偏破了规矩——它一边能导电，一边还能记住电的方向，所以叫"铁电金属"。
-
-它的机关不在原子搬家，而在"搓牌"：两层 WTe2 薄片沿某一方向轻轻错开一点点，两层交接处的电子云就不对称了，攒出一个垂直方向的电偏向；再往回一搓，偏向就反过来。单层时没这个效应（因为没有"两张牌"可搓），两层三层才出现能记住的电回线，这恰好证明电方向来自层与层之间，而不是某层内部。开关它所需能量极小，速度又快，适合做极省电的存储器。顺带一说，这材料还是块"多面宝玉"：厚厚的时候是 Weyl 半金属、有不饱和巨磁阻；薄薄一层时边缘导电、中间绝缘（量子自旋霍尔效应）；调一调门电压还能变超导。
+太奶啊，这 WTe2 可是物理学界里一位不折不扣的“特种兵”！过去科学家们一直觉得，如果一个材料里有成群结队自由奔跑的电子（金属），那它的内部就无法维持任何稳定的电偶极矩（铁电极化），因为自由电子会像洪水一样瞬间把多余的电荷冲刷干净（电屏蔽）。可是 WTe2 却打破了这个铁律，它既能像金属一样哗哗导电，同时体内还保留着一排排整齐的、可以通过外加电压齐刷刷掉头的小电偶极矩。这就像是一条奔腾大河里，居然藏着一座座稳固不倒、还能指挥掉头的石碑，这在物理上叫做“极性金属”或“铁电半金属”。
 
 ## 🏗️ 结构概览
 
-WTe2 稳定相为畸变的 1T′（$T_d$）相：W 原子链沿晶体 a 轴方向排列，Te 八面体发生畸变使层内出现一维 W 链。层间为弱范德华结合，双层沿 b 轴的微小相对滑移即可改变层间电荷分布。
+WTe2 稳定的晶体结构是正交晶系的 $T_d$ 相，空间群为极性的 $Pmn2_1$。其中 W 原子层偏离了理想的平面，形成了沿 $a$ 轴方向延伸的扭曲锯齿状金属链。
 
-![图：WTe2 滑移铁电的层数依赖电滞回线、Hirshfeld 层间电荷与拉曼剪切模证据（a–e）](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_4_2X9UPMDA.png)
-*   **看图要点**：WTe2 占据左半 (a–e)：双层/三层出现显著电滞回线而单层无回线，直接证明铁电性来自层间电荷重排；Hirshfeld 电荷分析量化层间近邻 Te 原子的电荷转移；极化反转伴随剪切拉曼模的消失/相变（$T_d\to1T'\to T_d$）[[../papers/guoAdvancesTwodimensionalFerroelectric2025]]。
-*   **来源**：[[../papers/guoAdvancesTwodimensionalFerroelectric2025]] -> [[../figures/vibrational-spectra|振动能谱与声子谱]]
+![图：WTe2 的 Td 相晶体结构与极性位移](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_1_NDNYXQ2A.png)
+*   **看图要点**：图中清晰展示了 WTe2 的 $T_d$ 相结构。W 原子（青色）在 Te 八面体（黄色）中发生畸变，形成了特殊的锯齿链（W-W chains）。这种畸变打破了面内的反演对称性，导致了沿 $c$ 轴（垂直平面）的本征自发极化。
+*   **来源**：[[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]] -> [[../figures/crystal-structures-bulk|体相晶体结构]]
 
-## 🧩 滑移铁电与金属性共存
+## 🧩 极性金属性与不完全屏蔽
 
-- **实验起源**：Fei 等 2018 年在双层 WTe2 中测得面外极化的非易失电场翻转（Nature 560, 336），双层/三层有电滞回线、单层无，转变温度约 350 K [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]。
-- **微观机制**：层间沿 b 轴滑移约 0.49–0.72 Å 触发层间电荷重分布，能垒仅约 0.3–0.6 meV/cell；奇数层因中间偶数层需反向滑移而极化减弱，块体则因电子屏蔽抑制铁电 [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]。
-- **极化强度**：双层实验面外极化约 $0.42\text{ pC/m}$；后续高通量筛选把它作为金属铁电极化的基准对照（众多新预测材料 0.43–9.61 pC/m）[[../papers/zhaoRealization2DMultiferroic2024]]。
-- **相变指纹**：SHG 蝴蝶型滞后曲线与拉曼剪切模消失表明极化反转伴随 $T_d\leftrightarrow1T'$ 结构相变。
+WTe2 之所以能同时兼具导电性与铁电极化，关键在于其**低载流子浓度带来的不完全屏蔽（Incomplete screening）**。
 
-## 🔬 拓扑与关联物性
+*   **半金属态**：WTe2 是一种半金属，其导带底与价带顶在费米面附近略有重叠，形成极小的电子和空穴口袋。由于载流子浓度较低，其德拜屏蔽长度较长（约 $1.6\text{ nm}$），使内部的极化电场不被完全抵消。
+*   **电场可翻转性**：为了在实验中克服高电导带来的短路问题，科学家们巧妙地利用 WTe2 表面约 $2.5\text{ nm}$ 厚的天然氧化层（非晶态）作为介电层构建了电容器，成功测得了典型的铁电相位电滞回线（电滞翻转）。
+*   **滑动铁电路径**：在少层或双层极限下，WTe2 的极化翻转还可以通过层间的侧向剪切滑动实现（即**滑动铁电性**），其极化翻转能垒仅为 $\sim 0.29\text{ eV/f.u.}$，可与经典铁电氧化物 $BiFeO_3$ 媲美。
 
-- **Weyl 半金属**：块体 WTe2 是第 II 类 Weyl 半金属，并具有不饱和的巨磁阻（XMR）。
-- **量子自旋霍尔效应**：单层 WTe2 是本征二维拓扑绝缘体，体相绝缘而边缘呈现受拓扑保护的导电通道。
-- **门压超导**：单层 WTe2 在静电掺杂下出现本征超导电性，$T_C\sim1$ K，使其成为研究拓扑、铁电与超导耦合的平台。
+## 🔬 物理参数表
 
-> **说明**：早期草稿曾把 Huang 等 2019 年关于 **MoTe2** 极性畴壁、以及关于 **HgI2/HgBr2** 强滑移铁电的工作归到 WTe2 名下，均属张冠李戴，已移除；WTe2 的铁电金属性以 Fei 2018 为准。
-
-## 📊 主要物性参数
-
-| 参数 | 数值 | 备注 |
-| :--- | :--- | :--- |
-| 双层面外极化 $P_{out}$ | ~0.42 pC/m | 实验值 |
-| 转变温度 | ~350 K | 双层/三层电滞回线 |
-| 滑移距离 | ~0.49–0.72 Å（沿 b 轴） | 能垒 ~0.3–0.6 meV/cell |
-| 单层超导 $T_C$ | ~1 K | 静电掺杂 |
-| 磁阻 | 不饱和巨磁阻（XMR） | 块体 II 类 Weyl 半金属 |
-| 材料家族 | TMD（1T′/Td） | 铁电金属 & 拓扑半金属 |
+| 属性 | 数值 |
+| :--- | :--- |
+| 自发极化强度 $P$ | $\sim 0.19\text{ \mu C/cm}^2$ (DFT 计算值) |
+| 极化翻转势垒 | $\sim 0.29\text{ eV/f.u.}$ (跨等效变体路径) |
+| 德拜屏蔽长度 | $\sim 1.6\text{ nm}$ |
+| 超导转变温度 $T_c$ | $\sim 7\text{ K}$ (高压或调控下) |
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]：Nature 2018，首次实验证实二维金属（双层 WTe2）的铁电开关。
-- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]：综述 WTe2 作为首个滑移铁电体的机制、层数依赖与拉曼/SHG 证据。
-- [[../papers/zhaoRealization2DMultiferroic2024]]：多铁高通量筛选，以 WTe2（0.42 pC/m）为金属铁电极化基准。
+- [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]]：首次在块体 WTe2 中于室温下实验证实了本征金属性与铁电性共存。
+- [[../papers/liPhaseTransitions2D2021]]：系统梳理了二维材料中包括滑动铁电在内的多自由度相变。
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]]
+- [[../papers/Li2013bonding]]
+- [[../papers/aiFerroelectricityCoexistedPorbital2022]]
+- [[../papers/bhowalPolarMetalsPrinciples2023b]]
+- [[../papers/chenFerromagneticNonmagnetic1T2022]]
+- [[../papers/chenStrongSlidingFerroelectricity2024]]
+- [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]
+- [[../papers/gaoStrainEngineeringFerroelectric2024]]
+- [[../papers/guanRecentProgressTwoDimensional2020]]
+- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]
+- [[../papers/hanTunableSlidingFerroelectricity2025]]
+- [[../papers/heSwitchingTwodimensionalSliding2025]]
+- [[../papers/huProgressProspectsLowdimensional2019]]
+- [[../papers/huangPolarPhaseDomain2019]]
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]
+- [[../papers/liFerroelasticityDomainPhysics2016]]
+- [[../papers/miaoMagneticFerroelectricMetal2024]]
+- [[../papers/neumayerCompetingPolarPhases2025]]
+- [[../papers/nicholsonUniaxialStraininducedPhase2021]]
+- [[../papers/niuDirectVisualizationLargeScale2021]]
+- [[../papers/pedramraziManipulatingTopologicalDomain2019]]
+- [[../papers/pengStrainEngineering2D2020]]
+- [[../papers/shenEmergenceMultipleFerroelectric2025]]
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
+- [[../papers/wangFormationMechanismTwin2019]]
+- [[../papers/wuElectrostaticGatingIntercalation2022]]
+- [[../papers/wuSlidingFerroelectricity2D2021a]]
+- [[../papers/yangRipplingFerroicPhase2021]]
+- [[../papers/yuFerroelectricControlMagnetism2026]]
+- [[../papers/zhangEmergingFrontiersTwodimensional2025]]
+- [[../papers/zhaoRealization2DMultiferroic2024]]
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
-- [[../concepts/ferroelectric-metal|铁电金属]]、[[../concepts/sliding-ferroelectricity|滑动铁电性]]、[[../concepts/interfacial-charge-rearrangement|层间电荷重排]]、[[../concepts/weyl-semimetal|Weyl 半金属]]、[[../concepts/quantum-spin-hall-effect|量子自旋霍尔效应]]、[[../concepts/superconductivity|超导]]、[[../concepts/polarization-switching|极化翻转]]
-- [[../entities/TMDs|TMDs]]、[[../entities/MoTe2|MoTe2]]（同族 1T′ 相极性畴壁体系）、[[../entities/CrTe2|CrTe2]]（金属性磁性对照）
+- [[../concepts/sliding-ferroelectricity|滑动铁电性]]
+- [[../concepts/weyl-semimetal|外尔半金属]]
+- [[../entities/td-phase|Td 相]]
+- [[../entities/MoTe2|二碲化钼 (MoTe2)]]

@@ -75,8 +75,9 @@ Hongjun Xiang，2020，National Science Review 7(12): 1844–1845，DOI 10.1093/
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2d-materials]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/ferromagnetism|铁磁性]]、[[../concepts/interlayer-magnetic-coupling|层间磁耦合]]、[[../concepts/electric-write-magnetic-read|电写磁读]]、[[../concepts/curie-temperature|居里温度]]
   - 实体 [[../entities/CuCrSe2|CuCrSe₂]]
   - 图表 [[../figures/crystal-structures]]
-  - 年度 [[../write/2020]]
+  - 年度 [[../write/2020-2024|2020]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
+  - 实体 [[../entities/CuCrS2]]
   - 相关论文 [[../../raw/note/xiangTwodimensionalRoomTemperature2020]]
 ## 🆕 新概念/实体建议
   - `ferroelectricity`（铁电性）：自发极化可在外电场下反转的有序态，wiki 中尚无独立条目，仅有 polarization-switching、sliding-ferroelectricity 等子条目。

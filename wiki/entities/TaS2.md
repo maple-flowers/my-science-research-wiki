@@ -1,38 +1,61 @@
 ---
-tags: [entity]
+tags: [entity, material, TMD, 2D, Mott-insulator, CDW]
+title: 二硫化钽 (TaS2) / Tantalum Disulfide
+type: entity
+status: mature
+formula: TaS2
+stoichiometry: 1T
+class: [TMD, vdW, Mott-insulator]
+properties: [charge-density-wave, Mott-transition, superconductivity]
+related_entities: [1t-phase, NbSe2, VSe2]
+papers: [nakataRobustChargedensityWave2021, CastroNeto2001charge, Koley2020charge, hallEnvironmentalControlCharge]
+updated: 2026-08
 ---
 
-# 实体：TaS₂ (二硫化钽)
+# 二硫化钽 (TaS2) / Tantalum Disulfide
 
-2H-TaS₂ 是研究电荷密度波 (CDW) 与超导 (SC) 竞争与共存的模型体系。作为一种典型的过渡金属二硫族化合物 (TMDC)，它展示了高度的环境可调控性和丰富的相变行为。
+二硫化钽 (TaS2) 尤其是其 $1\text{T}$ 相（1T-TaS2），是凝聚态物理中研究**莫特绝缘体 (Mott Insulator)** 与**电荷密度波 (CDW)** 强耦合行为的经典模本材料。它在低温下自发发生晶格畸变，将自由移动的金属电子锁死在局部超结构中，是“带宽控制型莫特相变”的典型代表。
 
-## 核心物性：锁相性质 (Phase-Locked Properties)
+## 奶奶导读
 
-### 1. 电荷密度波 (CDW)
-- **2H 相**：块体在 $T_{CDW} \approx 75\text{ K}$ 进入 $3\times3$ CDW 态。单层本征态（如在 Gr/Ir(111) 准自由衬底上）表现为近 $3\times3$ 非公度 CDW，部分能隙 $2\Delta \approx 32\text{ meV}$ [[../papers/hallEnvironmentalControlCharge]]。
-- **1T 相**：以“大卫之星”(Star-of-David) 团簇重构为特征，伴随莫特绝缘体行为。单层极限下，电子关联与晶格畸变的协同作用可将相变温度推高至室温以上（对比 1T-TaSe₂ 的 $530\text{ K}$）[[../papers/nakataRobustChargedensityWave2021]]。
+太奶啊，这 1T-TaS2 就像是一个设计巧妙的“电子蜂巢”。本来呢，这个材料是一条宽敞的马路，里面的电子（小蜜蜂）可以自由自在地流淌，这时候它是个导电的金属。可是温度一降下来，材料里的原子就会像列队一样，每 13 个原子抱成一个团，挤成一朵朵精致的“大卫之星”超大蜂巢。每个蜂巢中心只留出一个空位，因为电子之间互相嫌弃（强库仑排斥），一旦每个位置被占了一个，其他电子就再也进不去了，整条马路瞬间被堵死，金属就变成了完全不导电的莫特绝缘体。这就是物理上奇妙的“大卫之星锁定”。
 
-### 2. 超导电性 (SC)
-- **2H 相**：块体超导转变温度 $T_c \approx 0.8\text{--}1\text{ K}$。
-- **驱动机制**：超导电性常出现在 CDW 被抑制的边缘。理论预言 CDW 畴壁（Discommensuration, DC）的相位/振幅涨落可诱导非均匀超导成核，形成具有配对密度波 (PDW) 特征的超导网络 [[../papers/Chen2019superconductivity]]。
+## 🏗️ 结构概览
 
-### 3. 滑动铁电性 (Sliding Ferroelectricity)
-- 在 3R 堆叠或扭转异质结中，由于层间相对滑移打破反演对称性，TaS₂ 可表现出面外极化翻转行为 [[../papers/sunSlidingFerroelectricityTwodimensional2025]]。
+1T-TaS2 属于八面体配位的 1T 相（空间群 $P\bar{3}m1$）。在低温下，由于强烈的电声耦合，它会自发畸变形成 $\sqrt{13} \times \sqrt{13}$ 的“大卫之星 (Star-of-David)”超晶格。
 
-## 维度效应与环境工程
+![图：1T-TaS2 畸变形成的大卫之星超结构](../../raw/figures/nakataRobustChargedensityWave2021/fig_1_6T5AGUJF.png)
+*   **看图要点**：图中展示了大卫之星超晶格的形成：每 13 个 Ta 原子（蓝色）向星团中心发生自发收缩。12 个过渡金属原子的最外层电子两两配对成键，而中心第 13 个原子上剩下一个半满的单电子，正是这个局域化的单电子在强关联作用下诱导了莫特能隙。
+*   **来源**：[[../papers/nakataRobustChargedensityWave2021]] -> [[../figures/crystal-structures-bulk|晶体结构]]
 
-### 掺杂与杂化解耦
-- **掺杂路径 (Doping)**：电子掺杂（如 Li 蒸发）可驱动 CDW 周期从 $3\times3$ 向 $2\times2$ 转变，本质是主导失稳波矢 $q_c$ 的移动。
-- **杂化路径 (Hybridization)**：衬底波函数杂化产生的电子态展宽（$\Gamma$）会削弱声子自能，直接淬灭 CDW 而不改变失稳波矢 [[../papers/hallEnvironmentalControlCharge]]。
+## 🧩 CDW 驱动的莫特相变
 
-### 层间耦合与堆叠
-- **双层效应**：层间偏压（Interlayer Bias）或特定堆叠方式（Stacking Order）会显著改变 CDW 的稳定性。例如，层间偏压可将双层 TaS₂ 的主导失稳推向 $2\times2$ [[../papers/hallEnvironmentalControlCharge]]。
-- **堆叠指纹**：不同的 CDW 垂直堆叠构型（如 HC-HC 或 HC-CC 混合堆叠）在 STM 图像中具有可分辨的特征指纹 [[../papers/cossuStackingChargedensityWaves2024]]。
+1T-TaS2 具有复杂的变温相图，展现了多种 CDW 阶段：
 
-## 相关文献 (Two-Layer Records)
+1.  **无公度 CDW (ICCDW)**：高温下展现。
+2.  **近公度 CDW (NCCDW)**：中温阶段。
+3.  **完全公度 CDW (CCDW)**：在 $T < 180\text{ K}$ 时发生。此时大卫之星超结构完全锁定，电子动能带宽 $W$ 显著收缩。当有效库仑排斥能 $U$ 与带宽 $W$ 的比值 $U/W$ 超过临界值时，材料彻底转变为莫特绝缘体。
+4.  **维度调控**：将 1T-TaS2 减薄至单层或通过外界蒸镀/静电掺杂，可以极大地重整其下哈伯德带（LHB），并有可能实现超导、极性金属甚至自旋液体态的可逆调控。
 
-- [[../papers/hallEnvironmentalControlCharge]] — 建立“掺杂-杂化”相图，确认单层 3x3 本征态。
-- [[../papers/nakataRobustChargedensityWave2021]] — 1T 相高温 CDW 与莫特关联增强。
-- [[../papers/Chen2019superconductivity]] — 错位相子（DC）驱动的超导机制。
-- [[../papers/cossuStackingChargedensityWaves2024]] — 层间堆叠对 CDW 指纹的影响（以 NbSe₂ 为例推及 TMDs）。
-- [[../papers/sunSlidingFerroelectricityTwodimensional2025]] — 滑动铁电谱系综述。
+## 🔬 物理参数表
+
+| 属性 | 数值 |
+| :--- | :--- |
+| CDW 周期结构 | $\sqrt{13} \times \sqrt{13}\ \text{R}13.9^\circ$ (13原子超胞) |
+| Mott 转变温度 $T_{Mott}$ | 块体 $\sim 180\text{ K}$ (单层可提升至室温以上) |
+| 莫特能隙 (Mott gap) | $\sim 0.1\text{--}0.2\text{ eV}$ |
+
+## 📚 相关论文 (Related Papers)
+
+- [[../papers/nakataRobustChargedensityWave2021]]：详细讨论了单层 1T-TMD 体系中电子关联和晶格畸变对莫特相稳定性的调控。
+- [[../papers/CastroNeto2001charge]]：经典的 TMD CDW 物理综述。
+- [[../papers/Koley2020charge]]
+- [[../papers/hallEnvironmentalControlCharge]]
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../concepts/charge-density-wave|电荷密度波 (CDW)]]
+- [[../concepts/mott-insulator|莫特绝缘体]]
+- [[../concepts/star-of-david|大卫之星团簇]]
+- [[../entities/1t-phase|1T 相]]
+- [[../entities/NbSe2|二硒化铌 (NbSe2)]]

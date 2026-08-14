@@ -81,7 +81,7 @@ Youfang Lai, Zhigang Song (共同一作/通讯), Yi Wan, Mingzhu Xue, Changsheng
 
 ## 🔗 Wiki 双链
 本文涉及且 wiki 中已存在的条目：
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/multiferroicity]]
   - 概念 [[../concepts/magnetoelectric-coupling]]
   - 概念 [[../concepts/spin-orbit-coupling]]
@@ -97,7 +97,7 @@ Youfang Lai, Zhigang Song (共同一作/通讯), Yi Wan, Mingzhu Xue, Changsheng
   - 图表 [[../figures/heterostructures-stacking]]（图1b：三种块体堆垛）
   - 图表 [[../figures/mathematical-models]]（自旋-偶极-谷耦合哈密顿量 −ξ(d_v×P)·S_r）
   - 图表 [[../figures/experimental-setups]]（PFM、VSM、MOKE 表征）
-  - 年度 [[../write/2019]]
+  - 年度 [[../write/2015-2019|2019]]
   - 相关论文 [[../../raw/note/laiTwodimensionalFerromagnetismDriven2019]]
 
 ## 🆕 新概念/实体建议

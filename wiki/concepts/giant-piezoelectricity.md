@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# giant-piezoelectricity
 
-# 巨压电效应，相变临界点附近压电系数出现"爆发"峰值
-
-巨压电效应，相变临界点附近压电系数出现"爆发"峰值（如 PbTe e₁₁ 达 139.2×10⁻¹⁰ C/m）。
-
-## Related Papers
-
-- [[../papers/xuTunableFerroelectricTopological2022]]
+- [[../papers/xuTunableFerroelectricTopological2022]] — Tunable ferroelectric topological defects on 2D topological surfaces: strain engineering skyrmion-like polar structures in 2D materials

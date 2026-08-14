@@ -1,11 +1,8 @@
----
-tags: [concept, stub]
----
+# two-photon-excitation
 
-# 双光子激发）
-
-双光子激发）：低于带隙的长波长光子在焦点处被同时吸收、实现三维局域激发的非线性光学过程。
-
-## Related Papers
-
-- [[../papers/Khitrov2002internal]]
+- [[../papers/H2017fluorescence]] — Dicyanostilbene-based Two-photon Thermo-solvatochromic Fluorescence Probes with Two-photon Triple Fluorescence
+- [[../papers/Huang2019solvatochromic]] — Stilbene-Based Two-Photon Thermo-Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature
+- [[../papers/Huang2023two]] — Two Dicyanostilbene-Based Two-Photon Fluorescence Environmentally Sensitive Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence
+- [[../papers/Khitrov2002internal]] — Internal Defects Observed by Two-Photon-Induced Photoluminescence
+- [[../papers/Nakanishi2009full]] — Full Quantum Analysis of Two-Photon Absorption Using Two-Photon Wave Function: Comparison of Two-Photon Absorption with One-Photon Absorption
+- [[../papers/WRZYSZCZYNSKI2010initiators]] — Two-photon initiators of polymerization

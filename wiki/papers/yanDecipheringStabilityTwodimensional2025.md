@@ -80,7 +80,7 @@ Yuan Yan, Kaiyun Chen, Minglei Sun, Minglei Sun, Yinchang Ma, Peiyao Wang, Junka
 用高通量 DFT + DBSCAN 无监督机器学习揭示，所有稳定二维 III-V 半导体皆由四面体（sp³）、三角形（sp²）、扭曲三角形三种"积木"经 V 族原子作"柔性胶水"按电子计数规则组装而成；体系总能是积木能量的线性叠加，并据此设计出 TT、E2、E4 等更稳定新相，其中 TT-GaSb 空穴迁移率高达 3.4×10⁸ cm² V⁻¹ s⁻¹。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/density-functional-theory]]
   - 概念 [[../concepts/electron-counting-rule]]
   - 概念 [[../concepts/lego-assembly]]
@@ -98,8 +98,8 @@ Yuan Yan, Kaiyun Chen, Minglei Sun, Minglei Sun, Yinchang Ma, Peiyao Wang, Junka
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/vibrational-spectra]]
   - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/2025]]
-  - 主题 [[材料模拟计算设计]]
+  - 年度 [[../write/2025-2029|2025]]
+  - 主题 [[../topics/材料模拟计算设计]]
   - 相关论文 [[../../raw/note/yanDecipheringStabilityTwodimensional2025]]
 
 ## 🆕 新概念/实体建议

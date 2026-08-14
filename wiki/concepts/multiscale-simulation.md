@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# multiscale-simulation
 
-# DFT→机器学习势
-
-DFT→机器学习势 MD→FEM 的多尺度计算方法论范式。
-
-## Related Papers
-
-- [[../papers/xuTunableFerroelectricTopological2022]]
+- [[../papers/xuTunableFerroelectricTopological2022]] — Tunable ferroelectric topological defects on 2D topological surfaces: strain engineering skyrmion-like polar structures in 2D materials

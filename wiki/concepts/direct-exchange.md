@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# direct-exchange
 
-# 直接交换，相邻磁性原子波函数直接重叠产生的磁耦合。
-
-直接交换，相邻磁性原子波函数直接重叠产生的磁耦合。
-
-## Related Papers
-
-- [[../papers/chenFerromagneticNonmagnetic1T2022]]
+- [[../papers/chenFerromagneticNonmagnetic1T2022]] — Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition
+- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]] — Ferroelectricity and multiferroicity in two-dimensional Sc₂P₂Se₆ and ScCrP₂Se₆ monolayers
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]] — Nonvolatile switchable half-metallicity and magnetism in the MXene Hf₂MnC₂O₂/Sc₂CO₂ multiferroic heterostructure

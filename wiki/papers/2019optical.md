@@ -23,13 +23,11 @@ concepts:
   - intensity-modulation
   - refractive-index-sensing
   - dip-coating
-  - adsorption
 entities:
   - TiO2
   - SiO2
   - TiO2-SiO2
   - polymer-optical-fiber
-  - Arduino-Uno
   - photodiode
   - laser-diode
 methods:
@@ -107,8 +105,10 @@ Febrielviyanti, Harmadi, Dahyunir Dahlan, Yetria Rilda, Helmi Septaria Herlin，
   - 概念 [[../concepts/evanescent-wave|倏逝波]]、[[../concepts/optical-fiber-sensor|光纤传感器]]、[[../concepts/humidity-sensing|湿度传感]]、[[../concepts/intensity-modulation|光强调制]]、[[../concepts/dip-coating|浸渍提拉法]]
   - 实体 [[../entities/TiO2-SiO2|TiO2-SiO2纳米复合材料]]、[[../entities/polymer-optical-fiber|聚合物光纤（POF）]]
   - 图表 [[../figures/experimental-setups]]（图1-3 测量/系统框图）、[[../figures/mathematical-models]]（倏逝场公式 Ez=E0·exp(−z/dp)、穿透深度 dp、误差/精度公式）
-  - 年度 [[../write/2019]]
+  - 年度 [[../write/2015-2019|2019]]
   - 项目 [[../projects/project-6-humidity-sensor]]
+  - 概念 [[../concepts/refractive-index-sensing]]
+  - 实体 [[../entities/photodiode]]、[[../entities/laser-diode]]、[[../entities/TiO2]]、[[../entities/SiO2]]
   - 相关论文 **2019optical**
 
 ## 📊 关键图表

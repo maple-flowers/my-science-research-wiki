@@ -1,12 +1,23 @@
----
-tags: [concept, stub]
-aliases: ["电荷密度混合"]
----
+# charge-density
 
-# 电子数密度
-
-电子数密度 ρ(r)，Bader 划分所依据的物理可观测量；平面波 DFT 直接输出三维网格。
-
-## Related Papers
-
-- [[../papers/tangGridbasedBaderAnalysis2009]]
+- [[../papers/PChandra2011mechanoluminescence]] — Mechanoluminescence of Nanoparticles
+- [[../papers/blochlProjectorAugmentedwaveMethod1994b]] — Projector augmented-wave method
+- [[../papers/chenStrongSlidingFerroelectricity2024]] — Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI₂ Layers
+- [[../papers/cossuStackingChargedensityWaves2024]] — Stacking of charge-density waves in 2H-NbSe₂ bilayers
+- [[../papers/dudarevElectronenergylossSpectraStructural1998a]] — Electron-energy-loss spectra and the structural stability of nickel oxide:  An LSDA+U study
+- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]] — Advances in two-dimensional ferroelectric materials
+- [[../papers/hanTunableSlidingFerroelectricity2025]] — Tunable sliding ferroelectricity in two-dimensional van der Waals RuX2 (X = Cl, Br, and I) multiferroic layers
+- [[../papers/kresseInitiomolecularDynamicsLiquid1993]] — <i>Ab initio</i> molecular dynamics for liquid metals
+- [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]] — A room-temperature ferroelectric semimetal
+- [[../papers/shenEmergenceMultipleFerroelectric2025]] — Emergence of multiple ferroelectric states in multilayer black phosphorus
+- [[../papers/shishkinImplementationPerformanceFrequencydependentGWmethod2006]] — Implementation and performance of the frequency-dependent GW method within the PAW framework
+- [[../papers/shuTwoDimensionalBlackArsenic2020]] — Two-Dimensional Black Arsenic Phosphorus for Ultrafast Photonics in Near- and Mid-Infrared Regimes
+- [[../papers/tangCombiningIntrinsicSlidinginduced2025]] — Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectrics
+- [[../papers/tangGridbasedBaderAnalysis2009]] — A grid-based Bader analysis algorithm without lattice bias
+- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]] — Room-temperature two-dimensional multiferroic metal with voltage-controllable magnetic order
+- [[../papers/wangTwodimensionalFerroelectricMetal2025]] — Two-dimensional ferroelectric metal CuCrX2 (X = S, Se) for efficient electrocatalysis
+- [[../papers/wongEvidenceMetallic1T]] — Metallic 1T Phase, 3d1 Electronic Configuration and Charge Density Wave Order in Molecular Beam Epitaxy Grown Monolayer Vanadium Ditelluride
+- [[../papers/wuSlidingFerroelectricity2D2021a]] — Sliding ferroelectricity in 2D van der Waals materials: Related physics and future opportunities
+- [[../papers/zhangEmergingFrontiersTwodimensional2025]] — Emerging frontiers in two-dimensional sliding ferroelectrics
+- [[../papers/zhangNonvolatileControlTopological2025]] — Nonvolatile control of topological magnetism in two-dimensional CrInTe2/In2Se3 multiferroic heterostructures
+- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]] — Anisotropic superconductivity in the two-dimensional metal-organic kagome framework Cu 3 ( CO ) 6

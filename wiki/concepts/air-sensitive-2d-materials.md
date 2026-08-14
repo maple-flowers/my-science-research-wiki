@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# air-sensitive-2d-materials
 
-# 空气敏感二维材料）
-
-空气敏感二维材料）：暴露空气数分钟即氧化降解的二维体系（WTe2、CrI3、黑磷等），需惰性环境保护表征。
-
-## Related Papers
-
-- [[../papers/niuDirectVisualizationLargeScale2021]]
+- [[../papers/niuDirectVisualizationLargeScale2021]] — Direct Visualization of Large-Scale Intrinsic Atomic Lattice Structure and Its Collective Anisotropy in Air-Sensitive Monolayer 1T'-WTe2

@@ -81,10 +81,10 @@ Fei, Zhao, Palomaki, Sun, Miller, Zhao, Yan, Xu, Cobden et al.，2018，Nature 5
 ## 💡 一句话
 首次在实验上证实双层/三层 WTe₂ 这一原子级薄的拓扑半金属同时是金属且可电场翻转的铁电体，面外极化可由石墨烯电场传感器定量探测，并提出电子-空穴关联驱动极化的新机制。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/polarization-switching]]、[[../concepts/2D-materials]]、[[../concepts/multiferroicity]]、[[../concepts/polar-metal]]、[[../concepts/electronic-ferroelectricity]]、[[../concepts/electron-hole-correlation]]、[[../concepts/out-of-plane-polarization]]、[[../concepts/quantum-spin-hall-effect]]、[[../concepts/weyl-semimetal]]、[[../concepts/depolarization-field]]、[[../concepts/screening-length]]、[[../concepts/bistability]]、[[../concepts/domain-dynamics]]
+  - 概念 [[../concepts/polarization-switching]]、[[../concepts/2d-materials]]、[[../concepts/multiferroicity]]、[[../concepts/polar-metal]]、[[../concepts/electronic-ferroelectricity]]、[[../concepts/electron-hole-correlation]]、[[../concepts/out-of-plane-polarization]]、[[../concepts/quantum-spin-hall-effect]]、[[../concepts/weyl-semimetal]]、[[../concepts/depolarization-field]]、[[../concepts/screening-length]]、[[../concepts/bistability]]、[[../concepts/domain-dynamics]]
   - 实体 [[../entities/WTe2]]、[[../entities/h-BN]]、[[../entities/graphene]]、[[../entities/BaTiO3]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-devices]]、[[../figures/mathematical-models]]
-  - 年度 [[../write/2018]]
+  - 年度 [[../write/2015-2019|2018]]
   - 相关论文 **feiFerroelectricSwitchingTwodimensional2018a**
 ## 🆕 新概念/实体建议
   - `polar-metal`（极性金属）：具有极性空间群、存在极轴但传统上认为极化不可翻转的金属；本工作将其推进到可翻转的"铁电金属"。

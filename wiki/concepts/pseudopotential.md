@@ -1,12 +1,7 @@
----
-tags: [concept, stub]
----
+# pseudopotential
 
-# 赝势/有效核势
-
-赝势/有效核势（ECP/AREP），冻结芯电子、引入标量相对论效应，及其跨泛函可移植性问题
-
-## Related Papers
-
-- [[../papers/Delley2000]]
-- [[../papers/kresseInitiomolecularDynamicsLiquid1993]]
+- [[../papers/Delley2000]] — From molecules to solids with the DMol3 approach
+- [[../papers/blochlProjectorAugmentedwaveMethod1994b]] — Projector augmented-wave method
+- [[../papers/kresseInitiomolecularDynamicsLiquid1993]] — <i>Ab initio</i> molecular dynamics for liquid metals
+- [[../papers/perdewGeneralizedGradientApproximation1996a]] — Generalized Gradient Approximation Made Simple
+- [[../papers/tangGridbasedBaderAnalysis2009]] — A grid-based Bader analysis algorithm without lattice bias

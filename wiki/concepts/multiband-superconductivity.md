@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# multiband-superconductivity
 
-# 多带超导 / Multiband Superconductivity
-
-多带超导，超导能隙在多个费米面上同时打开，表现出多能隙特征与复杂的 H_c2(T) 行为。
-
-## Related Papers
-
-- [[../papers/majumdarInterplayChargeDensity2020]]
+- [[../papers/majumdarInterplayChargeDensity2020]] — Interplay of charge density wave and multiband superconductivity in layered quasi-two-dimensional materials: The case of 2H-NbS₂ and 2H-NbSe₂

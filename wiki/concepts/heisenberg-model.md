@@ -1,12 +1,7 @@
----
-tags: [concept, stub]
----
+# heisenberg-model
 
-# 海森堡定域电子模型）
-
-海森堡定域电子模型）：磁性电子束缚于原子，交换耦合求和 H_exc=-2JΣS_i·S_j，配位数 z 决定 Tc
-
-## Related Papers
-
-- [[../papers/vanvleckSurveyTheoryFerromagnetism1945]]
-- [[../papers/wangTunableD0Topological2025b]]
+- [[../papers/aiFerroelectricityCoexistedPorbital2022]] — Ferroelectricity coexisted with p-orbital ferromagnetism and metallicity in two-dimensional metal oxynitrides
+- [[../papers/liMonolayerPuckeredPentagonal2022]] — Monolayer puckered pentagonal VTe2: An emergent two-dimensional ferromagnetic semiconductor with multiferroic coupling
+- [[../papers/vanvleckSurveyTheoryFerromagnetism1945]] — A Survey of the Theory of Ferromagnetism
+- [[../papers/wangTunableD0Topological2025b]] — Tunable d0 topological magnetic states in multiferroic monolayer In2NO2
+- [[../papers/zhongHighthroughputExfoliationMultiferroic2025]] — High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperature and giant spin splitting

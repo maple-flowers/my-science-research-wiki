@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# pseudomagnetic-field
 
-# 赝磁场 / Pseudomagnetic Field
-
-赝磁场，非均匀应变在石墨烯/TMDCs 中诱导的等效规范场，在 K/K' 谷方向相反、不破坏时间反演对称性，强度可达 10–300 T，产生赝朗道能级和零场量子霍尔效应。
-
-## Related Papers
-
-- [[../papers/pengStrainEngineering2D2020]]
+- [[../papers/liPhaseTransitions2D2021]] — Phase transitions in 2D materials
+- [[../papers/pengStrainEngineering2D2020]] — Strain engineering of 2D semiconductors and graphene: from strain fields to band-structure tuning and photonic applications

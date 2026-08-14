@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# double-exchange
 
-# 双交换 / Double Exchange
-
-金属性体系中巡游电子在磁性离子间跳跃产生的 FM 交换，文中用于解释约 180° 键角的 J4 仍为 FM。
-
-## Related Papers
-
-- [[../papers/yuFerroelectricControlMagnetism2026]]
+- [[../papers/wuElectrostaticGatingIntercalation2022]] — Electrostatic gating and intercalation in 2D materials
+- [[../papers/yuFerroelectricControlMagnetism2026]] — Ferroelectric Control of Magnetism and Giant Magnetoresistance Via Intercalation-Induced Symmetry Breaking in Two-Dimensional Multiferroics with Strong Magnetoelectric Coupling

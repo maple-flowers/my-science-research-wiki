@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# entanglement-induced-two-photon-transparency
 
-# 纠缠诱导双光子透明
-
-纠缠诱导双光子透明：矩形波函数下 sinc² 函数零点导致单光子吸收被完全抑制，而双光子吸收保留。
-
-## Related Papers
-
-- [[../papers/Nakanishi2009full]]
+- [[../papers/Nakanishi2009full]] — Full Quantum Analysis of Two-Photon Absorption Using Two-Photon Wave Function: Comparison of Two-Photon Absorption with One-Photon Absorption

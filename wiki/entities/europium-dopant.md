@@ -1,25 +1,3 @@
----
-tags: [entity]
----
+# europium-dopant
 
-# 铕掺杂离子
-
-铕（Europium）是稀土元素中最具代表性的发光激活剂之一，广泛存在于 Eu²⁺ 和 Eu³⁺ 两种价态中。在**相锁特性（Phase-Locked Properties）**的框架下，铕离子的发光行为不仅取决于其自身的 4f 电子构型，更深度耦合于基质材料的晶格对称性、局部压电场以及辐射诱导的缺陷能级。
-
-### 1. 价态稳定性与发射光谱
-铕离子在晶体中的表现具有显著的基质依赖性，其价态通常决定了材料的光学指纹。在铝酸盐基质（如 SrAl₂O₄）中，铕倾向于以 Eu²⁺ 形式存在，通过 4f⁶5d¹ → 4f⁷ 允许跃迁产生强烈的绿光发射（~520 nm）[[../papers/Terasaki2011ultrasonic]]。这种 5d → 4f 跃迁对周围化学环境极度敏感，微小的晶格扭曲即可显著改变发射波长。相比之下，在钒酸盐（如 Ba₃(VO₄)₂）中，铕主要以 Eu³⁺ 形式存在，呈现典型的 ⁵D₀ → ⁷Fⱼ 窄带发射，主峰位于 606 nm 附近的橙红光区 [[../papers/Gulhare2021mechanoluminescence]]。这种价态的切换是实现从紫外到近红外全光谱机械发光（ML）调节的核心物理手段。
-
-### 2. 缺陷介导与能量存储机理
-在 project-3 的“机械发光神经网络”物理背景中，铕掺杂离子不仅承担发光激活剂的角色，更是重要的电荷俘获/释放位点。在受到高能辐射（如 ⁶⁰Co γ 射线）激发时，Eu³⁺ 可作为电子阱俘获自由电子并还原为亚稳态的 Eu²⁺，而基质中的阴离子基团（如 VO₄³⁻）则俘获空穴形成空穴陷阱中心 [[../papers/Gulhare2021mechanoluminescence]]。这种电子-空穴对在时空上的“锁定”状态构成了长余辉和应力发光的物理基础。材料的 ML 强度通常随 γ 辐照剂量的增加而上升，直至在 1.4 kGy 附近达到饱和，这反映了基质中陷阱能级填充度的极限。
-
-### 3. 相锁耦合：力学激发与压电脱陷
-铕离子的激活效率表现出强烈的“相锁”特征，即微观电子跃迁与宏观力学形变的深度耦合。根据**压电诱导电子脱陷模型（Piezoelectric-induced detrapping model）**，在非中心对称基质（如非中心对称的 ZnS 或受应力诱导产生非对称性的 SrAl₂O₄）受压产生的局部压电场作用下，陷阱能级的有效深度降低，导致被捕获的电荷在室温下发生热-力协同脱陷，并迁移至铕离子位点复合 [[../papers/PChandra2011mechanoluminescence]]。在 SrAl₂O₄:Eu 体系中，这种机理支撑了其在弹性形变区内的高效、可重复发光，甚至可以通过 37 kHz 的超声波辐射压力进行非接触式激活 [[../papers/Terasaki2011ultrasonic]]。
-
-### 4. 浓度猝灭与掺杂限制
-铕离子的掺杂浓度对 ML 性能具有非单调影响。在 Ba₃(VO₄)₂:Eu 体系中，实验确定的最佳掺杂浓度通常在 0.1 mol% 左右；超过该阈值后，由于相邻铕离子间的交换相互作用或偶极-偶极相互作用，非辐射能量迁移至猝灭中心的概率显著增大，从而引发**浓度猝灭（Concentration quenching）**现象 [[../papers/Gulhare2021mechanoluminescence]]。此外，铕离子的有效利用率还受到基质纯度和合成温度的制约，如 550 ℃ 的淬火处理有利于保持高质量的晶格完整性。
-
-## Related Papers
-
-- [[../papers/Gulhare2021mechanoluminescence]]：报道了 γ 辐照在 Ba₃(VO₄)₂:Eu 中诱导出的橙红光 ML 特性，提出了 Eu³⁺/Eu²⁺ 价态转换模型。
-- [[../papers/PChandra2011mechanoluminescence]]：详述了纳米粒子（ZnS:Mn, SrAl₂O₄:Eu）在弹性形变下的压电脱陷统一机理。
-- [[../papers/Terasaki2011ultrasonic]]：实验验证了利用超声波作为非侵入性机械刺激激发 SrAl₂O₄:Eu 发光的可行性。
+- [[../papers/Gulhare2021mechanoluminescence]] — Mechanoluminescence Characterization of γ-irradiated Ba3(VO4)2:Eu phosphors

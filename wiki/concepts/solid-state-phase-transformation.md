@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# solid-state-phase-transformation
 
-# 固态相变）
-
-固态相变）：固态中母相到新相的转变，按扩散/位移分类，是本论文的物理背景
-
-## Related Papers
-
-- [[../papers/Zhang2003a]]
+- [[../papers/Zhang2003a]] — A cellular automaton investigation of the transformation from austenite to ferrite during continuous cooling
+- [[../papers/Zhang2019b]] — Packing Changes in Melting, Freezing, and Coalescence of Titanium Nanoparticles from Atomic Simulations

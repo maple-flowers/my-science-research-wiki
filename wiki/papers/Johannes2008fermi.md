@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Johannes2008fermi]]
 projects: [project-5, project-7]
-concepts: [2D-materials, charge-density-wave, density-functional-theory, spin-orbit-coupling]
-entities: [TMDs, VASP]
+concepts: [2D-materials, charge-density-wave, density-functional-theory, spin-orbit-coupling, fermi-surface-nesting, hidden-nesting, electron-phonon-coupling, electronic-susceptibility, incommensurate-lattice-transition, peierls-instability]
+entities: [TMDs, VASP, WIEN2k, TaSe2, NbSe2]
 methods: [arpes, dft, tight-binding]
 materials: [TMDs]
 figures: [crystal-structures-bulk, electronic-bands-band-structures, electronic-bands-cdw-transport, electronic-bands-dos-fermi]
@@ -71,7 +71,7 @@ M. D. Johannes, I. I. Mazin，2008，Physical Review B 77, 165135，DOI [10.1103
   - 概念 [[../concepts/charge-density-wave]]
   - 概念 [[../concepts/density-functional-theory]]
   - 概念 [[../concepts/spin-orbit-coupling]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/fermi-surface-nesting|费米面嵌套]]
   - 概念 [[../concepts/peierls-instability|派尔斯不稳定性]]
   - 概念 [[../concepts/electron-phonon-coupling|电子-声子耦合]]
@@ -86,9 +86,9 @@ M. D. Johannes, I. I. Mazin，2008，Physical Review B 77, 165135，DOI [10.1103
   - 实体 [[../entities/TaSe2|TaSe₂]]
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/crystal-structures]]
-  - 年度 [[../write/2008]]
+  - 年度 [[../write/2005-2009|2008]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 主题 [[材料模拟计算设计]]
+  - 主题 [[../topics/材料模拟计算设计]]
   - 相关论文 [[../../raw/note/Johannes2008fermi]]
 ## 🆕 新概念/实体建议
   - 实体 `CeTe3.md` — 三碲化铈，RTe₃ 家族准一维 Te-p 费米面，是“隐藏嵌套”的范例；计算用 LDA+U（U=4.5 eV）去除 f 带。

@@ -92,8 +92,10 @@ Graeme Henkelman, Blas P. Uberuaga, Hannes Jónsson，2000，The Journal of Chem
   - 概念 [[../concepts/density-functional-theory]]、[[../concepts/nudged-elastic-band|微动弹性带法（NEB）]]、[[../concepts/climbing-image-neb|爬升图像 NEB（CI-NEB）]]、[[../concepts/minimum-energy-path|最小能量路径（MEP）]]、[[../concepts/saddle-point|鞍点]]、[[../concepts/transition-state-theory|过渡态理论（TST）]]、[[../concepts/potential-energy-surface|势能面（PES）]]、[[../concepts/rare-events|稀有事件]]
   - 实体 [[../entities/VASP]]
   - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/2000]]
+  - 年度 [[../write/2000-2004|2000]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
+  - 概念 [[../concepts/variable-spring-constant]]、[[../concepts/harmonic-tst]]、[[../concepts/force-projection]]
+  - 实体 [[../entities/Si-100]]、[[../entities/Ir-111]]
   - 相关论文 **henkelmanClimbingImageNudged2000c**
 ## 🆕 新概念/实体建议
   - `force-projection-nudging`（力投影/"微动"）：NEB 区别于其他弹性带法的核心，只取真实力垂直分量与弹簧力平行分量，同时解决"切角"与"下滑"问题。

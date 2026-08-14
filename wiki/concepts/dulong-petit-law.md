@@ -1,13 +1,5 @@
----
-tags: [concept, stub]
----
+# dulong-petit-law
 
-# 杜隆-珀蒂定律及失效边界
-
-杜隆-珀蒂定律及失效边界：原子热容3kB（势能贡献1.5kB），N<800–900（<约3 nm）时偏离
-
-## Related Papers
-
-- [[../papers/Zhang2019a]]
-- [[../papers/Zhang2019b]]
-- [[../papers/Zhang2019c]]
+- [[../papers/Zhang2019a]] — Studying Stability of Atom Packing for Ti Nanoparticles on Heating by Molecular Dynamics Simulations
+- [[../papers/Zhang2019b]] — Packing Changes in Melting, Freezing, and Coalescence of Titanium Nanoparticles from Atomic Simulations
+- [[../papers/Zhang2019c]] — Atomic simulations of packing patterns and thermal behavior in Ti clusters

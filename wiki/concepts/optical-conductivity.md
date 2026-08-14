@@ -1,21 +1,4 @@
----
-tags: [concept, optical-conductivity, photovoltaics, semiconductor-physics]
----
+# optical-conductivity
 
-# 光学电导率 (Optical Conductivity)
-
-光学电导率（Optical Conductivity, $\sigma$）是描述材料在电磁波（光子）入射作用下，其内部电荷载流子响应能力的关键物理量。与直流电导率不同，光学电导率通常是频率的函数，反映了材料内部电子能带结构、激子动力学以及载流子散射机制。
-
-### 物理机制与能带结构
-光学电导率与吸收系数 $\alpha$ 密切相关，其基本数学表达式常写作 $\sigma = \alpha n c / 4\pi$ 或 $\sigma = \alpha h\nu / 4\pi$（取决于单位制）。在半导体材料中，当入射光子能量 $h\nu$ 大于材料的光学带隙时，会触发电子从价带向导带的跨带隙跃迁。
-
-对于像碲化锡（SnTe）这类 IV-VI 族化合物，其光学电导率受到其独特的电子能带与晶体结构的影响。SnTe 在常温下具有岩盐型（Rock-salt）面心立方结构，并在低温（约 100 K）下可能发生立方到菱方（Rhombohedral）的相变，展现出铁电性。作为一种拓扑晶体绝缘体（TCI），SnTe 的表面态受到晶格对称性的保护，这种特殊的能带拓扑结构与其本征的 p 型导电特性（由 Sn 空位缺陷引起）共同决定了其在红外至可见光区的光学响应特性。
-
-### 工艺调控与应用实例
-材料的生长工艺对光学电导率有显著的调制作用。研究表明，在电化学沉积（ECD）制备 SnTe 薄膜的过程中，沉积电压的细微变化会通过改变薄膜的化学计量比、晶粒尺寸及缺陷浓度，进而显著影响光学电导率。
-
-在光伏领域，高光学电导率通常预示着材料具有较强的光吸收和电荷产生能力。例如，通过优化沉积电压至 11V，制备出的 SnTe 薄膜可表现出约 $2.64 \times 10^{-3} \text{ S/cm}$ 的峰值光学电导率，且其光学带隙减小至 1.41 eV，这非常接近 Shockley-Queisser 极限所要求的最优太阳能电池吸收层带隙 [[../papers/Blessing2026optical]]。相比之下，在其他电压下沉积的薄膜则由于具有更高的透射率和较低的消光系数，更适合作为透明光电器件的窗口层。这种“工艺-结构-性能”的关联性是设计下一代高性能光电探测器和太阳能电池的核心理论基础。
-
-## Related Papers
-
-- [[../papers/Blessing2026optical]]
+- [[../papers/Blessing2026optical]] — Optical investigation of tin telluride (SnTe) thin films grown at different deposition voltage
+- [[../papers/pengStrainEngineering2D2020]] — Strain engineering of 2D semiconductors and graphene: from strain fields to band-structure tuning and photonic applications

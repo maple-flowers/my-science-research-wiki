@@ -1,43 +1,104 @@
----
-tags: [concept, 2D, vdW, materials, multiferroicity, phase-locked]
-category: [D02, Z01]
----
+# 2d-materials
 
-# 二维范德华材料与低维铁性 / Two-Dimensional Van Der Waals Materials
-
-原子级厚度（单层至数层）的晶体材料，其层内通过强共价键/离子键结合，而层间通过弱范德华（van der Waals, vdW）力堆叠。二维材料的出现打破了传统三维体材料中铁性极化的“临界厚度”（Critical Thickness）限制，并绕开了传统多铁性中铁电与铁磁化学互斥的 **d⁰ 规则 (d⁰ rule)**。通过层间滑动、莫尔超晶格及磁结构诱导，二维体系展现出高度集成的“相锁定”物性调控能力。
-
-## 相锁定属性与多场耦合 (Phase-Locked Properties)
-
-在二维极限下，晶格、电子与自旋自由度表现出极强的相干性，形成**相锁定（Phase-Locked）**响应特征。这意味着微小的外部激励（如应变、电场）可以同时重构材料的多种序参量：
-
-1.  **电子-晶格锁定 (Electronic-Lattice Locking)**：
-    - **滑动铁电性 (Sliding Ferroelectricity)**：在 [[../entities/h-BN|h-BN]] 或 [[../entities/TMDs|TMDs]] 双层中，极化状态由层间堆垛方式（如 AB/BA）决定。机器学习势模拟显示，畴壁的类孤子运动是实现皮秒级超快翻转的关键，其翻转电场比单畴直接翻转低两个数量级 ([[../papers/heUltrafastSwitchingDynamics2024]])。
-    - **应变介导耦合**：在 Fe₃GaTe₂/P(VDF-TrFE) 异质结中，利用铁电聚合物的逆压电效应诱导面内应变，可实现室温下对垂直磁各向异性（PMA）的非易失性电学控制 ([[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]])。
-
-2.  **电子-自旋锁定 (Electronic-Spin Locking)**：
-    - **巨自旋劈裂与 Rashba 效应**：在极性单层如 **SrOsO₃** 中，强 p-d 杂化与反演对称性破缺锁定了高达 0.606 eV 的巨自旋劈裂。通过 ~1.2% 的应变驱动序-序相变，可实现半导体-金属转变与自旋纹理的同步重构 ([[../papers/zhongHighthroughputExfoliationMultiferroic2025]])。
-    - **电磁振子 (Electromagnon)**：作为动态磁电耦合的指纹，电磁振子模式（如 NiI₂ 中的 34 和 37 cm⁻¹ 模式）展现出强烈的拉曼光学活性 (ROA)，标志着磁振子与电偶极激发的强杂化 ([[../papers/songEvidenceSinglelayerVan2022]])。
-
-## 二维材料的扩展与筛选
-
-为了突破 vdW 晶格的天然限制，研究者提出了通用的**非范德华剥离 (Non-vdW Exfoliation)** 判据：
-- **键密度判据**：剥离晶面需满足 $\rho \le 0.3$ bonds/Å²。
-- **强度判据**：面外结合强度 $\xi_\perp$ 必须小于面内结合强度 $\xi_\parallel$。
-基于此范式，已高通量预测出 35 种具有室温磁性与铁电性的稳定单层氧化物（如 [[../entities/SrOsO3|SrOsO₃]]、[[../entities/BiFeO3|BiFeO₃]]），剥离能低至 0.049 eV/Å²，与石墨烯同量级 ([[../papers/zhongHighthroughputExfoliationMultiferroic2025]])。
-
-## 代表性体系与表征技术
-
-- **本征 II 型多铁**：以单层 **NiI₂** 为代表，其螺旋磁序通过逆 DM 机制直接诱导极化 ([[../papers/songEvidenceSinglelayerVan2022]])。
-- **人工多铁设计**：通过插层（Intercalation）、界面调制（如晶圆级 **Cr₂S₃**）或构建范德华异质结，人工组装 FM/FE/FA 序 ([[../papers/tangMultiferroicityTwodimensionalVan2025]], [[../papers/RecentAdvancesGrowth2025]])。
-- **关键技术**：二次谐波产生 (SHG) 用于判定反演对称性破缺；圆偏振拉曼用于探测磁手性；反常霍尔效应 (AHE) 用于室温磁电逻辑演示 ([[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]])。
-
-## 关联概念与实体
-
-- [[sliding-ferroelectricity|滑动铁电性 Sliding Ferroelectricity]]
-- [[multiferroicity|多铁性 Multiferroicity]]
-- [[magnetoelectric-coupling|磁电耦合 Magnetoelectric Coupling]]
-- [[../entities/NiI2|二碘化镍 NiI2]]
-- [[../entities/Cr2S3|硫化铬 Cr2S3]]
-- [[../entities/SrOsO3|锇酸锶 SrOsO3]]
-- [[../entities/Fe3GeTe2|Fe3GeTe2 及其同构体]]
+- [[../papers/Barnett2006coexistence]] — Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides
+- [[../papers/CastroNeto2001charge]] — Charge Density Wave, Superconductivity, and Anomalous Metallic Behavior in 2D Transition Metal Dichalcogenides
+- [[../papers/Chen2019superconductivity]] — Discommensuration-driven superconductivity in the charge density wave phases of transition-metal dichalcogenides
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]] — Ferroelectricity and multiferroicity down to the atomic thickness
+- [[../papers/Inosov2008fermi]] — Fermi surface nesting in several transition metal dichalcogenides
+- [[../papers/Islam2025enhancement]] — Pressure-induced enhancement of superfluid density in transition metal dichalcogenides with and without charge density wave
+- [[../papers/Johannes2008fermi]] — Fermi surface nesting and the origin of charge density waves in metals
+- [[../papers/Koley2020charge]] — Charge density wave and superconductivity in transition metal dichalcogenides
+- [[../papers/Laverock2005fermi]] — Fermi surface nesting and charge-density wave formation in rare-earth tritellurides
+- [[../papers/Li2013bonding]] — Bonding Charge Density and Ultimate Strength of Monolayer Transition Metal Dichalcogenides
+- [[../papers/Owji20212d]] — 2D materials coated on etched optical fibers as humidity sensor
+- [[../papers/PChandra2011mechanoluminescence]] — Mechanoluminescence of Nanoparticles
+- [[../papers/Petkov2020hierarchy]] — Hierarchy among the crystal lattice, charge density wave, and superconducting orders in transition metal dichalcogenides
+- [[../papers/RecentAdvancesGrowth2025]] — Recent advances in growth, characterization, and application of two-dimensional multiferroic materials
+- [[../papers/Tobeiha2025optical]] — Optical humidity sensor based on G/GO nanosheets
+- [[../papers/aiFerroelectricityCoexistedPorbital2022]] — Ferroelectricity coexisted with p-orbital ferromagnetism and metallicity in two-dimensional metal oxynitrides
+- [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]] — Atomic-Scale Visualization of Multiferroicity in Monolayer NiI2
+- [[../papers/bhowalPolarMetalsPrinciples2023b]] — Polar Metals: Principles and Prospects
+- [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]] — Ferroelectricity-driven strain-mediated magnetoelectric coupling in two-dimensional multiferroic heterostructure
+- [[../papers/chen3dLevelSymmetry2025]] — 3d-level symmetry between metal layers governing the electronic configuration of Mn2N MXenes and enabling modulation between half-metallicity and semiconductivity
+- [[../papers/chenFerromagneticNonmagnetic1T2022]] — Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition
+- [[../papers/chenHafniumBasedFerroelectricPostMoore2026]] — Hafnium-Based Ferroelectric Post-Moore Electronics: Device Physics, Integration Architectures, and Neuromorphic System Implementation
+- [[../papers/chenStrongSlidingFerroelectricity2024]] — Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI₂ Layers
+- [[../papers/chowdhuryReviewTheoreticalComputational]] — Computational Methods for Charge Density Waves in 2D Materials
+- [[../papers/cossuStackingChargedensityWaves2024]] — Stacking of charge-density waves in 2H-NbSe₂ bilayers
+- [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]] — Intercorrelated In-Plane and Out-of-Plane Ferroelectricity in Ultrathin Two-Dimensional Layered Semiconductor In2Se3
+- [[../papers/dingPredictionIntrinsicTwodimensional2017a]] — Prediction of intrinsic two-dimensional ferroelectrics in In2Se3 and other III2-VI3 van der Waals materials
+- [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]] — Ultrasensitive optoelectronic biosensor arrays based on twisted bilayer graphene superlattice
+- [[../papers/feiFerroelectricSwitchingTwodimensional2018a]] — Ferroelectric switching of a two-dimensional metal
+- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]] — Ferroelectricity and multiferroicity in two-dimensional Sc₂P₂Se₆ and ScCrP₂Se₆ monolayers
+- [[../papers/gaoGiantChiralMagnetoelectric2024a]] — Giant chiral magnetoelectric oscillations in a van der Waals multiferroic
+- [[../papers/gaoStrainEngineeringFerroelectric2024]] — Strain engineering of ferroelectric polarization and domain in the two-dimensional multiferroic semiconductor
+- [[../papers/gorkovStrongElectronlatticeCoupling2012]] — Strong electron-lattice coupling as the mechanism behind charge density wave transformations in transition-metal dichalcogenides
+- [[../papers/guanRecentProgressTwoDimensional2020]] — Recent Progress in Two‐Dimensional Ferroelectric Materials
+- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]] — Advances in two-dimensional ferroelectric materials
+- [[../papers/hallEnvironmentalControlCharge]] — Environmental Control of Charge Density Wave Order in Monolayer 2H-TaS₂
+- [[../papers/hanTunableSlidingFerroelectricity2025]] — Tunable sliding ferroelectricity in two-dimensional van der Waals RuX2 (X = Cl, Br, and I) multiferroic layers
+- [[../papers/heSwitchingTwodimensionalSliding2025]] — Switching Two-Dimensional Sliding Ferroelectrics by Mechanical Bending
+- [[../papers/heUltrafastSwitchingDynamics2024]] — Ultrafast switching dynamics of the ferroelectric order in stacking-engineered ferroelectrics
+- [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]] — Strain-based room-temperature non-volatile MoTe2 ferroelectric phase change transistor
+- [[../papers/huProgressProspectsLowdimensional2019]] — Progress and prospects in low‐dimensional multiferroic materials
+- [[../papers/huangPolarPhaseDomain2019]] — Polar and phase domain walls with conducting interfacial states in a Weyl semimetal MoTe2
+- [[../papers/huangTwodimensionalIn2Se3Rising2022]] — Two-dimensional In2Se3: A rising advanced material for ferroelectric data storage
+- [[../papers/kaurRecentAdvancesTheoretical2025a]] — Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials
+- [[../papers/kawakamiChargedensityWaveAssociated2023]] — Charge-density wave associated with higher-order Fermi-surface nesting in monolayer VS2
+- [[../papers/khazaeiNovelElectronicMagnetic2013]] — Novel Electronic and Magnetic Properties of Two-Dimensional Transition Metal Carbides and Nitrides
+- [[../papers/kimObservationPhaseTransition1997]] — Observation of a phase transition from the T phase to the H phase induced by a STM tip in 1T-TaS₂
+- [[../papers/krishnamurthiSpinChargeDensity2020]] — Spin/charge density waves at the boundaries of transition metal dichalcogenides
+- [[../papers/laiTwodimensionalFerromagnetismDriven2019]] — Two-dimensional ferromagnetism and driven ferroelectricity in van der Waals CuCrP₂S₆
+- [[../papers/lezoualchStudyChargeDensity]] — Study of charge density waves in transition metal dichalcogenides
+- [[../papers/liFerroelasticityDomainPhysics2016]] — Ferroelasticity and domain physics in two-dimensional transition metal dichalcogenide monolayers
+- [[../papers/liMonolayerPuckeredPentagonal2022]] — Monolayer puckered pentagonal VTe2: An emergent two-dimensional ferromagnetic semiconductor with multiferroic coupling
+- [[../papers/liPhaseTransitions2D2021]] — Phase transitions in 2D materials
+- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]] — Spintronics in Two-Dimensional Materials
+- [[../papers/lvUnconventionalHystereticTransition2022]] — Unconventional Hysteretic Transition in a Charge Density Wave
+- [[../papers/majumdarInterplayChargeDensity2020]] — Interplay of charge density wave and multiband superconductivity in layered quasi-two-dimensional materials: The case of 2H-NbS₂ and 2H-NbSe₂
+- [[../papers/martinThinfilmFerroelectricMaterials2016]] — Thin-film ferroelectric materials and their applications
+- [[../papers/miaoMagneticFerroelectricMetal2024]] — Magnetic ferroelectric metal in bilayer Fe3GeTe2 under interlayer sliding
+- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]] — Multiferroics: different routes to magnetoelectric coupling
+- [[../papers/naguib25thAnniversaryArticle2013a]] — 25th Anniversary Article: MXenes: A New Family of Two‐Dimensional Materials
+- [[../papers/nakataRobustChargedensityWave2021]] — Robust charge-density wave strengthened by electron correlations in monolayer 1T-TaSe2 and 1T-NbSe2
+- [[../papers/neumayerCompetingPolarPhases2025]] — Competing polar phases in 2D ferroelectric transition metal thio- and selenophosphates
+- [[../papers/nicholsonUniaxialStraininducedPhase2021]] — Uniaxial strain-induced phase transition in the 2D topological semimetal IrTe2
+- [[../papers/niuDirectVisualizationLargeScale2021]] — Direct Visualization of Large-Scale Intrinsic Atomic Lattice Structure and Its Collective Anisotropy in Air-Sensitive Monolayer 1T'-WTe2
+- [[../papers/pedramraziManipulatingTopologicalDomain2019]] — Manipulating Topological Domain Boundaries in the Single-Layer Quantum Spin Hall Insulator 1T′–WSe₂
+- [[../papers/pengStrainEngineering2D2020]] — Strain engineering of 2D semiconductors and graphene: from strain fields to band-structure tuning and photonic applications
+- [[../papers/sattarFunctionalizedDoubleTransition2025]] — Functionalized double transition metal Mo2Ti2C3Tx ferroelectric MXene and laser-reduced graphene based flexible memristors for next-generation two-dimensional ferrotronics
+- [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]] — A room-temperature ferroelectric semimetal
+- [[../papers/shenEmergenceMultipleFerroelectric2025]] — Emergence of multiple ferroelectric states in multilayer black phosphorus
+- [[../papers/shuTwoDimensionalBlackArsenic2020]] — Two-Dimensional Black Arsenic Phosphorus for Ultrafast Photonics in Near- and Mid-Infrared Regimes
+- [[../papers/songEvidenceSinglelayerVan2022]] — Evidence for a single-layer van der Waals multiferroic
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]] — Sliding ferroelectricity in two-dimensional materials and device applications
+- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]] — Ferroelectricity and Nonvolatile Memristor Applications of Free‐Standing 2D Niobium Carbide: A New Frontier of Free‐Standing MXene in Electronic Devices
+- [[../papers/tangCombiningIntrinsicSlidinginduced2025]] — Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectrics
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]] — Towards Multiferroicity in Two-Dimensional Van Der Waals Materials: Challenges and Opportunities
+- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]] — Room-temperature two-dimensional multiferroic metal with voltage-controllable magnetic order
+- [[../papers/vahidmohammadiWorldTwodimensionalCarbides2021]] — The world of two-dimensional carbides and nitrides (MXenes)
+- [[../papers/wangFormationMechanismTwin2019]] — Formation mechanism of twin domain boundary in 2D materials: The case for WTe2
+- [[../papers/wangScreeningEnabledChemiresistiveMoisture2025]] — Screening-Enabled Chemiresistive Moisture Sensing with Tetrathiafulvalene-Based Electrically Conductive Metal–Organic Frameworks
+- [[../papers/wangTunableD0Topological2025b]] — Tunable d0 topological magnetic states in multiferroic monolayer In2NO2
+- [[../papers/wangTwodimensionalFerroelectricMetal2025]] — Two-dimensional ferroelectric metal CuCrX2 (X = S, Se) for efficient electrocatalysis
+- [[../papers/wongEvidenceMetallic1T]] — Metallic 1T Phase, 3d1 Electronic Configuration and Charge Density Wave Order in Molecular Beam Epitaxy Grown Monolayer Vanadium Ditelluride
+- [[../papers/wuCoexistenceFerroelectricityAntiferroelectricity2024]] — Coexistence of ferroelectricity and antiferroelectricity in 2D van der Waals multiferroic
+- [[../papers/wuElectrostaticGatingIntercalation2022]] — Electrostatic gating and intercalation in 2D materials
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]] — Nonvolatile switchable half-metallicity and magnetism in the MXene Hf₂MnC₂O₂/Sc₂CO₂ multiferroic heterostructure
+- [[../papers/wuSlidingFerroelectricity2D2021a]] — Sliding ferroelectricity in 2D van der Waals materials: Related physics and future opportunities
+- [[../papers/xiangTwodimensionalRoomTemperature2020]] — Towards two-dimensional room temperature multiferroics
+- [[../papers/xuTunableFerroelectricTopological2022]] — Tunable ferroelectric topological defects on 2D topological surfaces: strain engineering skyrmion-like polar structures in 2D materials
+- [[../papers/xuTwodimensionalFerroelasticityVan2021]] — Two-dimensional ferroelasticity in van der Waals β'-In2Se3
+- [[../papers/xunCoexistingMagnetismFerroelectric2024]] — Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensional Materials
+- [[../papers/yanDecipheringStabilityTwodimensional2025]] — Deciphering the stability of two-dimensional III-V semiconductors: Building blocks and their versatile assembly
+- [[../papers/yanagizawaSwitchingChargedensityWave2023]] — Switching of charge-density wave by carrier tuning in monolayer TiTe₂
+- [[../papers/yangRipplingFerroicPhase2021]] — Rippling Ferroic Phase Transition and Domain Switching In 2D Materials
+- [[../papers/yangStrainEngineeringTwodimensional2021]] — Strain engineering of <scp>two‐dimensional</scp> materials: Methods, properties, and applications
+- [[../papers/yuFerroelectricControlMagnetism2026]] — Ferroelectric Control of Magnetism and Giant Magnetoresistance Via Intercalation-Induced Symmetry Breaking in Two-Dimensional Multiferroics with Strong Magnetoelectric Coupling
+- [[../papers/zahraCriticalAnalysisFerroelectric2025]] — A critical analysis of ferroelectric and ferromagnetic properties in two-dimensional MXene
+- [[../papers/zhangEmergingFrontiersTwodimensional2025]] — Emerging frontiers in two-dimensional sliding ferroelectrics
+- [[../papers/zhangNonvolatileControlTopological2025]] — Nonvolatile control of topological magnetism in two-dimensional CrInTe2/In2Se3 multiferroic heterostructures
+- [[../papers/zhaoOpticalFingerprintsTwodimensional2024]] — Optical fingerprints of two-dimensional interlayer-sliding multiferroic materials
+- [[../papers/zhaoRealization2DMultiferroic2024]] — Realization of 2D multiferroic with strong magnetoelectric coupling by intercalation: a first-principles high-throughput prediction
+- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]] — Anisotropic superconductivity in the two-dimensional metal-organic kagome framework Cu 3 ( CO ) 6
+- [[../papers/zhongHighthroughputExfoliationMultiferroic2025]] — High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperature and giant spin splitting

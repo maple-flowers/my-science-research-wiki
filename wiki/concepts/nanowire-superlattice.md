@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# nanowire-superlattice
 
-# 纳米线超晶格）
-
-纳米线超晶格）：沿纳米线轴向周期性切换组分（如 Si/SiGe）形成的一维超晶格。
-
-## Related Papers
-
-- [[../papers/Khitrov2002internal]]
+- [[../papers/Khitrov2002internal]] — Internal Defects Observed by Two-Photon-Induced Photoluminescence

@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Xie2024isostructural]]
 projects: [project-3]
-concepts: [density-functional-theory, spin-orbit-coupling]
+concepts: [density-functional-theory, spin-orbit-coupling, organic-afterglow, charge-transfer-exciplex, persistent-mechanoluminescence, carbazole-derivatives, heavy-atom-effect, isostructural-doping]
 entities:
   - BCPC
   - BCPSO
@@ -78,7 +78,7 @@ Zongliang Xie, Yufeng Xue, Xianhe Zhang, Junru Chen, Zesen Lin, Bin Liu（新加
   - 实体 [[../entities/BCPSO|BCPSO]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/optical-spectra]]
-  - 年度 [[../write/2024]]
+  - 年度 [[../write/2020-2024|2024]]
   - 项目 [[../projects/project-3-mechanoluminescence-nn]]
   - 相关论文 [[../../raw/note/Xie2024isostructural]]
 

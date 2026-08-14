@@ -3,6 +3,43 @@
 > 时间导向的变更记录。每次 ingest / 重大修订追加一条，格式：`## [YYYY-MM-DD] <操作> | <标题>`。内容导向索引见 [[index]]。
 
 
+## [2026-08-13] rebuild | concepts/entities 从 0 重建为 178 页（26 独立 stub + 152 聚合桶）
+
+### 背景
+`wiki/concepts/` 与 `wiki/entities/` 全部清空，基于 188 篇 paper frontmatter 的 `concepts:` / `entities:` slug 列表从零重建。
+约束：≤200 页，每个聚合桶 ≤10 个 slug，不建 alias 文件，不建 redirect，paper 双链直接指向聚合桶 + #anchor。
+
+### 设计
+- **聚类方式**：基于 188 篇论文共现关系做贪心谱聚类（每次选度数最高的 slug 作种子，吸收共现最多的邻居，每桶 ≤10）。
+- **桶命名**：桶内最高频的 slug 作为桶文件名。
+- **独立页拆分**：在 ≥10 篇论文中出现的高频 slug（共 31 个）拆为独立 stub 页，其余仍在聚合桶里。
+- **目录分配**：按桶内 concept/entity slug 多数决分到 `wiki/concepts/` 或 `wiki/entities/`（122 + 56 = 178）。
+
+### 页面结构
+- **聚合桶**：frontmatter（tags/title/kind: aggregate/members）+ H1 + 👵 太奶导读 + 📑 桶内成员索引 + 📝 成员详情（每个 slug 一条 H3 + 出现频次 + 关联论文）+ 📚 所有相关论文 + 🔗 关联概念与实体。
+- **独立 stub 页**：frontmatter（tags/title/type: concept|entity/status: stub/slug/papers）+ H1 + 👵 太奶导读 + (🏗️ 结构概览，entity 专属) + 📚 相关论文 + 🔗 关联概念与实体。
+
+### paper 双链调整
+- 188 篇 paper 正文中所有 `[[../concepts/<slug>]]` / `[[../entities/<slug>]]` 改为 `[[../<dir>/<桶名>#<slug>|<label>]]`。
+- 已拆为独立页的 26 个高频 slug，双链去掉 anchor 直接指向独立页文件。
+- 旧版 `miscellaneous-concepts`、`software-tool-entity`、`misc-materials-entity` 等大聚合页名，统一映射到对应新桶。
+- 总计修复 4688 条概念/实体双链，0 断链。
+
+### 文件计数
+- `wiki/concepts/`：122 页
+- `wiki/entities/`：56 页
+- 总计：178 页（≤200 上限 ✓）
+- 覆盖概念 slug：756 个，实体 slug：349 个
+- 每桶大小：4–10 个 slug（平均 ~7 个）
+
+### 生成脚本
+- `tools/rebuild_final_cluster.py`：共现聚类 + 层次聚类合并 singleton
+- `tools/rebuild_generate.py`：生成聚合桶页
+- `tools/rebuild_dedicated.py`：生成高频独立 stub 页
+- `tools/rebuild_fixlinks.py` / `rebuild_fixold.py` / `rebuild_fixentity.py` / `rebuild_finalfix.py`：paper 双链修复
+
+---
+
 ## [2026-08-13] cleanup | `tools/` 目录清理 22 个一次性文件
 
 ### 清理范围
@@ -351,4 +388,115 @@
 - **图表提取与 Review 规则**：完成 118 篇 Original Research 论文的 3,562 张图表与 JSON Manifest 提取；自动跳过 Review 论文抽图。
 - **索引更新**：已更新 [[index]] 及 [[材料模拟计算设计]] 主题导览页。
 
+
+
+## [2026-08-13] merge | 完成实体/概念合并至 47 条 (目标 <200)
+
+### 背景
+
+按用户要求把科研 Wiki 的实体/概念从 **1290 条**软合并到 **<200 条**。
+采用 **软合并**（不删除，保留为重定向桩）+ **全局链接改写**（所有 [[old-slug]] 改写为 [[new-hub-slug]]）。
+
+### 最终状态
+
+- **总文件数**：1297（1088 concepts + 209 entities）
+- **软合并 stub**：1250（用 merged-into/<hub> 重定向桩保留原文）
+- **真正独立条目**：**47 条**
+  - 19 个 hub（12 个原始 hub + 1 个新概念 hub + 6 个新实体 hub）
+  - 28 个 alias stub（用 status: alias 标记的去重条目）
+- **从 1290 简化到 47**（减少 ~96%）
+
+### 8 批合并
+
+1. 批 1: sliding-ferroelectricity + TMDs
+2. 批 2: multiferroicity + CrI3
+3. 批 3: ferroelectricity + polarization-switching + BaTiO3 + BiFeO3
+4. 批 4: domain-walls + topological-defects + TTF
+5. 批 5: 2D-materials + VASP + Si + graphene
+6. 批 6: charge-density-wave + ferromagnetism + density-functional-theory
+7. 批 7: 杂项 concept 收编
+8. 批 8: molecular-beam-epitaxy + ferroelectric-tunnel-junction + 6 个新 entity hub
+9. 批 9: miscellaneous-concepts（catch-all hub）+ 14 个 entity stub 收编
+
+### 关键设计
+
+- **软合并桩**保留为 [[hub]] 主动引用格式（frontmatter merged_into + H1 后粗体 banner + 底部 CTA 三处 [[hub]] 链接）
+- **富内容 stub**（>20 行）保留完整原文为 ## 归档 代码块
+- **全局 inbound 链接改写**：所有 1536 个 md 文件里指向被合并条目的 [[slug]] 统一改写为 [[hub-slug]]
+- **新增 7 个 hub**：
+  - 概念：miscellaneous-concepts（catch-all，229 个散落 concept）
+  - 实体：ferroelectric-tunnel-junction-entity、metals-and-alloys-entity、
+    magnetic-topological-entity、spectroscopy-entity、software-tool-entity、
+    misc-materials-entity（6 个 catch-all entity hub）
+
+### 链接修复
+
+批 8/9 后 verify 出现 529 broken links，主要是 hub 路径混淆（concepts/ vs entities/ vs figures/）
+和拼写错误（entitys/）。修复了 100 个：
+- 错误 hub 路径 -> 正确路径（72 个）
+- alias stub 浅层 [[../../concepts/xxx]] -> [[xxx]] bare slug（28 个）
+
+剩余 431 broken 中绝大多数是 pre-existing 状态（../write/YYYY 占位、../figures/heterostructures-* 缺失 stub、
+旧格式 citekey 如 2024_He_Ultrafast switching_KEY-...），与本次合并无关。
+
+### 工具
+
+- tools/soft_merge.py：核心合并脚本（v4+）
+- tools/strict_verify.py：链接校验
+
+## [2026-08-14] update | 根目录说明文档校准：tools 清空待重建、topics 清空待重构
+
+### 背景
+
+`tools/` 目录已清空（0 个文件），`wiki/topics/` 已清空（仅剩 `example.md` 占位）。据此更新根目录 `index.md`、`SCHEMA.md`、`update.md`，使关于 tools/ 与 wiki/topics/ 的说明及页数统计与磁盘实际状态一致。
+
+### 变更
+
+- **index.md**：概念页 122 → 107、实体页 56 → 22、图表库 47 页 → 25 页（条目 1088 → 1080）；主题（Topics）小节改为"该目录已清空、待重构"；自动日报流中 `stork_daily.py` 标注"已随 tools/ 清空、待重建"。
+- **SCHEMA.md**：目录约定树中 `tools/` 改为"已清空、待重建"、`topics/` 改为"已清空、待重构"；图表库页数 47 → 25（条目约 1088 → 约 1080）；摄入源中 `stork_daily.py` 与铁律中 `tools/ingest_papers/` 相关说明同步标注脚本待重建。
+- **update.md**：Raw 资产同步命令标注"脚本已随 tools/ 清空、待重建"；`tools/ingest_papers/` 中间产物路径标注已清空；知识库合成范围与回链说明中 `wiki/topics/` 标注"已清空、待重构"。
+
+### 校准后的关键计数
+
+- `wiki/concepts/`：107 页
+- `wiki/entities/`：22 页
+- `wiki/figures/`：25 页（H3 条目 1080）
+- `wiki/topics/`：0 个正式页（仅 example.md 占位）
+- `tools/`：0 个文件
+
+## [2026-08-14] update | 校准 wiki 各子目录页数：反链聚合中间产物不计入正式页
+
+### 磁盘实测（2026-08-14）
+- `wiki/concepts/`：103 个正式页（有 frontmatter：mature 62 / developing 38 / stub 1 / 无 status 2，含 1 个 type:entity 的 CrTe2）+ 1052 个反链聚合中间产物（无 frontmatter，格式 `# slug` + 论文列表，不计入正式页数）
+- `wiki/entities/`：22 个正式页（mature 22）+ 382 个反链聚合中间产物（不计入正式页数）
+- `wiki/papers/`：188 篇（全部有 frontmatter，status: ingested）
+- `wiki/figures/`：25 个 .md（_index + 5 枢纽页 + 19 内容页），H3 条目 1080
+- `wiki/write/`：9 个 .md（_index + _patterns + 7 个五年段 1945-1999 ~ 2025-2029）
+- `wiki/projects/`：9 个 .md（index + Project 1~7 + example）
+- `wiki/topics/`：1 个 .md（仅 example.md 占位）
+
+### 变更
+- index.md / plan.md：concepts 107 → 103 正式页；entities 保持 22 正式页；同步标注反链聚合中间产物不计入。
+- SCHEMA.md：目录树 topics/concepts/entities 行补录正式页数与占位说明；图表库条目数精确为 1080；write 描述修正为 `_patterns` + 7 个五年段（实际无 `Unknown.md`）。
+- 口径：concepts/entities 下无 frontmatter 的「# slug + 论文列表」文件为构建中间产物，不计入正式概念/实体页面数。
+
+## [2026-08-14] update | 二次校准根说明文档：topics/tools/ideas/output/temp 与正式页真实统计
+
+### 磁盘实测（二次复核）
+- `wiki/concepts/`：1174 个 .md，正式页 102（mature 61 / developing 38 / stub 1 / 无 status 2），其余 1072 个为反链聚合中间产物
+- `wiki/entities/`：416 个 .md，正式页 23（mature 23），其余 393 个为反链聚合中间产物
+- `wiki/topics/`：3 个 .md = `材料模拟计算设计.md` + `多铁性材料.md` + `example.md`（前两者为早期列表式主题聚合页，非完整 format-spec 模板）
+- `wiki/ideas/`：空目录（0 项）
+- `wiki/figures/`：25 页，H3 条目 1080
+- `tools/`：3 个 md（维护报告），无脚本
+- 根目录 `output/`、`temp/` 为近期维护产物/中间产物目录；根目录无 `文献矩阵.base`
+- `raw/note/`：531 篇；`raw/figures/`：531 个 KEY 目录 / 1,675 张 PNG / 531 份 manifest.json
+
+### 变更
+- SCHEMA.md：目录树校准 topics（2 主题页 + example）、entities 23、concepts 102、新增 ideas/output/temp、移除已不存在的 `文献矩阵.base`、tools 行改为 3 个维护报告；摄入源与铁律的脚本状态措辞同步修正。
+- index.md：concepts 103→102、entities 22→23、topics 描述改为实际 3 文件、raw PNG 1671→1675、移除 `文献矩阵.base` 引用、新增「维护产物与临时目录」小节。
+- update.md：`tools/` 与 `topics/` 相关占位/清空措辞同步校准。
+
+### 说明
+- 与上一条（concepts 103 / entities 22）的差异：磁盘实际有 1 个 concept 正式页已移除（103→102），entities 新增 1 个正式页（22→23）。本次以二次复核实测为准。
 

@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# prevascularization
 
-# 预血管化，在支架内预先构建血管网络以解决大体积组织传质难题
-
-预血管化，在支架内预先构建血管网络以解决大体积组织传质难题
-
-## Related Papers
-
-- [[../papers/Gittard2013polymerization]]
+- [[../papers/Gittard2013polymerization]] — Two-photon polymerization microstructuring in regenerative medicine

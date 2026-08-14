@@ -115,7 +115,7 @@ Barnett, Polkovnikov, Demler, Yin, Ku et al.，2006，Physical Review Letters 96
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/charge-density-wave]]
   - 概念 [[../concepts/density-functional-theory]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/fermi-surface-nesting|费米面嵌套]]
   - 概念 [[../concepts/wannier-function|瓦尼尔函数]]
   - 概念 [[../concepts/tight-binding|紧束缚模型]]
@@ -131,7 +131,7 @@ Barnett, Polkovnikov, Demler, Yin, Ku et al.，2006，Physical Review Letters 96
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/2006]]
+  - 年度 [[../write/2005-2009|2006]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 **Barnett2006coexistence**
 

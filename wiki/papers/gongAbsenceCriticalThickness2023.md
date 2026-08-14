@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/gongAbsenceCriticalThickness2023]]
 projects: [project-2, project-5]
-concepts: [density-functional-theory, polarization-switching, strain-engineering, topological-defects]
-entities: [VASP]
+concepts: [density-functional-theory, polarization-switching, strain-engineering, topological-defects, kittels-law, hyperbolic-scaling, polar-vortex, LSMO, depolarization-field, polar-skyrmion, critical-thickness-ferroelectric, phase-field-modeling, topological-charge]
+entities: [VASP, SrTiO3, PbTiO3]
 methods: [afm-pfm, berry-phase, dft, phase-field, stm-mbe, tem, xrd]
 materials:
   - PbTiO3
@@ -99,9 +99,9 @@ Feng-Hui Gong, Yun-Long Tang, Yu-Jia Wang, Yu-Ting Chen, Bo Wu, Li-Xin Yang, Yin
   - 实体 [[../entities/SrTiO3|SrTiO3 (STO)]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/optical-spectra]]
-  - 图表 [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - 年度 [[../write/2023]]
-  - 主题 [[材料模拟计算设计]]
+  - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 年度 [[../write/2020-2024|2023]]
+  - 主题 [[../topics/材料模拟计算设计]]
   - 相关论文 **gongAbsenceCriticalThickness2023**
 
 ## 📊 关键图表

@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# flapw
 
-# 实体/概念）
-
-实体/概念）：全势线性化增强平面波方法（FLAPW），本文用作全电子精度参照基准。
-
-## Related Papers
-
-- [[../papers/kresseUltrasoftPseudopotentialsProjector1999c]]
+- [[../papers/kresseUltrasoftPseudopotentialsProjector1999c]] — From ultrasoft pseudopotentials to the projector augmented-wave method

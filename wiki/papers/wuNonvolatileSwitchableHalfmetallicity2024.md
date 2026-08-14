@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/wuNonvolatileSwitchableHalfmetallicity2024]]
 projects: [project-2, project-5]
-concepts: [2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling]
-entities: [CrTe2, Fe3GeTe2, In2Se3, MXenes, SnTe, VASP]
+concepts: [2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, selective-charge-transfer, half-metallicity, spin-field-effect-transistor, bipolar-magnetic-semiconductor, superexchange, magnetic-anisotropy-energy, polar-metal]
+entities: [CrTe2, Fe3GeTe2, In2Se3, MXenes, SnTe, VASP, Sc2CO2, Hf2MnC2O2]
 methods: [afm-pfm, berry-phase, dft, dft-plus-u]
 materials: [CrTe2, Fe3GeTe2, In2Se3, MXenes, SnTe]
 figures: [electronic-bands-band-structures, electronic-bands-cdw-transport, electronic-bands-dos-fermi, electronic-devices-memory-transistors, heterostructures-stacking, mathematical-models-formulas]
@@ -85,12 +85,12 @@ Changwei Wu, Shanwei Sun, Weiping Gong, Jiangyu Li, Xiao Wang et al.，2024，*P
 用第一性原理设计铁磁 MXene Hf₂MnC₂O₂ 与铁电 MXene Sc₂CO₂ 的范德华多铁异质结，翻转 Sc₂CO₂ 极化可非易失地使 Hf₂MnC₂O₂ 在双极磁性半导体与半金属之间切换，并同时增强铁磁交换 J₁（6.38→9.97 meV）和翻转易磁化轴（面内→面外）。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/berry-phase]]、[[../concepts/half-metallicity|半金属性]]、[[../concepts/bipolar-magnetic-semiconductor|双极磁性半导体]]、[[../concepts/magnetic-anisotropy-energy|磁各向异性能]]、[[../concepts/superexchange|超交换作用]]、[[../concepts/selective-charge-transfer|界面选择性电荷转移]]、[[../concepts/polar-metal|极性金属]]、[[../concepts/spin-field-effect-transistor|自旋场效应晶体管]]
+  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2d-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/berry-phase]]、[[../concepts/half-metallicity|半金属性]]、[[../concepts/bipolar-magnetic-semiconductor|双极磁性半导体]]、[[../concepts/magnetic-anisotropy-energy|磁各向异性能]]、[[../concepts/superexchange|超交换作用]]、[[../concepts/selective-charge-transfer|界面选择性电荷转移]]、[[../concepts/polar-metal|极性金属]]、[[../concepts/spin-field-effect-transistor|自旋场效应晶体管]]
   - 实体 [[../entities/MXenes]]、[[../entities/VASP]]、[[../entities/In2Se3]]（同为二维铁电半导体可类比）、[[../entities/CrTe2]]、[[../entities/Fe3GeTe2]]（二维铁磁参照系）、[[../entities/SnTe]]（铁电体，类比项目材料）、[[../entities/Hf2MnC2O2]]、[[../entities/Sc2CO2]]
-  - 图表 [[../figures/electronic-bands]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]、[[../figures/mathematical-models]]、[[../figures/electronic-devices]]
-  - 年度 [[../write/2024]]
+  - 图表 [[../figures/electronic-bands]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking|自旋电子学与应变工程]]、[[../figures/mathematical-models]]、[[../figures/electronic-devices]]
+  - 年度 [[../write/2020-2024|2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
-  - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
+  - 主题 [[../topics/多铁性材料]]、[[../topics/材料模拟计算设计]]
   - 相关论文 [[../../raw/note/wuNonvolatileSwitchableHalfmetallicity2024]]
 
 ## 📊 关键图表

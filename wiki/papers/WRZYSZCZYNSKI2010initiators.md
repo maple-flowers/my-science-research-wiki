@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/WRZYSZCZYNSKI2010initiators]]
 projects: [project-1]
-concepts: [two-photon-absorption, two-photon-polymerization, photoinitiator, d-pi-a-structure, two-photon-cross-section, photopolymerization, photoinduced-electron-transfer, exciplex, nonlinear-optics, intramolecular-charge-transfer]
+concepts: [two-photon-absorption, two-photon-polymerization, photoinitiator, d-pi-a-structure, two-photon-cross-section, photopolymerization, photoinduced-electron-transfer, exciplex, nonlinear-optics, intramolecular-charge-transfer, two-photon-absorption-cross-section]
 entities: [coumarin, stilbene, diphenyliodonium-salt, habi, thiazine-dye, triphenylamine, xanthene-dye, femtosecond-laser]
 methods: [literature-review, photopolymerization-kinetics, two-photon-absorption-spectroscopy, structure-property-analysis]
 materials: [e-stilbene, dibutylamino-stilbene, coumarin-derivatives, ketocoumarin-derivatives, thiazine-dyes, triphenylamine-derivatives, eosin, dpi, habi]
@@ -88,8 +88,10 @@ Wrzyszczyński A.，2010，*Polimery*，55(3), 167–171，DOI: 10.14314/polimer
 本文系统综述双光子聚合引发剂的物理机制（顺序/同时双光子吸收）、分子设计准则（D-π-D / D-π-A-π-D / A-π-D-π-A）、代表性化合物类别（二苯乙烯衍生物、噻嗪染料、三苯胺、香豆素/酮香豆素二元体系等）及其在三维微纳加工中的应用优势。
 ## 🔗 Wiki 双链
 本文涉及且 wiki 中已存在的条目：
-  - 年度 [[../write/2010]]
+  - 年度 [[../write/2010-2014|2010]]
   - 项目 [[../projects/project-1-two-photon]]
+  - 概念 [[../concepts/two-photon-cross-section]]、[[../concepts/nonlinear-optics]]
+  - 实体 [[../entities/coumarin]]、[[../entities/diphenyliodonium-salt]]、[[../entities/habi]]、[[../entities/femtosecond-laser]]、[[../entities/xanthene-dye]]、[[../entities/thiazine-dye]]、[[../entities/triphenylamine]]
   - 相关论文 [[../../raw/note/WRZYSZCZYNSKI2010initiators]]
   - 概念：
     - [[../concepts/two-photon-absorption|双光子吸收]]

@@ -92,8 +92,8 @@ Xiaoyan Miao, Milorad Milošević, Chunmei Zhang，2024，Physica B: Condensed M
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/strain-engineering]]、[[../concepts/2d-materials]]、[[../concepts/polarization-switching]]、[[../concepts/density-functional-theory]]、[[../concepts/ferroelectric-metal|铁电金属]]、[[../concepts/interlayer-charge-transfer|层间电荷转移]]、[[../concepts/itinerant-ferromagnetism|巡游铁磁性]]、[[../concepts/magnetic-polar-metal|磁性极性金属]]
   - 实体 [[../entities/Fe3GeTe2]]、[[../entities/VASP]]、[[../entities/WTe2]]、[[../entities/In2Se3]]、[[../entities/h-BN]]、[[../entities/TMDs]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
-  - 年度 [[../write/2024]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking|多铁与磁电异质结]]
+  - 年度 [[../write/2020-2024|2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/miaoMagneticFerroelectricMetal2024]]
 ## 📊 关键图表

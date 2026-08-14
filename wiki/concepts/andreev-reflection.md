@@ -1,25 +1,3 @@
----
-tags: [concept]
----
+# andreev-reflection
 
-# Andreev 反射（Andreev Reflection）
-
-Andreev 反射是发生在法向金属（N）与超导体（S）界面的一种基础量子散射过程。当能量小于超导能隙（$\Delta$）的入射电子从金属侧到达界面时，它无法以单粒子形式进入超导体，而是与另一个电子结合形成库珀对进入超导凝聚体，同时在该位置反射回一个空穴进入金属侧。这一过程不仅实现了电荷从单粒子流向超流的转换，也是近邻效应（Proximity Effect）和约瑟夫森电流的微观物理基础。
-
-## 谱学探测与次谐波能隙结构（SGS）
-
-在准二维过渡金属二硫族化合物（TMDs）如 2H-NbSe₂ 和 2H-NbS₂ 的研究中，**安德列夫反射谱（IMARE）**是一种测量超导能隙大小与对称性的高分辨率探测手段。通过构建超导-微缩-超导（S-c-S）断裂结，实验上可以观测到**次谐波能隙结构（Subharmonic Gap Structure, SGS）**。这些结构在微分电导（$dI/dV$）谱图中表现为一系列特征峰，其位置满足 $V_n = 2\Delta / ne$（其中 $n=1, 2, 3...$ 为反射次数）。这种“光谱标尺”能够直接给出超导能隙的精确数值，而无需依赖复杂的模型拟合 [[../papers/majumdarInterplayChargeDensity2020]]。
-
-## 多带超导电性的微观验证
-
-Andreev 反射谱的核心优势在于其对**多带超导（Multiband Superconductivity）**的辨析能力。在 2H-NbSe₂ 等体系中，该技术直接证实了**双 s 波（Two-gap s-wave）**能隙结构。具体而言，谱学证据显示存在两组独立的能隙：
-- **大能隙（$\Delta_L$）**：通常与 Nb 衍生的准二维管状费米面相关，表现出强耦合特征（$\Delta_L/k_B T_c \approx 2.1$）。
-- **小能隙（$\Delta_S$）**：对应于 Se/S 衍生的费米面口袋，表现为弱耦合特征 [[../papers/majumdarInterplayChargeDensity2020]]。
-
-这种能隙的分离对于理解电荷密度波（CDW）与超导电性的竞争至关重要。压力调控实验表明，尽管高压会抑制 CDW 并增强 $T_c$，但双 s 波的配对对称性保持稳健，说明 CDW 虽然与超导在费米面上竞争态密度，但并未改变配对的基础机制。
-
-## 相位锁定与电子耦合特征
-
-从“相位锁定”的角度看，Andreev 谱的清晰度反映了能带间的电子耦合强度与相位相干性。在 2H-NbSe₂ 中，上临界场（$H_{c2}$）表现出的非线性上翘行为与多带 Gurevich 模型吻合，而 Andreev 谱观测到的双能隙演化为此提供了微观支持。相比之下，2H-NbS₂ 的 $H_{c2}$ 受泡利顺磁效应主导，呈现低温饱和特征，但其 Andreev 谱仍显示出清晰的双能隙 SGS 峰，揭示了 TMD 家族中多带效应的普适性 [[../papers/majumdarInterplayChargeDensity2020]]。
-
-通过分析 SGS 峰的形状（如凹陷对称性），可以有效排除具有节点（Nodes）的 d 波配对，确立了此类材料中无节点的 s 波配对图像。这种微观谱学证据与宏观的伦敦穿透深度测量相互印证，共同构建了层状 TMD 超导体的完整图景。
+- [[../papers/majumdarInterplayChargeDensity2020]] — Interplay of charge density wave and multiband superconductivity in layered quasi-two-dimensional materials: The case of 2H-NbS₂ and 2H-NbSe₂

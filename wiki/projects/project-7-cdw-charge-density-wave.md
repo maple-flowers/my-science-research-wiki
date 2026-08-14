@@ -17,9 +17,9 @@ local_path: E:\swan_goose\燕燕\香香\项目七：CDW电荷密度波\
 电荷密度波（Charge Density Wave, CDW）是低维固体中电子-声子耦合导致的一种宏观量子相。本项目专注于过渡金属二硫属化物（TMDs）及其衍生体系中 CDW 态的形成机制、磁性/超导态耦合以及外场调控下的相变动力学。目前正处于 5-6 个主 Figure 的规划与论文初稿撰写阶段。
 
 ## 2. 与科研 Wiki 知识库的联系
-- **相关物理概念**：[[../../concepts/charge-density-wave|CDW 相变]]、[[../../concepts/dirac-electrons|狄拉克电子]]、[[../../concepts/marginal-fermi-liquid|边缘费米液体]]、[[../../concepts/fermi-surface-nesting|费米面嵌套]]、[[../../concepts/peierls-distortion|派尔斯畸变]]
-- **相关材料/实体**：[[../../entities/TMDs|TMDs 相变材料]] (1T'-MoS2, CrS2, 2H-NbSe2, WTe2)
-- **多场耦合**：[[../../concepts/magnetoelectric-coupling|磁电耦合]]、[[../../concepts/superconductivity|超导电性]]、[[../../concepts/sliding-ferroelectricity|滑动铁电性 (与 CDW 共存)]]
+- **相关物理概念**：[[../concepts/charge-density-wave|CDW 相变]]、[[../concepts/dirac-electrons|狄拉克电子]]、[[../concepts/marginal-fermi-liquid|边缘费米液体]]、[[../concepts/fermi-surface-nesting|费米面嵌套]]、[[../concepts/peierls-instability|派尔斯畸变]]
+- **相关材料/实体**：[[../entities/TMDs|TMDs 相变材料]] (1T'-MoS2, CrS2, 2H-NbSe2, WTe2)
+- **多场耦合**：[[../concepts/magnetoelectric-coupling|磁电耦合]]、[[../concepts/superconductivity|超导电性]]、[[../concepts/sliding-ferroelectricity|滑动铁电性 (与 CDW 共存)]]
 
 ---
 

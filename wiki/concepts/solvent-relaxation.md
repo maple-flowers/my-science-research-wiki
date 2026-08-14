@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# solvent-relaxation
 
-# 溶剂弛豫，激发后溶剂分子围绕新偶极重排、稳定电荷分离态并导致发射红移的过程。
-
-溶剂弛豫，激发后溶剂分子围绕新偶极重排、稳定电荷分离态并导致发射红移的过程。
-
-## Related Papers
-
-- [[../papers/H2017fluorescence]]
+- [[../papers/H2017fluorescence]] — Dicyanostilbene-based Two-photon Thermo-solvatochromic Fluorescence Probes with Two-photon Triple Fluorescence
+- [[../papers/Huang2019solvatochromic]] — Stilbene-Based Two-Photon Thermo-Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature
+- [[../papers/Huang2023two]] — Two Dicyanostilbene-Based Two-Photon Fluorescence Environmentally Sensitive Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence

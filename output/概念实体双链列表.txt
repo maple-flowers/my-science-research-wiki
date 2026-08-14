@@ -1,0 +1,2030 @@
+==========================================================================================
+科研 Wiki 概念 / 实体双链整理报告
+==========================================================================================
+生成时间：2026-08-14 07:45
+数据来源：wiki/concepts（107 页）、wiki/entities（22 页）、wiki/papers（188 篇）
+
+==========================================================================================
+一、总览
+==========================================================================================
+概念页（concepts）：107 个
+实体页（entities）：22 个
+合计：129 个
+概念/实体页面正文双链出链总数：552 条（去重后）
+论文对概念/实体的引用关系：1524 对
+
+==========================================================================================
+二、概念列表（107 个）
+==========================================================================================
+  1. CrTe2  |  二碲化铬 (CrTe₂)  |  tags: entity, material, 2D, magnetism
+  2. Curie-temperature  |  居里温度 / Curie Temperature  |  tags: concept, magnetism
+  3. DFT-U  |  DFT+U / 密度泛函理论加 U  |  tags: concept, computational-physics, vasp, dft
+  4. Dzyaloshinskii-Moriya-interaction  |  DM 相互作用 / Dzyaloshinskii-Moriya Interaction  |  tags: concept, magnetism
+  5. Heisenberg-model  |  海森堡模型 / Heisenberg Model  |  tags: concept, magnetism
+  6. Neel-temperature  |  尼尔温度 / Néel Temperature  |  tags: concept, magnetism
+  7. Schottky-barrier  |  肖特基势垒 (Schottky Barrier)  |  tags: concept, semiconductor, electronics
+  8. Z2-invariant  |  Z2 不变量 / Z2 Invariant  |  tags: concept, topological-physics, mathematics
+  9. absorption-spectrum  |  吸收光谱 / Absorption Spectrum  |  tags: concept, photophysics, spectroscopy
+ 10. anomalous-hall-effect  |  反常霍尔效应 / Anomalous Hall Effect (AHE)  |  tags: concept, topological-physics, transport
+ 11. band-alignment  |  能带对齐 (Band Alignment)  |  tags: concept, physics, semiconductor
+ 12. band-offset  |  能带偏移 (Band Offset)  |  tags: concept, physics, semiconductor
+ 13. berry-curvature  |  贝里曲率 / Berry Curvature  |  tags: concept, topological-physics, mathematics
+ 14. broken-inversion-symmetry  |  破缺的空间反演对称性 / Broken Inversion Symmetry  |  tags: concept, topological-physics, symmetry
+ 15. bulk-boundary-correspondence  |  体-边界对应关系 / Bulk-Boundary Correspondence  |  tags: concept, topological-physics, mathematics
+ 16. charge-density-wave  |  电荷密度波 / Charge Density Wave (CDW)  |  tags: concept, charge-density-wave, 2D-materials
+ 17. charge-sloshing  |  电荷震荡 / Charge Sloshing  |  tags: concept, density-functional-theory, numerical-methods
+ 18. chern-number  |  陈数 / Chern Number  |  tags: concept, topological-physics, mathematics
+ 19. chirality  |  手性 / Chirality  |  tags: concept, stereochemistry, solid-state-physics
+ 20. coercive-field  |  矫顽场 / Coercive Field (Ec)  |  tags: concept, ferroelectricity, testing
+ 21. density-functional-theory  |  密度泛函理论 / Density Functional Theory (DFT)  |  tags: concept, dft, methodology
+ 22. dirac-semimetal  |  狄拉克半金属 / Dirac Semimetal (DSM)  |  tags: concept, topological-physics, semimetal
+ 23. discommensuration  |  错位相子 / Discommensuration (DC)  |  tags: concept, charge-density-wave, topological-defect
+ 24. easy-axis  |  易磁化轴 / Easy Axis  |  tags: concept, magnetism
+ 25. easy-plane  |  易磁化面 / Easy Plane  |  tags: concept, magnetism
+ 26. edge-state  |  边缘态 / Edge State  |  tags: concept, topological-physics, surface-states
+ 27. electromagnon  |  电磁振子 / Electromagnon  |  tags: concept, multiferroics, magnetism, spectroscopy
+ 28. electrostatic-gating  |  静电栅控 (Electrostatic Gating)  |  tags: concept, electronics, physics
+ 29. exchange-bias  |  交换偏置 / Exchange Bias  |  tags: concept, magnetism
+ 30. exciplex  |  激基复合物 / Exciplex  |  tags: concept, photophysics, excited-state
+ 31. faraday-effect  |  法拉第效应 / Faraday Effect  |  tags: concept, non-linear-optics, solid-state-physics
+ 32. fermi-surface-nesting  |  费米面嵌套 / Fermi Surface Nesting  |  tags: concept, fermi-surface, charge-density-wave
+ 33. ferroelectric-domain  |  铁电畴 / Ferroelectric Domain  |  tags: concept, ferroelectricity
+ 34. field-effect-mobility  |  场效应迁移率 (Field-Effect Mobility)  |  tags: concept, electronics, semiconductor
+ 35. flexoelectric-effect  |  挠曲电效应 / Flexoelectric Effect  |  tags: concept, piezoelectricity, mechanics
+ 36. fluorescence-quantum-yield  |  荧光量子产率 / Fluorescence Quantum Yield  |  tags: concept, photophysics, spectroscopy
+ 37. gate-tunability  |  栅极可调性 (Gate-Tunability)  |  tags: concept, electronics, physics
+ 38. giant-magnetoresistance  |  巨磁阻 (Giant Magnetoresistance)  |  tags: concept, spintronics, magnetics
+ 39. high-order-topology  |  高阶拓扑 / Higher-order Topology  |  tags: concept, topological-physics
+ 40. hinge-state  |  铰链态 / Hinge State  |  tags: concept, topological-physics, surface-states
+ 41. ict-mechanism  |  分子内电荷转移机制 / ICT Mechanism  |  tags: concept, photophysics, excited-state
+ 42. in-memory-computing  |  存内计算 (In-Memory Computing)  |  tags: concept, computing, electronics
+ 43. interlayer-coupling  |  层间耦合 / Interlayer Coupling  |  tags: concept, vdw-materials, charge-density-wave
+ 44. kerr-effect  |  克尔效应 / Kerr Effect  |  tags: concept, non-linear-optics, solid-state-physics
+ 45. kohn-anomaly  |  Kohn 异常 / Kohn Anomaly  |  tags: concept, phonon, charge-density-wave
+ 46. magnetic-anisotropy  |  磁各向异性 / Magnetic Anisotropy  |  tags: concept, magnetism
+ 47. magnetoelectric-coupling  |  磁电耦合 / Magnetoelectric Coupling  |  tags: concept, multiferroics, spintronics
+ 48. magnon-hall-effect  |  激磁子霍尔效应 / Magnon Hall Effect  |  tags: concept, magnetism, transport
+ 49. majorana-fermion  |  马约拉纳费米子 / Majorana Fermion  |  tags: concept, topological-physics, quasiparticle
+ 50. memristor  |  忆阻器 (Memristor)  |  tags: concept, electronics, memory, computing
+ 51. methfessel-paxton-smearing  |  Methfessel-Paxton Smearing / Methfessel-Paxton 展宽  |  tags: concept, computational-physics, vasp, dft
+ 52. monkhorst-pack-grid  |  Monkhorst-Pack Grid / Monkhorst-Pack 网格  |  tags: concept, computational-physics, vasp, dft
+ 53. mott-insulator  |  莫特绝缘体 / Mott Insulator  |  tags: concept, insulator, correlated-electrons
+ 54. multiferroicity  |  多铁性 / Multiferroicity  |  tags: concept, multiferroics, ferroelectricity, magnetism
+ 55. neuromorphic-computing  |  神经形态计算 (Neuromorphic Computing)  |  tags: concept, computing, brain-inspired
+ 56. non-centrosymmetric  |  非中心对称 / Non-centrosymmetric  |  tags: concept, crystal-physics, symmetry
+ 57. non-volatile-memory  |  非易失性存储器 (Non-Volatile Memory)  |  tags: concept, memory, technology
+ 58. optical-activity  |  旋光性与光学活性 / Optical Activity  |  tags: concept, photophysics, non-linear-optics
+ 59. optoelectronic-biosensor  |  光电生物传感器 (Optoelectronic Biosensor)  |  tags: concept, sensor, optoelectronics, biology
+ 60. paw-method  |  投影增强波法 / Projector Augmented-Wave Method (PAW)  |  tags: concept, dft, quantum-chemistry
+ 61. peierls-instability  |  派尔斯不稳定性 / Peierls Instability  |  tags: concept, charge-density-wave, phase-transition
+ 62. periodic-lattice-distortion  |  周期性晶格畸变 / Periodic Lattice Distortion (PLD)  |  tags: concept, crystal-structure, charge-density-wave
+ 63. photoluminescence  |  光致发光 / Photoluminescence (PL)  |  tags: concept, photophysics, spectroscopy
+ 64. pl-quenching  |  荧光猝灭 / PL Quenching  |  tags: concept, photophysics, spectroscopy
+ 65. plane-wave-basis  |  Plane-Wave Basis / 平面波基组  |  tags: concept, computational-physics, vasp, dft
+ 66. polarization-switching  |  极化翻转 / Polarization Switching  |  tags: concept, ferroelectricity, polarization
+ 67. projector-augmented-wave  |  Projector-Augmented Wave / 投影增强波方法 (PAW)  |  tags: concept, computational-physics, vasp, dft
+ 68. pseudogap  |  赝能隙 / Pseudogap  |  tags: concept, spectral-function, charge-density-wave
+ 69. pulay-mixing  |  Pulay Mixing / Pulay 混合 (DIIS)  |  tags: concept, computational-physics, vasp, dft
+ 70. pump-probe  |  泵浦-探测技术 / Pump-Probe  |  tags: concept, photophysics, ultrafast-spectroscopy
+ 71. quadrupole-insulator  |  四极矩绝缘体 / Quadrupole Insulator  |  tags: concept, topological-physics
+ 72. quantum-spin-hall-effect  |  量子自旋霍尔效应 / Quantum Spin Hall Effect (QSHE)  |  tags: concept, topological-physics, transport
+ 73. raman-scattering  |  拉曼散射 / Raman Scattering  |  tags: concept, spectroscopy, vibrational-spectra
+ 74. rashba-effect  |  Rashba 效应 / Rashba Effect  |  tags: concept, spintronics, soc
+ 75. resistive-switching  |  阻变 (Resistive Switching)  |  tags: concept, electronics, memory
+ 76. rmm-diis  |  RMM-DIIS / 残差最小化-迭代子空间直接反演  |  tags: concept, computational-physics, vasp, dft
+ 77. screening-effect  |  屏蔽效应 (Screening Effect)  |  tags: concept, physics, electromagnetics
+ 78. second-harmonic-generation  |  二次谐波产生 / Second-Harmonic Generation (SHG)  |  tags: concept, nonlinear-optics, spectroscopy
+ 79. self-consistent-field-cycle  |  Self-Consistent Field Cycle / 自洽场循环 (SCF)  |  tags: concept, computational-physics, vasp, dft
+ 80. skyrmion  |  斯格明子 / Skyrmion  |  tags: concept, magnetism, topology
+ 81. slidetronics  |  slidetronics  |  tags: 
+ 82. sliding-ferroelectricity  |  滑动铁电性 / Sliding Ferroelectricity  |  tags: concept, ferroelectricity, 2d-materials
+ 83. solvatochromism  |  溶剂化显色 / Solvatochromism  |  tags: concept, photophysics, solvatochromism
+ 84. spin-current  |  自旋流 / Spin Current  |  tags: concept, spintronics
+ 85. spin-spiral  |  螺旋磁序 / Spin Spiral  |  tags: concept, magnetism, multiferroics
+ 86. spin-texture  |  spin-texture  |  tags: 
+ 87. stokes-shift  |  斯托克斯位移 / Stokes Shift  |  tags: concept, photophysics, spectroscopy
+ 88. surface-plasmon-resonance  |  表面等离子体共振 / Surface Plasmon Resonance (SPR)  |  tags: concept, plasmonics, spectroscopy
+ 89. surface-state  |  表面态 / Surface State  |  tags: concept, topological-physics, surface-states
+ 90. synaptic-plasticity  |  突触可塑性 (Synaptic Plasticity)  |  tags: concept, biology, neuroscience
+ 91. synaptic-weight  |  突触权重 (Synaptic Weight)  |  tags: concept, computing, AI
+ 92. thermochromism  |  热致变色 / Thermochromism  |  tags: concept, photophysics, thermochromism
+ 93. tict-mechanism  |  扭曲分子内电荷转移机制 / TICT Mechanism  |  tags: concept, photophysics, excited-state
+ 94. time-reversal-symmetry  |  时间反演对称性 / Time-Reversal Symmetry  |  tags: concept, topological-physics, symmetry
+ 95. topological-charge  |  拓扑荷 / Topological Charge  |  tags: concept, topological-physics, mathematics
+ 96. topological-insulator  |  拓扑绝缘体 / Topological Insulator (TI)  |  tags: concept, topological-physics, spintronics
+ 97. topological-magnon  |  拓扑激磁子 / Topological Magnon  |  tags: concept, magnetism, topology
+ 98. topological-superconductor  |  拓扑超导体 / Topological Superconductor (TSC)  |  tags: concept, topological-physics, superconductivity
+ 99. tunneling-magnetoresistance  |  隧穿磁阻 (Tunneling Magnetoresistance)  |  tags: concept, spintronics, magnetics
+100. two-photon-absorption  |  双光子吸收 / Two-Photon Absorption (TPA)  |  tags: concept, photophysics, nonlinear-optics
+101. type-ii-multiferroicity  |  第二类多铁性 / Type-II Multiferroicity  |  tags: concept, multiferroics, magnetism
+102. ultrafast-spectroscopy  |  超快光谱学 / Ultrafast Spectroscopy  |  tags: concept, photophysics, spectroscopy
+103. ultrasoft-pseudopotential  |  Ultrasoft Pseudopotential / 超软赝势 (US-PP)  |  tags: concept, computational-physics, vasp, dft
+104. valleytronics  |  谷电子学 (Valleytronics)  |  tags: concept, electronics, spintronics
+105. van-hove-singularity  |  范霍夫奇点 / Van Hove Singularity (vHS)  |  tags: concept, density-of-states, charge-density-wave
+106. weyl-semimetal  |  外尔半金属 / Weyl Semimetal (WSM)  |  tags: concept, topological-physics, semimetal
+107. work-function  |  功函数 (Work Function)  |  tags: concept, physics, surface-science
+
+==========================================================================================
+三、实体列表（22 个）
+==========================================================================================
+  1. 1t-phase  |  1T 相 / 1T-phase  |  formula: MX2  |  class: [structure-phase, TMD]
+  2. 2h-phase  |  2H 相 / 2H-phase  |  formula: MX2  |  class: [structure-phase, TMD]
+  3. BiFeO3  |  铁酸铋 / Bismuth Ferrite (BiFeO3, BFO)  |  formula: BiFeO3  |  class: [perovksite, multiferroic, insulator]
+  4. CrI3  |  三碘化铬 (CrI₃)  |  formula: CrI3  |  class: [vdW, magnet, semiconductor]
+  5. Fe3GeTe2  |  碲化锗铁 (Fe₃GaTe₂ / Fe₃GeTe₂)  |  formula: Fe3GaTe2  |  class: [vdW, magnet, metal]
+  6. FeFET  |  铁电场效应晶体管 (FeFET)  |  formula:   |  class: [transistor, memory-device]
+  7. FePS3  |  硫磷化铁 (FePS₃)  |  formula: FePS3  |  class: [vdW, antiferromagnet, insulator]
+  8. In2Se3  |  硒化铟 / Indium Selenide (In2Se3)  |  formula: In2Se3  |  class: [III2-VI3, vdW, semiconductor]
+  9. MnPSe3  |  硒磷化锰 (MnPSe₃)  |  formula: MnPSe3  |  class: [vdW, antiferromagnet, insulator]
+ 10. MoS2  |  二硫化钼 (MoS2) / Molybdenum Disulfide  |  formula: MoS2  |  class: [TMD, vdW, semiconductor]
+ 11. MoTe2  |  二碲化钼 (MoTe2) / Molybdenum Ditelluride  |  formula: MoTe2  |  class: [TMD, vdW, phase-change]
+ 12. NbSe2  |  二硒化铌 (NbSe2) / Niobium Diselenide  |  formula: NbSe2  |  class: [TMD, vdW, metal]
+ 13. NiI2  |  二碘化镍 (NiI2) / Nickel Iodide  |  formula: NiI2  |  class: [vdW, multiferroic, magnetic-semiconductor]
+ 14. NiPS3  |  硫磷化镍 (NiPS₃)  |  formula: NiPS3  |  class: [vdW, antiferromagnet, insulator]
+ 15. TMDs  |  过渡金属硫族化合物 / Transition Metal Dichalcogenides (TMDs)  |  formula: MX2  |  class: [vdW, semiconductors, metals]
+ 16. TaS2  |  二硫化钽 (TaS2) / Tantalum Disulfide  |  formula: TaS2  |  class: [TMD, vdW, Mott-insulator]
+ 17. TaSe2  |  二硒化钽 (TaSe2) / Tantalum Diselenide  |  formula: TaSe2  |  class: [TMD, vdW, metal]
+ 18. TiSe2  |  二硒化钛 (TiSe2) / Titanium Diselenide  |  formula: TiSe2  |  class: [TMD, vdW, semimetal]
+ 19. VSe2  |  二硒化钒 (VSe2) / Vanadium Diselenide  |  formula: VSe2  |  class: [TMD, vdW, metal]
+ 20. WS2  |  二硫化钨 (WS2) / Tungsten Disulfide  |  formula: WS2  |  class: [TMD, vdW, semiconductor]
+ 21. WTe2  |  二碲化钨 (WTe2) / Tungsten Ditealluride  |  formula: WTe2  |  class: [TMD, vdW, semimetal]
+ 22. td-phase  |  Td 相 / Td-phase  |  formula: MX2  |  class: [structure-phase, TMD]
+
+==========================================================================================
+四、概念/实体页面出链（正文 [[双链]]，去重）
+==========================================================================================
+[实体] 1t-phase -> 概念：charge-density-wave, peierls-instability；实体：2h-phase, TaS2, VSe2
+[实体] 2h-phase -> 概念：direct-bandgap, valley-physics；实体：1t-phase, MoS2, WS2
+[实体] BiFeO3 -> 概念：lone-pair-driven-ferroelectricity, magnetoelectric-coupling, multiferroicity；实体：HoMnO3
+[实体] CrI3 -> 概念：Heisenberg-model, magnetic-anisotropy；实体：CrTe2, VSe2
+[概念] CrTe2 -> 概念：Curie-temperature, charge-density-wave；实体：Fe3GeTe2, VSe2
+[概念] Curie-temperature -> 概念：Neel-temperature, magnetic-anisotropy；实体：CrI3, Fe3GeTe2
+[概念] DFT-U -> （无概念/实体出链）
+[概念] Dzyaloshinskii-Moriya-interaction -> 概念：skyrmion, spin-orbit-coupling, spin-spiral；实体：TMDs
+[实体] Fe3GeTe2 -> 概念：magnetic-anisotropy, magnetoelectric-coupling；实体：BiFeO3, TMDs
+[实体] FeFET -> 概念：ferroelectricity, neuromorphic-computing, polarization-switching；实体：FTJ, HfO2
+[实体] FePS3 -> 概念：easy-axis, magnetic-anisotropy；实体：MnPSe3, NiPS3
+[概念] Heisenberg-model -> 概念：Dzyaloshinskii-Moriya-interaction, magnetic-anisotropy；实体：CrI3
+[实体] In2Se3 -> 概念：dipole-locking, re-bonding-mechanism, shear-phonon-mode；实体：FeFET
+[实体] MnPSe3 -> 概念：Neel-temperature, easy-plane；实体：FePS3, NiPS3
+[实体] MoS2 -> 概念：photoluminescence, valley-polarization；实体：1t-phase, 2h-phase, WS2
+[实体] MoTe2 -> 概念：polymorphic-phase-transition, quantum-spin-hall；实体：1t-phase, 2h-phase, WTe2
+[实体] NbSe2 -> 概念：charge-density-wave, superconductivity；实体：2h-phase, TaS2
+[概念] Neel-temperature -> 概念：Curie-temperature, exchange-bias；实体：CrI3, TaS2
+[实体] NiI2 -> 概念：electromagnon, spin-helix, type-ii-multiferroicity；实体：CrI3
+[实体] NiPS3 -> 概念：Neel-temperature, exchange-bias；实体：FePS3, MnPSe3, TMDs
+[概念] Schottky-barrier -> 概念：band-alignment, screening-effect, work-function；实体：FeFET, MoS2
+[实体] TMDs -> 概念：charge-density-wave, sliding-ferroelectricity；实体：In2Se3, h-BN
+[实体] TaS2 -> 概念：charge-density-wave, mott-insulator, star-of-david；实体：1t-phase, NbSe2
+[实体] TaSe2 -> 概念：charge-density-wave, dirac-electrons, fermi-surface-nesting, marginal-fermi-liquid；实体：NbSe2
+[实体] TiSe2 -> 概念：charge-density-wave, discommensuration, exciton-condensation；实体：1t-phase
+[实体] VSe2 -> 概念：charge-density-wave, pseudogap；实体：1t-phase, NbSe2
+[实体] WS2 -> 概念：spin-orbit-coupling, valley-physics；实体：2h-phase, MoS2
+[实体] WTe2 -> 概念：sliding-ferroelectricity, weyl-semimetal；实体：MoTe2, Td-phase
+[概念] Z2-invariant -> 概念：bulk-boundary-correspondence, quantum-spin-hall-effect, time-reversal-symmetry, topological-insulator；实体：WSe2
+[概念] absorption-spectrum -> 概念：ict-mechanism, photoluminescence, solvatochromism, stokes-shift, tict-mechanism；实体：dicyanostilbene-1a
+[概念] anomalous-hall-effect -> 概念：berry-curvature, quantum-anomalous-hall-effect, spin-orbit-coupling；实体：Fe3GeTe2
+[概念] band-alignment -> 概念：band-offset, schottky-barrier, van-der-waals-heterostructure, work-function；实体：TMDs
+[概念] band-offset -> 概念：band-alignment, schottky-barrier, van-der-waals-heterostructure, work-function
+[概念] berry-curvature -> 概念：anomalous-hall-effect, berry-phase, chern-number, weyl-semimetal
+[概念] broken-inversion-symmetry -> 概念：ferroelectricity, non-centrosymmetric, weyl-semimetal；实体：PbTe, WTe2
+[概念] bulk-boundary-correspondence -> 概念：chern-number, edge-state, topological-charge, topological-insulator
+[概念] charge-density-wave -> 概念：fermi-surface-nesting, peierls-transition；实体：NbSe2, TMDs
+[概念] charge-sloshing -> 概念：charge-density-wave, density-functional-theory；实体：VASP
+[概念] chern-number -> 概念：berry-curvature, bulk-boundary-correspondence, quantum-anomalous-hall-effect, topological-insulator
+[概念] chirality -> 概念：electromagnon, multiferroicity, optical-activity, raman-optical-activity；实体：NiI2
+[概念] coercive-field -> 概念：flexoelectric-effect, polarization-switching；实体：BiFeO3
+[概念] density-functional-theory -> 概念：exchange-correlation-functional, paw-method；实体：VASP, WIEN2k
+[概念] dirac-semimetal -> 概念：spin-orbit-coupling, topological-insulator, weyl-semimetal；实体：Cd3As2
+[概念] discommensuration -> 概念：charge-density-wave, pair-density-wave；实体：TiSe2, domain-wall
+[概念] easy-axis -> 概念：easy-plane, magnetic-anisotropy；实体：CrI3, Fe3GeTe2
+[概念] easy-plane -> 概念：easy-axis, magnetic-anisotropy；实体：MnPSe3, VSe2
+[概念] edge-state -> 概念：bulk-boundary-correspondence, quantum-spin-hall-effect, surface-state；实体：MoS2, WSe2
+[概念] electromagnon -> 概念：magnetoelectric-coupling, multiferroicity, raman-optical-activity；实体：NiI2
+[概念] electrostatic-gating -> 概念：field-effect-mobility, gate-tunability, schottky-barrier, screening-effect；实体：TMDs, graphene
+[概念] exchange-bias -> 概念：Neel-temperature, magnetoelectric-coupling；实体：BiFeO3, Fe3GeTe2
+[概念] exciplex -> 概念：locally-excited-state, photoluminescence, tict-mechanism；实体：dicyanostilbene-1a
+[概念] faraday-effect -> 概念：electromagnon, kerr-effect, magnetoelectric-coupling, optical-activity；实体：NiI2, VSe2
+[概念] fermi-surface-nesting -> 概念：charge-density-wave, kohn-anomaly, peierls-instability, van-hove-singularity
+[概念] ferroelectric-domain -> 概念：domain-wall, ferroelasticity, polarization-switching；实体：BiFeO3
+[概念] field-effect-mobility -> 概念：electrostatic-gating, gate-tunability, screening-effect；实体：TMDs, graphene, h-BN
+[概念] flexoelectric-effect -> 概念：coercive-field, polarization-switching, strain-engineering；实体：BiFeO3
+[概念] fluorescence-quantum-yield -> 概念：donor-pi-acceptor, photoluminescence, tict-mechanism；实体：fluorescein, quinine-bisulfate
+[概念] gate-tunability -> 概念：electrostatic-gating, field-effect-mobility, screening-effect；实体：CrI3, Fe3GeTe2
+[概念] giant-magnetoresistance -> 概念：spin-injection, spin-valve, tunneling-magnetoresistance；实体：TMDs, graphene
+[概念] high-order-topology -> 概念：bulk-boundary-correspondence, hinge-state, quadrupole-insulator；实体：Bi4Br4
+[概念] hinge-state -> 概念：edge-state, high-order-topology, surface-state；实体：Bi, WTe2
+[概念] ict-mechanism -> 概念：donor-pi-acceptor, solvatochromism, solvent-relaxation, stokes-shift, tict-mechanism；实体：dicyanostilbene-1a
+[概念] in-memory-computing -> 概念：crossbar-array, memristor, neuromorphic-computing, non-volatile-memory；实体：FeFET
+[概念] interlayer-coupling -> 概念：charge-density-wave, periodic-lattice-distortion, sliding-ferroelectricity；实体：TMDs
+[概念] kerr-effect -> 概念：faraday-effect, magnetoelectric-coupling, optical-activity, second-harmonic-generation；实体：MnBi2Te4, NiI2, VSe2
+[概念] kohn-anomaly -> 概念：charge-density-wave, fermi-surface-nesting, peierls-instability, periodic-lattice-distortion
+[概念] magnetic-anisotropy -> 概念：easy-axis, spin-orbit-coupling；实体：CrI3, Fe3GeTe2
+[概念] magnetoelectric-coupling -> 概念：multiferroicity, rashba-effect, strain-engineering；实体：BiFeO3, Fe3GeTe2
+[概念] magnon-hall-effect -> 概念：spin-current, topological-magnon；实体：BiFeO3, CrI3
+[概念] majorana-fermion -> 概念：non-abelian-statistics, pseudogap, topological-superconductor；实体：Bi2Te3_Nb, InSb_nanowire
+[概念] memristor -> 概念：crossbar-array, non-volatile-memory, resistive-switching, sneak-path-current, synaptic-plasticity
+[概念] methfessel-paxton-smearing -> （无概念/实体出链）
+[概念] monkhorst-pack-grid -> （无概念/实体出链）
+[概念] mott-insulator -> 概念：charge-density-wave, pseudogap, van-hove-singularity；实体：TMDs
+[概念] multiferroicity -> 概念：geometric-ferroelectricity, magnetoelectric-coupling；实体：BiFeO3, HoMnO3
+[概念] neuromorphic-computing -> 概念：in-memory-computing, memristor, synaptic-plasticity, synaptic-weight；实体：FTJ, FeFET
+[概念] non-centrosymmetric -> 概念：broken-inversion-symmetry, ferroelectricity, weyl-semimetal；实体：LiOsO3, WTe2
+[概念] non-volatile-memory -> 概念：in-memory-computing, memristor, phase-change-memory, stt-ram, write-endurance；实体：FTJ, FeFET
+[概念] optical-activity -> 概念：chirality, electromagnon, magnetoelectric-coupling, raman-optical-activity；实体：NiI2
+[概念] optoelectronic-biosensor -> 概念：crispr-cas12a, dielectric-response, photoresponsivity, van-hove-singularity；实体：gold-nanodisks, twisted-bilayer-graphene
+[概念] paw-method -> 概念：density-functional-theory, frozen-core-approximation, overlap-operator, projector-functions；实体：VASP
+[概念] peierls-instability -> 概念：charge-density-wave, fermi-surface-nesting, kohn-anomaly, periodic-lattice-distortion
+[概念] periodic-lattice-distortion -> 概念：charge-density-wave, interlayer-coupling, kohn-anomaly, peierls-instability
+[概念] photoluminescence -> 概念：fluorescence-quantum-yield, solvatochromism, stokes-shift, tict-mechanism；实体：dicyanostilbene-1a
+[概念] pl-quenching -> 概念：fluorescence-quantum-yield, ict-mechanism, solvatochromism, tict-mechanism；实体：dicyanostilbene-1a
+[概念] plane-wave-basis -> （无概念/实体出链）
+[概念] polarization-switching -> 概念：depolarization-field, domain-wall-motion, sliding-ferroelectricity；实体：In2Se3
+[概念] projector-augmented-wave -> （无概念/实体出链）
+[概念] pseudogap -> 概念：charge-density-wave, peierls-instability, van-hove-singularity；实体：TMDs
+[概念] pulay-mixing -> （无概念/实体出链）
+[概念] pump-probe -> 概念：electromagnon, optical-kerr-effect, relaxation-time, second-harmonic-generation, ultrafast-spectroscopy；实体：NiI2
+[概念] quadrupole-insulator -> 概念：berry-phase, high-order-topology, topological-charge；实体：Bi, SnTe
+[概念] quantum-spin-hall-effect -> 概念：spin-orbit-coupling, time-reversal-symmetry, topological-insulator；实体：HgTe, WSe2
+[概念] raman-scattering -> 概念：electromagnon, multiferroicity, raman-optical-activity, vibrational-spectra；实体：NiI2
+[概念] rashba-effect -> 概念：sliding-ferroelectricity, spin-orbit-coupling, spin-texture；实体：HgI2, WTe2
+[概念] resistive-switching -> 概念：memristor, non-volatile-memory, sneak-path-current, synaptic-plasticity；实体：HfO2
+[概念] rmm-diis -> （无概念/实体出链）
+[概念] screening-effect -> 概念：dielectric-response, electrostatic-gating, gate-tunability, schottky-barrier；实体：graphene
+[概念] second-harmonic-generation -> 概念：inversion-symmetry-breaking, multiferroicity, sliding-ferroelectricity；实体：MnBi2Te4, NiI2, VSe2
+[概念] self-consistent-field-cycle -> （无概念/实体出链）
+[概念] skyrmion -> 概念：Dzyaloshinskii-Moriya-interaction, spin-spiral；实体：BiFeO3, NbSe2
+[概念] slidetronics -> 概念：interlayer-sliding, moire-superlattice, rashba-effect, sliding-ferroelectricity；实体：WTe2, h-BN
+[概念] sliding-ferroelectricity -> 概念：dipole-locking, interlayer-sliding, moire-superlattice；实体：In2Se3
+[概念] solvatochromism -> 概念：intramolecular-charge-transfer, lippert-mataga, locally-excited-state, stokes-shift, tict-mechanism；实体：dicyanostilbene-1a
+[概念] spin-current -> 概念：rashba-effect, spin-orbit-coupling, topological-magnon；实体：TMDs
+[概念] spin-spiral -> 概念：Dzyaloshinskii-Moriya-interaction, multiferroicity, skyrmion；实体：NbSe2
+[概念] spin-texture -> 概念：rashba-effect, sliding-ferroelectricity, spin-orbit-coupling；实体：HgI2, WTe2
+[概念] stokes-shift -> 概念：ict-mechanism, photoluminescence, solvatochromism；实体：dicyanostilbene-1a
+[概念] surface-plasmon-resonance -> 概念：exciton-plasmon-coupling, van-hove-singularity；实体：gold-nanodisks, twisted-bilayer-graphene
+[概念] surface-state -> 概念：bulk-boundary-correspondence, edge-state, fermi-arc；实体：Bi2Se3, WTe2
+[概念] synaptic-plasticity -> 概念：memristor, neuromorphic-computing, synaptic-weight；实体：FTJ, FeFET
+[概念] synaptic-weight -> 概念：in-memory-computing, memristor, neuromorphic-computing, synaptic-plasticity；实体：FeFET
+[实体] td-phase -> 概念：ferroelectric-metal, weyl-semimetal；实体：MoTe2, WTe2
+[概念] thermochromism -> 概念：locally-excited-state, solvatochromism, tict-mechanism；实体：glycerol
+[概念] tict-mechanism -> 概念：donor-pi-acceptor, exciplex, ict-mechanism, locally-excited-state, viscosity-sensing；实体：dicyanostilbene-1a
+[概念] time-reversal-symmetry -> 概念：Z2-invariant, broken-inversion-symmetry, quantum-spin-hall-effect；实体：WSe2
+[概念] topological-charge -> 概念：chern-number, polar-vortex, skyrmion；实体：BiFeO3
+[概念] topological-insulator -> 概念：quantum-spin-hall-effect, spin-orbit-coupling, time-reversal-symmetry；实体：WSe2
+[概念] topological-magnon -> 概念：magnon-hall-effect, spin-current, spin-orbit-coupling；实体：CrI3
+[概念] topological-superconductor -> 概念：bulk-boundary-correspondence, majorana-fermion, topological-insulator；实体：Cu_xBi2Se3, WTe2
+[概念] tunneling-magnetoresistance -> 概念：giant-magnetoresistance, magnetic-tunnel-junction, spin-injection, stt-ram；实体：h-BN
+[概念] two-photon-absorption -> 概念：donor-pi-acceptor, nonlinear-optics, two-photon-absorption-cross-section, two-photon-fluorescence；实体：dicyanostilbene-1a, fluorescein
+[概念] type-ii-multiferroicity -> 概念：discommensuration, magnetoelectric-coupling, multiferroicity；实体：NiI2
+[概念] ultrafast-spectroscopy -> 概念：electromagnon, nonlinear-optics, pump-probe, relaxation-time；实体：NiI2
+[概念] ultrasoft-pseudopotential -> （无概念/实体出链）
+[概念] valleytronics -> 概念：2D-materials, berry-phase, spin-orbit-coupling；实体：MoS2, TMDs, WSe2
+[概念] van-hove-singularity -> 概念：charge-density-wave, fermi-surface-nesting, pseudogap；实体：TMDs
+[概念] weyl-semimetal -> 概念：anomalous-hall-effect, berry-curvature, dirac-semimetal；实体：WTe2
+[概念] work-function -> 概念：band-alignment, electrostatic-gating, schottky-barrier；实体：gold-nanodisks, graphene
+
+==========================================================================================
+五、反向链接（概念/实体之间的相互引用，谁引用了它）
+==========================================================================================
+【概念反向链接】
+2D-materials  <-  被 1 个页面引用：valleytronics
+Curie-temperature  <-  被 2 个页面引用：CrTe2, Neel-temperature
+Dzyaloshinskii-Moriya-interaction  <-  被 3 个页面引用：Heisenberg-model, skyrmion, spin-spiral
+Heisenberg-model  <-  被 1 个页面引用：CrI3
+Neel-temperature  <-  被 4 个页面引用：Curie-temperature, MnPSe3, NiPS3, exchange-bias
+Z2-invariant  <-  被 1 个页面引用：time-reversal-symmetry
+anomalous-hall-effect  <-  被 2 个页面引用：berry-curvature, weyl-semimetal
+band-alignment  <-  被 3 个页面引用：Schottky-barrier, band-offset, work-function
+band-offset  <-  被 1 个页面引用：band-alignment
+berry-curvature  <-  被 3 个页面引用：anomalous-hall-effect, chern-number, weyl-semimetal
+berry-phase  <-  被 3 个页面引用：berry-curvature, quadrupole-insulator, valleytronics
+broken-inversion-symmetry  <-  被 2 个页面引用：non-centrosymmetric, time-reversal-symmetry
+bulk-boundary-correspondence  <-  被 6 个页面引用：Z2-invariant, chern-number, edge-state, high-order-topology, surface-state, topological-superconductor
+charge-density-wave  <-  被 18 个页面引用：1t-phase, CrTe2, NbSe2, TMDs, TaS2, TaSe2, TiSe2, VSe2, charge-sloshing, discommensuration, fermi-surface-nesting, interlayer-coupling, kohn-anomaly, mott-insulator, peierls-instability, periodic-lattice-distortion, pseudogap, van-hove-singularity
+chern-number  <-  被 3 个页面引用：berry-curvature, bulk-boundary-correspondence, topological-charge
+chirality  <-  被 1 个页面引用：optical-activity
+coercive-field  <-  被 1 个页面引用：flexoelectric-effect
+crispr-cas12a  <-  被 1 个页面引用：optoelectronic-biosensor
+crossbar-array  <-  被 2 个页面引用：in-memory-computing, memristor
+density-functional-theory  <-  被 2 个页面引用：charge-sloshing, paw-method
+depolarization-field  <-  被 1 个页面引用：polarization-switching
+dielectric-response  <-  被 2 个页面引用：optoelectronic-biosensor, screening-effect
+dipole-locking  <-  被 2 个页面引用：In2Se3, sliding-ferroelectricity
+dirac-electrons  <-  被 1 个页面引用：TaSe2
+dirac-semimetal  <-  被 1 个页面引用：weyl-semimetal
+direct-bandgap  <-  被 1 个页面引用：2h-phase
+discommensuration  <-  被 2 个页面引用：TiSe2, type-ii-multiferroicity
+domain-wall  <-  被 1 个页面引用：ferroelectric-domain
+domain-wall-motion  <-  被 1 个页面引用：polarization-switching
+donor-pi-acceptor  <-  被 4 个页面引用：fluorescence-quantum-yield, ict-mechanism, tict-mechanism, two-photon-absorption
+easy-axis  <-  被 3 个页面引用：FePS3, easy-plane, magnetic-anisotropy
+easy-plane  <-  被 2 个页面引用：MnPSe3, easy-axis
+edge-state  <-  被 3 个页面引用：bulk-boundary-correspondence, hinge-state, surface-state
+electromagnon  <-  被 7 个页面引用：NiI2, chirality, faraday-effect, optical-activity, pump-probe, raman-scattering, ultrafast-spectroscopy
+electrostatic-gating  <-  被 4 个页面引用：field-effect-mobility, gate-tunability, screening-effect, work-function
+exchange-bias  <-  被 2 个页面引用：Neel-temperature, NiPS3
+exchange-correlation-functional  <-  被 1 个页面引用：density-functional-theory
+exciplex  <-  被 1 个页面引用：tict-mechanism
+exciton-condensation  <-  被 1 个页面引用：TiSe2
+exciton-plasmon-coupling  <-  被 1 个页面引用：surface-plasmon-resonance
+faraday-effect  <-  被 1 个页面引用：kerr-effect
+fermi-arc  <-  被 1 个页面引用：surface-state
+fermi-surface-nesting  <-  被 5 个页面引用：TaSe2, charge-density-wave, kohn-anomaly, peierls-instability, van-hove-singularity
+ferroelasticity  <-  被 1 个页面引用：ferroelectric-domain
+ferroelectric-metal  <-  被 1 个页面引用：td-phase
+ferroelectricity  <-  被 3 个页面引用：FeFET, broken-inversion-symmetry, non-centrosymmetric
+field-effect-mobility  <-  被 2 个页面引用：electrostatic-gating, gate-tunability
+flexoelectric-effect  <-  被 1 个页面引用：coercive-field
+fluorescence-quantum-yield  <-  被 2 个页面引用：photoluminescence, pl-quenching
+frozen-core-approximation  <-  被 1 个页面引用：paw-method
+gate-tunability  <-  被 3 个页面引用：electrostatic-gating, field-effect-mobility, screening-effect
+geometric-ferroelectricity  <-  被 1 个页面引用：multiferroicity
+giant-magnetoresistance  <-  被 1 个页面引用：tunneling-magnetoresistance
+high-order-topology  <-  被 2 个页面引用：hinge-state, quadrupole-insulator
+hinge-state  <-  被 1 个页面引用：high-order-topology
+ict-mechanism  <-  被 4 个页面引用：absorption-spectrum, pl-quenching, stokes-shift, tict-mechanism
+in-memory-computing  <-  被 3 个页面引用：neuromorphic-computing, non-volatile-memory, synaptic-weight
+interlayer-coupling  <-  被 1 个页面引用：periodic-lattice-distortion
+interlayer-sliding  <-  被 2 个页面引用：slidetronics, sliding-ferroelectricity
+intramolecular-charge-transfer  <-  被 1 个页面引用：solvatochromism
+inversion-symmetry-breaking  <-  被 1 个页面引用：second-harmonic-generation
+kerr-effect  <-  被 1 个页面引用：faraday-effect
+kohn-anomaly  <-  被 3 个页面引用：fermi-surface-nesting, peierls-instability, periodic-lattice-distortion
+lippert-mataga  <-  被 1 个页面引用：solvatochromism
+locally-excited-state  <-  被 4 个页面引用：exciplex, solvatochromism, thermochromism, tict-mechanism
+lone-pair-driven-ferroelectricity  <-  被 1 个页面引用：BiFeO3
+magnetic-anisotropy  <-  被 7 个页面引用：CrI3, Curie-temperature, Fe3GeTe2, FePS3, Heisenberg-model, easy-axis, easy-plane
+magnetic-tunnel-junction  <-  被 1 个页面引用：tunneling-magnetoresistance
+magnetoelectric-coupling  <-  被 9 个页面引用：BiFeO3, Fe3GeTe2, electromagnon, exchange-bias, faraday-effect, kerr-effect, multiferroicity, optical-activity, type-ii-multiferroicity
+magnon-hall-effect  <-  被 1 个页面引用：topological-magnon
+majorana-fermion  <-  被 1 个页面引用：topological-superconductor
+marginal-fermi-liquid  <-  被 1 个页面引用：TaSe2
+memristor  <-  被 6 个页面引用：in-memory-computing, neuromorphic-computing, non-volatile-memory, resistive-switching, synaptic-plasticity, synaptic-weight
+moire-superlattice  <-  被 2 个页面引用：slidetronics, sliding-ferroelectricity
+mott-insulator  <-  被 1 个页面引用：TaS2
+multiferroicity  <-  被 8 个页面引用：BiFeO3, chirality, electromagnon, magnetoelectric-coupling, raman-scattering, second-harmonic-generation, spin-spiral, type-ii-multiferroicity
+neuromorphic-computing  <-  被 4 个页面引用：FeFET, in-memory-computing, synaptic-plasticity, synaptic-weight
+non-abelian-statistics  <-  被 1 个页面引用：majorana-fermion
+non-centrosymmetric  <-  被 1 个页面引用：broken-inversion-symmetry
+non-volatile-memory  <-  被 3 个页面引用：in-memory-computing, memristor, resistive-switching
+nonlinear-optics  <-  被 2 个页面引用：two-photon-absorption, ultrafast-spectroscopy
+optical-activity  <-  被 3 个页面引用：chirality, faraday-effect, kerr-effect
+optical-kerr-effect  <-  被 1 个页面引用：pump-probe
+overlap-operator  <-  被 1 个页面引用：paw-method
+pair-density-wave  <-  被 1 个页面引用：discommensuration
+paw-method  <-  被 1 个页面引用：density-functional-theory
+peierls-instability  <-  被 5 个页面引用：1t-phase, fermi-surface-nesting, kohn-anomaly, periodic-lattice-distortion, pseudogap
+peierls-transition  <-  被 1 个页面引用：charge-density-wave
+periodic-lattice-distortion  <-  被 3 个页面引用：interlayer-coupling, kohn-anomaly, peierls-instability
+phase-change-memory  <-  被 1 个页面引用：non-volatile-memory
+photoluminescence  <-  被 5 个页面引用：MoS2, absorption-spectrum, exciplex, fluorescence-quantum-yield, stokes-shift
+photoresponsivity  <-  被 1 个页面引用：optoelectronic-biosensor
+polar-vortex  <-  被 1 个页面引用：topological-charge
+polarization-switching  <-  被 4 个页面引用：FeFET, coercive-field, ferroelectric-domain, flexoelectric-effect
+polymorphic-phase-transition  <-  被 1 个页面引用：MoTe2
+projector-functions  <-  被 1 个页面引用：paw-method
+pseudogap  <-  被 4 个页面引用：VSe2, majorana-fermion, mott-insulator, van-hove-singularity
+pump-probe  <-  被 1 个页面引用：ultrafast-spectroscopy
+quadrupole-insulator  <-  被 1 个页面引用：high-order-topology
+quantum-anomalous-hall-effect  <-  被 2 个页面引用：anomalous-hall-effect, chern-number
+quantum-spin-hall  <-  被 1 个页面引用：MoTe2
+quantum-spin-hall-effect  <-  被 4 个页面引用：Z2-invariant, edge-state, time-reversal-symmetry, topological-insulator
+raman-optical-activity  <-  被 4 个页面引用：chirality, electromagnon, optical-activity, raman-scattering
+rashba-effect  <-  被 4 个页面引用：magnetoelectric-coupling, slidetronics, spin-current, spin-texture
+re-bonding-mechanism  <-  被 1 个页面引用：In2Se3
+relaxation-time  <-  被 2 个页面引用：pump-probe, ultrafast-spectroscopy
+resistive-switching  <-  被 1 个页面引用：memristor
+schottky-barrier  <-  被 5 个页面引用：band-alignment, band-offset, electrostatic-gating, screening-effect, work-function
+screening-effect  <-  被 4 个页面引用：Schottky-barrier, electrostatic-gating, field-effect-mobility, gate-tunability
+second-harmonic-generation  <-  被 2 个页面引用：kerr-effect, pump-probe
+shear-phonon-mode  <-  被 1 个页面引用：In2Se3
+skyrmion  <-  被 3 个页面引用：Dzyaloshinskii-Moriya-interaction, spin-spiral, topological-charge
+sliding-ferroelectricity  <-  被 8 个页面引用：TMDs, WTe2, interlayer-coupling, polarization-switching, rashba-effect, second-harmonic-generation, slidetronics, spin-texture
+sneak-path-current  <-  被 2 个页面引用：memristor, resistive-switching
+solvatochromism  <-  被 6 个页面引用：absorption-spectrum, ict-mechanism, photoluminescence, pl-quenching, stokes-shift, thermochromism
+solvent-relaxation  <-  被 1 个页面引用：ict-mechanism
+spin-current  <-  被 2 个页面引用：magnon-hall-effect, topological-magnon
+spin-helix  <-  被 1 个页面引用：NiI2
+spin-injection  <-  被 2 个页面引用：giant-magnetoresistance, tunneling-magnetoresistance
+spin-orbit-coupling  <-  被 12 个页面引用：Dzyaloshinskii-Moriya-interaction, WS2, anomalous-hall-effect, dirac-semimetal, magnetic-anisotropy, quantum-spin-hall-effect, rashba-effect, spin-current, spin-texture, topological-insulator, topological-magnon, valleytronics
+spin-spiral  <-  被 2 个页面引用：Dzyaloshinskii-Moriya-interaction, skyrmion
+spin-texture  <-  被 1 个页面引用：rashba-effect
+spin-valve  <-  被 1 个页面引用：giant-magnetoresistance
+star-of-david  <-  被 1 个页面引用：TaS2
+stokes-shift  <-  被 4 个页面引用：absorption-spectrum, ict-mechanism, photoluminescence, solvatochromism
+strain-engineering  <-  被 2 个页面引用：flexoelectric-effect, magnetoelectric-coupling
+stt-ram  <-  被 2 个页面引用：non-volatile-memory, tunneling-magnetoresistance
+superconductivity  <-  被 1 个页面引用：NbSe2
+surface-state  <-  被 2 个页面引用：edge-state, hinge-state
+synaptic-plasticity  <-  被 4 个页面引用：memristor, neuromorphic-computing, resistive-switching, synaptic-weight
+synaptic-weight  <-  被 2 个页面引用：neuromorphic-computing, synaptic-plasticity
+tict-mechanism  <-  被 8 个页面引用：absorption-spectrum, exciplex, fluorescence-quantum-yield, ict-mechanism, photoluminescence, pl-quenching, solvatochromism, thermochromism
+time-reversal-symmetry  <-  被 3 个页面引用：Z2-invariant, quantum-spin-hall-effect, topological-insulator
+topological-charge  <-  被 2 个页面引用：bulk-boundary-correspondence, quadrupole-insulator
+topological-insulator  <-  被 6 个页面引用：Z2-invariant, bulk-boundary-correspondence, chern-number, dirac-semimetal, quantum-spin-hall-effect, topological-superconductor
+topological-magnon  <-  被 2 个页面引用：magnon-hall-effect, spin-current
+topological-superconductor  <-  被 1 个页面引用：majorana-fermion
+tunneling-magnetoresistance  <-  被 1 个页面引用：giant-magnetoresistance
+two-photon-absorption-cross-section  <-  被 1 个页面引用：two-photon-absorption
+two-photon-fluorescence  <-  被 1 个页面引用：two-photon-absorption
+type-ii-multiferroicity  <-  被 1 个页面引用：NiI2
+ultrafast-spectroscopy  <-  被 1 个页面引用：pump-probe
+valley-physics  <-  被 2 个页面引用：2h-phase, WS2
+valley-polarization  <-  被 1 个页面引用：MoS2
+van-der-waals-heterostructure  <-  被 2 个页面引用：band-alignment, band-offset
+van-hove-singularity  <-  被 5 个页面引用：fermi-surface-nesting, mott-insulator, optoelectronic-biosensor, pseudogap, surface-plasmon-resonance
+vibrational-spectra  <-  被 1 个页面引用：raman-scattering
+viscosity-sensing  <-  被 1 个页面引用：tict-mechanism
+weyl-semimetal  <-  被 6 个页面引用：WTe2, berry-curvature, broken-inversion-symmetry, dirac-semimetal, non-centrosymmetric, td-phase
+work-function  <-  被 3 个页面引用：Schottky-barrier, band-alignment, band-offset
+write-endurance  <-  被 1 个页面引用：non-volatile-memory
+
+【实体反向链接】
+1t-phase  <-  被 6 个页面引用：2h-phase, MoS2, MoTe2, TaS2, TiSe2, VSe2
+2h-phase  <-  被 5 个页面引用：1t-phase, MoS2, MoTe2, NbSe2, WS2
+Bi  <-  被 2 个页面引用：hinge-state, quadrupole-insulator
+Bi2Se3  <-  被 1 个页面引用：surface-state
+Bi2Te3_Nb  <-  被 1 个页面引用：majorana-fermion
+Bi4Br4  <-  被 1 个页面引用：high-order-topology
+BiFeO3  <-  被 10 个页面引用：Fe3GeTe2, coercive-field, exchange-bias, ferroelectric-domain, flexoelectric-effect, magnetoelectric-coupling, magnon-hall-effect, multiferroicity, skyrmion, topological-charge
+Cd3As2  <-  被 1 个页面引用：dirac-semimetal
+CrI3  <-  被 9 个页面引用：Curie-temperature, Heisenberg-model, Neel-temperature, NiI2, easy-axis, gate-tunability, magnetic-anisotropy, magnon-hall-effect, topological-magnon
+CrTe2  <-  被 1 个页面引用：CrI3
+Cu_xBi2Se3  <-  被 1 个页面引用：topological-superconductor
+FTJ  <-  被 4 个页面引用：FeFET, neuromorphic-computing, non-volatile-memory, synaptic-plasticity
+Fe3GeTe2  <-  被 8 个页面引用：CrTe2, Curie-temperature, anomalous-hall-effect, easy-axis, exchange-bias, gate-tunability, magnetic-anisotropy, magnetoelectric-coupling
+FeFET  <-  被 7 个页面引用：In2Se3, Schottky-barrier, in-memory-computing, neuromorphic-computing, non-volatile-memory, synaptic-plasticity, synaptic-weight
+FePS3  <-  被 2 个页面引用：MnPSe3, NiPS3
+HfO2  <-  被 2 个页面引用：FeFET, resistive-switching
+HgI2  <-  被 2 个页面引用：rashba-effect, spin-texture
+HgTe  <-  被 1 个页面引用：quantum-spin-hall-effect
+HoMnO3  <-  被 2 个页面引用：BiFeO3, multiferroicity
+In2Se3  <-  被 3 个页面引用：TMDs, polarization-switching, sliding-ferroelectricity
+InSb_nanowire  <-  被 1 个页面引用：majorana-fermion
+LiOsO3  <-  被 1 个页面引用：non-centrosymmetric
+MnBi2Te4  <-  被 2 个页面引用：kerr-effect, second-harmonic-generation
+MnPSe3  <-  被 3 个页面引用：FePS3, NiPS3, easy-plane
+MoS2  <-  被 5 个页面引用：2h-phase, Schottky-barrier, WS2, edge-state, valleytronics
+MoTe2  <-  被 2 个页面引用：WTe2, td-phase
+NbSe2  <-  被 6 个页面引用：TaS2, TaSe2, VSe2, charge-density-wave, skyrmion, spin-spiral
+NiI2  <-  被 10 个页面引用：chirality, electromagnon, faraday-effect, kerr-effect, optical-activity, pump-probe, raman-scattering, second-harmonic-generation, type-ii-multiferroicity, ultrafast-spectroscopy
+NiPS3  <-  被 2 个页面引用：FePS3, MnPSe3
+PbTe  <-  被 1 个页面引用：broken-inversion-symmetry
+SnTe  <-  被 1 个页面引用：quadrupole-insulator
+TMDs  <-  被 14 个页面引用：Dzyaloshinskii-Moriya-interaction, Fe3GeTe2, NiPS3, band-alignment, charge-density-wave, electrostatic-gating, field-effect-mobility, giant-magnetoresistance, interlayer-coupling, mott-insulator, pseudogap, spin-current, valleytronics, van-hove-singularity
+TaS2  <-  被 3 个页面引用：1t-phase, NbSe2, Neel-temperature
+Td-phase  <-  被 1 个页面引用：WTe2
+TiSe2  <-  被 1 个页面引用：discommensuration
+VASP  <-  被 3 个页面引用：charge-sloshing, density-functional-theory, paw-method
+VSe2  <-  被 7 个页面引用：1t-phase, CrI3, CrTe2, easy-plane, faraday-effect, kerr-effect, second-harmonic-generation
+WIEN2k  <-  被 1 个页面引用：density-functional-theory
+WS2  <-  被 2 个页面引用：2h-phase, MoS2
+WSe2  <-  被 6 个页面引用：Z2-invariant, edge-state, quantum-spin-hall-effect, time-reversal-symmetry, topological-insulator, valleytronics
+WTe2  <-  被 11 个页面引用：MoTe2, broken-inversion-symmetry, hinge-state, non-centrosymmetric, rashba-effect, slidetronics, spin-texture, surface-state, td-phase, topological-superconductor, weyl-semimetal
+dicyanostilbene-1a  <-  被 9 个页面引用：absorption-spectrum, exciplex, ict-mechanism, photoluminescence, pl-quenching, solvatochromism, stokes-shift, tict-mechanism, two-photon-absorption
+domain-wall  <-  被 1 个页面引用：discommensuration
+fluorescein  <-  被 2 个页面引用：fluorescence-quantum-yield, two-photon-absorption
+glycerol  <-  被 1 个页面引用：thermochromism
+gold-nanodisks  <-  被 3 个页面引用：optoelectronic-biosensor, surface-plasmon-resonance, work-function
+graphene  <-  被 5 个页面引用：electrostatic-gating, field-effect-mobility, giant-magnetoresistance, screening-effect, work-function
+h-BN  <-  被 4 个页面引用：TMDs, field-effect-mobility, slidetronics, tunneling-magnetoresistance
+quinine-bisulfate  <-  被 1 个页面引用：fluorescence-quantum-yield
+twisted-bilayer-graphene  <-  被 2 个页面引用：optoelectronic-biosensor, surface-plasmon-resonance
+
+==========================================================================================
+六、论文引用统计（papers 对概念/实体的引用，含 frontmatter 与正文双链）
+==========================================================================================
+【概念被论文引用】（共 1121 个概念被引用）
+2D-materials  [待建页(悬空引用)]  <-  96 篇论文
+density-functional-theory  [已建页]  <-  87 篇论文
+strain-engineering  [待建页(悬空引用)]  <-  68 篇论文
+multiferroicity  [已建页]  <-  66 篇论文
+polarization-switching  [已建页]  <-  65 篇论文
+spin-orbit-coupling  [待建页(悬空引用)]  <-  55 篇论文
+magnetoelectric-coupling  [已建页]  <-  52 篇论文
+berry-phase  [待建页(悬空引用)]  <-  43 篇论文
+2d-materials  [待建页(悬空引用)]  <-  39 篇论文
+ferroelasticity  [待建页(悬空引用)]  <-  39 篇论文
+ferroelectricity  [待建页(悬空引用)]  <-  39 篇论文
+charge-density-wave  [已建页]  <-  37 篇论文
+charge-transfer  [待建页(悬空引用)]  <-  35 篇论文
+migdal-eliashberg-theory  [待建页(悬空引用)]  <-  34 篇论文
+topological-defects  [待建页(悬空引用)]  <-  33 篇论文
+sliding-ferroelectricity  [已建页]  <-  26 篇论文
+moire-superlattice  [待建页(悬空引用)]  <-  21 篇论文
+charge-density  [待建页(悬空引用)]  <-  21 篇论文
+depolarization-field  [待建页(悬空引用)]  <-  21 篇论文
+fermi-surfaces  [待建页(悬空引用)]  <-  20 篇论文
+fermi-surface-nesting  [已建页]  <-  18 篇论文
+order-parameter  [待建页(悬空引用)]  <-  17 篇论文
+ferroelectric-tunnel-junction  [待建页(悬空引用)]  <-  17 篇论文
+electron-phonon-coupling  [待建页(悬空引用)]  <-  16 篇论文
+switching-barrier  [待建页(悬空引用)]  <-  16 篇论文
+strong-coupling  [待建页(悬空引用)]  <-  16 篇论文
+superlattice  [待建页(悬空引用)]  <-  15 篇论文
+half-metal  [待建页(悬空引用)]  <-  15 篇论文
+magnetic-anisotropy-energy  [待建页(悬空引用)]  <-  15 篇论文
+ferromagnetism  [待建页(悬空引用)]  <-  14 篇论文
+curie-temperature  [待建页(悬空引用)]  <-  14 篇论文
+refractive-index  [待建页(悬空引用)]  <-  13 篇论文
+chemical-potential  [待建页(悬空引用)]  <-  13 篇论文
+ferroelectric-domain  [已建页]  <-  13 篇论文
+density-of-states  [待建页(悬空引用)]  <-  13 篇论文
+formation-energy  [待建页(悬空引用)]  <-  13 篇论文
+coercive-field  [已建页]  <-  12 篇论文
+polymer-phase-separation  [待建页(悬空引用)]  <-  12 篇论文
+two-photon-absorption  [已建页]  <-  12 篇论文
+superexchange  [待建页(悬空引用)]  <-  12 篇论文
+ferroelectric-metal  [待建页(悬空引用)]  <-  11 篇论文
+skyrmion  [已建页]  <-  11 篇论文
+inversion-symmetry  [待建页(悬空引用)]  <-  10 篇论文
+inversion-symmetry-breaking  [待建页(悬空引用)]  <-  10 篇论文
+two-photon-polymerization  [待建页(悬空引用)]  <-  10 篇论文
+dzyaloshinskii-moriya-interaction  [待建页(悬空引用)]  <-  10 篇论文
+lone-pair-electrons  [待建页(悬空引用)]  <-  10 篇论文
+tight-binding  [待建页(悬空引用)]  <-  9 篇论文
+oxygen-vacancy  [待建页(悬空引用)]  <-  9 篇论文
+critical-thickness-ferroelectric  [待建页(悬空引用)]  <-  9 篇论文
+brillouin-zone  [待建页(悬空引用)]  <-  9 篇论文
+machine-learning-potential  [待建页(悬空引用)]  <-  9 篇论文
+metastability  [待建页(悬空引用)]  <-  9 篇论文
+domain-wall-motion  [待建页(悬空引用)]  <-  8 篇论文
+flexoelectric-effect  [已建页]  <-  8 篇论文
+epitaxial-strain  [待建页(悬空引用)]  <-  8 篇论文
+structural-phase-transition  [待建页(悬空引用)]  <-  8 篇论文
+electromagnon  [已建页]  <-  8 篇论文
+charge-order  [待建页(悬空引用)]  <-  8 篇论文
+linear-response  [待建页(悬空引用)]  <-  8 篇论文
+polar-metal  [待建页(悬空引用)]  <-  8 篇论文
+schottky-barrier  [待建页(悬空引用)]  <-  8 篇论文
+interlayer-charge-transfer  [待建页(悬空引用)]  <-  8 篇论文
+pseudogap  [已建页]  <-  7 篇论文
+ferroic-order  [待建页(悬空引用)]  <-  7 篇论文
+soft-mode  [待建页(悬空引用)]  <-  7 篇论文
+molecular-dynamics  [待建页(悬空引用)]  <-  7 篇论文
+memristor  [已建页]  <-  7 篇论文
+van-der-waals-heterostructure  [待建页(悬空引用)]  <-  7 篇论文
+electron-correlation  [待建页(悬空引用)]  <-  7 篇论文
+hysteresis  [待建页(悬空引用)]  <-  6 篇论文
+relative-humidity  [待建页(悬空引用)]  <-  6 篇论文
+first-order-phase-transition  [待建页(悬空引用)]  <-  6 篇论文
+antiferromagnetism  [待建页(悬空引用)]  <-  6 篇论文
+mechanoluminescence  [待建页(悬空引用)]  <-  6 篇论文
+two-photon-excitation  [待建页(悬空引用)]  <-  6 篇论文
+topological-charge  [已建页]  <-  6 篇论文
+remanent-polarization  [待建页(悬空引用)]  <-  6 篇论文
+norm-conserving-pseudopotential  [待建页(悬空引用)]  <-  6 篇论文
+geometric-ferroelectricity  [待建页(悬空引用)]  <-  6 篇论文
+rashba-effect  [已建页]  <-  6 篇论文
+born-effective-charge  [待建页(悬空引用)]  <-  6 篇论文
+peierls-distortion  [待建页(悬空引用)]  <-  6 篇论文
+neuromorphic-computing  [已建页]  <-  6 篇论文
+spin-texture  [已建页]  <-  6 篇论文
+exchange-interaction  [待建页(悬空引用)]  <-  6 篇论文
+humidity-sensing  [待建页(悬空引用)]  <-  5 篇论文
+diffraction-limit  [待建页(悬空引用)]  <-  5 篇论文
+photopolymerization  [待建页(悬空引用)]  <-  5 篇论文
+spin-spiral  [已建页]  <-  5 篇论文
+exciplex  [已建页]  <-  5 篇论文
+peierls-instability  [已建页]  <-  5 篇论文
+dimerization  [待建页(悬空引用)]  <-  5 篇论文
+biphoton  [待建页(悬空引用)]  <-  5 篇论文
+inverse-dzyaloshinskii-moriya  [待建页(悬空引用)]  <-  5 篇论文
+multistate-memory  [待建页(悬空引用)]  <-  5 篇论文
+heisenberg-model  [待建页(悬空引用)]  <-  5 篇论文
+spin-flop  [待建页(悬空引用)]  <-  5 篇论文
+depolarizing-field  [待建页(悬空引用)]  <-  5 篇论文
+mott-insulator  [已建页]  <-  5 篇论文
+max-phase  [待建页(悬空引用)]  <-  5 篇论文
+intercalation  [待建页(悬空引用)]  <-  5 篇论文
+effective-hamiltonian  [待建页(悬空引用)]  <-  5 篇论文
+work-function  [已建页]  <-  5 篇论文
+optical-band-gap  [待建页(悬空引用)]  <-  4 篇论文
+superconductivity  [待建页(悬空引用)]  <-  4 篇论文
+pseudopotential  [待建页(悬空引用)]  <-  4 篇论文
+type-ii-multiferroics  [待建页(悬空引用)]  <-  4 篇论文
+critical-thickness  [待建页(悬空引用)]  <-  4 篇论文
+interlayer-stacking  [待建页(悬空引用)]  <-  4 篇论文
+photoinitiator  [待建页(悬空引用)]  <-  4 篇论文
+trap-depth  [待建页(悬空引用)]  <-  4 篇论文
+intramolecular-charge-transfer  [待建页(悬空引用)]  <-  4 篇论文
+van-hove-singularity  [已建页]  <-  4 篇论文
+kohn-anomaly  [已建页]  <-  4 篇论文
+phase-field-modeling  [待建页(悬空引用)]  <-  4 篇论文
+electronic-susceptibility  [待建页(悬空引用)]  <-  4 篇论文
+spin-density-wave  [待建页(悬空引用)]  <-  4 篇论文
+nonlinear-absorption  [待建页(悬空引用)]  <-  4 篇论文
+nonlinear-optics  [待建页(悬空引用)]  <-  4 篇论文
+bond-density  [待建页(悬空引用)]  <-  4 篇论文
+binding-strength  [待建页(悬空引用)]  <-  4 篇论文
+ferrovalley  [待建页(悬空引用)]  <-  4 篇论文
+spiral-magnetic-order  [待建页(悬空引用)]  <-  4 篇论文
+surface-reconstruction  [待建页(悬空引用)]  <-  4 篇论文
+icosahedral-packing  [待建页(悬空引用)]  <-  4 篇论文
+double-well  [待建页(悬空引用)]  <-  4 篇论文
+weyl-semimetal  [已建页]  <-  4 篇论文
+half-metallicity  [待建页(悬空引用)]  <-  4 篇论文
+nudged-elastic-band  [待建页(悬空引用)]  <-  4 篇论文
+pbe-functional  [待建页(悬空引用)]  <-  4 篇论文
+toroidal-moment  [待建页(悬空引用)]  <-  4 篇论文
+spin-wave  [待建页(悬空引用)]  <-  4 篇论文
+weak-ferromagnetism  [待建页(悬空引用)]  <-  4 篇论文
+out-of-plane-polarization  [待建页(悬空引用)]  <-  4 篇论文
+d0-rule  [待建页(悬空引用)]  <-  4 篇论文
+antiferroelectricity  [待建页(悬空引用)]  <-  4 篇论文
+exchange-bias  [已建页]  <-  4 篇论文
+domain-wall-engineering  [待建页(悬空引用)]  <-  4 篇论文
+hybrid-improper-ferroelectricity  [待建页(悬空引用)]  <-  4 篇论文
+monkhorst-pack-grid  [已建页]  <-  4 篇论文
+second-harmonic-generation  [已建页]  <-  4 篇论文
+domain-walls  [待建页(悬空引用)]  <-  4 篇论文
+polar-vortex  [待建页(悬空引用)]  <-  4 篇论文
+trimerization  [待建页(悬空引用)]  <-  4 篇论文
+jahn-teller-distortion  [待建页(悬空引用)]  <-  4 篇论文
+hall-effect  [待建页(悬空引用)]  <-  4 篇论文
+bimeron  [待建页(悬空引用)]  <-  4 篇论文
+penetration-depth  [待建页(悬空引用)]  <-  3 篇论文
+evanescent-field  [待建页(悬空引用)]  <-  3 篇论文
+wannier-function  [待建页(悬空引用)]  <-  3 篇论文
+flexoelectricity  [待建页(悬空引用)]  <-  3 篇论文
+depletion-layer  [待建页(悬空引用)]  <-  3 篇论文
+domain-wall  [待建页(悬空引用)]  <-  3 篇论文
+voxel  [待建页(悬空引用)]  <-  3 篇论文
+rare-earth-doped-gan  [待建页(悬空引用)]  <-  3 篇论文
+solvatochromism  [已建页]  <-  3 篇论文
+twisted-intramolecular-charge-transfer  [待建页(悬空引用)]  <-  3 篇论文
+solvent-relaxation  [待建页(悬空引用)]  <-  3 篇论文
+local-excited-state  [待建页(悬空引用)]  <-  3 篇论文
+bessel-beam  [待建页(悬空引用)]  <-  3 篇论文
+out-of-plane-ferroelectricity  [待建页(悬空引用)]  <-  3 篇论文
+strain-relaxation  [待建页(悬空引用)]  <-  3 篇论文
+lone-pair-ferroelectricity  [待建页(悬空引用)]  <-  3 篇论文
+exciton-condensation  [待建页(悬空引用)]  <-  3 篇论文
+pair-distribution-function  [待建页(悬空引用)]  <-  3 篇论文
+time-reversal-symmetry  [已建页]  <-  3 篇论文
+geometric-frustration  [待建页(悬空引用)]  <-  3 篇论文
+multiferroic-tunnel-junction  [待建页(悬空引用)]  <-  3 篇论文
+temperature-compensation  [待建页(悬空引用)]  <-  3 篇论文
+electrocatalysis  [待建页(悬空引用)]  <-  3 篇论文
+polymorphism  [待建页(悬空引用)]  <-  3 篇论文
+undercooling  [待建页(悬空引用)]  <-  3 篇论文
+embedded-atom-method  [待建页(悬空引用)]  <-  3 篇论文
+dulong-petit-law  [待建页(悬空引用)]  <-  3 篇论文
+type-ii-multiferroicity  [已建页]  <-  3 篇论文
+paw-method  [已建页]  <-  3 篇论文
+projector-functions  [待建页(悬空引用)]  <-  3 篇论文
+anomalous-hall-effect  [已建页]  <-  3 篇论文
+edelstein-effect  [待建页(悬空引用)]  <-  3 篇论文
+electron-counting-rule  [待建页(悬空引用)]  <-  3 篇论文
+direct-exchange  [待建页(悬空引用)]  <-  3 篇论文
+CINEB  [待建页(悬空引用)]  <-  3 篇论文
+quantum-tunneling  [待建页(悬空引用)]  <-  3 篇论文
+double-well-potential  [待建页(悬空引用)]  <-  3 篇论文
+electronic-ferroelectricity  [待建页(悬空引用)]  <-  3 篇论文
+vdw-correction  [待建页(悬空引用)]  <-  3 篇论文
+magnetic-frustration  [待建页(悬空引用)]  <-  3 篇论文
+improper-ferroelectricity  [待建页(悬空引用)]  <-  3 篇论文
+exchange-striction  [待建页(悬空引用)]  <-  3 篇论文
+TbMnO3  [待建页(悬空引用)]  <-  3 篇论文
+cohesive-energy  [待建页(悬空引用)]  <-  3 篇论文
+dielectric-function  [待建页(悬空引用)]  <-  3 篇论文
+chirality  [已建页]  <-  3 篇论文
+kittels-law  [待建页(悬空引用)]  <-  3 篇论文
+domain-wall-energy  [待建页(悬空引用)]  <-  3 篇论文
+dipole-locking  [待建页(悬空引用)]  <-  3 篇论文
+bulk-photovoltaic-effect  [待建页(悬空引用)]  <-  3 篇论文
+negative-capacitance  [待建页(悬空引用)]  <-  3 篇论文
+flux-closure-domain  [待建页(悬空引用)]  <-  3 篇论文
+antivortex  [待建页(悬空引用)]  <-  3 篇论文
+magnetic-anisotropy  [已建页]  <-  3 篇论文
+super-paraelectricity  [待建页(悬空引用)]  <-  3 篇论文
+electric-write-magnetic-read  [待建页(悬空引用)]  <-  3 篇论文
+1t-phase  [待建页(悬空引用)]  <-  3 篇论文
+altermagnetism  [待建页(悬空引用)]  <-  3 篇论文
+spin-hall-effect  [待建页(悬空引用)]  <-  3 篇论文
+topochemical-reaction  [待建页(悬空引用)]  <-  3 篇论文
+compensation-charge  [待建页(悬空引用)]  <-  3 篇论文
+correlation-energy  [待建页(悬空引用)]  <-  3 篇论文
+spontaneous-strain  [待建页(悬空引用)]  <-  3 篇论文
+spin-transport  [待建页(悬空引用)]  <-  3 篇论文
+stacking-engineering  [待建页(悬空引用)]  <-  3 篇论文
+commensurate-cdw  [待建页(悬空引用)]  <-  2 篇论文
+tauc-plot  [待建页(悬空引用)]  <-  2 篇论文
+optical-conductivity  [待建页(悬空引用)]  <-  2 篇论文
+overpotential  [待建页(悬空引用)]  <-  2 篇论文
+kosterlitz-thouless-transition  [待建页(悬空引用)]  <-  2 篇论文
+quantum-critical-point  [待建页(悬空引用)]  <-  2 篇论文
+morphotropic-phase-boundary  [待建页(悬空引用)]  <-  2 篇论文
+numerical-atomic-orbitals  [待建页(悬空引用)]  <-  2 篇论文
+brillouin-zone-integration  [待建页(悬空引用)]  <-  2 篇论文
+gga-functional  [待建页(悬空引用)]  <-  2 篇论文
+lattice-bias  [待建页(悬空引用)]  <-  2 篇论文
+electropolymerization  [待建页(悬空引用)]  <-  2 篇论文
+lego-assembly  [待建页(悬空引用)]  <-  2 篇论文
+size-effect  [待建页(悬空引用)]  <-  2 篇论文
+computer-generated-hologram  [待建页(悬空引用)]  <-  2 篇论文
+concentration-quenching  [待建页(悬空引用)]  <-  2 篇论文
+charge-trapping  [待建页(悬空引用)]  <-  2 篇论文
+thermoluminescence  [待建页(悬空引用)]  <-  2 篇论文
+two-photon-fluorescence  [待建页(悬空引用)]  <-  2 篇论文
+donor-pi-acceptor  [待建页(悬空引用)]  <-  2 篇论文
+push-pull-chromophore  [待建页(悬空引用)]  <-  2 篇论文
+triple-fluorescence  [待建页(悬空引用)]  <-  2 篇论文
+two-photon-absorption-cross-section  [待建页(悬空引用)]  <-  2 篇论文
+peierls-transition  [待建页(悬空引用)]  <-  2 篇论文
+saddle-point  [待建页(悬空引用)]  <-  2 篇论文
+incommensurate-cdw  [待建页(悬空引用)]  <-  2 篇论文
+commensurate-incommensurate  [待建页(悬空引用)]  <-  2 篇论文
+superfluid-density  [待建页(悬空引用)]  <-  2 篇论文
+uemura-relation  [待建页(悬空引用)]  <-  2 篇论文
+humidity-sensing-mechanism  [待建页(悬空引用)]  <-  2 篇论文
+aberration-correction  [待建页(悬空引用)]  <-  2 篇论文
+orbital-angular-momentum  [待建页(悬空引用)]  <-  2 篇论文
+diffraction-free-beam  [待建页(悬空引用)]  <-  2 篇论文
+competing-orders  [待建页(悬空引用)]  <-  2 篇论文
+coherence-length  [待建页(悬空引用)]  <-  2 篇论文
+trap-levels  [待建页(悬空引用)]  <-  2 篇论文
+d-band-center  [待建页(悬空引用)]  <-  2 篇论文
+hubbard-model  [待建页(悬空引用)]  <-  2 篇论文
+time-correlation  [待建页(悬空引用)]  <-  2 篇论文
+refractive-index-sensing  [待建页(悬空引用)]  <-  2 篇论文
+fiber-optic-humidity-sensor  [待建页(悬空引用)]  <-  2 篇论文
+SrAl2O4-Eu  [待建页(悬空引用)]  <-  2 篇论文
+spin-cycloid  [待建页(悬空引用)]  <-  2 篇论文
+chemical-pressure  [待建页(悬空引用)]  <-  2 篇论文
+polytypism  [待建页(悬空引用)]  <-  2 篇论文
+helical-magnetism  [待建页(悬空引用)]  <-  2 篇论文
+saturable-absorption  [待建页(悬空引用)]  <-  2 篇论文
+excited-state-lifetime  [待建页(悬空引用)]  <-  2 篇论文
+mixed-valence  [待建页(悬空引用)]  <-  2 篇论文
+fabry-perot-interferometer  [待建页(悬空引用)]  <-  2 篇论文
+photoconductivity  [待建页(悬空引用)]  <-  2 篇论文
+narrow-gap-semiconductor  [待建页(悬空引用)]  <-  2 篇论文
+exciton-binding-energy  [待建页(悬空引用)]  <-  2 篇论文
+cross-sensitivity  [待建页(悬空引用)]  <-  2 篇论文
+monolithic-integration  [待建页(悬空引用)]  <-  2 篇论文
+magnetron-sputtering  [待建页(悬空引用)]  <-  2 篇论文
+beam-shaping  [待建页(悬空引用)]  <-  2 篇论文
+dftb  [待建页(悬空引用)]  <-  2 篇论文
+mulliken-population  [待建页(悬空引用)]  <-  2 篇论文
+odd-even-oscillation  [待建页(悬空引用)]  <-  2 篇论文
+DFTB+  [待建页(悬空引用)]  <-  2 篇论文
+charge-transfer-salt  [待建页(悬空引用)]  <-  2 篇论文
+lookup-table-calibration  [待建页(悬空引用)]  <-  2 篇论文
+cellular-automaton  [待建页(悬空引用)]  <-  2 篇论文
+nucleation-and-growth  [待建页(悬空引用)]  <-  2 篇论文
+grain-boundary-nucleation  [待建页(悬空引用)]  <-  2 篇论文
+super-element-approximation  [待建页(悬空引用)]  <-  2 篇论文
+cementite-precipitation  [待建页(悬空引用)]  <-  2 篇论文
+diffusion-controlled-growth  [待建页(悬空引用)]  <-  2 篇论文
+solid-state-phase-transformation  [待建页(悬空引用)]  <-  2 篇论文
+common-neighbor-analysis  [待建页(悬空引用)]  <-  2 篇论文
+surface-premelting  [待建页(悬空引用)]  <-  2 篇论文
+size-dependent-melting  [待建页(悬空引用)]  <-  2 篇论文
+geometric-shell-closure  [待建页(悬空引用)]  <-  2 篇论文
+pair-analysis  [待建页(悬空引用)]  <-  2 篇论文
+driven-ferroelectricity  [待建页(悬空引用)]  <-  2 篇论文
+frozen-core-approximation  [待建页(悬空引用)]  <-  2 篇论文
+additive-augmentation  [待建页(悬空引用)]  <-  2 篇论文
+overlap-operator  [待建页(悬空引用)]  <-  2 篇论文
+mass-renormalization  [待建页(悬空引用)]  <-  2 篇论文
+inverse-piezoelectric-effect  [待建页(悬空引用)]  <-  2 篇论文
+charge-doping  [待建页(悬空引用)]  <-  2 篇论文
+goodenough-kanamori-anderson-rules  [待建页(悬空引用)]  <-  2 篇论文
+in-memory-computing  [已建页]  <-  2 篇论文
+kai-model  [待建页(悬空引用)]  <-  2 篇论文
+enhancement-factor  [待建页(悬空引用)]  <-  2 篇论文
+crossbar-array  [待建页(悬空引用)]  <-  2 篇论文
+slidetronics  [已建页]  <-  2 篇论文
+interfacial-charge-rearrangement  [待建页(悬空引用)]  <-  2 篇论文
+paraelectric-ferroelectric-transition  [待建页(悬空引用)]  <-  2 篇论文
+interlayer-polarization-coupling  [待建页(悬空引用)]  <-  2 篇论文
+spontaneous-polarization  [待建页(悬空引用)]  <-  2 篇论文
+spin-field-effect-transistor  [待建页(悬空引用)]  <-  2 篇论文
+substrate-hybridization  [待建页(悬空引用)]  <-  2 篇论文
+in-plane-out-of-plane-coupling  [待建页(悬空引用)]  <-  2 篇论文
+odd-even-effect  [待建页(悬空引用)]  <-  2 篇论文
+neel-vector  [待建页(悬空引用)]  <-  2 篇论文
+ginzburg-landau  [待建页(悬空引用)]  <-  2 篇论文
+band-alignment  [已建页]  <-  2 篇论文
+twistronics  [待建页(悬空引用)]  <-  2 篇论文
+hubbard-u  [待建页(悬空引用)]  <-  2 篇论文
+double-counting-correction  [待建页(悬空引用)]  <-  2 篇论文
+quantum-spin-hall-effect  [已建页]  <-  2 篇论文
+screening-length  [待建页(悬空引用)]  <-  2 篇论文
+ferrotoroidicity  [待建页(悬空引用)]  <-  2 篇论文
+nonreciprocal-directional-dichroism  [待建页(悬空引用)]  <-  2 篇论文
+layer-selective-switching  [待建页(悬空引用)]  <-  2 篇论文
+transformation-strain  [待建页(悬空引用)]  <-  2 篇论文
+domain-wall-electronics  [待建页(悬空引用)]  <-  2 篇论文
+orientation-variants  [待建页(悬空引用)]  <-  2 篇论文
+k-point-sampling  [待建页(悬空引用)]  <-  2 篇论文
+kittel-law  [待建页(悬空引用)]  <-  2 篇论文
+vortex-antivortex-pair  [待建页(悬空引用)]  <-  2 篇论文
+second-principles  [待建页(悬空引用)]  <-  2 篇论文
+anharmonic-effects  [待建页(悬空引用)]  <-  2 篇论文
+polar-skyrmion  [待建页(悬空引用)]  <-  2 篇论文
+electronic-polarization  [待建页(悬空引用)]  <-  2 篇论文
+valleytronics  [已建页]  <-  2 篇论文
+topological-polarization  [待建页(悬空引用)]  <-  2 篇论文
+domain-wall-conduction  [待建页(悬空引用)]  <-  2 篇论文
+oxygen-octahedra-tilting  [待建页(悬空引用)]  <-  2 篇论文
+stack-engineering  [待建页(悬空引用)]  <-  2 篇论文
+potential-energy-surface  [待建页(悬空引用)]  <-  2 篇论文
+ferrielectricity  [待建页(悬空引用)]  <-  2 篇论文
+vacancy-formation-energy  [待建页(悬空引用)]  <-  2 篇论文
+topological-vs-trivial-interface  [待建页(悬空引用)]  <-  2 篇论文
+rashba-spin-texture  [待建页(悬空引用)]  <-  2 篇论文
+modern-polarization-theory  [待建页(悬空引用)]  <-  2 篇论文
+piezoelectricity  [待建页(悬空引用)]  <-  2 篇论文
+subspace-rotation  [待建页(悬空引用)]  <-  2 篇论文
+ultrasoft-pseudopotential  [已建页]  <-  2 篇论文
+thermostat  [待建页(悬空引用)]  <-  2 篇论文
+augmentation-charge  [待建页(悬空引用)]  <-  2 篇论文
+dft-plus-u  [待建页(悬空引用)]  <-  2 篇论文
+shape-memory-effect  [待建页(悬空引用)]  <-  2 篇论文
+pseudomagnetic-field  [待建页(悬空引用)]  <-  2 篇论文
+spin-injection  [待建页(悬空引用)]  <-  2 篇论文
+magnetic-tunnel-junction  [待建页(悬空引用)]  <-  2 篇论文
+interlayer-magnetic-coupling  [待建页(悬空引用)]  <-  2 篇论文
+pressure-tuning  [待建页(悬空引用)]  <-  2 篇论文
+octahedral-rotation  [待建页(悬空引用)]  <-  2 篇论文
+defect-engineering  [待建页(悬空引用)]  <-  2 篇论文
+npt-ensemble  [待建页(悬空引用)]  <-  2 篇论文
+deformation-potential  [待建页(悬空引用)]  <-  2 篇论文
+exciton-funnel-effect  [待建页(悬空引用)]  <-  2 篇论文
+self-interaction-error  [待建页(悬空引用)]  <-  2 篇论文
+space-charge-limited-current  [待建页(悬空引用)]  <-  2 篇论文
+free-standing-film  [待建页(悬空引用)]  <-  2 篇论文
+exfoliation-energy  [待建页(悬空引用)]  <-  2 篇论文
+magnetic-point-group  [待建页(悬空引用)]  <-  2 篇论文
+valley-polarization  [待建页(悬空引用)]  <-  2 篇论文
+flat-band  [待建页(悬空引用)]  <-  2 篇论文
+electron-localization-function  [待建页(悬空引用)]  <-  2 篇论文
+stoner-model  [待建页(悬空引用)]  <-  2 篇论文
+coulombic-potential  [待建页(悬空引用)]  <-  2 篇论文
+micromagnetic-simulation  [待建页(悬空引用)]  <-  2 篇论文
+topological-spin-texture  [待建页(悬空引用)]  <-  2 篇论文
+vdw-magnets  [待建页(悬空引用)]  <-  2 篇论文
+double-exchange  [待建页(悬空引用)]  <-  2 篇论文
+flexible-substrates  [待建页(悬空引用)]  <-  2 篇论文
+giant-spin-splitting  [待建页(悬空引用)]  <-  2 篇论文
+evanescent-wave  [待建页(悬空引用)]  <-  1 篇论文
+optical-fiber-sensor  [待建页(悬空引用)]  <-  1 篇论文
+intensity-modulation  [待建页(悬空引用)]  <-  1 篇论文
+dip-coating  [待建页(悬空引用)]  <-  1 篇论文
+sublattice-decoupling  [待建页(悬空引用)]  <-  1 篇论文
+hopping-integral  [待建页(悬空引用)]  <-  1 篇论文
+gapless-excitation  [待建页(悬空引用)]  <-  1 篇论文
+phase-interference  [待建页(悬空引用)]  <-  1 篇论文
+topological-crystalline-insulator  [待建页(悬空引用)]  <-  1 篇论文
+electrochemical-deposition  [待建页(悬空引用)]  <-  1 篇论文
+shockley-queisser-limit  [待建页(悬空引用)]  <-  1 篇论文
+window-layer  [待建页(悬空引用)]  <-  1 篇论文
+dirac-electrons  [待建页(悬空引用)]  <-  1 篇论文
+marginal-fermi-liquid  [待建页(悬空引用)]  <-  1 篇论文
+f-wave-order-parameter  [待建页(悬空引用)]  <-  1 篇论文
+piezo-electric-coupling  [待建页(悬空引用)]  <-  1 篇论文
+pseudo-gap  [待建页(悬空引用)]  <-  1 篇论文
+saddle-point-scattering  [待建页(悬空引用)]  <-  1 篇论文
+ferroelectric-photovoltaic-effect  [待建页(悬空引用)]  <-  1 篇论文
+nondestructive-readout  [待建页(悬空引用)]  <-  1 篇论文
+two-step-switching  [待建页(悬空引用)]  <-  1 篇论文
+discommensuration  [已建页]  <-  1 篇论文
+pair-density-wave  [待建页(悬空引用)]  <-  1 篇论文
+superconducting-percolation  [待建页(悬空引用)]  <-  1 篇论文
+little-parks-oscillation  [待建页(悬空引用)]  <-  1 篇论文
+enthalpy-of-formation  [待建页(悬空引用)]  <-  1 篇论文
+conjugated-polymer  [待建页(悬空引用)]  <-  1 篇论文
+hydrochromism  [待建页(悬空引用)]  <-  1 篇论文
+reflective-filter  [待建页(悬空引用)]  <-  1 篇论文
+salen-ligand  [待建页(悬空引用)]  <-  1 篇论文
+glassy-carbon  [待建页(悬空引用)]  <-  1 篇论文
+hafnia-ferroelectricity  [待建页(悬空引用)]  <-  1 篇论文
+stacking-engineered-ferroelectricity  [待建页(悬空引用)]  <-  1 篇论文
+encapsulation-2d  [待建页(悬空引用)]  <-  1 篇论文
+tissue-engineering  [待建页(悬空引用)]  <-  1 篇论文
+regenerative-medicine  [待建页(悬空引用)]  <-  1 篇论文
+scaffold  [待建页(悬空引用)]  <-  1 篇论文
+vascularization  [待建页(悬空引用)]  <-  1 篇论文
+prevascularization  [待建页(悬空引用)]  <-  1 篇论文
+contact-guidance  [待建页(悬空引用)]  <-  1 篇论文
+mass-transport  [待建页(悬空引用)]  <-  1 篇论文
+extracellular-matrix  [待建页(悬空引用)]  <-  1 篇论文
+rapid-prototyping  [待建页(悬空引用)]  <-  1 篇论文
+stereolithography  [待建页(悬空引用)]  <-  1 篇论文
+multibeam-writing  [待建页(悬空引用)]  <-  1 篇论文
+micromolding-replication  [待建页(悬空引用)]  <-  1 篇论文
+laser-bioprinting  [待建页(悬空引用)]  <-  1 篇论文
+soft-lithography  [待建页(悬空引用)]  <-  1 篇论文
+surface-morphology  [待建页(悬空引用)]  <-  1 篇论文
+oxygen-octahedron-rotation  [待建页(悬空引用)]  <-  1 篇论文
+magnetoelastic-coupling  [待建页(悬空引用)]  <-  1 篇论文
+magnetic-propagation-vector  [待建页(悬空引用)]  <-  1 篇论文
+point-charge-model  [待建页(悬空引用)]  <-  1 篇论文
+radiation-induced-defects  [待建页(悬空引用)]  <-  1 篇论文
+hole-center  [待建页(悬空引用)]  <-  1 篇论文
+defect-mediated-luminescence  [待建页(悬空引用)]  <-  1 篇论文
+solid-state-lighting  [待建页(悬空引用)]  <-  1 篇论文
+energy-transfer  [待建页(悬空引用)]  <-  1 篇论文
+gamma-irradiation  [待建页(悬空引用)]  <-  1 篇论文
+thermo-solvatochromism  [待建页(悬空引用)]  <-  1 篇论文
+locally-excited-state  [待建页(悬空引用)]  <-  1 篇论文
+d-pi-a-architecture  [待建页(悬空引用)]  <-  1 篇论文
+fluorescence-sensing  [待建页(悬空引用)]  <-  1 篇论文
+thermochromism  [已建页]  <-  1 篇论文
+viscosity-sensing  [待建页(悬空引用)]  <-  1 篇论文
+fluorescence-quantum-yield  [已建页]  <-  1 篇论文
+lippert-mataga  [待建页(悬空引用)]  <-  1 篇论文
+solvent-polarity-scales  [待建页(悬空引用)]  <-  1 篇论文
+donor-acceptor-push-pull  [待建页(悬空引用)]  <-  1 篇论文
+lindhard-function  [待建页(悬空引用)]  <-  1 篇论文
+incommensurate-order  [待建页(悬空引用)]  <-  1 篇论文
+rigid-band-approximation  [待建页(悬空引用)]  <-  1 篇论文
+muon-spin-rotation  [待建页(悬空引用)]  <-  1 篇论文
+bec-bcs-crossover  [待建页(悬空引用)]  <-  1 篇论文
+two-gap-superconductivity  [待建页(悬空引用)]  <-  1 篇论文
+donor-effect  [待建页(悬空引用)]  <-  1 篇论文
+sol-gel-method  [待建页(悬空引用)]  <-  1 篇论文
+nanostructured-metal-oxide  [待建页(悬空引用)]  <-  1 篇论文
+band-gap  [待建页(悬空引用)]  <-  1 篇论文
+sensor-electrode-configuration  [待建页(悬空引用)]  <-  1 篇论文
+adsorption-desorption  [待建页(悬空引用)]  <-  1 篇论文
+capacitive-sensor  [待建页(悬空引用)]  <-  1 篇论文
+resistive-sensor  [待建页(悬空引用)]  <-  1 篇论文
+adsorption-desorption-hysteresis  [待建页(悬空引用)]  <-  1 篇论文
+mesoporous-metal-oxide  [待建页(悬空引用)]  <-  1 篇论文
+bessel-beams  [待建页(悬空引用)]  <-  1 篇论文
+high-order-bessel-beams  [待建页(悬空引用)]  <-  1 篇论文
+adaptive-optics  [待建页(悬空引用)]  <-  1 篇论文
+wavefront-sensing  [待建页(悬空引用)]  <-  1 篇论文
+optical-vortex  [待建页(悬空引用)]  <-  1 篇论文
+self-healing-beam  [待建页(悬空引用)]  <-  1 篇论文
+complex-amplitude-modulation  [待建页(悬空引用)]  <-  1 篇论文
+piezoelectric-response  [待建页(悬空引用)]  <-  1 篇论文
+polycrystalline-ferroelectrics  [待建页(悬空引用)]  <-  1 篇论文
+charge-migration-energy  [待建页(悬空引用)]  <-  1 篇论文
+hidden-nesting  [待建页(悬空引用)]  <-  1 篇论文
+incommensurate-lattice-transition  [待建页(悬空引用)]  <-  1 篇论文
+pocket-density-wave  [待建页(悬空引用)]  <-  1 篇论文
+quasiparticle-interference  [待建页(悬空引用)]  <-  1 篇论文
+reconstructed-nesting  [待建页(悬空引用)]  <-  1 篇论文
+nematic-order  [待建页(悬空引用)]  <-  1 篇论文
+orbital-content  [待建页(悬空引用)]  <-  1 篇论文
+c4-symmetry-breaking  [待建页(悬空引用)]  <-  1 篇论文
+holographic-grating  [待建页(悬空引用)]  <-  1 篇论文
+refractive-index-modulation  [待建页(悬空引用)]  <-  1 篇论文
+photoluminescence-mapping  [待建页(悬空引用)]  <-  1 篇论文
+vls-growth  [待建页(悬空引用)]  <-  1 篇论文
+nanowire-superlattice  [待建页(悬空引用)]  <-  1 篇论文
+spherical-aberration  [待建页(悬空引用)]  <-  1 篇论文
+rare-earth-doping  [待建页(悬空引用)]  <-  1 篇论文
+lateral-integration  [待建页(悬空引用)]  <-  1 篇论文
+kay-dunn-scaling  [待建页(悬空引用)]  <-  1 篇论文
+geometric-projection  [待建页(悬空引用)]  <-  1 篇论文
+ferroelectric-hysteresis  [待建页(悬空引用)]  <-  1 篇论文
+reciprocal-space-map  [待建页(悬空引用)]  <-  1 篇论文
+excitonic-condensation  [待建页(悬空引用)]  <-  1 篇论文
+anderson-theorem  [待建页(悬空引用)]  <-  1 篇论文
+disorder-engineering  [待建页(悬空引用)]  <-  1 篇论文
+bad-metal  [待建页(悬空引用)]  <-  1 篇论文
+preformed-excitons  [待建页(悬空引用)]  <-  1 篇论文
+nanocomposite-resin  [待建页(悬空引用)]  <-  1 篇论文
+debinding  [待建页(悬空引用)]  <-  1 篇论文
+sintering  [待建页(悬空引用)]  <-  1 篇论文
+fused-silica-glass  [待建页(悬空引用)]  <-  1 篇论文
+submicron-resolution  [待建页(悬空引用)]  <-  1 篇论文
+micro-optics  [待建页(悬空引用)]  <-  1 篇论文
+shrinkage  [待建页(悬空引用)]  <-  1 篇论文
+transparent-ceramics  [待建页(悬空引用)]  <-  1 篇论文
+photoresist  [待建页(悬空引用)]  <-  1 篇论文
+threshold-effect  [待建页(悬空引用)]  <-  1 篇论文
+aspect-ratio  [待建页(悬空引用)]  <-  1 篇论文
+dislocation-mediated-ml  [待建页(悬空引用)]  <-  1 篇论文
+color-center-quenching  [待建页(悬空引用)]  <-  1 篇论文
+combustion-synthesis  [待建页(悬空引用)]  <-  1 篇论文
+persistent-luminescence  [待建页(悬空引用)]  <-  1 篇论文
+scherrer-broadening  [待建页(悬空引用)]  <-  1 篇论文
+bilayer-splitting  [待建页(悬空引用)]  <-  1 篇论文
+generalized-susceptibility  [待建页(悬空引用)]  <-  1 篇论文
+electronic-band-structure  [待建页(悬空引用)]  <-  1 篇论文
+2d-acar  [待建页(悬空引用)]  <-  1 篇论文
+p-d-hybridization  [待建页(悬空引用)]  <-  1 篇论文
+charge-transfer-descriptor  [待建页(悬空引用)]  <-  1 篇论文
+mechanical-anisotropy  [待建页(悬空引用)]  <-  1 篇论文
+stress-strain-relation  [待建页(悬空引用)]  <-  1 篇论文
+bader-charge-analysis  [待建页(悬空引用)]  <-  1 篇论文
+bonding-charge-density  [待建页(悬空引用)]  <-  1 篇论文
+poisson-contraction  [待建页(悬空引用)]  <-  1 篇论文
+ultimate-strength  [待建页(悬空引用)]  <-  1 篇论文
+spin-charge-density-wave  [待建页(悬空引用)]  <-  1 篇论文
+random-phase-approximation  [待建页(悬空引用)]  <-  1 篇论文
+optical-lattice  [待建页(悬空引用)]  <-  1 篇论文
+staggered-zeeman-field  [待建页(悬空引用)]  <-  1 篇论文
+hubbard-stratonovich-transformation  [待建页(悬空引用)]  <-  1 篇论文
+landau-free-energy  [待建页(悬空引用)]  <-  1 篇论文
+interstitial-diffusion  [待建页(悬空引用)]  <-  1 篇论文
+interstitial-exchange-mechanism  [待建页(悬空引用)]  <-  1 篇论文
+arrhenius-deviation  [待建页(悬空引用)]  <-  1 篇论文
+behler-parrinello-nnp  [待建页(悬空引用)]  <-  1 篇论文
+block-averaging-msd  [待建页(悬空引用)]  <-  1 篇论文
+CdTe  [待建页(悬空引用)]  <-  1 篇论文
+two-photon-wavefunction  [待建页(悬空引用)]  <-  1 篇论文
+entanglement-induced-two-photon-transparency  [待建页(悬空引用)]  <-  1 篇论文
+spontaneous-parametric-down-conversion  [待建页(悬空引用)]  <-  1 篇论文
+quantum-optics  [待建页(悬空引用)]  <-  1 篇论文
+electromagnetic-induced-transparency  [待建页(悬空引用)]  <-  1 篇论文
+optical-fiber-humidity-sensor  [待建页(悬空引用)]  <-  1 篇论文
+penn-model  [待建页(悬空引用)]  <-  1 篇论文
+carrier-density-modulation  [待建页(悬空引用)]  <-  1 篇论文
+n-p-type-semiconductor  [待建页(悬空引用)]  <-  1 篇论文
+relative-differentiation-of-attenuation  [待建页(悬空引用)]  <-  1 篇论文
+graphene-oxide-functional-groups  [待建页(悬空引用)]  <-  1 篇论文
+hydrogen-bond-saturation  [待建页(悬空引用)]  <-  1 篇论文
+thermal-regeneration  [待建页(悬空引用)]  <-  1 篇论文
+elastico-mechanoluminescence  [待建页(悬空引用)]  <-  1 篇论文
+triboluminescence  [待建页(悬空引用)]  <-  1 篇论文
+piezoelectric-detrapping-model  [待建页(悬空引用)]  <-  1 篇论文
+trap-depth-electron-detrapping  [待建页(悬空引用)]  <-  1 篇论文
+ZnS-Mn  [待建页(悬空引用)]  <-  1 篇论文
+maxwell-wagner-polarization  [待建页(悬空引用)]  <-  1 篇论文
+hopping-conduction  [待建页(悬空引用)]  <-  1 篇论文
+jonscher-power-law  [待建页(悬空引用)]  <-  1 篇论文
+hydrothermal-synthesis  [待建页(悬空引用)]  <-  1 篇论文
+dielectric-absorber  [待建页(悬空引用)]  <-  1 篇论文
+magnetic-domain  [待建页(悬空引用)]  <-  1 篇论文
+BLFO  [待建页(悬空引用)]  <-  1 篇论文
+scherrer-equation  [待建页(悬空引用)]  <-  1 篇论文
+reverse-monte-carlo  [待建页(悬空引用)]  <-  1 篇论文
+coordination-polyhedron  [待建页(悬空引用)]  <-  1 篇论文
+ta-sublattice-3d-periodicity  [待建页(悬空引用)]  <-  1 篇论文
+trigonal-prismatic-coordination  [待建页(悬空引用)]  <-  1 篇论文
+octahedral-coordination  [待建页(悬空引用)]  <-  1 篇论文
+lattice-buckling  [待建页(悬空引用)]  <-  1 篇论文
+triferroics  [待建页(悬空引用)]  <-  1 篇论文
+z-scan  [待建页(悬空引用)]  <-  1 篇论文
+two-level-system  [待建页(悬空引用)]  <-  1 篇论文
+steady-state-rate-equations  [待建页(悬空引用)]  <-  1 篇论文
+gaussian-beam  [待建页(悬空引用)]  <-  1 篇论文
+radical-cation  [待建页(悬空引用)]  <-  1 篇论文
+dismutation-equilibrium  [待建页(悬空引用)]  <-  1 篇论文
+weight-factor-approximation  [待建页(悬空引用)]  <-  1 篇论文
+rayleigh-range  [待建页(悬空引用)]  <-  1 篇论文
+molecular-beam-epitaxy  [待建页(悬空引用)]  <-  1 篇论文
+infrared-detection  [待建页(悬空引用)]  <-  1 篇论文
+band-pass-filter  [待建页(悬空引用)]  <-  1 篇论文
+skin-depth  [待建页(悬空引用)]  <-  1 篇论文
+atmospheric-window  [待建页(悬空引用)]  <-  1 篇论文
+quantum-efficiency  [待建页(悬空引用)]  <-  1 篇论文
+detectivity  [待建页(悬空引用)]  <-  1 篇论文
+optical-constants  [待建页(悬空引用)]  <-  1 篇论文
+PbSnTe  [待建页(悬空引用)]  <-  1 篇论文
+KCl  [待建页(悬空引用)]  <-  1 篇论文
+HgCdTe  [待建页(悬空引用)]  <-  1 篇论文
+phosphorescence  [待建页(悬空引用)]  <-  1 篇论文
+exponential-decay  [待建页(悬空引用)]  <-  1 篇论文
+trap-depletion  [待建页(悬空引用)]  <-  1 篇论文
+reabsorption  [待建页(悬空引用)]  <-  1 篇论文
+hydrostatic-pressure  [待建页(悬空引用)]  <-  1 篇论文
+time-resolved-spectroscopy  [待建页(悬空引用)]  <-  1 篇论文
+carrier-detrapping  [待建页(悬空引用)]  <-  1 篇论文
+phosphorescence-decay  [待建页(悬空引用)]  <-  1 篇论文
+elastic-deformation  [待建页(悬空引用)]  <-  1 篇论文
+mechano-optical-conversion  [待建页(悬空引用)]  <-  1 篇论文
+ultrasonic-excitation  [待建页(悬空引用)]  <-  1 篇论文
+p-type-semiconductor  [待建页(悬空引用)]  <-  1 篇论文
+optical-bandgap  [待建页(悬空引用)]  <-  1 篇论文
+kubelka-munk-theory  [待建页(悬空引用)]  <-  1 篇论文
+charge-transfer-compound  [待建页(悬空引用)]  <-  1 篇论文
+bedt-ttf  [待建页(悬空引用)]  <-  1 篇论文
+vibronic-coupling  [待建页(悬空引用)]  <-  1 篇论文
+electron-paramagnetic-resonance  [待建页(悬空引用)]  <-  1 篇论文
+fringe-contrast  [待建页(悬空引用)]  <-  1 篇论文
+layer-by-layer-self-assembly  [待建页(悬空引用)]  <-  1 篇论文
+fabry-perot-cavity  [待建页(悬空引用)]  <-  1 篇论文
+optical-sensing  [待建页(悬空引用)]  <-  1 篇论文
+micromechanical-hinge  [待建页(悬空引用)]  <-  1 篇论文
+moems  [待建页(悬空引用)]  <-  1 篇论文
+quality-factor  [待建页(悬空引用)]  <-  1 篇论文
+diffractive-optical-element  [待建页(悬空引用)]  <-  1 篇论文
+axicon  [待建页(悬空引用)]  <-  1 篇论文
+staircase-effect  [待建页(悬空引用)]  <-  1 篇论文
+diffraction-efficiency  [待建页(悬空引用)]  <-  1 篇论文
+laser-damage-threshold  [待建页(悬空引用)]  <-  1 篇论文
+stitching  [待建页(悬空引用)]  <-  1 篇论文
+phase-modulation  [待建页(悬空引用)]  <-  1 篇论文
+FemtoBond-4B  [待建页(悬空引用)]  <-  1 篇论文
+d-pi-a-structure  [待建页(悬空引用)]  <-  1 篇论文
+two-photon-cross-section  [待建页(悬空引用)]  <-  1 篇论文
+photoinduced-electron-transfer  [待建页(悬空引用)]  <-  1 篇论文
+virtual-state  [待建页(悬空引用)]  <-  1 篇论文
+nondiffracting-beams  [待建页(悬空引用)]  <-  1 篇论文
+mathieu-gauss-beams  [待建页(悬空引用)]  <-  1 篇论文
+phase-plate  [待建页(悬空引用)]  <-  1 篇论文
+spatial-filtering  [待建页(悬空引用)]  <-  1 篇论文
+vortex-wavefront  [待建页(悬空引用)]  <-  1 篇论文
+four-f-system  [待建页(悬空引用)]  <-  1 篇论文
+propagation-invariance  [待建页(悬空引用)]  <-  1 篇论文
+nitrogen-doping  [待建页(悬空引用)]  <-  1 篇论文
+curvature-effect  [待建页(悬空引用)]  <-  1 篇论文
+sp2-sp3-hybridization  [待建页(悬空引用)]  <-  1 篇论文
+bamboo-like-N-CNTs  [待建页(悬空引用)]  <-  1 篇论文
+mechanochemical-synthesis  [待建页(悬空引用)]  <-  1 篇论文
+neutral-ionic-transition  [待建页(悬空引用)]  <-  1 篇论文
+mixed-stack  [待建页(悬空引用)]  <-  1 篇论文
+cyclic-voltammetry  [待建页(悬空引用)]  <-  1 篇论文
+contact-resistance  [待建页(悬空引用)]  <-  1 篇论文
+dimer-buckling  [待建页(悬空引用)]  <-  1 篇论文
+adsorption-energy  [待建页(悬空引用)]  <-  1 篇论文
+slab-model  [待建页(悬空引用)]  <-  1 篇论文
+optical-power-variation  [待建页(悬空引用)]  <-  1 篇论文
+hydrogel-swelling  [待建页(悬空引用)]  <-  1 篇论文
+evanescent-field-sensing  [待建页(悬空引用)]  <-  1 篇论文
+persistent-mechanoluminescence  [待建页(悬空引用)]  <-  1 篇论文
+isostructural-doping  [待建页(悬空引用)]  <-  1 篇论文
+charge-transfer-exciplex  [待建页(悬空引用)]  <-  1 篇论文
+organic-afterglow  [待建页(悬空引用)]  <-  1 篇论文
+heavy-atom-effect  [待建页(悬空引用)]  <-  1 篇论文
+carbazole-derivatives  [待建页(悬空引用)]  <-  1 篇论文
+intersystem-crossing  [待建页(悬空引用)]  <-  1 篇论文
+thermal-lens-effect  [待建页(悬空引用)]  <-  1 篇论文
+photothermal-effect  [待建页(悬空引用)]  <-  1 篇论文
+pump-probe-technique  [待建页(悬空引用)]  <-  1 篇论文
+optical-fiber-sensing  [待建页(悬空引用)]  <-  1 篇论文
+optical-coupling-efficiency  [待建页(悬空引用)]  <-  1 篇论文
+absolute-humidity  [待建页(悬空引用)]  <-  1 篇论文
+lock-in-detection  [待建页(悬空引用)]  <-  1 篇论文
+diffusion-controlled-transformation  [待建页(悬空引用)]  <-  1 篇论文
+latent-heat  [待建页(悬空引用)]  <-  1 篇论文
+continuous-cooling-transformation  [待建页(悬空引用)]  <-  1 篇论文
+grain-refinement  [待建页(悬空引用)]  <-  1 篇论文
+controlled-rolling-and-cooling  [待建页(悬空引用)]  <-  1 篇论文
+solute-redistribution  [待建页(悬空引用)]  <-  1 篇论文
+soft-impingement  [待建页(悬空引用)]  <-  1 篇论文
+multipolar-chromophore  [待建页(悬空引用)]  <-  1 篇论文
+photoinitiation  [待建页(悬空引用)]  <-  1 篇论文
+icosahedral-structure  [待建页(悬空引用)]  <-  1 篇论文
+hcp-structure  [待建页(悬空引用)]  <-  1 篇论文
+fcc-structure  [待建页(悬空引用)]  <-  1 篇论文
+bcc-structure  [待建页(悬空引用)]  <-  1 篇论文
+five-fold-twinning  [待建页(悬空引用)]  <-  1 篇论文
+nvt-ensemble  [待建页(悬空引用)]  <-  1 篇论文
+icosahedral-cluster  [待建页(悬空引用)]  <-  1 篇论文
+hcp-bcc-transition  [待建页(悬空引用)]  <-  1 篇论文
+undercooling-hysteresis  [待建页(悬空引用)]  <-  1 篇论文
+particle-coalescence  [待建页(悬空引用)]  <-  1 篇论文
+processing-structure-property-relation  [待建页(悬空引用)]  <-  1 篇论文
+cluster-size-effect  [待建页(悬空引用)]  <-  1 篇论文
+sommerfeld-potential  [待建页(悬空引用)]  <-  1 篇论文
+additive-manufacturing  [待建页(悬空引用)]  <-  1 篇论文
+band-bending  [待建页(悬空引用)]  <-  1 篇论文
+scanning-tunneling-microscopy  [待建页(悬空引用)]  <-  1 篇论文
+anderson-blount-mechanism  [待建页(悬空引用)]  <-  1 篇论文
+hyperferroelectrics  [待建页(悬空引用)]  <-  1 篇论文
+elemental-polar-metals  [待建页(悬空引用)]  <-  1 篇论文
+nonlinear-hall-effect  [待建页(悬空引用)]  <-  1 篇论文
+kinetic-magnetoelectric-effect  [待建页(悬空引用)]  <-  1 篇论文
+ferroelectric-superconductivity  [待建页(悬空引用)]  <-  1 篇论文
+LiOsO3  [待建页(悬空引用)]  <-  1 篇论文
+Ca3Ru2O7  [待建页(悬空引用)]  <-  1 篇论文
+lapw  [待建页(悬空引用)]  <-  1 篇论文
+augmentation-region  [待建页(悬空引用)]  <-  1 篇论文
+compensation-charge-density  [待建页(悬空引用)]  <-  1 篇论文
+car-parrinello  [待建页(悬空引用)]  <-  1 篇论文
+norm-conservation  [待建页(悬空引用)]  <-  1 篇论文
+pulay-force  [待建页(悬空引用)]  <-  1 篇论文
+perpendicular-magnetic-anisotropy  [待建页(悬空引用)]  <-  1 篇论文
+strain-mediated-magnetoelectric-coupling  [待建页(悬空引用)]  <-  1 篇论文
+spin-logic-device  [待建页(悬空引用)]  <-  1 篇论文
+dual-gate-asymmetric-strain-control  [待建页(悬空引用)]  <-  1 篇论文
+electrical-control-of-magnetism  [待建页(悬空引用)]  <-  1 篇论文
+janus-structure  [待建页(悬空引用)]  <-  1 篇论文
+crystal-field-theory  [待建页(悬空引用)]  <-  1 篇论文
+electronic-phase-transition  [待建页(悬空引用)]  <-  1 篇论文
+structural-distortion-index  [待建页(悬空引用)]  <-  1 篇论文
+magnetism  [待建页(悬空引用)]  <-  1 篇论文
+synaptic-plasticity  [已建页]  <-  1 篇论文
+doping-engineering  [待建页(悬空引用)]  <-  1 篇论文
+phase-transition  [待建页(悬空引用)]  <-  1 篇论文
+cmos-compatibility  [待建页(悬空引用)]  <-  1 篇论文
+wake-up-effect  [待建页(悬空引用)]  <-  1 篇论文
+fatigue-effect  [待建页(悬空引用)]  <-  1 篇论文
+soft-mode-phonon  [待建页(悬空引用)]  <-  1 篇论文
+wake-up-fatigue  [待建页(悬空引用)]  <-  1 篇论文
+soft-phonon-mode  [待建页(悬空引用)]  <-  1 篇论文
+screening-charge-integration  [待建页(悬空引用)]  <-  1 篇论文
+cdw-blends-displacements  [待建页(悬空引用)]  <-  1 篇论文
+geometric-structure-factor  [待建页(悬空引用)]  <-  1 篇论文
+antiparallel-polarization-stacking  [待建页(悬空引用)]  <-  1 篇论文
+switchable-diode  [待建页(悬空引用)]  <-  1 篇论文
+canted-antiferromagnetism  [待建页(悬空引用)]  <-  1 篇论文
+magnetostatic-effect  [待建页(悬空引用)]  <-  1 篇论文
+landau-lifshitz-equation  [待建页(悬空引用)]  <-  1 篇论文
+spin-wave-logic  [待建页(悬空引用)]  <-  1 篇论文
+quintuple-layer  [待建页(悬空引用)]  <-  1 篇论文
+vdW-heterostructure  [待建页(悬空引用)]  <-  1 篇论文
+concerted-motion  [待建页(悬空引用)]  <-  1 篇论文
+exciton-plasmon-coupling  [待建页(悬空引用)]  <-  1 篇论文
+surface-plasmon-resonance  [已建页]  <-  1 篇论文
+crispr-cas12a  [待建页(悬空引用)]  <-  1 篇论文
+dna-origami  [待建页(悬空引用)]  <-  1 篇论文
+dielectric-response  [待建页(悬空引用)]  <-  1 篇论文
+photoresponsivity  [待建页(悬空引用)]  <-  1 篇论文
+local-dielectric-environment  [待建页(悬空引用)]  <-  1 篇论文
+trans-cleavage  [待建页(悬空引用)]  <-  1 篇论文
+localized-surface-plasmon-resonance  [待建页(悬空引用)]  <-  1 篇论文
+lsda-plus-u  [待建页(悬空引用)]  <-  1 篇论文
+electron-energy-loss-spectroscopy  [待建页(悬空引用)]  <-  1 篇论文
+NiO  [待建页(悬空引用)]  <-  1 篇论文
+electron-hole-correlation  [待建页(悬空引用)]  <-  1 篇论文
+bistability  [待建页(悬空引用)]  <-  1 篇论文
+domain-dynamics  [待建页(悬空引用)]  <-  1 篇论文
+superexchange-goodenough-kanamori  [待建页(悬空引用)]  <-  1 篇论文
+spin-lattice-charge-coupling  [待建页(悬空引用)]  <-  1 篇论文
+transition-metal-phosphorus-trichalcogenides  [待建页(悬空引用)]  <-  1 篇论文
+C2DB  [待建页(悬空引用)]  <-  1 篇论文
+Sc2P2Se6  [待建页(悬空引用)]  <-  1 篇论文
+ScCrP2Se6  [待建页(悬空引用)]  <-  1 篇论文
+lone-pair-mechanism  [待建页(悬空引用)]  <-  1 篇论文
+spin-driven-ferroelectricity  [待建页(悬空引用)]  <-  1 篇论文
+magnetic-monopole-quasiparticle  [待建页(悬空引用)]  <-  1 篇论文
+type-i-type-ii-multiferroics  [待建页(悬空引用)]  <-  1 篇论文
+davydov-soliton  [待建页(悬空引用)]  <-  1 篇论文
+exciton-phonon-coupling  [待建页(悬空引用)]  <-  1 篇论文
+interchain-coupling  [待建页(悬空引用)]  <-  1 篇论文
+self-trapping  [待建页(悬空引用)]  <-  1 篇论文
+polarizability-matrix  [待建页(悬空引用)]  <-  1 篇论文
+local-field-effects  [待建页(悬空引用)]  <-  1 篇论文
+longitudinal-transversal-expression  [待建页(悬空引用)]  <-  1 篇论文
+dipole-correction  [待建页(悬空引用)]  <-  1 篇论文
+dfpt  [待建页(悬空引用)]  <-  1 篇论文
+kohn-sham  [待建页(悬空引用)]  <-  1 篇论文
+natural-optical-activity  [待建页(悬空引用)]  <-  1 篇论文
+d-p-hybridization  [待建页(悬空引用)]  <-  1 篇论文
+magneto-optical-kerr-effect  [待建页(悬空引用)]  <-  1 篇论文
+quadrature-phase  [待建页(悬空引用)]  <-  1 篇论文
+frozen-magnon  [待建页(悬空引用)]  <-  1 篇论文
+ferroelastic-ferroelectric-coupling  [待建页(悬空引用)]  <-  1 篇论文
+polar-vortices  [待建页(悬空引用)]  <-  1 篇论文
+polarization-waves  [待建页(悬空引用)]  <-  1 篇论文
+kosterlitz-thouless  [待建页(悬空引用)]  <-  1 篇论文
+poincare-hopf-theorem  [待建页(悬空引用)]  <-  1 篇论文
+hyperbolic-scaling  [待建页(悬空引用)]  <-  1 篇论文
+LSMO  [待建页(悬空引用)]  <-  1 篇论文
+migdal-instability  [待建页(悬空引用)]  <-  1 篇论文
+self-energy  [待建页(悬空引用)]  <-  1 篇论文
+order-disorder-vs-displacive-transition  [待建页(悬空引用)]  <-  1 篇论文
+finite-size-effect  [待建页(悬空引用)]  <-  1 篇论文
+intralayer-bonding  [待建页(悬空引用)]  <-  1 篇论文
+interlayer-translation  [待建页(悬空引用)]  <-  1 篇论文
+domain-engineering  [待建页(悬空引用)]  <-  1 篇论文
+ferroelectric-topological-insulator  [待建页(悬空引用)]  <-  1 篇论文
+fractional-quantum-ferroelectricity  [待建页(悬空引用)]  <-  1 篇论文
+constrained-dfpt  [待建页(悬空引用)]  <-  1 篇论文
+interlayer-bias  [待建页(悬空引用)]  <-  1 篇论文
+phonon-self-energy  [待建页(悬空引用)]  <-  1 篇论文
+quasi-freestanding-monolayer  [待建页(悬空引用)]  <-  1 篇论文
+vortexon  [待建页(悬空引用)]  <-  1 篇论文
+electric-dmi  [待建页(悬空引用)]  <-  1 篇论文
+meron  [待建页(悬空引用)]  <-  1 篇论文
+solomon-ring  [待建页(悬空引用)]  <-  1 篇论文
+landau-ginzburg  [待建页(悬空引用)]  <-  1 篇论文
+multiferroic-topological-soliton  [待建页(悬空引用)]  <-  1 篇论文
+bending-induced-kink  [待建页(悬空引用)]  <-  1 篇论文
+sliding-phonon-mode  [待建页(悬空引用)]  <-  1 篇论文
+concurrent-learning  [待建页(悬空引用)]  <-  1 篇论文
+climbing-image-neb  [待建页(悬空引用)]  <-  1 篇论文
+minimum-energy-path  [待建页(悬空引用)]  <-  1 篇论文
+transition-state-theory  [待建页(悬空引用)]  <-  1 篇论文
+rare-events  [待建页(悬空引用)]  <-  1 篇论文
+force-projection  [待建页(悬空引用)]  <-  1 篇论文
+harmonic-tst  [待建页(悬空引用)]  <-  1 篇论文
+variable-spring-constant  [待建页(悬空引用)]  <-  1 篇论文
+force-projection-nudging  [待建页(悬空引用)]  <-  1 篇论文
+soft-mode-theory  [待建页(悬空引用)]  <-  1 篇论文
+stereochemically-active-lone-pair  [待建页(悬空引用)]  <-  1 篇论文
+hyper-ferroelectric-metal  [待建页(悬空引用)]  <-  1 篇论文
+tolerance-factor  [待建页(悬空引用)]  <-  1 篇论文
+group-v-elemental-ferroelectrics  [待建页(悬空引用)]  <-  1 篇论文
+transition-metal-thiophosphate  [待建页(悬空引用)]  <-  1 篇论文
+higher-order-topology  [待建页(悬空引用)]  <-  1 篇论文
+first-order-transition  [待建页(悬空引用)]  <-  1 篇论文
+hinge-state  [已建页]  <-  1 篇论文
+fermi-arc  [待建页(悬空引用)]  <-  1 篇论文
+electron-beam-manipulation  [待建页(悬空引用)]  <-  1 篇论文
+phase-change-type-ferroelectrics  [待建页(悬空引用)]  <-  1 篇论文
+re-bonding-mechanism  [待建页(悬空引用)]  <-  1 篇论文
+mexican-hat-pes  [待建页(悬空引用)]  <-  1 篇论文
+entropy-barrier  [待建页(悬空引用)]  <-  1 篇论文
+shear-phonon-mode  [待建页(悬空引用)]  <-  1 篇论文
+landau-quantization  [待建页(悬空引用)]  <-  1 篇论文
+avoided-crossing  [待建页(悬空引用)]  <-  1 篇论文
+quantum-transport  [待建页(悬空引用)]  <-  1 篇论文
+resonant-tunneling  [待建页(悬空引用)]  <-  1 篇论文
+landau-zener-transition  [待建页(悬空引用)]  <-  1 篇论文
+neumann-wigner-noncrossing  [待建页(悬空引用)]  <-  1 篇论文
+neumann-wigner-theorem  [待建页(悬空引用)]  <-  1 篇论文
+parabolic-cylinder-functions  [待建页(悬空引用)]  <-  1 篇论文
+resonant-underbarrier-interaction  [待建页(悬空引用)]  <-  1 篇论文
+short-circuit-boundary  [待建页(悬空引用)]  <-  1 篇论文
+interface-dipole  [待建页(悬空引用)]  <-  1 篇论文
+dynamical-multiferroicity  [待建页(悬空引用)]  <-  1 篇论文
+quantum-anomalous-hall-effect  [待建页(悬空引用)]  <-  1 篇论文
+peierls-dimerization  [待建页(悬空引用)]  <-  1 篇论文
+orbital-distortion  [待建页(悬空引用)]  <-  1 篇论文
+across-layer-sliding-ferroelectricity  [待建页(悬空引用)]  <-  1 篇论文
+first-order-ferroelectric-transition  [待建页(悬空引用)]  <-  1 篇论文
+layer-polarized-spin-hall-effect  [待建页(悬空引用)]  <-  1 篇论文
+polarization-registry-index  [待建页(悬空引用)]  <-  1 篇论文
+topotactic-reaction  [待建页(悬空引用)]  <-  1 篇论文
+surface-functionalization  [待建页(悬空引用)]  <-  1 篇论文
+thermoelectricity  [待建页(悬空引用)]  <-  1 篇论文
+boltzmann-transport  [待建页(悬空引用)]  <-  1 篇论文
+phonon-stability  [待建页(悬空引用)]  <-  1 篇论文
+MXenes  [待建页(悬空引用)]  <-  1 篇论文
+tip-induced-phase-transition  [待建页(悬空引用)]  <-  1 篇论文
+coherent-layer-sliding  [待建页(悬空引用)]  <-  1 篇论文
+phase-boundary  [待建页(悬空引用)]  <-  1 篇论文
+stm-topography  [待建页(悬空引用)]  <-  1 篇论文
+berry-connection  [待建页(悬空引用)]  <-  1 篇论文
+polarization-quantum  [待建页(悬空引用)]  <-  1 篇论文
+rmm-diis  [已建页]  <-  1 篇论文
+pulay-mixing  [已建页]  <-  1 篇论文
+kerker-preconditioning  [待建页(悬空引用)]  <-  1 篇论文
+charge-sloshing  [已建页]  <-  1 篇论文
+conjugate-gradient  [待建页(悬空引用)]  <-  1 篇论文
+methfessel-paxton-smearing  [已建页]  <-  1 篇论文
+harris-foulkes-functional  [待建页(悬空引用)]  <-  1 篇论文
+self-consistent-field  [待建页(悬空引用)]  <-  1 篇论文
+plane-wave-basis  [已建页]  <-  1 篇论文
+ab-initio-molecular-dynamics  [待建页(悬空引用)]  <-  1 篇论文
+born-oppenheimer-md  [待建页(悬空引用)]  <-  1 篇论文
+car-parrinello-method  [待建页(悬空引用)]  <-  1 篇论文
+conjugate-gradient-minimization  [待建页(悬空引用)]  <-  1 篇论文
+subspace-alignment  [待建页(悬空引用)]  <-  1 篇论文
+nose-thermostat  [待建页(悬空引用)]  <-  1 篇论文
+pair-correlation-function  [待建页(悬空引用)]  <-  1 篇论文
+projector-augmented-wave  [已建页]  <-  1 篇论文
+nonlinear-core-correction  [待建页(悬空引用)]  <-  1 篇论文
+ghost-states  [待建页(悬空引用)]  <-  1 篇论文
+flapw  [待建页(悬空引用)]  <-  1 篇论文
+mirror-twin-boundary  [待建页(悬空引用)]  <-  1 篇论文
+fractional-charge-soliton  [待建页(悬空引用)]  <-  1 篇论文
+tomonaga-luttinger-liquid  [待建页(悬空引用)]  <-  1 篇论文
+zeeman-type-valley-splitting  [待建页(悬空引用)]  <-  1 篇论文
+phonon-soft-mode  [待建页(悬空引用)]  <-  1 篇论文
+cew-tronics  [待建页(悬空引用)]  <-  1 篇论文
+proximity-effect  [待建页(悬空引用)]  <-  1 篇论文
+spin-relaxation  [待建页(悬空引用)]  <-  1 篇论文
+spin-valve  [待建页(悬空引用)]  <-  1 篇论文
+two-dimensional-magnetism  [待建页(悬空引用)]  <-  1 篇论文
+spin-filtering  [待建页(悬空引用)]  <-  1 篇论文
+interlayer-phase-coupling  [待建页(悬空引用)]  <-  1 篇论文
+multiband-superconductivity  [待建页(悬空引用)]  <-  1 篇论文
+pauli-paramagnetic-effect  [待建页(悬空引用)]  <-  1 篇论文
+andreev-reflection  [待建页(悬空引用)]  <-  1 篇论文
+london-penetration-depth  [待建页(悬空引用)]  <-  1 篇论文
+werthamer-helfand-hohenberg-model  [待建页(悬空引用)]  <-  1 篇论文
+electrocaloric-effect  [待建页(悬空引用)]  <-  1 篇论文
+pyroelectric-effect  [待建页(悬空引用)]  <-  1 篇论文
+magnetic-polar-metal  [待建页(悬空引用)]  <-  1 篇论文
+itinerant-ferromagnetism  [待建页(悬空引用)]  <-  1 篇论文
+special-points  [待建页(悬空引用)]  <-  1 篇论文
+chadi-cohen-method  [待建页(悬空引用)]  <-  1 篇论文
+gilat-raubenheimer-method  [待建页(悬空引用)]  <-  1 篇论文
+star-function  [待建页(悬空引用)]  <-  1 篇论文
+irreducible-wedge  [待建页(悬空引用)]  <-  1 篇论文
+fourier-interpolation  [待建页(悬空引用)]  <-  1 篇论文
+vortex-antivortex  [待建页(悬空引用)]  <-  1 篇论文
+residual-entropy  [待建页(悬空引用)]  <-  1 篇论文
+ground-state-degeneracy  [待建页(悬空引用)]  <-  1 篇论文
+frustration-index  [待建页(悬空引用)]  <-  1 篇论文
+antiferrotoroidic-order  [待建页(悬空引用)]  <-  1 篇论文
+BaSrTiO3  [待建页(悬空引用)]  <-  1 篇论文
+star-of-david  [待建页(悬空引用)]  <-  1 篇论文
+bandwidth-control  [待建页(悬空引用)]  <-  1 篇论文
+lower-hubbard-band  [待建页(悬空引用)]  <-  1 篇论文
+bandwidth-controlled-mott-transition  [待建页(悬空引用)]  <-  1 篇论文
+cdw-mott-phase  [待建页(悬空引用)]  <-  1 篇论文
+interlayer-depolymerization  [待建页(悬空引用)]  <-  1 篇论文
+ir-dimerization  [待建页(悬空引用)]  <-  1 篇论文
+lifshitz-transition  [待建页(悬空引用)]  <-  1 篇论文
+type-ii-dirac-semimetal  [待建页(悬空引用)]  <-  1 篇论文
+uniaxial-strain-device  [待建页(悬空引用)]  <-  1 篇论文
+anisotropic-rippling  [待建页(悬空引用)]  <-  1 篇论文
+low-symmetry-lattice  [待建页(悬空引用)]  <-  1 篇论文
+air-sensitive-2d-materials  [待建页(悬空引用)]  <-  1 篇论文
+reciprocal-relrod  [待建页(悬空引用)]  <-  1 篇论文
+haadf-stem  [待建页(悬空引用)]  <-  1 篇论文
+canonical-ensemble  [待建页(悬空引用)]  <-  1 篇论文
+microcanonical-ensemble  [待建页(悬空引用)]  <-  1 篇论文
+nose-hoover-thermostat  [待建页(悬空引用)]  <-  1 篇论文
+extended-system-method  [待建页(悬空引用)]  <-  1 篇论文
+virtual-variables  [待建页(悬空引用)]  <-  1 篇论文
+boltzmann-distribution  [待建页(悬空引用)]  <-  1 篇论文
+ergodic-hypothesis  [待建页(悬空引用)]  <-  1 篇论文
+statistical-mechanics  [待建页(悬空引用)]  <-  1 篇论文
+nonequilibrium-greens-function  [待建页(悬空引用)]  <-  1 篇论文
+raman-strain-splitting  [待建页(悬空引用)]  <-  1 篇论文
+single-photon-emitter  [待建页(悬空引用)]  <-  1 篇论文
+exchange-correlation-functional  [待建页(悬空引用)]  <-  1 篇论文
+generalized-gradient-approximation  [待建页(悬空引用)]  <-  1 篇论文
+local-spin-density-approximation  [待建页(悬空引用)]  <-  1 篇论文
+pw91-functional  [待建页(悬空引用)]  <-  1 篇论文
+lieb-oxford-bound  [待建页(悬空引用)]  <-  1 篇论文
+uniform-electron-gas  [待建页(悬空引用)]  <-  1 篇论文
+electride  [待建页(悬空引用)]  <-  1 篇论文
+zigzag-chain  [待建页(悬空引用)]  <-  1 篇论文
+confined-electron-gas  [待建页(悬空引用)]  <-  1 篇论文
+diffuse-scattering  [待建页(悬空引用)]  <-  1 篇论文
+bragg-peaks  [待建页(悬空引用)]  <-  1 篇论文
+open-circuit-boundary-conditions  [待建页(悬空引用)]  <-  1 篇论文
+real-space-energy-decomposition  [待建页(悬空引用)]  <-  1 篇论文
+magnetically-induced-ferroelectricity  [待建页(悬空引用)]  <-  1 篇论文
+charge-ordered-ferroelectricity  [待建页(悬空引用)]  <-  1 篇论文
+spiral-spin-structure  [待建页(悬空引用)]  <-  1 篇论文
+vertical-heterostructure  [待建页(悬空引用)]  <-  1 篇论文
+peem  [待建页(悬空引用)]  <-  1 篇论文
+oxygen-vacancy-filament  [待建页(悬空引用)]  <-  1 篇论文
+resistive-switching-memory  [待建页(悬空引用)]  <-  1 篇论文
+elemental-ferroelectrics  [待建页(悬空引用)]  <-  1 篇论文
+interlayer-dipole-coupling  [待建页(悬空引用)]  <-  1 篇论文
+quasiparticle-energy  [待建页(悬空引用)]  <-  1 篇论文
+core-valence-interaction  [待建页(悬空引用)]  <-  1 篇论文
+gw-approximation  [待建页(悬空引用)]  <-  1 篇论文
+spectral-representation-hilbert-transform  [待建页(悬空引用)]  <-  1 篇论文
+band-structure  [待建页(悬空引用)]  <-  1 篇论文
+electron-hole-recombination  [待建页(悬空引用)]  <-  1 篇论文
+in-plane-anisotropy  [待建页(悬空引用)]  <-  1 篇论文
+saturable-absorber  [待建页(悬空引用)]  <-  1 篇论文
+kelly-sidebands  [待建页(悬空引用)]  <-  1 篇论文
+time-bandwidth-product  [待建页(悬空引用)]  <-  1 篇论文
+spin-helix  [待建页(悬空引用)]  <-  1 篇论文
+raman-optical-activity  [待建页(悬空引用)]  <-  1 篇论文
+birefringence  [待建页(悬空引用)]  <-  1 篇论文
+rotational-symmetry-breaking  [待建页(悬空引用)]  <-  1 篇论文
+skyrmions  [待建页(悬空引用)]  <-  1 篇论文
+improper-electronic-ferroelectricity  [待建页(悬空引用)]  <-  1 篇论文
+pe-hysteresis-loop  [待建页(悬空引用)]  <-  1 篇论文
+pfm-piezoresponse-force-microscopy  [待建页(悬空引用)]  <-  1 篇论文
+resistive-switching  [已建页]  <-  1 篇论文
+valence-change-mechanism  [待建页(悬空引用)]  <-  1 篇论文
+diamond-quantum-magnetometry  [待建页(悬空引用)]  <-  1 篇论文
+emergent-magnetic-charge  [待建页(悬空引用)]  <-  1 篇论文
+meron-antimeron  [待建页(悬空引用)]  <-  1 篇论文
+morin-transition  [待建页(悬空引用)]  <-  1 篇论文
+nv-center  [待建页(悬空引用)]  <-  1 篇论文
+staggered-vorticity  [待建页(悬空引用)]  <-  1 篇论文
+composite-ferroelectricity  [待建页(悬空引用)]  <-  1 篇论文
+polarization-multistates  [待建页(悬空引用)]  <-  1 篇论文
+bader-analysis  [待建页(悬空引用)]  <-  1 篇论文
+zero-flux-surface  [待建页(悬空引用)]  <-  1 篇论文
+steepest-ascent  [待建页(悬空引用)]  <-  1 篇论文
+mulliken-population-analysis  [待建页(悬空引用)]  <-  1 篇论文
+correction-vector  [待建页(悬空引用)]  <-  1 篇论文
+steepest-ascent-path  [待建页(悬空引用)]  <-  1 篇论文
+non-nuclear-attractor  [待建页(悬空引用)]  <-  1 篇论文
+intercalation-engineering  [待建页(悬空引用)]  <-  1 篇论文
+electron-filling-magnetism  [待建页(悬空引用)]  <-  1 篇论文
+zigzag-antiferromagnetism  [待建页(悬空引用)]  <-  1 篇论文
+fm-afm-superlattice  [待建页(悬空引用)]  <-  1 篇论文
+selective-etching  [待建页(悬空引用)]  <-  1 篇论文
+surface-termination  [待建页(悬空引用)]  <-  1 篇论文
+plasmonics  [待建页(悬空引用)]  <-  1 篇论文
+mxetronics  [待建页(悬空引用)]  <-  1 篇论文
+solid-solution  [待建页(悬空引用)]  <-  1 篇论文
+mixed-metal-ordering  [待建页(悬空引用)]  <-  1 篇论文
+liquid-crystal  [待建页(悬空引用)]  <-  1 篇论文
+electromagnetic-shielding  [待建页(悬空引用)]  <-  1 篇论文
+molecular-field  [待建页(悬空引用)]  <-  1 篇论文
+bloch-spin-wave  [待建页(悬空引用)]  <-  1 篇论文
+bethe-peierls-weiss-method  [待建页(悬空引用)]  <-  1 篇论文
+brillouin-function  [待建页(悬空引用)]  <-  1 篇论文
+ising-model  [待建页(悬空引用)]  <-  1 篇论文
+twin-domain-boundary  [待建页(悬空引用)]  <-  1 篇论文
+generalized-stacking-fault-energy  [待建页(悬空引用)]  <-  1 篇论文
+geometric-phase-analysis  [待建页(悬空引用)]  <-  1 篇论文
+displacement-induced-twinning  [待建页(悬空引用)]  <-  1 篇论文
+shear-strain  [待建页(悬空引用)]  <-  1 篇论文
+peierls-framework  [待建页(悬空引用)]  <-  1 篇论文
+partial-dislocation  [待建页(悬空引用)]  <-  1 篇论文
+conductive-mof  [待建页(悬空引用)]  <-  1 篇论文
+chemiresistive-sensing  [待建页(悬空引用)]  <-  1 篇论文
+charge-trap-screening  [待建页(悬空引用)]  <-  1 篇论文
+tetrathiafulvalene  [待建页(悬空引用)]  <-  1 篇论文
+through-space-charge-transport  [待建页(悬空引用)]  <-  1 篇论文
+extrinsic-charge-mobility  [待建页(悬空引用)]  <-  1 篇论文
+d0-magnetism  [待建页(悬空引用)]  <-  1 篇论文
+ferroelectric-control-of-magnetism  [待建页(悬空引用)]  <-  1 篇论文
+computational-hydrogen-electrode  [待建页(悬空引用)]  <-  1 篇论文
+sabatier-principle  [待建页(悬空引用)]  <-  1 篇论文
+oxygen-reduction-reaction  [待建页(悬空引用)]  <-  1 篇论文
+oxygen-evolution-reaction  [待建页(悬空引用)]  <-  1 篇论文
+potential-determining-step  [待建页(悬空引用)]  <-  1 篇论文
+x-ray-raman-scattering  [待建页(悬空引用)]  <-  1 篇论文
+x-ray-absorption-spectroscopy  [待建页(悬空引用)]  <-  1 篇论文
+hydrogen-bond  [待建页(悬空引用)]  <-  1 篇论文
+radial-distribution-function  [待建页(悬空引用)]  <-  1 篇论文
+heterogeneous-patch-model  [待建页(悬空引用)]  <-  1 篇论文
+1t-prime-phase  [待建页(悬空引用)]  <-  1 篇论文
+substrate-effect  [待建页(悬空引用)]  <-  1 篇论文
+d1-electronic-configuration  [待建页(悬空引用)]  <-  1 篇论文
+octahedral-crystal-field  [待建页(悬空引用)]  <-  1 篇论文
+exchange-splitting  [待建页(悬空引用)]  <-  1 篇论文
+xmcd  [待建页(悬空引用)]  <-  1 篇论文
+non-collinear-magnetism  [待建页(悬空引用)]  <-  1 篇论文
+helical-spin-order  [待建页(悬空引用)]  <-  1 篇论文
+type-ii-multiferroic  [待建页(悬空引用)]  <-  1 篇论文
+knb-mechanism  [待建页(悬空引用)]  <-  1 篇论文
+inverse-dm-interaction  [待建页(悬空引用)]  <-  1 篇论文
+kitaev-interaction  [待建页(悬空引用)]  <-  1 篇论文
+magnon-phonon-coupling  [待建页(悬空引用)]  <-  1 篇论文
+bipolar-magnetic-semiconductor  [待建页(悬空引用)]  <-  1 篇论文
+selective-charge-transfer  [待建页(悬空引用)]  <-  1 篇论文
+ripplocation  [待建页(悬空引用)]  <-  1 篇论文
+berry-curvature-dipole  [待建页(悬空引用)]  <-  1 篇论文
+moire-ferroelectricity  [待建页(悬空引用)]  <-  1 篇论文
+type-i-multiferroics  [待建页(悬空引用)]  <-  1 篇论文
+interlayer-coupling-gradient  [待建页(悬空引用)]  <-  1 篇论文
+ferroelectric-topological-defects  [待建页(悬空引用)]  <-  1 篇论文
+flux-closure  [待建页(悬空引用)]  <-  1 篇论文
+polarization-phase-diagram  [待建页(悬空引用)]  <-  1 篇论文
+giant-piezoelectricity  [待建页(悬空引用)]  <-  1 篇论文
+multiscale-simulation  [待建页(悬空引用)]  <-  1 篇论文
+landau-double-well  [待建页(悬空引用)]  <-  1 篇论文
+linear-dichroism  [待建页(悬空引用)]  <-  1 篇论文
+phase-change-memory  [待建页(悬空引用)]  <-  1 篇论文
+stt-ram  [待建页(悬空引用)]  <-  1 篇论文
+mlc-stt-ram  [待建页(悬空引用)]  <-  1 篇论文
+sneak-path-current  [待建页(悬空引用)]  <-  1 篇论文
+write-endurance  [待建页(悬空引用)]  <-  1 篇论文
+wear-leveling  [待建页(悬空引用)]  <-  1 篇论文
+pcm-dram-hybrid-memory  [待建页(悬空引用)]  <-  1 篇论文
+supersuperexchange  [待建页(悬空引用)]  <-  1 篇论文
+magnetic-phase-transition  [待建页(悬空引用)]  <-  1 篇论文
+d-orbital-hopping  [待建页(悬空引用)]  <-  1 篇论文
+band-folding  [待建页(悬空引用)]  <-  1 篇论文
+carrier-tuning  [待建页(悬空引用)]  <-  1 篇论文
+orbital-selective-hybridization  [待建页(悬空引用)]  <-  1 篇论文
+ripples  [待建页(悬空引用)]  <-  1 篇论文
+ripple-engineering  [待建页(悬空引用)]  <-  1 篇论文
+polar-nano-regions  [待建页(悬空引用)]  <-  1 篇论文
+avalanche-dynamics  [待建页(悬空引用)]  <-  1 篇论文
+atomistic-order-parameter  [待建页(悬空引用)]  <-  1 篇论文
+za-phonon-mode  [待建页(悬空引用)]  <-  1 篇论文
+heterogeneous-nucleation  [待建页(悬空引用)]  <-  1 篇论文
+power-law-statistics  [待建页(悬空引用)]  <-  1 篇论文
+piezoresistive-effect  [待建页(悬空引用)]  <-  1 篇论文
+wrinkle-strain  [待建页(悬空引用)]  <-  1 篇论文
+shg-strain-mapping  [待建页(悬空引用)]  <-  1 篇论文
+phase-transition-2h-1tp  [待建页(悬空引用)]  <-  1 篇论文
+intercalation-induced-symmetry-breaking  [待建页(悬空引用)]  <-  1 篇论文
+multiferroic-tunneling-junction  [待建页(悬空引用)]  <-  1 篇论文
+fully-compensated-ferrimagnet  [待建页(悬空引用)]  <-  1 篇论文
+gap-chern-number  [待建页(悬空引用)]  <-  1 篇论文
+cr4s4fbr2  [待建页(悬空引用)]  <-  1 篇论文
+surface-terminations-tx  [待建页(悬空引用)]  <-  1 篇论文
+janus-mxene  [待建页(悬空引用)]  <-  1 篇论文
+i-mxene  [待建页(悬空引用)]  <-  1 篇论文
+sc2co2  [待建页(悬空引用)]  <-  1 篇论文
+v2c-mxene  [待建页(悬空引用)]  <-  1 篇论文
+ti3c2tx  [待建页(悬空引用)]  <-  1 篇论文
+piezoresponse-force-microscopy  [待建页(悬空引用)]  <-  1 篇论文
+stoner-ferromagnetism  [待建页(悬空引用)]  <-  1 篇论文
+bilayer-stacking-ferroelectricity  [待建页(悬空引用)]  <-  1 篇论文
+layer-by-layer-switching  [待建页(悬空引用)]  <-  1 篇论文
+non-stoichiometric-ferroelectricity  [待建页(悬空引用)]  <-  1 篇论文
+slide-electronics  [待建页(悬空引用)]  <-  1 篇论文
+heisenberg-exchange  [待建页(悬空引用)]  <-  1 篇论文
+spin-transfer-torque  [待建页(悬空引用)]  <-  1 篇论文
+skyrmion-hall-effect  [待建页(悬空引用)]  <-  1 篇论文
+llg-equation  [待建页(悬空引用)]  <-  1 篇论文
+racetrack-memory  [待建页(悬空引用)]  <-  1 篇论文
+symmetry-analysis  [待建页(悬空引用)]  <-  1 篇论文
+optical-kerr-effect  [待建页(悬空引用)]  <-  1 篇论文
+electrical-writing-optical-reading  [待建页(悬空引用)]  <-  1 篇论文
+high-throughput-screening  [待建页(悬空引用)]  <-  1 篇论文
+kagome-lattice  [待建页(悬空引用)]  <-  1 篇论文
+2d-mof  [待建页(悬空引用)]  <-  1 篇论文
+anisotropic-superconductivity  [待建页(悬空引用)]  <-  1 篇论文
+phase-interlocked  [待建页(悬空引用)]  <-  1 篇论文
+non-vdw-exfoliation  [待建页(悬空引用)]  <-  1 篇论文
+cohp-icohp  [待建页(悬空引用)]  <-  1 篇论文
+cneb  [待建页(悬空引用)]  <-  1 篇论文
+magnetic-force-theory  [待建页(悬空引用)]  <-  1 篇论文
+charge-ordering  [待建页(悬空引用)]  <-  1 篇论文
+high-spin-state  [待建页(悬空引用)]  <-  1 篇论文
+redox-potential  [待建页(悬空引用)]  <-  1 篇论文
+electron-localization  [待建页(悬空引用)]  <-  1 篇论文
+
+【实体被论文引用】（共 403 个实体被引用）
+TMDs  [已建页]  <-  74 篇论文
+VASP  [待建页(悬空引用)]  <-  72 篇论文
+domain-wall  [待建页(悬空引用)]  <-  40 篇论文
+BiFeO3  [已建页]  <-  37 篇论文
+In2Se3  [已建页]  <-  35 篇论文
+WTe2  [已建页]  <-  33 篇论文
+h-BN  [待建页(悬空引用)]  <-  33 篇论文
+graphene  [待建页(悬空引用)]  <-  30 篇论文
+SnTe  [待建页(悬空引用)]  <-  28 篇论文
+MXenes  [待建页(悬空引用)]  <-  17 篇论文
+Fe3GeTe2  [已建页]  <-  15 篇论文
+BaTiO3  [待建页(悬空引用)]  <-  14 篇论文
+Wannier90  [待建页(悬空引用)]  <-  12 篇论文
+MoS2  [已建页]  <-  10 篇论文
+CrI3  [已建页]  <-  10 篇论文
+CrTe2  [待建页(悬空引用)]  <-  9 篇论文
+SrTiO3  [待建页(悬空引用)]  <-  8 篇论文
+CuInP2S6  [待建页(悬空引用)]  <-  8 篇论文
+HoMnO3  [待建页(悬空引用)]  <-  8 篇论文
+PbTiO3  [待建页(悬空引用)]  <-  7 篇论文
+WSe2  [待建页(悬空引用)]  <-  7 篇论文
+PZT  [待建页(悬空引用)]  <-  7 篇论文
+bilayer-graphene  [待建页(悬空引用)]  <-  7 篇论文
+NbSe2  [已建页]  <-  6 篇论文
+MoTe2  [已建页]  <-  6 篇论文
+NiI2  [已建页]  <-  6 篇论文
+Cr2Ge2Te6  [待建页(悬空引用)]  <-  6 篇论文
+MoSe2  [待建页(悬空引用)]  <-  6 篇论文
+WIEN2k  [待建页(悬空引用)]  <-  5 篇论文
+TaSe2  [已建页]  <-  5 篇论文
+HfO2  [待建页(悬空引用)]  <-  5 篇论文
+FTJ  [待建页(悬空引用)]  <-  5 篇论文
+stilbene  [待建页(悬空引用)]  <-  4 篇论文
+PbTe  [待建页(悬空引用)]  <-  4 篇论文
+GaAs  [待建页(悬空引用)]  <-  4 篇论文
+VSe2  [已建页]  <-  4 篇论文
+TaS2  [已建页]  <-  3 篇论文
+NbS2  [待建页(悬空引用)]  <-  3 篇论文
+SnS  [待建页(悬空引用)]  <-  3 篇论文
+WS2  [已建页]  <-  3 篇论文
+PMMA  [待建页(悬空引用)]  <-  3 篇论文
+dicyanostilbene-1a  [待建页(悬空引用)]  <-  3 篇论文
+SrRuO3  [待建页(悬空引用)]  <-  3 篇论文
+graphene-oxide  [待建页(悬空引用)]  <-  3 篇论文
+LAMMPS  [待建页(悬空引用)]  <-  3 篇论文
+PVDF-TrFE  [待建页(悬空引用)]  <-  3 篇论文
+VTe2  [待建页(悬空引用)]  <-  3 篇论文
+HgI2  [待建页(悬空引用)]  <-  3 篇论文
+ZrI2  [待建页(悬空引用)]  <-  3 篇论文
+LuFe2O4  [待建页(悬空引用)]  <-  3 篇论文
+1T-TaS2  [待建页(悬空引用)]  <-  3 篇论文
+SrMnO3  [待建页(悬空引用)]  <-  3 篇论文
+deep-potential  [待建页(悬空引用)]  <-  3 篇论文
+ferroelectric-memristor  [待建页(悬空引用)]  <-  3 篇论文
+ReS2  [待建页(悬空引用)]  <-  3 篇论文
+SiC  [待建页(悬空引用)]  <-  3 篇论文
+Quantum-ESPRESSO  [待建页(悬空引用)]  <-  3 篇论文
+black-phosphorus  [待建页(悬空引用)]  <-  3 篇论文
+CuCrSe2  [待建页(悬空引用)]  <-  3 篇论文
+2H-TaSe2  [待建页(悬空引用)]  <-  2 篇论文
+ARPES  [待建页(悬空引用)]  <-  2 篇论文
+ITO  [待建页(悬空引用)]  <-  2 篇论文
+PFM  [待建页(悬空引用)]  <-  2 篇论文
+CuCrP2S6  [待建页(悬空引用)]  <-  2 篇论文
+PMT  [待建页(悬空引用)]  <-  2 篇论文
+dicyanostilbene-1b  [待建页(悬空引用)]  <-  2 篇论文
+DCS  [待建页(悬空引用)]  <-  2 篇论文
+fluorescein  [待建页(悬空引用)]  <-  2 篇论文
+quinine-bisulfate  [待建页(悬空引用)]  <-  2 篇论文
+spatial-light-modulator  [待建页(悬空引用)]  <-  2 篇论文
+SU-8  [待建页(悬空引用)]  <-  2 篇论文
+GaN  [待建页(悬空引用)]  <-  2 篇论文
+TiSe2  [已建页]  <-  2 篇论文
+RTe3  [待建页(悬空引用)]  <-  2 篇论文
+MATLAB  [待建页(悬空引用)]  <-  2 篇论文
+TTF  [待建页(悬空引用)]  <-  2 篇论文
+triphenylamine  [待建页(悬空引用)]  <-  2 篇论文
+Ti  [待建页(悬空引用)]  <-  2 篇论文
+Moldy  [待建页(悬空引用)]  <-  2 篇论文
+HOPG  [待建页(悬空引用)]  <-  2 篇论文
+MnSe2  [待建页(悬空引用)]  <-  2 篇论文
+FeFET  [已建页]  <-  2 篇论文
+HgBr2  [待建页(悬空引用)]  <-  2 篇论文
+PHONOPY  [待建页(悬空引用)]  <-  2 篇论文
+GeSe  [待建页(悬空引用)]  <-  2 篇论文
+BiMnO3  [待建页(悬空引用)]  <-  2 篇论文
+YMnO3  [待建页(悬空引用)]  <-  2 篇论文
+hf2vc2f2  [待建页(悬空引用)]  <-  2 篇论文
+group-iv-monochalcogenides  [待建页(悬空引用)]  <-  2 篇论文
+MnBi2Te4  [待建页(悬空引用)]  <-  2 篇论文
+MnSe  [待建页(悬空引用)]  <-  2 篇论文
+MoSi2N4  [待建页(悬空引用)]  <-  2 篇论文
+graphene-tetralayer  [待建页(悬空引用)]  <-  2 篇论文
+MAX-phases  [待建页(悬空引用)]  <-  2 篇论文
+Sc2CO2  [待建页(悬空引用)]  <-  2 篇论文
+Quantum-Espresso  [待建页(悬空引用)]  <-  2 篇论文
+Pt  [待建页(悬空引用)]  <-  2 篇论文
+Mo2Ti2C3Tx  [待建页(悬空引用)]  <-  2 篇论文
+GdI2  [待建页(悬空引用)]  <-  2 篇论文
+CuCrS2  [待建页(悬空引用)]  <-  2 篇论文
+TiO2-SiO2  [待建页(悬空引用)]  <-  1 篇论文
+polymer-optical-fiber  [待建页(悬空引用)]  <-  1 篇论文
+FTO  [待建页(悬空引用)]  <-  1 篇论文
+La0.67Sr0.33MnO3  [待建页(悬空引用)]  <-  1 篇论文
+PbZrxTi1-xO3  [待建页(悬空引用)]  <-  1 篇论文
+PLD  [待建页(悬空引用)]  <-  1 篇论文
+c-AFM  [待建页(悬空引用)]  <-  1 篇论文
+dmol3  [待建页(悬空引用)]  <-  1 篇论文
+Salen  [待建页(悬空引用)]  <-  1 篇论文
+glassy-carbon  [待建页(悬空引用)]  <-  1 篇论文
+Ormocer  [待建页(悬空引用)]  <-  1 篇论文
+PEGDA  [待建页(悬空引用)]  <-  1 篇论文
+PCL  [待建页(悬空引用)]  <-  1 篇论文
+PLA  [待建页(悬空引用)]  <-  1 篇论文
+BSA  [待建页(悬空引用)]  <-  1 篇论文
+fibrinogen  [待建页(悬空引用)]  <-  1 篇论文
+collagen  [待建页(悬空引用)]  <-  1 篇论文
+fibrin  [待建页(悬空引用)]  <-  1 篇论文
+PEG  [待建页(悬空引用)]  <-  1 篇论文
+TORP  [待建页(悬空引用)]  <-  1 篇论文
+hydroxyapatite  [待建页(悬空引用)]  <-  1 篇论文
+Bi2Fe4O9  [待建页(悬空引用)]  <-  1 篇论文
+FullProf  [待建页(悬空引用)]  <-  1 篇论文
+ILL-D20  [待建页(悬空引用)]  <-  1 篇论文
+Ba3VO4-2  [待建页(悬空引用)]  <-  1 篇论文
+europium-dopant  [待建页(悬空引用)]  <-  1 篇论文
+Co-60  [待建页(悬空引用)]  <-  1 篇论文
+storage-oscilloscope  [待建页(悬空引用)]  <-  1 篇论文
+JCPDS  [待建页(悬空引用)]  <-  1 篇论文
+P1  [待建页(悬空引用)]  <-  1 篇论文
+dicyanostilbene  [待建页(悬空引用)]  <-  1 篇论文
+P2  [待建页(悬空引用)]  <-  1 篇论文
+dimethylamino  [待建页(悬空引用)]  <-  1 篇论文
+diphenylamino  [待建页(悬空引用)]  <-  1 篇论文
+cyano-group  [待建页(悬空引用)]  <-  1 篇论文
+glycerol  [待建页(悬空引用)]  <-  1 篇论文
+DMSO  [待建页(悬空引用)]  <-  1 篇论文
+CuxNbS2  [待建页(悬空引用)]  <-  1 篇论文
+ZnO  [待建页(悬空引用)]  <-  1 篇论文
+SnO2  [待建页(悬空引用)]  <-  1 篇论文
+TiO2  [待建页(悬空引用)]  <-  1 篇论文
+Al-doped-ZnO  [待建页(悬空引用)]  <-  1 篇论文
+Sn-doped-ZnO  [待建页(悬空引用)]  <-  1 篇论文
+Ga-doped-ZnO  [待建页(悬空引用)]  <-  1 篇论文
+QCM  [待建页(悬空引用)]  <-  1 篇论文
+interdigitated-electrode  [待建页(悬空引用)]  <-  1 篇论文
+labyrinth-electrode  [待建页(悬空引用)]  <-  1 篇论文
+castellated-electrode  [待建页(悬空引用)]  <-  1 篇论文
+circle-electrode  [待建页(悬空引用)]  <-  1 篇论文
+BBO-crystal  [待建页(悬空引用)]  <-  1 篇论文
+CCD-camera  [待建页(悬空引用)]  <-  1 篇论文
+Holoeye-PLUTO  [待建页(悬空引用)]  <-  1 篇论文
+Olympus-20x-objective  [待建页(悬空引用)]  <-  1 篇论文
+ZEISS-Gemini-300  [待建页(悬空引用)]  <-  1 篇论文
+femtosecond-fiber-laser  [待建页(悬空引用)]  <-  1 篇论文
+mechanical-shutter  [待建页(悬空引用)]  <-  1 篇论文
+ND-filter  [待建页(悬空引用)]  <-  1 篇论文
+first-principles-piezoelectric-tensor  [待建页(悬空引用)]  <-  1 篇论文
+iron-pnictides  [待建页(悬空引用)]  <-  1 篇论文
+DPHPA  [待建页(悬空引用)]  <-  1 篇论文
+E7-liquid-crystal  [待建页(悬空引用)]  <-  1 篇论文
+bis-diphenylamino-diphenyl-hexatriene  [待建页(悬空引用)]  <-  1 篇论文
+N-vinyl-pyrrolidinone  [待建页(悬空引用)]  <-  1 篇论文
+ITO-glass  [待建页(悬空引用)]  <-  1 篇论文
+ZnSe  [待建页(悬空引用)]  <-  1 篇论文
+carbon-nanotube  [待建页(悬空引用)]  <-  1 篇论文
+Si-SiGe-nanowire  [待建页(悬空引用)]  <-  1 篇论文
+Ti-sapphire-laser  [待建页(悬空引用)]  <-  1 篇论文
+Nanoscribe  [待建页(悬空引用)]  <-  1 篇论文
+Glassomer  [待建页(悬空引用)]  <-  1 篇论文
+AR-N-4340  [待建页(悬空引用)]  <-  1 篇论文
+thioxanthone-photoinitiator  [待建页(悬空引用)]  <-  1 篇论文
+AOM  [待建页(悬空引用)]  <-  1 篇论文
+LabVIEW  [待建页(悬空引用)]  <-  1 篇论文
+AFM  [待建页(悬空引用)]  <-  1 篇论文
+piezo-nanopositioning-stage  [待建页(悬空引用)]  <-  1 篇论文
+sub-nanosecond-laser  [待建页(悬空引用)]  <-  1 篇论文
+SrAl2O4  [待建页(悬空引用)]  <-  1 篇论文
+Eu2-plus  [待建页(悬空引用)]  <-  1 篇论文
+RCA931-pmt  [待建页(悬空引用)]  <-  1 篇论文
+Nucleonix-TL10091  [待建页(悬空引用)]  <-  1 篇论文
+Shimadzu-UV1700  [待建页(悬空引用)]  <-  1 篇论文
+Rigaku-D  [待建页(悬空引用)]  <-  1 篇论文
+GdTe3  [待建页(悬空引用)]  <-  1 篇论文
+LuTe3  [待建页(悬空引用)]  <-  1 篇论文
+LuTe2  [待建页(悬空引用)]  <-  1 篇论文
+ABINIT  [待建页(悬空引用)]  <-  1 篇论文
+potassium-40  [待建页(悬空引用)]  <-  1 篇论文
+three-level-atom  [待建页(悬空引用)]  <-  1 篇论文
+single-mode-fiber  [待建页(悬空引用)]  <-  1 篇论文
+optical-loss-test-set  [待建页(悬空引用)]  <-  1 篇论文
+BLFO  [待建页(悬空引用)]  <-  1 篇论文
+TaTe2  [待建页(悬空引用)]  <-  1 篇论文
+TaSe2-xTex  [待建页(悬空引用)]  <-  1 篇论文
+GSAS-II  [待建页(悬空引用)]  <-  1 篇论文
+RMCpp  [待建页(悬空引用)]  <-  1 篇论文
+advanced-photon-source  [待建页(悬空引用)]  <-  1 篇论文
+TTFClO4  [待建页(悬空引用)]  <-  1 篇论文
+Origin  [待建页(悬空引用)]  <-  1 篇论文
+titanium-sapphire-laser  [待建页(悬空引用)]  <-  1 篇论文
+PbSnTe  [待建页(悬空引用)]  <-  1 篇论文
+KCl  [待建页(悬空引用)]  <-  1 篇论文
+HgCdTe  [待建页(悬空引用)]  <-  1 篇论文
+Perkin-Elmer  [待建页(悬空引用)]  <-  1 篇论文
+oscilloscope  [待建页(悬空引用)]  <-  1 篇论文
+pulsed-led  [待建页(悬空引用)]  <-  1 篇论文
+photodiode  [待建页(悬空引用)]  <-  1 篇论文
+SrAl2O4-Eu  [待建页(悬空引用)]  <-  1 篇论文
+g-go-nanosheets  [待建页(悬空引用)]  <-  1 篇论文
+PAH-PSS-multilayer  [待建页(悬空引用)]  <-  1 篇论文
+hollow-core-photonic-crystal-fiber  [待建页(悬空引用)]  <-  1 篇论文
+optical-fiber  [待建页(悬空引用)]  <-  1 篇论文
+gold  [待建页(悬空引用)]  <-  1 篇论文
+photoresist  [待建页(悬空引用)]  <-  1 篇论文
+FemtoBond-4B  [待建页(悬空引用)]  <-  1 篇论文
+STL  [待建页(悬空引用)]  <-  1 篇论文
+Ti-Sa-laser  [待建页(悬空引用)]  <-  1 篇论文
+coumarin  [待建页(悬空引用)]  <-  1 篇论文
+diphenyliodonium-salt  [待建页(悬空引用)]  <-  1 篇论文
+habi  [待建页(悬空引用)]  <-  1 篇论文
+thiazine-dye  [待建页(悬空引用)]  <-  1 篇论文
+xanthene-dye  [待建页(悬空引用)]  <-  1 篇论文
+femtosecond-laser  [待建页(悬空引用)]  <-  1 篇论文
+SZ-2080  [待建页(悬空引用)]  <-  1 篇论文
+metasurface  [待建页(悬空引用)]  <-  1 篇论文
+PHAROS-laser  [待建页(悬空引用)]  <-  1 篇论文
+DFTB+  [待建页(悬空引用)]  <-  1 篇论文
+carbon-nanotubes  [待建页(悬空引用)]  <-  1 篇论文
+bamboo-like-N-CNTs  [待建页(悬空引用)]  <-  1 篇论文
+TTF-CA  [待建页(悬空引用)]  <-  1 篇论文
+chloranil  [待建页(悬空引用)]  <-  1 篇论文
+current-collector  [待建页(悬空引用)]  <-  1 篇论文
+Si  [待建页(悬空引用)]  <-  1 篇论文
+Ge  [待建页(悬空引用)]  <-  1 篇论文
+SiGe  [待建页(悬空引用)]  <-  1 篇论文
+agarose  [待建页(悬空引用)]  <-  1 篇论文
+dcsmf  [待建页(悬空引用)]  <-  1 篇论文
+corning-smf-28e  [待建页(悬空引用)]  <-  1 篇论文
+dfb-ld  [待建页(悬空引用)]  <-  1 篇论文
+pmma  [待建页(悬空引用)]  <-  1 篇论文
+pvdf  [待建页(悬空引用)]  <-  1 篇论文
+climatic-chamber  [待建页(悬空引用)]  <-  1 篇论文
+optical-power-meter  [待建页(悬空引用)]  <-  1 篇论文
+pmma-pvdf-blend  [待建页(悬空引用)]  <-  1 篇论文
+BCPC  [待建页(悬空引用)]  <-  1 篇论文
+BCPSO  [待建页(悬空引用)]  <-  1 篇论文
+spherical-lensed-fiber  [待建页(悬空引用)]  <-  1 篇论文
+laser-diode  [待建页(悬空引用)]  <-  1 篇论文
+super-luminescence-diode  [待建页(悬空引用)]  <-  1 篇论文
+lock-in-amplifier  [待建页(悬空引用)]  <-  1 篇论文
+si-photodiode  [待建页(悬空引用)]  <-  1 篇论文
+optical-interference-filter  [待建页(悬空引用)]  <-  1 篇论文
+fiber-coupler  [待建页(悬空引用)]  <-  1 篇论文
+thermo-electric-cooler  [待建页(悬空引用)]  <-  1 篇论文
+low-carbon-steel  [待建页(悬空引用)]  <-  1 篇论文
+ferrite  [待建页(悬空引用)]  <-  1 篇论文
+austenite  [待建页(悬空引用)]  <-  1 篇论文
+cementite  [待建页(悬空引用)]  <-  1 篇论文
+fe-c-phase-diagram  [待建页(悬空引用)]  <-  1 篇论文
+Ti-6Al-4V  [待建页(悬空引用)]  <-  1 篇论文
+GULP  [待建页(悬空引用)]  <-  1 篇论文
+Elk  [待建页(悬空引用)]  <-  1 篇论文
+LAPW  [待建页(悬空引用)]  <-  1 篇论文
+LMTO  [待建页(悬空引用)]  <-  1 篇论文
+Car-Parrinello  [待建页(悬空引用)]  <-  1 篇论文
+MnFO3  [待建页(悬空引用)]  <-  1 篇论文
+Fe2  [待建页(悬空引用)]  <-  1 篇论文
+Fe3GaTe2  [待建页(悬空引用)]  <-  1 篇论文
+Mn2N  [待建页(悬空引用)]  <-  1 篇论文
+Mn2NO2  [待建页(悬空引用)]  <-  1 篇论文
+Mn2NOF  [待建页(悬空引用)]  <-  1 篇论文
+V2NOF  [待建页(悬空引用)]  <-  1 篇论文
+CrS2  [待建页(悬空引用)]  <-  1 篇论文
+CrSe2  [待建页(悬空引用)]  <-  1 篇论文
+MnS2  [待建页(悬空引用)]  <-  1 篇论文
+MnTe2  [待建页(悬空引用)]  <-  1 篇论文
+HZO  [待建页(悬空引用)]  <-  1 篇论文
+FeRAM  [待建页(悬空引用)]  <-  1 篇论文
+Fe-Diode  [待建页(悬空引用)]  <-  1 篇论文
+FeCAP  [待建页(悬空引用)]  <-  1 篇论文
+IGZO  [待建页(悬空引用)]  <-  1 篇论文
+TiN  [待建页(悬空引用)]  <-  1 篇论文
+ALD  [待建页(悬空引用)]  <-  1 篇论文
+Datta-Das-spin-FET  [待建页(悬空引用)]  <-  1 篇论文
+CoCr2O4  [待建页(悬空引用)]  <-  1 篇论文
+mica  [待建页(悬空引用)]  <-  1 篇论文
+Au  [待建页(悬空引用)]  <-  1 篇论文
+twisted-bilayer-graphene  [待建页(悬空引用)]  <-  1 篇论文
+gold-nanodisks  [待建页(悬空引用)]  <-  1 篇论文
+gold-nanoparticles  [待建页(悬空引用)]  <-  1 篇论文
+crispr-cas12a-protein  [待建页(悬空引用)]  <-  1 篇论文
+dna-origami-structure  [待建页(悬空引用)]  <-  1 篇论文
+SCALE-UP  [待建页(悬空引用)]  <-  1 篇论文
+BTO  [待建页(悬空引用)]  <-  1 篇论文
+bp-bi-bismuth  [待建页(悬空引用)]  <-  1 篇论文
+d1t-mote2  [待建页(悬空引用)]  <-  1 篇论文
+3r-tmds  [待建页(悬空引用)]  <-  1 篇论文
+rbn-rhombohedral-bn  [待建页(悬空引用)]  <-  1 篇论文
+mn-bi2-te4-mbt  [待建页(悬空引用)]  <-  1 篇论文
+AlN  [待建页(悬空引用)]  <-  1 篇论文
+DyScO3  [待建页(悬空引用)]  <-  1 篇论文
+SmScO3  [待建页(悬空引用)]  <-  1 篇论文
+GdScO3  [待建页(悬空引用)]  <-  1 篇论文
+Bi0.5Na0.5TiO3  [待建页(悬空引用)]  <-  1 篇论文
+RuCl2  [待建页(悬空引用)]  <-  1 篇论文
+RuBr2  [待建页(悬空引用)]  <-  1 篇论文
+RuI2  [待建页(悬空引用)]  <-  1 篇论文
+Ir-111  [待建页(悬空引用)]  <-  1 篇论文
+Si-100  [待建页(悬空引用)]  <-  1 篇论文
+LaMnO3  [待建页(悬空引用)]  <-  1 篇论文
+crbr3  [待建页(悬空引用)]  <-  1 篇论文
+c6n8h-organic-multiferroic  [待建页(悬空引用)]  <-  1 篇论文
+SiO2  [待建页(悬空引用)]  <-  1 篇论文
+FeS-FET  [待建页(悬空引用)]  <-  1 篇论文
+FeCT  [待建页(悬空引用)]  <-  1 篇论文
+FSJ  [待建页(悬空引用)]  <-  1 篇论文
+SIESTA  [待建页(悬空引用)]  <-  1 篇论文
+VS2  [待建页(悬空引用)]  <-  1 篇论文
+NbI4  [待建页(悬空引用)]  <-  1 篇论文
+benzene  [待建页(悬空引用)]  <-  1 篇论文
+MnPSe3  [已建页]  <-  1 篇论文
+PtBr3  [待建页(悬空引用)]  <-  1 篇论文
+VI2  [待建页(悬空引用)]  <-  1 篇论文
+GeC  [待建页(悬空引用)]  <-  1 篇论文
+InN  [待建页(悬空引用)]  <-  1 篇论文
+BoltzTrap  [待建页(悬空引用)]  <-  1 篇论文
+Ti2CO2  [待建页(悬空引用)]  <-  1 篇论文
+Sc2CF2  [待建页(悬空引用)]  <-  1 篇论文
+Cr2C  [待建页(悬空引用)]  <-  1 篇论文
+Cr2N  [待建页(悬空引用)]  <-  1 篇论文
+2H-TaS2  [待建页(悬空引用)]  <-  1 篇论文
+Pt-Ir-tip  [待建页(悬空引用)]  <-  1 篇论文
+Fireball  [待建页(悬空引用)]  <-  1 篇论文
+STM  [待建页(悬空引用)]  <-  1 篇论文
+silicene  [待建页(悬空引用)]  <-  1 篇论文
+Bi2Te2Se  [待建页(悬空引用)]  <-  1 篇论文
+YIG  [待建页(悬空引用)]  <-  1 篇论文
+Co  [待建页(悬空引用)]  <-  1 篇论文
+MgO  [待建页(悬空引用)]  <-  1 篇论文
+EuS  [待建页(悬空引用)]  <-  1 篇论文
+Heusler-alloy  [待建页(悬空引用)]  <-  1 篇论文
+EuTe4  [待建页(悬空引用)]  <-  1 篇论文
+LiNbO3  [待建页(悬空引用)]  <-  1 篇论文
+BaSrTiO3  [待建页(悬空引用)]  <-  1 篇论文
+1T-TaSe2  [待建页(悬空引用)]  <-  1 篇论文
+1T-NbSe2  [待建页(悬空引用)]  <-  1 篇论文
+IrTe2  [待建页(悬空引用)]  <-  1 篇论文
+PWmat  [待建页(悬空引用)]  <-  1 篇论文
+CADPAC  [待建页(悬空引用)]  <-  1 篇论文
+ITQ-4  [待建页(悬空引用)]  <-  1 篇论文
+Cs  [待建页(悬空引用)]  <-  1 篇论文
+PDFFIT  [待建页(悬空引用)]  <-  1 篇论文
+RAD  [待建页(悬空引用)]  <-  1 篇论文
+laser-reduced-graphene  [待建页(悬空引用)]  <-  1 篇论文
+b-AsP  [待建页(悬空引用)]  <-  1 篇论文
+Nb2CTx  [待建页(悬空引用)]  <-  1 篇论文
+Nb2AlC-MAX  [待建页(悬空引用)]  <-  1 篇论文
+Nb2O5  [待建页(悬空引用)]  <-  1 篇论文
+NbOX2  [待建页(悬空引用)]  <-  1 篇论文
+rGO  [待建页(悬空引用)]  <-  1 篇论文
+alpha-Fe2O3  [待建页(悬空引用)]  <-  1 篇论文
+1T-double-prime-TMD  [待建页(悬空引用)]  <-  1 篇论文
+Gaussian-98  [待建页(悬空引用)]  <-  1 篇论文
+PAW  [待建页(悬空引用)]  <-  1 篇论文
+pseudopotential  [待建页(悬空引用)]  <-  1 篇论文
+Vanderbilt-ultrasoft  [待建页(悬空引用)]  <-  1 篇论文
+bader-code  [待建页(悬空引用)]  <-  1 篇论文
+Cr2S3  [待建页(悬空引用)]  <-  1 篇论文
+SnSe  [待建页(悬空引用)]  <-  1 篇论文
+VCl3  [待建页(悬空引用)]  <-  1 篇论文
+Ti3C2  [待建页(悬空引用)]  <-  1 篇论文
+Ti2C  [待建页(悬空引用)]  <-  1 篇论文
+Ta4C3  [待建页(悬空引用)]  <-  1 篇论文
+Mo2CTx  [待建页(悬空引用)]  <-  1 篇论文
+In2NO2  [待建页(悬空引用)]  <-  1 篇论文
+IrO2  [待建页(悬空引用)]  <-  1 篇论文
+supercritical-water  [待建页(悬空引用)]  <-  1 篇论文
+Hf2MnC2O2  [待建页(悬空引用)]  <-  1 篇论文
+PbS  [待建页(悬空引用)]  <-  1 篇论文
+PbSe  [待建页(悬空引用)]  <-  1 篇论文
+DeepMD-kit  [待建页(悬空引用)]  <-  1 篇论文
+PBE-functional  [待建页(悬空引用)]  <-  1 篇论文
+BAs  [待建页(悬空引用)]  <-  1 篇论文
+GaSb  [待建页(悬空引用)]  <-  1 篇论文
+InSb  [待建页(悬空引用)]  <-  1 篇论文
+TiTe2  [待建页(悬空引用)]  <-  1 篇论文
+potassium  [待建页(悬空引用)]  <-  1 篇论文
+crsbr  [待建页(悬空引用)]  <-  1 篇论文
+CrInTe2  [待建页(悬空引用)]  <-  1 篇论文
+Spirit  [待建页(悬空引用)]  <-  1 篇论文
+CrGeTe3  [待建页(悬空引用)]  <-  1 篇论文
+WRFP  [待建页(悬空引用)]  <-  1 篇论文
+FINDSYM  [待建页(悬空引用)]  <-  1 篇论文
+Cu3CO6  [待建页(悬空引用)]  <-  1 篇论文
+Cu3CS6  [待建页(悬空引用)]  <-  1 篇论文
+EPW  [待建页(悬空引用)]  <-  1 篇论文
+MnVO3  [待建页(悬空引用)]  <-  1 篇论文
+NaZnO3  [待建页(悬空引用)]  <-  1 篇论文
+SrIrO3  [待建页(悬空引用)]  <-  1 篇论文
+SrMoO3  [待建页(悬空引用)]  <-  1 篇论文
+SrOsO3  [待建页(悬空引用)]  <-  1 篇论文
+ZnPbO3  [待建页(悬空引用)]  <-  1 篇论文
+LaCuO3  [待建页(悬空引用)]  <-  1 篇论文
+
+==========================================================================================
+七、悬空引用汇总（论文引用了但尚未建页的概念/实体）
+==========================================================================================
+待建概念：1065 个
+待建实体：386 个
+（内容由AI生成，仅供参考）

@@ -1,11 +1,3 @@
----
-tags: [entity, stub]
----
+# FTO
 
-# 氟掺杂氧化锡
-
-氟掺杂氧化锡(Fluorine-doped Tin Oxide)，透明导电玻璃基底
-
-## Related Papers
-
-- [[../papers/Blessing2026optical]]
+- [[../papers/Blessing2026optical]] — Optical investigation of tin telluride (SnTe) thin films grown at different deposition voltage

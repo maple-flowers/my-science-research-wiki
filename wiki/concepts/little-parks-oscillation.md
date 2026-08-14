@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# little-parks-oscillation
 
-# 超导网格中临界温度/磁阻随磁通量子周期振荡的现象，本文用以反推
-
-超导网格中临界温度/磁阻随磁通量子周期振荡的现象，本文用以反推 DC 间距。
-
-## Related Papers
-
-- [[../papers/Chen2019superconductivity]]
+- [[../papers/Chen2019superconductivity]] — Discommensuration-driven superconductivity in the charge density wave phases of transition-metal dichalcogenides

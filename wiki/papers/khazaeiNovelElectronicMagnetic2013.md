@@ -103,10 +103,11 @@ Khazaei, Arai, Sasaki, Chung, Venkataramanan, Estili, Sakka, Kawazoe et al.，20
 本文用第一性原理系统计算了 F/OH/O 表面功能化的 M₂C/M₂N 型 MXene，提出"电子计数规则"解释金属-半导体转变，预测了 Sc/Ti/Zr/Hf 基半导体 MXene、Cr 基铁磁 MXene 以及低温下 >1000 μV/K 的巨塞贝克系数。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/electron-counting-rule]]、[[../concepts/strain-engineering]]、[[../concepts/surface-functionalization|表面功能化]]、[[../concepts/ferromagnetism|铁磁性]]、[[../concepts/thermoelectricity|热电效应]]、[[../concepts/boltzmann-transport|玻尔兹曼输运]]、[[../concepts/max-phase|MAX相]]、[[../concepts/phonon-stability|声子稳定性]]
+  - 概念 [[../concepts/2d-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/electron-counting-rule]]、[[../concepts/strain-engineering]]、[[../concepts/surface-functionalization|表面功能化]]、[[../concepts/ferromagnetism|铁磁性]]、[[../concepts/thermoelectricity|热电效应]]、[[../concepts/boltzmann-transport|玻尔兹曼输运]]、[[../concepts/max-phase|MAX相]]、[[../concepts/phonon-stability|声子稳定性]]
   - 实体 [[../entities/MXenes]]、[[../entities/VASP]]、[[../entities/MAX-phases|MAX相家族]]、[[../entities/Sc2CO2|Sc₂CO₂]]
   - 图表 [[../figures/electronic-bands]]、[[../figures/vibrational-spectra]]
-  - 年度 [[../write/2013]]
+  - 年度 [[../write/2010-2014|2013]]
+  - 实体 [[../entities/Ti2CO2]]、[[../entities/BoltzTrap]]、[[../entities/Sc2CF2]]、[[../entities/Cr2C]]、[[../entities/Cr2N]]
   - 相关论文 [[../../raw/note/khazaeiNovelElectronicMagnetic2013]]
 
 ## 🆕 新概念/实体建议

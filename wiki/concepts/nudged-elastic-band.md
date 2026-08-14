@@ -1,13 +1,6 @@
----
-tags: [concept, stub]
----
+# nudged-elastic-band
 
-# NEB，微动弹性带法）
-
-NEB，微动弹性带法）：通过在初末态间放置一串图像并用弹簧连接、将真实力与弹簧力分别投影到路径垂直/平行方向来求 MEP 的经典链状方法。
-
-## Related Papers
-
-- [[../papers/henkelmanClimbingImageNudged2000c]]
-- [[../papers/lezoualchStudyChargeDensity]]
-- [[../papers/liFerroelasticityDomainPhysics2016]]
+- [[../papers/chenFerromagneticNonmagnetic1T2022]] — Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition
+- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]] — Ferroelectricity and multiferroicity in two-dimensional Sc₂P₂Se₆ and ScCrP₂Se₆ monolayers
+- [[../papers/henkelmanClimbingImageNudged2000c]] — A climbing image nudged elastic band method for finding saddle points and minimum energy paths
+- [[../papers/liFerroelasticityDomainPhysics2016]] — Ferroelasticity and domain physics in two-dimensional transition metal dichalcogenide monolayers

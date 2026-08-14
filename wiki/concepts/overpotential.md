@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# overpotential
 
-# 过电位）
-
-过电位）：驱动电化学反应超出热力学平衡电位（1.23 V）所需的额外电压，是催化活性核心指标。
-
-## Related Papers
-
-- [[../papers/wangTwodimensionalFerroelectricMetal2025]]
+- [[../papers/Blessing2026optical]] — Optical investigation of tin telluride (SnTe) thin films grown at different deposition voltage
+- [[../papers/wangTwodimensionalFerroelectricMetal2025]] — Two-dimensional ferroelectric metal CuCrX2 (X = S, Se) for efficient electrocatalysis

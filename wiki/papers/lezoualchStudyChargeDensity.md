@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/lezoualchStudyChargeDensity]]
 projects: [project-7, project-5, project-4, project-2]
-concepts: [charge-density-wave, 2d-materials, density-functional-theory, electron-phonon-coupling, fermi-surface-nesting, peierls-transition, phonon-soft-mode, cew-tronics, intercalation, strain-engineering]
+concepts: [charge-density-wave, 2d-materials, density-functional-theory, electron-phonon-coupling, fermi-surface-nesting, peierls-transition, phonon-soft-mode, cew-tronics, intercalation, strain-engineering, soft-mode]
 entities: [TMDs, Quantum-Espresso, Fireball, VSe2, VTe2, STM]
 methods: [dft, dfpt, negf, neb, stm-simulation]
 materials: [1T-VSe2, 1T-VTe2]
@@ -84,7 +84,7 @@ Mahé Lezoualc'H，2025，Université Paris-Saclay 博士论文（NNT 2025UPASP0
 建立了一套基于 DFPT 声子软模的系统 CDW 建模流程，并以第一性原理计算揭示了 1T-VSe₂/1T-VTe₂ 中化学掺杂（N、Na）、STM 针尖物理操控及相变对 CDW 相稳定性、取向和电子输运的调控规律，提出"CDW-tronics"概念。
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/charge-density-wave]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/density-functional-theory]]
   - 概念 [[../concepts/strain-engineering]]
   - 概念 [[../concepts/electron-phonon-coupling|电子-声子耦合]]
@@ -99,9 +99,11 @@ Mahé Lezoualc'H，2025，Université Paris-Saclay 博士论文（NNT 2025UPASP0
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/vibrational-spectra]]
   - 图表 [[../figures/electronic-devices]]
-  - 图表 [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
-  - 年度 [[../write/2025]]
+  - 图表 [[../figures/heterostructures-stacking|自旋电子学与应变工程]]
+  - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 概念 [[../concepts/phonon-soft-mode]]、[[../concepts/cew-tronics]]
+  - 实体 [[../entities/Fireball]]、[[../entities/Quantum-ESPRESSO]]、[[../entities/STM]]
   - 相关论文 [[../../raw/note/lezoualchStudyChargeDensity]]
 ## 🆕 新概念/实体建议
   - `cdw-tronics`（CDW 电子学）：仿照 spintronics/valleytronics，以 CDW 相/取向为信息载体

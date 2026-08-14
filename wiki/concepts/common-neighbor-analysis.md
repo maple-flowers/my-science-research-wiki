@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# common-neighbor-analysis
 
-# 对分析/共同邻居分析
-
-对分析/共同邻居分析（PA/CNA）：1421/1422对对应FCC/HCP密堆积，1441/1661对对应BCC
-
-## Related Papers
-
-- [[../papers/Zhang2019a]]
+- [[../papers/Zhang2019a]] — Studying Stability of Atom Packing for Ti Nanoparticles on Heating by Molecular Dynamics Simulations
+- [[../papers/Zhang2019c]] — Atomic simulations of packing patterns and thermal behavior in Ti clusters

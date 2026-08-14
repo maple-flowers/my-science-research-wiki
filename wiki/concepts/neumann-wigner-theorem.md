@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# neumann-wigner-theorem
 
-# 诺伊曼-维格纳非交叉定理
-
-诺伊曼-维格纳非交叉定理：一维或同对称性多维系统中能级意外简并概率为零
-
-## Related Papers
-
-- [[../papers/ivanovskiOscillationStructureHall1994]]
+- [[../papers/ivanovskiOscillationStructureHall1994]] — The oscillation structure of the Hall current in the presence of a contact surface

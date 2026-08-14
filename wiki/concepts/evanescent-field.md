@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# evanescent-field
 
-# 倏逝场/消逝场）
-
-倏逝场/消逝场）：光纤全反射时渗透到包层外侧的指数衰减电磁场，是光纤化学/生物传感的物理基础。
-
-## Related Papers
-
-- [[../papers/Owji20212d]]
+- [[../papers/2019optical]] — Optical Fiber Polymer Sensor System with TiO2-SiO2 Cladding for Measuring Humidity
+- [[../papers/Owji20212d]] — 2D materials coated on etched optical fibers as humidity sensor
+- [[../papers/XiaokangZhang2013calibrating]] — Calibrating an optical fiber humidity sensor and applying it in real-time monitoring of relative humidity in fresh concrete

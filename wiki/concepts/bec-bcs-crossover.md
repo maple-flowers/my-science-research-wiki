@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# bec-bcs-crossover
 
-# Bec Bcs Crossover
-
-BEC-BCS 渡越）：从紧束缚玻色型预配对到弱耦合 BCS 配对的连续谱，用于解释 Uemura 斜率。
-
-## Related Papers
-
-- [[../papers/Islam2025enhancement]]
+- [[../papers/Islam2025enhancement]] — Pressure-induced enhancement of superfluid density in transition metal dichalcogenides with and without charge density wave

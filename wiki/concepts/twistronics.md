@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# twistronics
 
-# 转角电子学
-
-转角电子学：通过旋转二维材料层间角度调控莫尔超晶格电子性质的领域
-
-## Related Papers
-
-- [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]]
+- [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]] — Ultrasensitive optoelectronic biosensor arrays based on twisted bilayer graphene superlattice
+- [[../papers/liPhaseTransitions2D2021]] — Phase transitions in 2D materials

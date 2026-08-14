@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# scherrer-equation
 
-# 谢乐公式
-
-谢乐公式 D=0.9λ/βcosθ）：由 XRD 半峰宽估算平均晶粒尺寸的标准公式。
-
-## Related Papers
-
-- [[../papers/Perugu2024morphology]]
+- [[../papers/Perugu2024morphology]] — Synthesis, Structural, Morphology and Magnetic Properties: Effect of La on Multiferroic Nature of BiFeO3 Nanoparticles

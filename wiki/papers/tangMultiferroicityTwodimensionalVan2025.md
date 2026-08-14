@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/tangMultiferroicityTwodimensionalVan2025]]
 projects: [project-2]
-concepts: [2D-materials, ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, sliding-ferroelectricity, spin-orbit-coupling, strain-engineering]
-entities: [BiFeO3, CrTe2, Fe3GeTe2, In2Se3, MXenes, TMDs]
+concepts: [2D-materials, ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, sliding-ferroelectricity, spin-orbit-coupling, strain-engineering, ferroic-order, d0-rule, dzyaloshinskii-moriya-interaction, intercalation-engineering]
+entities: [BiFeO3, CrTe2, Fe3GeTe2, In2Se3, MXenes, TMDs, NiI2, Cr2Ge2Te6, Cr2S3, VCl3, CuCrSe2, SnSe, CuCrP2S6, ReS2]
 methods: [afm-pfm]
 materials: [BiFeO3, CrTe2, Fe3GeTe2, In2Se3, MXenes, TMDs]
 figures: []
@@ -87,7 +87,7 @@ Zikun Tang, Yi Hu, Lukas Rogée, Duanzijing Liu, Shu Ping Lau et al.，2025，*C
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]
   - 概念 [[../concepts/magnetoelectric-coupling]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/sliding-ferroelectricity]]
   - 概念 [[../concepts/ferroelasticity]]
   - 概念 [[../concepts/strain-engineering]]
@@ -113,13 +113,13 @@ Zikun Tang, Yi Hu, Lukas Rogée, Duanzijing Liu, Shu Ping Lau et al.，2025，*C
   - 实体 [[../entities/VCl3]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/heterostructures-stacking]]
-  - 图表 [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结 (Multiferroic & Magnetoelectric Heterostructures)]]
+  - 图表 [[../figures/heterostructures-stacking|多铁与磁电异质结 (Multiferroic & Magnetoelectric Heterostructures)]]
   - 图表 [[../figures/domain-walls]]
   - 图表 [[../figures/optical-spectra]]（SHG/PFM/MOKE 表征）
   - 图表 [[../figures/experimental-setups]]
-  - 年度 [[../write/2025]]
-  - 主题 [[多铁性材料]]
-  - 主题 [[材料模拟计算设计]]
+  - 年度 [[../write/2025-2029|2025]]
+  - 主题 [[../topics/多铁性材料]]
+  - 主题 [[../topics/材料模拟计算设计]]
   - 相关论文 [[../../raw/note/tangMultiferroicityTwodimensionalVan2025]]
 
 ## 🆕 新概念/实体建议

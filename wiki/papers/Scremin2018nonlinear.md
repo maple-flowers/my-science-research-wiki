@@ -89,8 +89,10 @@ Barbara Federica Scremin，2018，*Organic Electronics* 61, 329–333，DOI [10.
   - 图表 [[../figures/optical-spectra]]、[[../figures/mathematical-models]]
   - 概念 [[../concepts/nonlinear-absorption|非线性吸收]]、[[../concepts/saturable-absorption|饱和吸收]]、[[../concepts/charge-transfer|电荷转移（CT）]]、[[../concepts/z-scan|Z扫描]]、[[../concepts/two-level-system|二能级系统]]、[[../concepts/steady-state-rate-equations|稳态速率方程]]、[[../concepts/excited-state-lifetime|激发态寿命]]、[[../concepts/weight-factor-approximation|权重因子近似]]、[[../concepts/mixed-valence|混合价态]]
   - 实体 [[../entities/TTF|TTF（四硫富瓦烯）]]、[[../entities/PMMA|PMMA（有机玻璃）]]、[[../entities/TTFClO4|TTFClO₄（高氯酸四硫富瓦烯盐）]]
-  - 年度 [[../write/2018]]
+  - 年度 [[../write/2015-2019|2018]]
   - 项目 [[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-1-two-photon]]
+  - 概念 [[../concepts/gaussian-beam]]、[[../concepts/radical-cation]]、[[../concepts/dismutation-equilibrium]]
+  - 实体 [[../entities/Origin]]、[[../entities/titanium-sapphire-laser]]
   - 相关论文 [[../../raw/note/Scremin2018nonlinear]]
 ## 📊 关键图表
 > 说明：`raw/figures/Scremin2018nonlinear/` 下仅有 manifest.json，没有实际图片文件，以下按笔记文字描述逐图给出说明，不伪造图片路径。

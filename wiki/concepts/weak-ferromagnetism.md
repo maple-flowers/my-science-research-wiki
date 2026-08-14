@@ -1,12 +1,6 @@
----
-tags: [concept, stub]
----
+# weak-ferromagnetism
 
-# 弱铁磁性）
-
-弱铁磁性）：DM 相互作用使反铁磁子晶格倾斜产生净磁矩 M = λΔ₁L，可被晶格/铁电序参量翻转。
-
-## Related Papers
-
-- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]
-- [[../papers/rameshMultiferroicsProgressProspects2007]]
+- [[../papers/deSousa2008electrical]] — Electrical control of magnon propagation in multiferroic BiFeO3 films
+- [[../papers/hillWhyAreThere2000a]] — Why Are There so Few Magnetic Ferroelectrics?
+- [[../papers/prosandeevKittelLawInBiFeO3Ultrathin2010]] — Kittel Law in BiFeO3 Ultrathin Films: A First-Principles-Based Study
+- [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films

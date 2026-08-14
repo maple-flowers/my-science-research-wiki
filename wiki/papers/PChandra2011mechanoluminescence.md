@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/PChandra2011mechanoluminescence]]
 projects: [project-3]
-concepts: [2D-materials, strain-engineering]
+concepts: [2D-materials, strain-engineering, elastico-mechanoluminescence, mechanoluminescence, ZnS-Mn, triboluminescence, SrAl2O4-Eu, piezoelectric-detrapping-model, trap-depth-electron-detrapping]
 entities: []
 methods: [afm-pfm, tem, xrd]
 materials:
@@ -62,7 +62,7 @@ B. P. Chandra（单一作者，Disha Academy of Research and Education / Ashoka 
 本文系统综述了 ZnS:Mn 和 SrAl₂O₄:Eu 纳米粒子在弹性形变下的力致发光（EML）现象，确立"压电诱导电子脱陷模型"为统一机理，并推导出描述 EML 强度、快慢衰减、压力依赖的定量公式，论证其在应力传感与结构健康监测中的应用。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]（纳米晶/纳米粒子维度讨论）
+  - 概念 [[../concepts/2d-materials]]（纳米晶/纳米粒子维度讨论）
   - 概念 [[../concepts/strain-engineering]]（应力/应变率与发光的耦合）
   - 概念 [[../concepts/mechanoluminescence|机械发光/力致发光 (ML)]]
   - 概念 [[../concepts/elastico-mechanoluminescence|弹性力致发光 (EML)]]
@@ -71,7 +71,7 @@ B. P. Chandra（单一作者，Disha Academy of Research and Education / Ashoka 
   - 概念 [[../concepts/trap-depth-electron-detrapping|陷阱深度与电子脱陷]]
   - 概念 [[../concepts/ZnS-Mn|掺锰硫化锌 ZnS:Mn]]
   - 概念 [[../concepts/SrAl2O4-Eu|掺铕铝酸锶 SrAl₂O₄:Eu]]
-  - 年度 [[../write/2011]]
+  - 年度 [[../write/2010-2014|2011]]
   - 项目 [[../projects/project-3-mechanoluminescence-nn]]（机械发光神经网络项目，直接相关）
   - 相关论文 [[../../raw/note/PChandra2011mechanoluminescence]]
 

@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# defect-engineering
 
-# 缺陷工程）
-
-缺陷工程）：通过形貌/应变设计主动调控点缺陷的类型、位置与密度。
-
-## Related Papers
-
-- [[../papers/niuDirectVisualizationLargeScale2021]]
+- [[../papers/martinThinfilmFerroelectricMaterials2016]] — Thin-film ferroelectric materials and their applications
+- [[../papers/niuDirectVisualizationLargeScale2021]] — Direct Visualization of Large-Scale Intrinsic Atomic Lattice Structure and Its Collective Anisotropy in Air-Sensitive Monolayer 1T'-WTe2

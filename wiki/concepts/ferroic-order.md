@@ -1,14 +1,9 @@
----
-tags: [concept, stub]
----
+# ferroic-order
 
-
-# 铁性序 / Ferroic Order
-
-铁性序（铁弹/铁电/铁磁/铁环）统一框架，对应自发应变/极化/磁化/环磁矩。
-
-## Related Papers
-
-- [[../papers/liPhaseTransitions2D2021]]
-- [[../papers/spaldinRenaissanceMagnetoelectricMultiferroics2005]]
-- [[../papers/tangMultiferroicityTwodimensionalVan2025]]
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]] — Ferroelectricity and multiferroicity down to the atomic thickness
+- [[../papers/fiebigEvolutionMultiferroics2016]] — The evolution of multiferroics
+- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]] — Advances in magnetoelectric multiferroics
+- [[../papers/spaldinRenaissanceMagnetoelectricMultiferroics2005]] — The Renaissance of Magnetoelectric Multiferroics
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]] — Towards Multiferroicity in Two-Dimensional Van Der Waals Materials: Challenges and Opportunities
+- [[../papers/yangRipplingFerroicPhase2021]] — Rippling Ferroic Phase Transition and Domain Switching In 2D Materials
+- [[../papers/zhongHighthroughputExfoliationMultiferroic2025]] — High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperature and giant spin splitting

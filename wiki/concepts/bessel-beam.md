@@ -1,13 +1,5 @@
----
-tags: [concept, stub]
----
+# bessel-beam
 
-
-# 贝塞尔光束 / Bessel Beam
-
-贝塞尔光束，具有无衍射和自愈特性的传播不变光束，适合精密钻孔
-
-## Related Papers
-
-- [[../papers/Unknown2025diffractive]]
-- [[../papers/Jia2023polymerization]]
+- [[../papers/Jia2023polymerization]] — Two-photon polymerization of femtosecond high-order Bessel beams with aberration correction
+- [[../papers/Unknown2025diffractive]] — Millimeter-Scale Diffractive Optical Elements Fabricated by Two-Photon Polymerization for Beam Shaping in Materials Processing
+- [[../papers/Wang2023ultracompact]] — Ultracompact phase plate fabricated by femtosecond laser two-photon polymerization for generation of Mathieu–Gauss beams

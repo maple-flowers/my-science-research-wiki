@@ -90,11 +90,13 @@ Valeri Petkov, Junjie Yang, Sarvjit Shastri, Yang Ren，2020，Physical Review B
 ## 💡 一句话
 通过高能同步辐射XRD、原子对分布函数（PDF）、共振X射线散射和~8–9万原子的反向蒙特卡洛（RMC）大尺度建模，在TaSe₂₋ₓTeₓ固溶体中揭示了晶格、CDW和超导三者的层级关系——强晶格畸变（Ta层皱褶）破坏一切电子序，完美二维晶格周期性是CDW的必要前提，而Ta亚晶格的三维周期性才是超导出现的必要条件。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2D-materials]]、[[../concepts/superconductivity|超导]]、[[../concepts/pair-distribution-function|对分布函数]]、[[../concepts/reverse-monte-carlo|反向蒙特卡洛]]、[[../concepts/ta-sublattice-3d-periodicity|Ta亚晶格三维周期性]]、[[../concepts/chemical-pressure|化学压力]]、[[../concepts/polytypism|多型]]
+  - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2d-materials]]、[[../concepts/superconductivity|超导]]、[[../concepts/pair-distribution-function|对分布函数]]、[[../concepts/reverse-monte-carlo|反向蒙特卡洛]]、[[../concepts/ta-sublattice-3d-periodicity|Ta亚晶格三维周期性]]、[[../concepts/chemical-pressure|化学压力]]、[[../concepts/polytypism|多型]]
   - 实体 [[../entities/TMDs]]、[[../entities/TaSe2|TaSe₂]]
   - 图表 [[../figures/crystal-structures]]
-  - 年度 [[../write/2020]]
+  - 年度 [[../write/2020-2024|2020]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 概念 [[../concepts/coordination-polyhedron]]、[[../concepts/octahedral-coordination]]、[[../concepts/lattice-buckling]]、[[../concepts/trigonal-prismatic-coordination]]
+  - 实体 [[../entities/TaSe2-xTex]]、[[../entities/TaTe2]]、[[../entities/GSAS-II]]、[[../entities/RMCpp]]、[[../entities/advanced-photon-source]]
   - 相关论文 [[../../raw/note/Petkov2020hierarchy]]
 ## 🆕 新概念/实体建议
   - `pair-distribution-function`：原子对分布函数（PDF），由高能XRD总散射（Bragg+漫散射）傅里叶变换得到G(r)，对局部键长、配位多面体畸变和短程序极为敏感，是研究复杂固溶体局域结构的核心实验手段。

@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# icosahedral-cluster
 
-# 二十面体团簇，具有五重对称、小纳米颗粒中因表面能低而稳定的非晶学堆积
-
-二十面体团簇，具有五重对称、小纳米颗粒中因表面能低而稳定的非晶学堆积
-
-## Related Papers
-
-- [[../papers/Zhang2019b]]
+- [[../papers/Zhang2019b]] — Packing Changes in Melting, Freezing, and Coalescence of Titanium Nanoparticles from Atomic Simulations

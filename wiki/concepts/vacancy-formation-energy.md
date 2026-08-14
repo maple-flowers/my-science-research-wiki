@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# vacancy-formation-energy
 
-# 空位形成能）
-
-空位形成能）：DFT 中衡量原子逃逸难易的关键能量，被局部应变调制。
-
-## Related Papers
-
-- [[../papers/niuDirectVisualizationLargeScale2021]]
+- [[../papers/huProgressProspectsLowdimensional2019]] — Progress and prospects in low‐dimensional multiferroic materials
+- [[../papers/niuDirectVisualizationLargeScale2021]] — Direct Visualization of Large-Scale Intrinsic Atomic Lattice Structure and Its Collective Anisotropy in Air-Sensitive Monolayer 1T'-WTe2

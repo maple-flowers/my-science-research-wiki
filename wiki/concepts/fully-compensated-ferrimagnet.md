@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# fully-compensated-ferrimagnet
 
-# 全补偿亚铁磁体 / Fully Compensated Ferrimagnet
-
-宏观净磁矩近零但在位交换场仍强、兼具反铁磁无杂散场与铁磁样自旋劈裂的磁体；与 altermagnetism 条目交叉。
-
-## Related Papers
-
-- [[../papers/yuFerroelectricControlMagnetism2026]]
+- [[../papers/yuFerroelectricControlMagnetism2026]] — Ferroelectric Control of Magnetism and Giant Magnetoresistance Via Intercalation-Induced Symmetry Breaking in Two-Dimensional Multiferroics with Strong Magnetoelectric Coupling

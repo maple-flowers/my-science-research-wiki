@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/wernetSpectroscopicCharacterizationMicroscopic2005]]
 projects: [project-6]
-concepts: [density-functional-theory]
+concepts: [density-functional-theory, heterogeneous-patch-model, x-ray-absorption-spectroscopy, x-ray-raman-scattering, radial-distribution-function, hydrogen-bond]
 entities:
   - supercritical-water
 methods: [dft, raman, xanes]
@@ -75,7 +75,7 @@ Ph. Wernet, D. Testemale, J.-L. Hazemann, R. Argoud, P. Glatzel, L. G. M. Petter
   - 实体 [[../entities/supercritical-water|超临界水]]（温度压力高于临界点 374.1 °C/220.6 bar 的水；本文状态点 380 °C、300 bar、0.54 g/cm³）
   - 图表 [[../figures/optical-spectra]]（氧 K 边 XAS/XRS 近边谱、pre-edge/post-edge 指认、差谱法定量组分）
   - 图表 [[../figures/experimental-setups]]（APS 18-ID 波荡器线站、Si(400) 单色器、Ge(555) 多晶分析器、Be 窗高压高温池、氧化铝管样品容器）
-  - 年度 [[../write/2005]]
+  - 年度 [[../write/2005-2009|2005]]
   - 相关论文 [[../../raw/note/wernetSpectroscopicCharacterizationMicroscopic2005]]
 
 ## 📊 关键图表

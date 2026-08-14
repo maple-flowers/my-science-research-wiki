@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# bipolar-magnetic-semiconductor
 
-# 双极磁性半导体,
-
-双极磁性半导体, BMS）：VBM 与 CBM 分属不同自旋通道，可同时产生完全自旋极化的电子与空穴。
-
-## Related Papers
-
-- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]]
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]] — Nonvolatile switchable half-metallicity and magnetism in the MXene Hf₂MnC₂O₂/Sc₂CO₂ multiferroic heterostructure

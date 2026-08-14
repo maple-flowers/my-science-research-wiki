@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# elastico-mechanoluminescence
 
-# 弹性力致发光,
-
-弹性力致发光, EML）：弹性形变范围内可重复、无损的力致发光，本文核心。
-
-## Related Papers
-
-- [[../papers/PChandra2011mechanoluminescence]]
+- [[../papers/PChandra2011mechanoluminescence]] — Mechanoluminescence of Nanoparticles

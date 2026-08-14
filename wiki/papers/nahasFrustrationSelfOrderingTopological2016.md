@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/nahasFrustrationSelfOrderingTopological2016]]
 projects: [project-2, project-5]
-concepts: [topological-defects, geometric-frustration, chirality, vortex-antivortex, residual-entropy, ground-state-degeneracy, frustration-index, effective-hamiltonian, flux-closure-domain, antiferrotoroidic-order, toroidal-moment, depolarizing-field, ferroelectricity, domain-walls]
+concepts: [topological-defects, geometric-frustration, chirality, vortex-antivortex, residual-entropy, ground-state-degeneracy, frustration-index, effective-hamiltonian, flux-closure-domain, antiferrotoroidic-order, toroidal-moment, depolarizing-field, ferroelectricity, domain-walls, BaSrTiO3]
 entities: [BaTiO3, BaSrTiO3]
 methods: [effective-hamiltonian, monte-carlo, first-principles, dielectric-susceptibility, autocorrelation-analysis]
 materials: [BaTiO3, Ba0.15Sr0.85TiO3]
@@ -84,8 +84,10 @@ Y. Nahas, S. Prokhorenko, L. Bellaiche，2016，Physical Review Letters 116, 117
   - 概念 [[../concepts/topological-defects|拓扑缺陷]]、[[../concepts/geometric-frustration|几何阻挫]]、[[../concepts/chirality|手性]]、[[../concepts/vortex-antivortex|涡旋-反涡旋]]、[[../concepts/residual-entropy|剩余熵]]、[[../concepts/ground-state-degeneracy|基态简并]]、[[../concepts/frustration-index|阻挫指数]]、[[../concepts/effective-hamiltonian|有效哈密顿量]]、[[../concepts/flux-closure-domain|磁通闭合畴]]、[[../concepts/antiferrotoroidic-order|反铁环形序]]、[[../concepts/toroidal-moment|环形矩]]、[[../concepts/depolarizing-field|退极化场]]、[[../concepts/ferroelectricity|铁电性]]、[[../entities/BaTiO3|钛酸钡]]、[[../concepts/BaSrTiO3|钛酸锶钡]]
   - 实体 [[../entities/BaTiO3|钛酸钡]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]
-  - 年度 [[../write/2016]]
+  - 年度 [[../write/2015-2019|2016]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
+  - 概念 [[../concepts/domain-walls]]
+  - 实体 [[../entities/BaSrTiO3]]
   - 相关论文 [[../../raw/note/nahasFrustrationSelfOrderingTopological2016]]
 ## 📊 关键图表
   - ![周期性超胞示意：4根BTO纳米线嵌入BST基质](../../raw/figures/nahasFrustrationSelfOrderingTopological2016/fig_1_ERWWNUJX.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]

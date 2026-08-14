@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# lower-hubbard-band
 
-# 下哈伯德带——半满哈伯德模型中费米能级以下被占据的关联能带，是
-
-下哈伯德带——半满哈伯德模型中费米能级以下被占据的关联能带，是 ARPES 识别莫特相的指纹。
-
-## Related Papers
-
-- [[../papers/nakataRobustChargedensityWave2021]]
+- [[../papers/nakataRobustChargedensityWave2021]] — Robust charge-density wave strengthened by electron correlations in monolayer 1T-TaSe2 and 1T-NbSe2

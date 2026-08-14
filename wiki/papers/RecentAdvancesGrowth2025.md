@@ -87,7 +87,7 @@ Dahua Ren, Yao Wen, Hui Zeng, Xiaoqiang Feng, Teng Zhang, Yuan Zhang, Liushun Wa
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]
   - 概念 [[../concepts/magnetoelectric-coupling]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/ferroelasticity]]
   - 概念 [[../concepts/spin-orbit-coupling]]
   - 概念 [[../concepts/ferroelectric-tunnel-junction]]
@@ -102,8 +102,8 @@ Dahua Ren, Yao Wen, Hui Zeng, Xiaoqiang Feng, Teng Zhang, Yuan Zhang, Liushun Wa
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/electronic-devices]]
   - 图表 [[../figures/heterostructures-stacking]]
-  - 图表 [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - 年度 [[../write/2025]]
+  - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/RecentAdvancesGrowth2025]]
 

@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# spin-hall-effect
 
-# 自旋霍尔效应）
-
-自旋霍尔效应）：强 SOC 材料中纵向电荷流产生横向纯自旋流，是无磁注入/电荷-自旋转换的关键。
-
-## Related Papers
-
-- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]
+- [[../papers/kaurRecentAdvancesTheoretical2025a]] — Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials
+- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]] — Spintronics in Two-Dimensional Materials
+- [[../papers/xuTwodimensionalFerroelasticityVan2021]] — Two-dimensional ferroelasticity in van der Waals β'-In2Se3

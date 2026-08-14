@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# topological-polarization
 
-# 拓扑极化，D₃ₕ
-
-拓扑极化，D₃ₕ 对称晶格中面内极化 P 取离散 Z₃ 值（(2/3,1/3)、(1/3,2/3)、(0,0)），是拓扑不变量
-
-## Related Papers
-
-- [[../papers/krishnamurthiSpinChargeDensity2020]]
+- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]] — Advances in two-dimensional ferroelectric materials
+- [[../papers/krishnamurthiSpinChargeDensity2020]] — Spin/charge density waves at the boundaries of transition metal dichalcogenides

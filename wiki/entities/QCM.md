@@ -1,34 +1,3 @@
----
-tags: [entity]
----
+# QCM
 
-# 石英晶体微天平 (QCM)
-
-**石英晶体微天平**（Quartz Crystal Microbalance, QCM）是一种超灵敏的质量敏感型换能器，其核心是具有压电效应的石英晶片。它能够实时监测纳米级厚度变化或微克/纳克级的质量变化，在湿度传感、薄膜生长监控及界面物化过程研究中具有广泛应用。
-
-## 工作原理
-
-QCM 基于**压电效应**（Piezoelectric Effect）：当在石英晶体两端的电极上施加交变电压时，晶体产生机械振动。当晶体表面发生质量负载（如吸附水分子或沉积薄膜）时，其谐振频率会发生漂移。
-- **Sauerbrey 关系**：在刚性负载假设下，谐振频率的变化量（$\Delta f$）与表面质量变化量（$\Delta m$）成正比。这使得 QCM 成为一种精确的“纳米天平”。
-
-## 在湿度传感中的应用
-
-在湿度传感领域，QCM 主要作为换能平台，通过测量吸附水分子的质量变化来反映环境湿度：
-- **质量敏感型换能**：与电阻式或电容式传感器不同，QCM 湿度传感器直接响应吸附水分子的物理质量。Ates 等人利用 QCM 表征了 Sn 掺杂 ZnO 的湿度特性，通过监测频率随相对湿度（RH）的变化来评估材料的敏感性 [[../papers/Ismail2015humidity]]。
-- **高灵敏度与线性度**：由于 QCM 对质量变化具有极高的分辨率，它常用于检测低湿度环境下的微量水分吸附。
-
-## 在纳米薄膜制备中的监控作用
-
-QCM 是研究和优化纳米薄膜制备工艺的关键工具，特别是在**层层静电自组装**（LbL）过程中：
-- **生长动力学监测**：在制备 PAH/PSS 聚电解质多层膜时，QCM 可用于实时监控每一双层的沉积情况。研究表明，PAH/PSS 膜的质量/厚度随双层数呈线性增长，平均每双层贡献约 4 nm 的厚度增长 [[../papers/Unknown2014optical]]。
-- **工艺校准**：通过 QCM 获得的质量数据可以与光纤干涉光谱（如 [[../entities/hollow-core-photonic-crystal-fiber|IFPI]] 结构）的条纹对比度变化进行互校准，从而精确控制功能涂层的物理参数。
-
-## 相关实体
-- [[ZnO]]：常用的 QCM 湿敏涂层材料。
-- [[PAH-PSS-multilayer]]：常通过 QCM 监控其自组装过程的聚电解质薄膜。
-- [[hollow-core-photonic-crystal-fiber]]：常与 QCM 结合使用的光纤传感结构。
-
-## Related Papers
-
-- [[../papers/Ismail2015humidity]]：综述了 ZnO 基湿度传感器，提及 QCM 作为表征 Sn-ZnO 湿度特性的质量敏感型换能器。
-- [[../papers/Unknown2014optical]]：利用 QCM 实时监控光纤端面 PAH/PSS 纳米薄膜的层层自组装生长过程。
+- [[../papers/Ismail2015humidity]] — Humidity Sensor - A Review of Nanostructured Zinc Oxide (ZnO) - Based Humidity Sensor

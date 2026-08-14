@@ -1,13 +1,5 @@
----
-tags: [concept, stub]
----
+# embedded-atom-method
 
-# EAM势
-
-EAM势：Etot=ΣFi(ρe)+½Σφij(rij)，本文用Zhou等参数化的Ti EAM（re=0.2933872 nm，截断0.656 nm）
-
-## Related Papers
-
-- [[../papers/Zhang2019a]]
-- [[../papers/Zhang2019b]]
-- [[../papers/Zhang2019c]]
+- [[../papers/Zhang2019a]] — Studying Stability of Atom Packing for Ti Nanoparticles on Heating by Molecular Dynamics Simulations
+- [[../papers/Zhang2019b]] — Packing Changes in Melting, Freezing, and Coalescence of Titanium Nanoparticles from Atomic Simulations
+- [[../papers/Zhang2019c]] — Atomic simulations of packing patterns and thermal behavior in Ti clusters

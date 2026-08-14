@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# mesoporous-metal-oxide
 
-# 介孔金属氧化物
-
-介孔金属氧化物（孔径 2-50 nm）：以介孔二氧化硅为硬模板（替代溶胶-凝胶常用的共聚物软模板）纳米浇铸制备，可获得高结晶度、高比表面积薄膜，是高性能湿度/气体传感材料的新方向。
-
-## Related Papers
-
-- [[../papers/Ismail2015humidity]]
+- [[../papers/Ismail2015humidity]] — Humidity Sensor - A Review of Nanostructured Zinc Oxide (ZnO) - Based Humidity Sensor

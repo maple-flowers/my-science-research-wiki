@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# mechanical-anisotropy
 
-# 力学各向异性）
-
-力学各向异性）：小应变各向同性、大应变各向异性；扶手椅方向 σ* 比锯齿方向高 1.5–2.2 倍，与石墨烯相反。
-
-## Related Papers
-
-- [[../papers/Li2013bonding]]
+- [[../papers/Li2013bonding]] — Bonding Charge Density and Ultimate Strength of Monolayer Transition Metal Dichalcogenides

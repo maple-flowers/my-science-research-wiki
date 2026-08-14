@@ -78,7 +78,7 @@ Xuanyi Li, Zhili Zhu, Qing Yang, Zexian Cao, Yeliang Wang, Sheng Meng, Jiatao Su
 通过第一性原理计算预测了一种全新的单层褶皱五边形相VTe2（PP-VTe2），它是带隙0.33 eV、居里温度约110 K的本征铁磁半导体，且其二维铁弹性翻转可驱动面内易磁化轴旋转90°，实现铁弹-铁磁直接多铁耦合。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/multiferroicity]]
   - 概念 [[../concepts/ferroelasticity]]
   - 概念 [[../concepts/magnetoelectric-coupling]]
@@ -93,8 +93,8 @@ Xuanyi Li, Zhili Zhu, Qing Yang, Zexian Cao, Yeliang Wang, Sheng Meng, Jiatao Su
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/mathematical-models]]
-  - 图表 [[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
-  - 年度 [[../write/2022]]
+  - 图表 [[../figures/heterostructures-stacking|力学性质、剥离能与杂项]]
+  - 年度 [[../write/2020-2024|2022]]
   - 相关论文 [[../../raw/note/liMonolayerPuckeredPentagonal2022]]
 
 ## 🆕 新概念/实体建议

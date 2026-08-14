@@ -1,43 +1,63 @@
 ---
-tags: [entity, device, ferroelectric, transistor, cmos-compatible]
-category: [D02, Z01]
+tags: [entity, device, memory, ferroelectric]
+title: 铁电场效应晶体管 (FeFET)
+type: entity
+status: mature
+class: [transistor, memory-device]
+properties: [non-volatile, ferroelectric-switching, CMOS-compatible]
+papers: [chenHafniumBasedFerroelectricPostMoore2026, martinThinfilmFerroelectricMaterials2016, huangTwodimensionalIn2Se3Rising2022]
+updated: 2026-08
 ---
 
 # 铁电场效应晶体管 / Ferroelectric Field-Effect Transistor (FeFET)
 
-**FeFET** 是一种利用铁电层作为栅极介质的三端非易失性存储器件。通过铁电极化的翻转来调制半导体沟道的电导，实现逻辑态的存储与读取。在 [[HfO2|HfO2]] 基铁电发现后，FeFET 因其卓越的 CMOS 兼容性成为后摩尔时代存算一体的核心候选者 [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]。
+铁电场效应晶体管 (FeFET) 是一种将铁电材料集成到常规场效应晶体管 (FET) 栅极堆叠中的三端非易失性存储器件。通过铁电层的极化状态来调制沟道的电导，从而实现信息的存储。
 
-## 1. 结构与工作原理
-- **器件结构**：典型的结构包括金属-铁电-半导体 (MFS) 或金属-铁电-绝缘体-半导体 (MFIS)。其中，绝缘体层（如 $SiO_2$ 或 $Al_2O_3$）常用于抑制漏电流和界面态。
-- **阈值电压调制**：铁电层的面外极化指向沟道（$P_{down}$）或远离沟道（$P_{up}$）会分别在半导体表面感生异号电荷，从而显著改变晶体管的阈值电压 ($V_{th}$)。
-- **存储窗口 (MW)**：$V_{th}$ 的移动量定义了存储窗口，计算公式通常为 $MW \approx 2E_c \cdot d_{fe}$（$E_c$ 为矫顽场，$d_{fe}$ 为铁电层厚度）。
+## 👵 太奶导读
 
-## 2. 关键性能与优势
-- **三端解耦**：与两端存储器（如 RRAM 或 FTJ）不同，FeFET 的写入路径（栅极）与读取路径（源漏沟道）解耦，允许在不破坏极化态的情况下进行高增益读取。
-- **高开关比**：基于 HZO 的 FeFET 开关比可达 $10^6$ 以上，存储窗口可超过 $2\text{ V}$ [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]。
-- **多态存储与突触模拟**：通过控制极化畴的演化，FeFET 可以实现连续的电导调节，模拟生物突触的**长程增强/抑制 (LTP/LTD)** 行为，适用于神经形态计算 [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]。
+> [!info] 👵 太奶导读
+> 好孩子，这“铁电场效应晶体管”听着玄乎，其实就像咱家那把带“记忆”的电门。常规的电门是按下去就开，撒手或者断电可能就关了。但这个 FeFET 里的“铁电层”就像个听话的小管家，你用电压给它下一道命令（比如让它“极化”向上），它就像在那儿立了个永久的旗子。哪怕你把电压撤了，甚至把电源断了，那个旗子也还在那儿挡着或者引着水流（电流）。
+> 
+> 这样一来，只要看水流是大还是小，咱就能知道之前下的是啥命令。它最厉害的地方在于，它自己就能存住信息，不需要额外加个小本本（存储单元）记着，而且它跟现在盖大楼（芯片制造）的法子（CMOS工艺）特别合得来，是个能让手机和电脑更省电、记性更好的好宝贝。
 
-## 3. 核心挑战
-- **耐久性 (Endurance)**：由于界面电荷注入和电介质击穿，FeFET 的循环寿命（通常 $10^4\text{--}10^6$ 次）目前低于 FeRAM。
-- **保持性 (Retention)**：去极化场和漏电流可能导致小尺寸器件中的电荷流失。
-- **器件变异性**：多晶铁电薄膜中畴的随机分布导致器件间的性能偏差。
+## 🏗️ 结构概览
 
-## 4. 主要物性指标
-| 参数名称 | 典型数值 | 备注 |
-| :--- | :--- | :--- |
-| **开关比 ($I_{on}/I_{off}$)** | $10^3\text{--}10^6$ | 取决于沟道材料 (Si/2D) |
-| **存储窗口 (MW)** | $0.5\text{--}2.5\text{ V}$ | 取决于 $E_c$ 和厚度 |
-| **读出速度** | $< 10\text{ ns}$ | 极快非易失读出 |
-| **主要材料** | [[HZO|HZO]], [[MoS2|MoS2]], [[IGZO|IGZO]] | 多材料集成平台 |
+FeFET 的核心结构是将铁电薄膜（如 HZO）作为栅极绝缘层。常见的结构包括金属-铁电-半导体 (MFS) 和金属-铁电-金属-绝缘体-半导体 (MFMIS) 等堆叠方式。
 
-## 5. 本库相关代表性论文
-- [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]：详细综述了 FeFET 在后摩尔电子学与神经形态系统中的架构与实现。
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]：讨论了 2D 材料（如 $WTe_2$, $MoS_2$）作为 FeFET 沟道材料的潜力。
-- [[../papers/martinThinfilmFerroelectricMaterials2016]]：早期关于铁电氧化物薄膜在晶体管集成中的讨论。
+![图：FeFET 器件结构示意图](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_4_L3JZI8BN.png)
+*   **看图要点**：图中展示了 FeFET 的截面结构，铁电层（Ferroelectric layer）位于栅极电极下方，直接或通过缓冲层覆盖在半导体沟道（Channel）上。通过栅极电压切换铁电层的极化方向，可以无破坏性地读出沟道的电阻状态。
+*   **来源**：[[../papers/chenHafniumBasedFerroelectricPostMoore2026]] -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
 
-## 6. 关联概念与实体
-- [[../entities/HZO|HZO]] (主流栅介质材料)
-- [[../entities/FTJ|FTJ]] (两端铁电隧道结)
-- [[../concepts/neuromorphic-computing|神经形态计算 Neuromorphic Computing]]
-- [[../concepts/in-memory-computing|存内计算 In-memory Computing]]
-- [[../projects/project-5-snte-ferroelectric-sim|Project-5]] (器件物理模拟参考)
+## 🧩 物理机制与性能
+
+### 极化调制机制
+FeFET 的工作基于铁电极化对半导体沟道电荷分布的场效应调制。当铁电层向下极化时，它会在半导体表面诱导出相反电荷（如电子），降低阈值电压 ($V_{th}$)，使沟道处于高电导态（"1"）；反之则处于低电导态（"0"）。
+
+### 铪基铁电的优势
+传统的铁电材料（如 PZT）难以微缩且与硅工艺兼容性差。铪基铁电体（Hf-FEs）的发现解决了这一问题。它在纳米尺度下仍能保持强铁电性，且可以使用原子层沉积 (ALD) 工艺制备，非常适合后摩尔时代的集成。
+
+### 关键性能参数
+*   **开关比**：典型可达 $10^6$ 量级。
+*   **存储窗口 (MW)**：通常在 1-2 V 左右。
+*   **耐久性**：铪基 FeFET 仍面临唤醒与疲劳效应的挑战，典型寿命在 $10^4$-$10^9$ 次循环。
+
+## 📚 相关论文 (Related Papers)
+
+- [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]：系统综述了铪基 FeFET 的器件物理与集成架构。
+- [[../papers/martinThinfilmFerroelectricMaterials2016]]：讨论了薄膜铁电材料在电子器件中的应用背景。
+- [[../papers/huangTwodimensionalIn2Se3Rising2022]]
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../concepts/ferroelectricity|铁电性]]
+- [[../concepts/polarization-switching|极化翻转]]
+- [[../entities/HfO2|氧化铪 (HfO2)]]
+- [[../entities/FTJ|铁电隧道结 (FTJ)]]
+- [[../concepts/neuromorphic-computing|神经形态计算]]
+
+| 属性 | 详情 |
+| :--- | :--- |
+| 器件类型 | 三端场效应晶体管 |
+| 存储原理 | 极化调制阈值电压 |
+| 典型材料 | HZO, HfO2, PZT |
+| 主要优势 | 非破坏性读出、高速度、CMOS兼容 |

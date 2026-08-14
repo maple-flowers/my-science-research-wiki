@@ -1,13 +1,5 @@
----
-tags: [concept, stub]
----
+# local-excited-state
 
-
-# 局域激发态 / Local Excited State (LE)
-
-局域激发态（LE / ¹Lb）：电子跃迁主要局限于分子骨架，受环境影响较小，对应短波长 B 带。
-
-## Related Papers
-
-- [[../papers/Huang2019solvatochromic]]
-- [[../papers/H2017fluorescence]]
+- [[../papers/H2017fluorescence]] — Dicyanostilbene-based Two-photon Thermo-solvatochromic Fluorescence Probes with Two-photon Triple Fluorescence
+- [[../papers/Huang2019solvatochromic]] — Stilbene-Based Two-Photon Thermo-Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature
+- [[../papers/Huang2023two]] — Two Dicyanostilbene-Based Two-Photon Fluorescence Environmentally Sensitive Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence

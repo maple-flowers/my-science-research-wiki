@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# augmentation-charge
 
-# 增强电荷，US-PP/PAW
-
-增强电荷，US-PP/PAW 中补偿赝波函数在核心区电荷亏损的原子中心电荷分布；US-PP 将其伪化到规则网格，PAW 则在径向网格上精确处理。
-
-## Related Papers
-
-- [[../papers/kresseUltrasoftPseudopotentialsProjector1999c]]
+- [[../papers/kresseUltrasoftPseudopotentialsProjector1999c]] — From ultrasoft pseudopotentials to the projector augmented-wave method
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]] — Towards Multiferroicity in Two-Dimensional Van Der Waals Materials: Challenges and Opportunities

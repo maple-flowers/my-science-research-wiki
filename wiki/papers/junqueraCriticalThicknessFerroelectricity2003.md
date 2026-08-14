@@ -85,7 +85,7 @@ Junquera & Ghosez，2003，*Nature* 422, 506–509，DOI 10.1038/nature01501。
   - 概念 [[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/strain-engineering]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/critical-thickness]]、[[../concepts/depolarizing-field]]、[[../concepts/ferroelectricity]]、[[../concepts/screening-length]]、[[../concepts/short-circuit-boundary]]、[[../concepts/soft-mode]]、[[../concepts/spontaneous-polarization]]
   - 实体 [[../entities/SnTe]]、[[../entities/BaTiO3]]、[[../entities/SIESTA]]、[[../entities/SrRuO3]]、[[../entities/SrTiO3]]
   - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/2003]]
+  - 年度 [[../write/2000-2004|2003]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/junqueraCriticalThicknessFerroelectricity2003]]
 

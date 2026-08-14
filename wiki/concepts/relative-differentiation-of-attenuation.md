@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# relative-differentiation-of-attenuation
 
-# 相对衰减差分
-
-相对衰减差分 RDA）：定义为 |ΔA|/A₀，是本文衡量湿度响应幅度的核心指标。
-
-## Related Papers
-
-- [[../papers/Owji20212d]]
+- [[../papers/Owji20212d]] — 2D materials coated on etched optical fibers as humidity sensor

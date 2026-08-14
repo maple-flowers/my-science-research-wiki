@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# cohesive-energy
 
-# 内聚能 / cohesive energy
-
-将晶体拆散为孤立原子所需的能量，衡量材料热力学稳定性。
-
-## Related Papers
-
-- [[../papers/dudarevElectronenergylossSpectraStructural1998a]]
+- [[../papers/dudarevElectronenergylossSpectraStructural1998a]] — Electron-energy-loss spectra and the structural stability of nickel oxide:  An LSDA+U study
+- [[../papers/kresseInitiomolecularDynamicsLiquid1993]] — <i>Ab initio</i> molecular dynamics for liquid metals
+- [[../papers/naguib25thAnniversaryArticle2013a]] — 25th Anniversary Article: MXenes: A New Family of Two‐Dimensional Materials

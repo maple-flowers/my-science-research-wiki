@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Unknown2025diffractive]]
 projects: [project-1]
-concepts: [beam-shaping, diffractive-optical-element, two-photon-polymerization, computer-generated-hologram, bessel-beam, axicon, staircase-effect, diffraction-efficiency, laser-damage-threshold, stitching, phase-modulation, nonlinear-absorption]
+concepts: [beam-shaping, diffractive-optical-element, two-photon-polymerization, computer-generated-hologram, bessel-beam, axicon, staircase-effect, diffraction-efficiency, laser-damage-threshold, stitching, phase-modulation, nonlinear-absorption, FemtoBond-4B]
 entities: [FemtoBond-4B, MATLAB, STL, Ti-Sa-laser]
 methods: [two-photon-polymerization, cgh-design, sem, optical-microscopy, beam-profiling, laser-damage-threshold-testing, fft-simulation, tilt-correction, stitching-algorithm]
 materials: [FemtoBond-4B]
@@ -83,8 +83,10 @@ Behlau, Marx, Zimmermann, Thüsing, Albini, Esen, Ostendorf，2025，Journal of 
 用双光子聚合（2PP）拼接制造出直径 3.5 mm 的衍射光学元件（DOE），将高斯光束整形为双环形（近场双贝塞尔）光束，并验证其可承受 22.8 W 平均功率 / 24.8 GW/cm² 峰值功率密度的飞秒激光辐照。
 
 ## 🔗 Wiki 双链
-  - 年度 [[../write/2025]]
+  - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-1-two-photon]]
+  - 概念 [[../concepts/phase-modulation]]、[[../concepts/diffraction-efficiency]]
+  - 实体 [[../entities/FemtoBond-4B]]、[[../entities/STL]]、[[../entities/MATLAB]]、[[../entities/Ti-Sa-laser]]
   - 相关论文 [[../../raw/note/Unknown2025diffractive]]
   - 概念：[[../concepts/beam-shaping|光束整形]]、[[../concepts/diffractive-optical-element|衍射光学元件 DOE]]、[[../concepts/two-photon-polymerization|双光子聚合 2PP]]、[[../concepts/computer-generated-hologram|计算机生成全息图 CGH]]、[[../concepts/bessel-beam|贝塞尔光束]]、[[../concepts/axicon|轴锥镜]]、[[../concepts/staircase-effect|阶梯效应]]、[[../concepts/laser-damage-threshold|激光损伤阈值]]、[[../concepts/stitching|拼接技术]]、[[../concepts/nonlinear-absorption|非线性吸收]]、[[../concepts/FemtoBond-4B|FemtoBond 4B 光刻胶]]
 

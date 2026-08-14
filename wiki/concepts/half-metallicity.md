@@ -1,12 +1,6 @@
----
-tags: [concept, stub]
----
+# half-metallicity
 
-# 半金属性
-
-半金属性：一种自旋通道导电、另一自旋通道绝缘，可产生100%自旋极化电流
-
-## Related Papers
-
-- [[../papers/chen3dLevelSymmetry2025]]
-- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]]
+- [[../papers/chen3dLevelSymmetry2025]] — 3d-level symmetry between metal layers governing the electronic configuration of Mn2N MXenes and enabling modulation between half-metallicity and semiconductivity
+- [[../papers/liMonolayerPuckeredPentagonal2022]] — Monolayer puckered pentagonal VTe2: An emergent two-dimensional ferromagnetic semiconductor with multiferroic coupling
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]] — Nonvolatile switchable half-metallicity and magnetism in the MXene Hf₂MnC₂O₂/Sc₂CO₂ multiferroic heterostructure
+- [[../papers/zahraCriticalAnalysisFerroelectric2025]] — A critical analysis of ferroelectric and ferromagnetic properties in two-dimensional MXene

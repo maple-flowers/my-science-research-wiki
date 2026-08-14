@@ -15,10 +15,10 @@ projects: [project-1]
 concepts:
   - solvatochromism
   - two-photon-absorption-cross-section
-  - tict-twisted-intramolecular-charge-transfer
   - exciplex
   - triple-fluorescence
   - donor-acceptor-push-pull
+  - twisted-intramolecular-charge-transfer
 entities:
   - dicyanostilbene-1a
 methods: [dft, nmr, spectroscopy]
@@ -70,7 +70,7 @@ Chi-Bao Huang（黄齐宝，遵义师范学院信息工程学院），2023，*Jo
   - 图表 [[../figures/optical-spectra]]（全文以紫外-可见吸收、单/双光子发射、双光子截面谱为核心证据）
   - 概念 [[../concepts/solvatochromism|溶剂化显色]]、[[../concepts/two-photon-absorption-cross-section|双光子吸收截面]]、[[../concepts/twisted-intramolecular-charge-transfer|TICT 扭曲分子内电荷转移]]、[[../concepts/exciplex|激基复合物]]、[[../concepts/triple-fluorescence|三重荧光]]、[[../concepts/donor-acceptor-push-pull|D-π-A 推拉电子结构]]
   - 实体 [[../entities/dicyanostilbene-1a|探针 1a（2,5-二氰基二苯乙烯）]]
-  - 年度 [[../write/2023]]
+  - 年度 [[../write/2020-2024|2023]]
   - 项目 [[../projects/project-1-two-photon]]
   - 相关论文 [[../../raw/note/Huang2023two]]
 

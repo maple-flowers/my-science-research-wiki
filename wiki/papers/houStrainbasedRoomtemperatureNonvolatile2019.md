@@ -70,12 +70,12 @@ Wenhui Hou, Ahmad Azizimanesh, Arfan Sewaket, Tara Peña, Carla Watson, Ming Liu
 
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/strain-engineering]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/ferroelasticity]]
   - 概念 [[../concepts/polarization-switching]]
   - 实体 [[../entities/TMDs]]
   - 图表 [[../figures/electronic-devices]]
-  - 年度 [[../write/2019]]
+  - 年度 [[../write/2015-2019|2019]]
   - 相关论文 **houStrainbasedRoomtemperatureNonvolatile2019**
 
 ## 🆕 新概念/实体建议
@@ -136,4 +136,4 @@ Wenhui Hou, Ahmad Azizimanesh, Arfan Sewaket, Tara Peña, Carla Watson, Ming Liu
   7. **对照实验确证拉应力必要性**：50 nm Ag接触（−0.2 GPa低压缩应力）13个器件在所有温度下仅~4%电导调制；Ni接触（0.58 GPa拉应力）达~10^9%调制；将Ag接触用高拉应力绝缘MgF2层封装后，大电导开关恢复，形成"应力源必需"的闭环验证。28个Ni器件中约8个低调制（(111)上1/3、(011)上1/4），归因于薄片落在单畴/多畴、畴极化方向、铁电应变相对接触方向、MoTe2晶向等不可控因素。以2H-MoTe2为起始材料加Ni接触未观察到相变。
   8. **温度依赖性**：270 K低温利于半导体相，330 K高温利于半金属相，与2H-MoTe2低温更稳定的既有结论一致；相界对应变高度敏感，温度循环可用于训练单极非易失行为。其他次要因素包括差异热收缩、薄膜应力随温度弛豫、PMN-PT压电系数温度依赖。
   9. **拉曼辨析新相**：通过透明双面抛光MgO衬底做背面拉曼（532 nm，2 mW）检测Ni接触下方相变材料，发现应变诱导半导体相并非标准2H-MoTe2，其额外拉曼峰与文献中应变或激光加热诱导的相变MoTe2特征相似，精确结构待定。
-  10. **局限与展望**：耐久仅40–70次（归因于范德华层间滑移导致应变无法完全传递，建议减薄至单层以消除该变量）；速度受限于0.25–0.3 mm块体单晶需150 V/10 ms脉冲，薄膜铁电体（如HfO2基）有望达到亚纳秒至皮秒、阿焦/比特；该"铁电+[[../concepts/2D-materials|二维材料]]"平台可推广至电场调控磁性、拓扑、超导等量子相变。
+  10. **局限与展望**：耐久仅40–70次（归因于范德华层间滑移导致应变无法完全传递，建议减薄至单层以消除该变量）；速度受限于0.25–0.3 mm块体单晶需150 V/10 ms脉冲，薄膜铁电体（如HfO2基）有望达到亚纳秒至皮秒、阿焦/比特；该"铁电+[[../concepts/2d-materials|二维材料]]"平台可推广至电场调控磁性、拓扑、超导等量子相变。

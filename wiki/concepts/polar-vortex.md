@@ -1,14 +1,6 @@
----
-tags: [concept, stub]
----
+# polar-vortex
 
-
-# 极性涡旋 / Polar Vortex
-
-极性涡旋，与斯格明子并列的极性拓扑态，其形成受类 DMI 相互作用驱动、对电学边界条件不敏感，可与斯格明子对照。
-
-## Related Papers
-
-- [[../papers/gongAbsenceCriticalThickness2023]]
-- [[../papers/hanPolarTopologicalMaterials2025]]
-- [[../papers/xuTunableFerroelectricTopological2022]]
+- [[../papers/gomez-ortizKittelLawDomain2023]] — Kittel law and domain formation mechanism in PbTiO3/SrTiO3 superlattices
+- [[../papers/gongAbsenceCriticalThickness2023]] — Absence of critical thickness for polar skyrmions with breaking the Kittel’s law
+- [[../papers/hanPolarTopologicalMaterials2025]] — Polar topological materials and devices: Prospects and challenges
+- [[../papers/xuTunableFerroelectricTopological2022]] — Tunable ferroelectric topological defects on 2D topological surfaces: strain engineering skyrmion-like polar structures in 2D materials

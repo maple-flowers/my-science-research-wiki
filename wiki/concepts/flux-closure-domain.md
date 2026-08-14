@@ -1,14 +1,5 @@
----
-tags: [concept, stub]
----
+# flux-closure-domain
 
-
-# 通量闭合畴 / Flux-closure Domain
-
-通量闭合畴，极化首尾相接形成闭合回路、90°畴壁、无净束缚电荷，是涡旋的前体态。
-
-## Related Papers
-
-- [[../papers/hanPolarTopologicalMaterials2025]]
-- [[../papers/nahasFrustrationSelfOrderingTopological2016]]
-- [[../papers/xuTunableFerroelectricTopological2022]]
+- [[../papers/hanPolarTopologicalMaterials2025]] — Polar topological materials and devices: Prospects and challenges
+- [[../papers/nahasFrustrationSelfOrderingTopological2016]] — Frustration and Self-Ordering of Topological Defects in Ferroelectrics
+- [[../papers/xuTunableFerroelectricTopological2022]] — Tunable ferroelectric topological defects on 2D topological surfaces: strain engineering skyrmion-like polar structures in 2D materials

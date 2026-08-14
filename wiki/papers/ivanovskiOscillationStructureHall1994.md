@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/ivanovskiOscillationStructureHall1994]]
 projects: []
-concepts: [landau-quantization, avoided-crossing, quantum-tunneling, quantum-transport, hall-effect, resonant-tunneling, landau-zener-transition, neumann-wigner-noncrossing]
+concepts: [landau-quantization, avoided-crossing, quantum-tunneling, quantum-transport, hall-effect, resonant-tunneling, landau-zener-transition, neumann-wigner-noncrossing, parabolic-cylinder-functions, resonant-underbarrier-interaction, neumann-wigner-theorem]
 entities: []
 methods: [analytical-derivation, numerical-solution, schrodinger-equation, variable-separation, parabolic-cylinder-functions, feynman-hellmann-theorem]
 materials: []
@@ -67,9 +67,10 @@ G Ivanovski, D Jakimovski, E A Solov'ev，1994，Journal of Physics: Condensed M
 ## 💡 一句话
 在两种磁导率不同的介质接触面引入δ函数势垒后，两侧准朗道态通过共振欠势垒相互作用产生能级避免交叉，并直接导致霍尔电流的振荡与方向翻转。
 ## 🔗 Wiki 双链
-  - 年度 [[../write/1994]]
+  - 年度 [[../write/1945-1999|1994]]
   - 概念 [[../concepts/landau-quantization|朗道量子化]]、[[../concepts/avoided-crossing|避免交叉]]、[[../concepts/hall-effect|霍尔效应]]、[[../concepts/landau-zener-transition|朗道-齐纳跃迁]]、[[../concepts/neumann-wigner-theorem|诺伊曼-维格纳非交叉定理]]、[[../concepts/parabolic-cylinder-functions|抛物柱函数]]、[[../concepts/resonant-underbarrier-interaction|共振欠势垒相互作用]]
   - 图表 [[../figures/mathematical-models|数学模型与物理公式]]
+  - 概念 [[../concepts/neumann-wigner-noncrossing]]、[[../concepts/resonant-tunneling]]、[[../concepts/quantum-transport]]、[[../concepts/quantum-tunneling]]
   - 相关论文 [[../../raw/note/ivanovskiOscillationStructureHall1994]]
 ## 🆕 新概念/实体建议
 ## 📊 关键图表

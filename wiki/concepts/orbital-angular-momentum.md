@@ -1,12 +1,4 @@
----
-tags: [concept, stub]
----
+# orbital-angular-momentum
 
-# 光的轨道角动量
-
-光的轨道角动量（OAM）、涡旋相位 mθ。
-
-## Related Papers
-
-- [[../papers/Jia2023polymerization]]
-- [[../papers/Wang2023ultracompact]]
+- [[../papers/Jia2023polymerization]] — Two-photon polymerization of femtosecond high-order Bessel beams with aberration correction
+- [[../papers/Wang2023ultracompact]] — Ultracompact phase plate fabricated by femtosecond laser two-photon polymerization for generation of Mathieu–Gauss beams

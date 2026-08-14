@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# open-circuit-boundary-conditions
 
-# 开路电学边界条件）
-
-开路电学边界条件）：表面无自由电荷补偿的边界，存在退极化场，区别于短路（理想电极）条件。
-
-## Related Papers
-
-- [[../papers/prosandeevKittelLawInBiFeO3Ultrathin2010]]
+- [[../papers/prosandeevKittelLawInBiFeO3Ultrathin2010]] — Kittel Law in BiFeO3 Ultrathin Films: A First-Principles-Based Study

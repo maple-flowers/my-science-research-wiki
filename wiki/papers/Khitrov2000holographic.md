@@ -82,8 +82,10 @@ Greg Khitrov，2000，MRS Bulletin，25(12), 6-7，DOI: [10.1557/mrs2000.238](ht
   - 图表 [[../figures/experimental-setups]]
   - 概念 [[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/nonlinear-absorption|非线性吸收]]、[[../concepts/photopolymerization|光聚合]]、[[../concepts/holographic-grating|全息光栅]]、[[../concepts/polymer-phase-separation|聚合物/液晶相分离]]
   - 实体 [[../entities/DPHPA|DPHPA]]、[[../entities/E7-liquid-crystal|E7 液晶]]、[[../entities/bis-diphenylamino-diphenyl-hexatriene|双(二苯氨基)二苯基己三烯]]
-  - 年度 [[../write/2000]]
+  - 年度 [[../write/2000-2004|2000]]
   - 项目 [[../projects/project-1-two-photon]]
+  - 概念 [[../concepts/refractive-index-modulation]]
+  - 实体 [[../entities/ITO-glass]]、[[../entities/N-vinyl-pyrrolidinone]]
   - 相关论文 [[../../raw/note/Khitrov2000holographic]]
 
 ## 📊 关键图表

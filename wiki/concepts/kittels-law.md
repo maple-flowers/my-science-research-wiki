@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# kittels-law
 
-# Kittels Law
-
-Kittel 定律，铁磁/铁电体中畴周期 d 与膜厚 h 的 d∝√h 标度律，源于退极化能与畴壁能的平衡。
-
-## Related Papers
-
-- [[../papers/gongAbsenceCriticalThickness2023]]
+- [[../papers/gomez-ortizKittelLawDomain2023]] — Kittel law and domain formation mechanism in PbTiO3/SrTiO3 superlattices
+- [[../papers/gongAbsenceCriticalThickness2023]] — Absence of critical thickness for polar skyrmions with breaking the Kittel’s law
+- [[../papers/prosandeevKittelLawInBiFeO3Ultrathin2010]] — Kittel Law in BiFeO3 Ultrathin Films: A First-Principles-Based Study

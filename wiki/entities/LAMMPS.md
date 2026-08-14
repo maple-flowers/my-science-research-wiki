@@ -1,13 +1,5 @@
----
-tags: [entity, stub]
----
+# LAMMPS
 
-# 大规模原子/分子动力学模拟软件，本文用其跑
-
-大规模原子/分子动力学模拟软件，本文用其跑 DeepMD 势。
-
-## Related Papers
-
-- [[../papers/Zhang2019a]]
-- [[../papers/xuTunableFerroelectricTopological2022]]
-- [[../papers/yangRipplingFerroicPhase2021]]
+- [[../papers/Zhang2019a]] — Studying Stability of Atom Packing for Ti Nanoparticles on Heating by Molecular Dynamics Simulations
+- [[../papers/xuTunableFerroelectricTopological2022]] — Tunable ferroelectric topological defects on 2D topological surfaces: strain engineering skyrmion-like polar structures in 2D materials
+- [[../papers/yangRipplingFerroicPhase2021]] — Rippling Ferroic Phase Transition and Domain Switching In 2D Materials

@@ -1,11 +1,9 @@
----
-tags: [concept, stub]
----
+# electron-correlation
 
-# 电子关联——电子间库仑排斥超越单电子近似的效应，是莫特物理的核心。
-
-电子关联——电子间库仑排斥超越单电子近似的效应，是莫特物理的核心。
-
-## Related Papers
-
-- [[../papers/nakataRobustChargedensityWave2021]]
+- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]] — Advances in two-dimensional ferroelectric materials
+- [[../papers/kawakamiChargedensityWaveAssociated2023]] — Charge-density wave associated with higher-order Fermi-surface nesting in monolayer VS2
+- [[../papers/krishnamurthiSpinChargeDensity2020]] — Spin/charge density waves at the boundaries of transition metal dichalcogenides
+- [[../papers/nakataRobustChargedensityWave2021]] — Robust charge-density wave strengthened by electron correlations in monolayer 1T-TaSe2 and 1T-NbSe2
+- [[../papers/wuSlidingFerroelectricity2D2021a]] — Sliding ferroelectricity in 2D van der Waals materials: Related physics and future opportunities
+- [[../papers/zhangEmergingFrontiersTwodimensional2025]] — Emerging frontiers in two-dimensional sliding ferroelectrics
+- [[../papers/zhouFirstprinciplesPredictionRedox2004]] — First-principles prediction of redox potentials in transition-metal compounds with LDA+U

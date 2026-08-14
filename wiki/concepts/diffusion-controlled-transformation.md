@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# diffusion-controlled-transformation
 
-# 扩散控制型相变）
-
-扩散控制型相变）：新相生长速度由溶质/热扩散速率决定，溶质富集与潜热释放会反过来抑制后续形核。
-
-## Related Papers
-
-- [[../papers/Zhang2002b]]
+- [[../papers/Zhang2002b]] — Cellular automaton model to simulate nucleation and growth of ferrite grains for low-carbon steels

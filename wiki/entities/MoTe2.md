@@ -1,37 +1,68 @@
 ---
-tags: [entity, material, ferroelectric, 2D, semimetal, multiferroic]
-category: [D02, Z01]
+tags: [entity, material, TMD, 2D, semiconductor, topological]
+title: 二碲化钼 (MoTe2) / Molybdenum Ditelluride
+type: entity
+status: mature
+formula: MoTe2
+stoichiometry: 2H/1T'
+class: [TMD, vdW, phase-change]
+properties: [polymorphic-phase-transition, Weyl-semimetal, QSH-insulator]
+related_entities: [MoS2, WTe2, 2h-phase, 1t-phase]
+papers: [liPhaseTransitions2D2021, RecentAdvancesGrowth2025, FerroelectricityMultiferroicityAtomic2023, Li2013bonding, chenStrongSlidingFerroelectricity2024, guanRecentProgressTwoDimensional2020, huangPolarPhaseDomain2019, kaurRecentAdvancesTheoretical2025a]
+updated: 2026-08
 ---
 
-# 二碲化钼 / Molybdenum Ditelluride (MoTe2)
+# 二碲化钼 (MoTe2) / Molybdenum Ditelluride
 
-**MoTe2** 是一种展现出丰富物理特性的过渡金属硫族化物 (TMD)。它不仅是研究**滑动铁电性**和**铁电金属**的原型体系，还通过磁性原子替代实现了二维磁电耦合。
+二碲化钼 (MoTe2) 是二维 TMD 材料中相变物理与拓扑物性的完美结合体。它最显著的特点是其不同结构相（$2\text{H}$ 相与 $1\text{T}'$ 相）之间的能量差极小，这使得它成为了**相变工程 (Phase Engineering)** 最具灵活性的平台，可用于实现超低功耗的存储和拓扑逻辑开关。
 
-## 1. 结构相与滑动铁电性
-- **晶体结构**：MoTe2 具有多种同质异形体，包括 $2H$（半导体）、$1T'$（半金属）和 $T_d$（外尔半金属）相。1T′ 与 2H 两相能量差在 TMD 中最小，约 0.3% 的拉伸应变即可诱导相变，是应变相变器件的核心沟道材料 [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]]。
-- **滑动铁电机制**：在双层或少层 $3R$ 堆垛的 MoTe2 中，通过层间的微小滑移打破了空间反演对称性，诱导出稳健的面外自发极化。这种**滑动铁电性**具有极低的翻转能垒（$\sim 1\text{ meV/f.u.}$），是开发超低功耗存储器件的理想机制 [[../papers/kaurRecentAdvancesTheoretical2025a]]。
-- **铁电金属态**：在 $T_d$ 相的薄层 MoTe2 中，极化电荷与金属态载流子共存，展现出反常的铁电金属特性 [[../papers/FerroelectricityMultiferroicityAtomic2023]]。
+## 奶奶导读
 
-## 2. 磁电与拓扑物理
-- **磁性诱导**：通过掺杂或构建异质结，MoTe2 可以从单纯的铁电体转变为多铁材料。
-- **层极化自旋霍尔效应 (LP-SHE)**：在极性双层 MoTe2 中，Berry 曲率使得自旋积累被局域在特定的层内，且该效应可以通过层间滑动进行有效切换 [[../papers/kaurRecentAdvancesTheoretical2025a]]。
+太奶啊，这 MoTe2 就是二维材料里的“平衡大师”！它就像是一个站在跷跷板中心的人，往左偏一点就是不导电的半导体（2H 相），往右偏一点就是能导电的金属，甚至是带有一种神奇“拓扑防护力”的状态（1T' 相）。因为这两边的高度差（能量差）非常小，我们只要轻轻推它一把——比如稍微拉伸一下（应力），或者加点电荷，它就能在两种状态之间快速切换。所以它特别适合用来做那种又快又省电的微型存储开关。
 
-## 3. 主要物性参数
-| 参数名称 | 数值 | 备注 |
-| :--- | :--- | :--- |
-| **转变温度 ($T_C$)** | 室温稳定 | 滑动铁电态 |
-| **极化强度 ($P$)** | $\sim 0.1\text{--}0.5\text{ pC/m}$ | 滑动诱导极化 |
-| **能带结构** | 半金属 / 半导体 | 取决于相 (Td / 2H) |
-| **翻转能垒** | $\sim 0.6\text{--}1.0\text{ meV}$ | 极低翻转能耗 |
+## 🏗️ 结构概览
 
-## 4. 本库相关代表性论文
-- [[../papers/FerroelectricityMultiferroicityAtomic2023]]：综述 MoTe2 在原子级厚度下的铁电金属与尺寸效应。
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]：详述 MoTe2 双层中的滑动铁电机制及层极化自旋效应。
-- [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]]：应变诱导室温非易失 2H/1T′ 相变。
+MoTe2 拥有三种主要的多晶型：六角 $2\text{H}$ 相（半导体）、单斜 $1\text{T}'$ 相（半金属/拓扑绝缘体）和正交 $T_d$ 相（外尔半金属）。
 
-## 5. 关联概念与实体
-- [[../concepts/sliding-ferroelectricity|滑动铁电性 Sliding Ferroelectricity]]
-- [[../concepts/multiferroicity|多铁性 Multiferroicity]]
-- [[../entities/WTe2|二碲化钨 WTe2]] (同族铁电金属)
-- [[../entities/MoS2|二硫化钼 MoS2]] (同族半导体)
-- [[../entities/TMDs|TMDs]] (上位材料家族)
+![图：MoTe2 晶体结构的多相转化机制](../../raw/figures/liPhaseTransitions2D2021/fig_2_RTFYSEMI.png)
+*   **看图要点**：图中展示了 MoTe2 如何通过激光诱导、静电掺杂或电场驱动实现从 2H 相到 1T' 相的转变。2H 相中 Mo 原子呈三棱柱配位，而 1T' 相中 Mo 原子层发生二聚化畸变，形成了特殊的链状排列。
+*   **来源**：[[../papers/liPhaseTransitions2D2021]] -> [[../figures/crystal-structures-bulk|晶体结构]]
+
+## 🧩 极小相干能与多场调控
+
+MoTe2 成为相变明星的核心原因在于其相稳定性极易受外界扰动影响。
+
+*   **相能量差**：$2\text{H}$ 与 $1\text{T}'$ 相的能量差仅约 $43\text{ meV/f.u.}$。相比之下，MoS2 的这一差值高达 $\sim 500\text{ meV}$。
+*   **调控手段**：
+    *   **应变调控**：仅需 $\sim 0.2\%$ 的面内双轴拉伸应变即可诱发 $2\text{H} \to 1\text{T}'$ 的转变。
+    *   **静电掺杂**：利用离子液体栅压注入高密度电荷（$\sim 10^{14}\text{ cm}^{-2}$）可在大范围内驱动相变。
+    *   **激光图案化**：通过激光照射诱导碲 (Te) 空位，可以永久性地将局部区域从半导体态转变为金属性导电通道。
+*   **拓扑性质**：$1\text{T}'$ 相 MoTe2 被证实是二维**量子自旋霍尔 (QSH) 绝缘体**，具有鲁棒的边缘态导电能力。
+
+## 🔬 物理参数表
+
+| 属性 | 数值 |
+| :--- | :--- |
+| 2H-1T' 能量差 | $\sim 43\text{ meV/f.u.}$ |
+| 临界相变应变 | $\sim 0.2\%$ |
+| 拓扑能隙 (1T') | $\sim 0.06\text{ eV}$ |
+| 转变温度 (2H-1T') | $\sim 500\text{--}800\text{ K}$ (随成分偏差变化) |
+
+## 📚 相关论文 (Related Papers)
+
+- [[../papers/liPhaseTransitions2D2021]]：深入探讨了 MoTe2 作为二维相变工程核心材料的机理与应用。
+- [[../papers/RecentAdvancesGrowth2025]]：涉及了 MoTe2 大面积薄膜的生长动力学与相控制。
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]]
+- [[../papers/Li2013bonding]]
+- [[../papers/chenStrongSlidingFerroelectricity2024]]
+- [[../papers/guanRecentProgressTwoDimensional2020]]
+- [[../papers/huangPolarPhaseDomain2019]]
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../concepts/polymorphic-phase-transition|多晶型相变]]
+- [[../concepts/quantum-spin-hall-effect|量子自旋霍尔效应]]
+- [[../entities/2h-phase|2H 相]]
+- [[../entities/1t-phase|1T 相]]
+- [[../entities/WTe2|二碲化钨 (WTe2)]]

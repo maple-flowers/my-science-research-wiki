@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# spontaneous-polarization
 
-# 无外场下晶胞不对称导致的固有极化强度
-
-无外场下晶胞不对称导致的固有极化强度 P_s。
-
-## Related Papers
-
-- [[../papers/junqueraCriticalThicknessFerroelectricity2003]]
+- [[../papers/chenStrongSlidingFerroelectricity2024]] — Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI₂ Layers
+- [[../papers/junqueraCriticalThicknessFerroelectricity2003]] — Critical thickness for ferroelectricity in perovskite ultrathin films

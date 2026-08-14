@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# janus-structure
 
-# Janus结构
-
-Janus结构：上下表面具有不同化学组成/官能团的不对称二维材料
-
-## Related Papers
-
-- [[../papers/chen3dLevelSymmetry2025]]
+- [[../papers/chen3dLevelSymmetry2025]] — 3d-level symmetry between metal layers governing the electronic configuration of Mn2N MXenes and enabling modulation between half-metallicity and semiconductivity

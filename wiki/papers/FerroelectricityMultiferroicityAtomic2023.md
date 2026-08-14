@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/FerroelectricityMultiferroicityAtomic2023]]
 projects: [project-2, project-5]
-concepts: [multiferroicity, ferroelectric-tunnel-junction, sliding-ferroelectricity, moire-superlattice, magnetoelectric-coupling, 2d-materials, polarization-switching, ferroelasticity, lego-assembly, size-effect, hafnia-ferroelectricity, stacking-engineered-ferroelectricity, type-ii-multiferroics, encapsulation-2d]
+concepts: [multiferroicity, ferroelectric-tunnel-junction, sliding-ferroelectricity, moire-superlattice, magnetoelectric-coupling, 2d-materials, polarization-switching, ferroelasticity, lego-assembly, size-effect, hafnia-ferroelectricity, stacking-engineered-ferroelectricity, type-ii-multiferroics, encapsulation-2d, critical-thickness-ferroelectric]
 entities: [BiFeO3, In2Se3, WTe2, h-BN, TMDs, PbTiO3, HfO2, CuInP2S6, SnS, MoTe2, CuCrP2S6, NiI2, Cr2Ge2Te6, MoS2, WS2, WSe2, MoSe2]
 methods: [pfm, thin-film-epitaxy, electrical-transport, optical-shg, dft]
 materials: [PbTiO3, BiFeO3, Hf0.8Zr0.2O2, CuInP2S6, In2Se3, MoTe2, SnS, WTe2, h-BN, CuCrP2S6, NiI2, Cr2Ge2Te6, MoS2, WS2, WSe2, MoSe2]
@@ -110,11 +110,13 @@ Nature Nanotechnology 编辑部（未署名社论），2023，Nature Nanotechnol
 这篇编辑评论以"钙钛矿氧化物 / 氧化铪 / 范德瓦尔斯堆叠"三分框架，系统评述原子级厚度铁电与多铁材料的最新突破，指出氧化铪的 CMOS 兼容性与 vdW 堆叠工程是两大主线，而环境稳定性/封装是共同瓶颈。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/moire-superlattice]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelasticity]]、[[../concepts/lego-assembly]]、[[../concepts/critical-thickness-ferroelectric]]、[[../concepts/hafnia-ferroelectricity]]、[[../concepts/stacking-engineered-ferroelectricity]]、[[../concepts/type-ii-multiferroics]]、[[../concepts/encapsulation-2d]]
+  - 概念 [[../concepts/multiferroicity]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/moire-superlattice]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2d-materials]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelasticity]]、[[../concepts/lego-assembly]]、[[../concepts/critical-thickness-ferroelectric]]、[[../concepts/hafnia-ferroelectricity]]、[[../concepts/stacking-engineered-ferroelectricity]]、[[../concepts/type-ii-multiferroics]]、[[../concepts/encapsulation-2d]]
   - 实体 [[../entities/BiFeO3]]、[[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/PbTiO3]]、[[../entities/HfO2]]、[[../entities/CuInP2S6]]、[[../entities/SnS]]、[[../entities/MoTe2]]、[[../entities/CuCrP2S6]]、[[../entities/NiI2]]、[[../entities/Cr2Ge2Te6]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]
-  - 年度 [[../write/2023]]
+  - 年度 [[../write/2020-2024|2023]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
+  - 概念 [[../concepts/size-effect]]
+  - 实体 [[../entities/MoS2]]、[[../entities/MoSe2]]、[[../entities/WSe2]]、[[../entities/WS2]]
   - 相关论文 **FerroelectricityMultiferroicityAtomic2023**
 
 ## 🆕 新概念/实体建议

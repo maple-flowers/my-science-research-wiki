@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# d-band-center
 
-# D Band Center
-
-d 带中心）：d 轨道投影态密度的能量加权平均 $E_d=\int E\,{\rm PDOS}_d(E)\,dE/\int {\rm PDOS}_d(E)\,dE$，d 带越深，键越强。
-
-## Related Papers
-
-- [[../papers/Li2013bonding]]
+- [[../papers/Li2013bonding]] — Bonding Charge Density and Ultimate Strength of Monolayer Transition Metal Dichalcogenides
+- [[../papers/Wei2021]] — Atomic simulations of bamboo-like N-doped CNTs with spaced nitrogen and carbon atoms by DFTB algorithm

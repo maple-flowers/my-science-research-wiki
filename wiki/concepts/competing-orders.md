@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# competing-orders
 
-# 竞争序，CDW/SC/SDW
-
-竞争序，CDW/SC/SDW 之间的此消彼长及无序对竞争的调控
-
-## Related Papers
-
-- [[../papers/Koley2020charge]]
+- [[../papers/Koley2020charge]] — Charge density wave and superconductivity in transition metal dichalcogenides
+- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]] — Anisotropic superconductivity in the two-dimensional metal-organic kagome framework Cu 3 ( CO ) 6

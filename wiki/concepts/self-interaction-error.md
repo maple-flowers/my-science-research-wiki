@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# self-interaction-error
 
-# Self Interaction Error
-
-LDA/GGA 中电子与自身电荷密度非物理相互作用导致的能量误差，是本文电压低估的物理根源。
-
-## Related Papers
-
-- [[../papers/zhouFirstprinciplesPredictionRedox2004]]
+- [[../papers/perdewGeneralizedGradientApproximation1996a]] — Generalized Gradient Approximation Made Simple
+- [[../papers/zhouFirstprinciplesPredictionRedox2004]] — First-principles prediction of redox potentials in transition-metal compounds with LDA+U

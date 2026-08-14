@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# excited-state-lifetime
 
-# 激发态布居衰减至1/e的特征时间，决定饱和强度Isat=ħω/
-
-激发态布居衰减至1/e的特征时间，决定饱和强度Isat=ħω/(2τσ)
-
-## Related Papers
-
-- [[../papers/Scremin2018nonlinear]]
+- [[../papers/Scremin2018nonlinear]] — Nonlinear absorption of tetrathiafulvalene radical cation (TTF+) based charge transfer (CT) aggregates in PMMA
+- [[../papers/dudarevElectronenergylossSpectraStructural1998a]] — Electron-energy-loss spectra and the structural stability of nickel oxide:  An LSDA+U study

@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# polymorphism
 
-# 多晶型 / Polymorphism
-
-同一化学组成形成不同晶体结构（多晶型），物理性质可显著不同
-
-## Related Papers
-
-- [[../papers/Wixtrom2011electrical]]
+- [[../papers/Wixtrom2011electrical]] — Electrical and Optical Properties of a New Polymorph of the Tetrathiafulvalene-Chloranil (TTF-CA) Charge Transfer Salt
+- [[../papers/huProgressProspectsLowdimensional2019]] — Progress and prospects in low‐dimensional multiferroic materials
+- [[../papers/liPhaseTransitions2D2021]] — Phase transitions in 2D materials

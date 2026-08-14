@@ -1,12 +1,7 @@
----
-tags: [concept, stub]
-aliases: ["光学湿度传感"]
----
+# humidity-sensing
 
-# 湿度传感
-
-湿度传感：相对湿度（RH）检测机制综述（电容/电阻/光学），亲水材料吸水引发折射率、介电常数或质量变化。
-
-## Related Papers
-
-- [[../papers/2019optical]]
+- [[../papers/2019optical]] — Optical Fiber Polymer Sensor System with TiO2-SiO2 Cladding for Measuring Humidity
+- [[../papers/Ismail2015humidity]] — Humidity Sensor - A Review of Nanostructured Zinc Oxide (ZnO) - Based Humidity Sensor
+- [[../papers/Owji20212d]] — 2D materials coated on etched optical fibers as humidity sensor
+- [[../papers/XiaokangZhang2013calibrating]] — Calibrating an optical fiber humidity sensor and applying it in real-time monitoring of relative humidity in fresh concrete
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]] — Sliding ferroelectricity in two-dimensional materials and device applications

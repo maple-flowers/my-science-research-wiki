@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# electronic-phase-transition
 
-# 电子相变
-
-电子相变：由外场驱动的金属/半导体/半金属态之间的转变
-
-## Related Papers
-
-- [[../papers/chen3dLevelSymmetry2025]]
+- [[../papers/chen3dLevelSymmetry2025]] — 3d-level symmetry between metal layers governing the electronic configuration of Mn2N MXenes and enabling modulation between half-metallicity and semiconductivity

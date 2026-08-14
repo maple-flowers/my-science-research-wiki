@@ -85,8 +85,9 @@ Gajdos, Hummer, Kresse, Furthmuller, Bechstedt，2006，Physical Review B 73, 04
   - 概念 [[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/paw-method|PAW方法]]、[[../concepts/dielectric-function|介电函数]]、[[../concepts/polarizability-matrix|极化率矩阵]]、[[../concepts/local-field-effects|局域场效应]]、[[../concepts/longitudinal-transversal-expression|纵向/横向表达式]]、[[../concepts/dipole-correction|偶极矩修正]]、[[../concepts/dfpt|DFPT]]
   - 实体 [[../entities/VASP]]、[[../entities/GaAs]]、[[../entities/WIEN2k|WIEN2k]]
   - 图表 [[../figures/optical-spectra]]、[[../figures/mathematical-models]]
-  - 年度 [[../write/2006]]
+  - 年度 [[../write/2005-2009|2006]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]
+  - 概念 [[../concepts/kohn-sham]]
   - 相关论文 **gajdosLinearOpticalProperties2006**
 ## 🆕 新概念/实体建议
   - 材料实体 Si、SiC、AlP、diamond-C 可酌情建立（本文基准材料，但与现有项目材料距离较远）。

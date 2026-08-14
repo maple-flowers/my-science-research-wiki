@@ -93,8 +93,10 @@ D. Makogon, I. B. Spielman, C. Morais Smith，2012，EPL (Europhysics Letters) 9
   - 概念 [[../concepts/hubbard-stratonovich-transformation|哈伯德-斯特拉托诺维奇变换]]
   - 概念 [[../concepts/tight-binding|紧束缚]]
   - 图表 [[../figures/electronic-bands]]
-  - 年度 [[../write/2012]]
+  - 年度 [[../write/2010-2014|2012]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 概念 [[../concepts/landau-free-energy]]
+  - 实体 [[../entities/potassium-40]]
   - 相关论文 [[../../raw/note/Makogon2012wave]]
 
 ## 🆕 新概念/实体建议

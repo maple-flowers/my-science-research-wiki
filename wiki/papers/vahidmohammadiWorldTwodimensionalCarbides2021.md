@@ -12,7 +12,7 @@ year_read: 2026
 original_note:: [[../../raw/note/vahidmohammadiWorldTwodimensionalCarbides2021]]
 projects: [project-7, project-5, project-2]
 concepts: [2d-materials, selective-etching, surface-termination, strain-engineering, intercalation, plasmonics, mxetronics, solid-solution, mixed-metal-ordering, liquid-crystal, electromagnetic-shielding]
-entities: [MXenes, MAX-phases, Ti3C2, Ti2C, Ta4C3, Mo2CTx]
+entities: [MXenes, MAX-phases, Ti3C2, Ti2C, Ta4C3, Mo2CTx, h-BN, TMDs]
 methods: [selective-etching, additive-manufacturing, vapor-phase-synthesis, dft, computational-atomistic-design]
 materials: [Ti3C2, Ti2C, Ta4C3, M5C4-MXene, carbide-MXenes, nitride-MXenes, carbonitride-MXenes]
 figures: []
@@ -92,11 +92,13 @@ VahidMohammadi, Rosen, Gogotsi，2021，Science，DOI 10.1126/science.abf1581
 这是一篇发表于 Science 的 MXene 十年前瞻性综述，系统总结了二维过渡金属碳/氮化物 M_{n+1}X_nT_x 的结构分类、合成路线、可调性能与广阔应用，并指出氮化物合成、气放集成、表面/缺陷/应变精确控制及与其他二维材料异质组装是未来方向。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/strain-engineering]]、[[../concepts/selective-etching|选择性蚀刻]]、[[../concepts/surface-termination|表面终端]]、[[../concepts/intercalation|插层]]、[[../concepts/mxetronics|MXetronics 全 MXene 光电子学]]、[[../concepts/mixed-metal-ordering|面内/面外有序双金属]]
+  - 概念 [[../concepts/2d-materials]]、[[../concepts/strain-engineering]]、[[../concepts/selective-etching|选择性蚀刻]]、[[../concepts/surface-termination|表面终端]]、[[../concepts/intercalation|插层]]、[[../concepts/mxetronics|MXetronics 全 MXene 光电子学]]、[[../concepts/mixed-metal-ordering|面内/面外有序双金属]]
   - 实体 [[../entities/MXenes]]、[[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/MAX-phases|MAX 相]]、[[../entities/Ti3C2|Ti3C2]]
   - 图表 [[../figures/crystal-structures]]
-  - 年度 [[../write/2021]]
+  - 年度 [[../write/2020-2024|2021]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]
+  - 概念 [[../concepts/electromagnetic-shielding]]、[[../concepts/liquid-crystal]]、[[../concepts/plasmonics]]、[[../concepts/solid-solution]]
+  - 实体 [[../entities/Mo2CTx]]、[[../entities/Ti2C]]、[[../entities/Ta4C3]]
   - 相关论文 [[../../raw/note/vahidmohammadiWorldTwodimensionalCarbides2021]]
 
 ## 🆕 新概念/实体建议
@@ -135,7 +137,7 @@ VahidMohammadi, Rosen, Gogotsi，2021，Science，DOI 10.1126/science.abf1581
 ## ✏️ 可写入 Wiki 的要点
   1. MXenes 通式 M_{n+1}X_nT_x，n=1–4，对应 M_2X、M_3X_2、M_4X_3、M_5C_4，分别含 3、5、7、9 个原子层；金属 M 层夹 C/N（X）层，表面带 T_x 终端。
   2. 2011 年 Ti_3C_2 首次报道；截至 2021 年已合成数十种组分，理论可能组分 >100，叠加[[../concepts/surface-termination|表面终端]]、碳氮化物与固溶体后组分空间再增加约一个数量级。
-  3. MXenes 由 [[../concepts/max-phase|MAX 相]]经[[../concepts/selective-etching|选择性蚀刻]] A 族元素层制得，证明[[../concepts/2D-materials|二维材料]]合成不必依赖范德华键合层状前驱体。
+  3. MXenes 由 [[../concepts/max-phase|MAX 相]]经[[../concepts/selective-etching|选择性蚀刻]] A 族元素层制得，证明[[../concepts/2d-materials|二维材料]]合成不必依赖范德华键合层状前驱体。
   4. 双金属有序 MXenes 分两类：面内有序 i-MXene 与面外有序 o-MXene，是扩展组分与性能的重要结构自由度。
   5. 与以介电/半导体/[[../concepts/half-metal|半金属]]为主的传统二维材料不同，MXenes 主要为金属性导体，填补了二维高电导构件的空白，催生"MXetronics"概念。
   6. MXenes 具有电化学/化学可调的等离子体性质，带间跃迁与等离激元共振覆盖紫外-可见-近红外全波段，可用于电致变色与光热治疗。

@@ -1,11 +1,3 @@
----
-tags: [entity, stub]
----
+# Bi2Fe4O9
 
-# 铋铁氧体常见杂质相
-
-铋铁氧体常见杂质相（本文样品约含 5%）。
-
-## Related Papers
-
-- [[../papers/Goswami2011multiferroic]]
+- [[../papers/Goswami2011multiferroic]] — Multiferroic coupling in nanoscale BiFeO3

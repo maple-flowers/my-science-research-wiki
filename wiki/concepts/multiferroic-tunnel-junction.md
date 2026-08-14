@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# multiferroic-tunnel-junction
 
-# 多铁隧道结，以
-
-多铁隧道结，以 1–2 nm 多铁薄膜为势垒的自旋过滤器件，可同时电、磁调控隧穿电阻。
-
-## Related Papers
-
-- [[../papers/rameshMultiferroicsProgressProspects2007]]
+- [[../papers/RecentAdvancesGrowth2025]] — Recent advances in growth, characterization, and application of two-dimensional multiferroic materials
+- [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films
+- [[../papers/yuFerroelectricControlMagnetism2026]] — Ferroelectric Control of Magnetism and Giant Magnetoresistance Via Intercalation-Induced Symmetry Breaking in Two-Dimensional Multiferroics with Strong Magnetoelectric Coupling

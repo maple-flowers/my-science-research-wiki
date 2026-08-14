@@ -66,16 +66,16 @@ Michael Naguib, Vadym N. Mochalin, Michel W. Barsoum, Yury Gogotsi et al.，2014
 本文系统宣告并综述了通过室温 HF 水溶液从 MAX 相中选择性刻蚀 A 层（主要是 Al）而制备出的全新二维过渡金属碳化物/碳氮化物家族——MXenes，并将其确立为兼具金属导电性与亲水性的"导电粘土"。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/density-functional-theory]]
   - 实体 [[../entities/MXenes]]
   - 实体 [[../entities/TMDs]]（文中作为对比的层状材料被反复提及）
   - 图表 [[../figures/crystal-structures]]（MAX/MXene 原子结构、表面官能团三种构型）
   - 图表 [[../figures/electronic-bands]]（DOS/PDOS、金属-半导体转变、带隙预测）
   - 图表 [[../figures/experimental-setups]]（HF 刻蚀—洗涤—插层—超声分层的合成流程）
-  - 图表 [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用 (Domains, Domain Walls, In₂Se₃ & Devices)]]
-  - 年度 [[../write/2013]]（DOI 年份 / 在线发表）
-  - 年度 [[../write/2014]]（正式卷期）
+  - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用 (Domains, Domain Walls, In₂Se₃ & Devices)]]
+  - 年度 [[../write/2010-2014|2013]]（DOI 年份 / 在线发表）
+  - 年度 [[../write/2010-2014|2014]]（正式卷期）
   - 相关论文 [[../../raw/note/naguib25thAnniversaryArticle2013a]]
 
 ## 🆕 新概念/实体建议
@@ -155,7 +155,7 @@ Michael Naguib, Vadym N. Mochalin, Michel W. Barsoum, Yury Gogotsi et al.，2014
     10. Configurations I, II, III / 官能团构型 I/II/III
 
 ## ✏️ 可写入 Wiki 的要点
-  1. **合成范式**：[[../concepts/max-phase|MAX 相]]（P6₃/mmc 六方层状，M_{n+1}AX_n，n=1–3）中 M–X 键为共价/金属/离子混合键而 M–A 键为较弱金属键；室温下用特定浓度含水 HF 搅拌即可选择性溶出 A（Al）层，Al 被 O/OH/F 终端取代，从而把三维层状固体转化为二维 M_{n+1}X_nTₓ 片；反应后须用去离子水洗至 pH 4–6。这是"从强化学键合 3D 前驱体化学刻蚀制备 2D 材料"的普适新范式，区别于[[../entitys/graphene|石墨烯]]/TMDs 的机械/液相剥离。
+  1. **合成范式**：[[../concepts/max-phase|MAX 相]]（P6₃/mmc 六方层状，M_{n+1}AX_n，n=1–3）中 M–X 键为共价/金属/离子混合键而 M–A 键为较弱金属键；室温下用特定浓度含水 HF 搅拌即可选择性溶出 A（Al）层，Al 被 O/OH/F 终端取代，从而把三维层状固体转化为二维 M_{n+1}X_nTₓ 片；反应后须用去离子水洗至 pH 4–6。这是"从强化学键合 3D 前驱体化学刻蚀制备 2D 材料"的普适新范式，区别于[[../entities/graphene|石墨烯]]/TMDs 的机械/液相剥离。
   2. **已合成家族**：截至 2013 年已报道 Ti₃C₂、Ti₂C、Nb₂C、V₂C、(Ti₀.₅,Nb₀.₅)₂C、(V₀.₅,Cr₀.₅)₃C₂、Ti₃CN、Ta₄C₃ 及 Nb₄C₃；单层 M₂X、M₃X₂、M₄X₃ 分别由 3、5、7 个原子层构成，厚度均 <1 nm，横向尺寸可达数十微米。纯 Ti₂N、Ti₄N₃ 等氮化物 MXene 当时未能合成，原因是 Ti_{n+1}N_n [[../concepts/cohesive-energy|内聚能]]更低而由 Ti_{n+1}AlN_n 生成的[[../concepts/formation-energy|形成能]]更高。
   3. **刻蚀条件的材料依赖性**：Ti₂AlC 需 10% HF/10 h，Ta₄AlC₃ 需 50% HF/72 h，V₂AlC 经研磨细化后从 90 h 缩至 8 h；Ti–Al 键能约 0.98 eV，Nb–Al 约 1.21 eV，解释了二者刻蚀难度差异。50% HF 会把 Ti₂AlC 完全溶解，而 10% HF 才能得到 Ti₂C，说明 n 越小越易被过度刻蚀；长时间刻蚀会在 Ta₄C₃Tₓ 上形成孔洞缺陷。
   4. **XRD/SAED 判据**：完全转化后非 (000l) 峰消失，(000l) 峰宽化并向低角度偏移（c 轴增大）；样品需冷压至 450 MPa 以增强 (000l) 峰强度；EDS 测 A:M 比量化转化程度但会因残留 AlF₃ 等副产物而高估未反应 MAX 相。SAED 沿 [0001] 方向保持与母体 MAX 相同的六方对称斑点，证实 3D→2D 是[[../concepts/topochemical-reaction|拓扑化学]]转化而非非晶化；Ti₃C₂ 在 200 kV 电子束下比石墨烯更稳定。
@@ -163,7 +163,7 @@ Michael Naguib, Vadym N. Mochalin, Michel W. Barsoum, Yury Gogotsi et al.，2014
   6. **电子结构与磁性**：移除 Al 后，原 Ti–Al 悬挂键重排为离域 Ti–Ti 金属键，使裸 MXene 在 E_f 附近的 DOS 比母体 MAX 相高 1.9–4.8 倍（Ti_{n+1}C_n 为 1.9–3.2 倍，Ti_{n+1}N_n 为 2.8–4.8 倍）；当 I·N(E_f)>1（I≈0.9 eV）时出现铁磁或反铁磁不稳定性（Cr₂C/Cr₂N/Ta₃C₂ 铁磁；Ti₃C₂/Ti₃N₂ 反铁磁），但 O/OH/F/H 封端会形成 p–d 键、耗尽 E_f 附近[[../concepts/density-of-states|态密度]]而使磁性消失（Cr₂C、Cr₂N 在封端后仍保持近室温磁矩，尚未被实验验证）。
   7. **带隙对终端与泛函的敏感性**：Ti₃C₂ 为金属；Ti₃C₂(OH)₂、Ti₃C₂F₂ 打开 <0.1 eV 小带隙（构型 I/III 为半导体，构型 II 仍为金属）；O 封端可给出更显著带隙——Sc₂CO₂ 1.8 eV、Hf₂CO₂ 1.0 eV、Sc₂CF₂ 1.03 eV、Zr₂CO₂ 0.88 eV、Ti₂CO₂ 在 PBE 下 0.24 eV 而 HSE06 下达 0.88 eV。同一构型在 PBE 下为[[../concepts/narrow-gap-semiconductor|窄带隙半导体]]，在 HSE06 下可能预测为金属，提示 wiki 叙述引用带隙数值时必须注明泛函。
   8. **插层与分层**：肼（N₂H₄）在 Ti₃C₂(OH)₂ 层间以平行基面取向排列，N/C≈0.4 时形成完整单层，c≈25–26 Å；DMSO 插层 Δc 高达 15.4 Å（环境水共插层），空气中放置 3 周后 c 轴翻倍，去离子水中温和超声 6 h 即可大规模分层，得到无表面活性剂的稳定胶体水溶液（丁达尔效应），过滤后成柔性、无添加剂 MXene 纸；迄今唯一被大规模分层的是 Ti₃C₂Tₓ。
-  9. **导电性与亲水性**：冷压（~1 GPa）自支撑 MXene 圆片电阻率从 Ti₃C₂Tₓ 的 22 Ω □⁻¹ 到 Ti₂CTₓ 的 339 Ω □⁻¹，与[[../entitys/graphene-tetralayer|多层石墨烯]]相当；水接触角 27°–41°，与氧封端碳表面相当，确证亲水性。插层有机物后电阻率上升 1–2 个数量级，提示可用于化学传感器。
+  9. **导电性与亲水性**：冷压（~1 GPa）自支撑 MXene 圆片电阻率从 Ti₃C₂Tₓ 的 22 Ω □⁻¹ 到 Ti₂CTₓ 的 339 Ω □⁻¹，与[[../entities/graphene-tetralayer|多层石墨烯]]相当；水接触角 27°–41°，与氧封端碳表面相当，确证亲水性。插层有机物后电阻率上升 1–2 个数量级，提示可用于化学传感器。
   10. **力学与热电预测**：裸 M_{n+1}C_n 单层 c₁₁ 高于对应 MAX 相（移除 A 后电子密度更集中于 M–X 层），但 MXene 片至少 3 个原子层厚，弯曲刚度 ∝ t³ 因而显著高于石墨烯；DFT 还预测半导体 Ti₂CO₂、Sc₂C(OH)₂ 在约 100 K 下塞贝克系数 ≈1000 μV K⁻¹，可与 SrTiO₃ 的巨塞贝克系数相比。
   11. **储能性能**：DFT 预测裸 Ti₃C₂ 上 Li 扩散势垒仅 0.07 eV（远低于锐钛矿 TiO₂ 的 0.35–0.65 eV 和石墨的 ≈0.3 eV），理论容量 320 mAh g⁻¹；实验上非分层 V₂CTₓ 在 1C 下达 280 mAh g⁻¹、10C 下 125 mAh g⁻¹；DMSO 分层的 Ti₃C₂Tₓ 纸电极在 1C 下可逆容量 410 mAh g⁻¹（含粘结剂/碳添加剂流延膜的约 4 倍），36C 循环 700 次后仍有 110 mAh g⁻¹；Ti₃C₂Tₓ 纸在 KOH 中体积电容 >330 F cm⁻³，循环 >10 000 次；Ti₂CTₓ 用于锂电混合电容器负极时 930 W kg⁻¹ 下能量密度 30 Wh kg⁻¹、循环 1000 次。所有 MXene 均存在首圈不可逆容量问题，可能源于 SEI 形成或 Li 与表面基团的不可逆反应。
   12. **异质结与催化**：DFT 预测 Ti₂C 沉积在 MoS₂ 上会因界面强化学键使 MoS₂ 转为金属；Ti₂CF₂、Ti₂C(OH)₂ 与 MoS₂ 为物理吸附，保留 MoS₂ 半导体性并产生 n 型掺杂（[[../concepts/schottky-barrier|肖特基势垒]]分别为 0.85、0.26 eV）；Ti₂C 表面 O₂ 无能垒解离形成 Ti₂CO₂ 后即使 550 °C 也排斥进一步氧化、不生成 TiO₂，提示催化应用潜力；Pt/Ti₃C₂Tₓ 燃料电池催化剂 10 000 次循环后 Pt 电化学表面积损失 15.7%，远优于 Pt/C 的 40.8%。

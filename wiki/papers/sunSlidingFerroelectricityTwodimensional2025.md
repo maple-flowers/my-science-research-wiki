@@ -30,17 +30,11 @@ concepts:
   - domain-wall
   - interlayer-charge-transfer
   - stacking-engineering
-  - 3r-phase
-  - twist-angle-engineering
-  - fatigue-free-switching
   - depolarization-field
-  - landau-theory
   - valley-polarization
   - flat-band
   - van-hove-singularity
   - neuromorphic-computing
-  - fefet
-  - synaptic-device
 entities:
   - h-BN
   - TMDs
@@ -54,8 +48,6 @@ entities:
   - WSe2
   - WS2
   - MoSe2
-  - GaSe
-  - InSe
   - MoSi2N4
   - CrI3
   - GdI2
@@ -64,9 +56,6 @@ entities:
   - graphene
   - MnSe
   - ReS2
-  - Cd3Cl6
-  - r-BN
-  - Janus-MoSSe
 methods:
   - dft
   - paw
@@ -284,7 +273,7 @@ Xiaoyao Sun、Qian Xia、Tengfei Cao、Shuoguo Yuan 等，2025，*Materials Scie
 
 - 概念：
   - [[../concepts/sliding-ferroelectricity]]
-  - [[../concepts/2D-materials]]
+  - [[../concepts/2d-materials]]
   - [[../concepts/moire-superlattice]]
   - [[../concepts/ferroelectric-tunnel-junction]]
   - [[../concepts/polarization-switching]]
@@ -319,7 +308,7 @@ Xiaoyao Sun、Qian Xia、Tengfei Cao、Shuoguo Yuan 等，2025，*Materials Scie
   - [[../entities/BiFeO3]]
   - [[../entities/VASP]]
   - [[../entities/SnTe]]
-  - [[../entities/domain-wall]]
+  - [[../concepts/domain-wall]]
   - [[../entities/Cr2Ge2Te6]]
   - [[../entities/CrI3]]
   - [[../entities/MnSe]]
@@ -329,13 +318,15 @@ Xiaoyao Sun、Qian Xia、Tengfei Cao、Shuoguo Yuan 等，2025，*Materials Scie
   - [[../entities/graphene]]
 - 图表：
   - [[../figures/heterostructures-stacking]]
-  - [[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系 (Sliding Ferroelectricity: Reviews & Materials)]]
+  - [[../figures/heterostructures-stacking|层间滑移铁电：综述与材料体系 (Sliding Ferroelectricity: Reviews & Materials)]]
   - [[../figures/electronic-devices]]
   - [[../figures/domain-walls]]
   - [[../figures/mathematical-models]]
   - [[../figures/experimental-setups]]
-- 年度：[[../write/2025]]
+- 年度：[[../write/2025-2029|2025]]
 - 项目：[[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
+  - 概念 [[../concepts/van-hove-singularity]]、[[../concepts/neuromorphic-computing]]
+  - 实体 [[../entities/MoSe2]]、[[../entities/WS2]]
 - 相关论文：[[../../raw/note/sunSlidingFerroelectricityTwodimensional2025]]
 
 ## 🆕 新概念/实体建议

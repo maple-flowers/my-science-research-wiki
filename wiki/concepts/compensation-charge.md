@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# compensation-charge
 
-# 补偿电荷
-
-补偿电荷 n̂，PAW 中加在软密度上以恢复每个增强球内全电子价电荷密度多极矩的电荷分布，保证长程静电作用精确。
-
-## Related Papers
-
-- [[../papers/kresseUltrasoftPseudopotentialsProjector1999c]]
+- [[../papers/kresseUltrasoftPseudopotentialsProjector1999c]] — From ultrasoft pseudopotentials to the projector augmented-wave method
+- [[../papers/krishnamurthiSpinChargeDensity2020]] — Spin/charge density waves at the boundaries of transition metal dichalcogenides
+- [[../papers/shishkinImplementationPerformanceFrequencydependentGWmethod2006]] — Implementation and performance of the frequency-dependent GW method within the PAW framework

@@ -93,8 +93,10 @@ Choubey, Brahme, Bisen, Sharma et al.，2011，*The Open Nanoscience Journal* 5 
   - 概念 [[../concepts/charge-transfer|电荷转移]]
   - 实体 [[../entities/SrAl2O4|SrAl₂O₄]]
   - 实体 [[../entities/Eu2-plus|Eu²⁺]]
-  - 年度 [[../write/2011]]
+  - 年度 [[../write/2010-2014|2011]]
   - 项目 [[../projects/project-3-mechanoluminescence-nn]]
+  - 概念 [[../concepts/scherrer-broadening]]
+  - 实体 [[../entities/Shimadzu-UV1700]]、[[../entities/RCA931-pmt]]、[[../entities/Nucleonix-TL10091]]、[[../entities/Rigaku-D]]
   - 相关论文 [[../../raw/note/KumarChoubey2011mechanoluminescence]]
 ## 📊 关键图表
 笔记未附图片（`raw/figures/KumarChoubey2011mechanoluminescence/` 仅含 manifest.json，figures 数组为空）。以下按论文原图 Fig.1–Fig.7 给出文字描述，定量数据取自原文。

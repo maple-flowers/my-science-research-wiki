@@ -1,11 +1,7 @@
----
-tags: [concept, stub]
----
+# spin-flop
 
-# 自旋翻转）
-
-自旋翻转）：反铁磁体在磁场下自旋突然转向外场方向的过程，RMCD 回线在 ±1.2–2.6 T 的平台即此。
-
-## Related Papers
-
-- [[../papers/wuCoexistenceFerroelectricityAntiferroelectricity2024]]
+- [[../papers/cheongMultiferroicsMagneticTwist2007a]] — Multiferroics: a magnetic twist for ferroelectricity
+- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]] — Multiferroics: different routes to magnetoelectric coupling
+- [[../papers/wuCoexistenceFerroelectricityAntiferroelectricity2024]] — Coexistence of ferroelectricity and antiferroelectricity in 2D van der Waals multiferroic
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]] — Nonvolatile switchable half-metallicity and magnetism in the MXene Hf₂MnC₂O₂/Sc₂CO₂ multiferroic heterostructure
+- [[../papers/zhongHighthroughputExfoliationMultiferroic2025]] — High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperature and giant spin splitting

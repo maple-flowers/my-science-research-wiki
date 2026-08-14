@@ -17,8 +17,8 @@ local_path: E:\swan_goose\燕燕\香香\项目五：lammps势函数SnTe铁电模
 本项目旨在通过第一性原理计算与机器学习势能（MLIP）方法，构建适用于 SnTe（碲化锡）及其二维体系的高精度 LAMMPS 势函数。重点研究 SnTe 在纳米尺度下的铁电极化动力学、相变行为及热物理性质。目前处于势函数评估与论文大纲规划阶段。
 
 ## 2. 与科研 Wiki 知识库的联系
-- **相关材料/实体**：[[../../entities/SnTe|SnTe 碲化锡]]、[[../../entities/In2Se3|In2Se3 (同族参考)]]、[[../../entities/WTe2|WTe2 (金属铁电参考)]]、[[../../entities/VASP|VASP]]、[[../../entities/deep-potential|Deep Potential (DPMD)]]
-- **相关物理概念**：[[../../concepts/sliding-ferroelectricity|滑动铁电性]]、[[../../concepts/polarization-switching|极化翻转动力学]]、[[../../concepts/depolarization-field|退极化场]]、[[../../concepts/berry-phase|Berry 相位]]、[[../../concepts/machine-learning-potential|机器学习势]]
+- **相关材料/实体**：[[../entities/SnTe|SnTe 碲化锡]]、[[../entities/In2Se3|In2Se3 (同族参考)]]、[[../entities/TMDs|WTe2 (金属铁电参考)]]、[[../entities/software-tool-entity|VASP]]、[[../entities/software-tool-entity|Deep Potential (DPMD)]]
+- **相关物理概念**：[[../concepts/sliding-ferroelectricity|滑动铁电性]]、[[../concepts/polarization-switching|极化翻转动力学]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/berry-phase|Berry 相位]]、[[../concepts/molecular-beam-epitaxy|机器学习势]]
 - **计算工具**：LAMMPS, DeepMD-kit, Phonopy
 
 ---

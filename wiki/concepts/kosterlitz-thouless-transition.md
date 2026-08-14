@@ -1,12 +1,4 @@
----
-tags: [concept, stub]
----
+# kosterlitz-thouless-transition
 
-# Kosterlitz Thouless Transition
-
-KT 相变）：二维中超导由涡旋-反涡旋对解束缚驱动的拓扑相变，弱层间耦合将普适类变为 3D-XY。
-
-## Related Papers
-
-- [[../papers/CastroNeto2001charge]]
-- [[../papers/liPhaseTransitions2D2021]]
+- [[../papers/CastroNeto2001charge]] — Charge Density Wave, Superconductivity, and Anomalous Metallic Behavior in 2D Transition Metal Dichalcogenides
+- [[../papers/hanPolarTopologicalMaterials2025]] — Polar topological materials and devices: Prospects and challenges

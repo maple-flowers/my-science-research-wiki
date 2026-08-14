@@ -97,9 +97,10 @@ Dae Ho Kim, Ho Nyung Lee, Michael D. Biegalski, Hans M. Christen，2008，Applie
   - 实体 [[../entities/SrRuO3|钌酸锶]]
   - 实体 [[../entities/SrTiO3|钛酸锶]]
   - 图表 [[../figures/crystal-structures]]
-  - 年度 [[../write/2008]]
+  - 年度 [[../write/2005-2009|2008]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 概念 [[../concepts/ferroelectric-hysteresis]]
   - 相关论文 [[../../raw/note/Kim2008effect]]
 ## 📊 关键图表
 笔记未附图片（raw/figures/Kim2008effect 下仅 manifest.json，无图像文件），以下按原文图号给出文字描述。

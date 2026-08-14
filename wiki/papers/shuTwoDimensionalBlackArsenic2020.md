@@ -81,7 +81,7 @@ Yiqing Shu, Jia Guo, Taojian Fan 等，2020，ACS Applied Materials & Interfaces
 ## 💡 一句话
 首次将液相剥离制备的二维黑砷磷（b-AsP）作为可饱和吸收体，在 1.5 μm 和 2 μm 光纤激光器中实现稳定锁模脉冲，并通过 DFT 揭示其低饱和强度源于极小带隙、电荷空间分离和结构破缺对称。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/density-functional-theory]]
   - 概念 [[../concepts/electron-hole-recombination|电子-空穴复合]]
   - 概念 [[../concepts/saturable-absorption|可饱和吸收]]
@@ -90,8 +90,10 @@ Yiqing Shu, Jia Guo, Taojian Fan 等，2020，ACS Applied Materials & Interfaces
   - 图表 [[../figures/optical-spectra]]
   - 图表 [[../figures/experimental-setups]]
   - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/2020]]
+  - 年度 [[../write/2020-2024|2020]]
   - 项目 [[../projects/project-1-two-photon]]
+  - 概念 [[../concepts/band-structure]]、[[../concepts/nonlinear-optics]]、[[../concepts/in-plane-anisotropy]]
+  - 实体 [[../entities/b-AsP]]
   - 相关论文 [[../../raw/note/shuTwoDimensionalBlackArsenic2020]]
 ## 🆕 新概念/实体建议
   - `b-asp`（实体）：黑砷磷，V 族二元二维合金，As:P ≈ 0.2:0.8，正交褶皱蜂窝结构，带隙 0.15-0.3 eV 可调，填补石墨烯与黑磷之间的带隙空白

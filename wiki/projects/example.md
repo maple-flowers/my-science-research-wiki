@@ -21,10 +21,10 @@ local_path: E:\swan_goose\燕燕\香香\项目八：二维范德华异质结的�
 
 ## 🔗 2. 与科研 Wiki 知识库的联系
 
-- **相关物理概念**：[[../../concepts/interlayer-charge-transfer|层间电荷转移 (ICT)]]、[[../../concepts/sliding-ferroelectricity|滑动铁电性]]、[[../../concepts/magnetoelectric-coupling|磁电耦合]]、[[../../concepts/dzyaloshinskii-moriya-interaction|DMI]]
-- **相关材料/实体**：[[../../entities/CrTe2|CrTe2]]、[[../../entities/Fe3GeTe2|Fe3GeTe2]]、[[../../entities/NiI2|NiI2]]、[[../../entities/CrSBr|CrSBr]]
+- **相关物理概念**：[[../concepts/interlayer-charge-transfer|层间电荷转移 (ICT)]]、[[../concepts/sliding-ferroelectricity|滑动铁电性]]、[[../concepts/magnetoelectric-coupling|磁电耦合]]、[[../concepts/dzyaloshinskii-moriya-interaction|DMI]]
+- **相关材料/实体**：[[../entities/TMDs|CrTe2]]、[[../entities/CrI3|Fe3GeTe2]]、[[../entities/CrI3|NiI2]]、[[../entities/CrSBr|CrSBr]]
 - **模拟/计算方法**：VASP + Berry phase 极化计算、DFT+U 磁基态搜索、NEB 翻转势垒计算、Monte Carlo 居里温度估算
-- **相关主题**：[[../../topics/D03-magnetic-materials|D03 二维磁性材料]]
+- **相关主题**：[[../topics/D03-magnetic-materials|D03 二维磁性材料]]
 
 ## 📖 3. 当前进展与文献综述 (Literature Review)
 

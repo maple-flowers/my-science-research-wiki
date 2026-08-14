@@ -1,12 +1,11 @@
----
-tags: [concept, stub]
-aliases: ["密度泛函紧束缚（DFTB） / Density Functional Tight Binding"]
----
+# tight-binding
 
-# 紧束缚模型/最小模型
-
-紧束缚模型/最小模型 downfolding）：以局域轨道基组展开哈密顿量；本文从第一性原理 downfold 到仅含 t₂、t₆ 的二维三角晶格最小模型。
-
-## Related Papers
-
-- [[../papers/Barnett2006coexistence]]
+- [[../papers/Barnett2006coexistence]] — Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides
+- [[../papers/CastroNeto2001charge]] — Charge Density Wave, Superconductivity, and Anomalous Metallic Behavior in 2D Transition Metal Dichalcogenides
+- [[../papers/Inosov2008fermi]] — Fermi surface nesting in several transition metal dichalcogenides
+- [[../papers/Johannes2008fermi]] — Fermi surface nesting and the origin of charge density waves in metals
+- [[../papers/Makogon2012wave]] — Spin-charge-density wave in a rounded-square Fermi surface for ultracold atoms
+- [[../papers/hallEnvironmentalControlCharge]] — Environmental Control of Charge Density Wave Order in Monolayer 2H-TaS₂
+- [[../papers/hillWhyAreThere2000a]] — Why Are There so Few Magnetic Ferroelectrics?
+- [[../papers/monkhorstSpecialPointsBrillouinzone1976]] — Special points for Brillouin-zone integrations
+- [[../papers/nicholsonUniaxialStraininducedPhase2021]] — Uniaxial strain-induced phase transition in the 2D topological semimetal IrTe2

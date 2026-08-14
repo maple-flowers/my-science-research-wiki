@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# rashba-spin-texture
 
-# Rashba Spin Texture
-
-Rashba 自旋织构：WTe2、HgI2 中极化翻转反转自旋纹理，是自旋 FET 的物理基础。
-
-## Related Papers
-
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]
+- [[../papers/kaurRecentAdvancesTheoretical2025a]] — Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials
+- [[../papers/zhangEmergingFrontiersTwodimensional2025]] — Emerging frontiers in two-dimensional sliding ferroelectrics

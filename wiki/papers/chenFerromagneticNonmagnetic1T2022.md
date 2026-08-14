@@ -103,8 +103,10 @@ Kaiyun Chen, Junkai Deng, Dongxiao Kan, Yuan Yan, Qian Shi, Wangtu Huo, Mengshan
   - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2d-materials]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/ferroelasticity]]、[[../concepts/peierls-distortion|派尔斯畸变]]、[[../concepts/superexchange|超交换]]、[[../concepts/direct-exchange|直接交换]]、[[../concepts/goodenough-kanamori-anderson-rules|GKA规则]]、[[../concepts/dimerization|二聚化]]、[[../concepts/structural-distortion-index|结构畸变指数]]、[[../concepts/charge-doping|电荷掺杂]]
   - 实体 [[../entities/TMDs]]、[[../entities/VASP]]、[[../entities/CrTe2]]、[[../entities/WTe2]]、[[../entities/VTe2|VTe₂]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]
-  - 年度 [[../write/2022]]
+  - 年度 [[../write/2020-2024|2022]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]、[[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
+  - 概念 [[../concepts/magnetism]]
+  - 实体 [[../entities/CrSe2]]、[[../entities/MnS2]]、[[../entities/MnSe2]]、[[../entities/MnTe2]]、[[../entities/CrS2]]
   - 相关论文 **chenFerromagneticNonmagnetic1T2022**
 
 ## 🆕 新概念/实体建议

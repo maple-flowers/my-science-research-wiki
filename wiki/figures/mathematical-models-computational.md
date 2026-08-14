@@ -235,7 +235,7 @@ tags:
 ![PAW 总能量三项分解 E = Ẽ + E¹ − Ẽ¹（Eq.20）](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_20_9ZF6QIUA.png)
 *   **来源**：[[../papers/kresseUltrasoftPseudopotentialsProjector1999c]]
 *   **图示描述**：总能量写成平面波网格项 Ẽ、原子球内全电子项 E¹、原子球内赝项 Ẽ¹ 三段的代数和，Ẽ 与常规赝势程序结构相同，E¹−Ẽ¹ 是把赝值校正成全电子值的补丁。
-*   **关键特征**：(1) Hartree 能按 (ñ+n̂)、(ñ¹+n̂)、n¹ 拆成网格平滑项、球内赝项、球内全电子项；(2) 交换关联能采用 E_xc[ñ+n̂+ñ_c] + Ē_xc[n¹+n_c] − Ē_xc[ñ¹+n̂+ñ_c]，在网格项和球内赝项中显式加入部分核心电荷 ñ_c（[[../concepts/nonlinear-core-correction|非线性核心修正]]）；(3) 核-核相互作用改用 Ewald 求和 U(R,Z_ion)；(4) 相对于 Blöchl 原始 PAW，这一改写更贴近赝势代码习惯并改善了 GGA 在核附近的数值稳定性。
+*   **关键特征**：(1) Hartree 能按 (ñ+n̂)、(ñ¹+n̂)、n¹ 拆成网格平滑项、球内赝项、球内全电子项；(2) 交换关联能采用 E_xc[ñ+n̂+ñ_c] + Ē_xc[n¹+n_c] − Ē_xc[ñ¹+n̂+ñ_c]，在网格项和球内赝项中显式加入部分核心电荷 ñ_c（[[../concepts/molecular-beam-epitaxy|非线性核心修正]]）；(3) 核-核相互作用改用 Ewald 求和 U(R,Z_ion)；(4) 相对于 Blöchl 原始 PAW，这一改写更贴近赝势代码习惯并改善了 GGA 在核附近的数值稳定性。
 
 ### 39. US-PP 非局域势强度 G_ij^US（Eq.35），即 PAW 线性化产物
 ![US-PP 非局域势强度 G_ij^US（Eq.35），即 PAW 线性化产物](../../raw/figures/kresseUltrasoftPseudopotentialsProjector1999c/eq_35_SUNR7ATM.png)

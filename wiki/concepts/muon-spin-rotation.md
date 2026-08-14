@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# muon-spin-rotation
 
-# Muon Spin Rotation
-
-μSR 缪子自旋旋转）：通过涡旋态磁场分布测 σ_sc ∝ λ⁻² ∝ n_s/m* 的微观、体态、绝对测量技术，与高压腔兼容。
-
-## Related Papers
-
-- [[../papers/Islam2025enhancement]]
+- [[../papers/Islam2025enhancement]] — Pressure-induced enhancement of superfluid density in transition metal dichalcogenides with and without charge density wave

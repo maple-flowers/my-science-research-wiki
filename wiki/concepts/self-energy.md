@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# self-energy
 
-# 自能算符Σ）
-
-自能算符Σ）：GW中描述多体效应的非局域、能量相关算符，Σ=iGW；其虚部给出准粒子寿命。
-
-## Related Papers
-
-- [[../papers/shishkinImplementationPerformanceFrequencydependentGWmethod2006]]
+- [[../papers/gorkovStrongElectronlatticeCoupling2012]] — Strong electron-lattice coupling as the mechanism behind charge density wave transformations in transition-metal dichalcogenides

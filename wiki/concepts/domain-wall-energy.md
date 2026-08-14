@@ -1,11 +1,5 @@
----
-status: alias
-redirect_to: ../../concepts/domain-walls
-merged_into: "畴壁（概念） / Domain Walls (Concept)"
----
+# domain-wall-energy
 
-# 畴壁能
-
-> ⚠️ **本页面已合并**到 [[../../concepts/domain-walls|畴壁（概念） / Domain Walls (Concept)]]（作为别名）。请前往主页查看规范内容。
->
-> 合并依据：去重计划（2026-08-13）识别为别名；主页中已添加 `畴壁能` 到 `aliases` 列表。
+- [[../papers/gomez-ortizKittelLawDomain2023]] — Kittel law and domain formation mechanism in PbTiO3/SrTiO3 superlattices
+- [[../papers/prosandeevKittelLawInBiFeO3Ultrathin2010]] — Kittel Law in BiFeO3 Ultrathin Films: A First-Principles-Based Study
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]] — Sliding ferroelectricity in two-dimensional materials and device applications

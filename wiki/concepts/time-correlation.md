@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# time-correlation
 
-# 光子对的相干时间
-
-光子对的相干时间 T（泵浦决定）与关联时间 τ（下转换带宽决定），τ≪T 是 SPDC 孪生光子对的特征。
-
-## Related Papers
-
-- [[../papers/Nakanishi2009full]]
+- [[../papers/Nakanishi2009full]] — Full Quantum Analysis of Two-Photon Absorption Using Two-Photon Wave Function: Comparison of Two-Photon Absorption with One-Photon Absorption
+- [[../papers/yangRipplingFerroicPhase2021]] — Rippling Ferroic Phase Transition and Domain Switching In 2D Materials

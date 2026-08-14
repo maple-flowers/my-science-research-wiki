@@ -1,11 +1,4 @@
----
-status: alias
-redirect_to: ../../concepts/domain-walls
-merged_into: "畴壁（概念） / Domain Walls (Concept)"
----
+# domain-wall-electronics
 
-# 畴壁电子学
-
-> ⚠️ **本页面已合并**到 [[../../concepts/domain-walls|畴壁（概念） / Domain Walls (Concept)]]（作为别名）。请前往主页查看规范内容。
->
-> 合并依据：去重计划（2026-08-13）识别为别名；主页中已添加 `畴壁电子学` 到 `aliases` 列表。
+- [[../papers/gaoStrainEngineeringFerroelectric2024]] — Strain engineering of ferroelectric polarization and domain in the two-dimensional multiferroic semiconductor
+- [[../papers/neumayerCompetingPolarPhases2025]] — Competing polar phases in 2D ferroelectric transition metal thio- and selenophosphates

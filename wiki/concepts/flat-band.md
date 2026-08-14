@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# flat-band
 
-# 平带，M
-
-平带，M 点附近 vF 急剧降低导致电子局域化、N(EF) 抬升
-
-## Related Papers
-
-- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]]
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]] — Sliding ferroelectricity in two-dimensional materials and device applications
+- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]] — Anisotropic superconductivity in the two-dimensional metal-organic kagome framework Cu 3 ( CO ) 6

@@ -1,15 +1,8 @@
----
-tags: [concept, stub]
----
+# mechanoluminescence
 
-# 机械发光/力致发光
-
-机械发光/力致发光（ML），材料在机械刺激（冲击、摩擦、压缩）下发光的现象，按激发方式可分为摩擦发光、断裂发光、弹性-塑性 ML 等；是 project-3 的核心物理对象。
-
-## Related Papers
-
-- [[../papers/Gulhare2021mechanoluminescence]]
-- [[../papers/KumarChoubey2011mechanoluminescence]]
-- [[../papers/PChandra2011mechanoluminescence]]
-- [[../papers/TSUJI2019phosphorescence]]
-- [[../papers/Terasaki2011ultrasonic]]
+- [[../papers/Gulhare2021mechanoluminescence]] — Mechanoluminescence Characterization of γ-irradiated Ba3(VO4)2:Eu phosphors
+- [[../papers/KumarChoubey2011mechanoluminescence]] — Mechanoluminescence & Thermoluminescence of SrAl2O4:Eu Nano-Phosphors
+- [[../papers/PChandra2011mechanoluminescence]] — Mechanoluminescence of Nanoparticles
+- [[../papers/TSUJI2019phosphorescence]] — Phosphorescence light decay curve from mechanoluminescence material subjected to hydrostatic load
+- [[../papers/Terasaki2011ultrasonic]] — Ultrasonic Wave Induced Mechanoluminescence
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]] — Sliding ferroelectricity in two-dimensional materials and device applications

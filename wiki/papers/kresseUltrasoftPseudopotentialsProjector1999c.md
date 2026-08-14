@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/kresseUltrasoftPseudopotentialsProjector1999c]]
 projects: []
-concepts: [density-functional-theory]
+concepts: [density-functional-theory, norm-conserving-pseudopotential, projector-augmented-wave, frozen-core-approximation, augmentation-charge, ghost-states, flapw, nonlinear-core-correction, ultrasoft-pseudopotential, compensation-charge]
 entities: [VASP]
 methods: [dft]
 materials: []
@@ -61,7 +61,7 @@ G. Kresse、D. Joubert，1999，Physical Review B 59(3), 1758–1775，DOI: 10.1
   - 概念 [[../concepts/density-functional-theory|密度泛函理论]] [[../concepts/ultrasoft-pseudopotential|超软赝势（US-PP）]] [[../concepts/projector-augmented-wave|投影增强波（PAW）]] [[../concepts/norm-conserving-pseudopotential|模守恒赝势]] [[../concepts/augmentation-charge|增强电荷]] [[../concepts/compensation-charge|补偿电荷]] [[../concepts/nonlinear-core-correction|非线性核心修正]] [[../concepts/frozen-core-approximation|冻结核心近似]] [[../concepts/ghost-states|鬼态]] [[../concepts/flapw|FLAPW]]
   - 实体 [[../entities/VASP]]
   - 图表 [[../figures/mathematical-models]] [[../figures/electronic-bands|电子能带与电子态 (Electronic Band Structures & DOS)]]
-  - 年度 [[../write/1999]]
+  - 年度 [[../write/1945-1999|1999]]
   - 相关论文 [[../../raw/note/kresseUltrasoftPseudopotentialsProjector1999c]]
 
 ## 📊 关键图表

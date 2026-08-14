@@ -18,17 +18,15 @@ concepts:
   - magnetoelectric-coupling
   - polarization-switching
   - spin-wave
-  - magnon
   - dzyaloshinskii-moriya-interaction
   - canted-antiferromagnetism
   - weak-ferromagnetism
   - magnetostatic-effect
   - electromagnon
-  - landau-theory
   - landau-lifshitz-equation
-  - ginzburg-landau-theory
   - spin-wave-logic
   - neel-vector
+  - ginzburg-landau
 entities:
   - BiFeO3
 methods:
@@ -103,7 +101,7 @@ Rogerio de Sousa, Joel E. Moore，2008，Applied Physics Letters 92, 022514，DO
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/spin-wave|自旋波]]、[[../concepts/dzyaloshinskii-moriya-interaction|DM相互作用]]、[[../concepts/canted-antiferromagnetism|倾斜反铁磁性]]、[[../concepts/weak-ferromagnetism|弱铁磁性]]、[[../concepts/magnetostatic-effect|磁静波效应]]、[[../concepts/electromagnon|电磁振子]]、[[../concepts/neel-vector|奈尔矢量]]、[[../concepts/landau-lifshitz-equation|朗道-莱弗席兹方程]]、[[../concepts/ginzburg-landau|金兹堡-朗道理论]]、[[../concepts/spin-wave-logic|自旋波逻辑]]
   - 实体 [[../entities/BiFeO3]]
   - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/2008]]
+  - 年度 [[../write/2005-2009|2008]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 **deSousa2008electrical**
 

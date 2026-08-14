@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# linear-dichroism
 
-# 线性二向色性）
-
-线性二向色性）：β'-In2Se3 畴成像的光学基础，可作为通用表征概念。
-
-## Related Papers
-
-- [[../papers/xuTwodimensionalFerroelasticityVan2021]]
+- [[../papers/xuTwodimensionalFerroelasticityVan2021]] — Two-dimensional ferroelasticity in van der Waals β'-In2Se3

@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# twin-domain-boundary
 
-# 孪晶畴界）
-
-孪晶畴界）：晶体中不同取向变体之间呈镜像对称关系的界面，本文核心研究对象。
-
-## Related Papers
-
-- [[../papers/wangFormationMechanismTwin2019]]
+- [[../papers/wangFormationMechanismTwin2019]] — Formation mechanism of twin domain boundary in 2D materials: The case for WTe2

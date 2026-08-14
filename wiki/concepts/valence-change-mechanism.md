@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# valence-change-mechanism
 
-# 价态变化机制 / Valence Change Mechanism
-
-氧空位迁移导致阳离子价态变化并形成/断裂导电丝的阻变机制。
-
-## Related Papers
-
-- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]
+- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]] — Ferroelectricity and Nonvolatile Memristor Applications of Free‐Standing 2D Niobium Carbide: A New Frontier of Free‐Standing MXene in Electronic Devices

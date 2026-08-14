@@ -1,0 +1,3 @@
+# transparent-ceramics
+
+- [[../papers/Kotz2021polymerization]] — Two-Photon Polymerization of Nanocomposites for the Fabrication of Transparent Fused Silica Glass Microstructures

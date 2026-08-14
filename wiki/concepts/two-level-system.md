@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# two-level-system
 
-# 仅含基态和单一激发态的简化模型，用于推导饱和吸收
-
-仅含基态和单一激发态的简化模型，用于推导饱和吸收
-
-## Related Papers
-
-- [[../papers/Scremin2018nonlinear]]
+- [[../papers/Scremin2018nonlinear]] — Nonlinear absorption of tetrathiafulvalene radical cation (TTF+) based charge transfer (CT) aggregates in PMMA

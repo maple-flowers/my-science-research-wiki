@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/yangStrainEngineeringTwodimensional2021]]
 projects: []
-concepts: [2D-materials, berry-phase, ferroelasticity, moire-superlattice, spin-orbit-coupling, strain-engineering]
-entities: [In2Se3, TMDs, VASP, h-BN]
+concepts: [2D-materials, berry-phase, ferroelasticity, moire-superlattice, spin-orbit-coupling, strain-engineering, shg-strain-mapping, phase-transition-2h-1tp, piezoresistive-effect, wrinkle-strain, exciton-funnel-effect, flexible-substrates]
+entities: [In2Se3, TMDs, VASP, h-BN, black-phosphorus, graphene]
 methods: [afm-pfm, berry-phase, dft, mfm, raman, xanes]
 materials: [In2Se3, TMDs, h-BN]
 figures: [crystal-structures-xrd-phases, electronic-devices-memory-transistors, electronic-devices-sensors, experimental-setups, heterostructures-stacking, mathematical-models-elasticity-strain, mathematical-models-formulas, optical-spectra, vibrational-spectra]
@@ -79,7 +79,7 @@ Shengxue Yang, Yujia Chen, Chengbao Jiang（北京航空航天大学材料科学
 
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/strain-engineering]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/moire-superlattice]]（晶格失配产生的莫尔花纹用于定量应变张量）
   - 概念 [[../concepts/berry-phase]]（文中提到应变扭曲石墨烯狄拉克锥与2D峰分裂，与能谷物理相关）
   - 概念 [[../concepts/ferroelasticity]]（2H→1T'结构相变、应力驱动晶格重构）
@@ -103,10 +103,10 @@ Shengxue Yang, Yujia Chen, Chengbao Jiang（北京航空航天大学材料科学
   - 图表 [[../figures/crystal-structures]]（2H/1T/1T'相结构、晶格失配图）
   - 图表 [[../figures/electronic-devices]]（FET、柔性应变传感器、光电探测器）
   - 图表 [[../figures/heterostructures-stacking]]（WSe₂-MoS₂面内异质结、范德华界面气泡）
-  - 图表 [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]（应变诱导磁性、磁耦合调控）
+  - 图表 [[../figures/heterostructures-stacking|自旋电子学与应变工程]]（应变诱导磁性、磁耦合调控）
   - 图表 [[../figures/experimental-setups]]（两点/四点弯曲装置、AFM加载装置、压力鼓泡装置）
   - 图表 [[../figures/mathematical-models]]（ε=τ/2R、ε∝(h/R)²等应变公式与SHG极化率张量）
-  - 年度 [[../write/2021]]
+  - 年度 [[../write/2020-2024|2021]]
   - 相关论文 [[../../raw/note/yangStrainEngineeringTwodimensional2021]]
 
 ## 🆕 新概念/实体建议
@@ -193,7 +193,7 @@ Shengxue Yang, Yujia Chen, Chengbao Jiang（北京航空航天大学材料科学
   - 应变诱导2H→1T'相变（strain-induced 2H-to-1T' phase transition）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. [[../concepts/2D-materials|二维材料]]相比块体对应变容忍度极高：单层[[../entities/graphene|石墨烯]]可承受25%弹性应变，而块体石墨在~0.1%即断裂；原因是原子级厚度大幅降低缺陷概率，并允许面外屈曲弛豫应力。
+  1. [[../concepts/2d-materials|二维材料]]相比块体对应变容忍度极高：单层[[../entities/graphene|石墨烯]]可承受25%弹性应变，而块体石墨在~0.1%即断裂；原因是原子级厚度大幅降低缺陷概率，并允许面外屈曲弛豫应力。
   2. 六种应变引入方法及其应变特征：晶格失配（界面局域非均匀，WSe₂-MoS₂中ε_aa=1.17%, ε_bb=−0.26%, ε_ab=0.69%）；预拉伸PDMS褶皱（顶部局域1–2%非均匀应变，ε=π²hδ(1−σ²)/λ²）；热膨胀失配（MoS₂/PDMS激光加热得0.23%双轴均匀应变，PC衬底−200~100°C范围实现−1.48%~0.48%，传递效率>80%）；弯曲[[../concepts/flexible-substrates|柔性衬底]]（ε=τ/(2R)，单轴均匀、可逆、重复性好）；图案化刚性衬底（倒置漏斗Si阵列上MoS₂应变3.46–3.65%）；PMN-PT压电衬底（500V下三层MoS₂得0.2%双轴压缩应变，可电控）；AFM针尖（悬浮MoS₂膜中心挠度33 nm，TERS空间分辨率~2.3 nm）；气泡（MoS₂/h-BN界面自发气泡~2%梯度应变，ε∝(h/R)²）。
   3. 弯曲法应变传递效率依赖三条件：衬底高杨氏模量、界面强相互作用、最小滑移；PDMS等低模量衬底易滑移，PVA旋涂封装可显著抑制滑移并提高传递效率。
   4. 声子对应变的指纹响应：单轴拉伸使石墨烯G峰在>0.6%应变时分裂为G⁺/G⁻（E₂g简并解除），2D峰亦分裂；单层MoS₂的E'（面内）峰分裂而A'₁（面外）峰几乎不动，证明面内振动对应变更敏感；黑磷沿ZZ与AC方向的应变选择性移动A_g²/B₂g/A_g¹模式，可用于[[../concepts/migdal-eliashberg-theory|各向异性]]柔性器件。拉曼峰频移与应变线性相关，可定量并mapping应变分布。

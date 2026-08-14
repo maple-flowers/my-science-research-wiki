@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# optical-lattice
 
-# 光晶格）
-
-光晶格）：激光干涉形成的周期性势阱，超冷原子量子模拟的基础平台。
-
-## Related Papers
-
-- [[../papers/Makogon2012wave]]
+- [[../papers/Makogon2012wave]] — Spin-charge-density wave in a rounded-square Fermi surface for ultracold atoms

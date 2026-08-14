@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# Sc2P2Se6
 
-# 新型二维面外铁电母体，极化
-
-新型二维面外铁电母体，极化 3.09 μC/cm²，FE-PE-FE 势垒 0.34 eV/f.u.
-
-## Related Papers
-
-- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]]
+- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]] — Ferroelectricity and multiferroicity in two-dimensional Sc₂P₂Se₆ and ScCrP₂Se₆ monolayers

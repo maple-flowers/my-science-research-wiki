@@ -81,11 +81,12 @@ Shuichi Nosé，1984，The Journal of Chemical Physics 81(1), 511–519，DOI 10
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/canonical-ensemble|正则系综]]、[[../concepts/microcanonical-ensemble|微正则系综]]、[[../concepts/npt-ensemble|NPT 系综]]、[[../concepts/nose-hoover-thermostat|Nosé–Hoover 恒温器]]、[[../concepts/extended-system-method|扩展系统方法]]、[[../concepts/virtual-variables|虚拟变量]]、[[../concepts/thermostat|恒温器]]
   - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/1984]]
+  - 年度 [[../write/1945-1999|1984]]
   - 项目 [[../projects/project-4-ttf-molecular-calc]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 概念 [[../concepts/ergodic-hypothesis]]、[[../concepts/statistical-mechanics]]、[[../concepts/boltzmann-distribution]]
   - 相关论文 [[../../raw/note/noseUnifiedFormulationConstant1984]]
 
 ## 🆕 新概念/实体建议

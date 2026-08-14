@@ -1,12 +1,4 @@
----
-tags: [concept, stub]
----
+# exfoliation-energy
 
-# 剥离能）
-
-剥离能）：从块体相剥离出单层所需能量；PP-VTe2为72.46 meV/Å²，支持外延生长制备。
-
-## Related Papers
-
-- [[../papers/liMonolayerPuckeredPentagonal2022]]
-- [[../papers/zhongHighthroughputExfoliationMultiferroic2025]]
+- [[../papers/shuTwoDimensionalBlackArsenic2020]] — Two-Dimensional Black Arsenic Phosphorus for Ultrafast Photonics in Near- and Mid-Infrared Regimes
+- [[../papers/zhongHighthroughputExfoliationMultiferroic2025]] — High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperature and giant spin splitting

@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/fengFerroelectricityMultiferroicityTwodimensional2020]]
 projects: [project-2, project-4, project-5]
-concepts: [2D-materials, berry-phase, density-functional-theory, ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling]
+concepts: [2D-materials, berry-phase, density-functional-theory, ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, Sc2P2Se6, d0-rule, out-of-plane-ferroelectricity, spin-lattice-charge-coupling, ScCrP2Se6, magnetic-anisotropy-energy, C2DB, superexchange-goodenough-kanamori, CINEB, transition-metal-phosphorus-trichalcogenides, antiferroelectricity]
 entities: [Fe3GeTe2, In2Se3, SnTe, TMDs, VASP, h-BN]
 methods: [afm-pfm, berry-phase, dft, monte-carlo, neb]
 materials: [Fe3GeTe2, In2Se3, SnTe, TMDs, h-BN]
@@ -88,10 +88,10 @@ Xukun Feng、Jian Liu、Xikui Ma、Mingwen Zhao（山东大学），2020，*Phys
 从 C2DB 筛选并以 DFT 预测 Sc₂P₂Se₆ 单层为面外铁电体，将一半 Sc 替换为 Cr 得到多铁 ScCrP₂Se₆，其 FE 相为 AFM、AFE 相为 FM，临界电场约 0.82 V/Å 可在两态间可逆切换，从而实现电控磁。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/ferroelasticity]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/d0-rule|d⁰ 规则]]、[[../concepts/out-of-plane-ferroelectricity|面外铁电性]]、[[../concepts/antiferroelectricity|反铁电性]]、[[../concepts/superexchange-goodenough-kanamori|Goodenough–Kanamori 超交换规则]]、[[../concepts/magnetic-anisotropy-energy|磁各向异性能]]、[[../concepts/spin-lattice-charge-coupling|自旋-晶格-电荷耦合]]、[[../concepts/transition-metal-phosphorus-trichalcogenides|过渡金属磷三硫/硒化物]]、[[../concepts/C2DB]]、[[../concepts/CINEB|CINEB 爬坡弹性带]]、[[../concepts/Sc2P2Se6|Sc₂P₂Se₆]]、[[../concepts/ScCrP2Se6|ScCrP₂Se₆]]
+  - 概念 [[../concepts/2d-materials]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/ferroelasticity]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/d0-rule|d⁰ 规则]]、[[../concepts/out-of-plane-ferroelectricity|面外铁电性]]、[[../concepts/antiferroelectricity|反铁电性]]、[[../concepts/superexchange-goodenough-kanamori|Goodenough–Kanamori 超交换规则]]、[[../concepts/magnetic-anisotropy-energy|磁各向异性能]]、[[../concepts/spin-lattice-charge-coupling|自旋-晶格-电荷耦合]]、[[../concepts/transition-metal-phosphorus-trichalcogenides|过渡金属磷三硫/硒化物]]、[[../concepts/C2DB]]、[[../concepts/CINEB|CINEB 爬坡弹性带]]、[[../concepts/Sc2P2Se6|Sc₂P₂Se₆]]、[[../concepts/ScCrP2Se6|ScCrP₂Se₆]]
   - 实体 [[../entities/VASP]]、[[../entities/Fe3GeTe2]]、[[../entities/In2Se3]]、[[../entities/TMDs]]、[[../entities/SnTe]]、[[../entities/h-BN]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
-  - 年度 [[../write/2020]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking|多铁与磁电异质结]]
+  - 年度 [[../write/2020-2024|2020]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 **fengFerroelectricityMultiferroicityTwodimensional2020**
 

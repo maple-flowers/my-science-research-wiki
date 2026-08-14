@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# sensor-electrode-configuration
 
-# 湿度传感器平面电极构型
-
-湿度传感器平面电极构型（叉指/迷宫/城堡/圆形）通过改变初始电容、电极边缘长度与电场分布来影响灵敏度和频率响应；迷宫电极在四者中频率偏移最大、灵敏度最高。
-
-## Related Papers
-
-- [[../papers/Ismail2015humidity]]
+- [[../papers/Ismail2015humidity]] — Humidity Sensor - A Review of Nanostructured Zinc Oxide (ZnO) - Based Humidity Sensor

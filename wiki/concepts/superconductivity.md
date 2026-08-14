@@ -1,11 +1,6 @@
----
-tags: [concept, stub]
----
+# superconductivity
 
-# 超导电性基本概念，本文作为
-
-超导电性基本概念，本文作为 CDW 竞争体系中 s 波超导受安德森定理保护的典型理论文献
-
-## Related Papers
-
-- [[../papers/Koley2020charge]]
+- [[../papers/CastroNeto2001charge]] — Charge Density Wave, Superconductivity, and Anomalous Metallic Behavior in 2D Transition Metal Dichalcogenides
+- [[../papers/Koley2020charge]] — Charge density wave and superconductivity in transition metal dichalcogenides
+- [[../papers/Petkov2020hierarchy]] — Hierarchy among the crystal lattice, charge density wave, and superconducting orders in transition metal dichalcogenides
+- [[../papers/wuElectrostaticGatingIntercalation2022]] — Electrostatic gating and intercalation in 2D materials

@@ -76,16 +76,18 @@ B. Q. Lv, Alfred Zong, D. Wu, A. V. Rozhkov, Boris V. Fine, Su-Di Chen, et al.�
 
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/charge-density-wave]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/hysteresis|滞后（Hysteresis）]]
   - 概念 [[../concepts/incommensurate-cdw|非公度电荷密度波]]
   - 概念 [[../concepts/interlayer-phase-coupling|层间相位耦合]]
   - 概念 [[../concepts/metastability|亚稳态]]
   - 实体 [[../entities/RTe3|RTe₃ 稀土三碲化物]]
   - 图表 [[../figures/electronic-bands]]
-  - 图表 [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - 年度 [[../write/2022]]
+  - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 年度 [[../write/2020-2024|2022]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 概念 [[../concepts/order-parameter]]、[[../concepts/double-well]]
+  - 实体 [[../entities/EuTe4]]
   - 相关论文 [[../../raw/note/lvUnconventionalHystereticTransition2022]]
 
 ## 🆕 新概念/实体建议

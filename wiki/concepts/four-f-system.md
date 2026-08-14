@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# four-f-system
 
-# Four F System
-
-4-f 系统）：两透镜相距焦距之和、在共焦面放置环形狭缝做空间滤波的傅里叶光学信息处理系统。
-
-## Related Papers
-
-- [[../papers/Wang2023ultracompact]]
+- [[../papers/Wang2023ultracompact]] — Ultracompact phase plate fabricated by femtosecond laser two-photon polymerization for generation of Mathieu–Gauss beams

@@ -1,12 +1,4 @@
----
-tags: [concept, stub]
----
+# super-element-approximation
 
-# 超元素近似）
-
-超元素近似）：将 Fe 以外的多种合金元素（Si, Mn, Ni, Cu, Cr）合并为一个等效元素 S，把多组分合金降维为 S–C 伪二元系以套用 Fe–C 相图热力学。
-
-## Related Papers
-
-- [[../papers/Zhang2002b]]
-- [[../papers/Zhang2003a]]
+- [[../papers/Zhang2002b]] — Cellular automaton model to simulate nucleation and growth of ferrite grains for low-carbon steels
+- [[../papers/Zhang2003a]] — A cellular automaton investigation of the transformation from austenite to ferrite during continuous cooling

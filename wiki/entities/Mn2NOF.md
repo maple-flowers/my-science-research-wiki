@@ -1,29 +1,3 @@
----
-tags: [entity]
----
+# Mn2NOF
 
-# Mn2NOF (Janus Mn2N MXene)
-
-Mn2NOF 是一种典型的 Janus 型 MXene，源自 Mn2N 母体结构，其特征是在锰原子层的两侧分别修饰了氧 (O) 和氟 (F) 原子。在二维 (2D) 锰氮化物家族中，Mn2NOF 以其本征的半导体特性著称，这与对称钝化的 Mn2NO2 所表现出的半金属性形成鲜明对比 [[../papers/chen3dLevelSymmetry2025]]。
-
-## 1. 结构特征与相锁定电子态 (Phase-Locked Electronic State)
-
-Mn2NOF 采用“反 1T-TMD”三明治结构，其中氮原子层位于中心，两侧各有一层锰原子。根据“相位锁定性质 (Phase-Locked Properties)”框架，Mn2NOF 的电子基态与其结构的不对称性高度耦合：
-
-- **对称性破缺与能级分离**：虽然两侧 Mn 原子的局域配位环境在形式上仍保持 $C_{3v}$ 对称性，但 O 和 F 原子电负性的差异打破了金属层间的 3d 能级对称性。这种结构相位导致了两侧 Mn 原子 3d 轨道之间产生显著的能级分离 (Energy-level separation) [[../papers/chen3dLevelSymmetry2025]]。
-- **电荷有序锁定 (Charge-Order Locking)**：这种能级分离驱动了层间的电荷重新分布。F 侧的 Mn 原子表现为高自旋的 $Mn^{2+} (d^5)$ 构型，其 $e_I$ 轨道被完全填满；而 O 侧的 Mn 原子则表现为低自旋的 $Mn^{4+} (d^3)$ 构型，其 $e_I$ 轨道完全排空。这种占据态的极端差异在费米能级处打开了带隙（GGA+U 下约为 160.4 meV，计入 SOC 后约为 0.46 eV）。
-
-## 2. 电子相变的动态调控
-
-Mn2NOF 的半导体特性具有高度的可调控性，通过外部激励可以打破电荷有序状态，诱导向半金属性的转变：
-
-- **电荷掺杂 (Charge Doping)**：通过注入少量的电子 (0.02 e⁻/atom) 或空穴 (0.02 h⁺/atom)，可以分别填充 O 侧的导带底或清空 F 侧的价带顶。费米能级随之移动，使体系在半导体和半金属 (Half-metallicity) 态之间切换 [[../papers/chen3dLevelSymmetry2025]]。
-- **应变诱导能级重排**：施加单轴拉伸应变可以减小两侧 Mn-N 层的静电势差。计算显示，在约 +7% 的拉伸应变下（SOC 修正值），两侧 Mn 的能级重新对齐，导致带隙闭合。这种应变驱动的电子相变展现了结构相位对物性的强力约束。
-
-## 3. 物理意义与应用前景
-
-Mn2NOF 的研究修正了传统晶体场理论在预测不对称 MXenes 电子性质时的局限性，揭示了**金属层间 3d 能级对称性**是决定体系输运特性的关键物理机制。这种“相位锁定”的半导体性使得 Mn2NOF 成为构建无化学界面、可重构自旋电子器件的理想候选材料，为在单一原子层内通过局域场实时“写入”或“擦除”导电通道提供了理论依据 [[../papers/chen3dLevelSymmetry2025]]。
-
-## Related Papers
-
-- [[../papers/chen3dLevelSymmetry2025]]
+- [[../papers/chen3dLevelSymmetry2025]] — 3d-level symmetry between metal layers governing the electronic configuration of Mn2N MXenes and enabling modulation between half-metallicity and semiconductivity

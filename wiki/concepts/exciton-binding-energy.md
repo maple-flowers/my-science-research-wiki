@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# exciton-binding-energy
 
-# 激子结合能）
-
-激子结合能）：光生电子-空穴对的库仑束缚能，是本文解释450 nm与808 nm波长差异化光-湿耦合效应的核心物理量，石墨烯中约3 eV。
-
-## Related Papers
-
-- [[../papers/Tobeiha2025optical]]
+- [[../papers/Tobeiha2025optical]] — Optical humidity sensor based on G/GO nanosheets
+- [[../papers/shuTwoDimensionalBlackArsenic2020]] — Two-Dimensional Black Arsenic Phosphorus for Ultrafast Photonics in Near- and Mid-Infrared Regimes

@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# donor-pi-acceptor
 
-# Donor Pi Acceptor
-
-D-π-A 推拉结构：给体-共轭桥-受体架构，是大 TPA 截面与强溶剂化变色的通用分子设计骨架。
-
-## Related Papers
-
-- [[../papers/Huang2019solvatochromic]]
+- [[../papers/Huang2019solvatochromic]] — Stilbene-Based Two-Photon Thermo-Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature
+- [[../papers/WRZYSZCZYNSKI2010initiators]] — Two-photon initiators of polymerization

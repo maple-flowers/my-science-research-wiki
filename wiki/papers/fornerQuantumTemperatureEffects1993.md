@@ -48,7 +48,8 @@ W Forner，1993，*Journal of Physics: Condensed Matter* 5(7): 823–840，DOI: 
 ## 💡 一句话
 通过数值模拟验证并界定了 Scott "单链以 3 倍质量/3 倍力常数等效三链" 猜想在 |D₂⟩ 与 |D₁⟩ 两种拟设态下的适用范围，并用三链有限温模拟证明：只要氢键力常数 W > 30–40 N/m，达维多夫孤子即可在 300 K 生理温度下稳定存在。
 ## 🔗 Wiki 双链
-  - 年度 [[../write/1993]]
+  - 年度 [[../write/1945-1999|1993]]
+  - 概念 [[../concepts/self-trapping]]、[[../concepts/davydov-soliton]]、[[../concepts/interchain-coupling]]、[[../concepts/exciton-phonon-coupling]]
   - 相关论文 **fornerQuantumTemperatureEffects1993**
   - （本文研究对象为 α-螺旋蛋白质中的达维多夫孤子，与 wiki 现有 2D 材料/多铁/铁电/CDW 等概念实体无直接交集，故不强行双链）
 ## 🆕 新概念/实体建议

@@ -1,33 +1,3 @@
----
-tags: [entity, material, semiconductor, 2D, III-V]
-category: [D01, Z02]
----
+# InSb
 
-# 锑化铟 / Indium Antimonide (InSb)
-
-**InSb** 是一种极窄带隙的 III-V 族半导体材料。在体相状态下，它以其超高的电子迁移率（$\sim 7.7 \times 10^4 \text{ cm}^2 \text{V}^{-1} \text{s}^{-1}$）和极小的电子有效质量而成为红外探测与高速电子器件的基石。然而，当维度降低至二维限制时，InSb 展现出了与轻元素类似物（如 [[GaAs]]）截然不同的“相位锁定”特性，其稳定构型与电子输运性质受控于重原子的 sp³ 轨道偏好 [[../papers/yanDecipheringStabilityTwodimensional2025]]。
-
-## 1. 相位锁定稳定性：E4 构型与积木组装
-根据 2025 年提出的“二维积木组装”理论，二维 III-V 材料的稳定性不再由单一的对称性驱动，而是由特定“积木块”（Building Blocks）的能量线性叠加所锁定：
-
-- **基态结构锁定**：不同于 AlSb 或 GaSb 倾向于形成双层蜂窝结构 (DLHC)，InSb 的势能面基态被锁定在 **E4 结构** (Edge-sharing Tetrahedron)。在该结构中，每个 In 原子与四个 Sb 原子形成共用四条棱的四面体单元。
-- **化学趋势驱动**：这种构型的锁定源于原子序数的演化。随着 M 族（In）与 X 族（Sb）原子的变重，体系的电负性差异减小，原子更倾向于维持类体相的 sp³ 杂化轨道以消除悬挂键，而非形成类石墨烯的 sp² 杂化。这一结论解释了为何实验上尝试在二维限域下通过外延生长诱导 InSb 形成 DLHC 相的屡次失败 [[../papers/yanDecipheringStabilityTwodimensional2025]]，因为其热力学“相位”已被锁定在 E4 四面体组装路径上。
-
-## 2. 输运性能的“维度陷阱”
-二维化通常被认为是提升载流子迁移率的手段（通过降低形变势 $E_1$），但 InSb 却展现出了反直觉的性能演化：
-
-- **有效质量激增**：在二维限域下，InSb 的电子有效质量 ($m^*_e$) 从块体的 $0.027$ 剧增至 $0.79$（增加约 30 倍）。这种显著的质量“锁定”源于强烈的量子限域效应导致能带曲率变平 [[../papers/yanDecipheringStabilityTwodimensional2025]]。
-- **迁移率负增益**：虽然二维 E4 结构的形变势常数有所降低，但有效质量的指数级增长完全抵消了这一优势。结果是二维 InSb 的电子迁移率相比其体相反而出现量级上的下滑。这与 [[GaSb]]（在 TT 相下可实现空穴迁移率飙升至 $10^8$ 量级）形成了鲜明对比，揭示了重元素体系在二维化过程中面临的性能局限。
-
-## 3. 主要物性参数表
-| 参数名称 | 数值 | 备注 |
-| :--- | :--- | :--- |
-| **最稳构型** | E4 (Tetrahedron) | 共用四边四面体结构 |
-| **有效质量 ($m^*_e, 2D$)** | $0.79 \text{ m}_0$ | 相比块体显著升高 |
-| **有效质量 ($m^*_e, \text{bulk}$)** | $0.027 \text{ m}_0$ | 极小有效质量特征 |
-| **带隙类型** | 直接带隙 | 窄带隙红外特性 |
-| **构建单元** | sp³ 四面体 | 受重原子相对论效应影响 |
-| **能量锁定规律** | 线性加和模型 | $E_{tot} = \sum \alpha_i n_i + C$ |
-
-## 4. 本库相关代表性论文
-- [[../papers/yanDecipheringStabilityTwodimensional2025]]：破译二维 III-V 半导体的稳定性：构建块及其多功能组装。该研究系统性地通过 DFT 与机器学习揭示了 InSb 锁定在 E4 相的物理机制。
+- [[../papers/yanDecipheringStabilityTwodimensional2025]] — Deciphering the stability of two-dimensional III-V semiconductors: Building blocks and their versatile assembly

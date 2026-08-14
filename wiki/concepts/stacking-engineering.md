@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# stacking-engineering
 
-# 堆垛工程）
-
-堆垛工程）：通过层间相对位移/旋转调控 vdW 材料物性的范式，与 moire-superlattice 互补但侧重平移。
-
-## Related Papers
-
-- [[../papers/xunCoexistingMagnetismFerroelectric2024]]
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]] — Sliding ferroelectricity in two-dimensional materials and device applications
+- [[../papers/wuSlidingFerroelectricity2D2021a]] — Sliding ferroelectricity in 2D van der Waals materials: Related physics and future opportunities
+- [[../papers/xunCoexistingMagnetismFerroelectric2024]] — Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensional Materials

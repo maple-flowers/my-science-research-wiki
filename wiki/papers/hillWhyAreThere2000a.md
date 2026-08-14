@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/hillWhyAreThere2000a]]
 projects: [project-2]
-concepts: [berry-phase, density-functional-theory, ferroelasticity, magnetoelectric-coupling, multiferroicity]
-entities: [BiFeO3, HoMnO3]
+concepts: [berry-phase, density-functional-theory, ferroelasticity, magnetoelectric-coupling, multiferroicity, jahn-teller-distortion, geometric-ferroelectricity, d0-rule, stereochemically-active-lone-pair, electronic-ferroelectricity, soft-mode-theory]
+entities: [BiFeO3, HoMnO3, YMnO3, BiMnO3, LaMnO3]
 methods: [berry-phase, dft, tight-binding]
 materials: [BiFeO3, HoMnO3]
 figures: [crystal-structures-bulk, electronic-bands-band-structures, electronic-bands-cdw-transport, electronic-bands-dos-fermi, electronic-devices-memory-transistors, mathematical-models-computational, vibrational-spectra]
@@ -87,7 +87,7 @@ Nicola A. Hill，2000，*The Journal of Physical Chemistry B* 104(29), 6694-6709
   - 实体 [[../entities/YMnO3]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/electronic-bands]]
-  - 年度 [[../write/2000]]
+  - 年度 [[../write/2000-2004|2000]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/hillWhyAreThere2000a]]
 ## 📊 关键图表

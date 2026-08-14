@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# geometric-frustration
 
-# 几何阻挫，系统几何与内部相互作用不兼容导致基态高度简并、长程序被抑制的现象。
-
-几何阻挫，系统几何与内部相互作用不兼容导致基态高度简并、长程序被抑制的现象。
-
-## Related Papers
-
-- [[../papers/nahasFrustrationSelfOrderingTopological2016]]
+- [[../papers/RecentAdvancesGrowth2025]] — Recent advances in growth, characterization, and application of two-dimensional multiferroic materials
+- [[../papers/nahasFrustrationSelfOrderingTopological2016]] — Frustration and Self-Ordering of Topological Defects in Ferroelectrics
+- [[../papers/songEvidenceSinglelayerVan2022]] — Evidence for a single-layer van der Waals multiferroic

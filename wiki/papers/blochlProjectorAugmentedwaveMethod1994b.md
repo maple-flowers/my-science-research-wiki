@@ -12,7 +12,7 @@ year_read: 2026
 original_note:: [[../../raw/note/blochlProjectorAugmentedwaveMethod1994b]]
 projects: [project-2, project-5, project-7]
 concepts: [density-functional-theory, paw-method, pseudopotential, lapw, projector-functions, augmentation-region, compensation-charge-density, frozen-core-approximation, additive-augmentation, car-parrinello, norm-conservation, overlap-operator, pulay-force]
-entities: [VASP, LAPW, LMTO, Car-Parrinello, MnFO3, Fe2]
+entities: [VASP, LAPW, LMTO, Car-Parrinello, MnFO3, Fe2, Wannier90]
 methods: [dft, lda, paw, all-electron, pseudopotential, ultrasoft-pseudopotential, car-parrinello-md, plane-wave-basis, radial-grid]
 materials: [Mn, Fe, O, F, H, Li, Be, B, N, transition-metals]
 figures: [electronic-bands-band-structures, electronic-bands-cdw-transport, mathematical-models-computational, mathematical-models-simulations, vibrational-spectra]
@@ -101,7 +101,9 @@ P. E. Blöchl，1994，Physical Review B 50(24), 17953–17979，DOI: 10.1103/Ph
   - 概念 [[../concepts/overlap-operator|重叠算符]]
   - 实体 [[../entities/VASP]]
   - 实体 [[../entities/Wannier90]]（PAW 部分波形式天然适合构造 Wannier 轨道）
-  - 年度 [[../write/1994]]
+  - 年度 [[../write/1945-1999|1994]]
+  - 概念 [[../concepts/pulay-force]]、[[../concepts/lapw]]、[[../concepts/norm-conservation]]、[[../concepts/car-parrinello]]
+  - 实体 [[../entities/Fe2]]、[[../entities/Car-Parrinello]]、[[../entities/LMTO]]、[[../entities/MnFO3]]、[[../entities/LAPW]]
   - 相关论文 **blochlProjectorAugmentedwaveMethod1994b**
 
 ## 📊 关键图表

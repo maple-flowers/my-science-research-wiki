@@ -80,7 +80,7 @@ Yecun Wu, Danfeng Li, Chun-Lan Wu, Harold Y. Hwang, Yi Cui et al.，2022，*Natu
 本文系统综述了在不破坏层内共价键的前提下，通过"静电门控（表面双电层）"与"（脱）插层（进入范德华间隙）"两条互补路径对二维层状硫族化物/氧化物进行可逆、动态、极端调控的方法、物理效应与新材料合成范式，特别突出低温拓扑化学（软化学）制备亚稳态相（如无限层镍酸盐超导体）。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/charge-density-wave]]
   - 概念 [[../concepts/strain-engineering]]（外延应变作为附加调控旋钮）
   - 概念 [[../concepts/moire-superlattice]]
@@ -96,7 +96,7 @@ Yecun Wu, Danfeng Li, Chun-Lan Wu, Harold Y. Hwang, Yi Cui et al.，2022，*Natu
   - 图表 [[../figures/vibrational-spectra]]（MoTe₂ 2H/1T'拉曼强度比）
   - 图表 [[../figures/optical-spectra]]（WS₂折射率Δn/Δk、Bi₂E₃透光率）
   - 图表 [[../figures/mathematical-models]]（C=dσ/dΨ、C_g=ε₀ε_d/d_d、n=C·V）
-  - 年度 [[../write/2022]]
+  - 年度 [[../write/2020-2024|2022]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]（TiSe₂中CDW–SC竞争；NaₓCoO₂ CDW金属态）
   - 相关论文 [[../../raw/note/wuElectrostaticGatingIntercalation2022]]
 

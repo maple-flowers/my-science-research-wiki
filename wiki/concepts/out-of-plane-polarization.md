@@ -1,11 +1,6 @@
----
-tags: [concept, stub]
----
+# out-of-plane-polarization
 
-# 面外极化）
-
-面外极化）：极化方向沿垂直于二维层面的 c 轴，区别于 SnTe 等体系的面内铁电性。
-
-## Related Papers
-
-- [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]
+- [[../papers/dingPredictionIntrinsicTwodimensional2017a]] — Prediction of intrinsic two-dimensional ferroelectrics in In2Se3 and other III2-VI3 van der Waals materials
+- [[../papers/feiFerroelectricSwitchingTwodimensional2018a]] — Ferroelectric switching of a two-dimensional metal
+- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]] — Ferroelectricity and multiferroicity in two-dimensional Sc₂P₂Se₆ and ScCrP₂Se₆ monolayers
+- [[../papers/hanTunableSlidingFerroelectricity2025]] — Tunable sliding ferroelectricity in two-dimensional van der Waals RuX2 (X = Cl, Br, and I) multiferroic layers

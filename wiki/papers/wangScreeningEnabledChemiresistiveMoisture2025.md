@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/wangScreeningEnabledChemiresistiveMoisture2025]]
 projects: [project-6]
-concepts: [2D-materials]
+concepts: [2D-materials, coulombic-potential, charge-trap-screening, through-space-charge-transport, chemiresistive-sensing, extrinsic-charge-mobility, tetrathiafulvalene, conductive-mof]
 entities: []
 methods: [device-i-v, dft, xrd]
 materials:
@@ -72,7 +72,7 @@ Yingchao Wang, Xiaohe Miao, Paul A. Kempler, Jin-Hu Dou, Carl K. Brozek, Lei Sun
 用 M₂(TTFTB)（M = Mn, Co, Zn, Cd）系列同构导电 MOF 单晶器件，通过系统排除法证明水分子并非靠质子传导、载流子注入或结构变化，而是以高介电常数和氢键"屏蔽" TTF•+ 空穴与平衡阴离子之间的库仑陷阱，从而提升外禀迁移率；并指出 Zn²⁺ 因高库仑势（Zeff/r = 0.044 pm⁻¹）对阴离子抓得更牢，屏蔽失效，故 Zn₂(TTFTB) 湿度响应最弱。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]（同为低维/π-堆积体系中的电荷输运讨论，可类比）
+  - 概念 [[../concepts/2d-materials]]（同为低维/π-堆积体系中的电荷输运讨论，可类比）
   - 概念 [[../concepts/conductive-mof|导电金属-有机框架（导电MOF）]]（本文模型体系类别：金属节点+有机配体自组装，兼具晶态多孔性与可调电导率）
   - 概念 [[../concepts/chemiresistive-sensing|化学电阻传感]]（分析物吸附引起敏感层电阻变化；单晶 vs 多晶薄膜对机制判读的影响）
   - 概念 [[../concepts/charge-trap-screening|电荷陷阱屏蔽]]（客体水以高介电常数+氢键削弱空穴-抗衡离子库仑对，释放局域载流子；本文核心机制）
@@ -80,7 +80,7 @@ Yingchao Wang, Xiaohe Miao, Paul A. Kempler, Jin-Hu Dou, Carl K. Brozek, Lei Sun
   - 概念 [[../concepts/through-space-charge-transport|空间电荷传输]]（载流子通过相邻分子轨道重叠而非共价键传输，受 π-堆积间距调制，对应本体系 c 轴 TTF 柱）
   - 概念 [[../concepts/coulombic-potential|库仑势]]（金属离子对配体/抗衡离子束缚强度的半定量指标，解释 Zn²⁺ 弱响应）
   - 概念 [[../concepts/extrinsic-charge-mobility|外禀电荷迁移率]]（受缺陷、陷阱、抗衡离子等外部因素调制的迁移率，为水屏蔽所增强）
-  - 年度 [[../write/2025]]
+  - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-6-humidity-sensor]]（核心相关：化学电阻式湿度传感、水对载流子陷阱的介电屏蔽）
   - 项目 [[../projects/project-4-ttf-molecular-calc]]（TTF 分子及其 π-堆积柱中的空间电荷传输、能带/迁移率计算的类比参考）
   - 相关论文 [[../../raw/note/wangScreeningEnabledChemiresistiveMoisture2025]]

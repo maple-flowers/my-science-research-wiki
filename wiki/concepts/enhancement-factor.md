@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# enhancement-factor
 
-# 增强因子
-
-增强因子 F_X(s)/F_XC，GGA 非局域性的定量刻画。
-
-## Related Papers
-
-- [[../papers/perdewGeneralizedGradientApproximation1996a]]
+- [[../papers/chenHafniumBasedFerroelectricPostMoore2026]] — Hafnium-Based Ferroelectric Post-Moore Electronics: Device Physics, Integration Architectures, and Neuromorphic System Implementation
+- [[../papers/perdewGeneralizedGradientApproximation1996a]] — Generalized Gradient Approximation Made Simple

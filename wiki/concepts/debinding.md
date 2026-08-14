@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# debinding
 
-# 热脱脂/脱脂工艺
-
-热脱脂/脱脂工艺：程序升温烧掉有机黏合剂而保留无机坯体。
-
-## Related Papers
-
-- [[../papers/Kotz2021polymerization]]
+- [[../papers/Kotz2021polymerization]] — Two-Photon Polymerization of Nanocomposites for the Fabrication of Transparent Fused Silica Glass Microstructures

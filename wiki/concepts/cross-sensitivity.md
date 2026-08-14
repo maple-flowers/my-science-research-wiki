@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# cross-sensitivity
 
-# 交叉敏感
-
-交叉敏感（温度-湿度耦合），以及双传感器+矩阵解耦的工程思路。
-
-## Related Papers
-
-- [[../papers/XiaokangZhang2013calibrating]]
+- [[../papers/Unknown2014optical]] — Optical Fiber Relative Humidity Sensor Based on Fabry-Perot Interferometer Coated with Sodium-p-styrenesulfonate/Allyamine Hydrochloride Films
+- [[../papers/XiaokangZhang2013calibrating]] — Calibrating an optical fiber humidity sensor and applying it in real-time monitoring of relative humidity in fresh concrete

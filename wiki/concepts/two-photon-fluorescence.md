@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# two-photon-fluorescence
 
-# 双光子激发荧光
-
-双光子激发荧光（TPEF/TPF）：焦点处局域激发，具备光学切片能力、深穿透、低光毒性。
-
-## Related Papers
-
-- [[../papers/Huang2019solvatochromic]]
+- [[../papers/Huang2019solvatochromic]] — Stilbene-Based Two-Photon Thermo-Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature
+- [[../papers/Zhang2008synthesis]] — Synthesis and nonlinear optical properties of two three-branched two-photon polymerization initiators

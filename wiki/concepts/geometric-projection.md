@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# geometric-projection
 
-# 几何投影效应）
-
-几何投影效应）：当极化沿伪立方 [111] 时，[001] 法线方向测得的 Pr 是 P[111] 的投影，c/a 比变化会旋转极化矢量从而改变投影值。
-
-## Related Papers
-
-- [[../papers/Kim2008effect]]
+- [[../papers/Kim2008effect]] — Effect of epitaxial strain on ferroelectric polarization in multiferroic BiFeO3 films

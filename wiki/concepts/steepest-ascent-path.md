@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# steepest-ascent-path
 
-# 沿
-
-沿 ∇ρ 方向上升至电荷密度极大值的轨迹，是 Bader 体积分配的基本路径。
-
-## Related Papers
-
-- [[../papers/tangGridbasedBaderAnalysis2009]]
+- [[../papers/tangGridbasedBaderAnalysis2009]] — A grid-based Bader analysis algorithm without lattice bias

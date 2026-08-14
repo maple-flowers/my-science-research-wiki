@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# dft-plus-u
 
-# Dft Plus U
-
-DFT+U 方法，引入 Hubbard U 在位库仑修正以描述局域 d/f 电子关联；本文用 Dudarev U−J 参数
-
-## Related Papers
-
-- [[../papers/krishnamurthiSpinChargeDensity2020]]
+- [[../papers/krishnamurthiSpinChargeDensity2020]] — Spin/charge density waves at the boundaries of transition metal dichalcogenides
+- [[../papers/zhouFirstprinciplesPredictionRedox2004]] — First-principles prediction of redox potentials in transition-metal compounds with LDA+U

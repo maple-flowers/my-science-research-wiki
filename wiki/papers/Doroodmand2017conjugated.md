@@ -19,28 +19,13 @@ concepts:
   - cyclic-voltammetry
   - conjugated-polymer
   - salen-ligand
-  - schiff-base
   - optical-sensing
   - refractive-index
-  - hydrophilicity
-  - molecular-wire
   - electropolymerization
-  - hysteresis-sensing
 entities:
   - Salen
   - glassy-carbon
   - KCl
-  - KOH
-  - acetone
-  - Autolab
-  - SEM
-  - FT-IR
-  - XPS
-  - white-LED
-  - digital-camera
-  - Photoshop
-  - Ag-AgCl
-  - Pt-counter-electrode
 methods:
   - cyclic-voltammetry
   - sem-imaging
@@ -132,8 +117,10 @@ Mohammad Mahdi Doroodmand, Sina Owji，2017，*International Journal of Advanced
   - 图表 [[../figures/experimental-setups]]（图 1 传感腔体光路示意图）
   - 图表 [[../figures/vibrational-spectra]]（图 8B FT-IR 表征共轭结构）
   - 图表 [[../figures/optical-spectra]]（图 9–10 RGB/蓝色分量随 RH 的光学响应）
-  - 年度 [[../write/2017]]
+  - 年度 [[../write/2015-2019|2017]]
   - 项目 [[../projects/project-6-humidity-sensor]]
+  - 概念 [[../concepts/cyclic-voltammetry]]、[[../concepts/optical-sensing]]、[[../concepts/refractive-index]]
+  - 实体 [[../entities/KCl]]
   - 相关论文 **Doroodmand2017conjugated**
 
 ## 📊 关键图表

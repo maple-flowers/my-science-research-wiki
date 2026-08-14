@@ -1,12 +1,4 @@
----
-tags: [concept, stub]
----
+# mulliken-population
 
-# Mulliken Population
-
-concept）：Mülliken 布居分析，基于 LCAO 系数与重叠积分将电子分配到原子/轨道以获取净电荷的电荷分析方法。
-
-## Related Papers
-
-- [[../papers/Wei2021]]
-- [[../papers/Wu2018]]
+- [[../papers/Wei2021]] — Atomic simulations of bamboo-like N-doped CNTs with spaced nitrogen and carbon atoms by DFTB algorithm
+- [[../papers/Wu2018]] — Study of atomic arrangements and charge distribution on Si(0 0 1) surfaces with the adsorption of one Ge atom by DFTB calculations

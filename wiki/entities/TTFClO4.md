@@ -1,11 +1,3 @@
----
-tags: [entity, stub]
----
+# TTFClO4
 
-# 高氯酸四硫富瓦烯盐，TTF⁺来源，通过溶剂浇铸进入PMMA
-
-高氯酸四硫富瓦烯盐，TTF⁺来源，通过溶剂浇铸进入PMMA
-
-## Related Papers
-
-- [[../papers/Scremin2018nonlinear]]
+- [[../papers/Scremin2018nonlinear]] — Nonlinear absorption of tetrathiafulvalene radical cation (TTF+) based charge transfer (CT) aggregates in PMMA

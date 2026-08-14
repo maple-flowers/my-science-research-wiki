@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# sintering
 
-# 高温烧结
-
-高温烧结：纳米颗粒致密化、收缩与透明化机制。
-
-## Related Papers
-
-- [[../papers/Kotz2021polymerization]]
+- [[../papers/Kotz2021polymerization]] — Two-Photon Polymerization of Nanocomposites for the Fabrication of Transparent Fused Silica Glass Microstructures

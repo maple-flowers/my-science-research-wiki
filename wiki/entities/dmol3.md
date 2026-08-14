@@ -1,29 +1,3 @@
----
-tags: [entity]
----
+# dmol3
 
-# DMol3
-
-DMol3 是一款基于数值原子轨道（Numerical Atomic Orbitals, NAO）的密度泛函理论（DFT）计算程序，其核心设计理念在于通过全电子或赝势处理，实现从气相分子到周期性固体体系的高精度统一建模。与基于平面波基组的软件（如 [[../papers/kresseEfficiencyAbinitioTotal1996a|VASP]]）不同，DMol3 利用自由原子的数值径向解作为基函数主体，这种方法在分离原子极限下具有天然的精确性，能够以较小的基组规模达到极高的计算精度 [[../papers/Delley2000]]。
-
-### 核心架构与数值特性
-
-DMol3 的技术优势主要源于其对局域基组的创新处理。为了兼顾动能项在实空间的精确计算与哈密顿矩阵的稀疏性，程序采用了“短尾”局域化方案，即通过软约束势（Soft Confining Potential）与硬壁（Hard Wall）边界条件相结合，实现基函数的严格有限截断。在计算效率方面，DMol3 的矩阵元与密度构建表现出随体系大小 $N$ 线性增加的特性，而倒空间对角化则保持 $N^3$ 复杂度，并能高效地按 $k$ 点进行并行化处理 [[../papers/Delley2000]]。
-
-### 固体计算的相位锁定属性
-
-在处理周期性体系时，DMol3 引入了关键的数值修正以确保计算的收敛性与稳定性：
-1. **布里渊区积分**：采用了带有 Bloechl 修正的四面体格点法。对于绝缘体（如硅），总能量随 $k$ 网格阶数呈指数收敛；而对于存在费米面的金属（如铜），Bloechl 修正提供的二阶费米面曲率补偿显著优于线性四面体法，能有效抑制因 $k$ 点不足导致的虚假占据和 SCF 振荡。
-2. **赝势与相对论效应**：支持半局域赝势（ECP/AREP），通过冻结芯电子并引入标量相对论效应来处理重元素。研究表明，虽然赝势引入会带来约 1.2% 的晶格收缩误差（主要源于可移植性不足），但其数值精度仍与全电子 FLAPW 方法相当 [[../papers/Delley2000]]。
-
-### 泛函表现与应用限制
-
-DMol3 的基准标定揭示了不同密度泛函的固有偏差。LDA (PWC) 泛函通常表现出过结合（Overbinding）倾向，导致晶格常数偏小而体模量偏大；而 GGA (PBE/BP) 泛函则倾向于“软化”化学键，使晶格膨胀约 2%。对于具有弱相互作用的层状材料（如石墨），标准的 GGA 泛函往往高估层间距达 14% 以上，这凸显了在处理类似 [[../papers/Zhang2002b|范德华力]] 占据主导的体系时引入色散修正的必要性。
-
-在科研实践中，DMol3 常被用于分子晶体（如 TTF 系衍生物）的生成焓预测以及窄带隙半导体（如 SnTe 铁电体）的电子结构评估。其生成的自洽电荷密度和能带结构（如石墨的 $K-H$ 线简并特征）为理解凝聚态物质的相位锁定性质提供了坚实的理论基础 [[../papers/Delley2000]]。
-
-## Related Papers
-
-- [[../papers/Delley2000]] — From molecules to solids with the DMol3 approach.
-- [[../papers/perdewGeneralizedGradientApproximation1996a]] — PBE 泛函的理论基础与性能基准。
-- [[../papers/monkhorstSpecialPointsBrillouinzone1976]] — 倒空间采样方法论参考。
+- [[../papers/Delley2000]] — From molecules to solids with the DMol3 approach

@@ -1,13 +1,11 @@
----
-tags: [concept, stub]
----
+# oxygen-vacancy
 
-# 氧空位
-
-氧空位（V_O²⁺）：HfO₂中既是铁电相稳定剂（>2%浓度使o相热力学稳定）又是疲劳/印记效应来源的双重角色缺陷。
-
-## Related Papers
-
-- [[../papers/Perugu2024morphology]]
-- [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]
-- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]
+- [[../papers/Chen2016electrical]] — Electrical and mechanical switching of ferroelectric polarization in the 70 nm BiFeO3 film
+- [[../papers/KumarChoubey2011mechanoluminescence]] — Mechanoluminescence & Thermoluminescence of SrAl2O4:Eu Nano-Phosphors
+- [[../papers/Perugu2024morphology]] — Synthesis, Structural, Morphology and Magnetic Properties: Effect of La on Multiferroic Nature of BiFeO3 Nanoparticles
+- [[../papers/chenHafniumBasedFerroelectricPostMoore2026]] — Hafnium-Based Ferroelectric Post-Moore Electronics: Device Physics, Integration Architectures, and Neuromorphic System Implementation
+- [[../papers/junqueraCriticalThicknessFerroelectricity2003]] — Critical thickness for ferroelectricity in perovskite ultrathin films
+- [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films
+- [[../papers/sattarFunctionalizedDoubleTransition2025]] — Functionalized double transition metal Mo2Ti2C3Tx ferroelectric MXene and laser-reduced graphene based flexible memristors for next-generation two-dimensional ferrotronics
+- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]] — Ferroelectricity and Nonvolatile Memristor Applications of Free‐Standing 2D Niobium Carbide: A New Frontier of Free‐Standing MXene in Electronic Devices
+- [[../papers/xueEmergingNonvolatileMemories2011]] — Emerging non-volatile memories

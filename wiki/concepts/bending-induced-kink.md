@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# bending-induced-kink
 
-# 弯曲诱导扭结）——二维双层在弯曲下形成的尖锐不可逆折角，本质为层间滑移跨越势垒后的原子重构，可承载畴壁/部分位错线，是本文核心新结构概念。
-
-弯曲诱导扭结）——二维双层在弯曲下形成的尖锐不可逆折角，本质为层间滑移跨越势垒后的原子重构，可承载畴壁/部分位错线，是本文核心新结构概念。
-
-## Related Papers
-
-- [[../papers/heSwitchingTwodimensionalSliding2025]]
+- [[../papers/heSwitchingTwodimensionalSliding2025]] — Switching Two-Dimensional Sliding Ferroelectrics by Mechanical Bending
