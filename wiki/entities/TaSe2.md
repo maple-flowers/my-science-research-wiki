@@ -8,7 +8,7 @@ stoichiometry: 2H
 class: [TMD, vdW, metal]
 properties: [charge-density-wave, superconductivity, marginal-fermi-liquid]
 related_entities: [TaS2, NbSe2, 2h-phase]
-papers: [CastroNeto2001charge, Inosov2008fermi, Johannes2008fermi, Koley2020charge, Petkov2020hierarchy]
+papers: [CastroNeto2001charge, Inosov2008fermi, Johannes2008fermi, Koley2020charge, Petkov2020hierarchy, chowdhuryReviewTheoreticalComputational]
 updated: 2026-08
 ---
 
@@ -55,7 +55,7 @@ Inosov 等人的研究显示，TaSe2 确实存在一个非公度的费米面嵌�
 - [[../papers/Johannes2008fermi]]：解构了费米面嵌套范式，强调了电子-声子耦合的核心地位。
 - [[../papers/Koley2020charge]]
 - [[../papers/Petkov2020hierarchy]]
-
+- [[../papers/chowdhuryReviewTheoreticalComputational]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/charge-density-wave|电荷密度波 (CDW)]]

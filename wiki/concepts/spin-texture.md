@@ -2,7 +2,7 @@
 name: spin-texture
 description: 动量空间中电子自旋矢量的空间分布图，描述自旋与动量的相互锁定关系
 type: concept
-papers: [chenStrongSlidingFerroelectricity2024, wuSlidingFerroelectricity2D2021a, zhongHighthroughputExfoliationMultiferroic2025]
+papers: [chenStrongSlidingFerroelectricity2024, wuSlidingFerroelectricity2D2021a, zhongHighthroughputExfoliationMultiferroic2025, kaurRecentAdvancesTheoretical2025a]
 ---
 
 # 自旋纹理 / Spin Texture
@@ -37,7 +37,7 @@ papers: [chenStrongSlidingFerroelectricity2024, wuSlidingFerroelectricity2D2021a
 - [[../papers/chenStrongSlidingFerroelectricity2024]]：详细分析了滑动铁电翻转如何反转 Rashba 自旋纹理。
 - [[../papers/wuSlidingFerroelectricity2D2021a]]：讨论了滑动铁电体系中自旋-动量锁定的普适规律。
 - [[../papers/zhongHighthroughputExfoliationMultiferroic2025]]
-
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/rashba-effect|Rashba 效应]]

@@ -6,7 +6,7 @@ status: mature
 domain: [circuit-theory, materials-science, neuromorphic-engineering]
 mechanism: 连接磁通与电荷的第四种基本电路元件，其电阻值取决于流经它的电流历史
 related_concepts: [resistive-switching, non-volatile-memory, synaptic-plasticity, crossbar-array]
-papers: [xueEmergingNonvolatileMemories2011, tahirFerroelectricityNonvolatileMemristor2025, cuiIntercorrelatedInplaneOutofplane2018a]
+papers: [xueEmergingNonvolatileMemories2011, tahirFerroelectricityNonvolatileMemristor2025, cuiIntercorrelatedInplaneOutofplane2018a, sattarFunctionalizedDoubleTransition2025]
 updated: 2026-08
 ---
 
@@ -50,7 +50,7 @@ updated: 2026-08
 - [[../papers/xueEmergingNonvolatileMemories2011]]：深入讨论了忆阻器的原理、材料（如 $TaO_x$）及在系统架构中的挑战。
 - [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]：研究了结合铁电特性的新型忆阻器件。
 - [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]]
-
+- [[../papers/sattarFunctionalizedDoubleTransition2025]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/resistive-switching|阻变]]

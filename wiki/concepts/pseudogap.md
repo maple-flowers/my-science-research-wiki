@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, strongly-correlated-systems]
 mechanism: 在没有发生宏观长程相变的情况下，费米能级附近的电子态密度出现部分消失或降低的现象
 related_concepts: [charge-density-wave, van-hove-singularity, peierls-instability]
-papers: [Inosov2008fermi, Johannes2008fermi, CastroNeto2001charge, cossuStackingChargedensityWaves2024, kawakamiChargedensityWaveAssociated2023]
+papers: [Inosov2008fermi, Johannes2008fermi, CastroNeto2001charge, cossuStackingChargedensityWaves2024, kawakamiChargedensityWaveAssociated2023, kresseInitiomolecularDynamicsLiquid1993, kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994]
 updated: 2026-08
 ---
 
@@ -47,7 +47,8 @@ updated: 2026-08
 - [[../papers/CastroNeto2001charge]]：综述了层状材料中赝能隙与超导、CDW 的共存关系。
 - [[../papers/cossuStackingChargedensityWaves2024]]
 - [[../papers/kawakamiChargedensityWaveAssociated2023]]
-
+- [[../papers/kresseInitiomolecularDynamicsLiquid1993]]
+- [[../papers/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/charge-density-wave|电荷密度波 (CDW)]]：赝能隙往往是 CDW 的前驱态。

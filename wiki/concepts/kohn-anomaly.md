@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, lattice-dynamics]
 mechanism: 由于费米面嵌套导致的电子屏蔽效应在特定波矢 q 处的剧烈变化，引起声子频率的陡降
 related_concepts: [charge-density-wave, fermi-surface-nesting, peierls-instability, periodic-lattice-distortion]
-papers: [Inosov2008fermi, Johannes2008fermi, CastroNeto2001charge, hallEnvironmentalControlCharge]
+papers: [Inosov2008fermi, Johannes2008fermi, CastroNeto2001charge, hallEnvironmentalControlCharge, chowdhuryReviewTheoreticalComputational, Laverock2005fermi]
 updated: 2026-08
 ---
 
@@ -48,7 +48,8 @@ $$\omega^2(q) = \Omega^2(q) - |g(q)|^2 \chi(q)$$
 - [[../papers/Johannes2008fermi]]：强调了动量依赖的电声耦合在决定 Kohn 异常位置和强度中的作用。
 - [[../papers/CastroNeto2001charge]]：讨论了 Kohn 异常在低维体系中的普适性。
 - [[../papers/hallEnvironmentalControlCharge]]
-
+- [[../papers/chowdhuryReviewTheoreticalComputational]]
+- [[../papers/Laverock2005fermi]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/charge-density-wave|电荷密度波 (CDW)]]：Kohn 异常演化到极致的结果。

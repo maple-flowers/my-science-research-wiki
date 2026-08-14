@@ -6,7 +6,7 @@ status: developing
 domain: [condensed-matter-physics, topological-physics]
 mechanism: 体系哈密顿量在时间倒转算符变换下的不变性
 related_concepts: [topological-insulator, Z2-invariant, quantum-spin-hall-effect, weyl-semimetal, broken-inversion-symmetry]
-papers: [pedramraziManipulatingTopologicalDomain2019, sharmaRoomtemperatureFerroelectricSemimetal2019, wangTunableD0Topological2025b, zhaoOpticalFingerprintsTwodimensional2024]
+papers: [pedramraziManipulatingTopologicalDomain2019, sharmaRoomtemperatureFerroelectricSemimetal2019, wangTunableD0Topological2025b, zhaoOpticalFingerprintsTwodimensional2024, RecentAdvancesGrowth2025]
 updated: 2026-08
 ---
 
@@ -41,7 +41,7 @@ updated: 2026-08
 - [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]]：WTe₂ 保持时间反演对称但破缺空间反演。
 - [[../papers/wangTunableD0Topological2025b]]：d0 铁磁性材料 In₂NO₂ 破缺了时间反演对称性。
 - [[../papers/zhaoOpticalFingerprintsTwodimensional2024]]
-
+- [[../papers/RecentAdvancesGrowth2025]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/Z2-invariant|Z2 不变量]]（受时间反演对称性保护的拓扑指数）

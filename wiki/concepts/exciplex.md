@@ -6,7 +6,7 @@ status: developing
 domain: [photophysics, physical-chemistry, molecular-spectroscopy]
 mechanism: 一个处于激发态的分子与另一个处于基态的分子相互作用，形成一个在激发态稳定、基态不稳定的二聚复合物
 related_concepts: [photoluminescence, tict-mechanism, quenching]
-papers: [Huang2023two, Huang2019solvatochromic, H2017fluorescence, WRZYSZCZYNSKI2010initiators]
+papers: [Huang2023two, Huang2019solvatochromic, H2017fluorescence, WRZYSZCZYNSKI2010initiators, Xie2024isostructural]
 updated: 2026-08
 ---
 
@@ -38,7 +38,7 @@ updated: 2026-08
 - [[../papers/Huang2019solvatochromic]]：通过变浓度和变粘度实验，确立了位于 542 nm 处 E 带的 Exciplex 归属。
 - [[../papers/H2017fluorescence]]：探讨了溶剂弛豫对激基复合物形成动力学的影响。
 - [[../papers/WRZYSZCZYNSKI2010initiators]]
-
+- [[../papers/Xie2024isostructural]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/photoluminescence|光致发光]]

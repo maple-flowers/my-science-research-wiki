@@ -6,7 +6,7 @@ status: stub
 domain: [ferroelectricity, multiferroics]
 mechanism: 迫使铁电体/磁性体的总剩余序参量（极化或磁化）减小为零时所需的外加场强度
 related_concepts: [polarization-switching, hysteresis-loop, coercive-voltage]
-papers: [Chen2016electrical, martinThinfilmFerroelectricMaterials2016]
+papers: [Chen2016electrical, martinThinfilmFerroelectricMaterials2016, caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025, cuiIntercorrelatedInplaneOutofplane2018a, junqueraCriticalThicknessFerroelectricity2003, Kim2008effect, sunSlidingFerroelectricityTwodimensional2025, tangMultiferroicityTwodimensionalVan2025, tianRoomtemperatureTwodimensionalMultiferroic2026]
 updated: 2026-08
 ---
 
@@ -32,7 +32,13 @@ updated: 2026-08
 
 - [[../papers/Chen2016electrical]]：测得 70 nm 厚的 BiFeO₃ 薄膜矫顽场 $E_c \approx 38\ \text{kV/mm}$（对应矫顽电压 $V_c \approx 2.3\ \text{V}$），并利用力学等效场克服此场强实现翻转。
 - [[../papers/martinThinfilmFerroelectricMaterials2016]]
-
+- [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]
+- [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]]
+- [[../papers/junqueraCriticalThicknessFerroelectricity2003]]
+- [[../papers/Kim2008effect]]
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]]
+- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/polarization-switching|极化翻转]]

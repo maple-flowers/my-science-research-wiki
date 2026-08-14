@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, multiferroics]
 mechanism: 磁电耦合材料中磁振子与声子（或极化模式）的混合集体激发
 related_concepts: [multiferroicity, magnetoelectric-coupling, magnons, phonon, raman-optical-activity]
-papers: [songEvidenceSinglelayerVan2022, fiebigEvolutionMultiferroics2016, deSousa2008electrical]
+papers: [songEvidenceSinglelayerVan2022, fiebigEvolutionMultiferroics2016, deSousa2008electrical, RecentAdvancesGrowth2025]
 updated: 2026-08
 ---
 
@@ -38,7 +38,7 @@ updated: 2026-08
 - [[../papers/songEvidenceSinglelayerVan2022]]：在单层 NiI₂ 中通过圆二色拉曼光谱观测到了电磁振子，作为单层多铁性的关键证据。
 - [[../papers/fiebigEvolutionMultiferroics2016]]：讨论了多铁性材料中高频磁电效应的物理本质。
 - [[../papers/deSousa2008electrical]]
-
+- [[../papers/RecentAdvancesGrowth2025]]
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/multiferroicity|多铁性]]
