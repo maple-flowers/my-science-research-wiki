@@ -1,12 +1,4 @@
----
-tags: [concept, stub]
----
+# uemura-relation
 
-# Uemura Relation
-
-Uemura 标度律）：T_c 与 n_s/m*（或 T_F）之间的非常规正相关，最初在欠掺杂铜氧化物中发现，被视为 BEC-BCS 渡越/相刚度受限超导的指纹。
-
-## Related Papers
-
-- [[../papers/Islam2025enhancement]]
-- [[../papers/majumdarInterplayChargeDensity2020]]
+- [[../papers/Islam2025enhancement]] — Pressure-induced enhancement of superfluid density in transition metal dichalcogenides with and without charge density wave
+- [[../papers/majumdarInterplayChargeDensity2020]] — Interplay of charge density wave and multiband superconductivity in layered quasi-two-dimensional materials: The case of 2H-NbS₂ and 2H-NbSe₂

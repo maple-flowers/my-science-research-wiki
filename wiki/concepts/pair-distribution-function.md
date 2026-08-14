@@ -1,13 +1,5 @@
----
-tags: [concept, stub]
----
+# pair-distribution-function
 
-# 原子对分布函数
-
-原子对分布函数（PDF），由高能XRD总散射（Bragg+漫散射）傅里叶变换得到G(r)，对局部键长、配位多面体畸变和短程序极为敏感，是研究复杂固溶体局域结构的核心实验手段。
-
-## Related Papers
-
-- [[../papers/Petkov2020hierarchy]]
-- [[../papers/Zhang2019a]]
-- [[../papers/petkovStructureIntercalatedCs2002]]
+- [[../papers/Petkov2020hierarchy]] — Hierarchy among the crystal lattice, charge density wave, and superconducting orders in transition metal dichalcogenides
+- [[../papers/Zhang2019a]] — Studying Stability of Atom Packing for Ti Nanoparticles on Heating by Molecular Dynamics Simulations
+- [[../papers/petkovStructureIntercalatedCs2002]] — Structure of Intercalated Cs in Zeolite ITQ-4: An Array of Metal Ions and Correlated Electrons Confined in a Pseudo-1D Nanoporous Host

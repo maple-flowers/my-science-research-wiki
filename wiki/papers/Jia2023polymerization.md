@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Jia2023polymerization]]
 projects: []
-concepts: [two-photon-polymerization, aberration-correction, bessel-beams, high-order-bessel-beams, orbital-angular-momentum, adaptive-optics, wavefront-sensing, optical-vortex, diffraction-free-beam, photopolymerization, self-healing-beam, complex-amplitude-modulation]
+concepts: [two-photon-polymerization, aberration-correction, bessel-beams, high-order-bessel-beams, orbital-angular-momentum, adaptive-optics, wavefront-sensing, optical-vortex, diffraction-free-beam, photopolymerization, self-healing-beam, complex-amplitude-modulation, bessel-beam]
 entities: [spatial-light-modulator, BBO-crystal, SU-8, CCD-camera, Holoeye-PLUTO, Olympus-20x-objective, ZEISS-Gemini-300, femtosecond-fiber-laser, mechanical-shutter, ND-filter]
 methods: [multichannel-interferometric-wavefront-sensing, two-photon-polymerization, scanning-electron-microscopy, angular-spectrum-method, computer-generated-hologram, blazed-grating-diffraction, phase-only-modulation, fourier-spectrum-imaging, circularity-analysis]
 materials: [SU-8-2075, cyclopentanone]
@@ -86,8 +86,10 @@ Erse Jia、Chen Xie、Na Xiao、Francois Courvoisier、Minglie Hu，2023，Chine
 用单个纯相位 SLM 将多通道干涉波前传感原位集成到飞秒 2PP 系统中，无需泽尼克/Gerchberg–Saxton 等复杂算法即可补偿超过 4π 的系统像差，使高阶贝塞尔光束（m=6）恢复近理想形态，并快速制造出高圆度、壁厚均匀、无倒塌的 SU-8 微管阵列。
 
 ## 🔗 Wiki 双链
-  - 年度 [[../write/2023]]
+  - 年度 [[../write/2020-2024|2023]]
   - 项目 [[../projects/project-1-two-photon]]
+  - 概念 [[../concepts/bessel-beams]]、[[../concepts/self-healing-beam]]、[[../concepts/optical-vortex]]、[[../concepts/complex-amplitude-modulation]]、[[../concepts/high-order-bessel-beams]]
+  - 实体 [[../entities/Holoeye-PLUTO]]、[[../entities/Olympus-20x-objective]]、[[../entities/mechanical-shutter]]、[[../entities/ZEISS-Gemini-300]]、[[../entities/ND-filter]]、[[../entities/CCD-camera]]、[[../entities/femtosecond-fiber-laser]]
   - 相关论文 [[../../raw/note/Jia2023polymerization]]
   - 概念：
     - [[../concepts/two-photon-polymerization|双光子聚合 (2PP)]]

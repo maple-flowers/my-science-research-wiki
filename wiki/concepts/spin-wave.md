@@ -1,11 +1,6 @@
----
-tags: [concept, stub]
----
+# spin-wave
 
-# 自旋波/磁振子）
-
-自旋波/磁振子）：磁有序系统中局域磁矩集体进动的波激发，量子化为磁振子(magnon)，传播角动量而非电荷，是低功耗自旋电子学的信息载体。
-
-## Related Papers
-
-- [[../papers/deSousa2008electrical]]
+- [[../papers/deSousa2008electrical]] — Electrical control of magnon propagation in multiferroic BiFeO3 films
+- [[../papers/liPhaseTransitions2D2021]] — Phase transitions in 2D materials
+- [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films
+- [[../papers/vanvleckSurveyTheoryFerromagnetism1945]] — A Survey of the Theory of Ferromagnetism

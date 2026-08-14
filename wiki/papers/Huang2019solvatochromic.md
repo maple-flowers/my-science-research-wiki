@@ -99,8 +99,10 @@ Huang, Peng, Fan et al.，2019，*American Journal of Biomedical Science & Resea
   - 概念 [[../concepts/solvatochromism|溶剂化变色]]、[[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/two-photon-fluorescence|双光子荧光]]、[[../concepts/intramolecular-charge-transfer|分子内电荷转移]]、[[../concepts/twisted-intramolecular-charge-transfer|扭转分子内电荷转移]]、[[../concepts/exciplex|激基复合物]]、[[../concepts/local-excited-state|局域激发态]]、[[../concepts/donor-pi-acceptor|供体-π-受体]]、[[../concepts/push-pull-chromophore|推拉生色团]]、[[../concepts/triple-fluorescence|三重荧光]]、[[../concepts/lippert-mataga|Lippert–Mataga方程]]
   - 实体 [[../entities/stilbene|二苯乙烯]]、[[../entities/DCS|DCS]]、[[../entities/dicyanostilbene-1a|P1探针]]、[[../entities/dicyanostilbene-1b|P2探针]]、[[../entities/fluorescein|荧光素]]、[[../entities/quinine-bisulfate|硫酸奎宁]]
   - 图表 [[../figures/optical-spectra]]
-  - 年度 [[../write/2019]]
+  - 年度 [[../write/2015-2019|2019]]
   - 项目 [[../projects/project-1-two-photon]]
+  - 概念 [[../concepts/viscosity-sensing]]、[[../concepts/thermochromism]]、[[../concepts/solvent-polarity-scales]]、[[../concepts/fluorescence-quantum-yield]]
+  - 实体 [[../entities/diphenylamino]]、[[../entities/glycerol]]、[[../entities/DMSO]]、[[../entities/dimethylamino]]、[[../entities/cyano-group]]
   - 相关论文 **Huang2019solvatochromic**
 
 ## 📊 关键图表

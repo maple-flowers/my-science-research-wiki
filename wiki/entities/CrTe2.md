@@ -1,53 +1,61 @@
 ---
-2	tags: [entity, material, multiferroic, TMD, 2D, magnetism, ferroelectricity]
-3	category: [D01, Z02]
-4	---
-5	
-6	# 二碲化铬 / Chromium Telluride (CrTe2)
-7	
-8	**二碲化铬 (CrTe2)** 是一种具有高度调控潜力的范德华（vdW）层状过渡金属硫族化合物（TMD）。它是目前二维凝聚态物理研究的旗舰体系，作为首个被实验证实具有**室温、空气稳定性**的本征二维多铁金属材料，被广泛用于研究磁电耦合的“电写磁读”逻辑 [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]。
-9	
-10	## 1. 核心物理特性
-11	
-12	### 1.1 铁电金属佯谬的解决
-13	不同于传统铁电体必须是绝缘体以防止极化被自由载流子屏蔽，CrTe2 表现出**面内金属性与面外铁电性**共存：
-14	- **空间分离机制**：传导电子主要局域在 MX2 层内平面运动，而极化偶极矩由层间（纵向）不对称电荷分布产生，有效避免了极化屏蔽 [[../papers/zhaoRealization2DMultiferroic2024]]。
-15	- **金属性铁电判据**：表现出非易失性的极化翻转迟滞回线，同时具备良好的电荷输运能力。
-16	
-17	### 1.2 层依赖磁性与室温多铁性
-18	CrTe2 的磁基态受层厚和层间耦合强力调制 [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]：
-19	- **单层 (z-AFM)**：基态为锯齿状反铁磁序（Zigzag-AFM），宏观净磁矩抵消。
-20	- **双层 (Multiferroic)**：呈现 **FM/AFM 异质叠加** 结构（顶层 FM，底层 AFM）。产生约 **$2.44\text{ \mu_B/Cr}$** 的净磁矩。
-21	- **居里温度 ($T_C$)**：室温稳定，测量值约为 **$300\text{ K}$**。
-22	
-23	### 1.3 极化机制：层间电荷转移
-24	其铁电性起源于 **层间电荷转移 (Interlayer Charge Transfer)** 而非简单的原子滑移：
-25	- **驱动力**：FM 层与 z-AFM 层之间存在静电势差（$\sim 0.1\text{ eV}$）。
-26	- **极化强度 ($P_{out}$)**：产生约 **$3.0\text{ pC/m}$** 的面外自发极化，显著强于传统滑动铁电体（如 $h\text{-}BN$） [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]。
-27	
-28	## 2. 磁电耦合应用：电写磁读
-29	CrTe2 演示了高集成度的非易失性功能控制：
-30	- **全电学控磁**：通过施加外电压（矫顽电压 $1\text{--}2\text{ V}$）翻转铁电极化，可同步改变层间电荷分布，进而诱导 FM/AFM 磁序的可逆切换。
-31	- **斯格明子调控**：在 CrTe2 基异质结中，极化翻转可有效调控 Dzyaloshinskii-Moriya 相互作用 (DMI)，实现对**磁斯格明子 (Skyrmions)** 的全电学操控 [[../papers/zhaoRealization2DMultiferroic2024]]。
-32	
-33	## 3. 主要物性参数
-34	| 参数名称 | 典型数值 | 备注 |
-35	| :--- | :--- | :--- |
-36	| **转变温度 ($T_C$)** | $\sim 300\text{ K}$ | 室温多铁性 |
-37	| **面外极化 ($P_{out}$)** | $\sim 3.0\text{ pC/m}$ | 高于滑移铁电机制 |
-38	| **磁矩 (Net)** | $2.44\text{ \mu_B/Cr}$ | 双层 FM/AFM 态 |
-39	| **环境稳定性** | 空气稳定 | 暴露大气两周仍具活性 |
-40	| **材料类别** | 磁性 TMDs | 多铁金属旗舰材料 |
-41	
-42	## 4. 本库相关代表性论文
-43	- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]：Nature Materials 2026，实验证实室温空气稳定的二维多铁金属。
-44	- [[../papers/zhaoRealization2DMultiferroic2024]]：综述了 CrTe2 类材料在插层超晶格与斯格明子控制中的优势。
-45	- [[../papers/miaoMagneticFerroelectricMetal2024]]：讨论了 TMDs 中金属性与极性共存的理论边界。
-46	
-47	## 5. 关联概念与实体
-48	- [[../concepts/multiferroicity|多铁性 Multiferroicity]]
-49	- [[../concepts/interlayer-charge-transfer|层间电荷转移 Interlayer Charge Transfer]]
-50	- [[../entities/WTe2|二碲化钨 WTe2]] (同族铁电金属对比)
-51	- [[../entities/MnBi2Te4|MnBi2Te4]] (磁性拓扑对比)
-52	- [[../projects/project-2-mn-multiferroics|Project-2]] (磁性调控参考)
-53	
+tags: [entity, material, 2D, magnetism]
+title: 二碲化铬 (CrTe₂)
+type: entity
+status: mature
+category: [D01]
+formula: CrTe2
+stoichiometry: 1T Phase / Bulk
+class: [vdW, magnet, metal]
+properties: [room-temperature-ferromagnetism, metallic-conduction, thickness-dependent-magnetism]
+related_entities: [CrI3, Fe3GeTe2, VSe2, TMDs]
+papers: [caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025, chenFerromagneticNonmagnetic1T2022, guoAdvancesTwodimensionalFerroelectric2025, kaurRecentAdvancesTheoretical2025a, liMonolayerPuckeredPentagonal2022, tangMultiferroicityTwodimensionalVan2025, tianRoomtemperatureTwodimensionalMultiferroic2026, wuNonvolatileSwitchableHalfmetallicity2024, yuFerroelectricControlMagnetism2026, zhangNonvolatileControlTopological2025, zhaoRealization2DMultiferroic2024]
+updated: 2026-08
+---
+
+# 二碲化铬 (CrTe₂)
+
+CrTe₂ 是一种备受关注的二维金属性铁磁材料，特别是在其 1T 相结构下。与许多需要在极低温下工作的二维磁体不同，少层甚至单层 CrTe₂ 表现出接近甚至超过室温的居里温度 ($T_C$)。结合其优异的导电性，它是开发高性能自旋电子器件（如磁隧道结、自旋轨道转矩器件）的关键候选材料。
+
+## 👵 太奶导读
+
+好孩子，这“二碲化铬”就是二维磁铁里的“全能劳模”。
+一般的二维小磁铁都特别“怕热”，一到常温就没磁性了。但这 CrTe₂ 特别皮实，在咱们平时生活的温度下也能磁力十足。
+因为它本身就能导电，就像是一根自带磁性的金属丝。科学家们非常看好它，觉得以后可以用它来做那种既能当导线传信号、又能当磁铁存信号的超级微型零件，省空间还省电。
+
+## 🏗️ 结构概览：1T-CrTe2 的晶体结构与金属性
+
+![图：1T-CrTe2 的层状结构与费米面金属性](../../raw/figures/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025/fig_1_A3L3NFIH.png)
+*   **看图要点**：Cr 原子被 Te 原子构成的八面体包围，形成典型的 1T 相层状结构。图中展示了其费米能级处具有显著的电子态密度，证实了其金属性。
+*   **来源**：[[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]] -> [[../figures/electronic-devices-memory-transistors]]
+*(注：借用 Cai 2025 中关于二维金属磁体背景的描述)*
+
+## 🧩 核心物性参数
+
+| 性质 | 数值 | 备注 |
+| :--- | :--- | :--- |
+| **居里温度 ($T_C$)** | ~300 - 320 K | 随层数减薄可能略有下降但维持高位 |
+| **磁各向异性** | 易面 (Easy-plane) | 倾向于在面内磁化 |
+| **导电性** | 金属 | 低电阻率，适合高速自旋注入 |
+| **稳定性** | 环境敏感 | 在空气中易氧化，需在惰性气体下保护 |
+
+## 📚 相关论文 (Related Papers)
+
+- [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]：引用 CrTe₂ 作为高性能室温二维磁体的代表。
+- [[../papers/chenFerromagneticNonmagnetic1T2022]]：研究了 1T' 相 TMD 中的 CDW 与磁性共存机制，涉及 CrTe₂ 类体系对比。
+- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]：综述了新型二维铁磁体在多铁异质结中的集成。
+
+- [[../papers/kaurRecentAdvancesTheoretical2025a]] — Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials
+- [[../papers/liMonolayerPuckeredPentagonal2022]] — Monolayer puckered pentagonal VTe2: An emergent two-dimensional ferromagnetic semiconductor with multiferroic coupling
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]] — Towards Multiferroicity in Two-Dimensional Van Der Waals Materials: Challenges and Opportunities
+- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]] — Room-temperature two-dimensional multiferroic metal with voltage-controllable magnetic order
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]] — Nonvolatile switchable half-metallicity and magnetism in the MXene Hf₂MnC₂O₂/Sc₂CO₂ multiferroic heterostructure
+- [[../papers/yuFerroelectricControlMagnetism2026]] — Ferroelectric Control of Magnetism and Giant Magnetoresistance Via Intercalation-Induced Symmetry Breaking in Two-Dimensional Multiferroics with Strong Magnetoelectric Coupling
+- [[../papers/zhangNonvolatileControlTopological2025]] — Nonvolatile control of topological magnetism in two-dimensional CrInTe2/In2Se3 multiferroic heterostructures
+- [[../papers/zhaoRealization2DMultiferroic2024]] — Realization of 2D multiferroic with strong magnetoelectric coupling by intercalation: a first-principles high-throughput prediction
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../concepts/curie-temperature|居里温度]]（室温稳定性）
+- [[../concepts/charge-density-wave|CDW]]（1T' 相中可能存在的关联序）
+- [[../entities/Fe3GeTe2|Fe₃GaTe₂]]（垂直易轴竞争材料）
+- [[../entities/VSe2|VSe₂]]（同为 1T 相的二维磁体）

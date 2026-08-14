@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# electromagnetic-induced-transparency
 
-# EIT，作为对比方案
-
-EIT，作为对比方案（用耦合光修饰原子能级），与本文"修饰光子态"机制对照。
-
-## Related Papers
-
-- [[../papers/Nakanishi2009full]]
+- [[../papers/Nakanishi2009full]] — Full Quantum Analysis of Two-Photon Absorption Using Two-Photon Wave Function: Comparison of Two-Photon Absorption with One-Photon Absorption

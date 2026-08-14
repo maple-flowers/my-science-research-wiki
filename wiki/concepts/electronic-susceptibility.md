@@ -1,12 +1,6 @@
----
-tags: [concept, stub]
----
+# electronic-susceptibility
 
-# 电子极化率
-
-电子极化率（磁化率）：χ′(q) 实部决定电子子系统稳定性并可触发 CDW，χ′′(q) 虚部只反映费米面拓扑；二者必须区分。
-
-## Related Papers
-
-- [[../papers/Johannes2008fermi]]
-- [[../papers/yanagizawaSwitchingChargedensityWave2023]]
+- [[../papers/Johannes2008fermi]] — Fermi surface nesting and the origin of charge density waves in metals
+- [[../papers/junqueraCriticalThicknessFerroelectricity2003]] — Critical thickness for ferroelectricity in perovskite ultrathin films
+- [[../papers/kawakamiChargedensityWaveAssociated2023]] — Charge-density wave associated with higher-order Fermi-surface nesting in monolayer VS2
+- [[../papers/yanagizawaSwitchingChargedensityWave2023]] — Switching of charge-density wave by carrier tuning in monolayer TiTe₂

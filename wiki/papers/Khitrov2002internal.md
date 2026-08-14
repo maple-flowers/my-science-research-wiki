@@ -84,8 +84,10 @@ Greg Khitrov et al.，2002，MRS Bulletin，27(4), 285，DOI: 10.1557/mrs2002.84
   - 图表 [[../figures/experimental-setups]]、[[../figures/optical-spectra]]
   - 概念 [[../concepts/two-photon-excitation|双光子激发]]、[[../concepts/photoluminescence-mapping|光致发光成像]]、[[../concepts/vls-growth|VLS生长]]、[[../concepts/nanowire-superlattice|纳米线超晶格]]、[[../concepts/spherical-aberration|球面像差]]
   - 实体 [[../entities/PMMA|PMMA]]
-  - 年度 [[../write/2002]]
+  - 年度 [[../write/2000-2004|2002]]
   - 项目 [[../projects/project-1-two-photon]]
+  - 概念 [[../concepts/lateral-integration]]、[[../concepts/rare-earth-doping]]
+  - 实体 [[../entities/Si-SiGe-nanowire]]、[[../entities/carbon-nanotube]]、[[../entities/ZnSe]]、[[../entities/GaN]]、[[../entities/Ti-sapphire-laser]]
   - 相关论文 [[../../raw/note/Khitrov2002internal]]
 ## 🆕 新概念/实体建议
   - `rare-earth-doped-gan`（稀土掺杂 GaN）：在 GaN 中掺入 Eu、Tb 等离子获得特征红/绿光的电致发光体系。

@@ -1,11 +1,6 @@
----
-tags: [concept, stub]
----
+# spiral-magnetic-order
 
-# 螺旋磁序）
-
-螺旋磁序）：非共线磁结构，同时破缺时间反演与空间反演，通过逆 DM 相互作用诱导极化。
-
-## Related Papers
-
-- [[../papers/cheongMultiferroicsMagneticTwist2007a]]
+- [[../papers/RecentAdvancesGrowth2025]] — Recent advances in growth, characterization, and application of two-dimensional multiferroic materials
+- [[../papers/cheongMultiferroicsMagneticTwist2007a]] — Multiferroics: a magnetic twist for ferroelectricity
+- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]] — Multiferroics: different routes to magnetoelectric coupling
+- [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films

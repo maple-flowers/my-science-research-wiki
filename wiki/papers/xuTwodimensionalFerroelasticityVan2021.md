@@ -90,11 +90,12 @@ Xu, Mao, Guo, Yan, Chen, Lo, Chen, Lei, Luo, Hao, Zheng, Zhu et al.，2021，Nat
 ## 💡 一句话
 首次在少层范德华 β'-In2Se3 中实验证实由面内反铁电畸变驱动的二维铁弹性，定量给出 ~0.49% 的自发应变并实现 ≤0.5% 外应变下的可逆畴切换。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/ferroelasticity]]、[[../concepts/2D-materials]]、[[../concepts/strain-engineering]]、[[../concepts/multiferroicity]]、[[../concepts/polarization-switching]]、[[../concepts/antiferroelectricity|反铁电性]]、[[../concepts/spontaneous-strain|自发应变]]、[[../concepts/peierls-distortion|Peierls 畸变]]、[[../concepts/shape-memory-effect|形状记忆效应]]、[[../concepts/linear-dichroism|线性二向色性]]
+  - 概念 [[../concepts/ferroelasticity]]、[[../concepts/2d-materials]]、[[../concepts/strain-engineering]]、[[../concepts/multiferroicity]]、[[../concepts/polarization-switching]]、[[../concepts/antiferroelectricity|反铁电性]]、[[../concepts/spontaneous-strain|自发应变]]、[[../concepts/peierls-distortion|Peierls 畸变]]、[[../concepts/shape-memory-effect|形状记忆效应]]、[[../concepts/linear-dichroism|线性二向色性]]
   - 实体 [[../entities/In2Se3]]、[[../entities/SnTe]]、[[../entities/TMDs]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/domain-walls]]、[[../figures/experimental-setups]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - 年度 [[../write/2021]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/domain-walls]]、[[../figures/experimental-setups]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 年度 [[../write/2020-2024|2021]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 概念 [[../concepts/domain-walls]]
   - 相关论文 [[../../raw/note/xuTwodimensionalFerroelasticityVan2021]]
 ## 🆕 新概念/实体建议
   - `domain-wall-classification`（W 墙/S 墙分类）：Wf 墙取向由母相对称性固定（120° DW 沿 {11-20}），S 墙取向依赖自发应变量级（60° DW 沿 {1-100}），适合作为畴壁条目的补充概念。

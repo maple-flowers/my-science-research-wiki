@@ -64,7 +64,7 @@ M. Shishkin, G. Kresse，2006，Physical Review B 74, 035101，DOI: 10.1103/Phys
   - 实体 [[../entities/VASP]]
   - 实体 [[../entities/GaAs]]
   - 图表 [[../figures/electronic-bands]]
-  - 年度 [[../write/2006]]
+  - 年度 [[../write/2005-2009|2006]]
   - 相关论文 [[../../raw/note/shishkinImplementationPerformanceFrequencydependentGWmethod2006]]
 
 ## 🆕 新概念/实体建议

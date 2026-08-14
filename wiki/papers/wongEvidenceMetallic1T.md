@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/wongEvidenceMetallic1T]]
 projects: [project-7]
-concepts: [2d-materials, charge-density-wave, spin-orbit-coupling, density-functional-theory, 1t-phase, 1t-prime-phase, fermi-surface-nesting, electron-phonon-coupling, substrate-effect, d1-electronic-configuration, octahedral-crystal-field, exchange-splitting, vdw-magnets]
+concepts: [2d-materials, charge-density-wave, spin-orbit-coupling, density-functional-theory, 1t-phase, 1t-prime-phase, fermi-surface-nesting, electron-phonon-coupling, substrate-effect, d1-electronic-configuration, octahedral-crystal-field, exchange-splitting, vdw-magnets, xmcd]
 entities: [VTe2, VASP, TMDs, HOPG, graphene]
 methods: [mbe, stm-sts, pes-xps, arpes, xas, xmcd, dft, paw-pbe, vdw-dft]
 materials: [VTe2]
@@ -86,10 +86,11 @@ Ping Kwan Johnny Wong, Wen Zhang, Jun Zhou, Fabio Bussolotti, Xinmao Yin, Lei Zh
 通过 MBE 生长 + STM/STS、PES、ARPES、XAS/XMCD 与 DFT 的联合证据链，首次确证单层 VTe₂ 为金属性 1T 相、V⁴⁺(3d¹) 构型、低温 (4×4) CDW 序，并用元素特异性 XMCD 排除了此前理论预测的本征铁磁性。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/charge-density-wave]]、[[../concepts/density-functional-theory]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/1t-phase|1T 相]]、[[../concepts/1t-prime-phase|1T′ 相]]、[[../concepts/d1-electronic-configuration|d¹ 电子构型]]、[[../concepts/electron-phonon-coupling|电子-声子耦合]]、[[../concepts/fermi-surface-nesting|费米面嵌套]]、[[../concepts/substrate-effect|衬底效应]]、[[../concepts/vdw-magnets|范德华磁体]]、[[../concepts/xmcd|XMCD]]
+  - 概念 [[../concepts/2d-materials]]、[[../concepts/charge-density-wave]]、[[../concepts/density-functional-theory]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/1t-phase|1T 相]]、[[../concepts/1t-prime-phase|1T′ 相]]、[[../concepts/d1-electronic-configuration|d¹ 电子构型]]、[[../concepts/electron-phonon-coupling|电子-声子耦合]]、[[../concepts/fermi-surface-nesting|费米面嵌套]]、[[../concepts/substrate-effect|衬底效应]]、[[../concepts/vdw-magnets|范德华磁体]]、[[../concepts/xmcd|XMCD]]
   - 实体 [[../entities/TMDs]]、[[../entities/VASP]]、[[../entities/HOPG|HOPG]]、[[../entities/VTe2|VTe₂]]、[[../entities/graphene|石墨烯]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]
-  - 年度 [[../write/2019]]
+  - 年度 [[../write/2015-2019|2019]]
+  - 概念 [[../concepts/exchange-splitting]]、[[../concepts/octahedral-crystal-field]]
   - 相关论文 [[../../raw/note/wongEvidenceMetallic1T]]
 
 ## 🆕 新概念/实体建议

@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# orientation-variants
 
-# 取向变体
-
-取向变体（O1/O2/O3）：同一低对称相对称性破缺后产生的能量简并、晶格取向不同的畴态，是铁弹性的序参量载体；可与铁电畴、磁畴并列。
-
-## Related Papers
-
-- [[../papers/liFerroelasticityDomainPhysics2016]]
+- [[../papers/gaoStrainEngineeringFerroelectric2024]] — Strain engineering of ferroelectric polarization and domain in the two-dimensional multiferroic semiconductor
+- [[../papers/liFerroelasticityDomainPhysics2016]] — Ferroelasticity and domain physics in two-dimensional transition metal dichalcogenide monolayers

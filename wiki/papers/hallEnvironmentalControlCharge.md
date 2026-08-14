@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/hallEnvironmentalControlCharge]]
 projects: [project-7]
-concepts: [2D-materials, charge-density-wave, density-functional-theory, moire-superlattice, spin-orbit-coupling]
-entities: [TMDs, Wannier90, h-BN]
+concepts: [2D-materials, charge-density-wave, density-functional-theory, moire-superlattice, spin-orbit-coupling, constrained-dfpt, quasi-freestanding-monolayer, interlayer-bias, kohn-anomaly, substrate-hybridization, phonon-self-energy]
+entities: [TMDs, Wannier90, h-BN, TaS2]
 methods: [arpes, dfpt, dft, mlip, stm-mbe, tight-binding]
 materials: [TMDs, h-BN]
 figures: [crystal-structures-surfaces-defects, electronic-bands-cdw-transport, electronic-bands-dos-fermi, heterostructures-stacking]
@@ -77,7 +77,7 @@ Joshua Hall, Niels Ehlen, Jan Berges, Erik van Loon, Camiel van Efferen, Cliffor
 
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/charge-density-wave]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/moire-superlattice]]
   - 概念 [[../concepts/spin-orbit-coupling]]
   - 概念 [[../concepts/density-functional-theory]]
@@ -94,8 +94,8 @@ Joshua Hall, Niels Ehlen, Jan Berges, Erik van Loon, Camiel van Efferen, Cliffor
   - 实体 [[../entities/TaS2|TaS₂]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/electronic-bands]]
-  - 图表 [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程 (Spintronics & Strain Engineering)]]
-  - 年度 [[../write/2019]]
+  - 图表 [[../figures/heterostructures-stacking|自旋电子学与应变工程 (Spintronics & Strain Engineering)]]
+  - 年度 [[../write/2015-2019|2019]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
     - 相关论文 **hallEnvironmentalControlCharge**
     - 关键图表 [[hallEnvironmentalControlCharge#关键图表]]

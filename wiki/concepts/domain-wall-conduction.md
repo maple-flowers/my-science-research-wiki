@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# domain-wall-conduction
 
-# 畴壁导电，头对头/尾对尾带电畴壁因未补偿束缚电荷形成导电通道，开关比>10³。
-
-畴壁导电，头对头/尾对尾带电畴壁因未补偿束缚电荷形成导电通道，开关比>10³。
-
-## Related Papers
-
-- [[../papers/hanPolarTopologicalMaterials2025]]
+- [[../papers/hanPolarTopologicalMaterials2025]] — Polar topological materials and devices: Prospects and challenges
+- [[../papers/martinThinfilmFerroelectricMaterials2016]] — Thin-film ferroelectric materials and their applications

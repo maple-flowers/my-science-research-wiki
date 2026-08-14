@@ -1,12 +1,4 @@
----
-tags: [concept, stub]
----
+# triple-fluorescence
 
-# 三重荧光
-
-三重荧光：单一体系同时出现 LE（B）、TICT（A）、Exciplex（E）三个可分辨发射带，为多参数比率传感提供基础。
-
-## Related Papers
-
-- [[../papers/Huang2019solvatochromic]]
-- [[../papers/Huang2023two]]
+- [[../papers/Huang2019solvatochromic]] — Stilbene-Based Two-Photon Thermo-Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature
+- [[../papers/Huang2023two]] — Two Dicyanostilbene-Based Two-Photon Fluorescence Environmentally Sensitive Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence

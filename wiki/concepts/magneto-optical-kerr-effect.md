@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# magneto-optical-kerr-effect
 
-# Magneto Optical Kerr Effect
-
-MOKE / tr-RKerr）：反射偏振面旋转正比于 M，用于磁化动力学。
-
-## Related Papers
-
-- [[../papers/gaoGiantChiralMagnetoelectric2024a]]
+- [[../papers/gaoGiantChiralMagnetoelectric2024a]] — Giant chiral magnetoelectric oscillations in a van der Waals multiferroic

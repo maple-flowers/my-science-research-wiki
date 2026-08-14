@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Koley2020charge]]
 projects: [project-7]
-concepts: [charge-density-wave, superconductivity, 2d-materials, density-functional-theory, strong-coupling, excitonic-condensation, anderson-theorem, fermi-surface-nesting, competing-orders, disorder-engineering, bad-metal, coherence-length, preformed-excitons]
+concepts: [charge-density-wave, superconductivity, 2d-materials, density-functional-theory, strong-coupling, excitonic-condensation, anderson-theorem, fermi-surface-nesting, competing-orders, disorder-engineering, bad-metal, coherence-length, preformed-excitons, exciton-condensation]
 entities: [TMDs, TaSe2, TaS2, TiSe2, WIEN2k]
 methods: [bdg, dft, dmft, dft-plus-dmft, monte-carlo, mo-ipt, mean-field]
 materials: [2H-TaSe2, TaSe2-xSx, 2H-TaS2, 1T-TiSe2, 1T-TaS2]
@@ -88,7 +88,7 @@ Sudipta Koley、Narayan Mohanta、Arghya Taraphder，2020，The European Physica
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/charge-density-wave]]
   - 概念 [[../concepts/superconductivity|超导电性]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/density-functional-theory]]
   - 概念 [[../concepts/strong-coupling|强耦合]]
   - 概念 [[../concepts/exciton-condensation|激子凝聚]]
@@ -105,8 +105,9 @@ Sudipta Koley、Narayan Mohanta、Arghya Taraphder，2020，The European Physica
   - 实体 [[../entities/TiSe2]]
   - 实体 [[../entities/WIEN2k]]
   - 图表 [[../figures/electronic-bands]]
-  - 年度 [[../write/2020]]
+  - 年度 [[../write/2020-2024|2020]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 概念 [[../concepts/excitonic-condensation]]
   - 相关论文 [[../../raw/note/Koley2020charge]]
 ## 📊 关键图表
   - ![图1 BdG 中无序/CDW/超导配对振幅的实空间分布，团簇与随机构型对比](../../raw/figures/Koley2020charge/fig_1_4WRCB6UJ.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]

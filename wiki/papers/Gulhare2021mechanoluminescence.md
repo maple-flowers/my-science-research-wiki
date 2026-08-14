@@ -84,8 +84,10 @@ Vikas Gulhare, S J Dhoble, R S Kher，2021，*International Journal of Science a
   - 概念 [[../concepts/mechanoluminescence|机械发光]]、[[../concepts/concentration-quenching|浓度猝灭]]、[[../concepts/radiation-induced-defects|辐射诱导缺陷]]、[[../concepts/charge-trapping|电荷俘获]]
   - 实体 [[../entities/Ba3VO4-2|正钒酸钡 Ba₃(VO₄)₂]]、[[../entities/europium-dopant|铕掺杂离子 Eu²⁺/Eu³⁺]]
   - 图表 [[../figures/optical-spectra]]、[[../figures/experimental-setups]]
-  - 年度 [[../write/2021]]
+  - 年度 [[../write/2020-2024|2021]]
   - 项目 [[../projects/project-3-mechanoluminescence-nn]]
+  - 概念 [[../concepts/energy-transfer]]、[[../concepts/hole-center]]、[[../concepts/solid-state-lighting]]、[[../concepts/defect-mediated-luminescence]]、[[../concepts/gamma-irradiation]]
+  - 实体 [[../entities/PMT]]、[[../entities/JCPDS]]、[[../entities/storage-oscilloscope]]、[[../entities/Co-60]]
   - 相关论文 **Gulhare2021mechanoluminescence**
 ## 📊 关键图表
 笔记未附图片（manifest 中 figures 列表为空；raw/figures 目录下仅有 manifest.json，无 fig_*.png）。以下依据原文转述逐图给出文字描述，未伪造图片路径。

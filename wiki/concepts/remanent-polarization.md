@@ -1,12 +1,8 @@
----
-tags: [concept, stub]
----
+# remanent-polarization
 
-# 剩余极化 / remanent polarization
-
-铁电体在外电场降为零后保留的极化强度 P_r，是电滞回线与 coercive field E_c 并列的基本铁电性能参数。
-
-## Related Papers
-
-- [[../papers/sattarFunctionalizedDoubleTransition2025]]
-- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]
+- [[../papers/Kim2008effect]] — Effect of epitaxial strain on ferroelectric polarization in multiferroic BiFeO3 films
+- [[../papers/RecentAdvancesGrowth2025]] — Recent advances in growth, characterization, and application of two-dimensional multiferroic materials
+- [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]] — Ferroelectricity-driven strain-mediated magnetoelectric coupling in two-dimensional multiferroic heterostructure
+- [[../papers/heUltrafastSwitchingDynamics2024]] — Ultrafast switching dynamics of the ferroelectric order in stacking-engineered ferroelectrics
+- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]] — Ferroelectricity and Nonvolatile Memristor Applications of Free‐Standing 2D Niobium Carbide: A New Frontier of Free‐Standing MXene in Electronic Devices
+- [[../papers/zhangEmergingFrontiersTwodimensional2025]] — Emerging frontiers in two-dimensional sliding ferroelectrics

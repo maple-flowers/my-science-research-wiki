@@ -1,45 +1,64 @@
 ---
-tags: [entity, material, 2D, Fe3GeTe2, sliding-ferroelectricity, multiferroic]
-category: [D02, Z01]
+tags: [entity, material, 2D, magnetism]
+title: 碲化锗铁 (Fe₃GaTe₂ / Fe₃GeTe₂)
+type: entity
+status: mature
+category: [D01]
+formula: Fe3GaTe2
+stoichiometry: Bulk / Few-layer
+class: [vdW, magnet, metal]
+properties: [room-temperature-ferromagnetism, perpendicular-magnetic-anisotropy, magnetoelectric-coupling]
+related_entities: [CrI3, BiFeO3, TMDs]
+papers: [caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025, miaoMagneticFerroelectricMetal2024, liuSpintronicsTwoDimensionalMaterials2020b, aiFerroelectricityCoexistedPorbital2022, fengFerroelectricityMultiferroicityTwodimensional2020, kaurRecentAdvancesTheoretical2025a, liMonolayerPuckeredPentagonal2022, liPhaseTransitions2D2021, sunSlidingFerroelectricityTwodimensional2025, tangMultiferroicityTwodimensionalVan2025, wuElectrostaticGatingIntercalation2022, wuNonvolatileSwitchableHalfmetallicity2024, yuFerroelectricControlMagnetism2026, zhangNonvolatileControlTopological2025, zhaoOpticalFingerprintsTwodimensional2024]
+updated: 2026-08
 ---
 
-# 铁锗碲 / Fe3GeTe2 (FGT)
+# 碲化锗铁 (Fe₃GaTe₂ / Fe₃GeTe₂)
 
-**Fe3GeTe2 (FGT)** 是一种具有强垂直磁异向性（PMA）的金属性二维范德华铁磁材料。其晶体结构由 $\text{Fe}_3\text{Ge}$ 原子层被两个 $\text{Te}$ 原子层包覆构成，单层属于 $P6_3/mmc$ 空间群。它是目前二维自旋电子学领域最受关注的体系之一。
+Fe₃GaTe₂ (以及同族的 Fe₃GeTe₂) 是近年来发现的极具应用前景的二维范德华金属磁体。其核心卖点在于具有**室温以上的居里温度**和强烈的**垂直磁各向异性 (PMA)**。这使其成为构建高性能、可规模化集成的自旋电子器件（如自旋逻辑门、存储器）的理想平台。
 
-## 1. 核心物理特性
-- **本征铁磁性**：单层 FGT 具有稳健的铁磁序，居里温度 $T_C \sim 130\text{--}220\text{ K}$。
-- **电学调控**：通过离子液体栅压调控（Ionic Liquid Gating），其 $T_C$ 可有效提升至室温（$300\text{ K}$）以上。
-- **拓扑磁性**：在小角度扭转或异质结中，FGT 展现出非平庸的拓扑磁结构（如斯格明子）。
+## 👵 太奶导读
 
-## 2. 滑动诱导的磁性铁电金属 (MFM)
-在双层 FGT 中，通过[[../concepts/sliding-ferroelectricity|层间滑动]]可实现罕见的**磁性铁电金属 (Magnetic Ferroelectric Metal)** 态 [[../papers/miaoMagneticFerroelectricMetal2024]]：
-- **对称性破缺**：当双层 FGT 从原始堆叠向 $(1/3, 1/3)$ 构型滑动时，打破了水平镜面对称性 $M_z$。
-- **层间电荷转移**：对称性破缺驱动了约 **$0.03e$** (每单位晶胞) 的垂直电荷转移，从而产生垂直铁电极化。
-- **铁电金属共存**：由于极化起源于层间电荷不对称而非体相离子位移，极化电荷在实空间与层内传导电子分离，使得垂直极化能够在良好的金属性背景下稳定存在，且不被自由电子完全屏蔽。
-- **磁电耦合**：极化翻转（翻转势垒约 **$13\text{ meV}$**）可显著调制界面磁矩和自旋极化电导。
+好孩子，这“碲化锗铁”就是二维材料里的“硬汉”。
+以前的二维小磁铁都特别娇气，得在冰水里（极低温）才能干活。但这 Fe₃GaTe₂ 厉害了，它在咱们大夏天的屋子里也能保持磁性。
+因为它又导电又带磁，就像是一个天然的微型电路开关。科学家们把它跟一些能变形的材料贴在一起，通过给电压让它变变形，就能控制它的磁性翻转，这可是做“绿色低功耗”电脑芯片的一把好手。
 
-## 3. 光学指纹表征
-利用光学手段可精确鉴定 FGT 的多铁状态 [[../papers/zhaoOpticalFingerprintsTwodimensional2024]]：
-- **磁序探测**：磁克尔效应（MOKE）信号的强度反映磁化强度及磁序类型。
-- **铁电态探测**：二次谐波产生（SHG）信号对中心对称性破缺极其敏感，可作为滑动铁电相的判据。
+## 🏗️ 结构概览：Fe3GaTe2 晶体结构与双栅器件
 
-## 4. 主要物性参数
-| 参数项 | 数值/描述 | 来源 |
+![图：Fe3GaTe2 晶体结构与多铁异质结示意](../../raw/figures/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025/fig_1_A3L3NFIH.png)
+*   **看图要点**：Fe₃GaTe₂ 层由 Fe 原子夹在 Ga-Te 原子面之间构成。图中展示了将其集成在 P(VDF-TrFE) 夹层中构建的双栅极磁电调控器件。
+*   **来源**：[[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]] -> [[../figures/electronic-devices-memory-transistors]]
+
+## 🧩 核心物性参数
+
+| 性质 | 数值 | 备注 |
 | :--- | :--- | :--- |
-| **空间群 (单层)** | $P6_3/mmc$ | 基础晶格数据 |
-| **空间群 (滑动双层)** | $P3m'1$ (磁空间群) | [[../papers/zhaoOpticalFingerprintsTwodimensional2024]] |
-| **滑动相变势垒** | $\sim 13\text{ meV}$ | [[../papers/miaoMagneticFerroelectricMetal2024]] |
-| **层间电荷转移** | $\sim 0.03e$ | [[../papers/miaoMagneticFerroelectricMetal2024]] |
-| **居里温度 ($T_C$)** | $130\text{--}300+\text{ K}$ | 依赖于栅压调控 |
+| **居里温度 ($T_C$)** | ~350 - 380 K | 远超室温 |
+| **磁各向异性** | 强垂直各向异性 (PMA) | $K_u \approx 4.8 \times 10^5$ J/m³ |
+| **导电性** | 金属 | 可直接用于反常霍尔输运测量 |
+| **调控能耗** | ~0.5 aJ/bit | 结合铁电层实现的应变调控 |
 
-## 5. 本库相关代表性论文
-- [[../papers/miaoMagneticFerroelectricMetal2024]]：Acta Mater. 2024，首次揭示双层 FGT 中的滑动诱导 MFM 相。
-- [[../papers/zhaoOpticalFingerprintsTwodimensional2024]]：npj Comp. Mater. 2024，利用对称性分析确定 FGT 多铁态的光学特征。
-- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：综述 FGT 作为滑动铁电异质结在低功耗器件中的应用。
+## 📚 相关论文 (Related Papers)
 
-## 6. 关联概念
-- [[../concepts/sliding-ferroelectricity|滑动铁电性 Sliding Ferroelectricity]]
-- [[../concepts/multiferroicity|多铁性 Multiferroicity]]
-- [[../entities/TMDs|过渡金属硫化物 TMDs]]
-- [[../entities/CrTe2|二碲化铬 CrTe2]] (对比材料：金属性二维多铁)
+- [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]：首次演示了基于该材料的高速、超低功耗全电学逻辑器件。
+- [[../papers/miaoMagneticFerroelectricMetal2024]]：理论预言了该体系在层间滑动下的磁-电耦合相变。
+- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]：综述了该类材料在自旋电子学中的战略地位。
+- [[../papers/aiFerroelectricityCoexistedPorbital2022]]
+- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]]
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]
+- [[../papers/liMonolayerPuckeredPentagonal2022]]
+- [[../papers/liPhaseTransitions2D2021]]
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]]
+- [[../papers/wuElectrostaticGatingIntercalation2022]]
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]]
+- [[../papers/yuFerroelectricControlMagnetism2026]]
+- [[../papers/zhangNonvolatileControlTopological2025]]
+- [[../papers/zhaoOpticalFingerprintsTwodimensional2024]]
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../concepts/magnetoelectric-coupling|磁电耦合]]（核心应用）
+- [[../concepts/magnetic-anisotropy|磁各向异性]]（垂直磁化之源）
+- [[../entities/BiFeO3|BiFeO₃]]（常与其构建异质结）
+- [[../entities/TMDs|TMDs]]（常用的基底或功能层）

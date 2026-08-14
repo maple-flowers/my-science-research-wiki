@@ -72,10 +72,10 @@ L. Zhang, C.B. Zhang, Y.M. Wang, S.Q. Wang, H.Q. Ye，2003，Acta Materialia 51(
 ## 💡 一句话
 建立二维六边形元胞自动机模型，将局部碳浓度变化耦合到概率性形核/捕获规则中，定量揭示了低碳钢连续冷却时冷却速率通过形核-生长竞争决定铁素体晶粒尺寸与形貌的机制。
 ## 🔗 Wiki 双链
-  - 年度 [[../write/2003]]
+  - 年度 [[../write/2000-2004|2003]]
   - 相关论文 [[../../raw/note/Zhang2003a]]
   - 概念 [[../concepts/solid-state-phase-transformation|固态相变]]、[[../concepts/diffusion-controlled-growth|扩散控制生长]]、[[../concepts/nucleation-and-growth|形核与生长]]、[[../concepts/undercooling|过冷度]]、[[../concepts/solute-redistribution|溶质再分配]]、[[../concepts/soft-impingement|软碰撞]]、[[../concepts/super-element-approximation|超元素近似]]、[[../concepts/grain-boundary-nucleation|晶界形核]]、[[../concepts/cementite-precipitation|渗碳体析出]]
-  - 图表 [[../figures/mathematical-models|数学模型与物理公式]]、[[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
+  - 图表 [[../figures/mathematical-models|数学模型与物理公式]]、[[../figures/heterostructures-stacking|力学性质、剥离能与杂项]]
 ## 🆕 新概念/实体建议
   - `solid-state-phase-transformation`（固态相变）：固态中母相到新相的转变，按扩散/位移分类，是本论文的物理背景
   - `diffusion-controlled-growth`（扩散控制生长）：界面推进速度由溶质长程扩散决定的生长模式，对应 Stefan 条件

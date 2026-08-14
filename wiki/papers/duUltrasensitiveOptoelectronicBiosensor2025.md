@@ -112,8 +112,10 @@ Bowen Du, Xilin Tian, Zhi Chen, Yanqi Ge, Chuanghu Chen, Haiyan Gao, Zhongyang L
   - 图表 [[../figures/experimental-setups]]
   - 图表 [[../figures/electronic-devices]]
   - 图表 [[../figures/heterostructures-stacking]]
-  - 图表 [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用 (Domains, Domain Walls, In₂Se₃ & Devices)]]
-  - 年度 [[../write/2025]]
+  - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用 (Domains, Domain Walls, In₂Se₃ & Devices)]]
+  - 年度 [[../write/2025-2029|2025]]
+  - 概念 [[../concepts/local-dielectric-environment]]、[[../concepts/photoresponsivity]]、[[../concepts/trans-cleavage]]、[[../concepts/surface-plasmon-resonance]]
+  - 实体 [[../entities/crispr-cas12a-protein]]、[[../entities/gold-nanoparticles]]、[[../entities/dna-origami-structure]]
   - 相关论文 **duUltrasensitiveOptoelectronicBiosensor2025**
 ## 📊 关键图表
   - **图1：传感器结构、激子-等离激元耦合原理与CRISPR检测流程**

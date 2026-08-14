@@ -81,8 +81,9 @@ Niu, Weng, Li, Guo, Wang, Han, Pan, Lin et al.，2021，*Advanced Science* 8(20)
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/2d-materials]]、[[../concepts/strain-engineering]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/air-sensitive-2d-materials|空气敏感二维材料]]、[[../concepts/anisotropic-rippling|各向异性褶皱]]、[[../concepts/defect-engineering|缺陷工程]]、[[../concepts/low-symmetry-lattice|低对称性晶格]]、[[../concepts/vacancy-formation-energy|空位形成能]]
   - 实体 [[../entities/WTe2]]、[[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/graphene|石墨烯]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/experimental-setups]]、[[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - 年度 [[../write/2021]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/experimental-setups]]、[[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 年度 [[../write/2020-2024|2021]]
+  - 实体 [[../entities/PWmat]]
   - 相关论文 [[../../raw/note/niuDirectVisualizationLargeScale2021]]
 
 ## 🆕 新概念/实体建议

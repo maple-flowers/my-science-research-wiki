@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/hanTunableSlidingFerroelectricity2025]]
 projects: [project-2, project-5]
-concepts: [sliding-ferroelectricity, multiferroicity, 2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, strain-engineering, polarization-switching, spin-orbit-coupling, magnetic-anisotropy, stack-engineering, ferrovalley, moire-superlattice, van-der-waals-heterostructure]
+concepts: [sliding-ferroelectricity, multiferroicity, 2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, strain-engineering, polarization-switching, spin-orbit-coupling, magnetic-anisotropy, stack-engineering, ferrovalley, moire-superlattice, van-der-waals-heterostructure, magnetic-anisotropy-energy]
 entities: [VASP, RuCl2, RuBr2, RuI2, h-BN, WTe2, In2Se3, TMDs]
 methods: [dft, dft-plus-u, hse, dft-d2, berry-phase, neb, aimd, phonon-calculation, spin-orbit-coupling]
 materials: [RuCl2, RuBr2, RuI2]
@@ -96,11 +96,13 @@ Peng Han, Jingtong Zhang, Xumin Chen, Jie Wang（浙江大学、大连理工大�
 基于第一性原理预测二维磁性 RuX₂（X = Cl, Br, I）双层/多层是一类新型多铁滑动铁电体——同向堆叠打破反演对称产生纯电子起源的垂直极化，层间微小滑移即可翻转，且极化可随层数增加与压缩应变显著增强，其中 RuI₂ 综合性能最优。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/sliding-ferroelectricity]]、[[../concepts/multiferroicity]]、[[../concepts/2D-materials]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/polarization-switching]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/moire-superlattice]]、[[../concepts/magnetic-anisotropy-energy|磁各向异性]]、[[../concepts/stack-engineering|堆叠工程]]、[[../concepts/ferrovalley|铁谷]]、[[../concepts/van-der-waals-heterostructure|范德华异质结]]
+  - 概念 [[../concepts/sliding-ferroelectricity]]、[[../concepts/multiferroicity]]、[[../concepts/2d-materials]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/polarization-switching]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/moire-superlattice]]、[[../concepts/magnetic-anisotropy-energy|磁各向异性]]、[[../concepts/stack-engineering|堆叠工程]]、[[../concepts/ferrovalley|铁谷]]、[[../concepts/van-der-waals-heterostructure|范德华异质结]]
   - 实体 [[../entities/VASP]]、[[../entities/h-BN]]、[[../entities/WTe2]]、[[../entities/In2Se3]]、[[../entities/TMDs]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]、[[../figures/electronic-bands]]
-  - 年度 [[../write/2025]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]、[[../figures/electronic-bands]]
+  - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
+  - 概念 [[../concepts/magnetic-anisotropy]]
+  - 实体 [[../entities/RuBr2]]、[[../entities/RuI2]]、[[../entities/RuCl2]]
   - 相关论文 [[../../raw/note/hanTunableSlidingFerroelectricity2025]]
 
 ## 🆕 新概念/实体建议

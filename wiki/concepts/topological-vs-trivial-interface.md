@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# topological-vs-trivial-interface
 
-# 拓扑界面
-
-拓扑界面 vs 平庸界面：以 Z2 不变量是否跨越界面变化区分，决定是否必然存在拓扑保护边缘态
-
-## Related Papers
-
-- [[../papers/pedramraziManipulatingTopologicalDomain2019]]
+- [[../papers/huangPolarPhaseDomain2019]] — Polar and phase domain walls with conducting interfacial states in a Weyl semimetal MoTe2
+- [[../papers/pedramraziManipulatingTopologicalDomain2019]] — Manipulating Topological Domain Boundaries in the Single-Layer Quantum Spin Hall Insulator 1T′–WSe₂

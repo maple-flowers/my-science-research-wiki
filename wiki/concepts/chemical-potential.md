@@ -1,31 +1,15 @@
----
-tags: [concept, thermodynamics, electrochemistry]
-category: [Z01]
----
+# chemical-potential
 
-# 化学势 / Chemical Potential
-
-**化学势**（μ）是热力学中描述物质在相平衡和化学平衡中逃逸倾向的强度性质，定义为 Gibbs 自由能对粒子数的偏导（μ = ∂G/∂N）。在固体物理和材料计算中，化学势是判断相稳定性、缺陷形成能和氧化还原反应方向的核心热力学量。
-
-## 核心内容
-
-### 相稳定性判据
-- 各组分化学势的取值范围决定材料的热力学稳定窗口。
-- 化学势过高/过低导致分解为竞争相。
-
-### 缺陷形成能
-- 缺陷形成能 ΔH = E_defect - E_bulk - Σn_i μ_i，其中 μ_i 为原子化学势。
-- 化学势的选择影响缺陷电荷态和浓度的预测。
-
-### 氧化还原
-- 电化学势差（费米能级差）驱动氧化还原反应 [[../papers/zhouFirstprinciplesPredictionRedox2004]]。
-
-## Related Papers
-
-- [[../papers/Wei2021]]：化学势与材料稳定性
-- [[../papers/zhouFirstprinciplesPredictionRedox2004]]：氧化还原反应的化学势分析
-
-## 关联概念与实体
-
-- [[../concepts/high-spin-state|高自旋态]]
-- [[../concepts/electron-localization|电子局域化]]
+- [[../papers/Barnett2006coexistence]] — Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides
+- [[../papers/Koley2020charge]] — Charge density wave and superconductivity in transition metal dichalcogenides
+- [[../papers/Makogon2012wave]] — Spin-charge-density wave in a rounded-square Fermi surface for ultracold atoms
+- [[../papers/Wei2021]] — Atomic simulations of bamboo-like N-doped CNTs with spaced nitrogen and carbon atoms by DFTB algorithm
+- [[../papers/khazaeiNovelElectronicMagnetic2013]] — Novel Electronic and Magnetic Properties of Two-Dimensional Transition Metal Carbides and Nitrides
+- [[../papers/liMonolayerPuckeredPentagonal2022]] — Monolayer puckered pentagonal VTe2: An emergent two-dimensional ferromagnetic semiconductor with multiferroic coupling
+- [[../papers/lvUnconventionalHystereticTransition2022]] — Unconventional Hysteretic Transition in a Charge Density Wave
+- [[../papers/naguib25thAnniversaryArticle2013a]] — 25th Anniversary Article: MXenes: A New Family of Two‐Dimensional Materials
+- [[../papers/noseUnifiedFormulationConstant1984]] — A unified formulation of the constant temperature molecular dynamics methods
+- [[../papers/shenEmergenceMultipleFerroelectric2025]] — Emergence of multiple ferroelectric states in multilayer black phosphorus
+- [[../papers/wuElectrostaticGatingIntercalation2022]] — Electrostatic gating and intercalation in 2D materials
+- [[../papers/yanagizawaSwitchingChargedensityWave2023]] — Switching of charge-density wave by carrier tuning in monolayer TiTe₂
+- [[../papers/zhouFirstprinciplesPredictionRedox2004]] — First-principles prediction of redox potentials in transition-metal compounds with LDA+U

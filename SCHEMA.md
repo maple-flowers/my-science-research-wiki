@@ -12,27 +12,29 @@
 ├── index.md               内容导向总索引
 ├── log.md                 时间导向日志（含 2026-08 批量维护经验）
 ├── update.md              更新工作流（机械同步 + 智能合成）
-├── 文献矩阵.base          文献矩阵数据库文件
 ├── raw/
 │   ├── note/              第一层输入：原始 AI 阅读笔记 (<citekey>.md)
 │   ├── figures/           第一层图表元数据输入：按 KEY 存放的 manifest.json 及本地图片资产 (.png)
 │   └── 文献日报/YYYY-MM-DD.md  文献鸟自动推送流（Raw Ingest）
 ├── wiki/
 │   ├── projects/          核心科研项目联动目录（Project 1~7 索引与参考文献池映射）
-│   ├── topics/            按材料大会分类的聚合页
-│   ├── entities/          材料/器件/方法实体页
-│   ├── concepts/          物理概念页
+│   ├── topics/            按主题分类的聚合页（2 个主题页 + example.md 占位）
+│   ├── entities/          材料/器件/方法实体页（23 正式页）
+│   ├── concepts/          物理概念页（102 正式页）
 │   ├── figures/           细化图表分类库与总索引 (_index.md + 枢纽页/子页面)
 │   ├── papers/            论文增强卡片（wiki 正式条目，唯一可直链 raw/note 的页面）
-│   ├── write/             学术写作用词库（_index.md + 五年段 <YYYY>-<YYYY>.md）
+│   ├── write/             学术写作用词库（_index.md + _patterns.md + 五年段 <YYYY>-<YYYY>.md）
+│   ├── ideas/             Research Ideas 库（gap / idea / validation 三型卡片，见 wiki/ideas/format-spec.md）
 │   └── format-spec.md     条目编写格式规范（六类怎么写）
 ├── answer/                Answer 模式输出目录（只读作答，见下）
-└── tools/                 脚本与工具（ingest_papers/、ingest_batches/ 等）
+├── output/                近期维护产出报告目录
+├── temp/                  近期维护中间产物目录
+└── tools/                 维护报告与脚本（当前 3 个 md，无脚本，待重建）
 ```
 
 ## 摄入源（Ingest Sources）
 
-1. **文献鸟（Stork）自动推送**：由 `stork_daily.py` 每天抓取。
+1. **文献鸟（Stork）自动推送**：由 `stork_daily.py` 每天抓取（该脚本当前不存在、待重建）。
    - **自动动作**：生成 `raw/文献日报/` 日志；调用 `cli-anything-zotero` 自动入库并按关键词分类。
 2. **人工/AI阅读笔记**：存放在 `raw/note/` 目录中。
 
@@ -49,10 +51,10 @@
 
 ## 核心链接规范
 
-- **引文链接层级**：`wiki/papers/<citekey>` 是论文在 wiki 中的正式条目，是**唯一**允许直链 `raw/note/` 的页面（`[[../../raw/note/<citekey>]]`）。`wiki/concepts/`、`wiki/entities/`、`wiki/figures/`、`wiki/write/`、`wiki/projects/`、`wiki/topics/` 等其他条目引用某篇论文时，一律链 `[[../papers/<citekey>]]`（或对应相对路径），**不得**直接链 `raw/note/`。
+- **引文链接层级**：`wiki/papers/<citekey>` 是论文在 wiki 中的正式条目，是**唯一**允许直链 `raw/note/` 的页面（`[[../../raw/note/<citekey>]]`）。`wiki/concepts/`、`wiki/entities/`、`wiki/figures/`、`wiki/write/`、`wiki/projects/`、`wiki/topics/`、`wiki/ideas/` 等其他条目引用某篇论文时，一律链 `[[../papers/<citekey>]]`（或对应相对路径），**不得**直接链 `raw/note/`。
 - **链接完整性**：始终保持 `wiki/papers/` ↔ `raw/note/` 之间、`wiki/` 各页面 ↔ `wiki/papers/` 之间的双向 `[[ ]]` 链接通畅。
-- 细化图表分类文件存放于 `wiki/figures/` 目录下，包含 1 个 `_index.md` 总索引及按物理主题拆分的枢纽页/子页面（当前 47 页 / 约 1088 个条目）。
-- 学术写作用词库存放于 `wiki/write/` 目录下：`_index.md` 总索引 + 五年段 `<YYYY>-<YYYY>.md` 文件（如 `2020-2024.md`），无年份论文归入 `Unknown.md`。
+- 细化图表分类文件存放于 `wiki/figures/` 目录下，包含 1 个 `_index.md` 总索引及按物理主题拆分的枢纽页/子页面（当前 25 页 / 1080 个条目）。
+- 学术写作用词库存放于 `wiki/write/` 目录下：`_index.md` 总索引 + `_patterns.md` 跨段高频模式页 + 7 个五年段 `<YYYY>-<YYYY>.md` 文件（`1945-1999` 至 `2025-2029`），更早年份论文归入 `1945-1999` 段。
 
 ---
 
@@ -70,16 +72,16 @@
 
 ## 条目编写规范
 
-各层条目的编写格式规范（图表库 / 概念与实体 / 论文条目 / 写作库 / 主题 / 项目 六类）已独立归档，见 [[wiki/format-spec]]。
+各层条目的编写格式规范（图表库 / 概念与实体 / 论文条目 / 写作库 / 主题 / 项目 六类）已独立归档，见 [[wiki/format-spec]]；研究想法层（gap / idea / validation 三型卡片）的编写规范见 [[wiki/ideas/format-spec]]。
 
 ## 铁律
 
 - **图表库资产管理**：允许在 `raw/figures/<KEY>/` 下存放从 Zotero 复制的图片文件（从 `C:\Users\sgg\Zotero\storage` 同步），以便在 Obsidian 中直接预览。`manifest.json` 需记录 `figures`、`tables` 和 `formulas` 三类结构化信息。
 - **不要直接手动编辑 `raw/` 目录**：该目录由脚本和 Zotero 同步维护。
 - **链接优先**：`wiki/papers/<citekey>` 是论文在 wiki 中的正式条目，须回链原 note `[[../../raw/note/<citekey>]]`。
-- **引文指向 wiki/papers/**：`wiki/concepts/`、`wiki/entities/`、`wiki/figures/`、`wiki/write/`、`wiki/projects/`、`wiki/topics/` 等条目引用某篇论文时，一律链 `[[../papers/<citekey>]]`（或对应相对路径），**不得**直接链 `raw/note/`。只有 `wiki/papers/<citekey>` 可以直连 `raw/note`。
+- **引文指向 wiki/papers/**：`wiki/concepts/`、`wiki/entities/`、`wiki/figures/`、`wiki/write/`、`wiki/projects/`、`wiki/topics/`、`wiki/ideas/` 等条目引用某篇论文时，一律链 `[[../papers/<citekey>]]`（或对应相对路径），**不得**直接链 `raw/note/`。只有 `wiki/papers/<citekey>` 可以直连 `raw/note`。
 - **链接完整性**：始终保持全库 `[[ ]]` 双向链接通畅。
-- `tools/ingest_papers/` 下的逐篇记录是中间产物，最终归档到 `wiki/papers/`，不要在 `tools/` 下长期保留。
+- `tools/` 目录当前仅存 3 份维护报告（无脚本）；`stork_daily.py`、`update_raw_assets.py`、`tools/ingest_papers/` 等脚本与逐篇归档流程待重建。
 - **Wiki 是动态的**：随着新论文的加入，概念和实体的描述应趋于丰富和准确。
 - 所有日期用 `YYYY-MM-DD`。
 - 中文为叙述语言，英文 slug/专有名词保留原文。

@@ -16,7 +16,6 @@
 | 2005–2009 | 17 | Renaissance of Multiferroics & Mature DFT Practice | [[2005-2009\|查看 2005–2009 写作总结]] |
 | 2000–2004 | 12 | CDW Theory, DFT Methods & Microstructure Modeling | [[2000-2004\|查看 2000–2004 写作总结]] |
 | 1945–1999 | 16 | Foundations: Ferroelectrics, Phase Transitions & Early DFT | [[1945-1999\|查看 1945–1999 写作总结]] |
-| Unknown | — | 未标注年份的论文（如有） | — |
 
 ## 跨段高频模式
 

@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# coulombic-potential
 
-# 库仑势
-
-库仑势 / Zeff·r⁻¹）：金属离子对配体/抗衡离子束缚强度的半定量指标，可解释配位共价性、晶体生长可逆性、客体屏蔽效率等差异。
-
-## Related Papers
-
-- [[../papers/wangScreeningEnabledChemiresistiveMoisture2025]]
+- [[../papers/wangScreeningEnabledChemiresistiveMoisture2025]] — Screening-Enabled Chemiresistive Moisture Sensing with Tetrathiafulvalene-Based Electrically Conductive Metal–Organic Frameworks
+- [[../papers/zhaoOpticalFingerprintsTwodimensional2024]] — Optical fingerprints of two-dimensional interlayer-sliding multiferroic materials

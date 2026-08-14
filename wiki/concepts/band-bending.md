@@ -1,23 +1,3 @@
----
-tags: [concept]
----
+# band-bending
 
-# 能带弯曲（Band Bending）
-
-能带弯曲（Band Bending）是指在材料内部或界面处，受局部电极化、电场或空间电荷分布影响，电子能带边缘（价带顶 VBM 或导带底 CBM）在实空间发生的能量连续偏移。在二维范德华材料及其多铁性异质结的研究中，能带弯曲已成为定量探测局域电极化强度及验证磁电耦合效应的关键微观证据。
-
-### 物理机制与相序锁定
-
-在单层碘化镍（NiI₂）等第二类多铁材料中，能带弯曲的物理起源与“相序锁定”（Phase-Locked Properties）密切相关。NiI₂ 的铁电极化并非源于传统的晶格结构自发对称性破缺（如离子的非中心对称位移），而是由非共线磁序——即自旋螺旋（Spin Spiral）——与 I 原子的强自旋-轨道耦合（SOC）共同驱动。这种机制下，电极化 $P$ 与磁化强度 $M$ 的空间变化率锁定，满足手性磁电耦合关系 $P \propto M \times (\nabla \times M)$。由于电极化调制是磁螺旋波矢的二阶项，其产生的静电势调制（Electrostatic Potential Modulation）周期恰为磁螺旋周期的一半 [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]。
-
-### STM 谱学表征
-
-通过扫描隧道显微镜（STM）的微分电导（dI/dV）谱学，可以直观观测到这种由多铁性诱导的实空间能带偏移。当针尖沿自旋螺旋传播方向进行线扫描（Line Spectroscopy）时，导带底或价带顶的起始能量会表现出与电极化同步的空间余弦调制。在单层 NiI₂ 的实验观测中，导带底（CBM）表现出约 16.8 meV 的能量摆幅 $E_P$，其空间周期 $L_S \approx 1.78$ nm 与自旋螺旋的半周期完全对应，证明了电子能带结构对底层磁电序的强耦合响应。
-
-### 极化强度定量估算
-
-能带弯曲的幅度 $E_P$ 提供了从电子结构反推局域电偶极矩的定量手段。通过将 NiI₂ 的 $E_P$ 与经典声子驱动铁电体（如 [[../entities/SnTe]]，其能带弯曲通常在数百 meV 量级，极化强度 $P \approx 10^{-10}$ C m⁻¹）进行标度类比，可以估算出单层 NiI₂ 的局域极化强度约为 $P \approx 10^{-12}$ C m⁻¹ [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]。这种基于 STS 能带弯曲的估算方法，为在原子尺度表征极弱二维铁电性提供了标准范例。
-
-### 应用意义
-
-实空间能带弯曲的探测不仅为验证单层范德华材料的多铁性提供了“指纹化”证据，还揭示了磁电畴壁（Domain Wall）的微观动力学。利用 STM 针尖的局域电场可以诱导能带弯曲图案的空间平移，这直接演示了对多铁畴的电场操纵，是实现原子级低功耗磁电功能器件的物理基础。
+- [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]] — Atomic-Scale Visualization of Multiferroicity in Monolayer NiI2

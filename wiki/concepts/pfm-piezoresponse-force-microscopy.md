@@ -1,12 +1,3 @@
----
-tags: [concept, stub]
----
+# pfm-piezoresponse-force-microscopy
 
-# 压电力显微镜实体/方法——本文核心局域表征工具，用于识别LP/HP/AFE相及翻转路径。
-
-压电力显微镜实体/方法——本文核心局域表征工具，用于识别LP/HP/AFE相及翻转路径。
-
-## Related Papers
-
-- [[../papers/neumayerCompetingPolarPhases2025]]
-- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]
+- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]] — Ferroelectricity and Nonvolatile Memristor Applications of Free‐Standing 2D Niobium Carbide: A New Frontier of Free‐Standing MXene in Electronic Devices

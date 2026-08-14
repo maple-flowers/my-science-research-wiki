@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# pair-analysis
 
-# Pair Analysis
-
-Honeycutt–Andersen 对分析技术，用 1421/1422/1441/1551/1661 键对指纹识别 HCP/FCC/BCC/二十面体
-
-## Related Papers
-
-- [[../papers/Zhang2019c]]
+- [[../papers/Zhang2019a]] — Studying Stability of Atom Packing for Ti Nanoparticles on Heating by Molecular Dynamics Simulations
+- [[../papers/Zhang2019c]] — Atomic simulations of packing patterns and thermal behavior in Ti clusters

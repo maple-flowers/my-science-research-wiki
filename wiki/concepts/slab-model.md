@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# slab-model
 
-# 平板模型，表面计算中使用的有限厚度周期性超胞，底部固定、上部弛豫，配真空层消除层间耦合
-
-平板模型，表面计算中使用的有限厚度周期性超胞，底部固定、上部弛豫，配真空层消除层间耦合
-
-## Related Papers
-
-- [[../papers/Wu2018]]
+- [[../papers/Wu2018]] — Study of atomic arrangements and charge distribution on Si(0 0 1) surfaces with the adsorption of one Ge atom by DFTB calculations

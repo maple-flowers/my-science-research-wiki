@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# push-pull-chromophore
 
-# 推-拉发色团）
-
-推-拉发色团）：由电子给体、共轭桥和电子受体组成的分子，具有强分子内电荷转移。
-
-## Related Papers
-
-- [[../papers/Zhang2008synthesis]]
+- [[../papers/Huang2019solvatochromic]] — Stilbene-Based Two-Photon Thermo-Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature
+- [[../papers/Zhang2008synthesis]] — Synthesis and nonlinear optical properties of two three-branched two-photon polymerization initiators

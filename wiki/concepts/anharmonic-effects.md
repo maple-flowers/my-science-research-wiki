@@ -1,23 +1,4 @@
----
-tags: [concept]
----
+# anharmonic-effects
 
-# 非谐效应 (Anharmonic Effects)
-
-在铁电物理与低维功能材料模拟中，非谐效应是指势能面偏离简谐近似（Harmonic Approximation）的现象。虽然基于力常数的简谐分析（如通过 PHONOPY 计算不稳定声子模）能够初步预测体系的畴结构特征，但在精确描述超晶格（Superlattices）等复杂氧化物体系的基态畴宽时，非谐性起着决定性的修正作用。
-
-## 畴宽预测的非谐修正
-
-在 (PbTiO₃)ₙ/(SrTiO₃)ₙ 超晶格的畴结构研究中，研究者发现利用力常数带分析预测的最优畴宽（Domain Width）往往比能量最小化方法得到的结果偏小 [[../papers/gomez-ortizKittelLawDomain2023]]。这种系统性偏差的物理根源在于简谐模型无法捕捉到晶格弛豫过程中的非线性分量。具体而言，在极性涡旋（Polar Vortices）畴壁的形成过程中，非谐效应允许极化矢量发生微小的空间倾斜，并伴随着涡旋中心的偏移（Vortex Core Shift）。
-
-## 微观机制与能量平衡
-
-这种微观层面的非谐弛豫对宏观性质具有显著影响：
-1. **退极化场削弱**：通过极化倾斜与中心偏移，体系能够有效地降低垂直于界面的极化分量，从而削弱由表面束缚电荷产生的退极化场（Depolarization Field）。
-2. **Kittel 定律的偏差补偿**：根据 Kittel 定律的能量平衡原则，退极化能的降低意味着畴壁能的相对占比可以更高，从而允许畴宽扩展至比简谐预测更宽的稳定状态。
-
-这种“非谐展宽”效应揭示了在纳米尺度拓扑织构中，晶格畸变与长程静电作用之间存在精细的非线性耦合。
-
-## 相位锁定与动力学意义
-
-从“相位锁定”（Phase-Locked）的视角来看，非谐效应是连接晶体结构畸变与电子偶极极化的核心机制。在具有复杂拓扑荷（如涡旋-反涡旋对）的体系中，非谐项决定了极化波（Polarization Waves）的演化路径与相变势垒。这使得体系能够从低畴密度的亚稳态，通过界面处涡旋-反涡旋对的成核、延伸与湮灭机制，最终弛豫至符合 Kittel 标度律的基态 [[../papers/gomez-ortizKittelLawDomain2023]]。非谐性的强度直接影响了畴壁在应变或电场作用下的迁移率，是实现拓扑畴结构精确定向操控的关键物理变量。
+- [[../papers/gomez-ortizKittelLawDomain2023]] — Kittel law and domain formation mechanism in PbTiO3/SrTiO3 superlattices
+- [[../papers/lezoualchStudyChargeDensity]] — Study of charge density waves in transition metal dichalcogenides

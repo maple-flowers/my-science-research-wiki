@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# charge-migration-energy
 
-# 电荷迁移能）
-
-电荷迁移能）：翻转角越大、极化矢量变化越大，电荷重新分布所需电能越高（180° > 109° > 71°）；本文核心能量项之一。
-
-## Related Papers
-
-- [[../papers/Jin2015studying]]
+- [[../papers/Jin2015studying]] — Studying the Polarization Switching in Polycrystalline BiFeO3 Films by 2D Piezoresponse Force Microscopy

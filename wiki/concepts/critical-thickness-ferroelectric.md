@@ -1,14 +1,11 @@
----
-tags: [concept, stub]
----
+# critical-thickness-ferroelectric
 
-
-# 铁电临界厚度 / Critical Thickness
-
-铁电临界厚度，维持铁电/拓扑极性结构所需的最小膜厚；本文表明极性拓扑的临界厚度可远低于普通铁电畴甚至"缺失"。
-
-## Related Papers
-
-- [[../papers/gongAbsenceCriticalThickness2023]]
-- [[../papers/FerroelectricityMultiferroicityAtomic2023]]
-- [[../papers/Goswami2011multiferroic]]
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]] — Ferroelectricity and multiferroicity down to the atomic thickness
+- [[../papers/Goswami2011multiferroic]] — Multiferroic coupling in nanoscale BiFeO3
+- [[../papers/Terasaki2011ultrasonic]] — Ultrasonic Wave Induced Mechanoluminescence
+- [[../papers/Zhang2019b]] — Packing Changes in Melting, Freezing, and Coalescence of Titanium Nanoparticles from Atomic Simulations
+- [[../papers/Zhang2019c]] — Atomic simulations of packing patterns and thermal behavior in Ti clusters
+- [[../papers/gongAbsenceCriticalThickness2023]] — Absence of critical thickness for polar skyrmions with breaking the Kittel’s law
+- [[../papers/guanRecentProgressTwoDimensional2020]] — Recent Progress in Two‐Dimensional Ferroelectric Materials
+- [[../papers/martinThinfilmFerroelectricMaterials2016]] — Thin-film ferroelectric materials and their applications
+- [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films

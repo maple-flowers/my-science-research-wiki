@@ -78,8 +78,10 @@ L. Zhang, C. C. Zhang, Y. Y. Wang, X. X. Liu, G. G. Wang，2002，Journal of Mat
 建立了一个耦合溶质/温度扩散场的二维元胞自动机模型，定量复现了低碳钢连续冷却过程中γ→α相变的形核、生长及冷却速率对铁素体晶粒细化的影响，并揭示了扩散控制的自限制机制。
 ## 🔗 Wiki 双链
   - 概念：[[../concepts/cellular-automaton|元胞自动机 (Cellular Automaton)]]、[[../concepts/nucleation-and-growth|形核与长大 (Nucleation and Growth)]]、[[../concepts/diffusion-controlled-transformation|扩散控制型相变 (Diffusion-controlled Transformation)]]、[[../concepts/undercooling|过冷度 (Undercooling)]]、[[../concepts/grain-boundary-nucleation|晶界形核 (Grain-boundary Nucleation)]]、[[../concepts/super-element-approximation|超元素近似 (Super-element Approximation)]]、[[../concepts/cementite-precipitation|渗碳体析出 (Cementite Precipitation)]]
-  - 图表：[[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项 (Mechanical Properties, Exfoliation & Misc)]]
-  - 年度 [[../write/2002]]
+  - 图表：[[../figures/heterostructures-stacking|力学性质、剥离能与杂项 (Mechanical Properties, Exfoliation & Misc)]]
+  - 年度 [[../write/2000-2004|2002]]
+  - 概念 [[../concepts/continuous-cooling-transformation]]、[[../concepts/grain-refinement]]、[[../concepts/latent-heat]]
+  - 实体 [[../entities/austenite]]、[[../entities/fe-c-phase-diagram]]、[[../entities/ferrite]]、[[../entities/cementite]]、[[../entities/low-carbon-steel]]
   - 相关论文 [[../../raw/note/Zhang2002b]]
 ## 🆕 新概念/实体建议
   - `low-carbon-steel`（低碳钢）：以 Fe–C–Si–Mn 为代表、碳含量约 0.15 wt% 的钢种，组织以铁素体为主。

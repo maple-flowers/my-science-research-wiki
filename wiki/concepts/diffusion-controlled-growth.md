@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# diffusion-controlled-growth
 
-# 扩散控制生长）
-
-扩散控制生长）：界面推进速度由溶质长程扩散决定的生长模式，对应 Stefan 条件
-
-## Related Papers
-
-- [[../papers/Zhang2003a]]
+- [[../papers/Zhang2002b]] — Cellular automaton model to simulate nucleation and growth of ferrite grains for low-carbon steels
+- [[../papers/Zhang2003a]] — A cellular automaton investigation of the transformation from austenite to ferrite during continuous cooling

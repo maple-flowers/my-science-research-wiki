@@ -79,8 +79,10 @@ Williams JC, Chandrahalim H, Suelzer JS, Usechak NG et al.，2022，Research Out
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/two-photon-polymerization|双光子聚合（2PP）]]、[[../concepts/fabry-perot-cavity|法布里-珀罗光学腔（FPC）]]、[[../concepts/magnetron-sputtering|磁控溅射]]、[[../concepts/monolithic-integration|单片集成]]、[[../concepts/moems|微光机电系统（MOEMS）]]、[[../concepts/micromechanical-hinge|微机械铰链]]
   - 图表 [[../figures/optical-spectra]]、[[../figures/experimental-setups]]
-  - 年度 [[../write/2022]]
+  - 年度 [[../write/2020-2024|2022]]
   - 项目 [[../projects/project-1-two-photon]]、[[../projects/project-6-humidity-sensor]]
+  - 概念 [[../concepts/refractive-index-sensing]]、[[../concepts/optical-sensing]]、[[../concepts/quality-factor]]
+  - 实体 [[../entities/gold]]、[[../entities/optical-fiber]]、[[../entities/photoresist]]
   - 相关论文 [[../../raw/note/Unknown2022polymerization]]
 ## 🆕 新概念/实体建议
   - `two-photon-polymerization`（双光子聚合）：基于飞秒激光双光子吸收非线性效应的纳米级真三维直写技术，体素约 100 nm。

@@ -84,11 +84,13 @@ Nafiseh Tobeiha, Nafiseh Memarian, Fatemeh Ostovari，2025年，*Scientific Repo
 ## 💡 一句话
 用声化学剥离法制备石墨烯/氧化石墨烯（G/GO）纳米片，系统比较370/450/808 nm激光对其湿度传感性能的调控，发现450 nm蓝光因光子能量足以克服GO带隙与激子结合能，使传感器在灵敏度、线性度、响应/恢复速度（1.0 s/1.3 s）上全面最优。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/exciton-binding-energy|激子结合能]]、[[../concepts/humidity-sensing-mechanism|湿度传感机制]]、[[../concepts/two-photon-absorption|双光子吸收]]
+  - 概念 [[../concepts/2d-materials]]、[[../concepts/exciton-binding-energy|激子结合能]]、[[../concepts/humidity-sensing-mechanism|湿度传感机制]]、[[../concepts/two-photon-absorption|双光子吸收]]
   - 实体 [[../entities/graphene|石墨烯]]
-  - 年度 [[../write/2025]]
+  - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-6-humidity-sensor]]
   - 图表 [[../figures/vibrational-spectra]]、[[../figures/optical-spectra]]、[[../figures/electronic-devices]]
+  - 概念 [[../concepts/p-type-semiconductor]]、[[../concepts/photoconductivity]]、[[../concepts/kubelka-munk-theory]]、[[../concepts/optical-bandgap]]
+  - 实体 [[../entities/graphene-oxide]]、[[../entities/g-go-nanosheets]]
   - 相关论文 [[../../raw/note/Tobeiha2025optical]]
 ## 🆕 新概念/实体建议
   - `exciton-binding-energy`（激子结合能）：光生电子-空穴对的库仑束缚能，是本文解释450 nm与808 nm波长差异化光-湿耦合效应的核心物理量，石墨烯中约3 eV。

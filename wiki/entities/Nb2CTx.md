@@ -1,11 +1,3 @@
----
-tags: [entity, stub]
----
+# Nb2CTx
 
-# Nb₂CTₓ / Nb2CTx
-
-二维碳化铌 MXene，M=Nb、X=C、Tₓ=−O/−F/−OH；本工作首次报道其铁电性与忆阻应用。
-
-## Related Papers
-
-- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]
+- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]] — Ferroelectricity and Nonvolatile Memristor Applications of Free‐Standing 2D Niobium Carbide: A New Frontier of Free‐Standing MXene in Electronic Devices

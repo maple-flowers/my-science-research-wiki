@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# k-point-sampling
 
-# k 点采样 / k-Point Sampling
-
-k点采样的总称，包含MP网格、Gamma中心网格、对称性约化、收敛性测试等内容。
-
-## Related Papers
-
-- [[../papers/monkhorstSpecialPointsBrillouinzone1976]]
+- [[../papers/gaoStrainEngineeringFerroelectric2024]] — Strain engineering of ferroelectric polarization and domain in the two-dimensional multiferroic semiconductor
+- [[../papers/monkhorstSpecialPointsBrillouinzone1976]] — Special points for Brillouin-zone integrations

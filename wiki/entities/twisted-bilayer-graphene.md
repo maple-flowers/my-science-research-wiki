@@ -1,11 +1,3 @@
----
-tags: [entity, stub]
----
+# twisted-bilayer-graphene
 
-# 扭曲双层石墨烯
-
-扭曲双层石墨烯（tBLG），核心材料实体
-
-## Related Papers
-
-- [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]]
+- [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]] — Ultrasensitive optoelectronic biosensor arrays based on twisted bilayer graphene superlattice

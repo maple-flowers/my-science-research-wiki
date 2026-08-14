@@ -1,11 +1,3 @@
----
-tags: [entity, stub]
----
+# Cu3CS6
 
-# 即
-
-即 Cu-BHT，硫代类似物，2D-MOF 中首个被预测（Tc=4.43 K）并在块体（≈0.25 K）观测到超导的体系
-
-## Related Papers
-
-- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]]
+- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]] — Anisotropic superconductivity in the two-dimensional metal-organic kagome framework Cu 3 ( CO ) 6

@@ -11,8 +11,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/XiaokangZhang2013calibrating]]
 projects: [project-6]
-concepts: [evanescent-field, refractive-index, relative-humidity, optical-power-variation, cross-sensitivity, lookup-table-calibration, hydrogel-swelling, temperature-compensation]
-entities: [agarose, dcsmf, corning-smf-28e, dfb-ld, pmma, pvdf, climatic-chamber, optical-power-meter]
+concepts: [evanescent-field, refractive-index, relative-humidity, optical-power-variation, cross-sensitivity, lookup-table-calibration, hydrogel-swelling, temperature-compensation, evanescent-field-sensing]
+entities: [agarose, dcsmf, corning-smf-28e, dfb-ld, pmma, pvdf, climatic-chamber, optical-power-meter, pmma-pvdf-blend]
 methods: [fiber-optic-sensing, evanescent-field-sensing, chemical-etching, fusion-splicing, wet-dry-aging, climatic-chamber-characterization, lookup-table-calibration, interpolation, in-situ-monitoring]
 materials: [agarose, fresh-concrete, pmma, pvdf]
 figures: [electronic-devices-sensors, mathematical-models-formulas]
@@ -88,8 +88,10 @@ Xiaokang Zhang、Zhuoyong Deng、Hanlang Xu，2013，Chinese Optics Letters，10
   - 概念：[[../concepts/relative-humidity|相对湿度]]、[[../concepts/evanescent-field|倏逝场]]、[[../concepts/evanescent-field-sensing|倏逝场传感]]、[[../concepts/cross-sensitivity|交叉敏感]]、[[../concepts/temperature-compensation|温度补偿]]、[[../concepts/hydrogel-swelling|水凝胶溶胀]]、[[../concepts/lookup-table-calibration|查找表校准]]
   - 实体：[[../entities/agarose|琼脂糖]]、[[../entities/dcsmf|DCSMF 双层包层单模光纤]]、[[../entities/pmma-pvdf-blend|PMMA/PVDF 共混聚合物]]
   - 图表 [[../figures/experimental-setups]]（图1 传感器实物/封装）、[[../figures/mathematical-models]]（图3 701×91 校准矩阵）
-  - 年度 [[../write/2013]]
+  - 年度 [[../write/2010-2014|2013]]
   - 项目 [[../projects/project-6-humidity-sensor]]
+  - 概念 [[../concepts/optical-power-variation]]、[[../concepts/refractive-index]]
+  - 实体 [[../entities/optical-power-meter]]、[[../entities/climatic-chamber]]、[[../entities/PMMA]]、[[../entities/pvdf]]、[[../entities/dfb-ld]]、[[../entities/corning-smf-28e]]
   - 相关论文 [[../../raw/note/XiaokangZhang2013calibrating]]
 
 ## 🆕 新概念/实体建议

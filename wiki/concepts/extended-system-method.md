@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# extended-system-method
 
-# 扩展系统方法
-
-扩展系统方法：通过附加自由度（s、V）将目标系综嵌入更大的微正则系统。
-
-## Related Papers
-
-- [[../papers/noseUnifiedFormulationConstant1984]]
+- [[../papers/noseUnifiedFormulationConstant1984]] — A unified formulation of the constant temperature molecular dynamics methods

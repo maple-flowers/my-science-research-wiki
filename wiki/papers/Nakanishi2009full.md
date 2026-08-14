@@ -74,8 +74,10 @@ Nakanishi, Kobayashi, Sugiyama, Kitano，2009，*Journal of the Physical Society
   - 概念：[[../concepts/two-photon-absorption|双光子吸收（TPA）]]、[[../concepts/two-photon-wavefunction|双光子波函数]]、[[../concepts/time-correlation|时间关联]]、[[../concepts/entanglement-induced-two-photon-transparency|纠缠诱导双光子透明]]、[[../concepts/biphoton|双光子态（biphoton）]]、[[../concepts/spontaneous-parametric-down-conversion|自发参量下转换（SPDC）]]、[[../concepts/electromagnetic-induced-transparency|电磁诱导透明（EIT）]]
   - 实体：无直接匹配。
   - 图表 [[../figures/mathematical-models]]（P1/P2 概率公式、时序波函数、sinc² 与等离子体色散函数对比图均属数学模型类）
-  - 年度 [[../write/2009]]
+  - 年度 [[../write/2005-2009|2009]]
   - 项目 [[../projects/project-1-two-photon]]
+  - 概念 [[../concepts/quantum-optics]]
+  - 实体 [[../entities/three-level-atom]]
   - 相关论文 [[../../raw/note/Nakanishi2009full]]
 
 ## 🆕 新概念/实体建议

@@ -17,8 +17,8 @@ local_path: E:\swan_goose\燕燕\香香\项目一：双光固化和双光发光\
 本项目聚焦于双光子吸收（Two-Photon Absorption, TPA）引发的双光固化材料制备与双光发光光学特性的计算/实验分析。双光子加工技术以其超衍射极限的空间分辨率（可达 30 nm）和真三维加工能力，在微纳光学器件、组织工程支架及精密传感器制造中具有不可替代的优势。
 
 ## 2. 与科研 Wiki 知识库的联系
-- **相关材料/实体**：[[../../entities/2D-materials|二维光电材料]]
-- **相关物理概念**：[[../../concepts/two-photon-absorption|双光子吸收]]、[[../../concepts/solvatochromism|溶剂化变色]]、[[../../concepts/intramolecular-charge-transfer|分子内电荷转移 (ICT)]]、[[../../concepts/nonlinear-absorption|非线性吸收]]
+- **相关材料/实体**：[[../concepts/2d-materials|二维光电材料]]
+- **相关物理概念**：[[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/solvatochromism|溶剂化变色]]、[[../concepts/ict-mechanism|分子内电荷转移 (ICT)]]、[[../concepts/nonlinear-absorption|非线性吸收]]
 - **模拟/计算方法**：TDDFT 激发态计算、分子动力学
 
 ## 3. 当前进展与文献综述 (Literature Review)

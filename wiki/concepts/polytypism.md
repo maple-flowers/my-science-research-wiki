@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# polytypism
 
-# 多型性 / Polytypism
-
-多型性，TMD 中 T（八面体配位）与 H（三棱柱配位）等多型体由层内配位/堆垛决定，相同元素不同结构性质迥异。
-
-## Related Papers
-
-- [[../papers/kimObservationPhaseTransition1997]]
+- [[../papers/Petkov2020hierarchy]] — Hierarchy among the crystal lattice, charge density wave, and superconducting orders in transition metal dichalcogenides
+- [[../papers/kimObservationPhaseTransition1997]] — Observation of a phase transition from the T phase to the H phase induced by a STM tip in 1T-TaS₂

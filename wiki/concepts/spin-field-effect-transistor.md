@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# spin-field-effect-transistor
 
-# 自旋场效应晶体管,
-
-自旋场效应晶体管, Spin-FET）：以铁电极化双稳态非易失地开关半金属沟道，实现 0/1 存储。
-
-## Related Papers
-
-- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]]
+- [[../papers/chenStrongSlidingFerroelectricity2024]] — Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI₂ Layers
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]] — Nonvolatile switchable half-metallicity and magnetism in the MXene Hf₂MnC₂O₂/Sc₂CO₂ multiferroic heterostructure

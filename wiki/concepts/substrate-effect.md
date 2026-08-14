@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# substrate-effect
 
-# 衬底效应 / Substrate Effect
-
-衬底通过电荷转移、界面相互作用改变二维材料的结构相稳定性（本文中石墨烯/HOPG 抑制 1T' 相）。
-
-## Related Papers
-
-- [[../papers/wongEvidenceMetallic1T]]
+- [[../papers/wongEvidenceMetallic1T]] — Metallic 1T Phase, 3d1 Electronic Configuration and Charge Density Wave Order in Molecular Beam Epitaxy Grown Monolayer Vanadium Ditelluride

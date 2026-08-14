@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/cuiIntercorrelatedInplaneOutofplane2018a]]
 projects: [project-2, project-5]
-concepts: [ferroelectricity, 2d-materials, polarization-switching, in-plane-out-of-plane-coupling, odd-even-effect, antiparallel-polarization-stacking, ferroelectric-domain, domain-wall, depolarizing-field, schottky-barrier, switchable-diode, memristor, multiferroicity]
+concepts: [ferroelectricity, 2d-materials, polarization-switching, in-plane-out-of-plane-coupling, odd-even-effect, antiparallel-polarization-stacking, ferroelectric-domain, domain-wall, depolarizing-field, schottky-barrier, switchable-diode, memristor, multiferroicity, topological-defects]
 entities: [In2Se3, VASP, SnTe, PZT, BaTiO3, CuInP2S6, mica, Au]
 methods: [cvd, afm, pfm, cafm, stem, haadf, saed, scanning-electron-diffraction, raman, dft, pbe, hse06, optb88-vdw, e-beam-lithography, i-v-transport]
 materials: [alpha-In2Se3, beta-In2Se3, mica, Au, SnTe, CuInP2S6]
@@ -100,10 +100,12 @@ Cui, Hu, Yan, Addiego, Gao, Wang, Wang, Li, Cheng, Li, Zhang, Alshareef, Wu, Zhu
 ## 💡 一句话
 首次在实验上证实室温下二维范德华半导体 α-In2Se3 同时具有面内（IP）与面外（OOP）相互锁定的本征铁电极化，并展示层数奇偶效应和电场/可见光双控的多态非易失存储原型。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/multiferroicity]]、[[../concepts/polarization-switching]]、[[../concepts/in-plane-out-of-plane-coupling|面内-面外极化耦合]]、[[../concepts/odd-even-effect|奇偶层数效应]]、[[../concepts/antiparallel-polarization-stacking|反平行极化堆垛]]、[[../concepts/ferroelectric-domain|铁电畴]]、[[../concepts/depolarizing-field|退极化场]]、[[../concepts/schottky-barrier|肖特基势垒]]、[[../concepts/switchable-diode|可切换二极管]]、[[../concepts/memristor|忆阻器]]、[[../concepts/topological-defects]]（畴壁部分相关）
+  - 概念 [[../concepts/2d-materials]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/multiferroicity]]、[[../concepts/polarization-switching]]、[[../concepts/in-plane-out-of-plane-coupling|面内-面外极化耦合]]、[[../concepts/odd-even-effect|奇偶层数效应]]、[[../concepts/antiparallel-polarization-stacking|反平行极化堆垛]]、[[../concepts/ferroelectric-domain|铁电畴]]、[[../concepts/depolarizing-field|退极化场]]、[[../concepts/schottky-barrier|肖特基势垒]]、[[../concepts/switchable-diode|可切换二极管]]、[[../concepts/memristor|忆阻器]]、[[../concepts/topological-defects]]（畴壁部分相关）
   - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/SnTe]]、[[../entities/BaTiO3|BaTiO₃]]、[[../entities/CuInP2S6|CuInP₂S₆]]、[[../entities/PZT]]
   - 图表 [[../figures/electronic-devices]]、[[../figures/experimental-setups]]、[[../figures/domain-walls]]
-  - 年度 [[../write/2018]]
+  - 年度 [[../write/2015-2019|2018]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/Au]]、[[../entities/mica]]
   - 相关论文 **cuiIntercorrelatedInplaneOutofplane2018a**
 ## 🆕 新概念/实体建议
   - `in-plane-out-of-plane-coupling`（面内-面外极化互锁）：α-In2Se3 中由中心 Se 原子层横向位移同时驱动 IP/OOP 极化翻转的本征耦合机制。

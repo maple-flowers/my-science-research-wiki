@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# pair-density-wave
 
-# 配对密度波，PDW）
-
-配对密度波，PDW）：超导序参量空间周期性调制的非均匀超导态，本文预言 DC 网络可外生产生 PDW。
-
-## Related Papers
-
-- [[../papers/Chen2019superconductivity]]
+- [[../papers/Chen2019superconductivity]] — Discommensuration-driven superconductivity in the charge density wave phases of transition-metal dichalcogenides

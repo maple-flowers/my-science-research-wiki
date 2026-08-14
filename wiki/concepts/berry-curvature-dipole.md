@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# berry-curvature-dipole
 
-# 贝里曲率偶极，奇数层
-
-贝里曲率偶极，奇数层 WTe2 中非线性反常霍尔电压随极化反转而反号，可做非易失存储。
-
-## Related Papers
-
-- [[../papers/liPhaseTransitions2D2021]]
+- [[../papers/wuSlidingFerroelectricity2D2021a]] — Sliding ferroelectricity in 2D van der Waals materials: Related physics and future opportunities

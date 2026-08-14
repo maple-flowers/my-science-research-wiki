@@ -66,7 +66,7 @@ Young-Inn Kim，2003，Bulletin of the Korean Chemical Society，24(9), 1389–1
 ## 💡 一句话
 在乙腈中直接反应合成 (BEDT-TTF)₁.₅CuX₂ (X=Cl, Br)，证实 BEDT-TTF 被部分氧化、Cu 处于 Cu(II/I) 混合价态，并建立"Br⁻ 诱导效应更弱→残留 Cu(II) 更多→库仑散射更强→电导率更低"的构效关系；指出给体/受体比需 >2 才能将 Cu(II) 完全还原为 Cu(I)。
 ## 🔗 Wiki 双链
-  - 年度 [[../write/2003]]
+  - 年度 [[../write/2000-2004|2003]]
   - 项目 [[../projects/project-4-ttf-molecular-calc]]
   - 概念 [[../concepts/charge-transfer-compound|电荷转移化合物]]、[[../concepts/bedt-ttf|BEDT-TTF]]、[[../concepts/mixed-valence|混合价态]]、[[../concepts/vibronic-coupling|振动电子耦合]]、[[../concepts/electron-paramagnetic-resonance|电子顺磁共振(EPR)]]
   - 相关论文 [[../../raw/note/Unknown2003charge]]

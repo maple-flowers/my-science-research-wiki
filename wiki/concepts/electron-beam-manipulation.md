@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# electron-beam-manipulation
 
-# Electron Beam Manipulation
-
-TEM 电子束驱动畴壁运动/极化翻转的原位操控手段。
-
-## Related Papers
-
-- [[../papers/huangPolarPhaseDomain2019]]
+- [[../papers/huangPolarPhaseDomain2019]] — Polar and phase domain walls with conducting interfacial states in a Weyl semimetal MoTe2

@@ -102,11 +102,12 @@ Shuo Zhang, Yunfei Zhang, Dan Xing, Lixiu Guan, Junguang Tao et al.，2025，Mat
 通过第一性原理计算加微磁学模拟证明，在 CrInTe2/In2Se3 二维多铁异质结中翻转 In2Se3 的铁电极化，可协同增强 DMI（+6%）并抑制 MAE（−20%），从而在仅 50 mT 辅助磁场下非易失性地实现铁磁态与 Néel 型斯格明子晶格之间的可逆切换，并提出无量纲稳定性判据 κ。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/topological-defects]]、[[../concepts/skyrmion]]、[[../concepts/bimeron]]、[[../concepts/dzyaloshinskii-moriya-interaction]]、[[../concepts/heisenberg-exchange]]、[[../concepts/magnetic-anisotropy-energy]]、[[../concepts/rashba-effect]]、[[../concepts/spin-transfer-torque]]、[[../concepts/skyrmion-hall-effect]]、[[../concepts/topological-charge]]、[[../concepts/llg-equation]]、[[../concepts/micromagnetic-simulation]]、[[../concepts/racetrack-memory]]、[[../concepts/superexchange]]
+  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2d-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/topological-defects]]、[[../concepts/skyrmion]]、[[../concepts/bimeron]]、[[../concepts/dzyaloshinskii-moriya-interaction]]、[[../concepts/heisenberg-exchange]]、[[../concepts/magnetic-anisotropy-energy]]、[[../concepts/rashba-effect]]、[[../concepts/spin-transfer-torque]]、[[../concepts/skyrmion-hall-effect]]、[[../concepts/topological-charge]]、[[../concepts/llg-equation]]、[[../concepts/micromagnetic-simulation]]、[[../concepts/racetrack-memory]]、[[../concepts/superexchange]]
   - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/Fe3GeTe2]]、[[../entities/CrTe2]]、[[../entities/CrI3]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/domain-walls]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
-  - 年度 [[../write/2025]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/domain-walls]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking|自旋电子学与应变工程]]
+  - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
+  - 实体 [[../entities/CrInTe2]]、[[../entities/Spirit]]、[[../entities/CrGeTe3]]
   - 相关论文 [[../../raw/note/zhangNonvolatileControlTopological2025]]
 
 ## 🆕 新概念/实体建议

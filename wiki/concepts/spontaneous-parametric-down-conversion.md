@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# spontaneous-parametric-down-conversion
 
-# SPDC，Type-I/Type-II、信号光与闲频光、群速度补偿。
-
-SPDC，Type-I/Type-II、信号光与闲频光、群速度补偿。
-
-## Related Papers
-
-- [[../papers/Nakanishi2009full]]
+- [[../papers/Nakanishi2009full]] — Full Quantum Analysis of Two-Photon Absorption Using Two-Photon Wave Function: Comparison of Two-Photon Absorption with One-Photon Absorption

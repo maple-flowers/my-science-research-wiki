@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# rare-earth-doped-gan
 
-# 稀土掺杂
-
-稀土掺杂 GaN）：在 GaN 中掺入 Eu、Tb 等离子获得特征红/绿光的电致发光体系。
-
-## Related Papers
-
-- [[../papers/Khitrov2002internal]]
+- [[../papers/Gulhare2021mechanoluminescence]] — Mechanoluminescence Characterization of γ-irradiated Ba3(VO4)2:Eu phosphors
+- [[../papers/Khitrov2002internal]] — Internal Defects Observed by Two-Photon-Induced Photoluminescence
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]] — Towards Multiferroicity in Two-Dimensional Van Der Waals Materials: Challenges and Opportunities

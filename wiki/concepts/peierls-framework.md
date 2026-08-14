@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# peierls-framework
 
-# Peierls框架）
-
-Peierls框架）：基于位错芯结构描述位错成核所需临界切应力的理论模型，本文用于从GSFE推导临界剪切应变。
-
-## Related Papers
-
-- [[../papers/wangFormationMechanismTwin2019]]
+- [[../papers/wangFormationMechanismTwin2019]] — Formation mechanism of twin domain boundary in 2D materials: The case for WTe2

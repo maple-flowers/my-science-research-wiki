@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# landau-quantization
 
-# 朗道量子化
-
-朗道量子化：均匀磁场中带电粒子能量量子化为等间距朗道能级
-
-## Related Papers
-
-- [[../papers/ivanovskiOscillationStructureHall1994]]
+- [[../papers/ivanovskiOscillationStructureHall1994]] — The oscillation structure of the Hall current in the presence of a contact surface

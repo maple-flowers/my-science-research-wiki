@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# phase-interference
 
-# 相位干涉）
-
-相位干涉）：相邻瓦尼尔函数杂化尾部重叠时因符号相同/相反而相长/相消，决定 t₁、t₂ 相对大小。
-
-## Related Papers
-
-- [[../papers/Barnett2006coexistence]]
+- [[../papers/Barnett2006coexistence]] — Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides

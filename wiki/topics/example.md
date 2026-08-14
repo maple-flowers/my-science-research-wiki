@@ -8,7 +8,7 @@ tags:
 
 # 二维磁性材料 / 2D Magnetic Materials
 
-> 关联领域：[[./材料物理]](材料物理)
+> 关联领域：[[./材料模拟计算设计]](材料模拟计算设计)
 
 ## 📚 核心文献与里程碑 (2017–2026)
 
@@ -98,8 +98,8 @@ tags:
 
 二维磁序稳定的核心机制包括：
 - **磁各向异性**（magnetic anisotropy）：单离子各向异性打开自旋波能隙
-- **交换相互作用**（superexchange）：通过配体离子的间接交换决定 FM/AFM 序[[../concepts/superexchange]]
-- **Dzyaloshinskii-Moriya 相互作用**（DMI）：反对称交换耦合产生手性磁结构与斯格明子[[../concepts/dzyaloshinskii-moriya-interaction]]
+- **交换相互作用**（superexchange）：通过配体离子的间接交换决定 FM/AFM 序[[../concepts/miscellaneous-concepts]]
+- **Dzyaloshinskii-Moriya 相互作用**（DMI）：反对称交换耦合产生手性磁结构与斯格明子[[../concepts/miscellaneous-concepts]]
 
 ![图：双层 CrTe₂ 中 FM/AFM 层间电荷转移机制——d 带填充差异驱动电子从 z-AFM 向 FM 转移，产生面外极化 ~3.0 pC m⁻¹](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_2_WFPFNDUZ.png)
 *   **来源**：[[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]
@@ -176,7 +176,7 @@ tags:
 
 ## 💬 常见问题解答
 
-**Q: 什么是"二维多铁金属"？** 在同一二维材料中同时具备铁电性和金属性的新物态。传统认知中金属性排斥铁电性（Anderson-Blount 佯谬[[../concepts/anderson-blount-mechanism]]），但二维极限下通过层间电荷转移[[../concepts/interlayer-charge-transfer]]机制可实现"面内导电、面外绝缘"的共存[[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]。
+**Q: 什么是"二维多铁金属"？** 在同一二维材料中同时具备铁电性和金属性的新物态。传统认知中金属性排斥铁电性（Anderson-Blount 佯谬[[../concepts/miscellaneous-concepts]]），但二维极限下通过层间电荷转移[[../concepts/miscellaneous-concepts]]机制可实现"面内导电、面外绝缘"的共存[[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]。
 
 **Q: 滑动铁电性与传统铁电性有何区别？** 传统铁电性源于离子位移导致的结构不对称；滑动铁电性源于层间相对滑移产生的电荷重新分布，无需离子位移，翻转势垒极低[[../papers/chenStrongSlidingFerroelectricity2024]]。
 
@@ -190,8 +190,8 @@ tags:
 
 ## 🔗 概念与实体索引
 
-- **核心概念**：[[../concepts/magnetic-anisotropy]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/interlayer-charge-transfer]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/dzyaloshinskii-moriya-interaction]]、[[../concepts/superexchange]]、[[../concepts/anderson-blount-mechanism]]
-- **前沿材料**：[[../entities/CrTe2]]、[[../entities/Fe3GeTe2]]、[[../entities/NiI2]]、[[../entities/CrI3]]、[[../entities/MnBi2Te4]]、[[../entities/HgI2]]
+- **核心概念**：[[../concepts/magnetic-anisotropy]]、[[../concepts/miscellaneous-concepts]]、[[../concepts/miscellaneous-concepts]]、[[../concepts/miscellaneous-concepts]]、[[../concepts/miscellaneous-concepts]]、[[../concepts/miscellaneous-concepts]]、[[../concepts/miscellaneous-concepts]]
+- **前沿材料**：[[../entities/TMDs]]、[[../entities/CrI3]]、[[../entities/CrI3]]、[[../entities/CrI3]]、[[../entities/CrI3]]、[[../entities/Si]]
 
 ---
 

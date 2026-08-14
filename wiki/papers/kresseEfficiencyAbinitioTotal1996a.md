@@ -65,8 +65,8 @@ G. Kresse, J. Furthmüller et al.，1996，Computational Materials Science 6, 15
   - 概念 [[../concepts/density-functional-theory]]
   - 实体 [[../entities/VASP]]
   - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/1996]]
-  - 主题 [[材料模拟计算设计]]
+  - 年度 [[../write/1945-1999|1996]]
+  - 主题 [[../topics/材料模拟计算设计]]
   - 相关论文 [[../../raw/note/kresseEfficiencyAbinitioTotal1996a]]
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体，每个给 kebab-case 建议文件名 + 一句说明

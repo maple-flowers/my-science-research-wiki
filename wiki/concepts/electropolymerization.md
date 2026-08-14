@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# electropolymerization
 
-# 电聚合/循环伏安原位成膜，可通过扫速、电位窗口、阳离子精确控制膜厚与层数。
-
-电聚合/循环伏安原位成膜，可通过扫速、电位窗口、阳离子精确控制膜厚与层数。
-
-## Related Papers
-
-- [[../papers/Doroodmand2017conjugated]]
+- [[../papers/Doroodmand2017conjugated]] — Electro-synthesized Conjugated Salen Polymer-Glassy Carbon as Hydrochromic Reflective Filter for Humidity Detection: Introduction of Humidity Optical Sensor
+- [[../papers/Zhang2008synthesis]] — Synthesis and nonlinear optical properties of two three-branched two-photon polymerization initiators

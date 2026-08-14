@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# saturable-absorption
 
-# 基态被抽空导致吸收系数随光强下降、透过率上升的三阶非线性过程
-
-基态被抽空导致吸收系数随光强下降、透过率上升的三阶非线性过程
-
-## Related Papers
-
-- [[../papers/Scremin2018nonlinear]]
+- [[../papers/Scremin2018nonlinear]] — Nonlinear absorption of tetrathiafulvalene radical cation (TTF+) based charge transfer (CT) aggregates in PMMA
+- [[../papers/shuTwoDimensionalBlackArsenic2020]] — Two-Dimensional Black Arsenic Phosphorus for Ultrafast Photonics in Near- and Mid-Infrared Regimes

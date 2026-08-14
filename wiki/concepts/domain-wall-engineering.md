@@ -1,11 +1,6 @@
----
-tags: [concept, stub]
----
+# domain-wall-engineering
 
-# 畴壁工程）
-
-畴壁工程）：把畴壁作为可生长后创建/移动/擦除的天然同质界面来设计功能（导电、磁电耦合等）。
-
-## Related Papers
-
-- [[../papers/fiebigEvolutionMultiferroics2016]]
+- [[../papers/fiebigEvolutionMultiferroics2016]] — The evolution of multiferroics
+- [[../papers/heUltrafastSwitchingDynamics2024]] — Ultrafast switching dynamics of the ferroelectric order in stacking-engineered ferroelectrics
+- [[../papers/liFerroelasticityDomainPhysics2016]] — Ferroelasticity and domain physics in two-dimensional transition metal dichalcogenide monolayers
+- [[../papers/xuTwodimensionalFerroelasticityVan2021]] — Two-dimensional ferroelasticity in van der Waals β'-In2Se3

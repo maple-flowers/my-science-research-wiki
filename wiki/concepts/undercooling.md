@@ -1,12 +1,5 @@
----
-tags: [concept, stub]
----
+# undercooling
 
-# 过冷度）
-
-过冷度）：实际温度低于平衡相变温度 Ae3 的差值 ΔT=Ae3−T，是形核驱动力的来源。
-
-## Related Papers
-
-- [[../papers/Zhang2002b]]
-- [[../papers/Zhang2003a]]
+- [[../papers/Zhang2002b]] — Cellular automaton model to simulate nucleation and growth of ferrite grains for low-carbon steels
+- [[../papers/Zhang2003a]] — A cellular automaton investigation of the transformation from austenite to ferrite during continuous cooling
+- [[../papers/Zhang2019b]] — Packing Changes in Melting, Freezing, and Coalescence of Titanium Nanoparticles from Atomic Simulations

@@ -1,12 +1,4 @@
----
-tags: [concept, stub]
----
+# peierls-transition
 
-# Peierls Transition
-
-Peierls 相变，一维/准二维金属中由嵌套驱动的 PLD/CDW 自发对称破缺。
-
-## Related Papers
-
-- [[../papers/Inosov2008fermi]]
-- [[../papers/lezoualchStudyChargeDensity]]
+- [[../papers/Inosov2008fermi]] — Fermi surface nesting in several transition metal dichalcogenides
+- [[../papers/lezoualchStudyChargeDensity]] — Study of charge density waves in transition metal dichalcogenides

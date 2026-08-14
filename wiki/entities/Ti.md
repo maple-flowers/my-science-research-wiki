@@ -1,12 +1,4 @@
----
-tags: [entity, stub]
----
+# Ti
 
-# 钛
-
-钛：α相HCP，块体实验熔点1941 K，EAM预测无缺陷块体熔点2218 K
-
-## Related Papers
-
-- [[../papers/Zhang2019a]]
-- [[../papers/Zhang2019c]]
+- [[../papers/Zhang2019a]] — Studying Stability of Atom Packing for Ti Nanoparticles on Heating by Molecular Dynamics Simulations
+- [[../papers/Zhang2019c]] — Atomic simulations of packing patterns and thermal behavior in Ti clusters

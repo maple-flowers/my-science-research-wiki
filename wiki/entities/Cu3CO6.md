@@ -1,11 +1,3 @@
----
-tags: [entity, stub]
----
+# Cu3CO6
 
-# 本文主角材料，P6/mmm、a=7.732
-
-本文主角材料，P6/mmm、a=7.732 Å、Cu 四配位 kagome、已在 Cu(111)/Ag(111) 上合成
-
-## Related Papers
-
-- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]]
+- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]] — Anisotropic superconductivity in the two-dimensional metal-organic kagome framework Cu 3 ( CO ) 6

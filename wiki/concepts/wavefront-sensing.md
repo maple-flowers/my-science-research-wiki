@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# wavefront-sensing
 
-# 波前传感方法集合
-
-波前传感方法集合（Shack–Hartmann、多通道干涉等）。
-
-## Related Papers
-
-- [[../papers/Jia2023polymerization]]
+- [[../papers/Jia2023polymerization]] — Two-photon polymerization of femtosecond high-order Bessel beams with aberration correction

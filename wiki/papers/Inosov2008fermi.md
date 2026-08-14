@@ -78,7 +78,7 @@ D S Inosov, V B Zabolotnyy, D V Evtushinsky, A A Kordyuk, B Büchner, R Follath,
 
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/charge-density-wave]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/fermi-surface-nesting|费米面嵌套]]
   - 概念 [[../concepts/lindhard-function|Lindhard 函数]]
   - 概念 [[../concepts/peierls-transition|Peierls 相变]]
@@ -94,7 +94,7 @@ D S Inosov, V B Zabolotnyy, D V Evtushinsky, A A Kordyuk, B Büchner, R Follath,
   - 实体 [[../entities/CuxNbS2|CuₓNbS₂]]
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/2008]]
+  - 年度 [[../write/2005-2009|2008]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/Inosov2008fermi]]
 

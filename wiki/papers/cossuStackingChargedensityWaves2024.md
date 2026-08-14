@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/cossuStackingChargedensityWaves2024]]
 projects: []
-concepts: [2D-materials, charge-density-wave, density-functional-theory, moire-superlattice, strain-engineering]
-entities: [TMDs, VASP, Wannier90]
+concepts: [2D-materials, charge-density-wave, density-functional-theory, moire-superlattice, strain-engineering, interlayer-stacking, geometric-structure-factor, pseudogap, cdw-blends-displacements, vdw-correction, peierls-instability]
+entities: [TMDs, VASP, Wannier90, 1T-TaS2, NbSe2]
 methods: [dft, mlip, raman, stm-mbe, tem, xanes, xrd]
 materials: [TMDs]
 figures: [electronic-bands-cdw-transport, electronic-bands-dos-fermi, experimental-setups, heterostructures-stacking, mathematical-models-formulas]
@@ -74,7 +74,7 @@ F. Cossu, D. Nafday, K. Palotás, M. Biderang, H.-S. Kim, A. Akbari, I. Di Marco
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/charge-density-wave|电荷密度波]]
   - 概念 [[../concepts/density-functional-theory|密度泛函理论]]
-  - 概念 [[../concepts/2D-materials|二维材料]]
+  - 概念 [[../concepts/2d-materials|二维材料]]
   - 概念 [[../concepts/moire-superlattice|莫尔超晶格]]（文中展望扭转双层 NbSe₂）
   - 概念 [[../concepts/strain-engineering|应变工程]]（作者团队前作 strain-induced stripe phase in NbSe₂）
   - 概念 [[../concepts/interlayer-stacking|层间堆叠]]
@@ -91,9 +91,9 @@ F. Cossu, D. Nafday, K. Palotás, M. Biderang, H.-S. Kim, A. Akbari, I. Di Marco
   - 图表 [[../figures/crystal-structures|晶体结构]]
   - 图表 [[../figures/electronic-bands|电子能带]]
   - 图表 [[../figures/heterostructures-stacking|异质结与层间堆积]]
-  - 图表 [[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积]]
+  - 图表 [[../figures/heterostructures-stacking|莫尔超晶格、扭转角与层间堆积]]
   - 图表 [[../figures/vibrational-spectra|振动光谱]]（展望声子/拉曼）
-  - 年度 [[../write/2024]]
+  - 年度 [[../write/2020-2024|2024]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 **cossuStackingChargedensityWaves2024**
 

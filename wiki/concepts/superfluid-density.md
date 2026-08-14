@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# superfluid-density
 
-# 超流密度
-
-超流密度 n_s/m*）：超导载流子浓度与有效质量之比，与伦敦穿透深度平方成反比，是超导相刚度的核心度量。
-
-## Related Papers
-
-- [[../papers/Islam2025enhancement]]
+- [[../papers/Islam2025enhancement]] — Pressure-induced enhancement of superfluid density in transition metal dichalcogenides with and without charge density wave
+- [[../papers/majumdarInterplayChargeDensity2020]] — Interplay of charge density wave and multiband superconductivity in layered quasi-two-dimensional materials: The case of 2H-NbS₂ and 2H-NbSe₂

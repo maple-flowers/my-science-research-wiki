@@ -1,12 +1,6 @@
----
-tags: [concept, stub]
----
+# spin-density-wave
 
-# 自旋密度波
-
-自旋密度波（SDW），电子自旋密度的周期性调制；本文中 SDW 主导、CDW 微弱，两者共存于 MTB
-
-## Related Papers
-
-- [[../papers/Makogon2012wave]]
-- [[../papers/krishnamurthiSpinChargeDensity2020]]
+- [[../papers/Kang2012dimer]] — Dimer impurity scattering, reconstructed Fermi-surface nesting, and density-wave diagnostics in iron pnictides
+- [[../papers/Makogon2012wave]] — Spin-charge-density wave in a rounded-square Fermi surface for ultracold atoms
+- [[../papers/cheongMultiferroicsMagneticTwist2007a]] — Multiferroics: a magnetic twist for ferroelectricity
+- [[../papers/krishnamurthiSpinChargeDensity2020]] — Spin/charge density waves at the boundaries of transition metal dichalcogenides

@@ -1,12 +1,5 @@
----
-tags: [concept, stub]
----
+# electronic-ferroelectricity
 
-# 电子铁电性）
-
-电子铁电性）：自发极化主要来自电子云相对离子实的重排（电子-空穴关联、层间电荷转移），而非离子位移/软模晶格畸变，预示本征超快翻转。
-
-## Related Papers
-
-- [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]
-- [[../papers/hillWhyAreThere2000a]]
+- [[../papers/chenStrongSlidingFerroelectricity2024]] — Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI₂ Layers
+- [[../papers/feiFerroelectricSwitchingTwodimensional2018a]] — Ferroelectric switching of a two-dimensional metal
+- [[../papers/hillWhyAreThere2000a]] — Why Are There so Few Magnetic Ferroelectrics?

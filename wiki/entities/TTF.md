@@ -1,11 +1,4 @@
----
-tags: [entity, stub]
----
+# TTF
 
-# 四硫富瓦烯，三种稳定氧化态TTF⁰/TTF⁺/TTF²⁺，有机导体/超分子化学基元
-
-四硫富瓦烯，三种稳定氧化态TTF⁰/TTF⁺/TTF²⁺，有机导体/超分子化学基元
-
-## Related Papers
-
-- [[../papers/Scremin2018nonlinear]]
+- [[../papers/Scremin2018nonlinear]] — Nonlinear absorption of tetrathiafulvalene radical cation (TTF+) based charge transfer (CT) aggregates in PMMA
+- [[../papers/Wixtrom2011electrical]] — Electrical and Optical Properties of a New Polymorph of the Tetrathiafulvalene-Chloranil (TTF-CA) Charge Transfer Salt

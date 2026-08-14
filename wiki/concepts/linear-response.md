@@ -1,11 +1,10 @@
----
-tags: [concept, stub]
----
+# linear-response
 
-# 线性响应，均匀电子气对小密度涨落的响应，PBE
-
-线性响应，均匀电子气对小密度涨落的响应，PBE 相对 PW91 的关键修正点。
-
-## Related Papers
-
-- [[../papers/perdewGeneralizedGradientApproximation1996a]]
+- [[../papers/Terasaki2011ultrasonic]] — Ultrasonic Wave Induced Mechanoluminescence
+- [[../papers/Zhang2008synthesis]] — Synthesis and nonlinear optical properties of two three-branched two-photon polymerization initiators
+- [[../papers/aiFerroelectricityCoexistedPorbital2022]] — Ferroelectricity coexisted with p-orbital ferromagnetism and metallicity in two-dimensional metal oxynitrides
+- [[../papers/gajdosLinearOpticalProperties2006]] — Linear optical properties in the projector-augmented wave methodology
+- [[../papers/king-smithTheoryPolarizationCrystalline1993]] — Theory of polarization of crystalline solids
+- [[../papers/miaoMagneticFerroelectricMetal2024]] — Magnetic ferroelectric metal in bilayer Fe3GeTe2 under interlayer sliding
+- [[../papers/perdewGeneralizedGradientApproximation1996a]] — Generalized Gradient Approximation Made Simple
+- [[../papers/zhouFirstprinciplesPredictionRedox2004]] — First-principles prediction of redox potentials in transition-metal compounds with LDA+U

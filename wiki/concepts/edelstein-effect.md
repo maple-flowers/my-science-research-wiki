@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# edelstein-effect
 
-# Edelstein Effect
-
-Edelstein 效应）：Rashba 界面或拓扑绝缘体表面态中电荷流直接转化为自旋积累。
-
-## Related Papers
-
-- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]
+- [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]] — Ferroelectricity-driven strain-mediated magnetoelectric coupling in two-dimensional multiferroic heterostructure
+- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]] — Spintronics in Two-Dimensional Materials
+- [[../papers/wuSlidingFerroelectricity2D2021a]] — Sliding ferroelectricity in 2D van der Waals materials: Related physics and future opportunities

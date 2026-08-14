@@ -84,8 +84,9 @@ Perdew、Burke、Ernzerhof，1996，Physical Review Letters 77(18), 3865–3868�
   - 概念 [[../concepts/density-functional-theory]]、[[../concepts/exchange-correlation-functional|交换-关联泛函]]、[[../concepts/generalized-gradient-approximation|广义梯度近似]]、[[../concepts/local-spin-density-approximation|局域自旋密度近似]]、[[../concepts/pbe-functional|PBE 泛函]]、[[../concepts/pw91-functional|PW91 泛函]]、[[../concepts/enhancement-factor|增强因子]]、[[../concepts/lieb-oxford-bound|Lieb-Oxford 界]]、[[../concepts/linear-response|线性响应]]、[[../concepts/uniform-electron-gas|均匀电子气]]、[[../concepts/self-interaction-error|自相互作用误差]]、[[../concepts/pseudopotential|赝势]]
   - 实体 [[../entities/VASP]]
   - 图表 [[../figures/mathematical-models]]、[[../figures/crystal-structures|晶体结构与原子排布]]、[[../figures/electronic-bands|电子能带与电子态]]、[[../figures/vibrational-spectra|振动能谱与声子谱]]
-  - 年度 [[../write/1996]]
+  - 年度 [[../write/1945-1999|1996]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
+  - 实体 [[../entities/CADPAC]]
   - 相关论文 [[../../raw/note/perdewGeneralizedGradientApproximation1996a]]
 ## 🆕 新概念/实体建议
   - 实体 `CADPAC`：Cambridge Analytical Derivatives Package，本文用于原子化能计算的量子化学程序。

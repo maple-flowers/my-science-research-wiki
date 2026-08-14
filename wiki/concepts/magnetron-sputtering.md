@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# magnetron-sputtering
 
-# 磁控溅射）
-
-磁控溅射）：利用电场和磁场将靶材原子电离为等离子体并定向沉积到基底的 PVD 薄膜技术。
-
-## Related Papers
-
-- [[../papers/Unknown2022polymerization]]
+- [[../papers/Unknown2022polymerization]] — Two-photon polymerization for advanced sensor manufacturing
+- [[../papers/wangScreeningEnabledChemiresistiveMoisture2025]] — Screening-Enabled Chemiresistive Moisture Sensing with Tetrathiafulvalene-Based Electrically Conductive Metal–Organic Frameworks

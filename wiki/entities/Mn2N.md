@@ -1,35 +1,3 @@
----
-tags: [entity]
----
-
 # Mn2N
 
-Mn2N 是一种典型的二维过渡金属氮化物（MXene）母体材料，其结构表现为独特的“反 1T-TMD”三明治构型：中间由一层氮（N）原子平面组成，两侧对称包裹着两层锰（Mn）原子层。作为一种具有高居里温度（文献值范围为 566–1877 K）的铁磁性二维材料，Mn2N 在自旋电子学领域具有重要的研究价值 [[../papers/chen3dLevelSymmetry2025]]。
-
-## 结构与对称性特征
-
-Mn2N 的基本单元在晶体学上与 1T 相的过渡金属二硫化物（TMDs）相似，但阴阳离子位置对调。在单层 Mn2N 中，Mn 原子处于由 N 原子形成的三角晶场配位环境下。根据 [[../papers/chen3dLevelSymmetry2025]] 的分析，在这种 $C_{3v}$ 对称性下，Mn 的 3d 轨道分裂为三个能级组：
-- 一个单态 $d_{z^2}$；
-- 一个双重简并态 $e_I$ ($d_{yz}, d_{xz}$)；
-- 一个双重简并态 $e_{II}$ ($d_{xy}, d_{x^2-y^2}$)。
-
-这种轨道分裂模式是 Mn2N 及其衍生物电子构型的基础，且在不同的表面钝化（如 -O, -F, -OH, -Cl）下保持定性不变。
-
-## 相锁性质：半金属性与半导体性的起源
-
-Mn2N 的电子性质与其表面钝化状态表现出强烈的“相锁”关系（Phase-Locked Properties）。传统的观点往往将其电子态的差异归结为局域配位对称性的改变，但最新的理论研究表明，决定 Mn2N 是表现为**半金属性**还是**半导体性**的核心机制是**两侧金属层的 3d 能级对称性** [[../papers/chen3dLevelSymmetry2025]]。
-
-1. **半金属性（Half-metallicity）**：在对称钝化的 Mn2NO2 或能级差异较小的 Janus 结构 Mn2NOCl 中，两侧 Mn 原子的 3d 能级高度对称（分离度小）。此时，两层 Mn 原子的 $e_I$ 轨道均处于部分占据状态，表现为自旋极化的金属性，能够提供 100% 的自旋极化电流。
-2. **半导体性（Semiconductivity）**：在 Janus 结构 Mn2NOF 或 Mn2NOOH 中，由于两侧钝化基团（如 O 与 F）的电负性差异极大，导致两侧 Mn 原子的 3d 能级发生显著分离。这种能级差驱动了金属层间的电荷重新分布：一侧 Mn 原子变为高自旋的 $d^5$ 构型（$e_I$ 全满），另一侧变为低自旋的 $d^3$ 构型（$e_I$ 全空），从而在费米能级处打开带隙。
-
-## 动态调控与相变
-
-Mn2N MXenes 的这种层间能级对称性机制为电子相变的动态调控提供了可能。通过**电荷掺杂**或**单轴应变**，可以人工干预两侧 Mn 原子的能级对齐关系：
-- **电荷掺杂**：极小量的电子或空穴掺杂（~0.02 e/atom）即可通过直接填充或清空能带边缘的 $e_I$ 轨道，实现 Mn2NOF 从半导体到半金属的可逆切换 [[../papers/chen3dLevelSymmetry2025]]。
-- **应变工程**：单轴拉伸应变可以减小两侧 Mn-N 键的静电势差，从而减小能级分离。在临界应变（如 Mn2NOF 的 3%–7% 范围）下，体系可发生带隙闭合，由半导体态转变为半金属态。
-
-这种基于层间轨道对称性的调控蓝图，使得 Mn2N 成为构建无化学界面、可重构自旋电子器件的理想候选材料。
-
-## Related Papers
-
-- [[../papers/chen3dLevelSymmetry2025]]
+- [[../papers/chen3dLevelSymmetry2025]] — 3d-level symmetry between metal layers governing the electronic configuration of Mn2N MXenes and enabling modulation between half-metallicity and semiconductivity

@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# diffractive-optical-element
 
-# 衍射光学元件
-
-衍射光学元件（DOE），通过表面微结构相位调制实现光束分束、整形、聚焦的光学元件
-
-## Related Papers
-
-- [[../papers/Unknown2025diffractive]]
+- [[../papers/Unknown2025diffractive]] — Millimeter-Scale Diffractive Optical Elements Fabricated by Two-Photon Polymerization for Beam Shaping in Materials Processing

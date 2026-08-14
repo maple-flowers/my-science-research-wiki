@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# meron
 
-# 半子
-
-半子（Meron），核面外、外围面内极化，拓扑荷±0.5，分刺猬型与涡旋型。
-
-## Related Papers
-
-- [[../papers/hanPolarTopologicalMaterials2025]]
+- [[../papers/hanPolarTopologicalMaterials2025]] — Polar topological materials and devices: Prospects and challenges

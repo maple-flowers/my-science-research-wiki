@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# mass-renormalization
 
-# 质量重整化）
-
-质量重整化）：V 3d 带实验带宽 0.5 eV 窄于 DFT 的 0.75 eV，归因于电子关联。
-
-## Related Papers
-
-- [[../papers/kawakamiChargedensityWaveAssociated2023]]
+- [[../papers/blochlProjectorAugmentedwaveMethod1994b]] — Projector augmented-wave method
+- [[../papers/kawakamiChargedensityWaveAssociated2023]] — Charge-density wave associated with higher-order Fermi-surface nesting in monolayer VS2

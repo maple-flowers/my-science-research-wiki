@@ -1,11 +1,4 @@
----
-tags: [entity, stub]
----
+# Mo2Ti2C3Tx
 
-# 双过渡金属
-
-双过渡金属 MXene（Mo-Ti-C 体系，M₄C₃ 型），HF 刻蚀 Mo₂Ti₂AlC₃ MAX 相后经 TMAOH 插层剥离所得
-
-## Related Papers
-
-- [[../papers/sattarFunctionalizedDoubleTransition2025]]
+- [[../papers/sattarFunctionalizedDoubleTransition2025]] — Functionalized double transition metal Mo2Ti2C3Tx ferroelectric MXene and laser-reduced graphene based flexible memristors for next-generation two-dimensional ferrotronics
+- [[../papers/zahraCriticalAnalysisFerroelectric2025]] — A critical analysis of ferroelectric and ferromagnetic properties in two-dimensional MXene

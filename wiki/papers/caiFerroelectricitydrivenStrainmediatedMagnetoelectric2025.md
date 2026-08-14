@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]
 projects: [project-2]
-concepts: [2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering]
-entities: [Fe3GeTe2, VASP]
+concepts: [2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, spin-logic-device, inverse-piezoelectric-effect, perpendicular-magnetic-anisotropy, anomalous-hall-effect, dual-gate-asymmetric-strain-control, strain-mediated-magnetoelectric-coupling]
+entities: [Fe3GeTe2, VASP, Fe3GaTe2, PVDF-TrFE]
 methods: [berry-phase, dft, raman, tem, xanes, xrd]
 materials: [Fe3GeTe2]
 figures: [electronic-devices-memory-transistors, vibrational-spectra]
@@ -80,7 +80,7 @@ Chuanyang Cai, Yao Wen, Shiheng Liang, Lei Yin, Ruiqing Cheng, Hao Wang, Xiaoqia
   - 概念 [[../concepts/multiferroicity]]
   - 概念 [[../concepts/magnetoelectric-coupling]]
   - 概念 [[../concepts/strain-engineering]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/spin-orbit-coupling]]
   - 概念 [[../concepts/density-functional-theory]]
   - 概念 [[../concepts/berry-phase]]（Berry 曲率积分决定反常霍尔电导符号）
@@ -96,7 +96,7 @@ Chuanyang Cai, Yao Wen, Shiheng Liang, Lei Yin, Ruiqing Cheng, Hao Wang, Xiaoqia
   - 实体 [[../entities/Fe3GaTe2|Fe₃GaTe₂]]（室温二维铁磁体，本文主体材料）
   - 实体 [[../entities/PVDF-TrFE|P(VDF-TrFE)]]（铁电聚合物，逆压电应变源）
   - 图表 [[../figures/electronic-devices]]
-  - 年度 [[../write/2025]]
+  - 年度 [[../write/2025-2029|2025]]
   - 相关论文 [[../../raw/note/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]
 
 ## 📊 关键图表

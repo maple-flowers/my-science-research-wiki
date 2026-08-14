@@ -1,16 +1,6 @@
----
-tags: [concept, stub]
----
+# d0-rule
 
-# d⁰规则）
-
-d⁰规则）：经验规则，钙钛矿铁电体中B位阳离子需空d轨道以发生离子偏心位移，与磁性所需的部分填充d轨道互斥，是单相多铁稀缺的根源。
-
-## Related Papers
-
-- [[../papers/RecentAdvancesGrowth2025]]
-- [[../papers/aiFerroelectricityCoexistedPorbital2022]]
-- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]]
-- [[../papers/hillWhyAreThere2000a]]
-- [[../papers/tangMultiferroicityTwodimensionalVan2025]]
-- [[../papers/zhaoOpticalFingerprintsTwodimensional2024]]
+- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]] — Ferroelectricity and multiferroicity in two-dimensional Sc₂P₂Se₆ and ScCrP₂Se₆ monolayers
+- [[../papers/hillWhyAreThere2000a]] — Why Are There so Few Magnetic Ferroelectrics?
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]] — Towards Multiferroicity in Two-Dimensional Van Der Waals Materials: Challenges and Opportunities
+- [[../papers/zhaoOpticalFingerprintsTwodimensional2024]] — Optical fingerprints of two-dimensional interlayer-sliding multiferroic materials

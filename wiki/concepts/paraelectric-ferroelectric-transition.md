@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# paraelectric-ferroelectric-transition
 
-# 顺电-铁电相变，本文中由应变
-
-顺电-铁电相变，本文中由应变（而非温度）驱动，可用 Landau 双势阱与 Γ 点软模刻画。
-
-## Related Papers
-
-- [[../papers/xuTunableFerroelectricTopological2022]]
+- [[../papers/chenStrongSlidingFerroelectricity2024]] — Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI₂ Layers
+- [[../papers/xuTunableFerroelectricTopological2022]] — Tunable ferroelectric topological defects on 2D topological surfaces: strain engineering skyrmion-like polar structures in 2D materials

@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/songEvidenceSinglelayerVan2022]]
 projects: [project-2, project-5, project-7]
-concepts: [multiferroicity, 2d-materials, magnetoelectric-coupling, spin-orbit-coupling, berry-phase, type-ii-multiferroicity, spin-helix, electromagnon, raman-optical-activity, second-harmonic-generation, birefringence, inversion-symmetry-breaking, rotational-symmetry-breaking, magnetic-anisotropy, geometric-frustration, superexchange, skyrmions, helical-magnetism, improper-electronic-ferroelectricity]
+concepts: [multiferroicity, 2d-materials, magnetoelectric-coupling, spin-orbit-coupling, berry-phase, type-ii-multiferroicity, spin-helix, electromagnon, raman-optical-activity, second-harmonic-generation, birefringence, inversion-symmetry-breaking, rotational-symmetry-breaking, magnetic-anisotropy, geometric-frustration, superexchange, skyrmions, helical-magnetism, improper-electronic-ferroelectricity, magnetic-anisotropy-energy]
 entities: [NiI2, VASP, WIEN2k, h-BN]
 methods: [shg, raman, circular-dichroic-raman, birefringence, linear-dichroism, afm, xrd, tem-electron-diffraction, cvt-growth, pvd-growth, dft, dft-plus-u, berry-phase, monte-carlo, heisenberg-model, gknb-model, four-state-method, squid-magnetometry, bulk-photovoltaic-effect, polarized-microscopy]
 materials: [NiI2, h-BN]
@@ -107,11 +107,12 @@ Qian Song, Connor A. Occhialini, Emre Ergeçen, Batyr Ilyas, Danila Amoroso, Pao
 ## 💡 一句话
 首次在单层 NiI₂ 中通过双折射、SHG 和圆二色拉曼等互补光学手段，并结合 DFT+U 与蒙特卡洛模拟，实验证实了本征第二类多铁性（proper-screw 螺旋磁序诱导沿 a 轴电极化）在二维极限下的存在，单层 T_N ≈ 21 K。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/2D-materials]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/berry-phase]]、[[../concepts/type-ii-multiferroicity|第二类多铁性]]、[[../concepts/electromagnon|电磁振子]]、[[../concepts/raman-optical-activity|拉曼光学活性]]、[[../concepts/second-harmonic-generation|二次谐波产生]]、[[../concepts/birefringence|双折射]]、[[../concepts/magnetic-anisotropy-energy|磁各向异性]]、[[../concepts/geometric-frustration|几何阻挫]]、[[../concepts/superexchange|超交换]]、[[../concepts/helical-magnetism|螺旋磁性]]、[[../concepts/improper-electronic-ferroelectricity|非本征电子铁电性]]
+  - 概念 [[../concepts/multiferroicity]]、[[../concepts/2d-materials]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/berry-phase]]、[[../concepts/type-ii-multiferroicity|第二类多铁性]]、[[../concepts/electromagnon|电磁振子]]、[[../concepts/raman-optical-activity|拉曼光学活性]]、[[../concepts/second-harmonic-generation|二次谐波产生]]、[[../concepts/birefringence|双折射]]、[[../concepts/magnetic-anisotropy-energy|磁各向异性]]、[[../concepts/geometric-frustration|几何阻挫]]、[[../concepts/superexchange|超交换]]、[[../concepts/helical-magnetism|螺旋磁性]]、[[../concepts/improper-electronic-ferroelectricity|非本征电子铁电性]]
   - 实体 [[../entities/VASP]]、[[../entities/h-BN]]、[[../entities/NiI2|二碘化镍 NiI₂]]、[[../entities/WIEN2k|WIEN2k]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/optical-spectra]]、[[../figures/vibrational-spectra]]、[[../figures/electronic-devices]]、[[../figures/domain-walls]]
-  - 年度 [[../write/2022]]
+  - 年度 [[../write/2020-2024|2022]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
+  - 概念 [[../concepts/spin-helix]]、[[../concepts/magnetic-anisotropy]]、[[../concepts/inversion-symmetry-breaking]]、[[../concepts/rotational-symmetry-breaking]]、[[../concepts/skyrmions]]
   - 相关论文 [[../../raw/note/songEvidenceSinglelayerVan2022]]
 ## 🆕 新概念/实体建议
   - `type-ii-multiferroicity`（第二类多铁性）：由打破反演对称性的磁序（螺旋/摆线）直接诱导铁电极化，磁电内禀强耦合；NiI₂ 为二维首例。

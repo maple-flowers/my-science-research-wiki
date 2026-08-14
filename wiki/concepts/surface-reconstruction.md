@@ -1,12 +1,6 @@
----
-tags: [concept, stub]
----
+# surface-reconstruction
 
-# 表面重构，晶体表面因体相周期性中断而发生的原子重排，Si
-
-表面重构，晶体表面因体相周期性中断而发生的原子重排，Si(001)的p(2×2)和c(4×2)是经典案例
-
-## Related Papers
-
-- [[../papers/Wu2018]]
-- [[../papers/Wu2021]]
+- [[../papers/Wu2018]] — Study of atomic arrangements and charge distribution on Si(0 0 1) surfaces with the adsorption of one Ge atom by DFTB calculations
+- [[../papers/guanRecentProgressTwoDimensional2020]] — Recent Progress in Two‐Dimensional Ferroelectric Materials
+- [[../papers/liPhaseTransitions2D2021]] — Phase transitions in 2D materials
+- [[../papers/zhongHighthroughputExfoliationMultiferroic2025]] — High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperature and giant spin splitting

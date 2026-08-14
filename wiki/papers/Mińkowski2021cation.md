@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Mińkowski2021cation]]
 projects: [project-2, project-4, project-5]
-concepts: [density-functional-theory, machine-learning-potential, spin-orbit-coupling]
+concepts: [density-functional-theory, machine-learning-potential, spin-orbit-coupling, behler-parrinello-nnp, interstitial-diffusion, block-averaging-msd, arrhenius-deviation, interstitial-exchange-mechanism, CdTe]
 entities: [PbTe, SnTe, VASP]
 methods: [dft, md, mlip, neb]
 materials: [PbTe, SnTe]
@@ -85,7 +85,7 @@ Marcin Mińkowski, Kerstin Hummer, Christoph Dellago et al.，2021，*Journal of
   - 实体 [[../entities/VASP]]
   - 图表 [[../figures/mathematical-models]]
   - 图表 [[../figures/crystal-structures]]
-  - 年度 [[../write/2021]]
+  - 年度 [[../write/2020-2024|2021]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 项目 [[../projects/project-4-ttf-molecular-calc]]

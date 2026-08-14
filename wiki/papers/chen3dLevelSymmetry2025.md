@@ -12,7 +12,7 @@ year_read: 2026
 original_note:: [[../../raw/note/chen3dLevelSymmetry2025]]
 projects: [project-2, project-7]
 concepts: [density-functional-theory, strain-engineering, spin-orbit-coupling, 2d-materials, electron-counting-rule, half-metallicity, janus-structure, crystal-field-theory, charge-doping, electronic-phase-transition]
-entities: [MXenes, TMDs, VASP, h-BN]
+entities: [MXenes, TMDs, VASP, h-BN, Mn2NOF, Mn2N, V2NOF, Mn2NO2]
 methods: [dft, dft-plus-u, hse06, soc, aimd, bader-analysis, elf, electrostatic-potential, pband, pdos]
 materials: [Mn2N, Mn2NO2, Mn2NOF, Mn2NOOH, Mn2NOCl, V2NOF]
 figures: [electronic-bands-band-structures, electronic-bands-cdw-transport, electronic-bands-dos-fermi]
@@ -88,10 +88,10 @@ Kaiyun Chen、Xue Yan、Junkai Deng、Yuan Yan、Jiabei He、Dongxiao Kan、Wang
 通过DFT计算揭示Mn2N MXenes的半金属性/半导体性由两侧Mn原子3d能级分离程度（而非局域配位对称性）决定，并据此用电荷掺杂和单轴应变实现两种态的可逆切换。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/density-functional-theory]]、[[../concepts/strain-engineering]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/2D-materials]]、[[../concepts/electron-counting-rule]]、[[../concepts/half-metallicity]]、[[../concepts/janus-structure]]、[[../concepts/crystal-field-theory]]、[[../concepts/charge-doping]]、[[../concepts/electronic-phase-transition]]
+  - 概念 [[../concepts/density-functional-theory]]、[[../concepts/strain-engineering]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/2d-materials]]、[[../concepts/electron-counting-rule]]、[[../concepts/half-metallicity]]、[[../concepts/janus-structure]]、[[../concepts/crystal-field-theory]]、[[../concepts/charge-doping]]、[[../concepts/electronic-phase-transition]]
   - 实体 [[../entities/MXenes]]、[[../entities/TMDs]]、[[../entities/VASP]]、[[../entities/h-BN]]、[[../entities/Mn2N]]、[[../entities/Mn2NO2]]、[[../entities/Mn2NOF]]、[[../entities/V2NOF]]
   - 图表 [[../figures/electronic-bands]]
-  - 年度 [[../write/2025]]
+  - 年度 [[../write/2025-2029|2025]]
   - 相关论文 **chen3dLevelSymmetry2025**
 
 ## 📊 关键图表

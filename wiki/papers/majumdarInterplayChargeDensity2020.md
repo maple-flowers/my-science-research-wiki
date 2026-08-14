@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/majumdarInterplayChargeDensity2020]]
 projects: [project-7]
-concepts: [2D-materials, charge-density-wave]
-entities: [TMDs]
+concepts: [2D-materials, charge-density-wave, pressure-tuning, multiband-superconductivity, uemura-relation, werthamer-helfand-hohenberg-model, andreev-reflection, electron-phonon-coupling, london-penetration-depth, pauli-paramagnetic-effect]
+entities: [TMDs, NbS2, NbSe2]
 methods: [dft]
 materials: [TMDs]
 figures: [crystal-structures-surfaces-defects, electronic-bands-band-structures, electronic-bands-cdw-transport, electronic-bands-dos-fermi]
@@ -69,7 +69,7 @@ Arnab Majumdar, Derrick VanGennep, Jérémy Brisbois, Dmitriy Chareev, Andrey V.
 
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/charge-density-wave|电荷密度波]]
-  - 概念 [[../concepts/2D-materials|二维材料]]
+  - 概念 [[../concepts/2d-materials|二维材料]]
   - 概念 [[../concepts/multiband-superconductivity|多带超导电性]]
   - 概念 [[../concepts/pauli-paramagnetic-effect|泡利顺磁效应]]
   - 概念 [[../concepts/uemura-relation|Uemura 关系]]
@@ -83,7 +83,7 @@ Arnab Majumdar, Derrick VanGennep, Jérémy Brisbois, Dmitriy Chareev, Andrey V.
   - 实体 [[../entities/NbS2|NbS₂]]
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/crystal-structures]]
-  - 年度 [[../write/2020]]
+  - 年度 [[../write/2020-2024|2020]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/majumdarInterplayChargeDensity2020]]
 

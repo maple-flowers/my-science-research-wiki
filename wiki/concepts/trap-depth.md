@@ -1,11 +1,6 @@
----
-tags: [concept, stub]
----
+# trap-depth
 
-# 陷阱深度，束缚载流子能级与带边的能量差；本文用初始上升法、Chen
-
-陷阱深度，束缚载流子能级与带边的能量差；本文用初始上升法、Chen 峰形法、辉光曲线拟合法测得 0.24–0.27 eV，属浅陷阱。
-
-## Related Papers
-
-- [[../papers/KumarChoubey2011mechanoluminescence]]
+- [[../papers/Gulhare2021mechanoluminescence]] — Mechanoluminescence Characterization of γ-irradiated Ba3(VO4)2:Eu phosphors
+- [[../papers/KumarChoubey2011mechanoluminescence]] — Mechanoluminescence & Thermoluminescence of SrAl2O4:Eu Nano-Phosphors
+- [[../papers/PChandra2011mechanoluminescence]] — Mechanoluminescence of Nanoparticles
+- [[../papers/TSUJI2019phosphorescence]] — Phosphorescence light decay curve from mechanoluminescence material subjected to hydrostatic load

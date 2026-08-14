@@ -11,8 +11,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/tangGridbasedBaderAnalysis2009]]
 projects: [project-2, project-4, project-5, project-7]
-concepts: [density-functional-theory, bader-analysis, charge-density, zero-flux-surface, lattice-bias, steepest-ascent, mulliken-population-analysis, electron-localization-function]
-entities: [VASP, Gaussian-98, Quantum-ESPRESSO, PAW, pseudopotential, Vanderbilt-ultrasoft]
+concepts: [density-functional-theory, bader-analysis, charge-density, zero-flux-surface, lattice-bias, steepest-ascent, mulliken-population-analysis, electron-localization-function, non-nuclear-attractor, steepest-ascent-path, correction-vector]
+entities: [VASP, Gaussian-98, Quantum-ESPRESSO, PAW, Vanderbilt-ultrasoft, bader-code]
 methods: [dft, plane-wave, bader-charge-analysis, grid-based-algorithm, finite-difference, post-processing, mp2, monkhorst-pack]
 materials: [NaCl, H2O]
 figures: [crystal-structures-bulk, electronic-bands-dos-fermi, experimental-setups, mathematical-models-computational]
@@ -87,7 +87,9 @@ W Tang、E Sanville、G Henkelman，2009，*Journal of Physics: Condensed Matter
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/density-functional-theory]] [[../concepts/bader-analysis|Bader分析]] [[../concepts/charge-density|电荷密度]] [[../concepts/zero-flux-surface|零通量面]] [[../concepts/lattice-bias|晶格偏差]] [[../concepts/mulliken-population-analysis|Mulliken布居分析]] [[../concepts/correction-vector|修正向量]] [[../concepts/steepest-ascent-path|最陡上升路径]] [[../concepts/non-nuclear-attractor|非核吸引子]]
   - 实体 [[../entities/VASP]] [[../entities/Quantum-ESPRESSO|Quantum ESPRESSO]] [[../entities/bader-code|Bader程序]]
-  - 年度 [[../write/2009]]
+  - 年度 [[../write/2005-2009|2009]]
+  - 概念 [[../concepts/electron-localization-function]]、[[../concepts/steepest-ascent]]
+  - 实体 [[../entities/Gaussian-98]]、[[../entities/PAW]]、[[../entities/Vanderbilt-ultrasoft]]
   - 相关论文 [[../../raw/note/tangGridbasedBaderAnalysis2009]]
 
 ## 📊 关键图表

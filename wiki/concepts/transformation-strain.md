@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# transformation-strain
 
-# 转变应变
-
-转变应变（transformation strain）：以顺电相为参考，用 2×2 Green-Lagrange 应变张量量化不同铁电变体间晶格畸变，含轴向分量 e_xx/e_yy 与剪切分量 e_xy。
-
-## Related Papers
-
-- [[../papers/gaoStrainEngineeringFerroelectric2024]]
+- [[../papers/gaoStrainEngineeringFerroelectric2024]] — Strain engineering of ferroelectric polarization and domain in the two-dimensional multiferroic semiconductor
+- [[../papers/wuElectrostaticGatingIntercalation2022]] — Electrostatic gating and intercalation in 2D materials

@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/dudarevElectronenergylossSpectraStructural1998a]]
 projects: []
-concepts: [density-functional-theory]
+concepts: [density-functional-theory, NiO, hubbard-u, mott-insulator, double-counting-correction, electron-energy-loss-spectroscopy, lsda-plus-u]
 entities: []
 methods: [dft, dft-plus-u]
 materials:
@@ -59,7 +59,7 @@ S. L. Dudarev, G. A. Botton, S. Y. Savrasov, C. J. Humphreys, A. P. Sutton et al
 ## 🔗 Wiki 双链
 本文涉及且 wiki 中已存在的条目，用双链列出（存在才链）：
   - 概念 [[../concepts/density-functional-theory]]、[[../concepts/lsda-plus-u|LSDA+U]]、[[../concepts/hubbard-u|Hubbard U]]、[[../concepts/mott-insulator|莫特绝缘体]]、[[../concepts/double-counting-correction|双计数修正]]、[[../concepts/electron-energy-loss-spectroscopy|电子能量损失谱（EELS）]]、[[../concepts/NiO|氧化镍（NiO）]]
-  - 年度 [[../write/1998]]
+  - 年度 [[../write/1945-1999|1998]]
   - 相关论文 **dudarevElectronenergylossSpectraStructural1998a**
 ## 📊 关键图表
 列出本文关键图

@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# neutral-ionic-transition
 
-# 中性-离子相变 / Neutral-Ionic Transition
-
-给体-受体体系中电荷转移度随温度/压力突变的量子相变，伴随二聚化与自旋-Peierls 物理
-
-## Related Papers
-
-- [[../papers/Wixtrom2011electrical]]
+- [[../papers/Wixtrom2011electrical]] — Electrical and Optical Properties of a New Polymorph of the Tetrathiafulvalene-Chloranil (TTF-CA) Charge Transfer Salt

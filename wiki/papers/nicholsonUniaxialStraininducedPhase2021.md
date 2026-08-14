@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/nicholsonUniaxialStraininducedPhase2021]]
 projects: []
-concepts: [2D-materials, charge-density-wave, density-functional-theory, strain-engineering]
-entities: [TMDs, VASP, WTe2]
+concepts: [2D-materials, charge-density-wave, density-functional-theory, strain-engineering, ir-dimerization, charge-order, interlayer-depolymerization, type-ii-dirac-semimetal, uniaxial-strain-device, lifshitz-transition]
+entities: [TMDs, VASP, WTe2, IrTe2]
 methods: [arpes, dft, stm-mbe, tight-binding, xps]
 materials: [TMDs, WTe2]
 figures: [electronic-bands-dos-fermi]
@@ -71,7 +71,7 @@ Christopher W. Nicholson, Maxime Rumo, Aki Pulkkinen, Geoffroy Kremer, Björn Sa
 
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/strain-engineering]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/density-functional-theory]]
   - 概念 [[../concepts/charge-density-wave]]
   - 概念 [[../concepts/charge-order|电荷有序]]
@@ -85,8 +85,8 @@ Christopher W. Nicholson, Maxime Rumo, Aki Pulkkinen, Geoffroy Kremer, Björn Sa
   - 实体 [[../entities/WTe2]]
   - 实体 [[../entities/IrTe2|IrTe₂]]
   - 图表 [[../figures/electronic-bands]]
-  - 图表 [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
-  - 年度 [[../write/2021]]
+  - 图表 [[../figures/heterostructures-stacking|自旋电子学与应变工程]]
+  - 年度 [[../write/2020-2024|2021]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/nicholsonUniaxialStraininducedPhase2021]]
 

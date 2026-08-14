@@ -70,7 +70,7 @@ Qingmei Sui, Mingshun Jiang*, Zhongwei Jin, Faye Zhang, Yuqiang Cao, Lei Jia（�
   - 实体 [[../entities/PAH-PSS-multilayer|PAH/PSS 聚电解质多层膜]]、[[../entities/hollow-core-photonic-crystal-fiber|空芯光子晶体光纤（HCPCF）]]
   - 图表 [[../figures/optical-spectra]]（反射干涉光谱、条纹对比度）
   - 图表 [[../figures/experimental-setups]]（湿度腔+MOI SM130 测试装置）
-  - 年度 [[../write/2014]]
+  - 年度 [[../write/2010-2014|2014]]
   - 项目 [[../projects/project-6-humidity-sensor]]（直接对应：光纤相对湿度传感器）
   - 相关论文 [[../../raw/note/Unknown2014optical]]
 

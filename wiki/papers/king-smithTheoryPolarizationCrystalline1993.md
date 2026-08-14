@@ -95,7 +95,7 @@ R. D. King-Smith、David Vanderbilt（Rutgers 大学），1993 年，*Physical R
   - 实体 [[../entities/Wannier90]]
   - 实体 [[../entities/Quantum-ESPRESSO|Quantum ESPRESSO]]
   - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/1993]]
+  - 年度 [[../write/1945-1999|1993]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/king-smithTheoryPolarizationCrystalline1993]]

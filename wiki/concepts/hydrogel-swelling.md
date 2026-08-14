@@ -1,17 +1,3 @@
----
-tags: [concept, physics, sensor]
----
+# hydrogel-swelling
 
-# 水凝胶溶胀 (Hydrogel Swelling)
-
-水凝胶溶胀是指交联聚合物网络在特定溶剂（如水）中吸收溶剂分子并发生体积膨胀的物理现象。其核心机制遵循 **Flory-Rehner 理论**，由混合自由能（熵驱动的溶剂渗入）与弹性还原能（交联网络的反向拉力）之间的平衡决定。当环境湿度变化时，凝胶内部的化学势平衡被破坏，导致水分子的吸附或解吸，从而引起宏观体积的非线性变化。
-
-## 物理机制与微观结构
-从微观动力学角度看，琼脂糖（Agarose）等生物多糖凝胶的溶胀受其三维网状结构约束。在高湿度环境下，水分子通过氢键与聚合物链上的羟基结合，导致聚合物链段的构象熵增加，引起网络孔径（Mesh Size）增大。这种物理变化直接调制了材料的有效折射率：根据 **Maxwell-Garnett 混合介质理论**，由于水分子的折射率（$n \approx 1.33$）显著低于干态聚合物（$n \approx 1.50$），溶胀过程会导致凝胶层的有效折射率单调下降。这一过程通常伴随着非线性的灵敏度响应，特别是在接近饱和湿度（90-100% RH）时，由于毛细冷凝效应的增强，折射率的变化率会呈数量级增长 [[../papers/XiaokangZhang2013calibrating]]。
-
-## 倏逝场传感应用
-在光纤传感领域，水凝胶常被涂覆在去包层光纤（如 DCSMF）表面作为敏感包层。当光信号在纤芯内传输时，其能量的一部分以 **[[evanescent-wave|倏逝波]]** 的形式渗透入凝胶层。凝胶溶胀引起的折射率降低会减弱倏逝场与物质的相互作用，从而改变输出光功率。研究表明，环境温度会通过影响饱和水汽压来调制吸湿平衡，产生显著的温-湿交叉敏感特性 [[../papers/XiaokangZhang2013calibrating]]。这种物理耦合要求在工程应用中引入复杂的查找表或解耦校准矩阵，以实现在混凝土监测等恶劣环境下的高精度测量。
-
-## Related Papers
-
-- [[../papers/XiaokangZhang2013calibrating]]
+- [[../papers/XiaokangZhang2013calibrating]] — Calibrating an optical fiber humidity sensor and applying it in real-time monitoring of relative humidity in fresh concrete

@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# kerker-preconditioning
 
-# Kerker Preconditioning
-
-Kerker 预条件矩阵 G_q = A·q²/(q²+q₀²)，在小波矢处阻尼电荷密度更新以压制金属中的电荷晃动。
-
-## Related Papers
-
-- [[../papers/kresseEfficientIterativeSchemes1996d]]
+- [[../papers/kresseEfficientIterativeSchemes1996d]] — Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set

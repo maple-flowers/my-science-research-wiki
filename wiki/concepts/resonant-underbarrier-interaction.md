@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# resonant-underbarrier-interaction
 
-# 共振欠势垒相互作用
-
-共振欠势垒相互作用：分居势垒两侧的准束缚态通过波函数隧穿尾重叠发生耦合
-
-## Related Papers
-
-- [[../papers/ivanovskiOscillationStructureHall1994]]
+- [[../papers/ivanovskiOscillationStructureHall1994]] — The oscillation structure of the Hall current in the presence of a contact surface

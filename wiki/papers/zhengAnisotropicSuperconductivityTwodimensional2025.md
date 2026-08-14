@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/zhengAnisotropicSuperconductivityTwodimensional2025]]
 projects: [project-4, project-7]
-concepts: [2D-materials, charge-density-wave, density-functional-theory]
-entities: [MXenes, TMDs, Wannier90]
+concepts: [2D-materials, charge-density-wave, density-functional-theory, fermi-surface-nesting, flat-band, anisotropic-superconductivity, kagome-lattice, migdal-eliashberg-theory, electron-phonon-coupling, van-hove-singularity, 2d-mof]
+entities: [MXenes, TMDs, Wannier90, EPW, Quantum-ESPRESSO, Cu3CS6, Cu3CO6]
 methods: [berry-phase, dfpt, dft, mlip]
 materials: [MXenes, TMDs]
 figures: [electronic-bands-dos-fermi, vibrational-spectra]
@@ -75,7 +75,7 @@ Jing-Jing Zheng、Jingyu Li、Rong-Rong Ma、Fengkai Guo、Jiang-Jiang Ma、Peng
 通过第一性原理 DFPT + 各向异性 Migdal–Eliashberg 计算，首次预测已实验合成的二维 kagome 金属-有机框架 Cu3(CO)6 单层是 Tc = 16.5 K 的单能隙各向异性 BCS 超导体，其强电-声耦合（λ=0.72）由费米面嵌套驱动、主要来自 Cu/O 低能声子。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials|二维材料]]
+  - 概念 [[../concepts/2d-materials|二维材料]]
   - 概念 [[../concepts/density-functional-theory|密度泛函理论 DFT]]
   - 概念 [[../concepts/charge-density-wave|电荷密度波 CDW]]（文中以电子磁化率 χ′′(q) 讨论费米面嵌套，并明确把 CDW 列为该体系潜在的竞争序；引用 Calandra & Mauri 关于 TiSe2 中 CDW+超导穹顶的工作）
   - 概念 [[../concepts/kagome-lattice|笼目晶格 kagome lattice]]（共顶点三角形构成的二维图案，天然产生狄拉克锥、平带与范霍夫奇点，是本文 Cu 子晶格的核心几何）
@@ -92,8 +92,8 @@ Jing-Jing Zheng、Jingyu Li、Rong-Rong Ma、Fengkai Guo、Jiang-Jiang Ma、Peng
   - 实体 [[../entities/Cu3CS6|Cu3(CS)6 / Cu-BHT]]（硫代类似物，2D-MOF 中首个被预测 Tc=4.43 K 并在块体 ≈0.25 K 观测到超导的体系）
   - 实体 [[../entities/Quantum-ESPRESSO|Quantum ESPRESSO]]（DFT/DFPT 计算软件）
   - 实体 [[../entities/EPW|EPW]]（基于 Wannier 插值计算电声耦合与各向异性 Eliashberg 方程的代码）
-  - 图表 [[../figures/electronic-bands]]、[[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程 (Spintronics & Strain Engineering)]]
-  - 年度 [[../write/2025]]
+  - 图表 [[../figures/electronic-bands]]、[[../figures/heterostructures-stacking|自旋电子学与应变工程 (Spintronics & Strain Engineering)]]
+  - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/zhengAnisotropicSuperconductivityTwodimensional2025]]
 

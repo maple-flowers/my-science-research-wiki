@@ -1,11 +1,3 @@
----
-tags: [entity, stub]
----
+# Mn2NO2
 
-# 对称Mn2NO2，半金属性的代表体系
-
-对称Mn2NO2，半金属性的代表体系
-
-## Related Papers
-
-- [[../papers/chen3dLevelSymmetry2025]]
+- [[../papers/chen3dLevelSymmetry2025]] — 3d-level symmetry between metal layers governing the electronic configuration of Mn2N MXenes and enabling modulation between half-metallicity and semiconductivity

@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# mixed-valence
 
-# 混合价态）
-
-混合价态）：同一元素在化合物中以两种氧化态共存（本文 Cu(II)/Cu(I)），局域 d 电子作为散射中心影响电导率；可作为普适概念条目。
-
-## Related Papers
-
-- [[../papers/Unknown2003charge]]
+- [[../papers/Scremin2018nonlinear]] — Nonlinear absorption of tetrathiafulvalene radical cation (TTF+) based charge transfer (CT) aggregates in PMMA
+- [[../papers/Unknown2003charge]] — Bis(ethylenedithio)tetrathiafulvalene (BEDT-TTF) Charge Transfer Compounds with Copper(II) Halides: (BEDT-TTF)₁.₅CuX₂(X=Cl, Br)

@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# switchable-diode
 
-# 可切换二极管）
-
-可切换二极管）：铁电极化调制两端金属-半导体肖特基势垒，使整流方向可被电场反转。
-
-## Related Papers
-
-- [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]]
+- [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]] — Intercorrelated In-Plane and Out-of-Plane Ferroelectricity in Ultrathin Two-Dimensional Layered Semiconductor In2Se3

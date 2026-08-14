@@ -91,11 +91,13 @@ Hong-Miao Zhao, Hang Zhou, Wei Gan, Hui Han, Hui Li, Rui-Chun Xiao et al.，2024
 ## 💡 一句话
 通过对称性分析与 DFT 计算证明，二维层间滑移多铁材料的四个多铁态（P↑N↑/P↑N↓/P↓N↓/P↓N↑）在克尔效应（反常光电导 σ^A_xy）和 SHG 张量上具有严格可区分的"光学指纹"，斜入射 PPP 偏振分辨 SHG 的"六瓣花"图案可无损识别全部四个态。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/sliding-ferroelectricity]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/symmetry-analysis|对称性分析]]、[[../concepts/optical-kerr-effect|磁光克尔效应]]、[[../concepts/second-harmonic-generation|二次谐波产生]]、[[../concepts/neel-vector|奈尔矢量]]、[[../concepts/anomalous-hall-effect|反常霍尔效应]]、[[../concepts/magnetic-point-group|磁点群]]、[[../concepts/d0-rule|d⁰规则]]
+  - 概念 [[../concepts/sliding-ferroelectricity]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2d-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/symmetry-analysis|对称性分析]]、[[../concepts/optical-kerr-effect|磁光克尔效应]]、[[../concepts/second-harmonic-generation|二次谐波产生]]、[[../concepts/neel-vector|奈尔矢量]]、[[../concepts/anomalous-hall-effect|反常霍尔效应]]、[[../concepts/magnetic-point-group|磁点群]]、[[../concepts/d0-rule|d⁰规则]]
   - 实体 [[../entities/VASP]]、[[../entities/Wannier90]]、[[../entities/Fe3GeTe2]]、[[../entities/VSe2]]、[[../entities/MnBi2Te4]]、[[../entities/WRFP]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/optical-spectra]]、[[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - 年度 [[../write/2024]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/optical-spectra]]、[[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 年度 [[../write/2020-2024|2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
+  - 概念 [[../concepts/inversion-symmetry]]、[[../concepts/time-reversal-symmetry]]
+  - 实体 [[../entities/FINDSYM]]
   - 相关论文 [[../../raw/note/zhaoOpticalFingerprintsTwodimensional2024]]
 ## 📊 关键图表
   - ![图1 层间堆叠/滑移方式与四多铁态的对称性联结](../../raw/figures/zhaoOpticalFingerprintsTwodimensional2024/fig_1_PSWKHEGL.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]

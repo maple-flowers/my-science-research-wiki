@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# parabolic-cylinder-functions
 
-# 抛物柱函数
-
-抛物柱函数：求解谐振子型微分方程的一类特殊函数
-
-## Related Papers
-
-- [[../papers/ivanovskiOscillationStructureHall1994]]
+- [[../papers/ivanovskiOscillationStructureHall1994]] — The oscillation structure of the Hall current in the presence of a contact surface

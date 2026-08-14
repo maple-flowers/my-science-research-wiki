@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# polarizability-matrix
 
-# 微观极化率矩阵
-
-微观极化率矩阵 χ⁰(G,G';q,ω)，Adler-Wiser 公式，是 DFT/GW 光学与屏蔽计算的核心量。
-
-## Related Papers
-
-- [[../papers/gajdosLinearOpticalProperties2006]]
+- [[../papers/gajdosLinearOpticalProperties2006]] — Linear optical properties in the projector-augmented wave methodology

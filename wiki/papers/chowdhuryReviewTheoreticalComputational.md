@@ -78,7 +78,7 @@ Sugata Chowdhury、Heather M. Hill、Albert F. Rigosi、Patrick M. Vora、Angela
 本文涉及且 wiki 中已存在的条目，用双链列出（存在才链）：
   - 概念 [[../concepts/charge-density-wave]]
   - 概念 [[../concepts/density-functional-theory]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/spin-orbit-coupling]]
   - 概念 [[../concepts/strain-engineering]]
   - 概念 [[../concepts/moire-superlattice]]（展望中提到转角/异质结对 CDW 的调控）
@@ -87,7 +87,7 @@ Sugata Chowdhury、Heather M. Hill、Albert F. Rigosi、Patrick M. Vora、Angela
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/vibrational-spectra]]
   - 图表 [[../figures/heterostructures-stacking]]
-  - 年度 [[../write/Unknown]]（笔记元数据 date 为 NaN；按参考文献推断可补入 2021/2022）
+  - 年度 [[../write/2020-2024|2022]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 **chowdhuryReviewTheoreticalComputational**
 

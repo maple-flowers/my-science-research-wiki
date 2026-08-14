@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# domain-wall-energy
 
-# 畴壁能）
-
-畴壁能）：形成单位面积畴壁所需能量，传统上对应 Kittel 公式中的 C/w 项。
-
-## Related Papers
-
-- [[../papers/prosandeevKittelLawInBiFeO3Ultrathin2010]]
+- [[../papers/gomez-ortizKittelLawDomain2023]] — Kittel law and domain formation mechanism in PbTiO3/SrTiO3 superlattices
+- [[../papers/prosandeevKittelLawInBiFeO3Ultrathin2010]] — Kittel Law in BiFeO3 Ultrathin Films: A First-Principles-Based Study
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]] — Sliding ferroelectricity in two-dimensional materials and device applications

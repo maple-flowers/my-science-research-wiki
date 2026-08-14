@@ -1,13 +1,5 @@
----
-tags: [concept, stub]
----
+# lone-pair-ferroelectricity
 
-# 孤对电子驱动铁电性
-
-孤对电子驱动铁电性：Pb²⁺(6s²)、Bi³⁺(6s²)、Ge²⁺(4s²) 等的立体化学活性孤对驱动极性畸变，能级远离费米面，对掺杂鲁棒。
-
-## Related Papers
-
-- [[../papers/bhowalPolarMetalsPrinciples2023b]]
-- [[../papers/rameshMultiferroicsProgressProspects2007]]
-- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]]
+- [[../papers/Kim2008effect]] — Effect of epitaxial strain on ferroelectric polarization in multiferroic BiFeO3 films
+- [[../papers/bhowalPolarMetalsPrinciples2023b]] — Polar Metals: Principles and Prospects
+- [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films

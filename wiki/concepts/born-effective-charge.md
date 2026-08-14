@@ -1,11 +1,8 @@
----
-tags: [concept, stub]
----
+# born-effective-charge
 
-# 玻恩有效电荷 / Born Effective Charge
-
-Z*_{α,β}= (Ω/e) ∂P_α/∂u_β，原子位移引起的极化响应张量，是铁电/压电材料的关键微观量，可由 Berry 相方法直接计算。
-
-## Related Papers
-
-- [[../papers/king-smithTheoryPolarizationCrystalline1993]]
+- [[../papers/bhowalPolarMetalsPrinciples2023b]] — Polar Metals: Principles and Prospects
+- [[../papers/gomez-ortizKittelLawDomain2023]] — Kittel law and domain formation mechanism in PbTiO3/SrTiO3 superlattices
+- [[../papers/kaurRecentAdvancesTheoretical2025a]] — Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials
+- [[../papers/king-smithTheoryPolarizationCrystalline1993]] — Theory of polarization of crystalline solids
+- [[../papers/laiTwodimensionalFerromagnetismDriven2019]] — Two-dimensional ferromagnetism and driven ferroelectricity in van der Waals CuCrP₂S₆
+- [[../papers/zhangEmergingFrontiersTwodimensional2025]] — Emerging frontiers in two-dimensional sliding ferroelectrics

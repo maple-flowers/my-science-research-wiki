@@ -1,11 +1,6 @@
----
-tags: [concept, stub]
----
+# pbe-functional
 
-# Pbe Functional
-
-PBE 泛函本身，本文提出，应作为 GGA 的核心条目独立成文。
-
-## Related Papers
-
-- [[../papers/perdewGeneralizedGradientApproximation1996a]]
+- [[../papers/chenStrongSlidingFerroelectricity2024]] — Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI₂ Layers
+- [[../papers/lezoualchStudyChargeDensity]] — Study of charge density waves in transition metal dichalcogenides
+- [[../papers/perdewGeneralizedGradientApproximation1996a]] — Generalized Gradient Approximation Made Simple
+- [[../papers/shuTwoDimensionalBlackArsenic2020]] — Two-Dimensional Black Arsenic Phosphorus for Ultrafast Photonics in Near- and Mid-Infrared Regimes

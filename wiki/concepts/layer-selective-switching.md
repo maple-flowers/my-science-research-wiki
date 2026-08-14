@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# layer-selective-switching
 
-# 层选择性翻转）
-
-层选择性翻转）：由于各层化学/对称环境不等价，其 PI 翻转势垒存在 ~10 meV/f.u. 差异，电场可逐层选择性翻转。
-
-## Related Papers
-
-- [[../papers/tangCombiningIntrinsicSlidinginduced2025]]
+- [[../papers/fiebigEvolutionMultiferroics2016]] — The evolution of multiferroics
+- [[../papers/tangCombiningIntrinsicSlidinginduced2025]] — Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectrics

@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# crispr-cas12a
 
-# CRISPR-Cas12a反式切割机制及其在生物传感中的信号放大应用
-
-CRISPR-Cas12a反式切割机制及其在生物传感中的信号放大应用
-
-## Related Papers
-
-- [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]]
+- [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]] — Ultrasensitive optoelectronic biosensor arrays based on twisted bilayer graphene superlattice

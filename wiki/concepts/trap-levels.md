@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# trap-levels
 
-# 陷阱能级，长余辉/应力发光材料中储存载流子的缺陷能级，机械能或热能可释放其中载流子并激发发光中心。
-
-陷阱能级，长余辉/应力发光材料中储存载流子的缺陷能级，机械能或热能可释放其中载流子并激发发光中心。
-
-## Related Papers
-
-- [[../papers/Terasaki2011ultrasonic]]
+- [[../papers/KumarChoubey2011mechanoluminescence]] — Mechanoluminescence & Thermoluminescence of SrAl2O4:Eu Nano-Phosphors
+- [[../papers/Terasaki2011ultrasonic]] — Ultrasonic Wave Induced Mechanoluminescence

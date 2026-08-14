@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# canonical-ensemble
 
-# 正则系综
-
-正则系综（NVT），玻尔兹曼分布 exp(-H/kT)，可与 microcanonical-ensemble、npt-ensemble 互链。
-
-## Related Papers
-
-- [[../papers/noseUnifiedFormulationConstant1984]]
+- [[../papers/noseUnifiedFormulationConstant1984]] — A unified formulation of the constant temperature molecular dynamics methods

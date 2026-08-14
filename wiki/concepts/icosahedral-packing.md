@@ -1,13 +1,6 @@
----
-tags: [concept, stub]
----
+# icosahedral-packing
 
-
-# 二十面体密堆积 / Icosahedral Packing (Ih)
-
-二十面体（Ih）密堆积，五重对称、几何壳层闭合（13/55/147…），小团簇因表面能最低而偏好
-
-## Related Papers
-
-- [[../papers/Zhang2019c]]
-- [[../papers/Zhang2019a]]
+- [[../papers/Zhang2019a]] — Studying Stability of Atom Packing for Ti Nanoparticles on Heating by Molecular Dynamics Simulations
+- [[../papers/Zhang2019b]] — Packing Changes in Melting, Freezing, and Coalescence of Titanium Nanoparticles from Atomic Simulations
+- [[../papers/Zhang2019c]] — Atomic simulations of packing patterns and thermal behavior in Ti clusters
+- [[../papers/kresseInitiomolecularDynamicsLiquid1993]] — <i>Ab initio</i> molecular dynamics for liquid metals

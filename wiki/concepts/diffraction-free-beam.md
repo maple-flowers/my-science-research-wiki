@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# diffraction-free-beam
 
-# 无衍射光束及其无衍射区/主瓣概念。
-
-无衍射光束及其无衍射区/主瓣概念。
-
-## Related Papers
-
-- [[../papers/Jia2023polymerization]]
+- [[../papers/Jia2023polymerization]] — Two-photon polymerization of femtosecond high-order Bessel beams with aberration correction
+- [[../papers/Wang2023ultracompact]] — Ultracompact phase plate fabricated by femtosecond laser two-photon polymerization for generation of Mathieu–Gauss beams

@@ -91,11 +91,12 @@ Tang, Tian, Ouyang, Pan, Chen et al.，2025，Physical Review B 111, L081407，D
 在同一二维范德华体系中结合本征极化（PI，离子位移、高势垒）与滑移诱导极化（PS，层间电子重构、低势垒），利用两者势垒相差一个数量级而实现电场分级控制，在 H 堆叠 1T″-MoSe₂ 双层/三层中分别预测出 6 个和 10 个可切换极化态。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/sliding-ferroelectricity|滑移铁电性]]、[[../concepts/polarization-switching|极化翻转]]、[[../concepts/berry-phase|Berry相位]]、[[../concepts/2D-materials|二维材料]]、[[../concepts/ferroelectric-tunnel-junction|铁电隧道结]]、[[../concepts/charge-density-wave|电荷密度波]]、[[../concepts/composite-ferroelectricity|复合铁电体]]、[[../concepts/polarization-multistates|极化多态]]、[[../concepts/layer-selective-switching|层选择性翻转]]、[[../concepts/interlayer-polarization-coupling|层间极化耦合]]
+  - 概念 [[../concepts/sliding-ferroelectricity|滑移铁电性]]、[[../concepts/polarization-switching|极化翻转]]、[[../concepts/berry-phase|Berry相位]]、[[../concepts/2d-materials|二维材料]]、[[../concepts/ferroelectric-tunnel-junction|铁电隧道结]]、[[../concepts/charge-density-wave|电荷密度波]]、[[../concepts/composite-ferroelectricity|复合铁电体]]、[[../concepts/polarization-multistates|极化多态]]、[[../concepts/layer-selective-switching|层选择性翻转]]、[[../concepts/interlayer-polarization-coupling|层间极化耦合]]
   - 实体 [[../entities/VASP]]、[[../entities/TMDs]]、[[../entities/h-BN]]、[[../entities/In2Se3]]、[[../entities/SnTe]]
-  - 图表 [[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
-  - 年度 [[../write/2025]]
+  - 图表 [[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]
+  - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
+  - 实体 [[../entities/MoSe2]]、[[../entities/1T-double-prime-TMD]]
   - 相关论文 [[../../raw/note/tangCombiningIntrinsicSlidinginduced2025]]
 
 ## 🆕 新概念/实体建议

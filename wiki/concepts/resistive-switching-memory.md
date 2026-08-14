@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# resistive-switching-memory
 
-# 阻变存储器
-
-阻变存储器（RRAM/忆阻器）基本概念，双极性/单极性开关、HRS/LRS、SET/RESET、导电细丝模型
-
-## Related Papers
-
-- [[../papers/sattarFunctionalizedDoubleTransition2025]]
+- [[../papers/sattarFunctionalizedDoubleTransition2025]] — Functionalized double transition metal Mo2Ti2C3Tx ferroelectric MXene and laser-reduced graphene based flexible memristors for next-generation two-dimensional ferrotronics

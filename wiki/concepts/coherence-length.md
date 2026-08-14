@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# coherence-length
 
-# 相干长度，本文揭示超导相干长度与
-
-相干长度，本文揭示超导相干长度与 CDW 波长之间的尺度竞争
-
-## Related Papers
-
-- [[../papers/Koley2020charge]]
+- [[../papers/Koley2020charge]] — Charge density wave and superconductivity in transition metal dichalcogenides
+- [[../papers/majumdarInterplayChargeDensity2020]] — Interplay of charge density wave and multiband superconductivity in layered quasi-two-dimensional materials: The case of 2H-NbS₂ and 2H-NbSe₂

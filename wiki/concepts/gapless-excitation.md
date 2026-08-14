@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# gapless-excitation
 
-# 无隙激发）
-
-无隙激发）：费米面处无能隙的准粒子激发，即金属性；CDW 相中部分能带保持无隙是本文解释对象。
-
-## Related Papers
-
-- [[../papers/Barnett2006coexistence]]
+- [[../papers/Barnett2006coexistence]] — Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides

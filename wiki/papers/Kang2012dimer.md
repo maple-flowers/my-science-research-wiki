@@ -80,8 +80,10 @@ Jian Kang, Zlatko Tešanović，2012，Physical Review B 85, 220507(R)，DOI 10.
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/charge-density-wave]]、[[../concepts/antiferromagnetism|反铁磁性]]、[[../concepts/fermi-surface-nesting|费米面嵌套]]、[[../concepts/nematic-order|向列序]]、[[../concepts/orbital-content|轨道成分]]、[[../concepts/pocket-density-wave|口袋密度波]]、[[../concepts/quasiparticle-interference|准粒子干涉]]、[[../concepts/reconstructed-nesting|重构嵌套]]、[[../concepts/spin-density-wave|自旋密度波]]
   - 图表 [[../figures/electronic-bands]]、[[../figures/mathematical-models]]
-  - 年度 [[../write/2012]]
+  - 年度 [[../write/2010-2014|2012]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]、[[../projects/project-2-mn-multiferroics]]
+  - 概念 [[../concepts/c4-symmetry-breaking]]
+  - 实体 [[../entities/iron-pnictides]]
   - 相关论文 [[../../raw/note/Kang2012dimer]]
 ## 🆕 新概念/实体建议
   - `fermi-surface-nesting`（费米面嵌套）：费米面不同片段经波矢平移后高度重合，是密度波不稳定性的几何驱动力。

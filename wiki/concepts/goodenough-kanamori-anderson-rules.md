@@ -1,12 +1,4 @@
----
-tags: [concept, stub]
----
+# goodenough-kanamori-anderson-rules
 
-# GKA规则，根据M-X-M键角和d电子数预测超交换符号的半经验规则；键角接近90°时倾向FM。
-
-GKA规则，根据M-X-M键角和d电子数预测超交换符号的半经验规则；键角接近90°时倾向FM。
-
-## Related Papers
-
-- [[../papers/chenFerromagneticNonmagnetic1T2022]]
-- [[../papers/yuFerroelectricControlMagnetism2026]]
+- [[../papers/chenFerromagneticNonmagnetic1T2022]] — Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition
+- [[../papers/yuFerroelectricControlMagnetism2026]] — Ferroelectric Control of Magnetism and Giant Magnetoresistance Via Intercalation-Induced Symmetry Breaking in Two-Dimensional Multiferroics with Strong Magnetoelectric Coupling

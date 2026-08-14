@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# dna-origami
 
-# DNA折纸术
-
-DNA折纸术：利用Watson-Crick碱基配对自组装精确纳米结构的技术
-
-## Related Papers
-
-- [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]]
+- [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]] — Ultrasensitive optoelectronic biosensor arrays based on twisted bilayer graphene superlattice

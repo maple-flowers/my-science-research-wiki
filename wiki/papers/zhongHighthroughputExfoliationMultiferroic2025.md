@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/zhongHighthroughputExfoliationMultiferroic2025]]
 projects: []
-concepts: [2D-materials, altermagnetism, berry-phase, binding-strength, bond-density, density-functional-theory, ferroelasticity, giant-spin-splitting, magnetoelectric-coupling, multiferroicity, phase-interlocked, spin-orbit-coupling, strain-engineering]
-entities: [BiFeO3, MnVO3, NaZnO3, SrIrO3, SrMoO3, SrOsO3, TMDs, VASP, Wannier90, ZnPbO3, h-BN]
+concepts: [2D-materials, altermagnetism, berry-phase, binding-strength, bond-density, density-functional-theory, ferroelasticity, giant-spin-splitting, magnetoelectric-coupling, multiferroicity, phase-interlocked, spin-orbit-coupling, strain-engineering, rashba-effect, non-vdw-exfoliation, magnetic-force-theory, cneb, spin-texture, superexchange, half-metal, exfoliation-energy, cohp-icohp]
+entities: [BiFeO3, MnVO3, NaZnO3, SrIrO3, SrMoO3, SrOsO3, TMDs, VASP, Wannier90, ZnPbO3, h-BN, LaCuO3, SrTiO3, BaTiO3]
 methods: [afm-pfm, berry-phase, dfpt, dft, monte-carlo, neb]
 materials: [BiFeO3, MnVO3, NaZnO3, SrIrO3, SrMoO3, SrOsO3, TMDs, ZnPbO3, h-BN]
 figures: [crystal-structures-bulk, crystal-structures-xrd-phases, electronic-bands-band-structures, mathematical-models-elasticity-strain, mathematical-models-simulations]
@@ -97,10 +97,10 @@ Yongle Zhong, Yuxiang Xiao, Zhengfang Qian, Wen Xiong, Pu Huang（深圳大学�
 提出"键密度 + 面内/面外结合强度"通用判据，从 831 种 ABO₃ 钙钛矿中非范德华块体高通量筛出 35 种可剥离稳定单层，并以 SrOsO₃/SrIrO₃/SrMoO₃/BiFeO₃ 为范例揭示室温以上磁转变温度、0.606 eV 巨自旋劈裂及微应变驱动的相锁定电子-自旋调控。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/giant-spin-splitting]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/bond-density]]、[[../concepts/binding-strength]]、[[../concepts/ferroelasticity]]、[[../concepts/altermagnetism]]、[[../concepts/phase-interlocked]]、[[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/exfoliation-energy]]、[[../concepts/non-vdw-exfoliation]]、[[../concepts/half-metal]]、[[../concepts/rashba-effect]]、[[../concepts/superexchange]]、[[../concepts/cohp-icohp]]、[[../concepts/cneb]]、[[../concepts/magnetic-force-theory]]、[[../concepts/spin-texture]]
+  - 概念 [[../concepts/2d-materials]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/giant-spin-splitting]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/bond-density]]、[[../concepts/binding-strength]]、[[../concepts/ferroelasticity]]、[[../concepts/altermagnetism]]、[[../concepts/phase-interlocked]]、[[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/exfoliation-energy]]、[[../concepts/non-vdw-exfoliation]]、[[../concepts/half-metal]]、[[../concepts/rashba-effect]]、[[../concepts/superexchange]]、[[../concepts/cohp-icohp]]、[[../concepts/cneb]]、[[../concepts/magnetic-force-theory]]、[[../concepts/spin-texture]]
   - 实体 [[../entities/BiFeO3]]、[[../entities/SrIrO3]]、[[../entities/SrMoO3]]、[[../entities/SrOsO3]]、[[../entities/NaZnO3]]、[[../entities/MnVO3]]、[[../entities/ZnPbO3]]、[[../entities/VASP]]、[[../entities/Wannier90]]、[[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/BaTiO3]]、[[../entities/LaCuO3]]、[[../entities/SrTiO3]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking-mechanics-misc|力学性质、剥离能与杂项]]
-  - 年度 [[../write/2025]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking|力学性质、剥离能与杂项]]
+  - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-2-mn-multiferroics]]（MnVO₃ 候选与多铁钙钛矿主题直接相关）
   - 相关论文 [[../../raw/note/zhongHighthroughputExfoliationMultiferroic2025]]
 

@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# sc2co2
 
-# 首个理论预测
-
-首个理论预测（Chandrasekaran 2017）具有本征铁电性的 MXene。
-
-## Related Papers
-
-- [[../papers/zahraCriticalAnalysisFerroelectric2025]]
+- [[../papers/zahraCriticalAnalysisFerroelectric2025]] — A critical analysis of ferroelectric and ferromagnetic properties in two-dimensional MXene

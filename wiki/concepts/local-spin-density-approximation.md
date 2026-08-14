@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# local-spin-density-approximation
 
-# LSD/LDA，最基础的交换-关联近似。
-
-LSD/LDA，最基础的交换-关联近似。
-
-## Related Papers
-
-- [[../papers/perdewGeneralizedGradientApproximation1996a]]
+- [[../papers/perdewGeneralizedGradientApproximation1996a]] — Generalized Gradient Approximation Made Simple

@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# polarization-phase-diagram
 
-# 极化-应变相图，把双轴应变
-
-极化-应变相图，把双轴应变 (ε_x, ε_y) 与剪切 γ_xy 映射为极化大小和方向，是应变设计的"蓝图"。
-
-## Related Papers
-
-- [[../papers/xuTunableFerroelectricTopological2022]]
+- [[../papers/xuTunableFerroelectricTopological2022]] — Tunable ferroelectric topological defects on 2D topological surfaces: strain engineering skyrmion-like polar structures in 2D materials

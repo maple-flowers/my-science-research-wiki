@@ -92,7 +92,7 @@ tags:
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/sliding-ferroelectricity]]
   - 概念 [[../concepts/berry-phase]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/spin-orbit-coupling]]
   - 概念 [[../concepts/polarization-switching]]
   - 概念 [[../concepts/multiferroicity]]
@@ -114,10 +114,11 @@ tags:
   - 实体 [[../entities/ZrI2|ZrI₂]]
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/electronic-devices]]
-  - 图表 [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
-  - 年度 [[../write/2024]]
+  - 图表 [[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]
+  - 年度 [[../write/2020-2024|2024]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 实体 [[../entities/Datta-Das-spin-FET]]
   - 相关论文 **chenStrongSlidingFerroelectricity2024**
 
 ## 🆕 新概念/实体建议

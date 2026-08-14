@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Laverock2005fermi]]
 projects: [project-7]
-concepts: [charge-density-wave, fermi-surface-nesting, bilayer-splitting, generalized-susceptibility, brillouin-zone, electronic-band-structure, 2d-materials]
+concepts: [charge-density-wave, fermi-surface-nesting, bilayer-splitting, generalized-susceptibility, brillouin-zone, electronic-band-structure, 2d-materials, fermi-surfaces, commensurate-incommensurate, 2d-acar]
 entities: [GdTe3, LuTe3, LuTe2, RTe3]
 methods: [lmto, dft, first-principles, 2d-acar, positron-annihilation, arpes, lcw-folding, maximum-entropy-deconvolution]
 materials: [GdTe3, LuTe3, LuTe2, RTe3]
@@ -78,11 +78,13 @@ J. Laverock, S. B. Dugdale, Zs. Major, M. A. Alam, N. Ru, I. R. Fisher, G. Santi
 ## 💡 一句话
 结合 2D-ACAR 正电子湮灭实验与 LMTO 第一性原理计算，首次直接观测到稀土三碲化物 RTe₃ 未被 CDW 重构的"裸"费米面，测定嵌套矢量 q = (0.28 ± 0.02, 0, 0) a*，决定性地证实费米面嵌套是驱动该体系 CDW 形成的机制。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2D-materials]]、[[../concepts/fermi-surface-nesting|费米面嵌套]]、[[../concepts/bilayer-splitting|双层劈裂]]、[[../concepts/generalized-susceptibility|广义磁化率]]、[[../concepts/2d-acar|2D-ACAR]]、[[../concepts/commensurate-incommensurate|公度-非公度]]、[[../concepts/fermi-surfaces|费米面]]
+  - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2d-materials]]、[[../concepts/fermi-surface-nesting|费米面嵌套]]、[[../concepts/bilayer-splitting|双层劈裂]]、[[../concepts/generalized-susceptibility|广义磁化率]]、[[../concepts/2d-acar|2D-ACAR]]、[[../concepts/commensurate-incommensurate|公度-非公度]]、[[../concepts/fermi-surfaces|费米面]]
   - 实体 [[../entities/RTe3|RTe₃ 稀土三碲化物]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]
-  - 年度 [[../write/2005]]
+  - 年度 [[../write/2005-2009|2005]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 概念 [[../concepts/brillouin-zone]]、[[../concepts/electronic-band-structure]]
+  - 实体 [[../entities/LuTe3]]、[[../entities/GdTe3]]、[[../entities/LuTe2]]
   - 相关论文 [[../../raw/note/Laverock2005fermi]]
 ## 🆕 新概念/实体建议
   - `GdTe3.md`、`LuTe3.md`、`LuTe2.md`（实体）：本文实验/计算所用具体材料，相关页面尚未建立。

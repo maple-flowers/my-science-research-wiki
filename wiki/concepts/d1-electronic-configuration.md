@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# d1-electronic-configuration
 
-# d¹ 电子构型 / d¹ Electronic Configuration
-
-八面体晶体场下 V⁴⁺ 单电子占据 t₂g 轨道的电子构型，XAS 原子多重态指纹可识别。
-
-## Related Papers
-
-- [[../papers/wongEvidenceMetallic1T]]
+- [[../papers/wongEvidenceMetallic1T]] — Metallic 1T Phase, 3d1 Electronic Configuration and Charge Density Wave Order in Molecular Beam Epitaxy Grown Monolayer Vanadium Ditelluride

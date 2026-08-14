@@ -1,68 +1,45 @@
----
-title: Berry Phase
-type: concept
-tags: [topology, polarization, quantum-mechanics, ferroelectricity]
----
+# berry-phase
 
-# Berry Phase (Geometric Phase)
-
-The **Berry phase**, named after Sir Michael Berry, is a geometric phase acquired by a quantum system during a cyclic adiabatic evolution. Unlike the dynamic phase, which depends on the duration of the process and the energy of the state, the Berry phase depends solely on the path taken in the parameter space.
-
-In the context of condensed matter physics, the parameter space is usually the **Brillouin Zone (BZ)**, and the Berry phase is fundamental to understanding topological insulators, the anomalous Hall effect, and the modern theory of polarization.
-
-## 1. Theoretical Definition
-
-### Berry Connection and Curvature
-For a Bloch state $|u_{n\mathbf{k}}\rangle$ (the cell-periodic part of the wave function), the **Berry connection** $\mathbf{A}_n(\mathbf{k})$ (also called Berry vector potential) is defined as:
-$$\mathbf{A}_n(\mathbf{k}) = i \langle u_{n\mathbf{k}} | \nabla_{\mathbf{k}} | u_{n\mathbf{k}} \rangle$$
-
-The **Berry curvature** $\mathbf{\Omega}_n(\mathbf{k})$ is the "magnetic field" in $\mathbf{k}$-space, defined as the curl of the connection:
-$$\mathbf{\Omega}_n(\mathbf{k}) = \nabla_{\mathbf{k}} \times \mathbf{A}_n(\mathbf{k})$$
-
-### The Berry Phase
-The Berry phase $\gamma_n$ acquired by an electron in band $n$ traversing a closed loop $C$ in the BZ is:
-$$\gamma_n = \oint_C \mathbf{A}_n(\mathbf{k}) \cdot d\mathbf{k}$$
-
-## 2. Modern Theory of Polarization (MTP)
-
-The most significant application of the Berry phase in materials science is the **Modern Theory of Polarization**, established by [[../papers/king-smithTheoryPolarizationCrystalline1993|King-Smith and Vanderbilt (1993)]]. Before this theory, polarization in crystals was ill-defined because it depended on the choice of the unit cell.
-
-King-Smith and Vanderbilt showed that the change in electronic polarization $\Delta \mathbf{P}_{el}$ between two states (e.g., a centrosymmetric reference state and a ferroelectric state) is proportional to the Berry phase of the valence bands:
-$$\Delta \mathbf{P}_{el} = \frac{ife}{8\pi^3} \sum_n \int_{BZ} d\mathbf{k} \langle u_{n\mathbf{k}} | \nabla_{\mathbf{k}} | u_{n\mathbf{k}} \rangle$$
-
-### The Polarization Quantum
-Polarization is not a single-valued vector but a **lattice of values** separated by the "polarization quantum":
-$$\mathbf{P} = \mathbf{P}_{0} + \frac{e\mathbf{R}}{V}$$
-where $\mathbf{R}$ is a lattice vector, $e$ is the electron charge, and $V$ is the unit cell volume.
-
-## 3. Physical Interpretation: Wannier Centers
-
-The Berry phase has a direct real-space interpretation through **Wannier functions**. The center of a Wannier function (WCC) for a given band is determined by the Berry phase integrated over the Brillouin Zone:
-$$\bar{\mathbf{r}}_n = \frac{V}{(2\pi)^3} \int_{BZ} \mathbf{A}_n(\mathbf{k}) d\mathbf{k}$$
-The total electronic polarization is essentially the sum of the displacements of these Wannier centers relative to the ionic positions. In ferroelectric switching, the spontaneous polarization arises from the collective shift of these charge centers.
-
-## 4. Berry Phase in 2D Materials
-
-In modern 2D materials research, Berry phase calculations are the standard method for determining spontaneous polarization in first-principles studies (DFT).
-
-### In2Se3 and III2-VI3 Materials
-[[../papers/dingPredictionIntrinsicTwodimensional2017a|Ding et al. (2017)]] utilized the Berry phase method to predict intrinsic 2D ferroelectricity in $\text{In}_2\text{Se}_3$. They demonstrated that the non-centrosymmetric arrangement of atoms in the quintuple layers leads to a robust out-of-plane and in-plane polarization, which is switchable and persists at room temperature.
-
-### 2D Multiferroics via Intercalation
-Recent high-throughput studies, such as the work by [[../papers/zhaoRealization2DMultiferroic2024|Zhao et al. (2024)]], have applied Berry phase calculations to screen for multiferroic materials in intercalated $\text{AM}_2\text{X}_4$ superlattices.
-
-![Structure of T-AM2X4 and H-AM2X4](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_1_S88Q2EF3.png)
-*Fig 1. Structural diagrams of intercalated 2D materials where Berry phase calculations are used to determine polarization states [[../papers/zhaoRealization2DMultiferroic2024|Zhao2024]].*
-
-![High-throughput screening flowchart](../../raw/figures/zhaoRealization2DMultiferroic2024/fig_2_7QNUMABJ.png)
-*Fig 2. Flowchart of high-throughput screening using first-principles calculations to identify ferroic materials [[../papers/zhaoRealization2DMultiferroic2024|Zhao2024]].*
-
-Key findings in these 2D systems include:
-- **Strong Magnetoelectric Coupling**: The Berry phase-derived polarization can be coupled to magnetic order, allowing for electrical control of magnetism.
-- **Out-of-plane Polarization**: The broken inversion symmetry in intercalated bilayers (like $\text{T-PdZr}_2\text{Se}_4$) results in a significant $P_{out}$ (calculated in pC/m for 2D systems).
-
-## 5. Related Concepts
-- [[topology|Topological Invariants]] (e.g., Chern numbers are integrals of Berry curvature)
-- [[wannier-functions|Wannier Functions]]
-- [[ferroelectricity|Ferroelectricity in 2D]]
-- [[anomalous-hall-effect|Anomalous Hall Effect]]
+- [[../papers/aiFerroelectricityCoexistedPorbital2022]] — Ferroelectricity coexisted with p-orbital ferromagnetism and metallicity in two-dimensional metal oxynitrides
+- [[../papers/bhowalPolarMetalsPrinciples2023b]] — Polar Metals: Principles and Prospects
+- [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]] — Ferroelectricity-driven strain-mediated magnetoelectric coupling in two-dimensional multiferroic heterostructure
+- [[../papers/chenStrongSlidingFerroelectricity2024]] — Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI₂ Layers
+- [[../papers/cheongMultiferroicsMagneticTwist2007a]] — Multiferroics: a magnetic twist for ferroelectricity
+- [[../papers/dingPredictionIntrinsicTwodimensional2017a]] — Prediction of intrinsic two-dimensional ferroelectrics in In2Se3 and other III2-VI3 van der Waals materials
+- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]] — Ferroelectricity and multiferroicity in two-dimensional Sc₂P₂Se₆ and ScCrP₂Se₆ monolayers
+- [[../papers/gajdosLinearOpticalProperties2006]] — Linear optical properties in the projector-augmented wave methodology
+- [[../papers/gaoGiantChiralMagnetoelectric2024a]] — Giant chiral magnetoelectric oscillations in a van der Waals multiferroic
+- [[../papers/gaoStrainEngineeringFerroelectric2024]] — Strain engineering of ferroelectric polarization and domain in the two-dimensional multiferroic semiconductor
+- [[../papers/guanRecentProgressTwoDimensional2020]] — Recent Progress in Two‐Dimensional Ferroelectric Materials
+- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]] — Advances in two-dimensional ferroelectric materials
+- [[../papers/hanTunableSlidingFerroelectricity2025]] — Tunable sliding ferroelectricity in two-dimensional van der Waals RuX2 (X = Cl, Br, and I) multiferroic layers
+- [[../papers/heSwitchingTwodimensionalSliding2025]] — Switching Two-Dimensional Sliding Ferroelectrics by Mechanical Bending
+- [[../papers/heUltrafastSwitchingDynamics2024]] — Ultrafast switching dynamics of the ferroelectric order in stacking-engineered ferroelectrics
+- [[../papers/hillWhyAreThere2000a]] — Why Are There so Few Magnetic Ferroelectrics?
+- [[../papers/huProgressProspectsLowdimensional2019]] — Progress and prospects in low‐dimensional multiferroic materials
+- [[../papers/huangPolarPhaseDomain2019]] — Polar and phase domain walls with conducting interfacial states in a Weyl semimetal MoTe2
+- [[../papers/junqueraCriticalThicknessFerroelectricity2003]] — Critical thickness for ferroelectricity in perovskite ultrathin films
+- [[../papers/kaurRecentAdvancesTheoretical2025a]] — Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials
+- [[../papers/king-smithTheoryPolarizationCrystalline1993]] — Theory of polarization of crystalline solids
+- [[../papers/krishnamurthiSpinChargeDensity2020]] — Spin/charge density waves at the boundaries of transition metal dichalcogenides
+- [[../papers/laiTwodimensionalFerromagnetismDriven2019]] — Two-dimensional ferromagnetism and driven ferroelectricity in van der Waals CuCrP₂S₆
+- [[../papers/liPhaseTransitions2D2021]] — Phase transitions in 2D materials
+- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]] — Spintronics in Two-Dimensional Materials
+- [[../papers/martinThinfilmFerroelectricMaterials2016]] — Thin-film ferroelectric materials and their applications
+- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]] — Multiferroics: different routes to magnetoelectric coupling
+- [[../papers/pedramraziManipulatingTopologicalDomain2019]] — Manipulating Topological Domain Boundaries in the Single-Layer Quantum Spin Hall Insulator 1T′–WSe₂
+- [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]] — A room-temperature ferroelectric semimetal
+- [[../papers/shenEmergenceMultipleFerroelectric2025]] — Emergence of multiple ferroelectric states in multilayer black phosphorus
+- [[../papers/songEvidenceSinglelayerVan2022]] — Evidence for a single-layer van der Waals multiferroic
+- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]] — Advances in magnetoelectric multiferroics
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]] — Sliding ferroelectricity in two-dimensional materials and device applications
+- [[../papers/tangCombiningIntrinsicSlidinginduced2025]] — Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectrics
+- [[../papers/wangTunableD0Topological2025b]] — Tunable d0 topological magnetic states in multiferroic monolayer In2NO2
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]] — Nonvolatile switchable half-metallicity and magnetism in the MXene Hf₂MnC₂O₂/Sc₂CO₂ multiferroic heterostructure
+- [[../papers/wuSlidingFerroelectricity2D2021a]] — Sliding ferroelectricity in 2D van der Waals materials: Related physics and future opportunities
+- [[../papers/xuTunableFerroelectricTopological2022]] — Tunable ferroelectric topological defects on 2D topological surfaces: strain engineering skyrmion-like polar structures in 2D materials
+- [[../papers/xunCoexistingMagnetismFerroelectric2024]] — Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensional Materials
+- [[../papers/yangStrainEngineeringTwodimensional2021]] — Strain engineering of <scp>two‐dimensional</scp> materials: Methods, properties, and applications
+- [[../papers/yuFerroelectricControlMagnetism2026]] — Ferroelectric Control of Magnetism and Giant Magnetoresistance Via Intercalation-Induced Symmetry Breaking in Two-Dimensional Multiferroics with Strong Magnetoelectric Coupling
+- [[../papers/zhaoRealization2DMultiferroic2024]] — Realization of 2D multiferroic with strong magnetoelectric coupling by intercalation: a first-principles high-throughput prediction
+- [[../papers/zhongHighthroughputExfoliationMultiferroic2025]] — High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperature and giant spin splitting

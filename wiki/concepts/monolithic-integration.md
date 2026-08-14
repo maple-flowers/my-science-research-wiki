@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# monolithic-integration
 
-# 单片集成）
-
-单片集成）：由单一材料一次成型、无需后续装配的微系统制造理念。
-
-## Related Papers
-
-- [[../papers/Unknown2022polymerization]]
+- [[../papers/Unknown2014passive]] — Three-Dimensional Passive Micromixer Fabricated by Two-Photon Polymerization for Microfluidic Mixing
+- [[../papers/Unknown2022polymerization]] — Two-photon polymerization for advanced sensor manufacturing

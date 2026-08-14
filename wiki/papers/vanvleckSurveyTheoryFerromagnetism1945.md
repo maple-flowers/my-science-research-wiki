@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/vanvleckSurveyTheoryFerromagnetism1945]]
 projects: []
-concepts: [spin-orbit-coupling]
+concepts: [spin-orbit-coupling, bethe-peierls-weiss-method, heisenberg-model, correlation-energy, antiferromagnetism, bloch-spin-wave, molecular-field, exchange-interaction, brillouin-function, ising-model, stoner-model]
 entities: []
 methods: [stm-mbe]
 materials: []
@@ -70,7 +70,7 @@ J. H. Van Vleck，1945，Reviews of Modern Physics 17(1), 27–47，DOI [10.1103
   - 概念 [[../concepts/ising-model|伊辛模型]]（仅保留 -2J s_zi s_zj 的简化模型）
   - 概念 [[../concepts/correlation-energy|关联能]]（Wigner-Seitz 提出、斯通纳模型所忽略的电子间库仑规避效应）
   - 图表 [[../figures/mathematical-models|数学模型]]（全文以式1–23及6幅理论曲线为骨架，是分子场、交换耦合、自旋波、能带模型的数学汇总）
-  - 年度 [[../write/1945]]
+  - 年度 [[../write/1945-1999|1945]]
   - 相关论文 [[../../raw/note/vanvleckSurveyTheoryFerromagnetism1945]]
 
 ## 🆕 新概念/实体建议

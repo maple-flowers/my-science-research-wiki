@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Delley2000]]
 projects: [project-4, project-5, project-7]
-concepts: [density-functional-theory]
-entities: [VASP]
+concepts: [density-functional-theory, enthalpy-of-formation, brillouin-zone-integration, gga-functional, numerical-atomic-orbitals, pseudopotential]
+entities: [VASP, dmol3]
 methods: [dft]
 materials: []
 figures: [electronic-bands-band-structures, mathematical-models-computational, mathematical-models-simulations]
@@ -76,7 +76,7 @@ B. Delley，2000，*The Journal of Chemical Physics* 113(18), 7756–7764，DOI 
   - 实体 [[../entities/VASP]]（同为平面波/固体 DFT 代码，可作方法对照）
   - 图表 [[../figures/electronic-bands]]（石墨能带与 DOS）
   - 图表 [[../figures/crystal-structures]]（Cu/Si/石墨/α-S8 结构基准）
-  - 年度 [[../write/2000]]
+  - 年度 [[../write/2000-2004|2000]]
   - 项目 [[../projects/project-4-ttf-molecular-calc]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 项目 [[../projects/project-2-mn-multiferroics]]

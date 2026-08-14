@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# ferroelectric-photovoltaic-effect
 
-# 铁电光伏效应）
-
-铁电光伏效应）：短路电流方向与极化方向反向绑定（向下极化 Isc≈+20 nA，向上 Isc≈−30 nA），可无损读出。
-
-## Related Papers
-
-- [[../papers/Chen2016electrical]]
+- [[../papers/Chen2016electrical]] — Electrical and mechanical switching of ferroelectric polarization in the 70 nm BiFeO3 film

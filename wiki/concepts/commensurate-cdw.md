@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# commensurate-cdw
 
-# 公度电荷密度波）
-
-公度电荷密度波）：CDW 波长与晶格周期成有理数比（本文为三倍周期 3×3 超胞）。
-
-## Related Papers
-
-- [[../papers/Barnett2006coexistence]]
+- [[../papers/Barnett2006coexistence]] — Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides
+- [[../papers/Inosov2008fermi]] — Fermi surface nesting in several transition metal dichalcogenides

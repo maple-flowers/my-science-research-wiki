@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# intercalation-engineering
 
-# 插层工程 / Intercalation Engineering
-
-通过层间原子插层/空位调制化学计量，打破反演对称性（如Fe₁₊ₓTe₂、Fe₃₋ₓGeTe₂）。
-
-## Related Papers
-
-- [[../papers/tangMultiferroicityTwodimensionalVan2025]]
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]] — Towards Multiferroicity in Two-Dimensional Van Der Waals Materials: Challenges and Opportunities

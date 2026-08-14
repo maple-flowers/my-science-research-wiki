@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/zhouFirstprinciplesPredictionRedox2004]]
 projects: [project-2]
-concepts: [density-functional-theory, dft-plus-u, self-interaction-error, electron-correlation, hubbard-u, linear-response, charge-ordering, high-spin-state, jahn-teller-distortion, redox-potential, chemical-potential, electron-localization]
+concepts: [density-functional-theory, dft-plus-u, self-interaction-error, electron-correlation, hubbard-u, linear-response, charge-ordering, high-spin-state, jahn-teller-distortion, redox-potential, chemical-potential, electron-localization, charge-order]
 entities: [VASP]
 methods: [dft, dft-plus-u, gga, lda, paw, linear-response-u, spin-polarized-dft, total-energy-method]
 materials: [LiFePO4, LiMnPO4, LiCoPO4, LiNiPO4, FePO4, MnPO4, CoPO4, NiPO4, LiCoO2, LiNiO2, LixMn2O4, LixCo2O4, Li-metal]
@@ -101,7 +101,8 @@ F. Zhou, M. Cococcioni, C. A. Marianetti, D. Morgan, G. Ceder，2004，Physical 
   - 实体 [[../entities/VASP]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/2004]]
+  - 年度 [[../write/2000-2004|2004]]
+  - 概念 [[../concepts/chemical-potential]]、[[../concepts/high-spin-state]]、[[../concepts/electron-localization]]、[[../concepts/charge-ordering]]
   - 相关论文 [[../../raw/note/zhouFirstprinciplesPredictionRedox2004]]
 ## 🆕 新概念/实体建议
   - `self-interaction-error`：LDA/GGA 中电子与自身电荷密度非物理相互作用导致的能量误差，是本文电压低估的物理根源。

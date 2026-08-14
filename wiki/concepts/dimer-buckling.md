@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# dimer-buckling
 
-# 二聚体翘曲/屈曲，不对称二聚体中一个原子上翘、另一个下陷的Jahn-Teller型畸变，伴随电荷从下陷原子转移到上翘原子
-
-二聚体翘曲/屈曲，不对称二聚体中一个原子上翘、另一个下陷的Jahn-Teller型畸变，伴随电荷从下陷原子转移到上翘原子
-
-## Related Papers
-
-- [[../papers/Wu2018]]
+- [[../papers/Wu2018]] — Study of atomic arrangements and charge distribution on Si(0 0 1) surfaces with the adsorption of one Ge atom by DFTB calculations

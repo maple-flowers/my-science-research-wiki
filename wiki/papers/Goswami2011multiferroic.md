@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Goswami2011multiferroic]]
 projects: []
-concepts: [multiferroicity, magnetoelectric-coupling, spin-spiral, dzyaloshinskii-moriya-interaction, oxygen-octahedron-rotation, magnetoelastic-coupling, size-effect, strain-engineering, antiferromagnetism, first-order-phase-transition]
+concepts: [multiferroicity, magnetoelectric-coupling, spin-spiral, dzyaloshinskii-moriya-interaction, oxygen-octahedron-rotation, magnetoelastic-coupling, size-effect, strain-engineering, antiferromagnetism, first-order-phase-transition, critical-thickness-ferroelectric]
 entities: [BiFeO3, Bi2Fe4O9, FullProf, ILL-D20]
 methods: [powder-xrd, neutron-diffraction, rietveld-refinement, tem-hrtem, dsc-calorimetry, dc-magnetization, point-charge-model]
 materials: [BiFeO3-nanoparticles]
@@ -80,8 +80,9 @@ Goswami, Bhattacharya, Choudhury, Ouladdiaf, Chatterji，2011，Applied Physics 
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/antiferromagnetism|反铁磁性]]、[[../concepts/spin-spiral|自旋螺旋]]、[[../concepts/dzyaloshinskii-moriya-interaction|DM相互作用]]、[[../concepts/oxygen-octahedron-rotation|氧八面体旋转]]、[[../concepts/magnetoelastic-coupling|磁弹耦合]]、[[../concepts/critical-thickness-ferroelectric|尺寸效应]]
   - 实体 [[../entities/BiFeO3]]、[[../entities/Bi2Fe4O9]]、[[../entities/FullProf]]、[[../entities/ILL-D20]]
   - 图表 [[../figures/crystal-structures]]
-  - 年度 [[../write/2011]]
+  - 年度 [[../write/2010-2014|2011]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 概念 [[../concepts/size-effect]]、[[../concepts/first-order-phase-transition]]
   - 相关论文 **Goswami2011multiferroic**
 
 ## 📊 关键图表

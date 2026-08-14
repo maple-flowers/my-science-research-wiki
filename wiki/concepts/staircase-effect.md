@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# staircase-effect
 
-# 阶梯效应，逐层增材制造中离散层高导致的表面台阶状近似，引入高阶衍射伪影
-
-阶梯效应，逐层增材制造中离散层高导致的表面台阶状近似，引入高阶衍射伪影
-
-## Related Papers
-
-- [[../papers/Unknown2025diffractive]]
+- [[../papers/Unknown2025diffractive]] — Millimeter-Scale Diffractive Optical Elements Fabricated by Two-Photon Polymerization for Beam Shaping in Materials Processing

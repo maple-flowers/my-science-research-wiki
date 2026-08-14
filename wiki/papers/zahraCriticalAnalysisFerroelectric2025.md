@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/zahraCriticalAnalysisFerroelectric2025]]
 projects: []
-concepts: [2D-materials, density-functional-theory, ferroelasticity, ferroelectric-tunnel-junction, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, topological-defects]
-entities: [BiFeO3, In2Se3, MXenes, TMDs]
+concepts: [2D-materials, density-functional-theory, ferroelasticity, ferroelectric-tunnel-junction, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, topological-defects, piezoresponse-force-microscopy, stoner-ferromagnetism, janus-mxene, i-mxene, surface-terminations-tx, sc2co2, v2c-mxene, max-phase, ti3c2tx, ferroelectric-metal]
+entities: [BiFeO3, In2Se3, MXenes, TMDs, hf2vc2f2, ferroelectric-memristor]
 methods: [afm-pfm, device-i-v, dft, squid]
 materials: [BiFeO3, In2Se3, MXenes, TMDs]
 figures: []
@@ -81,11 +81,11 @@ Saman Zahra, Bo Dai, Xianhua Wei, Fei Zhou, Syed Irfan et al.，2025，Critical 
 首篇系统批判性综述二维 MXene（过渡金属碳/氮化物）中铁电、铁磁与多铁性的工作，归纳了从 MAX 相刻蚀、表面端基工程到掺杂/应变/复合诱导 FE/FM 的完整策略工具箱。
 ## 🔗 Wiki 双链
 本文涉及且 wiki 中已存在的条目，用双链列出（存在才链）：
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/ferroelasticity]]、[[../concepts/strain-engineering]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/topological-defects]]、[[../concepts/max-phase]]、[[../concepts/surface-terminations-tx]]、[[../concepts/janus-mxene]]、[[../concepts/ferroelectric-metal]]、[[../concepts/i-mxene]]、[[../concepts/sc2co2]]、[[../concepts/v2c-mxene]]、[[../entities/hf2vc2f2]]、[[../concepts/ti3c2tx]]、[[../concepts/piezoresponse-force-microscopy]]、[[../concepts/stoner-ferromagnetism]]、[[../entities/ferroelectric-memristor]]
+  - 概念 [[../concepts/2d-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/ferroelasticity]]、[[../concepts/strain-engineering]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/topological-defects]]、[[../concepts/max-phase]]、[[../concepts/surface-terminations-tx]]、[[../concepts/janus-mxene]]、[[../concepts/ferroelectric-metal]]、[[../concepts/i-mxene]]、[[../concepts/sc2co2]]、[[../concepts/v2c-mxene]]、[[../entities/hf2vc2f2]]、[[../concepts/ti3c2tx]]、[[../concepts/piezoresponse-force-microscopy]]、[[../concepts/stoner-ferromagnetism]]、[[../entities/ferroelectric-memristor]]
   - 实体 [[../entities/MXenes]]、[[../entities/BiFeO3]]、[[../entities/In2Se3]]、[[../entities/TMDs]]、[[../entities/hf2vc2f2]]
   - 图表 [[../figures/heterostructures-stacking]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups]]
-  - 年度 [[../write/2025]]
-  - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
+  - 年度 [[../write/2025-2029|2025]]
+  - 主题 [[../topics/多铁性材料]]、[[../topics/材料模拟计算设计]]
   - 相关论文 [[../../raw/note/zahraCriticalAnalysisFerroelectric2025]]
 ## 📊 关键图表
   - 图1：MXene 应用示意图：![图1](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_1_WJ78IQDN.png)

@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# polar-nano-regions
 
-# 高温顺电相中残留的短程极性/铁性有序微区，可作冷却异质形核点
-
-高温顺电相中残留的短程极性/铁性有序微区，可作冷却异质形核点
-
-## Related Papers
-
-- [[../papers/yangRipplingFerroicPhase2021]]
+- [[../papers/yangRipplingFerroicPhase2021]] — Rippling Ferroic Phase Transition and Domain Switching In 2D Materials

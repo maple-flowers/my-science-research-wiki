@@ -20,14 +20,13 @@ concepts:
   - tauc-plot
   - shockley-queisser-limit
   - optical-conductivity
-  - extinction-coefficient
   - refractive-index
-  - thin-films
   - topological-crystalline-insulator
+  - topological-defects
+  - spin-orbit-coupling
 entities:
   - SnTe
   - FTO
-  - UV-1800
 methods:
   - uv-vis-spectroscopy
   - electrochemical-deposition
@@ -97,8 +96,9 @@ Osolobri B.U., Ojoba C.K., Ikhioya I.L.，2026，Journal of Interdisciplinary Po
   - 概念 [[../concepts/shockley-queisser-limit|Shockley-Queisser极限]]
   - 图表 [[../figures/optical-spectra]]
   - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/2026]]
+  - 年度 [[../write/2025-2029|2026]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 概念 [[../concepts/refractive-index]]
   - 相关论文 **Blessing2026optical**
 ## 📊 关键图表
   ![图1 不同电压下SnTe薄膜的吸收光谱](../../raw/figures/Blessing2026optical/fig_1_TE2JAVC3.png) -> [[../figures/optical-spectra|光学光谱]]

@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# potential-energy-surface
 
-# PES，势能面）
-
-PES，势能面）：体系能量作为所有原子坐标函数的高维超曲面。
-
-## Related Papers
-
-- [[../papers/henkelmanClimbingImageNudged2000c]]
+- [[../papers/henkelmanClimbingImageNudged2000c]] — A climbing image nudged elastic band method for finding saddle points and minimum energy paths
+- [[../papers/huangPolarPhaseDomain2019]] — Polar and phase domain walls with conducting interfacial states in a Weyl semimetal MoTe2

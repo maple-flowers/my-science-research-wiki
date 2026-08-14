@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Wang2023ultracompact]]
 projects: []
-concepts: [nondiffracting-beams, mathieu-gauss-beams, two-photon-polymerization, phase-plate, spatial-filtering, orbital-angular-momentum, beam-shaping, vortex-wavefront]
+concepts: [nondiffracting-beams, mathieu-gauss-beams, two-photon-polymerization, phase-plate, spatial-filtering, orbital-angular-momentum, beam-shaping, vortex-wavefront, four-f-system]
 entities: [SZ-2080, spatial-light-modulator, metasurface, PHAROS-laser]
 methods: [femtosecond-laser-micromachining, two-photon-polymerization, layer-by-layer-scanning, sem, laser-confocal-microscopy, four-f-system, overlap-integral, numerical-simulation]
 materials: [SZ-2080, photoresist]
@@ -79,8 +79,10 @@ Wang Jue, Cai Chengkun, Fu Tianhao, Wang Kangrui, Liang Yize, Wang Jian（华中
   - 概念：[[../concepts/nondiffracting-beams|无衍射光束]]、[[../concepts/mathieu-gauss-beams|马蒂厄-高斯光束]]、[[../concepts/two-photon-polymerization|双光子聚合（TPP）]]、[[../concepts/phase-plate|相位板]]、[[../concepts/orbital-angular-momentum|轨道角动量（OAM）]]、[[../concepts/beam-shaping|光束整形]]、[[../concepts/four-f-system|4-f 系统]]
   - 实体：[[../entities/spatial-light-modulator|空间光调制器（SLM）]]
   - 图表 [[../figures/experimental-setups]]（图5 的 4-f 光路装置图属此类）、[[../figures/mathematical-models]]（椭圆柱坐标、马蒂厄光束与高度-相位转换公式）
-  - 年度 [[../write/2023]]
+  - 年度 [[../write/2020-2024|2023]]
   - 项目 [[../projects/project-1-two-photon]]
+  - 概念 [[../concepts/spatial-filtering]]、[[../concepts/vortex-wavefront]]
+  - 实体 [[../entities/SZ-2080]]、[[../entities/PHAROS-laser]]、[[../entities/metasurface]]
   - 相关论文 [[../../raw/note/Wang2023ultracompact]]
 
 ## 🆕 新概念/实体建议

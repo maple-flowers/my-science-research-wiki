@@ -1,12 +1,3 @@
----
-tags: [entity, stub]
----
+# SiGe
 
-# 硅锗合金/异质结，用于高速光电探测器
-
-硅锗合金/异质结，用于高速光电探测器（UTC器件）和应变硅技术
-
-## Related Papers
-
-- [[../papers/Wu2018]]
-- [[../papers/Wu2021]]
+- [[../papers/Wu2018]] — Study of atomic arrangements and charge distribution on Si(0 0 1) surfaces with the adsorption of one Ge atom by DFTB calculations

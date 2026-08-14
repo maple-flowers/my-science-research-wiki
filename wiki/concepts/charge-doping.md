@@ -1,12 +1,4 @@
----
-tags: [concept, stub]
----
+# charge-doping
 
-# 电荷掺杂
-
-电荷掺杂：通过注入电子或空穴直接改变费米能级附近轨道占据的调控手段
-
-## Related Papers
-
-- [[../papers/chen3dLevelSymmetry2025]]
-- [[../papers/chenFerromagneticNonmagnetic1T2022]]
+- [[../papers/chen3dLevelSymmetry2025]] — 3d-level symmetry between metal layers governing the electronic configuration of Mn2N MXenes and enabling modulation between half-metallicity and semiconductivity
+- [[../papers/chenFerromagneticNonmagnetic1T2022]] — Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition

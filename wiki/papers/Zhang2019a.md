@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Zhang2019a]]
 projects: []
-concepts: [density-functional-theory, machine-learning-potential, molecular-dynamics, embedded-atom-method, pair-distribution-function, common-neighbor-analysis, icosahedral-structure, hcp-structure, fcc-structure, bcc-structure, surface-premelting, size-dependent-melting, dulong-petit-law, five-fold-twinning, geometric-shell-closure, structural-phase-transition, nvt-ensemble]
+concepts: [density-functional-theory, machine-learning-potential, molecular-dynamics, embedded-atom-method, pair-distribution-function, common-neighbor-analysis, icosahedral-structure, hcp-structure, fcc-structure, bcc-structure, surface-premelting, size-dependent-melting, dulong-petit-law, five-fold-twinning, geometric-shell-closure, structural-phase-transition, nvt-ensemble, icosahedral-packing]
 entities: [Ti, Ti-6Al-4V, LAMMPS, Moldy, GULP]
 methods: [md, eam, pair-distribution-function, common-neighbor-analysis, nvt-ensemble, velocity-rescaling, bisection-algorithm, md-step-heating]
 materials: [Ti]
@@ -102,7 +102,9 @@ Lin Zhang，2019，Advanced Engineering Materials，21(4): 1800531，DOI 10.1002
   - 实体 [[../entities/Moldy|Moldy]]（本文MD代码修改自旧版Moldy，用大盒子PBC隔离粒子）
   - 图表 [[../figures/crystal-structures]]（HCP/FCC/Ih/BCC原子堆积与五重孪晶快照）
   - 图表 [[../figures/mathematical-models]]（EAM总势能、电子密度、对势、嵌入能分段公式 Eq.1–7；PDF公式 Eq.9）
-  - 年度 [[../write/2019]]
+  - 年度 [[../write/2015-2019|2019]]
+  - 概念 [[../concepts/fcc-structure]]、[[../concepts/nvt-ensemble]]、[[../concepts/hcp-structure]]、[[../concepts/structural-phase-transition]]、[[../concepts/icosahedral-structure]]、[[../concepts/bcc-structure]]
+  - 实体 [[../entities/GULP]]、[[../entities/Ti-6Al-4V]]
   - 相关论文 [[../../raw/note/Zhang2019a]]
 
 ## 🆕 新概念/实体建议

@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Ismail2015humidity]]
 projects: [project-6]
-concepts: [humidity-sensing-mechanism, donor-effect, depletion-layer, sol-gel-method, nanostructured-metal-oxide, band-gap, sensor-electrode-configuration, adsorption-desorption, capacitive-sensor, resistive-sensor, hysteresis]
+concepts: [humidity-sensing-mechanism, donor-effect, depletion-layer, sol-gel-method, nanostructured-metal-oxide, band-gap, sensor-electrode-configuration, adsorption-desorption, capacitive-sensor, resistive-sensor, hysteresis, adsorption-desorption-hysteresis, mesoporous-metal-oxide]
 entities: [ZnO, SnO2, TiO2, Al-doped-ZnO, Sn-doped-ZnO, Ga-doped-ZnO, QCM, interdigitated-electrode, labyrinth-electrode, castellated-electrode, circle-electrode]
 methods: [literature-review, sol-gel, hydrothermal-growth, hydrolyzation-method, qcm, dielectrophoresis, capacitive-measurement]
 materials: [ZnO, Sn-doped-ZnO, Al-doped-ZnO, Ga-doped-ZnO, ZnO-TiO2-core-shell, SnO2-SiO2-composite, porous-anodic-aluminum-oxide, SiCN-ceramic, LaFeO3]
@@ -99,8 +99,10 @@ A.S. Ismail, M.H. Mamat, Mohamad Rusop et al.，2015，*Applied Mechanics and Ma
   - 图表 [[../figures/electronic-devices]]（电极构型与器件设计可归入此类）
   - 图表 [[../figures/crystal-structures]]（纳米棒/纳米线/纳米片等纳米形貌示意）
   - 图表 [[../figures/experimental-setups]]（四类金属接触电极图案示意）
-  - 年度 [[../write/2015]]
+  - 年度 [[../write/2015-2019|2015]]
   - 项目 [[../projects/project-6-humidity-sensor]]
+  - 概念 [[../concepts/capacitive-sensor]]、[[../concepts/nanostructured-metal-oxide]]、[[../concepts/band-gap]]、[[../concepts/resistive-sensor]]、[[../concepts/adsorption-desorption]]
+  - 实体 [[../entities/SnO2]]、[[../entities/interdigitated-electrode]]、[[../entities/castellated-electrode]]、[[../entities/circle-electrode]]、[[../entities/Al-doped-ZnO]]、[[../entities/Ga-doped-ZnO]]、[[../entities/Sn-doped-ZnO]]、[[../entities/TiO2]]
   - 相关论文 [[../../raw/note/Ismail2015humidity]]
 
 ## 📊 关键图表

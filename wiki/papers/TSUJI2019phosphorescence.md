@@ -79,8 +79,10 @@ Tomoaki TSUJI、Tomohisa Kojima，2019，The Proceedings of the Materials and Me
   - 图表 [[../figures/optical-spectra]]
   - 图表 [[../figures/mathematical-models]]
   - 图表 [[../figures/experimental-setups]]
-  - 年度 [[../write/2019]]
+  - 年度 [[../write/2015-2019|2019]]
   - 项目 [[../projects/project-3-mechanoluminescence-nn]]
+  - 概念 [[../concepts/carrier-detrapping]]、[[../concepts/hydrostatic-pressure]]、[[../concepts/time-resolved-spectroscopy]]、[[../concepts/phosphorescence]]、[[../concepts/exponential-decay]]
+  - 实体 [[../entities/PMT]]、[[../entities/pulsed-led]]、[[../entities/photodiode]]、[[../entities/oscilloscope]]
   - 相关论文 [[../../raw/note/TSUJI2019phosphorescence]]
 
 ## 🆕 新概念/实体建议

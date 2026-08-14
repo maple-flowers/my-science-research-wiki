@@ -94,10 +94,12 @@ Ding, Zhu, Wang, Gao, Xiao, Gu, Zhang & Zhu，2017，Nature Communications 8:149
 通过第一性原理计算预测以 In2Se3 为代表的 III2-VI3 族五元层（QL）范德华材料是本征二维铁电体，兼具可反转的面外与面内自发极化，反转能垒低至 0.066 eV，并能在单层极限下抵抗退极化场。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/berry-phase]]、[[../concepts/polarization-switching]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/schottky-barrier|肖特基势垒]]、[[../concepts/in-plane-out-of-plane-coupling|面内-面外极化耦合]]、[[../concepts/quintuple-layer|五元层(QL)]]
+  - 概念 [[../concepts/2d-materials]]、[[../concepts/berry-phase]]、[[../concepts/polarization-switching]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/schottky-barrier|肖特基势垒]]、[[../concepts/in-plane-out-of-plane-coupling|面内-面外极化耦合]]、[[../concepts/quintuple-layer|五元层(QL)]]
   - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/TMDs]]、[[../entities/SnTe]]、[[../entities/PbTiO3]]、[[../entities/graphene|石墨烯]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/domain-walls]]
-  - 年度 [[../write/2017]]
+  - 年度 [[../write/2015-2019|2017]]
+  - 概念 [[../concepts/vdW-heterostructure]]
+  - 实体 [[../entities/WSe2]]
   - 相关论文 **dingPredictionIntrinsicTwodimensional2017a**
 
 ## 🆕 新概念/实体建议

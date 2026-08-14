@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/tahirFerroelectricityNonvolatileMemristor2025]]
 projects: [project-2, project-4, project-5, project-6]
-concepts: [2D-materials, multiferroicity, polarization-switching, strain-engineering]
-entities: [BiFeO3, MXenes, TMDs]
+concepts: [2D-materials, multiferroicity, polarization-switching, strain-engineering, space-charge-limited-current, resistive-switching, valence-change-mechanism, pfm-piezoresponse-force-microscopy, oxygen-vacancy, memristor, pe-hysteresis-loop, free-standing-film]
+entities: [BiFeO3, MXenes, TMDs, rGO, Nb2O5, Nb2CTx, NbOX2, Nb2AlC-MAX]
 methods: [afm-pfm, device-i-v, dft, raman, tem, xps, xrd]
 materials: [BiFeO3, MXenes, TMDs]
 figures: []
@@ -86,7 +86,7 @@ Rabia Tahir, Sheryar Abid, Kubra Sattar, Arooma Syed, Iftikhar Hussain, Kaili Zh
 首次在自支撑二维 Nb₂CTₓ MXene 薄膜上观测到铁电性（1000 Hz 下剩余极化 Pr = 5.12 μC/cm²，为当时自支撑 MXene 最高值），并以其本征氧空位作为开关层构筑了 Ti₃C₂Tₓ/Nb₂CTₓ/Ti₃C₂Tₓ 与 rGO/Nb₂CTₓ/rGO 两种非易失性双极阻变忆阻器。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/polarization-switching]]
   - 概念 [[../concepts/strain-engineering]]（作者明确提出用 nanoscale strain engineering 优化 ON/OFF 比）
   - 概念 [[../concepts/multiferroicity]]（铁电表征范式、BiFeO₃ 漏电对比）
@@ -110,7 +110,7 @@ Rabia Tahir, Sheryar Abid, Kubra Sattar, Arooma Syed, Iftikhar Hussain, Kaili Zh
   - 图表 [[../figures/crystal-structures]]（MAX→MXene 刻蚀、(002) 峰与 c-LP 演化）
   - 图表 [[../figures/vibrational-spectra]]（Nb₂AlC 与 Nb₂CTₓ 的 Raman A₁g/E₂g 模式）
   - 图表 [[../figures/experimental-setups]]（P-E 回路、PFM box-in-box、SS-PFM 蝴蝶曲线）
-  - 年度 [[../write/2025]]
+  - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 项目 [[../projects/project-4-ttf-molecular-calc]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]

@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# shockley-queisser-limit
 
-# Shockley Queisser Limit
-
-Shockley-Queisser 极限，单结太阳能电池理论效率上限(~33.7%)，最优带隙约 1.34–1.4 eV
-
-## Related Papers
-
-- [[../papers/Blessing2026optical]]
+- [[../papers/Blessing2026optical]] — Optical investigation of tin telluride (SnTe) thin films grown at different deposition voltage

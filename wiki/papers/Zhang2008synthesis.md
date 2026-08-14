@@ -72,8 +72,10 @@ Xian Zhang, Xiaoqiang Yu, JinShui Yao, Minhua Jiang，2008，Synthetic Metals 15
 合成并表征了两种新型三支化推-拉有机发色团，验证了多支化结构对双光子吸收截面和 2PP 引发能力的增强作用。
 ## 🔗 Wiki 双链
   - 项目 [[../projects/project-1-two-photon]]
-  - 年度 [[../write/2008]]
+  - 年度 [[../write/2005-2009|2008]]
   - 概念：[[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/two-photon-polymerization|双光子聚合]]、[[../concepts/push-pull-chromophore|推-拉发色团]]、[[../concepts/intramolecular-charge-transfer|分子内电荷转移]]、[[../concepts/multipolar-chromophore|多极性发色团]]
+  - 概念 [[../concepts/photoinitiation]]、[[../concepts/nonlinear-optics]]
+  - 实体 [[../entities/triphenylamine]]
   - 相关论文 [[../../raw/note/Zhang2008synthesis]]
 ## 🆕 新概念/实体建议
   - `two-photon-absorption`（双光子吸收）：三阶非线性光学过程，分子同时吸收两个光子跃迁至激发态，概率正比于光强平方。

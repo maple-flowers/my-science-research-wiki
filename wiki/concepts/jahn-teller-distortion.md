@@ -1,12 +1,6 @@
----
-tags: [concept, stub]
----
+# jahn-teller-distortion
 
-# 姜-泰勒畸变 / Jahn-Teller Distortion
-
-简并d电子构型引发氧八面体拉长/压扁畸变，与铁电畸变竞争。
-
-## Related Papers
-
-- [[../papers/hillWhyAreThere2000a]]
-- [[../papers/huProgressProspectsLowdimensional2019]]
+- [[../papers/hillWhyAreThere2000a]] — Why Are There so Few Magnetic Ferroelectrics?
+- [[../papers/huProgressProspectsLowdimensional2019]] — Progress and prospects in low‐dimensional multiferroic materials
+- [[../papers/yanagizawaSwitchingChargedensityWave2023]] — Switching of charge-density wave by carrier tuning in monolayer TiTe₂
+- [[../papers/zhouFirstprinciplesPredictionRedox2004]] — First-principles prediction of redox potentials in transition-metal compounds with LDA+U

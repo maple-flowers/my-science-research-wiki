@@ -74,8 +74,10 @@ Alex Wixtrom、Jessica Buhler、Silvina Pagola、Tarek M. Abdel-Fattah，2011，
   - 概念 [[../concepts/charge-transfer-salt|电荷转移盐]]、[[../concepts/polymorphism|多晶型]]、[[../concepts/mechanochemical-synthesis|机械化学合成]]、[[../concepts/neutral-ionic-transition|中性-离子相变]]、[[../concepts/mixed-stack|混合堆砌]]
   - 实体 [[../entities/TTF-CA|TTF-CA]]、[[../entities/TTF|TTF（四硫富瓦烯）]]、[[../entities/ITO|ITO（氧化铟锡）]]
   - 图表 [[../figures/crystal-structures]]
-  - 年度 [[../write/2011]]
+  - 年度 [[../write/2010-2014|2011]]
   - 项目 [[../projects/project-4-ttf-molecular-calc]]
+  - 概念 [[../concepts/cyclic-voltammetry]]
+  - 实体 [[../entities/chloranil]]
   - 相关论文 [[../../raw/note/Wixtrom2011electrical]]
 ## 🆕 新概念/实体建议
   - `chloranil`（实体，CA）：四氯苯醌，醌类强电子受体

@@ -1,12 +1,5 @@
----
-tags: [concept, stub]
----
+# wannier-function
 
-# 瓦尼尔函数）
-
-瓦尼尔函数）：布洛赫函数的傅里叶变换，局域于格点，用于从 DFT 抽取实空间跃迁积分；本文使用能量分辨、对称性约束的 WF 方法。
-
-## Related Papers
-
-- [[../papers/Barnett2006coexistence]]
-- [[../papers/king-smithTheoryPolarizationCrystalline1993]]
+- [[../papers/Barnett2006coexistence]] — Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides
+- [[../papers/king-smithTheoryPolarizationCrystalline1993]] — Theory of polarization of crystalline solids
+- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]] — Anisotropic superconductivity in the two-dimensional metal-organic kagome framework Cu 3 ( CO ) 6

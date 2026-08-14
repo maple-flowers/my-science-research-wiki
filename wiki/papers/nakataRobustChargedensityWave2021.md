@@ -11,8 +11,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/nakataRobustChargedensityWave2021]]
 projects: [project-5, project-7]
-concepts: [charge-density-wave, 2d-materials, electron-correlation, mott-insulator, hubbard-model, star-of-david, electron-phonon-coupling, bandwidth-control, lower-hubbard-band]
-entities: [TMDs, 1T-TaSe2, 1T-NbSe2, 1T-TaS2, graphene, SiC]
+concepts: [charge-density-wave, 2d-materials, electron-correlation, mott-insulator, hubbard-model, star-of-david, electron-phonon-coupling, bandwidth-control, lower-hubbard-band, bandwidth-controlled-mott-transition]
+entities: [TMDs, 1T-TaSe2, 1T-NbSe2, 1T-TaS2, graphene, SiC, ARPES]
 methods: [mbe, arpes, stm, core-level-spectroscopy, tr-arpes, bcs-gap-fitting, electron-doping]
 materials: [1T-TaSe2, 1T-NbSe2, 1T-TaS2]
 figures: []
@@ -85,11 +85,13 @@ Nakata, Sugawara, Chainani, Oka, Bao, Zhou, Chuang, Cheng, Kawakami, Saruta, Fuk
 在 MBE 生长的单层 1T-TaSe2 中用 ARPES 观测到起始温度约 530 K、2Δ/kBT≈12 的强耦合二维 CDW-莫特绝缘相，其下哈伯德带在高温、K 电子掺杂和光激发下均保持稳定，并通过与单层 1T-NbSe2 的对照证明 CDW 晶格畸变对带宽 W 的压制是稳定该相的主导因素。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2D-materials]]、[[../concepts/electron-correlation|电子关联]]、[[../concepts/mott-insulator|莫特绝缘体]]、[[../concepts/hubbard-model|哈伯德模型]]、[[../concepts/star-of-david|大卫之星团簇]]、[[../concepts/electron-phonon-coupling|电子-声子耦合]]、[[../concepts/bandwidth-controlled-mott-transition|带宽调控型莫特转变]]、[[../concepts/lower-hubbard-band|下哈伯德带]]
+  - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2d-materials]]、[[../concepts/electron-correlation|电子关联]]、[[../concepts/mott-insulator|莫特绝缘体]]、[[../concepts/hubbard-model|哈伯德模型]]、[[../concepts/star-of-david|大卫之星团簇]]、[[../concepts/electron-phonon-coupling|电子-声子耦合]]、[[../concepts/bandwidth-controlled-mott-transition|带宽调控型莫特转变]]、[[../concepts/lower-hubbard-band|下哈伯德带]]
   - 实体 [[../entities/TMDs]]、[[../entities/1T-TaS2]]、[[../entities/graphene|石墨烯]]、[[../entities/ARPES|ARPES]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]
-  - 年度 [[../write/2021]]
+  - 年度 [[../write/2020-2024|2021]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 概念 [[../concepts/bandwidth-control]]
+  - 实体 [[../entities/1T-NbSe2]]、[[../entities/1T-TaSe2]]、[[../entities/SiC]]
   - 相关论文 [[../../raw/note/nakataRobustChargedensityWave2021]]
 
 ## 🆕 新概念/实体建议

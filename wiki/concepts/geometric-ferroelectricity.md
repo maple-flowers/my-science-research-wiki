@@ -1,16 +1,8 @@
----
-tags: [concept, stub]
----
+# geometric-ferroelectricity
 
-# 几何铁电性/非本征铁电性
-
-几何铁电性/非本征铁电性：极化由氧八面体旋转等非极性主序参量耦合产生，对载流子掺杂鲁棒，是设计极性金属的重要平台。
-
-## Related Papers
-
-- [[../papers/bhowalPolarMetalsPrinciples2023b]]
-- [[../papers/fiebigEvolutionMultiferroics2016]]
-- [[../papers/hillWhyAreThere2000a]]
-- [[../papers/rameshMultiferroicsProgressProspects2007]]
-- [[../papers/spaldinRenaissanceMagnetoelectricMultiferroics2005]]
-- [[../papers/yuFerroelectricControlMagnetism2026]]
+- [[../papers/bhowalPolarMetalsPrinciples2023b]] — Polar Metals: Principles and Prospects
+- [[../papers/fiebigEvolutionMultiferroics2016]] — The evolution of multiferroics
+- [[../papers/hillWhyAreThere2000a]] — Why Are There so Few Magnetic Ferroelectrics?
+- [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films
+- [[../papers/spaldinRenaissanceMagnetoelectricMultiferroics2005]] — The Renaissance of Magnetoelectric Multiferroics
+- [[../papers/yuFerroelectricControlMagnetism2026]] — Ferroelectric Control of Magnetism and Giant Magnetoresistance Via Intercalation-Induced Symmetry Breaking in Two-Dimensional Multiferroics with Strong Magnetoelectric Coupling

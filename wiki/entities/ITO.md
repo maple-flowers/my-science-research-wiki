@@ -1,25 +1,4 @@
----
-tags: [entity]
----
+# ITO
 
-# ITO (Indium Tin Oxide)
-
-氧化铟锡（Indium Tin Oxide, ITO）是一种典型的简并 n 型半导体，由三氧化二铟（In2O3）与二氧化锡（SnO2）按质量比约 9:1 组成。作为目前科研与工业界应用最广的透明导电氧化物（TCO），ITO 展现了独特的**相位锁定性质（Phase-Locked Properties）**：其高载流子浓度带来的类金属导电性与其在可见光波段的高透明度（通常 >80%），通过调控等离子体频率（Plasma Frequency）被锁定在近红外波段之外，从而实现了电输运与光学透过率的协同平衡。
-
-### 电子结构与界面阻抗
-ITO 的高性能主要源于 Sn4+ 离子置换 In3+ 位点产生的供体掺杂以及晶格中的氧空位贡献。在分子电子学领域，ITO 是研究有机电荷转移盐（CTS）界面行为的标准集流体。例如，在 [[../papers/Wixtrom2011electrical]] 关于 TTF-CA 黑色新多晶型的研究中，ITO 玻璃被用于支撑压制的样品圆片。然而，研究发现 ITO 与有机半导体界面间存在显著的接触电阻（Contact Resistance）。循环伏安（CV）测试中的近线性电流-电压曲线暗示，ITO 作为阳极时，其功函数与有机分子能级的失配可能导致注入受限，这对准确评估如 TTF-CA 等强关联体系的本征电导率提出了挑战。
-
-### 透明电极在铁电/多铁体系中的功能化
-在功能氧化物薄膜研究中，ITO 的透明特性赋予了器件“光探测极化”的能力。[[../papers/Chen2016electrical]] 在研究 70 nm 厚的 BiFeO3 外延薄膜时，利用透明的 ITO 顶电极实现了铁电光伏效应的非破坏性读出。由于 ITO 允许可见光透过并作用于 BiFeO3/LSMO 异质结，实验能够通过观测短路电流（Isc）的方向（向上极化对应负电流，向下极化对应正电流）来判定铁电畴的翻转状态。这证明了 ITO 在跨尺度光电存储、机电耦合系统中的核心地位。
-
-### 全息加工与动态光学控制
-ITO 玻璃的导电表面为液晶（LC）及聚合物分散体系提供了均匀的外部场强分布。[[../papers/Khitrov2000holographic]] 报道了在 8 μm 厚的 ITO 夹层中实现全息双光子诱导光聚合（H-TPIP）的工艺。ITO 电极不仅充当了激光曝光时的物理容器，更是在后续器件运行中提供开关电压的关键组件。通过在 ITO 上施加场强，驱动 20-200 nm 的精细液晶畴发生分子重取向，从而动态调节光栅的折射率调制深度。ITO 在此过程中的化学稳定性与低表面粗糙度，是确保纳米级相分离结构均匀性与高速切换性能的基础。
-
-### 物理局限与演化
-尽管 ITO 在可见光区性能卓越，但其在柔性器件中的脆性以及铟元素的稀缺性促使研究者寻找替代方案。在目前的 Wiki 体系中，ITO 仍作为各类异质结、传感器和光电器件的底层支撑材料频繁出现，其与活性层界面的电子结构调控（如通过紫外-臭氧处理提高功函数）依然是优化器件性能的关键环节。
-
-## Related Papers
-
-- [[../papers/Wixtrom2011electrical]]
-- [[../papers/Chen2016electrical]]
-- [[../papers/Khitrov2000holographic]]
+- [[../papers/Chen2016electrical]] — Electrical and mechanical switching of ferroelectric polarization in the 70 nm BiFeO3 film
+- [[../papers/Wixtrom2011electrical]] — Electrical and Optical Properties of a New Polymorph of the Tetrathiafulvalene-Chloranil (TTF-CA) Charge Transfer Salt

@@ -68,9 +68,9 @@ Lev P. Gor'kov，2012，Physical Review B 85, 165142，DOI: 10.1103/PhysRevB.85.
 提出 TMDC 中 CDW 并非来自费米面嵌套或鞍点奇异性，而是强电子-晶格耦合在单个过渡金属离子处先形成局域双势阱（映射为伊辛自旋），再由弱位点间相互作用在低温下有序化；结构波矢 Q 与费米面尺寸无关，故 CDW 相仍保持金属性，隧道谱中的大能隙对应双势阱深度而非费米能隙。
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/charge-density-wave]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 实体 [[../entities/TMDs]]
-  - 年度 [[../write/2012]]
+  - 年度 [[../write/2010-2014|2012]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/gorkovStrongElectronlatticeCoupling2012]]
 ## 🆕 新概念/实体建议

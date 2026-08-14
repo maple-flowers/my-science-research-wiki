@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# fused-silica-glass
 
-# 熔融石英玻璃
-
-熔融石英玻璃（非晶 SiO₂），其光学/热学/化学性能及微光学应用。
-
-## Related Papers
-
-- [[../papers/Kotz2021polymerization]]
+- [[../papers/Kotz2021polymerization]] — Two-Photon Polymerization of Nanocomposites for the Fabrication of Transparent Fused Silica Glass Microstructures

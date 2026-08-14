@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# london-penetration-depth
 
-# 伦敦穿透深度 / London Penetration Depth
-
-伦敦穿透深度 λ_ab，反映超流密度与能隙节点结构，是判断 s 波/d 波配对的宏观探针。
-
-## Related Papers
-
-- [[../papers/majumdarInterplayChargeDensity2020]]
+- [[../papers/majumdarInterplayChargeDensity2020]] — Interplay of charge density wave and multiband superconductivity in layered quasi-two-dimensional materials: The case of 2H-NbS₂ and 2H-NbSe₂

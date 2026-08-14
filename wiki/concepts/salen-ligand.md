@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# salen-ligand
 
-# Salen Ligand
-
-Salen（N,N′-双亚水杨基乙二胺）席夫碱配体，四齿 N₂O₂ 配位，传统上必须与金属配位才导电。
-
-## Related Papers
-
-- [[../papers/Doroodmand2017conjugated]]
+- [[../papers/Doroodmand2017conjugated]] — Electro-synthesized Conjugated Salen Polymer-Glassy Carbon as Hydrochromic Reflective Filter for Humidity Detection: Introduction of Humidity Optical Sensor

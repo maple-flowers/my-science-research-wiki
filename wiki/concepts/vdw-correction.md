@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# vdw-correction
 
-# 范德华修正
-
-范德华修正（D2/TS/DF/MBD@FI 等），层状材料 DFT 中层间距与层间耦合强度对修正方案高度敏感。
-
-## Related Papers
-
-- [[../papers/cossuStackingChargedensityWaves2024]]
+- [[../papers/chenStrongSlidingFerroelectricity2024]] — Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI₂ Layers
+- [[../papers/cossuStackingChargedensityWaves2024]] — Stacking of charge-density waves in 2H-NbSe₂ bilayers
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]] — Nonvolatile switchable half-metallicity and magnetism in the MXene Hf₂MnC₂O₂/Sc₂CO₂ multiferroic heterostructure

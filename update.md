@@ -9,7 +9,7 @@
 
 **目标**：将 Zotero 中的图片、原始笔记同步到 Wiki 的 `raw/` 目录下，并生成基础元数据。
 
-**执行命令**：
+**执行命令**（脚本当前不存在、待重建）：
 ```bash
 python tools/update_raw_assets.py
 ```
@@ -25,7 +25,7 @@ python tools/update_raw_assets.py
 
 ## 第二阶段：Wiki 智能合成 (Intelligent Synthesis)
 
-**目标**：利用大模型 (LLM) 对 `raw/` 层的原始知识进行消化，自动更新 `wiki/concepts/`、`wiki/entities/`、`wiki/topics/`、`wiki/figures/` 及 `wiki/projects/` 等知识库页面，而非简单的追加链接。
+**目标**：利用大模型 (LLM) 对 `raw/` 层的原始知识进行消化，自动更新 `wiki/concepts/`、`wiki/entities/`、`wiki/topics/`（现有 2 个主题页 + example.md 占位）、`wiki/figures/` 及 `wiki/projects/` 等知识库页面，而非简单的追加链接。
 
 **执行方式**：
 在 Claude 终端输入以下命令启动多智能体协作：
@@ -49,7 +49,7 @@ python tools/update_raw_assets.py
 
 **背景**：全量重写前，先对 `raw/note/` 中高质量、富批注的笔记逐篇通读，每篇产出一份结构化中文记录（元数据 / 一句话 / wiki 双链 / 新概念实体建议 / 关键图表 / 项目连接 / 组织与用词 / 可写入 wiki 的要点）。
 
-- 这些记录在加工期间暂存于 `tools/ingest_papers/<citekey>.md`，属于**中间产物**。
+- 这些记录在加工期间曾暂存于 `tools/ingest_papers/<citekey>.md`（该目录当前不存在、待重建），属于**中间产物**。
 - **最终去向**：全部整理后移动到 `wiki/papers/<citekey>.md`，作为每篇论文在 wiki 中的正式条目（条目格式见 [[SCHEMA]] 的"论文条目编写规范"）。
-- **回链原 note**：每份记录必须保留 `[[../../raw/note/<citekey>]]`，从 wiki 条目双向链接回原始笔记；同时被 `wiki/concepts/`、`wiki/entities/`、`wiki/figures/`、`wiki/projects/`、`wiki/topics/` 等条目反向引用。
+- **回链原 note**：每份记录必须保留 `[[../../raw/note/<citekey>]]`，从 wiki 条目双向链接回原始笔记；同时被 `wiki/concepts/`、`wiki/entities/`、`wiki/figures/`、`wiki/projects/`、`wiki/topics/`（现有 2 个主题页 + example.md 占位）等条目反向引用。
 - **项目连接判定标准**：以内容对项目有无参考价值（机制、方法、计算流程、可类比材料/物理、可复用数据）为准，不以 Zotero 文件夹/标签归属为准。

@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# odd-even-effect
 
-# 奇偶层数效应）
-
-奇偶层数效应）：相邻层反平行堆叠导致奇/偶数层宏观极化方向相反。
-
-## Related Papers
-
-- [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]]
+- [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]] — Intercorrelated In-Plane and Out-of-Plane Ferroelectricity in Ultrathin Two-Dimensional Layered Semiconductor In2Se3
+- [[../papers/zhangEmergingFrontiersTwodimensional2025]] — Emerging frontiers in two-dimensional sliding ferroelectrics

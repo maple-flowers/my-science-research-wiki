@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# valley-polarization
 
-# 谷极化）
-
-谷极化）：K/K' 谷能量简并被打破的现象，是谷电子学的核心概念。
-
-## Related Papers
-
-- [[../papers/xunCoexistingMagnetismFerroelectric2024]]
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]] — Sliding ferroelectricity in two-dimensional materials and device applications
+- [[../papers/xunCoexistingMagnetismFerroelectric2024]] — Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensional Materials

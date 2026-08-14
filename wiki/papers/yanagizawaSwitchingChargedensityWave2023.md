@@ -89,11 +89,13 @@ Koki Yanagizawa, Katsuaki Sugawara, Tappei Kawakami, Ryuichi Ando, Ken Yaegashi,
 通过 MBE 衬底温度和表面 K 沉积两种手段调控单层 1T-TiTe₂ 的载流子浓度，用 ARPES 直接观察到 2×2 CDW 仅在电子-空穴精确补偿的极窄掺杂窗口出现，从而确认费米面嵌套（而非激子凝聚）是该 CDW 的主导驱动力。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2D-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/fermi-surface-nesting|费米面嵌套]]、[[../concepts/exciton-condensation|激子凝聚]]、[[../concepts/band-folding|能带折叠]]、[[../concepts/carrier-tuning|载流子调谐]]、[[../concepts/electronic-susceptibility|电子磁化率]]、[[../concepts/electron-phonon-coupling|电子-声子耦合]]
+  - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2d-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/fermi-surface-nesting|费米面嵌套]]、[[../concepts/exciton-condensation|激子凝聚]]、[[../concepts/band-folding|能带折叠]]、[[../concepts/carrier-tuning|载流子调谐]]、[[../concepts/electronic-susceptibility|电子磁化率]]、[[../concepts/electron-phonon-coupling|电子-声子耦合]]
   - 实体 [[../entities/TMDs]]、[[../entities/TiTe2|TiTe₂]]、[[../entities/TiSe2|TiSe₂]]、[[../entities/bilayer-graphene|双层石墨烯]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
-  - 年度 [[../write/2023]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking|极性金属、拓扑相、CDW 与相变]]
+  - 年度 [[../write/2020-2024|2023]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]、[[../projects/project-5-snte-ferroelectric-sim]]
+  - 概念 [[../concepts/orbital-selective-hybridization]]
+  - 实体 [[../entities/Quantum-ESPRESSO]]、[[../entities/potassium]]、[[../entities/SiC]]
   - 相关论文 [[../../raw/note/yanagizawaSwitchingChargedensityWave2023]]
 
 ## 🆕 新概念/实体建议

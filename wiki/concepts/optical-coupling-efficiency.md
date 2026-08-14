@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# optical-coupling-efficiency
 
-# 光耦合效率 / Optical Coupling Efficiency
-
-两光纤端面间光功率传输比例，是本传感方案的直接读出量。
-
-## Related Papers
-
-- [[../papers/Yarai2005optical]]
+- [[../papers/Yarai2005optical]] — Optical fiber sensor for humidity monitoring based on thermal lens detection technique

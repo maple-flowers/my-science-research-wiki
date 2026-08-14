@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# two-photon-wavefunction
 
-# 双光子波函数
-
-双光子波函数 ψ(t₁,t₂)≡⟨0|â₂(t₂)â₁(t₁)|ψ⟩，及其频域形式 Ψ(ω₁,ω₂)；与时序波函数 ψ(t₁,t₂)θ(t₂−t₁) 的关系。
-
-## Related Papers
-
-- [[../papers/Nakanishi2009full]]
+- [[../papers/Nakanishi2009full]] — Full Quantum Analysis of Two-Photon Absorption Using Two-Photon Wave Function: Comparison of Two-Photon Absorption with One-Photon Absorption

@@ -1,11 +1,3 @@
----
-tags: [entity, stub]
----
+# Nb2AlC-MAX
 
-# Nb₂AlC MAX 相 / Nb₂AlC MAX Phase
-
-Nb₂CTₓ 的 MAX 前驱体（JCPDS 00-030-0033），HF 刻蚀除 Al 后得到 MXene。
-
-## Related Papers
-
-- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]
+- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]] — Ferroelectricity and Nonvolatile Memristor Applications of Free‐Standing 2D Niobium Carbide: A New Frontier of Free‐Standing MXene in Electronic Devices

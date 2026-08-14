@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# computer-generated-hologram
 
-# 计算机生成全息图
-
-计算机生成全息图（CGH），通过算法逆向计算所需相位分布而非记录真实物体干涉
-
-## Related Papers
-
-- [[../papers/Unknown2025diffractive]]
+- [[../papers/Gittard2013polymerization]] — Two-photon polymerization microstructuring in regenerative medicine
+- [[../papers/Unknown2025diffractive]] — Millimeter-Scale Diffractive Optical Elements Fabricated by Two-Photon Polymerization for Beam Shaping in Materials Processing

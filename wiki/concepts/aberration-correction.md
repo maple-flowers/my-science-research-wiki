@@ -1,33 +1,4 @@
----
-tags: [concept]
-ConceptType:: 技术方法
-TargetApplication:: 激光精密加工 / 三维微纳制造
----
+# aberration-correction
 
-# 激光加工中的光学像差校正
-
-光学像差校正（Aberration Correction）是高精度激光加工，特别是**飞秒激光双光子聚合 (2PP)** 领域的核心技术之一。在复杂的微纳直写系统中，光学元件的缺陷、系统装配误差以及样品折射率失配（Refractive Index Mismatch）会引入严重的波前畸变，导致激光焦点的物理特性偏离设计理想状态，直接劣化加工精度与结构稳定性。
-
-## 技术原理与自适应光学
-
-传统的像差校正往往依赖于外部波前传感器（如 Shack–Hartmann 传感器）或复杂的数学迭代算法（如 Zernike 多项式分解、Gerchberg–Saxton 算法）。然而，在原位加工场景中，**空间光调制器 (SLM)** 的引入为“集成式”自适应光学提供了可能。
-
-例如，基于单片相位型 SLM 的**多通道干涉波前传感 (Multichannel Interferometric Wavefront Sensing)** 技术，通过将像素阵列划分为多个子通道（如 20×20），利用参考通道与测试通道的干涉极大值来逐一确定相位差，从而重构全系统波前。实验证明，该方法可实现对系统内超过 $4\pi$ 相位起伏的精准补偿，且无需额外硬件，极大地降低了激光加工系统的装调难度 [[../papers/Jia2023polymerization]]。
-
-## “相位锁定”特性下的多维耦合
-
-从“相位锁定属性（Phase-Locked Properties）”的视角审视，像差校正本质上是对光场空间对称性与非线性耦合效率的恢复：
-
-- **波前与光场“晶格”结构**：结构光（如高阶贝塞尔光束或马蒂厄-高斯光束）具有特定的空间相位分布（如涡旋相位 $m\theta$）。像差会导致光场“主瓣”发生扭曲，破坏其无衍射特性（Nondiffracting Properties） [[../papers/Wang2023ultracompact]]。通过像差校正，可以恢复光束在纵向传播中的笔直轨迹与横向强度的环形对称性，确保单次曝光即可获得高保真度的微结构形状。
-- **非线性电子耦合与能量沉积**：在 2PP 过程中，材料固化效率与光强呈平方依赖关系（$I^2$）。像差导致的强度分布畸变会造成局部能量沉积不均，引发交联密度（Cross-linking Density）的波动。这种非均一的电子激发过程会导致聚合物内部产生非对称的收缩应力，是微管结构变形、倒塌或壁厚不均的根本诱因 [[../papers/Jia2023polymerization]]。
-- **球差与深层探测限制**：在涉及半导体（如 ZnSe）内部缺陷的成像或加工时，折射率失配引起的**球面像差 (Spherical Aberration)** 会使焦点光斑急剧扩大，限制探测深度（如 200 $\mu$m 极限）并导致对比度严重退化 [[../papers/Khitrov2002internal]]。
-
-## 加工质量与应用前景
-
-像差校正的实施能显著提升加工结构的**圆形度 (Circularity)**。通过量化评价（$C = 4\pi A / P^2$），校正后的高阶贝塞尔光束加工出的微管阵列表现出极高的均匀性与基底附着力。未来，结合**光学相干断层扫描 (OCT)** 的实时动态反馈，将有望实现对加工过程中热效应及光刻胶收缩引起的动态像差的闭环补偿，推动超紧凑微光学器件 [[../papers/Wang2023ultracompact]] 的量产化应用。
-
-## Related Papers
-
-- [[../papers/Jia2023polymerization]]
-- [[../papers/Wang2023ultracompact]]
-- [[../papers/Khitrov2002internal]]
+- [[../papers/Jia2023polymerization]] — Two-photon polymerization of femtosecond high-order Bessel beams with aberration correction
+- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]] — Advances in magnetoelectric multiferroics

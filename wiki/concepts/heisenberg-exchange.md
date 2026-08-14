@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# heisenberg-exchange
 
-# 海森堡交换作用
-
-海森堡交换作用 J）：相邻自旋间的各向同性交换，倾向于共线排列。
-
-## Related Papers
-
-- [[../papers/zhangNonvolatileControlTopological2025]]
+- [[../papers/zhangNonvolatileControlTopological2025]] — Nonvolatile control of topological magnetism in two-dimensional CrInTe2/In2Se3 multiferroic heterostructures

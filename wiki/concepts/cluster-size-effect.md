@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# cluster-size-effect
 
-# 纳米团簇的尺寸效应——表面/体积比、熔点降低、结构随原子数振荡
-
-纳米团簇的尺寸效应——表面/体积比、熔点降低、结构随原子数振荡
-
-## Related Papers
-
-- [[../papers/Zhang2019c]]
+- [[../papers/Zhang2019c]] — Atomic simulations of packing patterns and thermal behavior in Ti clusters

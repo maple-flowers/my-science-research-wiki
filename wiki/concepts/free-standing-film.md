@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# free-standing-film
 
-# 自支撑薄膜 / Free-Standing Film
-
-无需衬底自支撑的二维薄膜，柔性可转移；本工作标题关键词。
-
-## Related Papers
-
-- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]
+- [[../papers/sattarFunctionalizedDoubleTransition2025]] — Functionalized double transition metal Mo2Ti2C3Tx ferroelectric MXene and laser-reduced graphene based flexible memristors for next-generation two-dimensional ferrotronics
+- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]] — Ferroelectricity and Nonvolatile Memristor Applications of Free‐Standing 2D Niobium Carbide: A New Frontier of Free‐Standing MXene in Electronic Devices

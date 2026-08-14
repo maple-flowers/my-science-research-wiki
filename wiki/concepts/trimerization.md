@@ -1,11 +1,6 @@
----
-tags: [concept, stub]
----
+# trimerization
 
-# 三聚化）
-
-三聚化）：d1T-MoTe₂ 中三个 Mo/Te 原子抱团形成三聚体、打破反演对称的结构畸变，属 CDW-like 电子-声子耦合物理。
-
-## Related Papers
-
-- [[../papers/guanRecentProgressTwoDimensional2020]]
+- [[../papers/guanRecentProgressTwoDimensional2020]] — Recent Progress in Two‐Dimensional Ferroelectric Materials
+- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]] — Advances in two-dimensional ferroelectric materials
+- [[../papers/huProgressProspectsLowdimensional2019]] — Progress and prospects in low‐dimensional multiferroic materials
+- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]] — Multiferroics: different routes to magnetoelectric coupling

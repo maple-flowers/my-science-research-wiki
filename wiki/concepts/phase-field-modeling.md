@@ -1,13 +1,6 @@
----
-tags: [concept, stub]
----
+# phase-field-modeling
 
-
-# 相场模拟 / Phase-field Modeling
-
-相场模拟，基于含时Ginzburg-Landau方程对f_bulk+f_elec+f_elas+f_grad总自由能极小化预测畴结构。
-
-## Related Papers
-
-- [[../papers/hanPolarTopologicalMaterials2025]]
-- [[../papers/gongAbsenceCriticalThickness2023]]
+- [[../papers/Jin2015studying]] — Studying the Polarization Switching in Polycrystalline BiFeO3 Films by 2D Piezoresponse Force Microscopy
+- [[../papers/gongAbsenceCriticalThickness2023]] — Absence of critical thickness for polar skyrmions with breaking the Kittel’s law
+- [[../papers/hanPolarTopologicalMaterials2025]] — Polar topological materials and devices: Prospects and challenges
+- [[../papers/martinThinfilmFerroelectricMaterials2016]] — Thin-film ferroelectric materials and their applications

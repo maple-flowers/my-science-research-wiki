@@ -1,12 +1,4 @@
----
-tags: [concept, stub]
----
+# grain-boundary-nucleation
 
-# 晶界形核）
-
-晶界形核）：铁素体优先在奥氏体晶界（尤其是棱边、角隅）形核的非均匀形核假设。
-
-## Related Papers
-
-- [[../papers/Zhang2002b]]
-- [[../papers/Zhang2003a]]
+- [[../papers/Zhang2002b]] — Cellular automaton model to simulate nucleation and growth of ferrite grains for low-carbon steels
+- [[../papers/Zhang2003a]] — A cellular automaton investigation of the transformation from austenite to ferrite during continuous cooling

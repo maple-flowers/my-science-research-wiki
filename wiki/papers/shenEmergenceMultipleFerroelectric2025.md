@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/shenEmergenceMultipleFerroelectric2025]]
 projects: []
-concepts: [2D-materials, berry-phase, density-functional-theory, moire-superlattice, polarization-switching, sliding-ferroelectricity]
-entities: [In2Se3, SnTe, TMDs, VASP, WTe2, h-BN]
+concepts: [2D-materials, berry-phase, density-functional-theory, moire-superlattice, polarization-switching, sliding-ferroelectricity, multistate-memory, interlayer-dipole-coupling, elemental-ferroelectrics]
+entities: [In2Se3, SnTe, TMDs, VASP, WTe2, h-BN, black-phosphorus]
 methods: [berry-phase, dft, neb]
 materials: [In2Se3, SnTe, TMDs, WTe2, h-BN]
 figures: [domain-walls-switching-properties, electronic-bands-band-structures, electronic-bands-dos-fermi, electronic-devices-memory-transistors, heterostructures-stacking]
@@ -78,7 +78,7 @@ Wanping Shen, Jinbo Shen, Fang Wang, Yunhao Lu et al.，2025，Physical Review B
 
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/sliding-ferroelectricity]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/density-functional-theory]]
   - 概念 [[../concepts/berry-phase]]
   - 概念 [[../concepts/polarization-switching]]
@@ -96,9 +96,9 @@ Wanping Shen, Jinbo Shen, Fang Wang, Yunhao Lu et al.，2025，Physical Review B
   - 实体 [[../entities/black-phosphorus|黑磷 (BP)]]
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/heterostructures-stacking]]
-  - 图表 [[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结 (Multiferroic & Magnetoelectric Heterostructures)]]
+  - 图表 [[../figures/heterostructures-stacking|多铁与磁电异质结 (Multiferroic & Magnetoelectric Heterostructures)]]
   - 图表 [[../figures/domain-walls]]
-  - 年度 [[../write/2025]]
+  - 年度 [[../write/2025-2029|2025]]
   - 相关论文 [[../../raw/note/shenEmergenceMultipleFerroelectric2025]]
 
 ## 📊 关键图表

@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# stack-engineering
 
-# 堆叠工程）
-
-堆叠工程）：通过选择层间堆叠方式/滑移来设计对称性破缺与极化的通用策略，与转角、应变并列的二维材料调控手段。
-
-## Related Papers
-
-- [[../papers/hanTunableSlidingFerroelectricity2025]]
+- [[../papers/hanTunableSlidingFerroelectricity2025]] — Tunable sliding ferroelectricity in two-dimensional van der Waals RuX2 (X = Cl, Br, and I) multiferroic layers
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]] — Sliding ferroelectricity in two-dimensional materials and device applications

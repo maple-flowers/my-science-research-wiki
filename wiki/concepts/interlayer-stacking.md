@@ -1,11 +1,6 @@
----
-tags: [concept, stub]
----
+# interlayer-stacking
 
-# 层间堆叠
-
-层间堆叠（stacking order），双层/多层范德华材料中各层 CDW 或晶格的相对平移与旋转，可改变整体对称性与物性。
-
-## Related Papers
-
-- [[../papers/cossuStackingChargedensityWaves2024]]
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]] — Ferroelectricity and multiferroicity down to the atomic thickness
+- [[../papers/chowdhuryReviewTheoreticalComputational]] — Computational Methods for Charge Density Waves in 2D Materials
+- [[../papers/cossuStackingChargedensityWaves2024]] — Stacking of charge-density waves in 2H-NbSe₂ bilayers
+- [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]] — Intercorrelated In-Plane and Out-of-Plane Ferroelectricity in Ultrathin Two-Dimensional Layered Semiconductor In2Se3

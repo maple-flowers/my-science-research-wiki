@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# solomon-ring
 
-# 所罗门环，BFO纳米晶中两个相互缠绕涡旋构成的拓扑链接，可电场可逆切换。
-
-所罗门环，BFO纳米晶中两个相互缠绕涡旋构成的拓扑链接，可电场可逆切换。
-
-## Related Papers
-
-- [[../papers/hanPolarTopologicalMaterials2025]]
+- [[../papers/hanPolarTopologicalMaterials2025]] — Polar topological materials and devices: Prospects and challenges

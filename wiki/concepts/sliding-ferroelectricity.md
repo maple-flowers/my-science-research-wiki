@@ -1,81 +1,83 @@
 ---
-tags: [concept, ferroelectricity, 2D, sliding, interlayer, moire]
-title: 滑动/堆叠铁电性 / Sliding (Stacking-engineered) Ferroelectricity
+tags: [concept, ferroelectricity, 2d-materials]
+title: 滑动铁电性 / Sliding Ferroelectricity
 type: concept
-status: mature
-category: [D02, Z01]
-domain: ferroelectricity
-mechanism: 层间相对滑移打破反演对称，由界面电荷重分布诱导极化
-related_concepts: [moire-superlattice, super-paraelectricity, polarization-switching, interfacial-charge-rearrangement, slidetronics, domain-wall-motion]
-aliases: ["滑移铁电性", "Sliding Ferroelectricity", "Stacking-engineered ferroelectricity"]
-key_quantities:
-  origin: "Li & Wu 2017 理论提出；首个实验体系为双层 WTe2 (Fei et al., Nature 2018)"
-  barrier: "翻转为弱范德华滑移势垒，较离子位移型低 1–2 个数量级"
-  hbn_domain_wall: "h-BN 畴壁宽 10–40 nm，临界场 ~0.026 V/nm（单畴 ~1.41 V/nm）"
-papers: [wuSlidingFerroelectricity2D2021a, heUltrafastSwitchingDynamics2024, kaurRecentAdvancesTheoretical2025a, guoAdvancesTwodimensionalFerroelectric2025, tianRoomtemperatureTwodimensionalMultiferroic2026, sunSlidingFerroelectricityTwodimensional2025]
+status: developing
+domain: [ferroelectricity, 2d-materials]
+mechanism: 通过范德华层间位移打破反演对称性并产生垂直层面的电极化
+related_concepts: [interlayer-sliding, dipole-locking, moire-superlattice]
+papers: [huangTwodimensionalIn2Se3Rising2022, wuSlidingFerroelectricity2D2021a, feiFerroelectricSwitchingTwodimensional2018a, FerroelectricityMultiferroicityAtomic2023, RecentAdvancesGrowth2025, bhowalPolarMetalsPrinciples2023b, chenStrongSlidingFerroelectricity2024, guanRecentProgressTwoDimensional2020, guoAdvancesTwodimensionalFerroelectric2025, hanTunableSlidingFerroelectricity2025, heSwitchingTwodimensionalSliding2025, heUltrafastSwitchingDynamics2024, huProgressProspectsLowdimensional2019, huangPolarPhaseDomain2019, kaurRecentAdvancesTheoretical2025a, kimObservationPhaseTransition1997, liPhaseTransitions2D2021, martinThinfilmFerroelectricMaterials2016, miaoMagneticFerroelectricMetal2024, neumayerCompetingPolarPhases2025, shenEmergenceMultipleFerroelectric2025, sunSlidingFerroelectricityTwodimensional2025, tangCombiningIntrinsicSlidinginduced2025, tangMultiferroicityTwodimensionalVan2025, tianRoomtemperatureTwodimensionalMultiferroic2026, xunCoexistingMagnetismFerroelectric2024, zhangEmergingFrontiersTwodimensional2025, zhaoOpticalFingerprintsTwodimensional2024]
 updated: 2026-08
 ---
 
-# 滑动/堆叠铁电性 / Sliding (Stacking-engineered) Ferroelectricity
+# 滑动铁电性 / Sliding Ferroelectricity
 
-**滑动铁电性**（Sliding Ferroelectricity）是范德华（vdW）层状材料中涌现的一种非本征铁电机制：即使单层本身具有反演对称性（非铁电），只要通过特定堆垛（3R 相、转角莫尔超晶格）让层与层发生**相对滑动**而打破空间反演对称，就能由层间界面的电荷重分布诱导出垂直层面的面外极化 $P_z$（或面内极化）。该机制由 Li 和 Wu 于 2017 年首次理论预测，并在双层 WTe2、h-BN、TMDs 等体系实验验证，颠覆了"铁电必须靠离子位移"的传统范式 [[../papers/wuSlidingFerroelectricity2D2021a]] [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]。
+滑动铁电性是一种存在于范德华层状材料中的新型铁电机制。它的核心特征是：**通过层与层之间的侧向位移（Sliding）来打破空间反演对称性，从而在垂直于层面的方向上感生出自发极化（Out-of-plane Polarization）。**
 
-## 👵 太奶导读
+## 奶奶导读
 
-太奶，您把这类材料想成一摞透明的薄饼。传统"铁电"能记住电方向，靠的是饼里的芝麻（原子）从这头搬到那头——搬一次得扯断化学键，费劲。可"滑动铁电"另辟蹊径：芝麻根本不用动地方，只要把上面那张饼贴着下面那张轻轻一搓、换个叠法，两张饼交接处的电子云就不对称了，凭空攒出一个电的方向来；再往回一搓，方向就反过来。
+太奶啊，您就把这材料想象成两层平铺好的**花格子布**。原本这两层布叠得严丝合缝，正反看都一模一样，没啥特别的。但如果您用手轻轻这么**一搓**（层间滑动），让上面那层布错开一丁点儿位移，这两层布叠出来的花纹就不再对称了。在咱们物理上，这一“错位”，电荷分布就不平衡了，就像是一排排整齐的小箭头齐刷刷地指向了上方或下方，这就产生了“铁电性”。这可比在布料里搬动一颗颗线头（原子位移）要省力得多，所以这种材料做成的存储器速度特别快！
 
-因为搓动只须克服两张饼之间那点微弱的"粘劲儿"（范德华力），比拽着原子搬家省力一到两个数量级，所以又快又省电、还不容易累。要是把两张饼拧一个小角度，还能叠出像碎花布一样的"莫尔"格子，上面布满一小块一小块朝向不同的电区（铁电畴），可用来做密度极高的存储。更稀罕的是，这招连能导电的金属饼都管用——比如某些磁性薄片，一搓之下磁和电一块儿变，于是"用电指挥磁"做省电存储器就有了着落。一句话：它记住信息不靠原子搬家，而靠"换个叠法"。
+## 🧩 什么是滑动铁电性？
 
-## 🧩 核心物理机制
+在传统的铁电体（如 $BaTiO_3$）中，铁电性起源于原子在单胞内部的微小位移。而在二维范德华材料中，由于层间作用力非常弱，层与层之间可以发生相对滑动。
 
-![图：滑动铁电机制示意——(A) BN 双层经层间滑移翻转极化，(B) 转角 BN 中的莫尔铁电畴，(C) 3R 相 MoS2 与 InSe 结构](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_1_37UWP3F7.png)
-*   **看图要点**：(A) 中两层从 AB 滑到 BA，界面电荷转移方向反向、极化翻转；(B) 小转角把堆垛梯度铺成周期性莫尔铁电畴阵列；(C) 3R 相同向堆叠天然破缺反演对称 [[../papers/wuSlidingFerroelectricity2D2021a]]。
-*   **来源**：[[../papers/wuSlidingFerroelectricity2D2021a]] -> [[../figures/heterostructures-stacking-sliding|层间滑移]]
+*   **物理起源**：当两层原本中心对称的单层材料（如双层 $h\text{-BN}$）以特定的方式堆叠（如 $AB$ 堆叠）时，其重叠部分的电荷分布会因为不对称而发生垂直方向的偏移。
+*   **对称性破缺**：如果我们将上层相对于下层滑动一个特定的矢量（例如从 $AB$ 滑动到 $BA$），体系的垂直极化方向就会发生 $180^\circ$ 的翻转。
+*   **与传统铁电的区别**：传统铁电是“内生位移”，滑动铁电是“层间错位”。这使得铁电性在单层或双层的物理极限下依然能稳定存在，极大地挑战了传统的“临界厚度”理论。
 
-1.  **层间电荷重分布**：极化来自层间电子轨道重叠与费米能级分裂导致的界面电荷转移。层间滑移改变原子对齐方式（AB↔BA），就改变电荷转移方向，从而翻转极化；母体无须本征极性，导体、半导体、绝缘体皆可。
-2.  **超低翻转势垒**：不同于钙钛矿铁电体须断裂/重组强化学键，滑动翻转只克服弱范德华滑移势垒，能量通常低 1–2 个数量级，理论上支持纳秒甚至更快翻转。
-3.  **畴壁动力学**：开关由畴壁运动主导。h-BN 双层畴壁宽达 10–40 nm（远宽于传统铁电体），使临界翻转电场较单畴均匀翻转降低约两个数量级（约 0.026 V/nm 对 1.41 V/nm）；高场下畴壁速度可达数千米每秒，对应皮秒级翻转 [[../papers/heUltrafastSwitchingDynamics2024]]。
-4.  **莫尔超晶格与超顺电性**：小角度扭转双层的堆垛梯度形成纳米畴阵列；理想莫尔超晶格呈**超顺电**行为（无滞后、撤场即消），实验观测到的回滞多源于缺陷（如氮空位，钉扎能约 50 meV）对畴壁的钉扎。
+## ⚡ 核心机制：横向滑动驱动垂直极化
 
-![图：h-BN 双层中 0°(Bloch 型) 与 90°(Néel 型) 畴壁的原子结构与极化分布](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_5_BK4H4WHC.png)
-*   **关键特征**：两种畴壁的极化旋转路径不同，决定其迁移率与临界场；机器学习势模拟揭示莫尔超顺电本质与皮秒级畴壁运动 [[../papers/heUltrafastSwitchingDynamics2024]]。
-*   **来源**：[[../papers/heUltrafastSwitchingDynamics2024]] -> [[../figures/domain-walls|畴与畴壁]]
+滑动铁电性最神奇的地方在于**面内位移与面外电信号的耦合**。
 
-## 🎯 多铁金属、相位锁定与神经形态
+1.  **侧向滑动 (Lateral Shift)**：在外电场或机械力的驱动下，层间发生微小的剪切运动。
+2.  **偶极子翻转 (Dipole Switching)**：这种横向位移改变了层间原子的重叠模式，迫使电荷在垂直方向上重新分布，从而实现了极化的翻转。
+3.  **互锁特征 (Locking)**：在某些材料（如 $\alpha\text{-}In_2Se_3$）中，这种滑动与面内的自发极化是“锁死”的，即翻转面外极化的过程本质上就是驱动层间发生剪切滑移的过程。
 
-- **室温二维多铁金属**：铁电性与金属性本被认为互斥（自由电子屏蔽偶极），但双层 CrTe2、Fe3GeTe2 等打破此范式。以双层 CrTe2 为例，FM 层与 z-AFM 层间的自发层间电荷转移既破缺反演对称诱导面外极化，又通过电子填充调控磁序，实现室温（300 K）空气稳定的"电写磁读"多铁金属 [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]。
-- **相位锁定（Phase-Locking）**：低维下电子序（电荷转移、磁序）与晶格拓扑（莫尔条纹、特定堆垛相位）高度耦合，抑制室温热涨落、稳定铁电畴，并使极化翻转对应变高度敏感，便于应变工程微调。
-- **多态与神经形态**：精确控制层间滑移量（转角、微位移）可得到连续可调的极化中间态，超越二进制 0/1；据此构筑的人工突触支持长时程增强/抑制（LTP/LTD），翻转功耗可低至皮瓦（pW）量级 [[../papers/sunSlidingFerroelectricityTwodimensional2025]]。
+![图：In2Se3 极化反转的三步协同滑动路径](../../raw/figures/huangTwodimensionalIn2Se3Rising2022/fig_8_EC7NT7IT.png)
+*   **关键特征**：图中的三步路径清晰地展示了层间滑动（Sliding）是如何作为中间过程，将一种极化状态转换为另一种的。其翻转势垒（0.066 eV）远低于直接跳跃路径。
+*   **来源**：[[../papers/huangTwodimensionalIn2Se3Rising2022]] -> [[../figures/crystal-structures-bulk|晶体结构]]
 
-## 📊 代表性材料体系
+## 🔬 典型材料体系
 
-![图：BN、MoS2、SnS2、WTe2、CrI3 等在不同堆垛构型下的极性相与非极性相](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_2_UQ8NW6V3.png)
-*   **关键特征**：同一母体在不同堆垛下极性有别——同向（R/AB）堆叠多破缺反演对称而具极性，反向（AA′）堆叠常抵消极化；这正是"堆叠工程"开关铁电的结构依据 [[../papers/wuSlidingFerroelectricity2D2021a]]。
-*   **来源**：[[../papers/wuSlidingFerroelectricity2D2021a]] -> [[../figures/heterostructures-stacking|层间堆垛总览]]
-
-| 材料类别 | 代表体系 | 关键特征 |
-| :--- | :--- | :--- |
-| **绝缘体** | [[../entities/h-BN\|h-BN]] | 最典型体系，AB/BA 滑动诱导极化，室温稳定、抗疲劳 |
-| **半导体** | [[../entities/TMDs\|TMDs]]（MoS2、WSe2） | 3R 相天然滑动铁电；2H 相经转角产生莫尔铁电；3R-MoS2 支持多态存储 |
-| **半金属** | [[../entities/WTe2\|WTe2]]、[[../entities/Graphene\|石墨烯]] | 双层 WTe2 为首个实验证实的滑移铁电（铁电金属）；石墨烯/BN 中亦见响应 |
-| **III–VI 族** | [[../entities/In2Se3\|In2Se3]]、GaSe | 本征极化与滑动极化联动，实现多态切换 |
-| **磁性材料** | [[../entities/CrTe2\|CrTe2]]、[[../entities/Fe3GeTe2\|Fe3GeTe2]] | 滑动/电荷转移诱导室温多铁金属 |
-
-## 🔬 表征与器件
-
-- **表征**：PFM（180° 相位翻转与蝴蝶曲线证实极化翻转）、SHG（对反演对称破缺极敏感）、4D-STEM（在皮米尺度直接观察层间位移与莫尔重构）[[../papers/sunSlidingFerroelectricityTwodimensional2025]]。
-- **器件**：FeFET（3R-MoS2 器件 >10⁴ 次稳定读写、纳秒翻转）、铁电隧道结 FTJ（原子级势垒、开关比可达 10³）、类脑突触（LTP/LTD，功耗可低至 ~20 pW）、多铁存储器（磁电互控）。
-
-![图：二维滑动铁电在 FET、FTJ、突触器件及多铁存储中的应用前景](../../raw/figures/RecentAdvancesGrowth2025/fig_15_TMK8S5HG.png)
-*   **来源**：[[../papers/RecentAdvancesGrowth2025]] -> [[../figures/electronic-devices|电子与突触器件]]
+*   **双层 $h\text{-BN}$**：原本是非铁电的，但在特定的堆叠（如 $Bernal$ 堆叠）下展现出强烈的滑动铁电性。
+*   **$\alpha\text{-}In_2Se_3$**：这是目前研究最成熟的二维滑动铁电体，其“再成键”机制本质上就是一种复杂的层间滑动。
+*   **扭转双层材料 (Twisted Bilayers)**：通过人为扭转一个角度，可以在材料中制造出周期的滑动分布（莫尔超晶格），从而形成铁电畴阵列。
 
 ## 📚 相关论文 (Related Papers)
 
-- **机制与模拟**：[[../papers/wuSlidingFerroelectricity2D2021a]]（物理与器件早期综述）、[[../papers/heUltrafastSwitchingDynamics2024]]（机器学习势揭示 h-BN 超快畴壁动力学与超顺电本质）、[[../papers/heSwitchingTwodimensionalSliding2025]]（应变调控翻转）、[[../papers/kaurRecentAdvancesTheoretical2025a]]（理论计算综述）。
-- **多铁金属**：[[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]（双层 CrTe2 室温多铁金属）、[[../papers/miaoMagneticFerroelectricMetal2024]]（双层 Fe3GeTe2 磁性铁电金属）。
-- **材料与器件**：[[../papers/guoAdvancesTwodimensionalFerroelectric2025]]（确立滑移铁电范式）、[[../papers/tangCombiningIntrinsicSlidinginduced2025]]（本征+滑动极化多态存储）、[[../papers/sunSlidingFerroelectricityTwodimensional2025]]（存储/计算/突触应用综述）、[[../papers/zhangEmergingFrontiersTwodimensional2025]]（前沿展望）。
+- [[../papers/wuSlidingFerroelectricity2D2021a]]：系统阐述了滑动铁电性的通用物理图像。
+- [[../papers/huangTwodimensionalIn2Se3Rising2022]]：讨论了滑动机制在 In2Se3 器件中的应用。
+- [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]：实验上观测到了 In2Se3 中的滑动翻转。
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]]
+- [[../papers/RecentAdvancesGrowth2025]]
+- [[../papers/bhowalPolarMetalsPrinciples2023b]]
+- [[../papers/chenStrongSlidingFerroelectricity2024]]
+- [[../papers/guanRecentProgressTwoDimensional2020]]
+- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]
+- [[../papers/hanTunableSlidingFerroelectricity2025]]
+- [[../papers/heSwitchingTwodimensionalSliding2025]]
+- [[../papers/heUltrafastSwitchingDynamics2024]]
+- [[../papers/huProgressProspectsLowdimensional2019]]
+- [[../papers/huangPolarPhaseDomain2019]]
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]
+- [[../papers/kimObservationPhaseTransition1997]]
+- [[../papers/liPhaseTransitions2D2021]]
+- [[../papers/martinThinfilmFerroelectricMaterials2016]]
+- [[../papers/miaoMagneticFerroelectricMetal2024]]
+- [[../papers/neumayerCompetingPolarPhases2025]]
+- [[../papers/shenEmergenceMultipleFerroelectric2025]]
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
+- [[../papers/tangCombiningIntrinsicSlidinginduced2025]]
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]]
+- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]
+- [[../papers/xunCoexistingMagnetismFerroelectric2024]]
+- [[../papers/zhangEmergingFrontiersTwodimensional2025]]
+- [[../papers/zhaoOpticalFingerprintsTwodimensional2024]]
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
-- [[moire-superlattice|莫尔超晶格]]、[[super-paraelectricity|超顺电性]]、[[polarization-switching|极化翻转]]、[[interfacial-charge-rearrangement|层间电荷重排]]、[[slidetronics|滑移电子学]]、[[domain-wall-motion|畴壁运动]]
-- [[../entities/h-BN|h-BN]]、[[../entities/TMDs|TMDs]]、[[../entities/WTe2|WTe2]]、[[../entities/In2Se3|In2Se3]]、[[../entities/CrTe2|CrTe2]]、[[../entities/Fe3GeTe2|Fe3GeTe2]]、[[../entities/domain-wall|畴壁]]
+- [[../concepts/interlayer-sliding|层间滑动]]
+- [[../concepts/dipole-locking|偶极锁定]]
+- [[../concepts/moire-superlattice|莫尔超晶格]]
+- [[../entities/In2Se3|In2Se3]]

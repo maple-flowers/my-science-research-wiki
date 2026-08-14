@@ -1,11 +1,5 @@
----
-tags: [concept, stub]
----
+# topochemical-reaction
 
-# 拓扑化学/软化学合成）
-
-拓扑化学/软化学合成）：低温下利用不同离子迁移率的动力学差异，在保持结构骨架的同时插入/脱出特定离子，获得高温热力学路线无法企及的亚稳态相。
-
-## Related Papers
-
-- [[../papers/wuElectrostaticGatingIntercalation2022]]
+- [[../papers/kawakamiChargedensityWaveAssociated2023]] — Charge-density wave associated with higher-order Fermi-surface nesting in monolayer VS2
+- [[../papers/naguib25thAnniversaryArticle2013a]] — 25th Anniversary Article: MXenes: A New Family of Two‐Dimensional Materials
+- [[../papers/wuElectrostaticGatingIntercalation2022]] — Electrostatic gating and intercalation in 2D materials

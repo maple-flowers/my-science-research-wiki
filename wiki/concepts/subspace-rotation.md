@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# subspace-rotation
 
-# 子空间旋转/Rayleigh-Ritz
-
-子空间旋转/Rayleigh-Ritz 步骤，在试探波函数子空间内对角化 H 以消除能带间耦合、抑制近简并能级间的不稳定搜索方向。
-
-## Related Papers
-
-- [[../papers/kresseEfficientIterativeSchemes1996d]]
+- [[../papers/kresseEfficiencyAbinitioTotal1996a]] — Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set
+- [[../papers/kresseEfficientIterativeSchemes1996d]] — Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set

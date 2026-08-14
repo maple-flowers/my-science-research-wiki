@@ -77,7 +77,8 @@ Kotz, Quick, Risch, Martin, Hoose, Thiel, Helmer, Rapp et al.，2021，*Advanced
 
 ## 🔗 Wiki 双链
   - 项目 [[../projects/project-1-two-photon]]
-  - 年度 [[../write/2021]]
+  - 年度 [[../write/2020-2024|2021]]
+  - 概念 [[../concepts/transparent-ceramics]]、[[../concepts/submicron-resolution]]、[[../concepts/shrinkage]]
   - 相关论文 [[../../raw/note/Kotz2021polymerization]]
   - 概念：[[../concepts/two-photon-polymerization|双光子聚合（2PP/TPP）]]、[[../concepts/nanocomposite-resin|纳米复合树脂]]、[[../concepts/photopolymerization|光聚合]]、[[../concepts/debinding|脱脂（热脱脂）]]、[[../concepts/sintering|烧结]]、[[../concepts/fused-silica-glass|熔融石英玻璃]]、[[../concepts/micro-optics|微光学]]
   - 实体：[[../entities/Nanoscribe|Nanoscribe]]、[[../entities/Glassomer|Glassomer]]

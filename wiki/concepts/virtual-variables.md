@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# virtual-variables
 
-# 虚拟变量/实变量变换
-
-虚拟变量/实变量变换（p=p'/s, dt'=dt/s），是证明配分函数等价性的数学工具。
-
-## Related Papers
-
-- [[../papers/noseUnifiedFormulationConstant1984]]
+- [[../papers/noseUnifiedFormulationConstant1984]] — A unified formulation of the constant temperature molecular dynamics methods

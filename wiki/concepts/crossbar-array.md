@@ -1,11 +1,4 @@
----
-tags: [concept, stub]
----
+# crossbar-array
 
-# 交叉阵列，无晶体管无源十字交叉结构，是忆阻器高密度集成与存算一体的基础。
-
-交叉阵列，无晶体管无源十字交叉结构，是忆阻器高密度集成与存算一体的基础。
-
-## Related Papers
-
-- [[../papers/xueEmergingNonvolatileMemories2011]]
+- [[../papers/chenHafniumBasedFerroelectricPostMoore2026]] — Hafnium-Based Ferroelectric Post-Moore Electronics: Device Physics, Integration Architectures, and Neuromorphic System Implementation
+- [[../papers/xueEmergingNonvolatileMemories2011]] — Emerging non-volatile memories

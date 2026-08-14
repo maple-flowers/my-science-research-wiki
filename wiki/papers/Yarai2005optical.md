@@ -83,8 +83,10 @@ Atsushi Yarai, Takuji Nakanishi，2005，IEICE Electronics Express，Vol.2 No.14
 ## 🔗 Wiki 双链
   - 概念：[[../concepts/thermal-lens-effect|热透镜效应]]、[[../concepts/photothermal-effect|光热效应]]、[[../concepts/pump-probe-technique|泵浦-探测技术]]、[[../concepts/optical-coupling-efficiency|光耦合效率]]、[[../concepts/relative-humidity|相对湿度]]、[[../concepts/temperature-compensation|温度补偿]]
   - 图表 [[../figures/experimental-setups]]（图1为传感头与测量系统示意图）
-  - 年度 [[../write/2005]]
+  - 年度 [[../write/2005-2009|2005]]
   - 项目 [[../projects/project-6-humidity-sensor]]
+  - 概念 [[../concepts/lock-in-detection]]、[[../concepts/refractive-index]]、[[../concepts/optical-fiber-sensing]]、[[../concepts/absolute-humidity]]
+  - 实体 [[../entities/fiber-coupler]]、[[../entities/si-photodiode]]、[[../entities/super-luminescence-diode]]、[[../entities/optical-interference-filter]]、[[../entities/lock-in-amplifier]]、[[../entities/thermo-electric-cooler]]、[[../entities/laser-diode]]、[[../entities/spherical-lensed-fiber]]
   - 相关论文 [[../../raw/note/Yarai2005optical]]
 ## 🆕 新概念/实体建议
   - `thermal-lens-effect`（概念）：介质吸收高斯泵浦光能量后形成温度/折射率梯度、等效为透镜的光热效应，是本传感器信号来源。

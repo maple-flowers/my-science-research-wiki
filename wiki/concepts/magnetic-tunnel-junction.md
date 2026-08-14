@@ -1,12 +1,4 @@
----
-tags: [concept, stub]
----
+# magnetic-tunnel-junction
 
-# 磁隧道结,
-
-磁隧道结, MTJ）：FM/势垒/FM 结构，TMR 取决于两层磁化相对取向。
-
-## Related Papers
-
-- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]
-- [[../papers/xueEmergingNonvolatileMemories2011]]
+- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]] — Spintronics in Two-Dimensional Materials
+- [[../papers/xueEmergingNonvolatileMemories2011]] — Emerging non-volatile memories

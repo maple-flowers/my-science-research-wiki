@@ -66,9 +66,9 @@ Lin Zhang，2019，*Progress in Natural Science: Materials International* 29(2):
   - 实体：[[../entities/Ti|金属钛]]
   - 图表 [[../figures/crystal-structures]]（HCP/BCC/二十面体堆积模式与对分析指纹）
   - 图表 [[../figures/mathematical-models]]（EAM 总能量公式、Sommerfeld 插值势、惯性矩/形状因子、杜隆-珀蒂热容斜率）
-  - 年度 [[../write/2019]]
+  - 年度 [[../write/2015-2019|2019]]
   - 相关论文 [[../../raw/note/Zhang2019c]]
-  - （主题契合 [[材料模拟计算设计]]，关键词即 "Computational materials design"，但该条目不在本格式规定的双链类别内，特此备注）
+  - （主题契合 [[../topics/材料模拟计算设计]]，关键词即 "Computational materials design"，但该条目不在本格式规定的双链类别内，特此备注）
 
 ## 📊 关键图表
 > raw/figures/Zhang2019c/ 仅有 manifest.json，未导出图片文件；以下按论文原图 Fig.1–Fig.7 逐一文字描述，不伪造图片路径。

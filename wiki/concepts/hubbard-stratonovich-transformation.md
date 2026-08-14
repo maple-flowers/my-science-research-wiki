@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# hubbard-stratonovich-transformation
 
-# 哈伯德-斯特拉托诺维奇变换）
-
-哈伯德-斯特拉托诺维奇变换）：将四次相互作用解耦为费米子与辅助玻色场耦合的标准场论技巧。
-
-## Related Papers
-
-- [[../papers/Makogon2012wave]]
+- [[../papers/Makogon2012wave]] — Spin-charge-density wave in a rounded-square Fermi surface for ultracold atoms

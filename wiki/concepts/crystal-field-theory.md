@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# crystal-field-theory
 
-# 晶体场理论
-
-晶体场理论：配位环境决定过渡金属d轨道分裂与电子占据的理论框架
-
-## Related Papers
-
-- [[../papers/chen3dLevelSymmetry2025]]
+- [[../papers/chen3dLevelSymmetry2025]] — 3d-level symmetry between metal layers governing the electronic configuration of Mn2N MXenes and enabling modulation between half-metallicity and semiconductivity

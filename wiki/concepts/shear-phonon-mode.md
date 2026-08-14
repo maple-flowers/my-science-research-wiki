@@ -1,11 +1,3 @@
----
-tags: [concept, stub]
----
+# shear-phonon-mode
 
-# 剪切声子模式）
-
-剪切声子模式）：α 相高温下被激活的面内剪切光学声子，驱动上两层/下三层原子反向集体运动，触发 1.5 ps 量级的 α→β 超快相变。
-
-## Related Papers
-
-- [[../papers/huangTwodimensionalIn2Se3Rising2022]]
+- [[../papers/huangTwodimensionalIn2Se3Rising2022]] — Two-dimensional In2Se3: A rising advanced material for ferroelectric data storage

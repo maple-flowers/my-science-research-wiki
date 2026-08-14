@@ -1,11 +1,8 @@
----
-tags: [concept, stub]
----
+# norm-conserving-pseudopotential
 
-# Norm Conserving Pseudopotential
-
-Hamann–Schlüter–Chiang 模守恒赝势，要求赝波函数在核心半径内与全电子波函数同范数，对第一行/3d/稀土元素需要很大平面波基组。
-
-## Related Papers
-
-- [[../papers/kresseUltrasoftPseudopotentialsProjector1999c]]
+- [[../papers/Li2013bonding]] — Bonding Charge Density and Ultimate Strength of Monolayer Transition Metal Dichalcogenides
+- [[../papers/chowdhuryReviewTheoreticalComputational]] — Computational Methods for Charge Density Waves in 2D Materials
+- [[../papers/king-smithTheoryPolarizationCrystalline1993]] — Theory of polarization of crystalline solids
+- [[../papers/kresseUltrasoftPseudopotentialsProjector1999c]] — From ultrasoft pseudopotentials to the projector augmented-wave method
+- [[../papers/niuDirectVisualizationLargeScale2021]] — Direct Visualization of Large-Scale Intrinsic Atomic Lattice Structure and Its Collective Anisotropy in Air-Sensitive Monolayer 1T'-WTe2
+- [[../papers/shishkinImplementationPerformanceFrequencydependentGWmethod2006]] — Implementation and performance of the frequency-dependent GW method within the PAW framework

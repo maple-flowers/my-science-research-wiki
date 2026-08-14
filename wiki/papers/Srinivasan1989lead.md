@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Srinivasan1989lead]]
 projects: []
-concepts: [molecular-beam-epitaxy, fabry-perot-interferometer, infrared-detection, band-pass-filter, photoconductivity, skin-depth, atmospheric-window, narrow-gap-semiconductor, quantum-efficiency, detectivity, optical-constants]
+concepts: [molecular-beam-epitaxy, fabry-perot-interferometer, infrared-detection, band-pass-filter, photoconductivity, skin-depth, atmospheric-window, narrow-gap-semiconductor, quantum-efficiency, detectivity, optical-constants, PbSnTe, HgCdTe, KCl]
 entities: [PbSnTe, KCl, HgCdTe, SnTe, Perkin-Elmer]
 methods: [mbe, xrd, vegard-law, optical-transmission-spectroscopy, blackbody-response-measurement, photoconductivity-measurement, knudsen-cell-evaporation]
 materials: [Pb0.82Sn0.18Te, KCl-substrate]
@@ -95,7 +95,9 @@ T. Srinivasan & J. Sobhanadri，1989，Defence Science Journal, Vol. 39, No. 1, 
   - 图表 [[../figures/electronic-devices]]（光电导探测器 I-V、信噪比、优值曲线）
   - 图表 [[../figures/experimental-setups]]（MBE 生长系统、黑体响应测量电路）
   - 图表 [[../figures/mathematical-models|数学模型与物理公式]]（FP 干涉透射公式、响应率/探测率/NEP 优值公式）
-  - 年度 [[../write/1989]]
+  - 年度 [[../write/1945-1999|1989]]
+  - 概念 [[../concepts/optical-constants]]、[[../concepts/photoconductivity]]、[[../concepts/quantum-efficiency]]
+  - 实体 [[../entities/PbSnTe]]、[[../entities/Perkin-Elmer]]、[[../entities/HgCdTe]]、[[../entities/KCl]]
   - 相关论文 [[../../raw/note/Srinivasan1989lead]]
 
 ## 📊 关键图表

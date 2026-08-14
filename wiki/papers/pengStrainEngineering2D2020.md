@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/pengStrainEngineering2D2020]]
 projects: []
-concepts: [2D-materials, deformation-potential, density-functional-theory, moire-superlattice, spin-orbit-coupling, strain-engineering]
-entities: [TMDs, WTe2, h-BN]
+concepts: [2D-materials, deformation-potential, density-functional-theory, moire-superlattice, spin-orbit-coupling, strain-engineering, single-photon-emitter, pseudomagnetic-field, exciton-funnel-effect, raman-strain-splitting, second-harmonic-generation]
+entities: [TMDs, WTe2, h-BN, graphene]
 methods: [afm-pfm, dft, mlip, raman, spectroscopy, tight-binding, xanes]
 materials: [TMDs, WTe2, h-BN]
 figures: [domain-walls-switching-properties, electronic-bands-band-structures, electronic-devices-memory-transistors, electronic-devices-sensors, experimental-setups, mathematical-models-elasticity-strain, optical-spectra, vibrational-spectra]
@@ -76,7 +76,7 @@ Zhiwei Peng, Xiaolin Chen, Yulong Fan, David J. Srolovitz, Dangyuan Lei et al.�
 系统综述了如何通过单轴/双轴/局部应变连续调控二维 TMDCs 和石墨烯的能带结构与光学性质（PL 红移、带隙类型转变、激子漏斗、拉曼分裂、SHG 应变成像、相变等），并梳理了应变加载技术及其在应变传感器、宽谱太阳能漏斗和单光子源等光子学器件中的应用。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/strain-engineering]]
   - 概念 [[../concepts/density-functional-theory]]
   - 概念 [[../concepts/spin-orbit-coupling]]
@@ -98,9 +98,9 @@ Zhiwei Peng, Xiaolin Chen, Yulong Fan, David J. Srolovitz, Dangyuan Lei et al.�
   - 图表 [[../figures/mathematical-models]]
   - 图表 [[../figures/experimental-setups]]
   - 图表 [[../figures/electronic-devices]]
-  - 图表 [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程]]
-  - 年度 [[../write/2020]]
-  - 相关论文 [[../../raw/note/pengStrainEngineering2020]]
+  - 图表 [[../figures/heterostructures-stacking|自旋电子学与应变工程]]
+  - 年度 [[../write/2020-2024|2020]]
+  - 相关论文 [[../../raw/note/pengStrainEngineering2D2020]]
 
 ## 📊 关键图表
   - ![图1 未应变 TMDCs 的晶体结构、激子、自旋轨道劈裂、DFT 能带及 MoS2 吸收/PL 光谱](../../raw/figures/pengStrainEngineering2D2020/fig_1_XEEBDMHH.png) → [[../figures/electronic-bands-band-structures|能带结构与带隙]]

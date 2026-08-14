@@ -1,12 +1,4 @@
----
-tags: [concept, stub]
----
+# hubbard-u
 
-# Hubbard U
-
-Hubbard U 参数，描述同一格点 d/f 电子间有效在位库仑排斥能的关键参数
-
-## Related Papers
-
-- [[../papers/dudarevElectronenergylossSpectraStructural1998a]]
-- [[../papers/zhouFirstprinciplesPredictionRedox2004]]
+- [[../papers/dudarevElectronenergylossSpectraStructural1998a]] — Electron-energy-loss spectra and the structural stability of nickel oxide:  An LSDA+U study
+- [[../papers/zhouFirstprinciplesPredictionRedox2004]] — First-principles prediction of redox potentials in transition-metal compounds with LDA+U

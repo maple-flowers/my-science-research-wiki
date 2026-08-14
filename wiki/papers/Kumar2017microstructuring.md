@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Kumar2017microstructuring]]
 projects: [project-1]
-concepts: [two-photon-polymerization, two-photon-absorption, voxel, photoinitiator, photoresist, diffraction-limit, nonlinear-optics, threshold-effect, aspect-ratio]
+concepts: [two-photon-polymerization, two-photon-absorption, voxel, photoinitiator, diffraction-limit, nonlinear-optics, threshold-effect, aspect-ratio]
 entities: [SU-8, AR-N-4340, thioxanthone-photoinitiator, AOM, LabVIEW, AFM, piezo-nanopositioning-stage, sub-nanosecond-laser]
 methods: [two-photon-polymerization, laser-direct-writing, afm, optical-microscopy, theoretical-modeling, spin-coating, photolithography-process]
 materials: [SU-8, AR-N-4340, 2-4-diethyl-9H-thioxanthen-9-one]
@@ -90,8 +90,10 @@ Raghwendra Kumar, S. Anantha Ramakrishna，2017，Current Science，112(08): 166
   - 实体 [[../entities/SU-8|SU-8]]
   - 图表 [[../figures/mathematical-models]]
   - 图表 [[../figures/experimental-setups]]
-  - 年度 [[../write/2017]]
+  - 年度 [[../write/2015-2019|2017]]
   - 项目 [[../projects/project-1-two-photon]]
+  - 概念 [[../concepts/aspect-ratio]]、[[../concepts/nonlinear-optics]]
+  - 实体 [[../entities/thioxanthone-photoinitiator]]、[[../entities/piezo-nanopositioning-stage]]、[[../entities/LabVIEW]]、[[../entities/sub-nanosecond-laser]]、[[../entities/AFM]]、[[../entities/AR-N-4340]]、[[../entities/AOM]]
   - 相关论文 [[../../raw/note/Kumar2017microstructuring]]
 ## 🆕 新概念/实体建议
   - `two-photon-polymerization`（双光子聚合，TPP）：基于 TPA 非线性效应的 3D 微纳光刻技术，核心机制词条。

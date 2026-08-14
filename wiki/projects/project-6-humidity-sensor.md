@@ -17,9 +17,9 @@ local_path: E:\swan_goose\燕燕\香香\项目六：小花闻的电压湿度传�
 本项目致力于开发基于二维材料、过渡金属氧化物（ZnO）及导电金属-有机框架（MOFs）的高灵敏度湿度传感器。通过调控材料表面的电荷输运、介电常数及带隙偏移，实现对环境湿度的精准电学/光学探测。目前核心工作集中于利用 Origin-MCP 对实验数据进行机制拟合（如 Tauc Plot、Nyquist 图分析）及高质量科研绘图。
 
 ## 2. 与科研 Wiki 知识库的联系
-- **相关材料/实体**：[[../../entities/ZnO|ZnO 氧化锌]]、[[../../entities/twisted-bilayer-graphene|扭曲双层石墨烯 (tBLG)]]、[[../../entities/TMDs|TMDs (MoS2, MoSe2)]]、[[../../entities/MXenes|MXenes]]、[[../../entities/TTF|TTF (MOF配体)]]
-- **相关物理概念**：[[../../concepts/humidity-sensing-mechanism|湿度传感机理]]、[[../../concepts/charge-trap-screening|电荷陷阱屏蔽]]、[[../../concepts/donor-effect|施主效应]]、[[../../concepts/depolarization-field|退极化场]]、[[../../concepts/dielectric-response|介电响应]]、[[../../concepts/van-hove-singularity|范霍夫奇点 (VHS)]]
-- **器件架构**：[[../../concepts/fiber-optic-humidity-sensor|光纤湿度传感器]]、[[../../concepts/sensor-electrode-configuration|传感器电极构型]]、[[../../concepts/fabry-perot-interferometer|法布里-珀罗干涉仪]]、[[../../entities/labyrinth-electrode|迷宫式电极]]
+- **相关材料/实体**：[[../entities/metals-and-alloys-entity|ZnO 氧化锌]]、[[../entities/graphene|扭曲双层石墨烯 (tBLG)]]、[[../entities/TMDs|TMDs (MoS2, MoSe2)]]、[[../entities/MXenes|MXenes]]、[[../entities/TTF|TTF (MOF配体)]]
+- **相关物理概念**：[[../concepts/humidity-sensing-mechanism|湿度传感机理]]、[[../concepts/charge-trap-screening|电荷陷阱屏蔽]]、[[../concepts/donor-effect|施主效应]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/dielectric-response|介电响应]]、[[../concepts/van-hove-singularity|范霍夫奇点 (VHS)]]
+- **器件架构**：[[../concepts/fiber-optic-humidity-sensor|光纤湿度传感器]]、[[../concepts/molecular-beam-epitaxy|传感器电极构型]]、[[../concepts/fabry-perot-interferometer|法布里-珀罗干涉仪]]、[[../entities/labyrinth-electrode|迷宫式电极]]
 
 ---
 

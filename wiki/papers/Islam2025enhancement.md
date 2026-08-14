@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Islam2025enhancement]]
 projects: [project-5, project-7]
-concepts: [2D-materials, charge-density-wave, strain-engineering]
-entities: [TMDs]
+concepts: [2D-materials, charge-density-wave, strain-engineering, bec-bcs-crossover, muon-spin-rotation, two-gap-superconductivity, uemura-relation, superfluid-density, electron-phonon-coupling]
+entities: [TMDs, NbS2, NbSe2]
 methods: [muon-sr]
 materials: [TMDs]
 figures: [crystal-structures-bulk, electronic-bands-band-structures, electronic-bands-cdw-transport]
@@ -72,7 +72,7 @@ S. S. Islam, V. Sazgari, C. Witteveen, J. N. Graham, O. Gerguri, P. Král, M. Ba
 
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/charge-density-wave]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/strain-engineering|应变工程]]（静水压作为干净的无掺杂调控手段，与应变工程物理图像相通）
   - 概念 [[../concepts/superfluid-density|超流密度 n_s/m*]]
   - 概念 [[../concepts/uemura-relation|Uemura 标度律]]
@@ -85,7 +85,7 @@ S. S. Islam, V. Sazgari, C. Witteveen, J. N. Graham, O. Gerguri, P. Král, M. Ba
   - 实体 [[../entities/NbS2|NbS₂]]
   - 图表 [[../figures/crystal-structures]]（4H-NbSe₂ ABAC vs 2H-NbS₂ AB 堆垛）
   - 图表 [[../figures/electronic-bands]]（多带费米面、Nb 4d 柱面 + Se 4p 煎饼状口袋、p-d 杂化）
-  - 年度 [[../write/2025]]
+  - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/Islam2025enhancement]]
 

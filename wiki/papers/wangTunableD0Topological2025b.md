@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/wangTunableD0Topological2025b]]
 projects: [project-2, project-5]
-concepts: [2d-materials, multiferroicity, magnetoelectric-coupling, strain-engineering, density-functional-theory, spin-orbit-coupling, berry-phase, polarization-switching, topological-defects, d0-magnetism, skyrmion, bimeron, dzyaloshinskii-moriya-interaction, half-metal, heisenberg-model, micromagnetic-simulation, topological-spin-texture, stoner-model, magnetic-anisotropy, ferroelectric-control-of-magnetism]
+concepts: [2d-materials, multiferroicity, magnetoelectric-coupling, strain-engineering, density-functional-theory, spin-orbit-coupling, berry-phase, polarization-switching, topological-defects, d0-magnetism, skyrmion, bimeron, dzyaloshinskii-moriya-interaction, half-metal, heisenberg-model, micromagnetic-simulation, topological-spin-texture, stoner-model, magnetic-anisotropy, ferroelectric-control-of-magnetism, magnetic-anisotropy-energy]
 entities: [VASP, In2Se3, TMDs, In2NO2, MoSe2]
 methods: [dft, soc, berry-phase, phonon-spectrum, ab-initio-md, monte-carlo, heisenberg-model, micromagnetic-simulation, stoner-model]
 materials: [In2NO2, MoSe2]
@@ -123,10 +123,12 @@ Fei Wang, Li Deng, Yanzhao Wu, Xiang Yin, Junwei Tong, Xianmin Zhang，2025，Ap
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/heterostructures-stacking]]
-  - 图表 [[../figures/heterostructures-stacking-spintronics-strain|自旋电子学与应变工程 (Spintronics & Strain Engineering)]]
-  - 年度 [[../write/2025]]
+  - 图表 [[../figures/heterostructures-stacking|自旋电子学与应变工程 (Spintronics & Strain Engineering)]]
+  - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 概念 [[../concepts/magnetic-anisotropy]]、[[../concepts/ferroelectric-control-of-magnetism]]
+  - 实体 [[../entities/MoSe2]]、[[../entities/In2NO2]]
   - 相关论文 [[../../raw/note/wangTunableD0Topological2025b]]
 
 ## 🆕 新概念/实体建议

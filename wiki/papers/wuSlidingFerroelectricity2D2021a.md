@@ -99,7 +99,7 @@ Menghao Wu（吴梦昊，华中科技大学）& Ju Li（李巨，MIT），2021�
 
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/sliding-ferroelectricity]]（本文即该领域奠基性综述，直接充实此条目）
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/polarization-switching]]（集体/孤立翻转势垒模型、ripplocation 畴壁动力学）
   - 概念 [[../concepts/multiferroicity]]（滑动多铁：Cr₂NO₂/VS₂/MoN₂ 双层）
   - 概念 [[../concepts/magnetoelectric-coupling]]（"电写磁读"，层间电压翻转净磁矩）
@@ -118,10 +118,10 @@ Menghao Wu（吴梦昊，华中科技大学）& Ju Li（李巨，MIT），2021�
   - 实体 [[../entities/SnTe]]（参考文献 12，Chang et al. Science 2016，单层 SnTe 面内铁电，被引为二维铁电早期里程碑）
   - 实体 [[../entities/VASP]]、[[../entities/Wannier90]]（DFT/Berry 相极化计算工具背景）
   - 图表 [[../figures/heterostructures-stacking]]（扭转双层、Moiré 超晶格、双栅 vdW 异质结器件）
-  - 图表 [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]（AB↔BA 滑移路径、ripplocation 翻转、集体/孤立势垒模型）
+  - 图表 [[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]（AB↔BA 滑移路径、ripplocation 翻转、集体/孤立势垒模型）
   - 图表 [[../figures/domain-walls]]（ripplocation 畴壁、20–50 nm 铁电畴）
   - 图表 [[../figures/electronic-bands]]（Moiré 电势诱导 II 型能带对齐、层间激子捕获）
-  - 年度 [[../write/2021]]（本文发表年，亦为 Yasuda/Vizner Stern 两篇 Science 实验年）
+  - 年度 [[../write/2020-2024|2021]]（本文发表年，亦为 Yasuda/Vizner Stern 两篇 Science 实验年）
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/wuSlidingFerroelectricity2D2021a]]
@@ -206,7 +206,7 @@ Menghao Wu（吴梦昊，华中科技大学）& Ju Li（李巨，MIT），2021�
   - [[../concepts/stacking-engineering|stacking-engineering]]
 ## ✏️ 可写入 Wiki 的要点
   1. **机制本质**：滑动[[../concepts/ferroelectricity|铁电性]]仅存在于 2D vdW 叠层中，垂直电极化由面内层间滑移翻转，无需垂直离子位移；极化源于两层不等价堆垛导致的净[[../concepts/interlayer-charge-transfer|层间[[../concepts/charge-transfer|电荷转移]]]]（如 AB-BN 中 B→N 的电荷转移）。
-  2. **普适判据**：一个 vdW 双层/多层具备滑动铁电性当且仅当：①非中心对称；②对中心水平面作镜像 M_z 得到的极化反转态，可通过层间面内平移 t_∥ 实现。该判据将二维铁电体从极少数（CuInP₂S₆、In₂Se₃、MoTe₂）扩展到大多数已知[[../concepts/2D-materials|二维材料]]。
+  2. **普适判据**：一个 vdW 双层/多层具备滑动铁电性当且仅当：①非中心对称；②对中心水平面作镜像 M_z 得到的极化反转态，可通过层间面内平移 t_∥ 实现。该判据将二维铁电体从极少数（CuInP₂S₆、In₂Se₃、MoTe₂）扩展到大多数已知[[../concepts/2d-materials|二维材料]]。
   3. **极化数值**：AB 双层（pC/m）BN 2.08、ZnO 8.22、AlN 10.29（已知最高）、GaN 9.72、SiC 6.17、MoS₂ 0.97、InSe 0.24、GaSe 0.46、WTe₂ ~0.38（计算）/0.16（20 K 实验）；体相（μC/cm²）3R-BN 2.41（正文称 7.6）、3R-MoS₂ 0.52、3R-InSe 0.08、h-SnS₂ 0.18、h-SnSe₂ 0.42、h-CrI₃ 0.06、ZrI₂ 0.31。二维单位 pC/m 除以层间距可换算为三维 μC/cm²（BN 2.08 pC/m ≈ 0.68 μC/cm²）。
   4. **堆垛敏感性**：并非所有堆垛都有极性——BN 双层 AA'（B 在 N 正上方重叠）非极性且与 AB 近简并；体相中 AA' 与 AB 均保持垂直镜面对称而非极性，只有 ABC（3R 相）堆叠因层间[[../concepts/charge-density|电荷密度]]不对称产生垂直极化。电场可驱动 AB→3R 转变。SnS₂ 三角相/六角相、WTe₂ 单斜/正交相、CrI₃ R/H 型等多型体中，仅部分可由横向平移互相转换。
   5. **ripplocation 畴壁动力学**：翻转通过"ripplocation"环（兼具位错与面外屈曲）的形核与扩展完成；由于 vdW 层间耦合弱、层内共价键刚，长程面内弹性能被屈曲"波纹"几乎完全弛豫，使位错核心能 ∝|b|² 的 Frank 定律失效，Peierls 势垒极低，畴壁可在小驱动力下快速移动。

@@ -1,49 +1,41 @@
----
-tags: [concept, ferroics, phase-transition, domain-wall, 2D-materials, straintronics]
-category: [D02]
----
+# ferroelasticity
 
-# 铁弹性 / Ferroelasticity
-
-**铁弹性** 是指材料在无外加应力的情况下存在多种能量等价且稳定的取向变体（Orientation Variants），并且可以通过施加机械应力在这些变体之间实现可逆切换的物理现象。在二维（2D）体系中，铁弹性为**应变电子学（Straintronics）**提供了理想平台，即利用晶格畸变调控材料的电子、磁性与拓扑物性。
-
-## 1. 微观物理机制
-
-### 1.1 Peierls 畸变与 1T'-TMDs
-在第 VI 族过渡金属硫族化合物（TMDs）中，高对称性的 1T 相在能量上往往不稳定，倾向于发生 **Peierls 畸变**。这种畸变导致金属原子二聚化（Dimerization），形成长方形晶格的 **1T' 相**（如 $WTe_2$ 和 $MoTe_2$）。由于畸变可以沿三角晶格的三个等价方向发生，从而产生三种取向变体（O1, O2, O3）（[[../papers/liFerroelasticityDomainPhysics2016|Li & Li 2016]]）。
-
-### 1.2 自发应变与 β'-In₂Se₃
-在范德华材料 **$\beta'-In_2Se_3$** 中，铁弹性起源于与**反铁电位移**强耦合的自发应变（约 0.49%）。不同于 1T'-TMDs 的二聚化机制，$\beta'-In_2Se_3$ 的铁弹性表现为宏观的纳米条纹超结构（Nanostriped Superstructure），其畴界移动由极小的单轴拉伸应力（$\le 0.5\%$）驱动（[[../papers/xuTwodimensionalFerroelasticityVan2021|Xu 2021]]）。
-
-## 2. 能量学与动力学
-
-### 2.1 翻转能垒 (Switching Barrier)
-不同变体之间的切换需要克服一定的能量势垒。在 $1T'-WTe_2$ 单层中，NEB 计算显示变体转换能垒 **$< 0.2\text{ eV/f.u.}$**，这保证了材料在室温下具有良好的机械可塑性与翻转活性（[[../papers/liFerroelasticityDomainPhysics2016|Li & Li 2016]]）。
-
-### 2.2 屈服应变 (Yield Strain)
-二维铁性材料通常表现出极高的机械强度。例如，$\beta'-In_2Se_3$ 在保持铁弹翻转特性的同时，其屈服应变可达 **$\approx 5.5\%$**，远高于传统三维陶瓷材料。
-
-## 3. 畴物理 (Domain Physics)
-铁弹畴是具有不同取向变体的区域，由**畴壁（Domain Walls, DWs）**分隔。在 2D 体系中，畴壁具有独特的对称性与功能化潜力：
-- **W-walls**：受对称性严格限制的边界。
-- **S-walls**：应变依赖的边界，其取向随局部应变场动态调整以最小化弹性能。
-- **功能性**：畴壁处可能由于对称性进一步破缺而承载独特的电子态或拓扑相，成为二维纳米线器件的天然构建模块（[[../papers/liFerroelasticityDomainPhysics2016|Li & Li 2016]]）。
-
-## 4. 应变调控与多铁性耦合
-通过铁弹性与磁性的耦合，可以设计高性能的二维多铁材料。
-- **插层调控**：在 TMDs 双层中插入过渡金属原子形成的 **$AM_2X_4$** 体系中，铁弹/铁电翻转可以直接改变材料的磁基态（如 FM $\leftrightarrow$ AFM）或磁易轴方向，实现强磁电耦合（[[../papers/zhaoRealization2DMultiferroic2024|Zhao 2024]]）。
-
-## 5. 关键图表
-
-![1T'相的Peierls畸变与变体](../../raw/figures/liFerroelasticityDomainPhysics2016/fig_2_KHBH8L57.png)
-*图 1：1T'-MX₂ 单层中源自三角晶格的三个取向变体。摘自 [[../papers/liFerroelasticityDomainPhysics2016]]*
-
-![In2Se3中的条纹畴结构](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_1_3385VJAN.png)
-*图 2：β’-In2Se3 中的纳米条纹超结构与卫星衍射斑点。摘自 [[../papers/xuTwodimensionalFerroelasticityVan2021]]*
-
-## 6. 相关概念
-- [[straintronics|应变电子学 Straintronics]]
-- [[2D-materials|二维范德华材料与低维铁性]]
-- [[multiferroicity|多铁性 Multiferroicity]]
-- [[../entities/WTe2|二碲化钨 WTe2]]
-- [[../entities/In2Se3|硒化铟 In2Se3]]
+- [[../papers/Chen2016electrical]] — Electrical and mechanical switching of ferroelectric polarization in the 70 nm BiFeO3 film
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]] — Ferroelectricity and multiferroicity down to the atomic thickness
+- [[../papers/Jin2015studying]] — Studying the Polarization Switching in Polycrystalline BiFeO3 Films by 2D Piezoresponse Force Microscopy
+- [[../papers/RecentAdvancesGrowth2025]] — Recent advances in growth, characterization, and application of two-dimensional multiferroic materials
+- [[../papers/bhowalPolarMetalsPrinciples2023b]] — Polar Metals: Principles and Prospects
+- [[../papers/chenFerromagneticNonmagnetic1T2022]] — Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition
+- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]] — Ferroelectricity and multiferroicity in two-dimensional Sc₂P₂Se₆ and ScCrP₂Se₆ monolayers
+- [[../papers/fiebigEvolutionMultiferroics2016]] — The evolution of multiferroics
+- [[../papers/gaoStrainEngineeringFerroelectric2024]] — Strain engineering of ferroelectric polarization and domain in the two-dimensional multiferroic semiconductor
+- [[../papers/gomez-ortizKittelLawDomain2023]] — Kittel law and domain formation mechanism in PbTiO3/SrTiO3 superlattices
+- [[../papers/guanRecentProgressTwoDimensional2020]] — Recent Progress in Two‐Dimensional Ferroelectric Materials
+- [[../papers/hanPolarTopologicalMaterials2025]] — Polar topological materials and devices: Prospects and challenges
+- [[../papers/heSwitchingTwodimensionalSliding2025]] — Switching Two-Dimensional Sliding Ferroelectrics by Mechanical Bending
+- [[../papers/hillWhyAreThere2000a]] — Why Are There so Few Magnetic Ferroelectrics?
+- [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]] — Strain-based room-temperature non-volatile MoTe2 ferroelectric phase change transistor
+- [[../papers/huProgressProspectsLowdimensional2019]] — Progress and prospects in low‐dimensional multiferroic materials
+- [[../papers/huangPolarPhaseDomain2019]] — Polar and phase domain walls with conducting interfacial states in a Weyl semimetal MoTe2
+- [[../papers/kaurRecentAdvancesTheoretical2025a]] — Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials
+- [[../papers/liFerroelasticityDomainPhysics2016]] — Ferroelasticity and domain physics in two-dimensional transition metal dichalcogenide monolayers
+- [[../papers/liMonolayerPuckeredPentagonal2022]] — Monolayer puckered pentagonal VTe2: An emergent two-dimensional ferromagnetic semiconductor with multiferroic coupling
+- [[../papers/liPhaseTransitions2D2021]] — Phase transitions in 2D materials
+- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]] — Multiferroics: different routes to magnetoelectric coupling
+- [[../papers/pedramraziManipulatingTopologicalDomain2019]] — Manipulating Topological Domain Boundaries in the Single-Layer Quantum Spin Hall Insulator 1T′–WSe₂
+- [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films
+- [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]] — A room-temperature ferroelectric semimetal
+- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]] — Advances in magnetoelectric multiferroics
+- [[../papers/spaldinRenaissanceMagnetoelectricMultiferroics2005]] — The Renaissance of Magnetoelectric Multiferroics
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]] — Sliding ferroelectricity in two-dimensional materials and device applications
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]] — Towards Multiferroicity in Two-Dimensional Van Der Waals Materials: Challenges and Opportunities
+- [[../papers/wangFormationMechanismTwin2019]] — Formation mechanism of twin domain boundary in 2D materials: The case for WTe2
+- [[../papers/wuSlidingFerroelectricity2D2021a]] — Sliding ferroelectricity in 2D van der Waals materials: Related physics and future opportunities
+- [[../papers/xuTunableFerroelectricTopological2022]] — Tunable ferroelectric topological defects on 2D topological surfaces: strain engineering skyrmion-like polar structures in 2D materials
+- [[../papers/xuTwodimensionalFerroelasticityVan2021]] — Two-dimensional ferroelasticity in van der Waals β'-In2Se3
+- [[../papers/xunCoexistingMagnetismFerroelectric2024]] — Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensional Materials
+- [[../papers/yangRipplingFerroicPhase2021]] — Rippling Ferroic Phase Transition and Domain Switching In 2D Materials
+- [[../papers/yangStrainEngineeringTwodimensional2021]] — Strain engineering of <scp>two‐dimensional</scp> materials: Methods, properties, and applications
+- [[../papers/zahraCriticalAnalysisFerroelectric2025]] — A critical analysis of ferroelectric and ferromagnetic properties in two-dimensional MXene
+- [[../papers/zhangEmergingFrontiersTwodimensional2025]] — Emerging frontiers in two-dimensional sliding ferroelectrics
+- [[../papers/zhongHighthroughputExfoliationMultiferroic2025]] — High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperature and giant spin splitting
