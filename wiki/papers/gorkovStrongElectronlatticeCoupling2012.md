@@ -77,12 +77,12 @@ Lev P. Gor'kov，2012，Physical Review B 85, 165142，DOI: 10.1103/PhysRevB.85.
   - 实体 [[../entities/2H-NbSe2]]
 
 ## 🆕 新概念/实体建议
-  - `double-well-potential`（双势阱 / 双稳态势）：强 e-ph 耦合下单个离子有效势能 U_tot(u_i) 在 Λ²>1 时由单阱变为对称双阱，是伊辛映射的几何基础，也是位移型↔有序-无序相变判别的核心。
-  - `electron-phonon-coupling`（电子-声子耦合，EPC）：本文用无量纲常数 Λ²（式13）量化耦合强度；Λ²>1 为强耦合区，是双势阱形成的阈值条件。
-  - `migdal-instability`（Migdal 不稳定性）：强 e-ph 耦合使重整化声子频率平方变负所标志的晶格失稳，是软模 CDW 理论（Varma-Simons）与本文局域双阱图像的共同出发点。
-  - `holstein-model`（Holstein 模型）：紧束缚电子与无色散局域声子耦合模型；DMFT 数值结果（双阱、大虚部自能、金属基态）为本文经典解析结果向低温量子区延伸提供佐证。
-  - `fermi-surface-nesting`（费米面嵌套）：被本文系统批驳的传统 CDW 机制，可作为对照概念条目建立。
-  - 实体 `2H-NbSe2`、`2H-TaSe2`：经典 CDW 母体材料（T_CDW 分别 33.5 K、122 K），本文用以对比声子软化、电阻率与 ARPES 数据；wiki 中尚无独立条目。
+  - [[../concepts/double-well-potential|double-well-potential]]（双势阱 / 双稳态势）：强 e-ph 耦合下单个离子有效势能 U_tot(u_i) 在 Λ²>1 时由单阱变为对称双阱，是伊辛映射的几何基础，也是位移型↔有序-无序相变判别的核心。
+  - [[../concepts/electron-phonon-coupling|electron-phonon-coupling]]（电子-声子耦合，EPC）：本文用无量纲常数 Λ²（式13）量化耦合强度；Λ²>1 为强耦合区，是双势阱形成的阈值条件。
+  - [[../concepts/migdal-instability|migdal-instability]]（Migdal 不稳定性）：强 e-ph 耦合使重整化声子频率平方变负所标志的晶格失稳，是软模 CDW 理论（Varma-Simons）与本文局域双阱图像的共同出发点。
+  - [[../concepts/holstein-model|holstein-model]]（Holstein 模型）：紧束缚电子与无色散局域声子耦合模型；DMFT 数值结果（双阱、大虚部自能、金属基态）为本文经典解析结果向低温量子区延伸提供佐证。
+  - [[../concepts/fermi-surface-nesting|fermi-surface-nesting]]（费米面嵌套）：被本文系统批驳的传统 CDW 机制，可作为对照概念条目建立。
+  - 实体 [[../entities/2H-NbSe2|2H-NbSe2]]、[[../entities/2H-TaSe2|2H-TaSe2]]：经典 CDW 母体材料（T_CDW 分别 33.5 K、122 K），本文用以对比声子软化、电阻率与 ARPES 数据；wiki 中尚无独立条目。
 ## 📊 关键图表
 本文为纯理论解析论文，raw/figures 目录下无图片文件；正文无实验数据图，仅有两个可可视化的理论模型元素（公式 15 的双势阱曲线、公式 24 的能带反交叉示意），以下以文字描述。
 

@@ -243,23 +243,23 @@ Wenbin Li、Xiaofeng Qian、Ju Li，2021，*Nature Reviews Materials* 6, 829–8
   - 实体 [[../entities/SnO]]
 
 ## 🆕 新概念/实体建议
-  - `mermin-wagner-theorem`：Hohenberg–Mermin–Wagner 定理，连续对称性在 2D 短程相互作用体系中禁止有限温度长程有序；磁各向异性/长程相互作用是其逃逸出口。
-  - `polymorphic-phase-transition`：2H/1T/1T′ 多晶型相变，TMD 中半导体—金属—量子自旋霍尔绝缘相之间的结构-电子协同转变。
-  - `displacive-phase-transition`：位移型相变，原子协同小位移越过势垒，速度受声子群速限制，外力指数 n 可高达 ~20。
-  - `diffusive-phase-transition`：扩散型相变，热激活原子长程迁移（n≈1），对应 PCM/界面存储中的熔化-结晶过程。
-  - `quantum-phase-transition`：由量子涨落在 T=0 驱动的相变，与 Kosterlitz–Thouless 拓扑相变并列为 2D 特有相态。
-  - `euler-buckling`：欧拉屈曲，2D 薄膜受压时面外弯曲在临界应力下失稳，是 2D 力学可重构性的几何来源。
-  - `peierls-instability`：Peierls 失稳，1D/2D 金属因电声耦合打开能隙，与 CDW 共同起源于增强的电子-声子相互作用。
-  - `electrostatic-doping`：静电掺杂，离子液体/固态栅压在 2D 表面可注入 ~10^14 e cm^-2 载流子而不发生 3D 库仑爆炸。
-  - `ripplocation`：褶皱位错（ripplocation），2D 层状材料压缩时形成的面外褶皱型缺陷，替代体材料中的位错增殖。
-  - `optomechanical-phase-change`：光致力学相变，光生载流子/应变耦合诱发马氏体式可逆结构翻转（SnO 单层等）。
-  - `berry-curvature-dipole`：贝里曲率偶极，奇数层 WTe2 中非线性反常霍尔电压随极化反转而反号，可做非易失存储。
-  - `flexoelectricity`：挠曲电效应，应变梯度在 2D 中可显著极化金属/半金属，是"弯曲工程"的核心耦合项。
-  - `interfacial-phase-change-memory`：界面相变存储，GeTe/Sb2Te3、TiTe2/Sb2Te3 超晶格中原子仅在 ~5 Å 层内扩散，降低开关能耗与漂移。
-  - `kosterlitz-thouless-transition`：KT 相变，涡旋-反涡旋解绑定驱动的拓扑相变，无朗道式对称破缺。
-  - `ferroic-order`：铁性序（铁弹/铁电/铁磁/铁环）统一框架，对应自发应变/极化/磁化/环磁矩。
-  - `quantum-spin-hall`：1T′-TMD（尤其 WTe2）单层为量子自旋霍尔绝缘体，边缘导电 ~e²/h。
-  - 实体建议：`MoS2`、`MoTe2`、`CrI3`、`Cr2Ge2Te6`、`NbSe2`、`CuInP2S6`、`GeTe`、`Sb2Te3`、`TiTe2`、`SnO`、`SnSe`、`GeSe`、`graphene`。
+  - [[../concepts/mermin-wagner-theorem|mermin-wagner-theorem]]：Hohenberg–Mermin–Wagner 定理，连续对称性在 2D 短程相互作用体系中禁止有限温度长程有序；磁各向异性/长程相互作用是其逃逸出口。
+  - [[../concepts/polymorphic-phase-transition|polymorphic-phase-transition]]：2H/1T/1T′ 多晶型相变，TMD 中半导体—金属—量子自旋霍尔绝缘相之间的结构-电子协同转变。
+  - [[../concepts/displacive-phase-transition|displacive-phase-transition]]：位移型相变，原子协同小位移越过势垒，速度受声子群速限制，外力指数 n 可高达 ~20。
+  - [[../concepts/diffusive-phase-transition|diffusive-phase-transition]]：扩散型相变，热激活原子长程迁移（n≈1），对应 PCM/界面存储中的熔化-结晶过程。
+  - [[../concepts/quantum-phase-transition|quantum-phase-transition]]：由量子涨落在 T=0 驱动的相变，与 Kosterlitz–Thouless 拓扑相变并列为 2D 特有相态。
+  - [[../concepts/euler-buckling|euler-buckling]]：欧拉屈曲，2D 薄膜受压时面外弯曲在临界应力下失稳，是 2D 力学可重构性的几何来源。
+  - [[../concepts/peierls-instability|peierls-instability]]：Peierls 失稳，1D/2D 金属因电声耦合打开能隙，与 CDW 共同起源于增强的电子-声子相互作用。
+  - [[../concepts/electrostatic-doping|electrostatic-doping]]：静电掺杂，离子液体/固态栅压在 2D 表面可注入 ~10^14 e cm^-2 载流子而不发生 3D 库仑爆炸。
+  - [[../concepts/ripplocation|ripplocation]]：褶皱位错（ripplocation），2D 层状材料压缩时形成的面外褶皱型缺陷，替代体材料中的位错增殖。
+  - [[../concepts/optomechanical-phase-change|optomechanical-phase-change]]：光致力学相变，光生载流子/应变耦合诱发马氏体式可逆结构翻转（SnO 单层等）。
+  - [[../concepts/berry-curvature-dipole|berry-curvature-dipole]]：贝里曲率偶极，奇数层 WTe2 中非线性反常霍尔电压随极化反转而反号，可做非易失存储。
+  - [[../concepts/flexoelectricity|flexoelectricity]]：挠曲电效应，应变梯度在 2D 中可显著极化金属/半金属，是"弯曲工程"的核心耦合项。
+  - [[../entities/interfacial-phase-change-memory|interfacial-phase-change-memory]]：界面相变存储，GeTe/Sb2Te3、TiTe2/Sb2Te3 超晶格中原子仅在 ~5 Å 层内扩散，降低开关能耗与漂移。
+  - [[../concepts/kosterlitz-thouless-transition|kosterlitz-thouless-transition]]：KT 相变，涡旋-反涡旋解绑定驱动的拓扑相变，无朗道式对称破缺。
+  - [[../concepts/ferroic-order|ferroic-order]]：铁性序（铁弹/铁电/铁磁/铁环）统一框架，对应自发应变/极化/磁化/环磁矩。
+  - [[../concepts/quantum-spin-hall|quantum-spin-hall]]：1T′-TMD（尤其 WTe2）单层为量子自旋霍尔绝缘体，边缘导电 ~e²/h。
+  - 实体建议：[[../entities/MoS2|MoS2]]、[[../entities/MoTe2|MoTe2]]、[[../entities/CrI3|CrI3]]、[[../entities/Cr2Ge2Te6|Cr2Ge2Te6]]、[[../entities/NbSe2|NbSe2]]、[[../entities/CuInP2S6|CuInP2S6]]、[[../entities/GeTe|GeTe]]、[[../entities/Sb2Te3|Sb2Te3]]、[[../entities/TiTe2|TiTe2]]、[[../entities/SnO|SnO]]、[[../entities/SnSe|SnSe]]、[[../entities/GeSe|GeSe]]、[[../entities/graphene|graphene]]。
 
 ## 📊 关键图表
   - 图 2：MoTe2 多晶型相变的多场调控——激光诱导图案化、离子液体场效应静电掺杂、垂直电场下 2Hd 导电细丝。

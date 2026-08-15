@@ -108,16 +108,16 @@ Dahua Ren, Yao Wen, Hui Zeng, Xiaoqiang Feng, Teng Zhang, Yuan Zhang, Liushun Wa
   - 相关论文 [[../../raw/note/RecentAdvancesGrowth2025]]
 
 ## 🆕 新概念/实体建议
-  - `type-II-multiferroics`（概念）：铁电极化直接由螺旋磁序等特殊磁结构通过自旋-轨道耦合诱导（P ∝ e×q 或逆 DM/自旋流机制），磁电耦合强但极化小、转变温度低；与 I 型多铁（铁电与磁来源独立、弱耦合）相对。
-  - `d0-rule`（概念）：传统铁电性要求过渡金属 d 轨道空（d⁰），而磁性要求 d 轨道未填满，二者化学互斥，解释了磁性铁电体稀缺的根本原因。
-  - `electromagnon`（概念）：兼具电偶极活性的磁振子激发，是动态磁电耦合的直接"指纹"，可被太赫兹光谱和圆偏振拉曼探测。
-  - `triferroics`（概念）：同一相中同时存在铁电、铁磁与铁谷（或铁弹）三种序，可实现多态存储；文中列举 WRuCl₆、FeO₂H、Nb₃X₈、Eu 掺杂 GdCl₂、双层 T′-VTe₂、GdI₂ 等候选。
-  - `ferrovalley`（概念）：二维六角晶格中 K/K′ 能谷的极化可被外场翻转，是谷电子学的核心自由度。
-  - `NiI2`（实体）：首个实验证实的单层 II 型范德华多铁体，螺旋磁序+强 SOC 产生铁电极化；T_N1=78 K（反铁磁）、T_N2=59.5 K（多铁），STM/SHG/圆偏振拉曼/太赫兹均已观测。
-  - `Cr2S3`（实体）：CVD 界面调制策略在 c 面蓝宝石上生长的一英寸晶圆级单胞非层状多铁体，室温铁电、T_C=200 K 铁磁（块体两倍），迄今最大最薄多铁材料之一。
-  - `CuCrSe2`（实体）：CVT 合成单层，室温铁电+120 K 铁磁；FE 诱导 Cr 轨道位移增强铁磁耦合，机制介于 I/II 型之间。
-  - `SnSe`（实体）：PVD 在云母上生长的 p 型掺杂 SnSe，337 K 亚铁磁性与室温铁电共存，伴局域相分离微畴与界面电荷转移。
-  - `vapor-deposition-growth`（概念）：CVD/CVT/PVD/MBE/ALD 等自下而上气相沉积家族的统称，是二维多铁材料走向晶圆级制备的主流路线。
+  - [[../concepts/type-II-multiferroics|type-II-multiferroics]]（概念）：铁电极化直接由螺旋磁序等特殊磁结构通过自旋-轨道耦合诱导（P ∝ e×q 或逆 DM/自旋流机制），磁电耦合强但极化小、转变温度低；与 I 型多铁（铁电与磁来源独立、弱耦合）相对。
+  - [[../concepts/d0-rule|d0-rule]]（概念）：传统铁电性要求过渡金属 d 轨道空（d⁰），而磁性要求 d 轨道未填满，二者化学互斥，解释了磁性铁电体稀缺的根本原因。
+  - [[../concepts/electromagnon|electromagnon]]（概念）：兼具电偶极活性的磁振子激发，是动态磁电耦合的直接"指纹"，可被太赫兹光谱和圆偏振拉曼探测。
+  - [[../concepts/triferroics|triferroics]]（概念）：同一相中同时存在铁电、铁磁与铁谷（或铁弹）三种序，可实现多态存储；文中列举 WRuCl₆、FeO₂H、Nb₃X₈、Eu 掺杂 GdCl₂、双层 T′-VTe₂、GdI₂ 等候选。
+  - [[../concepts/ferrovalley|ferrovalley]]（概念）：二维六角晶格中 K/K′ 能谷的极化可被外场翻转，是谷电子学的核心自由度。
+  - [[../entities/NiI2|NiI2]]（实体）：首个实验证实的单层 II 型范德华多铁体，螺旋磁序+强 SOC 产生铁电极化；T_N1=78 K（反铁磁）、T_N2=59.5 K（多铁），STM/SHG/圆偏振拉曼/太赫兹均已观测。
+  - [[../entities/Cr2S3|Cr2S3]]（实体）：CVD 界面调制策略在 c 面蓝宝石上生长的一英寸晶圆级单胞非层状多铁体，室温铁电、T_C=200 K 铁磁（块体两倍），迄今最大最薄多铁材料之一。
+  - [[../entities/CuCrSe2|CuCrSe2]]（实体）：CVT 合成单层，室温铁电+120 K 铁磁；FE 诱导 Cr 轨道位移增强铁磁耦合，机制介于 I/II 型之间。
+  - [[../entities/SnSe|SnSe]]（实体）：PVD 在云母上生长的 p 型掺杂 SnSe，337 K 亚铁磁性与室温铁电共存，伴局域相分离微畴与界面电荷转移。
+  - [[../concepts/vapor-deposition-growth|vapor-deposition-growth]]（概念）：CVD/CVT/PVD/MBE/ALD 等自下而上气相沉积家族的统称，是二维多铁材料走向晶圆级制备的主流路线。
 
 ## 📊 关键图表
 

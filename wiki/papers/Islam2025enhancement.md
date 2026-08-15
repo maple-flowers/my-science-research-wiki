@@ -91,7 +91,7 @@ S. S. Islam, V. Sazgari, C. Witteveen, J. N. Graham, O. Gerguri, P. Král, M. Ba
   - 实体 [[../entities/1T-MoTe2]]
 
 ## 🆕 新概念/实体建议
-  - 实体 `1T-MoTe2.md`：本文图 5 中作为对比的拓扑/外尔超导体，已有 wiki WTe2 可作为邻近条目。
+  - 实体 [[../entities/1T-MoTe2|1T-MoTe2]]：本文图 5 中作为对比的拓扑/外尔超导体，已有 wiki WTe2 可作为邻近条目。
 
 ## 📊 关键图表
   - ![图1 4H-NbSe2与2H-NbS2晶体结构对比（三棱柱配位；4H ABAC vs 2H AB堆垛）](../../raw/figures/Islam2025enhancement/fig_1_KVZVNDQP.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]

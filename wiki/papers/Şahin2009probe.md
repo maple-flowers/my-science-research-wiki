@@ -64,10 +64,10 @@ tags:
   - 相关论文 [[../../raw/note/Şahin2009probe]]
   - （本文为高能物理唯象学，与wiki现有凝聚态/材料概念、实体条目无对应，故不强行双链。）
 ## 🆕 新概念/实体建议
-  - `unparticles.md`（非粒子）：Georgi 2007 提出的具有非整数标度维度 d_U、标度不变的新物理sector，传播子含 sin(d_Uπ) 与 (−P²)^(d_U−2)，表现为连续质谱而非共振峰。属高能物理概念，与当前wiki主题距离远，可酌情新建。
-  - `equivalent-photon-approximation.md`（等效光子近似, EPA）：将高能带电粒子周围的准实虚光子云谱化，把 pp→pXp 卷积为 γγ→X 的通用方法；在其它涉及带电粒子周边光子场的主题（如粒子束辐射、光核反应）中可复用，但同样偏HEP。
-  - `exclusive-production.md`（独家/排他产生）：pp→pXp，两质子保持完整、无强子残余，前向探测器（距IP 100–400 m）标记散射质子，背景极低；是LHC前向物理的通用范式。
-  - `scale-invariance.md`（标度不变性）/ `conformal-invariance.md`（共形不变性）：非粒子传播子与幺正性界限（d_U≥1 标量、d_U≥3 张量标度不变、d_U≥4 张量共形不变）的理论基础。condensed-matter wiki 已有"相变/临界现象"潜在语境时可复用，但本文用法是HEP场论语境。
+  - [[../concepts/unparticles|unparticles]]（非粒子）：Georgi 2007 提出的具有非整数标度维度 d_U、标度不变的新物理sector，传播子含 sin(d_Uπ) 与 (−P²)^(d_U−2)，表现为连续质谱而非共振峰。属高能物理概念，与当前wiki主题距离远，可酌情新建。
+  - [[../concepts/equivalent-photon-approximation|equivalent-photon-approximation]]（等效光子近似, EPA）：将高能带电粒子周围的准实虚光子云谱化，把 pp→pXp 卷积为 γγ→X 的通用方法；在其它涉及带电粒子周边光子场的主题（如粒子束辐射、光核反应）中可复用，但同样偏HEP。
+  - [[../concepts/exclusive-production|exclusive-production]]（独家/排他产生）：pp→pXp，两质子保持完整、无强子残余，前向探测器（距IP 100–400 m）标记散射质子，背景极低；是LHC前向物理的通用范式。
+  - [[../concepts/scale-invariance|scale-invariance]]（标度不变性）/ [[../concepts/conformal-invariance|conformal-invariance]]（共形不变性）：非粒子传播子与幺正性界限（d_U≥1 标量、d_U≥3 张量标度不变、d_U≥4 张量共形不变）的理论基础。condensed-matter wiki 已有"相变/临界现象"潜在语境时可复用，但本文用法是HEP场论语境。
 ## 📊 关键图表
   - ![有效γγ亮度随双光子不变质量W的变化；左：两种ξ接受度；右：|q1t+q2t|<30 MeV截断几乎不损失亮度](../../raw/figures/Şahin2009probe/fig_1_QMH5LB3H.png) -> [[../figures/electronic-devices-sensors|传感器与探测器]]
   - **图示描述**：左图绘出两种前向探测器接受度（0.0015<ξ<0.15 与 0.0015<ξ<0.5）下有效 γγ 亮度 dL_γγ/dW（纵轴，GeV⁻¹）随双光子系统不变质量 W（横轴，GeV，0–1000 GeV）的变化；右图比较在不施加任何 ξ 接受度时，对光子对总横动量加 |q̃₁t+q̃₂t|<30 MeV 截断前后亮度曲线的差异。

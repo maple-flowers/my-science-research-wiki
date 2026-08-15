@@ -106,17 +106,17 @@ Wrzyszczyński A.，2010，*Polimery*，55(3), 167–171，DOI: 10.14314/polimer
   - 实体：
     - [[../entities/stilbene|二苯乙烯]]
 ## 🆕 新概念/实体建议
-  - `two-photon-absorption` — 双光子吸收（TPA），非线性光学过程，分子同时吸收两个低能光子，概率正比于 I₀²
-  - `two-photon-polymerization` — 双光子聚合（TPP），利用 TPA 在激光焦点 λ³ 体素内引发聚合的真三维微加工技术
-  - `photoinitiator` — 光引发剂，吸收光能后产生自由基/阳离子引发聚合的化合物
-  - `d-pi-a-structure` — D-π-A / D-π-D 分子结构，电子给体-共轭桥-电子受体架构，是增大双光子吸收截面的经典设计
-  - `two-photon-cross-section` — 双光子吸收截面 δ，单位 GM（1 GM = 10⁻⁵⁰ cm⁴·s·photon⁻¹），衡量分子双光子吸收能力
-  - `photoinduced-electron-transfer` — 光诱导电子转移（PET），二元引发体系中光敏剂与共引发剂之间的电子传递机制
-  - `exciplex` — 激基复合物，激发态引发剂与基态单体形成的瞬态复合物，参与自由基生成
-  - `coumarin` — 香豆素类染料，常用作双光子光敏剂（电子受体），与 DPI/HABI 等共引发剂配合
-  - `stilbene` — 二苯乙烯类衍生物，D-π-D 型双光子引发剂的经典骨架（化合物 I–V）
-  - `diphenyliodonium-salt` — 二苯基碘鎓盐（DPI），碘鎓盐类电子给体共引发剂，接受电子后裂解产生芳基自由基
-  - `habi` — 邻氯六苯基双咪唑（HABI），另一类常用电子给体共引发剂
+  - [[../concepts/two-photon-absorption|two-photon-absorption]] — 双光子吸收（TPA），非线性光学过程，分子同时吸收两个低能光子，概率正比于 I₀²
+  - [[../concepts/two-photon-polymerization|two-photon-polymerization]] — 双光子聚合（TPP），利用 TPA 在激光焦点 λ³ 体素内引发聚合的真三维微加工技术
+  - [[../concepts/photoinitiator|photoinitiator]] — 光引发剂，吸收光能后产生自由基/阳离子引发聚合的化合物
+  - [[../concepts/d-pi-a-structure|d-pi-a-structure]] — D-π-A / D-π-D 分子结构，电子给体-共轭桥-电子受体架构，是增大双光子吸收截面的经典设计
+  - [[../concepts/two-photon-cross-section|two-photon-cross-section]] — 双光子吸收截面 δ，单位 GM（1 GM = 10⁻⁵⁰ cm⁴·s·photon⁻¹），衡量分子双光子吸收能力
+  - [[../concepts/photoinduced-electron-transfer|photoinduced-electron-transfer]] — 光诱导电子转移（PET），二元引发体系中光敏剂与共引发剂之间的电子传递机制
+  - [[../concepts/exciplex|exciplex]] — 激基复合物，激发态引发剂与基态单体形成的瞬态复合物，参与自由基生成
+  - [[../entities/coumarin|coumarin]] — 香豆素类染料，常用作双光子光敏剂（电子受体），与 DPI/HABI 等共引发剂配合
+  - [[../entities/stilbene|stilbene]] — 二苯乙烯类衍生物，D-π-D 型双光子引发剂的经典骨架（化合物 I–V）
+  - [[../entities/diphenyliodonium-salt|diphenyliodonium-salt]] — 二苯基碘鎓盐（DPI），碘鎓盐类电子给体共引发剂，接受电子后裂解产生芳基自由基
+  - [[../entities/habi|habi]] — 邻氯六苯基双咪唑（HABI），另一类常用电子给体共引发剂
 ## 📊 关键图表
   - ![图1 双光子辐射吸收机理：a) 顺序型（经真实中间激发态），b) 同时型（经虚态）](../../raw/figures/WRZYSZCZYNSKI2010initiators/fig_1_QPNCJL4V.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：简化的 Jablonski 能级图，纵轴为能量，分子从基态 S₀ 跃迁至更高激发态，对比两条双光子吸收路径——a) 顺序型经真实中间态 S₁，b) 同时型经虚态直接到达 S₁。

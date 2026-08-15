@@ -99,8 +99,8 @@ Koki Yanagizawa, Katsuaki Sugawara, Tappei Kawakami, Ryuichi Ando, Ken Yaegashi,
   - 相关论文 [[../../raw/note/yanagizawaSwitchingChargedensityWave2023]]
 
 ## 🆕 新概念/实体建议
-  - `wiki/entities/Quantum-Espresso.md` — 本文使用的第一性原理平面波 DFT 软件包（GGA-PBE，60 Ry 截断，12×12×1 k 网格，真空层 >10 Å）。
-  - 方法标签可在 wiki/concepts 下补：`arpes`、`mbe-rheed`、`k-deposition-doping`。
+  - [[../entities/Quantum-Espresso|Quantum-Espresso]] — 本文使用的第一性原理平面波 DFT 软件包（GGA-PBE，60 Ry 截断，12×12×1 k 网格，真空层 >10 Å）。
+  - 方法标签可在 wiki/concepts 下补：[[../concepts/arpes|arpes]]、[[../concepts/mbe-rheed|mbe-rheed]]、[[../concepts/k-deposition-doping|k-deposition-doping]]。
 
 ## 📊 关键图表
   - **图1：原始单层 1T-TiTe₂ 的电子结构与 2×2 CDW 指纹**

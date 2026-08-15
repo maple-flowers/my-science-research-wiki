@@ -96,10 +96,10 @@ Qing Zhang, Aiqing Fan, Yongshuai Wang, Fan Wu, Lin Li, Hong Meng, Dechao Geng e
   - 实体 [[../entities/Bi2O2Se]]
 
 ## 🆕 新概念/实体建议
-  - 实体 `InSe.md`：γ/β/ε-InSe 与 In2Se3 不同；ε-InSe 偶数层面外极化、~3 ps 超快体光伏；Y 掺杂 γ-InSe 压电系数提升一个数量级。
-  - 实体 `SnSe2.md`：衬底引导 CVD 生长 6R/12R/18R/18C 高阶多型体，AB' 堆垛具铁电。
-  - 实体 `CCC-amphidynamic-crystal.md`：(15-冠-5)Cd3Cl6 有机-无机杂化两性动力学晶体，首个宏观直接测得滑动铁电滞回线的体系（0.3–0.4 μC/cm²）。
-  - 实体 `NbOI2.md`、`Bi2O2Se.md`：文中列为二维极限下已证实鲁棒铁电的少数体系。
+  - 实体 [[../entities/InSe|InSe]]：γ/β/ε-InSe 与 In2Se3 不同；ε-InSe 偶数层面外极化、~3 ps 超快体光伏；Y 掺杂 γ-InSe 压电系数提升一个数量级。
+  - 实体 [[../entities/SnSe2|SnSe2]]：衬底引导 CVD 生长 6R/12R/18R/18C 高阶多型体，AB' 堆垛具铁电。
+  - 实体 [[../entities/CCC-amphidynamic-crystal|CCC-amphidynamic-crystal]]：(15-冠-5)Cd3Cl6 有机-无机杂化两性动力学晶体，首个宏观直接测得滑动铁电滞回线的体系（0.3–0.4 μC/cm²）。
+  - 实体 [[../entities/NbOI2|NbOI2]]、[[../entities/Bi2O2Se|Bi2O2Se]]：文中列为二维极限下已证实鲁棒铁电的少数体系。
 ## 📊 关键图表
 笔记未附图片（raw/figures 目录仅有 manifest.json，无图像文件），以下以文字形式逐图描述。
 

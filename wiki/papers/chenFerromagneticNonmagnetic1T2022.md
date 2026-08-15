@@ -111,16 +111,16 @@ Kaiyun Chen, Junkai Deng, Dongxiao Kan, Yuan Yan, Qian Shi, Wangtu Huo, Mengshan
   - 实体 [[../entities/VTe2]]
 
 ## 🆕 新概念/实体建议
-  - `peierls-distortion`：派尔斯畸变，一维/准一维金属中电子-声子耦合导致晶格周期性二聚化并在费米面打开带隙的不稳定性，是NM-CDW的标准形成机制。
-  - `superexchange`：超交换，磁性阳离子通过非磁性阴离子介导的间接磁耦合，符号/大小依赖M-X-M键角（GKA规则）。
-  - `direct-exchange`：直接交换，相邻磁性原子波函数直接重叠产生的磁耦合。
-  - `goodenough-kanamori-anderson-rules`：GKA规则，根据M-X-M键角和d电子数预测超交换符号的半经验规则；键角接近90°时倾向FM。
-  - `structural-distortion-index`：结构畸变指数d₁/d₂，1T′相中相邻两列金属原子短/长键之比，可作为区分FM-CDW形成机制的简单"指纹"（≈0.8超交换，<0.7二聚化）。
-  - `charge-doping`：电荷掺杂（电子/空穴注入），通过栅压、离子插层等调控载流子浓度从而调制电子结构与相变的手段。
-  - `dimerization`：二聚化，相邻金属原子两两靠近形成成键对以降低电子能量的晶格畸变模式。
-  - 实体 `CrS2`、`CrSe2`：CrX₂家族中同时具有NM和FM 1T′ CDW态的代表性二维磁性TMD；CrS₂是电荷掺杂可逆相变的模型体系。
-  - 实体 `VTe2`：唯一稳定的1T′ FM-CDW钒基TMD，FM机制与CrX₂相同（超交换）。
-  - 实体 `MnS2`/`MnSe2`/`MnTe2`：Mn基TMD，FM-CDW源于Mn-Mn二聚化未能完全淬灭磁矩，机制区别于CrX₂。
+  - [[../concepts/peierls-distortion|peierls-distortion]]：派尔斯畸变，一维/准一维金属中电子-声子耦合导致晶格周期性二聚化并在费米面打开带隙的不稳定性，是NM-CDW的标准形成机制。
+  - [[../concepts/superexchange|superexchange]]：超交换，磁性阳离子通过非磁性阴离子介导的间接磁耦合，符号/大小依赖M-X-M键角（GKA规则）。
+  - [[../concepts/direct-exchange|direct-exchange]]：直接交换，相邻磁性原子波函数直接重叠产生的磁耦合。
+  - [[../concepts/goodenough-kanamori-anderson-rules|goodenough-kanamori-anderson-rules]]：GKA规则，根据M-X-M键角和d电子数预测超交换符号的半经验规则；键角接近90°时倾向FM。
+  - [[../concepts/structural-distortion-index|structural-distortion-index]]：结构畸变指数d₁/d₂，1T′相中相邻两列金属原子短/长键之比，可作为区分FM-CDW形成机制的简单"指纹"（≈0.8超交换，<0.7二聚化）。
+  - [[../concepts/charge-doping|charge-doping]]：电荷掺杂（电子/空穴注入），通过栅压、离子插层等调控载流子浓度从而调制电子结构与相变的手段。
+  - [[../concepts/dimerization|dimerization]]：二聚化，相邻金属原子两两靠近形成成键对以降低电子能量的晶格畸变模式。
+  - 实体 [[../entities/CrS2|CrS2]]、[[../entities/CrSe2|CrSe2]]：CrX₂家族中同时具有NM和FM 1T′ CDW态的代表性二维磁性TMD；CrS₂是电荷掺杂可逆相变的模型体系。
+  - 实体 [[../entities/VTe2|VTe2]]：唯一稳定的1T′ FM-CDW钒基TMD，FM机制与CrX₂相同（超交换）。
+  - 实体 [[../entities/MnS2|MnS2]]/[[../entities/MnSe2|MnSe2]]/[[../entities/MnTe2|MnTe2]]：Mn基TMD，FM-CDW源于Mn-Mn二聚化未能完全淬灭磁矩，机制区别于CrX₂。
 
 ## 📊 关键图表
   - ![图1 (a) 1T/1T′晶体结构与结构畸变指数d₁/d₂定义；(b) VX₂、CrX₂、MnX₂各体系1T′ NM/FM CDW相相对1T相的能量对比](../../raw/figures/chenFerromagneticNonmagnetic1T2022/fig_1_A35ZUT23.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]

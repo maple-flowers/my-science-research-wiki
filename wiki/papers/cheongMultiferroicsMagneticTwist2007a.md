@@ -102,7 +102,7 @@ Sang-Wook Cheong & Maxim Mostovoy，2007，*Nature Materials* 6(1), 13–20，DO
   - 相关论文 **cheongMultiferroicsMagneticTwist2007a**
 
 ## 🆕 新概念/实体建议
-  - `RMn2O5.md`（实体）：第二类多铁性的原型材料家族，应建实体条目。
+  - [[../entities/RMn2O5|RMn2O5]]（实体）：第二类多铁性的原型材料家族，应建实体条目。
 
 ## 📊 关键图表
   - **表1：铁电体分类** — 按"反演对称性破缺机制"将铁电体分为本征（proper）与非本征（improper）两大类。

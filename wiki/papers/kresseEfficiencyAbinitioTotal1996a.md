@@ -70,13 +70,13 @@ G. Kresse, J. Furthmüller et al.，1996，Computational Materials Science 6, 15
   - 相关论文 [[../../raw/note/kresseEfficiencyAbinitioTotal1996a]]
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体，每个给 kebab-case 建议文件名 + 一句说明
-  - `self-consistent-field-cycle`：自洽场（SC）循环，迭代求解 KS 方程并混合电荷密度直至输入/输出密度一致的标准电子基态求解框架，本文论证其优于直接最小化 KS 泛函。
-  - `rmm-diis`：残差最小化-迭代子空间直接反演（Residual Minimization Method - Direct Inversion in the Iterative Subspace），本文核心算法创新，通过最小化残差向量范数而非 Rayleigh 商避免显式正交化，使大体系对角化趋近 N² 标度并天然并行。
-  - `methfessel-paxton-smearing`：Methfessel-Paxton 展宽法，用 Hermite 多项式展开阶跃占据函数，N≥1 时自由能与零温能量偏差为 O(σ^(N+2))，熵项可直接作为误差估计，并保证能量与力的自洽一致，是金属体系的优选展宽方案。
-  - `charge-density-mixing`：电荷密度混合（Pulay/Broyden/Kerker），自洽循环中根据历史残差生成下一输入密度的拟牛顿类加速技术，Kerker 预条件矩阵 G₁=A·q²/(q²+q₀²) 专门抑制低波数电荷震荡（charge sloshing）。
-  - `iterative-diagonalization`：Kohn-Sham 哈密顿量迭代对角化（Davidson / 共轭梯度 / RMM-DIIS 三大家族），对比其收敛步数、单步耗时与 N³ 正交化开销。
-  - `ultrasoft-pseudopotential`：超软 Vanderbilt 赝势，将过渡金属和第一周期元素所需截断能降低 2-4 倍，引入增广电荷 Qij 与重叠算符 S，需广义本征值方程 H|φ⟩=εS|φ⟩。
-  - `plane-wave-basis`：平面波基组，利用 FFT 在实/倒空间快速施加哈密顿量（局域势实空间对角、动能倒空间对角、非局域投影可分离），是迭代算法效率的基础。
+  - [[../concepts/self-consistent-field-cycle|self-consistent-field-cycle]]：自洽场（SC）循环，迭代求解 KS 方程并混合电荷密度直至输入/输出密度一致的标准电子基态求解框架，本文论证其优于直接最小化 KS 泛函。
+  - [[../concepts/rmm-diis|rmm-diis]]：残差最小化-迭代子空间直接反演（Residual Minimization Method - Direct Inversion in the Iterative Subspace），本文核心算法创新，通过最小化残差向量范数而非 Rayleigh 商避免显式正交化，使大体系对角化趋近 N² 标度并天然并行。
+  - [[../concepts/methfessel-paxton-smearing|methfessel-paxton-smearing]]：Methfessel-Paxton 展宽法，用 Hermite 多项式展开阶跃占据函数，N≥1 时自由能与零温能量偏差为 O(σ^(N+2))，熵项可直接作为误差估计，并保证能量与力的自洽一致，是金属体系的优选展宽方案。
+  - [[../concepts/charge-density-mixing|charge-density-mixing]]：电荷密度混合（Pulay/Broyden/Kerker），自洽循环中根据历史残差生成下一输入密度的拟牛顿类加速技术，Kerker 预条件矩阵 G₁=A·q²/(q²+q₀²) 专门抑制低波数电荷震荡（charge sloshing）。
+  - [[../concepts/iterative-diagonalization|iterative-diagonalization]]：Kohn-Sham 哈密顿量迭代对角化（Davidson / 共轭梯度 / RMM-DIIS 三大家族），对比其收敛步数、单步耗时与 N³ 正交化开销。
+  - [[../concepts/ultrasoft-pseudopotential|ultrasoft-pseudopotential]]：超软 Vanderbilt 赝势，将过渡金属和第一周期元素所需截断能降低 2-4 倍，引入增广电荷 Qij 与重叠算符 S，需广义本征值方程 H|φ⟩=εS|φ⟩。
+  - [[../concepts/plane-wave-basis|plane-wave-basis]]：平面波基组，利用 FFT 在实/倒空间快速施加哈密顿量（局域势实空间对角、动能倒空间对角、非局域投影可分离），是迭代算法效率的基础。
 ## 📊 关键图表
 笔记未附图片（raw/figures 目录中缺失图片文件），以下据原始阅读笔记整理论文 12 张图与 3 张表的要点。
 

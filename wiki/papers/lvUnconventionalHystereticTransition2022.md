@@ -91,7 +91,7 @@ B. Q. Lv, Alfred Zong, D. Wu, A. V. Rozhkov, Boris V. Fine, Su-Di Chen, et al.�
   - 相关论文 [[../../raw/note/lvUnconventionalHystereticTransition2022]]
 
 ## 🆕 新概念/实体建议
-  - `EuTe4`（entity）— 四碲化铕，准二维层状CDW材料，原胞含Te单层（Te0）和Te双层（Te1/Te2），CDW波矢q_CDW=0.643(3)b*，能隙196 meV。
+  - [[../entities/EuTe4|EuTe4]]（entity）— 四碲化铕，准二维层状CDW材料，原胞含Te单层（Te0）和Te双层（Te1/Te2），CDW波矢q_CDW=0.643(3)b*，能隙196 meV。
 
 ## 📊 关键图表
   - ![图1 EuTe4中的非公度CDW：晶体结构、XRD卫星峰、ARPES费米面与能带色散（Eg=196 meV）](../../raw/figures/lvUnconventionalHystereticTransition2022/fig_1_Q6SSGDZ3.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]

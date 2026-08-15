@@ -86,7 +86,7 @@ Guan-Yong Wang, Weiyu Xie, Dan Xu, Hai-Yang Ma, Hao Yang, Hong Lu, Hao-Hua Sun, 
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]、[[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/wangFormationMechanismTwin2019]]
 ## 🆕 新概念/实体建议
-  - `ripplocation`（褶皱位错）：范德华层状材料中通过局部屈曲形成的类位错面缺陷，本文观察到的窄而不对称褶皱与此概念相关。
+  - [[../concepts/ripplocation|ripplocation]]（褶皱位错）：范德华层状材料中通过局部屈曲形成的类位错面缺陷，本文观察到的窄而不对称褶皱与此概念相关。
 ## 📊 关键图表
   - ![图1 实验装置与不同位置表面褶皱的STM图像](../../raw/figures/wangFormationMechanismTwin2019/fig_1_5XL4D84H.png) → [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：(a) 为样品堆叠示意图，自下而上为 Si 衬底、固化铟胶、WTe₂ 单晶，加热器位于衬底下方；(b) 为四个不同位置的表面褶皱 STM 形貌图，标尺 50 nm。

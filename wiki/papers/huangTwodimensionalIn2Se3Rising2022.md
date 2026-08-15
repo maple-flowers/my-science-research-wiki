@@ -136,16 +136,16 @@ Yu-Ting Huang, Nian-Ke Chen, Zhen-Ze Li, Xue-Peng Wang, Hong-Bo Sun, Shengbai Zh
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]
   - 相关论文 **huangTwodimensionalIn2Se3Rising2022**
 ## 🆕 新概念/实体建议
-  - `depolarization-field`（退极化场）：表面束缚电荷产生的与极化反向的电场，是传统铁电体纳米尺寸失效的根源。
-  - `phase-change-type-ferroelectrics`（相变型铁电体）：作者提出的新分类，铁电翻转伴随化学键断裂重构和有序-有序结构相变，区别于 BaTiO3 式位移型铁电体。
-  - `re-bonding-mechanism`（再成键机制）：α-In2Se3 中 Se(m) 原子翻转需打破并重建 In–Se 共价键、横向位移约 100 pm，是抗退极化场的本征来源。
-  - `mexican-hat-pes`（墨西哥帽势能面）：β-In2Se3 中间层 Se 原子的环状能量剖面，中心为能量极大值、环上有 12 个等价极小值，统一解释 β、β0、βpc 相多样性。
-  - `dipole-locking`（偶极锁定）：α-In2Se3 面内（IP）与面外（OOP）极化方向相互锁定，翻转其一必翻转另一个，IP 偶极比 OOP 大约一个数量级。
-  - `entropy-barrier`（熵垒）：βpc 相中 Se(m) 原子在 12 个极小值间随机分布造成的构型熵，阻碍 β→α 的协同反向翻转，是器件速度受限的关键。
-  - `shear-phonon-mode`（剪切声子模式）：α 相高温下被激活的面内剪切光学声子，驱动上两层/下三层原子反向集体运动，触发 1.5 ps 量级的 α→β 超快相变。
-  - `III2-VI3-compounds`（III2–VI3 族二维铁电体）：In2Se3、Ga2Se3、In2S3 等共享墨西哥帽 PES 与再成键机制的材料家族。
-  - 器件实体 `FeFET`、`FeS-FET`（亦称 FeCT）、`FSJ`、`ferroelectric-memristor`：可在实体目录下各建一条器件结构条目，或合并为 `ferroelectric-semiconductor-devices`。
-  - `beta0-phase`（β0 相）与 `beta-pc-phase`（βpc 赝中心对称相）：可考虑作为 In2Se3 实体下的子节而非独立条目。
+  - [[../concepts/depolarization-field|depolarization-field]]（退极化场）：表面束缚电荷产生的与极化反向的电场，是传统铁电体纳米尺寸失效的根源。
+  - [[../concepts/phase-change-type-ferroelectrics|phase-change-type-ferroelectrics]]（相变型铁电体）：作者提出的新分类，铁电翻转伴随化学键断裂重构和有序-有序结构相变，区别于 BaTiO3 式位移型铁电体。
+  - [[../concepts/re-bonding-mechanism|re-bonding-mechanism]]（再成键机制）：α-In2Se3 中 Se(m) 原子翻转需打破并重建 In–Se 共价键、横向位移约 100 pm，是抗退极化场的本征来源。
+  - [[../concepts/mexican-hat-pes|mexican-hat-pes]]（墨西哥帽势能面）：β-In2Se3 中间层 Se 原子的环状能量剖面，中心为能量极大值、环上有 12 个等价极小值，统一解释 β、β0、βpc 相多样性。
+  - [[../concepts/dipole-locking|dipole-locking]]（偶极锁定）：α-In2Se3 面内（IP）与面外（OOP）极化方向相互锁定，翻转其一必翻转另一个，IP 偶极比 OOP 大约一个数量级。
+  - [[../concepts/entropy-barrier|entropy-barrier]]（熵垒）：βpc 相中 Se(m) 原子在 12 个极小值间随机分布造成的构型熵，阻碍 β→α 的协同反向翻转，是器件速度受限的关键。
+  - [[../concepts/shear-phonon-mode|shear-phonon-mode]]（剪切声子模式）：α 相高温下被激活的面内剪切光学声子，驱动上两层/下三层原子反向集体运动，触发 1.5 ps 量级的 α→β 超快相变。
+  - [[../entities/III2-VI3-compounds|III2-VI3-compounds]]（III2–VI3 族二维铁电体）：In2Se3、Ga2Se3、In2S3 等共享墨西哥帽 PES 与再成键机制的材料家族。
+  - 器件实体 [[../entities/FeFET|FeFET]]、[[../entities/FeS-FET|FeS-FET]]（亦称 FeCT）、[[../entities/FSJ|FSJ]]、[[../entities/ferroelectric-memristor|ferroelectric-memristor]]：可在实体目录下各建一条器件结构条目，或合并为 [[../entities/ferroelectric-semiconductor-devices|ferroelectric-semiconductor-devices]]。
+  - [[../concepts/beta0-phase|beta0-phase]]（β0 相）与 [[../concepts/beta-pc-phase|beta-pc-phase]]（βpc 赝中心对称相）：可考虑作为 In2Se3 实体下的子节而非独立条目。
 ## 📊 关键图表
   - 图1 铁电翻转原理、FeRAM 商业化产品与退极化场示意 ![图1](../../raw/figures/huangTwodimensionalIn2Se3Rising2022/fig_1_9H7HXTIZ.png)
   - **图示描述**：综述开篇示意图，由(A)铁电双势阱翻转原理、(B–D)早期 FeRAM 商业化产品、(E)BiFeO₃ 铁电隧道结、(F–G)PVDF-TrFE 柔性 FeFET、(H)柔性突触器件、(I)退极化场模型等多个子面板组成，统一交代"为什么要寻找超薄铁电体"。

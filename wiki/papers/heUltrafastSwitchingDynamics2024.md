@@ -104,11 +104,11 @@ Ri He, Bingwen Zhang, Hua Wang, Lei Li, Ping Tang, Gerrit Bauer, Zhicheng Zhong 
 
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体：
-  - `stacking-engineered-ferroelectricity`（堆垛工程铁电性）：通过调控范德华双层的层间堆垛方式（AB/BA）产生可翻转极化的铁电机制，是滑移铁电性的子类，但强调"工程"层面的堆垛设计与器件应用。
-  - `domain-wall-texture`（畴壁极化纹理）：描述畴壁内极化矢量旋转方式的概念，如布洛赫型（Bloch，极化在畴壁面内旋转）与奈尔型（Néel，极化在垂直畴壁面内旋转），区别于传统伊辛型畴壁。
-  - `flexoelectric-effect`（挠曲电效应）：应变梯度诱导电极化的耦合效应，本文中用于解释非0°畴壁的面外屈曲（buckling）起源。
-  - `domain-wall-pinning`（畴壁钉扎）：点缺陷（如氮空位）对畴壁运动的捕获与阻碍效应，是解释理想莫尔超顺电态与实验观测铁电回滞之间差异的关键机制。
-  - `concurrent-learning`（并发学习/DP-Gen流程）：一种机器学习势训练策略，通过迭代探索构型空间、自动筛选DFT标注样本，本文用23轮迭代生成11,580个训练构型。
+  - [[../concepts/stacking-engineered-ferroelectricity|stacking-engineered-ferroelectricity]]（堆垛工程铁电性）：通过调控范德华双层的层间堆垛方式（AB/BA）产生可翻转极化的铁电机制，是滑移铁电性的子类，但强调"工程"层面的堆垛设计与器件应用。
+  - [[../concepts/domain-wall-texture|domain-wall-texture]]（畴壁极化纹理）：描述畴壁内极化矢量旋转方式的概念，如布洛赫型（Bloch，极化在畴壁面内旋转）与奈尔型（Néel，极化在垂直畴壁面内旋转），区别于传统伊辛型畴壁。
+  - [[../concepts/flexoelectric-effect|flexoelectric-effect]]（挠曲电效应）：应变梯度诱导电极化的耦合效应，本文中用于解释非0°畴壁的面外屈曲（buckling）起源。
+  - [[../concepts/domain-wall-pinning|domain-wall-pinning]]（畴壁钉扎）：点缺陷（如氮空位）对畴壁运动的捕获与阻碍效应，是解释理想莫尔超顺电态与实验观测铁电回滞之间差异的关键机制。
+  - [[../concepts/concurrent-learning|concurrent-learning]]（并发学习/DP-Gen流程）：一种机器学习势训练策略，通过迭代探索构型空间、自动筛选DFT标注样本，本文用23轮迭代生成11,580个训练构型。
 
 ## 📊 关键图表
   - ![图1 h-BN双层铁电性：极化矢量随层间滑移的演化、能量势垒与电荷密度差](../../raw/figures/heUltrafastSwitchingDynamics2024/fig_1_TZK5GGQL.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]

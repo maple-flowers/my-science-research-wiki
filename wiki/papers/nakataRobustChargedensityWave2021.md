@@ -95,8 +95,8 @@ Nakata, Sugawara, Chainani, Oka, Bao, Zhou, Chuang, Cheng, Kawakami, Saruta, Fuk
   - 相关论文 [[../../raw/note/nakataRobustChargedensityWave2021]]
 
 ## 🆕 新概念/实体建议
-  - `entities/1T-TaSe2.md`、`entities/1T-NbSe2.md`：1T 相钽/铌二硫族化物，CDW-莫特物理的核心材料体系。
-  - `entities/SiC.md`：本研究中 6H-SiC 作为 MBE 生长衬底。
+  - [[../entities/1T-TaSe2|1T-TaSe2]]、[[../entities/1T-NbSe2|1T-NbSe2]]：1T 相钽/铌二硫族化物，CDW-莫特物理的核心材料体系。
+  - [[../entities/SiC|SiC]]：本研究中 6H-SiC 作为 MBE 生长衬底。
 
 ## 📊 关键图表
 笔记未附图片（raw/figures/nakataRobustChargedensityWave2021/ 中 manifest.json 的 figures 列表为空，已用文字描述各图要点）。

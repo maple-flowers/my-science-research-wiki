@@ -101,13 +101,13 @@ Youfang Lai, Zhigang Song (共同一作/通讯), Yi Wan, Mingzhu Xue, Changsheng
   - 相关论文 [[../../raw/note/laiTwodimensionalFerromagnetismDriven2019]]
 
 ## 🆕 新概念/实体建议
-  - `cu-crp2s6`（实体）：本文主角，ABP2X6 家族的硫代磷酸铜铬，I 型二维多铁候选，铁电由 Cu 位移驱动、铁磁源于 Cr3+。
-  - `driven-ferroelectricity`（概念）：驱动铁电性——基态为反铁电、亚稳铁电相需外电场激发并靠势垒保持的特殊铁电形态。
-  - `type-i-multiferroic`（概念）：I 型多铁，铁电与铁磁起源相互独立（分别来自不同原子/结构单元），耦合通常较弱，区别于磁序诱导铁电的 II 型。
-  - `spin-dipole-valley-coupling`（概念）：自旋-电偶极-谷三重锁定，由 SOC 桥接，可由电场同时控制磁矩与谷态。
-  - `zeeman-type-valley-splitting`（概念）：塞曼型谷劈裂，低对称性+SOC 使两谷带隙不等，类似铁磁塞曼分裂。
-  - `unidirectional-magnetic-anisotropy`（概念）：单向磁晶各向异性，+a 与 −a 方向能量不等且方向由电极化符号决定，是电场翻转自旋的微观基础。
-  - `abp2x6-family`（概念）：ABP2X6 低对称性层状家族（A=Cu,Ag; B=Cr,V; X=S,Se），蕴含一批二维多铁候选（AgVP2Se6、CuVP2S6、CuCrxIn(1−x)P2Se6 等）。
+  - [[../entities/cu-crp2s6|cu-crp2s6]]（实体）：本文主角，ABP2X6 家族的硫代磷酸铜铬，I 型二维多铁候选，铁电由 Cu 位移驱动、铁磁源于 Cr3+。
+  - [[../concepts/driven-ferroelectricity|driven-ferroelectricity]]（概念）：驱动铁电性——基态为反铁电、亚稳铁电相需外电场激发并靠势垒保持的特殊铁电形态。
+  - [[../concepts/type-i-multiferroic|type-i-multiferroic]]（概念）：I 型多铁，铁电与铁磁起源相互独立（分别来自不同原子/结构单元），耦合通常较弱，区别于磁序诱导铁电的 II 型。
+  - [[../concepts/spin-dipole-valley-coupling|spin-dipole-valley-coupling]]（概念）：自旋-电偶极-谷三重锁定，由 SOC 桥接，可由电场同时控制磁矩与谷态。
+  - [[../concepts/zeeman-type-valley-splitting|zeeman-type-valley-splitting]]（概念）：塞曼型谷劈裂，低对称性+SOC 使两谷带隙不等，类似铁磁塞曼分裂。
+  - [[../concepts/unidirectional-magnetic-anisotropy|unidirectional-magnetic-anisotropy]]（概念）：单向磁晶各向异性，+a 与 −a 方向能量不等且方向由电极化符号决定，是电场翻转自旋的微观基础。
+  - [[../entities/abp2x6-family|abp2x6-family]]（概念）：ABP2X6 低对称性层状家族（A=Cu,Ag; B=Cr,V; X=S,Se），蕴含一批二维多铁候选（AgVP2Se6、CuVP2S6、CuCrxIn(1−x)P2Se6 等）。
 
 ## 📊 关键图表
 笔记未附图片（raw/figures 目录下仅有 manifest.json，未抽取正文图），以下以文字形式整理正文 5 张关键图，所有数据均来自原文及阅读笔记。

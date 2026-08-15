@@ -111,16 +111,16 @@ Gittard, Koroleva, Nguyen, Fadeeva, Gaidukeviciute, Schlie, Narayan, Chichkov，
   - 概念：[[../concepts/two-photon-polymerization|双光子聚合（2PP）]]、[[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/voxel|体素]]、[[../concepts/diffraction-limit|衍射极限]]、[[../concepts/contact-guidance|接触引导]]、[[../concepts/prevascularization|预血管化]]、[[../concepts/multibeam-writing|多光束并行写入]]、[[../concepts/micromolding-replication|微模塑复制]]
   - 实体：[[../entities/PMMA|PMMA]]
 ## 🆕 新概念/实体建议
-  - `two-photon-polymerization`：2PP，飞秒激光诱导光引发剂双光子吸收实现超衍射极限三维微纳加工的快速成型技术
-  - `tissue-engineering-scaffold`：组织工程支架，人工细胞外基质，其孔隙率/表面形貌/传质能力决定细胞行为
-  - `prevascularization`：预血管化，在支架内预先构建血管网络以解决大体积组织传质难题
-  - `contact-guidance`：接触引导，细胞沿表面微纳沟槽取向排列的现象
-  - `voxel`：体素，2PP 中聚合发生的最小三维体积（近似双锥形），分辨率可达 30 nm
-  - `multibeam-writing`：多光束并行写入，用计算机生成全息图（CGH）将激光分成多焦点以成倍缩短加工时间
-  - `micromolding-replication`：微模塑复制，用 2PP 制造母版再以硅胶模具批量翻模，突破材料限制并降低成本
-  - `Ormocer`：有机-无机杂化光敏材料，2PP 中最常用的结构材料之一
-  - `PEGDA`：聚乙二醇二丙烯酸酯，以非致血栓/防污特性著称的 2PP 支架材料
-  - `TORP`：全听骨置换假体，2PP 制造个性化小型骨科假体的典型应用
+  - [[../concepts/two-photon-polymerization|two-photon-polymerization]]：2PP，飞秒激光诱导光引发剂双光子吸收实现超衍射极限三维微纳加工的快速成型技术
+  - [[../entities/tissue-engineering-scaffold|tissue-engineering-scaffold]]：组织工程支架，人工细胞外基质，其孔隙率/表面形貌/传质能力决定细胞行为
+  - [[../concepts/prevascularization|prevascularization]]：预血管化，在支架内预先构建血管网络以解决大体积组织传质难题
+  - [[../concepts/contact-guidance|contact-guidance]]：接触引导，细胞沿表面微纳沟槽取向排列的现象
+  - [[../concepts/voxel|voxel]]：体素，2PP 中聚合发生的最小三维体积（近似双锥形），分辨率可达 30 nm
+  - [[../concepts/multibeam-writing|multibeam-writing]]：多光束并行写入，用计算机生成全息图（CGH）将激光分成多焦点以成倍缩短加工时间
+  - [[../concepts/micromolding-replication|micromolding-replication]]：微模塑复制，用 2PP 制造母版再以硅胶模具批量翻模，突破材料限制并降低成本
+  - [[../entities/Ormocer|Ormocer]]：有机-无机杂化光敏材料，2PP 中最常用的结构材料之一
+  - [[../entities/PEGDA|PEGDA]]：聚乙二醇二丙烯酸酯，以非致血栓/防污特性著称的 2PP 支架材料
+  - [[../entities/TORP|TORP]]：全听骨置换假体，2PP 制造个性化小型骨科假体的典型应用
 ## 📊 关键图表
 笔记未附图片（raw/figures/Gittard2013polymerization/ 下仅有 manifest.json，无图像文件）。论文原图包括：
 

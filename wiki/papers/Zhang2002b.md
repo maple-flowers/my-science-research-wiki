@@ -84,8 +84,8 @@ L. Zhang, C. C. Zhang, Y. Y. Wang, X. X. Liu, G. G. Wang，2002，Journal of Mat
   - 实体 [[../entities/austenite]]、[[../entities/fe-c-phase-diagram]]、[[../entities/ferrite]]、[[../entities/cementite]]、[[../entities/low-carbon-steel]]
   - 相关论文 [[../../raw/note/Zhang2002b]]
 ## 🆕 新概念/实体建议
-  - `low-carbon-steel`（低碳钢）：以 Fe–C–Si–Mn 为代表、碳含量约 0.15 wt% 的钢种，组织以铁素体为主。
-  - `fe-c-phase-diagram`（铁碳相图）：模型确定 Ae3、cγ、cα 等热力学边界的依据。
+  - [[../entities/low-carbon-steel|low-carbon-steel]]（低碳钢）：以 Fe–C–Si–Mn 为代表、碳含量约 0.15 wt% 的钢种，组织以铁素体为主。
+  - [[../entities/fe-c-phase-diagram|fe-c-phase-diagram]]（铁碳相图）：模型确定 Ae3、cγ、cα 等热力学边界的依据。
 ## 📊 关键图表
   - **图1：Fe–C 合金相图示意，标出 Ae3 温度线**
     ![Fe-C相图与Ae3温度](../../raw/figures/Zhang2002b/fig_1_DADI282V.png) -> [[../figures/crystal-structures-xrd-phases|XRD与相变]]

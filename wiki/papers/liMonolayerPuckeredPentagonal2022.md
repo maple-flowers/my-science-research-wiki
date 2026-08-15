@@ -98,13 +98,13 @@ Xuanyi Li, Zhili Zhu, Qing Yang, Zexian Cao, Yeliang Wang, Sheng Meng, Jiatao Su
   - 相关论文 [[../../raw/note/liMonolayerPuckeredPentagonal2022]]
 
 ## 🆕 新概念/实体建议
-  - `puckered-pentagonal-structure`（褶皱五边形结构）：TMD材料中除T-、H相之外的一类由五边形元胞构成、层内有褶皱起伏的结构相，可视为黄铁矿结构减薄至二维极限的产物（以PdSe2、PP-VTe2为代表）。
-  - `PP-VTe2`（单层褶皱五边形VTe2实体）：空间群Pca21、矩形晶胞(a=6.774 Å, b=6.655 Å)、由两个化学键合子层构成的VTe2新相，本征铁磁半导体。
-  - `ferromagnetic-semiconductor`（铁磁半导体）：同时具有铁磁有序和半导体带隙的二维材料类别，区别于半金属（如BP-VTe2）。
-  - `magnetic-anisotropy-energy`（磁各向异性能，MAE）：磁矩沿不同晶向取向时的能量差，决定易磁化轴方向；本文用其确定面内[100]易轴。
-  - `electrical-control-of-magnetism`（电控磁性）：利用栅压调控费米能级附近自旋极化态的占据，从而改变净磁矩的机制；本文中空穴浓度4.5×10^14 cm^-2下可使每单胞磁矩在12-10 μB间调节。
-  - `exfoliation-energy`（剥离能）：从块体相剥离出单层所需能量；PP-VTe2为72.46 meV/Å²，支持外延生长制备。
-  - `PdSe2`（实体）：层状五边形二维材料原型，是PP-VTe2结构与强层间键合的类比对象。
+  - [[../concepts/puckered-pentagonal-structure|puckered-pentagonal-structure]]（褶皱五边形结构）：TMD材料中除T-、H相之外的一类由五边形元胞构成、层内有褶皱起伏的结构相，可视为黄铁矿结构减薄至二维极限的产物（以PdSe2、PP-VTe2为代表）。
+  - [[../entities/PP-VTe2|PP-VTe2]]（单层褶皱五边形VTe2实体）：空间群Pca21、矩形晶胞(a=6.774 Å, b=6.655 Å)、由两个化学键合子层构成的VTe2新相，本征铁磁半导体。
+  - [[../concepts/ferromagnetic-semiconductor|ferromagnetic-semiconductor]]（铁磁半导体）：同时具有铁磁有序和半导体带隙的二维材料类别，区别于半金属（如BP-VTe2）。
+  - [[../concepts/magnetic-anisotropy-energy|magnetic-anisotropy-energy]]（磁各向异性能，MAE）：磁矩沿不同晶向取向时的能量差，决定易磁化轴方向；本文用其确定面内[100]易轴。
+  - [[../concepts/electrical-control-of-magnetism|electrical-control-of-magnetism]]（电控磁性）：利用栅压调控费米能级附近自旋极化态的占据，从而改变净磁矩的机制；本文中空穴浓度4.5×10^14 cm^-2下可使每单胞磁矩在12-10 μB间调节。
+  - [[../concepts/exfoliation-energy|exfoliation-energy]]（剥离能）：从块体相剥离出单层所需能量；PP-VTe2为72.46 meV/Å²，支持外延生长制备。
+  - [[../entities/PdSe2|PdSe2]]（实体）：层状五边形二维材料原型，是PP-VTe2结构与强层间键合的类比对象。
 
 ## 📊 关键图表
   - ![图1 BP-VTe2晶体结构与能带、PP-VTe2顶视/侧视、布里渊区及模拟STM图像](../../raw/figures/liMonolayerPuckeredPentagonal2022/fig_1_VTVDBDPY.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]

@@ -106,12 +106,12 @@ Mahé Lezoualc'H，2025，Université Paris-Saclay 博士论文（NNT 2025UPASP0
   - 实体 [[../entities/Fireball]]、[[../entities/Quantum-ESPRESSO]]、[[../entities/STM]]
   - 相关论文 [[../../raw/note/lezoualchStudyChargeDensity]]
 ## 🆕 新概念/实体建议
-  - `cdw-tronics`（CDW 电子学）：仿照 spintronics/valleytronics，以 CDW 相/取向为信息载体
-  - `dfpt`（密度泛函微扰理论）：可建为方法实体或概念条目
-  - `negf-transport`（非平衡格林函数输运）：Fireball 中 STM/I-V 模拟方法
-  - `nudged-elastic-band`（NEB 微动弹性带）：相变能垒计算方法
-  - `Quantum-Espresso` / `Fireball`：两套 DFT 代码，可建软件实体（QE 在 wiki 中尚无）
-  - `sscha`（随机自洽简谐近似）：论文展望中提到的超越简谐近似方法
+  - [[../concepts/cdw-tronics|cdw-tronics]]（CDW 电子学）：仿照 spintronics/valleytronics，以 CDW 相/取向为信息载体
+  - [[../concepts/dfpt|dfpt]]（密度泛函微扰理论）：可建为方法实体或概念条目
+  - [[../concepts/negf-transport|negf-transport]]（非平衡格林函数输运）：Fireball 中 STM/I-V 模拟方法
+  - [[../concepts/nudged-elastic-band|nudged-elastic-band]]（NEB 微动弹性带）：相变能垒计算方法
+  - [[../entities/Quantum-Espresso|Quantum-Espresso]] / [[../entities/Fireball|Fireball]]：两套 DFT 代码，可建软件实体（QE 在 wiki 中尚无）
+  - [[../concepts/sscha|sscha]]（随机自洽简谐近似）：论文展望中提到的超越简谐近似方法
 ## 📊 关键图表
   - ![论文图1](../../raw/figures/lezoualchStudyChargeDensity/fig_1_DUEI5PQ5.png)
     - **图示描述**：论文引言/理论部分的概览示意图，展示电荷密度波（CDW）的基本图像——电子密度在晶格中的周期性调制以及与之伴随的原子位置周期性畸变。

@@ -53,11 +53,11 @@ W Forner，1993，*Journal of Physics: Condensed Matter* 5(7): 823–840，DOI: 
   - 相关论文 **fornerQuantumTemperatureEffects1993**
   - （本文研究对象为 α-螺旋蛋白质中的达维多夫孤子，与 wiki 现有 2D 材料/多铁/铁电/CDW 等概念实体无直接交集，故不强行双链）
 ## 🆕 新概念/实体建议
-  - `davydov-soliton`（达维多夫孤子）：酰胺-I 振动激发与氢键链声学声子耦合形成的局域化、无损耗传播的能量包，用于解释蛋白质内无耗散能量传输
-  - `exciton-phonon-coupling`（激子-声子耦合）：振子激发引发晶格畸变、畸变反过来局域激发的反馈机制，是孤子/极化子/CDW 等现象的共同物理基础
-  - `interchain-coupling`（链间耦合）：平行链间偶极-偶极相互作用（本文 L = 1.54 meV），可通过参数重整化在单链模型中等效
-  - `coherent-state-ansatz`（相干态拟设 |D₁⟩）：允许晶格量子涨落的试探波函数，区别于经典晶格近似的 |D₂⟩ 位移振子态
-  - `self-trapping`（自陷）：激发通过畸变自身周围晶格而被局域化的非线性现象
+  - [[../concepts/davydov-soliton|davydov-soliton]]（达维多夫孤子）：酰胺-I 振动激发与氢键链声学声子耦合形成的局域化、无损耗传播的能量包，用于解释蛋白质内无耗散能量传输
+  - [[../concepts/exciton-phonon-coupling|exciton-phonon-coupling]]（激子-声子耦合）：振子激发引发晶格畸变、畸变反过来局域激发的反馈机制，是孤子/极化子/CDW 等现象的共同物理基础
+  - [[../concepts/interchain-coupling|interchain-coupling]]（链间耦合）：平行链间偶极-偶极相互作用（本文 L = 1.54 meV），可通过参数重整化在单链模型中等效
+  - [[../concepts/coherent-state-ansatz|coherent-state-ansatz]]（相干态拟设 |D₁⟩）：允许晶格量子涨落的试探波函数，区别于经典晶格近似的 |D₂⟩ 位移振子态
+  - [[../concepts/self-trapping|self-trapping]]（自陷）：激发通过畸变自身周围晶格而被局域化的非线性现象
 ## 📊 关键图表
 （笔记未附 Figure 2 参数空间相图；以下图均见 raw/figures）
   - ![图1 蛋白质中氢键通道示意，标注 W/M/J/X](../../raw/figures/fornerQuantumTemperatureEffects1993/fig_1_ZWUNGVGZ.png) -> [[../figures/vibrational-spectra|振动光谱]]

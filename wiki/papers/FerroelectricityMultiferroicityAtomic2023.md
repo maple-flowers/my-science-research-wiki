@@ -120,7 +120,7 @@ Nature Nanotechnology 编辑部（未署名社论），2023，Nature Nanotechnol
   - 相关论文 **FerroelectricityMultiferroicityAtomic2023**
 
 ## 🆕 新概念/实体建议
-  - `entities/MoS2`、`entities/WS2`、`entities/WSe2`、`entities/MoSe2` — 非极性 TMD 单层，可通过相同双层堆叠 or MoS₂/WS₂ 交替堆叠产生室温铁电回滞。
+  - [[../entities/MoS2|MoS2]]、[[../entities/WS2|WS2]]、[[../entities/WSe2|WSe2]]、[[../entities/MoSe2|MoSe2]] — 非极性 TMD 单层，可通过相同双层堆叠 or MoS₂/WS₂ 交替堆叠产生室温铁电回滞。
 
 ## 📊 关键图表
   - **图示描述**：本文为《Nature Nanotechnology》2023 年第 18 卷的一篇编辑评论（Editorial），全文未包含任何数据图表、示意图或学术图片，正文中仅有一处装饰性配图致谢（Credit: Perov Stanislav / Alamy Stock Photo），与论文学术内容无直接关联，故不纳入图表解析。

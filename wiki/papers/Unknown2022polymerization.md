@@ -85,15 +85,15 @@ Williams JC, Chandrahalim H, Suelzer JS, Usechak NG et al.，2022，Research Out
   - 实体 [[../entities/gold]]、[[../entities/optical-fiber]]、[[../entities/photoresist]]
   - 相关论文 [[../../raw/note/Unknown2022polymerization]]
 ## 🆕 新概念/实体建议
-  - `two-photon-polymerization`（双光子聚合）：基于飞秒激光双光子吸收非线性效应的纳米级真三维直写技术，体素约 100 nm。
-  - `fabry-perot-cavity`（法布里-珀罗光学腔）：两面平行高反镜构成的多光束干涉谐振腔，谐振波长对腔长和腔内折射率变化极其敏感。
-  - `optical-fiber-sensor`（光纤传感器）：以光纤为柔性平台、通过光信号感知环境参数的器件，具备抗电磁干扰、可远程传输等优势。
-  - `magnetron-sputtering`（磁控溅射）：利用电场和磁场将靶材原子电离为等离子体并定向沉积到基底的 PVD 薄膜技术。
-  - `monolithic-integration`（单片集成）：由单一材料一次成型、无需后续装配的微系统制造理念。
-  - `moems`（微光机电系统）：Micro-Opto-Electro-Mechanical Systems，融合光学与可动微机械结构的微系统。
-  - `micromechanical-hinge`（微机械铰链）：微米尺度的可动连接结构，使 FPC 顶盖可翻转开合。
-  - 实体 `optical-fiber`（光纤）：本研究的柔性非标准基底，直径约 125 μm。
-  - 实体 `photoresist`（光敏树脂/光刻胶）：2PP 结构化材料，飞秒激光照射后由液态聚合为固态。
+  - [[../concepts/two-photon-polymerization|two-photon-polymerization]]（双光子聚合）：基于飞秒激光双光子吸收非线性效应的纳米级真三维直写技术，体素约 100 nm。
+  - [[../concepts/fabry-perot-cavity|fabry-perot-cavity]]（法布里-珀罗光学腔）：两面平行高反镜构成的多光束干涉谐振腔，谐振波长对腔长和腔内折射率变化极其敏感。
+  - [[../concepts/optical-fiber-sensor|optical-fiber-sensor]]（光纤传感器）：以光纤为柔性平台、通过光信号感知环境参数的器件，具备抗电磁干扰、可远程传输等优势。
+  - [[../concepts/magnetron-sputtering|magnetron-sputtering]]（磁控溅射）：利用电场和磁场将靶材原子电离为等离子体并定向沉积到基底的 PVD 薄膜技术。
+  - [[../concepts/monolithic-integration|monolithic-integration]]（单片集成）：由单一材料一次成型、无需后续装配的微系统制造理念。
+  - [[../concepts/moems|moems]]（微光机电系统）：Micro-Opto-Electro-Mechanical Systems，融合光学与可动微机械结构的微系统。
+  - [[../concepts/micromechanical-hinge|micromechanical-hinge]]（微机械铰链）：微米尺度的可动连接结构，使 FPC 顶盖可翻转开合。
+  - 实体 [[../entities/optical-fiber|optical-fiber]]（光纤）：本研究的柔性非标准基底，直径约 125 μm。
+  - 实体 [[../entities/photoresist|photoresist]]（光敏树脂/光刻胶）：2PP 结构化材料，飞秒激光照射后由液态聚合为固态。
 ## 📊 关键图表
   > 注：`raw/figures/Unknown2022polymerization/` 目录下仅有 `manifest.json`，无图片文件，以下描述基于 raw/note 的文字记录。
 

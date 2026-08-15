@@ -92,7 +92,7 @@ Petkov, Billinge, Vogt, Ichimura, Dye，2002，Physical Review Letters 89, 07550
   - 相关论文 [[../../raw/note/petkovStructureIntercalatedCs2002]]
 
 ## 🆕 新概念/实体建议
-  - `ITQ-4`（Si₃₂O₆₄全硅沸石）：具有直径约7 Å伪一维正弦形孔道的沸石宿主，是本文的关键材料实体，可在 wiki/entities 下新建。
+  - [[../entities/ITQ-4|ITQ-4]]（Si₃₂O₆₄全硅沸石）：具有直径约7 Å伪一维正弦形孔道的沸石宿主，是本文的关键材料实体，可在 wiki/entities 下新建。
 
 ## 📊 关键图表
   - **图1**：原始Si₃₂O₆₄沸石与两种Cs负载量电子化合物 CsₓSi₃₂O₆₄（x = 0, 3.6, 4.6）的粉末衍射图样(a)及对应结构函数 S(Q)(b)，横坐标为波矢 Q（Å⁻¹），插图放大展示了12–20 Å⁻¹区间。

@@ -142,7 +142,7 @@ Amini, Fumega, González-Herrero, Vaňo, Kezilebieke, Lado, Liljeroth et al.，2
   - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 **aminiAtomicscaleVisualizationMultiferroicity2024**
 ## 🆕 新概念/实体建议
-  - （可选）`kitaev-interaction.md`：文中讨论 q 矢量偏离 ΓK 线时提到的竞争磁相互作用之一（另一项 Dzyaloshinskii–Moriya 已建条目 [[../concepts/dzyaloshinskii-moriya-interaction]]），可在磁学概念扩充时建立。
+  - （可选）[[../concepts/kitaev-interaction|kitaev-interaction]]：文中讨论 q 矢量偏离 ΓK 线时提到的竞争磁相互作用之一（另一项 Dzyaloshinskii–Moriya 已建条目 [[../concepts/dzyaloshinskii-moriya-interaction]]），可在磁学概念扩充时建立。
 ## 📊 关键图表
   - 图 1：单层 NiI₂ 多铁性起源的理论模型（9a × √3a 超胞、J₁/J₃ 交换、磁化/极化/静电势的周期关系）。
     ![图1 多铁性起源理论模型](../../raw/figures/aminiAtomicscaleVisualizationMultiferroicity2024/fig_1_8XET8BR2.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]

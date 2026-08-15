@@ -91,7 +91,7 @@ Chun Jason Xue、Youtao Zhang、Yiran Chen、Guangyu Sun、J. Joshua Yang、Hai 
   - 实体 [[../entities/MgO-MTJ]]
 
 ## 🆕 新概念/实体建议
-  - 实体建议：`GST.md`（Ge2Sb2Te5 相变合金）、`TaOx.md`（高耐久性忆阻材料，>10^12 次循环）、`MgO-MTJ.md`（MgO 势垒磁隧道结）。
+  - 实体建议：[[../entities/GST|GST]]（Ge2Sb2Te5 相变合金）、[[../entities/TaOx|TaOx]]（高耐久性忆阻材料，>10^12 次循环）、[[../entities/MgO-MTJ|MgO-MTJ]]（MgO 势垒磁隧道结）。
 ## 📊 关键图表
   - ![PCM 单元与阵列结构（Figure 1）](../../raw/figures/xueEmergingNonvolatileMemories2011/fig_1_YA2TDDV5.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
   - **图示描述**：左侧为 PCM 单元的三维剖面，自上而下为顶电极、GST（Ge2Sb2Te5）硫族化物层、加热器和底电极；右侧为对应的电路符号及其在位线（Bitline）/字线（Wordline）交叉阵列中的 1T1R 接法。

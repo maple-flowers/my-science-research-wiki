@@ -109,12 +109,12 @@ F. Zhou, M. Cococcioni, C. A. Marianetti, D. Morgan, G. Ceder，2004，Physical 
   - 实体 [[../entities/LiCoO2]]
 
 ## 🆕 新概念/实体建议
-  - `self-interaction-error`：LDA/GGA 中电子与自身电荷密度非物理相互作用导致的能量误差，是本文电压低估的物理根源。
-  - `linear-response-u`：Cococcioni–de Gironcoli 线性响应法，通过裸响应 χ₀ 与屏蔽响应 χ 之差自洽计算 Hubbard U，无经验参数。
-  - `redox-potential`：氧化还原电位/锂嵌入电压，由反应前后总能量差经 ⟨V⟩ = −ΔE/[(x₂−x₁)F] 给出。
-  - `charge-ordering`：混合价体系中分立价态离子（如 Mn³⁺/Mn⁴⁺）的有序排列，GGA+U 因惩罚非整数占据而自然产生。
-  - `hubbard-u`：有效在位库仑相互作用 U_eff = U − J，DFT+U 中惩罚 d/f 轨道非整数占据的参数。
-  - 实体 `LiFePO4`、`LixMn2O4`、`LiCoO2`：三类经典锂电池正极代表材料，可作为实体条目建档。
+  - [[../concepts/self-interaction-error|self-interaction-error]]：LDA/GGA 中电子与自身电荷密度非物理相互作用导致的能量误差，是本文电压低估的物理根源。
+  - [[../concepts/linear-response-u|linear-response-u]]：Cococcioni–de Gironcoli 线性响应法，通过裸响应 χ₀ 与屏蔽响应 χ 之差自洽计算 Hubbard U，无经验参数。
+  - [[../concepts/redox-potential|redox-potential]]：氧化还原电位/锂嵌入电压，由反应前后总能量差经 ⟨V⟩ = −ΔE/[(x₂−x₁)F] 给出。
+  - [[../concepts/charge-ordering|charge-ordering]]：混合价体系中分立价态离子（如 Mn³⁺/Mn⁴⁺）的有序排列，GGA+U 因惩罚非整数占据而自然产生。
+  - [[../concepts/hubbard-u|hubbard-u]]：有效在位库仑相互作用 U_eff = U − J，DFT+U 中惩罚 d/f 轨道非整数占据的参数。
+  - 实体 [[../entities/LiFePO4|LiFePO4]]、[[../entities/LixMn2O4|LixMn2O4]]、[[../entities/LiCoO2|LiCoO2]]：三类经典锂电池正极代表材料，可作为实体条目建档。
 ## 📊 关键图表
 笔记未附图片（raw/figures 目录下仅有 manifest.json，无图像文件；论文原图 1–6 与表 I–III 见双语转写文字描述）。下列文字描述依据原始笔记的图表解析整理。
 

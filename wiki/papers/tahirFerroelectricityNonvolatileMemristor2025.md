@@ -118,7 +118,7 @@ Rabia Tahir, Sheryar Abid, Kubra Sattar, Arooma Syed, Iftikhar Hussain, Kaili Zh
   - 相关论文 [[../../raw/note/tahirFerroelectricityNonvolatileMemristor2025]]
 
 ## 🆕 新概念/实体建议
-  - `MAX-phase.md`（概念）—— Mₙ₊₁AXₙ 三元层状化合物，MXene 的母体。
+  - [[../entities/MAX-phase|MAX-phase]]（概念）—— Mₙ₊₁AXₙ 三元层状化合物，MXene 的母体。
 
 ## 📊 关键图表
 注：raw/figures 目录下仅有 manifest.json，未提供 fig_*.png / tab_*.png 实际图像文件，故本节以文字描述呈现各图与表格内容，未伪造图片路径。以下描述综合自原始阅读笔记对图1–图8、表1–表3 的深度解析。

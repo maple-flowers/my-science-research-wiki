@@ -111,8 +111,8 @@ Khazaei, Arai, Sasaki, Chung, Venkataramanan, Estili, Sakka, Kawazoe et al.，20
   - 相关论文 [[../../raw/note/khazaeiNovelElectronicMagnetic2013]]
 
 ## 🆕 新概念/实体建议
-  - `BoltzTrap`：基于玻尔兹曼输运方程计算热电系数的开源代码。
-  - `Ti2CO2` / `Sc2CF2` / `Cr2C` / `Cr2N`：本文具体预测的功能化 MXene 实体，可作为 MXene 子条目或在 MXenes 条目中详述。
+  - [[../entities/BoltzTrap|BoltzTrap]]：基于玻尔兹曼输运方程计算热电系数的开源代码。
+  - [[../entities/Ti2CO2|Ti2CO2]] / [[../entities/Sc2CF2|Sc2CF2]] / [[../entities/Cr2C|Cr2C]] / [[../entities/Cr2N|Cr2N]]：本文具体预测的功能化 MXene 实体，可作为 MXene 子条目或在 MXenes 条目中详述。
 
 ## 📊 关键图表
   - **图1：MAX 相到 MXene 的结构演变及 A/B 型空心位**

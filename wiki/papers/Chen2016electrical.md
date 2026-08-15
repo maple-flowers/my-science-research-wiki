@@ -106,15 +106,15 @@ Liufang Chen, Zhihao Cheng, Wenting Xu, Xiangjian Meng, Guoliang Yuan, Junming L
   - 实体 [[../entities/c-AFM]]
 
 ## 🆕 新概念/实体建议
-  - `flexoelectricity`（挠曲电效应）：应变梯度 ∂e/∂z 通过挠曲电张量 f 诱导电场 E_f=(f/ε)(∂e/∂z)，是力学翻转的核心驱动力；建议在 concepts 下新建。
-  - `ferroelectric-domain`（铁电畴）：BiFeO3 中沿四条体对角线的 8 种极化方向（P1–P4 向上、P−1–P−4 向下），对应 71°/109°/180° 三类畴壁；可作为概念条目。
-  - `domain-wall-nucleation`（畴壁成核）：新畴优先在已有畴界处成核，是电学/力学翻转共通的第一步机制。
-  - `two-step-switching`（两步 180° 翻转）：180° 翻转由 71° 铁弹翻转 + 109° 铁弹翻转分步完成，直接 180° 因势垒过高而动力学不利。
-  - `coercive-field`（矫顽场）：本样品 Ec≈38 kV/mm（Vc≈2.3 V，膜厚 70 nm），是衡量翻转难易的关键参数。
-  - `ferroelectric-photovoltaic-effect`（铁电光伏效应）：短路电流方向与极化方向反向绑定（向下极化 Isc≈+20 nA，向上 Isc≈−30 nA），可无损读出。
-  - `depletion-layer-readout`（耗尽层读出）：p 型 LSMO / n 型 BiFeO3 界面耗尽层宽度随极化方向变化，使 <Vc 的 1 V 漏电流出现倍数差异。
-  - 实体 `SrTiO3`、`La0.67Sr0.33MnO3`（LSMO，p 型氧化物电极/缓冲层）、`BaTiO3`、`PbZrxTi1-xO3`（PZT）、`ITO`：本工作涉及的关键衬底/电极/对比材料。
-  - 实体/方法 `PLD`（脉冲激光沉积；630 °C、16 Pa O2、KrF 248 nm、1 Hz、60 mJ，后退火 630 °C/1000 Pa O2/30 min）、`PFM`（压电力显微镜，针尖半径 30–35 nm）、`c-AFM`（导电原子力显微镜）。
+  - [[../concepts/flexoelectricity|flexoelectricity]]（挠曲电效应）：应变梯度 ∂e/∂z 通过挠曲电张量 f 诱导电场 E_f=(f/ε)(∂e/∂z)，是力学翻转的核心驱动力；建议在 concepts 下新建。
+  - [[../concepts/ferroelectric-domain|ferroelectric-domain]]（铁电畴）：BiFeO3 中沿四条体对角线的 8 种极化方向（P1–P4 向上、P−1–P−4 向下），对应 71°/109°/180° 三类畴壁；可作为概念条目。
+  - [[../concepts/domain-wall-nucleation|domain-wall-nucleation]]（畴壁成核）：新畴优先在已有畴界处成核，是电学/力学翻转共通的第一步机制。
+  - [[../concepts/two-step-switching|two-step-switching]]（两步 180° 翻转）：180° 翻转由 71° 铁弹翻转 + 109° 铁弹翻转分步完成，直接 180° 因势垒过高而动力学不利。
+  - [[../concepts/coercive-field|coercive-field]]（矫顽场）：本样品 Ec≈38 kV/mm（Vc≈2.3 V，膜厚 70 nm），是衡量翻转难易的关键参数。
+  - [[../concepts/ferroelectric-photovoltaic-effect|ferroelectric-photovoltaic-effect]]（铁电光伏效应）：短路电流方向与极化方向反向绑定（向下极化 Isc≈+20 nA，向上 Isc≈−30 nA），可无损读出。
+  - [[../concepts/depletion-layer-readout|depletion-layer-readout]]（耗尽层读出）：p 型 LSMO / n 型 BiFeO3 界面耗尽层宽度随极化方向变化，使 <Vc 的 1 V 漏电流出现倍数差异。
+  - 实体 [[../entities/SrTiO3|SrTiO3]]、[[../entities/La0.67Sr0.33MnO3|La0.67Sr0.33MnO3]]（LSMO，p 型氧化物电极/缓冲层）、[[../entities/BaTiO3|BaTiO3]]、[[../entities/PbZrxTi1-xO3|PbZrxTi1-xO3]]（PZT）、[[../entities/ITO|ITO]]：本工作涉及的关键衬底/电极/对比材料。
+  - 实体/方法 [[../entities/PLD|PLD]]（脉冲激光沉积；630 °C、16 Pa O2、KrF 248 nm、1 Hz、60 mJ，后退火 630 °C/1000 Pa O2/30 min）、[[../entities/PFM|PFM]]（压电力显微镜，针尖半径 30–35 nm）、[[../entities/c-AFM|c-AFM]]（导电原子力显微镜）。
 
 ## 📊 关键图表
   - 图1 BiFeO₃ 薄膜初始畴结构

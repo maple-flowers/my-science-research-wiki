@@ -114,9 +114,9 @@ Manfred Fiebig、Thomas Lottermoser、Dennis Meier、Morgan Trassin（ETH Züric
 
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体：
-  - 实体 `h-YMnO3.md`（六方锰酸钇）：几何铁电代表，Ps=5.6 μC/cm²，Tc≥1200 K，TN≤120 K；SHG首次揭示畴壁磁电耦合。
-  - 实体 `Cr2O3.md`：非多铁但具时空反演双破缺，展示线性磁电效应、铁涡旋性、磁准单极子与最早NDD。
-  - 实体 `CaMn7O12.md`：铁轴磁体，逆DM机制下极化最高之一（0.3 μC/cm²）。
+  - 实体 [[../entities/h-YMnO3|h-YMnO3]]（六方锰酸钇）：几何铁电代表，Ps=5.6 μC/cm²，Tc≥1200 K，TN≤120 K；SHG首次揭示畴壁磁电耦合。
+  - 实体 [[../entities/Cr2O3|Cr2O3]]：非多铁但具时空反演双破缺，展示线性磁电效应、铁涡旋性、磁准单极子与最早NDD。
+  - 实体 [[../entities/CaMn7O12|CaMn7O12]]：铁轴磁体，逆DM机制下极化最高之一（0.3 μC/cm²）。
 ## 📊 关键图表
   - ![图1 四种多铁性机制：孤对电子、几何、电荷有序、自旋驱动（逆DM/交换伸缩/p-d杂化）](../../raw/figures/fiebigEvolutionMultiferroics2016/fig_1_DQ5C86TF.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
     - **图示描述**：以四个子图示意磁序与铁电长程序共存的四种微观机制：(a) BiFeO₃中Bi³⁺ 6s²孤对电子不对称分布形成局域偶极；(b) h-RMnO₃中MnO₅双锥倾斜挤压R³⁺位移；(c) LuFe₂O₄中Fe²⁺/Fe³⁺电荷有序；(d) 自旋驱动的三条路径（逆DM、交换伸缩、自旋依赖p-d杂化）。

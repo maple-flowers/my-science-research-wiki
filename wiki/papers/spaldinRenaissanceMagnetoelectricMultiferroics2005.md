@@ -87,13 +87,13 @@ Nicola A. Spaldin、Manfred Fiebig，2005，*Science* 309(5733), 391–392，DOI
   - 相关论文 [[../../raw/note/spaldinRenaissanceMagnetoelectricMultiferroics2005]]
 
 ## 🆕 新概念/实体建议
-  - `geometric-ferroelectricity`（几何铁电性）：铁电性并非源于过渡金属离子的偏心共价位移，而是由晶格中配位多面体（如 MnO₅ 双锥）的倾斜/转动导致正负电荷中心分离，可与磁性共存，是六方锰酸盐（HoMnO₃ 等）的核心机制。
-  - `composite-multiferroics`（复合多铁性材料）：由铁电相（如 PZT）与铁磁相（如 Terfenol-D）通过界面弹性应变传递实现磁电耦合的两相体系，室温磁电系数远超单相。
-  - `ferrotoroidicity`（铁涡旋性）：以自发磁矩涡旋（toroidal moment）为序参量的第四类初级铁性，由 Schmid 提出，文中倡议将其纳入铁性体统一框架。
-  - `ferroic-order`（铁性有序 / primary ferroics）：铁磁、铁电、铁弹、铁涡旋四类对称破缺序的统称，是相控制三角图的上位概念。
-  - `TbMnO3`（铽锰氧）：钙钛矿锰氧化物，Kimura 等 2003 年在其中观测到磁场诱导铁电相变，是自旋驱动/电荷有序铁电体的代表，值得建实体条目。
-  - `PZT`（锆钛酸铅 PbZr₁₋ₓTiₓO₃）：复合多铁体最常用的铁电/压电组分，可作为实体条目。
-  - `Terfenol-D`（Tb₁₋ₓDyₓFe₂）：巨磁致伸缩合金，复合多铁体最常用的铁磁组分，可作为实体条目。
+  - [[../concepts/geometric-ferroelectricity|geometric-ferroelectricity]]（几何铁电性）：铁电性并非源于过渡金属离子的偏心共价位移，而是由晶格中配位多面体（如 MnO₅ 双锥）的倾斜/转动导致正负电荷中心分离，可与磁性共存，是六方锰酸盐（HoMnO₃ 等）的核心机制。
+  - [[../concepts/composite-multiferroics|composite-multiferroics]]（复合多铁性材料）：由铁电相（如 PZT）与铁磁相（如 Terfenol-D）通过界面弹性应变传递实现磁电耦合的两相体系，室温磁电系数远超单相。
+  - [[../concepts/ferrotoroidicity|ferrotoroidicity]]（铁涡旋性）：以自发磁矩涡旋（toroidal moment）为序参量的第四类初级铁性，由 Schmid 提出，文中倡议将其纳入铁性体统一框架。
+  - [[../concepts/ferroic-order|ferroic-order]]（铁性有序 / primary ferroics）：铁磁、铁电、铁弹、铁涡旋四类对称破缺序的统称，是相控制三角图的上位概念。
+  - [[../concepts/TbMnO3|TbMnO3]]（铽锰氧）：钙钛矿锰氧化物，Kimura 等 2003 年在其中观测到磁场诱导铁电相变，是自旋驱动/电荷有序铁电体的代表，值得建实体条目。
+  - [[../entities/PZT|PZT]]（锆钛酸铅 PbZr₁₋ₓTiₓO₃）：复合多铁体最常用的铁电/压电组分，可作为实体条目。
+  - [[../entities/Terfenol-D|Terfenol-D]]（Tb₁₋ₓDyₓFe₂）：巨磁致伸缩合金，复合多铁体最常用的铁磁组分，可作为实体条目。
 
 ## 📊 关键图表
 笔记未附图片（raw/figures 下 manifest.json 的 figures 列表为空，仅有文献元数据表），原文两幅核心图以文字描述如下：

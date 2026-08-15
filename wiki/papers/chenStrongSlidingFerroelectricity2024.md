@@ -125,21 +125,21 @@ tags:
   - 实体 [[../entities/ZrI2]]
 
 ## 🆕 新概念/实体建议
-  - `rashba-effect`：Rashba 效应——结构反演不对称与 SOC 共同导致的自旋-动量锁定，能带在 Γ 点附近分裂为内/外两支并呈切向自旋纹理；本文通过极化翻转反转 Rashba 场方向。
-  - `slidetronics`：滑移电子学——利用层间滑动调控铁电性及其他物理性质的新兴领域，本文将其功能拓展至自旋操控。
-  - `depolarization-field`：退极化场——二维薄膜中由表面束缚电荷产生的与极化反向的电场，可抑制极化但同时降低翻转能垒；HgI₂ 双层 ε_d = −0.013 V/Å。
-  - `interfacial-charge-rearrangement`：层间电荷重排——FE 双层相对于孤立单层在层间区域发生的电荷积累/耗尽，形成净层间偶极，是滑动铁电极化的主要微观来源。
-  - `spin-texture`：自旋纹理——动量空间中电子自旋分量的分布图；FE-HgI₂ 双层在 k_x−k_y 平面呈近圆形切向 Rashba 纹理，±P 态纹理完全相反。
-  - `screening-charge-integration`：屏蔽电荷积分法——对二维体系 FE 与 PE 相平面平均电荷密度差 Δρ(z) 沿面外方向积分以确定极化的方法，适用于无面外周期性的二维多层。
-  - `soft-phonon-mode`：软声子模式——PE-HgI₂ 体相在 Γ 点附近的虚频模式（ω = −13.57 cm⁻¹），对应层间滑动不稳定性，驱动滑动铁电相变。
-  - `double-well-potential`：双势阱——连接 ±P 态并经过 PE 态的能量曲线，是铁电双稳态的能量学标志。
-  - 实体 `HgI2`：碘化汞，β-HgI₂（黄色）正交晶系 Cmc2₁ 相，由共边 HgI₆ 八面体构成单层，AB 堆垛形成体相；本文预测其二维多层为强滑动铁电体。
-  - 实体 `HgBr2`：溴化汞，与 HgI₂ 同构 but 极化较弱（体相 0.47 μC/cm²，双层 0.02 μC/cm²）。
-  - 实体 `WTe2`：外尔半金属，首个实验证实的滑动铁电体（2017），双层极化约 0.03 μC/cm²，作为本文极化强度对比基准。
-  - 实体 `MoTe2`：1T′ 相过渡金属二硫化物，具有滑动铁电性，其 PE 相软模频率约 −9 cm⁻¹。
-  - 实体 `CrI3`：扭曲 CrI₃ 双层中堆垛铁电性与铁磁性共存，是罕见的二维多铁材料，在本文引言中作为多铁耦合案例引用。
-  - 实体 `ZrI2`：β-ZrI₂，T_d 相滑动铁电体，体相极化 0.24 μC/cm² 但翻转势垒极高。
-  - 实体 `Datta-Das-spin-FET`：Datta–Das 型自旋场效应晶体管，利用 Rashba 场调控自旋进动实现开关；本文基于 FE-HgI₂ 双层设计沟道长度 143 nm 的自旋 FET。
+  - [[../concepts/rashba-effect|rashba-effect]]：Rashba 效应——结构反演不对称与 SOC 共同导致的自旋-动量锁定，能带在 Γ 点附近分裂为内/外两支并呈切向自旋纹理；本文通过极化翻转反转 Rashba 场方向。
+  - [[../concepts/slidetronics|slidetronics]]：滑移电子学——利用层间滑动调控铁电性及其他物理性质的新兴领域，本文将其功能拓展至自旋操控。
+  - [[../concepts/depolarization-field|depolarization-field]]：退极化场——二维薄膜中由表面束缚电荷产生的与极化反向的电场，可抑制极化但同时降低翻转能垒；HgI₂ 双层 ε_d = −0.013 V/Å。
+  - [[../concepts/interfacial-charge-rearrangement|interfacial-charge-rearrangement]]：层间电荷重排——FE 双层相对于孤立单层在层间区域发生的电荷积累/耗尽，形成净层间偶极，是滑动铁电极化的主要微观来源。
+  - [[../concepts/spin-texture|spin-texture]]：自旋纹理——动量空间中电子自旋分量的分布图；FE-HgI₂ 双层在 k_x−k_y 平面呈近圆形切向 Rashba 纹理，±P 态纹理完全相反。
+  - [[../concepts/screening-charge-integration|screening-charge-integration]]：屏蔽电荷积分法——对二维体系 FE 与 PE 相平面平均电荷密度差 Δρ(z) 沿面外方向积分以确定极化的方法，适用于无面外周期性的二维多层。
+  - [[../concepts/soft-phonon-mode|soft-phonon-mode]]：软声子模式——PE-HgI₂ 体相在 Γ 点附近的虚频模式（ω = −13.57 cm⁻¹），对应层间滑动不稳定性，驱动滑动铁电相变。
+  - [[../concepts/double-well-potential|double-well-potential]]：双势阱——连接 ±P 态并经过 PE 态的能量曲线，是铁电双稳态的能量学标志。
+  - 实体 [[../entities/HgI2|HgI2]]：碘化汞，β-HgI₂（黄色）正交晶系 Cmc2₁ 相，由共边 HgI₆ 八面体构成单层，AB 堆垛形成体相；本文预测其二维多层为强滑动铁电体。
+  - 实体 [[../entities/HgBr2|HgBr2]]：溴化汞，与 HgI₂ 同构 but 极化较弱（体相 0.47 μC/cm²，双层 0.02 μC/cm²）。
+  - 实体 [[../entities/WTe2|WTe2]]：外尔半金属，首个实验证实的滑动铁电体（2017），双层极化约 0.03 μC/cm²，作为本文极化强度对比基准。
+  - 实体 [[../entities/MoTe2|MoTe2]]：1T′ 相过渡金属二硫化物，具有滑动铁电性，其 PE 相软模频率约 −9 cm⁻¹。
+  - 实体 [[../entities/CrI3|CrI3]]：扭曲 CrI₃ 双层中堆垛铁电性与铁磁性共存，是罕见的二维多铁材料，在本文引言中作为多铁耦合案例引用。
+  - 实体 [[../entities/ZrI2|ZrI2]]：β-ZrI₂，T_d 相滑动铁电体，体相极化 0.24 μC/cm² 但翻转势垒极高。
+  - 实体 [[../entities/Datta-Das-spin-FET|Datta-Das-spin-FET]]：Datta–Das 型自旋场效应晶体管，利用 Rashba 场调控自旋进动实现开关；本文基于 FE-HgI₂ 双层设计沟道长度 143 nm 的自旋 FET。
 
 ## 📊 关键图表
   - ![图0 TOC/摘要图](../../raw/figures/chenStrongSlidingFerroelectricity2024/fig_0_WVFZMG6N.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]

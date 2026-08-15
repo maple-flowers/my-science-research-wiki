@@ -90,7 +90,7 @@ Shuichi Nosé，1984，The Journal of Chemical Physics 81(1), 511–519，DOI 10
   - 相关论文 [[../../raw/note/noseUnifiedFormulationConstant1984]]
 
 ## 🆕 新概念/实体建议
-  - `entities/HLME-method.md` 或归入 thermostat 条目 — Hoover–Ladd–Moran–Evans 约束方法，坐标空间严格正则但动量空间为 δ 函数。
+  - [[../concepts/HLME-method|HLME-method]] 或归入 thermostat 条目 — Hoover–Ladd–Moran–Evans 约束方法，坐标空间严格正则但动量空间为 δ 函数。
   - 本论文不涉及具体材料体系，故不提出材料实体。
 
 ## 📊 关键图表

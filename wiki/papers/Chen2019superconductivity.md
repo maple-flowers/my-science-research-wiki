@@ -79,13 +79,13 @@ Chuan Chen, Lei Su, A. H. Castro Neto, Vitor M. Pereira et al.，2019，Physical
   - 实体 [[../entities/2H-NbSe2]]
 
 ## 🆕 新概念/实体建议
-  - `discommensuration`（错位相子/失配畴壁）：C-CDW 中相位跳变 2πν 的局域孤子状畴壁，是本文核心物理对象，值得单独立概念条目。
-  - `pair-density-wave`（配对密度波，PDW）：超导序参量空间周期性调制的非均匀超导态，本文预言 DC 网络可外生产生 PDW。
-  - `mcmillan-ginzburg-landau-theory`（McMillan-GL 理论）：处理 C-IC 转变与 CDW-SC 耦合的唯象自由能框架。
-  - `superconducting-dome`（超导穹顶）：掺杂-温度相图中超导仅在有限参数窗口出现的穹顶状区域。
-  - `little-parks-oscillation`：超导网格中临界温度/磁阻随磁通量子周期振荡的现象，本文用以反推 DC 间距。
-  - 实体 `TiSe2`（1T-TiSe₂）：本文原型体系，CDW 转变 ~60 K、最优 T_sc ~4 K，目前 wiki/entities 中无此条目。
-  - 实体 `2H-TaSe2`、`1T-TaS2`、`2H-NbSe2`：补充材料中用于论证普适性的对比 TMD 体系。
+  - [[../concepts/discommensuration|discommensuration]]（错位相子/失配畴壁）：C-CDW 中相位跳变 2πν 的局域孤子状畴壁，是本文核心物理对象，值得单独立概念条目。
+  - [[../concepts/pair-density-wave|pair-density-wave]]（配对密度波，PDW）：超导序参量空间周期性调制的非均匀超导态，本文预言 DC 网络可外生产生 PDW。
+  - [[../concepts/mcmillan-ginzburg-landau-theory|mcmillan-ginzburg-landau-theory]]（McMillan-GL 理论）：处理 C-IC 转变与 CDW-SC 耦合的唯象自由能框架。
+  - [[../concepts/superconducting-dome|superconducting-dome]]（超导穹顶）：掺杂-温度相图中超导仅在有限参数窗口出现的穹顶状区域。
+  - [[../concepts/little-parks-oscillation|little-parks-oscillation]]：超导网格中临界温度/磁阻随磁通量子周期振荡的现象，本文用以反推 DC 间距。
+  - 实体 [[../entities/TiSe2|TiSe2]]（1T-TiSe₂）：本文原型体系，CDW 转变 ~60 K、最优 T_sc ~4 K，目前 wiki/entities 中无此条目。
+  - 实体 [[../entities/2H-TaSe2|2H-TaSe2]]、[[../entities/1T-TaS2|1T-TaS2]]、[[../entities/2H-NbSe2|2H-NbSe2]]：补充材料中用于论证普适性的对比 TMD 体系。
 ## 📊 关键图表
   - ![图1 E-t 相图：C/NC/IC 三相及超导穹顶，红线为 a1∝E 耦合，灰线为 E 无关耦合；插图显示 η 在 t_c 处跳变（一级相变）](../../raw/figures/Chen2019superconductivity/fig_1_WTGGFJU9.png) -> [[../figures/crystal-structures-xrd-phases|XRD与相变]]
   - **图示描述**：横轴为锁相能 E（从左到右减小，对应电子掺杂浓度增加），纵轴为约化温度 t ∝ T − T_icdw；相图划分出正常态、公度 C、近公度 NC、非公度 IC 四个区域，叠加在 NC 区之上的是超导穹顶 SC+NC。

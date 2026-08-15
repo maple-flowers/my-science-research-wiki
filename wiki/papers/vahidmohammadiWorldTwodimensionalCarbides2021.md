@@ -102,7 +102,7 @@ VahidMohammadi, Rosen, Gogotsi，2021，Science，DOI 10.1126/science.abf1581
   - 相关论文 [[../../raw/note/vahidmohammadiWorldTwodimensionalCarbides2021]]
 
 ## 🆕 新概念/实体建议
-  - `entities/Ti2C`、`entities/Ta4C3`、`entities/Mo2CTx`：代表性 M_2X、M_4X_3 与钼基 MXene。
+  - [[../entities/Ti2C|Ti2C]]、[[../entities/Ta4C3|Ta4C3]]、[[../entities/Mo2CTx|Mo2CTx]]：代表性 M_2X、M_4X_3 与钼基 MXene。
 
 ## 📊 关键图表
 > 说明：`raw/figures/vahidmohammadiWorldTwodimensionalCarbides2021/` 下仅有 `manifest.json`，未抽取任何图片文件；`raw/note` 也只保留了摘要与图 1 图注，没有逐图深度解析。以下根据论文图注与摘要对关键图作文字描述，待获取原始 PDF 后可补入对应图片。

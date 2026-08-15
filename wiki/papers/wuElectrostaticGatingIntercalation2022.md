@@ -101,14 +101,14 @@ Yecun Wu, Danfeng Li, Chun-Lan Wu, Harold Y. Hwang, Yi Cui et al.，2022，*Natu
   - 相关论文 [[../../raw/note/wuElectrostaticGatingIntercalation2022]]
 
 ## 🆕 新概念/实体建议
-  - `electrostatic-gating`（静电/离子门控）：利用电解质中可移动离子在界面形成~1 nm厚双电层，实现高达10¹⁴ cm⁻²载流子积累的电场调控方法。
-  - `electric-double-layer`（双电层，EDL/EDLT）：电极/电解质界面两层符号相反的过剩电荷，微分电容C=dσ/dΨ；是离子门控超高电容的物理根源，值得单独建条目。
-  - `intercalation`（插层）：客体物种进入二维材料范德华间隙，通过电荷转移、化学键合、c轴膨胀调控物性；与门控并列的核心概念。
-  - `topochemical-reaction`（拓扑化学/软化学合成）：低温下利用不同离子迁移率的动力学差异，在保持结构骨架的同时插入/脱出特定离子，获得高温热力学路线无法企及的亚稳态相。
-  - `infinite-layer-nickelates`（无限层镍酸盐，RENiO₂ / Nd₁₋ₓSrₓNiO₂）：CaH₂拓扑还原钙钛矿镍酸盐薄膜所得、方形平面Ni配位的亚稳态超导体，铜氧化物之外的新超导家族。
-  - `molybdenum-disulfide`（MoS₂）：综述中最核心的模型TMD材料（双层门控超导、Li插层2H→1T相变、1T相低阻接触、热晶体管），wiki中仅有TMDs统称条目，建议为其单独立项。
-  - `black-phosphorus`（黑磷）：长链烷基铵插层形成"单层原子晶体分子超晶格"，在宏观准块体中保持单层物性的环境敏感材料范例。
-  - `metastable-phase`（亚稳态相）：由动力学/拓扑化学锁定、非热力学最稳定的物相（1T/1T' MoS₂、无限层SrFeO₂/NdNiO₂等），是插层化学创造新材料的核心概念。
+  - [[../concepts/electrostatic-gating|electrostatic-gating]]（静电/离子门控）：利用电解质中可移动离子在界面形成~1 nm厚双电层，实现高达10¹⁴ cm⁻²载流子积累的电场调控方法。
+  - [[../concepts/electric-double-layer|electric-double-layer]]（双电层，EDL/EDLT）：电极/电解质界面两层符号相反的过剩电荷，微分电容C=dσ/dΨ；是离子门控超高电容的物理根源，值得单独建条目。
+  - [[../concepts/intercalation|intercalation]]（插层）：客体物种进入二维材料范德华间隙，通过电荷转移、化学键合、c轴膨胀调控物性；与门控并列的核心概念。
+  - [[../concepts/topochemical-reaction|topochemical-reaction]]（拓扑化学/软化学合成）：低温下利用不同离子迁移率的动力学差异，在保持结构骨架的同时插入/脱出特定离子，获得高温热力学路线无法企及的亚稳态相。
+  - [[../entities/infinite-layer-nickelates|infinite-layer-nickelates]]（无限层镍酸盐，RENiO₂ / Nd₁₋ₓSrₓNiO₂）：CaH₂拓扑还原钙钛矿镍酸盐薄膜所得、方形平面Ni配位的亚稳态超导体，铜氧化物之外的新超导家族。
+  - [[../entities/molybdenum-disulfide|molybdenum-disulfide]]（MoS₂）：综述中最核心的模型TMD材料（双层门控超导、Li插层2H→1T相变、1T相低阻接触、热晶体管），wiki中仅有TMDs统称条目，建议为其单独立项。
+  - [[../entities/black-phosphorus|black-phosphorus]]（黑磷）：长链烷基铵插层形成"单层原子晶体分子超晶格"，在宏观准块体中保持单层物性的环境敏感材料范例。
+  - [[../concepts/metastable-phase|metastable-phase]]（亚稳态相）：由动力学/拓扑化学锁定、非热力学最稳定的物相（1T/1T' MoS₂、无限层SrFeO₂/NdNiO₂等），是插层化学创造新材料的核心概念。
 
 ## 📊 关键图表
 笔记未附图片（raw/figures/wuElectrostaticGatingIntercalation2022/ 下仅有 manifest.json，无 fig_*.png 文件），以下为原文5张图的文字描述。

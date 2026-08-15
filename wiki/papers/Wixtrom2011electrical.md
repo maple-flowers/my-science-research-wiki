@@ -80,7 +80,7 @@ Alex Wixtrom、Jessica Buhler、Silvina Pagola、Tarek M. Abdel-Fattah，2011，
   - 实体 [[../entities/chloranil]]
   - 相关论文 [[../../raw/note/Wixtrom2011electrical]]
 ## 🆕 新概念/实体建议
-  - `chloranil`（实体，CA）：四氯苯醌，醌类强电子受体
+  - [[../entities/chloranil|chloranil]]（实体，CA）：四氯苯醌，醌类强电子受体
 ## 📊 关键图表
   - ![图1 TTF与CA分子结构](../../raw/figures/Wixtrom2011electrical/fig_1_MS9CRGT4.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：给出本研究所用两个构建单元的二维化学结构式：左侧为给体分子 TTF（四硫富瓦烯），由两个共享中心 C=C 双键的五元环构成，环上共四个硫原子；右侧为受体分子 CA（四氯苯醌/氯冉酸），即带有两个羰基和四个氯取代基的苯醌六元环。

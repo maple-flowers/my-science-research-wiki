@@ -110,8 +110,8 @@ Shengxue Yang, Yujia Chen, Chengbao Jiang（北京航空航天大学材料科学
   - 相关论文 [[../../raw/note/yangStrainEngineeringTwodimensional2021]]
 
 ## 🆕 新概念/实体建议
-  - `mos2.md`（二硫化钼）：单层为直接带隙，奇数层具压电效应；褶皱区迁移率可达平坦区3倍（5.55 vs 1.42 cm²/Vs @30K）。
-  - `mote2.md`（二碲化钼）：AFM针尖应变驱动2H→1T'相变的模型体系；压电衬底上的MoTe₂单晶呈现应变依赖各向异性磁阻。
+  - [[../entities/mos2|mos2]]（二硫化钼）：单层为直接带隙，奇数层具压电效应；褶皱区迁移率可达平坦区3倍（5.55 vs 1.42 cm²/Vs @30K）。
+  - [[../entities/mote2|mote2]]（二碲化钼）：AFM针尖应变驱动2H→1T'相变的模型体系；压电衬底上的MoTe₂单晶呈现应变依赖各向异性磁阻。
 
 ## 📊 关键图表
   - ![图1 柔性基底应变引入法：预拉伸褶皱、热失配、热收缩、弯曲装置](../../raw/figures/yangStrainEngineeringTwodimensional2021/fig_1_YWVERIAZ.png) → [[../figures/experimental-setups|实验装置与测量系统]]

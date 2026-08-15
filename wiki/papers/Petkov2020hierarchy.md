@@ -99,15 +99,15 @@ Valeri Petkov, Junjie Yang, Sarvjit Shastri, Yang Ren，2020，Physical Review B
   - 实体 [[../entities/TaSe2-xTex]]、[[../entities/TaTe2]]、[[../entities/GSAS-II]]、[[../entities/RMCpp]]、[[../entities/advanced-photon-source]]
   - 相关论文 [[../../raw/note/Petkov2020hierarchy]]
 ## 🆕 新概念/实体建议
-  - `pair-distribution-function`：原子对分布函数（PDF），由高能XRD总散射（Bragg+漫散射）傅里叶变换得到G(r)，对局部键长、配位多面体畸变和短程序极为敏感，是研究复杂固溶体局域结构的核心实验手段。
-  - `reverse-monte-carlo`：反向蒙特卡洛（RMC）建模，从~100 Å盒子、8–9万原子的随机构型出发，通过随机移动原子同时拟合总PDF和元素差分PDF，无需预设平均晶胞即可重建含局域畸变的三维原子结构。
-  - `coordination-polyhedron-distortion`：配位多面体畸变，Ta周围三角棱柱/八面体的键角分布宽度与二面角分布，定量刻画多面体扭曲和Ta层皱褶（buckling）程度。
-  - `ta-sublattice-3d-periodicity`：Ta亚晶格三维周期性，SC出现的关键结构判据——通过比较RMC模型与理想晶格的高r区Ta-Ta部分PDF是否吻合来判断层间Ta原子是否对齐。
-  - `tase2-xtex-solid-solution`：TaSe₂₋ₓTeₓ固溶体，等电子Te取代Se的模型体系，端元2H-TaSe₂（三棱柱、CDW~122/90 K、Tc~0.14 K）与1T'-TaTe₂（畸变八面体、CDW~170 K、无SC）结构差异巨大。
-  - `chemical-pressure`：化学压力，用尺寸不同的原子等电子取代产生等效内压（Te替Se为负/扩张化学压力），与外压一样可通过改变堆积密度和Ta-Ta间距调控CDW/SC。
-  - `ionic-radius-ratio-criterion`：离子半径比判据（Gamble），R_Ta⁺/R_Ch⁻>0.49倾向三角棱柱配位、<0.49倾向八面体配位，临界值~0.49（理想三棱柱接触值0.527）。
-  - `resonant-differential-pdf`：共振差分PDF，在Ta K吸收边（67.416 keV）上下取两个能量（差37 eV vs 327 eV）分别采集再相减，使Ta-Ta原子对贡献从总PDF的30%提升到差分PDF的~50%。
-  - 实体建议：`TaSe2`、`TaTe2`、`GSAS-II`（Rietveld软件）、`RMCpp`（RMC++程序）。
+  - [[../concepts/pair-distribution-function|pair-distribution-function]]：原子对分布函数（PDF），由高能XRD总散射（Bragg+漫散射）傅里叶变换得到G(r)，对局部键长、配位多面体畸变和短程序极为敏感，是研究复杂固溶体局域结构的核心实验手段。
+  - [[../concepts/reverse-monte-carlo|reverse-monte-carlo]]：反向蒙特卡洛（RMC）建模，从~100 Å盒子、8–9万原子的随机构型出发，通过随机移动原子同时拟合总PDF和元素差分PDF，无需预设平均晶胞即可重建含局域畸变的三维原子结构。
+  - [[../concepts/coordination-polyhedron-distortion|coordination-polyhedron-distortion]]：配位多面体畸变，Ta周围三角棱柱/八面体的键角分布宽度与二面角分布，定量刻画多面体扭曲和Ta层皱褶（buckling）程度。
+  - [[../concepts/ta-sublattice-3d-periodicity|ta-sublattice-3d-periodicity]]：Ta亚晶格三维周期性，SC出现的关键结构判据——通过比较RMC模型与理想晶格的高r区Ta-Ta部分PDF是否吻合来判断层间Ta原子是否对齐。
+  - [[../entities/tase2-xtex-solid-solution|tase2-xtex-solid-solution]]：TaSe₂₋ₓTeₓ固溶体，等电子Te取代Se的模型体系，端元2H-TaSe₂（三棱柱、CDW~122/90 K、Tc~0.14 K）与1T'-TaTe₂（畸变八面体、CDW~170 K、无SC）结构差异巨大。
+  - [[../concepts/chemical-pressure|chemical-pressure]]：化学压力，用尺寸不同的原子等电子取代产生等效内压（Te替Se为负/扩张化学压力），与外压一样可通过改变堆积密度和Ta-Ta间距调控CDW/SC。
+  - [[../concepts/ionic-radius-ratio-criterion|ionic-radius-ratio-criterion]]：离子半径比判据（Gamble），R_Ta⁺/R_Ch⁻>0.49倾向三角棱柱配位、<0.49倾向八面体配位，临界值~0.49（理想三棱柱接触值0.527）。
+  - [[../concepts/resonant-differential-pdf|resonant-differential-pdf]]：共振差分PDF，在Ta K吸收边（67.416 keV）上下取两个能量（差37 eV vs 327 eV）分别采集再相减，使Ta-Ta原子对贡献从总PDF的30%提升到差分PDF的~50%。
+  - 实体建议：[[../entities/TaSe2|TaSe2]]、[[../entities/TaTe2|TaTe2]]、[[../entities/GSAS-II|GSAS-II]]（Rietveld软件）、[[../entities/RMCpp|RMCpp]]（RMC++程序）。
 ## 📊 关键图表
 笔记未附数码图（`raw/figures/Petkov2020hierarchy/` 下仅有 `manifest.json`，无 fig_*.png 文件），以下按论文图号给出文字描述。
 

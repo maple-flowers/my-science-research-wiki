@@ -107,8 +107,8 @@ Li, Medhekar, Shenoy，2013，*The Journal of Physical Chemistry C* 117(30), 158
   - 相关论文 [[../../raw/note/Li2013bonding]]
 
 ## 🆕 新概念/实体建议
-  - `stress-strain-relation`（应力–应变关系）：无缺陷材料在断裂前对应变的完整力学响应。
-  - 实体 `ABINIT`：本文用于力学响应（应力–应变）计算的开源平面波 DFT 软件，采用 LDA + HGH 模守恒赝势。
+  - [[../concepts/stress-strain-relation|stress-strain-relation]]（应力–应变关系）：无缺陷材料在断裂前对应变的完整力学响应。
+  - 实体 [[../entities/ABINIT|ABINIT]]：本文用于力学响应（应力–应变）计算的开源平面波 DFT 软件，采用 LDA + HGH 模守恒赝势。
 
 ## 📊 关键图表
   - ![图1 MX2单层晶体结构（俯视/侧视），红色原胞、蓝色正交超胞，x=扶手椅、y=锯齿](../../raw/figures/Li2013bonding/fig_1_42JAUWDZ.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]

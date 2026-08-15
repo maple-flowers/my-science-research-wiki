@@ -96,11 +96,11 @@ Yiqing Shu, Jia Guo, Taojian Fan 等，2020，ACS Applied Materials & Interfaces
   - 实体 [[../entities/b-AsP]]
   - 相关论文 [[../../raw/note/shuTwoDimensionalBlackArsenic2020]]
 ## 🆕 新概念/实体建议
-  - `b-asp`（实体）：黑砷磷，V 族二元二维合金，As:P ≈ 0.2:0.8，正交褶皱蜂窝结构，带隙 0.15-0.3 eV 可调，填补石墨烯与黑磷之间的带隙空白
-  - `saturable-absorber`（概念）：可饱和吸收体，光强越强吸收越弱的非线性光学元件，用于光纤激光器被动锁模
-  - `z-scan`（概念/方法）：Z 扫描技术，通过移动样品经过聚焦光束测量非线性吸收系数 β 和饱和强度 Is 的经典方法
-  - `mode-locked-fiber-laser`（概念）：锁模光纤激光器，利用可饱和吸收体在环形腔内产生超短孤子脉冲
-  - `electron-hole-recombination`（概念）：电子-空穴复合速率，决定半导体饱和吸收体的饱和强度和调制深度
+  - [[../entities/b-asp|b-asp]]（实体）：黑砷磷，V 族二元二维合金，As:P ≈ 0.2:0.8，正交褶皱蜂窝结构，带隙 0.15-0.3 eV 可调，填补石墨烯与黑磷之间的带隙空白
+  - [[../concepts/saturable-absorber|saturable-absorber]]（概念）：可饱和吸收体，光强越强吸收越弱的非线性光学元件，用于光纤激光器被动锁模
+  - [[../concepts/z-scan|z-scan]]（概念/方法）：Z 扫描技术，通过移动样品经过聚焦光束测量非线性吸收系数 β 和饱和强度 Is 的经典方法
+  - [[../entities/mode-locked-fiber-laser|mode-locked-fiber-laser]]（概念）：锁模光纤激光器，利用可饱和吸收体在环形腔内产生超短孤子脉冲
+  - [[../concepts/electron-hole-recombination|electron-hole-recombination]]（概念）：电子-空穴复合速率，决定半导体饱和吸收体的饱和强度和调制深度
 ## 📊 关键图表
   - ![图1 LPE制备流程与b-AsP晶体结构](../../raw/figures/shuTwoDimensionalBlackArsenic2020/fig_1_CK9CPM5I.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
     - **图示描述**：左面板为液相剥离法（LPE）制备流程示意——块体 b-AsP 晶体在溶剂中经探头超声剥离、离心分离得到含少层纳米片的分散液；右面板为 b-AsP 的正交晶系褶皱蜂窝晶格球棍模型，As 与 P 原子比例约 0.2:0.8，层间为弱范德华作用、面内为强共价键。

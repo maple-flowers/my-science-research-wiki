@@ -87,18 +87,18 @@ Fei, Zhao, Palomaki, Sun, Miller, Zhao, Yan, Xu, Cobden et al.，2018，Nature 5
   - 年度 [[../write/2015-2019|2018]]
   - 相关论文 **feiFerroelectricSwitchingTwodimensional2018a**
 ## 🆕 新概念/实体建议
-  - `polar-metal`（极性金属）：具有极性空间群、存在极轴但传统上认为极化不可翻转的金属；本工作将其推进到可翻转的"铁电金属"。
-  - `electronic-ferroelectricity`（电子铁电性）：自发极化主要来自电子云相对离子实的重排（电子-空穴关联、层间电荷转移），而非离子位移/软模晶格畸变，预示本征超快翻转。
-  - `electron-hole-correlation`（电子-空穴关联）：在补偿点 ne=0 附近电子与空穴浓度相等时的关联效应，被作者提为 WTe₂ 自发极化的可能驱动源。
-  - `out-of-plane-polarization`（面外极化）：极化方向沿垂直于二维层面的 c 轴，区别于 SnTe 等体系的面内铁电性。
-  - `quantum-spin-hall-effect`（量子自旋霍尔效应）：单层 WTe₂ 为二维拓扑绝缘体（QSH 绝缘体），边缘态受拓扑保护，与双层铁电性形成层数依赖的功能分工。
-  - `weyl-semimetal`（外尔半金属）：三维 1T′-WTe₂ 为 type-II Weyl 半金属，具有费米弧、极端各向异性磁阻等，与铁电极轴共存。
-  - `depolarization-field`（去极化场）：极化电荷产生的反向电场，若不被栅极屏蔽将导致畴形成；本器件中上下栅极屏蔽了该场，使 E⊥=0 下保持单畴均匀极化。
-  - `screening-length`（屏蔽长度）：金属中电场衰减的纳米尺度长度，决定了 2-3 层可翻转而 ≥4 层不可翻转、三层所需翻转场大于双层的临界厚度行为。
-  - `bistability`（双稳态）：相同外场下电导（及极化）存在两个稳定值 P↑/P↓，是铁电翻转的电学指纹，表现为蝴蝶形回滞。
-  - `domain-dynamics`（畴动力学）：电导跳跃位置与亚结构的随机涨落、缺陷成核/钉扎、接触附近屏蔽导致的翻转模式依赖于接触选择。
-  - 实体 `graphene`（石墨烯）：本工作中用作超灵敏局域电场传感器（狄拉克点附近电导对电场极度敏感），将微弱极化电荷信号转为可测电阻变化。
-  - 实体 `BaTiO3`（钛酸钡）：经典钙钛矿铁电体，体极化密度 ~0.2 C·m⁻²（~10¹⁴ e·cm⁻²），用作 WTe₂ 极化强度（小三个数量级）的参照基准。
+  - [[../concepts/polar-metal|polar-metal]]（极性金属）：具有极性空间群、存在极轴但传统上认为极化不可翻转的金属；本工作将其推进到可翻转的"铁电金属"。
+  - [[../concepts/electronic-ferroelectricity|electronic-ferroelectricity]]（电子铁电性）：自发极化主要来自电子云相对离子实的重排（电子-空穴关联、层间电荷转移），而非离子位移/软模晶格畸变，预示本征超快翻转。
+  - [[../concepts/electron-hole-correlation|electron-hole-correlation]]（电子-空穴关联）：在补偿点 ne=0 附近电子与空穴浓度相等时的关联效应，被作者提为 WTe₂ 自发极化的可能驱动源。
+  - [[../concepts/out-of-plane-polarization|out-of-plane-polarization]]（面外极化）：极化方向沿垂直于二维层面的 c 轴，区别于 SnTe 等体系的面内铁电性。
+  - [[../concepts/quantum-spin-hall-effect|quantum-spin-hall-effect]]（量子自旋霍尔效应）：单层 WTe₂ 为二维拓扑绝缘体（QSH 绝缘体），边缘态受拓扑保护，与双层铁电性形成层数依赖的功能分工。
+  - [[../concepts/weyl-semimetal|weyl-semimetal]]（外尔半金属）：三维 1T′-WTe₂ 为 type-II Weyl 半金属，具有费米弧、极端各向异性磁阻等，与铁电极轴共存。
+  - [[../concepts/depolarization-field|depolarization-field]]（去极化场）：极化电荷产生的反向电场，若不被栅极屏蔽将导致畴形成；本器件中上下栅极屏蔽了该场，使 E⊥=0 下保持单畴均匀极化。
+  - [[../concepts/screening-length|screening-length]]（屏蔽长度）：金属中电场衰减的纳米尺度长度，决定了 2-3 层可翻转而 ≥4 层不可翻转、三层所需翻转场大于双层的临界厚度行为。
+  - [[../concepts/bistability|bistability]]（双稳态）：相同外场下电导（及极化）存在两个稳定值 P↑/P↓，是铁电翻转的电学指纹，表现为蝴蝶形回滞。
+  - [[../concepts/domain-dynamics|domain-dynamics]]（畴动力学）：电导跳跃位置与亚结构的随机涨落、缺陷成核/钉扎、接触附近屏蔽导致的翻转模式依赖于接触选择。
+  - 实体 [[../entities/graphene|graphene]]（石墨烯）：本工作中用作超灵敏局域电场传感器（狄拉克点附近电导对电场极度敏感），将微弱极化电荷信号转为可测电阻变化。
+  - 实体 [[../entities/BaTiO3|BaTiO3]]（钛酸钡）：经典钙钛矿铁电体，体极化密度 ~0.2 C·m⁻²（~10¹⁴ e·cm⁻²），用作 WTe₂ 极化强度（小三个数量级）的参照基准。
 ## 📊 关键图表
 笔记未附图片（raw/figures 下仅有 manifest.json，无图片文件），以下以文字描述三张主图。
 
