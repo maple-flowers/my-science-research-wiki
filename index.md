@@ -4,7 +4,7 @@
 
 ## 概念（Concepts）
 
-*共 102 个正式概念页（反链聚合中间产物不计入），完整列表见 `wiki/concepts/` 目录。*
+*共 100 个正式概念页（反链聚合中间产物不计入），完整列表见 `wiki/concepts/` 目录。*
 
 - [[wiki/concepts/sliding-ferroelectricity|滑动/堆叠铁电性 Sliding Ferroelectricity]]
 - [[wiki/concepts/multiferroicity|多铁性 Multiferroicity]]
@@ -20,7 +20,7 @@
 
 ## 实体（Entities：材料/器件/结构/方法）
 
-*共 23 个正式实体页（反链聚合中间产物不计入），完整列表见 `wiki/entities/` 目录。*
+*共 30 个正式实体页（反链聚合中间产物不计入），完整列表见 `wiki/entities/` 目录。*
 
 - **二维材料体系**：
   - [[wiki/entities/h-BN|六方氮化硼 h-BN]]
@@ -37,12 +37,12 @@
 - **微观结构与算法工具**：
   - [[wiki/concepts/domain-wall|畴壁 Domain Wall]]
   - [[wiki/entities/deep-potential|机器学习势 Deep Potential (DPMD)]]
-  - [[wiki/entities/ABINIT|ABINIT]]、[[wiki/concepts/ARPES|ARPES]]、[[wiki/concepts/bader-analysis|Bader 电荷分析]] 等
+  - [[wiki/entities/ABINIT|ABINIT]]、[[wiki/entities/ARPES|ARPES]]、[[wiki/concepts/bader-analysis|Bader 电荷分析]] 等
 - ……等等，涵盖二维材料、钙钛矿/氧化物、分子多铁、软件/仪器、器件结构等，详见 `wiki/entities/`。
 
 ## 主题（Topics）
 
-*该目录现有 2 个主题聚合页（`材料模拟计算设计`、`多铁性材料`）+ 1 个 `example.md` 占位，主题页尚未按 `format-spec` 完整模板重构。*
+*该目录现有 3 个主题聚合页（[[wiki/topics/D02-multiferroic-materials|D02 多铁性材料]]、[[wiki/topics/D03-magnetic-materials|D03 二维磁性材料]]、[[wiki/topics/Z01-computational-materials-design|Z01 材料模拟计算设计]]），命名遵循 `<分类码>-<英文主题>.md`；D02 已按 `format-spec` 完整模板展开第 1–7 节（块体与二维两条脉络齐备，167 条双链全部有效），D03 为早期风格（emoji 分节，内容完整），Z01 仍是文献索引、尚未展开正文。*
 
 ## 论文卡片（Papers）
 
@@ -62,7 +62,7 @@
   - [[wiki/papers/miaoMagneticFerroelectricMetal2024|Magnetic ferroelectric metal in bilayer Fe3GeTe2]]
   - [[wiki/papers/yuFerroelectricControlMagnetism2026|Ferroelectric Control of Magnetism and Giant Magnetoelectric Effect]]
   - [[wiki/papers/wuElectrostaticGatingIntercalation2022|Electrostatic gating and intercalation in 2D materials]]
-- *完整列表见 [[wiki/papers/]]，共 188 篇。*
+- *完整列表见 `wiki/papers/`，共 188 篇。*
 
 ## 学术写作（Writing）
 
@@ -83,7 +83,8 @@
 ## 研究想法（Ideas）
 
 - [[wiki/ideas/_index|研究想法库总索引 Research Ideas]]
-  - 记录领域空白（gap）、研究想法（idea）、可行性验证（validation）；想法验证通过后可落地为 [[wiki/projects/index|科研项目]]，详见 [[wiki/ideas/format-spec|想法条目编写规范]]。
+  - 记录领域空白（gap）、研究想法（idea）、可行性验证（validation）与科研范式（paradigm）；想法验证通过后可落地为 [[wiki/projects/index|科研项目]]，详见 [[wiki/ideas/format-spec|想法条目编写规范]]。
+  - 当前已建立 **10 张科研范式卡片（P01–P10）**，覆盖第一性原理设计、高通量筛选、方法学开发、机器学习势 MD、唯象理论、实验-理论闭环、器件开发、微纳加工、综述框架、介观模拟十条研究路线；gap / idea / validation 三型卡片尚未开始。
 
 ## 自动日报流（Daily Feed）
 
@@ -106,11 +107,11 @@
 - 原始 AI 笔记 (`raw/note/*.md`)：共 531 篇（citekey 命名）。
 - 原始图表资产 (`raw/figures/<KEY>/`)：共 531 个 KEY 目录 / 1,675 张 PNG / 531 份 `manifest.json`。
 
-## 规范、日志与维护经验
+## 规范与维护
 
-- 条目编写格式规范（怎么写）见 [[wiki/format-spec]]。
-- 时间导向的变更记录与批量维护踩坑经验（frontmatter / 双链 / 校验 / 去重）见 [[log]]。
+- 条目编写格式规范（怎么写）见 [[wiki/format-spec]]，其中含批量维护确立的操作规则（frontmatter 混合结构 / CJK 术语双链 / 去重合并模板）。
 - 全库架构规范总纲见 [[SCHEMA]]，更新工作流见 [[update]]。
+- 变更历史与逐次维护记录见 git 提交历史。
 
 ## 维护产物与临时目录
 

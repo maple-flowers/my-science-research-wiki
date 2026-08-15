@@ -112,17 +112,14 @@ tags:
   - 实体 [[../entities/MoTe2|MoTe₂]]
   - 实体 [[../entities/WTe2|WTe₂]]
   - 实体 [[../entities/ZrI2|ZrI₂]]
+  - 实体 [[../entities/Datta-Das-spin-FET]]
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/electronic-devices]]
   - 图表 [[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]
   - 年度 [[../write/2020-2024|2024]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
-  - 实体 [[../entities/Datta-Das-spin-FET]]
   - 相关论文 [[../../raw/note/chenStrongSlidingFerroelectricity2024]]
-  - 实体 [[../entities/HgI2]]
-  - 实体 [[../entities/HgBr2]]
-  - 实体 [[../entities/ZrI2]]
 
 ## 🆕 新概念/实体建议
   - [[../concepts/rashba-effect|rashba-effect]]：Rashba 效应——结构反演不对称与 SOC 共同导致的自旋-动量锁定，能带在 Γ 点附近分裂为内/外两支并呈切向自旋纹理；本文通过极化翻转反转 Rashba 场方向。

@@ -98,12 +98,26 @@ Rogerio de Sousa, Joel E. Moore，2008，Applied Physics Letters 92, 022514，DO
 基于耦合铁电/反铁磁序的金兹堡-朗道模型与磁静波近似，预测倾斜反铁磁BiFeO3薄膜中最低频磁振子色散因长程偶极相互作用而强烈依赖于传播方向与奈尔矢量的夹角，从而可借由电场翻转铁电极化来无电流地开关自旋波传播。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/spin-wave|自旋波]]、[[../concepts/dzyaloshinskii-moriya-interaction|DM相互作用]]、[[../concepts/canted-antiferromagnetism|倾斜反铁磁性]]、[[../concepts/weak-ferromagnetism|弱铁磁性]]、[[../concepts/magnetostatic-effect|磁静波效应]]、[[../concepts/electromagnon|电磁振子]]、[[../concepts/neel-vector|奈尔矢量]]、[[../concepts/landau-lifshitz-equation|朗道-莱弗席兹方程]]、[[../concepts/ginzburg-landau|金兹堡-朗道理论]]、[[../concepts/spin-wave-logic|自旋波逻辑]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/spin-wave|自旋波]]
+  - 概念 [[../concepts/dzyaloshinskii-moriya-interaction|DM相互作用]]
+  - 概念 [[../concepts/canted-antiferromagnetism|倾斜反铁磁性]]
+  - 概念 [[../concepts/weak-ferromagnetism|弱铁磁性]]
+  - 概念 [[../concepts/magnetostatic-effect|磁静波效应]]
+  - 概念 [[../concepts/electromagnon|电磁振子]]
+  - 概念 [[../concepts/neel-vector|奈尔矢量]]
+  - 概念 [[../concepts/landau-lifshitz-equation|朗道-莱弗席兹方程]]
+  - 概念 [[../concepts/ginzburg-landau|金兹堡-朗道理论]]
+  - 概念 [[../concepts/spin-wave-logic|自旋波逻辑]]
   - 实体 [[../entities/BiFeO3]]
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2005-2009|2008]]
-  - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/deSousa2008electrical]]
+
 ## 📊 关键图表
   - 图1：倾斜多铁材料中的自旋波与极化波模式。(a)低频软模——两子晶格磁矩同相进动、倾斜角β不变；(b)高频有隙模——反相进动调制β；(c)坐标系（z沿P，y沿L）。
     ![图1 自旋波模式示意图](../../raw/figures/deSousa2008electrical/fig_1_MFP3ILKR.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]

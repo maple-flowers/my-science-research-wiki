@@ -96,14 +96,36 @@ Huang, Peng, Fan et al.，2019，*American Journal of Biomedical Science & Resea
 在二苯乙烯单芳环上同时引入邻/间位双氰基与二甲氨基，构建出 D-π-A 型探针 P1，其发射峰随溶剂极性从 445 nm 红移至 641 nm（≈196 nm），双光子吸收截面最高达 6670 GM，并首次在双光子激发下观察到 LE/TICT/Exciplex 三重荧光，可同时响应极性、粘度和温度。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/solvatochromism|溶剂化变色]]、[[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/two-photon-fluorescence|双光子荧光]]、[[../concepts/ict-mechanism]]、[[../concepts/tict-mechanism]]、[[../concepts/exciplex|激基复合物]]、[[../concepts/local-excited-state|局域激发态]]、[[../concepts/d-pi-a-architecture]]、[[../concepts/d-pi-a-architecture]]、[[../concepts/triple-fluorescence|三重荧光]]、[[../concepts/lippert-mataga|Lippert–Mataga方程]]
-  - 实体 [[../entities/stilbene|二苯乙烯]]、[[../entities/DCS|DCS]]、[[../entities/dicyanostilbene-1a|P1探针]]、[[../entities/dicyanostilbene-1b|P2探针]]、[[../entities/fluorescein|荧光素]]、[[../entities/quinine-bisulfate|硫酸奎宁]]
+  - 概念 [[../concepts/solvatochromism|溶剂化变色]]
+  - 概念 [[../concepts/two-photon-absorption|双光子吸收]]
+  - 概念 [[../concepts/two-photon-fluorescence|双光子荧光]]
+  - 概念 [[../concepts/ict-mechanism]]
+  - 概念 [[../concepts/tict-mechanism]]
+  - 概念 [[../concepts/exciplex|激基复合物]]
+  - 概念 [[../concepts/local-excited-state|局域激发态]]
+  - 概念 [[../concepts/d-pi-a-architecture]]
+  - 概念 [[../concepts/triple-fluorescence|三重荧光]]
+  - 概念 [[../concepts/lippert-mataga|Lippert–Mataga方程]]
+  - 概念 [[../concepts/viscosity-sensing]]
+  - 概念 [[../concepts/thermochromism]]
+  - 概念 [[../concepts/solvent-polarity-scales]]
+  - 概念 [[../concepts/fluorescence-quantum-yield]]
+  - 实体 [[../entities/stilbene|二苯乙烯]]
+  - 实体 [[../entities/DCS|DCS]]
+  - 实体 [[../entities/dicyanostilbene-1a|P1探针]]
+  - 实体 [[../entities/dicyanostilbene-1b|P2探针]]
+  - 实体 [[../entities/fluorescein|荧光素]]
+  - 实体 [[../entities/quinine-bisulfate|硫酸奎宁]]
+  - 实体 [[../entities/diphenylamino]]
+  - 实体 [[../entities/glycerol]]
+  - 实体 [[../entities/DMSO]]
+  - 实体 [[../entities/dimethylamino]]
+  - 实体 [[../entities/cyano-group]]
   - 图表 [[../figures/optical-spectra]]
   - 年度 [[../write/2015-2019|2019]]
   - 项目 [[../projects/project-1-two-photon]]
-  - 概念 [[../concepts/viscosity-sensing]]、[[../concepts/thermochromism]]、[[../concepts/solvent-polarity-scales]]、[[../concepts/fluorescence-quantum-yield]]
-  - 实体 [[../entities/diphenylamino]]、[[../entities/glycerol]]、[[../entities/DMSO]]、[[../entities/dimethylamino]]、[[../entities/cyano-group]]
   - 相关论文 [[../../raw/note/Huang2019solvatochromic]]
+
 ## 📊 关键图表
 笔记未附图片（raw/figures 目录仅有 manifest.json，含 Table 1 的中英数据表；以下各图以文字描述，未伪造图片路径）。
 

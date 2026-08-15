@@ -1,15 +1,18 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_11c27ca0989d11f1a98a525400f8a581
-    ReservedCode1: pMVxxGYL96oEJI0vG4bKVHmP5WEINGmG200m5XmCXm+MNzCPh0AYPRGyJoFTF//Ows8nCWLw+TDC08geJfdPwD7PAjqNwUeWboIcTGrch+4pR2u6R3fDkEkPrNw1jKFX9P9GENl9t1c2nh/+oFYfruvLmQqxLE4b1QjYgiTsslUrMmjpsdo0a1VnpmE=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_11c27ca0989d11f1a98a525400f8a581
-    ReservedCode2: pMVxxGYL96oEJI0vG4bKVHmP5WEINGmG200m5XmCXm+MNzCPh0AYPRGyJoFTF//Ows8nCWLw+TDC08geJfdPwD7PAjqNwUeWboIcTGrch+4pR2u6R3fDkEkPrNw1jKFX9P9GENl9t1c2nh/+oFYfruvLmQqxLE4b1QjYgiTsslUrMmjpsdo0a1VnpmE=
+tags: [paradigm, mesoscale, phase-field, micromagnetics, monte-carlo]
+title: 经典与介观尺度模拟 / Classical & Mesoscale Simulation
+type: paradigm
+status: active
+paradigm_id: P10
+domain: [computational-physics, mesoscale-modeling, domain-dynamics]
+core_question: 当原子级模拟尺度不够时，如何用粗粒化的序参量/自旋/畴模型在更大时空尺度上推演体系演化？
+method_pipeline: 粗粒化模型构建（相场/微磁学/自旋哈密顿量）→参数由 DFT 或实验标定→大尺度时域演化→畴结构统计与标度分析
+related_concepts: [skyrmion, domain-wall, ferroelectricity, multiferroicity, polarization-switching]
+related_entities: [BiFeO3, NiI2]
+related_topics: [D02-multiferroic-materials, Z01-computational-materials-design]
+papers: [Zhang2019a, Zhang2019b, Wei2021, Wu2021]
+updated: 2026-08
 ---
-
-
 
 # 经典与介观尺度模拟 / Classical & Mesoscale Simulation
 
@@ -78,10 +81,9 @@ AIGC:
 - [[../concepts/polarization-switching|极化翻转]]
 - [[../entities/BiFeO3|BiFeO₃]]
 - [[../entities/NiI2|NiI₂]]
-- [[../topics/多铁性材料|多铁性材料]]
-- [[../topics/材料模拟计算设计|材料模拟计算设计]]
+- [[../topics/D02-multiferroic-materials|多铁性材料]]
+- [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
 
 ## 📈 生命周期日志
 
 - **2026-08-15**: active — 提炼自 8 篇经典与介观尺度模拟类论文（蒙特卡洛/相场/微磁学等）。
-*（内容由AI生成，仅供参考）*

@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/zahraCriticalAnalysisFerroelectric2025]]
 projects: []
-concepts: [2D-materials, density-functional-theory, ferroelasticity, ferroelectric-tunnel-junction, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, topological-defects, piezoresponse-force-microscopy, stoner-ferromagnetism, janus-mxene, i-mxene, surface-terminations-tx, sc2co2, v2c-mxene, max-phase, ti3c2tx, ferroelectric-metal]
-entities: [BiFeO3, In2Se3, MXenes, TMDs, hf2vc2f2, ferroelectric-memristor]
+concepts: [2D-materials, density-functional-theory, ferroelasticity, ferroelectric-tunnel-junction, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, topological-defects, stoner-ferromagnetism, janus-mxene, i-mxene, surface-terminations-tx, sc2co2, v2c-mxene, max-phase, ti3c2tx, ferroelectric-metal]
+entities: [BiFeO3, ferroelectric-memristor, hf2vc2f2, In2Se3, MXenes, PFM, TMDs]
 methods: [afm-pfm, device-i-v, dft, squid]
 materials: [BiFeO3, In2Se3, MXenes, TMDs]
 figures: []
@@ -81,12 +81,40 @@ Saman Zahra, Bo Dai, Xianhua Wei, Fei Zhou, Syed Irfan et al.，2025，Critical 
 首篇系统批判性综述二维 MXene（过渡金属碳/氮化物）中铁电、铁磁与多铁性的工作，归纳了从 MAX 相刻蚀、表面端基工程到掺杂/应变/复合诱导 FE/FM 的完整策略工具箱。
 ## 🔗 Wiki 双链
 本文涉及且 wiki 中已存在的条目，用双链列出（存在才链）：
-  - 概念 [[../concepts/2d-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/ferroelasticity]]、[[../concepts/strain-engineering]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/topological-defects]]、[[../entities/MAX-phase]]、[[../concepts/surface-terminations-tx]]、[[../concepts/janus-mxene]]、[[../concepts/ferroelectric-metal]]、[[../concepts/i-mxene]]、[[../entities/Sc2CO2]]、[[../concepts/v2c-mxene]]、[[../entities/hf2vc2f2]]、[[../concepts/ti3c2tx]]、[[../concepts/piezoresponse-force-microscopy]]、[[../concepts/stoner-ferromagnetism]]、[[../entities/ferroelectric-memristor]]
-  - 实体 [[../entities/MXenes]]、[[../entities/BiFeO3]]、[[../entities/In2Se3]]、[[../entities/TMDs]]、[[../entities/hf2vc2f2]]
-  - 图表 [[../figures/heterostructures-stacking]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/ferroelectric-tunnel-junction]]
+  - 概念 [[../concepts/ferroelasticity]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/spin-orbit-coupling]]
+  - 概念 [[../concepts/topological-defects]]
+  - 概念 [[../concepts/surface-terminations-tx]]
+  - 概念 [[../concepts/janus-mxene]]
+  - 概念 [[../concepts/ferroelectric-metal]]
+  - 概念 [[../concepts/i-mxene]]
+  - 概念 [[../concepts/v2c-mxene]]
+  - 概念 [[../concepts/ti3c2tx]]
+  - 概念 [[../concepts/stoner-ferromagnetism]]
+  - 实体 [[../entities/PFM]]
+  - 实体 [[../entities/MAX-phase]]
+  - 实体 [[../entities/Sc2CO2]]
+  - 实体 [[../entities/hf2vc2f2]]
+  - 实体 [[../entities/ferroelectric-memristor]]
+  - 实体 [[../entities/MXenes]]
+  - 实体 [[../entities/BiFeO3]]
+  - 实体 [[../entities/In2Se3]]
+  - 实体 [[../entities/TMDs]]
+  - 图表 [[../figures/heterostructures-stacking]]
+  - 图表 [[../figures/electronic-devices]]
+  - 图表 [[../figures/experimental-setups]]
   - 年度 [[../write/2025-2029|2025]]
-  - 主题 [[../topics/多铁性材料]]、[[../topics/材料模拟计算设计]]
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
+  - 主题 [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
   - 相关论文 [[../../raw/note/zahraCriticalAnalysisFerroelectric2025]]
+
 ## 📊 关键图表
   - 图1：MXene 应用示意图：![图1](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_1_WJ78IQDN.png)
   - **图示描述**：以 MXene 为中心的辐射状示意图，外围分电学（电池、超级电容器）、磁学（电磁干扰屏蔽）、光学（光子学、激光器）、机械以及层状结构五大应用板块。
@@ -171,7 +199,6 @@ project-2 Mn多铁（弱相关：综述系统讨论 Mn₂C/Mn₂CO₂ 等 Mn 基
   - Ferroelectric tunnel junction (FTJ), tunneling electroresistance (TER) / 铁电隧道结与隧穿电阻比
   - Piezoresponse force microscopy (PFM), butterfly loop / 压电力显微镜与蝴蝶曲线
 ## ✏️ 可写入 Wiki 的要点
-5-10 条 bullet，是可直接用于第二步充实 wiki 条目的具体事实、机制、数据、公式、结论
   - MXene 通式 M_{n+1}X_nT_x，由 [[../entities/MAX-phase]] M_{n+1}AX_n 选择性刻蚀 A 层得到；M-X 为金属/离子/共价混合键，强于 M-A 金属键，因此刻蚀只断 M-A。已报道约 155 种 MAX 相、约 55 种 MXene。
   - 刻蚀工艺（HF、氟盐/强酸、NH₄HF₂、无氟熔盐、电化学、CVD）直接决定端基 T_x（-O/-OH/-F/-Cl/-S/-Br/-NH₂ 等），T_x 同时调控电子结构、亲疏水性、对称性与磁性，是性能调控的第一旋钮；无 T_x 的 M_{n+1}X_n 称 pristine MXene。
   - 多数 MXene 为中心对称结构，本征禁止自发极化；3D 铁电薄膜在减薄时存在"死层+[[../concepts/depolarization-field|退极化场]]+屏蔽场"使面外极化失稳，而 2D 范德华铁电（如 In₂Se₃）无死层，单层即可保持稳定极化，这是 MXene 铁电研究的物理动机。
@@ -182,5 +209,5 @@ project-2 Mn多铁（弱相关：综述系统讨论 Mn₂C/Mn₂CO₂ 等 Mn 基
   - Cr₂COOH 为铁磁半导体，两不等价 Cr 分别为 3d³(3 μ_B) 与 3d²(2 μ_B)，每单胞总磁矩 5 μ_B；Cr 替位掺杂 Zr₂CO₂ 的 Zr 位[[../concepts/formation-energy|形成能]]最低、具铁磁基态与[[../concepts/half-metallicity|半金属性]]，可用于室温自旋电子学。
   - 非磁 Ti₃C₂T_x 诱导铁磁的途径：Gd³⁺ 掺杂（300 K 仍有清晰 M-H 回线，Gd 自由电子与 Ti-3d 在费米能级的自旋密度交换耦合形成软磁复合）、Nb 掺杂、La 掺杂（铁磁-反铁磁共存）、L-抗坏血酸化学还原使铁磁转变温度由 50 K 升至 150 K；V₂C 纳米片扭转可破坏层间对称、重排费米能级附近[[../concepts/density-of-states|态密度]]而增强 Stoner 铁磁性。
   - [[../concepts/multiferroicity|多铁性]]：i-MXene (Ta_{2/3}Fe_{1/3})₂CO₂ 为 I 型多铁且磁电效应高；[[../entities/hf2vc2f2|Hf₂VC₂F₂ 单层]]为 II 型多铁（磁性直接源于铁电性、转变温度高）；Mo₂NCl₂ 因 Mo 离子电荷歧化诱导面外极化而具磁电性；Co₂CF₂ 天然同时具 FE/FM 与电控可逆磁性[[../concepts/skyrmion|斯格明子]]；Sc₂CO₂/Hf₂MnC₂O₂ 垂直异质结可实现非易失可切换半金属性。Rabia Tahir 等首次在室温 Ti₃C₂T_x 及[[../entities/Mo2Ti2C3Tx|双过渡金属]] Mo₂TiC₂T_x 薄膜中实验观察到多铁性。
-  - 器件：Cu/MXene/PZT [[../entities/ferroelectric-memristor|铁电[[../concepts/memristor|忆阻器]]]]较纯 PZT 显著降低 Cu 离子迁移势垒（PZT 中约 4.43 eV），实现低开关电压、高开关比、低能耗；Mo₂Ti₂C₃T_x/激光还原[[../entities/graphene|石墨烯]]三层忆阻器 R_off/R_on≈10²、耐久性达 10³ 次循环；BT/f-Ti₃C₂T_x 锂电负极在 10 A g⁻¹ 下容量 84 mAh g⁻¹（本征 Ti₃C₂T_x 的 5 倍），源于 BTO 极化内建电场富集 Li⁺；官能化 Ti₃C₂/PVDF 或 TENG 填料可同时调控铁电 β 相结晶度与摩擦电极性（-NH₂ 端为摩擦正、N 端为摩擦负，开路电压达 250 V）。
+  - 器件：Cu/MXene/PZT [[../entities/ferroelectric-memristor|铁电忆阻器]]较纯 PZT 显著降低 Cu 离子迁移势垒（PZT 中约 4.43 eV），实现低开关电压、高开关比、低能耗；Mo₂Ti₂C₃T_x/激光还原[[../entities/graphene|石墨烯]]三层忆阻器 R_off/R_on≈10²、耐久性达 10³ 次循环；BT/f-Ti₃C₂T_x 锂电负极在 10 A g⁻¹ 下容量 84 mAh g⁻¹（本征 Ti₃C₂T_x 的 5 倍），源于 BTO 极化内建电场富集 Li⁺；官能化 Ti₃C₂/PVDF 或 TENG 填料可同时调控铁电 β 相结晶度与摩擦电极性（-NH₂ 端为摩擦正、N 端为摩擦负，开路电压达 250 V）。
   - 批判性局限：多数"诱导"FE/FM 难以区分是 MXene 本体改性还是掺杂/复合次生相（如 Gd 团簇）；DFT 多用完美晶体/0K/均匀端基，与真实缺陷、混合端基、堆叠无序差距大；复合"协同增强"常未定量剥离导电网络、界面应变、[[../concepts/charge-transfer|电荷转移]]与轨道杂化各自贡献；综述所引多铁案例多为弱耦合 I 型，真正 II 型强[[../concepts/magnetoelectric-coupling|磁电耦合]]与器件级开关比/耐久性/保持时间的统一评价仍缺失。

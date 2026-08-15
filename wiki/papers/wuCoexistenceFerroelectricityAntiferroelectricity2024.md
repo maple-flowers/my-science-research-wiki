@@ -101,12 +101,34 @@ Yangliu Wu, Zhaozhuo Zeng, Haipeng Lu, Xiaocang Han, Chendi Yang, Nanshu Liu, Xi
 ## 💡 一句话
 在三层 NiI₂ 器件中通过直接的 P–E/I–E 电滞回线和 RMCD 显微术，首次在二维范德华极限下同时证实了面外铁电性与反铁电性的共存，并通过磁场调控铁电畴翻转动力学（磁控比 ~7%，翻转时间最大增加 ~20%），直接证明了磁电耦合。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/polarization-switching]]、[[../concepts/topological-defects]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/antiferroelectricity|反铁电性]]、[[../concepts/type-ii-multiferroicity]]、[[../concepts/knb-mechanism|KNB机制]]、[[../concepts/inverse-dzyaloshinskii-moriya|逆DM相互作用]]、[[../concepts/bimeron|双半子]]、[[../concepts/spin-flop|自旋翻转]]、[[../concepts/kai-model|KAI模型]]
-  - 实体 [[../entities/BiFeO3]]、[[../entities/h-BN]]、[[../entities/VASP]]、[[../concepts/domain-wall]]、[[../entities/NiI2|三碘化镍]]、[[../entities/graphene|石墨烯]]
-  - 图表 [[../figures/crystal-structures]]、[[../concepts/domain-wall]]、[[../figures/heterostructures-stacking|多铁与磁电异质结]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/topological-defects]]
+  - 概念 [[../concepts/spin-orbit-coupling]]
+  - 概念 [[../concepts/ferroelectricity|铁电性]]
+  - 概念 [[../concepts/antiferroelectricity|反铁电性]]
+  - 概念 [[../concepts/type-ii-multiferroicity]]
+  - 概念 [[../concepts/knb-mechanism|KNB机制]]
+  - 概念 [[../concepts/inverse-dzyaloshinskii-moriya|逆DM相互作用]]
+  - 概念 [[../concepts/bimeron|双半子]]
+  - 概念 [[../concepts/spin-flop|自旋翻转]]
+  - 概念 [[../concepts/kai-model|KAI模型]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/BiFeO3]]
+  - 实体 [[../entities/h-BN]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/NiI2|三碘化镍]]
+  - 实体 [[../entities/graphene|石墨烯]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/heterostructures-stacking|多铁与磁电异质结]]
   - 年度 [[../write/2020-2024]]
-  - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/wuCoexistenceFerroelectricityAntiferroelectricity2024]]
+
 ## 🆕 新概念/实体建议
   - [[../concepts/helical-magnetism]] / [[../concepts/non-collinear-magnetism|non-collinear-magnetism]]（螺旋自旋序/非共线磁性）：NiI₂ 中 q‖[210] 的螺旋磁态，是铁电极化来源。
   - 方法/平台 [[../concepts/magneto-optical-electric-joint-measurement|magneto-optical-electric-joint-measurement]]（MOEJSI，磁-光-电联合测量系统）：Witec Alpha 300R + 7T 超导磁体 + 10 K 低温台 + 铁电测试仪，空间分辨率 ~590 nm。

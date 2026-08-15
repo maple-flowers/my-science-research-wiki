@@ -82,24 +82,24 @@ Sugata Chowdhury、Heather M. Hill、Albert F. Rigosi、Patrick M. Vora、Angela
   - 概念 [[../concepts/spin-orbit-coupling]]
   - 概念 [[../concepts/strain-engineering]]
   - 概念 [[../concepts/moire-superlattice]]（展望中提到转角/异质结对 CDW 的调控）
+  - 概念 [[../concepts/electron-phonon-coupling]]
+  - 概念 [[../concepts/amplitudon-phason]]
+  - 概念 [[../concepts/commensurate-incommensurate-cdw]]
+  - 概念 [[../concepts/electronic-temperature-smearing]]
+  - 概念 [[../concepts/star-of-david-cluster]]
   - 实体 [[../entities/TMDs]]
   - 实体 [[../entities/VASP]]
   - 实体 [[../entities/TaS2]]
   - 实体 [[../entities/TaSe2]]
+  - 实体 [[../entities/Quantum-ESPRESSO]]
+  - 实体 [[../entities/SIESTA]]
+  - 实体 [[../entities/Elk]]
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/vibrational-spectra]]
   - 图表 [[../figures/heterostructures-stacking]]
   - 年度 [[../write/2020-2024|2022]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/chowdhuryReviewTheoreticalComputational]]
-  - 概念 [[../concepts/electron-phonon-coupling]]
-  - 实体 [[../entities/Quantum-ESPRESSO]]
-  - 实体 [[../entities/SIESTA]]
-  - 实体 [[../entities/ELK]]
-  - 概念 [[../concepts/amplitudon-phason]]
-  - 概念 [[../concepts/commensurate-incommensurate-cdw]]
-  - 概念 [[../concepts/electronic-temperature-smearing]]
-  - 概念 [[../concepts/star-of-david-cluster]]
 
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体，每个给 kebab-case 建议文件名 + 一句说明
@@ -113,7 +113,7 @@ wiki 中没有、但值得新建的概念或材料实体，每个给 kebab-case 
   - 实体 [[../entities/TaSe2|TaSe2]]：二硒化钽，2H/1T 两相随维度发生三角-条纹结构转变，是振幅模/相位模识别的样板体系。
   - 实体 [[../entities/Quantum-ESPRESSO|Quantum-ESPRESSO]]：文中主要使用的平面波 DFT 软件包，配合 LDA-PW 与模守恒赝势。
   - 实体 [[../entities/SIESTA|SIESTA]]：用于 1T-TaS₂ C-CDW 相电子结构与电荷转移计算的原子轨道基组 DFT 代码。
-  - 实体 [[../entities/ELK|ELK]]：用于 1T-TaSe₂ 瞬态三维结构计算的全势线性缀加平面波（FP-LAPW）代码。
+  - 实体 [[../entities/Elk|ELK]]：用于 1T-TaSe₂ 瞬态三维结构计算的全势线性缀加平面波（FP-LAPW）代码。
   - 概念 [[../concepts/star-of-david-cluster|star-of-david-cluster]]：1T-TaS₂/1T-TaSe₂ C-CDW 相中 13 个 Ta 原子构成的特征团簇，可作为独立实体或并入 TaS₂/TaSe₂ 条目。
 
 ## 📊 关键图表
@@ -180,7 +180,6 @@ wiki 中没有、但值得新建的概念或材料实体，每个给 kebab-case 
   - 限域与维度效应 confinement and dimensionality
 
 ## ✏️ 可写入 Wiki 的要点
-5-10 条 bullet，是可直接用于第二步充实 wiki 条目的具体事实、机制、数据、公式、结论
   - **DFT 三大挑战与对策**：标准 DFT 在 0 K、周期性边界、参数敏感三点上与 CDW 不匹配；解决方案分别为以 Fermi–Dirac 展宽 σ 改变电子温度模拟热效应、沿 c 轴施加 −0.3% 压缩应变在 3×3×1 超胞内近似非公度性、并以基准测试选择泛函/赝势。
   - **泛函基准（表2）**：对 TaSe₂ 原胞拉曼频率，LDA(PW)+[[../concepts/norm-conserving-pseudopotential|模守恒赝势]]平均误差最小（3.2 cm⁻¹），优于 GGA(PBE-PAW)（10.5 cm⁻¹）、GGA(PW)（11.2 cm⁻¹）；GGA 虽更准地给晶格常数，但拉曼频率反而是 LDA 更优——误差互补。
   - **电子温度方法的定量验证**：TaSe₂ 晶格常数 a 的最大相对热胀变化实验为 1.5%、DFT 为 1.1%；c 实验 4.1%、DFT 2.3%，表明以电子温度代真实温度在定性与近定量层面成立。

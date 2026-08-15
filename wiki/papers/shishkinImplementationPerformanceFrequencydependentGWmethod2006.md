@@ -63,12 +63,12 @@ M. Shishkin, G. Kresse，2006，Physical Review B 74, 035101，DOI: 10.1103/Phys
   - 概念 [[../concepts/density-functional-theory]]
   - 实体 [[../entities/VASP]]
   - 实体 [[../entities/GaAs]]
-  - 图表 [[../figures/electronic-bands]]
-  - 年度 [[../write/2005-2009|2006]]
-  - 相关论文 [[../../raw/note/shishkinImplementationPerformanceFrequencydependentGWmethod2006]]
   - 实体 [[../entities/Si]]
   - 实体 [[../entities/cadmium-sulfide]]
   - 实体 [[../entities/troullier-martins-pseudopotential]]
+  - 图表 [[../figures/electronic-bands]]
+  - 年度 [[../write/2005-2009|2006]]
+  - 相关论文 [[../../raw/note/shishkinImplementationPerformanceFrequencydependentGWmethod2006]]
 
 ## 🆕 新概念/实体建议
   - [[../concepts/gw-approximation|gw-approximation]]（GW近似）：基于Green函数G与动态屏蔽库仑相互作用W的多体微扰方法，用于精确计算准粒子能量与激发谱；本文是VASP中GW模块的奠基性实现论文。

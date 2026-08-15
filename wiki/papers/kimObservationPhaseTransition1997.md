@@ -11,8 +11,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/kimObservationPhaseTransition1997]]
 projects: [project-7]
-concepts: [charge-density-wave, 2d-materials, polytypism, tip-induced-phase-transition, coherent-layer-sliding, phase-boundary, sliding-ferroelectricity, topological-defects, stm-topography]
-entities: [TMDs, 1T-TaS2, 2H-TaS2, 2H-TaSe2, Pt-Ir-tip]
+concepts: [charge-density-wave, 2d-materials, polytypism, tip-induced-phase-transition, coherent-layer-sliding, phase-boundary, sliding-ferroelectricity, topological-defects]
+entities: [1T-TaS2, 2H-TaS2, 2H-TaSe2, Pt-Ir-tip, stm-topography, TMDs]
 methods: [uhv-stm, constant-current-stm, stm-voltage-pulse, stm-topography, iodine-vapor-transport]
 materials: [1T-TaS2, 2H-TaS2]
 figures: [crystal-structures-bulk]
@@ -77,13 +77,25 @@ Ju-Jin Kim, Chan Park, W. Yamaguchi, O. Shiino, K. Kitazawa, T. Hasegawa，1997�
 室温下用 STM 针尖施加 −10 V 短脉冲，在 1T-TaS₂ 表面诱导出 T→H 的晶-晶相变，并通过相界处原子行的分数倍错位证明其机制是表层 S 原子层沿 [112̄0] 方向整体相干滑移 (√3/3)a₀。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2d-materials]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/topological-defects]]、[[../concepts/polytypism]]、[[../concepts/tip-induced-phase-transition]]、[[../concepts/coherent-layer-sliding]]、[[../concepts/stm-topography]]
-  - 实体 [[../entities/TMDs]]、[[../entities/1T-TaS2]]、[[../entities/2H-TaSe2]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - 年度 [[../write/1945-1999|1997]]
-  - 项目 [[../projects/project-7-cdw-charge-density-wave]]、[[../projects/project-5-snte-ferroelectric-sim]]
+  - 概念 [[../concepts/charge-density-wave]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/sliding-ferroelectricity]]
+  - 概念 [[../concepts/topological-defects]]
+  - 概念 [[../concepts/polytypism]]
+  - 概念 [[../concepts/tip-induced-phase-transition]]
+  - 概念 [[../concepts/coherent-layer-sliding]]
   - 概念 [[../concepts/phase-boundary]]
-  - 实体 [[../entities/2H-TaS2]]、[[../entities/Pt-Ir-tip]]
+  - 实体 [[../entities/stm-topography]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/1T-TaS2]]
+  - 实体 [[../entities/2H-TaSe2]]
+  - 实体 [[../entities/2H-TaS2]]
+  - 实体 [[../entities/Pt-Ir-tip]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 年度 [[../write/1945-1999|1997]]
+  - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/kimObservationPhaseTransition1997]]
 
 ## 📊 关键图表

@@ -91,6 +91,7 @@ Dae Ho Kim, Ho Nyung Lee, Michael D. Biegalski, Hans M. Christen，2008，Applie
   - 概念 [[../concepts/geometric-projection|几何投影效应]]
   - 概念 [[../concepts/kay-dunn-scaling|Kay-Dunn 标度律]]
   - 概念 [[../concepts/lone-pair-electrons|孤对电子]]
+  - 概念 [[../concepts/ferroelectric-hysteresis]]
   - 实体 [[../entities/BiFeO3]]
   - 实体 [[../entities/BaTiO3|钛酸钡]]
   - 实体 [[../entities/PZT|锆钛酸铅]]
@@ -100,8 +101,8 @@ Dae Ho Kim, Ho Nyung Lee, Michael D. Biegalski, Hans M. Christen，2008，Applie
   - 年度 [[../write/2005-2009|2008]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
-  - 概念 [[../concepts/ferroelectric-hysteresis]]
   - 相关论文 [[../../raw/note/Kim2008effect]]
+
 ## 📊 关键图表
 笔记未附图片（raw/figures/Kim2008effect 下仅 manifest.json，无图像文件），以下按原文图号给出文字描述。
 
@@ -149,4 +150,4 @@ Dae Ho Kim, Ho Nyung Lee, Michael D. Biegalski, Hans M. Christen，2008，Applie
   7. SQUID 室温磁化曲线扣除 SrTiO₃ 抗磁背景后，BiFeO₃ 薄膜磁化极小且无特征，确认反铁磁序，排除 Bi 挥发导致的 γ-Fe₂O₃ 等铁磁杂质。
   8. 铁电回线在 77.3 K、2 kHz 下测量（室温因漏电无法测量），方形饱和回线，Pr 对频率弱依赖且随最大电场饱和，证实数据为本征极化。
   9. 实验 Pr 对应变的依赖性弱于第一性原理计算预测（应变膜 63.4 vs 弛豫膜 57.0 μC/cm²），作者认为缺陷、对称性变化等计算未计入因素进一步弱化了应变效应。
-  10. 机制对比：BaTiO₃ 的 Ti 3d–O 2p 位移型铁电对应变[[../concepts/strong-coupling|强耦合]]；BiFeO₃ 的 Bi 6s² [[../concepts/lone-pair-ferroelectricity|孤对电子[[../concepts/driven-ferroelectricity|驱动[[../concepts/ferroelectricity|铁电性]]]]]]由局域化学键合决定，对全晶格尺度应变不敏感，这是其高极化鲁棒性的根源。
+  10. 机制对比：BaTiO₃ 的 Ti 3d–O 2p 位移型铁电对应变[[../concepts/strong-coupling|强耦合]]；BiFeO₃ 的 Bi 6s² [[../concepts/lone-pair-ferroelectricity|孤对电子驱动铁电性]]由局域化学键合决定，对全晶格尺度应变不敏感，这是其高极化鲁棒性的根源。

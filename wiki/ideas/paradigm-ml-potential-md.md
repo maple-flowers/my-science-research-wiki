@@ -1,15 +1,18 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_0b5a5178989d11f19467525400287e28
-    ReservedCode1: guwLmf8N/wrEUTkpIHMWSyC8khXos9eeO0JgcqROQiZLb6AN9lPojO8lWTrNRQUU7NleBukSz98bkByoGVpY5OU5kkcNmQ5kwIcBdPUOcukk2KNoVo/wdNtWmE0VcWvU05tVTWje5Pi4bNj6oCMwLzonnD5vsl5AMEnd+BQNeX+y3/2CJXZ9CVDTOMI=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_0b5a5178989d11f19467525400287e28
-    ReservedCode2: guwLmf8N/wrEUTkpIHMWSyC8khXos9eeO0JgcqROQiZLb6AN9lPojO8lWTrNRQUU7NleBukSz98bkByoGVpY5OU5kkcNmQ5kwIcBdPUOcukk2KNoVo/wdNtWmE0VcWvU05tVTWje5Pi4bNj6oCMwLzonnD5vsl5AMEnd+BQNeX+y3/2CJXZ9CVDTOMI=
+tags: [paradigm, machine-learning, molecular-dynamics, ferroelectric]
+title: 机器学习势与大规模分子动力学模拟 / Machine-Learning Potentials & Large-Scale MD
+type: paradigm
+status: active
+paradigm_id: P04
+domain: [computational-physics, machine-learning, lattice-dynamics]
+core_question: 如何用 DFT 数据训练出兼具第一性原理精度与经验势速度的势函数，从而模拟百万原子、纳秒级的动力学过程？
+method_pipeline: DFT 数据集构建→势函数训练与主动学习→精度验证→大规模 MD 模拟→动力学机制提取
+related_concepts: [machine-learning-potential, molecular-dynamics, sliding-ferroelectricity, ferroelectricity, topological-insulator]
+related_entities: [In2Se3]
+related_topics: [Z01-computational-materials-design, D02-multiferroic-materials]
+papers: [heUltrafastSwitchingDynamics2024, xuTunableFerroelectricTopological2022, yangRipplingFerroicPhase2021, heSwitchingTwodimensionalSliding2025]
+updated: 2026-08
 ---
-
-
 
 # 机器学习势与大规模分子动力学模拟 / Machine-Learning Potentials & Large-Scale MD
 
@@ -74,10 +77,9 @@ DFT 算得准但太慢，只能算几百个原子；分子动力学想模拟大�
 - [[../concepts/ferroelectricity|铁电性]]
 - [[../concepts/topological-insulator|拓扑绝缘体]]
 - [[../entities/In2Se3|In₂Se₃]]
-- [[../topics/材料模拟计算设计|材料模拟计算设计]]
-- [[../topics/多铁性材料|多铁性材料]]
+- [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
+- [[../topics/D02-multiferroic-materials|多铁性材料]]
 
 ## 📈 生命周期日志
 
 - **2026-08-15**: active — 提炼自 5 篇机器学习势 + 大规模分子动力学类论文。
-*（内容由AI生成，仅供参考）*

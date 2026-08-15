@@ -84,13 +84,29 @@ Wei Xun, Chao Wu, Hanbo Sun, Weixi Zhang, Yin-Zhong Wu, Ping Li，2024，Nano Le
 ## 💡 一句话
 通过第一性原理计算提出在双层 GdI₂ 中利用层间滑移（滑移铁电性）同时实现并可逆耦合铁磁性、铁电性与铁谷性的"滑移多铁"机制，并以轨道分辨的超超交换模型揭示了堆垛依赖磁相变的微观根源。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/berry-phase]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/2d-materials]]、[[../concepts/ferroelasticity]]、[[../concepts/d-orbital-hopping]]、[[../concepts/ferrovalley]]、[[../concepts/stacking-engineering]]、[[../concepts/supersuperexchange]]、[[../concepts/valley-polarization]]
-  - 实体 [[../entities/VASP]]、[[../entities/TMDs]]、[[../entities/h-BN]]
-  - 图表 [[../figures/electronic-bands]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking|多铁与磁电异质结]]、[[../figures/mathematical-models]]
-  - 年度 [[../write/2020-2024|2024]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/sliding-ferroelectricity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/berry-phase]]
+  - 概念 [[../concepts/spin-orbit-coupling]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/ferroelasticity]]
+  - 概念 [[../concepts/d-orbital-hopping]]
+  - 概念 [[../concepts/ferrovalley]]
+  - 概念 [[../concepts/stacking-engineering]]
+  - 概念 [[../concepts/supersuperexchange]]
+  - 概念 [[../concepts/valley-polarization]]
   - 概念 [[../concepts/magnetic-phase-transition]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/h-BN]]
   - 实体 [[../entities/GdI2]]
+  - 图表 [[../figures/electronic-bands]]
+  - 图表 [[../figures/heterostructures-stacking|多铁与磁电异质结]]
+  - 图表 [[../figures/mathematical-models]]
+  - 年度 [[../write/2020-2024|2024]]
   - 相关论文 [[../../raw/note/xunCoexistingMagnetismFerroelectric2024]]
+
 ## 🆕 新概念/实体建议
   - [[../entities/GdI2|GdI2]]（碘化钆）：新型二维铁磁半导体/多铁候选材料，4f⁷5d¹ 构型，大谷极化（155.5 meV）。
 ## 📊 关键图表

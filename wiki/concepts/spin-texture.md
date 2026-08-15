@@ -9,7 +9,7 @@ papers: [chenStrongSlidingFerroelectricity2024, wuSlidingFerroelectricity2D2021a
 
 自旋纹理是指在晶体的倒易空间（$k$-space）中，电子态的自旋期望值 $\langle \mathbf{s}_k \rangle$ 随波矢 $\mathbf{k}$ 变化的矢量场分布。它是自旋-轨道耦合（SOC）与晶体对称性共同作用的结果，是自旋电子学（Spintronics）和拓扑量子材料研究的核心物理量。
 
-## Grandma 👵 太奶导读
+## 👵 太奶导读
 
 太奶，这“自旋纹理”就像是一张标着风向的**航海图**。
 电子在材料里跑（这就是动量），它们身上都带个指南针（这就是自旋）。

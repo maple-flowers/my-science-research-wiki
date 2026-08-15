@@ -13,7 +13,7 @@ year_read: 2026
 original_note:: [[../../raw/note/cheongMultiferroicsMagneticTwist2007a]]
 projects: [project-2, project-7]
 concepts: [berry-phase, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, domain-wall]
-entities: [BiFeO3, HoMnO3]
+entities: [BiFeO3, HoMnO3, TbMnO3]
 methods: [afm-pfm, berry-phase, dft]
 materials: [BiFeO3, HoMnO3, domain-wall]
 figures: [crystal-structures-xrd-phases, domain-walls-switching-properties, heterostructures-stacking]
@@ -88,18 +88,19 @@ Sang-Wook Cheong & Maxim Mostovoy，2007，*Nature Materials* 6(1), 13–20，DO
   - 概念 [[../concepts/exchange-striction|交换伸缩]]
   - 概念 [[../concepts/electromagnon|电磁振子]]
   - 概念 [[../concepts/toroidal-moment|环矩]]
-  - 概念 [[../concepts/TbMnO3|TbMnO₃（铽锰氧）]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/TbMnO3|TbMnO₃（铽锰氧）]]
   - 实体 [[../entities/BiFeO3]]
   - 实体 [[../entities/HoMnO3]]
-  - 实体 [[../concepts/domain-wall]]
   - 实体 [[../entities/CoCr2O4|CoCr₂O₄（尖晶石锥形磁体）]]
   - 实体 [[../entities/LuFe2O4|LuFe₂O₄（电子铁电体）]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/heterostructures-stacking|多铁与磁电异质结 (Multiferroic & Magnetoelectric Heterostructures)]]
   - 年度 [[../write/2005-2009]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
-  - 主题 [[多铁性材料]]
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
   - 相关论文 [[../../raw/note/cheongMultiferroicsMagneticTwist2007a]]
+
 ## 🆕 新概念/实体建议
   - [[../entities/RMn2O5|RMn2O5]]（实体）：第二类多铁性的原型材料家族，应建实体条目。
 

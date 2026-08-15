@@ -104,7 +104,7 @@ Ting Hu、Erjun Kan（阚二军，南京理工大学应用物理系）et al.，2
 
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/ferroelasticity]]
   - 概念 [[../concepts/magnetoelectric-coupling]]
   - 概念 [[../concepts/strain-engineering]]
@@ -125,7 +125,7 @@ Ting Hu、Erjun Kan（阚二军，南京理工大学应用物理系）et al.，2
   - 概念 [[../concepts/group-v-elemental-ferroelectrics|V族单质铁电体]]（As/Sb/Bi单层）
   - 概念 [[../concepts/bulk-photovoltaic-effect|体光伏效应]]（IV族单硫族化物、AgBiP₂Se₆）
   - 概念 [[../concepts/transition-metal-thiophosphate|过渡金属硫代磷酸盐]]（CIPS、AgBiP₂Se₆家族）
-  - 概念 [[../entities/hf2vc2f2|Hf₂VC₂F₂多铁MXene]]（120° Y型自旋序诱导面外极化）
+  - 概念 [[../concepts/domain-wall]]
   - 实体 [[../entities/TMDs]]（1T-MoS₂、MoS₂-SAM）
   - 实体 [[../entities/h-BN]]
   - 实体 [[../entities/In2Se3]]（α/β'-In₂Se₃）
@@ -135,7 +135,6 @@ Ting Hu、Erjun Kan（阚二军，南京理工大学应用物理系）et al.，2
   - 实体 [[../entities/BiFeO3]]（1-UC 四方相 FTJ，TER ~370%）
   - 实体 [[../entities/MXenes]]（Sc₂CO₂、Hf₂VC₂F₂）
   - 实体 [[../entities/SrMnO3]]（应变诱导多铁）
-  - 实体 [[../concepts/domain-wall]]
   - 实体 [[../entities/VASP]]
   - 实体 [[../entities/group-iv-monochalcogenides|IV族单硫族化物]]（GeS/GeSe/SnS/SnSe褶皱单层）
   - 实体 [[../entities/crbr3|CrBr₃]]（带电CrBr₃单层JT畸变FE+FM）
@@ -145,11 +144,11 @@ Ting Hu、Erjun Kan（阚二军，南京理工大学应用物理系）et al.，2
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/heterostructures-stacking|极性金属、拓扑相、CDW与相变]]
   - 图表 [[../figures/electronic-devices]]
-  - 图表 [[../concepts/domain-wall]]
+  - 图表 [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
   - 年度 [[../write/2015-2019]]
-  - 主题 [[多铁性材料]]
   - 项目 [[../projects/project-2-mn-multiferroics]]（SrMnO₃ 应变多铁及 Mn 基多铁综述脉络）
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]（1-UC SnTe 铁电增强、Tc 提升机理）
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
   - 相关论文 [[../../raw/note/huProgressProspectsLowdimensional2019]]
 
 ## 🆕 新概念/实体建议
@@ -225,7 +224,7 @@ Ting Hu、Erjun Kan（阚二军，南京理工大学应用物理系）et al.，2
 ## ✏️ 可写入 Wiki 的要点
   1. 1T-MoS₂ 单层中不稳定的 K₃ 光学模驱动 Mo 原子[[../concepts/trimerization|三聚化]]，使中心对称 c[[../concepts/1t-phase|1T 相]]转变为低对称 d1T 相并打开带隙；K₃ 模与极性模的非线性耦合产生约 0.28 μC/cm² 的可翻转面外极化，是"金属-半导体转变伴随铁电序"的早期理论范例（Shirodkar & Waghmare, PRL 2014）。
   2. IV 族单硫族化物 MX（M=Ge,Sn；X=S,Se）因离子势非谐性产生巨大面内自发极化 151–506 pC/m，[[../concepts/curie-temperature|居里温度]] 326–6400 K（均高于室温），同时具有室温热力学稳定的自发铁弹应变；FE-FA [[../concepts/strong-coupling|强耦合]]使得施加共轭外场即可同时切换极化、应变以及[[../concepts/migdal-eliashberg-theory|各向异性]]电/热/光/力学性质。
-  3. 实验上 Chang 等用 MBE 制备的 1-UC SnTe 薄膜即呈现稳定面内自发极化，Tc 由块体 98 K 跃升至 270 K，2–4 UC 薄膜在室温仍保持鲁棒铁电；增强归因于 Sn [[../concepts/vacancy-formation-energy|空位[[../concepts/formation-energy|形成能]]]]升高导致缺陷/自由载流子密度下降、量子限域增大带隙、以及面内晶格膨胀稳定 FE 畸变。Liu 等进一步指出自由站立无缺陷 SnTe 薄膜中 FE [[../concepts/switching-barrier|翻转势垒]]与 Tc 在 <5 UC 随厚度增加而上升、>5 UC 后下降，源于偏好 FE 的杂化作用与偏好中心对称的 Pauli 排斥之间的竞争。
+  3. 实验上 Chang 等用 MBE 制备的 1-UC SnTe 薄膜即呈现稳定面内自发极化，Tc 由块体 98 K 跃升至 270 K，2–4 UC 薄膜在室温仍保持鲁棒铁电；增强归因于 Sn [[../concepts/vacancy-formation-energy|空位形成能]]升高导致缺陷/自由载流子密度下降、量子限域增大带隙、以及面内晶格膨胀稳定 FE 畸变。Liu 等进一步指出自由站立无缺陷 SnTe 薄膜中 FE [[../concepts/switching-barrier|翻转势垒]]与 Tc 在 <5 UC 随厚度增加而上升、>5 UC 后下降，源于偏好 FE 的杂化作用与偏好中心对称的 Pauli 排斥之间的竞争。
   4. α-In₂Se₃ 单层同时具备面内与面外铁电且两者本征互相关联，翻转由中间 Se 原子层的横向移动驱动；1L–6L 薄片表现出明显奇偶效应（IP/OP 极化均偏好反平行堆垛）；β'-In₂Se₃ [[../concepts/polymorphism|多晶型]]的面内 Tc 可达 200 °C。In₂Se₃/[[../entities/graphene|石墨烯]]异质结可通过翻转偶极调控[[../concepts/schottky-barrier|肖特基势垒]]。
   5. Fei 等在 2–3 层拓扑[[../concepts/half-metallicity]] WTe₂ 中实验观测到自发面外极化与室温[[../concepts/polarization-switching|极化翻转]]（极化消失温度 >350 K），夹在石墨烯之间仍保持翻转能力——这是首次在原子级薄金属中实现铁电翻转，颠覆"铁电体必须是绝缘体"的传统认知，机制在于足够薄时垂直电场可穿透金属屏蔽。
   6. TMTP 家族中单层 AgBiP₂Se₆ 的面外极化源于 Ag⁺ 与 Bi³⁺ 沿相反方向的偏心位移，形成[[../concepts/ferrielectricity|亚铁电]]序（P=1.2 pC/m，翻转势垒 6.2 meV，Tc 高于室温）；这种补偿型亚铁电序产生低[[../concepts/depolarization-field|退极化场]]，利于面外铁电在超薄极限稳定，并因其强可见光吸收与合适带边被提议作可见光解水光催化剂。CuInP₂Se₆ 单层中开路（D=0）为反铁电、闭路（E=0）以铁电为基态，凸显垂直边界条件对超薄极化序的决定作用。

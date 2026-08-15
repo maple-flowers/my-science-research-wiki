@@ -66,17 +66,17 @@ Chuan Chen, Lei Su, A. H. Castro Neto, Vitor M. Pereira et al.，2019，Physical
 ## 🔗 Wiki 双链
 本文涉及且 wiki 中已存在的条目：
   - 概念 [[../concepts/charge-density-wave]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/domain-wall]]
   - 实体 [[../entities/TMDs]]
-  - 实体 [[../concepts/domain-wall]]
-  - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/2015-2019]]
-  - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 相关论文 [[../../raw/note/Chen2019superconductivity]]
   - 实体 [[../entities/TiSe2]]
   - 实体 [[../entities/2H-TaSe2]]
   - 实体 [[../entities/1T-TaS2]]
   - 实体 [[../entities/2H-NbSe2]]
+  - 图表 [[../figures/mathematical-models]]
+  - 年度 [[../write/2015-2019]]
+  - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 相关论文 [[../../raw/note/Chen2019superconductivity]]
 
 ## 🆕 新概念/实体建议
   - [[../concepts/discommensuration|discommensuration]]（错位相子/失配畴壁）：C-CDW 中相位跳变 2πν 的局域孤子状畴壁，是本文核心物理对象，值得单独立概念条目。

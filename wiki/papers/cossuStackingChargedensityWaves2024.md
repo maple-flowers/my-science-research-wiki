@@ -90,12 +90,12 @@ F. Cossu, D. Nafday, K. Palotás, M. Biderang, H.-S. Kim, A. Akbari, I. Di Marco
   - 实体 [[../entities/1T-TaS2|1T-TaS₂]]
   - 图表 [[../figures/crystal-structures|晶体结构]]
   - 图表 [[../figures/electronic-bands|电子能带]]
-  - 图表 [[../figures/heterostructures-stacking|异质结与层间堆积]]
   - 图表 [[../figures/heterostructures-stacking|莫尔超晶格、扭转角与层间堆积]]
   - 图表 [[../figures/vibrational-spectra|振动光谱]]（展望声子/拉曼）
   - 年度 [[../write/2020-2024|2024]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/cossuStackingChargedensityWaves2024]]
+
 ## 🆕 新概念/实体建议
 
 ## 📊 关键图表

@@ -85,7 +85,6 @@ Osolobri B.U., Ojoba C.K., Ikhioya I.L.，2026，Journal of Interdisciplinary Po
 ## 💡 一句话
 用电化学沉积法在 FTO 上以 10–13 V 四种电压制备 SnTe 薄膜，发现 11 V 样品具有最窄光学带隙(1.41 eV)和最高光学电导率(2.64×10⁻³ S/cm)，是最有前景的光伏吸收层候选。
 ## 🔗 Wiki 双链
-  - 实体 [[../entities/SnTe]]、[[../entities/FTO|FTO(氟掺杂氧化锡)]]
   - 概念 [[../concepts/topological-defects]]（拓扑晶体绝缘体相关）
   - 概念 [[../concepts/spin-orbit-coupling]]（拓扑绝缘体物理背景）
   - 概念 [[../concepts/topological-crystalline-insulator|拓扑晶体绝缘体]]
@@ -94,12 +93,15 @@ Osolobri B.U., Ojoba C.K., Ikhioya I.L.，2026，Journal of Interdisciplinary Po
   - 概念 [[../concepts/tauc-plot|Tauc图]]
   - 概念 [[../concepts/optical-conductivity|光学电导率]]
   - 概念 [[../concepts/shockley-queisser-limit|Shockley-Queisser极限]]
+  - 概念 [[../concepts/refractive-index]]
+  - 实体 [[../entities/SnTe]]
+  - 实体 [[../entities/FTO|FTO(氟掺杂氧化锡)]]
   - 图表 [[../figures/optical-spectra]]
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2025-2029|2026]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
-  - 概念 [[../concepts/refractive-index]]
   - 相关论文 [[../../raw/note/Blessing2026optical]]
+
 ## 📊 关键图表
   ![图1 不同电压下SnTe薄膜的吸收光谱](../../raw/figures/Blessing2026optical/fig_1_TE2JAVC3.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：横轴为波长 200–1000 nm，纵轴为吸光度 A (a.u.)，四条曲线分别对应 10 V、11 V、12 V、13 V 沉积的 SnTe 薄膜。所有样品均在紫外区出现峰值，随后随波长向可见-近红外延伸而逐渐下降。

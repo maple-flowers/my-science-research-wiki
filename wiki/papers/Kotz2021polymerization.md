@@ -76,12 +76,21 @@ Kotz, Quick, Risch, Martin, Hoose, Thiel, Helmer, Rapp et al.，2021，*Advanced
 把含二氧化硅纳米颗粒的光敏复合树脂用于双光子聚合直写，再经热脱脂和高温烧结，首次获得亚微米分辨率的透明熔融石英玻璃三维微结构。
 
 ## 🔗 Wiki 双链
-  - 项目 [[../projects/project-1-two-photon]]
+  - 概念 [[../concepts/transparent-ceramics]]
+  - 概念 [[../concepts/submicron-resolution]]
+  - 概念 [[../concepts/shrinkage]]
+  - 概念 [[../concepts/two-photon-polymerization|双光子聚合（2PP/TPP）]]
+  - 概念 [[../concepts/nanocomposite-resin|纳米复合树脂]]
+  - 概念 [[../concepts/photopolymerization|光聚合]]
+  - 概念 [[../concepts/debinding|脱脂（热脱脂）]]
+  - 概念 [[../concepts/sintering|烧结]]
+  - 概念 [[../concepts/fused-silica-glass|熔融石英玻璃]]
+  - 概念 [[../concepts/micro-optics|微光学]]
+  - 实体 [[../entities/Nanoscribe|Nanoscribe]]
+  - 实体 [[../entities/Glassomer|Glassomer]]
   - 年度 [[../write/2020-2024|2021]]
-  - 概念 [[../concepts/transparent-ceramics]]、[[../concepts/submicron-resolution]]、[[../concepts/shrinkage]]
+  - 项目 [[../projects/project-1-two-photon]]
   - 相关论文 [[../../raw/note/Kotz2021polymerization]]
-  - 概念：[[../concepts/two-photon-polymerization|双光子聚合（2PP/TPP）]]、[[../concepts/nanocomposite-resin|纳米复合树脂]]、[[../concepts/photopolymerization|光聚合]]、[[../concepts/debinding|脱脂（热脱脂）]]、[[../concepts/sintering|烧结]]、[[../concepts/fused-silica-glass|熔融石英玻璃]]、[[../concepts/micro-optics|微光学]]
-  - 实体：[[../entities/Nanoscribe|Nanoscribe]]、[[../entities/Glassomer|Glassomer]]
 
 ## 📊 关键图表
 笔记中未附图片（`raw/figures/Kotz2021polymerization/manifest.json` 的 `figures` 与 `formulas` 均为空，仅有元数据表格，未抽取论文正文图）。建议在第二步补充论文图：2PP 直写/脱脂/烧结工艺链示意、木堆光子结构 SEM、微透镜阵列、烧结前后尺寸收缩对比、可见光透明性照片。

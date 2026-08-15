@@ -13,7 +13,7 @@ year_read: 2026
 original_note:: [[../../raw/note/spaldinRenaissanceMagnetoelectricMultiferroics2005]]
 projects: [project-2]
 concepts: [ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, strain-engineering, domain-wall]
-entities: [BiFeO3, HoMnO3]
+entities: [BiFeO3, HoMnO3, TbMnO3]
 methods: []
 materials: [BiFeO3, HoMnO3, domain-wall]
 figures: []
@@ -76,14 +76,13 @@ Nicola A. Spaldin、Manfred Fiebig，2005，*Science* 309(5733), 391–392，DOI
   - 概念 [[../concepts/ferroelasticity]]
   - 概念 [[../concepts/strain-engineering]]
   - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/domain-wall]]
   - 实体 [[../entities/HoMnO3]]
   - 实体 [[../entities/BiFeO3]]
-  - 实体 [[../concepts/domain-wall]]
   - 图表 [[../figures/crystal-structures]]
-  - 图表 [[../concepts/domain-wall]]
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2005-2009]]
-  - 主题 [[多铁性材料]]
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
   - 相关论文 [[../../raw/note/spaldinRenaissanceMagnetoelectricMultiferroics2005]]
 
 ## 🆕 新概念/实体建议
@@ -91,7 +90,7 @@ Nicola A. Spaldin、Manfred Fiebig，2005，*Science* 309(5733), 391–392，DOI
   - [[../concepts/composite-multiferroics|composite-multiferroics]]（复合多铁性材料）：由铁电相（如 PZT）与铁磁相（如 Terfenol-D）通过界面弹性应变传递实现磁电耦合的两相体系，室温磁电系数远超单相。
   - [[../concepts/ferrotoroidicity|ferrotoroidicity]]（铁涡旋性）：以自发磁矩涡旋（toroidal moment）为序参量的第四类初级铁性，由 Schmid 提出，文中倡议将其纳入铁性体统一框架。
   - [[../concepts/ferroic-order|ferroic-order]]（铁性有序 / primary ferroics）：铁磁、铁电、铁弹、铁涡旋四类对称破缺序的统称，是相控制三角图的上位概念。
-  - [[../concepts/TbMnO3|TbMnO3]]（铽锰氧）：钙钛矿锰氧化物，Kimura 等 2003 年在其中观测到磁场诱导铁电相变，是自旋驱动/电荷有序铁电体的代表，值得建实体条目。
+  - [[../entities/TbMnO3|TbMnO3]]（铽锰氧）：钙钛矿锰氧化物，Kimura 等 2003 年在其中观测到磁场诱导铁电相变，是自旋驱动/电荷有序铁电体的代表，值得建实体条目。
   - [[../entities/PZT|PZT]]（锆钛酸铅 PbZr₁₋ₓTiₓO₃）：复合多铁体最常用的铁电/压电组分，可作为实体条目。
   - [[../entities/Terfenol-D|Terfenol-D]]（Tb₁₋ₓDyₓFe₂）：巨磁致伸缩合金，复合多铁体最常用的铁磁组分，可作为实体条目。
 
@@ -131,7 +130,7 @@ Nicola A. Spaldin、Manfred Fiebig，2005，*Science* 309(5733), 391–392，DOI
 ## ✏️ 可写入 Wiki 的要点
   1. **互斥性的电子结构根源**：传统钙钛矿铁电体（如 BaTiO₃、PbTiO₃）要求过渡金属 B 位离子具有空 d 轨道以接受 O 2p 电子形成共价偏心位移；[[../concepts/ferromagnetism|铁磁性]]则要求部分填充 d 轨道提供未成对自旋。同一离子无法同时满足，因此 Hill (2000, J. Phys. Chem. B 104, 6694) 指出二者在原子尺度互斥，这是单相铁磁铁电体稀少的根本原因。
   2. **[[../concepts/multiferroicity|多铁性]]与磁电效应的区分**：多铁性指同一相中两种或以上[[../concepts/ferroic-order|铁性序]]（铁磁、铁电、铁弹）共存；磁电效应特指电场诱导磁化或磁场诱导极化的交叉调控。多铁性是磁电效应的理想平台，但二者不等价——多铁体未必有强[[../concepts/magnetoelectric-coupling|磁电耦合]]，非多铁体也可有磁电响应。
-  3. **[[../concepts/geometric-ferroelectricity|几何[[../concepts/ferroelectricity|铁电性]]]]范式（HoMnO₃）**：六方 HoMnO₃ 的铁电性来自 Mn³⁺ 周围 MnO₅ 氧双锥相对 Ho³⁺ 的倾斜与位移（结构畸变），不依赖 Mn³⁺ 的 d 轨道空态，因此可与 Ho³⁺ 铁磁排列、Mn³⁺ 反铁磁有序共存，成为绕开互斥律的范本。
+  3. **[[../concepts/geometric-ferroelectricity|几何铁电性]]范式（HoMnO₃）**：六方 HoMnO₃ 的铁电性来自 Mn³⁺ 周围 MnO₅ 氧双锥相对 Ho³⁺ 的倾斜与位移（结构畸变），不依赖 Mn³⁺ 的 d 轨道空态，因此可与 Ho³⁺ 铁磁排列、Mn³⁺ 反铁磁有序共存，成为绕开互斥律的范本。
   4. **钙钛矿锰氧化物中的磁场致铁电相变**：Kimura 等 (Nature 426, 55, 2003) 在钙钛矿锰氧化物（TbMnO₃）中观测到磁场诱导的铁电相变；Lottermoser 等 (Nature 430, 541, 2004) 在六方锰酸盐中实现电场诱导铁磁性，并演示了磁电存储效应与磁/电畴互翻转。
   5. **畴耦合的光学观测**：Fiebig 组发展了可在同一装置中分别读取磁畴与电畴的光学技术，首次直接观测到磁畴与电畴的耦合运动，为微观磁电锁定提供了实验证据。
   6. **复合多铁体的应变介导机制**：PZT（铁电/压电）+ Terfenol-D（铁磁/磁致伸缩）两相复合中，电场经[[../concepts/inverse-piezoelectric-effect|逆压电效应]]在铁电相产生应变，应变经界面传递至铁磁相，通过逆磁致伸缩（压磁）效应改变磁化；界面耦合面积越大、[[../concepts/ferroelasticity|铁弹性]]越强，磁电效应越大。

@@ -1,11 +1,11 @@
 ---
 name: format-spec
-description: 七类条目的编写格式规范（图表库 / 概念与实体 / 论文条目 / 写作库 / 主题 / 项目 / 研究想法）——怎么写；踩坑经验不在此页
+description: 七类条目的编写格式规范（图表库 / 概念与实体 / 论文条目 / 写作库 / 主题 / 项目 / 研究想法）——怎么写；含批量维护中确立的操作规则（CJK 术语双链 / frontmatter 混合结构 / 去重合并模板）
 ---
 
 # 条目编写规范 (Format Specifications)
 
-> 本文件定义各层条目的编写格式规范（2026-08-12 自 [[SCHEMA]] 拆分归档）。规范总纲（目录约定 / 标签体系 / 链接规范 / 铁律）见 [[SCHEMA]]，批量维护的踩坑经验与时间记录见 [[log]]。研究想法层（`wiki/ideas/` 的 gap / idea / validation 三型卡片）的编写规范独立归档于 [[ideas/format-spec]]，不在本页重复。
+> 本文件定义各层条目的编写格式规范（2026-08-12 自 [[SCHEMA]] 拆分归档）。规范总纲（目录约定 / 标签体系 / 链接规范 / 铁律）见 [[SCHEMA]]；批量维护中确立的操作规则（CJK 术语双链、frontmatter 混合结构、去重合并模板）已就地并入本页对应小节，逐次变更历史见 git 提交记录。研究想法层（`wiki/ideas/` 的 gap / idea / validation / paradigm 四型卡片）的编写规范独立归档于 [[ideas/format-spec]]，不在本页重复。
 
 [[科研Wiki/index|← 返回 Wiki 总索引]]
 
@@ -130,6 +130,11 @@ python tools/final_verify.py
 - **concept（概念）**：抽象的现象、机制、效应、方法、模型、序参量——如 `soft-mode`、`type-i-multiferroics`、`solvatochromism`、`twisted-intramolecular-charge-transfer`、`deformation-potential`。
 - **entity（实体）**：具体可指认的材料、分子、代码/软件、仪器、器件——如 `VSe2`、`DCS`、`CuCrP2S6`、`WIEN2k`、`PFM`、`dicyanostilbene-1a`。
 - 边界模糊时（如某种效应以材料命名），以页面**主体内容**判定：讲机制/物理归 concept，讲具体体系/参数/样品归 entity。同名碰撞时按"具体 → entity、抽象 → concept"归一，并合并内容、改写全库反向链接。
+- **"方法"要再分一层**（2026-08-15 明确，此前 concepts 里混着大量表征技术）：
+  - **有专用设备/装置承载的技术 → `entities/`**：表征测量（`PFM`、`STM`、`ARPES`、`4d-stem`、`haadf-stem`、`kpfm`、`xmcd`、`x-ray-absorption-spectroscopy`、`muon-spin-rotation`、`cyclic-voltammetry`、`pump-probe`）、设备型沉积/生长（`ALD`、`PLD`、`molecular-beam-epitaxy`、`magnetron-sputtering`、`mbe-rheed`）、光学器件（`fabry-perot-interferometer`、`diffractive-optical-element`、`holographic-grating`）。
+  - **纯理论/算法方法 → `concepts/`**：`density-functional-theory`、`berry-phase`、`minimum-energy-path`、`monte-carlo` 等，它们是模型而非装置。
+  - **化学/机械制备工艺 → `concepts/`**：`sol-gel-method`、`hydrothermal-synthesis`、`sintering`、`sonochemical-exfoliation`、`selective-etching`、`soft-lithography`、`vls-growth` 等无专用表征仪器对应的工艺路线。
+  - 同一技术长名与缩写并存时（`piezoresponse-force-microscopy` / `PFM`、`scanning-tunneling-microscopy` / `STM`），**以 entities 下的通行缩写为规范页**，长名并入其 `## 🏷️ 专业名词别名`。
 
 ### 二、文件命名（slug）
 
@@ -275,11 +280,26 @@ updated: 2026-08                    # 最近整理年月 (YYYY-MM)
 - **概念页侧重"机制"**：定义、物理起源、与相邻概念的区别（如 I 型 vs II 型多铁）、判据/对称性、典型体系（以实体链指向）。
 - 内容增长后移除 `stub` 标签；Wiki 是动态的，随新论文加入持续丰富描述。
 
-### 六、去重与合并（详见维护经验第八节）
+### 六、去重与合并
 
 - 新建前先 Glob 两个目录确认 slug 是否已存在；不确定归属时 concept、entity 两个目录都查。
 - 跨论文代号不同的同一实体（P1/1a）按化学名归一；合并要同时改三处引用：正文 wikilink、论文 frontmatter 的 `entities: [..]`/`concepts: [..]`、正文 `## 🆕 新概念/实体建议` 里的 `entity/<slug>` 项。
-- 包含关系先判父子（`hall-effect` ⊃ `quantum-anomalous-hall-effect`）再决定合并，不要把合法父子关系误并。
+
+**三类重复的判据**：
+
+1. **concept / entity 同名碰撞**（同一 slug 在两个目录各有一份）：按第一节归属判据定规范家——具体材料/代码/仪器/器件归 `entities/`，抽象现象/机制归 `concepts/`。以内容更丰富的那一份为最终正文（若被判为 entity 的一方反而更简略，把 concept 正文搬进 entity），不是简单删一个。
+2. **拼写 / 单复数变体**：先按归一化 key（去连字符、去复数 s/es、NFKC）找机械重复（`bessel-beam(s)`、`pseudo-gap`/`pseudogap`、`skyrmion(s)`）；再按 H1 中文段（斜杠/括号前的部分）找语义重复（`flexoelectricity`/`flexoelectric-effect`、`charge-order`/`charge-ordering`、`ginzburg-landau`/`ginzburg-landau-theory`）。规范名取**单数、最常见、最贴切**的标准术语。
+3. **父子概念不是重复**：短 slug 是长 slug 的子串时多为合法父子关系，**不要合并**——`hall-effect` ⊃ `quantum-anomalous-hall-effect`、`charge-density-wave` ⊃ `spin-charge-density-wave`、`magnetic-anisotropy` ⊃ `perpendicular-magnetic-anisotropy`、`molecular-dynamics` ⊃ `ab-initio-molecular-dynamics`。只有当两份是**同一概念的不同命名**（同一 H1、同一机制）时才合并；同一概念的不同侧面（如 `soft-mode` 与 `soft-mode-phonon`）保留并互链。
+
+**合并操作五步**（不要手改，按序执行）：
+
+1. 读两份正文，抽取各自 `- [[../papers/<citekey>]]` 做**有序并集**。
+2. 以规范文件 frontmatter 为准，改正 H1，合并描述段。
+3. 重写 `## 📚 相关论文` 为并集，保留 `## 🔗 关联概念与实体` 等尾部小节。
+4. 删除别名文件。
+5. 全库正则改写反向链接：`(\[\[[^\]]*?concepts/)<old>(\||\]\])` → `\1<new>\2`（entities 同理）；最后 grep 已删 slug 确认 0 个 stale 链接。
+
+> 校验里残留的 broken links 若是「指向尚未创建的 stub」的前向链接，属历史遗留，与本次去重无关，不要误判为合并失败。
 
 ---
 
@@ -345,8 +365,17 @@ original_note:: [[../../raw/note/<citekey>]]
   ...
 ```
 
-- `original_note::` 后接 `[[../../raw/note/<citekey>]]`，**双冒号**且 wikilink **绝不加双引号**（详见下文维护经验一节）。
+- `original_note::` 后接 `[[../../raw/note/<citekey>]]`，**双冒号**且 wikilink **绝不加双引号**。写成单冒号 YAML `original_note: "[[...]]"` 会被当作普通字符串，Dataview 不再识别为链接。
 - 其余 `中文键名:: >-` 为块标量（block scalar），续行缩进两格，内容用中文凝练。这些是 Dataview 可查询字段，不要改成单冒号 YAML。
+
+**混合 frontmatter 的结构铁律**：
+
+- **`---` 之前不得有任何内容**：曾出现孤立的 `领域基础知识:: >- ...` 重复块挡在开头 `---` 之前，导致整页等于没有 frontmatter。批量脚本一律以 `t.startswith("---\n")` 起算，不满足即报错。
+- **十个中文 Dataview 字段**（`领域基础知识` / `研究背景` / `作者的问题意识` / `主要研究对象` / `主要研究方法` / `研究意义` / `研究结论` / `对领域的贡献` / `未来研究方向提及` / `未来研究方向思考`）必须全部存在于 frontmatter 内、**各恰好一次**、非空；闭合 `---` 之后的正文里**不得**残留同名字段（那是强制同步的游离残块）。
+- 字段块的匹配单位是「字段头 + 其后所有缩进续行」，正则 `^(领域基础知识|研究背景|…|未来研究方向思考)::.*(?:\n[ \t]+.*)*\n?`（`re.M`），用于计数、去重与整块删除；按出现顺序保留首次、从后往前删重复 span，避免位移。
+- **这十个字段的权威来源是 `raw/note/<citekey>.md`** 的 blockquote 标记（`> key:: value`；注意 `对领域的贡献` 在 raw 里是**单冒号**），逐字提取、不要 paraphrase。因为单冒号不被字段分隔正则截断，提取时容易把下一段整块粘到上一个字段值尾部（典型故障：`研究结论` 末尾粘进一整段 `对领域的贡献: …`），重建时先整体剔除旧字段块再在 `tags:` 前插入干净块。
+- 写文件用 `open(p, 'w', encoding='utf-8')`，**不要**传 `newline="\n"`（Windows 下会抛 `OSError: [Errno 22]`）。
+- **`[[ ]]` 平衡检查有一类合法假阳性**：`![alt](...)` 的 alt 里若含数学方括号（如 `Im[χ⁽³⁾]`）紧邻 `]`，会产生 `]]` 假象，属合法图片语法，不是断链。
 
 ### 三、正文固定章节（emoji H2，顺序固定）
 
@@ -355,16 +384,20 @@ frontmatter 之后，按以下顺序排列 H2 章节：
 1. **`## <citekey> — <中文标题>`**：首条 H2，citekey 破折号加中文译名，作为页面可见标题。
 2. **`## 📄 元数据`**：作者，年份，*期刊* 卷(期)、页码，DOI 用 `[doi](url)` 行内链接。
 3. **`## 💡 一句话`**：一段话讲清论文做了什么、核心发现/数值、关键机制。
-4. **`## 🔗 Wiki 双链`**：按「概念 / 实体 / 图表 / 年度 / 项目 / 相关论文」分行列出双链，是 frontmatter 列表字段的来源：
+4. **`## 🔗 Wiki 双链`**：按「概念 / 实体 / 图表 / 年度 / 项目 / 主题 / 相关论文」分行列出双链，**每行一条链接**，是 frontmatter 列表字段的来源：
    ```markdown
-     - 概念 [[../concepts/<slug>|<中文名>]]、...
+     - 概念 [[../concepts/<slug>|<中文名>]]
      - 实体 [[../entities/<slug>|<名称>]]
      - 图表 [[../figures/<slug>|<图名>]]
      - 年度 [[../write/<YYYY-YYYY>]]
      - 项目 [[../projects/project-1-two-photon|项目一：...]]
+     - 主题 [[../topics/<分类码>-<英文主题>|<中文主题名>]]
      - 相关论文 [[../../raw/note/<citekey>]]
    ```
-   相对路径从 `wiki/papers/` 出发：概念/实体/图表/年度/项目用 `../`，原始 note 用 `../../raw/note/`。
+   相对路径从 `wiki/papers/` 出发：概念/实体/图表/年度/项目/主题用 `../`，原始 note 用 `../../raw/note/`。
+   - **类别由链接目标目录决定**，不由书写者判断：`../concepts/` 必标「概念」、`../entities/` 必标「实体」、`../figures/` 必标「图表」，依此类推。
+   - 禁止 `- 概念：[[A]]、[[B]]` 顶行合并写法与二级缩进子列表；同一 target 只出现一条（有别名的优先）。
+   - 确实无可链条目时，用 `  - （……说明……）` 单独一行说明，不要留空类别。
 5. **`## 🆕 新概念/实体建议`**（可选）：记录读笔记时发现、wiki 尚未建页、值得新建的概念/实体。
 6. **`## 📊 关键图表`**：嵌入本论文图片，每张图下方用 `-> [[../figures/<slug>|<分类名>]]` 标注归属的图表页（即图表双链，必须保留）：
    ```markdown
@@ -374,7 +407,18 @@ frontmatter 之后，按以下顺序排列 H2 章节：
 7. **`## 🔬 项目连接`**：逐项目说明关联度（`**project-N 名称 — core/high/medium/low**：<理由>`）。明确无关联时写「无直接项目连接」并简述原因——此处结论决定 `projects` 字段是否留空。判定以**内容参考价值**为准，不看 Zotero 归属。
 8. **`## 🔗 项目双链`**：仅列出确实相关项目的 `[[../projects/project-N-...]]` 双链；与上一节结论一致。
 9. **`## 📝 组织与用词`**：分析论文论证结构、可复用的中英术语；术语尽量双链到对应 concept 页。
-10. **`## ✏️ 可写入 Wiki 的要点`**：编号列出可沉淀进 wiki 的机制、数据、公式、结论；其中概念/实体术语应按 CJK 双链规则（见维护经验）加双链。
+10. **`## ✏️ 可写入 Wiki 的要点`**：编号列出可沉淀进 wiki 的机制、数据、公式、结论；其中概念/实体术语应按下文「CJK 术语自动双链」规则加双链。
+
+### 三之一、CJK 术语自动双链
+
+对 `## ✏️ 可写入 Wiki 的要点` 等中文正文批量加概念/实体双链时，中文没有词边界、子串匹配极易误伤，须遵守四条规则：
+
+1. **最短长度 ≥ 3 个 CJK 字符**，并维护 STOP 停用集合：泛词（「铁电」「相变」「材料」…）与歧义修饰词（「面内」「面外」「纵向」「横向」「内建」…）一律不成链。
+2. **复合词边界判定**：匹配到某词后，若向左或向右再延伸一个 CJK 字能组成词典里更长的词，则**拒绝**这次匹配（避免「界面内建」里的「面内」被链走）；否则允许（「为挠曲电效应」里的「挠曲电效应」正确成链）。
+3. **保护段优先**：已有 wikilink、行内/块级数学 `$...$` 与 `$$...$$`、反引号代码、`![](...)` 图片、`http(s)://` URL 一律不参与替换。
+4. **幂等**：某小节内已含 `[[../concepts/` 或 `[[../entities/` 就整节跳过，避免反复运行叠加嵌套链接。
+
+> ⚠️ 违反规则 3/4 的典型后果是**嵌套双链**，如 `[[../concepts/moire-superlattice|莫尔[[../concepts/superlattice|超晶格]]]]`——Obsidian 无法解析，两条链接同时失效。批量加链后须 grep `\[\[[^][]*\[\[` 确认 0 处。
 
 ### 四、编写与双链铁律
 

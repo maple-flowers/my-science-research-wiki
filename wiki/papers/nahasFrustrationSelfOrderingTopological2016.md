@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/nahasFrustrationSelfOrderingTopological2016]]
 projects: [project-2, project-5]
-concepts: [topological-defects, geometric-frustration, chirality, vortex-antivortex, residual-entropy, ground-state-degeneracy, frustration-index, effective-hamiltonian, flux-closure-domain, antiferrotoroidic-order, toroidal-moment, depolarizing-field, ferroelectricity, domain-walls, BaSrTiO3]
+concepts: [topological-defects, geometric-frustration, chirality, vortex-antivortex, residual-entropy, ground-state-degeneracy, frustration-index, effective-hamiltonian, flux-closure-domain, antiferrotoroidic-order, toroidal-moment, depolarizing-field, ferroelectricity, domain-walls]
 entities: [BaTiO3, BaSrTiO3]
 methods: [effective-hamiltonian, monte-carlo, first-principles, dielectric-susceptibility, autocorrelation-analysis]
 materials: [BaTiO3, Ba0.15Sr0.85TiO3]
@@ -81,14 +81,29 @@ Y. Nahas, S. Prokhorenko, L. Bellaiche，2016，Physical Review Letters 116, 117
 ## 💡 一句话
 在 BTO 纳米线嵌入 BST 基质的铁电纳米复合材料中，纳米线手性的独立选择对基质施加不相容的几何边界条件，诱导出几何阻挫，基质以自组装、浮动的涡旋-反涡旋有序阵列来容纳阻挫，并在极低温下保留剩余构型熵。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/topological-defects|拓扑缺陷]]、[[../concepts/geometric-frustration|几何阻挫]]、[[../concepts/chirality|手性]]、[[../concepts/vortex-antivortex|涡旋-反涡旋]]、[[../concepts/residual-entropy|剩余熵]]、[[../concepts/ground-state-degeneracy|基态简并]]、[[../concepts/frustration-index|阻挫指数]]、[[../concepts/effective-hamiltonian|有效哈密顿量]]、[[../concepts/flux-closure-domain|磁通闭合畴]]、[[../concepts/antiferrotoroidic-order|反铁环形序]]、[[../concepts/toroidal-moment|环形矩]]、[[../concepts/depolarization-field]]、[[../concepts/ferroelectricity|铁电性]]、[[../entities/BaTiO3|钛酸钡]]、[[../concepts/BaSrTiO3|钛酸锶钡]]
-  - 实体 [[../entities/BaTiO3|钛酸钡]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]
-  - 年度 [[../write/2015-2019|2016]]
-  - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
+  - 概念 [[../concepts/topological-defects|拓扑缺陷]]
+  - 概念 [[../concepts/geometric-frustration|几何阻挫]]
+  - 概念 [[../concepts/chirality|手性]]
+  - 概念 [[../concepts/vortex-antivortex|涡旋-反涡旋]]
+  - 概念 [[../concepts/residual-entropy|剩余熵]]
+  - 概念 [[../concepts/ground-state-degeneracy|基态简并]]
+  - 概念 [[../concepts/frustration-index|阻挫指数]]
+  - 概念 [[../concepts/effective-hamiltonian|有效哈密顿量]]
+  - 概念 [[../concepts/flux-closure-domain|磁通闭合畴]]
+  - 概念 [[../concepts/antiferrotoroidic-order|反铁环形序]]
+  - 概念 [[../concepts/toroidal-moment|环形矩]]
+  - 概念 [[../concepts/depolarization-field]]
+  - 概念 [[../concepts/ferroelectricity|铁电性]]
   - 概念 [[../concepts/domain-wall]]
-  - 实体 [[../entities/BaSrTiO3]]
+  - 实体 [[../entities/BaSrTiO3|钛酸锶钡]]
+  - 实体 [[../entities/BaTiO3|钛酸钡]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/mathematical-models]]
+  - 年度 [[../write/2015-2019|2016]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/nahasFrustrationSelfOrderingTopological2016]]
+
 ## 📊 关键图表
   - ![周期性超胞示意：4根BTO纳米线嵌入BST基质](../../raw/figures/nahasFrustrationSelfOrderingTopological2016/fig_1_ERWWNUJX.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：模拟所用周期性超胞的三维示意，4 根截面为正方形的 BTO 纳米线以正方形阵列嵌入 Ba₀.₁₅Sr₀.₈₅TiO₃ 基质，轴向沿伪立方 [001]，x、y、z 三方向均施加周期性边界条件。

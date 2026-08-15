@@ -70,11 +70,11 @@ Lev P. Gor'kov，2012，Physical Review B 85, 165142，DOI: 10.1103/PhysRevB.85.
   - 概念 [[../concepts/charge-density-wave]]
   - 概念 [[../concepts/2d-materials]]
   - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/2H-TaSe2]]
+  - 实体 [[../entities/2H-NbSe2]]
   - 年度 [[../write/2010-2014|2012]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/gorkovStrongElectronlatticeCoupling2012]]
-  - 实体 [[../entities/2H-TaSe2]]
-  - 实体 [[../entities/2H-NbSe2]]
 
 ## 🆕 新概念/实体建议
   - [[../concepts/double-well-potential|double-well-potential]]（双势阱 / 双稳态势）：强 e-ph 耦合下单个离子有效势能 U_tot(u_i) 在 Λ²>1 时由单阱变为对称双阱，是伊辛映射的几何基础，也是位移型↔有序-无序相变判别的核心。

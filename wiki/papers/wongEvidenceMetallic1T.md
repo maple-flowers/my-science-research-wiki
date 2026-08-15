@@ -11,8 +11,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/wongEvidenceMetallic1T]]
 projects: [project-7]
-concepts: [2d-materials, charge-density-wave, spin-orbit-coupling, density-functional-theory, 1t-phase, 1t-prime-phase, fermi-surface-nesting, electron-phonon-coupling, substrate-effect, d1-electronic-configuration, octahedral-crystal-field, exchange-splitting, vdw-magnets, xmcd]
-entities: [VTe2, VASP, TMDs, HOPG, graphene]
+concepts: [2d-materials, charge-density-wave, spin-orbit-coupling, density-functional-theory, 1t-phase, 1t-prime-phase, fermi-surface-nesting, electron-phonon-coupling, substrate-effect, d1-electronic-configuration, octahedral-crystal-field, exchange-splitting, vdw-magnets]
+entities: [graphene, HOPG, TMDs, VASP, VTe2, xmcd]
 methods: [mbe, stm-sts, pes-xps, arpes, xas, xmcd, dft, paw-pbe, vdw-dft]
 materials: [VTe2]
 figures: []
@@ -86,15 +86,32 @@ Ping Kwan Johnny Wong, Wen Zhang, Jun Zhou, Fabio Bussolotti, Xinmao Yin, Lei Zh
 通过 MBE 生长 + STM/STS、PES、ARPES、XAS/XMCD 与 DFT 的联合证据链，首次确证单层 VTe₂ 为金属性 1T 相、V⁴⁺(3d¹) 构型、低温 (4×4) CDW 序，并用元素特异性 XMCD 排除了此前理论预测的本征铁磁性。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2d-materials]]、[[../concepts/charge-density-wave]]、[[../concepts/density-functional-theory]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/1t-phase|1T 相]]、[[../concepts/1t-prime-phase|1T′ 相]]、[[../concepts/d1-electronic-configuration|d¹ 电子构型]]、[[../concepts/electron-phonon-coupling|电子-声子耦合]]、[[../concepts/fermi-surface-nesting|费米面嵌套]]、[[../concepts/substrate-effect|衬底效应]]、[[../concepts/vdw-magnets|范德华磁体]]、[[../concepts/xmcd|XMCD]]
-  - 实体 [[../entities/TMDs]]、[[../entities/VASP]]、[[../entities/HOPG|HOPG]]、[[../entities/VTe2|VTe₂]]、[[../entities/graphene|石墨烯]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/charge-density-wave]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/spin-orbit-coupling]]
+  - 概念 [[../concepts/1t-phase|1T 相]]
+  - 概念 [[../concepts/1t-prime-phase|1T′ 相]]
+  - 概念 [[../concepts/d1-electronic-configuration|d¹ 电子构型]]
+  - 概念 [[../concepts/electron-phonon-coupling|电子-声子耦合]]
+  - 概念 [[../concepts/fermi-surface-nesting|费米面嵌套]]
+  - 概念 [[../concepts/substrate-effect|衬底效应]]
+  - 概念 [[../concepts/vdw-magnets|范德华磁体]]
+  - 概念 [[../concepts/exchange-splitting]]
+  - 概念 [[../concepts/octahedral-crystal-field]]
+  - 实体 [[../entities/xmcd|XMCD]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/HOPG|HOPG]]
+  - 实体 [[../entities/VTe2|VTe₂]]
+  - 实体 [[../entities/graphene|石墨烯]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/electronic-bands]]
   - 年度 [[../write/2015-2019|2019]]
-  - 概念 [[../concepts/exchange-splitting]]、[[../concepts/octahedral-crystal-field]]
   - 相关论文 [[../../raw/note/wongEvidenceMetallic1T]]
 
 ## 🆕 新概念/实体建议
-  - [[../concepts/xmcd|xmcd]]（概念/方法）：X 射线磁圆二色性，元素特异性磁性探针，测 V L₂,₃ 边左右圆偏振 XAS 之差；可排除衬底/杂质磁信号，是判定二维材料本征磁性的"金标准"。
+  - [[../entities/xmcd|xmcd]]（概念/方法）：X 射线磁圆二色性，元素特异性磁性探针，测 V L₂,₃ 边左右圆偏振 XAS 之差；可排除衬底/杂质磁信号，是判定二维材料本征磁性的"金标准"。
 
 ## 📊 关键图表
 raw/figures 目录仅有 manifest.json，无实际图片文件，以下五张关键图以文字形式描述（资料来源：raw/note 图表深度解析）。

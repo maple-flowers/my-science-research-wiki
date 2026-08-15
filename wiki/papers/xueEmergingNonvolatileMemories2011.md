@@ -80,15 +80,15 @@ Chun Jason Xue、Youtao Zhang、Yiran Chen、Guangyu Sun、J. Joshua Yang、Hai 
   - 概念 [[../concepts/write-endurance|写耐久性]]（NVM 共性指标，PCM ~10^8、STT-RAM ~10^12、早期忆阻器 10–10^6）
   - 概念 [[../concepts/wear-leveling|磨损均衡]]（地址随机化延长 PCM 寿命，Start-Gap/Security Refresh）
   - 概念 [[../concepts/pcm-dram-hybrid-memory|PCM/DRAM 混合主存]]（DRAM 作写缓存以吸收写流量、延长 PCM 寿命）
+  - 实体 [[../entities/GST]]
+  - 实体 [[../entities/TaOx]]
+  - 实体 [[../entities/MgO-MTJ]]
   - 图表 [[../figures/electronic-devices]]（1T1R、1T1J、MTJ、交叉阵列等器件结构图）
   - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用 (Domains, Domain Walls, In₂Se₃ & Devices)]]
   - 年度 [[../write/2010-2014|2011]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/xueEmergingNonvolatileMemories2011]]
-  - 实体 [[../entities/GST]]
-  - 实体 [[../entities/TaOx]]
-  - 实体 [[../entities/MgO-MTJ]]
 
 ## 🆕 新概念/实体建议
   - 实体建议：[[../entities/GST|GST]]（Ge2Sb2Te5 相变合金）、[[../entities/TaOx|TaOx]]（高耐久性忆阻材料，>10^12 次循环）、[[../entities/MgO-MTJ|MgO-MTJ]]（MgO 势垒磁隧道结）。

@@ -98,15 +98,17 @@ F. Zhou, M. Cococcioni, C. A. Marianetti, D. Morgan, G. Ceder，2004，Physical 
   - 概念 [[../concepts/charge-order]]
   - 概念 [[../concepts/jahn-teller-distortion]]
   - 概念 [[../concepts/redox-potential]]
+  - 概念 [[../concepts/chemical-potential]]
+  - 概念 [[../concepts/high-spin-state]]
+  - 概念 [[../concepts/electron-localization]]
   - 实体 [[../entities/VASP]]
-  - 图表 [[../figures/crystal-structures]]
-  - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/2000-2004|2004]]
-  - 概念 [[../concepts/chemical-potential]]、[[../concepts/high-spin-state]]、[[../concepts/electron-localization]]、[[../concepts/charge-order]]
-  - 相关论文 [[../../raw/note/zhouFirstprinciplesPredictionRedox2004]]
   - 实体 [[../entities/LiFePO4]]
   - 实体 [[../entities/LixMn2O4]]
   - 实体 [[../entities/LiCoO2]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/mathematical-models]]
+  - 年度 [[../write/2000-2004|2004]]
+  - 相关论文 [[../../raw/note/zhouFirstprinciplesPredictionRedox2004]]
 
 ## 🆕 新概念/实体建议
   - [[../concepts/self-interaction-error|self-interaction-error]]：LDA/GGA 中电子与自身电荷密度非物理相互作用导致的能量误差，是本文电压低估的物理根源。

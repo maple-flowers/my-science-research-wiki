@@ -5,7 +5,7 @@ type: concept
 status: mature
 domain: [spectroscopy, solid-state-physics, molecular-physics]
 mechanism: 光子与物质分子/晶格发生非弹性碰撞，光子能量发生转移（产生 Stokes 或 anti-Stokes 位移）
-related_concepts: [vibrational-spectra, electromagnon, raman-optical-activity, phonon]
+related_concepts: [electromagnon, raman-optical-activity, phonon]
 papers: [songEvidenceSinglelayerVan2022, gaoGiantChiralMagnetoelectric2024a]
 updated: 2026-08
 ---
@@ -48,7 +48,7 @@ updated: 2026-08
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
-- [[../concepts/vibrational-spectra|振动光谱]]
+- [[../figures/vibrational-spectra|振动光谱]]
 - [[../concepts/electromagnon|电磁振子]]
 - [[../concepts/raman-optical-activity|拉曼光学活性 (ROA)]]
 - [[../entities/NiI2|二碘化镍 (NiI2)]]

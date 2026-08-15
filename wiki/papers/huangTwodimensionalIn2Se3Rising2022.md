@@ -129,12 +129,47 @@ Yu-Ting Huang, Nian-Ke Chen, Zhen-Ze Li, Xue-Peng Wang, Hong-Bo Sun, Shengbai Zh
 ## 💡 一句话
 系统综述二维 In2Se3 的 α/β 相原子结构、"再成键"铁电翻转机制（含墨西哥帽势能面、IP-OOP 偶极锁定、剪切声子模式与熵垒），以及 FeFET/FeS-FET/FSJ/FeCT 等原型存储与神经形态器件的最新进展。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/polarization-switching]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/machine-learning-potential]]、[[../concepts/strain-engineering]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/phase-change-type-ferroelectrics|相变型铁电体]]、[[../concepts/re-bonding-mechanism|再成键机制]]、[[../concepts/mexican-hat-pes|墨西哥帽势能面]]、[[../concepts/dipole-locking|偶极锁定]]、[[../concepts/entropy-barrier|熵垒]]、[[../concepts/shear-phonon-mode|剪切声子模式]]、[[../concepts/in-memory-computing|存内计算]]、[[../concepts/neuromorphic-computing|神经形态计算]]、[[../concepts/schottky-barrier|肖特基势垒]]、[[../concepts/domain-wall-motion|畴壁运动]]
-  - 实体 [[../entities/In2Se3]]、[[../entities/BiFeO3]]、[[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/SnTe]]、[[../concepts/domain-wall]]、[[../entities/graphene|石墨烯]]、[[../entities/HfO2|HfO₂]]、[[../entities/PVDF-TrFE]]、[[../entities/CuInP2S6|CuInP₂S₆]]、[[../entities/FeFET]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]、[[../concepts/domain-wall]]、[[../figures/electronic-devices]]、[[../figures/vibrational-spectra]]、[[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - 年度 [[../write/2020-2024]]、[[../write/2015-2019]]、[[../write/2015-2019]]、[[../write/2015-2019]]、[[../write/2020-2024]]
-  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/ferroelectric-tunnel-junction]]
+  - 概念 [[../concepts/machine-learning-potential]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/ferroelectricity|铁电性]]
+  - 概念 [[../concepts/depolarization-field|退极化场]]
+  - 概念 [[../concepts/phase-change-type-ferroelectrics|相变型铁电体]]
+  - 概念 [[../concepts/re-bonding-mechanism|再成键机制]]
+  - 概念 [[../concepts/mexican-hat-pes|墨西哥帽势能面]]
+  - 概念 [[../concepts/dipole-locking|偶极锁定]]
+  - 概念 [[../concepts/entropy-barrier|熵垒]]
+  - 概念 [[../concepts/shear-phonon-mode|剪切声子模式]]
+  - 概念 [[../concepts/in-memory-computing|存内计算]]
+  - 概念 [[../concepts/neuromorphic-computing|神经形态计算]]
+  - 概念 [[../concepts/schottky-barrier|肖特基势垒]]
+  - 概念 [[../concepts/domain-wall-motion|畴壁运动]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/In2Se3]]
+  - 实体 [[../entities/BiFeO3]]
+  - 实体 [[../entities/h-BN]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/SnTe]]
+  - 实体 [[../entities/graphene|石墨烯]]
+  - 实体 [[../entities/HfO2|HfO₂]]
+  - 实体 [[../entities/PVDF-TrFE]]
+  - 实体 [[../entities/CuInP2S6|CuInP₂S₆]]
+  - 实体 [[../entities/FeFET]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/mathematical-models]]
+  - 图表 [[../figures/electronic-devices]]
+  - 图表 [[../figures/vibrational-spectra]]
+  - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 年度 [[../write/2020-2024]]
+  - 年度 [[../write/2015-2019]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/huangTwodimensionalIn2Se3Rising2022]]
+
 ## 🆕 新概念/实体建议
   - [[../concepts/depolarization-field|depolarization-field]]（退极化场）：表面束缚电荷产生的与极化反向的电场，是传统铁电体纳米尺寸失效的根源。
   - [[../concepts/phase-change-type-ferroelectrics|phase-change-type-ferroelectrics]]（相变型铁电体）：作者提出的新分类，铁电翻转伴随化学键断裂重构和有序-有序结构相变，区别于 BaTiO3 式位移型铁电体。
@@ -143,7 +178,7 @@ Yu-Ting Huang, Nian-Ke Chen, Zhen-Ze Li, Xue-Peng Wang, Hong-Bo Sun, Shengbai Zh
   - [[../concepts/dipole-locking|dipole-locking]]（偶极锁定）：α-In2Se3 面内（IP）与面外（OOP）极化方向相互锁定，翻转其一必翻转另一个，IP 偶极比 OOP 大约一个数量级。
   - [[../concepts/entropy-barrier|entropy-barrier]]（熵垒）：βpc 相中 Se(m) 原子在 12 个极小值间随机分布造成的构型熵，阻碍 β→α 的协同反向翻转，是器件速度受限的关键。
   - [[../concepts/shear-phonon-mode|shear-phonon-mode]]（剪切声子模式）：α 相高温下被激活的面内剪切光学声子，驱动上两层/下三层原子反向集体运动，触发 1.5 ps 量级的 α→β 超快相变。
-  - [[../entities/III2-VI3-compounds|III2-VI3-compounds]]（III2–VI3 族二维铁电体）：In2Se3、Ga2Se3、In2S3 等共享墨西哥帽 PES 与再成键机制的材料家族。
+  - [[../entities/iii2-vi3-compounds|III2-VI3-compounds]]（III2–VI3 族二维铁电体）：In2Se3、Ga2Se3、In2S3 等共享墨西哥帽 PES 与再成键机制的材料家族。
   - 器件实体 [[../entities/FeFET|FeFET]]、[[../entities/FeS-FET|FeS-FET]]（亦称 FeCT）、[[../entities/FSJ|FSJ]]、[[../entities/ferroelectric-memristor|ferroelectric-memristor]]：可在实体目录下各建一条器件结构条目，或合并为 [[../entities/ferroelectric-semiconductor-devices|ferroelectric-semiconductor-devices]]。
   - [[../concepts/beta0-phase|beta0-phase]]（β0 相）与 [[../concepts/beta-pc-phase|beta-pc-phase]]（βpc 赝中心对称相）：可考虑作为 In2Se3 实体下的子节而非独立条目。
 ## 📊 关键图表

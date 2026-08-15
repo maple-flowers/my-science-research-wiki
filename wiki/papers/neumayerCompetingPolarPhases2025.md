@@ -84,20 +84,20 @@ Sabine Neumayer, Huimin Qiao, Nina Balke et al.，2025，Applied Physics Letters
 系统综述了以 CuInP2S6（CIPS）和 CuInP2Se6（CIPSe）为代表的二维范德华过渡金属硫/硒磷酸盐（TMTPs）中，多种能量仅相差几十 meV/f.u. 的铁电（FE）、反铁电（AFE）和顺电（PE）相如何共存、竞争，并通过温度、电场、Cu 离子迁移和应变实现可逆相互转换。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/polarization-switching]]
   - 概念 [[../concepts/strain-engineering]]
   - 概念 [[../concepts/density-functional-theory]]
   - 概念 [[../concepts/multiferroicity]]
   - 概念 [[../concepts/sliding-ferroelectricity]]（同为2D范德华铁电机制，可对照）
   - 概念 [[../concepts/ferroelectric-tunnel-junction]]（文中讨论2D FE在隧穿结中的应用）
+  - 概念 [[../concepts/domain-wall]]（CIPSe中FE/AFE畴壁增强压电响应）
   - 实体 [[../entities/TMDs]]（文中作为其他2D FE类别对比）
   - 实体 [[../entities/In2Se3]]（文中引用其面内/面外极化）
   - 实体 [[../entities/WTe2]]（文中提及WTe2异质结中的2D FE）
-  - 实体 [[../concepts/domain-wall]]（CIPSe中FE/AFE畴壁增强压电响应）
   - 实体 [[../entities/VASP]]（DFT计算工具背景）
   - 图表 [[../figures/crystal-structures]]（in-layer/in-gap FE及AFE结构图）
-  - 图表 [[../concepts/domain-wall]]（FE/AFE畴壁与PFM畴图）
+  - 图表 [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]（FE/AFE畴壁与PFM畴图）
   - 图表 [[../figures/vibrational-spectra]]（Raman光谱用于AFE相鉴定和压力依赖研究）
   - 图表 [[../figures/mathematical-models]]（Landau-Devonshire压力-温度相图）
   - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用 (Domains, Domain Walls, In₂Se₃ & Devices)]]
@@ -115,7 +115,7 @@ Sabine Neumayer, Huimin Qiao, Nina Balke et al.，2025，Applied Physics Letters
   - [[../concepts/in-gap-ferroelectric-phase|in-gap-ferroelectric-phase]]：间隙铁电相概念——Cu原子占据vdW间隙内稳定位置形成的高极化FE相（HP，P=11.3 μC/cm²）。
   - [[../entities/CuCrP2S6]]：CuCrP2S6（CCPS）实体——多铁性TMTP，理论预测同时具有电极化和磁化及in-gap FE/AFE相，与project-2相关。
   - [[../entities/ips-in43p2s6|ips-in43p2s6]]：In4/3P2S6（IPS）实体——非极性介电相同源化合物，c轴较小，用于CIPS/IPS异质结构施加应变稳定亚稳相。
-  - [[../concepts/piezoresponse-force-microscopy]]：压电力显微镜实体/方法——本文核心局域表征工具，用于识别LP/HP/AFE相及翻转路径。
+  - [[../entities/PFM]]：压电力显微镜实体/方法——本文核心局域表征工具，用于识别LP/HP/AFE相及翻转路径。
 
 ## 📊 关键图表
   - **图1：四种极性有序度示意（顺电/弛豫体·偶极玻璃/反铁电/铁电）**
@@ -183,7 +183,7 @@ Sabine Neumayer, Huimin Qiao, Nina Balke et al.，2025，Applied Physics Letters
   5. 离子-极性耦合机制：Cu+室温下可在vdW间隙中长程迁移，偏压PFM针尖或负DC脉冲（>200 ms）导致Cu在负电极积累、形成反向内建电场，使极化可逆外电场方向排列；更长/更强脉冲可使FE切换消失（Cu亚晶格完全无序形成PE态，或回线移出电压窗口），正DC电压后完全恢复。
   6. CIPS中FE-AFE转换证据：自发AFE表面相深达165 nm（其下为向上FE畴）；单极正三角DC电压网格写入非极性区，双极波形测得0 pm/V处台阶状"捏合"回线；5 VAC扫描使+LP畴转为AFE，零响应区持续深度6 nm；DFT证实AFE在+LP畴表面能量上更有利。
   7. CIPSe在200 K下FE/AFE共存，DC偏压可使FE畴长大；最独特的是FE/AFE畴壁处压电响应显著增强（CIPS及CIPS/IPS界面无此增强），构成[[../concepts/domain-wall-electronics|畴壁电子学]]新功能单元。
-  8. 界面效应：[[../entitys/graphene|石墨烯]]和金属（Ni、Cu、Au、Ag）电极可改变AFE vs FE的临界厚度；Au/Ag因界面排列和应变使FE在双层极限稳定；电极还可稳定in-gap FE相；金电极使CIPS双层带隙中出现非零投影[[../concepts/density-of-states|态密度]]，Cu[[../concepts/depletion-layer|耗尽层]]可变为金属性。
+  8. 界面效应：[[../entities/graphene|石墨烯]]和金属（Ni、Cu、Au、Ag）电极可改变AFE vs FE的临界厚度；Au/Ag因界面排列和应变使FE在双层极限稳定；电极还可稳定in-gap FE相；金电极使CIPS双层带隙中出现非零投影[[../concepts/density-of-states|态密度]]，Cu[[../concepts/depletion-layer|耗尽层]]可变为金属性。
   9. 缺陷与应变：TEM已观察到CIPS中位错、扭结导致非均匀应变（GPA的eyy图）；Cu空位或过量Cu直接影响Cu跨vdW间隙的激活势垒；失去一半Cu时CIPS变为中心对称（Cu位于P2S6层中间）失去极性，完全Cu耗尽则变为金属性；大气下高场可能导致氧掺入。
   10. 化学与异质结构调控：CuInP2(S,Se)6固溶体低Se含量呈短程极性序、高Se抑制FE，宽带介电谱已绘出FE/弛豫/偶极玻璃完整相图；Cu/In<1时析出介电IPS相（c轴更小），XRD证实其对CIPS施加应变，可用于稳定in-gap FE等亚稳相；CIPS/IPS等FE/PE异质结构可产生增强FE/光学性能、涡旋畴、[[../concepts/negative-capacitance|负电容]]和泡状畴。
   11. [[../concepts/pressure-tuning|压力调控]]：压力依赖Raman显示CIPS在4.0 GPa两相共存，铜势形状随压力改变；CIPS与CIPSe的[[../concepts/ferrielectricity|亚铁电]]相变温度压力移动方向相反；Landau-Devonshire理论已探索CIPS压力-温度相图（但尚未纳入in-gap FE/AFE）。

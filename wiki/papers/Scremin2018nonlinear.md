@@ -86,14 +86,30 @@ Barbara Federica Scremin，2018，*Organic Electronics* 61, 329–333，DOI [10.
 ## 💡 一句话
 用开孔飞秒Z扫描结合一个不做低饱和近似的解析拟合公式，首次测得PMMA中TTF⁺ CT聚集体的激发态寿命为百飞秒量级，并据此揭示稳态速率方程模型在超快脉冲下的自洽性危机。
 ## 🔗 Wiki 双链
-  - 图表 [[../figures/optical-spectra]]、[[../figures/mathematical-models]]
-  - 概念 [[../concepts/nonlinear-absorption|非线性吸收]]、[[../concepts/saturable-absorption|饱和吸收]]、[[../concepts/charge-transfer|电荷转移（CT）]]、[[../concepts/z-scan|Z扫描]]、[[../concepts/two-level-system|二能级系统]]、[[../concepts/steady-state-rate-equations|稳态速率方程]]、[[../concepts/excited-state-lifetime|激发态寿命]]、[[../concepts/weight-factor-approximation|权重因子近似]]、[[../concepts/mixed-valence|混合价态]]
-  - 实体 [[../entities/TTF|TTF（四硫富瓦烯）]]、[[../entities/PMMA|PMMA（有机玻璃）]]、[[../entities/TTFClO4|TTFClO₄（高氯酸四硫富瓦烯盐）]]
+  - 概念 [[../concepts/nonlinear-absorption|非线性吸收]]
+  - 概念 [[../concepts/saturable-absorption|饱和吸收]]
+  - 概念 [[../concepts/charge-transfer|电荷转移（CT）]]
+  - 概念 [[../concepts/z-scan|Z扫描]]
+  - 概念 [[../concepts/two-level-system|二能级系统]]
+  - 概念 [[../concepts/steady-state-rate-equations|稳态速率方程]]
+  - 概念 [[../concepts/excited-state-lifetime|激发态寿命]]
+  - 概念 [[../concepts/weight-factor-approximation|权重因子近似]]
+  - 概念 [[../concepts/mixed-valence|混合价态]]
+  - 概念 [[../concepts/gaussian-beam]]
+  - 概念 [[../concepts/radical-cation]]
+  - 概念 [[../concepts/dismutation-equilibrium]]
+  - 实体 [[../entities/TTF|TTF（四硫富瓦烯）]]
+  - 实体 [[../entities/PMMA|PMMA（有机玻璃）]]
+  - 实体 [[../entities/TTFClO4|TTFClO₄（高氯酸四硫富瓦烯盐）]]
+  - 实体 [[../entities/Origin]]
+  - 实体 [[../entities/Ti-sapphire-laser]]
+  - 图表 [[../figures/optical-spectra]]
+  - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2015-2019|2018]]
-  - 项目 [[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-1-two-photon]]
-  - 概念 [[../concepts/gaussian-beam]]、[[../concepts/radical-cation]]、[[../concepts/dismutation-equilibrium]]
-  - 实体 [[../entities/Origin]]、[[../entities/Ti-sapphire-laser]]
+  - 项目 [[../projects/project-4-ttf-molecular-calc]]
+  - 项目 [[../projects/project-1-two-photon]]
   - 相关论文 [[../../raw/note/Scremin2018nonlinear]]
+
 ## 📊 关键图表
 > 说明：`raw/figures/Scremin2018nonlinear/` 下仅有 manifest.json，没有实际图片文件，以下按笔记文字描述逐图给出说明，不伪造图片路径。
 

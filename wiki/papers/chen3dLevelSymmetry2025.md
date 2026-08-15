@@ -88,11 +88,28 @@ Kaiyun Chen、Xue Yan、Junkai Deng、Yuan Yan、Jiabei He、Dongxiao Kan、Wang
 通过DFT计算揭示Mn2N MXenes的半金属性/半导体性由两侧Mn原子3d能级分离程度（而非局域配位对称性）决定，并据此用电荷掺杂和单轴应变实现两种态的可逆切换。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/density-functional-theory]]、[[../concepts/strain-engineering]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/2d-materials]]、[[../concepts/electron-counting-rule]]、[[../concepts/half-metallicity]]、[[../concepts/janus-structure]]、[[../concepts/crystal-field-theory]]、[[../concepts/charge-doping]]、[[../concepts/electronic-phase-transition]]
-  - 实体 [[../entities/MXenes]]、[[../entities/TMDs]]、[[../entities/VASP]]、[[../entities/h-BN]]、[[../entities/Mn2N]]、[[../entities/Mn2NO2]]、[[../entities/Mn2NOF]]、[[../entities/V2NOF]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/spin-orbit-coupling]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/electron-counting-rule]]
+  - 概念 [[../concepts/half-metallicity]]
+  - 概念 [[../concepts/janus-structure]]
+  - 概念 [[../concepts/crystal-field-theory]]
+  - 概念 [[../concepts/charge-doping]]
+  - 概念 [[../concepts/electronic-phase-transition]]
+  - 实体 [[../entities/MXenes]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/h-BN]]
+  - 实体 [[../entities/Mn2N]]
+  - 实体 [[../entities/Mn2NO2]]
+  - 实体 [[../entities/Mn2NOF]]
+  - 实体 [[../entities/V2NOF]]
   - 图表 [[../figures/electronic-bands]]
   - 年度 [[../write/2025-2029|2025]]
   - 相关论文 [[../../raw/note/chen3dLevelSymmetry2025]]
+
 ## 📊 关键图表
   - ![图1 不同表面钝化下Mn2N的晶体结构与DOS](../../raw/figures/chen3dLevelSymmetry2025/fig_1_FPIYZWQV.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
   - **图示描述**：(a) 单层 Mn2N 的"反 1T-TMD"三明治晶体结构（N 居中、两层 Mn 在外），黑色菱形为原胞、橙色矩形为计算所用矩形晶胞；(b) 底面统一 O 钝化、顶面分别以 O/F/OH/Cl 钝化得到的对称 Mn2NO2 与 Janus Mn2NOF、Mn2NOOH、Mn2NOCl；(c) 四种结构的自旋分辨态密度（DOS），横轴为相对费米能级的能量（eV），竖虚线为 EF。

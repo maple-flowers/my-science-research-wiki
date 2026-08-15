@@ -157,7 +157,7 @@ Youfang Lai, Zhigang Song (共同一作/通讯), Yi Wan, Mingzhu Xue, Changsheng
 ## ✏️ 可写入 Wiki 的要点
   1. 晶体结构：CuCrP2S6 属低对称性 ABP2X6 家族，六个 S 成环、Cu/Cr 居环心、次近邻金属由 P-P 对桥接；单层优化晶格常数 a=5.97 Å、b=10.36 Å、β=104.1°，块体层间距约 3.74 Å；铁电单层空间群为 P1（无对称性约束，是单向[[../concepts/migdal-eliashberg-theory|各向异性]]的前提）。
   2. 铁电结构起源：Cu 原子有两个站位——全部居于单层同侧时产生面外净偶极（FE 相），交错居于两侧时单胞内两反向偶极抵消（AFE 相）；FE↔AFE 间 Cu 位移约 2.65 Å，Cu 的[[../concepts/born-effective-charge|玻恩有效电荷]]约 +1.2e（XPS 亦证实 Cu 为 +1 价）。
-  3. 相变能量学（NEB）：AFE 为基态，FE 能量高约 0.09 eV/f.u.；FE→AFE 势垒约 0.11 eV/f.u.（≈0.11 eV/kB≈1300 K，故 FE 相一经电场实现便在室温下非易失）；AFE→FE 势垒约 0.21 eV/f.u.，在纳米尺度下可由外电场克服——这就是"[[../concepts/driven-ferroelectricity|驱动[[../concepts/ferroelectricity|铁电性]]]]"。
+  3. 相变能量学（NEB）：AFE 为基态，FE 能量高约 0.09 eV/f.u.；FE→AFE 势垒约 0.11 eV/f.u.（≈0.11 eV/kB≈1300 K，故 FE 相一经电场实现便在室温下非易失）；AFE→FE 势垒约 0.21 eV/f.u.，在纳米尺度下可由外电场克服——这就是"[[../concepts/driven-ferroelectricity|驱动铁电性]]"。
   4. [[../concepts/ferromagnetism|铁磁性]]：Cr3+ 的 3d 壳层留有 3 个未配对电子，磁矩 3 μB/f.u.；铁磁态比近邻反平行的反铁磁态低 13 meV/f.u.；层内铁磁交换（~13 meV/f.u.）远强于[[../entities/CrI3|层间反铁磁]]交换（~1.5 meV/f.u.），因此块体为层间 AFM 而少层可显现层内 FM。
   5. [[../concepts/magnetoelectric-coupling|磁电耦合]]机制：FE 相中自旋沿 a 轴比垂直 ab 面低约 0.5 meV/f.u.；更关键的是单向各向异性——当 P∥+c 时 Ea−E−a≈−1.0 meV/f.u.，P 反号时该能量差反号，从而外电场翻转偶极即可翻转易磁化轴、无需外磁场即可翻转自旋；耦合由 SOC 介导，形式为 −ξ(d_v × P)·S_r（d_v 为表征铁电的偶极、P 为准动量/谷中心、S_r 为自旋指标）。
   6. 谷自由度：SOC 下能带在 (±0.67, 0, 0) 处有两个带质量狄拉克锥，两谷具相反 Berry 曲率与轨道角动量；AFE 相两谷带隙相同（平庸），FE 相两谷直接带隙分别为 1.125 eV 与 1.145 eV，产生 20 meV 的[[../concepts/zeeman-type-valley-splitting|塞曼型谷劈裂]]；翻转电极化或翻转自旋都会使谷劈裂反号，故电场（固定自旋时）或磁场（固定偶极时）均可控制谷态。作者强调三者地位不等：翻转偶极需 ~100 meV/f.u.、翻转自旋需 ~1 meV/f.u.，而谷是"从属(slave)"自由度。

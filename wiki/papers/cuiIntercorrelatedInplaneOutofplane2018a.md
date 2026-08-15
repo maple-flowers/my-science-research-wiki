@@ -100,19 +100,39 @@ Cui, Hu, Yan, Addiego, Gao, Wang, Wang, Li, Cheng, Li, Zhang, Alshareef, Wu, Zhu
 ## 💡 一句话
 首次在实验上证实室温下二维范德华半导体 α-In2Se3 同时具有面内（IP）与面外（OOP）相互锁定的本征铁电极化，并展示层数奇偶效应和电场/可见光双控的多态非易失存储原型。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2d-materials]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/multiferroicity]]、[[../concepts/polarization-switching]]、[[../concepts/in-plane-out-of-plane-coupling|面内-面外极化耦合]]、[[../concepts/odd-even-effect|奇偶层数效应]]、[[../concepts/antiparallel-polarization-stacking|反平行极化堆垛]]、[[../concepts/ferroelectric-domain|铁电畴]]、[[../concepts/depolarization-field]]、[[../concepts/schottky-barrier|肖特基势垒]]、[[../concepts/switchable-diode|可切换二极管]]、[[../concepts/memristor|忆阻器]]、[[../concepts/topological-defects]]（畴壁部分相关）
-  - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/SnTe]]、[[../entities/BaTiO3|BaTiO₃]]、[[../entities/CuInP2S6|CuInP₂S₆]]、[[../entities/PZT]]
-  - 图表 [[../figures/electronic-devices]]、[[../figures/experimental-setups]]、[[../concepts/domain-wall]]
-  - 年度 [[../write/2015-2019|2018]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/ferroelectricity|铁电性]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/in-plane-out-of-plane-coupling|面内-面外极化耦合]]
+  - 概念 [[../concepts/odd-even-effect|奇偶层数效应]]
+  - 概念 [[../concepts/antiparallel-polarization-stacking|反平行极化堆垛]]
+  - 概念 [[../concepts/ferroelectric-domain|铁电畴]]
+  - 概念 [[../concepts/depolarization-field]]
+  - 概念 [[../concepts/schottky-barrier|肖特基势垒]]
+  - 概念 [[../concepts/switchable-diode|可切换二极管]]
+  - 概念 [[../concepts/memristor|忆阻器]]
+  - 概念 [[../concepts/topological-defects]]（畴壁部分相关）
   - 概念 [[../concepts/domain-wall]]
-  - 实体 [[../entities/Au]]、[[../entities/mica]]
+  - 实体 [[../entities/In2Se3]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/SnTe]]
+  - 实体 [[../entities/BaTiO3|BaTiO₃]]
+  - 实体 [[../entities/CuInP2S6|CuInP₂S₆]]
+  - 实体 [[../entities/PZT]]
+  - 实体 [[../entities/Au]]
+  - 实体 [[../entities/mica]]
+  - 图表 [[../figures/electronic-devices]]
+  - 图表 [[../figures/experimental-setups]]
+  - 年度 [[../write/2015-2019|2018]]
   - 相关论文 [[../../raw/note/cuiIntercorrelatedInplaneOutofplane2018a]]
+
 ## 🆕 新概念/实体建议
   - [[../concepts/in-plane-out-of-plane-coupling|in-plane-out-of-plane-coupling]]（面内-面外极化互锁）：α-In2Se3 中由中心 Se 原子层横向位移同时驱动 IP/OOP 极化翻转的本征耦合机制。
   - [[../concepts/odd-even-effect|odd-even-effect]]（奇偶层数效应）：相邻层反平行堆叠导致奇/偶数层宏观极化方向相反。
   - [[../concepts/antiparallel-polarization-stacking|antiparallel-polarization-stacking]]（反平行极化堆垛）：层间极化反向排列，是奇偶效应与净极化抵消的微观起源。
   - [[../concepts/switchable-diode|switchable-diode]]（可切换二极管）：铁电极化调制两端金属-半导体肖特基势垒，使整流方向可被电场反转。
-  - [[../concepts/scanning-electron-diffraction|scanning-electron-diffraction]]（扫描电子衍射, SED）：通过 CBED 图样重心位移直接成像样品内投影电场的表征技术。
+  - [[../entities/scanning-electron-diffraction|scanning-electron-diffraction]]（扫描电子衍射, SED）：通过 CBED 图样重心位移直接成像样品内投影电场的表征技术。
   - [[../concepts/depolarization-field]]（退极化场）：铁电体表面束缚电荷产生的反向电场，其屏蔽程度决定单畴/多畴态。
 ## 📊 关键图表
   - ![图1 合成与结构表征：CVD生长、AFM、Raman、SAED、单层α-In2Se3原子分辨STEM，确认FE-ZB'构型](../../raw/figures/cuiIntercorrelatedInplaneOutofplane2018a/fig_1_MQ5WQF79.png) → [[../figures/experimental-setups|实验装置与测量系统]]

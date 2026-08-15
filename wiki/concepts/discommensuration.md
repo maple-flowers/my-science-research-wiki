@@ -14,7 +14,7 @@ updated: 2026-08
 
 错位相子 (Discommensuration, DC) 是指在近公度电荷密度波 (Near-Commensurate CDW, NC-CDW) 体系中，相位发生局域突变的拓扑缺陷或畴壁。它是连接公度区域 (Commensurate domains) 的边界。在 DC 处，CDW 的相位会跳变一个特定值（通常为 $2\pi\nu$，$\nu$ 为公度分数），同时伴随着序参量振幅的局部下降。
 
-## Grandma 👵 太奶导读
+## 👵 太奶导读
 
 太奶，这“错位相子”听着别扭，其实道理特简单，就像您以前在家里**缝被面儿**。
 本来您想把被面和里子对得齐齐整整的（这就是公度态，**commensurate**）。

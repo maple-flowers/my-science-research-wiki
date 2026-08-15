@@ -78,27 +78,27 @@ Pankaj Sharma, Fei-Xiang Xiang, Ding-Fu Shao, Dawei Zhang, Evgeny Y. Tsymbal, Al
 首次在块体范德华晶体 WTe₂（II型外尔半金属）中于室温下实验证实本征金属性与可翻转铁电性共存，实现了 Anderson 与 Blount 1965 年预言的"铁电金属"。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/polarization-switching]]
   - 概念 [[../concepts/berry-phase]]
   - 概念 [[../concepts/spin-orbit-coupling]]
   - 概念 [[../concepts/ferroelasticity]]
   - 概念 [[../concepts/multiferroicity]]
   - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/domain-wall]]
   - 实体 [[../entities/WTe2]]
   - 实体 [[../entities/BiFeO3]]
   - 实体 [[../entities/VASP]]
-  - 实体 [[../concepts/domain-wall]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/electronic-bands]]
-  - 图表 [[../concepts/domain-wall]]
+  - 图表 [[../figures/domain-walls-structures|畴结构与畴壁]]
   - 年度 [[../write/2015-2019]]
   - 相关论文 [[../../raw/note/sharmaRoomtemperatureFerroelectricSemimetal2019]]
 
 ## 🆕 新概念/实体建议
   - [[../concepts/ferroelectric-metal|ferroelectric-metal]]（铁电金属/极性金属）：同时具有可翻转自发极化与金属导电性的材料类别，源于 Anderson-Blount 1965 年预言；WTe₂ 是首个室温块体实例。
   - [[../concepts/weyl-semimetal|weyl-semimetal]]（外尔半金属）：导带与价带在离散外尔点相接的拓扑半金属；WTe₂ 是 II 型外尔半金属，铁电性与拓扑性共存具有"铁电拓扑电子学"意义。
-  - [[../concepts/piezoresponse-force-microscopy|piezoresponse-force-microscopy]]（压电力显微镜，PFM）：基于逆压电效应的扫描探针技术，用于纳米尺度成像铁电畴与电滞回线，是本文核心实验手段。
+  - [[../entities/PFM|piezoresponse-force-microscopy]]（压电力显微镜，PFM）：基于逆压电效应的扫描探针技术，用于纳米尺度成像铁电畴与电滞回线，是本文核心实验手段。
   - [[../concepts/debye-screening-length|debye-screening-length]]（德拜屏蔽长度）：金属/半金属中电场被自由载流子屏蔽的特征深度；WTe₂ 中约 1.6 nm，决定 PFM 信号仅来自表面薄层，是理解金属中铁电性探测的关键概念。
   - [[../concepts/incomplete-screening|incomplete-screening]]（不完全屏蔽）：半金属低载流子浓度导致内部偶极场未被完全抵消，使铁电性得以幸存的物理机制。
   - [[../concepts/ferroelectric-domain-wall|ferroelectric-domain-wall]]（铁电畴壁）：铁电畴之间的界面，在金属体系中可能呈现新颖导电性/拓扑性质，是本文指出的后续研究方向。

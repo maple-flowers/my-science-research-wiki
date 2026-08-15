@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/gongAbsenceCriticalThickness2023]]
 projects: [project-2, project-5]
-concepts: [density-functional-theory, polarization-switching, strain-engineering, topological-defects, kittels-law, hyperbolic-scaling, polar-vortex, LSMO, depolarization-field, polar-skyrmion, critical-thickness-ferroelectric, phase-field-modeling, topological-charge]
-entities: [VASP, SrTiO3, PbTiO3]
+concepts: [density-functional-theory, polarization-switching, strain-engineering, topological-defects, kittels-law, hyperbolic-scaling, polar-vortex, depolarization-field, polar-skyrmion, critical-thickness-ferroelectric, phase-field-modeling, topological-charge]
+entities: [VASP, SrTiO3, PbTiO3, LSMO]
 methods: [afm-pfm, berry-phase, dft, phase-field, stm-mbe, tem, xrd]
 materials:
   - PbTiO3
@@ -93,7 +93,7 @@ Feng-Hui Gong, Yun-Long Tang, Yu-Jia Wang, Yu-Ting Chen, Bo Wu, Li-Xin Yang, Yin
   - 概念 [[../concepts/hyperbolic-scaling|双曲标度]]
   - 概念 [[../concepts/topological-charge|拓扑数]]
   - 概念 [[../concepts/polar-vortex|极性涡旋]]
-  - 概念 [[../concepts/LSMO|LSMO]]
+  - 实体 [[../entities/LSMO|LSMO]]
   - 实体 [[../entities/VASP|VASP]]
   - 实体 [[../entities/PbTiO3|PbTiO3 (PTO)]]
   - 实体 [[../entities/SrTiO3|SrTiO3 (STO)]]
@@ -101,8 +101,9 @@ Feng-Hui Gong, Yun-Long Tang, Yu-Jia Wang, Yu-Ting Chen, Bo Wu, Li-Xin Yang, Yin
   - 图表 [[../figures/optical-spectra]]
   - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - 年度 [[../write/2020-2024|2023]]
-  - 主题 [[../topics/材料模拟计算设计]]
+  - 主题 [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
   - 相关论文 [[../../raw/note/gongAbsenceCriticalThickness2023]]
+
 ## 📊 关键图表
   - ![图1 不同厚度 PTO/STO 超晶格的 DF-TEM、SAED 与 (103) RSM，周期从 13.8 nm 演变到 6.8 nm](../../raw/figures/gongAbsenceCriticalThickness2023/fig_1_SYSSN7EC.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：复合图，对 (PTOₙ/STOₙ)₁₀ 超晶格系列（n = 37, 28, 23, 19, 12, 9, 4, 2 u.c.）依次给出截面 DF-TEM 暗场像、内嵌的 (202) SAED 放大斑点，以及在衬底 (103) 反射附近、qₓ–q_z 散射平面内的对数 RSM；DF 像用 g = 002 衍射矢量拍摄。

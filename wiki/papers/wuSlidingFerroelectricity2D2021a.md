@@ -116,15 +116,8 @@ Menghao Wu（吴梦昊，华中科技大学）& Ju Li（李巨，MIT），2021�
   - 实体 [[../entities/BiFeO3]]（作为传统高铁电体对比，集体势垒 0.43 eV/f.u.，体极化高两个数量级）
   - 实体 [[../entities/In2Se3]]（早期已知的少数二维面外铁电体之一）
   - 实体 [[../entities/SnTe]]（参考文献 12，Chang et al. Science 2016，单层 SnTe 面内铁电，被引为二维铁电早期里程碑）
-  - 实体 [[../entities/VASP]]、[[../entities/Wannier90]]（DFT/Berry 相极化计算工具背景）
-  - 图表 [[../figures/heterostructures-stacking]]（扭转双层、Moiré 超晶格、双栅 vdW 异质结器件）
-  - 图表 [[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]（AB↔BA 滑移路径、ripplocation 翻转、集体/孤立势垒模型）
-  - 图表 [[../concepts/domain-wall]]（ripplocation 畴壁、20–50 nm 铁电畴）
-  - 图表 [[../figures/electronic-bands]]（Moiré 电势诱导 II 型能带对齐、层间激子捕获）
-  - 年度 [[../write/2020-2024|2021]]（本文发表年，亦为 Yasuda/Vizner Stern 两篇 Science 实验年）
-  - 项目 [[../projects/project-2-mn-multiferroics]]
-  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
-  - 相关论文 [[../../raw/note/wuSlidingFerroelectricity2D2021a]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/Wannier90]]（DFT/Berry 相极化计算工具背景）
   - 实体 [[../entities/CrI3]]
   - 实体 [[../entities/AlN]]
   - 实体 [[../entities/ZrI2]]
@@ -133,6 +126,13 @@ Menghao Wu（吴梦昊，华中科技大学）& Ju Li（李巨，MIT），2021�
   - 实体 [[../entities/ZnO]]
   - 实体 [[../entities/InSe]]
   - 实体 [[../entities/GaSe]]
+  - 图表 [[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]（扭转双层、Moiré 超晶格、双栅 vdW 异质结器件）
+  - 图表 [[../figures/domain-walls-structures|畴结构与畴壁]]（ripplocation 畴壁、20–50 nm 铁电畴）
+  - 图表 [[../figures/electronic-bands]]（Moiré 电势诱导 II 型能带对齐、层间激子捕获）
+  - 年度 [[../write/2020-2024|2021]]（本文发表年，亦为 Yasuda/Vizner Stern 两篇 Science 实验年）
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 相关论文 [[../../raw/note/wuSlidingFerroelectricity2D2021a]]
 
 ## 🆕 新概念/实体建议
   - [[../concepts/ripplocation|ripplocation]]（波纹位错）：二维 vdW 层中兼具晶体学位错与面外屈曲波纹特征的畴壁，是滑动铁电翻转的动力学载体；Frank 定律（核心能 ∝|b|²）在 2D 中因面内弹性能被屈曲弛豫而失效。
@@ -213,7 +213,7 @@ Menghao Wu（吴梦昊，华中科技大学）& Ju Li（李巨，MIT），2021�
   - [[../concepts/polar-metal|polar-metal]]
   - [[../concepts/stacking-engineering|stacking-engineering]]
 ## ✏️ 可写入 Wiki 的要点
-  1. **机制本质**：滑动[[../concepts/ferroelectricity|铁电性]]仅存在于 2D vdW 叠层中，垂直电极化由面内层间滑移翻转，无需垂直离子位移；极化源于两层不等价堆垛导致的净[[../concepts/interlayer-charge-transfer|层间[[../concepts/charge-transfer|电荷转移]]]]（如 AB-BN 中 B→N 的电荷转移）。
+  1. **机制本质**：滑动[[../concepts/ferroelectricity|铁电性]]仅存在于 2D vdW 叠层中，垂直电极化由面内层间滑移翻转，无需垂直离子位移；极化源于两层不等价堆垛导致的净[[../concepts/interlayer-charge-transfer|层间电荷转移]]（如 AB-BN 中 B→N 的电荷转移）。
   2. **普适判据**：一个 vdW 双层/多层具备滑动铁电性当且仅当：①非中心对称；②对中心水平面作镜像 M_z 得到的极化反转态，可通过层间面内平移 t_∥ 实现。该判据将二维铁电体从极少数（CuInP₂S₆、In₂Se₃、MoTe₂）扩展到大多数已知[[../concepts/2d-materials|二维材料]]。
   3. **极化数值**：AB 双层（pC/m）BN 2.08、ZnO 8.22、AlN 10.29（已知最高）、GaN 9.72、SiC 6.17、MoS₂ 0.97、InSe 0.24、GaSe 0.46、WTe₂ ~0.38（计算）/0.16（20 K 实验）；体相（μC/cm²）3R-BN 2.41（正文称 7.6）、3R-MoS₂ 0.52、3R-InSe 0.08、h-SnS₂ 0.18、h-SnSe₂ 0.42、h-CrI₃ 0.06、ZrI₂ 0.31。二维单位 pC/m 除以层间距可换算为三维 μC/cm²（BN 2.08 pC/m ≈ 0.68 μC/cm²）。
   4. **堆垛敏感性**：并非所有堆垛都有极性——BN 双层 AA'（B 在 N 正上方重叠）非极性且与 AB 近简并；体相中 AA' 与 AB 均保持垂直镜面对称而非极性，只有 ABC（3R 相）堆叠因层间[[../concepts/charge-density|电荷密度]]不对称产生垂直极化。电场可驱动 AB→3R 转变。SnS₂ 三角相/六角相、WTe₂ 单斜/正交相、CrI₃ R/H 型等多型体中，仅部分可由横向平移互相转换。

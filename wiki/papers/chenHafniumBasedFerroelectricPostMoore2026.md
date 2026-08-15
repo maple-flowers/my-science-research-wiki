@@ -130,8 +130,9 @@ Xiangwei Chen, Zheng Wang, Jialin Meng, Tianyu Wang（山东大学），2026，N
   - 概念 [[../concepts/wake-up-fatigue|唤醒与疲劳效应]]
   - 概念 [[../concepts/strain-engineering]]
   - 概念 [[../concepts/density-functional-theory]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/domain-wall]]
   - 实体 [[../entities/HfO2|HfO₂（氧化铪）]]
   - 实体 [[../entities/HZO|HZO（Hf₀.₅Zr₀.₅O₂）]]
   - 实体 [[../entities/FeFET|FeFET（铁电场效应晶体管）]]
@@ -140,7 +141,6 @@ Xiangwei Chen, Zheng Wang, Jialin Meng, Tianyu Wang（山东大学），2026，N
   - 实体 [[../entities/Fe-Diode|Fe-Diode（铁电二极管）]]
   - 实体 [[../entities/PZT|PZT（锆钛酸铅）]]
   - 实体 [[../entities/BaTiO3|BaTiO₃（钛酸钡）]]
-  - 实体 [[../concepts/domain-wall]]
   - 实体 [[../entities/MXenes]]
   - 实体 [[../entities/TMDs]]（MoS₂）
   - 图表 [[../figures/crystal-structures]]
@@ -150,6 +150,7 @@ Xiangwei Chen, Zheng Wang, Jialin Meng, Tianyu Wang（山东大学），2026，N
   - 年度 [[../write/2025-2029]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/chenHafniumBasedFerroelectricPostMoore2026]]
+
 ## 📊 关键图表
   - 图1：Hf-FEs材料、器件结构与应用总览
   ![Hf-FEs材料器件应用总览](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_1_3VD9GL58.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]

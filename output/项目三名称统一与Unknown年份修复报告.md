@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_e7cc02eb979e11f19467525400287e28
-    ReservedCode1: Wscc7Zg80Xqbl5j0Uf7U6joV2iV72gdBsKnmBIZSzJ3yQsmqeQTjcSIP6uUDEJfLAaaOcbc9MEi85tT0H02tZVwQG1uLMpk7KXHnP4Mq9sESSg2Y3MEXQUkEd6r9zajNcvKk9MbjfGHDCf3GlTjQTQwnfsTd4zu9NXWwXyUPiR7IivNhl7H4FgDNoL4=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_e7cc02eb979e11f19467525400287e28
-    ReservedCode2: Wscc7Zg80Xqbl5j0Uf7U6joV2iV72gdBsKnmBIZSzJ3yQsmqeQTjcSIP6uUDEJfLAaaOcbc9MEi85tT0H02tZVwQG1uLMpk7KXHnP4Mq9sESSg2Y3MEXQUkEd6r9zajNcvKk9MbjfGHDCf3GlTjQTQwnfsTd4zu9NXWwXyUPiR7IivNhl7H4FgDNoL4=
----
-
 # 项目三名称统一与 Unknown 年份修复报告
 
 - 生成时间：2026-08-14
@@ -77,4 +66,3 @@ chowdhury 论文的正文链接 `[[../write/Unknown]]` 经核查属于**历史�
 - `write/Unknown` 悬空引用：0 处（已消除）。
 - `project-3-topological-devices` 旧 slug：0 处。
 - 全库悬空引用：221 → 220。
-*（内容由AI生成，仅供参考）*

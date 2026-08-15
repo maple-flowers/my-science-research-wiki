@@ -77,13 +77,26 @@ Goswami, Bhattacharya, Choudhury, Ouladdiaf, Chatterji，2011，Applied Physics 
 通过变温 XRD 与加场中子衍射，首次直接证实约 22 nm 的 BiFeO3 纳米颗粒中仍存在强磁电耦合——极化在 TN 处跃升约 30%、在 5 T 磁场下被抑制约 7%。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/antiferromagnetism|反铁磁性]]、[[../concepts/spin-spiral|自旋螺旋]]、[[../concepts/dzyaloshinskii-moriya-interaction|DM相互作用]]、[[../concepts/oxygen-octahedron-rotation|氧八面体旋转]]、[[../concepts/magnetoelastic-coupling|磁弹耦合]]、[[../concepts/critical-thickness-ferroelectric|尺寸效应]]
-  - 实体 [[../entities/BiFeO3]]、[[../entities/Bi2Fe4O9]]、[[../entities/FullProf]]、[[../entities/ILL-D20]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/antiferromagnetism|反铁磁性]]
+  - 概念 [[../concepts/spin-spiral|自旋螺旋]]
+  - 概念 [[../concepts/dzyaloshinskii-moriya-interaction|DM相互作用]]
+  - 概念 [[../concepts/oxygen-octahedron-rotation|氧八面体旋转]]
+  - 概念 [[../concepts/magnetoelastic-coupling|磁弹耦合]]
+  - 概念 [[../concepts/critical-thickness-ferroelectric|尺寸效应]]
+  - 概念 [[../concepts/size-effect]]
+  - 概念 [[../concepts/first-order-phase-transition]]
+  - 实体 [[../entities/BiFeO3]]
+  - 实体 [[../entities/Bi2Fe4O9]]
+  - 实体 [[../entities/FullProf]]
+  - 实体 [[../entities/ILL-D20]]
   - 图表 [[../figures/crystal-structures]]
   - 年度 [[../write/2010-2014|2011]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
-  - 概念 [[../concepts/size-effect]]、[[../concepts/first-order-phase-transition]]
   - 相关论文 [[../../raw/note/Goswami2011multiferroic]]
+
 ## 📊 关键图表
   - **图1**：超声化学法合成的 ~22 nm BiFeO3 纳米颗粒的 TEM 与 HRTEM 照片。
   - ![图1 TEM 与 HRTEM 照片，显示 ~22 nm 单晶颗粒及 (012) 面晶格条纹](../../raw/figures/Goswami2011multiferroic/fig_1_IBYY5PIF.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]

@@ -86,7 +86,6 @@ Wanping Shen, Jinbo Shen, Fang Wang, Yunhao Lu et al.，2025，Physical Review B
   - 概念 [[../concepts/elemental-ferroelectrics|单质铁电材料]]
   - 概念 [[../concepts/interlayer-dipole-coupling|层间偶极耦合]]
   - 概念 [[../concepts/multistate-memory|多态存储]]
-  - 概念 [[../entities/black-phosphorus|黑磷 (概念)]]
   - 实体 [[../entities/VASP]]
   - 实体 [[../entities/h-BN]]
   - 实体 [[../entities/TMDs]]
@@ -95,9 +94,8 @@ Wanping Shen, Jinbo Shen, Fang Wang, Yunhao Lu et al.，2025，Physical Review B
   - 实体 [[../entities/SnTe]]
   - 实体 [[../entities/black-phosphorus|黑磷 (BP)]]
   - 图表 [[../figures/electronic-bands]]
-  - 图表 [[../figures/heterostructures-stacking]]
   - 图表 [[../figures/heterostructures-stacking|多铁与磁电异质结 (Multiferroic & Magnetoelectric Heterostructures)]]
-  - 图表 [[../concepts/domain-wall]]
+  - 图表 [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
   - 年度 [[../write/2025-2029|2025]]
   - 相关论文 [[../../raw/note/shenEmergenceMultipleFerroelectric2025]]
 

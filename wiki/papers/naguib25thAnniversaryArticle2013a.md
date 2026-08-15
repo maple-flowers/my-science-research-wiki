@@ -70,18 +70,17 @@ Michael Naguib, Vadym N. Mochalin, Michel W. Barsoum, Yury Gogotsi et al.，2014
   - 概念 [[../concepts/density-functional-theory]]
   - 实体 [[../entities/MXenes]]
   - 实体 [[../entities/TMDs]]（文中作为对比的层状材料被反复提及）
-  - 图表 [[../figures/crystal-structures]]（MAX/MXene 原子结构、表面官能团三种构型）
-  - 图表 [[../figures/electronic-bands]]（DOS/PDOS、金属-半导体转变、带隙预测）
-  - 图表 [[../figures/experimental-setups]]（HF 刻蚀—洗涤—插层—超声分层的合成流程）
-  - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用 (Domains, Domain Walls, In₂Se₃ & Devices)]]
-  - 年度 [[../write/2010-2014|2013]]（DOI 年份 / 在线发表）
-  - 年度 [[../write/2010-2014|2014]]（正式卷期）
-  - 相关论文 [[../../raw/note/naguib25thAnniversaryArticle2013a]]
   - 实体 [[../entities/Ti3C2]]
   - 实体 [[../entities/Nb2CTx]]
   - 实体 [[../entities/Ti2CTx]]
   - 实体 [[../entities/V2CTx]]
   - 实体 [[../entities/Ta4C3Tx]]
+  - 图表 [[../figures/crystal-structures]]（MAX/MXene 原子结构、表面官能团三种构型）
+  - 图表 [[../figures/electronic-bands]]（DOS/PDOS、金属-半导体转变、带隙预测）
+  - 图表 [[../figures/experimental-setups]]（HF 刻蚀—洗涤—插层—超声分层的合成流程）
+  - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用 (Domains, Domain Walls, In₂Se₃ & Devices)]]
+  - 年度 [[../write/2010-2014|2013]]（DOI 年份 / 在线发表）
+  - 相关论文 [[../../raw/note/naguib25thAnniversaryArticle2013a]]
 
 ## 🆕 新概念/实体建议
   - [[../entities/MAX-phase|max-phases]]（MAX 相）：通式 M_{n+1}AX_n 的六方层状三元碳化物/氮化物（P6₃/mmc），M 为早期过渡金属、A 主要为 IIIA/IVA 族元素、X 为 C/N，n=1–3；是 MXenes 的母体材料，文中列举 60 余种纯相及大量固溶体，应独立建条目。

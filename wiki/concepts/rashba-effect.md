@@ -14,7 +14,7 @@ updated: 2026-08
 
 Rashba 效应（也称 Bychkov–Rashba 效应）是指在存在**结构反演对称性破缺 (Structural Inversion Asymmetry, SIA)** 的二维系统中，由于**自旋-轨道耦合 (Spin-Orbit Coupling, SOC)** 作用，电子的自旋简并能带发生分裂，并且自旋方向与动量方向相互锁定的物理现象。它是自旋电子学（Spintronics）中电场控制自旋的核心机制。
 
-## Grandma 👵 太奶导读
+## 👵 太奶导读
 
 太奶啊，这 **Rashba Effect**（拉什巴效应）听上去深奥，其实您把它想象成一列在旋转轨道上跑的“过山车”。
 在一般的材料里，电子跑起来比较木讷，身上的小磁针（自旋，**spin**）是指向哪里的都有。

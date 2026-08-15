@@ -18,7 +18,7 @@ local_path: E:\swan_goose\燕燕\香香\项目五：lammps势函数SnTe铁电模
 
 ## 2. 与科研 Wiki 知识库的联系
 - **相关材料/实体**：[[../entities/SnTe|SnTe 碲化锡]]、[[../entities/In2Se3|In2Se3 (同族参考)]]、[[../entities/TMDs|WTe2 (金属铁电参考)]]
-- **相关物理概念**：[[../concepts/sliding-ferroelectricity|滑动铁电性]]、[[../concepts/polarization-switching|极化翻转动力学]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/berry-phase|Berry 相位]]、[[../concepts/molecular-beam-epitaxy|机器学习势]]
+- **相关物理概念**：[[../concepts/sliding-ferroelectricity|滑动铁电性]]、[[../concepts/polarization-switching|极化翻转动力学]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/berry-phase|Berry 相位]]、[[../entities/molecular-beam-epitaxy|机器学习势]]
 - **计算工具**：LAMMPS, DeepMD-kit, Phonopy
 
 ---

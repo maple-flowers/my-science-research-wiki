@@ -2,7 +2,7 @@
 
 本文件是 Karpathy LLM Wiki 架构的规范约束（Schema）。任何 LLM 在本仓库执行 ingest / query / lint 时必须遵守本规范。原始资料（Zotero PDF、`raw/note/`）为第一层输入；`wiki/`（主题、概念、实体、项目）与 `wiki/figures/`（图表文字描述及细化索引）为知识层，由 LLM 拥有并维护。
 
-本文件统一定义全库的**目录约定、标签体系、链接规范与维护铁律**；各层条目的编写格式规范见 [[wiki/format-spec]]，批量维护的踩坑经验见 [[log]]（2026-08-12 维护经验条目），更新工作流（机械同步 + 智能合成）见 [[update]]。
+本文件统一定义全库的**目录约定、标签体系、链接规范与维护铁律**；各层条目的编写格式规范见 [[wiki/format-spec]]，更新工作流（机械同步 + 智能合成）见 [[update]]。变更历史与逐次维护记录见 git 提交历史，不在库内另立日志页。
 
 ## 目录约定
 
@@ -10,7 +10,6 @@
 科研Wiki/
 ├── SCHEMA.md              本文件（规范约束）
 ├── index.md               内容导向总索引
-├── log.md                 时间导向日志（含 2026-08 批量维护经验）
 ├── update.md              更新工作流（机械同步 + 智能合成）
 ├── raw/
 │   ├── note/              第一层输入：原始 AI 阅读笔记 (<citekey>.md)
@@ -18,13 +17,13 @@
 │   └── 文献日报/YYYY-MM-DD.md  文献鸟自动推送流（Raw Ingest）
 ├── wiki/
 │   ├── projects/          核心科研项目联动目录（Project 1~7 索引与参考文献池映射）
-│   ├── topics/            按主题分类的聚合页（2 个主题页 + example.md 占位）
-│   ├── entities/          材料/器件/方法实体页（23 正式页）
-│   ├── concepts/          物理概念页（102 正式页）
+│   ├── topics/            按主题分类的聚合页（3 个主题页，命名 `<分类码>-<英文主题>.md`）
+│   ├── entities/          材料/器件/仪器/代码实体页（30 正式页）
+│   ├── concepts/          物理概念页（100 正式页）
 │   ├── figures/           细化图表分类库与总索引 (_index.md + 枢纽页/子页面)
 │   ├── papers/            论文增强卡片（wiki 正式条目，唯一可直链 raw/note 的页面）
 │   ├── write/             学术写作用词库（_index.md + _patterns.md + 五年段 <YYYY>-<YYYY>.md）
-│   ├── ideas/             Research Ideas 库（gap / idea / validation 三型卡片，见 wiki/ideas/format-spec.md）
+│   ├── ideas/             Research Ideas 库（gap / idea / validation / paradigm 四型卡片，见 wiki/ideas/format-spec.md）
 │   └── format-spec.md     条目编写格式规范（六类怎么写）
 ├── answer/                Answer 模式输出目录（只读作答，见下）
 ├── output/                近期维护产出报告目录
@@ -73,7 +72,7 @@
 
 ## 条目编写规范
 
-各层条目的编写格式规范（图表库 / 概念与实体 / 论文条目 / 写作库 / 主题 / 项目 六类）已独立归档，见 [[wiki/format-spec]]；研究想法层（gap / idea / validation 三型卡片）的编写规范见 [[wiki/ideas/format-spec]]。
+各层条目的编写格式规范（图表库 / 概念与实体 / 论文条目 / 写作库 / 主题 / 项目 六类）已独立归档，见 [[wiki/format-spec]]；研究想法层（gap / idea / validation / paradigm 四型卡片）的编写规范见 [[wiki/ideas/format-spec]]。
 
 ## 铁律
 
@@ -90,4 +89,4 @@
 
 ---
 
-> **2026-08 批量维护的踩坑经验已归档至 [[log]]**（2026-08-12 维护经验条目）：frontmatter 混合结构、CJK 双链规则、图表页组织、校验脚本要点、Dataview 十字段审计、概念/实体去重，均不再重复于 SCHEMA。
+> **批量维护中确立的操作规则已就地并入 [[wiki/format-spec]]**：frontmatter 混合结构与 Dataview 十字段铁律、CJK 术语自动双链四条规则、图表页组织与拆分、概念/实体去重与合并模板，均写在 format-spec 对应小节，不重复于 SCHEMA。逐次变更历史见 git 提交记录。

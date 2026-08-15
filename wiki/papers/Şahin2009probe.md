@@ -59,10 +59,11 @@ tags:
 ## 💡 一句话
 首次系统论证LHC上的独家光生过程 pp→pl⁻l⁺p 与 pp→pγγp 可借助前向探测器和等效光子近似，以极低背景探测标量/张量非粒子，其中双光子道能在树图级无SM背景地独立隔离 γγU 耦合。
 ## 🔗 Wiki 双链
-  - 年度 [[../write/2005-2009|2009]]
   - 概念 [[../concepts/biphoton]]
+  - 年度 [[../write/2005-2009|2009]]
   - 相关论文 [[../../raw/note/Şahin2009probe]]
   - （本文为高能物理唯象学，与wiki现有凝聚态/材料概念、实体条目无对应，故不强行双链。）
+
 ## 🆕 新概念/实体建议
   - [[../concepts/unparticles|unparticles]]（非粒子）：Georgi 2007 提出的具有非整数标度维度 d_U、标度不变的新物理sector，传播子含 sin(d_Uπ) 与 (−P²)^(d_U−2)，表现为连续质谱而非共振峰。属高能物理概念，与当前wiki主题距离远，可酌情新建。
   - [[../concepts/equivalent-photon-approximation|equivalent-photon-approximation]]（等效光子近似, EPA）：将高能带电粒子周围的准实虚光子云谱化，把 pp→pXp 卷积为 γγ→X 的通用方法；在其它涉及带电粒子周边光子场的主题（如粒子束辐射、光核反应）中可复用，但同样偏HEP。

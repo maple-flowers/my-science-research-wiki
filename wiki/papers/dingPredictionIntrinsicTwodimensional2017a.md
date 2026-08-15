@@ -94,13 +94,30 @@ Ding, Zhu, Wang, Gao, Xiao, Gu, Zhang & Zhu，2017，Nature Communications 8:149
 通过第一性原理计算预测以 In2Se3 为代表的 III2-VI3 族五元层（QL）范德华材料是本征二维铁电体，兼具可反转的面外与面内自发极化，反转能垒低至 0.066 eV，并能在单层极限下抵抗退极化场。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2d-materials]]、[[../concepts/berry-phase]]、[[../concepts/polarization-switching]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/schottky-barrier|肖特基势垒]]、[[../concepts/in-plane-out-of-plane-coupling|面内-面外极化耦合]]、[[../concepts/quintuple-layer|五元层(QL)]]
-  - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/TMDs]]、[[../entities/SnTe]]、[[../entities/PbTiO3]]、[[../entities/graphene|石墨烯]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../concepts/domain-wall]]
-  - 年度 [[../write/2015-2019|2017]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/berry-phase]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/ferroelectricity|铁电性]]
+  - 概念 [[../concepts/depolarization-field|退极化场]]
+  - 概念 [[../concepts/schottky-barrier|肖特基势垒]]
+  - 概念 [[../concepts/in-plane-out-of-plane-coupling|面内-面外极化耦合]]
+  - 概念 [[../concepts/quintuple-layer|五元层(QL)]]
+  - 概念 [[../concepts/domain-wall]]
   - 概念 [[../concepts/vdW-heterostructure]]
+  - 实体 [[../entities/In2Se3]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/SnTe]]
+  - 实体 [[../entities/PbTiO3]]
+  - 实体 [[../entities/graphene|石墨烯]]
   - 实体 [[../entities/WSe2]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/electronic-bands]]
+  - 年度 [[../write/2015-2019|2017]]
   - 相关论文 [[../../raw/note/dingPredictionIntrinsicTwodimensional2017a]]
+
 ## 🆕 新概念/实体建议
   - [[../entities/iii2-vi3-compounds|iii2-vi3-compounds]]（III2-VI3族化合物）：通式 III2-VI3（III=Al/Ga/In，VI=S/Se/Te）的层状半导体家族，本文预测其 QL 形式普遍具有本征二维铁电性。
   - [[../concepts/concerted-motion|concerted-motion]]（协同运动反转机制）：本文发现观察到的低能垒极化反转路径——上三层（Se-In-Se）整体横向滑移、中心 Se 旋转 60°、顶二层再滑移，将能垒从直接位移的 0.85 eV 降至 0.066 eV。

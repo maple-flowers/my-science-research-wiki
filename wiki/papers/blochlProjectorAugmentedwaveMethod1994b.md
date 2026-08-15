@@ -99,12 +99,18 @@ P. E. Blöchl，1994，Physical Review B 50(24), 17953–17979，DOI: 10.1103/Ph
   - 概念 [[../concepts/additive-augmentation|加法缀加]]
   - 概念 [[../concepts/frozen-core-approximation|冻结芯近似]]
   - 概念 [[../concepts/overlap-operator|重叠算符]]
+  - 概念 [[../concepts/pulay-force]]
+  - 概念 [[../concepts/LAPW]]
+  - 概念 [[../concepts/norm-conservation]]
+  - 概念 [[../concepts/Car-Parrinello]]
   - 实体 [[../entities/VASP]]
   - 实体 [[../entities/Wannier90]]（PAW 部分波形式天然适合构造 Wannier 轨道）
+  - 实体 [[../entities/Fe2]]
+  - 实体 [[../entities/LMTO]]
+  - 实体 [[../entities/MnFO3]]
   - 年度 [[../write/1945-1999|1994]]
-  - 概念 [[../concepts/pulay-force]]、[[../concepts/LAPW]]、[[../concepts/norm-conservation]]、[[../concepts/Car-Parrinello]]
-  - 实体 [[../entities/Fe2]]、[[../concepts/Car-Parrinello]]、[[../entities/LMTO]]、[[../entities/MnFO3]]、[[../concepts/LAPW]]
   - 相关论文 [[../../raw/note/blochlProjectorAugmentedwaveMethod1994b]]
+
 ## 📊 关键图表
   - 图1：Mn 原子的全电子分波、赝分波与投影函数（s/p/d 通道）
   ![Mn 的分波与投影函数](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_1_MBXMFE5N.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]

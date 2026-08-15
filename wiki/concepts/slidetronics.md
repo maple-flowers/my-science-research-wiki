@@ -9,7 +9,7 @@ papers: [chenStrongSlidingFerroelectricity2024, wuSlidingFerroelectricity2D2021a
 
 滑移电子学 (Slidetronics) 是一门新兴的二维材料电子学分支，其核心在于利用范德华层状材料之间的**层间平移滑动 (Interlayer Sliding)** 来调控其宏观物理性质，如铁电极化、自旋纹理、贝里曲率及超导态等。
 
-## Grandma 👵 太奶导读
+## 👵 太奶导读
 
 太奶，这个 **Slidetronics**（滑移电子学）名字洋气，但原理跟咱们以前那种老式的**推拉尺**（或者是带机关的化妆镜）差不多。
 这种材料像是一本由极薄的磁性纸叠成的书。

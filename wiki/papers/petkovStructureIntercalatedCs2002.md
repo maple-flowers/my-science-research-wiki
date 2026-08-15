@@ -84,11 +84,16 @@ Petkov, Billinge, Vogt, Ichimura, Dye，2002，Physical Review Letters 89, 07550
   - 概念 [[../concepts/mott-insulator|莫特绝缘体]]
   - 概念 [[../concepts/intercalation|插层]]
   - 概念 [[../concepts/confined-electron-gas|受限电子气]]
+  - 概念 [[../concepts/diffuse-scattering]]
+  - 概念 [[../concepts/bragg-peaks]]
+  - 概念 [[../concepts/zigzag-chain]]
+  - 实体 [[../entities/PDFFIT]]
+  - 实体 [[../entities/Cs]]
+  - 实体 [[../entities/ITQ-4]]
+  - 实体 [[../entities/RAD]]
   - 图表 [[../figures/mathematical-models|数学模型与物理公式]]
   - 年度 [[../write/2000-2004|2002]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 概念 [[../concepts/diffuse-scattering]]、[[../concepts/bragg-peaks]]、[[../concepts/zigzag-chain]]
-  - 实体 [[../entities/PDFFIT]]、[[../entities/Cs]]、[[../entities/ITQ-4]]、[[../entities/RAD]]
   - 相关论文 [[../../raw/note/petkovStructureIntercalatedCs2002]]
 
 ## 🆕 新概念/实体建议

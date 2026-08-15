@@ -88,23 +88,28 @@ Wrzyszczyński A.，2010，*Polimery*，55(3), 167–171，DOI: 10.14314/polimer
 本文系统综述双光子聚合引发剂的物理机制（顺序/同时双光子吸收）、分子设计准则（D-π-D / D-π-A-π-D / A-π-D-π-A）、代表性化合物类别（二苯乙烯衍生物、噻嗪染料、三苯胺、香豆素/酮香豆素二元体系等）及其在三维微纳加工中的应用优势。
 ## 🔗 Wiki 双链
 本文涉及且 wiki 中已存在的条目：
+  - 概念 [[../concepts/two-photon-absorption-cross-section|双光子吸收截面]]
+  - 概念 [[../concepts/nonlinear-optics]]
+  - 概念 [[../concepts/two-photon-absorption|双光子吸收]]
+  - 概念 [[../concepts/two-photon-polymerization|双光子聚合]]
+  - 概念 [[../concepts/photoinitiator|光引发剂]]
+  - 概念 [[../concepts/d-pi-a-architecture]]
+  - 概念 [[../concepts/photopolymerization|光聚合]]
+  - 概念 [[../concepts/photoinduced-electron-transfer|光诱导电子转移]]
+  - 概念 [[../concepts/exciplex|激基复合物]]
+  - 概念 [[../concepts/ict-mechanism]]
+  - 实体 [[../entities/coumarin]]
+  - 实体 [[../entities/diphenyliodonium-salt]]
+  - 实体 [[../entities/habi]]
+  - 实体 [[../entities/femtosecond-laser]]
+  - 实体 [[../entities/xanthene-dye]]
+  - 实体 [[../entities/thiazine-dye]]
+  - 实体 [[../entities/triphenylamine]]
+  - 实体 [[../entities/stilbene|二苯乙烯]]
   - 年度 [[../write/2010-2014|2010]]
   - 项目 [[../projects/project-1-two-photon]]
-  - 概念 [[../concepts/two-photon-absorption-cross-section]]、[[../concepts/nonlinear-optics]]
-  - 实体 [[../entities/coumarin]]、[[../entities/diphenyliodonium-salt]]、[[../entities/habi]]、[[../entities/femtosecond-laser]]、[[../entities/xanthene-dye]]、[[../entities/thiazine-dye]]、[[../entities/triphenylamine]]
   - 相关论文 [[../../raw/note/WRZYSZCZYNSKI2010initiators]]
-  - 概念：
-    - [[../concepts/two-photon-absorption|双光子吸收]]
-    - [[../concepts/two-photon-polymerization|双光子聚合]]
-    - [[../concepts/photoinitiator|光引发剂]]
-    - [[../concepts/d-pi-a-architecture]]
-    - [[../concepts/two-photon-absorption-cross-section|双光子吸收截面]]
-    - [[../concepts/photopolymerization|光聚合]]
-    - [[../concepts/photoinduced-electron-transfer|光诱导电子转移]]
-    - [[../concepts/exciplex|激基复合物]]
-    - [[../concepts/ict-mechanism]]
-  - 实体：
-    - [[../entities/stilbene|二苯乙烯]]
+
 ## 🆕 新概念/实体建议
   - [[../concepts/two-photon-absorption|two-photon-absorption]] — 双光子吸收（TPA），非线性光学过程，分子同时吸收两个低能光子，概率正比于 I₀²
   - [[../concepts/two-photon-polymerization|two-photon-polymerization]] — 双光子聚合（TPP），利用 TPA 在激光焦点 λ³ 体素内引发聚合的真三维微加工技术

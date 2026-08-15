@@ -89,18 +89,34 @@ Koki Yanagizawa, Katsuaki Sugawara, Tappei Kawakami, Ryuichi Ando, Ken Yaegashi,
 通过 MBE 衬底温度和表面 K 沉积两种手段调控单层 1T-TiTe₂ 的载流子浓度，用 ARPES 直接观察到 2×2 CDW 仅在电子-空穴精确补偿的极窄掺杂窗口出现，从而确认费米面嵌套（而非激子凝聚）是该 CDW 的主导驱动力。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2d-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/fermi-surface-nesting|费米面嵌套]]、[[../concepts/exciton-condensation|激子凝聚]]、[[../concepts/band-folding|能带折叠]]、[[../concepts/carrier-tuning|载流子调谐]]、[[../concepts/electronic-susceptibility|电子磁化率]]、[[../concepts/electron-phonon-coupling|电子-声子耦合]]
-  - 实体 [[../entities/TMDs]]、[[../entities/TiTe2|TiTe₂]]、[[../entities/TiSe2|TiSe₂]]、[[../entities/bilayer-graphene|双层石墨烯]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking|极性金属、拓扑相、CDW 与相变]]
-  - 年度 [[../write/2020-2024|2023]]
-  - 项目 [[../projects/project-7-cdw-charge-density-wave]]、[[../projects/project-5-snte-ferroelectric-sim]]
+  - 概念 [[../concepts/charge-density-wave]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/fermi-surface-nesting|费米面嵌套]]
+  - 概念 [[../concepts/exciton-condensation|激子凝聚]]
+  - 概念 [[../concepts/band-folding|能带折叠]]
+  - 概念 [[../concepts/carrier-tuning|载流子调谐]]
+  - 概念 [[../concepts/electronic-susceptibility|电子磁化率]]
+  - 概念 [[../concepts/electron-phonon-coupling|电子-声子耦合]]
   - 概念 [[../concepts/orbital-selective-hybridization]]
-  - 实体 [[../entities/Quantum-ESPRESSO]]、[[../entities/potassium]]、[[../entities/SiC]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/TiTe2|TiTe₂]]
+  - 实体 [[../entities/TiSe2|TiSe₂]]
+  - 实体 [[../entities/bilayer-graphene|双层石墨烯]]
+  - 实体 [[../entities/Quantum-ESPRESSO]]
+  - 实体 [[../entities/potassium]]
+  - 实体 [[../entities/SiC]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/electronic-bands]]
+  - 图表 [[../figures/heterostructures-stacking|极性金属、拓扑相、CDW 与相变]]
+  - 年度 [[../write/2020-2024|2023]]
+  - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/yanagizawaSwitchingChargedensityWave2023]]
 
 ## 🆕 新概念/实体建议
-  - [[../entities/Quantum-Espresso|Quantum-Espresso]] — 本文使用的第一性原理平面波 DFT 软件包（GGA-PBE，60 Ry 截断，12×12×1 k 网格，真空层 >10 Å）。
-  - 方法标签可在 wiki/concepts 下补：[[../concepts/ARPES]]、[[../concepts/mbe-rheed|mbe-rheed]]、[[../concepts/k-deposition-doping|k-deposition-doping]]。
+  - [[../entities/Quantum-ESPRESSO|Quantum-Espresso]] — 本文使用的第一性原理平面波 DFT 软件包（GGA-PBE，60 Ry 截断，12×12×1 k 网格，真空层 >10 Å）。
+  - 方法标签可在 wiki/concepts 下补：[[../entities/ARPES]]、[[../entities/mbe-rheed|mbe-rheed]]、[[../concepts/k-deposition-doping|k-deposition-doping]]。
 
 ## 📊 关键图表
   - **图1：原始单层 1T-TiTe₂ 的电子结构与 2×2 CDW 指纹**

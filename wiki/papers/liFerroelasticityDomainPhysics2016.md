@@ -86,7 +86,7 @@ Wenbin Li & Ju Li，2016，Nature Communications 7:10843，DOI [10.1038/ncomms10
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/ferroelasticity]]
   - 概念 [[../concepts/strain-engineering]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/topological-defects]]
   - 概念 [[../concepts/density-functional-theory]]
   - 概念 [[../concepts/multiferroicity]]
@@ -95,11 +95,11 @@ Wenbin Li & Ju Li，2016，Nature Communications 7:10843，DOI [10.1038/ncomms10
   - 概念 [[../concepts/spontaneous-strain|自发应变]]
   - 概念 [[../concepts/shape-memory-effect|形状记忆效应]]
   - 概念 [[../concepts/nudged-elastic-band|NEB 微动弹性带方法]]
+  - 概念 [[../concepts/domain-wall]]
   - 实体 [[../entities/TMDs]]
   - 实体 [[../entities/WTe2]]
-  - 实体 [[../concepts/domain-wall]]
   - 实体 [[../entities/VASP]]
-  - 图表 [[../concepts/domain-wall]]
+  - 图表 [[../figures/domain-walls-structures|畴结构与畴壁]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/mathematical-models]]
   - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
@@ -183,7 +183,7 @@ Wenbin Li & Ju Li，2016，Nature Communications 7:10843，DOI [10.1038/ncomms10
   3. 在 (Δa/a₀, Δb/b₀) 双轴应变空间中扫描 11×11 网格并二维样条插值得到势能面，O1 与 O2/O3 的能量等值线在百分之几应变处交叉；双轴应变不破坏 y 方向镜像对称，故 O2/O3 能量简并，而 ±3.5% 剪切应变 ε_xy 可打破简并、选择性稳定 O3 或 O2。
   4. 沿二聚化金属链方向（a 轴）单轴拉伸、b 轴零应力弛豫条件下，O1 与 O2/O3 能量曲线的公切线切点位于 1% 和 4% 应变处，表明应变低至 1% 时即进入变体共存区，比双轴交叉点更易实验实现；这对应力-应变曲线上的"力平台"。
   5. NEB（含 generalized solid-state NEB）计算给出 O1↔O2 切换势垒仅 0.19–0.22 eV/f.u.，远低于 1T′↔2H 相变势垒（~0.8 eV/f.u.）；按 10 THz 尝试频率估算，0.2 eV 势垒对应 ~0.2 ns 时间尺度，室温下可快速发生。势垒低的几何原因是变体切换只扭曲八面体配位，而 1T′→2H 需把配位从八面体彻底改为三角棱柱。
-  6. 三种铁弹畴壁（O1–O2、O1–O3、O2–O3）由 120° 旋转对称相互联系、能量简并；在[[../concepts/2D-materials|二维材料]]中它们是准一维线缺陷而非三维中的二维界面。DFT 计算的畴壁[[../concepts/formation-energy|形成能]]为 MoS₂ 27、MoSe₂ 46、MoTe₂ 40、WS₂ 22、WSe₂ 51、WTe₂ 52 meV·Å⁻¹，远低于三维位错形成能（数百 meV/Å），保证畴壁在外力下可滑移。
+  6. 三种铁弹畴壁（O1–O2、O1–O3、O2–O3）由 120° 旋转对称相互联系、能量简并；在[[../concepts/2d-materials|二维材料]]中它们是准一维线缺陷而非三维中的二维界面。DFT 计算的畴壁[[../concepts/formation-energy|形成能]]为 MoS₂ 27、MoSe₂ 46、MoTe₂ 40、WS₂ 22、WSe₂ 51、WTe₂ 52 meV·Å⁻¹，远低于三维位错形成能（数百 meV/Å），保证畴壁在外力下可滑移。
   7. 应变诱导变体切换在 MoS₂、MoSe₂、MoTe₂、WS₂、WSe₂、WTe₂ 中均成立（补充图1、图4），是 1T′ 相 TMD 家族的普适特性；对基态为 2H 的材料，可通过碱金属（Li）插层[[../concepts/charge-transfer|电荷转移]]、Re 替位掺杂、激光烧蚀、CVD 等相工程手段稳定 1T′ 相。
   8. 实验验证靶标：应力-应变曲线的滞后回线与力平台；暗场 TEM 原位观测畴壁迁移；SAED 衍射花样旋转（变体切换伴随布拉维晶格旋转）；偏振拉曼/吸收映射畴结构。WTe₂ 与 MoTe₂ 因体相单晶易得而成为首选验证体系。
   9. 应用展望：若 1T′ 相能在外场（热、电、化学、光）下与 1T/2H 可逆相变，则 MX₂ 单层可成为二维形状记忆材料，原理类比三维形状记忆合金（奥氏体-马氏体相变+变体切换），用于 NEMS 超薄致动器；1T′ 相的量子自旋霍尔绝缘性使其铁弹畴壁作为一维[[../concepts/topological-defects|拓扑缺陷]]可能承载新奇拓扑电子态，开启"[[../concepts/domain-wall-engineering|畴壁工程]]"。

@@ -79,12 +79,28 @@ Guan-Yong Wang, Weiyu Xie, Dan Xu, Hai-Yang Ma, Hao Yang, Hong Lu, Hao-Hua Sun, 
 ## 💡 一句话
 首次在WTe2单晶表面实验观察到孪晶畴界（TDB），通过STM-GPA应变定量与DFT广义层错能计算证明其为位移驱动而非热驱动，需约7%临界剪切应变克服起始势垒。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/strain-engineering]]、[[../concepts/ferroelasticity]]、[[../concepts/topological-defects]]、[[../concepts/charge-density-wave]]、[[../concepts/twin-domain-boundary|孪晶畴界]]、[[../concepts/generalized-stacking-fault-energy|广义堆垛层错能（GSFE）]]、[[../concepts/geometric-phase-analysis|几何相位分析（GPA）]]、[[../concepts/displacement-induced-twinning|位移诱导孪晶]]、[[../concepts/peierls-framework|Peierls框架]]
-  - 实体 [[../entities/WTe2]]、[[../entities/TMDs]]、[[../concepts/domain-wall]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/experimental-setups]]、[[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃与器件应用]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/ferroelasticity]]
+  - 概念 [[../concepts/topological-defects]]
+  - 概念 [[../concepts/charge-density-wave]]
+  - 概念 [[../concepts/twin-domain-boundary|孪晶畴界]]
+  - 概念 [[../concepts/generalized-stacking-fault-energy|广义堆垛层错能（GSFE）]]
+  - 概念 [[../concepts/geometric-phase-analysis|几何相位分析（GPA）]]
+  - 概念 [[../concepts/displacement-induced-twinning|位移诱导孪晶]]
+  - 概念 [[../concepts/peierls-framework|Peierls框架]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/WTe2]]
+  - 实体 [[../entities/TMDs]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/experimental-setups]]
+  - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃与器件应用]]
   - 年度 [[../write/2015-2019]]
-  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]、[[../projects/project-7-cdw-charge-density-wave]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/wangFormationMechanismTwin2019]]
+
 ## 🆕 新概念/实体建议
   - [[../concepts/ripplocation|ripplocation]]（褶皱位错）：范德华层状材料中通过局部屈曲形成的类位错面缺陷，本文观察到的窄而不对称褶皱与此概念相关。
 ## 📊 关键图表

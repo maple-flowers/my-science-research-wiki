@@ -87,12 +87,14 @@ Jing-Jing Zheng、Jingyu Li、Rong-Rong Ma、Fengkai Guo、Jiang-Jiang Ma、Peng
   - 概念 [[../concepts/2d-mof|二维金属-有机框架 2D-MOF]]（金属离子与有机配体配位自组装形成的二维晶体，Cu3(CO)6/Cu3(CS)6 是其中的 π-d 共轭导电子类）
   - 概念 [[../concepts/anisotropic-superconductivity|各向异性超导]]（单能隙、Δnk 在费米面上连续但大小随轨道/带变化）
   - 实体 [[../entities/Wannier90|Wannier90]]（EPW 用最大局域化 Wannier 函数做电声插值）
-  - 实体 [[../entities/TMDs|TMDs]]、[[../entities/MXenes|MXenes]]（引言中作为 2D 材料家族并列提及）
+  - 实体 [[../entities/TMDs|TMDs]]
+  - 实体 [[../entities/MXenes|MXenes]]（引言中作为 2D 材料家族并列提及）
   - 实体 [[../entities/Cu3CO6|Cu3(CO)6]]（本文主角材料，P6/mmm、a=7.732 Å、Cu 四配位 kagome、已在 Cu(111)/Ag(111) 上合成）
   - 实体 [[../entities/Cu3CS6|Cu3(CS)6 / Cu-BHT]]（硫代类似物，2D-MOF 中首个被预测 Tc=4.43 K 并在块体 ≈0.25 K 观测到超导的体系）
   - 实体 [[../entities/Quantum-ESPRESSO|Quantum ESPRESSO]]（DFT/DFPT 计算软件）
   - 实体 [[../entities/EPW|EPW]]（基于 Wannier 插值计算电声耦合与各向异性 Eliashberg 方程的代码）
-  - 图表 [[../figures/electronic-bands]]、[[../figures/heterostructures-stacking|自旋电子学与应变工程 (Spintronics & Strain Engineering)]]
+  - 图表 [[../figures/electronic-bands]]
+  - 图表 [[../figures/heterostructures-stacking|自旋电子学与应变工程 (Spintronics & Strain Engineering)]]
   - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/zhengAnisotropicSuperconductivityTwodimensional2025]]

@@ -79,11 +79,23 @@ Niu, Weng, Li, Guo, Wang, Han, Pan, Lin et al.，2021，*Advanced Science* 8(20)
 通过全流程互联惰性气氛保护系统，用原子分辨 HAADF-STEM 直接可视化了空气敏感单层 1T'-WTe2 的大面积完整晶格，发现其本征的、只沿单一晶面方向传播的各向异性褶皱，以及该褶皱对 Te 空位分布的择优调控。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2d-materials]]、[[../concepts/strain-engineering]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/air-sensitive-2d-materials|空气敏感二维材料]]、[[../concepts/anisotropic-rippling|各向异性褶皱]]、[[../concepts/defect-engineering|缺陷工程]]、[[../concepts/low-symmetry-lattice|低对称性晶格]]、[[../concepts/vacancy-formation-energy|空位形成能]]
-  - 实体 [[../entities/WTe2]]、[[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/graphene|石墨烯]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/experimental-setups]]、[[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - 年度 [[../write/2020-2024|2021]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/spin-orbit-coupling]]
+  - 概念 [[../concepts/air-sensitive-2d-materials|空气敏感二维材料]]
+  - 概念 [[../concepts/anisotropic-rippling|各向异性褶皱]]
+  - 概念 [[../concepts/defect-engineering|缺陷工程]]
+  - 概念 [[../concepts/low-symmetry-lattice|低对称性晶格]]
+  - 概念 [[../concepts/vacancy-formation-energy|空位形成能]]
+  - 实体 [[../entities/WTe2]]
+  - 实体 [[../entities/h-BN]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/graphene|石墨烯]]
   - 实体 [[../entities/PWmat]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/experimental-setups]]
+  - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 年度 [[../write/2020-2024|2021]]
   - 相关论文 [[../../raw/note/niuDirectVisualizationLargeScale2021]]
 
 ## 🆕 新概念/实体建议
@@ -141,7 +153,7 @@ Niu, Weng, Li, Guo, Wang, Han, Pan, Lin et al.，2021，*Advanced Science* 8(20)
   - preferential defect formation（择优缺陷形成）
   - ripple-modulated strain / defect engineering（波纹调制应变 / 缺陷工程）
 
-  - [[../concepts/haadf-stem|haadf-stem]]
+  - [[../entities/haadf-stem|haadf-stem]]
 ## ✏️ 可写入 Wiki 的要点
   1. 全流程互联惰性气氛系统（CVD 炉—手套箱—真空转移杆—TEM）使空气敏感单层 1T'-WTe2 在生长、转移、表征全过程中隔绝空气；空气中暴露 5 min 光学衬度即褪色，惰性环境保护 48 h 无变化，空气中制备的 STEM 样品晶格被氧化纳米颗粒破坏，而保护环境下呈现大面积完整原子晶格。
   2. CVD 生长条件：15 mg NaCl + 60 mg WO3 前驱体置于加热区中心，Te 粉在上游 9 cm；820 °C 保温 5 min，80 sccm Ar + 20 sccm H2 载气；用异丙醇辅助直接润湿转移到 Quantifoil Au 网，HF-H2O (1:4) 刻蚀氧化硅剥离。
@@ -150,6 +162,6 @@ Niu, Weng, Li, Guo, Wang, Han, Pan, Lin et al.，2021，*Advanced Science* 8(20)
   5. 双轴倾转电子衍射给出宏观验证：绕 α 轴倾转时 (330)、(360) 衍射斑 FWHM 显著展宽（对应 (110)/(120) 晶面原子集体位移），而绕 β 轴时 (3−30)、(3−60) 几乎不变；[[../concepts/reciprocal-relrod|倒易杆]]锥角 12°–16°，结合 HAADF测得横向周期 L≈12 nm，得褶皱平均高度 ≈2.5 nm（AFM 佐证）。与 MoS2 单层各向同性褶皱形成对比。
   6. 褶皱起源：1T' 相低对称性（无旋转对称）和各向异性 W–Te 键导致沿不同晶向对应变的响应/容忍度不同，热扰动下应变集中于某一择优面释放；DFT 能量景观支持该机制。
   7. 1T'-WTe2 单胞低对称性产生 4 个不等价 Te 空位（site 1/2 × up/down）；统计（多个薄片、约 1000 nm²、P<0.05）表明无论哪种位点，Te 空位都优先聚集在弯曲的挤压侧（constrictive side），形貌诱导变形压倒了各向异性晶格键合的作用。
-  8. DFT（PWmat，PBE，SG15 [[../concepts/norm-conserving-pseudopotential|模守恒赝势]]，50 Ryd 截断，DFT-D2 色散校正）通过固定 W 原子 z 坐标为正弦函数 Δz=d·sin(2πy/b) 构建弯曲超胞，证实挤压侧[[../concepts/vacancy-formation-energy|空位[[../concepts/formation-energy|形成能]]]]更低，且弯曲越大形成能越低；site 1 因 W–Te 键更近、对应变更敏感，形成能波动比 site 2 更剧烈。Te 空位形成能公式 E_f = E_Te + E(W32Te63) − 32 E(WTe2)。
+  8. DFT（PWmat，PBE，SG15 [[../concepts/norm-conserving-pseudopotential|模守恒赝势]]，50 Ryd 截断，DFT-D2 色散校正）通过固定 W 原子 z 坐标为正弦函数 Δz=d·sin(2πy/b) 构建弯曲超胞，证实挤压侧[[../concepts/vacancy-formation-energy|空位形成能]]更低，且弯曲越大形成能越低；site 1 因 W–Te 键更近、对应变更敏感，形成能波动比 site 2 更剧烈。Te 空位形成能公式 E_f = E_Te + E(W32Te63) − 32 E(WTe2)。
   9. 褶皱还调制电子结构：考虑 SOC 时 WTe2 由[[../concepts/half-metallicity]]变为半导体，褶皱使 SOC 带隙 from 平坦时 0.18 eV 增大到 0.22 eV，提示可通过褶皱形貌连续调控带隙。
   10. 晶界处仅当晶界应变方向在某一晶粒内垂直于择优晶面时才诱发该侧褶皱；部分氧化时连续褶皱被软化为同向（同面外方向）的阶梯状精细结构以释放局域应变，说明外来源（晶界、氧化团簇）的定向应变可各向异性地驱动/调制褶皱。

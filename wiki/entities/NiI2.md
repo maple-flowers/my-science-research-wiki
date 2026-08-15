@@ -14,7 +14,7 @@ papers: [songEvidenceSinglelayerVan2022, fiebigEvolutionMultiferroics2016, Ferro
 
 # 二碘化镍 (NiI2) / Nickel Iodide
 二碘化镍 (NiI₂) 是一种范德华层状磁性半导体，是目前已知唯一在单层极限下仍保持本征**第二类多铁性 (Type-II Multiferroicity)** 的材料。其多铁性起源于非对称的螺旋磁序（Proper-screw）对晶格对称性的打破，是研究二维磁电耦合物理的里程碑体系。
-## Grandma 👵 太奶导读
+## 👵 太奶导读
 太奶，这个 **NiI2** 可是材料界最近的大红人。
 它长得像是一叠由碘原子和镍原子夹成的“紫金威化饼”。
 以前大家都觉得，材料要是薄到只有一层原子那么厚，它的磁性和电性就很难保持稳定，早晚得散架。

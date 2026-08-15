@@ -66,8 +66,9 @@ G. Kresse, J. Furthmüller et al.，1996，Computational Materials Science 6, 15
   - 实体 [[../entities/VASP]]
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/1945-1999|1996]]
-  - 主题 [[../topics/材料模拟计算设计]]
+  - 主题 [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
   - 相关论文 [[../../raw/note/kresseEfficiencyAbinitioTotal1996a]]
+
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体，每个给 kebab-case 建议文件名 + 一句说明
   - [[../concepts/self-consistent-field-cycle|self-consistent-field-cycle]]：自洽场（SC）循环，迭代求解 KS 方程并混合电荷密度直至输入/输出密度一致的标准电子基态求解框架，本文论证其优于直接最小化 KS 泛函。
@@ -175,7 +176,6 @@ wiki 中没有、但值得新建的概念或材料实体，每个给 kebab-case 
   - Preconditioned residual vector / 预条件残差向量
   - Ultrasoft pseudopotential (US-PP) / 超软赝势
 ## ✏️ 可写入 Wiki 的要点
-5-10 条 bullet，是可直接用于第二步充实 wiki 条目的具体事实、机制、数据、公式、结论
   - **SC 方法 vs 直接最小化**：在液态 Ge、Pd(111)、C(100) 三类基准上，基于"迭代对角化 + 电荷混合"的自洽循环比直接最小化 KS 泛函的共轭梯度法（CGa/SDa）快约 3-5 倍，且对金属体系鲁棒性更强；根本原因是混合方案可保留全部历史步信息，而直接 CG 受限于线最小化精度。
   - **RMM-DIIS 核心机制**：最小化目标为残差范数 ⟨R|R⟩ 而非 Rayleigh 商 ⟨φ|H|φ⟩/⟨φ|S|φ⟩；因残差范数在每个本征态处都是无约束最小值 0，故无需将搜索方向显式正交化到其它能带，避免了 T_ort≈2 N_b² N_PW≈2N³ 的操作与内存带宽瓶颈，使算法接近 N²ln N 标度；同时各能带优化彼此解耦，天然适合并行。
   - **RMM-DIIS 实现细节**：每步沿 K|R⟩ 方向以步长 λ（取首步 Rayleigh 商线最小化结果，限制在 0.1–1）做试探，再在 {|φ_i⟩, |R_i⟩} 子空间中通过求解厄米本征问题 Σⱼ⟨R_i|R_j⟩α_j=λα_i 做 DIIS 组合；初始化采用随机波函数 + 三次扫描（每次含一次[[../concepts/subspace-rotation|子空间旋转]]与两次最陡下降），随后再切换到 RMM，以避免"能带遗漏"。

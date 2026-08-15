@@ -81,14 +81,27 @@ Vikas Gulhare, S J Dhoble, R S Kher，2021，*International Journal of Science a
 ## 💡 一句话
 首次报道 γ 辐照可在 Ba₃(VO₄)₂:Eu 荧光粉中诱发出以 606 nm 为中心的橙红色机械发光（ML），其强度在 Eu 0.1 mol%、载荷质量增大、γ 剂量约 1.4 kGy 饱和时取得极值，并提出 Eu³⁺/Eu²⁺ 价态转换 + VO₄²⁻ 空穴陷阱的缺陷介导模型。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/mechanoluminescence|机械发光]]、[[../concepts/concentration-quenching|浓度猝灭]]、[[../concepts/radiation-induced-defects|辐射诱导缺陷]]、[[../concepts/charge-trapping|电荷俘获]]
-  - 实体 [[../entities/Ba3VO4-2|正钒酸钡 Ba₃(VO₄)₂]]、[[../entities/europium-dopant|铕掺杂离子 Eu²⁺/Eu³⁺]]
-  - 图表 [[../figures/optical-spectra]]、[[../figures/experimental-setups]]
+  - 概念 [[../concepts/mechanoluminescence|机械发光]]
+  - 概念 [[../concepts/concentration-quenching|浓度猝灭]]
+  - 概念 [[../concepts/radiation-induced-defects|辐射诱导缺陷]]
+  - 概念 [[../concepts/charge-trapping|电荷俘获]]
+  - 概念 [[../concepts/energy-transfer]]
+  - 概念 [[../concepts/hole-center]]
+  - 概念 [[../concepts/solid-state-lighting]]
+  - 概念 [[../concepts/defect-mediated-luminescence]]
+  - 概念 [[../concepts/gamma-irradiation]]
+  - 实体 [[../entities/Ba3VO4-2|正钒酸钡 Ba₃(VO₄)₂]]
+  - 实体 [[../entities/europium-dopant|铕掺杂离子 Eu²⁺/Eu³⁺]]
+  - 实体 [[../entities/PMT]]
+  - 实体 [[../entities/JCPDS]]
+  - 实体 [[../entities/storage-oscilloscope]]
+  - 实体 [[../entities/Co-60]]
+  - 图表 [[../figures/optical-spectra]]
+  - 图表 [[../figures/experimental-setups]]
   - 年度 [[../write/2020-2024|2021]]
   - 项目 [[../projects/project-3-mechanoluminescence-nn]]
-  - 概念 [[../concepts/energy-transfer]]、[[../concepts/hole-center]]、[[../concepts/solid-state-lighting]]、[[../concepts/defect-mediated-luminescence]]、[[../concepts/gamma-irradiation]]
-  - 实体 [[../entities/PMT]]、[[../entities/JCPDS]]、[[../entities/storage-oscilloscope]]、[[../entities/Co-60]]
   - 相关论文 [[../../raw/note/Gulhare2021mechanoluminescence]]
+
 ## 📊 关键图表
 笔记未附图片（manifest 中 figures 列表为空；raw/figures 目录下仅有 manifest.json，无 fig_*.png）。以下依据原文转述逐图给出文字描述，未伪造图片路径。
 

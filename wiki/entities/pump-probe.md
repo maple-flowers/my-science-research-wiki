@@ -5,9 +5,10 @@ type: concept
 status: developing
 domain: [ultrafast-spectroscopy, photophysics, carrier-dynamics]
 mechanism: 使用强脉冲（泵浦光）激发样品，间隔一定延迟时间后用弱脉冲（探测光）记录样品的动态演化过程
-related_concepts: [ultrafast-spectroscopy, electromagnon, phase-difference]
+related_concepts: [electromagnon, phase-difference]
 papers: [gaoGiantChiralMagnetoelectric2024a, Yarai2005optical]
 updated: 2026-08
+entities: [ultrafast-spectroscopy]
 ---
 
 # 泵浦-探测技术 / Pump-Probe
@@ -49,7 +50,7 @@ updated: 2026-08
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
-- [[../concepts/ultrafast-spectroscopy|超快光谱学]]
+- [[../entities/ultrafast-spectroscopy|超快光谱学]]
 - [[../concepts/second-harmonic-generation|二次谐波产生]]
 - [[../concepts/electromagnon|电磁振子]]
 

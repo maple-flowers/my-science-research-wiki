@@ -17,8 +17,8 @@ local_path: E:\swan_goose\燕燕\香香\项目四：lsl老师的ttf分子计算\
 针对 TTF（四硫富瓦烯）分子体系进行的分子动力学与机器学习势能计算，涵盖 UFF 力场、LAMMPS 计算 TTF/TTF-MACE 以及训练 DeepMD 模型分析层间距与层间作用能。项目核心在于通过理论模拟精确描述 TTF 分子在不同电荷态下的构型演化及其在 π-π 堆叠柱中的长程相互作用。
 
 ## 2. 与科研 Wiki 知识库的联系
-- **相关材料/实体**：[[../entities/TTF|TTF 四硫富瓦烯]]、[[../concepts/molecular-beam-epitaxy|PMMA (作为基质)]]
-- **相关物理概念**：[[../concepts/molecular-beam-epitaxy|机器学习势]]、[[../concepts/charge-transfer|电荷转移 (CT)]]、[[../concepts/nonlinear-absorption|非线性吸收]]、[[../concepts/molecular-beam-epitaxy|饱和吸收]]、[[../concepts/excited-state-lifetime|激发态寿命]]
+- **相关材料/实体**：[[../entities/TTF|TTF 四硫富瓦烯]]、[[../entities/molecular-beam-epitaxy|PMMA (作为基质)]]
+- **相关物理概念**：[[../entities/molecular-beam-epitaxy|机器学习势]]、[[../concepts/charge-transfer|电荷转移 (CT)]]、[[../concepts/nonlinear-absorption|非线性吸收]]、[[../entities/molecular-beam-epitaxy|饱和吸收]]、[[../concepts/excited-state-lifetime|激发态寿命]]
 - **计算工具**：LAMMPS, MACE, DeepMD-kit, VASP
 
 ---

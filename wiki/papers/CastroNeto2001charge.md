@@ -86,12 +86,29 @@ A. H. Castro Neto，2001，Physical Review Letters 86, 4382–4385，DOI 10.1103
 提出 2H-TMD（TaSe₂/TaS₂/NbSe₂/NbS₂）中 CDW 是具有六重节点的 f 波序参量，CDW 相的低能激发是与声学声子压电耦合的狄拉克电子，由此统一解释了 ARPES 观测到的边缘费米液体自能、CDW 相中的良好金属性、声子介导的超导配对及其 KT 型相变与量子临界点。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2d-materials]]、[[../concepts/dirac-electrons|狄拉克电子]]、[[../concepts/electron-phonon-coupling|电子-声子耦合]]、[[../concepts/f-wave-order-parameter|f 波序参量]]、[[../concepts/fermi-surface-nesting|费米面嵌套]]、[[../concepts/kosterlitz-thouless]]、[[../concepts/marginal-fermi-liquid|边缘费米液体]]、[[../concepts/piezo-electric-coupling|压电耦合]]、[[../concepts/pseudogap|赝能隙]]、[[../concepts/quantum-critical-point|量子临界点]]、[[../concepts/superconductivity|超导电性]]
-  - 实体 [[../entities/TMDs]]、[[../entities/TaSe2|TaSe₂]]、[[../entities/TaS2|TaS₂]]、[[../entities/NbSe2|NbSe₂]]、[[../entities/NbS2|NbS₂]]、[[../concepts/ARPES]]
-  - 图表 [[../figures/electronic-bands]]（费米面拓扑与自能谱）、[[../figures/crystal-structures]]（相图思路）
+  - 概念 [[../concepts/charge-density-wave]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/dirac-electrons|狄拉克电子]]
+  - 概念 [[../concepts/electron-phonon-coupling|电子-声子耦合]]
+  - 概念 [[../concepts/f-wave-order-parameter|f 波序参量]]
+  - 概念 [[../concepts/fermi-surface-nesting|费米面嵌套]]
+  - 概念 [[../concepts/kosterlitz-thouless]]
+  - 概念 [[../concepts/marginal-fermi-liquid|边缘费米液体]]
+  - 概念 [[../concepts/piezo-electric-coupling|压电耦合]]
+  - 概念 [[../concepts/pseudogap|赝能隙]]
+  - 概念 [[../concepts/quantum-critical-point|量子临界点]]
+  - 概念 [[../concepts/superconductivity|超导电性]]
+  - 概念 [[../concepts/saddle-point-scattering]]
+  - 实体 [[../entities/ARPES]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/TaSe2|TaSe₂]]
+  - 实体 [[../entities/TaS2|TaS₂]]
+  - 实体 [[../entities/NbSe2|NbSe₂]]
+  - 实体 [[../entities/NbS2|NbS₂]]
+  - 图表 [[../figures/electronic-bands]]（费米面拓扑与自能谱）、
+  - 图表 [[../figures/crystal-structures]]（相图思路）
   - 年度 [[../write/2000-2004|2001]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 概念 [[../concepts/pseudogap]]、[[../concepts/saddle-point-scattering]]
   - 相关论文 [[../../raw/note/CastroNeto2001charge]]
 
 ## 📊 关键图表

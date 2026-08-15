@@ -81,11 +81,29 @@ Fei, Zhao, Palomaki, Sun, Miller, Zhao, Yan, Xu, Cobden et al.，2018，Nature 5
 ## 💡 一句话
 首次在实验上证实双层/三层 WTe₂ 这一原子级薄的拓扑半金属同时是金属且可电场翻转的铁电体，面外极化可由石墨烯电场传感器定量探测，并提出电子-空穴关联驱动极化的新机制。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/polarization-switching]]、[[../concepts/2d-materials]]、[[../concepts/multiferroicity]]、[[../concepts/polar-metal]]、[[../concepts/electronic-ferroelectricity]]、[[../concepts/electron-hole-correlation]]、[[../concepts/out-of-plane-polarization]]、[[../concepts/quantum-spin-hall-effect]]、[[../concepts/weyl-semimetal]]、[[../concepts/depolarization-field]]、[[../concepts/screening-length]]、[[../concepts/bistability]]、[[../concepts/domain-dynamics]]
-  - 实体 [[../entities/WTe2]]、[[../entities/h-BN]]、[[../entities/graphene]]、[[../entities/BaTiO3]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-devices]]、[[../figures/mathematical-models]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/polar-metal]]
+  - 概念 [[../concepts/electronic-ferroelectricity]]
+  - 概念 [[../concepts/electron-hole-correlation]]
+  - 概念 [[../concepts/out-of-plane-polarization]]
+  - 概念 [[../concepts/quantum-spin-hall-effect]]
+  - 概念 [[../concepts/weyl-semimetal]]
+  - 概念 [[../concepts/depolarization-field]]
+  - 概念 [[../concepts/screening-length]]
+  - 概念 [[../concepts/bistability]]
+  - 概念 [[../concepts/domain-dynamics]]
+  - 实体 [[../entities/WTe2]]
+  - 实体 [[../entities/h-BN]]
+  - 实体 [[../entities/graphene]]
+  - 实体 [[../entities/BaTiO3]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/electronic-devices]]
+  - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2015-2019|2018]]
   - 相关论文 [[../../raw/note/feiFerroelectricSwitchingTwodimensional2018a]]
+
 ## 🆕 新概念/实体建议
   - [[../concepts/polar-metal|polar-metal]]（极性金属）：具有极性空间群、存在极轴但传统上认为极化不可翻转的金属；本工作将其推进到可翻转的"铁电金属"。
   - [[../concepts/electronic-ferroelectricity|electronic-ferroelectricity]]（电子铁电性）：自发极化主要来自电子云相对离子实的重排（电子-空穴关联、层间电荷转移），而非离子位移/软模晶格畸变，预示本征超快翻转。

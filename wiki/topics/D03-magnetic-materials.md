@@ -1,4 +1,5 @@
 ---
+category: [D03]
 tags:
   - magnetic-materials
   - 2d-magnetism
@@ -6,9 +7,9 @@ tags:
   - magnetoelectric-coupling
 ---
 
-# 二维磁性材料 / 2D Magnetic Materials
+# D03 二维磁性材料 / 2D Magnetic Materials
 
-> 关联领域：[[./材料模拟计算设计]](材料模拟计算设计)
+> 关联领域：[[./D02-multiferroic-materials|多铁性材料]]、[[./Z01-computational-materials-design|材料模拟计算设计]]
 
 ## 📚 核心文献与里程碑 (2017–2026)
 
@@ -25,7 +26,7 @@ tags:
   <tbody>
     <tr>
       <td>2017</td>
-      <td>[[../papers/Huang2017magnetic]]</td>
+      <td>Huang et al. / Gong et al., <em>Nature</em> (2017)（本库未收录）</td>
       <td>实验 (Nature)</td>
       <td>**二维铁磁性实验证实**：单层 CrI₃ 和双层 Cr₂Ge₂Te₆</td>
       <td>打破 Mermin-Wagner 禁令，二维磁性领域诞生</td>
@@ -72,7 +73,7 @@ tags:
 
 ## 🔭 领域概述
 
-二维磁性材料研究层状磁体在二维极限下的磁有序行为。2017 年 CrI₃ 和 Cr₂Ge₂Te₆ 中二维铁磁性的实验发现[[../papers/Huang2017magnetic]]标志着该领域的诞生。此后十余年，研究重心经历了三次迁移：从"寻找更多二维磁体"到"外场调控磁序"，再到"磁性与铁电性融合"。
+二维磁性材料研究层状磁体在二维极限下的磁有序行为。2017 年 [[../entities/CrI3|CrI₃]] 和 [[../entities/Cr2Ge2Te6|Cr₂Ge₂Te₆]] 中二维铁磁性的实验发现（Huang et al. / Gong et al., *Nature* 2017，本库未收录）标志着该领域的诞生。此后十余年，研究重心经历了三次迁移：从"寻找更多二维磁体"到"外场调控磁序"，再到"磁性与铁电性融合"。
 
 本领域涵盖以下核心议题：
 - 二维磁体的居里温度提升与室温磁序稳定化
@@ -86,7 +87,7 @@ tags:
 
 ## 📖 研究背景
 
-2017 年，Huang 和 Gong 两组背靠背在 *Nature* 报道了单层 CrI₃ 和双层 Cr₂Ge₂Te₆ 中的铁磁性[[TODO: 待补 Huang2017magnetic]]，打破了 Mermin-Wagner 定理对二维磁序的禁令。CrI₃ 的层数依赖磁性（单层 FM → 双层 AFM → 三层恢复 FM）直接启发了"磁序层数工程"。
+2017 年，Huang 和 Gong 两组背靠背在 *Nature* 报道了单层 CrI₃ 和双层 Cr₂Ge₂Te₆ 中的铁磁性（本库未收录），打破了 [[../concepts/mermin-wagner-theorem|Mermin-Wagner 定理]]对二维磁序的禁令。CrI₃ 的层数依赖磁性（单层 FM → 双层 AFM → 三层恢复 FM）直接启发了"磁序层数工程"。
 
 ![图：双层 CrTe₂ 原子级结构——第一层 z-AFM（0.37 nm），第二层 FM（0.39 nm），六方密堆积](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_1_USCG2SF4.png)
 *   **来源**：[[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]
@@ -98,8 +99,8 @@ tags:
 
 二维磁序稳定的核心机制包括：
 - **磁各向异性**（magnetic anisotropy）：单离子各向异性打开自旋波能隙
-- **交换相互作用**（superexchange）：通过配体离子的间接交换决定 FM/AFM 序[[../concepts/miscellaneous-concepts]]
-- **Dzyaloshinskii-Moriya 相互作用**（DMI）：反对称交换耦合产生手性磁结构与斯格明子[[../concepts/miscellaneous-concepts]]
+- **交换相互作用**（superexchange）：通过配体离子的间接交换决定 FM/AFM 序[[../concepts/superexchange]]
+- **Dzyaloshinskii-Moriya 相互作用**（DMI）：反对称交换耦合产生手性磁结构与斯格明子[[../concepts/dzyaloshinskii-moriya-interaction]]
 
 ![图：双层 CrTe₂ 中 FM/AFM 层间电荷转移机制——d 带填充差异驱动电子从 z-AFM 向 FM 转移，产生面外极化 ~3.0 pC m⁻¹](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_2_WFPFNDUZ.png)
 *   **来源**：[[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]
@@ -111,7 +112,7 @@ tags:
 
 **理论建模**：DFT+U 计算处理过渡金属 3d 电子强关联效应，搜索磁基态（FM / AFM-Néel / AFM-zigzag / AFM-stripy）。CrTe₂ 中 U = 3.0 eV、J = 0.6 eV 的参数组合被验证有效[[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]。Berry phase 极化计算量化面外极化大小[[../papers/king-smithTheoryPolarizationCrystalline1993]]。NEB 方法确定翻转最小能量路径[[../papers/henkelmanClimbingImageNudged2000c]]。
 
-**实验验证**：PFM + MFM 联用实现"电写磁读"——PFM 写入铁电畴（±7 V 盒中盒图案），MFM 读出对应磁畴[[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]，最早在 NiI₂ 中验证[[../papers/gaoGiantChiralMagnetoelectric2024a]]。SQUID / XMCD 表征磁基态与磁化强度[[../papers/Huang2017magnetic]]。STM / LEED 确认原子级结构与层数依赖磁序[[../papers/Huang2017magnetic]]。
+**实验验证**：PFM + MFM 联用实现"电写磁读"——PFM 写入铁电畴（±7 V 盒中盒图案），MFM 读出对应磁畴[[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]，最早在 NiI₂ 中验证[[../papers/gaoGiantChiralMagnetoelectric2024a]]。SQUID 磁强计表征磁基态与磁化强度[[../papers/songEvidenceSinglelayerVan2022]]、[[../papers/laiTwodimensionalFerromagnetismDriven2019]]。STM/MBE 原位生长与表征确认原子级结构与层数依赖磁序[[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]。
 
 **计算模拟**：VASP + PAW + PBE + vdW-DF2 为标准协议（截断能 500 eV，k 网格 6×7，真空层 ≥20 Å）[[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]。Monte Carlo 基于 Heisenberg 模型估算居里温度。机器学习势（DREAM/Allegro）加速超快翻转动力学模拟[[../papers/kaurRecentAdvancesTheoretical2025a]]。
 
@@ -176,7 +177,7 @@ tags:
 
 ## 💬 常见问题解答
 
-**Q: 什么是"二维多铁金属"？** 在同一二维材料中同时具备铁电性和金属性的新物态。传统认知中金属性排斥铁电性（Anderson-Blount 佯谬[[../concepts/miscellaneous-concepts]]），但二维极限下通过层间电荷转移[[../concepts/miscellaneous-concepts]]机制可实现"面内导电、面外绝缘"的共存[[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]。
+**Q: 什么是"二维多铁金属"？** 在同一二维材料中同时具备铁电性和金属性的新物态。传统认知中金属性排斥铁电性（Anderson-Blount 佯谬[[../concepts/anderson-blount-mechanism]]），但二维极限下通过层间电荷转移[[../concepts/interlayer-charge-transfer]]机制可实现"面内导电、面外绝缘"的共存[[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]。
 
 **Q: 滑动铁电性与传统铁电性有何区别？** 传统铁电性源于离子位移导致的结构不对称；滑动铁电性源于层间相对滑移产生的电荷重新分布，无需离子位移，翻转势垒极低[[../papers/chenStrongSlidingFerroelectricity2024]]。
 
@@ -190,8 +191,8 @@ tags:
 
 ## 🔗 概念与实体索引
 
-- **核心概念**：[[../concepts/magnetic-anisotropy]]、[[../concepts/miscellaneous-concepts]]、[[../concepts/miscellaneous-concepts]]、[[../concepts/miscellaneous-concepts]]、[[../concepts/miscellaneous-concepts]]、[[../concepts/miscellaneous-concepts]]、[[../concepts/miscellaneous-concepts]]
-- **前沿材料**：[[../entities/TMDs]]、[[../entities/CrI3]]、[[../entities/CrI3]]、[[../entities/CrI3]]、[[../entities/CrI3]]、[[../entities/Si]]
+- **核心概念**：[[../concepts/magnetic-anisotropy]]、[[../concepts/superexchange]]、[[../concepts/dzyaloshinskii-moriya-interaction]]、[[../concepts/mermin-wagner-theorem]]、[[../concepts/interlayer-charge-transfer]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/anderson-blount-mechanism]]
+- **前沿材料**：[[../entities/CrI3]]、[[../entities/Cr2Ge2Te6]]、[[../entities/CrTe2]]、[[../entities/Fe3GeTe2]]、[[../entities/NiI2]]、[[../entities/TMDs]]
 
 ---
 
@@ -201,6 +202,7 @@ tags:
 
 | 缺失论文 | 应归属 | 说明 |
 |:---|:---|:---|
-| Huang et al. (2017) 单层 CrI₃ 二维铁磁性 | `wiki/papers/Huang2017magnetic.md` | 领域开创性工作，本页面多处引用（里程碑、实验方法、背景叙述），需补建 |
+| Huang et al. (2017) 单层 CrI₃ 二维铁磁性 | `wiki/papers/Huang2017magnetic.md` | 领域开创性工作，本页面里程碑表、研究背景、历史脉络三处以纯文本形式引用（不设双链），建议补建条目后改为双链 |
+| Gong et al. (2017) 双层 Cr₂Ge₂Te₆ 二维铁磁性 | `wiki/papers/Gong2017discovery.md` | 与 Huang et al. 背靠背发表，同为领域起点，本页面纯文本引用 |
 
 > **操作建议**：将上述论文导入 Zotero 后运行 `python tools/update_raw_assets.py` 同步 raw assets，再通过 `/workflow update_research_wiki` 自动生成 wiki/papers 条目。

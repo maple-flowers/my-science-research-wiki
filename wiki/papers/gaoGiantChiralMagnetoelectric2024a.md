@@ -87,12 +87,10 @@ Frank Y. Gao, Xinyue Peng, Xinle Cheng 等（共 16 位作者，Angel Rubio、Ed
   - 概念 [[../concepts/multiferroicity]]（II 型多铁/螺旋自旋诱导铁电）
   - 概念 [[../concepts/magnetoelectric-coupling]]（动态磁电张量 αij(ω)、电磁振子共振、自然光学活性）
   - 概念 [[../concepts/spin-orbit-coupling]]（I 配体上 λ≈0.5 eV 是巨耦合的关键）
-  - 概念 [[../concepts/2D-materials]]（剥离至 ~100 nm 薄片、单层可保持多铁序）
+  - 概念 [[../concepts/2d-materials]]（剥离至 ~100 nm 薄片、单层可保持多铁序）
   - 概念 [[../concepts/berry-phase]]（用 Berry phase / 现代极化理论计算螺旋序下的电极化）
   - 概念 [[../concepts/density-functional-theory]]（VASP + PBE+U (U=4 eV) + SOC、四态法提取交换参数、冻结磁振子近似）
   - 概念 [[../concepts/topological-defects]]（手性磁畴、对映纯畴、左/右手螺旋）
-  - 实体 [[../entities/VASP]]（PAW、350 eV 截断、Dudarev PBE+U、I 5s/5p 与 Ni 3d/4s 作价态、约束自旋 penalty functional）
-  - 实体 [[../concepts/domain-wall]]（手性畴壁/对映纯畴选择）
   - 概念 [[../concepts/chirality|手性 / 磁致手性]]（自旋螺旋不可与镜像重合，区别于晶格几何手性）
   - 概念 [[../concepts/electromagnon|电磁振子 electromagnon]]（兼具红外与拉曼活性，振荡同时带 ΔP 与 ΔM）
   - 概念 [[../concepts/natural-optical-activity|自然光学活性 NOA]]（时间反演对称、空间反演反对称的偏振面旋转，由 Im[αij] 对角虚部表征）
@@ -104,7 +102,8 @@ Frank Y. Gao, Xinyue Peng, Xinle Cheng 等（共 16 位作者，Angel Rubio、Ed
   - 概念 [[../concepts/quadrature-phase|正交相位 π/2]]（ΔP 与 ΔM 振荡差 90°，自然光学活性的动力学指纹）
   - 概念 [[../concepts/frozen-magnon|冻结磁振子近似]]（按磁振子本征矢位移自旋构型、Berry phase 算极化变化以提取 αij）
   - 概念 [[../concepts/magnetic-frustration|磁阻挫]]（三角晶格上 J1/J3 竞争稳定螺旋序）
-  - 概念 [[../entities/NiI2|碘化镍 NiI₂]]（CdCl₂ 型菱方范德华 II 型多铁，TAFM≈75 K、THM≈60 K）
+  - 概念 [[../concepts/domain-wall]]（手性畴壁/对映纯畴选择）
+  - 实体 [[../entities/VASP]]（PAW、350 eV 截断、Dudarev PBE+U、I 5s/5p 与 Ni 3d/4s 作价态、约束自旋 penalty functional）
   - 实体 [[../entities/NiI2|碘化镍 NiI₂]]（CdCl₂ 型 R3̄m 菱方范德华 II 型多铁，单层仍保持螺旋多铁序）
   - 图表 [[../figures/crystal-structures]]（NiI₂ R3̄m 菱方、NiI₆ 八面体三角晶格、螺旋序 q=(0.138a*,0,1.457c*)）
   - 图表 [[../figures/optical-spectra]]（圆偏振拉曼 4.09/4.51 meV 两电磁振子；太赫兹 NOA 谱）
@@ -113,9 +112,10 @@ Frank Y. Gao, Xinyue Peng, Xinle Cheng 等（共 16 位作者，Angel Rubio、Ed
   - 图表 [[../figures/experimental-setups]]（tr-SHG + tr-RKerr 双通道泵浦-探测、SHG 偏振畴成像）
   - 年度 [[../write/2020-2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
-  - 主题 [[多铁性材料]]
-  - 主题 [[材料模拟计算设计]]
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
+  - 主题 [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
   - 相关论文 [[../../raw/note/gaoGiantChiralMagnetoelectric2024a]]
+
 ## 📊 关键图表
   - ![图1 NiI₂ 晶体结构、手性螺旋、电磁振子](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_1_8V5GWLM9.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
     - **图示描述**：六联图总览 NiI₂ 的结构-磁序-激发：(a) 左旋/右旋自旋螺旋示意图展示磁致手性；(b) 高温 R3̄m 菱方晶格中 Ni（蓝）被 I（红）八面体包围形成三角晶格层；(c) THM≈60 K 以下 (001) 面内 proper-screw 螺旋序，传播矢量 q=(0.138a*,0,1.457c*)，面内分量 qin 垂直于沿 y ∥ C₂ 轴的电极化 P；(d) 2.4 K 下 σ⁺/σ⁻ 圆偏振低频拉曼谱；(e) DFT 在 7×1 单层超胞算得的电磁振子能量-动量色散；(f) EMo/EMe 的自旋进动本征矢及 ΔP、ΔM 矢量方向。

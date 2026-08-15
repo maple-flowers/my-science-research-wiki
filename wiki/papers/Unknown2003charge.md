@@ -66,10 +66,15 @@ Young-Inn Kim，2003，Bulletin of the Korean Chemical Society，24(9), 1389–1
 ## 💡 一句话
 在乙腈中直接反应合成 (BEDT-TTF)₁.₅CuX₂ (X=Cl, Br)，证实 BEDT-TTF 被部分氧化、Cu 处于 Cu(II/I) 混合价态，并建立"Br⁻ 诱导效应更弱→残留 Cu(II) 更多→库仑散射更强→电导率更低"的构效关系；指出给体/受体比需 >2 才能将 Cu(II) 完全还原为 Cu(I)。
 ## 🔗 Wiki 双链
+  - 概念 [[../concepts/charge-transfer-compound|电荷转移化合物]]
+  - 概念 [[../concepts/bedt-ttf|BEDT-TTF]]
+  - 概念 [[../concepts/mixed-valence|混合价态]]
+  - 概念 [[../concepts/vibronic-coupling|振动电子耦合]]
+  - 概念 [[../concepts/electron-paramagnetic-resonance|电子顺磁共振(EPR)]]
   - 年度 [[../write/2000-2004|2003]]
   - 项目 [[../projects/project-4-ttf-molecular-calc]]
-  - 概念 [[../concepts/charge-transfer-compound|电荷转移化合物]]、[[../concepts/bedt-ttf|BEDT-TTF]]、[[../concepts/mixed-valence|混合价态]]、[[../concepts/vibronic-coupling|振动电子耦合]]、[[../concepts/electron-paramagnetic-resonance|电子顺磁共振(EPR)]]
   - 相关论文 [[../../raw/note/Unknown2003charge]]
+
 ## 📊 关键图表
   - **图1：77 K 下 (BEDT-TTF)₁.₅CuCl₂(a) 与 (BEDT-TTF)₁.₅CuBr₂(b) 的 X 波段 EPR 谱（冷冻玻璃 DMF/CH₂Cl₂ = 50/50）**
   - ![图1 77 K 下 (BEDT-TTF)₁.₅CuCl₂(a) 与 (BEDT-TTF)₁.₅CuBr₂(b) 的 X 波段 EPR 谱，同时显示 BEDT-TTF⁺ 自由基峰与 Cu(II) 四重超精细分裂，Br 化物中 Cu(II) 信号更强](../../raw/figures/Unknown2003charge/fig_1_PVI4APFY.png) -> [[../figures/optical-spectra|光学光谱]]

@@ -91,12 +91,27 @@ Tang, Tian, Ouyang, Pan, Chen et al.，2025，Physical Review B 111, L081407，D
 在同一二维范德华体系中结合本征极化（PI，离子位移、高势垒）与滑移诱导极化（PS，层间电子重构、低势垒），利用两者势垒相差一个数量级而实现电场分级控制，在 H 堆叠 1T″-MoSe₂ 双层/三层中分别预测出 6 个和 10 个可切换极化态。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/sliding-ferroelectricity|滑移铁电性]]、[[../concepts/polarization-switching|极化翻转]]、[[../concepts/berry-phase|Berry相位]]、[[../concepts/2d-materials|二维材料]]、[[../concepts/ferroelectric-tunnel-junction|铁电隧道结]]、[[../concepts/charge-density-wave|电荷密度波]]、[[../concepts/composite-ferroelectricity|复合铁电体]]、[[../concepts/polarization-multistates|极化多态]]、[[../concepts/layer-selective-switching|层选择性翻转]]、[[../concepts/interlayer-polarization-coupling|层间极化耦合]]
-  - 实体 [[../entities/VASP]]、[[../entities/TMDs]]、[[../entities/h-BN]]、[[../entities/In2Se3]]、[[../entities/SnTe]]
-  - 图表 [[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]
+  - 概念 [[../concepts/sliding-ferroelectricity|滑移铁电性]]
+  - 概念 [[../concepts/polarization-switching|极化翻转]]
+  - 概念 [[../concepts/berry-phase|Berry相位]]
+  - 概念 [[../concepts/2d-materials|二维材料]]
+  - 概念 [[../concepts/ferroelectric-tunnel-junction|铁电隧道结]]
+  - 概念 [[../concepts/charge-density-wave|电荷密度波]]
+  - 概念 [[../concepts/composite-ferroelectricity|复合铁电体]]
+  - 概念 [[../concepts/polarization-multistates|极化多态]]
+  - 概念 [[../concepts/layer-selective-switching|层选择性翻转]]
+  - 概念 [[../concepts/interlayer-polarization-coupling|层间极化耦合]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/h-BN]]
+  - 实体 [[../entities/In2Se3]]
+  - 实体 [[../entities/SnTe]]
+  - 实体 [[../entities/MoSe2]]
+  - 实体 [[../entities/1T-double-prime-TMD]]
+  - 图表 [[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]
   - 年度 [[../write/2025-2029|2025]]
-  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
-  - 实体 [[../entities/MoSe2]]、[[../entities/1T-double-prime-TMD]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/tangCombiningIntrinsicSlidinginduced2025]]
 
 ## 🆕 新概念/实体建议
@@ -155,5 +170,5 @@ Tang, Tian, Ouyang, Pan, Chen et al.，2025，Physical Review B 111, L081407，D
   6. **[[../concepts/layer-selective-switching|层选择性翻转]]来源**：LP⁻₂ 态中顶层 PI 翻转势垒比底层低 10 meV/f.u.（三层中顶/底层差约 16 meV/f.u.），这一差异与滑移势垒同量级，恰好使电场能在翻转一层后停住，再以更大电场翻转下一层。
   7. **PS 的电子起源与符号**：差分[[../concepts/charge-density|电荷密度]]（平面平均 Δρ，单位 e/Å）显示层间电子积累/耗尽导致电荷重心偏移；对 1T″ 双层 H 堆叠，八种构型按 PS 符号分为 {S1,S3,S5} 与 {S2,S4,S6} 两组，PS 符号不随 IPC 改变（因堆叠顺序不变、电子重构保持），且 PS 幅值可大于 PI。
   8. **计算细节**：VASP、PBE-GGA、PAW、DFT-D3、12×12 Monkhorst–Pack k 网格、400 eV 平面波截断；AIMD 验证单层/双层在室温下几何结构与极化均保持；还预测了面内极化分量但本文聚焦 OOP。
-  9. **普适性**：概念适用于任何同时具有本征和[[../concepts/sliding-ferroelectricity|滑移[[../concepts/ferroelectricity|铁电性]]]]的 2D 体系（In₂Se₃、CuInP₂S₆、d1T-TMDs 等），仅滑移（双层 2 态）或仅本征（双层 3 态）的体系状态数远少于复合体系；层数增加可获得更多态，但需 ML 势/多尺度方法来处理指数增长的构型空间。
+  9. **普适性**：概念适用于任何同时具有本征和[[../concepts/sliding-ferroelectricity|滑移铁电性]]的 2D 体系（In₂Se₃、CuInP₂S₆、d1T-TMDs 等），仅滑移（双层 2 态）或仅本征（双层 3 态）的体系状态数远少于复合体系；层数增加可获得更多态，但需 ML 势/多尺度方法来处理指数增长的构型空间。
   10. **批判性局限**：相邻 LP 态净极化值差异小，电学读取易受噪声影响；多级电场精度和缺陷/界面下的路径鲁棒性是工程挑战；~10 meV/f.u.（≈116 K）势垒差的室温热稳定性存疑；PBE-D3 可能低估 vdW 相互作用影响滑移势垒绝对精度；面外电场如何有效驱动切向层滑的微观动力学尚需澄清。

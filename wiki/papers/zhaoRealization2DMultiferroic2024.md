@@ -77,13 +77,29 @@ Ying Zhao, Yanxia Wang, Yue Yang, Jijun Zhao, Xue Jiang（大连理工大学/华
 ## 💡 一句话
 提出将过渡金属离子 A 非中心对称地插入 TMD 双层四方空位构建 AM₂X₄ 的"超晶格插层"通用策略，从 960 种候选物中高通量筛选出 21 种强磁电耦合二维多铁体，并按磁性起源分为 a/b/c 三类，其中 T-CdCr₂Te₄ 可通过极化翻转可逆调控反斯格明子的产生、湮灭与手性反转。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2d-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/topological-defects]]、[[../concepts/polarization-switching]]
-  - 实体 [[../entities/TMDs]]、[[../entities/VASP]]、[[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/CrTe2]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/mathematical-models]]、[[../figures/experimental-setups|实验测试与测量装置]]、[[../figures/heterostructures-stacking|多铁与磁电异质结]]
-  - 年度 [[../write/2020-2024|2024]]
-  - 主题 [[../topics/多铁性材料]]、[[../topics/材料模拟计算设计]]
-  - 相关论文 [[../../raw/note/zhaoRealization2DMultiferroic2024]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/berry-phase]]
+  - 概念 [[../concepts/spin-orbit-coupling]]
+  - 概念 [[../concepts/topological-defects]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/In2Se3]]
+  - 实体 [[../entities/WTe2]]
+  - 实体 [[../entities/CrTe2]]
   - 实体 [[../entities/T-CdCr2Te4]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/electronic-bands]]
+  - 图表 [[../figures/mathematical-models]]
+  - 图表 [[../figures/experimental-setups|实验测试与测量装置]]
+  - 图表 [[../figures/heterostructures-stacking|多铁与磁电异质结]]
+  - 年度 [[../write/2020-2024|2024]]
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
+  - 主题 [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
+  - 相关论文 [[../../raw/note/zhaoRealization2DMultiferroic2024]]
 
 ## 🆕 新概念/实体建议
   - [[../concepts/intercalation|intercalation]]（插层）：外来原子/分子嵌入范德华层间间隙形成杂化化合物的化学过程，是本文设计策略的核心。

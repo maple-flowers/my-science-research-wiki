@@ -11,8 +11,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Khitrov2000holographic]]
 projects: [project-1]
-concepts: [two-photon-absorption, nonlinear-absorption, photopolymerization, holographic-grating, polymer-phase-separation, refractive-index-modulation]
-entities: [DPHPA, E7-liquid-crystal, bis-diphenylamino-diphenyl-hexatriene, N-vinyl-pyrrolidinone, ITO-glass]
+concepts: [two-photon-absorption, nonlinear-absorption, photopolymerization, polymer-phase-separation, refractive-index-modulation]
+entities: [bis-diphenylamino-diphenyl-hexatriene, DPHPA, E7-liquid-crystal, holographic-grating, ITO-glass, N-vinyl-pyrrolidinone]
 methods: [h-tpip, two-photon-polymerization, holographic-lithography, femtosecond-laser-fabrication, free-radical-initiation, polarized-transmission-microscopy, low-voltage-sem]
 materials: [DPHPA, E7-nematic-LC, bis-diphenylamino-diphenyl-hexatriene-initiator, N-vinyl-pyrrolidinone]
 figures: []
@@ -79,13 +79,20 @@ Greg Khitrov，2000，MRS Bulletin，25(12), 6-7，DOI: [10.1557/mrs2000.238](ht
 利用飞秒激光的双光子非线性吸收，在 DPHPA/液晶 E7 混合体系中实现全息双光子诱导光聚合（H-TPIP），将液晶相分离畴尺寸压缩到 20–200 nm（约为传统单光子法的 1/3），显著提升可电控切换衍射光栅的结构精度与开关速度，并展示了在透明固体内部直写三维光学元件的潜力。
 
 ## 🔗 Wiki 双链
+  - 概念 [[../concepts/two-photon-absorption|双光子吸收]]
+  - 概念 [[../concepts/nonlinear-absorption|非线性吸收]]
+  - 概念 [[../concepts/photopolymerization|光聚合]]
+  - 概念 [[../concepts/polymer-phase-separation|聚合物/液晶相分离]]
+  - 概念 [[../concepts/refractive-index-modulation]]
+  - 实体 [[../entities/holographic-grating|全息光栅]]
+  - 实体 [[../entities/DPHPA|DPHPA]]
+  - 实体 [[../entities/E7-liquid-crystal|E7 液晶]]
+  - 实体 [[../entities/bis-diphenylamino-diphenyl-hexatriene|双(二苯氨基)二苯基己三烯]]
+  - 实体 [[../entities/ITO-glass]]
+  - 实体 [[../entities/N-vinyl-pyrrolidinone]]
   - 图表 [[../figures/experimental-setups]]
-  - 概念 [[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/nonlinear-absorption|非线性吸收]]、[[../concepts/photopolymerization|光聚合]]、[[../concepts/holographic-grating|全息光栅]]、[[../concepts/polymer-phase-separation|聚合物/液晶相分离]]
-  - 实体 [[../entities/DPHPA|DPHPA]]、[[../entities/E7-liquid-crystal|E7 液晶]]、[[../entities/bis-diphenylamino-diphenyl-hexatriene|双(二苯氨基)二苯基己三烯]]
   - 年度 [[../write/2000-2004|2000]]
   - 项目 [[../projects/project-1-two-photon]]
-  - 概念 [[../concepts/refractive-index-modulation]]
-  - 实体 [[../entities/ITO-glass]]、[[../entities/N-vinyl-pyrrolidinone]]
   - 相关论文 [[../../raw/note/Khitrov2000holographic]]
 
 ## 📊 关键图表

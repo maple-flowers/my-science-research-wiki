@@ -80,9 +80,6 @@ Choubey, Brahme, Bisen, Sharma et al.，2011，*The Open Nanoscience Journal* 5 
 ## 💡 一句话
 首次系统报道燃烧法（600 °C 引发，尿素作燃料）合成的单斜相 SrAl2O4:Eu 纳米磷光体（~21 nm）的断裂机械发光（ML）与热释光（TL），观察到 ML 时间曲线双峰、ML 强度随冲击速度饱和、365 nm 紫外光可完全恢复 ML，并由 TL 单一峰（196 °C）用三种方法交叉得到陷阱深度 0.24–0.27 eV，提出"位错运动—陷阱载流子释放—Eu²⁺ 4f⁷↔4f⁶5d¹ 复合"统一模型。
 ## 🔗 Wiki 双链
-  - 图表 [[../figures/optical-spectra]]（图1 UV-Vis 吸收谱，吸收边 240 nm，Eg = 5.18 eV）
-  - 图表 [[../figures/crystal-structures]]（图2 XRD 与 JCPDS 34-0379 比对，确认单斜相；Scherrer 法得 21.29 nm）
-  - 图表 [[../figures/mathematical-models]]（图7 初始上升法 ln(I) vs 1/T 线性拟合求陷阱深度 E = 0.24 eV）
   - 概念 [[../concepts/mechanoluminescence|机械发光]]
   - 概念 [[../concepts/thermoluminescence|热释光]]
   - 概念 [[../concepts/trap-depth|陷阱深度]]
@@ -91,13 +88,20 @@ Choubey, Brahme, Bisen, Sharma et al.，2011，*The Open Nanoscience Journal* 5 
   - 概念 [[../concepts/combustion-synthesis|燃烧合成法]]
   - 概念 [[../concepts/persistent-luminescence|长余辉发光]]
   - 概念 [[../concepts/charge-transfer|电荷转移]]
+  - 概念 [[../concepts/scherrer-broadening]]
   - 实体 [[../entities/SrAl2O4|SrAl₂O₄]]
   - 实体 [[../entities/Eu2-plus|Eu²⁺]]
+  - 实体 [[../entities/Shimadzu-UV1700]]
+  - 实体 [[../entities/RCA931-pmt]]
+  - 实体 [[../entities/Nucleonix-TL10091]]
+  - 实体 [[../entities/Rigaku-D]]
+  - 图表 [[../figures/optical-spectra]]（图1 UV-Vis 吸收谱，吸收边 240 nm，Eg = 5.18 eV）
+  - 图表 [[../figures/crystal-structures]]（图2 XRD 与 JCPDS 34-0379 比对，确认单斜相；Scherrer 法得 21.29 nm）
+  - 图表 [[../figures/mathematical-models]]（图7 初始上升法 ln(I) vs 1/T 线性拟合求陷阱深度 E = 0.24 eV）
   - 年度 [[../write/2010-2014|2011]]
   - 项目 [[../projects/project-3-mechanoluminescence-nn]]
-  - 概念 [[../concepts/scherrer-broadening]]
-  - 实体 [[../entities/Shimadzu-UV1700]]、[[../entities/RCA931-pmt]]、[[../entities/Nucleonix-TL10091]]、[[../entities/Rigaku-D]]
   - 相关论文 [[../../raw/note/KumarChoubey2011mechanoluminescence]]
+
 ## 📊 关键图表
 笔记未附图片（`raw/figures/KumarChoubey2011mechanoluminescence/` 仅含 manifest.json，figures 数组为空）。以下按论文原图 Fig.1–Fig.7 给出文字描述，定量数据取自原文。
 

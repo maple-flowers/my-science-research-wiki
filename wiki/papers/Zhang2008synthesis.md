@@ -71,12 +71,18 @@ Xian Zhang, Xiaoqiang Yu, JinShui Yao, Minhua Jiang，2008，Synthetic Metals 15
 ## 💡 一句话
 合成并表征了两种新型三支化推-拉有机发色团，验证了多支化结构对双光子吸收截面和 2PP 引发能力的增强作用。
 ## 🔗 Wiki 双链
-  - 项目 [[../projects/project-1-two-photon]]
-  - 年度 [[../write/2005-2009|2008]]
-  - 概念：[[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/two-photon-polymerization|双光子聚合]]、[[../concepts/d-pi-a-architecture]]、[[../concepts/ict-mechanism]]、[[../concepts/multipolar-chromophore|多极性发色团]]
-  - 概念 [[../concepts/photoinitiation]]、[[../concepts/nonlinear-optics]]
+  - 概念 [[../concepts/two-photon-absorption|双光子吸收]]
+  - 概念 [[../concepts/two-photon-polymerization|双光子聚合]]
+  - 概念 [[../concepts/d-pi-a-architecture]]
+  - 概念 [[../concepts/ict-mechanism]]
+  - 概念 [[../concepts/multipolar-chromophore|多极性发色团]]
+  - 概念 [[../concepts/photoinitiation]]
+  - 概念 [[../concepts/nonlinear-optics]]
   - 实体 [[../entities/triphenylamine]]
+  - 年度 [[../write/2005-2009|2008]]
+  - 项目 [[../projects/project-1-two-photon]]
   - 相关论文 [[../../raw/note/Zhang2008synthesis]]
+
 ## 🆕 新概念/实体建议
   - [[../concepts/two-photon-absorption|two-photon-absorption]]（双光子吸收）：三阶非线性光学过程，分子同时吸收两个光子跃迁至激发态，概率正比于光强平方。
   - [[../concepts/two-photon-polymerization|two-photon-polymerization]]（双光子聚合）：利用双光子吸收在树脂内部引发局域聚合的三维微加工技术。
@@ -104,7 +110,7 @@ Xian Zhang, Xiaoqiang Yu, JinShui Yao, Minhua Jiang，2008，Synthetic Metals 15
   - two-photon excited fluorescence (TPEF) — 双光子激发荧光
 ## ✏️ 可写入 Wiki 的要点
   1. Zhang et al. (Synthetic Metals, 2008) 合成了两种三支化[[../concepts/two-photon-polymerization|双光子聚合]]引发剂，是多支化[[../concepts/d-pi-a-architecture]]用于 2PP 的代表性实验工作之一。
-  2. 三支化结构通过在中心给体核上连接三个共轭推-拉分支，利用多方向[[../concepts/charge-transfer|分子内[[../concepts/charge-transfer|电荷转移]]]]协同增强三阶非[[../concepts/linear-response|线性响应]]。
+  2. 三支化结构通过在中心给体核上连接三个共轭推-拉分支，利用多方向[[../concepts/charge-transfer|分子内电荷转移]]协同增强三阶非[[../concepts/linear-response|线性响应]]。
   3. 双光子聚合的空间分辨率源于[[../concepts/two-photon-absorption|双光子吸收]]概率对光强的平方依赖，仅在激光焦点中心极小体积内发生引发。
   4. 高效 2PP 引发剂需要在近红外工作波长具有大 σ₂、高自由基产生量子产率和良好的溶解性/相容性。
   5. Z-扫描和[[../concepts/two-photon-fluorescence|双光子激发荧光]]（TPEF）是测量 σ₂ 的两种主要实验方法，前者测量非线性透过率，后者通过荧光强度定标。

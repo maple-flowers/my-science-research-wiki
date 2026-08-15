@@ -94,12 +94,45 @@ Lane W. Martin & Andrew M. Rappe，2016，*Nature Reviews Materials* 2, 16087，
 以"应变工程"为主线，系统综述过去十年铁电薄膜在常规/非传统应变调控、热学效应（热释电/电卡）、畴壁电子学、负电容、铁电-二维材料异质结和体光伏效应等方向的革命性进展，并指明材料基因组、非传统铁电体、原位表征、拓扑铁电、能源催化等未来方向。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/strain-engineering]]、[[../concepts/polarization-switching]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/2D-materials]]、[[../concepts/topological-defects]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/flexoelectric-effect|挠曲电效应]]、[[../concepts/hybrid-improper-ferroelectricity|杂化非本征铁电性]]、[[../concepts/negative-capacitance|负电容]]、[[../concepts/bulk-photovoltaic-effect|体光伏效应]]、[[../concepts/electrocaloric-effect|电卡效应]]、[[../concepts/pyroelectric-effect|热释电效应]]、[[../concepts/octahedral-rotation|氧八面体旋转]]、[[../concepts/morphotropic-phase-boundary|准同型相界]]
-  - 实体 [[../entities/BiFeO3]]、[[../concepts/domain-wall]]、[[../entities/VASP]]、[[../entities/SnTe]]、[[../entities/TMDs]]、[[../entities/h-BN]]、[[../entities/BaTiO3|钛酸钡 BaTiO₃]]、[[../entities/PbTiO3|钛酸铅 PbTiO₃]]、[[../entities/PZT|PZT 锆钛酸铅]]、[[../entities/LiNbO3|铌酸锂 LiNbO₃]]、[[../entities/SrTiO3|钛酸锶 SrTiO₃]]、[[../entities/HfO2|二氧化铪 HfO₂]]
-  - 图表 [[../figures/crystal-structures]]、[[../concepts/domain-wall]]、[[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/ferroelectric-tunnel-junction]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/topological-defects]]
+  - 概念 [[../concepts/berry-phase]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/sliding-ferroelectricity]]
+  - 概念 [[../concepts/flexoelectric-effect|挠曲电效应]]
+  - 概念 [[../concepts/hybrid-improper-ferroelectricity|杂化非本征铁电性]]
+  - 概念 [[../concepts/negative-capacitance|负电容]]
+  - 概念 [[../concepts/bulk-photovoltaic-effect|体光伏效应]]
+  - 概念 [[../concepts/electrocaloric-effect|电卡效应]]
+  - 概念 [[../concepts/pyroelectric-effect|热释电效应]]
+  - 概念 [[../concepts/octahedral-rotation|氧八面体旋转]]
+  - 概念 [[../concepts/morphotropic-phase-boundary|准同型相界]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/BiFeO3]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/SnTe]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/h-BN]]
+  - 实体 [[../entities/BaTiO3|钛酸钡 BaTiO₃]]
+  - 实体 [[../entities/PbTiO3|钛酸铅 PbTiO₃]]
+  - 实体 [[../entities/PZT|PZT 锆钛酸铅]]
+  - 实体 [[../entities/LiNbO3|铌酸锂 LiNbO₃]]
+  - 实体 [[../entities/SrTiO3|钛酸锶 SrTiO₃]]
+  - 实体 [[../entities/HfO2|二氧化铪 HfO₂]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - 年度 [[../write/2015-2019]]
-  - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-7-cdw-charge-density-wave]]
-  - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-4-ttf-molecular-calc]]
+  - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
+  - 主题 [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
   - 相关论文 [[../../raw/note/martinThinfilmFerroelectricMaterials2016]]
 
 ## 🆕 新概念/实体建议
@@ -176,7 +209,7 @@ Lane W. Martin & Andrew M. Rappe，2016，*Nature Reviews Materials* 2, 16087，
   10. [[../concepts/electrocaloric-effect|电卡效应]]：PbZr₀.₉₅Ti₀.₀₅O₃ 在居里点附近 ΔT>12 K；薄膜中直接测量（热电偶/量热）与间接测量（由 Maxwell 关系 (∂P/∂T)_E 推算）在受夹持薄膜中常显著不一致，需谨慎处理弹性边界条件。
   11. [[../concepts/domain-wall-conduction|畴壁导电]]：BiFeO₃ 中 109°、180°、71° 畴壁均有电子导电报道，源于静电势台阶抬升载流子密度+畴壁内带隙减小；畴壁曲率可致电导率变化 ~500%，多铁中导电畴壁磁电阻 ~60%；畴壁可被微纳加工确定性产生/移动，用于[[../concepts/memristor|忆阻器]]、二极管。
   12. [[../concepts/negative-capacitance|负电容]]：铁电 U(Q) 双阱势垒顶部 C=d²U/dQ²<0；与常规介电层串联可稳定该态并放大电压；PbZr₀.₂Ti₀.₈O₃/SrTiO₃ 双层中复合电容大于 SrTiO₃ 电容，时域翻转分析给出瞬态负电容的稳健证据，目标是突破室温 60 mV/decade 亚阈值摆幅。
-  13. 铁电-[[../concepts/2D-materials|二维材料]]异质结：[[../entitys/graphene|石墨烯]]/LiNbO₃ 中极化面分别诱导 n/p 型掺杂；周期性极化畴在 180° 畴壁处写入空间势台阶，空气中实现 p–i（可调 p–n）结周期阵列；[[../entitys/FTJ|铁电隧道结]]隧穿电阻 >6×10⁵%；界面处极化、化学、缺陷结构的复杂相互作用（而非单纯静电）决定[[../concepts/charge-transfer|电荷转移]]。
+  13. 铁电-[[../concepts/2d-materials|二维材料]]异质结：[[../entities/graphene|石墨烯]]/LiNbO₃ 中极化面分别诱导 n/p 型掺杂；周期性极化畴在 180° 畴壁处写入空间势台阶，空气中实现 p–i（可调 p–n）结周期阵列；[[../entities/FTJ|铁电隧道结]]隧穿电阻 >6×10⁵%；界面处极化、化学、缺陷结构的复杂相互作用（而非单纯静电）决定[[../concepts/charge-transfer|电荷转移]]。
   14. [[../concepts/bulk-photovoltaic-effect|体光伏效应]]（BPVE）：非中心对称材料中位移电流使光电压可远超带隙；机制为带间激发耦合实空间位移（非对称量子散射），弹道贡献来自声子/缺陷非对称散射；畴壁可作电荷分离器；低带隙极性材料 [KNbO₃]₁₋ₓ[BaNi₁/₂Nb₁/₂O₃₋δ]ₓ（带隙 1.1–3.8 eV 可调，x=0.1 时 Eg=1.39 eV）光电流密度约为经典铁电光伏材料的 50 倍。
-  15. 铁电拓扑：PbTiO₃/SrTiO₃ 超晶格中实验观察到极化[[../concepts/vortex-antivortex-pair|涡旋-[[../concepts/antivortex|反涡旋]]对]]（STEM + [[../concepts/phase-field-modeling|相场模拟]]）；理论预言涡旋、波、[[../concepts/skyrmion|斯格明子]]等拓扑态；CsPbI₃ 在压力下可同时进入拓扑绝缘相与可翻转铁电相，并展现增强 BPVE——拓扑绝缘体表面态可补偿铁电束缚电荷、降低退极化场。
+  15. 铁电拓扑：PbTiO₃/SrTiO₃ 超晶格中实验观察到极化[[../concepts/vortex-antivortex-pair|涡旋-反涡旋对]]（STEM + [[../concepts/phase-field-modeling|相场模拟]]）；理论预言涡旋、波、[[../concepts/skyrmion|斯格明子]]等拓扑态；CsPbI₃ 在压力下可同时进入拓扑绝缘相与可翻转铁电相，并展现增强 BPVE——拓扑绝缘体表面态可补偿铁电束缚电荷、降低退极化场。
   16. 超快动力学：PbTiO₃ 薄膜飞秒泵浦下 BPVE 产生瞬时电流改变退极化场，经逆压电引起 c 轴应变；5 ps 时 c 轴达极小值，载流子屏蔽后 10 ps 恢复——展示了光-电-力耦合的皮秒时间尺度。

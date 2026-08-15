@@ -101,7 +101,6 @@ Dahua Ren, Yao Wen, Hui Zeng, Xiaoqiang Feng, Teng Zhang, Yuan Zhang, Liushun Wa
   - 图表 [[../figures/experimental-setups]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/electronic-devices]]
-  - 图表 [[../figures/heterostructures-stacking]]
   - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
@@ -212,7 +211,7 @@ project-2 Mn 多铁——本综述系统梳理 II 型多铁机制、生长与表
 
   - [[../concepts/helical-magnetism|helical-magnetism]]
 ## ✏️ 可写入 Wiki 的要点
-  - [[../concepts/ferromagnetism|铁磁性]]破坏[[../concepts/time-reversal-symmetry|时间[[../concepts/inversion-symmetry|反演对称性]]]]，[[../concepts/ferroelectricity|铁电性]]破坏空间反演对称性，[[../concepts/ferroelasticity|铁弹性]]两者均不破坏，铁旋性（ferrotoroidicity）两者同时破坏；多铁体同时打破两种对称性，是[[../concepts/magnetoelectric-coupling|磁电耦合]]的对称性前提。
+  - [[../concepts/ferromagnetism|铁磁性]]破坏[[../concepts/time-reversal-symmetry|时间反演对称性]]，[[../concepts/ferroelectricity|铁电性]]破坏空间反演对称性，[[../concepts/ferroelasticity|铁弹性]]两者均不破坏，铁旋性（ferrotoroidicity）两者同时破坏；多铁体同时打破两种对称性，是[[../concepts/magnetoelectric-coupling|磁电耦合]]的对称性前提。
   - I 型多铁分三亚类：[[../concepts/lone-pair-electrons|孤对电子]]型（如 BiFeO₃ 中 Bi³⁺ 6s² 孤对）、[[../concepts/charge-order|电荷有序]]型（混合价过渡金属化合物）、[[../concepts/geometric-frustration|几何阻挫]]型；铁电与磁来源独立、极化大、磁转变温度高但耦合弱。II 型多铁的铁电由磁序本身衍生（逆 DM 效应 P∝e×q 或自旋流机制），耦合极强但极化小、T 低。
   - "d⁰ 难题"：传统铁电性要求过渡金属 d 壳层空（如 Ti⁴⁺ d⁰），磁性要求 d 壳层未填满（如 Fe³⁺ d⁵），二者化学互斥，这是天然磁性铁电体稀少的根本原因；二维体系通过对称性破缺、层间滑移、吸附、应变等可绕开该规则。
   - NiI₂ 是首个实验证实的单层 II 型 vdW 多铁体（Song et al., Nature 602, 601, 2022）：MBE 在 HOPG 上生长（基底≈100 °C，UHV≈1×10⁻¹³ bar，碘背景压≈9×10⁻¹¹ bar），T_N1=78 K 反铁磁、T_N2=59.5 K 进入螺旋磁-多铁相；铁电源于[[../concepts/spin-spiral]] q 加强 SOC，满足 P ∝ e×q（P、q、螺旋轴 e 三垂直）。

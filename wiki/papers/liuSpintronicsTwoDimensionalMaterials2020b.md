@@ -133,13 +133,52 @@ Yanping Liu, Cheng Zeng, Jiahong Zhong, Junnan Ding, Zhiming M. Wang, Zongwen Li
 以"自旋注入—输运—操控—应用"为主线，系统综述石墨烯/TMDCs/黑磷/硅烯等二维材料及其 vdW 异质结中的自旋电子学进展，确立 hBN 隧穿注入、hBN 封装/悬浮输运、邻近效应操控三条主流技术路线。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2d-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/berry-phase]]、[[../concepts/edelstein-effect|Edelstein 效应]]、[[../concepts/magnetic-tunnel-junction|磁隧道结]]、[[../concepts/proximity-effect|邻近效应]]、[[../concepts/rashba-effect|Rashba 效应]]、[[../concepts/spin-hall-effect|自旋霍尔效应]]、[[../concepts/spin-injection|自旋注入]]、[[../concepts/spin-relaxation|自旋弛豫]]、[[../concepts/spin-valve|自旋阀]]、[[../concepts/two-dimensional-magnetism|二维磁性]]、[[../concepts/valleytronics|谷电子学]]、[[../concepts/vdW-heterostructure]]
-  - 实体 [[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/Fe3GeTe2]]、[[../entities/Cr2Ge2Te6]]、[[../entities/CrI3]]、[[../entities/VSe2]]、[[../entities/black-phosphorus|黑磷]]、[[../entities/graphene|石墨烯]]
-  - 图表 [[../figures/heterostructures-stacking]]、[[../figures/electronic-devices]]、[[../figures/electronic-bands]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking|自旋电子学与应变工程]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/spin-orbit-coupling]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/berry-phase]]
+  - 概念 [[../concepts/edelstein-effect|Edelstein 效应]]
+  - 概念 [[../concepts/magnetic-tunnel-junction|磁隧道结]]
+  - 概念 [[../concepts/proximity-effect|邻近效应]]
+  - 概念 [[../concepts/rashba-effect|Rashba 效应]]
+  - 概念 [[../concepts/spin-hall-effect|自旋霍尔效应]]
+  - 概念 [[../concepts/spin-injection|自旋注入]]
+  - 概念 [[../concepts/spin-relaxation|自旋弛豫]]
+  - 概念 [[../concepts/spin-valve|自旋阀]]
+  - 概念 [[../concepts/two-dimensional-magnetism|二维磁性]]
+  - 概念 [[../concepts/valleytronics|谷电子学]]
+  - 概念 [[../concepts/vdW-heterostructure]]
+  - 概念 [[../concepts/spin-transport]]
+  - 概念 [[../concepts/spin-filtering]]
+  - 实体 [[../entities/h-BN]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/Fe3GeTe2]]
+  - 实体 [[../entities/Cr2Ge2Te6]]
+  - 实体 [[../entities/CrI3]]
+  - 实体 [[../entities/VSe2]]
+  - 实体 [[../entities/black-phosphorus|黑磷]]
+  - 实体 [[../entities/graphene|石墨烯]]
+  - 实体 [[../entities/EuS]]
+  - 实体 [[../entities/WSe2]]
+  - 实体 [[../entities/Co]]
+  - 实体 [[../entities/Bi2Te2Se]]
+  - 实体 [[../entities/silicene]]
+  - 实体 [[../entities/MnSe2]]
+  - 实体 [[../entities/WS2]]
+  - 实体 [[../entities/MgO]]
+  - 实体 [[../entities/Pt]]
+  - 实体 [[../entities/YIG]]
+  - 实体 [[../entities/Heusler-alloy]]
+  - 实体 [[../entities/MoS2]]
+  - 图表 [[../figures/heterostructures-stacking|自旋电子学与应变工程]]
+  - 图表 [[../figures/electronic-devices]]
+  - 图表 [[../figures/electronic-bands]]
+  - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2020-2024|2020]]
-  - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
-  - 概念 [[../concepts/spin-transport]]、[[../concepts/spin-filtering]]
-  - 实体 [[../entities/EuS]]、[[../entities/WSe2]]、[[../entities/Co]]、[[../entities/Bi2Te2Se]]、[[../entities/silicene]]、[[../entities/MnSe2]]、[[../entities/WS2]]、[[../entities/MgO]]、[[../entities/Pt]]、[[../entities/YIG]]、[[../entities/Heusler-alloy]]、[[../entities/MoS2]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/liuSpintronicsTwoDimensionalMaterials2020b]]
 
 ## 🆕 新概念/实体建议
@@ -258,7 +297,7 @@ Yanping Liu, Cheng Zeng, Jiahong Zhong, Junnan Ding, Zhiming M. Wang, Zongwen Li
 ## ✏️ 可写入 Wiki 的要点
   1. 电导率失配公式 P = (r_F P_F + r_C P_C)/r_FN（r_FN = r_F + r_N + r_C）定量说明铁磁金属直接接触[[../concepts/2d-materials|二维材料]]时[[../concepts/spin-injection|自旋注入]]效率极低；插入隧道势垒使 r_C ≠ 0 是标准解法，hBN 因原子级平整、与[[../entities/graphene|石墨烯]]晶格失配仅约 1.8% 成为最佳势垒。
   2. Gurram et al. 在 FM/双层 hBN/石墨烯/hBN 异质结中通过直流偏压将差分注入/检测极化率推至接近 ±100%（Nat. Commun. 8, 248, 2017）；Kamalakar et al. 用 Co/CVD-hBN/石墨烯实现约 65% 极化率并首次观测到信号反转。
-  3. 自旋注入除电注入外尚有三条路径：(i) 磁工程（氢化石墨烯每个 H 贡献约 1 μB；空位、锯齿纳米带；偏压[[../entities/bilayer-graphene|双层石墨烯]]墨西哥帽能带 Stoner 失稳）；(ii) 光注入（WSe2 圆偏光谷极化扩散至石墨烯；飞秒激光在 Co 中产生远平衡自旋注入 MoS2，自旋电流密度达 10^6–10^8 A cm^-2）；(iii) SOC 注入（Rashba/TI 表面态 [[../concepts/edelstein-effect|Edelstein 效应]]、重金属/Pt [[../concepts/spin-hall-effect|自旋[[../concepts/hall-effect|霍尔效应]]]]）。
+  3. 自旋注入除电注入外尚有三条路径：(i) 磁工程（氢化石墨烯每个 H 贡献约 1 μB；空位、锯齿纳米带；偏压[[../entities/bilayer-graphene|双层石墨烯]]墨西哥帽能带 Stoner 失稳）；(ii) 光注入（WSe2 圆偏光谷极化扩散至石墨烯；飞秒激光在 Co 中产生远平衡自旋注入 MoS2，自旋电流密度达 10^6–10^8 A cm^-2）；(iii) SOC 注入（Rashba/TI 表面态 [[../concepts/edelstein-effect|Edelstein 效应]]、重金属/Pt [[../concepts/spin-hall-effect|自旋霍尔效应]]）。
   4. Rashba 哈密顿量 H_R = v0 ẑ·(k×σ)，对应有效 k 依赖磁场 B(k) = 2α ẑ×k；Edelstein 效应使面内电荷流 j_C 偏移费米轮廓 Δk，在横向产生自旋积累并可扩散为纯三维自旋流。
   5. 石墨烯[[../concepts/spin-transport|自旋输运]]性能编年史：SiO2/Si 衬底 τs≈170 ps、λs≈2 μm（2007/300 K）；SiC 衬底 1.3 ns；hBN 衬底 0.39 ns/4.5 μm；hBN 部分封装 2 ns/12 μm；悬浮 + hBN 封装 12.6 ns/30.5 μm（迄今剥离石墨烯最高，2016）；hBN 封装 2–3 层势垒可达 1.86 ns。[[../concepts/spin-relaxation|自旋弛豫]]时间与迁移率无强相关，电荷散射不是主因，溶剂残留和接触诱导退相更为关键。
   6. Hanle 拟合公式 R_NL ∝ ±∫₀^∞ [1/√(4πDs t)] exp(−L²/4Ds t) cos(ω_L t) exp(−t/τs) dt，ω_L = gμ_B B⊥/ℏ，是提取 τs、λs 的标准方法；λs = √(τs Ds)。

@@ -12,9 +12,10 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/wernetSpectroscopicCharacterizationMicroscopic2005]]
 projects: [project-6]
-concepts: [density-functional-theory, heterogeneous-patch-model, x-ray-absorption-spectroscopy, x-ray-raman-scattering, radial-distribution-function, hydrogen-bond]
+concepts: [density-functional-theory, heterogeneous-patch-model, x-ray-raman-scattering, radial-distribution-function, hydrogen-bond]
 entities:
   - supercritical-water
+  - x-ray-absorption-spectroscopy
 methods: [dft, raman, xanes]
 materials:
   - water
@@ -68,10 +69,10 @@ Ph. Wernet, D. Testemale, J.-L. Hazemann, R. Argoud, P. Glatzel, L. G. M. Petter
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/density-functional-theory|密度泛函理论]]（用 DFT 对 11 分子水团簇计算氧 K 边近边谱，与实验差谱拟合反推氢键几何）
   - 概念 [[../concepts/x-ray-raman-scattering|X 射线拉曼散射]]（硬 X 射线非弹性散射版 XAS，~10 keV 入射、q→0 时等价于 XAS，可穿透 Be 窗原位探测高压高温流体）
-  - 概念 [[../concepts/x-ray-absorption-spectroscopy|X 射线吸收光谱]]（芯电子到未占据轨道的吸收谱，氧 K 边近边区对局域氢键环境敏感；Thomas–Reiche–Kuhn 求和规则保证面积归一化可比构型丰度）
   - 概念 [[../concepts/hydrogen-bond|氢键]]（区分供体/受体氢键，给出 O–O 距 ≥3.3 Å 或 O–H···O 角 <150° 的断键判据；XRS 对供体侧敏感）
   - 概念 [[../concepts/radial-distribution-function|径向分布函数]]（衍射给出的系综平均 g(r)，无法区分"断键"与"扭曲键"，是本文引入 XRS 的核心动机）
   - 概念 [[../concepts/heterogeneous-patch-model|非均相斑块模型]]（5–10 分子致密四氢键斑块分散于类气相低密度背景，由 SAXS 相关长度 5.6±0.4 Å 与 XRS 构型联合约束）
+  - 实体 [[../entities/x-ray-absorption-spectroscopy|X 射线吸收光谱]]（芯电子到未占据轨道的吸收谱，氧 K 边近边区对局域氢键环境敏感；Thomas–Reiche–Kuhn 求和规则保证面积归一化可比构型丰度）
   - 实体 [[../entities/supercritical-water|超临界水]]（温度压力高于临界点 374.1 °C/220.6 bar 的水；本文状态点 380 °C、300 bar、0.54 g/cm³）
   - 图表 [[../figures/optical-spectra]]（氧 K 边 XAS/XRS 近边谱、pre-edge/post-edge 指认、差谱法定量组分）
   - 图表 [[../figures/experimental-setups]]（APS 18-ID 波荡器线站、Si(400) 单色器、Ge(555) 多晶分析器、Be 窗高压高温池、氧化铝管样品容器）

@@ -86,24 +86,31 @@ Erse Jia、Chen Xie、Na Xiao、Francois Courvoisier、Minglie Hu，2023，Chine
 用单个纯相位 SLM 将多通道干涉波前传感原位集成到飞秒 2PP 系统中，无需泽尼克/Gerchberg–Saxton 等复杂算法即可补偿超过 4π 的系统像差，使高阶贝塞尔光束（m=6）恢复近理想形态，并快速制造出高圆度、壁厚均匀、无倒塌的 SU-8 微管阵列。
 
 ## 🔗 Wiki 双链
+  - 概念 [[../concepts/bessel-beam|贝塞尔光束]]
+  - 概念 [[../concepts/self-healing-beam]]
+  - 概念 [[../concepts/optical-vortex]]
+  - 概念 [[../concepts/complex-amplitude-modulation]]
+  - 概念 [[../concepts/high-order-bessel-beams]]
+  - 概念 [[../concepts/two-photon-polymerization|双光子聚合 (2PP)]]
+  - 概念 [[../concepts/photopolymerization|光聚合]]
+  - 概念 [[../concepts/diffraction-free-beam|无衍射光束]]
+  - 概念 [[../concepts/orbital-angular-momentum|轨道角动量 (OAM)]]
+  - 概念 [[../concepts/adaptive-optics|自适应光学]]
+  - 概念 [[../concepts/aberration-correction|像差校正]]
+  - 概念 [[../concepts/wavefront-sensing|波前传感]]
+  - 实体 [[../entities/Holoeye-PLUTO]]
+  - 实体 [[../entities/Olympus-20x-objective]]
+  - 实体 [[../entities/mechanical-shutter]]
+  - 实体 [[../entities/ZEISS-Gemini-300]]
+  - 实体 [[../entities/ND-filter]]
+  - 实体 [[../entities/CCD-camera]]
+  - 实体 [[../entities/femtosecond-fiber-laser]]
+  - 实体 [[../entities/spatial-light-modulator|空间光调制器 (SLM)]]
+  - 实体 [[../entities/SU-8|SU-8 光刻胶]]
+  - 实体 [[../entities/BBO-crystal|BBO 倍频晶体]]
   - 年度 [[../write/2020-2024|2023]]
   - 项目 [[../projects/project-1-two-photon]]
-  - 概念 [[../concepts/bessel-beam]]、[[../concepts/self-healing-beam]]、[[../concepts/optical-vortex]]、[[../concepts/complex-amplitude-modulation]]、[[../concepts/high-order-bessel-beams]]
-  - 实体 [[../entities/Holoeye-PLUTO]]、[[../entities/Olympus-20x-objective]]、[[../entities/mechanical-shutter]]、[[../entities/ZEISS-Gemini-300]]、[[../entities/ND-filter]]、[[../entities/CCD-camera]]、[[../entities/femtosecond-fiber-laser]]
   - 相关论文 [[../../raw/note/Jia2023polymerization]]
-  - 概念：
-    - [[../concepts/two-photon-polymerization|双光子聚合 (2PP)]]
-    - [[../concepts/photopolymerization|光聚合]]
-    - [[../concepts/bessel-beam|贝塞尔光束]]
-    - [[../concepts/diffraction-free-beam|无衍射光束]]
-    - [[../concepts/orbital-angular-momentum|轨道角动量 (OAM)]]
-    - [[../concepts/adaptive-optics|自适应光学]]
-    - [[../concepts/aberration-correction|像差校正]]
-    - [[../concepts/wavefront-sensing|波前传感]]
-  - 实体：
-    - [[../entities/spatial-light-modulator|空间光调制器 (SLM)]]
-    - [[../entities/SU-8|SU-8 光刻胶]]
-    - [[../entities/BBO-crystal|BBO 倍频晶体]]
 
 ## 🆕 新概念/实体建议
   - `figures/beam-intensity-profiles.md` — 结构光纵向/横向强度分布图类型。

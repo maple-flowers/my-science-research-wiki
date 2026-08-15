@@ -87,20 +87,21 @@ Ri He, Bingwen Zhang, Hua Wang, Lei Li, Ping Tang, Gerrit Bauer, Zhicheng Zhong 
   - 概念 [[../concepts/super-paraelectricity]]
   - 概念 [[../concepts/machine-learning-potential]]
   - 概念 [[../concepts/density-functional-theory]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/moire-superlattice]]
   - 概念 [[../concepts/berry-phase]]
   - 概念 [[../concepts/strain-engineering]]
   - 概念 [[../concepts/topological-defects]]
+  - 概念 [[../concepts/domain-wall]]
   - 实体 [[../entities/h-BN]]
   - 实体 [[../entities/deep-potential]]
   - 实体 [[../entities/VASP]]
-  - 实体 [[../concepts/domain-wall]]
-  - 图表 [[../concepts/domain-wall]]
-  - 图表 [[../figures/heterostructures-stacking]]
-  - 图表 [[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]
+  - 图表 [[../figures/domain-walls-structures|畴结构与畴壁]]
+  - 图表 [[../figures/heterostructures-stacking|异质结与堆叠]]
+  - 图表 [[../figures/mathematical-models-computational|计算方法与泛函]]
   - 年度 [[../write/2020-2024]]
   - 相关论文 [[../../raw/note/heUltrafastSwitchingDynamics2024]]
+
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体：
   - [[../concepts/stacking-engineered-ferroelectricity|stacking-engineered-ferroelectricity]]（堆垛工程铁电性）：通过调控范德华双层的层间堆垛方式（AB/BA）产生可翻转极化的铁电机制，是滑移铁电性的子类，但强调"工程"层面的堆垛设计与器件应用。
@@ -168,13 +169,13 @@ wiki 中没有、但值得新建的概念或材料实体：
   - 类孤子运动（soliton-like motion）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. h-BN双层AB/BA堆垛产生面外极化Pz=1.46×10⁻¹² C/m（[[../concepts/berry-phase|Berry相位]]法，optB86b-vdW泛函），极化源于[[../concepts/interlayer-charge-transfer|层间[[../concepts/charge-transfer|电荷转移]]]]而非离子位移；鞍点（SP）构型为纯面内极化1.38×10⁻¹² C/m，极化模长在翻转路径上基本保持不变。
+  1. h-BN双层AB/BA堆垛产生面外极化Pz=1.46×10⁻¹² C/m（[[../concepts/berry-phase|Berry相位]]法，optB86b-vdW泛函），极化源于[[../concepts/interlayer-charge-transfer|层间电荷转移]]而非离子位移；鞍点（SP）构型为纯面内极化1.38×10⁻¹² C/m，极化模长在翻转路径上基本保持不变。
   2. DP模型通过DP-Gen[[../concepts/concurrent-learning|并发学习]]流程训练23轮，生成11,580个构型；能量误差0.60 meV/atom，面内力误差0.051 eV/Å，面外力误差0.017 eV/Å；截断半径Rc=6 Å，嵌入网络(25,50,100)，拟合网络(240,240,240)，训练180万步。
   3. 四种一维畴壁按DW与滑移矢量夹角φ分类：0°（布洛赫型，平面，最稳定）、30°、60°、90°（奈尔型，面外屈曲最显著）；畴壁宽度随φ单调增加：9.7、17.6、32.1、40.7 nm，比钙钛矿铁电体（~0.7 nm）大一个数量级。
   4. 一维弹性模型给出畴壁宽度w = u₀/2·√(λ₁ᴰ/Δ)，其中λ₁ᴰ为面内拉梅力系数，Δ为单位长度[[../concepts/switching-barrier|翻转势垒]]；范德华材料超低Δ与极高面内刚度λ₁ᴰ共同导致超宽畴壁；λ₁ᴰ可通过应变/电场调控，是铁电[[../concepts/domain-wall-engineering|畴壁工程]]的新自由度（类比磁学中[[../concepts/exchange-interaction|交换作用]]）。
   5. 单畴直接翻转临界场：100 K时Fs=3.8×10⁻³ eV/Å（Ev≈1.41 V/nm），300 K时3.5×10⁻³ eV/Å（~1.32 V/nm），对热涨落不敏感；而通过0°[[../concepts/domain-wall-motion|畴壁运动]]翻转的临界Fs仅7×10⁻⁵ eV/Å（Ev=0.026 V/nm），降低约两个数量级；90°畴壁临界Fs=3×10⁻⁴ eV/Å（Ev=0.11 V/nm）。
   6. 300 K下施加Fs=5×10⁻⁴ eV/Å（Ev=0.18 V/nm）时，两个0°畴壁以~6000 m/s速度相向运动，9 ps内湮灭；100 nm直径器件翻转时间约15 ps，预示超快低功耗非易失存储。
   7. 垂直电场Ev与横向剪切力Fs的关系为Fs=Ev·Z*₁₃，Berry相位计算给出Z*₁₃^top=0.027、Z*₁₃^bottom=−0.027，比BaTiO₃小两个数量级；LGD唯象分析表明梯度能系数Gij增大→畴壁更宽→速度更快→临界场更低（临界场与畴壁宽度成反比）。
-  8. 0.385°扭转[[../concepts/moire-superlattice|莫尔[[../concepts/superlattice|超晶格]]]]（355,012原子）弛豫后，AB/BA畴扩张为三角形、高能AA畴收缩为点；垂直电场下BA畴由三角形变为类六边形，Pz在Ev=0.026 V/nm即快速饱和至1.32×10⁻¹² C/m，撤场后恢复，P-E曲线无回滞——本征态为超顺电体而非铁电体。
+  8. 0.385°扭转[[../concepts/moire-superlattice|莫尔超晶格]]（355,012原子）弛豫后，AB/BA畴扩张为三角形、高能AA畴收缩为点；垂直电场下BA畴由三角形变为类六边形，Pz在Ev=0.026 V/nm即快速饱和至1.32×10⁻¹² C/m，撤场后恢复，P-E曲线无回滞——本征态为超顺电体而非铁电体。
   9. 氮空位（VN）对畴壁形成约50 meV的捕获势阱，少量缺陷即可钉扎畴壁，阻止AB/BA畴尺寸在零场下平衡，从而产生[[../concepts/remanent-polarization|剩余极化]]与类铁电回滞——这为莫尔结构实验中观测到的铁电响应提供了缺陷钉扎机制解释。
   10. 热稳定性：50-700 K范围内单畴结构保持完整，700 K时极化仅从1.46降至1.14×10⁻¹² C/m（因层间距热膨胀增大），证实极高[[../concepts/curie-temperature|居里温度]]；面内化学键刚度使极化几乎不受热涨落影响。

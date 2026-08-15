@@ -78,13 +78,24 @@ Jian Kang, Zlatko Tešanović，2012，Physical Review B 85, 220507(R)，DOI 10.
 ## 💡 一句话
 提出"重构嵌套"概念，将铁基超导体中钴杂质周围的 STM 二聚体共振解释为口袋密度波（PoDW）序导致的费米面重构与轨道选择性各向异性，并论证此类纳米结构可作为诊断隐藏密度波序的工具。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/charge-density-wave]]、[[../concepts/antiferromagnetism|反铁磁性]]、[[../concepts/fermi-surface-nesting|费米面嵌套]]、[[../concepts/nematic-order|向列序]]、[[../concepts/orbital-content|轨道成分]]、[[../concepts/pocket-density-wave|口袋密度波]]、[[../concepts/quasiparticle-interference|准粒子干涉]]、[[../concepts/reconstructed-nesting|重构嵌套]]、[[../concepts/spin-density-wave|自旋密度波]]
-  - 图表 [[../figures/electronic-bands]]、[[../figures/mathematical-models]]
-  - 年度 [[../write/2010-2014|2012]]
-  - 项目 [[../projects/project-7-cdw-charge-density-wave]]、[[../projects/project-2-mn-multiferroics]]
+  - 概念 [[../concepts/charge-density-wave]]
+  - 概念 [[../concepts/antiferromagnetism|反铁磁性]]
+  - 概念 [[../concepts/fermi-surface-nesting|费米面嵌套]]
+  - 概念 [[../concepts/nematic-order|向列序]]
+  - 概念 [[../concepts/orbital-content|轨道成分]]
+  - 概念 [[../concepts/pocket-density-wave|口袋密度波]]
+  - 概念 [[../concepts/quasiparticle-interference|准粒子干涉]]
+  - 概念 [[../concepts/reconstructed-nesting|重构嵌套]]
+  - 概念 [[../concepts/spin-density-wave|自旋密度波]]
   - 概念 [[../concepts/c4-symmetry-breaking]]
   - 实体 [[../entities/iron-pnictides]]
+  - 图表 [[../figures/electronic-bands]]
+  - 图表 [[../figures/mathematical-models]]
+  - 年度 [[../write/2010-2014|2012]]
+  - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/Kang2012dimer]]
+
 ## 🆕 新概念/实体建议
   - [[../concepts/fermi-surface-nesting|fermi-surface-nesting]]（费米面嵌套）：费米面不同片段经波矢平移后高度重合，是密度波不稳定性的几何驱动力。
   - [[../concepts/pocket-density-wave|pocket-density-wave]]（口袋密度波，PoDW）：仅耦合特定电子/空穴口袋并部分打开能隙的密度波序，可诱导结构相变与轨道铁磁性。

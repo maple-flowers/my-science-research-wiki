@@ -67,9 +67,14 @@ Chi-Bao Huang（黄齐宝，遵义师范学院信息工程学院），2023，*Jo
 在二苯乙烯骨架的单个苯环上引入 2,5-二氰基受体搭配强给体二甲氨基，得到溶剂化显色位移达 196 nm、双光子吸收截面高达 5560 GM 的探针 1a，并首次在双光子激发下观察到由 LE / TICT / 分子间激基复合物构成的三重荧光。
 
 ## 🔗 Wiki 双链
-  - 图表 [[../figures/optical-spectra]]（全文以紫外-可见吸收、单/双光子发射、双光子截面谱为核心证据）
-  - 概念 [[../concepts/solvatochromism|溶剂化显色]]、[[../concepts/two-photon-absorption-cross-section|双光子吸收截面]]、[[../concepts/tict-mechanism]]、[[../concepts/exciplex|激基复合物]]、[[../concepts/triple-fluorescence|三重荧光]]、[[../concepts/d-pi-a-architecture]]
+  - 概念 [[../concepts/solvatochromism|溶剂化显色]]
+  - 概念 [[../concepts/two-photon-absorption-cross-section|双光子吸收截面]]
+  - 概念 [[../concepts/tict-mechanism]]
+  - 概念 [[../concepts/exciplex|激基复合物]]
+  - 概念 [[../concepts/triple-fluorescence|三重荧光]]
+  - 概念 [[../concepts/d-pi-a-architecture]]
   - 实体 [[../entities/dicyanostilbene-1a|探针 1a（2,5-二氰基二苯乙烯）]]
+  - 图表 [[../figures/optical-spectra]]（全文以紫外-可见吸收、单/双光子发射、双光子截面谱为核心证据）
   - 年度 [[../write/2020-2024|2023]]
   - 项目 [[../projects/project-1-two-photon]]
   - 相关论文 [[../../raw/note/Huang2023two]]

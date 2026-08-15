@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Perugu2024morphology]]
 projects: [project-2]
-concepts: [multiferroicity, magnetoelectric-coupling, maxwell-wagner-polarization, hopping-conduction, oxygen-vacancy, jonscher-power-law, spin-cycloid, hydrothermal-synthesis, dielectric-absorber, magnetic-domain, BLFO, scherrer-equation]
+concepts: [multiferroicity, magnetoelectric-coupling, maxwell-wagner-polarization, hopping-conduction, oxygen-vacancy, jonscher-power-law, spin-cycloid, hydrothermal-synthesis, dielectric-absorber, magnetic-domain, scherrer-equation]
 entities: [BiFeO3, BLFO]
 methods: [hydrothermal-synthesis, xrd, scherrer-equation, fe-sem, tem, hrtem, impedance-spectroscopy, vsm, pe-loop, linear-intercept-method]
 materials: [BiFeO3, Bi1-xLaxFeO3, La-doped-BFO-nanoparticles]
@@ -82,14 +82,23 @@ Perugu S, Bhanu Kiran G, Anil Babu T, Raghavaiah BV，2024，*Indian Journal of 
 水热法合成 Bi₁₋ₓLaₓFeO₃（x=0.2–0.8）纳米颗粒，系统证明 La 取代 Bi 位点导致晶格膨胀、球形→纳米棒形貌转变、杂相抑制、饱和磁化强度从 13.2 升至 21.5 emu/g，并将 x=0.8 样品推荐为介电吸收器候选材料。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/maxwell-wagner-polarization|Maxwell-Wagner 界面极化]]、[[../concepts/hopping-conduction|跳跃传导]]、[[../concepts/jonscher-power-law|Jonscher 幂律]]、[[../concepts/oxygen-vacancy|氧空位]]、[[../concepts/spin-cycloid|自旋回旋/螺旋磁结构]]、[[../concepts/hydrothermal-synthesis|水热合成法]]、[[../concepts/dielectric-absorber|介电吸收器]]、[[../concepts/BLFO|BLFO（La 掺杂 BiFeO₃）]]、[[../concepts/scherrer-equation|谢乐公式]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/maxwell-wagner-polarization|Maxwell-Wagner 界面极化]]
+  - 概念 [[../concepts/hopping-conduction|跳跃传导]]
+  - 概念 [[../concepts/jonscher-power-law|Jonscher 幂律]]
+  - 概念 [[../concepts/oxygen-vacancy|氧空位]]
+  - 概念 [[../concepts/spin-cycloid|自旋回旋/螺旋磁结构]]
+  - 概念 [[../concepts/hydrothermal-synthesis|水热合成法]]
+  - 概念 [[../concepts/dielectric-absorber|介电吸收器]]
+  - 概念 [[../concepts/scherrer-equation|谢乐公式]]
+  - 概念 [[../concepts/magnetic-domain]]
+  - 实体 [[../entities/BLFO|BLFO（La 掺杂 BiFeO₃）]]
   - 实体 [[../entities/BiFeO3]]
   - 图表 [[../figures/crystal-structures]]
   - 年度 [[../write/2020-2024|2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
-  - 话题 [[../topics/多铁性材料]]
-  - 概念 [[../concepts/magnetic-domain]]
-  - 实体 [[../entities/BLFO]]
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
   - 相关论文 [[../../raw/note/Perugu2024morphology]]
 
 ## 📊 关键图表
