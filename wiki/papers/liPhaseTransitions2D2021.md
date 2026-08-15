@@ -228,6 +228,19 @@ Wenbin Li、Xiaofeng Qian、Ju Li，2021，*Nature Reviews Materials* 6, 829–8
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
   - 话题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/liPhaseTransitions2D2021]]
+  - 实体 [[../entities/MoS2]]
+  - 实体 [[../entities/MoTe2]]
+  - 实体 [[../entities/CrI3]]
+  - 实体 [[../entities/NbSe2]]
+  - 实体 [[../entities/Cr2Ge2Te6]]
+  - 实体 [[../entities/CuInP2S6]]
+  - 实体 [[../entities/TiTe2]]
+  - 实体 [[../entities/SnSe]]
+  - 实体 [[../entities/GeSe]]
+  - 实体 [[../entities/graphene]]
+  - 实体 [[../entities/GeTe]]
+  - 实体 [[../entities/Sb2Te3]]
+  - 实体 [[../entities/SnO]]
 
 ## 🆕 新概念/实体建议
   - `mermin-wagner-theorem`：Hohenberg–Mermin–Wagner 定理，连续对称性在 2D 短程相互作用体系中禁止有限温度长程有序；磁各向异性/长程相互作用是其逃逸出口。

@@ -328,6 +328,10 @@ Xiaoyao Sun、Qian Xia、Tengfei Cao、Shuoguo Yuan 等，2025，*Materials Scie
   - 概念 [[../concepts/van-hove-singularity]]、[[../concepts/neuromorphic-computing]]
   - 实体 [[../entities/MoSe2]]、[[../entities/WS2]]
 - 相关论文：[[../../raw/note/sunSlidingFerroelectricityTwodimensional2025]]
+  - 实体 [[../entities/GaSe]]
+  - 实体 [[../entities/InSe]]
+  - 实体 [[../entities/Cd3Cl6]]
+  - 实体 [[../entities/Janus-MoSSe]]
 
 ## 🆕 新概念/实体建议
 

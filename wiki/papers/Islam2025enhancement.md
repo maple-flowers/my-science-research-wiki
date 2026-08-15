@@ -88,6 +88,7 @@ S. S. Islam, V. Sazgari, C. Witteveen, J. N. Graham, O. Gerguri, P. Král, M. Ba
   - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/Islam2025enhancement]]
+  - 实体 [[../entities/1T-MoTe2]]
 
 ## 🆕 新概念/实体建议
   - 实体 `1T-MoTe2.md`：本文图 5 中作为对比的拓扑/外尔超导体，已有 wiki WTe2 可作为邻近条目。

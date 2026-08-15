@@ -82,6 +82,8 @@ Lin Zhang, Yaming Wang，2019，JOM 71(12), 4917-4924，DOI 10.1007/s11837-019-0
   - 概念：[[../concepts/molecular-dynamics|分子动力学 (MD)]]、[[../concepts/embedded-atom-method|嵌入原子法 (EAM)]]、[[../concepts/icosahedral-cluster|二十面体团簇]]、[[../concepts/hcp-bcc-transition|HCP-BCC 固-固相变]]、[[../concepts/dulong-petit-law|杜隆-珀蒂定律]]、[[../concepts/size-dependent-melting|尺寸依赖熔化]]、[[../concepts/undercooling-hysteresis|过冷与相变滞后]]、[[../concepts/particle-coalescence|纳米颗粒聚结]]
   - 实体：[[../entities/Moldy|Moldy]]
   - 图表：[[../figures/mathematical-models|数学模型与物理公式]]
+  - 实体 [[../entities/Ti-nanoparticle]]
+
 ## 🆕 新概念/实体建议
   - 实体 `Ti-nanoparticle.md` — 钛纳米颗粒（α-HCP / β-BCC 两相，本文研究对象）
 ## 📊 关键图表

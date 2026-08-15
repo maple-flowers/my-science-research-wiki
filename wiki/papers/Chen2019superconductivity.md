@@ -73,6 +73,11 @@ Chuan Chen, Lei Su, A. H. Castro Neto, Vitor M. Pereira et al.，2019，Physical
   - 年度 [[../write/2019]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 **Chen2019superconductivity**
+  - 实体 [[../entities/TiSe2]]
+  - 实体 [[../entities/2H-TaSe2]]
+  - 实体 [[../entities/1T-TaS2]]
+  - 实体 [[../entities/2H-NbSe2]]
+
 ## 🆕 新概念/实体建议
   - `discommensuration`（错位相子/失配畴壁）：C-CDW 中相位跳变 2πν 的局域孤子状畴壁，是本文核心物理对象，值得单独立概念条目。
   - `pair-density-wave`（配对密度波，PDW）：超导序参量空间周期性调制的非均匀超导态，本文预言 DC 网络可外生产生 PDW。

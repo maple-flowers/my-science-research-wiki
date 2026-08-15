@@ -92,6 +92,8 @@ Nafiseh Tobeiha, Nafiseh Memarian, Fatemeh Ostovari，2025年，*Scientific Repo
   - 概念 [[../concepts/p-type-semiconductor]]、[[../concepts/photoconductivity]]、[[../concepts/kubelka-munk-theory]]、[[../concepts/optical-bandgap]]
   - 实体 [[../entities/graphene-oxide]]、[[../entities/g-go-nanosheets]]
   - 相关论文 [[../../raw/note/Tobeiha2025optical]]
+  - 实体 [[../entities/graphene]]
+
 ## 🆕 新概念/实体建议
   - `exciton-binding-energy`（激子结合能）：光生电子-空穴对的库仑束缚能，是本文解释450 nm与808 nm波长差异化光-湿耦合效应的核心物理量，石墨烯中约3 eV。
   - `optical-humidity-sensing`（光学湿度传感）：利用光与湿敏材料相互作用（光吸收、光电流、折射率变化等）检测湿度的传感范式，区别于传统电阻/电容式。

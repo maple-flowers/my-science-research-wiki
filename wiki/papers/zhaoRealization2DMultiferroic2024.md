@@ -83,6 +83,8 @@ Ying Zhao, Yanxia Wang, Yue Yang, Jijun Zhao, Xue Jiang（大连理工大学/华
   - 年度 [[../write/2020-2024|2024]]
   - 主题 [[../topics/多铁性材料]]、[[../topics/材料模拟计算设计]]
   - 相关论文 [[../../raw/note/zhaoRealization2DMultiferroic2024]]
+  - 实体 [[../entities/T-CdCr2Te4]]
+
 ## 🆕 新概念/实体建议
   - `intercalation`（插层）：外来原子/分子嵌入范德华层间间隙形成杂化化合物的化学过程，是本文设计策略的核心。
   - `magnetic-skyrmion`（磁斯格明子）：拓扑保护的涡旋状纳米自旋织构，可作赛道存储器信息比特；本文在 T-CdCr₂Te₄ 中实现电控反斯格明子。

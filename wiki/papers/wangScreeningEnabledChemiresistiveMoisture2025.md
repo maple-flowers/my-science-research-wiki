@@ -84,6 +84,8 @@ Yingchao Wang, Xiaohe Miao, Paul A. Kempler, Jin-Hu Dou, Carl K. Brozek, Lei Sun
   - 项目 [[../projects/project-6-humidity-sensor]]（核心相关：化学电阻式湿度传感、水对载流子陷阱的介电屏蔽）
   - 项目 [[../projects/project-4-ttf-molecular-calc]]（TTF 分子及其 π-堆积柱中的空间电荷传输、能带/迁移率计算的类比参考）
   - 相关论文 [[../../raw/note/wangScreeningEnabledChemiresistiveMoisture2025]]
+  - 实体 [[../entities/M2-TTFTB]]
+  - 实体 [[../entities/Zn2-TTFTB]]
 
 ## 🆕 新概念/实体建议
   - 实体 `M2-TTFTB.md`：M₂(TTFTB)（TTFTB⁴⁻ = tetrathiafulvalene tetrabenzoate）同构导电 MOF 系列，沿 c 轴 π-堆积 TTF 柱，M = Mn²⁺/Co²⁺/Zn²⁺/Cd²⁺，本工作的模型体系；CCDC 2486213、2486218。

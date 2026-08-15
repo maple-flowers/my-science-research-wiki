@@ -99,6 +99,11 @@ Liufang Chen, Zhihao Cheng, Wenting Xu, Xiangjian Meng, Guoliang Yuan, Junming L
   - 年度 [[../write/2016]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 **Chen2016electrical**
+  - 实体 [[../entities/La0.67Sr0.33MnO3]]
+  - 实体 [[../entities/PbZrxTi1-xO3]]
+  - 实体 [[../entities/PLD]]
+  - 实体 [[../entities/PFM]]
+  - 实体 [[../entities/c-AFM]]
 
 ## 🆕 新概念/实体建议
   - `flexoelectricity`（挠曲电效应）：应变梯度 ∂e/∂z 通过挠曲电张量 f 诱导电场 E_f=(f/ε)(∂e/∂z)，是力学翻转的核心驱动力；建议在 concepts 下新建。

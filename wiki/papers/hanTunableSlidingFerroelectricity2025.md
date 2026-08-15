@@ -104,6 +104,7 @@ Peng Han, Jingtong Zhang, Xumin Chen, Jie Wang（浙江大学、大连理工大�
   - 概念 [[../concepts/magnetic-anisotropy]]
   - 实体 [[../entities/RuBr2]]、[[../entities/RuI2]]、[[../entities/RuCl2]]
   - 相关论文 [[../../raw/note/hanTunableSlidingFerroelectricity2025]]
+  - 实体 [[../entities/RuX2]]
 
 ## 🆕 新概念/实体建议
   - `magnetic-anisotropy`（磁各向异性能，MAE）：抵抗 Mermin–Wagner 热涨落、稳定二维长程磁序的关键能量尺度；本文 from d 轨道耦合层面解析其来源。

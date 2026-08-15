@@ -108,6 +108,10 @@ Manfred Fiebig、Thomas Lottermoser、Dennis Meier、Morgan Trassin（ETH Züric
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 主题 [[多铁性材料]]
   - 相关论文 [[../../raw/note/fiebigEvolutionMultiferroics2016]]
+  - 实体 [[../entities/h-YMnO3]]
+  - 实体 [[../entities/Cr2O3]]
+  - 实体 [[../entities/CaMn7O12]]
+
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体：
   - 实体 `h-YMnO3.md`（六方锰酸钇）：几何铁电代表，Ps=5.6 μC/cm²，Tc≥1200 K，TN≤120 K；SHG首次揭示畴壁磁电耦合。

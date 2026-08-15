@@ -100,6 +100,14 @@ N. A. Spaldin & R. Ramesh et al.，2019，Nature Materials，vol. 18, pp. 203–
   - 年度 [[../write/2019]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/spaldinAdvancesMagnetoelectricMultiferroics2019]]
+  - 实体 [[../entities/BaTiO3]]
+  - 实体 [[../entities/FeRh]]
+  - 实体 [[../entities/Cr2O3]]
+  - 实体 [[../entities/EuTiO3]]
+  - 实体 [[../entities/YBaCuFeO5]]
+  - 实体 [[../entities/BiCoO3]]
+  - 实体 [[../entities/PMN-PT]]
+  - 实体 [[../entities/CoFe2O4]]
 
 ## 🆕 新概念/实体建议
   - `magnetoelectric-multipoles`（磁电多极子）：包括磁电单极子、环形矩（toroidal moment）和四极子，分别对应磁电张量的各向同性对角、反对称非对角和无迹分量，是同时打破空间反演与时间反演对称性相变的更本质序参量。

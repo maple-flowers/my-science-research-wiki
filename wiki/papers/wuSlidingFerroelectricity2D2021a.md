@@ -125,6 +125,14 @@ Menghao Wu（吴梦昊，华中科技大学）& Ju Li（李巨，MIT），2021�
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/wuSlidingFerroelectricity2D2021a]]
+  - 实体 [[../entities/CrI3]]
+  - 实体 [[../entities/AlN]]
+  - 实体 [[../entities/ZrI2]]
+  - 实体 [[../entities/GaN]]
+  - 实体 [[../entities/SiC]]
+  - 实体 [[../entities/ZnO]]
+  - 实体 [[../entities/InSe]]
+  - 实体 [[../entities/GaSe]]
 
 ## 🆕 新概念/实体建议
   - `ripplocation`（波纹位错）：二维 vdW 层中兼具晶体学位错与面外屈曲波纹特征的畴壁，是滑动铁电翻转的动力学载体；Frank 定律（核心能 ∝|b|²）在 2D 中因面内弹性能被屈曲弛豫而失效。

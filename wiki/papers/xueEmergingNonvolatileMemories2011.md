@@ -86,6 +86,10 @@ Chun Jason Xue、Youtao Zhang、Yiran Chen、Guangyu Sun、J. Joshua Yang、Hai 
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/xueEmergingNonvolatileMemories2011]]
+  - 实体 [[../entities/GST]]
+  - 实体 [[../entities/TaOx]]
+  - 实体 [[../entities/MgO-MTJ]]
+
 ## 🆕 新概念/实体建议
   - 实体建议：`GST.md`（Ge2Sb2Te5 相变合金）、`TaOx.md`（高耐久性忆阻材料，>10^12 次循环）、`MgO-MTJ.md`（MgO 势垒磁隧道结）。
 ## 📊 关键图表

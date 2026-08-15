@@ -104,6 +104,10 @@ F. Zhou, M. Cococcioni, C. A. Marianetti, D. Morgan, G. Ceder，2004，Physical 
   - 年度 [[../write/2000-2004|2004]]
   - 概念 [[../concepts/chemical-potential]]、[[../concepts/high-spin-state]]、[[../concepts/electron-localization]]、[[../concepts/charge-ordering]]
   - 相关论文 [[../../raw/note/zhouFirstprinciplesPredictionRedox2004]]
+  - 实体 [[../entities/LiFePO4]]
+  - 实体 [[../entities/LixMn2O4]]
+  - 实体 [[../entities/LiCoO2]]
+
 ## 🆕 新概念/实体建议
   - `self-interaction-error`：LDA/GGA 中电子与自身电荷密度非物理相互作用导致的能量误差，是本文电压低估的物理根源。
   - `linear-response-u`：Cococcioni–de Gironcoli 线性响应法，通过裸响应 χ₀ 与屏蔽响应 χ 之差自洽计算 Hubbard U，无经验参数。

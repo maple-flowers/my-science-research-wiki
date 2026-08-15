@@ -109,6 +109,9 @@ R. Ramesh 与 Nicola A. Spaldin et al.，2007，*Nature Materials* 6(1), 21–29
   - 年度 [[../write/2007]]
   - 主题 [[多铁性材料]]
   - 相关论文 [[../../raw/note/rameshMultiferroicsProgressProspects2007]]
+  - 实体 [[../entities/CoFe2O4]]
+  - 实体 [[../entities/PbVO3]]
+  - 实体 [[../entities/Bi2FeCrO6]]
 
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体：

@@ -108,6 +108,7 @@ Kaiyun Chen, Junkai Deng, Dongxiao Kan, Yuan Yan, Qian Shi, Wangtu Huo, Mengshan
   - 概念 [[../concepts/magnetism]]
   - 实体 [[../entities/CrSe2]]、[[../entities/MnS2]]、[[../entities/MnSe2]]、[[../entities/MnTe2]]、[[../entities/CrS2]]
   - 相关论文 **chenFerromagneticNonmagnetic1T2022**
+  - 实体 [[../entities/VTe2]]
 
 ## 🆕 新概念/实体建议
   - `peierls-distortion`：派尔斯畸变，一维/准一维金属中电子-声子耦合导致晶格周期性二聚化并在费米面打开带隙的不稳定性，是NM-CDW的标准形成机制。
