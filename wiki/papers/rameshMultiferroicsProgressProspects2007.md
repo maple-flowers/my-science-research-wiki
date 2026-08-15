@@ -106,7 +106,7 @@ R. Ramesh 与 Nicola A. Spaldin et al.，2007，*Nature Materials* 6(1), 21–29
   - 图表 [[../concepts/domain-wall]]
   - 图表 [[../figures/experimental-setups]]
   - 图表 [[../figures/electronic-devices]]
-  - 年度 [[../write/2007]]
+  - 年度 [[../write/2005-2009]]
   - 主题 [[多铁性材料]]
   - 相关论文 [[../../raw/note/rameshMultiferroicsProgressProspects2007]]
   - 实体 [[../entities/CoFe2O4]]

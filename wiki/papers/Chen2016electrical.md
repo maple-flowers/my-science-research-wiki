@@ -96,7 +96,7 @@ Liufang Chen, Zhihao Cheng, Wenting Xu, Xiangjian Meng, Guoliang Yuan, Junming L
   - 概念 [[../concepts/polarization-switching]]、[[../concepts/ferroelasticity]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/flexoelectric-effect|挠曲电效应]]、[[../concepts/ferroelectric-domain|铁电畴]]、[[../concepts/domain-wall-motion|畴壁运动]]、[[../concepts/coercive-field|矫顽场]]、[[../concepts/ferroelectric-photovoltaic-effect|铁电光伏效应]]、[[../concepts/depletion-layer|耗尽层]]、[[../concepts/two-step-switching|两步翻转]]
   - 实体 [[../entities/BiFeO3]]、[[../concepts/domain-wall]]、[[../entities/SrTiO3]]、[[../entities/BaTiO3]]、[[../entities/ITO]]
   - 图表 [[../concepts/domain-wall]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups|实验测试与测量装置]]、[[../figures/mathematical-models|数学模型与物理公式]]
-  - 年度 [[../write/2016]]
+  - 年度 [[../write/2015-2019]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/Chen2016electrical]]
   - 实体 [[../entities/La0.67Sr0.33MnO3]]

@@ -108,7 +108,7 @@ Bo Xu, Zhanpeng Gong, Jingran Liu, Yunfei Hong, Yang Yang, Lou Li, Yilun Liu, Ju
   - 概念 [[../concepts/2D-materials]]、[[../concepts/strain-engineering]]、[[../concepts/topological-defects]]、[[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/machine-learning-potential]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelasticity]]、[[../concepts/ferroelectric-topological-defects|铁电拓扑缺陷]]、[[../concepts/soft-mode|软模]]、[[../concepts/paraelectric-ferroelectric-transition|顺电-铁电相变]]、[[../concepts/polar-vortex|极性涡旋]]、[[../concepts/antivortex|反涡旋]]、[[../concepts/flux-closure-domain|通量闭合畴]]、[[../concepts/polarization-phase-diagram|极化-应变相图]]、[[../concepts/giant-piezoelectricity|巨压电效应]]、[[../concepts/multiscale-simulation|多尺度模拟]]
   - 实体 [[../entities/PbTe]]、[[../entities/VASP]]、[[../entities/deep-potential]]、[[../concepts/domain-wall]]、[[../entities/DeepMD-kit|DeepMD-kit]]、[[../entities/LAMMPS|LAMMPS]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/vibrational-spectra]]、[[../figures/mathematical-models]]、[[../concepts/domain-wall]]
-  - 年度 [[../write/2022]]
+  - 年度 [[../write/2020-2024]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/xuTunableFerroelectricTopological2022]]
 

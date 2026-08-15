@@ -147,7 +147,7 @@ Xiangwei Chen, Zheng Wang, Jialin Meng, Tianyu Wang（山东大学），2026，N
   - 图表 [[../figures/electronic-devices]]
   - 图表 [[../figures/experimental-setups|实验测试与测量装置]]
   - 图表 [[../figures/mathematical-models|数学模型与物理公式]]
-  - 年度 [[../write/2026]]
+  - 年度 [[../write/2025-2029]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/chenHafniumBasedFerroelectricPostMoore2026]]
 ## 📊 关键图表

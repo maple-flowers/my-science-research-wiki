@@ -1,4 +1,4 @@
----
+﻿---
 tags: [concept, computational-physics, vasp, dft]
 title: DFT+U / 密度泛函理论加 U
 type: concept
@@ -6,7 +6,7 @@ status: mature
 domain: [computational-physics, electronic-structure]
 mechanism: 通过引入在位库仑排斥项 (Hubbard U) 来修正标准泛函对强关联体系（如过渡金属氧化物）中电子局域化的描述不足。
 related_concepts: [density-functional-theory, self-consistent-field-cycle, projector-augmented-wave]
-papers: [dudarevElectronenergylossSpectraStructural1998a, zhouFirstprinciplesPredictionRedox2004]
+papers: [dudarevElectronenergylossSpectraStructural1998a, zhouFirstprinciplesPredictionRedox2004, krishnamurthiSpinChargeDensity2020]
 updated: 2026-08
 ---
 
@@ -47,8 +47,7 @@ S. L. Dudarev 等人的工作证明，使用合理的 $U$ 值不仅可以修正�
 
 - [[../papers/dudarevElectronenergylossSpectraStructural1998a]]：旋转不变 DFT+U 方法的奠基论文，详细论述了 NiO 的结构与光谱修正。
 - [[../papers/zhouFirstprinciplesPredictionRedox2004]]：展示了 DFT+U 在预测电池材料氧化还原电位中的巨大成功。
-- [[../papers/krishnamurthiSpinChargeDensity2020]] — Spin/charge density waves at the boundaries of transition metal dichalcogenides
-- [[../papers/zhouFirstprinciplesPredictionRedox2004]] — First-principles prediction of redox potentials in transition-metal compounds with LDA+U
+- [[../papers/krishnamurthiSpinChargeDensity2020]]：研究了 TMD 界面上的自旋/电荷密度波。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

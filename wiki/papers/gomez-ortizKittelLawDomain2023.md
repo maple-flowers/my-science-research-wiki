@@ -96,7 +96,7 @@ Fernando Gómez-Ortiz, Hugo Aramberri, Juan M. López, Pablo García-Fernández,
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/topological-defects]]、[[../concepts/strain-engineering]]、[[../concepts/ferroelasticity]]、[[../concepts/polarization-switching]]、[[../concepts/kittel-law|Kittel定律]]、[[../concepts/polar-vortex|极性涡旋]]、[[../concepts/vortex-antivortex-pair|涡旋-反涡旋对]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/second-principles|第二性原理]]、[[../concepts/superlattice|超晶格]]、[[../concepts/anharmonic-effects|非谐效应]]、[[../concepts/polarization-waves|极化波]]、[[../concepts/topological-charge|拓扑荷]]、[[../entities/PHONOPY|PHONOPY]]
   - 实体 [[../entities/BiFeO3]]、[[../concepts/domain-wall]]、[[../entities/PbTiO3|PbTiO₃]]、[[../entities/SrTiO3|SrTiO₃]]
   - 图表 [[../concepts/domain-wall]]、[[../figures/crystal-structures]]
-  - 年度 [[../write/2023]]
+  - 年度 [[../write/2020-2024]]
   - 相关论文 [[../../raw/note/gomez-ortizKittelLawDomain2023]]
   - 实体 [[../entities/SCALE-UP]]
   - 实体 [[../entities/PbTiO3-SrTiO3-superlattice]]

@@ -1,4 +1,4 @@
----
+﻿---
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3
@@ -11,5 +11,5 @@ AIGC:
 
 # amplitudon-phason
 
-- [[../papers/chowdhuryReviewTheoreticalComputational]] — Computational Methods for Charge Density Waves in 2D Materials
+- [[../papers/chowdhuryReviewTheoreticalComputational]]：综述了二维材料中电荷密度波的计算方法。
 *（内容由AI生成，仅供参考）*

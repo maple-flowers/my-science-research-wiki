@@ -223,8 +223,8 @@ Wenbin Li、Xiaofeng Qian、Ju Li，2021，*Nature Reviews Materials* 6, 829–8
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/2D-materials]]、[[../concepts/strain-engineering]]、[[../concepts/ferroelasticity]]、[[../concepts/multiferroicity]]、[[../concepts/charge-density-wave]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/moire-superlattice]]、[[../concepts/polarization-switching]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/topological-defects]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/ferroelectric-tunnel-junction]]
   - 实体 [[../entities/TMDs]]、[[../entities/SnTe]]、[[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/h-BN]]、[[../entities/Fe3GeTe2]]、[[../concepts/domain-wall]]、[[../entities/VASP]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-devices]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW 与相变]]
-  - 年度 [[../write/2021]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-devices]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking|极性金属、拓扑相、CDW 与相变]]
+  - 年度 [[../write/2020-2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
   - 话题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/liPhaseTransitions2D2021]]

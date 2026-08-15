@@ -97,7 +97,7 @@ N. A. Spaldin & R. Ramesh et al.，2019，Nature Materials，vol. 18, pp. 203–
   - 图表 [[../concepts/domain-wall]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/electronic-bands]]
-  - 年度 [[../write/2019]]
+  - 年度 [[../write/2015-2019]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/spaldinAdvancesMagnetoelectricMultiferroics2019]]
   - 实体 [[../entities/BaTiO3]]

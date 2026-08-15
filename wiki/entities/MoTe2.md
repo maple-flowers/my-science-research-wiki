@@ -1,4 +1,4 @@
----
+﻿---
 tags: [entity, material, TMD, 2D, semiconductor, topological]
 title: 二碲化钼 (MoTe2) / Molybdenum Ditelluride
 type: entity
@@ -9,7 +9,7 @@ class: [TMD, vdW, phase-change]
 properties: [polymorphic-phase-transition, Weyl-semimetal, QSH-insulator]
 related_entities: [MoS2, WTe2, 2h-phase, 1t-phase]
 updated: 2026-08
-papers: [liPhaseTransitions2D2021, RecentAdvancesGrowth2025, FerroelectricityMultiferroicityAtomic2023, Li2013bonding, chenStrongSlidingFerroelectricity2024, guanRecentProgressTwoDimensional2020, huangPolarPhaseDomain2019, kaurRecentAdvancesTheoretical2025a, yangStrainEngineeringTwodimensional2021]
+papers: [liPhaseTransitions2D2021, RecentAdvancesGrowth2025, FerroelectricityMultiferroicityAtomic2023, Li2013bonding, chenStrongSlidingFerroelectricity2024, guanRecentProgressTwoDimensional2020, huangPolarPhaseDomain2019, kaurRecentAdvancesTheoretical2025a, yangStrainEngineeringTwodimensional2021, houStrainbasedRoomtemperatureNonvolatile2019]
 ---
 
 # 二碲化钼 (MoTe2) / Molybdenum Ditelluride
@@ -39,14 +39,14 @@ MoTe2 成为相变明星的核心原因在于其相稳定性极易受外界扰�
 ## 📚 相关论文 (Related Papers)
 - [[../papers/liPhaseTransitions2D2021]]：深入探讨了 MoTe2 作为二维相变工程核心材料的机理与应用。
 - [[../papers/RecentAdvancesGrowth2025]]：涉及了 MoTe2 大面积薄膜的生长动力学与相控制。
-- [[../papers/FerroelectricityMultiferroicityAtomic2023]]
-- [[../papers/Li2013bonding]]
-- [[../papers/chenStrongSlidingFerroelectricity2024]]
-- [[../papers/guanRecentProgressTwoDimensional2020]]
-- [[../papers/huangPolarPhaseDomain2019]]
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]
-- [[../papers/yangStrainEngineeringTwodimensional2021]]
-- [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]] — Strain-based room-temperature non-volatile MoTe2 ferroelectric phase change transistor
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]]：综述了原子级厚度下的铁电与多铁性。
+- [[../papers/Li2013bonding]]：研究了单层 TMD 的成键电荷密度与极限强度。
+- [[../papers/chenStrongSlidingFerroelectricity2024]]：在二维 HgI₂ 层中实现强滑动铁电性与层间滑动可控的自旋电子效应。
+- [[../papers/guanRecentProgressTwoDimensional2020]]：综述了二维铁电材料的最新进展。
+- [[../papers/huangPolarPhaseDomain2019]]：在 Weyl 半金属 MoTe2 中观测到具有导电界面态的极性与相畴壁。
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]：综述了层状与范德华二维材料中滑动铁电性的理论研究进展。
+- [[../papers/yangStrainEngineeringTwodimensional2021]]：综述了二维材料的应变工程方法、性质与应用。
+- [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]]：基于应变的室温非易失 MoTe2 铁电相变晶体管。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 - [[../concepts/polymorphic-phase-transition|多晶型相变]]

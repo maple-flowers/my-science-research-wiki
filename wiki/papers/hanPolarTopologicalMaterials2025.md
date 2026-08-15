@@ -117,8 +117,8 @@ Han, Ma, Wang, Xu, Xu, Huang, Shen, Nan, Ma (通讯)，2025，*Progress in Mater
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/topological-defects]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelasticity]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/polar-vortex|极性涡旋]]、[[../concepts/polar-skyrmion|极性斯格明子]]、[[../concepts/negative-capacitance|负电容]]、[[../concepts/flexoelectric-effect|挠曲电效应]]、[[../concepts/vortexon|涡旋子]]、[[../concepts/electric-dmi|电DM相互作用]]、[[../concepts/topological-charge|拓扑荷]]、[[../concepts/flux-closure-domain|通量闭合畴]]、[[../concepts/meron|半子]]、[[../concepts/solomon-ring|所罗门环]]、[[../concepts/phase-field-modeling|相场模拟]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/domain-wall-conduction|畴壁导电]]、[[../concepts/chirality|手性]]、[[../concepts/kosterlitz-thouless]]
   - 实体 [[../entities/BiFeO3]]、[[../concepts/domain-wall]]、[[../entities/PbTiO3]]、[[../entities/SrTiO3]]、[[../entities/PZT]]、[[../entities/BaTiO3]]、[[../entities/PVDF-TrFE]]、[[../entities/HfO2]]、[[../entities/SrRuO3]]
-  - 图表 [[../concepts/domain-wall]]、[[../figures/heterostructures-stacking]]、[[../figures/crystal-structures]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups]]、[[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW与相变]]
-  - 年度 [[../write/2025]]
+  - 图表 [[../concepts/domain-wall]]、[[../figures/heterostructures-stacking]]、[[../figures/crystal-structures]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups]]、[[../figures/heterostructures-stacking|极性金属、拓扑相、CDW与相变]]
+  - 年度 [[../write/2025-2029]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/hanPolarTopologicalMaterials2025]]
 ## 📊 关键图表

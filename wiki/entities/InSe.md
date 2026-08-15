@@ -1,4 +1,4 @@
----
+﻿---
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3
@@ -11,7 +11,7 @@ AIGC:
 
 # InSe
 
-- [[../papers/sunSlidingFerroelectricityTwodimensional2025]] — Sliding ferroelectricity in two-dimensional materials and device applications
-- [[../papers/wuSlidingFerroelectricity2D2021a]] — Sliding ferroelectricity in 2D van der Waals materials: Related physics and future opportunities
-- [[../papers/zhangEmergingFrontiersTwodimensional2025]] — Emerging frontiers in two-dimensional sliding ferroelectrics
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：综述了二维材料中的滑动铁电性及其器件应用。
+- [[../papers/wuSlidingFerroelectricity2D2021a]]：综述了二维范德华材料中滑动铁电性的相关物理与未来机遇。
+- [[../papers/zhangEmergingFrontiersTwodimensional2025]]：综述了二维滑动铁电体的新兴前沿。
 *（内容由AI生成，仅供参考）*

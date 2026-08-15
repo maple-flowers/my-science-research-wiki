@@ -96,8 +96,8 @@ Lane W. Martin & Andrew M. Rappe，2016，*Nature Reviews Materials* 2, 16087，
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/strain-engineering]]、[[../concepts/polarization-switching]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/2D-materials]]、[[../concepts/topological-defects]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/flexoelectric-effect|挠曲电效应]]、[[../concepts/hybrid-improper-ferroelectricity|杂化非本征铁电性]]、[[../concepts/negative-capacitance|负电容]]、[[../concepts/bulk-photovoltaic-effect|体光伏效应]]、[[../concepts/electrocaloric-effect|电卡效应]]、[[../concepts/pyroelectric-effect|热释电效应]]、[[../concepts/octahedral-rotation|氧八面体旋转]]、[[../concepts/morphotropic-phase-boundary|准同型相界]]
   - 实体 [[../entities/BiFeO3]]、[[../concepts/domain-wall]]、[[../entities/VASP]]、[[../entities/SnTe]]、[[../entities/TMDs]]、[[../entities/h-BN]]、[[../entities/BaTiO3|钛酸钡 BaTiO₃]]、[[../entities/PbTiO3|钛酸铅 PbTiO₃]]、[[../entities/PZT|PZT 锆钛酸铅]]、[[../entities/LiNbO3|铌酸锂 LiNbO₃]]、[[../entities/SrTiO3|钛酸锶 SrTiO₃]]、[[../entities/HfO2|二氧化铪 HfO₂]]
-  - 图表 [[../figures/crystal-structures]]、[[../concepts/domain-wall]]、[[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - 年度 [[../write/2016]]
+  - 图表 [[../figures/crystal-structures]]、[[../concepts/domain-wall]]、[[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 年度 [[../write/2015-2019]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-7-cdw-charge-density-wave]]
   - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/martinThinfilmFerroelectricMaterials2016]]

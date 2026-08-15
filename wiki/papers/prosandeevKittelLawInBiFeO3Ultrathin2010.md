@@ -84,7 +84,7 @@ S. Prosandeev, S. Lisenkov, L. Bellaiche et al.，2010，Physical Review Letters
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/kittel-law|基特尔定律]]、[[../concepts/effective-hamiltonian|有效哈密顿量]]、[[../concepts/oxygen-octahedra-tilting|氧八面体倾斜]]、[[../concepts/domain-wall-energy|畴壁能]]、[[../concepts/depolarization-field]]、[[../concepts/open-circuit-boundary-conditions|开路电学边界条件]]、[[../concepts/real-space-energy-decomposition|实空间能量分解]]、[[../concepts/weak-ferromagnetism|弱铁磁性]]
   - 实体 [[../entities/BiFeO3]]、[[../concepts/domain-wall]]、[[../entities/BaTiO3|BaTiO₃]]、[[../entities/PZT|PZT]]、[[../entities/PbTiO3|PbTiO₃]]
   - 图表 [[../concepts/domain-wall]]、[[../figures/mathematical-models]]
-  - 年度 [[../write/2010]]
+  - 年度 [[../write/2010-2014]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/prosandeevKittelLawInBiFeO3Ultrathin2010]]
 ## 🆕 新概念/实体建议

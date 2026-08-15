@@ -1,4 +1,4 @@
----
+﻿---
 tags: [concept, spectral-function, charge-density-wave]
 title: 赝能隙 / Pseudogap
 type: concept
@@ -45,11 +45,10 @@ updated: 2026-08
 - [[../papers/Inosov2008fermi]]：讨论了 TMD 体系中费米面特定区域的态密度抑制。
 - [[../papers/Johannes2008fermi]]：通过极化率计算解释了为何某些波矢处会优先出现电子不稳定性。
 - [[../papers/CastroNeto2001charge]]：综述了层状材料中赝能隙与超导、CDW 的共存关系。
-- [[../papers/cossuStackingChargedensityWaves2024]]
-- [[../papers/kawakamiChargedensityWaveAssociated2023]]
-- [[../papers/kresseInitiomolecularDynamicsLiquid1993]]
-- [[../papers/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994]]
-- [[../papers/CastroNeto2001charge]] — Charge Density Wave, Superconductivity, and Anomalous Metallic Behavior in 2D Transition Metal Dichalcogenides
+- [[../papers/cossuStackingChargedensityWaves2024]]：研究了 2H-NbSe₂ 双层中电荷密度波的堆叠。
+- [[../papers/kawakamiChargedensityWaveAssociated2023]]：在单层 VS₂ 中观测到与高阶费米面嵌套相关的电荷密度波。
+- [[../papers/kresseInitiomolecularDynamicsLiquid1993]]：液态金属的从头算分子动力学方法。
+- [[../papers/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994]]：从头算分子动力学模拟锗的液态金属-非晶半导体转变。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

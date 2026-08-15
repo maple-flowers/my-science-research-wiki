@@ -70,7 +70,7 @@ Chuan Chen, Lei Su, A. H. Castro Neto, Vitor M. Pereira et al.，2019，Physical
   - 实体 [[../entities/TMDs]]
   - 实体 [[../concepts/domain-wall]]
   - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/2019]]
+  - 年度 [[../write/2015-2019]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/Chen2019superconductivity]]
   - 实体 [[../entities/TiSe2]]

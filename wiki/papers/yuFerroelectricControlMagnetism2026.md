@@ -102,8 +102,8 @@ Cuiju Yu, Liangliang Hong, Zhao Chen, Zhao Liu, Shizhe Jiao, Xiaofeng Liu*, Wei 
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/berry-phase]]、[[../concepts/altermagnetism]]、[[../concepts/giant-spin-splitting]]、[[../concepts/polarization-switching]]、[[../concepts/density-functional-theory]]、[[../concepts/strain-engineering]]、[[../concepts/intercalation-induced-symmetry-breaking]]、[[../concepts/geometric-ferroelectricity]]、[[../concepts/multiferroic-tunnel-junction]]、[[../concepts/fully-compensated-ferrimagnet]]、[[../concepts/gap-chern-number]]、[[../concepts/goodenough-kanamori-anderson-rules]]、[[../concepts/double-exchange]]、[[../concepts/cr4s4fbr2]]
   - 实体 [[../entities/VASP]]、[[../entities/Wannier90]]、[[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/Fe3GeTe2]]、[[../entities/TMDs]]、[[../entities/h-BN]]、[[../entities/BiFeO3]]、[[../entities/HoMnO3]]、[[../entities/MXenes]]、[[../entities/CrTe2]]、[[../concepts/domain-wall]]、[[../entities/crsbr]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
-  - 年度 [[../write/2026]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking|多铁与磁电异质结]]
+  - 年度 [[../write/2025-2029]]
   - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/yuFerroelectricControlMagnetism2026]]
 

@@ -1,4 +1,4 @@
----
+﻿---
 tags: [concept, topological-physics]
 title: 高阶拓扑 / Higher-order Topology
 type: concept
@@ -6,7 +6,7 @@ status: developing
 domain: [condensed-matter-physics, topological-physics]
 mechanism: 体-边界对应关系的推广，d 维拓扑非平庸体在 d-2 维或更低维边界上表现出受保护的零维/一维边界态
 related_concepts: [topological-insulator, bulk-boundary-correspondence, quadrupole-insulator, hinge-state, edge-state]
-papers: [hanPolarTopologicalMaterials2025, pedramraziManipulatingTopologicalDomain2019]
+papers: [hanPolarTopologicalMaterials2025, pedramraziManipulatingTopologicalDomain2019, huangPolarPhaseDomain2019]
 updated: 2026-08
 ---
 
@@ -39,7 +39,7 @@ updated: 2026-08
 
 - [[../papers/hanPolarTopologicalMaterials2025]]：极性材料中的复杂拓扑相和多极矩物理。
 - [[../papers/pedramraziManipulatingTopologicalDomain2019]]：一维畴界处的局域化性质提供了类似高阶拓扑的局部边界态物理。
-- [[../papers/huangPolarPhaseDomain2019]] — Polar and phase domain walls with conducting interfacial states in a Weyl semimetal MoTe2
+- [[../papers/huangPolarPhaseDomain2019]]：在 Weyl 半金属 MoTe2 中观测到具有导电界面态的极性与相畴壁。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

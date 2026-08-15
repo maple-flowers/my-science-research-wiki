@@ -90,7 +90,7 @@ Gao, Chen, Qi et al.，2024，Applied Physics Letters 125, 212903，DOI 10.1063/
   - 概念 [[../concepts/ferroelasticity]]、[[../concepts/multiferroicity]]、[[../concepts/strain-engineering]]、[[../concepts/2D-materials]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelastic-ferroelectric-coupling]]、[[../concepts/transformation-strain]]、[[../concepts/domain-wall-electronics]]
   - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/WTe2]]、[[../entities/SnTe]]、[[../concepts/domain-wall]]、[[../entities/HgBr2]]、[[../entities/CuInP2S6]]
   - 图表 [[../figures/crystal-structures]]、[[../concepts/domain-wall]]、[[../figures/mathematical-models]]
-  - 年度 [[../write/2024]]
+  - 年度 [[../write/2020-2024]]
   - 话题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/gaoStrainEngineeringFerroelectric2024]]
 

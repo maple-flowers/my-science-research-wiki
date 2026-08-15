@@ -104,9 +104,9 @@ Ri He, Hua Wang, Fenglin Deng, Yuxiang Gao, Bingwen Zhang, Yubai Shi, Run-Wei Li
   - 实体 [[../entities/bilayer-graphene|双层石墨烯]]（非极性二维体系，验证机制不依赖铁电性）
   - 图表 [[../concepts/domain-wall]]
   - 图表 [[../figures/heterostructures-stacking]]
-  - 图表 [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
+  - 图表 [[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]
   - 图表 [[../figures/mathematical-models]]（能量竞争模型公式1-3）
-  - 年度 [[../write/2025]]
+  - 年度 [[../write/2025-2029]]
   - 相关论文 [[../../raw/note/heSwitchingTwodimensionalSliding2025]]
 ## 📊 关键图表
   - ![图1 双层h-BN在不同初始弯曲角θ下弛豫后的原子结构：θ<12°恢复平面，12°<θ<62°形成31°单扭结，θ>62°形成31°+57°双扭结](../../raw/figures/heSwitchingTwodimensionalSliding2025/fig_1_HAQT3EAV.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]

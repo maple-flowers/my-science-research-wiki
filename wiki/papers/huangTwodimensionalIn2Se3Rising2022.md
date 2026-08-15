@@ -131,8 +131,8 @@ Yu-Ting Huang, Nian-Ke Chen, Zhen-Ze Li, Xue-Peng Wang, Hong-Bo Sun, Shengbai Zh
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/2D-materials]]、[[../concepts/polarization-switching]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/machine-learning-potential]]、[[../concepts/strain-engineering]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/phase-change-type-ferroelectrics|相变型铁电体]]、[[../concepts/re-bonding-mechanism|再成键机制]]、[[../concepts/mexican-hat-pes|墨西哥帽势能面]]、[[../concepts/dipole-locking|偶极锁定]]、[[../concepts/entropy-barrier|熵垒]]、[[../concepts/shear-phonon-mode|剪切声子模式]]、[[../concepts/in-memory-computing|存内计算]]、[[../concepts/neuromorphic-computing|神经形态计算]]、[[../concepts/schottky-barrier|肖特基势垒]]、[[../concepts/domain-wall-motion|畴壁运动]]
   - 实体 [[../entities/In2Se3]]、[[../entities/BiFeO3]]、[[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/SnTe]]、[[../concepts/domain-wall]]、[[../entities/graphene|石墨烯]]、[[../entities/HfO2|HfO₂]]、[[../entities/PVDF-TrFE]]、[[../entities/CuInP2S6|CuInP₂S₆]]、[[../entities/FeFET]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]、[[../concepts/domain-wall]]、[[../figures/electronic-devices]]、[[../figures/vibrational-spectra]]、[[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
-  - 年度 [[../write/2022]]、[[../write/2017]]、[[../write/2018]]、[[../write/2019]]、[[../write/2021]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]、[[../concepts/domain-wall]]、[[../figures/electronic-devices]]、[[../figures/vibrational-spectra]]、[[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 年度 [[../write/2020-2024]]、[[../write/2015-2019]]、[[../write/2015-2019]]、[[../write/2015-2019]]、[[../write/2020-2024]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/huangTwodimensionalIn2Se3Rising2022]]
 ## 🆕 新概念/实体建议

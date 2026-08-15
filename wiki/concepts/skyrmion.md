@@ -1,4 +1,4 @@
----
+﻿---
 tags: [concept, magnetism, topology]
 title: 斯格明子 / Skyrmion
 type: concept
@@ -38,14 +38,12 @@ updated: 2026-08
 - [[../papers/gongAbsenceCriticalThickness2023]]：报道了突破临界厚度限制的极性斯格明子，对微缩化器件具有重要意义。
 - [[../papers/tanRevealingEmergentMagnetic2024]]：利用高分辨率磁强计成像反铁磁背景下的手性结构。
 - [[../papers/cheongMultiferroicsMagneticTwist2007a]]：探讨了手性磁序与铁电性之间的深刻联系。
-- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]
-- [[../papers/wangTunableD0Topological2025b]]
-- [[../papers/zhangNonvolatileControlTopological2025]]
-- [[../papers/songEvidenceSinglelayerVan2022]]
-- [[../papers/zahraCriticalAnalysisFerroelectric2025]]
-- [[../papers/zhaoRealization2DMultiferroic2024]]
-- [[../papers/songEvidenceSinglelayerVan2022]] — Evidence for a single-layer van der Waals multiferroic
-- [[../papers/zhaoRealization2DMultiferroic2024]] — Realization of 2D multiferroic with strong magnetoelectric coupling by intercalation: a first-principles high-throughput prediction
+- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]：总结了从传统螺旋到莫尔自旋结构的演进。
+- [[../papers/wangTunableD0Topological2025b]]：预测了 In₂NO₂ 单层中可调的 d0 拓扑磁态。
+- [[../papers/zhangNonvolatileControlTopological2025]]：在 CrInTe₂/In₂Se₃ 多铁异质结中实现了对拓扑磁性的非易失调控。
+- [[../papers/songEvidenceSinglelayerVan2022]]：在单层 NiI₂ 中证实了范德华多铁性。
+- [[../papers/zahraCriticalAnalysisFerroelectric2025]]：批判性分析了二维 MXene 的铁电与铁磁性质。
+- [[../papers/zhaoRealization2DMultiferroic2024]]：通过插层实现强磁电耦合二维多铁的第一性原理高通量预测。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

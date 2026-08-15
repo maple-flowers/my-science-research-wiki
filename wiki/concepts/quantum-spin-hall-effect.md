@@ -1,4 +1,4 @@
----
+﻿---
 tags: [concept, topological-physics, transport]
 title: 量子自旋霍尔效应 / Quantum Spin Hall Effect (QSHE)
 type: concept
@@ -6,7 +6,7 @@ status: developing
 domain: [condensed-matter-physics, topological-physics]
 mechanism: 强自旋-轨道耦合诱导的自旋相关的能带拓扑演化
 related_concepts: [topological-insulator, spin-orbit-coupling, time-reversal-symmetry, Z2-invariant, helical-edge-state]
-papers: [pedramraziManipulatingTopologicalDomain2019, hanPolarTopologicalMaterials2025, feiFerroelectricSwitchingTwodimensional2018a]
+papers: [pedramraziManipulatingTopologicalDomain2019, hanPolarTopologicalMaterials2025, feiFerroelectricSwitchingTwodimensional2018a, liPhaseTransitions2D2021]
 updated: 2026-08
 ---
 
@@ -40,8 +40,8 @@ QSHE 体系的特征是存在穿过体带隙的螺旋边缘态。
 
 - [[../papers/pedramraziManipulatingTopologicalDomain2019]]：利用畴界操控探讨 QSHI 中的边缘态输运。
 - [[../papers/hanPolarTopologicalMaterials2025]]：极性材料中的拓扑保护态。
-- [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]
-- [[../papers/liPhaseTransitions2D2021]] — Phase transitions in 2D materials
+- [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]：在二维金属 WTe₂ 中实现铁电开关。
+- [[../papers/liPhaseTransitions2D2021]]：综述了二维材料中的相变及其调控机制。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

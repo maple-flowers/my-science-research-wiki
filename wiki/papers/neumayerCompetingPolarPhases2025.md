@@ -100,8 +100,8 @@ Sabine Neumayer, Huimin Qiao, Nina Balke et al.，2025，Applied Physics Letters
   - 图表 [[../concepts/domain-wall]]（FE/AFE畴壁与PFM畴图）
   - 图表 [[../figures/vibrational-spectra]]（Raman光谱用于AFE相鉴定和压力依赖研究）
   - 图表 [[../figures/mathematical-models]]（Landau-Devonshire压力-温度相图）
-  - 图表 [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用 (Domains, Domain Walls, In₂Se₃ & Devices)]]
-  - 年度 [[../write/2025]]
+  - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用 (Domains, Domain Walls, In₂Se₃ & Devices)]]
+  - 年度 [[../write/2025-2029]]
   - 相关论文 [[../../raw/note/neumayerCompetingPolarPhases2025]]
 
 ## 🆕 新概念/实体建议

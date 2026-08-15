@@ -93,7 +93,7 @@ Sridevi Krishnamurthi、Geert Brocks，2020，Physical Review B 102, 161106，DO
   - 实体 [[../entities/VASP]]
   - 实体 [[../concepts/domain-wall]]
   - 图表 [[../figures/electronic-bands]]
-  - 年度 [[../write/2020]]
+  - 年度 [[../write/2020-2024]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/krishnamurthiSpinChargeDensity2020]]

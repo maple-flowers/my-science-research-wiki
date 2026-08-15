@@ -103,8 +103,8 @@ Yangliu Wu, Zhaozhuo Zeng, Haipeng Lu, Xiaocang Han, Chendi Yang, Nanshu Liu, Xi
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2D-materials]]、[[../concepts/polarization-switching]]、[[../concepts/topological-defects]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/antiferroelectricity|反铁电性]]、[[../concepts/type-ii-multiferroicity]]、[[../concepts/knb-mechanism|KNB机制]]、[[../concepts/inverse-dzyaloshinskii-moriya|逆DM相互作用]]、[[../concepts/bimeron|双半子]]、[[../concepts/spin-flop|自旋翻转]]、[[../concepts/kai-model|KAI模型]]
   - 实体 [[../entities/BiFeO3]]、[[../entities/h-BN]]、[[../entities/VASP]]、[[../concepts/domain-wall]]、[[../entities/NiI2|三碘化镍]]、[[../entities/graphene|石墨烯]]
-  - 图表 [[../figures/crystal-structures]]、[[../concepts/domain-wall]]、[[../figures/heterostructures-stacking-multiferroic|多铁与磁电异质结]]
-  - 年度 [[../write/2024]]
+  - 图表 [[../figures/crystal-structures]]、[[../concepts/domain-wall]]、[[../figures/heterostructures-stacking|多铁与磁电异质结]]
+  - 年度 [[../write/2020-2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/wuCoexistenceFerroelectricityAntiferroelectricity2024]]
 ## 🆕 新概念/实体建议

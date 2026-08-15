@@ -111,7 +111,7 @@ Sayantika Bhowal、Nicola A. Spaldin（ETH Zürich），2023，*Annual Review of
   - 概念 [[../concepts/2D-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/berry-phase]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/multiferroicity]]、[[../concepts/polarization-switching]]、[[../concepts/strain-engineering]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/ferroelasticity]]、[[../concepts/polar-metal|极性金属]]、[[../concepts/anderson-blount-mechanism|Anderson–Blount 机制]]、[[../concepts/geometric-ferroelectricity|几何铁电性]]、[[../concepts/lone-pair-ferroelectricity|孤对电子铁电性]]、[[../concepts/hyperferroelectrics|超铁电体]]、[[../concepts/elemental-polar-metals|元素极性金属]]、[[../concepts/rashba-effect|Rashba 效应]]、[[../concepts/weyl-semimetal|外尔半金属]]、[[../concepts/nonlinear-hall-effect|非线性霍尔效应]]、[[../concepts/kinetic-magnetoelectric-effect|动磁电效应]]、[[../concepts/ferroelectric-superconductivity|铁电超导]]、[[../concepts/LiOsO3|LiOsO₃]]、[[../concepts/Ca3Ru2O7|Ca₃Ru₂O₇]]
   - 实体 [[../entities/WTe2]]、[[../entities/TMDs]]、[[../entities/BiFeO3]]、[[../entities/SnTe]]、[[../entities/PbTe]]、[[../concepts/domain-wall]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking]]
-  - 年度 [[../write/2023]]
+  - 年度 [[../write/2020-2024]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]
   - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
   - 相关论文 [[../../raw/note/bhowalPolarMetalsPrinciples2023b]]

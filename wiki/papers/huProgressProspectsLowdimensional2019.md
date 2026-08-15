@@ -143,10 +143,10 @@ Ting Hu、Erjun Kan（阚二军，南京理工大学应用物理系）et al.，2
   - 实体 [[../entities/c6n8h-organic-multiferroic|C₆N₈H有机多铁]]（无金属有机二维网络）
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/electronic-bands]]
-  - 图表 [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW与相变]]
+  - 图表 [[../figures/heterostructures-stacking|极性金属、拓扑相、CDW与相变]]
   - 图表 [[../figures/electronic-devices]]
   - 图表 [[../concepts/domain-wall]]
-  - 年度 [[../write/2019]]
+  - 年度 [[../write/2015-2019]]
   - 主题 [[多铁性材料]]
   - 项目 [[../projects/project-2-mn-multiferroics]]（SrMnO₃ 应变多铁及 Mn 基多铁综述脉络）
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]（1-UC SnTe 铁电增强、Tc 提升机理）

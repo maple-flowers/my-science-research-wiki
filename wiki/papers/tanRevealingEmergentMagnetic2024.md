@@ -65,7 +65,7 @@ Anthony K. C. Tan, Hariom Jani, Michael Högen 等（共13位作者，通讯：T
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/topological-defects|拓扑缺陷]]、[[../concepts/diamond-quantum-magnetometry|金刚石量子磁强计]]、[[../concepts/dzyaloshinskii-moriya-interaction|Dzyaloshinskii–Moriya 相互作用]]、[[../concepts/emergent-magnetic-charge|涌现磁荷]]、[[../concepts/meron-antimeron|半子–反半子]]、[[../concepts/morin-transition|莫林相变]]、[[../concepts/nv-center|NV 色心]]、[[../concepts/staggered-vorticity|交错涡度]]
   - 实体 [[../concepts/domain-wall|畴壁]]、[[../entities/alpha-Fe2O3|α-Fe₂O₃（赤铁矿）]]
-  - 年度 [[../write/2024]]
+  - 年度 [[../write/2020-2024]]
   - 主题 [[多铁性材料]]
   - 相关论文 [[../../raw/note/tanRevealingEmergentMagnetic2024]]
 

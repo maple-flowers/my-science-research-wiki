@@ -98,8 +98,8 @@ Ri He, Bingwen Zhang, Hua Wang, Lei Li, Ping Tang, Gerrit Bauer, Zhicheng Zhong 
   - 实体 [[../concepts/domain-wall]]
   - 图表 [[../concepts/domain-wall]]
   - 图表 [[../figures/heterostructures-stacking]]
-  - 图表 [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
-  - 年度 [[../write/2024]]
+  - 图表 [[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]
+  - 年度 [[../write/2020-2024]]
   - 相关论文 [[../../raw/note/heUltrafastSwitchingDynamics2024]]
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体：
