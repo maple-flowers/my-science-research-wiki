@@ -102,8 +102,8 @@ Fernando Gómez-Ortiz, Hugo Aramberri, Juan M. López, Pablo García-Fernández,
   - 实体 [[../entities/PbTiO3-SrTiO3-superlattice]]
 
 ## 🆕 新概念/实体建议
-  - 实体 `PbTiO3-SrTiO3-superlattice.md`：钙钛矿铁电/顺电端元构成的超晶格复合相。
-  - 实体 `SCALE-UP.md`：第二性原理有效哈密顿量模拟所用的软件包。
+  - 实体 [[../entities/PbTiO3-SrTiO3-superlattice|PbTiO3-SrTiO3-superlattice]]：钙钛矿铁电/顺电端元构成的超晶格复合相。
+  - 实体 [[../entities/SCALE-UP|SCALE-UP]]：第二性原理有效哈密顿量模拟所用的软件包。
 ## 📊 关键图表
   - 图1：双畴结构从 Ising 初态弛豫为顺时针/逆时针极化涡旋畴壁（畴壁厚约 1 u.c.，出现 y 向极化分量）
     ![图1 双畴结构弛豫为涡旋畴壁](../../raw/figures/gomez-ortizKittelLawDomain2023/fig_1_I73SSRGV.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]

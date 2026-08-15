@@ -98,9 +98,9 @@ Graeme Henkelman, Blas P. Uberuaga, Hannes Jónsson，2000，The Journal of Chem
   - 实体 [[../entities/Si-100]]、[[../entities/Ir-111]]
   - 相关论文 **henkelmanClimbingImageNudged2000c**
 ## 🆕 新概念/实体建议
-  - `force-projection-nudging`（力投影/"微动"）：NEB 区别于其他弹性带法的核心，只取真实力垂直分量与弹簧力平行分量，同时解决"切角"与"下滑"问题。
-  - `variable-spring-constants`（可变弹簧常数）：随图像能量线性增强弹簧，使图像在高能鞍点区加密。
-  - 实体建议：`Ir-111`、`Si-100`（本文两个验证表面体系，可作为表面催化/半导体表面实体）。
+  - [[../concepts/force-projection-nudging|force-projection-nudging]]（力投影/"微动"）：NEB 区别于其他弹性带法的核心，只取真实力垂直分量与弹簧力平行分量，同时解决"切角"与"下滑"问题。
+  - [[../concepts/variable-spring-constants|variable-spring-constants]]（可变弹簧常数）：随图像能量线性增强弹簧，使图像在高能鞍点区加密。
+  - 实体建议：[[../entities/Ir-111|Ir-111]]、[[../entities/Si-100|Si-100]]（本文两个验证表面体系，可作为表面催化/半导体表面实体）。
 ## 📊 关键图表
   - **图 1：CH₄/Ir(111) 解离吸附 MEP——常规 NEB 与 CI-NEB 对比**
   - ![CH4/Ir(111) 解离吸附 MEP：常规 NEB 与 CI-NEB 对比](../../raw/figures/henkelmanClimbingImageNudged2000c/fig_1_KRQQQH5S.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]

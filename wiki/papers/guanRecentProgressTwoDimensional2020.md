@@ -147,9 +147,9 @@ Zhao Guan, He Hu, Xinwei Shen, Pinghua Xiang, Ni Zhong, Junhao Chu, Chungang Dua
   - 实体 [[../entities/BA2PbCl4]]
 
 ## 🆕 新概念/实体建议
-  - `intralayer-bonding` / `interlayer-translation`（层内键合 / 层间平移）：本文提出的二维铁电机制一级分类框架，前者含结构畸变、偶极锁定、电子极化，后者以层间滑移改变电荷转移产生 OOP 极化。
-  - 实体 `BA2PbCl4`：Ruddlesden-Popper 家族有机-无机杂化钙钛矿，有机阳离子偏心与 Pb²⁺ 位移协同产生 IP 铁电，可柔性应用。
-  - 实体 `BTO`：经典钙钛矿铁电 BaTiO₃，作为二维/三维铁电器件参照体系出现（graphene/BTO FTJ、1 u.c. BTO FTJ）。
+  - [[../concepts/intralayer-bonding|intralayer-bonding]] / [[../concepts/interlayer-translation|interlayer-translation]]（层内键合 / 层间平移）：本文提出的二维铁电机制一级分类框架，前者含结构畸变、偶极锁定、电子极化，后者以层间滑移改变电荷转移产生 OOP 极化。
+  - 实体 [[../entities/BA2PbCl4|BA2PbCl4]]：Ruddlesden-Popper 家族有机-无机杂化钙钛矿，有机阳离子偏心与 Pb²⁺ 位移协同产生 IP 铁电，可柔性应用。
+  - 实体 [[../entities/BTO|BTO]]：经典钙钛矿铁电 BaTiO₃，作为二维/三维铁电器件参照体系出现（graphene/BTO FTJ、1 u.c. BTO FTJ）。
 
 ## 📊 关键图表
 

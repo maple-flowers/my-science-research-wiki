@@ -90,8 +90,8 @@ Greg Khitrov et al.，2002，MRS Bulletin，27(4), 285，DOI: 10.1557/mrs2002.84
   - 实体 [[../entities/Si-SiGe-nanowire]]、[[../entities/carbon-nanotube]]、[[../entities/ZnSe]]、[[../entities/GaN]]、[[../entities/Ti-sapphire-laser]]
   - 相关论文 [[../../raw/note/Khitrov2002internal]]
 ## 🆕 新概念/实体建议
-  - `rare-earth-doped-gan`（稀土掺杂 GaN）：在 GaN 中掺入 Eu、Tb 等离子获得特征红/绿光的电致发光体系。
-  - 实体建议 `ZnSe`、`GaN`、`carbon-nanotube`、`Si-SiGe-nanowire`、`Ti-sapphire-laser`。
+  - [[../concepts/rare-earth-doped-gan|rare-earth-doped-gan]]（稀土掺杂 GaN）：在 GaN 中掺入 Eu、Tb 等离子获得特征红/绿光的电致发光体系。
+  - 实体建议 [[../entities/ZnSe|ZnSe]]、[[../entities/GaN|GaN]]、[[../entities/carbon-nanotube|carbon-nanotube]]、[[../entities/Si-SiGe-nanowire|Si-SiGe-nanowire]]、[[../entities/Ti-sapphire-laser|Ti-sapphire-laser]]。
 ## 📊 关键图表
 原文为 MRS Bulletin "Research/Researchers" 栏目纯文字快讯，未含正式图表；raw/figures/Khitrov2002internal/ 下亦无图片文件。以下根据原始笔记中对四项工作的文字描述，整理出四幅"假想示意图"的要点，供理解实验构型与器件结构。
 

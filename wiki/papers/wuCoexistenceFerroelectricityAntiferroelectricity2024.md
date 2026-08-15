@@ -108,8 +108,8 @@ Yangliu Wu, Zhaozhuo Zeng, Haipeng Lu, Xiaocang Han, Chendi Yang, Nanshu Liu, Xi
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/wuCoexistenceFerroelectricityAntiferroelectricity2024]]
 ## 🆕 新概念/实体建议
-  - `helical-spin-order` / `non-collinear-magnetism`（螺旋自旋序/非共线磁性）：NiI₂ 中 q‖[210] 的螺旋磁态，是铁电极化来源。
-  - 方法/平台 `magneto-optical-electric-joint-measurement`（MOEJSI，磁-光-电联合测量系统）：Witec Alpha 300R + 7T 超导磁体 + 10 K 低温台 + 铁电测试仪，空间分辨率 ~590 nm。
+  - [[../concepts/helical-spin-order|helical-spin-order]] / [[../concepts/non-collinear-magnetism|non-collinear-magnetism]]（螺旋自旋序/非共线磁性）：NiI₂ 中 q‖[210] 的螺旋磁态，是铁电极化来源。
+  - 方法/平台 [[../concepts/magneto-optical-electric-joint-measurement|magneto-optical-electric-joint-measurement]]（MOEJSI，磁-光-电联合测量系统）：Witec Alpha 300R + 7T 超导磁体 + 10 K 低温台 + 铁电测试仪，空间分辨率 ~590 nm。
 ## 📊 关键图表
   - ![三层NiI2三明治器件、菱方晶体结构、STEM、圆偏振拉曼、MCD光谱](../../raw/figures/wuCoexistenceFerroelectricityAntiferroelectricity2024/fig_110_EBMFYQCQ.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
     - **图示描述**：图1从结构与磁性两个角度确认三层 NiI₂ 的样品质量与磁基态，包含五个子图：(a) Gr/hBN/NiI₂/Gr/hBN 三明治器件爆炸示意图；(b) 菱方（rhombohedral）晶体结构，Ni²⁺ 被 I⁻ 八面体包围、三层 (I–Ni–I) 为重复单元沿 c 轴错位堆垛；(c) 原子分辨率 ADF-STEM 图与 FFT 插图；(d) 室温圆偏振拉曼光谱；(e) 10 K 下 +3 T、0 T、−3 T 的白光 MCD 光谱。

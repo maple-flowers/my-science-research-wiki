@@ -93,7 +93,7 @@ M. D. Johannes, I. I. Mazin，2008，Physical Review B 77, 165135，DOI [10.1103
   - 实体 [[../entities/CeTe3]]
 
 ## 🆕 新概念/实体建议
-  - 实体 `CeTe3.md` — 三碲化铈，RTe₃ 家族准一维 Te-p 费米面，是“隐藏嵌套”的范例；计算用 LDA+U（U=4.5 eV）去除 f 带。
+  - 实体 [[../entities/CeTe3|CeTe3]] — 三碲化铈，RTe₃ 家族准一维 Te-p 费米面，是“隐藏嵌套”的范例；计算用 LDA+U（U=4.5 eV）去除 f 带。
 ## 📊 关键图表
   - ![图1 理想 1D Peierls 模型中 χ′(q) 在 q=2k_F 的对数发散被温度、散射 γ、几何偏差 δk 急剧削弱为弱峰](../../raw/figures/Johannes2008fermi/fig_1_SNEVCPH4.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]
     - **图示描述**：对比理想半满一维自由电子气与引入温度、Drude 弛豫率 γ、几何不完全嵌套 δk 三种非理想条件后实部极化率 χ′(q) 随波矢 q 的变化曲线；横轴以 k_F 为单位，纵轴为 χ′(q)（任意单位）。

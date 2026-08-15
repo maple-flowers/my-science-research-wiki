@@ -110,23 +110,23 @@ N. A. Spaldin & R. Ramesh et al.，2019，Nature Materials，vol. 18, pp. 203–
   - 实体 [[../entities/CoFe2O4]]
 
 ## 🆕 新概念/实体建议
-  - `magnetoelectric-multipoles`（磁电多极子）：包括磁电单极子、环形矩（toroidal moment）和四极子，分别对应磁电张量的各向同性对角、反对称非对角和无迹分量，是同时打破空间反演与时间反演对称性相变的更本质序参量。
-  - `second-principles-calculations`（第二性原理计算）：从DFT拟合关键参数构建有效哈密顿量，可模拟数千至数百万原子、纳秒尺度动力学（畴壁、异质结、极化翻转），是连接微观物理与宏观器件的核心多尺度方法。
-  - `meso-logic-device`（磁电自旋轨道耦合逻辑器件）：Intel提出的非易失逻辑架构，结合多铁电场控磁与逆Rashba-Edelstein自旋-电荷转换，目标 1 aJ/bit 能耗。
-  - `multiferroic-family-tree`（多铁性家族树）：按物理机制（d0铁电、孤对电子、d/f电子磁性四根）组合分类多铁材料的经典框架，直观标示未探索分支。
-  - `lone-pair-ferroelectricity`（孤对电子铁电性）：Bi³⁺ 6s²、Pb²⁺等立体化学活性孤对电子驱动偏心位移产生铁电，是BiFeO3大极化的根源。
-  - `improper-ferroelectricity`（非本征/杂化非本征铁电性）：铁电极化由非极性畸变（如氧八面体旋转、电荷有序、磁序）作为副产物产生，包括几何铁电性、电荷有序铁电性、自旋螺旋诱导铁电性。
-  - `spin-spiral-multiferroics`（自旋螺旋多铁性）：非共线磁结构（如螺旋磁序）通过自旋-轨道耦合打破反演对称性诱导极化；化学无序可将有序温度提升至室温附近（YBaCuFeO5）。
-  - `exchange-bias`（交换偏置）：铁磁/反铁磁界面交换耦合导致磁滞回线偏移，是BFO/CoFe体系电场控磁180°翻转的核心机制。
-  - `inverse-rashba-edelstein-effect`（逆Rashba-Edelstein效应）：界面自旋-电荷转换效应，MESO器件读出端的物理基础。
-  - `dynamical-multiferroicity`（动态多铁性）：随时间变化的极化以与自旋螺旋诱导极化对偶的方式诱导磁性，是太赫兹动力学研究的新方向。
-  - 实体 `FeRh`：铁磁-反铁磁相变伴随体积坍塌和~25%电阻变化，PMN-PT应变异质结中实现电场驱动磁态转变。
-  - 实体 `Cr2O3`：经典磁电体，电场可控反铁磁畴取向，可调控铁磁覆盖层交换偏置。
-  - 实体 `EuTiO3`：d0铁电性（BaTiO3原型）+ f电子磁性（Eu²⁺ f⁷）分支代表，应变下多铁。
-  - 实体 `YBaCuFeO5`：层状钙钛矿，化学无序稳定磁螺旋，多铁有序温度接近室温。
-  - 实体 `BiCoO3`：极性、高奈尔温度470 K，但c/a比过大导致极化尚不可翻转。
-  - 实体 `PMN-PT`（Pb(Mg1/3Nb2/3)O3–PbTiO3）：压电衬底，用于电场-应变驱动FeRh磁相变。
-  - 实体 `CoFe2O4` / `BaTiO3`：垂直排列纳米复合多铁的经典磁性尖晶石/铁电钙钛矿组合。
+  - [[../concepts/magnetoelectric-multipoles|magnetoelectric-multipoles]]（磁电多极子）：包括磁电单极子、环形矩（toroidal moment）和四极子，分别对应磁电张量的各向同性对角、反对称非对角和无迹分量，是同时打破空间反演与时间反演对称性相变的更本质序参量。
+  - [[../concepts/second-principles-calculations|second-principles-calculations]]（第二性原理计算）：从DFT拟合关键参数构建有效哈密顿量，可模拟数千至数百万原子、纳秒尺度动力学（畴壁、异质结、极化翻转），是连接微观物理与宏观器件的核心多尺度方法。
+  - [[../entities/meso-logic-device|meso-logic-device]]（磁电自旋轨道耦合逻辑器件）：Intel提出的非易失逻辑架构，结合多铁电场控磁与逆Rashba-Edelstein自旋-电荷转换，目标 1 aJ/bit 能耗。
+  - [[../concepts/multiferroic-family-tree|multiferroic-family-tree]]（多铁性家族树）：按物理机制（d0铁电、孤对电子、d/f电子磁性四根）组合分类多铁材料的经典框架，直观标示未探索分支。
+  - [[../concepts/lone-pair-ferroelectricity|lone-pair-ferroelectricity]]（孤对电子铁电性）：Bi³⁺ 6s²、Pb²⁺等立体化学活性孤对电子驱动偏心位移产生铁电，是BiFeO3大极化的根源。
+  - [[../concepts/improper-ferroelectricity|improper-ferroelectricity]]（非本征/杂化非本征铁电性）：铁电极化由非极性畸变（如氧八面体旋转、电荷有序、磁序）作为副产物产生，包括几何铁电性、电荷有序铁电性、自旋螺旋诱导铁电性。
+  - [[../concepts/spin-spiral-multiferroics|spin-spiral-multiferroics]]（自旋螺旋多铁性）：非共线磁结构（如螺旋磁序）通过自旋-轨道耦合打破反演对称性诱导极化；化学无序可将有序温度提升至室温附近（YBaCuFeO5）。
+  - [[../concepts/exchange-bias|exchange-bias]]（交换偏置）：铁磁/反铁磁界面交换耦合导致磁滞回线偏移，是BFO/CoFe体系电场控磁180°翻转的核心机制。
+  - [[../concepts/inverse-rashba-edelstein-effect|inverse-rashba-edelstein-effect]]（逆Rashba-Edelstein效应）：界面自旋-电荷转换效应，MESO器件读出端的物理基础。
+  - [[../concepts/dynamical-multiferroicity|dynamical-multiferroicity]]（动态多铁性）：随时间变化的极化以与自旋螺旋诱导极化对偶的方式诱导磁性，是太赫兹动力学研究的新方向。
+  - 实体 [[../entities/FeRh|FeRh]]：铁磁-反铁磁相变伴随体积坍塌和~25%电阻变化，PMN-PT应变异质结中实现电场驱动磁态转变。
+  - 实体 [[../entities/Cr2O3|Cr2O3]]：经典磁电体，电场可控反铁磁畴取向，可调控铁磁覆盖层交换偏置。
+  - 实体 [[../entities/EuTiO3|EuTiO3]]：d0铁电性（BaTiO3原型）+ f电子磁性（Eu²⁺ f⁷）分支代表，应变下多铁。
+  - 实体 [[../entities/YBaCuFeO5|YBaCuFeO5]]：层状钙钛矿，化学无序稳定磁螺旋，多铁有序温度接近室温。
+  - 实体 [[../entities/BiCoO3|BiCoO3]]：极性、高奈尔温度470 K，但c/a比过大导致极化尚不可翻转。
+  - 实体 [[../entities/PMN-PT|PMN-PT]]（Pb(Mg1/3Nb2/3)O3–PbTiO3）：压电衬底，用于电场-应变驱动FeRh磁相变。
+  - 实体 [[../entities/CoFe2O4|CoFe2O4]] / [[../entities/BaTiO3|BaTiO3]]：垂直排列纳米复合多铁的经典磁性尖晶石/铁电钙钛矿组合。
 
 ## 📊 关键图表
   - ![图1 多铁性家族树：d0/孤对电子铁电根与d/f电子磁性根组合形成各材料分支](../../raw/figures/spaldinAdvancesMagnetoelectricMultiferroics2019/fig_1_EI832AIH.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]

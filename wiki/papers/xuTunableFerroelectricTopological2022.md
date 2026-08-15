@@ -113,7 +113,7 @@ Bo Xu, Zhanpeng Gong, Jingran Liu, Yunfei Hong, Yang Yang, Lou Li, Yilun Liu, Ju
   - 相关论文 [[../../raw/note/xuTunableFerroelectricTopological2022]]
 
 ## 🆕 新概念/实体建议
-  - `entities/PbS.md`、`entities/PbSe.md` — 二维铅硫族化合物，与 PbTe 同构，基态 Cmcm 顺电相。
+  - [[../entities/PbS|PbS]]、[[../entities/PbSe|PbSe]] — 二维铅硫族化合物，与 PbTe 同构，基态 Cmcm 顺电相。
   - `figures/polarization-phase-diagram.md` — 二维应变空间中的极化方向/大小相图，是本文核心图件类型。
   - `figures/multiscale-simulation-workflow.md` — DFT+MLIP+FEM 三级火箭式工作流示意图。
 

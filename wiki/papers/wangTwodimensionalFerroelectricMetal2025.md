@@ -99,14 +99,14 @@ Wang Ying, Lu Chengliang, Wu Menghao（华中科技大学物理学院），2025�
   - 相关论文 [[../../raw/note/wangTwodimensionalFerroelectricMetal2025]]
 
 ## 🆕 新概念/实体建议
-  - `ferroelectric-metal`（铁电金属）：金属性与面外铁电性共存的二维物态，因电子垂直方向受量子限域无法完全屏蔽极化场；本文核心概念。
-  - `electrocatalysis`（电催化）：通过电极表面催化剂加速电荷转移反应的领域，本文关注ORR/OER。
-  - `overpotential`（过电位）：驱动电化学反应超出热力学平衡电位（1.23 V）所需的额外电压，是催化活性核心指标。
-  - `computational-hydrogen-electrode`（计算氢电极CHE模型）：Nørskov等人提出的电催化热力学框架，将H⁺+e⁻化学势与1/2 H₂等同。
-  - `sabatier-principle`（萨巴蒂尔原理）：催化剂对中间体吸附应"恰到好处"，过弱无法活化、过强阻碍脱附。
-  - `work-function`（功函数）：电子从表面逸出所需最小能量；两表面功函数差是垂直极化的直接量化。
-  - `CuCrS2` / `CuCrSe2`：本文研究的二维铁电金属材料，Cu为sp³四面体配位导致垂直极化，基态面内铁磁、层间铁磁/反铁磁混合。
-  - `IrO2`、`Pt`：作为OER/ORR贵金属基准催化剂被引用（η_OER=0.56 V，η_ORR≈0.45 V）。
+  - [[../concepts/ferroelectric-metal|ferroelectric-metal]]（铁电金属）：金属性与面外铁电性共存的二维物态，因电子垂直方向受量子限域无法完全屏蔽极化场；本文核心概念。
+  - [[../concepts/electrocatalysis|electrocatalysis]]（电催化）：通过电极表面催化剂加速电荷转移反应的领域，本文关注ORR/OER。
+  - [[../concepts/overpotential|overpotential]]（过电位）：驱动电化学反应超出热力学平衡电位（1.23 V）所需的额外电压，是催化活性核心指标。
+  - [[../concepts/computational-hydrogen-electrode|computational-hydrogen-electrode]]（计算氢电极CHE模型）：Nørskov等人提出的电催化热力学框架，将H⁺+e⁻化学势与1/2 H₂等同。
+  - [[../concepts/sabatier-principle|sabatier-principle]]（萨巴蒂尔原理）：催化剂对中间体吸附应"恰到好处"，过弱无法活化、过强阻碍脱附。
+  - [[../concepts/work-function|work-function]]（功函数）：电子从表面逸出所需最小能量；两表面功函数差是垂直极化的直接量化。
+  - [[../entities/CuCrS2|CuCrS2]] / [[../entities/CuCrSe2|CuCrSe2]]：本文研究的二维铁电金属材料，Cu为sp³四面体配位导致垂直极化，基态面内铁磁、层间铁磁/反铁磁混合。
+  - [[../entities/IrO2|IrO2]]、[[../entities/Pt|Pt]]：作为OER/ORR贵金属基准催化剂被引用（η_OER=0.56 V，η_ORR≈0.45 V）。
 
 ## 📊 关键图表
   - ![双层CuCrS2几何结构、能带/PDOS、静电势与差分电荷密度](../../raw/figures/wangTwodimensionalFerroelectricMetal2025/fig_1_YWXULNJX.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]

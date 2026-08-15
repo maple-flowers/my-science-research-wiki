@@ -135,13 +135,13 @@ Menghao Wu（吴梦昊，华中科技大学）& Ju Li（李巨，MIT），2021�
   - 实体 [[../entities/GaSe]]
 
 ## 🆕 新概念/实体建议
-  - `ripplocation`（波纹位错）：二维 vdW 层中兼具晶体学位错与面外屈曲波纹特征的畴壁，是滑动铁电翻转的动力学载体；Frank 定律（核心能 ∝|b|²）在 2D 中因面内弹性能被屈曲弛豫而失效。
-  - `moire-ferroelectricity`（莫尔铁电性）：小角度扭转双层中局域堆垛（AA/AB/BA）周期调制形成的纳米铁电畴网络，可产生周期 n/p 掺杂、三角超晶格电势与激子捕获阵列。
-  - `metallic-ferroelectricity`（金属铁电性）：WTe₂ 实验打破"自由载流子屏蔽使铁电与金属不兼容"的传统认知；足够薄的极性金属可被电场穿透，配合超低滑动势垒实现极化翻转。
-  - `ferroelectric-nonlinear-anomalous-hall-effect`（铁电非线性反常霍尔效应）：少层 WTe₂ 中极化翻转同步翻转 Berry 曲率偶极子，奇层信号反向、偶层不变，构成非破坏性读出（Berry curvature memory）。
-  - `negative-piezoelectricity`（负压电性）：BN、ZrI₂ 双层在垂直压力下极化反常增加的现象。
-  - `stacking-sequence-engineering`（堆垛序工程/相工程）：AB/AA'/ABC（3R）、正交/单斜、R/H 型等近简并堆垛相的极性/非极性控制，是实现滑动铁电的合成关键。
-  - 实体 `AlN`（石墨型双层，10.29 pC/m，迄今已知二维铁电最高垂直极化）、`InSe`（β-InSe 室温 PFM 蝴蝶曲线）、`GaSe`、`CrI3`（R/H 型堆垛依赖层间磁性）、`ZrI2`（负压电、层间滑动铁电）、`GaN`/`SiC`/`ZnO`（蜂窝晶格二元化合物高极化双层）。
+  - [[../concepts/ripplocation|ripplocation]]（波纹位错）：二维 vdW 层中兼具晶体学位错与面外屈曲波纹特征的畴壁，是滑动铁电翻转的动力学载体；Frank 定律（核心能 ∝|b|²）在 2D 中因面内弹性能被屈曲弛豫而失效。
+  - [[../concepts/moire-ferroelectricity|moire-ferroelectricity]]（莫尔铁电性）：小角度扭转双层中局域堆垛（AA/AB/BA）周期调制形成的纳米铁电畴网络，可产生周期 n/p 掺杂、三角超晶格电势与激子捕获阵列。
+  - [[../concepts/metallic-ferroelectricity|metallic-ferroelectricity]]（金属铁电性）：WTe₂ 实验打破"自由载流子屏蔽使铁电与金属不兼容"的传统认知；足够薄的极性金属可被电场穿透，配合超低滑动势垒实现极化翻转。
+  - [[../concepts/ferroelectric-nonlinear-anomalous-hall-effect|ferroelectric-nonlinear-anomalous-hall-effect]]（铁电非线性反常霍尔效应）：少层 WTe₂ 中极化翻转同步翻转 Berry 曲率偶极子，奇层信号反向、偶层不变，构成非破坏性读出（Berry curvature memory）。
+  - [[../concepts/negative-piezoelectricity|negative-piezoelectricity]]（负压电性）：BN、ZrI₂ 双层在垂直压力下极化反常增加的现象。
+  - [[../concepts/stacking-sequence-engineering|stacking-sequence-engineering]]（堆垛序工程/相工程）：AB/AA'/ABC（3R）、正交/单斜、R/H 型等近简并堆垛相的极性/非极性控制，是实现滑动铁电的合成关键。
+  - 实体 [[../entities/AlN|AlN]]（石墨型双层，10.29 pC/m，迄今已知二维铁电最高垂直极化）、[[../entities/InSe|InSe]]（β-InSe 室温 PFM 蝴蝶曲线）、[[../entities/GaSe|GaSe]]、[[../entities/CrI3|CrI3]]（R/H 型堆垛依赖层间磁性）、[[../entities/ZrI2|ZrI2]]（负压电、层间滑动铁电）、[[../entities/GaN|GaN]]/[[../entities/SiC|SiC]]/[[../entities/ZnO|ZnO]]（蜂窝晶格二元化合物高极化双层）。
 
 ## 📊 关键图表
   - ![图1 滑动铁电机理：BN双层AB→BA滑移路径、扭转BN莫尔铁电畴、3R体相、WTe2普适判据](../../raw/figures/wuSlidingFerroelectricity2D2021a/fig_1_37UWP3F7.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]

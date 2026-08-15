@@ -108,12 +108,12 @@ Cui, Hu, Yan, Addiego, Gao, Wang, Wang, Li, Cheng, Li, Zhang, Alshareef, Wu, Zhu
   - 实体 [[../entities/Au]]、[[../entities/mica]]
   - 相关论文 **cuiIntercorrelatedInplaneOutofplane2018a**
 ## 🆕 新概念/实体建议
-  - `in-plane-out-of-plane-coupling`（面内-面外极化互锁）：α-In2Se3 中由中心 Se 原子层横向位移同时驱动 IP/OOP 极化翻转的本征耦合机制。
-  - `odd-even-effect`（奇偶层数效应）：相邻层反平行堆叠导致奇/偶数层宏观极化方向相反。
-  - `antiparallel-polarization-stacking`（反平行极化堆垛）：层间极化反向排列，是奇偶效应与净极化抵消的微观起源。
-  - `switchable-diode`（可切换二极管）：铁电极化调制两端金属-半导体肖特基势垒，使整流方向可被电场反转。
-  - `scanning-electron-diffraction`（扫描电子衍射, SED）：通过 CBED 图样重心位移直接成像样品内投影电场的表征技术。
-  - `depolarizing-field`（退极化场）：铁电体表面束缚电荷产生的反向电场，其屏蔽程度决定单畴/多畴态。
+  - [[../concepts/in-plane-out-of-plane-coupling|in-plane-out-of-plane-coupling]]（面内-面外极化互锁）：α-In2Se3 中由中心 Se 原子层横向位移同时驱动 IP/OOP 极化翻转的本征耦合机制。
+  - [[../concepts/odd-even-effect|odd-even-effect]]（奇偶层数效应）：相邻层反平行堆叠导致奇/偶数层宏观极化方向相反。
+  - [[../concepts/antiparallel-polarization-stacking|antiparallel-polarization-stacking]]（反平行极化堆垛）：层间极化反向排列，是奇偶效应与净极化抵消的微观起源。
+  - [[../concepts/switchable-diode|switchable-diode]]（可切换二极管）：铁电极化调制两端金属-半导体肖特基势垒，使整流方向可被电场反转。
+  - [[../concepts/scanning-electron-diffraction|scanning-electron-diffraction]]（扫描电子衍射, SED）：通过 CBED 图样重心位移直接成像样品内投影电场的表征技术。
+  - [[../concepts/depolarizing-field|depolarizing-field]]（退极化场）：铁电体表面束缚电荷产生的反向电场，其屏蔽程度决定单畴/多畴态。
 ## 📊 关键图表
   - ![图1 合成与结构表征：CVD生长、AFM、Raman、SAED、单层α-In2Se3原子分辨STEM，确认FE-ZB'构型](../../raw/figures/cuiIntercorrelatedInplaneOutofplane2018a/fig_1_MQ5WQF79.png) → [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：图1 综合展示二维 In2Se3 的CVD生长与结构确认：(a) 以 Se 和 In2O3 为前驱体在云母衬底上生长的示意图；(b) AFM 形貌及高度剖面，薄片厚度 1.3–4.3 nm；(c) 532 nm 激发下慢冷/快冷样品与云母的 Raman 光谱；(d) 单层（α 相）与 12 nm 厚（β 相）区域的 SAED 花样；(e) 单层 α-In2Se3 的原子分辨 STEM 图像。

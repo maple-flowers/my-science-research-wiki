@@ -86,7 +86,7 @@ Wang Jue, Cai Chengkun, Fu Tianhao, Wang Kangrui, Liang Yize, Wang Jian（华中
   - 相关论文 [[../../raw/note/Wang2023ultracompact]]
 
 ## 🆕 新概念/实体建议
-  - 实体 `SZ-2080.md`：本文使用的有机-无机杂化光刻胶（折射率 n_p≈1.5，设计波长 1550 nm 时 π 相位对应高度 1.55 μm），TPP 常用材料。
+  - 实体 [[../entities/SZ-2080|SZ-2080]]：本文使用的有机-无机杂化光刻胶（折射率 n_p≈1.5，设计波长 1550 nm 时 π 相位对应高度 1.55 μm），TPP 常用材料。
 
 ## 📊 关键图表
   - ![图1 偶/螺旋MG光束生成原理（相位调制+4-f滤波+传播不变性模拟）](../../raw/figures/Wang2023ultracompact/fig_1_UAN2BY4E.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]

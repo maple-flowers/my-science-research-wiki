@@ -103,13 +103,13 @@ Yuan Yan, Kaiyun Chen, Minglei Sun, Minglei Sun, Yinchang Ma, Peiyao Wang, Junka
   - 相关论文 [[../../raw/note/yanDecipheringStabilityTwodimensional2025]]
 
 ## 🆕 新概念/实体建议
-  - `iii-v-semiconductors`（III-V族半导体）：由 III 族（B, Al, Ga, In）与 V 族（N, P, As, Sb）构成的共价键化合物半导体家族，光电子/高频器件基石，本文系统研究其二维化。
-  - `tt-structure`（TT 相，四面体-三角形混合相）：本文新预测的矩形对称二维结构，每个晶胞 4M+4X，表面原子三角配位(MX₃)、内部原子四面体配位(MX₄)，是 16 种 III-V 化合物中 8 种的最稳定相。
-  - `dlhc-structure`（双层蜂窝结构, double-layer honeycomb）：2018 年 Lucking 等预测的 III-V 二维相，本文表明其为 AlP/AlAs/AlSb/GaSb 的基态；AlSb-DLHC 已被 Qin 等用 MBE 合成。
-  - `dbscan-clustering`（DBSCAN 密度聚类）：本文用来从键长-键角分布中无监督识别"积木"的机器学习算法，可作为方法论概念条目。
-  - `electron-counting-rule-surface`（表面电子计数规则, ECR）：已存在 `electron-counting-rule`，可补充其在 III-V 表面/二维结构悬挂键饱和中的应用（M 悬挂键为空、X 悬挂键为满）。
-  - `carrier-mobility`（载流子迁移率）：wiki 中尚无独立条目，本文给出形变势理论框架 μ ∝ 1/E₁² 及 TT-GaSb 极值案例，值得新建。
-  - `e2-e4-edge-sharing-structures`（E2/E4 共棱四面体结构）：分别共用 2 条/4 条棱的纯四面体组装相，是 BSb(E2)、InSb(E4) 的基态，可作为 TT/DLHC 并列的结构实体。
+  - [[../entities/iii-v-semiconductors|iii-v-semiconductors]]（III-V族半导体）：由 III 族（B, Al, Ga, In）与 V 族（N, P, As, Sb）构成的共价键化合物半导体家族，光电子/高频器件基石，本文系统研究其二维化。
+  - [[../concepts/tt-structure|tt-structure]]（TT 相，四面体-三角形混合相）：本文新预测的矩形对称二维结构，每个晶胞 4M+4X，表面原子三角配位(MX₃)、内部原子四面体配位(MX₄)，是 16 种 III-V 化合物中 8 种的最稳定相。
+  - [[../concepts/dlhc-structure|dlhc-structure]]（双层蜂窝结构, double-layer honeycomb）：2018 年 Lucking 等预测的 III-V 二维相，本文表明其为 AlP/AlAs/AlSb/GaSb 的基态；AlSb-DLHC 已被 Qin 等用 MBE 合成。
+  - [[../concepts/dbscan-clustering|dbscan-clustering]]（DBSCAN 密度聚类）：本文用来从键长-键角分布中无监督识别"积木"的机器学习算法，可作为方法论概念条目。
+  - [[../concepts/electron-counting-rule-surface|electron-counting-rule-surface]]（表面电子计数规则, ECR）：已存在 [[../concepts/electron-counting-rule|electron-counting-rule]]，可补充其在 III-V 表面/二维结构悬挂键饱和中的应用（M 悬挂键为空、X 悬挂键为满）。
+  - [[../concepts/carrier-mobility|carrier-mobility]]（载流子迁移率）：wiki 中尚无独立条目，本文给出形变势理论框架 μ ∝ 1/E₁² 及 TT-GaSb 极值案例，值得新建。
+  - [[../concepts/e2-e4-edge-sharing-structures|e2-e4-edge-sharing-structures]]（E2/E4 共棱四面体结构）：分别共用 2 条/4 条棱的纯四面体组装相，是 BSb(E2)、InSb(E4) 的基态，可作为 TT/DLHC 并列的结构实体。
 
 ## 📊 关键图表
 > raw/figures 目录下仅有 manifest.json，无图像文件，故以下以文字描述补全。

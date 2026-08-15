@@ -69,12 +69,12 @@ Yi-Jui Liu, Po-Yu Chen, Jiun-Yi Yang, Chingfu Tsou, Yi-Hsiung Lee, Patrice Balde
   - （wiki现有概念/实体集中于二维材料、多铁、铁电、CDW等方向，与本文微流控/TPP主题无直接重叠，故无概念或实体双链。）
 
 ## 🆕 新概念/实体建议
-  - `two-photon-polymerization`（双光子聚合，TPP）：基于飞秒/脉冲激光双光子吸收的非线性光聚合三维微纳加工技术，可突破衍射极限逐点写入任意三维结构，分辨率达亚微米级。
-  - `passive-micromixer`（被动微混合器）：无需外部能量输入，仅依靠通道几何形状或内置障碍物扰动流线来增强微尺度流体混合的装置。
-  - `chaotic-advection`（混沌对流）：在低雷诺数层流中通过三维几何拉伸、折叠流体单元以增加界面面积、加速混合的机制。
-  - `PDMS`（聚二甲基硅氧烷）：微流控芯片最常用的弹性体材料，经软光刻和复制成型制备微通道，可氧等离子体处理与玻璃不可逆键合。
-  - `COMSOL-multiphysics`：商用多物理场仿真软件，本文用于求解Navier-Stokes方程与对流扩散方程、可视化微通道内三维流线。
-  - `mixing-index`（混合指数）：基于像素浓度/灰度相对标准差定义的混合均匀度量化指标，I越小表示混合越均匀。
+  - [[../concepts/two-photon-polymerization|two-photon-polymerization]]（双光子聚合，TPP）：基于飞秒/脉冲激光双光子吸收的非线性光聚合三维微纳加工技术，可突破衍射极限逐点写入任意三维结构，分辨率达亚微米级。
+  - [[../entities/passive-micromixer|passive-micromixer]]（被动微混合器）：无需外部能量输入，仅依靠通道几何形状或内置障碍物扰动流线来增强微尺度流体混合的装置。
+  - [[../concepts/chaotic-advection|chaotic-advection]]（混沌对流）：在低雷诺数层流中通过三维几何拉伸、折叠流体单元以增加界面面积、加速混合的机制。
+  - [[../entities/PDMS|PDMS]]（聚二甲基硅氧烷）：微流控芯片最常用的弹性体材料，经软光刻和复制成型制备微通道，可氧等离子体处理与玻璃不可逆键合。
+  - [[../entities/COMSOL-multiphysics|COMSOL-multiphysics]]：商用多物理场仿真软件，本文用于求解Navier-Stokes方程与对流扩散方程、可视化微通道内三维流线。
+  - [[../concepts/mixing-index|mixing-index]]（混合指数）：基于像素浓度/灰度相对标准差定义的混合均匀度量化指标，I越小表示混合越均匀。
 
 ## 📊 关键图表
   > 注：raw/figures/Unknown2014passive/ 目录下仅有 manifest.json，未提取到图片文件，以下以文字描述各图（图片路径不伪造）。

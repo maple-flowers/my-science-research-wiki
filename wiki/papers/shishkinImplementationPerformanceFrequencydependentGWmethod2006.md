@@ -71,16 +71,16 @@ M. Shishkin, G. Kresse，2006，Physical Review B 74, 035101，DOI: 10.1103/Phys
   - 实体 [[../entities/troullier-martins-pseudopotential]]
 
 ## 🆕 新概念/实体建议
-  - `gw-approximation`（GW近似）：基于Green函数G与动态屏蔽库仑相互作用W的多体微扰方法，用于精确计算准粒子能量与激发谱；本文是VASP中GW模块的奠基性实现论文。
-  - `paw-method`（投影缀加波方法，Projector Augmented Wave）：Blöchl提出的全势方法，通过加性缀加在平面波网格上处理平滑赝量、在原子球内修正成全电子量，兼具赝势效率与全电子精度。
-  - `quasiparticle-energy`（准粒子能量）：多体体系中单粒子激发的重整化能量，对应ARPES等实验可测量；G₀W₀通过求解含自能Σ的非线性本征方程获得。
-  - `self-energy`（自能算符Σ）：GW中描述多体效应的非局域、能量相关算符，Σ=iGW；其虚部给出准粒子寿命。
-  - `plasmon-pole-model`（等离激元极点模型）：早期GW对介电函数频率依赖的简化模型，仅适用于sp材料且无法给出寿命/谱函数。
-  - `spectral-representation-hilbert-transform`（谱表示与Hilbert变换）：将极化率/自能的频率依赖通过一次遍历占据-非占据态对建立谱函数，再用Kramers-Kronig变换合成任意频率响应，是本文加速算法的核心。
-  - `core-valence-interaction`（芯-价相互作用）：芯电子与价电子间的交换关联贡献；本文证明在HF水平处理比LDA更精确且收敛更快，是PAW相对赝势的关键优势。
-  - 实体 `silicon`（硅，Si）：本文sp材料基准，G₀W₀间接带隙X₁c≈1.15-1.17 eV。
-  - 实体 `cadmium-sulfide`（硫化镉，CdS）：含Cd 4d电子的II-VI半导体，d带位于价带内，p-d杂化使4p解冻影响带隙。
-  - 实体 `troullier-martins-pseudopotential`（TM模守恒赝势）：对比基准，在1 Ry以上散射性质偏离全电子结果，导致GW带隙偏大0.1-0.2 eV。
+  - [[../concepts/gw-approximation|gw-approximation]]（GW近似）：基于Green函数G与动态屏蔽库仑相互作用W的多体微扰方法，用于精确计算准粒子能量与激发谱；本文是VASP中GW模块的奠基性实现论文。
+  - [[../concepts/paw-method|paw-method]]（投影缀加波方法，Projector Augmented Wave）：Blöchl提出的全势方法，通过加性缀加在平面波网格上处理平滑赝量、在原子球内修正成全电子量，兼具赝势效率与全电子精度。
+  - [[../concepts/quasiparticle-energy|quasiparticle-energy]]（准粒子能量）：多体体系中单粒子激发的重整化能量，对应ARPES等实验可测量；G₀W₀通过求解含自能Σ的非线性本征方程获得。
+  - [[../concepts/self-energy|self-energy]]（自能算符Σ）：GW中描述多体效应的非局域、能量相关算符，Σ=iGW；其虚部给出准粒子寿命。
+  - [[../concepts/plasmon-pole-model|plasmon-pole-model]]（等离激元极点模型）：早期GW对介电函数频率依赖的简化模型，仅适用于sp材料且无法给出寿命/谱函数。
+  - [[../concepts/spectral-representation-hilbert-transform|spectral-representation-hilbert-transform]]（谱表示与Hilbert变换）：将极化率/自能的频率依赖通过一次遍历占据-非占据态对建立谱函数，再用Kramers-Kronig变换合成任意频率响应，是本文加速算法的核心。
+  - [[../concepts/core-valence-interaction|core-valence-interaction]]（芯-价相互作用）：芯电子与价电子间的交换关联贡献；本文证明在HF水平处理比LDA更精确且收敛更快，是PAW相对赝势的关键优势。
+  - 实体 [[../entities/silicon|silicon]]（硅，Si）：本文sp材料基准，G₀W₀间接带隙X₁c≈1.15-1.17 eV。
+  - 实体 [[../entities/cadmium-sulfide|cadmium-sulfide]]（硫化镉，CdS）：含Cd 4d电子的II-VI半导体，d带位于价带内，p-d杂化使4p解冻影响带隙。
+  - 实体 [[../entities/troullier-martins-pseudopotential|troullier-martins-pseudopotential]]（TM模守恒赝势）：对比基准，在1 Ry以上散射性质偏离全电子结果，导致GW带隙偏大0.1-0.2 eV。
 
 ## 📊 关键图表
   - ![图1 PAW加性缀加示意：(a)全空间平面波赝量，(b)减赝单中心项，(c)加全电子单中心项](../../raw/figures/shishkinImplementationPerformanceFrequencydependentGWmethod2006/fig_1_VIE5IKT4.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]

@@ -96,12 +96,12 @@ Pankaj Sharma, Fei-Xiang Xiang, Ding-Fu Shao, Dawei Zhang, Evgeny Y. Tsymbal, Al
   - 相关论文 [[../../raw/note/sharmaRoomtemperatureFerroelectricSemimetal2019]]
 
 ## 🆕 新概念/实体建议
-  - `ferroelectric-metal`（铁电金属/极性金属）：同时具有可翻转自发极化与金属导电性的材料类别，源于 Anderson-Blount 1965 年预言；WTe₂ 是首个室温块体实例。
-  - `weyl-semimetal`（外尔半金属）：导带与价带在离散外尔点相接的拓扑半金属；WTe₂ 是 II 型外尔半金属，铁电性与拓扑性共存具有"铁电拓扑电子学"意义。
-  - `piezoresponse-force-microscopy`（压电力显微镜，PFM）：基于逆压电效应的扫描探针技术，用于纳米尺度成像铁电畴与电滞回线，是本文核心实验手段。
-  - `debye-screening-length`（德拜屏蔽长度）：金属/半金属中电场被自由载流子屏蔽的特征深度；WTe₂ 中约 1.6 nm，决定 PFM 信号仅来自表面薄层，是理解金属中铁电性探测的关键概念。
-  - `incomplete-screening`（不完全屏蔽）：半金属低载流子浓度导致内部偶极场未被完全抵消，使铁电性得以幸存的物理机制。
-  - `ferroelectric-domain-wall`（铁电畴壁）：铁电畴之间的界面，在金属体系中可能呈现新颖导电性/拓扑性质，是本文指出的后续研究方向。
+  - [[../concepts/ferroelectric-metal|ferroelectric-metal]]（铁电金属/极性金属）：同时具有可翻转自发极化与金属导电性的材料类别，源于 Anderson-Blount 1965 年预言；WTe₂ 是首个室温块体实例。
+  - [[../concepts/weyl-semimetal|weyl-semimetal]]（外尔半金属）：导带与价带在离散外尔点相接的拓扑半金属；WTe₂ 是 II 型外尔半金属，铁电性与拓扑性共存具有"铁电拓扑电子学"意义。
+  - [[../concepts/piezoresponse-force-microscopy|piezoresponse-force-microscopy]]（压电力显微镜，PFM）：基于逆压电效应的扫描探针技术，用于纳米尺度成像铁电畴与电滞回线，是本文核心实验手段。
+  - [[../concepts/debye-screening-length|debye-screening-length]]（德拜屏蔽长度）：金属/半金属中电场被自由载流子屏蔽的特征深度；WTe₂ 中约 1.6 nm，决定 PFM 信号仅来自表面薄层，是理解金属中铁电性探测的关键概念。
+  - [[../concepts/incomplete-screening|incomplete-screening]]（不完全屏蔽）：半金属低载流子浓度导致内部偶极场未被完全抵消，使铁电性得以幸存的物理机制。
+  - [[../concepts/ferroelectric-domain-wall|ferroelectric-domain-wall]]（铁电畴壁）：铁电畴之间的界面，在金属体系中可能呈现新颖导电性/拓扑性质，是本文指出的后续研究方向。
 
 ## 📊 关键图表
   - ![图1 WTe₂晶体结构（Td相，Pmn21）、XRD、R-T金属行为及SdH振荡](../../raw/figures/sharmaRoomtemperatureFerroelectricSemimetal2019/fig_1_NDNYXQ2A.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]

@@ -100,8 +100,8 @@ Tang, Tian, Ouyang, Pan, Chen et al.，2025，Physical Review B 111, L081407，D
   - 相关论文 [[../../raw/note/tangCombiningIntrinsicSlidinginduced2025]]
 
 ## 🆕 新概念/实体建议
-  - `1T-double-prime-TMD`（1T″相过渡金属硫族化合物）：由 1T 相 2×2 重构而来，过渡金属形成收缩/扩张三角形，硫族原子面外位移产生本征 OOP 极化；建议作为实体条目。
-  - `MoSe2`（二硒化钼）：本文主算例材料，单层 PI 翻转势垒 271 meV/f.u.，极化 0.18 pC/m。
+  - [[../entities/1T-double-prime-TMD|1T-double-prime-TMD]]（1T″相过渡金属硫族化合物）：由 1T 相 2×2 重构而来，过渡金属形成收缩/扩张三角形，硫族原子面外位移产生本征 OOP 极化；建议作为实体条目。
+  - [[../entities/MoSe2|MoSe2]]（二硒化钼）：本文主算例材料，单层 PI 翻转势垒 271 meV/f.u.，极化 0.18 pC/m。
 
 ## 📊 关键图表
   - ![图1 本征+滑移极化的八态概念模型（FE/AFE 耦合）](../../raw/figures/tangCombiningIntrinsicSlidinginduced2025/fig_1_5ZZ65FF7.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]

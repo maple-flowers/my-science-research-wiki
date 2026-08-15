@@ -87,7 +87,7 @@ Niu, Weng, Li, Guo, Wang, Han, Pan, Lin et al.，2021，*Advanced Science* 8(20)
   - 相关论文 [[../../raw/note/niuDirectVisualizationLargeScale2021]]
 
 ## 🆕 新概念/实体建议
-  - 实体 `PWmat`：GPU 加速的 DFT 计算软件包，本文用其完成 PBE/SG15/DFT-D2 计算。
+  - 实体 [[../entities/PWmat|PWmat]]：GPU 加速的 DFT 计算软件包，本文用其完成 PBE/SG15/DFT-D2 计算。
 
 ## 📊 关键图表
   - **图1 空气 vs 惰性环境下 WTe2 单层的光学与 STEM 对比**

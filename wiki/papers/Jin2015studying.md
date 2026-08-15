@@ -87,8 +87,8 @@ Yaming Jin, Xiaomei Lu, Junting Zhang, Yi Kan, Huifeng Bo, Fengzhen Huang, Tingt
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/Jin2015studying]]
 ## 🆕 新概念/实体建议
-  - `PFM`（压电响应力显微镜）：实验技术实体条目，可涵盖 VPFM/LPFM、锁相检测、导电探针等。
-  - `first-principles-piezoelectric-tensor`（第一性原理压电张量）：方法实体，d₁₀₅=80、d₂₀₂=27、d₃₀₁=1.4、d₃₀₃=23 pC/N 等参数可写入。
+  - [[../entities/PFM|PFM]]（压电响应力显微镜）：实验技术实体条目，可涵盖 VPFM/LPFM、锁相检测、导电探针等。
+  - [[../entities/first-principles-piezoelectric-tensor|first-principles-piezoelectric-tensor]]（第一性原理压电张量）：方法实体，d₁₀₅=80、d₂₀₂=27、d₃₀₁=1.4、d₃₀₃=23 pC/N 等参数可写入。
 ## 📊 关键图表
   - ![图1 BFO晶胞、欧拉角定义及理论压电响应曲面 u1/u2/u3](../../raw/figures/Jin2015studying/fig_1_BPD8ZZPF.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
   - **图示描述**：(a) BFO 菱方相（R3c）伪立方晶胞及 Fe 离子排布，三重轴沿晶体坐标系 z₀；(b) 用欧拉角 (Φ, θ, Ψ) 定义晶粒坐标系 (x₀,y₀,z₀) 相对实验室坐标系 (x,y,z) 的旋转；(c) 由压电张量经欧拉旋转算出的面外压电位移 u₃ 随 (Φ, θ) 变化的响应曲面；(d) 在 Ψ = 0°/30°/60°/90° 四个取值下面内压电位移 u₁、u₂ 随 (Φ, θ) 的响应曲面。

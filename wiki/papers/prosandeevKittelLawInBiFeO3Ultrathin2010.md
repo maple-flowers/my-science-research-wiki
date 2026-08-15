@@ -88,13 +88,13 @@ S. Prosandeev, S. Lisenkov, L. Bellaiche et al.，2010，Physical Review Letters
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/prosandeevKittelLawInBiFeO3Ultrathin2010]]
 ## 🆕 新概念/实体建议
-  - `kittel-law`（基特尔定律）：铁性薄膜中条带畴宽 w ∝ √h 的经典标度律，源自畴壁能（∝1/w）与长程场能（∝w）的竞争。
-  - `effective-hamiltonian`（有效哈密顿量方法）：从第一性原理提取参数、粗粒化至 u_i、ω_i、m_i、η 等关键自由度的经典能量模型，可对上万原子超胞做有限温度蒙特卡洛。
-  - `oxygen-octahedra-tilting`（氧八面体倾斜/AFD）：钙钛矿中相邻氧八面体反相旋转的结构自由度；本文揭示其短程相互作用在 BFO 中替代电偶极短程作用成为畴壁能主因。
-  - `domain-wall-energy`（畴壁能）：形成单位面积畴壁所需能量，传统上对应 Kittel 公式中的 C/w 项。
-  - `depolarizing-field`（退极化场）：开路边界下表面束缚电荷产生的反向电场，对应 Kittel 模型中的杂散场能。
-  - `open-circuit-boundary-conditions`（开路电学边界条件）：表面无自由电荷补偿的边界，存在退极化场，区别于短路（理想电极）条件。
-  - `real-space-energy-decomposition`（实空间逐点能量分解）：本文首创的分析方法，将每项能量按格点投影，从而在原子尺度定位其空间来源（畴壁 vs 表面）。
+  - [[../concepts/kittel-law|kittel-law]]（基特尔定律）：铁性薄膜中条带畴宽 w ∝ √h 的经典标度律，源自畴壁能（∝1/w）与长程场能（∝w）的竞争。
+  - [[../concepts/effective-hamiltonian|effective-hamiltonian]]（有效哈密顿量方法）：从第一性原理提取参数、粗粒化至 u_i、ω_i、m_i、η 等关键自由度的经典能量模型，可对上万原子超胞做有限温度蒙特卡洛。
+  - [[../concepts/oxygen-octahedra-tilting|oxygen-octahedra-tilting]]（氧八面体倾斜/AFD）：钙钛矿中相邻氧八面体反相旋转的结构自由度；本文揭示其短程相互作用在 BFO 中替代电偶极短程作用成为畴壁能主因。
+  - [[../concepts/domain-wall-energy|domain-wall-energy]]（畴壁能）：形成单位面积畴壁所需能量，传统上对应 Kittel 公式中的 C/w 项。
+  - [[../concepts/depolarizing-field|depolarizing-field]]（退极化场）：开路边界下表面束缚电荷产生的反向电场，对应 Kittel 模型中的杂散场能。
+  - [[../concepts/open-circuit-boundary-conditions|open-circuit-boundary-conditions]]（开路电学边界条件）：表面无自由电荷补偿的边界，存在退极化场，区别于短路（理想电极）条件。
+  - [[../concepts/real-space-energy-decomposition|real-space-energy-decomposition]]（实空间逐点能量分解）：本文首创的分析方法，将每项能量按格点投影，从而在原子尺度定位其空间来源（畴壁 vs 表面）。
 ## 📊 关键图表
   - ![图1：8 nm 厚 BFO 薄膜在 10 K 下 71° 条带畴的局域软模 u_i 与 AFD 矢量 ξ_i 实空间快照，表面形成涡旋磁通闭合](../../raw/figures/prosandeevKittelLawInBiFeO3Ultrathin2010/fig_1_GV39IF8G.png) -> [[../figures/domain-walls-structures|畴结构与畴壁]]
   - **图示描述**：8 nm 厚、1.5% 压应变的 (001) BFO 超薄膜在 10 K 蒙特卡洛平衡态下的 (X,Z) 截面矢量图；(a) 箭头为局域软模 u_i（即局域铁电偶极方向与大小），(b) 箭头为反铁畸变矢量 ξ_i=ω_i e^{ik·r_i}（氧八面体倾斜轴与倾角）。

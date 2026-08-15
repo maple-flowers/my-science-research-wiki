@@ -96,14 +96,14 @@ Raghwendra Kumar, S. Anantha Ramakrishna，2017，Current Science，112(08): 166
   - 实体 [[../entities/thioxanthone-photoinitiator]]、[[../entities/piezo-nanopositioning-stage]]、[[../entities/LabVIEW]]、[[../entities/sub-nanosecond-laser]]、[[../entities/AFM]]、[[../entities/AR-N-4340]]、[[../entities/AOM]]
   - 相关论文 [[../../raw/note/Kumar2017microstructuring]]
 ## 🆕 新概念/实体建议
-  - `two-photon-polymerization`（双光子聚合，TPP）：基于 TPA 非线性效应的 3D 微纳光刻技术，核心机制词条。
-  - `two-photon-absorption`（双光子吸收，TPA）：吸收速率正比于 I² 的三阶非线性光学过程，是超衍射极限加工的物理基础。
-  - `voxel`（体素）：TPP 中单次曝光固化的最小三维体积单元，其宽/深由阈值条件与高斯光束参数共同决定。
-  - `photoinitiator`（光引发剂）：吸收双光子后产生自由基引发单体交联的分子；本文用 2,4-二乙基-9H-噻吨-9-酮。
-  - `SU-8`：常用环氧基负性光刻胶，350–400 nm 单光子最佳交联，需配光引发剂做 532 nm TPP。
-  - `AR-N-4340`：Allresist 负性光刻胶，对 532 nm TPA 聚合响应极好，甚至可不加光引发剂直接固化。
-  - `threshold-effect`（阈值效应）：光聚合需超过最小剂量阈值，使实际固化区远小于光斑，是突破衍射极限的关键。
-  - `diffraction-limit`（衍射极限）：传统光学聚焦的最小尺度限制；TPP 通过 I² 非线性与阈值将特征尺寸压缩至 FWHM 的 1/√2 以下。
+  - [[../concepts/two-photon-polymerization|two-photon-polymerization]]（双光子聚合，TPP）：基于 TPA 非线性效应的 3D 微纳光刻技术，核心机制词条。
+  - [[../concepts/two-photon-absorption|two-photon-absorption]]（双光子吸收，TPA）：吸收速率正比于 I² 的三阶非线性光学过程，是超衍射极限加工的物理基础。
+  - [[../concepts/voxel|voxel]]（体素）：TPP 中单次曝光固化的最小三维体积单元，其宽/深由阈值条件与高斯光束参数共同决定。
+  - [[../concepts/photoinitiator|photoinitiator]]（光引发剂）：吸收双光子后产生自由基引发单体交联的分子；本文用 2,4-二乙基-9H-噻吨-9-酮。
+  - [[../entities/SU-8|SU-8]]：常用环氧基负性光刻胶，350–400 nm 单光子最佳交联，需配光引发剂做 532 nm TPP。
+  - [[../entities/AR-N-4340|AR-N-4340]]：Allresist 负性光刻胶，对 532 nm TPA 聚合响应极好，甚至可不加光引发剂直接固化。
+  - [[../concepts/threshold-effect|threshold-effect]]（阈值效应）：光聚合需超过最小剂量阈值，使实际固化区远小于光斑，是突破衍射极限的关键。
+  - [[../concepts/diffraction-limit|diffraction-limit]]（衍射极限）：传统光学聚焦的最小尺度限制；TPP 通过 I² 非线性与阈值将特征尺寸压缩至 FWHM 的 1/√2 以下。
 ## 📊 关键图表
   - ![图1 TPP原理与体素尺寸理论预测（I vs I²、阈值效应、D 随驻留时间/功率/NA 变化）](../../raw/figures/Kumar2017microstructuring/fig_1_2SW9UPB2.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
   - **图示描述**：四联体原理示意图。(a) 对比高斯光束强度 I 与 I² 的空间分布与 FWHM；(b) 用强度曲线与聚合阈值水平虚线说明阈值效应如何把固化区压缩到焦点中心；(c) (d) 为由公式 (5) 预测的体素宽度 D 随驻留时间、平均功率和物镜 NA 的理论曲线（λ = 532 nm，f = 10 kHz）。

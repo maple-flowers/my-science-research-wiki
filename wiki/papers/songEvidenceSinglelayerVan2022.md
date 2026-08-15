@@ -117,18 +117,18 @@ Qian Song, Connor A. Occhialini, Emre Ergeçen, Batyr Ilyas, Danila Amoroso, Pao
   - 实体 [[../entities/WIEN2k]]
 
 ## 🆕 新概念/实体建议
-  - `type-ii-multiferroicity`（第二类多铁性）：由打破反演对称性的磁序（螺旋/摆线）直接诱导铁电极化，磁电内禀强耦合；NiI₂ 为二维首例。
-  - `spin-helix` / `proper-screw`（正螺旋自旋序）：自旋绕传播轴旋转、自旋旋转平面垂直于 Q 的螺旋磁结构；NiI₂ 中 Q=(0.138,0,1.457) r.l.u.。
-  - `electromagnon`（电磁振子）：磁电耦合体系中磁振子与声子/光耦合的集体激发，具强拉曼光学活性，是动态磁电耦合的谱学指纹。
-  - `raman-optical-activity`（拉曼光学活性, ROA）：手性介质对 σ⁺/σ⁻ 圆偏振光拉曼散射强度差；NiI₂ 中电磁振子峰显示巨大 ROA 并在 Stokes/anti-Stokes 间反转。
-  - `second-harmonic-generation`（二次谐波, SHG）：电偶极近似下仅在反演对称破缺相中允许，是极性序的"金标准"探针；本文用 λ=991 nm（低于带隙）保证纯 ED-SHG。
-  - `birefringence`（双折射/线性二色性）：探测旋转对称性破缺（C₃z→C₂）的高灵敏度光学手段，灵敏度达 10 μrad。
-  - `gknb-model`（广义自旋流/KNB 模型）：P_ij = M·S_i×S_j，由自旋对通过 M 张量诱导电偶极，是自旋螺旋铁电性的微观理论。
-  - `four-state-method`（四态法）：DFT 中通过四组非共线自旋构型计算 Berry 相极化以提取 M 张量的方法。
-  - `improper-electronic-ferroelectricity`（非本征电子铁电性）：在中心对称晶格中由反演破缺磁序驱动产生的极化，NiI₂ 即属此类。
-  - 实体 `NiI2`（二碘化镍）：过渡金属二卤化物 vdW 磁性半导体，Ni²⁺ (3d⁸, S=1) 三角晶格，块体 T_N,1≈75 K（AFM）、T_N,2≈59.5 K（螺旋磁/多铁），单层 T_c≈21 K；应建实体条目。
-  - 实体 `WIEN2k`：全电子全势 APW+lo 代码，本文与 VASP 交叉验证 DFT 结果。
-  - `helical-magnetism`（螺旋磁性）、`geometric-frustration`（几何阻挫）、`superexchange`（超交换）、`skyrmions`（斯格明子）亦可考虑作为独立概念条目。
+  - [[../concepts/type-ii-multiferroicity|type-ii-multiferroicity]]（第二类多铁性）：由打破反演对称性的磁序（螺旋/摆线）直接诱导铁电极化，磁电内禀强耦合；NiI₂ 为二维首例。
+  - [[../concepts/spin-helix|spin-helix]] / [[../concepts/proper-screw|proper-screw]]（正螺旋自旋序）：自旋绕传播轴旋转、自旋旋转平面垂直于 Q 的螺旋磁结构；NiI₂ 中 Q=(0.138,0,1.457) r.l.u.。
+  - [[../concepts/electromagnon|electromagnon]]（电磁振子）：磁电耦合体系中磁振子与声子/光耦合的集体激发，具强拉曼光学活性，是动态磁电耦合的谱学指纹。
+  - [[../concepts/raman-optical-activity|raman-optical-activity]]（拉曼光学活性, ROA）：手性介质对 σ⁺/σ⁻ 圆偏振光拉曼散射强度差；NiI₂ 中电磁振子峰显示巨大 ROA 并在 Stokes/anti-Stokes 间反转。
+  - [[../concepts/second-harmonic-generation|second-harmonic-generation]]（二次谐波, SHG）：电偶极近似下仅在反演对称破缺相中允许，是极性序的"金标准"探针；本文用 λ=991 nm（低于带隙）保证纯 ED-SHG。
+  - [[../concepts/birefringence|birefringence]]（双折射/线性二色性）：探测旋转对称性破缺（C₃z→C₂）的高灵敏度光学手段，灵敏度达 10 μrad。
+  - [[../concepts/gknb-model|gknb-model]]（广义自旋流/KNB 模型）：P_ij = M·S_i×S_j，由自旋对通过 M 张量诱导电偶极，是自旋螺旋铁电性的微观理论。
+  - [[../concepts/four-state-method|four-state-method]]（四态法）：DFT 中通过四组非共线自旋构型计算 Berry 相极化以提取 M 张量的方法。
+  - [[../concepts/improper-electronic-ferroelectricity|improper-electronic-ferroelectricity]]（非本征电子铁电性）：在中心对称晶格中由反演破缺磁序驱动产生的极化，NiI₂ 即属此类。
+  - 实体 [[../entities/NiI2|NiI2]]（二碘化镍）：过渡金属二卤化物 vdW 磁性半导体，Ni²⁺ (3d⁸, S=1) 三角晶格，块体 T_N,1≈75 K（AFM）、T_N,2≈59.5 K（螺旋磁/多铁），单层 T_c≈21 K；应建实体条目。
+  - 实体 [[../entities/WIEN2k|WIEN2k]]：全电子全势 APW+lo 代码，本文与 VASP 交叉验证 DFT 结果。
+  - [[../concepts/helical-magnetism|helical-magnetism]]（螺旋磁性）、[[../concepts/geometric-frustration|geometric-frustration]]（几何阻挫）、[[../concepts/superexchange|superexchange]]（超交换）、[[../concepts/skyrmions|skyrmions]]（斯格明子）亦可考虑作为独立概念条目。
 ## 📊 关键图表
   - 图1 — CVT/PVD NiI₂ 晶体的 X 射线衍射（沿 c 轴）、粉末衍射、7 nm PVD 薄片光学图及 TEM 电子衍射，确认晶体结构与质量。
   - **图示描述**：组合展示 CVT 生长块材沿 c 轴的 (0 0 l) X 射线衍射峰、PVD 薄片的粉末衍射谱、7 nm 薄片的光学显微照片以及 TEM 选区电子衍射图样；横轴 2θ 单位为度，强度为任意单位。

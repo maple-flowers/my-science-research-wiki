@@ -143,25 +143,25 @@ Yanping Liu, Cheng Zeng, Jiahong Zhong, Junnan Ding, Zhiming M. Wang, Zongwen Li
   - 相关论文 [[../../raw/note/liuSpintronicsTwoDimensionalMaterials2020b]]
 
 ## 🆕 新概念/实体建议
-  - `proximity-effect`（邻近效应）：两种材料紧密接触时一种材料"借取"另一种材料磁性/SOC 等性质的界面效应，是本综述操控章节的核心。
-  - `spin-injection`（自旋注入）：从铁磁电极或其他自旋流向非磁通道注入自旋极化载流子，受电导率失配制约。
-  - `spin-relaxation`（自旋弛豫）：Elliott–Yafet 与 Dyakonov–Perel 机制之争，决定 τs 与 λs 的上限。
-  - `spin-hall-effect`（自旋霍尔效应）：强 SOC 材料中纵向电荷流产生横向纯自旋流，是无磁注入/电荷-自旋转换的关键。
-  - `rashba-effect`（Rashba 自旋-轨道耦合）：结构反演不对称导致的自旋分裂，哈密顿量 H_R = v0 ẑ·(k×σ)。
-  - `edelstein-effect`（Edelstein 效应）：Rashba 界面 or 拓扑绝缘体表面态中电荷流直接转化为自旋积累。
-  - `magnetic-tunnel-junction`（磁隧道结, MTJ）：FM/势垒/FM 结构，TMR 取决于两层磁化相对取向。
-  - `stt-mram`（自旋转移矩磁随机存储器）：用自旋极化电流翻转自由层磁化的非易失存储。
-  - `spin-valve`（自旋阀）：非局域四电极结构，自旋输运研究的基本器件。
-  - `valleytronics`（谷电子学）：利用 TMDCs 中 K/K′ 谷作为信息载体，与自旋-谷锁定结合。
-  - `two-dimensional-magnetism`（二维磁性）：Fe3GeTe2、CrI3、Cr2Ge2Te6 等原子级磁体及其电控/应力/层间耦合调控。
-  - `van-der-waals-heterostructure`（vdW 异质结）：层间无悬挂键堆叠，是邻近工程的结构基础。
-  - `graphene`（石墨烯）：弱 SOC、高迁移率的明星自旋通道，应建实体条目。
-  - `CrI3`：层间反铁磁/铁磁可由堆叠与静电掺杂切换的二维铁磁绝缘体。
-  - `Cr2Ge2Te6`：双层 Tc≈30 K 的二维铁磁绝缘体，常与 CrI3 并列讨论。
-  - `black-phosphorus`（黑磷, BP）：具有直接带隙、弱 SOC 的新型自旋通道。
-  - `silicene`（硅烯）：空气敏感、需原位 Al2O3 封装转移的硅基二维材料。
-  - `Bi2Te2Se`：三维拓扑绝缘体，表面态 Dirac 费米子可向石墨烯注入自旋。
-  - `YIG`（钇铁石榴石）：铁磁绝缘体，通过邻近效应在石墨烯中诱导交换场。
+  - [[../concepts/proximity-effect|proximity-effect]]（邻近效应）：两种材料紧密接触时一种材料"借取"另一种材料磁性/SOC 等性质的界面效应，是本综述操控章节的核心。
+  - [[../concepts/spin-injection|spin-injection]]（自旋注入）：从铁磁电极或其他自旋流向非磁通道注入自旋极化载流子，受电导率失配制约。
+  - [[../concepts/spin-relaxation|spin-relaxation]]（自旋弛豫）：Elliott–Yafet 与 Dyakonov–Perel 机制之争，决定 τs 与 λs 的上限。
+  - [[../concepts/spin-hall-effect|spin-hall-effect]]（自旋霍尔效应）：强 SOC 材料中纵向电荷流产生横向纯自旋流，是无磁注入/电荷-自旋转换的关键。
+  - [[../concepts/rashba-effect|rashba-effect]]（Rashba 自旋-轨道耦合）：结构反演不对称导致的自旋分裂，哈密顿量 H_R = v0 ẑ·(k×σ)。
+  - [[../concepts/edelstein-effect|edelstein-effect]]（Edelstein 效应）：Rashba 界面 or 拓扑绝缘体表面态中电荷流直接转化为自旋积累。
+  - [[../concepts/magnetic-tunnel-junction|magnetic-tunnel-junction]]（磁隧道结, MTJ）：FM/势垒/FM 结构，TMR 取决于两层磁化相对取向。
+  - [[../entities/stt-mram|stt-mram]]（自旋转移矩磁随机存储器）：用自旋极化电流翻转自由层磁化的非易失存储。
+  - [[../concepts/spin-valve|spin-valve]]（自旋阀）：非局域四电极结构，自旋输运研究的基本器件。
+  - [[../concepts/valleytronics|valleytronics]]（谷电子学）：利用 TMDCs 中 K/K′ 谷作为信息载体，与自旋-谷锁定结合。
+  - [[../concepts/two-dimensional-magnetism|two-dimensional-magnetism]]（二维磁性）：Fe3GeTe2、CrI3、Cr2Ge2Te6 等原子级磁体及其电控/应力/层间耦合调控。
+  - [[../concepts/van-der-waals-heterostructure|van-der-waals-heterostructure]]（vdW 异质结）：层间无悬挂键堆叠，是邻近工程的结构基础。
+  - [[../entities/graphene|graphene]]（石墨烯）：弱 SOC、高迁移率的明星自旋通道，应建实体条目。
+  - [[../entities/CrI3|CrI3]]：层间反铁磁/铁磁可由堆叠与静电掺杂切换的二维铁磁绝缘体。
+  - [[../entities/Cr2Ge2Te6|Cr2Ge2Te6]]：双层 Tc≈30 K 的二维铁磁绝缘体，常与 CrI3 并列讨论。
+  - [[../entities/black-phosphorus|black-phosphorus]]（黑磷, BP）：具有直接带隙、弱 SOC 的新型自旋通道。
+  - [[../entities/silicene|silicene]]（硅烯）：空气敏感、需原位 Al2O3 封装转移的硅基二维材料。
+  - [[../entities/Bi2Te2Se|Bi2Te2Se]]：三维拓扑绝缘体，表面态 Dirac 费米子可向石墨烯注入自旋。
+  - [[../entities/YIG|YIG]]（钇铁石榴石）：铁磁绝缘体，通过邻近效应在石墨烯中诱导交换场。
 
 ## 📊 关键图表
   - 图1 非磁二维材料磁性工程策略：氢化/空位/纳米带、双层石墨烯墨西哥帽能带、石墨烯/YIG 邻近效应器件。

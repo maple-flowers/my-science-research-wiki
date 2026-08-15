@@ -132,17 +132,17 @@ Fei Wang, Li Deng, Yanzhao Wu, Xiang Yin, Junwei Tong, Xianmin Zhang，2025，Ap
   - 相关论文 [[../../raw/note/wangTunableD0Topological2025b]]
 
 ## 🆕 新概念/实体建议
-  - `d0-magnetism`：d⁰ 磁性——磁性不来自 d/f 轨道而来自 s/p 轨道（本文为 N 的 2p 单个未配对电子），特征是小磁矩、电子离域。
-  - `skyrmion`：磁斯格明子——涡旋状拓扑自旋织构，由 DMI 与交换、各向异性、外场竞争形成，具拓扑荷 Q。
-  - `bimeron`：磁双半子——面内磁化或面内磁场下斯格明子的对应物，由涡旋-反涡旋对组成。
-  - `dzyaloshinskii-moriya-interaction`：DMI，反对称交换 d_k·(S_i×S_j)，源自破缺反演对称与 SOC，决定手性磁结构。
-  - `half-metal`：半金属——一个自旋通道金属、另一自旋通道绝缘，可产生 100% 自旋极化电流。
-  - `heisenberg-model`：经典海森堡自旋哈密顿量（含 J、d_k、各向异性交换 k、单离子各向异性 K、塞曼项），连接 DFT 参数与微磁学。
-  - `micromagnetic-simulation`：微磁学模拟，基于 Landau-Lifshitz-Gilbert 方程在介观尺度上演化自旋织构。
-  - `topological-spin-texture`：拓扑自旋织构（斯格明子、双半子、反斯格明子等）的总称，可由拓扑荷 Q 计数。
-  - `stoner-model`：Stoner 巡游铁磁性模型，用于解释 In₂NO₂ 中非整数 N 磁矩（0.584 μ_B）所体现的离域铁磁。
-  - 实体 `In2NO2`：单层铟氮氧化物，P3m1 三角晶格、O–In–N–In–O 五层堆垛，本征面外铁电且 d⁰ 铁磁半金属。
-  - 实体 `MoSe2`：二硒化钼，TMD 衬底，与 In₂NO₂ 晶格失配仅 2.4%，用于构建铁电可控异质结。
+  - [[../concepts/d0-magnetism|d0-magnetism]]：d⁰ 磁性——磁性不来自 d/f 轨道而来自 s/p 轨道（本文为 N 的 2p 单个未配对电子），特征是小磁矩、电子离域。
+  - [[../concepts/skyrmion|skyrmion]]：磁斯格明子——涡旋状拓扑自旋织构，由 DMI 与交换、各向异性、外场竞争形成，具拓扑荷 Q。
+  - [[../concepts/bimeron|bimeron]]：磁双半子——面内磁化或面内磁场下斯格明子的对应物，由涡旋-反涡旋对组成。
+  - [[../concepts/dzyaloshinskii-moriya-interaction|dzyaloshinskii-moriya-interaction]]：DMI，反对称交换 d_k·(S_i×S_j)，源自破缺反演对称与 SOC，决定手性磁结构。
+  - [[../concepts/half-metal|half-metal]]：半金属——一个自旋通道金属、另一自旋通道绝缘，可产生 100% 自旋极化电流。
+  - [[../concepts/heisenberg-model|heisenberg-model]]：经典海森堡自旋哈密顿量（含 J、d_k、各向异性交换 k、单离子各向异性 K、塞曼项），连接 DFT 参数与微磁学。
+  - [[../concepts/micromagnetic-simulation|micromagnetic-simulation]]：微磁学模拟，基于 Landau-Lifshitz-Gilbert 方程在介观尺度上演化自旋织构。
+  - [[../concepts/topological-spin-texture|topological-spin-texture]]：拓扑自旋织构（斯格明子、双半子、反斯格明子等）的总称，可由拓扑荷 Q 计数。
+  - [[../concepts/stoner-model|stoner-model]]：Stoner 巡游铁磁性模型，用于解释 In₂NO₂ 中非整数 N 磁矩（0.584 μ_B）所体现的离域铁磁。
+  - 实体 [[../entities/In2NO2|In2NO2]]：单层铟氮氧化物，P3m1 三角晶格、O–In–N–In–O 五层堆垛，本征面外铁电且 d⁰ 铁磁半金属。
+  - 实体 [[../entities/MoSe2|MoSe2]]：二硒化钼，TMD 衬底，与 In₂NO₂ 晶格失配仅 2.4%，用于构建铁电可控异质结。
 
 ## 📊 关键图表
   - **图1：单层 In₂NO₂ 的晶体结构、能带、差分电荷密度与态密度**

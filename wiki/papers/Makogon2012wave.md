@@ -100,7 +100,7 @@ D. Makogon, I. B. Spielman, C. Morais Smith，2012，EPL (Europhysics Letters) 9
   - 相关论文 [[../../raw/note/Makogon2012wave]]
 
 ## 🆕 新概念/实体建议
-  - 实体 `potassium-40.md`（⁴⁰K）：作者建议的实验用费米子同位素，文中给出激光波长约 980 nm、远失谐于 D1/D2 线的具体参数。
+  - 实体 [[../entities/potassium-40|potassium-40]]（⁴⁰K）：作者建议的实验用费米子同位素，文中给出激光波长约 980 nm、远失谐于 D1/D2 线的具体参数。
 
 ## 📊 关键图表
   - ![图1：实验布局、能级图与四能带结构（第三能带白色等高线为同心方圆形费米面）](../../raw/figures/Makogon2012wave/fig_1_W2ZSL64K.png) -> [[../figures/electronic-bands-band-structures|能带结构与带隙]]

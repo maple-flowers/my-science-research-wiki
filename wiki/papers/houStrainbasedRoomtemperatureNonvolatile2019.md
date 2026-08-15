@@ -79,12 +79,12 @@ Wenhui Hou, Ahmad Azizimanesh, Arfan Sewaket, Tara Peña, Carla Watson, Ming Liu
   - 相关论文 **houStrainbasedRoomtemperatureNonvolatile2019**
 
 ## 🆕 新概念/实体建议
-  - `mo-te2`（实体）：二碲化钼，TMD中1T′（半金属）与2H（半导体）相能量差最小，~0.3%拉伸应变即可诱导相变，是应变相变器件的核心沟道材料；本文发现的应变诱导半导体相并非标准2H相。
-  - `pmn-pt`（实体）：Pb(Mg1/3Nb2/3)0.71Ti0.29O3 弛豫铁电单晶，居里温度135 °C，逆压电应变量级~0.4%，常用作电场可控应变源；本文以0.25–0.3 mm厚单晶作为栅介质/衬底。
-  - `straintronics`（概念）：应变电子学，以电场诱导的机械应变（而非电场直接调控载流子）作为开关控制量，结合二维材料与铁电体，规避传统FET亚阈值摆幅60 mV/dec极限和静态功耗问题。
-  - `phase-change-transistor`（概念）：相变晶体管，通过材料半金属-半导体（或其他电子相）可逆相变实现沟道开关，开态金属性、关态由背靠背肖特基结限流。
-  - `contact-stress-bias`（概念）：接触应力偏置，利用沉积金属（如Ni，0.58 GPa拉应力）的薄膜内应力对沟道施加静态拉伸应变，将其预置在相变临界点附近，再由铁电体小信号应变跨过相界——"机械直流偏置"设计范式。
-  - `schottky-junction`（概念）：金属-半导体接触形成的整流势垒；本文关态由Ni/相变MoTe2构成的两个背靠背肖特基二极管实现低漏电。
+  - [[../entities/mo-te2|mo-te2]]（实体）：二碲化钼，TMD中1T′（半金属）与2H（半导体）相能量差最小，~0.3%拉伸应变即可诱导相变，是应变相变器件的核心沟道材料；本文发现的应变诱导半导体相并非标准2H相。
+  - [[../entities/pmn-pt|pmn-pt]]（实体）：Pb(Mg1/3Nb2/3)0.71Ti0.29O3 弛豫铁电单晶，居里温度135 °C，逆压电应变量级~0.4%，常用作电场可控应变源；本文以0.25–0.3 mm厚单晶作为栅介质/衬底。
+  - [[../concepts/straintronics|straintronics]]（概念）：应变电子学，以电场诱导的机械应变（而非电场直接调控载流子）作为开关控制量，结合二维材料与铁电体，规避传统FET亚阈值摆幅60 mV/dec极限和静态功耗问题。
+  - [[../entities/phase-change-transistor|phase-change-transistor]]（概念）：相变晶体管，通过材料半金属-半导体（或其他电子相）可逆相变实现沟道开关，开态金属性、关态由背靠背肖特基结限流。
+  - [[../concepts/contact-stress-bias|contact-stress-bias]]（概念）：接触应力偏置，利用沉积金属（如Ni，0.58 GPa拉应力）的薄膜内应力对沟道施加静态拉伸应变，将其预置在相变临界点附近，再由铁电体小信号应变跨过相界——"机械直流偏置"设计范式。
+  - [[../concepts/schottky-junction|schottky-junction]]（概念）：金属-半导体接触形成的整流势垒；本文关态由Ni/相变MoTe2构成的两个背靠背肖特基二极管实现低漏电。
 
 ## 📊 关键图表
   - ![图1 器件结构与基本操作：PMN-PT/MoTe2/Ni叠层示意、光学照片、Ni应变计蝴蝶曲线、13 nm MoTe2转移特性、半金属态与半导体态I-V对比（半导体态呈肖特基行为）](../../raw/figures/houStrainbasedRoomtemperatureNonvolatile2019/fig_1_G4AIPMDF.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]

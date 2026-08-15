@@ -85,7 +85,7 @@ Lin Zhang, Yaming Wang，2019，JOM 71(12), 4917-4924，DOI 10.1007/s11837-019-0
   - 实体 [[../entities/Ti-nanoparticle]]
 
 ## 🆕 新概念/实体建议
-  - 实体 `Ti-nanoparticle.md` — 钛纳米颗粒（α-HCP / β-BCC 两相，本文研究对象）
+  - 实体 [[../entities/Ti-nanoparticle|Ti-nanoparticle]] — 钛纳米颗粒（α-HCP / β-BCC 两相，本文研究对象）
 ## 📊 关键图表
 笔记未附图片（raw/figures/Zhang2019b/ 下仅 manifest.json，无图像文件；正文双语转写中保留了图1–图7的图注与坐标轴刻度文本，表I完整数据见下），以下按图号给出文字描述：
 

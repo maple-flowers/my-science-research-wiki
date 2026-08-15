@@ -101,15 +101,15 @@ Haoqiang Ai, Feifei Li, Haoyun Bai, Dong Liu, Kin Ho Lo, Shengyuan A. Yang, Yosh
   - 相关论文 [[../../raw/note/aiFerroelectricityCoexistedPorbital2022]]
 
 ## 🆕 新概念/实体建议
-  - `d0-rule`（d⁰规则）：经验规则，钙钛矿铁电体中B位阳离子需空d轨道以发生离子偏心位移，与磁性所需的部分填充d轨道互斥，是单相多铁稀缺的根源。
-  - `p-orbital-magnetism`（p轨道磁性 / d⁰磁性）：由非金属元素p电子（而非过渡金属d/f电子）产生的磁性，可在金属离子d轨道全空/全满的体系中出现。
-  - `ferroelectric-metal`（铁电金属）：Anderson & Blount 1965年提出的物态，金属中存在非中心对称结构相变与面外偶极矩；二维极限下面外屏蔽减弱使电场翻转成为可能。
-  - `stoner-criterion`（Stoner判据）：D(EF)·I > 1 判定金属发生自发自旋极化形成巡游铁磁态的条件；本文 D(EF)=5.03 states/eV/N、I≈0.97 eV。
-  - `itinerant-ferromagnetism`（巡游铁磁性）：磁性电子同时参与导电，表现为非整数磁矩、自旋劈裂能带穿越费米能级。
-  - `Tl2NO2`（Tl₂NO₂单层）：FE-WZ′相为基态，N-2p巡游铁磁（Tc≈415 K）+ N偏心位移铁电（P≈1.3 μC/cm²，势垒0.65 eV），是室温以上二维铁电金属候选。
-  - `In2NO2`（In₂NO₂单层）：fcc相为基态，但>1%双轴拉伸应变可诱导FE-ZB′相成为铁电金属；4%应变下势垒0.14 eV、P≈2.79 μC/cm²。
-  - `soft-mode-theory`（软模理论）：中心对称相Γ点虚频声子模式驱动对称性降低相变，是fcc→FE-WZ′相变的机理。
-  - `double-well-potential`（双势阱势）：铁电极化反转能量曲线特征，两个简并极小值对应±P。
+  - [[../concepts/d0-rule|d0-rule]]（d⁰规则）：经验规则，钙钛矿铁电体中B位阳离子需空d轨道以发生离子偏心位移，与磁性所需的部分填充d轨道互斥，是单相多铁稀缺的根源。
+  - [[../concepts/p-orbital-magnetism|p-orbital-magnetism]]（p轨道磁性 / d⁰磁性）：由非金属元素p电子（而非过渡金属d/f电子）产生的磁性，可在金属离子d轨道全空/全满的体系中出现。
+  - [[../concepts/ferroelectric-metal|ferroelectric-metal]]（铁电金属）：Anderson & Blount 1965年提出的物态，金属中存在非中心对称结构相变与面外偶极矩；二维极限下面外屏蔽减弱使电场翻转成为可能。
+  - [[../concepts/stoner-criterion|stoner-criterion]]（Stoner判据）：D(EF)·I > 1 判定金属发生自发自旋极化形成巡游铁磁态的条件；本文 D(EF)=5.03 states/eV/N、I≈0.97 eV。
+  - [[../concepts/itinerant-ferromagnetism|itinerant-ferromagnetism]]（巡游铁磁性）：磁性电子同时参与导电，表现为非整数磁矩、自旋劈裂能带穿越费米能级。
+  - [[../entities/Tl2NO2|Tl2NO2]]（Tl₂NO₂单层）：FE-WZ′相为基态，N-2p巡游铁磁（Tc≈415 K）+ N偏心位移铁电（P≈1.3 μC/cm²，势垒0.65 eV），是室温以上二维铁电金属候选。
+  - [[../entities/In2NO2|In2NO2]]（In₂NO₂单层）：fcc相为基态，但>1%双轴拉伸应变可诱导FE-ZB′相成为铁电金属；4%应变下势垒0.14 eV、P≈2.79 μC/cm²。
+  - [[../concepts/soft-mode-theory|soft-mode-theory]]（软模理论）：中心对称相Γ点虚频声子模式驱动对称性降低相变，是fcc→FE-WZ′相变的机理。
+  - [[../concepts/double-well-potential|double-well-potential]]（双势阱势）：铁电极化反转能量曲线特征，两个简并极小值对应±P。
 
 ## 📊 关键图表
   - ![图1 X₂NO₂三种相(fcc/FE-ZB′/FE-WZ′)的晶体结构与Tl₂NO₂声子谱](../../raw/figures/aiFerroelectricityCoexistedPorbital2022/fig_1_4T7YPY8F.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]

@@ -107,11 +107,11 @@ Peng Han, Jingtong Zhang, Xumin Chen, Jie Wang（浙江大学、大连理工大�
   - 实体 [[../entities/RuX2]]
 
 ## 🆕 新概念/实体建议
-  - `magnetic-anisotropy`（磁各向异性能，MAE）：抵抗 Mermin–Wagner 热涨落、稳定二维长程磁序的关键能量尺度；本文 from d 轨道耦合层面解析其来源。
-  - `stack-engineering`（堆叠工程）：通过选择层间堆叠方式/滑移来设计对称性破缺与极化的通用策略，与转角、应变并列的二维材料调控手段。
-  - `ferrovalley`（铁谷）：单层 RuCl₂ 曾报道的自发谷极化性质；本文指出双层 RuX₂ 谷极化基本消失（RuCl₂ 仅 0.7 meV，RuBr₂/RuI₂ 能带穿费米能级）。
-  - 实体 `RuCl2` / `RuBr2` / `RuI2`（可合并为 `RuX2`）：六角 P-6m2 单层、三棱柱配位的 Ru-4d 磁性范德华卤化物，本文核心材料体系，值得新建实体条目记录其结构、磁性与滑动铁电参数。
-  - 方法 `aimd`（从头算分子动力学）、`neb`（微动弹性带法）、`dft-d2`（Grimme 范德华修正）：本文使用且 wiki 方法标签中可固化的计算流程。
+  - [[../concepts/magnetic-anisotropy|magnetic-anisotropy]]（磁各向异性能，MAE）：抵抗 Mermin–Wagner 热涨落、稳定二维长程磁序的关键能量尺度；本文 from d 轨道耦合层面解析其来源。
+  - [[../concepts/stack-engineering|stack-engineering]]（堆叠工程）：通过选择层间堆叠方式/滑移来设计对称性破缺与极化的通用策略，与转角、应变并列的二维材料调控手段。
+  - [[../concepts/ferrovalley|ferrovalley]]（铁谷）：单层 RuCl₂ 曾报道的自发谷极化性质；本文指出双层 RuX₂ 谷极化基本消失（RuCl₂ 仅 0.7 meV，RuBr₂/RuI₂ 能带穿费米能级）。
+  - 实体 [[../entities/RuCl2|RuCl2]] / [[../entities/RuBr2|RuBr2]] / [[../entities/RuI2|RuI2]]（可合并为 [[../entities/RuX2|RuX2]]）：六角 P-6m2 单层、三棱柱配位的 Ru-4d 磁性范德华卤化物，本文核心材料体系，值得新建实体条目记录其结构、磁性与滑动铁电参数。
+  - 方法 [[../concepts/aimd|aimd]]（从头算分子动力学）、[[../concepts/neb|neb]]（微动弹性带法）、[[../concepts/dft-d2|dft-d2]]（Grimme 范德华修正）：本文使用且 wiki 方法标签中可固化的计算流程。
 
 ## 📊 关键图表
   - 图1：单层 RuX₂ 原子结构（六方 P-6m2，三棱柱配位）、三声子谱（无虚频）、双层 RuCl₂ 的 AFM/FM 自旋极化电荷密度。

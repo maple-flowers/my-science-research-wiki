@@ -86,12 +86,12 @@ Tomoaki TSUJI、Tomohisa Kojima，2019，The Proceedings of the Materials and Me
   - 相关论文 [[../../raw/note/TSUJI2019phosphorescence]]
 
 ## 🆕 新概念/实体建议
-  - `mechanoluminescence`（机械发光）：wiki/concepts 下尚缺，是 project-3 的核心概念，建议新建并涵盖弹性发光、摩擦发光、断裂发光等子类。
-  - `phosphorescence-decay`（磷光衰减）：建议新建概念条目，收录单/多指数衰减、寿命 τ、陷阱释放动力学等。
-  - `trap-depletion`（陷阱消耗/陷阱载流子耗尽）：ML 与长余辉材料在持续载荷/激发下信号衰减的共同机制，建议与 carrier-detrapping 协同建条目。
-  - `reabsorption`（重吸收/自吸收）：发光在样品内部被自身再吸收从而改变表观光谱与衰减的效应，建议建概念条目。
-  - `hydrostatic-pressure-cell`（静水压加载装置）：可作为实体条目记录典型的静水载荷实验配置。
-  - `elastomeric-composite`（弹性体复合发光材料）：ML 粉末分散于弹性基体的典型器件形态，建议建材料实体条目。
+  - [[../concepts/mechanoluminescence|mechanoluminescence]]（机械发光）：wiki/concepts 下尚缺，是 project-3 的核心概念，建议新建并涵盖弹性发光、摩擦发光、断裂发光等子类。
+  - [[../concepts/phosphorescence-decay|phosphorescence-decay]]（磷光衰减）：建议新建概念条目，收录单/多指数衰减、寿命 τ、陷阱释放动力学等。
+  - [[../concepts/trap-depletion|trap-depletion]]（陷阱消耗/陷阱载流子耗尽）：ML 与长余辉材料在持续载荷/激发下信号衰减的共同机制，建议与 carrier-detrapping 协同建条目。
+  - [[../concepts/reabsorption|reabsorption]]（重吸收/自吸收）：发光在样品内部被自身再吸收从而改变表观光谱与衰减的效应，建议建概念条目。
+  - [[../entities/hydrostatic-pressure-cell|hydrostatic-pressure-cell]]（静水压加载装置）：可作为实体条目记录典型的静水载荷实验配置。
+  - [[../entities/elastomeric-composite|elastomeric-composite]]（弹性体复合发光材料）：ML 粉末分散于弹性基体的典型器件形态，建议建材料实体条目。
 
 ## 📊 关键图表
   > raw/figures/TSUJI2019phosphorescence/ 下未抽取到图片文件（manifest.json 中 figures、formulas 均为空数组），以下依据 raw/note 中可读的英文转写段落以文字形式记录，不伪造图片路径。

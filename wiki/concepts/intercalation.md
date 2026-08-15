@@ -5,3 +5,4 @@
 - [[../papers/tangMultiferroicityTwodimensionalVan2025]] — Towards Multiferroicity in Two-Dimensional Van Der Waals Materials: Challenges and Opportunities
 - [[../papers/vahidmohammadiWorldTwodimensionalCarbides2021]] — The world of two-dimensional carbides and nitrides (MXenes)
 - [[../papers/zhaoRealization2DMultiferroic2024]] — Realization of 2D multiferroic with strong magnetoelectric coupling by intercalation: a first-principles high-throughput prediction
+- [[../papers/wuElectrostaticGatingIntercalation2022]] — Electrostatic gating and intercalation in 2D materials

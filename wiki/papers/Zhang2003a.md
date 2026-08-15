@@ -77,17 +77,17 @@ L. Zhang, C.B. Zhang, Y.M. Wang, S.Q. Wang, H.Q. Ye，2003，Acta Materialia 51(
   - 概念 [[../concepts/solid-state-phase-transformation|固态相变]]、[[../concepts/diffusion-controlled-growth|扩散控制生长]]、[[../concepts/nucleation-and-growth|形核与生长]]、[[../concepts/undercooling|过冷度]]、[[../concepts/solute-redistribution|溶质再分配]]、[[../concepts/soft-impingement|软碰撞]]、[[../concepts/super-element-approximation|超元素近似]]、[[../concepts/grain-boundary-nucleation|晶界形核]]、[[../concepts/cementite-precipitation|渗碳体析出]]
   - 图表 [[../figures/mathematical-models|数学模型与物理公式]]、[[../figures/heterostructures-stacking|力学性质、剥离能与杂项]]
 ## 🆕 新概念/实体建议
-  - `solid-state-phase-transformation`（固态相变）：固态中母相到新相的转变，按扩散/位移分类，是本论文的物理背景
-  - `diffusion-controlled-growth`（扩散控制生长）：界面推进速度由溶质长程扩散决定的生长模式，对应 Stefan 条件
-  - `nucleation-and-growth`（形核与生长）：经典相变两阶段过程，二者竞争决定最终组织
-  - `undercooling`（过冷度）：平衡温度 Ae3 与实际温度之差，是形核率与生长速度的驱动力
-  - `solute-redistribution`（溶质再分配）：相变时新相将多余溶质排出至母相的过程，CA 中通过向邻居分配 c_precipitate 实现
-  - `soft-impingement`（软碰撞）：相邻扩散场重叠导致生长减速，无需晶粒直接接触
-  - `super-element-approximation`（超元素近似）：把 Fe-Mn-Si-Ni-Cu-Cr 等效为 S-C 伪二元的建模简化
-  - `grain-boundary-nucleation`（晶界形核）：铁素体优先在奥氏体晶界形核的实验观察与模型假设
-  - `cellular-automaton`（元胞自动机）：离散时空状态、局部规则驱动的介观模拟方法（可作为 methods/实体条目）
-  - `A36-low-carbon-steel`（A36 低碳钢）：本工作的模拟对象，成分 C0.17 Mn0.74 Si0.012 Cu0.016 Ni0.01 Cr0.019（wt%）
-  - `cementite`（渗碳体 Fe3C）：高冷速下碳富集形成并阻碍铁素体生长的第二相
+  - [[../concepts/solid-state-phase-transformation|solid-state-phase-transformation]]（固态相变）：固态中母相到新相的转变，按扩散/位移分类，是本论文的物理背景
+  - [[../concepts/diffusion-controlled-growth|diffusion-controlled-growth]]（扩散控制生长）：界面推进速度由溶质长程扩散决定的生长模式，对应 Stefan 条件
+  - [[../concepts/nucleation-and-growth|nucleation-and-growth]]（形核与生长）：经典相变两阶段过程，二者竞争决定最终组织
+  - [[../concepts/undercooling|undercooling]]（过冷度）：平衡温度 Ae3 与实际温度之差，是形核率与生长速度的驱动力
+  - [[../concepts/solute-redistribution|solute-redistribution]]（溶质再分配）：相变时新相将多余溶质排出至母相的过程，CA 中通过向邻居分配 c_precipitate 实现
+  - [[../concepts/soft-impingement|soft-impingement]]（软碰撞）：相邻扩散场重叠导致生长减速，无需晶粒直接接触
+  - [[../concepts/super-element-approximation|super-element-approximation]]（超元素近似）：把 Fe-Mn-Si-Ni-Cu-Cr 等效为 S-C 伪二元的建模简化
+  - [[../concepts/grain-boundary-nucleation|grain-boundary-nucleation]]（晶界形核）：铁素体优先在奥氏体晶界形核的实验观察与模型假设
+  - [[../concepts/cellular-automaton|cellular-automaton]]（元胞自动机）：离散时空状态、局部规则驱动的介观模拟方法（可作为 methods/实体条目）
+  - [[../entities/A36-low-carbon-steel|A36-low-carbon-steel]]（A36 低碳钢）：本工作的模拟对象，成分 C0.17 Mn0.74 Si0.012 Cu0.016 Ni0.01 Cr0.019（wt%）
+  - [[../entities/cementite|cementite]]（渗碳体 Fe3C）：高冷速下碳富集形成并阻碍铁素体生长的第二相
 ## 📊 关键图表
   - ![Fe-C合金示意相图与Ae3线](../../raw/figures/Zhang2003a/fig_1_JCY8J4H6.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
   - **图示描述**：简化的 Fe-C（超元素 S-C）二元相图局部，横轴为碳浓度 c，纵轴为温度 T，标出 γ 相区、α+γ 两相区及 γ 相线 Ae3。

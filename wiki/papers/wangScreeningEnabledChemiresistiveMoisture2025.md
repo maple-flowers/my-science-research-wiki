@@ -88,8 +88,8 @@ Yingchao Wang, Xiaohe Miao, Paul A. Kempler, Jin-Hu Dou, Carl K. Brozek, Lei Sun
   - 实体 [[../entities/Zn2-TTFTB]]
 
 ## 🆕 新概念/实体建议
-  - 实体 `M2-TTFTB.md`：M₂(TTFTB)（TTFTB⁴⁻ = tetrathiafulvalene tetrabenzoate）同构导电 MOF 系列，沿 c 轴 π-堆积 TTF 柱，M = Mn²⁺/Co²⁺/Zn²⁺/Cd²⁺，本工作的模型体系；CCDC 2486213、2486218。
-  - 实体（可并入 M2-TTFTB）`Zn2-TTFTB.md`：因 Zn²⁺ 高库仑势而表现出弱湿度响应、小晶体尺寸、慢脱附动力学的"反例"成员。
+  - 实体 [[../entities/M2-TTFTB|M2-TTFTB]]：M₂(TTFTB)（TTFTB⁴⁻ = tetrathiafulvalene tetrabenzoate）同构导电 MOF 系列，沿 c 轴 π-堆积 TTF 柱，M = Mn²⁺/Co²⁺/Zn²⁺/Cd²⁺，本工作的模型体系；CCDC 2486213、2486218。
+  - 实体（可并入 M2-TTFTB）[[../entities/Zn2-TTFTB|Zn2-TTFTB]]：因 Zn²⁺ 高库仑势而表现出弱湿度响应、小晶体尺寸、慢脱附动力学的"反例"成员。
 
 ## 📊 关键图表
   - **图1：Mn₂(TTFTB)晶体结构**

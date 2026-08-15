@@ -92,7 +92,7 @@ Wei Xun, Chao Wu, Hanbo Sun, Weixi Zhang, Yin-Zhong Wu, Ping Li，2024，Nano Le
   - 实体 [[../entities/GdI2]]
   - 相关论文 [[../../raw/note/xunCoexistingMagnetismFerroelectric2024]]
 ## 🆕 新概念/实体建议
-  - `GdI2`（碘化钆）：新型二维铁磁半导体/多铁候选材料，4f⁷5d¹ 构型，大谷极化（155.5 meV）。
+  - [[../entities/GdI2|GdI2]]（碘化钆）：新型二维铁磁半导体/多铁候选材料，4f⁷5d¹ 构型，大谷极化（155.5 meV）。
 ## 📊 关键图表
   - **图1 滑移多铁机制示意图：AA(AFM,无极化)→AB/BA(FM,反向铁电与谷极化)**
   - ![图1 滑移多铁机制示意图：AA(AFM,无极化)→AB/BA(FM,反向铁电与谷极化)](../../raw/figures/xunCoexistingMagnetismFerroelectric2024/fig_1_UNCVPF48.png) → [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]

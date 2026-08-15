@@ -89,7 +89,7 @@ Perdew、Burke、Ernzerhof，1996，Physical Review Letters 77(18), 3865–3868�
   - 实体 [[../entities/CADPAC]]
   - 相关论文 [[../../raw/note/perdewGeneralizedGradientApproximation1996a]]
 ## 🆕 新概念/实体建议
-  - 实体 `CADPAC`：Cambridge Analytical Derivatives Package，本文用于原子化能计算的量子化学程序。
+  - 实体 [[../entities/CADPAC|CADPAC]]：Cambridge Analytical Derivatives Package，本文用于原子化能计算的量子化学程序。
 ## 📊 关键图表
   - **图1：PBE 与 PW91 增强因子 F_XC 随无量纲密度梯度 s 的对比，ζ=0 与 ζ=1 两种自旋极化情形**
   - **图示描述**：二维曲线图，横轴为无量纲密度梯度 s=|∇n|/(2k_F n)（无单位，物理相关范围 0≤s≤3），纵轴为交换-关联增强因子 F_XC（无单位，F_XC=1 即退化为 LSD）。实线为本文 PBE，空心圆圈为 PW91，两组曲线分别对应 ζ=0（自旋非极化）和 ζ=1（完全自旋极化）。

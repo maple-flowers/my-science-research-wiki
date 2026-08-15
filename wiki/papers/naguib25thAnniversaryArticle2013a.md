@@ -84,13 +84,13 @@ Michael Naguib, Vadym N. Mochalin, Michel W. Barsoum, Yury Gogotsi et al.，2014
   - 实体 [[../entities/Ta4C3Tx]]
 
 ## 🆕 新概念/实体建议
-  - `max-phases`（MAX 相）：通式 M_{n+1}AX_n 的六方层状三元碳化物/氮化物（P6₃/mmc），M 为早期过渡金属、A 主要为 IIIA/IVA 族元素、X 为 C/N，n=1–3；是 MXenes 的母体材料，文中列举 60 余种纯相及大量固溶体，应独立建条目。
-  - `selective-etching`（选择性刻蚀）：利用 M–A 金属键弱于 M–X 共价/金属/离子混合键的化学活性差异，用含水 HF 在室温下溶出 A 层而保留 M_{n+1}X_n 骨架的二维化合成范式；可作为普适合成概念条目。
-  - `surface-terminations`（表面终端基团 Tₓ）：刻蚀后自发吸附在 MXene 表面的 O、OH、F（乃至 H、甲氧基）混合官能团，决定构型（I/II/III）、亲水性、电子结构（金属↔半导体）、磁性与储能性能，是 MXene 区别于"裸"金属碳化物片的核心。
-  - `intercalation-delamination`（插层与分层）：以 DMSO、肼、无机盐阳离子等插入多层 MXene 层间、撑大 c 轴、再经温和超声获得单层/少层胶体溶液的关键工艺；可与二维材料制备方法学并列。
-  - `conductive-clays`（导电粘土）：MXenes 兼具过渡金属碳化物的金属导电性与羟基/氧终端表面的亲水性，作者提出的标志性定位比喻。
-  - 实体 `Ti3C2`（Ti₃C₂Tₓ）：首个被发现、也是唯一被大规模分层的 MXene，LIB 纸电极 410 mAh g⁻¹@1C、超级电容器 >330 F cm⁻³，可作为 MXenes 条目下的典型代表或独立实体。
-  - 实体 `Ti2CTx` / `Nb2CTx` / `V2CTx` / `Ta4C3Tx`：已合成的其他 MXene 成员，各自具有不同容量/电压窗口，可在 MXenes 条目中以列表呈现，暂不必单独建文件。
+  - [[../entities/max-phases|max-phases]]（MAX 相）：通式 M_{n+1}AX_n 的六方层状三元碳化物/氮化物（P6₃/mmc），M 为早期过渡金属、A 主要为 IIIA/IVA 族元素、X 为 C/N，n=1–3；是 MXenes 的母体材料，文中列举 60 余种纯相及大量固溶体，应独立建条目。
+  - [[../concepts/selective-etching|selective-etching]]（选择性刻蚀）：利用 M–A 金属键弱于 M–X 共价/金属/离子混合键的化学活性差异，用含水 HF 在室温下溶出 A 层而保留 M_{n+1}X_n 骨架的二维化合成范式；可作为普适合成概念条目。
+  - [[../concepts/surface-terminations|surface-terminations]]（表面终端基团 Tₓ）：刻蚀后自发吸附在 MXene 表面的 O、OH、F（乃至 H、甲氧基）混合官能团，决定构型（I/II/III）、亲水性、电子结构（金属↔半导体）、磁性与储能性能，是 MXene 区别于"裸"金属碳化物片的核心。
+  - [[../concepts/intercalation-delamination|intercalation-delamination]]（插层与分层）：以 DMSO、肼、无机盐阳离子等插入多层 MXene 层间、撑大 c 轴、再经温和超声获得单层/少层胶体溶液的关键工艺；可与二维材料制备方法学并列。
+  - [[../concepts/conductive-clays|conductive-clays]]（导电粘土）：MXenes 兼具过渡金属碳化物的金属导电性与羟基/氧终端表面的亲水性，作者提出的标志性定位比喻。
+  - 实体 [[../entities/Ti3C2|Ti3C2]]（Ti₃C₂Tₓ）：首个被发现、也是唯一被大规模分层的 MXene，LIB 纸电极 410 mAh g⁻¹@1C、超级电容器 >330 F cm⁻³，可作为 MXenes 条目下的典型代表或独立实体。
+  - 实体 [[../entities/Ti2CTx|Ti2CTx]] / [[../entities/Nb2CTx|Nb2CTx]] / [[../entities/V2CTx|V2CTx]] / [[../entities/Ta4C3Tx|Ta4C3Tx]]：已合成的其他 MXene 成员，各自具有不同容量/电压窗口，可在 MXenes 条目中以列表呈现，暂不必单独建文件。
 
 ## 📊 关键图表
   - **图1**：MAX 相及其对应 MXene 的原子结构对比

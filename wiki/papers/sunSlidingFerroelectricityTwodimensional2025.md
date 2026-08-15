@@ -335,15 +335,15 @@ Xiaoyao Sun、Qian Xia、Tengfei Cao、Shuoguo Yuan 等，2025，*Materials Scie
 
 ## 🆕 新概念/实体建议
 
-- `concepts/3r-phase.md` — 3R 菱方相（空间群 R3m），TMDs 中非中心对称的多层堆叠，偶数层仍保留面外极化；与 2H 相对照。
-- `concepts/twist-angle-engineering.md` — 扭转角工程，小角度扭转产生莫尔周期势与层间滑移铁电。
-- `concepts/fatigue-free-switching.md` — 无疲劳翻转，源于范德华层间弱耦合、翻转路径不涉及键断裂/强离子位移；3R-MoS2 器件 >10⁴ 次循环。
-- `concepts/fefet.md` — 铁电场效应晶体管，以滑动铁电层作为栅介质/沟道，实现非易失存储窗口（3R-MoS2 约 7 V）。
-- `concepts/neuromorphic-synaptic-device.md` — 神经形态突触器件，利用滑动 FE 的渐进极化翻转实现 LTP/LTD、脉冲时序依赖可塑性。
-- `concepts/landau-theory.md`（若 wiki 尚未建）— Landau–Ginzburg 描述滑动 FE 双层在垂直电场下的自由能（含弹性常数 λ、μ）。
-- `concepts/chiral-phonons.md` — 莫尔/多层滑动 FE 衍生的手性声子与拓扑物理。
-- 实体建议：`entities/WS2.md`、`entities/GaSe.md`、`entities/InSe.md`、`entities/Cd3Cl6.md`、`entities/Janus-MoSSe.md`。
-- 方法/表征建议：`concepts/4d-stem.md`（四维扫描透射电镜，可直接看到 ~80 pm 层间位移与畴壁运动）、`concepts/ss-pfm.md`（开关谱 PFM）、`concepts/vector-pfm.md`（矢量 PFM 区分 IP/OOP 极化）、`concepts/kpfm.md`（开尔文探针力显微镜测表面电势）。
+- [[../concepts/3r-phase|3r-phase]] — 3R 菱方相（空间群 R3m），TMDs 中非中心对称的多层堆叠，偶数层仍保留面外极化；与 2H 相对照。
+- [[../concepts/twist-angle-engineering|twist-angle-engineering]] — 扭转角工程，小角度扭转产生莫尔周期势与层间滑移铁电。
+- [[../concepts/fatigue-free-switching|fatigue-free-switching]] — 无疲劳翻转，源于范德华层间弱耦合、翻转路径不涉及键断裂/强离子位移；3R-MoS2 器件 >10⁴ 次循环。
+- [[../entities/fefet|fefet]] — 铁电场效应晶体管，以滑动铁电层作为栅介质/沟道，实现非易失存储窗口（3R-MoS2 约 7 V）。
+- [[../entities/neuromorphic-synaptic-device|neuromorphic-synaptic-device]] — 神经形态突触器件，利用滑动 FE 的渐进极化翻转实现 LTP/LTD、脉冲时序依赖可塑性。
+- [[../concepts/landau-theory|landau-theory]]（若 wiki 尚未建）— Landau–Ginzburg 描述滑动 FE 双层在垂直电场下的自由能（含弹性常数 λ、μ）。
+- [[../concepts/chiral-phonons|chiral-phonons]] — 莫尔/多层滑动 FE 衍生的手性声子与拓扑物理。
+- 实体建议：[[../entities/WS2|WS2]]、[[../entities/GaSe|GaSe]]、[[../entities/InSe|InSe]]、[[../entities/Cd3Cl6|Cd3Cl6]]、[[../entities/Janus-MoSSe|Janus-MoSSe]]。
+- 方法/表征建议：[[../concepts/4d-stem|4d-stem]]（四维扫描透射电镜，可直接看到 ~80 pm 层间位移与畴壁运动）、[[../concepts/ss-pfm|ss-pfm]]（开关谱 PFM）、[[../concepts/vector-pfm|vector-pfm]]（矢量 PFM 区分 IP/OOP 极化）、[[../concepts/kpfm|kpfm]]（开尔文探针力显微镜测表面电势）。
 
 ## 📊 关键图表
 

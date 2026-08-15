@@ -103,18 +103,18 @@ Sugata Chowdhury、Heather M. Hill、Albert F. Rigosi、Patrick M. Vora、Angela
 
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体，每个给 kebab-case 建议文件名 + 一句说明
-  - 概念 `electron-phonon-coupling`：电子-声子耦合常数 λ，CDW 与超导竞争的核心参量，也是 Lin 等统一相图的三轴之一。
-  - 概念 `kohn-anomaly`：科恩异常，特定波矢处声子的急剧软化，是 CDW 相变的前兆；文中指出 TaSe₂ 中位于布里渊区 M 点。
-  - 概念 `amplitudon-phason`：CDW 序参量的振幅模（amplitudon，随温度软化/窄化）与相位模（phason，仅在 C-CDW 相中成为拉曼活性光学模）。
-  - 概念 `fermi-surface-nesting`：费米面嵌套，连接费米面平行段的波矢驱动声子软化与 CDW 不稳定性。
-  - 概念 `commensurate-incommensurate-cdw`：公度/非公度 CDW，周期与原晶格是否整数比；非公度性是 DFT 周期性边界建模的主要难点。
-  - 概念 `electronic-temperature-smearing`：以 Fermi–Dirac 展宽 σ 改变电子温度来近似真实晶格温度的低成本 DFT 方案。
-  - 实体 `TaS2`：二硫化钽，1T 相具有"大卫之星"√13×√13 重构，C-CDW 相中出现各向同性三维电荷转移，单层 2H 相超导 Tc 由亚开尔文提升至 3.4 K。
-  - 实体 `TaSe2`：二硒化钽，2H/1T 两相随维度发生三角-条纹结构转变，是振幅模/相位模识别的样板体系。
-  - 实体 `Quantum-ESPRESSO`：文中主要使用的平面波 DFT 软件包，配合 LDA-PW 与模守恒赝势。
-  - 实体 `SIESTA`：用于 1T-TaS₂ C-CDW 相电子结构与电荷转移计算的原子轨道基组 DFT 代码。
-  - 实体 `ELK`：用于 1T-TaSe₂ 瞬态三维结构计算的全势线性缀加平面波（FP-LAPW）代码。
-  - 概念 `star-of-david-cluster`：1T-TaS₂/1T-TaSe₂ C-CDW 相中 13 个 Ta 原子构成的特征团簇，可作为独立实体或并入 TaS₂/TaSe₂ 条目。
+  - 概念 [[../concepts/electron-phonon-coupling|electron-phonon-coupling]]：电子-声子耦合常数 λ，CDW 与超导竞争的核心参量，也是 Lin 等统一相图的三轴之一。
+  - 概念 [[../concepts/kohn-anomaly|kohn-anomaly]]：科恩异常，特定波矢处声子的急剧软化，是 CDW 相变的前兆；文中指出 TaSe₂ 中位于布里渊区 M 点。
+  - 概念 [[../concepts/amplitudon-phason|amplitudon-phason]]：CDW 序参量的振幅模（amplitudon，随温度软化/窄化）与相位模（phason，仅在 C-CDW 相中成为拉曼活性光学模）。
+  - 概念 [[../concepts/fermi-surface-nesting|fermi-surface-nesting]]：费米面嵌套，连接费米面平行段的波矢驱动声子软化与 CDW 不稳定性。
+  - 概念 [[../concepts/commensurate-incommensurate-cdw|commensurate-incommensurate-cdw]]：公度/非公度 CDW，周期与原晶格是否整数比；非公度性是 DFT 周期性边界建模的主要难点。
+  - 概念 [[../concepts/electronic-temperature-smearing|electronic-temperature-smearing]]：以 Fermi–Dirac 展宽 σ 改变电子温度来近似真实晶格温度的低成本 DFT 方案。
+  - 实体 [[../entities/TaS2|TaS2]]：二硫化钽，1T 相具有"大卫之星"√13×√13 重构，C-CDW 相中出现各向同性三维电荷转移，单层 2H 相超导 Tc 由亚开尔文提升至 3.4 K。
+  - 实体 [[../entities/TaSe2|TaSe2]]：二硒化钽，2H/1T 两相随维度发生三角-条纹结构转变，是振幅模/相位模识别的样板体系。
+  - 实体 [[../entities/Quantum-ESPRESSO|Quantum-ESPRESSO]]：文中主要使用的平面波 DFT 软件包，配合 LDA-PW 与模守恒赝势。
+  - 实体 [[../entities/SIESTA|SIESTA]]：用于 1T-TaS₂ C-CDW 相电子结构与电荷转移计算的原子轨道基组 DFT 代码。
+  - 实体 [[../entities/ELK|ELK]]：用于 1T-TaSe₂ 瞬态三维结构计算的全势线性缀加平面波（FP-LAPW）代码。
+  - 概念 [[../concepts/star-of-david-cluster|star-of-david-cluster]]：1T-TaS₂/1T-TaSe₂ C-CDW 相中 13 个 Ta 原子构成的特征团簇，可作为独立实体或并入 TaS₂/TaSe₂ 条目。
 
 ## 📊 关键图表
   - 图1：单层与块体 2H/1T-TaSe₂ 的晶体结构与含 SOC 费米面：![图1 晶体结构与费米面](../../raw/figures/chowdhuryReviewTheoreticalComputational/fig_1_6U85MKFS.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]

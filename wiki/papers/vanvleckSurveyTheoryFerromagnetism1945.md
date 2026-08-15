@@ -75,7 +75,7 @@ J. H. Van Vleck，1945，Reviews of Modern Physics 17(1), 27–47，DOI [10.1103
   - 实体 [[../entities/MnO]]
 
 ## 🆕 新概念/实体建议
-  - 实体 `MnO.md`：经典反铁磁体，Bizette-Squire-Tsai 的 χ(T) 数据被范弗莱克用来检验交错分子场理论
+  - 实体 [[../entities/MnO|MnO]]：经典反铁磁体，Bizette-Squire-Tsai 的 χ(T) 数据被范弗莱克用来检验交错分子场理论
 
 ## 📊 关键图表
   - ![图1 居里点以上磁化率倒数 1/χ 对温度的线性关系（Fe、Ni），验证居里-外斯定律](../../raw/figures/vanvleckSurveyTheoryFerromagnetism1945/fig_1_JGCCWFME.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]

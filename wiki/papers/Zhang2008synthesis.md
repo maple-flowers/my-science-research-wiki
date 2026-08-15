@@ -78,12 +78,12 @@ Xian Zhang, Xiaoqiang Yu, JinShui Yao, Minhua Jiang，2008，Synthetic Metals 15
   - 实体 [[../entities/triphenylamine]]
   - 相关论文 [[../../raw/note/Zhang2008synthesis]]
 ## 🆕 新概念/实体建议
-  - `two-photon-absorption`（双光子吸收）：三阶非线性光学过程，分子同时吸收两个光子跃迁至激发态，概率正比于光强平方。
-  - `two-photon-polymerization`（双光子聚合）：利用双光子吸收在树脂内部引发局域聚合的三维微加工技术。
-  - `push-pull-chromophore`（推-拉发色团）：由电子给体、共轭桥和电子受体组成的分子，具有强分子内电荷转移。
-  - `multipolar-chromophore`（多极性发色团）：具有多个给体-受体分支的二维/三维共轭分子，如三支化、八极矩分子。
-  - `two-photon-cross-section`（双光子吸收截面 σ₂）：衡量分子双光子吸收能力的物理量，单位 GM（1 GM = 10⁻⁵⁰ cm⁴·s·photon⁻¹）。
-  - `photoinitiator`（光引发剂）：吸收光子后产生活性种（自由基或阳离子）引发聚合的化合物。
+  - [[../concepts/two-photon-absorption|two-photon-absorption]]（双光子吸收）：三阶非线性光学过程，分子同时吸收两个光子跃迁至激发态，概率正比于光强平方。
+  - [[../concepts/two-photon-polymerization|two-photon-polymerization]]（双光子聚合）：利用双光子吸收在树脂内部引发局域聚合的三维微加工技术。
+  - [[../concepts/push-pull-chromophore|push-pull-chromophore]]（推-拉发色团）：由电子给体、共轭桥和电子受体组成的分子，具有强分子内电荷转移。
+  - [[../concepts/multipolar-chromophore|multipolar-chromophore]]（多极性发色团）：具有多个给体-受体分支的二维/三维共轭分子，如三支化、八极矩分子。
+  - [[../concepts/two-photon-cross-section|two-photon-cross-section]]（双光子吸收截面 σ₂）：衡量分子双光子吸收能力的物理量，单位 GM（1 GM = 10⁻⁵⁰ cm⁴·s·photon⁻¹）。
+  - [[../concepts/photoinitiator|photoinitiator]]（光引发剂）：吸收光子后产生活性种（自由基或阳离子）引发聚合的化合物。
 ## 📊 关键图表
 笔记未附图片（raw/figures/Zhang2008synthesis/ 下无图，manifest.json 中 figures 为空）。
 ## 🔬 项目连接

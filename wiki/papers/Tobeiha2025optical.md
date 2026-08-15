@@ -95,15 +95,15 @@ Nafiseh Tobeiha, Nafiseh Memarian, Fatemeh Ostovari，2025年，*Scientific Repo
   - 实体 [[../entities/graphene]]
 
 ## 🆕 新概念/实体建议
-  - `exciton-binding-energy`（激子结合能）：光生电子-空穴对的库仑束缚能，是本文解释450 nm与808 nm波长差异化光-湿耦合效应的核心物理量，石墨烯中约3 eV。
-  - `optical-humidity-sensing`（光学湿度传感）：利用光与湿敏材料相互作用（光吸收、光电流、折射率变化等）检测湿度的传感范式，区别于传统电阻/电容式。
-  - `p-type-doping`（p型掺杂）：水分子含氧端从G表面抽取电子、使空穴积累的电荷转移机制，是G/GO暗态湿敏响应的基础。
-  - `tauc-plot`（Tauc图法）：通过(αhν)^(1/n)对hν作图外推半导体光学带隙的标准方法，本文据此得到1.56 eV与2.66 eV双带隙。
-  - `two-photon-absorption`（双光子吸收）：强激光下同时吸收两个低能光子实现高能跃迁的非线性光学过程，被用于解释808 nm下GO的异常光电流。
-  - `sonochemical-exfoliation`（声化学剥离）：利用超声空化效应将氧化石墨剥离为少层G/GO纳米片的制备方法。
-  - 实体 `graphene`（石墨烯）：sp²碳二维材料，比表面积2630 m²/g、迁移率2×10⁵ cm²V⁻¹s⁻¹，p型导电畴。
-  - 实体 `graphene-oxide`（氧化石墨烯）：含羰基、羟基、环氧、羧基等含氧官能团的石墨烯衍生物，亲水、带可调带隙。
-  - 实体 `g-go-nanosheets`（G/GO纳米片复合物）：G导电畴与GO亲水畴共存的混合体系，兼具高载流子迁移率与水分子吸附能力。
+  - [[../concepts/exciton-binding-energy|exciton-binding-energy]]（激子结合能）：光生电子-空穴对的库仑束缚能，是本文解释450 nm与808 nm波长差异化光-湿耦合效应的核心物理量，石墨烯中约3 eV。
+  - [[../concepts/optical-humidity-sensing|optical-humidity-sensing]]（光学湿度传感）：利用光与湿敏材料相互作用（光吸收、光电流、折射率变化等）检测湿度的传感范式，区别于传统电阻/电容式。
+  - [[../concepts/p-type-doping|p-type-doping]]（p型掺杂）：水分子含氧端从G表面抽取电子、使空穴积累的电荷转移机制，是G/GO暗态湿敏响应的基础。
+  - [[../concepts/tauc-plot|tauc-plot]]（Tauc图法）：通过(αhν)^(1/n)对hν作图外推半导体光学带隙的标准方法，本文据此得到1.56 eV与2.66 eV双带隙。
+  - [[../concepts/two-photon-absorption|two-photon-absorption]]（双光子吸收）：强激光下同时吸收两个低能光子实现高能跃迁的非线性光学过程，被用于解释808 nm下GO的异常光电流。
+  - [[../concepts/sonochemical-exfoliation|sonochemical-exfoliation]]（声化学剥离）：利用超声空化效应将氧化石墨剥离为少层G/GO纳米片的制备方法。
+  - 实体 [[../entities/graphene|graphene]]（石墨烯）：sp²碳二维材料，比表面积2630 m²/g、迁移率2×10⁵ cm²V⁻¹s⁻¹，p型导电畴。
+  - 实体 [[../entities/graphene-oxide|graphene-oxide]]（氧化石墨烯）：含羰基、羟基、环氧、羧基等含氧官能团的石墨烯衍生物，亲水、带可调带隙。
+  - 实体 [[../entities/g-go-nanosheets|g-go-nanosheets]]（G/GO纳米片复合物）：G导电畴与GO亲水畴共存的混合体系，兼具高载流子迁移率与水分子吸附能力。
 ## 📊 关键图表
   - ![图1 G/GO纳米片FESEM形貌、EDX能谱与C/O元素mapping](../../raw/figures/Tobeiha2025optical/fig_1_L9TCNR8X.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
     - **图示描述**：三联图，(a) FESEM场发射扫描电镜下G/GO纳米片的微观形貌，(b) EDX能谱，(c) C与O元素面分布mapping。

@@ -86,15 +86,15 @@ Jian Kang, Zlatko Tešanović，2012，Physical Review B 85, 220507(R)，DOI 10.
   - 实体 [[../entities/iron-pnictides]]
   - 相关论文 [[../../raw/note/Kang2012dimer]]
 ## 🆕 新概念/实体建议
-  - `fermi-surface-nesting`（费米面嵌套）：费米面不同片段经波矢平移后高度重合，是密度波不稳定性的几何驱动力。
-  - `pocket-density-wave`（口袋密度波，PoDW）：仅耦合特定电子/空穴口袋并部分打开能隙的密度波序，可诱导结构相变与轨道铁磁性。
-  - `reconstructed-nesting`（重构嵌套）：有序态建立后费米面变形产生的、在顺磁态不存在的新嵌套矢量。
-  - `quasiparticle-interference`（准粒子干涉，QPI）：杂质散射的准粒子在实空间形成驻波，由 LDOS 振荡图案反推费米面几何。
-  - `nematic-order`（向列序）：电子态自发打破 C4 旋转对称但保留平移对称的有序态。
-  - `orbital-content`（轨道成分/轨道内容）：费米口袋由哪些 d 轨道构成，决定散射顶点的轨道重叠因子。
-  - `three-orbital-model`（三轨道模型）：铁基超导体中考虑 dxz/dyz/dxy 轨道的最小紧束缚模型。
-  - `iron-pnictides`（铁基磷族化合物/铁基超导体）：实体条目，一类含 FeAs/FeP 层的高温超导体。
-  - `t-matrix-impurity-scattering`（T 矩阵杂质散射）：通过 T 矩阵精确求解单杂质格林函数以计算 LDOS 的方法。
+  - [[../concepts/fermi-surface-nesting|fermi-surface-nesting]]（费米面嵌套）：费米面不同片段经波矢平移后高度重合，是密度波不稳定性的几何驱动力。
+  - [[../concepts/pocket-density-wave|pocket-density-wave]]（口袋密度波，PoDW）：仅耦合特定电子/空穴口袋并部分打开能隙的密度波序，可诱导结构相变与轨道铁磁性。
+  - [[../concepts/reconstructed-nesting|reconstructed-nesting]]（重构嵌套）：有序态建立后费米面变形产生的、在顺磁态不存在的新嵌套矢量。
+  - [[../concepts/quasiparticle-interference|quasiparticle-interference]]（准粒子干涉，QPI）：杂质散射的准粒子在实空间形成驻波，由 LDOS 振荡图案反推费米面几何。
+  - [[../concepts/nematic-order|nematic-order]]（向列序）：电子态自发打破 C4 旋转对称但保留平移对称的有序态。
+  - [[../concepts/orbital-content|orbital-content]]（轨道成分/轨道内容）：费米口袋由哪些 d 轨道构成，决定散射顶点的轨道重叠因子。
+  - [[../concepts/three-orbital-model|three-orbital-model]]（三轨道模型）：铁基超导体中考虑 dxz/dyz/dxy 轨道的最小紧束缚模型。
+  - [[../entities/iron-pnictides|iron-pnictides]]（铁基磷族化合物/铁基超导体）：实体条目，一类含 FeAs/FeP 层的高温超导体。
+  - [[../concepts/t-matrix-impurity-scattering|t-matrix-impurity-scattering]]（T 矩阵杂质散射）：通过 T 矩阵精确求解单杂质格林函数以计算 LDOS 的方法。
 ## 📊 关键图表
   - ![图1 展开布里渊区中的四个费米口袋及波矢qa](../../raw/figures/Kang2012dimer/fig_1_QCSFNUKD.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
     - **图示描述**：在展开布里渊区中绘出铁基超导体典型的四个费米口袋——Γ=(0,0) 处两个圆形空穴口袋 h1、h2，M1=(π,0) 和 M2=(0,π) 处各一个椭圆电子口袋 ex、ey，并用箭头标出沿 ey 口袋短轴方向的波矢 q⃗_a。

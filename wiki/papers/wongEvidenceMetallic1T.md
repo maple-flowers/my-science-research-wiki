@@ -94,7 +94,7 @@ Ping Kwan Johnny Wong, Wen Zhang, Jun Zhou, Fabio Bussolotti, Xinmao Yin, Lei Zh
   - 相关论文 [[../../raw/note/wongEvidenceMetallic1T]]
 
 ## 🆕 新概念/实体建议
-  - `xmcd.md`（概念/方法）：X 射线磁圆二色性，元素特异性磁性探针，测 V L₂,₃ 边左右圆偏振 XAS 之差；可排除衬底/杂质磁信号，是判定二维材料本征磁性的"金标准"。
+  - [[../concepts/xmcd|xmcd]]（概念/方法）：X 射线磁圆二色性，元素特异性磁性探针，测 V L₂,₃ 边左右圆偏振 XAS 之差；可排除衬底/杂质磁信号，是判定二维材料本征磁性的"金标准"。
 
 ## 📊 关键图表
 raw/figures 目录仅有 manifest.json，无实际图片文件，以下五张关键图以文字形式描述（资料来源：raw/note 图表深度解析）。

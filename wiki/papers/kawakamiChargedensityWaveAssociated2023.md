@@ -85,10 +85,10 @@ Kawakami, Sugawara, Oka, Nakayama, Yaegashi, Souma, Takahashi, Fukumura, Sato et
   - 实体 [[../entities/SiC]]
   - 相关论文 [[../../raw/note/kawakamiChargedensityWaveAssociated2023]]
 ## 🆕 新概念/实体建议
-  - `higher-order-fs-nesting`（高阶费米面嵌套）：本文提出的新机制，2q 矢量连接常规 q 无法覆盖的费米面弯曲段。
-  - `topotactic-reaction`（拓扑化学反应）：将 MBE 生长的 VTe₂ 经硫蒸气退火置换为 VS₂ 的制备方法。
-  - `VS2`（二硫化钒）：核心研究材料，1T 相单层。
-  - `VTe2`（二碲化钒）：制备前驱体，其费米面为 K 点三角形空穴口袋，4×4 CDW。
+  - [[../concepts/higher-order-fs-nesting|higher-order-fs-nesting]]（高阶费米面嵌套）：本文提出的新机制，2q 矢量连接常规 q 无法覆盖的费米面弯曲段。
+  - [[../concepts/topotactic-reaction|topotactic-reaction]]（拓扑化学反应）：将 MBE 生长的 VTe₂ 经硫蒸气退火置换为 VS₂ 的制备方法。
+  - [[../entities/VS2|VS2]]（二硫化钒）：核心研究材料，1T 相单层。
+  - [[../entities/VTe2|VTe2]]（二碲化钒）：制备前驱体，其费米面为 K 点三角形空穴口袋，4×4 CDW。
 ## 📊 关键图表
   - ![图1 MBE+拓扑反应制备单层VS₂及RHEED/芯能级/STM表征](../../raw/figures/kawakamiChargedensityWaveAssociated2023/fig_1_6T5AGUJF.png) → [[../figures/crystal-structures-surfaces-defects|表面、缺陷与形貌]]
   - **图示描述**：图1展示"先MBE生长单层VTe₂、再硫蒸气退火将Te置换为S"的拓扑化学反应流程，并通过RHEED、芯能级光电子谱和STM确认产物质量。子图b/c为VTe₂和硫化后VS₂的RHEED图样，d为对应强度剖面，e为宽能量范围光电子谱（插图为Te 4d区），f/g为STM形貌及台阶高度剖面。

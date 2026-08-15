@@ -82,12 +82,12 @@ Hongjun Xiang，2020，National Science Review 7(12): 1844–1845，DOI 10.1093/
   - 实体 [[../entities/CuCrSe2]]
 
 ## 🆕 新概念/实体建议
-  - `ferroelectricity`（铁电性）：自发极化可在外电场下反转的有序态，wiki 中尚无独立条目，仅有 polarization-switching、sliding-ferroelectricity 等子条目。
-  - `ferromagnetism`（铁磁性）：磁矩平行长程有序，wiki 中 magnetism 相关概念分散，建议补建基础条目。
-  - `interlayer-magnetic-coupling`（层间磁耦合）：二维范德华材料相邻磁层间的 FM/AFM 交换作用及其梯度效应，是本文磁电耦合机制核心。
-  - `electric-write-magnetic-read`（电写磁读）：以电场翻转磁化、以磁阻读出的存储架构概念。
-  - `curie-temperature`（居里温度）：铁电/铁磁有序—无序转变温度，材料应用门槛指标。
-  - 实体 `CuCrS2` / `CuCrSe2`：铜插层过渡金属硫族化合物，本文预测的二维室温多铁候选体系。
+  - [[../concepts/ferroelectricity|ferroelectricity]]（铁电性）：自发极化可在外电场下反转的有序态，wiki 中尚无独立条目，仅有 polarization-switching、sliding-ferroelectricity 等子条目。
+  - [[../concepts/ferromagnetism|ferromagnetism]]（铁磁性）：磁矩平行长程有序，wiki 中 magnetism 相关概念分散，建议补建基础条目。
+  - [[../concepts/interlayer-magnetic-coupling|interlayer-magnetic-coupling]]（层间磁耦合）：二维范德华材料相邻磁层间的 FM/AFM 交换作用及其梯度效应，是本文磁电耦合机制核心。
+  - [[../concepts/electric-write-magnetic-read|electric-write-magnetic-read]]（电写磁读）：以电场翻转磁化、以磁阻读出的存储架构概念。
+  - [[../concepts/curie-temperature|curie-temperature]]（居里温度）：铁电/铁磁有序—无序转变温度，材料应用门槛指标。
+  - 实体 [[../entities/CuCrS2|CuCrS2]] / [[../entities/CuCrSe2|CuCrSe2]]：铜插层过渡金属硫族化合物，本文预测的二维室温多铁候选体系。
 ## 📊 关键图表
 图1：Cu₂(CrS₂)₃ 与 Cu₃(CrS₂)₄ 薄膜的自旋构型与多铁性翻转
   - **图示描述**：该图含 (a)、(b) 两个子图，分别展示三层与四层 Cu 插层 CrS₂ 二维薄膜的原子层堆叠、极化方向（黑色箭头）与各磁性层磁矩方向（红色箭头），对比极化向下（基态）与极化向上（翻转态）两种构型下的层间 FM/AFM 耦合关系；原图改编自 Zhong 等人 (Natl Sci Rev 2020, 7:373–80) 的 Fig. 4。

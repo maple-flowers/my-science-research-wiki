@@ -87,7 +87,7 @@ J. Laverock, S. B. Dugdale, Zs. Major, M. A. Alam, N. Ru, I. R. Fisher, G. Santi
   - 实体 [[../entities/LuTe3]]、[[../entities/GdTe3]]、[[../entities/LuTe2]]
   - 相关论文 [[../../raw/note/Laverock2005fermi]]
 ## 🆕 新概念/实体建议
-  - `GdTe3.md`、`LuTe3.md`、`LuTe2.md`（实体）：本文实验/计算所用具体材料，相关页面尚未建立。
+  - [[../entities/GdTe3|GdTe3]]、[[../entities/LuTe3|LuTe3]]、[[../entities/LuTe2|LuTe2]]（实体）：本文实验/计算所用具体材料，相关页面尚未建立。
 ## 📊 关键图表
   - ![图1 RTe2与RTe3晶体结构对比，RTe3中双Te方平面夹于RTe层之间](../../raw/figures/Laverock2005fermi/fig_1_FRREPGHI.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：对比展示 (a) RTe₂（四方反-Cu₂Sb 结构，空间群 P4/nmm）与 (b) RTe₃（层状 NdTe₃ 结构，空间群 Cmcm）的晶体结构，晶体学 b 轴为长轴。RTe₃ 的关键特征是两层正方平面排列的 Te 原子层被夹在惰性的 RTe 板层之间。

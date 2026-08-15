@@ -89,16 +89,16 @@ Atsushi Yarai, Takuji Nakanishi，2005，IEICE Electronics Express，Vol.2 No.14
   - 实体 [[../entities/fiber-coupler]]、[[../entities/si-photodiode]]、[[../entities/super-luminescence-diode]]、[[../entities/optical-interference-filter]]、[[../entities/lock-in-amplifier]]、[[../entities/thermo-electric-cooler]]、[[../entities/laser-diode]]、[[../entities/spherical-lensed-fiber]]
   - 相关论文 [[../../raw/note/Yarai2005optical]]
 ## 🆕 新概念/实体建议
-  - `thermal-lens-effect`（概念）：介质吸收高斯泵浦光能量后形成温度/折射率梯度、等效为透镜的光热效应，是本传感器信号来源。
-  - `photothermal-effect`（概念）：光吸收转化为热并改变介质光学性质的物理效应，是热透镜、光热偏转等技术的共同基础。
-  - `pump-probe-technique`（概念）：泵浦光激发、探测光读取的双光束测量范式。
-  - `optical-coupling-efficiency`（概念）：两光纤端面间光功率传输比例，是本传感方案的直接读出量。
-  - `absolute-humidity` / `relative-humidity`（概念）：湿度的两种度量，本文关键结论即传感器直接响应绝对水汽密度、相对湿度需温度补偿。
-  - `temperature-compensation`（概念）：将绝对湿度读数结合温度换算为相对湿度的必要步骤。
-  - `spherical-lensed-fiber`（实体，SLF）：端面加工成半球透镜的光纤，用于在 <50 μm 间隙内聚焦光束、提高耦合灵敏度。
-  - `lock-in-amplifier`（实体/方法）：以固定调制频率（本文 10 Hz）从噪声中提取微弱 TL 信号的相敏检测仪器。
-  - `super-luminescence-diode`（实体，SLD）：850 nm 宽谱低相干探测光源。
-  - `thermo-electric-cooler`（实体，TEC/帕尔帖元件）：用于局部改变传感头温度以独立调控绝对湿度。
+  - [[../concepts/thermal-lens-effect|thermal-lens-effect]]（概念）：介质吸收高斯泵浦光能量后形成温度/折射率梯度、等效为透镜的光热效应，是本传感器信号来源。
+  - [[../concepts/photothermal-effect|photothermal-effect]]（概念）：光吸收转化为热并改变介质光学性质的物理效应，是热透镜、光热偏转等技术的共同基础。
+  - [[../concepts/pump-probe-technique|pump-probe-technique]]（概念）：泵浦光激发、探测光读取的双光束测量范式。
+  - [[../concepts/optical-coupling-efficiency|optical-coupling-efficiency]]（概念）：两光纤端面间光功率传输比例，是本传感方案的直接读出量。
+  - [[../concepts/absolute-humidity|absolute-humidity]] / [[../concepts/relative-humidity|relative-humidity]]（概念）：湿度的两种度量，本文关键结论即传感器直接响应绝对水汽密度、相对湿度需温度补偿。
+  - [[../concepts/temperature-compensation|temperature-compensation]]（概念）：将绝对湿度读数结合温度换算为相对湿度的必要步骤。
+  - [[../entities/spherical-lensed-fiber|spherical-lensed-fiber]]（实体，SLF）：端面加工成半球透镜的光纤，用于在 <50 μm 间隙内聚焦光束、提高耦合灵敏度。
+  - [[../entities/lock-in-amplifier|lock-in-amplifier]]（实体/方法）：以固定调制频率（本文 10 Hz）从噪声中提取微弱 TL 信号的相敏检测仪器。
+  - [[../entities/super-luminescence-diode|super-luminescence-diode]]（实体，SLD）：850 nm 宽谱低相干探测光源。
+  - [[../entities/thermo-electric-cooler|thermo-electric-cooler]]（实体，TEC/帕尔帖元件）：用于局部改变传感头温度以独立调控绝对湿度。
 ## 📊 关键图表
   - ![传感头与测量系统示意图，SLF对、泵浦/探测光路、滤光片与锁相检测](../../raw/figures/Yarai2005optical/fig_1_JN75GA67.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：图1包含(a)(b)两个子图与右侧系统框图，展示由两根端面相对的球透镜光纤（SLF，球面半径 R=10 μm）构成的传感头，以及泵浦激光、探测光、光纤耦合器、干涉滤光片、Si 光电二极管和锁相放大器组成的完整测量链路；(a)为泵浦关断时探测光在两光纤间正常耦合的光路，(b)为泵浦开启后水汽吸收形成热透镜、探测光发散偏离光纤 B 的光路。

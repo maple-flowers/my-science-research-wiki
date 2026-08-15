@@ -103,8 +103,8 @@ Ding, Zhu, Wang, Gao, Xiao, Gu, Zhang & Zhu，2017，Nature Communications 8:149
   - 相关论文 **dingPredictionIntrinsicTwodimensional2017a**
 
 ## 🆕 新概念/实体建议
-  - `iii2-vi3-compounds`（III2-VI3族化合物）：通式 III2-VI3（III=Al/Ga/In，VI=S/Se/Te）的层状半导体家族，本文预测其 QL 形式普遍具有本征二维铁电性。
-  - `concerted-motion`（协同运动反转机制）：本文发现观察到的低能垒极化反转路径——上三层（Se-In-Se）整体横向滑移、中心 Se 旋转 60°、顶二层再滑移，将能垒从直接位移的 0.85 eV 降至 0.066 eV。
+  - [[../entities/iii2-vi3-compounds|iii2-vi3-compounds]]（III2-VI3族化合物）：通式 III2-VI3（III=Al/Ga/In，VI=S/Se/Te）的层状半导体家族，本文预测其 QL 形式普遍具有本征二维铁电性。
+  - [[../concepts/concerted-motion|concerted-motion]]（协同运动反转机制）：本文发现观察到的低能垒极化反转路径——上三层（Se-In-Se）整体横向滑移、中心 Se 旋转 60°、顶二层再滑移，将能垒从直接位移的 0.85 eV 降至 0.066 eV。
 
 ## 📊 关键图表
   - **图1：In2Se3 五元层（QL）的层状结构**

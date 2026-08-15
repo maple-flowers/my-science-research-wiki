@@ -115,9 +115,9 @@ R. Ramesh 与 Nicola A. Spaldin et al.，2007，*Nature Materials* 6(1), 21–29
 
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体：
-  - 实体 `CoFe2O4.md` — 尖晶石铁磁体，垂直异质结中最常用的纳米柱相。
-  - 实体 `PbVO3.md` — "超四方"铁电体（c/a≈1.26），可在薄膜中稳定。
-  - 实体 `Bi2FeCrO6.md` — 双钙钛矿，第一性原理预测 R3c 基态、P≈80 μC/cm²、亚铁磁 2 μB/f.u.。
+  - 实体 [[../entities/CoFe2O4|CoFe2O4]] — 尖晶石铁磁体，垂直异质结中最常用的纳米柱相。
+  - 实体 [[../entities/PbVO3|PbVO3]] — "超四方"铁电体（c/a≈1.26），可在薄膜中稳定。
+  - 实体 [[../entities/Bi2FeCrO6|Bi2FeCrO6]] — 双钙钛矿，第一性原理预测 R3c 基态、P≈80 μC/cm²、亚铁磁 2 μB/f.u.。
 
 ## 📊 关键图表
 笔记未附图片（raw/figures 目录下仅有 manifest.json，figures 数组为空）。论文原文含 5 张图，下面按图号给出基于原始阅读笔记的中文描述，待后续补图：

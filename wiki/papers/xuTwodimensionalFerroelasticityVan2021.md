@@ -98,7 +98,7 @@ Xu, Mao, Guo, Yan, Chen, Lo, Chen, Lei, Luo, Hao, Zheng, Zhu et al.，2021，Nat
   - 概念 [[../concepts/domain-walls]]
   - 相关论文 [[../../raw/note/xuTwodimensionalFerroelasticityVan2021]]
 ## 🆕 新概念/实体建议
-  - `domain-wall-classification`（W 墙/S 墙分类）：Wf 墙取向由母相对称性固定（120° DW 沿 {11-20}），S 墙取向依赖自发应变量级（60° DW 沿 {1-100}），适合作为畴壁条目的补充概念。
+  - [[../concepts/domain-wall-classification|domain-wall-classification]]（W 墙/S 墙分类）：Wf 墙取向由母相对称性固定（120° DW 沿 {11-20}），S 墙取向依赖自发应变量级（60° DW 沿 {1-100}），适合作为畴壁条目的补充概念。
 ## 📊 关键图表
   - **图1**
   - ![图1 反铁电耦合的自发应变：纳米条纹超结构、SAED卫星斑、原位XRD温变曲线](../../raw/figures/xuTwodimensionalFerroelasticityVan2021/fig_1_3385VJAN.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
