@@ -107,7 +107,7 @@ Kaiyun Chen, Junkai Deng, Dongxiao Kan, Yuan Yan, Qian Shi, Wangtu Huo, Mengshan
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]、[[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 概念 [[../concepts/magnetism]]
   - 实体 [[../entities/CrSe2]]、[[../entities/MnS2]]、[[../entities/MnSe2]]、[[../entities/MnTe2]]、[[../entities/CrS2]]
-  - 相关论文 **chenFerromagneticNonmagnetic1T2022**
+  - 相关论文 [[../../raw/note/chenFerromagneticNonmagnetic1T2022]]
   - 实体 [[../entities/VTe2]]
 
 ## 🆕 新概念/实体建议

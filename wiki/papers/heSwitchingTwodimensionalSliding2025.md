@@ -107,7 +107,7 @@ Ri He, Hua Wang, Fenglin Deng, Yuxiang Gao, Bingwen Zhang, Yubai Shi, Run-Wei Li
   - 图表 [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
   - 图表 [[../figures/mathematical-models]]（能量竞争模型公式1-3）
   - 年度 [[../write/2025]]
-  - 相关论文 **heSwitchingTwodimensionalSliding2025**
+  - 相关论文 [[../../raw/note/heSwitchingTwodimensionalSliding2025]]
 ## 📊 关键图表
   - ![图1 双层h-BN在不同初始弯曲角θ下弛豫后的原子结构：θ<12°恢复平面，12°<θ<62°形成31°单扭结，θ>62°形成31°+57°双扭结](../../raw/figures/heSwitchingTwodimensionalSliding2025/fig_1_HAQT3EAV.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：图1以侧视原子结构展示双层 h-BN 从平面 AB 堆叠出发，沿 x 轴人为施加初始弯曲角 θ 后再做全原子弛豫得到的最终构型；(a) 为理想圆弧示意，(b)–(d) 分别对应小、中、大三种 θ 下弛豫后的平面、单扭结和双扭结形态。

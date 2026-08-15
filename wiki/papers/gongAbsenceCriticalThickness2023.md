@@ -102,8 +102,7 @@ Feng-Hui Gong, Yun-Long Tang, Yu-Jia Wang, Yu-Ting Chen, Bo Wu, Li-Xin Yang, Yin
   - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - 年度 [[../write/2020-2024|2023]]
   - 主题 [[../topics/材料模拟计算设计]]
-  - 相关论文 **gongAbsenceCriticalThickness2023**
-
+  - 相关论文 [[../../raw/note/gongAbsenceCriticalThickness2023]]
 ## 📊 关键图表
   - ![图1 不同厚度 PTO/STO 超晶格的 DF-TEM、SAED 与 (103) RSM，周期从 13.8 nm 演变到 6.8 nm](../../raw/figures/gongAbsenceCriticalThickness2023/fig_1_SYSSN7EC.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
   - **图示描述**：复合图，对 (PTOₙ/STOₙ)₁₀ 超晶格系列（n = 37, 28, 23, 19, 12, 9, 4, 2 u.c.）依次给出截面 DF-TEM 暗场像、内嵌的 (202) SAED 放大斑点，以及在衬底 (103) 反射附近、qₓ–q_z 散射平面内的对数 RSM；DF 像用 g = 002 衍射矢量拍摄。

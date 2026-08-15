@@ -103,8 +103,7 @@ Rogerio de Sousa, Joel E. Moore，2008，Applied Physics Letters 92, 022514，DO
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2005-2009|2008]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
-  - 相关论文 **deSousa2008electrical**
-
+  - 相关论文 [[../../raw/note/deSousa2008electrical]]
 ## 📊 关键图表
   - 图1：倾斜多铁材料中的自旋波与极化波模式。(a)低频软模——两子晶格磁矩同相进动、倾斜角β不变；(b)高频有隙模——反相进动调制β；(c)坐标系（z沿P，y沿L）。
     ![图1 自旋波模式示意图](../../raw/figures/deSousa2008electrical/fig_1_MFP3ILKR.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]

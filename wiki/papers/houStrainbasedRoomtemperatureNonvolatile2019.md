@@ -76,8 +76,7 @@ Wenhui Hou, Ahmad Azizimanesh, Arfan Sewaket, Tara Peña, Carla Watson, Ming Liu
   - 实体 [[../entities/TMDs]]
   - 图表 [[../figures/electronic-devices]]
   - 年度 [[../write/2015-2019|2019]]
-  - 相关论文 **houStrainbasedRoomtemperatureNonvolatile2019**
-
+  - 相关论文 [[../../raw/note/houStrainbasedRoomtemperatureNonvolatile2019]]
 ## 🆕 新概念/实体建议
   - [[../entities/mo-te2|mo-te2]]（实体）：二碲化钼，TMD中1T′（半金属）与2H（半导体）相能量差最小，~0.3%拉伸应变即可诱导相变，是应变相变器件的核心沟道材料；本文发现的应变诱导半导体相并非标准2H相。
   - [[../entities/pmn-pt|pmn-pt]]（实体）：Pb(Mg1/3Nb2/3)0.71Ti0.29O3 弛豫铁电单晶，居里温度135 °C，逆压电应变量级~0.4%，常用作电场可控应变源；本文以0.25–0.3 mm厚单晶作为栅介质/衬底。

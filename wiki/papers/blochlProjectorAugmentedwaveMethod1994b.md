@@ -104,8 +104,7 @@ P. E. Blöchl，1994，Physical Review B 50(24), 17953–17979，DOI: 10.1103/Ph
   - 年度 [[../write/1945-1999|1994]]
   - 概念 [[../concepts/pulay-force]]、[[../concepts/lapw]]、[[../concepts/norm-conservation]]、[[../concepts/car-parrinello]]
   - 实体 [[../entities/Fe2]]、[[../entities/Car-Parrinello]]、[[../entities/LMTO]]、[[../entities/MnFO3]]、[[../entities/LAPW]]
-  - 相关论文 **blochlProjectorAugmentedwaveMethod1994b**
-
+  - 相关论文 [[../../raw/note/blochlProjectorAugmentedwaveMethod1994b]]
 ## 📊 关键图表
   - 图1：Mn 原子的全电子分波、赝分波与投影函数（s/p/d 通道）
   ![Mn 的分波与投影函数](../../raw/figures/blochlProjectorAugmentedwaveMethod1994b/fig_1_MBXMFE5N.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]

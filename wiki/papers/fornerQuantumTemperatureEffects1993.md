@@ -50,7 +50,7 @@ W Forner，1993，*Journal of Physics: Condensed Matter* 5(7): 823–840，DOI: 
 ## 🔗 Wiki 双链
   - 年度 [[../write/1945-1999|1993]]
   - 概念 [[../concepts/self-trapping]]、[[../concepts/davydov-soliton]]、[[../concepts/interchain-coupling]]、[[../concepts/exciton-phonon-coupling]]
-  - 相关论文 **fornerQuantumTemperatureEffects1993**
+  - 相关论文 [[../../raw/note/fornerQuantumTemperatureEffects1993]]
   - （本文研究对象为 α-螺旋蛋白质中的达维多夫孤子，与 wiki 现有 2D 材料/多铁/铁电/CDW 等概念实体无直接交集，故不强行双链）
 ## 🆕 新概念/实体建议
   - [[../concepts/davydov-soliton|davydov-soliton]]（达维多夫孤子）：酰胺-I 振动激发与氢键链声学声子耦合形成的局域化、无损耗传播的能量包，用于解释蛋白质内无耗散能量传输

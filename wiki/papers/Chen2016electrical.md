@@ -98,7 +98,7 @@ Liufang Chen, Zhihao Cheng, Wenting Xu, Xiangjian Meng, Guoliang Yuan, Junming L
   - 图表 [[../figures/domain-walls]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups|实验测试与测量装置]]、[[../figures/mathematical-models|数学模型与物理公式]]
   - 年度 [[../write/2016]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
-  - 相关论文 **Chen2016electrical**
+  - 相关论文 [[../../raw/note/Chen2016electrical]]
   - 实体 [[../entities/La0.67Sr0.33MnO3]]
   - 实体 [[../entities/PbZrxTi1-xO3]]
   - 实体 [[../entities/PLD]]

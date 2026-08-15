@@ -106,7 +106,7 @@ Cui, Hu, Yan, Addiego, Gao, Wang, Wang, Li, Cheng, Li, Zhang, Alshareef, Wu, Zhu
   - 年度 [[../write/2015-2019|2018]]
   - 概念 [[../concepts/domain-wall]]
   - 实体 [[../entities/Au]]、[[../entities/mica]]
-  - 相关论文 **cuiIntercorrelatedInplaneOutofplane2018a**
+  - 相关论文 [[../../raw/note/cuiIntercorrelatedInplaneOutofplane2018a]]
 ## 🆕 新概念/实体建议
   - [[../concepts/in-plane-out-of-plane-coupling|in-plane-out-of-plane-coupling]]（面内-面外极化互锁）：α-In2Se3 中由中心 Se 原子层横向位移同时驱动 IP/OOP 极化翻转的本征耦合机制。
   - [[../concepts/odd-even-effect|odd-even-effect]]（奇偶层数效应）：相邻层反平行堆叠导致奇/偶数层宏观极化方向相反。

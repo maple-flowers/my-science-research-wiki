@@ -120,7 +120,7 @@ Han, Ma, Wang, Xu, Xu, Huang, Shen, Nan, Ma (通讯)，2025，*Progress in Mater
   - 图表 [[../figures/domain-walls]]、[[../figures/heterostructures-stacking]]、[[../figures/crystal-structures]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups]]、[[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW与相变]]
   - 年度 [[../write/2025]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
-  - 相关论文 **hanPolarTopologicalMaterials2025**
+  - 相关论文 [[../../raw/note/hanPolarTopologicalMaterials2025]]
 ## 📊 关键图表
   - ![极性拓扑发展里程碑与早期理论预测：时间线、降维策略、PZT薄膜厚度依赖的通量闭合畴、PZT纳米棒/BTO纳米点中的涡旋预言](../../raw/figures/hanPolarTopologicalMaterials2025/fig_1_N2QJLWJM.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
     - **图示描述**：(a) 2003 年 BaTiO₃ 纳米点涡旋预测到 2021 年所罗门环等复杂拓扑发现的时间线；(b) 从三维块体到零维纳米点的降维策略；(c–f) PZT 薄膜厚度依赖的 180° 条带畴→通量闭合畴，以及超薄 PZT 膜、BaTiO₃ 纳米点中由退极化场驱动的气泡畴/涡旋畴相场模拟。

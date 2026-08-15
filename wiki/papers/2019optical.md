@@ -109,8 +109,7 @@ Febrielviyanti, Harmadi, Dahyunir Dahlan, Yetria Rilda, Helmi Septaria Herlin，
   - 项目 [[../projects/project-6-humidity-sensor]]
   - 概念 [[../concepts/refractive-index-sensing]]
   - 实体 [[../entities/photodiode]]、[[../entities/laser-diode]]、[[../entities/TiO2]]、[[../entities/SiO2]]
-  - 相关论文 **2019optical**
-
+  - 相关论文 [[../../raw/note/2019optical]]
 ## 📊 关键图表
   - ![图1 测量系统框图：输入-过程-输出](../../raw/figures/2019optical/fig_1_BJNL3G4F.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：通用测量系统的三段式流程框图，从左到右依次为"输入（Input）→ 过程（Process）→ 输出（Output）"，对应传感器元件、信号处理单元与显示终端。

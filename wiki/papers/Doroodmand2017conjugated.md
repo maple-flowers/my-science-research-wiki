@@ -121,8 +121,7 @@ Mohammad Mahdi Doroodmand, Sina Owji，2017，*International Journal of Advanced
   - 项目 [[../projects/project-6-humidity-sensor]]
   - 概念 [[../concepts/cyclic-voltammetry]]、[[../concepts/optical-sensing]]、[[../concepts/refractive-index]]
   - 实体 [[../entities/KCl]]
-  - 相关论文 **Doroodmand2017conjugated**
-
+  - 相关论文 [[../../raw/note/Doroodmand2017conjugated]]
 ## 📊 关键图表
   - **图1：湿度光学传感器装置示意图**
   - ![图1 湿度光学传感器装置示意图：1500 mL 玻璃腔、白光LED、相机、玻碳探针、IR光源、参考湿度计](../../raw/figures/Doroodmand2017conjugated/fig_1_SCVHIKUS.png) -> [[../figures/experimental-setups|实验装置与测量系统]]

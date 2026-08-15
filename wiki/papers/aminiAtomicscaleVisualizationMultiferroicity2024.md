@@ -140,7 +140,7 @@ Amini, Fumega, González-Herrero, Vaňo, Kezilebieke, Lado, Liljeroth et al.，2
   - 年度 [[../write/2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
   - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
-  - 相关论文 **aminiAtomicscaleVisualizationMultiferroicity2024**
+  - 相关论文 [[../../raw/note/aminiAtomicscaleVisualizationMultiferroicity2024]]
 ## 🆕 新概念/实体建议
   - （可选）[[../concepts/kitaev-interaction|kitaev-interaction]]：文中讨论 q 矢量偏离 ΓK 线时提到的竞争磁相互作用之一（另一项 Dzyaloshinskii–Moriya 已建条目 [[../concepts/dzyaloshinskii-moriya-interaction]]），可在磁学概念扩充时建立。
 ## 📊 关键图表

@@ -88,7 +88,7 @@ Gajdos, Hummer, Kresse, Furthmuller, Bechstedt，2006，Physical Review B 73, 04
   - 年度 [[../write/2005-2009|2006]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]
   - 概念 [[../concepts/kohn-sham]]
-  - 相关论文 **gajdosLinearOpticalProperties2006**
+  - 相关论文 [[../../raw/note/gajdosLinearOpticalProperties2006]]
 ## 🆕 新概念/实体建议
   - 材料实体 Si、SiC、AlP、diamond-C 可酌情建立（本文基准材料，但与现有项目材料距离较远）。
 ## 📊 关键图表

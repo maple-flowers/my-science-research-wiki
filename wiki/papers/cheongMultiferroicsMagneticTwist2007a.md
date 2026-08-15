@@ -99,8 +99,7 @@ Sang-Wook Cheong & Maxim Mostovoy，2007，*Nature Materials* 6(1), 13–20，DO
   - 年度 [[../write/2007]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 主题 [[多铁性材料]]
-  - 相关论文 **cheongMultiferroicsMagneticTwist2007a**
-
+  - 相关论文 [[../../raw/note/cheongMultiferroicsMagneticTwist2007a]]
 ## 🆕 新概念/实体建议
   - [[../entities/RMn2O5|RMn2O5]]（实体）：第二类多铁性的原型材料家族，应建实体条目。
 

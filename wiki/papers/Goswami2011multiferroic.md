@@ -83,8 +83,7 @@ Goswami, Bhattacharya, Choudhury, Ouladdiaf, Chatterji，2011，Applied Physics 
   - 年度 [[../write/2010-2014|2011]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 概念 [[../concepts/size-effect]]、[[../concepts/first-order-phase-transition]]
-  - 相关论文 **Goswami2011multiferroic**
-
+  - 相关论文 [[../../raw/note/Goswami2011multiferroic]]
 ## 📊 关键图表
   - **图1**：超声化学法合成的 ~22 nm BiFeO3 纳米颗粒的 TEM 与 HRTEM 照片。
   - ![图1 TEM 与 HRTEM 照片，显示 ~22 nm 单晶颗粒及 (012) 面晶格条纹](../../raw/figures/Goswami2011multiferroic/fig_1_IBYY5PIF.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]

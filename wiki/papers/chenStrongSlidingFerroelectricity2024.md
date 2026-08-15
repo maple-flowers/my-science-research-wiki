@@ -119,7 +119,7 @@ tags:
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 实体 [[../entities/Datta-Das-spin-FET]]
-  - 相关论文 **chenStrongSlidingFerroelectricity2024**
+  - 相关论文 [[../../raw/note/chenStrongSlidingFerroelectricity2024]]
   - 实体 [[../entities/HgI2]]
   - 实体 [[../entities/HgBr2]]
   - 实体 [[../entities/ZrI2]]

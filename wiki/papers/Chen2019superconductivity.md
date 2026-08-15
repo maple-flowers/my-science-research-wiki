@@ -72,7 +72,7 @@ Chuan Chen, Lei Su, A. H. Castro Neto, Vitor M. Pereira et al.，2019，Physical
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2019]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 相关论文 **Chen2019superconductivity**
+  - 相关论文 [[../../raw/note/Chen2019superconductivity]]
   - 实体 [[../entities/TiSe2]]
   - 实体 [[../entities/2H-TaSe2]]
   - 实体 [[../entities/1T-TaS2]]
