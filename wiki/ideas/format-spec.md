@@ -1,21 +1,13 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_07f6d58897e011f19467525400287e28
-    ReservedCode1: IhmIlznuCMIrq++pEsAfib9W9r35QPlqDmM+tQi+EpmGngcavgfUkfc8n2NVnKD4ZmrXdErEllKA5Ww7tCEZHXjDPS9pwymYVUmx8wfYsH8NohPxqfViidZkpPhVMg0SUEtow9AR6JZu29ezqAJiG8JG/6vl3pBWSd0hQhbPLhgvRCxSbEmfSjuX2kk=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_07f6d58897e011f19467525400287e28
-    ReservedCode2: IhmIlznuCMIrq++pEsAfib9W9r35QPlqDmM+tQi+EpmGngcavgfUkfc8n2NVnKD4ZmrXdErEllKA5Ww7tCEZHXjDPS9pwymYVUmx8wfYsH8NohPxqfViidZkpPhVMg0SUEtow9AR6JZu29ezqAJiG8JG/6vl3pBWSd0hQhbPLhgvRCxSbEmfSjuX2kk=
+name: ideas-format-spec
+description: 研究想法层四类卡片（gap / idea / validation / paradigm）的编写格式规范——frontmatter、正文模板、命名与双链规则
 ---
-
-
 
 # 研究想法条目编写规范 (Ideas Format Specifications)
 
-> 本文件定义 `wiki/ideas/` 目录下三类条目的编写格式规范。规范总纲（目录约定 / 标签体系 / 链接规范 / 铁律）见 [[SCHEMA]]；concept / entity / paper / figure / write / topic / project 的编写规范见 [[format-spec]]。
+> 本文件定义 `wiki/ideas/` 目录下四类条目（gap / idea / validation / paradigm）的编写格式规范。规范总纲（目录约定 / 标签体系 / 链接规范 / 铁律）见 [[SCHEMA]]；concept / entity / paper / figure / write / topic / project 的编写规范见 [[format-spec]]。
 
-[[ideas/_index|← 返回研究想法索引]] · [[科研Wiki/index|← 返回 Wiki 总索引]]
+[[_index|← 返回研究想法索引]] · [[科研Wiki/index|← 返回 Wiki 总索引]]
 
 ---
 
@@ -345,7 +337,7 @@ updated: 2026-08
 
 - **H1 中英对照**：gap / validation / paradigm 用 `# <中文名> / <英文名>`；idea 可用纯中文或中英对照。
 - **H2 一律带 emoji 且不编号**，与全库风格一致；固定小节用固定名（`## 👵 太奶导读`、`## 📚 相关论文 (Related Papers)`、`## 🔗 关联…`）。
-- **正文引用论文一律 `[[../papers/<citekey>]]`**，从 `wiki/ideas/` 出发的相对路径；概念用 `[[../concepts/charge-transfer|概念]]`，实体 `[[../entities/MAX-phase|实体]]`，主题 `[[../topics/多铁性材料|主题]]`，项目 `[[../projects/project-1-two-photon|项目]]`。
+- **正文引用论文一律 `[[../papers/<citekey>]]`**，从 `wiki/ideas/` 出发的相对路径；概念用 `[[../concepts/charge-transfer|概念]]`，实体 `[[../entities/MAX-phase|实体]]`，主题 `[[../topics/D02-multiferroic-materials|主题]]`，项目 `[[../projects/project-1-two-photon|项目]]`。
 - **同目录互链不加路径前缀**：`[[gap-<slug>|G01 …]]`、`[[idea-<slug>|I01 …]]`、`[[validation-<slug>|V01 …]]`、`[[paradigm-<slug>|P01 …]]`。
 - **落地回链**：idea `adopted` 后，除 idea 页链项目外，在对应 project 页「与科研 Wiki 知识库的联系」小节加一行 `- **相关想法**：[[../ideas/idea-<slug>|I01 <想法标题>]]`（从 `wiki/projects/` 出发）。
 - **👵 太奶导读**：与 concept / entity 同款要求——一个生活化比喻开头、顺着比喻讲完道理、术语逐个翻译成中文白话、3–6 句、不堆公式与数值。gap 讲"为什么这块地还空着"，idea 讲"我打算怎么在这块地上盖房子"，validation 讲"我试了试，地基牢不牢"，paradigm 讲"别人是怎么盖这类房子的、我能不能照着盖"。
@@ -387,4 +379,3 @@ updated: 2026-08
 - `rejected` / `superseded` / `filled` / `obsolete` 不删页，只改状态并写明原因。
 - 负结果（`rejected`）如实记录，不美化、不隐藏。
 - 想法落地为项目后，进展记录归属 `wiki/projects/`，idea 页只保留想法与验证结论，不重复搬运转录项目日志。
-*（内容由AI生成，仅供参考）*

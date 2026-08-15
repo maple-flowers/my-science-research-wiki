@@ -97,14 +97,20 @@ Lin Zhang，2019，Advanced Engineering Materials，21(4): 1800531，DOI 10.1002
   - 概念 [[../concepts/dulong-petit-law|杜隆-珀蒂定律]]（N<800–900时ΔEav/ΔT偏离1.5kB势能贡献）
   - 概念 [[../concepts/five-fold-twinning|五重孪晶]]（Ti257在1300 K形成，界面为HCP堆积）
   - 概念 [[../concepts/geometric-shell-closure|几何壳层闭合]]（Ih团簇"幻数"稳定性来源）
+  - 概念 [[../concepts/fcc-structure]]
+  - 概念 [[../concepts/nvt-ensemble]]
+  - 概念 [[../concepts/hcp-structure]]
+  - 概念 [[../concepts/structural-phase-transition]]
+  - 概念 [[../concepts/icosahedral-structure]]
+  - 概念 [[../concepts/bcc-structure]]
   - 实体 [[../entities/Ti|钛（Ti）]]（α相HCP，实验块体熔点1941 K）
   - 实体 [[../entities/LAMMPS|LAMMPS]]（文中列为可处理非周期体系的主流MD代码）
   - 实体 [[../entities/Moldy|Moldy]]（本文MD代码修改自旧版Moldy，用大盒子PBC隔离粒子）
+  - 实体 [[../entities/GULP]]
+  - 实体 [[../entities/Ti-6Al-4V]]
   - 图表 [[../figures/crystal-structures]]（HCP/FCC/Ih/BCC原子堆积与五重孪晶快照）
   - 图表 [[../figures/mathematical-models]]（EAM总势能、电子密度、对势、嵌入能分段公式 Eq.1–7；PDF公式 Eq.9）
   - 年度 [[../write/2015-2019|2019]]
-  - 概念 [[../concepts/fcc-structure]]、[[../concepts/nvt-ensemble]]、[[../concepts/hcp-structure]]、[[../concepts/structural-phase-transition]]、[[../concepts/icosahedral-structure]]、[[../concepts/bcc-structure]]
-  - 实体 [[../entities/GULP]]、[[../entities/Ti-6Al-4V]]
   - 相关论文 [[../../raw/note/Zhang2019a]]
 
 ## 🆕 新概念/实体建议

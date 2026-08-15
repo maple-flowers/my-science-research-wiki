@@ -1,15 +1,7 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_066f98b497e011f19467525400287e28
-    ReservedCode1: eK1dqso85F0DeDhvBBjswM7zTQ8EoegZmRUOuaLU5j2W+doHxL5EoJfJ0O4gcg2sAor8932Lbur1e1wuTejG7nTNX93dZBK/ZlAhaEi4sbFEqv6Bl+T/1A2b4aScKzi6RDsBkGtbugbhykyL92YQZ1uuC9wRb6/GcXyzEkyQFz8dMMGhV0qyPEkKbYo=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_066f98b497e011f19467525400287e28
-    ReservedCode2: eK1dqso85F0DeDhvBBjswM7zTQ8EoegZmRUOuaLU5j2W+doHxL5EoJfJ0O4gcg2sAor8932Lbur1e1wuTejG7nTNX93dZBK/ZlAhaEi4sbFEqv6Bl+T/1A2b4aScKzi6RDsBkGtbugbhykyL92YQZ1uuC9wRb6/GcXyzEkyQFz8dMMGhV0qyPEkKbYo=
+tags:
+  - type/ideas-index
 ---
-
-
 
 # 研究想法库 (Research Ideas)
 
@@ -57,13 +49,24 @@ paradigm   : active ────────────────────
 
 ## 当前条目索引
 
-*本目录当前为空，尚无 gap / idea / validation / paradigm 卡片。*
+当前共 **10 张 paradigm 卡片**（科研范式层已建立），尚无 gap / idea / validation 卡片。
 
-| 类型 | 编号 | 标题 | 状态 | 关联 |
+| 类型 | 编号 | 标题 | 状态 | 关联主题 |
 | :--- | :--- | :--- | :--- | :--- |
-| — | — | — | — | — |
+| 🧭 paradigm | P01 | [[paradigm-first-principles-material-design\|第一性原理材料设计预测]] | active | 材料模拟计算设计 / 多铁性材料 |
+| 🧭 paradigm | P02 | [[paradigm-high-throughput-screening\|高通量筛选与数据驱动材料发现]] | active | 材料模拟计算设计 / 多铁性材料 |
+| 🧭 paradigm | P03 | [[paradigm-method-development\|计算方法学开发与基准验证]] | active | 材料模拟计算设计 |
+| 🧭 paradigm | P04 | [[paradigm-ml-potential-md\|机器学习势与大规模分子动力学模拟]] | active | 材料模拟计算设计 / 多铁性材料 |
+| 🧭 paradigm | P05 | [[paradigm-phenomenological-theory\|唯象与解析理论建模]] | active | 多铁性材料 / 材料模拟计算设计 |
+| 🧭 paradigm | P06 | [[paradigm-experiment-theory-loop\|实验-理论闭环]] | active | 多铁性材料 / 材料模拟计算设计 |
+| 🧭 paradigm | P07 | [[paradigm-device-development\|器件开发与性能验证]] | active | 多铁性材料 |
+| 🧭 paradigm | P08 | [[paradigm-microfabrication\|微纳加工与结构制备]] | active | —（尚无对应主题页） |
+| 🧭 paradigm | P09 | [[paradigm-review-framework\|综述与领域框架构建]] | active | 多铁性材料 / 材料模拟计算设计 |
+| 🧭 paradigm | P10 | [[paradigm-classical-mesoscale-simulation\|经典与介观尺度模拟]] | active | 多铁性材料 / 材料模拟计算设计 |
 
-> 首次使用：从「读文献时发现的空白」开始，先建一张 `gap-*.md`，再围绕它提 `idea-*.md`，验证后补 `validation-*.md`。
+**范式层的读法**：P01–P04 是计算路线（从单点预测 → 批量筛选 → 方法本身 → 大尺度动力学），P05 是解析理论，P06 是实验与理论的会合点，P07–P08 是走向器件与加工的下游，P09 是把整个领域收敛成框架，P10 覆盖原子尺度之上的介观模拟。读一篇新论文时，先判断它属于哪一种范式，能快速定位它在领域中的位置。
+
+> 下一步：从「读文献时发现的空白」开始，先建一张 `gap-*.md`，再围绕它提 `idea-*.md`，验证后补 `validation-*.md`。范式卡片可作为选择研究路线的模板。
 
 ---
 
@@ -74,4 +77,3 @@ paradigm   : active ────────────────────
 3. **双链联动**：引用论文一律 `[[../papers/<citekey>]]`（不直链 `raw/note/`）；引用概念 / 实体 / 主题 / 项目用对应相对路径。
 4. **落地闭环**：idea 被采纳后，把 `status` 改为 `adopted` 并双链 `[[../projects/project-1-two-photon|项目1]]`；同时在该 project 页的「与 Wiki 联系」回链 idea。
 5. **想法是活的**：随验证推进更新 `status` 与「生命周期日志」，不必一次写全。
-*（内容由AI生成，仅供参考）*

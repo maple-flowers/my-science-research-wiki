@@ -100,12 +100,39 @@ Yang Yang, Hongxiang Zong, Jun Sun, Xiangdong Ding et al.，2021，Advanced Mate
 ## 💡 一句话
 通过自研机器学习势的大规模分子动力学模拟，首次揭示二维单层 GeSe 中本征波纹既能稳定高温相短程铁性序、提高冷却相变温度，又能将应力诱导畴翻转从协同雪崩式（幂律分布）转变为波纹驱动的局域随机过程（高斯分布）。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/ferroelasticity]]、[[../concepts/multiferroicity]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/machine-learning-potential]]、[[../concepts/polarization-switching]]、[[../concepts/moire-superlattice]]、[[../concepts/ripples|波纹]]、[[../concepts/ripple-engineering|波纹工程]]、[[../concepts/polar-nano-regions|极性纳米微区]]、[[../concepts/avalanche-dynamics|雪崩动力学]]、[[../concepts/flexoelectric-effect|挠曲电效应]]、[[../concepts/atomistic-order-parameter|原子级铁性序参量]]、[[../concepts/za-phonon-mode|ZA 声子模]]、[[../concepts/ferroic-order|铁性序]]
-  - 实体 [[../entities/VASP]]、[[../entities/SnTe]]、[[../entities/In2Se3]]、[[../entities/WTe2]]、[[../concepts/domain-wall]]、[[../entities/GeSe]]、[[../entities/LAMMPS]]、[[../entities/CrI3]]、[[../entities/Cr2Ge2Te6]]
-  - 图表 [[../figures/crystal-structures]]、[[../concepts/domain-wall]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/ferroelasticity]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/machine-learning-potential]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/moire-superlattice]]
+  - 概念 [[../concepts/ripples|波纹]]
+  - 概念 [[../concepts/ripple-engineering|波纹工程]]
+  - 概念 [[../concepts/polar-nano-regions|极性纳米微区]]
+  - 概念 [[../concepts/avalanche-dynamics|雪崩动力学]]
+  - 概念 [[../concepts/flexoelectric-effect|挠曲电效应]]
+  - 概念 [[../concepts/atomistic-order-parameter|原子级铁性序参量]]
+  - 概念 [[../concepts/za-phonon-mode|ZA 声子模]]
+  - 概念 [[../concepts/ferroic-order|铁性序]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/SnTe]]
+  - 实体 [[../entities/In2Se3]]
+  - 实体 [[../entities/WTe2]]
+  - 实体 [[../entities/GeSe]]
+  - 实体 [[../entities/LAMMPS]]
+  - 实体 [[../entities/CrI3]]
+  - 实体 [[../entities/Cr2Ge2Te6]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/mathematical-models]]
+  - 图表 [[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]
   - 年度 [[../write/2020-2024]]
-  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/yangRipplingFerroicPhase2021]]
+
 ## 📊 关键图表
   - **图1：单层 GeSe 的晶体结构、四畴变体与温度诱导铁性相变**
   - ![图1 单层GeSe晶体结构、四畴变体、势能-温度相变曲线、晶格常数演化及原子级铁性序空间分布与角度关联函数](../../raw/figures/yangRipplingFerroicPhase2021/fig_1_9ERHR5CE.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
@@ -155,7 +182,7 @@ Yang Yang, Hongxiang Zong, Jun Sun, Xiangdong Ding et al.，2021，Advanced Mate
 文章采用"问题提出—现象观察—机制揭示—应用拓展"的论证结构。先在无波纹条件下确立单层 GeSe 的温度诱导铁性相变基线（一级相变、高温极性纳米微区、短程有序），再通过 constrained vs unconstrained 模型对照定量分离波纹效应（提高 Tc、延长弛豫时间、作异质形核点），最后转向应力诱导畴翻转，用应力-应变曲线和应力降概率密度分布（截断幂律 δ=1.3 vs 高斯）完成从"协同雪崩"到"局域随机"的动力学模式判定。论证以对照模拟和统计物理量为核心证据。值得复用的术语：ripples（波纹）、ripplocation（波纹位错）、atomistic ferroic order parameter（原子级铁性序参量）、polar nano-regions（极性纳米微区）、heterogeneous nucleation（异质形核）、avalanche dynamics（雪崩动力学）、cut-off power-law distribution（截断幂律分布）、ripple engineering（波纹工程）、flexural/ZA mode（弯曲/ZA 声学模）、ferroelastic-ferroelectric coupling（铁弹-铁电耦合）。
 ## ✏️ 可写入 Wiki 的要点
   1. 单层 GeSe 属第四族单硫族化物 MX（M=Ge/Sn，X=S/Se/Te），热力学稳定相具有[[../concepts/strong-coupling|强耦合]]自发极化 P 与[[../concepts/spontaneous-strain|自发应变]] η，存在四个能量等效畴变体 (ηx,±Px)、(ηy,±Py)，由 90° 畴壁分隔。
-  2. [[../concepts/atomistic-order-parameter|原子级[[../concepts/ferroic-order|铁性序]]参量]]定义为相邻 Ge-Se 相对位移矢量 R=R_Se−R_Ge 在局域切平面上的投影 Rp=(Δx,Δy)，单一参量同时刻画铁弹与铁电状态，可作空间/[[../concepts/time-correlation|时间关联]]分析。
+  2. [[../concepts/atomistic-order-parameter|原子级铁性序参量]]定义为相邻 Ge-Se 相对位移矢量 R=R_Se−R_Ge 在局域切平面上的投影 Rp=(Δx,Δy)，单一参量同时刻画铁弹与铁电状态，可作空间/[[../concepts/time-correlation|时间关联]]分析。
   3. 加热-冷却 MD 循环（0.77 K/ps）测得 GeSe 单层相变温度：加热约 310 K、冷却约 260 K，呈弱速率依赖的滞后；高温相 x/y 晶格常数趋同，自发应变消失。
   4. 高温相（400 K）并非传统体材料顺电相的完全无序：空间关联角 θij(r) 在 r<2 nm 范围内保持 75°–90°（低于完全随机的 90°），证实存在短程铁性序，即[[../concepts/polar-nano-regions|极性纳米微区]]。
   5. 允许面外运动（有波纹）相比约束面内运动（无波纹），冷却相变温度从约 245 K 提升至约 275 K，且铁性序幅度增大；平均铁性序增量 ΔR 与空间平均曲率 κ 呈线性强相关。

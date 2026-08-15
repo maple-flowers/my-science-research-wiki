@@ -70,9 +70,16 @@ Kubra Sattar, Rabia Tahir, Syedah Afsheen Zahra, Zhenyue Nie, Jing Wang, Houbing
 首次通过 400 °C 真空热处理在自支撑双过渡金属 MXene Mo₂Ti₂C₃Tₓ 薄膜中原位生成金红石 TiO₂/MoO₃ 相并诱导出室温铁电性，以此为活性层、激光还原石墨烯（LSG）为上下电极构筑全柔性 LSG/H-DTM/LSG 三明治忆阻器，实现双极性阻变（开关比 ~10²、耐久 10³ 次、保持 5×10³ s），机理为铁电内电场调控的氧空位导电细丝。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2d-materials]]、[[../entities/ferroelectric-memristor|铁电忆阻器]]、[[../concepts/oxygen-vacancy-filament|氧空位导电细丝]]、[[../concepts/resistive-switching]]、[[../concepts/space-charge-limited-current|空间电荷限制电流（SCLC）]]
-  - 实体 [[../entities/MXenes]]、[[../entities/Mo2Ti2C3Tx|Mo₂Ti₂C₃Tₓ]]、[[../entities/laser-reduced-graphene|激光还原石墨烯（LSG）]]
-  - 图表 [[../figures/electronic-devices]]、[[../figures/crystal-structures]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/oxygen-vacancy-filament|氧空位导电细丝]]
+  - 概念 [[../concepts/resistive-switching]]
+  - 概念 [[../concepts/space-charge-limited-current|空间电荷限制电流（SCLC）]]
+  - 实体 [[../entities/ferroelectric-memristor|铁电忆阻器]]
+  - 实体 [[../entities/MXenes]]
+  - 实体 [[../entities/Mo2Ti2C3Tx|Mo₂Ti₂C₃Tₓ]]
+  - 实体 [[../entities/laser-reduced-graphene|激光还原石墨烯（LSG）]]
+  - 图表 [[../figures/electronic-devices]]
+  - 图表 [[../figures/crystal-structures]]
   - 年度 [[../write/2025-2029|2025]]
   - 相关论文 [[../../raw/note/sattarFunctionalizedDoubleTransition2025]]
 

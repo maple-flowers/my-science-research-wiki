@@ -83,7 +83,6 @@ Zhiwei Peng, Xiaolin Chen, Yulong Fan, David J. Srolovitz, Dangyuan Lei et al.�
   - 概念 [[../concepts/deformation-potential]]
   - 概念 [[../concepts/moire-superlattice]]
   - 概念 [[../concepts/exciton-funnel-effect|激子漏斗效应]]
-  - 概念 [[../entities/graphene|石墨烯]]
   - 概念 [[../concepts/pseudomagnetic-field|赝磁场]]
   - 概念 [[../concepts/raman-strain-splitting|拉曼应变分裂]]
   - 概念 [[../concepts/second-harmonic-generation|二次谐波产生]]

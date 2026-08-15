@@ -82,6 +82,7 @@ B. Delley，2000，*The Journal of Chemical Physics* 113(18), 7756–7764，DOI 
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/Delley2000]]
+
 ## 📊 关键图表
   - **图 1：Si 原胞总能量随倒空间网格阶数的收敛性**
   - ![Si原胞总能量随倒空间网格阶数的指数收敛](../../raw/figures/Delley2000/fig_1_4IAQM378.png) -> [[../figures/mathematical-models-simulations|模拟与数值结果]]

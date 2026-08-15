@@ -92,9 +92,14 @@ Mahé Lezoualc'H，2025，Université Paris-Saclay 博士论文（NNT 2025UPASP0
   - 概念 [[../concepts/intercalation|插层]]
   - 概念 [[../concepts/peierls-instability]]
   - 概念 [[../concepts/soft-mode|声子软模]]
+  - 概念 [[../concepts/phonon-soft-mode]]
+  - 概念 [[../concepts/cew-tronics]]
   - 实体 [[../entities/TMDs]]
   - 实体 [[../entities/VSe2|二硒化钒 VSe₂]]
   - 实体 [[../entities/VTe2|二碲化钒 VTe₂]]
+  - 实体 [[../entities/Fireball]]
+  - 实体 [[../entities/Quantum-ESPRESSO]]
+  - 实体 [[../entities/STM]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/vibrational-spectra]]
@@ -102,15 +107,14 @@ Mahé Lezoualc'H，2025，Université Paris-Saclay 博士论文（NNT 2025UPASP0
   - 图表 [[../figures/heterostructures-stacking|自旋电子学与应变工程]]
   - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 概念 [[../concepts/phonon-soft-mode]]、[[../concepts/cew-tronics]]
-  - 实体 [[../entities/Fireball]]、[[../entities/Quantum-ESPRESSO]]、[[../entities/STM]]
   - 相关论文 [[../../raw/note/lezoualchStudyChargeDensity]]
+
 ## 🆕 新概念/实体建议
   - [[../concepts/cdw-tronics|cdw-tronics]]（CDW 电子学）：仿照 spintronics/valleytronics，以 CDW 相/取向为信息载体
   - [[../concepts/dfpt|dfpt]]（密度泛函微扰理论）：可建为方法实体或概念条目
   - [[../concepts/negf-transport|negf-transport]]（非平衡格林函数输运）：Fireball 中 STM/I-V 模拟方法
   - [[../concepts/nudged-elastic-band|nudged-elastic-band]]（NEB 微动弹性带）：相变能垒计算方法
-  - [[../entities/Quantum-Espresso|Quantum-Espresso]] / [[../entities/Fireball|Fireball]]：两套 DFT 代码，可建软件实体（QE 在 wiki 中尚无）
+  - [[../entities/Quantum-ESPRESSO|Quantum-Espresso]] / [[../entities/Fireball|Fireball]]：两套 DFT 代码，可建软件实体（QE 在 wiki 中尚无）
   - [[../concepts/sscha|sscha]]（随机自洽简谐近似）：论文展望中提到的超越简谐近似方法
 ## 📊 关键图表
   - ![论文图1](../../raw/figures/lezoualchStudyChargeDensity/fig_1_DUEI5PQ5.png)

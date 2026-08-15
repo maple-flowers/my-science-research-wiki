@@ -85,6 +85,10 @@ Yiqing Shu, Jia Guo, Taojian Fan 等，2020，ACS Applied Materials & Interfaces
   - 概念 [[../concepts/density-functional-theory]]
   - 概念 [[../concepts/electron-hole-recombination|电子-空穴复合]]
   - 概念 [[../concepts/saturable-absorption|可饱和吸收]]
+  - 概念 [[../concepts/band-structure]]
+  - 概念 [[../concepts/nonlinear-optics]]
+  - 概念 [[../concepts/in-plane-anisotropy]]
+  - 实体 [[../entities/b-AsP]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/optical-spectra]]
@@ -92,11 +96,10 @@ Yiqing Shu, Jia Guo, Taojian Fan 等，2020，ACS Applied Materials & Interfaces
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2020-2024|2020]]
   - 项目 [[../projects/project-1-two-photon]]
-  - 概念 [[../concepts/band-structure]]、[[../concepts/nonlinear-optics]]、[[../concepts/in-plane-anisotropy]]
-  - 实体 [[../entities/b-AsP]]
   - 相关论文 [[../../raw/note/shuTwoDimensionalBlackArsenic2020]]
+
 ## 🆕 新概念/实体建议
-  - [[../entities/b-asp|b-asp]]（实体）：黑砷磷，V 族二元二维合金，As:P ≈ 0.2:0.8，正交褶皱蜂窝结构，带隙 0.15-0.3 eV 可调，填补石墨烯与黑磷之间的带隙空白
+  - [[../entities/b-AsP|b-asp]]（实体）：黑砷磷，V 族二元二维合金，As:P ≈ 0.2:0.8，正交褶皱蜂窝结构，带隙 0.15-0.3 eV 可调，填补石墨烯与黑磷之间的带隙空白
   - [[../concepts/saturable-absorber|saturable-absorber]]（概念）：可饱和吸收体，光强越强吸收越弱的非线性光学元件，用于光纤激光器被动锁模
   - [[../concepts/z-scan|z-scan]]（概念/方法）：Z 扫描技术，通过移动样品经过聚焦光束测量非线性吸收系数 β 和饱和强度 Is 的经典方法
   - [[../entities/mode-locked-fiber-laser|mode-locked-fiber-laser]]（概念）：锁模光纤激光器，利用可饱和吸收体在环形腔内产生超短孤子脉冲

@@ -81,17 +81,33 @@ Atsushi Yarai, Takuji Nakanishi，2005，IEICE Electronics Express，Vol.2 No.14
 ## 💡 一句话
 首次将热透镜（TL）泵浦-探测光谱技术引入光纤湿度传感，用两根端面间距 <50 μm 的球透镜光纤构成微腔传感头，在泵浦功率 <100 mW 下实现了无需对光纤包层做任何化学处理的湿度测量，并证明传感器本质上测量的是绝对湿度。
 ## 🔗 Wiki 双链
-  - 概念：[[../concepts/thermal-lens-effect|热透镜效应]]、[[../concepts/photothermal-effect|光热效应]]、[[../concepts/pump-probe]]、[[../concepts/optical-coupling-efficiency|光耦合效率]]、[[../concepts/relative-humidity|相对湿度]]、[[../concepts/temperature-compensation|温度补偿]]
+  - 概念 [[../concepts/thermal-lens-effect|热透镜效应]]
+  - 概念 [[../concepts/photothermal-effect|光热效应]]
+  - 概念 [[../concepts/optical-coupling-efficiency|光耦合效率]]
+  - 概念 [[../concepts/relative-humidity|相对湿度]]
+  - 概念 [[../concepts/temperature-compensation|温度补偿]]
+  - 概念 [[../concepts/lock-in-detection]]
+  - 概念 [[../concepts/refractive-index]]
+  - 概念 [[../concepts/optical-fiber-sensing]]
+  - 概念 [[../concepts/absolute-humidity]]
+  - 实体 [[../entities/pump-probe]]
+  - 实体 [[../entities/fiber-coupler]]
+  - 实体 [[../entities/si-photodiode]]
+  - 实体 [[../entities/super-luminescence-diode]]
+  - 实体 [[../entities/optical-interference-filter]]
+  - 实体 [[../entities/lock-in-amplifier]]
+  - 实体 [[../entities/thermo-electric-cooler]]
+  - 实体 [[../entities/laser-diode]]
+  - 实体 [[../entities/spherical-lensed-fiber]]
   - 图表 [[../figures/experimental-setups]]（图1为传感头与测量系统示意图）
   - 年度 [[../write/2005-2009|2005]]
   - 项目 [[../projects/project-6-humidity-sensor]]
-  - 概念 [[../concepts/lock-in-detection]]、[[../concepts/refractive-index]]、[[../concepts/optical-fiber-sensing]]、[[../concepts/absolute-humidity]]
-  - 实体 [[../entities/fiber-coupler]]、[[../entities/si-photodiode]]、[[../entities/super-luminescence-diode]]、[[../entities/optical-interference-filter]]、[[../entities/lock-in-amplifier]]、[[../entities/thermo-electric-cooler]]、[[../entities/laser-diode]]、[[../entities/spherical-lensed-fiber]]
   - 相关论文 [[../../raw/note/Yarai2005optical]]
+
 ## 🆕 新概念/实体建议
   - [[../concepts/thermal-lens-effect|thermal-lens-effect]]（概念）：介质吸收高斯泵浦光能量后形成温度/折射率梯度、等效为透镜的光热效应，是本传感器信号来源。
   - [[../concepts/photothermal-effect|photothermal-effect]]（概念）：光吸收转化为热并改变介质光学性质的物理效应，是热透镜、光热偏转等技术的共同基础。
-  - [[../concepts/pump-probe]]（概念）：泵浦光激发、探测光读取的双光束测量范式。
+  - [[../entities/pump-probe]]（概念）：泵浦光激发、探测光读取的双光束测量范式。
   - [[../concepts/optical-coupling-efficiency|optical-coupling-efficiency]]（概念）：两光纤端面间光功率传输比例，是本传感方案的直接读出量。
   - [[../concepts/absolute-humidity|absolute-humidity]] / [[../concepts/relative-humidity|relative-humidity]]（概念）：湿度的两种度量，本文关键结论即传感器直接响应绝对水汽密度、相对湿度需温度补偿。
   - [[../concepts/temperature-compensation|temperature-compensation]]（概念）：将绝对湿度读数结合温度换算为相对湿度的必要步骤。

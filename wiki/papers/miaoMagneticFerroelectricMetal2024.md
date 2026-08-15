@@ -90,12 +90,31 @@ Xiaoyan Miao, Milorad Milošević, Chunmei Zhang，2024，Physica B: Condensed M
 ## 💡 一句话
 基于第一性原理计算预测双层 Fe₃GeTe₂ 通过 (±1/3, ±1/3) 层间滑移可同时拥有可翻转的垂直铁电极化、巡游铁磁性和金属导电性，构成罕见的磁性铁电金属相，且中等双轴压缩应变即可反转极化方向。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/strain-engineering]]、[[../concepts/2d-materials]]、[[../concepts/polarization-switching]]、[[../concepts/density-functional-theory]]、[[../concepts/ferroelectric-metal|铁电金属]]、[[../concepts/interlayer-charge-transfer|层间电荷转移]]、[[../concepts/itinerant-ferromagnetism|巡游铁磁性]]、[[../concepts/magnetic-polar-metal|磁性极性金属]]
-  - 实体 [[../entities/Fe3GeTe2]]、[[../entities/VASP]]、[[../entities/WTe2]]、[[../entities/In2Se3]]、[[../entities/h-BN]]、[[../entities/TMDs]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking|多铁与磁电异质结]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/sliding-ferroelectricity]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/ferroelectric-metal|铁电金属]]
+  - 概念 [[../concepts/interlayer-charge-transfer|层间电荷转移]]
+  - 概念 [[../concepts/itinerant-ferromagnetism|巡游铁磁性]]
+  - 概念 [[../concepts/magnetic-polar-metal|磁性极性金属]]
+  - 实体 [[../entities/Fe3GeTe2]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/WTe2]]
+  - 实体 [[../entities/In2Se3]]
+  - 实体 [[../entities/h-BN]]
+  - 实体 [[../entities/TMDs]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/electronic-bands]]
+  - 图表 [[../figures/heterostructures-stacking|多铁与磁电异质结]]
   - 年度 [[../write/2020-2024|2024]]
-  - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/miaoMagneticFerroelectricMetal2024]]
+
 ## 📊 关键图表
   - ![图1 IM/State-1/State-2原子结构、极化等高线与NEB翻转势垒](../../raw/figures/miaoMagneticFerroelectricMetal2024/fig_1_SVDXYJ6N.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：(a–c) 为双层 FGT 的三种堆垛侧视图——AA 对齐的非极性中间态 IM、顶层相对底层滑移 (1/3, 1/3) 的 State-1 (P↑)、滑移 (−1/3, −1/3) 的 State-2 (P↓)，橙色箭头标极化方向、Fe 上的红箭头标自旋方向；(d) 为垂直极化随层间滑移方向与距离变化的二维等高线图，黑色虚线标出 P↑↔P↓ 最低能量翻转路径；(e) 为沿该路径的 NEB 能量曲线。
@@ -130,7 +149,7 @@ Xiaoyan Miao, Milorad Milošević, Chunmei Zhang，2024，Physica B: Condensed M
 ## ✏️ 可写入 Wiki 的要点
   - 双层 FGT 通过相对滑移 (1/3,1/3) 和 (−1/3,−1/3) 得到两个能量简并的最稳态 State-1/State-2，分别具 P↑/P↓ 垂直极化，大小均为 ±8.3×10⁻⁴ eÅ/unit cell；其他滑移构型能量高 19.6–21.4 meV。
   - CI-NEB 计算的 P↑↔P↓ [[../concepts/switching-barrier|翻转势垒]]约 13 meV/unit cell，低于 In₂Se₃（~60 meV/unit cell）而高于 WTe₂（~0.6 meV/unit cell），因只需克服弱层间 vdW 相互作用，室温下可翻转。
-  - 极化微观起源：Bader 电荷分析显示 State-1 中顶层与底层电荷得失约 0.03 e，未补偿的垂直[[../concepts/interlayer-charge-transfer|层间[[../concepts/charge-transfer|电荷转移]]]]形成面外偶极矩；State-2 电荷转移方向相反，极化随之翻转。
+  - 极化微观起源：Bader 电荷分析显示 State-1 中顶层与底层电荷得失约 0.03 e，未补偿的垂直[[../concepts/interlayer-charge-transfer|层间电荷转移]]形成面外偶极矩；State-2 电荷转移方向相反，极化随之翻转。
   - 磁基态：层内为 FM，层间 FM 构型比 AFM 能量更低；滑移不改变 FGT 的铁磁基态。双层相比块体层数减少使 Pauli 势降低，反而增强 FM 型层间交换耦合。Fe 3d 轨道通过[[../concepts/linear-response|线性响应]]法获取 U* 值进行在位库仑修正。
   - 金属性：费米能级附近[[../concepts/density-of-states|态密度]]和能带主要由 Fe 3d 轨道贡献；面内传导电子在垂直方向受限，与面外极化空间解耦（类比 WTe₂ 双层），故自由电子不屏蔽垂直偶极矩，使金属性与[[../concepts/ferroelectricity|铁电性]]共存。
   - 应变调控：约 −1% 双轴压缩应变即使 State-1/State-2 极化方向反转；机制是应变让层内 FeII 与 Ge 原子偏离 z 方向镜面位置、产生反向离子极化，当离子极化贡献超过[[../concepts/electronic-polarization|电子极化]]贡献时总极化反转。ε=−1%,−2%,−3%,−4% 时 State-1 极化约 −1.3,−1.8,−3.6×10⁻⁴ 和 −3.1×10⁻³ eÅ/unit cell，绝对值随应变增大。

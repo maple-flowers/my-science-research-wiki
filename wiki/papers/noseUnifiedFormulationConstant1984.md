@@ -79,14 +79,22 @@ Shuichi Nosé，1984，The Journal of Chemical Physics 81(1), 511–519，DOI 10
 通过引入额外自由度 s 的扩展系统哈密顿量与对数势 gkT ln s，Nosé 严格证明了其恒温分子动力学方法可精确产生正则（NVT）与恒温恒压（NPT）系综分布，并将 Hoover–Ladd–Moran–Evans（HLME）约束方法与 Haile–Gupta 动量标度方法统一为该框架的特例，同时定量给出后者 O(N^{-1/2}) 的偏差。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/canonical-ensemble|正则系综]]、[[../concepts/microcanonical-ensemble|微正则系综]]、[[../concepts/npt-ensemble|NPT 系综]]、[[../concepts/nose-hoover-thermostat|Nosé–Hoover 恒温器]]、[[../concepts/extended-system-method|扩展系统方法]]、[[../concepts/virtual-variables|虚拟变量]]、[[../concepts/thermostat|恒温器]]
+  - 概念 [[../concepts/canonical-ensemble|正则系综]]
+  - 概念 [[../concepts/microcanonical-ensemble|微正则系综]]
+  - 概念 [[../concepts/npt-ensemble|NPT 系综]]
+  - 概念 [[../concepts/nose-hoover-thermostat|Nosé–Hoover 恒温器]]
+  - 概念 [[../concepts/extended-system-method|扩展系统方法]]
+  - 概念 [[../concepts/virtual-variables|虚拟变量]]
+  - 概念 [[../concepts/thermostat|恒温器]]
+  - 概念 [[../concepts/ergodic-hypothesis]]
+  - 概念 [[../concepts/statistical-mechanics]]
+  - 概念 [[../concepts/boltzmann-distribution]]
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/1945-1999|1984]]
   - 项目 [[../projects/project-4-ttf-molecular-calc]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 概念 [[../concepts/ergodic-hypothesis]]、[[../concepts/statistical-mechanics]]、[[../concepts/boltzmann-distribution]]
   - 相关论文 [[../../raw/note/noseUnifiedFormulationConstant1984]]
 
 ## 🆕 新概念/实体建议

@@ -102,14 +102,24 @@ Febrielviyanti, Harmadi, Dahyunir Dahlan, Yetria Rilda, Helmi Septaria Herlin，
 将聚合物光纤（POF, Autonics FD-620-10）中段包层剥离并浸渍涂覆 TiO2-SiO2 纳米复合亲水层，利用倏逝场强度调制实现相对湿度测量，确定最佳剥离长度 2 cm（R²=0.982，灵敏度 0.0376 V/%），并集成到基于 Arduino Uno 的测量系统中（平均误差 2.78%）。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/evanescent-field]]、[[../concepts/optical-fiber-sensor|光纤传感器]]、[[../concepts/humidity-sensing|湿度传感]]、[[../concepts/intensity-modulation|光强调制]]、[[../concepts/dip-coating|浸渍提拉法]]
-  - 实体 [[../entities/TiO2-SiO2|TiO2-SiO2纳米复合材料]]、[[../entities/polymer-optical-fiber|聚合物光纤（POF）]]
-  - 图表 [[../figures/experimental-setups]]（图1-3 测量/系统框图）、[[../figures/mathematical-models]]（倏逝场公式 Ez=E0·exp(−z/dp)、穿透深度 dp、误差/精度公式）
+  - 概念 [[../concepts/evanescent-field]]
+  - 概念 [[../concepts/optical-fiber-sensor|光纤传感器]]
+  - 概念 [[../concepts/humidity-sensing|湿度传感]]
+  - 概念 [[../concepts/intensity-modulation|光强调制]]
+  - 概念 [[../concepts/dip-coating|浸渍提拉法]]
+  - 概念 [[../concepts/refractive-index-sensing]]
+  - 实体 [[../entities/TiO2-SiO2|TiO2-SiO2纳米复合材料]]
+  - 实体 [[../entities/polymer-optical-fiber|聚合物光纤（POF）]]
+  - 实体 [[../entities/photodiode]]
+  - 实体 [[../entities/laser-diode]]
+  - 实体 [[../entities/TiO2]]
+  - 实体 [[../entities/SiO2]]
+  - 图表 [[../figures/experimental-setups]]（图1-3 测量/系统框图）、
+  - 图表 [[../figures/mathematical-models]]（倏逝场公式 Ez=E0·exp(−z/dp)、穿透深度 dp、误差/精度公式）
   - 年度 [[../write/2015-2019|2019]]
   - 项目 [[../projects/project-6-humidity-sensor]]
-  - 概念 [[../concepts/refractive-index-sensing]]
-  - 实体 [[../entities/photodiode]]、[[../entities/laser-diode]]、[[../entities/TiO2]]、[[../entities/SiO2]]
   - 相关论文 [[../../raw/note/2019optical]]
+
 ## 📊 关键图表
   - ![图1 测量系统框图：输入-过程-输出](../../raw/figures/2019optical/fig_1_BJNL3G4F.png) -> [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：通用测量系统的三段式流程框图，从左到右依次为"输入（Input）→ 过程（Process）→ 输出（Output）"，对应传感器元件、信号处理单元与显示终端。

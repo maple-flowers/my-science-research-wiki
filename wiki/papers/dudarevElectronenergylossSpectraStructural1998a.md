@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/dudarevElectronenergylossSpectraStructural1998a]]
 projects: []
-concepts: [density-functional-theory, NiO, hubbard-u, mott-insulator, double-counting-correction, electron-energy-loss-spectroscopy, lsda-plus-u]
-entities: []
+concepts: [density-functional-theory, hubbard-u, mott-insulator, double-counting-correction, lsda-plus-u]
+entities: [electron-energy-loss-spectroscopy, NiO]
 methods: [dft, dft-plus-u]
 materials:
   - NiO
@@ -58,9 +58,16 @@ S. L. Dudarev, G. A. Botton, S. Y. Savrasov, C. J. Humphreys, A. P. Sutton et al
 用同一个有效 Hubbard U（6.2 eV）在 LSDA+U 框架下同时准确描述了 NiO 的氧 K 边 EELS 激发谱和基态结构稳定性参数（晶格常数、结合能、弹性模量），证明该方法能统一处理强关联过渡金属氧化物的光谱与结构性质。
 ## 🔗 Wiki 双链
 本文涉及且 wiki 中已存在的条目，用双链列出（存在才链）：
-  - 概念 [[../concepts/density-functional-theory]]、[[../concepts/lsda-plus-u|LSDA+U]]、[[../concepts/hubbard-u|Hubbard U]]、[[../concepts/mott-insulator|莫特绝缘体]]、[[../concepts/double-counting-correction|双计数修正]]、[[../concepts/electron-energy-loss-spectroscopy|电子能量损失谱（EELS）]]、[[../concepts/NiO|氧化镍（NiO）]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/lsda-plus-u|LSDA+U]]
+  - 概念 [[../concepts/hubbard-u|Hubbard U]]
+  - 概念 [[../concepts/mott-insulator|莫特绝缘体]]
+  - 概念 [[../concepts/double-counting-correction|双计数修正]]
+  - 实体 [[../entities/electron-energy-loss-spectroscopy|电子能量损失谱（EELS）]]
+  - 实体 [[../entities/NiO|氧化镍（NiO）]]
   - 年度 [[../write/1945-1999|1998]]
   - 相关论文 [[../../raw/note/dudarevElectronenergylossSpectraStructural1998a]]
+
 ## 📊 关键图表
 列出本文关键图
   - **图1**：
@@ -107,7 +114,7 @@ S. L. Dudarev, G. A. Botton, S. Y. Savrasov, C. J. Humphreys, A. P. Sutton et al
 文章按"问题提出（LSDA 对过渡金属氧化物失效）→ 方法构建（推导旋转不变 LSDA+U 泛函与单电子势）→ 双重验证（EELS 谱对比 + 总能量/结构参数计算）→ 机制解释（电荷密度差揭示共价键减弱）→ 结论"组织，论证链条清晰，光谱与结构两条证据线在同一 U 值下汇合。值得复用的术语：
   - **LSDA+U / DFT+U**（局域自旋密度近似加 U）
   - **Hubbard U / on-site Coulomb repulsion**（[[../concepts/hubbard-u|Hubbard U]] / 在位库仑排斥）
-  - **EELS ([[../concepts/electron-energy-loss-spectroscopy|Electron Energy-Loss Spectroscopy]])**（电子能量损失谱）
+  - **EELS ([[../entities/electron-energy-loss-spectroscopy|Electron Energy-Loss Spectroscopy]])**（电子能量损失谱）
   - [[../concepts/mott-insulator|**Mott insulator**]]（莫特绝缘体）
   - **rotational invariance**（旋转不变性）
   - [[../concepts/double-counting-correction|**double counting correction**]]（双计数修正）

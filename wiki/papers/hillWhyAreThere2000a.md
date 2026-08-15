@@ -90,6 +90,7 @@ Nicola A. Hill，2000，*The Journal of Physical Chemistry B* 104(29), 6694-6709
   - 年度 [[../write/2000-2004|2000]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/hillWhyAreThere2000a]]
+
 ## 📊 关键图表
   - ![图1 顺磁/铁磁/反铁磁磁偶极子排列](../../raw/figures/hillWhyAreThere2000a/fig_1_IBXL696E.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - **图示描述**：示意三种基本磁结构中原子磁偶极矩（小箭头）的排列方式，(a) 顺磁态方向随机，(b) 铁磁态全部平行排列，(c) 反铁磁态相邻偶极矩反向平行。

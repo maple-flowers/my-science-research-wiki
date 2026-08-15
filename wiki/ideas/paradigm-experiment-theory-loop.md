@@ -1,15 +1,19 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_0d83686d989d11f19467525400287e28
-    ReservedCode1: 8LbzOqWsNDNAUsbBKpjWzFGU+pBGw+dHkxxsSOU/m+UeQ5Pgfg0jIU4CReke8ta4nlbAbHkXKPtLl3wL7R6CO5ARbtfWU/yAxvS6n7HH0yQcy0BPHa936pRMYnvn279kC/EKWcK5KRg48n94ij3i+zuqc6OOjNTdV9hgBl0MD/HPxpJtwhnCuxC1Bok=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_0d83686d989d11f19467525400287e28
-    ReservedCode2: 8LbzOqWsNDNAUsbBKpjWzFGU+pBGw+dHkxxsSOU/m+UeQ5Pgfg0jIU4CReke8ta4nlbAbHkXKPtLl3wL7R6CO5ARbtfWU/yAxvS6n7HH0yQcy0BPHa936pRMYnvn279kC/EKWcK5KRg48n94ij3i+zuqc6OOjNTdV9hgBl0MD/HPxpJtwhnCuxC1Bok=
+tags: [paradigm, experiment, theory, characterization]
+title: 实验-理论闭环 / Experiment-Theory Closed Loop
+type: paradigm
+status: active
+paradigm_id: P06
+domain: [condensed-matter-physics, characterization, first-principles]
+core_question: 如何让实验证据与理论计算互相校验、逐轮收敛，直到某个物理机制被唯一确定？
+method_pipeline: 实验观测（STM/PFM/ARPES）→理论候选机制→计算可观测量→与实验对标→修正模型或补充实验
+related_concepts: [ferroelectricity, multiferroicity, charge-density-wave, sliding-ferroelectricity, ferroelasticity]
+related_entities: [In2Se3, NiI2]
+related_topics: [D02-multiferroic-materials, Z01-computational-materials-design]
+papers: [aminiAtomicscaleVisualizationMultiferroicity2024, nakataRobustChargedensityWave2021, xuTwodimensionalFerroelasticityVan2021, songEvidenceSinglelayerVan2022]
+updated: 2026-08
+entities: [ARPES, PFM, STM]
 ---
-
-
 
 # 实验-理论闭环 / Experiment-Theory Closed Loop
 
@@ -99,15 +103,14 @@ AIGC:
 - [[../concepts/charge-density-wave|电荷密度波]]
 - [[../concepts/sliding-ferroelectricity|滑移铁电]]
 - [[../concepts/ferroelasticity|铁弹性]]
-- [[../concepts/arpes|角分辨光电子能谱]]
-- [[../concepts/scanning-tunneling-microscopy|扫描隧道显微镜]]
-- [[../concepts/piezoresponse-force-microscopy|压电力显微镜]]
+- [[../entities/ARPES|角分辨光电子能谱]]
+- [[../entities/STM|扫描隧道显微镜]]
+- [[../entities/PFM|压电力显微镜]]
 - [[../entities/In2Se3|In₂Se₃]]
 - [[../entities/NiI2|NiI₂]]
-- [[../topics/多铁性材料|多铁性材料]]
-- [[../topics/材料模拟计算设计|材料模拟计算设计]]
+- [[../topics/D02-multiferroic-materials|多铁性材料]]
+- [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
 
 ## 📈 生命周期日志
 
 - **2026-08-15**: active — 提炼自 30 篇实验-理论闭环类论文（含原子级成像+DFT、原位表征+第一性原理等）。
-*（内容由AI生成，仅供参考）*

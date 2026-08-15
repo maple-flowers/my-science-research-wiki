@@ -80,12 +80,12 @@ Yingchao Wang, Xiaohe Miao, Paul A. Kempler, Jin-Hu Dou, Carl K. Brozek, Lei Sun
   - 概念 [[../concepts/through-space-charge-transport|空间电荷传输]]（载流子通过相邻分子轨道重叠而非共价键传输，受 π-堆积间距调制，对应本体系 c 轴 TTF 柱）
   - 概念 [[../concepts/coulombic-potential|库仑势]]（金属离子对配体/抗衡离子束缚强度的半定量指标，解释 Zn²⁺ 弱响应）
   - 概念 [[../concepts/extrinsic-charge-mobility|外禀电荷迁移率]]（受缺陷、陷阱、抗衡离子等外部因素调制的迁移率，为水屏蔽所增强）
+  - 实体 [[../entities/M2-TTFTB]]
+  - 实体 [[../entities/Zn2-TTFTB]]
   - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-6-humidity-sensor]]（核心相关：化学电阻式湿度传感、水对载流子陷阱的介电屏蔽）
   - 项目 [[../projects/project-4-ttf-molecular-calc]]（TTF 分子及其 π-堆积柱中的空间电荷传输、能带/迁移率计算的类比参考）
   - 相关论文 [[../../raw/note/wangScreeningEnabledChemiresistiveMoisture2025]]
-  - 实体 [[../entities/M2-TTFTB]]
-  - 实体 [[../entities/Zn2-TTFTB]]
 
 ## 🆕 新概念/实体建议
   - 实体 [[../entities/M2-TTFTB|M2-TTFTB]]：M₂(TTFTB)（TTFTB⁴⁻ = tetrathiafulvalene tetrabenzoate）同构导电 MOF 系列，沿 c 轴 π-堆积 TTF 柱，M = Mn²⁺/Co²⁺/Zn²⁺/Cd²⁺，本工作的模型体系；CCDC 2486213、2486218。
@@ -152,7 +152,7 @@ Yingchao Wang, Xiaohe Miao, Paul A. Kempler, Jin-Hu Dou, Carl K. Brozek, Lei Sun
 ## ✏️ 可写入 Wiki 的要点
   1. **模型体系**：M₂(TTFTB)（M = Mn²⁺, Co²⁺, Zn²⁺, Cd²⁺；TTFTB⁴⁻ = 四硫富瓦烯四苯甲酸酯）为同构微孔导电 MOF，沿晶体学 c 轴形成长程 π-堆积 TTF 柱，TTF 自氧化生成 TTF•+ 自由基（空穴）作为载流子；金属-羧酸链上部分金属离子配位水分子，孔道中存在 NO₃⁻/OH⁻/羧酸根缺陷等电荷平衡阴离子。
   2. **湿敏现象**：四种单晶两探针器件（0.1 V DC，沿 c 轴）在湿 N₂（100% RH）下电流显著高于干 N₂（<0.02% RH）。Mn/Co/Cd 体系动态开关比 >10³，Zn 体系 ~10²；平衡时间随循环次数增加而变长。稳态电导率：湿空气 (0.9–2)×10⁻⁴ S·cm⁻¹、干燥 <3×10⁻⁶ S·cm⁻¹（Mn/Co/Cd，开关比 ~10²）；Zn 湿空气 ~1×10⁻⁵、干燥 ~6×10⁻⁶，开关比 <2。
-  3. **纯电子传导判据**：所有器件 I-V 线性（−10 到 10 V，无赝电容迹象），Nyquist 图为完美半圆（RC 并联等效电路，无 Warburg 扩散元件）；DC 与 AC 电导率几乎相同；e-beam + [[../concepts/magnetron-sputtering|磁控溅射]]制备的致密 Pt 电极（质子阻塞）器件仍呈线性 I-V 与半圆 Nyquist，σ_DC≈σ_AC≈3.4×10⁻⁴ S·cm⁻¹（比碳浆/金线器件高约 30 倍，归因于小尺寸单晶质量更高）。
+  3. **纯电子传导判据**：所有器件 I-V 线性（−10 到 10 V，无赝电容迹象），Nyquist 图为完美半圆（RC 并联等效电路，无 Warburg 扩散元件）；DC 与 AC 电导率几乎相同；e-beam + [[../entities/magnetron-sputtering|磁控溅射]]制备的致密 Pt 电极（质子阻塞）器件仍呈线性 I-V 与半圆 Nyquist，σ_DC≈σ_AC≈3.4×10⁻⁴ S·cm⁻¹（比碳浆/金线器件高约 30 倍，归因于小尺寸单晶质量更高）。
   4. **排除质子/PCET**：10 V 恒压直流极化 2000 s 后，Zn₂(TTFTB) 电流仅降 ~1%，其他三种降 4–8%，远小于电导开关比；−5 到 5 V 阶梯电压计时电流测量未见离子迁移特有的瞬态电流。质子传导和质子-电子耦合传输对电导贡献可忽略。
   5. **排除 O₂ 与载流子浓度变化**：Zn₂(TTFTB) 的 CW-EPR（g∥=2.0002, g⊥=2.0060，接近自由电子 g_e=2.0023，证实为 TTF•+）在空气和真空中几乎不变；空气/有氧条件合成的晶体自由基浓度分别为 1.091×10¹⁷ 和 0.859×10¹⁷ mm⁻³，差异可忽略。Cd 体系已有同样结论。起作用的是 H₂O 而非 O₂。
   6. **排除本征迁移率变化**：原位 PXRD 显示抽真空使 (006) 峰向高角度移动，c 轴收缩、相邻 TTF 间最短 S···S 距离缩短约 0.1 Å（四种材料 S···S 距离仅 3.71–3.76 Å）。按能带计算，更短的 π-堆积距离应提高本征迁移率，但实验电导反而下降，证明电导增强不来自本征结构-迁移率通道。

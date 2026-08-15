@@ -1,15 +1,17 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_094d48ad989d11f19467525400287e28
-    ReservedCode1: pLyj7wXMKKJZX4//t7EoHEGgf1LNQBuAXza3zRqTDjPtJimbOMlIHJhXz/TvyNBIoHJTl7M2p7NUwsxY8SWCqkzp50bTJJdH1slAsqKR9VW7y5PyD1F0m3NUvRhOlF2HoSLSWhW//D0Un0fgNmjm1vGKBXhkrVvlweUQnTX0obnbPl3kWmBZg7FenSg=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_094d48ad989d11f19467525400287e28
-    ReservedCode2: pLyj7wXMKKJZX4//t7EoHEGgf1LNQBuAXza3zRqTDjPtJimbOMlIHJhXz/TvyNBIoHJTl7M2p7NUwsxY8SWCqkzp50bTJJdH1slAsqKR9VW7y5PyD1F0m3NUvRhOlF2HoSLSWhW//D0Un0fgNmjm1vGKBXhkrVvlweUQnTX0obnbPl3kWmBZg7FenSg=
+tags: [paradigm, high-throughput, data-driven, dft, multiferroic]
+title: 高通量筛选与数据驱动材料发现 / High-Throughput Screening & Data-Driven Discovery
+type: paradigm
+status: active
+paradigm_id: P02
+domain: [computational-physics, materials-informatics]
+core_question: 面对成千上万个候选材料，如何用统一判据批量计算并快速捞出最可能成功的少数几个？
+method_pipeline: 数据库构建→批量 DFT→统一判据过滤→精算复核（蒙特卡洛/剥离能）→候选清单
+related_concepts: [high-throughput-screening, density-functional-theory, multiferroicity, sliding-ferroelectricity]
+related_topics: [Z01-computational-materials-design, D02-multiferroic-materials]
+papers: [fengFerroelectricityMultiferroicityTwodimensional2020, zhongHighthroughputExfoliationMultiferroic2025, yanDecipheringStabilityTwodimensional2025, zhaoRealization2DMultiferroic2024]
+updated: 2026-08
 ---
-
-
 
 # 高通量筛选与数据驱动材料发现 / High-Throughput Screening & Data-Driven Discovery
 
@@ -71,10 +73,9 @@ AIGC:
 - [[../concepts/density-functional-theory|密度泛函理论]]
 - [[../concepts/multiferroicity|多铁性]]
 - [[../concepts/sliding-ferroelectricity|滑移铁电]]
-- [[../topics/材料模拟计算设计|材料模拟计算设计]]
-- [[../topics/多铁性材料|多铁性材料]]
+- [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
+- [[../topics/D02-multiferroic-materials|多铁性材料]]
 
 ## 📈 生命周期日志
 
 - **2026-08-15**: active — 提炼自 4 篇高通量筛选/数据驱动材料发现类论文。
-*（内容由AI生成，仅供参考）*

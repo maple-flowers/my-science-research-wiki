@@ -72,14 +72,22 @@ Hongjun Xiang，2020，National Science Review 7(12): 1844–1845，DOI 10.1093/
 ## 💡 一句话
 本文是向红军撰写的研究亮点评述，推介 Zhong 等人通过第一性原理计算预测的二维 CuCrX₂（X=S, Se）室温多铁材料——其铁电与铁磁居里温度均高于室温，且铁电极化翻转可驱动净磁矩 180° 反转，为"电写磁读"存储提供新范式。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2d-materials]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/ferromagnetism|铁磁性]]、[[../concepts/interlayer-magnetic-coupling|层间磁耦合]]、[[../concepts/electric-write-magnetic-read|电写磁读]]、[[../concepts/curie-temperature|居里温度]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/ferroelectricity|铁电性]]
+  - 概念 [[../concepts/ferromagnetism|铁磁性]]
+  - 概念 [[../concepts/interlayer-magnetic-coupling|层间磁耦合]]
+  - 概念 [[../concepts/electric-write-magnetic-read|电写磁读]]
+  - 概念 [[../concepts/curie-temperature|居里温度]]
   - 实体 [[../entities/CuCrSe2|CuCrSe₂]]
+  - 实体 [[../entities/CuCrS2]]
   - 图表 [[../figures/crystal-structures]]
   - 年度 [[../write/2020-2024|2020]]
-  - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
-  - 实体 [[../entities/CuCrS2]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/xiangTwodimensionalRoomTemperature2020]]
-  - 实体 [[../entities/CuCrSe2]]
 
 ## 🆕 新概念/实体建议
   - [[../concepts/ferroelectricity|ferroelectricity]]（铁电性）：自发极化可在外电场下反转的有序态，wiki 中尚无独立条目，仅有 polarization-switching、sliding-ferroelectricity 等子条目。

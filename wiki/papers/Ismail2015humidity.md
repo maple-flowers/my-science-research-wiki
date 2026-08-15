@@ -94,15 +94,35 @@ A.S. Ismail, M.H. Mamat, Mohamad Rusop et al.，2015，*Applied Mechanics and Ma
 本文是一篇面向初学者的短篇综述，系统梳理了纳米结构 ZnO 作为湿度敏感材料的核心机理（水分子"施主效应"调制耗尽层电阻）、四种典型纳米形貌（团簇/棒/片/线）、Sn/Al 掺杂的利弊权衡以及四种金属电极构型（叉指/迷宫/城堡/圆形），并指出迷宫式电极在电容式湿度传感器中灵敏度最高。
 
 ## 🔗 Wiki 双链
-  - 概念：[[../concepts/humidity-sensing-mechanism|湿度传感机理]]、[[../concepts/donor-effect|施主效应]]、[[../concepts/depletion-layer|耗尽层]]、[[../concepts/hysteresis|迟滞]]、[[../concepts/adsorption-desorption-hysteresis|吸附/解吸迟滞]]、[[../concepts/sol-gel-method|溶胶-凝胶法]]、[[../concepts/sensor-electrode-configuration|传感器电极构型]]、[[../concepts/mesoporous-metal-oxide|介孔金属氧化物]]
-  - 实体：[[../entities/ZnO|ZnO（氧化锌）]]、[[../entities/QCM|QCM（石英晶体微天平）]]、[[../entities/labyrinth-electrode|迷宫式电极]]
+  - 概念 [[../concepts/humidity-sensing-mechanism|湿度传感机理]]
+  - 概念 [[../concepts/donor-effect|施主效应]]
+  - 概念 [[../concepts/depletion-layer|耗尽层]]
+  - 概念 [[../concepts/hysteresis|迟滞]]
+  - 概念 [[../concepts/adsorption-desorption-hysteresis|吸附/解吸迟滞]]
+  - 概念 [[../concepts/sol-gel-method|溶胶-凝胶法]]
+  - 概念 [[../concepts/sensor-electrode-configuration|传感器电极构型]]
+  - 概念 [[../concepts/mesoporous-metal-oxide|介孔金属氧化物]]
+  - 概念 [[../concepts/capacitive-sensor]]
+  - 概念 [[../concepts/nanostructured-metal-oxide]]
+  - 概念 [[../concepts/band-gap]]
+  - 概念 [[../concepts/resistive-sensor]]
+  - 概念 [[../concepts/adsorption-desorption]]
+  - 实体 [[../entities/ZnO|ZnO（氧化锌）]]
+  - 实体 [[../entities/QCM|QCM（石英晶体微天平）]]
+  - 实体 [[../entities/labyrinth-electrode|迷宫式电极]]
+  - 实体 [[../entities/SnO2]]
+  - 实体 [[../entities/interdigitated-electrode]]
+  - 实体 [[../entities/castellated-electrode]]
+  - 实体 [[../entities/circle-electrode]]
+  - 实体 [[../entities/Al-doped-ZnO]]
+  - 实体 [[../entities/Ga-doped-ZnO]]
+  - 实体 [[../entities/Sn-doped-ZnO]]
+  - 实体 [[../entities/TiO2]]
   - 图表 [[../figures/electronic-devices]]（电极构型与器件设计可归入此类）
   - 图表 [[../figures/crystal-structures]]（纳米棒/纳米线/纳米片等纳米形貌示意）
   - 图表 [[../figures/experimental-setups]]（四类金属接触电极图案示意）
   - 年度 [[../write/2015-2019|2015]]
   - 项目 [[../projects/project-6-humidity-sensor]]
-  - 概念 [[../concepts/capacitive-sensor]]、[[../concepts/nanostructured-metal-oxide]]、[[../concepts/band-gap]]、[[../concepts/resistive-sensor]]、[[../concepts/adsorption-desorption]]
-  - 实体 [[../entities/SnO2]]、[[../entities/interdigitated-electrode]]、[[../entities/castellated-electrode]]、[[../entities/circle-electrode]]、[[../entities/Al-doped-ZnO]]、[[../entities/Ga-doped-ZnO]]、[[../entities/Sn-doped-ZnO]]、[[../entities/TiO2]]
   - 相关论文 [[../../raw/note/Ismail2015humidity]]
 
 ## 📊 关键图表

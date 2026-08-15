@@ -48,10 +48,14 @@ W Forner，1993，*Journal of Physics: Condensed Matter* 5(7): 823–840，DOI: 
 ## 💡 一句话
 通过数值模拟验证并界定了 Scott "单链以 3 倍质量/3 倍力常数等效三链" 猜想在 |D₂⟩ 与 |D₁⟩ 两种拟设态下的适用范围，并用三链有限温模拟证明：只要氢键力常数 W > 30–40 N/m，达维多夫孤子即可在 300 K 生理温度下稳定存在。
 ## 🔗 Wiki 双链
+  - 概念 [[../concepts/self-trapping]]
+  - 概念 [[../concepts/davydov-soliton]]
+  - 概念 [[../concepts/interchain-coupling]]
+  - 概念 [[../concepts/exciton-phonon-coupling]]
   - 年度 [[../write/1945-1999|1993]]
-  - 概念 [[../concepts/self-trapping]]、[[../concepts/davydov-soliton]]、[[../concepts/interchain-coupling]]、[[../concepts/exciton-phonon-coupling]]
   - 相关论文 [[../../raw/note/fornerQuantumTemperatureEffects1993]]
   - （本文研究对象为 α-螺旋蛋白质中的达维多夫孤子，与 wiki 现有 2D 材料/多铁/铁电/CDW 等概念实体无直接交集，故不强行双链）
+
 ## 🆕 新概念/实体建议
   - [[../concepts/davydov-soliton|davydov-soliton]]（达维多夫孤子）：酰胺-I 振动激发与氢键链声学声子耦合形成的局域化、无损耗传播的能量包，用于解释蛋白质内无耗散能量传输
   - [[../concepts/exciton-phonon-coupling|exciton-phonon-coupling]]（激子-声子耦合）：振子激发引发晶格畸变、畸变反过来局域激发的反馈机制，是孤子/极化子/CDW 等现象的共同物理基础

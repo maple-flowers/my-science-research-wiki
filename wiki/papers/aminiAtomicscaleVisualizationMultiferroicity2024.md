@@ -134,13 +134,39 @@ Amini, Fumega, González-Herrero, Vaňo, Kezilebieke, Lado, Liljeroth et al.，2
 ## 💡 一句话
 用低温 STM 结合非共线 DFT，首次在原子尺度上看到单层 NiI₂ 中由自旋螺旋 + 强 SOC 诱导的第 II 类多铁序（周期为磁螺旋一半的电极化条纹），并通过针尖电压脉冲直接移动多铁畴壁，证明磁电耦合。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/2D-materials]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/moire-superlattice]]、[[../concepts/topological-defects]]、[[../concepts/type-ii-multiferroicity]]、[[../concepts/spin-spiral]]、[[../concepts/band-bending]]、[[../concepts/ferroelectricity]]、[[../concepts/dzyaloshinskii-moriya-interaction]]、[[../concepts/scanning-tunneling-microscopy]]
-  - 实体 [[../entities/SnTe]]（作为声子驱动铁电体的对照，其 STM 能带弯曲与畴壁操控先例）、[[../entities/h-BN]]（衬底对照之一）、[[../entities/BiFeO3]]（经典多铁体背景）、[[../concepts/domain-wall]]、[[../entities/VASP]]（note 关联文献中引用，但本文实际使用 Elk）、[[../entities/NiI2]]（本文核心二维第 II 类多铁体系）、[[../entities/HOPG]]（MBE 生长衬底）、[[../entities/Elk]]（全电子全势 LAPW 第一性原理代码）
-  - 图表 [[../figures/electronic-bands]]、[[../concepts/domain-wall]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking|多铁与磁电异质结]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/spin-orbit-coupling]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/moire-superlattice]]
+  - 概念 [[../concepts/topological-defects]]
+  - 概念 [[../concepts/type-ii-multiferroicity]]
+  - 概念 [[../concepts/spin-spiral]]
+  - 概念 [[../concepts/band-bending]]
+  - 概念 [[../concepts/ferroelectricity]]
+  - 概念 [[../concepts/dzyaloshinskii-moriya-interaction]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/STM]]
+  - 实体 [[../entities/SnTe]]（作为声子驱动铁电体的对照，其 STM 能带弯曲与畴壁操控先例）、
+  - 实体 [[../entities/h-BN]]（衬底对照之一）、
+  - 实体 [[../entities/BiFeO3]]（经典多铁体背景）、
+  - 实体 [[../entities/VASP]]（note 关联文献中引用，但本文实际使用 Elk）、
+  - 实体 [[../entities/NiI2]]（本文核心二维第 II 类多铁体系）、
+  - 实体 [[../entities/HOPG]]（MBE 生长衬底）、
+  - 实体 [[../entities/Elk]]（全电子全势 LAPW 第一性原理代码）
+  - 图表 [[../figures/electronic-bands]]
+  - 图表 [[../figures/mathematical-models]]
+  - 图表 [[../figures/heterostructures-stacking|多铁与磁电异质结]]
   - 年度 [[../write/2020-2024]]
-  - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
-  - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
+  - 主题 [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
   - 相关论文 [[../../raw/note/aminiAtomicscaleVisualizationMultiferroicity2024]]
+
 ## 🆕 新概念/实体建议
   - （可选）[[../concepts/kitaev-interaction|kitaev-interaction]]：文中讨论 q 矢量偏离 ΓK 线时提到的竞争磁相互作用之一（另一项 Dzyaloshinskii–Moriya 已建条目 [[../concepts/dzyaloshinskii-moriya-interaction]]），可在磁学概念扩充时建立。
 ## 📊 关键图表

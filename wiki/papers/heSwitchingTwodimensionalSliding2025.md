@@ -83,7 +83,7 @@ Ri He, Hua Wang, Fenglin Deng, Yuxiang Gao, Bingwen Zhang, Yubai Shi, Run-Wei Li
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/sliding-ferroelectricity]]
   - 概念 [[../concepts/polarization-switching]]
-  - 概念 [[../concepts/2D-materials]]
+  - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/machine-learning-potential]]
   - 概念 [[../concepts/strain-engineering]]
   - 概念 [[../concepts/ferroelasticity]]
@@ -93,21 +93,21 @@ Ri He, Hua Wang, Fenglin Deng, Yuxiang Gao, Bingwen Zhang, Yubai Shi, Run-Wei Li
   - 概念 [[../concepts/bending-induced-kink|弯曲诱导扭结]]（本文核心新结构概念）
   - 概念 [[../concepts/slidetronics|滑移电子学 slidetronics]]
   - 概念 [[../concepts/sliding-phonon-mode|滑动声子模]]（滑动铁电翻转的软模基础）
-  - 概念 [[../entities/bilayer-graphene|双层石墨烯]]（非极性对照体系）
-  - 概念 [[../entities/MoS2|二硫化钼 MoS₂]]（3R-MoS₂滑动铁电体系）
+  - 概念 [[../concepts/domain-wall]]
   - 实体 [[../entities/h-BN]]
   - 实体 [[../entities/TMDs]]（3R-MoS₂）
-  - 实体 [[../concepts/domain-wall]]
   - 实体 [[../entities/In2Se3]]（文中作为传统挠曲电对照）
   - 实体 [[../entities/WTe2]]（背景中提及滑动铁电实验体系）
-  - 实体 [[../entities/VASP]]、[[../entities/Wannier90]]（极化计算方法背景）
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/Wannier90]]（极化计算方法背景）
   - 实体 [[../entities/bilayer-graphene|双层石墨烯]]（非极性二维体系，验证机制不依赖铁电性）
-  - 图表 [[../concepts/domain-wall]]
-  - 图表 [[../figures/heterostructures-stacking]]
+  - 实体 [[../entities/MoS2|二硫化钼 MoS₂]]（3R-MoS₂滑动铁电体系）
+  - 图表 [[../figures/domain-walls-structures|畴结构与畴壁]]
   - 图表 [[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]
   - 图表 [[../figures/mathematical-models]]（能量竞争模型公式1-3）
   - 年度 [[../write/2025-2029]]
   - 相关论文 [[../../raw/note/heSwitchingTwodimensionalSliding2025]]
+
 ## 📊 关键图表
   - ![图1 双层h-BN在不同初始弯曲角θ下弛豫后的原子结构：θ<12°恢复平面，12°<θ<62°形成31°单扭结，θ>62°形成31°+57°双扭结](../../raw/figures/heSwitchingTwodimensionalSliding2025/fig_1_HAQT3EAV.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]
   - **图示描述**：图1以侧视原子结构展示双层 h-BN 从平面 AB 堆叠出发，沿 x 轴人为施加初始弯曲角 θ 后再做全原子弛豫得到的最终构型；(a) 为理想圆弧示意，(b)–(d) 分别对应小、中、大三种 θ 下弛豫后的平面、单扭结和双扭结形态。

@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/PChandra2011mechanoluminescence]]
 projects: [project-3]
-concepts: [2D-materials, strain-engineering, elastico-mechanoluminescence, mechanoluminescence, ZnS-Mn, triboluminescence, SrAl2O4-Eu, piezoelectric-detrapping-model, trap-depth-electron-detrapping]
-entities: []
+concepts: [2D-materials, strain-engineering, elastico-mechanoluminescence, mechanoluminescence, triboluminescence, piezoelectric-detrapping-model, trap-depth-electron-detrapping]
+entities: [SrAl2O4-Eu, ZnS-Mn]
 methods: [afm-pfm, tem, xrd]
 materials:
   - ZnS-Mn
@@ -69,8 +69,8 @@ B. P. Chandra（单一作者，Disha Academy of Research and Education / Ashoka 
   - 概念 [[../concepts/triboluminescence|摩擦发光 (TML)]]
   - 概念 [[../concepts/piezoelectric-detrapping-model|压电诱导电子脱陷模型]]
   - 概念 [[../concepts/trap-depth-electron-detrapping|陷阱深度与电子脱陷]]
-  - 概念 [[../concepts/ZnS-Mn|掺锰硫化锌 ZnS:Mn]]
-  - 概念 [[../concepts/SrAl2O4-Eu|掺铕铝酸锶 SrAl₂O₄:Eu]]
+  - 实体 [[../entities/ZnS-Mn|掺锰硫化锌 ZnS:Mn]]
+  - 实体 [[../entities/SrAl2O4-Eu|掺铕铝酸锶 SrAl₂O₄:Eu]]
   - 年度 [[../write/2010-2014|2011]]
   - 项目 [[../projects/project-3-mechanoluminescence-nn]]（机械发光神经网络项目，直接相关）
   - 相关论文 [[../../raw/note/PChandra2011mechanoluminescence]]

@@ -13,7 +13,7 @@ year_read: 2026
 original_note:: [[../../raw/note/fiebigEvolutionMultiferroics2016]]
 projects: []
 concepts: [ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, topological-defects, domain-wall]
-entities: [BiFeO3, HoMnO3]
+entities: [BiFeO3, HoMnO3, TbMnO3]
 methods: [xrd]
 materials: [BiFeO3, HoMnO3, domain-wall]
 figures: [domain-walls-structures, electronic-bands-cdw-transport, mathematical-models-magnetoelectric]
@@ -94,23 +94,22 @@ Manfred Fiebig、Thomas Lottermoser、Dennis Meier、Morgan Trassin（ETH Züric
   - 概念 [[../concepts/magnetic-monopole-quasiparticle|磁单极准粒子]]
   - 概念 [[../concepts/domain-wall-engineering|畴壁工程]]
   - 概念 [[../concepts/type-i-type-ii-multiferroics|I类/II类多铁性分类]]
-  - 概念 [[../entities/BaTiO3|BaTiO₃]]
-  - 概念 [[../concepts/TbMnO3|TbMnO₃]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/TbMnO3|TbMnO₃]]
   - 实体 [[../entities/BiFeO3]]
   - 实体 [[../entities/HoMnO3]]
-  - 实体 [[../concepts/domain-wall]]
   - 实体 [[../entities/BaTiO3|BaTiO₃]]
   - 实体 [[../entities/LuFe2O4|LuFe₂O₄]]
   - 实体 [[../entities/SrMnO3|SrMnO₃]]
-  - 图表 [[../concepts/domain-wall]]
-  - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/2015-2019]]
-  - 项目 [[../projects/project-2-mn-multiferroics]]
-  - 主题 [[多铁性材料]]
-  - 相关论文 [[../../raw/note/fiebigEvolutionMultiferroics2016]]
   - 实体 [[../entities/h-YMnO3]]
   - 实体 [[../entities/Cr2O3]]
   - 实体 [[../entities/CaMn7O12]]
+  - 图表 [[../figures/domain-walls-structures|畴结构与畴壁]]
+  - 图表 [[../figures/mathematical-models]]
+  - 年度 [[../write/2015-2019]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
+  - 相关论文 [[../../raw/note/fiebigEvolutionMultiferroics2016]]
 
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体：
@@ -171,7 +170,7 @@ project-2 Mn多铁 直接相关——本综述系统讨论了 h-RMnO₃、o-TbMn
   8. **[[../concepts/strain-engineering|应变工程]]的多重作用**：[[../concepts/epitaxial-strain|外延应变]]可诱导非铁性化合物出现[[../concepts/ferroic-order|铁性序]]——SrTiO₃ 中诱导极性序、EuTiO₃ 与 SrMnO₃ 中诱导极性与磁序共存、LuMnO₃ 中诱导[[../concepts/ferromagnetism|铁磁性]]；Ba 合金化块体 SrMnO₃ 通过 Ba²⁺ 大尺寸化学施压获得多铁性；铁电衬底还可在外加电压下于 ±0.1% 窗口内可逆调控应变。
   9. **畴壁作为功能单元**：BiFeO₃ 畴壁电导高于块体（Seidel 等，Nat. Mater. 2009）开启[[../concepts/domain-wall-engineering|畴壁工程]]；h-YMnO₃ 中 SHG 揭示铁电-反铁磁畴的耦合源于畴壁而非畴内；II类多铁中每个[[../concepts/ferroelectric-domain|铁电畴]]壁因对称性必然也是磁畴壁；但"非多铁单晶内部畴壁处出现多铁性"（图3d）尚未被观测到。
   10. **非平衡动力学被严重低估**：GaFeO₃ 中极性与磁序时间演化根本不同；CuO 光学激发皮秒内共格→非共格磁序转变；o-TbMnO₃ 太赫兹实验仅获约 4% 自旋偏转（远低于 180° 翻转）；BiFeO₃ 电场脉冲超快翻转存在争议；MnWO₄ 等磁致铁电体翻转可能固有缓慢；存储应用要求[[../concepts/order-parameter|序参量]]翻转进入皮秒量级，全光控制被视为有前途方向。
-  11. **对称性双破缺与新铁性序**：多铁性的许多奇特性质源于同时破坏空间反演与[[../concepts/time-reversal-symmetry|时间[[../concepts/inversion-symmetry|反演对称性]]]]；[[../concepts/ferrotoroidicity|铁涡旋性]]以[[../concepts/toroidal-moment|环形矩]] T=Σri×Si 为序参量，被提议为继铁电、铁磁、铁弹之后第四种初级铁性序，LiCoPO₄ 中实现了畴与环形场极化（环形场由互相垂直的电、磁场组合产生），LiFeSi₂O₆ 中证明环形矩可作为本征驱动序参量。
+  11. **对称性双破缺与新铁性序**：多铁性的许多奇特性质源于同时破坏空间反演与[[../concepts/time-reversal-symmetry|时间反演对称性]]；[[../concepts/ferrotoroidicity|铁涡旋性]]以[[../concepts/toroidal-moment|环形矩]] T=Σri×Si 为序参量，被提议为继铁电、铁磁、铁弹之后第四种初级铁性序，LiCoPO₄ 中实现了畴与环形场极化（环形场由互相垂直的电、磁场组合产生），LiFeSi₂O₆ 中证明环形矩可作为本征驱动序参量。
   12. **[[../concepts/electromagnon|电磁振子]]与NDD是对称性而非多铁性本身的产物**：电磁振子是打破反演对称的磁共振并伴随极化振荡，最早在 o-TbMnO₃/o-GdMnO₃ 中报道，且在 o-GdMnO₃ 中中可出现在多铁相之外；NDD（相反方向光透射不同）在 GaFeO₃ 中 Δα/α 达 1.6×10⁻³，Ba₂CoGe₂O₇ 太赫兹波段达 Δα/α=1 的巨NDD，Cr₂O₃ 中反铁磁克尔/法拉第类似效应是最早NDD实例；两者在非多铁材料中也可出现。
   13. **对邻近领域的影响**：恢复了对位移型之外多种铁电机制（尤其是非本征铁电）的重视；推动氧化物薄膜外延生长与氧化物电子学；改进表征技术至飞米级 XRD、0.1 nC/cm² 热释电、SHG 磁电畴成像、太赫兹电磁振子谱；并进入高能物理（EuTiO₃ 中 Ba 取代抑制磁序以探测电子永久电偶极矩）与宇宙学（h-RMnO₃ 铁电畴交汇线分布与宇宙弦形成标度律类比）。
   14. **未来趋势与竞争**：薄膜异质结最具应用潜力，方向包括磁电[[../concepts/memristor|忆阻器]]、[[../concepts/layer-selective-switching|层选择性翻转]]构造"整体对称性可调"多层膜（如 PZT–LSMO–PZT）、电场控制赛道内存中的畴壁、多铁绝缘体中[[../concepts/skyrmion|斯格明子]]的电场（而非电流）操控；多铁器件需与自旋转移矩（STT）与自旋轨道矩（SOT）等电流控磁技术在速度、功耗、可靠性、集成密度上竞争。

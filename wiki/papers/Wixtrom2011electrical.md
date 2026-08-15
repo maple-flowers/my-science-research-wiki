@@ -11,8 +11,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Wixtrom2011electrical]]
 projects: [project-4, project-2]
-concepts: [charge-transfer-salt, polymorphism, mechanochemical-synthesis, neutral-ionic-transition, mixed-stack, cyclic-voltammetry]
-entities: [TTF-CA, TTF, chloranil, ITO]
+concepts: [charge-transfer-salt, polymorphism, mechanochemical-synthesis, neutral-ionic-transition, mixed-stack]
+entities: [chloranil, cyclic-voltammetry, ITO, TTF, TTF-CA]
 methods: [mechanochemical-synthesis, pxrd, cv-electrochemistry]
 materials: [TTF-CA]
 figures: [crystal-structures-bulk, crystal-structures-xrd-phases, electronic-devices-memory-transistors]
@@ -71,14 +71,21 @@ Alex Wixtrom、Jessica Buhler、Silvina Pagola、Tarek M. Abdel-Fattah，2011，
 ## 💡 一句话
 用无溶剂机械化学法首次合成出 TTF-CA 电荷转移盐的黑色三斜新多晶型，解析其混合堆砌晶体结构，并通过循环伏安发现压片几乎无电容、与 ITO 存在接触电阻。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/charge-transfer-salt|电荷转移盐]]、[[../concepts/polymorphism|多晶型]]、[[../concepts/mechanochemical-synthesis|机械化学合成]]、[[../concepts/neutral-ionic-transition|中性-离子相变]]、[[../concepts/mixed-stack|混合堆砌]]
-  - 实体 [[../entities/TTF-CA|TTF-CA]]、[[../entities/TTF|TTF（四硫富瓦烯）]]、[[../entities/ITO|ITO（氧化铟锡）]]
+  - 概念 [[../concepts/charge-transfer-salt|电荷转移盐]]
+  - 概念 [[../concepts/polymorphism|多晶型]]
+  - 概念 [[../concepts/mechanochemical-synthesis|机械化学合成]]
+  - 概念 [[../concepts/neutral-ionic-transition|中性-离子相变]]
+  - 概念 [[../concepts/mixed-stack|混合堆砌]]
+  - 实体 [[../entities/cyclic-voltammetry]]
+  - 实体 [[../entities/TTF-CA|TTF-CA]]
+  - 实体 [[../entities/TTF|TTF（四硫富瓦烯）]]
+  - 实体 [[../entities/ITO|ITO（氧化铟锡）]]
+  - 实体 [[../entities/chloranil]]
   - 图表 [[../figures/crystal-structures]]
   - 年度 [[../write/2010-2014|2011]]
   - 项目 [[../projects/project-4-ttf-molecular-calc]]
-  - 概念 [[../concepts/cyclic-voltammetry]]
-  - 实体 [[../entities/chloranil]]
   - 相关论文 [[../../raw/note/Wixtrom2011electrical]]
+
 ## 🆕 新概念/实体建议
   - [[../entities/chloranil|chloranil]]（实体，CA）：四氯苯醌，醌类强电子受体
 ## 📊 关键图表
@@ -114,7 +121,7 @@ Alex Wixtrom、Jessica Buhler、Silvina Pagola、Tarek M. Abdel-Fattah，2011，
   - 机械化学合成（[[../concepts/mechanochemical-synthesis|mechanochemical synthesis]]）
   - 中性-离子相变（[[../concepts/neutral-ionic-transition|neutral-ionic transition]], NIT）
   - 混合堆砌（[[../concepts/mixed-stack|mixed stack]]）
-  - 循环伏安法（[[../concepts/cyclic-voltammetry|cyclic voltammetry]], CV）
+  - 循环伏安法（[[../entities/cyclic-voltammetry|cyclic voltammetry]], CV）
   - 接触电阻（[[../concepts/contact-resistance|contact resistance]]）
   - 集流体（[[../entities/current-collector|current collector]]）
   - [[../concepts/polymorphism|polymorphism]]

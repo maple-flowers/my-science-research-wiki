@@ -99,7 +99,7 @@ Yuan Yan, Kaiyun Chen, Minglei Sun, Minglei Sun, Yinchang Ma, Peiyao Wang, Junka
   - 图表 [[../figures/vibrational-spectra]]
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2025-2029|2025]]
-  - 主题 [[../topics/材料模拟计算设计]]
+  - 主题 [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
   - 相关论文 [[../../raw/note/yanDecipheringStabilityTwodimensional2025]]
 
 ## 🆕 新概念/实体建议

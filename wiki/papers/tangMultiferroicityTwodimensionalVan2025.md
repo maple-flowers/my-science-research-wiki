@@ -112,14 +112,12 @@ Zikun Tang, Yi Hu, Lukas Rogée, Duanzijing Liu, Shu Ping Lau et al.，2025，*C
   - 实体 [[../entities/SnSe]]
   - 实体 [[../entities/VCl3]]
   - 图表 [[../figures/crystal-structures]]
-  - 图表 [[../figures/heterostructures-stacking]]
   - 图表 [[../figures/heterostructures-stacking|多铁与磁电异质结 (Multiferroic & Magnetoelectric Heterostructures)]]
-  - 图表 [[../concepts/domain-wall]]
   - 图表 [[../figures/optical-spectra]]（SHG/PFM/MOKE 表征）
   - 图表 [[../figures/experimental-setups]]
   - 年度 [[../write/2025-2029|2025]]
-  - 主题 [[../topics/多铁性材料]]
-  - 主题 [[../topics/材料模拟计算设计]]
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
+  - 主题 [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
   - 相关论文 [[../../raw/note/tangMultiferroicityTwodimensionalVan2025]]
 
 ## 🆕 新概念/实体建议

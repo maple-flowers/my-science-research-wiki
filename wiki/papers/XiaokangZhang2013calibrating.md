@@ -85,13 +85,28 @@ Xiaokang Zhang、Zhuoyong Deng、Hanlang Xu，2013，Chinese Optics Letters，10
 制备了一种琼脂糖涂覆的双层包层单模光纤（DCSMF）湿度传感器，首次系统研究其在 25–34 °C、30–100% RH 范围内的温-湿耦合响应，提出基于查找表/校准矩阵的工程化校准方法，并成功埋入新拌混凝土实现 33 小时内部相对湿度与温度的实时原位监测。
 
 ## 🔗 Wiki 双链
-  - 概念：[[../concepts/relative-humidity|相对湿度]]、[[../concepts/evanescent-field|倏逝场]]、[[../concepts/evanescent-field-sensing|倏逝场传感]]、[[../concepts/cross-sensitivity|交叉敏感]]、[[../concepts/temperature-compensation|温度补偿]]、[[../concepts/hydrogel-swelling|水凝胶溶胀]]、[[../concepts/lookup-table-calibration|查找表校准]]
-  - 实体：[[../entities/agarose|琼脂糖]]、[[../entities/dcsmf|DCSMF 双层包层单模光纤]]、[[../entities/pmma-pvdf-blend|PMMA/PVDF 共混聚合物]]
-  - 图表 [[../figures/experimental-setups]]（图1 传感器实物/封装）、[[../figures/mathematical-models]]（图3 701×91 校准矩阵）
+  - 概念 [[../concepts/relative-humidity|相对湿度]]
+  - 概念 [[../concepts/evanescent-field|倏逝场]]
+  - 概念 [[../concepts/evanescent-field-sensing|倏逝场传感]]
+  - 概念 [[../concepts/cross-sensitivity|交叉敏感]]
+  - 概念 [[../concepts/temperature-compensation|温度补偿]]
+  - 概念 [[../concepts/hydrogel-swelling|水凝胶溶胀]]
+  - 概念 [[../concepts/lookup-table-calibration|查找表校准]]
+  - 概念 [[../concepts/optical-power-variation]]
+  - 概念 [[../concepts/refractive-index]]
+  - 实体 [[../entities/agarose|琼脂糖]]
+  - 实体 [[../entities/dcsmf|DCSMF 双层包层单模光纤]]
+  - 实体 [[../entities/pmma-pvdf-blend|PMMA/PVDF 共混聚合物]]
+  - 实体 [[../entities/optical-power-meter]]
+  - 实体 [[../entities/climatic-chamber]]
+  - 实体 [[../entities/PMMA]]
+  - 实体 [[../entities/pvdf]]
+  - 实体 [[../entities/dfb-ld]]
+  - 实体 [[../entities/corning-smf-28e]]
+  - 图表 [[../figures/experimental-setups]]（图1 传感器实物/封装）、
+  - 图表 [[../figures/mathematical-models]]（图3 701×91 校准矩阵）
   - 年度 [[../write/2010-2014|2013]]
   - 项目 [[../projects/project-6-humidity-sensor]]
-  - 概念 [[../concepts/optical-power-variation]]、[[../concepts/refractive-index]]
-  - 实体 [[../entities/optical-power-meter]]、[[../entities/climatic-chamber]]、[[../entities/PMMA]]、[[../entities/pvdf]]、[[../entities/dfb-ld]]、[[../entities/corning-smf-28e]]
   - 相关论文 [[../../raw/note/XiaokangZhang2013calibrating]]
 
 ## 🆕 新概念/实体建议

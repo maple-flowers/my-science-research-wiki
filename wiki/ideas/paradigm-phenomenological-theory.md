@@ -1,15 +1,18 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_0c7098ed989d11f1a98a525400f8a581
-    ReservedCode1: NZYaCCXgrRd4pxiwk5XIHcWMKRINWaBD+XAplGuVLO2w+KAy8lNM6D3iC8sYdkxWVjqfH6QAwY0idPS9KIw+Z4mvfB3gcUMiWVKt0rKhpiN7sXrjvB+CgLe86x1klRVWqHzn91hRGOMM32NYRU1kLNL/6fHGCRi8B77Wwxm5GNzYXy/EgzaM1EiXQbk=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_0c7098ed989d11f1a98a525400f8a581
-    ReservedCode2: NZYaCCXgrRd4pxiwk5XIHcWMKRINWaBD+XAplGuVLO2w+KAy8lNM6D3iC8sYdkxWVjqfH6QAwY0idPS9KIw+Z4mvfB3gcUMiWVKt0rKhpiN7sXrjvB+CgLe86x1klRVWqHzn91hRGOMM32NYRU1kLNL/6fHGCRi8B77Wwxm5GNzYXy/EgzaM1EiXQbk=
+tags: [paradigm, theory, phenomenology, landau-theory]
+title: 唯象与解析理论建模 / Phenomenological & Analytical Theory
+type: paradigm
+status: active
+paradigm_id: P05
+domain: [condensed-matter-theory, phase-transitions, ferroelectricity]
+core_question: 能否绕过原子细节，仅凭序参量与对称性写出简洁方程，就抓住相变与畴结构的普适规律并预言可测现象？
+method_pipeline: 对称性分析→序参量选取→自由能/有效哈密顿量构建→解析求解或蒙特卡洛→标度律与可测预言
+related_concepts: [multiferroicity, ferroelectricity, charge-density-wave, skyrmion, domain-wall, superconductivity]
+related_entities: [BiFeO3]
+related_topics: [D02-multiferroic-materials, Z01-computational-materials-design]
+papers: [mostovoyMultiferroicsDifferentRoutes2024, prosandeevKittelLawInBiFeO3Ultrathin2010, wuSlidingFerroelectricity2D2021a, nahasFrustrationSelfOrderingTopological2016]
+updated: 2026-08
 ---
-
-
 
 # 唯象与解析理论建模 / Phenomenological & Analytical Theory
 
@@ -92,10 +95,9 @@ AIGC:
 - [[../concepts/domain-wall|畴壁]]
 - [[../concepts/superconductivity|超导电性]]
 - [[../entities/BiFeO3|BiFeO₃]]
-- [[../topics/多铁性材料|多铁性材料]]
-- [[../topics/材料模拟计算设计|材料模拟计算设计]]
+- [[../topics/D02-multiferroic-materials|多铁性材料]]
+- [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
 
 ## 📈 生命周期日志
 
 - **2026-08-15**: active — 提炼自 21 篇唯象与解析理论建模类论文（多铁/CDW/超导/Kittel定律等）。
-*（内容由AI生成，仅供参考）*

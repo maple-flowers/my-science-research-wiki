@@ -1,15 +1,18 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_10be604e989d11f19467525400287e28
-    ReservedCode1: JyQN28Qd3/5Hgo/X5/B5ICuKwU8gwW5FwM1IS0M6ZM3qqWWzhVR6dWR4O7r/2HkQ2ehdh8Yt2IseljxP7lDdiSVQN2slHFoTxhH5EAbg+q0wZ1ow7r1DTtGh2MJTkc0TeZm/gLwLybswH4g8w/o0nAtrcrkfTWWBwVKgHkKt8IKNaZmVOVuacVDXeMY=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_10be604e989d11f19467525400287e28
-    ReservedCode2: JyQN28Qd3/5Hgo/X5/B5ICuKwU8gwW5FwM1IS0M6ZM3qqWWzhVR6dWR4O7r/2HkQ2ehdh8Yt2IseljxP7lDdiSVQN2slHFoTxhH5EAbg+q0wZ1ow7r1DTtGh2MJTkc0TeZm/gLwLybswH4g8w/o0nAtrcrkfTWWBwVKgHkKt8IKNaZmVOVuacVDXeMY=
+tags: [paradigm, review, synthesis, field-framework]
+title: 综述与领域框架构建 / Review & Field-Framework Synthesis
+type: paradigm
+status: active
+paradigm_id: P09
+domain: [condensed-matter-physics, scientific-synthesis]
+core_question: 如何把一个方向上数十年、上百篇论文的结论收敛成统一分类框架，并标出已走通的路与尚未开垦的空白？
+method_pipeline: 文献穷举→按机制/材料/方法分类→提炼统一判据与分类框架→梳理共识与分歧→标注开放问题
+related_concepts: [ferroelectricity, multiferroicity, charge-density-wave, sliding-ferroelectricity, topological-insulator, superconductivity, polar-metal]
+related_entities: [In2Se3, MoS2, MAX-phase]
+related_topics: [D02-multiferroic-materials, Z01-computational-materials-design]
+papers: [fiebigEvolutionMultiferroics2016, guoAdvancesTwodimensionalFerroelectric2025, chowdhuryReviewTheoreticalComputational, zhangEmergingFrontiersTwodimensional2025]
+updated: 2026-08
 ---
-
-
 
 # 综述与领域框架构建 / Review & Field-Framework Synthesis
 
@@ -105,10 +108,9 @@ AIGC:
 - [[../entities/In2Se3|In₂Se₃]]
 - [[../entities/MoS2|MoS₂]]
 - [[../entities/MAX-phase|MAX 相]]
-- [[../topics/多铁性材料|多铁性材料]]
-- [[../topics/材料模拟计算设计|材料模拟计算设计]]
+- [[../topics/D02-multiferroic-materials|多铁性材料]]
+- [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
 
 ## 📈 生命周期日志
 
 - **2026-08-15**: active — 提炼自 32 篇综述与领域框架构建类论文（多铁/二维铁电/应变工程/忆阻器等）。
-*（内容由AI生成，仅供参考）*

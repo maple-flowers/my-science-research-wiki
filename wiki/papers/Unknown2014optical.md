@@ -13,13 +13,13 @@ year_read: 2026
 original_note:: [[../../raw/note/Unknown2014optical]]
 projects: [project-6]
 concepts:
-  - fabry-perot-interferometer
   - fiber-optic-humidity-sensor
   - fringe-contrast
   - layer-by-layer-self-assembly
 entities:
   - PAH-PSS-multilayer
   - hollow-core-photonic-crystal-fiber
+  - fabry-perot-interferometer
 methods: [tem]
 materials:
   - PAH
@@ -66,8 +66,12 @@ Qingmei Sui, Mingshun Jiang*, Zhongwei Jin, Faye Zhang, Yuqiang Cao, Lei Jia（�
 首次用层层静电自组装（LbL）将 PAH/PSS 聚电解质纳米薄膜沉积在 SMF–HCPCF–SMF 夹心结构本征法布里-珀罗干涉仪（IFPI）端面，以反射光谱最大条纹对比度为解调量，实现 0.08 dB/%RH 灵敏度、5–90%RH 量程、上升 2 s/下降 6 s、且 20–100 °C 内波动 <0.01 dB 的温度不敏感光纤湿度传感器。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/fabry-perot-interferometer|法布里-珀罗干涉仪（F-P）]]、[[../concepts/fiber-optic-humidity-sensor|光纤湿度传感器]]、[[../concepts/fringe-contrast|干涉条纹对比度]]、[[../concepts/layer-by-layer-self-assembly|层层静电自组装（LbL）]]
-  - 实体 [[../entities/PAH-PSS-multilayer|PAH/PSS 聚电解质多层膜]]、[[../entities/hollow-core-photonic-crystal-fiber|空芯光子晶体光纤（HCPCF）]]
+  - 概念 [[../concepts/fiber-optic-humidity-sensor|光纤湿度传感器]]
+  - 概念 [[../concepts/fringe-contrast|干涉条纹对比度]]
+  - 概念 [[../concepts/layer-by-layer-self-assembly|层层静电自组装（LbL）]]
+  - 实体 [[../entities/fabry-perot-interferometer|法布里-珀罗干涉仪（F-P）]]
+  - 实体 [[../entities/PAH-PSS-multilayer|PAH/PSS 聚电解质多层膜]]
+  - 实体 [[../entities/hollow-core-photonic-crystal-fiber|空芯光子晶体光纤（HCPCF）]]
   - 图表 [[../figures/optical-spectra]]（反射干涉光谱、条纹对比度）
   - 图表 [[../figures/experimental-setups]]（湿度腔+MOI SM130 测试装置）
   - 年度 [[../write/2010-2014|2014]]

@@ -62,13 +62,21 @@ Lin Zhang，2019，*Progress in Natural Science: Materials International* 29(2):
 用温度依赖的 EAM 势对 19–2601 个原子的 Ti 团簇做分子动力学模拟，揭示表面原子主导的尺寸/温度依赖堆积模式转变（小团簇倾向二十面体、大团簇保持 HCP、高温下 HCP/BCC/Ih 共存），并把杜隆-珀蒂定律适用的临界直径定在约 3.0 nm。
 
 ## 🔗 Wiki 双链
-  - 概念：[[../concepts/additive-manufacturing|增材制造]]、[[../concepts/cluster-size-effect|团簇尺寸效应]]、[[../concepts/dulong-petit-law|杜隆-珀蒂定律]]、[[../concepts/embedded-atom-method|嵌入原子法]]、[[../concepts/icosahedral-packing|二十面体堆积]]、[[../concepts/molecular-dynamics|分子动力学]]、[[../concepts/pair-analysis|对分析]]、[[../concepts/sommerfeld-potential|索末菲势]]、[[../concepts/surface-premelting|表面预熔]]
-  - 实体：[[../entities/Ti|金属钛]]
+  - 概念 [[../concepts/additive-manufacturing|增材制造]]
+  - 概念 [[../concepts/cluster-size-effect|团簇尺寸效应]]
+  - 概念 [[../concepts/dulong-petit-law|杜隆-珀蒂定律]]
+  - 概念 [[../concepts/embedded-atom-method|嵌入原子法]]
+  - 概念 [[../concepts/icosahedral-packing|二十面体堆积]]
+  - 概念 [[../concepts/molecular-dynamics|分子动力学]]
+  - 概念 [[../concepts/pair-analysis|对分析]]
+  - 概念 [[../concepts/sommerfeld-potential|索末菲势]]
+  - 概念 [[../concepts/surface-premelting|表面预熔]]
+  - 实体 [[../entities/Ti|金属钛]]
   - 图表 [[../figures/crystal-structures]]（HCP/BCC/二十面体堆积模式与对分析指纹）
   - 图表 [[../figures/mathematical-models]]（EAM 总能量公式、Sommerfeld 插值势、惯性矩/形状因子、杜隆-珀蒂热容斜率）
   - 年度 [[../write/2015-2019|2019]]
+  - 主题 [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
   - 相关论文 [[../../raw/note/Zhang2019c]]
-  - （主题契合 [[../topics/材料模拟计算设计]]，关键词即 "Computational materials design"，但该条目不在本格式规定的双链类别内，特此备注）
 
 ## 📊 关键图表
 > raw/figures/Zhang2019c/ 仅有 manifest.json，未导出图片文件；以下按论文原图 Fig.1–Fig.7 逐一文字描述，不伪造图片路径。

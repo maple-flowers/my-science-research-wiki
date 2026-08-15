@@ -93,13 +93,31 @@ Fernando Gómez-Ortiz, Hugo Aramberri, Juan M. López, Pablo García-Fernández,
 ## 💡 一句话
 用第二性原理模拟首次在具有反向旋转极化涡旋畴壁的 (PbTiO₃)ₙ/(SrTiO₃)ₙ 超晶格中验证 Kittel 定律 ω²∝d，并揭示亚稳态通过界面涡旋-反涡旋对成核、拉长、合并与湮灭（缺陷复合）动态形成新畴的微观机制。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/topological-defects]]、[[../concepts/strain-engineering]]、[[../concepts/ferroelasticity]]、[[../concepts/polarization-switching]]、[[../concepts/kittel-law|Kittel定律]]、[[../concepts/polar-vortex|极性涡旋]]、[[../concepts/vortex-antivortex-pair|涡旋-反涡旋对]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/second-principles|第二性原理]]、[[../concepts/superlattice|超晶格]]、[[../concepts/anharmonic-effects|非谐效应]]、[[../concepts/polarization-waves|极化波]]、[[../concepts/topological-charge|拓扑荷]]、[[../entities/PHONOPY|PHONOPY]]
-  - 实体 [[../entities/BiFeO3]]、[[../concepts/domain-wall]]、[[../entities/PbTiO3|PbTiO₃]]、[[../entities/SrTiO3|SrTiO₃]]
-  - 图表 [[../concepts/domain-wall]]、[[../figures/crystal-structures]]
-  - 年度 [[../write/2020-2024]]
-  - 相关论文 [[../../raw/note/gomez-ortizKittelLawDomain2023]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/topological-defects]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/ferroelasticity]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/kittel-law|Kittel定律]]
+  - 概念 [[../concepts/polar-vortex|极性涡旋]]
+  - 概念 [[../concepts/vortex-antivortex-pair|涡旋-反涡旋对]]
+  - 概念 [[../concepts/depolarization-field|退极化场]]
+  - 概念 [[../concepts/second-principles|第二性原理]]
+  - 概念 [[../concepts/superlattice|超晶格]]
+  - 概念 [[../concepts/anharmonic-effects|非谐效应]]
+  - 概念 [[../concepts/polarization-waves|极化波]]
+  - 概念 [[../concepts/topological-charge|拓扑荷]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/PHONOPY|PHONOPY]]
+  - 实体 [[../entities/BiFeO3]]
+  - 实体 [[../entities/PbTiO3|PbTiO₃]]
+  - 实体 [[../entities/SrTiO3|SrTiO₃]]
   - 实体 [[../entities/SCALE-UP]]
   - 实体 [[../entities/PbTiO3-SrTiO3-superlattice]]
+  - 图表 [[../figures/domain-walls-structures|畴结构与畴壁]]
+  - 图表 [[../figures/crystal-structures]]
+  - 年度 [[../write/2020-2024]]
+  - 相关论文 [[../../raw/note/gomez-ortizKittelLawDomain2023]]
 
 ## 🆕 新概念/实体建议
   - 实体 [[../entities/PbTiO3-SrTiO3-superlattice|PbTiO3-SrTiO3-superlattice]]：钙钛矿铁电/顺电端元构成的超晶格复合相。
@@ -161,7 +179,7 @@ Fernando Gómez-Ortiz, Hugo Aramberri, Juan M. López, Pablo García-Fernández,
   3. 两种独立方法验证 Kittel 定律：(i) 全能量最小化（蒙特卡洛退火，ω=L/2−1）；(ii) 简谐力常数带分析（PHONOPY，q_min≈0.123，ω=1/(2q)−1）。谐波法系统性预测更窄的畴，因为它无法捕捉非谐弛豫（涡旋中心偏移+面内极化倾斜），而该倾斜减少垂直表面极化分量与退极化电荷，允许畴更宽。
   4. 对固定 n，2 畴与 4 畴构型存在临界横向尺寸 Lc：L<Lc 时 2 畴稳定（畴壁能惩罚主导），L>Lc 时 4 畴稳定（静电能惩罚主导）；Lc 随 n 增大。
   5. 低畴密度[[../concepts/metastability|亚稳态]]（畴宽过大，L>Lc）在 T<50 K 长寿命存在；升温至 ≥90 K 或施加 ≥−0.5% 压应变可越过势垒，自发形成新畴。高畴密度亚稳态（L<Lc，[[../concepts/polarization-waves|极化波]]态）即使升温也无法弛豫到低密度态——这种不对称性源于静电能与梯度能势垒形态不同。
-  6. 畴形成的微观动力学四步：界面处[[../concepts/vortex-antivortex-pair|涡旋-[[../concepts/antivortex|反涡旋]]对]]成核→涡旋沿界面拉长并将反涡旋推向 PbTiO₃ 层中心→两个反涡旋合并为涡度−2 的高能双反涡旋（能量随涡度平方增加，符合 Kosterlitz-Thouless XY 模型）→约 50 fs 内与两个涡旋湮灭，形成向下极化新畴与新的拉长顺/逆时针涡旋对，最终展宽至 Kittel 最优尺寸。整个过程发生在数百飞秒内（n=14, L=28, T=90 K, −0.5% 应变）。
+  6. 畴形成的微观动力学四步：界面处[[../concepts/vortex-antivortex-pair|涡旋-反涡旋对]]成核→涡旋沿界面拉长并将反涡旋推向 PbTiO₃ 层中心→两个反涡旋合并为涡度−2 的高能双反涡旋（能量随涡度平方增加，符合 Kosterlitz-Thouless XY 模型）→约 50 fs 内与两个涡旋湮灭，形成向下极化新畴与新的拉长顺/逆时针涡旋对，最终展宽至 Kittel 最优尺寸。整个过程发生在数百飞秒内（n=14, L=28, T=90 K, −0.5% 应变）。
   7. 总涡度守恒：周期性边界条件下由庞加莱-霍普夫定理要求净涡度为零，故涡旋（+1）必与反涡旋（−1）成对出现/湮灭；反涡旋主要出现在极化幅度较小的 SrTiO₃ 层中（头对头/尾对尾静电能代价低），与第一性原理结果一致。
   8. 层厚 n 增大有两个效应：PbTiO₃ 层极化趋近体相值、SrTiO₃ 层极化减小（从静电"耦合"态过渡到"解耦"态），两者共同使单胞能量降低；同时能量曲线的极小值变浅且向更大 L 移动。
   9. 计算细节可复用：[[../concepts/second-principles|第二性原理]]模拟势由 DFT(LDA) 拟合，施 −11.2 GPa 静水压修正立方晶格常数低估；外延约束 a=b=3.901 Å 模拟 SrTiO₃ 衬底；局域极化用 [[../concepts/born-effective-charge|Born 有效电荷]]张量×原子位移/单元胞体积的线性近似；力常数带含 Gonze-Lee 非解析项以分裂纵/横极性带。

@@ -1,15 +1,17 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_0a4b17cb989d11f19467525400287e28
-    ReservedCode1: 3Dxs9frmncyTiq6tCo+Xi5W0/y/gGgoXqp3BQkHH4PBHVwNzkA4nvVnFrjyBfa4sF4594w4tt6I/Rxit5uIlbUUiUvedffLLgWTPlCzD9epG2UL6fAwcJkAHjRFJVl6TD6EwaMpU+4NwkJUePRScXnZEBIVTZZX5yDJ9zU8DgSSP3EOoXlE9SVHrOS0=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_0a4b17cb989d11f19467525400287e28
-    ReservedCode2: 3Dxs9frmncyTiq6tCo+Xi5W0/y/gGgoXqp3BQkHH4PBHVwNzkA4nvVnFrjyBfa4sF4594w4tt6I/Rxit5uIlbUUiUvedffLLgWTPlCzD9epG2UL6fAwcJkAHjRFJVl6TD6EwaMpU+4NwkJUePRScXnZEBIVTZZX5yDJ9zU8DgSSP3EOoXlE9SVHrOS0=
+tags: [paradigm, method-development, benchmarking, dft]
+title: 计算方法学开发与基准验证 / Computational Method Development & Benchmarking
+type: paradigm
+status: active
+paradigm_id: P03
+domain: [computational-physics, density-functional-theory, numerical-methods]
+core_question: 如何发明或改进一种计算方法，并用标准体系证明它比现有方法更准、更快、更普适？
+method_pipeline: 理论推导→算法实现→标准体系基准测试→与实验/高精度方法对标→开源交付社区
+related_concepts: [density-functional-theory, nudged-elastic-band, berry-phase, bader-analysis, gw-approximation, molecular-dynamics]
+related_topics: [Z01-computational-materials-design]
+papers: [blochlProjectorAugmentedwaveMethod1994b, kresseEfficiencyAbinitioTotal1996a, henkelmanClimbingImageNudged2000c, perdewGeneralizedGradientApproximation1996a]
+updated: 2026-08
 ---
-
-
 
 # 计算方法学开发与基准验证 / Computational Method Development & Benchmarking
 
@@ -88,9 +90,8 @@ AIGC:
 - [[../concepts/bader-analysis|Bader 分析]]
 - [[../concepts/gw-approximation|GW 近似]]
 - [[../concepts/molecular-dynamics|分子动力学]]
-- [[../topics/材料模拟计算设计|材料模拟计算设计]]
+- [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
 
 ## 📈 生命周期日志
 
 - **2026-08-15**: active — 提炼自 17 篇计算方法学开发与基准验证类论文（PAW/泛函/CI-NEB/Bader/GW/恒温MD等）。
-*（内容由AI生成，仅供参考）*

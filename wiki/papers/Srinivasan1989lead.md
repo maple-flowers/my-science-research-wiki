@@ -11,8 +11,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Srinivasan1989lead]]
 projects: []
-concepts: [molecular-beam-epitaxy, fabry-perot-interferometer, infrared-detection, band-pass-filter, photoconductivity, skin-depth, atmospheric-window, narrow-gap-semiconductor, quantum-efficiency, detectivity, optical-constants, PbSnTe, HgCdTe, KCl]
-entities: [PbSnTe, KCl, HgCdTe, SnTe, Perkin-Elmer]
+concepts: [infrared-detection, band-pass-filter, photoconductivity, skin-depth, atmospheric-window, narrow-gap-semiconductor, quantum-efficiency, detectivity, optical-constants]
+entities: [fabry-perot-interferometer, HgCdTe, KCl, molecular-beam-epitaxy, PbSnTe, Perkin-Elmer, SnTe]
 methods: [mbe, xrd, vegard-law, optical-transmission-spectroscopy, blackbody-response-measurement, photoconductivity-measurement, knudsen-cell-evaporation]
 materials: [Pb0.82Sn0.18Te, KCl-substrate]
 figures: []
@@ -79,25 +79,27 @@ T. Srinivasan & J. Sobhanadri，1989，Defence Science Journal, Vol. 39, No. 1, 
 首次系统验证了用分子束外延（MBE）在 KCl(100) 衬底上生长的 Pb₀.₈₂Sn₀.₁₈Te 单晶薄膜可同时制成 8–14 μm 大气窗口的法布里-珀罗红外带通滤波器（FWHM 20–25%）和 77 K 光电导探测器（D* ≈ 1.47×10⁸ cm·Hz¹ᐟ²·W⁻¹）。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/molecular-beam-epitaxy|分子束外延（MBE）]]（精确控制原子级厚度/组分的单晶薄膜生长技术）
-  - 概念 [[../concepts/fabry-perot-interferometer|法布里-珀罗干涉仪]]（薄膜上下界面构成天然 FP 腔，干涉带通滤波器的物理基础）
   - 概念 [[../concepts/infrared-detection|红外探测]]（响应率/探测率/NEP 优值体系）
   - 概念 [[../concepts/band-pass-filter|带通滤波器]]（本文以 FP 干涉实现 20–25% 带宽）
   - 概念 [[../concepts/atmospheric-window|大气窗口（8–14 μm）]]（红外透过率 >80% 的关键波段）
   - 概念 [[../concepts/narrow-gap-semiconductor|窄带隙半导体]]（带隙约 0.1 eV、截止波长落在中/远红外）
   - 概念 [[../concepts/skin-depth|趋肤深度]]（光强衰减至 1/e 的穿透深度 1/α，决定最佳膜厚）
   - 概念 [[../concepts/detectivity|探测率 D*]]（归一化灵敏度优值）
-  - 概念 [[../concepts/PbSnTe|铅锡碲（PbSnTe）]]（IV-VI 族窄带隙合金，本文研究 x=0.18 组分）
-  - 概念 [[../concepts/KCl|氯化钾（KCl 衬底）]]（与 PbSnTe 晶格失配 2.2%、8–14 μm 高透的透射式衬底）
-  - 概念 [[../concepts/HgCdTe|碲镉汞（HgCdTe）]]（与 PbSnTe 并列的 8–14 μm 主流红外探测器材料）
+  - 概念 [[../concepts/optical-constants]]
+  - 概念 [[../concepts/photoconductivity]]
+  - 概念 [[../concepts/quantum-efficiency]]
+  - 实体 [[../entities/molecular-beam-epitaxy|分子束外延（MBE）]]（精确控制原子级厚度/组分的单晶薄膜生长技术）
+  - 实体 [[../entities/fabry-perot-interferometer|法布里-珀罗干涉仪]]（薄膜上下界面构成天然 FP 腔，干涉带通滤波器的物理基础）
+  - 实体 [[../entities/PbSnTe|铅锡碲（PbSnTe）]]（IV-VI 族窄带隙合金，本文研究 x=0.18 组分）
+  - 实体 [[../entities/KCl|氯化钾（KCl 衬底）]]（与 PbSnTe 晶格失配 2.2%、8–14 μm 高透的透射式衬底）
+  - 实体 [[../entities/HgCdTe|碲镉汞（HgCdTe）]]（与 PbSnTe 并列的 8–14 μm 主流红外探测器材料）
   - 实体 [[../entities/SnTe]]（同属 IV-VI 族碲化物窄带隙半导体家族，Pb₁₋ₓSnₓTe 是其合金端元之一）
+  - 实体 [[../entities/Perkin-Elmer]]
   - 图表 [[../figures/optical-spectra]]（薄膜透射/折射率光谱）
   - 图表 [[../figures/electronic-devices]]（光电导探测器 I-V、信噪比、优值曲线）
   - 图表 [[../figures/experimental-setups]]（MBE 生长系统、黑体响应测量电路）
   - 图表 [[../figures/mathematical-models|数学模型与物理公式]]（FP 干涉透射公式、响应率/探测率/NEP 优值公式）
   - 年度 [[../write/1945-1999|1989]]
-  - 概念 [[../concepts/optical-constants]]、[[../concepts/photoconductivity]]、[[../concepts/quantum-efficiency]]
-  - 实体 [[../entities/PbSnTe]]、[[../entities/Perkin-Elmer]]、[[../entities/HgCdTe]]、[[../entities/KCl]]
   - 相关论文 [[../../raw/note/Srinivasan1989lead]]
 
 ## 📊 关键图表
@@ -147,7 +149,7 @@ T. Srinivasan & J. Sobhanadri，1989，Defence Science Journal, Vol. 39, No. 1, 
 ## 📝 组织与用词
 论文采用典型的"材料制备 → 光学参数提取 → 滤波器设计与验证 → 探测器设计与验证 → 黑体响应测试 → 结论"递进式实验报告结构。滤波器部分以法布里-珀罗干涉公式（透射强度、峰值波数、带宽）为主线，从干涉级次 m 与膜厚/吸收的权衡论证为何取最小级次 m=2；探测器部分以响应率 R、探测率 D*、NEP 三个优值公式为主线，从量子效率极大化条件 d=1/α 推出最佳膜厚 4 μm，再通过偏置电流扫描确定最佳工作点，形成"理论预计算 → 生长 → 实测验证"的闭环。值得在 wiki 叙述中复用的关键词/术语：
   - molecular beam epitaxy (MBE) / 分子束外延
-  - Fabry-Perot interferometer / 法布里-珀罗干涉仪 [[../concepts/fabry-perot-interferometer|法布里-珀罗干涉仪]]
+  - Fabry-Perot interferometer / 法布里-珀罗干涉仪 [[../entities/fabry-perot-interferometer|法布里-珀罗干涉仪]]
   - band-pass filter (FWHM) / 带通滤波器 [[../concepts/band-pass-filter|带通滤波器]]（半高全宽）
   - photoconductive detector / 光电导探测器
   - responsivity (R) / 响应率

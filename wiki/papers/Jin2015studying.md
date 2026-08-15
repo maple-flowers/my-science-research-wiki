@@ -80,12 +80,23 @@ Yaming Jin, Xiaomei Lu, Junting Zhang, Yi Kan, Huifeng Bo, Fengzhen Huang, Tingt
 ## 💡 一句话
 开发了一套从二维 PFM（OP+IPx）信号反演随机取向多晶 BiFeO₃ 晶粒三维极化翻转角的数值方法，定量给出 71°/109°/180° 翻转面积占比（42%/29%/29%），并建立"电荷迁移能 vs 面内应力能"竞争模型解释翻转路径选择。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/polarization-switching]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/ferroelasticity]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/piezoelectric-response]]、[[../concepts/polycrystalline-ferroelectrics]]、[[../concepts/charge-migration-energy]]
-  - 实体 [[../entities/BiFeO3]]、[[../concepts/domain-wall]]
-  - 图表 [[../figures/experimental-setups]]、[[../concepts/domain-wall]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/ferroelasticity]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/piezoelectric-response]]
+  - 概念 [[../concepts/polycrystalline-ferroelectrics]]
+  - 概念 [[../concepts/charge-migration-energy]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/BiFeO3]]
+  - 图表 [[../figures/experimental-setups]]
   - 年度 [[../write/2015-2019]]
-  - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/Jin2015studying]]
+
 ## 🆕 新概念/实体建议
   - [[../entities/PFM|PFM]]（压电响应力显微镜）：实验技术实体条目，可涵盖 VPFM/LPFM、锁相检测、导电探针等。
   - [[../entities/first-principles-piezoelectric-tensor|first-principles-piezoelectric-tensor]]（第一性原理压电张量）：方法实体，d₁₀₅=80、d₂₀₂=27、d₃₀₁=1.4、d₃₀₃=23 pC/N 等参数可写入。

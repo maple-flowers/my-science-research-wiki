@@ -1,3 +1,8 @@
+---
+tags:
+  - type/write-index
+---
+
 # 学术写作用词与思路索引 (Writing Style Index)
 
 [[科研Wiki/index|← 返回 Wiki 总索引]]

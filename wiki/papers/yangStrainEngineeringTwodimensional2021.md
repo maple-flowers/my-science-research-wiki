@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/yangStrainEngineeringTwodimensional2021]]
 projects: []
-concepts: [2D-materials, berry-phase, ferroelasticity, moire-superlattice, spin-orbit-coupling, strain-engineering, shg-strain-mapping, phase-transition-2h-1tp, piezoresistive-effect, wrinkle-strain, exciton-funnel-effect, flexible-substrates]
-entities: [In2Se3, TMDs, VASP, h-BN, black-phosphorus, graphene]
+concepts: [2D-materials, berry-phase, ferroelasticity, moire-superlattice, spin-orbit-coupling, strain-engineering, phase-transition-2h-1tp, piezoresistive-effect, wrinkle-strain, exciton-funnel-effect, flexible-substrates]
+entities: [black-phosphorus, graphene, h-BN, In2Se3, shg-strain-mapping, TMDs, VASP]
 methods: [afm-pfm, berry-phase, dft, mfm, raman, xanes]
 materials: [In2Se3, TMDs, h-BN]
 figures: [crystal-structures-xrd-phases, electronic-devices-memory-transistors, electronic-devices-sensors, experimental-setups, heterostructures-stacking, mathematical-models-elasticity-strain, mathematical-models-formulas, optical-spectra, vibrational-spectra]
@@ -87,11 +87,9 @@ Shengxue Yang, Yujia Chen, Chengbao Jiang（北京航空航天大学材料科学
   - 概念 [[../concepts/piezoresistive-effect|压阻效应]]（应变通过带隙/载流子浓度改变二维材料电阻，柔性应变传感器核心机制）
   - 概念 [[../concepts/exciton-funnel-effect|激子漏斗效应]]（非均匀应变场中激子向最大应变、最窄带隙处漂移复合）
   - 概念 [[../concepts/wrinkle-strain|褶皱应变工程]]（预拉伸柔性基底形成周期性褶皱，产生1–2%局域非均匀应变）
-  - 概念 [[../concepts/shg-strain-mapping|SHG应变映射]]（基于光弹张量的偏振分辨SHG/THG全张量应变成像）
   - 概念 [[../concepts/phase-transition-2h-1tp|2H→1T'应力诱导相变]]（拉伸应变驱动MoTe₂等从半导体2H相转变为金属1T'相）
-  - 概念 [[../entities/graphene|石墨烯]]（可承受25%弹性应变，拉曼G/2D峰随应变分裂红移）
-  - 概念 [[../entities/black-phosphorus|黑磷]]（各向异性二维材料，ZZ/AC方向应变响应不同）
   - 概念 [[../concepts/flexible-substrates|柔性衬底]]（PDMS/PC/PET等聚合物衬底，按模量/热膨胀失配或弯曲传应变）
+  - 实体 [[../entities/shg-strain-mapping|SHG应变映射]]（基于光弹张量的偏振分辨SHG/THG全张量应变成像）
   - 实体 [[../entities/TMDs]]（MoS₂、MoSe₂、WS₂、WSe₂、MoTe₂、NbS₂、NbSe₂、ReSe₂等MX₂体系）
   - 实体 [[../entities/h-BN]]（气泡法常用衬底，MoS₂/h-BN界面）
   - 实体 [[../entities/In2Se3]]（表1中α-In₂Se₃/PMN-PT压电衬底应变体系）
@@ -102,16 +100,15 @@ Shengxue Yang, Yujia Chen, Chengbao Jiang（北京航空航天大学材料科学
   - 图表 [[../figures/electronic-bands]]（带隙调控、间接-直接带隙转变）
   - 图表 [[../figures/crystal-structures]]（2H/1T/1T'相结构、晶格失配图）
   - 图表 [[../figures/electronic-devices]]（FET、柔性应变传感器、光电探测器）
-  - 图表 [[../figures/heterostructures-stacking]]（WSe₂-MoS₂面内异质结、范德华界面气泡）
-  - 图表 [[../figures/heterostructures-stacking|自旋电子学与应变工程]]（应变诱导磁性、磁耦合调控）
+  - 图表 [[../figures/heterostructures-stacking|自旋电子学与应变工程]]（WSe₂-MoS₂面内异质结、范德华界面气泡）
   - 图表 [[../figures/experimental-setups]]（两点/四点弯曲装置、AFM加载装置、压力鼓泡装置）
   - 图表 [[../figures/mathematical-models]]（ε=τ/2R、ε∝(h/R)²等应变公式与SHG极化率张量）
   - 年度 [[../write/2020-2024|2021]]
   - 相关论文 [[../../raw/note/yangStrainEngineeringTwodimensional2021]]
 
 ## 🆕 新概念/实体建议
-  - [[../entities/mos2|mos2]]（二硫化钼）：单层为直接带隙，奇数层具压电效应；褶皱区迁移率可达平坦区3倍（5.55 vs 1.42 cm²/Vs @30K）。
-  - [[../entities/mote2|mote2]]（二碲化钼）：AFM针尖应变驱动2H→1T'相变的模型体系；压电衬底上的MoTe₂单晶呈现应变依赖各向异性磁阻。
+  - [[../entities/MoS2|mos2]]（二硫化钼）：单层为直接带隙，奇数层具压电效应；褶皱区迁移率可达平坦区3倍（5.55 vs 1.42 cm²/Vs @30K）。
+  - [[../entities/MoTe2|mote2]]（二碲化钼）：AFM针尖应变驱动2H→1T'相变的模型体系；压电衬底上的MoTe₂单晶呈现应变依赖各向异性磁阻。
 
 ## 📊 关键图表
   - ![图1 柔性基底应变引入法：预拉伸褶皱、热失配、热收缩、弯曲装置](../../raw/figures/yangStrainEngineeringTwodimensional2021/fig_1_YWVERIAZ.png) → [[../figures/experimental-setups|实验装置与测量系统]]

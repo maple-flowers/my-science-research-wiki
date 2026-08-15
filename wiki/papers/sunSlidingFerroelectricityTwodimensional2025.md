@@ -270,80 +270,74 @@ Xiaoyao Sun、Qian Xia、Tengfei Cao、Shuoguo Yuan 等，2025，*Materials Scie
 这是一篇 2025 年的长篇综述，系统梳理了二维范德华材料中由层间相对滑移产生面外极化的"滑动铁电性"——三种构建路径（3R 菱方堆叠、扭转角、莫尔超晶格）、材料谱系、制备表征工具箱以及 FeFET/FTJ/突触/光伏存储器等器件应用，是当前该领域最完整的知识框架之一。
 
 ## 🔗 Wiki 双链
-
-- 概念：
-  - [[../concepts/sliding-ferroelectricity]]
-  - [[../concepts/2d-materials]]
-  - [[../concepts/moire-superlattice]]
-  - [[../concepts/ferroelectric-tunnel-junction]]
-  - [[../concepts/polarization-switching]]
-  - [[../concepts/multiferroicity]]
-  - [[../concepts/magnetoelectric-coupling]]
-  - [[../concepts/berry-phase]]
-  - [[../concepts/strain-engineering]]
-  - [[../concepts/density-functional-theory]]
-  - [[../concepts/charge-density-wave]]
-  - [[../concepts/spin-orbit-coupling]]
-  - [[../concepts/ferroelasticity]]
-  - [[../concepts/topological-defects]]
-  - [[../concepts/super-paraelectricity]]
-  - [[../concepts/interlayer-charge-transfer]]
-  - [[../concepts/stacking-engineering]]
-  - [[../concepts/depolarization-field]]
-  - [[../concepts/valley-polarization]]
-  - [[../concepts/flat-band]]
-  - [[../entities/Cr2Ge2Te6]]
-  - [[../entities/CrI3]]
-  - [[../entities/GdI2]]
-  - [[../entities/MoS2]]
-  - [[../entities/VSe2]]
-  - [[../entities/WSe2]]
-  - [[../entities/graphene]]
-- 实体：
-  - [[../entities/h-BN]]
-  - [[../entities/TMDs]]
-  - [[../entities/WTe2]]
-  - [[../entities/In2Se3]]
-  - [[../entities/Fe3GeTe2]]
-  - [[../entities/BiFeO3]]
-  - [[../entities/VASP]]
-  - [[../entities/SnTe]]
-  - [[../concepts/domain-wall]]
-  - [[../entities/Cr2Ge2Te6]]
-  - [[../entities/CrI3]]
-  - [[../entities/MnSe]]
-  - [[../entities/MoSi2N4]]
-  - [[../entities/ReS2]]
-  - [[../entities/VSe2]]
-  - [[../entities/graphene]]
-- 图表：
-  - [[../figures/heterostructures-stacking]]
-  - [[../figures/heterostructures-stacking|层间滑移铁电：综述与材料体系 (Sliding Ferroelectricity: Reviews & Materials)]]
-  - [[../figures/electronic-devices]]
-  - [[../concepts/domain-wall]]
-  - [[../figures/mathematical-models]]
-  - [[../figures/experimental-setups]]
-- 年度：[[../write/2025-2029|2025]]
-- 项目：[[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
-  - 概念 [[../concepts/van-hove-singularity]]、[[../concepts/neuromorphic-computing]]
-  - 实体 [[../entities/MoSe2]]、[[../entities/WS2]]
-- 相关论文：[[../../raw/note/sunSlidingFerroelectricityTwodimensional2025]]
+  - 概念 [[../concepts/sliding-ferroelectricity]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/moire-superlattice]]
+  - 概念 [[../concepts/ferroelectric-tunnel-junction]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/berry-phase]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/charge-density-wave]]
+  - 概念 [[../concepts/spin-orbit-coupling]]
+  - 概念 [[../concepts/ferroelasticity]]
+  - 概念 [[../concepts/topological-defects]]
+  - 概念 [[../concepts/super-paraelectricity]]
+  - 概念 [[../concepts/interlayer-charge-transfer]]
+  - 概念 [[../concepts/stacking-engineering]]
+  - 概念 [[../concepts/depolarization-field]]
+  - 概念 [[../concepts/valley-polarization]]
+  - 概念 [[../concepts/flat-band]]
+  - 概念 [[../concepts/domain-wall]]
+  - 概念 [[../concepts/van-hove-singularity]]
+  - 概念 [[../concepts/neuromorphic-computing]]
+  - 实体 [[../entities/Cr2Ge2Te6]]
+  - 实体 [[../entities/CrI3]]
+  - 实体 [[../entities/GdI2]]
+  - 实体 [[../entities/MoS2]]
+  - 实体 [[../entities/VSe2]]
+  - 实体 [[../entities/WSe2]]
+  - 实体 [[../entities/graphene]]
+  - 实体 [[../entities/h-BN]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/WTe2]]
+  - 实体 [[../entities/In2Se3]]
+  - 实体 [[../entities/Fe3GeTe2]]
+  - 实体 [[../entities/BiFeO3]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/SnTe]]
+  - 实体 [[../entities/MnSe]]
+  - 实体 [[../entities/MoSi2N4]]
+  - 实体 [[../entities/ReS2]]
+  - 实体 [[../entities/MoSe2]]
+  - 实体 [[../entities/WS2]]
   - 实体 [[../entities/GaSe]]
   - 实体 [[../entities/InSe]]
   - 实体 [[../entities/Cd3Cl6]]
   - 实体 [[../entities/Janus-MoSSe]]
+  - 图表 [[../figures/heterostructures-stacking|层间滑移铁电：综述与材料体系 (Sliding Ferroelectricity: Reviews & Materials)]]
+  - 图表 [[../figures/electronic-devices]]
+  - 图表 [[../figures/mathematical-models]]
+  - 图表 [[../figures/experimental-setups]]
+  - 年度 [[../write/2025-2029|2025]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 相关论文 [[../../raw/note/sunSlidingFerroelectricityTwodimensional2025]]
 
 ## 🆕 新概念/实体建议
 
 - [[../concepts/3r-phase|3r-phase]] — 3R 菱方相（空间群 R3m），TMDs 中非中心对称的多层堆叠，偶数层仍保留面外极化；与 2H 相对照。
 - [[../concepts/twist-angle-engineering|twist-angle-engineering]] — 扭转角工程，小角度扭转产生莫尔周期势与层间滑移铁电。
 - [[../concepts/fatigue-free-switching|fatigue-free-switching]] — 无疲劳翻转，源于范德华层间弱耦合、翻转路径不涉及键断裂/强离子位移；3R-MoS2 器件 >10⁴ 次循环。
-- [[../entities/fefet|fefet]] — 铁电场效应晶体管，以滑动铁电层作为栅介质/沟道，实现非易失存储窗口（3R-MoS2 约 7 V）。
+- [[../entities/FeFET|fefet]] — 铁电场效应晶体管，以滑动铁电层作为栅介质/沟道，实现非易失存储窗口（3R-MoS2 约 7 V）。
 - [[../entities/neuromorphic-synaptic-device|neuromorphic-synaptic-device]] — 神经形态突触器件，利用滑动 FE 的渐进极化翻转实现 LTP/LTD、脉冲时序依赖可塑性。
 - [[../concepts/landau-theory|landau-theory]]（若 wiki 尚未建）— Landau–Ginzburg 描述滑动 FE 双层在垂直电场下的自由能（含弹性常数 λ、μ）。
 - [[../concepts/chiral-phonons|chiral-phonons]] — 莫尔/多层滑动 FE 衍生的手性声子与拓扑物理。
 - 实体建议：[[../entities/WS2|WS2]]、[[../entities/GaSe|GaSe]]、[[../entities/InSe|InSe]]、[[../entities/Cd3Cl6|Cd3Cl6]]、[[../entities/Janus-MoSSe|Janus-MoSSe]]。
-- 方法/表征建议：[[../concepts/4d-stem|4d-stem]]（四维扫描透射电镜，可直接看到 ~80 pm 层间位移与畴壁运动）、[[../concepts/ss-pfm|ss-pfm]]（开关谱 PFM）、[[../concepts/vector-pfm|vector-pfm]]（矢量 PFM 区分 IP/OOP 极化）、[[../concepts/kpfm|kpfm]]（开尔文探针力显微镜测表面电势）。
+- 方法/表征建议：[[../entities/4d-stem|4d-stem]]（四维扫描透射电镜，可直接看到 ~80 pm 层间位移与畴壁运动）、[[../entities/ss-pfm|ss-pfm]]（开关谱 PFM）、[[../entities/vector-pfm|vector-pfm]]（矢量 PFM 区分 IP/OOP 极化）、[[../entities/kpfm|kpfm]]（开尔文探针力显微镜测表面电势）。
 
 ## 📊 关键图表
 
@@ -472,8 +466,8 @@ Xiaoyao Sun、Qian Xia、Tengfei Cao、Shuoguo Yuan 等，2025，*Materials Scie
 ## ✏️ 可写入 Wiki 的要点
 
 1. **机制定义**：滑动[[../concepts/ferroelectricity|铁电性]]是二维范德华双层/多层中，层间相对滑移打破反演对称而产生面外自发极化、并可被外电场翻转的新铁电范式；不涉及强离子位移或化学键断裂，因此本征抗疲劳、翻转能垒低。
-2. **三条构建路径**：（i）3R 菱方堆叠（空间群 R3m，非中心对称，偶数层仍保留 OOP 极化，与镜面对称的 2H 相相对）；（ii）层间扭转角工程；（iii）[[../concepts/moire-superlattice|莫尔[[../concepts/superlattice|超晶格]]]]（小角度扭转产生周期势与局域层间滑移）。
-3. **微观起源**：层间滑移导致轨道重叠与电荷重心在 z 方向分离，即[[../concepts/interlayer-charge-transfer|层间[[../concepts/charge-transfer|电荷转移]]]]；极化由 Berry 相/[[../concepts/modern-polarization-theory|现代极化理论]]计算，载流子与电极屏蔽[[../concepts/depolarization-field|退极化场]]，使原子级厚度下仍能保持可翻转极化。
+2. **三条构建路径**：（i）3R 菱方堆叠（空间群 R3m，非中心对称，偶数层仍保留 OOP 极化，与镜面对称的 2H 相相对）；（ii）层间扭转角工程；（iii）[[../concepts/moire-superlattice|莫尔超晶格]]（小角度扭转产生周期势与局域层间滑移）。
+3. **微观起源**：层间滑移导致轨道重叠与电荷重心在 z 方向分离，即[[../concepts/interlayer-charge-transfer|层间电荷转移]]；极化由 Berry 相/[[../concepts/modern-polarization-theory|现代极化理论]]计算，载流子与电极屏蔽[[../concepts/depolarization-field|退极化场]]，使原子级厚度下仍能保持可翻转极化。
 4. **理论框架（Eq. 1）**：垂直电场下滑动双层的连续介质哈密顿量以共轭动量 π̂ₛ=ρₛ ûₛ、弹性常数 λ（层间压缩）与 μ（层间剪切）描述滑移自由度；可与 Landau–Ginzburg 自由能结合给出[[../concepts/coercive-field|矫顽场]]、[[../concepts/domain-wall-energy|畴壁能]]与翻转路径。
 5. **材料谱系与极化强度基准（Table 2）**：GaSe 单层 6.19 pC/m；MX₂（Mo/W，S/Se）0.59–0.77 pC/m；BX（P/As/Sb）0.965–3.707 pC/m；YN（Al/Ga/In）5.765–13.837 pC/m；PdSe₂/PtSe₂ 双层 ±17.11 pC/cm；Tl₂S 0.037 pC/m；HgI₂ 约 0.16 μC/cm²；理论预测还覆盖 MnSe、VSe₂、FeCl₂、GdI₂、CrI₃、β-ZrI₂、MoSi₂N₄、VSi₂N₄、Cr₂Ge₂Te₆、Fe₃GeTe₂ 等磁性/多铁体系。
 6. **关键器件指标**：3R-MoS₂ FeFET 存储窗口约 7 V，耐久 >10⁴ 次、保持特性良好；写脉冲可短至 53 ns，[[../concepts/domain-wall-motion|畴壁运动]]速度最高约 300 μm/s；MoS₂/WS₂ 异质双层 FTJ 的 ON/OFF ~10³；[[../entities/graphene|石墨烯]]/h-BN 莫尔突触器件功耗低至约 20 pW，可实现 LTP/LTD 与模式识别。

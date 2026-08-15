@@ -63,10 +63,18 @@ Anthony K. C. Tan, Hariom Jani, Michael Högen 等（共13位作者，通讯：T
 利用单晶金刚石氮-空位（NV）色心的量子磁强计（DQM）对斜方反铁磁体 α-Fe₂O₃（赤铁矿）中拓扑自旋织构成像，首次直接读出反铁磁交错涡度，并通过"涡度—磁化散度—磁荷"对偶关系揭示出单极、偶极、四极三类涌现磁荷分布。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/topological-defects|拓扑缺陷]]、[[../concepts/diamond-quantum-magnetometry|金刚石量子磁强计]]、[[../concepts/dzyaloshinskii-moriya-interaction|Dzyaloshinskii–Moriya 相互作用]]、[[../concepts/emergent-magnetic-charge|涌现磁荷]]、[[../concepts/meron-antimeron|半子–反半子]]、[[../concepts/morin-transition|莫林相变]]、[[../concepts/nv-center|NV 色心]]、[[../concepts/staggered-vorticity|交错涡度]]
-  - 实体 [[../concepts/domain-wall|畴壁]]、[[../entities/alpha-Fe2O3|α-Fe₂O₃（赤铁矿）]]
+  - 概念 [[../concepts/topological-defects|拓扑缺陷]]
+  - 概念 [[../concepts/dzyaloshinskii-moriya-interaction|Dzyaloshinskii–Moriya 相互作用]]
+  - 概念 [[../concepts/emergent-magnetic-charge|涌现磁荷]]
+  - 概念 [[../concepts/meron-antimeron|半子–反半子]]
+  - 概念 [[../concepts/morin-transition|莫林相变]]
+  - 概念 [[../concepts/nv-center|NV 色心]]
+  - 概念 [[../concepts/staggered-vorticity|交错涡度]]
+  - 概念 [[../concepts/domain-wall|畴壁]]
+  - 实体 [[../entities/diamond-quantum-magnetometry|金刚石量子磁强计]]
+  - 实体 [[../entities/alpha-Fe2O3|α-Fe₂O₃（赤铁矿）]]
   - 年度 [[../write/2020-2024]]
-  - 主题 [[多铁性材料]]
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
   - 相关论文 [[../../raw/note/tanRevealingEmergentMagnetic2024]]
 
 ## 🆕 新概念/实体建议
@@ -101,7 +109,7 @@ Anthony K. C. Tan, Hariom Jani, Michael Högen 等（共13位作者，通讯：T
 
 ## 📝 组织与用词
 论文按"问题→方法→对偶理论→实验分类→磁荷成像→定量标度→展望"递进：先指出同步辐射 X 射线二色性虽能看到反铁磁织构却无法读取涡度符号，再引入 DQM 对 canted AFM 的弱杂散场成像；核心理论桥梁是薄膜近似下 Bz ∝ ∇·m_xy，并由 m⃗ = Δ(ẑ×l⃗) 推出 ∇·m_xy = Δ[ẑ·(∇×l⃗)]，从而把可测磁场、磁化散度、交错涡度、磁荷四者等同起来；随后在 TM 上下识别 ADW、a-Bloch 半子、反半子、双半子，并将其分别对应偶极、单极、四极磁荷；最后用 Qm–r 标度说明磁荷非拓扑不变量且受多织构相互作用调制。值得在 wiki 叙述中复用的术语：
-  - 金刚石量子磁强计 [[../concepts/diamond-quantum-magnetometry|金刚石量子磁强计]] / Diamond quantum magnetometry (DQM)
+  - 金刚石量子磁强计 [[../entities/diamond-quantum-magnetometry|金刚石量子磁强计]] / Diamond quantum magnetometry (DQM)
   - 氮-空位色心 / Nitrogen-vacancy (NV) centre
   - 光探测磁共振 / Optically detected magnetic resonance (ODMR)
   - 涌现磁荷 [[../concepts/emergent-magnetic-charge|涌现磁荷]] / Emergent magnetic charge

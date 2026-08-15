@@ -11,8 +11,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/TSUJI2019phosphorescence]]
 projects: [project-3]
-concepts: [mechanoluminescence, phosphorescence, exponential-decay, trap-depletion, reabsorption, hydrostatic-pressure, time-resolved-spectroscopy, carrier-detrapping]
-entities: [PMT, oscilloscope, pulsed-led, photodiode]
+concepts: [mechanoluminescence, phosphorescence, exponential-decay, trap-depletion, reabsorption, hydrostatic-pressure, carrier-detrapping]
+entities: [oscilloscope, photodiode, PMT, pulsed-led, time-resolved-spectroscopy]
 methods: [time-resolved-phosphorescence, exponential-fitting, hydrostatic-loading, pulsed-led-excitation, pmt-detection]
 materials: [mechanoluminescent-powder, elastomeric-composite]
 figures: []
@@ -75,14 +75,23 @@ Tomoaki TSUJI、Tomohisa Kojima，2019，The Proceedings of the Materials and Me
 用 PMT+脉冲 LED 的时间分辨装置测量静水载荷下 ML 材料的磷光衰减曲线，并以含吸收因子 γ（α、β）的指数模型修正标准单指数衰减，揭示自吸收对表观衰减的显著影响。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/mechanoluminescence|机械发光]]、[[../concepts/trap-depletion|陷阱消耗]]、[[../concepts/reabsorption|重吸收]]
+  - 概念 [[../concepts/mechanoluminescence|机械发光]]
+  - 概念 [[../concepts/trap-depletion|陷阱消耗]]
+  - 概念 [[../concepts/reabsorption|重吸收]]
+  - 概念 [[../concepts/carrier-detrapping]]
+  - 概念 [[../concepts/hydrostatic-pressure]]
+  - 概念 [[../concepts/phosphorescence]]
+  - 概念 [[../concepts/exponential-decay]]
+  - 实体 [[../entities/time-resolved-spectroscopy]]
+  - 实体 [[../entities/PMT]]
+  - 实体 [[../entities/pulsed-led]]
+  - 实体 [[../entities/photodiode]]
+  - 实体 [[../entities/oscilloscope]]
   - 图表 [[../figures/optical-spectra]]
   - 图表 [[../figures/mathematical-models]]
   - 图表 [[../figures/experimental-setups]]
   - 年度 [[../write/2015-2019|2019]]
   - 项目 [[../projects/project-3-mechanoluminescence-nn]]
-  - 概念 [[../concepts/carrier-detrapping]]、[[../concepts/hydrostatic-pressure]]、[[../concepts/time-resolved-spectroscopy]]、[[../concepts/phosphorescence]]、[[../concepts/exponential-decay]]
-  - 实体 [[../entities/PMT]]、[[../entities/pulsed-led]]、[[../entities/photodiode]]、[[../entities/oscilloscope]]
   - 相关论文 [[../../raw/note/TSUJI2019phosphorescence]]
 
 ## 🆕 新概念/实体建议

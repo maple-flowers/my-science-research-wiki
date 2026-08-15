@@ -1,15 +1,15 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_9f46c14797ca11f1a98a525400f8a581
-    ReservedCode1: T1Fx+DzaqfWWIgzm3Knyp11Ue5OO8cRiFgp4iy2KHhukzFBFsRj3Y/dIQO7hkfNweo4CMDYhI2ZQQ8IAwmJnprB22ksdyKtxsbR8DX6TtPhDN393ETx1kdy1rSpvvcnFYgbyCDyeiqT8kZYTn1YpkqllS/Fz8AYfG2dqFpUbsCRgfp86YjJeE9K+hf0=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_9f46c14797ca11f1a98a525400f8a581
-    ReservedCode2: T1Fx+DzaqfWWIgzm3Knyp11Ue5OO8cRiFgp4iy2KHhukzFBFsRj3Y/dIQO7hkfNweo4CMDYhI2ZQQ8IAwmJnprB22ksdyKtxsbR8DX6TtPhDN393ETx1kdy1rSpvvcnFYgbyCDyeiqT8kZYTn1YpkqllS/Fz8AYfG2dqFpUbsCRgfp86YjJeE9K+hf0=
+category: [Z01]
+tags: [computational-materials-design, first-principles, molecular-dynamics, high-throughput-screening, dft]
 ---
 
-# 材料模拟计算设计
+# Z01 材料模拟计算设计 / Computational Materials Design
+
+> 关联领域：[[./D02-multiferroic-materials|多铁性材料]]、[[./D03-magnetic-materials|二维磁性材料]]
+
+> ⚠️ 本页目前只是文献索引，尚未按 [[../format-spec|主题条目规范]]（领域概述 / 研究背景 / 核心机制 / 未来方向）展开正文。
+
+## 📚 核心文献 (Core Papers)
 
 - [[../papers/aiFerroelectricityCoexistedPorbital2022]] — Ferroelectricity coexisted with p-orbital ferromagnetism and metallicity in two-dimensional metal oxynitrides
 - [[../papers/gongAbsenceCriticalThickness2023]] — Absence of critical thickness for polar skyrmions with breaking the Kittel’s law
@@ -25,4 +25,3 @@ AIGC:
 - [[../papers/zahraCriticalAnalysisFerroelectric2025]] — A critical analysis of ferroelectric and ferromagnetic properties in two-dimensional MXene
 - [[../papers/Zhang2019c]] — Atomic simulations of packing patterns and thermal behavior in Ti clusters
 - [[../papers/zhaoRealization2DMultiferroic2024]] — Realization of 2D multiferroic with strong magnetoelectric coupling by intercalation: a first-principles high-throughput prediction
-*（内容由AI生成，仅供参考）*

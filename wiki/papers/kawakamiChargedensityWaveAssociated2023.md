@@ -77,13 +77,24 @@ Kawakami, Sugawara, Oka, Nakayama, Yaegashi, Souma, Takahashi, Fukumura, Sato et
 ## 💡 一句话
 在单层1T-VS₂中发现周期为 √21 R10.9° × √3 R30° 的条纹状CDW，并在整个费米面上打开各向异性能隙，提出该CDW由常规嵌套矢量 q 与高阶嵌套矢量 2q 协同驱动，得到电子极化率增强与声子虚频计算的支持。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2d-materials]]、[[../concepts/fermi-surface-nesting|费米面嵌套]]、[[../concepts/peierls-instability|Peierls不稳定性]]、[[../concepts/electron-phonon-coupling|电子-声子耦合]]、[[../concepts/pseudogap|赝能隙]]、[[../concepts/mass-renormalization|质量重整化]]、[[../concepts/van-hove-singularity|van Hove奇点]]
-  - 实体 [[../entities/TMDs]]、[[../entities/graphene|石墨烯]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking|极性金属、拓扑相、CDW 与相变]]
+  - 概念 [[../concepts/charge-density-wave]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/fermi-surface-nesting|费米面嵌套]]
+  - 概念 [[../concepts/peierls-instability|Peierls不稳定性]]
+  - 概念 [[../concepts/electron-phonon-coupling|电子-声子耦合]]
+  - 概念 [[../concepts/pseudogap|赝能隙]]
+  - 概念 [[../concepts/mass-renormalization|质量重整化]]
+  - 概念 [[../concepts/van-hove-singularity|van Hove奇点]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/graphene|石墨烯]]
+  - 实体 [[../entities/SiC]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/electronic-bands]]
+  - 图表 [[../figures/heterostructures-stacking|极性金属、拓扑相、CDW 与相变]]
   - 年度 [[../write/2020-2024|2023]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 实体 [[../entities/SiC]]
   - 相关论文 [[../../raw/note/kawakamiChargedensityWaveAssociated2023]]
+
 ## 🆕 新概念/实体建议
   - [[../concepts/higher-order-fs-nesting|higher-order-fs-nesting]]（高阶费米面嵌套）：本文提出的新机制，2q 矢量连接常规 q 无法覆盖的费米面弯曲段。
   - [[../concepts/topotactic-reaction|topotactic-reaction]]（拓扑化学反应）：将 MBE 生长的 VTe₂ 经硫蒸气退火置换为 VS₂ 的制备方法。

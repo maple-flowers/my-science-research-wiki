@@ -1,15 +1,18 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_07a1a002989d11f1a98a525400f8a581
-    ReservedCode1: EQm+6plYdGiv+F9TQhw9PdkY/d8YBTHudWkj+RSrxiy9owDYRXXh01qf+C4l3cNySb0FJt7pL1NG4rNw1IIWgZXIN5tGg5VCat9/ssxv5go7Et0lEHeAV139JOlIPr1GUCRbcd0gZSfaF7BEUa0ynKTjeGU8lQpUdCCyMhNJst0s+PPzJt1pbmMtjNY=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_07a1a002989d11f1a98a525400f8a581
-    ReservedCode2: EQm+6plYdGiv+F9TQhw9PdkY/d8YBTHudWkj+RSrxiy9owDYRXXh01qf+C4l3cNySb0FJt7pL1NG4rNw1IIWgZXIN5tGg5VCat9/ssxv5go7Et0lEHeAV139JOlIPr1GUCRbcd0gZSfaF7BEUa0ynKTjeGU8lQpUdCCyMhNJst0s+PPzJt1pbmMtjNY=
+tags: [paradigm, dft, computational-design, ferroelectric, 2d-materials]
+title: 第一性原理材料设计预测 / First-Principles Material Design
+type: paradigm
+status: active
+paradigm_id: P01
+domain: [computational-physics, materials-design, ferroelectricity]
+core_question: 能否在实验之前就用第一性原理算出一种材料稳不稳定、有没有目标物性，从而指明实验该去哪里找？
+method_pipeline: 结构假设→稳定性验证（声子/形成能）→物性计算（极化/能带/能垒）→器件预言→交付实验
+related_concepts: [density-functional-theory, ferroelectricity, multiferroicity, sliding-ferroelectricity, strain-engineering, charge-density-wave]
+related_entities: [In2Se3]
+related_topics: [Z01-computational-materials-design, D02-multiferroic-materials]
+papers: [dingPredictionIntrinsicTwodimensional2017a, chenStrongSlidingFerroelectricity2024, junqueraCriticalThicknessFerroelectricity2003, liMonolayerPuckeredPentagonal2022]
+updated: 2026-08
 ---
-
-
 
 # 第一性原理材料设计预测 / First-Principles Material Design
 
@@ -100,10 +103,9 @@ AIGC:
 - [[../concepts/strain-engineering|应变工程]]
 - [[../concepts/charge-density-wave|电荷密度波]]
 - [[../entities/In2Se3|In₂Se₃]]
-- [[../topics/材料模拟计算设计|材料模拟计算设计]]
-- [[../topics/多铁性材料|多铁性材料]]
+- [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
+- [[../topics/D02-multiferroic-materials|多铁性材料]]
 
 ## 📈 生命周期日志
 
 - **2026-08-15**: active — 提炼自 27 篇第一性原理材料设计类论文（含铁电/多铁/铁弹/超导/磁性预测）。
-*（内容由AI生成，仅供参考）*

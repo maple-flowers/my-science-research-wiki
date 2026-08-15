@@ -67,11 +67,21 @@ G Ivanovski, D Jakimovski, E A Solov'ev，1994，Journal of Physics: Condensed M
 ## 💡 一句话
 在两种磁导率不同的介质接触面引入δ函数势垒后，两侧准朗道态通过共振欠势垒相互作用产生能级避免交叉，并直接导致霍尔电流的振荡与方向翻转。
 ## 🔗 Wiki 双链
-  - 年度 [[../write/1945-1999|1994]]
-  - 概念 [[../concepts/landau-quantization|朗道量子化]]、[[../concepts/avoided-crossing|避免交叉]]、[[../concepts/hall-effect|霍尔效应]]、[[../concepts/landau-zener-transition|朗道-齐纳跃迁]]、[[../concepts/neumann-wigner-theorem|诺伊曼-维格纳非交叉定理]]、[[../concepts/parabolic-cylinder-functions|抛物柱函数]]、[[../concepts/resonant-underbarrier-interaction|共振欠势垒相互作用]]
+  - 概念 [[../concepts/landau-quantization|朗道量子化]]
+  - 概念 [[../concepts/avoided-crossing|避免交叉]]
+  - 概念 [[../concepts/hall-effect|霍尔效应]]
+  - 概念 [[../concepts/landau-zener-transition|朗道-齐纳跃迁]]
+  - 概念 [[../concepts/neumann-wigner-theorem|诺伊曼-维格纳非交叉定理]]
+  - 概念 [[../concepts/parabolic-cylinder-functions|抛物柱函数]]
+  - 概念 [[../concepts/resonant-underbarrier-interaction|共振欠势垒相互作用]]
+  - 概念 [[../concepts/neumann-wigner-noncrossing]]
+  - 概念 [[../concepts/resonant-tunneling]]
+  - 概念 [[../concepts/quantum-transport]]
+  - 概念 [[../concepts/quantum-tunneling]]
   - 图表 [[../figures/mathematical-models|数学模型与物理公式]]
-  - 概念 [[../concepts/neumann-wigner-noncrossing]]、[[../concepts/resonant-tunneling]]、[[../concepts/quantum-transport]]、[[../concepts/quantum-tunneling]]
+  - 年度 [[../write/1945-1999|1994]]
   - 相关论文 [[../../raw/note/ivanovskiOscillationStructureHall1994]]
+
 ## 🆕 新概念/实体建议
 ## 📊 关键图表
 笔记未附图片（manifest.json 中 figures 为空），以下依据 raw/note 的图表解析以文字形式还原五幅关键图。

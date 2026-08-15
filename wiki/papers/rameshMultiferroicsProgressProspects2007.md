@@ -13,7 +13,7 @@ year_read: 2026
 original_note:: [[../../raw/note/rameshMultiferroicsProgressProspects2007]]
 projects: []
 concepts: [density-functional-theory, ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, domain-wall]
-entities: [BiFeO3, HoMnO3]
+entities: [BiFeO3, HoMnO3, TbMnO3]
 methods: [afm-pfm, dft, mfm, stm-mbe]
 materials: [BiFeO3, HoMnO3]
 figures: []
@@ -92,26 +92,24 @@ R. Ramesh 与 Nicola A. Spaldin et al.，2007，*Nature Materials* 6(1), 21–29
   - 概念 [[../concepts/multiferroic-tunnel-junction|多铁隧道结]]
   - 概念 [[../concepts/electromagnon|电磁振子]]
   - 概念 [[../concepts/peem|PEEM 光发射电子显微镜]]
-  - 概念 [[../entities/BaTiO3|BaTiO3]]
-  - 概念 [[../concepts/TbMnO3|TbMnO3]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/TbMnO3|TbMnO3]]
   - 实体 [[../entities/BiFeO3]]
   - 实体 [[../entities/HoMnO3]]（同族六方锰氧化物）
-  - 实体 [[../concepts/domain-wall]]
   - 实体 [[../entities/BaTiO3|BaTiO3 钛酸钡]]
   - 实体 [[../entities/BiMnO3|BiMnO3 锰酸铋]]
   - 实体 [[../entities/LuFe2O4|LuFe2O4]]
   - 实体 [[../entities/YMnO3|YMnO3 锰酸钇]]
-  - 图表 [[../figures/crystal-structures]]
-  - 图表 [[../figures/heterostructures-stacking]]
-  - 图表 [[../concepts/domain-wall]]
-  - 图表 [[../figures/experimental-setups]]
-  - 图表 [[../figures/electronic-devices]]
-  - 年度 [[../write/2005-2009]]
-  - 主题 [[多铁性材料]]
-  - 相关论文 [[../../raw/note/rameshMultiferroicsProgressProspects2007]]
   - 实体 [[../entities/CoFe2O4]]
   - 实体 [[../entities/PbVO3]]
   - 实体 [[../entities/Bi2FeCrO6]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/heterostructures-stacking]]
+  - 图表 [[../figures/experimental-setups]]
+  - 图表 [[../figures/electronic-devices]]
+  - 年度 [[../write/2005-2009]]
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
+  - 相关论文 [[../../raw/note/rameshMultiferroicsProgressProspects2007]]
 
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体：
@@ -172,7 +170,7 @@ project-2 Mn 多铁（高度相关：本文系统讨论 YMnO₃、TbMnO₃、BiM
 
 ## ✏️ 可写入 Wiki 的要点
   1. **d⁰–dⁿ 互斥**：传统位移型[[../concepts/ferroelectricity|铁电性]]要求 B 位阳离子形式上有空 d 轨道（如 Ti⁴⁺ 3d⁰）以形成共价键并偏心位移，而磁性要求部分填充 d 轨道提供未配对自旋；同一晶格位上两者互斥，这是单相磁电多铁体稀缺的根本化学原因。因此铁电偏心离子必须与磁矩载体离子分离。
-  2. **四种绕过互斥的机制**：(i) A 位[[../concepts/lone-pair-ferroelectricity|孤对电子[[../concepts/driven-ferroelectricity|驱动铁电性]]]]（Bi³⁺ 6s²，B 位保留磁性，代表 BiFeO₃）；(ii) [[../concepts/geometric-ferroelectricity|几何驱动铁电性]]（MnO₅ 多面体倾斜，代表六方 YMnO₃、BaNiF₄）；(iii) [[../concepts/magnetically-induced-ferroelectricity|磁致铁电性]]（破缺反演对称的[[../concepts/spin-spiral]]诱导极化，代表 TbMnO₃，极化小但耦合强）；(iv) 非中心对称[[../concepts/charge-order|电荷有序]]（Fe²⁺/Fe³⁺ 有序，代表 LuFe₂O₄）。此外，铁电体必须绝缘，而磁性过渡金属多变价易导致非化学计量比、[[../concepts/oxygen-vacancy|氧空位]]和跳跃电导，漏电是普遍实验难题。
+  2. **四种绕过互斥的机制**：(i) A 位[[../concepts/lone-pair-ferroelectricity|孤对电子驱动铁电性]]（Bi³⁺ 6s²，B 位保留磁性，代表 BiFeO₃）；(ii) [[../concepts/geometric-ferroelectricity|几何驱动铁电性]]（MnO₅ 多面体倾斜，代表六方 YMnO₃、BaNiF₄）；(iii) [[../concepts/magnetically-induced-ferroelectricity|磁致铁电性]]（破缺反演对称的[[../concepts/spin-spiral]]诱导极化，代表 TbMnO₃，极化小但耦合强）；(iv) 非中心对称[[../concepts/charge-order|电荷有序]]（Fe²⁺/Fe³⁺ 有序，代表 LuFe₂O₄）。此外，铁电体必须绝缘，而磁性过渡金属多变价易导致非化学计量比、[[../concepts/oxygen-vacancy|氧空位]]和跳跃电导，漏电是普遍实验难题。
   3. **BiFeO₃ 薄膜关键数据**：钙钛矿结构（非"铁氧体"结构），[[../concepts/curie-temperature|居里温度]] T_C ≈ 820 °C，奈尔温度 T_N ≈ 643 K；薄膜沿赝立方 [111] 的极化现已收敛于 ~90 μC/cm²（与第一性原理一致），早期块体仅 ~6.1 μC/cm²，差异部分源于[[../concepts/epitaxial-strain|外延应变]]、部分源于块体缺陷/第二相/颗粒陶瓷机械约束；另有报道 c/a=1.26、P≈150 μC/cm² 的超四方亚稳相。块体存在周期 ~620 Å 的无公度[[../concepts/spin-spiral]]，抵消宏观磁矩并抑制线性磁电效应；外延薄膜中螺旋被抑制，观察到 ~0.5 μB/单胞 的磁化与强[[../concepts/magnetoelectric-coupling|磁电耦合]]。
   4. **应变的双重作用**：第一性原理表明孤对电子型 BiFeO₃ 的极化对应变相当不敏感（深势阱、大离子位移、高 T_C），因此想靠应变显著调极化需用更"软"、接近铁电失稳的铁电体；但应变若改变晶体对称性则影响显著——BiFeO₃ 在 [100] SrTiO₃ 衬底上由菱方降为单斜，六重简并的易磁化面解除，反铁磁轴择优沿 [1–10]，使 109° [[../concepts/polarization-switching|极化翻转]]（而非 71° 翻转）伴随反铁磁轴重定向，从而调控磁电开关行为。
   5. **三种薄膜架构**：(a) 单相外延薄膜——以 BiFeO₃、YMnO₃ 为代表，外延应变与晶体化学是控制变量；(b) 水平多层异质结——原子级层状堆叠在界面设计[[../concepts/multiferroicity|多铁性]]；(c) 垂直异质结——磁性尖晶石纳米柱（CoFe₂O₄、NiFe₂O₄、Fe₃O₄）外延嵌入钙钛矿铁电基体（BaTiO₃、PbTiO₃、BiFeO₃、SrTiO₃），三维异质外延、界面面积大、衬底夹持弱。

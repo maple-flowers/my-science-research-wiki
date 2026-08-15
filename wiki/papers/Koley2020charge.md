@@ -107,8 +107,8 @@ Sudipta Koley、Narayan Mohanta、Arghya Taraphder，2020，The European Physica
   - 图表 [[../figures/electronic-bands]]
   - 年度 [[../write/2020-2024|2020]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 概念 [[../concepts/exciton-condensation]]
   - 相关论文 [[../../raw/note/Koley2020charge]]
+
 ## 📊 关键图表
   - ![图1 BdG 中无序/CDW/超导配对振幅的实空间分布，团簇与随机构型对比](../../raw/figures/Koley2020charge/fig_1_4WRCB6UJ.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
   - **图示描述**：在 41×41 二维正方晶格上，按行对比四种无序构型下三列物理量的空间分布——第一列无序势 V_i、第二列 CDW 序（以载流子密度调制 ξ_i 表示）、第三列超导配对振幅 Δ_SC；所有能量以跃迁能 t 为单位。

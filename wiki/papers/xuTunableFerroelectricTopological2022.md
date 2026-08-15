@@ -105,9 +105,32 @@ Bo Xu, Zhanpeng Gong, Jingran Liu, Yunfei Hong, Yang Yang, Lou Li, Yilun Liu, Ju
 通过 DFT→DeepMD 分子动力学→有限元的多尺度模拟，首次在二维铅硫族化合物 PbX（X=S, Se, Te）中用应变工程从顺电基态"无中生有"地诱导出可逆的铁电相变，并按需设计出涡旋、反涡旋、通量闭合等类斯格明子极性拓扑图案。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/strain-engineering]]、[[../concepts/topological-defects]]、[[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/machine-learning-potential]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelasticity]]、[[../concepts/ferroelectric-topological-defects|铁电拓扑缺陷]]、[[../concepts/soft-mode|软模]]、[[../concepts/paraelectric-ferroelectric-transition|顺电-铁电相变]]、[[../concepts/polar-vortex|极性涡旋]]、[[../concepts/antivortex|反涡旋]]、[[../concepts/flux-closure-domain|通量闭合畴]]、[[../concepts/polarization-phase-diagram|极化-应变相图]]、[[../concepts/giant-piezoelectricity|巨压电效应]]、[[../concepts/multiscale-simulation|多尺度模拟]]
-  - 实体 [[../entities/PbTe]]、[[../entities/VASP]]、[[../entities/deep-potential]]、[[../concepts/domain-wall]]、[[../entities/DeepMD-kit|DeepMD-kit]]、[[../entities/LAMMPS|LAMMPS]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/vibrational-spectra]]、[[../figures/mathematical-models]]、[[../concepts/domain-wall]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/topological-defects]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/berry-phase]]
+  - 概念 [[../concepts/machine-learning-potential]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/ferroelasticity]]
+  - 概念 [[../concepts/ferroelectric-topological-defects|铁电拓扑缺陷]]
+  - 概念 [[../concepts/soft-mode|软模]]
+  - 概念 [[../concepts/paraelectric-ferroelectric-transition|顺电-铁电相变]]
+  - 概念 [[../concepts/polar-vortex|极性涡旋]]
+  - 概念 [[../concepts/antivortex|反涡旋]]
+  - 概念 [[../concepts/flux-closure-domain|通量闭合畴]]
+  - 概念 [[../concepts/polarization-phase-diagram|极化-应变相图]]
+  - 概念 [[../concepts/giant-piezoelectricity|巨压电效应]]
+  - 概念 [[../concepts/multiscale-simulation|多尺度模拟]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/PbTe]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/deep-potential]]
+  - 实体 [[../entities/DeepMD-kit|DeepMD-kit]]
+  - 实体 [[../entities/LAMMPS|LAMMPS]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/vibrational-spectra]]
+  - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2020-2024]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/xuTunableFerroelectricTopological2022]]
@@ -172,6 +195,6 @@ Bo Xu, Zhanpeng Gong, Jingran Liu, Yunfei Hong, Yang Yang, Lou Li, Yilun Liu, Ju
   5. ELF 显示相变伴随显著化学键重构：PE 相中每个 Te 周围有 5 个价键，FE[100] 相中为 3 个，FE[110] 相中为 4 个；FE 相呈现黑磷式褶皱（puckered）结构。
   6. 临界应变附近出现巨压电系数"爆发"：PbTe 拉伸 e₁₁ 峰值约 139.2×10⁻¹⁰ C/m，PbSe 拉伸 e₁₁ 峰值约 144.3×10⁻¹⁰ C/m，远超远离相变点的稳态值，对应力-电能量收集与高灵敏传感有意义。
   7. 作者构建了 (ε_x, ε_y, γ_xy) 全空间极化相图：γ_xy=0 时极化沿较大应变方向（ε_x>ε_y 沿 [100]，ε_x=ε_y 沿 [110]），引入剪切后极化方向连续旋转；这张相图是后续用应变场"绘制"任意图案的[[../concepts/lookup-table-calibration|查找表]]。
-  8. 用 DeepMD-kit 训练深度学习势（损失函数 L = p_ε Δε² + p_f/(3N) Σ|ΔF_i|² + p_ξ/9 ‖Δξ‖²，同时拟合能量、力、virial），在 LAMMPS 中对 60×60 单胞（~28×28 nm）PbTe 薄膜做 10 K、半径 3.5 nm 球形压头压痕，压深 3.6 nm 时中心区出现由 90° 畴壁分隔的四象限涡旋极性图案，首次在[[../concepts/2D-materials|二维材料]]中实现极性拓扑态。
+  8. 用 DeepMD-kit 训练深度学习势（损失函数 L = p_ε Δε² + p_f/(3N) Σ|ΔF_i|² + p_ξ/9 ‖Δξ‖²，同时拟合能量、力、virial），在 LAMMPS 中对 60×60 单胞（~28×28 nm）PbTe 薄膜做 10 K、半径 3.5 nm 球形压头压痕，压深 3.6 nm 时中心区出现由 90° 畴壁分隔的四象限涡旋极性图案，首次在[[../concepts/2d-materials|二维材料]]中实现极性拓扑态。
   9. FEM 把 PbTe 视为[[../concepts/migdal-eliashberg-theory|各向异性]]弹性膜，按局部应变是否越过相变临界值切换 PE/FE 相弹性常数 (C₁₁, C₂₂, C₁₂ 等)，在带孔硬质衬底上施加均匀气压使薄膜鼓泡：圆孔（200 nm，14 MPa）→ 立方[[../concepts/antivortex|反涡旋]]；方孔晶格对齐孔边（200 nm，8 MPa）→ 圆形反涡旋；方孔晶格旋转 45°（4.5 MPa）→ [[../concepts/flux-closure-domain|通量闭合畴]]。证明孔洞形状+晶体取向即可挑选拓扑类别。
   10. 局限：全程 0 K/10 K 模拟，未讨论室温热稳定性；FEM 在相界处用均质化阶跃切换参数，忽略梯度能和畴壁动力学；缺乏实验验证（需要 AFM 压痕+PFM/4D-STEM DPC 联用）；未给出拓扑态的电学/光学读取方案；DeepMD 势在训练集外（如相变附近、非均匀应变）的泛化误差未量化。这些正是 project-5 等后续工作可补足的方向。

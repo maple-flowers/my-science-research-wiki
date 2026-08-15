@@ -103,11 +103,27 @@ Khazaei, Arai, Sasaki, Chung, Venkataramanan, Estili, Sakka, Kawazoe et al.，20
 本文用第一性原理系统计算了 F/OH/O 表面功能化的 M₂C/M₂N 型 MXene，提出"电子计数规则"解释金属-半导体转变，预测了 Sc/Ti/Zr/Hf 基半导体 MXene、Cr 基铁磁 MXene 以及低温下 >1000 μV/K 的巨塞贝克系数。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2d-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/electron-counting-rule]]、[[../concepts/strain-engineering]]、[[../concepts/surface-functionalization|表面功能化]]、[[../concepts/ferromagnetism|铁磁性]]、[[../concepts/thermoelectricity|热电效应]]、[[../concepts/boltzmann-transport|玻尔兹曼输运]]、[[../entities/MAX-phase]]、[[../concepts/phonon-stability|声子稳定性]]
-  - 实体 [[../entities/MXenes]]、[[../entities/VASP]]、[[../entities/MAX-phase]]、[[../entities/Sc2CO2|Sc₂CO₂]]
-  - 图表 [[../figures/electronic-bands]]、[[../figures/vibrational-spectra]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/electron-counting-rule]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/surface-functionalization|表面功能化]]
+  - 概念 [[../concepts/ferromagnetism|铁磁性]]
+  - 概念 [[../concepts/thermoelectricity|热电效应]]
+  - 概念 [[../concepts/boltzmann-transport|玻尔兹曼输运]]
+  - 概念 [[../concepts/phonon-stability|声子稳定性]]
+  - 实体 [[../entities/MAX-phase]]
+  - 实体 [[../entities/MXenes]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/Sc2CO2|Sc₂CO₂]]
+  - 实体 [[../entities/Ti2CO2]]
+  - 实体 [[../entities/BoltzTrap]]
+  - 实体 [[../entities/Sc2CF2]]
+  - 实体 [[../entities/Cr2C]]
+  - 实体 [[../entities/Cr2N]]
+  - 图表 [[../figures/electronic-bands]]
+  - 图表 [[../figures/vibrational-spectra]]
   - 年度 [[../write/2010-2014|2013]]
-  - 实体 [[../entities/Ti2CO2]]、[[../entities/BoltzTrap]]、[[../entities/Sc2CF2]]、[[../entities/Cr2C]]、[[../entities/Cr2N]]
   - 相关论文 [[../../raw/note/khazaeiNovelElectronicMagnetic2013]]
 
 ## 🆕 新概念/实体建议
@@ -171,7 +187,7 @@ Khazaei, Arai, Sasaki, Chung, Venkataramanan, Estili, Sakka, Kawazoe et al.，20
 ## 📝 组织与用词
   文章按"背景 → 计算细节 → 四种表面吸附构型模型 → 稳定性筛选（总能/形成能/化学势/声子谱）→ 电子结构（DOS/能带）→ 磁性 → 热电 → 结论"的经典计算材料范式展开。核心论证是把复杂的 DFT 结果归结为一个直观的"电子计数"图像：过渡金属 M 的价电子数与 X（C/N）+ T（F/OH/O）的吸电子需求是否匹配，决定费米能级落入 M-d 带还是落入 d-p 间隙。
   值得复用的术语：
-  - MXenes [[../concepts/MXenes|MXenes]] / MXene（过渡金属碳/氮化物二维材料）
+  - MXenes [[../entities/MXenes|MXenes]] / MXene（过渡金属碳/氮化物二维材料）
   - MAX phases / MAX 相 [[../entities/MAX-phase]]
   - [[../concepts/surface-functionalization|surface functionalization / termination]]（表面功能化/终止）
   - [[../concepts/electron-counting-rule|electron counting rule]]（电子计数规则）

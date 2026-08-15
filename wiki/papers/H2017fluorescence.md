@@ -74,14 +74,27 @@ Chibao Huang、Junle Qu，2017，*Biomarkers Journal*，DOI 10.21767/2472-1646.1
 作者通过在二苯乙烯骨架上引入邻/间位双氰基受体和二甲氨基给体，构建了 D-π-A 型分子 P1，实现了 445→641 nm 的超宽溶剂化变色、最高 5560 GM 的双光子吸收截面，并首次在双光子激发下观察到由 LE / TICT / Exciplex 三态构成的三重荧光，可同时传感极性、粘度和温度。
 
 ## 🔗 Wiki 双链
+  - 概念 [[../concepts/two-photon-absorption|双光子吸收]]
+  - 概念 [[../concepts/solvatochromism|溶剂化变色]]
+  - 概念 [[../concepts/thermo-solvatochromism|热致溶剂化变色]]
+  - 概念 [[../concepts/ict-mechanism]]
+  - 概念 [[../concepts/tict-mechanism]]
+  - 概念 [[../concepts/exciplex|激基复合物]]
+  - 概念 [[../concepts/local-excited-state|局域激发态]]
+  - 概念 [[../concepts/d-pi-a-architecture|D-π-A构型]]
+  - 概念 [[../concepts/solvent-relaxation|溶剂弛豫]]
+  - 概念 [[../concepts/fluorescence-sensing]]
+  - 实体 [[../entities/dicyanostilbene-1a|P1]]
+  - 实体 [[../entities/dicyanostilbene-1b|P2]]
+  - 实体 [[../entities/DCS|双氰基二苯乙烯]]
+  - 实体 [[../entities/P1]]
+  - 实体 [[../entities/P2]]
+  - 实体 [[../entities/dicyanostilbene]]
   - 图表 [[../figures/optical-spectra]]
-  - 概念 [[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/solvatochromism|溶剂化变色]]、[[../concepts/thermo-solvatochromism|热致溶剂化变色]]、[[../concepts/ict-mechanism]]、[[../concepts/tict-mechanism]]、[[../concepts/exciplex|激基复合物]]、[[../concepts/local-excited-state|局域激发态]]、[[../concepts/d-pi-a-architecture|D-π-A构型]]、[[../concepts/solvent-relaxation|溶剂弛豫]]
-  - 实体 [[../entities/dicyanostilbene-1a|P1]]、[[../entities/dicyanostilbene-1b|P2]]、[[../entities/DCS|双氰基二苯乙烯]]
   - 年度 [[../write/2015-2019|2017]]
   - 项目 [[../projects/project-1-two-photon]]
-  - 概念 [[../concepts/local-excited-state]]、[[../concepts/fluorescence-sensing]]
-  - 实体 [[../entities/P1]]、[[../entities/P2]]、[[../entities/dicyanostilbene]]
   - 相关论文 [[../../raw/note/H2017fluorescence]]
+
 ## 📊 关键图表
 笔记未附图片（raw/figures/H2017fluorescence/ 下仅有 manifest.json，未抽取到实际图片文件），以下依据 raw/note 文字描述逐图整理。
 

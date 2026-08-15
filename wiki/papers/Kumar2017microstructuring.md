@@ -87,14 +87,22 @@ Raghwendra Kumar, S. Anantha Ramakrishna，2017，Current Science，112(08): 166
   - 概念 [[../concepts/photoinitiator|光引发剂]]
   - 概念 [[../concepts/diffraction-limit|衍射极限]]
   - 概念 [[../concepts/threshold-effect|阈值效应]]
+  - 概念 [[../concepts/aspect-ratio]]
+  - 概念 [[../concepts/nonlinear-optics]]
   - 实体 [[../entities/SU-8|SU-8]]
+  - 实体 [[../entities/thioxanthone-photoinitiator]]
+  - 实体 [[../entities/piezo-nanopositioning-stage]]
+  - 实体 [[../entities/LabVIEW]]
+  - 实体 [[../entities/sub-nanosecond-laser]]
+  - 实体 [[../entities/AFM]]
+  - 实体 [[../entities/AR-N-4340]]
+  - 实体 [[../entities/AOM]]
   - 图表 [[../figures/mathematical-models]]
   - 图表 [[../figures/experimental-setups]]
   - 年度 [[../write/2015-2019|2017]]
   - 项目 [[../projects/project-1-two-photon]]
-  - 概念 [[../concepts/aspect-ratio]]、[[../concepts/nonlinear-optics]]
-  - 实体 [[../entities/thioxanthone-photoinitiator]]、[[../entities/piezo-nanopositioning-stage]]、[[../entities/LabVIEW]]、[[../entities/sub-nanosecond-laser]]、[[../entities/AFM]]、[[../entities/AR-N-4340]]、[[../entities/AOM]]
   - 相关论文 [[../../raw/note/Kumar2017microstructuring]]
+
 ## 🆕 新概念/实体建议
   - [[../concepts/two-photon-polymerization|two-photon-polymerization]]（双光子聚合，TPP）：基于 TPA 非线性效应的 3D 微纳光刻技术，核心机制词条。
   - [[../concepts/two-photon-absorption|two-photon-absorption]]（双光子吸收，TPA）：吸收速率正比于 I² 的三阶非线性光学过程，是超衍射极限加工的物理基础。

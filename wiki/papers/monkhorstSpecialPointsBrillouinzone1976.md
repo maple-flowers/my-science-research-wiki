@@ -79,11 +79,22 @@ Hendrik J. Monkhorst, James D. Pack，1976，Physical Review B 13(12), 5188-5192
 ## 💡 一句话
 提出基于均匀倒空间网格与晶格星函数正交性的"Monkhorst-Pack网格"，成为所有现代第一性原理计算中布里渊区积分的标准k点采样方法。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/density-functional-theory]]、[[../concepts/brillouin-zone-integration|布里渊区积分]]、[[../concepts/monkhorst-pack-grid|Monkhorst-Pack网格]]、[[../concepts/k-point-sampling|k点采样]]、[[../concepts/special-points|特殊点]]、[[../concepts/chadi-cohen-method|Chadi-Cohen方法]]、[[../concepts/gilat-raubenheimer-method|Gilat-Raubenheimer方法]]、[[../concepts/star-function|星函数]]、[[../concepts/irreducible-wedge|不可约楔形区]]、[[../concepts/fourier-interpolation|傅里叶插值]]
-  - 实体 [[../entities/VASP]]、[[../entities/Wannier90]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/brillouin-zone-integration|布里渊区积分]]
+  - 概念 [[../concepts/monkhorst-pack-grid|Monkhorst-Pack网格]]
+  - 概念 [[../concepts/k-point-sampling|k点采样]]
+  - 概念 [[../concepts/special-points|特殊点]]
+  - 概念 [[../concepts/chadi-cohen-method|Chadi-Cohen方法]]
+  - 概念 [[../concepts/gilat-raubenheimer-method|Gilat-Raubenheimer方法]]
+  - 概念 [[../concepts/star-function|星函数]]
+  - 概念 [[../concepts/irreducible-wedge|不可约楔形区]]
+  - 概念 [[../concepts/fourier-interpolation|傅里叶插值]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/Wannier90]]
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/1945-1999|1976]]
   - 相关论文 [[../../raw/note/monkhorstSpecialPointsBrillouinzone1976]]
+
 ## 📊 关键图表
 笔记未附图片（论文本身为纯理论推导，无数据图表；manifest.json中figures数组为空）。
 ## 🔬 项目连接

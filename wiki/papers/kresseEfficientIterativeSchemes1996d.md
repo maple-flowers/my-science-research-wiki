@@ -86,13 +86,32 @@ G. Kresse、J. Furthmüller，1996，Physical Review B 54(16), 11169–11186，D
 ## 💡 一句话
 本文提出 RMM-DIIS 迭代对角化与基于 Kerker 预条件的 Pulay 电荷密度混合两大算法，将平面波赝势 DFT 的标度从 O(N³) 降至 O(N²)、使金属体系自洽迭代次数几乎不随系统尺寸增长，奠定了 VASP 的核心算法框架。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/density-functional-theory]]、[[../concepts/rmm-diis]]、[[../concepts/pulay-mixing]]、[[../concepts/kerker-preconditioning]]、[[../concepts/charge-sloshing]]、[[../concepts/subspace-rotation]]、[[../concepts/methfessel-paxton-smearing]]、[[../concepts/ultrasoft-pseudopotential]]、[[../concepts/plane-wave-basis]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/rmm-diis]]
+  - 概念 [[../concepts/pulay-mixing]]
+  - 概念 [[../concepts/kerker-preconditioning]]
+  - 概念 [[../concepts/charge-sloshing]]
+  - 概念 [[../concepts/subspace-rotation]]
+  - 概念 [[../concepts/methfessel-paxton-smearing]]
+  - 概念 [[../concepts/ultrasoft-pseudopotential]]
+  - 概念 [[../concepts/plane-wave-basis]]
+  - 概念 [[../concepts/domain-wall]]
+  - 概念 [[../concepts/conjugate-gradient]]
+  - 概念 [[../concepts/self-consistent-field-cycle]]
+  - 概念 [[../concepts/harris-foulkes-functional]]
   - 实体 [[../entities/VASP]]
-  - 图表 [[../figures/mathematical-models|数学模型与物理公式]]、[[../figures/crystal-structures|晶体结构与原子排布]]、[[../figures/electronic-bands|电子能带与电子态]]、[[../figures/electronic-devices|电子与突触器件]]、[[../figures/optical-spectra|光学与吸收光谱]]、[[../concepts/domain-wall]]
+  - 图表 [[../figures/mathematical-models|数学模型与物理公式]]
+  - 图表 [[../figures/crystal-structures|晶体结构与原子排布]]
+  - 图表 [[../figures/electronic-bands|电子能带与电子态]]
+  - 图表 [[../figures/electronic-devices|电子与突触器件]]
+  - 图表 [[../figures/optical-spectra|光学与吸收光谱]]
   - 年度 [[../write/1945-1999|1996]]
-  - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
-  - 概念 [[../concepts/conjugate-gradient]]、[[../concepts/self-consistent-field-cycle]]、[[../concepts/harris-foulkes-functional]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-4-ttf-molecular-calc]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/kresseEfficientIterativeSchemes1996d]]
+
 ## 📊 关键图表
   - 图1：fcc-Fe（4 晶胞）自洽循环中不同方案下原子受力的收敛性，opt（式25 修正）较 out 快约 100 倍，证明 Pulay 型力修正对离子弛豫/MD 的关键作用。
   ![Fig.1 力的收敛性对比（fcc-Fe）](../../raw/figures/kresseEfficientIterativeSchemes1996d/fig_1_CDNY7B53.png) -> [[../figures/mathematical-models-computational|计算方法与泛函]]

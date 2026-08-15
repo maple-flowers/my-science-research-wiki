@@ -91,12 +91,33 @@ Dacheng Tian, Shulin Zhong, Jianyu Dong et al.（共同一作），2026 年，*N
 在 MBE 生长的双层 CrTe₂ 中首次实验实现室温、空气稳定的二维"多铁金属"，并演示非易失"电写磁读"；其磁电耦合不依赖自旋轨道耦合，而源于 FM/z-AFM 两层之间的自发层间电荷转移。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2d-materials]]、[[../concepts/spin-orbit-coupling]]（作为被本文机制取代的对照）、[[../concepts/sliding-ferroelectricity]]（本文明确排除的对照机制）、[[../concepts/polarization-switching]]、[[../concepts/strain-engineering]]（FM/AFM 层 0.37/0.39 nm 晶格失配与应变）、[[../concepts/density-functional-theory]]、[[../concepts/interlayer-charge-transfer|层间电荷转移]]、[[../concepts/electron-filling-magnetism|电子填充驱动磁有序]]、[[../concepts/ferroelectric-metal|铁电金属/多铁金属]]、[[../concepts/zigzag-antiferromagnetism|锯齿状反铁磁序]]、[[../concepts/electric-write-magnetic-read|电写磁读]]、[[../concepts/fm-afm-superlattice|FM/AFM 超晶格设计原则]]
-  - 实体 [[../entities/CrTe2]]、[[../entities/BiFeO3]]（传统块体多铁对照）、[[../entities/In2Se3]]（矫顽电压 1.5 V 对照）、[[../entities/TMDs]]、[[../entities/VASP]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]（Cr-t₂g/e_g 态密度与能带填充模型）、[[../concepts/domain-wall]]、[[../figures/heterostructures-stacking|多铁与磁电异质结]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/spin-orbit-coupling]]（作为被本文机制取代的对照）、
+  - 概念 [[../concepts/sliding-ferroelectricity]]（本文明确排除的对照机制）、
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/strain-engineering]]（FM/AFM 层 0.37/0.39 nm 晶格失配与应变）、
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/interlayer-charge-transfer|层间电荷转移]]
+  - 概念 [[../concepts/electron-filling-magnetism|电子填充驱动磁有序]]
+  - 概念 [[../concepts/ferroelectric-metal|铁电金属/多铁金属]]
+  - 概念 [[../concepts/zigzag-antiferromagnetism|锯齿状反铁磁序]]
+  - 概念 [[../concepts/electric-write-magnetic-read|电写磁读]]
+  - 概念 [[../concepts/fm-afm-superlattice|FM/AFM 超晶格设计原则]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/CrTe2]]
+  - 实体 [[../entities/BiFeO3]]（传统块体多铁对照）、
+  - 实体 [[../entities/In2Se3]]（矫顽电压 1.5 V 对照）、
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/VASP]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/electronic-bands]]（Cr-t₂g/e_g 态密度与能带填充模型）、
+  - 图表 [[../figures/heterostructures-stacking|多铁与磁电异质结]]
   - 年度 [[../write/2025-2029|2026]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
-  - 主题 [[../topics/多铁性材料]]、[[../topics/材料模拟计算设计]]
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
+  - 主题 [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
   - 相关论文 [[../../raw/note/tianRoomtemperatureTwodimensionalMultiferroic2026]]
 
 ## 📊 关键图表

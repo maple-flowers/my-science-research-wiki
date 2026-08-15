@@ -71,14 +71,20 @@ Nakanishi, Kobayashi, Sugiyama, Kitano，2009，*Journal of the Physical Society
 建立基于双光子波函数的全量子多模理论，解析给出任意光子对态的单/双光子吸收概率，并证明矩形时间窗波函数在 Δ·τ = π(2n+1) 时可完全抑制单光子吸收而保持双光子吸收，即"纠缠诱导双光子透明"。
 
 ## 🔗 Wiki 双链
-  - 概念：[[../concepts/two-photon-absorption|双光子吸收（TPA）]]、[[../concepts/two-photon-wavefunction|双光子波函数]]、[[../concepts/time-correlation|时间关联]]、[[../concepts/entanglement-induced-two-photon-transparency|纠缠诱导双光子透明]]、[[../concepts/biphoton|双光子态（biphoton）]]、[[../concepts/spontaneous-parametric-down-conversion|自发参量下转换（SPDC）]]、[[../concepts/electromagnetic-induced-transparency|电磁诱导透明（EIT）]]
-  - 实体：无直接匹配。
+  - 概念 [[../concepts/two-photon-absorption|双光子吸收（TPA）]]
+  - 概念 [[../concepts/two-photon-wavefunction|双光子波函数]]
+  - 概念 [[../concepts/time-correlation|时间关联]]
+  - 概念 [[../concepts/entanglement-induced-two-photon-transparency|纠缠诱导双光子透明]]
+  - 概念 [[../concepts/biphoton|双光子态（biphoton）]]
+  - 概念 [[../concepts/spontaneous-parametric-down-conversion|自发参量下转换（SPDC）]]
+  - 概念 [[../concepts/electromagnetic-induced-transparency|电磁诱导透明（EIT）]]
+  - 概念 [[../concepts/quantum-optics]]
+  - 实体 [[../entities/three-level-atom]]
   - 图表 [[../figures/mathematical-models]]（P1/P2 概率公式、时序波函数、sinc² 与等离子体色散函数对比图均属数学模型类）
   - 年度 [[../write/2005-2009|2009]]
   - 项目 [[../projects/project-1-two-photon]]
-  - 概念 [[../concepts/quantum-optics]]
-  - 实体 [[../entities/three-level-atom]]
   - 相关论文 [[../../raw/note/Nakanishi2009full]]
+  - 实体：无直接匹配。
 
 ## 🆕 新概念/实体建议
   - `figures/energy-level-diagrams.md` — 二能级/三能级阶梯型（|g〉-|a〉-|b〉）单光子与双光子跃迁能级图。

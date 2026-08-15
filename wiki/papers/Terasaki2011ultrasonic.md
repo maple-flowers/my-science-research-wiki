@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Terasaki2011ultrasonic]]
 projects: [project-3]
-concepts: [mechanoluminescence, elastic-deformation, trap-levels, mechano-optical-conversion, ultrasonic-excitation, SrAl2O4-Eu]
+concepts: [mechanoluminescence, elastic-deformation, trap-levels, mechano-optical-conversion, ultrasonic-excitation]
 entities: [SrAl2O4-Eu]
 methods: [ultrasonic-irradiation, sem-microscopy, optical-emission-detection]
 materials: [SrAl2O4-Eu]
@@ -70,13 +70,13 @@ Nao Terasaki、Hiroshi Yamada、Chao-Nan Xu，2011，ECS Meeting Abstracts，MA2
   - 概念 [[../concepts/trap-levels|陷阱能级]]
   - 概念 [[../concepts/mechano-optical-conversion|机械-光转换]]
   - 概念 [[../concepts/ultrasonic-excitation|超声激发]]
-  - 概念 [[../concepts/SrAl2O4-Eu|SrAl₂O₄:Eu（SAOE）]]
+  - 实体 [[../entities/SrAl2O4-Eu|SrAl₂O₄:Eu（SAOE）]]
   - 图表 [[../figures/experimental-setups]]
   - 图表 [[../figures/optical-spectra]]
   - 年度 [[../write/2010-2014|2011]]
   - 项目 [[../projects/project-3-mechanoluminescence-nn]]
-  - 实体 [[../entities/SrAl2O4-Eu]]
   - 相关论文 [[../../raw/note/Terasaki2011ultrasonic]]
+
 ## 🆕 新概念/实体建议
   - （暂无）
 ## 📊 关键图表

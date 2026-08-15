@@ -11,8 +11,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Khitrov2002internal]]
 projects: [project-1]
-concepts: [two-photon-excitation, photoluminescence-mapping, vls-growth, nanowire-superlattice, spherical-aberration, rare-earth-doping, lateral-integration]
-entities: [ZnSe, GaN, carbon-nanotube, Si-SiGe-nanowire, Ti-sapphire-laser, PMMA]
+concepts: [two-photon-excitation, vls-growth, nanowire-superlattice, spherical-aberration, rare-earth-doping, lateral-integration]
+entities: [carbon-nanotube, GaN, photoluminescence-mapping, PMMA, Si-SiGe-nanowire, Ti-sapphire-laser, ZnSe]
 methods: [two-photon-microscopy, photoluminescence-imaging, pulsed-laser-ablation, vls-growth, e-beam-lithography, afm-nanomechanics, electroluminescence]
 materials: [ZnSe, GaN, Si-SiGe, carbon-nanotube]
 figures: []
@@ -81,14 +81,25 @@ Greg Khitrov et al.，2002，MRS Bulletin，27(4), 285，DOI: 10.1557/mrs2002.84
 ## 💡 一句话
 报道了利用飞秒钛宝石激光双光子激发在多晶 ZnSe 内部 200 μm 深度实现三维缺陷光致发光成像（同期栏目还介绍了 Si/SiGe 超晶格纳米线、单根碳纳米管悬浮、稀土掺杂 GaN 横向颜色集成三项进展）。
 ## 🔗 Wiki 双链
-  - 图表 [[../figures/experimental-setups]]、[[../figures/optical-spectra]]
-  - 概念 [[../concepts/two-photon-excitation|双光子激发]]、[[../concepts/photoluminescence-mapping|光致发光成像]]、[[../concepts/vls-growth|VLS生长]]、[[../concepts/nanowire-superlattice|纳米线超晶格]]、[[../concepts/spherical-aberration|球面像差]]
+  - 概念 [[../concepts/two-photon-excitation|双光子激发]]
+  - 概念 [[../concepts/vls-growth|VLS生长]]
+  - 概念 [[../concepts/nanowire-superlattice|纳米线超晶格]]
+  - 概念 [[../concepts/spherical-aberration|球面像差]]
+  - 概念 [[../concepts/lateral-integration]]
+  - 概念 [[../concepts/rare-earth-doping]]
+  - 实体 [[../entities/photoluminescence-mapping|光致发光成像]]
   - 实体 [[../entities/PMMA|PMMA]]
+  - 实体 [[../entities/Si-SiGe-nanowire]]
+  - 实体 [[../entities/carbon-nanotube]]
+  - 实体 [[../entities/ZnSe]]
+  - 实体 [[../entities/GaN]]
+  - 实体 [[../entities/Ti-sapphire-laser]]
+  - 图表 [[../figures/experimental-setups]]
+  - 图表 [[../figures/optical-spectra]]
   - 年度 [[../write/2000-2004|2002]]
   - 项目 [[../projects/project-1-two-photon]]
-  - 概念 [[../concepts/lateral-integration]]、[[../concepts/rare-earth-doping]]
-  - 实体 [[../entities/Si-SiGe-nanowire]]、[[../entities/carbon-nanotube]]、[[../entities/ZnSe]]、[[../entities/GaN]]、[[../entities/Ti-sapphire-laser]]
   - 相关论文 [[../../raw/note/Khitrov2002internal]]
+
 ## 🆕 新概念/实体建议
   - [[../concepts/rare-earth-doped-gan|rare-earth-doped-gan]]（稀土掺杂 GaN）：在 GaN 中掺入 Eu、Tb 等离子获得特征红/绿光的电致发光体系。
   - 实体建议 [[../entities/ZnSe|ZnSe]]、[[../entities/GaN|GaN]]、[[../entities/carbon-nanotube|carbon-nanotube]]、[[../entities/Si-SiGe-nanowire|Si-SiGe-nanowire]]、[[../entities/Ti-sapphire-laser|Ti-sapphire-laser]]。

@@ -1,15 +1,17 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_0fc4b285989d11f19467525400287e28
-    ReservedCode1: sagcUONrb0S+KzZ100QY9HnWliPBgot0U4Qs6c7EgrZIEAIrkNKX7f2E9kd6KhWvJsb7VZZqkaktG6E/fsvCZ++RCjq7zy3tpXO1HC5TgIMZBonyTUjqSRaYt+GVCuv4nI+I2ePd6YLjJpSvBc5GAOFqP4DwPBuqT6R01Ji3uDKrUO2b69KRbzrRq78=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_0fc4b285989d11f19467525400287e28
-    ReservedCode2: sagcUONrb0S+KzZ100QY9HnWliPBgot0U4Qs6c7EgrZIEAIrkNKX7f2E9kd6KhWvJsb7VZZqkaktG6E/fsvCZ++RCjq7zy3tpXO1HC5TgIMZBonyTUjqSRaYt+GVCuv4nI+I2ePd6YLjJpSvBc5GAOFqP4DwPBuqT6R01Ji3uDKrUO2b69KRbzrRq78=
+tags: [paradigm, fabrication, two-photon-polymerization, lithography]
+title: 微纳加工与结构制备 / Micro- & Nano-Fabrication
+type: paradigm
+status: active
+paradigm_id: P08
+domain: [micro-nano-fabrication, photonics, applied-optics]
+core_question: 如何用激光、光刻等精密手段在材料上加工出微米/纳米尺度的三维结构，并验证其形貌精度与功能？
+method_pipeline: 工艺设计→曝光/聚合加工→显影与后处理→形貌表征（SEM/AFM）→功能验证与工艺窗口标定
+related_concepts: [two-photon-polymerization, nonlinear-optics, photoluminescence]
+related_entities: [ZnO, Ti-sapphire-laser]
+papers: [Gittard2013polymerization, Kotz2021polymerization, Khitrov2000holographic, Wang2023ultracompact]
+updated: 2026-08
 ---
-
-
 
 # 微纳加工与结构制备 / Micro- & Nano-Fabrication
 
@@ -84,4 +86,3 @@ AIGC:
 ## 📈 生命周期日志
 
 - **2026-08-15**: active — 提炼自 11 篇微纳加工与结构制备类论文（双光子聚合/全息光刻/激光直写等）。
-*（内容由AI生成，仅供参考）*

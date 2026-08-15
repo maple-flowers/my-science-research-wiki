@@ -5,9 +5,10 @@ type: concept
 status: developing
 domain: [ultrafast-optics, photophysics, solid-state-physics]
 mechanism: 利用飞秒（10^-15 s）或阿秒（10^-18 s）量级的极短脉冲激光研究物质在极短时间尺度内的动力学过程
-related_concepts: [pump-probe, electromagnon, nonlinear-optics]
+related_concepts: [electromagnon, nonlinear-optics]
 papers: [gaoGiantChiralMagnetoelectric2024a]
 updated: 2026-08
+entities: [pump-probe]
 ---
 
 # 超快光谱学 / Ultrafast Spectroscopy
@@ -21,7 +22,7 @@ updated: 2026-08
 ## 🏗️ 核心工具与技术
 
 超快光谱学的核心是超短脉冲激光器（通常为锁模钛蓝宝石激光器）。主要研究手段包括：
-1.  **[[../concepts/pump-probe|泵浦-探测技术 (Pump-Probe)]]**：最常用的非平衡态研究方法。
+1.  **[[../entities/pump-probe|泵浦-探测技术 (Pump-Probe)]]**：最常用的非平衡态研究方法。
 2.  **时间分辨二次谐波 (tr-SHG)**：专门用于探测结构或极性序的超快演化 [[../papers/gaoGiantChiralMagnetoelectric2024a]]。
 3.  **时间分辨磁光克尔效应 (tr-MOKE)**：用于实时监测磁矩动力学。
 
@@ -42,6 +43,6 @@ updated: 2026-08
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
-- [[../concepts/pump-probe|泵浦-探测]]
+- [[../entities/pump-probe|泵浦-探测]]
 - [[../concepts/electromagnon|电磁振子]]
 - [[../concepts/nonlinear-optics|非线性光学]]

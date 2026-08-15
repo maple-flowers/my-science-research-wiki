@@ -81,7 +81,6 @@ Joshua Hall, Niels Ehlen, Jan Berges, Erik van Loon, Camiel van Efferen, Cliffor
   - 概念 [[../concepts/moire-superlattice]]
   - 概念 [[../concepts/spin-orbit-coupling]]
   - 概念 [[../concepts/density-functional-theory]]
-  - 概念 [[../entities/TaS2|TaS₂]]
   - 概念 [[../concepts/constrained-dfpt|约束 DFPT]]
   - 概念 [[../concepts/interlayer-bias|层间偏压]]
   - 概念 [[../concepts/kohn-anomaly|Kohn 异常]]
@@ -97,9 +96,7 @@ Joshua Hall, Niels Ehlen, Jan Berges, Erik van Loon, Camiel van Efferen, Cliffor
   - 图表 [[../figures/heterostructures-stacking|自旋电子学与应变工程 (Spintronics & Strain Engineering)]]
   - 年度 [[../write/2015-2019|2019]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-    - 相关论文 [[../../raw/note/hallEnvironmentalControlCharge]]
-    - 关键图表 [[hallEnvironmentalControlCharge#关键图表]]
-    - Wiki 要点 [[hallEnvironmentalControlCharge#可写入wiki的要点]]
+  - 相关论文 [[../../raw/note/hallEnvironmentalControlCharge]]
 
 ## 📊 关键图表
   - ![图1 单层 TaS₂/Gr/Ir(111) 的 STM 概览：3×3 CDW、莫尔条纹、原子晶格三套周期及 32 meV 部分能隙](../../raw/figures/hallEnvironmentalControlCharge/fig_1_8TUKQU42.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]

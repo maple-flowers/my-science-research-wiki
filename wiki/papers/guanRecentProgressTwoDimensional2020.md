@@ -137,14 +137,56 @@ Zhao Guan, He Hu, Xinwei Shen, Pinghua Xiang, Ni Zhong, Junhao Chu, Chungang Dua
 这是一篇系统综述，将二维铁电材料从理论预测、实验证实、表征方法、内在机制（层内键合 vs 层间平移）到器件应用做了完整梳理，并把已被实验证实的二维铁电体锁定为 CuInP₂S₆、α-In₂Se₃、SnTe、WTe₂、d1T-MoTe₂、BA₂PbCl₄ 等六种少数体系。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/polarization-switching]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/berry-phase]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/strain-engineering]]、[[../concepts/ferroelasticity]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/charge-density-wave]]、[[../concepts/topological-defects]]、[[../concepts/moire-superlattice]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/finite-size-effect|有限尺寸效应]]、[[../concepts/dipole-locking|偶极锁定]]、[[../concepts/electronic-polarization|电子极化]]、[[../concepts/trimerization|三聚化]]、[[../concepts/improper-ferroelectricity|不正铁电性]]、[[../concepts/ferroelectric-metal|铁电金属]]、[[../concepts/flexoelectric-effect|挠曲电性]]、[[../concepts/ferrovalley|铁谷]]、[[../concepts/valleytronics|谷电子学]]
-  - 实体 [[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/SnTe]]、[[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/BiFeO3]]、[[../entities/VASP]]、[[../concepts/domain-wall]]、[[../entities/CuInP2S6|CuInP₂S₆]]、[[../entities/MoTe2|MoTe₂]]、[[../entities/GeSe]]、[[../entities/SnS]]、[[../entities/PZT]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking|层间滑移铁电：综述与材料体系]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups]]
-  - 年度 [[../write/2020-2024]]
-  - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
-  - 相关论文 [[../../raw/note/guanRecentProgressTwoDimensional2020]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/berry-phase]]
+  - 概念 [[../concepts/spin-orbit-coupling]]
+  - 概念 [[../concepts/sliding-ferroelectricity]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/ferroelasticity]]
+  - 概念 [[../concepts/ferroelectric-tunnel-junction]]
+  - 概念 [[../concepts/charge-density-wave]]
+  - 概念 [[../concepts/topological-defects]]
+  - 概念 [[../concepts/moire-superlattice]]
+  - 概念 [[../concepts/ferroelectricity|铁电性]]
+  - 概念 [[../concepts/depolarization-field|退极化场]]
+  - 概念 [[../concepts/finite-size-effect|有限尺寸效应]]
+  - 概念 [[../concepts/dipole-locking|偶极锁定]]
+  - 概念 [[../concepts/electronic-polarization|电子极化]]
+  - 概念 [[../concepts/trimerization|三聚化]]
+  - 概念 [[../concepts/improper-ferroelectricity|不正铁电性]]
+  - 概念 [[../concepts/ferroelectric-metal|铁电金属]]
+  - 概念 [[../concepts/flexoelectric-effect|挠曲电性]]
+  - 概念 [[../concepts/ferrovalley|铁谷]]
+  - 概念 [[../concepts/valleytronics|谷电子学]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/In2Se3]]
+  - 实体 [[../entities/WTe2]]
+  - 实体 [[../entities/SnTe]]
+  - 实体 [[../entities/h-BN]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/BiFeO3]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/CuInP2S6|CuInP₂S₆]]
+  - 实体 [[../entities/MoTe2|MoTe₂]]
+  - 实体 [[../entities/GeSe]]
+  - 实体 [[../entities/SnS]]
+  - 实体 [[../entities/PZT]]
   - 实体 [[../entities/BTO]]
   - 实体 [[../entities/BA2PbCl4]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/electronic-bands]]
+  - 图表 [[../figures/heterostructures-stacking|层间滑移铁电：综述与材料体系]]
+  - 图表 [[../figures/electronic-devices]]
+  - 图表 [[../figures/experimental-setups]]
+  - 年度 [[../write/2020-2024]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-4-ttf-molecular-calc]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-7-cdw-charge-density-wave]]
+  - 相关论文 [[../../raw/note/guanRecentProgressTwoDimensional2020]]
 
 ## 🆕 新概念/实体建议
   - [[../concepts/intralayer-bonding|intralayer-bonding]] / [[../concepts/interlayer-translation|interlayer-translation]]（层内键合 / 层间平移）：本文提出的二维铁电机制一级分类框架，前者含结构畸变、偶极锁定、电子极化，后者以层间滑移改变电荷转移产生 OOP 极化。
@@ -290,7 +332,7 @@ Zhao Guan, He Hu, Xinwei Shen, Pinghua Xiang, Ni Zhong, Junhao Chu, Chungang Dua
   4. **CuInP₂S₆ 是离子位移型铁电**：ABP₂X₆ 型 TMTP 家族，Cu⁺ 在硫八面体空洞中两偏心位置间有序化；反平行偶极排列大幅降低内部退极化场，使其在超薄厚度下稳定；Tc≈315–320 K（室温附近）；4 nm 厚仍可被 PFM 翻转；但 Cu 离子迁移也会产生形貌变化和电化学假信号，是 PFM 判读的警示案例。
   5. **WTe₂ 是首个实验证实的二维[[../concepts/ferroelectric-metal|铁电金属]]**：双层/三层 1T′-WTe₂ 在 350 K 以下呈现电导双稳态，对应两种 OOP 极化；机制被归因于电子-空穴关联而非离子位移（4 K 单层电导对垂直电场几乎无响应；极化在超过自发极化电势和电子-空穴密度补偿点时翻转）；这挑战了“铁电必为绝缘体”的传统认知，上承 Anderson-Blount 1965 年的[[../concepts/polar-metal|极性金属]]设想与 LiOsO₃（2013, 140 K Li 离子沿 [111] 位移）。
   6. **d1T-MoTe₂ 的[[../concepts/trimerization|三聚化]]机制**：单层 d1T-MoTe₂ 室温下因 Mo 三聚化（Te 原子向 Mo 面位移约 0.6 Å，Te-Te 距 3.4 Å）打破反演对称而具 IP 铁电；2H 相无 PFM 信号作对照；HRTEM+SHG+PFM 三技术联用确认；是“[[../concepts/improper-ferroelectricity|不正铁电性]]”的 TMD 代表。
-  7. **机制一级分类框架**：二维铁电机制可按三种方式分类——(i) 按偶极形成位置分为层内键合（结构畸变/离子位移、偶极锁定/共价键重构、[[../concepts/electronic-polarization|电子极化]]/自旋交换）与层间相互作用（层间平移、BN 类滑移铁电、[[../concepts/moire-superlattice|莫尔[[../concepts/superlattice|超晶格]]]]）；(ii) 按载流子分为离子位移和电子极化；(iii) 按键合构型分为离子位移型和共价键型；[[../concepts/inversion-symmetry-breaking|反演对称破缺]]是统一必要条件。
+  7. **机制一级分类框架**：二维铁电机制可按三种方式分类——(i) 按偶极形成位置分为层内键合（结构畸变/离子位移、偶极锁定/共价键重构、[[../concepts/electronic-polarization|电子极化]]/自旋交换）与层间相互作用（层间平移、BN 类滑移铁电、[[../concepts/moire-superlattice|莫尔超晶格]]）；(ii) 按载流子分为离子位移和电子极化；(iii) 按键合构型分为离子位移型和共价键型；[[../concepts/inversion-symmetry-breaking|反演对称破缺]]是统一必要条件。
   8. **标准第一性原理计算 recipe**：VASP + PAW + PBE-GGA（或 LDA），带隙用 HSE06；k 点 Monkhorst-Pack；z 方向真空层约 20 Å 消除层间相互作用；NEB 算铁电/铁弹相变[[../concepts/switching-barrier|翻转势垒]]；Berry phase（King-Smith & Vanderbilt）算自发极化；强关联体系用 DFT+U；范德华作用用 Lennard-Jones 势。
   9. **PFM 是必要但不充分证据**：PFM 检测电致机械应变，任何引起形变的现象（静电吸引、离子迁移/电化学膨胀、电荷注入、环境影响）都可能产生类铁电相位对比度和蝴蝶曲线；在 CuInP₂S₆ 等离子导体上尤需警惕；必须联合 SHG（验证反演对称破缺）、STEM（直接观察原子位移）、变温/变频对照、非铁电相对照（如 β-In₂Se₃、2H-MoTe₂ 无信号）形成完整证据链。
   10. **器件与新物理**：已演示的原型包括 SnTe FeRAM（ON/OFF≈3000）、MoS₂/CuInP₂S₆ FeFET（>4 个数量级开关比）、In₂Se₃ 平面二极管、In:SnSe/SnSe/Sb:SnSe 同质结 2D-FTJ（TER≈1460%）、1 u.c. BTO FTJ（TER 370%）、2 u.c. BTO FTJ（TER 2700%）、MoS₂-PZT 光电 FeFET、MoSe₂ FeFET；铁电还能诱导谷极化（GeSe）、Rashba [[../concepts/spin-texture|自旋纹理]]翻转（GeTe/InP 超晶格）、控制 MoS₂ 在 LiNbO₃ 衬底上的择优生长。BA₂PbCl₄ 等 Ruddlesden-Popper 杂化钙钛矿和 BiFeO₃ 1 u.c. 超薄膜说明传统钙钛矿也能逼近二维极限。

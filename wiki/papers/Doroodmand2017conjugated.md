@@ -16,7 +16,6 @@ projects: [project-6]
 concepts:
   - hydrochromism
   - reflective-filter
-  - cyclic-voltammetry
   - conjugated-polymer
   - salen-ligand
   - optical-sensing
@@ -26,6 +25,7 @@ entities:
   - Salen
   - glassy-carbon
   - KCl
+  - cyclic-voltammetry
 methods:
   - cyclic-voltammetry
   - sem-imaging
@@ -112,16 +112,24 @@ Mohammad Mahdi Doroodmand, Sina Owji，2017，*International Journal of Advanced
 首次用循环伏安法在玻碳电极上电合成"无金属"共轭 Salen 聚合物薄膜，将其同时作为亲水感湿层和白光反射滤光片，通过相机读取反射光蓝色分量强度，实现 5–80% RH 范围内线性、快速（~9.5 s）、高选择性的光学湿度检测。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/conjugated-polymer|共轭聚合物]]、[[../concepts/electropolymerization|电聚合]]、[[../concepts/hydrochromism|水致变色]]、[[../concepts/reflective-filter|反射滤光片]]、[[../concepts/salen-ligand|Salen配体]]
-  - 实体 [[../entities/Salen|Salen]]、[[../entities/glassy-carbon|玻碳电极]]
+  - 概念 [[../concepts/conjugated-polymer|共轭聚合物]]
+  - 概念 [[../concepts/electropolymerization|电聚合]]
+  - 概念 [[../concepts/hydrochromism|水致变色]]
+  - 概念 [[../concepts/reflective-filter|反射滤光片]]
+  - 概念 [[../concepts/salen-ligand|Salen配体]]
+  - 概念 [[../concepts/optical-sensing]]
+  - 概念 [[../concepts/refractive-index]]
+  - 实体 [[../entities/cyclic-voltammetry]]
+  - 实体 [[../entities/Salen|Salen]]
+  - 实体 [[../entities/glassy-carbon|玻碳电极]]
+  - 实体 [[../entities/KCl]]
   - 图表 [[../figures/experimental-setups]]（图 1 传感腔体光路示意图）
   - 图表 [[../figures/vibrational-spectra]]（图 8B FT-IR 表征共轭结构）
   - 图表 [[../figures/optical-spectra]]（图 9–10 RGB/蓝色分量随 RH 的光学响应）
   - 年度 [[../write/2015-2019|2017]]
   - 项目 [[../projects/project-6-humidity-sensor]]
-  - 概念 [[../concepts/cyclic-voltammetry]]、[[../concepts/optical-sensing]]、[[../concepts/refractive-index]]
-  - 实体 [[../entities/KCl]]
   - 相关论文 [[../../raw/note/Doroodmand2017conjugated]]
+
 ## 📊 关键图表
   - **图1：湿度光学传感器装置示意图**
   - ![图1 湿度光学传感器装置示意图：1500 mL 玻璃腔、白光LED、相机、玻碳探针、IR光源、参考湿度计](../../raw/figures/Doroodmand2017conjugated/fig_1_SCVHIKUS.png) -> [[../figures/experimental-setups|实验装置与测量系统]]

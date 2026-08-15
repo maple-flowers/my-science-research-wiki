@@ -98,12 +98,32 @@ Li, Medhekar, Shenoy，2013，*The Journal of Physical Chemistry C* 117(30), 158
 用第一性原理 DFT 系统计算了六种单层 VI 族 TMD（Mo/W × S/Se/Te）沿扶手椅和锯齿方向的完整应力–应变曲线，揭示极限强度的组分/方向依赖性，并建立"力学性能（E、σ*）随 M→X 电荷转移量 ΔQ 线性增长"的简单定量模型，其电子结构根源是 M-d/X-p 轨道杂化强度。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2d-materials]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/bond-density]]、[[../concepts/binding-strength]]、[[../concepts/bonding-charge-density|键合电荷密度]]、[[../concepts/charge-transfer-descriptor|电荷转移描述符 ΔQ]]、[[../concepts/d-band-center|d 带中心]]、[[../concepts/mechanical-anisotropy|力学各向异性]]、[[../concepts/p-d-hybridization|p-d 轨道杂化]]、[[../concepts/ultimate-strength|极限强度 σ*]]
-  - 实体 [[../entities/TMDs]]、[[../entities/VASP]]、[[../entities/MoTe2|MoTe₂]]、[[../entities/WTe2|WTe₂]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking|力学性质、剥离能与杂项]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/bond-density]]
+  - 概念 [[../concepts/binding-strength]]
+  - 概念 [[../concepts/bonding-charge-density|键合电荷密度]]
+  - 概念 [[../concepts/charge-transfer-descriptor|电荷转移描述符 ΔQ]]
+  - 概念 [[../concepts/d-band-center|d 带中心]]
+  - 概念 [[../concepts/mechanical-anisotropy|力学各向异性]]
+  - 概念 [[../concepts/p-d-hybridization|p-d 轨道杂化]]
+  - 概念 [[../concepts/ultimate-strength|极限强度 σ*]]
+  - 概念 [[../concepts/stress-strain-relation]]
+  - 概念 [[../concepts/poisson-contraction]]
+  - 概念 [[../concepts/bader-analysis]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/MoTe2|MoTe₂]]
+  - 实体 [[../entities/WTe2|WTe₂]]
+  - 实体 [[../entities/MoSe2]]
+  - 实体 [[../entities/WSe2]]
+  - 实体 [[../entities/ABINIT]]
+  - 实体 [[../entities/WS2]]
+  - 实体 [[../entities/MoS2]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/heterostructures-stacking|力学性质、剥离能与杂项]]
   - 年度 [[../write/2010-2014|2013]]
-  - 概念 [[../concepts/stress-strain-relation]]、[[../concepts/poisson-contraction]]、[[../concepts/bader-analysis]]
-  - 实体 [[../entities/MoSe2]]、[[../entities/WSe2]]、[[../entities/ABINIT]]、[[../entities/WS2]]、[[../entities/MoS2]]
   - 相关论文 [[../../raw/note/Li2013bonding]]
 
 ## 🆕 新概念/实体建议
@@ -169,5 +189,5 @@ Li, Medhekar, Shenoy，2013，*The Journal of Physical Chemistry C* 117(30), 158
   6. 扶手椅方向极限应变 ε*_AR=0.28–0.32，远大于锯齿方向 ε*_ZZ=0.14–0.19；这与 DFTB 对 MoS₂ 纳米管预测两方向均约 16% 形成对比，说明二维单层与纳米管几何在大应变下力学响应不同。
   7. 电子结构机理：费米能级以下 0 到 −8 eV 区间 M-d 与 X-p [[../concepts/density-of-states|态密度]]峰强烈重叠即 p–d 杂化；从硫化物到碲化物，杂化峰整体向费米能级上移（MoS₂ 最深峰约 −5.25 eV，MoTe₂ 对应峰上移约 1 eV），且低能 d 峰降低、近费米峰增强。
   8. [[../concepts/d-band-center|d 带中心]] E_d（积分下限 −8 eV，E_F=0）：MoS₂/ MoSe₂/MoTe₂ 为 −2.68/−2.37/−1.94 eV；WS₂/WSe₂/WTe₂ 为 −2.98/−2.65/−2.18 eV。E_d 越深→M–X 共价键越强→E 和 σ* 越高；W 的 5d 比 Mo 的 4d 更弥散，杂化更强，故 WX₂ 更强。
-  9. [[../concepts/bonding-charge-density|键合[[../concepts/charge-density|电荷密度]]]]（体系价电荷密度减去中性原子叠加，单位 e/Bohr³）在 M–X 之间出现红色积累区即共价键可视化；从硫化物到碲化物该红色区变浅变小，与强度下降一致；同时 X 周围红、M 周围蓝，直观显示 M→X [[../concepts/charge-transfer|电荷转移]]（离子键成分）。
+  9. [[../concepts/bonding-charge-density|键合电荷密度]]（体系价电荷密度减去中性原子叠加，单位 e/Bohr³）在 M–X 之间出现红色积累区即共价键可视化；从硫化物到碲化物该红色区变浅变小，与强度下降一致；同时 X 周围红、M 周围蓝，直观显示 M→X [[../concepts/charge-transfer|电荷转移]]（离子键成分）。
   10. 线性模型 E(σ*) ≈ a + b·ΔQ（Bader 电荷，表 III）：E 拟合 a=171.97 GPa、b=61.34 GPa/e；σ*_AR 拟合 a=18.21 GPa、b=10.40 GPa/e；σ*_ZZ 拟合 a=16.86 GPa、b=1.60 GPa/e。即 ΔQ 每增加 0.1 e，E 升高约 6.1 GPa，扶手椅 σ* 升高约 1.04 GPa；该模型把量子力学结果简化为一个易算的[[../concepts/charge-transfer-descriptor|电荷转移描述符]]，但仅基于六种同构型 TMD 拟合，向其他族/[[../concepts/2d-materials|二维材料]]外推的适用边界尚未验证（作者批判性讨论点之一）。

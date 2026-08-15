@@ -87,11 +87,28 @@ Gao, Chen, Qi et al.，2024，Applied Physics Letters 125, 212903，DOI 10.1063/
 基于第一性原理计算，提出利用 β'-In₂Se₃ 中铁弹性与铁电性的内禀耦合，通过单轴/剪切应变而非外电场来旋转极化方向、降低相变势垒并可逆切换 60°/180° 畴壁，实现铁电畴的"应变编程"。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/ferroelasticity]]、[[../concepts/multiferroicity]]、[[../concepts/strain-engineering]]、[[../concepts/2D-materials]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelastic-ferroelectric-coupling]]、[[../concepts/transformation-strain]]、[[../concepts/domain-wall-electronics]]
-  - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/WTe2]]、[[../entities/SnTe]]、[[../concepts/domain-wall]]、[[../entities/HgBr2]]、[[../entities/CuInP2S6]]
-  - 图表 [[../figures/crystal-structures]]、[[../concepts/domain-wall]]、[[../figures/mathematical-models]]
+  - 概念 [[../concepts/ferroelasticity]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/berry-phase]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/ferroelastic-ferroelectric-coupling]]
+  - 概念 [[../concepts/transformation-strain]]
+  - 概念 [[../concepts/domain-wall-electronics]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/In2Se3]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/WTe2]]
+  - 实体 [[../entities/SnTe]]
+  - 实体 [[../entities/HgBr2]]
+  - 实体 [[../entities/CuInP2S6]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2020-2024]]
-  - 话题 [[多铁性材料]]、[[材料模拟计算设计]]
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
+  - 主题 [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
   - 相关论文 [[../../raw/note/gaoStrainEngineeringFerroelectric2024]]
 
 ## 📊 关键图表

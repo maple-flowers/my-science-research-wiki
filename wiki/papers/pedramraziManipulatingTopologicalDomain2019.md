@@ -76,11 +76,28 @@ Zahra Pedramrazi, Charlotte Herbig, Artem Pulkin, Shujie Tang, ... Michael F. Cr
 ## 💡 一句话
 用 STM 针尖脉冲在单层 1T′-WSe2 中可逆写入/擦除铁弹畴界（120°/60°/0°）并诱导 1T′→1H 相变，结合 STS 与 DFT/NEGF 首次系统表征了 QSHI 中拓扑"未保护"的 1T′/1T′ 畴界面态，建立了其与拓扑保护 1T′/1H 边缘态的谱学鉴别标准。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/topological-defects]]、[[../concepts/ferroelasticity]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/quantum-spin-hall-effect|量子自旋霍尔绝缘体]]、[[../entities/WSe2|WSe2]]、[[../concepts/topological-vs-trivial-interface|拓扑与平庸界面]]、[[../concepts/nonequilibrium-greens-function|非平衡格林函数]]、[[../concepts/pseudogap|赝能隙/零偏压异常]]、[[../concepts/peierls-distortion|Peierls畸变]]
-  - 实体 [[../entities/TMDs]]、[[../concepts/domain-wall]]、[[../entities/WTe2]]
-  - 图表 [[../figures/electronic-bands]]、[[../figures/crystal-structures]]、[[../figures/heterostructures-stacking|莫尔超晶格、扭转角与层间堆积 (Moiré, Twist & Stacking)]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/topological-defects]]
+  - 概念 [[../concepts/ferroelasticity]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/berry-phase]]
+  - 概念 [[../concepts/spin-orbit-coupling]]
+  - 概念 [[../concepts/quantum-spin-hall-effect|量子自旋霍尔绝缘体]]
+  - 概念 [[../concepts/topological-vs-trivial-interface|拓扑与平庸界面]]
+  - 概念 [[../concepts/nonequilibrium-greens-function|非平衡格林函数]]
+  - 概念 [[../concepts/pseudogap|赝能隙/零偏压异常]]
+  - 概念 [[../concepts/peierls-distortion|Peierls畸变]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/WSe2|WSe2]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/WTe2]]
+  - 图表 [[../figures/electronic-bands]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/heterostructures-stacking|莫尔超晶格、扭转角与层间堆积 (Moiré, Twist & Stacking)]]
   - 年度 [[../write/2015-2019]]
   - 相关论文 [[../../raw/note/pedramraziManipulatingTopologicalDomain2019]]
+
 ## 📊 关键图表
   - ![图1 STM针尖脉冲诱导1T′-WSe2结构相变：(a,b)可逆产生1T′/1T′畴界；(c,d)1T′→1H相变](../../raw/figures/pedramraziManipulatingTopologicalDomain2019/fig_1_K7BJPPZ4.png) → [[../figures/crystal-structures-xrd-phases|XRD与相变]]
   - **图示描述**：STM形貌像（dz/dx 微分模式以增强相衬度），展示同一单层1T′-WSe2岛在针尖脉冲（V_pulse=10 V，Δt=100 ms，针尖-样品间距约6 Å，Vs=1 V，It=10 pA，T=4.5 K）前后的结构变化。(a)(b)脉冲前后同一1T′岛出现多个不同取向的畴并形成有序一维1T′/1T′畴界；(c)(d)另一1T′岛脉冲后中心区域发生1T′→1H相变，1H区表观高度更低。

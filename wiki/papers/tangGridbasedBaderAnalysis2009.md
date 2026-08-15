@@ -85,11 +85,23 @@ W Tang、E Sanville、G Henkelman，2009，*Journal of Physics: Condensed Matter
 提出"近网法"（near-grid method），通过累积"修正向量"在网格点间追踪真实的离网格电荷密度梯度轨迹，在保持 O(N) 线性标度的同时彻底消除了早期在网法（on-grid method）的晶格偏差，使 Bader 电荷/体积能随网格加密单调收敛、且不依赖于分子相对网格的取向。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/density-functional-theory]] [[../concepts/bader-analysis|Bader分析]] [[../concepts/charge-density|电荷密度]] [[../concepts/zero-flux-surface|零通量面]] [[../concepts/lattice-bias|晶格偏差]] [[../concepts/mulliken-population]] [[../concepts/correction-vector|修正向量]] [[../concepts/steepest-ascent]] [[../concepts/non-nuclear-attractor|非核吸引子]]
-  - 实体 [[../entities/VASP]] [[../entities/Quantum-ESPRESSO|Quantum ESPRESSO]] [[../entities/bader-code|Bader程序]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/bader-analysis|Bader分析]]
+  - 概念 [[../concepts/charge-density|电荷密度]]
+  - 概念 [[../concepts/zero-flux-surface|零通量面]]
+  - 概念 [[../concepts/lattice-bias|晶格偏差]]
+  - 概念 [[../concepts/mulliken-population]]
+  - 概念 [[../concepts/correction-vector|修正向量]]
+  - 概念 [[../concepts/steepest-ascent]]
+  - 概念 [[../concepts/non-nuclear-attractor|非核吸引子]]
+  - 概念 [[../concepts/electron-localization-function]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/Quantum-ESPRESSO|Quantum ESPRESSO]]
+  - 实体 [[../entities/bader-code|Bader程序]]
+  - 实体 [[../entities/Gaussian-98]]
+  - 实体 [[../entities/PAW]]
+  - 实体 [[../entities/Vanderbilt-ultrasoft]]
   - 年度 [[../write/2005-2009|2009]]
-  - 概念 [[../concepts/electron-localization-function]]、[[../concepts/steepest-ascent]]
-  - 实体 [[../entities/Gaussian-98]]、[[../entities/PAW]]、[[../entities/Vanderbilt-ultrasoft]]
   - 相关论文 [[../../raw/note/tangGridbasedBaderAnalysis2009]]
 
 ## 📊 关键图表

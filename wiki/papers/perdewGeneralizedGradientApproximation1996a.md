@@ -81,13 +81,31 @@ Perdew、Burke、Ernzerhof，1996，Physical Review Letters 77(18), 3865–3868�
 ## 💡 一句话
 从七个能量上关键的物理极限条件出发，推导出无经验参数、形式简洁的 PBE 广义梯度近似泛函，在保持与 PW91 同等精度的同时修正了其六大理论缺陷，成为后世 DFT 计算最广泛使用的标准泛函。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/density-functional-theory]]、[[../concepts/exchange-correlation-functional|交换-关联泛函]]、[[../concepts/generalized-gradient-approximation|广义梯度近似]]、[[../concepts/local-spin-density-approximation|局域自旋密度近似]]、[[../concepts/PBE-functional]]、[[../concepts/pw91-functional|PW91 泛函]]、[[../concepts/enhancement-factor|增强因子]]、[[../concepts/lieb-oxford-bound|Lieb-Oxford 界]]、[[../concepts/linear-response|线性响应]]、[[../concepts/uniform-electron-gas|均匀电子气]]、[[../concepts/self-interaction-error|自相互作用误差]]、[[../concepts/pseudopotential|赝势]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/exchange-correlation-functional|交换-关联泛函]]
+  - 概念 [[../concepts/generalized-gradient-approximation|广义梯度近似]]
+  - 概念 [[../concepts/local-spin-density-approximation|局域自旋密度近似]]
+  - 概念 [[../concepts/PBE-functional]]
+  - 概念 [[../concepts/pw91-functional|PW91 泛函]]
+  - 概念 [[../concepts/enhancement-factor|增强因子]]
+  - 概念 [[../concepts/lieb-oxford-bound|Lieb-Oxford 界]]
+  - 概念 [[../concepts/linear-response|线性响应]]
+  - 概念 [[../concepts/uniform-electron-gas|均匀电子气]]
+  - 概念 [[../concepts/self-interaction-error|自相互作用误差]]
+  - 概念 [[../concepts/pseudopotential|赝势]]
   - 实体 [[../entities/VASP]]
-  - 图表 [[../figures/mathematical-models]]、[[../figures/crystal-structures|晶体结构与原子排布]]、[[../figures/electronic-bands|电子能带与电子态]]、[[../figures/vibrational-spectra|振动能谱与声子谱]]
-  - 年度 [[../write/1945-1999|1996]]
-  - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
   - 实体 [[../entities/CADPAC]]
+  - 图表 [[../figures/mathematical-models]]
+  - 图表 [[../figures/crystal-structures|晶体结构与原子排布]]
+  - 图表 [[../figures/electronic-bands|电子能带与电子态]]
+  - 图表 [[../figures/vibrational-spectra|振动能谱与声子谱]]
+  - 年度 [[../write/1945-1999|1996]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
+  - 项目 [[../projects/project-4-ttf-molecular-calc]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/perdewGeneralizedGradientApproximation1996a]]
+
 ## 🆕 新概念/实体建议
   - 实体 [[../entities/CADPAC|CADPAC]]：Cambridge Analytical Derivatives Package，本文用于原子化能计算的量子化学程序。
 ## 📊 关键图表

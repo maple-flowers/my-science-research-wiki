@@ -97,12 +97,45 @@ Zi-Han Guo（郭子涵）、Lin He（何林，通讯作者，北京师范大学�
 系统综述二维铁电材料两大路径——基于离子位移的自发极化铁电体与基于范德华层间滑移/电荷重分布的滑移铁电体，重点确立"滑移铁电"新范式并总结其在非易失存储、光电异异质结、自发光伏及铁电拓扑绝缘体中的应用进展。
 ## 🔗 Wiki 双链
 本文涉及且 wiki 中已存在的条目，用双链列出（存在才链）：
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/polarization-switching]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/moire-superlattice]]、[[../concepts/strain-engineering]]、[[../concepts/topological-defects]]、[[../concepts/multiferroicity]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/domain-engineering|畴工程]]、[[../concepts/ferroelectric-topological-insulator|铁电拓扑绝缘体 (FETI)]]、[[../concepts/fractional-quantum-ferroelectricity|分数量子铁电性]]、[[../concepts/bulk-photovoltaic-effect|体光伏效应 (BPVE)]]、[[../concepts/dipole-locking|偶极锁定]]
-  - 实体 [[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/SnTe]]、[[../entities/BiFeO3]]、[[../concepts/domain-wall]]、[[../entities/CuInP2S6|CuInP₂S₆ (CIPS)]]、[[../entities/bp-bi-bismuth|BP-Bi（类黑磷铋）]]、[[../entities/1T-MoTe2]]、[[../entities/3r-tmds|3R 相 TMDs]]、[[../entities/rbn-rhombohedral-bn|rBN（菱方BN）]]、[[../entities/MnBi2Te4]]
-  - 图表 [[../figures/electronic-bands]]、[[../figures/electronic-devices]]、[[../figures/heterostructures-stacking]]、[[../figures/mathematical-models]]、[[../concepts/domain-wall]]、[[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/sliding-ferroelectricity]]
+  - 概念 [[../concepts/polarization-switching]]
+  - 概念 [[../concepts/berry-phase]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/moire-superlattice]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/topological-defects]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/ferroelectric-tunnel-junction]]
+  - 概念 [[../concepts/spin-orbit-coupling]]
+  - 概念 [[../concepts/depolarization-field|退极化场]]
+  - 概念 [[../concepts/domain-engineering|畴工程]]
+  - 概念 [[../concepts/ferroelectric-topological-insulator|铁电拓扑绝缘体 (FETI)]]
+  - 概念 [[../concepts/fractional-quantum-ferroelectricity|分数量子铁电性]]
+  - 概念 [[../concepts/bulk-photovoltaic-effect|体光伏效应 (BPVE)]]
+  - 概念 [[../concepts/dipole-locking|偶极锁定]]
+  - 概念 [[../concepts/domain-wall]]
+  - 实体 [[../entities/h-BN]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/In2Se3]]
+  - 实体 [[../entities/WTe2]]
+  - 实体 [[../entities/SnTe]]
+  - 实体 [[../entities/BiFeO3]]
+  - 实体 [[../entities/CuInP2S6|CuInP₂S₆ (CIPS)]]
+  - 实体 [[../entities/bp-bi-bismuth|BP-Bi（类黑磷铋）]]
+  - 实体 [[../entities/1T-MoTe2]]
+  - 实体 [[../entities/3r-tmds|3R 相 TMDs]]
+  - 实体 [[../entities/rbn-rhombohedral-bn|rBN（菱方BN）]]
+  - 实体 [[../entities/MnBi2Te4]]
+  - 图表 [[../figures/electronic-bands]]
+  - 图表 [[../figures/electronic-devices]]
+  - 图表 [[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2025-2029]]
-  - 主题 [[多铁性材料]]、[[材料模拟计算设计]]
+  - 主题 [[../topics/D02-multiferroic-materials|多铁性材料]]
+  - 主题 [[../topics/Z01-computational-materials-design|材料模拟计算设计]]
   - 相关论文 [[../../raw/note/guoAdvancesTwodimensionalFerroelectric2025]]
+
 ## 📊 关键图表
   - ![图1：CIPS（a-e，四重势阱/PFM盒中盒/电滞回线）与 α-In₂Se₃（f-h，偶极锁定/单层PFM/β′β″相）自发极化](../../raw/figures/guoAdvancesTwodimensionalFerroelectric2025/fig_1_7K9CL28G.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
   - **图示描述**：本图汇总两类经典离子位移型二维铁电体。(a-e) 为 CuInP₂S₆：层状硫族骨架、Cu⁺ 在 S 八面体笼中的四重势阱模型、LP→HP 切换时 Cu⁺/In³⁺ 协同位移、30 nm 薄片上 ±偏压写入的 PFM"盒中盒"相位图（比例尺 1 μm），以及相位 180°翻转+振幅蝴蝶型回线。(f-h) 为 α-In₂Se₃：Se-In-Se-In-Se 五层结构中央 Se 原子双稳态移动同步翻转面内/面外极化的"偶极锁定"、单层 PFM 形貌与压电回滞，以及 β′ 反铁电相/β″ 铁电相的层内极化方向对比。
@@ -171,7 +204,7 @@ Zi-Han Guo（郭子涵）、Lin He（何林，通讯作者，北京师范大学�
   - 铁电拓扑绝缘体 / Ferroelectric topological insulator (FETI)
 ## ✏️ 可写入 Wiki 的要点
   1. **滑移铁电范式的确立**：概念由 Li & Wu 于 2017 年提出（ACS Nano 11, 6382）。核心机制是在非极性 vdW 材料中通过层间滑移打破空间[[../concepts/inversion-symmetry|反演对称性]]，由界面电荷重分布产生垂直偶极阵列形成宏观面外极化；母体无须本征极性，[[../concepts/polarization-switching|极化翻转]]仅需层间滑移一个键长距离，能垒远低于离子位移机制。三大优势：母体可选范围覆盖导体/半导体/绝缘体；堆叠转角、层数、异质结等多自由度可调；干法转移/直接生长与硅基工艺兼容。
-  2. **理论计算三件套**：(i) Berry phase 法计算宏观极化强度 P = (e/(2π)³) Σ_n^occ ∫_BZ dk A_n(k)（King-Smith & Vanderbilt 1993），用 Wilson 环或累积相位差量化电荷中心位移；(ii) NEB/CI-NEB 搜索极化翻转最小能量路径（MEP）和能垒；(iii) 差分[[../concepts/charge-density|电荷密度]] Δρ_interlayer(r) = ρ_total(r) − Σ_i ρ_isolated^i(r) 可视化[[../concepts/interlayer-charge-transfer|层间[[../concepts/charge-transfer|电荷转移]]]]方向与聚集区。
+  2. **理论计算三件套**：(i) Berry phase 法计算宏观极化强度 P = (e/(2π)³) Σ_n^occ ∫_BZ dk A_n(k)（King-Smith & Vanderbilt 1993），用 Wilson 环或累积相位差量化电荷中心位移；(ii) NEB/CI-NEB 搜索极化翻转最小能量路径（MEP）和能垒；(iii) 差分[[../concepts/charge-density|电荷密度]] Δρ_interlayer(r) = ρ_total(r) − Σ_i ρ_isolated^i(r) 可视化[[../concepts/interlayer-charge-transfer|层间电荷转移]]方向与聚集区。
   3. **hBN 滑移铁电**：hBN 带隙~5.97 eV，本征 AA' 堆叠偶极反平行抵消总极化为零；滑移至 AB/BA 平行构型即产生面外铁电极化，而 AA、AA'、AB'、BA' 因对称性仍非极性。t-hBN（<1° 转角）因晶格弛豫自发形成 AB/BA 纳米[[../concepts/ferroelectric-domain|铁电畴]]，EFM/KPFM 测得 AB/BA 畴间电势差约 200 mV，与理论预测相符。p-hBN 呈陡峭矩形电滞回线（高[[../concepts/coercive-field|矫顽场]]，适合非易失存储），t-hBN 呈渐进式双峰回线（畴壁迁移主导，低驱动场连续调谐，适合低功耗可编程器件）。AB/BA 畴过渡区（SP）还存在周期性面内偶极子，第一性原理预测并被实验证实，可形成 meron/antimeron 等[[../concepts/topological-polarization|拓扑极化]]网络。
   4. **WTe₂ 滑移铁电**：Td-WTe₂ 是首个实验证实的滑移铁电体（Fei et al., Nature 2018, 560, 336）。双层/三层出现显著电滞回线（相变温度~350 K），单层无回线，直接证明[[../concepts/ferroelectricity|铁电性]]来自[[../concepts/interfacial-charge-rearrangement|层间电荷重排]]而非本征极化。Hirshfeld 电荷分析量化层间 4 个近邻 Te 原子电荷转移：双层面外极化反转对应沿 b 轴 0.72 Å（能垒 0.6 meV/cell，Li 2018）或 0.493 Å（0.3 meV/cell，Ren 2019）的层间滑移。奇数层需中间偶数层滑移导致极化减弱；块体因电子屏蔽抑制铁电性。Xiao 等通过 SHG 蝴蝶型滞后曲线和拉曼剪切模消失证实极化反转伴随 Td→1T′→Td 相变。但 Sharma 等 2019 年在块体 WTe₂ 观测到 20–50 nm 铁电畴，归因于 c 轴离子位移与价带[[../concepts/migdal-eliashberg-theory|各向异性]]协同（能垒 0.29 eV/f.u.，与 BiFeO₃ ~0.43 eV/f.u. 可比），提示块体可能存在不同机制。
   5. **2H/3R-TMDs 滑移铁电**：本征 2H 相为反平行 AA' 堆叠；同向 R 堆叠（AB/BA 菱方构型）诱导面外铁电。转角 H-TMDs 形成与 t-hBN 类似的周期性三角形极化畴。实验测得极化对[[../entities/graphene|石墨烯]]的势场调制幅度 2ΔV_P ≈ 110 meV，约为 hBN 体系的一半（与原子电负性、层间距、对称破缺程度有关）。3R-MoS₂ 的极化态数与层数正相关：n 层对应 n 种能量简并态和 2n−1 种原子构型，相邻态切换能垒恒为 ~15.4 meV/cell（与层数无关），是多态/类脑存储的物理基础。
@@ -180,4 +213,4 @@ Zi-Han Guo（郭子涵）、Lin He（何林，通讯作者，北京师范大学�
   8. **器件性能指标**：3R-MoS₂ 器件抗疲劳机制源于硫空位迁移能垒（层内 2.6 eV，层间 4.6 eV）远高于极化切换能垒（~136 meV），单个硫空位无法钉扎畴壁，[[../concepts/molecular-dynamics|分子动力学]]模拟保障 10⁶ 次循环后性能无衰减（Bian et al., Science 2024, 385, 57）；可稳定响应 53 ns 超短脉冲。p-hBN 器件极化切换速度达 1 ns，在 100 ns 脉冲下实现 10¹¹ 次循环后保持稳定（Yasuda et al., Science 2024, 385, 53）。
   9. **自发光伏与规模化生长**：石墨烯屏蔽层抑制 3R-MoS₂ [[../concepts/depolarization-field|退极化场]]后，10 层 3R-MoS₂ 器件外部量子效率（EQE）高达 16%（Yang et al., Nat Photon 2022）；石墨烯/3R-MoS₂ 界面光电流电荷转移速度快至 2 ps（Wu et al., Sci Adv 2022）。材料制备方面，Liu 团队在倾斜 FeNi(111) 单晶基底上利用原子台阶引导 BN 晶粒单轴定向，实现厘米级 ABC 堆垛 rBN 单晶薄膜生长（Qi et al., Adv Mater 2024）；开发 Ni-M（M=Mo,W）界面外延法，通过硫族源扩散合成晶圆级 3R-TMDs 单晶薄膜（层数 1~15000 层精准可控），3R-MoS₂ 双层/三层室温载流子迁移率达 155/190 cm² V⁻¹ s⁻¹，远超传统 2H 相（Qin et al., Science 2024, 385, 99）。
   10. **本征自发极化铁电体关键数据**：(a) CIPS——Cu⁺ 在 S 八面体笼中有 4 个能量极小值（四重势阱），Tc~315 K；高温随机占据 Cu1/Cu1′ 呈低极化态，低温电场驱动迁入非等效 Cu3 位并触发 In³⁺ 反向位移呈高极化态；4 nm 薄膜仍保持~320 K 室温铁电；Cu 不足区形成顺电 IPS/铁电 CIPS 共存；存在反常[[../concepts/bulk-photovoltaic-effect|体光伏效应]]，光电流密度超传统钙钛矿两个量级。(b) α-In₂Se₃——Se-In-Se-In-Se 五层结构，中央 Se 层双稳态移动同步翻转面内/面外极化（[[../concepts/dipole-locking|偶极锁定]]）；单层极限仍有强铁电性；但该模型与晶格 C3v 对称性矛盾（诺伊曼原理应抑制面内铁电），2023 年 Ji 等提出"[[../concepts/fractional-quantum-ferroelectricity|分数量子铁电性]]"用中间 Se 原子分数化位移解释；面内极化受层数奇偶性影响，2H 堆垛偶数层因相邻层极化反向而抵消，3R 堆垛保持一致。(c) BP-Bi——首个单元素二维铁电体，sp²-sp³ 杂化诱导亚晶格翘曲 Δh 打破空间反演对称，极化强度随 Δh 线性增大，A/B 子格 pz 轨道不对称占据是微观起源，Tc~210 K。(d) d1T-MoTe₂——K3 模式 Mo [[../concepts/trimerization|三聚化]]（三个 Mo 横向形成等边三角形）与 Γ₂⁻ 模式 Te 面外弛豫协同使面内偶极抵消、面外电荷不对称产生净极化，Tc~338 K；Wan 等提出正交子空间耦合理论（将 K3 模式位移投影至 {α,β} 正交基矢，高阶能量耦合主导双稳态切换）解释极化翻转路径争议。
-  11. **FETI（[[../concepts/ferroelectric-topological-insulator|铁电拓扑绝缘体]]）**：铁电性（极化反转）与拓扑性（能带反转）无本质排斥，共存即 FETI。理论预测 MnBi₂Te₄ 展现三重[[../concepts/order-parameter|序参量]]耦合——层间滑动铁电性、可调反铁磁序、量子反常霍尔态；可在单相中可逆切换拓扑绝缘态（C=1）与平庸绝缘态（C=0），并通过极化翻转直接调控金属-绝缘体转变及 AHE/QAHE 开关。WSe₂/铁电 WTe₂ 异质结（矩形[[../concepts/moire-superlattice|莫尔[[../concepts/superlattice|超晶格]]]]）已实验观测到铁电切换的莫尔绝缘态和非线性[[../concepts/anomalous-hall-effect|反常[[../concepts/hall-effect|霍尔效应]]]]（Kang et al., Nat Nanotechnol 2023），但强关联体系中 Hubbard 带 Berry 曲率偶极子分布仍需深入研究。
+  11. **FETI（[[../concepts/ferroelectric-topological-insulator|铁电拓扑绝缘体]]）**：铁电性（极化反转）与拓扑性（能带反转）无本质排斥，共存即 FETI。理论预测 MnBi₂Te₄ 展现三重[[../concepts/order-parameter|序参量]]耦合——层间滑动铁电性、可调反铁磁序、量子反常霍尔态；可在单相中可逆切换拓扑绝缘态（C=1）与平庸绝缘态（C=0），并通过极化翻转直接调控金属-绝缘体转变及 AHE/QAHE 开关。WSe₂/铁电 WTe₂ 异质结（矩形[[../concepts/moire-superlattice|莫尔超晶格]]）已实验观测到铁电切换的莫尔绝缘态和非线性[[../concepts/anomalous-hall-effect|反常霍尔效应]]（Kang et al., Nat Nanotechnol 2023），但强关联体系中 Hubbard 带 Berry 曲率偶极子分布仍需深入研究。

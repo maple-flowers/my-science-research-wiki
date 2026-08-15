@@ -62,9 +62,14 @@ Yi-Jui Liu, Po-Yu Chen, Jiun-Yi Yang, Chingfu Tsou, Yi-Hsiung Lee, Patrice Balde
 用双光子聚合（TPP）在PDMS微通道内原位加工三叶螺旋桨式三维被动微混合器，螺旋形桨叶诱导Z向流线，单级结构在12 μl/min流量下混合效率即超过80%，显著优于圆柱、菱形柱和平面桨叶。
 
 ## 🔗 Wiki 双链
+  - 概念 [[../concepts/monolithic-integration]]
+  - 概念 [[../concepts/polymer-phase-separation]]
+  - 概念 [[../concepts/two-photon-polymerization]]
+  - 概念 [[../concepts/biphoton]]
+  - 概念 [[../concepts/photoinitiator]]
+  - 概念 [[../concepts/two-photon-absorption]]
   - 年度 [[../write/2010-2014|2014]]
   - 项目 [[../projects/project-1-two-photon]]
-  - 概念 [[../concepts/monolithic-integration]]、[[../concepts/polymer-phase-separation]]、[[../concepts/two-photon-polymerization]]、[[../concepts/biphoton]]、[[../concepts/photoinitiator]]、[[../concepts/two-photon-absorption]]
   - 相关论文 [[../../raw/note/Unknown2014passive]]
   - （wiki现有概念/实体集中于二维材料、多铁、铁电、CDW等方向，与本文微流控/TPP主题无直接重叠，故无概念或实体双链。）
 

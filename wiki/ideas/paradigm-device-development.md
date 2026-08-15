@@ -1,15 +1,18 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_0e8f33b7989d11f1a98a525400f8a581
-    ReservedCode1: Gz7/DNNS5ZpOYyorisZj6es5D5qPx+Cb1EK4V23o5cx1GESRFtoZ4PFqT7GkY2KdL8z8c+QmYh3KmhOc3yWFBOSUnriRTm4lcfLWDRt8RVWrPvXqsp+t1YGcM/TjJDdZ/JTeeiCeON29raro0jMRZzdVTFc4eLExxV5W+YoQA6off8lPjJWB2ptUw3w=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_0e8f33b7989d11f1a98a525400f8a581
-    ReservedCode2: Gz7/DNNS5ZpOYyorisZj6es5D5qPx+Cb1EK4V23o5cx1GESRFtoZ4PFqT7GkY2KdL8z8c+QmYh3KmhOc3yWFBOSUnriRTm4lcfLWDRt8RVWrPvXqsp+t1YGcM/TjJDdZ/JTeeiCeON29raro0jMRZzdVTFc4eLExxV5W+YoQA6off8lPjJWB2ptUw3w=
+tags: [paradigm, device, application, sensor, memristor]
+title: 器件开发与性能验证 / Device Development & Performance Validation
+type: paradigm
+status: active
+paradigm_id: P07
+domain: [device-physics, applied-physics, sensors]
+core_question: 如何把一种材料物性做成真实器件，并用量化指标（灵敏度、开关比、响应速度、耐久性）证明它可用？
+method_pipeline: 材料制备→器件结构设计与加工→性能指标测试→迭代优化→应用场景演示与校准
+related_concepts: [memristor, mechanoluminescence, photoluminescence, nonlinear-optics, polarization-switching, ferroelectricity]
+related_entities: [In2Se3, ZnO, HfO2]
+related_topics: [D02-multiferroic-materials]
+papers: [feiFerroelectricSwitchingTwodimensional2018a, wangScreeningEnabledChemiresistiveMoisture2025, XiaokangZhang2013calibrating, Gulhare2021mechanoluminescence]
+updated: 2026-08
 ---
-
-
 
 # 器件开发与性能验证 / Device Development & Performance Validation
 
@@ -106,9 +109,8 @@ AIGC:
 - [[../entities/In2Se3|In₂Se₃]]
 - [[../entities/ZnO|ZnO]]
 - [[../entities/HfO2|HfO₂]]
-- [[../topics/多铁性材料|多铁性材料]]
+- [[../topics/D02-multiferroic-materials|多铁性材料]]
 
 ## 📈 生命周期日志
 
 - **2026-08-15**: active — 提炼自 33 篇器件开发与性能验证类论文（忆阻器/传感器/发光/非线性光学/柔性器件等）。
-*（内容由AI生成，仅供参考）*

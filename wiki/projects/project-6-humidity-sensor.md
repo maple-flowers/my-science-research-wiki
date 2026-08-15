@@ -19,7 +19,7 @@ local_path: E:\swan_goose\燕燕\香香\项目六：小花闻的电压湿度传�
 ## 2. 与科研 Wiki 知识库的联系
 - **相关材料/实体**：[[../entities/graphene|扭曲双层石墨烯 (tBLG)]]、[[../entities/TMDs|TMDs (MoS2, MoSe2)]]、[[../entities/MXenes|MXenes]]、[[../entities/TTF|TTF (MOF配体)]]
 - **相关物理概念**：[[../concepts/humidity-sensing-mechanism|湿度传感机理]]、[[../concepts/charge-trap-screening|电荷陷阱屏蔽]]、[[../concepts/donor-effect|施主效应]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/dielectric-response|介电响应]]、[[../concepts/van-hove-singularity|范霍夫奇点 (VHS)]]
-- **器件架构**：[[../concepts/fiber-optic-humidity-sensor|光纤湿度传感器]]、[[../concepts/molecular-beam-epitaxy|传感器电极构型]]、[[../concepts/fabry-perot-interferometer|法布里-珀罗干涉仪]]、[[../entities/labyrinth-electrode|迷宫式电极]]
+- **器件架构**：[[../concepts/fiber-optic-humidity-sensor|光纤湿度传感器]]、[[../entities/molecular-beam-epitaxy|传感器电极构型]]、[[../entities/fabry-perot-interferometer|法布里-珀罗干涉仪]]、[[../entities/labyrinth-electrode|迷宫式电极]]
 
 ---
 

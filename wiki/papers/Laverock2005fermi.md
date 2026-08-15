@@ -11,8 +11,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Laverock2005fermi]]
 projects: [project-7]
-concepts: [charge-density-wave, fermi-surface-nesting, bilayer-splitting, generalized-susceptibility, brillouin-zone, electronic-band-structure, 2d-materials, fermi-surfaces, commensurate-incommensurate, 2d-acar]
-entities: [GdTe3, LuTe3, LuTe2, RTe3]
+concepts: [charge-density-wave, fermi-surface-nesting, bilayer-splitting, generalized-susceptibility, brillouin-zone, electronic-band-structure, 2d-materials, fermi-surfaces, commensurate-incommensurate]
+entities: [2d-acar, GdTe3, LuTe2, LuTe3, RTe3]
 methods: [lmto, dft, first-principles, 2d-acar, positron-annihilation, arpes, lcw-folding, maximum-entropy-deconvolution]
 materials: [GdTe3, LuTe3, LuTe2, RTe3]
 figures: [crystal-structures-bulk, electronic-bands-band-structures, electronic-bands-cdw-transport, electronic-bands-dos-fermi]
@@ -78,14 +78,26 @@ J. Laverock, S. B. Dugdale, Zs. Major, M. A. Alam, N. Ru, I. R. Fisher, G. Santi
 ## 💡 一句话
 结合 2D-ACAR 正电子湮灭实验与 LMTO 第一性原理计算，首次直接观测到稀土三碲化物 RTe₃ 未被 CDW 重构的"裸"费米面，测定嵌套矢量 q = (0.28 ± 0.02, 0, 0) a*，决定性地证实费米面嵌套是驱动该体系 CDW 形成的机制。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2d-materials]]、[[../concepts/fermi-surface-nesting|费米面嵌套]]、[[../concepts/bilayer-splitting|双层劈裂]]、[[../concepts/generalized-susceptibility|广义磁化率]]、[[../concepts/2d-acar|2D-ACAR]]、[[../concepts/commensurate-incommensurate|公度-非公度]]、[[../concepts/fermi-surfaces|费米面]]
+  - 概念 [[../concepts/charge-density-wave]]
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/fermi-surface-nesting|费米面嵌套]]
+  - 概念 [[../concepts/bilayer-splitting|双层劈裂]]
+  - 概念 [[../concepts/generalized-susceptibility|广义磁化率]]
+  - 概念 [[../concepts/commensurate-incommensurate|公度-非公度]]
+  - 概念 [[../concepts/fermi-surfaces|费米面]]
+  - 概念 [[../concepts/brillouin-zone]]
+  - 概念 [[../concepts/band-structure]]
+  - 实体 [[../entities/2d-acar|2D-ACAR]]
   - 实体 [[../entities/RTe3|RTe₃ 稀土三碲化物]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]
+  - 实体 [[../entities/LuTe3]]
+  - 实体 [[../entities/GdTe3]]
+  - 实体 [[../entities/LuTe2]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/electronic-bands]]
   - 年度 [[../write/2005-2009|2005]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 概念 [[../concepts/brillouin-zone]]、[[../concepts/band-structure]]
-  - 实体 [[../entities/LuTe3]]、[[../entities/GdTe3]]、[[../entities/LuTe2]]
   - 相关论文 [[../../raw/note/Laverock2005fermi]]
+
 ## 🆕 新概念/实体建议
   - [[../entities/GdTe3|GdTe3]]、[[../entities/LuTe3|LuTe3]]、[[../entities/LuTe2|LuTe2]]（实体）：本文实验/计算所用具体材料，相关页面尚未建立。
 ## 📊 关键图表
@@ -139,7 +151,7 @@ J. Laverock, S. B. Dugdale, Zs. Major, M. A. Alam, N. Ru, I. R. Fisher, G. Santi
   - 未重构（裸）费米面 / unreconstructed ("bare") Fermi surface
   - 公度与非公度 / commensurate vs incommensurate
   - 锁定 / lock-in
-  - 二维角关联湮灭辐射 / 2D-ACAR [[../concepts/2d-acar|2D-ACAR]] (two-dimensional angular correlation of annihilation radiation)
+  - 二维角关联湮灭辐射 / 2D-ACAR [[../entities/2d-acar|2D-ACAR]] (two-dimensional angular correlation of annihilation radiation)
 ## ✏️ 可写入 Wiki 的要点
   1. RTe₃ 结晶于层状 NdTe₃ 结构（空间群 Cmcm，No.63），由惰性 RTe 板层夹双层正方平面 Te 方片构成；b 轴为长轴，电阻率[[../concepts/migdal-eliashberg-theory|各向异性]] ρa/ρb 在 SmTe₃ 中高达约 5000，电子结构具强准二维性。
   2. RTe₂ 为相关材料，四方反-Cu₂Sb 结构（P4/nmm，No.129），具有 (2×1×1) 公度 CDW 超结构；其[[../concepts/fermi-surfaces|费米面]]由 Te 5p 轨道主导，三条能带穿过 EF，其中两条形成单一菱形费米面片，公度嵌套矢量 q = (1/2) a*。

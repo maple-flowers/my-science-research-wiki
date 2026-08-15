@@ -82,13 +82,26 @@ Gajdos, Hummer, Kresse, Furthmuller, Bechstedt，2006，Physical Review B 73, 04
 ## 💡 一句话
 首次在 PAW 方法框架下严格推导了频率相关极化率矩阵长波极限（q→0）的纵向表达式，引入关键的偶极矩修正项 μ_ij，使 PAW 光学/介电性质计算在标准势下即可达到全电子 APW+LO 精度，且单中心基组收敛比横向表达式更快。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/paw-method|PAW方法]]、[[../concepts/dielectric-function|介电函数]]、[[../concepts/polarizability-matrix|极化率矩阵]]、[[../concepts/local-field-effects|局域场效应]]、[[../concepts/longitudinal-transversal-expression|纵向/横向表达式]]、[[../concepts/dipole-correction|偶极矩修正]]、[[../concepts/dfpt|DFPT]]
-  - 实体 [[../entities/VASP]]、[[../entities/GaAs]]、[[../entities/WIEN2k|WIEN2k]]
-  - 图表 [[../figures/optical-spectra]]、[[../figures/mathematical-models]]
-  - 年度 [[../write/2005-2009|2006]]
-  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/berry-phase]]
+  - 概念 [[../concepts/paw-method|PAW方法]]
+  - 概念 [[../concepts/dielectric-function|介电函数]]
+  - 概念 [[../concepts/polarizability-matrix|极化率矩阵]]
+  - 概念 [[../concepts/local-field-effects|局域场效应]]
+  - 概念 [[../concepts/longitudinal-transversal-expression|纵向/横向表达式]]
+  - 概念 [[../concepts/dipole-correction|偶极矩修正]]
+  - 概念 [[../concepts/dfpt|DFPT]]
   - 概念 [[../concepts/kohn-sham]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/GaAs]]
+  - 实体 [[../entities/WIEN2k|WIEN2k]]
+  - 图表 [[../figures/optical-spectra]]
+  - 图表 [[../figures/mathematical-models]]
+  - 年度 [[../write/2005-2009|2006]]
+  - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
+  - 项目 [[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/gajdosLinearOpticalProperties2006]]
+
 ## 🆕 新概念/实体建议
   - 材料实体 Si、SiC、AlP、diamond-C 可酌情建立（本文基准材料，但与现有项目材料距离较远）。
 ## 📊 关键图表
