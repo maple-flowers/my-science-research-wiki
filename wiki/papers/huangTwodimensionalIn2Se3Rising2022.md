@@ -134,7 +134,7 @@ Yu-Ting Huang, Nian-Ke Chen, Zhen-Ze Li, Xue-Peng Wang, Hong-Bo Sun, Shengbai Zh
   - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]、[[../figures/domain-walls]]、[[../figures/electronic-devices]]、[[../figures/vibrational-spectra]]、[[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - 年度 [[../write/2022]]、[[../write/2017]]、[[../write/2018]]、[[../write/2019]]、[[../write/2021]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]
-  - 相关论文 **huangTwodimensionalIn2Se3Rising2022**
+  - 相关论文 [[../../raw/note/huangTwodimensionalIn2Se3Rising2022]]
 ## 🆕 新概念/实体建议
   - [[../concepts/depolarization-field|depolarization-field]]（退极化场）：表面束缚电荷产生的与极化反向的电场，是传统铁电体纳米尺寸失效的根源。
   - [[../concepts/phase-change-type-ferroelectrics|phase-change-type-ferroelectrics]]（相变型铁电体）：作者提出的新分类，铁电翻转伴随化学键断裂重构和有序-有序结构相变，区别于 BaTiO3 式位移型铁电体。

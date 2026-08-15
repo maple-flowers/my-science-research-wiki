@@ -115,8 +115,7 @@ Frank Y. Gao, Xinyue Peng, Xinle Cheng 等（共 16 位作者，Angel Rubio、Ed
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 主题 [[多铁性材料]]
   - 主题 [[材料模拟计算设计]]
-  - 相关论文 **gaoGiantChiralMagnetoelectric2024a**
-
+  - 相关论文 [[../../raw/note/gaoGiantChiralMagnetoelectric2024a]]
 ## 📊 关键图表
   - ![图1 NiI₂ 晶体结构、手性螺旋、电磁振子](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_1_8V5GWLM9.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
     - **图示描述**：六联图总览 NiI₂ 的结构-磁序-激发：(a) 左旋/右旋自旋螺旋示意图展示磁致手性；(b) 高温 R3̄m 菱方晶格中 Ni（蓝）被 I（红）八面体包围形成三角晶格层；(c) THM≈60 K 以下 (001) 面内 proper-screw 螺旋序，传播矢量 q=(0.138a*,0,1.457c*)，面内分量 qin 垂直于沿 y ∥ C₂ 轴的电极化 P；(d) 2.4 K 下 σ⁺/σ⁻ 圆偏振低频拉曼谱；(e) DFT 在 7×1 单层超胞算得的电磁振子能量-动量色散；(f) EMo/EMe 的自旋进动本征矢及 ΔP、ΔM 矢量方向。

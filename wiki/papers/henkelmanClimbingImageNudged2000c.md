@@ -96,7 +96,7 @@ Graeme Henkelman, Blas P. Uberuaga, Hannes Jónsson，2000，The Journal of Chem
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
   - 概念 [[../concepts/variable-spring-constant]]、[[../concepts/harmonic-tst]]、[[../concepts/force-projection]]
   - 实体 [[../entities/Si-100]]、[[../entities/Ir-111]]
-  - 相关论文 **henkelmanClimbingImageNudged2000c**
+  - 相关论文 [[../../raw/note/henkelmanClimbingImageNudged2000c]]
 ## 🆕 新概念/实体建议
   - [[../concepts/force-projection-nudging|force-projection-nudging]]（力投影/"微动"）：NEB 区别于其他弹性带法的核心，只取真实力垂直分量与弹簧力平行分量，同时解决"切角"与"下滑"问题。
   - [[../concepts/variable-spring-constants|variable-spring-constants]]（可变弹簧常数）：随图像能量线性增强弹簧，使图像在高能鞍点区加密。

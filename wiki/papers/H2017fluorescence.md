@@ -81,8 +81,7 @@ Chibao Huang、Junle Qu，2017，*Biomarkers Journal*，DOI 10.21767/2472-1646.1
   - 项目 [[../projects/project-1-two-photon]]
   - 概念 [[../concepts/locally-excited-state]]、[[../concepts/fluorescence-sensing]]
   - 实体 [[../entities/P1]]、[[../entities/P2]]、[[../entities/dicyanostilbene]]
-  - 相关论文 **H2017fluorescence**
-
+  - 相关论文 [[../../raw/note/H2017fluorescence]]
 ## 📊 关键图表
 笔记未附图片（raw/figures/H2017fluorescence/ 下仅有 manifest.json，未抽取到实际图片文件），以下依据 raw/note 文字描述逐图整理。
 

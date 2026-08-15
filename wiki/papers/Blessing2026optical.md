@@ -99,7 +99,7 @@ Osolobri B.U., Ojoba C.K., Ikhioya I.L.，2026，Journal of Interdisciplinary Po
   - 年度 [[../write/2025-2029|2026]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
   - 概念 [[../concepts/refractive-index]]
-  - 相关论文 **Blessing2026optical**
+  - 相关论文 [[../../raw/note/Blessing2026optical]]
 ## 📊 关键图表
   ![图1 不同电压下SnTe薄膜的吸收光谱](../../raw/figures/Blessing2026optical/fig_1_TE2JAVC3.png) -> [[../figures/optical-spectra|光学光谱]]
   - **图示描述**：横轴为波长 200–1000 nm，纵轴为吸光度 A (a.u.)，四条曲线分别对应 10 V、11 V、12 V、13 V 沉积的 SnTe 薄膜。所有样品均在紫外区出现峰值，随后随波长向可见-近红外延伸而逐渐下降。

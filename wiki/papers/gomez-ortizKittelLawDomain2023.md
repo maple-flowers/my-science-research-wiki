@@ -97,7 +97,7 @@ Fernando Gómez-Ortiz, Hugo Aramberri, Juan M. López, Pablo García-Fernández,
   - 实体 [[../entities/BiFeO3]]、[[../concepts/domain-wall]]、[[../entities/PbTiO3|PbTiO₃]]、[[../entities/SrTiO3|SrTiO₃]]
   - 图表 [[../figures/domain-walls]]、[[../figures/crystal-structures]]
   - 年度 [[../write/2023]]
-  - 相关论文 **gomez-ortizKittelLawDomain2023**
+  - 相关论文 [[../../raw/note/gomez-ortizKittelLawDomain2023]]
   - 实体 [[../entities/SCALE-UP]]
   - 实体 [[../entities/PbTiO3-SrTiO3-superlattice]]
 

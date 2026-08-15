@@ -116,7 +116,7 @@ Bowen Du, Xilin Tian, Zhi Chen, Yanqi Ge, Chuanghu Chen, Haiyan Gao, Zhongyang L
   - 年度 [[../write/2025-2029|2025]]
   - 概念 [[../concepts/local-dielectric-environment]]、[[../concepts/photoresponsivity]]、[[../concepts/trans-cleavage]]、[[../concepts/surface-plasmon-resonance]]
   - 实体 [[../entities/crispr-cas12a-protein]]、[[../entities/gold-nanoparticles]]、[[../entities/dna-origami-structure]]
-  - 相关论文 **duUltrasensitiveOptoelectronicBiosensor2025**
+  - 相关论文 [[../../raw/note/duUltrasensitiveOptoelectronicBiosensor2025]]
 ## 📊 关键图表
   - **图1：传感器结构、激子-等离激元耦合原理与CRISPR检测流程**
   - ![图1 传感器结构、激子-等离激元耦合原理与CRISPR检测流程](../../raw/figures/duUltrasensitiveOptoelectronicBiosensor2025/fig_1_BXNBIMFM.png) -> [[../figures/electronic-devices-sensors|传感器与探测器]]

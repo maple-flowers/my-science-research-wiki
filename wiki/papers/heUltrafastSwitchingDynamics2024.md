@@ -100,8 +100,7 @@ Ri He, Bingwen Zhang, Hua Wang, Lei Li, Ping Tang, Gerrit Bauer, Zhicheng Zhong 
   - 图表 [[../figures/heterostructures-stacking]]
   - 图表 [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
   - 年度 [[../write/2024]]
-  - 相关论文 **heUltrafastSwitchingDynamics2024**
-
+  - 相关论文 [[../../raw/note/heUltrafastSwitchingDynamics2024]]
 ## 🆕 新概念/实体建议
 wiki 中没有、但值得新建的概念或材料实体：
   - [[../concepts/stacking-engineered-ferroelectricity|stacking-engineered-ferroelectricity]]（堆垛工程铁电性）：通过调控范德华双层的层间堆垛方式（AB/BA）产生可翻转极化的铁电机制，是滑移铁电性的子类，但强调"工程"层面的堆垛设计与器件应用。

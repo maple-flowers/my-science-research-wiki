@@ -91,7 +91,7 @@ Sugata Chowdhury、Heather M. Hill、Albert F. Rigosi、Patrick M. Vora、Angela
   - 图表 [[../figures/heterostructures-stacking]]
   - 年度 [[../write/2020-2024|2022]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 相关论文 **chowdhuryReviewTheoreticalComputational**
+  - 相关论文 [[../../raw/note/chowdhuryReviewTheoreticalComputational]]
   - 概念 [[../concepts/electron-phonon-coupling]]
   - 实体 [[../entities/Quantum-ESPRESSO]]
   - 实体 [[../entities/SIESTA]]

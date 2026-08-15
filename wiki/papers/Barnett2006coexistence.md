@@ -133,8 +133,7 @@ Barnett, Polkovnikov, Demler, Yin, Ku et al.，2006，Physical Review Letters 96
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2005-2009|2006]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 相关论文 **Barnett2006coexistence**
-
+  - 相关论文 [[../../raw/note/Barnett2006coexistence]]
 ## 🆕 新概念/实体建议
   （暂无）
 

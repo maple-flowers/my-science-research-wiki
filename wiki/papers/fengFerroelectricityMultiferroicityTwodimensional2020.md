@@ -93,8 +93,7 @@ Xukun Feng、Jian Liu、Xikui Ma、Mingwen Zhao（山东大学），2020，*Phys
   - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking|多铁与磁电异质结]]
   - 年度 [[../write/2020-2024|2020]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
-  - 相关论文 **fengFerroelectricityMultiferroicityTwodimensional2020**
-
+  - 相关论文 [[../../raw/note/fengFerroelectricityMultiferroicityTwodimensional2020]]
 ## 🆕 新概念/实体建议
   - （本页建议项均已提升为现有 wiki 双链）
 

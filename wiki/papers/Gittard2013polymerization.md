@@ -107,7 +107,7 @@ Gittard, Koroleva, Nguyen, Fadeeva, Gaidukeviciute, Schlie, Narayan, Chichkov，
   - 年度 [[../write/2010-2014|2013]]
   - 概念 [[../concepts/laser-bioprinting]]、[[../concepts/soft-lithography]]、[[../concepts/regenerative-medicine]]、[[../concepts/stereolithography]]、[[../concepts/extracellular-matrix]]、[[../concepts/vascularization]]、[[../concepts/rapid-prototyping]]、[[../concepts/mass-transport]]、[[../concepts/tissue-engineering]]、[[../concepts/surface-morphology]]、[[../concepts/scaffold]]
   - 实体 [[../entities/BSA]]、[[../entities/fibrinogen]]、[[../entities/PEG]]、[[../entities/hydroxyapatite]]、[[../entities/PLA]]、[[../entities/fibrin]]、[[../entities/TORP]]、[[../entities/collagen]]、[[../entities/PCL]]、[[../entities/Ormocer]]、[[../entities/PEGDA]]
-  - 相关论文 **Gittard2013polymerization**
+  - 相关论文 [[../../raw/note/Gittard2013polymerization]]
   - 概念：[[../concepts/two-photon-polymerization|双光子聚合（2PP）]]、[[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/voxel|体素]]、[[../concepts/diffraction-limit|衍射极限]]、[[../concepts/contact-guidance|接触引导]]、[[../concepts/prevascularization|预血管化]]、[[../concepts/multibeam-writing|多光束并行写入]]、[[../concepts/micromolding-replication|微模塑复制]]
   - 实体：[[../entities/PMMA|PMMA]]
 ## 🆕 新概念/实体建议

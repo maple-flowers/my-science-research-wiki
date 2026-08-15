@@ -103,8 +103,7 @@ Huang, Peng, Fan et al.，2019，*American Journal of Biomedical Science & Resea
   - 项目 [[../projects/project-1-two-photon]]
   - 概念 [[../concepts/viscosity-sensing]]、[[../concepts/thermochromism]]、[[../concepts/solvent-polarity-scales]]、[[../concepts/fluorescence-quantum-yield]]
   - 实体 [[../entities/diphenylamino]]、[[../entities/glycerol]]、[[../entities/DMSO]]、[[../entities/dimethylamino]]、[[../entities/cyano-group]]
-  - 相关论文 **Huang2019solvatochromic**
-
+  - 相关论文 [[../../raw/note/Huang2019solvatochromic]]
 ## 📊 关键图表
 笔记未附图片（raw/figures 目录仅有 manifest.json，含 Table 1 的中英数据表；以下各图以文字描述，未伪造图片路径）。
 

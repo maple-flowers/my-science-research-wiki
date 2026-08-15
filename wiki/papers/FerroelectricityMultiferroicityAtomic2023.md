@@ -117,8 +117,7 @@ Nature Nanotechnology 编辑部（未署名社论），2023，Nature Nanotechnol
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 概念 [[../concepts/size-effect]]
   - 实体 [[../entities/MoS2]]、[[../entities/MoSe2]]、[[../entities/WSe2]]、[[../entities/WS2]]
-  - 相关论文 **FerroelectricityMultiferroicityAtomic2023**
-
+  - 相关论文 [[../../raw/note/FerroelectricityMultiferroicityAtomic2023]]
 ## 🆕 新概念/实体建议
   - [[../entities/MoS2|MoS2]]、[[../entities/WS2|WS2]]、[[../entities/WSe2|WSe2]]、[[../entities/MoSe2|MoSe2]] — 非极性 TMD 单层，可通过相同双层堆叠 or MoS₂/WS₂ 交替堆叠产生室温铁电回滞。
 

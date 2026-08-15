@@ -142,7 +142,7 @@ Zhao Guan, He Hu, Xinwei Shen, Pinghua Xiang, Ni Zhong, Junhao Chu, Chungang Dua
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups]]
   - 年度 [[../write/2020]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
-  - 相关论文 **guanRecentProgressTwoDimensional2020**
+  - 相关论文 [[../../raw/note/guanRecentProgressTwoDimensional2020]]
   - 实体 [[../entities/BTO]]
   - 实体 [[../entities/BA2PbCl4]]
 

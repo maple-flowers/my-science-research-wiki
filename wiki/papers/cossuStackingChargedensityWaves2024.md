@@ -95,8 +95,7 @@ F. Cossu, D. Nafday, K. Palotás, M. Biderang, H.-S. Kim, A. Akbari, I. Di Marco
   - 图表 [[../figures/vibrational-spectra|振动光谱]]（展望声子/拉曼）
   - 年度 [[../write/2020-2024|2024]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 相关论文 **cossuStackingChargedensityWaves2024**
-
+  - 相关论文 [[../../raw/note/cossuStackingChargedensityWaves2024]]
 ## 🆕 新概念/实体建议
 
 ## 📊 关键图表

@@ -149,7 +149,7 @@ Xiangwei Chen, Zheng Wang, Jialin Meng, Tianyu Wang（山东大学），2026，N
   - 图表 [[../figures/mathematical-models|数学模型与物理公式]]
   - 年度 [[../write/2026]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
-  - 相关论文 **chenHafniumBasedFerroelectricPostMoore2026**
+  - 相关论文 [[../../raw/note/chenHafniumBasedFerroelectricPostMoore2026]]
 ## 📊 关键图表
   - 图1：Hf-FEs材料、器件结构与应用总览
   ![Hf-FEs材料器件应用总览](../../raw/figures/chenHafniumBasedFerroelectricPostMoore2026/fig_1_3VD9GL58.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
