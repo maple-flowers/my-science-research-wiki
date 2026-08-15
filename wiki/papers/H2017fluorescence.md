@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/H2017fluorescence]]
 projects: []
-concepts: [two-photon-absorption, solvatochromism, thermo-solvatochromism, intramolecular-charge-transfer, twisted-intramolecular-charge-transfer, exciplex, locally-excited-state, d-pi-a-architecture, solvent-relaxation, fluorescence-sensing, local-excited-state]
+concepts: [two-photon-absorption, solvatochromism, thermo-solvatochromism, charge-transfer, twisted-intramolecular-charge-transfer, exciplex, locally-excited-state, d-pi-a-architecture, solvent-relaxation, fluorescence-sensing, local-excited-state]
 entities: [P1, dicyanostilbene, P2, dicyanostilbene-1a, dicyanostilbene-1b, DCS]
 methods: [steady-state-uv-vis-fluorescence, two-photon-excited-fluorescence, two-photon-cross-section, wittig-horner-synthesis, linear-solvation-energy-relationship]
 materials: [P1, P2]
@@ -43,7 +43,7 @@ tags:
   - concept/two-photon-absorption
   - concept/solvatochromism
   - concept/thermo-solvatochromism
-  - concept/intramolecular-charge-transfer
+  - concept/charge-transfer
   - concept/twisted-intramolecular-charge-transfer
   - concept/exciplex
   - concept/locally-excited-state

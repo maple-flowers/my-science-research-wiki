@@ -1,5 +1,7 @@
 # geometric-ferroelectricity
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/bhowalPolarMetalsPrinciples2023b]] — Polar Metals: Principles and Prospects
 - [[../papers/fiebigEvolutionMultiferroics2016]] — The evolution of multiferroics
 - [[../papers/hillWhyAreThere2000a]] — Why Are There so Few Magnetic Ferroelectrics?

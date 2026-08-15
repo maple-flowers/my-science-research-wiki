@@ -1,5 +1,7 @@
 # migdal-eliashberg-theory
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/CastroNeto2001charge]] — Charge Density Wave, Superconductivity, and Anomalous Metallic Behavior in 2D Transition Metal Dichalcogenides
 - [[../papers/Goswami2011multiferroic]] — Multiferroic coupling in nanoscale BiFeO3
 - [[../papers/Islam2025enhancement]] — Pressure-induced enhancement of superfluid density in transition metal dichalcogenides with and without charge density wave

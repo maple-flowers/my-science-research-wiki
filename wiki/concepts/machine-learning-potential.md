@@ -1,5 +1,7 @@
 # machine-learning-potential
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Mińkowski2021cation]] — Cation interstitial diffusion in lead telluride and cadmium telluride studied by means of neural network potential based molecular dynamics simulations
 - [[../papers/Zhang2019a]] — Studying Stability of Atom Packing for Ti Nanoparticles on Heating by Molecular Dynamics Simulations
 - [[../papers/heSwitchingTwodimensionalSliding2025]] — Switching Two-Dimensional Sliding Ferroelectrics by Mechanical Bending

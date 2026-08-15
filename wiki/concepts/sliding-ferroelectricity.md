@@ -5,7 +5,7 @@ type: concept
 status: developing
 domain: [ferroelectricity, 2d-materials]
 mechanism: 通过范德华层间位移打破反演对称性并产生垂直层面的电极化
-related_concepts: [interlayer-sliding, dipole-locking, moire-superlattice]
+related_concepts: [ dipole-locking, moire-superlattice]
 papers: [huangTwodimensionalIn2Se3Rising2022, wuSlidingFerroelectricity2D2021a, feiFerroelectricSwitchingTwodimensional2018a, FerroelectricityMultiferroicityAtomic2023, RecentAdvancesGrowth2025, bhowalPolarMetalsPrinciples2023b, chenStrongSlidingFerroelectricity2024, guanRecentProgressTwoDimensional2020, guoAdvancesTwodimensionalFerroelectric2025, hanTunableSlidingFerroelectricity2025, heSwitchingTwodimensionalSliding2025, heUltrafastSwitchingDynamics2024, huProgressProspectsLowdimensional2019, huangPolarPhaseDomain2019, kaurRecentAdvancesTheoretical2025a, kimObservationPhaseTransition1997, liPhaseTransitions2D2021, martinThinfilmFerroelectricMaterials2016, miaoMagneticFerroelectricMetal2024, neumayerCompetingPolarPhases2025, shenEmergenceMultipleFerroelectric2025, sunSlidingFerroelectricityTwodimensional2025, tangCombiningIntrinsicSlidinginduced2025, tangMultiferroicityTwodimensionalVan2025, tianRoomtemperatureTwodimensionalMultiferroic2026, xunCoexistingMagnetismFerroelectric2024, zhangEmergingFrontiersTwodimensional2025, zhaoOpticalFingerprintsTwodimensional2024]
 updated: 2026-08
 ---
@@ -77,7 +77,6 @@ updated: 2026-08
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
-- [[../concepts/interlayer-sliding|层间滑动]]
 - [[../concepts/dipole-locking|偶极锁定]]
 - [[../concepts/moire-superlattice|莫尔超晶格]]
 - [[../entities/In2Se3|In2Se3]]

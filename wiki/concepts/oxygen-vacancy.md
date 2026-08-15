@@ -1,5 +1,7 @@
 # oxygen-vacancy
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Chen2016electrical]] — Electrical and mechanical switching of ferroelectric polarization in the 70 nm BiFeO3 film
 - [[../papers/KumarChoubey2011mechanoluminescence]] — Mechanoluminescence & Thermoluminescence of SrAl2O4:Eu Nano-Phosphors
 - [[../papers/Perugu2024morphology]] — Synthesis, Structural, Morphology and Magnetic Properties: Effect of La on Multiferroic Nature of BiFeO3 Nanoparticles

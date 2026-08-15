@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [concept, topological-physics, transport]
 title: 量子自旋霍尔效应 / Quantum Spin Hall Effect (QSHE)
 type: concept
@@ -36,6 +36,10 @@ QSHE 体系的特征是存在穿过体带隙的螺旋边缘态。
 
 在单层 1T'-WSe₂ 中，这种效应已在实验中通过 STM 观测到的边缘态得到初步印证。
 
+## 🔬 材料范例与调控
+
+**1T' 相 TMD 与相变调控**：1T' 相过渡金属二硫族化物（如 WSe₂、MoTe₂）被证实为二维量子自旋霍尔绝缘体；通过相变工程（应变、静电掺杂、激光图案化等）可在 2H 半导体相与 1T' 拓扑相之间切换，为可调控的拓扑电子器件提供了平台 [[../papers/liPhaseTransitions2D2021]]。
+
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/pedramraziManipulatingTopologicalDomain2019]]：利用畴界操控探讨 QSHI 中的边缘态输运。
@@ -49,7 +53,6 @@ QSHE 体系的特征是存在穿过体带隙的螺旋边缘态。
 - [[../concepts/time-reversal-symmetry|时间反演对称性]]（量子化平台的保护伞）
 - [[../concepts/spin-orbit-coupling|自旋-轨道耦合]]（驱动力）
 - [[../entities/WSe2|WSe₂]]（典型的 1T' 相 QSHI 材料）
-- [[../entities/HgTe|HgTe]]（首个被实验证实的 QSHI）
 
 ## 🏷️ 专业名词别名
 

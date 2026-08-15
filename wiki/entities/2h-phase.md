@@ -6,7 +6,7 @@ status: mature
 formula: "MX2"
 stoichiometry: 2H
 class: [structure-phase, TMD]
-properties: [trigonal-prismatic-coordination, semiconducting, valley-physics]
+properties: [trigonal-prismatic-coordination, semiconducting]
 related_entities: [1t-phase, MoS2, WS2, MoTe2]
 papers: [liPhaseTransitions2D2021, RecentAdvancesGrowth2025]
 updated: 2026-08
@@ -43,8 +43,6 @@ updated: 2026-08
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
-- [[../concepts/valley-physics|能谷物理]]
-- [[../concepts/direct-bandgap|直接带隙]]
 - [[../entities/1t-phase|1T 相]]
 - [[../entities/MoS2|二硫化钼 (MoS2)]]
 - [[../entities/WS2|二硫化钨 (WS2)]]

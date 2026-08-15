@@ -44,4 +44,3 @@ updated: 2026-08
 - [[../concepts/weyl-semimetal|外尔半金属]]（对称性破缺后的状态）
 - [[../concepts/topological-insulator|拓扑绝缘体]]（带隙打开后的状态）
 - [[../concepts/spin-orbit-coupling|自旋-轨道耦合]]（能带演化的关键）
-- [[../entities/Cd3As2|Cd₃As₂]]（经典三维狄拉克半金属）

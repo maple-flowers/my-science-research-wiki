@@ -1,4 +1,6 @@
 # lego-assembly
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/FerroelectricityMultiferroicityAtomic2023]] — Ferroelectricity and multiferroicity down to the atomic thickness
 - [[../papers/yanDecipheringStabilityTwodimensional2025]] — Deciphering the stability of two-dimensional III-V semiconductors: Building blocks and their versatile assembly

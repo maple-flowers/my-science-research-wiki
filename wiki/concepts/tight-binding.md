@@ -1,5 +1,7 @@
 # tight-binding
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Barnett2006coexistence]] — Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides
 - [[../papers/CastroNeto2001charge]] — Charge Density Wave, Superconductivity, and Anomalous Metallic Behavior in 2D Transition Metal Dichalcogenides
 - [[../papers/Inosov2008fermi]] — Fermi surface nesting in several transition metal dichalcogenides

@@ -1,5 +1,7 @@
 # refractive-index
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/2019optical]] — Optical Fiber Polymer Sensor System with TiO2-SiO2 Cladding for Measuring Humidity
 - [[../papers/Blessing2026optical]] — Optical investigation of tin telluride (SnTe) thin films grown at different deposition voltage
 - [[../papers/Doroodmand2017conjugated]] — Electro-synthesized Conjugated Salen Polymer-Glassy Carbon as Hydrochromic Reflective Filter for Humidity Detection: Introduction of Humidity Optical Sensor

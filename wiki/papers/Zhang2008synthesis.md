@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Zhang2008synthesis]]
 projects: [project-1]
-concepts: [two-photon-absorption, two-photon-polymerization, nonlinear-optics, push-pull-chromophore, intramolecular-charge-transfer, multipolar-chromophore, photoinitiation]
+concepts: [two-photon-absorption, two-photon-polymerization, nonlinear-optics, push-pull-chromophore, charge-transfer, multipolar-chromophore, photoinitiation]
 entities: [triphenylamine]
 methods: [organic-synthesis, uv-vis-spectroscopy, fluorescence-spectroscopy, z-scan, two-photon-excited-fluorescence, nonlinear-optical-characterization]
 materials: [three-branched-chromophore, two-photon-initiator]
@@ -46,7 +46,7 @@ tags:
   - concept/two-photon-polymerization
   - concept/nonlinear-optics
   - concept/push-pull-chromophore
-  - concept/intramolecular-charge-transfer
+  - concept/charge-transfer
   - concept/multipolar-chromophore
   - concept/photoinitiation
   - entity/triphenylamine

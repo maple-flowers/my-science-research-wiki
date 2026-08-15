@@ -1,5 +1,7 @@
 # pseudopotential
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Delley2000]] — From molecules to solids with the DMol3 approach
 - [[../papers/blochlProjectorAugmentedwaveMethod1994b]] — Projector augmented-wave method
 - [[../papers/kresseInitiomolecularDynamicsLiquid1993]] — <i>Ab initio</i> molecular dynamics for liquid metals

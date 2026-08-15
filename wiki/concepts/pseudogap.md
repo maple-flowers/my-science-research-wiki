@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [concept, spectral-function, charge-density-wave]
 title: 赝能隙 / Pseudogap
 type: concept
@@ -39,6 +39,10 @@ updated: 2026-08
 [[../papers/Inosov2008fermi]] 提到在 2H-NbSe2 等材料中，赝能隙的出现往往与 Kohn 异常（**Kohn anomaly**）的演化相关。
 *   **各向异性**：赝能隙通常只出现在费米面的某些特定区域（热点，**hotspots**），这些区域通常与嵌套矢量 $q$ 相连接。
 *   **与 CDW 竞争**：赝能隙的出现可能会降低体系的动能增益，从而影响最终长程 CDW 态的稳定性。
+
+## 🔬 理论模型与范例
+
+**TMD 中的统一微观理论**：Castro Neto 构建了 2D TMD（2H-TaSe₂、2H-TaS₂、2H-NbSe₂、2H-NbS₂）中 CDW、超导与反常金属行为的统一微观理论：基于电子-声子耦合与费米面拓扑构建 f 波对称 CDW 序参量，用狄拉克哈密顿量描述低能激发，通过压电耦合模型推导电子自能，将 CDW、狄拉克费米子、边缘费米液体与量子临界点等概念融合，为理解赝能隙与 CDW/超导共存提供了新范式 [[../papers/CastroNeto2001charge]]。
 
 ## 📚 相关论文 (Related Papers)
 

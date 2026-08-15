@@ -1,5 +1,7 @@
 # dimerization
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Johannes2008fermi]] — Fermi surface nesting and the origin of charge density waves in metals
 - [[../papers/chenFerromagneticNonmagnetic1T2022]] — Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition
 - [[../papers/liFerroelasticityDomainPhysics2016]] — Ferroelasticity and domain physics in two-dimensional transition metal dichalcogenide monolayers

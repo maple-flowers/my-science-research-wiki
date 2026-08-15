@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [concept, photophysics, excited-state]
 title: 扭曲分子内电荷转移机制 / TICT Mechanism
 type: concept
@@ -35,6 +35,14 @@ TICT 态的形成对外部环境极其敏感，是构建多通道探针的物理
 ## 🔬 首次观测到的“三重荧光”
 
 在基于二氰基二苯乙烯的探针 P1 中，科学家在双光子激发下首次同时观察到了来自 **LE、TICT 和激基复合物 (Exciplex)** 的三重发射信号 [[../papers/H2017fluorescence]]。这种多带发射为实现无需背景校准的比率型传感提供了理想平台。
+
+## 🔬 实验表征/特征与范例
+
+**双氰基二苯乙烯探针（1a/1b）**：基于双氰基二苯乙烯骨架的 D-π-A 探针在双光子激发下同时呈现 LE、TICT 与激基复合物三重荧光，兼具大双光子吸收截面；P1 在 DMSO 等强极性溶剂中 TICT 态被稳定，荧光量子产率骤降至约 0.013 [[../papers/Huang2023two]]。
+
+**粘度"冻结"旋转**：在甘油等高粘度介质中，分子内旋转被阻碍，TICT 态布居减少，LE 带（B 带）强度显著增强，实现粘度传感 [[../papers/Huang2019solvatochromic]]。
+
+**三重荧光与比率型传感**：P1 在双光子激发下首次同时观测到 LE、TICT 与激基复合物三重发射，结合浓度依赖实验区分分子内（TICT）与分子间（Exciplex）过程，为比率型传感提供平台 [[../papers/H2017fluorescence]]。
 
 ## 📚 相关论文 (Related Papers)
 

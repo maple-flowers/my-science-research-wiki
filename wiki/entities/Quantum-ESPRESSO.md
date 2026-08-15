@@ -1,5 +1,7 @@
 # Quantum-ESPRESSO
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/king-smithTheoryPolarizationCrystalline1993]] — Theory of polarization of crystalline solids
 - [[../papers/lezoualchStudyChargeDensity]] — Study of charge density waves in transition metal dichalcogenides
 - [[../papers/tangGridbasedBaderAnalysis2009]] — A grid-based Bader analysis algorithm without lattice bias

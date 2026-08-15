@@ -1,5 +1,7 @@
 # structural-phase-transition
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Kang2012dimer]] — Dimer impurity scattering, reconstructed Fermi-surface nesting, and density-wave diagnostics in iron pnictides
 - [[../papers/Kim2008effect]] — Effect of epitaxial strain on ferroelectric polarization in multiferroic BiFeO3 films
 - [[../papers/Petkov2020hierarchy]] — Hierarchy among the crystal lattice, charge density wave, and superconducting orders in transition metal dichalcogenides

@@ -17,7 +17,7 @@ local_path: E:\swan_goose\燕燕\香香\项目三：应力发光神经网络\
 本项目致力于构建力学应力场与应力发光（Mechanoluminescence, ML）特性之间的神经网络预测模型。通过结合二维材料的压电力学响应与稀土掺杂体系的电子陷阱动力学，实现对应力分布的超灵敏光学传感与定量分析。目前主攻 36$\times$36 像素分辨率的力-光映射网络调优。
 
 ## 2. 与科研 Wiki 知识库的联系
-- **相关材料/实体**：[[../entities/BiFeO3|SrAl2O4:Eu 铝酸锶]]、[[../entities/BiFeO3|Ba3VO4-2 钒酸钡]]、[[../entities/software-tool-entity|Deep Potential 架构]]
+- **相关材料/实体**：[[../entities/BiFeO3|SrAl2O4:Eu 铝酸锶]]、[[../entities/BiFeO3|Ba3VO4-2 钒酸钡]]
 - **相关物理概念**：[[../concepts/mechanoluminescence|机械发光]]、[[../concepts/thermoluminescence|热释光]]、[[../concepts/molecular-beam-epitaxy|陷阱深度]]、[[../concepts/dislocation-mediated-ml|位错介导 ML]]
 - **相关课题/主题**：[[../topics/材料模拟计算设计|材料模拟计算设计]]
 

@@ -5,7 +5,7 @@ type: concept
 status: developing
 domain: [condensed-matter-physics, particle-physics]
 mechanism: 粒子本身即为其反粒子的费米子激发，在凝聚态体系中表现为零能准粒子
-related_concepts: [topological-superconductor, non-abelian-statistics, zero-bias-anomaly, quantum-computation, berry-phase]
+related_concepts: [topological-superconductor, zero-bias-anomaly, quantum-computation, berry-phase]
 papers: [hanPolarTopologicalMaterials2025, pedramraziManipulatingTopologicalDomain2019]
 updated: 2026-08
 ---
@@ -42,8 +42,5 @@ updated: 2026-08
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/topological-superconductor|拓扑超导体]]（马约拉纳费米子的载体）
-- [[../concepts/non-abelian-statistics|非阿贝尔统计]]（核心量子特性）
 - [[../concepts/pseudogap|赝能隙/零偏压异常]]（实验上的干扰因素）
-- [[../entities/InSb_nanowire|锑化铟纳米线]]（寻找马约拉纳费米子的前沿平台）
-- [[../entities/Bi2Te3_Nb|超导邻近的碲化铋]]（典型的异质结平台）
 鼓

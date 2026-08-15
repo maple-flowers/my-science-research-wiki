@@ -1,5 +1,7 @@
 # brillouin-zone
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Kang2012dimer]] — Dimer impurity scattering, reconstructed Fermi-surface nesting, and density-wave diagnostics in iron pnictides
 - [[../papers/Laverock2005fermi]] — Fermi surface nesting and charge-density wave formation in rare-earth tritellurides
 - [[../papers/chowdhuryReviewTheoreticalComputational]] — Computational Methods for Charge Density Waves in 2D Materials

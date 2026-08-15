@@ -1,11 +1,11 @@
-﻿---
+---
 tags: [concept, photophysics, ultrafast-spectroscopy]
 title: 泵浦-探测技术 / Pump-Probe
 type: concept
 status: developing
 domain: [ultrafast-spectroscopy, photophysics, carrier-dynamics]
 mechanism: 使用强脉冲（泵浦光）激发样品，间隔一定延迟时间后用弱脉冲（探测光）记录样品的动态演化过程
-related_concepts: [ultrafast-spectroscopy, electromagnon, phase-difference, relaxation-time]
+related_concepts: [ultrafast-spectroscopy, electromagnon, phase-difference]
 papers: [gaoGiantChiralMagnetoelectric2024a, Yarai2005optical]
 updated: 2026-08
 ---
@@ -38,6 +38,10 @@ updated: 2026-08
 *   **相变演化**：实时记录光诱导相变（如超导、铁电翻转）的萌芽过程。
 *   **集体激发**：研究磁振子、声子以及电磁振子的相干振荡。
 
+## 🔬 应用范例：热透镜光纤湿度传感
+
+泵浦-探测思想也延伸至传感领域：以 1.48 μm 泵浦光被水汽吸收产生热透镜效应，用 850 nm 超辐射发光二极管作为探测光感知折射率变化，通过锁相放大器提取信号，实现基于热透镜探测的光纤湿度传感器；该方法在低泵浦功率（<100 mW）与极短光吸收路径（<50 μm）下即可工作 [[../papers/Yarai2005optical]]。
+
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/gaoGiantChiralMagnetoelectric2024a]]：利用双通道 Pump-Probe 技术揭示了 NiI2 中的巨手性磁电耦合，实现了电、磁通道的动力学解耦。
@@ -48,7 +52,6 @@ updated: 2026-08
 - [[../concepts/ultrafast-spectroscopy|超快光谱学]]
 - [[../concepts/second-harmonic-generation|二次谐波产生]]
 - [[../concepts/electromagnon|电磁振子]]
-- [[../concepts/relaxation-time|弛豫时间]]
 
 ## 🏷️ 专业名词别名
 

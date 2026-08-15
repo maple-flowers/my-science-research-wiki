@@ -1,5 +1,7 @@
 # dzyaloshinskii-moriya-interaction
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Goswami2011multiferroic]] — Multiferroic coupling in nanoscale BiFeO3
 - [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]] — Atomic-Scale Visualization of Multiferroicity in Monolayer NiI2
 - [[../papers/deSousa2008electrical]] — Electrical control of magnon propagation in multiferroic BiFeO3 films

@@ -1,4 +1,7 @@
 # domain-wall
+
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/huangTwodimensionalIn2Se3Rising2022]] — Two-dimensional In2Se3: A rising advanced material for ferroelectric data storage
 - [[../papers/prosandeevKittelLawInBiFeO3Ultrathin2010]] — Kittel Law in BiFeO3 Ultrathin Films: A First-Principles-Based Study
 - [[../papers/spaldinRenaissanceMagnetoelectricMultiferroics2005]] — The Renaissance of Magnetoelectric Multiferroics

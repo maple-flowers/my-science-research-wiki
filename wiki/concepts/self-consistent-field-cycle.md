@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [concept, computational-physics, vasp, dft]
 title: Self-Consistent Field Cycle / 自洽场循环 (SCF)
 type: concept
@@ -45,6 +45,10 @@ updated: 2026-08
 
 ### 3. 力的快速收敛修正 (Forces Corrections)
 在自洽场尚未完全收敛时，直接计算原子力（Hellmann-Feynman 力）会引入极大的误差。VASP 引入了针对输入输出密度差的力修正项，使得即使自洽没做完，力的精度也极高，从而允许提前结束电子步，大大加速了离子弛豫和分子动力学模拟。
+
+## 🔬 算法基准与范例
+
+**RMM-DIIS 与 Pulay 混合**：Kresse 与 Furthmüller 提出基于残差最小化的迭代对角化方案（RMM-DIIS）与基于 Pulay 混合、Kerker 预条件的电荷密度混合方案，解决了平面波基组下金属系统矩阵对角化 O(N³) 瓶颈与"电荷晃动"收敛困难；在金刚石、fcc-Fe、fcc-Al 等体系上的基准测试验证了其效率与标度优势，使数百原子复杂体系的高精度计算成为可能 [[../papers/kresseEfficientIterativeSchemes1996d]]。
 
 ## 📚 相关论文 (Related Papers)
 

@@ -1,5 +1,7 @@
 # PZT
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Kim2008effect]] — Effect of epitaxial strain on ferroelectric polarization in multiferroic BiFeO3 films
 - [[../papers/chenHafniumBasedFerroelectricPostMoore2026]] — Hafnium-Based Ferroelectric Post-Moore Electronics: Device Physics, Integration Architectures, and Neuromorphic System Implementation
 - [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]] — Intercorrelated In-Plane and Out-of-Plane Ferroelectricity in Ultrathin Two-Dimensional Layered Semiconductor In2Se3

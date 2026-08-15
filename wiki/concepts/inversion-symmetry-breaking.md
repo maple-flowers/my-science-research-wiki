@@ -1,5 +1,7 @@
 # inversion-symmetry-breaking
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/FerroelectricityMultiferroicityAtomic2023]] — Ferroelectricity and multiferroicity down to the atomic thickness
 - [[../papers/bhowalPolarMetalsPrinciples2023b]] — Polar Metals: Principles and Prospects
 - [[../papers/guanRecentProgressTwoDimensional2020]] — Recent Progress in Two‐Dimensional Ferroelectric Materials

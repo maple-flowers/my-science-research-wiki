@@ -1,5 +1,7 @@
 # MoSe2
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/FerroelectricityMultiferroicityAtomic2023]] — Ferroelectricity and multiferroicity down to the atomic thickness
 - [[../papers/Li2013bonding]] — Bonding Charge Density and Ultimate Strength of Monolayer Transition Metal Dichalcogenides
 - [[../papers/Owji20212d]] — 2D materials coated on etched optical fibers as humidity sensor

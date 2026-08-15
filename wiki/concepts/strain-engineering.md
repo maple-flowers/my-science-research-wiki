@@ -1,5 +1,7 @@
 # strain-engineering
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Chen2016electrical]] — Electrical and mechanical switching of ferroelectric polarization in the 70 nm BiFeO3 film
 - [[../papers/Goswami2011multiferroic]] — Multiferroic coupling in nanoscale BiFeO3
 - [[../papers/Islam2025enhancement]] — Pressure-induced enhancement of superfluid density in transition metal dichalcogenides with and without charge density wave

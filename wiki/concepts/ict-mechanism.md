@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [concept, photophysics, excited-state]
 title: 分子内电荷转移机制 / ICT Mechanism
 type: concept
@@ -36,6 +36,16 @@ updated: 2026-08
 
 ICT 是分子内电荷转移的广义称呼。如果这种转移伴随着分子内化学键的旋转扭转（从共平面变为正交），则进一步演化为 [[../concepts/tict-mechanism|扭曲分子内电荷转移 (TICT)]] 态，通常会导致荧光的猝灭。
 
+## 🔬 实验表征/特征与范例
+
+**双氰基二苯乙烯探针（P1）**：基于 2,5-二氰基-4-甲基-4'-二甲基氨基二苯乙烯（P1）的 D-π-A 分子，通过稳态光谱与双光子激发荧光测量，首次报道双光子激发的三重荧光（LE、TICT、Exciplex），可同时对极性、粘度、温度产生可区分的荧光响应 [[../papers/H2017fluorescence]]。
+
+**超宽变色与超大截面**：P1 在双光子激发下实现约 196 nm 的超宽溶剂化变色范围与约 6670 GM 的超大双光子吸收截面，双氰基邻、间位取代策略是高性能环境敏感探针的设计范式 [[../papers/Huang2019solvatochromic]]。
+
+**双光子聚合引发剂**：双光子聚合（2PP）利用近红外飞秒激光焦点处的双光子吸收实现三维微纳加工，高效引发剂需大双光子吸收截面 δ；如 2-4,4'-双(二正丁氨基)-E-二苯乙烯 δ 达 210 GM，D-π-D 结构是通用设计策略 [[../papers/WRZYSZCZYNSKI2010initiators]]。
+
+**三支化引发剂**：以中心给体核连接三个共轭推-拉分支的三支化发色团，通过协同分子内电荷转移增强非线性响应，Z-scan/TPEF 测量其双光子吸收截面 σ₂ 并验证 2PP 引发性能 [[../papers/Zhang2008synthesis]]。
+
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/Huang2023two]]：分析了二氰基取代如何通过 ICT 机制产生超大双光子截面。
@@ -54,4 +64,4 @@ ICT 是分子内电荷转移的广义称呼。如果这种转移伴随着分子�
 
 ## 🏷️ 专业名词别名
 
-- `intramolecular-charge-transfer`（concepts）
+- `charge-transfer`（concepts）

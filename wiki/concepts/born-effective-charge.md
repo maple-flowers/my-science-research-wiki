@@ -1,5 +1,7 @@
 # born-effective-charge
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/bhowalPolarMetalsPrinciples2023b]] — Polar Metals: Principles and Prospects
 - [[../papers/gomez-ortizKittelLawDomain2023]] — Kittel law and domain formation mechanism in PbTiO3/SrTiO3 superlattices
 - [[../papers/kaurRecentAdvancesTheoretical2025a]] — Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials

@@ -46,5 +46,4 @@ updated: 2026-08
 - [[../concepts/high-order-topology|高阶拓扑]]（铰链态出现的背景）
 - [[../concepts/surface-state|表面态]]（铰链态的“母态”）
 - [[../concepts/edge-state|边缘态]]（二维体系中的对应物）
-- [[../entities/Bi|铋 (Bi)]]（展示铰链态的明星材料）
 - [[../entities/WTe2|WTe₂]]（被预言具有高阶拓扑特性的极性金属）

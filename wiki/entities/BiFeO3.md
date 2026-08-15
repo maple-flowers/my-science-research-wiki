@@ -98,5 +98,4 @@ Prosandeev 等人的理论研究证实，BFO 超薄膜在厚度大于 2 nm 时�
 
 - [[../concepts/multiferroicity|多铁性]]
 - [[../concepts/magnetoelectric-coupling|磁电耦合]]
-- [[../concepts/lone-pair-driven-ferroelectricity|孤对电子型铁电性]]
 - [[../entities/HoMnO3|HoMnO₃]]

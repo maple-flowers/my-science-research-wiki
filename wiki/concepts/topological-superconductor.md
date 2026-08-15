@@ -44,5 +44,4 @@ updated: 2026-08
 - [[../concepts/majorana-fermion|马约拉纳费米子]]（TSC 的标志性激发）
 - [[../concepts/topological-insulator|拓扑绝缘体]]（常被用来诱导 TSC）
 - [[../concepts/bulk-boundary-correspondence|体-边界对应关系]]（TSC 理论基础）
-- [[../entities/Cu_xBi2Se3|掺铜硒化铋]]（被认为具有拓扑超导性的候选材料）
 - [[../entities/WTe2|WTe₂]]（可在高压下表现出超导性，并具有拓扑背景）

@@ -1,5 +1,7 @@
 # density-of-states
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Chen2019superconductivity]] — Discommensuration-driven superconductivity in the charge density wave phases of transition-metal dichalcogenides
 - [[../papers/Islam2025enhancement]] — Pressure-induced enhancement of superfluid density in transition metal dichalcogenides with and without charge density wave
 - [[../papers/Kang2012dimer]] — Dimer impurity scattering, reconstructed Fermi-surface nesting, and density-wave diagnostics in iron pnictides
