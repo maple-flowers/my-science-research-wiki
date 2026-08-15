@@ -72,6 +72,7 @@ J. H. Van Vleck，1945，Reviews of Modern Physics 17(1), 27–47，DOI [10.1103
   - 图表 [[../figures/mathematical-models|数学模型]]（全文以式1–23及6幅理论曲线为骨架，是分子场、交换耦合、自旋波、能带模型的数学汇总）
   - 年度 [[../write/1945-1999|1945]]
   - 相关论文 [[../../raw/note/vanvleckSurveyTheoryFerromagnetism1945]]
+  - 实体 [[../entities/MnO]]
 
 ## 🆕 新概念/实体建议
   - 实体 `MnO.md`：经典反铁磁体，Bizette-Squire-Tsai 的 χ(T) 数据被范弗莱克用来检验交错分子场理论

@@ -77,6 +77,11 @@ Michael Naguib, Vadym N. Mochalin, Michel W. Barsoum, Yury Gogotsi et al.，2014
   - 年度 [[../write/2010-2014|2013]]（DOI 年份 / 在线发表）
   - 年度 [[../write/2010-2014|2014]]（正式卷期）
   - 相关论文 [[../../raw/note/naguib25thAnniversaryArticle2013a]]
+  - 实体 [[../entities/Ti3C2]]
+  - 实体 [[../entities/Nb2CTx]]
+  - 实体 [[../entities/Ti2CTx]]
+  - 实体 [[../entities/V2CTx]]
+  - 实体 [[../entities/Ta4C3Tx]]
 
 ## 🆕 新概念/实体建议
   - `max-phases`（MAX 相）：通式 M_{n+1}AX_n 的六方层状三元碳化物/氮化物（P6₃/mmc），M 为早期过渡金属、A 主要为 IIIA/IVA 族元素、X 为 C/N，n=1–3；是 MXenes 的母体材料，文中列举 60 余种纯相及大量固溶体，应独立建条目。

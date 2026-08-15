@@ -79,6 +79,8 @@ Hongjun Xiang，2020，National Science Review 7(12): 1844–1845，DOI 10.1093/
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 实体 [[../entities/CuCrS2]]
   - 相关论文 [[../../raw/note/xiangTwodimensionalRoomTemperature2020]]
+  - 实体 [[../entities/CuCrSe2]]
+
 ## 🆕 新概念/实体建议
   - `ferroelectricity`（铁电性）：自发极化可在外电场下反转的有序态，wiki 中尚无独立条目，仅有 polarization-switching、sliding-ferroelectricity 等子条目。
   - `ferromagnetism`（铁磁性）：磁矩平行长程有序，wiki 中 magnetism 相关概念分散，建议补建基础条目。

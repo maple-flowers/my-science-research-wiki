@@ -114,6 +114,8 @@ Qian Song, Connor A. Occhialini, Emre Ergeçen, Batyr Ilyas, Danila Amoroso, Pao
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
   - 概念 [[../concepts/spin-helix]]、[[../concepts/magnetic-anisotropy]]、[[../concepts/inversion-symmetry-breaking]]、[[../concepts/rotational-symmetry-breaking]]、[[../concepts/skyrmions]]
   - 相关论文 [[../../raw/note/songEvidenceSinglelayerVan2022]]
+  - 实体 [[../entities/WIEN2k]]
+
 ## 🆕 新概念/实体建议
   - `type-ii-multiferroicity`（第二类多铁性）：由打破反演对称性的磁序（螺旋/摆线）直接诱导铁电极化，磁电内禀强耦合；NiI₂ 为二维首例。
   - `spin-helix` / `proper-screw`（正螺旋自旋序）：自旋绕传播轴旋转、自旋旋转平面垂直于 Q 的螺旋磁结构；NiI₂ 中 Q=(0.138,0,1.457) r.l.u.。

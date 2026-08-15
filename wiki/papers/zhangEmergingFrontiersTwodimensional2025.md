@@ -89,6 +89,12 @@ Qing Zhang, Aiqing Fan, Yongshuai Wang, Fan Wu, Lin Li, Hong Meng, Dechao Geng e
   - 年度 [[../write/2025]]、[[../write/2017]]（2017 年 Wu 组首次理论提出）、[[../write/2018]]（双层 WTe2 实验证实）
   - 项目 [[../projects/project-2-mn-multiferroics]]（WSe2 在 3° 扭转角下铁电-铁磁共存、ZrI2 铁弹-铁电多铁预测，与多铁主题相关）
   - 相关论文 [[../../raw/note/zhangEmergingFrontiersTwodimensional2025]]
+  - 实体 [[../entities/InSe]]
+  - 实体 [[../entities/SnSe2]]
+  - 实体 [[../entities/CCC-amphidynamic-crystal]]
+  - 实体 [[../entities/NbOI2]]
+  - 实体 [[../entities/Bi2O2Se]]
+
 ## 🆕 新概念/实体建议
   - 实体 `InSe.md`：γ/β/ε-InSe 与 In2Se3 不同；ε-InSe 偶数层面外极化、~3 ps 超快体光伏；Y 掺杂 γ-InSe 压电系数提升一个数量级。
   - 实体 `SnSe2.md`：衬底引导 CVD 生长 6R/12R/18R/18C 高阶多型体，AB' 堆垛具铁电。

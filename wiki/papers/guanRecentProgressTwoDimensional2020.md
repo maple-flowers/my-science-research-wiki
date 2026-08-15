@@ -143,6 +143,8 @@ Zhao Guan, He Hu, Xinwei Shen, Pinghua Xiang, Ni Zhong, Junhao Chu, Chungang Dua
   - 年度 [[../write/2020]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 **guanRecentProgressTwoDimensional2020**
+  - 实体 [[../entities/BTO]]
+  - 实体 [[../entities/BA2PbCl4]]
 
 ## 🆕 新概念/实体建议
   - `intralayer-bonding` / `interlayer-translation`（层内键合 / 层间平移）：本文提出的二维铁电机制一级分类框架，前者含结构畸变、偶极锁定、电子极化，后者以层间滑移改变电荷转移产生 OOP 极化。

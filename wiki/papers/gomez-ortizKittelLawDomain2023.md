@@ -98,6 +98,9 @@ Fernando Gómez-Ortiz, Hugo Aramberri, Juan M. López, Pablo García-Fernández,
   - 图表 [[../figures/domain-walls]]、[[../figures/crystal-structures]]
   - 年度 [[../write/2023]]
   - 相关论文 **gomez-ortizKittelLawDomain2023**
+  - 实体 [[../entities/SCALE-UP]]
+  - 实体 [[../entities/PbTiO3-SrTiO3-superlattice]]
+
 ## 🆕 新概念/实体建议
   - 实体 `PbTiO3-SrTiO3-superlattice.md`：钙钛矿铁电/顺电端元构成的超晶格复合相。
   - 实体 `SCALE-UP.md`：第二性原理有效哈密顿量模拟所用的软件包。
