@@ -1,4 +1,7 @@
 # climbing-image-neb
+
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/henkelmanClimbingImageNudged2000c]] — A climbing image nudged elastic band method for finding saddle points and minimum energy paths
 - [[../papers/zhongHighthroughputExfoliationMultiferroic2025]] — High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperature and giant spin splitting
 

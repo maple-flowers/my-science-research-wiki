@@ -1,5 +1,7 @@
 # norm-conserving-pseudopotential
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Li2013bonding]] — Bonding Charge Density and Ultimate Strength of Monolayer Transition Metal Dichalcogenides
 - [[../papers/chowdhuryReviewTheoreticalComputational]] — Computational Methods for Charge Density Waves in 2D Materials
 - [[../papers/king-smithTheoryPolarizationCrystalline1993]] — Theory of polarization of crystalline solids

@@ -1,1 +1,0 @@
-# lone-pair-driven-ferroelectricity

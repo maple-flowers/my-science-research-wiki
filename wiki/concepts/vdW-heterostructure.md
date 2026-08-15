@@ -1,4 +1,7 @@
 # vdW-heterostructure
+
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/dingPredictionIntrinsicTwodimensional2017a]] — Prediction of intrinsic two-dimensional ferroelectrics in In2Se3 and other III2-VI3 van der Waals materials
 - [[../papers/gaoGiantChiralMagnetoelectric2024a]] — Giant chiral magnetoelectric oscillations in a van der Waals multiferroic
 - [[../papers/hallEnvironmentalControlCharge]] — Environmental Control of Charge Density Wave Order in Monolayer 2H-TaS₂

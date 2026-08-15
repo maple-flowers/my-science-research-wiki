@@ -1,5 +1,7 @@
 # lone-pair-electrons
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Kim2008effect]] — Effect of epitaxial strain on ferroelectric polarization in multiferroic BiFeO3 films
 - [[../papers/RecentAdvancesGrowth2025]] — Recent advances in growth, characterization, and application of two-dimensional multiferroic materials
 - [[../papers/bhowalPolarMetalsPrinciples2023b]] — Polar Metals: Principles and Prospects

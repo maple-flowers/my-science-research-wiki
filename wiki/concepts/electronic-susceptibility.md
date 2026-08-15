@@ -1,5 +1,7 @@
 # electronic-susceptibility
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Johannes2008fermi]] — Fermi surface nesting and the origin of charge density waves in metals
 - [[../papers/junqueraCriticalThicknessFerroelectricity2003]] — Critical thickness for ferroelectricity in perovskite ultrathin films
 - [[../papers/kawakamiChargedensityWaveAssociated2023]] — Charge-density wave associated with higher-order Fermi-surface nesting in monolayer VS2

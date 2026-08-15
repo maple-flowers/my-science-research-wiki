@@ -72,6 +72,6 @@ paradigm   : active ────────────────────
 1. **先读规范**：[[format-spec|想法条目编写规范]] 定义了四种卡片的 frontmatter、正文模板、命名与双链规则。
 2. **从 gap 开始**：每张 idea 必须锚定至少一个 gap；每张 validation 必须锚定一个 idea；每张 paradigm 必须锚定至少一篇代表论文。
 3. **双链联动**：引用论文一律 `[[../papers/<citekey>]]`（不直链 `raw/note/`）；引用概念 / 实体 / 主题 / 项目用对应相对路径。
-4. **落地闭环**：idea 被采纳后，把 `status` 改为 `adopted` 并双链 `[[../projects/project-N-slug|项目N]]`；同时在该 project 页的「与 Wiki 联系」回链 idea。
+4. **落地闭环**：idea 被采纳后，把 `status` 改为 `adopted` 并双链 `[[../projects/project-1-two-photon|项目1]]`；同时在该 project 页的「与 Wiki 联系」回链 idea。
 5. **想法是活的**：随验证推进更新 `status` 与「生命周期日志」，不必一次写全。
 *（内容由AI生成，仅供参考）*

@@ -5,7 +5,7 @@ type: concept
 status: mature
 domain: [photophysics, physical-chemistry, molecular-probes]
 mechanism: 分子吸收或发射光谱随溶剂极性改变而发生偏移
-related_concepts: [intramolecular-charge-transfer, lippert-mataga, dipole-moment, solvent-relaxation]
+related_concepts: [charge-transfer, lippert-mataga, dipole-moment, solvent-relaxation]
 papers: [Huang2023two, Huang2019solvatochromic, H2017fluorescence]
 updated: 2026-08
 ---

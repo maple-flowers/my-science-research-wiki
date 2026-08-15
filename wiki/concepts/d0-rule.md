@@ -1,5 +1,7 @@
 # d0-rule
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]] — Ferroelectricity and multiferroicity in two-dimensional Sc₂P₂Se₆ and ScCrP₂Se₆ monolayers
 - [[../papers/hillWhyAreThere2000a]] — Why Are There so Few Magnetic Ferroelectrics?
 - [[../papers/tangMultiferroicityTwodimensionalVan2025]] — Towards Multiferroicity in Two-Dimensional Van Der Waals Materials: Challenges and Opportunities

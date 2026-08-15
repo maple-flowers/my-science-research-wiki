@@ -1,5 +1,7 @@
 # fermi-surfaces
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Barnett2006coexistence]] — Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides
 - [[../papers/Delley2000]] — From molecules to solids with the DMol3 approach
 - [[../papers/Islam2025enhancement]] — Pressure-induced enhancement of superfluid density in transition metal dichalcogenides with and without charge density wave

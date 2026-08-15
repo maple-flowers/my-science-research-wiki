@@ -5,7 +5,7 @@ type: concept
 status: developing
 domain: [photophysics, molecular-spectroscopy, sensing]
 mechanism: 分子发光强度随微环境极性增加、非辐射通道开启或能量转移而大幅下降的现象
-related_concepts: [fluorescence-quantum-yield, tict-mechanism, intramolecular-charge-transfer, quenching-agent]
+related_concepts: [fluorescence-quantum-yield, tict-mechanism, charge-transfer, quenching-agent]
 papers: [Huang2023two, Huang2019solvatochromic, H2017fluorescence]
 updated: 2026-08
 ---

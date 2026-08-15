@@ -44,5 +44,4 @@ updated: 2026-08
 - [[../concepts/high-order-topology|高阶拓扑]]（四极矩绝缘体所属的大类）
 - [[../concepts/berry-phase|贝里相位]]（计算四极矩的数学基础）
 - [[../concepts/topological-charge|拓扑荷]]（角态电荷的一种形式）
-- [[../entities/Bi|铋 (Bi)]]（块体铋晶体表现出高阶拓扑特性）
 - [[../entities/SnTe|SnTe]]（被预测可实现高阶拓扑态的材料之一）

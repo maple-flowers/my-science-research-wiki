@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [concept, topological-physics]
 title: 高阶拓扑 / Higher-order Topology
 type: concept
@@ -35,6 +35,10 @@ updated: 2026-08
 *   **二阶三维拓扑绝缘体**：具有绝缘的体能带和表面态，但在物理铰链（Hinges，即两个面交界处）上存在受保护的一维铰链态（Hinge States）。
 *   **多极矩不变量**：高阶拓扑的物理机制通常可以用动量空间的四极矩 (Quadrupole) 或八极矩 (Octupole) 不变量来描述。
 
+## 🔬 实验表征与范例
+
+**MoTe₂ 中的畴壁拓扑态**：极性外尔半金属 MoTe₂ 兼具低温极性 Td 相（外尔半金属）与高温非极性 1T' 相（高阶拓扑绝缘体），二者之间存在类超晶格的相畴壁及可操控的极性畴壁；原位低温 TEM、HAADF-STEM 与低温 STM 结合 DFT 计算，揭示了畴壁承载导电界面态，为探索拓扑-极性耦合物理与基于畴壁的拓扑电子器件开辟了新方向 [[../papers/huangPolarPhaseDomain2019]]。
+
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/hanPolarTopologicalMaterials2025]]：极性材料中的复杂拓扑相和多极矩物理。
@@ -46,7 +50,6 @@ updated: 2026-08
 - [[../concepts/quadrupole-insulator|四极矩绝缘体]]（典型的二阶拓扑绝缘体模型）
 - [[../concepts/hinge-state|铰链态]]（三维二阶 TI 的边界特征）
 - [[../concepts/bulk-boundary-correspondence|体-边界对应关系]]（高阶拓扑将其进行了推广）
-- [[../entities/Bi4Br4|Bi₄Br₄]]（被预言和实验验证的高阶拓扑绝缘体材料）
 
 ## 🏷️ 专业名词别名
 

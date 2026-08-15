@@ -1,4 +1,7 @@
 # soft-mode
+
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/kawakamiChargedensityWaveAssociated2023]] — Charge-density wave associated with higher-order Fermi-surface nesting in monolayer VS2
 - [[../papers/gomez-ortizKittelLawDomain2023]] — Kittel law and domain formation mechanism in PbTiO3/SrTiO3 superlattices
 - [[../papers/hillWhyAreThere2000a]] — Why Are There so Few Magnetic Ferroelectrics?

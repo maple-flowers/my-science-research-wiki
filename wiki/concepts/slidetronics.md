@@ -40,7 +40,6 @@ papers: [chenStrongSlidingFerroelectricity2024, wuSlidingFerroelectricity2D2021a
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/sliding-ferroelectricity|滑动铁电性]]
-- [[../concepts/interlayer-sliding|层间滑动]]
 - [[../concepts/rashba-effect|Rashba 效应]]
 - [[../concepts/moire-superlattice|莫尔超晶格]]
 - [[../entities/WTe2|二碲化钨 (WTe₂)]]

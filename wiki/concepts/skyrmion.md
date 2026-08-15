@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [concept, magnetism, topology]
 title: 斯格明子 / Skyrmion
 type: concept
@@ -32,6 +32,12 @@ updated: 2026-08
 1.  **拓扑电荷 (Topological Charge)**：定义为 $Q = \frac{1}{4\pi} \int \mathbf{m} \cdot (\partial_x \mathbf{m} \times \partial_y \mathbf{m}) dx dy$。对于单体斯格明子，$Q = \pm 1$。
 2.  **稳定性**：由 Dzyaloshinskii-Moriya 相互作用 (DMI) 与交换作用、各向异性能的竞争维持。
 3.  **驱动机制**：可以通过极低的电流密度利用自旋轨道转矩 (SOT) 驱动其在纳米线中运动。
+
+## 🔬 实验表征与范例
+
+**单层 NiI₂ 中的磁致拓扑结构**：单层 NiI₂ 被证实为范德华多铁体，其螺旋磁序与铁电性耦合，为在原子级薄层中实现磁致拓扑自旋结构提供了平台 [[../papers/songEvidenceSinglelayerVan2022]]。
+
+**二维多铁中的磁电耦合**：通过插层策略可实现强磁电耦合的二维多铁，第一性原理高通量预测为设计可调控的拓扑磁态与斯格明子宿主体系提供了新路径 [[../papers/zhaoRealization2DMultiferroic2024]]。
 
 ## 📚 相关论文 (Related Papers)
 

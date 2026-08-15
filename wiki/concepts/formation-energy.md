@@ -1,5 +1,7 @@
 # formation-energy
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Xie2024isostructural]] — Isostructural doping for organic persistent mechanoluminescence
 - [[../papers/aiFerroelectricityCoexistedPorbital2022]] — Ferroelectricity coexisted with p-orbital ferromagnetism and metallicity in two-dimensional metal oxynitrides
 - [[../papers/dingPredictionIntrinsicTwodimensional2017a]] — Prediction of intrinsic two-dimensional ferroelectrics in In2Se3 and other III2-VI3 van der Waals materials

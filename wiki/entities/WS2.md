@@ -6,7 +6,7 @@ status: mature
 formula: WS2
 stoichiometry: 2H
 class: [TMD, vdW, semiconductor]
-properties: [spin-orbit-coupling, valley-physics, exciton-effect]
+properties: [spin-orbit-coupling, exciton-effect]
 related_entities: [MoS2, WS2, 2h-phase]
 papers: [liPhaseTransitions2D2021, RecentAdvancesGrowth2025, FerroelectricityMultiferroicityAtomic2023, Li2013bonding, liuSpintronicsTwoDimensionalMaterials2020b, sunSlidingFerroelectricityTwodimensional2025]
 updated: 2026-08
@@ -55,6 +55,5 @@ WS2 常见的最稳定结构为 2H 相（三棱柱配位，属于空间群 $P6_3
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/spin-orbit-coupling|自旋-轨道耦合 (SOC)]]
-- [[../concepts/valley-physics|能谷物理]]
 - [[../entities/MoS2|二硫化钼 (MoS2)]]
 - [[../entities/2h-phase|2H 相]]

@@ -1,4 +1,7 @@
 # nudged-elastic-band
+
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/liFerroelasticityDomainPhysics2016]] — Ferroelasticity and domain physics in two-dimensional transition metal dichalcogenide monolayers
 - [[../papers/lezoualchStudyChargeDensity]] — Study of charge density waves in transition metal dichalcogenides
 - [[../papers/chenFerromagneticNonmagnetic1T2022]] — Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition

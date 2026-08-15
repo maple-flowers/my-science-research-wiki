@@ -5,7 +5,7 @@ type: concept
 status: developing
 domain: [ultrafast-optics, photophysics, solid-state-physics]
 mechanism: 利用飞秒（10^-15 s）或阿秒（10^-18 s）量级的极短脉冲激光研究物质在极短时间尺度内的动力学过程
-related_concepts: [pump-probe, relaxation-time, electromagnon, nonlinear-optics]
+related_concepts: [pump-probe, electromagnon, nonlinear-optics]
 papers: [gaoGiantChiralMagnetoelectric2024a]
 updated: 2026-08
 ---
@@ -44,5 +44,4 @@ updated: 2026-08
 
 - [[../concepts/pump-probe|泵浦-探测]]
 - [[../concepts/electromagnon|电磁振子]]
-- [[../concepts/relaxation-time|弛豫时间]]
 - [[../concepts/nonlinear-optics|非线性光学]]

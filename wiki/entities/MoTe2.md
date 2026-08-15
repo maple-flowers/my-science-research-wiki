@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [entity, material, TMD, 2D, semiconductor, topological]
 title: 二碲化钼 (MoTe2) / Molybdenum Ditelluride
 type: entity
@@ -36,6 +36,10 @@ MoTe2 成为相变明星的核心原因在于其相稳定性极易受外界扰�
 | 临界相变应变 | $\sim 0.2\%$ |
 | 拓扑能隙 (1T') | $\sim 0.06\text{ eV}$ |
 | 转变温度 (2H-1T') | $\sim 500\text{--}800\text{ K}$ (随成分偏差变化) |
+## 🔬 实验表征与器件
+
+**应变型铁电相变晶体管**：以弛豫铁电单晶 PMN-PT 作为栅介质与应变源、1T'-MoTe₂ 薄片为沟道、拉伸应力金属 Ni 为电极，构建三端应变驱动相变晶体管；通过电场诱导应变驱动 1T' 相变实现开关，规避传统 FET 的玻尔兹曼极限，实现室温非易失、高开关比操作，导电原子力显微镜（CAFM）在实空间成像相变区域 [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]]。
+
 ## 📚 相关论文 (Related Papers)
 - [[../papers/liPhaseTransitions2D2021]]：深入探讨了 MoTe2 作为二维相变工程核心材料的机理与应用。
 - [[../papers/RecentAdvancesGrowth2025]]：涉及了 MoTe2 大面积薄膜的生长动力学与相控制。

@@ -33,7 +33,7 @@ AIGC:
 - **想法是活的**：卡片随验证推进更新 `status` 与「生命周期日志」，不追求一次写全。proposed / draft 阶段允许简短。
 - **层级锚定**：每张 idea 必须锚定至少一个 gap（`gap` 字段）；每张 validation 必须锚定一个 idea（`idea` 字段）；每张 paradigm 必须锚定至少一篇代表论文（`papers` 字段）。
 - **问题 / 假设 / 证据分离**：gap 只记"问题"，idea 只记"假设与方案"，validation 只记"验证与结论"，paradigm 只记"研究套路与方法"，避免一张卡片混多种内容。
-- **落地闭环**：idea 验证通过并被采纳时，`status` 改为 `adopted`，正文双链落地项目 `[[../projects/project-N-slug|项目N]]`，并在该项目页回链 idea。验证否定则改 `rejected`，保留页面并写明否定原因，不删除。
+- **落地闭环**：idea 验证通过并被采纳时，`status` 改为 `adopted`，正文双链落地项目 `[[../projects/project-1-two-photon|项目1]]`，并在该项目页回链 idea。验证否定则改 `rejected`，保留页面并写明否定原因，不删除。
 - **引用铁律**：本目录任何条目引用论文一律 `[[../papers/<citekey>]]`，**不得**直链 `raw/note/`（全库只有 `wiki/papers/` 可直链 raw）。
 
 ---
@@ -244,13 +244,13 @@ updated: 2026-08
 - [[../concepts/<slug>|<中文名>]]
 - [[../entities/<slug>|<名称>]]
 - [[../topics/<slug>|<主题名>]]
-- [[../projects/project-N-slug|项目N：<名称>]]（仅 `adopted` 落地后添加）
+- [[../projects/project-1-two-photon|项目1：双光固化和双光发光]]（仅 `adopted` 落地后添加）
 
 ## 📈 生命周期日志
 
 - **<YYYY-MM-DD>**: proposed — <提出缘由>
 - **<YYYY-MM-DD>**: validating — <开始何种验证>
-- **<YYYY-MM-DD>**: adopted — 落地为 [[../projects/project-N-slug|项目N]]
+- **<YYYY-MM-DD>**: adopted — 落地为 [[../projects/project-1-two-photon|项目1]]
 ```
 
 ### 5.3 validation 卡片模板
@@ -345,7 +345,7 @@ updated: 2026-08
 
 - **H1 中英对照**：gap / validation / paradigm 用 `# <中文名> / <英文名>`；idea 可用纯中文或中英对照。
 - **H2 一律带 emoji 且不编号**，与全库风格一致；固定小节用固定名（`## 👵 太奶导读`、`## 📚 相关论文 (Related Papers)`、`## 🔗 关联…`）。
-- **正文引用论文一律 `[[../papers/<citekey>]]`**，从 `wiki/ideas/` 出发的相对路径；概念用 `[[../concepts/…]]`，实体 `[[../entities/…]]`，主题 `[[../topics/…]]`，项目 `[[../projects/…]]`。
+- **正文引用论文一律 `[[../papers/<citekey>]]`**，从 `wiki/ideas/` 出发的相对路径；概念用 `[[../concepts/charge-transfer|概念]]`，实体 `[[../entities/MAX-phase|实体]]`，主题 `[[../topics/多铁性材料|主题]]`，项目 `[[../projects/project-1-two-photon|项目]]`。
 - **同目录互链不加路径前缀**：`[[gap-<slug>|G01 …]]`、`[[idea-<slug>|I01 …]]`、`[[validation-<slug>|V01 …]]`、`[[paradigm-<slug>|P01 …]]`。
 - **落地回链**：idea `adopted` 后，除 idea 页链项目外，在对应 project 页「与科研 Wiki 知识库的联系」小节加一行 `- **相关想法**：[[../ideas/idea-<slug>|I01 <想法标题>]]`（从 `wiki/projects/` 出发）。
 - **👵 太奶导读**：与 concept / entity 同款要求——一个生活化比喻开头、顺着比喻讲完道理、术语逐个翻译成中文白话、3–6 句、不堆公式与数值。gap 讲"为什么这块地还空着"，idea 讲"我打算怎么在这块地上盖房子"，validation 讲"我试了试，地基牢不牢"，paradigm 讲"别人是怎么盖这类房子的、我能不能照着盖"。

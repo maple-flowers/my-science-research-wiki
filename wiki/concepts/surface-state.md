@@ -45,5 +45,4 @@ updated: 2026-08
 - [[../concepts/edge-state|边缘态]]（二维材料的对应物）
 - [[../concepts/bulk-boundary-correspondence|体-边界对应关系]]（理论来源）
 - [[../concepts/fermi-arc|费米弧]]（外尔半金属的标志性表面态）
-- [[../entities/Bi2Se3|Bi₂Se₃]]（经典的三维拓扑绝缘体）
 - [[../entities/WTe2|WTe₂]]（作为拓扑材料具有丰富的表面态物理）

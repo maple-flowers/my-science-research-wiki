@@ -1,5 +1,7 @@
 # spin-orbit-coupling
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Blessing2026optical]] — Optical investigation of tin telluride (SnTe) thin films grown at different deposition voltage
 - [[../papers/Johannes2008fermi]] — Fermi surface nesting and the origin of charge density waves in metals
 - [[../papers/Mińkowski2021cation]] — Cation interstitial diffusion in lead telluride and cadmium telluride studied by means of neural network potential based molecular dynamics simulations

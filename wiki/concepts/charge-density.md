@@ -1,5 +1,7 @@
 # charge-density
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/PChandra2011mechanoluminescence]] — Mechanoluminescence of Nanoparticles
 - [[../papers/blochlProjectorAugmentedwaveMethod1994b]] — Projector augmented-wave method
 - [[../papers/chenStrongSlidingFerroelectricity2024]] — Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI₂ Layers

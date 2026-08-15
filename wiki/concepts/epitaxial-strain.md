@@ -1,5 +1,7 @@
 # epitaxial-strain
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Chen2016electrical]] — Electrical and mechanical switching of ferroelectric polarization in the 70 nm BiFeO3 film
 - [[../papers/Kim2008effect]] — Effect of epitaxial strain on ferroelectric polarization in multiferroic BiFeO3 films
 - [[../papers/fiebigEvolutionMultiferroics2016]] — The evolution of multiferroics
