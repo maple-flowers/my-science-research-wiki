@@ -70,7 +70,7 @@ B. Delley，2000，*The Journal of Chemical Physics* 113(18), 7756–7764，DOI 
   - 概念 [[../concepts/numerical-atomic-orbitals|数值原子轨道]]
   - 概念 [[../concepts/pseudopotential|赝势]]
   - 概念 [[../concepts/brillouin-zone-integration|布里渊区积分]]
-  - 概念 [[../concepts/gga-functional|GGA 泛函]]
+  - 概念 [[../concepts/generalized-gradient-approximation]]
   - 概念 [[../concepts/enthalpy-of-formation|生成焓]]
   - 实体 [[../entities/dmol3|DMol3]]
   - 实体 [[../entities/VASP]]（同为平面波/固体 DFT 代码，可作方法对照）

@@ -53,4 +53,4 @@ $$\Delta E_v = (E_{g2} + \chi_2) - (E_{g1} + \chi_1)$$
 - [[../concepts/band-alignment|能带对齐]]
 - [[../concepts/schottky-barrier|肖特基势垒]]
 - [[../concepts/work-function|功函数]]
-- [[../concepts/van-der-waals-heterostructure|vdW 异质结]]
+- [[../concepts/vdW-heterostructure]]

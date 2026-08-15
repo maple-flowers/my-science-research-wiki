@@ -86,7 +86,7 @@ Michael Naguib, Vadym N. Mochalin, Michel W. Barsoum, Yury Gogotsi et al.，2014
 ## 🆕 新概念/实体建议
   - [[../entities/max-phases|max-phases]]（MAX 相）：通式 M_{n+1}AX_n 的六方层状三元碳化物/氮化物（P6₃/mmc），M 为早期过渡金属、A 主要为 IIIA/IVA 族元素、X 为 C/N，n=1–3；是 MXenes 的母体材料，文中列举 60 余种纯相及大量固溶体，应独立建条目。
   - [[../concepts/selective-etching|selective-etching]]（选择性刻蚀）：利用 M–A 金属键弱于 M–X 共价/金属/离子混合键的化学活性差异，用含水 HF 在室温下溶出 A 层而保留 M_{n+1}X_n 骨架的二维化合成范式；可作为普适合成概念条目。
-  - [[../concepts/surface-terminations|surface-terminations]]（表面终端基团 Tₓ）：刻蚀后自发吸附在 MXene 表面的 O、OH、F（乃至 H、甲氧基）混合官能团，决定构型（I/II/III）、亲水性、电子结构（金属↔半导体）、磁性与储能性能，是 MXene 区别于"裸"金属碳化物片的核心。
+  - [[../concepts/surface-termination]]（表面终端基团 Tₓ）：刻蚀后自发吸附在 MXene 表面的 O、OH、F（乃至 H、甲氧基）混合官能团，决定构型（I/II/III）、亲水性、电子结构（金属↔半导体）、磁性与储能性能，是 MXene 区别于"裸"金属碳化物片的核心。
   - [[../concepts/intercalation-delamination|intercalation-delamination]]（插层与分层）：以 DMSO、肼、无机盐阳离子等插入多层 MXene 层间、撑大 c 轴、再经温和超声获得单层/少层胶体溶液的关键工艺；可与二维材料制备方法学并列。
   - [[../concepts/conductive-clays|conductive-clays]]（导电粘土）：MXenes 兼具过渡金属碳化物的金属导电性与羟基/氧终端表面的亲水性，作者提出的标志性定位比喻。
   - 实体 [[../entities/Ti3C2|Ti3C2]]（Ti₃C₂Tₓ）：首个被发现、也是唯一被大规模分层的 MXene，LIB 纸电极 410 mAh g⁻¹@1C、超级电容器 >330 F cm⁻³，可作为 MXenes 条目下的典型代表或独立实体。
@@ -160,7 +160,7 @@ Michael Naguib, Vadym N. Mochalin, Michel W. Barsoum, Yury Gogotsi et al.，2014
     10. Configurations I, II, III / 官能团构型 I/II/III
 
 ## ✏️ 可写入 Wiki 的要点
-  1. **合成范式**：[[../concepts/max-phase|MAX 相]]（P6₃/mmc 六方层状，M_{n+1}AX_n，n=1–3）中 M–X 键为共价/金属/离子混合键而 M–A 键为较弱金属键；室温下用特定浓度含水 HF 搅拌即可选择性溶出 A（Al）层，Al 被 O/OH/F 终端取代，从而把三维层状固体转化为二维 M_{n+1}X_nTₓ 片；反应后须用去离子水洗至 pH 4–6。这是"从强化学键合 3D 前驱体化学刻蚀制备 2D 材料"的普适新范式，区别于[[../entities/graphene|石墨烯]]/TMDs 的机械/液相剥离。
+  1. **合成范式**：[[../entities/MAX-phase]]（P6₃/mmc 六方层状，M_{n+1}AX_n，n=1–3）中 M–X 键为共价/金属/离子混合键而 M–A 键为较弱金属键；室温下用特定浓度含水 HF 搅拌即可选择性溶出 A（Al）层，Al 被 O/OH/F 终端取代，从而把三维层状固体转化为二维 M_{n+1}X_nTₓ 片；反应后须用去离子水洗至 pH 4–6。这是"从强化学键合 3D 前驱体化学刻蚀制备 2D 材料"的普适新范式，区别于[[../entities/graphene|石墨烯]]/TMDs 的机械/液相剥离。
   2. **已合成家族**：截至 2013 年已报道 Ti₃C₂、Ti₂C、Nb₂C、V₂C、(Ti₀.₅,Nb₀.₅)₂C、(V₀.₅,Cr₀.₅)₃C₂、Ti₃CN、Ta₄C₃ 及 Nb₄C₃；单层 M₂X、M₃X₂、M₄X₃ 分别由 3、5、7 个原子层构成，厚度均 <1 nm，横向尺寸可达数十微米。纯 Ti₂N、Ti₄N₃ 等氮化物 MXene 当时未能合成，原因是 Ti_{n+1}N_n [[../concepts/cohesive-energy|内聚能]]更低而由 Ti_{n+1}AlN_n 生成的[[../concepts/formation-energy|形成能]]更高。
   3. **刻蚀条件的材料依赖性**：Ti₂AlC 需 10% HF/10 h，Ta₄AlC₃ 需 50% HF/72 h，V₂AlC 经研磨细化后从 90 h 缩至 8 h；Ti–Al 键能约 0.98 eV，Nb–Al 约 1.21 eV，解释了二者刻蚀难度差异。50% HF 会把 Ti₂AlC 完全溶解，而 10% HF 才能得到 Ti₂C，说明 n 越小越易被过度刻蚀；长时间刻蚀会在 Ta₄C₃Tₓ 上形成孔洞缺陷。
   4. **XRD/SAED 判据**：完全转化后非 (000l) 峰消失，(000l) 峰宽化并向低角度偏移（c 轴增大）；样品需冷压至 450 MPa 以增强 (000l) 峰强度；EDS 测 A:M 比量化转化程度但会因残留 AlF₃ 等副产物而高估未反应 MAX 相。SAED 沿 [0001] 方向保持与母体 MAX 相同的六方对称斑点，证实 3D→2D 是[[../concepts/topochemical-reaction|拓扑化学]]转化而非非晶化；Ti₃C₂ 在 200 kV 电子束下比石墨烯更稳定。

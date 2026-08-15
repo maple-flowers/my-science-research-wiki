@@ -93,7 +93,7 @@ Dacheng Tian, Shulin Zhong, Jianyu Dong et al.（共同一作），2026 年，*N
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2d-materials]]、[[../concepts/spin-orbit-coupling]]（作为被本文机制取代的对照）、[[../concepts/sliding-ferroelectricity]]（本文明确排除的对照机制）、[[../concepts/polarization-switching]]、[[../concepts/strain-engineering]]（FM/AFM 层 0.37/0.39 nm 晶格失配与应变）、[[../concepts/density-functional-theory]]、[[../concepts/interlayer-charge-transfer|层间电荷转移]]、[[../concepts/electron-filling-magnetism|电子填充驱动磁有序]]、[[../concepts/ferroelectric-metal|铁电金属/多铁金属]]、[[../concepts/zigzag-antiferromagnetism|锯齿状反铁磁序]]、[[../concepts/electric-write-magnetic-read|电写磁读]]、[[../concepts/fm-afm-superlattice|FM/AFM 超晶格设计原则]]
   - 实体 [[../entities/CrTe2]]、[[../entities/BiFeO3]]（传统块体多铁对照）、[[../entities/In2Se3]]（矫顽电压 1.5 V 对照）、[[../entities/TMDs]]、[[../entities/VASP]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]（Cr-t₂g/e_g 态密度与能带填充模型）、[[../figures/domain-walls|畴与畴壁结构]]、[[../figures/heterostructures-stacking|多铁与磁电异质结]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]（Cr-t₂g/e_g 态密度与能带填充模型）、[[../concepts/domain-wall]]、[[../figures/heterostructures-stacking|多铁与磁电异质结]]
   - 年度 [[../write/2025-2029|2026]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 主题 [[../topics/多铁性材料]]、[[../topics/材料模拟计算设计]]

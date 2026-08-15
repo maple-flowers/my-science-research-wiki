@@ -87,7 +87,7 @@ Sridevi Krishnamurthi、Geert Brocks，2020，Physical Review B 102, 161106，DO
   - 概念 [[../concepts/fractional-charge-soliton|分数电荷孤子]]
   - 概念 [[../concepts/peierls-distortion|派尔斯畸变]]
   - 概念 [[../concepts/tomonaga-luttinger-liquid|朝永-拉亭格液体（TLL）]]
-  - 概念 [[../concepts/dft-plus-u|DFT+U]]
+  - 概念 [[../concepts/DFT-U]]
   - 概念 [[../entities/MoSe2|二硒化钼（MoSe₂）]]
   - 实体 [[../entities/TMDs]]
   - 实体 [[../entities/VASP]]

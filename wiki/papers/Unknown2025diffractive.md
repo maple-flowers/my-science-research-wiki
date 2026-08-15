@@ -86,7 +86,7 @@ Behlau, Marx, Zimmermann, Thüsing, Albini, Esen, Ostendorf，2025，Journal of 
   - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-1-two-photon]]
   - 概念 [[../concepts/phase-modulation]]、[[../concepts/diffraction-efficiency]]
-  - 实体 [[../entities/FemtoBond-4B]]、[[../entities/STL]]、[[../entities/MATLAB]]、[[../entities/Ti-Sa-laser]]
+  - 实体 [[../entities/FemtoBond-4B]]、[[../entities/STL]]、[[../entities/MATLAB]]、[[../entities/Ti-sapphire-laser]]
   - 相关论文 [[../../raw/note/Unknown2025diffractive]]
   - 概念：[[../concepts/beam-shaping|光束整形]]、[[../concepts/diffractive-optical-element|衍射光学元件 DOE]]、[[../concepts/two-photon-polymerization|双光子聚合 2PP]]、[[../concepts/computer-generated-hologram|计算机生成全息图 CGH]]、[[../concepts/bessel-beam|贝塞尔光束]]、[[../concepts/axicon|轴锥镜]]、[[../concepts/staircase-effect|阶梯效应]]、[[../concepts/laser-damage-threshold|激光损伤阈值]]、[[../concepts/stitching|拼接技术]]、[[../concepts/nonlinear-absorption|非线性吸收]]、[[../concepts/FemtoBond-4B|FemtoBond 4B 光刻胶]]
 

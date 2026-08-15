@@ -88,7 +88,7 @@ Xukun Feng、Jian Liu、Xikui Ma、Mingwen Zhao（山东大学），2020，*Phys
 从 C2DB 筛选并以 DFT 预测 Sc₂P₂Se₆ 单层为面外铁电体，将一半 Sc 替换为 Cr 得到多铁 ScCrP₂Se₆，其 FE 相为 AFM、AFE 相为 FM，临界电场约 0.82 V/Å 可在两态间可逆切换，从而实现电控磁。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2d-materials]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/ferroelasticity]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/d0-rule|d⁰ 规则]]、[[../concepts/out-of-plane-ferroelectricity|面外铁电性]]、[[../concepts/antiferroelectricity|反铁电性]]、[[../concepts/superexchange-goodenough-kanamori|Goodenough–Kanamori 超交换规则]]、[[../concepts/magnetic-anisotropy-energy|磁各向异性能]]、[[../concepts/spin-lattice-charge-coupling|自旋-晶格-电荷耦合]]、[[../concepts/transition-metal-phosphorus-trichalcogenides|过渡金属磷三硫/硒化物]]、[[../concepts/C2DB]]、[[../concepts/CINEB|CINEB 爬坡弹性带]]、[[../concepts/Sc2P2Se6|Sc₂P₂Se₆]]、[[../concepts/ScCrP2Se6|ScCrP₂Se₆]]
+  - 概念 [[../concepts/2d-materials]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/ferroelasticity]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/d0-rule|d⁰ 规则]]、[[../concepts/out-of-plane-ferroelectricity|面外铁电性]]、[[../concepts/antiferroelectricity|反铁电性]]、[[../concepts/superexchange-goodenough-kanamori|Goodenough–Kanamori 超交换规则]]、[[../concepts/magnetic-anisotropy]]、[[../concepts/spin-lattice-charge-coupling|自旋-晶格-电荷耦合]]、[[../concepts/transition-metal-phosphorus-trichalcogenides|过渡金属磷三硫/硒化物]]、[[../concepts/C2DB]]、[[../concepts/CINEB|CINEB 爬坡弹性带]]、[[../concepts/Sc2P2Se6|Sc₂P₂Se₆]]、[[../concepts/ScCrP2Se6|ScCrP₂Se₆]]
   - 实体 [[../entities/VASP]]、[[../entities/Fe3GeTe2]]、[[../entities/In2Se3]]、[[../entities/TMDs]]、[[../entities/SnTe]]、[[../entities/h-BN]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking|多铁与磁电异质结]]
   - 年度 [[../write/2020-2024|2020]]
@@ -156,7 +156,7 @@ Xukun Feng、Jian Liu、Xikui Ma、Mingwen Zhao（山东大学），2020，*Phys
   - antiferroelectric ([[../concepts/antiferroelectricity|AFE]]) / 反铁电
   - [[../concepts/spin-lattice-charge-coupling|spin–lattice–charge coupling / 自旋-晶格-电荷耦合]]
   - superexchange ([[../concepts/superexchange-goodenough-kanamori|Goodenough–Kanamori]]) / 超交换
-  - magnetic anisotropy energy ([[../concepts/magnetic-anisotropy-energy|MAE]]) / 磁各向异性能
+  - magnetic anisotropy energy ([[../concepts/magnetic-anisotropy]]) / 磁各向异性能
   - [[../concepts/nudged-elastic-band|climbing-image nudged elastic band]] (CINEB) / 爬坡图像微动弹性带
   - [[../concepts/depolarization-field|depolarization field / 去极化场]]
 

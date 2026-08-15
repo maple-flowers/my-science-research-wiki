@@ -142,7 +142,7 @@ Kaiyun Chen、Xue Yan、Junkai Deng、Yuan Yan、Jiabei He、Dongxiao Kan、Wang
 
 ## ✏️ 可写入 Wiki 的要点
   1. Mn2N为"反1T-TMD"三明治结构（N在中间，两层Mn在外），铁磁基态，[[../concepts/curie-temperature|居里温度]]文献值在566–1877 K范围。
-  2. 表面钝化决定电子态：对称Mn2NO2和Janus Mn2NOCl为[[../concepts/half-metal|半金属]]（自旋多数零带隙、自旋少数带隙3.21 eV）；Janus Mn2NOF（带隙160.4 meV，SOC下~0.46 eV）和Mn2NOOH（21.2 meV，SOC下~0.28 eV）为半导体。HSE06与Γ-M-K原胞路径验证结论不变。
+  2. 表面钝化决定电子态：对称Mn2NO2和Janus Mn2NOCl为[[../concepts/half-metallicity]]（自旋多数零带隙、自旋少数带隙3.21 eV）；Janus Mn2NOF（带隙160.4 meV，SOC下~0.46 eV）和Mn2NOOH（21.2 meV，SOC下~0.28 eV）为半导体。HSE06与Γ-M-K原胞路径验证结论不变。
   3. 所有结构中Mn的3d轨道在C3v三角晶场下均分裂为单态dz2 + 双重态eI(dyz+dxz) + 双重态eII(dxy+dx²-y²)，简并模式不随钝化原子改变——局域配位对称性不是决定半金属/半导体的主经。
   4. 核心机制：两侧Mn的3d能级分离度决定Mn→N的[[../concepts/charge-transfer|电荷转移]]量与Mn 3d电子构型。能级分离小（O/O、O/Cl）时两边均为Mn3.5+（d3.5），最高eI轨道部分填充→半金属；能级分离大（O/F、O/OH）时F侧Mn为Mn2+高自旋d5（eI全满）、O侧Mn为Mn4+低自旋d3（eI全空），费米能级落在满/空eI之间→半导体。
   5. DFT磁矩印证离子模型：Mn2NO2每Mn约3.5 μB；Mn2NOF中MnF为4.480 μB、MnO为3.624 μB。

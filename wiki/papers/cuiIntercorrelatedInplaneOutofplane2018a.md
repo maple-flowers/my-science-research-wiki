@@ -100,9 +100,9 @@ Cui, Hu, Yan, Addiego, Gao, Wang, Wang, Li, Cheng, Li, Zhang, Alshareef, Wu, Zhu
 ## 💡 一句话
 首次在实验上证实室温下二维范德华半导体 α-In2Se3 同时具有面内（IP）与面外（OOP）相互锁定的本征铁电极化，并展示层数奇偶效应和电场/可见光双控的多态非易失存储原型。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2d-materials]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/multiferroicity]]、[[../concepts/polarization-switching]]、[[../concepts/in-plane-out-of-plane-coupling|面内-面外极化耦合]]、[[../concepts/odd-even-effect|奇偶层数效应]]、[[../concepts/antiparallel-polarization-stacking|反平行极化堆垛]]、[[../concepts/ferroelectric-domain|铁电畴]]、[[../concepts/depolarizing-field|退极化场]]、[[../concepts/schottky-barrier|肖特基势垒]]、[[../concepts/switchable-diode|可切换二极管]]、[[../concepts/memristor|忆阻器]]、[[../concepts/topological-defects]]（畴壁部分相关）
+  - 概念 [[../concepts/2d-materials]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/multiferroicity]]、[[../concepts/polarization-switching]]、[[../concepts/in-plane-out-of-plane-coupling|面内-面外极化耦合]]、[[../concepts/odd-even-effect|奇偶层数效应]]、[[../concepts/antiparallel-polarization-stacking|反平行极化堆垛]]、[[../concepts/ferroelectric-domain|铁电畴]]、[[../concepts/depolarization-field]]、[[../concepts/schottky-barrier|肖特基势垒]]、[[../concepts/switchable-diode|可切换二极管]]、[[../concepts/memristor|忆阻器]]、[[../concepts/topological-defects]]（畴壁部分相关）
   - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/SnTe]]、[[../entities/BaTiO3|BaTiO₃]]、[[../entities/CuInP2S6|CuInP₂S₆]]、[[../entities/PZT]]
-  - 图表 [[../figures/electronic-devices]]、[[../figures/experimental-setups]]、[[../figures/domain-walls]]
+  - 图表 [[../figures/electronic-devices]]、[[../figures/experimental-setups]]、[[../concepts/domain-wall]]
   - 年度 [[../write/2015-2019|2018]]
   - 概念 [[../concepts/domain-wall]]
   - 实体 [[../entities/Au]]、[[../entities/mica]]
@@ -113,7 +113,7 @@ Cui, Hu, Yan, Addiego, Gao, Wang, Wang, Li, Cheng, Li, Zhang, Alshareef, Wu, Zhu
   - [[../concepts/antiparallel-polarization-stacking|antiparallel-polarization-stacking]]（反平行极化堆垛）：层间极化反向排列，是奇偶效应与净极化抵消的微观起源。
   - [[../concepts/switchable-diode|switchable-diode]]（可切换二极管）：铁电极化调制两端金属-半导体肖特基势垒，使整流方向可被电场反转。
   - [[../concepts/scanning-electron-diffraction|scanning-electron-diffraction]]（扫描电子衍射, SED）：通过 CBED 图样重心位移直接成像样品内投影电场的表征技术。
-  - [[../concepts/depolarizing-field|depolarizing-field]]（退极化场）：铁电体表面束缚电荷产生的反向电场，其屏蔽程度决定单畴/多畴态。
+  - [[../concepts/depolarization-field]]（退极化场）：铁电体表面束缚电荷产生的反向电场，其屏蔽程度决定单畴/多畴态。
 ## 📊 关键图表
   - ![图1 合成与结构表征：CVD生长、AFM、Raman、SAED、单层α-In2Se3原子分辨STEM，确认FE-ZB'构型](../../raw/figures/cuiIntercorrelatedInplaneOutofplane2018a/fig_1_MQ5WQF79.png) → [[../figures/experimental-setups|实验装置与测量系统]]
   - **图示描述**：图1 综合展示二维 In2Se3 的CVD生长与结构确认：(a) 以 Se 和 In2O3 为前驱体在云母衬底上生长的示意图；(b) AFM 形貌及高度剖面，薄片厚度 1.3–4.3 nm；(c) 532 nm 激发下慢冷/快冷样品与云母的 Raman 光谱；(d) 单层（α 相）与 12 nm 厚（β 相）区域的 SAED 花样；(e) 单层 α-In2Se3 的原子分辨 STEM 图像。
@@ -153,7 +153,7 @@ Cui, Hu, Yan, Addiego, Gao, Wang, Wang, Li, Cheng, Li, Zhang, Alshareef, Wu, Zhu
   - [[../concepts/interlayer-stacking|antiparallel interlayer stacking / 层间反平行堆垛]]
   - FE-ZB' configuration / FE-ZB' 构型
   - [[../concepts/switchable-diode|switchable diode effect / 可切换二极管效应]]
-  - [[../concepts/depolarizing-field|depolarizing field / 退极化场]]
+  - [[../concepts/depolarization-field]]
 ## ✏️ 可写入 Wiki 的要点
   1. α-In2Se3 为室温二维范德华铁电半导体，带隙约 1.3 eV，在双层至 6 nm 薄片中均保持[[../concepts/ferroelectricity|铁电性]]；CVD 生长后以 0.1 °C/min 慢冷可显著提高 α 相比例，快冷样品以非铁电 β 相为主。
   2. α-In2Se3 单层原子结构确认为 FE-ZB' 构型（五层 Se–In–Se–In–Se 中中心 Se 偏离中心位置），是 Ding et al. (Nat. Commun. 2017) 预测的四种 α 相构型中能量最低的铁电构型。

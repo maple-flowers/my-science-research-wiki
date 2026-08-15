@@ -92,10 +92,10 @@ Xu, Mao, Guo, Yan, Chen, Lo, Chen, Lei, Luo, Hao, Zheng, Zhu et al.，2021，Nat
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/ferroelasticity]]、[[../concepts/2d-materials]]、[[../concepts/strain-engineering]]、[[../concepts/multiferroicity]]、[[../concepts/polarization-switching]]、[[../concepts/antiferroelectricity|反铁电性]]、[[../concepts/spontaneous-strain|自发应变]]、[[../concepts/peierls-distortion|Peierls 畸变]]、[[../concepts/shape-memory-effect|形状记忆效应]]、[[../concepts/linear-dichroism|线性二向色性]]
   - 实体 [[../entities/In2Se3]]、[[../entities/SnTe]]、[[../entities/TMDs]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/domain-walls]]、[[../figures/experimental-setups]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
+  - 图表 [[../figures/crystal-structures]]、[[../concepts/domain-wall]]、[[../figures/experimental-setups]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking|铁弹畴、畴壁、In₂Se₃ 与器件应用]]
   - 年度 [[../write/2020-2024|2021]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]
-  - 概念 [[../concepts/domain-walls]]
+  - 概念 [[../concepts/domain-wall]]
   - 相关论文 [[../../raw/note/xuTwodimensionalFerroelasticityVan2021]]
 ## 🆕 新概念/实体建议
   - [[../concepts/domain-wall-classification|domain-wall-classification]]（W 墙/S 墙分类）：Wf 墙取向由母相对称性固定（120° DW 沿 {11-20}），S 墙取向依赖自发应变量级（60° DW 沿 {1-100}），适合作为畴壁条目的补充概念。

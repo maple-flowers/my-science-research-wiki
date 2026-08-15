@@ -49,6 +49,11 @@ updated: 2026-08
 - [[../papers/fiebigEvolutionMultiferroics2016]]：系统总结了多铁性分类及第二类多铁性的物理图像。
 - [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]
 - [[../papers/cheongMultiferroicsMagneticTwist2007a]]
+- [[../papers/wuCoexistenceFerroelectricityAntiferroelectricity2024]] — Coexistence of ferroelectricity and antiferroelectricity in 2D van der Waals multiferroic
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]] — Ferroelectricity and multiferroicity down to the atomic thickness
+- [[../papers/RecentAdvancesGrowth2025]] — Recent advances in growth, characterization, and application of two-dimensional multiferroic materials
+- [[../papers/huProgressProspectsLowdimensional2019]] — Progress and prospects in low‐dimensional multiferroic materials
+- [[../papers/wuCoexistenceFerroelectricityAntiferroelectricity2024]] — Coexistence of ferroelectricity and antiferroelectricity in 2D van der Waals multiferroic
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
@@ -56,3 +61,8 @@ updated: 2026-08
 - [[../concepts/magnetoelectric-coupling|磁电耦合]]
 - [[../concepts/discommensuration|错位相子]]（磁性变体：自旋孤子）
 - [[../entities/NiI2|二碘化镍 (NiI₂)]]
+
+## 🏷️ 专业名词别名
+
+- `type-ii-multiferroic`（concepts）
+- `type-ii-multiferroics`（concepts）

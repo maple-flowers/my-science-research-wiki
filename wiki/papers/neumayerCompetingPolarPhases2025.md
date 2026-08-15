@@ -97,7 +97,7 @@ Sabine Neumayer, Huimin Qiao, Nina Balke et al.，2025，Applied Physics Letters
   - 实体 [[../concepts/domain-wall]]（CIPSe中FE/AFE畴壁增强压电响应）
   - 实体 [[../entities/VASP]]（DFT计算工具背景）
   - 图表 [[../figures/crystal-structures]]（in-layer/in-gap FE及AFE结构图）
-  - 图表 [[../figures/domain-walls]]（FE/AFE畴壁与PFM畴图）
+  - 图表 [[../concepts/domain-wall]]（FE/AFE畴壁与PFM畴图）
   - 图表 [[../figures/vibrational-spectra]]（Raman光谱用于AFE相鉴定和压力依赖研究）
   - 图表 [[../figures/mathematical-models]]（Landau-Devonshire压力-温度相图）
   - 图表 [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用 (Domains, Domain Walls, In₂Se₃ & Devices)]]
@@ -105,7 +105,7 @@ Sabine Neumayer, Huimin Qiao, Nina Balke et al.，2025，Applied Physics Letters
   - 相关论文 [[../../raw/note/neumayerCompetingPolarPhases2025]]
 
 ## 🆕 新概念/实体建议
-  - [[../entities/cips-cu-in-p2s6|cips-cu-in-p2s6]]：CuInP2S6（CIPS）实体——明星TMTP材料，具有in-layer/in-gap两种FE相、负压电系数、Cu离子电导，是本文核心案例。
+  - [[../entities/CuInP2S6]]：CuInP2S6（CIPS）实体——明星TMTP材料，具有in-layer/in-gap两种FE相、负压电系数、Cu离子电导，是本文核心案例。
   - [[../entities/cipse-cu-in-p2se6|cipse-cu-in-p2se6]]：CuInP2Se6（CIPSe）实体——CIPS的硒代同构物，FE/AFE畴壁处压电响应增强，居里温度和相变行为与CIPS迥异。
   - [[../entities/transition-metal-thio-selenophosphates|transition-metal-thio-selenophosphates]]：TMTPs概念——通式MPX3（M=过渡金属，X=S/Se）的层状范德华材料家族，可同时容纳FE、AFE、铁磁性和高离子电导。
   - [[../concepts/competing-polar-phases|competing-polar-phases]]：竞争极性相概念——多种极性/非极性相能量差仅几十meV/f.u.，可通过外场可逆转换的统一框架。
@@ -113,9 +113,9 @@ Sabine Neumayer, Huimin Qiao, Nina Balke et al.，2025，Applied Physics Letters
   - [[../concepts/antiferroelectricity|antiferroelectricity]]：反铁电性概念——交替偶极子净极化为零、电场下可转为FE态；wiki目前缺此基础概念条目。
   - [[../concepts/negative-piezoelectricity|negative-piezoelectricity]]：负压电性概念——CIPS等罕见材料中电场诱导反向应变，源于FE势阱高度非谐性，可用于零应变器件。
   - [[../concepts/in-gap-ferroelectric-phase|in-gap-ferroelectric-phase]]：间隙铁电相概念——Cu原子占据vdW间隙内稳定位置形成的高极化FE相（HP，P=11.3 μC/cm²）。
-  - [[../entities/ccps-cucrp2s6|ccps-cucrp2s6]]：CuCrP2S6（CCPS）实体——多铁性TMTP，理论预测同时具有电极化和磁化及in-gap FE/AFE相，与project-2相关。
+  - [[../entities/CuCrP2S6]]：CuCrP2S6（CCPS）实体——多铁性TMTP，理论预测同时具有电极化和磁化及in-gap FE/AFE相，与project-2相关。
   - [[../entities/ips-in43p2s6|ips-in43p2s6]]：In4/3P2S6（IPS）实体——非极性介电相同源化合物，c轴较小，用于CIPS/IPS异质结构施加应变稳定亚稳相。
-  - [[../concepts/pfm-piezoresponse-force-microscopy|pfm-piezoresponse-force-microscopy]]：压电力显微镜实体/方法——本文核心局域表征工具，用于识别LP/HP/AFE相及翻转路径。
+  - [[../concepts/piezoresponse-force-microscopy]]：压电力显微镜实体/方法——本文核心局域表征工具，用于识别LP/HP/AFE相及翻转路径。
 
 ## 📊 关键图表
   - **图1：四种极性有序度示意（顺电/弛豫体·偶极玻璃/反铁电/铁电）**

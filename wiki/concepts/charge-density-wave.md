@@ -81,6 +81,6 @@ Inosov 等人的研究指出，虽然费米面嵌套是重要诱因，但嵌套�
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/fermi-surface-nesting|费米面嵌套]]（驱动机制）
-- [[../concepts/peierls-transition|Peierls 相变]]（经典物理图像）
+- [[../concepts/peierls-instability]]（经典物理图像）
 - [[../entities/TMDs|TMDs]]（典型载体材料）
 - [[../entities/NbSe2|NbSe₂]]（明星 CDW 材料）

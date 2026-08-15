@@ -100,7 +100,7 @@ Koki Yanagizawa, Katsuaki Sugawara, Tappei Kawakami, Ryuichi Ando, Ken Yaegashi,
 
 ## 🆕 新概念/实体建议
   - [[../entities/Quantum-Espresso|Quantum-Espresso]] — 本文使用的第一性原理平面波 DFT 软件包（GGA-PBE，60 Ry 截断，12×12×1 k 网格，真空层 >10 Å）。
-  - 方法标签可在 wiki/concepts 下补：[[../concepts/arpes|arpes]]、[[../concepts/mbe-rheed|mbe-rheed]]、[[../concepts/k-deposition-doping|k-deposition-doping]]。
+  - 方法标签可在 wiki/concepts 下补：[[../concepts/ARPES]]、[[../concepts/mbe-rheed|mbe-rheed]]、[[../concepts/k-deposition-doping|k-deposition-doping]]。
 
 ## 📊 关键图表
   - **图1：原始单层 1T-TiTe₂ 的电子结构与 2×2 CDW 指纹**
@@ -152,7 +152,7 @@ Koki Yanagizawa, Katsuaki Sugawara, Tappei Kawakami, Ryuichi Ando, Ken Yaegashi,
     - 维度效应 / 费米面扁平化 (Dimensionality effect / FS flattening)
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 单层 1T-TiTe₂ 是补偿型[[../concepts/half-metal|半金属]]（负带隙），Γ 点有空穴口袋（Te 5p），M 点有浅椭球型电子口袋（Ti 3d）；体材料则因 L 点电子口袋沿 k_z 强 warping 而无 CDW。
+  1. 单层 1T-TiTe₂ 是补偿型[[../concepts/half-metallicity]]（负带隙），Γ 点有空穴口袋（Te 5p），M 点有浅椭球型电子口袋（Ti 3d）；体材料则因 L 点电子口袋沿 k_z 强 warping 而无 CDW。
   2. 单层 TiTe₂ 的 2×2 CDW 转变温度 T_CDW ≈ 90 K，由 ARPES 领先边缘位移随温度消失确定；CDW 态在 M 点出现 Γ 点空穴带的折叠副本，谱重约为主带的 10%（远弱于 TiSe₂）。
   3. CDW 仅在有效零掺杂（电子 ≈ 空穴 ≈ 0.08/晶胞）的极窄窗口出现；Ts=400 °C 样品约 0.06 h⁺（空穴掺杂）、Ts=440 °C 约 0.37 e⁻（电子掺杂）、K 沉积 6/12/24 min 分别约 0.07/0.21/0.39 e⁻，所有非补偿样品折叠带均消失。
   4. 掺杂物理：略高于最优 Ts 产生 Te 空位（电子给体）；略低则 Te 吸附原子（受主，因 Te [[../concepts/work-function|功函数]] 4.95 eV > TiTe₂ 4.86 eV）；K 沉积为表面[[../concepts/charge-transfer|电荷转移]]电子掺杂，每 K 原子约贡献 1 e⁻。

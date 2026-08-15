@@ -41,5 +41,5 @@ updated: 2026-08
 
 - [[../concepts/solvatochromism|溶剂化显色]]
 - [[../concepts/tict-mechanism|TICT 机制]]
-- [[../concepts/locally-excited-state|局域激发态 (LE)]]
+- [[../concepts/local-excited-state]]
 - [[../entities/glycerol|甘油 (高粘度变温介质)]]

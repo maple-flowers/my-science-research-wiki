@@ -47,6 +47,7 @@ updated: 2026-08
 
 - [[../papers/xueEmergingNonvolatileMemories2011]]：深入剖析了基于阻变的忆阻器物理机制与系统级挑战。
 - [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]：探讨了铁电极化诱导的新型阻变行为。
+- [[../papers/sattarFunctionalizedDoubleTransition2025]] — Functionalized double transition metal Mo2Ti2C3Tx ferroelectric MXene and laser-reduced graphene based flexible memristors for next-generation two-dimensional ferrotronics
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
@@ -55,3 +56,7 @@ updated: 2026-08
 - [[../concepts/synaptic-plasticity|突触可塑性]]
 - [[../concepts/sneak-path-current|潜行路径电流]]
 - [[../entities/HfO2|氧化铪]]
+
+## 🏷️ 专业名词别名
+
+- `resistive-switching-memory`（concepts）

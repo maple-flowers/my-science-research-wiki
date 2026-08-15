@@ -82,7 +82,7 @@ Williams JC, Chandrahalim H, Suelzer JS, Usechak NG et al.，2022，Research Out
   - 年度 [[../write/2020-2024|2022]]
   - 项目 [[../projects/project-1-two-photon]]、[[../projects/project-6-humidity-sensor]]
   - 概念 [[../concepts/refractive-index-sensing]]、[[../concepts/optical-sensing]]、[[../concepts/quality-factor]]
-  - 实体 [[../entities/gold]]、[[../entities/optical-fiber]]、[[../entities/photoresist]]
+  - 实体 [[../entities/Au]]、[[../entities/optical-fiber]]、[[../entities/photoresist]]
   - 相关论文 [[../../raw/note/Unknown2022polymerization]]
 ## 🆕 新概念/实体建议
   - [[../concepts/two-photon-polymerization|two-photon-polymerization]]（双光子聚合）：基于飞秒激光双光子吸收非线性效应的纳米级真三维直写技术，体素约 100 nm。

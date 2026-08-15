@@ -85,7 +85,7 @@ Qing Zhang, Aiqing Fan, Yongshuai Wang, Fan Wu, Lin Li, Hong Meng, Dechao Geng e
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/sliding-ferroelectricity]]、[[../concepts/2D-materials]]、[[../concepts/moire-superlattice]]、[[../concepts/polarization-switching]]、[[../concepts/strain-engineering]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/ferroelasticity]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/bilayer-stacking-ferroelectricity|双层堆垛铁电理论 (BSF)]]、[[../concepts/layer-by-layer-switching|逐层翻转]]、[[../concepts/interlayer-charge-transfer|层间电荷转移]]、[[../concepts/non-stoichiometric-ferroelectricity|非化学计量比铁电]]、[[../concepts/slide-electronics|滑动电子学]]
   - 实体 [[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/WTe2]]、[[../entities/In2Se3]]、[[../concepts/domain-wall]]、[[../entities/SnTe]]、[[../entities/MoS2|MoS2]]、[[../entities/WSe2|WSe2]]、[[../entities/graphene|石墨烯]]、[[../entities/CuInP2S6]]、[[../entities/HgI2]]、[[../entities/ZrI2]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]、[[../figures/domain-walls]]、[[../figures/electronic-devices]]、[[../figures/optical-spectra]]、[[../figures/mathematical-models|数学模型与物理公式]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]、[[../concepts/domain-wall]]、[[../figures/electronic-devices]]、[[../figures/optical-spectra]]、[[../figures/mathematical-models|数学模型与物理公式]]
   - 年度 [[../write/2025]]、[[../write/2017]]（2017 年 Wu 组首次理论提出）、[[../write/2018]]（双层 WTe2 实验证实）
   - 项目 [[../projects/project-2-mn-multiferroics]]（WSe2 在 3° 扭转角下铁电-铁磁共存、ZrI2 铁弹-铁电多铁预测，与多铁主题相关）
   - 相关论文 [[../../raw/note/zhangEmergingFrontiersTwodimensional2025]]

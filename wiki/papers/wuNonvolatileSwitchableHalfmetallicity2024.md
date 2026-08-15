@@ -85,7 +85,7 @@ Changwei Wu, Shanwei Sun, Weiping Gong, Jiangyu Li, Xiao Wang et al.，2024，*P
 用第一性原理设计铁磁 MXene Hf₂MnC₂O₂ 与铁电 MXene Sc₂CO₂ 的范德华多铁异质结，翻转 Sc₂CO₂ 极化可非易失地使 Hf₂MnC₂O₂ 在双极磁性半导体与半金属之间切换，并同时增强铁磁交换 J₁（6.38→9.97 meV）和翻转易磁化轴（面内→面外）。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2d-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/berry-phase]]、[[../concepts/half-metallicity|半金属性]]、[[../concepts/bipolar-magnetic-semiconductor|双极磁性半导体]]、[[../concepts/magnetic-anisotropy-energy|磁各向异性能]]、[[../concepts/superexchange|超交换作用]]、[[../concepts/selective-charge-transfer|界面选择性电荷转移]]、[[../concepts/polar-metal|极性金属]]、[[../concepts/spin-field-effect-transistor|自旋场效应晶体管]]
+  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2d-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/berry-phase]]、[[../concepts/half-metallicity|半金属性]]、[[../concepts/bipolar-magnetic-semiconductor|双极磁性半导体]]、[[../concepts/magnetic-anisotropy]]、[[../concepts/superexchange|超交换作用]]、[[../concepts/selective-charge-transfer|界面选择性电荷转移]]、[[../concepts/polar-metal|极性金属]]、[[../concepts/spin-field-effect-transistor|自旋场效应晶体管]]
   - 实体 [[../entities/MXenes]]、[[../entities/VASP]]、[[../entities/In2Se3]]（同为二维铁电半导体可类比）、[[../entities/CrTe2]]、[[../entities/Fe3GeTe2]]（二维铁磁参照系）、[[../entities/SnTe]]（铁电体，类比项目材料）、[[../entities/Hf2MnC2O2]]、[[../entities/Sc2CO2]]
   - 图表 [[../figures/electronic-bands]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking|自旋电子学与应变工程]]、[[../figures/mathematical-models]]、[[../figures/electronic-devices]]
   - 年度 [[../write/2020-2024|2024]]
@@ -159,7 +159,7 @@ Changwei Wu, Shanwei Sun, Weiping Gong, Jiangyu Li, Xiao Wang et al.，2024，*P
     - 半金属性 [[../concepts/half-metallicity|半金属性]]（half-metallicity）
     - 双极磁性半导体 [[../concepts/bipolar-magnetic-semiconductor|双极磁性半导体]]（bipolar magnetic semiconductor, BMS）
     - 超交换作用 [[../concepts/superexchange|超交换作用]]（superexchange）/ Goodenough–Kanamori–Anderson 规则
-    - 磁各向异性能 [[../concepts/magnetic-anisotropy-energy|磁各向异性能]]（magnetic anisotropy energy, MAE）
+    - 磁各向异性能 [[../concepts/magnetic-anisotropy]]（magnetic anisotropy energy, MAE）
     - 选择性电荷转移（selective interfacial charge transfer）
     - 空间反演对称性破缺 / 时间反演对称性破缺（spatial inversion / time-reversal symmetry breaking）
     - 铁电双稳态（ferroelectric bistability）
@@ -171,7 +171,7 @@ Changwei Wu, Shanwei Sun, Weiping Gong, Jiangyu Li, Xiao Wang et al.，2024，*P
   2. Hf₂MnC₂O₂ 的 FM 比 AFM 低 81.75 meV/cell，J₁ = 6.38 meV；Mn–C–Mn 键角 95.22°，按 Goodenough–Kanamori–Anderson 规则[[../concepts/superexchange|超交换]]倾向 FM，并压倒 Mn–Mn [[../concepts/direct-exchange|直接交换]]的 AFM 倾向（与 CrI₃、Mn₂Ge₂Te₆ 情形类似）。
   3. Hf₂MnC₂O₂ 是[[../concepts/bipolar-magnetic-semiconductor|双极磁性半导体]]：VBM 在 Γ 点自旋向上通道（主要为 C p），CBM 在 M 点自旋向下通道（主要为 Mn d），间接带隙 0.26 eV，可产生 100% 自旋极化电流。
   4. Sc₂CO₂ a = 3.35 Å，间接带隙 1.93 eV，VBM 来自 C p、CBM 来自 Sc d；具有 Pk/Pm 两个能量简并的面外铁电稳态，两表面[[../concepts/work-function|功函数]]差约 2.1 eV；与 Hf₂MnC₂O₂ 晶格失配 < 3.3%。
-  5. Pk 态下 Hf₂MnC₂O₂ 保持半导体（J₁ = 6.72 meV，Mn 磁矩 3.53 μB，MAE = −93 μeV/cell，面内）；Pm 态下变为[[../concepts/half-metal|半金属]]——自旋向下通道穿越费米能级、自旋向上通道仍有带隙，J₁ 升至 9.97 meV（摘要处写 9.67 meV），Mn 磁矩降至 3.47 μB，MAE = +47 μeV/cell，易轴翻转为面外。
+  5. Pk 态下 Hf₂MnC₂O₂ 保持半导体（J₁ = 6.72 meV，Mn 磁矩 3.53 μB，MAE = −93 μeV/cell，面内）；Pm 态下变为[[../concepts/half-metallicity]]——自旋向下通道穿越费米能级、自旋向上通道仍有带隙，J₁ 升至 9.97 meV（摘要处写 9.67 meV），Mn 磁矩降至 3.47 μB，MAE = +47 μeV/cell，易轴翻转为面外。
   6. 机理双对称性协同：Sc₂CO₂ 空间反演破缺给出 2.1 eV 表面功函数差和极化场；Hf₂MnC₂O₂ 时间反演破缺使两自旋通道带边非简并集。Pk 时两自旋 CB均高于 Sc₂CO₂ VB，[[../concepts/charge-transfer|电荷转移]]被抑制；Pm 时自旋向下 CB 降至 Sc₂CO₂ VB 之下，电子选择性注入自旋向下通道，使其金属化并增强 Mn d–C p 在 −1.1 至 −0.6 eV 的杂化，从而强化 FM 超交换。Pm 态下 Sc₂CO₂ 自身也转为[[../concepts/polar-metal|极性金属]]。
   7. 三明治 Sc₂CO₂/Hf₂MnC₂O₂/Sc₂CO₂ 四态（P1–P4）中，双 Pm 协同的 P4 态 J₁ 进一步达 11.57 meV，C1、C2 磁矩均降至 0.15 μB，[[../concepts/half-metallicity|半金属性]]最显著；P2/P3 镜像对称，J₁ = 9.76 meV。
   8. MAE 用公式 MAE = E[100] − E[001] 定义；基于二阶微扰（公式2）分解为自旋守恒（ΔSz=0，Lz/Lx）与[[../concepts/spin-flop|自旋翻转]]（ΔSx=±1）项。三角晶场下 d 轨道分裂为 dz²(|mz=0⟩)、(dxz,dyz)(|±1⟩)、(dx²−y²,dxy)(|±2⟩)。Pm 电荷转移使自旋向下 CB 下移、带隙减小，Mn/Hf 的 |mz=0,±1⟩ 自旋翻转项经 Lx 贡献正 MAE，超过 |±2⟩ 经 Lz 的负贡献，使易轴由面内翻为面外。

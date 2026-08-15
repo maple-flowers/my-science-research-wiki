@@ -107,7 +107,7 @@ Sudipta Koley、Narayan Mohanta、Arghya Taraphder，2020，The European Physica
   - 图表 [[../figures/electronic-bands]]
   - 年度 [[../write/2020-2024|2020]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 概念 [[../concepts/excitonic-condensation]]
+  - 概念 [[../concepts/exciton-condensation]]
   - 相关论文 [[../../raw/note/Koley2020charge]]
 ## 📊 关键图表
   - ![图1 BdG 中无序/CDW/超导配对振幅的实空间分布，团簇与随机构型对比](../../raw/figures/Koley2020charge/fig_1_4WRCB6UJ.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]

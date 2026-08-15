@@ -75,11 +75,11 @@ Chibao Huang、Junle Qu，2017，*Biomarkers Journal*，DOI 10.21767/2472-1646.1
 
 ## 🔗 Wiki 双链
   - 图表 [[../figures/optical-spectra]]
-  - 概念 [[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/solvatochromism|溶剂化变色]]、[[../concepts/thermo-solvatochromism|热致溶剂化变色]]、[[../concepts/intramolecular-charge-transfer|分子内电荷转移]]、[[../concepts/twisted-intramolecular-charge-transfer|扭曲分子内电荷转移]]、[[../concepts/exciplex|激基复合物]]、[[../concepts/local-excited-state|局域激发态]]、[[../concepts/d-pi-a-architecture|D-π-A构型]]、[[../concepts/solvent-relaxation|溶剂弛豫]]
+  - 概念 [[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/solvatochromism|溶剂化变色]]、[[../concepts/thermo-solvatochromism|热致溶剂化变色]]、[[../concepts/ict-mechanism]]、[[../concepts/tict-mechanism]]、[[../concepts/exciplex|激基复合物]]、[[../concepts/local-excited-state|局域激发态]]、[[../concepts/d-pi-a-architecture|D-π-A构型]]、[[../concepts/solvent-relaxation|溶剂弛豫]]
   - 实体 [[../entities/dicyanostilbene-1a|P1]]、[[../entities/dicyanostilbene-1b|P2]]、[[../entities/DCS|双氰基二苯乙烯]]
   - 年度 [[../write/2015-2019|2017]]
   - 项目 [[../projects/project-1-two-photon]]
-  - 概念 [[../concepts/locally-excited-state]]、[[../concepts/fluorescence-sensing]]
+  - 概念 [[../concepts/local-excited-state]]、[[../concepts/fluorescence-sensing]]
   - 实体 [[../entities/P1]]、[[../entities/P2]]、[[../entities/dicyanostilbene]]
   - 相关论文 [[../../raw/note/H2017fluorescence]]
 ## 📊 关键图表

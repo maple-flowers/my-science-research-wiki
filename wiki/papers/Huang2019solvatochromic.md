@@ -96,7 +96,7 @@ Huang, Peng, Fan et al.，2019，*American Journal of Biomedical Science & Resea
 在二苯乙烯单芳环上同时引入邻/间位双氰基与二甲氨基，构建出 D-π-A 型探针 P1，其发射峰随溶剂极性从 445 nm 红移至 641 nm（≈196 nm），双光子吸收截面最高达 6670 GM，并首次在双光子激发下观察到 LE/TICT/Exciplex 三重荧光，可同时响应极性、粘度和温度。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/solvatochromism|溶剂化变色]]、[[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/two-photon-fluorescence|双光子荧光]]、[[../concepts/intramolecular-charge-transfer|分子内电荷转移]]、[[../concepts/twisted-intramolecular-charge-transfer|扭转分子内电荷转移]]、[[../concepts/exciplex|激基复合物]]、[[../concepts/local-excited-state|局域激发态]]、[[../concepts/donor-pi-acceptor|供体-π-受体]]、[[../concepts/push-pull-chromophore|推拉生色团]]、[[../concepts/triple-fluorescence|三重荧光]]、[[../concepts/lippert-mataga|Lippert–Mataga方程]]
+  - 概念 [[../concepts/solvatochromism|溶剂化变色]]、[[../concepts/two-photon-absorption|双光子吸收]]、[[../concepts/two-photon-fluorescence|双光子荧光]]、[[../concepts/ict-mechanism]]、[[../concepts/tict-mechanism]]、[[../concepts/exciplex|激基复合物]]、[[../concepts/local-excited-state|局域激发态]]、[[../concepts/d-pi-a-architecture]]、[[../concepts/d-pi-a-architecture]]、[[../concepts/triple-fluorescence|三重荧光]]、[[../concepts/lippert-mataga|Lippert–Mataga方程]]
   - 实体 [[../entities/stilbene|二苯乙烯]]、[[../entities/DCS|DCS]]、[[../entities/dicyanostilbene-1a|P1探针]]、[[../entities/dicyanostilbene-1b|P2探针]]、[[../entities/fluorescein|荧光素]]、[[../entities/quinine-bisulfate|硫酸奎宁]]
   - 图表 [[../figures/optical-spectra]]
   - 年度 [[../write/2015-2019|2019]]
@@ -219,8 +219,8 @@ Huang, Peng, Fan et al.，2019，*American Journal of Biomedical Science & Resea
 文章按"提出问题（缺乏多功能大 δ 双光子探针）→分子设计（DCS 骨架、双氰基+二甲氨基 D-π-A）→合成（Wittig-Horner 路线）→光物理表征（吸收/发射/TPEF/δ/粘度/温度/浓度）→机理（ICT + TICT + Exciplex 三态模型）→结论与展望"组织。逻辑链是"基态不敏感、激发态敏感"的对比贯穿始终：吸收峰位对溶剂几乎不变（401-419 nm），而发射位移近 200 nm，由此论证 ICT 态的高极性；再用粘度/温度/浓度对三带的不同影响把 LE/TICT/Exciplex 分开。值得在 wiki 中复用的术语：
   - *solvatochromism* 溶剂化变色
   - *two-photon absorption cross section (δ, GM)* 双光子吸收截面（戈佩特-迈耶单位）
-  - *D-π-A / push-pull chromophore* 给体-π-受体/推拉生色团 [[../concepts/push-pull-chromophore|推拉生色团]]
-  - *ICT / TICT* 分子内电荷转移 / 扭转分子内电荷转移 [[../concepts/twisted-intramolecular-charge-transfer|扭转分子内电荷转移]]
+  - *D-π-A / push-pull chromophore* 给体-π-受体/推拉生色团 [[../concepts/d-pi-a-architecture]]
+  - *ICT / TICT* 分子内电荷转移 / 扭转分子内电荷转移 [[../concepts/tict-mechanism]]
   - *exciplex (E band)* 激基复合物（E 带）
   - *localized excited state (LE, B band / ¹Lb)* 局域激发态
   - *HBD vs NHD (aprotic)* 氢键给体溶剂 vs 非氢键给体（非质子）溶剂

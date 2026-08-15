@@ -29,7 +29,7 @@
 ├── answer/                Answer 模式输出目录（只读作答，见下）
 ├── output/                近期维护产出报告目录
 ├── temp/                  近期维护中间产物目录
-└── tools/                 维护报告与脚本（当前 3 个 md，无脚本，待重建）
+└── tools/                 维护脚本（当前含 update_raw_assets.py，其余脚本待重建）
 ```
 
 ## 摄入源（Ingest Sources）
@@ -67,6 +67,7 @@
 3. **来源必须双链**：每个论断、数据、结论都须用 `[[ ]]` 双链回知识库来源（如 `[[wiki/papers/<citekey>]]`、`[[raw/note/<citekey>]]`、`[[wiki/concepts/...]]`），不得给出无出处的结论。
 4. **可引用素材**：可使用标准 markdown 图片语法引用图片（如 `![](../../raw/figures/<KEY>/<file>.png)`），以及表格、公式等。
 5. **可疑内容只标注不改正**：若发现知识库某处可能放错位置、内容存疑或来源冲突，**不得自行改动**，在回答中以醒目标记记录，例如 `> ⚠️ 待确认：<问题描述>，涉及 [[...]]`，等用户稍后确认。
+6. **知识库不足时补文献**：若知识库中的论文不足以完整解答问题，**不得编造结论或强行作答**。应联网检索该问题的经典 / 权威文献，将文献链接（DOI / arXiv / 期刊页）整理给用户，并说明"这些文献加入文献库后可重新回答"。待用户将文献加入文献库后，再重新进入 answer 模式作答。此环节只输出链接、不写入知识库，仍遵守冻结规则。
 
 ---
 
@@ -81,11 +82,11 @@
 - **链接优先**：`wiki/papers/<citekey>` 是论文在 wiki 中的正式条目，须回链原 note `[[../../raw/note/<citekey>]]`。
 - **引文指向 wiki/papers/**：`wiki/concepts/`、`wiki/entities/`、`wiki/figures/`、`wiki/write/`、`wiki/projects/`、`wiki/topics/`、`wiki/ideas/` 等条目引用某篇论文时，一律链 `[[../papers/<citekey>]]`（或对应相对路径），**不得**直接链 `raw/note/`。只有 `wiki/papers/<citekey>` 可以直连 `raw/note`。
 - **链接完整性**：始终保持全库 `[[ ]]` 双向链接通畅。
-- `tools/` 目录当前仅存 3 份维护报告（无脚本）；`stork_daily.py`、`update_raw_assets.py`、`tools/ingest_papers/` 等脚本与逐篇归档流程待重建。
+- `tools/` 目录当前含 `update_raw_assets.py`（从 Zotero 同步图片资产）；`stork_daily.py`、`tools/ingest_papers/` 等脚本与逐篇归档流程待重建。
 - **Wiki 是动态的**：随着新论文的加入，概念和实体的描述应趋于丰富和准确。
 - 所有日期用 `YYYY-MM-DD`。
 - 中文为叙述语言，英文 slug/专有名词保留原文。
-- **Answer 模式只读**：进入 answer 模式后禁止改动知识库，只在 `answer/YYYY-MM-DD-HHMM.md` 写回答，答案须双链来源；发现放错或存疑处只标 `> ⚠️ 待确认：…`，等用户确认，不自行改正（详见上文「Answer 模式」）。
+- **Answer 模式只读**：进入 answer 模式后禁止改动知识库，只在 `answer/YYYY-MM-DD-HHMM.md` 写回答，答案须双链来源；发现放错或存疑处只标 `> ⚠️ 待确认：…`，等用户确认，不自行改正；知识库论文不足时，联网检索经典文献链接给用户，待其加入文献库后重新作答（详见上文「Answer 模式」）。
 
 ---
 

@@ -97,7 +97,7 @@ Wanping Shen, Jinbo Shen, Fang Wang, Yunhao Lu et al.，2025，Physical Review B
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/heterostructures-stacking]]
   - 图表 [[../figures/heterostructures-stacking|多铁与磁电异质结 (Multiferroic & Magnetoelectric Heterostructures)]]
-  - 图表 [[../figures/domain-walls]]
+  - 图表 [[../concepts/domain-wall]]
   - 年度 [[../write/2025-2029|2025]]
   - 相关论文 [[../../raw/note/shenEmergenceMultipleFerroelectric2025]]
 

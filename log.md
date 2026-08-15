@@ -500,3 +500,17 @@
 ### 说明
 - 与上一条（concepts 103 / entities 22）的差异：磁盘实际有 1 个 concept 正式页已移除（103→102），entities 新增 1 个正式页（22→23）。本次以二次复核实测为准。
 
+## [2026-08-15] update | 恢复 update_raw_assets.py 后校准规范文件
+
+### 背景
+`tools/update_raw_assets.py`（282 行，14.9KB）此前在 commit b94beee（8-14 校准文档时）被误删，本次从 git commit 3f4bc62 恢复至 `tools/` 目录（当前未跟踪，`??`）。`extract_figures.py` 与 `update_figures_metadata.py` 从未进 git，无法恢复。
+
+### 变更
+- SCHEMA.md：目录约定树 `tools/` 行由"当前 3 个 md，无脚本，待重建"改为"维护脚本（当前含 update_raw_assets.py，其余脚本待重建）"；铁律中 `tools/` 描述同步改为"当前含 update_raw_assets.py（从 Zotero 同步图片资产）"。
+- update.md：Raw 资产同步命令标注由"脚本当前不存在、待重建"改为可直接执行。
+- 未改动：`stork_daily.py`、`tools/ingest_papers/` 仍标注待重建（磁盘实测确实不存在）；log.md 历史条目不回改。
+
+### 磁盘实测
+- `tools/`：仅 `update_raw_assets.py`（14896 字节），无其他文件。
+
+

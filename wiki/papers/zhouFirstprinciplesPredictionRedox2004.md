@@ -90,7 +90,7 @@ F. Zhou, M. Cococcioni, C. A. Marianetti, D. Morgan, G. Ceder，2004，Physical 
 用线性响应自洽计算 U 的 GGA+U 方法，将过渡金属正极材料锂嵌入电压的预测误差从 GGA 的 0.5–1.0 V 系统性压缩到几个百分点，并把误差根源归结为电子自相互作用在离域锂金属态与局域 TM-d 态之间的未抵消。
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/density-functional-theory]]
-  - 概念 [[../concepts/dft-plus-u]]
+  - 概念 [[../concepts/DFT-U]]
   - 概念 [[../concepts/self-interaction-error]]
   - 概念 [[../concepts/electron-correlation]]
   - 概念 [[../concepts/hubbard-u]]
@@ -102,7 +102,7 @@ F. Zhou, M. Cococcioni, C. A. Marianetti, D. Morgan, G. Ceder，2004，Physical 
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2000-2004|2004]]
-  - 概念 [[../concepts/chemical-potential]]、[[../concepts/high-spin-state]]、[[../concepts/electron-localization]]、[[../concepts/charge-ordering]]
+  - 概念 [[../concepts/chemical-potential]]、[[../concepts/high-spin-state]]、[[../concepts/electron-localization]]、[[../concepts/charge-order]]
   - 相关论文 [[../../raw/note/zhouFirstprinciplesPredictionRedox2004]]
   - 实体 [[../entities/LiFePO4]]
   - 实体 [[../entities/LixMn2O4]]
@@ -112,7 +112,7 @@ F. Zhou, M. Cococcioni, C. A. Marianetti, D. Morgan, G. Ceder，2004，Physical 
   - [[../concepts/self-interaction-error|self-interaction-error]]：LDA/GGA 中电子与自身电荷密度非物理相互作用导致的能量误差，是本文电压低估的物理根源。
   - [[../concepts/linear-response-u|linear-response-u]]：Cococcioni–de Gironcoli 线性响应法，通过裸响应 χ₀ 与屏蔽响应 χ 之差自洽计算 Hubbard U，无经验参数。
   - [[../concepts/redox-potential|redox-potential]]：氧化还原电位/锂嵌入电压，由反应前后总能量差经 ⟨V⟩ = −ΔE/[(x₂−x₁)F] 给出。
-  - [[../concepts/charge-ordering|charge-ordering]]：混合价体系中分立价态离子（如 Mn³⁺/Mn⁴⁺）的有序排列，GGA+U 因惩罚非整数占据而自然产生。
+  - [[../concepts/charge-order]]：混合价体系中分立价态离子（如 Mn³⁺/Mn⁴⁺）的有序排列，GGA+U 因惩罚非整数占据而自然产生。
   - [[../concepts/hubbard-u|hubbard-u]]：有效在位库仑相互作用 U_eff = U − J，DFT+U 中惩罚 d/f 轨道非整数占据的参数。
   - 实体 [[../entities/LiFePO4|LiFePO4]]、[[../entities/LixMn2O4|LixMn2O4]]、[[../entities/LiCoO2|LiCoO2]]：三类经典锂电池正极代表材料，可作为实体条目建档。
 ## 📊 关键图表

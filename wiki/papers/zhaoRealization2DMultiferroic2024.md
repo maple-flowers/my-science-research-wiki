@@ -87,7 +87,7 @@ Ying Zhao, Yanxia Wang, Yue Yang, Jijun Zhao, Xue Jiang（大连理工大学/华
 
 ## 🆕 新概念/实体建议
   - [[../concepts/intercalation|intercalation]]（插层）：外来原子/分子嵌入范德华层间间隙形成杂化化合物的化学过程，是本文设计策略的核心。
-  - [[../concepts/magnetic-skyrmion|magnetic-skyrmion]]（磁斯格明子）：拓扑保护的涡旋状纳米自旋织构，可作赛道存储器信息比特；本文在 T-CdCr₂Te₄ 中实现电控反斯格明子。
+  - [[../concepts/skyrmion]]（磁斯格明子）：拓扑保护的涡旋状纳米自旋织构，可作赛道存储器信息比特；本文在 T-CdCr₂Te₄ 中实现电控反斯格明子。
   - [[../concepts/dzyaloshinskii-moriya-interaction|dzyaloshinskii-moriya-interaction]]（DMI，Dzyaloshinskii-Moriya 相互作用）：破缺反演对称体系中的反对称交换作用，是斯格明子形成的关键驱动力。
   - [[../concepts/metallic-ferroelectricity|metallic-ferroelectricity]]（金属铁电性）：金属中自由电子未能完全屏蔽局域极化电荷而保留铁电极化的现象，本文以极化电子/传导电子空间分离机制解释。
   - [[../entities/AM2X4-intercalation-family|AM2X4-intercalation-family]]（AM₂X₄ 插层化合物家族）：由 A 离子插入 MX₂ 双层构成的非范德华二维材料家族，可承载多铁、拓扑等多种序参量。

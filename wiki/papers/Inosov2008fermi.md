@@ -81,7 +81,7 @@ D S Inosov, V B Zabolotnyy, D V Evtushinsky, A A Kordyuk, B Büchner, R Follath,
   - 概念 [[../concepts/2d-materials]]
   - 概念 [[../concepts/fermi-surface-nesting|费米面嵌套]]
   - 概念 [[../concepts/lindhard-function|Lindhard 函数]]
-  - 概念 [[../concepts/peierls-transition|Peierls 相变]]
+  - 概念 [[../concepts/peierls-instability]]
   - 概念 [[../concepts/van-hove-singularity|范霍夫奇点]]
   - 概念 [[../concepts/kohn-anomaly|Kohn 异常]]
   - 概念 [[../concepts/electron-phonon-coupling|电子-声子耦合]]

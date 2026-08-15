@@ -81,7 +81,7 @@ Saman Zahra, Bo Dai, Xianhua Wei, Fei Zhou, Syed Irfan et al.，2025，Critical 
 首篇系统批判性综述二维 MXene（过渡金属碳/氮化物）中铁电、铁磁与多铁性的工作，归纳了从 MAX 相刻蚀、表面端基工程到掺杂/应变/复合诱导 FE/FM 的完整策略工具箱。
 ## 🔗 Wiki 双链
 本文涉及且 wiki 中已存在的条目，用双链列出（存在才链）：
-  - 概念 [[../concepts/2d-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/ferroelasticity]]、[[../concepts/strain-engineering]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/topological-defects]]、[[../concepts/max-phase]]、[[../concepts/surface-terminations-tx]]、[[../concepts/janus-mxene]]、[[../concepts/ferroelectric-metal]]、[[../concepts/i-mxene]]、[[../concepts/sc2co2]]、[[../concepts/v2c-mxene]]、[[../entities/hf2vc2f2]]、[[../concepts/ti3c2tx]]、[[../concepts/piezoresponse-force-microscopy]]、[[../concepts/stoner-ferromagnetism]]、[[../entities/ferroelectric-memristor]]
+  - 概念 [[../concepts/2d-materials]]、[[../concepts/density-functional-theory]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/ferroelasticity]]、[[../concepts/strain-engineering]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/topological-defects]]、[[../entities/MAX-phase]]、[[../concepts/surface-terminations-tx]]、[[../concepts/janus-mxene]]、[[../concepts/ferroelectric-metal]]、[[../concepts/i-mxene]]、[[../entities/Sc2CO2]]、[[../concepts/v2c-mxene]]、[[../entities/hf2vc2f2]]、[[../concepts/ti3c2tx]]、[[../concepts/piezoresponse-force-microscopy]]、[[../concepts/stoner-ferromagnetism]]、[[../entities/ferroelectric-memristor]]
   - 实体 [[../entities/MXenes]]、[[../entities/BiFeO3]]、[[../entities/In2Se3]]、[[../entities/TMDs]]、[[../entities/hf2vc2f2]]
   - 图表 [[../figures/heterostructures-stacking]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups]]
   - 年度 [[../write/2025-2029|2025]]
@@ -172,7 +172,7 @@ project-2 Mn多铁（弱相关：综述系统讨论 Mn₂C/Mn₂CO₂ 等 Mn 基
   - Piezoresponse force microscopy (PFM), butterfly loop / 压电力显微镜与蝴蝶曲线
 ## ✏️ 可写入 Wiki 的要点
 5-10 条 bullet，是可直接用于第二步充实 wiki 条目的具体事实、机制、数据、公式、结论
-  - MXene 通式 M_{n+1}X_nT_x，由 [[../concepts/max-phase|MAX 相]] M_{n+1}AX_n 选择性刻蚀 A 层得到；M-X 为金属/离子/共价混合键，强于 M-A 金属键，因此刻蚀只断 M-A。已报道约 155 种 MAX 相、约 55 种 MXene。
+  - MXene 通式 M_{n+1}X_nT_x，由 [[../entities/MAX-phase]] M_{n+1}AX_n 选择性刻蚀 A 层得到；M-X 为金属/离子/共价混合键，强于 M-A 金属键，因此刻蚀只断 M-A。已报道约 155 种 MAX 相、约 55 种 MXene。
   - 刻蚀工艺（HF、氟盐/强酸、NH₄HF₂、无氟熔盐、电化学、CVD）直接决定端基 T_x（-O/-OH/-F/-Cl/-S/-Br/-NH₂ 等），T_x 同时调控电子结构、亲疏水性、对称性与磁性，是性能调控的第一旋钮；无 T_x 的 M_{n+1}X_n 称 pristine MXene。
   - 多数 MXene 为中心对称结构，本征禁止自发极化；3D 铁电薄膜在减薄时存在"死层+[[../concepts/depolarization-field|退极化场]]+屏蔽场"使面外极化失稳，而 2D 范德华铁电（如 In₂Se₃）无死层，单层即可保持稳定极化，这是 MXene 铁电研究的物理动机。
   - 首个本征铁电 MXene 是 2017 年 Chandrasekaran 等预测的 Sc₂CO₂；随后 DFT 预测 Nb₂CS₂/Ta₂CS₂、Sc₂CS₂/Y₂CS₂、Y₂CO₂ 等也以铁电为基态；类 α-In₂Se₃ 六方相的 α-MXene（Nb₂CF₂、Mo₂CO₂、Ta₂CF₂、W₂CF₂、Mo₂CF₂）是罕见的"[[../concepts/ferroelectric-metal|铁电金属]]"，其[[../entities/FTJ|铁电隧道结]] TER 极高，可用于铁电存储器。

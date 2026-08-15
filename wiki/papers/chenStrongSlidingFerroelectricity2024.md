@@ -101,7 +101,7 @@ tags:
   - 概念 [[../concepts/interfacial-charge-rearrangement|层间电荷重排]]
   - 概念 [[../concepts/rashba-effect|Rashba 效应]]
   - 概念 [[../concepts/slidetronics|滑移电子学]]
-  - 概念 [[../concepts/soft-phonon-mode|软声子模式]]
+  - 概念 [[../concepts/soft-mode]]
   - 概念 [[../concepts/spin-texture|自旋纹理]]
   - 实体 [[../entities/VASP]]
   - 实体 [[../entities/In2Se3]]
@@ -131,7 +131,7 @@ tags:
   - [[../concepts/interfacial-charge-rearrangement|interfacial-charge-rearrangement]]：层间电荷重排——FE 双层相对于孤立单层在层间区域发生的电荷积累/耗尽，形成净层间偶极，是滑动铁电极化的主要微观来源。
   - [[../concepts/spin-texture|spin-texture]]：自旋纹理——动量空间中电子自旋分量的分布图；FE-HgI₂ 双层在 k_x−k_y 平面呈近圆形切向 Rashba 纹理，±P 态纹理完全相反。
   - [[../concepts/screening-charge-integration|screening-charge-integration]]：屏蔽电荷积分法——对二维体系 FE 与 PE 相平面平均电荷密度差 Δρ(z) 沿面外方向积分以确定极化的方法，适用于无面外周期性的二维多层。
-  - [[../concepts/soft-phonon-mode|soft-phonon-mode]]：软声子模式——PE-HgI₂ 体相在 Γ 点附近的虚频模式（ω = −13.57 cm⁻¹），对应层间滑动不稳定性，驱动滑动铁电相变。
+  - [[../concepts/soft-mode]]：软声子模式——PE-HgI₂ 体相在 Γ 点附近的虚频模式（ω = −13.57 cm⁻¹），对应层间滑动不稳定性，驱动滑动铁电相变。
   - [[../concepts/double-well-potential|double-well-potential]]：双势阱——连接 ±P 态并经过 PE 态的能量曲线，是铁电双稳态的能量学标志。
   - 实体 [[../entities/HgI2|HgI2]]：碘化汞，β-HgI₂（黄色）正交晶系 Cmc2₁ 相，由共边 HgI₆ 八面体构成单层，AB 堆垛形成体相；本文预测其二维多层为强滑动铁电体。
   - 实体 [[../entities/HgBr2|HgBr2]]：溴化汞，与 HgI₂ 同构 but 极化较弱（体相 0.47 μC/cm²，双层 0.02 μC/cm²）。
@@ -154,7 +154,7 @@ tags:
     - **物理内容**：本组图从对称性（结构示意图）、动力学（软模）和能量学（双势阱）三个层面证实 HgX₂ 体相为滑动铁电体，并定量指出其瓶颈——体相翻转势垒过高，实际不可电场翻转，因而更接近"具有负纵向压电性的垂直极化层状材料"，为后续"减薄到二维实现可切换"的论证铺垫。
     - **关键数据**：PE-HgI₂ 软模频率 ω = −13.57 cm⁻¹（PE-HgBr₂ 为 −10.40 cm⁻¹，对比 T_d-MoTe₂ 约 −9 cm⁻¹）；体相 Berry 相位极化 HgI₂ P = 1.16 μC/cm²、HgBr₂ P = 0.47 μC/cm²；体相翻转势垒 HgI₂ 80.90 meV/f.u.、HgBr₂ 34.42 meV/f.u.；对比 T_d-ZrI₂ P = 0.24 μC/cm²、WTe₂ P = 0.19 μC/cm²。
     - **方法/计算设置**：声子谱有限位移法；极化为 Berry 相位法；翻转路径由沿软模位移模式插值并结构优化得到（与 NEB 一致的双势阱采样）；DFT-D3 范德华修正。
-    - **关联概念**：[[../concepts/sliding-ferroelectricity]]、[[../concepts/soft-phonon-mode|软声子模式]]、[[../concepts/double-well-potential|双势阱]]、[[../concepts/berry-phase|Berry 相位]]、[[../concepts/paraelectric-ferroelectric-transition|顺电-铁电相变]]
+    - **关联概念**：[[../concepts/sliding-ferroelectricity]]、[[../concepts/soft-mode]]、[[../concepts/double-well-potential|双势阱]]、[[../concepts/berry-phase|Berry 相位]]、[[../concepts/paraelectric-ferroelectric-transition|顺电-铁电相变]]
   - ![图2 双层HgI₂：(a) 平面平均静电势与屏蔽电荷Δρ，(b) 双层极化翻转能垒，(c) ±P态层间差分电荷密度等值面](../../raw/figures/chenStrongSlidingFerroelectricity2024/fig_2_7CPIU55R.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
     - **面板分解**：
       - **(a) 上**：FE-HgI₂ 双层沿面外 *c* 方向的平面平均静电势，两表面间存在非零电势台阶，直接证明垂直极化；**下**：FE 与 PE 相的平面平均电荷密度差 Δρ(*z*)（屏蔽电荷），正负载流子在层间与表面重新分布，对其积分即得二维极化。
@@ -227,4 +227,4 @@ tags:
   7. **Rashba 自旋分裂**：PBE+SOC 计算显示 FE-HgI₂ 双层 VBM 和 CBM 沿 Γ−X、Γ−Y 方向均分裂为内/外两支（inner/outer），内外支自旋取向相反（顺时针/逆时针切向）。Rashba SOC 哈密顿量 H_SOC = α(σ_x k_y − σ_y k_x)。±P 态的[[../concepts/spin-texture|自旋纹理]]完全相反，即层间滑动翻转极化的同时反转自旋-轨道场方向。体相 FE-HgI₂ 因极化更强，能带分裂更显著。
   8. **Datta–Das 自旋 FET 设计**：以 FE-HgI₂ 双层为半导体沟道，两端铁磁电极沿 +z 方向磁化。注入自旋在 Rashba 场下进动，沟道长度 L = 143 nm 时进动角 θ = ±π/2；栅压翻转极化使 Rashba 场反向，到达漏极的自旋平行（ON）或反平行（OFF）于漏极磁化，实现非易失逻辑开关。
   9. **稳定性验证**：声子计算无虚频（FE 相）、300 K AIMD 模拟结构保持完整，证实双层/多层动力学与热力学稳定性。HgI₂ 体相早在数十年前即由 Bridgman–Stockbarger 法或气相传输法合成，少层有望通过机械剥离获得，材料可合成性强。
-  10. **方法学细节**：使用 VASP 包，[[../concepts/pbe-functional|PBE 泛函]]，DFT-D3 [[../concepts/vdw-correction|范德华修正]]；体相极化用 Berry 相位法，二维多层极化用 FE/PE 相平面平均屏蔽电荷差 Δρ(z) 积分法；翻转路径用 NEB（climbing-image NEB）；声子用有限位移法。HgI₂ 双层极化 0.11 μC/cm² 大于 WTe₂ 双层（~0.03 μC/cm²），是其"强滑动铁电性"定位的定量依据。
+  10. **方法学细节**：使用 VASP 包，[[../concepts/PBE-functional]]，DFT-D3 [[../concepts/vdw-correction|范德华修正]]；体相极化用 Berry 相位法，二维多层极化用 FE/PE 相平面平均屏蔽电荷差 Δρ(z) 积分法；翻转路径用 NEB（climbing-image NEB）；声子用有限位移法。HgI₂ 双层极化 0.11 μC/cm² 大于 WTe₂ 双层（~0.03 μC/cm²），是其"强滑动铁电性"定位的定量依据。

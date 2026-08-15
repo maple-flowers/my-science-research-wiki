@@ -28,8 +28,9 @@ AIGC:
 | 🕳️ 领域空白 gap | 还有什么是没人做/没做透的？ | `gap-` | 从文献综述中发现的开放问题 |
 | 💡 研究想法 idea | 我打算怎么补这个空白？ | `idea-` | 针对 gap 提出的可验证假设与方案 |
 | 🔬 可行性验证 validation | 这个想法到底行不行？ | `validation-` | 对 idea 的验证尝试与结论 |
+| 🧭 科研范式 paradigm | 这类研究是怎么做的？ | `paradigm-` | 从论文中提炼可复用的研究套路与方法论模板 |
 
-三者关系：**gap 是问题 → idea 是假设 → validation 是证据**；idea 验证通过后可 `adopted` 落地为 `wiki/projects/` 项目，否定则 `rejected` 废弃。
+四者关系：**gap 是问题 → idea 是假设 → validation 是证据**；idea 验证通过后可 `adopted` 落地为 `wiki/projects/` 项目，否定则 `rejected` 废弃。**paradigm 是方法**：从论文中提炼"这类研究怎么做"，为 gap / idea 提供可复用的研究套路与流程模板。
 
 ---
 
@@ -41,6 +42,8 @@ idea       : proposed → validating → validated → adopted（落地 project�
                         │                         └ rejected（废弃）
                         └─────────────────────▶ superseded（被新 idea 替代）
 validation : draft → in-progress → done / inconclusive
+paradigm   : active ────────────────────────────▶ superseded（被新范式替代）
+                        └─────────────────────▶ obsolete（过时废弃）
 ```
 
 - `proposed`：想法刚提出，只有假设与大致方案。
@@ -54,7 +57,7 @@ validation : draft → in-progress → done / inconclusive
 
 ## 当前条目索引
 
-*本目录当前为空，尚无 gap / idea / validation 卡片。*
+*本目录当前为空，尚无 gap / idea / validation / paradigm 卡片。*
 
 | 类型 | 编号 | 标题 | 状态 | 关联 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -66,8 +69,8 @@ validation : draft → in-progress → done / inconclusive
 
 ## 使用指引
 
-1. **先读规范**：[[format-spec|想法条目编写规范]] 定义了三种卡片的 frontmatter、正文模板、命名与双链规则。
-2. **从 gap 开始**：每张 idea 必须锚定至少一个 gap；每张 validation 必须锚定一个 idea。
+1. **先读规范**：[[format-spec|想法条目编写规范]] 定义了四种卡片的 frontmatter、正文模板、命名与双链规则。
+2. **从 gap 开始**：每张 idea 必须锚定至少一个 gap；每张 validation 必须锚定一个 idea；每张 paradigm 必须锚定至少一篇代表论文。
 3. **双链联动**：引用论文一律 `[[../papers/<citekey>]]`（不直链 `raw/note/`）；引用概念 / 实体 / 主题 / 项目用对应相对路径。
 4. **落地闭环**：idea 被采纳后，把 `status` 改为 `adopted` 并双链 `[[../projects/project-N-slug|项目N]]`；同时在该 project 页的「与 Wiki 联系」回链 idea。
 5. **想法是活的**：随验证推进更新 `status` 与「生命周期日志」，不必一次写全。

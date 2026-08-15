@@ -103,7 +103,7 @@ Valeri Petkov, Junjie Yang, Sarvjit Shastri, Yang Ren，2020，Physical Review B
   - [[../concepts/reverse-monte-carlo|reverse-monte-carlo]]：反向蒙特卡洛（RMC）建模，从~100 Å盒子、8–9万原子的随机构型出发，通过随机移动原子同时拟合总PDF和元素差分PDF，无需预设平均晶胞即可重建含局域畸变的三维原子结构。
   - [[../concepts/coordination-polyhedron-distortion|coordination-polyhedron-distortion]]：配位多面体畸变，Ta周围三角棱柱/八面体的键角分布宽度与二面角分布，定量刻画多面体扭曲和Ta层皱褶（buckling）程度。
   - [[../concepts/ta-sublattice-3d-periodicity|ta-sublattice-3d-periodicity]]：Ta亚晶格三维周期性，SC出现的关键结构判据——通过比较RMC模型与理想晶格的高r区Ta-Ta部分PDF是否吻合来判断层间Ta原子是否对齐。
-  - [[../entities/tase2-xtex-solid-solution|tase2-xtex-solid-solution]]：TaSe₂₋ₓTeₓ固溶体，等电子Te取代Se的模型体系，端元2H-TaSe₂（三棱柱、CDW~122/90 K、Tc~0.14 K）与1T'-TaTe₂（畸变八面体、CDW~170 K、无SC）结构差异巨大。
+  - [[../entities/TaSe2-xTex]]：TaSe₂₋ₓTeₓ固溶体，等电子Te取代Se的模型体系，端元2H-TaSe₂（三棱柱、CDW~122/90 K、Tc~0.14 K）与1T'-TaTe₂（畸变八面体、CDW~170 K、无SC）结构差异巨大。
   - [[../concepts/chemical-pressure|chemical-pressure]]：化学压力，用尺寸不同的原子等电子取代产生等效内压（Te替Se为负/扩张化学压力），与外压一样可通过改变堆积密度和Ta-Ta间距调控CDW/SC。
   - [[../concepts/ionic-radius-ratio-criterion|ionic-radius-ratio-criterion]]：离子半径比判据（Gamble），R_Ta⁺/R_Ch⁻>0.49倾向三角棱柱配位、<0.49倾向八面体配位，临界值~0.49（理想三棱柱接触值0.527）。
   - [[../concepts/resonant-differential-pdf|resonant-differential-pdf]]：共振差分PDF，在Ta K吸收边（67.416 keV）上下取两个能量（差37 eV vs 327 eV）分别采集再相减，使Ta-Ta原子对贡献从总PDF的30%提升到差分PDF的~50%。

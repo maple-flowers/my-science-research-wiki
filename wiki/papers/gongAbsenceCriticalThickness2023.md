@@ -85,7 +85,7 @@ Feng-Hui Gong, Yun-Long Tang, Yu-Jia Wang, Yu-Ting Chen, Bo Wu, Li-Xin Yang, Yin
   - 概念 [[../concepts/density-functional-theory|密度泛函理论]]
   - 概念 [[../concepts/polarization-switching|极化翻转]]
   - 概念 [[../concepts/strain-engineering|应变工程]]
-  - 概念 [[../concepts/kittels-law|Kittel 定律]]
+  - 概念 [[../concepts/kittel-law]]
   - 概念 [[../concepts/polar-skyrmion|极性斯格明子]]
   - 概念 [[../concepts/depolarization-field|去极化场]]
   - 概念 [[../concepts/critical-thickness-ferroelectric|铁电临界厚度]]
@@ -132,7 +132,7 @@ Feng-Hui Gong, Yun-Long Tang, Yu-Jia Wang, Yu-Ting Chen, Bo Wu, Li-Xin Yang, Yin
   - 值得复用的术语：Kittel's law 基特尔定律；polar skyrmion 极性斯格明子；critical thickness 临界厚度；depolarization field 去极化场；phase-field simulation 相场模拟；topological number (NQ) 拓扑数；hyperbolic scaling 双曲标度；Born effective charge 玻恩有效电荷；reciprocal space map (RSM) 倒易空间图；coercive voltage 矫顽电压。
 
 ## ✏️ 可写入 Wiki 的要点
-  1. (PTOₙ/STOₙ)₁₀ [[../concepts/superlattice|超晶格]]中，n=37, 28, 23, 19, 12, 9, 4, 2 u.c. 对应的[[../concepts/skyrmion|斯格明子]]面内周期分别为 13.8, 11.1, 10.0, 9.5, 6.8, 6.7, 5.2, 6.8 nm；n=19–37 遵循 [[../concepts/kittels-law|Kittel 定律]]，n=2–12 周期趋于约 5–6 nm 常数甚至反增（n=2 时 6.8 nm > n=4 时 5.2 nm）。
+  1. (PTOₙ/STOₙ)₁₀ [[../concepts/superlattice|超晶格]]中，n=37, 28, 23, 19, 12, 9, 4, 2 u.c. 对应的[[../concepts/skyrmion|斯格明子]]面内周期分别为 13.8, 11.1, 10.0, 9.5, 6.8, 6.7, 5.2, 6.8 nm；n=19–37 遵循 [[../concepts/kittel-law]]，n=2–12 周期趋于约 5–6 nm 常数甚至反增（n=2 时 6.8 nm > n=4 时 5.2 nm）。
   2. 实验周期-厚度关系拟合为 d = 0.68h + 2.17/h + 3.24（h 单位 nm）；两种相场方法分别给出 d = 0.72h + 3.73/h + 4.48（统计法，d=√(S/N)），以及 d = 1.32h + 4.10/h + 2.48（能量最低法），均复现"先减后增"。
   3. Kittel 定律在该体系的下限为 h≈4 nm：h≥4 nm 时体、静电、梯度、弹性能量密度在最优周期附近均单调；h<4 nm 时体自由能出现极小值、梯度能出现极大值，单调性破坏，√h 推导前提失效。
   4. 机制：20 nm 厚膜中[[../concepts/depolarization-field|去极化场]]集中于 PTO/STO 界面附近、膜中几乎为零；随膜厚减薄，去极化场在 PTO 层中部逐渐增大并贯穿全膜，成为主导能量项；以导电 LSMO 替换绝缘 STO 后斯格明子卫星峰消失（涡旋不受影响），证明静电边界条件/电荷屏蔽的决定性作用。

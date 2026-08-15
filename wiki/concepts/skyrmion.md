@@ -44,9 +44,17 @@ updated: 2026-08
 - [[../papers/songEvidenceSinglelayerVan2022]]
 - [[../papers/zahraCriticalAnalysisFerroelectric2025]]
 - [[../papers/zhaoRealization2DMultiferroic2024]]
+- [[../papers/songEvidenceSinglelayerVan2022]] — Evidence for a single-layer van der Waals multiferroic
+- [[../papers/zhaoRealization2DMultiferroic2024]] — Realization of 2D multiferroic with strong magnetoelectric coupling by intercalation: a first-principles high-throughput prediction
+
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/dzyaloshinskii-moriya-interaction|DMI 相互作用]]（微观起源）
 - [[../concepts/spin-spiral|螺旋磁序]]（长程前驱态）
 - [[../entities/NbSe2|NbSe₂]]（可能存在的磁-电荷关联拓扑结构）
 - [[../entities/BiFeO3|BiFeO₃]]（斯格明子的重要宿主体系）
+
+## 🏷️ 专业名词别名
+
+- `skyrmions`（concepts）
+- `magnetic-skyrmion`（concepts）

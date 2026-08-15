@@ -81,12 +81,12 @@ Y. Nahas, S. Prokhorenko, L. Bellaiche，2016，Physical Review Letters 116, 117
 ## 💡 一句话
 在 BTO 纳米线嵌入 BST 基质的铁电纳米复合材料中，纳米线手性的独立选择对基质施加不相容的几何边界条件，诱导出几何阻挫，基质以自组装、浮动的涡旋-反涡旋有序阵列来容纳阻挫，并在极低温下保留剩余构型熵。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/topological-defects|拓扑缺陷]]、[[../concepts/geometric-frustration|几何阻挫]]、[[../concepts/chirality|手性]]、[[../concepts/vortex-antivortex|涡旋-反涡旋]]、[[../concepts/residual-entropy|剩余熵]]、[[../concepts/ground-state-degeneracy|基态简并]]、[[../concepts/frustration-index|阻挫指数]]、[[../concepts/effective-hamiltonian|有效哈密顿量]]、[[../concepts/flux-closure-domain|磁通闭合畴]]、[[../concepts/antiferrotoroidic-order|反铁环形序]]、[[../concepts/toroidal-moment|环形矩]]、[[../concepts/depolarizing-field|退极化场]]、[[../concepts/ferroelectricity|铁电性]]、[[../entities/BaTiO3|钛酸钡]]、[[../concepts/BaSrTiO3|钛酸锶钡]]
+  - 概念 [[../concepts/topological-defects|拓扑缺陷]]、[[../concepts/geometric-frustration|几何阻挫]]、[[../concepts/chirality|手性]]、[[../concepts/vortex-antivortex|涡旋-反涡旋]]、[[../concepts/residual-entropy|剩余熵]]、[[../concepts/ground-state-degeneracy|基态简并]]、[[../concepts/frustration-index|阻挫指数]]、[[../concepts/effective-hamiltonian|有效哈密顿量]]、[[../concepts/flux-closure-domain|磁通闭合畴]]、[[../concepts/antiferrotoroidic-order|反铁环形序]]、[[../concepts/toroidal-moment|环形矩]]、[[../concepts/depolarization-field]]、[[../concepts/ferroelectricity|铁电性]]、[[../entities/BaTiO3|钛酸钡]]、[[../concepts/BaSrTiO3|钛酸锶钡]]
   - 实体 [[../entities/BaTiO3|钛酸钡]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/mathematical-models]]
   - 年度 [[../write/2015-2019|2016]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
-  - 概念 [[../concepts/domain-walls]]
+  - 概念 [[../concepts/domain-wall]]
   - 实体 [[../entities/BaSrTiO3]]
   - 相关论文 [[../../raw/note/nahasFrustrationSelfOrderingTopological2016]]
 ## 📊 关键图表

@@ -46,9 +46,15 @@ MoTe2 成为相变明星的核心原因在于其相稳定性极易受外界扰�
 - [[../papers/huangPolarPhaseDomain2019]]
 - [[../papers/kaurRecentAdvancesTheoretical2025a]]
 - [[../papers/yangStrainEngineeringTwodimensional2021]]
+- [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]] — Strain-based room-temperature non-volatile MoTe2 ferroelectric phase change transistor
+
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 - [[../concepts/polymorphic-phase-transition|多晶型相变]]
 - [[../concepts/quantum-spin-hall-effect|量子自旋霍尔效应]]
 - [[../entities/2h-phase|2H 相]]
 - [[../entities/1t-phase|1T 相]]
 - [[../entities/WTe2|二碲化钨 (WTe2)]]
+
+## 🏷️ 专业名词别名
+
+- `mo-te2`（entities）

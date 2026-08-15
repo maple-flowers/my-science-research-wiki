@@ -50,9 +50,14 @@ updated: 2026-08
 
 - [[../papers/kresseEfficiencyAbinitioTotal1996a]]：系统阐述了自洽循环路线相对于直接能量最小化路线的效率优势，并给出了力修正的关键公式。
 - [[../papers/kresseEfficientIterativeSchemes1996d]]：进一步基准测试了 SCF 循环在不同体系中的可迁移性。
+- [[../papers/kresseEfficientIterativeSchemes1996d]] — Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[rmm-diis|RMM-DIIS]]：用于 SCF 中快速解单电子方程的对角化算子。
 - [[pulay-mixing|Pulay 混合]]：用于 SCF 中将输出密度稳定回馈为输入密度的数学手段。
 - VASP (entity)：SCF 电子步由 INCAR 中的 NELM 控制。
+
+## 🏷️ 专业名词别名
+
+- `self-consistent-field`（concepts）

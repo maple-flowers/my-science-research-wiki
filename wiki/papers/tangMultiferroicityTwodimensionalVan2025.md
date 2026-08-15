@@ -114,7 +114,7 @@ Zikun Tang, Yi Hu, Lukas Rogée, Duanzijing Liu, Shu Ping Lau et al.，2025，*C
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/heterostructures-stacking]]
   - 图表 [[../figures/heterostructures-stacking|多铁与磁电异质结 (Multiferroic & Magnetoelectric Heterostructures)]]
-  - 图表 [[../figures/domain-walls]]
+  - 图表 [[../concepts/domain-wall]]
   - 图表 [[../figures/optical-spectra]]（SHG/PFM/MOKE 表征）
   - 图表 [[../figures/experimental-setups]]
   - 年度 [[../write/2025-2029|2025]]
@@ -170,14 +170,14 @@ Zikun Tang, Yi Hu, Lukas Rogée, Duanzijing Liu, Shu Ping Lau et al.，2025，*C
   - d⁰规则 d⁰ rule
   - [[../concepts/inversion-symmetry-breaking|反演对称性破缺 inversion symmetry breaking]]
   - [[../concepts/dzyaloshinskii-moriya-interaction|Dzyaloshinskii–Moriya相互作用 DM interaction]]
-  - [[../concepts/van-der-waals-heterostructure|范德华异质结 van der Waals heterostructure]]
+  - [[../concepts/vdW-heterostructure]]
   - 插层 [[../concepts/intercalation|插层]]/化学计量调制 intercalation / stoichiometric modulation
   - 铁弹畴 ferroelastic domain
 
   - [[../concepts/d0-rule|d0-rule]]
 ## ✏️ 可写入 Wiki 的要点
   1. 2D vdW材料突破[[../concepts/d0-rule|d⁰规则]]的机制：传统BiFeO₃类钙钛矿靠Bi³⁺ 6s²[[../concepts/lone-pair-electrons|孤对电子]]或d⁰阳离子偏心位移产生铁电，而2D材料可通过层间滑移、[[../concepts/charge-order|电荷有序]]、轻元素（S/Se）位移、插层原子位移产生极化，不依赖d⁰构型，从而允许磁性离子共存。
-  2. 2D结构优势：无悬挂键使单层极限下结构稳定、避免[[../concepts/depolarization-field|退极化场]]；弱层间范德华力消除晶格失配限制，允许确定性堆叠；降低维度[[../concepts/augmentation-charge|增强电荷]]-自旋-晶格对外场的可调谐性；非中心对称结构可通过[[../concepts/dzyaloshinskii-moriya-interaction|DM相互作用]]倾斜自旋或诱导[[../concepts/magnetic-anisotropy-energy|磁各向异性]]，逆DM效应亦可由受挫磁序诱导极化。
+  2. 2D结构优势：无悬挂键使单层极限下结构稳定、避免[[../concepts/depolarization-field|退极化场]]；弱层间范德华力消除晶格失配限制，允许确定性堆叠；降低维度[[../concepts/augmentation-charge|增强电荷]]-自旋-晶格对外场的可调谐性；非中心对称结构可通过[[../concepts/dzyaloshinskii-moriya-interaction|DM相互作用]]倾斜自旋或诱导[[../concepts/magnetic-anisotropy]]，逆DM效应亦可由受挫磁序诱导极化。
   3. 策略一（磁中造电）案例：Cr₂S₃/蓝宝石界面调制自插层Cr原子层间滑移→ABA堆垛→室温面外铁电+TC≈200 K铁磁；VCl₃/NbSe₂界面使Cl原子y轴位移→面内极化（TN≈16 K，电子屏蔽不能完全补偿）；Fe₁₊ₓTe₂非均匀插层/空位致层间滑移和金属离子z向位移→面外+面内极化+室温自发磁化；Fe₃₋ₓGeTe₂中Fe缺陷将空间群由中心对称P6₃/mmc降至非中心对称P3m1，SHG呈三重图案证实面外极化。
   4. 策略二（电中生磁）案例：CuCrP₂S₆（CCPS）单斜结构，Cu⁺在S₆八面体偏心位置产生面外偶极，Cr³⁺提供[[../entities/CrI3|层间反铁磁]]TN≈30 K、层内条纹反铁电TC≈145 K；2D极限下外电压可将[[../concepts/metastability|亚稳态]]反铁电态转为稳定铁电态（极化可达14.97 μC/cm²），电场驱动Cu⁺在CrS₆–P₂S₆笼内重排产生非常规[[../concepts/magnetoelectric-coupling|磁电耦合]]。单层CuCrSe₂中Cu/Se垂直位移产生面外极化并使Cr 3d轨道移动→铁磁TC≈120 K。Fe₀.₁₆In₁.₈₄Se₃（Fe掺杂α-In₂Se₃）同时诱导磁序并增强本征[[../concepts/ferroelectricity|铁电性]]。
   5. 策略三（弹中诱电）：[[../entities/group-iv-monochalcogenides|IV族单硫族化物]]（SnS、SnSe、GaS、GaSe）褶皱结构由电负性差驱动大原子位移；AA堆垛SnSe具滑移诱导面内+面外极化和两种铁弹畴，AB堆垛中心对称无铁电；ReS₂/ReSe₂从T相(P-3m1)到T'相(P-1)相变产生两个等效取向铁弹畴，可由[[../concepts/polymer-phase-separation|聚合物]]封装施加单轴应变翻转，光伏效应证实面内铁电，铁弹开关可重定向铁电方向。

@@ -46,6 +46,12 @@ $$ \mathbf{P} \propto \mathbf{r}_{ij} \times (\mathbf{S}_i \times \mathbf{S}_j) 
 - [[../papers/fiebigEvolutionMultiferroics2016]]：讨论了螺旋磁序在非平衡态下的动态调控。
 - [[../papers/Goswami2011multiferroic]]
 - [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]
+- [[../papers/RecentAdvancesGrowth2025]] — Recent advances in growth, characterization, and application of two-dimensional multiferroic materials
+- [[../papers/cheongMultiferroicsMagneticTwist2007a]] — Multiferroics: a magnetic twist for ferroelectricity
+- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]] — Multiferroics: different routes to magnetoelectric coupling
+- [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films
+- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]] — Multiferroics: different routes to magnetoelectric coupling
+- [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
@@ -53,3 +59,9 @@ $$ \mathbf{P} \propto \mathbf{r}_{ij} \times (\mathbf{S}_i \times \mathbf{S}_j) 
 - [[../concepts/skyrmion|斯格明子]]（局域手性拓扑）
 - [[../concepts/multiferroicity|多铁性]]（宏观表现）
 - [[../entities/NbSe2|NbSe₂ / TMDs]]（可能存在的 CDW-自旋螺旋共存）
+
+## 🏷️ 专业名词别名
+
+- `spiral-magnetic-order`（concepts）
+- `spiral-magnetism`（concepts）
+- `spiral-spin-structure`（concepts）

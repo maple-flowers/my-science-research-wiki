@@ -97,9 +97,9 @@ Fei-Ting Huang, Seong Joon Lim, Sobhit Singh 等 et al.，2019，Nature Communic
 ## 💡 一句话
 利用原位低温 TEM/STEM 与 STM 结合第一性原理计算，首次在极性 Weyl 半金属 MoTe₂ 中实验揭示 Td↑/Td↓ 极性畴壁与 Td/1T′ 相畴壁（后者自组装为沿 c 轴的类超晶格），演示电子束可逆操控极性畴壁，并在相畴壁处探测到可能对应高阶拓扑铰链态的增强电导。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2D-materials]]、[[../concepts/topological-defects]]、[[../concepts/polarization-switching]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/ferroelasticity]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/multiferroicity]]、[[../concepts/weyl-semimetal]]、[[../concepts/higher-order-topology]]、[[../concepts/polar-metal]]、[[../concepts/ferroelectricity]]、[[../concepts/hinge-state]]、[[../concepts/fermi-arc]]、[[../entities/PHONOPY]]、[[../concepts/electron-beam-manipulation]]
+  - 概念 [[../concepts/2D-materials]]、[[../concepts/topological-defects]]、[[../concepts/polarization-switching]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/ferroelasticity]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/multiferroicity]]、[[../concepts/weyl-semimetal]]、[[../concepts/high-order-topology]]、[[../concepts/polar-metal]]、[[../concepts/ferroelectricity]]、[[../concepts/hinge-state]]、[[../concepts/fermi-arc]]、[[../entities/PHONOPY]]、[[../concepts/electron-beam-manipulation]]
   - 实体 [[../entities/TMDs]]、[[../entities/WTe2]]、[[../entities/VASP]]、[[../concepts/domain-wall]]、[[../entities/MoTe2]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/domain-walls]]
+  - 图表 [[../figures/crystal-structures]]、[[../concepts/domain-wall]]
   - 年度 [[../write/2019]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]、[[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/huangPolarPhaseDomain2019]]
@@ -150,7 +150,7 @@ Fei-Ting Huang, Seong Joon Lim, Sobhit Singh 等 et al.，2019，Nature Communic
   - topologically identical vs distinct interface / 拓扑等同与拓扑相异界面
   - [[../concepts/potential-energy-surface|potential-energy-surface]]
 ## ✏️ 可写入 Wiki 的要点
-  1. MoTe₂ 室温 1T′ 相为单斜 P2₁/m（#11），约 260 K 发生[[../concepts/first-order-phase-transition|一级相变]]转为正交极性 Td 相 Pmn2₁（#31）；Td 是同时具有超导、极性、II 型 Weyl [[../concepts/half-metal|半金属]]的罕见体系，1T′ 是非极性高阶拓扑相（一维铰链导电）。
+  1. MoTe₂ 室温 1T′ 相为单斜 P2₁/m（#11），约 260 K 发生[[../concepts/first-order-phase-transition|一级相变]]转为正交极性 Td 相 Pmn2₁（#31）；Td 是同时具有超导、极性、II 型 Weyl [[../concepts/half-metallicity]]的罕见体系，1T′ 是非极性高阶拓扑相（一维铰链导电）。
   2. 结构统一描述：层内 Mo 偏离中心形成沿 a 轴锯齿链，Te 八面体畸变为 P/M 两种取向；层间剪切记为 +/−。1T′-I=+M+P+、1T′-II=−M−P−（上下层间剪切同向，保留反演中心），Td↑=+M−P+、Td↓=−M+P−（上下层间剪切反向，破坏反演并产生沿 c 轴极化）。
   3. 室温 1T′ 孪晶壁由于滑移反射自然嵌入一个 Td 单层单元（−M+），即孪晶壁本身就是 Td 相成核点；降温时 Td 并非从孪晶壁外延生长，而是在 1T′ 畴内部以薄板状大量形核。
   4. 80 K 下 Td 与 1T′ 沿 c 轴形成准周期 −(Td)ₘ(1T′)ₙ− 类[[../concepts/superlattice|超晶格]]，最薄周期约 4 nm（约 6 个原子层），共存结构统一由空间群 Pm（#6，1T′ 与 Td 的共同子群）描述；相共存归因于机械约束对层间滑移的恢复力。

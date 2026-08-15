@@ -43,5 +43,5 @@ updated: 2026-08
 
 - [[../concepts/photoluminescence|光致发光]]
 - [[../concepts/tict-mechanism|TICT 机制]]
-- [[../concepts/locally-excited-state|局域激发态 (LE)]]
+- [[../concepts/local-excited-state]]
 - [[../entities/dicyanostilbene-1a|二氰基二苯乙烯 (1a)]]

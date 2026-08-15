@@ -70,9 +70,9 @@ G. Kresse 与 J. Hafner，1994-05-15，Physical Review B 49(20), 14251–14269�
   - 主题 [[../topics/材料模拟计算设计]]
   - 相关论文 [[../../raw/note/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994]]
 ## 🆕 新概念/实体建议
-  - [[../concepts/ab-initio-molecular-dynamics|ab-initio-molecular-dynamics]]（AIMD，从头算分子动力学；从电子基态实时算力的 MD，本文是 Born-Oppenheimer MD 路线的奠基性工作之一）
+  - [[../concepts/aimd]]（AIMD，从头算分子动力学；从电子基态实时算力的 MD，本文是 Born-Oppenheimer MD 路线的奠基性工作之一）
   - [[../concepts/born-oppenheimer-md|born-oppenheimer-md]]（BO-MD；与 Car-Parrinello MD 并列的两条 AIMD 主路线，本文是其在金属体系上的标志性实现）
-  - [[../concepts/car-parrinello-method|car-parrinello-method]]（CP 方法；与本文方法对照的"同时演化电子-离子"路线，在金属中存在非绝热难题）
+  - [[../concepts/Car-Parrinello]]（CP 方法；与本文方法对照的"同时演化电子-离子"路线，在金属中存在非绝热难题）
   - [[../concepts/finite-temperature-dft|finite-temperature-dft]]（Mermin 有限温度 DFT；用分数占据/高斯展宽稳定金属电子结构，自由能梯度等于 Hellmann-Feynman 力）
   - [[../concepts/amorphous-semiconductor|amorphous-semiconductor]]（非晶半导体；四配位 sp³ 共价网络、短程有序长程无序，区别于液态金属高配位结构）
   - [[../concepts/dangling-bond-floating-bond|dangling-bond-floating-bond]]（悬空键 T3 / 浮动键 T5 缺陷对；非晶四面体网络中的两类特征配位缺陷及其与 EPR 信号的争议）

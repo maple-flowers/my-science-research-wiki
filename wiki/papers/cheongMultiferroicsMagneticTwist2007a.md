@@ -83,7 +83,7 @@ Sang-Wook Cheong & Maxim Mostovoy，2007，*Nature Materials* 6(1), 13–20，DO
   - 概念 [[../concepts/berry-phase]]（电极化的现代理论背景，文中讨论 P 作为序参量）
   - 概念 [[../concepts/magnetic-frustration|磁阻挫]]
   - 概念 [[../concepts/improper-ferroelectricity|非本征铁电性]]
-  - 概念 [[../concepts/spiral-magnetic-order|螺旋磁序]]
+  - 概念 [[../concepts/spin-spiral]]
   - 概念 [[../concepts/inverse-dzyaloshinskii-moriya|逆 Dzyaloshinskii–Moriya 相互作用 / 自旋流机制]]
   - 概念 [[../concepts/exchange-striction|交换伸缩]]
   - 概念 [[../concepts/electromagnon|电磁振子]]
@@ -163,7 +163,7 @@ Sang-Wook Cheong & Maxim Mostovoy，2007，*Nature Materials* 6(1), 13–20，DO
     - 多铁性材料 multiferroics
     - 本征/非本征铁电性 proper / improper ferroelectricity
     - [[../concepts/magnetic-frustration|磁阻挫 magnetic frustration]]
-    - [[../concepts/spiral-magnetic-order|螺旋磁序 spiral magnetic order]]
+    - [[../concepts/spin-spiral]]
     - [[../concepts/inverse-dzyaloshinskii-moriya|逆 Dzyaloshinskii–Moriya 相互作用 / 自旋流机制 inverse DM interaction / spin-current mechanism]]
     - [[../concepts/exchange-striction|交换伸缩 exchange striction]]
     - 极化翻转 polarization flop（90°）/ reversal（180°）
@@ -175,7 +175,7 @@ Sang-Wook Cheong & Maxim Mostovoy，2007，*Nature Materials* 6(1), 13–20，DO
   2. **[[../concepts/improper-ferroelectricity|非本征铁电性]]分类（表1）**：几何铁电体（六方 RMnO₃，R=Ho–Lu,Y；K₂SeO₄）、电子铁电体（LuFe₂O₄，Fe 平均价 +2.5，低温下双层 Fe²⁺:Fe³⁺ 呈 2:1 与 1:2 交替产生层间极化）、磁性铁电体（正交 RMnO₃、RMn₂O₅、CoCr₂O₄）。
   3. **对称性论证（公式1）**：P 在 r→–r 下变号、在 t→–t 下不变；M 反之。静态均匀 M 与 P 间只允许 –P²M² 四阶项（不足以克服极化畸变能 +P²）；当 M 空间变化时，三阶项 P·[(M·∇)M – M(∇·M)] 被允许，对 P 线性，任意弱耦合也能在适当磁序出现时诱导极化。
   4. **自旋链模型与阻挫判据**：最近邻铁磁 J<0、次近邻反铁磁 J′>0 的一维链，当 J′/|J|>1/4 时海森堡基态为螺旋态 S_n = S[e₁cosQx_n + e₂sinQx_n]，cos(Q/2)=–J′/(4J)；伊辛极限下（J′/|J|>1/2）为 ↑↑↓↓ 共线基态。[[../concepts/magnetic-frustration|磁阻挫]]的实验判据为 |T_CW| ≫ T_N，如 YMn₂O₅ 的 T_CW≈250 K 而 T₁≈45 K（比值约 5.5）。
-  5. **P ∥ e₃ × Q（公式3）**：[[../concepts/spiral-magnetic-order|螺旋磁序]]由波矢 Q 与自旋旋转轴 e₃=e₁×e₂ 表征，诱导极化同时垂直于二者。该定则定量解释 TbMnO₃ 零场下 Q∥b、e₃∥a（文中按 Mn 自旋描述）给出 P∥c，以及 H∥a (~5 T) [[../concepts/spin-flop|自旋翻转]]后 e₃∥c、P 转至 a 轴的 90° polarization flop；正弦[[../concepts/spin-density-wave|自旋密度波]] S_n∝cosQx_n 在反演下不变，故为顺电态，这也是铁电转变温度略低于首个磁相变温度的原因。
+  5. **P ∥ e₃ × Q（公式3）**：[[../concepts/spin-spiral]]由波矢 Q 与自旋旋转轴 e₃=e₁×e₂ 表征，诱导极化同时垂直于二者。该定则定量解释 TbMnO₃ 零场下 Q∥b、e₃∥a（文中按 Mn 自旋描述）给出 P∥c，以及 H∥a (~5 T) [[../concepts/spin-flop|自旋翻转]]后 e₃∥c、P 转至 a 轴的 90° polarization flop；正弦[[../concepts/spin-density-wave|自旋密度波]] S_n∝cosQx_n 在反演下不变，故为顺电态，这也是铁电转变温度略低于首个磁相变温度的原因。
   6. **逆 DM / 自旋流微观机制（图5）**：Dzyaloshinskii 矢量 D_{n,n+1} ∝ x × r_{n,n+1}（x 为配体氧偏离 M–M 连线的位移）；DM 能 D·(S_n×S_{n+1}) 随 x 增大而降低，螺旋序中所有相邻 S_n×S_{n+1} 同向，等效于把所有负氧离子推向同一方向产生宏观 P。等价表述为自旋流 j_{n,n+1} ∝ S_n×S_{n+1}，键偶极 P_{n,n+1} ∝ r_{n,n+1}×j_{n,n+1}。
   7. **[[../concepts/exchange-striction|交换伸缩]]机制（RMn₂O₅，图6c）**：Mn³⁺(S=2，氧金字塔) 与 Mn⁴⁺(S=3/2，氧八面体) 构成五自旋环 Mn⁴⁺–Mn³⁺–Mn³⁺–Mn⁴⁺–Mn³⁺，奇数环导致阻挫；公度相中沿 a 轴形成 AFM 锯齿链，跨链 Mn³⁺–Mn⁴⁺ 对一半反平行、一半平行，海森堡交换使反平行对键缩短、平行对键拉长，非对称畸变破缺反演对称并产生沿 b 轴的 P。该机制由海森堡交换（而非弱 DM）驱动，故潜在极化更大；朗道耦合形式为 P(L₁²–L₂²)，L₁、L₂ 为两种 ↑↑↓↓ 序。
   8. **标志性实验数据**：TbMnO₃ 中铁电性与螺旋序在 ~28 K 同步出现；~5 T 场下极化矢量旋转 90°；DyMnO₃ 在 ~5 T 窄场范围内介电常数增长约 500%（巨磁介电/colossal magnetodielectric effect）；TbMn₂O₅ 中脉冲磁场可高度可逆地实现 180° [[../concepts/polarization-switching|极化翻转]]（+P_b ↔ –P_b，约 ±40 nC/cm²），显示非易失存储潜力；磁致电铁体的极化值约 10⁻² μC/cm² 量级，比传统铁电体（10⁰–10² μC/cm²）小 2–3 个数量级，但磁场可调性空前。

@@ -89,7 +89,7 @@ Nafiseh Tobeiha, Nafiseh Memarian, Fatemeh Ostovari，2025年，*Scientific Repo
   - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-6-humidity-sensor]]
   - 图表 [[../figures/vibrational-spectra]]、[[../figures/optical-spectra]]、[[../figures/electronic-devices]]
-  - 概念 [[../concepts/p-type-semiconductor]]、[[../concepts/photoconductivity]]、[[../concepts/kubelka-munk-theory]]、[[../concepts/optical-bandgap]]
+  - 概念 [[../concepts/p-type-semiconductor]]、[[../concepts/photoconductivity]]、[[../concepts/kubelka-munk-theory]]、[[../concepts/optical-band-gap]]
   - 实体 [[../entities/graphene-oxide]]、[[../entities/g-go-nanosheets]]
   - 相关论文 [[../../raw/note/Tobeiha2025optical]]
   - 实体 [[../entities/graphene]]

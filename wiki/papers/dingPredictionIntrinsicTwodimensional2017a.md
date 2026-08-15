@@ -96,7 +96,7 @@ Ding, Zhu, Wang, Gao, Xiao, Gu, Zhang & Zhu，2017，Nature Communications 8:149
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/2d-materials]]、[[../concepts/berry-phase]]、[[../concepts/polarization-switching]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/schottky-barrier|肖特基势垒]]、[[../concepts/in-plane-out-of-plane-coupling|面内-面外极化耦合]]、[[../concepts/quintuple-layer|五元层(QL)]]
   - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/TMDs]]、[[../entities/SnTe]]、[[../entities/PbTiO3]]、[[../entities/graphene|石墨烯]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/domain-walls]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../concepts/domain-wall]]
   - 年度 [[../write/2015-2019|2017]]
   - 概念 [[../concepts/vdW-heterostructure]]
   - 实体 [[../entities/WSe2]]
@@ -148,7 +148,7 @@ Ding, Zhu, Wang, Gao, Xiao, Gu, Zhang & Zhu，2017，Nature Communications 8:149
 论文按"结构搜索 → 铁电本质 → 反转动力学 → 外电场调控 → 畴壁运动 → 异质结器件 → 家族推广"的递进逻辑展开，每一步都用能量定量判据（总能差、活化能垒、声子虚频、极化值）支撑结论。值得复用的术语：
   - [[../concepts/quintuple-layer|**quintuple layer]] (QL)** / 五元层
   - [[../concepts/out-of-plane-polarization|**out-of-plane vs in-plane polarization** / 面外极化与面内极化]]
-  - [[../concepts/depolarizing-field|**depolarizing field** / 退极化场]]
+  - [[../concepts/depolarization-field]]
   - [[../concepts/concerted-motion|**concerted motion** / 协同运动]]（反转机制）
   - **activation barrier** / 活化能垒
   - [[../concepts/schottky-barrier|**Schottky barrier height** / 肖特基势垒高度]]

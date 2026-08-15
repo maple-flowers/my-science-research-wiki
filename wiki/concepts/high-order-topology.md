@@ -39,6 +39,7 @@ updated: 2026-08
 
 - [[../papers/hanPolarTopologicalMaterials2025]]：极性材料中的复杂拓扑相和多极矩物理。
 - [[../papers/pedramraziManipulatingTopologicalDomain2019]]：一维畴界处的局域化性质提供了类似高阶拓扑的局部边界态物理。
+- [[../papers/huangPolarPhaseDomain2019]] — Polar and phase domain walls with conducting interfacial states in a Weyl semimetal MoTe2
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
@@ -46,3 +47,7 @@ updated: 2026-08
 - [[../concepts/hinge-state|铰链态]]（三维二阶 TI 的边界特征）
 - [[../concepts/bulk-boundary-correspondence|体-边界对应关系]]（高阶拓扑将其进行了推广）
 - [[../entities/Bi4Br4|Bi₄Br₄]]（被预言和实验验证的高阶拓扑绝缘体材料）
+
+## 🏷️ 专业名词别名
+
+- `higher-order-topology`（concepts）

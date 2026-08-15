@@ -101,11 +101,11 @@ Maxim Mostovoy，2024，npj Spintronics 2, 18，DOI [10.1038/s44306-024-00021-8]
   - 实体 [[../entities/TTF-BA]]
 
 ## 🆕 新概念/实体建议
-  - [[../concepts/inverse-dm-interaction|inverse-dm-interaction]]（逆 Dzyaloshinskii–Moriya 相互作用）：非共线自旋 S_i×S_j 通过 SOC 驱动配体位移产生键偶极 d_ij ∝ r̂_ij × (S_i×S_j)，是螺旋磁体铁电性的核心机制。
+  - [[../concepts/inverse-dzyaloshinskii-moriya]]（逆 Dzyaloshinskii–Moriya 相互作用）：非共线自旋 S_i×S_j 通过 SOC 驱动配体位移产生键偶极 d_ij ∝ r̂_ij × (S_i×S_j)，是螺旋磁体铁电性的核心机制。
   - [[../concepts/magnetic-frustration|magnetic-frustration]]（磁阻挫）：竞争交换或几何阻挫产生近简并磁构型流形，既稳定反演破缺磁序，又使磁态对外场极"软"，是巨磁电响应的关键。
   - [[../concepts/hybrid-improper-ferroelectricity|hybrid-improper-ferroelectricity]]（杂化非本征铁电性）：两个有限波矢晶格畸变（如氧八面体倾斜 Δ₁ 与旋转 Δ₂）的乘积 Δ₁Δ₂ 耦合到均匀电场产生极化，并可同时控制弱铁磁矩。
   - [[../concepts/exchange-striction|exchange-striction]]（交换伸缩）：海森堡交换常数对键长/电场敏感，d_ij ∝ (∂J/∂E)(S_i·S_j)，在共线非等价键上产生极化，强度可达 ∼1–2 μC/cm²，是所有机制中最强的。
-  - [[../concepts/spiral-magnetism|spiral-magnetism]]（螺旋磁性）：cycloidal/helical 自旋调制，cos(q·x) 偶、sin(q·x) 奇地混合宇称；P ∝ q×e₃（摆线型）或 P ∥ q（螺旋型，低对称晶体）。
+  - [[../concepts/spin-spiral]]（螺旋磁性）：cycloidal/helical 自旋调制，cos(q·x) 偶、sin(q·x) 奇地混合宇称；P ∝ q×e₃（摆线型）或 P ∥ q（螺旋型，低对称晶体）。
   - [[../concepts/electromagnon|electromagnon]]（电磁振子）：被光电场分量激发的磁振子；非共线自旋中对称交换伸缩使 d_ij(t) ∝ ⟨S_i⟩·δS_j+δS_i·⟨S_j⟩ 非零，导致非互易定向二向色性。
   - [[../concepts/skyrmion|skyrmion]]（磁斯格明子）：拓扑保护的弦状自旋缺陷；多铁绝缘体中逆 DM 机制赋予其面外电偶极矩，电场可稳定/产生/驱动斯格明子并激发螺旋度模式。
   - [[../concepts/spin-peierls|spin-peierls]]（自旋-派尔斯有序）：准一维自旋链中二聚化与自旋单态形成，配合在位电荷交替可打破反演并诱导极化（TTF-BA 案例）。
@@ -204,7 +204,7 @@ Maxim Mostovoy，2024，npj Spintronics 2, 18，DOI [10.1038/s44306-024-00021-8]
   - 对称交换伸缩 / symmetric exchange striction
   - 磁阻挫 [[../concepts/magnetic-frustration|磁阻挫]] / magnetic frustration
   - 杂化非本征铁电性 [[../concepts/hybrid-improper-ferroelectricity|杂化非本征铁电性]] / hybrid improper ferroelectricity
-  - 螺旋磁序 [[../concepts/spiral-magnetic-order|螺旋磁序]]（摆线型/螺旋型）/ spiral magnetic order (cycloidal / helical)
+  - 螺旋磁序 [[../concepts/spin-spiral]]（摆线型/螺旋型）/ spiral magnetic order (cycloidal / helical)
   - 复合畴壁 / composite (ferroelectric–ferromagnetic) domain wall
   - 电磁振子 [[../concepts/electromagnon|电磁振子]] / electromagnon
   - 斯格明子螺旋度 / skyrmion helicity
@@ -212,7 +212,7 @@ Maxim Mostovoy，2024，npj Spintronics 2, 18，DOI [10.1038/s44306-024-00021-8]
 ## ✏️ 可写入 Wiki 的要点
   1. [[../concepts/multiferroicity|多铁性]]同时打破空间反演 I 与时间反演 T。线性磁电效应（LME）要求磁[[../concepts/order-parameter|序参量]] L 同时是 I、T 的奇函数且平移不变（q=0），自由能项 f_me = g_ij L_i E_i H_j，给出 P_i = α_ij H_j、M_i = α_ji E_j（Cr₂O₃ 为代表）。
   2. 第 II 类多铁（磁致铁电）要求多分量磁序或多个独立磁序：E 相 ↑↑↓↓ 用二维表示 (L₁,L₂)，耦合 f_me = g_a E_a(L₁²−L₂²)；两个独立反宇称磁序 L₊L₋ 给出 P_i = g_i L₊L₋（GdFeO₃ 中 Fe 序 661 K、Gd 序 2.5 K）。
-  3. [[../concepts/spiral-magnetic-order|螺旋磁序]] S(x)=A₁e₁cos(q·x)+A₂e₂sin(q·x) 中 cos 项偶、sin 项奇，自然混合宇称；逆 DM 机制（Lifshitz 不变量 M_i∂_jM_j 耦合 E）给出 P ∝ q×e₃。摆线型螺旋（e₃⊥q）可在任意对称性晶体中诱导极化，解释了螺旋多铁的普遍性；低对称晶体中螺旋型（e₃∥q）也可诱导 P ∥ q（CuFeO₂、MnI₂）。
+  3. [[../concepts/spin-spiral]] S(x)=A₁e₁cos(q·x)+A₂e₂sin(q·x) 中 cos 项偶、sin 项奇，自然混合宇称；逆 DM 机制（Lifshitz 不变量 M_i∂_jM_j 耦合 E）给出 P ∝ q×e₃。摆线型螺旋（e₃⊥q）可在任意对称性晶体中诱导极化，解释了螺旋多铁的普遍性；低对称晶体中螺旋型（e₃∥q）也可诱导 P ∥ q（CuFeO₂、MnI₂）。
   4. 微观统一公式 P = −(1/V)⟨∂H/∂E⟩ 把磁致电偶极分解为三部分：(a) 对称[[../concepts/exchange-striction|交换伸缩]] d_ij = (∂J/∂E)(S_i·S_j)，源于海森堡交换（最强），共线 E 相中可达 1–2 μC/cm²（YMnO₃ 薄膜、加压 TbMnO₃）；(b) 逆 DM d_ij ∝ r̂_ij×(S_i×S_j)，源于 SOC，螺旋磁体中主导，最大约 0.3 μC/cm²（DyMnO₃、CaMn₇O₁₂）；(c) 单离子[[../concepts/migdal-eliashberg-theory|各向异性]]/g 张量机制 d_i ∝ (∂K/∂E)⟨S_i²⟩，在 Fe₂Mo₃O₈、LiFePO₄ 中贡献大。
   5. [[../concepts/magnetic-frustration|磁阻挫]]有双重作用：既稳定反演破缺的螺旋/↑↑↓↓/之字形磁序，又产生近简并低能磁构型流形使磁态极"软"。Y 型六角铁氧体锥形螺旋态仅需 ∼200 Oe 即可旋转 M∥e₃ 与 P，产生创纪录磁电响应并实现电压控磁；YBaCuFeO₅ 中 Cu/Fe 无序把螺旋态稳定到 ∼400 K。
   6. 第 I 类多铁突破"d⁰ vs 未满 d"互斥的途径：(a) 应变/化学取代抑制竞争失稳使磁性 Mn 离子偏心位移（Sr₁₋ₓBaₓMnO₃）；(b) 磁性与非磁性过渡金属共存（BiFeO₃，P ∼ 100 μC/cm²）；(c) 非本征铁电（h-RMnO₃ [[../concepts/trimerization|三聚化]]）；(d) [[../concepts/hybrid-improper-ferroelectricity|杂化非本征铁电]]（Ca₃Mn₂O₇）：f_int = gΔ₁Δ₂E 产生极化，f_wfm = λΔ₁LH 产生弱铁磁矩 M = λΔ₁L，电场翻转 Δ₁ 可同时翻转 P 与 M。挑战是这些材料电导率偏高导致难以电翻转。

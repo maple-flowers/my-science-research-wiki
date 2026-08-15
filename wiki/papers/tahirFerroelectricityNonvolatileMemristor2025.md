@@ -94,7 +94,7 @@ Rabia Tahir, Sheryar Abid, Kubra Sattar, Arooma Syed, Iftikhar Hussain, Kaili Zh
   - 概念 [[../concepts/memristor]]（两端电阻随历史电荷改变的非易失器件）
   - 概念 [[../concepts/oxygen-vacancy]]（VCM 阻变主载流子与漏电来源）
   - 概念 [[../concepts/pe-hysteresis-loop]]（P-E 电滞回线，Pr/Ec/Pmax）
-  - 概念 [[../concepts/pfm-piezoresponse-force-microscopy]]（纳米尺度铁电畴成像/翻转）
+  - 概念 [[../concepts/piezoresponse-force-microscopy]]（纳米尺度铁电畴成像/翻转）
   - 概念 [[../concepts/resistive-switching]]（HRS/LRS 可逆转换）
   - 概念 [[../concepts/space-charge-limited-current]]（SCLC，陷阱填充导电模型）
   - 概念 [[../concepts/valence-change-mechanism]]（VCM，氧空位迁移形成导电丝）
@@ -118,7 +118,7 @@ Rabia Tahir, Sheryar Abid, Kubra Sattar, Arooma Syed, Iftikhar Hussain, Kaili Zh
   - 相关论文 [[../../raw/note/tahirFerroelectricityNonvolatileMemristor2025]]
 
 ## 🆕 新概念/实体建议
-  - [[../entities/MAX-phase|MAX-phase]]（概念）—— Mₙ₊₁AXₙ 三元层状化合物，MXene 的母体。
+  - [[../entities/MAX-phase]]（概念）—— Mₙ₊₁AXₙ 三元层状化合物，MXene 的母体。
 
 ## 📊 关键图表
 注：raw/figures 目录下仅有 manifest.json，未提供 fig_*.png / tab_*.png 实际图像文件，故本节以文字描述呈现各图与表格内容，未伪造图片路径。以下描述综合自原始阅读笔记对图1–图8、表1–表3 的深度解析。
@@ -209,7 +209,7 @@ Rabia Tahir, Sheryar Abid, Kubra Sattar, Arooma Syed, Iftikhar Hussain, Kaili Zh
     - Domain wall pinning / leakage current（畴壁钉扎/漏电流）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. Nb₂CTₓ MXene [[../concepts/free-standing-film|自支撑薄膜]]（约 30 μm 厚，由 [[../entities/Nb2AlC-MAX|Nb₂AlC [[../concepts/max-phase|MAX 相]]]]经 48–49% HF 55 °C 刻蚀 72 h、25% TMAOH 55 °C 插层 5 h 制得）首次被实验证实具有[[../concepts/ferroelectricity|铁电性]]；XRD (002) 峰由 12.7° 移至 6.5°，c-LP 由 13.94 Å 增至 22.96 Å，d 间距由 6.97 Å 增至 11.48 Å 以上。
+  1. Nb₂CTₓ MXene [[../concepts/free-standing-film|自支撑薄膜]]（约 30 μm 厚，由 [[../entities/Nb2AlC-MAX|Nb₂AlC [[../entities/MAX-phase]]]]经 48–49% HF 55 °C 刻蚀 72 h、25% TMAOH 55 °C 插层 5 h 制得）首次被实验证实具有[[../concepts/ferroelectricity|铁电性]]；XRD (002) 峰由 12.7° 移至 6.5°，c-LP 由 13.94 Å 增至 22.96 Å，d 间距由 6.97 Å 增至 11.48 Å 以上。
   2. 1000 Hz、+165 kV/cm 下 Pr = 5.12 μC/cm²、Pmax = 19.85 μC/cm²，是当时自支撑 MXene 薄膜报道的最高[[../concepts/remanent-polarization|剩余极化]]；100 Hz 下因畴壁受缺陷黏滞阻力而回线开口更明显。电压 1→500 V 范围内 Pr 由 1.2×10⁻⁵ 单调增至 5.12 μC/cm²。
   3. 垂直 PFM 在 ±10 V box-in-box 中显示强振幅对比与锐利 180° 相位反转，横向 PFM 信号弱且斑驳，证明**面外极化主导**；SS-PFM 在 ±100 V 下蝴蝶振幅与相位翻转更饱和。
   4. 铁电起源被归因于：(a) HF 刻蚀引入的 −F 端基与 Nb–O 键协同，类比 NbOX₂（X=卤素）家族中卤素诱导 Nb 偏心位移、[[../concepts/peierls-distortion|Peierls 畸变]]导致键长不等而产生自发极化；(b) 空气慢氧化形成的表面 Nb₂O₅（Nb⁵⁺）与亚氧化物（Nb³⁺/Nb⁴⁺）可能贡献或增强铁电。作者承认缺乏原子分辨 TEM 与 DFT 直接证据。

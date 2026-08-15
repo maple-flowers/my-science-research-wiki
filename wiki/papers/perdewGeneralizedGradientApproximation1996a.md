@@ -81,7 +81,7 @@ Perdew、Burke、Ernzerhof，1996，Physical Review Letters 77(18), 3865–3868�
 ## 💡 一句话
 从七个能量上关键的物理极限条件出发，推导出无经验参数、形式简洁的 PBE 广义梯度近似泛函，在保持与 PW91 同等精度的同时修正了其六大理论缺陷，成为后世 DFT 计算最广泛使用的标准泛函。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/density-functional-theory]]、[[../concepts/exchange-correlation-functional|交换-关联泛函]]、[[../concepts/generalized-gradient-approximation|广义梯度近似]]、[[../concepts/local-spin-density-approximation|局域自旋密度近似]]、[[../concepts/pbe-functional|PBE 泛函]]、[[../concepts/pw91-functional|PW91 泛函]]、[[../concepts/enhancement-factor|增强因子]]、[[../concepts/lieb-oxford-bound|Lieb-Oxford 界]]、[[../concepts/linear-response|线性响应]]、[[../concepts/uniform-electron-gas|均匀电子气]]、[[../concepts/self-interaction-error|自相互作用误差]]、[[../concepts/pseudopotential|赝势]]
+  - 概念 [[../concepts/density-functional-theory]]、[[../concepts/exchange-correlation-functional|交换-关联泛函]]、[[../concepts/generalized-gradient-approximation|广义梯度近似]]、[[../concepts/local-spin-density-approximation|局域自旋密度近似]]、[[../concepts/PBE-functional]]、[[../concepts/pw91-functional|PW91 泛函]]、[[../concepts/enhancement-factor|增强因子]]、[[../concepts/lieb-oxford-bound|Lieb-Oxford 界]]、[[../concepts/linear-response|线性响应]]、[[../concepts/uniform-electron-gas|均匀电子气]]、[[../concepts/self-interaction-error|自相互作用误差]]、[[../concepts/pseudopotential|赝势]]
   - 实体 [[../entities/VASP]]
   - 图表 [[../figures/mathematical-models]]、[[../figures/crystal-structures|晶体结构与原子排布]]、[[../figures/electronic-bands|电子能带与电子态]]、[[../figures/vibrational-spectra|振动能谱与声子谱]]
   - 年度 [[../write/1945-1999|1996]]
@@ -127,7 +127,7 @@ Perdew、Burke、Ernzerhof，1996，Physical Review Letters 77(18), 3865–3868�
 ## 📝 组织与用词
 文章采用"立靶—重构—验证"结构：先系统列出 PW91 的六大问题，再分别用三个物理极限条件构造关联能梯度项 H、用四个条件构造交换增强因子 F_X，最后用图1（定性）和表I（定量）验证。核心论证哲学是"奥卡姆剃刀"——只满足能量上重要的精确条件，牺牲形式上正确但能量上无关紧要的条件。值得复用的术语：
   - [[../concepts/correlation-energy|交换-关联能 exchange-correlation energy]] (E_XC)
-  - [[../concepts/generalized-gradient-approximation|广义梯度近似 generalized gradient approximation]] ([[../concepts/gga-functional|GGA]])
+  - [[../concepts/generalized-gradient-approximation|广义梯度近似 generalized gradient approximation]] ([[../concepts/generalized-gradient-approximation]])
   - [[../concepts/local-spin-density-approximation|局域自旋密度近似 local spin density]] (LSD/LDA)
   - 增强因子 enhancement factor F_X/F_XC
   - [[../concepts/linear-response|线性响应 linear response]]
@@ -137,7 +137,7 @@ Perdew、Burke、Ernzerhof，1996，Physical Review Letters 77(18), 3865–3868�
   - 原子化能 atomization energy
   - 无经验参数 parameter-free / nonempirical
 ## ✏️ 可写入 Wiki 的要点
-  1. [[../concepts/pbe-functional|PBE 泛函]]形式：E^GGA_X=∫d³r n ε^unif_X(n) F_X(s)，其中 F_X(s)=1+κ−κ/(1+μs²/κ)，κ=0.804，μ=β(π²/3)≈0.21951；F_X(0)=1，s→∞ 时趋于 1+κ=1.804（[[../concepts/lieb-oxford-bound|Lieb-Oxford 界]]最紧限）。
+  1. [[../concepts/PBE-functional]]形式：E^GGA_X=∫d³r n ε^unif_X(n) F_X(s)，其中 F_X(s)=1+κ−κ/(1+μs²/κ)，κ=0.804，μ=β(π²/3)≈0.21951；F_X(0)=1，s→∞ 时趋于 1+κ=1.804（[[../concepts/lieb-oxford-bound|Lieb-Oxford 界]]最紧限）。
   2. [[../concepts/correlation-energy|关联能]]梯度项 H 的简洁解析式（公式7）由三个极限条件唯一约束：t→0 缓慢变化极限 H→(e²/a₀)βφ³t²（β≈0.066725）；t→∞ 快速变化极限 H→−ε^unif_C 使关联消失；高密度均匀缩放极限 H→(e²/a₀)γφ³ln t²（γ≈0.031091）以抵消 ε^unif_C 的对数奇点。
   3. PBE 相对 PW91 修正的关键缺陷：(i) [[../concepts/uniform-electron-gas|均匀电子气]][[../concepts/linear-response|线性响应]]（条件 f，通过 μ=βπ²/3 使交换梯度系数与关联梯度系数精确抵消）；(ii) Levy 高密度均匀缩放下关联能趋于常数（条件 c）；(iii) 交换-关联势虚假振荡（参数无缝衔接，势更平滑，利于赝势构建）。
   4. PBE 所有非 LSD 参数均为基本物理常数，无经验拟合；κ=0.804 使 1+κ=1.804 恰好等于 Lieb-Oxford 界允许的最大值（最紧限选择），Becke 早期形式用经验值 κ=0.967、μ=0.235。

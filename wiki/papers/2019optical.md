@@ -102,7 +102,7 @@ Febrielviyanti, Harmadi, Dahyunir Dahlan, Yetria Rilda, Helmi Septaria Herlin，
 将聚合物光纤（POF, Autonics FD-620-10）中段包层剥离并浸渍涂覆 TiO2-SiO2 纳米复合亲水层，利用倏逝场强度调制实现相对湿度测量，确定最佳剥离长度 2 cm（R²=0.982，灵敏度 0.0376 V/%），并集成到基于 Arduino Uno 的测量系统中（平均误差 2.78%）。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/evanescent-wave|倏逝波]]、[[../concepts/optical-fiber-sensor|光纤传感器]]、[[../concepts/humidity-sensing|湿度传感]]、[[../concepts/intensity-modulation|光强调制]]、[[../concepts/dip-coating|浸渍提拉法]]
+  - 概念 [[../concepts/evanescent-field]]、[[../concepts/optical-fiber-sensor|光纤传感器]]、[[../concepts/humidity-sensing|湿度传感]]、[[../concepts/intensity-modulation|光强调制]]、[[../concepts/dip-coating|浸渍提拉法]]
   - 实体 [[../entities/TiO2-SiO2|TiO2-SiO2纳米复合材料]]、[[../entities/polymer-optical-fiber|聚合物光纤（POF）]]
   - 图表 [[../figures/experimental-setups]]（图1-3 测量/系统框图）、[[../figures/mathematical-models]]（倏逝场公式 Ez=E0·exp(−z/dp)、穿透深度 dp、误差/精度公式）
   - 年度 [[../write/2015-2019|2019]]
@@ -165,7 +165,7 @@ Febrielviyanti, Harmadi, Dahyunir Dahlan, Yetria Rilda, Helmi Septaria Herlin，
 
 ## 📝 组织与用词
 文章按"引言（领域背景+前人工作：明胶/TiO2/PAH-SiO2/Al-ZnO）→ 材料与方法（材料/涂层制备/光纤涂覆/测量系统/光纤传感系统/湿度系统设计共6小节）→ 结果与讨论（电压-湿度表征/ADC-湿度校准/湿度测量测试）→ 结论"的标准实验论文结构组织。论证主线为"原理（倏逝波穿透深度受包层折射率调制）→ 制备（固相合成+浸涂）→ 参数扫描（1/2/3 cm 剥离长度）→ 系统集成（Arduino 校准）→ 精度验证（与标准湿度计比对）"。值得复用的术语：
-  - 倏逝波 / 消逝场（[[../concepts/evanescent-wave|evanescent wave]] / evanescent field）
+  - 倏逝波 / 消逝场（[[../concepts/evanescent-field]] / evanescent field）
   - 穿透深度（[[../concepts/penetration-depth|penetration depth]], dp）
   - 聚合物光纤（[[../entities/polymer-optical-fiber|polymer optical fiber]], POF）
   - 包层剥离（cladding stripping / exfoliation）
@@ -177,7 +177,7 @@ Febrielviyanti, Harmadi, Dahyunir Dahlan, Yetria Rilda, Helmi Septaria Herlin，
   - 相对湿度（[[../concepts/relative-humidity|relative humidity]], RH）
 
 ## ✏️ 可写入 Wiki 的要点
-  1. 传感机制：剥除 POF 包层后涂覆亲水 TiO2-SiO2 层，环境湿度变化改变涂层[[../concepts/refractive-index|折射率]] n_clad，由 dp=λ/(2nπ√(sin²θ−n²))（n=n_clad/n_core）调制[[../concepts/evanescent-wave|倏逝波]][[../concepts/penetration-depth|穿透深度]]，进而改变到达光电二极管的光强（原文公式3、4）。
+  1. 传感机制：剥除 POF 包层后涂覆亲水 TiO2-SiO2 层，环境湿度变化改变涂层[[../concepts/refractive-index|折射率]] n_clad，由 dp=λ/(2nπ√(sin²θ−n²))（n=n_clad/n_core）调制[[../concepts/evanescent-field]][[../concepts/penetration-depth|穿透深度]]，进而改变到达光电二极管的光强（原文公式3、4）。
   2. 光源为 638 nm 红色二极管激光器，探测器为光电二极管；光纤总长 21 cm（Autonics FD-620-10），剥离长度变量 1/2/3 cm。
   3. TiO2-SiO2 制备：1 g TiO2 + 1 g SiO2 + 2 g PEG6000 混合研磨，500 ℃ 加热 2-4 h 形成锐钛矿相（anatase，400-500 ℃ 合成；金红石 500-600 ℃；板钛矿 700 ℃）；取 0.3 g 成品 + 30 mL 超纯水搅拌 1 h、超声 30 min 制涂覆液。
   4. 涂覆工艺：光纤先在柠檬酸中交联 3 h 作粘结剂，再浸涂 5 min，50 ℃ 干燥 15 min。

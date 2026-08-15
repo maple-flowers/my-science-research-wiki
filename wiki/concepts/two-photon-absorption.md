@@ -29,7 +29,7 @@ TPA 最显著的物理特征是其**概率与入射光强度的平方成正比**
 ## 🧩 双光子吸收截面 (δ)
 
 双光子吸收截面（Two-Photon Absorption Cross Section）是衡量分子吸收两个光子能力大小的物理量，单位为 **GM** ($1 \text{ GM} = 10^{-50} \text{ cm}^4 \cdot \text{s} \cdot \text{photon}^{-1}$)。
-*   **分子设计**：具有 [[../concepts/donor-pi-acceptor|D-π-A]] 推拉电子结构的分子通常具有较大的 δ 值。在二苯乙烯骨架上引入强吸电子基团（如双氰基）能显著提升该数值。
+*   **分子设计**：具有 [[../concepts/d-pi-a-architecture]] 推拉电子结构的分子通常具有较大的 δ 值。在二苯乙烯骨架上引入强吸电子基团（如双氰基）能显著提升该数值。
 *   **典型数值**：高性能探针 P1 在非极性溶剂中的峰值 δ 可高达 5560–6670 GM [[../papers/Huang2019solvatochromic]]。
 
 ## 🔬 应用场景

@@ -20,7 +20,7 @@ updated: 2026-08
 
 ## 🏗️ 物理过程与三带模型
 
-在典型的 [[../concepts/donor-pi-acceptor|D-π-A]] 分子中，激发态演化通常涉及以下平衡：
+在典型的 [[../concepts/d-pi-a-architecture]] 分子中，激发态演化通常涉及以下平衡：
 $$ \text{LE (Locally Excited)} \rightleftharpoons \text{TICT (Twisted ICT)} $$
 1.  **LE 态**：平面构型，极性较小，发射波长较短（B 带），发光强度高。
 2.  **TICT 态**：扭转构型（通常给体平面与受体平面接近 $90^\circ$），电子云完全分离。由于轨道重叠极小，辐射跃迁被禁止，通常表现为**长波弱发光**（A 带）或完全猝灭。
@@ -41,11 +41,18 @@ TICT 态的形成对外部环境极其敏感，是构建多通道探针的物理
 - [[../papers/Huang2023two]]：分析了极性诱导的 TICT 态对荧光产率的压制效应。
 - [[../papers/Huang2019solvatochromic]]：展示了甘油粘度如何“冻结”分子内旋转并改变 TICT 演化。
 - [[../papers/H2017fluorescence]]：结合浓度依赖实验，确立了 TICT（分子内）与 Exciplex（分子间）的归属。
+- [[../papers/H2017fluorescence]] — Dicyanostilbene-based Two-photon Thermo-solvatochromic Fluorescence Probes with Two-photon Triple Fluorescence
+- [[../papers/Huang2019solvatochromic]] — Stilbene-Based Two-Photon Thermo-Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature
+- [[../papers/Huang2023two]] — Two Dicyanostilbene-Based Two-Photon Fluorescence Environmentally Sensitive Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/ict-mechanism|ICT 机制]]
-- [[../concepts/locally-excited-state|局域激发态 (LE)]]
+- [[../concepts/local-excited-state]]
 - [[../concepts/exciplex|激基复合物]]
 - [[../concepts/viscosity-sensing|粘度传感]]
 - [[../entities/dicyanostilbene-1a|二氰基二苯乙烯 (1a)]]
+
+## 🏷️ 专业名词别名
+
+- `twisted-intramolecular-charge-transfer`（concepts）

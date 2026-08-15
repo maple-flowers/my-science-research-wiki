@@ -151,5 +151,5 @@ Niu, Weng, Li, Guo, Wang, Han, Pan, Lin et al.，2021，*Advanced Science* 8(20)
   6. 褶皱起源：1T' 相低对称性（无旋转对称）和各向异性 W–Te 键导致沿不同晶向对应变的响应/容忍度不同，热扰动下应变集中于某一择优面释放；DFT 能量景观支持该机制。
   7. 1T'-WTe2 单胞低对称性产生 4 个不等价 Te 空位（site 1/2 × up/down）；统计（多个薄片、约 1000 nm²、P<0.05）表明无论哪种位点，Te 空位都优先聚集在弯曲的挤压侧（constrictive side），形貌诱导变形压倒了各向异性晶格键合的作用。
   8. DFT（PWmat，PBE，SG15 [[../concepts/norm-conserving-pseudopotential|模守恒赝势]]，50 Ryd 截断，DFT-D2 色散校正）通过固定 W 原子 z 坐标为正弦函数 Δz=d·sin(2πy/b) 构建弯曲超胞，证实挤压侧[[../concepts/vacancy-formation-energy|空位[[../concepts/formation-energy|形成能]]]]更低，且弯曲越大形成能越低；site 1 因 W–Te 键更近、对应变更敏感，形成能波动比 site 2 更剧烈。Te 空位形成能公式 E_f = E_Te + E(W32Te63) − 32 E(WTe2)。
-  9. 褶皱还调制电子结构：考虑 SOC 时 WTe2 由[[../concepts/half-metal|半金属]]变为半导体，褶皱使 SOC 带隙 from 平坦时 0.18 eV 增大到 0.22 eV，提示可通过褶皱形貌连续调控带隙。
+  9. 褶皱还调制电子结构：考虑 SOC 时 WTe2 由[[../concepts/half-metallicity]]变为半导体，褶皱使 SOC 带隙 from 平坦时 0.18 eV 增大到 0.22 eV，提示可通过褶皱形貌连续调控带隙。
   10. 晶界处仅当晶界应变方向在某一晶粒内垂直于择优晶面时才诱发该侧褶皱；部分氧化时连续褶皱被软化为同向（同面外方向）的阶梯状精细结构以释放局域应变，说明外来源（晶界、氧化团簇）的定向应变可各向异性地驱动/调制褶皱。

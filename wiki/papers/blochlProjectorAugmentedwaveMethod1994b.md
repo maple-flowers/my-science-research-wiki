@@ -102,8 +102,8 @@ P. E. Blöchl，1994，Physical Review B 50(24), 17953–17979，DOI: 10.1103/Ph
   - 实体 [[../entities/VASP]]
   - 实体 [[../entities/Wannier90]]（PAW 部分波形式天然适合构造 Wannier 轨道）
   - 年度 [[../write/1945-1999|1994]]
-  - 概念 [[../concepts/pulay-force]]、[[../concepts/lapw]]、[[../concepts/norm-conservation]]、[[../concepts/car-parrinello]]
-  - 实体 [[../entities/Fe2]]、[[../entities/Car-Parrinello]]、[[../entities/LMTO]]、[[../entities/MnFO3]]、[[../entities/LAPW]]
+  - 概念 [[../concepts/pulay-force]]、[[../concepts/LAPW]]、[[../concepts/norm-conservation]]、[[../concepts/Car-Parrinello]]
+  - 实体 [[../entities/Fe2]]、[[../concepts/Car-Parrinello]]、[[../entities/LMTO]]、[[../entities/MnFO3]]、[[../concepts/LAPW]]
   - 相关论文 [[../../raw/note/blochlProjectorAugmentedwaveMethod1994b]]
 ## 📊 关键图表
   - 图1：Mn 原子的全电子分波、赝分波与投影函数（s/p/d 通道）

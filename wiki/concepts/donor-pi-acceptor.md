@@ -1,4 +1,0 @@
-# donor-pi-acceptor
-
-- [[../papers/Huang2019solvatochromic]] — Stilbene-Based Two-Photon Thermo-Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature
-- [[../papers/WRZYSZCZYNSKI2010initiators]] — Two-photon initiators of polymerization

@@ -173,4 +173,4 @@ Joshua Hall, Niels Ehlen, Jan Berges, Erik van Loon, Camiel van Efferen, Cliffor
   7. TaS₂/Au(111) 无 CDW 的再解释：Shao 等指出由费米面变化估出的"掺杂"实为杂化导致的非线性带扭曲（赝掺杂）；本文用 Γ=30–90 meV、x=−0.326 至 −0.430 的范围把该体系置入相图无 CDW 区，说明主因是强 S–Au 杂化而非[[../concepts/charge-transfer|电荷转移]]；晶格弛豫可进一步稳定。
   8. 双层理论（图6）：自由未掺杂 BL 声子与 ML 几乎相同，仍倾向 3×3；仅 x=−0.1 掺杂不足以使 M 失稳超过 2/3 ΓM；再引入[[../concepts/interlayer-bias|层间偏压]] Δε₀=0.1 eV（一层在位能 +Δε₀/2、另一层 −Δε₀/2）可拉平失稳区并将 q_c 推向 M，从而解释 BL 中观测到的 2×2 CDW；自插层 Ta 原子（块体 TaS₂ 中已知）也可能提供额外电荷，两者谁主谁次仍属推测。
   9. 计算参数：Quantum ESPRESSO，PBE-GGA，PseudoDojo 模守恒 Vanderbilt 赝势，平面波截断 70 Ry，18×18 k / 6×6 q 网格，10 mRy Gaussian 展宽，SOC 与 DFT-D3 vdW 修正；ML/BL 真空层 15/25 Å，优化后 a=3.34/3.33 Å，BL 层间距 6.10 Å。
-  10. 更宏观的结论：[[../concepts/van-der-waals-heterostructure|vdW 异质结]]由于"全表面"特性，其电子相图是高维的——每个界面（2D 层之间、2D 层与 3D 衬底之间）都引入新的控制参数（掺杂、杂化、层间势），可作为异质结器件的调控旋钮；本文未触及 CDW–超导竞争、有限温度相图、栅压连续调控等问题，作者将其列为后续方向。
+  10. 更宏观的结论：[[../concepts/vdW-heterostructure]]由于"全表面"特性，其电子相图是高维的——每个界面（2D 层之间、2D 层与 3D 衬底之间）都引入新的控制参数（掺杂、杂化、层间势），可作为异质结器件的调控旋钮；本文未触及 CDW–超导竞争、有限温度相图、栅压连续调控等问题，作者将其列为后续方向。
