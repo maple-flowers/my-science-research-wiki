@@ -1,4 +1,4 @@
----
+﻿---
 tags: [entity, material, 2D, magnetism]
 title: 二碲化铬 (CrTe₂)
 type: entity
@@ -44,15 +44,15 @@ CrTe₂ 是一种备受关注的二维金属性铁磁材料，特别是在其 1T
 - [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]：引用 CrTe₂ 作为高性能室温二维磁体的代表。
 - [[../papers/chenFerromagneticNonmagnetic1T2022]]：研究了 1T' 相 TMD 中的 CDW 与磁性共存机制，涉及 CrTe₂ 类体系对比。
 - [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]：综述了新型二维铁磁体在多铁异质结中的集成。
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]：综述了层状与范德华二维材料中滑动铁电性的理论研究进展。
+- [[../papers/liMonolayerPuckeredPentagonal2022]]：预测了单层褶皱五边形 VTe₂ 作为具有多铁性耦合的二维铁磁半导体。
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]]：综述了二维范德华材料实现多铁性的挑战与机遇。
+- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]：报道了具有电压可控磁序的室温二维多铁金属。
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]]：在 MXene Hf₂MnC₂O₂/Sc₂CO₂ 多铁异质结中实现了非易失可开关的半金属性与磁性。
+- [[../papers/yuFerroelectricControlMagnetism2026]]：通过插层诱导对称性破缺实现铁电调控磁性及巨磁阻。
+- [[../papers/zhangNonvolatileControlTopological2025]]：在 CrInTe₂/In₂Se₃ 多铁异质结中实现了对拓扑磁性的非易失调控。
+- [[../papers/zhaoRealization2DMultiferroic2024]]：通过插层实现强磁电耦合二维多铁的第一性原理高通量预测。
 
-- [[../papers/kaurRecentAdvancesTheoretical2025a]] — Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials
-- [[../papers/liMonolayerPuckeredPentagonal2022]] — Monolayer puckered pentagonal VTe2: An emergent two-dimensional ferromagnetic semiconductor with multiferroic coupling
-- [[../papers/tangMultiferroicityTwodimensionalVan2025]] — Towards Multiferroicity in Two-Dimensional Van Der Waals Materials: Challenges and Opportunities
-- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]] — Room-temperature two-dimensional multiferroic metal with voltage-controllable magnetic order
-- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]] — Nonvolatile switchable half-metallicity and magnetism in the MXene Hf₂MnC₂O₂/Sc₂CO₂ multiferroic heterostructure
-- [[../papers/yuFerroelectricControlMagnetism2026]] — Ferroelectric Control of Magnetism and Giant Magnetoresistance Via Intercalation-Induced Symmetry Breaking in Two-Dimensional Multiferroics with Strong Magnetoelectric Coupling
-- [[../papers/zhangNonvolatileControlTopological2025]] — Nonvolatile control of topological magnetism in two-dimensional CrInTe2/In2Se3 multiferroic heterostructures
-- [[../papers/zhaoRealization2DMultiferroic2024]] — Realization of 2D multiferroic with strong magnetoelectric coupling by intercalation: a first-principles high-throughput prediction
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/curie-temperature|居里温度]]（室温稳定性）

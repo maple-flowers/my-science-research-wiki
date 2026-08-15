@@ -1,4 +1,4 @@
----
+﻿---
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3
@@ -11,6 +11,6 @@ AIGC:
 
 # Cr2O3
 
-- [[../papers/fiebigEvolutionMultiferroics2016]] — The evolution of multiferroics
-- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]] — Advances in magnetoelectric multiferroics
+- [[../papers/fiebigEvolutionMultiferroics2016]]：系统综述了多铁性材料的发展历程与分类。
+- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]]：综述了磁电多铁性材料的最新进展。
 *（内容由AI生成，仅供参考）*

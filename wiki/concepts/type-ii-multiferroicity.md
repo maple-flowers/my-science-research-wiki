@@ -1,4 +1,4 @@
----
+﻿---
 tags: [concept, multiferroics, magnetism]
 title: 第二类多铁性 / Type-II Multiferroicity
 type: concept
@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, multiferroics]
 mechanism: 磁有序（特别是螺旋/摆线磁序）自发打破反演对称性并诱导铁电极化，极化与磁序内禀强耦合
 related_concepts: [multiferroicity, magnetoelectric-coupling, spin-helix, improper-electronic-ferroelectricity, dzyaloshinskii-moriya-interaction]
-papers: [songEvidenceSinglelayerVan2022, fiebigEvolutionMultiferroics2016, cheongMultiferroicsMagneticTwist2007a, aminiAtomicscaleVisualizationMultiferroicity2024]
+papers: [songEvidenceSinglelayerVan2022, fiebigEvolutionMultiferroics2016, cheongMultiferroicsMagneticTwist2007a, aminiAtomicscaleVisualizationMultiferroicity2024, wuCoexistenceFerroelectricityAntiferroelectricity2024, FerroelectricityMultiferroicityAtomic2023, RecentAdvancesGrowth2025, huProgressProspectsLowdimensional2019]
 updated: 2026-08
 ---
 
@@ -47,13 +47,12 @@ updated: 2026-08
 
 - [[../papers/songEvidenceSinglelayerVan2022]]：在单层 NiI₂ 中证实了由螺旋磁序驱动的本征第二类多铁性。
 - [[../papers/fiebigEvolutionMultiferroics2016]]：系统总结了多铁性分类及第二类多铁性的物理图像。
-- [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]
-- [[../papers/cheongMultiferroicsMagneticTwist2007a]]
-- [[../papers/wuCoexistenceFerroelectricityAntiferroelectricity2024]] — Coexistence of ferroelectricity and antiferroelectricity in 2D van der Waals multiferroic
-- [[../papers/FerroelectricityMultiferroicityAtomic2023]] — Ferroelectricity and multiferroicity down to the atomic thickness
-- [[../papers/RecentAdvancesGrowth2025]] — Recent advances in growth, characterization, and application of two-dimensional multiferroic materials
-- [[../papers/huProgressProspectsLowdimensional2019]] — Progress and prospects in low‐dimensional multiferroic materials
-- [[../papers/wuCoexistenceFerroelectricityAntiferroelectricity2024]] — Coexistence of ferroelectricity and antiferroelectricity in 2D van der Waals multiferroic
+- [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]：在单层 NiI₂ 中原位可视化多铁性。
+- [[../papers/cheongMultiferroicsMagneticTwist2007a]]：首次系统阐述了磁扭曲诱导铁电性的物理图像。
+- [[../papers/wuCoexistenceFerroelectricityAntiferroelectricity2024]]：在二维范德华多铁材料中实现了铁电与反铁电共存。
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]]：综述了铁电性与多铁性在原子厚度极限下的实现。
+- [[../papers/RecentAdvancesGrowth2025]]：综述了二维多铁材料的生长、表征与应用。
+- [[../papers/huProgressProspectsLowdimensional2019]]：综述了低维多铁性材料的研究进展与展望。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

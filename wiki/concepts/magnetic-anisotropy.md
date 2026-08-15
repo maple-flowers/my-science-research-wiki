@@ -1,4 +1,4 @@
----
+﻿---
 tags: [concept, magnetism]
 title: 磁各向异性 / Magnetic Anisotropy
 type: concept
@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, magnetism]
 mechanism: 磁性能随晶格方向不同而表现出的差异，源于晶体场和自旋-轨道耦合
 related_concepts: [spin-orbit-coupling, magnetoelectric-coupling, easy-axis, easy-plane]
-papers: [caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025, chenStrongSlidingFerroelectricity2024, prosandeevKittelLawInBiFeO3Ultrathin2010, hanTunableSlidingFerroelectricity2025, songEvidenceSinglelayerVan2022, wangTunableD0Topological2025b]
+papers: [caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025, chenStrongSlidingFerroelectricity2024, prosandeevKittelLawInBiFeO3Ultrathin2010, hanTunableSlidingFerroelectricity2025, songEvidenceSinglelayerVan2022, wangTunableD0Topological2025b, fengFerroelectricityMultiferroicityTwodimensional2020, liMonolayerPuckeredPentagonal2022, liPhaseTransitions2D2021, liuSpintronicsTwoDimensionalMaterials2020b, rameshMultiferroicsProgressProspects2007, spaldinAdvancesMagnetoelectricMultiferroics2019, tangMultiferroicityTwodimensionalVan2025, wuElectrostaticGatingIntercalation2022, wuNonvolatileSwitchableHalfmetallicity2024, zhangNonvolatileControlTopological2025, zhongHighthroughputExfoliationMultiferroic2025]
 updated: 2026-08
 ---
 
@@ -44,24 +44,20 @@ $$ E_a = K_u \sin^2 \theta $$
 - [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]：定量研究了应变对 Fe₃GaTe₂ 磁各向异性的调控。
 - [[../papers/chenStrongSlidingFerroelectricity2024]]：分析了 SOC 对滑动铁电中各向异性的贡献。
 - [[../papers/prosandeevKittelLawInBiFeO3Ultrathin2010]]：探讨了薄膜中畴壁能与各向异性的标度关系。
-- [[../papers/hanTunableSlidingFerroelectricity2025]]
-- [[../papers/songEvidenceSinglelayerVan2022]]
-- [[../papers/wangTunableD0Topological2025b]]
-- [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]] — Ferroelectricity-driven strain-mediated magnetoelectric coupling in two-dimensional multiferroic heterostructure
-- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]] — Ferroelectricity and multiferroicity in two-dimensional Sc₂P₂Se₆ and ScCrP₂Se₆ monolayers
-- [[../papers/hanTunableSlidingFerroelectricity2025]] — Tunable sliding ferroelectricity in two-dimensional van der Waals RuX2 (X = Cl, Br, and I) multiferroic layers
-- [[../papers/liMonolayerPuckeredPentagonal2022]] — Monolayer puckered pentagonal VTe2: An emergent two-dimensional ferromagnetic semiconductor with multiferroic coupling
-- [[../papers/liPhaseTransitions2D2021]] — Phase transitions in 2D materials
-- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]] — Spintronics in Two-Dimensional Materials
-- [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films
-- [[../papers/songEvidenceSinglelayerVan2022]] — Evidence for a single-layer van der Waals multiferroic
-- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]] — Advances in magnetoelectric multiferroics
-- [[../papers/tangMultiferroicityTwodimensionalVan2025]] — Towards Multiferroicity in Two-Dimensional Van Der Waals Materials: Challenges and Opportunities
-- [[../papers/wangTunableD0Topological2025b]] — Tunable d0 topological magnetic states in multiferroic monolayer In2NO2
-- [[../papers/wuElectrostaticGatingIntercalation2022]] — Electrostatic gating and intercalation in 2D materials
-- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]] — Nonvolatile switchable half-metallicity and magnetism in the MXene Hf₂MnC₂O₂/Sc₂CO₂ multiferroic heterostructure
-- [[../papers/zhangNonvolatileControlTopological2025]] — Nonvolatile control of topological magnetism in two-dimensional CrInTe2/In2Se3 multiferroic heterostructures
-- [[../papers/zhongHighthroughputExfoliationMultiferroic2025]] — High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperature and giant spin splitting
+- [[../papers/hanTunableSlidingFerroelectricity2025]]：研究了 RuX₂ (X=Cl, Br, I) 滑动铁电层中可调的铁电性及其与磁性的耦合。
+- [[../papers/songEvidenceSinglelayerVan2022]]：在单层 NiI₂ 中证实了范德华多铁性。
+- [[../papers/wangTunableD0Topological2025b]]：预测了 In₂NO₂ 单层中可调的 d0 拓扑磁态。
+- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]]：预测了 Sc₂P₂Se₆ 与 ScCrP₂Se₆ 单层的铁电性与多铁性。
+- [[../papers/liMonolayerPuckeredPentagonal2022]]：预测了单层褶皱五边形 VTe₂ 作为具有多铁性耦合的二维铁磁半导体。
+- [[../papers/liPhaseTransitions2D2021]]：综述了二维材料中的相变及其调控机制。
+- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]：综述了二维材料中的自旋电子学。
+- [[../papers/rameshMultiferroicsProgressProspects2007]]：多铁性薄膜领域的经典综述。
+- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]]：综述了磁电多铁性材料的最新进展。
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]]：综述了二维范德华材料实现多铁性的挑战与机遇。
+- [[../papers/wuElectrostaticGatingIntercalation2022]]：综述了二维材料中的静电门控与插层调控。
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]]：在 MXene Hf₂MnC₂O₂/Sc₂CO₂ 多铁异质结中实现了非易失可开关的半金属性与磁性。
+- [[../papers/zhangNonvolatileControlTopological2025]]：在 CrInTe₂/In₂Se₃ 多铁异质结中实现了对拓扑磁性的非易失调控。
+- [[../papers/zhongHighthroughputExfoliationMultiferroic2025]]：高通量筛选出具有高转变温度和巨自旋分裂的多铁三元氧化物单层。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

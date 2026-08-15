@@ -1,4 +1,4 @@
----
+﻿---
 tags: [concept, electronics, memory]
 title: 阻变 (Resistive Switching)
 type: concept
@@ -6,7 +6,7 @@ status: mature
 domain: [materials-science, microelectronics]
 mechanism: 材料在电场作用下在不同电阻状态（通常是高阻态和低阻态）之间发生物理性切换的现象
 related_concepts: [memristor, non-volatile-memory, synaptic-plasticity, crossbar-array]
-papers: [xueEmergingNonvolatileMemories2011, tahirFerroelectricityNonvolatileMemristor2025]
+papers: [xueEmergingNonvolatileMemories2011, tahirFerroelectricityNonvolatileMemristor2025, sattarFunctionalizedDoubleTransition2025]
 updated: 2026-08
 ---
 
@@ -47,7 +47,7 @@ updated: 2026-08
 
 - [[../papers/xueEmergingNonvolatileMemories2011]]：深入剖析了基于阻变的忆阻器物理机制与系统级挑战。
 - [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]：探讨了铁电极化诱导的新型阻变行为。
-- [[../papers/sattarFunctionalizedDoubleTransition2025]] — Functionalized double transition metal Mo2Ti2C3Tx ferroelectric MXene and laser-reduced graphene based flexible memristors for next-generation two-dimensional ferrotronics
+- [[../papers/sattarFunctionalizedDoubleTransition2025]]：基于功能化双过渡金属 MXene 与激光还原石墨烯的柔性忆阻器。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

@@ -78,8 +78,8 @@ Zahra Pedramrazi, Charlotte Herbig, Artem Pulkin, Shujie Tang, ... Michael F. Cr
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/2D-materials]]、[[../concepts/topological-defects]]、[[../concepts/ferroelasticity]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/quantum-spin-hall-effect|量子自旋霍尔绝缘体]]、[[../entities/WSe2|WSe2]]、[[../concepts/topological-vs-trivial-interface|拓扑与平庸界面]]、[[../concepts/nonequilibrium-greens-function|非平衡格林函数]]、[[../concepts/pseudogap|赝能隙/零偏压异常]]、[[../concepts/peierls-distortion|Peierls畸变]]
   - 实体 [[../entities/TMDs]]、[[../concepts/domain-wall]]、[[../entities/WTe2]]
-  - 图表 [[../figures/electronic-bands]]、[[../figures/crystal-structures]]、[[../figures/heterostructures-stacking-moire|莫尔超晶格、扭转角与层间堆积 (Moiré, Twist & Stacking)]]
-  - 年度 [[../write/2019]]
+  - 图表 [[../figures/electronic-bands]]、[[../figures/crystal-structures]]、[[../figures/heterostructures-stacking|莫尔超晶格、扭转角与层间堆积 (Moiré, Twist & Stacking)]]
+  - 年度 [[../write/2015-2019]]
   - 相关论文 [[../../raw/note/pedramraziManipulatingTopologicalDomain2019]]
 ## 📊 关键图表
   - ![图1 STM针尖脉冲诱导1T′-WSe2结构相变：(a,b)可逆产生1T′/1T′畴界；(c,d)1T′→1H相变](../../raw/figures/pedramraziManipulatingTopologicalDomain2019/fig_1_K7BJPPZ4.png) → [[../figures/crystal-structures-xrd-phases|XRD与相变]]

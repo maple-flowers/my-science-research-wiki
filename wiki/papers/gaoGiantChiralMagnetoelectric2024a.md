@@ -111,7 +111,7 @@ Frank Y. Gao, Xinyue Peng, Xinle Cheng 等（共 16 位作者，Angel Rubio、Ed
   - 图表 [[../figures/electronic-bands]]（DFT 磁振子色散、zone-folded EMo/EMe）
   - 图表 [[../figures/mathematical-models]]（αij 张量、自旋哈密顿量、推广的自旋流模型极化公式）
   - 图表 [[../figures/experimental-setups]]（tr-SHG + tr-RKerr 双通道泵浦-探测、SHG 偏振畴成像）
-  - 年度 [[../write/2024]]
+  - 年度 [[../write/2020-2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 主题 [[多铁性材料]]
   - 主题 [[材料模拟计算设计]]

@@ -108,7 +108,7 @@ Dahua Ren, Yao Wen, Hui Zeng, Xiaoqiang Feng, Teng Zhang, Yuan Zhang, Liushun Wa
   - 相关论文 [[../../raw/note/RecentAdvancesGrowth2025]]
 
 ## 🆕 新概念/实体建议
-  - [[../concepts/type-II-multiferroics|type-II-multiferroics]]（概念）：铁电极化直接由螺旋磁序等特殊磁结构通过自旋-轨道耦合诱导（P ∝ e×q 或逆 DM/自旋流机制），磁电耦合强但极化小、转变温度低；与 I 型多铁（铁电与磁来源独立、弱耦合）相对。
+  - [[../concepts/type-ii-multiferroicity|type-II-multiferroics]]（概念）：铁电极化直接由螺旋磁序等特殊磁结构通过自旋-轨道耦合诱导（P ∝ e×q 或逆 DM/自旋流机制），磁电耦合强但极化小、转变温度低；与 I 型多铁（铁电与磁来源独立、弱耦合）相对。
   - [[../concepts/d0-rule|d0-rule]]（概念）：传统铁电性要求过渡金属 d 轨道空（d⁰），而磁性要求 d 轨道未填满，二者化学互斥，解释了磁性铁电体稀缺的根本原因。
   - [[../concepts/electromagnon|electromagnon]]（概念）：兼具电偶极活性的磁振子激发，是动态磁电耦合的直接"指纹"，可被太赫兹光谱和圆偏振拉曼探测。
   - [[../concepts/triferroics|triferroics]]（概念）：同一相中同时存在铁电、铁磁与铁谷（或铁弹）三种序，可实现多态存储；文中列举 WRuCl₆、FeO₂H、Nb₃X₈、Eu 掺杂 GdCl₂、双层 T′-VTe₂、GdI₂ 等候选。

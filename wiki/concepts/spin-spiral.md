@@ -1,4 +1,4 @@
----
+﻿---
 tags: [concept, magnetism, multiferroics]
 title: 螺旋磁序 / Spin Spiral
 type: concept
@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, magnetism]
 mechanism: 相邻自旋之间由于非对称交换相互作用导致的周期性螺旋排列
 related_concepts: [multiferroicity, magnetoelectric-coupling, Dzyaloshinskii-Moriya-interaction, skyrmion]
-papers: [cheongMultiferroicsMagneticTwist2007a, mostovoyMultiferroicsDifferentRoutes2024, fiebigEvolutionMultiferroics2016, Goswami2011multiferroic, aminiAtomicscaleVisualizationMultiferroicity2024]
+papers: [cheongMultiferroicsMagneticTwist2007a, mostovoyMultiferroicsDifferentRoutes2024, fiebigEvolutionMultiferroics2016, Goswami2011multiferroic, aminiAtomicscaleVisualizationMultiferroicity2024, RecentAdvancesGrowth2025, rameshMultiferroicsProgressProspects2007]
 updated: 2026-08
 ---
 
@@ -44,14 +44,10 @@ $$ \mathbf{P} \propto \mathbf{r}_{ij} \times (\mathbf{S}_i \times \mathbf{S}_j) 
 - [[../papers/cheongMultiferroicsMagneticTwist2007a]]：首次系统阐述了磁扭曲诱导铁电性的物理图像。
 - [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]：总结了从传统螺旋到莫尔自旋结构的演进。
 - [[../papers/fiebigEvolutionMultiferroics2016]]：讨论了螺旋磁序在非平衡态下的动态调控。
-- [[../papers/Goswami2011multiferroic]]
-- [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]
-- [[../papers/RecentAdvancesGrowth2025]] — Recent advances in growth, characterization, and application of two-dimensional multiferroic materials
-- [[../papers/cheongMultiferroicsMagneticTwist2007a]] — Multiferroics: a magnetic twist for ferroelectricity
-- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]] — Multiferroics: different routes to magnetoelectric coupling
-- [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films
-- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]] — Multiferroics: different routes to magnetoelectric coupling
-- [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films
+- [[../papers/Goswami2011multiferroic]]：研究了纳米尺度 BiFeO₃ 中的多铁耦合。
+- [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]：在单层 NiI₂ 中原位可视化多铁性。
+- [[../papers/RecentAdvancesGrowth2025]]：综述了二维多铁材料的生长、表征与应用。
+- [[../papers/rameshMultiferroicsProgressProspects2007]]：多铁性薄膜领域的经典综述。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

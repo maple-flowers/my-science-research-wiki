@@ -139,8 +139,8 @@ Zhao Guan, He Hu, Xinwei Shen, Pinghua Xiang, Ni Zhong, Junhao Chu, Chungang Dua
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/2D-materials]]、[[../concepts/polarization-switching]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/berry-phase]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/strain-engineering]]、[[../concepts/ferroelasticity]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/charge-density-wave]]、[[../concepts/topological-defects]]、[[../concepts/moire-superlattice]]、[[../concepts/ferroelectricity|铁电性]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/finite-size-effect|有限尺寸效应]]、[[../concepts/dipole-locking|偶极锁定]]、[[../concepts/electronic-polarization|电子极化]]、[[../concepts/trimerization|三聚化]]、[[../concepts/improper-ferroelectricity|不正铁电性]]、[[../concepts/ferroelectric-metal|铁电金属]]、[[../concepts/flexoelectric-effect|挠曲电性]]、[[../concepts/ferrovalley|铁谷]]、[[../concepts/valleytronics|谷电子学]]
   - 实体 [[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/SnTe]]、[[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/BiFeO3]]、[[../entities/VASP]]、[[../concepts/domain-wall]]、[[../entities/CuInP2S6|CuInP₂S₆]]、[[../entities/MoTe2|MoTe₂]]、[[../entities/GeSe]]、[[../entities/SnS]]、[[../entities/PZT]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking-reviews|层间滑移铁电：综述与材料体系]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups]]
-  - 年度 [[../write/2020]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking|层间滑移铁电：综述与材料体系]]、[[../figures/electronic-devices]]、[[../figures/experimental-setups]]
+  - 年度 [[../write/2020-2024]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
   - 相关论文 [[../../raw/note/guanRecentProgressTwoDimensional2020]]
   - 实体 [[../entities/BTO]]

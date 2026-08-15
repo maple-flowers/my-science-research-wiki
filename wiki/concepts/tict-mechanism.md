@@ -1,4 +1,4 @@
----
+﻿---
 tags: [concept, photophysics, excited-state]
 title: 扭曲分子内电荷转移机制 / TICT Mechanism
 type: concept
@@ -39,11 +39,8 @@ TICT 态的形成对外部环境极其敏感，是构建多通道探针的物理
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/Huang2023two]]：分析了极性诱导的 TICT 态对荧光产率的压制效应。
-- [[../papers/Huang2019solvatochromic]]：展示了甘油粘度如何“冻结”分子内旋转并改变 TICT 演化。
+- [[../papers/Huang2019solvatochromic]]：展示了甘油粘度如何"冻结"分子内旋转并改变 TICT 演化。
 - [[../papers/H2017fluorescence]]：结合浓度依赖实验，确立了 TICT（分子内）与 Exciplex（分子间）的归属。
-- [[../papers/H2017fluorescence]] — Dicyanostilbene-based Two-photon Thermo-solvatochromic Fluorescence Probes with Two-photon Triple Fluorescence
-- [[../papers/Huang2019solvatochromic]] — Stilbene-Based Two-Photon Thermo-Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature
-- [[../papers/Huang2023two]] — Two Dicyanostilbene-Based Two-Photon Fluorescence Environmentally Sensitive Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

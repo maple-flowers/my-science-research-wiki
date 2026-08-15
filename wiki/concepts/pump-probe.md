@@ -1,4 +1,4 @@
----
+﻿---
 tags: [concept, photophysics, ultrafast-spectroscopy]
 title: 泵浦-探测技术 / Pump-Probe
 type: concept
@@ -6,7 +6,7 @@ status: developing
 domain: [ultrafast-spectroscopy, photophysics, carrier-dynamics]
 mechanism: 使用强脉冲（泵浦光）激发样品，间隔一定延迟时间后用弱脉冲（探测光）记录样品的动态演化过程
 related_concepts: [ultrafast-spectroscopy, electromagnon, phase-difference, relaxation-time]
-papers: [gaoGiantChiralMagnetoelectric2024a]
+papers: [gaoGiantChiralMagnetoelectric2024a, Yarai2005optical]
 updated: 2026-08
 ---
 
@@ -41,7 +41,7 @@ updated: 2026-08
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/gaoGiantChiralMagnetoelectric2024a]]：利用双通道 Pump-Probe 技术揭示了 NiI2 中的巨手性磁电耦合，实现了电、磁通道的动力学解耦。
-- [[../papers/Yarai2005optical]] — Optical fiber sensor for humidity monitoring based on thermal lens detection technique
+- [[../papers/Yarai2005optical]]：基于热透镜检测技术的光纤湿度传感器。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

@@ -1,4 +1,4 @@
----
+﻿---
 tags: [concept, computational-physics, vasp, dft]
 title: Self-Consistent Field Cycle / 自洽场循环 (SCF)
 type: concept
@@ -50,7 +50,6 @@ updated: 2026-08
 
 - [[../papers/kresseEfficiencyAbinitioTotal1996a]]：系统阐述了自洽循环路线相对于直接能量最小化路线的效率优势，并给出了力修正的关键公式。
 - [[../papers/kresseEfficientIterativeSchemes1996d]]：进一步基准测试了 SCF 循环在不同体系中的可迁移性。
-- [[../papers/kresseEfficientIterativeSchemes1996d]] — Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

@@ -1,4 +1,4 @@
----
+﻿---
 tags: [entity, material, TMD, 2D, semiconductor]
 title: 二硫化钼 (MoS2) / Molybdenum Disulfide
 type: entity
@@ -9,7 +9,7 @@ class: [TMD, vdW, semiconductor]
 properties: [direct-bandgap, valley-polarization, photoluminescence]
 related_entities: [WS2, MoTe2, 2h-phase, 1t-phase]
 updated: 2026-08
-papers: [liPhaseTransitions2D2021, RecentAdvancesGrowth2025, FerroelectricityMultiferroicityAtomic2023, Li2013bonding, Owji20212d, chenHafniumBasedFerroelectricPostMoore2026, guanRecentProgressTwoDimensional2020, kaurRecentAdvancesTheoretical2025a, liuSpintronicsTwoDimensionalMaterials2020b, sunSlidingFerroelectricityTwodimensional2025, yangStrainEngineeringTwodimensional2021]
+papers: [liPhaseTransitions2D2021, RecentAdvancesGrowth2025, FerroelectricityMultiferroicityAtomic2023, Li2013bonding, Owji20212d, chenHafniumBasedFerroelectricPostMoore2026, guanRecentProgressTwoDimensional2020, kaurRecentAdvancesTheoretical2025a, liuSpintronicsTwoDimensionalMaterials2020b, sunSlidingFerroelectricityTwodimensional2025, yangStrainEngineeringTwodimensional2021, wuElectrostaticGatingIntercalation2022]
 ---
 
 # 二硫化钼 (MoS2) / Molybdenum Disulfide
@@ -35,16 +35,16 @@ MoS2 的最显著特征是随厚度减薄发生的带隙转变。
 ## 📚 相关论文 (Related Papers)
 - [[../papers/liPhaseTransitions2D2021]]：详细讨论了 MoS2 的相变与调控机制。
 - [[../papers/RecentAdvancesGrowth2025]]：综述了 TMD 晶圆级生长的最新进展。
-- [[../papers/FerroelectricityMultiferroicityAtomic2023]]
-- [[../papers/Li2013bonding]]
-- [[../papers/Owji20212d]]
-- [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]
-- [[../papers/guanRecentProgressTwoDimensional2020]]
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]
-- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]
-- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
-- [[../papers/yangStrainEngineeringTwodimensional2021]]
-- [[../papers/wuElectrostaticGatingIntercalation2022]] — Electrostatic gating and intercalation in 2D materials
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]]：综述了原子级厚度下的铁电与多铁性。
+- [[../papers/Li2013bonding]]：研究了单层 TMD 的成键电荷密度与极限强度。
+- [[../papers/Owji20212d]]：将二维材料涂覆于刻蚀光纤上制成湿度传感器。
+- [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]：综述了基于铪的铁电后摩尔电子学器件与神经形态系统。
+- [[../papers/guanRecentProgressTwoDimensional2020]]：综述了二维铁电材料的最新进展。
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]：综述了层状与范德华二维材料中滑动铁电性的理论研究进展。
+- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]：综述了二维材料中的自旋电子学。
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：综述了二维材料中的滑动铁电性及其器件应用。
+- [[../papers/yangStrainEngineeringTwodimensional2021]]：综述了二维材料的应变工程方法、性质与应用。
+- [[../papers/wuElectrostaticGatingIntercalation2022]]：综述了二维材料中的静电门控与插层调控。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 - [[../concepts/valley-polarization|能谷极化]]

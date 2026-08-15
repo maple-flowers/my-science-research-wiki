@@ -102,8 +102,8 @@ Yang Yang, Hongxiang Zong, Jun Sun, Xiangdong Ding et al.，2021，Advanced Mate
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/2D-materials]]、[[../concepts/ferroelasticity]]、[[../concepts/multiferroicity]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/machine-learning-potential]]、[[../concepts/polarization-switching]]、[[../concepts/moire-superlattice]]、[[../concepts/ripples|波纹]]、[[../concepts/ripple-engineering|波纹工程]]、[[../concepts/polar-nano-regions|极性纳米微区]]、[[../concepts/avalanche-dynamics|雪崩动力学]]、[[../concepts/flexoelectric-effect|挠曲电效应]]、[[../concepts/atomistic-order-parameter|原子级铁性序参量]]、[[../concepts/za-phonon-mode|ZA 声子模]]、[[../concepts/ferroic-order|铁性序]]
   - 实体 [[../entities/VASP]]、[[../entities/SnTe]]、[[../entities/In2Se3]]、[[../entities/WTe2]]、[[../concepts/domain-wall]]、[[../entities/GeSe]]、[[../entities/LAMMPS]]、[[../entities/CrI3]]、[[../entities/Cr2Ge2Te6]]
-  - 图表 [[../figures/crystal-structures]]、[[../concepts/domain-wall]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
-  - 年度 [[../write/2021]]
+  - 图表 [[../figures/crystal-structures]]、[[../concepts/domain-wall]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]
+  - 年度 [[../write/2020-2024]]
   - 项目 [[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-2-mn-multiferroics]]
   - 相关论文 [[../../raw/note/yangRipplingFerroicPhase2021]]
 ## 📊 关键图表

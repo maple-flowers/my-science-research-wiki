@@ -104,7 +104,7 @@ Xian Zhang, Xiaoqiang Yu, JinShui Yao, Minhua Jiang，2008，Synthetic Metals 15
   - two-photon excited fluorescence (TPEF) — 双光子激发荧光
 ## ✏️ 可写入 Wiki 的要点
   1. Zhang et al. (Synthetic Metals, 2008) 合成了两种三支化[[../concepts/two-photon-polymerization|双光子聚合]]引发剂，是多支化[[../concepts/d-pi-a-architecture]]用于 2PP 的代表性实验工作之一。
-  2. 三支化结构通过在中心给体核上连接三个共轭推-拉分支，利用多方向[[../concepts/intramolecular-charge-transfer|分子内[[../concepts/charge-transfer|电荷转移]]]]协同增强三阶非[[../concepts/linear-response|线性响应]]。
+  2. 三支化结构通过在中心给体核上连接三个共轭推-拉分支，利用多方向[[../concepts/charge-transfer|分子内[[../concepts/charge-transfer|电荷转移]]]]协同增强三阶非[[../concepts/linear-response|线性响应]]。
   3. 双光子聚合的空间分辨率源于[[../concepts/two-photon-absorption|双光子吸收]]概率对光强的平方依赖，仅在激光焦点中心极小体积内发生引发。
   4. 高效 2PP 引发剂需要在近红外工作波长具有大 σ₂、高自由基产生量子产率和良好的溶解性/相容性。
   5. Z-扫描和[[../concepts/two-photon-fluorescence|双光子激发荧光]]（TPEF）是测量 σ₂ 的两种主要实验方法，前者测量非线性透过率，后者通过荧光强度定标。

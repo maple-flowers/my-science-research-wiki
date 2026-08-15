@@ -104,7 +104,7 @@ Manfred Fiebig、Thomas Lottermoser、Dennis Meier、Morgan Trassin（ETH Züric
   - 实体 [[../entities/SrMnO3|SrMnO₃]]
   - 图表 [[../concepts/domain-wall]]
   - 图表 [[../figures/mathematical-models]]
-  - 年度 [[../write/2016]]
+  - 年度 [[../write/2015-2019]]
   - 项目 [[../projects/project-2-mn-multiferroics]]
   - 主题 [[多铁性材料]]
   - 相关论文 [[../../raw/note/fiebigEvolutionMultiferroics2016]]

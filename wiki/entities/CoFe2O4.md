@@ -1,4 +1,4 @@
----
+﻿---
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3
@@ -11,6 +11,6 @@ AIGC:
 
 # CoFe2O4
 
-- [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films
-- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]] — Advances in magnetoelectric multiferroics
+- [[../papers/rameshMultiferroicsProgressProspects2007]]：多铁性薄膜领域的经典综述。
+- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]]：综述了磁电多铁性材料的最新进展。
 *（内容由AI生成，仅供参考）*

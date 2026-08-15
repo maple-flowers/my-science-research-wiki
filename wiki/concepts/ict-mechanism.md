@@ -1,4 +1,4 @@
----
+﻿---
 tags: [concept, photophysics, excited-state]
 title: 分子内电荷转移机制 / ICT Mechanism
 type: concept
@@ -6,7 +6,7 @@ status: mature
 domain: [photophysics, physical-organic-chemistry, spectroscopy]
 mechanism: 分子从基态跃迁至激发态时，电子密度从给体（Donor）部分向受体（Acceptor）部分发生显著转移
 related_concepts: [solvatochromism, tict-mechanism, donor-pi-acceptor, stokes-shift]
-papers: [Huang2023two, Huang2019solvatochromic, H2017fluorescence]
+papers: [Huang2023two, Huang2019solvatochromic, H2017fluorescence, WRZYSZCZYNSKI2010initiators, Zhang2008synthesis]
 updated: 2026-08
 ---
 
@@ -41,10 +41,8 @@ ICT 是分子内电荷转移的广义称呼。如果这种转移伴随着分子�
 - [[../papers/Huang2023two]]：分析了二氰基取代如何通过 ICT 机制产生超大双光子截面。
 - [[../papers/Huang2019solvatochromic]]：探讨了 ICT 态的溶剂弛豫对热致变色的贡献。
 - [[../papers/H2017fluorescence]]：阐述了激发态绝热 ICT 过程中的电荷稳定机制。
-- [[../papers/H2017fluorescence]] — Dicyanostilbene-based Two-photon Thermo-solvatochromic Fluorescence Probes with Two-photon Triple Fluorescence
-- [[../papers/Huang2019solvatochromic]] — Stilbene-Based Two-Photon Thermo-Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature
-- [[../papers/WRZYSZCZYNSKI2010initiators]] — Two-photon initiators of polymerization
-- [[../papers/Zhang2008synthesis]] — Synthesis and nonlinear optical properties of two three-branched two-photon polymerization initiators
+- [[../papers/WRZYSZCZYNSKI2010initiators]]：综述了双光子聚合引发剂的设计与应用。
+- [[../papers/Zhang2008synthesis]]：合成了两种三支化双光子聚合引发剂并研究其非线性光学性质。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
