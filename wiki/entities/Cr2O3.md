@@ -23,6 +23,8 @@ Cr₂O₃ 的反铁磁序打破时间反演对称性，允许线性磁电耦合�
 
 多铁性研究始于 20 世纪 50 年代，2000 年 Spaldin 指出钙钛矿中铁电与磁性"排斥"禁忌后进入现代阶段；BiFeO₃（孤对电子）、h-RMnO₃（几何）、LuFe₂O₄（电荷有序）、o-TbMnO₃（自旋驱动）等机制各异 [[../papers/fiebigEvolutionMultiferroics2016]]。磁电多铁的目标是用电场操控磁性，BiFeO₃ 与畴壁是核心研究对象 [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]]。
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/fiebigEvolutionMultiferroics2016]]：系统综述了多铁性材料的发展历程与分类。
 - [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]]：综述了磁电多铁性材料的最新进展。
 *（内容由AI生成，仅供参考）*

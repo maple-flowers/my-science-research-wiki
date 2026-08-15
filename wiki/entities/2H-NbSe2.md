@@ -23,6 +23,8 @@ AIGC:
 
 以 1T-TiSe₂ 为代表的 TMD 在电子掺杂或加压抑制公度 CDW 时涌现超导穹顶；基于 McMillan-Ginzburg-Landau 唯象理论，CDW 的拓扑缺陷——错位相子（discommensuration）——在公度到非公度转变中直接诱导或增强超导电性 [[../papers/Chen2019superconductivity]]。
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/Chen2019superconductivity]]：研究了 TMD 电荷密度波相中错位相子驱动的超导电性。
 - [[../papers/gorkovStrongElectronlatticeCoupling2012]]：提出强电子-晶格耦合是 TMD 中电荷密度波转变的机制。
 *（内容由AI生成，仅供参考）*

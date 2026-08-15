@@ -23,6 +23,8 @@ CoFe₂O₄（钴铁氧体）是尖晶石结构的铁磁材料，具有高磁致
 
 多铁性薄膜研究涵盖单相薄膜、水平/垂直异质结构三种架构，磁电复合是其中重要方向 [[../papers/rameshMultiferroicsProgressProspects2007]]。磁电多铁的目标是用电场操控磁性，BiFeO₃ 与畴壁是核心研究对象 [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]]。
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/rameshMultiferroicsProgressProspects2007]]：多铁性薄膜领域的经典综述。
 - [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]]：综述了磁电多铁性材料的最新进展。
 *（内容由AI生成，仅供参考）*

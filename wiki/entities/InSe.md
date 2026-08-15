@@ -23,6 +23,8 @@ InSe（硒化铟）是 III-VI 族层状半导体，层内强共价键、层间�
 
 滑动铁电材料可通过 CVD、机械剥离与人工堆叠、MBE 制备，用 PFM、KPFM、SHG、PUND 电学测量、STEM 表征；器件应用包括铁电隧道结、铁电晶体管与光电器件 [[../papers/sunSlidingFerroelectricityTwodimensional2025]]。
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：综述了二维材料中的滑动铁电性及其器件应用。
 - [[../papers/wuSlidingFerroelectricity2D2021a]]：综述了二维范德华材料中滑动铁电性的相关物理与未来机遇。
 - [[../papers/zhangEmergingFrontiersTwodimensional2025]]：综述了二维滑动铁电体的新兴前沿。

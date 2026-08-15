@@ -46,7 +46,7 @@
 
 ## 论文卡片（Papers）
 
-*新摄入的论文全部放在一起，最终打标签交叉分类。当前共 188 篇论文增强卡片（全部使用 citekey 命名，与 `raw/note/` 一一对应），详见 [[wiki/papers/]]。*
+*新摄入的论文全部放在一起，最终打标签交叉分类。当前共 188 篇论文增强卡片（全部使用 citekey 命名，与 `raw/note/` 一一对应），详见 `wiki/papers/`。*
 
 - **多铁性材料**
   - [[wiki/papers/spaldinRenaissanceMagnetoelectricMultiferroics2005|Spaldin & Fiebig 2005 — Renaissance of Magnetoelectric Multiferroics]]

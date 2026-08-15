@@ -23,6 +23,8 @@ GaSe（硒化镓）是 III-VI 族层状半导体，层内为共价键合的 Se-G
 
 滑动铁电性已在多种二维范德华材料中被证实，其极化翻转与层间滑移耦合，可用于非易失存储、神经形态计算等器件应用 [[../papers/sunSlidingFerroelectricityTwodimensional2025]]。
 
+## 📚 相关论文 (Related Papers)
+
 - [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：综述了二维材料中的滑动铁电性及其器件应用。
 - [[../papers/wuSlidingFerroelectricity2D2021a]]：综述了二维范德华材料中滑动铁电性的相关物理与未来机遇。
 *（内容由AI生成，仅供参考）*
