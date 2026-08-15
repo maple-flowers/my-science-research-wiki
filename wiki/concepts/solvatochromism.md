@@ -34,7 +34,7 @@ $$ \Delta \nu \approx \frac{2(\mu_e - \mu_g)^2}{hc a^3} \Delta f $$
 
 由于溶剂化显色将环境信息（极性）直接转化为可见的色彩变化，它是设计环境敏感探针的核心：
 *   **肉眼识别**：高性能探针 P1 的颜色可以从蓝紫（环己烷）跨越到橙红（DMSO），极易肉眼观察。
-*   **比率传感**：通过两个发射带（如 [[../concepts/locally-excited-state|LE]] 与 [[../concepts/tict-mechanism|TICT]]）的强度比值，可以消除探针浓度的干扰，实现对微环境极性的精确定量。
+*   **比率传感**：通过两个发射带（如 [[../concepts/local-excited-state]] 与 [[../concepts/tict-mechanism|TICT]]）的强度比值，可以消除探针浓度的干扰，实现对微环境极性的精确定量。
 
 ## 📚 相关论文 (Related Papers)
 
@@ -44,7 +44,7 @@ $$ \Delta \nu \approx \frac{2(\mu_e - \mu_g)^2}{hc a^3} \Delta f $$
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
-- [[../concepts/intramolecular-charge-transfer|分子内电荷转移 (ICT)]]
+- [[../concepts/ict-mechanism]]
 - [[../concepts/lippert-mataga|Lippert–Mataga 标度]]
 - [[../concepts/stokes-shift|斯托克斯位移]]
 - [[../entities/dicyanostilbene-1a|二氰基二苯乙烯 (1a)]]

@@ -82,7 +82,7 @@ Junquera & Ghosez，2003，*Nature* 422, 506–509，DOI 10.1038/nature01501。
 用包含真实 SrRuO₃ 电极的第一性原理超胞计算首次证明，短路 BaTiO₃ 铁电薄膜在约 6 个晶胞（~24 Å）以下因电极不完全屏蔽产生的退极化场er 丧失铁电性，确立了铁电器件微缩的静电学极限。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/strain-engineering]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/critical-thickness]]、[[../concepts/depolarizing-field]]、[[../concepts/ferroelectricity]]、[[../concepts/screening-length]]、[[../concepts/short-circuit-boundary]]、[[../concepts/soft-mode]]、[[../concepts/spontaneous-polarization]]
+  - 概念 [[../concepts/density-functional-theory]]、[[../concepts/berry-phase]]、[[../concepts/strain-engineering]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/critical-thickness]]、[[../concepts/depolarization-field]]、[[../concepts/ferroelectricity]]、[[../concepts/screening-length]]、[[../concepts/short-circuit-boundary]]、[[../concepts/soft-mode]]、[[../concepts/spontaneous-polarization]]
   - 实体 [[../entities/SnTe]]、[[../entities/BaTiO3]]、[[../entities/SIESTA]]、[[../entities/SrRuO3]]、[[../entities/SrTiO3]]
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2000-2004|2003]]
@@ -126,7 +126,7 @@ Junquera & Ghosez，2003，*Nature* 422, 506–509，DOI 10.1038/nature01501。
   - 文章采用"问题—矛盾—模型—结果—机制—影响"的简洁 Nature 论证链。先指出前人在 E=0 假设下预测无临界尺寸，再用包含真实电极的超胞计算给出反例，然后用宏观平均电荷密度与静电势把退极化场可视化，最后用 E = U − P·E_d 解析模型定量复现第一性原理结果，证明静电学主导、界面化学键合贡献次要。并通过漏电流时间尺度（~0.1 s）与极化翻转时间尺度（~10⁻⁹ s）的对比排除了有限电导率对临界厚度结论的干扰。
   - 值得复用的术语：
     - [[../concepts/critical-thickness|critical thickness — 临界厚度]]
-    - [[../concepts/depolarizing-field|depolarizing field — 退极化场]]（去极化场）
+    - [[../concepts/depolarization-field]]（去极化场）
     - [[../concepts/screening-length|screening length — 屏蔽长度]]
     - [[../concepts/soft-mode|soft-mode distortion — 软模畸变]]
     - [[../concepts/short-circuit-boundary|short-circuit boundary condition — 短路边界条件]]

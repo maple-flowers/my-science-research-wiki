@@ -182,4 +182,4 @@ Frank Y. Gao, Xinyue Peng, Xinle Cheng 等（共 16 位作者，Angel Rubio、Ed
   7. 推广自旋流模型给出 P̂ = λ(Δt/Δ⁴⁻¹) d_{d-p} [n̂·(S₁×S₂)]，对磁单胞键求和得二维 Pel=4.1×10⁻¹³ C m⁻¹（DFT 5.3×10⁻¹³ C m⁻¹），共线自旋或 SOC 为零时极化消失——证明非共线+SOC 是必要条件。
   8. DFT 细节：VASP、PAW、PBE+U（Dudarev U=4 eV）、SOC 全开、截断 350 eV；四态法在 7×5×1 超胞取交换参数（J1=−5.03, J2=0.32, J3=3.95 meV，双二次 B=−0.89 meV）；7×1×1 超胞 + Berry phase 算极化；冻结磁振子法（VASP penalty functional ħω=1.0 eV 约束自旋）算电磁振子电极化。
   9. EMo 电偶极矩 d_o=2.5 μ_B/c（垂直基态 P），EMe d_e=10.3 μ_B/c（平行 P）；tr-RKerr 只见 EMo 不见 EMe，因 C₂-偶 EMe 无面外磁化分量。
-  10. SHG 偏振图案随温度从六重对称变为二重对称（点群 2，C₂ 轴沿 φ=90°），是判定单一对映纯畴的依据；该相位提取方法可推广为手性畴成像手段。未来方向包括 THz 强场相干翻转手性畴、手性光学腔诱导新奇磁态、[[../concepts/van-der-waals-heterostructure|vdW 异质结]]界面 SOC 工程增[[../concepts/strong-coupling|强耦合]]。
+  10. SHG 偏振图案随温度从六重对称变为二重对称（点群 2，C₂ 轴沿 φ=90°），是判定单一对映纯畴的依据；该相位提取方法可推广为手性畴成像手段。未来方向包括 THz 强场相干翻转手性畴、手性光学腔诱导新奇磁态、[[../concepts/vdW-heterostructure]]界面 SOC 工程增[[../concepts/strong-coupling|强耦合]]。

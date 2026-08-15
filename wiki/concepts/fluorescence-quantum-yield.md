@@ -24,7 +24,7 @@ $$ \Phi = \frac{\text{发射的光子数}}{\text{吸收的光子数}} $$
 量子产率由辐射衰变速率（$k_r$）和所有非辐射衰变速率（$\sum k_{nr}$，如内转换、系间窜越、转动猝灭等）竞争决定：
 $$ \Phi = \frac{k_r}{k_r + \sum k_{nr}} $$
 
-*   **极性压制（TICT 猝灭）**：在极性环境中，许多具有 [[../concepts/donor-pi-acceptor|D-π-A]] 结构的分子会发生激子向非共面 [[../concepts/tict-mechanism|TICT]] 态的演化。由于 TICT 态通常具有极强的非辐射衰变速率（$k_{nr} \gg k_r$），会导致荧光量子产率在强极性溶剂中剧烈下降。例如，探针 P1 在低极性的二氧六环中 $\Phi = 0.885$，但在极性的 DMSO 中暴跌至仅为 $0.066$ [[../papers/Huang2019solvatochromic]]。
+*   **极性压制（TICT 猝灭）**：在极性环境中，许多具有 [[../concepts/d-pi-a-architecture]] 结构的分子会发生激子向非共面 [[../concepts/tict-mechanism|TICT]] 态的演化。由于 TICT 态通常具有极强的非辐射衰变速率（$k_{nr} \gg k_r$），会导致荧光量子产率在强极性溶剂中剧烈下降。例如，探针 P1 在低极性的二氧六环中 $\Phi = 0.885$，但在极性的 DMSO 中暴跌至仅为 $0.066$ [[../papers/Huang2019solvatochromic]]。
 
 ## 🔬 测量方法：相对测定法
 

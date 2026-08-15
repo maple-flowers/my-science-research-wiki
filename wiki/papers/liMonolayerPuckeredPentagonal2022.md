@@ -101,7 +101,7 @@ Xuanyi Li, Zhili Zhu, Qing Yang, Zexian Cao, Yeliang Wang, Sheng Meng, Jiatao Su
   - [[../concepts/puckered-pentagonal-structure|puckered-pentagonal-structure]]（褶皱五边形结构）：TMD材料中除T-、H相之外的一类由五边形元胞构成、层内有褶皱起伏的结构相，可视为黄铁矿结构减薄至二维极限的产物（以PdSe2、PP-VTe2为代表）。
   - [[../entities/PP-VTe2|PP-VTe2]]（单层褶皱五边形VTe2实体）：空间群Pca21、矩形晶胞(a=6.774 Å, b=6.655 Å)、由两个化学键合子层构成的VTe2新相，本征铁磁半导体。
   - [[../concepts/ferromagnetic-semiconductor|ferromagnetic-semiconductor]]（铁磁半导体）：同时具有铁磁有序和半导体带隙的二维材料类别，区别于半金属（如BP-VTe2）。
-  - [[../concepts/magnetic-anisotropy-energy|magnetic-anisotropy-energy]]（磁各向异性能，MAE）：磁矩沿不同晶向取向时的能量差，决定易磁化轴方向；本文用其确定面内[100]易轴。
+  - [[../concepts/magnetic-anisotropy]]（磁各向异性能，MAE）：磁矩沿不同晶向取向时的能量差，决定易磁化轴方向；本文用其确定面内[100]易轴。
   - [[../concepts/electrical-control-of-magnetism|electrical-control-of-magnetism]]（电控磁性）：利用栅压调控费米能级附近自旋极化态的占据，从而改变净磁矩的机制；本文中空穴浓度4.5×10^14 cm^-2下可使每单胞磁矩在12-10 μB间调节。
   - [[../concepts/exfoliation-energy|exfoliation-energy]]（剥离能）：从块体相剥离出单层所需能量；PP-VTe2为72.46 meV/Å²，支持外延生长制备。
   - [[../entities/PdSe2|PdSe2]]（实体）：层状五边形二维材料原型，是PP-VTe2结构与强层间键合的类比对象。
@@ -140,7 +140,7 @@ Xuanyi Li, Zhili Zhu, Qing Yang, Zexian Cao, Yeliang Wang, Sheng Meng, Jiatao Su
   - half-metallic（半金属）
   - multiferroic coupling（多铁耦合）
   - ferroelastic switching（铁弹性翻转）
-  - magnetic anisotropy energy, MAE [[../concepts/magnetic-anisotropy-energy|MAE]]（磁各向异性能）
+  - magnetic anisotropy energy, MAE [[../concepts/magnetic-anisotropy]]（磁各向异性能）
   - Curie temperature（居里温度）
   - nudged elastic band, NEB（微动弹性带方法）
   - exfoliation energy（剥离能）
@@ -148,11 +148,11 @@ Xuanyi Li, Zhili Zhu, Qing Yang, Zexian Cao, Yeliang Wang, Sheng Meng, Jiatao Su
 
 ## ✏️ 可写入 Wiki 的要点
   1. PP-VTe2是VTe2的全新二维相，空间群Pca21，矩形晶胞a=6.774 Å、b=6.655 Å，由两个以五边形为基元、化学键合的子层构成（单个子层不能独立稳定），面内[[../concepts/migdal-eliashberg-theory|各向异性]]约1.8%；其结构灵感来自块体黄铁矿相BP-VTe2（空间群Pa-3，晶格常数6.746 Å）的(100)面。
-  2. BP-VTe2为[[../concepts/half-metal|半金属]]：自旋向上通道金属性，自旋向下通道带隙1.088 eV；每个V原子在八面体晶体场中3个未配对电子占据t2g能级，磁矩约3 μB；化学[[../concepts/formation-energy|形成能]]−0.265 eV/atom，仅略高于1T-VTe2（−0.307 eV/atom），提示实验可合成性。
+  2. BP-VTe2为[[../concepts/half-metallicity]]：自旋向上通道金属性，自旋向下通道带隙1.088 eV；每个V原子在八面体晶体场中3个未配对电子占据t2g能级，磁矩约3 μB；化学[[../concepts/formation-energy|形成能]]−0.265 eV/atom，仅略高于1T-VTe2（−0.307 eV/atom），提示实验可合成性。
   3. 单层PP-VTe2为间接带隙0.33 eV的铁磁半导体，显著区别于BP-VTe2的[[../concepts/half-metallicity|半金属性]]；带隙随子层数由2增至8而从0.33 eV降至0.11 eV，并发生间接→直接带隙转变；该窄带隙远小于CrI3(1.07 eV)、CrBr3(1.34 eV)、Cr2Ge2Te6(0.88 eV)，面向红外光电子应用。
   4. 稳定性三重证据：弹性常数C11=49.66、C22=72.92、C12=6.976、C44=24.59 N/m满足Born-Huang判据（C11C22−C12²>0, C44>0）；声子谱全[[../concepts/brillouin-zone|布里渊区]]无虚频；子层相对滑移能量计算表明无位移构型为全局能量最低；剥离能72.46 meV/Å²，有望类似PdSe2通过外延生长制备。
   5. 磁性基态：DFT+U（Ueff=0/3/5 eV，Dudarev方法）计算表明在所有Ueff下FM态能量均低于NM和三种AFM态，为本征铁磁半导体；最近邻交换耦合J0=3.68 meV；每个V有8个最近邻磁性原子（同子层4个、另一子层4个）。
-  6. [[../concepts/magnetic-anisotropy-energy|磁各向异性]]：易磁化轴沿面内[100]方向（与PP-VTe2唯一螺旋轴重合），与面内[010]、[110]方向能量差分别为0.45、1.83 meV/单胞，与面外[001]方向差1.23 meV/单胞；沿V-Te键方向存在倾斜FM[[../concepts/metastability|亚稳态]]，能量比面内FM态高0.15 meV。
+  6. [[../concepts/magnetic-anisotropy]]：易磁化轴沿面内[100]方向（与PP-VTe2唯一螺旋轴重合），与面内[010]、[110]方向能量差分别为0.45、1.83 meV/单胞，与面外[001]方向差1.23 meV/单胞；沿V-Te键方向存在倾斜FM[[../concepts/metastability|亚稳态]]，能量比面内FM态高0.15 meV。
   7. [[../concepts/curie-temperature|居里温度]]：基于准二维[[../concepts/heisenberg-model|海森堡模型]]（含最近邻交换J0和单离子各向异性λ）在100×100网格上进行5,000,000步MC模拟（温度步长5 K），由磁矩、磁化率χ和比热CV峰值共同确定Tc≈110 K，高于CrI3(45 K)、CrBr3(27 K)、Cr2Ge2Te6(30 K)等实验二维磁体。
   8. 多铁耦合机制：NEB计算表明，沿x轴加压、y轴拉伸（仅1.8%应变）使矩形晶胞转为正方形后再旋转90°，可实现铁弹翻转；下层亚层Te原子水平移动保持五边形基元完整；翻转能垒 258 meV/atom，与黑磷烯等二维铁弹材料相当；翻转后易磁化轴同步旋转90°，构成应变可控的直接铁弹-铁磁多铁耦合。
   9. 电控磁性：投影DOS显示总磁矩完全来自−1至−0.1 eV能量区间的自旋极化态，且几乎全部由V 3d电子贡献；通过栅压调节[[../concepts/chemical-potential|化学势]]，在空穴浓度4.5×10^14 cm^-2下可使每单胞净磁矩在12-10 μB间调节，适合在高介电衬底上实现电控磁；PP-VSe2与PP-VS2因费米能级附近能带结构相似，同样有望实现电控磁性。

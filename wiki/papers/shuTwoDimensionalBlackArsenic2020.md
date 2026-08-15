@@ -185,7 +185,7 @@ Yiqing Shu, Jia Guo, Taojian Fan 等，2020，ACS Applied Materials & Interfaces
   1. b-AsP 是 V 族二元二维合金，As:P ≈ 0.2:0.8，正交晶系褶皱蜂窝晶格，带隙可在 0.15-0.3 eV（对应 4.13-8.27 μm）范围内调节，填补[[../entities/graphene|石墨烯]]（零带隙）与黑磷（0.3-2.2 eV）之间的长波红外空白。
   2. LPE 制备的 b-AsP 纳米片平均厚度约 5 nm，Raman 特征峰为 Ag1、B2g、Ag2；低频区（200-300 cm⁻¹）弱峰归因为 As 振动，高频区（300-500 cm⁻¹）归因为 P-P/As-P 键合。
   3. Z 扫描测得 1800 nm 处 β = -0.23 cm/GW，Is = 3.336 GW/cm²，Ts = 10.45%；Is 比石墨烯（25.4 GW/cm²）和黑磷（58.2 GW/cm²）低近一个数量级。
-  4. DFT（[[../concepts/pbe-functional|PBE 泛函]]）计算块体 b-AsP 带隙 0.0915 eV，远小于块体 b-P 的 0.2737 eV；HSE 泛函因严重高估带隙而未采用。
+  4. DFT（[[../concepts/PBE-functional]]）计算块体 b-AsP 带隙 0.0915 eV，远小于块体 b-P 的 0.2737 eV；HSE 泛函因严重高估带隙而未采用。
   5. b-AsP 低饱和强度的三个微观机制：(a) 带隙小→[[../concepts/exciton-binding-energy|激子结合能]]低→复合慢；(b) VBM 与 CBM [[../concepts/charge-density|电荷密度]]在实空间分离→电子空穴空间隔离；(c) As 掺杂打破结构对称性→内建电场阻碍复合。
   6. 1.5 μm EDF 锁模结果：中心波长 1564.52 nm，3 dB 带宽 3.63 nm，脉宽 828 fs（Sech² 拟合），重频 8.49 MHz，SNR ≈ 61 dB，TBP ≈ 0.366，最大输出 7.97 mW（泵浦 300 mW，斜率效率 2.9%）。
   7. 2 μm TDF 锁模结果：中心波长 1888.42 nm，3 dB 带宽 1.59 nm，脉宽 2.49 ps，重频 6.09 MHz，SNR ≈ 68.8 dB，TBP ≈ 0.332，最大输出 35.5 mW（斜率效率 3.5%），光谱具典型 Kelly 边带。

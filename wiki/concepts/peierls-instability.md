@@ -57,9 +57,16 @@ updated: 2026-08
 - [[../papers/kawakamiChargedensityWaveAssociated2023]]
 - [[../papers/liPhaseTransitions2D2021]]
 - [[../papers/Koley2020charge]]
+- [[../papers/Inosov2008fermi]] — Fermi surface nesting in several transition metal dichalcogenides
+- [[../papers/lezoualchStudyChargeDensity]] — Study of charge density waves in transition metal dichalcogenides
+
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/charge-density-wave|电荷密度波 (CDW)]]：派尔斯不稳定性的宏观表现。
 - [[../concepts/fermi-surface-nesting|费米面嵌套 (FSN)]]：驱动发散的几何条件。
 - [[../concepts/periodic-lattice-distortion|周期性晶格畸变 (PLD)]]：伴随 CDW 的原子位移。
 - [[../concepts/kohn-anomaly|Kohn 异常]]：声子谱在 $2k_F$ 处的软化。
+
+## 🏷️ 专业名词别名
+
+- `peierls-transition`（concepts）

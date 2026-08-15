@@ -102,7 +102,7 @@ Ri He, Hua Wang, Fenglin Deng, Yuxiang Gao, Bingwen Zhang, Yubai Shi, Run-Wei Li
   - 实体 [[../entities/WTe2]]（背景中提及滑动铁电实验体系）
   - 实体 [[../entities/VASP]]、[[../entities/Wannier90]]（极化计算方法背景）
   - 实体 [[../entities/bilayer-graphene|双层石墨烯]]（非极性二维体系，验证机制不依赖铁电性）
-  - 图表 [[../figures/domain-walls]]
+  - 图表 [[../concepts/domain-wall]]
   - 图表 [[../figures/heterostructures-stacking]]
   - 图表 [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
   - 图表 [[../figures/mathematical-models]]（能量竞争模型公式1-3）

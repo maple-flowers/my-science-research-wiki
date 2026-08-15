@@ -49,9 +49,15 @@ updated: 2026-08
 - [[../papers/kawakamiChargedensityWaveAssociated2023]]
 - [[../papers/kresseInitiomolecularDynamicsLiquid1993]]
 - [[../papers/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994]]
+- [[../papers/CastroNeto2001charge]] — Charge Density Wave, Superconductivity, and Anomalous Metallic Behavior in 2D Transition Metal Dichalcogenides
+
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/charge-density-wave|电荷密度波 (CDW)]]：赝能隙往往是 CDW 的前驱态。
 - [[../concepts/van-hove-singularity|范霍夫奇点]]：奇点附近的强关联效应易产生赝能隙。
 - [[../concepts/peierls-instability|派尔斯不稳定性]]：驱动涨落的根源。
 - [[../entities/TMDs|过渡金属二硫化物 (TMDs)]]：展现典型赝能隙行为的体系。
+
+## 🏷️ 专业名词别名
+
+- `pseudo-gap`（concepts）

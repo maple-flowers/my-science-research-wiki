@@ -58,7 +58,7 @@ G. Kresse、D. Joubert，1999，Physical Review B 59(3), 1758–1775，DOI: 10.1
 严格推导出 Vanderbilt 超软赝势（US-PP）的总能量泛函可由稍作修改的 Blöchl 投影增强波（PAW）泛函对两个原子中心项作一阶线性化得到，从而证明 US-PP 是 PAW 的线性化近似，并给出在现有 US-PP 平面波程序中实现 PAW 的最简路径与系统基准。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/density-functional-theory|密度泛函理论]] [[../concepts/ultrasoft-pseudopotential|超软赝势（US-PP）]] [[../concepts/projector-augmented-wave|投影增强波（PAW）]] [[../concepts/norm-conserving-pseudopotential|模守恒赝势]] [[../concepts/augmentation-charge|增强电荷]] [[../concepts/compensation-charge|补偿电荷]] [[../concepts/nonlinear-core-correction|非线性核心修正]] [[../concepts/frozen-core-approximation|冻结核心近似]] [[../concepts/ghost-states|鬼态]] [[../concepts/flapw|FLAPW]]
+  - 概念 [[../concepts/density-functional-theory|密度泛函理论]] [[../concepts/ultrasoft-pseudopotential|超软赝势（US-PP）]] [[../concepts/paw-method]] [[../concepts/norm-conserving-pseudopotential|模守恒赝势]] [[../concepts/augmentation-charge|增强电荷]] [[../concepts/compensation-charge|补偿电荷]] [[../concepts/nonlinear-core-correction|非线性核心修正]] [[../concepts/frozen-core-approximation|冻结核心近似]] [[../concepts/ghost-states|鬼态]] [[../concepts/flapw|FLAPW]]
   - 实体 [[../entities/VASP]]
   - 图表 [[../figures/mathematical-models]] [[../figures/electronic-bands|电子能带与电子态 (Electronic Band Structures & DOS)]]
   - 年度 [[../write/1945-1999|1999]]

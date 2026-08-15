@@ -128,7 +128,7 @@ project-2 Mn多铁（二维多铁异质结与磁电耦合主题高度相关，�
   - 应变介导磁电耦合 ([[../concepts/strain-mediated-magnetoelectric-coupling|strain-mediated magnetoelectric coupling]])
   - 逆压电效应 ([[../concepts/inverse-piezoelectric-effect|inverse piezoelectric effect]])
   - 垂直磁各向异性 ([[../concepts/perpendicular-magnetic-anisotropy|perpendicular magnetic anisotropy]], PMA)
-  - 磁各向异性常数/磁各向异性能 [[../concepts/magnetic-anisotropy-energy|磁各向异性能]] (K1 / magnetic anisotropy energy, MAE)
+  - 磁各向异性常数/磁各向异性能 [[../concepts/magnetic-anisotropy]] (K1 / magnetic anisotropy energy, MAE)
   - 反常霍尔电阻 (anomalous Hall resistance, Rxy)
   - 非易失性电控磁 (non-volatile electric-field control of magnetism)
   - 自旋逻辑互补架构 (spin logic complementary architecture, SLCA)

@@ -47,10 +47,16 @@ S. L. Dudarev 等人的工作证明，使用合理的 $U$ 值不仅可以修正�
 
 - [[../papers/dudarevElectronenergylossSpectraStructural1998a]]：旋转不变 DFT+U 方法的奠基论文，详细论述了 NiO 的结构与光谱修正。
 - [[../papers/zhouFirstprinciplesPredictionRedox2004]]：展示了 DFT+U 在预测电池材料氧化还原电位中的巨大成功。
+- [[../papers/krishnamurthiSpinChargeDensity2020]] — Spin/charge density waves at the boundaries of transition metal dichalcogenides
+- [[../papers/zhouFirstprinciplesPredictionRedox2004]] — First-principles prediction of redox potentials in transition-metal compounds with LDA+U
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[density-functional-theory|DFT]]：$U$ 修正的基座。
-- [[projector-augmented-wave|PAW]]：在 VASP 中，DFT+U 通常作用于 PAW 势的局域分量上。
+- [[../concepts/paw-method]]：在 VASP 中，DFT+U 通常作用于 PAW 势的局域分量上。
 - MnVO3 / NiO (entities)：典型的强关联氧化物，必须使用 DFT+U 才能准确描述。
 - VASP (entity)：LDAU = .TRUE. 及 LDAUU/LDAUJ 参数。
+
+## 🏷️ 专业名词别名
+
+- `dft-plus-u`（concepts）

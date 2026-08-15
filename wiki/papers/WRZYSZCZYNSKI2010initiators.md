@@ -90,27 +90,27 @@ Wrzyszczyński A.，2010，*Polimery*，55(3), 167–171，DOI: 10.14314/polimer
 本文涉及且 wiki 中已存在的条目：
   - 年度 [[../write/2010-2014|2010]]
   - 项目 [[../projects/project-1-two-photon]]
-  - 概念 [[../concepts/two-photon-cross-section]]、[[../concepts/nonlinear-optics]]
+  - 概念 [[../concepts/two-photon-absorption-cross-section]]、[[../concepts/nonlinear-optics]]
   - 实体 [[../entities/coumarin]]、[[../entities/diphenyliodonium-salt]]、[[../entities/habi]]、[[../entities/femtosecond-laser]]、[[../entities/xanthene-dye]]、[[../entities/thiazine-dye]]、[[../entities/triphenylamine]]
   - 相关论文 [[../../raw/note/WRZYSZCZYNSKI2010initiators]]
   - 概念：
     - [[../concepts/two-photon-absorption|双光子吸收]]
     - [[../concepts/two-photon-polymerization|双光子聚合]]
     - [[../concepts/photoinitiator|光引发剂]]
-    - [[../concepts/d-pi-a-structure|D-π-A 结构]]
+    - [[../concepts/d-pi-a-architecture]]
     - [[../concepts/two-photon-absorption-cross-section|双光子吸收截面]]
     - [[../concepts/photopolymerization|光聚合]]
     - [[../concepts/photoinduced-electron-transfer|光诱导电子转移]]
     - [[../concepts/exciplex|激基复合物]]
-    - [[../concepts/intramolecular-charge-transfer|分子内电荷转移]]
+    - [[../concepts/ict-mechanism]]
   - 实体：
     - [[../entities/stilbene|二苯乙烯]]
 ## 🆕 新概念/实体建议
   - [[../concepts/two-photon-absorption|two-photon-absorption]] — 双光子吸收（TPA），非线性光学过程，分子同时吸收两个低能光子，概率正比于 I₀²
   - [[../concepts/two-photon-polymerization|two-photon-polymerization]] — 双光子聚合（TPP），利用 TPA 在激光焦点 λ³ 体素内引发聚合的真三维微加工技术
   - [[../concepts/photoinitiator|photoinitiator]] — 光引发剂，吸收光能后产生自由基/阳离子引发聚合的化合物
-  - [[../concepts/d-pi-a-structure|d-pi-a-structure]] — D-π-A / D-π-D 分子结构，电子给体-共轭桥-电子受体架构，是增大双光子吸收截面的经典设计
-  - [[../concepts/two-photon-cross-section|two-photon-cross-section]] — 双光子吸收截面 δ，单位 GM（1 GM = 10⁻⁵⁰ cm⁴·s·photon⁻¹），衡量分子双光子吸收能力
+  - [[../concepts/d-pi-a-architecture]] — D-π-A / D-π-D 分子结构，电子给体-共轭桥-电子受体架构，是增大双光子吸收截面的经典设计
+  - [[../concepts/two-photon-absorption-cross-section]] — 双光子吸收截面 δ，单位 GM（1 GM = 10⁻⁵⁰ cm⁴·s·photon⁻¹），衡量分子双光子吸收能力
   - [[../concepts/photoinduced-electron-transfer|photoinduced-electron-transfer]] — 光诱导电子转移（PET），二元引发体系中光敏剂与共引发剂之间的电子传递机制
   - [[../concepts/exciplex|exciplex]] — 激基复合物，激发态引发剂与基态单体形成的瞬态复合物，参与自由基生成
   - [[../entities/coumarin|coumarin]] — 香豆素类染料，常用作双光子光敏剂（电子受体），与 DPI/HABI 等共引发剂配合
@@ -145,7 +145,7 @@ Wrzyszczyński A.，2010，*Polimery*，55(3), 167–171，DOI: 10.14314/polimer
   - 顺序吸收 / 同时吸收（sequential / simultaneous absorption）
   - 虚态（[[../concepts/virtual-state|virtual state]], stan wirtualny）
   - 体素（[[../concepts/voxel|voxel]], objętość λ³）
-  - 给体-π-受体（[[../concepts/donor-pi-acceptor|donor–π–acceptor]], D-π-D / D-π-A-π-D）
+  - 给体-π-受体（[[../concepts/d-pi-a-architecture]], D-π-D / D-π-A-π-D）
   - 激基复合物（[[../concepts/exciplex|exciplex]], ekscipleks）
   - 共引发剂（co-initiator, koinicjator）
   - 光诱导电子转移（[[../concepts/photoinduced-electron-transfer|photoinduced electron transfer]], PET）
@@ -157,7 +157,7 @@ Wrzyszczyński A.，2010，*Polimery*，55(3), 167–171，DOI: 10.14314/polimer
   4. 高效双光子引发剂需同时满足：δ > 10⁻⁵⁰ cm⁴·s·photon⁻¹（即 > 1 GM，实际高效体系可达数百 GM），且能高效产生活性自由基/离子。
   5. Cumpston、Albota 等证明 D-π-D、D-π-A-π-D、A-π-D-π-A 结构分子 δ 可达约 1250 × 10⁻⁵⁰ cm⁴·s·photon⁻¹；增大 δ 的三大策略：延长 π 共轭链（引入苯撑乙烯基）、烯烃桥锁定平面构型、增强给/受电子基团。
   6. 化合物 II（2-4,4'-双(二正丁氨基)-E-[[../entities/stilbene|二苯乙烯]]）δ = 210 GM，是母体 E-二苯乙烯（I）的 20 倍，源于末端氨基到 π 核心的对称[[../concepts/charge-transfer|电荷转移]]；其引发丙烯酸酯聚合遵循自由基机理，λ=355 nm 单光子激发时速率 ∝ I₀⁰·⁵，λ=600 nm 双光子激发时 ∝ I₀。
-  7. D-π-D 二苯乙烯衍生物的引发机理：双光子吸收后发生[[../concepts/intramolecular-charge-transfer|分子内电荷转移]]，与单体形成[[../concepts/exciplex|激基复合物]]，经 α-碳（相对 N）脱质子产生自由基；末端氨基 α-碳上必须有 H，无 α-H 的二苯基氨基衍生物虽 δ 大但只能经电荷复合失活，引发效率极低。
+  7. D-π-D 二苯乙烯衍生物的引发机理：双光子吸收后发生[[../concepts/ict-mechanism]]，与单体形成[[../concepts/exciplex|激基复合物]]，经 α-碳（相对 N）脱质子产生自由基；末端氨基 α-碳上必须有 H，无 α-H 的二苯基氨基衍生物虽 δ 大但只能经电荷复合失活，引发效率极低。
   8. 二元引发体系：香豆素/酮香豆素（电子受体/光敏剂）+ HABI 或 DPI（电子给体/共引发剂）；激发态香豆素从共引发剂夺电子，DPI 接受电子后裂解产生芳基自由基引发聚合；其他体系包括呫吨染料（曙红）+ 胺（N-甲基二乙醇胺、N,N-二甲基-2,6-二异丙基苯胺）。
   9. 双光子聚合四大优势：真三维体加工（无需逐层叠加）、近红外光低损伤/深穿透、氧阻聚仅受单体溶解氧影响（表面氧影响被消除）、亚微米分辨率（突破[[../concepts/diffraction-limit|衍射极限]]）。
   10. 典型应用：三维微纳结构制造（光子晶体、微机械、微针）、三维光学数据存储、生物细胞无损成像；新型近红外高 δ 高量子产率引发剂的合成仍是繁琐漫长的过程。

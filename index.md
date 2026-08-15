@@ -6,16 +6,16 @@
 
 *共 102 个正式概念页（反链聚合中间产物不计入），完整列表见 `wiki/concepts/` 目录。*
 
-- [[wiki/concepts/miscellaneous-concepts|滑动/堆叠铁电性 Sliding Ferroelectricity]]
-- [[wiki/concepts/miscellaneous-concepts|多铁性 Multiferroicity]]
-- [[wiki/concepts/miscellaneous-concepts|磁电耦合 Magnetoelectric Coupling]]
-- [[wiki/concepts/molecular-beam-epitaxy|莫尔超晶格 Moiré Superlattice]]
-- [[wiki/concepts/miscellaneous-concepts|极化翻转动力学 Polarization Switching Dynamics]]
-- [[wiki/concepts/miscellaneous-concepts|超顺电性 Super-paraelectricity]]
-- [[wiki/concepts/miscellaneous-concepts|拓扑缺陷与拓扑极化/磁序 Topological Defects]]
-- [[wiki/concepts/miscellaneous-concepts|二维范德华材料 2D Materials]]
-- [[wiki/concepts/molecular-beam-epitaxy|机器学习势与大尺度原子模拟 MLIP]]
-- [[wiki/concepts/miscellaneous-concepts|铁电隧道结与非挥发存储器 FTJ]]
+- [[wiki/concepts/sliding-ferroelectricity|滑动/堆叠铁电性 Sliding Ferroelectricity]]
+- [[wiki/concepts/multiferroicity|多铁性 Multiferroicity]]
+- [[wiki/concepts/magnetoelectric-coupling|磁电耦合 Magnetoelectric Coupling]]
+- [[wiki/concepts/moire-superlattice|莫尔超晶格 Moiré Superlattice]]
+- [[wiki/concepts/polarization-switching|极化翻转动力学 Polarization Switching Dynamics]]
+- [[wiki/concepts/super-paraelectricity|超顺电性 Super-paraelectricity]]
+- [[wiki/concepts/topological-defects|拓扑缺陷与拓扑极化/磁序 Topological Defects]]
+- [[wiki/concepts/2d-materials|二维范德华材料 2D Materials]]
+- [[wiki/concepts/machine-learning-potential|机器学习势与大尺度原子模拟 MLIP]]
+- [[wiki/concepts/ferroelectric-tunnel-junction|铁电隧道结与非挥发存储器 FTJ]]
 - ……等等，涵盖铁电/多铁、磁电、拓扑、二维材料、电荷密度波、超导、光学、机器学习势、缺陷与相变等方向，详见 `wiki/concepts/`。
 
 ## 实体（Entities：材料/器件/结构/方法）
@@ -28,16 +28,16 @@
   - [[wiki/entities/In2Se3|硒化铟 In2Se3]]
   - [[wiki/entities/SnTe|碲化锡 SnTe]]
   - [[wiki/entities/MXenes|过渡金属碳/氮化物 MXenes]]
-  - [[wiki/entities/CrI3|铁锗碲 Fe3GeTe2]]
-  - [[wiki/entities/TMDs|1T-TaS₂]]、[[wiki/entities/TMDs|2H-TaSe₂]]、[[wiki/entities/CrI3|CrI₃]]、[[wiki/entities/CrI3|Cr₂Ge₂Te₆]]、[[wiki/entities/graphene|黑磷]] 等
+  - [[wiki/entities/Fe3GeTe2|铁锗碲 Fe3GeTe2]]
+  - [[wiki/entities/1T-TaS2|1T-TaS₂]]、[[wiki/entities/2H-TaSe2|2H-TaSe₂]]、[[wiki/entities/CrI3|CrI₃]]、[[wiki/entities/Cr2Ge2Te6|Cr₂Ge₂Te₆]]、[[wiki/entities/black-phosphorus|黑磷]] 等
 - **钙钛矿/氧化物多铁体系**：
   - [[wiki/entities/BiFeO3|铁酸铋 BiFeO3]]
-  - [[wiki/entities/BiFeO3|锰酸钬 HoMnO3]]
-  - [[wiki/entities/BaTiO3|钛酸钡 BaTiO₃]]、[[wiki/entities/BiFeO3|BiMnO₃]]、[[wiki/entities/BiFeO3|CoCr₂O₄]] 等
+  - [[wiki/entities/HoMnO3|锰酸钬 HoMnO3]]
+  - [[wiki/entities/BaTiO3|钛酸钡 BaTiO₃]]、[[wiki/entities/BiMnO3|BiMnO₃]]、[[wiki/entities/CoCr2O4|CoCr₂O₄]] 等
 - **微观结构与算法工具**：
-  - [[wiki/entities/misc-materials-entity|畴壁 Domain Wall]]
-  - [[wiki/entities/software-tool-entity|机器学习势 Deep Potential (DPMD)]]
-  - [[wiki/entities/software-tool-entity|ABINIT]]、[[wiki/entities/software-tool-entity|ARPES]]、[[wiki/entities/software-tool-entity|Bader 电荷分析]] 等
+  - [[wiki/concepts/domain-wall|畴壁 Domain Wall]]
+  - [[wiki/entities/deep-potential|机器学习势 Deep Potential (DPMD)]]
+  - [[wiki/entities/ABINIT|ABINIT]]、[[wiki/concepts/ARPES|ARPES]]、[[wiki/concepts/bader-analysis|Bader 电荷分析]] 等
 - ……等等，涵盖二维材料、钙钛矿/氧化物、分子多铁、软件/仪器、器件结构等，详见 `wiki/entities/`。
 
 ## 主题（Topics）

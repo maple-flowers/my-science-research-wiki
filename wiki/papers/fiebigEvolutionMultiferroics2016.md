@@ -102,7 +102,7 @@ Manfred Fiebig、Thomas Lottermoser、Dennis Meier、Morgan Trassin（ETH Züric
   - 实体 [[../entities/BaTiO3|BaTiO₃]]
   - 实体 [[../entities/LuFe2O4|LuFe₂O₄]]
   - 实体 [[../entities/SrMnO3|SrMnO₃]]
-  - 图表 [[../figures/domain-walls]]
+  - 图表 [[../concepts/domain-wall]]
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2016]]
   - 项目 [[../projects/project-2-mn-multiferroics]]

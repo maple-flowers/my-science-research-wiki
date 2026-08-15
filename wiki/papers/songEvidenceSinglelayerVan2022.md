@@ -107,12 +107,12 @@ Qian Song, Connor A. Occhialini, Emre Ergeçen, Batyr Ilyas, Danila Amoroso, Pao
 ## 💡 一句话
 首次在单层 NiI₂ 中通过双折射、SHG 和圆二色拉曼等互补光学手段，并结合 DFT+U 与蒙特卡洛模拟，实验证实了本征第二类多铁性（proper-screw 螺旋磁序诱导沿 a 轴电极化）在二维极限下的存在，单层 T_N ≈ 21 K。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/2d-materials]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/berry-phase]]、[[../concepts/type-ii-multiferroicity|第二类多铁性]]、[[../concepts/electromagnon|电磁振子]]、[[../concepts/raman-optical-activity|拉曼光学活性]]、[[../concepts/second-harmonic-generation|二次谐波产生]]、[[../concepts/birefringence|双折射]]、[[../concepts/magnetic-anisotropy-energy|磁各向异性]]、[[../concepts/geometric-frustration|几何阻挫]]、[[../concepts/superexchange|超交换]]、[[../concepts/helical-magnetism|螺旋磁性]]、[[../concepts/improper-electronic-ferroelectricity|非本征电子铁电性]]
+  - 概念 [[../concepts/multiferroicity]]、[[../concepts/2d-materials]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/berry-phase]]、[[../concepts/type-ii-multiferroicity|第二类多铁性]]、[[../concepts/electromagnon|电磁振子]]、[[../concepts/raman-optical-activity|拉曼光学活性]]、[[../concepts/second-harmonic-generation|二次谐波产生]]、[[../concepts/birefringence|双折射]]、[[../concepts/magnetic-anisotropy]]、[[../concepts/geometric-frustration|几何阻挫]]、[[../concepts/superexchange|超交换]]、[[../concepts/helical-magnetism|螺旋磁性]]、[[../concepts/improper-electronic-ferroelectricity|非本征电子铁电性]]
   - 实体 [[../entities/VASP]]、[[../entities/h-BN]]、[[../entities/NiI2|二碘化镍 NiI₂]]、[[../entities/WIEN2k|WIEN2k]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/optical-spectra]]、[[../figures/vibrational-spectra]]、[[../figures/electronic-devices]]、[[../figures/domain-walls]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/optical-spectra]]、[[../figures/vibrational-spectra]]、[[../figures/electronic-devices]]、[[../concepts/domain-wall]]
   - 年度 [[../write/2020-2024|2022]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
-  - 概念 [[../concepts/spin-helix]]、[[../concepts/magnetic-anisotropy]]、[[../concepts/inversion-symmetry-breaking]]、[[../concepts/rotational-symmetry-breaking]]、[[../concepts/skyrmions]]
+  - 概念 [[../concepts/spin-helix]]、[[../concepts/magnetic-anisotropy]]、[[../concepts/inversion-symmetry-breaking]]、[[../concepts/rotational-symmetry-breaking]]、[[../concepts/skyrmion]]
   - 相关论文 [[../../raw/note/songEvidenceSinglelayerVan2022]]
   - 实体 [[../entities/WIEN2k]]
 
@@ -128,7 +128,7 @@ Qian Song, Connor A. Occhialini, Emre Ergeçen, Batyr Ilyas, Danila Amoroso, Pao
   - [[../concepts/improper-electronic-ferroelectricity|improper-electronic-ferroelectricity]]（非本征电子铁电性）：在中心对称晶格中由反演破缺磁序驱动产生的极化，NiI₂ 即属此类。
   - 实体 [[../entities/NiI2|NiI2]]（二碘化镍）：过渡金属二卤化物 vdW 磁性半导体，Ni²⁺ (3d⁸, S=1) 三角晶格，块体 T_N,1≈75 K（AFM）、T_N,2≈59.5 K（螺旋磁/多铁），单层 T_c≈21 K；应建实体条目。
   - 实体 [[../entities/WIEN2k|WIEN2k]]：全电子全势 APW+lo 代码，本文与 VASP 交叉验证 DFT 结果。
-  - [[../concepts/helical-magnetism|helical-magnetism]]（螺旋磁性）、[[../concepts/geometric-frustration|geometric-frustration]]（几何阻挫）、[[../concepts/superexchange|superexchange]]（超交换）、[[../concepts/skyrmions|skyrmions]]（斯格明子）亦可考虑作为独立概念条目。
+  - [[../concepts/helical-magnetism|helical-magnetism]]（螺旋磁性）、[[../concepts/geometric-frustration|geometric-frustration]]（几何阻挫）、[[../concepts/superexchange|superexchange]]（超交换）、[[../concepts/skyrmion]]（斯格明子）亦可考虑作为独立概念条目。
 ## 📊 关键图表
   - 图1 — CVT/PVD NiI₂ 晶体的 X 射线衍射（沿 c 轴）、粉末衍射、7 nm PVD 薄片光学图及 TEM 电子衍射，确认晶体结构与质量。
   - **图示描述**：组合展示 CVT 生长块材沿 c 轴的 (0 0 l) X 射线衍射峰、PVD 薄片的粉末衍射谱、7 nm 薄片的光学显微照片以及 TEM 选区电子衍射图样；横轴 2θ 单位为度，强度为任意单位。
@@ -196,10 +196,10 @@ Qian Song, Connor A. Occhialini, Emre Ergeçen, Batyr Ilyas, Danila Amoroso, Pao
   1. NiI₂ 室温为菱面体 R3̄m 结构，Ni²⁺ (3d⁸, S=1) 形成三角晶格；块体 T_N,1≈75 K 进入 AFM 相，T_N,2≈59.5 K 进入 proper-screw 螺旋磁相，Q=(0.138, 0, 1.457) r.l.u.，对称性由菱面体降为单斜，出现面内电极化（垂直于 Q）。
   2. 单层 NiI₂ 多铁转变温度 T_c≈21 K（双折射 dθ/dT 极小值定义），2 层 30 K、3 层 39 K、4 层 41 K，单调趋于块体 59.5 K；这是首次在单层 vdW 材料中实验证实本征 type-II [[../concepts/multiferroicity|多铁性]]。
   3. 转变温度层数依赖由[[../entities/CrI3|层间反铁磁]]交换 J⊥ 主导：MC 拟合给出 J⊥≈0.45 J‖（J‖≈7 meV），即 J⊥≈3.15 meV，与 DFT（VASP 3.1 meV / WIEN2k 2.8 meV）高度吻合；经验公式 T_c(N)=T_c^{1-layer}·tanh(b ln N + ½ ln(t+1)/(t−1))，t=T_N,2/T_c^{1-layer}≈2.8，b=1.05，无拟合参数。
-  4. 单层中[[../concepts/magnetic-anisotropy-energy|磁各向异性]]保证有限温度长程磁序（规避 Mermin–Wagner），三角晶格层内交换阻挫 + 碘 5p 介导的[[../concepts/superexchange|超交换]]与 SOC 共同稳定 proper-screw 螺旋；MC [[../concepts/migdal-eliashberg-theory|各向异性]]项被 rescale 至从头算值的 60% 以偏向螺旋解。
+  4. 单层中[[../concepts/magnetic-anisotropy]]保证有限温度长程磁序（规避 Mermin–Wagner），三角晶格层内交换阻挫 + 碘 5p 介导的[[../concepts/superexchange|超交换]]与 SOC 共同稳定 proper-screw 螺旋；MC [[../concepts/migdal-eliashberg-theory|各向异性]]项被 rescale 至从头算值的 60% 以偏向螺旋解。
   5. gKNB 模型 P_ij=M·S_i×S_j：DFT+U+SOC 四态法算得单层 M 张量（单位 10⁻⁵ eÅ）为 [[20,0,32],[0,348,−520],[0,25,0]]，主导分量 M_yy=348、M_yz=−520；沿 a 轴传播螺旋预测 P‖=3M_22 sin(τδ)/2；无论螺旋沿 a 轴还是沿体相 Q 倾斜（自旋平面与基面成 θ=55°），极化始终沿 a 轴，手性 τ=±1 决定极化方向；MC 得单层 T_c≈27 K、|P|~10⁻⁵ eÅ 量级，与实验 21 K 定性一致，[[../concepts/magnetic-point-group|磁点群]]为极性 21′。
   6. ED-SHG 选 λ=991 nm（低于[[../concepts/optical-band-gap|光学带隙]]和 d-d 跃迁）以排除磁偶极 SHG；826/780 nm 附近存在 MD-SHG。RA-SHG 图案与 C₂ 单斜点群 ED-SHG 张量元吻合；单层存在温度无关的 NiI₂/hBN 界面残余 SHG。
   7. 拉曼：T_N,1 以上仅 80.2 cm⁻¹ E_g 声子；磁有序相出现 120.8、168.8 cm⁻¹ 单磁振子模；T_N,2 以下 QES 硬化为 31、37 cm⁻¹ 尖锐[[../concepts/electromagnon|电磁振子]]模，显示巨大 ROA（其他声子/磁振子无 ROA），Stokes/anti-Stokes 间 ROA 反转；80 cm⁻¹ 峰分裂为 79.9/80.2 cm⁻¹ 两声子。
   8. 电磁振子的大 ROA 是磁手性基态和动态[[../concepts/magnetoelectric-coupling|磁电耦合]]的直接谱学指纹；BPE 测量中多铁相零偏光电流显著增强，1 T 面内磁场（垂直电场/沿 a 轴附近）使光电流增加 10–15%，归因于磁电耦合导致极化增大。
   9. NiI₂ 被归类为 improper electronic ferroelectricity（非本征电子铁电体）范例：极化由反演破缺磁序在原中心对称晶格中驱动，而非结构铁电畸变；这区别于第一类多铁体。
-  10. 配体工程（NiBr₂ 层间 AFM 耦合仅 ~1.2 meV vs NiI₂ ~3 meV，表明 I-5p 扩展轨道介导层间交换的关键作用）被提出为调控二维磁基态（螺旋、摆线、[[../concepts/skyrmion|斯格明子]]）的旋钮；未来方向包括 PFM/热释电电流直接测极化、栅压静电调控多铁量子临界、[[../concepts/van-der-waals-heterostructure|vdW 异质结]]界面多铁性。
+  10. 配体工程（NiBr₂ 层间 AFM 耦合仅 ~1.2 meV vs NiI₂ ~3 meV，表明 I-5p 扩展轨道介导层间交换的关键作用）被提出为调控二维磁基态（螺旋、摆线、[[../concepts/skyrmion|斯格明子]]）的旋钮；未来方向包括 PFM/热释电电流直接测极化、栅压静电调控多铁量子临界、[[../concepts/vdW-heterostructure]]界面多铁性。

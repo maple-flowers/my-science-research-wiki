@@ -81,9 +81,9 @@ S. Prosandeev, S. Lisenkov, L. Bellaiche et al.，2010，Physical Review Letters
 ## 💡 一句话
 用基于第一性原理的有效哈密顿量结合蒙特卡洛模拟证实 BFO 超薄膜（h ≳ 20 Å）规则 71° 条带畴遵循 Kittel 定律，但其微观驱动力由畴壁处氧八面体倾斜（AFD）短程相互作用与表面电偶极长程作用和磁电耦合的竞争所主导，与传统铁电/铁磁薄膜截然不同。
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/kittel-law|基特尔定律]]、[[../concepts/effective-hamiltonian|有效哈密顿量]]、[[../concepts/oxygen-octahedra-tilting|氧八面体倾斜]]、[[../concepts/domain-wall-energy|畴壁能]]、[[../concepts/depolarizing-field|退极化场]]、[[../concepts/open-circuit-boundary-conditions|开路电学边界条件]]、[[../concepts/real-space-energy-decomposition|实空间能量分解]]、[[../concepts/weak-ferromagnetism|弱铁磁性]]
+  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/kittel-law|基特尔定律]]、[[../concepts/effective-hamiltonian|有效哈密顿量]]、[[../concepts/oxygen-octahedra-tilting|氧八面体倾斜]]、[[../concepts/domain-wall-energy|畴壁能]]、[[../concepts/depolarization-field]]、[[../concepts/open-circuit-boundary-conditions|开路电学边界条件]]、[[../concepts/real-space-energy-decomposition|实空间能量分解]]、[[../concepts/weak-ferromagnetism|弱铁磁性]]
   - 实体 [[../entities/BiFeO3]]、[[../concepts/domain-wall]]、[[../entities/BaTiO3|BaTiO₃]]、[[../entities/PZT|PZT]]、[[../entities/PbTiO3|PbTiO₃]]
-  - 图表 [[../figures/domain-walls]]、[[../figures/mathematical-models]]
+  - 图表 [[../concepts/domain-wall]]、[[../figures/mathematical-models]]
   - 年度 [[../write/2010]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/prosandeevKittelLawInBiFeO3Ultrathin2010]]
@@ -92,7 +92,7 @@ S. Prosandeev, S. Lisenkov, L. Bellaiche et al.，2010，Physical Review Letters
   - [[../concepts/effective-hamiltonian|effective-hamiltonian]]（有效哈密顿量方法）：从第一性原理提取参数、粗粒化至 u_i、ω_i、m_i、η 等关键自由度的经典能量模型，可对上万原子超胞做有限温度蒙特卡洛。
   - [[../concepts/oxygen-octahedra-tilting|oxygen-octahedra-tilting]]（氧八面体倾斜/AFD）：钙钛矿中相邻氧八面体反相旋转的结构自由度；本文揭示其短程相互作用在 BFO 中替代电偶极短程作用成为畴壁能主因。
   - [[../concepts/domain-wall-energy|domain-wall-energy]]（畴壁能）：形成单位面积畴壁所需能量，传统上对应 Kittel 公式中的 C/w 项。
-  - [[../concepts/depolarizing-field|depolarizing-field]]（退极化场）：开路边界下表面束缚电荷产生的反向电场，对应 Kittel 模型中的杂散场能。
+  - [[../concepts/depolarization-field]]（退极化场）：开路边界下表面束缚电荷产生的反向电场，对应 Kittel 模型中的杂散场能。
   - [[../concepts/open-circuit-boundary-conditions|open-circuit-boundary-conditions]]（开路电学边界条件）：表面无自由电荷补偿的边界，存在退极化场，区别于短路（理想电极）条件。
   - [[../concepts/real-space-energy-decomposition|real-space-energy-decomposition]]（实空间逐点能量分解）：本文首创的分析方法，将每项能量按格点投影，从而在原子尺度定位其空间来源（畴壁 vs 表面）。
 ## 📊 关键图表
@@ -140,7 +140,7 @@ S. Prosandeev, S. Lisenkov, L. Bellaiche et al.，2010，Physical Review Letters
 ## ✏️ 可写入 Wiki 的要点
   1. BFO(001) 超薄膜在 1.5% 压应变、开路边界、T=10 K 下形成沿 [100] 交替的"上/下"71° 纳米条带畴；畴内 u_i 与 ξ_i 均沿 [uuv]（v>u），表面四层内偶极和 AFD 矢量形成涡旋以消除面外极化与[[../concepts/depolarization-field|退极化场]]。
   2. 除 G 型反铁磁矢量外，每个畴内还存在约 0.03 μB 的弱铁磁矢量，其方向在 up/down 畴间翻转，原因是弱 FM 矢量倾向于垂直 ξ_i，而 ξ_i 在畴间旋转。
-  3. 当 h>5（约 20 Å）时 w_e²∝h，斜率约 31（以 5 原子胞晶格常数为单位），严格遵循 [[../concepts/kittels-law|Kittel 定律]]；h<3 时条带畴消失（h=1 转为纯 AFD 态）。临界厚度与 PZT、PbTiO3 铁电薄膜（h≈3）同量级。
+  3. 当 h>5（约 20 Å）时 w_e²∝h，斜率约 31（以 5 原子胞晶格常数为单位），严格遵循 [[../concepts/kittel-law]]；h<3 时条带畴消失（h=1 转为纯 AFD 态）。临界厚度与 PZT、PbTiO3 铁电薄膜（h≈3）同量级。
   4. 总能可用 e_tot=e0+Aw+C/w 精确拟合；对 h>5 有 1/A∝h（即 A=A0/(h−h0)，h0≈1.5 晶格常数）且 C≈C0 为常数；由 ∂E/∂w=0 得 w_e=√(C/A)=√(C0(h−h0)/A0)，且 C0/A0≈31，与 w_e²-h 斜率自洽。
   5. 颠覆性机制：1/w 项的主要贡献并非短程电偶极相互作用，而是 AFD（[[../concepts/oxygen-octahedra-tilting|氧八面体倾斜]]）短程相互作用 e_AFD,SR；短程偶极能的正 1/w 贡献几乎被电偶极局域自能的负 1/w 贡献完全抵消。AFD 短程能在数值上约为短程偶极能的两倍。
   6. w 项的两个主要贡献是：(i) 电偶极-偶极长程相互作用（对应 Kittel 模型中的杂散场）；(ii) 磁电相互作用能（公式(1)中含 E_ij 的双二次项），后者是多铁材料独有的新贡献。

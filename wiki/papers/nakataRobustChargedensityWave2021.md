@@ -86,7 +86,7 @@ Nakata, Sugawara, Chainani, Oka, Bao, Zhou, Chuang, Cheng, Kawakami, Saruta, Fuk
 
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/charge-density-wave]]、[[../concepts/2d-materials]]、[[../concepts/electron-correlation|电子关联]]、[[../concepts/mott-insulator|莫特绝缘体]]、[[../concepts/hubbard-model|哈伯德模型]]、[[../concepts/star-of-david|大卫之星团簇]]、[[../concepts/electron-phonon-coupling|电子-声子耦合]]、[[../concepts/bandwidth-controlled-mott-transition|带宽调控型莫特转变]]、[[../concepts/lower-hubbard-band|下哈伯德带]]
-  - 实体 [[../entities/TMDs]]、[[../entities/1T-TaS2]]、[[../entities/graphene|石墨烯]]、[[../entities/ARPES|ARPES]]
+  - 实体 [[../entities/TMDs]]、[[../entities/1T-TaS2]]、[[../entities/graphene|石墨烯]]、[[../concepts/ARPES]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]
   - 年度 [[../write/2020-2024|2021]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]

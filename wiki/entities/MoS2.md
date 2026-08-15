@@ -44,9 +44,15 @@ MoS2 的最显著特征是随厚度减薄发生的带隙转变。
 - [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]
 - [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
 - [[../papers/yangStrainEngineeringTwodimensional2021]]
+- [[../papers/wuElectrostaticGatingIntercalation2022]] — Electrostatic gating and intercalation in 2D materials
+
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 - [[../concepts/valley-polarization|能谷极化]]
 - [[../concepts/photoluminescence|光致发光]]
 - [[../entities/WS2|二硫化钨 (WS2)]]
 - [[../entities/2h-phase|2H 相]]
 - [[../entities/1t-phase|1T 相]]
+
+## 🏷️ 专业名词别名
+
+- `molybdenum-disulfide`（entities）

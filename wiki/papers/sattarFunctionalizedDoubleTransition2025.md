@@ -70,7 +70,7 @@ Kubra Sattar, Rabia Tahir, Syedah Afsheen Zahra, Zhenyue Nie, Jing Wang, Houbing
 首次通过 400 °C 真空热处理在自支撑双过渡金属 MXene Mo₂Ti₂C₃Tₓ 薄膜中原位生成金红石 TiO₂/MoO₃ 相并诱导出室温铁电性，以此为活性层、激光还原石墨烯（LSG）为上下电极构筑全柔性 LSG/H-DTM/LSG 三明治忆阻器，实现双极性阻变（开关比 ~10²、耐久 10³ 次、保持 5×10³ s），机理为铁电内电场调控的氧空位导电细丝。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2d-materials]]、[[../entities/ferroelectric-memristor|铁电忆阻器]]、[[../concepts/oxygen-vacancy-filament|氧空位导电细丝]]、[[../concepts/resistive-switching-memory|阻变存储器]]、[[../concepts/space-charge-limited-current|空间电荷限制电流（SCLC）]]
+  - 概念 [[../concepts/2d-materials]]、[[../entities/ferroelectric-memristor|铁电忆阻器]]、[[../concepts/oxygen-vacancy-filament|氧空位导电细丝]]、[[../concepts/resistive-switching]]、[[../concepts/space-charge-limited-current|空间电荷限制电流（SCLC）]]
   - 实体 [[../entities/MXenes]]、[[../entities/Mo2Ti2C3Tx|Mo₂Ti₂C₃Tₓ]]、[[../entities/laser-reduced-graphene|激光还原石墨烯（LSG）]]
   - 图表 [[../figures/electronic-devices]]、[[../figures/crystal-structures]]
   - 年度 [[../write/2025-2029|2025]]
@@ -134,7 +134,7 @@ Kubra Sattar, Rabia Tahir, Syedah Afsheen Zahra, Zhenyue Nie, Jing Wang, Houbing
 文章按"材料制备→物性表征→功能验证→机理分析"经典范式展开：(1) HF 刻蚀 + TMAOH 插层制得自支撑 Mo₂Ti₂C₃Tₓ 薄膜；(2) 400 °C 真空热处理诱导 TiO₂/MoO₃ 氧化相；(3) 用 XRD/FTIR/Raman 三件套确认氧化相，PFM + P-E 回线 + 蝴蝶形 C-V 构成铁电证据链；(4) 制备 LSG/H-DTM/LSG 与对照 LSG/DTM/LSG 器件做 I-V 对比；(5) Log I-Log V 拟合区分 LRS（欧姆，斜率≈1）与 HRS（SCLC，斜率≈2）；(6) 提出铁电内电场辅助氧空位导电细丝模型。值得复用的术语：双过渡金属 MXene（double transition MXene, DTM）；铁电忆阻器（ferroelectric memristor）；阻变存储器（resistive RAM, RRAM）；双极性电阻开关（bipolar resistive switching）；氧空位导电细丝（oxygen vacancy conduction filament）；激光还原石墨烯（laser-scribed/reduced graphene, LSG）；空间电荷限制电流（space-charge-limited current, SCLC）；剩余极化（remnant polarization, Pᵣ）。
 
 ## ✏️ 可写入 Wiki 的要点
-  - 自支撑 Mo₂Ti₂C₃Tₓ 薄膜由 Mo₂Ti₂AlC₃ [[../concepts/max-phase|MAX 相]]经 HF（1 g MAX + 10 mL HF，500 rpm，96 h，50 °C）刻蚀、25% TMAOH 插层剥离制得；XRD (002) 峰从 7.6°→6.8°→~5°，对应 c-lp 由 23.24 Å 增大到 32 Å（d 间距 16 Å）。
+  - 自支撑 Mo₂Ti₂C₃Tₓ 薄膜由 Mo₂Ti₂AlC₃ [[../entities/MAX-phase]]经 HF（1 g MAX + 10 mL HF，500 rpm，96 h，50 °C）刻蚀、25% TMAOH 插层剥离制得；XRD (002) 峰从 7.6°→6.8°→~5°，对应 c-lp 由 23.24 Å 增大到 32 Å（d 间距 16 Å）。
   - 400 °C 真空热处理后 (002) 峰仍保留，但 12°/30°/35° 出现弱峰，归属为金红石/锐钛矿 TiO₂ 与 MoO₃；FTIR 出现 Ti–O（618、1425 cm⁻¹）和 Mo–O（867、1164 cm⁻¹）峰；Raman 新增 146、330 cm⁻¹（TiO₂）与 816、986 cm⁻¹（MoO₃ 的 Mo–O–Mo 与 Mo=O）。
   - 原始 Mo₂Ti₂C₃Tₓ 的 P-E 曲线为类圆形损耗型、无滞回；热处理后呈现典型饱和电滞回线，Pᵣ 随电压（5→500 V）增大而增大、随频率升高而减小（畴壁与可动电荷响应变慢）；C-V 呈蝴蝶形，三者共同证实室温[[../concepts/ferroelectricity|铁电性]]。
   - PFM（Bruker IconIR，探针 2.8 N/m、75 kHz，0.4 Hz、2 V_AC）在 1.5 μm 扫描区观察到不规则、小尺寸的 OOP/IP [[../concepts/ferroelectric-domain|铁电畴]]衬度；薄膜表面起伏约 240 nm。

@@ -55,5 +55,5 @@ $$ \frac{\hbar^2 |\mathbf{k}+\mathbf{G}|^2}{2m} \le E_{cut} $$
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[monkhorst-pack-grid|Monkhorst-Pack 网格]]：在倒空间对平面波基组进行采样的标准网格。
-- [[projector-augmented-wave|PAW]]：用于消除平面波在核区不收敛问题的终极武器。
+- [[../concepts/paw-method]]：用于消除平面波在核区不收敛问题的终极武器。
 - VASP (entity)：最成功的周期性平面波第一性原理计算软件。

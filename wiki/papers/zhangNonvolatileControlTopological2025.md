@@ -102,9 +102,9 @@ Shuo Zhang, Yunfei Zhang, Dan Xing, Lixiu Guan, Junguang Tao et al.，2025，Mat
 通过第一性原理计算加微磁学模拟证明，在 CrInTe2/In2Se3 二维多铁异质结中翻转 In2Se3 的铁电极化，可协同增强 DMI（+6%）并抑制 MAE（−20%），从而在仅 50 mT 辅助磁场下非易失性地实现铁磁态与 Néel 型斯格明子晶格之间的可逆切换，并提出无量纲稳定性判据 κ。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2d-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/topological-defects]]、[[../concepts/skyrmion]]、[[../concepts/bimeron]]、[[../concepts/dzyaloshinskii-moriya-interaction]]、[[../concepts/heisenberg-exchange]]、[[../concepts/magnetic-anisotropy-energy]]、[[../concepts/rashba-effect]]、[[../concepts/spin-transfer-torque]]、[[../concepts/skyrmion-hall-effect]]、[[../concepts/topological-charge]]、[[../concepts/llg-equation]]、[[../concepts/micromagnetic-simulation]]、[[../concepts/racetrack-memory]]、[[../concepts/superexchange]]
+  - 概念 [[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2d-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/polarization-switching]]、[[../concepts/topological-defects]]、[[../concepts/skyrmion]]、[[../concepts/bimeron]]、[[../concepts/dzyaloshinskii-moriya-interaction]]、[[../concepts/heisenberg-exchange]]、[[../concepts/magnetic-anisotropy]]、[[../concepts/rashba-effect]]、[[../concepts/spin-transfer-torque]]、[[../concepts/skyrmion-hall-effect]]、[[../concepts/topological-charge]]、[[../concepts/landau-lifshitz-equation]]、[[../concepts/micromagnetic-simulation]]、[[../concepts/racetrack-memory]]、[[../concepts/superexchange]]
   - 实体 [[../entities/In2Se3]]、[[../entities/VASP]]、[[../entities/Fe3GeTe2]]、[[../entities/CrTe2]]、[[../entities/CrI3]]
-  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../figures/domain-walls]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking|自旋电子学与应变工程]]
+  - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]、[[../concepts/domain-wall]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking|自旋电子学与应变工程]]
   - 年度 [[../write/2025-2029|2025]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 实体 [[../entities/CrInTe2]]、[[../entities/Spirit]]、[[../entities/CrGeTe3]]
@@ -114,13 +114,13 @@ Shuo Zhang, Yunfei Zhang, Dan Xing, Lixiu Guan, Junguang Tao et al.，2025，Mat
   - [[../concepts/skyrmion|skyrmion]]（斯格明子）：受拓扑保护的纳米级涡旋状自旋织构，本文核心拓扑准粒子。
   - [[../concepts/bimeron|bimeron]]（双半子）：面内各向异性体系中拓扑荷为 ±1 的椭圆形自旋织构，可视为斯格明子的面内对应物，霍尔角显著更小。
   - [[../concepts/dzyaloshinskii-moriya-interaction|dzyaloshinskii-moriya-interaction]]（DMI，Dzyaloshinskii-Moriya 相互作用）：反演对称破缺下由 SOC 诱导的反对称交换，E_DMI = −D_ij·(S_i×S_j)，是手性斯格明子成核的核心驱动力。
-  - [[../concepts/magnetic-anisotropy-energy|magnetic-anisotropy-energy]]（MAE，磁各向异性能）：决定易磁化方向的能量项；K > 0 稳定面外磁化（斯格明子），K < 0 稳定面内磁化（双半子）。
+  - [[../concepts/magnetic-anisotropy]]（MAE，磁各向异性能）：决定易磁化方向的能量项；K > 0 稳定面外磁化（斯格明子），K < 0 稳定面内磁化（双半子）。
   - [[../concepts/heisenberg-exchange|heisenberg-exchange]]（海森堡交换作用 J）：相邻自旋间的各向同性交换，倾向于共线排列。
   - [[../concepts/topological-charge|topological-charge]]（拓扑荷 Q）：Q = (1/4π)∫m·(∂_x m × ∂_y m) dxdy，整数绕数，刻画拓扑保护。
   - [[../concepts/skyrmion-hall-effect|skyrmion-hall-effect]]（斯格明子霍尔效应）：拓扑准粒子在电流驱动下因 Magnus 力产生横向漂移的现象；双半子因各向异性耗散张量霍尔角比斯格明子小约 80%。
   - [[../concepts/spin-transfer-torque|spin-transfer-torque]]（自旋转移矩，STT）：自旋极化电流对局域磁矩施加的力矩，可驱动磁畴壁/斯格明子运动，u = jPħμ_B/(2eM_s)。
   - [[../concepts/rashba-effect|rashba-effect]]（Rashba 型 SOC）：界面结构反演不对称导致的自旋-轨道耦合，极化翻转可放大界面 Rashba SOC 从而调制 DMI。
-  - [[../concepts/llg-equation|llg-equation]]（Landau-Lifshitz-Gilbert 方程）：含阻尼、自旋转移矩和热场的磁化动力学方程，微磁学模拟基础。
+  - [[../concepts/landau-lifshitz-equation]]（Landau-Lifshitz-Gilbert 方程）：含阻尼、自旋转移矩和热场的磁化动力学方程，微磁学模拟基础。
   - [[../concepts/micromagnetic-simulation|micromagnetic-simulation]]（微磁学模拟）：介观尺度磁化动力学模拟方法，本文使用 Spirit 软件包。
   - [[../concepts/thiele-equation|thiele-equation]]（Thiele 方程）：G×v − αD·v + 4πB·j = 0，描述拓扑磁结构刚体运动轨迹。
   - [[../concepts/racetrack-memory|racetrack-memory]]（赛道存储器）：以电流驱动磁畴壁/斯格明子沿纳米线运动来存储数据的非易失存储方案；双半子的低霍尔角对其尤其有利。

@@ -96,7 +96,7 @@ Peng Han, Jingtong Zhang, Xumin Chen, Jie Wang（浙江大学、大连理工大�
 基于第一性原理预测二维磁性 RuX₂（X = Cl, Br, I）双层/多层是一类新型多铁滑动铁电体——同向堆叠打破反演对称产生纯电子起源的垂直极化，层间微小滑移即可翻转，且极化可随层数增加与压缩应变显著增强，其中 RuI₂ 综合性能最优。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/sliding-ferroelectricity]]、[[../concepts/multiferroicity]]、[[../concepts/2d-materials]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/polarization-switching]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/moire-superlattice]]、[[../concepts/magnetic-anisotropy-energy|磁各向异性]]、[[../concepts/stack-engineering|堆叠工程]]、[[../concepts/ferrovalley|铁谷]]、[[../concepts/van-der-waals-heterostructure|范德华异质结]]
+  - 概念 [[../concepts/sliding-ferroelectricity]]、[[../concepts/multiferroicity]]、[[../concepts/2d-materials]]、[[../concepts/berry-phase]]、[[../concepts/density-functional-theory]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/polarization-switching]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/moire-superlattice]]、[[../concepts/magnetic-anisotropy]]、[[../concepts/stack-engineering|堆叠工程]]、[[../concepts/ferrovalley|铁谷]]、[[../concepts/vdW-heterostructure]]
   - 实体 [[../entities/VASP]]、[[../entities/h-BN]]、[[../entities/WTe2]]、[[../entities/In2Se3]]、[[../entities/TMDs]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]、[[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]、[[../figures/electronic-bands]]
   - 年度 [[../write/2025-2029|2025]]
@@ -111,7 +111,7 @@ Peng Han, Jingtong Zhang, Xumin Chen, Jie Wang（浙江大学、大连理工大�
   - [[../concepts/stack-engineering|stack-engineering]]（堆叠工程）：通过选择层间堆叠方式/滑移来设计对称性破缺与极化的通用策略，与转角、应变并列的二维材料调控手段。
   - [[../concepts/ferrovalley|ferrovalley]]（铁谷）：单层 RuCl₂ 曾报道的自发谷极化性质；本文指出双层 RuX₂ 谷极化基本消失（RuCl₂ 仅 0.7 meV，RuBr₂/RuI₂ 能带穿费米能级）。
   - 实体 [[../entities/RuCl2|RuCl2]] / [[../entities/RuBr2|RuBr2]] / [[../entities/RuI2|RuI2]]（可合并为 [[../entities/RuX2|RuX2]]）：六角 P-6m2 单层、三棱柱配位的 Ru-4d 磁性范德华卤化物，本文核心材料体系，值得新建实体条目记录其结构、磁性与滑动铁电参数。
-  - 方法 [[../concepts/aimd|aimd]]（从头算分子动力学）、[[../concepts/neb|neb]]（微动弹性带法）、[[../concepts/dft-d2|dft-d2]]（Grimme 范德华修正）：本文使用且 wiki 方法标签中可固化的计算流程。
+  - 方法 [[../concepts/aimd|aimd]]（从头算分子动力学）、[[../concepts/nudged-elastic-band]]（微动弹性带法）、[[../concepts/dft-d2|dft-d2]]（Grimme 范德华修正）：本文使用且 wiki 方法标签中可固化的计算流程。
 
 ## 📊 关键图表
   - 图1：单层 RuX₂ 原子结构（六方 P-6m2，三棱柱配位）、三声子谱（无虚频）、双层 RuCl₂ 的 AFM/FM 自旋极化电荷密度。
@@ -161,7 +161,7 @@ Peng Han, Jingtong Zhang, Xumin Chen, Jie Wang（浙江大学、大连理工大�
   - [[../concepts/berry-phase|Berry-phase method / Berry 相位法]]
   - [[../concepts/switching-barrier|switching barrier / 翻转势垒]]
   - [[../concepts/charge-density|charge density difference / 电荷密度差]]
-  - magnetic anisotropy energy ([[../concepts/magnetic-anisotropy-energy|MAE]]) / 磁各向异性能
+  - magnetic anisotropy energy ([[../concepts/magnetic-anisotropy]]) / 磁各向异性能
   - compressive (tensile) strain / 压缩（拉伸）应变
 
 ## ✏️ 可写入 Wiki 的要点

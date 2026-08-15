@@ -92,7 +92,7 @@ Barbara Federica Scremin，2018，*Organic Electronics* 61, 329–333，DOI [10.
   - 年度 [[../write/2015-2019|2018]]
   - 项目 [[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-1-two-photon]]
   - 概念 [[../concepts/gaussian-beam]]、[[../concepts/radical-cation]]、[[../concepts/dismutation-equilibrium]]
-  - 实体 [[../entities/Origin]]、[[../entities/titanium-sapphire-laser]]
+  - 实体 [[../entities/Origin]]、[[../entities/Ti-sapphire-laser]]
   - 相关论文 [[../../raw/note/Scremin2018nonlinear]]
 ## 📊 关键图表
 > 说明：`raw/figures/Scremin2018nonlinear/` 下仅有 manifest.json，没有实际图片文件，以下按笔记文字描述逐图给出说明，不伪造图片路径。

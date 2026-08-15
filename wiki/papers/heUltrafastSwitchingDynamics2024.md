@@ -96,7 +96,7 @@ Ri He, Bingwen Zhang, Hua Wang, Lei Li, Ping Tang, Gerrit Bauer, Zhicheng Zhong 
   - 实体 [[../entities/deep-potential]]
   - 实体 [[../entities/VASP]]
   - 实体 [[../concepts/domain-wall]]
-  - 图表 [[../figures/domain-walls]]
+  - 图表 [[../concepts/domain-wall]]
   - 图表 [[../figures/heterostructures-stacking]]
   - 图表 [[../figures/heterostructures-stacking-sliding|层间滑移铁电：机制、翻转与动力学]]
   - 年度 [[../write/2024]]

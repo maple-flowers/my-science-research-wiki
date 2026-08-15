@@ -49,6 +49,6 @@ $$ H|\psi\rangle = \epsilon S|\psi\rangle $$
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
-- [[projector-augmented-wave|PAW]]：现代计算中已全面取代 US-PP 的更高精度方法。
+- [[../concepts/paw-method]]：现代计算中已全面取代 US-PP 的更高精度方法。
 - [[plane-wave-basis|平面波基组]]：US-PP 诞生的初衷就是为了拯救高昂的平面波基组开销。
 - VASP (entity)：早期 VASP 版本的核心竞争力之一就是高效的 US-PP 支持。

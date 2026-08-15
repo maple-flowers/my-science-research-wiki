@@ -9,7 +9,7 @@
 
 **目标**：将 Zotero 中的图片、原始笔记同步到 Wiki 的 `raw/` 目录下，并生成基础元数据。
 
-**执行命令**（脚本当前不存在、待重建）：
+**执行命令**：
 ```bash
 python tools/update_raw_assets.py
 ```

@@ -66,7 +66,7 @@ M. Shishkin, G. Kresse，2006，Physical Review B 74, 035101，DOI: 10.1103/Phys
   - 图表 [[../figures/electronic-bands]]
   - 年度 [[../write/2005-2009|2006]]
   - 相关论文 [[../../raw/note/shishkinImplementationPerformanceFrequencydependentGWmethod2006]]
-  - 实体 [[../entities/silicon]]
+  - 实体 [[../entities/Si]]
   - 实体 [[../entities/cadmium-sulfide]]
   - 实体 [[../entities/troullier-martins-pseudopotential]]
 
@@ -78,7 +78,7 @@ M. Shishkin, G. Kresse，2006，Physical Review B 74, 035101，DOI: 10.1103/Phys
   - [[../concepts/plasmon-pole-model|plasmon-pole-model]]（等离激元极点模型）：早期GW对介电函数频率依赖的简化模型，仅适用于sp材料且无法给出寿命/谱函数。
   - [[../concepts/spectral-representation-hilbert-transform|spectral-representation-hilbert-transform]]（谱表示与Hilbert变换）：将极化率/自能的频率依赖通过一次遍历占据-非占据态对建立谱函数，再用Kramers-Kronig变换合成任意频率响应，是本文加速算法的核心。
   - [[../concepts/core-valence-interaction|core-valence-interaction]]（芯-价相互作用）：芯电子与价电子间的交换关联贡献；本文证明在HF水平处理比LDA更精确且收敛更快，是PAW相对赝势的关键优势。
-  - 实体 [[../entities/silicon|silicon]]（硅，Si）：本文sp材料基准，G₀W₀间接带隙X₁c≈1.15-1.17 eV。
+  - 实体 [[../entities/Si]]（硅，Si）：本文sp材料基准，G₀W₀间接带隙X₁c≈1.15-1.17 eV。
   - 实体 [[../entities/cadmium-sulfide|cadmium-sulfide]]（硫化镉，CdS）：含Cd 4d电子的II-VI半导体，d带位于价带内，p-d杂化使4p解冻影响带隙。
   - 实体 [[../entities/troullier-martins-pseudopotential|troullier-martins-pseudopotential]]（TM模守恒赝势）：对比基准，在1 Ry以上散射性质偏离全电子结果，导致GW带隙偏大0.1-0.2 eV。
 

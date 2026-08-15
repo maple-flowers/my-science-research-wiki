@@ -90,7 +90,7 @@ Mahé Lezoualc'H，2025，Université Paris-Saclay 博士论文（NNT 2025UPASP0
   - 概念 [[../concepts/electron-phonon-coupling|电子-声子耦合]]
   - 概念 [[../concepts/fermi-surface-nesting|费米面嵌套]]
   - 概念 [[../concepts/intercalation|插层]]
-  - 概念 [[../concepts/peierls-transition|Peierls相变]]
+  - 概念 [[../concepts/peierls-instability]]
   - 概念 [[../concepts/soft-mode|声子软模]]
   - 实体 [[../entities/TMDs]]
   - 实体 [[../entities/VSe2|二硒化钒 VSe₂]]
@@ -166,4 +166,4 @@ Mahé Lezoualc'H，2025，Université Paris-Saclay 博士论文（NNT 2025UPASP0
   7. **STM 针尖可逆切换**：1T-VTe₂ 单层中 STM 脉冲可在 (4×4) 与 (4×1) 相间及 (4×1) 不同取向（α/β/γ）间可逆切换；电报噪声分析显示切换产额在 ±1 V 附近有阈值且与电流大小无关，表明是单电子非弹性隧穿过程而非电场效应。
   8. **NEB 相变能垒**：(4×1)γ → (4×1)α 旋转能垒最低，约 1.7 eV/(4×4) 单胞；(4×1)γ → (4×4) 相变及 (4×1)γ → 滑移相能垒约 3.0–3.3 eV/(4×4) 单胞；旋转只需改单轴畸变方向故更易，与实验定性一致。单电子（~1 eV）触发约 50 个单胞纳米畴集体切换的能量鸿沟由"多米诺骨牌"/相干声子级联模型解释。
   9. **输运与 CDW-tronics 局限**：NEGF 弹道输运计算显示所有 CDW 相电导均显著低于未畸变原始相（原子位移降低电子跃迁概率），但不同 CDW 相（4×1α vs 4×4）及异相界面（4×4/4×1α）之间电导/I-V 差异很小；说明 CDW 可作开/关开关，但靠取向切换实现多值存储困难，未来应关注畴壁散射、CDW 滑动非线性输运及界面重构。
-  10. **方法局限与展望**：[[../concepts/pbe-functional|PBE 泛函]]对范德华力和 V 3d 强关联处理不足，建议引入 vdW-DF、DFT+U、SSCHA（[[../concepts/anharmonic-effects|非谐效应]]可改变 CDW 转变温度）、DMFT、TDDFT/[[../concepts/molecular-dynamics|分子动力学]]模拟能量耗散；磁性与 CDW 竞争（DFT 预铁磁序但实验未见）是开放问题。
+  10. **方法局限与展望**：[[../concepts/PBE-functional]]对范德华力和 V 3d 强关联处理不足，建议引入 vdW-DF、DFT+U、SSCHA（[[../concepts/anharmonic-effects|非谐效应]]可改变 CDW 转变温度）、DMFT、TDDFT/[[../concepts/molecular-dynamics|分子动力学]]模拟能量耗散；磁性与 CDW 竞争（DFT 预铁磁序但实验未见）是开放问题。

@@ -190,7 +190,7 @@ Sayantika Bhowal、Nicola A. Spaldin（ETH Zürich），2023，*Annual Review of
     - 第二类外尔半金属 type-II Weyl semimetal
 
 ## ✏️ 可写入 Wiki 的要点
-  1. **形式定义**：依据 Resta–Sorella 电子局域化理论，金属中不可能维持宏观电极化（同一多体期望值既区分金属/绝缘体又决定极化）；因此本文将[[../concepts/polar-metal|极性金属]]定义为"属于极性晶类（10 个极性点群：1, 2, m, mm2, 4, 4mm, 3, 3m, 6, 6mm）且具有合理电导率"的材料，涵盖金属、半导体、[[../concepts/half-metal|半金属]]与极化子导电，但不要求极化可测或可翻转。
+  1. **形式定义**：依据 Resta–Sorella 电子局域化理论，金属中不可能维持宏观电极化（同一多体期望值既区分金属/绝缘体又决定极化）；因此本文将[[../concepts/polar-metal|极性金属]]定义为"属于极性晶类（10 个极性点群：1, 2, m, mm2, 4, 4mm, 3, 3m, 6, 6mm）且具有合理电导率"的材料，涵盖金属、半导体、[[../concepts/half-metallicity]]与极化子导电，但不要求极化可测或可翻转。
   2. **传统互斥根源**：物理图像上自由载流子屏蔽长程偶极-偶极相互作用；化学图像上传统钙钛矿铁电体依赖 B 位 d⁰ 构型的二阶 Jahn–Teller 效应，而 d⁰ 本身对应绝缘态；常规金属的无方向性金属键+库仑排斥又倾向中心对称结构。
   3. **Anderson–Blount 解耦原则（1965）**：若费米能级附近的金属电子不与[[../concepts/driven-ferroelectricity|驱动[[../concepts/ferroelectricity|铁电性]]]]的软横光学（TO）声子[[../concepts/strong-coupling|强耦合]]，则类铁电相变可在金属中发生。这是贯穿全文的核心设计哲学，分为"电子解耦"（LiOsO₃：Li 位移 vs Os-t₂g 导电）与"空间解耦"（WTe₂：面内滑移/导电 vs 面外极化）两类。
   4. **LiOsO₃——首个类[[../concepts/ferroelectric-metal|铁电金属]]**：2013 年高压合成，T_s=140 K 发生 R-3c→R3c 连续二级相变；Li⁺ 沿赝立方[111]位移约 0.5 Å，A₂u 极性声子双阱几乎完全由 Li–O 位移贡献（Os–O 单独位移反而升高能量）；[[../concepts/fermi-surfaces|费米面]]由 Os-d 与 O-p 强杂化态主导；低 T_s（12 meV）相对双阱深度（44 meV）提示有序-无序特征；6.5 GPa 压力可将 T_s 提至 250 K，约 2.5% 拉伸应变被预测诱发应变量子相变。

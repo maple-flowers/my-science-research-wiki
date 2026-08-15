@@ -111,9 +111,9 @@ Fei Wang, Li Deng, Yanzhao Wu, Xiang Yin, Junwei Tong, Xianmin Zhang，2025，Ap
   - 概念 [[../concepts/skyrmion|斯格明子]]
   - 概念 [[../concepts/bimeron|双半子]]
   - 概念 [[../concepts/dzyaloshinskii-moriya-interaction|Dzyaloshinskii–Moriya 相互作用]]
-  - 概念 [[../concepts/half-metal|半金属]]
+  - 概念 [[../concepts/half-metallicity]]
   - 概念 [[../concepts/heisenberg-model|海森堡模型]]
-  - 概念 [[../concepts/magnetic-anisotropy-energy|磁各向异性]]
+  - 概念 [[../concepts/magnetic-anisotropy]]
   - 概念 [[../concepts/micromagnetic-simulation|微磁学模拟]]
   - 概念 [[../concepts/topological-spin-texture|拓扑自旋织构]]
   - 概念 [[../concepts/stoner-model|Stoner 模型]]
@@ -136,7 +136,7 @@ Fei Wang, Li Deng, Yanzhao Wu, Xiang Yin, Junwei Tong, Xianmin Zhang，2025，Ap
   - [[../concepts/skyrmion|skyrmion]]：磁斯格明子——涡旋状拓扑自旋织构，由 DMI 与交换、各向异性、外场竞争形成，具拓扑荷 Q。
   - [[../concepts/bimeron|bimeron]]：磁双半子——面内磁化或面内磁场下斯格明子的对应物，由涡旋-反涡旋对组成。
   - [[../concepts/dzyaloshinskii-moriya-interaction|dzyaloshinskii-moriya-interaction]]：DMI，反对称交换 d_k·(S_i×S_j)，源自破缺反演对称与 SOC，决定手性磁结构。
-  - [[../concepts/half-metal|half-metal]]：半金属——一个自旋通道金属、另一自旋通道绝缘，可产生 100% 自旋极化电流。
+  - [[../concepts/half-metallicity]]：半金属——一个自旋通道金属、另一自旋通道绝缘，可产生 100% 自旋极化电流。
   - [[../concepts/heisenberg-model|heisenberg-model]]：经典海森堡自旋哈密顿量（含 J、d_k、各向异性交换 k、单离子各向异性 K、塞曼项），连接 DFT 参数与微磁学。
   - [[../concepts/micromagnetic-simulation|micromagnetic-simulation]]：微磁学模拟，基于 Landau-Lifshitz-Gilbert 方程在介观尺度上演化自旋织构。
   - [[../concepts/topological-spin-texture|topological-spin-texture]]：拓扑自旋织构（斯格明子、双半子、反斯格明子等）的总称，可由拓扑荷 Q 计数。
@@ -200,7 +200,7 @@ Fei Wang, Li Deng, Yanzhao Wu, Xiang Yin, Junwei Tong, Xianmin Zhang，2025，Ap
 ## ✏️ 可写入 Wiki 的要点
   1. 单层 In₂NO₂ 为 P3m1（No. 156）三角晶格，O–In–N–In–O 五原子层堆垛，优化晶格常数 a = 3.41 Å，结构与已合成的 α-In₂Se₃ 类似；声子谱与 AIMD 验证其动力学和热稳定性。
   2. In 原子电子构型由 [Kr]4d¹⁰5s²5p¹ 失去 3 个电子变为 [Kr]4d¹⁰5s⁰5p⁰，N 原子变为 1s²2s²2p⁵，仅一个未配对 p 电子，体系总磁矩 1 μ_B/f.u.，N 原子上 M_N = 0.584 μ_B（非整数，体现离域铁磁，用 [[../concepts/stoner-model|Stoner 模型]]描述）；U 值对能带几乎无影响，取 U = 0 eV。
-  3. 能带为[[../concepts/half-metal|半金属]]：一自旋通道穿[[../concepts/fermi-surfaces|费米面]]、另一通道有带隙；SOC 对电子结构影响很小。
+  3. 能带为[[../concepts/half-metallicity]]：一自旋通道穿[[../concepts/fermi-surfaces|费米面]]、另一通道有带隙；SOC 对电子结构影响很小。
   4. 磁参数：J = 32.2194 meV（铁磁），面内 DMI d_k 在 +P/-P 态分别为 +0.9367/-0.9367 meV，[[../concepts/migdal-eliashberg-theory|各向异性]]交换 k ≈ 0，K_MCA = 18 μeV、K_MSA = 3.8 μeV，单离子各向异性 K = 14.2 μeV（面外易轴），蒙特卡洛估计 T_C ≈ 105 K；面外 DMI d_⊥ 因 C3 对称可忽略。
   5. 强 DMI 主要来自较重的 In 原子的 SOC，而非磁性元素 N 本身——打破"只有重磁性元素才有大 DMI"的直觉。
   6. 垂直磁场 B_z = 1–5 T 下形成 d⁰ [[../concepts/skyrmion|斯格明子]]，B_z = 2 T 时[[../concepts/topological-charge|拓扑荷]]峰值 Q = 8，5 T 时斯格明子直径约 9.6 nm，5.5 T 时进入平庸铁磁态；0–150 K 范围内 Q 稳定，归因于 p 轨道磁性的离域化。

@@ -201,7 +201,7 @@ project-2 Mn 多铁——本综述系统梳理 II 型多铁机制、生长与表
 全文采用"制备→表征→应用→展望"的经典综述链条。引言先用对称性（时间反演/空间反演）定义铁磁、铁电、铁弹、铁旋、铁谷五种铁性序，再按耦合强弱划分 I 型（孤对电子/电荷有序/几何阻挫三亚类，弱耦合、大极化、高 T）与 II 型（磁序衍生铁电、强耦合、小极化、低 T）。第 2 节先自上而下（机械/液相剥离）后自下而上（CVD/CVT/PVD/MBE/ALD），每种方法配原理-优缺点-代表材料（NiI₂/Cr₂S₃/CuCrSe₂/SnSe）；表征部分按 STM/SPM、SHG、Raman、双折射、TEM、EELS、太赫兹、XRD、中子散射、AFM 十类逐一说明其探测的序参量。第 3 节按六类器件（非易失存储 MERAM/MFTJ、自旋电子、传感器/执行器、能量采集、微波/RF、移相器）将磁电/压电/磁弹耦合映射到功能。结论以 NiI₂ 单层突破为起点，提出室温强耦合、<100 mV 开关电压、晶圆级制备、三铁性、量子物理结合五大挑战。值得复用的术语：
   - [[../concepts/multiferroicity|多铁性 multiferroicity]]
   - 磁电耦合 magnetoelectric (ME) coupling
-  - [[../concepts/type-ii-multiferroics|II 型多铁 type-II multiferroics]]
+  - [[../concepts/type-ii-multiferroicity]]
   - 螺旋磁序 helimagnetic / spin-spiral order
   - [[../concepts/electromagnon|电磁振子 electromagnon]]
   - [[../concepts/inverse-dzyaloshinskii-moriya|逆 Dzyaloshinskii–Moriya 效应 inverse Dzyaloshinskii–Moriya effect]]
@@ -215,7 +215,7 @@ project-2 Mn 多铁——本综述系统梳理 II 型多铁机制、生长与表
   - [[../concepts/ferromagnetism|铁磁性]]破坏[[../concepts/time-reversal-symmetry|时间[[../concepts/inversion-symmetry|反演对称性]]]]，[[../concepts/ferroelectricity|铁电性]]破坏空间反演对称性，[[../concepts/ferroelasticity|铁弹性]]两者均不破坏，铁旋性（ferrotoroidicity）两者同时破坏；多铁体同时打破两种对称性，是[[../concepts/magnetoelectric-coupling|磁电耦合]]的对称性前提。
   - I 型多铁分三亚类：[[../concepts/lone-pair-electrons|孤对电子]]型（如 BiFeO₃ 中 Bi³⁺ 6s² 孤对）、[[../concepts/charge-order|电荷有序]]型（混合价过渡金属化合物）、[[../concepts/geometric-frustration|几何阻挫]]型；铁电与磁来源独立、极化大、磁转变温度高但耦合弱。II 型多铁的铁电由磁序本身衍生（逆 DM 效应 P∝e×q 或自旋流机制），耦合极强但极化小、T 低。
   - "d⁰ 难题"：传统铁电性要求过渡金属 d 壳层空（如 Ti⁴⁺ d⁰），磁性要求 d 壳层未填满（如 Fe³⁺ d⁵），二者化学互斥，这是天然磁性铁电体稀少的根本原因；二维体系通过对称性破缺、层间滑移、吸附、应变等可绕开该规则。
-  - NiI₂ 是首个实验证实的单层 II 型 vdW 多铁体（Song et al., Nature 602, 601, 2022）：MBE 在 HOPG 上生长（基底≈100 °C，UHV≈1×10⁻¹³ bar，碘背景压≈9×10⁻¹¹ bar），T_N1=78 K 反铁磁、T_N2=59.5 K 进入螺旋磁-多铁相；铁电源于[[../concepts/spiral-magnetic-order|螺旋磁序]] q 加强 SOC，满足 P ∝ e×q（P、q、螺旋轴 e 三垂直）。
+  - NiI₂ 是首个实验证实的单层 II 型 vdW 多铁体（Song et al., Nature 602, 601, 2022）：MBE 在 HOPG 上生长（基底≈100 °C，UHV≈1×10⁻¹³ bar，碘背景压≈9×10⁻¹¹ bar），T_N1=78 K 反铁磁、T_N2=59.5 K 进入螺旋磁-多铁相；铁电源于[[../concepts/spin-spiral]] q 加强 SOC，满足 P ∝ e×q（P、q、螺旋轴 e 三垂直）。
   - NiI₂ 的多铁相在太赫兹谱中呈现 34 cm⁻¹ 和 37 cm⁻¹ 两个[[../concepts/electromagnon|电磁振子]]模式（电偶极活性），是动态磁电耦合的指纹；圆偏振拉曼可直接探测其磁手性基态；角分辨线二色性证实单层旋转对称由 C3z 降为 C2。
   - Cr₂S₃（Song et al., Nat. Commun. 15, 721, 2024）通过 CVD 界面调制策略在工业兼容 c 面蓝宝石上生长一英寸晶圆级、单一取向的单胞（1.8 nm 厚）非层状薄膜：界面相互作用诱导自插层 Cr 原子层内滑移、破坏空间反演，产生室温铁电与超高[[../concepts/remanent-polarization|剩余极化]]；铁磁 T_C=200 K（约块体两倍），是迄今最大最薄多铁材料之一。
   - 单层 CuCrSe₂（Sun et al., Nat. Commun. 15, 4252, 2024）由 CVT 合成，具室温铁电与 120 K 铁磁；其 FE 诱导 Cr 原子轨道位移反过来增强铁磁耦合，机制不同于经典 I/II 型，由 STEM+SHG+PFM+磁性+霍尔测量联合证实。

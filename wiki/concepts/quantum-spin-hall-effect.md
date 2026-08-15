@@ -41,6 +41,7 @@ QSHE 体系的特征是存在穿过体带隙的螺旋边缘态。
 - [[../papers/pedramraziManipulatingTopologicalDomain2019]]：利用畴界操控探讨 QSHI 中的边缘态输运。
 - [[../papers/hanPolarTopologicalMaterials2025]]：极性材料中的拓扑保护态。
 - [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]
+- [[../papers/liPhaseTransitions2D2021]] — Phase transitions in 2D materials
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
@@ -49,3 +50,7 @@ QSHE 体系的特征是存在穿过体带隙的螺旋边缘态。
 - [[../concepts/spin-orbit-coupling|自旋-轨道耦合]]（驱动力）
 - [[../entities/WSe2|WSe₂]]（典型的 1T' 相 QSHI 材料）
 - [[../entities/HgTe|HgTe]]（首个被实验证实的 QSHI）
+
+## 🏷️ 专业名词别名
+
+- `quantum-spin-hall`（concepts）

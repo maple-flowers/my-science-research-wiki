@@ -52,5 +52,5 @@ updated: 2026-08
 - [[../concepts/band-offset|能带偏移]]
 - [[../concepts/schottky-barrier|肖特基势垒]]
 - [[../concepts/work-function|功函数]]
-- [[../concepts/van-der-waals-heterostructure|vdW 异质结]]
+- [[../concepts/vdW-heterostructure]]
 - [[../entities/TMDs|TMDs]]

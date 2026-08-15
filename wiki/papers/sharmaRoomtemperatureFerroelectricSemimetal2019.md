@@ -91,7 +91,7 @@ Pankaj Sharma, Fei-Xiang Xiang, Ding-Fu Shao, Dawei Zhang, Evgeny Y. Tsymbal, Al
   - 实体 [[../concepts/domain-wall]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/electronic-bands]]
-  - 图表 [[../figures/domain-walls]]
+  - 图表 [[../concepts/domain-wall]]
   - 年度 [[../write/2019]]
   - 相关论文 [[../../raw/note/sharmaRoomtemperatureFerroelectricSemimetal2019]]
 
@@ -139,7 +139,7 @@ Pankaj Sharma, Fei-Xiang Xiang, Ding-Fu Shao, Dawei Zhang, Evgeny Y. Tsymbal, Al
 
 ## ✏️ 可写入 Wiki 的要点
   1. WTe₂ 属 Td 相正交结构，极性空间群 Pmn2₁（C₂ᵥ 点群），W 原子形成略弯曲的锯齿链并导致 Te 八面体畸变；镜面 ac、bc 排除 [100]/[010] 极化，缺失 ab 镜面使 [001]（c 轴）方向极化成为可能。
-  2. 电输运：电阻从 300 K 到 10 K 单调下降（dR/dT>0），30 mK、10 T 下 SdH 振荡出现四个主频，对应两组电子口袋和两组空穴口袋，证实[[../concepts/half-metal|半金属]]基态并解释其巨大非饱和磁阻。
+  2. 电输运：电阻从 300 K 到 10 K 单调下降（dR/dT>0），30 mK、10 T 下 SdH 振荡出现四个主频，对应两组电子口袋和两组空穴口袋，证实[[../concepts/half-metallicity]]基态并解释其巨大非饱和磁阻。
   3. PFM 在新鲜解理的块体 WTe₂ 表面（N₂ 环境、室温）直接观测到反平行[[../concepts/ferroelectric-domain|铁电畴]]，畴尺寸约 20–50 nm，呈扭曲椭圆/条纹状；畴壁处振幅极小、相邻畴相位差约 180°，表面 RMS 粗糙度约 0.2 nm。
   4. 为克服金属高电导导致无法施加电场的难题，作者利用 WTe₂ 表面自然氧化层（约 2.5 nm 厚、非晶、自限过程）作为介电层，制备金属/氧化层/WTe₂ 电容器结构（WTe₂ 薄片厚 15 nm，顶电极 Ti/Au 厚 9.5 nm），成功测得典型相位电滞回线（约 180° 翻转）和振幅"蝴蝶曲线"，并以 -2.5 V 脉冲可逆写入/擦除极化态。
   5. DFT（Quantum ESPRESSO + VASP，GGA-PBE，含 SOC，Berry 相位法）计算总极化 P ≈ 0.19 μC/cm²，主要来自离子实和价带电子（P_ion + P_VB）；电子口袋[[../concepts/charge-density|电荷密度]]近对称不贡献偶极，空穴口袋因载流子密度极小贡献 < 0.01 μC/cm²，可忽略。

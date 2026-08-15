@@ -88,7 +88,7 @@ Erse Jia、Chen Xie、Na Xiao、Francois Courvoisier、Minglie Hu，2023，Chine
 ## 🔗 Wiki 双链
   - 年度 [[../write/2020-2024|2023]]
   - 项目 [[../projects/project-1-two-photon]]
-  - 概念 [[../concepts/bessel-beams]]、[[../concepts/self-healing-beam]]、[[../concepts/optical-vortex]]、[[../concepts/complex-amplitude-modulation]]、[[../concepts/high-order-bessel-beams]]
+  - 概念 [[../concepts/bessel-beam]]、[[../concepts/self-healing-beam]]、[[../concepts/optical-vortex]]、[[../concepts/complex-amplitude-modulation]]、[[../concepts/high-order-bessel-beams]]
   - 实体 [[../entities/Holoeye-PLUTO]]、[[../entities/Olympus-20x-objective]]、[[../entities/mechanical-shutter]]、[[../entities/ZEISS-Gemini-300]]、[[../entities/ND-filter]]、[[../entities/CCD-camera]]、[[../entities/femtosecond-fiber-laser]]
   - 相关论文 [[../../raw/note/Jia2023polymerization]]
   - 概念：

@@ -95,7 +95,7 @@ Fernando Gómez-Ortiz, Hugo Aramberri, Juan M. López, Pablo García-Fernández,
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/multiferroicity]]、[[../concepts/topological-defects]]、[[../concepts/strain-engineering]]、[[../concepts/ferroelasticity]]、[[../concepts/polarization-switching]]、[[../concepts/kittel-law|Kittel定律]]、[[../concepts/polar-vortex|极性涡旋]]、[[../concepts/vortex-antivortex-pair|涡旋-反涡旋对]]、[[../concepts/depolarization-field|退极化场]]、[[../concepts/second-principles|第二性原理]]、[[../concepts/superlattice|超晶格]]、[[../concepts/anharmonic-effects|非谐效应]]、[[../concepts/polarization-waves|极化波]]、[[../concepts/topological-charge|拓扑荷]]、[[../entities/PHONOPY|PHONOPY]]
   - 实体 [[../entities/BiFeO3]]、[[../concepts/domain-wall]]、[[../entities/PbTiO3|PbTiO₃]]、[[../entities/SrTiO3|SrTiO₃]]
-  - 图表 [[../figures/domain-walls]]、[[../figures/crystal-structures]]
+  - 图表 [[../concepts/domain-wall]]、[[../figures/crystal-structures]]
   - 年度 [[../write/2023]]
   - 相关论文 [[../../raw/note/gomez-ortizKittelLawDomain2023]]
   - 实体 [[../entities/SCALE-UP]]
@@ -156,7 +156,7 @@ Fernando Gómez-Ortiz, Hugo Aramberri, Juan M. López, Pablo García-Fernández,
   - second-principles simulation (SCALE-UP) — 第二性原理模拟
   - Poincaré-Hopf theorem / vorticity — 庞加莱-霍普夫定理 / 涡度
 ## ✏️ 可写入 Wiki 的要点
-  1. [[../concepts/kittels-law|Kittel 定律]]在 (PbTiO₃)ₙ/(SrTiO₃)ₙ（n=8–16 u.c.）的[[../concepts/polar-vortex|极性涡旋]]相中成立：[[../concepts/domain-wall-energy|畴壁能]]与静电能平衡给出最优畴周期 ω，其平方与 PbTiO₃ 层厚 d 线性相关，ω²/δ=Ad（δ≈1 u.c. 为畴壁厚度）。
+  1. [[../concepts/kittel-law]]在 (PbTiO₃)ₙ/(SrTiO₃)ₙ（n=8–16 u.c.）的[[../concepts/polar-vortex|极性涡旋]]相中成立：[[../concepts/domain-wall-energy|畴壁能]]与静电能平衡给出最优畴周期 ω，其平方与 PbTiO₃ 层厚 d 线性相关，ω²/δ=Ad（δ≈1 u.c. 为畴壁厚度）。
   2. 该体系基态不是 180° Ising 条带畴，而是由垂直于堆叠方向、顺时针/逆时针反向旋转的涡旋序列充当畴壁，涡旋核处出现沿 y 方向的轴向极化分量。
   3. 两种独立方法验证 Kittel 定律：(i) 全能量最小化（蒙特卡洛退火，ω=L/2−1）；(ii) 简谐力常数带分析（PHONOPY，q_min≈0.123，ω=1/(2q)−1）。谐波法系统性预测更窄的畴，因为它无法捕捉非谐弛豫（涡旋中心偏移+面内极化倾斜），而该倾斜减少垂直表面极化分量与退极化电荷，允许畴更宽。
   4. 对固定 n，2 畴与 4 畴构型存在临界横向尺寸 Lc：L<Lc 时 2 畴稳定（畴壁能惩罚主导），L>Lc 时 4 畴稳定（静电能惩罚主导）；Lc 随 n 增大。

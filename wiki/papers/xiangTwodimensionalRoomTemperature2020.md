@@ -109,7 +109,7 @@ Hongjun Xiang，2020，National Science Review 7(12): 1844–1845，DOI 10.1093/
   - [[../concepts/ferroelectricity|ferroelectricity]] (FE) / 铁电性
   - [[../concepts/ferromagnetism|ferromagnetism]] (FM) / 铁磁性
   - magnetoelectric (ME) coupling / 磁电耦合
-  - [[../concepts/type-i-multiferroics|type-I / type-II multiferroics / 第一类/第二类多铁体]]
+  - [[../concepts/type-i-multiferroic]]
   - [[../concepts/curie-temperature|Curie temperature / 居里温度]]
   - [[../concepts/polarization-switching|polarization switching / 极化翻转]]
   - [[../concepts/interlayer-coupling-gradient|interlayer coupling gradient / 层间耦合梯度]]

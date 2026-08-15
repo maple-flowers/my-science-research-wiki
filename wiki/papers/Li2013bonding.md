@@ -102,7 +102,7 @@ Li, Medhekar, Shenoy，2013，*The Journal of Physical Chemistry C* 117(30), 158
   - 实体 [[../entities/TMDs]]、[[../entities/VASP]]、[[../entities/MoTe2|MoTe₂]]、[[../entities/WTe2|WTe₂]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking|力学性质、剥离能与杂项]]
   - 年度 [[../write/2010-2014|2013]]
-  - 概念 [[../concepts/stress-strain-relation]]、[[../concepts/poisson-contraction]]、[[../concepts/bader-charge-analysis]]
+  - 概念 [[../concepts/stress-strain-relation]]、[[../concepts/poisson-contraction]]、[[../concepts/bader-analysis]]
   - 实体 [[../entities/MoSe2]]、[[../entities/WSe2]]、[[../entities/ABINIT]]、[[../entities/WS2]]、[[../entities/MoS2]]
   - 相关论文 [[../../raw/note/Li2013bonding]]
 

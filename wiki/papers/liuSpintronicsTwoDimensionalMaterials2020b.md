@@ -133,7 +133,7 @@ Yanping Liu, Cheng Zeng, Jiahong Zhong, Junnan Ding, Zhiming M. Wang, Zongwen Li
 以"自旋注入—输运—操控—应用"为主线，系统综述石墨烯/TMDCs/黑磷/硅烯等二维材料及其 vdW 异质结中的自旋电子学进展，确立 hBN 隧穿注入、hBN 封装/悬浮输运、邻近效应操控三条主流技术路线。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/2d-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/berry-phase]]、[[../concepts/edelstein-effect|Edelstein 效应]]、[[../concepts/magnetic-tunnel-junction|磁隧道结]]、[[../concepts/proximity-effect|邻近效应]]、[[../concepts/rashba-effect|Rashba 效应]]、[[../concepts/spin-hall-effect|自旋霍尔效应]]、[[../concepts/spin-injection|自旋注入]]、[[../concepts/spin-relaxation|自旋弛豫]]、[[../concepts/spin-valve|自旋阀]]、[[../concepts/two-dimensional-magnetism|二维磁性]]、[[../concepts/valleytronics|谷电子学]]、[[../concepts/van-der-waals-heterostructure|vdW 异质结]]
+  - 概念 [[../concepts/2d-materials]]、[[../concepts/spin-orbit-coupling]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/strain-engineering]]、[[../concepts/berry-phase]]、[[../concepts/edelstein-effect|Edelstein 效应]]、[[../concepts/magnetic-tunnel-junction|磁隧道结]]、[[../concepts/proximity-effect|邻近效应]]、[[../concepts/rashba-effect|Rashba 效应]]、[[../concepts/spin-hall-effect|自旋霍尔效应]]、[[../concepts/spin-injection|自旋注入]]、[[../concepts/spin-relaxation|自旋弛豫]]、[[../concepts/spin-valve|自旋阀]]、[[../concepts/two-dimensional-magnetism|二维磁性]]、[[../concepts/valleytronics|谷电子学]]、[[../concepts/vdW-heterostructure]]
   - 实体 [[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/Fe3GeTe2]]、[[../entities/Cr2Ge2Te6]]、[[../entities/CrI3]]、[[../entities/VSe2]]、[[../entities/black-phosphorus|黑磷]]、[[../entities/graphene|石墨烯]]
   - 图表 [[../figures/heterostructures-stacking]]、[[../figures/electronic-devices]]、[[../figures/electronic-bands]]、[[../figures/mathematical-models]]、[[../figures/heterostructures-stacking|自旋电子学与应变工程]]
   - 年度 [[../write/2020-2024|2020]]
@@ -154,7 +154,7 @@ Yanping Liu, Cheng Zeng, Jiahong Zhong, Junnan Ding, Zhiming M. Wang, Zongwen Li
   - [[../concepts/spin-valve|spin-valve]]（自旋阀）：非局域四电极结构，自旋输运研究的基本器件。
   - [[../concepts/valleytronics|valleytronics]]（谷电子学）：利用 TMDCs 中 K/K′ 谷作为信息载体，与自旋-谷锁定结合。
   - [[../concepts/two-dimensional-magnetism|two-dimensional-magnetism]]（二维磁性）：Fe3GeTe2、CrI3、Cr2Ge2Te6 等原子级磁体及其电控/应力/层间耦合调控。
-  - [[../concepts/van-der-waals-heterostructure|van-der-waals-heterostructure]]（vdW 异质结）：层间无悬挂键堆叠，是邻近工程的结构基础。
+  - [[../concepts/vdW-heterostructure]]（vdW 异质结）：层间无悬挂键堆叠，是邻近工程的结构基础。
   - [[../entities/graphene|graphene]]（石墨烯）：弱 SOC、高迁移率的明星自旋通道，应建实体条目。
   - [[../entities/CrI3|CrI3]]：层间反铁磁/铁磁可由堆叠与静电掺杂切换的二维铁磁绝缘体。
   - [[../entities/Cr2Ge2Te6|Cr2Ge2Te6]]：双层 Tc≈30 K 的二维铁磁绝缘体，常与 CrI3 并列讨论。
@@ -264,5 +264,5 @@ Yanping Liu, Cheng Zeng, Jiahong Zhong, Junnan Ding, Zhiming M. Wang, Zongwen Li
   6. Hanle 拟合公式 R_NL ∝ ±∫₀^∞ [1/√(4πDs t)] exp(−L²/4Ds t) cos(ω_L t) exp(−t/τs) dt，ω_L = gμ_B B⊥/ℏ，是提取 τs、λs 的标准方法；λs = √(τs Ds)。
   7. 其他通道：黑磷 hBN/BP/hBN 在 100 K 下 τs 达 4 ns、λs > 6 μm；硅烯通过 Ag(111) 外延 + 原位 Al2O3 封装 + 剥离转移实现室温 FET；多层 MoS2 导带中自旋扩散长度约 235 nm。
   8. 二维磁体电控：离子液体栅将三层 Fe3GeTe2 的 Tc 调至室温以上（Deng et al., Nature 563, 94, 2018）；双栅双层 CrI3 通过静电掺杂实现层间 AFM↔FM 完全可逆切换（Jiang et al.）；CrI3 [[../concepts/interlayer-magnetic-coupling|层间磁耦合]]由堆叠方式决定，机制为轨道依赖的超-[[../concepts/superexchange|超交换]]（Sivadas et al.）。
-  9. 应力/层间 vdW 调控：Cr2Si2Te6、Cr2Ge2Te6、Fe3GeTe2 中均存在自旋-晶格耦合；Cr2Si2Te6 在应力下 Tc 可至 290 K；设计高温二维铁磁体的经验法则是"增强交换相互作用 + 单轴[[../concepts/magnetic-anisotropy-energy|磁各向异性]]"。
-  10. 器件：Fe3GeTe2/hBN/Fe3GeTe2 全二维 MTJ 低温 TMR 达 160%；CrI3 作势垒的磁 [[../concepts/van-der-waals-heterostructure|vdW 异质结]] TMR 可达 10^6%（磁振子辅助隧穿）；石墨烯因与 Co/Ni 晶格匹配产生自旋滤波，低温 MR 12%、室温 5%；五铁磁电极石墨烯磁逻辑门通过 I_w/I_r 自旋扭矩 management 电极磁化，可实现 OR{ A,D } 与 NAND{ A,D }；基于石墨烯/TMDCs 的 Spin-FET 式精确自旋进动（Datta–Das, 1990）尚未真正实现。
+  9. 应力/层间 vdW 调控：Cr2Si2Te6、Cr2Ge2Te6、Fe3GeTe2 中均存在自旋-晶格耦合；Cr2Si2Te6 在应力下 Tc 可至 290 K；设计高温二维铁磁体的经验法则是"增强交换相互作用 + 单轴[[../concepts/magnetic-anisotropy]]"。
+  10. 器件：Fe3GeTe2/hBN/Fe3GeTe2 全二维 MTJ 低温 TMR 达 160%；CrI3 作势垒的磁 [[../concepts/vdW-heterostructure]] TMR 可达 10^6%（磁振子辅助隧穿）；石墨烯因与 Co/Ni 晶格匹配产生自旋滤波，低温 MR 12%、室温 5%；五铁磁电极石墨烯磁逻辑门通过 I_w/I_r 自旋扭矩 management 电极磁化，可实现 OR{ A,D } 与 NAND{ A,D }；基于石墨烯/TMDCs 的 Spin-FET 式精确自旋进动（Datta–Das, 1990）尚未真正实现。

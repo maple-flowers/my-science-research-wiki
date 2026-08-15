@@ -125,7 +125,7 @@ Xiangwei Chen, Zheng Wang, Jialin Meng, Tianyu Wang（山东大学），2026，N
   - 概念 [[../concepts/domain-wall-motion|畴壁运动]]
   - 概念 [[../concepts/oxygen-vacancy|氧空位]]
   - 概念 [[../concepts/schottky-barrier|肖特基势垒]]
-  - 概念 [[../concepts/soft-mode-phonon|软模声子]]
+  - 概念 [[../concepts/soft-mode]]
   - 概念 [[../concepts/cmos-compatibility|CMOS兼容性]]
   - 概念 [[../concepts/wake-up-fatigue|唤醒与疲劳效应]]
   - 概念 [[../concepts/strain-engineering]]

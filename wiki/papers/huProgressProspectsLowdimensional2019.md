@@ -119,7 +119,7 @@ Ting Hu、Erjun Kan（阚二军，南京理工大学应用物理系）et al.，2
   - 概念 [[../concepts/ferrielectricity|亚铁电性]]（AgBiP₂Se₆、CIPS 补偿型亚铁电序）
   - 概念 [[../concepts/hybrid-improper-ferroelectricity|杂化非本征铁电]]（FE 110-IP 三线性耦合）
   - 概念 [[../concepts/hyper-ferroelectric-metal|超铁电金属]]（CrN、CrB₂）
-  - 概念 [[../concepts/type-ii-multiferroics|第二类多铁]]（磁序打破反演对称）
+  - 概念 [[../concepts/type-ii-multiferroicity]]（磁序打破反演对称）
   - 概念 [[../concepts/jahn-teller-distortion|Jahn-Teller畸变]]（二阶JT图像、CrBr₃）
   - 概念 [[../concepts/tolerance-factor|容忍因子]]（分类FE 100-S/110-IP/110-P）
   - 概念 [[../concepts/group-v-elemental-ferroelectrics|V族单质铁电体]]（As/Sb/Bi单层）
@@ -145,7 +145,7 @@ Ting Hu、Erjun Kan（阚二军，南京理工大学应用物理系）et al.，2
   - 图表 [[../figures/electronic-bands]]
   - 图表 [[../figures/heterostructures-stacking-polar-cdw|极性金属、拓扑相、CDW与相变]]
   - 图表 [[../figures/electronic-devices]]
-  - 图表 [[../figures/domain-walls]]
+  - 图表 [[../concepts/domain-wall]]
   - 年度 [[../write/2019]]
   - 主题 [[多铁性材料]]
   - 项目 [[../projects/project-2-mn-multiferroics]]（SrMnO₃ 应变多铁及 Mn 基多铁综述脉络）
@@ -227,7 +227,7 @@ Ting Hu、Erjun Kan（阚二军，南京理工大学应用物理系）et al.，2
   2. IV 族单硫族化物 MX（M=Ge,Sn；X=S,Se）因离子势非谐性产生巨大面内自发极化 151–506 pC/m，[[../concepts/curie-temperature|居里温度]] 326–6400 K（均高于室温），同时具有室温热力学稳定的自发铁弹应变；FE-FA [[../concepts/strong-coupling|强耦合]]使得施加共轭外场即可同时切换极化、应变以及[[../concepts/migdal-eliashberg-theory|各向异性]]电/热/光/力学性质。
   3. 实验上 Chang 等用 MBE 制备的 1-UC SnTe 薄膜即呈现稳定面内自发极化，Tc 由块体 98 K 跃升至 270 K，2–4 UC 薄膜在室温仍保持鲁棒铁电；增强归因于 Sn [[../concepts/vacancy-formation-energy|空位[[../concepts/formation-energy|形成能]]]]升高导致缺陷/自由载流子密度下降、量子限域增大带隙、以及面内晶格膨胀稳定 FE 畸变。Liu 等进一步指出自由站立无缺陷 SnTe 薄膜中 FE [[../concepts/switching-barrier|翻转势垒]]与 Tc 在 <5 UC 随厚度增加而上升、>5 UC 后下降，源于偏好 FE 的杂化作用与偏好中心对称的 Pauli 排斥之间的竞争。
   4. α-In₂Se₃ 单层同时具备面内与面外铁电且两者本征互相关联，翻转由中间 Se 原子层的横向移动驱动；1L–6L 薄片表现出明显奇偶效应（IP/OP 极化均偏好反平行堆垛）；β'-In₂Se₃ [[../concepts/polymorphism|多晶型]]的面内 Tc 可达 200 °C。In₂Se₃/[[../entities/graphene|石墨烯]]异质结可通过翻转偶极调控[[../concepts/schottky-barrier|肖特基势垒]]。
-  5. Fei 等在 2–3 层拓扑[[../concepts/half-metal|半金属]] WTe₂ 中实验观测到自发面外极化与室温[[../concepts/polarization-switching|极化翻转]]（极化消失温度 >350 K），夹在石墨烯之间仍保持翻转能力——这是首次在原子级薄金属中实现铁电翻转，颠覆"铁电体必须是绝缘体"的传统认知，机制在于足够薄时垂直电场可穿透金属屏蔽。
+  5. Fei 等在 2–3 层拓扑[[../concepts/half-metallicity]] WTe₂ 中实验观测到自发面外极化与室温[[../concepts/polarization-switching|极化翻转]]（极化消失温度 >350 K），夹在石墨烯之间仍保持翻转能力——这是首次在原子级薄金属中实现铁电翻转，颠覆"铁电体必须是绝缘体"的传统认知，机制在于足够薄时垂直电场可穿透金属屏蔽。
   6. TMTP 家族中单层 AgBiP₂Se₆ 的面外极化源于 Ag⁺ 与 Bi³⁺ 沿相反方向的偏心位移，形成[[../concepts/ferrielectricity|亚铁电]]序（P=1.2 pC/m，翻转势垒 6.2 meV，Tc 高于室温）；这种补偿型亚铁电序产生低[[../concepts/depolarization-field|退极化场]]，利于面外铁电在超薄极限稳定，并因其强可见光吸收与合适带边被提议作可见光解水光催化剂。CuInP₂Se₆ 单层中开路（D=0）为反铁电、闭路（E=0）以铁电为基态，凸显垂直边界条件对超薄极化序的决定作用。
   7. 诱导[[../concepts/ferroelectricity|铁电性]]的三条路径：(a) 化学功能化——羟基化石墨烯面内极化达 6.6 μC/cm²、Tc~700 K；自组装单分子层（-OH/-SH/-CH₃/-CF₃/-NH₂ 等）可在硅烯、锗烯、锡烯、MoS₂ 乃至 Si(111)/SiO₂ 表面普适诱导面内铁电；氧功能化 MXene Sc₂CO₂ 同时有 1.76×10⁻¹⁰ C/m² 面内与 1.60 μC/cm² 面外极化，可经中间反铁电态实现三态存储。(b) 应变——依二阶 JT 图像，双轴拉伸降低库仑排斥使共价项占优，PbTe 在等双轴张力 >0.80 N/m 时由 P4/nmm 转为 Pmn2₁ 产生面内铁电。(c) 外电场——扶手椅型 n-PNR（n 为奇）在垂直电场下因电子不对称重新分布产生沿纳米带的面内极化，双层 PNR 极化可与传统钙钛矿铁电体相当。
   8. 钙钛矿氧化物薄膜中按[[../concepts/tolerance-factor|容忍因子]]分类存在三种面内 FE 态：FE 110-P（传统本征，Ti 3d–O 2p 杂化驱动，随厚度减小而减弱）；FE 100-S（表面效应驱动，沿 [100]，随厚度减小而增强，在无空 d 轨道的 SrSiO₃ 中亦可存在）；FE 110-IP（小容忍因子体系如 CaSnO₃ 中两旋转模与 A 位位移三线性耦合的[[../concepts/hybrid-improper-ferroelectricity|杂化非本征铁电]]，奇数 CaO 层时获净极化，单位体极化随厚度减小而增大）。后两者不依赖 B 位 d 轨道占据，因而二维铁电性可与磁性共存。Wang 等在 1-UC 四方相 BiFeO₃ 中直接观测到室温面外铁电及翻转，对应 FTJ 实现 ~370% TER。

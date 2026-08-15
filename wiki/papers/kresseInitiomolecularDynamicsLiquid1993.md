@@ -72,9 +72,9 @@ G. Kresse、J. Hafner，1993，*Physical Review B* 47(1), 558–561，DOI: 10.11
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/density-functional-theory]]
   - 概念 [[../concepts/machine-learning-potential]]（本文末尾思路——以经典/经验势预平衡、AIMD精修——是后续MLIP分层模拟策略的前身）
-  - 概念 [[../concepts/ab-initio-molecular-dynamics|从头算分子动力学（AIMD）]]（每步DFT求电子结构与原子力的MD方法，本文是"精确基态AIMD/Born-Oppenheimer MD"路线的标志性论文）
+  - 概念 [[../concepts/aimd]]（每步DFT求电子结构与原子力的MD方法，本文是"精确基态AIMD/Born-Oppenheimer MD"路线的标志性论文）
   - 概念 [[../concepts/born-oppenheimer-md|Born-Oppenheimer MD（精确基态MD）]]（与CPMD并列的AIMD两大路线，本文奠定其在金属体系的可行性）
-  - 概念 [[../concepts/car-parrinello-method|Car-Parrinello方法]]（以电子虚构牛顿动力学统一电子结构与离子运动，在金属中因零带隙导致共振和能级交叉而失稳，是本文对照对象）
+  - 概念 [[../concepts/Car-Parrinello]]（以电子虚构牛顿动力学统一电子结构与离子运动，在金属中因零带隙导致共振和能级交叉而失稳，是本文对照对象）
   - 概念 [[../concepts/conjugate-gradient-minimization|共轭梯度极小化]]（预条件CG双重迭代逐带极小化Kohn-Sham能量，本文核心算法）
   - 概念 [[../concepts/subspace-alignment|子空间对齐]]（用上一步波函数张成子空间的几何旋转为新构型提供高质量初猜）
   - 概念 [[../concepts/nose-thermostat|Nosé热浴]]（产生正则系综NVT的扩展拉格朗日热浴，本文用于稳定离子动能）
@@ -140,7 +140,7 @@ raw/figures 中未提取到图片文件（manifest.json 的 figures 数组为空
 论文以"问题—方法—双重验证—结论"四段式组织：先指出CPMD在金属中的非绝热机制（频率共振+能级交叉），再给出精确基态AIMD的算法链（内层CG→子空间对角化→Fermi能/Kerker混合→外层收敛判据；离子侧Nosé热浴+四阶预测-校正+子空间对齐预测），然后以自由电子金属Na（易）和"坏金属"Ge（难）两个算例逐级验证能量守恒、原子结构与电子结构，最后讨论与经典MD的衔接和计算成本。论证特点是"先证明绝热性可控，再证明物理量与实验吻合"，每一步都给出量化收敛指标（meV/atom、fs、Ry、kbar）。
   - 值得复用的术语（中英对照）：
     - 从头算分子动力学 / *ab initio* molecular dynamics (AIMD)
-    - Car-Parrinello方法 [[../concepts/car-parrinello-method|Car-Parrinello方法]] / Car-Parrinello method（虚构电子动力学）
+    - Car-Parrinello方法 [[../concepts/Car-Parrinello]] / Car-Parrinello method（虚构电子动力学）
     - 非绝热性 / nonadiabaticity（电子-离子能量转移）
     - 共轭梯度极小化 [[../concepts/conjugate-gradient-minimization|共轭梯度极小化]] / conjugate-gradient minimization
     - 子空间对齐 [[../concepts/subspace-alignment|子空间对齐]] / subspace alignment（波函数预测）

@@ -85,7 +85,7 @@ W Tang、E Sanville、G Henkelman，2009，*Journal of Physics: Condensed Matter
 提出"近网法"（near-grid method），通过累积"修正向量"在网格点间追踪真实的离网格电荷密度梯度轨迹，在保持 O(N) 线性标度的同时彻底消除了早期在网法（on-grid method）的晶格偏差，使 Bader 电荷/体积能随网格加密单调收敛、且不依赖于分子相对网格的取向。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/density-functional-theory]] [[../concepts/bader-analysis|Bader分析]] [[../concepts/charge-density|电荷密度]] [[../concepts/zero-flux-surface|零通量面]] [[../concepts/lattice-bias|晶格偏差]] [[../concepts/mulliken-population-analysis|Mulliken布居分析]] [[../concepts/correction-vector|修正向量]] [[../concepts/steepest-ascent-path|最陡上升路径]] [[../concepts/non-nuclear-attractor|非核吸引子]]
+  - 概念 [[../concepts/density-functional-theory]] [[../concepts/bader-analysis|Bader分析]] [[../concepts/charge-density|电荷密度]] [[../concepts/zero-flux-surface|零通量面]] [[../concepts/lattice-bias|晶格偏差]] [[../concepts/mulliken-population]] [[../concepts/correction-vector|修正向量]] [[../concepts/steepest-ascent]] [[../concepts/non-nuclear-attractor|非核吸引子]]
   - 实体 [[../entities/VASP]] [[../entities/Quantum-ESPRESSO|Quantum ESPRESSO]] [[../entities/bader-code|Bader程序]]
   - 年度 [[../write/2005-2009|2009]]
   - 概念 [[../concepts/electron-localization-function]]、[[../concepts/steepest-ascent]]
@@ -161,12 +161,12 @@ W Tang、E Sanville、G Henkelman，2009，*Journal of Physics: Condensed Matter
   - near-grid method / 近网法
   - lattice bias / 晶格（网格）偏差
   - correction vector / 修正向量 [[../concepts/correction-vector|修正向量]]
-  - steepest-ascent path / 最陡上升路径 [[../concepts/steepest-ascent-path|最陡上升路径]]
+  - steepest-ascent path / 最陡上升路径 [[../concepts/steepest-ascent]]
   - frozen core charge / 冻芯电荷
   - linear scaling O(N) / 线性标度
 
 ## ✏️ 可写入 Wiki 的要点
-  1. Bader 划分以[[../concepts/charge-density|电荷密度]] ρ(r) 这一可观测量为基础，用[[../concepts/zero-flux-surface|零通量面]]（∇ρ·n = 0）把空间切成每个含一个电荷密度极大值的原子盆地；相比[[../concepts/mulliken-population-analysis|基于波函数]]的 Mulliken 布居，结果对基组不敏感、更稳健。
+  1. Bader 划分以[[../concepts/charge-density|电荷密度]] ρ(r) 这一可观测量为基础，用[[../concepts/zero-flux-surface|零通量面]]（∇ρ·n = 0）把空间切成每个含一个电荷密度极大值的原子盆地；相比[[../concepts/mulliken-population]]的 Mulliken 布居，结果对基组不敏感、更稳健。
   2. 在网法从每个网格点出发，在 26 个三维邻居（二维为 8 个）中选使梯度投影 ∇ρ·r̂ 最大的方向跳跃，碰到已分配点即终止；每个点只处理一次，因而 O(N) 线性标度、对复杂键合拓扑鲁棒。
   3. 在网法的根本缺陷是[[../concepts/lattice-bias|晶格偏差]]：真实梯度方向连续，但格点跳跃方向只有 26 个离散方向，轨迹会偏离真实零通量面，使分割面人为沿网格方向出现棱角；该偏差在网格无限加密的极限下仍存在，无法靠提高精度消除。
   4. 近网法用中心有限差分（六个最近邻）计算连续梯度 ∇ρ，沿梯度走一步 r_grad = c(∇ρ_x, ∇ρ_y, ∇ρ_z)，其中 c = min(dx/|∇ρ_x|, dy/|∇ρ_y|, dz/|∇ρ_z|) 保证任一分量不超过一个网格间距；再跳到最近格点 r_grid，并把二者之差累积进[[../concepts/correction-vector|修正向量]] r ← r + (r_grad − r_grid)。

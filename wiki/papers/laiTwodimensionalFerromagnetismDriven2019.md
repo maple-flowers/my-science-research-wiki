@@ -101,7 +101,7 @@ Youfang Lai, Zhigang Song (共同一作/通讯), Yi Wan, Mingzhu Xue, Changsheng
   - 相关论文 [[../../raw/note/laiTwodimensionalFerromagnetismDriven2019]]
 
 ## 🆕 新概念/实体建议
-  - [[../entities/cu-crp2s6|cu-crp2s6]]（实体）：本文主角，ABP2X6 家族的硫代磷酸铜铬，I 型二维多铁候选，铁电由 Cu 位移驱动、铁磁源于 Cr3+。
+  - [[../entities/CuCrP2S6]]（实体）：本文主角，ABP2X6 家族的硫代磷酸铜铬，I 型二维多铁候选，铁电由 Cu 位移驱动、铁磁源于 Cr3+。
   - [[../concepts/driven-ferroelectricity|driven-ferroelectricity]]（概念）：驱动铁电性——基态为反铁电、亚稳铁电相需外电场激发并靠势垒保持的特殊铁电形态。
   - [[../concepts/type-i-multiferroic|type-i-multiferroic]]（概念）：I 型多铁，铁电与铁磁起源相互独立（分别来自不同原子/结构单元），耦合通常较弱，区别于磁序诱导铁电的 II 型。
   - [[../concepts/spin-dipole-valley-coupling|spin-dipole-valley-coupling]]（概念）：自旋-电偶极-谷三重锁定，由 SOC 桥接，可由电场同时控制磁矩与谷态。

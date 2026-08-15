@@ -41,6 +41,7 @@ updated: 2026-08
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/gaoGiantChiralMagnetoelectric2024a]]：利用双通道 Pump-Probe 技术揭示了 NiI2 中的巨手性磁电耦合，实现了电、磁通道的动力学解耦。
+- [[../papers/Yarai2005optical]] — Optical fiber sensor for humidity monitoring based on thermal lens detection technique
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
@@ -48,3 +49,7 @@ updated: 2026-08
 - [[../concepts/second-harmonic-generation|二次谐波产生]]
 - [[../concepts/electromagnon|电磁振子]]
 - [[../concepts/relaxation-time|弛豫时间]]
+
+## 🏷️ 专业名词别名
+
+- `pump-probe-technique`（concepts）

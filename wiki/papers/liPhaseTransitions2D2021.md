@@ -256,9 +256,9 @@ Wenbin Li、Xiaofeng Qian、Ju Li，2021，*Nature Reviews Materials* 6, 829–8
   - [[../concepts/berry-curvature-dipole|berry-curvature-dipole]]：贝里曲率偶极，奇数层 WTe2 中非线性反常霍尔电压随极化反转而反号，可做非易失存储。
   - [[../concepts/flexoelectricity|flexoelectricity]]：挠曲电效应，应变梯度在 2D 中可显著极化金属/半金属，是"弯曲工程"的核心耦合项。
   - [[../entities/interfacial-phase-change-memory|interfacial-phase-change-memory]]：界面相变存储，GeTe/Sb2Te3、TiTe2/Sb2Te3 超晶格中原子仅在 ~5 Å 层内扩散，降低开关能耗与漂移。
-  - [[../concepts/kosterlitz-thouless-transition|kosterlitz-thouless-transition]]：KT 相变，涡旋-反涡旋解绑定驱动的拓扑相变，无朗道式对称破缺。
+  - [[../concepts/kosterlitz-thouless]]：KT 相变，涡旋-反涡旋解绑定驱动的拓扑相变，无朗道式对称破缺。
   - [[../concepts/ferroic-order|ferroic-order]]：铁性序（铁弹/铁电/铁磁/铁环）统一框架，对应自发应变/极化/磁化/环磁矩。
-  - [[../concepts/quantum-spin-hall|quantum-spin-hall]]：1T′-TMD（尤其 WTe2）单层为量子自旋霍尔绝缘体，边缘导电 ~e²/h。
+  - [[../concepts/quantum-spin-hall-effect]]：1T′-TMD（尤其 WTe2）单层为量子自旋霍尔绝缘体，边缘导电 ~e²/h。
   - 实体建议：[[../entities/MoS2|MoS2]]、[[../entities/MoTe2|MoTe2]]、[[../entities/CrI3|CrI3]]、[[../entities/Cr2Ge2Te6|Cr2Ge2Te6]]、[[../entities/NbSe2|NbSe2]]、[[../entities/CuInP2S6|CuInP2S6]]、[[../entities/GeTe|GeTe]]、[[../entities/Sb2Te3|Sb2Te3]]、[[../entities/TiTe2|TiTe2]]、[[../entities/SnO|SnO]]、[[../entities/SnSe|SnSe]]、[[../entities/GeSe|GeSe]]、[[../entities/graphene|graphene]]。
 
 ## 📊 关键图表
@@ -307,8 +307,8 @@ Wenbin Li、Xiaofeng Qian、Ju Li，2021，*Nature Reviews Materials* 6, 829–8
   - TMD [[../concepts/polymorphism|多晶型]]能量差按 MoS2→MoSe2→MoTe2（及 W 系列）递减：MoS2 2H–1T′ 约 0.5 eV/f.u.，MoTe2 约 43 meV/f.u.，WTe2 的 1T′ 为基态；2H 为三棱柱半导体相（带隙 1.0–2.5 eV），1T 为八面体金属相且 Peierls 不稳定，1T′ 为扭曲八面体量子自旋霍尔绝缘相（~0.1 eV 能隙）。
   - MoTe2 的 2H↔1T′ 可被多种外场触发：碱金属插层（化学）、热（体相 Tc≈500–820 °C，Te 缺位降低 Tc）、~0.2% 双轴应变（室温）、激光（Te 空位，~3% 浓度即可反转稳定性）、~4 V 离子液体栅压、垂直电场（瞬态 2Hd 导电细丝）。
   - 位移型相变速度 v∝(F/Fth)^n，n 可高达约 20 并在声子群速处饱和；扩散型相变 n≈1、热激活激活。2D 材料抗拉极限远高于体无机材料（[[../entities/graphene|石墨烯]]~20%、MoS2~10%，体无机~0.2%），压缩时以 ripplocation 形式松弛而非位错增殖。
-  - Hohenberg–Mermin–Wagner 定理禁止短程相互作用 2D 体系的有限温度连续对称破缺，但[[../concepts/magnetic-anisotropy-energy|磁各向异性]]（打开有限尺寸[[../concepts/spin-wave|自旋波]]带隙）和长程偶极相互作用提供逃逸出口；CrI3 单层铁磁、Cr2Ge2Te6 单层 Tc≈40 K、Fe3GeTe2 可栅压调至室温以上即为例证。
-  - 2D 铁电代表体系：SnTe 面内极化 Tc≈270 K；α-In2Se3 面内/面外极化互锁；CuInP2S6；扭曲 1T-MoTe2；少层 WTe2 [[../concepts/half-metal|半金属]]通过层间滑移呈铁电。[[../concepts/depolarization-field|去极化场]]在 2D 中更严峻，但原子级薄材料仍可维持稳定极化。
+  - Hohenberg–Mermin–Wagner 定理禁止短程相互作用 2D 体系的有限温度连续对称破缺，但[[../concepts/magnetic-anisotropy]]（打开有限尺寸[[../concepts/spin-wave|自旋波]]带隙）和长程偶极相互作用提供逃逸出口；CrI3 单层铁磁、Cr2Ge2Te6 单层 Tc≈40 K、Fe3GeTe2 可栅压调至室温以上即为例证。
+  - 2D 铁电代表体系：SnTe 面内极化 Tc≈270 K；α-In2Se3 面内/面外极化互锁；CuInP2S6；扭曲 1T-MoTe2；少层 WTe2 [[../concepts/half-metallicity]]通过层间滑移呈铁电。[[../concepts/depolarization-field|去极化场]]在 2D 中更严峻，但原子级薄材料仍可维持稳定极化。
   - IV 族单硫族化物 GeS/GeSe/SnS/SnSe 是天然 2D 多铁（铁电+铁弹耦合）；α-SnO 单层的铁弹马氏体相变可光-力耦合翻转，开关能耗比 GST 低约一个数量级。
   - 2D CDW/Peierls 失稳源于电声耦合增强；NbSe2 单层相比体相 CDW 序增强。2D 铁性/拓扑体系的另一条非易失存储路径是奇数层 WTe2 的 Berry 曲率偶极——非线性反常霍尔电压随极化反号（偶数层不变），位移电流亦呈存储效应。
   - 界面 PCM（GeTe/Sb2Te3、TiTe2/Sb2Te3 [[../concepts/superlattice|超晶格]]）把原子扩散限制在 ~5 Å 的 GeTe 层内，由应变/不可动 Sb2Te3 层调制，从而提高速度、降低写入能耗、减小电阻漂移与噪声；展望方向包括非硫族 2D 材料（氧化物/磷族/卤族）、熵稳定相、ML+晶体结构预测、原位 TEM/超快电子衍射/tr-ARPES/SHG、柔性工程（[[../concepts/pseudomagnetic-field|赝磁场]]、挠曲电、莫尔）以及堆叠 2D/[[../concepts/twistronics|转角电子学]]。

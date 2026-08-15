@@ -320,7 +320,7 @@ Xiaoyao Sun、Qian Xia、Tengfei Cao、Shuoguo Yuan 等，2025，*Materials Scie
   - [[../figures/heterostructures-stacking]]
   - [[../figures/heterostructures-stacking|层间滑移铁电：综述与材料体系 (Sliding Ferroelectricity: Reviews & Materials)]]
   - [[../figures/electronic-devices]]
-  - [[../figures/domain-walls]]
+  - [[../concepts/domain-wall]]
   - [[../figures/mathematical-models]]
   - [[../figures/experimental-setups]]
 - 年度：[[../write/2025-2029|2025]]

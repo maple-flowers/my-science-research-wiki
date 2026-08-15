@@ -119,7 +119,7 @@ Menghao Wu（吴梦昊，华中科技大学）& Ju Li（李巨，MIT），2021�
   - 实体 [[../entities/VASP]]、[[../entities/Wannier90]]（DFT/Berry 相极化计算工具背景）
   - 图表 [[../figures/heterostructures-stacking]]（扭转双层、Moiré 超晶格、双栅 vdW 异质结器件）
   - 图表 [[../figures/heterostructures-stacking|层间滑移铁电：机制、翻转与动力学]]（AB↔BA 滑移路径、ripplocation 翻转、集体/孤立势垒模型）
-  - 图表 [[../figures/domain-walls]]（ripplocation 畴壁、20–50 nm 铁电畴）
+  - 图表 [[../concepts/domain-wall]]（ripplocation 畴壁、20–50 nm 铁电畴）
   - 图表 [[../figures/electronic-bands]]（Moiré 电势诱导 II 型能带对齐、层间激子捕获）
   - 年度 [[../write/2020-2024|2021]]（本文发表年，亦为 Yasuda/Vizner Stern 两篇 Science 实验年）
   - 项目 [[../projects/project-2-mn-multiferroics]]

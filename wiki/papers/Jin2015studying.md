@@ -82,7 +82,7 @@ Yaming Jin, Xiaomei Lu, Junting Zhang, Yi Kan, Huifeng Bo, Fengzhen Huang, Tingt
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/polarization-switching]]、[[../concepts/multiferroicity]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/ferroelasticity]]、[[../concepts/strain-engineering]]、[[../concepts/density-functional-theory]]、[[../concepts/piezoelectric-response]]、[[../concepts/polycrystalline-ferroelectrics]]、[[../concepts/charge-migration-energy]]
   - 实体 [[../entities/BiFeO3]]、[[../concepts/domain-wall]]
-  - 图表 [[../figures/experimental-setups]]、[[../figures/domain-walls]]
+  - 图表 [[../figures/experimental-setups]]、[[../concepts/domain-wall]]
   - 年度 [[../write/2015]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-5-snte-ferroelectric-sim]]
   - 相关论文 [[../../raw/note/Jin2015studying]]

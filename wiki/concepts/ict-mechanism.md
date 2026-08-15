@@ -12,7 +12,7 @@ updated: 2026-08
 
 # 分子内电荷转移机制 / ICT Mechanism
 
-分子内电荷转移（Intramolecular Charge Transfer, ICT）是有机发光分子中最基础的激发态机制之一。它发生在具有强给体（Donor）和强受体（Acceptor）通过共轭链相连的分子（即 [[../concepts/donor-pi-acceptor|D-π-A]] 分子）中。
+分子内电荷转移（Intramolecular Charge Transfer, ICT）是有机发光分子中最基础的激发态机制之一。它发生在具有强给体（Donor）和强受体（Acceptor）通过共轭链相连的分子（即 [[../concepts/d-pi-a-architecture]] 分子）中。
 
 ## 👵 太奶导读
 
@@ -41,11 +41,19 @@ ICT 是分子内电荷转移的广义称呼。如果这种转移伴随着分子�
 - [[../papers/Huang2023two]]：分析了二氰基取代如何通过 ICT 机制产生超大双光子截面。
 - [[../papers/Huang2019solvatochromic]]：探讨了 ICT 态的溶剂弛豫对热致变色的贡献。
 - [[../papers/H2017fluorescence]]：阐述了激发态绝热 ICT 过程中的电荷稳定机制。
+- [[../papers/H2017fluorescence]] — Dicyanostilbene-based Two-photon Thermo-solvatochromic Fluorescence Probes with Two-photon Triple Fluorescence
+- [[../papers/Huang2019solvatochromic]] — Stilbene-Based Two-Photon Thermo-Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature
+- [[../papers/WRZYSZCZYNSKI2010initiators]] — Two-photon initiators of polymerization
+- [[../papers/Zhang2008synthesis]] — Synthesis and nonlinear optical properties of two three-branched two-photon polymerization initiators
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/solvatochromism|溶剂化显色]]
 - [[../concepts/tict-mechanism|TICT 机制]]
 - [[../concepts/stokes-shift|斯托克斯位移]]
-- [[../concepts/donor-pi-acceptor|D-π-A 结构]]
+- [[../concepts/d-pi-a-architecture]]
 - [[../entities/dicyanostilbene-1a|二氰基二苯乙烯 (1a)]]
+
+## 🏷️ 专业名词别名
+
+- `intramolecular-charge-transfer`（concepts）

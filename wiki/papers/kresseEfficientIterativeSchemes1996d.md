@@ -88,10 +88,10 @@ G. Kresse、J. Furthmüller，1996，Physical Review B 54(16), 11169–11186，D
 ## 🔗 Wiki 双链
   - 概念 [[../concepts/density-functional-theory]]、[[../concepts/rmm-diis]]、[[../concepts/pulay-mixing]]、[[../concepts/kerker-preconditioning]]、[[../concepts/charge-sloshing]]、[[../concepts/subspace-rotation]]、[[../concepts/methfessel-paxton-smearing]]、[[../concepts/ultrasoft-pseudopotential]]、[[../concepts/plane-wave-basis]]
   - 实体 [[../entities/VASP]]
-  - 图表 [[../figures/mathematical-models|数学模型与物理公式]]、[[../figures/crystal-structures|晶体结构与原子排布]]、[[../figures/electronic-bands|电子能带与电子态]]、[[../figures/electronic-devices|电子与突触器件]]、[[../figures/optical-spectra|光学与吸收光谱]]、[[../figures/domain-walls|畴与畴壁结构]]
+  - 图表 [[../figures/mathematical-models|数学模型与物理公式]]、[[../figures/crystal-structures|晶体结构与原子排布]]、[[../figures/electronic-bands|电子能带与电子态]]、[[../figures/electronic-devices|电子与突触器件]]、[[../figures/optical-spectra|光学与吸收光谱]]、[[../concepts/domain-wall]]
   - 年度 [[../write/1945-1999|1996]]
   - 项目 [[../projects/project-2-mn-multiferroics]]、[[../projects/project-4-ttf-molecular-calc]]、[[../projects/project-5-snte-ferroelectric-sim]]、[[../projects/project-7-cdw-charge-density-wave]]
-  - 概念 [[../concepts/conjugate-gradient]]、[[../concepts/self-consistent-field]]、[[../concepts/harris-foulkes-functional]]
+  - 概念 [[../concepts/conjugate-gradient]]、[[../concepts/self-consistent-field-cycle]]、[[../concepts/harris-foulkes-functional]]
   - 相关论文 [[../../raw/note/kresseEfficientIterativeSchemes1996d]]
 ## 📊 关键图表
   - 图1：fcc-Fe（4 晶胞）自洽循环中不同方案下原子受力的收敛性，opt（式25 修正）较 out 快约 100 倍，证明 Pulay 型力修正对离子弛豫/MD 的关键作用。

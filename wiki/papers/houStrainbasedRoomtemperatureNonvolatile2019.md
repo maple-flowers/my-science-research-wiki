@@ -78,7 +78,7 @@ Wenhui Hou, Ahmad Azizimanesh, Arfan Sewaket, Tara Peña, Carla Watson, Ming Liu
   - 年度 [[../write/2015-2019|2019]]
   - 相关论文 [[../../raw/note/houStrainbasedRoomtemperatureNonvolatile2019]]
 ## 🆕 新概念/实体建议
-  - [[../entities/mo-te2|mo-te2]]（实体）：二碲化钼，TMD中1T′（半金属）与2H（半导体）相能量差最小，~0.3%拉伸应变即可诱导相变，是应变相变器件的核心沟道材料；本文发现的应变诱导半导体相并非标准2H相。
+  - [[../entities/MoTe2]]（实体）：二碲化钼，TMD中1T′（半金属）与2H（半导体）相能量差最小，~0.3%拉伸应变即可诱导相变，是应变相变器件的核心沟道材料；本文发现的应变诱导半导体相并非标准2H相。
   - [[../entities/pmn-pt|pmn-pt]]（实体）：Pb(Mg1/3Nb2/3)0.71Ti0.29O3 弛豫铁电单晶，居里温度135 °C，逆压电应变量级~0.4%，常用作电场可控应变源；本文以0.25–0.3 mm厚单晶作为栅介质/衬底。
   - [[../concepts/straintronics|straintronics]]（概念）：应变电子学，以电场诱导的机械应变（而非电场直接调控载流子）作为开关控制量，结合二维材料与铁电体，规避传统FET亚阈值摆幅60 mV/dec极限和静态功耗问题。
   - [[../entities/phase-change-transistor|phase-change-transistor]]（概念）：相变晶体管，通过材料半金属-半导体（或其他电子相）可逆相变实现沟道开关，开态金属性、关态由背靠背肖特基结限流。
@@ -126,7 +126,7 @@ Wenhui Hou, Ahmad Azizimanesh, Arfan Sewaket, Tara Peña, Carla Watson, Ming Liu
   - Conductive atomic force microscopy (CAFM) / 导电原子力显微镜
 
 ## ✏️ 可写入 Wiki 的要点
-  1. **核心机制**：以电场诱导铁电体PMN-PT的逆压电应变作为控制量，驱动1T′-MoTe2在[[../concepts/half-metal|半金属]]相与半导体相之间可逆相变，完全绕过传统FET用电场耗尽载流子的机制，从而不受60 mV/dec亚阈值摆幅限制，从根本上消除静态功耗。
+  1. **核心机制**：以电场诱导铁电体PMN-PT的逆压电应变作为控制量，驱动1T′-MoTe2在[[../concepts/half-metallicity]]相与半导体相之间可逆相变，完全绕过传统FET用电场耗尽载流子的机制，从而不受60 mV/dec亚阈值摆幅限制，从根本上消除静态功耗。
   2. **器件架构**：PMN-PT(011)或(111)弛豫铁电单晶（0.25–0.3 mm厚，Au/Ti底电极）同时作为栅介质和应变源；机械剥离的1T′-MoTe2薄片（13–70 nm，低湿度<10% RH或手套箱中剥离以增强粘附）为沟道；35 nm电子束蒸发 Ni为源漏接触。制备温度严格控制在80 °C以下（远低于135 °C[[../concepts/curie-temperature|居里温度]]），避免[[../concepts/ferroelectric-domain|铁电畴]]被淬火细化到纳米尺度。
   3. **"静态偏置+动态调制"设计范式**：Ni接触沉积时在接触处施加0.58 GPa面内拉应力（对应~0.4%应变），将MoTe2预置在接近相界的"工作点"；PMN-PT施加~0.4%峰峰值的可逆电场可控应变作为"小信号"。由CAFM测得半导体区延伸长度结合FEA（MoTe2杨氏模量/泊松比取文献值）提取出相变应变量化阈值约0.33%。
   4. **性能数据**：13 nm器件首次观察到与应变蝴蝶曲线完全同步的室温可逆开关（>1个数量级）；70 nm（~100层）器件经温度循环训练后在300 K实现 G_on/G_off ≈ 6.2×10^6（摘要称~10^7），远优于任何接触方案、任何厚度的2H-MoTe2 FET（70 nm厚沟道在传统FET中因电场屏蔽只能实现<1个数量级调制）。开态为完全金属性（欧姆I-V），关态为两个背靠背肖特基二极管（低偏压下低电流）。

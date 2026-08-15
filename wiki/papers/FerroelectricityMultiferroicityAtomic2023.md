@@ -110,7 +110,7 @@ Nature Nanotechnology 编辑部（未署名社论），2023，Nature Nanotechnol
 这篇编辑评论以"钙钛矿氧化物 / 氧化铪 / 范德瓦尔斯堆叠"三分框架，系统评述原子级厚度铁电与多铁材料的最新突破，指出氧化铪的 CMOS 兼容性与 vdW 堆叠工程是两大主线，而环境稳定性/封装是共同瓶颈。
 
 ## 🔗 Wiki 双链
-  - 概念 [[../concepts/multiferroicity]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/moire-superlattice]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2d-materials]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelasticity]]、[[../concepts/lego-assembly]]、[[../concepts/critical-thickness-ferroelectric]]、[[../concepts/hafnia-ferroelectricity]]、[[../concepts/stacking-engineered-ferroelectricity]]、[[../concepts/type-ii-multiferroics]]、[[../concepts/encapsulation-2d]]
+  - 概念 [[../concepts/multiferroicity]]、[[../concepts/ferroelectric-tunnel-junction]]、[[../concepts/sliding-ferroelectricity]]、[[../concepts/moire-superlattice]]、[[../concepts/magnetoelectric-coupling]]、[[../concepts/2d-materials]]、[[../concepts/polarization-switching]]、[[../concepts/ferroelasticity]]、[[../concepts/lego-assembly]]、[[../concepts/critical-thickness-ferroelectric]]、[[../concepts/hafnia-ferroelectricity]]、[[../concepts/stacking-engineered-ferroelectricity]]、[[../concepts/type-ii-multiferroicity]]、[[../concepts/encapsulation-2d]]
   - 实体 [[../entities/BiFeO3]]、[[../entities/In2Se3]]、[[../entities/WTe2]]、[[../entities/h-BN]]、[[../entities/TMDs]]、[[../entities/PbTiO3]]、[[../entities/HfO2]]、[[../entities/CuInP2S6]]、[[../entities/SnS]]、[[../entities/MoTe2]]、[[../entities/CuCrP2S6]]、[[../entities/NiI2]]、[[../entities/Cr2Ge2Te6]]
   - 图表 [[../figures/crystal-structures]]、[[../figures/heterostructures-stacking]]
   - 年度 [[../write/2020-2024|2023]]
@@ -157,5 +157,5 @@ Nature Nanotechnology 编辑部（未署名社论），2023，Nature Nanotechnol
   6. 滑移铁电：单层 WTe₂ 非极性，但双层/三层因[[../concepts/interlayer-stacking|层间堆叠]]失配产生自发面外极化（Fei et al., Nature 2018），极化可由层间横向滑移翻转，将铁电机制从离子位移拓展到层间相对位移。
   7. 莫尔铁电：扭转氮化硼中亚稳非中心对称平行取向产生稳健铁电序，莫尔条纹导致交错极化并改变翻转动力学（Vizner Stern et al., Science 2021；Yasuda et al., Science 2021）。
   8. [[../concepts/stacking-engineered-ferroelectricity|堆叠工程铁电]]：两个相同 TMD 单层（WSe₂、MoSe₂、WS₂、MoS₂）平行堆叠可在室温观测到铁电回滞（Wang et al., Nat. Nanotechnol. 2022）；交替堆叠 MoS₂/WS₂ 无需转角即可破缺对称获得面外铁电（Rogée et al., Science 2022），使非铁电块体可被"组装"成铁电堆叠。
-  9. 二维多铁的两条路径：(a) 本征[[../concepts/type-ii-multiferroics|第二类多铁]]——少层 CuCrP₂S₆ 中磁序破缺反演对称诱导极化并展现极化–磁化耦合（Lai et al., Nanoscale 2019）；单层 NiI₂ 光学探测到多铁态但尚待直接电磁测量确认（Song et al., Nature 2023）；(b) 异质结[[../concepts/magnetoelectric-coupling|磁电耦合]]——理论预言铁磁 Cr₂Ge₂Te₆/铁电 In₂Se₃ 双层具有强层间磁电效应（Gong et al., Nat. Commun. 2019），另有多种铁磁/铁电、反铁磁/铁电异质双层被提出，绕过了单体材料 d 轨道占据的化学矛盾。
+  9. 二维多铁的两条路径：(a) 本征[[../concepts/type-ii-multiferroicity]]——少层 CuCrP₂S₆ 中磁序破缺反演对称诱导极化并展现极化–磁化耦合（Lai et al., Nanoscale 2019）；单层 NiI₂ 光学探测到多铁态但尚待直接电磁测量确认（Song et al., Nature 2023）；(b) 异质结[[../concepts/magnetoelectric-coupling|磁电耦合]]——理论预言铁磁 Cr₂Ge₂Te₆/铁电 In₂Se₃ 双层具有强层间磁电效应（Gong et al., Nat. Commun. 2019），另有多种铁磁/铁电、反铁磁/铁电异质双层被提出，绕过了单体材料 d 轨道占据的化学矛盾。
   10. 许多硫族化物/卤化物 vdW 铁电在空气环境下易与氧和水反应而降解，开发不损害[[../concepts/ferroelectricity|铁电性]]能的封装技术是该领域走向应用的前沿瓶颈；这也是将超薄铁电/多铁材料集成进低功耗器件时必须与器件架构协同设计的工程问题。

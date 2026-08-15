@@ -99,7 +99,7 @@ Wenbin Li & Ju Li，2016，Nature Communications 7:10843，DOI [10.1038/ncomms10
   - 实体 [[../entities/WTe2]]
   - 实体 [[../concepts/domain-wall]]
   - 实体 [[../entities/VASP]]
-  - 图表 [[../figures/domain-walls]]
+  - 图表 [[../concepts/domain-wall]]
   - 图表 [[../figures/crystal-structures]]
   - 图表 [[../figures/mathematical-models]]
   - 图表 [[../figures/heterostructures-stacking-domains-devices|铁弹畴、畴壁、In₂Se₃ 与器件应用]]

@@ -83,7 +83,7 @@ J. Laverock, S. B. Dugdale, Zs. Major, M. A. Alam, N. Ru, I. R. Fisher, G. Santi
   - 图表 [[../figures/crystal-structures]]、[[../figures/electronic-bands]]
   - 年度 [[../write/2005-2009|2005]]
   - 项目 [[../projects/project-7-cdw-charge-density-wave]]
-  - 概念 [[../concepts/brillouin-zone]]、[[../concepts/electronic-band-structure]]
+  - 概念 [[../concepts/brillouin-zone]]、[[../concepts/band-structure]]
   - 实体 [[../entities/LuTe3]]、[[../entities/GdTe3]]、[[../entities/LuTe2]]
   - 相关论文 [[../../raw/note/Laverock2005fermi]]
 ## 🆕 新概念/实体建议

@@ -80,7 +80,7 @@ Nicola A. Spaldin、Manfred Fiebig，2005，*Science* 309(5733), 391–392，DOI
   - 实体 [[../entities/BiFeO3]]
   - 实体 [[../concepts/domain-wall]]
   - 图表 [[../figures/crystal-structures]]
-  - 图表 [[../figures/domain-walls]]
+  - 图表 [[../concepts/domain-wall]]
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2005]]
   - 主题 [[多铁性材料]]
