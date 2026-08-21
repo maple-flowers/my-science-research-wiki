@@ -44,12 +44,14 @@ VSe2 的 CDW 机制与传统的 NbSe2 有所不同，体现了更强的电子-�
 | 磁性基态 | 理论预言铁磁 (FM)，实验尚存争议 |
 | 超结构周期 | $4 \times 4$ 或非公度调制 |
 
+> 注：上表为典型实验或 DFT 计算数值，适用对象与条件已在数值中标注，详细来源见下方 📚 相关论文 节。
+
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/kawakamiChargedensityWaveAssociated2023]]：研究了 VSe2 中 CDW 与能带结构的关联。
 - [[../papers/Inosov2008fermi]]：讨论了 TMD 材料中费米面动力学与电子关联。
-- [[../papers/lezoualchStudyChargeDensity]]
-- [[../papers/liPhaseTransitions2D2021]]
+- [[../papers/lezoualchStudyChargeDensity]]：从理论分析角度梳理了「Study of charge density waves in transition metal dichalcogenides」。
+- [[../papers/liPhaseTransitions2D2021]]：从综述角度梳理了「Phase transitions in 2D materials」。
 - [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]
 - [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
 - [[../papers/zhaoOpticalFingerprintsTwodimensional2024]]
@@ -58,5 +60,5 @@ VSe2 的 CDW 机制与传统的 NbSe2 有所不同，体现了更强的电子-�
 
 - [[../concepts/charge-density-wave|电荷密度波 (CDW)]]
 - [[../concepts/pseudogap|赝能隙]]
-- [[../entities/1t-phase|1T 相]]
+- [[../concepts/1t-phase|1T 相]]
 - [[../entities/NbSe2|二硒化铌 (NbSe2)]]

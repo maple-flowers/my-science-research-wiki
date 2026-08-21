@@ -1,4 +1,34 @@
+---
+tags: [concept]
+title: 'd-pi-a-architecture'
+type: concept
+status: developing
+papers: ['H2017fluorescence', 'WRZYSZCZYNSKI2010initiators', 'Huang2023two', 'Huang2019solvatochromic', 'Zhang2008synthesis']
+updated: 2026-08-18
+---
+
 # d-pi-a-architecture
+
+D-π-A 架构（donor-π-acceptor，给体-π桥-受体）指由**电子给体（D）**、**π 共轭桥**与**电子受体（A）**构成的功能分子结构。这种"推-拉"构型促进分子内电荷转移（ICT），使分子具备大双光子吸收截面、溶剂化显色、可调荧光与非线性光学响应，是双光子荧光探针、双光子聚合引发剂与光电材料设计的通用骨架。
+
+## 👵 太奶导读
+
+太奶啊，D-π-A 分子就像"一个乐意送钱的（给体）、一条运钱通道（π 桥）、一个乐意收钱的（受体）"三个人。光一照，钱（电子）就从给体运到受体，分子就有了"本事"：能吸收两束光（双光子吸收）、能随着周围环境变颜色（溶剂化显色）。做荧光探针、做 3D 打印的引发剂，都靠这个"三人组"。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **分子内电荷转移（ICT）**：激发态下电子从 D 经 π 桥转移到 A，形成电荷分离态，产生大的偶极矩变化（本库 H2017、Huang2019、Huang2023 双光子荧光探针）。
+- **双光子吸收**：强 ICT 与 π 共轭扩展增强双光子吸收截面，使分子能在长波长激发下发射，适合生物成像与深层光刻（本库 WRZYSZCZYNSKI2010、Zhang2008 双光子聚合引发剂）。
+- **溶剂化显色（solvatochromism）**：激发态偶极与溶剂环境相互作用，使发射峰随溶剂极性、黏度、温度红移/蓝移，用于环境感知探针。
+- **构型调优**：改变 D/A 强度、π 桥共轭长度与支化结构（三支、多支）可系统调控吸收/发射波长与双光子截面。
+- **与凝聚态材料的关系**：该分子级电荷转移思想与有机电荷转移盐、二维材料界面电荷转移共享物理内核。
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../concepts/charge-transfer|电荷转移]]：D-π-A 的核心物理过程。
+- [[../concepts/two-photon-absorption-cross-section|双光子吸收截面]]：D-π-A 结构的关键性能指标。
+- [[../concepts/two-photon-polymerization|双光子聚合]]：D-π-A 引发剂的主要应用。
+- [[../concepts/solvatochromism|溶剂化显色]]：D-π-A 探针的环境感知机制。
 
 ## 📚 相关论文 (Related Papers)
 

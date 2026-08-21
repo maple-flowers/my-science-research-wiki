@@ -25,7 +25,7 @@ updated: 2026-08
 
 螺旋磁序可根据旋转轴与波矢的关系分为旋性螺旋（Cycloidal）和螺旋线（Helical）等。
 
-![图：TbMnO3 中的螺旋磁序诱导极化示意](../../raw/figures/cheongMultiferroicsMagneticTwist2007a/fig_1_G5K2M3NX.png)
+![图：TbMnO3 中的螺旋磁序诱导极化示意](../../raw/figures/cheongMultiferroicsMagneticTwist2007a/fig_1_D8A9TF3K.png)
 *   **看图要点**：图中展示了自旋在 $bc$ 平面内旋转并沿 $b$ 轴传播的旋性螺旋序。这种手性结构导致电荷中心偏离，产生沿 $c$ 轴的极化 $P$。
 *   **来源**：[[../papers/cheongMultiferroicsMagneticTwist2007a]] -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
 *(注：引用自 Cheong 2007 经典综述图示)*

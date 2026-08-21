@@ -193,7 +193,7 @@ Mohammad Mahdi Doroodmand, Sina Owji，2017，*International Journal of Advanced
   - Molecular wire / 分子导线
   - Electropolymerization / 电聚合 [[../concepts/electropolymerization|电聚合]]
   - Cyclic voltammetry (CV) / 循环伏安法
-  - Glassy carbon (GC) electrode / 玻碳电极 [[../concepts/glassy-carbon|玻碳电极]]
+  - Glassy carbon (GC) electrode / 玻碳电极 [[../entities/glassy-carbon|玻碳电极]]
   - Relative humidity (RH) / 相对湿度 [[../concepts/relative-humidity|相对湿度]]
   - Blue component (RGB) / 蓝色分量
   - Hysteresis / 迟滞 [[../concepts/hysteresis|迟滞]]（记忆效应）

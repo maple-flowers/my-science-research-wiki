@@ -2,7 +2,7 @@
 tags: [concept, topological-physics, symmetry]
 title: 时间反演对称性 / Time-Reversal Symmetry
 type: concept
-status: developing
+status: mature
 domain: [condensed-matter-physics, topological-physics]
 mechanism: 体系哈密顿量在时间倒转算符变换下的不变性
 related_concepts: [topological-insulator, Z2-invariant, quantum-spin-hall-effect, weyl-semimetal, broken-inversion-symmetry]
@@ -34,6 +34,22 @@ updated: 2026-08
 *   **克拉默定理 (Kramers' Theorem)**：对于具有半整数自旋且满足时间反演对称性的系统，哈密顿量的每一个本征态都至少是双重简并的（即克拉默对，Kramers pair）。
 *   **背散射抑制**：由于 $\mathcal{T}$ 的存在，量子自旋霍尔边缘态中自旋向上的向前运动电子无法被非磁性杂质散射成自旋向下的向后运动电子，因为这违反了时间反演下的概率守恒。
 *   **对称性破缺**：引入磁性（如铁磁、反铁磁）会打破 $\mathcal{T}$，从而可能将拓扑绝缘体转变为外尔半金属或量子反常霍尔绝缘体。
+
+## 📋 关键参数表
+
+| 参数 | 含义 | 典型值/特征 |
+|---|---|---|
+| 时间反演操作 T | 反转时间 | T²=-1（自旋 1/2） |
+| 克拉默简并 | 无磁场下自旋简并 | SOC 下仍保持 |
+| 破缺方式 | 外磁场/磁序 | 产生劈裂 |
+| 拓扑作用 | Z2 保护 | 拓扑绝缘体根基 |
+| 表征 | 磁化/自旋极化 | 判定 TRS 状态 |
+
+## 🔀 近邻概念辨析
+
+- **时间反演 vs 空间反演**：时间反演反转动量与自旋；空间反演反转位置。二者独立，破缺后果不同（磁性 vs 极化）。
+- **时间反演 vs 磁性**：磁序/外磁场破缺时间反演，但不一定破缺空间反演；铁电反之。
+- **TRS 保护 vs 拓扑**：Z2 拓扑需 TRS 存在；破坏 TRS（磁性掺杂）可将 TI 转为量子反常霍尔态。
 
 ## 📚 相关论文 (Related Papers)
 

@@ -149,7 +149,7 @@ wiki 中没有、但值得新建的概念或材料实体，每个给 kebab-case 
     - **图示描述**：列出 2H-TaS₂ 多个 CDW 特征拉曼模式在不同温度下的实验频率，并与两种 DFT 模型（施加应力模拟 IC-CDW、未施加应力）逐一对比，单位 cm⁻¹。
     - **关键特征**：施加微小应力的模型（如 CDW 模在 51 cm⁻¹）显著优于无应力模型，整体与实验吻合良好。
     - **结论/意义**：定量证据表明，对非公度 CDW 体系仅用简单超胞不够，需要"以应变换非公度性"的建模技巧。
-  - 表2：不同泛函-赝势组合下 TaSe₂ 原胞拉曼模与实验的平均误差，LDA(PW)+模守恒最优（3.2 cm⁻¹）：![表2 泛函-赝势组合拉曼误差基准](../../raw/figures/chowdhuryReviewTheoreticalComputational/tab_2_2GIU5ZQ2A.png) -> [[../figures/vibrational-spectra|振动光谱]]
+  - 表2：不同泛函-赝势组合下 TaSe₂ 原胞拉曼模与实验的平均误差，LDA(PW)+模守恒最优（3.2 cm⁻¹）：![表2 泛函-赝势组合拉曼误差基准](../../raw/figures/chowdhuryReviewTheoreticalComputational/tab_2_2GIU5ZQ2.png) -> [[../figures/vibrational-spectra|振动光谱]]
     - **图示描述**：列出 GGA、LDA 等交换关联泛函与 Norm-conserving、Ultra-soft、PAW 等赝势的多种组合所计算的 TaSe₂ 单胞拉曼频率，并与实验值（cm⁻¹）对照，末行给出平均误差。
     - **关键特征**：LDA(PW)+模守恒赝势平均误差最小（3.2 cm⁻¹），优于 GGA(PBE-PAW)（10.5 cm⁻¹）、GGA(PW)（11.2 cm⁻¹）；GGA 晶格常数更准但拉曼频率反而不如 LDA，误差互补。
     - **结论/意义**：为计算研究者提供参数选择基准，强调针对特定材料和物性做基准测试、而非盲目追求"更高级"泛函的重要性。

@@ -24,7 +24,7 @@ updated: 2026-08
 
 WS2 常见的最稳定结构为 2H 相（三棱柱配位，属于空间群 $P6_3/mmc$）。
 
-![图：2D 过渡金属硫族化合物晶格结构](../../raw/figures/RecentAdvancesGrowth2025/fig_1_NDNYXQ2A.png)
+![图：2D 过渡金属硫族化合物晶格结构](../../raw/figures/RecentAdvancesGrowth2025/fig_1_7IQ7CDIJ.png)
 *   **看图要点**：图中展示了 WS2 单层的高分辨晶格结构和范德华异质结堆垛方式。W 原子和 S 原子呈完美的六角蜂窝状排布。
 *   **来源**：[[../papers/RecentAdvancesGrowth2025]] -> [[../figures/crystal-structures-bulk|晶体结构]]
 
@@ -43,11 +43,13 @@ WS2 常见的最稳定结构为 2H 相（三棱柱配位，属于空间群 $P6_3
 | 价带顶 SOC 劈裂量 | $\sim 400\text{ meV}$ |
 | 激子结合能 | $\sim 0.32\text{ eV}$ |
 
+> 注：上表为典型实验或 DFT 计算数值，适用对象与条件已在数值中标注，详细来源见下方 📚 相关论文 节。
+
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/RecentAdvancesGrowth2025]]：讨论了高结晶性单层 WS2 薄膜的化学气相沉积 (CVD) 生长动力学。
 - [[../papers/liPhaseTransitions2D2021]]：归纳了 WS2 所在 TMD 家族在二维尺度下的普遍相变与对称性破缺。
-- [[../papers/FerroelectricityMultiferroicityAtomic2023]]
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]]：从综述角度梳理了「Ferroelectricity and multiferroicity down to the atomic thickness」。
 - [[../papers/Li2013bonding]]
 - [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]
 - [[../papers/sunSlidingFerroelectricityTwodimensional2025]]

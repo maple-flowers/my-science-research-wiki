@@ -50,8 +50,8 @@ $$\Phi = E_{vac} - E_F$$
 
 - [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]：讨论了铁电极化产生的表面场如何等效改变有效功函数，实现对肖特基二极管的调控。
 - [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]]：涉及金属纳米颗粒与二维材料界面处的电子逸出功平衡。
-- [[../papers/wangTwodimensionalFerroelectricMetal2025]]
-- [[../papers/wangTunableD0Topological2025b]]
+- [[../papers/wangTwodimensionalFerroelectricMetal2025]]：从理论分析角度梳理了「Two-dimensional ferroelectric metal CuCrX2 (X = S, Se) for efficient electrocatalysis」。
+- [[../papers/wangTunableD0Topological2025b]]：从理论分析角度梳理了「Tunable d0 topological magnetic states in multiferroic monolayer In2NO2」。
 - [[../papers/wongEvidenceMetallic1T]]
 - [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]]
 - [[../papers/yanagizawaSwitchingChargedensityWave2023]]

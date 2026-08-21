@@ -45,7 +45,7 @@ updated: 2026-08
 - [[../papers/Johannes2008fermi]]：对比了 CDW 机制与强关联效应的差异。
 - [[../papers/CastroNeto2001charge]]：综述了层状材料中莫特绝缘态与 CDW 的共存。
 - [[../papers/Koley2020charge]]：研究了电荷密度波在强关联背景下的演化。
-- [[../papers/dudarevElectronenergylossSpectraStructural1998a]]
+- [[../papers/dudarevElectronenergylossSpectraStructural1998a]]：从实验研究角度梳理了「电子能量损失谱和氧化镍的结构稳定性：  LSDA+U研究」。
 - [[../papers/nakataRobustChargedensityWave2021]]
 - [[../papers/petkovStructureIntercalatedCs2002]]
 - [[../papers/perdewGeneralizedGradientApproximation1996a]]

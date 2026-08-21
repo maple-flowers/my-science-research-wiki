@@ -1,5 +1,47 @@
+---
+tags: [concept, two-photon-absorption, solvatochromism, charge-transfer, twisted-intramolecular-charge-transfer]
+title: thermo-solvatochromism
+type: concept
+status: developing
+year: 2017
+papers: [H2017fluorescence]
+updated: 2026-08-18
+---
+
 # thermo-solvatochromism
+
+2,5-二氰基-4-甲基-4‘-二甲基氨基二苯乙烯（P1），一种基于双氰基二苯乙烯（DCS）骨架的供体-π-受体（D-π-A）型荧光分子，以及其类似物 P2（二苯基氨基取代）。
+
+## 👵 太奶导读
+
+乖孙，这一条讲的是「2,5-二氰基-4-甲基-4‘-二甲基氨基二苯乙烯（P1），一种基于双氰基二苯乙烯（DCS）骨架的供体-π-受体（D-π-A）型荧光分子，以及其类似物 P2（二苯基氨基取代）」。
+一句话记住它的发现：P1 展现出极宽的溶剂化变色范围（发射峰从445 nm到641 nm），其发射能量与溶剂ET(30)等参数呈良好线性关系。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **研究背景**：现有的双光子极性探针普遍存在响应维度单一（仅对极性响应）、溶剂化变色范围窄、双光子吸收截面小等缺陷，无法同时满足对极性、粘度、温度等多参数的综合检测需求，限制了其在复杂生物体系中的应用。
+- **核心问题**：如何通过合理的分子设计，打破传统 TPF 探针“小分子-窄光谱-小截面”的“不可能三角”，开发出一种能同时对多种环境刺激（极性、粘度、温度）产生显著、可区分荧光响应，且保持优异双光子性能的新型多功能探针。
+- **主要结论**：P1 展现出极宽的溶剂化变色范围（发射峰从445 nm到641 nm），其发射能量与溶剂ET(30)等参数呈良好线性关系。P1 在单/双光子激发下均表现出由LE态、TICT态和Exciplex组成的独特三重荧光，且各荧光带对温度和粘度有差异性响应。其最大双光子吸收截面在非极性溶剂中高达5560 GM。
+- **领域贡献**：1. 发现并首次报道了双光子三重荧光现象，拓展了光物理研究的认知边界。2. 提出了一种“双氰基受体”策略，为设计兼具超大溶剂化变色范围和超大双光子吸收截面的小分子探针提供了新范式。3. 展示了单一荧光团实现极性、粘度、温度多模式传感的可行性。
+- **研究意义**：本研究首次报道了双光子激发的三重荧光现象，并成功开发了一种对极性、粘度和温度均高度敏感的双光子荧光探针P1。这不仅为多参数传感提供了新的分子工具和设计策略，也为激发态复杂动力学（如LE态、TICT态和Exciplex的形成与调控）的研究提供了新的实验体系。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/H2017fluorescence]] — Dicyanostilbene-based Two-photon Thermo-solvatochromic Fluorescence Probes with Two-photon Triple Fluorescence
+- [[../papers/H2017fluorescence]]：1. 发现并首次报道了双光子三重荧光现象，拓展了光物理研究的认知边界。
+
+## 🔗 关联概念与实体 (Related)
+
+- [[../concepts/two-photon-absorption|two-photon-absorption]]
+- [[../concepts/solvatochromism|solvatochromism]]
+- [[../concepts/charge-transfer|charge-transfer]]
+- [[../concepts/exciplex|exciplex]]
+- [[../concepts/d-pi-a-architecture|d-pi-a-architecture]]
+- [[../concepts/solvent-relaxation|solvent-relaxation]]
+- [[../concepts/fluorescence-sensing|fluorescence-sensing]]
+- [[../concepts/local-excited-state|local-excited-state]]
+- [[../entities/P1|P1]]
+- [[../entities/dicyanostilbene|dicyanostilbene]]
+- [[../entities/P2|P2]]
+- [[../entities/dicyanostilbene-1a|dicyanostilbene-1a]]
+- [[../entities/dicyanostilbene-1b|dicyanostilbene-1b]]
+- [[../entities/DCS|DCS]]

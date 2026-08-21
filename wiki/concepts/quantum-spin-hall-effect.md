@@ -2,7 +2,7 @@
 tags: [concept, topological-physics, transport]
 title: 量子自旋霍尔效应 / Quantum Spin Hall Effect (QSHE)
 type: concept
-status: developing
+status: mature
 domain: [condensed-matter-physics, topological-physics]
 mechanism: 强自旋-轨道耦合诱导的自旋相关的能带拓扑演化
 related_concepts: [topological-insulator, spin-orbit-coupling, time-reversal-symmetry, Z2-invariant, helical-edge-state]
@@ -39,6 +39,22 @@ QSHE 体系的特征是存在穿过体带隙的螺旋边缘态。
 ## 🔬 材料范例与调控
 
 **1T' 相 TMD 与相变调控**：1T' 相过渡金属二硫族化物（如 WSe₂、MoTe₂）被证实为二维量子自旋霍尔绝缘体；通过相变工程（应变、静电掺杂、激光图案化等）可在 2H 半导体相与 1T' 拓扑相之间切换，为可调控的拓扑电子器件提供了平台 [[../papers/liPhaseTransitions2D2021]]。
+
+## 📋 关键参数表
+
+| 参数 | 含义 | 典型值/特征 |
+|---|---|---|
+| Z2 不变量 | 拓扑分类 | 1=QSHE |
+| 边缘态 | 一维螺旋态 | 自旋-动量锁定 |
+| 体带隙 | 拓扑保护的能隙 | 决定工作温度 |
+| 保护对称性 | TRS | 磁性破缺则消失 |
+| 材料范例 | 2D TI | HgTe、WTe₂、1T'-WSe₂ |
+
+## 🔀 近邻概念辨析
+
+- **QSHE vs 量子霍尔效应**：QHE 需外磁场、边缘态手性单向；QSHE 无需磁场、边缘态螺旋（自旋依赖双向）、受 TRS 保护。
+- **QSHE vs SHE**：QSHE 是拓扑态（体带隙+无耗散边缘态）；SHE 是体相输运现象（无带隙要求）。
+- **QSHE vs 量子反常霍尔效应**：QAHE 破缺 TRS（磁性）仍产生无耗散边缘态；QSHE 依赖 TRS。
 
 ## 📚 相关论文 (Related Papers)
 

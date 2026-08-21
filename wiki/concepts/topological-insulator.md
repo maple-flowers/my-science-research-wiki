@@ -2,7 +2,7 @@
 tags: [concept, topological-physics, spintronics]
 title: 拓扑绝缘体 / Topological Insulator (TI)
 type: concept
-status: developing
+status: mature
 domain: [condensed-matter-physics, topological-physics]
 mechanism: 强自旋-轨道耦合导致的能带反转与拓扑保护边缘态
 related_concepts: [spin-orbit-coupling, berry-phase, time-reversal-symmetry, Z2-invariant, bulk-boundary-correspondence]
@@ -37,7 +37,39 @@ updated: 2026-08
 
 在单层 1T'-WSe₂ 中，这种拓扑性使得它成为量子自旋霍尔绝缘体。
 
-## 📚 相关论文 (Related Papers)
+## 📋 关键参数表
+
+| 参数 | 含义 | 典型值/特征 |
+|---|---|---|
+| Z2 不变量 | 拓扑分类 | 0=平庸 / 1=拓扑 |
+| 保护对称性 | 拓扑稳定的前提 | 时间反演对称性 |
+| 边界态 | 体-边界对应 | 自旋-动量锁定 |
+| 能带反转 | 拓扑起源 | SOC 驱动 |
+| 维度 | 2D/3D | 边缘态/表面态 |
+
+## 🔀 近邻概念辨析
+
+- **拓扑绝缘体 vs 平庸绝缘体**：TI 体能隙闭合后重新打开（能带反转）、具 Z2=1，边界有受保护导电态；平庸绝缘体 Z2=0。
+- **拓扑绝缘体 vs 半金属**：TI 体相绝缘、边界导电；Weyl/狄拉克半金属体相在费米面处有节点。
+- **拓扑绝缘体 vs 拓扑金属**：TI 边界态受拓扑保护且鲁棒；拓扑金属体相呈现拓扑能带特征。
+
+## 📋 关键参数表
+
+| 参数 | 含义 | 典型值/特征 |
+|---|---|---|
+| Z2 不变量 | 拓扑分类 | 0=平庸 / 1=拓扑 |
+| 保护对称性 | 拓扑稳定的前提 | 时间反演对称性 |
+| 边界态 | 体-边界对应 | 自旋-动量锁定 |
+| 能带反转 | 拓扑起源 | SOC 驱动 |
+| 维度 | 2D/3D | 边缘态/表面态 |
+
+## 🔀 近邻概念辨析
+
+- **拓扑绝缘体 vs 平庸绝缘体**：TI 体能隙闭合后重新打开（能带反转）、具 Z2=1，边界有受保护导电态；平庸绝缘体 Z2=0。
+- **拓扑绝缘体 vs 半金属**：TI 体相绝缘、边界导电；Weyl/狄拉克半金属体相在费米面处有节点。
+- **拓扑绝缘体 vs 拓扑金属**：TI 边界态受拓扑保护且鲁棒；拓扑金属体相呈现拓扑能带特征。
+
+## 📚 相关论文 (Related Papers) Papers)
 
 - [[../papers/pedramraziManipulatingTopologicalDomain2019]]：研究了 1T'-WSe₂ 作为二维拓扑绝缘体的畴界操控。
 - [[../papers/hanPolarTopologicalMaterials2025]]：综述了极性材料中的拓扑概念。

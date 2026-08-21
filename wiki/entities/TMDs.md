@@ -53,72 +53,72 @@ TMDs 的基本单元是一个三原子层（X-M-X）。常见的晶体多型体�
 - [[../papers/Inosov2008fermi]]：ARPES 测量揭示了 2H-TMDs 中费米面嵌套的普适规律。
 - [[../papers/zhangEmergingFrontiersTwodimensional2025]]：综述了滑动铁电在 TMDs 等二维材料中的前沿进展。
 - [[../papers/heUltrafastSwitchingDynamics2024]]：探讨了 MoS₂ 滑动铁电的超快动力学。
-- [[../papers/Barnett2006coexistence]]
-- [[../papers/CastroNeto2001charge]]
-- [[../papers/Chen2019superconductivity]]
-- [[../papers/FerroelectricityMultiferroicityAtomic2023]]
-- [[../papers/Islam2025enhancement]]
-- [[../papers/Johannes2008fermi]]
-- [[../papers/Koley2020charge]]
-- [[../papers/Li2013bonding]]
-- [[../papers/Owji20212d]]
-- [[../papers/Petkov2020hierarchy]]
-- [[../papers/RecentAdvancesGrowth2025]]
-- [[../papers/bhowalPolarMetalsPrinciples2023b]]
-- [[../papers/chen3dLevelSymmetry2025]]
-- [[../papers/chenFerromagneticNonmagnetic1T2022]]
-- [[../papers/chowdhuryReviewTheoreticalComputational]]
-- [[../papers/dingPredictionIntrinsicTwodimensional2017a]]
-- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]]
-- [[../papers/gorkovStrongElectronlatticeCoupling2012]]
-- [[../papers/guanRecentProgressTwoDimensional2020]]
-- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]
-- [[../papers/hallEnvironmentalControlCharge]]
-- [[../papers/hanTunableSlidingFerroelectricity2025]]
-- [[../papers/heSwitchingTwodimensionalSliding2025]]
-- [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]]
-- [[../papers/huProgressProspectsLowdimensional2019]]
-- [[../papers/huangPolarPhaseDomain2019]]
-- [[../papers/huangTwodimensionalIn2Se3Rising2022]]
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]
-- [[../papers/kawakamiChargedensityWaveAssociated2023]]
-- [[../papers/kimObservationPhaseTransition1997]]
-- [[../papers/krishnamurthiSpinChargeDensity2020]]
-- [[../papers/lezoualchStudyChargeDensity]]
-- [[../papers/liFerroelasticityDomainPhysics2016]]
-- [[../papers/liMonolayerPuckeredPentagonal2022]]
-- [[../papers/liPhaseTransitions2D2021]]
-- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]
-- [[../papers/majumdarInterplayChargeDensity2020]]
-- [[../papers/martinThinfilmFerroelectricMaterials2016]]
-- [[../papers/miaoMagneticFerroelectricMetal2024]]
-- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]
-- [[../papers/naguib25thAnniversaryArticle2013a]]
-- [[../papers/nakataRobustChargedensityWave2021]]
-- [[../papers/neumayerCompetingPolarPhases2025]]
-- [[../papers/nicholsonUniaxialStraininducedPhase2021]]
-- [[../papers/niuDirectVisualizationLargeScale2021]]
-- [[../papers/pedramraziManipulatingTopologicalDomain2019]]
-- [[../papers/pengStrainEngineering2D2020]]
-- [[../papers/shenEmergenceMultipleFerroelectric2025]]
-- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
-- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]
-- [[../papers/tangCombiningIntrinsicSlidinginduced2025]]
-- [[../papers/tangMultiferroicityTwodimensionalVan2025]]
-- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]
-- [[../papers/vahidmohammadiWorldTwodimensionalCarbides2021]]
-- [[../papers/wangFormationMechanismTwin2019]]
-- [[../papers/wangTunableD0Topological2025b]]
-- [[../papers/wongEvidenceMetallic1T]]
-- [[../papers/wuElectrostaticGatingIntercalation2022]]
-- [[../papers/wuSlidingFerroelectricity2D2021a]]
-- [[../papers/xuTwodimensionalFerroelasticityVan2021]]
-- [[../papers/xunCoexistingMagnetismFerroelectric2024]]
-- [[../papers/yanDecipheringStabilityTwodimensional2025]]
-- [[../papers/yanagizawaSwitchingChargedensityWave2023]]
-- [[../papers/yangStrainEngineeringTwodimensional2021]]
-- [[../papers/yuFerroelectricControlMagnetism2026]]
-- [[../papers/zahraCriticalAnalysisFerroelectric2025]]
+- [[../papers/Barnett2006coexistence]]：从理论分析角度梳理了「Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides」。
+- [[../papers/CastroNeto2001charge]]：从理论分析角度梳理了「Charge Density Wave, Superconductivity, and Anomalous Metallic Behavior in 2D Transition Metal Dichalcogenides」。
+- [[../papers/Chen2019superconductivity]]：从实验研究角度梳理了「过渡金属二元化合物电荷密度波相的非公度驱动超导电性」。
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]]：从综述角度梳理了「Ferroelectricity and multiferroicity down to the atomic thickness」。
+- [[../papers/Islam2025enhancement]]：从实验研究角度梳理了「有无电荷密度波对过渡金属二元化合物超流体密度的压力诱导增强」。
+- [[../papers/Johannes2008fermi]]：从理论分析角度梳理了「费米表面嵌套与金属中电荷密度波的起源」。
+- [[../papers/Koley2020charge]]：从理论分析角度梳理了「Charge density wave and superconductivity in transition metal dichalcogenides」。
+- [[../papers/Li2013bonding]]：从理论分析角度梳理了「Bonding Charge Density and Ultimate Strength of Monolayer Transition Metal Dichalcogenides」。
+- [[../papers/Owji20212d]]：从实验研究角度梳理了「2D materials coated on etched optical fibers as humidity sensor」。
+- [[../papers/Petkov2020hierarchy]]：从实验研究角度梳理了「Hierarchy among the crystal lattice, charge density wave, and superconducting orders in transition metal dichalcogenides」。
+- [[../papers/RecentAdvancesGrowth2025]]：从综述角度梳理了「二维多铁性材料的生长、表征及应用研究进展」。
+- [[../papers/bhowalPolarMetalsPrinciples2023b]]：从综述角度梳理了「极性金属：原理与展望」。
+- [[../papers/chen3dLevelSymmetry2025]]：从理论分析角度梳理了「3d-level symmetry between metal layers governing the electronic configuration of Mn2N MXenes and enabling modulation between half-metallicity and semiconductivity」。
+- [[../papers/chenFerromagneticNonmagnetic1T2022]]：从理论分析角度梳理了「Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition」。
+- [[../papers/chowdhuryReviewTheoreticalComputational]]：从综述角度梳理了「二维电荷密度波材料的理论和计算方法综述」。
+- [[../papers/dingPredictionIntrinsicTwodimensional2017a]]：从理论分析角度梳理了「Prediction of intrinsic two-dimensional ferroelectrics in In2Se3 and other III2-VI3 van der Waals materials」。
+- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]]：从理论分析角度梳理了「二维 Sc₂P₂Se₆ 与 ScCrP₂Se₆ 单层的铁电性与多铁性」。
+- [[../papers/gorkovStrongElectronlatticeCoupling2012]]：从实验研究角度梳理了「强电子-晶格耦合是过渡金属二元化合物电荷密度波转换的机制」。
+- [[../papers/guanRecentProgressTwoDimensional2020]]：从综述角度梳理了「Recent Progress in Two‐Dimensional Ferroelectric Materials」。
+- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]：从综述角度梳理了「二维铁电材料的研究进展」。
+- [[../papers/hallEnvironmentalControlCharge]]：从实验研究角度梳理了「单层 2H-TaS₂ 中电荷密度波序的环境控制」。
+- [[../papers/hanTunableSlidingFerroelectricity2025]]：从理论分析角度梳理了「Tunable sliding ferroelectricity in two-dimensional van der Waals RuX2 (X = Cl, Br, and I) multiferroic layers」。
+- [[../papers/heSwitchingTwodimensionalSliding2025]]：从理论分析角度梳理了「机械弯曲切换二维滑动铁电体」。
+- [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]]：从实验研究角度梳理了「应变型室温非挥发MoTe2铁电相变晶体管」。
+- [[../papers/huProgressProspectsLowdimensional2019]]：从综述角度梳理了「低维多铁性材料的研究进展与展望」。
+- [[../papers/huangPolarPhaseDomain2019]]：从实验研究角度梳理了「Polar and phase domain walls with conducting interfacial states in a Weyl semimetal MoTe2」。
+- [[../papers/huangTwodimensionalIn2Se3Rising2022]]：从综述角度梳理了「Two-dimensional In2Se3: A rising advanced material for ferroelectric data storage」。
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]：从综述角度梳理了「Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials」。
+- [[../papers/kawakamiChargedensityWaveAssociated2023]]：从实验研究角度梳理了「Charge-density wave associated with higher-order Fermi-surface nesting in monolayer VS2」。
+- [[../papers/kimObservationPhaseTransition1997]]：从实验研究角度梳理了「Observation of a phase transition from the T phase to the H phase induced by a STM tip in 1T-TaS₂」。
+- [[../papers/krishnamurthiSpinChargeDensity2020]]：从理论分析角度梳理了「过渡金属二元化合物界面上的自旋/电荷密度波」。
+- [[../papers/lezoualchStudyChargeDensity]]：从理论分析角度梳理了「Study of charge density waves in transition metal dichalcogenides」。
+- [[../papers/liFerroelasticityDomainPhysics2016]]：从理论分析角度梳理了「二维过渡金属二硫族化物单层的铁弹性和畴物理」。
+- [[../papers/liMonolayerPuckeredPentagonal2022]]：从理论分析角度梳理了「单层折叠五边形VTe2:一种具有多铁性耦合的二维铁磁半导体」。
+- [[../papers/liPhaseTransitions2D2021]]：从综述角度梳理了「Phase transitions in 2D materials」。
+- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]：从综述角度梳理了「Spintronics in Two-Dimensional Materials」。
+- [[../papers/majumdarInterplayChargeDensity2020]]：从实验研究角度梳理了「层状准二维材料中电荷密度波与多带超导电性的相互作用：2H-NbS₂ 与 2H-NbSe₂ 的案例」。
+- [[../papers/martinThinfilmFerroelectricMaterials2016]]：从综述角度梳理了「铁电薄膜材料及其应用」。
+- [[../papers/miaoMagneticFerroelectricMetal2024]]：从理论分析角度梳理了「Magnetic ferroelectric metal in bilayer Fe3GeTe2 under interlayer sliding」。
+- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]：从综述角度梳理了「多铁性：磁电耦合的不同途径」。
+- [[../papers/naguib25thAnniversaryArticle2013a]]：从综述角度梳理了「25周年文章：MXenes:一个新的二维材料家族」。
+- [[../papers/nakataRobustChargedensityWave2021]]：从实验研究角度梳理了「Robust charge-density wave strengthened by electron correlations in monolayer 1T-TaSe2 and 1T-NbSe2」。
+- [[../papers/neumayerCompetingPolarPhases2025]]：从综述角度梳理了「二维铁电过渡金属硫代和硒酸盐中的竞争极性相」。
+- [[../papers/nicholsonUniaxialStraininducedPhase2021]]：从实验研究角度梳理了「二维拓扑半金属IrTe2的单轴应变诱导相变」。
+- [[../papers/niuDirectVisualizationLargeScale2021]]：从实验研究角度梳理了「Direct Visualization of Large-Scale Intrinsic Atomic Lattice Structure and Its Collective Anisotropy in Air-Sensitive Monolayer 1T'-WTe2」。
+- [[../papers/pedramraziManipulatingTopologicalDomain2019]]：从实验研究角度梳理了「单层量子自旋霍尔绝缘体 1T′–WSe₂ 中拓扑畴边界的操控」。
+- [[../papers/pengStrainEngineering2D2020]]：从综述角度梳理了「二维半导体和石墨烯的应变工程：从应变场到能带结构调谐和光子应用」。
+- [[../papers/shenEmergenceMultipleFerroelectric2025]]：从实验研究角度梳理了「多层黑磷中多铁电态的出现」。
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：从综述角度梳理了「Sliding ferroelectricity in two-dimensional materials and device applications」。
+- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]：从实验研究角度梳理了「自由基二维碳化铌的铁电性和非易失性忆阻应用：自由基MXene在电子器件中的新前沿」。
+- [[../papers/tangCombiningIntrinsicSlidinginduced2025]]：从理论分析角度梳理了「Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectrics」。
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]]：从综述角度梳理了「二维范德华材料的多铁性：挑战与机遇」。
+- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]：从实验研究角度梳理了「具有电压可控磁序的室温二维多铁金属」。
+- [[../papers/vahidmohammadiWorldTwodimensionalCarbides2021]]：从综述角度梳理了「The world of two-dimensional carbides and nitrides (MXenes)」。
+- [[../papers/wangFormationMechanismTwin2019]]：从实验研究角度梳理了「Formation mechanism of twin domain boundary in 2D materials: The case for WTe2」。
+- [[../papers/wangTunableD0Topological2025b]]：从理论分析角度梳理了「Tunable d0 topological magnetic states in multiferroic monolayer In2NO2」。
+- [[../papers/wongEvidenceMetallic1T]]：从实验研究角度梳理了「Metallic 1T Phase, 3d1 Electronic Configuration and Charge Density Wave Order in Molecular Beam Epitaxy Grown Monolayer Vanadium Ditelluride」。
+- [[../papers/wuElectrostaticGatingIntercalation2022]]：从综述角度梳理了「二维材料中的静电门控与插层」。
+- [[../papers/wuSlidingFerroelectricity2D2021a]]：从综述角度梳理了「二维范德华材料中的滑动铁电性：相关物理和未来机遇」。
+- [[../papers/xuTwodimensionalFerroelasticityVan2021]]：从实验研究角度梳理了「Two-dimensional ferroelasticity in van der Waals β'-In2Se3」。
+- [[../papers/xunCoexistingMagnetismFerroelectric2024]]：从理论分析角度梳理了「Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensional Materials」。
+- [[../papers/yanDecipheringStabilityTwodimensional2025]]：从实验研究角度梳理了「解读二维III-V半导体的稳定性：积木及其多功能组装」。
+- [[../papers/yanagizawaSwitchingChargedensityWave2023]]：从实验研究角度梳理了「Switching of charge-density wave by carrier tuning in monolayer TiTe₂」。
+- [[../papers/yangStrainEngineeringTwodimensional2021]]：从综述角度梳理了「二维材料的应变工程：方法、性质和应用」。
+- [[../papers/yuFerroelectricControlMagnetism2026]]：从实验研究角度梳理了「强磁电耦合二维多铁性材料中嵌入诱导对称破缺对磁性和巨磁电阻的铁电控制」。
+- [[../papers/zahraCriticalAnalysisFerroelectric2025]]：从综述角度梳理了「二维MXene铁电和铁磁性质的临界分析」。
 - [[../papers/zhaoRealization2DMultiferroic2024]]
 - [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]]
 - [[../papers/zhongHighthroughputExfoliationMultiferroic2025]]

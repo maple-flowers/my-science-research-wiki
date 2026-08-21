@@ -45,7 +45,7 @@ updated: 2026-08
 
 - [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]：详细介绍了基于铪基铁电器件的神经形态系统实现。
 - [[../papers/xueEmergingNonvolatileMemories2011]]：讨论了忆阻器在模拟突触功能中的应用。
-- [[../papers/huangTwodimensionalIn2Se3Rising2022]]
+- [[../papers/huangTwodimensionalIn2Se3Rising2022]]：从综述角度梳理了「Two-dimensional In2Se3: A rising advanced material for ferroelectric data storage」。
 - [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
 - [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]
 - [[../papers/zhangNonvolatileControlTopological2025]]

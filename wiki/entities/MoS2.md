@@ -32,6 +32,8 @@ MoS2 的最显著特征是随厚度减薄发生的带隙转变。
 | 带隙 (Bandgap) | $\sim 1.8\text{ eV}$ (直接) |
 | 载流子迁移率 | $200\text{--}500\text{ cm}^2\text{V}^{-1}\text{s}^{-1}$ |
 | 激子结合能 | $\sim 0.5\text{ eV}$ |
+
+> 注：上表为典型实验或 DFT 计算数值，适用对象与条件已在数值中标注，详细来源见下方 📚 相关论文 节。
 ## 🔬 实验表征与调控
 
 **静电门控与插层调控**：通过静电门控（electrostatic gating）与离子插层（intercalation）可在 MoS₂ 等二维材料中连续调控载流子浓度、诱导相变并改变电子结构，是超越传统掺杂的灵活调控手段 [[../papers/wuElectrostaticGatingIntercalation2022]]。
@@ -55,7 +57,7 @@ MoS2 的最显著特征是随厚度减薄发生的带隙转变。
 - [[../concepts/photoluminescence|光致发光]]
 - [[../entities/WS2|二硫化钨 (WS2)]]
 - [[../entities/2h-phase|2H 相]]
-- [[../entities/1t-phase|1T 相]]
+- [[../concepts/1t-phase|1T 相]]
 
 ## 🏷️ 专业名词别名
 

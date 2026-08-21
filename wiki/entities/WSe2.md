@@ -1,4 +1,34 @@
+---
+tags: [entity]
+title: 'WSe2'
+type: entity
+status: developing
+papers: ['FerroelectricityMultiferroicityAtomic2023', 'Li2013bonding', 'dingPredictionIntrinsicTwodimensional2017a', 'liuSpintronicsTwoDimensionalMaterials2020b', 'pedramraziManipulatingTopologicalDomain2019', 'sunSlidingFerroelectricityTwodimensional2025', 'zhangEmergingFrontiersTwodimensional2025']
+updated: 2026-08-18
+---
+
 # WSe2
+
+WSe₂（二硒化钨）是**层状过渡金属硫属化物（TMD）半导体**，单层为直接带隙（约 1.6–2.0 eV）、具强激子效应、巨大自旋-能谷耦合与可调谐的电子/空穴双极输运。WSe₂ 是二维光电子学、谷电子学、范德华异质结、莫尔激子与二维磁光器件的核心材料（本库 WSe₂ 相关论文）。
+
+## 👵 太奶导读
+
+太奶啊，WSe₂ 是"二维材料明星家族（TMD）"里的重要成员：撕到单层后，它吸收光、发光的能力大增（直接带隙），还自带"能谷"与"自旋"绑定的特性——像给电子贴了"方向标签"，可以做"谷电子学"。把 WSe₂ 和别的二维材料叠起来，还能造出莫尔激子、发光二极管等新奇光电器件。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **结构与能带**：层状结构，单层直接带隙（band-gap），多层间接带隙；可机械剥离（本库 WSe₂ 光学论文）。
+- **激子物理**：强束缚激子（单层束缚能数百 meV），亮/暗激子与激子复合（本库 WSe₂ 激子论文）。
+- **自旋-能谷耦合**：自旋轨道耦合（spin-orbit-coupling）锁定自旋与能谷，圆偏振光选择性激发（本库谷电子学论文）。
+- **异质结与莫尔**：WSe₂/WS₂、WSe₂/MoS₂ 范德华异质结（van-der-waals-heterostructure）的莫尔激子、层间激子与器件（本库莫尔激子论文）。
+- **器件**：发光二极管、光电探测器、场效应晶体管与二维磁光器件（本库 WSe₂ 器件论文）。
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../concepts/2d-materials|二维材料]]：WSe₂ 的类别。
+- [[../concepts/van-der-waals-heterostructure|范德华异质结]]：WSe₂ 的堆叠平台。
+- [[../concepts/band-gap|带隙]]：WSe₂ 的能带特征。
+- [[../concepts/local-excited-state|局域激发态]]：WSe₂ 的激子性质。
 
 ## 📚 相关论文 (Related Papers)
 

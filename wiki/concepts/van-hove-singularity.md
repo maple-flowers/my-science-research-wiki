@@ -45,7 +45,7 @@ updated: 2026-08
 - [[../papers/Inosov2008fermi]]：探讨了 vHS 在 2H-TMDC 材料 CDW 形成中的潜在贡献。
 - [[../papers/Johannes2008fermi]]：展示了 TaSe2 中由于 $E_F$ 靠近 vHS 而产生的电子结构灵敏性。
 - [[../papers/Laverock2005fermi]]：详细计算了不同 TMD 体系中的 DOS 与 vHS 位置。
-- [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]]
+- [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]]：从实验研究角度梳理了「Ultrasensitive optoelectronic biosensor arrays based on twisted bilayer graphene superlattice」。
 - [[../papers/kawakamiChargedensityWaveAssociated2023]]
 - [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
 - [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]]

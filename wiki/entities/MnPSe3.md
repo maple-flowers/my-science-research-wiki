@@ -25,10 +25,8 @@ MnPSe₃ 属于过渡金属磷硫化物 (MPX₃) 家族，是一种典型的二�
 
 ## 🏗️ 结构概览：MnPSe3 的原子结构与反铁磁序
 
-![图：MnPSe3 的蜂窝晶格与反铁磁排列](../../raw/figures/tanRevealingEmergentMagnetic2024/fig_1_A3L3NFIH.png)
-*   **看图要点**：图中展示了 Mn 原子在面内构成的蜂窝结构，每个 Mn 原子的自旋与最近邻反向排列，形成净磁矩抵消的反铁磁基态。
-*   **来源**：[[../papers/tanRevealingEmergentMagnetic2024]] -> [[../figures/experimental-setups]]
-*(注：引用 Tan 2024 关于二维反铁磁探测的背景)*
+MnPSe3 与 FePS3 同属过渡金属磷硫族化合物家族，层状结构由 Mn 蜂窝子格、P 原子对与 Se 原子层构成，层间以范德华力结合。其磁性体现为反铁磁序：Mn²⁺ 自旋在层内反平行排列形成奈尔型磁序，宏观磁矩为零，并可由比热或磁化率在奈尔温度处的异常加以辨识。
+
 
 ## 🧩 核心物性参数
 

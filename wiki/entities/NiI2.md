@@ -37,9 +37,9 @@ NiI₂ 晶体结构属于菱面体系（$R\bar{3}m$）。Ni²⁺ 离子构成二
 | **光学带隙** | ~1.3 eV | 磁性半导体 |
 ## 📚 相关论文 (Related Papers)
 - [[../papers/songEvidenceSinglelayerVan2022]]：Nature 封面论文，实验证实单层 NiI₂ 为本征多铁体。
-- [[../papers/FerroelectricityMultiferroicityAtomic2023]]
-- [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]
-- [[../papers/fiebigEvolutionMultiferroics2016]]
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]]：从综述角度梳理了「Ferroelectricity and multiferroicity down to the atomic thickness」。
+- [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]：从实验研究角度梳理了「Atomic-Scale Visualization of Multiferroicity in Monolayer NiI2」。
+- [[../papers/fiebigEvolutionMultiferroics2016]]：从综述角度梳理了「多铁性的演化」。
 - [[../papers/tangMultiferroicityTwodimensionalVan2025]]
 - [[../papers/wuCoexistenceFerroelectricityAntiferroelectricity2024]]
 - [[../papers/RecentAdvancesGrowth2025]]

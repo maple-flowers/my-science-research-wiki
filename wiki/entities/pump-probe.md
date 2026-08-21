@@ -1,7 +1,7 @@
 ---
-tags: [concept, photophysics, ultrafast-spectroscopy]
+tags: [entity, photophysics, ultrafast-spectroscopy]
 title: 泵浦-探测技术 / Pump-Probe
-type: concept
+type: entity
 status: developing
 domain: [ultrafast-spectroscopy, photophysics, carrier-dynamics]
 mechanism: 使用强脉冲（泵浦光）激发样品，间隔一定延迟时间后用弱脉冲（探测光）记录样品的动态演化过程

@@ -46,5 +46,5 @@ updated: 2026-08
 
 - [[../concepts/magnetic-anisotropy|磁各向异性]]（能量背景）
 - [[../concepts/easy-plane|易磁化面]]（二维常见竞争相）
-- [[../entities/Fe3GeTe2|Fe₃GaTe₂]]（垂直易轴代表）
+- [[../entities/Fe3GaTe2|Fe₃GaTe₂]]（垂直易轴代表）
 - [[../entities/CrI3|CrI₃]]（单层为垂直易轴）

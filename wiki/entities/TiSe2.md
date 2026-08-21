@@ -47,4 +47,4 @@ TiSe2 采用八面体配位的 1T 相结构。
 - [[../concepts/charge-density-wave|电荷密度波]]
 - [[../concepts/discommensuration|错位相子]]
 - [[../concepts/exciton-condensation|激子凝聚]]
-- [[../entities/1t-phase|1T 相]]
+- [[../concepts/1t-phase|1T 相]]

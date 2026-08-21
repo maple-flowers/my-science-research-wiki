@@ -1,8 +1,11 @@
 ---
+tags: [concept]
+status: developing
 name: slidetronics
 description: 利用层间滑动调控铁电、自旋、拓扑等物理性质的新兴二维电子学领域
 type: concept
 papers: [chenStrongSlidingFerroelectricity2024, wuSlidingFerroelectricity2D2021a]
+title: '滑移电子学 / Slidetronics'
 ---
 
 # 滑移电子学 / Slidetronics

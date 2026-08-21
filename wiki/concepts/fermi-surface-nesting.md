@@ -50,17 +50,17 @@ updated: 2026-08
 - [[../papers/Johannes2008fermi]]：系统论证了费米面嵌套并非真实金属中 CDW 的唯一或主导起源。
 - [[../papers/Inosov2008fermi]]：通过 ARPES 证实了嵌套矢量的普适性及其与转变温度的脱钩。
 - [[../papers/Laverock2005fermi]]：详细分析了多种 TMD 体系的费米面拓扑。
-- [[../papers/Barnett2006coexistence]]
-- [[../papers/CastroNeto2001charge]]
-- [[../papers/Kang2012dimer]]
-- [[../papers/Koley2020charge]]
-- [[../papers/Makogon2012wave]]
-- [[../papers/kawakamiChargedensityWaveAssociated2023]]
-- [[../papers/lezoualchStudyChargeDensity]]
-- [[../papers/wongEvidenceMetallic1T]]
-- [[../papers/yanagizawaSwitchingChargedensityWave2023]]
-- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]]
-- [[../papers/chowdhuryReviewTheoreticalComputational]]
+- [[../papers/Barnett2006coexistence]]：从理论分析角度梳理了「Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides」。
+- [[../papers/CastroNeto2001charge]]：从理论分析角度梳理了「Charge Density Wave, Superconductivity, and Anomalous Metallic Behavior in 2D Transition Metal Dichalcogenides」。
+- [[../papers/Kang2012dimer]]：从理论分析角度梳理了「Dimer impurity scattering, reconstructed Fermi-surface nesting, and density-wave diagnostics in iron pnictides」。
+- [[../papers/Koley2020charge]]：从理论分析角度梳理了「Charge density wave and superconductivity in transition metal dichalcogenides」。
+- [[../papers/Makogon2012wave]]：从理论分析角度梳理了「Spin-charge-density wave in a rounded-square Fermi surface for ultracold atoms」。
+- [[../papers/kawakamiChargedensityWaveAssociated2023]]：从实验研究角度梳理了「Charge-density wave associated with higher-order Fermi-surface nesting in monolayer VS2」。
+- [[../papers/lezoualchStudyChargeDensity]]：从理论分析角度梳理了「Study of charge density waves in transition metal dichalcogenides」。
+- [[../papers/wongEvidenceMetallic1T]]：从实验研究角度梳理了「Metallic 1T Phase, 3d1 Electronic Configuration and Charge Density Wave Order in Molecular Beam Epitaxy Grown Monolayer Vanadium Ditelluride」。
+- [[../papers/yanagizawaSwitchingChargedensityWave2023]]：从实验研究角度梳理了「Switching of charge-density wave by carrier tuning in monolayer TiTe₂」。
+- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]]：从理论分析角度梳理了「二维金属-有机kagome骨架Cu3（CO）6的各向异性超导电性」。
+- [[../papers/chowdhuryReviewTheoreticalComputational]]：从综述角度梳理了「二维电荷密度波材料的理论和计算方法综述」。
 - [[../papers/gorkovStrongElectronlatticeCoupling2012]]
 - [[../papers/Islam2025enhancement]]
 - [[../papers/majumdarInterplayChargeDensity2020]]

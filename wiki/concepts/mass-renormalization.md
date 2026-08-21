@@ -1,6 +1,50 @@
+---
+tags: [concept, density-functional-theory, paw-method, pseudopotential, lapw, projector-functions, charge-density-wave, fermi-surface-nesting, peierls-instability, electron-phonon-coupling, pseudogap]
+title: mass-renormalization
+type: concept
+status: developing
+year: 1994
+papers: [blochlProjectorAugmentedwaveMethod1994b, kawakamiChargedensityWaveAssociated2023]
+updated: 2026-08-18
+---
+
 # mass-renormalization
+
+本文档围绕 **mass-renormalization** 汇集 2 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
+
+## 👵 太奶导读
+
+乖孙，这一条讲的是「mass-renormalization」，由多篇论文的证据共同支撑。
+一句话记住它的发现：PAW方法成功弥合了全电子方法和赝势方法之间的鸿沟。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **研究背景**：电子结构计算方法是精确预测材料性质的核心，但主流方法存在鸿沟：全电子方法（如LAPW）精度高但计算复杂，赝势方法效率高但对许多元素（如过渡金属）精度受限或变得“硬”。迫切需要一种能结合二者优势的新方法。
+- **核心问题**：如何构建一个统一的电子结构计算框架，既能像赝势方法那样利用平滑波函数进行高效计算，又能像LAPW方法那样精确重构出全电子波函数，从而在保持高精度的同时实现高质量的分子动力学模拟？
+- **主要结论**：PAW方法成功弥合了全电子方法和赝势方法之间的鸿沟。它能够以中等的计算代价（如30 Ry平面波截断）获得与最先进全电子方法相当的精度，并可以进行高质量的分子动力学模拟。其精度和效率优于传统赝势，尤其在处理“硬”元素时。；单层VS₂存在一个周期为√21 × √21 R10.9°的条纹状CDW，并在整个费米面上打开了各向异性的能隙。该CDW不能由单一的q矢量嵌套解释，而是源于q矢量与一个长度为2q的“高阶嵌套矢量”共同作用的结果。q矢量主要嵌套费米面的平行段，2q矢量有效嵌套弯曲段，二者协同实现了全费米面能隙的打开，得到了声子谱和电子磁化率计算的支持。
+- **领域贡献**：1. 提出了PAW方法这一革命性的理论框架，成为现代高精度DFT计算（如VASP软件）的基石。2. 深刻揭示了不同电子结构计算方法之间的内在联系与统一性。3. 提供了可操作的“配方”来构建分波和投影函数，为方法普及铺平了道路。；为CDW的形成机制提供了一个新的范式，将“高阶嵌套”从一个理论概念提升为可由实验和理论计算共同验证的、驱动二维材料CDW的关键因素。它挑战并丰富了传统的费米面嵌套理论，为解决该领域长期存在的争议提供了新的思路。
+- **研究意义**：首次在理论上统一了增强波方法和赝势方法，证明LAPW是其特例，赝势是其近似。提供了一个兼具全电子精度和赝势效率的全新计算范式，并首次实现了基于全电子波函数的、能量守恒的分子动力学模拟。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/blochlProjectorAugmentedwaveMethod1994b]] — Projector augmented-wave method
-- [[../papers/kawakamiChargedensityWaveAssociated2023]] — Charge-density wave associated with higher-order Fermi-surface nesting in monolayer VS2
+- [[../papers/blochlProjectorAugmentedwaveMethod1994b]]：1. 提出了PAW方法这一革命性的理论框架，成为现代高精度DFT计算（如VASP软件）的基石。
+- [[../papers/kawakamiChargedensityWaveAssociated2023]]：为CDW的形成机制提供了一个新的范式，将“高阶嵌套”从一个理论概念提升为可由实验和理论计算共同验证的、驱动二维材料CDW的关键因素。
+
+## 🔗 关联概念与实体 (Related)
+
+- [[../concepts/density-functional-theory|density-functional-theory]]
+- [[../concepts/paw-method|paw-method]]
+- [[../concepts/pseudopotential|pseudopotential]]
+- [[../concepts/projector-functions|projector-functions]]
+- [[../concepts/augmentation-region|augmentation-region]]
+- [[../concepts/compensation-charge-density|compensation-charge-density]]
+- [[../concepts/frozen-core-approximation|frozen-core-approximation]]
+- [[../concepts/additive-augmentation|additive-augmentation]]
+- [[../concepts/norm-conservation|norm-conservation]]
+- [[../concepts/overlap-operator|overlap-operator]]
+- [[../concepts/pulay-force|pulay-force]]
+- [[../entities/VASP|VASP]]
+- [[../entities/LMTO|LMTO]]
+- [[../entities/MnFO3|MnFO3]]
+- [[../entities/Fe2|Fe2]]
+- [[../entities/Wannier90|Wannier90]]

@@ -2,7 +2,7 @@
 tags: [concept, non-linear-optics, solid-state-physics]
 title: 法拉第效应 / Faraday Effect
 type: concept
-status: developing
+status: mature
 domain: [solid-state-physics, optics, spintronics]
 mechanism: 线偏振光在穿过处于磁场中的介质时，其偏振面发生旋转的磁光现象
 related_concepts: [kerr-effect, optical-activity, magnetoelectric-coupling]
@@ -27,6 +27,13 @@ $$ \theta = V B L $$
 *   $B$ 为磁感应强度在传播方向上的分量。
 *   $L$ 为光在介质中穿过的长度。
 
+| 参数 | 符号 | 含义 |
+| --- | --- | --- |
+| 法拉第旋转角 | $\theta$ | 出射偏振面相对入射的旋转角度 |
+| 费尔德常数 | $V$ | 材料磁光活性强弱，色散显著 |
+| 磁感应强度 | $B$ | 传播方向上的磁场分量 |
+| 光程 | $L$ | 光在介质中穿过的长度 |
+
 **关键特性**：法拉第效应是**不可逆的（Non-reciprocal）**。这意味着如果光被反射回起始点，旋转角会翻倍，而不是相互抵消。这一特性使其成为制造**光学隔离器 (Optical Isolator)** 和循环器的物理基础。
 
 ## 🧩 与克尔效应 (MOKE) 的区别
@@ -45,7 +52,7 @@ $$ \theta = V B L $$
 - [[../papers/gaoGiantChiralMagnetoelectric2024a]]：利用时间分辨克尔旋转（类似于法拉第效应的反射形式）解耦探测手性磁电振荡中的磁信号。
 - [[../papers/zhaoOpticalFingerprintsTwodimensional2024]]
 
-## 🔗 关联概念与 entities
+## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/kerr-effect|克尔效应]]
 - [[../concepts/optical-activity|旋光性与光学活性]]

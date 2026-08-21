@@ -1,6 +1,50 @@
+---
+tags: [entity, infrared-detection, band-pass-filter, photoconductivity, skin-depth, atmospheric-window, fiber-optic-humidity-sensor, fringe-contrast, layer-by-layer-self-assembly]
+title: fabry-perot-interferometer
+type: entity
+status: developing
+year: 1989
+papers: [Srinivasan1989lead, Unknown2014optical]
+updated: 2026-08-18
+---
+
 # fabry-perot-interferometer
+
+本文档围绕 **fabry-perot-interferometer** 汇集 2 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
+
+## 👵 太奶导读
+
+乖孙，这一条讲的是「fabry-perot-interferometer」，由多篇论文的证据共同支撑。
+一句话记住它的发现：MBE生长的Pb₀.₈₂Sn₀.₁₈Te薄膜可用于制备红外器件。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **研究背景**：8-14微米是重要的大气红外窗口，Pb₁₋ₓSnₓTe因其制备相对容易而成为制备该波段器件的商用材料。本文旨在探索用MBE技术生长的该材料薄膜，同时实现红外滤波器和探测器功能。
+- **核心问题**：能否利用MBE技术生长的Pb₀.₈₂Sn₀.₁₈Te薄膜，成功制备出性能可用的红外带通滤波器和光电导探测器，并验证其性能指标。
+- **主要结论**：MBE生长的Pb₀.₈₂Sn₀.₁₈Te薄膜可用于制备红外器件。滤波器带宽为20-25%中心波长，探测器D*在77K下达1.47×10⁸ cm·Hz¹/²·W⁻¹。通过增加抗反射涂层可进一步提升探测性能。
+- **领域贡献**：提供了一条从理论设计、MBE材料生长到器件验证的完整技术路线。证明了该技术能够在同一材料平台上实现滤波和探测两种功能，为器件集成化打下基础。
+- **研究意义**：首次验证了MBE生长的Pb₀.₈₂Sn₀.₁₈Te薄膜在红外滤波和探测双功能应用上的可行性，为未来实现轻量化、集成化的红外光学组件提供了实验依据和工艺路线。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/Srinivasan1989lead]] — MBE-Grown Lead Tin Telluride Infrared Devices
-- [[../papers/Unknown2014optical]] — Optical Fiber Relative Humidity Sensor Based on Fabry-Perot Interferometer Coated with Sodium-p-styrenesulfonate/Allyamine Hydrochloride Films
+- [[../papers/Srinivasan1989lead]]：提供了一条从理论设计、MBE材料生长到器件验证的完整技术路线。
+- [[../papers/Unknown2014optical]]：为本文档提供核心证据。
+
+## 🔗 关联概念与实体 (Related)
+
+- [[../concepts/infrared-detection|infrared-detection]]
+- [[../concepts/band-pass-filter|band-pass-filter]]
+- [[../concepts/photoconductivity|photoconductivity]]
+- [[../concepts/skin-depth|skin-depth]]
+- [[../concepts/atmospheric-window|atmospheric-window]]
+- [[../concepts/narrow-gap-semiconductor|narrow-gap-semiconductor]]
+- [[../concepts/quantum-efficiency|quantum-efficiency]]
+- [[../concepts/detectivity|detectivity]]
+- [[../concepts/optical-constants|optical-constants]]
+- [[../entities/HgCdTe|HgCdTe]]
+- [[../entities/KCl|KCl]]
+- [[../entities/molecular-beam-epitaxy|molecular-beam-epitaxy]]
+- [[../entities/PbSnTe|PbSnTe]]
+- [[../entities/Perkin-Elmer|Perkin-Elmer]]
+- [[../entities/SnTe|SnTe]]
+- [[../concepts/fiber-optic-humidity-sensor|fiber-optic-humidity-sensor]]

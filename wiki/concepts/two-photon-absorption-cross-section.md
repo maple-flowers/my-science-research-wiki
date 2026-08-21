@@ -1,4 +1,34 @@
+---
+tags: [concept]
+title: 'two-photon-absorption-cross-section'
+type: concept
+status: developing
+papers: ['WRZYSZCZYNSKI2010initiators', 'Huang2023two', 'Zhang2008synthesis']
+updated: 2026-08-18
+---
+
 # two-photon-absorption-cross-section
+
+双光子吸收截面（two-photon absorption cross-section, 2PA cross-section, σ_2PA）是**表征材料在同时吸收两个光子（能量各为 E/2）跃迁到激发态之概率的定量参数**（单位 GM，1 GM=10⁻⁵⁰ cm⁴·s·photon⁻¹）。大截面材料是高分辨率双光子显微、三维光刻、光限幅与双光子光动力治疗的关键。
+
+## 👵 太奶导读
+
+太奶啊，一般材料吸收一个光子（能量 E）就从基态跳到激发态；双光子吸收呢，是"两个半能量光子（E/2）几乎同时到达，一起把电子推上去"。这要求光子"扎堆"（高强度激光），所以双光子效应天然只发生在焦点那一小点——用来做三维光刻、共聚焦显微特别棒。截面（σ_2PA）就是"材料吸双光子的本事有多大"，越大越好用。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **物理机制**：经由虚中间态的二阶非线性光学过程；截面与分子对称性、共轭长度、推拉电子结构相关（本库双光子材料论文）。
+- **单位与量级**：σ_2PA 单位 GM；有机共轭分子、量子点、钙钛矿的截面差异大（本库双光子吸收表征论文）。
+- **测量**：开孔 Z-scan、双光子激发荧光法测量（本库 Z-scan 实验论文）。
+- **应用**：双光子聚合（two-photon-polymerization）三维微加工、双光子显微（Ti-sapphire 激光器为光源，见 entities）、光限幅与三维光存储。
+- **理论**：响应理论/态求和（SOS）与 DFT 计算截面（本库双光子计算论文）。
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../concepts/two-photon-polymerization|双光子聚合]]：截面的直接应用。
+- [[../concepts/nonlinear-optics|非线性光学]]：双光子吸收的领域。
+- [[../concepts/second-harmonic-generation|二次谐波产生]]：同类二阶非线性过程。
+- [[../concepts/local-excited-state|局域激发态]]：双光子跃迁的终态。
 
 ## 📚 相关论文 (Related Papers)
 

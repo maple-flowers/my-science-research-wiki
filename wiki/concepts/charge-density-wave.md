@@ -44,36 +44,36 @@ Inosov 等人的研究指出，虽然费米面嵌套是重要诱因，但嵌套�
 - [[../papers/Inosov2008fermi]]：通过 ARPES 实验验证了 TMDs 中费米面嵌套矢量的非公度性和普适性。
 - [[../papers/kawakamiChargedensityWaveAssociated2023]]：研究了 CDW 相关的电子性质及其在不同相中的演化。
 - [[../papers/yanagizawaSwitchingChargedensityWave2023]]：演示了 CDW 态的可控切换。
-- [[../papers/Barnett2006coexistence]]
-- [[../papers/CastroNeto2001charge]]
-- [[../papers/Chen2019superconductivity]]
-- [[../papers/Islam2025enhancement]]
-- [[../papers/Johannes2008fermi]]
-- [[../papers/Kang2012dimer]]
-- [[../papers/Koley2020charge]]
-- [[../papers/Laverock2005fermi]]
-- [[../papers/Makogon2012wave]]
-- [[../papers/Petkov2020hierarchy]]
-- [[../papers/chenFerromagneticNonmagnetic1T2022]]
-- [[../papers/chowdhuryReviewTheoreticalComputational]]
-- [[../papers/gorkovStrongElectronlatticeCoupling2012]]
-- [[../papers/guanRecentProgressTwoDimensional2020]]
-- [[../papers/hallEnvironmentalControlCharge]]
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]
-- [[../papers/kimObservationPhaseTransition1997]]
-- [[../papers/krishnamurthiSpinChargeDensity2020]]
-- [[../papers/lezoualchStudyChargeDensity]]
-- [[../papers/liMonolayerPuckeredPentagonal2022]]
-- [[../papers/liPhaseTransitions2D2021]]
-- [[../papers/lvUnconventionalHystereticTransition2022]]
-- [[../papers/majumdarInterplayChargeDensity2020]]
-- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]
-- [[../papers/nakataRobustChargedensityWave2021]]
-- [[../papers/nicholsonUniaxialStraininducedPhase2021]]
-- [[../papers/petkovStructureIntercalatedCs2002]]
-- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
-- [[../papers/tangCombiningIntrinsicSlidinginduced2025]]
-- [[../papers/wangFormationMechanismTwin2019]]
+- [[../papers/Barnett2006coexistence]]：从理论分析角度梳理了「Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides」。
+- [[../papers/CastroNeto2001charge]]：从理论分析角度梳理了「Charge Density Wave, Superconductivity, and Anomalous Metallic Behavior in 2D Transition Metal Dichalcogenides」。
+- [[../papers/Chen2019superconductivity]]：从实验研究角度梳理了「过渡金属二元化合物电荷密度波相的非公度驱动超导电性」。
+- [[../papers/Islam2025enhancement]]：从实验研究角度梳理了「有无电荷密度波对过渡金属二元化合物超流体密度的压力诱导增强」。
+- [[../papers/Johannes2008fermi]]：从理论分析角度梳理了「费米表面嵌套与金属中电荷密度波的起源」。
+- [[../papers/Kang2012dimer]]：从理论分析角度梳理了「Dimer impurity scattering, reconstructed Fermi-surface nesting, and density-wave diagnostics in iron pnictides」。
+- [[../papers/Koley2020charge]]：从理论分析角度梳理了「Charge density wave and superconductivity in transition metal dichalcogenides」。
+- [[../papers/Laverock2005fermi]]：从实验研究角度梳理了「Fermi surface nesting and charge-density wave formation in rare-earth tritellurides」。
+- [[../papers/Makogon2012wave]]：从理论分析角度梳理了「Spin-charge-density wave in a rounded-square Fermi surface for ultracold atoms」。
+- [[../papers/Petkov2020hierarchy]]：从实验研究角度梳理了「Hierarchy among the crystal lattice, charge density wave, and superconducting orders in transition metal dichalcogenides」。
+- [[../papers/chenFerromagneticNonmagnetic1T2022]]：从理论分析角度梳理了「Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition」。
+- [[../papers/chowdhuryReviewTheoreticalComputational]]：从综述角度梳理了「二维电荷密度波材料的理论和计算方法综述」。
+- [[../papers/gorkovStrongElectronlatticeCoupling2012]]：从实验研究角度梳理了「强电子-晶格耦合是过渡金属二元化合物电荷密度波转换的机制」。
+- [[../papers/guanRecentProgressTwoDimensional2020]]：从综述角度梳理了「Recent Progress in Two‐Dimensional Ferroelectric Materials」。
+- [[../papers/hallEnvironmentalControlCharge]]：从实验研究角度梳理了「单层 2H-TaS₂ 中电荷密度波序的环境控制」。
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]：从综述角度梳理了「Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials」。
+- [[../papers/kimObservationPhaseTransition1997]]：从实验研究角度梳理了「Observation of a phase transition from the T phase to the H phase induced by a STM tip in 1T-TaS₂」。
+- [[../papers/krishnamurthiSpinChargeDensity2020]]：从理论分析角度梳理了「过渡金属二元化合物界面上的自旋/电荷密度波」。
+- [[../papers/lezoualchStudyChargeDensity]]：从理论分析角度梳理了「Study of charge density waves in transition metal dichalcogenides」。
+- [[../papers/liMonolayerPuckeredPentagonal2022]]：从理论分析角度梳理了「单层折叠五边形VTe2:一种具有多铁性耦合的二维铁磁半导体」。
+- [[../papers/liPhaseTransitions2D2021]]：从综述角度梳理了「Phase transitions in 2D materials」。
+- [[../papers/lvUnconventionalHystereticTransition2022]]：从实验研究角度梳理了「Unconventional Hysteretic Transition in a Charge Density Wave」。
+- [[../papers/majumdarInterplayChargeDensity2020]]：从实验研究角度梳理了「层状准二维材料中电荷密度波与多带超导电性的相互作用：2H-NbS₂ 与 2H-NbSe₂ 的案例」。
+- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]：从综述角度梳理了「多铁性：磁电耦合的不同途径」。
+- [[../papers/nakataRobustChargedensityWave2021]]：从实验研究角度梳理了「Robust charge-density wave strengthened by electron correlations in monolayer 1T-TaSe2 and 1T-NbSe2」。
+- [[../papers/nicholsonUniaxialStraininducedPhase2021]]：从实验研究角度梳理了「二维拓扑半金属IrTe2的单轴应变诱导相变」。
+- [[../papers/petkovStructureIntercalatedCs2002]]：从实验研究角度梳理了「Structure of Intercalated Cs in Zeolite ITQ-4: An Array of Metal Ions and Correlated Electrons Confined in a Pseudo-1D Nanoporous Host」。
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：从综述角度梳理了「Sliding ferroelectricity in two-dimensional materials and device applications」。
+- [[../papers/tangCombiningIntrinsicSlidinginduced2025]]：从理论分析角度梳理了「Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectrics」。
+- [[../papers/wangFormationMechanismTwin2019]]：从实验研究角度梳理了「Formation mechanism of twin domain boundary in 2D materials: The case for WTe2」。
 - [[../papers/wongEvidenceMetallic1T]]
 - [[../papers/wuElectrostaticGatingIntercalation2022]]
 - [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]]

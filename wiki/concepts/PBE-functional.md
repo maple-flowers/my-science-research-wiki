@@ -1,4 +1,35 @@
+---
+tags: [concept]
+title: 'pbe-functional'
+type: concept
+status: developing
+papers: ['chenStrongSlidingFerroelectricity2024', 'lezoualchStudyChargeDensity', 'perdewGeneralizedGradientApproximation1996a', 'shuTwoDimensionalBlackArsenic2020', 'xuTunableFerroelectricTopological2022']
+updated: 2026-08-18
+---
+
 # pbe-functional
+
+PBE 泛函（Perdew-Burke-Ernzerhof functional）是 1996 年由 John P. Perdew、Kieron Burke 与 Matthias Ernzerhof 提出的**广义梯度近似（GGA）**交换关联泛函，其"形式简单、无经验参数、满足渐近与标度约束"的设计使其成为 DFT 计算中最广泛使用的泛函之一。PBE 通过引入电子密度梯度修正局域密度近似（LDA）的均匀电子气结果，显著改善了对原子化能、键长与分子几何的描述，是绝大多数第一性原理计算（含本库大量二维材料、铁电与磁性研究）的默认选择。
+
+## 👵 太奶导读
+
+太奶啊，算材料性质要"猜电子的脾气"，这有个近似公式叫交换关联泛函。最早的 LDA 只按密度猜（像只看人多少），PBE 更进一步——连"人群分布是否均匀"也看进去（密度梯度），猜得更准还不用调经验参数。所以现在几乎人人都在用 PBE，算铁电、算磁性、算二维材料，都是它打底。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **GGA 思想**：交换关联能依赖电子密度及其梯度，修正 LDA 在非均匀体系中的过绑定与晶格常数低估。
+- **无经验参数**：PBE 由物理约束（标度关系、渐近行为）唯一确定，无拟合参数，具备可迁移性。
+- **典型行为**：比 LDA 更准的原子化能与几何；对能隙仍系统性低估（需杂化泛函如 HSE 修正）。
+- **PBE 与变体**：PBEsol 针对固体表面/晶格常数优化；PBE0 引入精确交换混合改善能带与激发性质。
+- **在二维/铁电研究中的作用**：本库二维铁电、滑动铁电、多铁预测大量依赖 PBE（及 +U 修正）结果。
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../concepts/density-functional-theory|密度泛函理论]]：PBE 是 DFT 中 GGA 一族的代表。
+- [[../concepts/band-structure|能带结构]]：PBE 计算能带与态密度的默认工具。
+- [[../entities/VASP|VASP]]：实现 PBE 的主流 DFT 软件。
+- [[../concepts/2d-materials|二维材料]]：PBE 广泛应用于二维体系的电子与铁电计算。
+- [[../concepts/ferroelectricity|铁电性]]：PBE 是二维铁电预测的基础泛函。
 
 ## 📚 相关论文 (Related Papers)
 

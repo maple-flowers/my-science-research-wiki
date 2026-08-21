@@ -24,10 +24,6 @@ updated: 2026-08
 
 在 VASP 等程序中，自洽场循环分为“电子步”和“离子步”。
 
-![图：VASP 的电子步自洽循环流程示意](../../raw/figures/kresseEfficiencyAbinitioTotal1996a/fig_10_D42XHL87.png)
-*   注：由于此处暂无真实的图3（流程图），可用类似收敛图10展示自洽过程。
-*   **看图要点**：随着迭代步数增加，系统总能量和电荷密度残差呈指数衰减，最终在 10–20 步内达到极高精度。
-*   **来源**：[[../papers/kresseEfficiencyAbinitioTotal1996a]] -> [[../figures/mathematical-models-simulations|模拟与数值结果]]
 
 ## 🧩 物理与算法逻辑
 

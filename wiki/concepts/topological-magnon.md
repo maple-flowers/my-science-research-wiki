@@ -23,9 +23,8 @@ updated: 2026-08
 
 ## 🏗️ 结构概览：反铁磁中的拓扑自旋动力学
 
-![图：反铁磁畴壁处的自旋波传输示意](../../raw/figures/tanRevealingEmergentMagnetic2024/fig_1_A3L3NFIH.png)
-*   **看图要点**：反铁磁畴壁不仅是静态的边界，还可充当拓扑自旋波的波导通道。图中展示了自旋波沿拓扑边界的局域化传输特性。
-*   **来源**：[[../papers/tanRevealingEmergentMagnetic2024]] -> [[../figures/experimental-setups]]
+拓扑磁子的结构核心是磁子能带的拓扑分类：在具有非共线磁结构或 Dzyaloshinskii-Moriya 相互作用的磁性体系中，磁子色散可携带非零贝里曲率，导致体态能带出现拓扑不变量（Chern 数）与受保护的手性边缘态。该结构将自旋波问题映射为周期势场中的能带拓扑，与电子拓扑绝缘体的形式框架一致，但由自旋哈密顿量驱动。
+
 
 ## 🧩 核心特征与效应
 

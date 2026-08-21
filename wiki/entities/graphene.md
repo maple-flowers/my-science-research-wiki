@@ -1,4 +1,35 @@
+---
+tags: [entity]
+title: 'graphene'
+type: entity
+status: developing
+papers: ['Li2013bonding', 'Owji20212d', 'Tobeiha2025optical', 'chenFerromagneticNonmagnetic1T2022', 'dingPredictionIntrinsicTwodimensional2017a', 'duUltrasensitiveOptoelectronicBiosensor2025', 'feiFerroelectricSwitchingTwodimensional2018a', 'guoAdvancesTwodimensionalFerroelectric2025', 'huProgressProspectsLowdimensional2019', 'huangTwodimensionalIn2Se3Rising2022', 'kaurRecentAdvancesTheoretical2025a', 'kawakamiChargedensityWaveAssociated2023', 'liPhaseTransitions2D2021', 'liuSpintronicsTwoDimensionalMaterials2020b', 'nakataRobustChargedensityWave2021', 'niuDirectVisualizationLargeScale2021', 'pengStrainEngineering2D2020', 'shenEmergenceMultipleFerroelectric2025', 'shuTwoDimensionalBlackArsenic2020', 'sunSlidingFerroelectricityTwodimensional2025', 'tianRoomtemperatureTwodimensionalMultiferroic2026', 'wongEvidenceMetallic1T', 'wuCoexistenceFerroelectricityAntiferroelectricity2024', 'wuElectrostaticGatingIntercalation2022', 'wuSlidingFerroelectricity2D2021a', 'yanDecipheringStabilityTwodimensional2025', 'yangStrainEngineeringTwodimensional2021', 'zahraCriticalAnalysisFerroelectric2025', 'zhangEmergingFrontiersTwodimensional2025', 'zhongHighthroughputExfoliationMultiferroic2025']
+updated: 2026-08-18
+---
+
 # graphene
+
+石墨烯（graphene）是碳原子以 sp² 杂化排列成的**单原子层二维蜂窝晶格**材料，是石墨、碳纳米管、富勒烯等碳同素异形体的二维母体。其标志性的狄拉克锥线性色散、超高载流子迁移率与原子级厚度，使其成为二维材料研究的基石和平台。
+
+## 👵 太奶导读
+
+太奶啊，石墨烯就是"一层原子厚的铅笔芯"——把石墨一层层剥到只剩一层碳原子。这一层碳原子排成蜂巢格子，神奇的是里面的电子跑起来像光一样快、还不容易"撞车"（超高迁移率）。它又轻又薄又导电，还能弯折，是科学家研究二维世界的第一块试验田，很多新的二维材料、铁电、磁性都是围着它发展起来的。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **结构与电子**：蜂窝晶格的双子格导致能带在 K/K′ 点形成**狄拉克锥**，低能激发为无质量狄拉克费米子，呈现半整数量子霍尔效应、克莱因隧穿等相对论性量子现象。
+- **力学与热学**：sp² 键合赋予其超高强度（杨氏模量约 1 TPa）与极高热导率，是柔性电子与散热材料的候选。
+- **作为二维平台**：石墨烯常被用作异质结构造、应变工程、层间滑动铁电研究的基底或组分；扭转双层石墨烯更展现出强关联超导等新奇物性。
+- **与铁电/多铁的交叉**：石墨烯可与铁电材料复合（栅控、界面耦合），也被用于光电探测（[[../papers/duUltrasensitiveOptoelectronicBiosensor2025]]）、湿度传感等功能器件。
+- **工业化进展**：CVD 大面积制备、衬底转移技术成熟，使其成为二维材料器件走向应用的代表。
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../concepts/2d-materials|二维材料]]：石墨烯是二维材料家族的母体与代表。
+- [[../concepts/band-structure|能带结构]]：狄拉克锥色散是其核心电子特征。
+- [[../entities/h-BN|h-BN]]：与石墨烯晶格匹配的六方氮化硼衬底/介电层。
+- [[../entities/bilayer-graphene|双层石墨烯]]：双层体系的堆垛与铁电/超导新物理。
+- [[../entities/MXenes|MXene]]：同为二维平台，与石墨烯互为参照。
 
 ## 📚 相关论文 (Related Papers)
 

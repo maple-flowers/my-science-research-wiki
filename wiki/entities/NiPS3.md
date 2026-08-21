@@ -25,9 +25,8 @@ NiPS₃ 是 MPX₃ 家族中物理机制最为复杂的成员之一，常被归�
 
 ## 🏗️ 结构概览：NiPS3 中的复杂磁结构与畴壁
 
-![图：NiPS3 的畴壁结构与光磁耦合探测](../../raw/figures/tanRevealingEmergentMagnetic2024/fig_1_A3L3NFIH.png)
-*   **看图要点**：由于 NiPS₃ 具有多种磁基态竞争，材料中常形成复杂的磁畴。图中展示了利用光学手段识别不同手性畴的分布。
-*   **来源**：[[../papers/tanRevealingEmergentMagnetic2024]] -> [[../figures/experimental-setups]]
+NiPS3 的层状结构由 Ni 蜂窝格、P 原子对与 S 原子层三明治单元沿面外堆叠而成。其磁结构较同类材料更为复杂：Ni 磁矩在层内呈 zigzag 型反铁磁序而非简单奈尔序，净磁矩为零，并伴有对磁晶各向异性的敏感依赖；实验上该体系还呈现磁畴壁与短程磁涨落等丰富自旋结构。
+
 
 ## 🧩 核心物性参数
 

@@ -26,9 +26,6 @@ updated: 2026-08
 
 电荷震荡在 SCF 过程中表现为总能量和力精度的反复横跳。
 
-![图：Pd(111) 表面力在不同混合方案下的收敛对比](../../raw/figures/kresseEfficiencyAbinitioTotal1996a/fig_4_DDJ3N7RI.png)
-*   **看图要点**：图中“out”曲线显示的剧烈震荡正是电荷震荡的体现。如果不采用优化的混合方案，力精度会差上百倍且难以收敛。
-*   **来源**：[[../papers/kresseEfficiencyAbinitioTotal1996a]] -> [[../figures/mathematical-models|数学模型]]
 
 ## 🧩 机制与解决策略
 

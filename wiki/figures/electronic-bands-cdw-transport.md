@@ -292,7 +292,7 @@ tags:
 *   **关键特征**：交换劈裂使上下自旋能带占据数不等，从而产生净磁矩；Ni处多数自旋3d带填满而少数自旋未填满，解释了非整数原子磁矩，也表明磁性要求d轨道部分占据。
 
 ### 48. 表2 已报道低维多铁材料汇总（含磁矩一列）
-![表2 已报道低维多铁材料汇总（含磁矩一列）](../../raw/figures/huProgressProspectsLowdimensional2019/tab_2_GG7NXE5PZ.png)
+![表2 已报道低维多铁材料汇总（含磁矩一列）](../../raw/figures/huProgressProspectsLowdimensional2019/tab_2_GG7NXE5P.png)
 *   **来源**：[[../papers/huProgressProspectsLowdimensional2019]]
 *   **图示描述**：在表1基础上增加磁矩一列，汇总约 11 种理论设计的低维多铁材料，列出极化值、方向、FE 势垒、Tc、磁矩（μB）及来源文献，并以 T/E 标注。
 *   **关键特征**：卤素修饰磷烯磁矩整齐为 1.0 μB/卤素，(CrBr₃)₂Li 磁矩较大（3.0、4.0 μB）；极化强度与磁矩因设计策略不同而差异显著；许多条目 Tc 等关键参数缺失，且绝大多数标注为 T（理论预言）。

@@ -36,13 +36,13 @@ updated: 2026-08
 - [[../papers/chenStrongSlidingFerroelectricity2024]]：引用 CrI₃ 作为二维磁性与多铁耦合研究的基准材料。
 - [[../papers/huangTwodimensionalIn2Se3Rising2022]]：讨论了 In₂Se₃ 与 CrI₃ 构建多铁异质结的可能性。
 - [[../papers/cheongMultiferroicsMagneticTwist2007a]]：分析了类似卤化物体系中的非共线磁序。
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]
-- [[../papers/liPhaseTransitions2D2021]]
-- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]
-- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
-- [[../papers/yangRipplingFerroicPhase2021]]
-- [[../papers/zhangNonvolatileControlTopological2025]]
-- [[../papers/laiTwodimensionalFerromagnetismDriven2019]]
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]：从综述角度梳理了「Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials」。
+- [[../papers/liPhaseTransitions2D2021]]：从综述角度梳理了「Phase transitions in 2D materials」。
+- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]：从综述角度梳理了「Spintronics in Two-Dimensional Materials」。
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：从综述角度梳理了「Sliding ferroelectricity in two-dimensional materials and device applications」。
+- [[../papers/yangRipplingFerroicPhase2021]]：从理论分析角度梳理了「Rippling Ferroic Phase Transition and Domain Switching In 2D Materials」。
+- [[../papers/zhangNonvolatileControlTopological2025]]：从理论分析角度梳理了「Nonvolatile control of topological magnetism in two-dimensional CrInTe2/In2Se3 multiferroic heterostructures」。
+- [[../papers/laiTwodimensionalFerromagnetismDriven2019]]：从实验研究角度梳理了「范德华 CuCrP₂S₆ 中的二维铁磁性和驱动铁电性」。
 - [[../papers/songEvidenceSinglelayerVan2022]]
 - [[../papers/tangMultiferroicityTwodimensionalVan2025]]
 - [[../papers/wuSlidingFerroelectricity2D2021a]]

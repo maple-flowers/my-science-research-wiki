@@ -1,4 +1,34 @@
+---
+tags: [concept]
+title: 'strain-engineering'
+type: concept
+status: developing
+papers: ['Chen2016electrical', 'Goswami2011multiferroic', 'Islam2025enhancement', 'Jin2015studying', 'Kim2008effect', 'Li2013bonding', 'PChandra2011mechanoluminescence', 'RecentAdvancesGrowth2025', 'aiFerroelectricityCoexistedPorbital2022', 'aminiAtomicscaleVisualizationMultiferroicity2024', 'bhowalPolarMetalsPrinciples2023b', 'caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025', 'chen3dLevelSymmetry2025', 'chenFerromagneticNonmagnetic1T2022', 'chenHafniumBasedFerroelectricPostMoore2026', 'chenStrongSlidingFerroelectricity2024', 'chowdhuryReviewTheoreticalComputational', 'cossuStackingChargedensityWaves2024', 'dingPredictionIntrinsicTwodimensional2017a', 'fiebigEvolutionMultiferroics2016', 'gaoStrainEngineeringFerroelectric2024', 'gomez-ortizKittelLawDomain2023', 'gongAbsenceCriticalThickness2023', 'guanRecentProgressTwoDimensional2020', 'guoAdvancesTwodimensionalFerroelectric2025', 'hanPolarTopologicalMaterials2025', 'hanTunableSlidingFerroelectricity2025', 'heSwitchingTwodimensionalSliding2025', 'heUltrafastSwitchingDynamics2024', 'houStrainbasedRoomtemperatureNonvolatile2019', 'huProgressProspectsLowdimensional2019', 'huangTwodimensionalIn2Se3Rising2022', 'junqueraCriticalThicknessFerroelectricity2003', 'kaurRecentAdvancesTheoretical2025a', 'khazaeiNovelElectronicMagnetic2013', 'lezoualchStudyChargeDensity', 'liFerroelasticityDomainPhysics2016', 'liMonolayerPuckeredPentagonal2022', 'liPhaseTransitions2D2021', 'liuSpintronicsTwoDimensionalMaterials2020b', 'martinThinfilmFerroelectricMaterials2016', 'miaoMagneticFerroelectricMetal2024', 'mostovoyMultiferroicsDifferentRoutes2024', 'neumayerCompetingPolarPhases2025', 'nicholsonUniaxialStraininducedPhase2021', 'niuDirectVisualizationLargeScale2021', 'pedramraziManipulatingTopologicalDomain2019', 'pengStrainEngineering2D2020', 'prosandeevKittelLawInBiFeO3Ultrathin2010', 'rameshMultiferroicsProgressProspects2007', 'spaldinAdvancesMagnetoelectricMultiferroics2019', 'spaldinRenaissanceMagnetoelectricMultiferroics2005', 'sunSlidingFerroelectricityTwodimensional2025', 'tahirFerroelectricityNonvolatileMemristor2025', 'tangMultiferroicityTwodimensionalVan2025', 'tianRoomtemperatureTwodimensionalMultiferroic2026', 'vahidmohammadiWorldTwodimensionalCarbides2021', 'wangFormationMechanismTwin2019', 'wangTunableD0Topological2025b', 'wuElectrostaticGatingIntercalation2022', 'xuTunableFerroelectricTopological2022', 'xuTwodimensionalFerroelasticityVan2021', 'yangRipplingFerroicPhase2021', 'yangStrainEngineeringTwodimensional2021', 'yuFerroelectricControlMagnetism2026', 'zahraCriticalAnalysisFerroelectric2025', 'zhangEmergingFrontiersTwodimensional2025', 'zhongHighthroughputExfoliationMultiferroic2025']
+updated: 2026-08-18
+---
+
 # strain-engineering
+
+应变工程（strain engineering）指**利用机械形变（外延失配应变、弯曲、压痕、膨胀等）系统调控材料物性**的方法论。应变通过改变键长/键角调制能带带隙、载流子迁移率、磁性、铁电、超导与拓扑性质，是半导体器件（应变硅、氮化镓）、二维材料与薄膜功能材料的核心调控手段。
+
+## 👵 太奶导读
+
+太奶啊，应变工程就是"捏一捏材料，把想要的性质捏出来"。材料被拉伸或压缩，原子间的"弹簧"松紧变了，电子的行为就跟着变——能隙变大变小、导电变好、磁性翻转、铁电温度挪动。工程师们很会"捏"：把硅薄膜"拉"一下导电率提升 50%（这就是今天 CPU 里在用的应变硅），把二维材料"揉"一下调出各种新性质。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **应变来源**：外延失配（epitaxial-strain）、衬底弯曲、机械弯曲、热膨胀与相变诱导应变；二维材料可承受超大（>10%）弹性应变。
+- **半导体性能**：应变硅（Si/SiGe）提升迁移率、应变氮化镓改善光电（本库半导体器件论文）；应变调带隙（band-gap）与有效质量。
+- **磁性调控**：应变改变交换与各向异性，可翻转易磁化轴、调控居里温度（本库二维磁性应变论文）。
+- **铁电与超导**：应变调控铁电居里温度、极化方向与超导 T_C（本库铁电超晶格、应变铁电与 MoTe₂ 相变论文）。
+- **拓扑与相变**：应变可诱导结构相变（structural-phase-transition）与拓扑转变（本库 MoTe₂、WTe₂ 应变拓扑论文）。
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../concepts/epitaxial-strain|外延应变]]：应变工程的主要来源。
+- [[../concepts/2d-materials|二维材料]]：大应变调控平台。
+- [[../concepts/band-gap|带隙]]：应变对能带的直接调控。
+- [[../concepts/structural-phase-transition|结构相变]]：应变诱导的相变。
 
 ## 📚 相关论文 (Related Papers)
 

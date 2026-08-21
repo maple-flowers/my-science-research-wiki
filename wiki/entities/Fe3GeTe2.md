@@ -43,15 +43,15 @@ Fe₃GaTe₂ (以及同族的 Fe₃GeTe₂) 是近年来发现的极具应用前
 - [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]：首次演示了基于该材料的高速、超低功耗全电学逻辑器件。
 - [[../papers/miaoMagneticFerroelectricMetal2024]]：理论预言了该体系在层间滑动下的磁-电耦合相变。
 - [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]：综述了该类材料在自旋电子学中的战略地位。
-- [[../papers/aiFerroelectricityCoexistedPorbital2022]]
-- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]]
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]
-- [[../papers/liMonolayerPuckeredPentagonal2022]]
-- [[../papers/liPhaseTransitions2D2021]]
-- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
-- [[../papers/tangMultiferroicityTwodimensionalVan2025]]
-- [[../papers/wuElectrostaticGatingIntercalation2022]]
-- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]]
+- [[../papers/aiFerroelectricityCoexistedPorbital2022]]：从理论分析角度梳理了「二维金属氮氧化物中的铁电性与p轨道铁磁性和金属丰度共存」。
+- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]]：从理论分析角度梳理了「二维 Sc₂P₂Se₆ 与 ScCrP₂Se₆ 单层的铁电性与多铁性」。
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]：从综述角度梳理了「Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials」。
+- [[../papers/liMonolayerPuckeredPentagonal2022]]：从理论分析角度梳理了「单层折叠五边形VTe2:一种具有多铁性耦合的二维铁磁半导体」。
+- [[../papers/liPhaseTransitions2D2021]]：从综述角度梳理了「Phase transitions in 2D materials」。
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：从综述角度梳理了「Sliding ferroelectricity in two-dimensional materials and device applications」。
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]]：从综述角度梳理了「二维范德华材料的多铁性：挑战与机遇」。
+- [[../papers/wuElectrostaticGatingIntercalation2022]]：从综述角度梳理了「二维材料中的静电门控与插层」。
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]]：从实验研究角度梳理了「MXene Hf₂MnC₂O₂/Sc₂CO₂ 多铁异质结中的非易失可开关半金属性与磁性」。
 - [[../papers/yuFerroelectricControlMagnetism2026]]
 - [[../papers/zhangNonvolatileControlTopological2025]]
 - [[../papers/zhaoOpticalFingerprintsTwodimensional2024]]

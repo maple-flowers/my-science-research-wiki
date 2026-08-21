@@ -24,10 +24,6 @@ Monkhorst-Pack 网格就像是在菜园子里均匀地插了一排排的小旗�
 
 在 VASP 中，k 点采样是在 KPOINTS 文件中定义的。
 
-![图：不同体系下 k 点采样的收敛性基准](../../raw/figures/kresseEfficiencyAbinitioTotal1996a/fig_2_K2M97DMS.png)
-*   注：此处使用图2展示收敛性。
-*   **看图要点**：图中展示了总能量随 k 点密度的变化。可以看到，当网格增加到一定程度（如 6x6x6 或 8x8x8）后，能量趋于平稳，这标志着计算达到了“k 点收敛”。
-*   **来源**：[[../papers/kresseEfficiencyAbinitioTotal1996a]] -> [[../figures/mathematical-models-computational|计算方法与泛函]]
 
 ## 🧩 数学与算法逻辑
 

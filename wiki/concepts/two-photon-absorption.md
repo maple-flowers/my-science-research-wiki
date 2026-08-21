@@ -43,12 +43,12 @@ TPA 最显著的物理特征是其**概率与入射光强度的平方成正比**
 - [[../papers/Huang2023two]]：研究了具有超大双光子吸收截面的二苯乙烯基探针。
 - [[../papers/Huang2019solvatochromic]]：系统测量了不同环境下的双光子激发谱和截面。
 - [[../papers/H2017fluorescence]]：阐述了双光子吸收在多功能传感中的应用。
-- [[../papers/Gittard2013polymerization]]
-- [[../papers/Khitrov2000holographic]]
-- [[../papers/Kumar2017microstructuring]]
-- [[../papers/Nakanishi2009full]]
-- [[../papers/Tobeiha2025optical]]
-- [[../papers/Unknown2014passive]]
+- [[../papers/Gittard2013polymerization]]：从综述角度梳理了「Two-photon polymerization microstructuring in regenerative medicine」。
+- [[../papers/Khitrov2000holographic]]：从实验研究角度梳理了「Holographic Two-Photon Polymerization Increases Speed of Switchable Gratings」。
+- [[../papers/Kumar2017microstructuring]]：从实验研究角度梳理了「Microstructuring by Two-Photon Polymerization using a Sub-Nanosecond Laser」。
+- [[../papers/Nakanishi2009full]]：从理论分析角度梳理了「Full Quantum Analysis of Two-Photon Absorption Using Two-Photon Wave Function: Comparison of Two-Photon Absorption with One-Photon Absorption」。
+- [[../papers/Tobeiha2025optical]]：从实验研究角度梳理了「Optical humidity sensor based on G/GO nanosheets」。
+- [[../papers/Unknown2014passive]]：从实验研究角度梳理了「用于微流控混合的双光子聚合三维被动微混合器」。
 - [[../papers/WRZYSZCZYNSKI2010initiators]]
 - [[../papers/Zhang2008synthesis]]
 - [[../papers/Khitrov2002internal]]

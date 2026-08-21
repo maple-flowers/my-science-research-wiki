@@ -23,7 +23,7 @@ updated: 2026-08
 
 ## 🏗️ 结构概览：极性斯格明子与 Kittel 定律
 
-![图：薄膜中极性斯格明子的结构与厚度依赖](../../raw/figures/gongAbsenceCriticalThickness2023/fig_1_Q8LV7XLD.png)
+![图：薄膜中极性斯格明子的结构与厚度依赖](../../raw/figures/gongAbsenceCriticalThickness2023/fig_1_SYSSN7EC.png)
 *   **看图要点**：图中展示了在铁电/电介质超晶格中观测到的极性斯格明子（Polar Skyrmion）。这些微小的电偶极旋涡挑战了传统的 Kittel 磁畴标度律，即使在极薄极限下依然稳定。
 *   **来源**：[[../papers/gongAbsenceCriticalThickness2023]] -> [[../figures/heterostructures-stacking]]
 

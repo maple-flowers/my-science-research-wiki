@@ -24,9 +24,8 @@ FePS₃ 是一种具有显著伊辛 (Ising) 行为的二维反铁磁绝缘体。
 
 ## 🏗️ 结构概览：FePS3 中的伊辛型反铁磁序
 
-![图：FePS3 的晶体结构与垂直反铁磁排列](../../raw/figures/tanRevealingEmergentMagnetic2024/fig_1_A3L3NFIH.png)
-*   **看图要点**：图中展示了自旋沿 $c$ 轴方向反平行排列的伊辛反铁磁序，这是由强烈的晶体场和自旋-轨道耦合决定的。
-*   **来源**：[[../papers/tanRevealingEmergentMagnetic2024]] -> [[../figures/experimental-setups]]
+FePS3 的层状结构由三明治单元堆叠而成：每层内 Fe 原子呈蜂窝状排列，夹在两层 S 原子之间，P 原子以 P-P 哑铃形式嵌入，形成范德华层间耦合的二维体系。其磁性为伊辛型反铁磁序，自旋沿面外方向在蜂窝格点上反平行排列，宏观上体现为零净磁矩并伴随明确的奈尔温度。
+
 
 ## 🧩 核心物性参数
 

@@ -43,64 +43,64 @@ Nicola Spaldin 在 2000 年提出了著名的 $d^0$ vs $d^n$ 互斥律：传统�
 - [[../papers/spaldinRenaissanceMagnetoelectricMultiferroics2005]]：阐述了多铁性复兴的理论背景及核心矛盾。
 - [[../papers/rameshMultiferroicsProgressProspects2007]]：系统综述了薄膜多铁性的进展，提出了水平与垂直异质结范式。
 - [[../papers/prosandeevKittelLawInBiFeO3Ultrathin2010]]：探讨了多铁薄膜中畴结构的标度律及其非传统起源。
-- [[../papers/Chen2016electrical]]
-- [[../papers/FerroelectricityMultiferroicityAtomic2023]]
-- [[../papers/Goswami2011multiferroic]]
-- [[../papers/Jin2015studying]]
-- [[../papers/Kim2008effect]]
-- [[../papers/Perugu2024morphology]]
-- [[../papers/RecentAdvancesGrowth2025]]
-- [[../papers/aiFerroelectricityCoexistedPorbital2022]]
-- [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]
-- [[../papers/bhowalPolarMetalsPrinciples2023b]]
-- [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]
-- [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]
-- [[../papers/chenStrongSlidingFerroelectricity2024]]
-- [[../papers/cheongMultiferroicsMagneticTwist2007a]]
-- [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]]
-- [[../papers/deSousa2008electrical]]
-- [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]
-- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]]
-- [[../papers/fiebigEvolutionMultiferroics2016]]
-- [[../papers/gaoGiantChiralMagnetoelectric2024a]]
-- [[../papers/gaoStrainEngineeringFerroelectric2024]]
-- [[../papers/gomez-ortizKittelLawDomain2023]]
-- [[../papers/guanRecentProgressTwoDimensional2020]]
-- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]
-- [[../papers/hanPolarTopologicalMaterials2025]]
-- [[../papers/hanTunableSlidingFerroelectricity2025]]
-- [[../papers/hillWhyAreThere2000a]]
-- [[../papers/huProgressProspectsLowdimensional2019]]
-- [[../papers/huangTwodimensionalIn2Se3Rising2022]]
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]
-- [[../papers/laiTwodimensionalFerromagnetismDriven2019]]
-- [[../papers/liFerroelasticityDomainPhysics2016]]
-- [[../papers/liMonolayerPuckeredPentagonal2022]]
-- [[../papers/liPhaseTransitions2D2021]]
-- [[../papers/martinThinfilmFerroelectricMaterials2016]]
-- [[../papers/miaoMagneticFerroelectricMetal2024]]
-- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]
-- [[../papers/neumayerCompetingPolarPhases2025]]
-- [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]]
-- [[../papers/songEvidenceSinglelayerVan2022]]
-- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]]
-- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
-- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]
-- [[../papers/tangMultiferroicityTwodimensionalVan2025]]
-- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]
-- [[../papers/wangTunableD0Topological2025b]]
-- [[../papers/wangTwodimensionalFerroelectricMetal2025]]
-- [[../papers/wuCoexistenceFerroelectricityAntiferroelectricity2024]]
-- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]]
-- [[../papers/wuSlidingFerroelectricity2D2021a]]
-- [[../papers/xiangTwodimensionalRoomTemperature2020]]
-- [[../papers/xuTwodimensionalFerroelasticityVan2021]]
-- [[../papers/xunCoexistingMagnetismFerroelectric2024]]
-- [[../papers/yangRipplingFerroicPhase2021]]
-- [[../papers/yuFerroelectricControlMagnetism2026]]
-- [[../papers/zahraCriticalAnalysisFerroelectric2025]]
-- [[../papers/zhangEmergingFrontiersTwodimensional2025]]
-- [[../papers/zhangNonvolatileControlTopological2025]]
+- [[../papers/Chen2016electrical]]：从实验研究角度梳理了「Electrical and mechanical switching of ferroelectric polarization in the 70 nm BiFeO3 film」。
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]]：从综述角度梳理了「Ferroelectricity and multiferroicity down to the atomic thickness」。
+- [[../papers/Goswami2011multiferroic]]：从实验研究角度梳理了「Multiferroic coupling in nanoscale BiFeO3」。
+- [[../papers/Jin2015studying]]：从实验研究角度梳理了「Studying the Polarization Switching in Polycrystalline BiFeO3 Films by 2D Piezoresponse Force Microscopy」。
+- [[../papers/Kim2008effect]]：从实验研究角度梳理了「Effect of epitaxial strain on ferroelectric polarization in multiferroic BiFeO3 films」。
+- [[../papers/Perugu2024morphology]]：从实验研究角度梳理了「Synthesis, Structural, Morphology and Magnetic Properties: Effect of La on Multiferroic Nature of BiFeO3 Nanoparticles」。
+- [[../papers/RecentAdvancesGrowth2025]]：从综述角度梳理了「二维多铁性材料的生长、表征及应用研究进展」。
+- [[../papers/aiFerroelectricityCoexistedPorbital2022]]：从理论分析角度梳理了「二维金属氮氧化物中的铁电性与p轨道铁磁性和金属丰度共存」。
+- [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]：从实验研究角度梳理了「Atomic-Scale Visualization of Multiferroicity in Monolayer NiI2」。
+- [[../papers/bhowalPolarMetalsPrinciples2023b]]：从综述角度梳理了「极性金属：原理与展望」。
+- [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]：从实验研究角度梳理了「二维多铁异质结构中的铁电驱动应变介导磁电耦合」。
+- [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]：从综述角度梳理了「Hafnium-Based Ferroelectric Post-Moore Electronics: Device Physics, Integration Architectures, and Neuromorphic System Implementation」。
+- [[../papers/chenStrongSlidingFerroelectricity2024]]：从理论分析角度梳理了「Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI₂ Layers」。
+- [[../papers/cheongMultiferroicsMagneticTwist2007a]]：从理论分析角度梳理了「多铁性：铁电的磁扭曲」。
+- [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]]：从实验研究角度梳理了「Intercorrelated In-Plane and Out-of-Plane Ferroelectricity in Ultrathin Two-Dimensional Layered Semiconductor In2Se3」。
+- [[../papers/deSousa2008electrical]]：从理论分析角度梳理了「Electrical control of magnon propagation in multiferroic BiFeO3 films」。
+- [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]：从实验研究角度梳理了「Ferroelectric switching of a two-dimensional metal」。
+- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]]：从理论分析角度梳理了「二维 Sc₂P₂Se₆ 与 ScCrP₂Se₆ 单层的铁电性与多铁性」。
+- [[../papers/fiebigEvolutionMultiferroics2016]]：从综述角度梳理了「多铁性的演化」。
+- [[../papers/gaoGiantChiralMagnetoelectric2024a]]：从实验研究角度梳理了「范德瓦尔斯多铁材料中的巨手征磁电振荡」。
+- [[../papers/gaoStrainEngineeringFerroelectric2024]]：从理论分析角度梳理了「Strain engineering of ferroelectric polarization and domain in the two-dimensional multiferroic semiconductor」。
+- [[../papers/gomez-ortizKittelLawDomain2023]]：从理论分析角度梳理了「Kittel law and domain formation mechanism in PbTiO3/SrTiO3 superlattices」。
+- [[../papers/guanRecentProgressTwoDimensional2020]]：从综述角度梳理了「Recent Progress in Two‐Dimensional Ferroelectric Materials」。
+- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]：从综述角度梳理了「二维铁电材料的研究进展」。
+- [[../papers/hanPolarTopologicalMaterials2025]]：从综述角度梳理了「Polar topological materials and devices: Prospects and challenges」。
+- [[../papers/hanTunableSlidingFerroelectricity2025]]：从理论分析角度梳理了「Tunable sliding ferroelectricity in two-dimensional van der Waals RuX2 (X = Cl, Br, and I) multiferroic layers」。
+- [[../papers/hillWhyAreThere2000a]]：从理论分析角度梳理了「为什么磁性铁电体这么少？」。
+- [[../papers/huProgressProspectsLowdimensional2019]]：从综述角度梳理了「低维多铁性材料的研究进展与展望」。
+- [[../papers/huangTwodimensionalIn2Se3Rising2022]]：从综述角度梳理了「Two-dimensional In2Se3: A rising advanced material for ferroelectric data storage」。
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]：从综述角度梳理了「Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials」。
+- [[../papers/laiTwodimensionalFerromagnetismDriven2019]]：从实验研究角度梳理了「范德华 CuCrP₂S₆ 中的二维铁磁性和驱动铁电性」。
+- [[../papers/liFerroelasticityDomainPhysics2016]]：从理论分析角度梳理了「二维过渡金属二硫族化物单层的铁弹性和畴物理」。
+- [[../papers/liMonolayerPuckeredPentagonal2022]]：从理论分析角度梳理了「单层折叠五边形VTe2:一种具有多铁性耦合的二维铁磁半导体」。
+- [[../papers/liPhaseTransitions2D2021]]：从综述角度梳理了「Phase transitions in 2D materials」。
+- [[../papers/martinThinfilmFerroelectricMaterials2016]]：从综述角度梳理了「铁电薄膜材料及其应用」。
+- [[../papers/miaoMagneticFerroelectricMetal2024]]：从理论分析角度梳理了「Magnetic ferroelectric metal in bilayer Fe3GeTe2 under interlayer sliding」。
+- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]：从综述角度梳理了「多铁性：磁电耦合的不同途径」。
+- [[../papers/neumayerCompetingPolarPhases2025]]：从综述角度梳理了「二维铁电过渡金属硫代和硒酸盐中的竞争极性相」。
+- [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]]：从实验研究角度梳理了「一种室温铁电半金属」。
+- [[../papers/songEvidenceSinglelayerVan2022]]：从实验研究角度梳理了「Evidence for a single-layer van der Waals multiferroic」。
+- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]]：从综述角度梳理了「磁电多铁性材料研究进展」。
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：从综述角度梳理了「Sliding ferroelectricity in two-dimensional materials and device applications」。
+- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]：从实验研究角度梳理了「自由基二维碳化铌的铁电性和非易失性忆阻应用：自由基MXene在电子器件中的新前沿」。
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]]：从综述角度梳理了「二维范德华材料的多铁性：挑战与机遇」。
+- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]：从实验研究角度梳理了「具有电压可控磁序的室温二维多铁金属」。
+- [[../papers/wangTunableD0Topological2025b]]：从理论分析角度梳理了「Tunable d0 topological magnetic states in multiferroic monolayer In2NO2」。
+- [[../papers/wangTwodimensionalFerroelectricMetal2025]]：从理论分析角度梳理了「Two-dimensional ferroelectric metal CuCrX2 (X = S, Se) for efficient electrocatalysis」。
+- [[../papers/wuCoexistenceFerroelectricityAntiferroelectricity2024]]：从实验研究角度梳理了「Coexistence of ferroelectricity and antiferroelectricity in 2D van der Waals multiferroic」。
+- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]]：从实验研究角度梳理了「MXene Hf₂MnC₂O₂/Sc₂CO₂ 多铁异质结中的非易失可开关半金属性与磁性」。
+- [[../papers/wuSlidingFerroelectricity2D2021a]]：从综述角度梳理了「二维范德华材料中的滑动铁电性：相关物理和未来机遇」。
+- [[../papers/xiangTwodimensionalRoomTemperature2020]]：从综述角度梳理了「Towards two-dimensional room temperature multiferroics」。
+- [[../papers/xuTwodimensionalFerroelasticityVan2021]]：从实验研究角度梳理了「Two-dimensional ferroelasticity in van der Waals β'-In2Se3」。
+- [[../papers/xunCoexistingMagnetismFerroelectric2024]]：从理论分析角度梳理了「Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensional Materials」。
+- [[../papers/yangRipplingFerroicPhase2021]]：从理论分析角度梳理了「Rippling Ferroic Phase Transition and Domain Switching In 2D Materials」。
+- [[../papers/yuFerroelectricControlMagnetism2026]]：从实验研究角度梳理了「强磁电耦合二维多铁性材料中嵌入诱导对称破缺对磁性和巨磁电阻的铁电控制」。
+- [[../papers/zahraCriticalAnalysisFerroelectric2025]]：从综述角度梳理了「二维MXene铁电和铁磁性质的临界分析」。
+- [[../papers/zhangEmergingFrontiersTwodimensional2025]]：从综述角度梳理了「二维滑动铁电体的新前沿」。
+- [[../papers/zhangNonvolatileControlTopological2025]]：从理论分析角度梳理了「Nonvolatile control of topological magnetism in two-dimensional CrInTe2/In2Se3 multiferroic heterostructures」。
 - [[../papers/zhaoOpticalFingerprintsTwodimensional2024]]
 - [[../papers/zhaoRealization2DMultiferroic2024]]
 - [[../papers/zhongHighthroughputExfoliationMultiferroic2025]]

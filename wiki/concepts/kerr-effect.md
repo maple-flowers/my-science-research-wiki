@@ -2,7 +2,7 @@
 tags: [concept, non-linear-optics, solid-state-physics]
 title: 克尔效应 / Kerr Effect
 type: concept
-status: developing
+status: mature
 domain: [solid-state-physics, non-linear-optics, spintronics]
 mechanism: 光场或磁场导致介质折射率发生各向异性改变，从而改变反射/透射光的偏振状态
 related_concepts: [optical-activity, faraday-effect, second-harmonic-generation, magnetoelectric-coupling]
@@ -26,6 +26,13 @@ updated: 2026-08
     *   **纵向克尔 (Longitudinal MOKE)**：磁化强度平行于反射面且处于入射面内。
     *   **横向克尔 (Transverse MOKE)**：磁化强度平行于反射面且垂直于入射面。
 
+| 构型 | 磁化方向 | 探测内容 | 典型用途 |
+| --- | --- | --- | --- |
+| 极向 (Polar) | 垂直反射面 | 面外磁化分量 | 垂直各向异性、磁拓扑薄膜 |
+| 纵向 (Longitudinal) | 平行反射面、入射面内 | 面内磁化、磁滞回线 | 面内各向异性、畴壁运动 |
+| 横向 (Transverse) | 平行反射面、垂直入射面 | 反射率变化 | 磁化取向分辨、自旋阀 |
+
+
 ## 🧩 多铁性中的克尔效应与“光学指纹”
 
 在二维范德华多铁材料（如双层 [[../entities/VSe2|VSe2]] 或 [[../entities/MnBi2Te4|MnBi2Te4]]）中，克尔效应提供了独特的磁性态读取手段：
@@ -42,7 +49,7 @@ updated: 2026-08
 - [[../papers/zhaoOpticalFingerprintsTwodimensional2024]]：使用 DFT 模拟证明了克尔效应在区分二维层间滑移多铁态中的关键应用。
 - [[../papers/gaoGiantChiralMagnetoelectric2024a]]：利用时间分辨克尔旋转技术与 tr-SHG 协同，捕获了电磁振子的动力学特性。
 
-## 🔗 关联概念与 entities
+## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/optical-activity|旋光性与光学活性]]
 - [[../concepts/faraday-effect|法拉第效应]]

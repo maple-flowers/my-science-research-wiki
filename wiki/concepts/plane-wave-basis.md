@@ -24,9 +24,6 @@ updated: 2026-08
 
 在平面波基组下，计算的精度由一个关键参数——平面波截断能（ENCUT）控制。
 
-![图：总能量随 k 点采样与展宽参数的收敛](../../raw/figures/kresseEfficiencyAbinitioTotal1996a/fig_2_K2M97DMS.png)
-*   **看图要点**：在平面波体系中，波函数截断能和布里渊区采样点数（Monkhorst-Pack）是决定精度的两大生死线，图示为能量随 k 点网格收敛的趋势。
-*   **来源**：[[../papers/kresseEfficiencyAbinitioTotal1996a]] -> [[../figures/mathematical-models-computational|计算方法与泛函]]
 
 ## 🧩 数学与算法逻辑
 
