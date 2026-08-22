@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Li2013bonding]]
 projects: [project-4, project-5]
-concepts: [2d-materials, strain-engineering, density-functional-theory, bond-density, binding-strength, p-d-hybridization, d-band-center, charge-transfer-descriptor, mechanical-anisotropy, stress-strain-relation, bader-charge-analysis, bonding-charge-density, poisson-contraction, ultimate-strength]
+concepts: [2d-materials, strain-engineering, density-functional-theory, bond-density, binding-strength, d-p-hybridization, d-band-center, charge-transfer-descriptor, mechanical-anisotropy, stress-strain-relation, bader-analysis, bonding-charge-density, poisson-contraction, ultimate-strength]
 entities: [TMDs, VASP, ABINIT, MoS2, WS2, MoSe2, WSe2, MoTe2, WTe2]
 methods: [dft, lda, paw, norm-conserving-pp, bader-charge, dos-pdos, charge-density-difference, stress-strain, first-principles, uniaxial-tension]
 materials: [MoS2, MoSe2, MoTe2, WS2, WSe2, WTe2]
@@ -49,7 +49,7 @@ tags:
   - concept/density-functional-theory
   - concept/bond-density
   - concept/binding-strength
-  - concept/p-d-hybridization
+  - concept/d-p-hybridization
   - concept/d-band-center
   - concept/charge-transfer-descriptor
   - concept/mechanical-anisotropy
@@ -107,7 +107,7 @@ Li, Medhekar, Shenoy，2013，*The Journal of Physical Chemistry C* 117(30), 158
   - 概念 [[../concepts/charge-transfer-descriptor|电荷转移描述符 ΔQ]]
   - 概念 [[../concepts/d-band-center|d 带中心]]
   - 概念 [[../concepts/mechanical-anisotropy|力学各向异性]]
-  - 概念 [[../concepts/p-d-hybridization|p-d 轨道杂化]]
+  - 概念 [[../concepts/d-p-hybridization|d-p 轨道杂化]]
   - 概念 [[../concepts/ultimate-strength|极限强度 σ*]]
   - 概念 [[../concepts/stress-strain-relation]]
   - 概念 [[../concepts/poisson-contraction]]
@@ -173,7 +173,7 @@ Li, Medhekar, Shenoy，2013，*The Journal of Physical Chemistry C* 117(30), 158
     - 极限强度 / Ultimate strength（σ*）
     - 极限应变 / Ultimate strain（ε*）
     - 扶手椅方向 / Armchair direction；锯齿方向 / Zigzag direction
-    - p-d 轨道杂化 [[../concepts/p-d-hybridization|p-d 轨道杂化]] / p–d orbital hybridization
+    - p-d 轨道杂化 [[../concepts/d-p-hybridization|d-p 轨道杂化]] / p–d orbital hybridization
     - d 带中心 [[../concepts/d-band-center|d 带中心]] / d-band center
     - 电荷转移量 / Charge transfer ΔQ（Bader 分析）
     - 各向异性因子 / Anisotropy factor φ = σ*_AR/σ*_ZZ

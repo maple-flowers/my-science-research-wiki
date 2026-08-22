@@ -12,7 +12,7 @@ year_read: 2026
 original_note:: [[../../raw/note/gajdosLinearOpticalProperties2006]]
 projects: [project-5]
 concepts: [density-functional-theory, dielectric-function, polarizability-matrix, local-field-effects, paw-method, longitudinal-transversal-expression, dipole-correction, dfpt, kohn-sham, berry-phase]
-entities: [VASP, GaAs, WIEN2k]
+entities: [VASP, GaAs]
 methods: [dft, dfpt, paw, lda, rpa, k-point-convergence, gw, bse, apw-lo, k-p-perturbation]
 materials: [Si, GaAs, diamond-C, SiC, AlP]
 figures: [mathematical-models-computational, optical-spectra]
@@ -54,7 +54,6 @@ tags:
   - concept/berry-phase
   - entity/VASP
   - entity/GaAs
-  - entity/WIEN2k
   - method/dft
   - method/dfpt
   - method/paw
@@ -94,7 +93,6 @@ Gajdos, Hummer, Kresse, Furthmuller, Bechstedt，2006，Physical Review B 73, 04
   - 概念 [[../concepts/kohn-sham]]
   - 实体 [[../entities/VASP]]
   - 实体 [[../entities/GaAs]]
-  - 实体 [[../entities/WIEN2k|WIEN2k]]
   - 图表 [[../figures/optical-spectra]]
   - 图表 [[../figures/mathematical-models]]
   - 年度 [[../write/2005-2009|2006]]
