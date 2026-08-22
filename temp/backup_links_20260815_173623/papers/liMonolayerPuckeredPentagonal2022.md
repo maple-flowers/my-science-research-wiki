@@ -1,0 +1,159 @@
+---
+citekey: liMonolayerPuckeredPentagonal2022
+title: "Monolayer puckered pentagonal VTe2: An emergent two-dimensional ferromagnetic semiconductor with multiferroic coupling"
+title_zh: "单层折叠五边形VTe2:一种具有多铁性耦合的二维铁磁半导体"
+authors: [Xuanyi Li, Zhili Zhu, Qing Yang, Zexian Cao, Yeliang Wang, Sheng Meng, Jiatao Sun, Hongjun Gao]
+year: 2022
+journal: "Nano Research"
+doi: "10.1007/s12274-021-3692-5"
+url: "https://doi.org/10.1007/s12274-021-3692-5"
+paper_type: theory
+status: ingested
+year_read: 2026
+original_note:: [[../../raw/note/liMonolayerPuckeredPentagonal2022]]
+projects: []
+concepts: [2D-materials, charge-density-wave, density-functional-theory, ferroelasticity, magnetoelectric-coupling, multiferroicity, spin-orbit-coupling, strain-engineering]
+entities: [CrTe2, Fe3GeTe2, TMDs, VASP]
+methods: [afm-pfm, dfpt, dft, dft-plus-u, neb, stm-mbe, tem]
+materials: [CrTe2, Fe3GeTe2, TMDs]
+figures: [crystal-structures-bulk, domain-walls-switching-properties, electronic-bands-band-structures, electronic-bands-cdw-transport, mathematical-models-formulas]
+领域基础知识:: >-
+  二维材料、自旋电子学、第一性原理计算、磁学。二维磁性材料是指在单原子层厚度下保持磁有序的材料，在自旋电子学、信息存储等领域有巨大应用潜力。第一性原理计算（DFT）是一种不依赖经验参数，直接从量子力学基本原理出发计算材料性质的方法。磁各向异性是指材料的磁性沿不同方向表现出不同强度的现象。
+研究背景:: >-
+  二维磁性半导体是当前的研究热点，但钒基二硫族化物（VTe₂）等已知相的磁性存在争议或未被证实。因此，探索VTe₂的全新结构相，并研究其潜在的磁学及其他多功能特性，对拓展二维材料家族、发现新奇物理效应具有重要意义。
+作者的问题意识:: >-
+  作者的核心问题 is：在VTe₂体系中，是否存在一种尚未被报道的、稳定的新型二维结构相？如果存在，该结构是否会展现出本征的铁磁性、半导体性，以及是否存在铁弹性与铁磁性耦合的多铁性效应，从而实现对外部场的多手段调控？
+主要研究对象:: >-
+  单层褶皱五边形结构的VTe₂（monolayer puckered pentagonal VTe₂, PP-VTe₂）。其结构源自块体黄铁矿相VTe₂（BP-VTe₂），由两个以五边形为基元、化学键合的子层构成，具有矩形晶胞。
+主要研究方法:: >-
+  基于密度泛函理论（DFT）的第一性原理计算。具体包括：使用VASP软件包进行结构优化和电子结构计算；采用DFT+U方法处理强关联电子效应；计算声子谱和弹性常数验证稳定性；计算磁各向异性能（MAE）确定易磁化轴；利用蒙特卡洛（MC）模拟估算居里温度；使用微动弹性带（NEB）方法计算铁弹翻转能垒。
+研究意义:: >-
+  预测了一种全新的二维铁磁半导体PP-VTe₂，丰富了二维材料数据库。它不仅是窄带隙半导体，有望应用于红外光电子学，更重要的是揭示了其本征的二维铁弹性和面内铁磁性的直接多铁性耦合，为通过机械应变和电场等多物理场调控磁序提供了新的理论平台和新材料候选。
+研究结论:: >-
+  通过第一性原理计算，证实了单层PP-VTe₂具有动力学和力学稳定性。它是一种带隙为0.33 eV的窄带隙铁磁半导体，居里温度约为110 K，具有面内磁各向异性。该材料表现出二维铁弹性，其铁弹翻转能垒为258 meV/atom，并且铁弹翻转会驱动易磁化轴旋转90°，实现了铁弹-铁磁的多铁性耦合。此外，其电子结构表明可通过电场调控其磁性。
+对领域的贡献:: >-
+  1. 首次提出了稳定的VTe₂褶皱五边形新相（PP-VTe₂），拓展了过渡金属二硫族化物的结构相图。2. 发现了一种兼具窄带隙半导体、铁磁性和铁弹性的二维多功能材料，为多铁性研究提供了新体系。3. 阐明了其多铁性耦合的微观机制，为应变调控磁各向异性提供了理论支持。4. 提出了电控磁性的新方案，为低功耗自旋电子学器件设计提供了新思路。
+未来研究方向提及:: >-
+  1. 实验上通过外延生长等方法合成PP-VTe₂单层，并使用STM等手段进行表征验证。2. 基于其多铁性和电控磁特性，设计并测试原型器件。3. 系统研究应变、电场、衬底等外部条件对其物性的调控作用。4. 将研究思路拓展到PP-VSe₂、PP-VS₂等其他钒基化合物，以寻找更多同类材料。
+未来研究方向思考:: >-
+  1. 探索通过掺杂、缺陷工程或异质结设计，将PP-VTe₂的居里温度提升至室温以上，以满足实际应用需求。2. 深入研究铁弹翻转的动态过程，进行自旋-晶格动力学模拟，以揭示多铁性耦合的实时物理机制。3. 建立包含栅压效应的定量电化学模型，精确计算电控磁性的效率与阈值，并考虑界面效应的影响。4. 研究PP-VTe₂的激子效应和光学性质，更准确地评估其在红外光电子学领域的应用潜力。5. 探索PP-VTe₂与其他二维材料（如TMDs、石墨烯）构建的范德华异质结，发现可能存在的界面新奇物性，如拓扑超导或量子反常霍尔效应。
+tags:
+  - paper
+  - type/experiment
+  - year/2022
+  - concept/2D-materials
+  - concept/charge-density-wave
+  - concept/density-functional-theory
+  - concept/ferroelasticity
+  - concept/magnetoelectric-coupling
+  - concept/multiferroicity
+  - concept/spin-orbit-coupling
+  - concept/strain-engineering
+  - entity/CrTe2
+  - entity/Fe3GeTe2
+  - entity/TMDs
+  - entity/VASP
+  - method/afm-pfm
+  - method/dfpt
+  - method/dft
+  - method/dft-plus-u
+  - method/neb
+  - method/stm-mbe
+  - method/tem
+  - material/CrTe2
+  - material/Fe3GeTe2
+  - material/TMDs
+  - topic/2d-materials
+  - topic/ferromagnetism
+  - topic/multiferroics
+  - topic/polarization
+---
+
+## liMonolayerPuckeredPentagonal2022 — 单层褶皱五边形VTe2：一种具有多铁性耦合的二维铁磁半导体
+
+## 📄 元数据
+Xuanyi Li, Zhili Zhu, Qing Yang, Zexian Cao, Yeliang Wang, Sheng Meng, Jiatao Sun, Hongjun Gao et al.，2022，Nano Research 15(2): 1486-1491，DOI: 10.1007/s12274-021-3692-5
+
+## 💡 一句话
+通过第一性原理计算预测了一种全新的单层褶皱五边形相VTe2（PP-VTe2），它是带隙0.33 eV、居里温度约110 K的本征铁磁半导体，且其二维铁弹性翻转可驱动面内易磁化轴旋转90°，实现铁弹-铁磁直接多铁耦合。
+
+## 🔗 Wiki 双链
+  - 概念 [[../concepts/2d-materials]]
+  - 概念 [[../concepts/multiferroicity]]
+  - 概念 [[../concepts/ferroelasticity]]
+  - 概念 [[../concepts/magnetoelectric-coupling]]
+  - 概念 [[../concepts/strain-engineering]]
+  - 概念 [[../concepts/spin-orbit-coupling]]
+  - 概念 [[../concepts/density-functional-theory]]
+  - 概念 [[../concepts/charge-density-wave]]
+  - 实体 [[../entities/TMDs]]
+  - 实体 [[../entities/VASP]]
+  - 实体 [[../entities/Fe3GeTe2]]
+  - 实体 [[../entities/CrTe2]]
+  - 图表 [[../figures/crystal-structures]]
+  - 图表 [[../figures/electronic-bands]]
+  - 图表 [[../figures/mathematical-models]]
+  - 图表 [[../figures/heterostructures-stacking|力学性质、剥离能与杂项]]
+  - 年度 [[../write/2020-2024|2022]]
+  - 相关论文 [[../../raw/note/liMonolayerPuckeredPentagonal2022]]
+
+## 🆕 新概念/实体建议
+  - [[../concepts/puckered-pentagonal-structure|puckered-pentagonal-structure]]（褶皱五边形结构）：TMD材料中除T-、H相之外的一类由五边形元胞构成、层内有褶皱起伏的结构相，可视为黄铁矿结构减薄至二维极限的产物（以PdSe2、PP-VTe2为代表）。
+  - [[../entities/PP-VTe2|PP-VTe2]]（单层褶皱五边形VTe2实体）：空间群Pca21、矩形晶胞(a=6.774 Å, b=6.655 Å)、由两个化学键合子层构成的VTe2新相，本征铁磁半导体。
+  - [[../concepts/ferromagnetic-semiconductor|ferromagnetic-semiconductor]]（铁磁半导体）：同时具有铁磁有序和半导体带隙的二维材料类别，区别于半金属（如BP-VTe2）。
+  - [[../concepts/magnetic-anisotropy-energy|magnetic-anisotropy-energy]]（磁各向异性能，MAE）：磁矩沿不同晶向取向时的能量差，决定易磁化轴方向；本文用其确定面内[100]易轴。
+  - [[../concepts/electrical-control-of-magnetism|electrical-control-of-magnetism]]（电控磁性）：利用栅压调控费米能级附近自旋极化态的占据，从而改变净磁矩的机制；本文中空穴浓度4.5×10^14 cm^-2下可使每单胞磁矩在12-10 μB间调节。
+  - [[../concepts/exfoliation-energy|exfoliation-energy]]（剥离能）：从块体相剥离出单层所需能量；PP-VTe2为72.46 meV/Å²，支持外延生长制备。
+  - [[../entities/PdSe2|PdSe2]]（实体）：层状五边形二维材料原型，是PP-VTe2结构与强层间键合的类比对象。
+
+## 📊 关键图表
+  - ![图1 BP-VTe2晶体结构与能带、PP-VTe2顶视/侧视、布里渊区及模拟STM图像](../../raw/figures/liMonolayerPuckeredPentagonal2022/fig_1_VTVDBDPY.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
+    - **图示描述**：图1由五个子图组成，对比展示母体BP-VTe2与新相PP-VTe2的原子结构和电子结构：(a)块体黄铁矿相BP-VTe2晶体结构，绿色虚线标出V2Te4亚层；(b)BP-VTe2含/不含SOC的自旋极化能带；(c)单层PP-VTe2的顶视图与侧视图；(d)PP-VTe2（上）和BP-VTe2（下）的布里渊区与高对称动量路径；(e)PP-VTe2结构模型（上）及−0.5 eV偏压下的模拟STM形貌（下）。深蓝/浅青球为V原子，橙红/浅黄球为Te原子。
+    - **关键特征**：BP-VTe2为半金属，自旋向上通道金属性、自旋向下通道带隙1.088 eV；每个V在八面体晶体场中3个未配对电子占据t2g能级，磁矩约3 μB/atom；BP-VTe2化学形成能−0.265 eV/atom（1T-VTe2为−0.307 eV/atom）。PP-VTe2空间群Pca21，矩形晶胞a=6.774 Å、b=6.655 Å，由两个化学键合的子层构成（单独子层不能稳定）；模拟STM最亮信号对应翘曲顶层Te原子，呈锯齿状图案。
+    - **结论/意义**：建立了从BP-VTe2到PP-VTe2的结构来源，并提供了可供实验STM表征直接比对的"指纹"图像。
+  - ![图2 PP-VTe2声子色散、子层滑移能量、能带结构(0.33 eV带隙)、带隙随层厚演化及剥离能](../../raw/figures/liMonolayerPuckeredPentagonal2022/fig_2_AMLNLTG6.png) → [[../figures/electronic-bands-band-structures|能带结构与带隙]]
+    - **图示描述**：图2用四个子图给出PP-VTe2的稳定性证据和电子性质：(a)单层PP-VTe2的声子色散谱（纵轴频率，单位THz）；(b)两子层不同相对滑移量下的相对总能量；(c)含/不含SOC的PP-VTe2能带结构；(d)带隙随板坯子层数（2至8）的演化，粉色/浅绿色背景分别标记间接/直接带隙区，插图为剥离能。
+    - **关键特征**：声子谱全布里渊区无虚频，证实动力学稳定；弹性常数C11=49.66、C22=72.92、C12=6.976、C44=24.59 N/m满足Born-Huang判据（C11C22−C12²>0, C44>0）；滑移能量在(0,0)处全局最低；PP-VTe2为间接带隙0.33 eV的铁磁半导体，随子层由2增至8带隙从0.33 eV单调降至0.11 eV，并发生间接→直接带隙转变；剥离能72.46 meV/Å²。
+    - **结论/意义**：从动力学、力学和可制备性三方面确立PP-VTe2的稳定性，其0.33 eV窄带隙远小于CrI3(1.07 eV)、CrBr3(1.34 eV)、Cr2Ge2Te6(0.88 eV)，面向红外光电子应用。
+  - ![图3 面内磁各向异性能极坐标图、铁磁/倾斜铁磁磁构型、MC模拟磁矩-温度曲线(Tc~110 K)及磁化率/比热](../../raw/figures/liMonolayerPuckeredPentagonal2022/fig_3_PAXER5D6.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
+    - **图示描述**：图3表征PP-VTe2的磁学性质：(a)在x-y面内旋转自旋取向所得的磁各向异性能极坐标图（蓝三角为计算点，Ma[100]能量设为零）；(b)能量最优的面内FM磁构型；(c)磁矩沿V-Te键方向的倾斜FM亚稳态；(d)蒙特卡洛模拟的平均磁矩随温度变化曲线，插图为自旋密度等值面（0.17 e/Å³）；(e)磁化率χ和比热CV随温度的变化。
+    - **关键特征**：易磁化轴沿面内[100]方向（与PP-VTe2唯一螺旋轴重合），与[010]、[110]方向能量差分别为0.45、1.83 meV/单胞，与面外[001]方向差1.23 meV/单胞；倾斜FM态能量比面内FM态高0.15 meV；最近邻交换耦合J0=3.68 meV，每个V有8个最近邻磁性原子（同子层4个、另一子层4个）；MC在100×100网格上进行5,000,000步、温度步长5 K，磁矩、χ、CV共同给出Tc≈110 K。
+    - **结论/意义**：确认PP-VTe2为本征铁磁半导体，Tc高于CrI3(45 K)、CrBr3(27 K)、Cr2Ge2Te6(30 K)等实验二维磁体。
+  - ![图4 铁弹翻转IS-MS-FS路径及NEB能垒(258 meV/atom)，易磁化轴随之旋转90°](../../raw/figures/liMonolayerPuckeredPentagonal2022/fig_4_SDLAKTEL.png) -> [[../figures/domain-walls-switching-properties|极化翻转与铁电性能]]
+    - **图示描述**：图4展示铁弹性翻转路径及其与磁性的耦合：(a)初始态IS、(b)中间态MS、(c)终态FS的原子结构，(e)为FS的另一侧视图；深蓝/浅青球分别为上/下子层V原子，其余为Te原子；红色箭头表示施加的压缩/拉伸应变，绿色箭头表示易磁化轴方向，蓝色箭头表示翻转步骤；(d)NEB计算所得总能量沿反应路径的变化。
+    - **关键特征**：面内晶格a、b各向异性约1.8%；翻转时先沿x轴压缩、y轴拉伸（仅1.8%应变）使矩形晶胞变正方形，再旋转90°；MS中下层Te原子水平移动但保持五边形基元完整；NEB能垒258 meV/atom，与黑磷烯等二维非磁铁弹材料相当；翻转后易磁化轴同步旋转90°。
+    - **结论/意义**：提供了铁弹性与面内铁磁性之间直接多铁耦合的关键证据，表明可通过外部机械应变控制磁化方向。
+  - ![公式(1) 准二维海森堡模型哈密顿量 H=-J0Σ⟨i,j⟩Si·Sj - λΣSi²](../../raw/figures/liMonolayerPuckeredPentagonal2022/eq_1_JWCKFJZ2.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
+    - **图示描述**：公式(1)为用于蒙特卡洛模拟的准二维海森堡模型哈密顿量，H = −J0 Σ⟨i,j⟩ Si·Sj − λ Σi Si²，其中第一项为最近邻自旋交换相互作用、第二项为单离子各向异性。
+    - **关键特征**：J0=3.68 meV由磁交换能计算得到，代表PP-VTe2最近邻磁耦合；λ为由MAE得到的易轴单离子各向异性参数；模型考虑了PP-VTe2的双子层晶格，每个V有8个最近邻；基于该哈密顿量在100×100二维网格上MC模拟5,000,000步，估出Tc≈110 K。
+    - **结论/意义**：该哈密顿量是将第一性原理微观磁参数桥接到宏观居里温度的核心模型。
+
+## 🔬 项目连接
+无直接项目连接（主题上与project-2 Mn多铁同属多铁性材料体系，但本文材料为VTe2而非Mn基氧化物，方法为纯DFT预测，不直接归属任何既有项目）。
+
+## 🔗 项目双链
+
+## 📝 组织与用词
+文章按"背景动机→块体参照相→单层结构建模→稳定性验证→电子结构→磁性基态→铁弹性与多铁耦合→电控磁性展望→结论"的递进逻辑展开。先以BP-VTe2（半金属）为对照，凸显单层PP相（半导体）的物性突变；稳定性从动力学（声子谱无虚频）、力学（Born-Huang判据）、可制备性（剥离能72.46 meV/Å²）三重论证；磁性部分用DFT+U确定FM基态、MAE确定面内易轴[100]、海森堡模型+MC模拟桥接出Tc≈110 K；最后以NEB计算给出铁弹翻转能垒并指出易轴90°旋转这一核心耦合证据。值得复用的关键词/术语：
+  - puckered pentagonal（褶皱五边形）
+  - ferromagnetic semiconductor（铁磁半导体）
+  - half-metallic（半金属）
+  - multiferroic coupling（多铁耦合）
+  - ferroelastic switching（铁弹性翻转）
+  - magnetic anisotropy energy, MAE [[../concepts/magnetic-anisotropy-energy|MAE]]（磁各向异性能）
+  - Curie temperature（居里温度）
+  - nudged elastic band, NEB（微动弹性带方法）
+  - exfoliation energy（剥离能）
+  - electrical control of magnetism（电控磁性）
+
+## ✏️ 可写入 Wiki 的要点
+  1. PP-VTe2是VTe2的全新二维相，空间群Pca21，矩形晶胞a=6.774 Å、b=6.655 Å，由两个以五边形为基元、化学键合的子层构成（单个子层不能独立稳定），面内[[../concepts/migdal-eliashberg-theory|各向异性]]约1.8%；其结构灵感来自块体黄铁矿相BP-VTe2（空间群Pa-3，晶格常数6.746 Å）的(100)面。
+  2. BP-VTe2为[[../concepts/half-metal|半金属]]：自旋向上通道金属性，自旋向下通道带隙1.088 eV；每个V原子在八面体晶体场中3个未配对电子占据t2g能级，磁矩约3 μB；化学[[../concepts/formation-energy|形成能]]−0.265 eV/atom，仅略高于1T-VTe2（−0.307 eV/atom），提示实验可合成性。
+  3. 单层PP-VTe2为间接带隙0.33 eV的铁磁半导体，显著区别于BP-VTe2的[[../concepts/half-metallicity|半金属性]]；带隙随子层数由2增至8而从0.33 eV降至0.11 eV，并发生间接→直接带隙转变；该窄带隙远小于CrI3(1.07 eV)、CrBr3(1.34 eV)、Cr2Ge2Te6(0.88 eV)，面向红外光电子应用。
+  4. 稳定性三重证据：弹性常数C11=49.66、C22=72.92、C12=6.976、C44=24.59 N/m满足Born-Huang判据（C11C22−C12²>0, C44>0）；声子谱全[[../concepts/brillouin-zone|布里渊区]]无虚频；子层相对滑移能量计算表明无位移构型为全局能量最低；剥离能72.46 meV/Å²，有望类似PdSe2通过外延生长制备。
+  5. 磁性基态：DFT+U（Ueff=0/3/5 eV，Dudarev方法）计算表明在所有Ueff下FM态能量均低于NM和三种AFM态，为本征铁磁半导体；最近邻交换耦合J0=3.68 meV；每个V有8个最近邻磁性原子（同子层4个、另一子层4个）。
+  6. [[../concepts/magnetic-anisotropy-energy|磁各向异性]]：易磁化轴沿面内[100]方向（与PP-VTe2唯一螺旋轴重合），与面内[010]、[110]方向能量差分别为0.45、1.83 meV/单胞，与面外[001]方向差1.23 meV/单胞；沿V-Te键方向存在倾斜FM[[../concepts/metastability|亚稳态]]，能量比面内FM态高0.15 meV。
+  7. [[../concepts/curie-temperature|居里温度]]：基于准二维[[../concepts/heisenberg-model|海森堡模型]]（含最近邻交换J0和单离子各向异性λ）在100×100网格上进行5,000,000步MC模拟（温度步长5 K），由磁矩、磁化率χ和比热CV峰值共同确定Tc≈110 K，高于CrI3(45 K)、CrBr3(27 K)、Cr2Ge2Te6(30 K)等实验二维磁体。
+  8. 多铁耦合机制：NEB计算表明，沿x轴加压、y轴拉伸（仅1.8%应变）使矩形晶胞转为正方形后再旋转90°，可实现铁弹翻转；下层亚层Te原子水平移动保持五边形基元完整；翻转能垒 258 meV/atom，与黑磷烯等二维铁弹材料相当；翻转后易磁化轴同步旋转90°，构成应变可控的直接铁弹-铁磁多铁耦合。
+  9. 电控磁性：投影DOS显示总磁矩完全来自−1至−0.1 eV能量区间的自旋极化态，且几乎全部由V 3d电子贡献；通过栅压调节[[../concepts/chemical-potential|化学势]]，在空穴浓度4.5×10^14 cm^-2下可使每单胞净磁矩在12-10 μB间调节，适合在高介电衬底上实现电控磁；PP-VSe2与PP-VS2因费米能级附近能带结构相似，同样有望实现电控磁性。
+  10. 计算方法细节：VASP软件包，PAW赝势，PBE-GGA泛函，9×9×1 Monkhorst-Pack k点网格，平面波截断能500 eV，真空层20 Å，总能收敛至10^-8 eV、力收敛至10^-6 eV/Å（对消除虚频声子至关重要），声子用DFPT，弹性常数用有限畸变法，MAE自洽计算中包含SOC。

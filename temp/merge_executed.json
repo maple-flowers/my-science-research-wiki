@@ -1,0 +1,546 @@
+[
+ {
+  "keep": "concepts/ARPES",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 4,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/Car-Parrinello",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 2,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/LAPW",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 0,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "entities/MAX-phase",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 10,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/PBE-functional",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 2,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "entities/Sc2CO2",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 2,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/pseudogap",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/optical-band-gap",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 0,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "entities/MoTe2",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/bessel-beam",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 0,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/domain-wall",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 2,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/skyrmion",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 2,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/surface-termination",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/type-i-multiferroic",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/type-ii-multiferroicity",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 5,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/variable-spring-constant",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 0,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/polar-vortex",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 0,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "entities/MAX-phase",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 0,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "entities/carbon-nanotube",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/paw-method",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 2,
+  "new_rel": 4,
+  "extra": 1
+ },
+ {
+  "keep": "concepts/ict-mechanism",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 4,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/tict-mechanism",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 3,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/aimd",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 2,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/dftb",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/nudged-elastic-band",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/climbing-image-neb",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/generalized-gradient-approximation",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/DFT-U",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 2,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/vdW-heterostructure",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 7,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/piezoresponse-force-microscopy",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 2,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/pump-probe",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/quantum-spin-hall-effect",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/two-photon-absorption-cross-section",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/bader-analysis",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/mulliken-population",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 2,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/self-consistent-field-cycle",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/landau-lifshitz-equation",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/resistive-switching",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/band-structure",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/local-excited-state",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 0,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/d-pi-a-architecture",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 6,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/inverse-dzyaloshinskii-moriya",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/half-metallicity",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 12,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/high-order-topology",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/kittel-law",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/kosterlitz-thouless",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 3,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/ginzburg-landau",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/multiferroic-tunnel-junction",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 0,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/soft-mode",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 2,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/spin-spiral",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 6,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/helical-magnetism",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/steepest-ascent",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 0,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/charge-order",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 0,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/depolarization-field",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 0,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/evanescent-field",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 0,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/exciton-condensation",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 0,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/first-order-phase-transition",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 0,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/magnetic-anisotropy",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 15,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "concepts/peierls-instability",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 2,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "entities/Au",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "entities/Si",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "entities/Ti-sapphire-laser",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 2,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "entities/TaSe2-xTex",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 0,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "entities/MnBi2Te4",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "entities/CuCrP2S6",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 2,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "entities/CuInP2S6",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "entities/1T-MoTe2",
+  "formal": false,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ },
+ {
+  "keep": "entities/MoS2",
+  "formal": true,
+  "new_papers": 0,
+  "new_back": 1,
+  "new_rel": 0,
+  "extra": 0
+ }
+]

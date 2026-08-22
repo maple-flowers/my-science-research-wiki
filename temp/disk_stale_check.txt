@@ -1,0 +1,7 @@
+MISSING_TOTAL=2 BAD_LINK_TOTAL=8
+[科研Wiki/index]
+  wiki\ideas\_index.md
+  wiki\write\_index.md
+
+BAD_PATHS:
+[../papers/<citekey>] x8

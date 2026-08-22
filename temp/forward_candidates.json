@@ -1,0 +1,16 @@
+[
+  {
+    "citekey": "chowdhuryReviewTheoreticalComputational",
+    "type": "entities",
+    "backtick_slug": "TaS2",
+    "actual_slug": "TaS2",
+    "label": "二硫化钽 (TaS2) / Tantalum Disulfide"
+  },
+  {
+    "citekey": "chowdhuryReviewTheoreticalComputational",
+    "type": "entities",
+    "backtick_slug": "TaSe2",
+    "actual_slug": "TaSe2",
+    "label": "二硒化钽 (TaSe2) / Tantalum Diselenide"
+  }
+]

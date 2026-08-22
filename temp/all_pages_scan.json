@@ -1,0 +1,7162 @@
+{
+ "concepts": {
+  "1t-phase": {
+   "formal": false,
+   "title": null
+  },
+  "1t-prime-phase": {
+   "formal": false,
+   "title": null
+  },
+  "2d-acar": {
+   "formal": false,
+   "title": null
+  },
+  "2d-materials": {
+   "formal": false,
+   "title": null
+  },
+  "2d-mof": {
+   "formal": false,
+   "title": null
+  },
+  "3r-phase": {
+   "formal": false,
+   "title": null
+  },
+  "4d-stem": {
+   "formal": false,
+   "title": null
+  },
+  "ab-initio-molecular-dynamics": {
+   "formal": false,
+   "title": null
+  },
+  "aberration-correction": {
+   "formal": false,
+   "title": null
+  },
+  "absolute-humidity": {
+   "formal": false,
+   "title": null
+  },
+  "absorption-spectrum": {
+   "formal": true,
+   "title": "吸收光谱 / Absorption Spectrum"
+  },
+  "across-layer-sliding-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "adaptive-optics": {
+   "formal": false,
+   "title": null
+  },
+  "additive-augmentation": {
+   "formal": false,
+   "title": null
+  },
+  "additive-manufacturing": {
+   "formal": false,
+   "title": null
+  },
+  "adsorption-desorption-hysteresis": {
+   "formal": false,
+   "title": null
+  },
+  "adsorption-desorption": {
+   "formal": false,
+   "title": null
+  },
+  "adsorption-energy-landscape": {
+   "formal": false,
+   "title": null
+  },
+  "adsorption-energy": {
+   "formal": false,
+   "title": null
+  },
+  "aimd": {
+   "formal": false,
+   "title": null
+  },
+  "air-sensitive-2d-materials": {
+   "formal": false,
+   "title": null
+  },
+  "altermagnetism": {
+   "formal": false,
+   "title": null
+  },
+  "amorphous-semiconductor": {
+   "formal": false,
+   "title": null
+  },
+  "amplitudon-phason": {
+   "formal": true,
+   "title": null
+  },
+  "anderson-blount-mechanism": {
+   "formal": false,
+   "title": null
+  },
+  "anderson-theorem": {
+   "formal": false,
+   "title": null
+  },
+  "andreev-reflection": {
+   "formal": false,
+   "title": null
+  },
+  "anharmonic-effects": {
+   "formal": false,
+   "title": null
+  },
+  "anisotropic-rippling": {
+   "formal": false,
+   "title": null
+  },
+  "anisotropic-superconductivity": {
+   "formal": false,
+   "title": null
+  },
+  "anomalous-hall-effect": {
+   "formal": true,
+   "title": "反常霍尔效应 / Anomalous Hall Effect (AHE)"
+  },
+  "antiferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "antiferromagnetism": {
+   "formal": false,
+   "title": null
+  },
+  "antiferrotoroidic-order": {
+   "formal": false,
+   "title": null
+  },
+  "antiparallel-polarization-stacking": {
+   "formal": false,
+   "title": null
+  },
+  "antivortex": {
+   "formal": false,
+   "title": null
+  },
+  "arpes": {
+   "formal": false,
+   "title": null
+  },
+  "arrhenius-deviation": {
+   "formal": false,
+   "title": null
+  },
+  "aspect-ratio": {
+   "formal": false,
+   "title": null
+  },
+  "atmospheric-window": {
+   "formal": false,
+   "title": null
+  },
+  "atomistic-order-parameter": {
+   "formal": false,
+   "title": null
+  },
+  "augmentation-charge": {
+   "formal": false,
+   "title": null
+  },
+  "augmentation-region": {
+   "formal": false,
+   "title": null
+  },
+  "avalanche-dynamics": {
+   "formal": false,
+   "title": null
+  },
+  "avoided-crossing": {
+   "formal": false,
+   "title": null
+  },
+  "axicon": {
+   "formal": false,
+   "title": null
+  },
+  "bad-metal": {
+   "formal": false,
+   "title": null
+  },
+  "bader-analysis": {
+   "formal": false,
+   "title": null
+  },
+  "bader-charge-analysis": {
+   "formal": false,
+   "title": null
+  },
+  "bamboo-like-N-CNTs": {
+   "formal": false,
+   "title": null
+  },
+  "band-alignment": {
+   "formal": true,
+   "title": "能带对齐 (Band Alignment)"
+  },
+  "band-bending": {
+   "formal": false,
+   "title": null
+  },
+  "band-folding": {
+   "formal": false,
+   "title": null
+  },
+  "band-gap": {
+   "formal": false,
+   "title": null
+  },
+  "band-offset": {
+   "formal": true,
+   "title": "能带偏移 (Band Offset)"
+  },
+  "band-pass-filter": {
+   "formal": false,
+   "title": null
+  },
+  "band-structure": {
+   "formal": false,
+   "title": null
+  },
+  "bandwidth-control": {
+   "formal": false,
+   "title": null
+  },
+  "bandwidth-controlled-mott-transition": {
+   "formal": false,
+   "title": null
+  },
+  "BaSrTiO3": {
+   "formal": false,
+   "title": null
+  },
+  "bcc-structure": {
+   "formal": false,
+   "title": null
+  },
+  "beam-shaping": {
+   "formal": false,
+   "title": null
+  },
+  "bec-bcs-crossover": {
+   "formal": false,
+   "title": null
+  },
+  "bedt-ttf": {
+   "formal": false,
+   "title": null
+  },
+  "behler-parrinello-nnp": {
+   "formal": false,
+   "title": null
+  },
+  "bending-induced-kink": {
+   "formal": false,
+   "title": null
+  },
+  "berry-connection": {
+   "formal": false,
+   "title": null
+  },
+  "berry-curvature-dipole": {
+   "formal": false,
+   "title": null
+  },
+  "berry-curvature": {
+   "formal": true,
+   "title": "贝里曲率 / Berry Curvature"
+  },
+  "berry-phase": {
+   "formal": false,
+   "title": null
+  },
+  "bessel-beam": {
+   "formal": false,
+   "title": null
+  },
+  "bessel-beams": {
+   "formal": false,
+   "title": null
+  },
+  "beta-pc-phase": {
+   "formal": false,
+   "title": null
+  },
+  "beta0-phase": {
+   "formal": false,
+   "title": null
+  },
+  "bethe-peierls-weiss-method": {
+   "formal": false,
+   "title": null
+  },
+  "bilayer-splitting": {
+   "formal": false,
+   "title": null
+  },
+  "bilayer-stacking-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "bimeron": {
+   "formal": false,
+   "title": null
+  },
+  "binding-strength": {
+   "formal": false,
+   "title": null
+  },
+  "biphoton": {
+   "formal": false,
+   "title": null
+  },
+  "bipolar-magnetic-semiconductor": {
+   "formal": false,
+   "title": null
+  },
+  "birefringence": {
+   "formal": false,
+   "title": null
+  },
+  "bistability": {
+   "formal": false,
+   "title": null
+  },
+  "BLFO": {
+   "formal": false,
+   "title": null
+  },
+  "bloch-spin-wave": {
+   "formal": false,
+   "title": null
+  },
+  "block-averaging-msd": {
+   "formal": false,
+   "title": null
+  },
+  "boltzmann-distribution": {
+   "formal": false,
+   "title": null
+  },
+  "boltzmann-transport": {
+   "formal": false,
+   "title": null
+  },
+  "bond-density": {
+   "formal": false,
+   "title": null
+  },
+  "bonding-charge-density": {
+   "formal": false,
+   "title": null
+  },
+  "born-effective-charge": {
+   "formal": false,
+   "title": null
+  },
+  "born-oppenheimer-md": {
+   "formal": false,
+   "title": null
+  },
+  "bragg-peaks": {
+   "formal": false,
+   "title": null
+  },
+  "brillouin-function": {
+   "formal": false,
+   "title": null
+  },
+  "brillouin-zone-integration": {
+   "formal": false,
+   "title": null
+  },
+  "brillouin-zone": {
+   "formal": false,
+   "title": null
+  },
+  "broken-inversion-symmetry": {
+   "formal": true,
+   "title": "破缺的空间反演对称性 / Broken Inversion Symmetry"
+  },
+  "bulk-boundary-correspondence": {
+   "formal": true,
+   "title": "体-边界对应关系 / Bulk-Boundary Correspondence"
+  },
+  "bulk-photovoltaic-effect": {
+   "formal": false,
+   "title": null
+  },
+  "C2DB": {
+   "formal": false,
+   "title": null
+  },
+  "c4-symmetry-breaking": {
+   "formal": false,
+   "title": null
+  },
+  "Ca3Ru2O7": {
+   "formal": false,
+   "title": null
+  },
+  "canonical-ensemble": {
+   "formal": false,
+   "title": null
+  },
+  "canted-antiferromagnetism": {
+   "formal": false,
+   "title": null
+  },
+  "capacitive-sensor": {
+   "formal": false,
+   "title": null
+  },
+  "car-parrinello-method": {
+   "formal": false,
+   "title": null
+  },
+  "car-parrinello": {
+   "formal": false,
+   "title": null
+  },
+  "carbazole-derivatives": {
+   "formal": false,
+   "title": null
+  },
+  "carrier-density-modulation": {
+   "formal": false,
+   "title": null
+  },
+  "carrier-detrapping": {
+   "formal": false,
+   "title": null
+  },
+  "carrier-mobility": {
+   "formal": false,
+   "title": null
+  },
+  "carrier-tuning": {
+   "formal": false,
+   "title": null
+  },
+  "CdTe": {
+   "formal": false,
+   "title": null
+  },
+  "cdw-blends-displacements": {
+   "formal": false,
+   "title": null
+  },
+  "cdw-mott-phase": {
+   "formal": false,
+   "title": null
+  },
+  "cdw-tronics": {
+   "formal": false,
+   "title": null
+  },
+  "cellular-automaton": {
+   "formal": false,
+   "title": null
+  },
+  "cementite-precipitation": {
+   "formal": false,
+   "title": null
+  },
+  "cew-tronics": {
+   "formal": false,
+   "title": null
+  },
+  "chadi-cohen-method": {
+   "formal": false,
+   "title": null
+  },
+  "chaotic-advection": {
+   "formal": false,
+   "title": null
+  },
+  "charge-density-mixing": {
+   "formal": false,
+   "title": null
+  },
+  "charge-density-wave": {
+   "formal": true,
+   "title": "电荷密度波 / Charge Density Wave (CDW)"
+  },
+  "charge-density": {
+   "formal": false,
+   "title": null
+  },
+  "charge-doping": {
+   "formal": false,
+   "title": null
+  },
+  "charge-migration-energy": {
+   "formal": false,
+   "title": null
+  },
+  "charge-order": {
+   "formal": false,
+   "title": null
+  },
+  "charge-ordered-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "charge-ordering": {
+   "formal": false,
+   "title": null
+  },
+  "charge-sloshing": {
+   "formal": true,
+   "title": "电荷震荡 / Charge Sloshing"
+  },
+  "charge-transfer-compound": {
+   "formal": false,
+   "title": null
+  },
+  "charge-transfer-descriptor": {
+   "formal": false,
+   "title": null
+  },
+  "charge-transfer-exciplex": {
+   "formal": false,
+   "title": null
+  },
+  "charge-transfer-salt": {
+   "formal": false,
+   "title": null
+  },
+  "charge-transfer": {
+   "formal": false,
+   "title": null
+  },
+  "charge-trap-screening": {
+   "formal": false,
+   "title": null
+  },
+  "charge-trapping": {
+   "formal": false,
+   "title": null
+  },
+  "chemical-potential": {
+   "formal": false,
+   "title": null
+  },
+  "chemical-pressure": {
+   "formal": false,
+   "title": null
+  },
+  "chemiresistive-sensing": {
+   "formal": false,
+   "title": null
+  },
+  "chern-number": {
+   "formal": true,
+   "title": "陈数 / Chern Number"
+  },
+  "chiral-phonons": {
+   "formal": false,
+   "title": null
+  },
+  "chirality": {
+   "formal": true,
+   "title": "手性 / Chirality"
+  },
+  "CINEB": {
+   "formal": false,
+   "title": null
+  },
+  "climbing-image-neb": {
+   "formal": false,
+   "title": null
+  },
+  "cluster-size-effect": {
+   "formal": false,
+   "title": null
+  },
+  "cmos-compatibility": {
+   "formal": false,
+   "title": null
+  },
+  "cneb": {
+   "formal": false,
+   "title": null
+  },
+  "coercive-field": {
+   "formal": true,
+   "title": "矫顽场 / Coercive Field (Ec)"
+  },
+  "coherence-length": {
+   "formal": false,
+   "title": null
+  },
+  "coherent-layer-sliding": {
+   "formal": false,
+   "title": null
+  },
+  "coherent-state-ansatz": {
+   "formal": false,
+   "title": null
+  },
+  "cohesive-energy": {
+   "formal": false,
+   "title": null
+  },
+  "cohp-icohp": {
+   "formal": false,
+   "title": null
+  },
+  "color-center-quenching": {
+   "formal": false,
+   "title": null
+  },
+  "combustion-synthesis": {
+   "formal": false,
+   "title": null
+  },
+  "commensurate-cdw": {
+   "formal": false,
+   "title": null
+  },
+  "commensurate-incommensurate-cdw": {
+   "formal": false,
+   "title": null
+  },
+  "commensurate-incommensurate": {
+   "formal": false,
+   "title": null
+  },
+  "common-neighbor-analysis": {
+   "formal": false,
+   "title": null
+  },
+  "compensation-charge-density": {
+   "formal": false,
+   "title": null
+  },
+  "compensation-charge": {
+   "formal": false,
+   "title": null
+  },
+  "competing-orders": {
+   "formal": false,
+   "title": null
+  },
+  "competing-polar-phases": {
+   "formal": false,
+   "title": null
+  },
+  "complex-amplitude-modulation": {
+   "formal": false,
+   "title": null
+  },
+  "composite-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "composite-multiferroics": {
+   "formal": false,
+   "title": null
+  },
+  "computational-hydrogen-electrode": {
+   "formal": false,
+   "title": null
+  },
+  "computer-generated-hologram": {
+   "formal": false,
+   "title": null
+  },
+  "concentration-quenching": {
+   "formal": false,
+   "title": null
+  },
+  "concerted-motion": {
+   "formal": false,
+   "title": null
+  },
+  "concurrent-learning": {
+   "formal": false,
+   "title": null
+  },
+  "conductive-clays": {
+   "formal": false,
+   "title": null
+  },
+  "conductive-mof": {
+   "formal": false,
+   "title": null
+  },
+  "confined-electron-gas": {
+   "formal": false,
+   "title": null
+  },
+  "conformal-invariance": {
+   "formal": false,
+   "title": null
+  },
+  "conjugate-gradient-minimization": {
+   "formal": false,
+   "title": null
+  },
+  "conjugate-gradient": {
+   "formal": false,
+   "title": null
+  },
+  "conjugated-polymer": {
+   "formal": false,
+   "title": null
+  },
+  "constrained-dfpt": {
+   "formal": false,
+   "title": null
+  },
+  "contact-guidance": {
+   "formal": false,
+   "title": null
+  },
+  "contact-resistance": {
+   "formal": false,
+   "title": null
+  },
+  "contact-stress-bias": {
+   "formal": false,
+   "title": null
+  },
+  "continuous-cooling-transformation": {
+   "formal": false,
+   "title": null
+  },
+  "controlled-rolling-and-cooling": {
+   "formal": false,
+   "title": null
+  },
+  "coordination-polyhedron-distortion": {
+   "formal": false,
+   "title": null
+  },
+  "coordination-polyhedron": {
+   "formal": false,
+   "title": null
+  },
+  "core-valence-interaction": {
+   "formal": false,
+   "title": null
+  },
+  "correction-vector": {
+   "formal": false,
+   "title": null
+  },
+  "correlation-energy": {
+   "formal": false,
+   "title": null
+  },
+  "coulombic-potential": {
+   "formal": false,
+   "title": null
+  },
+  "cr4s4fbr2": {
+   "formal": false,
+   "title": null
+  },
+  "crispr-cas12a": {
+   "formal": false,
+   "title": null
+  },
+  "critical-thickness-ferroelectric": {
+   "formal": false,
+   "title": null
+  },
+  "critical-thickness": {
+   "formal": false,
+   "title": null
+  },
+  "cross-sensitivity": {
+   "formal": false,
+   "title": null
+  },
+  "crossbar-array": {
+   "formal": false,
+   "title": null
+  },
+  "crystal-field-theory": {
+   "formal": false,
+   "title": null
+  },
+  "curie-temperature": {
+   "formal": false,
+   "title": null
+  },
+  "curvature-effect": {
+   "formal": false,
+   "title": null
+  },
+  "cyclic-voltammetry": {
+   "formal": false,
+   "title": null
+  },
+  "d-band-center": {
+   "formal": false,
+   "title": null
+  },
+  "d-orbital-hopping": {
+   "formal": false,
+   "title": null
+  },
+  "d-p-hybridization": {
+   "formal": false,
+   "title": null
+  },
+  "d-pi-a-architecture": {
+   "formal": false,
+   "title": null
+  },
+  "d-pi-a-structure": {
+   "formal": false,
+   "title": null
+  },
+  "d0-magnetism": {
+   "formal": false,
+   "title": null
+  },
+  "d0-rule": {
+   "formal": false,
+   "title": null
+  },
+  "d1-electronic-configuration": {
+   "formal": false,
+   "title": null
+  },
+  "dangling-bond-floating-bond": {
+   "formal": false,
+   "title": null
+  },
+  "davydov-soliton": {
+   "formal": false,
+   "title": null
+  },
+  "dbscan-clustering": {
+   "formal": false,
+   "title": null
+  },
+  "debinding": {
+   "formal": false,
+   "title": null
+  },
+  "debye-screening-length": {
+   "formal": false,
+   "title": null
+  },
+  "defect-engineering": {
+   "formal": false,
+   "title": null
+  },
+  "defect-mediated-luminescence": {
+   "formal": false,
+   "title": null
+  },
+  "deformation-potential": {
+   "formal": false,
+   "title": null
+  },
+  "density-functional-theory": {
+   "formal": true,
+   "title": "密度泛函理论 / Density Functional Theory (DFT)"
+  },
+  "density-of-states": {
+   "formal": false,
+   "title": null
+  },
+  "depletion-layer-readout": {
+   "formal": false,
+   "title": null
+  },
+  "depletion-layer": {
+   "formal": false,
+   "title": null
+  },
+  "depolarization-field": {
+   "formal": false,
+   "title": null
+  },
+  "depolarizing-field": {
+   "formal": false,
+   "title": null
+  },
+  "detectivity": {
+   "formal": false,
+   "title": null
+  },
+  "dfpt": {
+   "formal": false,
+   "title": null
+  },
+  "dft-d2": {
+   "formal": false,
+   "title": null
+  },
+  "dft-plus-u": {
+   "formal": false,
+   "title": null
+  },
+  "DFT-U": {
+   "formal": true,
+   "title": "DFT+U / 密度泛函理论加 U"
+  },
+  "DFTB+": {
+   "formal": false,
+   "title": null
+  },
+  "dftb-density-functional-tight-binding": {
+   "formal": false,
+   "title": null
+  },
+  "dftb": {
+   "formal": false,
+   "title": null
+  },
+  "diamond-quantum-magnetometry": {
+   "formal": false,
+   "title": null
+  },
+  "dielectric-absorber": {
+   "formal": false,
+   "title": null
+  },
+  "dielectric-function": {
+   "formal": false,
+   "title": null
+  },
+  "dielectric-response": {
+   "formal": false,
+   "title": null
+  },
+  "diffraction-efficiency": {
+   "formal": false,
+   "title": null
+  },
+  "diffraction-free-beam": {
+   "formal": false,
+   "title": null
+  },
+  "diffraction-limit": {
+   "formal": false,
+   "title": null
+  },
+  "diffractive-optical-element": {
+   "formal": false,
+   "title": null
+  },
+  "diffuse-scattering": {
+   "formal": false,
+   "title": null
+  },
+  "diffusion-controlled-growth": {
+   "formal": false,
+   "title": null
+  },
+  "diffusion-controlled-transformation": {
+   "formal": false,
+   "title": null
+  },
+  "diffusive-phase-transition": {
+   "formal": false,
+   "title": null
+  },
+  "dimer-buckling": {
+   "formal": false,
+   "title": null
+  },
+  "dimerization": {
+   "formal": false,
+   "title": null
+  },
+  "dip-coating": {
+   "formal": false,
+   "title": null
+  },
+  "dipole-correction": {
+   "formal": false,
+   "title": null
+  },
+  "dipole-locking": {
+   "formal": false,
+   "title": null
+  },
+  "dirac-electrons": {
+   "formal": false,
+   "title": null
+  },
+  "dirac-semimetal": {
+   "formal": true,
+   "title": "狄拉克半金属 / Dirac Semimetal (DSM)"
+  },
+  "direct-bandgap": {
+   "formal": false,
+   "title": "direct-bandgap"
+  },
+  "direct-exchange": {
+   "formal": false,
+   "title": null
+  },
+  "discommensuration": {
+   "formal": true,
+   "title": "错位相子 / Discommensuration (DC)"
+  },
+  "dislocation-mediated-ml": {
+   "formal": false,
+   "title": null
+  },
+  "dismutation-equilibrium": {
+   "formal": false,
+   "title": null
+  },
+  "disorder-engineering": {
+   "formal": false,
+   "title": null
+  },
+  "displacement-induced-twinning": {
+   "formal": false,
+   "title": null
+  },
+  "displacive-phase-transition": {
+   "formal": false,
+   "title": null
+  },
+  "dlhc-structure": {
+   "formal": false,
+   "title": null
+  },
+  "dna-origami": {
+   "formal": false,
+   "title": null
+  },
+  "domain-dynamics": {
+   "formal": false,
+   "title": null
+  },
+  "domain-engineering": {
+   "formal": false,
+   "title": null
+  },
+  "domain-wall-classification": {
+   "formal": false,
+   "title": null
+  },
+  "domain-wall-conduction": {
+   "formal": false,
+   "title": null
+  },
+  "domain-wall-electronics": {
+   "formal": false,
+   "title": null
+  },
+  "domain-wall-energy": {
+   "formal": false,
+   "title": null
+  },
+  "domain-wall-engineering": {
+   "formal": false,
+   "title": null
+  },
+  "domain-wall-motion": {
+   "formal": false,
+   "title": null
+  },
+  "domain-wall-nucleation": {
+   "formal": false,
+   "title": null
+  },
+  "domain-wall-pinning": {
+   "formal": false,
+   "title": null
+  },
+  "domain-wall-texture": {
+   "formal": false,
+   "title": null
+  },
+  "domain-wall": {
+   "formal": false,
+   "title": null
+  },
+  "domain-walls": {
+   "formal": false,
+   "title": null
+  },
+  "donor-acceptor-push-pull": {
+   "formal": false,
+   "title": null
+  },
+  "donor-effect": {
+   "formal": false,
+   "title": null
+  },
+  "donor-pi-acceptor": {
+   "formal": false,
+   "title": null
+  },
+  "doping-engineering": {
+   "formal": false,
+   "title": null
+  },
+  "double-counting-correction": {
+   "formal": false,
+   "title": null
+  },
+  "double-exchange": {
+   "formal": false,
+   "title": null
+  },
+  "double-well-potential": {
+   "formal": false,
+   "title": null
+  },
+  "double-well": {
+   "formal": false,
+   "title": null
+  },
+  "driven-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "dual-gate-asymmetric-strain-control": {
+   "formal": false,
+   "title": null
+  },
+  "dulong-petit-law": {
+   "formal": false,
+   "title": null
+  },
+  "dynamical-multiferroicity": {
+   "formal": false,
+   "title": null
+  },
+  "dzyaloshinskii-moriya-interaction": {
+   "formal": false,
+   "title": null
+  },
+  "e2-e4-edge-sharing-structures": {
+   "formal": false,
+   "title": null
+  },
+  "easy-axis": {
+   "formal": true,
+   "title": "易磁化轴 / Easy Axis"
+  },
+  "easy-plane": {
+   "formal": true,
+   "title": "易磁化面 / Easy Plane"
+  },
+  "edelstein-effect": {
+   "formal": false,
+   "title": null
+  },
+  "edge-state": {
+   "formal": true,
+   "title": "边缘态 / Edge State"
+  },
+  "effective-hamiltonian": {
+   "formal": false,
+   "title": null
+  },
+  "elastic-deformation": {
+   "formal": false,
+   "title": null
+  },
+  "elastico-mechanoluminescence": {
+   "formal": false,
+   "title": null
+  },
+  "electric-dmi": {
+   "formal": false,
+   "title": null
+  },
+  "electric-double-layer": {
+   "formal": false,
+   "title": null
+  },
+  "electric-write-magnetic-read": {
+   "formal": false,
+   "title": null
+  },
+  "electrical-control-of-magnetism": {
+   "formal": false,
+   "title": null
+  },
+  "electrical-writing-optical-reading": {
+   "formal": false,
+   "title": null
+  },
+  "electride": {
+   "formal": false,
+   "title": null
+  },
+  "electrocaloric-effect": {
+   "formal": false,
+   "title": null
+  },
+  "electrocatalysis": {
+   "formal": false,
+   "title": null
+  },
+  "electrochemical-deposition": {
+   "formal": false,
+   "title": null
+  },
+  "electromagnetic-induced-transparency": {
+   "formal": false,
+   "title": null
+  },
+  "electromagnetic-shielding": {
+   "formal": false,
+   "title": null
+  },
+  "electromagnon": {
+   "formal": true,
+   "title": "电磁振子 / Electromagnon"
+  },
+  "electron-beam-manipulation": {
+   "formal": false,
+   "title": null
+  },
+  "electron-correlation": {
+   "formal": false,
+   "title": null
+  },
+  "electron-counting-rule-surface": {
+   "formal": false,
+   "title": null
+  },
+  "electron-counting-rule": {
+   "formal": false,
+   "title": null
+  },
+  "electron-energy-loss-spectroscopy": {
+   "formal": false,
+   "title": null
+  },
+  "electron-filling-magnetism": {
+   "formal": false,
+   "title": null
+  },
+  "electron-hole-correlation": {
+   "formal": false,
+   "title": null
+  },
+  "electron-hole-recombination": {
+   "formal": false,
+   "title": null
+  },
+  "electron-localization-function": {
+   "formal": false,
+   "title": null
+  },
+  "electron-localization": {
+   "formal": false,
+   "title": null
+  },
+  "electron-paramagnetic-resonance": {
+   "formal": false,
+   "title": null
+  },
+  "electron-phonon-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "electronic-band-structure": {
+   "formal": false,
+   "title": null
+  },
+  "electronic-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "electronic-phase-transition": {
+   "formal": false,
+   "title": null
+  },
+  "electronic-polarization": {
+   "formal": false,
+   "title": null
+  },
+  "electronic-susceptibility": {
+   "formal": false,
+   "title": null
+  },
+  "electronic-temperature-smearing": {
+   "formal": false,
+   "title": null
+  },
+  "electropolymerization": {
+   "formal": false,
+   "title": null
+  },
+  "electrostatic-doping": {
+   "formal": false,
+   "title": null
+  },
+  "electrostatic-gating": {
+   "formal": true,
+   "title": "静电栅控 (Electrostatic Gating)"
+  },
+  "elemental-ferroelectrics": {
+   "formal": false,
+   "title": null
+  },
+  "elemental-polar-metals": {
+   "formal": false,
+   "title": null
+  },
+  "embedded-atom-method": {
+   "formal": false,
+   "title": null
+  },
+  "emergent-magnetic-charge": {
+   "formal": false,
+   "title": null
+  },
+  "encapsulation-2d": {
+   "formal": false,
+   "title": null
+  },
+  "energy-transfer": {
+   "formal": false,
+   "title": null
+  },
+  "enhancement-factor": {
+   "formal": false,
+   "title": null
+  },
+  "entanglement-induced-two-photon-transparency": {
+   "formal": false,
+   "title": null
+  },
+  "enthalpy-of-formation": {
+   "formal": false,
+   "title": null
+  },
+  "entropy-barrier": {
+   "formal": false,
+   "title": null
+  },
+  "epitaxial-strain": {
+   "formal": false,
+   "title": null
+  },
+  "equivalent-photon-approximation": {
+   "formal": false,
+   "title": null
+  },
+  "ergodic-hypothesis": {
+   "formal": false,
+   "title": null
+  },
+  "euler-buckling": {
+   "formal": false,
+   "title": null
+  },
+  "evanescent-field-sensing": {
+   "formal": false,
+   "title": null
+  },
+  "evanescent-field": {
+   "formal": false,
+   "title": null
+  },
+  "evanescent-wave": {
+   "formal": false,
+   "title": null
+  },
+  "exchange-bias": {
+   "formal": true,
+   "title": "交换偏置 / Exchange Bias"
+  },
+  "exchange-correlation-functional": {
+   "formal": false,
+   "title": null
+  },
+  "exchange-interaction": {
+   "formal": false,
+   "title": null
+  },
+  "exchange-splitting": {
+   "formal": false,
+   "title": null
+  },
+  "exchange-striction": {
+   "formal": false,
+   "title": null
+  },
+  "exciplex": {
+   "formal": true,
+   "title": "激基复合物 / Exciplex"
+  },
+  "excited-state-lifetime": {
+   "formal": false,
+   "title": null
+  },
+  "exciton-binding-energy": {
+   "formal": false,
+   "title": null
+  },
+  "exciton-condensation": {
+   "formal": false,
+   "title": null
+  },
+  "exciton-funnel-effect": {
+   "formal": false,
+   "title": null
+  },
+  "exciton-phonon-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "exciton-plasmon-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "excitonic-condensation": {
+   "formal": false,
+   "title": null
+  },
+  "exclusive-production": {
+   "formal": false,
+   "title": null
+  },
+  "exfoliation-energy": {
+   "formal": false,
+   "title": null
+  },
+  "exponential-decay": {
+   "formal": false,
+   "title": null
+  },
+  "extended-system-method": {
+   "formal": false,
+   "title": null
+  },
+  "extracellular-matrix": {
+   "formal": false,
+   "title": null
+  },
+  "extrinsic-charge-mobility": {
+   "formal": false,
+   "title": null
+  },
+  "f-wave-order-parameter": {
+   "formal": false,
+   "title": null
+  },
+  "fabry-perot-cavity": {
+   "formal": false,
+   "title": null
+  },
+  "fabry-perot-interferometer": {
+   "formal": false,
+   "title": null
+  },
+  "faraday-effect": {
+   "formal": true,
+   "title": "法拉第效应 / Faraday Effect"
+  },
+  "fatigue-effect": {
+   "formal": false,
+   "title": null
+  },
+  "fatigue-free-switching": {
+   "formal": false,
+   "title": null
+  },
+  "fcc-structure": {
+   "formal": false,
+   "title": null
+  },
+  "FemtoBond-4B": {
+   "formal": false,
+   "title": null
+  },
+  "fermi-arc": {
+   "formal": false,
+   "title": null
+  },
+  "fermi-surface-nesting": {
+   "formal": true,
+   "title": "费米面嵌套 / Fermi Surface Nesting"
+  },
+  "fermi-surfaces": {
+   "formal": false,
+   "title": null
+  },
+  "ferrielectricity": {
+   "formal": false,
+   "title": null
+  },
+  "ferroelastic-ferroelectric-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "ferroelasticity": {
+   "formal": false,
+   "title": null
+  },
+  "ferroelectric-control-of-magnetism": {
+   "formal": false,
+   "title": null
+  },
+  "ferroelectric-domain-wall": {
+   "formal": false,
+   "title": null
+  },
+  "ferroelectric-domain": {
+   "formal": true,
+   "title": "铁电畴 / Ferroelectric Domain"
+  },
+  "ferroelectric-hysteresis": {
+   "formal": false,
+   "title": null
+  },
+  "ferroelectric-metal": {
+   "formal": false,
+   "title": null
+  },
+  "ferroelectric-nonlinear-anomalous-hall-effect": {
+   "formal": false,
+   "title": null
+  },
+  "ferroelectric-photovoltaic-effect": {
+   "formal": false,
+   "title": null
+  },
+  "ferroelectric-superconductivity": {
+   "formal": false,
+   "title": null
+  },
+  "ferroelectric-topological-defects": {
+   "formal": false,
+   "title": null
+  },
+  "ferroelectric-topological-insulator": {
+   "formal": false,
+   "title": null
+  },
+  "ferroelectric-tunnel-junction": {
+   "formal": false,
+   "title": null
+  },
+  "ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "ferroic-order": {
+   "formal": false,
+   "title": null
+  },
+  "ferromagnetic-semiconductor": {
+   "formal": false,
+   "title": null
+  },
+  "ferromagnetism": {
+   "formal": false,
+   "title": null
+  },
+  "ferrotoroidicity": {
+   "formal": false,
+   "title": null
+  },
+  "ferrovalley": {
+   "formal": false,
+   "title": null
+  },
+  "fiber-optic-humidity-sensor": {
+   "formal": false,
+   "title": null
+  },
+  "field-effect-mobility": {
+   "formal": true,
+   "title": "场效应迁移率 (Field-Effect Mobility)"
+  },
+  "finite-size-effect": {
+   "formal": false,
+   "title": null
+  },
+  "finite-temperature-dft": {
+   "formal": false,
+   "title": null
+  },
+  "first-order-ferroelectric-transition": {
+   "formal": false,
+   "title": null
+  },
+  "first-order-phase-transition": {
+   "formal": false,
+   "title": null
+  },
+  "first-order-transition": {
+   "formal": false,
+   "title": null
+  },
+  "five-fold-twinning": {
+   "formal": false,
+   "title": null
+  },
+  "flapw": {
+   "formal": false,
+   "title": null
+  },
+  "flat-band": {
+   "formal": false,
+   "title": null
+  },
+  "flexible-substrates": {
+   "formal": false,
+   "title": null
+  },
+  "flexoelectric-effect": {
+   "formal": true,
+   "title": "挠曲电效应 / Flexoelectric Effect"
+  },
+  "flexoelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "fluorescence-quantum-yield": {
+   "formal": true,
+   "title": "荧光量子产率 / Fluorescence Quantum Yield"
+  },
+  "fluorescence-sensing": {
+   "formal": false,
+   "title": null
+  },
+  "flux-closure-domain": {
+   "formal": false,
+   "title": null
+  },
+  "flux-closure": {
+   "formal": false,
+   "title": null
+  },
+  "fm-afm-superlattice": {
+   "formal": false,
+   "title": null
+  },
+  "force-projection-nudging": {
+   "formal": false,
+   "title": null
+  },
+  "force-projection": {
+   "formal": false,
+   "title": null
+  },
+  "formation-energy": {
+   "formal": false,
+   "title": null
+  },
+  "four-f-system": {
+   "formal": false,
+   "title": null
+  },
+  "four-state-method": {
+   "formal": false,
+   "title": null
+  },
+  "fourier-interpolation": {
+   "formal": false,
+   "title": null
+  },
+  "fractional-charge-soliton": {
+   "formal": false,
+   "title": null
+  },
+  "fractional-quantum-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "free-standing-film": {
+   "formal": false,
+   "title": null
+  },
+  "fringe-contrast": {
+   "formal": false,
+   "title": null
+  },
+  "frozen-core-approximation": {
+   "formal": false,
+   "title": null
+  },
+  "frozen-magnon": {
+   "formal": false,
+   "title": null
+  },
+  "frustration-index": {
+   "formal": false,
+   "title": null
+  },
+  "fully-compensated-ferrimagnet": {
+   "formal": false,
+   "title": null
+  },
+  "fused-silica-glass": {
+   "formal": false,
+   "title": null
+  },
+  "gamma-irradiation": {
+   "formal": false,
+   "title": null
+  },
+  "gap-chern-number": {
+   "formal": false,
+   "title": null
+  },
+  "gapless-excitation": {
+   "formal": false,
+   "title": null
+  },
+  "gate-tunability": {
+   "formal": true,
+   "title": "栅极可调性 (Gate-Tunability)"
+  },
+  "gaussian-beam": {
+   "formal": false,
+   "title": null
+  },
+  "generalized-gradient-approximation": {
+   "formal": false,
+   "title": null
+  },
+  "generalized-stacking-fault-energy": {
+   "formal": false,
+   "title": null
+  },
+  "generalized-susceptibility": {
+   "formal": false,
+   "title": null
+  },
+  "geometric-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "geometric-frustration": {
+   "formal": false,
+   "title": null
+  },
+  "geometric-phase-analysis": {
+   "formal": false,
+   "title": null
+  },
+  "geometric-projection": {
+   "formal": false,
+   "title": null
+  },
+  "geometric-shell-closure": {
+   "formal": false,
+   "title": null
+  },
+  "geometric-structure-factor": {
+   "formal": false,
+   "title": null
+  },
+  "gga-functional": {
+   "formal": false,
+   "title": null
+  },
+  "ghost-states": {
+   "formal": false,
+   "title": null
+  },
+  "giant-magnetoresistance": {
+   "formal": true,
+   "title": "巨磁阻 (Giant Magnetoresistance)"
+  },
+  "giant-piezoelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "giant-spin-splitting": {
+   "formal": false,
+   "title": null
+  },
+  "gilat-raubenheimer-method": {
+   "formal": false,
+   "title": null
+  },
+  "ginzburg-landau": {
+   "formal": false,
+   "title": null
+  },
+  "gknb-model": {
+   "formal": false,
+   "title": null
+  },
+  "glassy-carbon": {
+   "formal": false,
+   "title": null
+  },
+  "goodenough-kanamori-anderson-rules": {
+   "formal": false,
+   "title": null
+  },
+  "grain-boundary-nucleation": {
+   "formal": false,
+   "title": null
+  },
+  "grain-refinement": {
+   "formal": false,
+   "title": null
+  },
+  "graphene-oxide-functional-groups": {
+   "formal": false,
+   "title": null
+  },
+  "ground-state-degeneracy": {
+   "formal": false,
+   "title": null
+  },
+  "group-v-elemental-ferroelectrics": {
+   "formal": false,
+   "title": null
+  },
+  "gw-approximation": {
+   "formal": false,
+   "title": null
+  },
+  "haadf-stem": {
+   "formal": false,
+   "title": null
+  },
+  "hafnia-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "half-metal": {
+   "formal": false,
+   "title": null
+  },
+  "half-metallicity": {
+   "formal": false,
+   "title": null
+  },
+  "hall-effect": {
+   "formal": false,
+   "title": null
+  },
+  "harmonic-tst": {
+   "formal": false,
+   "title": null
+  },
+  "harris-foulkes-functional": {
+   "formal": false,
+   "title": null
+  },
+  "hcp-bcc-transition": {
+   "formal": false,
+   "title": null
+  },
+  "hcp-structure": {
+   "formal": false,
+   "title": null
+  },
+  "heavy-atom-effect": {
+   "formal": false,
+   "title": null
+  },
+  "heisenberg-exchange": {
+   "formal": false,
+   "title": null
+  },
+  "heisenberg-model": {
+   "formal": false,
+   "title": null
+  },
+  "helical-magnetism": {
+   "formal": false,
+   "title": null
+  },
+  "helical-spin-order": {
+   "formal": false,
+   "title": null
+  },
+  "heterogeneous-nucleation": {
+   "formal": false,
+   "title": null
+  },
+  "heterogeneous-patch-model": {
+   "formal": false,
+   "title": null
+  },
+  "HgCdTe": {
+   "formal": false,
+   "title": null
+  },
+  "hidden-nesting": {
+   "formal": false,
+   "title": null
+  },
+  "high-order-bessel-beams": {
+   "formal": false,
+   "title": null
+  },
+  "high-order-topology": {
+   "formal": true,
+   "title": "高阶拓扑 / Higher-order Topology"
+  },
+  "high-spin-state": {
+   "formal": false,
+   "title": null
+  },
+  "high-throughput-screening": {
+   "formal": false,
+   "title": null
+  },
+  "higher-order-fs-nesting": {
+   "formal": false,
+   "title": null
+  },
+  "higher-order-topology": {
+   "formal": false,
+   "title": null
+  },
+  "hinge-state": {
+   "formal": true,
+   "title": "铰链态 / Hinge State"
+  },
+  "HLME-method": {
+   "formal": false,
+   "title": null
+  },
+  "hole-center": {
+   "formal": false,
+   "title": null
+  },
+  "holographic-grating": {
+   "formal": false,
+   "title": null
+  },
+  "holstein-model": {
+   "formal": false,
+   "title": null
+  },
+  "hopping-conduction": {
+   "formal": false,
+   "title": null
+  },
+  "hopping-integral": {
+   "formal": false,
+   "title": null
+  },
+  "hubbard-model": {
+   "formal": false,
+   "title": null
+  },
+  "hubbard-stratonovich-transformation": {
+   "formal": false,
+   "title": null
+  },
+  "hubbard-u": {
+   "formal": false,
+   "title": null
+  },
+  "humidity-sensing-mechanism": {
+   "formal": false,
+   "title": null
+  },
+  "humidity-sensing": {
+   "formal": false,
+   "title": null
+  },
+  "hybrid-improper-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "hydrochromism": {
+   "formal": false,
+   "title": null
+  },
+  "hydrogel-swelling": {
+   "formal": false,
+   "title": null
+  },
+  "hydrogen-bond-saturation": {
+   "formal": false,
+   "title": null
+  },
+  "hydrogen-bond": {
+   "formal": false,
+   "title": null
+  },
+  "hydrostatic-pressure": {
+   "formal": false,
+   "title": null
+  },
+  "hydrothermal-synthesis": {
+   "formal": false,
+   "title": null
+  },
+  "hyper-ferroelectric-metal": {
+   "formal": false,
+   "title": null
+  },
+  "hyperbolic-scaling": {
+   "formal": false,
+   "title": null
+  },
+  "hyperferroelectrics": {
+   "formal": false,
+   "title": null
+  },
+  "hysteresis": {
+   "formal": false,
+   "title": null
+  },
+  "i-mxene": {
+   "formal": false,
+   "title": null
+  },
+  "icosahedral-cluster": {
+   "formal": false,
+   "title": null
+  },
+  "icosahedral-packing": {
+   "formal": false,
+   "title": null
+  },
+  "icosahedral-structure": {
+   "formal": false,
+   "title": null
+  },
+  "ict-mechanism": {
+   "formal": true,
+   "title": "分子内电荷转移机制 / ICT Mechanism"
+  },
+  "improper-electronic-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "improper-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "in-gap-ferroelectric-phase": {
+   "formal": false,
+   "title": null
+  },
+  "in-memory-computing": {
+   "formal": true,
+   "title": "存内计算 (In-Memory Computing)"
+  },
+  "in-plane-anisotropy": {
+   "formal": false,
+   "title": null
+  },
+  "in-plane-out-of-plane-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "incommensurate-cdw": {
+   "formal": false,
+   "title": null
+  },
+  "incommensurate-lattice-transition": {
+   "formal": false,
+   "title": null
+  },
+  "incommensurate-order": {
+   "formal": false,
+   "title": null
+  },
+  "incomplete-screening": {
+   "formal": false,
+   "title": null
+  },
+  "infrared-detection": {
+   "formal": false,
+   "title": null
+  },
+  "intensity-modulation": {
+   "formal": false,
+   "title": null
+  },
+  "intercalation-delamination": {
+   "formal": false,
+   "title": null
+  },
+  "intercalation-engineering": {
+   "formal": false,
+   "title": null
+  },
+  "intercalation-induced-symmetry-breaking": {
+   "formal": false,
+   "title": null
+  },
+  "intercalation": {
+   "formal": false,
+   "title": null
+  },
+  "interchain-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "interface-dipole": {
+   "formal": false,
+   "title": null
+  },
+  "interfacial-charge-rearrangement": {
+   "formal": false,
+   "title": null
+  },
+  "interlayer-bias": {
+   "formal": false,
+   "title": null
+  },
+  "interlayer-charge-transfer": {
+   "formal": false,
+   "title": null
+  },
+  "interlayer-coupling-gradient": {
+   "formal": false,
+   "title": null
+  },
+  "interlayer-coupling": {
+   "formal": true,
+   "title": "层间耦合 / Interlayer Coupling"
+  },
+  "interlayer-depolymerization": {
+   "formal": false,
+   "title": null
+  },
+  "interlayer-dipole-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "interlayer-magnetic-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "interlayer-phase-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "interlayer-polarization-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "interlayer-sliding": {
+   "formal": false,
+   "title": "interlayer-sliding"
+  },
+  "interlayer-stacking": {
+   "formal": false,
+   "title": null
+  },
+  "interlayer-translation": {
+   "formal": false,
+   "title": null
+  },
+  "interstitial-diffusion": {
+   "formal": false,
+   "title": null
+  },
+  "interstitial-exchange-mechanism": {
+   "formal": false,
+   "title": null
+  },
+  "intersystem-crossing": {
+   "formal": false,
+   "title": null
+  },
+  "intralayer-bonding": {
+   "formal": false,
+   "title": null
+  },
+  "intramolecular-charge-transfer": {
+   "formal": false,
+   "title": null
+  },
+  "inverse-dm-interaction": {
+   "formal": false,
+   "title": null
+  },
+  "inverse-dzyaloshinskii-moriya": {
+   "formal": false,
+   "title": null
+  },
+  "inverse-piezoelectric-effect": {
+   "formal": false,
+   "title": null
+  },
+  "inverse-rashba-edelstein-effect": {
+   "formal": false,
+   "title": null
+  },
+  "inversion-symmetry-breaking": {
+   "formal": false,
+   "title": null
+  },
+  "inversion-symmetry": {
+   "formal": false,
+   "title": null
+  },
+  "ionic-polar-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "ionic-radius-ratio-criterion": {
+   "formal": false,
+   "title": null
+  },
+  "ir-dimerization": {
+   "formal": false,
+   "title": null
+  },
+  "irreducible-wedge": {
+   "formal": false,
+   "title": null
+  },
+  "ising-model": {
+   "formal": false,
+   "title": null
+  },
+  "isostructural-doping": {
+   "formal": false,
+   "title": null
+  },
+  "iterative-diagonalization": {
+   "formal": false,
+   "title": null
+  },
+  "itinerant-ferromagnetism": {
+   "formal": false,
+   "title": null
+  },
+  "jahn-teller-distortion": {
+   "formal": false,
+   "title": null
+  },
+  "janus-mxene": {
+   "formal": false,
+   "title": null
+  },
+  "janus-structure": {
+   "formal": false,
+   "title": null
+  },
+  "jonscher-power-law": {
+   "formal": false,
+   "title": null
+  },
+  "k-deposition-doping": {
+   "formal": false,
+   "title": null
+  },
+  "k-point-sampling": {
+   "formal": false,
+   "title": null
+  },
+  "kagome-lattice": {
+   "formal": false,
+   "title": null
+  },
+  "kai-model": {
+   "formal": false,
+   "title": null
+  },
+  "kay-dunn-scaling": {
+   "formal": false,
+   "title": null
+  },
+  "KCl": {
+   "formal": false,
+   "title": null
+  },
+  "kelly-sidebands": {
+   "formal": false,
+   "title": null
+  },
+  "kerker-preconditioning": {
+   "formal": false,
+   "title": null
+  },
+  "kerr-effect": {
+   "formal": true,
+   "title": "克尔效应 / Kerr Effect"
+  },
+  "kinetic-magnetoelectric-effect": {
+   "formal": false,
+   "title": null
+  },
+  "kitaev-interaction": {
+   "formal": false,
+   "title": null
+  },
+  "kittel-law": {
+   "formal": false,
+   "title": null
+  },
+  "kittels-law": {
+   "formal": false,
+   "title": null
+  },
+  "knb-mechanism": {
+   "formal": false,
+   "title": null
+  },
+  "kohn-anomaly": {
+   "formal": true,
+   "title": "Kohn 异常 / Kohn Anomaly"
+  },
+  "kohn-sham": {
+   "formal": false,
+   "title": null
+  },
+  "kosterlitz-thouless-transition": {
+   "formal": false,
+   "title": null
+  },
+  "kosterlitz-thouless": {
+   "formal": false,
+   "title": null
+  },
+  "kpfm": {
+   "formal": false,
+   "title": null
+  },
+  "kubelka-munk-theory": {
+   "formal": false,
+   "title": null
+  },
+  "landau-double-well": {
+   "formal": false,
+   "title": null
+  },
+  "landau-free-energy": {
+   "formal": false,
+   "title": null
+  },
+  "landau-ginzburg": {
+   "formal": false,
+   "title": null
+  },
+  "landau-lifshitz-equation": {
+   "formal": false,
+   "title": null
+  },
+  "landau-quantization": {
+   "formal": false,
+   "title": null
+  },
+  "landau-theory": {
+   "formal": false,
+   "title": null
+  },
+  "landau-zener-transition": {
+   "formal": false,
+   "title": null
+  },
+  "lapw": {
+   "formal": false,
+   "title": null
+  },
+  "laser-bioprinting": {
+   "formal": false,
+   "title": null
+  },
+  "laser-damage-threshold": {
+   "formal": false,
+   "title": null
+  },
+  "latent-heat": {
+   "formal": false,
+   "title": null
+  },
+  "lateral-integration": {
+   "formal": false,
+   "title": null
+  },
+  "lattice-bias": {
+   "formal": false,
+   "title": null
+  },
+  "lattice-buckling": {
+   "formal": false,
+   "title": null
+  },
+  "layer-by-layer-self-assembly": {
+   "formal": false,
+   "title": null
+  },
+  "layer-by-layer-switching": {
+   "formal": false,
+   "title": null
+  },
+  "layer-polarized-spin-hall-effect": {
+   "formal": false,
+   "title": null
+  },
+  "layer-selective-switching": {
+   "formal": false,
+   "title": null
+  },
+  "lego-assembly": {
+   "formal": false,
+   "title": null
+  },
+  "lieb-oxford-bound": {
+   "formal": false,
+   "title": null
+  },
+  "lifshitz-transition": {
+   "formal": false,
+   "title": null
+  },
+  "lindhard-function": {
+   "formal": false,
+   "title": null
+  },
+  "linear-dichroism": {
+   "formal": false,
+   "title": null
+  },
+  "linear-response-u": {
+   "formal": false,
+   "title": null
+  },
+  "linear-response": {
+   "formal": false,
+   "title": null
+  },
+  "LiOsO3": {
+   "formal": false,
+   "title": null
+  },
+  "lippert-mataga": {
+   "formal": false,
+   "title": null
+  },
+  "liquid-crystal": {
+   "formal": false,
+   "title": null
+  },
+  "little-parks-oscillation": {
+   "formal": false,
+   "title": null
+  },
+  "llg-equation": {
+   "formal": false,
+   "title": null
+  },
+  "local-dielectric-environment": {
+   "formal": false,
+   "title": null
+  },
+  "local-excited-state": {
+   "formal": false,
+   "title": null
+  },
+  "local-field-effects": {
+   "formal": false,
+   "title": null
+  },
+  "local-spin-density-approximation": {
+   "formal": false,
+   "title": null
+  },
+  "localized-surface-plasmon-resonance": {
+   "formal": false,
+   "title": null
+  },
+  "locally-excited-state": {
+   "formal": false,
+   "title": null
+  },
+  "lock-in-detection": {
+   "formal": false,
+   "title": null
+  },
+  "london-penetration-depth": {
+   "formal": false,
+   "title": null
+  },
+  "lone-pair-driven-ferroelectricity": {
+   "formal": false,
+   "title": "lone-pair-driven-ferroelectricity"
+  },
+  "lone-pair-electrons": {
+   "formal": false,
+   "title": null
+  },
+  "lone-pair-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "lone-pair-mechanism": {
+   "formal": false,
+   "title": null
+  },
+  "longitudinal-transversal-expression": {
+   "formal": false,
+   "title": null
+  },
+  "lookup-table-calibration": {
+   "formal": false,
+   "title": null
+  },
+  "low-symmetry-lattice": {
+   "formal": false,
+   "title": null
+  },
+  "lower-hubbard-band": {
+   "formal": false,
+   "title": null
+  },
+  "lsda-plus-u": {
+   "formal": false,
+   "title": null
+  },
+  "LSMO": {
+   "formal": false,
+   "title": null
+  },
+  "machine-learning-potential": {
+   "formal": false,
+   "title": null
+  },
+  "magnetic-anisotropy-energy": {
+   "formal": false,
+   "title": null
+  },
+  "magnetic-anisotropy": {
+   "formal": true,
+   "title": "磁各向异性 / Magnetic Anisotropy"
+  },
+  "magnetic-domain": {
+   "formal": false,
+   "title": null
+  },
+  "magnetic-force-theory": {
+   "formal": false,
+   "title": null
+  },
+  "magnetic-frustration": {
+   "formal": false,
+   "title": null
+  },
+  "magnetic-monopole-quasiparticle": {
+   "formal": false,
+   "title": null
+  },
+  "magnetic-phase-transition": {
+   "formal": false,
+   "title": null
+  },
+  "magnetic-point-group": {
+   "formal": false,
+   "title": null
+  },
+  "magnetic-polar-metal": {
+   "formal": false,
+   "title": null
+  },
+  "magnetic-propagation-vector": {
+   "formal": false,
+   "title": null
+  },
+  "magnetic-skyrmion": {
+   "formal": false,
+   "title": null
+  },
+  "magnetic-tunnel-junction": {
+   "formal": false,
+   "title": null
+  },
+  "magnetically-induced-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "magnetism": {
+   "formal": false,
+   "title": null
+  },
+  "magneto-optical-electric-joint-measurement": {
+   "formal": false,
+   "title": null
+  },
+  "magneto-optical-kerr-effect": {
+   "formal": false,
+   "title": null
+  },
+  "magnetoelastic-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "magnetoelectric-coupling": {
+   "formal": true,
+   "title": "磁电耦合 / Magnetoelectric Coupling"
+  },
+  "magnetoelectric-multipoles": {
+   "formal": false,
+   "title": null
+  },
+  "magnetostatic-effect": {
+   "formal": false,
+   "title": null
+  },
+  "magnetron-sputtering": {
+   "formal": false,
+   "title": null
+  },
+  "magnon-hall-effect": {
+   "formal": true,
+   "title": "激磁子霍尔效应 / Magnon Hall Effect"
+  },
+  "magnon-phonon-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "majorana-fermion": {
+   "formal": true,
+   "title": "马约拉纳费米子 / Majorana Fermion"
+  },
+  "marginal-fermi-liquid": {
+   "formal": false,
+   "title": null
+  },
+  "mass-renormalization": {
+   "formal": false,
+   "title": null
+  },
+  "mass-transport": {
+   "formal": false,
+   "title": null
+  },
+  "mathieu-gauss-beams": {
+   "formal": false,
+   "title": null
+  },
+  "max-phase": {
+   "formal": false,
+   "title": null
+  },
+  "maxwell-wagner-polarization": {
+   "formal": false,
+   "title": null
+  },
+  "mbe-rheed": {
+   "formal": false,
+   "title": null
+  },
+  "mcmillan-ginzburg-landau-theory": {
+   "formal": false,
+   "title": null
+  },
+  "mechanical-anisotropy": {
+   "formal": false,
+   "title": null
+  },
+  "mechano-optical-conversion": {
+   "formal": false,
+   "title": null
+  },
+  "mechanochemical-synthesis": {
+   "formal": false,
+   "title": null
+  },
+  "mechanoluminescence": {
+   "formal": false,
+   "title": null
+  },
+  "memristor": {
+   "formal": true,
+   "title": "忆阻器 (Memristor)"
+  },
+  "mermin-wagner-theorem": {
+   "formal": false,
+   "title": null
+  },
+  "meron-antimeron": {
+   "formal": false,
+   "title": null
+  },
+  "meron": {
+   "formal": false,
+   "title": null
+  },
+  "mesoporous-metal-oxide": {
+   "formal": false,
+   "title": null
+  },
+  "metallic-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "metastability": {
+   "formal": false,
+   "title": null
+  },
+  "metastable-phase": {
+   "formal": false,
+   "title": null
+  },
+  "methfessel-paxton-smearing": {
+   "formal": true,
+   "title": "Methfessel-Paxton Smearing / Methfessel-Paxton 展宽"
+  },
+  "mexican-hat-pes": {
+   "formal": false,
+   "title": null
+  },
+  "micro-optics": {
+   "formal": false,
+   "title": null
+  },
+  "microcanonical-ensemble": {
+   "formal": false,
+   "title": null
+  },
+  "micromagnetic-simulation": {
+   "formal": false,
+   "title": null
+  },
+  "micromechanical-hinge": {
+   "formal": false,
+   "title": null
+  },
+  "micromolding-replication": {
+   "formal": false,
+   "title": null
+  },
+  "migdal-eliashberg-theory": {
+   "formal": false,
+   "title": null
+  },
+  "migdal-instability": {
+   "formal": false,
+   "title": null
+  },
+  "minimum-energy-path": {
+   "formal": false,
+   "title": null
+  },
+  "mirror-twin-boundary": {
+   "formal": false,
+   "title": null
+  },
+  "miscellaneous-concepts": {
+   "formal": false,
+   "title": "miscellaneous-concepts"
+  },
+  "mixed-metal-ordering": {
+   "formal": false,
+   "title": null
+  },
+  "mixed-stack": {
+   "formal": false,
+   "title": null
+  },
+  "mixed-valence": {
+   "formal": false,
+   "title": null
+  },
+  "mixing-index": {
+   "formal": false,
+   "title": null
+  },
+  "mlc-stt-ram": {
+   "formal": false,
+   "title": null
+  },
+  "modern-polarization-theory": {
+   "formal": false,
+   "title": null
+  },
+  "moems": {
+   "formal": false,
+   "title": null
+  },
+  "moire-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "moire-superlattice": {
+   "formal": false,
+   "title": null
+  },
+  "molecular-beam-epitaxy": {
+   "formal": false,
+   "title": null
+  },
+  "molecular-dynamics": {
+   "formal": false,
+   "title": null
+  },
+  "molecular-field": {
+   "formal": false,
+   "title": null
+  },
+  "monkhorst-pack-grid": {
+   "formal": true,
+   "title": "Monkhorst-Pack Grid / Monkhorst-Pack 网格"
+  },
+  "monolithic-integration": {
+   "formal": false,
+   "title": null
+  },
+  "morin-transition": {
+   "formal": false,
+   "title": null
+  },
+  "morphotropic-phase-boundary": {
+   "formal": false,
+   "title": null
+  },
+  "mott-insulator": {
+   "formal": true,
+   "title": "莫特绝缘体 / Mott Insulator"
+  },
+  "mulliken-population-analysis": {
+   "formal": false,
+   "title": null
+  },
+  "mulliken-population": {
+   "formal": false,
+   "title": null
+  },
+  "multiband-superconductivity": {
+   "formal": false,
+   "title": null
+  },
+  "multibeam-writing": {
+   "formal": false,
+   "title": null
+  },
+  "multiferroic-family-tree": {
+   "formal": false,
+   "title": null
+  },
+  "multiferroic-topological-soliton": {
+   "formal": false,
+   "title": null
+  },
+  "multiferroic-tunnel-junction": {
+   "formal": false,
+   "title": null
+  },
+  "multiferroic-tunneling-junction": {
+   "formal": false,
+   "title": null
+  },
+  "multiferroicity": {
+   "formal": true,
+   "title": "多铁性 / Multiferroicity"
+  },
+  "multipolar-chromophore": {
+   "formal": false,
+   "title": null
+  },
+  "multiscale-simulation": {
+   "formal": false,
+   "title": null
+  },
+  "multistate-memory": {
+   "formal": false,
+   "title": null
+  },
+  "muon-spin-rotation": {
+   "formal": false,
+   "title": null
+  },
+  "MXenes": {
+   "formal": false,
+   "title": null
+  },
+  "mxetronics": {
+   "formal": false,
+   "title": null
+  },
+  "n-p-type-semiconductor": {
+   "formal": false,
+   "title": null
+  },
+  "nanocomposite-resin": {
+   "formal": false,
+   "title": null
+  },
+  "nanostructured-metal-oxide": {
+   "formal": false,
+   "title": null
+  },
+  "nanowire-superlattice": {
+   "formal": false,
+   "title": null
+  },
+  "narrow-gap-semiconductor": {
+   "formal": false,
+   "title": null
+  },
+  "natural-optical-activity": {
+   "formal": false,
+   "title": null
+  },
+  "neb": {
+   "formal": false,
+   "title": null
+  },
+  "neel-temperature": {
+   "formal": true,
+   "title": "尼尔温度 / Néel Temperature"
+  },
+  "neel-vector": {
+   "formal": false,
+   "title": null
+  },
+  "negative-capacitance": {
+   "formal": false,
+   "title": null
+  },
+  "negative-piezoelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "negf-transport": {
+   "formal": false,
+   "title": null
+  },
+  "nematic-order": {
+   "formal": false,
+   "title": null
+  },
+  "neumann-wigner-noncrossing": {
+   "formal": false,
+   "title": null
+  },
+  "neumann-wigner-theorem": {
+   "formal": false,
+   "title": null
+  },
+  "neuromorphic-computing": {
+   "formal": true,
+   "title": "神经形态计算 (Neuromorphic Computing)"
+  },
+  "neutral-ionic-transition": {
+   "formal": false,
+   "title": null
+  },
+  "NiO": {
+   "formal": false,
+   "title": null
+  },
+  "nitrogen-doping": {
+   "formal": false,
+   "title": null
+  },
+  "non-abelian-statistics": {
+   "formal": false,
+   "title": "non-abelian-statistics"
+  },
+  "non-centrosymmetric": {
+   "formal": true,
+   "title": "非中心对称 / Non-centrosymmetric"
+  },
+  "non-collinear-magnetism": {
+   "formal": false,
+   "title": null
+  },
+  "non-nuclear-attractor": {
+   "formal": false,
+   "title": null
+  },
+  "non-stoichiometric-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "non-vdw-exfoliation": {
+   "formal": false,
+   "title": null
+  },
+  "non-volatile-memory": {
+   "formal": true,
+   "title": "非易失性存储器 (Non-Volatile Memory)"
+  },
+  "nondestructive-readout": {
+   "formal": false,
+   "title": null
+  },
+  "nondiffracting-beams": {
+   "formal": false,
+   "title": null
+  },
+  "nonequilibrium-greens-function": {
+   "formal": false,
+   "title": null
+  },
+  "nonlinear-absorption": {
+   "formal": false,
+   "title": null
+  },
+  "nonlinear-core-correction": {
+   "formal": false,
+   "title": null
+  },
+  "nonlinear-hall-effect": {
+   "formal": false,
+   "title": null
+  },
+  "nonlinear-optics": {
+   "formal": false,
+   "title": null
+  },
+  "nonreciprocal-directional-dichroism": {
+   "formal": false,
+   "title": null
+  },
+  "norm-conservation": {
+   "formal": false,
+   "title": null
+  },
+  "norm-conserving-pseudopotential": {
+   "formal": false,
+   "title": null
+  },
+  "nose-hoover-thermostat": {
+   "formal": false,
+   "title": null
+  },
+  "nose-thermostat": {
+   "formal": false,
+   "title": null
+  },
+  "npt-ensemble": {
+   "formal": false,
+   "title": null
+  },
+  "nucleation-and-growth": {
+   "formal": false,
+   "title": null
+  },
+  "nudged-elastic-band": {
+   "formal": false,
+   "title": null
+  },
+  "numerical-atomic-orbitals": {
+   "formal": false,
+   "title": null
+  },
+  "nv-center": {
+   "formal": false,
+   "title": null
+  },
+  "nvt-ensemble": {
+   "formal": false,
+   "title": null
+  },
+  "octahedral-coordination": {
+   "formal": false,
+   "title": null
+  },
+  "octahedral-crystal-field": {
+   "formal": false,
+   "title": null
+  },
+  "octahedral-rotation": {
+   "formal": false,
+   "title": null
+  },
+  "odd-even-effect": {
+   "formal": false,
+   "title": null
+  },
+  "odd-even-oscillation": {
+   "formal": false,
+   "title": null
+  },
+  "open-circuit-boundary-conditions": {
+   "formal": false,
+   "title": null
+  },
+  "optical-activity": {
+   "formal": true,
+   "title": "旋光性与光学活性 / Optical Activity"
+  },
+  "optical-band-gap": {
+   "formal": false,
+   "title": null
+  },
+  "optical-bandgap": {
+   "formal": false,
+   "title": null
+  },
+  "optical-conductivity": {
+   "formal": false,
+   "title": null
+  },
+  "optical-constants": {
+   "formal": false,
+   "title": null
+  },
+  "optical-coupling-efficiency": {
+   "formal": false,
+   "title": null
+  },
+  "optical-fiber-humidity-sensor": {
+   "formal": false,
+   "title": null
+  },
+  "optical-fiber-sensing": {
+   "formal": false,
+   "title": null
+  },
+  "optical-fiber-sensor": {
+   "formal": false,
+   "title": null
+  },
+  "optical-humidity-sensing": {
+   "formal": false,
+   "title": null
+  },
+  "optical-kerr-effect": {
+   "formal": false,
+   "title": null
+  },
+  "optical-lattice": {
+   "formal": false,
+   "title": null
+  },
+  "optical-power-variation": {
+   "formal": false,
+   "title": null
+  },
+  "optical-sensing": {
+   "formal": false,
+   "title": null
+  },
+  "optical-vortex": {
+   "formal": false,
+   "title": null
+  },
+  "optoelectronic-biosensor": {
+   "formal": true,
+   "title": "光电生物传感器 (Optoelectronic Biosensor)"
+  },
+  "optomechanical-phase-change": {
+   "formal": false,
+   "title": null
+  },
+  "orbital-angular-momentum": {
+   "formal": false,
+   "title": null
+  },
+  "orbital-content": {
+   "formal": false,
+   "title": null
+  },
+  "orbital-distortion": {
+   "formal": false,
+   "title": null
+  },
+  "orbital-selective-hybridization": {
+   "formal": false,
+   "title": null
+  },
+  "order-disorder-vs-displacive-transition": {
+   "formal": false,
+   "title": null
+  },
+  "order-parameter": {
+   "formal": false,
+   "title": null
+  },
+  "organic-afterglow": {
+   "formal": false,
+   "title": null
+  },
+  "orientation-variants": {
+   "formal": false,
+   "title": null
+  },
+  "out-of-plane-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "out-of-plane-polarization": {
+   "formal": false,
+   "title": null
+  },
+  "overlap-operator": {
+   "formal": false,
+   "title": null
+  },
+  "overpotential": {
+   "formal": false,
+   "title": null
+  },
+  "oxygen-evolution-reaction": {
+   "formal": false,
+   "title": null
+  },
+  "oxygen-octahedra-tilting": {
+   "formal": false,
+   "title": null
+  },
+  "oxygen-octahedron-rotation": {
+   "formal": false,
+   "title": null
+  },
+  "oxygen-reduction-reaction": {
+   "formal": false,
+   "title": null
+  },
+  "oxygen-vacancy-filament": {
+   "formal": false,
+   "title": null
+  },
+  "oxygen-vacancy": {
+   "formal": false,
+   "title": null
+  },
+  "p-d-hybridization": {
+   "formal": false,
+   "title": null
+  },
+  "p-orbital-magnetism": {
+   "formal": false,
+   "title": null
+  },
+  "p-type-doping": {
+   "formal": false,
+   "title": null
+  },
+  "p-type-semiconductor": {
+   "formal": false,
+   "title": null
+  },
+  "pair-analysis": {
+   "formal": false,
+   "title": null
+  },
+  "pair-correlation-function": {
+   "formal": false,
+   "title": null
+  },
+  "pair-density-wave": {
+   "formal": false,
+   "title": null
+  },
+  "pair-distribution-function": {
+   "formal": false,
+   "title": null
+  },
+  "parabolic-cylinder-functions": {
+   "formal": false,
+   "title": null
+  },
+  "paraelectric-ferroelectric-transition": {
+   "formal": false,
+   "title": null
+  },
+  "partial-dislocation": {
+   "formal": false,
+   "title": null
+  },
+  "particle-coalescence": {
+   "formal": false,
+   "title": null
+  },
+  "pauli-paramagnetic-effect": {
+   "formal": false,
+   "title": null
+  },
+  "paw-method": {
+   "formal": true,
+   "title": "投影增强波法 / Projector Augmented-Wave Method (PAW)"
+  },
+  "pbe-functional": {
+   "formal": false,
+   "title": null
+  },
+  "PbSnTe": {
+   "formal": false,
+   "title": null
+  },
+  "pcm-dram-hybrid-memory": {
+   "formal": false,
+   "title": null
+  },
+  "pe-hysteresis-loop": {
+   "formal": false,
+   "title": null
+  },
+  "peem": {
+   "formal": false,
+   "title": null
+  },
+  "peierls-dimerization": {
+   "formal": false,
+   "title": null
+  },
+  "peierls-distortion": {
+   "formal": false,
+   "title": null
+  },
+  "peierls-framework": {
+   "formal": false,
+   "title": null
+  },
+  "peierls-instability": {
+   "formal": true,
+   "title": "派尔斯不稳定性 / Peierls Instability"
+  },
+  "peierls-transition": {
+   "formal": false,
+   "title": null
+  },
+  "penetration-depth": {
+   "formal": false,
+   "title": null
+  },
+  "penn-model": {
+   "formal": false,
+   "title": null
+  },
+  "periodic-lattice-distortion": {
+   "formal": true,
+   "title": "周期性晶格畸变 / Periodic Lattice Distortion (PLD)"
+  },
+  "perpendicular-magnetic-anisotropy": {
+   "formal": false,
+   "title": null
+  },
+  "persistent-luminescence": {
+   "formal": false,
+   "title": null
+  },
+  "persistent-mechanoluminescence": {
+   "formal": false,
+   "title": null
+  },
+  "pfm-piezoresponse-force-microscopy": {
+   "formal": false,
+   "title": null
+  },
+  "phase-boundary": {
+   "formal": false,
+   "title": null
+  },
+  "phase-change-memory": {
+   "formal": false,
+   "title": null
+  },
+  "phase-change-type-ferroelectrics": {
+   "formal": false,
+   "title": null
+  },
+  "phase-field-modeling": {
+   "formal": false,
+   "title": null
+  },
+  "phase-interference": {
+   "formal": false,
+   "title": null
+  },
+  "phase-interlocked": {
+   "formal": false,
+   "title": null
+  },
+  "phase-modulation": {
+   "formal": false,
+   "title": null
+  },
+  "phase-plate": {
+   "formal": false,
+   "title": null
+  },
+  "phase-transition-2h-1tp": {
+   "formal": false,
+   "title": null
+  },
+  "phase-transition": {
+   "formal": false,
+   "title": null
+  },
+  "phonon-self-energy": {
+   "formal": false,
+   "title": null
+  },
+  "phonon-soft-mode": {
+   "formal": false,
+   "title": null
+  },
+  "phonon-stability": {
+   "formal": false,
+   "title": null
+  },
+  "phosphorescence-decay": {
+   "formal": false,
+   "title": null
+  },
+  "phosphorescence": {
+   "formal": false,
+   "title": null
+  },
+  "photoconductivity": {
+   "formal": false,
+   "title": null
+  },
+  "photoinduced-electron-transfer": {
+   "formal": false,
+   "title": null
+  },
+  "photoinitiation": {
+   "formal": false,
+   "title": null
+  },
+  "photoinitiator": {
+   "formal": false,
+   "title": null
+  },
+  "photoluminescence-mapping": {
+   "formal": false,
+   "title": null
+  },
+  "photoluminescence": {
+   "formal": true,
+   "title": "光致发光 / Photoluminescence (PL)"
+  },
+  "photopolymerization": {
+   "formal": false,
+   "title": null
+  },
+  "photoresponsivity": {
+   "formal": false,
+   "title": null
+  },
+  "photothermal-effect": {
+   "formal": false,
+   "title": null
+  },
+  "piezo-electric-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "piezoelectric-detrapping-model": {
+   "formal": false,
+   "title": null
+  },
+  "piezoelectric-response": {
+   "formal": false,
+   "title": null
+  },
+  "piezoelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "piezoresistive-effect": {
+   "formal": false,
+   "title": null
+  },
+  "piezoresponse-force-microscopy": {
+   "formal": false,
+   "title": null
+  },
+  "pl-quenching": {
+   "formal": true,
+   "title": "荧光猝灭 / PL Quenching"
+  },
+  "plane-wave-basis": {
+   "formal": true,
+   "title": "Plane-Wave Basis / 平面波基组"
+  },
+  "plasmon-pole-model": {
+   "formal": false,
+   "title": null
+  },
+  "plasmonics": {
+   "formal": false,
+   "title": null
+  },
+  "pocket-density-wave": {
+   "formal": false,
+   "title": null
+  },
+  "poincare-hopf-theorem": {
+   "formal": false,
+   "title": null
+  },
+  "point-charge-model": {
+   "formal": false,
+   "title": null
+  },
+  "poisson-contraction": {
+   "formal": false,
+   "title": null
+  },
+  "polar-metal": {
+   "formal": false,
+   "title": null
+  },
+  "polar-nano-regions": {
+   "formal": false,
+   "title": null
+  },
+  "polar-skyrmion": {
+   "formal": false,
+   "title": null
+  },
+  "polar-vortex": {
+   "formal": false,
+   "title": null
+  },
+  "polar-vortices": {
+   "formal": false,
+   "title": null
+  },
+  "polarizability-matrix": {
+   "formal": false,
+   "title": null
+  },
+  "polarization-multistates": {
+   "formal": false,
+   "title": null
+  },
+  "polarization-phase-diagram": {
+   "formal": false,
+   "title": null
+  },
+  "polarization-quantum": {
+   "formal": false,
+   "title": null
+  },
+  "polarization-registry-index": {
+   "formal": false,
+   "title": null
+  },
+  "polarization-switching": {
+   "formal": true,
+   "title": "极化翻转 / Polarization Switching"
+  },
+  "polarization-waves": {
+   "formal": false,
+   "title": null
+  },
+  "polycrystalline-ferroelectrics": {
+   "formal": false,
+   "title": null
+  },
+  "polymer-phase-separation": {
+   "formal": false,
+   "title": null
+  },
+  "polymorphic-phase-transition": {
+   "formal": false,
+   "title": null
+  },
+  "polymorphism": {
+   "formal": false,
+   "title": null
+  },
+  "polytypism": {
+   "formal": false,
+   "title": null
+  },
+  "potential-determining-step": {
+   "formal": false,
+   "title": null
+  },
+  "potential-energy-surface": {
+   "formal": false,
+   "title": null
+  },
+  "power-law-statistics": {
+   "formal": false,
+   "title": null
+  },
+  "preformed-excitons": {
+   "formal": false,
+   "title": null
+  },
+  "pressure-tuning": {
+   "formal": false,
+   "title": null
+  },
+  "prevascularization": {
+   "formal": false,
+   "title": null
+  },
+  "processing-structure-property-relation": {
+   "formal": false,
+   "title": null
+  },
+  "projector-augmented-wave": {
+   "formal": true,
+   "title": "Projector-Augmented Wave / 投影增强波方法 (PAW)"
+  },
+  "projector-functions": {
+   "formal": false,
+   "title": null
+  },
+  "propagation-invariance": {
+   "formal": false,
+   "title": null
+  },
+  "proper-screw": {
+   "formal": false,
+   "title": null
+  },
+  "proximity-effect": {
+   "formal": false,
+   "title": null
+  },
+  "pseudo-gap": {
+   "formal": false,
+   "title": null
+  },
+  "pseudogap": {
+   "formal": true,
+   "title": "赝能隙 / Pseudogap"
+  },
+  "pseudomagnetic-field": {
+   "formal": false,
+   "title": null
+  },
+  "pseudopotential": {
+   "formal": false,
+   "title": null
+  },
+  "puckered-pentagonal-structure": {
+   "formal": false,
+   "title": null
+  },
+  "pulay-force": {
+   "formal": false,
+   "title": null
+  },
+  "pulay-mixing": {
+   "formal": true,
+   "title": "Pulay Mixing / Pulay 混合 (DIIS)"
+  },
+  "pump-probe-technique": {
+   "formal": false,
+   "title": null
+  },
+  "pump-probe": {
+   "formal": true,
+   "title": "泵浦-探测技术 / Pump-Probe"
+  },
+  "push-pull-chromophore": {
+   "formal": false,
+   "title": null
+  },
+  "pw91-functional": {
+   "formal": false,
+   "title": null
+  },
+  "pyroelectric-effect": {
+   "formal": false,
+   "title": null
+  },
+  "quadrature-phase": {
+   "formal": false,
+   "title": null
+  },
+  "quadrupole-insulator": {
+   "formal": true,
+   "title": "四极矩绝缘体 / Quadrupole Insulator"
+  },
+  "quality-factor": {
+   "formal": false,
+   "title": null
+  },
+  "quantum-anomalous-hall-effect": {
+   "formal": false,
+   "title": null
+  },
+  "quantum-critical-point": {
+   "formal": false,
+   "title": null
+  },
+  "quantum-efficiency": {
+   "formal": false,
+   "title": null
+  },
+  "quantum-optics": {
+   "formal": false,
+   "title": null
+  },
+  "quantum-phase-transition": {
+   "formal": false,
+   "title": null
+  },
+  "quantum-spin-hall-effect": {
+   "formal": true,
+   "title": "量子自旋霍尔效应 / Quantum Spin Hall Effect (QSHE)"
+  },
+  "quantum-spin-hall": {
+   "formal": false,
+   "title": null
+  },
+  "quantum-transport": {
+   "formal": false,
+   "title": null
+  },
+  "quantum-tunneling": {
+   "formal": false,
+   "title": null
+  },
+  "quasi-freestanding-monolayer": {
+   "formal": false,
+   "title": null
+  },
+  "quasiparticle-energy": {
+   "formal": false,
+   "title": null
+  },
+  "quasiparticle-interference": {
+   "formal": false,
+   "title": null
+  },
+  "quintuple-layer": {
+   "formal": false,
+   "title": null
+  },
+  "racetrack-memory": {
+   "formal": false,
+   "title": null
+  },
+  "radial-distribution-function": {
+   "formal": false,
+   "title": null
+  },
+  "radiation-induced-defects": {
+   "formal": false,
+   "title": null
+  },
+  "radical-cation": {
+   "formal": false,
+   "title": null
+  },
+  "raman-optical-activity": {
+   "formal": false,
+   "title": null
+  },
+  "raman-scattering": {
+   "formal": true,
+   "title": "拉曼散射 / Raman Scattering"
+  },
+  "raman-strain-splitting": {
+   "formal": false,
+   "title": null
+  },
+  "random-phase-approximation": {
+   "formal": false,
+   "title": null
+  },
+  "rapid-prototyping": {
+   "formal": false,
+   "title": null
+  },
+  "rare-earth-doped-gan": {
+   "formal": false,
+   "title": null
+  },
+  "rare-earth-doping": {
+   "formal": false,
+   "title": null
+  },
+  "rare-events": {
+   "formal": false,
+   "title": null
+  },
+  "rashba-effect": {
+   "formal": true,
+   "title": "Rashba 效应 / Rashba Effect"
+  },
+  "rashba-spin-texture": {
+   "formal": false,
+   "title": null
+  },
+  "rayleigh-range": {
+   "formal": false,
+   "title": null
+  },
+  "re-bonding-mechanism": {
+   "formal": false,
+   "title": null
+  },
+  "reabsorption": {
+   "formal": false,
+   "title": null
+  },
+  "real-space-energy-decomposition": {
+   "formal": false,
+   "title": null
+  },
+  "reciprocal-relrod": {
+   "formal": false,
+   "title": null
+  },
+  "reciprocal-space-map": {
+   "formal": false,
+   "title": null
+  },
+  "reconstructed-nesting": {
+   "formal": false,
+   "title": null
+  },
+  "redox-potential": {
+   "formal": false,
+   "title": null
+  },
+  "reflective-filter": {
+   "formal": false,
+   "title": null
+  },
+  "refractive-index-modulation": {
+   "formal": false,
+   "title": null
+  },
+  "refractive-index-sensing": {
+   "formal": false,
+   "title": null
+  },
+  "refractive-index": {
+   "formal": false,
+   "title": null
+  },
+  "regenerative-medicine": {
+   "formal": false,
+   "title": null
+  },
+  "relative-differentiation-of-attenuation": {
+   "formal": false,
+   "title": null
+  },
+  "relative-humidity": {
+   "formal": false,
+   "title": null
+  },
+  "relaxation-time": {
+   "formal": false,
+   "title": "relaxation-time"
+  },
+  "remanent-polarization": {
+   "formal": false,
+   "title": null
+  },
+  "residual-entropy": {
+   "formal": false,
+   "title": null
+  },
+  "resistive-sensor": {
+   "formal": false,
+   "title": null
+  },
+  "resistive-switching-memory": {
+   "formal": false,
+   "title": null
+  },
+  "resistive-switching": {
+   "formal": true,
+   "title": "阻变 (Resistive Switching)"
+  },
+  "resonant-differential-pdf": {
+   "formal": false,
+   "title": null
+  },
+  "resonant-tunneling": {
+   "formal": false,
+   "title": null
+  },
+  "resonant-underbarrier-interaction": {
+   "formal": false,
+   "title": null
+  },
+  "reverse-monte-carlo": {
+   "formal": false,
+   "title": null
+  },
+  "rigid-band-approximation": {
+   "formal": false,
+   "title": null
+  },
+  "ripple-engineering": {
+   "formal": false,
+   "title": null
+  },
+  "ripples": {
+   "formal": false,
+   "title": null
+  },
+  "ripplocation": {
+   "formal": false,
+   "title": null
+  },
+  "rmm-diis": {
+   "formal": true,
+   "title": "RMM-DIIS / 残差最小化-迭代子空间直接反演"
+  },
+  "rotational-symmetry-breaking": {
+   "formal": false,
+   "title": null
+  },
+  "sabatier-principle": {
+   "formal": false,
+   "title": null
+  },
+  "saddle-point-scattering": {
+   "formal": false,
+   "title": null
+  },
+  "saddle-point": {
+   "formal": false,
+   "title": null
+  },
+  "salen-ligand": {
+   "formal": false,
+   "title": null
+  },
+  "saturable-absorber": {
+   "formal": false,
+   "title": null
+  },
+  "saturable-absorption": {
+   "formal": false,
+   "title": null
+  },
+  "sc2co2": {
+   "formal": false,
+   "title": null
+  },
+  "Sc2P2Se6": {
+   "formal": false,
+   "title": null
+  },
+  "scaffold": {
+   "formal": false,
+   "title": null
+  },
+  "scale-invariance": {
+   "formal": false,
+   "title": null
+  },
+  "scanning-electron-diffraction": {
+   "formal": false,
+   "title": null
+  },
+  "scanning-tunneling-microscopy": {
+   "formal": false,
+   "title": null
+  },
+  "ScCrP2Se6": {
+   "formal": false,
+   "title": null
+  },
+  "scherrer-broadening": {
+   "formal": false,
+   "title": null
+  },
+  "scherrer-equation": {
+   "formal": false,
+   "title": null
+  },
+  "schottky-barrier": {
+   "formal": false,
+   "title": null
+  },
+  "schottky-junction": {
+   "formal": false,
+   "title": null
+  },
+  "screening-charge-integration": {
+   "formal": false,
+   "title": null
+  },
+  "screening-effect": {
+   "formal": true,
+   "title": "屏蔽效应 (Screening Effect)"
+  },
+  "screening-length": {
+   "formal": false,
+   "title": null
+  },
+  "second-harmonic-generation": {
+   "formal": true,
+   "title": "二次谐波产生 / Second-Harmonic Generation (SHG)"
+  },
+  "second-principles-calculations": {
+   "formal": false,
+   "title": null
+  },
+  "second-principles": {
+   "formal": false,
+   "title": null
+  },
+  "selective-charge-transfer": {
+   "formal": false,
+   "title": null
+  },
+  "selective-etching": {
+   "formal": false,
+   "title": null
+  },
+  "self-consistent-field-cycle": {
+   "formal": true,
+   "title": "Self-Consistent Field Cycle / 自洽场循环 (SCF)"
+  },
+  "self-consistent-field": {
+   "formal": false,
+   "title": null
+  },
+  "self-energy": {
+   "formal": false,
+   "title": null
+  },
+  "self-healing-beam": {
+   "formal": false,
+   "title": null
+  },
+  "self-interaction-error": {
+   "formal": false,
+   "title": null
+  },
+  "self-trapping": {
+   "formal": false,
+   "title": null
+  },
+  "sensor-electrode-configuration": {
+   "formal": false,
+   "title": null
+  },
+  "shape-memory-effect": {
+   "formal": false,
+   "title": null
+  },
+  "shear-phonon-mode": {
+   "formal": false,
+   "title": null
+  },
+  "shear-strain": {
+   "formal": false,
+   "title": null
+  },
+  "shg-strain-mapping": {
+   "formal": false,
+   "title": null
+  },
+  "shockley-queisser-limit": {
+   "formal": false,
+   "title": null
+  },
+  "short-circuit-boundary": {
+   "formal": false,
+   "title": null
+  },
+  "shrinkage": {
+   "formal": false,
+   "title": null
+  },
+  "single-photon-emitter": {
+   "formal": false,
+   "title": null
+  },
+  "sintering": {
+   "formal": false,
+   "title": null
+  },
+  "size-dependent-melting": {
+   "formal": false,
+   "title": null
+  },
+  "size-effect": {
+   "formal": false,
+   "title": null
+  },
+  "skin-depth": {
+   "formal": false,
+   "title": null
+  },
+  "skyrmion-hall-effect": {
+   "formal": false,
+   "title": null
+  },
+  "skyrmion": {
+   "formal": true,
+   "title": "斯格明子 / Skyrmion"
+  },
+  "skyrmions": {
+   "formal": false,
+   "title": null
+  },
+  "slab-model": {
+   "formal": false,
+   "title": null
+  },
+  "slide-electronics": {
+   "formal": false,
+   "title": null
+  },
+  "slidetronics": {
+   "formal": true,
+   "title": null
+  },
+  "sliding-ferroelectricity": {
+   "formal": true,
+   "title": "滑动铁电性 / Sliding Ferroelectricity"
+  },
+  "sliding-phonon-mode": {
+   "formal": false,
+   "title": null
+  },
+  "sneak-path-current": {
+   "formal": false,
+   "title": null
+  },
+  "soft-impingement": {
+   "formal": false,
+   "title": null
+  },
+  "soft-lithography": {
+   "formal": false,
+   "title": null
+  },
+  "soft-mode-phonon": {
+   "formal": false,
+   "title": null
+  },
+  "soft-mode-theory": {
+   "formal": false,
+   "title": null
+  },
+  "soft-mode": {
+   "formal": false,
+   "title": null
+  },
+  "soft-phonon-mode": {
+   "formal": false,
+   "title": null
+  },
+  "sol-gel-method": {
+   "formal": false,
+   "title": null
+  },
+  "solid-solution": {
+   "formal": false,
+   "title": null
+  },
+  "solid-state-lighting": {
+   "formal": false,
+   "title": null
+  },
+  "solid-state-phase-transformation": {
+   "formal": false,
+   "title": null
+  },
+  "solomon-ring": {
+   "formal": false,
+   "title": null
+  },
+  "solute-redistribution": {
+   "formal": false,
+   "title": null
+  },
+  "solvatochromism": {
+   "formal": true,
+   "title": "溶剂化显色 / Solvatochromism"
+  },
+  "solvent-polarity-scales": {
+   "formal": false,
+   "title": null
+  },
+  "solvent-relaxation": {
+   "formal": false,
+   "title": null
+  },
+  "sommerfeld-potential": {
+   "formal": false,
+   "title": null
+  },
+  "sonochemical-exfoliation": {
+   "formal": false,
+   "title": null
+  },
+  "sp2-sp3-hybridization": {
+   "formal": false,
+   "title": null
+  },
+  "space-charge-limited-current": {
+   "formal": false,
+   "title": null
+  },
+  "spatial-filtering": {
+   "formal": false,
+   "title": null
+  },
+  "special-points": {
+   "formal": false,
+   "title": null
+  },
+  "spectral-representation-hilbert-transform": {
+   "formal": false,
+   "title": null
+  },
+  "spherical-aberration": {
+   "formal": false,
+   "title": null
+  },
+  "spin-charge-density-wave": {
+   "formal": false,
+   "title": null
+  },
+  "spin-current": {
+   "formal": true,
+   "title": "自旋流 / Spin Current"
+  },
+  "spin-cycloid": {
+   "formal": false,
+   "title": null
+  },
+  "spin-density-wave": {
+   "formal": false,
+   "title": null
+  },
+  "spin-dipole-valley-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "spin-driven-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "spin-field-effect-transistor": {
+   "formal": false,
+   "title": null
+  },
+  "spin-filtering": {
+   "formal": false,
+   "title": null
+  },
+  "spin-flop": {
+   "formal": false,
+   "title": null
+  },
+  "spin-hall-effect": {
+   "formal": false,
+   "title": null
+  },
+  "spin-helix": {
+   "formal": false,
+   "title": null
+  },
+  "spin-injection": {
+   "formal": false,
+   "title": null
+  },
+  "spin-lattice-charge-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "spin-logic-device": {
+   "formal": false,
+   "title": null
+  },
+  "spin-orbit-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "spin-peierls": {
+   "formal": false,
+   "title": null
+  },
+  "spin-relaxation": {
+   "formal": false,
+   "title": null
+  },
+  "spin-spiral-multiferroics": {
+   "formal": false,
+   "title": null
+  },
+  "spin-spiral": {
+   "formal": true,
+   "title": "螺旋磁序 / Spin Spiral"
+  },
+  "spin-texture": {
+   "formal": true,
+   "title": null
+  },
+  "spin-transfer-torque": {
+   "formal": false,
+   "title": null
+  },
+  "spin-transport": {
+   "formal": false,
+   "title": null
+  },
+  "spin-valve": {
+   "formal": false,
+   "title": null
+  },
+  "spin-wave-logic": {
+   "formal": false,
+   "title": null
+  },
+  "spin-wave": {
+   "formal": false,
+   "title": null
+  },
+  "spiral-magnetic-order": {
+   "formal": false,
+   "title": null
+  },
+  "spiral-magnetism": {
+   "formal": false,
+   "title": null
+  },
+  "spiral-spin-structure": {
+   "formal": false,
+   "title": null
+  },
+  "spontaneous-parametric-down-conversion": {
+   "formal": false,
+   "title": null
+  },
+  "spontaneous-polarization": {
+   "formal": false,
+   "title": null
+  },
+  "spontaneous-strain": {
+   "formal": false,
+   "title": null
+  },
+  "SrAl2O4-Eu": {
+   "formal": false,
+   "title": null
+  },
+  "ss-pfm": {
+   "formal": false,
+   "title": null
+  },
+  "sscha": {
+   "formal": false,
+   "title": null
+  },
+  "stack-engineering": {
+   "formal": false,
+   "title": null
+  },
+  "stacking-engineered-ferroelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "stacking-engineering": {
+   "formal": false,
+   "title": null
+  },
+  "stacking-sequence-engineering": {
+   "formal": false,
+   "title": null
+  },
+  "staggered-vorticity": {
+   "formal": false,
+   "title": null
+  },
+  "staggered-zeeman-field": {
+   "formal": false,
+   "title": null
+  },
+  "staircase-effect": {
+   "formal": false,
+   "title": null
+  },
+  "star-function": {
+   "formal": false,
+   "title": null
+  },
+  "star-of-david-cluster": {
+   "formal": false,
+   "title": null
+  },
+  "star-of-david": {
+   "formal": false,
+   "title": null
+  },
+  "statistical-mechanics": {
+   "formal": false,
+   "title": null
+  },
+  "steady-state-rate-equations": {
+   "formal": false,
+   "title": null
+  },
+  "steepest-ascent-path": {
+   "formal": false,
+   "title": null
+  },
+  "steepest-ascent": {
+   "formal": false,
+   "title": null
+  },
+  "stereochemically-active-lone-pair": {
+   "formal": false,
+   "title": null
+  },
+  "stereolithography": {
+   "formal": false,
+   "title": null
+  },
+  "stitching": {
+   "formal": false,
+   "title": null
+  },
+  "stm-topography": {
+   "formal": false,
+   "title": null
+  },
+  "stokes-shift": {
+   "formal": true,
+   "title": "斯托克斯位移 / Stokes Shift"
+  },
+  "stoner-criterion": {
+   "formal": false,
+   "title": null
+  },
+  "stoner-ferromagnetism": {
+   "formal": false,
+   "title": null
+  },
+  "stoner-model": {
+   "formal": false,
+   "title": null
+  },
+  "strain-engineering": {
+   "formal": false,
+   "title": null
+  },
+  "strain-mediated-magnetoelectric-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "strain-relaxation": {
+   "formal": false,
+   "title": null
+  },
+  "straintronics": {
+   "formal": false,
+   "title": null
+  },
+  "stress-strain-relation": {
+   "formal": false,
+   "title": null
+  },
+  "strong-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "structural-distortion-index": {
+   "formal": false,
+   "title": null
+  },
+  "structural-phase-transition": {
+   "formal": false,
+   "title": null
+  },
+  "stt-ram": {
+   "formal": false,
+   "title": null
+  },
+  "sublattice-decoupling": {
+   "formal": false,
+   "title": null
+  },
+  "submicron-resolution": {
+   "formal": false,
+   "title": null
+  },
+  "subspace-alignment": {
+   "formal": false,
+   "title": null
+  },
+  "subspace-rotation": {
+   "formal": false,
+   "title": null
+  },
+  "substrate-effect": {
+   "formal": false,
+   "title": null
+  },
+  "substrate-hybridization": {
+   "formal": false,
+   "title": null
+  },
+  "super-element-approximation": {
+   "formal": false,
+   "title": null
+  },
+  "super-paraelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "superconducting-dome": {
+   "formal": false,
+   "title": null
+  },
+  "superconducting-percolation": {
+   "formal": false,
+   "title": null
+  },
+  "superconductivity": {
+   "formal": false,
+   "title": null
+  },
+  "superexchange-goodenough-kanamori": {
+   "formal": false,
+   "title": null
+  },
+  "superexchange": {
+   "formal": false,
+   "title": null
+  },
+  "superfluid-density": {
+   "formal": false,
+   "title": null
+  },
+  "superlattice": {
+   "formal": false,
+   "title": null
+  },
+  "supersuperexchange": {
+   "formal": false,
+   "title": null
+  },
+  "surface-functionalization": {
+   "formal": false,
+   "title": null
+  },
+  "surface-morphology": {
+   "formal": false,
+   "title": null
+  },
+  "surface-plasmon-resonance": {
+   "formal": true,
+   "title": "表面等离子体共振 / Surface Plasmon Resonance (SPR)"
+  },
+  "surface-premelting": {
+   "formal": false,
+   "title": null
+  },
+  "surface-reconstruction": {
+   "formal": false,
+   "title": null
+  },
+  "surface-state": {
+   "formal": true,
+   "title": "表面态 / Surface State"
+  },
+  "surface-termination": {
+   "formal": false,
+   "title": null
+  },
+  "surface-terminations-tx": {
+   "formal": false,
+   "title": null
+  },
+  "surface-terminations": {
+   "formal": false,
+   "title": null
+  },
+  "switchable-diode": {
+   "formal": false,
+   "title": null
+  },
+  "switching-barrier": {
+   "formal": false,
+   "title": null
+  },
+  "symmetry-analysis": {
+   "formal": false,
+   "title": null
+  },
+  "synaptic-plasticity": {
+   "formal": true,
+   "title": "突触可塑性 (Synaptic Plasticity)"
+  },
+  "synaptic-weight": {
+   "formal": true,
+   "title": "突触权重 (Synaptic Weight)"
+  },
+  "t-matrix-impurity-scattering": {
+   "formal": false,
+   "title": null
+  },
+  "ta-sublattice-3d-periodicity": {
+   "formal": false,
+   "title": null
+  },
+  "tauc-plot": {
+   "formal": false,
+   "title": null
+  },
+  "TbMnO3": {
+   "formal": false,
+   "title": null
+  },
+  "temperature-compensation": {
+   "formal": false,
+   "title": null
+  },
+  "tetrathiafulvalene": {
+   "formal": false,
+   "title": null
+  },
+  "thermal-lens-effect": {
+   "formal": false,
+   "title": null
+  },
+  "thermal-regeneration": {
+   "formal": false,
+   "title": null
+  },
+  "thermo-solvatochromism": {
+   "formal": false,
+   "title": null
+  },
+  "thermochromism": {
+   "formal": true,
+   "title": "热致变色 / Thermochromism"
+  },
+  "thermoelectricity": {
+   "formal": false,
+   "title": null
+  },
+  "thermoluminescence": {
+   "formal": false,
+   "title": null
+  },
+  "thermostat": {
+   "formal": false,
+   "title": null
+  },
+  "thiele-equation": {
+   "formal": false,
+   "title": null
+  },
+  "three-orbital-model": {
+   "formal": false,
+   "title": null
+  },
+  "threshold-effect": {
+   "formal": false,
+   "title": null
+  },
+  "through-space-charge-transport": {
+   "formal": false,
+   "title": null
+  },
+  "ti3c2tx": {
+   "formal": false,
+   "title": null
+  },
+  "tict-mechanism": {
+   "formal": true,
+   "title": "扭曲分子内电荷转移机制 / TICT Mechanism"
+  },
+  "tight-binding": {
+   "formal": false,
+   "title": null
+  },
+  "time-bandwidth-product": {
+   "formal": false,
+   "title": null
+  },
+  "time-correlation": {
+   "formal": false,
+   "title": null
+  },
+  "time-resolved-spectroscopy": {
+   "formal": false,
+   "title": null
+  },
+  "time-reversal-symmetry": {
+   "formal": true,
+   "title": "时间反演对称性 / Time-Reversal Symmetry"
+  },
+  "tip-induced-phase-transition": {
+   "formal": false,
+   "title": null
+  },
+  "tissue-engineering": {
+   "formal": false,
+   "title": null
+  },
+  "tolerance-factor": {
+   "formal": false,
+   "title": null
+  },
+  "tomonaga-luttinger-liquid": {
+   "formal": false,
+   "title": null
+  },
+  "topochemical-reaction": {
+   "formal": false,
+   "title": null
+  },
+  "topological-charge": {
+   "formal": true,
+   "title": "拓扑荷 / Topological Charge"
+  },
+  "topological-crystalline-insulator": {
+   "formal": false,
+   "title": null
+  },
+  "topological-defects": {
+   "formal": false,
+   "title": null
+  },
+  "topological-insulator": {
+   "formal": true,
+   "title": "拓扑绝缘体 / Topological Insulator (TI)"
+  },
+  "topological-magnon": {
+   "formal": true,
+   "title": "拓扑激磁子 / Topological Magnon"
+  },
+  "topological-polarization": {
+   "formal": false,
+   "title": null
+  },
+  "topological-spin-texture": {
+   "formal": false,
+   "title": null
+  },
+  "topological-superconductor": {
+   "formal": true,
+   "title": "拓扑超导体 / Topological Superconductor (TSC)"
+  },
+  "topological-vs-trivial-interface": {
+   "formal": false,
+   "title": null
+  },
+  "topotactic-reaction": {
+   "formal": false,
+   "title": null
+  },
+  "toroidal-moment": {
+   "formal": false,
+   "title": null
+  },
+  "trans-cleavage": {
+   "formal": false,
+   "title": null
+  },
+  "transformation-strain": {
+   "formal": false,
+   "title": null
+  },
+  "transition-metal-phosphorus-trichalcogenides": {
+   "formal": false,
+   "title": null
+  },
+  "transition-metal-thiophosphate": {
+   "formal": false,
+   "title": null
+  },
+  "transition-state-theory": {
+   "formal": false,
+   "title": null
+  },
+  "transparent-ceramics": {
+   "formal": false,
+   "title": null
+  },
+  "trap-depletion": {
+   "formal": false,
+   "title": null
+  },
+  "trap-depth-electron-detrapping": {
+   "formal": false,
+   "title": null
+  },
+  "trap-depth": {
+   "formal": false,
+   "title": null
+  },
+  "trap-levels": {
+   "formal": false,
+   "title": null
+  },
+  "triboluminescence": {
+   "formal": false,
+   "title": null
+  },
+  "triferroics": {
+   "formal": false,
+   "title": null
+  },
+  "trigonal-prismatic-coordination": {
+   "formal": false,
+   "title": null
+  },
+  "trimerization": {
+   "formal": false,
+   "title": null
+  },
+  "triple-fluorescence": {
+   "formal": false,
+   "title": null
+  },
+  "tt-structure": {
+   "formal": false,
+   "title": null
+  },
+  "tunneling-magnetoresistance": {
+   "formal": true,
+   "title": "隧穿磁阻 (Tunneling Magnetoresistance)"
+  },
+  "twin-domain-boundary": {
+   "formal": false,
+   "title": null
+  },
+  "twist-angle-engineering": {
+   "formal": false,
+   "title": null
+  },
+  "twisted-intramolecular-charge-transfer": {
+   "formal": false,
+   "title": null
+  },
+  "twistronics": {
+   "formal": false,
+   "title": null
+  },
+  "two-dimensional-magnetism": {
+   "formal": false,
+   "title": null
+  },
+  "two-gap-superconductivity": {
+   "formal": false,
+   "title": null
+  },
+  "two-level-system": {
+   "formal": false,
+   "title": null
+  },
+  "two-photon-absorption-cross-section": {
+   "formal": false,
+   "title": null
+  },
+  "two-photon-absorption": {
+   "formal": true,
+   "title": "双光子吸收 / Two-Photon Absorption (TPA)"
+  },
+  "two-photon-cross-section": {
+   "formal": false,
+   "title": null
+  },
+  "two-photon-excitation": {
+   "formal": false,
+   "title": null
+  },
+  "two-photon-fluorescence": {
+   "formal": false,
+   "title": null
+  },
+  "two-photon-polymerization": {
+   "formal": false,
+   "title": null
+  },
+  "two-photon-wavefunction": {
+   "formal": false,
+   "title": null
+  },
+  "two-step-switching": {
+   "formal": false,
+   "title": null
+  },
+  "type-i-multiferroic": {
+   "formal": false,
+   "title": null
+  },
+  "type-i-multiferroics": {
+   "formal": false,
+   "title": null
+  },
+  "type-i-type-ii-multiferroics": {
+   "formal": false,
+   "title": null
+  },
+  "type-ii-dirac-semimetal": {
+   "formal": false,
+   "title": null
+  },
+  "type-ii-multiferroic": {
+   "formal": false,
+   "title": null
+  },
+  "type-ii-multiferroicity": {
+   "formal": true,
+   "title": "第二类多铁性 / Type-II Multiferroicity"
+  },
+  "type-ii-multiferroics": {
+   "formal": false,
+   "title": null
+  },
+  "uemura-relation": {
+   "formal": false,
+   "title": null
+  },
+  "ultimate-strength": {
+   "formal": false,
+   "title": null
+  },
+  "ultrafast-spectroscopy": {
+   "formal": true,
+   "title": "超快光谱学 / Ultrafast Spectroscopy"
+  },
+  "ultrasoft-pseudopotential": {
+   "formal": true,
+   "title": "Ultrasoft Pseudopotential / 超软赝势 (US-PP)"
+  },
+  "ultrasonic-excitation": {
+   "formal": false,
+   "title": null
+  },
+  "undercooling-hysteresis": {
+   "formal": false,
+   "title": null
+  },
+  "undercooling": {
+   "formal": false,
+   "title": null
+  },
+  "uniaxial-strain-device": {
+   "formal": false,
+   "title": null
+  },
+  "unidirectional-magnetic-anisotropy": {
+   "formal": false,
+   "title": null
+  },
+  "uniform-electron-gas": {
+   "formal": false,
+   "title": null
+  },
+  "unparticles": {
+   "formal": false,
+   "title": null
+  },
+  "v2c-mxene": {
+   "formal": false,
+   "title": null
+  },
+  "vacancy-formation-energy": {
+   "formal": false,
+   "title": null
+  },
+  "valence-change-mechanism": {
+   "formal": false,
+   "title": null
+  },
+  "valley-physics": {
+   "formal": false,
+   "title": "valley-physics"
+  },
+  "valley-polarization": {
+   "formal": false,
+   "title": null
+  },
+  "valleytronics": {
+   "formal": true,
+   "title": "谷电子学 (Valleytronics)"
+  },
+  "van-der-waals-heterostructure": {
+   "formal": false,
+   "title": null
+  },
+  "van-hove-singularity": {
+   "formal": true,
+   "title": "范霍夫奇点 / Van Hove Singularity (vHS)"
+  },
+  "vapor-deposition-growth": {
+   "formal": false,
+   "title": null
+  },
+  "variable-spring-constant": {
+   "formal": false,
+   "title": null
+  },
+  "variable-spring-constants": {
+   "formal": false,
+   "title": null
+  },
+  "vascularization": {
+   "formal": false,
+   "title": null
+  },
+  "vdw-correction": {
+   "formal": false,
+   "title": null
+  },
+  "vdW-heterostructure": {
+   "formal": false,
+   "title": null
+  },
+  "vdw-magnets": {
+   "formal": false,
+   "title": null
+  },
+  "vector-pfm": {
+   "formal": false,
+   "title": null
+  },
+  "vertical-heterostructure": {
+   "formal": false,
+   "title": null
+  },
+  "vibrational-spectra": {
+   "formal": false,
+   "title": "vibrational-spectra"
+  },
+  "vibronic-coupling": {
+   "formal": false,
+   "title": null
+  },
+  "virtual-state": {
+   "formal": false,
+   "title": null
+  },
+  "virtual-variables": {
+   "formal": false,
+   "title": null
+  },
+  "viscosity-sensing": {
+   "formal": false,
+   "title": null
+  },
+  "vls-growth": {
+   "formal": false,
+   "title": null
+  },
+  "vortex-antivortex-pair": {
+   "formal": false,
+   "title": null
+  },
+  "vortex-antivortex": {
+   "formal": false,
+   "title": null
+  },
+  "vortex-wavefront": {
+   "formal": false,
+   "title": null
+  },
+  "vortexon": {
+   "formal": false,
+   "title": null
+  },
+  "voxel": {
+   "formal": false,
+   "title": null
+  },
+  "wake-up-effect": {
+   "formal": false,
+   "title": null
+  },
+  "wake-up-fatigue": {
+   "formal": false,
+   "title": null
+  },
+  "wannier-function": {
+   "formal": false,
+   "title": null
+  },
+  "wavefront-sensing": {
+   "formal": false,
+   "title": null
+  },
+  "weak-ferromagnetism": {
+   "formal": false,
+   "title": null
+  },
+  "wear-leveling": {
+   "formal": false,
+   "title": null
+  },
+  "weight-factor-approximation": {
+   "formal": false,
+   "title": null
+  },
+  "werthamer-helfand-hohenberg-model": {
+   "formal": false,
+   "title": null
+  },
+  "weyl-semimetal": {
+   "formal": true,
+   "title": "外尔半金属 / Weyl Semimetal (WSM)"
+  },
+  "window-layer": {
+   "formal": false,
+   "title": null
+  },
+  "work-function": {
+   "formal": true,
+   "title": "功函数 (Work Function)"
+  },
+  "wrinkle-strain": {
+   "formal": false,
+   "title": null
+  },
+  "write-endurance": {
+   "formal": false,
+   "title": null
+  },
+  "x-ray-absorption-spectroscopy": {
+   "formal": false,
+   "title": null
+  },
+  "x-ray-raman-scattering": {
+   "formal": false,
+   "title": null
+  },
+  "xmcd": {
+   "formal": false,
+   "title": null
+  },
+  "z-scan": {
+   "formal": false,
+   "title": null
+  },
+  "Z2-invariant": {
+   "formal": true,
+   "title": "Z2 不变量 / Z2 Invariant"
+  },
+  "za-phonon-mode": {
+   "formal": false,
+   "title": null
+  },
+  "zeeman-type-valley-splitting": {
+   "formal": false,
+   "title": null
+  },
+  "zero-flux-surface": {
+   "formal": false,
+   "title": null
+  },
+  "zigzag-antiferromagnetism": {
+   "formal": false,
+   "title": null
+  },
+  "zigzag-chain": {
+   "formal": false,
+   "title": null
+  },
+  "ZnS-Mn": {
+   "formal": false,
+   "title": null
+  }
+ },
+ "entities": {
+  "1T-double-prime-TMD": {
+   "formal": false,
+   "title": null
+  },
+  "1T-MoTe2": {
+   "formal": false,
+   "title": null
+  },
+  "1T-NbSe2": {
+   "formal": false,
+   "title": null
+  },
+  "1t-phase": {
+   "formal": true,
+   "title": "1T 相 / 1T-phase"
+  },
+  "1T-TaS2": {
+   "formal": false,
+   "title": null
+  },
+  "1T-TaSe2": {
+   "formal": false,
+   "title": null
+  },
+  "2H-NbSe2": {
+   "formal": true,
+   "title": null
+  },
+  "2h-phase": {
+   "formal": true,
+   "title": "2H 相 / 2H-phase"
+  },
+  "2H-TaS2": {
+   "formal": false,
+   "title": null
+  },
+  "2H-TaSe2": {
+   "formal": false,
+   "title": null
+  },
+  "3r-tmds": {
+   "formal": false,
+   "title": null
+  },
+  "A36-low-carbon-steel": {
+   "formal": false,
+   "title": null
+  },
+  "ABINIT": {
+   "formal": false,
+   "title": null
+  },
+  "abp2x6-family": {
+   "formal": false,
+   "title": null
+  },
+  "advanced-photon-source": {
+   "formal": false,
+   "title": null
+  },
+  "AFM": {
+   "formal": false,
+   "title": null
+  },
+  "agarose": {
+   "formal": false,
+   "title": null
+  },
+  "Al-doped-ZnO": {
+   "formal": false,
+   "title": null
+  },
+  "ALD": {
+   "formal": false,
+   "title": null
+  },
+  "AlN": {
+   "formal": false,
+   "title": null
+  },
+  "alpha-Fe2O3": {
+   "formal": false,
+   "title": null
+  },
+  "AM2X4-intercalation-family": {
+   "formal": false,
+   "title": null
+  },
+  "AOM": {
+   "formal": false,
+   "title": null
+  },
+  "AR-N-4340": {
+   "formal": false,
+   "title": null
+  },
+  "ARPES": {
+   "formal": false,
+   "title": null
+  },
+  "Au": {
+   "formal": false,
+   "title": null
+  },
+  "austenite": {
+   "formal": false,
+   "title": null
+  },
+  "b-AsP": {
+   "formal": false,
+   "title": null
+  },
+  "BA2PbCl4": {
+   "formal": false,
+   "title": null
+  },
+  "Ba3VO4-2": {
+   "formal": false,
+   "title": null
+  },
+  "bader-code": {
+   "formal": false,
+   "title": null
+  },
+  "bamboo-like-N-CNTs": {
+   "formal": false,
+   "title": null
+  },
+  "BAs": {
+   "formal": false,
+   "title": null
+  },
+  "BaSrTiO3": {
+   "formal": false,
+   "title": null
+  },
+  "BaTiO3": {
+   "formal": false,
+   "title": null
+  },
+  "BBO-crystal": {
+   "formal": false,
+   "title": null
+  },
+  "BCPC": {
+   "formal": false,
+   "title": null
+  },
+  "BCPSO": {
+   "formal": false,
+   "title": null
+  },
+  "benzene": {
+   "formal": false,
+   "title": null
+  },
+  "Bi": {
+   "formal": false,
+   "title": "Bi"
+  },
+  "Bi0.5Na0.5TiO3": {
+   "formal": false,
+   "title": null
+  },
+  "Bi2Fe4O9": {
+   "formal": false,
+   "title": null
+  },
+  "Bi2FeCrO6": {
+   "formal": false,
+   "title": null
+  },
+  "Bi2O2Se": {
+   "formal": false,
+   "title": null
+  },
+  "Bi2Se3": {
+   "formal": false,
+   "title": "Bi2Se3"
+  },
+  "Bi2Te2Se": {
+   "formal": false,
+   "title": null
+  },
+  "Bi2Te3_Nb": {
+   "formal": false,
+   "title": "Bi2Te3_Nb"
+  },
+  "Bi4Br4": {
+   "formal": false,
+   "title": "Bi4Br4"
+  },
+  "BiCoO3": {
+   "formal": false,
+   "title": null
+  },
+  "BiFeO3": {
+   "formal": true,
+   "title": "铁酸铋 / Bismuth Ferrite (BiFeO3, BFO)"
+  },
+  "bilayer-graphene": {
+   "formal": false,
+   "title": null
+  },
+  "BiMnO3": {
+   "formal": false,
+   "title": null
+  },
+  "bis-diphenylamino-diphenyl-hexatriene": {
+   "formal": false,
+   "title": null
+  },
+  "black-phosphorus": {
+   "formal": false,
+   "title": null
+  },
+  "BLFO": {
+   "formal": false,
+   "title": null
+  },
+  "BoltzTrap": {
+   "formal": false,
+   "title": null
+  },
+  "bp-bi-bismuth": {
+   "formal": false,
+   "title": null
+  },
+  "BSA": {
+   "formal": false,
+   "title": null
+  },
+  "BTO": {
+   "formal": false,
+   "title": null
+  },
+  "c-AFM": {
+   "formal": false,
+   "title": null
+  },
+  "c6n8h-organic-multiferroic": {
+   "formal": false,
+   "title": null
+  },
+  "Ca3Mn2O7": {
+   "formal": false,
+   "title": null
+  },
+  "cadmium-sulfide": {
+   "formal": false,
+   "title": null
+  },
+  "CADPAC": {
+   "formal": false,
+   "title": null
+  },
+  "CaMn7O12": {
+   "formal": false,
+   "title": null
+  },
+  "Car-Parrinello": {
+   "formal": false,
+   "title": null
+  },
+  "carbon-nanotube": {
+   "formal": false,
+   "title": null
+  },
+  "carbon-nanotubes": {
+   "formal": false,
+   "title": null
+  },
+  "castellated-electrode": {
+   "formal": false,
+   "title": null
+  },
+  "CCC-amphidynamic-crystal": {
+   "formal": false,
+   "title": null
+  },
+  "CCD-camera": {
+   "formal": false,
+   "title": null
+  },
+  "ccps-cucrp2s6": {
+   "formal": false,
+   "title": null
+  },
+  "Cd3As2": {
+   "formal": false,
+   "title": "Cd3As2"
+  },
+  "Cd3Cl6": {
+   "formal": false,
+   "title": null
+  },
+  "cementite": {
+   "formal": false,
+   "title": null
+  },
+  "CeTe3": {
+   "formal": false,
+   "title": null
+  },
+  "chloranil": {
+   "formal": false,
+   "title": null
+  },
+  "cips-cu-in-p2s6": {
+   "formal": false,
+   "title": null
+  },
+  "cipse-cu-in-p2se6": {
+   "formal": false,
+   "title": null
+  },
+  "circle-electrode": {
+   "formal": false,
+   "title": null
+  },
+  "climatic-chamber": {
+   "formal": false,
+   "title": null
+  },
+  "Co-60": {
+   "formal": false,
+   "title": null
+  },
+  "Co": {
+   "formal": false,
+   "title": null
+  },
+  "CoCr2O4": {
+   "formal": false,
+   "title": null
+  },
+  "CoFe2O4": {
+   "formal": true,
+   "title": null
+  },
+  "collagen": {
+   "formal": false,
+   "title": null
+  },
+  "COMSOL-multiphysics": {
+   "formal": false,
+   "title": null
+  },
+  "corning-smf-28e": {
+   "formal": false,
+   "title": null
+  },
+  "coumarin": {
+   "formal": false,
+   "title": null
+  },
+  "Cr2C": {
+   "formal": false,
+   "title": null
+  },
+  "Cr2Ge2Te6": {
+   "formal": false,
+   "title": null
+  },
+  "Cr2N": {
+   "formal": false,
+   "title": null
+  },
+  "Cr2O3": {
+   "formal": true,
+   "title": null
+  },
+  "Cr2S3": {
+   "formal": false,
+   "title": null
+  },
+  "crbr3": {
+   "formal": false,
+   "title": null
+  },
+  "CrGeTe3": {
+   "formal": false,
+   "title": null
+  },
+  "CrI3": {
+   "formal": true,
+   "title": "三碘化铬 (CrI₃)"
+  },
+  "CrInTe2": {
+   "formal": false,
+   "title": null
+  },
+  "crispr-cas12a-protein": {
+   "formal": false,
+   "title": null
+  },
+  "CrS2": {
+   "formal": false,
+   "title": null
+  },
+  "CrSBr": {
+   "formal": false,
+   "title": null
+  },
+  "CrSe2": {
+   "formal": false,
+   "title": null
+  },
+  "CrTe2": {
+   "formal": true,
+   "title": "二碲化铬 (CrTe₂)"
+  },
+  "Cs": {
+   "formal": false,
+   "title": null
+  },
+  "cu-crp2s6": {
+   "formal": false,
+   "title": null
+  },
+  "Cu2OSeO3": {
+   "formal": false,
+   "title": null
+  },
+  "Cu3CO6": {
+   "formal": false,
+   "title": null
+  },
+  "Cu3CS6": {
+   "formal": false,
+   "title": null
+  },
+  "CuCrP2S6": {
+   "formal": false,
+   "title": null
+  },
+  "CuCrS2": {
+   "formal": false,
+   "title": null
+  },
+  "CuCrSe2": {
+   "formal": false,
+   "title": null
+  },
+  "CuInP2S6": {
+   "formal": false,
+   "title": null
+  },
+  "current-collector": {
+   "formal": false,
+   "title": null
+  },
+  "CuxNbS2": {
+   "formal": false,
+   "title": null
+  },
+  "Cu_xBi2Se3": {
+   "formal": false,
+   "title": "Cu_xBi2Se3"
+  },
+  "cyano-group": {
+   "formal": false,
+   "title": null
+  },
+  "d1t-mote2": {
+   "formal": false,
+   "title": null
+  },
+  "Datta-Das-spin-FET": {
+   "formal": false,
+   "title": null
+  },
+  "DCS": {
+   "formal": false,
+   "title": null
+  },
+  "dcsmf": {
+   "formal": false,
+   "title": null
+  },
+  "deep-potential": {
+   "formal": false,
+   "title": null
+  },
+  "DeepMD-kit": {
+   "formal": false,
+   "title": null
+  },
+  "dfb-ld": {
+   "formal": false,
+   "title": null
+  },
+  "DFTB+": {
+   "formal": false,
+   "title": null
+  },
+  "dicyanostilbene-1a": {
+   "formal": false,
+   "title": null
+  },
+  "dicyanostilbene-1b": {
+   "formal": false,
+   "title": null
+  },
+  "dicyanostilbene": {
+   "formal": false,
+   "title": null
+  },
+  "dimethylamino": {
+   "formal": false,
+   "title": null
+  },
+  "diphenylamino": {
+   "formal": false,
+   "title": null
+  },
+  "diphenyliodonium-salt": {
+   "formal": false,
+   "title": null
+  },
+  "dmol3": {
+   "formal": false,
+   "title": null
+  },
+  "DMSO": {
+   "formal": false,
+   "title": null
+  },
+  "dna-origami-structure": {
+   "formal": false,
+   "title": null
+  },
+  "DPHPA": {
+   "formal": false,
+   "title": null
+  },
+  "DyScO3": {
+   "formal": false,
+   "title": null
+  },
+  "E7-liquid-crystal": {
+   "formal": false,
+   "title": null
+  },
+  "elastomeric-composite": {
+   "formal": false,
+   "title": null
+  },
+  "Elk": {
+   "formal": false,
+   "title": null
+  },
+  "EPW": {
+   "formal": false,
+   "title": null
+  },
+  "Eu2-plus": {
+   "formal": false,
+   "title": null
+  },
+  "europium-dopant": {
+   "formal": false,
+   "title": null
+  },
+  "EuS": {
+   "formal": false,
+   "title": null
+  },
+  "EuTe4": {
+   "formal": false,
+   "title": null
+  },
+  "EuTiO3": {
+   "formal": false,
+   "title": null
+  },
+  "fe-c-phase-diagram": {
+   "formal": false,
+   "title": null
+  },
+  "Fe-Diode": {
+   "formal": false,
+   "title": null
+  },
+  "Fe2": {
+   "formal": false,
+   "title": null
+  },
+  "Fe3GaTe2": {
+   "formal": false,
+   "title": null
+  },
+  "Fe3GeTe2": {
+   "formal": true,
+   "title": "碲化锗铁 (Fe₃GaTe₂ / Fe₃GeTe₂)"
+  },
+  "FeCAP": {
+   "formal": false,
+   "title": null
+  },
+  "FeCT": {
+   "formal": false,
+   "title": null
+  },
+  "FeFET": {
+   "formal": true,
+   "title": "铁电场效应晶体管 (FeFET)"
+  },
+  "FemtoBond-4B": {
+   "formal": false,
+   "title": null
+  },
+  "femtosecond-fiber-laser": {
+   "formal": false,
+   "title": null
+  },
+  "femtosecond-laser": {
+   "formal": false,
+   "title": null
+  },
+  "FePS3": {
+   "formal": true,
+   "title": "硫磷化铁 (FePS₃)"
+  },
+  "FeRAM": {
+   "formal": false,
+   "title": null
+  },
+  "FeRh": {
+   "formal": false,
+   "title": null
+  },
+  "ferrite": {
+   "formal": false,
+   "title": null
+  },
+  "ferroelectric-memristor": {
+   "formal": false,
+   "title": null
+  },
+  "ferroelectric-semiconductor-devices": {
+   "formal": false,
+   "title": null
+  },
+  "FeS-FET": {
+   "formal": false,
+   "title": null
+  },
+  "fiber-coupler": {
+   "formal": false,
+   "title": null
+  },
+  "fibrin": {
+   "formal": false,
+   "title": null
+  },
+  "fibrinogen": {
+   "formal": false,
+   "title": null
+  },
+  "FINDSYM": {
+   "formal": false,
+   "title": null
+  },
+  "Fireball": {
+   "formal": false,
+   "title": null
+  },
+  "first-principles-piezoelectric-tensor": {
+   "formal": false,
+   "title": null
+  },
+  "fluorescein": {
+   "formal": false,
+   "title": null
+  },
+  "FSJ": {
+   "formal": false,
+   "title": null
+  },
+  "FTJ": {
+   "formal": false,
+   "title": null
+  },
+  "FTO": {
+   "formal": false,
+   "title": null
+  },
+  "FullProf": {
+   "formal": false,
+   "title": null
+  },
+  "g-go-nanosheets": {
+   "formal": false,
+   "title": null
+  },
+  "Ga-doped-ZnO": {
+   "formal": false,
+   "title": null
+  },
+  "GaAs": {
+   "formal": false,
+   "title": null
+  },
+  "GaN": {
+   "formal": false,
+   "title": null
+  },
+  "GaSb": {
+   "formal": false,
+   "title": null
+  },
+  "GaSe": {
+   "formal": true,
+   "title": null
+  },
+  "Gaussian-98": {
+   "formal": false,
+   "title": null
+  },
+  "GdI2": {
+   "formal": false,
+   "title": null
+  },
+  "GdScO3": {
+   "formal": false,
+   "title": null
+  },
+  "GdTe3": {
+   "formal": false,
+   "title": null
+  },
+  "Ge": {
+   "formal": false,
+   "title": null
+  },
+  "GeC": {
+   "formal": false,
+   "title": null
+  },
+  "GeSe": {
+   "formal": false,
+   "title": null
+  },
+  "GeTe": {
+   "formal": false,
+   "title": null
+  },
+  "Glassomer": {
+   "formal": false,
+   "title": null
+  },
+  "glassy-carbon": {
+   "formal": false,
+   "title": null
+  },
+  "glycerol": {
+   "formal": false,
+   "title": null
+  },
+  "gold-nanodisks": {
+   "formal": false,
+   "title": null
+  },
+  "gold-nanoparticles": {
+   "formal": false,
+   "title": null
+  },
+  "gold": {
+   "formal": false,
+   "title": null
+  },
+  "graphene-oxide": {
+   "formal": false,
+   "title": null
+  },
+  "graphene-tetralayer": {
+   "formal": false,
+   "title": null
+  },
+  "graphene": {
+   "formal": false,
+   "title": null
+  },
+  "group-iv-monochalcogenides": {
+   "formal": false,
+   "title": null
+  },
+  "GSAS-II": {
+   "formal": false,
+   "title": null
+  },
+  "GST": {
+   "formal": false,
+   "title": null
+  },
+  "GULP": {
+   "formal": false,
+   "title": null
+  },
+  "h-BN": {
+   "formal": false,
+   "title": null
+  },
+  "h-YMnO3": {
+   "formal": false,
+   "title": null
+  },
+  "habi": {
+   "formal": false,
+   "title": null
+  },
+  "Heusler-alloy": {
+   "formal": false,
+   "title": null
+  },
+  "hexaferrites": {
+   "formal": false,
+   "title": null
+  },
+  "Hf2MnC2O2": {
+   "formal": false,
+   "title": null
+  },
+  "hf2vc2f2": {
+   "formal": false,
+   "title": null
+  },
+  "HfO2": {
+   "formal": false,
+   "title": null
+  },
+  "HgBr2": {
+   "formal": false,
+   "title": null
+  },
+  "HgCdTe": {
+   "formal": false,
+   "title": null
+  },
+  "HgI2": {
+   "formal": false,
+   "title": null
+  },
+  "HgTe": {
+   "formal": false,
+   "title": "HgTe"
+  },
+  "hollow-core-photonic-crystal-fiber": {
+   "formal": false,
+   "title": null
+  },
+  "Holoeye-PLUTO": {
+   "formal": false,
+   "title": null
+  },
+  "HoMnO3": {
+   "formal": false,
+   "title": null
+  },
+  "HOPG": {
+   "formal": false,
+   "title": null
+  },
+  "hydrostatic-pressure-cell": {
+   "formal": false,
+   "title": null
+  },
+  "hydroxyapatite": {
+   "formal": false,
+   "title": null
+  },
+  "HZO": {
+   "formal": false,
+   "title": null
+  },
+  "IGZO": {
+   "formal": false,
+   "title": null
+  },
+  "iii-v-semiconductors": {
+   "formal": false,
+   "title": null
+  },
+  "iii2-vi3-compounds": {
+   "formal": false,
+   "title": null
+  },
+  "ILL-D20": {
+   "formal": false,
+   "title": null
+  },
+  "In2NO2": {
+   "formal": false,
+   "title": null
+  },
+  "In2Se3": {
+   "formal": true,
+   "title": "硒化铟 / Indium Selenide (In2Se3)"
+  },
+  "infinite-layer-nickelates": {
+   "formal": false,
+   "title": null
+  },
+  "InN": {
+   "formal": false,
+   "title": null
+  },
+  "InSb": {
+   "formal": false,
+   "title": null
+  },
+  "InSb_nanowire": {
+   "formal": false,
+   "title": "InSb_nanowire"
+  },
+  "InSe": {
+   "formal": true,
+   "title": null
+  },
+  "interdigitated-electrode": {
+   "formal": false,
+   "title": null
+  },
+  "interfacial-phase-change-memory": {
+   "formal": false,
+   "title": null
+  },
+  "ips-in43p2s6": {
+   "formal": false,
+   "title": null
+  },
+  "Ir-111": {
+   "formal": false,
+   "title": null
+  },
+  "IrO2": {
+   "formal": false,
+   "title": null
+  },
+  "iron-pnictides": {
+   "formal": false,
+   "title": null
+  },
+  "IrTe2": {
+   "formal": false,
+   "title": null
+  },
+  "ITO-glass": {
+   "formal": false,
+   "title": null
+  },
+  "ITO": {
+   "formal": false,
+   "title": null
+  },
+  "ITQ-4": {
+   "formal": false,
+   "title": null
+  },
+  "Janus-MoSSe": {
+   "formal": false,
+   "title": null
+  },
+  "JCPDS": {
+   "formal": false,
+   "title": null
+  },
+  "KCl": {
+   "formal": false,
+   "title": null
+  },
+  "La0.67Sr0.33MnO3": {
+   "formal": false,
+   "title": null
+  },
+  "LabVIEW": {
+   "formal": false,
+   "title": null
+  },
+  "labyrinth-electrode": {
+   "formal": false,
+   "title": null
+  },
+  "LaCuO3": {
+   "formal": false,
+   "title": null
+  },
+  "LAMMPS": {
+   "formal": false,
+   "title": null
+  },
+  "LaMnO3": {
+   "formal": false,
+   "title": null
+  },
+  "LAPW": {
+   "formal": false,
+   "title": null
+  },
+  "laser-diode": {
+   "formal": false,
+   "title": null
+  },
+  "laser-reduced-graphene": {
+   "formal": false,
+   "title": null
+  },
+  "LiCoO2": {
+   "formal": false,
+   "title": null
+  },
+  "LiFePO4": {
+   "formal": false,
+   "title": null
+  },
+  "LiNbO3": {
+   "formal": false,
+   "title": null
+  },
+  "LiOsO3": {
+   "formal": false,
+   "title": "LiOsO3"
+  },
+  "LixMn2O4": {
+   "formal": false,
+   "title": null
+  },
+  "LMTO": {
+   "formal": false,
+   "title": null
+  },
+  "lock-in-amplifier": {
+   "formal": false,
+   "title": null
+  },
+  "low-carbon-steel": {
+   "formal": false,
+   "title": null
+  },
+  "LuFe2O4": {
+   "formal": false,
+   "title": null
+  },
+  "LuTe2": {
+   "formal": false,
+   "title": null
+  },
+  "LuTe3": {
+   "formal": false,
+   "title": null
+  },
+  "M2-TTFTB": {
+   "formal": false,
+   "title": null
+  },
+  "MATLAB": {
+   "formal": false,
+   "title": null
+  },
+  "MAX-phase": {
+   "formal": false,
+   "title": null
+  },
+  "MAX-phases": {
+   "formal": false,
+   "title": null
+  },
+  "mechanical-shutter": {
+   "formal": false,
+   "title": null
+  },
+  "meso-logic-device": {
+   "formal": false,
+   "title": null
+  },
+  "metals-and-alloys-entity": {
+   "formal": false,
+   "title": "metals-and-alloys-entity"
+  },
+  "metasurface": {
+   "formal": false,
+   "title": null
+  },
+  "MgO-MTJ": {
+   "formal": false,
+   "title": null
+  },
+  "MgO": {
+   "formal": false,
+   "title": null
+  },
+  "mica": {
+   "formal": false,
+   "title": null
+  },
+  "misc-materials-entity": {
+   "formal": false,
+   "title": "misc-materials-entity"
+  },
+  "mn-bi2-te4-mbt": {
+   "formal": false,
+   "title": null
+  },
+  "Mn2N": {
+   "formal": false,
+   "title": null
+  },
+  "Mn2NO2": {
+   "formal": false,
+   "title": null
+  },
+  "Mn2NOF": {
+   "formal": false,
+   "title": null
+  },
+  "MnBi2Te4": {
+   "formal": false,
+   "title": null
+  },
+  "MnFO3": {
+   "formal": false,
+   "title": null
+  },
+  "MnO": {
+   "formal": false,
+   "title": null
+  },
+  "MnPSe3": {
+   "formal": true,
+   "title": "硒磷化锰 (MnPSe₃)"
+  },
+  "MnS2": {
+   "formal": false,
+   "title": null
+  },
+  "MnSe": {
+   "formal": false,
+   "title": null
+  },
+  "MnSe2": {
+   "formal": false,
+   "title": null
+  },
+  "MnTe2": {
+   "formal": false,
+   "title": null
+  },
+  "MnVO3": {
+   "formal": false,
+   "title": null
+  },
+  "mo-te2": {
+   "formal": false,
+   "title": null
+  },
+  "Mo2CTx": {
+   "formal": false,
+   "title": null
+  },
+  "Mo2Ti2C3Tx": {
+   "formal": false,
+   "title": null
+  },
+  "mode-locked-fiber-laser": {
+   "formal": false,
+   "title": null
+  },
+  "Moldy": {
+   "formal": false,
+   "title": null
+  },
+  "molybdenum-disulfide": {
+   "formal": false,
+   "title": null
+  },
+  "MoS2": {
+   "formal": true,
+   "title": "二硫化钼 (MoS2) / Molybdenum Disulfide"
+  },
+  "MoSe2": {
+   "formal": false,
+   "title": null
+  },
+  "MoSi2N4": {
+   "formal": false,
+   "title": null
+  },
+  "MoTe2": {
+   "formal": true,
+   "title": "二碲化钼 (MoTe2) / Molybdenum Ditelluride"
+  },
+  "MXenes": {
+   "formal": false,
+   "title": null
+  },
+  "N-vinyl-pyrrolidinone": {
+   "formal": false,
+   "title": null
+  },
+  "Nanoscribe": {
+   "formal": false,
+   "title": null
+  },
+  "NaZnO3": {
+   "formal": false,
+   "title": null
+  },
+  "Nb2AlC-MAX": {
+   "formal": false,
+   "title": null
+  },
+  "Nb2CTx": {
+   "formal": false,
+   "title": null
+  },
+  "Nb2O5": {
+   "formal": false,
+   "title": null
+  },
+  "NbI4": {
+   "formal": false,
+   "title": null
+  },
+  "NbOI2": {
+   "formal": false,
+   "title": null
+  },
+  "NbOX2": {
+   "formal": false,
+   "title": null
+  },
+  "NbS2": {
+   "formal": false,
+   "title": null
+  },
+  "NbSe2": {
+   "formal": true,
+   "title": "二硒化铌 (NbSe2) / Niobium Diselenide"
+  },
+  "ND-filter": {
+   "formal": false,
+   "title": null
+  },
+  "neuromorphic-synaptic-device": {
+   "formal": false,
+   "title": null
+  },
+  "NiI2": {
+   "formal": true,
+   "title": "二碘化镍 (NiI2) / Nickel Iodide"
+  },
+  "NiPS3": {
+   "formal": true,
+   "title": "硫磷化镍 (NiPS₃)"
+  },
+  "Nucleonix-TL10091": {
+   "formal": false,
+   "title": null
+  },
+  "Olympus-20x-objective": {
+   "formal": false,
+   "title": null
+  },
+  "optical-fiber": {
+   "formal": false,
+   "title": null
+  },
+  "optical-interference-filter": {
+   "formal": false,
+   "title": null
+  },
+  "optical-loss-test-set": {
+   "formal": false,
+   "title": null
+  },
+  "optical-power-meter": {
+   "formal": false,
+   "title": null
+  },
+  "Origin": {
+   "formal": false,
+   "title": null
+  },
+  "Ormocer": {
+   "formal": false,
+   "title": null
+  },
+  "oscilloscope": {
+   "formal": false,
+   "title": null
+  },
+  "P1": {
+   "formal": false,
+   "title": null
+  },
+  "P2": {
+   "formal": false,
+   "title": null
+  },
+  "PAH-PSS-multilayer": {
+   "formal": false,
+   "title": null
+  },
+  "passive-micromixer": {
+   "formal": false,
+   "title": null
+  },
+  "PAW": {
+   "formal": false,
+   "title": null
+  },
+  "PBE-functional": {
+   "formal": false,
+   "title": null
+  },
+  "PbS": {
+   "formal": false,
+   "title": null
+  },
+  "PbSe": {
+   "formal": false,
+   "title": null
+  },
+  "PbSnTe": {
+   "formal": false,
+   "title": null
+  },
+  "PbTe": {
+   "formal": false,
+   "title": null
+  },
+  "PbTiO3-SrTiO3-superlattice": {
+   "formal": false,
+   "title": null
+  },
+  "PbTiO3": {
+   "formal": false,
+   "title": null
+  },
+  "PbVO3": {
+   "formal": false,
+   "title": null
+  },
+  "PbZrxTi1-xO3": {
+   "formal": false,
+   "title": null
+  },
+  "PCL": {
+   "formal": false,
+   "title": null
+  },
+  "PDFFIT": {
+   "formal": false,
+   "title": null
+  },
+  "PDMS": {
+   "formal": false,
+   "title": null
+  },
+  "PdSe2": {
+   "formal": false,
+   "title": null
+  },
+  "PEG": {
+   "formal": false,
+   "title": null
+  },
+  "PEGDA": {
+   "formal": false,
+   "title": null
+  },
+  "Perkin-Elmer": {
+   "formal": false,
+   "title": null
+  },
+  "PFM": {
+   "formal": false,
+   "title": null
+  },
+  "PHAROS-laser": {
+   "formal": false,
+   "title": null
+  },
+  "phase-change-transistor": {
+   "formal": false,
+   "title": null
+  },
+  "PHONOPY": {
+   "formal": false,
+   "title": null
+  },
+  "photodiode": {
+   "formal": false,
+   "title": null
+  },
+  "photoresist": {
+   "formal": false,
+   "title": null
+  },
+  "piezo-nanopositioning-stage": {
+   "formal": false,
+   "title": null
+  },
+  "PLA": {
+   "formal": false,
+   "title": null
+  },
+  "PLD": {
+   "formal": false,
+   "title": null
+  },
+  "pmma-pvdf-blend": {
+   "formal": false,
+   "title": null
+  },
+  "PMMA": {
+   "formal": false,
+   "title": null
+  },
+  "PMN-PT": {
+   "formal": false,
+   "title": null
+  },
+  "PMT": {
+   "formal": false,
+   "title": null
+  },
+  "polymer-optical-fiber": {
+   "formal": false,
+   "title": null
+  },
+  "potassium-40": {
+   "formal": false,
+   "title": null
+  },
+  "potassium": {
+   "formal": false,
+   "title": null
+  },
+  "PP-VTe2": {
+   "formal": false,
+   "title": null
+  },
+  "Pt-Ir-tip": {
+   "formal": false,
+   "title": null
+  },
+  "Pt": {
+   "formal": false,
+   "title": null
+  },
+  "PtBr3": {
+   "formal": false,
+   "title": null
+  },
+  "pulsed-led": {
+   "formal": false,
+   "title": null
+  },
+  "PVDF-TrFE": {
+   "formal": false,
+   "title": null
+  },
+  "pvdf": {
+   "formal": false,
+   "title": null
+  },
+  "PWmat": {
+   "formal": false,
+   "title": null
+  },
+  "PZT": {
+   "formal": false,
+   "title": null
+  },
+  "QCM": {
+   "formal": false,
+   "title": null
+  },
+  "Quantum-ESPRESSO": {
+   "formal": false,
+   "title": null
+  },
+  "quinine-bisulfate": {
+   "formal": false,
+   "title": null
+  },
+  "RAD": {
+   "formal": false,
+   "title": null
+  },
+  "rbn-rhombohedral-bn": {
+   "formal": false,
+   "title": null
+  },
+  "RCA931-pmt": {
+   "formal": false,
+   "title": null
+  },
+  "ReS2": {
+   "formal": false,
+   "title": null
+  },
+  "rGO": {
+   "formal": false,
+   "title": null
+  },
+  "Rigaku-D": {
+   "formal": false,
+   "title": null
+  },
+  "RMCpp": {
+   "formal": false,
+   "title": null
+  },
+  "RMn2O5": {
+   "formal": false,
+   "title": null
+  },
+  "RMnO3-orthorhombic": {
+   "formal": false,
+   "title": null
+  },
+  "RTe3": {
+   "formal": false,
+   "title": null
+  },
+  "RuBr2": {
+   "formal": false,
+   "title": null
+  },
+  "RuCl2": {
+   "formal": false,
+   "title": null
+  },
+  "RuI2": {
+   "formal": false,
+   "title": null
+  },
+  "RuX2": {
+   "formal": false,
+   "title": null
+  },
+  "Salen": {
+   "formal": false,
+   "title": null
+  },
+  "Sb2Te3": {
+   "formal": false,
+   "title": null
+  },
+  "Sc2CF2": {
+   "formal": false,
+   "title": null
+  },
+  "Sc2CO2": {
+   "formal": false,
+   "title": null
+  },
+  "SCALE-UP": {
+   "formal": false,
+   "title": null
+  },
+  "Shimadzu-UV1700": {
+   "formal": false,
+   "title": null
+  },
+  "Si-100": {
+   "formal": false,
+   "title": null
+  },
+  "si-photodiode": {
+   "formal": false,
+   "title": null
+  },
+  "Si-SiGe-nanowire": {
+   "formal": false,
+   "title": null
+  },
+  "Si": {
+   "formal": false,
+   "title": null
+  },
+  "SiC": {
+   "formal": false,
+   "title": null
+  },
+  "SIESTA": {
+   "formal": false,
+   "title": null
+  },
+  "SiGe": {
+   "formal": false,
+   "title": null
+  },
+  "silicene": {
+   "formal": false,
+   "title": null
+  },
+  "silicon": {
+   "formal": false,
+   "title": null
+  },
+  "single-mode-fiber": {
+   "formal": false,
+   "title": null
+  },
+  "SiO2": {
+   "formal": false,
+   "title": null
+  },
+  "SmScO3": {
+   "formal": false,
+   "title": null
+  },
+  "Sn-doped-ZnO": {
+   "formal": false,
+   "title": null
+  },
+  "SnO": {
+   "formal": false,
+   "title": null
+  },
+  "SnO2": {
+   "formal": false,
+   "title": null
+  },
+  "SnS": {
+   "formal": false,
+   "title": null
+  },
+  "SnSe": {
+   "formal": false,
+   "title": null
+  },
+  "SnSe2": {
+   "formal": false,
+   "title": null
+  },
+  "SnTe": {
+   "formal": false,
+   "title": null
+  },
+  "software-tool-entity": {
+   "formal": false,
+   "title": "software-tool-entity"
+  },
+  "spatial-light-modulator": {
+   "formal": false,
+   "title": null
+  },
+  "spherical-lensed-fiber": {
+   "formal": false,
+   "title": null
+  },
+  "Spirit": {
+   "formal": false,
+   "title": null
+  },
+  "SrAl2O4-Eu": {
+   "formal": false,
+   "title": null
+  },
+  "SrAl2O4": {
+   "formal": false,
+   "title": null
+  },
+  "SrIrO3": {
+   "formal": false,
+   "title": null
+  },
+  "SrMnO3": {
+   "formal": false,
+   "title": null
+  },
+  "SrMoO3": {
+   "formal": false,
+   "title": null
+  },
+  "SrOsO3": {
+   "formal": false,
+   "title": null
+  },
+  "SrRuO3": {
+   "formal": false,
+   "title": null
+  },
+  "SrTiO3": {
+   "formal": false,
+   "title": null
+  },
+  "stilbene": {
+   "formal": false,
+   "title": null
+  },
+  "STL": {
+   "formal": false,
+   "title": null
+  },
+  "STM": {
+   "formal": false,
+   "title": null
+  },
+  "storage-oscilloscope": {
+   "formal": false,
+   "title": null
+  },
+  "stt-mram": {
+   "formal": false,
+   "title": null
+  },
+  "SU-8": {
+   "formal": false,
+   "title": null
+  },
+  "sub-nanosecond-laser": {
+   "formal": false,
+   "title": null
+  },
+  "super-luminescence-diode": {
+   "formal": false,
+   "title": null
+  },
+  "supercritical-water": {
+   "formal": false,
+   "title": null
+  },
+  "SZ-2080": {
+   "formal": false,
+   "title": null
+  },
+  "T-CdCr2Te4": {
+   "formal": false,
+   "title": null
+  },
+  "Ta4C3": {
+   "formal": false,
+   "title": null
+  },
+  "Ta4C3Tx": {
+   "formal": false,
+   "title": null
+  },
+  "TaOx": {
+   "formal": false,
+   "title": null
+  },
+  "TaS2": {
+   "formal": true,
+   "title": "二硫化钽 (TaS2) / Tantalum Disulfide"
+  },
+  "tase2-xtex-solid-solution": {
+   "formal": false,
+   "title": null
+  },
+  "TaSe2-xTex": {
+   "formal": false,
+   "title": null
+  },
+  "TaSe2": {
+   "formal": true,
+   "title": "二硒化钽 (TaSe2) / Tantalum Diselenide"
+  },
+  "TaTe2": {
+   "formal": false,
+   "title": null
+  },
+  "td-phase": {
+   "formal": true,
+   "title": "Td 相 / Td-phase"
+  },
+  "Terfenol-D": {
+   "formal": false,
+   "title": null
+  },
+  "thermo-electric-cooler": {
+   "formal": false,
+   "title": null
+  },
+  "thiazine-dye": {
+   "formal": false,
+   "title": null
+  },
+  "thioxanthone-photoinitiator": {
+   "formal": false,
+   "title": null
+  },
+  "three-level-atom": {
+   "formal": false,
+   "title": null
+  },
+  "Ti-6Al-4V": {
+   "formal": false,
+   "title": null
+  },
+  "Ti-nanoparticle": {
+   "formal": false,
+   "title": null
+  },
+  "Ti-Sa-laser": {
+   "formal": false,
+   "title": null
+  },
+  "Ti-sapphire-laser": {
+   "formal": false,
+   "title": null
+  },
+  "Ti": {
+   "formal": false,
+   "title": null
+  },
+  "Ti2C": {
+   "formal": false,
+   "title": null
+  },
+  "Ti2CO2": {
+   "formal": false,
+   "title": null
+  },
+  "Ti2CTx": {
+   "formal": false,
+   "title": null
+  },
+  "Ti3C2": {
+   "formal": false,
+   "title": null
+  },
+  "TiN": {
+   "formal": false,
+   "title": null
+  },
+  "TiO2-SiO2": {
+   "formal": false,
+   "title": null
+  },
+  "TiO2": {
+   "formal": false,
+   "title": null
+  },
+  "TiSe2": {
+   "formal": true,
+   "title": "二硒化钛 (TiSe2) / Titanium Diselenide"
+  },
+  "tissue-engineering-scaffold": {
+   "formal": false,
+   "title": null
+  },
+  "titanium-sapphire-laser": {
+   "formal": false,
+   "title": null
+  },
+  "TiTe2": {
+   "formal": false,
+   "title": null
+  },
+  "Tl2NO2": {
+   "formal": false,
+   "title": null
+  },
+  "TMDs": {
+   "formal": true,
+   "title": "过渡金属硫族化合物 / Transition Metal Dichalcogenides (TMDs)"
+  },
+  "TORP": {
+   "formal": false,
+   "title": null
+  },
+  "transition-metal-thio-selenophosphates": {
+   "formal": false,
+   "title": null
+  },
+  "triphenylamine": {
+   "formal": false,
+   "title": null
+  },
+  "troullier-martins-pseudopotential": {
+   "formal": false,
+   "title": null
+  },
+  "TTF-BA": {
+   "formal": false,
+   "title": null
+  },
+  "TTF-CA": {
+   "formal": false,
+   "title": null
+  },
+  "TTF": {
+   "formal": false,
+   "title": null
+  },
+  "TTFClO4": {
+   "formal": false,
+   "title": null
+  },
+  "twisted-bilayer-graphene": {
+   "formal": false,
+   "title": null
+  },
+  "V2CTx": {
+   "formal": false,
+   "title": null
+  },
+  "V2NOF": {
+   "formal": false,
+   "title": null
+  },
+  "Vanderbilt-ultrasoft": {
+   "formal": false,
+   "title": null
+  },
+  "VASP": {
+   "formal": false,
+   "title": null
+  },
+  "VCl3": {
+   "formal": false,
+   "title": null
+  },
+  "VI2": {
+   "formal": false,
+   "title": null
+  },
+  "VS2": {
+   "formal": false,
+   "title": null
+  },
+  "VSe2": {
+   "formal": true,
+   "title": "二硒化钒 (VSe2) / Vanadium Diselenide"
+  },
+  "VTe2": {
+   "formal": false,
+   "title": null
+  },
+  "Wannier90": {
+   "formal": false,
+   "title": null
+  },
+  "WIEN2k": {
+   "formal": false,
+   "title": null
+  },
+  "WRFP": {
+   "formal": false,
+   "title": null
+  },
+  "WS2": {
+   "formal": true,
+   "title": "二硫化钨 (WS2) / Tungsten Disulfide"
+  },
+  "WSe2": {
+   "formal": false,
+   "title": null
+  },
+  "WTe2": {
+   "formal": true,
+   "title": "二碲化钨 (WTe2) / Tungsten Ditealluride"
+  },
+  "xanthene-dye": {
+   "formal": false,
+   "title": null
+  },
+  "YBaCuFeO5": {
+   "formal": false,
+   "title": null
+  },
+  "YIG": {
+   "formal": false,
+   "title": null
+  },
+  "YMnO3": {
+   "formal": false,
+   "title": null
+  },
+  "ZEISS-Gemini-300": {
+   "formal": false,
+   "title": null
+  },
+  "Zn2-TTFTB": {
+   "formal": false,
+   "title": null
+  },
+  "ZnO": {
+   "formal": false,
+   "title": null
+  },
+  "ZnPbO3": {
+   "formal": false,
+   "title": null
+  },
+  "ZnSe": {
+   "formal": false,
+   "title": null
+  },
+  "ZrI2": {
+   "formal": false,
+   "title": null
+  }
+ }
+}

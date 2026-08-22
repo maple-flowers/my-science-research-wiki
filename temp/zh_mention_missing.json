@@ -1,0 +1,2594 @@
+[
+  {
+    "citekey": "2019optical",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 1
+  },
+  {
+    "citekey": "aiFerroelectricityCoexistedPorbital2022",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "aiFerroelectricityCoexistedPorbital2022",
+    "type": "concepts",
+    "slug": "easy-plane",
+    "zh": "易磁化面",
+    "title": "易磁化面 / Easy Plane",
+    "count": 2
+  },
+  {
+    "citekey": "aiFerroelectricityCoexistedPorbital2022",
+    "type": "concepts",
+    "slug": "fermi-surface-nesting",
+    "zh": "费米面嵌套",
+    "title": "费米面嵌套 / Fermi Surface Nesting",
+    "count": 1
+  },
+  {
+    "citekey": "aiFerroelectricityCoexistedPorbital2022",
+    "type": "concepts",
+    "slug": "non-centrosymmetric",
+    "zh": "非中心对称",
+    "title": "非中心对称 / Non-centrosymmetric",
+    "count": 1
+  },
+  {
+    "citekey": "aiFerroelectricityCoexistedPorbital2022",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 4
+  },
+  {
+    "citekey": "Barnett2006coexistence",
+    "type": "concepts",
+    "slug": "chirality",
+    "zh": "手性",
+    "title": "手性 / Chirality",
+    "count": 1
+  },
+  {
+    "citekey": "Barnett2006coexistence",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "Barnett2006coexistence",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "Blessing2026optical",
+    "type": "concepts",
+    "slug": "absorption-spectrum",
+    "zh": "吸收光谱",
+    "title": "吸收光谱 / Absorption Spectrum",
+    "count": 3
+  },
+  {
+    "citekey": "Blessing2026optical",
+    "type": "concepts",
+    "slug": "topological-insulator",
+    "zh": "拓扑绝缘体",
+    "title": "拓扑绝缘体 / Topological Insulator (TI)",
+    "count": 1
+  },
+  {
+    "citekey": "blochlProjectorAugmentedwaveMethod1994b",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "blochlProjectorAugmentedwaveMethod1994b",
+    "type": "concepts",
+    "slug": "kohn-anomaly",
+    "zh": "异常",
+    "title": "Kohn 异常 / Kohn Anomaly",
+    "count": 1
+  },
+  {
+    "citekey": "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+    "type": "concepts",
+    "slug": "easy-axis",
+    "zh": "易磁化轴",
+    "title": "易磁化轴 / Easy Axis",
+    "count": 2
+  },
+  {
+    "citekey": "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+    "type": "concepts",
+    "slug": "magnetic-anisotropy",
+    "zh": "磁各向异性",
+    "title": "磁各向异性 / Magnetic Anisotropy",
+    "count": 13
+  },
+  {
+    "citekey": "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 5
+  },
+  {
+    "citekey": "CastroNeto2001charge",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 2
+  },
+  {
+    "citekey": "chen3dLevelSymmetry2025",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "chen3dLevelSymmetry2025",
+    "type": "concepts",
+    "slug": "fermi-surface-nesting",
+    "zh": "费米面嵌套",
+    "title": "费米面嵌套 / Fermi Surface Nesting",
+    "count": 1
+  },
+  {
+    "citekey": "chen3dLevelSymmetry2025",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "chenFerromagneticNonmagnetic1T2022",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "chenStrongSlidingFerroelectricity2024",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "chenStrongSlidingFerroelectricity2024",
+    "type": "concepts",
+    "slug": "non-centrosymmetric",
+    "zh": "非中心对称",
+    "title": "非中心对称 / Non-centrosymmetric",
+    "count": 1
+  },
+  {
+    "citekey": "chenStrongSlidingFerroelectricity2024",
+    "type": "concepts",
+    "slug": "weyl-semimetal",
+    "zh": "外尔半金属",
+    "title": "外尔半金属 / Weyl Semimetal (WSM)",
+    "count": 1
+  },
+  {
+    "citekey": "chowdhuryReviewTheoreticalComputational",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 4
+  },
+  {
+    "citekey": "chowdhuryReviewTheoreticalComputational",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 5
+  },
+  {
+    "citekey": "cossuStackingChargedensityWaves2024",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 6
+  },
+  {
+    "citekey": "cossuStackingChargedensityWaves2024",
+    "type": "concepts",
+    "slug": "periodic-lattice-distortion",
+    "zh": "周期性晶格畸变",
+    "title": "周期性晶格畸变 / Periodic Lattice Distortion (PLD)",
+    "count": 1
+  },
+  {
+    "citekey": "cossuStackingChargedensityWaves2024",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 4
+  },
+  {
+    "citekey": "cuiIntercorrelatedInplaneOutofplane2018a",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "cuiIntercorrelatedInplaneOutofplane2018a",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 11
+  },
+  {
+    "citekey": "Delley2000",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "Delley2000",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "Delley2000",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "Delley2000",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 1
+  },
+  {
+    "citekey": "deSousa2008electrical",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 4
+  },
+  {
+    "citekey": "dingPredictionIntrinsicTwodimensional2017a",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "dingPredictionIntrinsicTwodimensional2017a",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "Doroodmand2017conjugated",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 7
+  },
+  {
+    "citekey": "dudarevElectronenergylossSpectraStructural1998a",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "duUltrasensitiveOptoelectronicBiosensor2025",
+    "type": "concepts",
+    "slug": "absorption-spectrum",
+    "zh": "吸收光谱",
+    "title": "吸收光谱 / Absorption Spectrum",
+    "count": 3
+  },
+  {
+    "citekey": "duUltrasensitiveOptoelectronicBiosensor2025",
+    "type": "concepts",
+    "slug": "pump-probe",
+    "zh": "泵浦",
+    "title": "泵浦-探测技术 / Pump-Probe",
+    "count": 3
+  },
+  {
+    "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+    "type": "concepts",
+    "slug": "edge-state",
+    "zh": "边缘态",
+    "title": "边缘态 / Edge State",
+    "count": 3
+  },
+  {
+    "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 4
+  },
+  {
+    "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+    "type": "concepts",
+    "slug": "topological-insulator",
+    "zh": "拓扑绝缘体",
+    "title": "拓扑绝缘体 / Topological Insulator (TI)",
+    "count": 1
+  },
+  {
+    "citekey": "fengFerroelectricityMultiferroicityTwodimensional2020",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "fengFerroelectricityMultiferroicityTwodimensional2020",
+    "type": "concepts",
+    "slug": "magnetic-anisotropy",
+    "zh": "磁各向异性",
+    "title": "磁各向异性 / Magnetic Anisotropy",
+    "count": 6
+  },
+  {
+    "citekey": "fengFerroelectricityMultiferroicityTwodimensional2020",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 1
+  },
+  {
+    "citekey": "FerroelectricityMultiferroicityAtomic2023",
+    "type": "concepts",
+    "slug": "non-centrosymmetric",
+    "zh": "非中心对称",
+    "title": "非中心对称 / Non-centrosymmetric",
+    "count": 1
+  },
+  {
+    "citekey": "FerroelectricityMultiferroicityAtomic2023",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 6
+  },
+  {
+    "citekey": "fornerQuantumTemperatureEffects1993",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "fornerQuantumTemperatureEffects1993",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "fornerQuantumTemperatureEffects1993",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 1
+  },
+  {
+    "citekey": "gajdosLinearOpticalProperties2006",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "gajdosLinearOpticalProperties2006",
+    "type": "concepts",
+    "slug": "multiferroicity",
+    "zh": "多铁性",
+    "title": "多铁性 / Multiferroicity",
+    "count": 1
+  },
+  {
+    "citekey": "gajdosLinearOpticalProperties2006",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 5
+  },
+  {
+    "citekey": "gongAbsenceCriticalThickness2023",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "gongAbsenceCriticalThickness2023",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "gorkovStrongElectronlatticeCoupling2012",
+    "type": "concepts",
+    "slug": "kohn-anomaly",
+    "zh": "异常",
+    "title": "Kohn 异常 / Kohn Anomaly",
+    "count": 1
+  },
+  {
+    "citekey": "gorkovStrongElectronlatticeCoupling2012",
+    "type": "concepts",
+    "slug": "polarization-switching",
+    "zh": "极化翻转",
+    "title": "极化翻转 / Polarization Switching",
+    "count": 1
+  },
+  {
+    "citekey": "gorkovStrongElectronlatticeCoupling2012",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "Goswami2011multiferroic",
+    "type": "concepts",
+    "slug": "kohn-anomaly",
+    "zh": "异常",
+    "title": "Kohn 异常 / Kohn Anomaly",
+    "count": 1
+  },
+  {
+    "citekey": "Goswami2011multiferroic",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 3
+  },
+  {
+    "citekey": "H2017fluorescence",
+    "type": "concepts",
+    "slug": "fluorescence-quantum-yield",
+    "zh": "荧光量子产率",
+    "title": "荧光量子产率 / Fluorescence Quantum Yield",
+    "count": 1
+  },
+  {
+    "citekey": "hallEnvironmentalControlCharge",
+    "type": "concepts",
+    "slug": "fermi-surface-nesting",
+    "zh": "费米面嵌套",
+    "title": "费米面嵌套 / Fermi Surface Nesting",
+    "count": 2
+  },
+  {
+    "citekey": "hallEnvironmentalControlCharge",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 2
+  },
+  {
+    "citekey": "hallEnvironmentalControlCharge",
+    "type": "concepts",
+    "slug": "pump-probe",
+    "zh": "泵浦",
+    "title": "泵浦-探测技术 / Pump-Probe",
+    "count": 1
+  },
+  {
+    "citekey": "hallEnvironmentalControlCharge",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "hanTunableSlidingFerroelectricity2025",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 3
+  },
+  {
+    "citekey": "henkelmanClimbingImageNudged2000c",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 2
+  },
+  {
+    "citekey": "henkelmanClimbingImageNudged2000c",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "henkelmanClimbingImageNudged2000c",
+    "type": "concepts",
+    "slug": "polarization-switching",
+    "zh": "极化翻转",
+    "title": "极化翻转 / Polarization Switching",
+    "count": 3
+  },
+  {
+    "citekey": "henkelmanClimbingImageNudged2000c",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "hillWhyAreThere2000a",
+    "type": "concepts",
+    "slug": "coercive-field",
+    "zh": "矫顽场",
+    "title": "矫顽场 / Coercive Field (Ec)",
+    "count": 1
+  },
+  {
+    "citekey": "hillWhyAreThere2000a",
+    "type": "concepts",
+    "slug": "kohn-anomaly",
+    "zh": "异常",
+    "title": "Kohn 异常 / Kohn Anomaly",
+    "count": 1
+  },
+  {
+    "citekey": "hillWhyAreThere2000a",
+    "type": "concepts",
+    "slug": "non-centrosymmetric",
+    "zh": "非中心对称",
+    "title": "非中心对称 / Non-centrosymmetric",
+    "count": 1
+  },
+  {
+    "citekey": "hillWhyAreThere2000a",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "houStrainbasedRoomtemperatureNonvolatile2019",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "Huang2019solvatochromic",
+    "type": "concepts",
+    "slug": "absorption-spectrum",
+    "zh": "吸收光谱",
+    "title": "吸收光谱 / Absorption Spectrum",
+    "count": 1
+  },
+  {
+    "citekey": "Huang2019solvatochromic",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 4
+  },
+  {
+    "citekey": "Huang2023two",
+    "type": "concepts",
+    "slug": "fluorescence-quantum-yield",
+    "zh": "荧光量子产率",
+    "title": "荧光量子产率 / Fluorescence Quantum Yield",
+    "count": 3
+  },
+  {
+    "citekey": "Huang2023two",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 8
+  },
+  {
+    "citekey": "Inosov2008fermi",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "Inosov2008fermi",
+    "type": "concepts",
+    "slug": "multiferroicity",
+    "zh": "多铁性",
+    "title": "多铁性 / Multiferroicity",
+    "count": 1
+  },
+  {
+    "citekey": "Inosov2008fermi",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "Islam2025enhancement",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 2
+  },
+  {
+    "citekey": "Islam2025enhancement",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "Islam2025enhancement",
+    "type": "concepts",
+    "slug": "van-hove-singularity",
+    "zh": "范霍夫奇点",
+    "title": "范霍夫奇点 / Van Hove Singularity (vHS)",
+    "count": 1
+  },
+  {
+    "citekey": "Ismail2015humidity",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 10
+  },
+  {
+    "citekey": "ivanovskiOscillationStructureHall1994",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 6
+  },
+  {
+    "citekey": "ivanovskiOscillationStructureHall1994",
+    "type": "concepts",
+    "slug": "topological-insulator",
+    "zh": "拓扑绝缘体",
+    "title": "拓扑绝缘体 / Topological Insulator (TI)",
+    "count": 1
+  },
+  {
+    "citekey": "Jia2023polymerization",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "Johannes2008fermi",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "junqueraCriticalThicknessFerroelectricity2003",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "junqueraCriticalThicknessFerroelectricity2003",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "Kang2012dimer",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "kaurRecentAdvancesTheoretical2025a",
+    "type": "concepts",
+    "slug": "anomalous-hall-effect",
+    "zh": "反常霍尔效应",
+    "title": "反常霍尔效应 / Anomalous Hall Effect (AHE)",
+    "count": 1
+  },
+  {
+    "citekey": "kaurRecentAdvancesTheoretical2025a",
+    "type": "concepts",
+    "slug": "chern-number",
+    "zh": "陈数",
+    "title": "陈数 / Chern Number",
+    "count": 5
+  },
+  {
+    "citekey": "kaurRecentAdvancesTheoretical2025a",
+    "type": "concepts",
+    "slug": "chirality",
+    "zh": "手性",
+    "title": "手性 / Chirality",
+    "count": 6
+  },
+  {
+    "citekey": "kaurRecentAdvancesTheoretical2025a",
+    "type": "concepts",
+    "slug": "coercive-field",
+    "zh": "矫顽场",
+    "title": "矫顽场 / Coercive Field (Ec)",
+    "count": 3
+  },
+  {
+    "citekey": "kaurRecentAdvancesTheoretical2025a",
+    "type": "concepts",
+    "slug": "edge-state",
+    "zh": "边缘态",
+    "title": "边缘态 / Edge State",
+    "count": 4
+  },
+  {
+    "citekey": "kaurRecentAdvancesTheoretical2025a",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 3
+  },
+  {
+    "citekey": "kaurRecentAdvancesTheoretical2025a",
+    "type": "concepts",
+    "slug": "kerr-effect",
+    "zh": "克尔效应",
+    "title": "克尔效应 / Kerr Effect",
+    "count": 1
+  },
+  {
+    "citekey": "kaurRecentAdvancesTheoretical2025a",
+    "type": "concepts",
+    "slug": "non-centrosymmetric",
+    "zh": "非中心对称",
+    "title": "非中心对称 / Non-centrosymmetric",
+    "count": 2
+  },
+  {
+    "citekey": "kawakamiChargedensityWaveAssociated2023",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "khazaeiNovelElectronicMagnetic2013",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "Khitrov2002internal",
+    "type": "concepts",
+    "slug": "photoluminescence",
+    "zh": "光致发光",
+    "title": "光致发光 / Photoluminescence (PL)",
+    "count": 4
+  },
+  {
+    "citekey": "Kim2008effect",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 5
+  },
+  {
+    "citekey": "kimObservationPhaseTransition1997",
+    "type": "concepts",
+    "slug": "ferroelectric-domain",
+    "zh": "铁电畴",
+    "title": "铁电畴 / Ferroelectric Domain",
+    "count": 1
+  },
+  {
+    "citekey": "kimObservationPhaseTransition1997",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "kimObservationPhaseTransition1997",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "king-smithTheoryPolarizationCrystalline1993",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "king-smithTheoryPolarizationCrystalline1993",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "king-smithTheoryPolarizationCrystalline1993",
+    "type": "concepts",
+    "slug": "topological-insulator",
+    "zh": "拓扑绝缘体",
+    "title": "拓扑绝缘体 / Topological Insulator (TI)",
+    "count": 1
+  },
+  {
+    "citekey": "Koley2020charge",
+    "type": "concepts",
+    "slug": "kohn-anomaly",
+    "zh": "异常",
+    "title": "Kohn 异常 / Kohn Anomaly",
+    "count": 2
+  },
+  {
+    "citekey": "Kotz2021polymerization",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 1
+  },
+  {
+    "citekey": "kresseEfficiencyAbinitioTotal1996a",
+    "type": "concepts",
+    "slug": "charge-sloshing",
+    "zh": "电荷震荡",
+    "title": "电荷震荡 / Charge Sloshing",
+    "count": 5
+  },
+  {
+    "citekey": "kresseEfficientIterativeSchemes1996d",
+    "type": "concepts",
+    "slug": "absorption-spectrum",
+    "zh": "吸收光谱",
+    "title": "吸收光谱 / Absorption Spectrum",
+    "count": 1
+  },
+  {
+    "citekey": "kresseEfficientIterativeSchemes1996d",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "kresseInitiomolecularDynamicsLiquid1993",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "kresseInitiomolecularDynamicsLiquid1993",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 3
+  },
+  {
+    "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "kresseUltrasoftPseudopotentialsProjector1999c",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "Kumar2017microstructuring",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 5
+  },
+  {
+    "citekey": "KumarChoubey2011mechanoluminescence",
+    "type": "concepts",
+    "slug": "absorption-spectrum",
+    "zh": "吸收光谱",
+    "title": "吸收光谱 / Absorption Spectrum",
+    "count": 1
+  },
+  {
+    "citekey": "laiTwodimensionalFerromagnetismDriven2019",
+    "type": "concepts",
+    "slug": "easy-axis",
+    "zh": "易磁化轴",
+    "title": "易磁化轴 / Easy Axis",
+    "count": 2
+  },
+  {
+    "citekey": "laiTwodimensionalFerromagnetismDriven2019",
+    "type": "concepts",
+    "slug": "kerr-effect",
+    "zh": "克尔效应",
+    "title": "克尔效应 / Kerr Effect",
+    "count": 1
+  },
+  {
+    "citekey": "laiTwodimensionalFerromagnetismDriven2019",
+    "type": "concepts",
+    "slug": "magnetic-anisotropy",
+    "zh": "磁各向异性",
+    "title": "磁各向异性 / Magnetic Anisotropy",
+    "count": 2
+  },
+  {
+    "citekey": "laiTwodimensionalFerromagnetismDriven2019",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "Laverock2005fermi",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "lezoualchStudyChargeDensity",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "lezoualchStudyChargeDensity",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 5
+  },
+  {
+    "citekey": "Li2013bonding",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "liMonolayerPuckeredPentagonal2022",
+    "type": "concepts",
+    "slug": "easy-axis",
+    "zh": "易磁化轴",
+    "title": "易磁化轴 / Easy Axis",
+    "count": 8
+  },
+  {
+    "citekey": "liMonolayerPuckeredPentagonal2022",
+    "type": "concepts",
+    "slug": "magnetic-anisotropy",
+    "zh": "磁各向异性",
+    "title": "磁各向异性 / Magnetic Anisotropy",
+    "count": 5
+  },
+  {
+    "citekey": "liMonolayerPuckeredPentagonal2022",
+    "type": "concepts",
+    "slug": "polarization-switching",
+    "zh": "极化翻转",
+    "title": "极化翻转 / Polarization Switching",
+    "count": 1
+  },
+  {
+    "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+    "type": "concepts",
+    "slug": "magnetic-anisotropy",
+    "zh": "磁各向异性",
+    "title": "磁各向异性 / Magnetic Anisotropy",
+    "count": 3
+  },
+  {
+    "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+    "type": "concepts",
+    "slug": "multiferroicity",
+    "zh": "多铁性",
+    "title": "多铁性 / Multiferroicity",
+    "count": 1
+  },
+  {
+    "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+    "type": "concepts",
+    "slug": "spin-current",
+    "zh": "自旋流",
+    "title": "自旋流 / Spin Current",
+    "count": 11
+  },
+  {
+    "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+    "type": "concepts",
+    "slug": "surface-state",
+    "zh": "表面态",
+    "title": "表面态 / Surface State",
+    "count": 8
+  },
+  {
+    "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+    "type": "concepts",
+    "slug": "topological-insulator",
+    "zh": "拓扑绝缘体",
+    "title": "拓扑绝缘体 / Topological Insulator (TI)",
+    "count": 6
+  },
+  {
+    "citekey": "lvUnconventionalHystereticTransition2022",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 2
+  },
+  {
+    "citekey": "lvUnconventionalHystereticTransition2022",
+    "type": "concepts",
+    "slug": "polarization-switching",
+    "zh": "极化翻转",
+    "title": "极化翻转 / Polarization Switching",
+    "count": 1
+  },
+  {
+    "citekey": "majumdarInterplayChargeDensity2020",
+    "type": "concepts",
+    "slug": "kohn-anomaly",
+    "zh": "异常",
+    "title": "Kohn 异常 / Kohn Anomaly",
+    "count": 3
+  },
+  {
+    "citekey": "majumdarInterplayChargeDensity2020",
+    "type": "concepts",
+    "slug": "pseudogap",
+    "zh": "赝能隙",
+    "title": "赝能隙 / Pseudogap",
+    "count": 1
+  },
+  {
+    "citekey": "majumdarInterplayChargeDensity2020",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 9
+  },
+  {
+    "citekey": "Makogon2012wave",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 2
+  },
+  {
+    "citekey": "Makogon2012wave",
+    "type": "concepts",
+    "slug": "multiferroicity",
+    "zh": "多铁性",
+    "title": "多铁性 / Multiferroicity",
+    "count": 1
+  },
+  {
+    "citekey": "Mińkowski2021cation",
+    "type": "concepts",
+    "slug": "ferroelectric-domain",
+    "zh": "铁电畴",
+    "title": "铁电畴 / Ferroelectric Domain",
+    "count": 1
+  },
+  {
+    "citekey": "monkhorstSpecialPointsBrillouinzone1976",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 2
+  },
+  {
+    "citekey": "monkhorstSpecialPointsBrillouinzone1976",
+    "type": "concepts",
+    "slug": "fermi-surface-nesting",
+    "zh": "费米面嵌套",
+    "title": "费米面嵌套 / Fermi Surface Nesting",
+    "count": 1
+  },
+  {
+    "citekey": "monkhorstSpecialPointsBrillouinzone1976",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "naguib25thAnniversaryArticle2013a",
+    "type": "concepts",
+    "slug": "kohn-anomaly",
+    "zh": "异常",
+    "title": "Kohn 异常 / Kohn Anomaly",
+    "count": 1
+  },
+  {
+    "citekey": "naguib25thAnniversaryArticle2013a",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 4
+  },
+  {
+    "citekey": "nahasFrustrationSelfOrderingTopological2016",
+    "type": "concepts",
+    "slug": "ferroelectric-domain",
+    "zh": "铁电畴",
+    "title": "铁电畴 / Ferroelectric Domain",
+    "count": 1
+  },
+  {
+    "citekey": "nahasFrustrationSelfOrderingTopological2016",
+    "type": "concepts",
+    "slug": "kohn-anomaly",
+    "zh": "异常",
+    "title": "Kohn 异常 / Kohn Anomaly",
+    "count": 1
+  },
+  {
+    "citekey": "nahasFrustrationSelfOrderingTopological2016",
+    "type": "concepts",
+    "slug": "topological-charge",
+    "zh": "拓扑荷",
+    "title": "拓扑荷 / Topological Charge",
+    "count": 2
+  },
+  {
+    "citekey": "Nakanishi2009full",
+    "type": "concepts",
+    "slug": "pump-probe",
+    "zh": "泵浦",
+    "title": "泵浦-探测技术 / Pump-Probe",
+    "count": 2
+  },
+  {
+    "citekey": "nakataRobustChargedensityWave2021",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "nakataRobustChargedensityWave2021",
+    "type": "concepts",
+    "slug": "kohn-anomaly",
+    "zh": "异常",
+    "title": "Kohn 异常 / Kohn Anomaly",
+    "count": 1
+  },
+  {
+    "citekey": "nakataRobustChargedensityWave2021",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "nakataRobustChargedensityWave2021",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "nicholsonUniaxialStraininducedPhase2021",
+    "type": "concepts",
+    "slug": "dirac-semimetal",
+    "zh": "狄拉克半金属",
+    "title": "狄拉克半金属 / Dirac Semimetal (DSM)",
+    "count": 1
+  },
+  {
+    "citekey": "nicholsonUniaxialStraininducedPhase2021",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 2
+  },
+  {
+    "citekey": "nicholsonUniaxialStraininducedPhase2021",
+    "type": "concepts",
+    "slug": "kohn-anomaly",
+    "zh": "异常",
+    "title": "Kohn 异常 / Kohn Anomaly",
+    "count": 1
+  },
+  {
+    "citekey": "nicholsonUniaxialStraininducedPhase2021",
+    "type": "concepts",
+    "slug": "surface-state",
+    "zh": "表面态",
+    "title": "表面态 / Surface State",
+    "count": 2
+  },
+  {
+    "citekey": "niuDirectVisualizationLargeScale2021",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "niuDirectVisualizationLargeScale2021",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "noseUnifiedFormulationConstant1984",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 2
+  },
+  {
+    "citekey": "PChandra2011mechanoluminescence",
+    "type": "concepts",
+    "slug": "non-centrosymmetric",
+    "zh": "非中心对称",
+    "title": "非中心对称 / Non-centrosymmetric",
+    "count": 1
+  },
+  {
+    "citekey": "PChandra2011mechanoluminescence",
+    "type": "concepts",
+    "slug": "photoluminescence",
+    "zh": "光致发光",
+    "title": "光致发光 / Photoluminescence (PL)",
+    "count": 1
+  },
+  {
+    "citekey": "PChandra2011mechanoluminescence",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "pengStrainEngineering2D2020",
+    "type": "concepts",
+    "slug": "photoluminescence",
+    "zh": "光致发光",
+    "title": "光致发光 / Photoluminescence (PL)",
+    "count": 1
+  },
+  {
+    "citekey": "pengStrainEngineering2D2020",
+    "type": "concepts",
+    "slug": "polarization-switching",
+    "zh": "极化翻转",
+    "title": "极化翻转 / Polarization Switching",
+    "count": 1
+  },
+  {
+    "citekey": "pengStrainEngineering2D2020",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 9
+  },
+  {
+    "citekey": "perdewGeneralizedGradientApproximation1996a",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "Perugu2024morphology",
+    "type": "concepts",
+    "slug": "ferroelectric-domain",
+    "zh": "铁电畴",
+    "title": "铁电畴 / Ferroelectric Domain",
+    "count": 1
+  },
+  {
+    "citekey": "Perugu2024morphology",
+    "type": "concepts",
+    "slug": "polarization-switching",
+    "zh": "极化翻转",
+    "title": "极化翻转 / Polarization Switching",
+    "count": 1
+  },
+  {
+    "citekey": "Perugu2024morphology",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "Petkov2020hierarchy",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 2
+  },
+  {
+    "citekey": "petkovStructureIntercalatedCs2002",
+    "type": "concepts",
+    "slug": "fermi-surface-nesting",
+    "zh": "费米面嵌套",
+    "title": "费米面嵌套 / Fermi Surface Nesting",
+    "count": 1
+  },
+  {
+    "citekey": "RecentAdvancesGrowth2025",
+    "type": "concepts",
+    "slug": "chirality",
+    "zh": "手性",
+    "title": "手性 / Chirality",
+    "count": 1
+  },
+  {
+    "citekey": "RecentAdvancesGrowth2025",
+    "type": "concepts",
+    "slug": "non-centrosymmetric",
+    "zh": "非中心对称",
+    "title": "非中心对称 / Non-centrosymmetric",
+    "count": 1
+  },
+  {
+    "citekey": "RecentAdvancesGrowth2025",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 5
+  },
+  {
+    "citekey": "RecentAdvancesGrowth2025",
+    "type": "concepts",
+    "slug": "spin-current",
+    "zh": "自旋流",
+    "title": "自旋流 / Spin Current",
+    "count": 4
+  },
+  {
+    "citekey": "RecentAdvancesGrowth2025",
+    "type": "concepts",
+    "slug": "spin-spiral",
+    "zh": "螺旋磁序",
+    "title": "螺旋磁序 / Spin Spiral",
+    "count": 7
+  },
+  {
+    "citekey": "sattarFunctionalizedDoubleTransition2025",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "sattarFunctionalizedDoubleTransition2025",
+    "type": "concepts",
+    "slug": "multiferroicity",
+    "zh": "多铁性",
+    "title": "多铁性 / Multiferroicity",
+    "count": 1
+  },
+  {
+    "citekey": "Scremin2018nonlinear",
+    "type": "concepts",
+    "slug": "absorption-spectrum",
+    "zh": "吸收光谱",
+    "title": "吸收光谱 / Absorption Spectrum",
+    "count": 3
+  },
+  {
+    "citekey": "Scremin2018nonlinear",
+    "type": "concepts",
+    "slug": "pump-probe",
+    "zh": "泵浦",
+    "title": "泵浦-探测技术 / Pump-Probe",
+    "count": 1
+  },
+  {
+    "citekey": "Scremin2018nonlinear",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 1
+  },
+  {
+    "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "shuTwoDimensionalBlackArsenic2020",
+    "type": "concepts",
+    "slug": "absorption-spectrum",
+    "zh": "吸收光谱",
+    "title": "吸收光谱 / Absorption Spectrum",
+    "count": 1
+  },
+  {
+    "citekey": "shuTwoDimensionalBlackArsenic2020",
+    "type": "concepts",
+    "slug": "pump-probe",
+    "zh": "泵浦",
+    "title": "泵浦-探测技术 / Pump-Probe",
+    "count": 6
+  },
+  {
+    "citekey": "shuTwoDimensionalBlackArsenic2020",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 2
+  },
+  {
+    "citekey": "songEvidenceSinglelayerVan2022",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "songEvidenceSinglelayerVan2022",
+    "type": "concepts",
+    "slug": "chirality",
+    "zh": "手性",
+    "title": "手性 / Chirality",
+    "count": 9
+  },
+  {
+    "citekey": "songEvidenceSinglelayerVan2022",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "songEvidenceSinglelayerVan2022",
+    "type": "concepts",
+    "slug": "raman-scattering",
+    "zh": "拉曼散射",
+    "title": "拉曼散射 / Raman Scattering",
+    "count": 1
+  },
+  {
+    "citekey": "songEvidenceSinglelayerVan2022",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 3
+  },
+  {
+    "citekey": "songEvidenceSinglelayerVan2022",
+    "type": "concepts",
+    "slug": "spin-current",
+    "zh": "自旋流",
+    "title": "自旋流 / Spin Current",
+    "count": 3
+  },
+  {
+    "citekey": "songEvidenceSinglelayerVan2022",
+    "type": "concepts",
+    "slug": "spin-spiral",
+    "zh": "螺旋磁序",
+    "title": "螺旋磁序 / Spin Spiral",
+    "count": 1
+  },
+  {
+    "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+    "type": "concepts",
+    "slug": "chirality",
+    "zh": "手性",
+    "title": "手性 / Chirality",
+    "count": 3
+  },
+  {
+    "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+    "type": "concepts",
+    "slug": "ferroelectric-domain",
+    "zh": "铁电畴",
+    "title": "铁电畴 / Ferroelectric Domain",
+    "count": 1
+  },
+  {
+    "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 2
+  },
+  {
+    "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+    "type": "concepts",
+    "slug": "non-centrosymmetric",
+    "zh": "非中心对称",
+    "title": "非中心对称 / Non-centrosymmetric",
+    "count": 7
+  },
+  {
+    "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 6
+  },
+  {
+    "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+    "type": "concepts",
+    "slug": "second-harmonic-generation",
+    "zh": "二次谐波产生",
+    "title": "二次谐波产生 / Second-Harmonic Generation (SHG)",
+    "count": 1
+  },
+  {
+    "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 1
+  },
+  {
+    "citekey": "tahirFerroelectricityNonvolatileMemristor2025",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "tahirFerroelectricityNonvolatileMemristor2025",
+    "type": "concepts",
+    "slug": "coercive-field",
+    "zh": "矫顽场",
+    "title": "矫顽场 / Coercive Field (Ec)",
+    "count": 2
+  },
+  {
+    "citekey": "tahirFerroelectricityNonvolatileMemristor2025",
+    "type": "concepts",
+    "slug": "ferroelectric-domain",
+    "zh": "铁电畴",
+    "title": "铁电畴 / Ferroelectric Domain",
+    "count": 3
+  },
+  {
+    "citekey": "tahirFerroelectricityNonvolatileMemristor2025",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "tahirFerroelectricityNonvolatileMemristor2025",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 1
+  },
+  {
+    "citekey": "tangCombiningIntrinsicSlidinginduced2025",
+    "type": "concepts",
+    "slug": "periodic-lattice-distortion",
+    "zh": "周期性晶格畸变",
+    "title": "周期性晶格畸变 / Periodic Lattice Distortion (PLD)",
+    "count": 1
+  },
+  {
+    "citekey": "tangGridbasedBaderAnalysis2009",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "tangGridbasedBaderAnalysis2009",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "tangGridbasedBaderAnalysis2009",
+    "type": "concepts",
+    "slug": "polarization-switching",
+    "zh": "极化翻转",
+    "title": "极化翻转 / Polarization Switching",
+    "count": 1
+  },
+  {
+    "citekey": "tangMultiferroicityTwodimensionalVan2025",
+    "type": "concepts",
+    "slug": "magnetic-anisotropy",
+    "zh": "磁各向异性",
+    "title": "磁各向异性 / Magnetic Anisotropy",
+    "count": 2
+  },
+  {
+    "citekey": "tangMultiferroicityTwodimensionalVan2025",
+    "type": "concepts",
+    "slug": "non-centrosymmetric",
+    "zh": "非中心对称",
+    "title": "非中心对称 / Non-centrosymmetric",
+    "count": 2
+  },
+  {
+    "citekey": "tangMultiferroicityTwodimensionalVan2025",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 3
+  },
+  {
+    "citekey": "Terasaki2011ultrasonic",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 3
+  },
+  {
+    "citekey": "tianRoomtemperatureTwodimensionalMultiferroic2026",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "tianRoomtemperatureTwodimensionalMultiferroic2026",
+    "type": "concepts",
+    "slug": "ferroelectric-domain",
+    "zh": "铁电畴",
+    "title": "铁电畴 / Ferroelectric Domain",
+    "count": 2
+  },
+  {
+    "citekey": "Tobeiha2025optical",
+    "type": "concepts",
+    "slug": "absorption-spectrum",
+    "zh": "吸收光谱",
+    "title": "吸收光谱 / Absorption Spectrum",
+    "count": 2
+  },
+  {
+    "citekey": "Tobeiha2025optical",
+    "type": "concepts",
+    "slug": "kohn-anomaly",
+    "zh": "异常",
+    "title": "Kohn 异常 / Kohn Anomaly",
+    "count": 3
+  },
+  {
+    "citekey": "Tobeiha2025optical",
+    "type": "concepts",
+    "slug": "photoluminescence",
+    "zh": "光致发光",
+    "title": "光致发光 / Photoluminescence (PL)",
+    "count": 1
+  },
+  {
+    "citekey": "Tobeiha2025optical",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 5
+  },
+  {
+    "citekey": "TSUJI2019phosphorescence",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 3
+  },
+  {
+    "citekey": "Unknown2003charge",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 5
+  },
+  {
+    "citekey": "Unknown2022polymerization",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 5
+  },
+  {
+    "citekey": "Unknown2025diffractive",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 6
+  },
+  {
+    "citekey": "vahidmohammadiWorldTwodimensionalCarbides2021",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "vahidmohammadiWorldTwodimensionalCarbides2021",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "vanvleckSurveyTheoryFerromagnetism1945",
+    "type": "concepts",
+    "slug": "magnetic-anisotropy",
+    "zh": "磁各向异性",
+    "title": "磁各向异性 / Magnetic Anisotropy",
+    "count": 1
+  },
+  {
+    "citekey": "vanvleckSurveyTheoryFerromagnetism1945",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 2
+  },
+  {
+    "citekey": "vanvleckSurveyTheoryFerromagnetism1945",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 3
+  },
+  {
+    "citekey": "Wang2023ultracompact",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 2
+  },
+  {
+    "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+    "type": "concepts",
+    "slug": "fermi-surface-nesting",
+    "zh": "费米面嵌套",
+    "title": "费米面嵌套 / Fermi Surface Nesting",
+    "count": 1
+  },
+  {
+    "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+    "type": "concepts",
+    "slug": "kohn-anomaly",
+    "zh": "异常",
+    "title": "Kohn 异常 / Kohn Anomaly",
+    "count": 1
+  },
+  {
+    "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 1
+  },
+  {
+    "citekey": "wangTunableD0Topological2025b",
+    "type": "concepts",
+    "slug": "chirality",
+    "zh": "手性",
+    "title": "手性 / Chirality",
+    "count": 8
+  },
+  {
+    "citekey": "wangTunableD0Topological2025b",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "wangTwodimensionalFerroelectricMetal2025",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "Wei2021",
+    "type": "concepts",
+    "slug": "chirality",
+    "zh": "手性",
+    "title": "手性 / Chirality",
+    "count": 15
+  },
+  {
+    "citekey": "Wei2021",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 7
+  },
+  {
+    "citekey": "wernetSpectroscopicCharacterizationMicroscopic2005",
+    "type": "concepts",
+    "slug": "absorption-spectrum",
+    "zh": "吸收光谱",
+    "title": "吸收光谱 / Absorption Spectrum",
+    "count": 1
+  },
+  {
+    "citekey": "wernetSpectroscopicCharacterizationMicroscopic2005",
+    "type": "concepts",
+    "slug": "raman-scattering",
+    "zh": "拉曼散射",
+    "title": "拉曼散射 / Raman Scattering",
+    "count": 3
+  },
+  {
+    "citekey": "Wixtrom2011electrical",
+    "type": "concepts",
+    "slug": "multiferroicity",
+    "zh": "多铁性",
+    "title": "多铁性 / Multiferroicity",
+    "count": 1
+  },
+  {
+    "citekey": "wongEvidenceMetallic1T",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "wongEvidenceMetallic1T",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 4
+  },
+  {
+    "citekey": "Wu2021",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "Wu2021",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "Wu2021",
+    "type": "concepts",
+    "slug": "polarization-switching",
+    "zh": "极化翻转",
+    "title": "极化翻转 / Polarization Switching",
+    "count": 1
+  },
+  {
+    "citekey": "Wu2021",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 4
+  },
+  {
+    "citekey": "Wu2021",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 1
+  },
+  {
+    "citekey": "wuElectrostaticGatingIntercalation2022",
+    "type": "concepts",
+    "slug": "magnetic-anisotropy",
+    "zh": "磁各向异性",
+    "title": "磁各向异性 / Magnetic Anisotropy",
+    "count": 3
+  },
+  {
+    "citekey": "wuElectrostaticGatingIntercalation2022",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 7
+  },
+  {
+    "citekey": "wuNonvolatileSwitchableHalfmetallicity2024",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "wuNonvolatileSwitchableHalfmetallicity2024",
+    "type": "concepts",
+    "slug": "easy-axis",
+    "zh": "易磁化轴",
+    "title": "易磁化轴 / Easy Axis",
+    "count": 1
+  },
+  {
+    "citekey": "wuNonvolatileSwitchableHalfmetallicity2024",
+    "type": "concepts",
+    "slug": "magnetic-anisotropy",
+    "zh": "磁各向异性",
+    "title": "磁各向异性 / Magnetic Anisotropy",
+    "count": 4
+  },
+  {
+    "citekey": "wuNonvolatileSwitchableHalfmetallicity2024",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "wuNonvolatileSwitchableHalfmetallicity2024",
+    "type": "concepts",
+    "slug": "time-reversal-symmetry",
+    "zh": "时间反演对称性",
+    "title": "时间反演对称性 / Time-Reversal Symmetry",
+    "count": 1
+  },
+  {
+    "citekey": "wuSlidingFerroelectricity2D2021a",
+    "type": "concepts",
+    "slug": "anomalous-hall-effect",
+    "zh": "反常霍尔效应",
+    "title": "反常霍尔效应 / Anomalous Hall Effect (AHE)",
+    "count": 3
+  },
+  {
+    "citekey": "wuSlidingFerroelectricity2D2021a",
+    "type": "concepts",
+    "slug": "berry-curvature",
+    "zh": "贝里曲率",
+    "title": "贝里曲率 / Berry Curvature",
+    "count": 1
+  },
+  {
+    "citekey": "wuSlidingFerroelectricity2D2021a",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "wuSlidingFerroelectricity2D2021a",
+    "type": "concepts",
+    "slug": "non-centrosymmetric",
+    "zh": "非中心对称",
+    "title": "非中心对称 / Non-centrosymmetric",
+    "count": 3
+  },
+  {
+    "citekey": "wuSlidingFerroelectricity2D2021a",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 6
+  },
+  {
+    "citekey": "xiangTwodimensionalRoomTemperature2020",
+    "type": "concepts",
+    "slug": "interlayer-coupling",
+    "zh": "层间耦合",
+    "title": "层间耦合 / Interlayer Coupling",
+    "count": 3
+  },
+  {
+    "citekey": "xiangTwodimensionalRoomTemperature2020",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "xiangTwodimensionalRoomTemperature2020",
+    "type": "entities",
+    "slug": "TMDs",
+    "zh": "过渡金属硫族化合物",
+    "title": "过渡金属硫族化合物 / Transition Metal Dichalcogenides (TMDs)",
+    "count": 1
+  },
+  {
+    "citekey": "Xie2024isostructural",
+    "type": "concepts",
+    "slug": "non-centrosymmetric",
+    "zh": "非中心对称",
+    "title": "非中心对称 / Non-centrosymmetric",
+    "count": 2
+  },
+  {
+    "citekey": "Xie2024isostructural",
+    "type": "concepts",
+    "slug": "photoluminescence",
+    "zh": "光致发光",
+    "title": "光致发光 / Photoluminescence (PL)",
+    "count": 1
+  },
+  {
+    "citekey": "Xie2024isostructural",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 6
+  },
+  {
+    "citekey": "xueEmergingNonvolatileMemories2011",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "xueEmergingNonvolatileMemories2011",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 2
+  },
+  {
+    "citekey": "xueEmergingNonvolatileMemories2011",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 1
+  },
+  {
+    "citekey": "xunCoexistingMagnetismFerroelectric2024",
+    "type": "concepts",
+    "slug": "anomalous-hall-effect",
+    "zh": "反常霍尔效应",
+    "title": "反常霍尔效应 / Anomalous Hall Effect (AHE)",
+    "count": 1
+  },
+  {
+    "citekey": "xunCoexistingMagnetismFerroelectric2024",
+    "type": "concepts",
+    "slug": "berry-curvature",
+    "zh": "贝里曲率",
+    "title": "贝里曲率 / Berry Curvature",
+    "count": 10
+  },
+  {
+    "citekey": "xunCoexistingMagnetismFerroelectric2024",
+    "type": "concepts",
+    "slug": "ferroelectric-domain",
+    "zh": "铁电畴",
+    "title": "铁电畴 / Ferroelectric Domain",
+    "count": 1
+  },
+  {
+    "citekey": "xunCoexistingMagnetismFerroelectric2024",
+    "type": "concepts",
+    "slug": "polarization-switching",
+    "zh": "极化翻转",
+    "title": "极化翻转 / Polarization Switching",
+    "count": 4
+  },
+  {
+    "citekey": "xunCoexistingMagnetismFerroelectric2024",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 5
+  },
+  {
+    "citekey": "xuTwodimensionalFerroelasticityVan2021",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 7
+  },
+  {
+    "citekey": "yanagizawaSwitchingChargedensityWave2023",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "yanDecipheringStabilityTwodimensional2025",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "yangStrainEngineeringTwodimensional2021",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "yangStrainEngineeringTwodimensional2021",
+    "type": "concepts",
+    "slug": "non-centrosymmetric",
+    "zh": "非中心对称",
+    "title": "非中心对称 / Non-centrosymmetric",
+    "count": 1
+  },
+  {
+    "citekey": "yangStrainEngineeringTwodimensional2021",
+    "type": "concepts",
+    "slug": "photoluminescence",
+    "zh": "光致发光",
+    "title": "光致发光 / Photoluminescence (PL)",
+    "count": 1
+  },
+  {
+    "citekey": "yangStrainEngineeringTwodimensional2021",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 23
+  },
+  {
+    "citekey": "Yarai2005optical",
+    "type": "concepts",
+    "slug": "pump-probe",
+    "zh": "泵浦",
+    "title": "泵浦-探测技术 / Pump-Probe",
+    "count": 26
+  },
+  {
+    "citekey": "Yarai2005optical",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 7
+  },
+  {
+    "citekey": "zahraCriticalAnalysisFerroelectric2025",
+    "type": "concepts",
+    "slug": "magnetic-anisotropy",
+    "zh": "磁各向异性",
+    "title": "磁各向异性 / Magnetic Anisotropy",
+    "count": 3
+  },
+  {
+    "citekey": "zahraCriticalAnalysisFerroelectric2025",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 3
+  },
+  {
+    "citekey": "Zhang2002b",
+    "type": "concepts",
+    "slug": "polarization-switching",
+    "zh": "极化翻转",
+    "title": "极化翻转 / Polarization Switching",
+    "count": 1
+  },
+  {
+    "citekey": "Zhang2002b",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 2
+  },
+  {
+    "citekey": "Zhang2019a",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "Zhang2019b",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "Zhang2019b",
+    "type": "concepts",
+    "slug": "kohn-anomaly",
+    "zh": "异常",
+    "title": "Kohn 异常 / Kohn Anomaly",
+    "count": 3
+  },
+  {
+    "citekey": "Zhang2019b",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "Zhang2019b",
+    "type": "concepts",
+    "slug": "polarization-switching",
+    "zh": "极化翻转",
+    "title": "极化翻转 / Polarization Switching",
+    "count": 1
+  },
+  {
+    "citekey": "Zhang2019b",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 8
+  },
+  {
+    "citekey": "Zhang2019b",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 1
+  },
+  {
+    "citekey": "Zhang2019c",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 4
+  },
+  {
+    "citekey": "zhangNonvolatileControlTopological2025",
+    "type": "concepts",
+    "slug": "chirality",
+    "zh": "手性",
+    "title": "手性 / Chirality",
+    "count": 1
+  },
+  {
+    "citekey": "zhangNonvolatileControlTopological2025",
+    "type": "concepts",
+    "slug": "magnetic-anisotropy",
+    "zh": "磁各向异性",
+    "title": "磁各向异性 / Magnetic Anisotropy",
+    "count": 1
+  },
+  {
+    "citekey": "zhaoOpticalFingerprintsTwodimensional2024",
+    "type": "concepts",
+    "slug": "kerr-effect",
+    "zh": "克尔效应",
+    "title": "克尔效应 / Kerr Effect",
+    "count": 2
+  },
+  {
+    "citekey": "zhaoOpticalFingerprintsTwodimensional2024",
+    "type": "concepts",
+    "slug": "kohn-anomaly",
+    "zh": "异常",
+    "title": "Kohn 异常 / Kohn Anomaly",
+    "count": 2
+  },
+  {
+    "citekey": "zhaoOpticalFingerprintsTwodimensional2024",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 6
+  },
+  {
+    "citekey": "zhaoRealization2DMultiferroic2024",
+    "type": "concepts",
+    "slug": "chirality",
+    "zh": "手性",
+    "title": "手性 / Chirality",
+    "count": 6
+  },
+  {
+    "citekey": "zhaoRealization2DMultiferroic2024",
+    "type": "concepts",
+    "slug": "easy-axis",
+    "zh": "易磁化轴",
+    "title": "易磁化轴 / Easy Axis",
+    "count": 3
+  },
+  {
+    "citekey": "zhaoRealization2DMultiferroic2024",
+    "type": "concepts",
+    "slug": "magnetic-anisotropy",
+    "zh": "磁各向异性",
+    "title": "磁各向异性 / Magnetic Anisotropy",
+    "count": 2
+  },
+  {
+    "citekey": "zhaoRealization2DMultiferroic2024",
+    "type": "concepts",
+    "slug": "non-centrosymmetric",
+    "zh": "非中心对称",
+    "title": "非中心对称 / Non-centrosymmetric",
+    "count": 2
+  },
+  {
+    "citekey": "zhaoRealization2DMultiferroic2024",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "zhongHighthroughputExfoliationMultiferroic2025",
+    "type": "concepts",
+    "slug": "magnetic-anisotropy",
+    "zh": "磁各向异性",
+    "title": "磁各向异性 / Magnetic Anisotropy",
+    "count": 1
+  },
+  {
+    "citekey": "Şahin2009probe",
+    "type": "concepts",
+    "slug": "charge-density-wave",
+    "zh": "电荷密度波",
+    "title": "电荷密度波 / Charge Density Wave (CDW)",
+    "count": 1
+  },
+  {
+    "citekey": "Şahin2009probe",
+    "type": "concepts",
+    "slug": "fermi-surface-nesting",
+    "zh": "费米面嵌套",
+    "title": "费米面嵌套 / Fermi Surface Nesting",
+    "count": 1
+  },
+  {
+    "citekey": "Şahin2009probe",
+    "type": "concepts",
+    "slug": "magnetoelectric-coupling",
+    "zh": "磁电耦合",
+    "title": "磁电耦合 / Magnetoelectric Coupling",
+    "count": 1
+  },
+  {
+    "citekey": "Şahin2009probe",
+    "type": "concepts",
+    "slug": "rashba-effect",
+    "zh": "效应",
+    "title": "Rashba 效应 / Rashba Effect",
+    "count": 1
+  },
+  {
+    "citekey": "Şahin2009probe",
+    "type": "concepts",
+    "slug": "two-photon-absorption",
+    "zh": "双光子吸收",
+    "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+    "count": 1
+  }
+]

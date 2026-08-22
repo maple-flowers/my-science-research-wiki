@@ -1,0 +1,282 @@
+{
+  "forward_missing": [],
+  "backward_missing": [
+    {
+      "citekey": "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+      "type": "concepts",
+      "slug": "coercive-field",
+      "label": "矫顽场 / Coercive Field (Ec)"
+    },
+    {
+      "citekey": "chowdhuryReviewTheoreticalComputational",
+      "type": "concepts",
+      "slug": "fermi-surface-nesting",
+      "label": "费米面嵌套 / Fermi Surface Nesting"
+    },
+    {
+      "citekey": "chowdhuryReviewTheoreticalComputational",
+      "type": "concepts",
+      "slug": "kohn-anomaly",
+      "label": "Kohn 异常 / Kohn Anomaly"
+    },
+    {
+      "citekey": "cuiIntercorrelatedInplaneOutofplane2018a",
+      "type": "concepts",
+      "slug": "coercive-field",
+      "label": "矫顽场 / Coercive Field (Ec)"
+    },
+    {
+      "citekey": "dingPredictionIntrinsicTwodimensional2017a",
+      "type": "concepts",
+      "slug": "band-alignment",
+      "label": "能带对齐 (Band Alignment)"
+    },
+    {
+      "citekey": "gajdosLinearOpticalProperties2006",
+      "type": "concepts",
+      "slug": "monkhorst-pack-grid",
+      "label": "Monkhorst-Pack Grid / Monkhorst-Pack 网格"
+    },
+    {
+      "citekey": "gorkovStrongElectronlatticeCoupling2012",
+      "type": "concepts",
+      "slug": "fermi-surface-nesting",
+      "label": "费米面嵌套 / Fermi Surface Nesting"
+    },
+    {
+      "citekey": "houStrainbasedRoomtemperatureNonvolatile2019",
+      "type": "concepts",
+      "slug": "ferroelectric-domain",
+      "label": "铁电畴 / Ferroelectric Domain"
+    },
+    {
+      "citekey": "Islam2025enhancement",
+      "type": "concepts",
+      "slug": "fermi-surface-nesting",
+      "label": "费米面嵌套 / Fermi Surface Nesting"
+    },
+    {
+      "citekey": "Jia2023polymerization",
+      "type": "concepts",
+      "slug": "topological-charge",
+      "label": "拓扑荷 / Topological Charge"
+    },
+    {
+      "citekey": "junqueraCriticalThicknessFerroelectricity2003",
+      "type": "concepts",
+      "slug": "coercive-field",
+      "label": "矫顽场 / Coercive Field (Ec)"
+    },
+    {
+      "citekey": "kaurRecentAdvancesTheoretical2025a",
+      "type": "concepts",
+      "slug": "spin-texture",
+      "label": ""
+    },
+    {
+      "citekey": "Khitrov2002internal",
+      "type": "concepts",
+      "slug": "two-photon-absorption",
+      "label": "双光子吸收 / Two-Photon Absorption (TPA)"
+    },
+    {
+      "citekey": "Kim2008effect",
+      "type": "concepts",
+      "slug": "coercive-field",
+      "label": "矫顽场 / Coercive Field (Ec)"
+    },
+    {
+      "citekey": "Koley2020charge",
+      "type": "concepts",
+      "slug": "peierls-instability",
+      "label": "派尔斯不稳定性 / Peierls Instability"
+    },
+    {
+      "citekey": "kresseInitiomolecularDynamicsLiquid1993",
+      "type": "concepts",
+      "slug": "pseudogap",
+      "label": "赝能隙 / Pseudogap"
+    },
+    {
+      "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+      "type": "concepts",
+      "slug": "pseudogap",
+      "label": "赝能隙 / Pseudogap"
+    },
+    {
+      "citekey": "laiTwodimensionalFerromagnetismDriven2019",
+      "type": "entities",
+      "slug": "CrI3",
+      "label": "三碘化铬 (CrI₃)"
+    },
+    {
+      "citekey": "Laverock2005fermi",
+      "type": "concepts",
+      "slug": "kohn-anomaly",
+      "label": "Kohn 异常 / Kohn Anomaly"
+    },
+    {
+      "citekey": "majumdarInterplayChargeDensity2020",
+      "type": "concepts",
+      "slug": "fermi-surface-nesting",
+      "label": "费米面嵌套 / Fermi Surface Nesting"
+    },
+    {
+      "citekey": "perdewGeneralizedGradientApproximation1996a",
+      "type": "concepts",
+      "slug": "mott-insulator",
+      "label": "莫特绝缘体 / Mott Insulator"
+    },
+    {
+      "citekey": "RecentAdvancesGrowth2025",
+      "type": "concepts",
+      "slug": "electromagnon",
+      "label": "电磁振子 / Electromagnon"
+    },
+    {
+      "citekey": "RecentAdvancesGrowth2025",
+      "type": "concepts",
+      "slug": "time-reversal-symmetry",
+      "label": "时间反演对称性 / Time-Reversal Symmetry"
+    },
+    {
+      "citekey": "sattarFunctionalizedDoubleTransition2025",
+      "type": "concepts",
+      "slug": "ferroelectric-domain",
+      "label": "铁电畴 / Ferroelectric Domain"
+    },
+    {
+      "citekey": "sattarFunctionalizedDoubleTransition2025",
+      "type": "concepts",
+      "slug": "memristor",
+      "label": "忆阻器 (Memristor)"
+    },
+    {
+      "citekey": "shenEmergenceMultipleFerroelectric2025",
+      "type": "concepts",
+      "slug": "ferroelectric-domain",
+      "label": "铁电畴 / Ferroelectric Domain"
+    },
+    {
+      "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+      "type": "concepts",
+      "slug": "paw-method",
+      "label": "投影增强波法 / Projector Augmented-Wave Method (PAW)"
+    },
+    {
+      "citekey": "songEvidenceSinglelayerVan2022",
+      "type": "concepts",
+      "slug": "skyrmion",
+      "label": "斯格明子 / Skyrmion"
+    },
+    {
+      "citekey": "songEvidenceSinglelayerVan2022",
+      "type": "entities",
+      "slug": "CrI3",
+      "label": "三碘化铬 (CrI₃)"
+    },
+    {
+      "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+      "type": "concepts",
+      "slug": "coercive-field",
+      "label": "矫顽场 / Coercive Field (Ec)"
+    },
+    {
+      "citekey": "tahirFerroelectricityNonvolatileMemristor2025",
+      "type": "concepts",
+      "slug": "neuromorphic-computing",
+      "label": "神经形态计算 (Neuromorphic Computing)"
+    },
+    {
+      "citekey": "tangMultiferroicityTwodimensionalVan2025",
+      "type": "concepts",
+      "slug": "coercive-field",
+      "label": "矫顽场 / Coercive Field (Ec)"
+    },
+    {
+      "citekey": "tangMultiferroicityTwodimensionalVan2025",
+      "type": "concepts",
+      "slug": "exchange-bias",
+      "label": "交换偏置 / Exchange Bias"
+    },
+    {
+      "citekey": "tangMultiferroicityTwodimensionalVan2025",
+      "type": "entities",
+      "slug": "CrI3",
+      "label": "三碘化铬 (CrI₃)"
+    },
+    {
+      "citekey": "tianRoomtemperatureTwodimensionalMultiferroic2026",
+      "type": "concepts",
+      "slug": "coercive-field",
+      "label": "矫顽场 / Coercive Field (Ec)"
+    },
+    {
+      "citekey": "Unknown2022polymerization",
+      "type": "concepts",
+      "slug": "two-photon-absorption",
+      "label": "双光子吸收 / Two-Photon Absorption (TPA)"
+    },
+    {
+      "citekey": "wangTunableD0Topological2025b",
+      "type": "concepts",
+      "slug": "work-function",
+      "label": "功函数 (Work Function)"
+    },
+    {
+      "citekey": "wongEvidenceMetallic1T",
+      "type": "concepts",
+      "slug": "work-function",
+      "label": "功函数 (Work Function)"
+    },
+    {
+      "citekey": "wuNonvolatileSwitchableHalfmetallicity2024",
+      "type": "concepts",
+      "slug": "work-function",
+      "label": "功函数 (Work Function)"
+    },
+    {
+      "citekey": "wuSlidingFerroelectricity2D2021a",
+      "type": "concepts",
+      "slug": "band-alignment",
+      "label": "能带对齐 (Band Alignment)"
+    },
+    {
+      "citekey": "Xie2024isostructural",
+      "type": "concepts",
+      "slug": "exciplex",
+      "label": "激基复合物 / Exciplex"
+    },
+    {
+      "citekey": "yanagizawaSwitchingChargedensityWave2023",
+      "type": "concepts",
+      "slug": "work-function",
+      "label": "功函数 (Work Function)"
+    },
+    {
+      "citekey": "zahraCriticalAnalysisFerroelectric2025",
+      "type": "concepts",
+      "slug": "skyrmion",
+      "label": "斯格明子 / Skyrmion"
+    },
+    {
+      "citekey": "zhangNonvolatileControlTopological2025",
+      "type": "concepts",
+      "slug": "neuromorphic-computing",
+      "label": "神经形态计算 (Neuromorphic Computing)"
+    },
+    {
+      "citekey": "zhaoOpticalFingerprintsTwodimensional2024",
+      "type": "concepts",
+      "slug": "polarization-switching",
+      "label": "极化翻转 / Polarization Switching"
+    },
+    {
+      "citekey": "zhaoRealization2DMultiferroic2024",
+      "type": "concepts",
+      "slug": "skyrmion",
+      "label": "斯格明子 / Skyrmion"
+    }
+  ],
+  "declared_nonexistent": []
+}

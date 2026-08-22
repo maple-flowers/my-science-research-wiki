@@ -1,0 +1,13 @@
+########## deSousa2008electrical ##########
+########## hillWhyAreThere2000a ##########
+########## prosandeevKittelLawInBiFeO3Ultrathin2010 ##########
+########## rameshMultiferroicsProgressProspects2007 ##########
+########## mostovoyMultiferroicsDifferentRoutes2024 ##########
+########## dingPredictionIntrinsicTwodimensional2017a ##########
+########## gaoGiantChiralMagnetoelectric2024a ##########
+########## hallEnvironmentalControlCharge ##########
+########## hanTunableSlidingFerroelectricity2025 ##########
+########## liuSpintronicsTwoDimensionalMaterials2020b ##########
+########## songEvidenceSinglelayerVan2022 ##########
+########## tangMultiferroicityTwodimensionalVan2025 ##########
+########## wuElectrostaticGatingIntercalation2022 ##########

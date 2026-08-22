@@ -1,0 +1,608 @@
+{
+  "cat": {
+    "A": [
+      {
+        "citekey": "chenStrongSlidingFerroelectricity2024",
+        "type": "entities",
+        "slug": "WTe2",
+        "raw": "WTe2",
+        "desc": "外尔半金属，首个实验证实的滑动铁电体（2017），双层极化约 0.03 μC/cm²，作为本文极化强度对比基准。",
+        "actual_slug": "WTe2"
+      },
+      {
+        "citekey": "chenStrongSlidingFerroelectricity2024",
+        "type": "entities",
+        "slug": "MoTe2",
+        "raw": "MoTe2",
+        "desc": "1T′ 相过渡金属二硫化物，具有滑动铁电性，其 PE 相软模频率约 −9 cm⁻¹。",
+        "actual_slug": "MoTe2"
+      },
+      {
+        "citekey": "chenStrongSlidingFerroelectricity2024",
+        "type": "entities",
+        "slug": "CrI3",
+        "raw": "CrI3",
+        "desc": "扭曲 CrI₃ 双层中堆垛铁电性与铁磁性共存，是罕见的二维多铁材料，在本文引言中作为多铁耦合案例引用。",
+        "actual_slug": "CrI3"
+      },
+      {
+        "citekey": "chowdhuryReviewTheoreticalComputational",
+        "type": "concepts",
+        "slug": "kohn-anomaly",
+        "raw": "kohn-anomaly",
+        "desc": "科恩异常，特定波矢处声子的急剧软化，是 CDW 相变的前兆；文中指出 TaSe₂ 中位于布里渊区 M 点。",
+        "actual_slug": "kohn-anomaly"
+      },
+      {
+        "citekey": "chowdhuryReviewTheoreticalComputational",
+        "type": "concepts",
+        "slug": "fermi-surface-nesting",
+        "raw": "fermi-surface-nesting",
+        "desc": "费米面嵌套，连接费米面平行段的波矢驱动声子软化与 CDW 不稳定性。",
+        "actual_slug": "fermi-surface-nesting"
+      },
+      {
+        "citekey": "chowdhuryReviewTheoreticalComputational",
+        "type": "entities",
+        "slug": "TaS2",
+        "raw": "TaS2",
+        "desc": "二硫化钽，1T 相具有\"大卫之星\"√13×√13 重构，C-CDW 相中出现各向同性三维电荷转移，单层 2H 相超导 Tc 由亚开尔文提升至 3.4 K。",
+        "actual_slug": "TaS2"
+      },
+      {
+        "citekey": "chowdhuryReviewTheoreticalComputational",
+        "type": "entities",
+        "slug": "TaSe2",
+        "raw": "TaSe2",
+        "desc": "二硒化钽，2H/1T 两相随维度发生三角-条纹结构转变，是振幅模/相位模识别的样板体系。",
+        "actual_slug": "TaSe2"
+      },
+      {
+        "citekey": "songEvidenceSinglelayerVan2022",
+        "type": "entities",
+        "slug": "NiI2",
+        "raw": "NiI2",
+        "desc": "（二碘化镍）：过渡金属二卤化物 vdW 磁性半导体，Ni²⁺ (3d⁸, S=1) 三角晶格，块体 T_N,1≈75 K（AFM）、T_N,2≈59.5 K（螺旋磁/多铁），单层 T_c≈21 K；应建实体条目。",
+        "actual_slug": "NiI2"
+      }
+    ],
+    "B": [
+      {
+        "citekey": "Chen2019superconductivity",
+        "type": "entities",
+        "slug": "TiSe2",
+        "raw": "TiSe2",
+        "desc": "（1T-TiSe₂）：本文原型体系，CDW 转变 ~60 K、最优 T_sc ~4 K，目前 wiki/entities 中无此条目。",
+        "actual_slug": "TiSe2"
+      }
+    ],
+    "C": [
+      {
+        "citekey": "Chen2016electrical",
+        "type": "entities",
+        "slug": "SrTiO3",
+        "raw": "SrTiO3",
+        "desc": "、`La0.67Sr0.33MnO3`（LSMO，p 型氧化物电极/缓冲层）、`BaTiO3`、`PbZrxTi1-xO3`（PZT）、`ITO`：本工作涉及的关键衬底/电极/对比材料。",
+        "actual_slug": "SrTiO3"
+      },
+      {
+        "citekey": "Chen2019superconductivity",
+        "type": "entities",
+        "slug": "2H-TaSe2",
+        "raw": "2H-TaSe2",
+        "desc": "、`1T-TaS2`、`2H-NbSe2`：补充材料中用于论证普适性的对比 TMD 体系。",
+        "actual_slug": "2H-TaSe2"
+      },
+      {
+        "citekey": "chenFerromagneticNonmagnetic1T2022",
+        "type": "entities",
+        "slug": "CrS2",
+        "raw": "CrS2",
+        "desc": "、`CrSe2`：CrX₂家族中同时具有NM和FM 1T′ CDW态的代表性二维磁性TMD；CrS₂是电荷掺杂可逆相变的模型体系。",
+        "actual_slug": "CrS2"
+      },
+      {
+        "citekey": "chenFerromagneticNonmagnetic1T2022",
+        "type": "entities",
+        "slug": "VTe2",
+        "raw": "VTe2",
+        "desc": "唯一稳定的1T′ FM-CDW钒基TMD，FM机制与CrX₂相同（超交换）。",
+        "actual_slug": "VTe2"
+      },
+      {
+        "citekey": "chenFerromagneticNonmagnetic1T2022",
+        "type": "entities",
+        "slug": "MnS2",
+        "raw": "MnS2",
+        "desc": "/`MnSe2`/`MnTe2`：Mn基TMD，FM-CDW源于Mn-Mn二聚化未能完全淬灭磁矩，机制区别于CrX₂。",
+        "actual_slug": "MnS2"
+      },
+      {
+        "citekey": "chenStrongSlidingFerroelectricity2024",
+        "type": "entities",
+        "slug": "HgI2",
+        "raw": "HgI2",
+        "desc": "碘化汞，β-HgI₂（黄色）正交晶系 Cmc2₁ 相，由共边 HgI₆ 八面体构成单层，AB 堆垛形成体相；本文预测其二维多层为强滑动铁电体。",
+        "actual_slug": "HgI2"
+      },
+      {
+        "citekey": "chenStrongSlidingFerroelectricity2024",
+        "type": "entities",
+        "slug": "HgBr2",
+        "raw": "HgBr2",
+        "desc": "溴化汞，与 HgI₂ 同构 but 极化较弱（体相 0.47 μC/cm²，双层 0.02 μC/cm²）。",
+        "actual_slug": "HgBr2"
+      },
+      {
+        "citekey": "chenStrongSlidingFerroelectricity2024",
+        "type": "entities",
+        "slug": "ZrI2",
+        "raw": "ZrI2",
+        "desc": "β-ZrI₂，T_d 相滑动铁电体，体相极化 0.24 μC/cm² 但翻转势垒极高。",
+        "actual_slug": "ZrI2"
+      },
+      {
+        "citekey": "chenStrongSlidingFerroelectricity2024",
+        "type": "entities",
+        "slug": "Datta-Das-spin-FET",
+        "raw": "Datta-Das-spin-FET",
+        "desc": "Datta–Das 型自旋场效应晶体管，利用 Rashba 场调控自旋进动实现开关；本文基于 FE-HgI₂ 双层设计沟道长度 143 nm 的自旋 FET。",
+        "actual_slug": "Datta-Das-spin-FET"
+      },
+      {
+        "citekey": "chowdhuryReviewTheoreticalComputational",
+        "type": "concepts",
+        "slug": "electron-phonon-coupling",
+        "raw": "electron-phonon-coupling",
+        "desc": "电子-声子耦合常数 λ，CDW 与超导竞争的核心参量，也是 Lin 等统一相图的三轴之一。",
+        "actual_slug": "electron-phonon-coupling"
+      },
+      {
+        "citekey": "chowdhuryReviewTheoreticalComputational",
+        "type": "entities",
+        "slug": "Quantum-ESPRESSO",
+        "raw": "Quantum-ESPRESSO",
+        "desc": "文中主要使用的平面波 DFT 软件包，配合 LDA-PW 与模守恒赝势。",
+        "actual_slug": "Quantum-ESPRESSO"
+      },
+      {
+        "citekey": "chowdhuryReviewTheoreticalComputational",
+        "type": "entities",
+        "slug": "SIESTA",
+        "raw": "SIESTA",
+        "desc": "用于 1T-TaS₂ C-CDW 相电子结构与电荷转移计算的原子轨道基组 DFT 代码。",
+        "actual_slug": "SIESTA"
+      },
+      {
+        "citekey": "chowdhuryReviewTheoreticalComputational",
+        "type": "entities",
+        "slug": "ELK",
+        "raw": "ELK",
+        "desc": "用于 1T-TaSe₂ 瞬态三维结构计算的全势线性缀加平面波（FP-LAPW）代码。",
+        "actual_slug": "Elk"
+      },
+      {
+        "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+        "type": "entities",
+        "slug": "graphene",
+        "raw": "graphene",
+        "desc": "（石墨烯）：本工作中用作超灵敏局域电场传感器（狄拉克点附近电导对电场极度敏感），将微弱极化电荷信号转为可测电阻变化。",
+        "actual_slug": "graphene"
+      },
+      {
+        "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+        "type": "entities",
+        "slug": "BaTiO3",
+        "raw": "BaTiO3",
+        "desc": "（钛酸钡）：经典钙钛矿铁电体，体极化密度 ~0.2 C·m⁻²（~10¹⁴ e·cm⁻²），用作 WTe₂ 极化强度（小三个数量级）的参照基准。",
+        "actual_slug": "BaTiO3"
+      },
+      {
+        "citekey": "gomez-ortizKittelLawDomain2023",
+        "type": "entities",
+        "slug": "SCALE-UP",
+        "raw": "SCALE-UP.md",
+        "desc": "第二性原理有效哈密顿量模拟所用的软件包。",
+        "actual_slug": "SCALE-UP"
+      },
+      {
+        "citekey": "guanRecentProgressTwoDimensional2020",
+        "type": "entities",
+        "slug": "BTO",
+        "raw": "BTO",
+        "desc": "经典钙钛矿铁电 BaTiO₃，作为二维/三维铁电器件参照体系出现（graphene/BTO FTJ、1 u.c. BTO FTJ）。",
+        "actual_slug": "BTO"
+      },
+      {
+        "citekey": "hanTunableSlidingFerroelectricity2025",
+        "type": "entities",
+        "slug": "RuCl2",
+        "raw": "RuCl2",
+        "desc": "/ `RuBr2` / `RuI2`（可合并为 `RuX2`）：六角 P-6m2 单层、三棱柱配位的 Ru-4d 磁性范德华卤化物，本文核心材料体系，值得新建实体条目记录其结构、磁性与滑动铁电参数。",
+        "actual_slug": "RuCl2"
+      },
+      {
+        "citekey": "Li2013bonding",
+        "type": "entities",
+        "slug": "ABINIT",
+        "raw": "ABINIT",
+        "desc": "本文用于力学响应（应力–应变）计算的开源平面波 DFT 软件，采用 LDA + HGH 模守恒赝势。",
+        "actual_slug": "ABINIT"
+      },
+      {
+        "citekey": "Makogon2012wave",
+        "type": "entities",
+        "slug": "potassium-40",
+        "raw": "potassium-40.md",
+        "desc": "（⁴⁰K）：作者建议的实验用费米子同位素，文中给出激光波长约 980 nm、远失谐于 D1/D2 线的具体参数。",
+        "actual_slug": "potassium-40"
+      },
+      {
+        "citekey": "naguib25thAnniversaryArticle2013a",
+        "type": "entities",
+        "slug": "Ti3C2",
+        "raw": "Ti3C2",
+        "desc": "（Ti₃C₂Tₓ）：首个被发现、也是唯一被大规模分层的 MXene，LIB 纸电极 410 mAh g⁻¹@1C、超级电容器 >330 F cm⁻³，可作为 MXenes 条目下的典型代表或独立实体。",
+        "actual_slug": "Ti3C2"
+      },
+      {
+        "citekey": "niuDirectVisualizationLargeScale2021",
+        "type": "entities",
+        "slug": "PWmat",
+        "raw": "PWmat",
+        "desc": "GPU 加速的 DFT 计算软件包，本文用其完成 PBE/SG15/DFT-D2 计算。",
+        "actual_slug": "PWmat"
+      },
+      {
+        "citekey": "perdewGeneralizedGradientApproximation1996a",
+        "type": "entities",
+        "slug": "CADPAC",
+        "raw": "CADPAC",
+        "desc": "Cambridge Analytical Derivatives Package，本文用于原子化能计算的量子化学程序。",
+        "actual_slug": "CADPAC"
+      },
+      {
+        "citekey": "songEvidenceSinglelayerVan2022",
+        "type": "entities",
+        "slug": "WIEN2k",
+        "raw": "WIEN2k",
+        "desc": "全电子全势 APW+lo 代码，本文与 VASP 交叉验证 DFT 结果。",
+        "actual_slug": "WIEN2k"
+      },
+      {
+        "citekey": "Tobeiha2025optical",
+        "type": "entities",
+        "slug": "graphene",
+        "raw": "graphene",
+        "desc": "（石墨烯）：sp²碳二维材料，比表面积2630 m²/g、迁移率2×10⁵ cm²V⁻¹s⁻¹，p型导电畴。",
+        "actual_slug": "graphene"
+      },
+      {
+        "citekey": "Tobeiha2025optical",
+        "type": "entities",
+        "slug": "graphene-oxide",
+        "raw": "graphene-oxide",
+        "desc": "（氧化石墨烯）：含羰基、羟基、环氧、羧基等含氧官能团的石墨烯衍生物，亲水、带可调带隙。",
+        "actual_slug": "graphene-oxide"
+      },
+      {
+        "citekey": "Tobeiha2025optical",
+        "type": "entities",
+        "slug": "g-go-nanosheets",
+        "raw": "g-go-nanosheets",
+        "desc": "（G/GO纳米片复合物）：G导电畴与GO亲水畴共存的混合体系，兼具高载流子迁移率与水分子吸附能力。",
+        "actual_slug": "g-go-nanosheets"
+      },
+      {
+        "citekey": "Unknown2022polymerization",
+        "type": "entities",
+        "slug": "optical-fiber",
+        "raw": "optical-fiber",
+        "desc": "（光纤）：本研究的柔性非标准基底，直径约 125 μm。",
+        "actual_slug": "optical-fiber"
+      },
+      {
+        "citekey": "Unknown2022polymerization",
+        "type": "entities",
+        "slug": "photoresist",
+        "raw": "photoresist",
+        "desc": "（光敏树脂/光刻胶）：2PP 结构化材料，飞秒激光照射后由液态聚合为固态。",
+        "actual_slug": "photoresist"
+      },
+      {
+        "citekey": "Wang2023ultracompact",
+        "type": "entities",
+        "slug": "SZ-2080",
+        "raw": "SZ-2080.md",
+        "desc": "本文使用的有机-无机杂化光刻胶（折射率 n_p≈1.5，设计波长 1550 nm 时 π 相位对应高度 1.55 μm），TPP 常用材料。",
+        "actual_slug": "SZ-2080"
+      },
+      {
+        "citekey": "wangTunableD0Topological2025b",
+        "type": "entities",
+        "slug": "In2NO2",
+        "raw": "In2NO2",
+        "desc": "单层铟氮氧化物，P3m1 三角晶格、O–In–N–In–O 五层堆垛，本征面外铁电且 d⁰ 铁磁半金属。",
+        "actual_slug": "In2NO2"
+      },
+      {
+        "citekey": "wangTunableD0Topological2025b",
+        "type": "entities",
+        "slug": "MoSe2",
+        "raw": "MoSe2",
+        "desc": "二硒化钼，TMD 衬底，与 In₂NO₂ 晶格失配仅 2.4%，用于构建铁电可控异质结。",
+        "actual_slug": "MoSe2"
+      },
+      {
+        "citekey": "wuSlidingFerroelectricity2D2021a",
+        "type": "entities",
+        "slug": "AlN",
+        "raw": "AlN",
+        "desc": "（石墨型双层，10.29 pC/m，迄今已知二维铁电最高垂直极化）、`InSe`（β-InSe 室温 PFM 蝴蝶曲线）、`GaSe`、`CrI3`（R/H 型堆垛依赖层间磁性）、`ZrI2`（负压电、层间滑动铁电）、`GaN`/`SiC`/`ZnO`（蜂窝晶格二元化合物高极化双层）。",
+        "actual_slug": "AlN"
+      },
+      {
+        "citekey": "xiangTwodimensionalRoomTemperature2020",
+        "type": "entities",
+        "slug": "CuCrS2",
+        "raw": "CuCrS2",
+        "desc": "/ `CuCrSe2`：铜插层过渡金属硫族化合物，本文预测的二维室温多铁候选体系。",
+        "actual_slug": "CuCrS2"
+      }
+    ],
+    "D": [
+      {
+        "citekey": "chowdhuryReviewTheoreticalComputational",
+        "type": "concepts",
+        "slug": "amplitudon-phason",
+        "raw": "amplitudon-phason",
+        "desc": "CDW 序参量的振幅模（amplitudon，随温度软化/窄化）与相位模（phason，仅在 C-CDW 相中成为拉曼活性光学模）。"
+      },
+      {
+        "citekey": "chowdhuryReviewTheoreticalComputational",
+        "type": "concepts",
+        "slug": "commensurate-incommensurate-cdw",
+        "raw": "commensurate-incommensurate-cdw",
+        "desc": "公度/非公度 CDW，周期与原晶格是否整数比；非公度性是 DFT 周期性边界建模的主要难点。"
+      },
+      {
+        "citekey": "chowdhuryReviewTheoreticalComputational",
+        "type": "concepts",
+        "slug": "electronic-temperature-smearing",
+        "raw": "electronic-temperature-smearing",
+        "desc": "以 Fermi–Dirac 展宽 σ 改变电子温度来近似真实晶格温度的低成本 DFT 方案。"
+      },
+      {
+        "citekey": "chowdhuryReviewTheoreticalComputational",
+        "type": "concepts",
+        "slug": "star-of-david-cluster",
+        "raw": "star-of-david-cluster",
+        "desc": "1T-TaS₂/1T-TaSe₂ C-CDW 相中 13 个 Ta 原子构成的特征团簇，可作为独立实体或并入 TaS₂/TaSe₂ 条目。"
+      },
+      {
+        "citekey": "fiebigEvolutionMultiferroics2016",
+        "type": "entities",
+        "slug": "h-YMnO3",
+        "raw": "h-YMnO3.md",
+        "desc": "（六方锰酸钇）：几何铁电代表，Ps=5.6 μC/cm²，Tc≥1200 K，TN≤120 K；SHG首次揭示畴壁磁电耦合。"
+      },
+      {
+        "citekey": "fiebigEvolutionMultiferroics2016",
+        "type": "entities",
+        "slug": "Cr2O3",
+        "raw": "Cr2O3.md",
+        "desc": "非多铁但具时空反演双破缺，展示线性磁电效应、铁涡旋性、磁准单极子与最早NDD。"
+      },
+      {
+        "citekey": "fiebigEvolutionMultiferroics2016",
+        "type": "entities",
+        "slug": "CaMn7O12",
+        "raw": "CaMn7O12.md",
+        "desc": "铁轴磁体，逆DM机制下极化最高之一（0.3 μC/cm²）。"
+      },
+      {
+        "citekey": "gomez-ortizKittelLawDomain2023",
+        "type": "entities",
+        "slug": "PbTiO3-SrTiO3-superlattice",
+        "raw": "PbTiO3-SrTiO3-superlattice.md",
+        "desc": "钙钛矿铁电/顺电端元构成的超晶格复合相。"
+      },
+      {
+        "citekey": "gorkovStrongElectronlatticeCoupling2012",
+        "type": "entities",
+        "slug": "2H-NbSe2",
+        "raw": "2H-NbSe2",
+        "desc": "、`2H-TaSe2`：经典 CDW 母体材料（T_CDW 分别 33.5 K、122 K），本文用以对比声子软化、电阻率与 ARPES 数据；wiki 中尚无独立条目。"
+      },
+      {
+        "citekey": "guanRecentProgressTwoDimensional2020",
+        "type": "entities",
+        "slug": "BA2PbCl4",
+        "raw": "BA2PbCl4",
+        "desc": "Ruddlesden-Popper 家族有机-无机杂化钙钛矿，有机阳离子偏心与 Pb²⁺ 位移协同产生 IP 铁电，可柔性应用。"
+      },
+      {
+        "citekey": "Islam2025enhancement",
+        "type": "entities",
+        "slug": "1T-MoTe2",
+        "raw": "1T-MoTe2.md",
+        "desc": "本文图 5 中作为对比的拓扑/外尔超导体，已有 wiki WTe2 可作为邻近条目。"
+      },
+      {
+        "citekey": "Johannes2008fermi",
+        "type": "entities",
+        "slug": "CeTe3",
+        "raw": "CeTe3.md",
+        "desc": "— 三碲化铈，RTe₃ 家族准一维 Te-p 费米面，是“隐藏嵌套”的范例；计算用 LDA+U（U=4.5 eV）去除 f 带。"
+      },
+      {
+        "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+        "type": "entities",
+        "slug": "Ca3Mn2O7",
+        "raw": "Ca3Mn2O7",
+        "desc": "（双层钙钛矿杂化非本征铁电原型）、`hexaferrites`（六角铁氧体，室温锥形螺旋巨磁电响应）、`RMnO3-orthorhombic`（正交稀土锰氧化物，E 相 ↑↑↓↓ 与螺旋相）、`Cu2OSeO3`（手性立方莫特绝缘体，电控斯格明子原型）、`TTF-BA`（有机电荷转移复合物，自旋-派尔斯诱导铁电体）。"
+      },
+      {
+        "citekey": "naguib25thAnniversaryArticle2013a",
+        "type": "entities",
+        "slug": "Ti2CTx",
+        "raw": "Ti2CTx",
+        "desc": "/ `Nb2CTx` / `V2CTx` / `Ta4C3Tx`：已合成的其他 MXene 成员，各自具有不同容量/电压窗口，可在 MXenes 条目中以列表呈现，暂不必单独建文件。"
+      },
+      {
+        "citekey": "rameshMultiferroicsProgressProspects2007",
+        "type": "entities",
+        "slug": "CoFe2O4",
+        "raw": "CoFe2O4.md",
+        "desc": "— 尖晶石铁磁体，垂直异质结中最常用的纳米柱相。"
+      },
+      {
+        "citekey": "rameshMultiferroicsProgressProspects2007",
+        "type": "entities",
+        "slug": "PbVO3",
+        "raw": "PbVO3.md",
+        "desc": "— \"超四方\"铁电体（c/a≈1.26），可在薄膜中稳定。"
+      },
+      {
+        "citekey": "rameshMultiferroicsProgressProspects2007",
+        "type": "entities",
+        "slug": "Bi2FeCrO6",
+        "raw": "Bi2FeCrO6.md",
+        "desc": "— 双钙钛矿，第一性原理预测 R3c 基态、P≈80 μC/cm²、亚铁磁 2 μB/f.u.。"
+      },
+      {
+        "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+        "type": "entities",
+        "slug": "silicon",
+        "raw": "silicon",
+        "desc": "（硅，Si）：本文sp材料基准，G₀W₀间接带隙X₁c≈1.15-1.17 eV。"
+      },
+      {
+        "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+        "type": "entities",
+        "slug": "cadmium-sulfide",
+        "raw": "cadmium-sulfide",
+        "desc": "（硫化镉，CdS）：含Cd 4d电子的II-VI半导体，d带位于价带内，p-d杂化使4p解冻影响带隙。"
+      },
+      {
+        "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+        "type": "entities",
+        "slug": "troullier-martins-pseudopotential",
+        "raw": "troullier-martins-pseudopotential",
+        "desc": "（TM模守恒赝势）：对比基准，在1 Ry以上散射性质偏离全电子结果，导致GW带隙偏大0.1-0.2 eV。"
+      },
+      {
+        "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+        "type": "entities",
+        "slug": "FeRh",
+        "raw": "FeRh",
+        "desc": "铁磁-反铁磁相变伴随体积坍塌和~25%电阻变化，PMN-PT应变异质结中实现电场驱动磁态转变。"
+      },
+      {
+        "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+        "type": "entities",
+        "slug": "Cr2O3",
+        "raw": "Cr2O3",
+        "desc": "经典磁电体，电场可控反铁磁畴取向，可调控铁磁覆盖层交换偏置。"
+      },
+      {
+        "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+        "type": "entities",
+        "slug": "EuTiO3",
+        "raw": "EuTiO3",
+        "desc": "d0铁电性（BaTiO3原型）+ f电子磁性（Eu²⁺ f⁷）分支代表，应变下多铁。"
+      },
+      {
+        "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+        "type": "entities",
+        "slug": "YBaCuFeO5",
+        "raw": "YBaCuFeO5",
+        "desc": "层状钙钛矿，化学无序稳定磁螺旋，多铁有序温度接近室温。"
+      },
+      {
+        "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+        "type": "entities",
+        "slug": "BiCoO3",
+        "raw": "BiCoO3",
+        "desc": "极性、高奈尔温度470 K，但c/a比过大导致极化尚不可翻转。"
+      },
+      {
+        "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+        "type": "entities",
+        "slug": "PMN-PT",
+        "raw": "PMN-PT",
+        "desc": "（Pb(Mg1/3Nb2/3)O3–PbTiO3）：压电衬底，用于电场-应变驱动FeRh磁相变。"
+      },
+      {
+        "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+        "type": "entities",
+        "slug": "CoFe2O4",
+        "raw": "CoFe2O4",
+        "desc": "/ `BaTiO3`：垂直排列纳米复合多铁的经典磁性尖晶石/铁电钙钛矿组合。"
+      },
+      {
+        "citekey": "vanvleckSurveyTheoryFerromagnetism1945",
+        "type": "entities",
+        "slug": "MnO",
+        "raw": "MnO.md",
+        "desc": "经典反铁磁体，Bizette-Squire-Tsai 的 χ(T) 数据被范弗莱克用来检验交错分子场理论"
+      },
+      {
+        "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+        "type": "entities",
+        "slug": "M2-TTFTB",
+        "raw": "M2-TTFTB.md",
+        "desc": "M₂(TTFTB)（TTFTB⁴⁻ = tetrathiafulvalene tetrabenzoate）同构导电 MOF 系列，沿 c 轴 π-堆积 TTF 柱，M = Mn²⁺/Co²⁺/Zn²⁺/Cd²⁺，本工作的模型体系；CCDC 2486213、2486218。"
+      },
+      {
+        "citekey": "Zhang2019b",
+        "type": "entities",
+        "slug": "Ti-nanoparticle",
+        "raw": "Ti-nanoparticle.md",
+        "desc": "— 钛纳米颗粒（α-HCP / β-BCC 两相，本文研究对象）"
+      },
+      {
+        "citekey": "zhangEmergingFrontiersTwodimensional2025",
+        "type": "entities",
+        "slug": "InSe",
+        "raw": "InSe.md",
+        "desc": "γ/β/ε-InSe 与 In2Se3 不同；ε-InSe 偶数层面外极化、~3 ps 超快体光伏；Y 掺杂 γ-InSe 压电系数提升一个数量级。"
+      },
+      {
+        "citekey": "zhangEmergingFrontiersTwodimensional2025",
+        "type": "entities",
+        "slug": "SnSe2",
+        "raw": "SnSe2.md",
+        "desc": "衬底引导 CVD 生长 6R/12R/18R/18C 高阶多型体，AB' 堆垛具铁电。"
+      },
+      {
+        "citekey": "zhangEmergingFrontiersTwodimensional2025",
+        "type": "entities",
+        "slug": "CCC-amphidynamic-crystal",
+        "raw": "CCC-amphidynamic-crystal.md",
+        "desc": "(15-冠-5)Cd3Cl6 有机-无机杂化两性动力学晶体，首个宏观直接测得滑动铁电滞回线的体系（0.3–0.4 μC/cm²）。"
+      },
+      {
+        "citekey": "zhangEmergingFrontiersTwodimensional2025",
+        "type": "entities",
+        "slug": "NbOI2",
+        "raw": "NbOI2.md",
+        "desc": "、`Bi2O2Se.md`：文中列为二维极限下已证实鲁棒铁电的少数体系。"
+      },
+      {
+        "citekey": "zhaoRealization2DMultiferroic2024",
+        "type": "entities",
+        "slug": "T-CdCr2Te4",
+        "raw": "T-CdCr2Te4",
+        "desc": "本文旗舰型 a 类多铁体，近室温（T_C=260 K）、电场可克斯格明子手性。"
+      },
+      {
+        "citekey": "zhouFirstprinciplesPredictionRedox2004",
+        "type": "entities",
+        "slug": "LiFePO4",
+        "raw": "LiFePO4",
+        "desc": "、`LixMn2O4`、`LiCoO2`：三类经典锂电池正极代表材料，可作为实体条目建档。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,5426 @@
+[
+ {
+  "citekey": "aiFerroelectricityCoexistedPorbital2022",
+  "slug": "d0-rule",
+  "stripped": "d0-rule",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `d0-rule`（d⁰规则）：经验规则，钙钛矿铁电体中B位阳离子需空d轨道以发生离子偏心位移，与磁性所需的部分填充d轨道互斥，是单相多铁稀缺的根源。"
+ },
+ {
+  "citekey": "aiFerroelectricityCoexistedPorbital2022",
+  "slug": "p-orbital-magnetism",
+  "stripped": "p-orbital-magnetism",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `p-orbital-magnetism`（p轨道磁性 / d⁰磁性）：由非金属元素p电子（而非过渡金属d/f电子）产生的磁性，可在金属离子d轨道全空/全满"
+ },
+ {
+  "citekey": "aiFerroelectricityCoexistedPorbital2022",
+  "slug": "ferroelectric-metal",
+  "stripped": "ferroelectric-metal",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `ferroelectric-metal`（铁电金属）：Anderson & Blount 1965年提出的物态，金属中存在非中心对称结构相变与面外偶极矩；"
+ },
+ {
+  "citekey": "aiFerroelectricityCoexistedPorbital2022",
+  "slug": "stoner-criterion",
+  "stripped": "stoner-criterion",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `stoner-criterion`（Stoner判据）：D(EF)·I > 1 判定金属发生自发自旋极化形成巡游铁磁态的条件；本文 D(EF)=5.03 "
+ },
+ {
+  "citekey": "aiFerroelectricityCoexistedPorbital2022",
+  "slug": "itinerant-ferromagnetism",
+  "stripped": "itinerant-ferromagnetism",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `itinerant-ferromagnetism`（巡游铁磁性）：磁性电子同时参与导电，表现为非整数磁矩、自旋劈裂能带穿越费米能级。"
+ },
+ {
+  "citekey": "aiFerroelectricityCoexistedPorbital2022",
+  "slug": "Tl2NO2",
+  "stripped": "Tl2NO2",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `Tl2NO2`（Tl₂NO₂单层）：FE-WZ′相为基态，N-2p巡游铁磁（Tc≈415 K）+ N偏心位移铁电（P≈1.3 μC/cm²，势垒0.65 "
+ },
+ {
+  "citekey": "aiFerroelectricityCoexistedPorbital2022",
+  "slug": "In2NO2",
+  "stripped": "In2NO2",
+  "type": "entities",
+  "linked": false,
+  "line": "- `In2NO2`（In₂NO₂单层）：fcc相为基态，但>1%双轴拉伸应变可诱导FE-ZB′相成为铁电金属；4%应变下势垒0.14 eV、P≈2.79 μC"
+ },
+ {
+  "citekey": "aiFerroelectricityCoexistedPorbital2022",
+  "slug": "soft-mode-theory",
+  "stripped": "soft-mode-theory",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `soft-mode-theory`（软模理论）：中心对称相Γ点虚频声子模式驱动对称性降低相变，是fcc→FE-WZ′相变的机理。"
+ },
+ {
+  "citekey": "aiFerroelectricityCoexistedPorbital2022",
+  "slug": "double-well-potential",
+  "stripped": "double-well-potential",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `double-well-potential`（双势阱势）：铁电极化反转能量曲线特征，两个简并极小值对应±P。"
+ },
+ {
+  "citekey": "aminiAtomicscaleVisualizationMultiferroicity2024",
+  "slug": "kitaev-interaction.md",
+  "stripped": "kitaev-interaction.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- （可选）`kitaev-interaction.md`：文中讨论 q 矢量偏离 ΓK 线时提到的竞争磁相互作用之一（另一项 Dzyaloshinskii–M"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "slug": "flexoelectricity",
+  "stripped": "flexoelectricity",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `flexoelectricity`（挠曲电效应）：应变梯度 ∂e/∂z 通过挠曲电张量 f 诱导电场 E_f=(f/ε)(∂e/∂z)，是力学翻转的核心驱"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "slug": "ferroelectric-domain",
+  "stripped": "ferroelectric-domain",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `ferroelectric-domain`（铁电畴）：BiFeO3 中沿四条体对角线的 8 种极化方向（P1–P4 向上、P−1–P−4 向下），对应 7"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "slug": "domain-wall-nucleation",
+  "stripped": "domain-wall-nucleation",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `domain-wall-nucleation`（畴壁成核）：新畴优先在已有畴界处成核，是电学/力学翻转共通的第一步机制。"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "slug": "two-step-switching",
+  "stripped": "two-step-switching",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `two-step-switching`（两步 180° 翻转）：180° 翻转由 71° 铁弹翻转 + 109° 铁弹翻转分步完成，直接 180° 因势垒"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "slug": "coercive-field",
+  "stripped": "coercive-field",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `coercive-field`（矫顽场）：本样品 Ec≈38 kV/mm（Vc≈2.3 V，膜厚 70 nm），是衡量翻转难易的关键参数。"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "slug": "ferroelectric-photovoltaic-effect",
+  "stripped": "ferroelectric-photovoltaic-effect",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `ferroelectric-photovoltaic-effect`（铁电光伏效应）：短路电流方向与极化方向反向绑定（向下极化 Isc≈+20 nA，向上"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "slug": "depletion-layer-readout",
+  "stripped": "depletion-layer-readout",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `depletion-layer-readout`（耗尽层读出）：p 型 LSMO / n 型 BiFeO3 界面耗尽层宽度随极化方向变化，使 <Vc 的 "
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "slug": "SrTiO3",
+  "stripped": "SrTiO3",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `SrTiO3`、`La0.67Sr0.33MnO3`（LSMO，p 型氧化物电极/缓冲层）、`BaTiO3`、`PbZrxTi1-xO3`（PZT）"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "slug": "La0.67Sr0.33MnO3",
+  "stripped": "La0.67Sr0.33MnO3",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `SrTiO3`、`La0.67Sr0.33MnO3`（LSMO，p 型氧化物电极/缓冲层）、`BaTiO3`、`PbZrxTi1-xO3`（PZT）"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "slug": "BaTiO3",
+  "stripped": "BaTiO3",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `SrTiO3`、`La0.67Sr0.33MnO3`（LSMO，p 型氧化物电极/缓冲层）、`BaTiO3`、`PbZrxTi1-xO3`（PZT）"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "slug": "PbZrxTi1-xO3",
+  "stripped": "PbZrxTi1-xO3",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `SrTiO3`、`La0.67Sr0.33MnO3`（LSMO，p 型氧化物电极/缓冲层）、`BaTiO3`、`PbZrxTi1-xO3`（PZT）"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "slug": "ITO",
+  "stripped": "ITO",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `SrTiO3`、`La0.67Sr0.33MnO3`（LSMO，p 型氧化物电极/缓冲层）、`BaTiO3`、`PbZrxTi1-xO3`（PZT）"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "slug": "PLD",
+  "stripped": "PLD",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体/方法 `PLD`（脉冲激光沉积；630 °C、16 Pa O2、KrF 248 nm、1 Hz、60 mJ，后退火 630 °C/1000 Pa O2"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "slug": "PFM",
+  "stripped": "PFM",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体/方法 `PLD`（脉冲激光沉积；630 °C、16 Pa O2、KrF 248 nm、1 Hz、60 mJ，后退火 630 °C/1000 Pa O2"
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "slug": "c-AFM",
+  "stripped": "c-AFM",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体/方法 `PLD`（脉冲激光沉积；630 °C、16 Pa O2、KrF 248 nm、1 Hz、60 mJ，后退火 630 °C/1000 Pa O2"
+ },
+ {
+  "citekey": "Chen2019superconductivity",
+  "slug": "discommensuration",
+  "stripped": "discommensuration",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `discommensuration`（错位相子/失配畴壁）：C-CDW 中相位跳变 2πν 的局域孤子状畴壁，是本文核心物理对象，值得单独立概念条目。"
+ },
+ {
+  "citekey": "Chen2019superconductivity",
+  "slug": "pair-density-wave",
+  "stripped": "pair-density-wave",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `pair-density-wave`（配对密度波，PDW）：超导序参量空间周期性调制的非均匀超导态，本文预言 DC 网络可外生产生 PDW。"
+ },
+ {
+  "citekey": "Chen2019superconductivity",
+  "slug": "mcmillan-ginzburg-landau-theory",
+  "stripped": "mcmillan-ginzburg-landau-theory",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `mcmillan-ginzburg-landau-theory`（McMillan-GL 理论）：处理 C-IC 转变与 CDW-SC 耦合的唯象自由能框"
+ },
+ {
+  "citekey": "Chen2019superconductivity",
+  "slug": "superconducting-dome",
+  "stripped": "superconducting-dome",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `superconducting-dome`（超导穹顶）：掺杂-温度相图中超导仅在有限参数窗口出现的穹顶状区域。"
+ },
+ {
+  "citekey": "Chen2019superconductivity",
+  "slug": "little-parks-oscillation",
+  "stripped": "little-parks-oscillation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `little-parks-oscillation`：超导网格中临界温度/磁阻随磁通量子周期振荡的现象，本文用以反推 DC 间距。"
+ },
+ {
+  "citekey": "Chen2019superconductivity",
+  "slug": "TiSe2",
+  "stripped": "TiSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `TiSe2`（1T-TiSe₂）：本文原型体系，CDW 转变 ~60 K、最优 T_sc ~4 K，目前 wiki/entities 中无此条目。"
+ },
+ {
+  "citekey": "Chen2019superconductivity",
+  "slug": "2H-TaSe2",
+  "stripped": "2H-TaSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `2H-TaSe2`、`1T-TaS2`、`2H-NbSe2`：补充材料中用于论证普适性的对比 TMD 体系。"
+ },
+ {
+  "citekey": "Chen2019superconductivity",
+  "slug": "1T-TaS2",
+  "stripped": "1T-TaS2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `2H-TaSe2`、`1T-TaS2`、`2H-NbSe2`：补充材料中用于论证普适性的对比 TMD 体系。"
+ },
+ {
+  "citekey": "Chen2019superconductivity",
+  "slug": "2H-NbSe2",
+  "stripped": "2H-NbSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `2H-TaSe2`、`1T-TaS2`、`2H-NbSe2`：补充材料中用于论证普适性的对比 TMD 体系。"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "slug": "peierls-distortion",
+  "stripped": "peierls-distortion",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `peierls-distortion`：派尔斯畸变，一维/准一维金属中电子-声子耦合导致晶格周期性二聚化并在费米面打开带隙的不稳定性，是NM-CDW的标准"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "slug": "superexchange",
+  "stripped": "superexchange",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `superexchange`：超交换，磁性阳离子通过非磁性阴离子介导的间接磁耦合，符号/大小依赖M-X-M键角（GKA规则）。"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "slug": "direct-exchange",
+  "stripped": "direct-exchange",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `direct-exchange`：直接交换，相邻磁性原子波函数直接重叠产生的磁耦合。"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "slug": "goodenough-kanamori-anderson-rules",
+  "stripped": "goodenough-kanamori-anderson-rules",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `goodenough-kanamori-anderson-rules`：GKA规则，根据M-X-M键角和d电子数预测超交换符号的半经验规则；键角接近90°"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "slug": "structural-distortion-index",
+  "stripped": "structural-distortion-index",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `structural-distortion-index`：结构畸变指数d₁/d₂，1T′相中相邻两列金属原子短/长键之比，可作为区分FM-CDW形成机制的"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "slug": "charge-doping",
+  "stripped": "charge-doping",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `charge-doping`：电荷掺杂（电子/空穴注入），通过栅压、离子插层等调控载流子浓度从而调制电子结构与相变的手段。"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "slug": "dimerization",
+  "stripped": "dimerization",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `dimerization`：二聚化，相邻金属原子两两靠近形成成键对以降低电子能量的晶格畸变模式。"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "slug": "CrS2",
+  "stripped": "CrS2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `CrS2`、`CrSe2`：CrX₂家族中同时具有NM和FM 1T′ CDW态的代表性二维磁性TMD；CrS₂是电荷掺杂可逆相变的模型体系。"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "slug": "CrSe2",
+  "stripped": "CrSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `CrS2`、`CrSe2`：CrX₂家族中同时具有NM和FM 1T′ CDW态的代表性二维磁性TMD；CrS₂是电荷掺杂可逆相变的模型体系。"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "slug": "VTe2",
+  "stripped": "VTe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `VTe2`：唯一稳定的1T′ FM-CDW钒基TMD，FM机制与CrX₂相同（超交换）。"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "slug": "MnS2",
+  "stripped": "MnS2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `MnS2`/`MnSe2`/`MnTe2`：Mn基TMD，FM-CDW源于Mn-Mn二聚化未能完全淬灭磁矩，机制区别于CrX₂。"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "slug": "MnSe2",
+  "stripped": "MnSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `MnS2`/`MnSe2`/`MnTe2`：Mn基TMD，FM-CDW源于Mn-Mn二聚化未能完全淬灭磁矩，机制区别于CrX₂。"
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "slug": "MnTe2",
+  "stripped": "MnTe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `MnS2`/`MnSe2`/`MnTe2`：Mn基TMD，FM-CDW源于Mn-Mn二聚化未能完全淬灭磁矩，机制区别于CrX₂。"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "slug": "rashba-effect",
+  "stripped": "rashba-effect",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `rashba-effect`：Rashba 效应——结构反演不对称与 SOC 共同导致的自旋-动量锁定，能带在 Γ 点附近分裂为内/外两支并呈切向自旋纹理"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "slug": "slidetronics",
+  "stripped": "slidetronics",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `slidetronics`：滑移电子学——利用层间滑动调控铁电性及其他物理性质的新兴领域，本文将其功能拓展至自旋操控。"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "slug": "depolarization-field",
+  "stripped": "depolarization-field",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `depolarization-field`：退极化场——二维薄膜中由表面束缚电荷产生的与极化反向的电场，可抑制极化但同时降低翻转能垒；HgI₂ 双层 ε_"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "slug": "interfacial-charge-rearrangement",
+  "stripped": "interfacial-charge-rearrangement",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `interfacial-charge-rearrangement`：层间电荷重排——FE 双层相对于孤立单层在层间区域发生的电荷积累/耗尽，形成净层间偶极"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "slug": "spin-texture",
+  "stripped": "spin-texture",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `spin-texture`：自旋纹理——动量空间中电子自旋分量的分布图；FE-HgI₂ 双层在 k_x−k_y 平面呈近圆形切向 Rashba 纹理，±P"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "slug": "screening-charge-integration",
+  "stripped": "screening-charge-integration",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `screening-charge-integration`：屏蔽电荷积分法——对二维体系 FE 与 PE 相平面平均电荷密度差 Δρ(z) 沿面外方向积分"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "slug": "soft-phonon-mode",
+  "stripped": "soft-phonon-mode",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `soft-phonon-mode`：软声子模式——PE-HgI₂ 体相在 Γ 点附近的虚频模式（ω = −13.57 cm⁻¹），对应层间滑动不稳定性，驱"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "slug": "double-well-potential",
+  "stripped": "double-well-potential",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `double-well-potential`：双势阱——连接 ±P 态并经过 PE 态的能量曲线，是铁电双稳态的能量学标志。"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "slug": "HgI2",
+  "stripped": "HgI2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `HgI2`：碘化汞，β-HgI₂（黄色）正交晶系 Cmc2₁ 相，由共边 HgI₆ 八面体构成单层，AB 堆垛形成体相；本文预测其二维多层为强滑动铁"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "slug": "HgBr2",
+  "stripped": "HgBr2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `HgBr2`：溴化汞，与 HgI₂ 同构 but 极化较弱（体相 0.47 μC/cm²，双层 0.02 μC/cm²）。"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "slug": "WTe2",
+  "stripped": "WTe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `WTe2`：外尔半金属，首个实验证实的滑动铁电体（2017），双层极化约 0.03 μC/cm²，作为本文极化强度对比基准。"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "slug": "MoTe2",
+  "stripped": "MoTe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `MoTe2`：1T′ 相过渡金属二硫化物，具有滑动铁电性，其 PE 相软模频率约 −9 cm⁻¹。"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "slug": "CrI3",
+  "stripped": "CrI3",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `CrI3`：扭曲 CrI₃ 双层中堆垛铁电性与铁磁性共存，是罕见的二维多铁材料，在本文引言中作为多铁耦合案例引用。"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "slug": "ZrI2",
+  "stripped": "ZrI2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `ZrI2`：β-ZrI₂，T_d 相滑动铁电体，体相极化 0.24 μC/cm² 但翻转势垒极高。"
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "slug": "Datta-Das-spin-FET",
+  "stripped": "Datta-Das-spin-FET",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `Datta-Das-spin-FET`：Datta–Das 型自旋场效应晶体管，利用 Rashba 场调控自旋进动实现开关；本文基于 FE-HgI₂"
+ },
+ {
+  "citekey": "cheongMultiferroicsMagneticTwist2007a",
+  "slug": "RMn2O5.md",
+  "stripped": "RMn2O5.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `RMn2O5.md`（实体）：第二类多铁性的原型材料家族，应建实体条目。"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "slug": "electron-phonon-coupling",
+  "stripped": "electron-phonon-coupling",
+  "type": "concepts",
+  "linked": true,
+  "line": "- 概念 `electron-phonon-coupling`：电子-声子耦合常数 λ，CDW 与超导竞争的核心参量，也是 Lin 等统一相图的三轴之一。"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "slug": "kohn-anomaly",
+  "stripped": "kohn-anomaly",
+  "type": "concepts",
+  "linked": true,
+  "line": "- 概念 `kohn-anomaly`：科恩异常，特定波矢处声子的急剧软化，是 CDW 相变的前兆；文中指出 TaSe₂ 中位于布里渊区 M 点。"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "slug": "amplitudon-phason",
+  "stripped": "amplitudon-phason",
+  "type": "concepts",
+  "linked": true,
+  "line": "- 概念 `amplitudon-phason`：CDW 序参量的振幅模（amplitudon，随温度软化/窄化）与相位模（phason，仅在 C-CDW 相中"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "slug": "fermi-surface-nesting",
+  "stripped": "fermi-surface-nesting",
+  "type": "concepts",
+  "linked": true,
+  "line": "- 概念 `fermi-surface-nesting`：费米面嵌套，连接费米面平行段的波矢驱动声子软化与 CDW 不稳定性。"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "slug": "commensurate-incommensurate-cdw",
+  "stripped": "commensurate-incommensurate-cdw",
+  "type": "concepts",
+  "linked": true,
+  "line": "- 概念 `commensurate-incommensurate-cdw`：公度/非公度 CDW，周期与原晶格是否整数比；非公度性是 DFT 周期性边界建模的"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "slug": "electronic-temperature-smearing",
+  "stripped": "electronic-temperature-smearing",
+  "type": "concepts",
+  "linked": true,
+  "line": "- 概念 `electronic-temperature-smearing`：以 Fermi–Dirac 展宽 σ 改变电子温度来近似真实晶格温度的低成本 DF"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "slug": "TaS2",
+  "stripped": "TaS2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `TaS2`：二硫化钽，1T 相具有\"大卫之星\"√13×√13 重构，C-CDW 相中出现各向同性三维电荷转移，单层 2H 相超导 Tc 由亚开尔文提"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "slug": "TaSe2",
+  "stripped": "TaSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `TaSe2`：二硒化钽，2H/1T 两相随维度发生三角-条纹结构转变，是振幅模/相位模识别的样板体系。"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "slug": "Quantum-ESPRESSO",
+  "stripped": "Quantum-ESPRESSO",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `Quantum-ESPRESSO`：文中主要使用的平面波 DFT 软件包，配合 LDA-PW 与模守恒赝势。"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "slug": "SIESTA",
+  "stripped": "SIESTA",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `SIESTA`：用于 1T-TaS₂ C-CDW 相电子结构与电荷转移计算的原子轨道基组 DFT 代码。"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "slug": "ELK",
+  "stripped": "ELK",
+  "type": "UNKNOWN",
+  "linked": true,
+  "line": "- 实体 `ELK`：用于 1T-TaSe₂ 瞬态三维结构计算的全势线性缀加平面波（FP-LAPW）代码。"
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "slug": "star-of-david-cluster",
+  "stripped": "star-of-david-cluster",
+  "type": "concepts",
+  "linked": true,
+  "line": "- 概念 `star-of-david-cluster`：1T-TaS₂/1T-TaSe₂ C-CDW 相中 13 个 Ta 原子构成的特征团簇，可作为独立实体"
+ },
+ {
+  "citekey": "cuiIntercorrelatedInplaneOutofplane2018a",
+  "slug": "in-plane-out-of-plane-coupling",
+  "stripped": "in-plane-out-of-plane-coupling",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `in-plane-out-of-plane-coupling`（面内-面外极化互锁）：α-In2Se3 中由中心 Se 原子层横向位移同时驱动 IP/OO"
+ },
+ {
+  "citekey": "cuiIntercorrelatedInplaneOutofplane2018a",
+  "slug": "odd-even-effect",
+  "stripped": "odd-even-effect",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `odd-even-effect`（奇偶层数效应）：相邻层反平行堆叠导致奇/偶数层宏观极化方向相反。"
+ },
+ {
+  "citekey": "cuiIntercorrelatedInplaneOutofplane2018a",
+  "slug": "antiparallel-polarization-stacking",
+  "stripped": "antiparallel-polarization-stacking",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `antiparallel-polarization-stacking`（反平行极化堆垛）：层间极化反向排列，是奇偶效应与净极化抵消的微观起源。"
+ },
+ {
+  "citekey": "cuiIntercorrelatedInplaneOutofplane2018a",
+  "slug": "switchable-diode",
+  "stripped": "switchable-diode",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `switchable-diode`（可切换二极管）：铁电极化调制两端金属-半导体肖特基势垒，使整流方向可被电场反转。"
+ },
+ {
+  "citekey": "cuiIntercorrelatedInplaneOutofplane2018a",
+  "slug": "scanning-electron-diffraction",
+  "stripped": "scanning-electron-diffraction",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `scanning-electron-diffraction`（扫描电子衍射, SED）：通过 CBED 图样重心位移直接成像样品内投影电场的表征技术。"
+ },
+ {
+  "citekey": "cuiIntercorrelatedInplaneOutofplane2018a",
+  "slug": "depolarizing-field",
+  "stripped": "depolarizing-field",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `depolarizing-field`（退极化场）：铁电体表面束缚电荷产生的反向电场，其屏蔽程度决定单畴/多畴态。"
+ },
+ {
+  "citekey": "dingPredictionIntrinsicTwodimensional2017a",
+  "slug": "iii2-vi3-compounds",
+  "stripped": "iii2-vi3-compounds",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `iii2-vi3-compounds`（III2-VI3族化合物）：通式 III2-VI3（III=Al/Ga/In，VI=S/Se/Te）的层状半导体家"
+ },
+ {
+  "citekey": "dingPredictionIntrinsicTwodimensional2017a",
+  "slug": "concerted-motion",
+  "stripped": "concerted-motion",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `concerted-motion`（协同运动反转机制）：本文发现观察到的低能垒极化反转路径——上三层（Se-In-Se）整体横向滑移、中心 Se 旋转 6"
+ },
+ {
+  "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+  "slug": "polar-metal",
+  "stripped": "polar-metal",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `polar-metal`（极性金属）：具有极性空间群、存在极轴但传统上认为极化不可翻转的金属；本工作将其推进到可翻转的\"铁电金属\"。"
+ },
+ {
+  "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+  "slug": "electronic-ferroelectricity",
+  "stripped": "electronic-ferroelectricity",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `electronic-ferroelectricity`（电子铁电性）：自发极化主要来自电子云相对离子实的重排（电子-空穴关联、层间电荷转移），而非离子位"
+ },
+ {
+  "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+  "slug": "electron-hole-correlation",
+  "stripped": "electron-hole-correlation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `electron-hole-correlation`（电子-空穴关联）：在补偿点 ne=0 附近电子与空穴浓度相等时的关联效应，被作者提为 WTe₂ 自发"
+ },
+ {
+  "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+  "slug": "out-of-plane-polarization",
+  "stripped": "out-of-plane-polarization",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `out-of-plane-polarization`（面外极化）：极化方向沿垂直于二维层面的 c 轴，区别于 SnTe 等体系的面内铁电性。"
+ },
+ {
+  "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+  "slug": "quantum-spin-hall-effect",
+  "stripped": "quantum-spin-hall-effect",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `quantum-spin-hall-effect`（量子自旋霍尔效应）：单层 WTe₂ 为二维拓扑绝缘体（QSH 绝缘体），边缘态受拓扑保护，与双层铁电性"
+ },
+ {
+  "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+  "slug": "weyl-semimetal",
+  "stripped": "weyl-semimetal",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `weyl-semimetal`（外尔半金属）：三维 1T′-WTe₂ 为 type-II Weyl 半金属，具有费米弧、极端各向异性磁阻等，与铁电极轴共存"
+ },
+ {
+  "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+  "slug": "depolarization-field",
+  "stripped": "depolarization-field",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `depolarization-field`（去极化场）：极化电荷产生的反向电场，若不被栅极屏蔽将导致畴形成；本器件中上下栅极屏蔽了该场，使 E⊥=0 下保"
+ },
+ {
+  "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+  "slug": "screening-length",
+  "stripped": "screening-length",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `screening-length`（屏蔽长度）：金属中电场衰减的纳米尺度长度，决定了 2-3 层可翻转而 ≥4 层不可翻转、三层所需翻转场大于双层的临界厚"
+ },
+ {
+  "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+  "slug": "bistability",
+  "stripped": "bistability",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `bistability`（双稳态）：相同外场下电导（及极化）存在两个稳定值 P↑/P↓，是铁电翻转的电学指纹，表现为蝴蝶形回滞。"
+ },
+ {
+  "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+  "slug": "domain-dynamics",
+  "stripped": "domain-dynamics",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `domain-dynamics`（畴动力学）：电导跳跃位置与亚结构的随机涨落、缺陷成核/钉扎、接触附近屏蔽导致的翻转模式依赖于接触选择。"
+ },
+ {
+  "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+  "slug": "graphene",
+  "stripped": "graphene",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `graphene`（石墨烯）：本工作中用作超灵敏局域电场传感器（狄拉克点附近电导对电场极度敏感），将微弱极化电荷信号转为可测电阻变化。"
+ },
+ {
+  "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+  "slug": "BaTiO3",
+  "stripped": "BaTiO3",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `BaTiO3`（钛酸钡）：经典钙钛矿铁电体，体极化密度 ~0.2 C·m⁻²（~10¹⁴ e·cm⁻²），用作 WTe₂ 极化强度（小三个数量级）的"
+ },
+ {
+  "citekey": "FerroelectricityMultiferroicityAtomic2023",
+  "slug": "entities/MoS2",
+  "stripped": "MoS2",
+  "type": "entities",
+  "linked": true,
+  "line": "- `entities/MoS2`、`entities/WS2`、`entities/WSe2`、`entities/MoSe2` — 非极性 TMD 单层，可"
+ },
+ {
+  "citekey": "FerroelectricityMultiferroicityAtomic2023",
+  "slug": "entities/WS2",
+  "stripped": "WS2",
+  "type": "entities",
+  "linked": true,
+  "line": "- `entities/MoS2`、`entities/WS2`、`entities/WSe2`、`entities/MoSe2` — 非极性 TMD 单层，可"
+ },
+ {
+  "citekey": "FerroelectricityMultiferroicityAtomic2023",
+  "slug": "entities/WSe2",
+  "stripped": "WSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- `entities/MoS2`、`entities/WS2`、`entities/WSe2`、`entities/MoSe2` — 非极性 TMD 单层，可"
+ },
+ {
+  "citekey": "FerroelectricityMultiferroicityAtomic2023",
+  "slug": "entities/MoSe2",
+  "stripped": "MoSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- `entities/MoS2`、`entities/WS2`、`entities/WSe2`、`entities/MoSe2` — 非极性 TMD 单层，可"
+ },
+ {
+  "citekey": "fiebigEvolutionMultiferroics2016",
+  "slug": "h-YMnO3.md",
+  "stripped": "h-YMnO3.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `h-YMnO3.md`（六方锰酸钇）：几何铁电代表，Ps=5.6 μC/cm²，Tc≥1200 K，TN≤120 K；SHG首次揭示畴壁磁电耦合。"
+ },
+ {
+  "citekey": "fiebigEvolutionMultiferroics2016",
+  "slug": "Cr2O3.md",
+  "stripped": "Cr2O3.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `Cr2O3.md`：非多铁但具时空反演双破缺，展示线性磁电效应、铁涡旋性、磁准单极子与最早NDD。"
+ },
+ {
+  "citekey": "fiebigEvolutionMultiferroics2016",
+  "slug": "CaMn7O12.md",
+  "stripped": "CaMn7O12.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `CaMn7O12.md`：铁轴磁体，逆DM机制下极化最高之一（0.3 μC/cm²）。"
+ },
+ {
+  "citekey": "fornerQuantumTemperatureEffects1993",
+  "slug": "davydov-soliton",
+  "stripped": "davydov-soliton",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `davydov-soliton`（达维多夫孤子）：酰胺-I 振动激发与氢键链声学声子耦合形成的局域化、无损耗传播的能量包，用于解释蛋白质内无耗散能量传输"
+ },
+ {
+  "citekey": "fornerQuantumTemperatureEffects1993",
+  "slug": "exciton-phonon-coupling",
+  "stripped": "exciton-phonon-coupling",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `exciton-phonon-coupling`（激子-声子耦合）：振子激发引发晶格畸变、畸变反过来局域激发的反馈机制，是孤子/极化子/CDW 等现象的共"
+ },
+ {
+  "citekey": "fornerQuantumTemperatureEffects1993",
+  "slug": "interchain-coupling",
+  "stripped": "interchain-coupling",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `interchain-coupling`（链间耦合）：平行链间偶极-偶极相互作用（本文 L = 1.54 meV），可通过参数重整化在单链模型中等效"
+ },
+ {
+  "citekey": "fornerQuantumTemperatureEffects1993",
+  "slug": "coherent-state-ansatz",
+  "stripped": "coherent-state-ansatz",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `coherent-state-ansatz`（相干态拟设 |D₁⟩）：允许晶格量子涨落的试探波函数，区别于经典晶格近似的 |D₂⟩ 位移振子态"
+ },
+ {
+  "citekey": "fornerQuantumTemperatureEffects1993",
+  "slug": "self-trapping",
+  "stripped": "self-trapping",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `self-trapping`（自陷）：激发通过畸变自身周围晶格而被局域化的非线性现象"
+ },
+ {
+  "citekey": "Gittard2013polymerization",
+  "slug": "two-photon-polymerization",
+  "stripped": "two-photon-polymerization",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `two-photon-polymerization`：2PP，飞秒激光诱导光引发剂双光子吸收实现超衍射极限三维微纳加工的快速成型技术"
+ },
+ {
+  "citekey": "Gittard2013polymerization",
+  "slug": "tissue-engineering-scaffold",
+  "stripped": "tissue-engineering-scaffold",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `tissue-engineering-scaffold`：组织工程支架，人工细胞外基质，其孔隙率/表面形貌/传质能力决定细胞行为"
+ },
+ {
+  "citekey": "Gittard2013polymerization",
+  "slug": "prevascularization",
+  "stripped": "prevascularization",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `prevascularization`：预血管化，在支架内预先构建血管网络以解决大体积组织传质难题"
+ },
+ {
+  "citekey": "Gittard2013polymerization",
+  "slug": "contact-guidance",
+  "stripped": "contact-guidance",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `contact-guidance`：接触引导，细胞沿表面微纳沟槽取向排列的现象"
+ },
+ {
+  "citekey": "Gittard2013polymerization",
+  "slug": "voxel",
+  "stripped": "voxel",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `voxel`：体素，2PP 中聚合发生的最小三维体积（近似双锥形），分辨率可达 30 nm"
+ },
+ {
+  "citekey": "Gittard2013polymerization",
+  "slug": "multibeam-writing",
+  "stripped": "multibeam-writing",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `multibeam-writing`：多光束并行写入，用计算机生成全息图（CGH）将激光分成多焦点以成倍缩短加工时间"
+ },
+ {
+  "citekey": "Gittard2013polymerization",
+  "slug": "micromolding-replication",
+  "stripped": "micromolding-replication",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `micromolding-replication`：微模塑复制，用 2PP 制造母版再以硅胶模具批量翻模，突破材料限制并降低成本"
+ },
+ {
+  "citekey": "Gittard2013polymerization",
+  "slug": "Ormocer",
+  "stripped": "Ormocer",
+  "type": "entities",
+  "linked": true,
+  "line": "- `Ormocer`：有机-无机杂化光敏材料，2PP 中最常用的结构材料之一"
+ },
+ {
+  "citekey": "Gittard2013polymerization",
+  "slug": "PEGDA",
+  "stripped": "PEGDA",
+  "type": "entities",
+  "linked": true,
+  "line": "- `PEGDA`：聚乙二醇二丙烯酸酯，以非致血栓/防污特性著称的 2PP 支架材料"
+ },
+ {
+  "citekey": "Gittard2013polymerization",
+  "slug": "TORP",
+  "stripped": "TORP",
+  "type": "entities",
+  "linked": true,
+  "line": "- `TORP`：全听骨置换假体，2PP 制造个性化小型骨科假体的典型应用"
+ },
+ {
+  "citekey": "gomez-ortizKittelLawDomain2023",
+  "slug": "PbTiO3-SrTiO3-superlattice.md",
+  "stripped": "PbTiO3-SrTiO3-superlattice.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `PbTiO3-SrTiO3-superlattice.md`：钙钛矿铁电/顺电端元构成的超晶格复合相。"
+ },
+ {
+  "citekey": "gomez-ortizKittelLawDomain2023",
+  "slug": "SCALE-UP.md",
+  "stripped": "SCALE-UP.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `SCALE-UP.md`：第二性原理有效哈密顿量模拟所用的软件包。"
+ },
+ {
+  "citekey": "gorkovStrongElectronlatticeCoupling2012",
+  "slug": "double-well-potential",
+  "stripped": "double-well-potential",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `double-well-potential`（双势阱 / 双稳态势）：强 e-ph 耦合下单个离子有效势能 U_tot(u_i) 在 Λ²>1 时由单阱变"
+ },
+ {
+  "citekey": "gorkovStrongElectronlatticeCoupling2012",
+  "slug": "electron-phonon-coupling",
+  "stripped": "electron-phonon-coupling",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `electron-phonon-coupling`（电子-声子耦合，EPC）：本文用无量纲常数 Λ²（式13）量化耦合强度；Λ²>1 为强耦合区，是双势阱"
+ },
+ {
+  "citekey": "gorkovStrongElectronlatticeCoupling2012",
+  "slug": "migdal-instability",
+  "stripped": "migdal-instability",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `migdal-instability`（Migdal 不稳定性）：强 e-ph 耦合使重整化声子频率平方变负所标志的晶格失稳，是软模 CDW 理论（Var"
+ },
+ {
+  "citekey": "gorkovStrongElectronlatticeCoupling2012",
+  "slug": "holstein-model",
+  "stripped": "holstein-model",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `holstein-model`（Holstein 模型）：紧束缚电子与无色散局域声子耦合模型；DMFT 数值结果（双阱、大虚部自能、金属基态）为本文经典解"
+ },
+ {
+  "citekey": "gorkovStrongElectronlatticeCoupling2012",
+  "slug": "fermi-surface-nesting",
+  "stripped": "fermi-surface-nesting",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `fermi-surface-nesting`（费米面嵌套）：被本文系统批驳的传统 CDW 机制，可作为对照概念条目建立。"
+ },
+ {
+  "citekey": "gorkovStrongElectronlatticeCoupling2012",
+  "slug": "2H-NbSe2",
+  "stripped": "2H-NbSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `2H-NbSe2`、`2H-TaSe2`：经典 CDW 母体材料（T_CDW 分别 33.5 K、122 K），本文用以对比声子软化、电阻率与 AR"
+ },
+ {
+  "citekey": "gorkovStrongElectronlatticeCoupling2012",
+  "slug": "2H-TaSe2",
+  "stripped": "2H-TaSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `2H-NbSe2`、`2H-TaSe2`：经典 CDW 母体材料（T_CDW 分别 33.5 K、122 K），本文用以对比声子软化、电阻率与 AR"
+ },
+ {
+  "citekey": "guanRecentProgressTwoDimensional2020",
+  "slug": "intralayer-bonding",
+  "stripped": "intralayer-bonding",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `intralayer-bonding` / `interlayer-translation`（层内键合 / 层间平移）：本文提出的二维铁电机制一级分类框架"
+ },
+ {
+  "citekey": "guanRecentProgressTwoDimensional2020",
+  "slug": "interlayer-translation",
+  "stripped": "interlayer-translation",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `intralayer-bonding` / `interlayer-translation`（层内键合 / 层间平移）：本文提出的二维铁电机制一级分类框架"
+ },
+ {
+  "citekey": "guanRecentProgressTwoDimensional2020",
+  "slug": "BA2PbCl4",
+  "stripped": "BA2PbCl4",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `BA2PbCl4`：Ruddlesden-Popper 家族有机-无机杂化钙钛矿，有机阳离子偏心与 Pb²⁺ 位移协同产生 IP 铁电，可柔性应用。"
+ },
+ {
+  "citekey": "guanRecentProgressTwoDimensional2020",
+  "slug": "BTO",
+  "stripped": "BTO",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `BTO`：经典钙钛矿铁电 BaTiO₃，作为二维/三维铁电器件参照体系出现（graphene/BTO FTJ、1 u.c. BTO FTJ）。"
+ },
+ {
+  "citekey": "hanTunableSlidingFerroelectricity2025",
+  "slug": "magnetic-anisotropy",
+  "stripped": "magnetic-anisotropy",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `magnetic-anisotropy`（磁各向异性能，MAE）：抵抗 Mermin–Wagner 热涨落、稳定二维长程磁序的关键能量尺度；本文 from"
+ },
+ {
+  "citekey": "hanTunableSlidingFerroelectricity2025",
+  "slug": "stack-engineering",
+  "stripped": "stack-engineering",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `stack-engineering`（堆叠工程）：通过选择层间堆叠方式/滑移来设计对称性破缺与极化的通用策略，与转角、应变并列的二维材料调控手段。"
+ },
+ {
+  "citekey": "hanTunableSlidingFerroelectricity2025",
+  "slug": "ferrovalley",
+  "stripped": "ferrovalley",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `ferrovalley`（铁谷）：单层 RuCl₂ 曾报道的自发谷极化性质；本文指出双层 RuX₂ 谷极化基本消失（RuCl₂ 仅 0.7 meV，RuB"
+ },
+ {
+  "citekey": "hanTunableSlidingFerroelectricity2025",
+  "slug": "RuCl2",
+  "stripped": "RuCl2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `RuCl2` / `RuBr2` / `RuI2`（可合并为 `RuX2`）：六角 P-6m2 单层、三棱柱配位的 Ru-4d 磁性范德华卤化物，本"
+ },
+ {
+  "citekey": "hanTunableSlidingFerroelectricity2025",
+  "slug": "RuBr2",
+  "stripped": "RuBr2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `RuCl2` / `RuBr2` / `RuI2`（可合并为 `RuX2`）：六角 P-6m2 单层、三棱柱配位的 Ru-4d 磁性范德华卤化物，本"
+ },
+ {
+  "citekey": "hanTunableSlidingFerroelectricity2025",
+  "slug": "RuI2",
+  "stripped": "RuI2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `RuCl2` / `RuBr2` / `RuI2`（可合并为 `RuX2`）：六角 P-6m2 单层、三棱柱配位的 Ru-4d 磁性范德华卤化物，本"
+ },
+ {
+  "citekey": "hanTunableSlidingFerroelectricity2025",
+  "slug": "RuX2",
+  "stripped": "RuX2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `RuCl2` / `RuBr2` / `RuI2`（可合并为 `RuX2`）：六角 P-6m2 单层、三棱柱配位的 Ru-4d 磁性范德华卤化物，本"
+ },
+ {
+  "citekey": "hanTunableSlidingFerroelectricity2025",
+  "slug": "aimd",
+  "stripped": "aimd",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 方法 `aimd`（从头算分子动力学）、`neb`（微动弹性带法）、`dft-d2`（Grimme 范德华修正）：本文使用且 wiki 方法标签中可固化的计"
+ },
+ {
+  "citekey": "hanTunableSlidingFerroelectricity2025",
+  "slug": "neb",
+  "stripped": "neb",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 方法 `aimd`（从头算分子动力学）、`neb`（微动弹性带法）、`dft-d2`（Grimme 范德华修正）：本文使用且 wiki 方法标签中可固化的计"
+ },
+ {
+  "citekey": "hanTunableSlidingFerroelectricity2025",
+  "slug": "dft-d2",
+  "stripped": "dft-d2",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 方法 `aimd`（从头算分子动力学）、`neb`（微动弹性带法）、`dft-d2`（Grimme 范德华修正）：本文使用且 wiki 方法标签中可固化的计"
+ },
+ {
+  "citekey": "henkelmanClimbingImageNudged2000c",
+  "slug": "force-projection-nudging",
+  "stripped": "force-projection-nudging",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `force-projection-nudging`（力投影/\"微动\"）：NEB 区别于其他弹性带法的核心，只取真实力垂直分量与弹簧力平行分量，同时解决\"切"
+ },
+ {
+  "citekey": "henkelmanClimbingImageNudged2000c",
+  "slug": "variable-spring-constants",
+  "stripped": "variable-spring-constants",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `variable-spring-constants`（可变弹簧常数）：随图像能量线性增强弹簧，使图像在高能鞍点区加密。"
+ },
+ {
+  "citekey": "henkelmanClimbingImageNudged2000c",
+  "slug": "Ir-111",
+  "stripped": "Ir-111",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`Ir-111`、`Si-100`（本文两个验证表面体系，可作为表面催化/半导体表面实体）。"
+ },
+ {
+  "citekey": "henkelmanClimbingImageNudged2000c",
+  "slug": "Si-100",
+  "stripped": "Si-100",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`Ir-111`、`Si-100`（本文两个验证表面体系，可作为表面催化/半导体表面实体）。"
+ },
+ {
+  "citekey": "heUltrafastSwitchingDynamics2024",
+  "slug": "stacking-engineered-ferroelectricity",
+  "stripped": "stacking-engineered-ferroelectricity",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `stacking-engineered-ferroelectricity`（堆垛工程铁电性）：通过调控范德华双层的层间堆垛方式（AB/BA）产生可翻转极化"
+ },
+ {
+  "citekey": "heUltrafastSwitchingDynamics2024",
+  "slug": "domain-wall-texture",
+  "stripped": "domain-wall-texture",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `domain-wall-texture`（畴壁极化纹理）：描述畴壁内极化矢量旋转方式的概念，如布洛赫型（Bloch，极化在畴壁面内旋转）与奈尔型（Néel"
+ },
+ {
+  "citekey": "heUltrafastSwitchingDynamics2024",
+  "slug": "flexoelectric-effect",
+  "stripped": "flexoelectric-effect",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `flexoelectric-effect`（挠曲电效应）：应变梯度诱导电极化的耦合效应，本文中用于解释非0°畴壁的面外屈曲（buckling）起源。"
+ },
+ {
+  "citekey": "heUltrafastSwitchingDynamics2024",
+  "slug": "domain-wall-pinning",
+  "stripped": "domain-wall-pinning",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `domain-wall-pinning`（畴壁钉扎）：点缺陷（如氮空位）对畴壁运动的捕获与阻碍效应，是解释理想莫尔超顺电态与实验观测铁电回滞之间差异的关键"
+ },
+ {
+  "citekey": "heUltrafastSwitchingDynamics2024",
+  "slug": "concurrent-learning",
+  "stripped": "concurrent-learning",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `concurrent-learning`（并发学习/DP-Gen流程）：一种机器学习势训练策略，通过迭代探索构型空间、自动筛选DFT标注样本，本文用23轮"
+ },
+ {
+  "citekey": "houStrainbasedRoomtemperatureNonvolatile2019",
+  "slug": "mo-te2",
+  "stripped": "mo-te2",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `mo-te2`（实体）：二碲化钼，TMD中1T′（半金属）与2H（半导体）相能量差最小，~0.3%拉伸应变即可诱导相变，是应变相变器件的核心沟道材料；本文"
+ },
+ {
+  "citekey": "houStrainbasedRoomtemperatureNonvolatile2019",
+  "slug": "pmn-pt",
+  "stripped": "pmn-pt",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `pmn-pt`（实体）：Pb(Mg1/3Nb2/3)0.71Ti0.29O3 弛豫铁电单晶，居里温度135 °C，逆压电应变量级~0.4%，常用作电场可控"
+ },
+ {
+  "citekey": "houStrainbasedRoomtemperatureNonvolatile2019",
+  "slug": "straintronics",
+  "stripped": "straintronics",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `straintronics`（概念）：应变电子学，以电场诱导的机械应变（而非电场直接调控载流子）作为开关控制量，结合二维材料与铁电体，规避传统FET亚阈值"
+ },
+ {
+  "citekey": "houStrainbasedRoomtemperatureNonvolatile2019",
+  "slug": "phase-change-transistor",
+  "stripped": "phase-change-transistor",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `phase-change-transistor`（概念）：相变晶体管，通过材料半金属-半导体（或其他电子相）可逆相变实现沟道开关，开态金属性、关态由背靠背"
+ },
+ {
+  "citekey": "houStrainbasedRoomtemperatureNonvolatile2019",
+  "slug": "contact-stress-bias",
+  "stripped": "contact-stress-bias",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `contact-stress-bias`（概念）：接触应力偏置，利用沉积金属（如Ni，0.58 GPa拉应力）的薄膜内应力对沟道施加静态拉伸应变，将其预置"
+ },
+ {
+  "citekey": "houStrainbasedRoomtemperatureNonvolatile2019",
+  "slug": "schottky-junction",
+  "stripped": "schottky-junction",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `schottky-junction`（概念）：金属-半导体接触形成的整流势垒；本文关态由Ni/相变MoTe2构成的两个背靠背肖特基二极管实现低漏电。"
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "slug": "depolarization-field",
+  "stripped": "depolarization-field",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `depolarization-field`（退极化场）：表面束缚电荷产生的与极化反向的电场，是传统铁电体纳米尺寸失效的根源。"
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "slug": "phase-change-type-ferroelectrics",
+  "stripped": "phase-change-type-ferroelectrics",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `phase-change-type-ferroelectrics`（相变型铁电体）：作者提出的新分类，铁电翻转伴随化学键断裂重构和有序-有序结构相变，区别"
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "slug": "re-bonding-mechanism",
+  "stripped": "re-bonding-mechanism",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `re-bonding-mechanism`（再成键机制）：α-In2Se3 中 Se(m) 原子翻转需打破并重建 In–Se 共价键、横向位移约 100 "
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "slug": "mexican-hat-pes",
+  "stripped": "mexican-hat-pes",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `mexican-hat-pes`（墨西哥帽势能面）：β-In2Se3 中间层 Se 原子的环状能量剖面，中心为能量极大值、环上有 12 个等价极小值，统一"
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "slug": "dipole-locking",
+  "stripped": "dipole-locking",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `dipole-locking`（偶极锁定）：α-In2Se3 面内（IP）与面外（OOP）极化方向相互锁定，翻转其一必翻转另一个，IP 偶极比 OOP 大"
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "slug": "entropy-barrier",
+  "stripped": "entropy-barrier",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `entropy-barrier`（熵垒）：βpc 相中 Se(m) 原子在 12 个极小值间随机分布造成的构型熵，阻碍 β→α 的协同反向翻转，是器件速度"
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "slug": "shear-phonon-mode",
+  "stripped": "shear-phonon-mode",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `shear-phonon-mode`（剪切声子模式）：α 相高温下被激活的面内剪切光学声子，驱动上两层/下三层原子反向集体运动，触发 1.5 ps 量级的"
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "slug": "III2-VI3-compounds",
+  "stripped": "III2-VI3-compounds",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `III2-VI3-compounds`（III2–VI3 族二维铁电体）：In2Se3、Ga2Se3、In2S3 等共享墨西哥帽 PES 与再成键机制的材"
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "slug": "FeFET",
+  "stripped": "FeFET",
+  "type": "entities",
+  "linked": true,
+  "line": "- 器件实体 `FeFET`、`FeS-FET`（亦称 FeCT）、`FSJ`、`ferroelectric-memristor`：可在实体目录下各建一条器件结"
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "slug": "FeS-FET",
+  "stripped": "FeS-FET",
+  "type": "entities",
+  "linked": false,
+  "line": "- 器件实体 `FeFET`、`FeS-FET`（亦称 FeCT）、`FSJ`、`ferroelectric-memristor`：可在实体目录下各建一条器件结"
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "slug": "FSJ",
+  "stripped": "FSJ",
+  "type": "entities",
+  "linked": false,
+  "line": "- 器件实体 `FeFET`、`FeS-FET`（亦称 FeCT）、`FSJ`、`ferroelectric-memristor`：可在实体目录下各建一条器件结"
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "slug": "ferroelectric-memristor",
+  "stripped": "ferroelectric-memristor",
+  "type": "entities",
+  "linked": false,
+  "line": "- 器件实体 `FeFET`、`FeS-FET`（亦称 FeCT）、`FSJ`、`ferroelectric-memristor`：可在实体目录下各建一条器件结"
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "slug": "ferroelectric-semiconductor-devices",
+  "stripped": "ferroelectric-semiconductor-devices",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 器件实体 `FeFET`、`FeS-FET`（亦称 FeCT）、`FSJ`、`ferroelectric-memristor`：可在实体目录下各建一条器件结"
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "slug": "beta0-phase",
+  "stripped": "beta0-phase",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `beta0-phase`（β0 相）与 `beta-pc-phase`（βpc 赝中心对称相）：可考虑作为 In2Se3 实体下的子节而非独立条目。"
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "slug": "beta-pc-phase",
+  "stripped": "beta-pc-phase",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `beta0-phase`（β0 相）与 `beta-pc-phase`（βpc 赝中心对称相）：可考虑作为 In2Se3 实体下的子节而非独立条目。"
+ },
+ {
+  "citekey": "Islam2025enhancement",
+  "slug": "1T-MoTe2.md",
+  "stripped": "1T-MoTe2.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `1T-MoTe2.md`：本文图 5 中作为对比的拓扑/外尔超导体，已有 wiki WTe2 可作为邻近条目。"
+ },
+ {
+  "citekey": "Jia2023polymerization",
+  "slug": "figures/beam-intensity-profiles.md",
+  "stripped": "figures/beam-intensity-profiles.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `figures/beam-intensity-profiles.md` — 结构光纵向/横向强度分布图类型。"
+ },
+ {
+  "citekey": "Jia2023polymerization",
+  "slug": "figures/sem-micrographs.md",
+  "stripped": "figures/sem-micrographs.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `figures/sem-micrographs.md` — SEM 微结构照片图类型。"
+ },
+ {
+  "citekey": "Jin2015studying",
+  "slug": "PFM",
+  "stripped": "PFM",
+  "type": "entities",
+  "linked": false,
+  "line": "- `PFM`（压电响应力显微镜）：实验技术实体条目，可涵盖 VPFM/LPFM、锁相检测、导电探针等。"
+ },
+ {
+  "citekey": "Jin2015studying",
+  "slug": "first-principles-piezoelectric-tensor",
+  "stripped": "first-principles-piezoelectric-tensor",
+  "type": "entities",
+  "linked": false,
+  "line": "- `first-principles-piezoelectric-tensor`（第一性原理压电张量）：方法实体，d₁₀₅=80、d₂₀₂=27、d₃₀₁=1"
+ },
+ {
+  "citekey": "Johannes2008fermi",
+  "slug": "CeTe3.md",
+  "stripped": "CeTe3.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `CeTe3.md` — 三碲化铈，RTe₃ 家族准一维 Te-p 费米面，是“隐藏嵌套”的范例；计算用 LDA+U（U=4.5 eV）去除 f 带。"
+ },
+ {
+  "citekey": "Kang2012dimer",
+  "slug": "fermi-surface-nesting",
+  "stripped": "fermi-surface-nesting",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `fermi-surface-nesting`（费米面嵌套）：费米面不同片段经波矢平移后高度重合，是密度波不稳定性的几何驱动力。"
+ },
+ {
+  "citekey": "Kang2012dimer",
+  "slug": "pocket-density-wave",
+  "stripped": "pocket-density-wave",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `pocket-density-wave`（口袋密度波，PoDW）：仅耦合特定电子/空穴口袋并部分打开能隙的密度波序，可诱导结构相变与轨道铁磁性。"
+ },
+ {
+  "citekey": "Kang2012dimer",
+  "slug": "reconstructed-nesting",
+  "stripped": "reconstructed-nesting",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `reconstructed-nesting`（重构嵌套）：有序态建立后费米面变形产生的、在顺磁态不存在的新嵌套矢量。"
+ },
+ {
+  "citekey": "Kang2012dimer",
+  "slug": "quasiparticle-interference",
+  "stripped": "quasiparticle-interference",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `quasiparticle-interference`（准粒子干涉，QPI）：杂质散射的准粒子在实空间形成驻波，由 LDOS 振荡图案反推费米面几何。"
+ },
+ {
+  "citekey": "Kang2012dimer",
+  "slug": "nematic-order",
+  "stripped": "nematic-order",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `nematic-order`（向列序）：电子态自发打破 C4 旋转对称但保留平移对称的有序态。"
+ },
+ {
+  "citekey": "Kang2012dimer",
+  "slug": "orbital-content",
+  "stripped": "orbital-content",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `orbital-content`（轨道成分/轨道内容）：费米口袋由哪些 d 轨道构成，决定散射顶点的轨道重叠因子。"
+ },
+ {
+  "citekey": "Kang2012dimer",
+  "slug": "three-orbital-model",
+  "stripped": "three-orbital-model",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `three-orbital-model`（三轨道模型）：铁基超导体中考虑 dxz/dyz/dxy 轨道的最小紧束缚模型。"
+ },
+ {
+  "citekey": "Kang2012dimer",
+  "slug": "iron-pnictides",
+  "stripped": "iron-pnictides",
+  "type": "entities",
+  "linked": true,
+  "line": "- `iron-pnictides`（铁基磷族化合物/铁基超导体）：实体条目，一类含 FeAs/FeP 层的高温超导体。"
+ },
+ {
+  "citekey": "Kang2012dimer",
+  "slug": "t-matrix-impurity-scattering",
+  "stripped": "t-matrix-impurity-scattering",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `t-matrix-impurity-scattering`（T 矩阵杂质散射）：通过 T 矩阵精确求解单杂质格林函数以计算 LDOS 的方法。"
+ },
+ {
+  "citekey": "kawakamiChargedensityWaveAssociated2023",
+  "slug": "higher-order-fs-nesting",
+  "stripped": "higher-order-fs-nesting",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `higher-order-fs-nesting`（高阶费米面嵌套）：本文提出的新机制，2q 矢量连接常规 q 无法覆盖的费米面弯曲段。"
+ },
+ {
+  "citekey": "kawakamiChargedensityWaveAssociated2023",
+  "slug": "topotactic-reaction",
+  "stripped": "topotactic-reaction",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `topotactic-reaction`（拓扑化学反应）：将 MBE 生长的 VTe₂ 经硫蒸气退火置换为 VS₂ 的制备方法。"
+ },
+ {
+  "citekey": "kawakamiChargedensityWaveAssociated2023",
+  "slug": "VS2",
+  "stripped": "VS2",
+  "type": "entities",
+  "linked": false,
+  "line": "- `VS2`（二硫化钒）：核心研究材料，1T 相单层。"
+ },
+ {
+  "citekey": "kawakamiChargedensityWaveAssociated2023",
+  "slug": "VTe2",
+  "stripped": "VTe2",
+  "type": "entities",
+  "linked": false,
+  "line": "- `VTe2`（二碲化钒）：制备前驱体，其费米面为 K 点三角形空穴口袋，4×4 CDW。"
+ },
+ {
+  "citekey": "khazaeiNovelElectronicMagnetic2013",
+  "slug": "BoltzTrap",
+  "stripped": "BoltzTrap",
+  "type": "entities",
+  "linked": true,
+  "line": "- `BoltzTrap`：基于玻尔兹曼输运方程计算热电系数的开源代码。"
+ },
+ {
+  "citekey": "khazaeiNovelElectronicMagnetic2013",
+  "slug": "Ti2CO2",
+  "stripped": "Ti2CO2",
+  "type": "entities",
+  "linked": true,
+  "line": "- `Ti2CO2` / `Sc2CF2` / `Cr2C` / `Cr2N`：本文具体预测的功能化 MXene 实体，可作为 MXene 子条目或在 MXen"
+ },
+ {
+  "citekey": "khazaeiNovelElectronicMagnetic2013",
+  "slug": "Sc2CF2",
+  "stripped": "Sc2CF2",
+  "type": "entities",
+  "linked": true,
+  "line": "- `Ti2CO2` / `Sc2CF2` / `Cr2C` / `Cr2N`：本文具体预测的功能化 MXene 实体，可作为 MXene 子条目或在 MXen"
+ },
+ {
+  "citekey": "khazaeiNovelElectronicMagnetic2013",
+  "slug": "Cr2C",
+  "stripped": "Cr2C",
+  "type": "entities",
+  "linked": true,
+  "line": "- `Ti2CO2` / `Sc2CF2` / `Cr2C` / `Cr2N`：本文具体预测的功能化 MXene 实体，可作为 MXene 子条目或在 MXen"
+ },
+ {
+  "citekey": "khazaeiNovelElectronicMagnetic2013",
+  "slug": "Cr2N",
+  "stripped": "Cr2N",
+  "type": "entities",
+  "linked": true,
+  "line": "- `Ti2CO2` / `Sc2CF2` / `Cr2C` / `Cr2N`：本文具体预测的功能化 MXene 实体，可作为 MXene 子条目或在 MXen"
+ },
+ {
+  "citekey": "Khitrov2002internal",
+  "slug": "rare-earth-doped-gan",
+  "stripped": "rare-earth-doped-gan",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `rare-earth-doped-gan`（稀土掺杂 GaN）：在 GaN 中掺入 Eu、Tb 等离子获得特征红/绿光的电致发光体系。"
+ },
+ {
+  "citekey": "Khitrov2002internal",
+  "slug": "ZnSe",
+  "stripped": "ZnSe",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议 `ZnSe`、`GaN`、`carbon-nanotube`、`Si-SiGe-nanowire`、`Ti-sapphire-laser`。"
+ },
+ {
+  "citekey": "Khitrov2002internal",
+  "slug": "GaN",
+  "stripped": "GaN",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议 `ZnSe`、`GaN`、`carbon-nanotube`、`Si-SiGe-nanowire`、`Ti-sapphire-laser`。"
+ },
+ {
+  "citekey": "Khitrov2002internal",
+  "slug": "carbon-nanotube",
+  "stripped": "carbon-nanotube",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议 `ZnSe`、`GaN`、`carbon-nanotube`、`Si-SiGe-nanowire`、`Ti-sapphire-laser`。"
+ },
+ {
+  "citekey": "Khitrov2002internal",
+  "slug": "Si-SiGe-nanowire",
+  "stripped": "Si-SiGe-nanowire",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议 `ZnSe`、`GaN`、`carbon-nanotube`、`Si-SiGe-nanowire`、`Ti-sapphire-laser`。"
+ },
+ {
+  "citekey": "Khitrov2002internal",
+  "slug": "Ti-sapphire-laser",
+  "stripped": "Ti-sapphire-laser",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议 `ZnSe`、`GaN`、`carbon-nanotube`、`Si-SiGe-nanowire`、`Ti-sapphire-laser`。"
+ },
+ {
+  "citekey": "kresseEfficiencyAbinitioTotal1996a",
+  "slug": "self-consistent-field-cycle",
+  "stripped": "self-consistent-field-cycle",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `self-consistent-field-cycle`：自洽场（SC）循环，迭代求解 KS 方程并混合电荷密度直至输入/输出密度一致的标准电子基态求解框"
+ },
+ {
+  "citekey": "kresseEfficiencyAbinitioTotal1996a",
+  "slug": "rmm-diis",
+  "stripped": "rmm-diis",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `rmm-diis`：残差最小化-迭代子空间直接反演（Residual Minimization Method - Direct Inversion in "
+ },
+ {
+  "citekey": "kresseEfficiencyAbinitioTotal1996a",
+  "slug": "methfessel-paxton-smearing",
+  "stripped": "methfessel-paxton-smearing",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `methfessel-paxton-smearing`：Methfessel-Paxton 展宽法，用 Hermite 多项式展开阶跃占据函数，N≥1 时"
+ },
+ {
+  "citekey": "kresseEfficiencyAbinitioTotal1996a",
+  "slug": "charge-density-mixing",
+  "stripped": "charge-density-mixing",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `charge-density-mixing`：电荷密度混合（Pulay/Broyden/Kerker），自洽循环中根据历史残差生成下一输入密度的拟牛顿类加"
+ },
+ {
+  "citekey": "kresseEfficiencyAbinitioTotal1996a",
+  "slug": "iterative-diagonalization",
+  "stripped": "iterative-diagonalization",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `iterative-diagonalization`：Kohn-Sham 哈密顿量迭代对角化（Davidson / 共轭梯度 / RMM-DIIS 三大家"
+ },
+ {
+  "citekey": "kresseEfficiencyAbinitioTotal1996a",
+  "slug": "ultrasoft-pseudopotential",
+  "stripped": "ultrasoft-pseudopotential",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `ultrasoft-pseudopotential`：超软 Vanderbilt 赝势，将过渡金属和第一周期元素所需截断能降低 2-4 倍，引入增广电荷 "
+ },
+ {
+  "citekey": "kresseEfficiencyAbinitioTotal1996a",
+  "slug": "plane-wave-basis",
+  "stripped": "plane-wave-basis",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `plane-wave-basis`：平面波基组，利用 FFT 在实/倒空间快速施加哈密顿量（局域势实空间对角、动能倒空间对角、非局域投影可分离），是迭代算"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "slug": "ab-initio-molecular-dynamics",
+  "stripped": "ab-initio-molecular-dynamics",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `ab-initio-molecular-dynamics`（AIMD，从头算分子动力学；从电子基态实时算力的 MD，本文是 Born-Oppenheime"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "slug": "born-oppenheimer-md",
+  "stripped": "born-oppenheimer-md",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `born-oppenheimer-md`（BO-MD；与 Car-Parrinello MD 并列的两条 AIMD 主路线，本文是其在金属体系上的标志性实"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "slug": "car-parrinello-method",
+  "stripped": "car-parrinello-method",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `car-parrinello-method`（CP 方法；与本文方法对照的\"同时演化电子-离子\"路线，在金属中存在非绝热难题）"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "slug": "finite-temperature-dft",
+  "stripped": "finite-temperature-dft",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `finite-temperature-dft`（Mermin 有限温度 DFT；用分数占据/高斯展宽稳定金属电子结构，自由能梯度等于 Hellmann-F"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "slug": "amorphous-semiconductor",
+  "stripped": "amorphous-semiconductor",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `amorphous-semiconductor`（非晶半导体；四配位 sp³ 共价网络、短程有序长程无序，区别于液态金属高配位结构）"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "slug": "dangling-bond-floating-bond",
+  "stripped": "dangling-bond-floating-bond",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `dangling-bond-floating-bond`（悬空键 T3 / 浮动键 T5 缺陷对；非晶四面体网络中的两类特征配位缺陷及其与 EPR 信号的"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "slug": "pair-correlation-function",
+  "stripped": "pair-correlation-function",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `pair-correlation-function`（g(R) 与静态结构因子 S(Q)；液态/非晶结构表征的\"金标准\"对）"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "slug": "conjugate-gradient-minimization",
+  "stripped": "conjugate-gradient-minimization",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `conjugate-gradient-minimization`（预条件共轭梯度 + 子空间对角化 + Kerker 混合；直接能量最小化算法栈）"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "slug": "nose-thermostat",
+  "stripped": "nose-thermostat",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `nose-thermostat`（Nosé 扩展系统恒温器；生成 NVT 正则系综，ω_T 与离子振动频率同量级时耦合最强）"
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "slug": "pseudogap",
+  "stripped": "pseudogap",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `pseudogap`（赝能隙；液态 Ge 在 −4.5 eV 处由相对论 s-p 分裂造成的 DOS 凹陷，重 IV 族 Ge/Sn/Pb 液态特征）"
+ },
+ {
+  "citekey": "Kumar2017microstructuring",
+  "slug": "two-photon-polymerization",
+  "stripped": "two-photon-polymerization",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `two-photon-polymerization`（双光子聚合，TPP）：基于 TPA 非线性效应的 3D 微纳光刻技术，核心机制词条。"
+ },
+ {
+  "citekey": "Kumar2017microstructuring",
+  "slug": "two-photon-absorption",
+  "stripped": "two-photon-absorption",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `two-photon-absorption`（双光子吸收，TPA）：吸收速率正比于 I² 的三阶非线性光学过程，是超衍射极限加工的物理基础。"
+ },
+ {
+  "citekey": "Kumar2017microstructuring",
+  "slug": "voxel",
+  "stripped": "voxel",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `voxel`（体素）：TPP 中单次曝光固化的最小三维体积单元，其宽/深由阈值条件与高斯光束参数共同决定。"
+ },
+ {
+  "citekey": "Kumar2017microstructuring",
+  "slug": "photoinitiator",
+  "stripped": "photoinitiator",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `photoinitiator`（光引发剂）：吸收双光子后产生自由基引发单体交联的分子；本文用 2,4-二乙基-9H-噻吨-9-酮。"
+ },
+ {
+  "citekey": "Kumar2017microstructuring",
+  "slug": "SU-8",
+  "stripped": "SU-8",
+  "type": "entities",
+  "linked": true,
+  "line": "- `SU-8`：常用环氧基负性光刻胶，350–400 nm 单光子最佳交联，需配光引发剂做 532 nm TPP。"
+ },
+ {
+  "citekey": "Kumar2017microstructuring",
+  "slug": "AR-N-4340",
+  "stripped": "AR-N-4340",
+  "type": "entities",
+  "linked": true,
+  "line": "- `AR-N-4340`：Allresist 负性光刻胶，对 532 nm TPA 聚合响应极好，甚至可不加光引发剂直接固化。"
+ },
+ {
+  "citekey": "Kumar2017microstructuring",
+  "slug": "threshold-effect",
+  "stripped": "threshold-effect",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `threshold-effect`（阈值效应）：光聚合需超过最小剂量阈值，使实际固化区远小于光斑，是突破衍射极限的关键。"
+ },
+ {
+  "citekey": "Kumar2017microstructuring",
+  "slug": "diffraction-limit",
+  "stripped": "diffraction-limit",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `diffraction-limit`（衍射极限）：传统光学聚焦的最小尺度限制；TPP 通过 I² 非线性与阈值将特征尺寸压缩至 FWHM 的 1/√2 以"
+ },
+ {
+  "citekey": "laiTwodimensionalFerromagnetismDriven2019",
+  "slug": "cu-crp2s6",
+  "stripped": "cu-crp2s6",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `cu-crp2s6`（实体）：本文主角，ABP2X6 家族的硫代磷酸铜铬，I 型二维多铁候选，铁电由 Cu 位移驱动、铁磁源于 Cr3+。"
+ },
+ {
+  "citekey": "laiTwodimensionalFerromagnetismDriven2019",
+  "slug": "driven-ferroelectricity",
+  "stripped": "driven-ferroelectricity",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `driven-ferroelectricity`（概念）：驱动铁电性——基态为反铁电、亚稳铁电相需外电场激发并靠势垒保持的特殊铁电形态。"
+ },
+ {
+  "citekey": "laiTwodimensionalFerromagnetismDriven2019",
+  "slug": "type-i-multiferroic",
+  "stripped": "type-i-multiferroic",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `type-i-multiferroic`（概念）：I 型多铁，铁电与铁磁起源相互独立（分别来自不同原子/结构单元），耦合通常较弱，区别于磁序诱导铁电的 I"
+ },
+ {
+  "citekey": "laiTwodimensionalFerromagnetismDriven2019",
+  "slug": "spin-dipole-valley-coupling",
+  "stripped": "spin-dipole-valley-coupling",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `spin-dipole-valley-coupling`（概念）：自旋-电偶极-谷三重锁定，由 SOC 桥接，可由电场同时控制磁矩与谷态。"
+ },
+ {
+  "citekey": "laiTwodimensionalFerromagnetismDriven2019",
+  "slug": "zeeman-type-valley-splitting",
+  "stripped": "zeeman-type-valley-splitting",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `zeeman-type-valley-splitting`（概念）：塞曼型谷劈裂，低对称性+SOC 使两谷带隙不等，类似铁磁塞曼分裂。"
+ },
+ {
+  "citekey": "laiTwodimensionalFerromagnetismDriven2019",
+  "slug": "unidirectional-magnetic-anisotropy",
+  "stripped": "unidirectional-magnetic-anisotropy",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `unidirectional-magnetic-anisotropy`（概念）：单向磁晶各向异性，+a 与 −a 方向能量不等且方向由电极化符号决定，是电"
+ },
+ {
+  "citekey": "laiTwodimensionalFerromagnetismDriven2019",
+  "slug": "abp2x6-family",
+  "stripped": "abp2x6-family",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `abp2x6-family`（概念）：ABP2X6 低对称性层状家族（A=Cu,Ag; B=Cr,V; X=S,Se），蕴含一批二维多铁候选（AgVP2S"
+ },
+ {
+  "citekey": "Laverock2005fermi",
+  "slug": "GdTe3.md",
+  "stripped": "GdTe3.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `GdTe3.md`、`LuTe3.md`、`LuTe2.md`（实体）：本文实验/计算所用具体材料，相关页面尚未建立。"
+ },
+ {
+  "citekey": "Laverock2005fermi",
+  "slug": "LuTe3.md",
+  "stripped": "LuTe3.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `GdTe3.md`、`LuTe3.md`、`LuTe2.md`（实体）：本文实验/计算所用具体材料，相关页面尚未建立。"
+ },
+ {
+  "citekey": "Laverock2005fermi",
+  "slug": "LuTe2.md",
+  "stripped": "LuTe2.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `GdTe3.md`、`LuTe3.md`、`LuTe2.md`（实体）：本文实验/计算所用具体材料，相关页面尚未建立。"
+ },
+ {
+  "citekey": "lezoualchStudyChargeDensity",
+  "slug": "cdw-tronics",
+  "stripped": "cdw-tronics",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `cdw-tronics`（CDW 电子学）：仿照 spintronics/valleytronics，以 CDW 相/取向为信息载体"
+ },
+ {
+  "citekey": "lezoualchStudyChargeDensity",
+  "slug": "dfpt",
+  "stripped": "dfpt",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `dfpt`（密度泛函微扰理论）：可建为方法实体或概念条目"
+ },
+ {
+  "citekey": "lezoualchStudyChargeDensity",
+  "slug": "negf-transport",
+  "stripped": "negf-transport",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `negf-transport`（非平衡格林函数输运）：Fireball 中 STM/I-V 模拟方法"
+ },
+ {
+  "citekey": "lezoualchStudyChargeDensity",
+  "slug": "nudged-elastic-band",
+  "stripped": "nudged-elastic-band",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `nudged-elastic-band`（NEB 微动弹性带）：相变能垒计算方法"
+ },
+ {
+  "citekey": "lezoualchStudyChargeDensity",
+  "slug": "Quantum-Espresso",
+  "stripped": "Quantum-Espresso",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `Quantum-Espresso` / `Fireball`：两套 DFT 代码，可建软件实体（QE 在 wiki 中尚无）"
+ },
+ {
+  "citekey": "lezoualchStudyChargeDensity",
+  "slug": "Fireball",
+  "stripped": "Fireball",
+  "type": "entities",
+  "linked": true,
+  "line": "- `Quantum-Espresso` / `Fireball`：两套 DFT 代码，可建软件实体（QE 在 wiki 中尚无）"
+ },
+ {
+  "citekey": "lezoualchStudyChargeDensity",
+  "slug": "sscha",
+  "stripped": "sscha",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `sscha`（随机自洽简谐近似）：论文展望中提到的超越简谐近似方法"
+ },
+ {
+  "citekey": "Li2013bonding",
+  "slug": "stress-strain-relation",
+  "stripped": "stress-strain-relation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `stress-strain-relation`（应力–应变关系）：无缺陷材料在断裂前对应变的完整力学响应。"
+ },
+ {
+  "citekey": "Li2013bonding",
+  "slug": "ABINIT",
+  "stripped": "ABINIT",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `ABINIT`：本文用于力学响应（应力–应变）计算的开源平面波 DFT 软件，采用 LDA + HGH 模守恒赝势。"
+ },
+ {
+  "citekey": "liMonolayerPuckeredPentagonal2022",
+  "slug": "puckered-pentagonal-structure",
+  "stripped": "puckered-pentagonal-structure",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `puckered-pentagonal-structure`（褶皱五边形结构）：TMD材料中除T-、H相之外的一类由五边形元胞构成、层内有褶皱起伏的结构相"
+ },
+ {
+  "citekey": "liMonolayerPuckeredPentagonal2022",
+  "slug": "PP-VTe2",
+  "stripped": "PP-VTe2",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `PP-VTe2`（单层褶皱五边形VTe2实体）：空间群Pca21、矩形晶胞(a=6.774 Å, b=6.655 Å)、由两个化学键合子层构成的VTe2新"
+ },
+ {
+  "citekey": "liMonolayerPuckeredPentagonal2022",
+  "slug": "ferromagnetic-semiconductor",
+  "stripped": "ferromagnetic-semiconductor",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `ferromagnetic-semiconductor`（铁磁半导体）：同时具有铁磁有序和半导体带隙的二维材料类别，区别于半金属（如BP-VTe2）。"
+ },
+ {
+  "citekey": "liMonolayerPuckeredPentagonal2022",
+  "slug": "magnetic-anisotropy-energy",
+  "stripped": "magnetic-anisotropy-energy",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `magnetic-anisotropy-energy`（磁各向异性能，MAE）：磁矩沿不同晶向取向时的能量差，决定易磁化轴方向；本文用其确定面内[100]"
+ },
+ {
+  "citekey": "liMonolayerPuckeredPentagonal2022",
+  "slug": "electrical-control-of-magnetism",
+  "stripped": "electrical-control-of-magnetism",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `electrical-control-of-magnetism`（电控磁性）：利用栅压调控费米能级附近自旋极化态的占据，从而改变净磁矩的机制；本文中空穴浓"
+ },
+ {
+  "citekey": "liMonolayerPuckeredPentagonal2022",
+  "slug": "exfoliation-energy",
+  "stripped": "exfoliation-energy",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `exfoliation-energy`（剥离能）：从块体相剥离出单层所需能量；PP-VTe2为72.46 meV/Å²，支持外延生长制备。"
+ },
+ {
+  "citekey": "liMonolayerPuckeredPentagonal2022",
+  "slug": "PdSe2",
+  "stripped": "PdSe2",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `PdSe2`（实体）：层状五边形二维材料原型，是PP-VTe2结构与强层间键合的类比对象。"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "mermin-wagner-theorem",
+  "stripped": "mermin-wagner-theorem",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `mermin-wagner-theorem`：Hohenberg–Mermin–Wagner 定理，连续对称性在 2D 短程相互作用体系中禁止有限温度长程"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "polymorphic-phase-transition",
+  "stripped": "polymorphic-phase-transition",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `polymorphic-phase-transition`：2H/1T/1T′ 多晶型相变，TMD 中半导体—金属—量子自旋霍尔绝缘相之间的结构-电子协同"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "displacive-phase-transition",
+  "stripped": "displacive-phase-transition",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `displacive-phase-transition`：位移型相变，原子协同小位移越过势垒，速度受声子群速限制，外力指数 n 可高达 ~20。"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "diffusive-phase-transition",
+  "stripped": "diffusive-phase-transition",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `diffusive-phase-transition`：扩散型相变，热激活原子长程迁移（n≈1），对应 PCM/界面存储中的熔化-结晶过程。"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "quantum-phase-transition",
+  "stripped": "quantum-phase-transition",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `quantum-phase-transition`：由量子涨落在 T=0 驱动的相变，与 Kosterlitz–Thouless 拓扑相变并列为 2D 特"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "euler-buckling",
+  "stripped": "euler-buckling",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `euler-buckling`：欧拉屈曲，2D 薄膜受压时面外弯曲在临界应力下失稳，是 2D 力学可重构性的几何来源。"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "peierls-instability",
+  "stripped": "peierls-instability",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `peierls-instability`：Peierls 失稳，1D/2D 金属因电声耦合打开能隙，与 CDW 共同起源于增强的电子-声子相互作用。"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "electrostatic-doping",
+  "stripped": "electrostatic-doping",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `electrostatic-doping`：静电掺杂，离子液体/固态栅压在 2D 表面可注入 ~10^14 e cm^-2 载流子而不发生 3D 库仑爆炸"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "ripplocation",
+  "stripped": "ripplocation",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `ripplocation`：褶皱位错（ripplocation），2D 层状材料压缩时形成的面外褶皱型缺陷，替代体材料中的位错增殖。"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "optomechanical-phase-change",
+  "stripped": "optomechanical-phase-change",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `optomechanical-phase-change`：光致力学相变，光生载流子/应变耦合诱发马氏体式可逆结构翻转（SnO 单层等）。"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "berry-curvature-dipole",
+  "stripped": "berry-curvature-dipole",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `berry-curvature-dipole`：贝里曲率偶极，奇数层 WTe2 中非线性反常霍尔电压随极化反转而反号，可做非易失存储。"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "flexoelectricity",
+  "stripped": "flexoelectricity",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `flexoelectricity`：挠曲电效应，应变梯度在 2D 中可显著极化金属/半金属，是\"弯曲工程\"的核心耦合项。"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "interfacial-phase-change-memory",
+  "stripped": "interfacial-phase-change-memory",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `interfacial-phase-change-memory`：界面相变存储，GeTe/Sb2Te3、TiTe2/Sb2Te3 超晶格中原子仅在 ~5 "
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "kosterlitz-thouless-transition",
+  "stripped": "kosterlitz-thouless-transition",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `kosterlitz-thouless-transition`：KT 相变，涡旋-反涡旋解绑定驱动的拓扑相变，无朗道式对称破缺。"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "ferroic-order",
+  "stripped": "ferroic-order",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `ferroic-order`：铁性序（铁弹/铁电/铁磁/铁环）统一框架，对应自发应变/极化/磁化/环磁矩。"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "quantum-spin-hall",
+  "stripped": "quantum-spin-hall",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `quantum-spin-hall`：1T′-TMD（尤其 WTe2）单层为量子自旋霍尔绝缘体，边缘导电 ~e²/h。"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "MoS2",
+  "stripped": "MoS2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`MoS2`、`MoTe2`、`CrI3`、`Cr2Ge2Te6`、`NbSe2`、`CuInP2S6`、`GeTe`、`Sb2Te3`、`TiT"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "MoTe2",
+  "stripped": "MoTe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`MoS2`、`MoTe2`、`CrI3`、`Cr2Ge2Te6`、`NbSe2`、`CuInP2S6`、`GeTe`、`Sb2Te3`、`TiT"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "CrI3",
+  "stripped": "CrI3",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`MoS2`、`MoTe2`、`CrI3`、`Cr2Ge2Te6`、`NbSe2`、`CuInP2S6`、`GeTe`、`Sb2Te3`、`TiT"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "Cr2Ge2Te6",
+  "stripped": "Cr2Ge2Te6",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`MoS2`、`MoTe2`、`CrI3`、`Cr2Ge2Te6`、`NbSe2`、`CuInP2S6`、`GeTe`、`Sb2Te3`、`TiT"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "NbSe2",
+  "stripped": "NbSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`MoS2`、`MoTe2`、`CrI3`、`Cr2Ge2Te6`、`NbSe2`、`CuInP2S6`、`GeTe`、`Sb2Te3`、`TiT"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "CuInP2S6",
+  "stripped": "CuInP2S6",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`MoS2`、`MoTe2`、`CrI3`、`Cr2Ge2Te6`、`NbSe2`、`CuInP2S6`、`GeTe`、`Sb2Te3`、`TiT"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "GeTe",
+  "stripped": "GeTe",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`MoS2`、`MoTe2`、`CrI3`、`Cr2Ge2Te6`、`NbSe2`、`CuInP2S6`、`GeTe`、`Sb2Te3`、`TiT"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "Sb2Te3",
+  "stripped": "Sb2Te3",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`MoS2`、`MoTe2`、`CrI3`、`Cr2Ge2Te6`、`NbSe2`、`CuInP2S6`、`GeTe`、`Sb2Te3`、`TiT"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "TiTe2",
+  "stripped": "TiTe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`MoS2`、`MoTe2`、`CrI3`、`Cr2Ge2Te6`、`NbSe2`、`CuInP2S6`、`GeTe`、`Sb2Te3`、`TiT"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "SnO",
+  "stripped": "SnO",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`MoS2`、`MoTe2`、`CrI3`、`Cr2Ge2Te6`、`NbSe2`、`CuInP2S6`、`GeTe`、`Sb2Te3`、`TiT"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "SnSe",
+  "stripped": "SnSe",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`MoS2`、`MoTe2`、`CrI3`、`Cr2Ge2Te6`、`NbSe2`、`CuInP2S6`、`GeTe`、`Sb2Te3`、`TiT"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "GeSe",
+  "stripped": "GeSe",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`MoS2`、`MoTe2`、`CrI3`、`Cr2Ge2Te6`、`NbSe2`、`CuInP2S6`、`GeTe`、`Sb2Te3`、`TiT"
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "slug": "graphene",
+  "stripped": "graphene",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`MoS2`、`MoTe2`、`CrI3`、`Cr2Ge2Te6`、`NbSe2`、`CuInP2S6`、`GeTe`、`Sb2Te3`、`TiT"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "proximity-effect",
+  "stripped": "proximity-effect",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `proximity-effect`（邻近效应）：两种材料紧密接触时一种材料\"借取\"另一种材料磁性/SOC 等性质的界面效应，是本综述操控章节的核心。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "spin-injection",
+  "stripped": "spin-injection",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `spin-injection`（自旋注入）：从铁磁电极或其他自旋流向非磁通道注入自旋极化载流子，受电导率失配制约。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "spin-relaxation",
+  "stripped": "spin-relaxation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `spin-relaxation`（自旋弛豫）：Elliott–Yafet 与 Dyakonov–Perel 机制之争，决定 τs 与 λs 的上限。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "spin-hall-effect",
+  "stripped": "spin-hall-effect",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `spin-hall-effect`（自旋霍尔效应）：强 SOC 材料中纵向电荷流产生横向纯自旋流，是无磁注入/电荷-自旋转换的关键。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "rashba-effect",
+  "stripped": "rashba-effect",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `rashba-effect`（Rashba 自旋-轨道耦合）：结构反演不对称导致的自旋分裂，哈密顿量 H_R = v0 ẑ·(k×σ)。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "edelstein-effect",
+  "stripped": "edelstein-effect",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `edelstein-effect`（Edelstein 效应）：Rashba 界面 or 拓扑绝缘体表面态中电荷流直接转化为自旋积累。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "magnetic-tunnel-junction",
+  "stripped": "magnetic-tunnel-junction",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `magnetic-tunnel-junction`（磁隧道结, MTJ）：FM/势垒/FM 结构，TMR 取决于两层磁化相对取向。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "stt-mram",
+  "stripped": "stt-mram",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `stt-mram`（自旋转移矩磁随机存储器）：用自旋极化电流翻转自由层磁化的非易失存储。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "spin-valve",
+  "stripped": "spin-valve",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `spin-valve`（自旋阀）：非局域四电极结构，自旋输运研究的基本器件。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "valleytronics",
+  "stripped": "valleytronics",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `valleytronics`（谷电子学）：利用 TMDCs 中 K/K′ 谷作为信息载体，与自旋-谷锁定结合。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "two-dimensional-magnetism",
+  "stripped": "two-dimensional-magnetism",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `two-dimensional-magnetism`（二维磁性）：Fe3GeTe2、CrI3、Cr2Ge2Te6 等原子级磁体及其电控/应力/层间耦合调控"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "van-der-waals-heterostructure",
+  "stripped": "van-der-waals-heterostructure",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `van-der-waals-heterostructure`（vdW 异质结）：层间无悬挂键堆叠，是邻近工程的结构基础。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "graphene",
+  "stripped": "graphene",
+  "type": "entities",
+  "linked": true,
+  "line": "- `graphene`（石墨烯）：弱 SOC、高迁移率的明星自旋通道，应建实体条目。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "CrI3",
+  "stripped": "CrI3",
+  "type": "entities",
+  "linked": true,
+  "line": "- `CrI3`：层间反铁磁/铁磁可由堆叠与静电掺杂切换的二维铁磁绝缘体。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "Cr2Ge2Te6",
+  "stripped": "Cr2Ge2Te6",
+  "type": "entities",
+  "linked": true,
+  "line": "- `Cr2Ge2Te6`：双层 Tc≈30 K 的二维铁磁绝缘体，常与 CrI3 并列讨论。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "black-phosphorus",
+  "stripped": "black-phosphorus",
+  "type": "entities",
+  "linked": true,
+  "line": "- `black-phosphorus`（黑磷, BP）：具有直接带隙、弱 SOC 的新型自旋通道。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "silicene",
+  "stripped": "silicene",
+  "type": "entities",
+  "linked": true,
+  "line": "- `silicene`（硅烯）：空气敏感、需原位 Al2O3 封装转移的硅基二维材料。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "Bi2Te2Se",
+  "stripped": "Bi2Te2Se",
+  "type": "entities",
+  "linked": true,
+  "line": "- `Bi2Te2Se`：三维拓扑绝缘体，表面态 Dirac 费米子可向石墨烯注入自旋。"
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "slug": "YIG",
+  "stripped": "YIG",
+  "type": "entities",
+  "linked": true,
+  "line": "- `YIG`（钇铁石榴石）：铁磁绝缘体，通过邻近效应在石墨烯中诱导交换场。"
+ },
+ {
+  "citekey": "lvUnconventionalHystereticTransition2022",
+  "slug": "EuTe4",
+  "stripped": "EuTe4",
+  "type": "entities",
+  "linked": true,
+  "line": "- `EuTe4`（entity）— 四碲化铕，准二维层状CDW材料，原胞含Te单层（Te0）和Te双层（Te1/Te2），CDW波矢q_CDW=0.643(3"
+ },
+ {
+  "citekey": "Makogon2012wave",
+  "slug": "potassium-40.md",
+  "stripped": "potassium-40.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `potassium-40.md`（⁴⁰K）：作者建议的实验用费米子同位素，文中给出激光波长约 980 nm、远失谐于 D1/D2 线的具体参数。"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "slug": "inverse-dm-interaction",
+  "stripped": "inverse-dm-interaction",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `inverse-dm-interaction`（逆 Dzyaloshinskii–Moriya 相互作用）：非共线自旋 S_i×S_j 通过 SOC 驱动"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "slug": "magnetic-frustration",
+  "stripped": "magnetic-frustration",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `magnetic-frustration`（磁阻挫）：竞争交换或几何阻挫产生近简并磁构型流形，既稳定反演破缺磁序，又使磁态对外场极\"软\"，是巨磁电响应的关"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "slug": "hybrid-improper-ferroelectricity",
+  "stripped": "hybrid-improper-ferroelectricity",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `hybrid-improper-ferroelectricity`（杂化非本征铁电性）：两个有限波矢晶格畸变（如氧八面体倾斜 Δ₁ 与旋转 Δ₂）的乘积 "
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "slug": "exchange-striction",
+  "stripped": "exchange-striction",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `exchange-striction`（交换伸缩）：海森堡交换常数对键长/电场敏感，d_ij ∝ (∂J/∂E)(S_i·S_j)，在共线非等价键上产生极"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "slug": "spiral-magnetism",
+  "stripped": "spiral-magnetism",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `spiral-magnetism`（螺旋磁性）：cycloidal/helical 自旋调制，cos(q·x) 偶、sin(q·x) 奇地混合宇称；P ∝"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "slug": "electromagnon",
+  "stripped": "electromagnon",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `electromagnon`（电磁振子）：被光电场分量激发的磁振子；非共线自旋中对称交换伸缩使 d_ij(t) ∝ ⟨S_i⟩·δS_j+δS_i·⟨S_"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "slug": "skyrmion",
+  "stripped": "skyrmion",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `skyrmion`（磁斯格明子）：拓扑保护的弦状自旋缺陷；多铁绝缘体中逆 DM 机制赋予其面外电偶极矩，电场可稳定/产生/驱动斯格明子并激发螺旋度模式。"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "slug": "spin-peierls",
+  "stripped": "spin-peierls",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `spin-peierls`（自旋-派尔斯有序）：准一维自旋链中二聚化与自旋单态形成，配合在位电荷交替可打破反演并诱导极化（TTF-BA 案例）。"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "slug": "weak-ferromagnetism",
+  "stripped": "weak-ferromagnetism",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `weak-ferromagnetism`（弱铁磁性）：DM 相互作用使反铁磁子晶格倾斜产生净磁矩 M = λΔ₁L，可被晶格/铁电序参量翻转。"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "slug": "Ca3Mn2O7",
+  "stripped": "Ca3Mn2O7",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `Ca3Mn2O7`（双层钙钛矿杂化非本征铁电原型）、`hexaferrites`（六角铁氧体，室温锥形螺旋巨磁电响应）、`RMnO3-orthorh"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "slug": "hexaferrites",
+  "stripped": "hexaferrites",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `Ca3Mn2O7`（双层钙钛矿杂化非本征铁电原型）、`hexaferrites`（六角铁氧体，室温锥形螺旋巨磁电响应）、`RMnO3-orthorh"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "slug": "RMnO3-orthorhombic",
+  "stripped": "RMnO3-orthorhombic",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `Ca3Mn2O7`（双层钙钛矿杂化非本征铁电原型）、`hexaferrites`（六角铁氧体，室温锥形螺旋巨磁电响应）、`RMnO3-orthorh"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "slug": "Cu2OSeO3",
+  "stripped": "Cu2OSeO3",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `Ca3Mn2O7`（双层钙钛矿杂化非本征铁电原型）、`hexaferrites`（六角铁氧体，室温锥形螺旋巨磁电响应）、`RMnO3-orthorh"
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "slug": "TTF-BA",
+  "stripped": "TTF-BA",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `Ca3Mn2O7`（双层钙钛矿杂化非本征铁电原型）、`hexaferrites`（六角铁氧体，室温锥形螺旋巨磁电响应）、`RMnO3-orthorh"
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "slug": "max-phases",
+  "stripped": "max-phases",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `max-phases`（MAX 相）：通式 M_{n+1}AX_n 的六方层状三元碳化物/氮化物（P6₃/mmc），M 为早期过渡金属、A 主要为 III"
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "slug": "selective-etching",
+  "stripped": "selective-etching",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `selective-etching`（选择性刻蚀）：利用 M–A 金属键弱于 M–X 共价/金属/离子混合键的化学活性差异，用含水 HF 在室温下溶出 A"
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "slug": "surface-terminations",
+  "stripped": "surface-terminations",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `surface-terminations`（表面终端基团 Tₓ）：刻蚀后自发吸附在 MXene 表面的 O、OH、F（乃至 H、甲氧基）混合官能团，决定构"
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "slug": "intercalation-delamination",
+  "stripped": "intercalation-delamination",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `intercalation-delamination`（插层与分层）：以 DMSO、肼、无机盐阳离子等插入多层 MXene 层间、撑大 c 轴、再经温和超"
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "slug": "conductive-clays",
+  "stripped": "conductive-clays",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `conductive-clays`（导电粘土）：MXenes 兼具过渡金属碳化物的金属导电性与羟基/氧终端表面的亲水性，作者提出的标志性定位比喻。"
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "slug": "Ti3C2",
+  "stripped": "Ti3C2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `Ti3C2`（Ti₃C₂Tₓ）：首个被发现、也是唯一被大规模分层的 MXene，LIB 纸电极 410 mAh g⁻¹@1C、超级电容器 >330 "
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "slug": "Ti2CTx",
+  "stripped": "Ti2CTx",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `Ti2CTx` / `Nb2CTx` / `V2CTx` / `Ta4C3Tx`：已合成的其他 MXene 成员，各自具有不同容量/电压窗口，可在 "
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "slug": "Nb2CTx",
+  "stripped": "Nb2CTx",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `Ti2CTx` / `Nb2CTx` / `V2CTx` / `Ta4C3Tx`：已合成的其他 MXene 成员，各自具有不同容量/电压窗口，可在 "
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "slug": "V2CTx",
+  "stripped": "V2CTx",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `Ti2CTx` / `Nb2CTx` / `V2CTx` / `Ta4C3Tx`：已合成的其他 MXene 成员，各自具有不同容量/电压窗口，可在 "
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "slug": "Ta4C3Tx",
+  "stripped": "Ta4C3Tx",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `Ti2CTx` / `Nb2CTx` / `V2CTx` / `Ta4C3Tx`：已合成的其他 MXene 成员，各自具有不同容量/电压窗口，可在 "
+ },
+ {
+  "citekey": "Nakanishi2009full",
+  "slug": "figures/energy-level-diagrams.md",
+  "stripped": "figures/energy-level-diagrams.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `figures/energy-level-diagrams.md` — 二能级/三能级阶梯型（|g〉-|a〉-|b〉）单光子与双光子跃迁能级图。"
+ },
+ {
+  "citekey": "Nakanishi2009full",
+  "slug": "figures/spectral-schematics.md",
+  "stripped": "figures/spectral-schematics.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `figures/spectral-schematics.md` — 双光子波函数频谱 (ω₊,ω₋) 椭圆示意及时序导致的 1/ω₋ 拖尾展宽。"
+ },
+ {
+  "citekey": "nakataRobustChargedensityWave2021",
+  "slug": "entities/1T-TaSe2.md",
+  "stripped": "1T-TaSe2.md",
+  "type": "entities",
+  "linked": false,
+  "line": "- `entities/1T-TaSe2.md`、`entities/1T-NbSe2.md`：1T 相钽/铌二硫族化物，CDW-莫特物理的核心材料体系。"
+ },
+ {
+  "citekey": "nakataRobustChargedensityWave2021",
+  "slug": "entities/1T-NbSe2.md",
+  "stripped": "1T-NbSe2.md",
+  "type": "entities",
+  "linked": false,
+  "line": "- `entities/1T-TaSe2.md`、`entities/1T-NbSe2.md`：1T 相钽/铌二硫族化物，CDW-莫特物理的核心材料体系。"
+ },
+ {
+  "citekey": "nakataRobustChargedensityWave2021",
+  "slug": "entities/SiC.md",
+  "stripped": "SiC.md",
+  "type": "entities",
+  "linked": false,
+  "line": "- `entities/SiC.md`：本研究中 6H-SiC 作为 MBE 生长衬底。"
+ },
+ {
+  "citekey": "neumayerCompetingPolarPhases2025",
+  "slug": "cips-cu-in-p2s6",
+  "stripped": "cips-cu-in-p2s6",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `cips-cu-in-p2s6`：CuInP2S6（CIPS）实体——明星TMTP材料，具有in-layer/in-gap两种FE相、负压电系数、Cu离子"
+ },
+ {
+  "citekey": "neumayerCompetingPolarPhases2025",
+  "slug": "cipse-cu-in-p2se6",
+  "stripped": "cipse-cu-in-p2se6",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `cipse-cu-in-p2se6`：CuInP2Se6（CIPSe）实体——CIPS的硒代同构物，FE/AFE畴壁处压电响应增强，居里温度和相变行为与C"
+ },
+ {
+  "citekey": "neumayerCompetingPolarPhases2025",
+  "slug": "transition-metal-thio-selenophosphates",
+  "stripped": "transition-metal-thio-selenophosphates",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `transition-metal-thio-selenophosphates`：TMTPs概念——通式MPX3（M=过渡金属，X=S/Se）的层状范德华材"
+ },
+ {
+  "citekey": "neumayerCompetingPolarPhases2025",
+  "slug": "competing-polar-phases",
+  "stripped": "competing-polar-phases",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `competing-polar-phases`：竞争极性相概念——多种极性/非极性相能量差仅几十meV/f.u.，可通过外场可逆转换的统一框架。"
+ },
+ {
+  "citekey": "neumayerCompetingPolarPhases2025",
+  "slug": "ionic-polar-coupling",
+  "stripped": "ionic-polar-coupling",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `ionic-polar-coupling`：离子-极性耦合概念——Cu+离子在vdW间隙中长程迁移重构内建电场，导致极化逆外场翻转等非传统机制。"
+ },
+ {
+  "citekey": "neumayerCompetingPolarPhases2025",
+  "slug": "antiferroelectricity",
+  "stripped": "antiferroelectricity",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `antiferroelectricity`：反铁电性概念——交替偶极子净极化为零、电场下可转为FE态；wiki目前缺此基础概念条目。"
+ },
+ {
+  "citekey": "neumayerCompetingPolarPhases2025",
+  "slug": "negative-piezoelectricity",
+  "stripped": "negative-piezoelectricity",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `negative-piezoelectricity`：负压电性概念——CIPS等罕见材料中电场诱导反向应变，源于FE势阱高度非谐性，可用于零应变器件。"
+ },
+ {
+  "citekey": "neumayerCompetingPolarPhases2025",
+  "slug": "in-gap-ferroelectric-phase",
+  "stripped": "in-gap-ferroelectric-phase",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `in-gap-ferroelectric-phase`：间隙铁电相概念——Cu原子占据vdW间隙内稳定位置形成的高极化FE相（HP，P=11.3 μC/c"
+ },
+ {
+  "citekey": "neumayerCompetingPolarPhases2025",
+  "slug": "ccps-cucrp2s6",
+  "stripped": "ccps-cucrp2s6",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `ccps-cucrp2s6`：CuCrP2S6（CCPS）实体——多铁性TMTP，理论预测同时具有电极化和磁化及in-gap FE/AFE相，与proje"
+ },
+ {
+  "citekey": "neumayerCompetingPolarPhases2025",
+  "slug": "ips-in43p2s6",
+  "stripped": "ips-in43p2s6",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `ips-in43p2s6`：In4/3P2S6（IPS）实体——非极性介电相同源化合物，c轴较小，用于CIPS/IPS异质结构施加应变稳定亚稳相。"
+ },
+ {
+  "citekey": "neumayerCompetingPolarPhases2025",
+  "slug": "pfm-piezoresponse-force-microscopy",
+  "stripped": "pfm-piezoresponse-force-microscopy",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `pfm-piezoresponse-force-microscopy`：压电力显微镜实体/方法——本文核心局域表征工具，用于识别LP/HP/AFE相及翻转"
+ },
+ {
+  "citekey": "niuDirectVisualizationLargeScale2021",
+  "slug": "PWmat",
+  "stripped": "PWmat",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `PWmat`：GPU 加速的 DFT 计算软件包，本文用其完成 PBE/SG15/DFT-D2 计算。"
+ },
+ {
+  "citekey": "noseUnifiedFormulationConstant1984",
+  "slug": "entities/HLME-method.md",
+  "stripped": "HLME-method.md",
+  "type": "entities",
+  "linked": false,
+  "line": "- `entities/HLME-method.md` 或归入 thermostat 条目 — Hoover–Ladd–Moran–Evans 约束方法，坐标空"
+ },
+ {
+  "citekey": "Owji20212d",
+  "slug": "optical-fiber-humidity-sensor",
+  "stripped": "optical-fiber-humidity-sensor",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `optical-fiber-humidity-sensor`（光纤湿度传感器）：以倏逝场与敏感涂层相互作用为核心的光学传感概念条目，可纳入 project"
+ },
+ {
+  "citekey": "Owji20212d",
+  "slug": "evanescent-field",
+  "stripped": "evanescent-field",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `evanescent-field`（倏逝场/消逝场）：光纤全反射时渗透到包层外侧的指数衰减电磁场，是光纤化学/生物传感的物理基础。"
+ },
+ {
+  "citekey": "Owji20212d",
+  "slug": "penn-model",
+  "stripped": "penn-model",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `penn-model`（Penn 模型）：描述材料电子带隙 E_g 与折射率 n 之间反比关系的理论模型，被本文用于把载流子浓度变化映射为折射率变化。"
+ },
+ {
+  "citekey": "Owji20212d",
+  "slug": "relative-differentiation-of-attenuation",
+  "stripped": "relative-differentiation-of-attenuation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `relative-differentiation-of-attenuation`（相对衰减差分 RDA）：定义为 |ΔA|/A₀，是本文衡量湿度响应幅度的"
+ },
+ {
+  "citekey": "Owji20212d",
+  "slug": "MoS2",
+  "stripped": "MoS2",
+  "type": "entities",
+  "linked": true,
+  "line": "- `MoS2`（二硫化钼）：层状 TMD，本文中因表面同时存在 –OH 施主与 Mo–O 受主导致杂质补偿，湿度响应模糊。"
+ },
+ {
+  "citekey": "Owji20212d",
+  "slug": "MoSe2",
+  "stripped": "MoSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- `MoSe2`（二硒化钼）：层状 TMD，p 型，低湿（<30% RH）下 RDA 高但中高湿饱和失效。"
+ },
+ {
+  "citekey": "Owji20212d",
+  "slug": "graphene-oxide",
+  "stripped": "graphene-oxide",
+  "type": "entities",
+  "linked": true,
+  "line": "- `graphene-oxide`（氧化石墨烯 GO）：富含羟基/羧基/环氧基的亲水二维材料，n 型，是 G/GO 复合涂层亲水吸附的核心组分。"
+ },
+ {
+  "citekey": "Owji20212d",
+  "slug": "optical-loss-test-set",
+  "stripped": "optical-loss-test-set",
+  "type": "entities",
+  "linked": true,
+  "line": "- `optical-loss-test-set`（OLTS 光损耗测试仪）：由光源 OPS 与光功率计 OPM 组成，用于测量光纤衰减随 RH 的变化。"
+ },
+ {
+  "citekey": "perdewGeneralizedGradientApproximation1996a",
+  "slug": "CADPAC",
+  "stripped": "CADPAC",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `CADPAC`：Cambridge Analytical Derivatives Package，本文用于原子化能计算的量子化学程序。"
+ },
+ {
+  "citekey": "Petkov2020hierarchy",
+  "slug": "pair-distribution-function",
+  "stripped": "pair-distribution-function",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `pair-distribution-function`：原子对分布函数（PDF），由高能XRD总散射（Bragg+漫散射）傅里叶变换得到G(r)，对局部键"
+ },
+ {
+  "citekey": "Petkov2020hierarchy",
+  "slug": "reverse-monte-carlo",
+  "stripped": "reverse-monte-carlo",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `reverse-monte-carlo`：反向蒙特卡洛（RMC）建模，从~100 Å盒子、8–9万原子的随机构型出发，通过随机移动原子同时拟合总PDF和元"
+ },
+ {
+  "citekey": "Petkov2020hierarchy",
+  "slug": "coordination-polyhedron-distortion",
+  "stripped": "coordination-polyhedron-distortion",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `coordination-polyhedron-distortion`：配位多面体畸变，Ta周围三角棱柱/八面体的键角分布宽度与二面角分布，定量刻画多面体"
+ },
+ {
+  "citekey": "Petkov2020hierarchy",
+  "slug": "ta-sublattice-3d-periodicity",
+  "stripped": "ta-sublattice-3d-periodicity",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `ta-sublattice-3d-periodicity`：Ta亚晶格三维周期性，SC出现的关键结构判据——通过比较RMC模型与理想晶格的高r区Ta-Ta"
+ },
+ {
+  "citekey": "Petkov2020hierarchy",
+  "slug": "tase2-xtex-solid-solution",
+  "stripped": "tase2-xtex-solid-solution",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `tase2-xtex-solid-solution`：TaSe₂₋ₓTeₓ固溶体，等电子Te取代Se的模型体系，端元2H-TaSe₂（三棱柱、CDW~12"
+ },
+ {
+  "citekey": "Petkov2020hierarchy",
+  "slug": "chemical-pressure",
+  "stripped": "chemical-pressure",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `chemical-pressure`：化学压力，用尺寸不同的原子等电子取代产生等效内压（Te替Se为负/扩张化学压力），与外压一样可通过改变堆积密度和Ta"
+ },
+ {
+  "citekey": "Petkov2020hierarchy",
+  "slug": "ionic-radius-ratio-criterion",
+  "stripped": "ionic-radius-ratio-criterion",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `ionic-radius-ratio-criterion`：离子半径比判据（Gamble），R_Ta⁺/R_Ch⁻>0.49倾向三角棱柱配位、<0.49倾"
+ },
+ {
+  "citekey": "Petkov2020hierarchy",
+  "slug": "resonant-differential-pdf",
+  "stripped": "resonant-differential-pdf",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `resonant-differential-pdf`：共振差分PDF，在Ta K吸收边（67.416 keV）上下取两个能量（差37 eV vs 327 "
+ },
+ {
+  "citekey": "Petkov2020hierarchy",
+  "slug": "TaSe2",
+  "stripped": "TaSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`TaSe2`、`TaTe2`、`GSAS-II`（Rietveld软件）、`RMCpp`（RMC++程序）。"
+ },
+ {
+  "citekey": "Petkov2020hierarchy",
+  "slug": "TaTe2",
+  "stripped": "TaTe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`TaSe2`、`TaTe2`、`GSAS-II`（Rietveld软件）、`RMCpp`（RMC++程序）。"
+ },
+ {
+  "citekey": "Petkov2020hierarchy",
+  "slug": "GSAS-II",
+  "stripped": "GSAS-II",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`TaSe2`、`TaTe2`、`GSAS-II`（Rietveld软件）、`RMCpp`（RMC++程序）。"
+ },
+ {
+  "citekey": "Petkov2020hierarchy",
+  "slug": "RMCpp",
+  "stripped": "RMCpp",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体建议：`TaSe2`、`TaTe2`、`GSAS-II`（Rietveld软件）、`RMCpp`（RMC++程序）。"
+ },
+ {
+  "citekey": "petkovStructureIntercalatedCs2002",
+  "slug": "ITQ-4",
+  "stripped": "ITQ-4",
+  "type": "entities",
+  "linked": true,
+  "line": "- `ITQ-4`（Si₃₂O₆₄全硅沸石）：具有直径约7 Å伪一维正弦形孔道的沸石宿主，是本文的关键材料实体，可在 wiki/entities 下新建。"
+ },
+ {
+  "citekey": "prosandeevKittelLawInBiFeO3Ultrathin2010",
+  "slug": "kittel-law",
+  "stripped": "kittel-law",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `kittel-law`（基特尔定律）：铁性薄膜中条带畴宽 w ∝ √h 的经典标度律，源自畴壁能（∝1/w）与长程场能（∝w）的竞争。"
+ },
+ {
+  "citekey": "prosandeevKittelLawInBiFeO3Ultrathin2010",
+  "slug": "effective-hamiltonian",
+  "stripped": "effective-hamiltonian",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `effective-hamiltonian`（有效哈密顿量方法）：从第一性原理提取参数、粗粒化至 u_i、ω_i、m_i、η 等关键自由度的经典能量模型，"
+ },
+ {
+  "citekey": "prosandeevKittelLawInBiFeO3Ultrathin2010",
+  "slug": "oxygen-octahedra-tilting",
+  "stripped": "oxygen-octahedra-tilting",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `oxygen-octahedra-tilting`（氧八面体倾斜/AFD）：钙钛矿中相邻氧八面体反相旋转的结构自由度；本文揭示其短程相互作用在 BFO 中"
+ },
+ {
+  "citekey": "prosandeevKittelLawInBiFeO3Ultrathin2010",
+  "slug": "domain-wall-energy",
+  "stripped": "domain-wall-energy",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `domain-wall-energy`（畴壁能）：形成单位面积畴壁所需能量，传统上对应 Kittel 公式中的 C/w 项。"
+ },
+ {
+  "citekey": "prosandeevKittelLawInBiFeO3Ultrathin2010",
+  "slug": "depolarizing-field",
+  "stripped": "depolarizing-field",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `depolarizing-field`（退极化场）：开路边界下表面束缚电荷产生的反向电场，对应 Kittel 模型中的杂散场能。"
+ },
+ {
+  "citekey": "prosandeevKittelLawInBiFeO3Ultrathin2010",
+  "slug": "open-circuit-boundary-conditions",
+  "stripped": "open-circuit-boundary-conditions",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `open-circuit-boundary-conditions`（开路电学边界条件）：表面无自由电荷补偿的边界，存在退极化场，区别于短路（理想电极）条件"
+ },
+ {
+  "citekey": "prosandeevKittelLawInBiFeO3Ultrathin2010",
+  "slug": "real-space-energy-decomposition",
+  "stripped": "real-space-energy-decomposition",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `real-space-energy-decomposition`（实空间逐点能量分解）：本文首创的分析方法，将每项能量按格点投影，从而在原子尺度定位其空间"
+ },
+ {
+  "citekey": "rameshMultiferroicsProgressProspects2007",
+  "slug": "CoFe2O4.md",
+  "stripped": "CoFe2O4.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `CoFe2O4.md` — 尖晶石铁磁体，垂直异质结中最常用的纳米柱相。"
+ },
+ {
+  "citekey": "rameshMultiferroicsProgressProspects2007",
+  "slug": "PbVO3.md",
+  "stripped": "PbVO3.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `PbVO3.md` — \"超四方\"铁电体（c/a≈1.26），可在薄膜中稳定。"
+ },
+ {
+  "citekey": "rameshMultiferroicsProgressProspects2007",
+  "slug": "Bi2FeCrO6.md",
+  "stripped": "Bi2FeCrO6.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `Bi2FeCrO6.md` — 双钙钛矿，第一性原理预测 R3c 基态、P≈80 μC/cm²、亚铁磁 2 μB/f.u.。"
+ },
+ {
+  "citekey": "RecentAdvancesGrowth2025",
+  "slug": "type-II-multiferroics",
+  "stripped": "type-II-multiferroics",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `type-II-multiferroics`（概念）：铁电极化直接由螺旋磁序等特殊磁结构通过自旋-轨道耦合诱导（P ∝ e×q 或逆 DM/自旋流机制），"
+ },
+ {
+  "citekey": "RecentAdvancesGrowth2025",
+  "slug": "d0-rule",
+  "stripped": "d0-rule",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `d0-rule`（概念）：传统铁电性要求过渡金属 d 轨道空（d⁰），而磁性要求 d 轨道未填满，二者化学互斥，解释了磁性铁电体稀缺的根本原因。"
+ },
+ {
+  "citekey": "RecentAdvancesGrowth2025",
+  "slug": "electromagnon",
+  "stripped": "electromagnon",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `electromagnon`（概念）：兼具电偶极活性的磁振子激发，是动态磁电耦合的直接\"指纹\"，可被太赫兹光谱和圆偏振拉曼探测。"
+ },
+ {
+  "citekey": "RecentAdvancesGrowth2025",
+  "slug": "triferroics",
+  "stripped": "triferroics",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `triferroics`（概念）：同一相中同时存在铁电、铁磁与铁谷（或铁弹）三种序，可实现多态存储；文中列举 WRuCl₆、FeO₂H、Nb₃X₈、Eu "
+ },
+ {
+  "citekey": "RecentAdvancesGrowth2025",
+  "slug": "ferrovalley",
+  "stripped": "ferrovalley",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `ferrovalley`（概念）：二维六角晶格中 K/K′ 能谷的极化可被外场翻转，是谷电子学的核心自由度。"
+ },
+ {
+  "citekey": "RecentAdvancesGrowth2025",
+  "slug": "NiI2",
+  "stripped": "NiI2",
+  "type": "entities",
+  "linked": false,
+  "line": "- `NiI2`（实体）：首个实验证实的单层 II 型范德华多铁体，螺旋磁序+强 SOC 产生铁电极化；T_N1=78 K（反铁磁）、T_N2=59.5 K（多"
+ },
+ {
+  "citekey": "RecentAdvancesGrowth2025",
+  "slug": "Cr2S3",
+  "stripped": "Cr2S3",
+  "type": "entities",
+  "linked": false,
+  "line": "- `Cr2S3`（实体）：CVD 界面调制策略在 c 面蓝宝石上生长的一英寸晶圆级单胞非层状多铁体，室温铁电、T_C=200 K 铁磁（块体两倍），迄今最大最"
+ },
+ {
+  "citekey": "RecentAdvancesGrowth2025",
+  "slug": "CuCrSe2",
+  "stripped": "CuCrSe2",
+  "type": "entities",
+  "linked": false,
+  "line": "- `CuCrSe2`（实体）：CVT 合成单层，室温铁电+120 K 铁磁；FE 诱导 Cr 轨道位移增强铁磁耦合，机制介于 I/II 型之间。"
+ },
+ {
+  "citekey": "RecentAdvancesGrowth2025",
+  "slug": "SnSe",
+  "stripped": "SnSe",
+  "type": "entities",
+  "linked": false,
+  "line": "- `SnSe`（实体）：PVD 在云母上生长的 p 型掺杂 SnSe，337 K 亚铁磁性与室温铁电共存，伴局域相分离微畴与界面电荷转移。"
+ },
+ {
+  "citekey": "RecentAdvancesGrowth2025",
+  "slug": "vapor-deposition-growth",
+  "stripped": "vapor-deposition-growth",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `vapor-deposition-growth`（概念）：CVD/CVT/PVD/MBE/ALD 等自下而上气相沉积家族的统称，是二维多铁材料走向晶圆级制"
+ },
+ {
+  "citekey": "sharmaRoomtemperatureFerroelectricSemimetal2019",
+  "slug": "ferroelectric-metal",
+  "stripped": "ferroelectric-metal",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `ferroelectric-metal`（铁电金属/极性金属）：同时具有可翻转自发极化与金属导电性的材料类别，源于 Anderson-Blount 196"
+ },
+ {
+  "citekey": "sharmaRoomtemperatureFerroelectricSemimetal2019",
+  "slug": "weyl-semimetal",
+  "stripped": "weyl-semimetal",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `weyl-semimetal`（外尔半金属）：导带与价带在离散外尔点相接的拓扑半金属；WTe₂ 是 II 型外尔半金属，铁电性与拓扑性共存具有\"铁电拓扑电"
+ },
+ {
+  "citekey": "sharmaRoomtemperatureFerroelectricSemimetal2019",
+  "slug": "piezoresponse-force-microscopy",
+  "stripped": "piezoresponse-force-microscopy",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `piezoresponse-force-microscopy`（压电力显微镜，PFM）：基于逆压电效应的扫描探针技术，用于纳米尺度成像铁电畴与电滞回线，是"
+ },
+ {
+  "citekey": "sharmaRoomtemperatureFerroelectricSemimetal2019",
+  "slug": "debye-screening-length",
+  "stripped": "debye-screening-length",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `debye-screening-length`（德拜屏蔽长度）：金属/半金属中电场被自由载流子屏蔽的特征深度；WTe₂ 中约 1.6 nm，决定 PFM "
+ },
+ {
+  "citekey": "sharmaRoomtemperatureFerroelectricSemimetal2019",
+  "slug": "incomplete-screening",
+  "stripped": "incomplete-screening",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `incomplete-screening`（不完全屏蔽）：半金属低载流子浓度导致内部偶极场未被完全抵消，使铁电性得以幸存的物理机制。"
+ },
+ {
+  "citekey": "sharmaRoomtemperatureFerroelectricSemimetal2019",
+  "slug": "ferroelectric-domain-wall",
+  "stripped": "ferroelectric-domain-wall",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `ferroelectric-domain-wall`（铁电畴壁）：铁电畴之间的界面，在金属体系中可能呈现新颖导电性/拓扑性质，是本文指出的后续研究方向。"
+ },
+ {
+  "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+  "slug": "gw-approximation",
+  "stripped": "gw-approximation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `gw-approximation`（GW近似）：基于Green函数G与动态屏蔽库仑相互作用W的多体微扰方法，用于精确计算准粒子能量与激发谱；本文是VASP"
+ },
+ {
+  "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+  "slug": "paw-method",
+  "stripped": "paw-method",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `paw-method`（投影缀加波方法，Projector Augmented Wave）：Blöchl提出的全势方法，通过加性缀加在平面波网格上处理平滑"
+ },
+ {
+  "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+  "slug": "quasiparticle-energy",
+  "stripped": "quasiparticle-energy",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `quasiparticle-energy`（准粒子能量）：多体体系中单粒子激发的重整化能量，对应ARPES等实验可测量；G₀W₀通过求解含自能Σ的非线性本"
+ },
+ {
+  "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+  "slug": "self-energy",
+  "stripped": "self-energy",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `self-energy`（自能算符Σ）：GW中描述多体效应的非局域、能量相关算符，Σ=iGW；其虚部给出准粒子寿命。"
+ },
+ {
+  "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+  "slug": "plasmon-pole-model",
+  "stripped": "plasmon-pole-model",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `plasmon-pole-model`（等离激元极点模型）：早期GW对介电函数频率依赖的简化模型，仅适用于sp材料且无法给出寿命/谱函数。"
+ },
+ {
+  "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+  "slug": "spectral-representation-hilbert-transform",
+  "stripped": "spectral-representation-hilbert-transform",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `spectral-representation-hilbert-transform`（谱表示与Hilbert变换）：将极化率/自能的频率依赖通过一次遍历占"
+ },
+ {
+  "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+  "slug": "core-valence-interaction",
+  "stripped": "core-valence-interaction",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `core-valence-interaction`（芯-价相互作用）：芯电子与价电子间的交换关联贡献；本文证明在HF水平处理比LDA更精确且收敛更快，是P"
+ },
+ {
+  "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+  "slug": "silicon",
+  "stripped": "silicon",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `silicon`（硅，Si）：本文sp材料基准，G₀W₀间接带隙X₁c≈1.15-1.17 eV。"
+ },
+ {
+  "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+  "slug": "cadmium-sulfide",
+  "stripped": "cadmium-sulfide",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `cadmium-sulfide`（硫化镉，CdS）：含Cd 4d电子的II-VI半导体，d带位于价带内，p-d杂化使4p解冻影响带隙。"
+ },
+ {
+  "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+  "slug": "troullier-martins-pseudopotential",
+  "stripped": "troullier-martins-pseudopotential",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `troullier-martins-pseudopotential`（TM模守恒赝势）：对比基准，在1 Ry以上散射性质偏离全电子结果，导致GW带隙"
+ },
+ {
+  "citekey": "shuTwoDimensionalBlackArsenic2020",
+  "slug": "b-asp",
+  "stripped": "b-asp",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `b-asp`（实体）：黑砷磷，V 族二元二维合金，As:P ≈ 0.2:0.8，正交褶皱蜂窝结构，带隙 0.15-0.3 eV 可调，填补石墨烯与黑磷之间"
+ },
+ {
+  "citekey": "shuTwoDimensionalBlackArsenic2020",
+  "slug": "saturable-absorber",
+  "stripped": "saturable-absorber",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `saturable-absorber`（概念）：可饱和吸收体，光强越强吸收越弱的非线性光学元件，用于光纤激光器被动锁模"
+ },
+ {
+  "citekey": "shuTwoDimensionalBlackArsenic2020",
+  "slug": "z-scan",
+  "stripped": "z-scan",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `z-scan`（概念/方法）：Z 扫描技术，通过移动样品经过聚焦光束测量非线性吸收系数 β 和饱和强度 Is 的经典方法"
+ },
+ {
+  "citekey": "shuTwoDimensionalBlackArsenic2020",
+  "slug": "mode-locked-fiber-laser",
+  "stripped": "mode-locked-fiber-laser",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `mode-locked-fiber-laser`（概念）：锁模光纤激光器，利用可饱和吸收体在环形腔内产生超短孤子脉冲"
+ },
+ {
+  "citekey": "shuTwoDimensionalBlackArsenic2020",
+  "slug": "electron-hole-recombination",
+  "stripped": "electron-hole-recombination",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `electron-hole-recombination`（概念）：电子-空穴复合速率，决定半导体饱和吸收体的饱和强度和调制深度"
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "type-ii-multiferroicity",
+  "stripped": "type-ii-multiferroicity",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `type-ii-multiferroicity`（第二类多铁性）：由打破反演对称性的磁序（螺旋/摆线）直接诱导铁电极化，磁电内禀强耦合；NiI₂ 为二维首"
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "spin-helix",
+  "stripped": "spin-helix",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `spin-helix` / `proper-screw`（正螺旋自旋序）：自旋绕传播轴旋转、自旋旋转平面垂直于 Q 的螺旋磁结构；NiI₂ 中 Q=(0."
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "proper-screw",
+  "stripped": "proper-screw",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `spin-helix` / `proper-screw`（正螺旋自旋序）：自旋绕传播轴旋转、自旋旋转平面垂直于 Q 的螺旋磁结构；NiI₂ 中 Q=(0."
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "electromagnon",
+  "stripped": "electromagnon",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `electromagnon`（电磁振子）：磁电耦合体系中磁振子与声子/光耦合的集体激发，具强拉曼光学活性，是动态磁电耦合的谱学指纹。"
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "raman-optical-activity",
+  "stripped": "raman-optical-activity",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `raman-optical-activity`（拉曼光学活性, ROA）：手性介质对 σ⁺/σ⁻ 圆偏振光拉曼散射强度差；NiI₂ 中电磁振子峰显示巨大 "
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "second-harmonic-generation",
+  "stripped": "second-harmonic-generation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `second-harmonic-generation`（二次谐波, SHG）：电偶极近似下仅在反演对称破缺相中允许，是极性序的\"金标准\"探针；本文用 λ="
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "birefringence",
+  "stripped": "birefringence",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `birefringence`（双折射/线性二色性）：探测旋转对称性破缺（C₃z→C₂）的高灵敏度光学手段，灵敏度达 10 μrad。"
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "gknb-model",
+  "stripped": "gknb-model",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `gknb-model`（广义自旋流/KNB 模型）：P_ij = M·S_i×S_j，由自旋对通过 M 张量诱导电偶极，是自旋螺旋铁电性的微观理论。"
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "four-state-method",
+  "stripped": "four-state-method",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `four-state-method`（四态法）：DFT 中通过四组非共线自旋构型计算 Berry 相极化以提取 M 张量的方法。"
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "improper-electronic-ferroelectricity",
+  "stripped": "improper-electronic-ferroelectricity",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `improper-electronic-ferroelectricity`（非本征电子铁电性）：在中心对称晶格中由反演破缺磁序驱动产生的极化，NiI₂ 即"
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "NiI2",
+  "stripped": "NiI2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `NiI2`（二碘化镍）：过渡金属二卤化物 vdW 磁性半导体，Ni²⁺ (3d⁸, S=1) 三角晶格，块体 T_N,1≈75 K（AFM）、T_N"
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "WIEN2k",
+  "stripped": "WIEN2k",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `WIEN2k`：全电子全势 APW+lo 代码，本文与 VASP 交叉验证 DFT 结果。"
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "helical-magnetism",
+  "stripped": "helical-magnetism",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `helical-magnetism`（螺旋磁性）、`geometric-frustration`（几何阻挫）、`superexchange`（超交换）、`"
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "geometric-frustration",
+  "stripped": "geometric-frustration",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `helical-magnetism`（螺旋磁性）、`geometric-frustration`（几何阻挫）、`superexchange`（超交换）、`"
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "superexchange",
+  "stripped": "superexchange",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `helical-magnetism`（螺旋磁性）、`geometric-frustration`（几何阻挫）、`superexchange`（超交换）、`"
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "slug": "skyrmions",
+  "stripped": "skyrmions",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `helical-magnetism`（螺旋磁性）、`geometric-frustration`（几何阻挫）、`superexchange`（超交换）、`"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "magnetoelectric-multipoles",
+  "stripped": "magnetoelectric-multipoles",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `magnetoelectric-multipoles`（磁电多极子）：包括磁电单极子、环形矩（toroidal moment）和四极子，分别对应磁电张量的"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "second-principles-calculations",
+  "stripped": "second-principles-calculations",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `second-principles-calculations`（第二性原理计算）：从DFT拟合关键参数构建有效哈密顿量，可模拟数千至数百万原子、纳秒尺度动"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "meso-logic-device",
+  "stripped": "meso-logic-device",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `meso-logic-device`（磁电自旋轨道耦合逻辑器件）：Intel提出的非易失逻辑架构，结合多铁电场控磁与逆Rashba-Edelstein自旋"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "multiferroic-family-tree",
+  "stripped": "multiferroic-family-tree",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `multiferroic-family-tree`（多铁性家族树）：按物理机制（d0铁电、孤对电子、d/f电子磁性四根）组合分类多铁材料的经典框架，直观标"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "lone-pair-ferroelectricity",
+  "stripped": "lone-pair-ferroelectricity",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `lone-pair-ferroelectricity`（孤对电子铁电性）：Bi³⁺ 6s²、Pb²⁺等立体化学活性孤对电子驱动偏心位移产生铁电，是BiFe"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "improper-ferroelectricity",
+  "stripped": "improper-ferroelectricity",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `improper-ferroelectricity`（非本征/杂化非本征铁电性）：铁电极化由非极性畸变（如氧八面体旋转、电荷有序、磁序）作为副产物产生，包"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "spin-spiral-multiferroics",
+  "stripped": "spin-spiral-multiferroics",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `spin-spiral-multiferroics`（自旋螺旋多铁性）：非共线磁结构（如螺旋磁序）通过自旋-轨道耦合打破反演对称性诱导极化；化学无序可将有"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "exchange-bias",
+  "stripped": "exchange-bias",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `exchange-bias`（交换偏置）：铁磁/反铁磁界面交换耦合导致磁滞回线偏移，是BFO/CoFe体系电场控磁180°翻转的核心机制。"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "inverse-rashba-edelstein-effect",
+  "stripped": "inverse-rashba-edelstein-effect",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `inverse-rashba-edelstein-effect`（逆Rashba-Edelstein效应）：界面自旋-电荷转换效应，MESO器件读出端的物"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "dynamical-multiferroicity",
+  "stripped": "dynamical-multiferroicity",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `dynamical-multiferroicity`（动态多铁性）：随时间变化的极化以与自旋螺旋诱导极化对偶的方式诱导磁性，是太赫兹动力学研究的新方向。"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "FeRh",
+  "stripped": "FeRh",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `FeRh`：铁磁-反铁磁相变伴随体积坍塌和~25%电阻变化，PMN-PT应变异质结中实现电场驱动磁态转变。"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "Cr2O3",
+  "stripped": "Cr2O3",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `Cr2O3`：经典磁电体，电场可控反铁磁畴取向，可调控铁磁覆盖层交换偏置。"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "EuTiO3",
+  "stripped": "EuTiO3",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `EuTiO3`：d0铁电性（BaTiO3原型）+ f电子磁性（Eu²⁺ f⁷）分支代表，应变下多铁。"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "YBaCuFeO5",
+  "stripped": "YBaCuFeO5",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `YBaCuFeO5`：层状钙钛矿，化学无序稳定磁螺旋，多铁有序温度接近室温。"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "BiCoO3",
+  "stripped": "BiCoO3",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `BiCoO3`：极性、高奈尔温度470 K，但c/a比过大导致极化尚不可翻转。"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "PMN-PT",
+  "stripped": "PMN-PT",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `PMN-PT`（Pb(Mg1/3Nb2/3)O3–PbTiO3）：压电衬底，用于电场-应变驱动FeRh磁相变。"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "CoFe2O4",
+  "stripped": "CoFe2O4",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `CoFe2O4` / `BaTiO3`：垂直排列纳米复合多铁的经典磁性尖晶石/铁电钙钛矿组合。"
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "slug": "BaTiO3",
+  "stripped": "BaTiO3",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `CoFe2O4` / `BaTiO3`：垂直排列纳米复合多铁的经典磁性尖晶石/铁电钙钛矿组合。"
+ },
+ {
+  "citekey": "spaldinRenaissanceMagnetoelectricMultiferroics2005",
+  "slug": "geometric-ferroelectricity",
+  "stripped": "geometric-ferroelectricity",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `geometric-ferroelectricity`（几何铁电性）：铁电性并非源于过渡金属离子的偏心共价位移，而是由晶格中配位多面体（如 MnO₅ 双锥"
+ },
+ {
+  "citekey": "spaldinRenaissanceMagnetoelectricMultiferroics2005",
+  "slug": "composite-multiferroics",
+  "stripped": "composite-multiferroics",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `composite-multiferroics`（复合多铁性材料）：由铁电相（如 PZT）与铁磁相（如 Terfenol-D）通过界面弹性应变传递实现磁电"
+ },
+ {
+  "citekey": "spaldinRenaissanceMagnetoelectricMultiferroics2005",
+  "slug": "ferrotoroidicity",
+  "stripped": "ferrotoroidicity",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `ferrotoroidicity`（铁涡旋性）：以自发磁矩涡旋（toroidal moment）为序参量的第四类初级铁性，由 Schmid 提出，文中倡议"
+ },
+ {
+  "citekey": "spaldinRenaissanceMagnetoelectricMultiferroics2005",
+  "slug": "ferroic-order",
+  "stripped": "ferroic-order",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `ferroic-order`（铁性有序 / primary ferroics）：铁磁、铁电、铁弹、铁涡旋四类对称破缺序的统称，是相控制三角图的上位概念。"
+ },
+ {
+  "citekey": "spaldinRenaissanceMagnetoelectricMultiferroics2005",
+  "slug": "TbMnO3",
+  "stripped": "TbMnO3",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `TbMnO3`（铽锰氧）：钙钛矿锰氧化物，Kimura 等 2003 年在其中观测到磁场诱导铁电相变，是自旋驱动/电荷有序铁电体的代表，值得建实体条目。"
+ },
+ {
+  "citekey": "spaldinRenaissanceMagnetoelectricMultiferroics2005",
+  "slug": "PZT",
+  "stripped": "PZT",
+  "type": "entities",
+  "linked": false,
+  "line": "- `PZT`（锆钛酸铅 PbZr₁₋ₓTiₓO₃）：复合多铁体最常用的铁电/压电组分，可作为实体条目。"
+ },
+ {
+  "citekey": "spaldinRenaissanceMagnetoelectricMultiferroics2005",
+  "slug": "Terfenol-D",
+  "stripped": "Terfenol-D",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `Terfenol-D`（Tb₁₋ₓDyₓFe₂）：巨磁致伸缩合金，复合多铁体最常用的铁磁组分，可作为实体条目。"
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "concepts/3r-phase.md",
+  "stripped": "3r-phase.md",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `concepts/3r-phase.md` — 3R 菱方相（空间群 R3m），TMDs 中非中心对称的多层堆叠，偶数层仍保留面外极化；与 2H 相对照。"
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "concepts/twist-angle-engineering.md",
+  "stripped": "twist-angle-engineering.md",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `concepts/twist-angle-engineering.md` — 扭转角工程，小角度扭转产生莫尔周期势与层间滑移铁电。"
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "concepts/fatigue-free-switching.md",
+  "stripped": "fatigue-free-switching.md",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `concepts/fatigue-free-switching.md` — 无疲劳翻转，源于范德华层间弱耦合、翻转路径不涉及键断裂/强离子位移；3R-Mo"
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "concepts/fefet.md",
+  "stripped": "fefet.md",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `concepts/fefet.md` — 铁电场效应晶体管，以滑动铁电层作为栅介质/沟道，实现非易失存储窗口（3R-MoS2 约 7 V）。"
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "concepts/neuromorphic-synaptic-device.md",
+  "stripped": "neuromorphic-synaptic-device.md",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `concepts/neuromorphic-synaptic-device.md` — 神经形态突触器件，利用滑动 FE 的渐进极化翻转实现 LTP/LT"
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "concepts/landau-theory.md",
+  "stripped": "landau-theory.md",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `concepts/landau-theory.md`（若 wiki 尚未建）— Landau–Ginzburg 描述滑动 FE 双层在垂直电场下的自由能（"
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "concepts/chiral-phonons.md",
+  "stripped": "chiral-phonons.md",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `concepts/chiral-phonons.md` — 莫尔/多层滑动 FE 衍生的手性声子与拓扑物理。"
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "entities/WS2.md",
+  "stripped": "WS2.md",
+  "type": "entities",
+  "linked": false,
+  "line": "- 实体建议：`entities/WS2.md`、`entities/GaSe.md`、`entities/InSe.md`、`entities/Cd3Cl6."
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "entities/GaSe.md",
+  "stripped": "GaSe.md",
+  "type": "entities",
+  "linked": false,
+  "line": "- 实体建议：`entities/WS2.md`、`entities/GaSe.md`、`entities/InSe.md`、`entities/Cd3Cl6."
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "entities/InSe.md",
+  "stripped": "InSe.md",
+  "type": "entities",
+  "linked": false,
+  "line": "- 实体建议：`entities/WS2.md`、`entities/GaSe.md`、`entities/InSe.md`、`entities/Cd3Cl6."
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "entities/Cd3Cl6.md",
+  "stripped": "Cd3Cl6.md",
+  "type": "entities",
+  "linked": false,
+  "line": "- 实体建议：`entities/WS2.md`、`entities/GaSe.md`、`entities/InSe.md`、`entities/Cd3Cl6."
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "entities/Janus-MoSSe.md",
+  "stripped": "Janus-MoSSe.md",
+  "type": "entities",
+  "linked": false,
+  "line": "- 实体建议：`entities/WS2.md`、`entities/GaSe.md`、`entities/InSe.md`、`entities/Cd3Cl6."
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "concepts/4d-stem.md",
+  "stripped": "4d-stem.md",
+  "type": "concepts",
+  "linked": false,
+  "line": "- 方法/表征建议：`concepts/4d-stem.md`（四维扫描透射电镜，可直接看到 ~80 pm 层间位移与畴壁运动）、`concepts/ss-pf"
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "concepts/ss-pfm.md",
+  "stripped": "ss-pfm.md",
+  "type": "concepts",
+  "linked": false,
+  "line": "- 方法/表征建议：`concepts/4d-stem.md`（四维扫描透射电镜，可直接看到 ~80 pm 层间位移与畴壁运动）、`concepts/ss-pf"
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "concepts/vector-pfm.md",
+  "stripped": "vector-pfm.md",
+  "type": "concepts",
+  "linked": false,
+  "line": "- 方法/表征建议：`concepts/4d-stem.md`（四维扫描透射电镜，可直接看到 ~80 pm 层间位移与畴壁运动）、`concepts/ss-pf"
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "slug": "concepts/kpfm.md",
+  "stripped": "kpfm.md",
+  "type": "concepts",
+  "linked": false,
+  "line": "- 方法/表征建议：`concepts/4d-stem.md`（四维扫描透射电镜，可直接看到 ~80 pm 层间位移与畴壁运动）、`concepts/ss-pf"
+ },
+ {
+  "citekey": "tahirFerroelectricityNonvolatileMemristor2025",
+  "slug": "MAX-phase.md",
+  "stripped": "MAX-phase.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `MAX-phase.md`（概念）—— Mₙ₊₁AXₙ 三元层状化合物，MXene 的母体。"
+ },
+ {
+  "citekey": "tangCombiningIntrinsicSlidinginduced2025",
+  "slug": "1T-double-prime-TMD",
+  "stripped": "1T-double-prime-TMD",
+  "type": "entities",
+  "linked": true,
+  "line": "- `1T-double-prime-TMD`（1T″相过渡金属硫族化合物）：由 1T 相 2×2 重构而来，过渡金属形成收缩/扩张三角形，硫族原子面外位移产生"
+ },
+ {
+  "citekey": "tangCombiningIntrinsicSlidinginduced2025",
+  "slug": "MoSe2",
+  "stripped": "MoSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- `MoSe2`（二硒化钼）：本文主算例材料，单层 PI 翻转势垒 271 meV/f.u.，极化 0.18 pC/m。"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "slug": "exciton-binding-energy",
+  "stripped": "exciton-binding-energy",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `exciton-binding-energy`（激子结合能）：光生电子-空穴对的库仑束缚能，是本文解释450 nm与808 nm波长差异化光-湿耦合效应的"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "slug": "optical-humidity-sensing",
+  "stripped": "optical-humidity-sensing",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `optical-humidity-sensing`（光学湿度传感）：利用光与湿敏材料相互作用（光吸收、光电流、折射率变化等）检测湿度的传感范式，区别于传统"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "slug": "p-type-doping",
+  "stripped": "p-type-doping",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `p-type-doping`（p型掺杂）：水分子含氧端从G表面抽取电子、使空穴积累的电荷转移机制，是G/GO暗态湿敏响应的基础。"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "slug": "tauc-plot",
+  "stripped": "tauc-plot",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `tauc-plot`（Tauc图法）：通过(αhν)^(1/n)对hν作图外推半导体光学带隙的标准方法，本文据此得到1.56 eV与2.66 eV双带隙。"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "slug": "two-photon-absorption",
+  "stripped": "two-photon-absorption",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `two-photon-absorption`（双光子吸收）：强激光下同时吸收两个低能光子实现高能跃迁的非线性光学过程，被用于解释808 nm下GO的异常光"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "slug": "sonochemical-exfoliation",
+  "stripped": "sonochemical-exfoliation",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `sonochemical-exfoliation`（声化学剥离）：利用超声空化效应将氧化石墨剥离为少层G/GO纳米片的制备方法。"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "slug": "graphene",
+  "stripped": "graphene",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `graphene`（石墨烯）：sp²碳二维材料，比表面积2630 m²/g、迁移率2×10⁵ cm²V⁻¹s⁻¹，p型导电畴。"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "slug": "graphene-oxide",
+  "stripped": "graphene-oxide",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `graphene-oxide`（氧化石墨烯）：含羰基、羟基、环氧、羧基等含氧官能团的石墨烯衍生物，亲水、带可调带隙。"
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "slug": "g-go-nanosheets",
+  "stripped": "g-go-nanosheets",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `g-go-nanosheets`（G/GO纳米片复合物）：G导电畴与GO亲水畴共存的混合体系，兼具高载流子迁移率与水分子吸附能力。"
+ },
+ {
+  "citekey": "TSUJI2019phosphorescence",
+  "slug": "mechanoluminescence",
+  "stripped": "mechanoluminescence",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `mechanoluminescence`（机械发光）：wiki/concepts 下尚缺，是 project-3 的核心概念，建议新建并涵盖弹性发光、摩擦"
+ },
+ {
+  "citekey": "TSUJI2019phosphorescence",
+  "slug": "phosphorescence-decay",
+  "stripped": "phosphorescence-decay",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `phosphorescence-decay`（磷光衰减）：建议新建概念条目，收录单/多指数衰减、寿命 τ、陷阱释放动力学等。"
+ },
+ {
+  "citekey": "TSUJI2019phosphorescence",
+  "slug": "trap-depletion",
+  "stripped": "trap-depletion",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `trap-depletion`（陷阱消耗/陷阱载流子耗尽）：ML 与长余辉材料在持续载荷/激发下信号衰减的共同机制，建议与 carrier-detrapp"
+ },
+ {
+  "citekey": "TSUJI2019phosphorescence",
+  "slug": "reabsorption",
+  "stripped": "reabsorption",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `reabsorption`（重吸收/自吸收）：发光在样品内部被自身再吸收从而改变表观光谱与衰减的效应，建议建概念条目。"
+ },
+ {
+  "citekey": "TSUJI2019phosphorescence",
+  "slug": "hydrostatic-pressure-cell",
+  "stripped": "hydrostatic-pressure-cell",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `hydrostatic-pressure-cell`（静水压加载装置）：可作为实体条目记录典型的静水载荷实验配置。"
+ },
+ {
+  "citekey": "TSUJI2019phosphorescence",
+  "slug": "elastomeric-composite",
+  "stripped": "elastomeric-composite",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `elastomeric-composite`（弹性体复合发光材料）：ML 粉末分散于弹性基体的典型器件形态，建议建材料实体条目。"
+ },
+ {
+  "citekey": "Unknown2014passive",
+  "slug": "two-photon-polymerization",
+  "stripped": "two-photon-polymerization",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `two-photon-polymerization`（双光子聚合，TPP）：基于飞秒/脉冲激光双光子吸收的非线性光聚合三维微纳加工技术，可突破衍射极限逐点"
+ },
+ {
+  "citekey": "Unknown2014passive",
+  "slug": "passive-micromixer",
+  "stripped": "passive-micromixer",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `passive-micromixer`（被动微混合器）：无需外部能量输入，仅依靠通道几何形状或内置障碍物扰动流线来增强微尺度流体混合的装置。"
+ },
+ {
+  "citekey": "Unknown2014passive",
+  "slug": "chaotic-advection",
+  "stripped": "chaotic-advection",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `chaotic-advection`（混沌对流）：在低雷诺数层流中通过三维几何拉伸、折叠流体单元以增加界面面积、加速混合的机制。"
+ },
+ {
+  "citekey": "Unknown2014passive",
+  "slug": "PDMS",
+  "stripped": "PDMS",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `PDMS`（聚二甲基硅氧烷）：微流控芯片最常用的弹性体材料，经软光刻和复制成型制备微通道，可氧等离子体处理与玻璃不可逆键合。"
+ },
+ {
+  "citekey": "Unknown2014passive",
+  "slug": "COMSOL-multiphysics",
+  "stripped": "COMSOL-multiphysics",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `COMSOL-multiphysics`：商用多物理场仿真软件，本文用于求解Navier-Stokes方程与对流扩散方程、可视化微通道内三维流线。"
+ },
+ {
+  "citekey": "Unknown2014passive",
+  "slug": "mixing-index",
+  "stripped": "mixing-index",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `mixing-index`（混合指数）：基于像素浓度/灰度相对标准差定义的混合均匀度量化指标，I越小表示混合越均匀。"
+ },
+ {
+  "citekey": "Unknown2022polymerization",
+  "slug": "two-photon-polymerization",
+  "stripped": "two-photon-polymerization",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `two-photon-polymerization`（双光子聚合）：基于飞秒激光双光子吸收非线性效应的纳米级真三维直写技术，体素约 100 nm。"
+ },
+ {
+  "citekey": "Unknown2022polymerization",
+  "slug": "fabry-perot-cavity",
+  "stripped": "fabry-perot-cavity",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `fabry-perot-cavity`（法布里-珀罗光学腔）：两面平行高反镜构成的多光束干涉谐振腔，谐振波长对腔长和腔内折射率变化极其敏感。"
+ },
+ {
+  "citekey": "Unknown2022polymerization",
+  "slug": "optical-fiber-sensor",
+  "stripped": "optical-fiber-sensor",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `optical-fiber-sensor`（光纤传感器）：以光纤为柔性平台、通过光信号感知环境参数的器件，具备抗电磁干扰、可远程传输等优势。"
+ },
+ {
+  "citekey": "Unknown2022polymerization",
+  "slug": "magnetron-sputtering",
+  "stripped": "magnetron-sputtering",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `magnetron-sputtering`（磁控溅射）：利用电场和磁场将靶材原子电离为等离子体并定向沉积到基底的 PVD 薄膜技术。"
+ },
+ {
+  "citekey": "Unknown2022polymerization",
+  "slug": "monolithic-integration",
+  "stripped": "monolithic-integration",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `monolithic-integration`（单片集成）：由单一材料一次成型、无需后续装配的微系统制造理念。"
+ },
+ {
+  "citekey": "Unknown2022polymerization",
+  "slug": "moems",
+  "stripped": "moems",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `moems`（微光机电系统）：Micro-Opto-Electro-Mechanical Systems，融合光学与可动微机械结构的微系统。"
+ },
+ {
+  "citekey": "Unknown2022polymerization",
+  "slug": "micromechanical-hinge",
+  "stripped": "micromechanical-hinge",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `micromechanical-hinge`（微机械铰链）：微米尺度的可动连接结构，使 FPC 顶盖可翻转开合。"
+ },
+ {
+  "citekey": "Unknown2022polymerization",
+  "slug": "optical-fiber",
+  "stripped": "optical-fiber",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `optical-fiber`（光纤）：本研究的柔性非标准基底，直径约 125 μm。"
+ },
+ {
+  "citekey": "Unknown2022polymerization",
+  "slug": "photoresist",
+  "stripped": "photoresist",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `photoresist`（光敏树脂/光刻胶）：2PP 结构化材料，飞秒激光照射后由液态聚合为固态。"
+ },
+ {
+  "citekey": "vahidmohammadiWorldTwodimensionalCarbides2021",
+  "slug": "entities/Ti2C",
+  "stripped": "Ti2C",
+  "type": "entities",
+  "linked": true,
+  "line": "- `entities/Ti2C`、`entities/Ta4C3`、`entities/Mo2CTx`：代表性 M_2X、M_4X_3 与钼基 MXene。"
+ },
+ {
+  "citekey": "vahidmohammadiWorldTwodimensionalCarbides2021",
+  "slug": "entities/Ta4C3",
+  "stripped": "Ta4C3",
+  "type": "entities",
+  "linked": true,
+  "line": "- `entities/Ti2C`、`entities/Ta4C3`、`entities/Mo2CTx`：代表性 M_2X、M_4X_3 与钼基 MXene。"
+ },
+ {
+  "citekey": "vahidmohammadiWorldTwodimensionalCarbides2021",
+  "slug": "entities/Mo2CTx",
+  "stripped": "Mo2CTx",
+  "type": "entities",
+  "linked": true,
+  "line": "- `entities/Ti2C`、`entities/Ta4C3`、`entities/Mo2CTx`：代表性 M_2X、M_4X_3 与钼基 MXene。"
+ },
+ {
+  "citekey": "vanvleckSurveyTheoryFerromagnetism1945",
+  "slug": "MnO.md",
+  "stripped": "MnO.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `MnO.md`：经典反铁磁体，Bizette-Squire-Tsai 的 χ(T) 数据被范弗莱克用来检验交错分子场理论"
+ },
+ {
+  "citekey": "Wang2023ultracompact",
+  "slug": "SZ-2080.md",
+  "stripped": "SZ-2080.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `SZ-2080.md`：本文使用的有机-无机杂化光刻胶（折射率 n_p≈1.5，设计波长 1550 nm 时 π 相位对应高度 1.55 μm），T"
+ },
+ {
+  "citekey": "wangFormationMechanismTwin2019",
+  "slug": "ripplocation",
+  "stripped": "ripplocation",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `ripplocation`（褶皱位错）：范德华层状材料中通过局部屈曲形成的类位错面缺陷，本文观察到的窄而不对称褶皱与此概念相关。"
+ },
+ {
+  "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+  "slug": "M2-TTFTB.md",
+  "stripped": "M2-TTFTB.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `M2-TTFTB.md`：M₂(TTFTB)（TTFTB⁴⁻ = tetrathiafulvalene tetrabenzoate）同构导电 MOF"
+ },
+ {
+  "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+  "slug": "Zn2-TTFTB.md",
+  "stripped": "Zn2-TTFTB.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体（可并入 M2-TTFTB）`Zn2-TTFTB.md`：因 Zn²⁺ 高库仑势而表现出弱湿度响应、小晶体尺寸、慢脱附动力学的\"反例\"成员。"
+ },
+ {
+  "citekey": "wangTunableD0Topological2025b",
+  "slug": "d0-magnetism",
+  "stripped": "d0-magnetism",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `d0-magnetism`：d⁰ 磁性——磁性不来自 d/f 轨道而来自 s/p 轨道（本文为 N 的 2p 单个未配对电子），特征是小磁矩、电子离域。"
+ },
+ {
+  "citekey": "wangTunableD0Topological2025b",
+  "slug": "skyrmion",
+  "stripped": "skyrmion",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `skyrmion`：磁斯格明子——涡旋状拓扑自旋织构，由 DMI 与交换、各向异性、外场竞争形成，具拓扑荷 Q。"
+ },
+ {
+  "citekey": "wangTunableD0Topological2025b",
+  "slug": "bimeron",
+  "stripped": "bimeron",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `bimeron`：磁双半子——面内磁化或面内磁场下斯格明子的对应物，由涡旋-反涡旋对组成。"
+ },
+ {
+  "citekey": "wangTunableD0Topological2025b",
+  "slug": "dzyaloshinskii-moriya-interaction",
+  "stripped": "dzyaloshinskii-moriya-interaction",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `dzyaloshinskii-moriya-interaction`：DMI，反对称交换 d_k·(S_i×S_j)，源自破缺反演对称与 SOC，决定手性"
+ },
+ {
+  "citekey": "wangTunableD0Topological2025b",
+  "slug": "half-metal",
+  "stripped": "half-metal",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `half-metal`：半金属——一个自旋通道金属、另一自旋通道绝缘，可产生 100% 自旋极化电流。"
+ },
+ {
+  "citekey": "wangTunableD0Topological2025b",
+  "slug": "heisenberg-model",
+  "stripped": "heisenberg-model",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `heisenberg-model`：经典海森堡自旋哈密顿量（含 J、d_k、各向异性交换 k、单离子各向异性 K、塞曼项），连接 DFT 参数与微磁学。"
+ },
+ {
+  "citekey": "wangTunableD0Topological2025b",
+  "slug": "micromagnetic-simulation",
+  "stripped": "micromagnetic-simulation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `micromagnetic-simulation`：微磁学模拟，基于 Landau-Lifshitz-Gilbert 方程在介观尺度上演化自旋织构。"
+ },
+ {
+  "citekey": "wangTunableD0Topological2025b",
+  "slug": "topological-spin-texture",
+  "stripped": "topological-spin-texture",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `topological-spin-texture`：拓扑自旋织构（斯格明子、双半子、反斯格明子等）的总称，可由拓扑荷 Q 计数。"
+ },
+ {
+  "citekey": "wangTunableD0Topological2025b",
+  "slug": "stoner-model",
+  "stripped": "stoner-model",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `stoner-model`：Stoner 巡游铁磁性模型，用于解释 In₂NO₂ 中非整数 N 磁矩（0.584 μ_B）所体现的离域铁磁。"
+ },
+ {
+  "citekey": "wangTunableD0Topological2025b",
+  "slug": "In2NO2",
+  "stripped": "In2NO2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `In2NO2`：单层铟氮氧化物，P3m1 三角晶格、O–In–N–In–O 五层堆垛，本征面外铁电且 d⁰ 铁磁半金属。"
+ },
+ {
+  "citekey": "wangTunableD0Topological2025b",
+  "slug": "MoSe2",
+  "stripped": "MoSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `MoSe2`：二硒化钼，TMD 衬底，与 In₂NO₂ 晶格失配仅 2.4%，用于构建铁电可控异质结。"
+ },
+ {
+  "citekey": "wangTwodimensionalFerroelectricMetal2025",
+  "slug": "ferroelectric-metal",
+  "stripped": "ferroelectric-metal",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `ferroelectric-metal`（铁电金属）：金属性与面外铁电性共存的二维物态，因电子垂直方向受量子限域无法完全屏蔽极化场；本文核心概念。"
+ },
+ {
+  "citekey": "wangTwodimensionalFerroelectricMetal2025",
+  "slug": "electrocatalysis",
+  "stripped": "electrocatalysis",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `electrocatalysis`（电催化）：通过电极表面催化剂加速电荷转移反应的领域，本文关注ORR/OER。"
+ },
+ {
+  "citekey": "wangTwodimensionalFerroelectricMetal2025",
+  "slug": "overpotential",
+  "stripped": "overpotential",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `overpotential`（过电位）：驱动电化学反应超出热力学平衡电位（1.23 V）所需的额外电压，是催化活性核心指标。"
+ },
+ {
+  "citekey": "wangTwodimensionalFerroelectricMetal2025",
+  "slug": "computational-hydrogen-electrode",
+  "stripped": "computational-hydrogen-electrode",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `computational-hydrogen-electrode`（计算氢电极CHE模型）：Nørskov等人提出的电催化热力学框架，将H⁺+e⁻化学势与"
+ },
+ {
+  "citekey": "wangTwodimensionalFerroelectricMetal2025",
+  "slug": "sabatier-principle",
+  "stripped": "sabatier-principle",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `sabatier-principle`（萨巴蒂尔原理）：催化剂对中间体吸附应\"恰到好处\"，过弱无法活化、过强阻碍脱附。"
+ },
+ {
+  "citekey": "wangTwodimensionalFerroelectricMetal2025",
+  "slug": "work-function",
+  "stripped": "work-function",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `work-function`（功函数）：电子从表面逸出所需最小能量；两表面功函数差是垂直极化的直接量化。"
+ },
+ {
+  "citekey": "wangTwodimensionalFerroelectricMetal2025",
+  "slug": "CuCrS2",
+  "stripped": "CuCrS2",
+  "type": "entities",
+  "linked": true,
+  "line": "- `CuCrS2` / `CuCrSe2`：本文研究的二维铁电金属材料，Cu为sp³四面体配位导致垂直极化，基态面内铁磁、层间铁磁/反铁磁混合。"
+ },
+ {
+  "citekey": "wangTwodimensionalFerroelectricMetal2025",
+  "slug": "CuCrSe2",
+  "stripped": "CuCrSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- `CuCrS2` / `CuCrSe2`：本文研究的二维铁电金属材料，Cu为sp³四面体配位导致垂直极化，基态面内铁磁、层间铁磁/反铁磁混合。"
+ },
+ {
+  "citekey": "wangTwodimensionalFerroelectricMetal2025",
+  "slug": "IrO2",
+  "stripped": "IrO2",
+  "type": "entities",
+  "linked": true,
+  "line": "- `IrO2`、`Pt`：作为OER/ORR贵金属基准催化剂被引用（η_OER=0.56 V，η_ORR≈0.45 V）。"
+ },
+ {
+  "citekey": "wangTwodimensionalFerroelectricMetal2025",
+  "slug": "Pt",
+  "stripped": "Pt",
+  "type": "entities",
+  "linked": true,
+  "line": "- `IrO2`、`Pt`：作为OER/ORR贵金属基准催化剂被引用（η_OER=0.56 V，η_ORR≈0.45 V）。"
+ },
+ {
+  "citekey": "Wei2021",
+  "slug": "carbon-nanotubes",
+  "stripped": "carbon-nanotubes",
+  "type": "entities",
+  "linked": true,
+  "line": "- `carbon-nanotubes`（entity）：碳纳米管（CNTs），由石墨烯卷成的一维纳米材料，按手性 (n,m) 分类。"
+ },
+ {
+  "citekey": "Wei2021",
+  "slug": "bamboo-like-N-CNTs",
+  "stripped": "bamboo-like-N-CNTs",
+  "type": "BOTH",
+  "linked": true,
+  "line": "- `bamboo-like-N-CNTs`（entity）：竹节状氮掺杂碳纳米管，氮在节点富集、内部隔室化的特殊形貌。"
+ },
+ {
+  "citekey": "Wei2021",
+  "slug": "DFTB+",
+  "stripped": "DFTB+",
+  "type": "BOTH",
+  "linked": true,
+  "line": "- `DFTB+`（entity）：德国不来梅大学开发的 SCC-DFTB 计算软件包。"
+ },
+ {
+  "citekey": "Wixtrom2011electrical",
+  "slug": "chloranil",
+  "stripped": "chloranil",
+  "type": "entities",
+  "linked": true,
+  "line": "- `chloranil`（实体，CA）：四氯苯醌，醌类强电子受体"
+ },
+ {
+  "citekey": "wongEvidenceMetallic1T",
+  "slug": "xmcd.md",
+  "stripped": "xmcd.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `xmcd.md`（概念/方法）：X 射线磁圆二色性，元素特异性磁性探针，测 V L₂,₃ 边左右圆偏振 XAS 之差；可排除衬底/杂质磁信号，是判定二维材"
+ },
+ {
+  "citekey": "WRZYSZCZYNSKI2010initiators",
+  "slug": "two-photon-absorption",
+  "stripped": "two-photon-absorption",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `two-photon-absorption` — 双光子吸收（TPA），非线性光学过程，分子同时吸收两个低能光子，概率正比于 I₀²"
+ },
+ {
+  "citekey": "WRZYSZCZYNSKI2010initiators",
+  "slug": "two-photon-polymerization",
+  "stripped": "two-photon-polymerization",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `two-photon-polymerization` — 双光子聚合（TPP），利用 TPA 在激光焦点 λ³ 体素内引发聚合的真三维微加工技术"
+ },
+ {
+  "citekey": "WRZYSZCZYNSKI2010initiators",
+  "slug": "photoinitiator",
+  "stripped": "photoinitiator",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `photoinitiator` — 光引发剂，吸收光能后产生自由基/阳离子引发聚合的化合物"
+ },
+ {
+  "citekey": "WRZYSZCZYNSKI2010initiators",
+  "slug": "d-pi-a-structure",
+  "stripped": "d-pi-a-structure",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `d-pi-a-structure` — D-π-A / D-π-D 分子结构，电子给体-共轭桥-电子受体架构，是增大双光子吸收截面的经典设计"
+ },
+ {
+  "citekey": "WRZYSZCZYNSKI2010initiators",
+  "slug": "two-photon-cross-section",
+  "stripped": "two-photon-cross-section",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `two-photon-cross-section` — 双光子吸收截面 δ，单位 GM（1 GM = 10⁻⁵⁰ cm⁴·s·photon⁻¹），衡量分子"
+ },
+ {
+  "citekey": "WRZYSZCZYNSKI2010initiators",
+  "slug": "photoinduced-electron-transfer",
+  "stripped": "photoinduced-electron-transfer",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `photoinduced-electron-transfer` — 光诱导电子转移（PET），二元引发体系中光敏剂与共引发剂之间的电子传递机制"
+ },
+ {
+  "citekey": "WRZYSZCZYNSKI2010initiators",
+  "slug": "exciplex",
+  "stripped": "exciplex",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `exciplex` — 激基复合物，激发态引发剂与基态单体形成的瞬态复合物，参与自由基生成"
+ },
+ {
+  "citekey": "WRZYSZCZYNSKI2010initiators",
+  "slug": "coumarin",
+  "stripped": "coumarin",
+  "type": "entities",
+  "linked": true,
+  "line": "- `coumarin` — 香豆素类染料，常用作双光子光敏剂（电子受体），与 DPI/HABI 等共引发剂配合"
+ },
+ {
+  "citekey": "WRZYSZCZYNSKI2010initiators",
+  "slug": "stilbene",
+  "stripped": "stilbene",
+  "type": "entities",
+  "linked": true,
+  "line": "- `stilbene` — 二苯乙烯类衍生物，D-π-D 型双光子引发剂的经典骨架（化合物 I–V）"
+ },
+ {
+  "citekey": "WRZYSZCZYNSKI2010initiators",
+  "slug": "diphenyliodonium-salt",
+  "stripped": "diphenyliodonium-salt",
+  "type": "entities",
+  "linked": true,
+  "line": "- `diphenyliodonium-salt` — 二苯基碘鎓盐（DPI），碘鎓盐类电子给体共引发剂，接受电子后裂解产生芳基自由基"
+ },
+ {
+  "citekey": "WRZYSZCZYNSKI2010initiators",
+  "slug": "habi",
+  "stripped": "habi",
+  "type": "entities",
+  "linked": true,
+  "line": "- `habi` — 邻氯六苯基双咪唑（HABI），另一类常用电子给体共引发剂"
+ },
+ {
+  "citekey": "Wu2021",
+  "slug": "dftb-density-functional-tight-binding",
+  "stripped": "dftb-density-functional-tight-binding",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `dftb-density-functional-tight-binding`（概念）：密度泛函紧束缚方法，介于经验势与全电子DFT之间的半经验量子方法，适"
+ },
+ {
+  "citekey": "Wu2021",
+  "slug": "mulliken-population-analysis",
+  "stripped": "mulliken-population-analysis",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `mulliken-population-analysis`（概念）：Mülliken布居分析，把电子密度按原子轨道线性组合系数分配给各原子，用以判定电荷得"
+ },
+ {
+  "citekey": "Wu2021",
+  "slug": "surface-reconstruction",
+  "stripped": "surface-reconstruction",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `surface-reconstruction`（概念）：表面重构，重点是Si(001)的c(4×2)非对称二聚体重构及其弯曲角（buckling angl"
+ },
+ {
+  "citekey": "Wu2021",
+  "slug": "adsorption-energy-landscape",
+  "stripped": "adsorption-energy-landscape",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `adsorption-energy-landscape`（概念）：以初始高度h和倾角θ扫描得到的吸附能景观/相图，用于穷举稳定吸附盆地。"
+ },
+ {
+  "citekey": "Wu2021",
+  "slug": "Si",
+  "stripped": "Si",
+  "type": "entities",
+  "linked": false,
+  "line": "- `Si`（实体）：硅，本研究衬底材料；wiki目前缺硅实体。"
+ },
+ {
+  "citekey": "Wu2021",
+  "slug": "Ge",
+  "stripped": "Ge",
+  "type": "entities",
+  "linked": false,
+  "line": "- `Ge`（实体）：锗，吸附物；wiki目前缺锗实体。"
+ },
+ {
+  "citekey": "Wu2021",
+  "slug": "SiGe",
+  "stripped": "SiGe",
+  "type": "entities",
+  "linked": false,
+  "line": "- `SiGe`（实体）：硅锗合金/异质结体系，纳米电子与光电器件材料。"
+ },
+ {
+  "citekey": "wuCoexistenceFerroelectricityAntiferroelectricity2024",
+  "slug": "helical-spin-order",
+  "stripped": "helical-spin-order",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `helical-spin-order` / `non-collinear-magnetism`（螺旋自旋序/非共线磁性）：NiI₂ 中 q‖[210] 的"
+ },
+ {
+  "citekey": "wuCoexistenceFerroelectricityAntiferroelectricity2024",
+  "slug": "non-collinear-magnetism",
+  "stripped": "non-collinear-magnetism",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `helical-spin-order` / `non-collinear-magnetism`（螺旋自旋序/非共线磁性）：NiI₂ 中 q‖[210] 的"
+ },
+ {
+  "citekey": "wuCoexistenceFerroelectricityAntiferroelectricity2024",
+  "slug": "magneto-optical-electric-joint-measurement",
+  "stripped": "magneto-optical-electric-joint-measurement",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 方法/平台 `magneto-optical-electric-joint-measurement`（MOEJSI，磁-光-电联合测量系统）：Witec A"
+ },
+ {
+  "citekey": "wuElectrostaticGatingIntercalation2022",
+  "slug": "electrostatic-gating",
+  "stripped": "electrostatic-gating",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `electrostatic-gating`（静电/离子门控）：利用电解质中可移动离子在界面形成~1 nm厚双电层，实现高达10¹⁴ cm⁻²载流子积累的电"
+ },
+ {
+  "citekey": "wuElectrostaticGatingIntercalation2022",
+  "slug": "electric-double-layer",
+  "stripped": "electric-double-layer",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `electric-double-layer`（双电层，EDL/EDLT）：电极/电解质界面两层符号相反的过剩电荷，微分电容C=dσ/dΨ；是离子门控超高电"
+ },
+ {
+  "citekey": "wuElectrostaticGatingIntercalation2022",
+  "slug": "intercalation",
+  "stripped": "intercalation",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `intercalation`（插层）：客体物种进入二维材料范德华间隙，通过电荷转移、化学键合、c轴膨胀调控物性；与门控并列的核心概念。"
+ },
+ {
+  "citekey": "wuElectrostaticGatingIntercalation2022",
+  "slug": "topochemical-reaction",
+  "stripped": "topochemical-reaction",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `topochemical-reaction`（拓扑化学/软化学合成）：低温下利用不同离子迁移率的动力学差异，在保持结构骨架的同时插入/脱出特定离子，获得高"
+ },
+ {
+  "citekey": "wuElectrostaticGatingIntercalation2022",
+  "slug": "infinite-layer-nickelates",
+  "stripped": "infinite-layer-nickelates",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `infinite-layer-nickelates`（无限层镍酸盐，RENiO₂ / Nd₁₋ₓSrₓNiO₂）：CaH₂拓扑还原钙钛矿镍酸盐薄膜所得、方"
+ },
+ {
+  "citekey": "wuElectrostaticGatingIntercalation2022",
+  "slug": "molybdenum-disulfide",
+  "stripped": "molybdenum-disulfide",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `molybdenum-disulfide`（MoS₂）：综述中最核心的模型TMD材料（双层门控超导、Li插层2H→1T相变、1T相低阻接触、热晶体管），w"
+ },
+ {
+  "citekey": "wuElectrostaticGatingIntercalation2022",
+  "slug": "black-phosphorus",
+  "stripped": "black-phosphorus",
+  "type": "entities",
+  "linked": false,
+  "line": "- `black-phosphorus`（黑磷）：长链烷基铵插层形成\"单层原子晶体分子超晶格\"，在宏观准块体中保持单层物性的环境敏感材料范例。"
+ },
+ {
+  "citekey": "wuElectrostaticGatingIntercalation2022",
+  "slug": "metastable-phase",
+  "stripped": "metastable-phase",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `metastable-phase`（亚稳态相）：由动力学/拓扑化学锁定、非热力学最稳定的物相（1T/1T' MoS₂、无限层SrFeO₂/NdNiO₂等）"
+ },
+ {
+  "citekey": "wuSlidingFerroelectricity2D2021a",
+  "slug": "ripplocation",
+  "stripped": "ripplocation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `ripplocation`（波纹位错）：二维 vdW 层中兼具晶体学位错与面外屈曲波纹特征的畴壁，是滑动铁电翻转的动力学载体；Frank 定律（核心能 ∝"
+ },
+ {
+  "citekey": "wuSlidingFerroelectricity2D2021a",
+  "slug": "moire-ferroelectricity",
+  "stripped": "moire-ferroelectricity",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `moire-ferroelectricity`（莫尔铁电性）：小角度扭转双层中局域堆垛（AA/AB/BA）周期调制形成的纳米铁电畴网络，可产生周期 n/p"
+ },
+ {
+  "citekey": "wuSlidingFerroelectricity2D2021a",
+  "slug": "metallic-ferroelectricity",
+  "stripped": "metallic-ferroelectricity",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `metallic-ferroelectricity`（金属铁电性）：WTe₂ 实验打破\"自由载流子屏蔽使铁电与金属不兼容\"的传统认知；足够薄的极性金属可被"
+ },
+ {
+  "citekey": "wuSlidingFerroelectricity2D2021a",
+  "slug": "ferroelectric-nonlinear-anomalous-hall-effect",
+  "stripped": "ferroelectric-nonlinear-anomalous-hall-effect",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `ferroelectric-nonlinear-anomalous-hall-effect`（铁电非线性反常霍尔效应）：少层 WTe₂ 中极化翻转同步翻转"
+ },
+ {
+  "citekey": "wuSlidingFerroelectricity2D2021a",
+  "slug": "negative-piezoelectricity",
+  "stripped": "negative-piezoelectricity",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `negative-piezoelectricity`（负压电性）：BN、ZrI₂ 双层在垂直压力下极化反常增加的现象。"
+ },
+ {
+  "citekey": "wuSlidingFerroelectricity2D2021a",
+  "slug": "stacking-sequence-engineering",
+  "stripped": "stacking-sequence-engineering",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `stacking-sequence-engineering`（堆垛序工程/相工程）：AB/AA'/ABC（3R）、正交/单斜、R/H 型等近简并堆垛相的极"
+ },
+ {
+  "citekey": "wuSlidingFerroelectricity2D2021a",
+  "slug": "AlN",
+  "stripped": "AlN",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `AlN`（石墨型双层，10.29 pC/m，迄今已知二维铁电最高垂直极化）、`InSe`（β-InSe 室温 PFM 蝴蝶曲线）、`GaSe`、`C"
+ },
+ {
+  "citekey": "wuSlidingFerroelectricity2D2021a",
+  "slug": "InSe",
+  "stripped": "InSe",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `AlN`（石墨型双层，10.29 pC/m，迄今已知二维铁电最高垂直极化）、`InSe`（β-InSe 室温 PFM 蝴蝶曲线）、`GaSe`、`C"
+ },
+ {
+  "citekey": "wuSlidingFerroelectricity2D2021a",
+  "slug": "GaSe",
+  "stripped": "GaSe",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `AlN`（石墨型双层，10.29 pC/m，迄今已知二维铁电最高垂直极化）、`InSe`（β-InSe 室温 PFM 蝴蝶曲线）、`GaSe`、`C"
+ },
+ {
+  "citekey": "wuSlidingFerroelectricity2D2021a",
+  "slug": "CrI3",
+  "stripped": "CrI3",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `AlN`（石墨型双层，10.29 pC/m，迄今已知二维铁电最高垂直极化）、`InSe`（β-InSe 室温 PFM 蝴蝶曲线）、`GaSe`、`C"
+ },
+ {
+  "citekey": "wuSlidingFerroelectricity2D2021a",
+  "slug": "ZrI2",
+  "stripped": "ZrI2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `AlN`（石墨型双层，10.29 pC/m，迄今已知二维铁电最高垂直极化）、`InSe`（β-InSe 室温 PFM 蝴蝶曲线）、`GaSe`、`C"
+ },
+ {
+  "citekey": "wuSlidingFerroelectricity2D2021a",
+  "slug": "GaN",
+  "stripped": "GaN",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `AlN`（石墨型双层，10.29 pC/m，迄今已知二维铁电最高垂直极化）、`InSe`（β-InSe 室温 PFM 蝴蝶曲线）、`GaSe`、`C"
+ },
+ {
+  "citekey": "wuSlidingFerroelectricity2D2021a",
+  "slug": "SiC",
+  "stripped": "SiC",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `AlN`（石墨型双层，10.29 pC/m，迄今已知二维铁电最高垂直极化）、`InSe`（β-InSe 室温 PFM 蝴蝶曲线）、`GaSe`、`C"
+ },
+ {
+  "citekey": "wuSlidingFerroelectricity2D2021a",
+  "slug": "ZnO",
+  "stripped": "ZnO",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `AlN`（石墨型双层，10.29 pC/m，迄今已知二维铁电最高垂直极化）、`InSe`（β-InSe 室温 PFM 蝴蝶曲线）、`GaSe`、`C"
+ },
+ {
+  "citekey": "xiangTwodimensionalRoomTemperature2020",
+  "slug": "ferroelectricity",
+  "stripped": "ferroelectricity",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `ferroelectricity`（铁电性）：自发极化可在外电场下反转的有序态，wiki 中尚无独立条目，仅有 polarization-switchin"
+ },
+ {
+  "citekey": "xiangTwodimensionalRoomTemperature2020",
+  "slug": "ferromagnetism",
+  "stripped": "ferromagnetism",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `ferromagnetism`（铁磁性）：磁矩平行长程有序，wiki 中 magnetism 相关概念分散，建议补建基础条目。"
+ },
+ {
+  "citekey": "xiangTwodimensionalRoomTemperature2020",
+  "slug": "interlayer-magnetic-coupling",
+  "stripped": "interlayer-magnetic-coupling",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `interlayer-magnetic-coupling`（层间磁耦合）：二维范德华材料相邻磁层间的 FM/AFM 交换作用及其梯度效应，是本文磁电耦合机"
+ },
+ {
+  "citekey": "xiangTwodimensionalRoomTemperature2020",
+  "slug": "electric-write-magnetic-read",
+  "stripped": "electric-write-magnetic-read",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `electric-write-magnetic-read`（电写磁读）：以电场翻转磁化、以磁阻读出的存储架构概念。"
+ },
+ {
+  "citekey": "xiangTwodimensionalRoomTemperature2020",
+  "slug": "curie-temperature",
+  "stripped": "curie-temperature",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `curie-temperature`（居里温度）：铁电/铁磁有序—无序转变温度，材料应用门槛指标。"
+ },
+ {
+  "citekey": "xiangTwodimensionalRoomTemperature2020",
+  "slug": "CuCrS2",
+  "stripped": "CuCrS2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `CuCrS2` / `CuCrSe2`：铜插层过渡金属硫族化合物，本文预测的二维室温多铁候选体系。"
+ },
+ {
+  "citekey": "xiangTwodimensionalRoomTemperature2020",
+  "slug": "CuCrSe2",
+  "stripped": "CuCrSe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `CuCrS2` / `CuCrSe2`：铜插层过渡金属硫族化合物，本文预测的二维室温多铁候选体系。"
+ },
+ {
+  "citekey": "XiaokangZhang2013calibrating",
+  "slug": "figures/response-curves.md",
+  "stripped": "figures/response-curves.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `figures/response-curves.md` — 建议新增：传感器在多个温度下的\"光功率损耗–RH\"响应曲线族。"
+ },
+ {
+  "citekey": "XiaokangZhang2013calibrating",
+  "slug": "figures/calibration-matrix.md",
+  "stripped": "figures/calibration-matrix.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `figures/calibration-matrix.md` — 建议新增：温度-RH-损耗三维校准矩阵伪彩色/曲面图。"
+ },
+ {
+  "citekey": "XiaokangZhang2013calibrating",
+  "slug": "figures/time-series-monitoring.md",
+  "stripped": "figures/time-series-monitoring.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `figures/time-series-monitoring.md` — 建议新增：混凝土硬化过程中 RH 与温度随时间演化的双 Y 轴曲线。"
+ },
+ {
+  "citekey": "xueEmergingNonvolatileMemories2011",
+  "slug": "GST.md",
+  "stripped": "GST.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体建议：`GST.md`（Ge2Sb2Te5 相变合金）、`TaOx.md`（高耐久性忆阻材料，>10^12 次循环）、`MgO-MTJ.md`（MgO "
+ },
+ {
+  "citekey": "xueEmergingNonvolatileMemories2011",
+  "slug": "TaOx.md",
+  "stripped": "TaOx.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体建议：`GST.md`（Ge2Sb2Te5 相变合金）、`TaOx.md`（高耐久性忆阻材料，>10^12 次循环）、`MgO-MTJ.md`（MgO "
+ },
+ {
+  "citekey": "xueEmergingNonvolatileMemories2011",
+  "slug": "MgO-MTJ.md",
+  "stripped": "MgO-MTJ.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体建议：`GST.md`（Ge2Sb2Te5 相变合金）、`TaOx.md`（高耐久性忆阻材料，>10^12 次循环）、`MgO-MTJ.md`（MgO "
+ },
+ {
+  "citekey": "xunCoexistingMagnetismFerroelectric2024",
+  "slug": "GdI2",
+  "stripped": "GdI2",
+  "type": "entities",
+  "linked": true,
+  "line": "- `GdI2`（碘化钆）：新型二维铁磁半导体/多铁候选材料，4f⁷5d¹ 构型，大谷极化（155.5 meV）。"
+ },
+ {
+  "citekey": "xuTunableFerroelectricTopological2022",
+  "slug": "entities/PbS.md",
+  "stripped": "PbS.md",
+  "type": "entities",
+  "linked": false,
+  "line": "- `entities/PbS.md`、`entities/PbSe.md` — 二维铅硫族化合物，与 PbTe 同构，基态 Cmcm 顺电相。"
+ },
+ {
+  "citekey": "xuTunableFerroelectricTopological2022",
+  "slug": "entities/PbSe.md",
+  "stripped": "PbSe.md",
+  "type": "entities",
+  "linked": false,
+  "line": "- `entities/PbS.md`、`entities/PbSe.md` — 二维铅硫族化合物，与 PbTe 同构，基态 Cmcm 顺电相。"
+ },
+ {
+  "citekey": "xuTunableFerroelectricTopological2022",
+  "slug": "figures/polarization-phase-diagram.md",
+  "stripped": "figures/polarization-phase-diagram.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `figures/polarization-phase-diagram.md` — 二维应变空间中的极化方向/大小相图，是本文核心图件类型。"
+ },
+ {
+  "citekey": "xuTunableFerroelectricTopological2022",
+  "slug": "figures/multiscale-simulation-workflow.md",
+  "stripped": "figures/multiscale-simulation-workflow.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `figures/multiscale-simulation-workflow.md` — DFT+MLIP+FEM 三级火箭式工作流示意图。"
+ },
+ {
+  "citekey": "xuTwodimensionalFerroelasticityVan2021",
+  "slug": "domain-wall-classification",
+  "stripped": "domain-wall-classification",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `domain-wall-classification`（W 墙/S 墙分类）：Wf 墙取向由母相对称性固定（120° DW 沿 {11-20}），S 墙取"
+ },
+ {
+  "citekey": "yanagizawaSwitchingChargedensityWave2023",
+  "slug": "wiki/entities/Quantum-Espresso.md",
+  "stripped": "wiki/entities/Quantum-Espresso.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `wiki/entities/Quantum-Espresso.md` — 本文使用的第一性原理平面波 DFT 软件包（GGA-PBE，60 Ry 截断，1"
+ },
+ {
+  "citekey": "yanagizawaSwitchingChargedensityWave2023",
+  "slug": "arpes",
+  "stripped": "arpes",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 方法标签可在 wiki/concepts 下补：`arpes`、`mbe-rheed`、`k-deposition-doping`。"
+ },
+ {
+  "citekey": "yanagizawaSwitchingChargedensityWave2023",
+  "slug": "mbe-rheed",
+  "stripped": "mbe-rheed",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 方法标签可在 wiki/concepts 下补：`arpes`、`mbe-rheed`、`k-deposition-doping`。"
+ },
+ {
+  "citekey": "yanagizawaSwitchingChargedensityWave2023",
+  "slug": "k-deposition-doping",
+  "stripped": "k-deposition-doping",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 方法标签可在 wiki/concepts 下补：`arpes`、`mbe-rheed`、`k-deposition-doping`。"
+ },
+ {
+  "citekey": "yanDecipheringStabilityTwodimensional2025",
+  "slug": "iii-v-semiconductors",
+  "stripped": "iii-v-semiconductors",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `iii-v-semiconductors`（III-V族半导体）：由 III 族（B, Al, Ga, In）与 V 族（N, P, As, Sb）构成的"
+ },
+ {
+  "citekey": "yanDecipheringStabilityTwodimensional2025",
+  "slug": "tt-structure",
+  "stripped": "tt-structure",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `tt-structure`（TT 相，四面体-三角形混合相）：本文新预测的矩形对称二维结构，每个晶胞 4M+4X，表面原子三角配位(MX₃)、内部原子四面"
+ },
+ {
+  "citekey": "yanDecipheringStabilityTwodimensional2025",
+  "slug": "dlhc-structure",
+  "stripped": "dlhc-structure",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `dlhc-structure`（双层蜂窝结构, double-layer honeycomb）：2018 年 Lucking 等预测的 III-V 二维相"
+ },
+ {
+  "citekey": "yanDecipheringStabilityTwodimensional2025",
+  "slug": "dbscan-clustering",
+  "stripped": "dbscan-clustering",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `dbscan-clustering`（DBSCAN 密度聚类）：本文用来从键长-键角分布中无监督识别\"积木\"的机器学习算法，可作为方法论概念条目。"
+ },
+ {
+  "citekey": "yanDecipheringStabilityTwodimensional2025",
+  "slug": "electron-counting-rule-surface",
+  "stripped": "electron-counting-rule-surface",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `electron-counting-rule-surface`（表面电子计数规则, ECR）：已存在 `electron-counting-rule`，可"
+ },
+ {
+  "citekey": "yanDecipheringStabilityTwodimensional2025",
+  "slug": "electron-counting-rule",
+  "stripped": "electron-counting-rule",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `electron-counting-rule-surface`（表面电子计数规则, ECR）：已存在 `electron-counting-rule`，可"
+ },
+ {
+  "citekey": "yanDecipheringStabilityTwodimensional2025",
+  "slug": "carrier-mobility",
+  "stripped": "carrier-mobility",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `carrier-mobility`（载流子迁移率）：wiki 中尚无独立条目，本文给出形变势理论框架 μ ∝ 1/E₁² 及 TT-GaSb 极值案例，值"
+ },
+ {
+  "citekey": "yanDecipheringStabilityTwodimensional2025",
+  "slug": "e2-e4-edge-sharing-structures",
+  "stripped": "e2-e4-edge-sharing-structures",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `e2-e4-edge-sharing-structures`（E2/E4 共棱四面体结构）：分别共用 2 条/4 条棱的纯四面体组装相，是 BSb(E2)"
+ },
+ {
+  "citekey": "yangStrainEngineeringTwodimensional2021",
+  "slug": "mos2.md",
+  "stripped": "mos2.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `mos2.md`（二硫化钼）：单层为直接带隙，奇数层具压电效应；褶皱区迁移率可达平坦区3倍（5.55 vs 1.42 cm²/Vs @30K）。"
+ },
+ {
+  "citekey": "yangStrainEngineeringTwodimensional2021",
+  "slug": "mote2.md",
+  "stripped": "mote2.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `mote2.md`（二碲化钼）：AFM针尖应变驱动2H→1T'相变的模型体系；压电衬底上的MoTe₂单晶呈现应变依赖各向异性磁阻。"
+ },
+ {
+  "citekey": "Yarai2005optical",
+  "slug": "thermal-lens-effect",
+  "stripped": "thermal-lens-effect",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `thermal-lens-effect`（概念）：介质吸收高斯泵浦光能量后形成温度/折射率梯度、等效为透镜的光热效应，是本传感器信号来源。"
+ },
+ {
+  "citekey": "Yarai2005optical",
+  "slug": "photothermal-effect",
+  "stripped": "photothermal-effect",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `photothermal-effect`（概念）：光吸收转化为热并改变介质光学性质的物理效应，是热透镜、光热偏转等技术的共同基础。"
+ },
+ {
+  "citekey": "Yarai2005optical",
+  "slug": "pump-probe-technique",
+  "stripped": "pump-probe-technique",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `pump-probe-technique`（概念）：泵浦光激发、探测光读取的双光束测量范式。"
+ },
+ {
+  "citekey": "Yarai2005optical",
+  "slug": "optical-coupling-efficiency",
+  "stripped": "optical-coupling-efficiency",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `optical-coupling-efficiency`（概念）：两光纤端面间光功率传输比例，是本传感方案的直接读出量。"
+ },
+ {
+  "citekey": "Yarai2005optical",
+  "slug": "absolute-humidity",
+  "stripped": "absolute-humidity",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `absolute-humidity` / `relative-humidity`（概念）：湿度的两种度量，本文关键结论即传感器直接响应绝对水汽密度、相对湿"
+ },
+ {
+  "citekey": "Yarai2005optical",
+  "slug": "relative-humidity",
+  "stripped": "relative-humidity",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `absolute-humidity` / `relative-humidity`（概念）：湿度的两种度量，本文关键结论即传感器直接响应绝对水汽密度、相对湿"
+ },
+ {
+  "citekey": "Yarai2005optical",
+  "slug": "temperature-compensation",
+  "stripped": "temperature-compensation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `temperature-compensation`（概念）：将绝对湿度读数结合温度换算为相对湿度的必要步骤。"
+ },
+ {
+  "citekey": "Yarai2005optical",
+  "slug": "spherical-lensed-fiber",
+  "stripped": "spherical-lensed-fiber",
+  "type": "entities",
+  "linked": true,
+  "line": "- `spherical-lensed-fiber`（实体，SLF）：端面加工成半球透镜的光纤，用于在 <50 μm 间隙内聚焦光束、提高耦合灵敏度。"
+ },
+ {
+  "citekey": "Yarai2005optical",
+  "slug": "lock-in-amplifier",
+  "stripped": "lock-in-amplifier",
+  "type": "entities",
+  "linked": true,
+  "line": "- `lock-in-amplifier`（实体/方法）：以固定调制频率（本文 10 Hz）从噪声中提取微弱 TL 信号的相敏检测仪器。"
+ },
+ {
+  "citekey": "Yarai2005optical",
+  "slug": "super-luminescence-diode",
+  "stripped": "super-luminescence-diode",
+  "type": "entities",
+  "linked": true,
+  "line": "- `super-luminescence-diode`（实体，SLD）：850 nm 宽谱低相干探测光源。"
+ },
+ {
+  "citekey": "Yarai2005optical",
+  "slug": "thermo-electric-cooler",
+  "stripped": "thermo-electric-cooler",
+  "type": "entities",
+  "linked": true,
+  "line": "- `thermo-electric-cooler`（实体，TEC/帕尔帖元件）：用于局部改变传感头温度以独立调控绝对湿度。"
+ },
+ {
+  "citekey": "Zhang2002b",
+  "slug": "low-carbon-steel",
+  "stripped": "low-carbon-steel",
+  "type": "entities",
+  "linked": true,
+  "line": "- `low-carbon-steel`（低碳钢）：以 Fe–C–Si–Mn 为代表、碳含量约 0.15 wt% 的钢种，组织以铁素体为主。"
+ },
+ {
+  "citekey": "Zhang2002b",
+  "slug": "fe-c-phase-diagram",
+  "stripped": "fe-c-phase-diagram",
+  "type": "entities",
+  "linked": true,
+  "line": "- `fe-c-phase-diagram`（铁碳相图）：模型确定 Ae3、cγ、cα 等热力学边界的依据。"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "slug": "solid-state-phase-transformation",
+  "stripped": "solid-state-phase-transformation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `solid-state-phase-transformation`（固态相变）：固态中母相到新相的转变，按扩散/位移分类，是本论文的物理背景"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "slug": "diffusion-controlled-growth",
+  "stripped": "diffusion-controlled-growth",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `diffusion-controlled-growth`（扩散控制生长）：界面推进速度由溶质长程扩散决定的生长模式，对应 Stefan 条件"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "slug": "nucleation-and-growth",
+  "stripped": "nucleation-and-growth",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `nucleation-and-growth`（形核与生长）：经典相变两阶段过程，二者竞争决定最终组织"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "slug": "undercooling",
+  "stripped": "undercooling",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `undercooling`（过冷度）：平衡温度 Ae3 与实际温度之差，是形核率与生长速度的驱动力"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "slug": "solute-redistribution",
+  "stripped": "solute-redistribution",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `solute-redistribution`（溶质再分配）：相变时新相将多余溶质排出至母相的过程，CA 中通过向邻居分配 c_precipitate 实现"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "slug": "soft-impingement",
+  "stripped": "soft-impingement",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `soft-impingement`（软碰撞）：相邻扩散场重叠导致生长减速，无需晶粒直接接触"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "slug": "super-element-approximation",
+  "stripped": "super-element-approximation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `super-element-approximation`（超元素近似）：把 Fe-Mn-Si-Ni-Cu-Cr 等效为 S-C 伪二元的建模简化"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "slug": "grain-boundary-nucleation",
+  "stripped": "grain-boundary-nucleation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `grain-boundary-nucleation`（晶界形核）：铁素体优先在奥氏体晶界形核的实验观察与模型假设"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "slug": "cellular-automaton",
+  "stripped": "cellular-automaton",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `cellular-automaton`（元胞自动机）：离散时空状态、局部规则驱动的介观模拟方法（可作为 methods/实体条目）"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "slug": "A36-low-carbon-steel",
+  "stripped": "A36-low-carbon-steel",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `A36-low-carbon-steel`（A36 低碳钢）：本工作的模拟对象，成分 C0.17 Mn0.74 Si0.012 Cu0.016 Ni0.0"
+ },
+ {
+  "citekey": "Zhang2003a",
+  "slug": "cementite",
+  "stripped": "cementite",
+  "type": "entities",
+  "linked": false,
+  "line": "- `cementite`（渗碳体 Fe3C）：高冷速下碳富集形成并阻碍铁素体生长的第二相"
+ },
+ {
+  "citekey": "Zhang2008synthesis",
+  "slug": "two-photon-absorption",
+  "stripped": "two-photon-absorption",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `two-photon-absorption`（双光子吸收）：三阶非线性光学过程，分子同时吸收两个光子跃迁至激发态，概率正比于光强平方。"
+ },
+ {
+  "citekey": "Zhang2008synthesis",
+  "slug": "two-photon-polymerization",
+  "stripped": "two-photon-polymerization",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `two-photon-polymerization`（双光子聚合）：利用双光子吸收在树脂内部引发局域聚合的三维微加工技术。"
+ },
+ {
+  "citekey": "Zhang2008synthesis",
+  "slug": "push-pull-chromophore",
+  "stripped": "push-pull-chromophore",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `push-pull-chromophore`（推-拉发色团）：由电子给体、共轭桥和电子受体组成的分子，具有强分子内电荷转移。"
+ },
+ {
+  "citekey": "Zhang2008synthesis",
+  "slug": "multipolar-chromophore",
+  "stripped": "multipolar-chromophore",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `multipolar-chromophore`（多极性发色团）：具有多个给体-受体分支的二维/三维共轭分子，如三支化、八极矩分子。"
+ },
+ {
+  "citekey": "Zhang2008synthesis",
+  "slug": "two-photon-cross-section",
+  "stripped": "two-photon-cross-section",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `two-photon-cross-section`（双光子吸收截面 σ₂）：衡量分子双光子吸收能力的物理量，单位 GM（1 GM = 10⁻⁵⁰ cm⁴·"
+ },
+ {
+  "citekey": "Zhang2008synthesis",
+  "slug": "photoinitiator",
+  "stripped": "photoinitiator",
+  "type": "concepts",
+  "linked": false,
+  "line": "- `photoinitiator`（光引发剂）：吸收光子后产生活性种（自由基或阳离子）引发聚合的化合物。"
+ },
+ {
+  "citekey": "Zhang2019a",
+  "slug": "figures/thermodynamic-curves.md",
+  "stripped": "figures/thermodynamic-curves.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `figures/thermodynamic-curves.md` — 新图表类型：能量-温度曲线、PDF、Tm-d关系、ΔEav/ΔT-N关系等热分析图"
+ },
+ {
+  "citekey": "Zhang2019b",
+  "slug": "Ti-nanoparticle.md",
+  "stripped": "Ti-nanoparticle.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `Ti-nanoparticle.md` — 钛纳米颗粒（α-HCP / β-BCC 两相，本文研究对象）"
+ },
+ {
+  "citekey": "zhangEmergingFrontiersTwodimensional2025",
+  "slug": "InSe.md",
+  "stripped": "InSe.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `InSe.md`：γ/β/ε-InSe 与 In2Se3 不同；ε-InSe 偶数层面外极化、~3 ps 超快体光伏；Y 掺杂 γ-InSe 压电系"
+ },
+ {
+  "citekey": "zhangEmergingFrontiersTwodimensional2025",
+  "slug": "SnSe2.md",
+  "stripped": "SnSe2.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `SnSe2.md`：衬底引导 CVD 生长 6R/12R/18R/18C 高阶多型体，AB' 堆垛具铁电。"
+ },
+ {
+  "citekey": "zhangEmergingFrontiersTwodimensional2025",
+  "slug": "CCC-amphidynamic-crystal.md",
+  "stripped": "CCC-amphidynamic-crystal.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `CCC-amphidynamic-crystal.md`：(15-冠-5)Cd3Cl6 有机-无机杂化两性动力学晶体，首个宏观直接测得滑动铁电滞回线"
+ },
+ {
+  "citekey": "zhangEmergingFrontiersTwodimensional2025",
+  "slug": "NbOI2.md",
+  "stripped": "NbOI2.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `NbOI2.md`、`Bi2O2Se.md`：文中列为二维极限下已证实鲁棒铁电的少数体系。"
+ },
+ {
+  "citekey": "zhangEmergingFrontiersTwodimensional2025",
+  "slug": "Bi2O2Se.md",
+  "stripped": "Bi2O2Se.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- 实体 `NbOI2.md`、`Bi2O2Se.md`：文中列为二维极限下已证实鲁棒铁电的少数体系。"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "slug": "skyrmion",
+  "stripped": "skyrmion",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `skyrmion`（斯格明子）：受拓扑保护的纳米级涡旋状自旋织构，本文核心拓扑准粒子。"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "slug": "bimeron",
+  "stripped": "bimeron",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `bimeron`（双半子）：面内各向异性体系中拓扑荷为 ±1 的椭圆形自旋织构，可视为斯格明子的面内对应物，霍尔角显著更小。"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "slug": "dzyaloshinskii-moriya-interaction",
+  "stripped": "dzyaloshinskii-moriya-interaction",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `dzyaloshinskii-moriya-interaction`（DMI，Dzyaloshinskii-Moriya 相互作用）：反演对称破缺下由 S"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "slug": "magnetic-anisotropy-energy",
+  "stripped": "magnetic-anisotropy-energy",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `magnetic-anisotropy-energy`（MAE，磁各向异性能）：决定易磁化方向的能量项；K > 0 稳定面外磁化（斯格明子），K < 0 "
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "slug": "heisenberg-exchange",
+  "stripped": "heisenberg-exchange",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `heisenberg-exchange`（海森堡交换作用 J）：相邻自旋间的各向同性交换，倾向于共线排列。"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "slug": "topological-charge",
+  "stripped": "topological-charge",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `topological-charge`（拓扑荷 Q）：Q = (1/4π)∫m·(∂_x m × ∂_y m) dxdy，整数绕数，刻画拓扑保护。"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "slug": "skyrmion-hall-effect",
+  "stripped": "skyrmion-hall-effect",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `skyrmion-hall-effect`（斯格明子霍尔效应）：拓扑准粒子在电流驱动下因 Magnus 力产生横向漂移的现象；双半子因各向异性耗散张量霍尔"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "slug": "spin-transfer-torque",
+  "stripped": "spin-transfer-torque",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `spin-transfer-torque`（自旋转移矩，STT）：自旋极化电流对局域磁矩施加的力矩，可驱动磁畴壁/斯格明子运动，u = jPħμ_B/(2"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "slug": "rashba-effect",
+  "stripped": "rashba-effect",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `rashba-effect`（Rashba 型 SOC）：界面结构反演不对称导致的自旋-轨道耦合，极化翻转可放大界面 Rashba SOC 从而调制 DM"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "slug": "llg-equation",
+  "stripped": "llg-equation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `llg-equation`（Landau-Lifshitz-Gilbert 方程）：含阻尼、自旋转移矩和热场的磁化动力学方程，微磁学模拟基础。"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "slug": "micromagnetic-simulation",
+  "stripped": "micromagnetic-simulation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `micromagnetic-simulation`（微磁学模拟）：介观尺度磁化动力学模拟方法，本文使用 Spirit 软件包。"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "slug": "thiele-equation",
+  "stripped": "thiele-equation",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `thiele-equation`（Thiele 方程）：G×v − αD·v + 4πB·j = 0，描述拓扑磁结构刚体运动轨迹。"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "slug": "racetrack-memory",
+  "stripped": "racetrack-memory",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `racetrack-memory`（赛道存储器）：以电流驱动磁畴壁/斯格明子沿纳米线运动来存储数据的非易失存储方案；双半子的低霍尔角对其尤其有利。"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "slug": "CrInTe2",
+  "stripped": "CrInTe2",
+  "type": "entities",
+  "linked": true,
+  "line": "- `CrInTe2`：二维铁磁金属，Te2–Cr–Te1–In 堆叠、C3v 对称、反演破缺，a = b = 4.04 Å，本征即具有较强 DMI。"
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "slug": "Spirit",
+  "stripped": "Spirit",
+  "type": "entities",
+  "linked": true,
+  "line": "- `Spirit`：用于多尺度自旋动力学模拟的开源软件包，本文微磁学模拟工具。"
+ },
+ {
+  "citekey": "zhaoRealization2DMultiferroic2024",
+  "slug": "intercalation",
+  "stripped": "intercalation",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `intercalation`（插层）：外来原子/分子嵌入范德华层间间隙形成杂化化合物的化学过程，是本文设计策略的核心。"
+ },
+ {
+  "citekey": "zhaoRealization2DMultiferroic2024",
+  "slug": "magnetic-skyrmion",
+  "stripped": "magnetic-skyrmion",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `magnetic-skyrmion`（磁斯格明子）：拓扑保护的涡旋状纳米自旋织构，可作赛道存储器信息比特；本文在 T-CdCr₂Te₄ 中实现电控反斯格明"
+ },
+ {
+  "citekey": "zhaoRealization2DMultiferroic2024",
+  "slug": "dzyaloshinskii-moriya-interaction",
+  "stripped": "dzyaloshinskii-moriya-interaction",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `dzyaloshinskii-moriya-interaction`（DMI，Dzyaloshinskii-Moriya 相互作用）：破缺反演对称体系中的"
+ },
+ {
+  "citekey": "zhaoRealization2DMultiferroic2024",
+  "slug": "metallic-ferroelectricity",
+  "stripped": "metallic-ferroelectricity",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `metallic-ferroelectricity`（金属铁电性）：金属中自由电子未能完全屏蔽局域极化电荷而保留铁电极化的现象，本文以极化电子/传导电子空"
+ },
+ {
+  "citekey": "zhaoRealization2DMultiferroic2024",
+  "slug": "AM2X4-intercalation-family",
+  "stripped": "AM2X4-intercalation-family",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `AM2X4-intercalation-family`（AM₂X₄ 插层化合物家族）：由 A 离子插入 MX₂ 双层构成的非范德华二维材料家族，可承载多铁"
+ },
+ {
+  "citekey": "zhaoRealization2DMultiferroic2024",
+  "slug": "high-throughput-screening",
+  "stripped": "high-throughput-screening",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `high-throughput-screening`（高通量筛选）：基于第一性原理批量计算并按稳定性/能垒/物性漏斗式筛选候选材料的方法论。"
+ },
+ {
+  "citekey": "zhaoRealization2DMultiferroic2024",
+  "slug": "T-CdCr2Te4",
+  "stripped": "T-CdCr2Te4",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `T-CdCr2Te4`：本文旗舰型 a 类多铁体，近室温（T_C=260 K）、电场可克斯格明子手性。"
+ },
+ {
+  "citekey": "zhouFirstprinciplesPredictionRedox2004",
+  "slug": "self-interaction-error",
+  "stripped": "self-interaction-error",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `self-interaction-error`：LDA/GGA 中电子与自身电荷密度非物理相互作用导致的能量误差，是本文电压低估的物理根源。"
+ },
+ {
+  "citekey": "zhouFirstprinciplesPredictionRedox2004",
+  "slug": "linear-response-u",
+  "stripped": "linear-response-u",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `linear-response-u`：Cococcioni–de Gironcoli 线性响应法，通过裸响应 χ₀ 与屏蔽响应 χ 之差自洽计算 Hubb"
+ },
+ {
+  "citekey": "zhouFirstprinciplesPredictionRedox2004",
+  "slug": "redox-potential",
+  "stripped": "redox-potential",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `redox-potential`：氧化还原电位/锂嵌入电压，由反应前后总能量差经 ⟨V⟩ = −ΔE/[(x₂−x₁)F] 给出。"
+ },
+ {
+  "citekey": "zhouFirstprinciplesPredictionRedox2004",
+  "slug": "charge-ordering",
+  "stripped": "charge-ordering",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `charge-ordering`：混合价体系中分立价态离子（如 Mn³⁺/Mn⁴⁺）的有序排列，GGA+U 因惩罚非整数占据而自然产生。"
+ },
+ {
+  "citekey": "zhouFirstprinciplesPredictionRedox2004",
+  "slug": "hubbard-u",
+  "stripped": "hubbard-u",
+  "type": "concepts",
+  "linked": true,
+  "line": "- `hubbard-u`：有效在位库仑相互作用 U_eff = U − J，DFT+U 中惩罚 d/f 轨道非整数占据的参数。"
+ },
+ {
+  "citekey": "zhouFirstprinciplesPredictionRedox2004",
+  "slug": "LiFePO4",
+  "stripped": "LiFePO4",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `LiFePO4`、`LixMn2O4`、`LiCoO2`：三类经典锂电池正极代表材料，可作为实体条目建档。"
+ },
+ {
+  "citekey": "zhouFirstprinciplesPredictionRedox2004",
+  "slug": "LixMn2O4",
+  "stripped": "LixMn2O4",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `LiFePO4`、`LixMn2O4`、`LiCoO2`：三类经典锂电池正极代表材料，可作为实体条目建档。"
+ },
+ {
+  "citekey": "zhouFirstprinciplesPredictionRedox2004",
+  "slug": "LiCoO2",
+  "stripped": "LiCoO2",
+  "type": "entities",
+  "linked": true,
+  "line": "- 实体 `LiFePO4`、`LixMn2O4`、`LiCoO2`：三类经典锂电池正极代表材料，可作为实体条目建档。"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "slug": "unparticles.md",
+  "stripped": "unparticles.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `unparticles.md`（非粒子）：Georgi 2007 提出的具有非整数标度维度 d_U、标度不变的新物理sector，传播子含 sin(d_U"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "slug": "equivalent-photon-approximation.md",
+  "stripped": "equivalent-photon-approximation.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `equivalent-photon-approximation.md`（等效光子近似, EPA）：将高能带电粒子周围的准实虚光子云谱化，把 pp→pXp "
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "slug": "exclusive-production.md",
+  "stripped": "exclusive-production.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `exclusive-production.md`（独家/排他产生）：pp→pXp，两质子保持完整、无强子残余，前向探测器（距IP 100–400 m）标记"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "slug": "scale-invariance.md",
+  "stripped": "scale-invariance.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `scale-invariance.md`（标度不变性）/ `conformal-invariance.md`（共形不变性）：非粒子传播子与幺正性界限（d_"
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "slug": "conformal-invariance.md",
+  "stripped": "conformal-invariance.md",
+  "type": "UNKNOWN",
+  "linked": false,
+  "line": "- `scale-invariance.md`（标度不变性）/ `conformal-invariance.md`（共形不变性）：非粒子传播子与幺正性界限（d_"
+ }
+]

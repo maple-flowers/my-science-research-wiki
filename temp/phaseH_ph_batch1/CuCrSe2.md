@@ -1,0 +1,52 @@
+---
+tags: [entity, 2D-materials, ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, density-functional-theory, 2d-materials, ferroelectricity, ferroelectric-tunnel-junction]
+title: CuCrSe2
+type: entity
+status: developing
+year: 2025
+papers: [tangMultiferroicityTwodimensionalVan2025, wangTwodimensionalFerroelectricMetal2025, xiangTwodimensionalRoomTemperature2020, RecentAdvancesGrowth2025]
+updated: 2026-08-18
+---
+
+# CuCrSe2
+
+本文档围绕 **CuCrSe2** 汇集 4 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
+
+## 👵 太奶导读
+
+乖孙，这一条讲的是「CuCrSe2」，由多篇论文的证据共同支撑。
+一句话记住它的发现：文章的核心结论是：二维范德华材料是解决传统多铁材料固有难题、实现高性能多铁性的理想平台。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **研究背景**：自2003年BiFeO3和TbMnO3两个里程碑式的多铁材料发现以来，该领域曾经历一波研究热潮。然而，由于多数三维多铁材料存在磁电耦合强度有限、难以与现有器件架构集成等挑战，自2016年起研究热度逐渐下降。与此同时，二维范德华材料的兴起为多铁研究开辟了新的路径。二维材料无悬挂键的饱和表面使其在单层极限下依然稳定，其结构灵活性为通过多种手段（如层间滑移、界面工程、应变调控）打破对称性、融合原本互斥的铁性序提供了前所未有的机遇，使得该领域迅速成为新的研究热点。
+- **核心问题**：作者的核心问题是：在三维多铁材料研究面临瓶颈的背景下，如何利用二维范德华材料的独特优势，系统地设计和实现多铁性，并推动其走向实际应用？文章旨在回答以下几个关键问题：1. 相比三维体系，二维框架在实现多铁性方面有哪些根本性优势？2. 目前有哪些成功的策略可以在二维极限下“创造”或“组装”出多铁性？3. 这一新兴领域在材料设计、物性检测、性能提升和器件应用方面面临哪些核心挑战？4. 未来的发展方向和潜在机遇在何处？
+- **主要结论**：文章的核心结论是：二维范德华材料是解决传统多铁材料固有难题、实现高性能多铁性的理想平台。其结构灵活性使得通过多种人工策略（对称性破缺、磁性引入、堆垛调控、异质结构筑）在单一材料或异质结中融合铁电、铁磁、铁弹序成为可能。尽管已取得初步进展并证实了材料设计的可行性，但该领域仍处于早期发展阶段，面临着本征多铁材料稀缺、室温下稳定的多铁性和强磁电耦合难以实现、适用于原子级厚度的表征方法未标准化、以及从物理现象到功能器件的转化路径尚不明确等重大挑战。克服这些挑战将有望催生超越传统冯·诺依曼架构的新型计算器件。；二维铁电金属CuCrS2是理想的非贵金属ORR/OER双功能催化剂。其铁电极化能有效调控表面电荷转移，使得P+表面的催化活性远优于P-表面。三层CuCrS2的P+表面表现出最低的ORR过电位（0.28 V）和优异的OER过电位（0.43 V），均低于传统贵金属催化剂。CuCrSe2因对氧吸附过强，催化性能较差。；二维多铁材料，特别是II型多铁体，已在实验上取得了从块体到单层极限的突破，展现出巨大的应用潜力，可用于非易失性存储器、低功耗自旋电子学、高灵敏度传感器和能量收集器等。多种气相沉积法（CVD/CVT为主）和先进表征技术（SHG、STM、拉曼光谱等）共同构成了该领域的研究基石。然而，该领域仍处于发展初期，主要瓶颈在于：1. 室温下具有强磁电耦合的二维多铁材料极其稀缺；2. 高质量、大面积、稳定材料的可控合成工艺尚不成熟；3. 电控磁电开关的电压和效率有待优化。
+- **领域贡献**：1. 提出了一个从“发现”到“设计”的范式转移，将二维多铁的研究重心从寻找单一本征材料转向了系统性的工程化创造。2. 构建了一个逻辑清晰的四大设计策略框架（在磁体中造铁电、在铁电中掺磁性、在铁弹中诱铁电、在异质结中组装），为后续研究提供了方法论工具。3. 首次对近年来二维多铁材料的关键性能（如转变温度、极化值）进行了系统性的列表总结，具有重要的数据参考价值。4. 精准地定义了该领域面临的四大核心挑战，为未来的科研立项和技术攻关提供了明确的路标。；1. 概念创新，将二维铁电金属确立为电催化剂设计的新范式。2. 性能突破，理论预测了极低的ORR/OER过电位，为实验提供了明确的目标。3. 机理阐明，揭示了铁电极化通过调控表面电荷密度和中间体吸附能来优化催化性能的微观机制。；本文的贡献在于提供了一个关于二维多铁材料从理论、制备、表征到应用的“一站式”全面综述。它精准地定义了该领域的核心问题，系统性地归类并比较了各种生长和表征技术，通过深入分析NiI₂、Cr₂S₃等关键实验案例，生动地展示了从基础物理到实际应用的转化路径。最后，它清晰地总结了未来的挑战和发展方向，如寻找室温多铁材料、开发三铁性材料、降低操作电压等，为凝聚态物理和材料科学领域的研究者提供了一份极具价值的路线图。
+- **研究意义**：本文的研究意义在于为处于爆发前夜的二维多铁领域提供了一个清晰、系统且具有前瞻性的战略蓝图。1. 理论意义：它超越了简单的材料罗列，将复杂的实现路径提炼为四大设计策略，深化了对低维体系中多序耦合机制的理解。2. 实践意义：通过全面汇编关键材料性能参数（表1），为实验学家提供了宝贵的参考；通过明确指出“室温工作”和“强磁电耦合”等核心挑战，为后续研究指明了技术攻关方向。3. 社会意义：展望了二维多铁在低功耗自旋逻辑门、高密度非易失性存储器和神经形态计算等下一代信息技术中的颠覆性应用潜力，对推动后摩尔时代电子学发展具有重要价值。
+
+## 📚 相关论文 (Related Papers)
+
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]]：1. 提出了一个从“发现”到“设计”的范式转移，将二维多铁的研究重心从寻找单一本征材料转向了系统性的工程化创造。
+- [[../papers/wangTwodimensionalFerroelectricMetal2025]]：1. 概念创新，将二维铁电金属确立为电催化剂设计的新范式。
+- [[../papers/xiangTwodimensionalRoomTemperature2020]]：为本文档提供核心证据。
+- [[../papers/RecentAdvancesGrowth2025]]：本文的贡献在于提供了一个关于二维多铁材料从理论、制备、表征到应用的“一站式”全面综述。
+
+## 🔗 关联概念与实体 (Related)
+
+- [[../concepts/ferroelasticity|ferroelasticity]]
+- [[../concepts/magnetoelectric-coupling|magnetoelectric-coupling]]
+- [[../concepts/multiferroicity|multiferroicity]]
+- [[../concepts/polarization-switching|polarization-switching]]
+- [[../concepts/sliding-ferroelectricity|sliding-ferroelectricity]]
+- [[../concepts/spin-orbit-coupling|spin-orbit-coupling]]
+- [[../concepts/strain-engineering|strain-engineering]]
+- [[../concepts/ferroic-order|ferroic-order]]
+- [[../concepts/d0-rule|d0-rule]]
+- [[../concepts/dzyaloshinskii-moriya-interaction|dzyaloshinskii-moriya-interaction]]
+- [[../concepts/intercalation-engineering|intercalation-engineering]]
+- [[../entities/BiFeO3|BiFeO3]]
+- [[../entities/CrTe2|CrTe2]]
+- [[../entities/Fe3GeTe2|Fe3GeTe2]]
+- [[../entities/In2Se3|In2Se3]]
+- [[../entities/MXenes|MXenes]]

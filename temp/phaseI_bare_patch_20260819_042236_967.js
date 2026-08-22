@@ -1,0 +1,18 @@
+// Phase I: 为 mature 页相关论文节裸论文链接补贡献句
+app.vault.adapter.read('科研Wiki/temp/phaseI_bare_patch_data.json').then(function (raw) {
+  var patches = JSON.parse(raw);
+  var tasks = patches.map(function (pr) {
+    return app.vault.adapter.read(pr[0]).then(function (cur) {
+      var neu = cur;
+      pr[1].forEach(function (pc) {
+        var re = new RegExp('^(- \\[\\[\\.\\./papers/' + pc[0] + '(?:\\|[^\\]]*)?\\]\\])(?=\\r?\\n|$)', 'm');
+        neu = neu.replace(re, '$1：' + pc[1] + '。');
+      });
+      return app.vault.adapter.write(pr[0], neu);
+    }).then(function () { return pr[0] + ' OK'; });
+  });
+  return Promise.all(tasks).then(function (r) {
+    console.log(r.join('\n'));
+    console.log('TOTAL=' + r.length);
+  });
+}).catch(function (e) { console.log('ERR ' + e); });

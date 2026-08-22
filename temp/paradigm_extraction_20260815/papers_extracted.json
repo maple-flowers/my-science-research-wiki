@@ -1,0 +1,3097 @@
+[
+ {
+  "citekey": "2019optical",
+  "title": "Optical Fiber Polymer Sensor System with TiO2-SiO2 Cladding for Measuring Humidity",
+  "paper_type": "experiment",
+  "year": "2019",
+  "concepts": [
+   "evanescent-wave",
+   "optical-fiber-sensor",
+   "humidity-sensing",
+   "intensity-modulation",
+   "refractive-index-sensing",
+   "dip-coating"
+  ],
+  "entities": [
+   "TiO2",
+   "SiO2",
+   "TiO2-SiO2",
+   "polymer-optical-fiber",
+   "photodiode",
+   "laser-diode"
+  ],
+  "methods": [
+   "solid-state-synthesis",
+   "dip-coating",
+   "evanescent-wave-sensing",
+   "intensity-modulation",
+   "photodiode-detection",
+   "adc-calibration",
+   "linear-regression",
+   "hysteresis-measurement"
+  ],
+  "materials": [
+   "TiO2",
+   "SiO2",
+   "TiO2-SiO2-composite",
+   "polymer-optical-fiber",
+   "PEG-6000"
+  ],
+  "projects": "[project-6]",
+  "fields": {
+   "一句话": "将聚合物光纤（POF, Autonics FD-620-10）中段包层剥离并浸渍涂覆 TiO2-SiO2 纳米复合亲水层，利用倏逝场强度调制实现相对湿度测量，确定最佳剥离长度 2 cm（R²=0.982，灵敏度 0.0376 V/%），并集成到基于 Arduino Uno 的测量系统中（平均误差 2.78%）。",
+   "论证主线": "原理（倏逝波穿透深度受包层折射率调制）→ 制备（固相合成+浸涂）→ 参数扫描（1/2/3 cm 剥离长度）→ 系统集成（Arduino 校准）→ 精度验证（与标准湿度计比对）"
+  }
+ },
+ {
+  "citekey": "aiFerroelectricityCoexistedPorbital2022",
+  "title": "\"Ferroelectricity coexisted with p-orbital ferromagnetism and metallicity in two-dimensional metal oxynitrides\"",
+  "paper_type": "theory",
+  "year": "2022",
+  "concepts": "[2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering]",
+  "entities": "[BiFeO3, Fe3GeTe2, In2Se3, MXenes, VASP, WTe2]",
+  "methods": "[afm-pfm, berry-phase, dfpt, dft, monte-carlo, neb]",
+  "materials": "[BiFeO3, Fe3GeTe2, In2Se3, MXenes, WTe2]",
+  "projects": "[project-2, project-4, project-5]",
+  "fields": {
+   "一句话": "通过第一性原理计算，在二维类MXene氧氮化物 X₂NO₂（X = In, Tl）中预测了铁电性、N-2p 电子驱动的巡游铁磁性与金属性三者共存，从根本上绕过 d⁰ 规则，并在 Tl₂NO₂/WTe₂ 异质结中演示了界面磁电耦合。"
+  }
+ },
+ {
+  "citekey": "aminiAtomicscaleVisualizationMultiferroicity2024",
+  "title": "Atomic-Scale Visualization of Multiferroicity in Monolayer NiI2",
+  "paper_type": "experiment",
+  "year": "2024",
+  "concepts": [
+   "multiferroicity",
+   "magnetoelectric-coupling",
+   "spin-orbit-coupling",
+   "2D-materials",
+   "strain-engineering",
+   "density-functional-theory",
+   "moire-superlattice",
+   "topological-defects",
+   "type-ii-multiferroicity",
+   "spin-spiral",
+   "band-bending",
+   "ferroelectricity",
+   "domain-wall"
+  ],
+  "entities": [
+   "VASP",
+   "SnTe",
+   "h-BN",
+   "BiFeO3",
+   "NiI2",
+   "HOPG",
+   "Elk"
+  ],
+  "methods": [
+   "stm",
+   "sts",
+   "dft",
+   "lda",
+   "noncollinear-dft",
+   "spin-orbit-coupling",
+   "mbe",
+   "fft",
+   "lock-in-detection",
+   "dI-dV-spectroscopy"
+  ],
+  "materials": [
+   "NiI2",
+   "HOPG"
+  ],
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "用低温 STM 结合非共线 DFT，首次在原子尺度上看到单层 NiI₂ 中由自旋螺旋 + 强 SOC 诱导的第 II 类多铁序（周期为磁螺旋一半的电极化条纹），并通过针尖电压脉冲直接移动多铁畴壁，证明磁电耦合。"
+  }
+ },
+ {
+  "citekey": "Barnett2006coexistence",
+  "title": "Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides",
+  "paper_type": "theory",
+  "year": "2006",
+  "concepts": [
+   "charge-density-wave",
+   "density-functional-theory",
+   "2D-materials",
+   "fermi-surface-nesting",
+   "wannier-function",
+   "tight-binding",
+   "sublattice-decoupling",
+   "hopping-integral",
+   "gapless-excitation",
+   "electron-phonon-coupling",
+   "commensurate-cdw",
+   "phase-interference"
+  ],
+  "entities": [
+   "TMDs",
+   "2H-TaSe2",
+   "WIEN2k"
+  ],
+  "methods": [
+   "dft",
+   "lda",
+   "fp-lapw",
+   "wannier-function",
+   "tight-binding",
+   "first-principles",
+   "electron-phonon-coupling",
+   "arpes",
+   "neutron-diffraction",
+   "stm",
+   "monkhorst-pack"
+  ],
+  "materials": [
+   "2H-TaSe2"
+  ],
+  "projects": "[project-5, project-7]",
+  "fields": {
+   "一句话": "通过第一性原理瓦尼尔函数分析发现 2H-TaSe₂ 低能 d_z² 带由次近邻跃迁（t₂=115 meV）主导，使三角晶格近似解耦为三个子晶格；CDW 畸变只扭曲其中两个，第三个子晶格保持无畸变，因而其能带在整个费米面上不打开能隙，解释了困扰领域二十余年的\"公度 CDW 与无隙金属性共存\"谜题。"
+  }
+ },
+ {
+  "citekey": "bhowalPolarMetalsPrinciples2023b",
+  "title": "\"Polar Metals: Principles and Prospects\"",
+  "paper_type": "review",
+  "year": "2023",
+  "concepts": [
+   "2D-materials",
+   "berry-phase",
+   "density-functional-theory",
+   "ferroelasticity",
+   "magnetoelectric-coupling",
+   "multiferroicity",
+   "polarization-switching",
+   "sliding-ferroelectricity",
+   "spin-orbit-coupling",
+   "strain-engineering",
+   "domain-wall"
+  ],
+  "entities": [
+   "BiFeO3",
+   "PbTe",
+   "SnTe",
+   "TMDs",
+   "WTe2"
+  ],
+  "methods": [
+   "afm-pfm",
+   "arpes",
+   "berry-phase",
+   "dft",
+   "monte-carlo",
+   "tem"
+  ],
+  "materials": [
+   "BiFeO3",
+   "PbTe",
+   "SnTe",
+   "TMDs",
+   "WTe2",
+   "domain-wall"
+  ],
+  "projects": "[project-5]",
+  "fields": {
+   "一句话": "本文系统综述了极性与金属性共存这一\"禁忌\"组合的设计原理，提出以\"解耦\"为核心思想，以 LiOsO₃（首个类铁电金属）和 WTe₂（首个可翻转铁电金属）为里程碑，并梳理了其在 Rashba 自旋电子学、拓扑半金属、非线性霍尔效应、动磁电效应及铁电超导等方向的奇异物性。"
+  }
+ },
+ {
+  "citekey": "Blessing2026optical",
+  "title": "Optical investigation of tin telluride (SnTe) thin films grown at different deposition voltage",
+  "paper_type": "experiment",
+  "year": "2026",
+  "concepts": [
+   "optical-band-gap",
+   "electrochemical-deposition",
+   "tauc-plot",
+   "shockley-queisser-limit",
+   "optical-conductivity",
+   "refractive-index",
+   "topological-crystalline-insulator",
+   "topological-defects",
+   "spin-orbit-coupling"
+  ],
+  "entities": [
+   "SnTe",
+   "FTO"
+  ],
+  "methods": [
+   "uv-vis-spectroscopy",
+   "electrochemical-deposition",
+   "tauc-plot"
+  ],
+  "materials": [
+   "SnTe",
+   "FTO"
+  ],
+  "projects": "[project-5]",
+  "fields": {
+   "一句话": "用电化学沉积法在 FTO 上以 10–13 V 四种电压制备 SnTe 薄膜，发现 11 V 样品具有最窄光学带隙(1.41 eV)和最高光学电导率(2.64×10⁻³ S/cm)，是最有前景的光伏吸收层候选。"
+  }
+ },
+ {
+  "citekey": "blochlProjectorAugmentedwaveMethod1994b",
+  "title": "\"Projector augmented-wave method\"",
+  "paper_type": "theory",
+  "year": "1994",
+  "concepts": "[density-functional-theory, paw-method, pseudopotential, lapw, projector-functions, augmentation-region, compensation-charge-density, frozen-core-approximation, additive-augmentation, car-parrinello, norm-conservation, overlap-operator, pulay-force]",
+  "entities": "[VASP, LAPW, LMTO, Car-Parrinello, MnFO3, Fe2, Wannier90]",
+  "methods": "[dft, lda, paw, all-electron, pseudopotential, ultrasoft-pseudopotential, car-parrinello-md, plane-wave-basis, radial-grid]",
+  "materials": "[Mn, Fe, O, F, H, Li, Be, B, N, transition-metals]",
+  "projects": "[project-2, project-5, project-7]",
+  "fields": {
+   "一句话": "本文提出投影增强波（PAW）方法，通过一个由全电子分波、赝分波和投影函数定义的线性变换，将全电子 LAPW 方法的精度与平面波赝势方法的效率统一起来，并首次实现基于完整波函数的能量守恒第一性原理分子动力学。"
+  }
+ },
+ {
+  "citekey": "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+  "title": "\"Ferroelectricity-driven strain-mediated magnetoelectric coupling in two-dimensional multiferroic heterostructure\"",
+  "paper_type": "experiment",
+  "year": "2025",
+  "concepts": "[2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, spin-logic-device, inverse-piezoelectric-effect, perpendicular-magnetic-anisotropy, anomalous-hall-effect, dual-gate-asymmetric-strain-control, strain-mediated-magnetoelectric-coupling]",
+  "entities": "[Fe3GeTe2, VASP, Fe3GaTe2, PVDF-TrFE]",
+  "methods": "[berry-phase, dft, raman, tem, xanes, xrd]",
+  "materials": "[Fe3GeTe2]",
+  "projects": "[project-2]",
+  "fields": {
+   "一句话": "在 Fe3GaTe2/P(VDF-TrFE) 双栅二维多铁异质结中，利用底栅铁电聚合物的逆压电效应诱导应变，室温下非易失、全电学可逆地调控 Fe3GaTe2 的磁各向异性常数 K1，并演示了 0.5 aJ/5 ns 的可重构自旋逻辑门、半加器及二分类神经网络。"
+  }
+ },
+ {
+  "citekey": "CastroNeto2001charge",
+  "title": "\"Charge Density Wave, Superconductivity, and Anomalous Metallic Behavior in 2D Transition Metal Dichalcogenides\"",
+  "paper_type": "theory",
+  "year": "2001",
+  "concepts": "[charge-density-wave, 2d-materials, dirac-electrons, marginal-fermi-liquid, electron-phonon-coupling, fermi-surface-nesting, f-wave-order-parameter, piezo-electric-coupling, kosterlitz-thouless-transition, quantum-critical-point, pseudo-gap, saddle-point-scattering, superconductivity, pseudogap]",
+  "entities": "[TMDs, TaSe2, TaS2, NbSe2, NbS2, ARPES]",
+  "methods": "[tight-binding, mean-field-theory, green-function, bogoliubov-transformation, arpes]",
+  "materials": "[2H-TaSe2, 2H-TaS2, 2H-NbSe2, 2H-NbS2]",
+  "projects": "[project-1, project-7]",
+  "fields": {
+   "一句话": "提出 2H-TMD（TaSe₂/TaS₂/NbSe₂/NbS₂）中 CDW 是具有六重节点的 f 波序参量，CDW 相的低能激发是与声学声子压电耦合的狄拉克电子，由此统一解释了 ARPES 观测到的边缘费米液体自能、CDW 相中的良好金属性、声子介导的超导配对及其 KT 型相变与量子临界点。"
+  }
+ },
+ {
+  "citekey": "Chen2016electrical",
+  "title": "\"Electrical and mechanical switching of ferroelectric polarization in the 70 nm BiFeO3 film\"",
+  "paper_type": "experiment",
+  "year": "2016",
+  "concepts": "[polarization-switching, ferroelasticity, multiferroicity, magnetoelectric-coupling, strain-engineering, flexoelectricity, ferroelectric-domain, domain-wall-motion, coercive-field, ferroelectric-photovoltaic-effect, depletion-layer, nondestructive-readout, two-step-switching, domain-wall]",
+  "entities": "[BiFeO3, SrTiO3, La0.67Sr0.33MnO3, BaTiO3, PbZrxTi1-xO3, ITO, PLD, PFM, c-AFM]",
+  "methods": "[pld, pfm, c-afm, photovoltaic-measurement, phase-field]",
+  "materials": "[BiFeO3, SrTiO3, La0.67Sr0.33MnO3, BaTiO3, PbZr0.2Ti0.8O3, ITO]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "首次在 70 nm 厚 (001) BiFeO3 外延薄膜中用 PFM 针尖机械力（最高 3325 nN，对应 ~1.18 GPa 局域应力）实现 100% 极化翻转，并证明力学翻转与电学翻转共享\"成核—分解—重组\"的两步（71°+109° 铁弹翻转）畴演化路径，同时展示了低偏压 c-AFM 电流和光伏短路电流两种无损读出方案。"
+  }
+ },
+ {
+  "citekey": "Chen2019superconductivity",
+  "title": "\"Discommensuration-driven superconductivity in the charge density wave phases of transition-metal dichalcogenides\"",
+  "paper_type": "experiment",
+  "year": "2019",
+  "concepts": "[2D-materials, charge-density-wave, domain-wall]",
+  "entities": "[TMDs]",
+  "methods": "[phase-field, stm-mbe]",
+  "materials": "[TMDs, domain-wall]",
+  "projects": "[project-7]",
+  "fields": {
+   "一句话": "提出耦合的 McMillan–Ginzburg–Landau 理论，证明在 1T-TiSe₂ 等 TMDs 中，近公度 CDW 相里由错位相子（DC）构成的畴壁网络涨落是超导成核与超导穹顶出现的驱动力，并预言超导沿 DC网络经历 0D→1D→2D 的渗流过程。"
+  }
+ },
+ {
+  "citekey": "chen3dLevelSymmetry2025",
+  "title": "\"3d-level symmetry between metal layers governing the electronic configuration of Mn2N MXenes and enabling modulation between half-metallicity and semiconductivity\"",
+  "paper_type": "theory",
+  "year": "2025",
+  "concepts": "[density-functional-theory, strain-engineering, spin-orbit-coupling, 2d-materials, electron-counting-rule, half-metallicity, janus-structure, crystal-field-theory, charge-doping, electronic-phase-transition]",
+  "entities": "[MXenes, TMDs, VASP, h-BN, Mn2NOF, Mn2N, V2NOF, Mn2NO2]",
+  "methods": "[dft, dft-plus-u, hse06, soc, aimd, bader-analysis, elf, electrostatic-potential, pband, pdos]",
+  "materials": "[Mn2N, Mn2NO2, Mn2NOF, Mn2NOOH, Mn2NOCl, V2NOF]",
+  "projects": "[project-2, project-7]",
+  "fields": {
+   "一句话": "通过DFT计算揭示Mn2N MXenes的半金属性/半导体性由两侧Mn原子3d能级分离程度（而非局域配位对称性）决定，并据此用电荷掺杂和单轴应变实现两种态的可逆切换。"
+  }
+ },
+ {
+  "citekey": "chenFerromagneticNonmagnetic1T2022",
+  "title": "\"Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition\"",
+  "paper_type": "theory",
+  "year": "2022",
+  "concepts": "[charge-density-wave, 2d-materials, strain-engineering, density-functional-theory, ferroelasticity, peierls-distortion, superexchange, direct-exchange, goodenough-kanamori-anderson-rules, dimerization, structural-distortion-index, charge-doping, magnetism]",
+  "entities": "[TMDs, VASP, CrTe2, WTe2, CrS2, CrSe2, VTe2, MnS2, MnSe2, MnTe2]",
+  "methods": "[dft, paw, pbe, ci-neb, phonon-dispersion, bader-analysis, electron-localization-function, spin-polarized-dft]",
+  "materials": "[CrS2, CrSe2, CrTe2, VTe2, MnS2, MnSe2, MnTe2, TMDs]",
+  "projects": "[project-2, project-7]",
+  "fields": {
+   "一句话": "通过DFT计算揭示TMDs中1T′铁磁CDW态的两种形成机制（直接交换→超交换转变 vs M-M二聚化），并预测CrS₂中电荷掺杂可诱导NM/FM CDW可逆相变，产生高达12.17%的驱动应变与磁性突变。"
+  }
+ },
+ {
+  "citekey": "chenHafniumBasedFerroelectricPostMoore2026",
+  "title": "\"Hafnium-Based Ferroelectric Post-Moore Electronics: Device Physics, Integration Architectures, and Neuromorphic System Implementation\"",
+  "paper_type": "review",
+  "year": "2026",
+  "concepts": "[ferroelectricity, polarization-switching, ferroelectric-tunnel-junction, neuromorphic-computing, in-memory-computing, synaptic-plasticity, doping-engineering, strain-engineering, oxygen-vacancy, phase-transition, domain-wall-motion, cmos-compatibility, multiferroicity, 2d-materials, density-functional-theory, wake-up-effect, fatigue-effect, schottky-barrier, quantum-tunneling, soft-mode-phonon, domain-wall]",
+  "entities": "[HfO2, HZO, FeFET, FTJ, FeRAM, Fe-Diode, FeCAP, MoS2, MXenes, PZT, BaTiO3, IGZO, TiN, ALD]",
+  "methods": "[dft, high-throughput-dft, phonon-calculation, tem-stem-haadf, ald, pe-ald, rapid-thermal-annealing, device-p-e-loop, device-i-v, device-c-v, pulse-switching, kai-model, nls-model, molecular-dynamics]",
+  "materials": "[HfO2, HZO-Hf0.5Zr0.5O2, Si-doped-HfO2, La-doped-HfO2, Al-doped-HfO2, Y-doped-HfO2, Ce-doped-HfO2, MoS2, MXene, IGZO, TiN]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "本文系统综述了与CMOS工艺兼容的铪基铁电体（Hf-FEs）从掺杂材料工程、四类器件结构（FeFET/FTJ/FeRAM/Fe-Diode）、极化翻转微观机制到神经形态存算一体系统实现的完整技术链条，并批判性地指出亚稳相稳定、BEOL热预算、可靠性与3D集成等核心挑战。"
+  }
+ },
+ {
+  "citekey": "chenStrongSlidingFerroelectricity2024",
+  "title": "\"Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI₂ Layers\"",
+  "paper_type": "theory",
+  "year": "2024",
+  "concepts": "[sliding-ferroelectricity, berry-phase, 2d-materials, spin-orbit-coupling, polarization-switching, depolarization-field, rashba-effect, slidetronics, interfacial-charge-rearrangement, spin-texture, soft-phonon-mode, multiferroicity, strain-engineering]",
+  "entities": "[VASP, HgI2, HgBr2, WTe2, MoTe2, In2Se3, SnTe, CrI3, ZrI2, Datta-Das-spin-FET]",
+  "methods": "[dft, dft-d3, berry-phase, neb, phonon-calculation, aimd, soc-band-calculation, screening-charge-integration]",
+  "materials": "[HgI2, HgBr2]",
+  "projects": "[project-5]",
+  "fields": {
+   "一句话": "基于第一性原理计算预测可合成的范德华层状晶体 HgX₂（X=Br, I）为新型二维滑动铁电体，其中 HgI₂ 多层具有高达 0.16 μC/cm² 的实验可检测极化、室温可切换性以及层间滑动可控的 Rashba 自旋纹理，可用于二维自旋场效应晶体管。"
+  }
+ },
+ {
+  "citekey": "cheongMultiferroicsMagneticTwist2007a",
+  "title": "\"Multiferroics: a magnetic twist for ferroelectricity\"",
+  "paper_type": "theory",
+  "year": "2007",
+  "concepts": "[berry-phase, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, domain-wall]",
+  "entities": "[BiFeO3, HoMnO3]",
+  "methods": "[afm-pfm, berry-phase, dft]",
+  "materials": "[BiFeO3, HoMnO3, domain-wall]",
+  "projects": "[project-2, project-7]",
+  "fields": {
+   "一句话": "系统阐述\"磁阻挫 → 复杂（螺旋/共线）磁序 → 自发破缺空间反演 → 磁致电极性\"这一新范式，给出逆 DM（自旋流）与交换伸缩两类微观机制及 P ∥ e₃×Q 的方向定则。"
+  }
+ },
+ {
+  "citekey": "chowdhuryReviewTheoreticalComputational",
+  "title": "\"Computational Methods for Charge Density Waves in 2D Materials\"",
+  "paper_type": "review",
+  "year": "2022",
+  "concepts": "[2D-materials, charge-density-wave, density-functional-theory, moire-superlattice, spin-orbit-coupling, strain-engineering]",
+  "entities": "[TMDs, VASP]",
+  "methods": "[arpes, dft, raman, stm-mbe, tem, xanes]",
+  "materials": "[TMDs]",
+  "projects": "[project-7]",
+  "fields": {
+   "一句话": "本综述以 TaS₂ 与 TaSe₂ 为核心，系统总结了用 DFT 等第一性原理方法研究二维 TMDs 中电荷密度波（CDW）时在温度模拟、非公度结构建模、泛函/赝势选择三方面的计算策略，并整理了其在原子/电子结构、拉曼振幅模/相位模、限域与维度效应上的成果。"
+  }
+ },
+ {
+  "citekey": "cossuStackingChargedensityWaves2024",
+  "title": "\"Stacking of charge-density waves in 2H-NbSe₂ bilayers\"",
+  "paper_type": "theory",
+  "year": "2024",
+  "concepts": "[2D-materials, charge-density-wave, density-functional-theory, moire-superlattice, strain-engineering, interlayer-stacking, geometric-structure-factor, pseudogap, cdw-blends-displacements, vdw-correction, peierls-instability]",
+  "entities": "[TMDs, VASP, Wannier90, 1T-TaS2, NbSe2]",
+  "methods": "[dft, mlip, raman, stm-mbe, tem, xanes, xrd]",
+  "materials": "[TMDs]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "通过 DFT 第一性原理计算首次系统绘制 2H-NbSe₂ 双层中电荷密度波（CDW）的垂直堆叠能量景观，证明不可忽略的层间耦合导致自发对称性破缺，基态为 HC-HC_(S3)，混合堆叠 HC-CC_(S4) 等近简并激发态在模拟 STM 图像与几何结构因子中具有可分辨的\"指纹\"。"
+  }
+ },
+ {
+  "citekey": "cuiIntercorrelatedInplaneOutofplane2018a",
+  "title": "\"Intercorrelated In-Plane and Out-of-Plane Ferroelectricity in Ultrathin Two-Dimensional Layered Semiconductor In2Se3\"",
+  "paper_type": "experiment",
+  "year": "2018",
+  "concepts": "[ferroelectricity, 2d-materials, polarization-switching, in-plane-out-of-plane-coupling, odd-even-effect, antiparallel-polarization-stacking, ferroelectric-domain, domain-wall, depolarizing-field, schottky-barrier, switchable-diode, memristor, multiferroicity, topological-defects]",
+  "entities": "[In2Se3, VASP, SnTe, PZT, BaTiO3, CuInP2S6, mica, Au]",
+  "methods": "[cvd, afm, pfm, cafm, stem, haadf, saed, scanning-electron-diffraction, raman, dft, pbe, hse06, optb88-vdw, e-beam-lithography, i-v-transport]",
+  "materials": "[alpha-In2Se3, beta-In2Se3, mica, Au, SnTe, CuInP2S6]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "首次在实验上证实室温下二维范德华半导体 α-In2Se3 同时具有面内（IP）与面外（OOP）相互锁定的本征铁电极化，并展示层数奇偶效应和电场/可见光双控的多态非易失存储原型。"
+  }
+ },
+ {
+  "citekey": "Delley2000",
+  "title": "\"From molecules to solids with the DMol3 approach\"",
+  "paper_type": "theory",
+  "year": "2000",
+  "concepts": "[density-functional-theory, enthalpy-of-formation, brillouin-zone-integration, gga-functional, numerical-atomic-orbitals, pseudopotential]",
+  "entities": "[VASP, dmol3]",
+  "methods": "[dft]",
+  "materials": "[]",
+  "projects": "[project-4, project-5, project-7]",
+  "fields": {
+   "一句话": "系统公开 DMol3 从气相分子 DFT 扩展到绝缘体、半导体、半金属与金属固体的关键实现（短尾数值原子轨道、半局域赝势、k 点矩阵元、Bloechl 四面体积分、梯度泛函数值处理），并用 Cu/Si/石墨/α-S8 与 G2 分子集标定，指出精度瓶颈在泛函而非数值方法。"
+  }
+ },
+ {
+  "citekey": "deSousa2008electrical",
+  "title": "Electrical control of magnon propagation in multiferroic BiFeO3 films",
+  "paper_type": "theory",
+  "year": "2008",
+  "concepts": [
+   "multiferroicity",
+   "magnetoelectric-coupling",
+   "polarization-switching",
+   "spin-wave",
+   "dzyaloshinskii-moriya-interaction",
+   "canted-antiferromagnetism",
+   "weak-ferromagnetism",
+   "magnetostatic-effect",
+   "electromagnon",
+   "landau-lifshitz-equation",
+   "spin-wave-logic",
+   "neel-vector",
+   "ginzburg-landau"
+  ],
+  "entities": [
+   "BiFeO3"
+  ],
+  "methods": [
+   "landau-theory",
+   "ginzburg-landau",
+   "landau-lifshitz",
+   "magnetostatic-approximation",
+   "spin-wave-dispersion",
+   "phenomenological-model"
+  ],
+  "materials": [
+   "BiFeO3",
+   "BiFeO3-film"
+  ],
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "基于耦合铁电/反铁磁序的金兹堡-朗道模型与磁静波近似，预测倾斜反铁磁BiFeO3薄膜中最低频磁振子色散因长程偶极相互作用而强烈依赖于传播方向与奈尔矢量的夹角，从而可借由电场翻转铁电极化来无电流地开关自旋波传播。"
+  }
+ },
+ {
+  "citekey": "dingPredictionIntrinsicTwodimensional2017a",
+  "title": "\"Prediction of intrinsic two-dimensional ferroelectrics in In2Se3 and other III2-VI3 van der Waals materials\"",
+  "paper_type": "theory",
+  "year": "2017",
+  "concepts": "[ferroelectricity, berry-phase, polarization-switching, 2d-materials, strain-engineering, density-functional-theory, depolarization-field, schottky-barrier, in-plane-out-of-plane-coupling, quintuple-layer, vdW-heterostructure]",
+  "entities": "[In2Se3, VASP, graphene, WSe2, PbTiO3, TMDs, SnTe]",
+  "methods": "[dft, pbe-gga, hse06, berry-phase, ci-neb, dft-d3, phonon-dispersion, ab-initio-md, paw]",
+  "materials": "[In2Se3, graphene, WSe2, Al2S3, Al2Se3, Al2Te3, Ga2S3, Ga2Se3, Ga2Te3, In2S3, In2Te3]",
+  "projects": "[project-5]",
+  "fields": {
+   "一句话": "通过第一性原理计算预测以 In2Se3 为代表的 III2-VI3 族五元层（QL）范德华材料是本征二维铁电体，兼具可反转的面外与面内自发极化，反转能垒低至 0.066 eV，并能在单层极限下抵抗退极化场。"
+  }
+ },
+ {
+  "citekey": "Doroodmand2017conjugated",
+  "title": "\"Electro-synthesized Conjugated Salen Polymer-Glassy Carbon as Hydrochromic Reflective Filter for Humidity Detection: Introduction of Humidity Optical Sensor\"",
+  "paper_type": "experiment",
+  "year": "2017",
+  "concepts": [
+   "hydrochromism",
+   "reflective-filter",
+   "cyclic-voltammetry",
+   "conjugated-polymer",
+   "salen-ligand",
+   "optical-sensing",
+   "refractive-index",
+   "electropolymerization"
+  ],
+  "entities": [
+   "Salen",
+   "glassy-carbon",
+   "KCl"
+  ],
+  "methods": [
+   "cyclic-voltammetry",
+   "sem-imaging",
+   "ftir-spectroscopy",
+   "xps-spectroscopy",
+   "optical-imaging",
+   "rgb-image-analysis",
+   "uv-vis-spectroscopy",
+   "three-electrode-cell"
+  ],
+  "materials": [
+   "conjugated-salen-polymer",
+   "glassy-carbon-electrode",
+   "salen-monomer",
+   "salicylaldehyde",
+   "ethylenediamine"
+  ],
+  "projects": "[project-6]",
+  "fields": {
+   "一句话": "首次用循环伏安法在玻碳电极上电合成\"无金属\"共轭 Salen 聚合物薄膜，将其同时作为亲水感湿层和白光反射滤光片，通过相机读取反射光蓝色分量强度，实现 5–80% RH 范围内线性、快速（~9.5 s）、高选择性的光学湿度检测。"
+  }
+ },
+ {
+  "citekey": "dudarevElectronenergylossSpectraStructural1998a",
+  "title": "\"Electron-energy-loss spectra and the structural stability of nickel oxide:  An LSDA+U study\"",
+  "paper_type": "experiment",
+  "year": "1998",
+  "concepts": "[density-functional-theory, NiO, hubbard-u, mott-insulator, double-counting-correction, electron-energy-loss-spectroscopy, lsda-plus-u]",
+  "entities": "[]",
+  "methods": "[dft, dft-plus-u]",
+  "materials": [
+   "NiO"
+  ],
+  "projects": "[]",
+  "fields": {
+   "一句话": "用同一个有效 Hubbard U（6.2 eV）在 LSDA+U 框架下同时准确描述了 NiO 的氧 K 边 EELS 激发谱和基态结构稳定性参数（晶格常数、结合能、弹性模量），证明该方法能统一处理强关联过渡金属氧化物的光谱与结构性质。"
+  }
+ },
+ {
+  "citekey": "duUltrasensitiveOptoelectronicBiosensor2025",
+  "title": "\"Ultrasensitive optoelectronic biosensor arrays based on twisted bilayer graphene superlattice\"",
+  "paper_type": "experiment",
+  "year": "2025",
+  "concepts": "[moire-superlattice, 2d-materials, density-functional-theory, twistronics, van-hove-singularity, exciton-plasmon-coupling, surface-plasmon-resonance, crispr-cas12a, dna-origami, dielectric-response, photoresponsivity, local-dielectric-environment, trans-cleavage]",
+  "entities": "[twisted-bilayer-graphene, graphene, gold-nanodisks, gold-nanoparticles, VASP, crispr-cas12a-protein, dna-origami-structure]",
+  "methods": "[dft, dfpt, fdtd, raman-spectroscopy, sem, tem, afm, sts-stm, pump-probe-spectroscopy, ebl, cvd, page-gel-electrophoresis, photocurrent-mapping, lock-in-amplifier, saed, qpcr-validation]",
+  "materials": "[twisted-bilayer-graphene, gold, dna-origami, crrna, mirna-21]",
+  "projects": "[project-5, project-6]",
+  "fields": {
+   "一句话": "将9.4°扭曲双层石墨烯的范霍夫奇点吸收与金纳米盘等离激元共振精确耦合，并通过DNA折纸-CRISPR-Cas12a系统动态调制局域介电环境，在60 μW低光照下实现了44.63 aM的免扩增核酸检测。"
+  }
+ },
+ {
+  "citekey": "feiFerroelectricSwitchingTwodimensional2018a",
+  "title": "\"Ferroelectric switching of a two-dimensional metal\"",
+  "paper_type": "experiment",
+  "year": "2018",
+  "concepts": "[polarization-switching, 2d-materials, multiferroicity, polar-metal, electronic-ferroelectricity, electron-hole-correlation, out-of-plane-polarization, quantum-spin-hall-effect, weyl-semimetal, depolarization-field, screening-length, bistability, domain-dynamics]",
+  "entities": "[WTe2, h-BN, graphene, BaTiO3]",
+  "methods": "[device-i-v, dry-transfer, e-beam-lithography, afm, four-terminal-measurement, graphene-field-sensor]",
+  "materials": "[WTe2]",
+  "projects": "[project-5, project-2]",
+  "fields": {
+   "一句话": "首次在实验上证实双层/三层 WTe₂ 这一原子级薄的拓扑半金属同时是金属且可电场翻转的铁电体，面外极化可由石墨烯电场传感器定量探测，并提出电子-空穴关联驱动极化的新机制。"
+  }
+ },
+ {
+  "citekey": "fengFerroelectricityMultiferroicityTwodimensional2020",
+  "title": "\"Ferroelectricity and multiferroicity in two-dimensional Sc₂P₂Se₆ and ScCrP₂Se₆ monolayers\"",
+  "paper_type": "theory",
+  "year": "2020",
+  "concepts": "[2D-materials, berry-phase, density-functional-theory, ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, Sc2P2Se6, d0-rule, out-of-plane-ferroelectricity, spin-lattice-charge-coupling, ScCrP2Se6, magnetic-anisotropy-energy, C2DB, superexchange-goodenough-kanamori, CINEB, transition-metal-phosphorus-trichalcogenides, antiferroelectricity]",
+  "entities": "[Fe3GeTe2, In2Se3, SnTe, TMDs, VASP, h-BN]",
+  "methods": "[afm-pfm, berry-phase, dft, monte-carlo, neb]",
+  "materials": "[Fe3GeTe2, In2Se3, SnTe, TMDs, h-BN]",
+  "projects": "[project-2, project-4, project-5]",
+  "fields": {
+   "一句话": "从 C2DB 筛选并以 DFT 预测 Sc₂P₂Se₆ 单层为面外铁电体，将一半 Sc 替换为 Cr 得到多铁 ScCrP₂Se₆，其 FE 相为 AFM、AFE 相为 FM，临界电场约 0.82 V/Å 可在两态间可逆切换，从而实现电控磁。"
+  }
+ },
+ {
+  "citekey": "FerroelectricityMultiferroicityAtomic2023",
+  "title": "\"Ferroelectricity and multiferroicity down to the atomic thickness\"",
+  "paper_type": "review",
+  "year": "2023",
+  "concepts": "[multiferroicity, ferroelectric-tunnel-junction, sliding-ferroelectricity, moire-superlattice, magnetoelectric-coupling, 2d-materials, polarization-switching, ferroelasticity, lego-assembly, size-effect, hafnia-ferroelectricity, stacking-engineered-ferroelectricity, type-ii-multiferroics, encapsulation-2d, critical-thickness-ferroelectric]",
+  "entities": "[BiFeO3, In2Se3, WTe2, h-BN, TMDs, PbTiO3, HfO2, CuInP2S6, SnS, MoTe2, CuCrP2S6, NiI2, Cr2Ge2Te6, MoS2, WS2, WSe2, MoSe2]",
+  "methods": "[pfm, thin-film-epitaxy, electrical-transport, optical-shg, dft]",
+  "materials": "[PbTiO3, BiFeO3, Hf0.8Zr0.2O2, CuInP2S6, In2Se3, MoTe2, SnS, WTe2, h-BN, CuCrP2S6, NiI2, Cr2Ge2Te6, MoS2, WS2, WSe2, MoSe2]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "这篇编辑评论以\"钙钛矿氧化物 / 氧化铪 / 范德瓦尔斯堆叠\"三分框架，系统评述原子级厚度铁电与多铁材料的最新突破，指出氧化铪的 CMOS 兼容性与 vdW 堆叠工程是两大主线，而环境稳定性/封装是共同瓶颈。"
+  }
+ },
+ {
+  "citekey": "fiebigEvolutionMultiferroics2016",
+  "title": "\"The evolution of multiferroics\"",
+  "paper_type": "review",
+  "year": "2016",
+  "concepts": "[ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, topological-defects, domain-wall]",
+  "entities": "[BiFeO3, HoMnO3]",
+  "methods": "[xrd]",
+  "materials": "[BiFeO3, HoMnO3, domain-wall]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "以\"I类/II类\"分类与四大机制（孤对电子、几何、电荷有序、自旋驱动）为主线，系统综述多铁性材料从钙钛矿\"磁电互斥\"认识到薄膜异质结、畴壁、非平衡动力学与对称性破缺新物理的半个世纪演进。"
+  }
+ },
+ {
+  "citekey": "fornerQuantumTemperatureEffects1993",
+  "title": "\"Quantum and temperature effects on Davydov soliton dynamics. III. Interchain coupling\"",
+  "paper_type": "theory",
+  "year": "1993",
+  "concepts": "[davydov-soliton, exciton-phonon-coupling, interchain-coupling, self-trapping]",
+  "entities": "[]",
+  "methods": "[]",
+  "materials": "[]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "通过数值模拟验证并界定了 Scott \"单链以 3 倍质量/3 倍力常数等效三链\" 猜想在 |D₂⟩ 与 |D₁⟩ 两种拟设态下的适用范围，并用三链有限温模拟证明：只要氢键力常数 W > 30–40 N/m，达维多夫孤子即可在 300 K 生理温度下稳定存在。"
+  }
+ },
+ {
+  "citekey": "gajdosLinearOpticalProperties2006",
+  "title": "\"Linear optical properties in the projector-augmented wave methodology\"",
+  "paper_type": "theory",
+  "year": "2006",
+  "concepts": "[density-functional-theory, dielectric-function, polarizability-matrix, local-field-effects, paw-method, longitudinal-transversal-expression, dipole-correction, dfpt, kohn-sham, berry-phase]",
+  "entities": "[VASP, GaAs, WIEN2k]",
+  "methods": "[dft, dfpt, paw, lda, rpa, k-point-convergence, gw, bse, apw-lo, k-p-perturbation]",
+  "materials": "[Si, GaAs, diamond-C, SiC, AlP]",
+  "projects": "[project-5]",
+  "fields": {
+   "一句话": "首次在 PAW 方法框架下严格推导了频率相关极化率矩阵长波极限（q→0）的纵向表达式，引入关键的偶极矩修正项 μ_ij，使 PAW 光学/介电性质计算在标准势下即可达到全电子 APW+LO 精度，且单中心基组收敛比横向表达式更快。"
+  }
+ },
+ {
+  "citekey": "gaoGiantChiralMagnetoelectric2024a",
+  "title": "\"Giant chiral magnetoelectric oscillations in a van der Waals multiferroic\"",
+  "paper_type": "experiment",
+  "year": "2024",
+  "concepts": "[2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, spin-orbit-coupling, topological-defects, domain-wall]",
+  "entities": "[VASP]",
+  "methods": "[afm-pfm, berry-phase, dft, dft-plus-u, raman, tight-binding, xanes]",
+  "materials": "[domain-wall]",
+  "projects": "[project-2, project-3, project-4, project-6]",
+  "fields": {
+   "一句话": "在剥离的范德华 II 型多铁 NiI₂ 的单个对映纯手性畴中，用 tr-SHG 与 tr-RKerr 同时探测电磁振子（electromagnon）共振下的电极化 ΔP 和磁化 ΔM 振荡，发现二者恒定相差 π/2，提取出 Im[α] ≈ 11×10³ ps m⁻¹（理论 12×10³ ps m⁻¹）的太赫兹自然光学活性——比已知任何螺旋磁体高约两个数量级；DFT + 紧束缚模型证明该巨耦合源于非共线自旋织构、配体 I 的强自旋-轨道耦合（λ ≈ 0.5 eV）与异常强的 Ni–I d–p 杂化（t/Δ ≈ 0.33）三者协同的纯电子机制（逆 DM 相互作用）。"
+  }
+ },
+ {
+  "citekey": "gaoStrainEngineeringFerroelectric2024",
+  "title": "\"Strain engineering of ferroelectric polarization and domain in the two-dimensional multiferroic semiconductor\"",
+  "paper_type": "theory",
+  "year": "2024",
+  "concepts": "[ferroelasticity, multiferroicity, strain-engineering, 2d-materials, berry-phase, density-functional-theory, polarization-switching, ferroelastic-ferroelectric-coupling, transformation-strain, domain-wall-electronics, domain-wall]",
+  "entities": "[In2Se3, VASP, WTe2, SnTe, HgBr2, CuInP2S6]",
+  "methods": "[dft, vasp, pbe-gga, paw, berry-phase, ci-neb, first-principles, green-lagrange-strain]",
+  "materials": "[beta-prime-In2Se3, WTe2, HgBr2]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "基于第一性原理计算，提出利用 β'-In₂Se₃ 中铁弹性与铁电性的内禀耦合，通过单轴/剪切应变而非外电场来旋转极化方向、降低相变势垒并可逆切换 60°/180° 畴壁，实现铁电畴的\"应变编程\"。"
+  }
+ },
+ {
+  "citekey": "Gittard2013polymerization",
+  "title": "\"Two-photon polymerization microstructuring in regenerative medicine\"",
+  "paper_type": "review",
+  "year": "2013",
+  "concepts": "[two-photon-polymerization, tissue-engineering, regenerative-medicine, scaffold, vascularization, prevascularization, contact-guidance, mass-transport, extracellular-matrix, voxel, two-photon-absorption, diffraction-limit, rapid-prototyping, stereolithography, multibeam-writing, micromolding-replication, laser-bioprinting, soft-lithography, surface-morphology]",
+  "entities": "[Ormocer, PEGDA, PCL, PLA, BSA, fibrinogen, collagen, fibrin, PEG, PMMA, TORP, hydroxyapatite]",
+  "methods": "[two-photon-polymerization, sem, laser-bioprinting, soft-lithography, micromolding, cell-culture, femtosecond-laser, computer-generated-holography, in-vivo-implantation]",
+  "materials": "[Ormocer, PEGDA, PCL, PLA, BSA, fibrinogen, collagen, fibrin, PEG, PMMA]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "本文是一篇综述，系统梳理了双光子聚合（2PP）凭借超衍射极限分辨率和真三维加工能力，在组织工程支架、微型假体、血管化支架及微创器械等再生医学器件制造中的应用现状与四大未来方向。"
+  }
+ },
+ {
+  "citekey": "gomez-ortizKittelLawDomain2023",
+  "title": "\"Kittel law and domain formation mechanism in PbTiO3/SrTiO3 superlattices\"",
+  "paper_type": "theory",
+  "year": "2023",
+  "concepts": "[kittel-law, polar-vortices, vortex-antivortex-pair, depolarization-field, domain-walls, topological-defects, strain-engineering, multiferroicity, ferroelasticity, polarization-switching, second-principles, superlattice, anharmonic-effects, polarization-waves, topological-charge, kosterlitz-thouless, poincare-hopf-theorem, domain-wall]",
+  "entities": "[PbTiO3, SrTiO3, BiFeO3, SCALE-UP, PHONOPY]",
+  "methods": "[second-principles, dft, monte-carlo-annealing, langevin-md, force-constant-bands, phonon-spectra, born-effective-charges, effective-hamiltonian]",
+  "materials": "[PbTiO3, SrTiO3, PbTiO3-SrTiO3-superlattice]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "用第二性原理模拟首次在具有反向旋转极化涡旋畴壁的 (PbTiO₃)ₙ/(SrTiO₃)ₙ 超晶格中验证 Kittel 定律 ω²∝d，并揭示亚稳态通过界面涡旋-反涡旋对成核、拉长、合并与湮灭（缺陷复合）动态形成新畴的微观机制。"
+  }
+ },
+ {
+  "citekey": "gongAbsenceCriticalThickness2023",
+  "title": "\"Absence of critical thickness for polar skyrmions with breaking the Kittel’s law\"",
+  "paper_type": "experiment",
+  "year": "2023",
+  "concepts": "[density-functional-theory, polarization-switching, strain-engineering, topological-defects, kittels-law, hyperbolic-scaling, polar-vortex, LSMO, depolarization-field, polar-skyrmion, critical-thickness-ferroelectric, phase-field-modeling, topological-charge]",
+  "entities": "[VASP, SrTiO3, PbTiO3]",
+  "methods": "[afm-pfm, berry-phase, dft, phase-field, stm-mbe, tem, xrd]",
+  "materials": [
+   "PbTiO3",
+   "SrTiO3"
+  ],
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "在 (PbTiO₃)ₙ/(SrTiO₃)ₙ 超晶格中首次实验证实极性斯格明子的周期-厚度关系在 h<4 nm 时违反经典 Kittel 定律（d∝√h），改用双曲函数 d=Ah+B/h+C 描述，且斯格明子可在仅 2 个晶胞（约 0.8 nm）厚的 PTO 层中稳定存在，即\"临界厚度缺失\"。"
+  }
+ },
+ {
+  "citekey": "gorkovStrongElectronlatticeCoupling2012",
+  "title": "\"Strong electron-lattice coupling as the mechanism behind charge density wave transformations in transition-metal dichalcogenides\"",
+  "paper_type": "experiment",
+  "year": "2012",
+  "concepts": "[2D-materials, charge-density-wave]",
+  "entities": "[TMDs]",
+  "methods": "[arpes, dft, nmr, tight-binding]",
+  "materials": "[TMDs]",
+  "projects": "[project-5, project-7]",
+  "fields": {
+   "一句话": "提出 TMDC 中 CDW 并非来自费米面嵌套或鞍点奇异性，而是强电子-晶格耦合在单个过渡金属离子处先形成局域双势阱（映射为伊辛自旋），再由弱位点间相互作用在低温下有序化；结构波矢 Q 与费米面尺寸无关，故 CDW 相仍保持金属性，隧道谱中的大能隙对应双势阱深度而非费米能隙。"
+  }
+ },
+ {
+  "citekey": "Goswami2011multiferroic",
+  "title": "\"Multiferroic coupling in nanoscale BiFeO3\"",
+  "paper_type": "experiment",
+  "year": "2011",
+  "concepts": "[multiferroicity, magnetoelectric-coupling, spin-spiral, dzyaloshinskii-moriya-interaction, oxygen-octahedron-rotation, magnetoelastic-coupling, size-effect, strain-engineering, antiferromagnetism, first-order-phase-transition, critical-thickness-ferroelectric]",
+  "entities": "[BiFeO3, Bi2Fe4O9, FullProf, ILL-D20]",
+  "methods": "[powder-xrd, neutron-diffraction, rietveld-refinement, tem-hrtem, dsc-calorimetry, dc-magnetization, point-charge-model]",
+  "materials": "[BiFeO3-nanoparticles]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "通过变温 XRD 与加场中子衍射，首次直接证实约 22 nm 的 BiFeO3 纳米颗粒中仍存在强磁电耦合——极化在 TN 处跃升约 30%、在 5 T 磁场下被抑制约 7%。"
+  }
+ },
+ {
+  "citekey": "guanRecentProgressTwoDimensional2020",
+  "title": "\"Recent Progress in Two‐Dimensional Ferroelectric Materials\"",
+  "paper_type": "review",
+  "year": "2020",
+  "concepts": "[ferroelectricity, polarization-switching, 2d-materials, multiferroicity, magnetoelectric-coupling, berry-phase, spin-orbit-coupling, sliding-ferroelectricity, strain-engineering, ferroelasticity, ferroelectric-tunnel-junction, charge-density-wave, moire-superlattice, dipole-locking, electronic-polarization, depolarization-field, finite-size-effect, intralayer-bonding, interlayer-translation, trimerization, improper-ferroelectricity, ferroelectric-metal, flexoelectricity, ferrovalley, inversion-symmetry-breaking, valleytronics, domain-wall]",
+  "entities": "[In2Se3, WTe2, SnTe, h-BN, TMDs, BiFeO3, VASP, CuInP2S6, MoTe2, MoS2, GeSe, SnS, PZT, BTO]",
+  "methods": "[dft, dft-plus-u, hse, berry-phase, neb, stm, sts, sfm-pfm, vector-pfm, shg, hrtem, ac-stem, raman, xps, mbe, pao-pseudopotential, lj-potential]",
+  "materials": "[SnTe, In2Se3, WTe2, CuInP2S6, d1T-MoTe2, BA2PbCl4, MoS2, h-BN, BiFeO3, GeSe, SnSe, AgBiP2Se6, PZT, BaTiO3, LiOsO3, group-V-monolayer]",
+  "projects": "[project-2, project-4, project-5, project-7]",
+  "fields": {
+   "一句话": "这是一篇系统综述，将二维铁电材料从理论预测、实验证实、表征方法、内在机制（层内键合 vs 层间平移）到器件应用做了完整梳理，并把已被实验证实的二维铁电体锁定为 CuInP₂S₆、α-In₂Se₃、SnTe、WTe₂、d1T-MoTe₂、BA₂PbCl₄ 等六种少数体系。"
+  }
+ },
+ {
+  "citekey": "Gulhare2021mechanoluminescence",
+  "title": "\"Mechanoluminescence Characterization of γ-irradiated Ba3(VO4)2:Eu phosphors\"",
+  "paper_type": "experiment",
+  "year": "2021",
+  "concepts": "[mechanoluminescence, concentration-quenching, radiation-induced-defects, charge-trapping, hole-center, defect-mediated-luminescence, solid-state-lighting, energy-transfer, gamma-irradiation]",
+  "entities": "[Ba3VO4-2, europium-dopant, Co-60, PMT, storage-oscilloscope, JCPDS]",
+  "methods": "[solid-state-reaction, xrd, gamma-irradiation, impact-mechanoluminescence, pmt-oscilloscope, bandpass-filter-spectroscopy]",
+  "materials": "[Ba3VO4-2-Eu, BaCO3, V2O5, Eu2O3]",
+  "projects": "[project-3]",
+  "fields": {
+   "一句话": "首次报道 γ 辐照可在 Ba₃(VO₄)₂:Eu 荧光粉中诱发出以 606 nm 为中心的橙红色机械发光（ML），其强度在 Eu 0.1 mol%、载荷质量增大、γ 剂量约 1.4 kGy 饱和时取得极值，并提出 Eu³⁺/Eu²⁺ 价态转换 + VO₄²⁻ 空穴陷阱的缺陷介导模型。"
+  }
+ },
+ {
+  "citekey": "guoAdvancesTwodimensionalFerroelectric2025",
+  "title": "\"Advances in two-dimensional ferroelectric materials\"",
+  "paper_type": "review",
+  "year": "2025",
+  "concepts": "[2D-materials, berry-phase, density-functional-theory, ferroelectric-tunnel-junction, moire-superlattice, multiferroicity, polarization-switching, sliding-ferroelectricity, spin-orbit-coupling, strain-engineering, topological-defects, domain-wall]",
+  "entities": "[BiFeO3, In2Se3, SnTe, TMDs, WTe2, h-BN]",
+  "methods": "[afm-pfm, berry-phase, device-i-v, dft, md, neb, raman, xanes, xrd]",
+  "materials": "[BiFeO3, In2Se3, SnTe, TMDs, WTe2, domain-wall, h-BN]",
+  "projects": "[project-5]",
+  "fields": {
+   "一句话": "系统综述二维铁电材料两大路径——基于离子位移的自发极化铁电体与基于范德华层间滑移/电荷重分布的滑移铁电体，重点确立\"滑移铁电\"新范式并总结其在非易失存储、光电异异质结、自发光伏及铁电拓扑绝缘体中的应用进展。"
+  }
+ },
+ {
+  "citekey": "H2017fluorescence",
+  "title": "\"Dicyanostilbene-based Two-photon Thermo-solvatochromic Fluorescence Probes with Two-photon Triple Fluorescence\"",
+  "paper_type": "experiment",
+  "year": "2017",
+  "concepts": "[two-photon-absorption, solvatochromism, thermo-solvatochromism, intramolecular-charge-transfer, twisted-intramolecular-charge-transfer, exciplex, locally-excited-state, d-pi-a-architecture, solvent-relaxation, fluorescence-sensing, local-excited-state]",
+  "entities": "[P1, dicyanostilbene, P2, dicyanostilbene-1a, dicyanostilbene-1b, DCS]",
+  "methods": "[steady-state-uv-vis-fluorescence, two-photon-excited-fluorescence, two-photon-cross-section, wittig-horner-synthesis, linear-solvation-energy-relationship]",
+  "materials": "[P1, P2]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "作者通过在二苯乙烯骨架上引入邻/间位双氰基受体和二甲氨基给体，构建了 D-π-A 型分子 P1，实现了 445→641 nm 的超宽溶剂化变色、最高 5560 GM 的双光子吸收截面，并首次在双光子激发下观察到由 LE / TICT / Exciplex 三态构成的三重荧光，可同时传感极性、粘度和温度。"
+  }
+ },
+ {
+  "citekey": "hallEnvironmentalControlCharge",
+  "title": "\"Environmental Control of Charge Density Wave Order in Monolayer 2H-TaS₂\"",
+  "paper_type": "experiment",
+  "year": "2019",
+  "concepts": "[2D-materials, charge-density-wave, density-functional-theory, moire-superlattice, spin-orbit-coupling, constrained-dfpt, quasi-freestanding-monolayer, interlayer-bias, kohn-anomaly, substrate-hybridization, phonon-self-energy]",
+  "entities": "[TMDs, Wannier90, h-BN, TaS2]",
+  "methods": "[arpes, dfpt, dft, mlip, stm-mbe, tight-binding]",
+  "materials": "[TMDs, h-BN]",
+  "projects": "[project-7]",
+  "fields": {
+   "一句话": "在 Gr/Ir(111) 上制备出准自由站立的单层 2H-TaS₂，实验上确认其本征 CDW 为近 3×3（部分能隙 2Δ=32±9 meV），Li 掺杂与双层化均将 CDW 转为 2×2（2Δ≈18 meV）；理论上用 DFT+DFPT+多体微扰的声子自能计算建立\"掺杂–杂化\"相图，阐明掺杂移动失稳波矢、杂化直接淬灭 CDW 这两条独立路径。"
+  }
+ },
+ {
+  "citekey": "hanPolarTopologicalMaterials2025",
+  "title": "\"Polar topological materials and devices: Prospects and challenges\"",
+  "paper_type": "review",
+  "year": "2025",
+  "concepts": "[topological-defects, polarization-switching, ferroelasticity, multiferroicity, strain-engineering, magnetoelectric-coupling, ferroelectric-tunnel-junction, polar-vortex, polar-skyrmion, negative-capacitance, flexoelectricity, vortexon, electric-dmi, topological-charge, flux-closure-domain, meron, solomon-ring, phase-field-modeling, landau-ginzburg, depolarization-field, domain-wall-conduction, chirality, kosterlitz-thouless-transition, domain-wall]",
+  "entities": "[BiFeO3, PbTiO3, SrTiO3, PZT, BaTiO3, PVDF-TrFE, HfO2, AlN, SrRuO3, DyScO3, SmScO3, GdScO3, Bi0.5Na0.5TiO3]",
+  "methods": "[phase-field, landau-ginzburg, first-principles, second-principles, stem, pfm, c-afm, in-situ-tem, rsxd, shg-cd, thz-spectroscopy, pld, self-assembly-growth, 4d-stem, geometric-phase-analysis]",
+  "materials": "[PbTiO3, SrTiO3, BiFeO3, PZT, BaTiO3, PVDF-TrFE, HfO2, Bi0.5Na0.5TiO3]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "从体自由能、静电能、弹性能与梯度能竞争的统一能量视角，系统综述铁电体中通量闭合畴、涡旋、斯格明子、半子、所罗门环、布洛赫点等极性拓扑结构的设计原理、多场（电/力/光/热）操控以及电阻开关、负电容、手性、涡旋子等涌现功能，并提出五大器件化挑战。"
+  }
+ },
+ {
+  "citekey": "hanTunableSlidingFerroelectricity2025",
+  "title": "\"Tunable sliding ferroelectricity in two-dimensional van der Waals RuX2 (X = Cl, Br, and I) multiferroic layers\"",
+  "paper_type": "theory",
+  "year": "2025",
+  "concepts": "[sliding-ferroelectricity, multiferroicity, 2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, strain-engineering, polarization-switching, spin-orbit-coupling, magnetic-anisotropy, stack-engineering, ferrovalley, moire-superlattice, van-der-waals-heterostructure, magnetic-anisotropy-energy]",
+  "entities": "[VASP, RuCl2, RuBr2, RuI2, h-BN, WTe2, In2Se3, TMDs]",
+  "methods": "[dft, dft-plus-u, hse, dft-d2, berry-phase, neb, aimd, phonon-calculation, spin-orbit-coupling]",
+  "materials": "[RuCl2, RuBr2, RuI2]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "基于第一性原理预测二维磁性 RuX₂（X = Cl, Br, I）双层/多层是一类新型多铁滑动铁电体——同向堆叠打破反演对称产生纯电子起源的垂直极化，层间微小滑移即可翻转，且极化可随层数增加与压缩应变显著增强，其中 RuI₂ 综合性能最优。"
+  }
+ },
+ {
+  "citekey": "henkelmanClimbingImageNudged2000c",
+  "title": "\"A climbing image nudged elastic band method for finding saddle points and minimum energy paths\"",
+  "paper_type": "theory",
+  "year": "2000",
+  "concepts": "[nudged-elastic-band, climbing-image-neb, minimum-energy-path, saddle-point, transition-state-theory, potential-energy-surface, rare-events, force-projection, density-functional-theory, harmonic-tst, variable-spring-constant]",
+  "entities": "[VASP, Ir-111, Si-100]",
+  "methods": "[neb, ci-neb, dft, plane-wave, pw91, ultrasoft-pseudopotentials, hTST, projected-velocity-verlet, variable-spring-constants]",
+  "materials": "[CH4, H2, Ir, Si]",
+  "projects": "[project-2, project-4, project-5, project-7]",
+  "fields": {
+   "一句话": "在常规 NEB 基础上，将能量最高图像的势能力沿弹性带切线方向的分量反转，使该图像自动\"攀登\"至一阶鞍点，并辅以随能量线性变化的可变弹簧常数加密鞍点附近图像，从而以几乎零额外成本精确给出活化能。"
+  }
+ },
+ {
+  "citekey": "heSwitchingTwodimensionalSliding2025",
+  "title": "\"Switching Two-Dimensional Sliding Ferroelectrics by Mechanical Bending\"",
+  "paper_type": "theory",
+  "year": "2025",
+  "concepts": "[2D-materials, berry-phase, ferroelasticity, machine-learning-potential, polarization-switching, sliding-ferroelectricity, strain-engineering, topological-defects, domain-wall]",
+  "entities": "[In2Se3, TMDs, VASP, WTe2, Wannier90, h-BN]",
+  "methods": "[berry-phase, dft, mlip, neb]",
+  "materials": "[In2Se3, TMDs, WTe2, domain-wall, h-BN]",
+  "projects": "[project-5]",
+  "fields": {
+   "一句话": "用机器学习势模拟发现，机械弯曲会在二维双层（h-BN、3R-MoS₂、双层石墨烯）中诱导不可逆\"扭结\"，扭结即铁电拓扑畴壁，可反转滑动铁电极化，其机制是弯曲能与层间堆垛能的竞争，区别于传统挠曲电效应。"
+  }
+ },
+ {
+  "citekey": "heUltrafastSwitchingDynamics2024",
+  "title": "\"Ultrafast switching dynamics of the ferroelectric order in stacking-engineered ferroelectrics\"",
+  "paper_type": "theory",
+  "year": "2024",
+  "concepts": "[2D-materials, berry-phase, density-functional-theory, machine-learning-potential, moire-superlattice, polarization-switching, sliding-ferroelectricity, strain-engineering, super-paraelectricity, topological-defects, domain-wall]",
+  "entities": "[VASP, deep-potential, h-BN]",
+  "methods": "[berry-phase, dft, mlip]",
+  "materials": "[deep-potential, h-BN]",
+  "projects": "[project-4, project-5]",
+  "fields": {
+   "一句话": "基于DFT数据训练深度势能（DP）机器学习势，对h-BN双层中铁电畴壁进行大规模原子模拟，揭示畴壁运动将临界翻转场降低两个数量级、实现皮秒级翻转，并阐明扭转莫尔结构的超顺电本质。"
+  }
+ },
+ {
+  "citekey": "hillWhyAreThere2000a",
+  "title": "\"Why Are There so Few Magnetic Ferroelectrics?\"",
+  "paper_type": "theory",
+  "year": "2000",
+  "concepts": "[berry-phase, density-functional-theory, ferroelasticity, magnetoelectric-coupling, multiferroicity, jahn-teller-distortion, geometric-ferroelectricity, d0-rule, stereochemically-active-lone-pair, electronic-ferroelectricity, soft-mode-theory]",
+  "entities": "[BiFeO3, HoMnO3, YMnO3, BiMnO3, LaMnO3]",
+  "methods": "[berry-phase, dft, tight-binding]",
+  "materials": "[BiFeO3, HoMnO3]",
+  "projects": "[project-2]",
+  "fields": {
+   "一句话": "通过第一性原理计算提出制约铁磁/铁电共存的\"d0规则\"——B位过渡金属离子的d电子占据会抑制偏心铁电畸变，并以BiMnO3和YMnO3为例阐明化学（孤对电子）与结构（六方配位）两条破局路径。"
+  }
+ },
+ {
+  "citekey": "houStrainbasedRoomtemperatureNonvolatile2019",
+  "title": "\"Strain-based room-temperature non-volatile MoTe2 ferroelectric phase change transistor\"",
+  "paper_type": "experiment",
+  "year": "2019",
+  "concepts": "[2D-materials, ferroelasticity, polarization-switching, strain-engineering]",
+  "entities": "[TMDs]",
+  "methods": "[afm-pfm, device-i-v, raman, tem, xanes]",
+  "materials": "[TMDs]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "首次在三端FET结构中，用铁电体PMN-PT产生的电场诱导应变（而非电场本身）驱动1T′-MoTe2在半金属相与半导体相之间室温可逆、非易失地切换，实现 G_on/G_off ≈ 10^7 的开关比，开辟\"应变电子学（straintronics）\"新范式。"
+  }
+ },
+ {
+  "citekey": "Huang2019solvatochromic",
+  "title": "\"Stilbene-Based Two-Photon Thermo-Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature\"",
+  "paper_type": "experiment",
+  "year": "2019",
+  "concepts": "[solvatochromism, two-photon-absorption, two-photon-fluorescence, intramolecular-charge-transfer, twisted-intramolecular-charge-transfer, exciplex, local-excited-state, donor-pi-acceptor, push-pull-chromophore, thermochromism, viscosity-sensing, fluorescence-quantum-yield, lippert-mataga, solvent-polarity-scales, triple-fluorescence]",
+  "entities": "[stilbene, DCS, dicyanostilbene-1a, dicyanostilbene-1b, dimethylamino, diphenylamino, cyano-group, glycerol, DMSO, fluorescein, quinine-bisulfate]",
+  "methods": "[uv-vis-spectroscopy, fluorescence-spectroscopy, two-photon-excited-fluorescence, tpa-cross-section-measurement, nmr-spectroscopy, mass-spectrometry, wittig-horner-reaction, solvent-polarity-correlation]",
+  "materials": "[P1, P2, DCS]",
+  "projects": "[project-1, project-6]",
+  "fields": {
+   "一句话": "在二苯乙烯单芳环上同时引入邻/间位双氰基与二甲氨基，构建出 D-π-A 型探针 P1，其发射峰随溶剂极性从 445 nm 红移至 641 nm（≈196 nm），双光子吸收截面最高达 6670 GM，并首次在双光子激发下观察到 LE/TICT/Exciplex 三重荧光，可同时响应极性、粘度和温度。"
+  }
+ },
+ {
+  "citekey": "Huang2023two",
+  "title": "\"Two Dicyanostilbene-Based Two-Photon Fluorescence Environmentally Sensitive Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence\"",
+  "paper_type": "experiment",
+  "year": "2023",
+  "concepts": [
+   "solvatochromism",
+   "two-photon-absorption-cross-section",
+   "exciplex",
+   "triple-fluorescence",
+   "donor-acceptor-push-pull",
+   "twisted-intramolecular-charge-transfer"
+  ],
+  "entities": [
+   "dicyanostilbene-1a"
+  ],
+  "methods": "[dft, nmr, spectroscopy]",
+  "materials": [
+   "dicyanostilbene-1a",
+   "dicyanostilbene-1b"
+  ],
+  "projects": "[project-1]",
+  "fields": {
+   "一句话": "在二苯乙烯骨架的单个苯环上引入 2,5-二氰基受体搭配强给体二甲氨基，得到溶剂化显色位移达 196 nm、双光子吸收截面高达 5560 GM 的探针 1a，并首次在双光子激发下观察到由 LE / TICT / 分子间激基复合物构成的三重荧光。"
+  }
+ },
+ {
+  "citekey": "huangPolarPhaseDomain2019",
+  "title": "\"Polar and phase domain walls with conducting interfacial states in a Weyl semimetal MoTe2\"",
+  "paper_type": "experiment",
+  "year": "2019",
+  "concepts": "[domain-walls, topological-defects, weyl-semimetal, higher-order-topology, polar-metal, ferroelectricity, polarization-switching, sliding-ferroelectricity, structural-phase-transition, first-order-transition, spin-orbit-coupling, berry-phase, density-functional-theory, 2d-materials, hinge-state, fermi-arc, domain-wall]",
+  "entities": "[TMDs, MoTe2, WTe2, VASP, PHONOPY]",
+  "methods": "[dft, dft-plus-u, phonon-finite-difference, group-theory-analysis, df-tem, haadf-stem, in-situ-cryo-tem, stm-sts, four-probe-transport, flux-growth, electron-beam-manipulation]",
+  "materials": "[MoTe2, Fe-doped-MoTe2]",
+  "projects": "[project-5, project-2, project-7]",
+  "fields": {
+   "一句话": "利用原位低温 TEM/STEM 与 STM 结合第一性原理计算，首次在极性 Weyl 半金属 MoTe₂ 中实验揭示 Td↑/Td↓ 极性畴壁与 Td/1T′ 相畴壁（后者自组装为沿 c 轴的类超晶格），演示电子束可逆操控极性畴壁，并在相畴壁处探测到可能对应高阶拓扑铰链态的增强电导。"
+  }
+ },
+ {
+  "citekey": "huangTwodimensionalIn2Se3Rising2022",
+  "title": "\"Two-dimensional In2Se3: A rising advanced material for ferroelectric data storage\"",
+  "paper_type": "review",
+  "year": "2022",
+  "concepts": "[ferroelectricity, polarization-switching, 2D-materials, multiferroicity, magnetoelectric-coupling, ferroelectric-tunnel-junction, machine-learning-potential, depolarization-field, phase-change-type-ferroelectrics, re-bonding-mechanism, mexican-hat-pes, dipole-locking, entropy-barrier, shear-phonon-mode, in-memory-computing, neuromorphic-computing, schottky-barrier, domain-wall-motion, domain-wall]",
+  "entities": "[In2Se3, BiFeO3, h-BN, TMDs, SnTe, graphene, HfO2, SiO2, PVDF-TrFE, CuInP2S6, FeFET, FeS-FET, FeCT, FSJ, ferroelectric-memristor]",
+  "methods": "[dft, first-principles, molecular-dynamics, ab-initio-md, neb, phonon-spectrum, phonon-projection, pfm, afm-pfm, shg, leem-leed, stem-saed, raman, stm, kpfm, sem, cvd, mbe, mechanical-exfoliation, vdw-epitaxy, colloidal-synthesis, device-i-v, ald]",
+  "materials": "[In2Se3, alpha-In2Se3, beta-In2Se3, beta0-In2Se3, graphene, h-BN, HfO2, SiO2, BiFeO3, CuInP2S6, SnTe, PVDF-TrFE]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "系统综述二维 In2Se3 的 α/β 相原子结构、\"再成键\"铁电翻转机制（含墨西哥帽势能面、IP-OOP 偶极锁定、剪切声子模式与熵垒），以及 FeFET/FeS-FET/FSJ/FeCT 等原型存储与神经形态器件的最新进展。"
+  }
+ },
+ {
+  "citekey": "huProgressProspectsLowdimensional2019",
+  "title": "\"Progress and prospects in low‐dimensional multiferroic materials\"",
+  "paper_type": "review",
+  "year": "2019",
+  "concepts": "[2D-materials, berry-phase, density-functional-theory, ferroelasticity, ferroelectric-tunnel-junction, magnetoelectric-coupling, moire-superlattice, multiferroicity, polarization-switching, sliding-ferroelectricity, spin-orbit-coupling, strain-engineering, topological-defects, domain-wall]",
+  "entities": "[BiFeO3, In2Se3, MXenes, PbTe, SnTe, SrMnO3, TMDs, VASP, WTe2, h-BN]",
+  "methods": "[afm-pfm, berry-phase, device-i-v, dft, stm-mbe]",
+  "materials": "[BiFeO3, In2Se3, MXenes, PbTe, SnTe, SrMnO3, TMDs, WTe2, domain-wall, h-BN]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "系统综述近十余年二维范德华铁电/多铁材料的理论预测与实验突破，将低维铁电性归纳为\"本征—诱导—钙钛矿反常\"三条路径，并把低维多铁性归纳为化学功能化、异质结堆叠、超铁电金属、Jahn-Teller 畸变、第二类磁致多铁等设计策略。"
+  }
+ },
+ {
+  "citekey": "Inosov2008fermi",
+  "title": "\"Fermi surface nesting in several transition metal dichalcogenides\"",
+  "paper_type": "experiment",
+  "year": "2008",
+  "concepts": "[charge-density-wave, 2D-materials, fermi-surface-nesting, lindhard-function, peierls-transition, van-hove-singularity, kohn-anomaly, electron-phonon-coupling, incommensurate-order, rigid-band-approximation, pseudogap]",
+  "entities": "[TMDs, TaSe2, NbSe2, CuxNbS2]",
+  "methods": "[arpes, tight-binding, lindhard-function]",
+  "materials": "[2H-TaSe2, 2H-NbSe2, Cu0.2NbS2]",
+  "projects": "[project-7]",
+  "fields": {
+   "一句话": "用高分辨 ARPES 配合紧束缚模型精确计算 Lindhard 函数，证实 2H-TaSe₂、2H-NbSe₂、Cu₀.₂NbS₂ 中费米面嵌套矢量位于 ~0.60 ΓM（非公度、普适），且嵌套峰强度与 T_CDW 无正相关，从而把 CDW 研究重点引向电子-声子耦合。"
+  }
+ },
+ {
+  "citekey": "Islam2025enhancement",
+  "title": "\"Pressure-induced enhancement of superfluid density in transition metal dichalcogenides with and without charge density wave\"",
+  "paper_type": "experiment",
+  "year": "2025",
+  "concepts": "[2D-materials, charge-density-wave, strain-engineering, bec-bcs-crossover, muon-spin-rotation, two-gap-superconductivity, uemura-relation, superfluid-density, electron-phonon-coupling]",
+  "entities": "[TMDs, NbS2, NbSe2]",
+  "methods": "[muon-sr]",
+  "materials": "[TMDs]",
+  "projects": "[project-5, project-7]",
+  "fields": {
+   "一句话": "用高压 μSR 证明 TMD 中超流密度在压力下大幅增强（4H-NbSe₂ 达 75%），且无 CDW 的 2H-NbS₂ 也增强 20%、超导能隙几乎不变，从而把\"压力增强超导\"从\"压制 CDW 释放态密度\"的简单竞争图像中解放出来，并把 TMDs 纳入铜氧化物/铁基/笼目体系共有的 Uemura 非常规标度律。"
+  }
+ },
+ {
+  "citekey": "Ismail2015humidity",
+  "title": "\"Humidity Sensor - A Review of Nanostructured Zinc Oxide (ZnO) - Based Humidity Sensor\"",
+  "paper_type": "review",
+  "year": "2015",
+  "concepts": "[humidity-sensing-mechanism, donor-effect, depletion-layer, sol-gel-method, nanostructured-metal-oxide, band-gap, sensor-electrode-configuration, adsorption-desorption, capacitive-sensor, resistive-sensor, hysteresis, adsorption-desorption-hysteresis, mesoporous-metal-oxide]",
+  "entities": "[ZnO, SnO2, TiO2, Al-doped-ZnO, Sn-doped-ZnO, Ga-doped-ZnO, QCM, interdigitated-electrode, labyrinth-electrode, castellated-electrode, circle-electrode]",
+  "methods": "[literature-review, sol-gel, hydrothermal-growth, hydrolyzation-method, qcm, dielectrophoresis, capacitive-measurement]",
+  "materials": "[ZnO, Sn-doped-ZnO, Al-doped-ZnO, Ga-doped-ZnO, ZnO-TiO2-core-shell, SnO2-SiO2-composite, porous-anodic-aluminum-oxide, SiCN-ceramic, LaFeO3]",
+  "projects": "[project-6]",
+  "fields": {
+   "一句话": "本文是一篇面向初学者的短篇综述，系统梳理了纳米结构 ZnO 作为湿度敏感材料的核心机理（水分子\"施主效应\"调制耗尽层电阻）、四种典型纳米形貌（团簇/棒/片/线）、Sn/Al 掺杂的利弊权衡以及四种金属电极构型（叉指/迷宫/城堡/圆形），并指出迷宫式电极在电容式湿度传感器中灵敏度最高。"
+  }
+ },
+ {
+  "citekey": "ivanovskiOscillationStructureHall1994",
+  "title": "\"The oscillation structure of the Hall current in the presence of a contact surface\"",
+  "paper_type": "theory",
+  "year": "1994",
+  "concepts": "[landau-quantization, avoided-crossing, quantum-tunneling, quantum-transport, hall-effect, resonant-tunneling, landau-zener-transition, neumann-wigner-noncrossing, parabolic-cylinder-functions, resonant-underbarrier-interaction, neumann-wigner-theorem]",
+  "entities": "[]",
+  "methods": "[analytical-derivation, numerical-solution, schrodinger-equation, variable-separation, parabolic-cylinder-functions, feynman-hellmann-theorem]",
+  "materials": "[]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "在两种磁导率不同的介质接触面引入δ函数势垒后，两侧准朗道态通过共振欠势垒相互作用产生能级避免交叉，并直接导致霍尔电流的振荡与方向翻转。"
+  }
+ },
+ {
+  "citekey": "Jia2023polymerization",
+  "title": "\"Two-photon polymerization of femtosecond high-order Bessel beams with aberration correction\"",
+  "paper_type": "experiment",
+  "year": "2023",
+  "concepts": "[two-photon-polymerization, aberration-correction, bessel-beams, high-order-bessel-beams, orbital-angular-momentum, adaptive-optics, wavefront-sensing, optical-vortex, diffraction-free-beam, photopolymerization, self-healing-beam, complex-amplitude-modulation, bessel-beam]",
+  "entities": "[spatial-light-modulator, BBO-crystal, SU-8, CCD-camera, Holoeye-PLUTO, Olympus-20x-objective, ZEISS-Gemini-300, femtosecond-fiber-laser, mechanical-shutter, ND-filter]",
+  "methods": "[multichannel-interferometric-wavefront-sensing, two-photon-polymerization, scanning-electron-microscopy, angular-spectrum-method, computer-generated-hologram, blazed-grating-diffraction, phase-only-modulation, fourier-spectrum-imaging, circularity-analysis]",
+  "materials": "[SU-8-2075, cyclopentanone]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "用单个纯相位 SLM 将多通道干涉波前传感原位集成到飞秒 2PP 系统中，无需泽尼克/Gerchberg–Saxton 等复杂算法即可补偿超过 4π 的系统像差，使高阶贝塞尔光束（m=6）恢复近理想形态，并快速制造出高圆度、壁厚均匀、无倒塌的 SU-8 微管阵列。"
+  }
+ },
+ {
+  "citekey": "Jin2015studying",
+  "title": "\"Studying the Polarization Switching in Polycrystalline BiFeO3 Films by 2D Piezoresponse Force Microscopy\"",
+  "paper_type": "experiment",
+  "year": "2015",
+  "concepts": "[polarization-switching, multiferroicity, magnetoelectric-coupling, ferroelasticity, strain-engineering, density-functional-theory, piezoelectric-response, polycrystalline-ferroelectrics, charge-migration-energy, domain-wall]",
+  "entities": "[BiFeO3, PFM, first-principles-piezoelectric-tensor]",
+  "methods": "[pfm, 2d-pfm, first-principles, dft, euler-angle-rotation, numerical-inversion, mod-film-growth, xrd]",
+  "materials": "[BiFeO3, Pt-Ti-SiO2-Si]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "开发了一套从二维 PFM（OP+IPx）信号反演随机取向多晶 BiFeO₃ 晶粒三维极化翻转角的数值方法，定量给出 71°/109°/180° 翻转面积占比（42%/29%/29%），并建立\"电荷迁移能 vs 面内应力能\"竞争模型解释翻转路径选择。"
+  }
+ },
+ {
+  "citekey": "Johannes2008fermi",
+  "title": "\"Fermi surface nesting and the origin of charge density waves in metals\"",
+  "paper_type": "theory",
+  "year": "2008",
+  "concepts": "[2D-materials, charge-density-wave, density-functional-theory, spin-orbit-coupling, fermi-surface-nesting, hidden-nesting, electron-phonon-coupling, electronic-susceptibility, incommensurate-lattice-transition, peierls-instability]",
+  "entities": "[TMDs, VASP, WIEN2k, TaSe2, NbSe2]",
+  "methods": "[arpes, dft, tight-binding]",
+  "materials": "[TMDs]",
+  "projects": "[project-5, project-7]",
+  "fields": {
+   "一句话": "通过理论推导与 NbSe₂、TaSe₂、CeTe₃ 及 Na 原子链的第一性原理计算，系统证明费米面嵌套（FS nesting）不是真实材料中 CDW 的驱动力，CDW 本质上是由动量依赖的电子-声子耦合驱动的结构相变。"
+  }
+ },
+ {
+  "citekey": "junqueraCriticalThicknessFerroelectricity2003",
+  "title": "\"Critical thickness for ferroelectricity in perovskite ultrathin films\"",
+  "paper_type": "theory",
+  "year": "2003",
+  "concepts": "[density-functional-theory, berry-phase, strain-engineering, polarization-switching, ferroelectric-tunnel-junction, critical-thickness, depolarizing-field, screening-length, soft-mode, spontaneous-polarization, ferroelectricity, short-circuit-boundary]",
+  "entities": "[SnTe, SIESTA, BaTiO3, SrRuO3, SrTiO3]",
+  "methods": "[dft, lda, berry-phase, numerical-atomic-orbital, supercell, soft-mode-analysis, electrostatic-model]",
+  "materials": "[BaTiO3, SrRuO3, SrTiO3]",
+  "projects": "[project-5]",
+  "fields": {
+   "一句话": "用包含真实 SrRuO₃ 电极的第一性原理超胞计算首次证明，短路 BaTiO₃ 铁电薄膜在约 6 个晶胞（~24 Å）以下因电极不完全屏蔽产生的退极化场er 丧失铁电性，确立了铁电器件微缩的静电学极限。"
+  }
+ },
+ {
+  "citekey": "Kang2012dimer",
+  "title": "\"Dimer impurity scattering, reconstructed Fermi-surface nesting, and density-wave diagnostics in iron pnictides\"",
+  "paper_type": "theory",
+  "year": "2012",
+  "concepts": "[charge-density-wave, fermi-surface-nesting, pocket-density-wave, quasiparticle-interference, reconstructed-nesting, nematic-order, orbital-content, c4-symmetry-breaking, spin-density-wave, antiferromagnetism]",
+  "entities": "[iron-pnictides]",
+  "methods": "[analytic-model, three-orbital-model, feynman-diagrams, green-function, t-matrix, susceptibility-calculation, ldos-simulation]",
+  "materials": "[iron-pnictides, cobalt-dopant]",
+  "projects": "[project-7, project-2]",
+  "fields": {
+   "一句话": "提出\"重构嵌套\"概念，将铁基超导体中钴杂质周围的 STM 二聚体共振解释为口袋密度波（PoDW）序导致的费米面重构与轨道选择性各向异性，并论证此类纳米结构可作为诊断隐藏密度波序的工具。"
+  }
+ },
+ {
+  "citekey": "kaurRecentAdvancesTheoretical2025a",
+  "title": "\"Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials\"",
+  "paper_type": "review",
+  "year": "2025",
+  "concepts": "[sliding-ferroelectricity, multiferroicity, magnetoelectric-coupling, berry-phase, spin-orbit-coupling, 2d-materials, density-functional-theory, polarization-switching, moire-superlattice, strain-engineering, ferroelasticity, machine-learning-potential, topological-defects, altermagnetism, dynamical-multiferroicity, rashba-effect, spin-hall-effect, quantum-anomalous-hall-effect, born-effective-charge, first-order-phase-transition, peierls-dimerization, charge-transfer, orbital-distortion, across-layer-sliding-ferroelectricity, rashba-spin-texture, polarization-registry-index, layer-polarized-spin-hall-effect, charge-density-wave, first-order-ferroelectric-transition, domain-wall]",
+  "entities": "[h-BN, TMDs, WTe2, VASP, Wannier90, Fe3GeTe2, CrTe2, SnTe, MnBi2Te4, CrI3, Cr2Ge2Te6, MnSe, VS2, ZrI2, ReS2, MoSi2N4, HgI2, CuInP2S6, BaTiO3, SnS, NbI4, graphene, benzene, MnPSe3, MoTe2, MoS2, PtBr3, VI2, GaN, GeC, InN, MXenes, deep-potential, In2Se3, graphene-tetralayer]",
+  "methods": "[dft, berry-phase, neb, dfpt, md, mlip, aimd, soc, wannier, gw, tight-binding, group-theory, landau-ginzburg, ising-model, kubo-formula, deam-framework, td-dft, gga-pbe, hubbard-u, phonons]",
+  "materials": "[h-BN, WTe2, MoS2, MoTe2, WS2, MoSi2N4, HgI2, GeS2-CuInP2S6, graphene, BaTiO3, SnS, NbI4, VS2, VSe2, ZrI2, MnBi2Te4, CrI3, Cr2Ge2Te6, Fe3GeTe2, MnSe, VI2, CrI3-MnSe2, SnS2-MnPSe3, PtBr3, ReS2, MoGe2N4, GaN, GeC, InN, AlN, SiC, BP, BSb, benzene]",
+  "projects": "[project-2, project-4, project-5, project-7]",
+  "fields": {
+   "一句话": "系统综述二维/层状范德华材料中\"滑动铁电性\"的第一性原理理论框架——从电荷转移/轨道畸变起源、DFT+Berry-phase+NEB 计算流程、应变/电场/激光/层数调控，到与磁性、拓扑、交变磁性、铁弹性的耦合及连续介质热力学一级相变图像。"
+  }
+ },
+ {
+  "citekey": "kawakamiChargedensityWaveAssociated2023",
+  "title": "\"Charge-density wave associated with higher-order Fermi-surface nesting in monolayer VS2\"",
+  "paper_type": "experiment",
+  "year": "2023",
+  "concepts": "[charge-density-wave, fermi-surface-nesting, peierls-instability, electron-phonon-coupling, pseudogap, mass-renormalization, van-hove-singularity, 2D-materials]",
+  "entities": "[TMDs, graphene, SiC]",
+  "methods": "[mu-arpes, stm, mbe, dft, rheed, fft, topotactic-reaction, phonon-dispersion, electronic-susceptibility]",
+  "materials": "[VS2, VTe2, VSe2]",
+  "projects": "[project-7]",
+  "fields": {
+   "一句话": "在单层1T-VS₂中发现周期为 √21 R10.9° × √3 R30° 的条纹状CDW，并在整个费米面上打开各向异性能隙，提出该CDW由常规嵌套矢量 q 与高阶嵌套矢量 2q 协同驱动，得到电子极化率增强与声子虚频计算的支持。"
+  }
+ },
+ {
+  "citekey": "khazaeiNovelElectronicMagnetic2013",
+  "title": "\"Novel Electronic and Magnetic Properties of Two-Dimensional Transition Metal Carbides and Nitrides\"",
+  "paper_type": "theory",
+  "year": "2013",
+  "concepts": "[2d-materials, density-functional-theory, electron-counting-rule, strain-engineering, surface-functionalization, ferromagnetism, thermoelectricity, boltzmann-transport, max-phase, phonon-stability]",
+  "entities": "[MXenes, VASP, BoltzTrap, MAX-phases, Ti2CO2, Sc2CF2, Sc2CO2, Cr2C, Cr2N]",
+  "methods": "[dft, gga-pbe, paw, first-principles, spin-polarized-dft, formation-energy, phonon-dispersion, band-structure, dos, boltzmann-transport, boltztrap]",
+  "materials": "[MXenes, Ti2C, Sc2C, Zr2C, Hf2C, Cr2C, Cr2N, Ti2CO2, Sc2CF2, Sc2C-OH-2, Sc2CO2, Zr2CO2, Hf2CO2]",
+  "projects": "[project-2, project-4]",
+  "fields": {
+   "一句话": "本文用第一性原理系统计算了 F/OH/O 表面功能化的 M₂C/M₂N 型 MXene，提出\"电子计数规则\"解释金属-半导体转变，预测了 Sc/Ti/Zr/Hf 基半导体 MXene、Cr 基铁磁 MXene 以及低温下 >1000 μV/K 的巨塞贝克系数。"
+  }
+ },
+ {
+  "citekey": "Khitrov2000holographic",
+  "title": "\"Holographic Two-Photon Polymerization Increases Speed of Switchable Gratings\"",
+  "paper_type": "experiment",
+  "year": "2000",
+  "concepts": "[two-photon-absorption, nonlinear-absorption, photopolymerization, holographic-grating, polymer-phase-separation, refractive-index-modulation]",
+  "entities": "[DPHPA, E7-liquid-crystal, bis-diphenylamino-diphenyl-hexatriene, N-vinyl-pyrrolidinone, ITO-glass]",
+  "methods": "[h-tpip, two-photon-polymerization, holographic-lithography, femtosecond-laser-fabrication, free-radical-initiation, polarized-transmission-microscopy, low-voltage-sem]",
+  "materials": "[DPHPA, E7-nematic-LC, bis-diphenylamino-diphenyl-hexatriene-initiator, N-vinyl-pyrrolidinone]",
+  "projects": "[project-1]",
+  "fields": {
+   "一句话": "利用飞秒激光的双光子非线性吸收，在 DPHPA/液晶 E7 混合体系中实现全息双光子诱导光聚合（H-TPIP），将液晶相分离畴尺寸压缩到 20–200 nm（约为传统单光子法的 1/3），显著提升可电控切换衍射光栅的结构精度与开关速度，并展示了在透明固体内部直写三维光学元件的潜力。"
+  }
+ },
+ {
+  "citekey": "Khitrov2002internal",
+  "title": "\"Internal Defects Observed by Two-Photon-Induced Photoluminescence\"",
+  "paper_type": "experiment",
+  "year": "2002",
+  "concepts": "[two-photon-excitation, photoluminescence-mapping, vls-growth, nanowire-superlattice, spherical-aberration, rare-earth-doping, lateral-integration]",
+  "entities": "[ZnSe, GaN, carbon-nanotube, Si-SiGe-nanowire, Ti-sapphire-laser, PMMA]",
+  "methods": "[two-photon-microscopy, photoluminescence-imaging, pulsed-laser-ablation, vls-growth, e-beam-lithography, afm-nanomechanics, electroluminescence]",
+  "materials": "[ZnSe, GaN, Si-SiGe, carbon-nanotube]",
+  "projects": "[project-1]",
+  "fields": {
+   "一句话": "报道了利用飞秒钛宝石激光双光子激发在多晶 ZnSe 内部 200 μm 深度实现三维缺陷光致发光成像（同期栏目还介绍了 Si/SiGe 超晶格纳米线、单根碳纳米管悬浮、稀土掺杂 GaN 横向颜色集成三项进展）。"
+  }
+ },
+ {
+  "citekey": "Kim2008effect",
+  "title": "\"Effect of epitaxial strain on ferroelectric polarization in multiferroic BiFeO3 films\"",
+  "paper_type": "experiment",
+  "year": "2008",
+  "concepts": "[strain-engineering, multiferroicity, polarization-switching, lone-pair-electrons, epitaxial-strain, kay-dunn-scaling, antiferromagnetism, geometric-projection, ferroelectric-hysteresis]",
+  "entities": "[BiFeO3, SrTiO3, SrRuO3, BaTiO3, PZT]",
+  "methods": "[pld, hrxrd, rsm, squid-magnetometry, pe-hysteresis, first-principles]",
+  "materials": "[BiFeO3, SrTiO3, SrRuO3, BaTiO3, PZT]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "通过厚度梯度（40–960 nm）系统证明 BiFeO₃ 薄膜从高应变四方相（c/a≈1.04）弛豫到近菱形相（c/a≈1.01）时，沿伪立方 [111] 的本征铁电极化仅变化 1.6%，所测 Pr 的微弱变化主要源于极化矢量随 c/a 比的几何旋转，揭示孤对电子驱动铁电性对外延应变的本征不敏感性。"
+  }
+ },
+ {
+  "citekey": "kimObservationPhaseTransition1997",
+  "title": "\"Observation of a phase transition from the T phase to the H phase induced by a STM tip in 1T-TaS₂\"",
+  "paper_type": "experiment",
+  "year": "1997",
+  "concepts": "[charge-density-wave, 2d-materials, polytypism, tip-induced-phase-transition, coherent-layer-sliding, phase-boundary, sliding-ferroelectricity, topological-defects, stm-topography]",
+  "entities": "[TMDs, 1T-TaS2, 2H-TaS2, 2H-TaSe2, Pt-Ir-tip]",
+  "methods": "[uhv-stm, constant-current-stm, stm-voltage-pulse, stm-topography, iodine-vapor-transport]",
+  "materials": "[1T-TaS2, 2H-TaS2]",
+  "projects": "[project-7]",
+  "fields": {
+   "一句话": "室温下用 STM 针尖施加 −10 V 短脉冲，在 1T-TaS₂ 表面诱导出 T→H 的晶-晶相变，并通过相界处原子行的分数倍错位证明其机制是表层 S 原子层沿 [112̄0] 方向整体相干滑移 (√3/3)a₀。"
+  }
+ },
+ {
+  "citekey": "king-smithTheoryPolarizationCrystalline1993",
+  "title": "\"Theory of polarization of crystalline solids\"",
+  "paper_type": "theory",
+  "year": "1993",
+  "concepts": "[berry-phase, berry-connection, modern-polarization-theory, wannier-function, born-effective-charge, polarization-quantum, piezoelectricity, polarization-switching, density-functional-theory, ferroelectricity]",
+  "entities": "[GaAs, VASP, Wannier90, Quantum-ESPRESSO]",
+  "methods": "[dft, berry-phase, lda, pseudopotential, monkhorst-pack, dfpt-linear-response]",
+  "materials": "[GaAs]",
+  "projects": "[project-5, project-2]",
+  "fields": {
+   "一句话": "本文证明晶体的电极化变化量 ΔP 等于价带波函数贝里相位之差，物理上等价于 Wannier 函数电荷中心的位移，从而奠定了沿用至今的\"现代极化理论\"及其第一性原理数值算法。"
+  }
+ },
+ {
+  "citekey": "Koley2020charge",
+  "title": "\"Charge density wave and superconductivity in transition metal dichalcogenides\"",
+  "paper_type": "theory",
+  "year": "2020",
+  "concepts": "[charge-density-wave, superconductivity, 2d-materials, density-functional-theory, strong-coupling, excitonic-condensation, anderson-theorem, fermi-surface-nesting, competing-orders, disorder-engineering, bad-metal, coherence-length, preformed-excitons, exciton-condensation]",
+  "entities": "[TMDs, TaSe2, TaS2, TiSe2, WIEN2k]",
+  "methods": "[bdg, dft, dmft, dft-plus-dmft, monte-carlo, mo-ipt, mean-field]",
+  "materials": "[2H-TaSe2, TaSe2-xSx, 2H-TaS2, 1T-TiSe2, 1T-TaS2]",
+  "projects": "[project-7]",
+  "fields": {
+   "一句话": "用实空间自洽 BdG 与动量空间 DFT+DMFT 两套互补计算证明，非磁性无序（尤其是团簇无序）通过破坏 CDW 的长程相干/预成型激子凝聚而释放被压制的 s 波超导，解释了 TaSe₂₋ₓSₓ 合金中超导重入并增强的实验现象。"
+  }
+ },
+ {
+  "citekey": "Kotz2021polymerization",
+  "title": "\"Two-Photon Polymerization of Nanocomposites for the Fabrication of Transparent Fused Silica Glass Microstructures\"",
+  "paper_type": "experiment",
+  "year": "2021",
+  "concepts": "[two-photon-polymerization, nanocomposite-resin, photopolymerization, debinding, sintering, fused-silica-glass, submicron-resolution, micro-optics, shrinkage, transparent-ceramics]",
+  "entities": "[Nanoscribe, Glassomer]",
+  "methods": "[two-photon-polymerization, femtosecond-laser-writing, thermal-debinding, high-temperature-sintering, sem, optical-transmission-measurement]",
+  "materials": "[fused-silica, silica-nanoparticles, photocurable-resin]",
+  "projects": "[project-1]",
+  "fields": {
+   "一句话": "把含二氧化硅纳米颗粒的光敏复合树脂用于双光子聚合直写，再经热脱脂和高温烧结，首次获得亚微米分辨率的透明熔融石英玻璃三维微结构。"
+  }
+ },
+ {
+  "citekey": "kresseEfficiencyAbinitioTotal1996a",
+  "title": "\"Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set\"",
+  "paper_type": "theory",
+  "year": "1996",
+  "concepts": "[density-functional-theory]",
+  "entities": "[VASP]",
+  "methods": "[dft]",
+  "materials": "[]",
+  "projects": "[project-2, project-4, project-5]",
+  "fields": {
+   "一句话": "系统提出并基准验证了以 RMM-DIIS 迭代对角化 + Pulay/Kerker 电荷密度混合 + Methfessel-Paxton 展宽为核心的自洽循环算法框架，奠定了 VASP（前身 VAMP）高效率求解金属与半导体 Kohn-Sham 基态的方法学基石。"
+  }
+ },
+ {
+  "citekey": "kresseEfficientIterativeSchemes1996d",
+  "title": "\"Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set\"",
+  "paper_type": "theory",
+  "year": "1996",
+  "concepts": "[density-functional-theory, rmm-diis, pulay-mixing, kerker-preconditioning, charge-sloshing, conjugate-gradient, subspace-rotation, methfessel-paxton-smearing, harris-foulkes-functional, self-consistent-field, ultrasoft-pseudopotential, plane-wave-basis]",
+  "entities": "[VASP]",
+  "methods": "[dft, plane-wave-basis, ultrasoft-pseudopotential, rmm-diis, pulay-mixing, kerker-preconditioning, conjugate-gradient, iterative-diagonalization, methfessel-paxton-smearing, charge-density-mixing]",
+  "materials": "[diamond, fcc-Fe, fcc-Al]",
+  "projects": "[project-2, project-4, project-5, project-7]",
+  "fields": {
+   "一句话": "本文提出 RMM-DIIS 迭代对角化与基于 Kerker 预条件的 Pulay 电荷密度混合两大算法，将平面波赝势 DFT 的标度从 O(N³) 降至 O(N²)、使金属体系自洽迭代次数几乎不随系统尺寸增长，奠定了 VASP 的核心算法框架。"
+  }
+ },
+ {
+  "citekey": "kresseInitiomolecularDynamicsLiquid1993",
+  "title": "\"<i>Ab initio</i> molecular dynamics for liquid metals\"",
+  "paper_type": "theory",
+  "year": "1993",
+  "concepts": "[density-functional-theory, machine-learning-potential, conjugate-gradient-minimization, subspace-alignment, nose-thermostat, pair-correlation-function, born-oppenheimer-md, pseudopotential, ab-initio-molecular-dynamics, car-parrinello-method]",
+  "entities": "[SnTe, VASP]",
+  "methods": "[dft, md]",
+  "materials": "[SnTe]",
+  "projects": "[project-4, project-5, project-7]",
+  "fields": {
+   "一句话": "提出在每个MD步用共轭梯度法精确求电子基态并以子空间对齐预测波函数的\"精确基态AIMD\"方案，从根本上克服Car-Parrinello方法在金属中的非绝热失稳，是VASP核心算法的奠基论文之一。"
+  }
+ },
+ {
+  "citekey": "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994",
+  "title": "\"<i>Ab initio</i> molecular-dynamics simulation of the liquid-metal–amorphous-semiconductor transition in germanium\"",
+  "paper_type": "experiment",
+  "year": "1994",
+  "concepts": "[density-functional-theory]",
+  "entities": "[VASP]",
+  "methods": "[dft, md]",
+  "materials": [
+   "Ge"
+  ],
+  "projects": "[]",
+  "fields": {
+   "一句话": "提出基于\"每步直接能量最小化 + 有限温度 DFT + Nosé 恒温器 + 实空间投影非局域赝势\"的从头算分子动力学范式，从第一性原理完整再现 Ge 从高温液态金属到室温非晶半导体的淬火转变，并首次在同一框架下把几何缺陷、成键缺陷与带隙光谱缺陷三者关联起来。"
+  }
+ },
+ {
+  "citekey": "kresseUltrasoftPseudopotentialsProjector1999c",
+  "title": "\"From ultrasoft pseudopotentials to the projector augmented-wave method\"",
+  "paper_type": "theory",
+  "year": "1999",
+  "concepts": "[density-functional-theory, norm-conserving-pseudopotential, projector-augmented-wave, frozen-core-approximation, augmentation-charge, ghost-states, flapw, nonlinear-core-correction, ultrasoft-pseudopotential, compensation-charge]",
+  "entities": "[VASP]",
+  "methods": "[dft]",
+  "materials": "[]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "严格推导出 Vanderbilt 超软赝势（US-PP）的总能量泛函可由稍作修改的 Blöchl 投影增强波（PAW）泛函对两个原子中心项作一阶线性化得到，从而证明 US-PP 是 PAW 的线性化近似，并给出在现有 US-PP 平面波程序中实现 PAW 的最简路径与系统基准。"
+  }
+ },
+ {
+  "citekey": "krishnamurthiSpinChargeDensity2020",
+  "title": "\"Spin/charge density waves at the boundaries of transition metal dichalcogenides\"",
+  "paper_type": "theory",
+  "year": "2020",
+  "concepts": "[2D-materials, berry-phase, charge-density-wave, density-functional-theory, magnetoelectric-coupling, topological-defects, domain-wall]",
+  "entities": "[TMDs, VASP]",
+  "methods": "[berry-phase, dft, dft-plus-u, stm-mbe]",
+  "materials": "[TMDs, domain-wall]",
+  "projects": "[project-2]",
+  "fields": {
+   "一句话": "通过 DFT+U 计算证明 TMDC 镜像孪晶界（MTB）的金属性源于 D₃ₕ 晶格极化这一 Z₃ 拓扑不变量在边界处的反转，导致边界态 1/3 分数占据，并自发形成无需原子位移的纯电子型三重周期自旋密度波/电荷密度波（SDW/CDW），打开约 0.1 eV 能隙，预言携带 ±1/3 e 分数电荷的孤子激发。"
+  }
+ },
+ {
+  "citekey": "Kumar2017microstructuring",
+  "title": "\"Microstructuring by Two-Photon Polymerization using a Sub-Nanosecond Laser\"",
+  "paper_type": "experiment",
+  "year": "2017",
+  "concepts": "[two-photon-polymerization, two-photon-absorption, voxel, photoinitiator, diffraction-limit, nonlinear-optics, threshold-effect, aspect-ratio]",
+  "entities": "[SU-8, AR-N-4340, thioxanthone-photoinitiator, AOM, LabVIEW, AFM, piezo-nanopositioning-stage, sub-nanosecond-laser]",
+  "methods": "[two-photon-polymerization, laser-direct-writing, afm, optical-microscopy, theoretical-modeling, spin-coating, photolithography-process]",
+  "materials": "[SU-8, AR-N-4340, 2-4-diethyl-9H-thioxanthen-9-one]",
+  "projects": "[project-1]",
+  "fields": {
+   "一句话": "用 700 ps 亚纳秒 532 nm 激光器配合商用负性光刻胶 SU-8 / AR-N 4340 与大双光子吸收截面的噻吨酮光引发剂，搭建了低成本双光子聚合直写系统，实现约 500 nm 线宽与 6 μm 高 3D 微柱，并以阈值模型定量拟合了功率/速度对线宽的影响。"
+  }
+ },
+ {
+  "citekey": "KumarChoubey2011mechanoluminescence",
+  "title": "\"Mechanoluminescence & Thermoluminescence of SrAl2O4:Eu Nano-Phosphors\"",
+  "paper_type": "experiment",
+  "year": "2011",
+  "concepts": "[mechanoluminescence, thermoluminescence, trap-depth, dislocation-mediated-ml, color-center-quenching, combustion-synthesis, persistent-luminescence, charge-transfer, scherrer-broadening]",
+  "entities": "[SrAl2O4, Eu2-plus, RCA931-pmt, Nucleonix-TL10091, Shimadzu-UV1700, Rigaku-D]",
+  "methods": "[combustion-synthesis, xrd, uv-vis-absorption, scherrer-formula, impact-ml, pmt-detection, tl-glow-curve, initial-rise-method, chens-peak-method, glow-curve-fitting]",
+  "materials": "[SrAl2O4-Eu, strontium-nitrate, aluminium-nitrate, europium-oxide, urea]",
+  "projects": "[project-3]",
+  "fields": {
+   "一句话": "首次系统报道燃烧法（600 °C 引发，尿素作燃料）合成的单斜相 SrAl2O4:Eu 纳米磷光体（~21 nm）的断裂机械发光（ML）与热释光（TL），观察到 ML 时间曲线双峰、ML 强度随冲击速度饱和、365 nm 紫外光可完全恢复 ML，并由 TL 单一峰（196 °C）用三种方法交叉得到陷阱深度 0.24–0.27 eV，提出\"位错运动—陷阱载流子释放—Eu²⁺ 4f⁷↔4f⁶5d¹ 复合\"统一模型。"
+  }
+ },
+ {
+  "citekey": "laiTwodimensionalFerromagnetismDriven2019",
+  "title": "\"Two-dimensional ferromagnetism and driven ferroelectricity in van der Waals CuCrP₂S₆\"",
+  "paper_type": "experiment",
+  "year": "2019",
+  "concepts": "[2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling]",
+  "entities": "[BiFeO3, In2Se3, SnTe, VASP]",
+  "methods": "[afm-pfm, berry-phase, dft, dft-plus-u, neb, squid, xps]",
+  "materials": "[BiFeO3, In2Se3, SnTe]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "通过第一性原理计算预测并经实验证实，范德华层状材料 CuCrP2S6 在少层极限下是一种 I 型多铁候选——铁磁性源于 Cr、电场驱动的面外铁电性源于 Cu 位移，且自旋、电偶极、谷三者通过自旋-轨道耦合相互锁定。"
+  }
+ },
+ {
+  "citekey": "Laverock2005fermi",
+  "title": "\"Fermi surface nesting and charge-density wave formation in rare-earth tritellurides\"",
+  "paper_type": "experiment",
+  "year": "2005",
+  "concepts": "[charge-density-wave, fermi-surface-nesting, bilayer-splitting, generalized-susceptibility, brillouin-zone, electronic-band-structure, 2d-materials, fermi-surfaces, commensurate-incommensurate, 2d-acar]",
+  "entities": "[GdTe3, LuTe3, LuTe2, RTe3]",
+  "methods": "[lmto, dft, first-principles, 2d-acar, positron-annihilation, arpes, lcw-folding, maximum-entropy-deconvolution]",
+  "materials": "[GdTe3, LuTe3, LuTe2, RTe3]",
+  "projects": "[project-7]",
+  "fields": {
+   "一句话": "结合 2D-ACAR 正电子湮灭实验与 LMTO 第一性原理计算，首次直接观测到稀土三碲化物 RTe₃ 未被 CDW 重构的\"裸\"费米面，测定嵌套矢量 q = (0.28 ± 0.02, 0, 0) a*，决定性地证实费米面嵌套是驱动该体系 CDW 形成的机制。"
+  }
+ },
+ {
+  "citekey": "lezoualchStudyChargeDensity",
+  "title": "\"Study of charge density waves in transition metal dichalcogenides\"",
+  "paper_type": "theory",
+  "year": "2025",
+  "concepts": "[charge-density-wave, 2d-materials, density-functional-theory, electron-phonon-coupling, fermi-surface-nesting, peierls-transition, phonon-soft-mode, cew-tronics, intercalation, strain-engineering, soft-mode]",
+  "entities": "[TMDs, Quantum-Espresso, Fireball, VSe2, VTe2, STM]",
+  "methods": "[dft, dfpt, negf, neb, stm-simulation]",
+  "materials": "[1T-VSe2, 1T-VTe2]",
+  "projects": "[project-7, project-5, project-4, project-2]",
+  "fields": {
+   "一句话": "建立了一套基于 DFPT 声子软模的系统 CDW 建模流程，并以第一性原理计算揭示了 1T-VSe₂/1T-VTe₂ 中化学掺杂（N、Na）、STM 针尖物理操控及相变对 CDW 相稳定性、取向和电子输运的调控规律，提出\"CDW-tronics\"概念。"
+  }
+ },
+ {
+  "citekey": "Li2013bonding",
+  "title": "\"Bonding Charge Density and Ultimate Strength of Monolayer Transition Metal Dichalcogenides\"",
+  "paper_type": "theory",
+  "year": "2013",
+  "concepts": "[2d-materials, strain-engineering, density-functional-theory, bond-density, binding-strength, p-d-hybridization, d-band-center, charge-transfer-descriptor, mechanical-anisotropy, stress-strain-relation, bader-charge-analysis, bonding-charge-density, poisson-contraction, ultimate-strength]",
+  "entities": "[TMDs, VASP, ABINIT, MoS2, WS2, MoSe2, WSe2, MoTe2, WTe2]",
+  "methods": "[dft, lda, paw, norm-conserving-pp, bader-charge, dos-pdos, charge-density-difference, stress-strain, first-principles, uniaxial-tension]",
+  "materials": "[MoS2, MoSe2, MoTe2, WS2, WSe2, WTe2]",
+  "projects": "[project-4, project-5]",
+  "fields": {
+   "一句话": "用第一性原理 DFT 系统计算了六种单层 VI 族 TMD（Mo/W × S/Se/Te）沿扶手椅和锯齿方向的完整应力–应变曲线，揭示极限强度的组分/方向依赖性，并建立\"力学性能（E、σ*）随 M→X 电荷转移量 ΔQ 线性增长\"的简单定量模型，其电子结构根源是 M-d/X-p 轨道杂化强度。"
+  }
+ },
+ {
+  "citekey": "liFerroelasticityDomainPhysics2016",
+  "title": "\"Ferroelasticity and domain physics in two-dimensional transition metal dichalcogenide monolayers\"",
+  "paper_type": "theory",
+  "year": "2016",
+  "concepts": "[2D-materials, density-functional-theory, ferroelasticity, multiferroicity, strain-engineering, topological-defects, domain-wall]",
+  "entities": "[TMDs, VASP, WTe2]",
+  "methods": "[dft, md, neb, raman, tem, xanes]",
+  "materials": "[TMDs, WTe2, domain-wall]",
+  "projects": "[project-2, project-5, project-7]",
+  "fields": {
+   "一句话": "通过第一性原理计算首次预测 1T′ 相 TMD 单层具有三个由 Peierls 畸变产生的取向变体（O1/O2/O3），仅需百分之几弹性应变即可在变体间实现铁弹性切换，切换势垒 <0.2 eV/f.u.，并形成低能准一维铁弹畴壁，从而提出\"二维铁弹性/二维形状记忆材料\"概念。"
+  }
+ },
+ {
+  "citekey": "liMonolayerPuckeredPentagonal2022",
+  "title": "\"Monolayer puckered pentagonal VTe2: An emergent two-dimensional ferromagnetic semiconductor with multiferroic coupling\"",
+  "paper_type": "theory",
+  "year": "2022",
+  "concepts": "[2D-materials, charge-density-wave, density-functional-theory, ferroelasticity, magnetoelectric-coupling, multiferroicity, spin-orbit-coupling, strain-engineering]",
+  "entities": "[CrTe2, Fe3GeTe2, TMDs, VASP]",
+  "methods": "[afm-pfm, dfpt, dft, dft-plus-u, neb, stm-mbe, tem]",
+  "materials": "[CrTe2, Fe3GeTe2, TMDs]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "通过第一性原理计算预测了一种全新的单层褶皱五边形相VTe2（PP-VTe2），它是带隙0.33 eV、居里温度约110 K的本征铁磁半导体，且其二维铁弹性翻转可驱动面内易磁化轴旋转90°，实现铁弹-铁磁直接多铁耦合。"
+  }
+ },
+ {
+  "citekey": "liPhaseTransitions2D2021",
+  "title": "\"Phase transitions in 2D materials\"",
+  "paper_type": "review",
+  "year": "2021",
+  "concepts": [
+   "2d-materials",
+   "ferroelectricity",
+   "ferroelasticity",
+   "multiferroicity",
+   "charge-density-wave",
+   "strain-engineering",
+   "magnetoelectric-coupling",
+   "moire-superlattice",
+   "polarization-switching",
+   "sliding-ferroelectricity",
+   "topological-defects",
+   "spin-orbit-coupling",
+   "berry-phase",
+   "density-functional-theory",
+   "polymorphic-phase-transition",
+   "peierls-instability",
+   "ripplocation",
+   "berry-curvature-dipole",
+   "flexoelectricity",
+   "kosterlitz-thouless-transition",
+   "twistronics",
+   "ferroic-order",
+   "domain-wall"
+  ],
+  "entities": [
+   "TMDs",
+   "SnTe",
+   "In2Se3",
+   "WTe2",
+   "h-BN",
+   "Fe3GeTe2",
+   "VASP",
+   "MoS2",
+   "MoTe2",
+   "CrI3",
+   "Cr2Ge2Te6",
+   "NbSe2",
+   "CuInP2S6",
+   "TiTe2",
+   "SnSe",
+   "GeSe",
+   "graphene"
+  ],
+  "methods": [
+   "dft",
+   "stm",
+   "afm",
+   "in-situ-tem",
+   "dark-field-tem",
+   "moke",
+   "arpes",
+   "shg",
+   "raman",
+   "cvd",
+   "molten-salt-growth",
+   "ionic-liquid-gating",
+   "electrostatic-gating",
+   "laser-patterning",
+   "berry-phase",
+   "nonlinear-hall",
+   "machine-learning"
+  ],
+  "materials": [
+   "MoS2",
+   "MoTe2",
+   "WTe2",
+   "SnTe",
+   "In2Se3",
+   "CrI3",
+   "Cr2Ge2Te6",
+   "Fe3GeTe2",
+   "NbSe2",
+   "CuInP2S6",
+   "GeTe",
+   "Sb2Te3",
+   "TiTe2",
+   "h-BN",
+   "graphene",
+   "SnSe",
+   "GeSe",
+   "SnO"
+  ],
+  "projects": "[project-2, project-5, project-7]",
+  "fields": {
+   "一句话": "以\"短程化学键—长程静电/弹性相互作用—空间可及性\"三维框架系统梳理二维材料中的扩散型、位移型与量子相变，把多晶型相变、铁性（铁弹/铁电/铁磁）相变与高温扩散相变统一到\"相变工程\"范式下，并连接到原型器件。"
+  }
+ },
+ {
+  "citekey": "liuSpintronicsTwoDimensionalMaterials2020b",
+  "title": "\"Spintronics in Two-Dimensional Materials\"",
+  "paper_type": "review",
+  "year": "2020",
+  "concepts": "[spin-orbit-coupling, 2D-materials, magnetoelectric-coupling, strain-engineering, berry-phase, proximity-effect, spin-injection, spin-transport, spin-relaxation, spin-hall-effect, rashba-effect, edelstein-effect, spin-valve, magnetic-tunnel-junction, valleytronics, two-dimensional-magnetism, van-der-waals-heterostructure, spin-filtering]",
+  "entities": "[h-BN, TMDs, Fe3GeTe2, graphene, CrI3, Cr2Ge2Te6, black-phosphorus, silicene, MoS2, WSe2, WS2, Bi2Te2Se, YIG, Pt, Co, MgO, EuS, VSe2, MnSe2, Heusler-alloy]",
+  "methods": "[nonlocal-spin-valve, hanle-measurement, tunnel-spin-injection, optical-spin-injection, ion-liquid-gating, electrostatic-doping, cvd-growth, mechanical-exfoliation, dry-transfer, first-principles, dft, magnetic-circular-dichroism, spin-pumping, femtosecond-spectroscopy, afm]",
+  "materials": "[graphene, h-BN, MoS2, WSe2, WS2, Fe3GeTe2, CrI3, Cr2Ge2Te6, black-phosphorus, silicene, Bi2Te2Se, Pt, Co, MgO, YIG, EuS, VSe2, MnSe2]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "以\"自旋注入—输运—操控—应用\"为主线，系统综述石墨烯/TMDCs/黑磷/硅烯等二维材料及其 vdW 异质结中的自旋电子学进展，确立 hBN 隧穿注入、hBN 封装/悬浮输运、邻近效应操控三条主流技术路线。"
+  }
+ },
+ {
+  "citekey": "lvUnconventionalHystereticTransition2022",
+  "title": "\"Unconventional Hysteretic Transition in a Charge Density Wave\"",
+  "paper_type": "experiment",
+  "year": "2022",
+  "concepts": "[charge-density-wave, 2d-materials, hysteresis, interlayer-phase-coupling, incommensurate-cdw, metastability, order-parameter, double-well]",
+  "entities": "[EuTe4, RTe3]",
+  "methods": "[electrical-transport, arpes, xrd, xanes, electron-diffraction, landau-ginzburg]",
+  "materials": "[EuTe4]",
+  "projects": "[project-5]",
+  "fields": {
+   "一句话": "在准二维CDW材料EuTe₄中发现温度跨度超过400 K的创纪录巨热滞回，该滞回完全发生在非公度CDW相内部、仅表现为序参量振幅变化而波矢不变，被归因于Te单层与Te双层之间CDW相对相位（0或π）的迟滞切换。"
+  }
+ },
+ {
+  "citekey": "majumdarInterplayChargeDensity2020",
+  "title": "\"Interplay of charge density wave and multiband superconductivity in layered quasi-two-dimensional materials: The case of 2H-NbS₂ and 2H-NbSe₂\"",
+  "paper_type": "experiment",
+  "year": "2020",
+  "concepts": "[2D-materials, charge-density-wave, pressure-tuning, multiband-superconductivity, uemura-relation, werthamer-helfand-hohenberg-model, andreev-reflection, electron-phonon-coupling, london-penetration-depth, pauli-paramagnetic-effect]",
+  "entities": "[TMDs, NbS2, NbSe2]",
+  "methods": "[dft]",
+  "materials": "[TMDs]",
+  "projects": "[project-7]",
+  "fields": {
+   "一句话": "通过磁光成像、比热、高压输运/磁化、Andreev 反射谱、伦敦穿透深度与第一性原理计算的互补测量，证明 2H-NbSe₂ 中电荷密度波（CDW）与超导电性是竞争关系，而 2H-NbSe₂ 与 2H-NbS₂ 均为双 s 波能隙超导体，二者均偏离 Uemura 关系。"
+  }
+ },
+ {
+  "citekey": "Makogon2012wave",
+  "title": "\"Spin-charge-density wave in a rounded-square Fermi surface for ultracold atoms\"",
+  "paper_type": "theory",
+  "year": "2012",
+  "concepts": "[charge-density-wave, fermi-surface-nesting, spin-density-wave, spin-charge-density-wave, hubbard-model, random-phase-approximation, soft-mode, optical-lattice, staggered-zeeman-field, hubbard-stratonovich-transformation, tight-binding, landau-free-energy]",
+  "entities": "[potassium-40]",
+  "methods": "[tight-binding, rpa, hubbard-stratonovich, saddle-point-approximation, analytic-continuation, numerical-susceptibility]",
+  "materials": "[ultracold-40K, optical-lattice]",
+  "projects": "[project-4, project-7]",
+  "fields": {
+   "一句话": "在带交错塞曼场的二维光晶格中，第三能带的\"同心方圆形\"费米面因不完全嵌套而失稳，作者用 SO(3,1)×SO(3,1) 广义 RPA 证明这是一种自旋与电荷涨落不可分割的耦合有序态——自旋-电荷密度波（SCDW），并指出将自旋与电荷分开处理会显著低估临界相互作用强度。"
+  }
+ },
+ {
+  "citekey": "martinThinfilmFerroelectricMaterials2016",
+  "title": "\"Thin-film ferroelectric materials and their applications\"",
+  "paper_type": "review",
+  "year": "2016",
+  "concepts": "[2D-materials, berry-phase, density-functional-theory, ferroelectric-tunnel-junction, magnetoelectric-coupling, multiferroicity, polarization-switching, sliding-ferroelectricity, strain-engineering, topological-defects, domain-wall]",
+  "entities": "[BiFeO3, SnTe, TMDs, VASP, h-BN]",
+  "methods": "[afm-pfm, berry-phase, device-i-v, dft, md, phase-field, raman, tem, xanes, xrd]",
+  "materials": "[BiFeO3, SnTe, TMDs, domain-wall, h-BN]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "以\"应变工程\"为主线，系统综述过去十年铁电薄膜在常规/非传统应变调控、热学效应（热释电/电卡）、畴壁电子学、负电容、铁电-二维材料异质结和体光伏效应等方向的革命性进展，并指明材料基因组、非传统铁电体、原位表征、拓扑铁电、能源催化等未来方向。"
+  }
+ },
+ {
+  "citekey": "miaoMagneticFerroelectricMetal2024",
+  "title": "\"Magnetic ferroelectric metal in bilayer Fe3GeTe2 under interlayer sliding\"",
+  "paper_type": "theory",
+  "year": "2024",
+  "concepts": "[multiferroicity, magnetoelectric-coupling, sliding-ferroelectricity, strain-engineering, 2d-materials, polarization-switching, density-functional-theory, ferroelectric-metal, magnetic-polar-metal, interlayer-charge-transfer, itinerant-ferromagnetism]",
+  "entities": "[Fe3GeTe2, VASP, WTe2, In2Se3, h-BN, TMDs]",
+  "methods": "[dft, dft-plus-u, dft-d3, gga-pbe, paw, neb, bader-charge-analysis, band-structure, dos, dipole-correction]",
+  "materials": "[Fe3GeTe2, WTe2, In2Se3]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "基于第一性原理计算预测双层 Fe₃GeTe₂ 通过 (±1/3, ±1/3) 层间滑移可同时拥有可翻转的垂直铁电极化、巡游铁磁性和金属导电性，构成罕见的磁性铁电金属相，且中等双轴压缩应变即可反转极化方向。"
+  }
+ },
+ {
+  "citekey": "Mińkowski2021cation",
+  "title": "\"Cation interstitial diffusion in lead telluride and cadmium telluride studied by means of neural network potential based molecular dynamics simulations\"",
+  "paper_type": "theory",
+  "year": "2021",
+  "concepts": "[density-functional-theory, machine-learning-potential, spin-orbit-coupling, behler-parrinello-nnp, interstitial-diffusion, block-averaging-msd, arrhenius-deviation, interstitial-exchange-mechanism, CdTe]",
+  "entities": "[PbTe, SnTe, VASP]",
+  "methods": "[dft, md, mlip, neb]",
+  "materials": "[PbTe, SnTe]",
+  "projects": "[project-2, project-4, project-5]",
+  "fields": {
+   "一句话": "用 Behler–Parrinello 神经网络势（NNP）驱动长时 MD，首次揭示 PbTe（岩盐矿）和 CdTe（闪锌矿）中阳离子间隙原子均通过\"直接跳跃\"和\"与晶格原子交换\"两种机制扩散，二者活化能不同导致总扩散系数偏离 Arrhenius 行为；PbTe 中交换主导，CdTe 中跳跃主导。"
+  }
+ },
+ {
+  "citekey": "monkhorstSpecialPointsBrillouinzone1976",
+  "title": "\"Special points for Brillouin-zone integrations\"",
+  "paper_type": "theory",
+  "year": "1976",
+  "concepts": "[density-functional-theory, brillouin-zone-integration, monkhorst-pack-grid, k-point-sampling, special-points, chadi-cohen-method, gilat-raubenheimer-method, star-function, irreducible-wedge, fourier-interpolation]",
+  "entities": "[VASP, Wannier90]",
+  "methods": "[dft, brillouin-zone-integration, k-point-sampling, monkhorst-pack, fourier-interpolation, gilat-raubenheimer]",
+  "materials": "[]",
+  "projects": "[project-2, project-4, project-5, project-7]",
+  "fields": {
+   "一句话": "提出基于均匀倒空间网格与晶格星函数正交性的\"Monkhorst-Pack网格\"，成为所有现代第一性原理计算中布里渊区积分的标准k点采样方法。"
+  }
+ },
+ {
+  "citekey": "mostovoyMultiferroicsDifferentRoutes2024",
+  "title": "\"Multiferroics: different routes to magnetoelectric coupling\"",
+  "paper_type": "review",
+  "year": "2024",
+  "concepts": "[2D-materials, berry-phase, charge-density-wave, ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, topological-defects, domain-wall]",
+  "entities": "[BiFeO3, HoMnO3, TMDs]",
+  "methods": "[berry-phase, dft, nmr]",
+  "materials": "[BiFeO3, HoMnO3, TMDs, domain-wall]",
+  "projects": "[project-2, project-4, project-5, project-7]",
+  "fields": {
+   "一句话": "以理论家视角从对称性、磁阻挫和自旋哈密顿量三个层面统一梳理了第 I/II 类多铁性中磁电耦合的物理路径，并把复合畴壁、电磁振子、电控磁振子与斯格明子纳入同一框架。"
+  }
+ },
+ {
+  "citekey": "naguib25thAnniversaryArticle2013a",
+  "title": "\"25th Anniversary Article: MXenes: A New Family of Two‐Dimensional Materials\"",
+  "paper_type": "review",
+  "year": "2013",
+  "concepts": "[2D-materials, density-functional-theory]",
+  "entities": "[MXenes, TMDs]",
+  "methods": "[dft, md, monte-carlo, raman, tem, xrd]",
+  "materials": "[MXenes, TMDs]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "本文系统宣告并综述了通过室温 HF 水溶液从 MAX 相中选择性刻蚀 A 层（主要是 Al）而制备出的全新二维过渡金属碳化物/碳氮化物家族——MXenes，并将其确立为兼具金属导电性与亲水性的\"导电粘土\"。"
+  }
+ },
+ {
+  "citekey": "nahasFrustrationSelfOrderingTopological2016",
+  "title": "\"Frustration and Self-Ordering of Topological Defects in Ferroelectrics\"",
+  "paper_type": "theory",
+  "year": "2016",
+  "concepts": "[topological-defects, geometric-frustration, chirality, vortex-antivortex, residual-entropy, ground-state-degeneracy, frustration-index, effective-hamiltonian, flux-closure-domain, antiferrotoroidic-order, toroidal-moment, depolarizing-field, ferroelectricity, domain-walls, BaSrTiO3]",
+  "entities": "[BaTiO3, BaSrTiO3]",
+  "methods": "[effective-hamiltonian, monte-carlo, first-principles, dielectric-susceptibility, autocorrelation-analysis]",
+  "materials": "[BaTiO3, Ba0.15Sr0.85TiO3]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "在 BTO 纳米线嵌入 BST 基质的铁电纳米复合材料中，纳米线手性的独立选择对基质施加不相容的几何边界条件，诱导出几何阻挫，基质以自组装、浮动的涡旋-反涡旋有序阵列来容纳阻挫，并在极低温下保留剩余构型熵。"
+  }
+ },
+ {
+  "citekey": "Nakanishi2009full",
+  "title": "\"Full Quantum Analysis of Two-Photon Absorption Using Two-Photon Wave Function: Comparison of Two-Photon Absorption with One-Photon Absorption\"",
+  "paper_type": "theory",
+  "year": "2009",
+  "concepts": "[two-photon-absorption, two-photon-wavefunction, time-correlation, entanglement-induced-two-photon-transparency, biphoton, spontaneous-parametric-down-conversion, quantum-optics, electromagnetic-induced-transparency]",
+  "entities": "[three-level-atom]",
+  "methods": "[full-quantum-theory, second-order-perturbation-theory, first-order-perturbation-theory, time-ordered-wavefunction, spectral-analysis]",
+  "materials": "[]",
+  "projects": "[project-1]",
+  "fields": {
+   "一句话": "建立基于双光子波函数的全量子多模理论，解析给出任意光子对态的单/双光子吸收概率，并证明矩形时间窗波函数在 Δ·τ = π(2n+1) 时可完全抑制单光子吸收而保持双光子吸收，即\"纠缠诱导双光子透明\"。"
+  }
+ },
+ {
+  "citekey": "nakataRobustChargedensityWave2021",
+  "title": "\"Robust charge-density wave strengthened by electron correlations in monolayer 1T-TaSe2 and 1T-NbSe2\"",
+  "paper_type": "experiment",
+  "year": "2021",
+  "concepts": "[charge-density-wave, 2d-materials, electron-correlation, mott-insulator, hubbard-model, star-of-david, electron-phonon-coupling, bandwidth-control, lower-hubbard-band, bandwidth-controlled-mott-transition]",
+  "entities": "[TMDs, 1T-TaSe2, 1T-NbSe2, 1T-TaS2, graphene, SiC, ARPES]",
+  "methods": "[mbe, arpes, stm, core-level-spectroscopy, tr-arpes, bcs-gap-fitting, electron-doping]",
+  "materials": "[1T-TaSe2, 1T-NbSe2, 1T-TaS2]",
+  "projects": "[project-5, project-7]",
+  "fields": {
+   "一句话": "在 MBE 生长的单层 1T-TaSe2 中用 ARPES 观测到起始温度约 530 K、2Δ/kBT≈12 的强耦合二维 CDW-莫特绝缘相，其下哈伯德带在高温、K 电子掺杂和光激发下均保持稳定，并通过与单层 1T-NbSe2 的对照证明 CDW 晶格畸变对带宽 W 的压制是稳定该相的主导因素。"
+  }
+ },
+ {
+  "citekey": "neumayerCompetingPolarPhases2025",
+  "title": "\"Competing polar phases in 2D ferroelectric transition metal thio- and selenophosphates\"",
+  "paper_type": "review",
+  "year": "2025",
+  "concepts": "[2D-materials, density-functional-theory, ferroelectric-tunnel-junction, multiferroicity, polarization-switching, sliding-ferroelectricity, strain-engineering, domain-wall]",
+  "entities": "[In2Se3, TMDs, VASP, WTe2]",
+  "methods": "[afm-pfm, dft, mlip, raman, tem, xrd]",
+  "materials": "[In2Se3, TMDs, WTe2, domain-wall]",
+  "projects": "[project-2]",
+  "fields": {
+   "一句话": "系统综述了以 CuInP2S6（CIPS）和 CuInP2Se6（CIPSe）为代表的二维范德华过渡金属硫/硒磷酸盐（TMTPs）中，多种能量仅相差几十 meV/f.u. 的铁电（FE）、反铁电（AFE）和顺电（PE）相如何共存、竞争，并通过温度、电场、Cu 离子迁移和应变实现可逆相互转换。"
+  }
+ },
+ {
+  "citekey": "nicholsonUniaxialStraininducedPhase2021",
+  "title": "\"Uniaxial strain-induced phase transition in the 2D topological semimetal IrTe2\"",
+  "paper_type": "experiment",
+  "year": "2021",
+  "concepts": "[2D-materials, charge-density-wave, density-functional-theory, strain-engineering, ir-dimerization, charge-order, interlayer-depolymerization, type-ii-dirac-semimetal, uniaxial-strain-device, lifshitz-transition]",
+  "entities": "[TMDs, VASP, WTe2, IrTe2]",
+  "methods": "[arpes, dft, stm-mbe, tight-binding, xps]",
+  "materials": "[TMDs, WTe2]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "沿 a 轴施加约 0.1% 的单轴拉伸应变，即可在宏观尺度上选择性稳定二维拓扑半金属 IrTe2 长期争论的 6×1 电荷有序基态，并首次光谱学观测到伴随的 Lifshitz 转变与 II 型体狄拉克态。"
+  }
+ },
+ {
+  "citekey": "niuDirectVisualizationLargeScale2021",
+  "title": "\"Direct Visualization of Large-Scale Intrinsic Atomic Lattice Structure and Its Collective Anisotropy in Air-Sensitive Monolayer 1T'-WTe2\"",
+  "paper_type": "experiment",
+  "year": "2021",
+  "concepts": "[2d-materials, strain-engineering, spin-orbit-coupling, anisotropic-rippling, defect-engineering, vacancy-formation-energy, low-symmetry-lattice, air-sensitive-2d-materials]",
+  "entities": "[WTe2, h-BN, TMDs, PWmat, graphene]",
+  "methods": "[haadf-stem, tem-electron-diffraction, saed, afm, cvd-growth, dft, pbe, dft-d2, optical-microscopy]",
+  "materials": "[1T-prime-WTe2]",
+  "projects": "[project-7]",
+  "fields": {
+   "一句话": "通过全流程互联惰性气氛保护系统，用原子分辨 HAADF-STEM 直接可视化了空气敏感单层 1T'-WTe2 的大面积完整晶格，发现其本征的、只沿单一晶面方向传播的各向异性褶皱，以及该褶皱对 Te 空位分布的择优调控。"
+  }
+ },
+ {
+  "citekey": "noseUnifiedFormulationConstant1984",
+  "title": "\"A unified formulation of the constant temperature molecular dynamics methods\"",
+  "paper_type": "theory",
+  "year": "1984",
+  "concepts": "[canonical-ensemble, microcanonical-ensemble, npt-ensemble, nose-hoover-thermostat, extended-system-method, virtual-variables, thermostat, boltzmann-distribution, ergodic-hypothesis, statistical-mechanics]",
+  "entities": "[]",
+  "methods": "[molecular-dynamics, nose-thermostat, nose-hoover-chain, hamiltonian-mechanics, partition-function, constant-temperature-md, constant-pressure-md]",
+  "materials": "[]",
+  "projects": "[project-4, project-2, project-5, project-7]",
+  "fields": {
+   "一句话": "通过引入额外自由度 s 的扩展系统哈密顿量与对数势 gkT ln s，Nosé 严格证明了其恒温分子动力学方法可精确产生正则（NVT）与恒温恒压（NPT）系综分布，并将 Hoover–Ladd–Moran–Evans（HLME）约束方法与 Haile–Gupta 动量标度方法统一为该框架的特例，同时定量给出后者 O(N^{-1/2}) 的偏差。"
+  }
+ },
+ {
+  "citekey": "Owji20212d",
+  "title": "\"2D materials coated on etched optical fibers as humidity sensor\"",
+  "paper_type": "experiment",
+  "year": "2021",
+  "concepts": "[2d-materials, optical-fiber-humidity-sensor, evanescent-field, refractive-index-sensing, penn-model, carrier-density-modulation, n-p-type-semiconductor, relative-differentiation-of-attenuation, graphene-oxide-functional-groups, hydrogen-bond-saturation, thermal-regeneration, fiber-optic-humidity-sensor]",
+  "entities": "[TMDs, MoS2, MoSe2, graphene, graphene-oxide, single-mode-fiber, optical-loss-test-set, MATLAB]",
+  "methods": "[sem, tem, edx, raman-spectroscopy, ftir, xrd, liquid-phase-exfoliation, hummers-method, solvothermal-synthesis, chemical-exfoliation, dip-coating, hf-chemical-etching, olts-optical-loss-measurement, cubic-polynomial-fitting, sensitivity-variance-analysis]",
+  "materials": "[MoS2, MoSe2, graphene, graphene-oxide, g-go-composite, single-mode-fiber]",
+  "projects": "[project-6]",
+  "fields": {
+   "一句话": "首次用 HF 化学蚀刻减薄单模光纤并分别涂覆 G/GO、MoSe₂、MoS₂ 三种二维材料，在 1310/1550 nm 通信波长下系统比较其湿度传感性能，证明 G/GO 涂层在 20–90% RH 全量程具有高且单调的 RDA 响应，并用表面官能团–半导体类型（n/p）–Penn 模型折射率框架统一解释了三种材料的行为差异。"
+  }
+ },
+ {
+  "citekey": "PChandra2011mechanoluminescence",
+  "title": "\"Mechanoluminescence of Nanoparticles\"",
+  "paper_type": "review",
+  "year": "2011",
+  "concepts": "[2D-materials, strain-engineering, elastico-mechanoluminescence, mechanoluminescence, ZnS-Mn, triboluminescence, SrAl2O4-Eu, piezoelectric-detrapping-model, trap-depth-electron-detrapping]",
+  "entities": "[]",
+  "methods": "[afm-pfm, tem, xrd]",
+  "materials": [
+   "ZnS-Mn",
+   "SrAl2O4-Eu"
+  ],
+  "projects": "[project-3]",
+  "fields": {
+   "一句话": "本文系统综述了 ZnS:Mn 和 SrAl₂O₄:Eu 纳米粒子在弹性形变下的力致发光（EML）现象，确立\"压电诱导电子脱陷模型\"为统一机理，并推导出描述 EML 强度、快慢衰减、压力依赖的定量公式，论证其在应力传感与结构健康监测中的应用。"
+  }
+ },
+ {
+  "citekey": "pedramraziManipulatingTopologicalDomain2019",
+  "title": "\"Manipulating Topological Domain Boundaries in the Single-Layer Quantum Spin Hall Insulator 1T′–WSe₂\"",
+  "paper_type": "experiment",
+  "year": "2019",
+  "concepts": "[2D-materials, berry-phase, density-functional-theory, ferroelasticity, spin-orbit-coupling, strain-engineering, topological-defects, domain-wall]",
+  "entities": "[TMDs, WTe2]",
+  "methods": "[berry-phase, dft, gw, mlip, stm-mbe, tem]",
+  "materials": "[TMDs, WTe2, domain-wall]",
+  "projects": "[project-5]",
+  "fields": {
+   "一句话": "用 STM 针尖脉冲在单层 1T′-WSe2 中可逆写入/擦除铁弹畴界（120°/60°/0°）并诱导 1T′→1H 相变，结合 STS 与 DFT/NEGF 首次系统表征了 QSHI 中拓扑\"未保护\"的 1T′/1T′ 畴界面态，建立了其与拓扑保护 1T′/1H 边缘态的谱学鉴别标准。"
+  }
+ },
+ {
+  "citekey": "pengStrainEngineering2D2020",
+  "title": "\"Strain engineering of 2D semiconductors and graphene: from strain fields to band-structure tuning and photonic applications\"",
+  "paper_type": "review",
+  "year": "2020",
+  "concepts": "[2D-materials, deformation-potential, density-functional-theory, moire-superlattice, spin-orbit-coupling, strain-engineering, single-photon-emitter, pseudomagnetic-field, exciton-funnel-effect, raman-strain-splitting, second-harmonic-generation]",
+  "entities": "[TMDs, WTe2, h-BN, graphene]",
+  "methods": "[afm-pfm, dft, mlip, raman, spectroscopy, tight-binding, xanes]",
+  "materials": "[TMDs, WTe2, h-BN]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "系统综述了如何通过单轴/双轴/局部应变连续调控二维 TMDCs 和石墨烯的能带结构与光学性质（PL 红移、带隙类型转变、激子漏斗、拉曼分裂、SHG 应变成像、相变等），并梳理了应变加载技术及其在应变传感器、宽谱太阳能漏斗和单光子源等光子学器件中的应用。"
+  }
+ },
+ {
+  "citekey": "perdewGeneralizedGradientApproximation1996a",
+  "title": "\"Generalized Gradient Approximation Made Simple\"",
+  "paper_type": "theory",
+  "year": "1996",
+  "concepts": "[density-functional-theory, exchange-correlation-functional, generalized-gradient-approximation, local-spin-density-approximation, pbe-functional, pw91-functional, enhancement-factor, lieb-oxford-bound, linear-response, uniform-electron-gas, self-interaction-error, pseudopotential]",
+  "entities": "[VASP, CADPAC]",
+  "methods": "[dft, gga, pbe, lsd, pseudopotential, atomization-energy-benchmark]",
+  "materials": "[]",
+  "projects": "[project-2, project-4, project-5, project-7]",
+  "fields": {
+   "一句话": "从七个能量上关键的物理极限条件出发，推导出无经验参数、形式简洁的 PBE 广义梯度近似泛函，在保持与 PW91 同等精度的同时修正了其六大理论缺陷，成为后世 DFT 计算最广泛使用的标准泛函。"
+  }
+ },
+ {
+  "citekey": "Perugu2024morphology",
+  "title": "\"Synthesis, Structural, Morphology and Magnetic Properties: Effect of La on Multiferroic Nature of BiFeO3 Nanoparticles\"",
+  "paper_type": "experiment",
+  "year": "2024",
+  "concepts": "[multiferroicity, magnetoelectric-coupling, maxwell-wagner-polarization, hopping-conduction, oxygen-vacancy, jonscher-power-law, spin-cycloid, hydrothermal-synthesis, dielectric-absorber, magnetic-domain, BLFO, scherrer-equation]",
+  "entities": "[BiFeO3, BLFO]",
+  "methods": "[hydrothermal-synthesis, xrd, scherrer-equation, fe-sem, tem, hrtem, impedance-spectroscopy, vsm, pe-loop, linear-intercept-method]",
+  "materials": "[BiFeO3, Bi1-xLaxFeO3, La-doped-BFO-nanoparticles]",
+  "projects": "[project-2]",
+  "fields": {
+   "一句话": "水热法合成 Bi₁₋ₓLaₓFeO₃（x=0.2–0.8）纳米颗粒，系统证明 La 取代 Bi 位点导致晶格膨胀、球形→纳米棒形貌转变、杂相抑制、饱和磁化强度从 13.2 升至 21.5 emu/g，并将 x=0.8 样品推荐为介电吸收器候选材料。"
+  }
+ },
+ {
+  "citekey": "Petkov2020hierarchy",
+  "title": "\"Hierarchy among the crystal lattice, charge density wave, and superconducting orders in transition metal dichalcogenides\"",
+  "paper_type": "experiment",
+  "year": "2020",
+  "concepts": "[charge-density-wave, 2D-materials, superconductivity, pair-distribution-function, reverse-monte-carlo, coordination-polyhedron, ta-sublattice-3d-periodicity, chemical-pressure, trigonal-prismatic-coordination, octahedral-coordination, lattice-buckling, polytypism]",
+  "entities": "[TMDs, TaSe2, TaTe2, TaSe2-xTex, GSAS-II, RMCpp, advanced-photon-source]",
+  "methods": "[high-energy-xrd, synchrotron-xrd, rietveld-refinement, pair-distribution-function, resonant-xrd, reverse-monte-carlo, magnetometry, ppms-vsm]",
+  "materials": "[TaSe2, TaTe2, TaSe2-xTex]",
+  "projects": "[project-7, project-5, project-2]",
+  "fields": {
+   "一句话": "通过高能同步辐射XRD、原子对分布函数（PDF）、共振X射线散射和~8–9万原子的反向蒙特卡洛（RMC）大尺度建模，在TaSe₂₋ₓTeₓ固溶体中揭示了晶格、CDW和超导三者的层级关系——强晶格畸变（Ta层皱褶）破坏一切电子序，完美二维晶格周期性是CDW的必要前提，而Ta亚晶格的三维周期性才是超导出现的必要条件。"
+  }
+ },
+ {
+  "citekey": "petkovStructureIntercalatedCs2002",
+  "title": "\"Structure of Intercalated Cs in Zeolite ITQ-4: An Array of Metal Ions and Correlated Electrons Confined in a Pseudo-1D Nanoporous Host\"",
+  "paper_type": "experiment",
+  "year": "2002",
+  "concepts": "[charge-density-wave, electride, pair-distribution-function, mott-insulator, intercalation, zigzag-chain, confined-electron-gas, diffuse-scattering, bragg-peaks]",
+  "entities": "[ITQ-4, Cs, PDFFIT, RAD]",
+  "methods": "[pxrd, pair-distribution-function, synchrotron-xrd, differential-pdf, pdffit]",
+  "materials": "[CsxSi32O64, ITQ-4, cesium]",
+  "projects": "[project-7]",
+  "fields": {
+   "一句话": "利用原子对分布函数（PDF）技术首次给出直接结构证据，证明嵌入沸石ITQ-4伪一维纳米孔道中的铯以Cs⁺离子形式存在并排列成短程有序的锯齿形链，从而确认CsₓSi₃₂O₆₄为首个室温稳定的无机电子化合物。"
+  }
+ },
+ {
+  "citekey": "prosandeevKittelLawInBiFeO3Ultrathin2010",
+  "title": "\"Kittel Law in BiFeO3 Ultrathin Films: A First-Principles-Based Study\"",
+  "paper_type": "theory",
+  "year": "2010",
+  "concepts": "[multiferroicity, magnetoelectric-coupling, strain-engineering, kittel-law, effective-hamiltonian, oxygen-octahedra-tilting, domain-wall-energy, depolarizing-field, open-circuit-boundary-conditions, real-space-energy-decomposition, weak-ferromagnetism, domain-wall]",
+  "entities": "[BiFeO3, PZT, BaTiO3, PbTiO3]",
+  "methods": "[effective-hamiltonian, monte-carlo, first-principles, real-space-energy-decomposition]",
+  "materials": "[BiFeO3, PZT, BaTiO3, PbTiO3]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "用基于第一性原理的有效哈密顿量结合蒙特卡洛模拟证实 BFO 超薄膜（h ≳ 20 Å）规则 71° 条带畴遵循 Kittel 定律，但其微观驱动力由畴壁处氧八面体倾斜（AFD）短程相互作用与表面电偶极长程作用和磁电耦合的竞争所主导，与传统铁电/铁磁薄膜截然不同。"
+  }
+ },
+ {
+  "citekey": "rameshMultiferroicsProgressProspects2007",
+  "title": "\"Multiferroics: progress and prospects in thin films\"",
+  "paper_type": "review",
+  "year": "2007",
+  "concepts": "[density-functional-theory, ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, domain-wall]",
+  "entities": "[BiFeO3, HoMnO3]",
+  "methods": "[afm-pfm, dft, mfm, stm-mbe]",
+  "materials": "[BiFeO3, HoMnO3]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "系统综述薄膜多铁性材料，提出\"单相薄膜—水平异质结—垂直异质结\"三种架构范式，并阐明通过外延应变、原子级界面工程与交换偏置实现电场调控磁性的物理路线。"
+  }
+ },
+ {
+  "citekey": "RecentAdvancesGrowth2025",
+  "title": "\"Recent advances in growth, characterization, and application of two-dimensional multiferroic materials\"",
+  "paper_type": "review",
+  "year": "2025",
+  "concepts": "[2D-materials, ferroelasticity, ferroelectric-tunnel-junction, magnetoelectric-coupling, multiferroicity, polarization-switching, sliding-ferroelectricity, spin-orbit-coupling, strain-engineering]",
+  "entities": "[BiFeO3, In2Se3, MXenes, TMDs]",
+  "methods": "[afm-pfm, raman, squid, stm-mbe, tem, xanes, xrd]",
+  "materials": "[BiFeO3, In2Se3, MXenes, TMDs]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "系统综述二维多铁材料（重点为 II 型铁磁-铁电/铁磁-铁弹体系）的分类、CVD/PVD/MBE/ALD 生长方法、STM/SHG/拉曼/太赫兹等表征工具箱及六大器件应用，并以 NiI₂、Cr₂S₃、CuCrSe₂、p 型 SnSe 为里程碑案例。"
+  }
+ },
+ {
+  "citekey": "sattarFunctionalizedDoubleTransition2025",
+  "title": "\"Functionalized double transition metal Mo2Ti2C3Tx ferroelectric MXene and laser-reduced graphene based flexible memristors for next-generation two-dimensional ferrotronics\"",
+  "paper_type": "experiment",
+  "year": "2025",
+  "concepts": "[2D-materials, space-charge-limited-current, oxygen-vacancy-filament, resistive-switching-memory]",
+  "entities": "[MXenes, Mo2Ti2C3Tx, laser-reduced-graphene, ferroelectric-memristor]",
+  "methods": "[afm-pfm, device-i-v, raman, tem, xps, xrd]",
+  "materials": "[MXenes]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "首次通过 400 °C 真空热处理在自支撑双过渡金属 MXene Mo₂Ti₂C₃Tₓ 薄膜中原位生成金红石 TiO₂/MoO₃ 相并诱导出室温铁电性，以此为活性层、激光还原石墨烯（LSG）为上下电极构筑全柔性 LSG/H-DTM/LSG 三明治忆阻器，实现双极性阻变（开关比 ~10²、耐久 10³ 次、保持 5×10³ s），机理为铁电内电场调控的氧空位导电细丝。"
+  }
+ },
+ {
+  "citekey": "Scremin2018nonlinear",
+  "title": "\"Nonlinear absorption of tetrathiafulvalene radical cation (TTF+) based charge transfer (CT) aggregates in PMMA\"",
+  "paper_type": "experiment",
+  "year": "2018",
+  "concepts": "[nonlinear-absorption, saturable-absorption, charge-transfer, z-scan, two-level-system, steady-state-rate-equations, excited-state-lifetime, gaussian-beam, radical-cation, dismutation-equilibrium, mixed-valence, weight-factor-approximation]",
+  "entities": "[TTF, PMMA, TTFClO4, Origin, titanium-sapphire-laser]",
+  "methods": "[open-aperture-z-scan, femtosecond-spectroscopy, absorption-spectroscopy, rate-equation-modeling, solvent-casting, gaussian-beam-integration, analytical-fitting]",
+  "materials": "[TTF+, PMMA, TTFClO4]",
+  "projects": "[project-4, project-1]",
+  "fields": {
+   "一句话": "用开孔飞秒Z扫描结合一个不做低饱和近似的解析拟合公式，首次测得PMMA中TTF⁺ CT聚集体的激发态寿命为百飞秒量级，并据此揭示稳态速率方程模型在超快脉冲下的自洽性危机。"
+  }
+ },
+ {
+  "citekey": "sharmaRoomtemperatureFerroelectricSemimetal2019",
+  "title": "\"A room-temperature ferroelectric semimetal\"",
+  "paper_type": "experiment",
+  "year": "2019",
+  "concepts": "[2D-materials, berry-phase, density-functional-theory, ferroelasticity, multiferroicity, polarization-switching, spin-orbit-coupling, domain-wall]",
+  "entities": "[BiFeO3, VASP, WTe2]",
+  "methods": "[afm-pfm, berry-phase, dfpt, dft, tem, xrd]",
+  "materials": "[BiFeO3, WTe2, domain-wall]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "首次在块体范德华晶体 WTe₂（II型外尔半金属）中于室温下实验证实本征金属性与可翻转铁电性共存，实现了 Anderson 与 Blount 1965 年预言的\"铁电金属\"。"
+  }
+ },
+ {
+  "citekey": "shenEmergenceMultipleFerroelectric2025",
+  "title": "\"Emergence of multiple ferroelectric states in multilayer black phosphorus\"",
+  "paper_type": "experiment",
+  "year": "2025",
+  "concepts": "[2D-materials, berry-phase, density-functional-theory, moire-superlattice, polarization-switching, sliding-ferroelectricity, multistate-memory, interlayer-dipole-coupling, elemental-ferroelectrics]",
+  "entities": "[In2Se3, SnTe, TMDs, VASP, WTe2, h-BN, black-phosphorus]",
+  "methods": "[berry-phase, dft, neb]",
+  "materials": "[In2Se3, SnTe, TMDs, WTe2, h-BN]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "通过第一性原理计算预言层数 N≥3 的多层黑磷可借助非对称层间堆叠（如 EAB）打破中心对称，产生可由层间滑移翻转的滑移铁电性，并随层数增加涌现多种可互转的极化态，为单质多层材料中的多态非易失存储提供新平台。"
+  }
+ },
+ {
+  "citekey": "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+  "title": "\"Implementation and performance of the frequency-dependent GW method within the PAW framework\"",
+  "paper_type": "theory",
+  "year": "2006",
+  "concepts": "[density-functional-theory]",
+  "entities": "[GaAs, VASP]",
+  "methods": "[dft]",
+  "materials": "[GaAs]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "在VASP的PAW框架内实现了全频率依赖的G₀W₀计算，利用谱表示与Hilbert/Kramers-Kronig变换将计算成本降至仅约为静态计算的两倍，并以HF水平处理芯-价相互作用，使含d电子材料的准粒子能量计算既快又准。"
+  }
+ },
+ {
+  "citekey": "shuTwoDimensionalBlackArsenic2020",
+  "title": "\"Two-Dimensional Black Arsenic Phosphorus for Ultrafast Photonics in Near- and Mid-Infrared Regimes\"",
+  "paper_type": "experiment",
+  "year": "2020",
+  "concepts": "[2d-materials, density-functional-theory, saturable-absorption, band-structure, electron-hole-recombination, in-plane-anisotropy, nonlinear-optics]",
+  "entities": "[b-AsP]",
+  "methods": "[liquid-phase-exfoliation, z-scan, dft, pbe-functional, hse-functional, uv-vis-nir, raman, xps, sem, tem, hrtem, saed, afm, mode-locked-fiber-laser, sech2-autocorrelation]",
+  "materials": "[b-AsP, black-phosphorus, graphene]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "首次将液相剥离制备的二维黑砷磷（b-AsP）作为可饱和吸收体，在 1.5 μm 和 2 μm 光纤激光器中实现稳定锁模脉冲，并通过 DFT 揭示其低饱和强度源于极小带隙、电荷空间分离和结构破缺对称。"
+  }
+ },
+ {
+  "citekey": "songEvidenceSinglelayerVan2022",
+  "title": "\"Evidence for a single-layer van der Waals multiferroic\"",
+  "paper_type": "experiment",
+  "year": "2022",
+  "concepts": "[multiferroicity, 2d-materials, magnetoelectric-coupling, spin-orbit-coupling, berry-phase, type-ii-multiferroicity, spin-helix, electromagnon, raman-optical-activity, second-harmonic-generation, birefringence, inversion-symmetry-breaking, rotational-symmetry-breaking, magnetic-anisotropy, geometric-frustration, superexchange, skyrmions, helical-magnetism, improper-electronic-ferroelectricity, magnetic-anisotropy-energy]",
+  "entities": "[NiI2, VASP, WIEN2k, h-BN]",
+  "methods": "[shg, raman, circular-dichroic-raman, birefringence, linear-dichroism, afm, xrd, tem-electron-diffraction, cvt-growth, pvd-growth, dft, dft-plus-u, berry-phase, monte-carlo, heisenberg-model, gknb-model, four-state-method, squid-magnetometry, bulk-photovoltaic-effect, polarized-microscopy]",
+  "materials": "[NiI2, h-BN]",
+  "projects": "[project-2, project-5, project-7]",
+  "fields": {
+   "一句话": "首次在单层 NiI₂ 中通过双折射、SHG 和圆二色拉曼等互补光学手段，并结合 DFT+U 与蒙特卡洛模拟，实验证实了本征第二类多铁性（proper-screw 螺旋磁序诱导沿 a 轴电极化）在二维极限下的存在，单层 T_N ≈ 21 K。"
+  }
+ },
+ {
+  "citekey": "spaldinAdvancesMagnetoelectricMultiferroics2019",
+  "title": "\"Advances in magnetoelectric multiferroics\"",
+  "paper_type": "review",
+  "year": "2019",
+  "concepts": "[berry-phase, density-functional-theory, ferroelasticity, magnetoelectric-coupling, multiferroicity, spin-orbit-coupling, strain-engineering, topological-defects, domain-wall]",
+  "entities": "[BiFeO3, HoMnO3, SrMnO3]",
+  "methods": "[afm-pfm, berry-phase, device-i-v, dft, mfm]",
+  "materials": "[BiFeO3, HoMnO3, SrMnO3, domain-wall]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "这是多铁性领域奠基人的前瞻性综述，以\"多铁性家族树\"框架系统梳理了实现磁电耦合的材料机制、BiFeO3旗舰体系、畴壁新物理、表征/理论方法及MESO超低功耗逻辑器件路线，并凝练出\"十大科学与技术挑战\"。"
+  }
+ },
+ {
+  "citekey": "spaldinRenaissanceMagnetoelectricMultiferroics2005",
+  "title": "\"The Renaissance of Magnetoelectric Multiferroics\"",
+  "paper_type": "review",
+  "year": "2005",
+  "concepts": "[ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, strain-engineering, domain-wall]",
+  "entities": "[BiFeO3, HoMnO3]",
+  "methods": "[]",
+  "materials": "[BiFeO3, HoMnO3, domain-wall]",
+  "projects": "[project-2]",
+  "fields": {
+   "一句话": "这篇 Perspective 从电子结构层面阐明了传统铁磁性（需部分填充 d 轨道）与铁电性（需空 d 轨道）在原子尺度上互斥的根本矛盾，并据此确立了单相非常规机制（几何/电荷有序铁电性）与两相弹性复合（PZT/Terfenol-D）两条复兴路径，后者在室温下的磁电耦合系数比单相低温值高出 3–5 个数量级。"
+  }
+ },
+ {
+  "citekey": "Srinivasan1989lead",
+  "title": "\"MBE-Grown Lead Tin Telluride Infrared Devices\"",
+  "paper_type": "experiment",
+  "year": "1989",
+  "concepts": "[molecular-beam-epitaxy, fabry-perot-interferometer, infrared-detection, band-pass-filter, photoconductivity, skin-depth, atmospheric-window, narrow-gap-semiconductor, quantum-efficiency, detectivity, optical-constants, PbSnTe, HgCdTe, KCl]",
+  "entities": "[PbSnTe, KCl, HgCdTe, SnTe, Perkin-Elmer]",
+  "methods": "[mbe, xrd, vegard-law, optical-transmission-spectroscopy, blackbody-response-measurement, photoconductivity-measurement, knudsen-cell-evaporation]",
+  "materials": "[Pb0.82Sn0.18Te, KCl-substrate]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "首次系统验证了用分子束外延（MBE）在 KCl(100) 衬底上生长的 Pb₀.₈₂Sn₀.₁₈Te 单晶薄膜可同时制成 8–14 μm 大气窗口的法布里-珀罗红外带通滤波器（FWHM 20–25%）和 77 K 光电导探测器（D* ≈ 1.47×10⁸ cm·Hz¹ᐟ²·W⁻¹）。"
+  }
+ },
+ {
+  "citekey": "sunSlidingFerroelectricityTwodimensional2025",
+  "title": "\"Sliding ferroelectricity in two-dimensional materials and device applications\"",
+  "paper_type": "review",
+  "year": "2025",
+  "concepts": [
+   "sliding-ferroelectricity",
+   "2d-materials",
+   "moire-superlattice",
+   "ferroelectric-tunnel-junction",
+   "polarization-switching",
+   "multiferroicity",
+   "magnetoelectric-coupling",
+   "berry-phase",
+   "strain-engineering",
+   "density-functional-theory",
+   "charge-density-wave",
+   "spin-orbit-coupling",
+   "ferroelasticity",
+   "topological-defects",
+   "super-paraelectricity",
+   "domain-wall",
+   "interlayer-charge-transfer",
+   "stacking-engineering",
+   "depolarization-field",
+   "valley-polarization",
+   "flat-band",
+   "van-hove-singularity",
+   "neuromorphic-computing"
+  ],
+  "entities": [
+   "h-BN",
+   "TMDs",
+   "WTe2",
+   "In2Se3",
+   "Fe3GeTe2",
+   "BiFeO3",
+   "VASP",
+   "SnTe",
+   "MoS2",
+   "WSe2",
+   "WS2",
+   "MoSe2",
+   "MoSi2N4",
+   "CrI3",
+   "GdI2",
+   "VSe2",
+   "Cr2Ge2Te6",
+   "graphene",
+   "MnSe",
+   "ReS2"
+  ],
+  "methods": [
+   "dft",
+   "paw",
+   "gga-pbe",
+   "neb",
+   "berry-phase",
+   "molecular-dynamics",
+   "landau-theory",
+   "cvd",
+   "pvd",
+   "mechanical-exfoliation",
+   "electrochemical-exfoliation",
+   "liquid-exfoliation",
+   "stacking-transfer",
+   "pfm",
+   "ss-pfm",
+   "vector-pfm",
+   "kpfm",
+   "shg",
+   "4d-stem",
+   "haadf-stem",
+   "raman",
+   "afm",
+   "i-v-c-v",
+   "pe-loop"
+  ],
+  "materials": [
+   "graphene",
+   "h-BN",
+   "r-BN",
+   "MoS2",
+   "WSe2",
+   "WS2",
+   "MoSe2",
+   "ReS2",
+   "WTe2",
+   "GaSe",
+   "GeSe",
+   "SnSe",
+   "InSe",
+   "MoSSe",
+   "CrI3",
+   "GdI2",
+   "VSe2",
+   "FeCl2",
+   "Cr2Ge2Te6",
+   "Fe3GeTe2",
+   "MnSe",
+   "HgI2",
+   "Cd3Cl6",
+   "Tl2S",
+   "MoSi2N4",
+   "VSi2N4",
+   "PdSe2",
+   "PtSe2",
+   "ZrI2",
+   "TaS2"
+  ],
+  "projects": "[project-2, project-5, project-7]",
+  "fields": {
+   "一句话": "这是一篇 2025 年的长篇综述，系统梳理了二维范德华材料中由层间相对滑移产生面外极化的\"滑动铁电性\"——三种构建路径（3R 菱方堆叠、扭转角、莫尔超晶格）、材料谱系、制备表征工具箱以及 FeFET/FTJ/突触/光伏存储器等器件应用，是当前该领域最完整的知识框架之一。"
+  }
+ },
+ {
+  "citekey": "tahirFerroelectricityNonvolatileMemristor2025",
+  "title": "\"Ferroelectricity and Nonvolatile Memristor Applications of Free‐Standing 2D Niobium Carbide: A New Frontier of Free‐Standing MXene in Electronic Devices\"",
+  "paper_type": "experiment",
+  "year": "2025",
+  "concepts": "[2D-materials, multiferroicity, polarization-switching, strain-engineering, space-charge-limited-current, resistive-switching, valence-change-mechanism, pfm-piezoresponse-force-microscopy, oxygen-vacancy, memristor, pe-hysteresis-loop, free-standing-film]",
+  "entities": "[BiFeO3, MXenes, TMDs, rGO, Nb2O5, Nb2CTx, NbOX2, Nb2AlC-MAX]",
+  "methods": "[afm-pfm, device-i-v, dft, raman, tem, xps, xrd]",
+  "materials": "[BiFeO3, MXenes, TMDs]",
+  "projects": "[project-2, project-4, project-5, project-6]",
+  "fields": {
+   "一句话": "首次在自支撑二维 Nb₂CTₓ MXene 薄膜上观测到铁电性（1000 Hz 下剩余极化 Pr = 5.12 μC/cm²，为当时自支撑 MXene 最高值），并以其本征氧空位作为开关层构筑了 Ti₃C₂Tₓ/Nb₂CTₓ/Ti₃C₂Tₓ 与 rGO/Nb₂CTₓ/rGO 两种非易失性双极阻变忆阻器。"
+  }
+ },
+ {
+  "citekey": "tangCombiningIntrinsicSlidinginduced2025",
+  "title": "\"Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectrics\"",
+  "paper_type": "theory",
+  "year": "2025",
+  "concepts": "[sliding-ferroelectricity, polarization-switching, berry-phase, 2D-materials, ferroelectric-tunnel-junction, charge-density-wave, composite-ferroelectricity, polarization-multistates, layer-selective-switching, interlayer-polarization-coupling]",
+  "entities": "[VASP, TMDs, h-BN, In2Se3, SnTe, MoSe2, 1T-double-prime-TMD]",
+  "methods": "[dft, vasp, pbe, paw, dft-d3, berry-phase, neb, aimd, monkhorst-pack]",
+  "materials": "[1T-double-prime-MoSe2, 1T-double-prime-MoS2, 1T-double-prime-MoTe2, h-BN, In2Se3, CuInP2S6, SnTe]",
+  "projects": "[project-5, project-7]",
+  "fields": {
+   "一句话": "在同一二维范德华体系中结合本征极化（PI，离子位移、高势垒）与滑移诱导极化（PS，层间电子重构、低势垒），利用两者势垒相差一个数量级而实现电场分级控制，在 H 堆叠 1T″-MoSe₂ 双层/三层中分别预测出 6 个和 10 个可切换极化态。"
+  }
+ },
+ {
+  "citekey": "tangGridbasedBaderAnalysis2009",
+  "title": "\"A grid-based Bader analysis algorithm without lattice bias\"",
+  "paper_type": "theory",
+  "year": "2009",
+  "concepts": "[density-functional-theory, bader-analysis, charge-density, zero-flux-surface, lattice-bias, steepest-ascent, mulliken-population-analysis, electron-localization-function, non-nuclear-attractor, steepest-ascent-path, correction-vector]",
+  "entities": "[VASP, Gaussian-98, Quantum-ESPRESSO, PAW, Vanderbilt-ultrasoft, bader-code]",
+  "methods": "[dft, plane-wave, bader-charge-analysis, grid-based-algorithm, finite-difference, post-processing, mp2, monkhorst-pack]",
+  "materials": "[NaCl, H2O]",
+  "projects": "[project-2, project-4, project-5, project-7]",
+  "fields": {
+   "一句话": "提出\"近网法\"（near-grid method），通过累积\"修正向量\"在网格点间追踪真实的离网格电荷密度梯度轨迹，在保持 O(N) 线性标度的同时彻底消除了早期在网法（on-grid method）的晶格偏差，使 Bader 电荷/体积能随网格加密单调收敛、且不依赖于分子相对网格的取向。"
+  }
+ },
+ {
+  "citekey": "tangMultiferroicityTwodimensionalVan2025",
+  "title": "\"Towards Multiferroicity in Two-Dimensional Van Der Waals Materials: Challenges and Opportunities\"",
+  "paper_type": "review",
+  "year": "2025",
+  "concepts": "[2D-materials, ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, sliding-ferroelectricity, spin-orbit-coupling, strain-engineering, ferroic-order, d0-rule, dzyaloshinskii-moriya-interaction, intercalation-engineering]",
+  "entities": "[BiFeO3, CrTe2, Fe3GeTe2, In2Se3, MXenes, TMDs, NiI2, Cr2Ge2Te6, Cr2S3, VCl3, CuCrSe2, SnSe, CuCrP2S6, ReS2]",
+  "methods": "[afm-pfm]",
+  "materials": "[BiFeO3, CrTe2, Fe3GeTe2, In2Se3, MXenes, TMDs]",
+  "projects": "[project-2]",
+  "fields": {
+   "一句话": "系统提出在二维范德华材料中\"人工设计\"多铁性的四大策略（磁中造电、电中生磁、弹中诱电、异质结组装），并指明室温强磁电耦合是该领域走向应用的核心挑战。"
+  }
+ },
+ {
+  "citekey": "tanRevealingEmergentMagnetic2024",
+  "title": "\"Revealing emergent magnetic charge in an antiferromagnet with diamond quantum magnetometry\"",
+  "paper_type": "experiment",
+  "year": "2024",
+  "concepts": "[topological-defects, domain-wall]",
+  "entities": "[]",
+  "methods": "[afm-pfm, squid]",
+  "materials": "[domain-wall]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "利用单晶金刚石氮-空位（NV）色心的量子磁强计（DQM）对斜方反铁磁体 α-Fe₂O₃（赤铁矿）中拓扑自旋织构成像，首次直接读出反铁磁交错涡度，并通过\"涡度—磁化散度—磁荷\"对偶关系揭示出单极、偶极、四极三类涌现磁荷分布。"
+  }
+ },
+ {
+  "citekey": "Terasaki2011ultrasonic",
+  "title": "\"Ultrasonic Wave Induced Mechanoluminescence\"",
+  "paper_type": "experiment",
+  "year": "2011",
+  "concepts": "[mechanoluminescence, elastic-deformation, trap-levels, mechano-optical-conversion, ultrasonic-excitation, SrAl2O4-Eu]",
+  "entities": "[SrAl2O4-Eu]",
+  "methods": "[ultrasonic-irradiation, sem-microscopy, optical-emission-detection]",
+  "materials": "[SrAl2O4-Eu]",
+  "projects": "[project-3]",
+  "fields": {
+   "一句话": "首次实验证实超声波（37 kHz，水浴）可非接触式激发 SrAl₂O₄:Eu（SAOE）微粒产生可重复、功率依赖的机械发光，为\"体内遥控光源\"构想提供了原理验证。"
+  }
+ },
+ {
+  "citekey": "tianRoomtemperatureTwodimensionalMultiferroic2026",
+  "title": "\"Room-temperature two-dimensional multiferroic metal with voltage-controllable magnetic order\"",
+  "paper_type": "experiment",
+  "year": "2026",
+  "concepts": "[2D-materials, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, sliding-ferroelectricity, spin-orbit-coupling, strain-engineering, zigzag-antiferromagnetism, interlayer-charge-transfer, electron-filling-magnetism, fm-afm-superlattice, electric-write-magnetic-read, ferroelectric-metal]",
+  "entities": "[BiFeO3, CrTe2, In2Se3, TMDs, VASP]",
+  "methods": "[afm-pfm, berry-phase, dft, dft-plus-u, mfm, raman, squid, stm-mbe, tem, xanes]",
+  "materials": "[BiFeO3, CrTe2, In2Se3, TMDs]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "在 MBE 生长的双层 CrTe₂ 中首次实验实现室温、空气稳定的二维\"多铁金属\"，并演示非易失\"电写磁读\"；其磁电耦合不依赖自旋轨道耦合，而源于 FM/z-AFM 两层之间的自发层间电荷转移。"
+  }
+ },
+ {
+  "citekey": "Tobeiha2025optical",
+  "title": "\"Optical humidity sensor based on G/GO nanosheets\"",
+  "paper_type": "experiment",
+  "year": "2025",
+  "concepts": "[2d-materials, p-type-semiconductor, exciton-binding-energy, optical-bandgap, two-photon-absorption, photoconductivity, humidity-sensing-mechanism, kubelka-munk-theory]",
+  "entities": "[graphene, graphene-oxide, g-go-nanosheets]",
+  "methods": "[fesem, edx, xrd, ftir, raman-spectroscopy, pl-spectroscopy, diffuse-reflectance-spectroscopy, tauc-plot, dip-coating, iv-measurement, sonochemical-exfoliation]",
+  "materials": "[graphene, graphene-oxide, silicon-substrate]",
+  "projects": "[project-6, project-1]",
+  "fields": {
+   "一句话": "用声化学剥离法制备石墨烯/氧化石墨烯（G/GO）纳米片，系统比较370/450/808 nm激光对其湿度传感性能的调控，发现450 nm蓝光因光子能量足以克服GO带隙与激子结合能，使传感器在灵敏度、线性度、响应/恢复速度（1.0 s/1.3 s）上全面最优。"
+  }
+ },
+ {
+  "citekey": "TSUJI2019phosphorescence",
+  "title": "\"Phosphorescence light decay curve from mechanoluminescence material subjected to hydrostatic load\"",
+  "paper_type": "experiment",
+  "year": "2019",
+  "concepts": "[mechanoluminescence, phosphorescence, exponential-decay, trap-depletion, reabsorption, hydrostatic-pressure, time-resolved-spectroscopy, carrier-detrapping]",
+  "entities": "[PMT, oscilloscope, pulsed-led, photodiode]",
+  "methods": "[time-resolved-phosphorescence, exponential-fitting, hydrostatic-loading, pulsed-led-excitation, pmt-detection]",
+  "materials": "[mechanoluminescent-powder, elastomeric-composite]",
+  "projects": "[project-3]",
+  "fields": {
+   "一句话": "用 PMT+脉冲 LED 的时间分辨装置测量静水载荷下 ML 材料的磷光衰减曲线，并以含吸收因子 γ（α、β）的指数模型修正标准单指数衰减，揭示自吸收对表观衰减的显著影响。"
+  }
+ },
+ {
+  "citekey": "Unknown2003charge",
+  "title": "\"Bis(ethylenedithio)tetrathiafulvalene (BEDT-TTF) Charge Transfer Compounds with Copper(II) Halides: (BEDT-TTF)₁.₅CuX₂(X=Cl, Br)\"",
+  "paper_type": "experiment",
+  "year": "2003",
+  "concepts": [
+   "charge-transfer-compound",
+   "bedt-ttf",
+   "mixed-valence",
+   "vibronic-coupling",
+   "electron-paramagnetic-resonance"
+  ],
+  "entities": "[]",
+  "methods": "[epr, squid]",
+  "materials": [
+   "BEDT-TTF",
+   "CuCl2",
+   "CuBr2"
+  ],
+  "projects": "[project-4]",
+  "fields": {
+   "一句话": "在乙腈中直接反应合成 (BEDT-TTF)₁.₅CuX₂ (X=Cl, Br)，证实 BEDT-TTF 被部分氧化、Cu 处于 Cu(II/I) 混合价态，并建立\"Br⁻ 诱导效应更弱→残留 Cu(II) 更多→库仑散射更强→电导率更低\"的构效关系；指出给体/受体比需 >2 才能将 Cu(II) 完全还原为 Cu(I)。"
+  }
+ },
+ {
+  "citekey": "Unknown2014optical",
+  "title": "\"Optical Fiber Relative Humidity Sensor Based on Fabry-Perot Interferometer Coated with Sodium-p-styrenesulfonate/Allyamine Hydrochloride Films\"",
+  "paper_type": "experiment",
+  "year": "2014",
+  "concepts": [
+   "fabry-perot-interferometer",
+   "fiber-optic-humidity-sensor",
+   "fringe-contrast",
+   "layer-by-layer-self-assembly"
+  ],
+  "entities": [
+   "PAH-PSS-multilayer",
+   "hollow-core-photonic-crystal-fiber"
+  ],
+  "methods": "[tem]",
+  "materials": [
+   "PAH",
+   "PSS",
+   "optical-fiber"
+  ],
+  "projects": "[project-6]",
+  "fields": {
+   "一句话": "首次用层层静电自组装（LbL）将 PAH/PSS 聚电解质纳米薄膜沉积在 SMF–HCPCF–SMF 夹心结构本征法布里-珀罗干涉仪（IFPI）端面，以反射光谱最大条纹对比度为解调量，实现 0.08 dB/%RH 灵敏度、5–90%RH 量程、上升 2 s/下降 6 s、且 20–100 °C 内波动 <0.01 dB 的温度不敏感光纤湿度传感器。"
+  }
+ },
+ {
+  "citekey": "Unknown2014passive",
+  "title": "\"Three-Dimensional Passive Micromixer Fabricated by Two-Photon Polymerization for Microfluidic Mixing\"",
+  "paper_type": "experiment",
+  "year": "2014",
+  "concepts": "[two-photon-polymerization, two-photon-absorption, biphoton, photoinitiator, polymer-phase-separation, monolithic-integration]",
+  "entities": "[]",
+  "methods": "[]",
+  "materials": [
+   "PDMS"
+  ],
+  "projects": "[project-1]",
+  "fields": {
+   "一句话": "用双光子聚合（TPP）在PDMS微通道内原位加工三叶螺旋桨式三维被动微混合器，螺旋形桨叶诱导Z向流线，单级结构在12 μl/min流量下混合效率即超过80%，显著优于圆柱、菱形柱和平面桨叶。"
+  }
+ },
+ {
+  "citekey": "Unknown2022polymerization",
+  "title": "\"Two-photon polymerization for advanced sensor manufacturing\"",
+  "paper_type": "experiment",
+  "year": "2022",
+  "concepts": "[two-photon-polymerization, fabry-perot-cavity, optical-sensing, micromechanical-hinge, magnetron-sputtering, monolithic-integration, moems, quality-factor, refractive-index-sensing]",
+  "entities": "[optical-fiber, gold, photoresist]",
+  "methods": "[two-photon-polymerization, magnetron-sputtering, sem, optical-reflection-spectroscopy, fabry-perot-interferometry]",
+  "materials": "[photoresist, gold, silica-optical-fiber]",
+  "projects": "[project-1, project-6]",
+  "fields": {
+   "一句话": "利用双光子聚合（2PP）在光纤尖端单片制造出带微机械铰链与锁扣的可开合法布里-珀罗光学腔（FPC），通过\"开盖-磁控溅射镀金膜-闭合\"工艺解决了封闭微腔内表面镀膜难题，并实验验证了温度（灵敏度优于 0.4 nm/°C）和折射率（Δn=0.026 对应红移约 34 nm）传感性能。"
+  }
+ },
+ {
+  "citekey": "Unknown2025diffractive",
+  "title": "\"Millimeter-Scale Diffractive Optical Elements Fabricated by Two-Photon Polymerization for Beam Shaping in Materials Processing\"",
+  "paper_type": "experiment",
+  "year": "2025",
+  "concepts": "[beam-shaping, diffractive-optical-element, two-photon-polymerization, computer-generated-hologram, bessel-beam, axicon, staircase-effect, diffraction-efficiency, laser-damage-threshold, stitching, phase-modulation, nonlinear-absorption, FemtoBond-4B]",
+  "entities": "[FemtoBond-4B, MATLAB, STL, Ti-Sa-laser]",
+  "methods": "[two-photon-polymerization, cgh-design, sem, optical-microscopy, beam-profiling, laser-damage-threshold-testing, fft-simulation, tilt-correction, stitching-algorithm]",
+  "materials": "[FemtoBond-4B]",
+  "projects": "[project-1]",
+  "fields": {
+   "一句话": "用双光子聚合（2PP）拼接制造出直径 3.5 mm 的衍射光学元件（DOE），将高斯光束整形为双环形（近场双贝塞尔）光束，并验证其可承受 22.8 W 平均功率 / 24.8 GW/cm² 峰值功率密度的飞秒激光辐照。"
+  }
+ },
+ {
+  "citekey": "vahidmohammadiWorldTwodimensionalCarbides2021",
+  "title": "\"The world of two-dimensional carbides and nitrides (MXenes)\"",
+  "paper_type": "review",
+  "year": "2021",
+  "concepts": "[2d-materials, selective-etching, surface-termination, strain-engineering, intercalation, plasmonics, mxetronics, solid-solution, mixed-metal-ordering, liquid-crystal, electromagnetic-shielding]",
+  "entities": "[MXenes, MAX-phases, Ti3C2, Ti2C, Ta4C3, Mo2CTx, h-BN, TMDs]",
+  "methods": "[selective-etching, additive-manufacturing, vapor-phase-synthesis, dft, computational-atomistic-design]",
+  "materials": "[Ti3C2, Ti2C, Ta4C3, M5C4-MXene, carbide-MXenes, nitride-MXenes, carbonitride-MXenes]",
+  "projects": "[project-7, project-5, project-2]",
+  "fields": {
+   "一句话": "这是一篇发表于 Science 的 MXene 十年前瞻性综述，系统总结了二维过渡金属碳/氮化物 M_{n+1}X_nT_x 的结构分类、合成路线、可调性能与广阔应用，并指出氮化物合成、气放集成、表面/缺陷/应变精确控制及与其他二维材料异质组装是未来方向。"
+  }
+ },
+ {
+  "citekey": "vanvleckSurveyTheoryFerromagnetism1945",
+  "title": "\"A Survey of the Theory of Ferromagnetism\"",
+  "paper_type": "review",
+  "year": "1945",
+  "concepts": "[spin-orbit-coupling, bethe-peierls-weiss-method, heisenberg-model, correlation-energy, antiferromagnetism, bloch-spin-wave, molecular-field, exchange-interaction, brillouin-function, ising-model, stoner-model]",
+  "entities": "[]",
+  "methods": "[stm-mbe]",
+  "materials": "[]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "系统梳理从外斯分子场到海森堡交换作用、布洛赫自旋波、斯托纳集体电子模型及反铁磁性的铁磁性量子理论，并以\"定域—巡游\"两大范式的批判性比较确立了现代凝聚态磁性理论的概念框架。"
+  }
+ },
+ {
+  "citekey": "Wang2023ultracompact",
+  "title": "\"Ultracompact phase plate fabricated by femtosecond laser two-photon polymerization for generation of Mathieu–Gauss beams\"",
+  "paper_type": "experiment",
+  "year": "2023",
+  "concepts": "[nondiffracting-beams, mathieu-gauss-beams, two-photon-polymerization, phase-plate, spatial-filtering, orbital-angular-momentum, beam-shaping, vortex-wavefront, four-f-system]",
+  "entities": "[SZ-2080, spatial-light-modulator, metasurface, PHAROS-laser]",
+  "methods": "[femtosecond-laser-micromachining, two-photon-polymerization, layer-by-layer-scanning, sem, laser-confocal-microscopy, four-f-system, overlap-integral, numerical-simulation]",
+  "materials": "[SZ-2080, photoresist]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "首次用飞秒激光双光子聚合（TPP）以 100 nm 精度三维打印出仅 300 μm×300 μm 的偶/螺旋马蒂厄相位板，经 4-f 系统产生与仿真高度吻合、在 800 mm 内传播不变的高质量马蒂厄-高斯光束。"
+  }
+ },
+ {
+  "citekey": "wangFormationMechanismTwin2019",
+  "title": "\"Formation mechanism of twin domain boundary in 2D materials: The case for WTe2\"",
+  "paper_type": "experiment",
+  "year": "2019",
+  "concepts": "[2d-materials, strain-engineering, ferroelasticity, topological-defects, charge-density-wave, twin-domain-boundary, generalized-stacking-fault-energy, geometric-phase-analysis, displacement-induced-twinning, shear-strain, peierls-framework, partial-dislocation, domain-wall]",
+  "entities": "[WTe2, TMDs]",
+  "methods": "[stm, gpa, dft, gsfe, peierls-model]",
+  "materials": "[WTe2]",
+  "projects": "[project-2, project-7]",
+  "fields": {
+   "一句话": "首次在WTe2单晶表面实验观察到孪晶畴界（TDB），通过STM-GPA应变定量与DFT广义层错能计算证明其为位移驱动而非热驱动，需约7%临界剪切应变克服起始势垒。"
+  }
+ },
+ {
+  "citekey": "wangScreeningEnabledChemiresistiveMoisture2025",
+  "title": "\"Screening-Enabled Chemiresistive Moisture Sensing with Tetrathiafulvalene-Based Electrically Conductive Metal–Organic Frameworks\"",
+  "paper_type": "experiment",
+  "year": "2025",
+  "concepts": "[2D-materials, coulombic-potential, charge-trap-screening, through-space-charge-transport, chemiresistive-sensing, extrinsic-charge-mobility, tetrathiafulvalene, conductive-mof]",
+  "entities": "[]",
+  "methods": "[device-i-v, dft, xrd]",
+  "materials": [
+   "Mn2TTFTB",
+   "Co2TTFTB",
+   "Zn2TTFTB",
+   "Cd2TTFTB"
+  ],
+  "projects": "[project-6]",
+  "fields": {
+   "一句话": "用 M₂(TTFTB)（M = Mn, Co, Zn, Cd）系列同构导电 MOF 单晶器件，通过系统排除法证明水分子并非靠质子传导、载流子注入或结构变化，而是以高介电常数和氢键\"屏蔽\" TTF•+ 空穴与平衡阴离子之间的库仑陷阱，从而提升外禀迁移率；并指出 Zn²⁺ 因高库仑势（Zeff/r = 0.044 pm⁻¹）对阴离子抓得更牢，屏蔽失效，故 Zn₂(TTFTB) 湿度响应最弱。"
+  }
+ },
+ {
+  "citekey": "wangTunableD0Topological2025b",
+  "title": "\"Tunable d0 topological magnetic states in multiferroic monolayer In2NO2\"",
+  "paper_type": "theory",
+  "year": "2025",
+  "concepts": "[2d-materials, multiferroicity, magnetoelectric-coupling, strain-engineering, density-functional-theory, spin-orbit-coupling, berry-phase, polarization-switching, topological-defects, d0-magnetism, skyrmion, bimeron, dzyaloshinskii-moriya-interaction, half-metal, heisenberg-model, micromagnetic-simulation, topological-spin-texture, stoner-model, magnetic-anisotropy, ferroelectric-control-of-magnetism, magnetic-anisotropy-energy]",
+  "entities": "[VASP, In2Se3, TMDs, In2NO2, MoSe2]",
+  "methods": "[dft, soc, berry-phase, phonon-spectrum, ab-initio-md, monte-carlo, heisenberg-model, micromagnetic-simulation, stoner-model]",
+  "materials": "[In2NO2, MoSe2]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "通过第一性原理计算加微磁学模拟，预言单层多铁半金属 In₂NO₂ 中存在由 N 原子 p 轨道电子诱导的 d⁰ 铁磁性，并在垂直/面内磁场下分别产生斯格明子与双半子；拉伸应变可提高其密度与稳定性，In₂NO₂/MoSe₂ 异质结中可借铁电极化翻转对斯格明子相进行非易失性\"开/关\"以编码\"0/1\"。"
+  }
+ },
+ {
+  "citekey": "wangTwodimensionalFerroelectricMetal2025",
+  "title": "\"Two-dimensional ferroelectric metal CuCrX2 (X = S, Se) for efficient electrocatalysis\"",
+  "paper_type": "theory",
+  "year": "2025",
+  "concepts": "[2D-materials, density-functional-theory, multiferroicity, magnetoelectric-coupling, polarization-switching, ferroelectric-metal, electrocatalysis, overpotential, computational-hydrogen-electrode, sabatier-principle, work-function, oxygen-reduction-reaction, oxygen-evolution-reaction]",
+  "entities": "[VASP, CuCrS2, CuCrSe2, IrO2, Pt]",
+  "methods": "[dft, dft-d3, paw-pbe, spin-polarized-dft, che-model, gibbs-free-energy, band-structure, pdos, charge-density-difference, electrostatic-potential]",
+  "materials": "[CuCrS2, CuCrSe2]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "通过第一性原理计算预测二维铁电金属少层CuCrX2（X=S, Se）可作为非贵金属ORR/OER双功能电催化剂，其铁电极化使P+表面ORR过电位低至0.28 V、OER过电位低至0.43 V，优于Pt/IrO2等贵金属基准。"
+  }
+ },
+ {
+  "citekey": "Wei2021",
+  "title": "\"Atomic simulations of bamboo-like N-doped CNTs with spaced nitrogen and carbon atoms by DFTB algorithm\"",
+  "paper_type": "theory",
+  "year": "2021",
+  "concepts": "[density-functional-theory, dftb, nitrogen-doping, mulliken-population, odd-even-oscillation, curvature-effect, charge-transfer, chemical-potential, sp2-sp3-hybridization, DFTB+]",
+  "entities": "[DFTB+, carbon-nanotubes, bamboo-like-N-CNTs]",
+  "methods": "[dftb, scc-dftb, mulliken-population, geometry-optimization, atomic-simulation]",
+  "materials": "[carbon-nanotubes, n-doped-carbon-nanotubes, bamboo-like-n-cnts]",
+  "projects": "[project-4]",
+  "fields": {
+   "一句话": "用 SCC-DFTB 系统模拟了锯齿型 (n,0)（n=3–14）氮/碳原子层交替排列的竹节状氮掺杂碳纳米管，发现氮环向内收缩、几何与能隙的奇偶振荡、大管径管转变为金属性，以及受管径调制的复杂 N→C 电荷转移模式。"
+  }
+ },
+ {
+  "citekey": "wernetSpectroscopicCharacterizationMicroscopic2005",
+  "title": "\"Spectroscopic characterization of microscopic hydrogen-bonding disparities in supercritical water\"",
+  "paper_type": "experiment",
+  "year": "2005",
+  "concepts": "[density-functional-theory, heterogeneous-patch-model, x-ray-absorption-spectroscopy, x-ray-raman-scattering, radial-distribution-function, hydrogen-bond]",
+  "entities": [
+   "supercritical-water"
+  ],
+  "methods": "[dft, raman, xanes]",
+  "materials": [
+   "water"
+  ],
+  "projects": "[project-6]",
+  "fields": {
+   "一句话": "用氧 K 边 X 射线拉曼散射（XRS）结合 DFT 计算谱，首次直接证明超临界水中并存两种截然不同的局域构型——约 65% 的分子具有四个完整但严重扭曲的氢键（平均 O–O 距 3.1 Å），约 35% 的分子具有两个自由 O–H 键（类气相），支持非均相\"斑块\"结构模型，颠覆了基于衍射的\"均匀部分断键网络\"图像。"
+  }
+ },
+ {
+  "citekey": "Wixtrom2011electrical",
+  "title": "\"Electrical and Optical Properties of a New Polymorph of the Tetrathiafulvalene-Chloranil (TTF-CA) Charge Transfer Salt\"",
+  "paper_type": "experiment",
+  "year": "2011",
+  "concepts": "[charge-transfer-salt, polymorphism, mechanochemical-synthesis, neutral-ionic-transition, mixed-stack, cyclic-voltammetry]",
+  "entities": "[TTF-CA, TTF, chloranil, ITO]",
+  "methods": "[mechanochemical-synthesis, pxrd, cv-electrochemistry]",
+  "materials": "[TTF-CA]",
+  "projects": "[project-4, project-2]",
+  "fields": {
+   "一句话": "用无溶剂机械化学法首次合成出 TTF-CA 电荷转移盐的黑色三斜新多晶型，解析其混合堆砌晶体结构，并通过循环伏安发现压片几乎无电容、与 ITO 存在接触电阻。"
+  }
+ },
+ {
+  "citekey": "wongEvidenceMetallic1T",
+  "title": "\"Metallic 1T Phase, 3d1 Electronic Configuration and Charge Density Wave Order in Molecular Beam Epitaxy Grown Monolayer Vanadium Ditelluride\"",
+  "paper_type": "experiment",
+  "year": "2019",
+  "concepts": "[2d-materials, charge-density-wave, spin-orbit-coupling, density-functional-theory, 1t-phase, 1t-prime-phase, fermi-surface-nesting, electron-phonon-coupling, substrate-effect, d1-electronic-configuration, octahedral-crystal-field, exchange-splitting, vdw-magnets, xmcd]",
+  "entities": "[VTe2, VASP, TMDs, HOPG, graphene]",
+  "methods": "[mbe, stm-sts, pes-xps, arpes, xas, xmcd, dft, paw-pbe, vdw-dft]",
+  "materials": "[VTe2]",
+  "projects": "[project-7]",
+  "fields": {
+   "一句话": "通过 MBE 生长 + STM/STS、PES、ARPES、XAS/XMCD 与 DFT 的联合证据链，首次确证单层 VTe₂ 为金属性 1T 相、V⁴⁺(3d¹) 构型、低温 (4×4) CDW 序，并用元素特异性 XMCD 排除了此前理论预测的本征铁磁性。"
+  }
+ },
+ {
+  "citekey": "WRZYSZCZYNSKI2010initiators",
+  "title": "\"Two-photon initiators of polymerization\"",
+  "paper_type": "review",
+  "year": "2010",
+  "concepts": "[two-photon-absorption, two-photon-polymerization, photoinitiator, d-pi-a-structure, two-photon-cross-section, photopolymerization, photoinduced-electron-transfer, exciplex, nonlinear-optics, intramolecular-charge-transfer, two-photon-absorption-cross-section]",
+  "entities": "[coumarin, stilbene, diphenyliodonium-salt, habi, thiazine-dye, triphenylamine, xanthene-dye, femtosecond-laser]",
+  "methods": "[literature-review, photopolymerization-kinetics, two-photon-absorption-spectroscopy, structure-property-analysis]",
+  "materials": "[e-stilbene, dibutylamino-stilbene, coumarin-derivatives, ketocoumarin-derivatives, thiazine-dyes, triphenylamine-derivatives, eosin, dpi, habi]",
+  "projects": "[project-1]",
+  "fields": {
+   "一句话": "本文系统综述双光子聚合引发剂的物理机制（顺序/同时双光子吸收）、分子设计准则（D-π-D / D-π-A-π-D / A-π-D-π-A）、代表性化合物类别（二苯乙烯衍生物、噻嗪染料、三苯胺、香豆素/酮香豆素二元体系等）及其在三维微纳加工中的应用优势。"
+  }
+ },
+ {
+  "citekey": "Wu2018",
+  "title": "\"Study of atomic arrangements and charge distribution on Si(0 0 1) surfaces with the adsorption of one Ge atom by DFTB calculations\"",
+  "paper_type": "theory",
+  "year": "2018",
+  "concepts": "[density-functional-theory, dftb, surface-reconstruction, dimer-buckling, adsorption-energy, mulliken-population, charge-transfer, slab-model, DFTB+]",
+  "entities": "[Si, Ge, SiGe]",
+  "methods": "[dftb, slab-model, structural-relaxation, mulliken-population-analysis, adsorption-energy-calculation, surface-energy-calculation]",
+  "materials": "[Si, Ge, SiGe]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "用DFTB方法系统计算了单个Ge原子在Si(001)的p(2×2)和c(4×2)重构表面上的吸附行为，发现Ge优先吸附于二聚体翘起原子的外侧顶位或二聚体桥位，且总是失去电荷，其最终构型与电荷转移模式强烈依赖初始吸附高度和位置。"
+  }
+ },
+ {
+  "citekey": "Wu2021",
+  "title": "\"Atomic arrangements, bond energies, and charge distribution on Si(0 0 1) surfaces with the adsorption of a Ge dimer by DFTB calculations\"",
+  "paper_type": "experiment",
+  "year": "2021",
+  "concepts": "[binding-strength, bond-density, density-functional-theory]",
+  "entities": "[]",
+  "methods": "[afm-pfm, dft, md, mlip, tight-binding]",
+  "materials": [
+   "Si",
+   "Ge"
+  ],
+  "projects": "[]",
+  "fields": {
+   "一句话": "用DFTB对774个初始构型做系统扫描，识别出Ge二聚体在c(4×2)重构Si(001)表面上的8种稳定吸附模式，并证明体系能隙变化主要由吸附对Si表面二聚体的扰动决定，而非Ge原子本身。"
+  }
+ },
+ {
+  "citekey": "wuCoexistenceFerroelectricityAntiferroelectricity2024",
+  "title": "\"Coexistence of ferroelectricity and antiferroelectricity in 2D van der Waals multiferroic\"",
+  "paper_type": "experiment",
+  "year": "2024",
+  "concepts": "[multiferroicity, magnetoelectric-coupling, 2D-materials, polarization-switching, topological-defects, spin-orbit-coupling, ferroelectricity, antiferroelectricity, non-collinear-magnetism, helical-spin-order, type-ii-multiferroic, knb-mechanism, inverse-dm-interaction, kitaev-interaction, spin-flop, bimeron, kai-model, ginzburg-landau, magnon-phonon-coupling, domain-wall]",
+  "entities": "[BiFeO3, h-BN, VASP, NiI2, graphene]",
+  "methods": "[dft, stem, raman-spectroscopy, mcd-rmcd, ferroelectric-hysteresis, pxrd, monte-carlo, atomistic-spin-simulation, kai-model, magneto-optical-electric-joint-measurement, cvt-synthesis, polarization-current-loops]",
+  "materials": "[NiI2, h-BN, graphene, BiFeO3]",
+  "projects": "[project-2, project-5, project-7]",
+  "fields": {
+   "一句话": "在三层 NiI₂ 器件中通过直接的 P–E/I–E 电滞回线和 RMCD 显微术，首次在二维范德华极限下同时证实了面外铁电性与反铁电性的共存，并通过磁场调控铁电畴翻转动力学（磁控比 ~7%，翻转时间最大增加 ~20%），直接证明了磁电耦合。"
+  }
+ },
+ {
+  "citekey": "wuElectrostaticGatingIntercalation2022",
+  "title": "\"Electrostatic gating and intercalation in 2D materials\"",
+  "paper_type": "review",
+  "year": "2022",
+  "concepts": "[2D-materials, charge-density-wave, moire-superlattice, spin-orbit-coupling, strain-engineering]",
+  "entities": "[Fe3GeTe2, TMDs, WTe2]",
+  "methods": "[afm-pfm, device-i-v, mlip, raman, tem, xanes]",
+  "materials": "[Fe3GeTe2, TMDs, WTe2]",
+  "projects": "[project-7]",
+  "fields": {
+   "一句话": "本文系统综述了在不破坏层内共价键的前提下，通过\"静电门控（表面双电层）\"与\"（脱）插层（进入范德华间隙）\"两条互补路径对二维层状硫族化物/氧化物进行可逆、动态、极端调控的方法、物理效应与新材料合成范式，特别突出低温拓扑化学（软化学）制备亚稳态相（如无限层镍酸盐超导体）。"
+  }
+ },
+ {
+  "citekey": "wuNonvolatileSwitchableHalfmetallicity2024",
+  "title": "\"Nonvolatile switchable half-metallicity and magnetism in the MXene Hf₂MnC₂O₂/Sc₂CO₂ multiferroic heterostructure\"",
+  "paper_type": "experiment",
+  "year": "2024",
+  "concepts": "[2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, selective-charge-transfer, half-metallicity, spin-field-effect-transistor, bipolar-magnetic-semiconductor, superexchange, magnetic-anisotropy-energy, polar-metal]",
+  "entities": "[CrTe2, Fe3GeTe2, In2Se3, MXenes, SnTe, VASP, Sc2CO2, Hf2MnC2O2]",
+  "methods": "[afm-pfm, berry-phase, dft, dft-plus-u]",
+  "materials": "[CrTe2, Fe3GeTe2, In2Se3, MXenes, SnTe]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "用第一性原理设计铁磁 MXene Hf₂MnC₂O₂ 与铁电 MXene Sc₂CO₂ 的范德华多铁异质结，翻转 Sc₂CO₂ 极化可非易失地使 Hf₂MnC₂O₂ 在双极磁性半导体与半金属之间切换，并同时增强铁磁交换 J₁（6.38→9.97 meV）和翻转易磁化轴（面内→面外）。"
+  }
+ },
+ {
+  "citekey": "wuSlidingFerroelectricity2D2021a",
+  "title": "\"Sliding ferroelectricity in 2D van der Waals materials: Related physics and future opportunities\"",
+  "paper_type": "review",
+  "year": "2021",
+  "concepts": "[2D-materials, berry-phase, density-functional-theory, ferroelasticity, magnetoelectric-coupling, moire-superlattice, multiferroicity, polarization-switching, sliding-ferroelectricity, spin-orbit-coupling, super-paraelectricity]",
+  "entities": "[BiFeO3, In2Se3, MXenes, SnTe, TMDs, VASP, WTe2, Wannier90, h-BN]",
+  "methods": "[afm-pfm, berry-phase, dft, md]",
+  "materials": "[BiFeO3, In2Se3, MXenes, SnTe, TMDs, WTe2, h-BN]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "系统建立了二维范德华层状材料中\"滑动铁电性\"（sliding ferroelectricity）的理论框架——垂直极化由面内层间滑移翻转而非离子垂直位移，提出普适性判据并梳理 WTe₂/BN/TMDs 等实验证据，将二维铁电体候选材料从寥寥几种扩展到大多数已知二维材料。"
+  }
+ },
+ {
+  "citekey": "xiangTwodimensionalRoomTemperature2020",
+  "title": "\"Towards two-dimensional room temperature multiferroics\"",
+  "paper_type": "review",
+  "year": "2020",
+  "concepts": "[multiferroicity, magnetoelectric-coupling, 2d-materials, polarization-switching, ferroelectricity, ferromagnetism, interlayer-magnetic-coupling, electric-write-magnetic-read, curie-temperature]",
+  "entities": "[CuCrS2, CuCrSe2]",
+  "methods": "[dft]",
+  "materials": "[CuCrS2, CuCrSe2, CrS2]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "本文是向红军撰写的研究亮点评述，推介 Zhong 等人通过第一性原理计算预测的二维 CuCrX₂（X=S, Se）室温多铁材料——其铁电与铁磁居里温度均高于室温，且铁电极化翻转可驱动净磁矩 180° 反转，为\"电写磁读\"存储提供新范式。"
+  }
+ },
+ {
+  "citekey": "XiaokangZhang2013calibrating",
+  "title": "\"Calibrating an optical fiber humidity sensor and applying it in real-time monitoring of relative humidity in fresh concrete\"",
+  "paper_type": "experiment",
+  "year": "2013",
+  "concepts": "[evanescent-field, refractive-index, relative-humidity, optical-power-variation, cross-sensitivity, lookup-table-calibration, hydrogel-swelling, temperature-compensation, evanescent-field-sensing]",
+  "entities": "[agarose, dcsmf, corning-smf-28e, dfb-ld, pmma, pvdf, climatic-chamber, optical-power-meter, pmma-pvdf-blend]",
+  "methods": "[fiber-optic-sensing, evanescent-field-sensing, chemical-etching, fusion-splicing, wet-dry-aging, climatic-chamber-characterization, lookup-table-calibration, interpolation, in-situ-monitoring]",
+  "materials": "[agarose, fresh-concrete, pmma, pvdf]",
+  "projects": "[project-6]",
+  "fields": {
+   "一句话": "制备了一种琼脂糖涂覆的双层包层单模光纤（DCSMF）湿度传感器，首次系统研究其在 25–34 °C、30–100% RH 范围内的温-湿耦合响应，提出基于查找表/校准矩阵的工程化校准方法，并成功埋入新拌混凝土实现 33 小时内部相对湿度与温度的实时原位监测。"
+  }
+ },
+ {
+  "citekey": "Xie2024isostructural",
+  "title": "\"Isostructural doping for organic persistent mechanoluminescence\"",
+  "paper_type": "experiment",
+  "year": "2024",
+  "concepts": "[density-functional-theory, spin-orbit-coupling, organic-afterglow, charge-transfer-exciplex, persistent-mechanoluminescence, carbazole-derivatives, heavy-atom-effect, isostructural-doping]",
+  "entities": [
+   "BCPC",
+   "BCPSO"
+  ],
+  "methods": "[dft, tem, xrd]",
+  "materials": [
+   "carbazole",
+   "BCPC",
+   "BCPB"
+  ],
+  "projects": "[project-3]",
+  "fields": {
+   "一句话": "首次提出\"同构掺杂（isostructural doping）\"策略——在压电主体骨架上同步引入Br和CN官能团并掺杂结构高度相似的客体——在纯有机晶体中实现了寿命长达384.1 ms、磷光量子产率最高11.9%、覆盖绿/黄/橙三色的持久力致发光（pML），并揭示了主客体电荷转移激基复合物作为能量转移平台的完整机理。"
+  }
+ },
+ {
+  "citekey": "xueEmergingNonvolatileMemories2011",
+  "title": "\"Emerging non-volatile memories\"",
+  "paper_type": "review",
+  "year": "2011",
+  "concepts": "[ferroelectric-tunnel-junction, polarization-switching, spin-orbit-coupling, magnetic-tunnel-junction, mlc-stt-ram, stt-ram, sneak-path-current, memristor, wear-leveling, write-endurance, pcm-dram-hybrid-memory, phase-change-memory, crossbar-array]",
+  "entities": "[]",
+  "methods": "[device-i-v, mlip, tem]",
+  "materials": "[]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "这是一篇由四个独立贡献汇编而成的体系结构视角综述，系统梳理了相变存储器（PCM）、自旋转移力矩磁阻存储器（STT-RAM，含 MLC）和忆阻器（Memristor）三类新兴非易失存储器（NVM）的器件物理、性能参数，并从电路/架构/系统层提出应对\"读写不对称、写耐久性、写功耗、潜行电流\"等共性挑战的方案。"
+  }
+ },
+ {
+  "citekey": "xunCoexistingMagnetismFerroelectric2024",
+  "title": "\"Coexisting Magnetism, Ferroelectric, and Ferrovalley Multiferroic in Stacking-Dependent Two-Dimensional Materials\"",
+  "paper_type": "theory",
+  "year": "2024",
+  "concepts": "[multiferroicity, sliding-ferroelectricity, magnetoelectric-coupling, berry-phase, spin-orbit-coupling, 2D-materials, ferroelasticity, ferrovalley, valley-polarization, supersuperexchange, stacking-engineering, magnetic-phase-transition, d-orbital-hopping]",
+  "entities": "[VASP, TMDs, h-BN, GdI2]",
+  "methods": "[dft, dft-plus-u, berry-phase, heisenberg-model, phonon-dispersion, effective-hamiltonian, spin-hamiltonian]",
+  "materials": "[GdI2]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "通过第一性原理计算提出在双层 GdI₂ 中利用层间滑移（滑移铁电性）同时实现并可逆耦合铁磁性、铁电性与铁谷性的\"滑移多铁\"机制，并以轨道分辨的超超交换模型揭示了堆垛依赖磁相变的微观根源。"
+  }
+ },
+ {
+  "citekey": "xuTunableFerroelectricTopological2022",
+  "title": "\"Tunable ferroelectric topological defects on 2D topological surfaces: strain engineering skyrmion-like polar structures in 2D materials\"",
+  "paper_type": "theory",
+  "year": "2022",
+  "concepts": "[2d-materials, strain-engineering, topological-defects, berry-phase, density-functional-theory, machine-learning-potential, polarization-switching, ferroelasticity, ferroelectric-topological-defects, soft-mode, paraelectric-ferroelectric-transition, polar-vortex, antivortex, flux-closure, polarization-phase-diagram, giant-piezoelectricity, multiscale-simulation, landau-double-well, electron-localization-function, domain-wall]",
+  "entities": "[VASP, PbTe, deep-potential, PbS, PbSe, LAMMPS, DeepMD-kit, PBE-functional]",
+  "methods": "[dft, dft-pp, pbe, berry-phase, phonon-spectrum, deepmd, mlip, md, lammps, fem, soft-mode-analysis, elf, piezoelectric-coefficient, indentation-simulation]",
+  "materials": "[PbS, PbSe, PbTe, 2D-PbX]",
+  "projects": "[project-5]",
+  "fields": {
+   "一句话": "通过 DFT→DeepMD 分子动力学→有限元的多尺度模拟，首次在二维铅硫族化合物 PbX（X=S, Se, Te）中用应变工程从顺电基态\"无中生有\"地诱导出可逆的铁电相变，并按需设计出涡旋、反涡旋、通量闭合等类斯格明子极性拓扑图案。"
+  }
+ },
+ {
+  "citekey": "xuTwodimensionalFerroelasticityVan2021",
+  "title": "\"Two-dimensional ferroelasticity in van der Waals β'-In2Se3\"",
+  "paper_type": "experiment",
+  "year": "2021",
+  "concepts": "[ferroelasticity, 2d-materials, strain-engineering, multiferroicity, polarization-switching, antiferroelectricity, spontaneous-strain, domain-walls, peierls-distortion, shape-memory-effect, linear-dichroism]",
+  "entities": "[In2Se3, SnTe, TMDs]",
+  "methods": "[stem, saed, in-situ-xrd, rsm, polarized-light-microscopy, afm, pfm, raman, shg, cvd, mechanical-exfoliation, two-point-bending, first-principles, rietveld-refinement]",
+  "materials": "[beta-prime-In2Se3, 2H-In2Se3, 3R-In2Se3, SnTe, 1T-prime-TMDs]",
+  "projects": "[project-5]",
+  "fields": {
+   "一句话": "首次在少层范德华 β'-In2Se3 中实验证实由面内反铁电畸变驱动的二维铁弹性，定量给出 ~0.49% 的自发应变并实现 ≤0.5% 外应变下的可逆畴切换。"
+  }
+ },
+ {
+  "citekey": "yanagizawaSwitchingChargedensityWave2023",
+  "title": "\"Switching of charge-density wave by carrier tuning in monolayer TiTe₂\"",
+  "paper_type": "experiment",
+  "year": "2023",
+  "concepts": "[charge-density-wave, fermi-surface-nesting, 2d-materials, density-functional-theory, exciton-condensation, band-folding, carrier-tuning, electronic-susceptibility, electron-phonon-coupling, orbital-selective-hybridization]",
+  "entities": "[TMDs, TiTe2, TiSe2, bilayer-graphene, SiC, Quantum-Espresso, potassium]",
+  "methods": "[arpes, mbe, dft, gga, rheed, k-deposition-doping, temperature-dependent-arpes, electronic-susceptibility, first-principles]",
+  "materials": "[TiTe2, TiSe2, bilayer-graphene, 4H-SiC]",
+  "projects": "[project-7, project-5]",
+  "fields": {
+   "一句话": "通过 MBE 衬底温度和表面 K 沉积两种手段调控单层 1T-TiTe₂ 的载流子浓度，用 ARPES 直接观察到 2×2 CDW 仅在电子-空穴精确补偿的极窄掺杂窗口出现，从而确认费米面嵌套（而非激子凝聚）是该 CDW 的主导驱动力。"
+  }
+ },
+ {
+  "citekey": "yanDecipheringStabilityTwodimensional2025",
+  "title": "\"Deciphering the stability of two-dimensional III-V semiconductors: Building blocks and their versatile assembly\"",
+  "paper_type": "experiment",
+  "year": "2025",
+  "concepts": "[2D-materials, binding-strength, bond-density, deformation-potential, density-functional-theory, electron-counting-rule, lego-assembly]",
+  "entities": "[BAs, GaAs, GaSb, InSb, TMDs, VASP, h-BN]",
+  "methods": "[device-i-v, dft, mlip, stm-mbe]",
+  "materials": "[BAs, GaAs, GaSb, InSb, TMDs, h-BN]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "用高通量 DFT + DBSCAN 无监督机器学习揭示，所有稳定二维 III-V 半导体皆由四面体（sp³）、三角形（sp²）、扭曲三角形三种\"积木\"经 V 族原子作\"柔性胶水\"按电子计数规则组装而成；体系总能是积木能量的线性叠加，并据此设计出 TT、E2、E4 等更稳定新相，其中 TT-GaSb 空穴迁移率高达 3.4×10⁸ cm² V⁻¹ s⁻¹。"
+  }
+ },
+ {
+  "citekey": "yangRipplingFerroicPhase2021",
+  "title": "\"Rippling Ferroic Phase Transition and Domain Switching In 2D Materials\"",
+  "paper_type": "theory",
+  "year": "2021",
+  "concepts": "[2d-materials, ferroelasticity, multiferroicity, strain-engineering, density-functional-theory, machine-learning-potential, polarization-switching, moire-superlattice, ripples, ripple-engineering, polar-nano-regions, avalanche-dynamics, flexoelectric-effect, atomistic-order-parameter, za-phonon-mode, ferroic-order, heterogeneous-nucleation, power-law-statistics, domain-wall]",
+  "entities": "[VASP, LAMMPS, SnTe, In2Se3, WTe2, GeSe, CrI3, Cr2Ge2Te6]",
+  "methods": "[md, mlip, dft, kernel-ridge-regression, npt-nvt-ensembles, stress-strain, order-parameter-analysis, autocorrelation-function, first-principles-md]",
+  "materials": "[GeSe, SnTe, In2Se3, CrI3, Cr2Ge2Te6]",
+  "projects": "[project-5, project-2]",
+  "fields": {
+   "一句话": "通过自研机器学习势的大规模分子动力学模拟，首次揭示二维单层 GeSe 中本征波纹既能稳定高温相短程铁性序、提高冷却相变温度，又能将应力诱导畴翻转从协同雪崩式（幂律分布）转变为波纹驱动的局域随机过程（高斯分布）。"
+  }
+ },
+ {
+  "citekey": "yangStrainEngineeringTwodimensional2021",
+  "title": "\"Strain engineering of <scp>two‐dimensional</scp> materials: Methods, properties, and applications\"",
+  "paper_type": "review",
+  "year": "2021",
+  "concepts": "[2D-materials, berry-phase, ferroelasticity, moire-superlattice, spin-orbit-coupling, strain-engineering, shg-strain-mapping, phase-transition-2h-1tp, piezoresistive-effect, wrinkle-strain, exciton-funnel-effect, flexible-substrates]",
+  "entities": "[In2Se3, TMDs, VASP, h-BN, black-phosphorus, graphene]",
+  "methods": "[afm-pfm, berry-phase, dft, mfm, raman, xanes]",
+  "materials": "[In2Se3, TMDs, h-BN]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "系统归纳了向二维材料引入应变的六大方法（晶格失配、柔性基底、图案化基底、压电基底、AFM 针尖、气泡），并按\"方法→声子/能带/非线性光学/电学/磁学/相变性质→柔性传感器与光探测器应用\"的逻辑链构建了二维材料应变工程的完整知识框架。"
+  }
+ },
+ {
+  "citekey": "Yarai2005optical",
+  "title": "\"Optical fiber sensor for humidity monitoring based on thermal lens detection technique\"",
+  "paper_type": "experiment",
+  "year": "2005",
+  "concepts": "[thermal-lens-effect, photothermal-effect, pump-probe-technique, optical-fiber-sensing, refractive-index, optical-coupling-efficiency, absolute-humidity, relative-humidity, temperature-compensation, lock-in-detection]",
+  "entities": "[spherical-lensed-fiber, laser-diode, super-luminescence-diode, lock-in-amplifier, si-photodiode, optical-interference-filter, fiber-coupler, thermo-electric-cooler]",
+  "methods": "[thermal-lens-spectroscopy, pump-probe-spectroscopy, lock-in-detection, optical-absorption-spectroscopy, fiber-optic-sensing]",
+  "materials": "[silica-optical-fiber, water-vapor]",
+  "projects": "[project-6]",
+  "fields": {
+   "一句话": "首次将热透镜（TL）泵浦-探测光谱技术引入光纤湿度传感，用两根端面间距 <50 μm 的球透镜光纤构成微腔传感头，在泵浦功率 <100 mW 下实现了无需对光纤包层做任何化学处理的湿度测量，并证明传感器本质上测量的是绝对湿度。"
+  }
+ },
+ {
+  "citekey": "yuFerroelectricControlMagnetism2026",
+  "title": "\"Ferroelectric Control of Magnetism and Giant Magnetoresistance Via Intercalation-Induced Symmetry Breaking in Two-Dimensional Multiferroics with Strong Magnetoelectric Coupling\"",
+  "paper_type": "experiment",
+  "year": "2026",
+  "concepts": "[2D-materials, altermagnetism, berry-phase, density-functional-theory, giant-spin-splitting, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, domain-wall]",
+  "entities": "[BiFeO3, CrTe2, Fe3GeTe2, HoMnO3, In2Se3, MXenes, TMDs, VASP, WTe2, Wannier90, h-BN]",
+  "methods": "[afm-pfm, berry-phase, dft, md, mlip, monte-carlo, neb, stm-mbe]",
+  "materials": "[BiFeO3, CrTe2, Fe3GeTe2, HoMnO3, In2Se3, MXenes, TMDs, WTe2, h-BN]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "通过卤素离子（F）插层把双层 CrSBr “融合”为单层 Cr₄S₄FBr₂，利用 F 原子位移诱导的 Jahn–Teller 畸变打破反演对称，在 A 型完全补偿亚铁磁金属中实现铁电–自旋–拓扑三者锁定，并在 CSFB/CrSBr/CSFB 多铁隧道结中由纯电极化翻转驱动高达 4.8×10³% 的巨磁阻。"
+  }
+ },
+ {
+  "citekey": "zahraCriticalAnalysisFerroelectric2025",
+  "title": "\"A critical analysis of ferroelectric and ferromagnetic properties in two-dimensional MXene\"",
+  "paper_type": "review",
+  "year": "2025",
+  "concepts": "[2D-materials, density-functional-theory, ferroelasticity, ferroelectric-tunnel-junction, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, topological-defects, piezoresponse-force-microscopy, stoner-ferromagnetism, janus-mxene, i-mxene, surface-terminations-tx, sc2co2, v2c-mxene, max-phase, ti3c2tx, ferroelectric-metal]",
+  "entities": "[BiFeO3, In2Se3, MXenes, TMDs, hf2vc2f2, ferroelectric-memristor]",
+  "methods": "[afm-pfm, device-i-v, dft, squid]",
+  "materials": "[BiFeO3, In2Se3, MXenes, TMDs]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "首篇系统批判性综述二维 MXene（过渡金属碳/氮化物）中铁电、铁磁与多铁性的工作，归纳了从 MAX 相刻蚀、表面端基工程到掺杂/应变/复合诱导 FE/FM 的完整策略工具箱。"
+  }
+ },
+ {
+  "citekey": "Zhang2002b",
+  "title": "\"Cellular automaton model to simulate nucleation and growth of ferrite grains for low-carbon steels\"",
+  "paper_type": "theory",
+  "year": "2002",
+  "concepts": "[cellular-automaton, nucleation-and-growth, diffusion-controlled-transformation, undercooling, grain-boundary-nucleation, super-element-approximation, latent-heat, cementite-precipitation, continuous-cooling-transformation, grain-refinement]",
+  "entities": "[low-carbon-steel, ferrite, austenite, cementite, fe-c-phase-diagram]",
+  "methods": "[cellular-automaton-method, explicit-finite-volume-method, diffusion-simulation, probabilistic-nucleation, microstructure-modeling]",
+  "materials": "[low-carbon-steel, ferrite, austenite, cementite]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "建立了一个耦合溶质/温度扩散场的二维元胞自动机模型，定量复现了低碳钢连续冷却过程中γ→α相变的形核、生长及冷却速率对铁素体晶粒细化的影响，并揭示了扩散控制的自限制机制。"
+  }
+ },
+ {
+  "citekey": "Zhang2003a",
+  "title": "\"A cellular automaton investigation of the transformation from austenite to ferrite during continuous cooling\"",
+  "paper_type": "theory",
+  "year": "2003",
+  "concepts": "[solid-state-phase-transformation, diffusion-controlled-growth, nucleation-and-growth, undercooling, solute-redistribution, soft-impingement, super-element-approximation, grain-boundary-nucleation, cementite-precipitation]",
+  "entities": "[]",
+  "methods": "[cellular-automaton, finite-volume-method, classical-nucleation-theory, probabilistic-modeling, diffusion-equation]",
+  "materials": "[A36-low-carbon-steel, austenite, ferrite, cementite]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "建立二维六边形元胞自动机模型，将局部碳浓度变化耦合到概率性形核/捕获规则中，定量揭示了低碳钢连续冷却时冷却速率通过形核-生长竞争决定铁素体晶粒尺寸与形貌的机制。"
+  }
+ },
+ {
+  "citekey": "Zhang2008synthesis",
+  "title": "\"Synthesis and nonlinear optical properties of two three-branched two-photon polymerization initiators\"",
+  "paper_type": "experiment",
+  "year": "2008",
+  "concepts": "[two-photon-absorption, two-photon-polymerization, nonlinear-optics, push-pull-chromophore, intramolecular-charge-transfer, multipolar-chromophore, photoinitiation]",
+  "entities": "[triphenylamine]",
+  "methods": "[organic-synthesis, uv-vis-spectroscopy, fluorescence-spectroscopy, z-scan, two-photon-excited-fluorescence, nonlinear-optical-characterization]",
+  "materials": "[three-branched-chromophore, two-photon-initiator]",
+  "projects": "[project-1]",
+  "fields": {
+   "一句话": "合成并表征了两种新型三支化推-拉有机发色团，验证了多支化结构对双光子吸收截面和 2PP 引发能力的增强作用。"
+  }
+ },
+ {
+  "citekey": "Zhang2019a",
+  "title": "\"Studying Stability of Atom Packing for Ti Nanoparticles on Heating by Molecular Dynamics Simulations\"",
+  "paper_type": "theory",
+  "year": "2019",
+  "concepts": "[density-functional-theory, machine-learning-potential, molecular-dynamics, embedded-atom-method, pair-distribution-function, common-neighbor-analysis, icosahedral-structure, hcp-structure, fcc-structure, bcc-structure, surface-premelting, size-dependent-melting, dulong-petit-law, five-fold-twinning, geometric-shell-closure, structural-phase-transition, nvt-ensemble, icosahedral-packing]",
+  "entities": "[Ti, Ti-6Al-4V, LAMMPS, Moldy, GULP]",
+  "methods": "[md, eam, pair-distribution-function, common-neighbor-analysis, nvt-ensemble, velocity-rescaling, bisection-algorithm, md-step-heating]",
+  "materials": "[Ti]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "用Zhou EAM势的经典MD模拟系统刻画了直径1.6–5.2 nm（135–4079原子）孤立Ti纳米粒子在逐级加热中的熔化行为，识别出<2.5 nm粒子的Ih几何壳层闭合与多重结构转变、2.5–4 nm粒子的\"表面预熔—整体崩溃\"机制，并以ΔEav/ΔT→1.5kB判定杜隆-珀蒂定律在约3 nm以下失效。"
+  }
+ },
+ {
+  "citekey": "Zhang2019b",
+  "title": "\"Packing Changes in Melting, Freezing, and Coalescence of Titanium Nanoparticles from Atomic Simulations\"",
+  "paper_type": "experiment",
+  "year": "2019",
+  "concepts": [
+   "molecular-dynamics",
+   "embedded-atom-method",
+   "icosahedral-cluster",
+   "hcp-bcc-transition",
+   "dulong-petit-law",
+   "size-dependent-melting",
+   "undercooling-hysteresis",
+   "particle-coalescence"
+  ],
+  "entities": [
+   "Moldy"
+  ],
+  "methods": "[dft, eam, md, mlip, stm-mbe]",
+  "materials": [
+   "Ti"
+  ],
+  "projects": "[project-5, project-7]",
+  "fields": {
+   "一句话": "用单一 EAM 势的分子动力学系统揭示了钛纳米颗粒（13–3995 原子）在加热-冷却循环中的尺寸依赖相变路径（小颗粒二十面体、大颗粒 HCP→BCC→熔体）以及两颗粒聚结时的单畴化机制。"
+  }
+ },
+ {
+  "citekey": "Zhang2019c",
+  "title": "\"Atomic simulations of packing patterns and thermal behavior in Ti clusters\"",
+  "paper_type": "theory",
+  "year": "2019",
+  "concepts": "[embedded-atom-method, molecular-dynamics, pair-analysis, icosahedral-packing, dulong-petit-law, cluster-size-effect, surface-premelting, sommerfeld-potential, additive-manufacturing]",
+  "entities": "[Ti]",
+  "methods": "[eam, md, pair-analysis]",
+  "materials": [
+   "Ti"
+  ],
+  "projects": "[]",
+  "fields": {
+   "一句话": "用温度依赖的 EAM 势对 19–2601 个原子的 Ti 团簇做分子动力学模拟，揭示表面原子主导的尺寸/温度依赖堆积模式转变（小团簇倾向二十面体、大团簇保持 HCP、高温下 HCP/BCC/Ih 共存），并把杜隆-珀蒂定律适用的临界直径定在约 3.0 nm。"
+  }
+ },
+ {
+  "citekey": "zhangEmergingFrontiersTwodimensional2025",
+  "title": "\"Emerging frontiers in two-dimensional sliding ferroelectrics\"",
+  "paper_type": "review",
+  "year": "2025",
+  "concepts": "[2D-materials, ferroelasticity, ferroelectric-tunnel-junction, magnetoelectric-coupling, moire-superlattice, multiferroicity, polarization-switching, sliding-ferroelectricity, spin-orbit-coupling, strain-engineering, domain-wall]",
+  "entities": "[In2Se3, SnTe, TMDs, WTe2, h-BN]",
+  "methods": "[afm-pfm, device-i-v, dft, neb]",
+  "materials": "[In2Se3, SnTe, TMDs, WTe2, domain-wall, h-BN]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "系统梳理二维范德华材料中\"滑动铁电性\"的材料体系、五种打破反演对称性的工程策略、层间滑移翻转的微观机制（层间电荷转移、逐层翻转、拓扑畴壁扭结）以及柔性存储/FTJ/超快光电/神经形态器件应用，并指出理论-实验鸿沟、动力学黑箱、性能跷跷板与规模化制备四大挑战。"
+  }
+ },
+ {
+  "citekey": "zhangNonvolatileControlTopological2025",
+  "title": "\"Nonvolatile control of topological magnetism in two-dimensional CrInTe2/In2Se3 multiferroic heterostructures\"",
+  "paper_type": "theory",
+  "year": "2025",
+  "concepts": "[multiferroicity, magnetoelectric-coupling, 2d-materials, spin-orbit-coupling, polarization-switching, topological-defects, skyrmion, bimeron, dzyaloshinskii-moriya-interaction, magnetic-anisotropy-energy, heisenberg-exchange, rashba-effect, spin-transfer-torque, skyrmion-hall-effect, topological-charge, llg-equation, micromagnetic-simulation, racetrack-memory, superexchange]",
+  "entities": "[In2Se3, CrInTe2, VASP, Spirit, Fe3GeTe2, CrTe2, CrGeTe3, CrI3]",
+  "methods": "[dft, dft-plus-u, gga-pbe, paw, soc, berry-phase, micromagnetic-simulation, llg, spin-spiral, spin-transfer-torque, thiele-equation]",
+  "materials": "[CrInTe2, In2Se3, CrInTe2-In2Se3]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "通过第一性原理计算加微磁学模拟证明，在 CrInTe2/In2Se3 二维多铁异质结中翻转 In2Se3 的铁电极化，可协同增强 DMI（+6%）并抑制 MAE（−20%），从而在仅 50 mT 辅助磁场下非易失性地实现铁磁态与 Néel 型斯格明子晶格之间的可逆切换，并提出无量纲稳定性判据 κ。"
+  }
+ },
+ {
+  "citekey": "zhaoOpticalFingerprintsTwodimensional2024",
+  "title": "\"Optical fingerprints of two-dimensional interlayer-sliding multiferroic materials\"",
+  "paper_type": "theory",
+  "year": "2024",
+  "concepts": "[sliding-ferroelectricity, multiferroicity, magnetoelectric-coupling, 2d-materials, spin-orbit-coupling, symmetry-analysis, optical-kerr-effect, second-harmonic-generation, neel-vector, anomalous-hall-effect, time-reversal-symmetry, inversion-symmetry, magnetic-point-group, d0-rule]",
+  "entities": "[VASP, Wannier90, Fe3GeTe2, VSe2, MnBi2Te4, WRFP, FINDSYM]",
+  "methods": "[dft, gga-pbe, dft-plus-u, soc, wannier-interpolation, symmetry-analysis, tensor-analysis, first-principles, isomorphic-group-method]",
+  "materials": "[VSe2, MnBi2Te4]",
+  "projects": "[project-2, project-5]",
+  "fields": {
+   "一句话": "通过对称性分析与 DFT 计算证明，二维层间滑移多铁材料的四个多铁态（P↑N↑/P↑N↓/P↓N↓/P↓N↑）在克尔效应（反常光电导 σ^A_xy）和 SHG 张量上具有严格可区分的\"光学指纹\"，斜入射 PPP 偏振分辨 SHG 的\"六瓣花\"图案可无损识别全部四个态。"
+  }
+ },
+ {
+  "citekey": "zhaoRealization2DMultiferroic2024",
+  "title": "\"Realization of 2D multiferroic with strong magnetoelectric coupling by intercalation: a first-principles high-throughput prediction\"",
+  "paper_type": "experiment",
+  "year": "2024",
+  "concepts": "[2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, topological-defects]",
+  "entities": "[CrTe2, In2Se3, TMDs, VASP, WTe2]",
+  "methods": "[afm-pfm, berry-phase, dft, monte-carlo, neb]",
+  "materials": "[CrTe2, In2Se3, TMDs, WTe2]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "提出将过渡金属离子 A 非中心对称地插入 TMD 双层四方空位构建 AM₂X₄ 的\"超晶格插层\"通用策略，从 960 种候选物中高通量筛选出 21 种强磁电耦合二维多铁体，并按磁性起源分为 a/b/c 三类，其中 T-CdCr₂Te₄ 可通过极化翻转可逆调控反斯格明子的产生、湮灭与手性反转。"
+  }
+ },
+ {
+  "citekey": "zhengAnisotropicSuperconductivityTwodimensional2025",
+  "title": "\"Anisotropic superconductivity in the two-dimensional metal-organic kagome framework Cu 3 ( CO ) 6\"",
+  "paper_type": "theory",
+  "year": "2025",
+  "concepts": "[2D-materials, charge-density-wave, density-functional-theory, fermi-surface-nesting, flat-band, anisotropic-superconductivity, kagome-lattice, migdal-eliashberg-theory, electron-phonon-coupling, van-hove-singularity, 2d-mof]",
+  "entities": "[MXenes, TMDs, Wannier90, EPW, Quantum-ESPRESSO, Cu3CS6, Cu3CO6]",
+  "methods": "[berry-phase, dfpt, dft, mlip]",
+  "materials": "[MXenes, TMDs]",
+  "projects": "[project-4, project-7]",
+  "fields": {
+   "一句话": "通过第一性原理 DFPT + 各向异性 Migdal–Eliashberg 计算，首次预测已实验合成的二维 kagome 金属-有机框架 Cu3(CO)6 单层是 Tc = 16.5 K 的单能隙各向异性 BCS 超导体，其强电-声耦合（λ=0.72）由费米面嵌套驱动、主要来自 Cu/O 低能声子。"
+  }
+ },
+ {
+  "citekey": "zhongHighthroughputExfoliationMultiferroic2025",
+  "title": "\"High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperature and giant spin splitting\"",
+  "paper_type": "experiment",
+  "year": "2025",
+  "concepts": "[2D-materials, altermagnetism, berry-phase, binding-strength, bond-density, density-functional-theory, ferroelasticity, giant-spin-splitting, magnetoelectric-coupling, multiferroicity, phase-interlocked, spin-orbit-coupling, strain-engineering, rashba-effect, non-vdw-exfoliation, magnetic-force-theory, cneb, spin-texture, superexchange, half-metal, exfoliation-energy, cohp-icohp]",
+  "entities": "[BiFeO3, MnVO3, NaZnO3, SrIrO3, SrMoO3, SrOsO3, TMDs, VASP, Wannier90, ZnPbO3, h-BN, LaCuO3, SrTiO3, BaTiO3]",
+  "methods": "[afm-pfm, berry-phase, dfpt, dft, monte-carlo, neb]",
+  "materials": "[BiFeO3, MnVO3, NaZnO3, SrIrO3, SrMoO3, SrOsO3, TMDs, ZnPbO3, h-BN]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "提出\"键密度 + 面内/面外结合强度\"通用判据，从 831 种 ABO₃ 钙钛矿中非范德华块体高通量筛出 35 种可剥离稳定单层，并以 SrOsO₃/SrIrO₃/SrMoO₃/BiFeO₃ 为范例揭示室温以上磁转变温度、0.606 eV 巨自旋劈裂及微应变驱动的相锁定电子-自旋调控。"
+  }
+ },
+ {
+  "citekey": "zhouFirstprinciplesPredictionRedox2004",
+  "title": "\"First-principles prediction of redox potentials in transition-metal compounds with LDA+U\"",
+  "paper_type": "theory",
+  "year": "2004",
+  "concepts": "[density-functional-theory, dft-plus-u, self-interaction-error, electron-correlation, hubbard-u, linear-response, charge-ordering, high-spin-state, jahn-teller-distortion, redox-potential, chemical-potential, electron-localization, charge-order]",
+  "entities": "[VASP]",
+  "methods": "[dft, dft-plus-u, gga, lda, paw, linear-response-u, spin-polarized-dft, total-energy-method]",
+  "materials": "[LiFePO4, LiMnPO4, LiCoPO4, LiNiPO4, FePO4, MnPO4, CoPO4, NiPO4, LiCoO2, LiNiO2, LixMn2O4, LixCo2O4, Li-metal]",
+  "projects": "[project-2]",
+  "fields": {
+   "一句话": "用线性响应自洽计算 U 的 GGA+U 方法，将过渡金属正极材料锂嵌入电压的预测误差从 GGA 的 0.5–1.0 V 系统性压缩到几个百分点，并把误差根源归结为电子自相互作用在离域锂金属态与局域 TM-d 态之间的未抵消。"
+  }
+ },
+ {
+  "citekey": "Şahin2009probe",
+  "title": "\"Probe of unparticles at the LHC in exclusive two lepton and two photon production via photon-photon fusion\"",
+  "paper_type": "theory",
+  "year": "2009",
+  "concepts": "[biphoton]",
+  "entities": "[]",
+  "methods": "[]",
+  "materials": "[]",
+  "projects": "[]",
+  "fields": {
+   "一句话": "首次系统论证LHC上的独家光生过程 pp→pl⁻l⁺p 与 pp→pγγp 可借助前向探测器和等效光子近似，以极低背景探测标量/张量非粒子，其中双光子道能在树图级无SM背景地独立隔离 γγU 耦合。"
+  }
+ }
+]

@@ -1,0 +1,362 @@
+#### wangTunableD0Topological2025b 完整要点
+## ✏️ 可写入 Wiki 的要点
+  1. 单层 In₂NO₂ 为 P3m1（No. 156）三角晶格，O–In–N–In–O 五原子层堆垛，优化晶格常数 a = 3.41 Å，结构与已合成的 α-In₂Se₃ 类似；声子谱与 AIMD 验证其动力学和热稳定性。
+  2. In 原子电子构型由 [Kr]4d¹⁰5s²5p¹ 失去 3 个电子变为 [Kr]4d¹⁰5s⁰5p⁰，N 原子变为 1s²2s²2p⁵，仅一个未配对 p 电子，体系总磁矩 1 μ_B/f.u.，N 原子上 M_N = 0.584 μ_B（非整数，体现离域铁磁，用 [[../concepts/stoner-model|Stoner 模型]]描述）；U 值对能带几乎无影响，取 U = 0 eV。
+  3. 能带为[[../concepts/half-metallicity]]：一自旋通道穿[[../concepts/fermi-surfaces|费米面]]、另一通道有带隙；SOC 对电子结构影响很小。
+  4. 磁参数：J = 32.2194 meV（铁磁），面内 DMI d_k 在 +P/-P 态分别为 +0.9367/-0.9367 meV，[[../concepts/migdal-eliashberg-theory|各向异性]]交换 k ≈ 0，K_MCA = 18 μeV、K_MSA = 3.8 μeV，单离子各向异性 K = 14.2 μeV（面外易轴），蒙特卡洛估计 T_C ≈ 105 K；面外 DMI d_⊥ 因 C3 对称可忽略。
+  5. 强 DMI 主要来自较重的 In 原子的 SOC，而非磁性元素 N 本身——打破"只有重磁性元素才有大 DMI"的直觉。
+  6. 垂直磁场 B_z = 1–5 T 下形成 d⁰ [[../concepts/skyrmion|斯格明子]]，B_z = 2 T 时[[../concepts/topological-charge|拓扑荷]]峰值 Q = 8，5 T 时斯格明子直径约 9.6 nm，5.5 T 时进入平庸铁磁态；0–150 K 范围内 Q 稳定，归因于 p 轨道磁性的离域化。
+  7. 面内磁场 B_x = 1.5–3 T 下形成[[../concepts/bimeron|双半子]]，0–120 K 稳定，130 K 进入无序相。
+  8. ±P 极化态下 DMI 符号相反，使斯格明子手性相反，可用面外电场可逆翻转手性。
+  9. [[../concepts/strain-engineering|应变工程]]：拉伸应变使 d_k 单调增加、J 略减，|d_k/J| 显著增大，SIA 保持为正并增强；5% 拉伸下斯格明子可在 B_z = 4–11 T 范围内纯相存在，密度增大；压缩应变影响很小。论文引用 MoS₂ 器件典型应变 ≤2.5%、WS₂ 可达 4%，建议 In₂NO₂ 器件可用约 3% 应变。
+  10. In₂NO₂/MoSe₂ 异质结晶格失配仅 2.4%，±P 态下界面[[../concepts/charge-transfer|电荷转移]]量因[[../concepts/work-function|功函数]]失配不同导致 J、d_k 等参数差异；-P 态 B_z < 5.9 T 为斯格明子相，+P 态仅在 B_z = 5.9–7.0 T 出现斯格明子相（5.9 T 时直径 7.96 nm），从而在约 5.9 T 固定磁场下用电场翻转极化即可在铁磁"0"态与斯格明子"1"态之间非易失切换。
+
+
+#### wangTunableD0Topological2025b 完整图表
+## 📊 关键图表
+  - **图1：单层 In₂NO₂ 的晶体结构、能带、差分电荷密度与态密度**
+  - ![图1 单层 In₂NO₂ 晶体结构、能带、差分电荷密度与态密度，揭示半金属及 N-p 轨道 d0 磁性起源](../../raw/figures/wangTunableD0Topological2025b/fig_1_7FXHGJ8M.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
+    - **图示描述**：四面板图。(a) 为 P3m1（No. 156）三角晶格的 O–In–N–In–O 五原子层侧视图，标出 -P / +P 两个本征铁电极化态；(b) 为 w/o 与 w/ SOC 两种条件下的自旋分辨能带，能量零点取费米能级 E_f（eV）；(c) 为三维差分电荷密度等值面（黄色 0.007 e bohr⁻³ 表积累、青色表耗尽）；(d) 为 TDOS 与 In/N/O p 轨道 PDOS（states/eV）。
+    - **关键特征**：一个自旋通道穿过 E_f 呈金属性，另一自旋通道打开带隙，确认半金属；SOC 对能带影响很小；In 失电子、N 与 O 得电子；E_f 附近态密度几乎全部由 N 的 2p 轨道贡献，In/O 几乎为零；晶格常数 a = 3.41 Å，总磁矩 1 μ_B/f.u.，N 原子上 M_N = 0.584 μ_B（非整数，Stoner 巡游铁磁特征）。
+    - **结论/意义**：从结构、能带、电荷转移与态密度四个层面共同确立 In₂NO₂ 为本征铁电、p 轨道主导的 d⁰ 铁磁半金属，是后续拓扑自旋织构的材料基础。
+  - **图2：原子分辨 SOC 能量差、零场/1 T 自旋织构与 ±P 态斯格明子手性**
+  - ![图2 原子分辨 SOC 能量差、零场/1T 下自旋织构、±P 态斯格明子手性相反](../../raw/figures/wangTunableD0Topological2025b/fig_2_QZWY2VAA.png) → [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
+    - **图示描述**：三面板图。(a) 为 In、N、O 三种原子的 SOC 能量差 ΔE_SOC 柱状图（meV）；(b) 为 0 T 与 1 T 垂直磁场 B_z 下的二维自旋织构，颜色编码面外分量 S_z、箭头表示面内分量；(c) 为 -P / +P 态下单个斯格明子自旋排布放大图及 DMI 方向示意。
+    - **关键特征**：N、O 虽轻、SOC 弱，但较重的 In 原子贡献了主要 ΔE_SOC，是体系强 DMI 的物理来源；零场为宽大磁畴，B_z = 1 T 时磁畴收缩为离散斯格明子；+P / -P 态下 d_k = +0.9367 / -0.9367 meV，符号相反，使斯格明子手性相反。
+    - **结论/意义**：证明 DMI 可由非磁性重元素 In 的 SOC 提供，并给出"翻转铁电极化 → DMI 反号 → 斯格明子手性反转"的电控机制。
+  - **图3：垂直/面内磁场下斯格明子与双半子的磁场和温度演化**
+  - ![图3 垂直/水平磁场下斯格明子与双半子的磁场及温度演化（0–150 K / 0–120 K）](../../raw/figures/wangTunableD0Topological2025b/fig_3_UYVUXL8I.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
+    - **图示描述**：四面板图。(a) 0 K 下垂直磁场 B_z 从 0 到 5.5 T 的自旋织构快照；(b) B_z = 2 T 下拓扑电荷 Q 随温度（K）变化；(c) 0 K 下面内磁场 B_x 演化；(d) B_x = 2 T 下双半子 Q 随温度变化。Q 用于计数斯格明子/双半子数目。
+    - **关键特征**：B_z = 1 T 出现纯斯格明子相（Q = 2），B_z = 2 T 时 Q 达峰值 8，B_z = 5 T 时斯格明子直径约 9.6 nm，B_z = 5.5 T 进入平庸铁磁相；斯格明子 Q 在 0–150 K 内仅小幅波动、150 K 以上消失；B_x = 1.5–3 T 形成双半子，0–120 K 稳定、130 K 进入无序相。
+    - **结论/意义**：斯格明子温区甚至超出蒙特卡洛估计的 T_C ≈ 105 K，这种超 T_C 稳定性被归因于 d⁰/p 轨道磁性的小磁矩与离域化。
+  - **图4：J、d_k、SIA 随双轴应变变化及应变-磁场拓扑相图**
+  - ![图4 J、d_k、SIA 随双轴应变变化，及应变-磁场拓扑相图（斯格明子/双半子）](../../raw/figures/wangTunableD0Topological2025b/fig_4_R8KDU8IB.png) -> [[../figures/crystal-structures-xrd-phases|XRD与相变]]
+    - **图示描述**：四面板图。(a) 双 Y 轴曲线：横轴双轴应变 -5%–5%，左轴 J（meV）、右轴 d_k（meV），插图为 |d_k/J|；(b) SIA（μeV）随应变曲线，插图分解 K_MCA 与 K_MSA；(c)(d) 分别为斯格明子、双半子的应变-磁场二维相图，颜色编码拓扑电荷 Q。
+    - **关键特征**：拉伸应变下 d_k 单调增大、J 略减，|d_k/J| 显著上升；压缩应变影响很小；-4%–5% 应变内 SIA 为正、面外易轴，且主要由 K_MCA 主导；5% 拉伸时斯格明子纯相可在 B_z = 4–11 T 极宽窗口内存在、密度增大；双半子的稳定磁场上限也随拉伸同步抬高。
+    - **结论/意义**：给出"应变地图"，证明拉伸应变通过增强 DMI 同时提高拓扑态密度和磁场稳定性，论文建议器件可用约 3% 应变（MoS₂ ≤2.5%、WS₂ 已达 4%）。
+  - **图5：In₂NO₂/MoSe₂ 异质结结构、差分电荷密度及 ±P 态 Q–B_z 曲线**
+  - ![图5 In₂NO₂/MoSe₂ 异质结结构、差分电荷密度及 ±P 态 Q-Bz 曲线，演示电场开关"0/1"](../../raw/figures/wangTunableD0Topological2025b/fig_5_GYG5QB2H.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
+    - **图示描述**：四面板图。(a) In₂NO₂/MoSe₂ 异质结在 -P / +P 下的原子堆叠模型；(b) 两态界面差分电荷密度（等值面 0.00028 e bohr⁻³）；(c)(d) 分别为 -P 与 +P 态下拓扑电荷 Q 随 B_z 变化，绿色区 Q = 0（"0"态）、粉色区 Q > 0（"1"态）。
+    - **关键特征**：晶格失配仅 2.4%；±P 态因功函数失配不同导致界面电荷转移量不同，J、d_k 等磁参数出现显著差异（尤其 +P 态 J 明显下降、d_k 反号）；-P 态 B_z < 5.9 T 为斯格明子相，+P 态仅在 B_z = 5.9–7.0 T 出现斯格明子相，5.9 T 时斯格明子直径 7.96 nm。
+    - **结论/意义**：在约 5.9 T 固定磁场下，用电场翻转铁电极化即可在铁磁"0"态与斯格明子"1"态间非易失切换，演示了磁电拓扑存储的二进制编码原型。
+  - **表2：In₂NO₂/MoSe₂ 异质结 ±P 态磁参数**
+  - ![表2 In₂NO₂/MoSe₂ 异质结 ±P 态磁参数（J、d_k、k、K 等）](../../raw/figures/wangTunableD0Topological2025b/tab_2_6CDFIS37.png)
+    - **图示描述**：表格列出 In₂NO₂/MoSe₂ 异质结在 -P 与 +P 两种铁电极化态下的海森堡交换 J、面内 DMI d_k、各向异性交换 k、单离子各向异性 K（含 K_MCA、K_MSA 分解）以及 N 原子磁矩 M_N 等关键磁参数，附单位（meV / μeV / μ_B）。
+    - **关键特征**：两态 J、d_k 等参数均出现差异，d_k 在 ±P 态下符号相反、幅值略有差别；这些数值是图5(c)(d) 微磁学模拟的直接输入，定量解释了为何两极化态的斯格明子稳定磁场窗口不同。
+    - **结论/意义**：为"铁电极化翻转 → 界面电荷转移改变 → 磁参数重排 → 拓扑相开关"这一磁电耦合链条提供了定量依据。
+
+
+#### gaoGiantChiralMagnetoelectric2024a 完整要点
+## ✏️ 可写入 Wiki 的要点
+  1. NiI₂ 为 CdCl₂ 型菱方晶格（高温空间群 R3̄m），Ni²⁺（S=1）处于 I⁻ 八面体中形成三角晶格；零场冷却下 T_AFM≈75 K 进入共线 AFM，T_HM≈60 K 进入螺旋磁相，传播矢量 q=(0.138a*, 0, 1.457c*)，螺旋序破反演/镜面/三重轴、保留面内 C₂ 轴。
+  2. 螺旋序通过逆 DM 机制与自旋依赖金属-配体杂化诱导面内电极化 P（沿 y ∥ C₂），使 NiI₂ 成为 II 型多铁；该多铁态可延续至单层极限。
+  3. Γ 点存在两个低能[[../concepts/electromagnon|电磁振子]]：EMo（C₂-奇，4.09 meV≈0.99 THz，ΔP/ΔM 垂直 C₂）和 EMe（C₂-偶，4.51 meV≈1.09 THz，ΔP/ΔM 平行 C₂），均具拉曼与红外双重活性；圆偏振拉曼下 σ⁺/σ⁻ 强度不对称直接显示手性。
+  4. 用 1.13 eV（低于[[../concepts/charge-transfer|电荷转移]]隙、处于 d–d 跃迁之间）泵浦作"冷激发"，1.20 eV 探测；tr-SHG 对 ΔP 敏感、tr-RKerr 对 ΔM 敏感；两通道在 EMo 上振荡初始相位恒差 π/2，与 DFT 预测一致，是自然光学活性的指纹。
+  5. 提取 Im[α_κκ] = 11×10³ ps m⁻¹（~4 meV/1 THz），DFT 值 12×10³ ps m⁻¹；对应 η≈1000° mm⁻¹，比 CuO、CuFe₀.₉₆₅Ga₀.₀₃₅O₂ 等螺旋磁体高约两个数量级，也超过所有已测单相多铁中的旋光双折射（GB）。
+  6. 巨耦合的微观三要素：非共线自旋织构 + 配体 I 上 λ≈0.5 eV 的强 SOC + Ni–I 间异常强的 d–p 杂化（t/Δ≈0.33，源于 Ni 较大电负性与 I 大原子半径）；这是纯电子（IDM）机制，区别于传统声子介导电磁振子，故响应快（THz）且强。
+  7. 推广自旋流模型给出 P̂ = λ(Δt/Δ⁴⁻¹) d_{d-p} [n̂·(S₁×S₂)]，对磁单胞键求和得二维 Pel=4.1×10⁻¹³ C m⁻¹（DFT 5.3×10⁻¹³ C m⁻¹），共线自旋或 SOC 为零时极化消失——证明非共线+SOC 是必要条件。
+  8. DFT 细节：VASP、PAW、PBE+U（Dudarev U=4 eV）、SOC 全开、截断 350 eV；四态法在 7×5×1 超胞取交换参数（J1=−5.03, J2=0.32, J3=3.95 meV，双二次 B=−0.89 meV）；7×1×1 超胞 + Berry phase 算极化；冻结磁振子法（VASP penalty functional ħω=1.0 eV 约束自旋）算电磁振子电极化。
+  9. EMo 电偶极矩 d_o=2.5 μ_B/c（垂直基态 P），EMe d_e=10.3 μ_B/c（平行 P）；tr-RKerr 只见 EMo 不见 EMe，因 C₂-偶 EMe 无面外磁化分量。
+  10. SHG 偏振图案随温度从六重对称变为二重对称（点群 2，C₂ 轴沿 φ=90°），是判定单一对映纯畴的依据；该相位提取方法可推广为手性畴成像手段。未来方向包括 THz 强场相干翻转手性畴、手性光学腔诱导新奇磁态、[[../concepts/vdW-heterostructure]]界面 SOC 工程增[[../concepts/strong-coupling|强耦合]]。
+
+
+#### gaoGiantChiralMagnetoelectric2024a 完整图表
+## 📊 关键图表
+  - ![图1 NiI₂ 晶体结构、手性螺旋、电磁振子](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_1_8V5GWLM9.png) -> [[../figures/crystal-structures-bulk|体相晶体结构]]
+    - **图示描述**：六联图总览 NiI₂ 的结构-磁序-激发：(a) 左旋/右旋自旋螺旋示意图展示磁致手性；(b) 高温 R3̄m 菱方晶格中 Ni（蓝）被 I（红）八面体包围形成三角晶格层；(c) THM≈60 K 以下 (001) 面内 proper-screw 螺旋序，传播矢量 q=(0.138a*,0,1.457c*)，面内分量 qin 垂直于沿 y ∥ C₂ 轴的电极化 P；(d) 2.4 K 下 σ⁺/σ⁻ 圆偏振低频拉曼谱；(e) DFT 在 7×1 单层超胞算得的电磁振子能量-动量色散；(f) EMo/EMe 的自旋进动本征矢及 ΔP、ΔM 矢量方向。
+    - **关键特征**：零场冷下 TAFM≈75 K 进入共线 AFM、THM≈60 K 进入螺旋多铁相；σ⁺/σ⁻ 拉曼在 4.09 meV（~0.99 THz，EMo，C₂-奇）与 4.51 meV（~1.09 THz，EMe，C₂-偶）出现不对称双峰，直接显示手性；DFT 给出区心 EMo≈3.92 meV、EMe≈4.30 meV，与实验吻合；EMo 的 ΔP、ΔM 垂直 C₂ 轴，EMe 平行 C₂ 轴；基态二维 Pel=5.3×10⁻¹³ C m⁻¹，EMo 电偶极矩 do=2.5 μB/c、EMe de=10.3 μB/c。
+    - **结论/意义**：建立了"非共线螺旋 → 逆 DM 诱发电极化 → 一对低能电磁振子"的理论图像，预测 Im[αii]≈10⁴ ps m⁻¹ 的巨大动态磁电耦合，为后续 tr-SHG/tr-RKerr 实验提供模式辨认依据。
+  - ![图2 静态与瞬态 SHG 偏振测量](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_2_S3NZQZ25.png) -> [[../figures/optical-spectra|光学光谱]]
+    - **图示描述**：SHG 偏振与时间分辨测量四/六联图：(a) 对映纯畴上平行（蓝）/交叉（红）偏振配置下静态 SHG 强度随温度变化，插图为 THM 以上六重、以下二重的偏振花瓣；(b) 交叉偏振、探测光 φ=0°（⊥C₂）、泵浦通量 1.10 mJ cm⁻² 下 tr-SHG 振荡随温度的瀑布图；(c,e) 平行/交叉配置下延迟 1.9 ps（蓝）和 2.2 ps（红）的偏振切片；(d,f) 2.4 K、1.65 mJ cm⁻² 下 tr-SHG 信号随延迟时间与探测偏振角 φ 的二维图。
+    - **关键特征**：进入多铁相时 SHG 强度急剧增强，偏振图案由六重对称变为二重对称，C₂ 轴锁定在 φ=90°，对应点群 2 的单一对映纯畴；升温时 EMo 振荡幅度衰减、频率软化，至 THM≈60 K 消失（扩展数据图 2 给出软化曲线）；平行配置（d）在偏振-时间轴上保持稳定相位，是单模响应；交叉配置（f）出现叶瓣数在四叶/二叶间交替并逐渐失相，是 EMo 与 EMe 拍频干涉的指纹。
+    - **结论/意义**：该图确立了"SHG 选畴 + 亚带隙冷泵浦 + 各向异性 tr-SHG"的方法学，把电极化矢量 ΔP(t) 在 xy 面内的完整相干动力学可视化，并分离出 EMo、EMe 两个电磁振子。
+  - 图3：电极化与磁化动力学（π/2 相位差）——raw/figures 中未导出独立图片文件，仅以正文与图注描述。
+    - **图示描述**：五联图综合 tr-SHG 与 tr-RKerr 通道：(a) 从图 2d,f 反演的二阶非线性极化率张量元 Δχ⁽²⁾(t)（点）及阻尼振子拟合（线），按频率分红/蓝两组；(b) 拟合所得 EMo、EMe 能量与 tr-RKerr 提取频率的对照；(c) ΔPx、ΔPy 相对静态 P0 的平面轨迹；(d) 0.55–1.65 mJ cm⁻² 多种泵浦通量下极向 tr-RKerr 信号；(e) tr-SHG 与 tr-RKerr 中 EMo 振荡初始相位 Φ 随泵浦通量的变化，误差棒为 95% 置信区间。
+    - **关键特征**：tr-SHG 同时分辨 EMo（C₂-奇张量元，红）和 EMe（C₂-偶张量元，蓝），tr-RKerr 只见 EMo 不见 EMe，因 C₂-偶 EMe 无面外磁化分量；ΔP 矢量在 xy 面内走出椭圆率渐变的螺旋轨迹，源自两模拍频；所有泵浦通量下 tr-SHG 与 tr-RKerr 的 EMo 初始相位恒差 π/2，与 DFT/自旋模型预测的正交调制一致。
+    - **结论/意义**：π/2 相位差是自然光学活性（NOA）的动力学指纹，将电极化通道与磁化通道解耦并直接比较相位，排除了旋光双折射（GB）等同张量其他效应，从实验上锁定了手性磁电耦合的本质。
+  - ![图4 电磁振子动态磁电耦合与材料对比](../../raw/figures/gaoGiantChiralMagnetoelectric2024a/fig_4_VW7A6NTD.png) -> [[../figures/mathematical-models-magnetoelectric|磁电耦合与多铁理论]]
+    - **图示描述**：两联图量化磁电耦合强度：(a) 在泵浦通量 1.65 mJ cm⁻² 下，将 tr-SHG（蓝）和 tr-RKerr（红）信号转换为投影到 κ 轴的电极化 ΔPκ（10⁻¹⁶ C m⁻¹）和磁化 ΔMκ（10⁻⁸ A）随延迟时间的振荡，并与 DFT 加唯象阻尼的理论曲线（阴影）对比；(b) 在不同多铁/螺旋磁体材料中反演的太赫兹动态磁电耦合常数 α(ω)（单位 ps m⁻¹）随能量（meV）汇总，蓝圆为 NOA、红三角为 GB。
+    - **关键特征**：实验 ΔPκ、ΔMκ 曲线清晰呈现 π/2 相位差且幅值与 DFT 阴影高度吻合；沿 EMo 调制轴 κ 提取 Im{ακκ}=11×10³ ps m⁻¹（~4 meV/1 THz），与 DFT 理论值 12×10³ ps m⁻¹ 一致；对应旋光率 η≈1000° mm⁻¹，比 CuO、CuFe₀.₉₆₅Ga₀.₀₃₅O₂ 等螺旋磁体以及 Ba₂CoGe₂O₇、Eu₀.₇Y₀.₃MnO₃、(Fe,Zn)₂Mo₃O₈ 等单相多铁中的 GB/定向二向色性高出约两个数量级。
+    - **结论/意义**：定量坐实"巨（giant）"字——NiI₂ 单畴中的 THz 自然光学活性为已知螺旋磁体之最；DFT 与紧束缚/推广自旋流模型把该增强归因于非共线自旋 + I 上 λ≈0.5 eV 强 SOC + Ni–I 间 t/Δ≈0.33 的异常强 d–p 杂化三者协同的纯电子逆 DM 机制。
+  - 另有 eq_1/eq_2/eq_3（自旋哈密顿量 H=Hiso+Hani、各向异性修正、推广自旋流极化公式 P̂=λ(Δt/Δ⁴⁻¹)d_d-p[n̂·(S₁×S₂)]）及 fig_0（TOC 图）PNG 存于 raw/figures，本 wiki 页未单独引用。
+
+
+#### tianRoomtemperatureTwodimensionalMultiferroic2026 完整要点
+## ✏️ 可写入 Wiki 的要点
+  1. **材料事实**：双层 CrTe₂ 通过 MBE 在[[../entities/graphene|石墨烯]]/4H-SiC(0001) 上生长（Cr 通量 0.1 Å min⁻¹，Te 通量 6 Å min⁻¹，衬底 350 °C，本底真空 2×10⁻¹⁰ mbar）；第一层为 z-AFM（晶格 0.37 nm，2×√3 重构，a=0.74 nm, b=0.64 nm），第二层为 FM（晶格 0.39 nm，六方密堆积）；两层均为金属（dI/dV 在 E_F 非零）。
+  2. **室温磁性数据**：双层 CrTe₂ 在 20–300 K 面外/面内均有清晰磁滞回线；20 K 饱和磁化强度 2.44 μ_B/Cr，DFT(0 K) 预测 3.2 μ_B/Cr，偏差归因于有限温度自旋涨落；单层仅显衬底顺磁信号，XMLD 证实其 AFM-顺磁转变；双层室温 XMCD 有信号而单层无可检测二向色性。
+  3. **室温[[../concepts/ferroelectricity|铁电性]]数据**：双层 PFM 相位回线 180° 翻转、振幅蝴蝶形；矫顽电压 1–2 V，与 In₂Se₃（1.5 V）、SnS（2.0 V）相当；单层无压电响应。±7 V 直流偏压可写入非易失"盒中盒"畴图案。
+  4. **[[../concepts/electric-write-magnetic-read|电写磁读]]实验**：同一区域 PFM 写入 ±6/±7/±8 V 盒中盒图案后，MFM 读出完全一致的磁畴；衬度随写入电压增大而同步增强；用 0 V 非磁性导电针尖在不同抬针高度下对照实验排除了静电力假象；±2 V 以下无可观测衬度（矫顽阈值），反向偏压给出反向 PFM/MFM 衬度（可逆双向控制）。
+  5. **空气稳定性**：暴露大气两周后拉曼 E₂g（126.6 cm⁻¹）、A₁g（142.9 cm⁻¹）模式仍在；PFM/MFM 衬度两周后降至初始 ~30%，25 天内趋于饱和，耦合磁电序保持完整。
+  6. **磁场反控**：0→500→900→1300 Oe 外磁场下，已写入的 PFM 与 MFM 畴衬度同步减弱、畴界模糊，1300 Oe 时近似均匀，证明[[../concepts/magnetoelectric-coupling|磁电耦合]]双向性。
+  7. **机制——能带填充模型**：单层 CrTe₂ 的 FM 与 z-AFM 总能量近简并；每个 Cr 三个价电子满占 t₂g，多余电子进入 e_g。FM 态中自旋向上 e_g 部分填充（<25%），相邻 Cr 的平行自旋 e_g 轨道可杂化降能；z-AFM 态中相邻 Cr 反平行排列阻碍 e_g/t₂g 直接耦合。电子从 z-AFM 层转移至 FM 层使 FM 层 e_g 趋近半填充、增强 Cr-Cr 杂化，同时 z-AFM 层耗尽反键态亦降能；超过半填充则失稳，故[[../concepts/charge-transfer|电荷转移]]自限制。
+  8. **定量极化数据**：能量极小值对应电荷转移 ~0.019 C m⁻²；z-AFM 与 FM 单层间静电势差 ~0.1 eV；差分[[../concepts/charge-density|电荷密度]]给出 ~0.020 C m⁻² 转移量；沿 z 方向自发极化 P≈3.0 pC m⁻¹，远大于典型滑移铁电体（0.1–1.2 pC m⁻¹）；极化矢量在所有层间滑移构型下保持不变（补充图10），排除结构滑移起源。
+  9. **双稳态与内建极化**：PFM 回线正负载压不对称（[[../concepts/coercive-field|矫顽场]]不等、回线偏移），+7 V 区域与未偏压区域衬度相同，表明存在内建极化并已稳定 z-AFM(底)/FM(顶) 基态；SP-STM 同时观察到少量反向畴（z-AFM 在顶层），证实两个近简并磁电态共存。
+  10. **三重设计框架（普适原则）**：(i) 精确调控单层导带电子填充至中间占据区，使 FM 与 AFM 磁相互作用竞争共存；(ii) 体系横向导电但纵向绝缘，从而在面外建立铁电极化而不被面内自由载流子屏蔽；(iii) [[../concepts/interlayer-charge-transfer|层间电荷转移]]获得的磁稳定化能必须超过 FM/AFM 层晶格失配引起的应变能——这一条件仅在范德华层中可满足。计算上用 1356 原子[[../concepts/superlattice|超晶格]]将失配约束在 <3%。DFT 参数：VASP、PAW、PBE、vdW-DF2、截断 500 eV、6×7 k 网格、真空层 ≥20 Å、力收敛 0.005 eV Å⁻¹、U=3.0 eV、J=0.6 eV。
+
+
+#### tianRoomtemperatureTwodimensionalMultiferroic2026 完整图表
+## 📊 关键图表
+  - **图1：单层与双层 CrTe₂ 的原子级结构与电子性质**
+  - ![图1 单层与双层 CrTe₂ 的原子级结构与电子性质：1T 结构模型、单层 STM/LEED（0.37 nm，z-AFM 锯齿条纹）、双层 STM/LEED（0.37+0.39 nm 两套斑点，第二层六方密堆积 FM）、dI/dV 证实金属性](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_1_USCG2SF4.png) → [[../figures/crystal-structures-bulk|体相晶体结构]]
+  - **图示描述**：8 个面板 (a–h) 依次给出 1T-CrTe₂ 晶体结构模型（Cr 被 Te 八面体配位的层状三角结构），单层 CrTe₂/石墨烯/SiC(0001) 的 STM 形貌（台阶 0.8 nm）、90 eV LEED 斑点（晶格 0.37 nm）、−0.1 V 高分辨 SP-STM 锯齿条纹（a=0.74 nm、b=0.64 nm，对应 2×√3 重构），以及双层的 STM 形貌（第二层高出 0.6 nm）、LEED（同时出现 0.37 nm 外圈与 0.39 nm 内圈两套斑点）、第二层六方密堆积 SP-STM（0.39 nm）和单层/双层 dI/dV 谱。
+  - **关键特征**：单层 LEED 晶格 0.37 nm、SP-STM 呈锯齿状条纹，对应 z-AFM 序；双层 LEED 出现 0.37 nm（第一层）+0.39 nm（第二层）两套斑点，SP-STM 第二层为六方密堆积，指示第一层 AFM、第二层 FM 的异层磁构型；dI/dV 在费米能级非零，单层与双层均为金属，奠定"二维多铁金属"基础；拉曼 E₂g（126.6 cm⁻¹）、A₁g（142.9 cm⁻¹）在大气暴露两周后仍可探测。
+  - **结论/意义**：从原子尺度直接证实双层 CrTe₂ 由 AFM/FM 两层构成、层间存在晶格失配并保持金属性，为后续多铁性与层间电荷转移模型提供结构前提。
+  - **图2（wiki 图序，对应正文 Fig. 5）：双层 CrTe₂ 中铁电性起源的能带填充与层间电荷转移模型**
+  - ![图2（manifest 标注为 page 6）双层 CrTe₂ 中铁电性起源的能带/电荷模型：FM 与 z-AFM 的 DOS 与 t₂g/e_g 填充、能量-电荷转移曲线（极小值 ~0.019 C m⁻²）、~0.1 eV 静电势差、差分电荷密度（~0.020 C m⁻²，P≈3.0 pC m⁻¹）](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_2_WFPFNDUZ.png) → [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
+  - **图示描述**：理论面板 (a–e)，(a)(b) 分别为 FM 和 z-AFM 单层中 Cr-t₂g/e_g 轨道的态密度与能带填充示意；(c) FM+z-AFM 体系总能量随层间电荷转移量（横轴 C m⁻²）变化的曲线，插图指示电子由 z-AFM 层流向 FM 层；(d) FM 与 z-AFM 单层沿 z 方向的静电势分布；(e) z-AFM/FM 超晶格差分电荷密度图及沿 z 的线平均。
+  - **关键特征**：FM 态自旋向上 t₂g 全占、e_g 部分填充（<25%），相邻 Cr 平行自旋 e_g 可杂化降能；z-AFM 态反平行自旋阻碍 e_g/t₂g 直接耦合；能量极小值在电荷转移 ~0.019 C m⁻²，超过半填充即失稳使电荷转移自限制；FM 与 z-AFM 单层静电势差 ~0.1 eV，是驱动层间电荷转移的内建泵；差分电荷密度定量给出 ~0.020 C m⁻² 转移量，沿 z 产生自发极化 P≈3.0 pC m⁻¹，远大于典型滑移铁电体 0.1–1.2 pC m⁻¹；补充图 10 显示极化方向在所有滑移构型下不变，排除结构滑移起源。
+  - **结论/意义**：把多铁性归因为"电子填充驱动的层间电荷转移"，替代传统 II 型多铁依赖的自旋轨道耦合范式，是全文的理论核心。
+  - **图3：多铁双层 CrTe₂ 的"电写磁读"功能演示**
+  - ![图3 电写磁读：PFM 在 ±6/±7/±8 V 下写入"盒中盒"铁电畴（a-d），同一区域 MFM 读出完全对应的磁畴图案（e-h），对比度随写入电压同步增强](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_3_85N9YJPF.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]
+  - **图示描述**：同一微区的 PFM（a–d，写入与面外振幅/相位读出）与 MFM（e–h，磁畴读出）配对图像；(a)(e) 为未写入的初始态，(b)(f)、(c)(g)、(d)(h) 依次对应 ±6 V、±7 V、±8 V 直流偏压写入的"盒中盒"图案。
+  - **关键特征**：初始态 MFM 呈现自然条纹磁畴；±6 V 写入后 MFM 出现与 PFM 写入图案边界完全重合的磁畴，直接证明电场翻转铁电极化即可重构磁序；±2 V 以下衬度可忽略（矫顽阈值，与 PFM 1–2 V 矫顽电压一致），反向偏压给出反向 PFM/MFM 衬度，证实可逆双向控制；写入电压由 ±6 V 增至 ±8 V 时 PFM 与 MFM 衬度同步增强；0 V 非磁性导电针尖在不同抬针高度下不产生类似 MFM 图案（补充图 5），排除静电力假象；大气暴露两周后该"电写磁读"仍有效，14 天 PFM/MFM 衬度保留约初始 30%，25 天趋于饱和。
+  - **结论/意义**：在室温、大气条件下直接演示非易失"电写磁读"，是双层 CrTe₂ 强磁电耦合最关键的实验证据。
+  - **图4：外磁场下 PFM/MFM 畴衬度的演化（磁反控电）**
+  - ![图4 磁场依赖的 PFM/MFM：0→1300 Oe 外磁场下写入畴的衬度逐步减弱直至均匀，反向证实磁电耦合的双向性](../../raw/figures/tianRoomtemperatureTwodimensionalMultiferroic2026/fig_4_QKXBGTR6.png) → [[../figures/domain-walls-structures|畴结构与畴壁]]
+  - **图示描述**：在已写入"盒中盒"图案的同一区域，依次施加 0、500、900、1300 Oe 外磁场后采集的 PFM 图像 (a–d) 与 MFM 图像 (e–h)。
+  - **关键特征**：0 Oe 时 PFM 与 MFM 畴界锐利、衬度强；随磁场升至 500、900 Oe，PFM 与 MFM 衬度同步减弱、畴界逐渐模糊；1300 Oe 时图像近乎均匀；磁畴被外场趋同后通过磁电耦合反过来削弱铁电畴稳定性。
+  - **结论/意义**：与图3 电写磁读互为镜像，证明磁电耦合是双向的——不仅电场可控磁，磁场亦可反作用于铁电态。
+  - **正文图2（raw/figures 未单独出图）：双层 CrTe₂ 的室温铁磁性与铁电性**
+  - 正文图2（M-H 磁滞回线 + PFM 相位/振幅蝴蝶回线 + ±7 V 盒中盒畴写入）在 raw/figures 目录中未单独出图，仅 manifest 收录 4 张图。
+  - **图示描述**：(a)(b) 单层与双层 CrTe₂ 在 20–300 K 下面外（OOP）和面内（IP）方向的 M-H 磁滞回线；(c)(d) 室温大气下单层与双层的 PFM 相位/振幅回线；(e)(f) ±7 V 直流偏压写入"盒中盒"后的面外 PFM 振幅与相位图。
+  - **关键特征**：单层在 ±4500 Oe 范围内只显衬底顺磁背景、无磁滞，与 z-AFM 基态及 XMLD 测得的 AFM-顺磁转变一致；双层在 20–300 K 面外、面内均有清晰磁滞回线，20 K 饱和磁化强度 2.44 μ_B/Cr，DFT(0 K) 预测 3.2 μ_B/Cr，偏差归因于有限温度自旋涨落；双层室温 XMCD 有信号而单层无可检测二向色性；双层 PFM 相位 180° 翻转、振幅呈蝴蝶形，矫顽电压 1–2 V，与 In₂Se₃（1.5 V）、SnS（2.0 V）相当，单层无压电响应；±7 V 写入的盒中盒畴振幅/相位衬度清晰、非易失；PFM 回线正负偏压不对称（矫顽场不等、回线偏移）且 +7 V 区与未偏压区衬度相同，指示已稳定 z-AFM(底)/FM(顶) 的内建极化基态。
+  - **结论/意义**：用 SQUID + PFM 联合确立双层 CrTe₂ 在室温、空气下同时具备铁磁性与可翻转面外铁电性，单层则两者皆无，从而判定多铁性是双层本征属性。
+
+
+#### xunCoexistingMagnetismFerroelectric2024 完整要点
+## ✏️ 可写入 Wiki 的要点
+  1. 单层 GdI₂ 为铁磁半导体，面内晶格常数 4.17 Å，Gd 为 4f⁷5d¹ 构型；层内交换 J∥≈−8.25 meV（强 FM），FM-AFM 能量差 ΔE=−266 meV；MAE=0.777 meV/cell，易轴沿面内 x 方向，需 ~3.58 T 磁场才能将磁矩转到面外。
+  2. 单层 GdI₂ 在 SOC 下 K/K' 谷劈裂达 155.5 meV，大于 VSe₂(90 meV)、VSiXN₄(~70 meV)、MoTe₂/EuO(~20 meV)；VBM 主要由 Gd d_xy、d_x²−y² 轨道贡献，谷劈裂可由 H_SOC=S_z L_z 的[[../concepts/effective-hamiltonian|有效哈密顿量]]解析给出 E_vK−E_vK'=4⟨d_xy|S_z|d_xy⟩⟨d_x²−y²|L_z|d_xy⟩。
+  3. 双层 GdI₂ 六种堆垛（AA/AB/BA/AA'/AB'/BA'）中，AB、BA、BA' 为能量稳态；AA 具有 D3h 对称（xy 镜面），无面外极化；滑移至 AB/BA 后对称性降为 C3v，产生面外极化 P=3.68×10⁻¹² C/m，真空能级跃变 ΔΦ=±22.86 meV。
+  4. 磁相对堆垛高度敏感：AA 堆垛层间交换能 ΔE=E_AFM−E_FM=−1.794 meV（AFM 基态），AB/BA 为 +1.046 meV（FM 基态）；AB→BA 滑移能垒 16.42 meV（低于室温 kBT≈26 meV，存在热稳定性隐患）。
+  5. 微观机制为 Gd-I-I-Gd 超[[../concepts/superexchange|超交换]]：AA 中 J₁⊥ 由半满 d_z²-d_z² 虚激发主导（AFM，J₁⊥=0.243 meV），AB 中滑移改变轨道重叠，J₁⊥ 变为 d_z²-d_xy/d_x²−y² 虚激发（FM，J₁⊥=−0.036 meV），J₂⊥ 由 d_z²-d_xz/d_yz 贡献亦为 FM。
+  6. AA 堆垛 AFM 态下 K/K' 贝里曲率大小相等符号相反（±26.2 Å²），无净谷[[../concepts/hall-effect|霍尔效应]]；AB 堆垛 FM 态下贝里曲率不对称（+25.0 vs −28.8 Å²），谷极化 158 meV；BA 堆垛谷极化与贝里曲率分布整体翻转，实现铁电↔磁↔谷三序协同反转。
+  7. 计算上采用 DFT+U（U=2.5–5 eV 扫描，谷极化变化仅 0.5 meV，结果稳健）、PAW 赝势、GGA-PBE；声子谱无虚频、[[../concepts/formation-energy|形成能]] −11.140 eV，表明单层 GdI₂ 动力学稳定且易制备。
+  8. "滑移多铁"设计范式：任何具有本征自发谷极化的单层铁磁半导体，原则上都可通过双层堆垛+层间滑移实现磁-电-谷耦合多铁，避免了异质结制备困难，为二维多铁器件提供通用路线。
+  9. AA' 类堆垛因上下层 180° 旋转导致面外极化相互抵消，虽有磁耦合但无[[../concepts/ferroelectricity|铁电性]]，说明对称性（而非单纯滑移）是极化存在的判据。
+  10. 批判性局限：16.42 meV 滑移势垒偏低、室温热稳定性存疑；易轴面内与谷极化需面外磁矩矛盾；GdI₂ 空气敏感、实验合成尚未实现；4f 强关联效应可能超出 DFT+U 描述，需 GW 等更高精度方法验证。
+
+
+#### xunCoexistingMagnetismFerroelectric2024 完整图表
+## 📊 关键图表
+  - **图1 滑移多铁机制示意图：AA(AFM,无极化)→AB/BA(FM,反向铁电与谷极化)**
+  - ![图1 滑移多铁机制示意图：AA(AFM,无极化)→AB/BA(FM,反向铁电与谷极化)](../../raw/figures/xunCoexistingMagnetismFerroelectric2024/fig_1_UNCVPF48.png) → [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
+  - **图示描述**：概念机制图，用三列对比 AA、AB、BA 三种双层堆垛的磁序、能带（橙/浅绿锥体分别表示自旋向上/向下能带）与铁电极化 P（深灰色箭头）。
+  - **关键特征**：AA 堆垛层间磁矩反平行（AFM），K/K' 能带简并，无谷极化亦无铁电极化；滑移至 AB 后磁矩转为平行（FM），K/K' 谷发生劈裂并产生 +z 方向的自发极化 P；BA 与 AB 同为 FM，但 P 反转为 −z，谷极化同步翻转。
+  - **结论/意义**：以一张图给出"滑移即三序协同翻转"的论文总纲，奠定滑移多铁（sliding multiferroic）概念。
+  - **图2 单层GdI₂晶体结构、ELF、声子谱及SOC能带（谷劈裂155.5 meV）**
+  - ![图2 单层GdI₂晶体结构、ELF、声子谱及SOC能带（谷劈裂155.5 meV）](../../raw/figures/xunCoexistingMagnetismFerroelectric2024/fig_2_AGA9PAPG.png) → [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
+  - **图示描述**：由七个子图构成，分别给出单层 GdI₂ 的俯视图/侧视图晶体结构（a）、电子局域函数 ELF（b）、声子色散谱（c）、无 SOC 自旋极化能带（d）、含 SOC 的轨道分辨能带（e），以及磁矩沿 +z（f）和 −z（g）方向时的 SOC 能带。
+  - **关键特征**：面内晶格常数 4.17 Å，Gd 位于 I 三角棱柱中心，反演对称性破缺；ELF 显示电子集中在原子周围，Gd–I 为典型离子键；声子谱无虚频且形成能 −11.140 eV，证明动力学稳定；FM-AFM 能量差 ΔE=−266 meV，MAE=0.777 meV/cell（易轴沿面内 x，需约 3.58 T 磁场才转到面外）；VBM 主要由 Gd d_xy、d_x²−y² 轨道贡献，开启 SOC 后 K/K' 谷劈裂达 155.5 meV（大于 VSe₂ 约 90 meV、VSiXN₄ 约 70 meV、MoTe₂/EuO 约 20 meV）；磁矩由 +z 翻到 −z 时谷极化符号反转。
+  - **结论/意义**：确立单层 GdI₂ 为具有大谷极化的铁磁半导体，为双层滑移多铁提供合格的构建单元。
+  - **图3 双层GdI₂滑移能垒、层间交换能随滑移路径变化及二维磁相图**
+  - ![图3 双层GdI₂滑移能垒、层间交换能随滑移路径变化及二维磁相图](../../raw/figures/xunCoexistingMagnetismFerroelectric2024/fig_3_XJ7U4H33.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]
+  - **图示描述**：上排 (a–c) 对应 AA 类堆垛、下排 (d–f) 对应 AA′ 类堆垛；(a,d) 为沿滑移路径的总能曲线（灰/蓝球分别表示 AFM/FM 磁基态，橙色球为能量极小），(b,e) 为 AFM-FM 能量差 ΔE 沿 [1̄10]（红实线）和 [100]（蓝虚线）方向的变化，(c,f) 为 6×6 网格扫描得到的全二维滑移空间磁相图（红=FM，蓝=AFM）。
+  - **关键特征**：AB 与 BA 是 AA 类的能量最低稳态，AB→BA 翻转能垒仅 16.42 meV（低于室温 k_BT≈26 meV）；AA 堆垛层间交换能 ΔE≈−1.794 meV（AFM 基态），AB/BA 为 +1.046 meV（FM 基态）；AA′ 类中 BA′ 最稳、AB′ 能量高 0.75 meV，AB′ 附近为 FM、其余多为 AFM；相图清晰显示 D3h 对称的 AA 为 AFM，破缺 xy 镜面降至 C3v 的 AB/BA 区域转为 FM，并伴随面外电极化（真空能级跃变 ΔΦ=±22.86 meV，P=3.68×10⁻¹² C/m）。
+  - **结论/意义**：定量证明磁基态、铁电极化与层间滑移矢量强耦合，是"磁电耦合"的直接计算证据。
+  - **图4 轨道依赖层间交换及Gd-I-I-Gd超超交换路径示意图**
+  - ![图4 轨道依赖层间交换及Gd-I-I-Gd超超交换路径示意图](../../raw/figures/xunCoexistingMagnetismFerroelectric2024/fig_4_5PV9HUPZ.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]
+  - **图示描述**：(a) 为 d 轨道选择定则示意，对比 d_z²–d_z² 虚跃迁在 AFM/FM 构型下的允许/禁止；(b–e) 标出 AA、AB、AB′、BA′ 四种堆垛中最近邻 J₁⊥（红色连线）和次近邻 J₂⊥（蓝色连线）的 Gd–Gd 交换路径；(f–i) 为对应的 Gd–I–I–Gd 超超交换轨道示意图。
+  - **关键特征**：基于 Gd 4f⁷5d¹ 构型与洪特规则，d_z²–d_z² 半满轨道间跃迁仅在 AFM 自旋下允许，倾向 AFM；而 d_z²→空 d_xy/d_x²−y²、d_z²→d_xz/d_yz 的跃迁由局域洪特耦合主导，倾向 FM；AA 堆垛中 J₁⊥ 沿 d_z²–d_z² 路径主导（J₁⊥=0.243 meV，AFM），J₂⊥ 较弱；AB 堆垛因滑移改变轨道重叠，J₁⊥ 变为 d_z²–d_xy/d_x²−y² 路径（J₁⊥=−0.036 meV，FM），J₂⊥ 亦为 FM，整体磁基态由 AFM 翻转为 FM。
+  - **结论/意义**：把堆垛依赖的磁相变追溯到 d 轨道杂化路径的竞争，给出超超交换（supersuperexchange）的微观图像。
+  - **图5 AA/AB/BA堆垛的自旋分辨能带与贝里曲率（谷极化翻转）**
+  - ![图5 AA/AB/BA堆垛的自旋分辨能带与贝里曲率（谷极化翻转）](../../raw/figures/xunCoexistingMagnetismFerroelectric2024/fig_5_GWY2W8FP.png) → [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
+  - **图示描述**：考虑 SOC 效应下 AA、AB、BA 三种堆垛的自旋分辨能带（a,c,e）与动量空间贝里曲率分布（b,d,f）对比。
+  - **关键特征**：AA 为 AFM 态，K/K' 处自旋向上、向下能带在能量上仍简并，无净谷极化，贝里曲率在 K 与 K' 大小相等、符号相反（+26.2 与 −26.2 Å²），无净谷霍尔响应；滑移到 AB 后磁基态变 FM，VBM 出现 158 meV 的谷极化，K/K' 贝里曲率不对称（+25.0 与 −28.8 Å²），产生净谷霍尔效应；继续滑移到 BA 时谷极化符号反转，贝里曲率分布对调（+28.8 与 −25.0 Å²），谷霍尔电压方向随之翻转。
+  - **结论/意义**：从能带与拓扑输运量上证实铁电翻转 ↔ 磁态 ↔ 谷极化三序协同反转，闭环论文核心论断。
+  - **表1 不同堆垛下Gd-Gd层间距离、配位数、海森堡交换参数J及ΔE**
+  - ![表1 不同堆垛下Gd-Gd层间距离、配位数、海森堡交换参数J及ΔE](../../raw/figures/xunCoexistingMagnetismFerroelectric2024/tab_1_W2FY2753.png) -> [[../figures/heterostructures-stacking|异质结与堆叠]]
+  - **图示描述**：汇总 AA、AB、AB′、BA′ 四种典型堆垛下 Gd–Gd 最近邻（NN）与次近邻（second-NN）层间距离、每单胞交换键数（方括号）、海森堡交换参数 J₁⊥、J₂⊥、J∥ 以及层间 AFM-FM 能量差 ΔE。
+  - **关键特征**：AA 堆垛 NN 距离 8.139 Å、每胞 1 条 J₁⊥ 键，J₁⊥=0.243 meV（AFM）、J₂⊥=−0.003 meV、J∥=−8.253 meV、ΔE=−1.794 meV，NN 的 AFM 耦合压制 6 条 J₂⊥ 的弱 FM 贡献，整体为 AFM；AB 堆垛 NN 距离缩短到 7.888 Å、每胞 3 条 J₁⊥ 键，J₁⊥=−0.036 meV 反号为 FM、J₂⊥=−0.007 meV、ΔE=+1.046 meV，整体 FM；AB′ 配位数与 AA 相同（1+6）但 J₁⊥ 仅 0.002 meV、ΔE=+0.206 meV，BA′ 配位数与 AB 相同（3+3）但 J₁⊥=0.066 meV、ΔE=−1.403 meV，二者磁基态相反，说明仅靠配位数不足以判断磁序，对称性/轨道重叠才是关键；层内 J∥ 约 −8.25 meV 始终为强 FM。
+  - **结论/意义**：为图4的轨道图像和图3的磁相图提供定量的海森堡参数支撑。
+  - **公式(1)-(4) SOC有效哈密顿量与谷劈裂解析表达式**
+  - ![公式(1)-(4) SOC有效哈密顿量与谷劈裂解析表达式](../../raw/figures/xunCoexistingMagnetismFerroelectric2024/eq_1_HMB6GSG3.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
+  - **图示描述**：把 SOC 项 H_SOC=L·S 拆为同自旋 H_SOC⁰ 与反自旋 H_SOC¹ 两部分，并在 VBM 由自旋向上能带贡献的前提下忽略 H_SOC¹；当面外磁化（θ=φ=0）时 H_SOC⁰=S_z L_z；取 τ=±1 对应 K/K' 的轨道基函数 |ψ^τ_v⟩=(1/√2)(|d_xy⟩+iτ|d_x²−y²⟩)⊗|↑⟩，推导得价带谷劈裂 E^K_v−E^{K'}_v=4i⟨d_xy|S_z|d_xy⟩⟨d_x²−y²|L_z|d_xy⟩。
+  - **关键特征**：解析表达式直接给出谷劈裂正比于 S_z 期望值与 L_z 矩阵元的乘积，从而自然解释磁矩沿 +z/−z 时谷极化符号反转；C₃ 对称下 d_xy 与 d_x²−y² 通过 L_z 耦合（L_z|d_xy⟩=−2iℏ|d_x²−y²⟩、L_z|d_x²−y²⟩=2iℏ|d_xy⟩）是劈裂不为零的轨道来源；解析结果与 DFT 计算的 155.5 meV 一致，且 U=2.5–5 eV 范围内谷极化仅变化 0.5 meV，结果稳健。
+  - **结论/意义**：把"磁性翻转带动谷极化翻转"从数值观测提升为可解析推导的物理关系，是磁-谷耦合的理论核心。
+
+
+#### zahraCriticalAnalysisFerroelectric2025 完整要点
+## ✏️ 可写入 Wiki 的要点
+  - MXene 通式 M_{n+1}X_nT_x，由 [[../entities/MAX-phase]] M_{n+1}AX_n 选择性刻蚀 A 层得到；M-X 为金属/离子/共价混合键，强于 M-A 金属键，因此刻蚀只断 M-A。已报道约 155 种 MAX 相、约 55 种 MXene。
+  - 刻蚀工艺（HF、氟盐/强酸、NH₄HF₂、无氟熔盐、电化学、CVD）直接决定端基 T_x（-O/-OH/-F/-Cl/-S/-Br/-NH₂ 等），T_x 同时调控电子结构、亲疏水性、对称性与磁性，是性能调控的第一旋钮；无 T_x 的 M_{n+1}X_n 称 pristine MXene。
+  - 多数 MXene 为中心对称结构，本征禁止自发极化；3D 铁电薄膜在减薄时存在"死层+[[../concepts/depolarization-field|退极化场]]+屏蔽场"使面外极化失稳，而 2D 范德华铁电（如 In₂Se₃）无死层，单层即可保持稳定极化，这是 MXene 铁电研究的物理动机。
+  - 首个本征铁电 MXene 是 2017 年 Chandrasekaran 等预测的 Sc₂CO₂；随后 DFT 预测 Nb₂CS₂/Ta₂CS₂、Sc₂CS₂/Y₂CS₂、Y₂CO₂ 等也以铁电为基态；类 α-In₂Se₃ 六方相的 α-MXene（Nb₂CF₂、Mo₂CO₂、Ta₂CF₂、W₂CF₂、Mo₂CF₂）是罕见的"[[../concepts/ferroelectric-metal|铁电金属]]"，其[[../entities/FTJ|铁电隧道结]] TER 极高，可用于铁电存储器。
+  - 五层 M₂CT₂（M=Ti,Zr,Hf；T=O,F,OH）可同时存在面外(OOP)与面内(IP)极化，二者高阶耦合使外场下[[../concepts/polarization-switching|极化翻转]]更高效稳定；Hf₂CF₂ 在小应变下可由非极性半导体相转为[[../concepts/polar-metal|极性金属]]相。
+  - 实验上，V₂CT_x 的 PFM 振幅蝴蝶曲线+180° 相位回滞是 MXene [[../concepts/ferroelectricity|铁电性]]的直接证据，且刻蚀/还原条件（V₂C-HF / V₂C-OH / V₂C-BH）可调控极化电场；对 Ti₃C₂ 薄膜进行热处理亦可使其由非铁电转为铁电（FE-MXene），并与 rGO 叠层实现非易失双极开关。
+  - [[../concepts/ferromagnetism|铁磁性]]来源：早期过渡金属为 Cr/Mn 的 MXene 因 3d 半满常具本征磁矩；Mn₂C 反铁磁、Mn₂CO₂ 铁磁，Cr₂NO_x/CrCO₂/Fe₂C 为本征铁磁，Cr₂N 反铁磁但官能团化（F/H/OH/Cl）可改变其磁基态；氮化物 MXene（Cr₂NO₂、Ti₂NO₂、Mn₂NT_x）因 N 的额外电子而具本征磁性。
+  - Cr₂COOH 为铁磁半导体，两不等价 Cr 分别为 3d³(3 μ_B) 与 3d²(2 μ_B)，每单胞总磁矩 5 μ_B；Cr 替位掺杂 Zr₂CO₂ 的 Zr 位[[../concepts/formation-energy|形成能]]最低、具铁磁基态与[[../concepts/half-metallicity|半金属性]]，可用于室温自旋电子学。
+  - 非磁 Ti₃C₂T_x 诱导铁磁的途径：Gd³⁺ 掺杂（300 K 仍有清晰 M-H 回线，Gd 自由电子与 Ti-3d 在费米能级的自旋密度交换耦合形成软磁复合）、Nb 掺杂、La 掺杂（铁磁-反铁磁共存）、L-抗坏血酸化学还原使铁磁转变温度由 50 K 升至 150 K；V₂C 纳米片扭转可破坏层间对称、重排费米能级附近[[../concepts/density-of-states|态密度]]而增强 Stoner 铁磁性。
+  - [[../concepts/multiferroicity|多铁性]]：i-MXene (Ta_{2/3}Fe_{1/3})₂CO₂ 为 I 型多铁且磁电效应高；[[../entities/hf2vc2f2|Hf₂VC₂F₂ 单层]]为 II 型多铁（磁性直接源于铁电性、转变温度高）；Mo₂NCl₂ 因 Mo 离子电荷歧化诱导面外极化而具磁电性；Co₂CF₂ 天然同时具 FE/FM 与电控可逆磁性[[../concepts/skyrmion|斯格明子]]；Sc₂CO₂/Hf₂MnC₂O₂ 垂直异质结可实现非易失可切换半金属性。Rabia Tahir 等首次在室温 Ti₃C₂T_x 及[[../entities/Mo2Ti2C3Tx|双过渡金属]] Mo₂TiC₂T_x 薄膜中实验观察到多铁性。
+  - 器件：Cu/MXene/PZT [[../entities/ferroelectric-memristor|铁电忆阻器]]较纯 PZT 显著降低 Cu 离子迁移势垒（PZT 中约 4.43 eV），实现低开关电压、高开关比、低能耗；Mo₂Ti₂C₃T_x/激光还原[[../entities/graphene|石墨烯]]三层忆阻器 R_off/R_on≈10²、耐久性达 10³ 次循环；BT/f-Ti₃C₂T_x 锂电负极在 10 A g⁻¹ 下容量 84 mAh g⁻¹（本征 Ti₃C₂T_x 的 5 倍），源于 BTO 极化内建电场富集 Li⁺；官能化 Ti₃C₂/PVDF 或 TENG 填料可同时调控铁电 β 相结晶度与摩擦电极性（-NH₂ 端为摩擦正、N 端为摩擦负，开路电压达 250 V）。
+  - 批判性局限：多数"诱导"FE/FM 难以区分是 MXene 本体改性还是掺杂/复合次生相（如 Gd 团簇）；DFT 多用完美晶体/0K/均匀端基，与真实缺陷、混合端基、堆叠无序差距大；复合"协同增强"常未定量剥离导电网络、界面应变、[[../concepts/charge-transfer|电荷转移]]与轨道杂化各自贡献；综述所引多铁案例多为弱耦合 I 型，真正 II 型强[[../concepts/magnetoelectric-coupling|磁电耦合]]与器件级开关比/耐久性/保持时间的统一评价仍缺失。
+
+
+#### zahraCriticalAnalysisFerroelectric2025 完整图表
+## 📊 关键图表
+  - 图1：MXene 应用示意图：![图1](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_1_WJ78IQDN.png)
+  - **图示描述**：以 MXene 为中心的辐射状示意图，外围分电学（电池、超级电容器）、磁学（电磁干扰屏蔽）、光学（光子学、激光器）、机械以及层状结构五大应用板块。
+  - **关键特征**：全景式呈现 MXene 的多功能平台属性；强调其高导电、可调表面端基、高比表面积带来的跨领域应用潜力；为后文聚焦铁电/铁磁两大物性提供应用语境。
+  - 图2：MAX 相结构、刻蚀分层流程及单/双过渡金属 MXene 分类：![图2](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_2_NA4IK5IN.png)
+  - **图示描述**：(a) 周期表中标出 M（早期过渡金属）、A（IIIA/IVA 族）、X（C/N）元素；(b) 从三维 MAX 相选择性刻蚀 A 层再经分层得到二维 MXene 纳米片；(c) 按 M 元素数量分为单过渡金属（如 Ti3C2）与双过渡金属（如 Mo2TiC2）MXene。
+  - **关键特征**：M-X 为金属/离子/共价混合键，强于 M-A 金属键，故刻蚀仅断 M-A；已报道约 155 种 MAX 相、约 55 种 MXene；n=1 时 M 原子呈 ABAB 六方密堆，n=2、3 时呈 ABCABC 面心立方堆垛；通式 M_{n+1}X_nT_x 的来源一目了然。
+  - 图3：铁电 P-E 回线与铁磁 M-H 回线对比，及 3D 铁电体死层/退极化场问题：![图3](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_3_3DJURTX2.png)
+  - **图示描述**：(a) 铁电体在外电场 E 下偶极矩 P 翻转形成的 P-E 电滞回线，同时示意传统 3D 铁电薄膜的死层与退极化场；(b) 铁磁体在外磁场 H 下磁矩 M 翻转形成的 M-H 磁滞回线。
+  - **关键特征**：两条回线均呈"翻转—滞后"特征，是 FE/FM 的身份证；铁电源于电荷有序，铁磁源于自旋有序；3D 铁电薄膜在减薄时受死层、退极化场、屏蔽场共同作用，面外极化难以稳定。
+  - 图4：3D 铁电电容屏蔽场/死层效应 vs 2D In2Se3 无死层的稳定极化：![图4](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_4_IYHEZJU4.png)
+  - **图示描述**：(a) 3D 铁电电容中电极/界面处的屏蔽电荷产生 E_screen 屏蔽场，叠加退极化场削弱面外极化；(b) 以 In2Se3 为代表的 2D 范德华铁电体单层结构，无界面死层即可保持面内/面外极化。
+  - **关键特征**：厚度越薄，死层对 3D 铁电体的压制越显著；范德华表面干净、无悬挂键，使 2D 铁电在纳米尺度仍稳定；该图是"为什么要在 2D MXene 中找铁电"的核心物理动机。
+  - 图5：α-MXene 可调铁电性与极化翻转能量势垒：![图5](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_5_TZK88HMA.png)
+  - **图示描述**：α 相（类 α-In2Se3 六方相）MXene（Nb2CF2、Mo2CO2、Ta2CF2、W2CF2、Mo2CF2）的原子结构及极化上/下两态，附表给出各材料极化值（eÅ）与极化翻转能量势垒（eV）。
+  - **关键特征**：这一族 α-MXene 被 DFT 预测为罕见的"铁电金属"；势垒过低则极化易受热扰动丢失，过高则翻转电压过大，图中数值为筛选存储材料提供依据；基于此类材料的 FTJ 隧穿电阻比 TER 极高。
+  - 图6：TPU/BTO/MXene 体系介电常数及 BTO/MXene/4H-SiC 异质结合成流程：![图6](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_6_B2W2HNHJ.png)
+  - **图示描述**：(a) TPU、TPU/BTO、TPU/MXene、TPU/BTO/MXene 四种纳米复合材料的介电常数与介电损耗随频率曲线；(b) BTO 掺杂 MXene/4H-SiC 异质结紫外探测器的合成流程。
+  - **关键特征**：TPU/BTO/MXene 三元体系介电常数最高，源于 BTO 铁电极化与 MXene 导电网络/微电容的协同；MXene 还可破坏 BTO 对称性、增强 BTO/4H-SiC 界面内建电场，通过铁电-热释电-光电子效应提升光敏性。
+  - 图7：BT/f-Ti3C2Tx 复合材料合成流程、SEM 形貌与结构：![图7](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_7_33QRNVQ5.png)
+  - **图示描述**：(a–c) 在 Ti3C2Tx 纳米片上原位生长 BaTiO3 纳米颗粒的合成策略；(e–h) 从 Ti3AlC2 MAX 相→多层 Ti3C2Tx→少层 Ti3C2Tx→BT/f-Ti3C2Tx 复合物的 SEM 形貌演变；(k) BTO 借助表面亚稳态 Ti 原子在 MXene 上成核的原子示意图。
+  - **关键特征**：MXene 表面的亚稳态 Ti 原子充当天然反应位点，无需额外添加剂即可实现 BTO 紧密成核；"原位生长"保证高质量界面，是后续锂电内建电场富集 Li+ 的结构基础。
+  - 图8：V2C 的 PFM 蝴蝶曲线与相位回滞（铁电实验证据）：![图8](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_8_75AQ6FBG.png)
+  - **图示描述**：压电力显微镜（PFM）对三种不同刻蚀/还原条件 V2CTx（V2C-HF、V2C-OH、V2C-BH）测得的形貌、振幅、相位图，以及振幅-电压蝴蝶曲线和相位-电压回滞曲线。
+  - **关键特征**：振幅蝴蝶曲线对应压电形变，相位曲线呈现 ~180° 翻转，是铁电极化可被电场可逆翻转的直接指纹；三种样品的翻转电场不同，证明刻蚀/还原条件（即端基）可直接调控 V2C 的铁电性能。
+  - 图9：过渡金属在 Zr2CO2 的 Zr 位/C 位/O 位掺杂构型：![图9](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_9_TRMJGYHW.png)
+  - **图示描述**：DFT 建模给出 Cr 等过渡金属在 Zr2CO2 单层中的三种替位构型：(a) Zr 位替代、(c) C 位替代、(e) O 位替代，以及各自优化后的局域结构。
+  - **关键特征**：比较三类位点的形成能可判断热力学最易实现的掺杂方式；结论是 Cr 替 Zr 位形成能最低、具铁磁基态与半金属性；该图是"计算筛选掺杂位点"策略的范例。
+  - 图10：Cr2COOH 中两个不等价 Cr 的 3d 轨道分裂与磁矩（3 μB+2 μB=5 μB/单胞）：![图10](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_10_8U7ZULVR.png)
+  - **图示描述**：扭曲八面体晶体场下 Cr2COOH 中两个不等价 Cr 原子（Cr1、Cr2）的 3d 轨道能级分裂图，标出每个轨道的电子占据与对应磁矩。
+  - **关键特征**：Cr1 为 3d³ 贡献 3 μB，Cr2 为 3d² 贡献 2 μB，每单胞总磁矩 5 μB；两 Cr 局域配位环境不同导致 d 轨道分裂方式不同，净磁矩非零→宏观铁磁性；材料为铁磁半导体。
+  - 图11：Gd 掺杂 Ti3C2 MXene 的稳定铁磁 M-H 回滞回线：![图11](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_11_YQE9M99K.png)
+  - **图示描述**：300 K（室温）与 100 K（低温）下 Gd³⁺/Ti3C2 复合物的磁化强度 M 随外加磁场 H 变化的磁滞回线。
+  - **关键特征**：闭合"S"型曲线显示矫顽力与剩磁，是铁磁体指纹；300 K 仍保留清晰回线，表明实现室温铁磁性；机制为 Gd³⁺ 自由电子与费米能级处 Ti-3d 自旋密度的交换耦合，形成软铁磁复合。
+  - 图12：Nb/Ti3C2 及 Lewis 熔盐刻蚀 Co 掺入 MXene 的"S"形 M-H 曲线：![图12](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_12_XYHAII72.png)
+  - **图示描述**：(a,b) Nb 掺杂 Ti3C2 的理论与实验 M-H 曲线；(c) Lewis 熔融盐刻蚀过程中 Co²⁺ 高温掺入碳氮化物 Ti3CNCl2 所得的"S"形 M-H 曲线。
+  - **关键特征**：Nb 无需额外端基即可在 Ti3C2 中诱导铁磁；熔盐法实现无氟、无毒刻蚀并同步完成磁性元素掺杂；典型"S"形回线证实 Co 掺入后铁磁序稳定。
+  - 图13：双过渡金属 Mo2TiC2Tx 的多铁性制备流程：![图13](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_13_XIXH3SKR.png)
+  - **图示描述**：Rabia Tahir 等从 Mo2TiAlC2 MAX 相出发，经刻蚀、分层得到 Mo2TiC2Tx 薄膜并测试其 FE/FM 共存的简单制备流程。
+  - **关键特征**：这是室温下在双过渡金属 MXene 薄膜中实验观察到多铁性的代表工作；刻蚀工艺增强铁电性并同时诱导铁磁性；DTM 多铁材料在纳米器件中具潜力。
+  - 图14：Gd 取代 BiFeO3（BFO）的 SEM 图像：![图14](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_14_QBIS6L9Y.png)
+  - **图示描述**：Gd 掺杂 BiFeO3 纳米颗粒的扫描电子显微镜形貌图，展示颗粒尺寸、分布与团聚情况。
+  - **关键特征**：Gd 取代改变 BFO 晶粒尺寸与形貌，是后续 BGFSO 共掺体系磁性增强的微观结构基础；与纯 BFO 对比可看出稀土掺杂对钙钛矿微结构的调制。
+  - 图15：BGFSO（BiGdFeSnO）共掺杂 Ti3C2Tx 增强铁电与磁性：![图15](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_15_EIYBVH5Q.png)
+  - **图示描述**：300 K 下 (a) BGFSO 纳米颗粒、(b) Ti3C2Tx/BGFSO 复合物的 M-H 磁滞回线对比。
+  - **关键特征**：复合后饱和磁化与剩余磁化均增强，呈典型"S"形铁磁回线；Ti3C2Tx 与 BGFSO 界面的超交换作用是磁性增强来源；证明铁磁钙钛矿与 MXene 复合是室温磁电/多铁设计的有效路径。
+  - 图16：Mo2Ti2C3Tx/激光还原石墨烯三层铁电忆阻器结构及 Roff/Ron≈10²、10³ 次循环耐久性：![图16](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_16_QTZLCSU8.png)
+  - **图示描述**：以 Mo2Ti2C3Tx MXene 为中间活性层、激光还原石墨烯为上下电极的三层铁电忆阻器结构，及其 I-V 开关曲线、电阻开关耐久性。
+  - **关键特征**：存储窗口 R_off/R_on≈10²，循环耐久性达 10³ 次；MXene 铁电性使导电细丝形成可控；对比 Cu/PZT 体系，MXene 显著降低 Cu 离子迁移势垒（PZT 中约 4.43 eV）。
+  - 图17：MXene 在锂离子电池中的应用及 BT/f-Ti3C2Tx 循环稳定性与内建电场富集 Li+：![图17](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_17_BSC7ZVIJ.png)
+  - **图示描述**：(a) MXene 用于锂离子电池示意；(b,c) BT/f-Ti3C2Tx 复合物的循环稳定性与倍率性能；(d) BTO 纳米颗粒极化内建电场吸引 Li+ 至 MXene 负极的机理示意。
+  - **关键特征**：10 A g⁻¹ 下比容量达 84 mAh g⁻¹，约为本征 Ti3C2Tx 的 5 倍；BTO 同时抑制 MXene 片层堆叠与 Ti 原子还原；铁电极化内建电场加速 Li+ 传输并促进均匀 SEI 膜。
+  - 图18：Li:ZnO/Ti3C2 压电纳米发电机（PENG）结构示意，输出性能提升约两倍：![图18](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_18_RHWDV2LQ.png)
+  - **图示描述**：Li 掺杂 ZnO 纳米线与 Ti3C2 MXene 复合的 PENG 器件分层结构，以及其输出电压/电流相对于纯 Li:ZnO PENG 的对比。
+  - **关键特征**：MXene 在极化过程中协助 Li:ZnO 纳米线有效极化；纳米线包覆阻止金属 Ti3C2 薄片聚集，提高电场均匀性；铁电性与输出功率整体提升约 2 倍。
+  - 图19：Janus MXene（-O/-F/-OH 端基）的磁各向异性对比：![图19](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/fig_19_9V332539.png)
+  - **图示描述**：不同端基（-O、-F、-OH）的 Janus MXene 原子结构与磁各向异性能（MAE）对比，区分面内 vs 面外各向异性。
+  - **关键特征**：-O 端基 Janus MXene 磁各向异性较低；-F、-OH 端基倾向面内各向异性；TiCrCO2 在所有 Janus MXene 中铁磁性与交换常数最高；双过渡金属 W2CrN2O2、Mo2Cr2N2O2 表现强铁磁半金属性，是自旋电子学优选。
+  - 表1：MXene 刻蚀方法汇总：![表1](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/tab_1_P986MHTG.png)
+  - **图示描述**：系统列出湿法 HF 刻蚀、氟盐/强酸、NH4HF2、无氟熔盐、电化学刻蚀、CVD 等方法的试剂、条件、所得端基及优缺点。
+  - **关键特征**：刻蚀方法直接决定端基 T_x（-O/-OH/-F/-Cl/-S/-Br/-NH2 等），是性能调控第一旋钮；HF 法成熟但有毒，熔盐/电化学/CVD 代表绿色、规模化方向。
+  - 表2：MXene 基铁电复合材料与铁电忆阻器性能汇总：![表2](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/tab_2_LK2UPNT4.png)
+  - **图示描述**：汇总 Cu/MXene/PZT、BFO/MXene、MXene-PZT、Mo2Ti2C3Tx/激光还原石墨烯等体系的器件结构、开关比、工作电压、耐久性等关键指标。
+  - **关键特征**：MXene 引入普遍降低开关电压、提高开关比与耐久性；表中数据为横向比较 MXene 铁电忆阻器性能提供统一依据。
+  - 表3：不同表面官能团类型及其应用汇总：![表3](../../raw/figures/zahraCriticalAnalysisFerroelectric2025/tab_3_AJMB32HI.png)
+  - **图示描述**：列出 -O、-F、-OH、-Cl、-S、-Br、-NH2、N 端等官能团对应的电子结构、磁性/铁电倾向及典型应用（电池、TENG、催化、自旋电子等）。
+  - **关键特征**：-O/-OH 为电子受体使 MXene 呈 p 型，-F 倾向电子给体；端基不对称是诱导铁电的关键；在 TENG 中 -NH2 端为摩擦正、N 端为摩擦负，开路电压可达 250 V。
+
+#### wuNonvolatileSwitchableHalfmetallicity2024 完整要点
+## ✏️ 可写入 Wiki 的要点
+  1. Hf₂MnC₂O₂ 为七层 O–Hf–C–Mn–C–Hf–O 三角反棱柱（D3d）结构，a = b = 3.24 Å，O–Hf、C–Hf、Mn–C 键长分别为 2.11、2.32、2.20 Å；Mn 为 3d⁶4s¹，失去一个电子呈高自旋 Mn⁺ d⁶，磁矩 3.54 μB（C、O、Hf 分别贡献 0.173、0.003、0.055 μB）。
+  2. Hf₂MnC₂O₂ 的 FM 比 AFM 低 81.75 meV/cell，J₁ = 6.38 meV；Mn–C–Mn 键角 95.22°，按 Goodenough–Kanamori–Anderson 规则[[../concepts/superexchange|超交换]]倾向 FM，并压倒 Mn–Mn [[../concepts/direct-exchange|直接交换]]的 AFM 倾向（与 CrI₃、Mn₂Ge₂Te₆ 情形类似）。
+  3. Hf₂MnC₂O₂ 是[[../concepts/bipolar-magnetic-semiconductor|双极磁性半导体]]：VBM 在 Γ 点自旋向上通道（主要为 C p），CBM 在 M 点自旋向下通道（主要为 Mn d），间接带隙 0.26 eV，可产生 100% 自旋极化电流。
+  4. Sc₂CO₂ a = 3.35 Å，间接带隙 1.93 eV，VBM 来自 C p、CBM 来自 Sc d；具有 Pk/Pm 两个能量简并的面外铁电稳态，两表面[[../concepts/work-function|功函数]]差约 2.1 eV；与 Hf₂MnC₂O₂ 晶格失配 < 3.3%。
+  5. Pk 态下 Hf₂MnC₂O₂ 保持半导体（J₁ = 6.72 meV，Mn 磁矩 3.53 μB，MAE = −93 μeV/cell，面内）；Pm 态下变为[[../concepts/half-metallicity]]——自旋向下通道穿越费米能级、自旋向上通道仍有带隙，J₁ 升至 9.97 meV（摘要处写 9.67 meV），Mn 磁矩降至 3.47 μB，MAE = +47 μeV/cell，易轴翻转为面外。
+  6. 机理双对称性协同：Sc₂CO₂ 空间反演破缺给出 2.1 eV 表面功函数差和极化场；Hf₂MnC₂O₂ 时间反演破缺使两自旋通道带边非简并集。Pk 时两自旋 CB均高于 Sc₂CO₂ VB，[[../concepts/charge-transfer|电荷转移]]被抑制；Pm 时自旋向下 CB 降至 Sc₂CO₂ VB 之下，电子选择性注入自旋向下通道，使其金属化并增强 Mn d–C p 在 −1.1 至 −0.6 eV 的杂化，从而强化 FM 超交换。Pm 态下 Sc₂CO₂ 自身也转为[[../concepts/polar-metal|极性金属]]。
+  7. 三明治 Sc₂CO₂/Hf₂MnC₂O₂/Sc₂CO₂ 四态（P1–P4）中，双 Pm 协同的 P4 态 J₁ 进一步达 11.57 meV，C1、C2 磁矩均降至 0.15 μB，[[../concepts/half-metallicity|半金属性]]最显著；P2/P3 镜像对称，J₁ = 9.76 meV。
+  8. MAE 用公式 MAE = E[100] − E[001] 定义；基于二阶微扰（公式2）分解为自旋守恒（ΔSz=0，Lz/Lx）与[[../concepts/spin-flop|自旋翻转]]（ΔSx=±1）项。三角晶场下 d 轨道分裂为 dz²(|mz=0⟩)、(dxz,dyz)(|±1⟩)、(dx²−y²,dxy)(|±2⟩)。Pm 电荷转移使自旋向下 CB 下移、带隙减小，Mn/Hf 的 |mz=0,±1⟩ 自旋翻转项经 Lx 贡献正 MAE，超过 |±2⟩ 经 Lz 的负贡献，使易轴由面内翻为面外。
+  9. 计算细节：VASP，PAW–PBE，截断能 550 eV，力收敛 0.01 eV/Å、能量 10⁻⁵ eV（MAE 时 10⁻⁸ eV），D3 [[../concepts/vdw-correction|范德华修正]]，k 网格 17×17×1（MAE 用 31×31×1），z 方向真空 20 Å，Dudarev GGA+U（Mn U=4 eV，Sc U=2 eV）；并用 optPBE-vdW、DFT-D2 验证电子结构与 MAE 翻转结论的鲁棒性。
+  10. 器件概念：以 Hf₂MnC₂O₂/Sc₂CO₂ 为沟道构建非易失 FET，Pk 对应 "0/OFF"（半导体高阻），Pm 对应 "1/ON"（半金属、100% 自旋极化电流）；写入只需翻转铁电极化，撤场后双稳态保持，内建电场抗热涨落，避免读取破坏。
+
+
+#### wuNonvolatileSwitchableHalfmetallicity2024 完整图表
+## 📊 关键图表
+  - ![Hf2MnC2O2 单层结构、自旋密度、直接/超交换示意与自旋极化能带（图1）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_1_678PD9X8.png) → [[../figures/electronic-bands-band-structures|能带结构与带隙]]
+  - **图示描述**：(a,b) 给出 Hf₂MnC₂O₂ 七层 O–Hf–C–Mn–C–Hf–O 三角反棱柱（D3d）晶格的俯视与侧视；(c,d) 比较 FM 与 AFM 态的自旋电荷密度；(e,f) 示意 Mn–Mn 直接交换与 Mn–C–Mn 超交换；(g,h) 为自旋向上/向下通道的能带。
+  - **关键特征**：a=b=3.24 Å，O–Hf、C–Hf、Mn–C 键长分别为 2.11、2.32、2.20 Å；Mn 磁矩 3.54 μB，C/O/Hf 分别贡献 0.173/0.003/0.055 μB；FM 比 AFM 低 81.75 meV/cell，J₁=6.38 meV；Mn–C–Mn 键角 95.22° 按 Goodenough–Kanamori–Anderson 规则超交换压倒直接交换；VBM 在 Γ 点自旋向上（C p），CBM 在 M 点自旋向下（Mn d），间接带隙 0.26 eV，属双极磁性半导体。
+  - **结论/意义**：确立 Hf₂MnC₂O₂ 为本征铁磁双极磁性半导体，是后续铁电调控的铁磁基态。
+  - ![Hf2MnC2O2/Sc2CO2 异异质结 DW-(I) 与 UP-(II) 稳定堆垛构型（图2）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_2_66KAAFE2.png) → [[../figures/heterostructures-stacking|异质结与堆叠]]
+  - **图示描述**：(a,b) 分别为 Hf₂MnC₂O₂ 与 Sc₂CO₂ 单层俯视图；(c,d) 为能量最稳定的 DW-(I)（对应 Pk）和 UP-(II)（对应 Pm）侧视堆垛，绿色箭头标 Sc₂CO₂ 面外极化方向，并标 d、d_O–O、d_O–Sc。
+  - **关键特征**：Sc₂CO₂ a=3.35 Å，与 Hf₂MnC₂O₂ 晶格失配 <3.3%；两种堆垛中 Hf₂MnC₂O₂ 的 O 原子均位于 Sc 原子上方；界面 O–O、O–Sc 距离远大于共价/离子半径之和，证明层间为纯 vdW 耦合；Pk/Pm 为 Sc₂CO₂ 两个能量简并的铁电稳态。
+  - **结论/意义**：给出后续物性讨论的结构基础，并确认异质结是干净的 vdW 界面。
+  - ![磁矩与交换参数 J1 随界面距离 d_O-Sc 的变化（图3）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_3_LXQGMD2X.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
+  - **图示描述**：(a,b) Pk 与 Pm 态下 Mn、C 原子磁矩随 d_O–Sc（Å）变化；(c) 两态 J₁（meV）随 d_O–Sc 的变化，红/蓝虚线标出 Pk/Pm 平衡位置。
+  - **关键特征**：Pk 态下 Mn、C 磁矩和 J₁ 几乎不随 d_O–Sc 变化；Pm 态下 Mn、C1 磁矩随 d_O–Sc 减小显著下降，C2 基本不变；Pm 平衡位置 J₁≈9.67–9.97 meV，远超 Pk 的 6.72 meV 与孤立单层 6.38 meV。
+  - **结论/意义**：用人工扫描层间距的方式证明铁磁增强仅在 Pm 极化下出现，为界面电荷转移机理提供关键证据。
+  - ![Pk/Pm 态不同 d_O-Sc 下的分态密度 PDOS（图4）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_4_MV3747TM.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
+  - **图示描述**：(a–c) Pk 态在 d_O–Sc=2.71/2.81/2.91 Å 下的 PDOS；(d–f) Pm 态在 2.66/2.76/2.86 Å 下的 PDOS，绿/紫虚线圈分别标出 Mn-d 自旋向下与 C2-p，灰色阴影标 Mn d–C1 p 杂化增强区。
+  - **关键特征**：Pk 态费米能级附近 PDOS 几乎不随 d_O–Sc 变化；Pm 态随层间距减小，自旋向下 Mn-d 向低能移动、C1 自旋向上 p 态密度增大，C2 态密度不变；Mn d 与 C1 p 在 −1.1 至 −0.6 eV 的杂化明显增强。
+  - **结论/意义**：从轨道尺度解释了 Pm 态磁矩下降和 J₁ 上升的微观来源。
+  - ![孤立单层与 Pk/Pm 异质结的自旋极化能带结构（图5）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_5_TLLCI2HJ.png) → [[../figures/electronic-bands-band-structures|能带结构与带隙]]
+  - **图示描述**：(a) 孤立 Hf₂MnC₂O₂、(b) 孤立 Sc₂CO₂ 的能带；(c,d) Pk 异质结；(e,f) Pm 异质结。绿/红线为 Hf₂MnC₂O₂ 的自旋向上/向下，黑线为 Sc₂CO₂ 贡献。
+  - **关键特征**：Pk 态下 Hf₂MnC₂O₂ 保持双极磁性半导体，与 Sc₂CO₂ 能带互不干扰；Pm 态下 Hf₂MnC₂O₂ 自旋向下通道整体下移并穿过 E_F，自旋向上通道仍有带隙，构成半金属，可提供 100% 自旋极化电流；同时 Pm 态下 Sc₂CO₂ 自身转为极性金属；该转变经 optPBE-vdW 与 DFT-D2 重复验证。
+  - **结论/意义**：核心现象图，直接呈现铁电极化翻转触发的半导体↔半金属非易失开关。
+  - ![能带对齐、静电势、差分电荷密度与积分（图6）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_6_CCWSDHLM.png) -> [[../figures/electronic-bands-dos-fermi|态密度与费米面]]
+  - **图示描述**：(a) 两自旋通道的 Hf₂MnC₂O₂ 导带与 Sc₂CO₂ 价带相对真空能级的对齐及电荷转移示意；(b) 沿 z 方向平面平均静电势；(c,d) Pk/Pm 差分电荷密度积分曲线；(e,f) 差分电荷密度三维等值面，绿/紫为电荷耗尽/积累。
+  - **关键特征**：Sc₂CO₂ 两侧表面功函数差约 2.1 eV；Pk 时 Hf₂MnC₂O₂ 两自旋 CB 均高于 Sc₂CO₂ VB，电荷转移被抑制；Pm 时自旋向下 CB 降至 Sc₂CO₂ VB 之下，电子选择性注入，Pm 界面差分电荷密度变化幅度远大于 Pk。
+  - **结论/意义**：从能带对齐 + 静电势 + 实空间电荷分布三方面锁定"双对称性破缺协同 → 选择性电荷转移"机理。
+  - ![基于异质结的非易失 FET 器件原型（图7）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_7_CLHBQT7G.png) -> [[../figures/electronic-devices-memory-transistors|存储器与晶体管]]
+  - **图示描述**：(a) Pk 极化对应器件 "0/OFF" 态；(b) 通过独立栅压将 Sc₂CO₂ 翻到 Pm 后对应 "1/ON" 态，沟道为半金属并输出 100% 自旋极化电流。
+  - **关键特征**：写入只需翻转铁电极化，撤场后双稳态保持；内建电场抗热涨落；读取过程不破坏极化态；无需化学修饰或外场持续作用即可切换。
+  - **结论/意义**：给出非易失自旋 FET 的具体器件构想，是本工作应用价值的落点。
+  - ![Sc2CO2/Hf2MnC2O2/Sc2CO2 三明治四种极化态构型与能带（图8）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_8_H3M7RY24.png) → [[../figures/electronic-bands-band-structures|能带结构与带隙]]
+  - **图示描述**：(a–d) P1（Pm/Pk）、P2（Pk/Pk）、P3（Pm/Pm）、P4（Pk/Pm）四种上下极化组合的优化结构；(e–l) 对应自旋分辨能带，绿/红为 Hf₂MnC₂O₂ 上/下自旋，黑为 Sc₂CO₂。
+  - **关键特征**：P1 双界面电荷转移均可忽略，保持半导体（J₁=6.72 meV）；P2 与 P3 镜像对称，J₁=9.76 meV、半金属；P4 两侧同时发生选择性电荷转移，J₁=11.57 meV，C1、C2 磁矩均降至 0.15 μB，半金属性最显著。
+  - **结论/意义**：通过叠加铁电层验证调控效应的可加性，并给出增强半金属性的双 Pm 协同构型。
+  - ![Mn 与 Hf 的轨道分辨磁各向异性能（图9）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/fig_9_42AFRGJH.png) → [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
+  - **图示描述**：(a–f) 孤立单层、Pk、Pm 三种情况下 Mn 与 Hf 原子按能量分辨的 MAE 贡献，横轴为能量（eV），正/负值分别倾向面外/面内。
+  - **关键特征**：孤立单层 MAE≈−122 μeV/cell，Pk 态 −93 μeV/cell，易轴均在面内；Pm 态 MAE 翻为 +47 μeV/cell，易轴变为面外；Pm 态费米能级附近出现新的正贡献峰，来源于自旋向下通道能带下移后 |mz=0,±1⟩ 经 Lx 的自旋翻转项增强，超过 |±2⟩ 经 Lz 的负贡献。
+  - **结论/意义**：在轨道-自旋矩阵元层面解释了易轴随极化翻转的微观机制。
+  - ![海森堡哈密顿量（公式1）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/eq_1_SBLTVUHU.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
+  - **图示描述**：最近邻海森堡模型哈密顿量 H = −J₁ Σ⟨i,j⟩ S_i·S_j，用于把 FM/AFM 总能量差映射为交换参数 J₁。
+  - **关键特征**：S_i 为 Mn 位点的净自旋；由 ΔE=E_AFM−E_FM 拟合 J₁，孤立 Hf₂MnC₂O₂ 得 6.38 meV，Pk 异质结 6.72 meV，Pm 异质结 9.97 meV（摘要写 9.67 meV），P4 三明治 11.57 meV；正值表示铁磁耦合。
+  - **结论/意义**：提供磁耦合强度的定量提取框架，是论文比较不同极化态铁磁稳定性的基础。
+  - ![二阶微扰 MAE 公式（公式2）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/eq_2_LN5CXQKY.png) -> [[../figures/mathematical-models-formulas|光学、输运与其他解析公式]]
+  - **图示描述**：基于二阶微扰理论把 MAE 分解为自旋守恒（ΔSz=0，Lz/Lx）与自旋翻转（ΔSx=±1）项，对占据态 o 与未占据态 u 的 SOC 矩阵元求和。
+  - **关键特征**：三角晶场下 d 轨道分裂为 dz²(|mz=0⟩)、(dxz,dyz)(|±1⟩)、(dx²−y²,dxy)(|±2⟩) 三组；Pm 电荷转移使自旋向下 CB 下移、带隙减小，自旋翻转项分母变小、正贡献增强，从而把 MAE 由负翻正。
+  - **结论/意义**：把图9的轨道分辨 MAE 与易轴翻转现象定量地对应到具体矩阵元通道。
+  - ![P1–P4 磁矩与 J1 汇总（表1）](../../raw/figures/wuNonvolatileSwitchableHalfmetallicity2024/tab_1_KZ2KGHKA.png) -> [[../figures/electronic-bands-cdw-transport|CDW与输运性质]]
+  - **图示描述**：列出三明治四种极化态 P1–P4 的 Mn、C1、C2 磁矩（μB）与最近邻交换参数 J₁（meV）。
+  - **关键特征**：P1 为 M_Mn=3.53、M_C1=M_C2=0.17 μB、J₁=6.72 meV；P2/P3 镜像对称，J₁=9.76 meV，仅被 Pm 接触一侧的 C 磁矩降至 0.15 μB；P4 双 Pm 协同，M_Mn=3.44、M_C1=M_C2=0.15 μB、J₁=11.57 meV，为四态中最强铁磁耦合。
+  - **结论/意义**：定量汇总三明治结构的磁性，支撑"双界面协同增强"的论断。
+
+
+#### feiFerroelectricSwitchingTwodimensional2018a 完整要点
+## ✏️ 可写入 Wiki 的要点
+  1. **结构对称性**：三维 1T′-WTe₂ 属极性空间群 Pnm2₁，含 b-c 镜面 M 与 a-c 滑移面 G，极轴为垂直层面的 c 轴；单层存在对称中心而非极性，2-3 层因堆叠破缺[[../concepts/inversion-symmetry|反演对称性]]er获得极性。
+  2. **层数依赖的铁电开关**：双层和三层 WTe₂ 的电导在 E⊥≈0 附近出现双稳态回滞，温度从 1.6 K 一直持续到 350 K 以上；单层无回滞（反证极性来自堆叠，同时排除 hBN 电荷注入假象），厚层（≥4 层）因 E⊥ 在纳米尺度被屏蔽而不能翻转，三层所需翻转场大于双层。
+  3. **极化强度定量**：用单层[[../entities/graphene|石墨烯]]替换顶栅作电场传感器，P↑↔P↓ 翻转引起顶 hBN 中电场跳变 δEt，由在 WTe₂ 上直接加偏压 VW 校准得到 δV=dt·δEt；20 K 下 P≈1×10⁴ e·cm⁻¹，相当于在两层间（间距 ~0.7 nm）转移 ~2×10¹¹ e·cm⁻²，比 BaTiO₃ 体极化 ~0.2 C·m⁻²（~10¹⁴ e·cm⁻²）小三个数量级，解释了常规位移电流法无法探测的原因。
+  4. **静电学极化估算公式**：在 dt=db≫d、导体无限压缩率模型下，高斯定律给出 ε₀εhBN·Et = ε₀Ei + P/d 与 2Et·dt + Ei·d = 0，从而 δEt=2P/[ε₀(2dt+εhBN·d)]；dt≈10 nm、d≈1 nm、εhBN≈4 时退化为 P≈ε₀dt·δEt=ε₀δV。实际 dt:db 可达 1:3、有限压缩率与极化电荷展宽引入数量级为 1 的修正因子。
+  5. **双栅解耦 E⊥ 与 ne**：定义几何面电容 Ct=εhBNε₀/dt、Cb=εhBNε₀/db，则 `E⊥=(−CtVt+CbVb)/(2εhBNε₀)`、栅诱导载流子面密度 `ene=CtVt+CbVb`，可在保持 ne 恒定下扫描 E⊥（设 Vt/dt=−Vb/db），反之亦然，从而把铁电翻转与掺杂效应分开。
+  6. **[[../concepts/ferroelectricity|铁电性]]与金属性共存**：ne>nc≈2×10¹² cm⁻² 时双层 WTe₂ 呈金属性，但蝴蝶形回滞仍然存在（仅变小）；E⊥=0 处 P↑ 与 P↓ 的 G(ne) 几乎重合，使电导可作为极化态的非破坏性读出信号。低温（7 K）下负 ne（空穴掺杂）使回滞窗口变宽，200 K 时窗口几乎不随 ne 变化。
+  7. **层间势差与电子转移图像**：7 K 下 P 反转对电导的影响相当于改变 E⊥ 约 0.15 V/nm，对应两层 WTe₂ 间静电势差变化约 100 mV，与自发极化相关势差变化 2δV~40 mV 同量级；极化大致在所加层间势差超过自发极化势时翻转，提示层间电子转移是关键。
+  8. **电子-空穴补偿点**：双层 G(ne) 在 ne=0 处出现极尖锐极小值，对应电子与空穴密度相等的补偿点，结合单层 QSH 边缘电导几乎不随 E⊥ 变化等证据，作者提出电子-空穴关联（而非 Cochran 软模/晶格不稳定性）可能驱动自发极化，翻转主要涉及电子云相对离子实的运动，本征上可能极快。
+  9. **温度依赖**：δV（正比于 P）在 ~60–300 K 随 T 近似线性下降，外推至 ~450 K 归零；但 ~340 K 以上信号失稳、回滞消失，提示该温区发生向非极性相的转变。无顶 hBN、单层石墨烯直接封装双层 WTe₂ 的简化器件在 300 K 仍显示高度可重复回滞，证明室温应用鲁棒性。
+  10. **器件工艺与畴/接触效应**：在无水无氧手套箱内机械剥离 WTe₂，用[[../concepts/polymer-phase-separation|聚合物]]干法转移堆叠于 hBN/石墨栅之间，hBN 5–30 nm、石墨栅 2–6 nm、Pt 接触 ~8 nm（电子束光刻+蒸发+剥离）；接触间距 <270 nm 时金属接触屏蔽使翻转被抑制，>480 nm 恢复正常；撕裂/气泡/褶皱可成核或钉扎畴，单侧轻度氧化导致不对称俘获电荷，使翻转场相对 E⊥=0 不对称。
+
+
+#### feiFerroelectricSwitchingTwodimensional2018a 完整图表
+## 📊 关键图表
+笔记未附图片（raw/figures 下仅有 manifest.json，无图片文件），以下以文字描述三张主图。
+
+**图1：WTe₂ 中铁电翻转的证据**
+  - **图示描述**：由五个子图组成：(a) 三维 1T′-WTe₂ 晶体结构，标出 b-c 镜面 M、a-c 滑移面 G 及垂直层面的极性 c 轴；(b) 双栅器件截面示意，WTe₂ 薄片夹在两层 hBN（厚度 dt、db）和石墨栅极之间，由 Vt、Vb 产生垂直电场 E⊥=(−Vt/dt+Vb/db)/2；(c)、(d)、(e) 分别为三层 (T1)、双层 (B1)、单层 (M1) WTe₂ 的四端电导 G（单位 e²/h）随 E⊥（单位 V/nm）的来回扫描曲线，温度覆盖 1.6 K 至室温以上。
+  - **关键特征**：三层与双层在 E⊥≈0 附近均出现明显双稳态回滞，红/绿箭头标记 P↑/P↓ 两种极化态电导不同；三层所需翻转场大于双层，归因于 E⊥ 在纳米尺度的屏蔽长度；三层呈金属性温度依赖、未掺杂双层呈绝缘性温度依赖；单层完全无回滞，4 K 下电导由量子自旋霍尔边缘态主导且几乎不随 E⊥ 变化，与其具有反演中心（插图红点）的非极性结构一致，同时排除了 hBN 电荷注入假象；厚层（≥4 层）亦无双稳态。
+  - **结论/意义**：通过层数对照把双稳态锁定在 2-3 层的极性堆叠上，给出二维金属中铁电翻转存在的首个间接电学证据。
+
+**图2：面外极化的直接探测**
+  - **图示描述**：(a) 双层 WTe₂ 器件 B2 的光学照片与截面示意，顶栅换成四触点单层石墨烯作电场传感器，分别标出 WTe₂ 上方 hBN 中电场 Et 和下方 Eb，标尺 5 μm；(b) 一系列温度下石墨烯电导 Ggr（μS）随底栅 Vb 扫描的曲线；(c) 在 WTe₂ 上直接加偏压 VW 校准 Ggr 对 Et 的响应，得到 δV=dt·δEt；(d) P↑（红）与 P↓（绿）两种状态下沿垂直方向静电势剖面反转的示意；(e) 正比于极化的 δV（mV）随温度 T（K）的变化。
+  - **关键特征**：Ggr 在与 WTe₂ 电导回滞完全相同的 Vb 区间内在两态间跳变，证明相同偏压下存在两种垂直电荷分布（P↑/P↓）；20 K 下由 P≈ε₀δV 得 P≈1×10⁴ e·cm⁻¹，相当于两层间（间距 ~0.7 nm）转移 ~2×10¹¹ e·cm⁻²，比 BaTiO₃ 体极化 ~0.2 C·m⁻²（~10¹⁴ e·cm⁻²）小三个数量级，解释了常规位移电流法无法探测的原因；δV 在 ~60–300 K 近似线性下降、外推 ~450 K 归零，但 ~340 K 以上信号失稳、回滞消失，提示向非极性相的转变；无顶 hBN、石墨烯直接封装双层 WTe₂ 的简化器件在 300 K 仍显示高度可重复回滞。
+  - **结论/意义**：用石墨烯电场传感器把间接电导信号升级为极化的直接、定量证据，并证明该铁电翻转在室温下鲁棒。
+
+**图3：栅压对铁电行为的调控**
+  - **图示描述**：(a)、(b) 7 K 下双层器件 B1 的电导 G 作为顶栅 Vt 与底栅 Vb 联合函数的二维彩图，分别对应 Vb 上扫与下扫，黑虚线为 E⊥=0、白虚线为 ne=0；(c)、(d) 分别为 7 K 与 200 K 下 (a)、(b) 两图的电导差值图，亮色即回滞区；(e) E⊥=0 时两温度下 P↑、P↓ 两态的 G(ne) 曲线；(f) 7 K 下在若干固定 ne 值反复上下扫描 E⊥ 得到的曲线族。
+  - **关键特征**：两次扫描仅在中心区域有差异，差值图清晰勾出铁电回滞窗口；7 K 下负 ne（空穴掺杂）使窗口变宽，200 K 下窗口几乎不随 ne 变化；E⊥=0 时 G(ne) 在 ne=0 处有极尖锐极小值（电子-空穴补偿点），ne>nc≈2×10¹² cm⁻² 转为金属性且 P↑、P↓ 曲线几乎重合，使电导可作为非破坏性极化读出；固定 ne 的 E⊥ 扫描在小/负 ne 时呈典型蝴蝶形回滞，在高 ne 金属区回滞变小但仍存在；极化反转对电导的影响约等于改变 E⊥ ~0.15 V/nm，对应两层 WTe₂ 间静电势差变化 ~100 mV，与自发极化相关势差 2δV~40 mV 同量级。
+  - **结论/意义**：通过 (Vt,Vb) 二维相图解耦 E⊥ 与 ne，证明铁电性与金属性可共存，并把极化翻转的物理图像指向层间电子转移和电子-空穴关联，而非传统晶格软模。

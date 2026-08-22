@@ -1,0 +1,21 @@
+{
+ "total": 147,
+ "concepts": 111,
+ "entities": 36,
+ "missing_page": 0,
+ "missing_backlink": 0,
+ "concepts_examples": [
+  "p-orbital-magnetism",
+  "stoner-criterion",
+  "domain-wall-nucleation",
+  "depletion-layer-readout",
+  "mcmillan-ginzburg-landau-theory"
+ ],
+ "entities_examples": [
+  "Tl2NO2",
+  "RMn2O5",
+  "iii2-vi3-compounds",
+  "tissue-engineering-scaffold",
+  "mo-te2"
+ ]
+}
