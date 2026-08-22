@@ -2,12 +2,17 @@
 tags: [concept]
 title: 'inversion-symmetry-breaking'
 type: concept
-status: mature
+status: developing
 papers: ['FerroelectricityMultiferroicityAtomic2023', 'bhowalPolarMetalsPrinciples2023b', 'guanRecentProgressTwoDimensional2020', 'shenEmergenceMultipleFerroelectric2025', 'songEvidenceSinglelayerVan2022', 'spaldinRenaissanceMagnetoelectricMultiferroics2005', 'sunSlidingFerroelectricityTwodimensional2025', 'tangMultiferroicityTwodimensionalVan2025', 'yuFerroelectricControlMagnetism2026', 'zhangEmergingFrontiersTwodimensional2025']
 updated: 2026-08-18
 ---
 
 # inversion-symmetry-breaking
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 反演对称破缺（inversion symmetry breaking）指晶体或电子序**在空间反演（r→-r）操作下不再保持不变**。它是一切非中心对称物性（铁电极化、压电、非线性光学、拓扑手性、DMI 螺旋磁序、光伏效应等）的必要前提，是凝聚态物理中"对称性决定物性"的核心范例。
 

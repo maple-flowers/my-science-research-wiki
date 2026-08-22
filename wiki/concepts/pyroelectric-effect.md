@@ -2,13 +2,18 @@
 tags: [concept, 2D-materials, berry-phase, density-functional-theory, ferroelectric-tunnel-junction, magnetoelectric-coupling]
 title: pyroelectric-effect
 type: concept
-status: developing
+status: stub
 year: 2016
 papers: [martinThinfilmFerroelectricMaterials2016]
 updated: 2026-08-18
 ---
 
 # pyroelectric-effect
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 
 

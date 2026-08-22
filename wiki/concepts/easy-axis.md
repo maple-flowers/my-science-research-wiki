@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, magnetism]
 mechanism: 磁各向异性能处于极小值的晶轴方向
 related_concepts: [magnetic-anisotropy, easy-plane, spin-orbit-coupling]
-papers: [caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025, chenStrongSlidingFerroelectricity2024, aminiAtomicscaleVisualizationMultiferroicity2024]
+papers: [caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025, chenStrongSlidingFerroelectricity2024]
 updated: 2026-08
 ---
 
@@ -40,7 +40,12 @@ updated: 2026-08
 
 - [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]：研究了如何通过应变诱导易轴从面外向面内翻转。
 - [[../papers/chenStrongSlidingFerroelectricity2024]]：计算了 HgI₂ 中 SOC 对易轴选择的影响。
-- [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]：利用 STM 可视化单层材料中的磁序与易轴。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `aminiAtomicscaleVisualizationMultiferroicity2024`：原文笔记中无 easy axis/易轴相关内容。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

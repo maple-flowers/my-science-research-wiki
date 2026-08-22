@@ -5,14 +5,6 @@ type: concept
 status: developing
 papers: ['dingPredictionIntrinsicTwodimensional2017a', 'hanTunableSlidingFerroelectricity2025', 'songEvidenceSinglelayerVan2022', 'gaoGiantChiralMagnetoelectric2024a', 'liuSpintronicsTwoDimensionalMaterials2020b', 'hallEnvironmentalControlCharge', 'wuElectrostaticGatingIntercalation2022', 'tangMultiferroicityTwodimensionalVan2025']
 updated: 2026-08-18
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_5aaeba499a7811f19467525400287e28
-    ReservedCode1: akyLYeB8UQHJZSJdgygfp9NKGpGD6CfFmf4WK7vJkWz5ZraUCDdf9VJe2kSFM8bJGUyx530ruehOyEcnz1CDXQ5hqvEpPrBkI+AxJckRq2j0iAhNdM7F/B9DS1U6206GYg6k4SbJvFTjz212ttznqXF0DnX938/s/ufy/CZ9CjMSiZzH9wx1bHycQlU=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_5aaeba499a7811f19467525400287e28
-    ReservedCode2: akyLYeB8UQHJZSJdgygfp9NKGpGD6CfFmf4WK7vJkWz5ZraUCDdf9VJe2kSFM8bJGUyx530ruehOyEcnz1CDXQ5hqvEpPrBkI+AxJckRq2j0iAhNdM7F/B9DS1U6206GYg6k4SbJvFTjz212ttznqXF0DnX938/s/ufy/CZ9CjMSiZzH9wx1bHycQlU=
 ---
 
 
@@ -109,4 +101,3 @@ vdW 异质结也是自旋电子学（[[../concepts/spin-orbit-coupling|自旋轨
 - [[../entities/NiI2|NiI₂]]、[[../entities/CrI3|CrI₃]]：二维磁性范德华材料。
 - [[../entities/MoS2|MoS₂]]、[[../entities/WSe2|WSe₂]]：过渡金属硫族 vdW 异质结常用层。
 - [[../entities/molecular-beam-epitaxy|分子束外延（MBE）]]：vdW 异质结的制备手段之一。
-*（内容由AI生成，仅供参考）*

@@ -7,7 +7,7 @@ year: 2019
 domain: [condensed-matter-physics, topological-physics]
 mechanism: 动量空间中布洛赫波函数相位演化产生的有效几何场，对电子施加强度与贝里曲率成正比的横向力
 related_concepts: [berry-phase, anomalous-hall-effect, topological-charge, chern-number, weyl-semimetal, fermi-arc, quantum-anomalous-hall-effect, spin-texture, topological-insulator]
-papers: [sharmaRoomtemperatureFerroelectricSemimetal2019, wangTunableD0Topological2025b, hanPolarTopologicalMaterials2025]
+papers: [sharmaRoomtemperatureFerroelectricSemimetal2019]
 updated: 2026-08-19
 ---
 
@@ -68,8 +68,13 @@ $$\dot{r} = \frac{1}{\hbar} \frac{\partial \epsilon_n(k)}{\partial k} + \dot{k} 
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]]：利用 Berry phase 方法计算 WTe₂ 的总极化，关联铁电与拓扑。
-- [[../papers/wangTunableD0Topological2025b]]：研究 Berry 曲率在 d0 磁性体系中对拓扑磁态的作用。
-- [[../papers/hanPolarTopologicalMaterials2025]]：极性拓扑结构中的相位贡献与器件设计。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `wangTunableD0Topological2025b`：原文笔记中无 Berry/贝里曲率相关内容。
+- `hanPolarTopologicalMaterials2025`：同上。
 
 ## 🔗 关联概念与实体 (Related)
 

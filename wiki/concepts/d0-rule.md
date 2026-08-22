@@ -5,14 +5,6 @@ type: concept
 status: developing
 papers: ['hillWhyAreThere2000a', 'fengFerroelectricityMultiferroicityTwodimensional2020', 'aiFerroelectricityCoexistedPorbital2022', 'zhaoOpticalFingerprintsTwodimensional2024', 'tangMultiferroicityTwodimensionalVan2025', 'RecentAdvancesGrowth2025']
 updated: 2026-08-18
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_3c6f8b439a7b11f1a98a525400f8a581
-    ReservedCode1: SYmsos5XmN8yUxCRfzn+/oB4rEZXYelhL0okgAKU7atTAbYKJnMmjpdg6tBoB56DmUEAZZOh1hpLKpnDWKQtKYuZlWlpXQpCmZLDW70o6g78+6yoDT8mSf2xEGhtF/W9wGPrkaq5r+b+La4+K3rhN3/2dfhwd4i14Dw4OX7aZIPv/utyUcJjh1NRwxU=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_3c6f8b439a7b11f1a98a525400f8a581
-    ReservedCode2: SYmsos5XmN8yUxCRfzn+/oB4rEZXYelhL0okgAKU7atTAbYKJnMmjpdg6tBoB56DmUEAZZOh1hpLKpnDWKQtKYuZlWlpXQpCmZLDW70o6g78+6yoDT8mSf2xEGhtF/W9wGPrkaq5r+b+La4+K3rhN3/2dfhwd4i14Dw4OX7aZIPv/utyUcJjh1NRwxU=
 ---
 
 
@@ -81,4 +73,3 @@ zhao 等（[[../papers/zhaoOpticalFingerprintsTwodimensional2024]]）证明二�
 - [[../concepts/sliding-ferroelectricity|滑动铁电]]：二维层间滑动破局路径的基础。
 - [[../concepts/2d-materials|二维材料]]：d⁰ 规则破局的新平台。
 - [[../entities/BiFeO3|BiFeO₃]]、[[../entities/BiMnO3|BiMnO₃]]、[[../entities/YMnO3|YMnO₃]]：d⁰ 规则破局的三维代表体系。
-*（内容由AI生成，仅供参考）*

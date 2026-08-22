@@ -58,4 +58,3 @@ updated: 2026-08
 - [[../concepts/depolarization-field|退极化场]]
 - [[../entities/BaTiO3|BaTiO3]]
 - [[../entities/PbTiO3|PbTiO3]]
-*（内容由AI生成，仅供参考）*

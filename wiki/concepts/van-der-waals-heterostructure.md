@@ -9,6 +9,11 @@ updated: 2026-08-18
 
 # 范德华异质结（全称）/ Van der Waals Heterostructure
 
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
+
 范德华异质结（van der Waals heterostructure）是**范德华异质结（[[../concepts/vdW-heterostructure|vdW-heterostructure]]）**的完整拼写形式，指由二维层状材料以弱范德华力堆叠而成的异质结构，其标准条目见规范页。
 
 ## 👵 太奶导读

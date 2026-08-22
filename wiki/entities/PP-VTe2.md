@@ -2,13 +2,18 @@
 tags: [entity, 2D-materials, charge-density-wave, density-functional-theory, ferroelasticity, magnetoelectric-coupling]
 title: PP-VTe2
 type: entity
-status: developing
+status: stub
 year: 2022
 papers: [liMonolayerPuckeredPentagonal2022]
 updated: 2026-08-18
 ---
 
 # PP-VTe2
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 二维磁性晶体由于其在自旋电子学、价电子学和拓扑超导电性等方面的潜在应用而得到了广泛的研究。
 

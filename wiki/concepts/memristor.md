@@ -2,7 +2,7 @@
 tags: [concept, electronics, memory, computing]
 title: 忆阻器 (Memristor)
 type: concept
-status: mature
+status: developing
 domain: [circuit-theory, materials-science, neuromorphic-engineering]
 mechanism: 连接磁通与电荷的第四种基本电路元件，其电阻值取决于流经它的电流历史
 related_concepts: [resistive-switching, non-volatile-memory, synaptic-plasticity, crossbar-array]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 忆阻器 / Memristor
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 忆阻器 (Memory Resistor) 是继电阻、电容、电感之后的第四种基本电路元件。它的阻值不是固定的，而是随着流经电荷的总量（即电流对时间的积分）而改变，并在断电后能够保持该阻值，呈现出天然的非易失性和“记忆”特性。
 

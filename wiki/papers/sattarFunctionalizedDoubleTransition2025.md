@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/sattarFunctionalizedDoubleTransition2025]]
 projects: []
-concepts: [2D-materials, space-charge-limited-current, oxygen-vacancy-filament, resistive-switching-memory]
+concepts: [2D-materials, space-charge-limited-current, oxygen-vacancy-filament, resistive-switching]
 entities: [MXenes, Mo2Ti2C3Tx, laser-reduced-graphene, ferroelectric-memristor]
 methods: [afm-pfm, device-i-v, raman, tem, xps, xrd]
 materials: [MXenes]

@@ -2,13 +2,18 @@
 tags: [entity, density-functional-theory, polarization-switching, strain-engineering, topological-defects, kittels-law]
 title: LSMO
 type: entity
-status: developing
+status: stub
 year: 2023
 papers: [gongAbsenceCriticalThickness2023]
 updated: 2026-08-18
 ---
 
 # LSMO
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 摘要极域周期(d)在铁电材料中，人们通常认为它与相应的薄膜厚度成比例(h)，遵循经典的基特尔定律d$\ sqrt{h}$h在这里，我们不仅观察到这种关系在极性skyrmions的情况下是失败的，在极性skyrmions的情况下，周期几乎收缩到一个恒定值，甚至经历了一个轻微的增加，而且还发现skyrmions在[（PbTiO3)2/（SrTiO3)2]10超薄超晶格。
 

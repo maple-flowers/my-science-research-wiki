@@ -49,6 +49,6 @@ updated: 2026-08
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]] — Anisotropic superconductivity in the 2D metal-organic kagome framework Cu₃(CO)₆
-- [[../papers/majumdarInterplayChargeDensity2020]] — Interplay of charge density wave and multiband superconductivity in 2H-NbS₂/NbSe₂
-- [[../papers/Koley2020charge]] — Charge density wave and superconductivity in TMDs
+- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]]：给出本页最完整的强耦合定量标定——二维 kagome 骨架 Cu₃(CO)₆ 的电-声子耦合强度 λ = 0.72、T_c = 16.5 K，并指认耦合来自费米面附近 Cu d_{xy,x²−y²} / O s+p_{x,y} 态与 <40 meV 低能振动模的相互作用，费米面嵌套是增强因素。
+- [[../papers/majumdarInterplayChargeDensity2020]]：提供强耦合判据在多带超导中的实例——2H-NbS₂/NbSe₂ 均为双 s 波能隙，其中**大能隙表现出强耦合特征**，且 CDW 不改变这一基本能隙结构；同时指出两者均偏离 Uemura 关系。
+- [[../papers/Koley2020charge]]：从无序角度界定强耦合图像的边界——把 CDW 视为预成型激子的凝聚（因而易被团簇无序破坏），而 s 波超导凭 Anderson 定理对非磁性无序保持鲁棒，解释了无序为何能抑制 CDW 反而增强超导。

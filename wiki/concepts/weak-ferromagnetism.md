@@ -5,14 +5,6 @@ type: concept
 status: developing
 papers: ['hillWhyAreThere2000a', 'deSousa2008electrical', 'prosandeevKittelLawInBiFeO3Ultrathin2010', 'mostovoyMultiferroicsDifferentRoutes2024', 'rameshMultiferroicsProgressProspects2007']
 updated: 2026-08-18
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_5960e1139a7811f1a98a525400f8a581
-    ReservedCode1: btyv0SNHkKKVTPjKZso7CsqTgpujlhRowYUYL3iVUvs1YhJmdJz8GpMsoXfo2V8z1FK5XOglPgD0gPv55YHwdrwUf+fcLHaICpKhz68UeL2gCqsXs2dMcLKHLUhxLXE5roZVN+lPXvkTzuta9i+oLA0PjA0vJB85vCMxCNQ3SBO5ADc7Y6CAkZ5d49E=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_5960e1139a7811f1a98a525400f8a581
-    ReservedCode2: btyv0SNHkKKVTPjKZso7CsqTgpujlhRowYUYL3iVUvs1YhJmdJz8GpMsoXfo2V8z1FK5XOglPgD0gPv55YHwdrwUf+fcLHaICpKhz68UeL2gCqsXs2dMcLKHLUhxLXE5roZVN+lPXvkTzuta9i+oLA0PjA0vJB85vCMxCNQ3SBO5ADc7Y6CAkZ5d49E=
 ---
 
 
@@ -92,4 +84,3 @@ mostovoy（[[../papers/mostovoyMultiferroicsDifferentRoutes2024]]）综述指出
 - [[../concepts/proper-screw|proper-screw]]：自旋摆线型磁序的多铁机制。
 - [[../concepts/ferroelectricity|铁电性]]：弱铁磁多铁材料中的有序分量。
 - [[../entities/BiFeO3|BiFeO₃]]：弱铁磁-铁电多铁的典型代表体系。
-*（内容由AI生成，仅供参考）*

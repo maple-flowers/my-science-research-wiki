@@ -1,13 +1,14 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_e0db71239bc811f1a98a525400f8a581
-    ReservedCode1: +a9hkRz5G6TUfG1mrD1RzKihZeJKhO3IXVxJdaDYRA2s5hjJ63jzRLskDQh6kKuvqEbVrovh14sx1JTCExJ4dH2+3arka3zV0SH+SqNzJ6rddc/e0Q7N9HyPlo3aku632YrS3hyvaqdSVULbcg8kkjZEZEL7YbNOu3T447a9sWepAdMsevIJQrtnWY8=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_e0db71239bc811f1a98a525400f8a581
-    ReservedCode2: +a9hkRz5G6TUfG1mrD1RzKihZeJKhO3IXVxJdaDYRA2s5hjJ63jzRLskDQh6kKuvqEbVrovh14sx1JTCExJ4dH2+3arka3zV0SH+SqNzJ6rddc/e0Q7N9HyPlo3aku632YrS3hyvaqdSVULbcg8kkjZEZEL7YbNOu3T447a9sWepAdMsevIJQrtnWY8=
+tags: [concept, metal, polar, symmetry-breaking]
+title: 极性金属 / Polar Metal
+type: concept
 status: mature
+domain: [polar-metals, ferroelectricity, symmetry-breaking]
+mechanism: "金属态中发生极性结构相变、空间反演对称性破缺，但极化不要求可被电场翻转；成因包括几何/位移型极性畸变与轨道选择性解耦"
+related_concepts: [ferroelectric-metal, metallic-ferroelectricity, hyper-ferroelectric-metal, geometric-ferroelectricity, inversion-symmetry-breaking]
+related_entities: [LiOsO3, WTe2, Ca3Ru2O7]
+papers: [bhowalPolarMetalsPrinciples2023b, feiFerroelectricSwitchingTwodimensional2018a, huangPolarPhaseDomain2019, wuSlidingFerroelectricity2D2021a, sharmaRoomtemperatureFerroelectricSemimetal2019]
+updated: 2026-08
 ---
 
 
@@ -70,4 +71,3 @@ status: mature
 - [[../entities/LiOsO3|LiOsO3]]
 - [[../entities/WTe2|WTe2]]
 - [[../entities/Ca3Ru2O7|Ca3Ru2O7]]
-*（内容由AI生成，仅供参考）*

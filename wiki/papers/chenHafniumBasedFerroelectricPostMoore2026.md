@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/chenHafniumBasedFerroelectricPostMoore2026]]
 projects: []
-concepts: [ferroelectricity, polarization-switching, ferroelectric-tunnel-junction, neuromorphic-computing, in-memory-computing, synaptic-plasticity, doping-engineering, strain-engineering, oxygen-vacancy, phase-transition, domain-wall-motion, cmos-compatibility, multiferroicity, 2d-materials, density-functional-theory, wake-up-effect, fatigue-effect, schottky-barrier, quantum-tunneling, soft-mode-phonon, domain-wall]
+concepts: [ferroelectricity, polarization-switching, ferroelectric-tunnel-junction, neuromorphic-computing, in-memory-computing, synaptic-plasticity, doping-engineering, strain-engineering, oxygen-vacancy, phase-transition, domain-wall-motion, cmos-compatibility, multiferroicity, 2d-materials, density-functional-theory, wake-up-effect, fatigue-effect, schottky-barrier, quantum-tunneling, phonon-soft-mode, domain-wall]
 entities: [HfO2, HZO, FeFET, FTJ, FeRAM, Fe-Diode, FeCAP, MoS2, MXenes, PZT, BaTiO3, IGZO, TiN, ALD]
 methods: [dft, high-throughput-dft, phonon-calculation, tem-stem-haadf, ald, pe-ald, rapid-thermal-annealing, device-p-e-loop, device-i-v, device-c-v, pulse-switching, kai-model, nls-model, molecular-dynamics]
 materials: [HfO2, HZO-Hf0.5Zr0.5O2, Si-doped-HfO2, La-doped-HfO2, Al-doped-HfO2, Y-doped-HfO2, Ce-doped-HfO2, MoS2, MXene, IGZO, TiN]

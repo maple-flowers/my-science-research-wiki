@@ -9,6 +9,11 @@ updated: 2026-08-18
 
 # 模守恒赝势 / Norm-Conserving Pseudopotential
 
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
+
 模守恒赝势（norm-conserving pseudopotential, NCPP）是**保证赝波函数与真实全电子波函数在芯区外具有相同模（norm）与散射性质**的离子赝势。它由 Hamann、Schlüter 与 Chiang 于 1979 年系统提出，通过约束赝波函数在截断半径 r_c 内平滑化、并在 r_c 外与原波函数一致，确保赝势在较大能量范围内精确再现真实散射相移，从而给出可靠的能带与总能量。它与超软赝势（US-PP）、投影增强波（PAW）共同构成第一性原理计算中处理离子-电子相互作用的三大主流方案。
 
 ## 👵 太奶导读
@@ -53,4 +58,3 @@ Kresse 与 Joubert 严格证明了 **US-PP 是 PAW 的线性化近似**：超软
 - [[../concepts/gw-approximation|GW 近似]]：基于 PAW/赝势框架的准粒子修正。
 - [[../concepts/charge-density-wave|电荷密度波]]：对赝势/泛函选择敏感的电子不稳定性计算。
 - [[../entities/WTe2|WTe₂]]：1T′ 相二维材料，赝势模拟的典型体系。
-*（内容由AI生成，仅供参考）*

@@ -1,13 +1,15 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_d644df959bb811f19467525400287e28
-    ReservedCode1: 327xkS8fj4WSTCWQ6XNBW1KumqdD8MG+bbtyTaVgBDyN5dlm7tpqNol9+UCHqem/8frNTPibDg4siIopkqaM8Qj2c2Hur3oscO4r1tKliNHi2tCdfiLQHpO7FZrJCI0Dlyut+KfFnye7FWJrecvxNhVv0ppOX81Fm5PytuPWLVEam4ieTKN5Zka466w=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_d644df959bb811f19467525400287e28
-    ReservedCode2: 327xkS8fj4WSTCWQ6XNBW1KumqdD8MG+bbtyTaVgBDyN5dlm7tpqNol9+UCHqem/8frNTPibDg4siIopkqaM8Qj2c2Hur3oscO4r1tKliNHi2tCdfiLQHpO7FZrJCI0Dlyut+KfFnye7FWJrecvxNhVv0ppOX81Fm5PytuPWLVEam4ieTKN5Zka466w=
+tags: [entity, material, 2D, vdW, ferroelectric]
+title: 硒化铟 (InSe) / Indium Selenide
+type: entity
+formula: InSe
+class: [vdW, III-VI-chalcogenide, semiconductor]
 status: mature
+properties: [sliding-ferroelectricity, piezoelectricity]
+related_concepts: [sliding-ferroelectricity, piezoelectricity, stacking-engineered-ferroelectricity]
+related_entities: [GaSe, In2Se3]
+papers: [sunSlidingFerroelectricityTwodimensional2025, wuSlidingFerroelectricity2D2021a, zhangEmergingFrontiersTwodimensional2025]
+updated: 2026-08
 ---
 
 
@@ -69,4 +71,3 @@ InSe 为 III-VI 族层状半导体，单层由 Se–In–In–Se 四原子层构
 - [[../concepts/stacking-engineered-ferroelectricity|堆垛工程铁电]]
 - [[../entities/GaSe|GaSe]]
 - [[../entities/In2Se3|In2Se3]]
-*（内容由AI生成，仅供参考）*

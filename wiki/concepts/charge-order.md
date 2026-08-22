@@ -2,7 +2,7 @@
 tags: [concept]
 title: '电荷有序 / Charge Order'
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, strongly-correlated-systems]
 mechanism: 电子电荷在晶格上周期性非均匀分布的有序态
 related_concepts: [charge-density-wave, charge-density, electron-correlation, structural-phase-transition, 2d-materials, metal-insulator-transition]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 电荷有序 / Charge Order
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 电荷有序（charge order, charge ordering）指电子电荷在晶格上发生**周期性非均匀分布**的有序态，即电子占据在特定格位上密度高低交替排列，常伴随晶格畸变、轨道序与磁性耦合出现。它广泛存在于过渡金属氧化物、有机电荷转移盐、二维过渡金属硫族化合物（TMD）等强关联体系中，是理解 CDW、金属-绝缘体转变与多铁行为的关键概念。
 
@@ -68,4 +73,3 @@ updated: 2026-08
 - [[../concepts/charge-density-mixing|电荷密度混合]]：电荷有序相关的电荷重排图像。
 - [[../entities/IrTe2|IrTe₂]]：应变诱导电荷/结构相变的二维体系。
 - [[../entities/TMDs|TMDs]]：电荷有序研究平台。
-*（内容由AI生成，仅供参考）*

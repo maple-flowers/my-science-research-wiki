@@ -2,7 +2,7 @@
 tags: [entity, material, multiferroic, perovskite]
 title: 铁酸铋 / Bismuth Ferrite (BiFeO3, BFO)
 type: entity
-status: mature
+status: developing
 formula: BiFeO3
 class: [perovksite, multiferroic, insulator]
 properties: [multiferroicity, ferroelectricity, antiferromagnetism, magnetoelectric-coupling]
@@ -16,6 +16,11 @@ updated: 2026-08
 ---
 
 # 铁酸铋 / Bismuth Ferrite (BiFeO3, BFO)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 铁酸铋 (Bismuth Ferrite, BiFeO₃) 是一种典型的钙钛矿结构氧化物，是目前已知的极少数在室温下同时具有铁电性和磁性（G型反铁磁）的单相多铁性材料。它具有极高的居里温度 (Curie temperature, $T_C \approx 1100$ K) 和奈尔温度 (Néel temperature, $T_N \approx 640$ K)，是设计多功能存储器件和磁传感器最核心的候选材料之一。
 

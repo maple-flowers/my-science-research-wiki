@@ -2,13 +2,18 @@
 tags: [concept, 2D-materials, berry-phase, density-functional-theory, ferroelasticity, magnetoelectric-coupling]
 title: stacking-sequence-engineering
 type: concept
-status: developing
+status: stub
 year: 2021
 papers: [wuSlidingFerroelectricity2D2021a]
 updated: 2026-08-18
 ---
 
 # stacking-sequence-engineering
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 在铁电性发现100周年之际，最近在一系列实验中提出并证实了所谓的滑动铁电性，引起了人们极大的兴趣。
 

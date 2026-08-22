@@ -72,4 +72,3 @@ updated: 2026-08-18
 - [[../concepts/ferroelasticity|铁弹性]]：反铁电畸变与铁弹序的耦合。
 - [[../entities/NiI2|NiI₂]]：二维范德华反铁电-铁电共存材料。
 - [[../entities/In2Se3|In₂Se₃]]：反铁电畸变驱动的二维铁弹性体系。
-*（内容由AI生成，仅供参考）*

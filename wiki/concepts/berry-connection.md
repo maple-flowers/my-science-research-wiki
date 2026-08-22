@@ -61,4 +61,3 @@ updated: 2026-08
 - [[../concepts/born-effective-charge|Born 有效电荷]]：极化的响应量，依赖联络框架。
 - [[../entities/GaAs|GaAs]]：极化计算经典测试体系。
 - [[../entities/Wannier90|Wannier90]]：基于联络/相位提取极化的主流软件。
-*（内容由AI生成，仅供参考）*

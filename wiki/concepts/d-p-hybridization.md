@@ -5,8 +5,10 @@ type: concept
 status: mature
 domain: [multiferroicity, magnetoelectric-coupling, 2d-materials]
 mechanism: 自旋依赖的金属 d 轨道与配体 p 轨道杂化，在非共线自旋 + 重配体 SOC 下产生巨手性磁电耦合
-related_concepts: [multiferroicity, magnetoelectric-coupling, dzyaloshinskii-moriya-interaction, spin-orbit-coupling, spin-cycloid, electromagnon]
-papers: [gaoGiantChiralMagnetoelectric2024a]
+aliases: ["p-d 杂化", "p-d hybridization", "p-d-hybridization"]
+related_concepts: [multiferroicity, magnetoelectric-coupling, dzyaloshinskii-moriya-interaction, spin-orbit-coupling, spin-cycloid, electromagnon, charge-transfer-descriptor, ultimate-strength, mechanical-anisotropy]
+related_entities: [TMDs, MoS2]
+papers: [gaoGiantChiralMagnetoelectric2024a, Li2013bonding]
 updated: 2026-08
 ---
 
@@ -62,6 +64,22 @@ d-p 杂化（d-p Hybridization）指过渡金属的 d 轨道与配体（如卤�
 
 > 注：上表为 DFT 计算典型值，来源见 [[../papers/gaoGiantChiralMagnetoelectric2024a]]。
 
+## 💪 另一条后果：d-p 杂化强度决定力学性能
+
+除磁电耦合外，d-p 杂化强度还直接决定过渡金属硫族化合物的**本征力学性能**（[[../papers/Li2013bonding|Li 2013]]，六种单层 MX₂ 的 DFT 系统计算）：
+
+- **强度排序**：WS₂ > WSe₂ > MoS₂ > WTe₂ > MoSe₂ > MoTe₂——随硫族元素从 S 到 Te、金属从 W 到 Mo 而下降，对应 d-p 杂化由强变弱；
+- **各向异性**：小应变下力学响应各向同性，大应变下转为各向异性，扶手椅方向极限强度显著高于锯齿方向；
+- **定量描述符**：杨氏模量与极限强度均与**从过渡金属到硫族元素的电荷转移量 ΔQ 线性正相关**，因此 ΔQ 可作为快速筛选高强度二维材料的简单描述符。
+
+这条与本页前述磁电通道共享同一物理根源——金属 d 轨道与配体 p 轨道的重叠强度，只是后果落在弹性/断裂而非极化上。
+
+| 参数 | 数值/关系 | 对象与条件 | 证据类型 | 来源 |
+| :--- | :--- | :--- | :--- | :--- |
+| 极限强度排序 | WS₂ > WSe₂ > MoS₂ > WTe₂ > MoSe₂ > MoTe₂ | 六种单层 MX₂ 完美晶体 | DFT 计算 | [[../papers/Li2013bonding]] |
+| 杨氏模量 / 极限强度 vs ΔQ | 线性正相关 | 同上，ΔQ 为金属→硫族电荷转移量 | DFT 拟合 | [[../papers/Li2013bonding]] |
+| 力学各向异性 | 小应变各向同性；大应变下扶手椅 > 锯齿 | 同上 | DFT 计算 | [[../papers/Li2013bonding]] |
+
 ## 🧭 近邻概念辨析
 
 - **与 [[../concepts/dzyaloshinskii-moriya-interaction|DM 相互作用]]**：逆 DM 是纯离子位移/自旋流图像；d-p 杂化强调自旋依赖电荷重排。NiI₂ 中两者并存竞争，净极化是其代数差。
@@ -72,6 +90,7 @@ d-p 杂化（d-p Hybridization）指过渡金属的 d 轨道与配体（如卤�
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/gaoGiantChiralMagnetoelectric2024a]]：系统揭示 NiI₂ 中自旋依赖 d-p 杂化 + 螺旋序 + 重配体 SOC 三要素协同产生巨手性磁电耦合的微观机制。
+- [[../papers/Li2013bonding]]：把 d-p 杂化强度确立为单层 TMD **力学性能**的电子结构起源——给出六种 MX₂ 的极限强度排序与各向异性规律，并提出杨氏模量/极限强度与金属→硫族电荷转移量 ΔQ 线性相关的简单描述符。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

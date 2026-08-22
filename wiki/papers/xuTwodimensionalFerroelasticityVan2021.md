@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/xuTwodimensionalFerroelasticityVan2021]]
 projects: [project-5]
-concepts: [ferroelasticity, 2d-materials, strain-engineering, multiferroicity, polarization-switching, antiferroelectricity, spontaneous-strain, domain-walls, peierls-distortion, shape-memory-effect, linear-dichroism]
+concepts: [ferroelasticity, 2d-materials, strain-engineering, multiferroicity, polarization-switching, antiferroelectricity, spontaneous-strain, domain-wall, peierls-distortion, shape-memory-effect, linear-dichroism]
 entities: [In2Se3, SnTe, TMDs]
 methods: [stem, saed, in-situ-xrd, rsm, polarized-light-microscopy, afm, pfm, raman, shg, cvd, mechanical-exfoliation, two-point-bending, first-principles, rietveld-refinement]
 materials: [beta-prime-In2Se3, 2H-In2Se3, 3R-In2Se3, SnTe, 1T-prime-TMDs]

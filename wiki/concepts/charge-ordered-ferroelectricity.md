@@ -60,4 +60,3 @@ updated: 2026-08
 - [[../concepts/electron-correlation|电子关联]]：电荷序驱动机制。
 - [[../concepts/polarization-switching|极化开关]]：电荷图案切换实现。
 - [[../concepts/ferroelectric-metal|铁电金属]]：电荷序在金属-绝缘竞争中的角色。
-*（内容由AI生成，仅供参考）*

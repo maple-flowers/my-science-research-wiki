@@ -7,7 +7,7 @@ year: 2025
 domain: [condensed-matter-physics, magnetism, spintronics]
 mechanism: 净磁化严格为零（类反铁磁）但能带自旋劈裂显著（类铁磁）的新型磁性相，自旋劈裂呈动量依赖的交变符号结构（d 波对称）
 related_concepts: [ferromagnetism, antiferromagnetism, spin-splitting, magnetic-anisotropy, magnetoelectric-coupling, spin-orbit-coupling, spintronics, two-dimensional-magnetism]
-papers: [zhongHighthroughputExfoliationMultiferroic2025, yuFerroelectricControlMagnetism2026, kaurRecentAdvancesTheoretical2025a, vanvleckSurveyTheoryFerromagnetism1945]
+papers: [zhongHighthroughputExfoliationMultiferroic2025, yuFerroelectricControlMagnetism2026, kaurRecentAdvancesTheoretical2025a]
 updated: 2026-08-19
 ---
 
@@ -57,7 +57,12 @@ updated: 2026-08-19
 - [[../papers/zhongHighthroughputExfoliationMultiferroic2025]]：高通量筛选 ABO₃ 单层中的高转变温度磁性半金属。
 - [[../papers/yuFerroelectricControlMagnetism2026]]：铁电控制完全补偿亚铁磁金属的自旋纹理与拓扑。
 - [[../papers/kaurRecentAdvancesTheoretical2025a]]：滑移铁电与层间自由度的理论进展。
-- [[../papers/vanvleckSurveyTheoryFerromagnetism1945]]：交换作用与磁性谱系的经典理论。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `vanvleckSurveyTheoryFerromagnetism1945`：该 1945 年综述早于 altermagnetism 概念提出（约 2022 年）。笔记中唯一近似串「交错磁格子」实指反铁磁的交错子晶格（staggered sublattice），属术语撞名，非交变磁性。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

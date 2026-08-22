@@ -2,7 +2,7 @@
 tags: [concept, superconductivity, 2D-materials, charge-density-wave]
 title: '超导电性 / Superconductivity'
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, superconductivity, 2d-materials]
 mechanism: 电子配对（库珀对）凝聚为宏观量子态，零电阻 + 完全抗磁（迈斯纳效应）
 related_concepts: [charge-density-wave, electron-phonon-coupling, peierls-distortion, intercalation, 2d-materials, superfluid-density]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 超导电性 / Superconductivity
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 超导电性（superconductivity）指**材料在临界温度 $T_c$ 以下电阻突降为零并完全抗磁（迈斯纳效应）**的量子宏观态。其微观根源是电子通过（通常是声子介导的）吸引相互作用配对成库珀对，并凝聚到单一宏观波函数。在二维过渡金属硫族化合物（TMD）中，超导常与电荷密度波（CDW）共存或竞争，二者与晶格畸变、无序和维度效应深度耦合，是理解低维超导的窗口。
 

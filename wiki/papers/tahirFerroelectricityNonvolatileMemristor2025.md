@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/tahirFerroelectricityNonvolatileMemristor2025]]
 projects: [project-2, project-4, project-5, project-6]
-concepts: [2D-materials, multiferroicity, polarization-switching, strain-engineering, space-charge-limited-current, resistive-switching, valence-change-mechanism, pfm-piezoresponse-force-microscopy, oxygen-vacancy, memristor, pe-hysteresis-loop, free-standing-film]
-entities: [BiFeO3, MXenes, TMDs, rGO, Nb2O5, Nb2CTx, NbOX2, Nb2AlC-MAX]
+concepts: [2D-materials, multiferroicity, polarization-switching, strain-engineering, space-charge-limited-current, resistive-switching, valence-change-mechanism, oxygen-vacancy, memristor, pe-hysteresis-loop, free-standing-film]
+entities: [BiFeO3, MXenes, TMDs, rGO, Nb2O5, Nb2CTx, NbOX2, Nb2AlC-MAX, PFM]
 methods: [afm-pfm, device-i-v, dft, raman, tem, xps, xrd]
 materials: [BiFeO3, MXenes, TMDs]
 figures: []

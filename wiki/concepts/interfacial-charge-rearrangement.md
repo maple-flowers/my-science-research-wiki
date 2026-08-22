@@ -1,50 +1,60 @@
 ---
-tags: [concept, sliding-ferroelectricity, berry-phase, 2d-materials, spin-orbit-coupling, polarization-switching, 2D-materials, density-functional-theory, ferroelectric-tunnel-junction, moire-superlattice]
+tags: [concept, sliding-ferroelectricity, ferroelectricity, interlayer-coupling, charge-transfer, 2d-materials]
 title: interfacial-charge-rearrangement
 type: concept
 status: developing
 year: 2024
 papers: [chenStrongSlidingFerroelectricity2024, guoAdvancesTwodimensionalFerroelectric2025]
-updated: 2026-08-18
+updated: 2026-08-21
 ---
 
 # interfacial-charge-rearrangement
 
-本文档围绕 **interfacial-charge-rearrangement** 汇集 2 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
+**界面电荷重排（interfacial charge rearrangement）**，亦称层间电荷重分布，指范德华双层/多层中电子在**层间界面处**重新分布、形成净偶极的过程。它是[[../concepts/sliding-ferroelectricity|滑移铁电]]极化的**真正来源**——这一点颠覆了传统铁电体的离子位移图像。
 
 ## 👵 太奶导读
 
-乖孙，这一条讲的是「interfacial-charge-rearrangement」，由多篇论文的证据共同支撑。
-一句话记住它的发现：HgI₂ 多层（包括双层）为室温稳定的滑动铁电体，极化源自层间界面电荷重排而非阳离子位移。
+乖孙，传统铁电体是怎么产生极化的？**靠原子挪位置。** 比如钛酸钡里，钛离子从氧八面体正中央偏出去一点，正负电荷中心分开，就有了电偶极。整个理论都建在「离子位移」上。
 
-## 🧩 核心内容与机制 (Core Content)
+滑移铁电不是这样。它的两层材料**各自都是不极化的**，把它们错开一点堆起来（滑移），上下对称性一破，电子就在**两层之间的那个夹缝里**重新分配——一侧堆积、一侧亏空，夹缝里凭空出现一个偶极。
 
-- **研究背景**：传统二维铁电体面外极化大多源自离子位移，在单层极限下易被退极化场压制，可用的室温稳定面外铁电材料稀少。已实现的滑动铁电体（如WTe₂、MoS₂等）极化强度普遍较弱，且功能单一。亟需寻找兼具强极化、可切换性和新功能（如自旋电子效应）的二维滑动铁电材料。
-- **核心问题**：如何找到一种实验上可合成、具有强滑动铁电性且极化可检测、同时具备层间滑动可控自旋电子效应的二维材料，以推动“滑移电子学”在多功能器件中的应用。
-- **主要结论**：HgI₂ 多层（包括双层）为室温稳定的滑动铁电体，极化源自层间界面电荷重排而非阳离子位移；二维尺度下极化可电场切换；极化强度随层数增加趋于饱和，实验厚纳米片可达~0.16 μC/cm²；FE-HgI₂ 具有极化方向依赖的 Rashba 自旋纹理，可实现电控自旋进动与检测，有望用于自旋 FET 器件。；二维铁电材料，特别是滑移铁电体，为解决传统铁电体微型化难题开辟了新路径。滑移铁电不依赖母体本征极性，通过层间滑移诱导电荷重分布即可产生面外极化，具有超低翻转能垒和高可调性。实验已在hBN、TMDs和石墨烯等多种体系中验证了室温铁电性，并通过畴工程实现了对极化翻转动力学的调控。原型器件在存储、光电转换等领域展现出超快响应、抗疲劳等卓越性能。
-- **领域贡献**：发现了 HgI₂ 这一强滑动铁电体系，将已知滑动铁电体的极化强度提升至新水平；揭示了层间电荷重排对极化的主导作用，深化了对滑动铁电微观机制的理解；展示了通过层间滑动同时控制铁电与自旋性质的可能性，拓展了二维滑移电子学的功能边界。；本文作为一篇深度综述，其核心贡献在于为该领域提供了一个清晰、系统且统一的知识框架。它将看似分散的研究（从离子位移到滑移铁电，从hBN到石墨烯）整合到“二维铁电”这一核心主题下，并清晰区分了“自发极化”和“滑移铁电”两大范式。文章不仅总结了最新进展，还通过“畴工程”等概念建立了从基础物理到器件应用的桥梁，为领域内外的研究者提供了高价值的“导航图”。
-- **研究意义**：首次将 HgI₂ 确立为强滑动铁电体，其极化强度（最高0.16 μC/cm²）达到实验可检测水平，且翻转能垒适中，可实现室温可切换极化。同时，发现其 Rashba 自旋纹理可通过极化翻转调控，为二维自旋场效应晶体管等低功耗自旋电子器件提供了新材料和设计思路，促进了滑移电子学与自旋电子学的交叉融合。
+**原子几乎没挪，是电子挪了。**
+
+这里有个证据特别硬，太奶要你记住：在双层 HgI₂ 里，Hg 离子相对八面体中心确实有位移，但这个位移的**方向跟总极化是反的**。也就是说，如果按传统的离子位移图像去算，你会得到一个方向错误的答案。离子位移在这里不但不是主因，还是个**干扰项**。
+
+记一句话：**滑移铁电的极化住在层间界面的电子重排里，不在离子位移里；HgI₂ 中离子位移方向甚至与总极化相反。**
+
+## 🧩 机制与判据
+
+- **成因链**：层间滑移改变堆垛方式 → 破坏空间反演对称性 → 电子在层间界面处重新分布（一侧积累、一侧耗尽）→ 形成净面外偶极。
+- **诊断手段**：
+  - **差分电荷密度**：铁电（FE）双层的层间区域出现净电荷重排，积累区与耗尽区构成偶极，其方向与总极化**平行**；顺电（PE）双层的电荷分布对称、无偶极。
+  - **平面平均屏蔽电荷分析**：用于定量提取极化值。
+  - **原子柱电荷量变化**：如 Td-WTe₂ 中通过追踪四个 Te 原子柱的电荷量变化来量化层间转移。
+- **与离子位移的分离判据**：比较离子位移方向与总极化方向。若两者**反向**（如双层 HgI₂ 中的 d_Hg），即可判定极化并非离子位移主导。
+
+### 双层 HgI₂ 的定量证据
+
+| 量 | 数值 | 性质 |
+|---|---|---|
+| 双层 HgI₂ 极化 | 0.11 μC/cm² | 计算预测 |
+| 翻转能垒 | 24.65 meV/f.u. | 计算预测 |
+| Hg 位移 d_Hg 的方向 | **与总极化相反** | 计算预测 |
+
+⚠️ **边界**：全为第一性原理计算值，来自单一论文。极化值 0.11 μC/cm² 之所以偏小，与二维减薄后退极化场抑制导致极化下降有关——这与「能垒降低、变得可翻转」是同一取舍的两面（体相 HgX₂ 虽有更大极化，却因能垒过高而不可翻转）。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/chenStrongSlidingFerroelectricity2024]]：发现了 HgI₂ 这一强滑动铁电体系，将已知滑动铁电体的极化强度提升至新水平；揭示了层间电荷重排对极化的主导作用，深化了对滑动铁电微观机制的理解；展示了通过层间滑动同时控制铁电与自旋性质的可能性，拓展了二维滑移电子学的功能边界。
-- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]：本文作为一篇深度综述，其核心贡献在于为该领域提供了一个清晰、系统且统一的知识框架。
+- [[../papers/chenStrongSlidingFerroelectricity2024]]：本页最关键的证据来源。该文用差分电荷密度证实 FE 双层层间存在净电荷重排、PE 双层则对称无偶极，用平面平均屏蔽电荷定量出 0.11 μC/cm² 与 24.65 meV/f.u. 的翻转能垒，并给出本页判据的决定性一条——**Hg 离子位移方向与总极化相反**，据此判定层间界面电荷重排（而非离子位移）是极化主要贡献者。
+- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]：作为综述把「层间电荷重分布」确立为滑移铁电的**范式性机制**，明确指出它「完全颠覆了传统铁电体的离子位移模型」，并给出该机制在 hBN、TMDs、双层石墨烯等多个体系中的通用表述与量化手段（如 Td-WTe₂ 的四个 Te 原子柱电荷追踪、垂直电场下双层石墨烯的层间电荷转移模型），为本页提供了超出单一体系的适用范围依据。
 
 ## 🔗 关联概念与实体 (Related)
 
 - [[../concepts/sliding-ferroelectricity|sliding-ferroelectricity]]
-- [[../concepts/berry-phase|berry-phase]]
-- [[../concepts/2d-materials|2d-materials]]
-- [[../concepts/spin-orbit-coupling|spin-orbit-coupling]]
-- [[../concepts/polarization-switching|polarization-switching]]
+- [[../concepts/ferroelectricity|ferroelectricity]]
 - [[../concepts/depolarization-field|depolarization-field]]
+- [[../concepts/interlayer-coupling|interlayer-coupling]]
+- [[../concepts/inversion-symmetry-breaking|inversion-symmetry-breaking]]
+- [[../concepts/polarization-switching|polarization-switching]]
 - [[../concepts/rashba-effect|rashba-effect]]
-- [[../concepts/slidetronics|slidetronics]]
-- [[../concepts/spin-texture|spin-texture]]
-- [[../concepts/multiferroicity|multiferroicity]]
-- [[../concepts/strain-engineering|strain-engineering]]
-- [[../entities/VASP|VASP]]
 - [[../entities/HgI2|HgI2]]
-- [[../entities/HgBr2|HgBr2]]
-- [[../entities/WTe2|WTe2]]
-- [[../entities/MoTe2|MoTe2]]

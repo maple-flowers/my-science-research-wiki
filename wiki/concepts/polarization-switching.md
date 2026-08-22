@@ -2,7 +2,7 @@
 tags: [concept, ferroelectricity, polarization]
 title: 极化翻转 / Polarization Switching
 type: concept
-status: mature
+status: developing
 domain: [ferroelectricity, dielectric-physics]
 mechanism: 外加电场驱动下，铁电自发极化偶极子克服势垒重定向的过程
 related_concepts: [ferroelectricity, sliding-ferroelectricity, domain-wall-motion, depolarization-field]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 极化翻转 / Polarization Switching
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 极化翻转 (Polarization Switching) 是铁电材料在外加足够大电场（矫顽电场）作用下，其内部自发极化方向发生可逆改变的物理过程。它是铁电体在非易失性数据存储、压电换能及多态逻辑器件中应用的基础。
 

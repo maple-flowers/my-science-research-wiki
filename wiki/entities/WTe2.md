@@ -2,7 +2,7 @@
 tags: [entity, material, TMD, 2D, semimetal, ferroelectric]
 title: 二碲化钨 (WTe2) / Tungsten Ditealluride
 type: entity
-status: mature
+status: developing
 formula: WTe2
 stoichiometry: Td
 class: [TMD, vdW, semimetal]
@@ -13,6 +13,11 @@ updated: 2026-08
 ---
 
 # 二碲化钨 (WTe2) / Tungsten Ditealluride
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 二碲化钨 (WTe2) 是一种极为特殊的过渡金属硫族化合物。它在体相下以不具有空间反演对称性的 $T_d$ 相稳定存在，是公认的 **II 型外尔半金属 (Type-II Weyl Semimetal)**。更具革命性的是，WTe2 也是首个被实验证实存在室温**铁电半金属**（极性金属）特性的范德华材料。
 

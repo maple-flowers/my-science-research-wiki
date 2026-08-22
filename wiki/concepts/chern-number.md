@@ -2,11 +2,11 @@
 tags: [concept, topological-physics, mathematics]
 title: 陈数 / Chern Number
 type: concept
-status: mature
+status: stub
 domain: [condensed-matter-physics, topological-physics]
 mechanism: 贝里曲率在整个二维布里渊区上的积分，量化能带的全局拓扑属性
 related_concepts: [berry-curvature, topological-charge, bulk-boundary-correspondence, anomalous-hall-effect, quantum-anomalous-hall-effect, berry-phase]
-papers: [hanPolarTopologicalMaterials2025, wangTunableD0Topological2025b, sharmaRoomtemperatureFerroelectricSemimetal2019]
+papers: []
 updated: 2026-08
 ---
 
@@ -61,10 +61,15 @@ updated: 2026-08
 - **陈数 vs 拓扑荷**：陈数即能带拓扑荷的特例（$C$ 为整数）；外尔点等奇点携带半整数或整数拓扑荷，与陈数来源一致（贝里曲率单极子）。
 
 ## 📚 相关论文 (Related Papers)
+本库现有文献中暂无一篇实际讨论本主题，本节待补。
 
-- [[../papers/hanPolarTopologicalMaterials2025]]：极性材料中的拓扑分类与陈数概念。
-- [[../papers/wangTunableD0Topological2025b]]：计算二维磁性材料的拓扑性质。
-- [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]]：通过贝里相位方法（陈数的物理表现）计算电极化。
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `hanPolarTopologicalMaterials2025`：原文笔记中无 Chern 数/陈数相关内容。
+- `wangTunableD0Topological2025b`：同上。
+- `sharmaRoomtemperatureFerroelectricSemimetal2019`：同上。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
@@ -74,4 +79,3 @@ updated: 2026-08
 - [[../concepts/bulk-boundary-correspondence|体-边界对应关系]]（陈数决定边缘态数量）
 - [[../concepts/anomalous-hall-effect|反常霍尔效应]]（陈数量子化的经典极限）
 - [[../concepts/berry-phase|贝里相位]]（陈数的相位学根源）
-*（内容由AI生成，仅供参考）*

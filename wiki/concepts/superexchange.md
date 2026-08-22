@@ -57,9 +57,10 @@ Goodenough-Kanamori 规则正是总结上述轨道重叠几何（键角、轨道
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]] — Ferroelectricity-driven strain-mediated magnetoelectric coupling in two-dimensional multiferroic heterostructure
-- [[../papers/chenFerromagneticNonmagnetic1T2022]] — Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition
-- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]] — Ferroelectricity and multiferroicity in two-dimensional materials
+- [[../papers/chenFerromagneticNonmagnetic1T2022]]：把「直接交换 → 超交换的转变」明确列为 1T′ 铁磁 CDW 态的两种形成机制之一（CrX₂、VTe₂ 走此路径，MnX₂ 走金属-金属二聚化），并给出结构畸变指数 d₁/d₂ 作为区分两种机制的判据——本页「几何构型决定交换类型」的直接证据。
+- [[../papers/fengFerroelectricityMultiferroicityTwodimensional2020]]：给出超交换路径被结构相变调制的完整算例——ScCrP₂Se₆ 单层中铁电相磁基态为 AFM、反铁电相为 FM，机制归为相变引起的晶格畸变改变 Cr-Se-Se-Cr 间接交换路径，并预测约 0.82 V/Å 外场可实现 FM/AFM 电控切换。
+- [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]：提供「晶格常数改变 → 交换作用改变」这条因果链的器件级例证（P(VDF-TrFE) 逆压电应变调控 Fe₃GaTe₂ 磁各向异性常数 K₁，0.5 aJ / 5 ns）；但该文以磁各向异性为落点，**未给出超交换积分的定量分析**，本页仅作机制类比引用。
+
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

@@ -7,7 +7,7 @@ year: 2020
 domain: [condensed-matter-physics, magnetism, 2d-materials]
 mechanism: 单层/少层范德华晶体中稳定的磁有序；二维极限下 Mermin-Wagner 定理禁阻各向同性长程磁序，需磁各向异性（易轴/易面）支撑
 related_concepts: [ferromagnetism, magnetic-anisotropy, curie-temperature, van-der-waals-heterostructure, magnetoelectric-coupling, altermagnetism, spintronics, 2d-materials]
-papers: [liuSpintronicsTwoDimensionalMaterials2020b, gongAbsenceCriticalThickness2023, xiangTwodimensionalRoomTemperature2020]
+papers: [liuSpintronicsTwoDimensionalMaterials2020b]
 updated: 2026-08-19
 ---
 
@@ -61,8 +61,13 @@ Mermin-Wagner 定理指出各向同性二维体系不存在有限温长程磁序
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]：二维材料自旋电子学综述，覆盖二维磁体与自旋器件。
-- [[../papers/gongAbsenceCriticalThickness2023]]：二维磁性临界厚度与层数依赖行为。
-- [[../papers/xiangTwodimensionalRoomTemperature2020]]：二维室温磁体的设计展望。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `gongAbsenceCriticalThickness2023`：原文笔记中无二维磁性相关表述。
+- `xiangTwodimensionalRoomTemperature2020`：同上。
 
 ## 🔗 关联概念与实体 (Related)
 

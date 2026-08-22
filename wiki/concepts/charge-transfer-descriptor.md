@@ -10,6 +10,11 @@ updated: 2026-08-18
 
 # charge-transfer-descriptor
 
+> [!warning] 本页内容待重写（太奶导读部分）
+> 本页「太奶导读」为自动生成的占位内容，描述的是某篇论文的研究对象而非本条目本身，待按真实概念重写。
+> 正文其余部分与贡献句已核，可参考。（标记于 2026-08-21）
+
+
 单层VI族过渡金属二硫化物（MX₂），包括MoS₂、MoSe₂、MoTe₂、WS₂、WSe₂、WTe₂六种完美晶体。
 
 ## 👵 太奶导读
@@ -36,7 +41,7 @@ updated: 2026-08-18
 - [[../concepts/density-functional-theory|density-functional-theory]]
 - [[../concepts/bond-density|bond-density]]
 - [[../concepts/binding-strength|binding-strength]]
-- [[../concepts/p-d-hybridization|p-d-hybridization]]
+- [[../concepts/d-p-hybridization|d-p 杂化]]
 - [[../concepts/d-band-center|d-band-center]]
 - [[../concepts/mechanical-anisotropy|mechanical-anisotropy]]
 - [[../concepts/stress-strain-relation|stress-strain-relation]]

@@ -53,4 +53,3 @@ updated: 2026-08
 - [[../concepts/inversion-symmetry-breaking|反演对称破缺]]
 - [[../entities/graphene|石墨烯]]
 - [[../entities/h-BN|h-BN]]
-*（内容由AI生成，仅供参考）*

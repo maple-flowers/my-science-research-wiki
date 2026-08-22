@@ -2,7 +2,7 @@
 tags: [entity, material, TMD, 2D, semiconductor]
 title: 二硫化钨 (WS2) / Tungsten Disulfide
 type: entity
-status: mature
+status: developing
 formula: WS2
 stoichiometry: 2H
 class: [TMD, vdW, semiconductor]
@@ -13,6 +13,11 @@ updated: 2026-08
 ---
 
 # 二硫化钨 (WS2) / Tungsten Disulfide
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 二硫化钨 (WS2) 是一种与 MoS2 结构类似，但拥有更强**自旋-轨道耦合 (SOC)** 的过渡金属硫族化合物。这使得它在能谷电子学 (Valleytronics) 和自旋电子学 (Spintronics) 的应用中展现出更加显著和宽温区的物理效应。
 

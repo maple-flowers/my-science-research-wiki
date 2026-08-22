@@ -2,7 +2,7 @@
 tags: [concept, magnetism, spintronics]
 title: 自旋波 / Spin Wave
 type: concept
-status: mature
+status: developing
 domain: [magnetism, spintronics, magnonics, multiferroicity]
 mechanism: 局域磁矩围绕平衡方向的集体进动模式，量子化为磁振子；色散由交换作用/偶极相互作用与各向异性决定，可在绝缘体中无损传播
 related_concepts: [ferromagnetism, antiferromagnetism, spin-transport, magnetoelectric-coupling, bloch-spin-wave, magnon-hall-effect, topological-magnon, electromagnon]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 自旋波 / Spin Wave
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 自旋波（spin wave）指**磁性体系中局域磁矩围绕其平衡方向的集体进动模式**，其量子化准粒子称为磁振子（magnon）。自旋波可在绝缘体中传播（无焦耳热损耗），是低功耗自旋电子学与磁振子学的信息载体，也是研究磁性交换相互作用与各向异性的重要探针。
 

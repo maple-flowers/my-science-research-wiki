@@ -2,7 +2,7 @@
 tags: [concept, multiferroics, ferroelectricity, magnetism]
 title: 多铁性 / Multiferroicity
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, multiferroics]
 mechanism: 同一相中两种或以上铁性序（铁电、磁性、铁弹等）的共存与耦合
 related_concepts: [magnetoelectric-coupling, ferroelectricity, ferroelasticity, geometric-ferroelectricity]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 多铁性 / Multiferroicity
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 多铁性 (Multiferroicity) 指的是一种材料在同一相中同时具有两种或两种以上的“铁性”有序（Primary Ferroics），最常见的是铁电性 (Ferroelectricity) 和铁磁性/反铁磁性 (Magnetism) 的共存。这类材料最具吸引力的特性是磁电耦合效应 (Magnetoelectric Coupling)，即可以用电场控制磁化强度，或用磁场控制电极化。
 

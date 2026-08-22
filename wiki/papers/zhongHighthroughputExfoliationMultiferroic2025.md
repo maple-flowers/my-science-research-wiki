@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/zhongHighthroughputExfoliationMultiferroic2025]]
 projects: []
-concepts: [2D-materials, altermagnetism, berry-phase, binding-strength, bond-density, density-functional-theory, ferroelasticity, giant-spin-splitting, magnetoelectric-coupling, multiferroicity, phase-interlocked, spin-orbit-coupling, strain-engineering, rashba-effect, non-vdw-exfoliation, magnetic-force-theory, cneb, spin-texture, superexchange, half-metal, exfoliation-energy, cohp-icohp]
+concepts: [2D-materials, altermagnetism, berry-phase, binding-strength, bond-density, density-functional-theory, ferroelasticity, giant-spin-splitting, magnetoelectric-coupling, multiferroicity, phase-interlocked, spin-orbit-coupling, strain-engineering, rashba-effect, non-vdw-exfoliation, magnetic-force-theory, nudged-elastic-band, spin-texture, superexchange, half-metallicity, exfoliation-energy, cohp-icohp]
 entities: [BiFeO3, MnVO3, NaZnO3, SrIrO3, SrMoO3, SrOsO3, TMDs, VASP, Wannier90, ZnPbO3, h-BN, LaCuO3, SrTiO3, BaTiO3]
 methods: [afm-pfm, berry-phase, dfpt, dft, monte-carlo, neb]
 materials: [BiFeO3, MnVO3, NaZnO3, SrIrO3, SrMoO3, SrOsO3, TMDs, ZnPbO3, h-BN]

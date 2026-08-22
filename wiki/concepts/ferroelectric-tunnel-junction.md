@@ -2,13 +2,18 @@
 tags: [concept, device, ferroelectricity]
 title: 铁电隧道结 / Ferroelectric Tunnel Junction (FTJ)
 type: concept
-status: mature
+status: developing
 related_concepts: [ferroelectricity, polarization-switching, magnetic-tunnel-junction, resistive-switching, memristor]
 papers: [FerroelectricityMultiferroicityAtomic2023, RecentAdvancesGrowth2025, chenHafniumBasedFerroelectricPostMoore2026, guanRecentProgressTwoDimensional2020, guoAdvancesTwodimensionalFerroelectric2025, hanPolarTopologicalMaterials2025, huProgressProspectsLowdimensional2019, huangTwodimensionalIn2Se3Rising2022, junqueraCriticalThicknessFerroelectricity2003, liPhaseTransitions2D2021, martinThinfilmFerroelectricMaterials2016, neumayerCompetingPolarPhases2025, sunSlidingFerroelectricityTwodimensional2025, tangCombiningIntrinsicSlidinginduced2025, xueEmergingNonvolatileMemories2011, zahraCriticalAnalysisFerroelectric2025, zhangEmergingFrontiersTwodimensional2025]
 updated: 2026-08
 ---
 
 # ferroelectric-tunnel-junction
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 铁电隧道结（ferroelectric tunnel junction, FTJ）是**以超薄铁电薄膜作为隧穿势垒**的两端器件，通过铁电极化的两个取向态调制势垒形状（高度/宽度/界面态），产生电阻态差异（隧穿电致电阻，TER），是实现非易失存储与神经形态计算的核心器件结构。
 

@@ -2,13 +2,18 @@
 tags: [entity, two-photon-polymerization, two-photon-absorption, voxel, photoinitiator, diffraction-limit, fabry-perot-cavity, optical-sensing, micromechanical-hinge, monolithic-integration]
 title: photoresist
 type: entity
-status: developing
+status: stub
 year: 2017
 papers: [Kumar2017microstructuring, Unknown2022polymerization]
 updated: 2026-08-18
 ---
 
 # photoresist
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 本文档围绕 **photoresist** 汇集 2 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
 

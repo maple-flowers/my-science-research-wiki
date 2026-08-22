@@ -42,7 +42,7 @@ PLD 导致了晶胞的增大（形成超晶格）。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/Johannes2008fermi]]：论证了 CDW 就是一种非公度晶格转变 (ILT)，强调了 PLD 的核心地位。
+- [[../papers/Johannes2008fermi]]：论证在真实材料中费米面嵌套并非 CDW 的驱动力，真正的 CDW 与由**电子—声子耦合**驱动的非公度晶格转变（ILT）在物理上没有本质区别，并据此把 CDW 重新表述为电子子系统与离子子系统的协同结果。⚠️ 注：该文笔记中并未出现 PLD / periodic lattice distortion 这一术语，本页把它读作 PLD 的核心地位属转译，原贡献句中「强调了 PLD 的核心地位」一句无据，已于 2026-08-21 改写。
 - [[../papers/Inosov2008fermi]]：通过实验讨论了 TMD 材料中 PLD 与嵌套矢量的不一致性。
 - [[../papers/CastroNeto2001charge]]：总结了层状材料中 PLD 的多种对称性模式。
 

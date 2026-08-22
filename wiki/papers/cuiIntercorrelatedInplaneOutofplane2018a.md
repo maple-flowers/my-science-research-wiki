@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/cuiIntercorrelatedInplaneOutofplane2018a]]
 projects: [project-2, project-5]
-concepts: [ferroelectricity, 2d-materials, polarization-switching, in-plane-out-of-plane-coupling, odd-even-effect, antiparallel-polarization-stacking, ferroelectric-domain, domain-wall, depolarizing-field, schottky-barrier, switchable-diode, memristor, multiferroicity, topological-defects]
+concepts: [ferroelectricity, 2d-materials, polarization-switching, in-plane-out-of-plane-coupling, odd-even-effect, antiparallel-polarization-stacking, ferroelectric-domain, domain-wall, depolarization-field, schottky-barrier, switchable-diode, memristor, multiferroicity, topological-defects]
 entities: [In2Se3, VASP, SnTe, PZT, BaTiO3, CuInP2S6, mica, Au]
 methods: [cvd, afm, pfm, cafm, stem, haadf, saed, scanning-electron-diffraction, raman, dft, pbe, hse06, optb88-vdw, e-beam-lithography, i-v-transport]
 materials: [alpha-In2Se3, beta-In2Se3, mica, Au, SnTe, CuInP2S6]

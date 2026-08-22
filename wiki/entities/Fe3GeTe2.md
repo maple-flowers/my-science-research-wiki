@@ -2,7 +2,7 @@
 tags: [entity, material, 2D, magnetism]
 title: 碲化锗铁 (Fe₃GaTe₂ / Fe₃GeTe₂)
 type: entity
-status: mature
+status: developing
 category: [D01]
 formula: Fe3GaTe2
 stoichiometry: Bulk / Few-layer
@@ -14,6 +14,11 @@ updated: 2026-08
 ---
 
 # 碲化锗铁 (Fe₃GaTe₂ / Fe₃GeTe₂)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 Fe₃GaTe₂ (以及同族的 Fe₃GeTe₂) 是近年来发现的极具应用前景的二维范德华金属磁体。其核心卖点在于具有**室温以上的居里温度**和强烈的**垂直磁各向异性 (PMA)**。这使其成为构建高性能、可规模化集成的自旋电子器件（如自旋逻辑门、存储器）的理想平台。
 

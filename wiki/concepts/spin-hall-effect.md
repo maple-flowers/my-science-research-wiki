@@ -2,12 +2,17 @@
 tags: [concept]
 title: '自旋霍尔效应 / Spin Hall Effect'
 type: concept
-status: mature
+status: developing
 papers: ['liuSpintronicsTwoDimensionalMaterials2020b', 'kaurRecentAdvancesTheoretical2025a', 'xuTwodimensionalFerroelasticityVan2021']
 updated: 2026-08-18
 ---
 
 # 自旋霍尔效应 / Spin Hall Effect
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 自旋霍尔效应（spin Hall effect, SHE）指**自旋-轨道耦合使纵向电荷流在垂直于电流方向的横向产生纯自旋流（无需外加磁场、无净电荷积累）的现象**。自旋霍尔效应是自旋电子学的核心输运机制之一，用于自旋注入、自旋轨道矩操控与自旋流探测；在二维材料与铁弹/铁电体系中，SHE 与自旋轨道耦合强度、晶格对称性密切相关。
 
@@ -61,4 +66,3 @@ updated: 2026-08-18
 - [[../concepts/spin-texture|自旋织构]]：动量空间的自旋排列。
 - [[../entities/WSe2|WSe₂]]：自旋电子学二维体系。
 - [[../entities/In2Se3|In₂Se₃]]：铁弹畴调制输运的二维材料。
-*（内容由AI生成，仅供参考）*

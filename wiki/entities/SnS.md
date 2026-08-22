@@ -77,4 +77,3 @@ SnS 单层可参与二维/三维杂化体系构建：
 - [[../entities/SnTe|SnTe]]
 - [[../entities/SnSe|SnSe]]
 - [[../entities/GeSe|GeSe]]
-*（内容由AI生成，仅供参考）*

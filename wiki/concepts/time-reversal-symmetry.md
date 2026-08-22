@@ -2,7 +2,7 @@
 tags: [concept, topological-physics, symmetry]
 title: 时间反演对称性 / Time-Reversal Symmetry
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, topological-physics]
 mechanism: 体系哈密顿量在时间倒转算符变换下的不变性
 related_concepts: [topological-insulator, Z2-invariant, quantum-spin-hall-effect, weyl-semimetal, broken-inversion-symmetry]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 时间反演对称性 / Time-Reversal Symmetry
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 时间反演对称性 (Time-Reversal Symmetry, $\mathcal{T}$) 是指体系的物理规律（或哈密顿量）在时间方向倒转（即 $t \rightarrow -t$）的操作下保持不变的性质。在量子力学中，时间反演操作是一个反线性算符，它会将动量和自旋的方向反转。它是保护拓扑绝缘体和量子自旋霍尔效应中非耗散边缘态的基础。
 

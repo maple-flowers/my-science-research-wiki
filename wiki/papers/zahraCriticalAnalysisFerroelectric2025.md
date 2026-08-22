@@ -12,8 +12,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/zahraCriticalAnalysisFerroelectric2025]]
 projects: []
-concepts: [2D-materials, density-functional-theory, ferroelasticity, ferroelectric-tunnel-junction, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, topological-defects, stoner-ferromagnetism, janus-mxene, i-mxene, surface-terminations-tx, sc2co2, v2c-mxene, max-phase, ti3c2tx, ferroelectric-metal]
-entities: [BiFeO3, ferroelectric-memristor, hf2vc2f2, In2Se3, MXenes, PFM, TMDs]
+concepts: [2D-materials, density-functional-theory, ferroelasticity, ferroelectric-tunnel-junction, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, strain-engineering, topological-defects, stoner-ferromagnetism, janus-mxene, i-mxene, surface-terminations-tx, v2c-mxene, ti3c2tx, ferroelectric-metal]
+entities: [BiFeO3, ferroelectric-memristor, hf2vc2f2, In2Se3, MXenes, PFM, TMDs, Sc2CO2, MAX-phase]
 methods: [afm-pfm, device-i-v, dft, squid]
 materials: [BiFeO3, In2Se3, MXenes, TMDs]
 figures: []

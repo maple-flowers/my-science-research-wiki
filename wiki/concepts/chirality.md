@@ -52,3 +52,15 @@ updated: 2026-08
 - [[../papers/gaoGiantChiralMagnetoelectric2024a]]：深入探讨了手性磁体中的动力学磁电耦合与巨自然光学活性。
 - [[../papers/hanPolarTopologicalMaterials2025]]：综述极性拓扑材料（含电手性拓扑结构）的设计原理与器件前景。
 - [[../papers/nahasFrustrationSelfOrderingTopological2016]]：阻挫驱动的自组织极性纳米结构与拓扑手性序。
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[optical-activity|光学活性]]：手性最直接的宏观光学后果，手性介质对左/右旋圆偏振光响应不等价。
+- [[raman-optical-activity|拉曼光学活性 ROA]]：本页所述手性畴无损表征的具体手段，圆偏振拉曼强度差直接读出对映体类型。
+- [[electromagnon|电磁振子]]：手性磁体中磁振子与声子/极化耦合的激发，是手性磁电振荡的载体。
+- [[dzyaloshinskii-moriya-interaction|Dzyaloshinskii–Moriya 相互作用]]：产生非共线手性自旋结构的微观根源；其逆过程（IDM）把手性自旋序转成铁电极化。
+- [[helical-magnetism|螺旋磁性]]：磁手性的典型实现形式，自旋沿传播方向左旋或右旋。
+- [[magnetoelectric-coupling|磁电耦合]]：手性自旋序经 IDM 机制诱发极化，使材料成为第二类多铁体。
+- [[skyrmion|斯格明子]] 与 [[topological-defects|拓扑缺陷]]：拓扑手性的承载对象，自旋涡旋方向即其手性自由度。
+- [[../entities/NiI2|NiI₂]]：本页螺旋磁序与 ROA 手性指纹的主要实验体系。
+- [[../entities/TbMnO3|TbMnO₃]]：块体第二类多铁中磁手性与极化耦合的经典参照体系。

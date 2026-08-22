@@ -2,7 +2,7 @@
 tags: [entity, material, TMD, 2D, superconductor, CDW]
 title: 二硒化铌 (NbSe2) / Niobium Diselenide
 type: entity
-status: mature
+status: developing
 formula: NbSe2
 stoichiometry: 2H
 class: [TMD, vdW, metal]
@@ -13,6 +13,11 @@ updated: 2026-08
 ---
 
 # 二硒化铌 (NbSe2) / Niobium Diselenide
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 二硒化铌 (NbSe2) 是一种典型的层状过渡金属硫族化合物 (TMD)，以其在低温下表现出的电荷密度波 (CDW) 与超导性 (Superconductivity) 的共存与竞争而闻名。它是研究二维极限下电子-声子耦合与关联电子序的理想平台。
 

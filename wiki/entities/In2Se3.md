@@ -2,7 +2,7 @@
 tags: [entity, material, 2d-materials, ferroelectric]
 title: 硒化铟 / Indium Selenide (In2Se3)
 type: entity
-status: mature
+status: developing
 formula: In2Se3
 stoichiometry: alpha, beta, beta0
 class: [III2-VI3, vdW, semiconductor]
@@ -13,6 +13,11 @@ updated: 2026-08
 ---
 
 # 硒化铟 / Indium Selenide (In2Se3)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 硒化铟 ($In_2Se_3$) 是一种极具代表性的二维范德华铁电半导体。它在单层极限（五个原子层厚度）下即可保持稳定的室温铁电性，且具有独特的面内-面外极化锁定（IP-OOP locking）特征。
 

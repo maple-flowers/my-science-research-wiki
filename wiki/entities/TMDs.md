@@ -2,7 +2,7 @@
 tags: [entity, material, 2D, TMD]
 title: 过渡金属硫族化合物 / Transition Metal Dichalcogenides (TMDs)
 type: entity
-status: mature
+status: developing
 formula: MX2
 class: [vdW, semiconductors, metals]
 properties: [charge-density-wave, superconductivity, ferroelectricity, sliding-ferroelectricity]
@@ -12,6 +12,11 @@ updated: 2026-08
 ---
 
 # 过渡金属硫族化合物 / Transition Metal Dichalcogenides (TMDs)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 过渡金属硫族化合物 (Transition Metal Dichalcogenides, TMDs) 是一类具有 $MX_2$ 型结构的层状范德华材料，其中 $M$ 是过渡金属原子（如 Mo, W, Nb, Ta），$X$ 是硫族原子（如 S, Se, Te）。TMDs 以其丰富的物理性质（如半导体特性、金属性、超导性、电荷密度波以及新兴的滑动铁电性）成为二维材料研究的中心。
 

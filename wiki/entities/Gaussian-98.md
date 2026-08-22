@@ -2,13 +2,18 @@
 tags: [entity, density-functional-theory, bader-analysis, charge-density, zero-flux-surface, lattice-bias]
 title: Gaussian-98
 type: entity
-status: developing
+status: stub
 year: 2009
 papers: [tangGridbasedBaderAnalysis2009]
 updated: 2026-08-18
 ---
 
 # Gaussian-98
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 
 
@@ -38,6 +43,6 @@ updated: 2026-08-18
 - [[../concepts/correction-vector|correction-vector]]
 - [[../entities/VASP|VASP]]
 - [[../entities/Quantum-ESPRESSO|Quantum-ESPRESSO]]
-- [[../entities/PAW|PAW]]
+- [[../concepts/paw-method|PAW]]
 - [[../entities/Vanderbilt-ultrasoft|Vanderbilt-ultrasoft]]
 - [[../entities/bader-code|bader-code]]

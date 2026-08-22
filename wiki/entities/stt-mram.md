@@ -2,13 +2,18 @@
 tags: [entity, spin-orbit-coupling, 2D-materials, magnetoelectric-coupling, strain-engineering, berry-phase]
 title: stt-mram
 type: entity
-status: developing
+status: stub
 year: 2020
 papers: [liuSpintronicsTwoDimensionalMaterials2020b]
 updated: 2026-08-18
 ---
 
 # stt-mram
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 摘要自旋电子学利用电子的自旋度作为信息矢量，是实现超复杂金属氧化物半导体（CMOS）器件的一个有吸引力的领域。
 

@@ -1,13 +1,14 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_d538fca29bb811f19467525400287e28
-    ReservedCode1: WERwAaPmwHURrTzdVTuovRJ4pMpC+L0nBb/IGUuvVxI0HiR8UEnzARqjrE9DZkbnJ3A1DkhKVxdaJiVuLF+aaumcp4wM8U+sPp3hAkXImPr/SnTKS4xvu76VzAz+pZBRGHf4TN2sUhy/uqbit6lpOaqfeJJLvwEy/kOJyLTQF5+cldijmVBVrD8Rkq0=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_d538fca29bb811f19467525400287e28
-    ReservedCode2: WERwAaPmwHURrTzdVTuovRJ4pMpC+L0nBb/IGUuvVxI0HiR8UEnzARqjrE9DZkbnJ3A1DkhKVxdaJiVuLF+aaumcp4wM8U+sPp3hAkXImPr/SnTKS4xvu76VzAz+pZBRGHf4TN2sUhy/uqbit6lpOaqfeJJLvwEy/kOJyLTQF5+cldijmVBVrD8Rkq0=
+tags: [concept, ferroelectric, 2D, stacking]
+title: 层间极化耦合 / Interlayer Polarization Coupling
+type: concept
 status: mature
+domain: [ferroelectricity, 2d-materials, stacking-engineering]
+mechanism: "范德华层间的堆垛构型决定层间电荷转移与轨道畸变，使各层极化相互约束、叠加或补偿，总极化随层数与堆垛序演化"
+related_concepts: [sliding-ferroelectricity, interlayer-coupling, polarization-switching, stacking-engineered-ferroelectricity]
+related_entities: [ReS2, HgI2]
+papers: [tangCombiningIntrinsicSlidinginduced2025, chenStrongSlidingFerroelectricity2024, kaurRecentAdvancesTheoretical2025a]
+updated: 2026-08
 ---
 
 
@@ -74,4 +75,3 @@ status: mature
 - [[../concepts/stacking-engineered-ferroelectricity|堆垛工程铁电]]
 - [[../entities/ReS2|ReS2]]
 - [[../entities/HgI2|HgI2]]
-*（内容由AI生成，仅供参考）*

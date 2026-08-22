@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/kresseEfficientIterativeSchemes1996d]]
 projects: [project-2, project-4, project-5, project-7]
-concepts: [density-functional-theory, rmm-diis, pulay-mixing, kerker-preconditioning, charge-sloshing, conjugate-gradient, subspace-rotation, methfessel-paxton-smearing, harris-foulkes-functional, self-consistent-field, ultrasoft-pseudopotential, plane-wave-basis]
+concepts: [density-functional-theory, rmm-diis, pulay-mixing, kerker-preconditioning, charge-sloshing, conjugate-gradient, subspace-rotation, methfessel-paxton-smearing, harris-foulkes-functional, self-consistent-field-cycle, ultrasoft-pseudopotential, plane-wave-basis]
 entities: [VASP]
 methods: [dft, plane-wave-basis, ultrasoft-pseudopotential, rmm-diis, pulay-mixing, kerker-preconditioning, conjugate-gradient, iterative-diagonalization, methfessel-paxton-smearing, charge-density-mixing]
 materials: [diamond, fcc-Fe, fcc-Al]

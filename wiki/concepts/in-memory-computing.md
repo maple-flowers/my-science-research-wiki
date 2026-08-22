@@ -2,7 +2,7 @@
 tags: [concept, computing, electronics]
 title: 存内计算 (In-Memory Computing)
 type: concept
-status: mature
+status: developing
 domain: [computer-architecture, microelectronics, AI-hardware]
 mechanism: 将计算逻辑直接集成到存储单元或存储阵列中，以消除冯·诺依曼架构下的“存储墙”瓶颈
 related_concepts: [neuromorphic-computing, non-volatile-memory, memristor, crossbar-array]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 存内计算 / In-Memory Computing (IMC)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 存内计算是一种新型的计算范式，其核心思想是“在存储数据的地点直接完成计算”。它打破了传统冯·诺依曼架构中中央处理器 (CPU) 与存储器 (Memory) 分离的格局，通过在存储阵列内利用物理规律（如基尔霍夫电流定律和欧姆定律）执行运算，极大降低了数据搬移带来的能耗和延迟。
 

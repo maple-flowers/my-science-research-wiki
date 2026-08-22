@@ -9,6 +9,11 @@ updated: 2026-08-18
 
 # 相场模拟 / Phase-Field Modeling
 
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
+
 相场模拟（phase-field modeling）指**用连续序参量场描述微观结构（畴、界面、拓扑缺陷）随时间的演化**的计算方法，通过求解含时 Ginzburg-Landau 方程与弹性能/静电能耦合，模拟铁电畴翻转、极性拓扑结构形成与相变动力学。它是连接原子尺度计算与宏观器件行为的重要桥梁。
 
 ## 👵 太奶导读
@@ -39,4 +44,3 @@ updated: 2026-08-18
 - [[../concepts/polar-skyrmion|极性斯格明子]]：相场模拟预言的拓扑结构。
 - [[../concepts/domain-wall-engineering|畴壁工程]]：相场模拟的器件应用。
 - [[../entities/PbTiO3-SrTiO3-superlattice|PbTiO₃/SrTiO₃ 超晶格]]：极性斯格明子的平台。
-*（内容由AI生成，仅供参考）*

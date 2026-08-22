@@ -2,7 +2,7 @@
 tags: [entity, material, TMD, 2D, Mott-insulator, CDW]
 title: 二硫化钽 (TaS2) / Tantalum Disulfide
 type: entity
-status: mature
+status: developing
 formula: TaS2
 stoichiometry: 1T
 class: [TMD, vdW, Mott-insulator]
@@ -13,6 +13,11 @@ updated: 2026-08
 ---
 
 # 二硫化钽 (TaS2) / Tantalum Disulfide
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 二硫化钽 (TaS2) 尤其是其 $1\text{T}$ 相（1T-TaS2），是凝聚态物理中研究**莫特绝缘体 (Mott Insulator)** 与**电荷密度波 (CDW)** 强耦合行为的经典模本材料。它在低温下自发发生晶格畸变，将自由移动的金属电子锁死在局部超结构中，是“带宽控制型莫特相变”的典型代表。
 

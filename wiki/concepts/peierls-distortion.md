@@ -3,8 +3,8 @@ tags: [concept]
 title: 'Peierls 畸变 / Peierls Distortion'
 type: concept
 status: developing
-papers: ['chenFerromagneticNonmagnetic1T2022', 'liFerroelasticityDomainPhysics2016', 'pedramraziManipulatingTopologicalDomain2019', 'xuTwodimensionalFerroelasticityVan2021', 'krishnamurthiSpinChargeDensity2020', 'tahirFerroelectricityNonvolatileMemristor2025']
-updated: 2026-08-18
+papers: ['chenFerromagneticNonmagnetic1T2022', 'liFerroelasticityDomainPhysics2016', 'pedramraziManipulatingTopologicalDomain2019', 'xuTwodimensionalFerroelasticityVan2021', 'krishnamurthiSpinChargeDensity2020']
+updated: 2026-08
 ---
 
 # Peierls 畸变 / Peierls Distortion
@@ -31,18 +31,14 @@ Peierls 畸变不仅是电子相变，还赋予材料**铁弹性**：畸变可�
 
 Peierls 型晶格极化还可表现为纯电子型不稳定性：TMD 镜像孪晶界的金属性源于 D₃ₕ 晶格极化这一 Z₃ 拓扑不变量在边界处的反转，导致边界态 1/3 分数占据，自发形成无需原子位移的三重周期自旋/电荷密度波（SDW/CDW）（[[../papers/krishnamurthiSpinChargeDensity2020|Krishnamurthi 2020]]，见 [[../concepts/spin-density-wave|自旋密度波]]）。
 
-## 💾 器件应用
-
-Peierls 畸变相关的铁弹/铁电序可直接服务于器件：自支撑 Nb₂CTₓ MXene 薄膜中观测到铁电性（Pr=5.12 μC/cm²），其氧空位与结构畸变构成非易失忆阻器的开关机制（[[../papers/tahirFerroelectricityNonvolatileMemristor2025|Tahir 2025]]）。
-
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/liFerroelasticityDomainPhysics2016]] — Ferroelasticity and domain physics in two-dimensional transition metal dichalcogenide monolayers
-- [[../papers/pedramraziManipulatingTopologicalDomain2019]] — Manipulating Topological Domain Boundaries in the Single-Layer Quantum Spin Hall Insulator 1T′–WSe₂
-- [[../papers/xuTwodimensionalFerroelasticityVan2021]] — Two-dimensional ferroelasticity in van der Waals β'-In2Se3
-- [[../papers/chenFerromagneticNonmagnetic1T2022]] — Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides
-- [[../papers/krishnamurthiSpinChargeDensity2020]] — Spin/charge density waves at the boundaries of transition metal dichalcogenides
-- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]] — Ferroelectricity and Nonvolatile Memristor Applications of Free‐Standing 2D Niobium Carbide
+- [[../papers/chenFerromagneticNonmagnetic1T2022]]：把 MnX₂ 中的**金属-金属二聚化**（即 Peierls 型畸变）与 CrX₂/VTe₂ 的交换机制并列为 1T′ CDW 态的两条形成路径，并给出结构畸变指数 d₁/d₂ 定量区分二者——本页机制的直接判据来源。
+- [[../papers/liFerroelasticityDomainPhysics2016]]：给出 1T′-TMD（二聚化产物相）三个取向变体 O1/O2/O3 的能量学：变体切换势垒 <0.2 eV/f.u.，沿金属原子链方向单轴拉伸即可切换，变体间形成稳定的准一维畴壁——说明二聚化方向是可被应变选择的自由度。
+- [[../papers/pedramraziManipulatingTopologicalDomain2019]]：用 STM 针尖脉冲在单层 1T′-WSe₂ 中可逆创建 1T′/1T′ 畴界（二聚化取向不同所致），并证明该畴界上的一维电子态**不受拓扑保护**、谱学特征与 1T′/1H 及 1T′/真空边缘态本质不同。
+- [[../papers/krishnamurthiSpinChargeDensity2020]]：提供关键**反例对照**——TMD 镜像孪晶界的 1/3 填充一维金属态在电子关联 U 下形成周期三倍的 SDW/CDW 共存态并开 ~0.1 eV 能隙，但该过程**无需原子位移**，即关联驱动而非声子驱动，界定了 Peierls 图像的适用边界。
+- [[../papers/xuTwodimensionalFerroelasticityVan2021]]：作为非二聚化型对照——β′-In₂Se₃ 的约 0.49% 自发应变源于反铁电畸变而非金属链二聚化，同样产生三种取向变体与可逆畴切换（≤0.5% 应变下经畴壁传播与成核）。
+
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
@@ -54,4 +50,3 @@ Peierls 畸变相关的铁弹/铁电序可直接服务于器件：自支撑 Nb�
 - [[../concepts/trimerization|三聚化]]：三分之周期畸变的另一类电子-晶格不稳定性。
 - [[../entities/WTe2|WTe₂]]：1T′ 相 Peierls 畸变与拓扑性质的代表体系。
 - [[../entities/In2Se3|In₂Se₃]]：范德华铁弹性与畸变耦合的典型材料。
-*（内容由AI生成，仅供参考）*

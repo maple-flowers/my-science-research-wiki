@@ -1,50 +1,60 @@
 ---
-tags: [concept, 2D-materials, charge-density-wave, strain-engineering, bec-bcs-crossover, two-gap-superconductivity, pressure-tuning, multiband-superconductivity]
+tags: [concept, superconductivity, superfluid-density, muon-spin-rotation]
 title: uemura-relation
 type: concept
 status: developing
 year: 2025
 papers: [Islam2025enhancement, majumdarInterplayChargeDensity2020]
-updated: 2026-08-18
+updated: 2026-08-21
 ---
 
 # uemura-relation
 
-本文档围绕 **uemura-relation** 汇集 2 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
+**Uemura 关系（Uemura relation / Uemura plot）** 指非常规超导体中转变温度 T_c 与**超流密度** n_s/m\* 之间的近线性标度关系。它最初在欠掺杂铜氧化物中发现，其物理含义是：**T_c 不由配对强度决定，而由超流密度（或费米温度 T_F）决定**——这是玻色—爱因斯坦凝聚（BEC）一侧的图像，与 BCS 图像相反。
+
+⚠️ 本库中两篇论文对同一类材料（层状 TMD）是否遵循该关系给出了**相反结论**，见下方对峙。
 
 ## 👵 太奶导读
 
-乖孙，这一条讲的是「uemura-relation」，由多篇论文的证据共同支撑。
-一句话记住它的发现：在2 GPa压力下，4H-NbSe₂的超流密度增强75%，显著高于2H-NbSe₂的32%，而两者的CDW都被抑制约20%。
+乖孙，超导为什么会在某个温度出现？两种说法。
 
-## 🧩 核心内容与机制 (Core Content)
+**BCS 的说法**：电子两两配成对，配对的「胶水」有多结实，决定了温度多高。所以关键是**配对强度**。按这套说法，T_c 跟「有多少电子参与超导」关系不大。
 
-- **研究背景**：在TMDs如(4H/2H)-NbSe₂中，CDW与超导电性共存并存在竞争关系，但两者之间复杂的相互作用仍未被完全理解。静水压力是调控这些竞争序的有效手段。先前研究发现2H-NbSe₂中压力对超流密度有显著影响，并呈现非常规的Tc-nₛ/m*关系，因此有必要将该研究扩展到其他TMD家族成员，以揭示其普遍规律。
-- **核心问题**：作者旨在探究静水压力如何影响具有CDW的4H-NbSe₂和不具有CDW的2H-NbS₂的超导态，特别是超流密度。核心问题是：压力诱导的超流密度增强是否仅仅源于CDW序的抑制？还是存在更复杂的、独立于CDW的物理机制？作者意图通过对比有/无CDW的体系来厘清这一关键问题。
-- **主要结论**：1. 在2 GPa压力下，4H-NbSe₂的超流密度增强75%，显著高于2H-NbSe₂的32%，而两者的CDW都被抑制约20%。2. 无CDW的2H-NbS₂在1.8 GPa压力下也表现出20%的超流密度增强。3. 所有被研究TMDs的超导能隙在不同压力下基本保持不变。4. 这些TMDs的Tc与nₛ/m*之间的关系呈现出与铜氧化物、铁基超导体等非常规超导体类似的Uemura标度律，表明其超导态可能由BEC-BCS渡越的物理图像描述。；1. 在2H-NbSe₂中，CDW与SC是竞争关系，压力可抑制CDW并显著增强SC。2. 两者均具有双s波超导能隙，且大能隙表现出强耦合特征，CDW不影响该基本能隙结构。3. NbS₂的上临界场由泡利顺磁效应主导，而NbSe₂则表现出多带效应。4. 两者均偏离Uemura关系，且费米面嵌套不是CDW的主因。
-- **领域贡献**：提供了TMDs中压力增强超导与CDW序非简单竞争的直接实验证据，修正了领域内的传统认知。通过μSR首次在TMD体系中系统建立了压力下的超流密度演化规律，并揭示了其与高温超导家族共有的非常规Uemura标度关系，为统一理解非常规超导机制提供了重要的实验约束。；澄清了长期存在的争议，确立了CDW与SC的竞争关系以及双能隙s波超导态的图像，指出了不同体系中配对破坏机制的本质区别，并为该体系的超导机理研究提供了新的约束和出发点。
-- **研究意义**：1. 挑战了“CDW与超导简单竞争”的传统图像，证明压力对超导电性的增强存在独立于CDW之外的机制。2. 将TMDs这一大类材料纳入了以铜氧化物为代表的非常规超导体的普适标度律（Uemura关系）中，为寻找不同超导体系间的共性物理机制提供了关键线索。3. 为通过压力、堆垛工程等手段调控TMDs的超导性质提供了新思路。
+**Uemura 的说法**：不对。配对可能早就形成了，只是这些对子一开始各自为政、没有步调一致。真正决定 T_c 的是**这些对子什么时候开始齐步走**——而这取决于对子的密度（超流密度）。密度低，就得等到更低的温度才能齐步。
+
+Uemura 把一大堆超导体画在一张图上（横轴超流密度、纵轴 T_c），发现铜氧化物、铁基这些非常规超导体**排成一条斜线**。这条斜线就是 Uemura 关系，落在线上通常被当作「这材料属于非常规超导、偏 BEC 一侧」的证据。
+
+**太奶要你留个心眼**：一个数据点落在线上，不等于机理相同。本库里两篇论文测的都是层状 TMD 超导体，一篇说「落在线上」、另一篇说「明显偏离」——同一类材料给出相反答案。所以这条关系是**归类的线索，不是判决书**。
+
+记一句话：**Uemura 关系 = T_c 随超流密度线性走；落在线上提示 T_c 由超流密度而非配对强度决定（BEC 一侧）；但落线与否本身不构成机理证明。**
+
+## 🧩 关系内容与判读
+
+- **坐标**：横轴为超流密度 n_s/m\*（实验上常取 λ_ab⁻²(0)，即伦敦穿透深度平方的倒数），纵轴为 T_c。
+- **对照基准**：BCS 理论预期 T_c 与 n_s/m\* 关系很弱（图上近水平）；Uemura 关系是一条**正斜率直线**。
+- **落在线上的解读**：T_c 由超流密度（或 T_F）而非配对强度决定，体系偏向 BEC 极限。
+- **测量手段**：伦敦穿透深度的温度依赖（μSR、磁化率、比热等），同一套数据也常用来判断配对对称性（如排除 d 波）。
+
+### ⚔️ 本库中的一处直接对峙
+
+| 论文 | 体系 | 结论 | 附带判断 |
+|---|---|---|---|
+| [[../papers/Islam2025enhancement\|Islam2025]] | 多种层状 TMD | **遵循** Uemura 标度，斜率与最优掺杂铜氧化物、铁基超导体相近，强烈偏离 BCS 预期 | 据此把 TMD 纳入非常规超导版图 |
+| [[../papers/majumdarInterplayChargeDensity2020\|majumdar2020]] | NbSe₂、NbS₂（含高压） | **显著偏离** Uemura 普适关系 | 认为二者自成一类，既非传统亦非典型非常规 |
+
+⚠️ **这不是可以随手调和的分歧**，但有一条线索：Islam2025 自陈 TMD 的 **T_c/T_F 比值远小于铜氧化物**，即它们其实更靠近 BCS 一侧而非 BEC 一侧。也就是说「斜率相近」与「处于同一物理区间」是两回事——落在一条斜线上可能只反映标度形式相同，不保证机理相同。本库材料不足以裁决二者，此处仅并列记录。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/Islam2025enhancement]]：提供了TMDs中压力增强超导与CDW序非简单竞争的直接实验证据，修正了领域内的传统认知。
-- [[../papers/majumdarInterplayChargeDensity2020]]：澄清了长期存在的争议，确立了CDW与SC的竞争关系以及双能隙s波超导态的图像，指出了不同体系中配对破坏机制的本质区别，并为该体系的超导机理研究提供了新的约束和出发点。
+- [[../papers/Islam2025enhancement]]：本页「遵循」一侧的来源。该文把多种层状 TMD 的 T_c 与 n_s/m\* 画在一起，发现数据点落在一条正斜率直线上、强烈偏离 BCS 预期，且斜率与最优掺杂铜氧化物及铁基超导体相近，据此把 TMD 纳入 Uemura 图景与非常规超导体版图。其可贵之处在于同时**自陈了这一推论的边界**——TMD 的 T_c/T_F 远小于铜氧化物，更接近 BCS 一侧，因此「落在线上」不等于处在 BEC 极限。
+- [[../papers/majumdarInterplayChargeDensity2020]]：本页「偏离」一侧的来源。该文以磁光成像、比热、磁化率、电阻率与伦敦穿透深度的组合测量研究 NbSe₂ 与 NbS₂（含高压），发现两者都**显著偏离** Uemura 线性普适关系，认为它们属于既非传统也非典型非常规的独特类别；同一批数据还用于排除 d 波配对，并支持「费米面嵌套并非 CDW 主要成因」这一判断。
 
 ## 🔗 关联概念与实体 (Related)
 
-- [[../concepts/charge-density-wave|charge-density-wave]]
-- [[../concepts/strain-engineering|strain-engineering]]
-- [[../concepts/bec-bcs-crossover|bec-bcs-crossover]]
-- [[../concepts/two-gap-superconductivity|two-gap-superconductivity]]
 - [[../concepts/superfluid-density|superfluid-density]]
-- [[../concepts/electron-phonon-coupling|electron-phonon-coupling]]
-- [[../entities/muon-spin-rotation|muon-spin-rotation]]
-- [[../entities/NbS2|NbS2]]
-- [[../entities/NbSe2|NbSe2]]
-- [[../entities/TMDs|TMDs]]
-- [[../concepts/pressure-tuning|pressure-tuning]]
-- [[../concepts/multiband-superconductivity|multiband-superconductivity]]
-- [[../concepts/werthamer-helfand-hohenberg-model|werthamer-helfand-hohenberg-model]]
-- [[../concepts/andreev-reflection|andreev-reflection]]
+- [[../concepts/superconductivity|superconductivity]]
 - [[../concepts/london-penetration-depth|london-penetration-depth]]
-- [[../concepts/pauli-paramagnetic-effect|pauli-paramagnetic-effect]]
+- [[../concepts/bec-bcs-crossover|bec-bcs-crossover]]
+- [[../concepts/charge-density-wave|charge-density-wave]]
+- [[../concepts/fermi-surface-nesting|fermi-surface-nesting]]
+- [[../entities/NbSe2|NbSe2]]

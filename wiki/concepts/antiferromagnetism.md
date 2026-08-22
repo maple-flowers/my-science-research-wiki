@@ -5,14 +5,6 @@ type: concept
 status: developing
 papers: ['vanvleckSurveyTheoryFerromagnetism1945', 'rameshMultiferroicsProgressProspects2007', 'Goswami2011multiferroic', 'Kim2008effect', 'Kang2012dimer', 'petkovStructureIntercalatedCs2002']
 updated: 2026-08-18
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_3a5e801b9a7b11f19467525400287e28
-    ReservedCode1: gOIygbVYpjjEs6k6ASjKGdOyaEBa0+U8iz9988j/UvR73SimaEvmZOHlDZtR/JgdE21e+DV7fsbnqMrIDYhkHsfIkN8SDotvGO0ycfVN0BtzPPWBWWev1YnmtASmVrhZTaJUY1ou/zjqcex53xIkLyyuNtN0FVncStHxbtv1PjM4IkmvE4arj9XbEDg=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_3a5e801b9a7b11f19467525400287e28
-    ReservedCode2: gOIygbVYpjjEs6k6ASjKGdOyaEBa0+U8iz9988j/UvR73SimaEvmZOHlDZtR/JgdE21e+DV7fsbnqMrIDYhkHsfIkN8SDotvGO0ycfVN0BtzPPWBWWev1YnmtASmVrhZTaJUY1ou/zjqcex53xIkLyyuNtN0FVncStHxbtv1PjM4IkmvE4arj9XbEDg=
 ---
 
 
@@ -83,4 +75,3 @@ Goswami 等（[[../papers/Goswami2011multiferroic]]）进一步在约 22 nm 的 
 - [[../entities/MnO|MnO]]：经典反铁磁体，交错子晶格理论的原型检验对象。
 - [[../entities/BiFeO3|BiFeO₃]]：室温反铁磁-铁电多铁的典型代表。
 - [[../entities/Cr2O3|Cr₂O₃]]：另一种经典反铁磁体。
-*（内容由AI生成，仅供参考）*

@@ -1,13 +1,14 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_d0f8a8679bb811f1a98a525400f8a581
-    ReservedCode1: hL1ZqqG9HH+X4wf7VE1pwzjSXqFsT1bpnJaGz2VDkKGAbJZzRAS8RDmbfayKO/P1O4K3p2dM1qB2a3BfeK1JUcW7QV8JDwySdh5nlfLecbPh6ZsjBzP//VYFiuCE9VVVEJ1iAg8X8FGkVX+dvM5WcsKB8Sjb7/1VX+zyz6s7s2AjheHJUDiM0fUQCNs=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_d0f8a8679bb811f1a98a525400f8a581
-    ReservedCode2: hL1ZqqG9HH+X4wf7VE1pwzjSXqFsT1bpnJaGz2VDkKGAbJZzRAS8RDmbfayKO/P1O4K3p2dM1qB2a3BfeK1JUcW7QV8JDwySdh5nlfLecbPh6ZsjBzP//VYFiuCE9VVVEJ1iAg8X8FGkVX+dvM5WcsKB8Sjb7/1VX+zyz6s7s2AjheHJUDiM0fUQCNs=
+tags: [concept, ferroelectric, 2D, stacking, sliding-ferroelectricity]
+title: 滑动铁电性 / Sliding Ferroelectricity
+type: concept
 status: mature
+domain: [ferroelectricity, 2d-materials, stacking-engineering]
+mechanism: "范德华层间侧向滑移改变堆垛构型、破缺空间反演对称性，通过层间电荷转移与轨道畸变感生面外极化；属纯电子起源，而非单胞内离子位移"
+related_concepts: [dipole-locking, moire-superlattice, interlayer-polarization-coupling, stacking-engineered-ferroelectricity, depolarization-field]
+related_entities: [In2Se3, HgI2, ReS2, WTe2]
+papers: [wuSlidingFerroelectricity2D2021a, huangTwodimensionalIn2Se3Rising2022, feiFerroelectricSwitchingTwodimensional2018a, sunSlidingFerroelectricityTwodimensional2025, kaurRecentAdvancesTheoretical2025a, chenStrongSlidingFerroelectricity2024, FerroelectricityMultiferroicityAtomic2023, RecentAdvancesGrowth2025, bhowalPolarMetalsPrinciples2023b, guanRecentProgressTwoDimensional2020, guoAdvancesTwodimensionalFerroelectric2025, hanTunableSlidingFerroelectricity2025, heSwitchingTwodimensionalSliding2025, heUltrafastSwitchingDynamics2024, huProgressProspectsLowdimensional2019, huangPolarPhaseDomain2019, kimObservationPhaseTransition1997, liPhaseTransitions2D2021, miaoMagneticFerroelectricMetal2024, neumayerCompetingPolarPhases2025, shenEmergenceMultipleFerroelectric2025, tangCombiningIntrinsicSlidinginduced2025, tangMultiferroicityTwodimensionalVan2025, tianRoomtemperatureTwodimensionalMultiferroic2026, xunCoexistingMagnetismFerroelectric2024, zhangEmergingFrontiersTwodimensional2025, zhaoOpticalFingerprintsTwodimensional2024]
+updated: 2026-08
 ---
 
 
@@ -99,7 +100,6 @@ status: mature
 - [[../papers/huangPolarPhaseDomain2019]]：从实验研究角度梳理了「Polar and phase domain walls with conducting interfacial states in a Weyl semimetal MoTe2」。
 - [[../papers/kimObservationPhaseTransition1997]]：从实验研究角度梳理了 h-BN 相关的堆垛与相变观测背景。
 - [[../papers/liPhaseTransitions2D2021]]：从综述角度梳理了「二维材料中包括滑动铁电在内的多自由度相变」。
-- [[../papers/martinThinfilmFerroelectricMaterials2016]]：从综述角度梳理了「Thin-Film Ferroelectric Materials and Their Applications」。
 - [[../papers/miaoMagneticFerroelectricMetal2024]]：从理论分析角度梳理了「Magnetic ferroelectric metal in bilayer Fe3GeTe2 under interlayer sliding」。
 - [[../papers/neumayerCompetingPolarPhases2025]]：从综述角度梳理了「二维铁电过渡金属硫代和硒酸盐中的竞争极性相」。
 - [[../papers/shenEmergenceMultipleFerroelectric2025]]：从实验研究角度梳理了「多层黑磷中多铁电态的出现」。
@@ -109,6 +109,12 @@ status: mature
 - [[../papers/xunCoexistingMagnetismFerroelectric2024]]：从实验研究角度梳理了「Coexisting magnetism and ferroelectricity」相关体系。
 - [[../papers/zhangEmergingFrontiersTwodimensional2025]]：从综述角度梳理了「二维滑动铁电体的新兴前沿」。
 - [[../papers/zhaoOpticalFingerprintsTwodimensional2024]]：从实验研究角度梳理了二维铁电体的光学指纹表征。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `martinThinfilmFerroelectricMaterials2016`：原文笔记中无 sliding/滑移相关内容。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
@@ -121,4 +127,3 @@ status: mature
 - [[../entities/HgI2|HgI2]]
 - [[../entities/ReS2|ReS2]]
 - [[../entities/WTe2|WTe2]]
-*（内容由AI生成，仅供参考）*

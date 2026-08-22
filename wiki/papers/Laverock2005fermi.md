@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Laverock2005fermi]]
 projects: [project-7]
-concepts: [charge-density-wave, fermi-surface-nesting, bilayer-splitting, generalized-susceptibility, brillouin-zone, electronic-band-structure, 2d-materials, fermi-surfaces, commensurate-incommensurate]
+concepts: [charge-density-wave, fermi-surface-nesting, bilayer-splitting, generalized-susceptibility, brillouin-zone, band-structure, 2d-materials, fermi-surfaces, commensurate-incommensurate]
 entities: [2d-acar, GdTe3, LuTe2, LuTe3, RTe3]
 methods: [lmto, dft, first-principles, 2d-acar, positron-annihilation, arpes, lcw-folding, maximum-entropy-deconvolution]
 materials: [GdTe3, LuTe3, LuTe2, RTe3]

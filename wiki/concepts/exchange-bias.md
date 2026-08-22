@@ -2,7 +2,7 @@
 tags: [concept, magnetism]
 title: 交换偏置 / Exchange Bias
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, magnetism]
 mechanism: 铁磁/反铁磁界面处的交换相互作用导致磁滞回线发生水平漂移
 related_concepts: [magnetoelectric-coupling, multiferroicity, neel-temperature, Curie-temperature]
@@ -11,6 +11,11 @@ papers: [rameshMultiferroicsProgressProspects2007, fiebigEvolutionMultiferroics2
 ---
 
 # 交换偏置 / Exchange Bias
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 交换偏置 (Exchange Bias) 是一种界面磁现象，通常发生在铁磁 (FM) 层与反铁磁 (AFM) 层接触的界面处。表现为铁磁层的磁滞回线沿磁场轴发生水平偏移，并伴随矫顽力的增加。它是现代读写磁头中磁锚定的核心技术。
 ## 👵 太奶导读
 乖孙，这“交换偏置”就像是给一群不听话的小人儿找了个“严厉的班主任”。

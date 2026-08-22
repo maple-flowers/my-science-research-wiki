@@ -2,7 +2,7 @@
 tags: [concept, nonlinear-optics, spectroscopy]
 title: 二次谐波产生 / Second-Harmonic Generation (SHG)
 type: concept
-status: mature
+status: developing
 domain: [nonlinear-optics, solid-state-physics, materials-characterization]
 mechanism: 两个频率为 ω 的光子在非中心对称介质中相互作用，产生一个频率为 2ω 的光子
 related_concepts: [inversion-symmetry-breaking, two-photon-absorption, nonlinear-susceptibility, sliding-ferroelectricity]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 二次谐波产生 / Second-Harmonic Generation (SHG)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 二次谐波产生（Second-Harmonic Generation, SHG）是一种非线性光学过程。在这种过程中，两个频率相同的光子与非线性材料相互作用，并结合成一个新的光子，其能量（频率）是原始光子的两倍，波长则是原始光子的一半。
 

@@ -2,7 +2,7 @@
 tags: [entity, material, 2D, magnetism]
 title: 三碘化铬 (CrI₃)
 type: entity
-status: mature
+status: developing
 category: [D01]
 formula: CrI3
 stoichiometry: Monolayer / Bilayer
@@ -14,6 +14,11 @@ updated: 2026-08
 ---
 
 # 三碘化铬 (CrI₃)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 三碘化铬 (CrI₃) 是一种具有里程碑意义的二维范德华材料。2017 年，科学家首次在单层 CrI₃ 中证实了长程铁磁序的存在，打破了 Mermin-Wagner 定理在二维各向同性体系中的限制。CrI₃ 具有显著的层数依赖磁性：单层为铁磁性，双层表现为反铁磁性。
 ## 👵 太奶导读
 乖孙，这“三碘化铬”可是材料界的“大明星”。

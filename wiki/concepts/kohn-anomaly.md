@@ -2,7 +2,7 @@
 tags: [concept, phonon, charge-density-wave]
 title: Kohn 异常 / Kohn Anomaly
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, lattice-dynamics]
 mechanism: 由于费米面嵌套导致的电子屏蔽效应在特定波矢 q 处的剧烈变化，引起声子频率的陡降
 related_concepts: [charge-density-wave, fermi-surface-nesting, peierls-instability, periodic-lattice-distortion]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # Kohn 异常 / Kohn Anomaly
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 Kohn 异常是指在金属中，声子谱（**phonon spectrum**）的某些支在对应于费米面直径（嵌套矢量 $q=2k_F$）的特定动量处，出现的频率陡降或奇异点现象。它是电子-声子相互作用对晶格动力学影响的直接体现，通常被视为电荷密度波 (CDW) 不稳定性的先兆。
 

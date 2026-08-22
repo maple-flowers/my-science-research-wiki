@@ -2,12 +2,17 @@
 tags: [concept]
 title: 'ferroelectricity'
 type: concept
-status: mature
+status: developing
 papers: ['FerroelectricityMultiferroicityAtomic2023', 'Perugu2024morphology', 'RecentAdvancesGrowth2025', 'aminiAtomicscaleVisualizationMultiferroicity2024', 'chenHafniumBasedFerroelectricPostMoore2026', 'chenStrongSlidingFerroelectricity2024', 'cheongMultiferroicsMagneticTwist2007a', 'cuiIntercorrelatedInplaneOutofplane2018a', 'dingPredictionIntrinsicTwodimensional2017a', 'feiFerroelectricSwitchingTwodimensional2018a', 'fiebigEvolutionMultiferroics2016', 'gongAbsenceCriticalThickness2023', 'guanRecentProgressTwoDimensional2020', 'guoAdvancesTwodimensionalFerroelectric2025', 'hillWhyAreThere2000a', 'huProgressProspectsLowdimensional2019', 'huangPolarPhaseDomain2019', 'huangTwodimensionalIn2Se3Rising2022', 'junqueraCriticalThicknessFerroelectricity2003', 'kaurRecentAdvancesTheoretical2025a', 'king-smithTheoryPolarizationCrystalline1993', 'miaoMagneticFerroelectricMetal2024', 'nahasFrustrationSelfOrderingTopological2016', 'rameshMultiferroicsProgressProspects2007', 'sattarFunctionalizedDoubleTransition2025', 'sharmaRoomtemperatureFerroelectricSemimetal2019', 'shenEmergenceMultipleFerroelectric2025', 'spaldinAdvancesMagnetoelectricMultiferroics2019', 'sunSlidingFerroelectricityTwodimensional2025', 'tahirFerroelectricityNonvolatileMemristor2025', 'tangMultiferroicityTwodimensionalVan2025', 'tianRoomtemperatureTwodimensionalMultiferroic2026', 'wuCoexistenceFerroelectricityAntiferroelectricity2024', 'wuSlidingFerroelectricity2D2021a', 'xiangTwodimensionalRoomTemperature2020', 'xuTwodimensionalFerroelasticityVan2021', 'xunCoexistingMagnetismFerroelectric2024', 'yuFerroelectricControlMagnetism2026', 'zahraCriticalAnalysisFerroelectric2025']
 updated: 2026-08-18
 ---
 
 # ferroelectricity
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 铁电性（ferroelectricity）指材料在某一温度范围内存在**自发极化**，且该极化方向可被外加电场翻转的性质。它源于晶体中正负电荷中心的不重合（极性空间群），与压电性、热释电性同属极性晶体家族；当铁电转变温度以下极化呈现滞回行为时，材料可作为非易失存储与逻辑器件的基础。
 

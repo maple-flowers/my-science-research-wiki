@@ -6,7 +6,7 @@ status: mature
 domain: [photophysics, molecular-spectroscopy, sensing]
 mechanism: 分子发光强度随微环境极性增加、非辐射通道开启或能量转移而大幅下降的现象
 related_concepts: [fluorescence-quantum-yield, tict-mechanism, charge-transfer, exciplex, solvatochromism]
-papers: [Huang2023two, Huang2019solvatochromic, H2017fluorescence]
+papers: [Huang2019solvatochromic, H2017fluorescence]
 updated: 2026-08
 ---
 
@@ -94,9 +94,14 @@ $$ \frac{F_0}{F} = 1 + K_{SV}[Q] = 1 + k_q \tau_0 [Q], \qquad \frac{\tau_0}{\tau
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/Huang2023two]]：给出探针 1a 在 10 种溶剂中的量子产率，定量展示极性诱导 TICT 对荧光的压制。
 - [[../papers/Huang2019solvatochromic]]：通过溶剂极性与粘度对照，说明极性猝灭与粘度"冻结"旋转的竞争关系。
 - [[../papers/H2017fluorescence]]：结合单/双光子激发与浓度依赖实验，区分分子内（TICT）与分子间（Exciplex）猝灭/发射通道。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `Huang2023two`：原文笔记中无 quenching/猝灭相关内容。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

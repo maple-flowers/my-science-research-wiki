@@ -11,8 +11,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Yarai2005optical]]
 projects: [project-6]
-concepts: [thermal-lens-effect, photothermal-effect, pump-probe-technique, optical-fiber-sensing, refractive-index, optical-coupling-efficiency, absolute-humidity, relative-humidity, temperature-compensation, lock-in-detection]
-entities: [spherical-lensed-fiber, laser-diode, super-luminescence-diode, lock-in-amplifier, si-photodiode, optical-interference-filter, fiber-coupler, thermo-electric-cooler]
+concepts: [thermal-lens-effect, photothermal-effect, optical-fiber-sensing, refractive-index, optical-coupling-efficiency, absolute-humidity, relative-humidity, temperature-compensation, lock-in-detection]
+entities: [spherical-lensed-fiber, laser-diode, super-luminescence-diode, lock-in-amplifier, si-photodiode, optical-interference-filter, fiber-coupler, thermo-electric-cooler, pump-probe]
 methods: [thermal-lens-spectroscopy, pump-probe-spectroscopy, lock-in-detection, optical-absorption-spectroscopy, fiber-optic-sensing]
 materials: [silica-optical-fiber, water-vapor]
 figures: [electronic-devices-sensors, experimental-setups]

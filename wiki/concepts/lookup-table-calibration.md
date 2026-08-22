@@ -2,13 +2,18 @@
 tags: [concept, evanescent-field, refractive-index, relative-humidity, optical-power-variation, cross-sensitivity, 2d-materials, strain-engineering, topological-defects, berry-phase, density-functional-theory]
 title: lookup-table-calibration
 type: concept
-status: developing
+status: stub
 year: 2013
 papers: [XiaokangZhang2013calibrating, xuTunableFerroelectricTopological2022]
 updated: 2026-08-18
 ---
 
 # lookup-table-calibration
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 本文档围绕 **lookup-table-calibration** 汇集 2 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
 

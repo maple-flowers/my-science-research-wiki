@@ -2,13 +2,18 @@
 tags: [entity, 2D-materials, berry-phase, density-functional-theory, ferroelasticity, magnetoelectric-coupling]
 title: C2DB
 type: entity
-status: developing
+status: stub
 year: 2020
 papers: [fengFerroelectricityMultiferroicityTwodimensional2020]
 updated: 2026-08-18
 ---
 
 # C2DB
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 根据第一性原理计算，铁电材料Sc2P2东南欧6单分子膜与多铁性材料ScCrP2东南欧6预测了具有可调铁电性和磁性的单分子膜。
 

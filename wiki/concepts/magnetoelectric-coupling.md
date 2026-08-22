@@ -2,7 +2,7 @@
 tags: [concept, multiferroics, spintronics]
 title: 磁电耦合 / Magnetoelectric Coupling
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, multiferroics, spintronics]
 mechanism: 电场调控磁性（逆磁电效应）或磁场调控极化（直接磁电效应）的现象
 related_concepts: [multiferroicity, ferroelectricity, spin-orbit-coupling, rashba-effect, exchange-bias]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 磁电耦合 / Magnetoelectric Coupling
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 磁电耦合 (Magnetoelectric Coupling, ME) 是指材料的电学序参量（如电极化 $P$）与磁学序参量（如磁化强度 $M$）之间相互感应、相互调控的物理现象。它分为直接磁电效应（磁场诱导极化）和逆磁电效应（电场诱导磁化）。在现代信息技术中，利用逆磁电效应实现超低功耗的电控磁存储和逻辑器件是该领域的核心驱动力。
 

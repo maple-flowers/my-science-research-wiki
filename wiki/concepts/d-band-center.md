@@ -10,6 +10,11 @@ updated: 2026-08-18
 
 # d-band-center
 
+> [!warning] 本页内容待重写（太奶导读部分）
+> 本页「太奶导读」为自动生成的占位内容，描述的是某篇论文的研究对象而非本条目本身，待按真实概念重写。
+> 正文其余部分与贡献句已核，可参考。（标记于 2026-08-21）
+
+
 本文档围绕 **d-band-center** 汇集 2 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
 
 ## 👵 太奶导读
@@ -37,7 +42,7 @@ updated: 2026-08-18
 - [[../concepts/density-functional-theory|density-functional-theory]]
 - [[../concepts/bond-density|bond-density]]
 - [[../concepts/binding-strength|binding-strength]]
-- [[../concepts/p-d-hybridization|p-d-hybridization]]
+- [[../concepts/d-p-hybridization|d-p 杂化]]
 - [[../concepts/charge-transfer-descriptor|charge-transfer-descriptor]]
 - [[../concepts/mechanical-anisotropy|mechanical-anisotropy]]
 - [[../concepts/stress-strain-relation|stress-strain-relation]]

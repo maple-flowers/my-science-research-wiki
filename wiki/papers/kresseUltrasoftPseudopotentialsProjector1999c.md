@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/kresseUltrasoftPseudopotentialsProjector1999c]]
 projects: []
-concepts: [density-functional-theory, norm-conserving-pseudopotential, projector-augmented-wave, frozen-core-approximation, augmentation-charge, ghost-states, flapw, nonlinear-core-correction, ultrasoft-pseudopotential, compensation-charge]
+concepts: [density-functional-theory, norm-conserving-pseudopotential, paw-method, frozen-core-approximation, augmentation-charge, ghost-states, flapw, nonlinear-core-correction, ultrasoft-pseudopotential, compensation-charge]
 entities: [VASP]
 methods: [dft]
 materials: []

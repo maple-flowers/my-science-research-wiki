@@ -58,4 +58,3 @@ CDW-莫特相位于"晶格序"与"关联序"两个物理世界的交汇点。纯
 - [[../concepts/2d-materials|二维材料]]：CDW-Mott 协同的载体。
 - [[../concepts/spin-charge-density-wave|自旋-电荷密度波]]：电荷与自旋调制共存图像。
 - [[../entities/TaSe2|TaSe₂]]：CDW 研究典型体系。
-*（内容由AI生成，仅供参考）*

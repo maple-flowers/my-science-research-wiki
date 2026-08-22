@@ -2,7 +2,7 @@
 tags: [concept, magnetism, spintronics, multiferroicity]
 title: 螺旋磁序 / Helical Magnetism
 type: concept
-status: mature
+status: developing
 year: 2024
 domain: [magnetism, spintronics, quantum-materials]
 mechanism: 磁矩沿空间呈螺旋状旋转排列，波矢 q 由 DMI（反对称交换）与竞争交换作用之比决定；螺旋磁序可打破空间反演对称诱导铁电极化（自旋驱动多铁）
@@ -12,6 +12,11 @@ updated: 2026-08-20
 ---
 
 # 螺旋磁序 / Helical Magnetism
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 螺旋磁序（helical magnetism）指磁性材料中**磁矩沿空间呈螺旋状旋转排列**（螺旋周期远大于晶格常数）的非共线磁结构，通常由 Dzyaloshinskii-Moriya 相互作用（DMI）或竞争交换作用（frustration）驱动。螺旋磁序是斯格明子、磁涡旋与多铁磁电耦合的重要母态。
 

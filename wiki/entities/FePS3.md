@@ -2,18 +2,23 @@
 tags: [entity, material, 2D, magnetism]
 title: 硫磷化铁 (FePS₃)
 type: entity
-status: mature
+status: stub
 category: [D01]
 formula: FePS3
 stoichiometry: Monolayer / Bulk
 class: [vdW, antiferromagnet, insulator]
 properties: [antiferromagnetism, Ising-type, perpendicular-magnetic-anisotropy]
 related_entities: [MnPSe3, NiPS3, CrI3]
-papers: [tanRevealingEmergentMagnetic2024, liPhaseTransitions2D2021, mostovoyMultiferroicsDifferentRoutes2024]
+papers: []
 updated: 2026-08
 ---
 
 # 硫磷化铁 (FePS₃)
+
+> [!warning] 参数与引文来源待补
+> 经核对，本页下方原列的部分论文在其原始笔记中**完全未提及本材料**，相应贡献句系无据推测，已于 2026-08-21 撤回（见「已撤回的引文」）。
+> 本页正文与参数表属领域常识性表述，**目前在本库内无一手文献支撑**，数值仅供定位、不可引用。已按 SCHEMA 降级。
+
 
 FePS₃ 是一种具有显著伊辛 (Ising) 行为的二维反铁磁绝缘体。与其同族材料 MnPSe₃（易面型）不同，FePS₃ 的自旋具有强烈的面外取向偏好（垂直易轴）。这种特性使其在单层极限下依然能保持稳健的长程磁有序，是研究二维伊辛物理和相关相变的理想模型。
 
@@ -37,10 +42,15 @@ FePS3 的层状结构由三明治单元堆叠而成：每层内 Fe 原子呈蜂�
 | **磁序特征** | 人字形反铁磁 (Zigzag AFM) | 面内排布呈锯齿状对消 |
 
 ## 📚 相关论文 (Related Papers)
+本库现有文献中**没有一篇实际讨论本材料**，故本节暂无条目。待录入相关论文后补齐。
 
-- [[../papers/tanRevealingEmergentMagnetic2024]]：利用先进磁成像手段观察其反铁磁畴结构。
-- [[../papers/liPhaseTransitions2D2021]]：综述了 FePS₃ 在厚度减薄过程中的磁相变行为。
-- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]：分析了该体系中的手性激磁子行为。
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其原始笔记后确认该文**通篇未提及本材料**，原贡献句为无据推测，现撤回：
+
+- `tanRevealingEmergentMagnetic2024`：原贡献句称「利用先进磁成像手段观察其反铁磁畴结构」，但该文笔记中无 FePS₃ 相关内容。
+- `liPhaseTransitions2D2021`：原贡献句称「综述了 FePS₃ 在厚度减薄过程中的磁相变行为」，但该文笔记中无 FePS₃ 相关内容。
+- `mostovoyMultiferroicsDifferentRoutes2024`：原贡献句称「分析了该体系中的手性激磁子行为」，但该文笔记中无 FePS₃ 相关内容。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

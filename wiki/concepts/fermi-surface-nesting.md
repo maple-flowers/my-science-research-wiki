@@ -2,7 +2,7 @@
 tags: [concept, fermi-surface, charge-density-wave]
 title: 费米面嵌套 / Fermi Surface Nesting
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, charge-density-wave]
 mechanism: 费米面的平行片段通过特定波矢 q 互相平移重合的几何特性
 related_concepts: [charge-density-wave, peierls-instability, lindhard-function, kohn-anomaly]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 费米面嵌套 / Fermi Surface Nesting (FSN)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 费米面嵌套是指在动量空间（$k$-space）中，费米面的两个或多个部分具有相似的形状，并且可以通过一个单一的平移矢量（称为嵌套矢量 $q$）彼此重合的几何属性。它是解释金属体系中电荷密度波 (CDW) 和自旋密度波 (SDW) 不稳定性的传统图像基础。
 

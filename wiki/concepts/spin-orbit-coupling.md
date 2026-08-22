@@ -2,12 +2,17 @@
 tags: [concept]
 title: 'spin-orbit-coupling'
 type: concept
-status: mature
+status: developing
 papers: ['Blessing2026optical', 'Johannes2008fermi', 'Mińkowski2021cation', 'RecentAdvancesGrowth2025', 'Xie2024isostructural', 'aiFerroelectricityCoexistedPorbital2022', 'aminiAtomicscaleVisualizationMultiferroicity2024', 'bhowalPolarMetalsPrinciples2023b', 'caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025', 'chen3dLevelSymmetry2025', 'chenStrongSlidingFerroelectricity2024', 'cheongMultiferroicsMagneticTwist2007a', 'chowdhuryReviewTheoreticalComputational', 'fengFerroelectricityMultiferroicityTwodimensional2020', 'fiebigEvolutionMultiferroics2016', 'gaoGiantChiralMagnetoelectric2024a', 'guanRecentProgressTwoDimensional2020', 'guoAdvancesTwodimensionalFerroelectric2025', 'hallEnvironmentalControlCharge', 'hanTunableSlidingFerroelectricity2025', 'huProgressProspectsLowdimensional2019', 'huangPolarPhaseDomain2019', 'kaurRecentAdvancesTheoretical2025a', 'laiTwodimensionalFerromagnetismDriven2019', 'liMonolayerPuckeredPentagonal2022', 'liPhaseTransitions2D2021', 'liuSpintronicsTwoDimensionalMaterials2020b', 'mostovoyMultiferroicsDifferentRoutes2024', 'niuDirectVisualizationLargeScale2021', 'pedramraziManipulatingTopologicalDomain2019', 'pengStrainEngineering2D2020', 'rameshMultiferroicsProgressProspects2007', 'sharmaRoomtemperatureFerroelectricSemimetal2019', 'songEvidenceSinglelayerVan2022', 'spaldinAdvancesMagnetoelectricMultiferroics2019', 'sunSlidingFerroelectricityTwodimensional2025', 'tangMultiferroicityTwodimensionalVan2025', 'tianRoomtemperatureTwodimensionalMultiferroic2026', 'vanvleckSurveyTheoryFerromagnetism1945', 'wangTunableD0Topological2025b', 'wongEvidenceMetallic1T', 'wuCoexistenceFerroelectricityAntiferroelectricity2024', 'wuElectrostaticGatingIntercalation2022', 'wuNonvolatileSwitchableHalfmetallicity2024', 'wuSlidingFerroelectricity2D2021a', 'xueEmergingNonvolatileMemories2011', 'xunCoexistingMagnetismFerroelectric2024', 'yangStrainEngineeringTwodimensional2021', 'yuFerroelectricControlMagnetism2026', 'zahraCriticalAnalysisFerroelectric2025', 'zhangEmergingFrontiersTwodimensional2025', 'zhangNonvolatileControlTopological2025', 'zhaoOpticalFingerprintsTwodimensional2024', 'zhaoRealization2DMultiferroic2024', 'zhongHighthroughputExfoliationMultiferroic2025']
 updated: 2026-08-18
 ---
 
 # spin-orbit-coupling
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 自旋轨道耦合（spin-orbit coupling, SOC）指**电子自旋与轨道角动量之间的相对论相互作用**，其大小随原子序数 Z⁴ 增大。SOC 是能带自旋劈裂（Rashba/Dresselhaus）、拓扑绝缘体、Weyl 半金属、磁各向异性、Dzyaloshinskii-Moriya 相互作用（DMI）与自旋电子器件的微观根源。
 

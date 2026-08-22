@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/junqueraCriticalThicknessFerroelectricity2003]]
 projects: [project-5]
-concepts: [density-functional-theory, berry-phase, strain-engineering, polarization-switching, ferroelectric-tunnel-junction, critical-thickness, depolarizing-field, screening-length, soft-mode, spontaneous-polarization, ferroelectricity, short-circuit-boundary]
+concepts: [density-functional-theory, berry-phase, strain-engineering, polarization-switching, ferroelectric-tunnel-junction, critical-thickness, depolarization-field, screening-length, soft-mode, spontaneous-polarization, ferroelectricity, short-circuit-boundary]
 entities: [SnTe, SIESTA, BaTiO3, SrRuO3, SrTiO3]
 methods: [dft, lda, berry-phase, numerical-atomic-orbital, supercell, soft-mode-analysis, electrostatic-model]
 materials: [BaTiO3, SrRuO3, SrTiO3]

@@ -72,4 +72,3 @@ updated: 2026-08
 - [[../concepts/quantum-anomalous-hall-effect|量子反常霍尔效应]]（AHE 的无耗散量子化版本）
 - [[../concepts/weyl-semimetal|外尔半金属]]（动量空间贝里曲率单极子体系）
 - [[../entities/Fe3GeTe2|Fe₃GeTe₂]]（展现强 AHE 的明星二维磁性材料）
-*（内容由AI生成，仅供参考）*

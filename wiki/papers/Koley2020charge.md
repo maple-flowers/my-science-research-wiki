@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Koley2020charge]]
 projects: [project-7]
-concepts: [charge-density-wave, superconductivity, 2d-materials, density-functional-theory, strong-coupling, excitonic-condensation, anderson-theorem, fermi-surface-nesting, competing-orders, disorder-engineering, bad-metal, coherence-length, preformed-excitons, exciton-condensation]
+concepts: [charge-density-wave, superconductivity, 2d-materials, density-functional-theory, strong-coupling, exciton-condensation, anderson-theorem, fermi-surface-nesting, competing-orders, disorder-engineering, bad-metal, coherence-length, preformed-excitons]
 entities: [TMDs, TaSe2, TaS2, TiSe2, WIEN2k]
 methods: [bdg, dft, dmft, dft-plus-dmft, monte-carlo, mo-ipt, mean-field]
 materials: [2H-TaSe2, TaSe2-xSx, 2H-TaS2, 1T-TiSe2, 1T-TaS2]

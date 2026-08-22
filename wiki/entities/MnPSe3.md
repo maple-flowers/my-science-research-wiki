@@ -2,18 +2,23 @@
 tags: [entity, material, 2D, magnetism]
 title: 硒磷化锰 (MnPSe₃)
 type: entity
-status: mature
+status: developing
 category: [D01]
 formula: MnPSe3
 stoichiometry: Monolayer / Bulk
 class: [vdW, antiferromagnet, insulator]
 properties: [antiferromagnetism, easy-plane-anisotropy, layer-degree-of-freedom]
 related_entities: [FePS3, NiPS3, CrI3]
-papers: [tanRevealingEmergentMagnetic2024, cheongMultiferroicsMagneticTwist2007a, mostovoyMultiferroicsDifferentRoutes2024, kaurRecentAdvancesTheoretical2025a]
+papers: [kaurRecentAdvancesTheoretical2025a]
 updated: 2026-08
 ---
 
 # 硒磷化锰 (MnPSe₃)
+
+> [!warning] 引文来源已部分撤回
+> 经核对，本页原列的四篇论文中有**三篇在其原始笔记中完全未提及 MnPSe₃**，相应贡献句系无据推测，已于 2026-08-21 撤回（见下）。
+> 下方参数表属领域常识性表述，本库内暂无一手文献支撑，数值仅供定位。
+
 
 MnPSe₃ 属于过渡金属磷硫化物 (MPX₃) 家族，是一种典型的二维反铁磁绝缘体。它具有蜂窝状晶格结构，磁矩倾向于在面内排列（易面各向异性）。由于其极高的结晶质量和丰富的物理特性，它是研究二维极限下反铁磁相变、自旋波拓扑以及多铁耦合的明星材料。
 
@@ -39,11 +44,15 @@ MnPSe3 与 FePS3 同属过渡金属磷硫族化合物家族，层状结构由 Mn
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/tanRevealingEmergentMagnetic2024]]：涉及在该族材料中利用量子磁强计探测反铁磁畴壁。
-- [[../papers/cheongMultiferroicsMagneticTwist2007a]]：讨论了 MPX₃ 家族在磁致铁电中的潜在应用。
-- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]：分析了该类材料的自旋动力学性质。
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]：本页目前唯一有据可依的引文。该综述指出在 SnS₂/MnPSe₃/SnS₂ 三明治结构中，层间滑移引入的极化可破坏原有 **PT 对称性**，把本来的普通反铁磁体 MnPSe₃ 诱导为**交变磁体**（altermagnet）——即无净磁矩却存在能带自旋劈裂的新型磁性，并预言了晶体霍尔效应与磁光克尔效应等可探测信号。这为本页补上了一条超出「二维易面反铁磁体」定位的功能化路径。
 
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其原始笔记后确认该文**通篇未提及 MnPSe₃**，原贡献句为无据推测，现撤回：
+
+- `tanRevealingEmergentMagnetic2024`：原称「利用量子磁强计探测反铁磁畴壁」。
+- `cheongMultiferroicsMagneticTwist2007a`：原称「讨论了 MPX₃ 家族在磁致铁电中的潜在应用」。
+- `mostovoyMultiferroicsDifferentRoutes2024`：原称「分析了该类材料的自旋动力学性质」。
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/neel-temperature|尼尔温度]]（相变点）

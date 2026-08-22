@@ -2,13 +2,18 @@
 tags: [concept, 2D-materials, charge-density-wave, density-functional-theory, strain-engineering]
 title: ir-dimerization
 type: concept
-status: developing
+status: stub
 year: 2021
 papers: [nicholsonUniaxialStraininducedPhase2021]
 updated: 2026-08-18
 ---
 
 # ir-dimerization
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 应变在固态材料中是普遍存在的，但尽管它具有根本的重要性和技术相关性，利用外部施加的应变来控制材料性能仍处于初级阶段。
 

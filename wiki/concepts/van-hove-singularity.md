@@ -2,7 +2,7 @@
 tags: [concept, density-of-states, charge-density-wave]
 title: 范霍夫奇点 / Van Hove Singularity (vHS)
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, electronic-structure]
 mechanism: 能带色散关系中导数为零的点，导致电子态密度发生非解析的奇异增强
 related_concepts: [fermi-surface-nesting, charge-density-wave, pseudogap]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 范霍夫奇点 / Van Hove Singularity (vHS)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 范霍夫奇点是指在晶体的电子能带结构或声子谱中，能带梯度的模长为零的点，即 $\nabla_k \epsilon(k) = 0$ 的位置。在这些点附近，电子态密度 (Density of States, DOS) 会表现出尖锐的峰值或不连续性，这种电子态的局域高度密集往往会引发电荷密度波 (CDW)、超导等多种电子不稳定性。
 

@@ -1,20 +1,22 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_e65f87449bc811f1a98a525400f8a581
-    ReservedCode1: 3xY/Nzf9ldLvWselod/0UNQ9PqovOC8siDxvLil8ywr97HCEMl8KIm7LJpjKrQC0OPmUvlQ6dBB4wAFvoDxNt9FzCRErL05+wRVtjho8q0p75naNmdSllcyfLkSUXXPkCEItYMh7JPA2giD62RGrq8fbSGWYvHMPlyi2uzeBNgFqW6Enb9i5DWVjTBY=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_e65f87449bc811f1a98a525400f8a581
-    ReservedCode2: 3xY/Nzf9ldLvWselod/0UNQ9PqovOC8siDxvLil8ywr97HCEMl8KIm7LJpjKrQC0OPmUvlQ6dBB4wAFvoDxNt9FzCRErL05+wRVtjho8q0p75naNmdSllcyfLkSUXXPkCEItYMh7JPA2giD62RGrq8fbSGWYvHMPlyi2uzeBNgFqW6Enb9i5DWVjTBY=
+tags: [entity, material, oxide, perovskite, polar-metal]
+title: 锇酸锂 (LiOsO₃) / Lithium Osmate
+type: entity
+formula: LiOsO3
+class: [perovskite, oxide, metal]
 status: mature
+properties: [polar-metal, ferroelectric-like-metal]
+related_concepts: [polar-metal, ferroelectric-metal, metallic-ferroelectricity, ferroelectricity]
+related_entities: [WTe2, BaTiO3, PbTiO3]
+papers: [bhowalPolarMetalsPrinciples2023b]
+updated: 2026-08
 ---
 
 
 
-# 钌酸锂 (LiOsO₃) / Lithium Osmate
+# 锇酸锂 (LiOsO₃) / Lithium Osmate
 
-LiOsO₃（钌酸锂）是实验上第一个被确认的**类铁电金属（ferroelectric-like metal）**，也是极性金属家族的开创性成员。它在约 140 K 发生从中心对称 R-3c 到极性 R3c 的结构相变，同时始终保持金属性。其极化源于 Li 离子的位移，与导电的 Os-O 网络在实空间分离，因此自由载流子无法完全屏蔽内建极化——这与 WTe₂ 的"铁电金属"形成对照：LiOsO₃ 的极化**不可通过电场翻转**，属于"极性金属"而非"铁电金属"。
+LiOsO₃（锇酸锂）是实验上第一个被确认的**类铁电金属（ferroelectric-like metal）**，也是极性金属家族的开创性成员。它在约 140 K 发生从中心对称 R-3c 到极性 R3c 的结构相变，同时始终保持金属性。其极化源于 Li 离子的位移，与导电的 Os-O 网络在实空间分离，因此自由载流子无法完全屏蔽内建极化——这与 WTe₂ 的"铁电金属"形成对照：LiOsO₃ 的极化**不可通过电场翻转**，属于"极性金属"而非"铁电金属"。
 
 ## 👵 太奶导读
 
@@ -49,7 +51,12 @@ LiOsO₃（钌酸锂）是实验上第一个被确认的**类铁电金属（ferr
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/bhowalPolarMetalsPrinciples2023b]]：LiOsO₃ 作为类铁电金属在极性金属谱系中的定位。
-- [[../papers/huProgressProspectsLowdimensional2019]]：低维铁电综述中与 WTe₂ 的对照。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `huProgressProspectsLowdimensional2019`：原文笔记中未出现 LiOsO₃。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
@@ -60,4 +67,3 @@ LiOsO₃（钌酸锂）是实验上第一个被确认的**类铁电金属（ferr
 - [[../entities/WTe2|WTe2]]
 - [[../entities/BaTiO3|BaTiO3]]
 - [[../entities/PbTiO3|PbTiO3]]
-*（内容由AI生成，仅供参考）*

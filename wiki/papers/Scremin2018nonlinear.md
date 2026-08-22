@@ -12,7 +12,7 @@ year_read: 2026
 original_note:: [[../../raw/note/Scremin2018nonlinear]]
 projects: [project-4, project-1]
 concepts: [nonlinear-absorption, saturable-absorption, charge-transfer, z-scan, two-level-system, steady-state-rate-equations, excited-state-lifetime, gaussian-beam, radical-cation, dismutation-equilibrium, mixed-valence, weight-factor-approximation]
-entities: [TTF, PMMA, TTFClO4, Origin, titanium-sapphire-laser]
+entities: [TTF, PMMA, TTFClO4, Origin, Ti-sapphire-laser]
 methods: [open-aperture-z-scan, femtosecond-spectroscopy, absorption-spectroscopy, rate-equation-modeling, solvent-casting, gaussian-beam-integration, analytical-fitting]
 materials: [TTF+, PMMA, TTFClO4]
 figures: []

@@ -17,8 +17,8 @@ concepts:
   - two-photon-absorption-cross-section
   - exciplex
   - triple-fluorescence
-  - donor-acceptor-push-pull
-  - twisted-intramolecular-charge-transfer
+  - d-pi-a-architecture
+  - tict-mechanism
 entities:
   - dicyanostilbene-1a
 methods: [dft, nmr, spectroscopy]

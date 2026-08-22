@@ -2,7 +2,7 @@
 tags: [concept, ferroelectrics, multiferroicity, nanoelectronics]
 title: 畴壁工程 / Domain Wall Engineering
 type: concept
-status: mature
+status: developing
 domain: [ferroelectrics, ferroelasticity, magnetism, multiferroicity, nanoelectronics]
 mechanism: 通过电场、应变或针尖力学对畴壁进行设计、操控与功能化，利用壁异于体相的导电/极性/磁性与拓扑性质构建纳米功能元件
 related_concepts: [domain-wall, domain-wall-energy, ferroelasticity, multiferroicity, magnetoelectric-coupling, ferroelectricity, sliding-ferroelectricity, strain-engineering]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 畴壁工程 / Domain Wall Engineering
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 畴壁工程（domain wall engineering）指**对铁电/铁弹/磁性材料中相邻畴之间的过渡界面（畴壁）进行设计、操控与功能化**的技术。畴壁具有与体相迥异的导电性、极性、磁性与拓扑性质，被视为"纳米功能元件"——如导电畴壁、磁电畴壁与拓扑畴界，可通过电场、应变或针尖力学操控，是多铁与低维材料器件化的核心手段。
 

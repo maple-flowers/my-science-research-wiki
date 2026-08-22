@@ -2,7 +2,7 @@
 tags: [concept, computational-physics, vasp, dft]
 title: Monkhorst-Pack Grid / Monkhorst-Pack 网格
 type: concept
-status: mature
+status: developing
 domain: [computational-physics, electronic-structure]
 mechanism: 通过均匀划分布里渊区，生成一组特殊的 k 点集，用于数值积分计算电荷密度和总能量。
 related_concepts: [plane-wave-basis, self-consistent-field-cycle, methfessel-paxton-smearing]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # Monkhorst-Pack 网格 / Monkhorst-Pack Grid
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 Monkhorst-Pack (MP) 网格是第一性原理计算中布里渊区积分的工业标准。它通过在倒空间建立均匀的采样点集，利用晶体对称性极大地减少了计算开销，同时保证了数值积分的高精度。
 

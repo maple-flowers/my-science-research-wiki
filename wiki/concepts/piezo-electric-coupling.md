@@ -2,13 +2,18 @@
 tags: [concept, charge-density-wave, 2d-materials, dirac-electrons, marginal-fermi-liquid, electron-phonon-coupling]
 title: piezo-electric-coupling
 type: concept
-status: developing
+status: stub
 year: 2001
 papers: [CastroNeto2001charge]
 updated: 2026-08-18
 ---
 
 # piezo-electric-coupling
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 
 

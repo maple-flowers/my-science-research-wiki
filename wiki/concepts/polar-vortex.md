@@ -2,7 +2,7 @@
 tags: [concept, ferroelectricity, topological-defects]
 title: 极化涡旋 / Polar Vortex
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, ferroelectricity]
 mechanism: 去极化场、界面弹性能与畴壁能竞争下极化矢量呈环形涡旋分布
 related_concepts: [ferroelectricity, topological-defects, superlattice, domain-wall, polarization-switching, polar-skyrmion]
@@ -11,6 +11,11 @@ updated: 2026-08-20
 ---
 
 # polar-vortex
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 极化涡旋（polar vortex）指**铁电/极性体系中极化矢量呈涡旋状（环形）空间分布**的拓扑结构，常在铁电超晶格、铁电纳米结构与受限几何中出现，以抵消去极化场并降低静电与弹性能。极化涡旋及其反涡旋、畴壁网络是"拓扑铁电"与铁电斯格明子（polar skyrmion）研究的核心对象。
 

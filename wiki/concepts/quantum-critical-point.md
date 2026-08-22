@@ -2,13 +2,18 @@
 tags: [concept, charge-density-wave, 2d-materials, dirac-electrons, marginal-fermi-liquid, electron-phonon-coupling, 2D-materials, berry-phase, density-functional-theory, ferroelasticity, magnetoelectric-coupling]
 title: quantum-critical-point
 type: concept
-status: developing
+status: stub
 year: 2001
 papers: [CastroNeto2001charge, bhowalPolarMetalsPrinciples2023b]
 updated: 2026-08-18
 ---
 
 # quantum-critical-point
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 本文档围绕 **quantum-critical-point** 汇集 2 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
 

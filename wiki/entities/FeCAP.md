@@ -2,13 +2,18 @@
 tags: [entity, ferroelectricity, polarization-switching, ferroelectric-tunnel-junction, neuromorphic-computing, in-memory-computing]
 title: FeCAP
 type: entity
-status: developing
+status: stub
 year: 2026
 papers: [chenHafniumBasedFerroelectricPostMoore2026]
 updated: 2026-08-18
 ---
 
 # FeCAP
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 重点综述了互补金属氧化物半导体兼容铪基铁电体（Hf-FEs）的材料体系、器件物理和性能指标，重点介绍了它们在下一代非易失性存储器中的应用潜力。
 

@@ -1,52 +1,72 @@
 ---
-tags: [entity, two-photon-absorption, solvatochromism, thermo-solvatochromism, charge-transfer, twisted-intramolecular-charge-transfer, two-photon-fluorescence, two-photon-absorption-cross-section, exciplex, triple-fluorescence, donor-acceptor-push-pull]
+tags: [entity, chromophore, two-photon-absorption, solvatochromism, donor-acceptor, fluorescent-probe, tict-mechanism]
 title: stilbene
 type: entity
 status: developing
-year: 2017
-papers: [H2017fluorescence, Huang2019solvatochromic, Huang2023two, WRZYSZCZYNSKI2010initiators]
-updated: 2026-08-18
+year: 2019
+papers: [Huang2019solvatochromic, H2017fluorescence, Huang2023two, WRZYSZCZYNSKI2010initiators]
+updated: 2026-08-21
 ---
 
 # stilbene
 
-本文档围绕 **stilbene** 汇集 4 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
+**二苯乙烯（stilbene）** 是两个苯环由一个 C=C 双键相连的分子骨架。它本身的[[../concepts/two-photon-absorption|双光子吸收]]截面很小，但作为**共轭桥**极易改造——在两端接上给体（D）或受体（A），截面可提升数十倍到千倍。本库中它是双光子荧光探针与双光子聚合引发剂的**共同母体**。
 
 ## 👵 太奶导读
 
-乖孙，这一条讲的是「stilbene」，由多篇论文的证据共同支撑。
-一句话记住它的发现：P1 展现出极宽的溶剂化变色范围（发射峰从445 nm到641 nm），其发射能量与溶剂ET(30)等参数呈良好线性关系。
+乖孙，二苯乙烯这东西你可以想成一副**扁担**：中间一根扁担杠（C=C 双键连着的共轭通路），两头可以挂东西。
 
-## 🧩 核心内容与机制 (Core Content)
+**光扁担本身没什么用**——纯的 E-二苯乙烯双光子吸收能力很弱。
 
-- **研究背景**：现有的双光子极性探针普遍存在响应维度单一（仅对极性响应）、溶剂化变色范围窄、双光子吸收截面小等缺陷，无法同时满足对极性、粘度、温度等多参数的综合检测需求，限制了其在复杂生物体系中的应用。
-- **核心问题**：如何通过合理的分子设计，打破传统 TPF 探针“小分子-窄光谱-小截面”的“不可能三角”，开发出一种能同时对多种环境刺激（极性、粘度、温度）产生显著、可区分荧光响应，且保持优异双光子性能的新型多功能探针。
-- **主要结论**：P1 展现出极宽的溶剂化变色范围（发射峰从445 nm到641 nm），其发射能量与溶剂ET(30)等参数呈良好线性关系。P1 在单/双光子激发下均表现出由LE态、TICT态和Exciplex组成的独特三重荧光，且各荧光带对温度和粘度有差异性响应。其最大双光子吸收截面在非极性溶剂中高达5560 GM。；通过在二苯乙烯骨架上引入两个氰基和二甲氨基，成功构建了探针P1。其荧光发射对溶剂极性、粘度和温度均表现出极高的灵敏度。其发射波长在非极性到强极性溶剂中可红移近200 nm。在粘度实验中，首次观察到双光子三重荧光现象，分别源于局域激发态（LE）、扭转分子内电荷转移态（TICT）和激基复合物（Exciplex）的发射。；化合物1a和1b表现出强烈的溶剂化显色效应，发射峰随溶剂极性大幅红移，并且具有极性依赖的大双光子吸收截面。1a在双光子激发下展现出由LE、TICT和激基复合物组成的独特三重荧光，对粘度、温度和浓度高度敏感。这种优越性能源于双氰基对激发态电荷分离的稳定作用与分子构象变化的协同。；高效的分子设计是获得高性能双光子引发剂的关键。通过构建D-π-D, D-π-A等结构，可极大增强分子的双光子吸收截面（δ）。这些引发剂与飞秒激光结合，利用非线性吸收效应，能实现真正的三维“体”加工，具有高分辨率、低损伤和抑制氧阻聚等优点。然而，许多引发剂的精确机理仍有待阐明，新型高效引发剂的合成仍是挑战。
-- **领域贡献**：1. 发现并首次报道了双光子三重荧光现象，拓展了光物理研究的认知边界。2. 提出了一种“双氰基受体”策略，为设计兼具超大溶剂化变色范围和超大双光子吸收截面的小分子探针提供了新范式。3. 展示了单一荧光团实现极性、粘度、温度多模式传感的可行性。；1. 提供了一种具有超高灵敏度和多功能性的新型双光子荧光探针分子原型。2. 揭示并首次报道了“双光子三重荧光”现象及其机制，为设计比率型、多维传感探针开辟了新路径。3. 验证了“双氰基取代”在增强分子内电荷转移和双光子吸收截面方面的有效性，为后续分子设计提供了重要指导。；首次报道了双光子激发下的三重荧光现象，实现了在单一荧光分子中同时输出三个环境敏感发射带，极大丰富了双光子传感的信息维度。同时，通过简洁的分子设计实现了超过5000 GM的双光子吸收截面，证明了双氰基取代策略在构建高性能溶剂化显色双光子探针中的有效性。；1. 知识整合：系统地梳理了从物理原理、材料设计到技术应用的全链条知识。2. 设计准则提炼：明确提出了延长共轭、增强平面性、强化推拉电子三大分子设计策略。3. 价值论证：清晰地阐述了双光子技术相比传统光聚合的四大核心优势及其在多个前沿领域的应用潜力。
-- **研究意义**：本研究首次报道了双光子激发的三重荧光现象，并成功开发了一种对极性、粘度和温度均高度敏感的双光子荧光探针P1。这不仅为多参数传感提供了新的分子工具和设计策略，也为激发态复杂动力学（如LE态、TICT态和Exciplex的形成与调控）的研究提供了新的实验体系。
+**但两头挂上东西就不一样了。** 挂「给电子的基团」（比如氨基）或者「拉电子的基团」（比如氰基），电子就能沿着扁担从一头往另一头跑。这条通路越顺、两头的推拉越强，分子对双光子的响应就越猛。本库里有个例子：两头都挂上二正丁氨基之后，双光子吸收截面变成母体的 **20 倍**。
+
+**更妙的是它还会「看溶剂的脸色」。** 电子跑到一头之后，分子变得一头正一头负。如果周围溶剂是极性的（比如 DMSO），溶剂分子会围过来把这个状态「按住」稳定下来，发光就往红移；如果溶剂不极性（比如环己烷），就没人来稳定它。所以**同一个分子在不同溶剂里发不同颜色的光**——这就成了探针：看它发什么颜色，就知道它待的地方是什么环境。
+
+代价是：极性溶剂里虽然颜色红移大，但**亮度会掉得很厉害**——双光子截面能从 5560 掉到 130，量子产率从 0.8 掉到 0.07。
+
+记一句话：**二苯乙烯是可改造的共轭扁担；两头挂 D/A 基团把双光子截面拉上去，代价是亮度强烈依赖溶剂极性。**
+
+## 🧩 作为骨架的两条改造路线
+
+### 路线一：双氰基取代 → 环境敏感探针
+
+在二苯乙烯骨架上引入**氰基受体**并配以给体，形成强 D–A 结构。其光物理特征为：
+
+- **三重荧光**：发射来自 LE（局域激发）态、[[../concepts/tict-mechanism|TICT]] 态与激基复合物（exciplex）三个通道。
+- **溶剂化变色**：发射峰随溶剂极性大幅红移，发射能量与溶剂 E_T(30) 参数呈良好线性关系。
+- **代价机制**：极性溶剂中激发态构型由**平面（强发光）扭转为扭曲的电荷转移构型**，双光子截面与量子产率同步崩塌。这是「变色范围」与「亮度」之间的内在权衡。
+
+### 路线二：对称氨基给体 → 双光子聚合引发剂
+
+以 **2-4,4′-双(二正丁氨基)-E-二苯乙烯** 为例：对称的氨基给体与共轭体系协同，δ 达 **210 GM**，为母体 E-二苯乙烯的 **20 倍**，可用作双光子聚合引发剂。
+
+⚠️ 该文自陈：即便是研究最充分的二苯乙烯衍生物，其**引发机理仍未完全理解**——分子内电荷转移与激基复合物形成两种可能尚未分辨。
+
+### 双光子吸收截面汇总
+
+| 分子 | 溶剂 | δ | 发射峰变化 | 量子产率 | 性质 |
+|---|---|---|---|---|---|
+| P1（双氰基二苯乙烯，Huang2019） | 环己烷 | **6670 GM** | 451 → 603 nm（跨溶剂，Δ196 nm） | 0.805 → 0.066 | 实验 |
+| P1 / 1a（双氰基二苯乙烯） | 环己烷 | **5560 GM** | 445 → 641 nm | — | 实验 |
+| 同上 | DMF | **130 GM** | — | — | 实验 |
+| 双(二正丁氨基)-E-二苯乙烯 | 未注明 | **210 GM** | — | — | 实验 |
+| **母体 E-二苯乙烯** | 未注明 | 约为上者的 1/20 | — | — | 实验 |
+
+⚠️ **一处疑似重复条目**：`H2017fluorescence` 与 `Huang2023two` 报告的是**同一组数据**——同为双氰基取代二苯乙烯，环己烷 5560 GM / DMF 130 GM，发射 445 → 641 nm，激发波长 790 nm，探针分别称 P1 与 1a。二者极可能是同一工作的不同版本或 Zotero 重复录入。本页暂并列保留并如实标注，未合并；建议核对原始 PDF 后处理。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/H2017fluorescence]]：1. 发现并首次报道了双光子三重荧光现象，拓展了光物理研究的认知边界。
-- [[../papers/Huang2019solvatochromic]]：1. 提供了一种具有超高灵敏度和多功能性的新型双光子荧光探针分子原型。
-- [[../papers/Huang2023two]]：首次报道了双光子激发下的三重荧光现象，实现了在单一荧光分子中同时输出三个环境敏感发射带，极大丰富了双光子传感的信息维度。
-- [[../papers/WRZYSZCZYNSKI2010initiators]]：1. 知识整合：系统地梳理了从物理原理、材料设计到技术应用的全链条知识。
+- [[../papers/Huang2019solvatochromic]]：给出本页最大的双光子截面值（非极性环己烷中 **6670 GM**）与最宽的溶剂化变色范围（**196 nm**，发射 451 → 603 nm），并同时记录了随极性升高截面下降、量子产率由 0.805 崩至 0.066 这一代价——是本页「变色范围与亮度不可兼得」这一权衡的主要证据。
+- [[../papers/H2017fluorescence]]：提供 LE / TICT / 激基复合物**三重荧光**的机制归属，以及 δ 从环己烷 5560 GM 到 DMF 130 GM 的剧烈溶剂依赖，并把这一依赖明确归因于**激发态构型由平面扭转为电荷转移构型**——本页路线一的机制表述主要取自此文。
+- [[../papers/Huang2023two]]：提出「双氰基邻、间位取代」这一分子设计策略，并指出其 790 nm 激发波长落在生物成像窗口内。⚠️ 其定量数据与 `H2017fluorescence` 完全一致，见上文重复条目说明。
+- [[../papers/WRZYSZCZYNSKI2010initiators]]：把二苯乙烯骨架放在**双光子聚合引发剂**这一完全不同的应用语境下考察，给出母体 E-二苯乙烯与双(二正丁氨基)衍生物之间 **20 倍**的截面差（后者 210 GM），从而量化了「对称给体 + 共轭协同」的增益；同时诚实指出该类引发剂的机理仍未定论。
 
 ## 🔗 关联概念与实体 (Related)
 
 - [[../concepts/two-photon-absorption|two-photon-absorption]]
-- [[../concepts/solvatochromism|solvatochromism]]
-- [[../concepts/thermo-solvatochromism|thermo-solvatochromism]]
-- [[../concepts/charge-transfer|charge-transfer]]
-- [[../concepts/exciplex|exciplex]]
-- [[../concepts/d-pi-a-architecture|d-pi-a-architecture]]
-- [[../concepts/solvent-relaxation|solvent-relaxation]]
-- [[../concepts/fluorescence-sensing|fluorescence-sensing]]
+- [[../concepts/tict-mechanism|tict-mechanism]]
 - [[../concepts/local-excited-state|local-excited-state]]
-- [[../entities/P1|P1]]
-- [[../entities/dicyanostilbene|dicyanostilbene]]
-- [[../entities/P2|P2]]
-- [[../entities/dicyanostilbene-1a|dicyanostilbene-1a]]
-- [[../entities/dicyanostilbene-1b|dicyanostilbene-1b]]
-- [[../entities/DCS|DCS]]
-- [[../concepts/two-photon-fluorescence|two-photon-fluorescence]]
+- [[../concepts/solvatochromism|solvatochromism]]
+- [[../concepts/charge-transfer-exciplex|charge-transfer-exciplex]]
+- [[../concepts/two-photon-polymerization|two-photon-polymerization]]
+- [[../concepts/fluorescence-quantum-yield|fluorescence-quantum-yield]]

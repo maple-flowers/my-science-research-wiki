@@ -1,53 +1,57 @@
 ---
-tags: [entity, charge-density-wave, density-functional-theory, 2D-materials, fermi-surface-nesting, wannier-function, spin-orbit-coupling, superconductivity, 2d-materials, strong-coupling, dielectric-function]
+tags: [entity, density-functional-theory, all-electron-method, lapw, apw-lo, band-structure]
 title: WIEN2k
 type: entity
 status: developing
-year: 2006
-papers: [Barnett2006coexistence, Johannes2008fermi, Koley2020charge, gajdosLinearOpticalProperties2006, songEvidenceSinglelayerVan2022]
-updated: 2026-08-18
+year: 2020
+papers: [Barnett2006coexistence, Johannes2008fermi, Koley2020charge, songEvidenceSinglelayerVan2022]
+updated: 2026-08-21
 ---
 
 # WIEN2k
 
-本文档围绕 **WIEN2k** 汇集 5 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
+**WIEN2k** 是一套**全电子（all-electron）**第一性原理计算程序，采用 **APW+lo / 全势线性缀加平面波（FP-LAPW）** 基组。它与本库中更常见的 [[../entities/VASP|VASP]]、[[../entities/Quantum-ESPRESSO|Quantum ESPRESSO]] 的根本区别在于：**不做赝势近似**，芯区波函数被真实求解而非替换。
 
 ## 👵 太奶导读
 
-乖孙，这一条讲的是「WIEN2k」，由多篇论文的证据共同支撑。
-一句话记住它的发现：2H-TMDs的低能电子结构由次近邻跃迁（t₂）主导，远超最近邻跃迁（t₁）。
+乖孙，算电子结构有两条路子。
 
-## 🧩 核心内容与机制 (Core Content)
+**第一条是赝势路（VASP、QE 走这条）**：原子核附近的芯电子不参与化学，波函数在那里剧烈振荡、极难描述。索性把核+芯电子打包换成一个「假的、光滑的」有效势——赝势。这样计算量小得多，对成键、能带这些价电子性质足够准。
 
-- **研究背景**：角分辨光电子能谱（ARPES）实验反复观察到，在2H-TMDs（如2H-TaSe₂）进入公度CDW相后，其费米面上并未打开预期的能隙，依然存在无隙的电子激发，这与传统CDW理论（认为CDW会导致费米面全打开能隙，材料变为绝缘体）形成尖锐矛盾。同时，关于CDW的驱动机理（费米面嵌套矢量）也存在定量争议。
-- **核心问题**：作者旨在解决一个核心的定性矛盾：为何在2H-TMDs中，公度CDW相的费米面上观察不到能隙的打开？作者试图找到一个简洁的物理机制，以解释“无隙激发”与“公度CDW”这一反常共存现象。
-- **主要结论**：2H-TMDs的低能电子结构由次近邻跃迁（t₂）主导，远超最近邻跃迁（t₁）。这一反常特性导致其三角晶格可近似解耦为三个独立的子晶格。在CDW畸变中，只有一个子晶格保持未畸变，与之相关的电子能带因此不打开能隙，从而在费米面上保留了无隙激发，完美解释了公度CDW与金属性共存的实验现象。；1. 派尔斯机制中的纯电子不稳定性极其脆弱，易被温度、散射和微小几何偏差破坏。2. 在NbSe₂、TaSe₂和CeTe₃等典型材料中，费米面嵌套的峰值与实际的CDW波矢不一致，不具有预测能力。3. CDW的本质是电子-声子耦合驱动的结构相变，电子和离子子系统协同作用，不可分割。4. 因此，在物理上无法对“CDW”和“非公度晶格转变 (ILT)”做出有意义的区分。；非磁性无序通过破坏CDW的长程有序性，尤其是团簇无序，能有效促进超导电性的重入和增强。其机制是，在强耦合图像下，无序破坏了“预成型激子”的凝聚，从而压制了CDW，而s波超导性由于安德森定理对非磁性无序具有鲁棒性，因此得以显现并占据主导。DFT+DMFT计算成功复现了TaSeS合金在~5K的超导转变。；成功推导的PAW纵向表达式，在标准PAW势下即可获得与全电子APW+LO方法高度一致的静态和动态介电函数，其精度和收敛速度均显著优于传统的横向表达式。横向表达式在标准势下的误差源于其忽略了一个关键的偶极矩修正项，而纵向表达式自然地包含了这一修正。密度泛函微扰理论的结果与对导带求和的结果完全一致，进一步验证了新理论框架的自洽性。；在单层二碘化镍中，一种特定的螺旋磁序（proper-screw）能够在21 K以下稳定存在，它打破了空间反演对称性和三重旋转对称性，从而直接诱导出沿特定晶轴方向的铁电极化。这种多铁性态在从块材到单层的演化中持续存在，其相变温度随层数减少而单调降低，揭示了层间交换耦合在稳定该多铁序中的重要作用。
-- **领域贡献**：1. 解决了困扰领域二十年的ARPES实验谜题。2. 揭示了“次近邻跃迁主导”这一反常电子结构特征。3. 提出了“子晶格解耦”这一普适性物理图像，为理解其他复杂CDW体系提供了新范式。；1. 澄清了“费米面嵌套”和“派尔斯CDW”等核心概念的模糊性，并设定了严格的适用条件。2. 通过理论和计算，有力地解构了旧范式，确立了电子-声子耦合在CDW形成中的核心地位。3. 提供了方法论上的警示，即仅凭费米面拓扑或χ′′(q) 判断CDW是错误的，必须分析χ′(q) 和整个能带的贡献。；1) 提出了一个自洽的强耦合理论范式，将CDW视为预成型激子的凝聚，成功解释了TMDs中无序诱导SC增强的实验现象。2) 揭示了无序“类型”（团簇vs.随机）在调控竞争序中的关键作用。3) 通过BdG和DFT+DMFT两种互补方法，从唯象和第一性原理层面共同验证了理论，架起了模型计算与真实材料物理之间的桥梁。；提供了一套在PAW方法中计算光学性质的精确闭合公式，将PAW方法的光学计算精度提升到了全电子方法水平。阐明了纵、横向表达式在PAW框架下差异的物理根源，即PAW球内的偶极矩修正。为在VASP等主流PAW软件中实现高精度光学性质计算奠定了理论基础，并对后续GW-BSE等高级计算具有重要支撑作用。；1. 实验上确立了单层二碘化镍作为本征二维多铁体的地位，开创了“范德华多铁性”这一新研究方向。2. 发展了一套用于表征二维极限下复杂多铁序（同时含磁序、极性序、手性序）的多模态光学方法学范本。3. 定量揭示了层间交换作用和磁各向异性在稳定二维多铁性中的关键作用，为设计新型二维多铁材料提供了理论指导。
-- **研究意义**：理论层面，解决了一个长期存在的实验谜题，提出了“子晶格解耦”这一新颖的物理机制来解释CDW态中的金属性，更新了对2H-TMDs类材料电子结构的传统认知。方法论层面，展示了第一性原理计算与简约模型思维的有机结合，是从复杂计算提炼核心物理的典范。
+**第二条是全电子路（WIEN2k 走这条）**：不换、不糊弄，芯区波函数照实算。办法是把空间切成两块——原子球内用球谐函数配径向解，球外用平面波，两边在球面上接起来。计算贵得多，但**核附近的信息是真的**。
+
+**什么时候必须走第二条？** 当你要的量本身就住在核附近：超精细参数、电场梯度、核磁共振相关量；或者要一个不受赝势构造影响的能带「基准值」，用来校验赝势算得对不对。本库里 WIEN2k 出场的场合，多半是后者——**当作精确参照，或与 VASP 交叉验证**。
+
+记一句话：**WIEN2k 是全电子路线（APW+lo），贵但芯区真实；本库中它主要当基准与交叉验证用。**
+
+## 🧩 定位与本库用法
+
+- **方法本质**：全势 LAPW / APW+lo。空间划分为原子球（muffin-tin）与间隙区，两区基函数在球面匹配；不引入[[../concepts/pseudopotential|赝势]]，故也不受[[../concepts/frozen-core-approximation|冻结芯近似]]之外的赝势化误差影响。
+- **与赝势代码的分工**（本库观察到的实际模式）：
+  - **取精确能带作为后续有效模型的输入**：先用 WIEN2k 拿到可靠电子结构，再据此构造 Wannier 有效哈密顿量或多体求解器的输入。
+  - **交叉验证**：同一物理量用 WIEN2k 与 VASP 各算一遍，一致才采信。
+- **常见搭配**：WIEN2k（能带 / 轨道投影）→ Wannier 函数 / DMFT 杂质求解器 / gKNB 模型张量计算。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/Barnett2006coexistence]]：1. 解决了困扰领域二十年的ARPES实验谜题。
-- [[../papers/Johannes2008fermi]]：1. 澄清了“费米面嵌套”和“派尔斯CDW”等核心概念的模糊性，并设定了严格的适用条件。
-- [[../papers/Koley2020charge]]：1) 提出了一个自洽的强耦合理论范式，将CDW视为预成型激子的凝聚，成功解释了TMDs中无序诱导SC增强的实验现象。
-- [[../papers/gajdosLinearOpticalProperties2006]]：提供了一套在PAW方法中计算光学性质的精确闭合公式，将PAW方法的光学计算精度提升到了全电子方法水平。
-- [[../papers/songEvidenceSinglelayerVan2022]]：1. 实验上确立了单层二碘化镍作为本征二维多铁体的地位，开创了“范德华多铁性”这一新研究方向。
+- [[../papers/Barnett2006coexistence]]：用 WIEN2k 的全势线性缀加平面波方法取得 2H-TaSe₂ 的精确电子结构，再以此为输入、通过新发展的能量分辨 Wannier 函数方法提取低能有效哈密顿量——是本库中「WIEN2k 提供可靠能带、下游构造有效模型」这一分工模式最清楚的实例。
+- [[../papers/Johannes2008fermi]]：**同时使用 WIEN2k 与 VASP** 对 NbSe₂、TaSe₂、CeTe₃ 三个体系做第一性原理计算，用以论证费米面嵌套并非这些「教科书式嵌套驱动 CDW」体系的真正主因。双代码并用正是本页所述交叉验证模式，也让其反驳性结论不易被归咎于单一代码的方法学缺陷。
+- [[../papers/Koley2020charge]]：用 WIEN2k 计算 2H-TaSe₂ 及其硫掺杂体系的能带与轨道投影，作为后续 DMFT 计算的起点（以多轨道迭代摄动理论 MO-IPT 作杂质求解器，取 U = 1.0 eV、U′ = 0.5 eV）——展示 WIEN2k 作为强关联多体计算前端的用法。
+- [[../papers/songEvidenceSinglelayerVan2022]]：在计算 gKNB 模型的 M 张量以预测磁致电极化时**同时采用 VASP 与 WIEN2k 两套代码**，并计入自旋—轨道耦合与 PBE+U 强关联修正；是本页交叉验证用法的第二个实例。
+
+### ⚠️ 已剔除的一条错误声明
+
+原页面还列有 `gajdosLinearOpticalProperties2006`。经核对原始笔记，该文**通篇未使用 WIEN2k**——文中出现的 "Wien" 全部来自作者单位地址（Universität Wien, A-1090 **Wien**, Austria，即维也纳）。这是自动抽取把**城市名误当软件名**所致，已从本页与该文卡片中移除。该文实际是 VASP 框架下的线性光学性质计算。
 
 ## 🔗 关联概念与实体 (Related)
 
-- [[../concepts/charge-density-wave|charge-density-wave]]
 - [[../concepts/density-functional-theory|density-functional-theory]]
-- [[../concepts/fermi-surface-nesting|fermi-surface-nesting]]
+- [[../concepts/LAPW|LAPW]]
+- [[../concepts/pseudopotential|pseudopotential]]
+- [[../concepts/frozen-core-approximation|frozen-core-approximation]]
+- [[../concepts/paw-method|paw-method]]
 - [[../concepts/wannier-function|wannier-function]]
-- [[../concepts/tight-binding|tight-binding]]
-- [[../concepts/sublattice-decoupling|sublattice-decoupling]]
-- [[../concepts/hopping-integral|hopping-integral]]
-- [[../concepts/gapless-excitation|gapless-excitation]]
-- [[../concepts/electron-phonon-coupling|electron-phonon-coupling]]
-- [[../concepts/commensurate-cdw|commensurate-cdw]]
-- [[../concepts/phase-interference|phase-interference]]
-- [[../entities/TMDs|TMDs]]
-- [[../entities/2H-TaSe2|2H-TaSe2]]
-- [[../concepts/spin-orbit-coupling|spin-orbit-coupling]]
-- [[../concepts/hidden-nesting|hidden-nesting]]
-- [[../concepts/electronic-susceptibility|electronic-susceptibility]]
+- [[../concepts/DFT-U|DFT-U]]
+- [[../concepts/fermi-surface-nesting|fermi-surface-nesting]]
+- [[../entities/VASP|VASP]]
+- [[../entities/Quantum-ESPRESSO|Quantum-ESPRESSO]]

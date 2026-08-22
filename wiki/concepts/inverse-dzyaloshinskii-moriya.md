@@ -2,7 +2,7 @@
 tags: [concept, multiferroicity, magnetism]
 title: 逆 Dzyaloshinskii-Moriya 相互作用 (Inverse DMI)
 type: concept
-status: mature
+status: developing
 domain: [multiferroicity, magnetism, magnetoelectric-coupling]
 mechanism: 螺旋/非共线磁结构通过自旋轨道耦合在相邻离子间产生局域电极化（P ∝ e_ij × (S_i × S_j)），是 type-II 多铁自旋驱动铁电的核心微观机制
 related_concepts: [dzyaloshinskii-moriya-interaction, helical-magnetism, magnetoelectric-coupling, exchange-striction, spin-orbit-coupling, chirality]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 逆 Dzyaloshinskii-Moriya 相互作用 (Inverse DMI)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 逆 Dzyaloshinskii-Moriya 相互作用（inverse DMI，又称多铁机制中的自旋-轨道耦合诱导极化）指**螺旋或非共线磁结构通过自旋-轨道耦合在离子间产生电极化**的机制，是"自旋驱动铁电"（type-II 多铁）的核心微观机制之一，将磁性序与铁电极化直接耦合，实现磁电互控。
 

@@ -1,50 +1,70 @@
 ---
-tags: [concept, spin-orbit-coupling, bethe-peierls-weiss-method, heisenberg-model, correlation-energy, antiferromagnetism, 2d-materials, multiferroicity, magnetoelectric-coupling, strain-engineering, density-functional-theory]
+tags: [concept, magnetism, band-theory, ferromagnetism, exchange-interaction]
 title: stoner-model
 type: concept
 status: developing
 year: 1945
 papers: [vanvleckSurveyTheoryFerromagnetism1945, wangTunableD0Topological2025b]
-updated: 2026-08-18
+updated: 2026-08-21
 ---
 
 # stoner-model
 
-本文档围绕 **stoner-model** 汇集 2 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
+**斯通纳模型（Stoner model）**，又称**集体电子/巡游电子铁磁模型**，把铁磁性归因于**能带在交换作用下的自发自旋劈裂**：3d 电子并不定域在各自原子上，而是在整个晶体中巡游成带，交换作用把自旋向上与向下的两个子带在能量上错开，两者填充数不等即产生净磁化。
+
+它是[[../concepts/heisenberg-model|海森堡（定域）模型]]的**对立极限**，两者构成理解铁磁性的两个理想端点。
 
 ## 👵 太奶导读
 
-乖孙，这一条讲的是「stoner-model」，由多篇论文的证据共同支撑。
-一句话记住它的发现：论文的核心结论是辩证的。
+乖孙，「材料为什么会有磁性」这问题历史上有两套说法，斯通纳模型是其中一套。
 
-## 🧩 核心内容与机制 (Core Content)
+**定域派（海森堡）说**：每个原子上都钉着一根小磁针，磁性来自邻居磁针之间的相互作用，谁把谁掰过来。
 
-- **研究背景**：20世纪初，外斯分子场理论在唯象层面取得了巨大成功，但其预言的巨大分子场无法用经典物理（如磁偶极子相互作用）解释，这构成了“分子场之谜”。1926年量子力学诞生后，海森堡于1928年提出交换作用是其微观起源。随后，围绕海森堡模型出现了多种数学近似方法，同时斯通纳提出了基于能带理论的集体电子模型。截止1945年，理论界对这两种模型及其适用性存在广泛争议，且面临数学处理上的巨大困难（如级数发散问题）。
-- **核心问题**：作者的核心问题意识在于：1）系统梳理并批判性地评估当时所有主流的铁磁性量子理论，从定域模型到巡游模型；2）揭示不同理论模型和不同数学近似方法的内在联系、成功之处与根本性缺陷；3）探讨理论为何在定性上成功，但在定量上或经过高阶修正后反而失败，以及理论与实验线性关系意外吻合的“神秘”现象；4）通过比较定域与巡游两大范式，为理解真实材料中复杂的“中间态”提供洞见，并指明未来研究方向。
-- **主要结论**：论文的核心结论是辩证的。1）量子力学的交换作用是铁磁性的根本原因，成功解释了外斯分子场的起源。2）海森堡（定域）模型和斯通纳（巡游）模型作为两个极端，都能定性解释主要实验事实，但定量上均存在困难，真实材料介于两者之间。3）数学上，简单的第一性近似往往与实验惊人地一致，而看似更严谨的级数展开高阶近似却导致荒谬结果，这构成了一个根本性的理论“神秘”问题。4）理论的成功在于提供了定性理解的机制和概念框架，而非精确的工程预测，这一点与化学价键理论面临的困境极为相似。；单层 In₂NO₂ 是一种稳定的室温多铁性半金属，其磁性源于 N 原子的 p 轨道电子，属于 d0 磁性。在垂直磁场（1.0-5.0 T）下可形成斯格明子，在水平磁场下形成双半子，两者均能在 100 K 以上稳定。拉伸应变可显著增强 DMI，从而提高拓扑态密度和稳定性。在 In₂NO₂/MoSe₂ 异质结中，可通过电场翻转铁电极化，实现斯格明子相（“1”态）和铁磁相（“0”态）的非易失性开关。
-- **领域贡献**：1）首次系统性地撰写了该领域的权威综述，设定了此后数十年理论讨论的框架和术语。2）深刻批判了海森堡的高斯近似和Opechowski的级数展开法，加速了学界对这些方法的扬弃。3）明确推广并高度评价了贝特-佩尔斯-外斯方法，将其确立为处理关联问题的标准方法之一。4）将斯通纳的集体电子模型与海森堡模型进行对等比较，确立了巡游电子范式在铁磁理论中的核心地位。5）将反铁磁性理论（Néel的贡献）纳入主流固体物理的视野，并提供了清晰的物理图像。；1. 开创性地将 d0 磁性概念引入拓扑自旋电子学领域，突破了传统 d 轨道磁性的局限。2. 提供了一个将多铁性、半金属性和拓扑磁结构完美集成于单一二维材料的理论范本。3. 阐明了 d0 磁性、应变和电场对拓扑织构的独特调控规律，为后续的理论和实验研究指明了方向。
-- **研究意义**：1）**理论整合**：将铁磁性、反铁磁性和弱顺磁性统一在交换作用的量子力学框架下，构建了层次分明的理论体系。2）**方法论澄清**：明确指出了级数展开法的根本性失败，肯定了B-P-W方法和自旋波理论在各自适用温区的优越性，并揭示了定域与巡游模型作为理想化极限的互补性。3）**问题导向**：提出了“理论越精确，与实验的简单线性关系偏差越大”这一深刻悖论，为后续关于磁性相变普适性（如重正化群）的研究埋下了伏笔。4）**概念奠基**：巩固了交换作用、自旋波、集体电子、反铁磁性等核心概念，成为该领域后续数十年研究的必读经典。
+**巡游派（斯通纳）说**：根本没有钉住的小磁针。电子是在整块晶体里到处跑的，它们按能量高低排成「能带」。交换作用做的事是把「自旋朝上的那批电子」的能量整体压低一点、「朝下的那批」抬高一点。这样一来朝上的电子装得多、朝下的装得少，两者之差就是磁性。
+
+**怎么分辨用哪套？** 有一条很直观的线索：**每个原子的磁矩是不是整数**。定域派的小磁针是一根根的，磁矩自然该是整数个玻尔磁子；而巡游派是两个子带的填充数相减，差多少完全看能带形状，**磁矩通常不是整数**。铁、镍测出来就是非整数——这是斯通纳模型的一大战功。
+
+**但太奶要提醒你一句**：非整数磁矩**并不能一锤定音**。定域派也有招数解释它（比如让镍在 d⁹ 和 d¹⁰ 两种电子组态之间混合），照样能凑出非整数。所以看到「磁矩非整数，所以是巡游磁性」这种论证，得知道它是**提示**而非**证明**。
+
+记一句话：**斯通纳模型 = 磁性来自能带的自旋劈裂，不是来自定域磁针；真实材料在定域与巡游两个极端之间。**
+
+## 🧩 模型内容与判据
+
+- **核心图像**：3d 电子巡游成能带，铁磁性源于能带在交换作用下的自发自旋劈裂。
+- **数学处理**：将费米—狄拉克统计与分子场思想结合，配分函数含对自旋向上、向下两个子带的积分。
+- **控制参数**：`kθ′/ε₀`，即**交换能与费米能（能带宽度）之比**。这个比值是斯通纳模型唯一的关键无量纲量——交换能相对带宽越大越容易铁磁。
+- **模型的三项独特预言**：
+  1. **非整数玻尔磁子数**：当 `kθ′/ε₀ ∈ (2/3, 2)` 时，T = 0 的约化饱和磁化 `I₀` 落在 0 与 1 之间——**即使在绝对零度电子自旋也未完全平行排列**，因而饱和磁矩非整数。
+  2. **过剩比热容**：预言电子比热中存在与温度成正比的额外项。
+  3. **磁化率**：`1/χ`–T 曲线在高温近似线性但带弯曲。
+
+### 与定域模型的对峙：一场未判胜负的比较
+
+| 检验项 | 斯通纳（巡游） | 海森堡（定域） | 裁决 |
+|---|---|---|---|
+| T = 0 非整数磁矩 | 自然给出 | 亦可（Ni 的 d⁹/d¹⁰ 组态混合） | **未分胜负** |
+| 低温磁化行为 | `T²` 定律 | `T^{3/2}`（Bloch 自旋波） | 某些合金中**定域派更优** |
+| 高温磁化率 | `1/χ`–T 近线性带弯曲 | 同样近线性带弯曲 | 两者皆有无法解释的曲率 |
+| 钆（4f，高度定域） | 不适用 | `1/χ`–T 线性极好，居里常数与理论吻合 | **定域派胜** |
+
+⚠️ 上表全部来自 [[../papers/vanvleckSurveyTheoryFerromagnetism1945\|van Vleck 1945]] 这一篇综述的比较分析，反映的是 **1945 年的理论态势**。其结论是审慎的：两个模型都能定性解释主要实验，定量上均有困难，**真实材料介于两者之间**。此处不代表现代（如 DFT + 自旋密度泛函）对巡游磁性的认识水平。
+
+另有一处 van Vleck 特别指出的「谜」：实验观测到的 `1/χ`–T 线性度出奇地好，而各种理论修正（分子场涨落、自旋—轨道耦合）反而都倾向于引入更多弯曲——**理论越精细，与实验的简单线性关系偏离越大**。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/vanvleckSurveyTheoryFerromagnetism1945]]：1）首次系统性地撰写了该领域的权威综述，设定了此后数十年理论讨论的框架和术语。
-- [[../papers/wangTunableD0Topological2025b]]：1. 开创性地将 d0 磁性概念引入拓扑自旋电子学领域，突破了传统 d 轨道磁性的局限。
+- [[../papers/vanvleckSurveyTheoryFerromagnetism1945]]：本页几乎全部内容的来源。该综述把斯通纳集体电子模型与海森堡定域模型作为对等的两大范式并列比较，给出了模型的核心图像（能带自旋劈裂）、关键参数 `kθ′/ε₀`（交换能与费米能之比）、以及 `kθ′/ε₀ ∈ (2/3, 2)` 时 T=0 饱和磁化非饱和的定量条件；尤其重要的是它逐项做了「比较审判」，明确指出非整数磁矩这一常被当作巡游性证据的现象**定域模型同样能解释**，从而确立了「真实材料介于两极之间」这一至今有效的判断。
+- [[../papers/wangTunableD0Topological2025b]]：⚠️ **弱关联，本文未提斯通纳模型**。其相关之处在于给出了一个巡游性判据的现代用例：单层 In₂NO₂ 中 N 原子磁矩为 **M_N = 0.584 μB** 这一非整数值，被作者与半金属性一并作为磁性电子**去定域**的迹象。按上文 van Vleck 的比较结论，这类推断属提示性而非决定性证据——此条目保留于此，正是为了标出这条常见论证的边界。
 
 ## 🔗 关联概念与实体 (Related)
 
-- [[../concepts/spin-orbit-coupling|spin-orbit-coupling]]
-- [[../concepts/bethe-peierls-weiss-method|bethe-peierls-weiss-method]]
 - [[../concepts/heisenberg-model|heisenberg-model]]
-- [[../concepts/correlation-energy|correlation-energy]]
-- [[../concepts/antiferromagnetism|antiferromagnetism]]
-- [[../concepts/bloch-spin-wave|bloch-spin-wave]]
-- [[../concepts/molecular-field|molecular-field]]
 - [[../concepts/exchange-interaction|exchange-interaction]]
-- [[../concepts/brillouin-function|brillouin-function]]
-- [[../concepts/ising-model|ising-model]]
-- [[../concepts/2d-materials|2d-materials]]
-- [[../concepts/multiferroicity|multiferroicity]]
-- [[../concepts/magnetoelectric-coupling|magnetoelectric-coupling]]
-- [[../concepts/strain-engineering|strain-engineering]]
-- [[../concepts/density-functional-theory|density-functional-theory]]
-- [[../concepts/berry-phase|berry-phase]]
+- [[../concepts/stoner-ferromagnetism|stoner-ferromagnetism]]
+- [[../concepts/itinerant-ferromagnetism|itinerant-ferromagnetism]]
+- [[../concepts/d0-magnetism|d0-magnetism]]
+- [[../concepts/antiferromagnetism|antiferromagnetism]]
+- [[../concepts/bethe-peierls-weiss-method|bethe-peierls-weiss-method]]
+- [[../concepts/spin-wave|spin-wave]]
+- [[../concepts/curie-temperature|curie-temperature]]
+- [[../concepts/half-metallicity|half-metallicity]]

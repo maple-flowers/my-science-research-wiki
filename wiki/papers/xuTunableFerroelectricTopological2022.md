@@ -11,8 +11,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/xuTunableFerroelectricTopological2022]]
 projects: [project-5]
-concepts: [2d-materials, strain-engineering, topological-defects, berry-phase, density-functional-theory, machine-learning-potential, polarization-switching, ferroelasticity, ferroelectric-topological-defects, soft-mode, paraelectric-ferroelectric-transition, polar-vortex, antivortex, flux-closure, polarization-phase-diagram, giant-piezoelectricity, multiscale-simulation, landau-double-well, electron-localization-function, domain-wall]
-entities: [VASP, PbTe, deep-potential, PbS, PbSe, LAMMPS, DeepMD-kit, PBE-functional]
+concepts: [2d-materials, strain-engineering, topological-defects, berry-phase, density-functional-theory, machine-learning-potential, polarization-switching, ferroelasticity, ferroelectric-topological-defects, soft-mode, paraelectric-ferroelectric-transition, polar-vortex, antivortex, flux-closure, polarization-phase-diagram, giant-piezoelectricity, multiscale-simulation, landau-double-well, electron-localization-function, domain-wall, PBE-functional]
+entities: [VASP, PbTe, deep-potential, PbS, PbSe, LAMMPS, DeepMD-kit]
 methods: [dft, dft-pp, pbe, berry-phase, phonon-spectrum, deepmd, mlip, md, lammps, fem, soft-mode-analysis, elf, piezoelectric-coefficient, indentation-simulation]
 materials: [PbS, PbSe, PbTe, 2D-PbX]
 figures: []

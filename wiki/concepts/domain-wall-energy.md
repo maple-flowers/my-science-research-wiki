@@ -2,7 +2,7 @@
 tags: [concept, ferroelectrics, ferroelectricity]
 title: 畴壁能 / Domain-Wall Energy
 type: concept
-status: mature
+status: developing
 domain: [ferroelectrics, ferroelasticity, magnetism, topological-defects]
 mechanism: 相邻畴之间单位面积界面的自由能，由交换/梯度能、各向异性/弹性能与长程相互作用竞争决定；通过基特尔定律控制畴宽与拓扑畴尺度
 related_concepts: [domain-wall, domain-wall-engineering, ferroelectric-domain, ferroelectricity, kittel-law, sliding-ferroelectricity, topological-defects]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 畴壁能 / Domain-Wall Energy
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 畴壁能（domain-wall energy, σ）指**铁电/铁磁有序体中相邻两个畴之间的界面单位面积能量**。畴壁能是基特尔定律（畴宽与膜厚平方根成正比）的核心物理量，决定了条纹畴、涡旋等拓扑畴结构的尺度与形貌；在超薄铁电膜中，畴壁能来自与体相不同的微观能量项（氧八面体倾斜、表面偶极、磁电耦合等）。
 

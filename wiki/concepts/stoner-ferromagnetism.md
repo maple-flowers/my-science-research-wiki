@@ -74,7 +74,7 @@ Stoner 铁磁性（Stoner Ferromagnetism）是巡游电子体系铁磁性的经�
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/zahraCriticalAnalysisFerroelectric2025]]：首篇系统批判性评述 MXene 中铁电、铁磁及多铁性的综述，给出"结构-性能-应用"框架与调控策略工具箱。
+- [[../papers/zahraCriticalAnalysisFerroelectric2025]]：本页唯一引文，其对本条目的具体贡献在于给出 Stoner 判据的一个**可工程化实现路径**——指出 MXene 的磁性主要来自过渡金属 M 的 d 轨道电子，通过掺杂（Gd、Nb 等）、官能团化、应变、缺陷等手段调控费米能级附近的电子态密度，使自旋向上与向下的电子数失衡，即可在本征无磁的 Ti₃C₂ 等体系中诱导出铁磁序。⚠️ 该文本身未使用 Stoner 判据或 Stoner 模型的表述（笔记中「Stoner」仅 1 次命中），「提高 $N(E_F)$ 以满足 $I\,N(E_F)>1$」这一层解读是本页所加，非原文语言。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

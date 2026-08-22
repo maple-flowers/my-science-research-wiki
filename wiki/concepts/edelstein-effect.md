@@ -64,4 +64,3 @@ updated: 2026-08-18
 - [[../concepts/sliding-ferroelectricity|滑动铁电]]：自旋-轨道环境可编程平台。
 - [[../entities/Fe3GaTe2|Fe₃GaTe₂]]：室温二维铁磁体，磁各向异性可调。
 - [[../entities/WTe2|WTe₂]]：极性堆叠的层状半金属。
-*（内容由AI生成，仅供参考）*

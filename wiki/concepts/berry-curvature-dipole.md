@@ -63,4 +63,3 @@ updated: 2026-08
 - [[../concepts/sliding-ferroelectricity|滑动铁电]]：调控反演破缺的二维机制。
 - [[../entities/TMDs|TMDs]]：低对称二维平台。
 - [[../entities/WSe2|WSe₂]]：二维非线性输运研究体系。
-*（内容由AI生成，仅供参考）*

@@ -1,13 +1,14 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_df8782809bc811f19467525400287e28
-    ReservedCode1: iGuaq+uTsEMJougSjvp8ZFqKVVwwvvFe8g1xg0F+XqA1MsS0osBIGikvx1mN5XYvflf1+YSfbr8vfTi65Vsg53EOPhlPIAx08ISgHZm8kVw1d/sVpIY7qa8UJF5jRtzh62vz6gxjK6bUp544540SE5qQ7DYIwvJ2u+nRmPK0URts+LRJUQX5Gny6LOk=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_df8782809bc811f19467525400287e28
-    ReservedCode2: iGuaq+uTsEMJougSjvp8ZFqKVVwwvvFe8g1xg0F+XqA1MsS0osBIGikvx1mN5XYvflf1+YSfbr8vfTi65Vsg53EOPhlPIAx08ISgHZm8kVw1d/sVpIY7qa8UJF5jRtzh62vz6gxjK6bUp544540SE5qQ7DYIwvJ2u+nRmPK0URts+LRJUQX5Gny6LOk=
+tags: [concept, ferroelectric, metal, polar-metal]
+title: 铁电金属 / Ferroelectric Metal
+type: concept
 status: mature
+domain: [ferroelectricity, polar-metals, 2d-materials]
+mechanism: "金属导电性与可电场翻转的自发极化共存；极化多由层间滑移或极性声子软模提供，导电电子与极性畸变在实空间/轨道空间解耦，屏蔽不完全"
+related_concepts: [polar-metal, metallic-ferroelectricity, hyper-ferroelectric-metal, sliding-ferroelectricity, ferroelectricity]
+related_entities: [WTe2, LiOsO3]
+papers: [feiFerroelectricSwitchingTwodimensional2018a, bhowalPolarMetalsPrinciples2023b, zhaoRealization2DMultiferroic2024, wangTwodimensionalFerroelectricMetal2025, miaoMagneticFerroelectricMetal2024, sharmaRoomtemperatureFerroelectricSemimetal2019]
+updated: 2026-08
 ---
 
 
@@ -66,4 +67,3 @@ status: mature
 - [[../concepts/ferroelectricity|铁电性]]
 - [[../entities/WTe2|WTe2]]
 - [[../entities/LiOsO3|LiOsO3]]
-*（内容由AI生成，仅供参考）*

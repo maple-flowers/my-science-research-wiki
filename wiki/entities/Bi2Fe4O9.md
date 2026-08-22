@@ -2,13 +2,18 @@
 tags: [entity, multiferroicity, magnetoelectric-coupling, spin-spiral, dzyaloshinskii-moriya-interaction, oxygen-octahedron-rotation]
 title: Bi2Fe4O9
 type: entity
-status: developing
+status: stub
 year: 2011
 papers: [Goswami2011multiferroic]
 updated: 2026-08-18
 ---
 
 # Bi2Fe4O9
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 利用x射线衍射和中子衍射实验结果表明，在室温下5T磁场下，∼22nm BiFeO3粒子的铁电极化在磁转变点TN（∼635K）附近跳跃∼30%，抑制∼7%。
 

@@ -2,18 +2,23 @@
 tags: [entity, material, 2D, magnetism]
 title: 硫磷化镍 (NiPS₃)
 type: entity
-status: mature
+status: stub
 category: [D01]
 formula: NiPS3
 stoichiometry: Monolayer / Bulk
 class: [vdW, antiferromagnet, insulator]
 properties: [antiferromagnetism, XXZ-type, Zhang-Rice-singlet]
 related_entities: [MnPSe3, FePS3, TMDs]
-papers: [tanRevealingEmergentMagnetic2024, bhowalPolarMetalsPrinciples2023b, chenStrongSlidingFerroelectricity2024]
+papers: []
 updated: 2026-08
 ---
 
 # 硫磷化镍 (NiPS₃)
+
+> [!warning] 参数与引文来源待补
+> 经核对，本页下方原列的部分论文在其原始笔记中**完全未提及本材料**，相应贡献句系无据推测，已于 2026-08-21 撤回（见「已撤回的引文」）。
+> 本页正文与参数表属领域常识性表述，**目前在本库内无一手文献支撑**，数值仅供定位、不可引用。已按 SCHEMA 降级。
+
 
 NiPS₃ 是 MPX₃ 家族中物理机制最为复杂的成员之一，常被归类为 XXZ 型二维反铁磁体。它在电子结构上展现出显著的电荷转移绝缘体特征，并被认为存在类似高温超导材料中的 Zhang-Rice  singlet。其丰富的磁-光耦合效应使其在量子信息处理中受到广泛关注。
 
@@ -38,10 +43,15 @@ NiPS3 的层状结构由 Ni 蜂窝格、P 原子对与 S 原子层三明治单�
 | **特殊电子态** | Zhang-Rice singlet | 与高温超导机理相关 |
 
 ## 📚 相关论文 (Related Papers)
+本库现有文献中**没有一篇实际讨论本材料**，故本节暂无条目。待录入相关论文后补齐。
 
-- [[../papers/tanRevealingEmergentMagnetic2024]]：讨论了 NiPS₃ 中反铁磁序的光学与量子磁学表征。
-- [[../papers/bhowalPolarMetalsPrinciples2023b]]：涉及电荷转移能级对极性体系磁性的影响。
-- [[../papers/chenStrongSlidingFerroelectricity2024]]：作为二维磁性材料库成员被引用，对比其 SOC 强度。
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其原始笔记后确认该文**通篇未提及本材料**，原贡献句为无据推测，现撤回：
+
+- `tanRevealingEmergentMagnetic2024`：原贡献句称「讨论了 NiPS₃ 中反铁磁序的光学与量子磁学表征」，但该文笔记中无 NiPS₃ 相关内容。
+- `bhowalPolarMetalsPrinciples2023b`：原贡献句称「涉及电荷转移能级对极性体系磁性的影响」，与 NiPS₃ 无直接关系，该文笔记亦未提及本材料。
+- `chenStrongSlidingFerroelectricity2024`：原贡献句称「作为二维磁性材料库成员被引用，对比其 SOC 强度」，但该文笔记中无 NiPS₃ 相关内容。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

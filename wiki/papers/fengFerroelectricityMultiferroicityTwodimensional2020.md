@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/fengFerroelectricityMultiferroicityTwodimensional2020]]
 projects: [project-2, project-4, project-5]
-concepts: [2D-materials, berry-phase, density-functional-theory, ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, d0-rule, out-of-plane-ferroelectricity, spin-lattice-charge-coupling, magnetic-anisotropy-energy, superexchange-goodenough-kanamori, CINEB, transition-metal-phosphorus-trichalcogenides, antiferroelectricity]
+concepts: [2D-materials, berry-phase, density-functional-theory, ferroelasticity, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, d0-rule, out-of-plane-ferroelectricity, spin-lattice-charge-coupling, magnetic-anisotropy, superexchange-goodenough-kanamori, CINEB, transition-metal-phosphorus-trichalcogenides, antiferroelectricity]
 entities: [Fe3GeTe2, In2Se3, SnTe, TMDs, VASP, h-BN, C2DB, Sc2P2Se6, ScCrP2Se6]
 methods: [afm-pfm, berry-phase, dft, monte-carlo, neb]
 materials: [Fe3GeTe2, In2Se3, SnTe, TMDs, h-BN]

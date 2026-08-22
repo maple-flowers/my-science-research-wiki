@@ -10,7 +10,7 @@ key_quantities:
   BiFeO3_Ec: "约 38 kV/mm（70 nm 薄膜）"
   BiFeO3_Vc: "约 2.3 V（70 nm 薄膜）"
   mechanical_switching_force: "3325 nN（完全翻转）"
-papers: [Chen2016electrical, martinThinfilmFerroelectricMaterials2016, caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025, cuiIntercorrelatedInplaneOutofplane2018a, junqueraCriticalThicknessFerroelectricity2003, Kim2008effect, sunSlidingFerroelectricityTwodimensional2025, tangMultiferroicityTwodimensionalVan2025, tianRoomtemperatureTwodimensionalMultiferroic2026]
+papers: [Chen2016electrical, caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025, cuiIntercorrelatedInplaneOutofplane2018a, junqueraCriticalThicknessFerroelectricity2003, Kim2008effect, sunSlidingFerroelectricityTwodimensional2025, tangMultiferroicityTwodimensionalVan2025, tianRoomtemperatureTwodimensionalMultiferroic2026]
 updated: 2026-08
 ---
 
@@ -65,7 +65,6 @@ updated: 2026-08
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/Chen2016electrical]]：在 70 nm BiFeO₃ 薄膜中测得 $E_c \approx 38\ \text{kV/mm}$，并将电学、机械翻转统一到成核—分解—重组的两步铁弹路径。
-- [[../papers/martinThinfilmFerroelectricMaterials2016]]：综述薄膜厚度、外延应变、界面和畴壁等因素如何共同改变铁电翻转与器件写入行为。
 - [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]：展示二维多铁异质结构中铁电性通过应变介导磁电耦合，说明外场驱动极化翻转还可联动磁序响应。
 - [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]]：在超薄 In₂Se₃ 中观测面内与面外极化的耦合和可切换性，为二维体系中的极化翻转阈值与尺寸效应提供实验例子。
 - [[../papers/junqueraCriticalThicknessFerroelectricity2003]]：从第一性原理揭示电极屏蔽和退极化场决定钙钛矿超薄膜的铁电临界厚度，解释了减薄后翻转行为为何会改变。
@@ -73,6 +72,12 @@ updated: 2026-08
 - [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：综述二维滑动铁电性的极化翻转机制及器件应用，涵盖层间滑移、势垒和低维写入问题。
 - [[../papers/tangMultiferroicityTwodimensionalVan2025]]：梳理二维范德华多铁材料中的铁电/铁弹序、磁电耦合和调控挑战，为比较不同低维翻转机制提供背景。
 - [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]：报道室温二维多铁金属中的电压可控磁序，展示极化调控从单纯电写入扩展到电写磁读的器件方向。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `martinThinfilmFerroelectricMaterials2016`：原文笔记中无 coercive/矫顽相关内容。
 
 ## 📋 关键参数表
 

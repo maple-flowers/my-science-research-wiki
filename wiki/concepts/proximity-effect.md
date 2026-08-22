@@ -7,7 +7,7 @@ year: 2020
 domain: [condensed-matter-physics, spintronics, 2d-materials]
 mechanism: 异质结界面处一种有序性（磁性/超导/自旋轨道）通过波函数重叠与交换耦合诱导到邻近材料中
 related_concepts: [magnetoelectric-coupling, spin-orbit-coupling, rashba-effect, edelstein-effect, two-dimensional-magnetism, van-der-waals-heterostructure, spin-valve, spin-injection]
-papers: [liuSpintronicsTwoDimensionalMaterials2020b, caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]
+papers: [liuSpintronicsTwoDimensionalMaterials2020b]
 updated: 2026-08-19
 ---
 
@@ -56,7 +56,12 @@ updated: 2026-08-19
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]：二维自旋电子学综述，系统论述邻近效应在自旋注入与操控中的作用。
-- [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]：铁电极化驱动应变介导磁电耦合的邻近调控实例。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025`：原文笔记中无 proximity/近邻效应相关内容。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

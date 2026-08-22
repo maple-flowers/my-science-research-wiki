@@ -6,7 +6,7 @@ status: mature
 domain: [magnetism, magnetoelectric-coupling, multiferroicity, strain-engineering]
 mechanism: 磁序（自旋-自旋交换）与晶格应变/声子之间的耦合，磁致伸缩与弹性对磁序的反馈是其一体现；在多铁中磁弹耦合可介导磁序到极化、应变的能量传递
 related_concepts: [magnetoelectric-coupling, multiferroicity, strain-engineering, spin-spiral, dzyaloshinskii-moriya-interaction, magnetic-phase-transition, antiferromagnetism, exchange-striction]
-papers: [Goswami2011multiferroic, mostovoyMultiferroicsDifferentRoutes2024, fiebigEvolutionMultiferroics2016]
+papers: [Goswami2011multiferroic]
 updated: 2026-08
 ---
 
@@ -48,8 +48,13 @@ updated: 2026-08
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/Goswami2011multiferroic]]：BiFeO₃ 纳米粒子中磁-极化-应变耦合的直接实验证据。
-- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]：多铁磁电耦合路径综述（含磁弹通道）。
-- [[../papers/fiebigEvolutionMultiferroics2016]]：多铁性发展综述，涵盖磁弹与应变作用。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `mostovoyMultiferroicsDifferentRoutes2024`：原文笔记中无 magnetoelastic/磁弹相关内容。
+- `fiebigEvolutionMultiferroics2016`：同上。
 
 ## 🏷️ 专业名词别名
 

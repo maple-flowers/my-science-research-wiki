@@ -2,7 +2,7 @@
 tags: [concept, physics, surface-science]
 title: 功函数 (Work Function)
 type: concept
-status: mature
+status: developing
 domain: [solid-state-physics, surface-science, microelectronics]
 mechanism: 将一个电子从材料内部移到表面外真空能级处所需的最小能量
 related_concepts: [schottky-barrier, band-alignment, band-offset, electrostatic-gating]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 功函数 / Work Function ($\Phi$)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 功函数 ($\Phi$) 是凝聚态物理中的一个基本表面参数。它定义为将一个电子从固体（通常是金属或半导体）的费米能级移除并放置到紧邻其表面外的真空中所需的最小能量（即真空能级 $E_{vac}$ 与费米能级 $E_F$ 之差）。
 

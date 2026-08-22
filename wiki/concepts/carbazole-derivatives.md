@@ -10,6 +10,11 @@ updated: 2026-08-18
 
 # carbazole-derivatives
 
+> [!warning] 本页内容待重写（太奶导读部分）
+> 本页「太奶导读」为自动生成的占位内容，描述的是某篇论文的研究对象而非本条目本身，待按真实概念重写。
+> 正文其余部分与贡献句已核，可参考。（标记于 2026-08-21）
+
+
 三组基于咔唑衍生物的同构掺杂体系（PC&PB, BPC&BPB, BCPC&BCPB），以及为验证普适性而设计的四个额外体系（BCPC&b-BCPC, BCPC&c-BCPC, BCPSO&b-BCPC, BCPSO&c-BCPC）。
 
 ## 👵 太奶导读

@@ -2,13 +2,18 @@
 tags: [concept, 2d-materials, optical-fiber-humidity-sensor, evanescent-field, refractive-index-sensing]
 title: penn-model
 type: concept
-status: developing
+status: stub
 year: 2021
 papers: [Owji20212d]
 updated: 2026-08-18
 ---
 
 # penn-model
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 摘要在本研究中，蚀刻的纤维被镀上2D层，例如二硫化钼（MoS2)，二硒化钼（MoSe2)并对石墨烯和氧化石墨烯（G/GO）的组成进行了改性。
 

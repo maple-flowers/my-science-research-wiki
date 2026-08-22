@@ -2,7 +2,7 @@
 tags: [entity, material, TMD, 2D, ferromagnet, CDW]
 title: 二硒化钒 (VSe2) / Vanadium Diselenide
 type: entity
-status: mature
+status: developing
 formula: VSe2
 stoichiometry: 1T
 class: [TMD, vdW, metal]
@@ -13,6 +13,11 @@ updated: 2026-08
 ---
 
 # 二硒化钒 (VSe2) / Vanadium Diselenide
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 二硒化钒 (VSe2) 是一种备受争议且物理内涵极其丰富的二维材料。在 1T 相下，它展现出极强的电荷密度波 (CDW) 序，且转变温度可被维度效应显著推高。同时，VSe2 的单层形式被认为是实现**本征二维磁性**的有力候选材料，尽管这一结论在实验上仍存在较多竞争性解释。
 

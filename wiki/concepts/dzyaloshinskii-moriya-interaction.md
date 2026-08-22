@@ -2,7 +2,7 @@
 tags: [concept, magnetism, topology]
 title: Dzyaloshinskii-Moriya 相互作用 (DMI)
 type: concept
-status: mature
+status: developing
 domain: [magnetism, topology, spintronics, multiferroicity]
 mechanism: 自旋轨道耦合与交换作用在反演对称破缺体系中耦合产生的反对称交换作用，哈密顿量 -D·(S₁×S₂)，使相邻自旋倾向于互相垂直，驱动手性磁结构
 related_concepts: [spin-orbit-coupling, helical-magnetism, skyrmion, ferromagnetism, inversion-symmetry-breaking, exchange-interaction, chirality, inverse-dzyaloshinskii-moriya, electric-dmi]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # Dzyaloshinskii-Moriya 相互作用 (DMI)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 Dzyaloshinskii-Moriya 相互作用（Dzyaloshinskii-Moriya interaction, DMI）是缺乏反演对称的磁性体系中由**自旋轨道耦合（SOC）**与交换作用耦合产生的反对称交换相互作用。其哈密顿量形如 $-\mathbf{D}\cdot(\mathbf{S}_1\times\mathbf{S}_2)$，倾向于使相邻自旋**互相垂直**而非平行/反平行排列，是手性磁结构（螺旋磁序、斯格明子、磁孤子）的核心驱动机制。
 

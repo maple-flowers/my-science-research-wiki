@@ -2,7 +2,7 @@
 tags: [concept, ferroelectricity, spintronics]
 title: 畴壁运动 / Domain Wall Motion
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, ferroelectricity]
 mechanism: 外场驱动下铁电/铁磁畴壁迁移，决定极化翻转速度与能耗
 related_concepts: [domain-wall, polarization-switching, ferroelectricity, topological-defects]
@@ -11,6 +11,11 @@ updated: 2026-08-20
 ---
 
 # domain-wall-motion
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 畴壁运动（domain wall motion）指铁电/铁磁畴壁在**外场（电场、磁场、应力）驱动下迁移**的过程。畴壁运动决定了极化/磁化翻转的速度与能耗，是铁电存储、铁电器件与神经形态计算中开关动力学与阻变行为的关键物理机制。
 

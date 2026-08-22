@@ -1,13 +1,14 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_e3a968ab9bc811f19467525400287e28
-    ReservedCode1: qGrsS/naDIpnAdR827B+PjbObUmYWYJmaRhObGK/K3WzdccfsFpTigw4A0BeqxojAY+p81TYAXSAsWhhV5B0PVFAI64SpfYoDJMYCbalnw6XCa4V1wC/fDcBK8ENeqzHudoawr9YbShZtYbflkrHZaPC7RBX9eV6oYVgUZGJ/b9/fAtuJqKwO4KF8Uw=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_e3a968ab9bc811f19467525400287e28
-    ReservedCode2: qGrsS/naDIpnAdR827B+PjbObUmYWYJmaRhObGK/K3WzdccfsFpTigw4A0BeqxojAY+p81TYAXSAsWhhV5B0PVFAI64SpfYoDJMYCbalnw6XCa4V1wC/fDcBK8ENeqzHudoawr9YbShZtYbflkrHZaPC7RBX9eV6oYVgUZGJ/b9/fAtuJqKwO4KF8Uw=
+tags: [concept, multiferroic, metal, magnetism]
+title: 磁性极性金属 / Magnetic Polar Metal
+type: concept
 status: mature
+domain: [multiferroics, polar-metals, 2d-magnetism]
+mechanism: "在同一金属相中同时破缺空间反演（极性畸变）与时间反演（磁有序），三种序参量（导电性、极化、磁化）共存并通过自旋-轨道耦合互相调控"
+related_concepts: [multiferroicity, magnetoelectric-coupling, polar-metal, ferroelectric-metal, sliding-ferroelectricity]
+related_entities: [Fe3GeTe2, WTe2]
+papers: [miaoMagneticFerroelectricMetal2024, wuNonvolatileSwitchableHalfmetallicity2024, tianRoomtemperatureTwodimensionalMultiferroic2026]
+updated: 2026-08
 ---
 
 
@@ -67,4 +68,3 @@ status: mature
 - [[../concepts/sliding-ferroelectricity|滑动铁电性]]
 - [[../entities/Fe3GeTe2|Fe3GeTe2]]
 - [[../entities/WTe2|WTe2]]
-*（内容由AI生成，仅供参考）*

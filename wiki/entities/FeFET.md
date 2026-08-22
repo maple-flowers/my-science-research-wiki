@@ -2,7 +2,7 @@
 tags: [entity, device, memory, ferroelectric]
 title: 铁电场效应晶体管 (FeFET)
 type: entity
-status: mature
+status: developing
 class: [transistor, memory-device]
 properties: [non-volatile, ferroelectric-switching, CMOS-compatible]
 papers: [chenHafniumBasedFerroelectricPostMoore2026, martinThinfilmFerroelectricMaterials2016, huangTwodimensionalIn2Se3Rising2022, sunSlidingFerroelectricityTwodimensional2025]
@@ -10,6 +10,11 @@ updated: 2026-08
 ---
 
 # 铁电场效应晶体管 / Ferroelectric Field-Effect Transistor (FeFET)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 铁电场效应晶体管 (FeFET) 是一种将铁电材料集成到常规场效应晶体管 (FET) 栅极堆叠中的三端非易失性存储器件。通过铁电层的极化状态来调制沟道的电导，从而实现信息的存储。
 ## 👵 太奶导读
 > [!info] 👵 太奶导读

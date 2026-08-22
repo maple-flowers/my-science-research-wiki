@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Tobeiha2025optical]]
 projects: [project-6, project-1]
-concepts: [2d-materials, p-type-semiconductor, exciton-binding-energy, optical-bandgap, two-photon-absorption, photoconductivity, humidity-sensing-mechanism, kubelka-munk-theory]
+concepts: [2d-materials, p-type-semiconductor, exciton-binding-energy, optical-band-gap, two-photon-absorption, photoconductivity, humidity-sensing-mechanism, kubelka-munk-theory]
 entities: [graphene, graphene-oxide, g-go-nanosheets]
 methods: [fesem, edx, xrd, ftir, raman-spectroscopy, pl-spectroscopy, diffuse-reflectance-spectroscopy, tauc-plot, dip-coating, iv-measurement, sonochemical-exfoliation]
 materials: [graphene, graphene-oxide, silicon-substrate]

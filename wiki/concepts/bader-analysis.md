@@ -2,13 +2,18 @@
 tags: [concept, density-functional-theory, charge-density, zero-flux-surface, lattice-bias, 2d-materials, strain-engineering, bond-density, binding-strength]
 title: bader-analysis
 type: concept
-status: developing
+status: stub
 year: 2009
 papers: [tangGridbasedBaderAnalysis2009, Li2013bonding]
 updated: 2026-08-18
 ---
 
 # bader-analysis
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 本文档围绕 **bader-analysis** 汇集 2 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
 
@@ -44,7 +49,7 @@ updated: 2026-08-18
 - [[../entities/VASP|VASP]]
 - [[../entities/Gaussian-98|Gaussian-98]]
 - [[../entities/Quantum-ESPRESSO|Quantum-ESPRESSO]]
-- [[../entities/PAW|PAW]]
+- [[../concepts/paw-method|PAW]]
 - [[../entities/Vanderbilt-ultrasoft|Vanderbilt-ultrasoft]]
 - [[../entities/bader-code|bader-code]]
 - [[../concepts/2d-materials|2d-materials]]

@@ -2,7 +2,7 @@
 tags: [concept, non-linear-optics, solid-state-physics]
 title: 法拉第效应 / Faraday Effect
 type: concept
-status: mature
+status: developing
 domain: [solid-state-physics, optics, spintronics]
 mechanism: 线偏振光在穿过处于磁场中的介质时，其偏振面发生旋转的磁光现象
 related_concepts: [kerr-effect, optical-activity, magnetoelectric-coupling]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 法拉第效应 / Faraday Effect
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 法拉第效应（Faraday Effect）是一种磁光效应。当线偏振光在介质中沿磁场方向传播时，由于左旋和右旋圆偏振光在磁场环境下的折射率不同（圆双折射），会导致出射光的偏振面相对于入射光发生旋转。
 

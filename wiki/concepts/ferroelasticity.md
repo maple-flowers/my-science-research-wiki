@@ -2,13 +2,18 @@
 tags: [concept, ferroic, mechanics]
 title: 铁弹性 / Ferroelasticity
 type: concept
-status: mature
+status: developing
 related_concepts: [ferroelectricity, domain-wall, structural-phase-transition, ferroic-order, 2d-materials]
 papers: [Chen2016electrical, FerroelectricityMultiferroicityAtomic2023, Jin2015studying, RecentAdvancesGrowth2025, bhowalPolarMetalsPrinciples2023b, chenFerromagneticNonmagnetic1T2022, fengFerroelectricityMultiferroicityTwodimensional2020, fiebigEvolutionMultiferroics2016, gaoStrainEngineeringFerroelectric2024, gomez-ortizKittelLawDomain2023, guanRecentProgressTwoDimensional2020, hanPolarTopologicalMaterials2025, heSwitchingTwodimensionalSliding2025, hillWhyAreThere2000a, houStrainbasedRoomtemperatureNonvolatile2019, huProgressProspectsLowdimensional2019, huangPolarPhaseDomain2019, kaurRecentAdvancesTheoretical2025a, liFerroelasticityDomainPhysics2016, liMonolayerPuckeredPentagonal2022, liPhaseTransitions2D2021, mostovoyMultiferroicsDifferentRoutes2024, pedramraziManipulatingTopologicalDomain2019, rameshMultiferroicsProgressProspects2007, sharmaRoomtemperatureFerroelectricSemimetal2019, spaldinAdvancesMagnetoelectricMultiferroics2019, spaldinRenaissanceMagnetoelectricMultiferroics2005, sunSlidingFerroelectricityTwodimensional2025, tangMultiferroicityTwodimensionalVan2025, wangFormationMechanismTwin2019, wuSlidingFerroelectricity2D2021a, xuTunableFerroelectricTopological2022, xuTwodimensionalFerroelasticityVan2021, xunCoexistingMagnetismFerroelectric2024, yangRipplingFerroicPhase2021, yangStrainEngineeringTwodimensional2021, zahraCriticalAnalysisFerroelectric2025, zhangEmergingFrontiersTwodimensional2025, zhongHighthroughputExfoliationMultiferroic2025]
 updated: 2026-08
 ---
 
 # ferroelasticity
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 铁弹性（ferroelasticity）指材料存在**两个及以上等价取向态（畴）**，可通过外加应力在取向态之间切换，并呈现应力-应变滞回线的现象。铁弹体、铁电体与铁磁体同属"铁性体（ferroics）"，铁弹性常与铁电性、铁磁性耦合共存，是多铁材料研究的重要组分。
 

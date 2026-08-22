@@ -1,51 +1,71 @@
 ---
-tags: [entity, two-photon-excitation, vls-growth, nanowire-superlattice, spherical-aberration, rare-earth-doping, sliding-ferroelectricity, multiferroicity, magnetoelectric-coupling, berry-phase, spin-orbit-coupling]
+tags: [entity, rare-earth-doping, sliding-ferroelectricity, two-photon-excitation, lateral-integration, interlayer-charge-transfer, polarization-switching]
 title: GaN
 type: entity
 status: developing
 year: 2002
-papers: [Khitrov2002internal, kaurRecentAdvancesTheoretical2025a, wuSlidingFerroelectricity2D2021a]
-updated: 2026-08-18
+papers: [wuSlidingFerroelectricity2D2021a, kaurRecentAdvancesTheoretical2025a, Khitrov2002internal]
+updated: 2026-08-21
 ---
 
 # GaN
 
-本文档围绕 **GaN** 汇集 3 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
+氮化镓（GaN）在本库中以两个互不相干的身份出现，必须分开看：一是**稀土掺杂发光母体**，作为宽禁带半导体承载稀土离子的 f–f 跃迁，用于电致发光器件；二是**石墨型少层 GaN**，作为蜂窝格子二元化合物，在双层错堆叠下表现出滑移铁电性。两者的文献、时间跨度（2002 vs 2021–2025）和物理机制都无重叠，本页不把它们合并叙述。
 
 ## 👵 太奶导读
 
-乖孙，这一条讲的是「GaN」，由多篇论文的证据共同支撑。
-一句话记住它的发现：成功制备了直径可控的Si/SiGe超晶格纳米线。
+乖孙，氮化镓这东西在这个库里被当成两种完全不同的材料在用。
+
+一种用法是把它当"灯罩"：它带隙宽、透光，往里掺不同的稀土离子（铕发红、铽发绿），离子被电流激发后各发各的颜色。以前的做法是把不同掺杂层上下叠起来，可上下层要用不同电压才亮，电路很麻烦；2002 年有人改成把不同掺杂区**并排铺在同一个平面上**，同一个电压就能各自发光，电路一下就简单了。
+
+另一种用法完全是近几年的事：把 GaN 剥成两层石墨那样的蜂窝薄片，上下两层稍微错开一点堆叠，层与层之间就会挪一点电子过去，整个薄片自己就带上了上下方向的电偶极——这就是滑移铁电性。它的计算极化是 9.72 pC/m，比同样机制的氮化硼双层（2.08 pC/m）高将近五倍。注意这是**理论计算值**，不是量出来的。
 
 ## 🧩 核心内容与机制 (Core Content)
 
-- **研究背景**：2002年，纳米线研究正从均匀结构向异质结构发展，亟需可控的一维超晶格合成方法；纳米纤维的力学及电学性质测量需要单根纤维悬空技术；半导体内部缺陷的无损检测缺乏深层成像手段；GaN基发光器件寻求多色集成简化方案。
-- **核心问题**：如何在一维纳米线中实现类似于二维薄膜异质结构和超晶格的构建？如何通用地悬浮单根纳米纤维？如何观察半导体内部而非仅表面的缺陷？如何实现GaN基器件的横向颜色集成以简化驱动？
-- **主要结论**：成功制备了直径可控的Si/SiGe超晶格纳米线；演示了碳纳米管的悬浮及杨氏模量测量；获得了ZnSe内部200μm深度的缺陷三维图像；实现了GaN红、绿ELD的横向集成。；1. 滑动铁电性起源于不对称堆叠导致的层间电荷转移和轨道畸变，是一种纯电子效应。2. 极化可通过应变、压力、电场、激光脉冲和层数进行有效调控，其中倾斜电场和激光脉冲可实现超快、低功耗翻转。3. 滑动铁电性可与(反)铁磁性、铁弹性、拓扑序耦合，实现磁电耦合、层极化自旋霍尔效应、电控量子反常霍尔效应和诱导交变磁性。4. 群论分析为判断滑动铁电性提供了通用对称性判据，热力学模型则证明其一级相变特征，并指出二维材料的高面内刚度是其低能垒下极化稳健性的来源。
-- **领域贡献**：将二维异质结构概念拓展至一维体系；为纳米力学测量提供了通用方案；引入了双光子成像作为半导体深层缺陷的检测手段；提出了横向颜色集成的新器件范式。；本综述超越了对现象的简单罗列，首次系统地整合了滑动铁电性的理论起源、材料汇编、调控机制、多铁耦合及通用理论模型。它澄清了“电子起源”的微观图像，提出了“极化-能垒”性能地图，并将该领域与拓扑物理和交变磁性等前沿概念紧密连接，为未来理论和实验研究构建了完整的知识框架。
-- **研究意义**：一维异质结构的实现开辟了纳米线功能化新途径；通用悬浮方法为纳米纤维本征特性研究提供了平台；双光子成像将缺陷表征由表面推向体相；横向颜色集成简化了GaN发光器件的架构，具有显示应用潜力。
+### 身份一：石墨型少层 GaN —— 滑移铁电候选材料
+
+wu2021a 把滑移铁电性的适用范围从 h-BN 推广到"大多数蜂窝格子二元化合物"，并明确点出石墨型少层 GaN **已被实验合成**，因此不是纯假想体系。其机制与 h-BN 同源：AB 错堆叠破坏中心对称，层间发生微小电荷转移，产生垂直方向自发极化；极化方向可由层间滑移翻转。
+
+计算的 AB 堆叠双层垂直极化（同一套计算，可横向比较）：
+
+| 体系 | 极化 (pC/m) |
+| --- | --- |
+| BN | 2.08 |
+| ZnO | 8.22 |
+| AlN | 10.29 |
+| **GaN** | **9.72** |
+| [[../entities/SiC\|SiC]] | 6.17 |
+| MoS₂ | 0.97 |
+| InSe | 0.24 |
+
+GaN 位于该表的高极化一端，仅次于 AlN。kaur2025a 复述并归纳了同一结论："AlN、ZnO、SiC 和 GaN 双层体系显示出高达五倍的自发垂直极化"（相对 h-BN），并把 GaN 与 [[black-phosphorus\|black-phosphorus]]、GeC 并列为 AC 堆叠构型的代表体系。kaur2025a 同时指出，在这组 III–V / IV 族化合物中，**GeC 的 AC 堆叠是全局能量最低态，实验可行性更高**——也就是说 GaN 虽然极化大，但在"哪个更容易做出来"这一维度上并非首选。
+
+### 身份二：稀土掺杂 GaN —— 横向颜色集成的发光母体
+
+Khitrov2002internal 记述的工作：在 GaN 母体中分区掺入不同稀土离子，实现红、绿电致发光单元的**横向集成**。关键动机是电路简化——传统垂直集成把不同掺杂层上下堆叠，各层需施加不同偏压才能分别发光；横向集成把不同掺杂区并排做在同一平面，各区在相同驱动条件下独立发光。原文报告实现了红、绿 ELD 的横向集成并在相同偏压下获得代表性颜色。
+
+发光机制：不同稀土离子具有各自特征的 f–f 跃迁能级，在 GaN 母体中受载流子激发后发出特定波长的光。GaN 在此仅充当宽禁带主体，本身不是发光中心。
+
+## ⚠️ 使用本页时的边界
+
+- **两个身份不可混用**。滑移铁电性讨论的是石墨型（蜂窝、二维）GaN；稀土掺杂器件用的是常规三维 GaN 外延层。把 9.72 pC/m 挪到发光器件语境里是错的。
+- **9.72 pC/m 是 DFT 计算值**，wu2021a 的表 1 通篇为"Computed vertical polarizations"。本库中未见石墨型 GaN 铁电性的实验测量。
+- **Khitrov2002internal 不是一篇研究论文**，而是 2002 年 4 月《MRS Bulletin》"RESEARCH/RESEARCHERS"栏目的一组研究快讯（内含 Si/SiGe 超晶格纳米线、纳米纤维悬浮、双光子缺陷成像、GaN 横向集成四则彼此独立的短讯）。引用它时只能引 GaN 那一则，且它本身是二手报道，原始工作为 Lee 和 Steckl 所做——本库无该原始论文。
+- 原文并未给出横向集成器件的发光效率、亮度或稀土离子浓度，故本页不列参数表。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/Khitrov2002internal]]：将二维异质结构概念拓展至一维体系；为纳米力学测量提供了通用方案；引入了双光子成像作为半导体深层缺陷的检测手段；提出了横向颜色集成的新器件范式。
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]：本综述超越了对现象的简单罗列，首次系统地整合了滑动铁电性的理论起源、材料汇编、调控机制、多铁耦合及通用理论模型。
-- [[../papers/wuSlidingFerroelectricity2D2021a]]：为本文档提供核心证据。
+- [[../papers/wuSlidingFerroelectricity2D2021a]]：给出 AB 堆叠双层的统一计算极化表，将石墨型少层 GaN（9.72 pC/m）列为已合成且极化远高于 h-BN 的滑移铁电候选体系。
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]：归纳 AlN/ZnO/SiC/GaN 一族双层的垂直极化可达 h-BN 的五倍，同时指出同族中 GeC 的 AC 堆叠为全局能量最低态、实验可行性更高，为 GaN 的候选地位划出边界。
+- [[../papers/Khitrov2002internal]]：作为 2002 年研究快讯记述了稀土掺杂 GaN 的红、绿电致发光单元横向集成方案，其价值在于以同平面分区替代垂直堆叠，使各发光区可在相同偏压下驱动。
 
 ## 🔗 关联概念与实体 (Related)
 
-- [[../concepts/two-photon-excitation|two-photon-excitation]]
-- [[../concepts/vls-growth|vls-growth]]
-- [[../concepts/nanowire-superlattice|nanowire-superlattice]]
-- [[../concepts/spherical-aberration|spherical-aberration]]
+- [[../concepts/sliding-ferroelectricity|sliding-ferroelectricity]]
+- [[../concepts/interlayer-stacking|interlayer-stacking]]
+- [[../concepts/interlayer-charge-transfer|interlayer-charge-transfer]]
+- [[../concepts/polarization-switching|polarization-switching]]
 - [[../concepts/rare-earth-doping|rare-earth-doping]]
 - [[../concepts/lateral-integration|lateral-integration]]
-- [[../entities/carbon-nanotube|carbon-nanotube]]
-- [[../entities/photoluminescence-mapping|photoluminescence-mapping]]
-- [[../entities/PMMA|PMMA]]
-- [[../entities/Si-SiGe-nanowire|Si-SiGe-nanowire]]
-- [[../entities/Ti-sapphire-laser|Ti-sapphire-laser]]
-- [[../entities/ZnSe|ZnSe]]
-- [[../concepts/sliding-ferroelectricity|sliding-ferroelectricity]]
-- [[../concepts/multiferroicity|multiferroicity]]
-- [[../concepts/magnetoelectric-coupling|magnetoelectric-coupling]]
-- [[../concepts/berry-phase|berry-phase]]
+- [[../entities/SiC|SiC]]
+- [[../entities/black-phosphorus|black-phosphorus]]

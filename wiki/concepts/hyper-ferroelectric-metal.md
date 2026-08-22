@@ -58,4 +58,3 @@ updated: 2026-08
 - [[../concepts/born-effective-charge|Born 有效电荷]]
 - [[../entities/LiOsO3|LiOsO3]]
 - [[../entities/BaTiO3|BaTiO3]]
-*（内容由AI生成，仅供参考）*

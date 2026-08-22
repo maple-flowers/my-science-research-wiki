@@ -7,7 +7,7 @@ year: 2019
 domain: [condensed-matter-physics, topological-physics]
 mechanism: 破缺空间反演对称或时间反演对称导致的能带线性交叉点（外尔点），为贝里曲率的拓扑荷源/汇
 related_concepts: [berry-curvature, anomalous-hall-effect, topological-charge, fermi-arc, chern-number, dirac-semimetal, topological-insulator, ferroelectricity, polar-metal, sliding-ferroelectricity, quantum-spin-hall-effect, spin-orbit-coupling]
-papers: [sharmaRoomtemperatureFerroelectricSemimetal2019, hanPolarTopologicalMaterials2025, wangTunableD0Topological2025b, feiFerroelectricSwitchingTwodimensional2018a, huangPolarPhaseDomain2019]
+papers: [sharmaRoomtemperatureFerroelectricSemimetal2019, wangTunableD0Topological2025b, feiFerroelectricSwitchingTwodimensional2018a, huangPolarPhaseDomain2019]
 updated: 2026-08-19
 ---
 
@@ -63,10 +63,15 @@ WTe₂ 同时是铁电金属与 II 型外尔半金属：室温下其极性可被
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]]：证实 WTe₂ 作为室温铁电外尔半金属，PFM 观测可翻转极化。
-- [[../papers/hanPolarTopologicalMaterials2025]]：讨论外尔点作为极性拓扑研究的背景与器件前景。
 - [[../papers/wangTunableD0Topological2025b]]：拓扑半金属态与多铁性的耦合调控。
 - [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]：二维金属 WTe₂ 的铁电翻转实验。
 - [[../papers/huangPolarPhaseDomain2019]]：极性相与拓扑相共存下的物理。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `hanPolarTopologicalMaterials2025`：原文笔记中无 Weyl/外尔相关内容。
 
 ## 🔗 关联概念与实体 (Related)
 

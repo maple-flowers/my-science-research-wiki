@@ -2,7 +2,7 @@
 tags: [concept, charge-density-wave, 2D-materials]
 title: 电荷密度波 / Charge Density Wave (CDW)
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, charge-density-wave]
 mechanism: 费米面嵌套驱动的电子密度和晶格周期性调制
 related_concepts: [fermi-surface-nesting, peierls-transition, electron-phonon-coupling]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 电荷密度波 / Charge Density Wave (CDW)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 电荷密度波 (Charge Density Wave, CDW) 是低维固体体系中一种典型的集体量子现象。它表现为电子电荷密度的空间周期性调制，通常伴随着晶格原子位置的周期性畸变 (Periodic Lattice Distortion, PLD)。这种状态通常在低温下发生，其驱动力往往源于费米面嵌套 (Fermi Surface Nesting) 导致的一维或二维不稳定性。
 

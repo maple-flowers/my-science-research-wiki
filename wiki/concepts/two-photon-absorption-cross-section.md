@@ -9,6 +9,11 @@ updated: 2026-08-18
 
 # two-photon-absorption-cross-section
 
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
+
 双光子吸收截面（two-photon absorption cross-section, 2PA cross-section, σ_2PA）是**表征材料在同时吸收两个光子（能量各为 E/2）跃迁到激发态之概率的定量参数**（单位 GM，1 GM=10⁻⁵⁰ cm⁴·s·photon⁻¹）。大截面材料是高分辨率双光子显微、三维光刻、光限幅与双光子光动力治疗的关键。
 
 ## 👵 太奶导读

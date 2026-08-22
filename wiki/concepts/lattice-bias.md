@@ -2,13 +2,18 @@
 tags: [concept, density-functional-theory, enthalpy-of-formation, brillouin-zone-integration, gga-functional, numerical-atomic-orbitals, bader-analysis, charge-density, zero-flux-surface]
 title: lattice-bias
 type: concept
-status: developing
+status: stub
 year: 2000
 papers: [Delley2000, tangGridbasedBaderAnalysis2009]
 updated: 2026-08-18
 ---
 
 # lattice-bias
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 本文档围绕 **lattice-bias** 汇集 2 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
 

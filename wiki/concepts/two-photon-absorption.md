@@ -6,7 +6,7 @@ status: mature
 domain: [nonlinear-optics, biophotonics, photophysics]
 mechanism: 分子在极短时间内（~10^-15 s）同时吸收两个光子，从基态跃迁到高能激发态
 related_concepts: [two-photon-absorption-cross-section, two-photon-fluorescence, second-harmonic-generation, nonlinear-optics]
-papers: [Huang2023two, Huang2019solvatochromic, H2017fluorescence, Gittard2013polymerization, Khitrov2000holographic, Kumar2017microstructuring, Nakanishi2009full, Tobeiha2025optical, Unknown2014passive, WRZYSZCZYNSKI2010initiators, Zhang2008synthesis, Khitrov2002internal, Unknown2022polymerization]
+papers: [Nakanishi2009full, H2017fluorescence, Huang2019solvatochromic, Huang2023two, WRZYSZCZYNSKI2010initiators, Gittard2013polymerization, Kumar2017microstructuring, Unknown2014passive, Unknown2022polymerization, Khitrov2000holographic, Khitrov2002internal, Zhang2008synthesis]
 updated: 2026-08
 ---
 
@@ -40,19 +40,28 @@ TPA 最显著的物理特征是其**概率与入射光强度的平方成正比**
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/Huang2023two]]：研究了具有超大双光子吸收截面的二苯乙烯基探针。
-- [[../papers/Huang2019solvatochromic]]：系统测量了不同环境下的双光子激发谱和截面。
-- [[../papers/H2017fluorescence]]：阐述了双光子吸收在多功能传感中的应用。
-- [[../papers/Gittard2013polymerization]]：从综述角度梳理了「Two-photon polymerization microstructuring in regenerative medicine」。
-- [[../papers/Khitrov2000holographic]]：从实验研究角度梳理了「Holographic Two-Photon Polymerization Increases Speed of Switchable Gratings」。
-- [[../papers/Kumar2017microstructuring]]：从实验研究角度梳理了「Microstructuring by Two-Photon Polymerization using a Sub-Nanosecond Laser」。
-- [[../papers/Nakanishi2009full]]：从理论分析角度梳理了「Full Quantum Analysis of Two-Photon Absorption Using Two-Photon Wave Function: Comparison of Two-Photon Absorption with One-Photon Absorption」。
-- [[../papers/Tobeiha2025optical]]：从实验研究角度梳理了「Optical humidity sensor based on G/GO nanosheets」。
-- [[../papers/Unknown2014passive]]：从实验研究角度梳理了「用于微流控混合的双光子聚合三维被动微混合器」。
-- [[../papers/WRZYSZCZYNSKI2010initiators]]
-- [[../papers/Zhang2008synthesis]]
-- [[../papers/Khitrov2002internal]]
-- [[../papers/Unknown2022polymerization]]
+### 机制与截面（TPA 本体）
+
+- [[../papers/Nakanishi2009full]]：本页唯一的量子光学层面处理——用双光子波函数给出 P₂ 与光子对 T/τ 比值成正比，增强时间关联可大幅提升 P₂；并指出矩形波函数存在「魔法」条件（Δ·τ = π(2n+1)）使单光子吸收概率 P₁ 严格为零而 P₂ 非零，是「TPA 可与单光子过程解耦」的理论依据。
+- [[../papers/H2017fluorescence]]：给出本页 δ 的最高实测值——探针 P1 在非极性溶剂中峰值 δ 达 5560 GM，并给出其发射峰 445→641 nm 的极宽溶剂化变色区间与 E_T(30) 线性关系。
+- [[../papers/Huang2019solvatochromic]]：在二苯乙烯骨架上引入双氰基与二甲氨基构建 P1，系统测量溶剂极性/黏度/温度依赖的双光子激发谱与截面，并首次在黏度实验中观察到 LE / TICT / 激基复合物三重荧光。
+- [[../papers/Huang2023two]]：证明**双氰基对激发态电荷分离的稳定作用**是大 δ 的分子设计来源，1a/1b 表现出极性依赖的大 δ 与双光子激发下的三重荧光。
+- [[../papers/WRZYSZCZYNSKI2010initiators]]：给出 δ 增强的普适分子设计判据——D-π-D、D-π-A 等推拉结构可极大增强 δ，并说明大 δ 引发剂配合飞秒激光即可实现真正的三维「体」加工、抑制氧阻聚。
+
+### 以 TPA 为基础的应用（非 TPA 本体证据）
+
+- [[../papers/Gittard2013polymerization]]：说明 TPA 的**阈值特性**如何转化为加工能力——2PP 借此获得微纳尺度精确几何控制，用于再生医学支架与假体制造。
+- [[../papers/Kumar2017microstructuring]]：证明 TPA 的非线性阈值不依赖飞秒源——亚纳秒激光配合 SU-8/AR-N 4340 + 光引发剂即可达约 500 nm 线宽，并给出功率/写入速度对线宽的定量规律。
+- [[../papers/Unknown2014passive]]：TPA 三维加工能力的应用实例——双光子聚合制成螺旋桨叶式微混合器，单级 12 μl/min 下混合效率 >80%。
+- [[../papers/Unknown2022polymerization]]：TPA 加工用于传感器制造——在光纤尖端制出带可动镜面的 Fabry–Pérot 腔，对温度与折射率高灵敏。
+
+### ⚠️ 证据存疑，暂不作为本页依据
+
+- [[../papers/Khitrov2000holographic]]：标题为全息双光子聚合光栅（液晶畴 20–200 nm），但其 card「研究结论」记录的是**氢化金刚石表面导电性**，标题与结论明显错配，疑为 `raw/note` 侧 PDF 配错。
+- [[../papers/Khitrov2002internal]]：标题为双光子诱导光致发光观测内部缺陷，card 结论却是 Si/SiGe 纳米线、碳纳米管杨氏模量、ZnSe 缺陷成像、GaN ELD 的会议论文集合辑，无法定位本页所需的具体证据。
+- [[../papers/Zhang2008synthesis]]：三支化双光子发色团的合成与非线性光学性质，但 card 中已自注「笔记 AI 解读部分因 PDF 错配不可参考」，故 σ₂ 数值与聚合阈值均不引用。
+
+> 上述三条属 `raw/note` 层的资料错配，按铁律**未改动 raw**，仅在此登记；修复后可回填为正式证据。
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/two-photon-absorption-cross-section|双光子吸收截面]]

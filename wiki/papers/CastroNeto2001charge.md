@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/CastroNeto2001charge]]
 projects: [project-1, project-7]
-concepts: [charge-density-wave, 2d-materials, dirac-electrons, marginal-fermi-liquid, electron-phonon-coupling, fermi-surface-nesting, f-wave-order-parameter, piezo-electric-coupling, kosterlitz-thouless-transition, quantum-critical-point, pseudo-gap, saddle-point-scattering, superconductivity, pseudogap]
+concepts: [charge-density-wave, 2d-materials, dirac-electrons, marginal-fermi-liquid, electron-phonon-coupling, fermi-surface-nesting, f-wave-order-parameter, piezo-electric-coupling, kosterlitz-thouless, quantum-critical-point, pseudogap, saddle-point-scattering, superconductivity]
 entities: [TMDs, TaSe2, TaS2, NbSe2, NbS2, ARPES]
 methods: [tight-binding, mean-field-theory, green-function, bogoliubov-transformation, arpes]
 materials: [2H-TaSe2, 2H-TaS2, 2H-NbSe2, 2H-NbS2]

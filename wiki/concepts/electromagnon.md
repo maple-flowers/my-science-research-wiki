@@ -29,9 +29,10 @@ papers: [songEvidenceSinglelayerVan2022, fiebigEvolutionMultiferroics2016, deSou
 ## 📚 相关论文 (Related Papers)
 - [[../papers/songEvidenceSinglelayerVan2022]]：在单层 NiI₂ 中通过圆二色拉曼光谱观测到了电磁振子，作为单层多铁性的关键证据。
 - [[../papers/fiebigEvolutionMultiferroics2016]]：讨论了多铁性材料中高频磁电效应的物理本质。
-- [[../papers/deSousa2008electrical]]
-- [[../papers/RecentAdvancesGrowth2025]]
-- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]
+- [[../papers/deSousa2008electrical]]：给出「电场开关磁振子传播」的具体机制——BiFeO₃ 中最低频自旋波模式因磁静波效应呈强传播各向异性（垂直 Néel 矢量 L 时无能隙、群速度高；平行 L 时打开磁静波能隙、群速度为零），结合已证实的电控翻转 L，即可用电场直接开关长波长磁振子。
+- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]：提供电磁振子所处的理论语境——磁阻挫不仅产生非共线磁序，还能创造极「软」的磁态从而放大磁电响应，这正是电磁振子（磁-极化混合激发）强度的来源。
+- [[../papers/RecentAdvancesGrowth2025]]：提供方法学背景——梳理二维多铁的表征谱系（SHG、STM、拉曼等），电磁振子的圆偏振拉曼探测属其中一环；该综述**未给出电磁振子本身的频率或强度数据**，本页仅引其方法框架与「室温强磁电耦合材料稀缺」的现状判断。
+
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 - [[../concepts/multiferroicity|多铁性]]
 - [[../concepts/magnetoelectric-coupling|磁电耦合]]

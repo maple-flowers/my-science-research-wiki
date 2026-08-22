@@ -2,7 +2,7 @@
 tags: [concept]
 title: '霍尔效应 / Hall Effect'
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, transport]
 mechanism: 载流子在垂直磁场中受洛伦兹力偏转而建立横向霍尔电压
 related_concepts: [anomalous-hall-effect, spin-hall-effect, edelstein-effect, spin-transport, topological-insulator, 2d-materials]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 霍尔效应 / Hall Effect
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 霍尔效应（Hall effect）指**载流子在垂直磁场中受洛伦兹力偏转而在样品横向建立起霍尔电压**的经典输运现象。其量子与拓扑变体——反常霍尔效应、自旋霍尔效应、量子霍尔效应——是探测电子结构、磁序与拓扑性质的核心实验手段。在二维多铁与滑动铁电体系中，霍尔测量用于表征磁电耦合与自旋输运。
 
@@ -64,4 +69,3 @@ updated: 2026-08
 - [[../concepts/2d-materials|二维材料]]：霍尔效应表征的对象。
 - [[../entities/GdI2|GdI₂]]：滑移多铁霍尔表征体系。
 - [[../entities/graphene|石墨烯]]：应变调控霍尔输运的经典体系。
-*（内容由AI生成，仅供参考）*

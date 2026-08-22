@@ -2,7 +2,7 @@
 tags: [concept, computing, brain-inspired]
 title: 神经形态计算 (Neuromorphic Computing)
 type: concept
-status: mature
+status: developing
 domain: [artificial-intelligence, computer-architecture, neuroscience]
 mechanism: 模拟生物神经系统（神经元与突触）的并行、异步、存算一体计算范式
 related_concepts: [synaptic-plasticity, in-memory-computing, memristor, synaptic-weight]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 神经形态计算 / Neuromorphic Computing
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 神经形态计算是一种借鉴生物神经系统原理构建的新型计算范式。它旨在通过模拟神经元（处理器）和突触（存储与通信权重）的结构与功能，实现高能效、大规模并行的信息处理。
 

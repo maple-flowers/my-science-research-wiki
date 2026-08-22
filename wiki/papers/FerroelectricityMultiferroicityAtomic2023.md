@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/FerroelectricityMultiferroicityAtomic2023]]
 projects: [project-2, project-5]
-concepts: [multiferroicity, ferroelectric-tunnel-junction, sliding-ferroelectricity, moire-superlattice, magnetoelectric-coupling, 2d-materials, polarization-switching, ferroelasticity, lego-assembly, size-effect, hafnia-ferroelectricity, stacking-engineered-ferroelectricity, type-ii-multiferroics, encapsulation-2d, critical-thickness-ferroelectric]
+concepts: [multiferroicity, ferroelectric-tunnel-junction, sliding-ferroelectricity, moire-superlattice, magnetoelectric-coupling, 2d-materials, polarization-switching, ferroelasticity, lego-assembly, size-effect, hafnia-ferroelectricity, stacking-engineered-ferroelectricity, type-i-type-ii-multiferroics, encapsulation-2d, critical-thickness-ferroelectric]
 entities: [BiFeO3, In2Se3, WTe2, h-BN, TMDs, PbTiO3, HfO2, CuInP2S6, SnS, MoTe2, CuCrP2S6, NiI2, Cr2Ge2Te6, MoS2, WS2, WSe2, MoSe2]
 methods: [pfm, thin-film-epitaxy, electrical-transport, optical-shg, dft]
 materials: [PbTiO3, BiFeO3, Hf0.8Zr0.2O2, CuInP2S6, In2Se3, MoTe2, SnS, WTe2, h-BN, CuCrP2S6, NiI2, Cr2Ge2Te6, MoS2, WS2, WSe2, MoSe2]

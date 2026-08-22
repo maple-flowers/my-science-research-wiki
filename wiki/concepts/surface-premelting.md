@@ -1,50 +1,73 @@
 ---
-tags: [concept, density-functional-theory, machine-learning-potential, molecular-dynamics, embedded-atom-method, pair-distribution-function, pair-analysis, icosahedral-packing, dulong-petit-law]
+tags: [concept, melting, nanoparticle, molecular-dynamics, size-effect, surface-science]
 title: surface-premelting
 type: concept
 status: developing
 year: 2019
 papers: [Zhang2019a, Zhang2019c]
-updated: 2026-08-18
+updated: 2026-08-21
 ---
 
 # surface-premelting
 
-本文档围绕 **surface-premelting** 汇集 2 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
+**表面预熔（surface premelting）** 指固体表面原子在**远低于整体熔点**的温度下即失去有序排列、形成类液态壳层的现象。在纳米颗粒中它不只是表面效应，而是**整体熔化的启动机制**：无序壳层随温度升高向内侵蚀，达到临界程度后液态核心迅速扩展至整颗粒。
 
 ## 👵 太奶导读
 
-乖孙，这一条讲的是「surface-premelting」，由多篇论文的证据共同支撑。
-一句话记住它的发现：团簇的堆积模式转变由表面原子运动驱动，且强烈依赖于尺寸和温度。
+乖孙，一块金属要熔化，不是从中间开始的，是**从皮开始的**。
 
-## 🧩 核心内容与机制 (Core Content)
+为什么？因为表面上的原子跟内部原子境遇不同：**内部原子四面八方都有邻居把它箍住，表面原子只有一半有邻居**（配位数低），束缚弱得多。所以温度还远没到熔点，表面原子就已经开始乱动了。
 
-- **研究背景**：增材制造技术中常使用纳米级金属粉末，其熔化和凝固行为与块体材料不同。实验上已观测到钛团簇在不同尺寸范围（如15-55原子，80-150原子等）的吸收光谱会向块体钛的特征演变，暗示可能存在结构转变，但微观机制不清，尤其是温度的影响未被充分理解。
-- **核心问题**：钛团簇的堆积模式如何随团簇尺寸（从数十到数千个原子）和温度变化？表面原子在结构转变中扮演何种角色？经典热力学理论（如杜隆-珀蒂定律）对这类微小体系的适用边界在哪里？
-- **主要结论**：1. 团簇的堆积模式转变由表面原子运动驱动，且强烈依赖于尺寸和温度。2. 小尺寸团簇（如几何壳层闭合）倾向于形成二十面体结构；大尺寸团簇在较宽温区内保持HCP结构。3. 升温过程中会出现HCP、BCC和二十面体结构共存；大团簇的无序化从表面开始并向内部扩展。4. 杜隆-珀蒂定律对钛团簇的适用临界尺寸约为3.0 nm。
-- **领域贡献**：提供了钛团簇从原子到纳米尺度结构演化的系统性微观图像，揭示了表面原子在相变中的“触发器”作用。成功应用了温度依赖的EAM势，为模拟复杂相变纳米体系提供了方法学参考。定量界定了经典热力学理论的适用边界。
-- **研究意义**：从原子尺度揭示了钛纳米团簇结构转变的微观机制，特别是定量阐明了表面原子的主导作用。为理解纳米尺度相变行为提供了清晰的物理图像，并为增材制造等涉及纳米颗粒的工艺优化提供了基础理论数据。
+这层「已经乱了但还没真流走」的表面，就是预熔层——太奶叫它**软壳**。
+
+**对纳米颗粒来说，这件事就要紧了。** 颗粒越小，表面原子占比越高，软壳所占的份量越重。本库那两篇钛纳米颗粒的模拟给出了一条清晰的尺寸分界：
+
+- **大于约 2.5 nm**：像块「顽石」。内部老老实实保持 HCP 堆垛，只有表面这层软壳先动。温度升高，软壳一层层往里啃，啃到一定程度，无序区贯穿整颗，「像一场原子风暴」瞬间席卷全体——这就是**表面预熔 → 整体熔化**。
+- **小于约 2.5 nm**：走的是另一条路。它压根不维持 HCP，而是变成二十面体（Ih）结构，加热过程中经历一连串**结构转变**，而不是简单地熔。
+
+**太奶再提醒你一句要紧的**：正因为熔化是渐变的，「熔点」这个概念对纳米颗粒本身就是模糊的——原作者自己就说了这一点。而且在预熔发生的温区，你测出来的「比热容」里混进了结构重排的能量，**已经不是经典意义上的比热容了**。
+
+记一句话：**表面预熔 = 表面原子配位数低、束缚弱，先于内部失序形成软壳；大颗粒靠它启动整体熔化，小颗粒则改走结构转变的路。**
+
+## 🧩 机制与判据
+
+- **成因**：表面原子配位数低、束缚弱，是结构转变的「触发器」。
+- **温度演化**（Ti 纳米颗粒 MD 模拟）：
+
+| 温度 | 状态 |
+|---|---|
+| 300 K | 所有颗粒内部原子排列整齐（HCP） |
+| 1000 K | 表面原子开始无序，形成类液态壳层，核心仍有序 |
+| 1250 K | 对即将熔化的颗粒，无序区已贯穿整颗 |
+| 约 1300 K | Ti₈₉₅ 势能突然陡增，整体熔化 |
+
+- **尺寸分界（约 2.5 nm）决定机制**：
+
+| 尺寸 | 结构 | 熔化路径 | 性质 |
+|---|---|---|---|
+| > 约 2.5 nm（如 Ti₈₉₅） | HCP | **表面预熔 → 整体熔化**；能量随温度近线性上升直至突增 | MD 模拟 |
+| < 约 2.5 nm | 倾向二十面体（Ih） | 经历**多重结构转变**，而非单一熔化点 | MD 模拟 |
+
+- **微观标记**：大团簇中表面原子的重排（如形成 BCC 层）即预熔/表面熔化的微观机制。
+- **判定手段**：对分布分析（PA）+ 势能随温度的突增。
+
+⚠️ **两条来自原作者的限定，引用时必须一并带上**：
+1. **「熔点」对纳米团簇本身定义模糊**——它可能是从表面预熔到核心熔化的渐变过程，而非明确的相变点；论文中判定的「熔化温度」是按势能突增取的操作性定义。
+2. **预熔温区的比热容不可当经典比热容用**——正在发生剧烈结构重排或表面预熔的小团簇，其能量变化包含结构转变贡献，此时按高温区平均斜率验证杜隆—珀蒂定律的前提已不成立。
+
+以上全部为分子动力学模拟结果（嵌入原子法势），本库无对应实验数据。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/Zhang2019a]]：为本文档提供核心证据。
-- [[../papers/Zhang2019c]]：提供了钛团簇从原子到纳米尺度结构演化的系统性微观图像，揭示了表面原子在相变中的“触发器”作用。
+- [[../papers/Zhang2019a]]：本页机制与尺寸分界的主要来源。该文以分子动力学模拟钛纳米颗粒的尺寸依赖熔化行为，明确区分出两种机制——小于约 2.5 nm 者形成稳定二十面体结构并经历多重结构转变，大于该尺寸的 HCP 颗粒则遵循「表面预熔 → 整体熔化」模式；并给出可对照的温度序列（300 K 全有序、1000 K 表面形成类液态壳层、1250 K 无序区贯穿、Ti₈₉₅ 约 1300 K 势能陡增）。文中「顽石与软壳」的图像正是本页太奶导读的依据。
+- [[../papers/Zhang2019c]]：补上微观层面的成因与方法论警示。它指出表面原子因配位数低、束缚弱而充当结构转变的触发器，并给出预熔的微观标记（大团簇中表面原子重排形成 BCC 层）；更重要的是它自陈了两条限定——纳米团簇的「熔点」定义本身模糊、以及预熔温区算出的「比热容」已混入结构转变贡献而不再是经典量。这两条构成本页 ⚠️ 一节，是本页不至于把模拟数值当硬结论的关键。
 
 ## 🔗 关联概念与实体 (Related)
 
-- [[../concepts/density-functional-theory|density-functional-theory]]
-- [[../concepts/machine-learning-potential|machine-learning-potential]]
 - [[../concepts/molecular-dynamics|molecular-dynamics]]
-- [[../concepts/embedded-atom-method|embedded-atom-method]]
-- [[../concepts/pair-distribution-function|pair-distribution-function]]
-- [[../concepts/common-neighbor-analysis|common-neighbor-analysis]]
-- [[../concepts/icosahedral-structure|icosahedral-structure]]
-- [[../concepts/hcp-structure|hcp-structure]]
-- [[../concepts/fcc-structure|fcc-structure]]
-- [[../concepts/bcc-structure|bcc-structure]]
+- [[../concepts/size-effect|size-effect]]
+- [[../concepts/cluster-size-effect|cluster-size-effect]]
 - [[../concepts/size-dependent-melting|size-dependent-melting]]
-- [[../concepts/dulong-petit-law|dulong-petit-law]]
-- [[../concepts/five-fold-twinning|five-fold-twinning]]
-- [[../concepts/geometric-shell-closure|geometric-shell-closure]]
-- [[../concepts/structural-phase-transition|structural-phase-transition]]
-- [[../concepts/nvt-ensemble|nvt-ensemble]]
+- [[../concepts/coordination-polyhedron|coordination-polyhedron]]
+- [[../concepts/icosahedral-structure|icosahedral-structure]]
+- [[../entities/Ti-nanoparticle|Ti-nanoparticle]]

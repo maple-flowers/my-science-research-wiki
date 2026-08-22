@@ -2,13 +2,18 @@
 tags: [concept, 2D-materials, berry-phase, ferroelasticity, machine-learning-potential, polarization-switching]
 title: sliding-phonon-mode
 type: concept
-status: developing
+status: stub
 year: 2025
 papers: [heSwitchingTwodimensionalSliding2025]
 updated: 2026-08-18
 ---
 
 # sliding-phonon-mode
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 二维范德瓦尔斯材料具有独特的堆垛自由度，为通过层间滑动调节材料的性能提供了一种新的方法。
 

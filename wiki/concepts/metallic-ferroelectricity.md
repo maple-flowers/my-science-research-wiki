@@ -1,13 +1,14 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_e1ccedde9bc811f1a98a525400f8a581
-    ReservedCode1: 22nQg5T1nebJ9KAGOKhHiQzApxip6eGIbDlkgmJur5GRVqt8orM2OnCE+CndsEo/X8Ik6qd8PeS5cY5nPRLWCEGb3bi9TGUZKrXLAAkS0BLDXiYDPG59/igqdo1kVjfqjLPu+aFleEkT+N+SjD8R4yXF5GbuwkCvFqLQyXP3nfCUsZYi3suax9qLbDk=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_e1ccedde9bc811f1a98a525400f8a581
-    ReservedCode2: 22nQg5T1nebJ9KAGOKhHiQzApxip6eGIbDlkgmJur5GRVqt8orM2OnCE+CndsEo/X8Ik6qd8PeS5cY5nPRLWCEGb3bi9TGUZKrXLAAkS0BLDXiYDPG59/igqdo1kVjfqjLPu+aFleEkT+N+SjD8R4yXF5GbuwkCvFqLQyXP3nfCUsZYi3suax9qLbDk=
+tags: [concept, ferroelectric, metal]
+title: 金属铁电性 / Metallic Ferroelectricity
+type: concept
 status: mature
+domain: [ferroelectricity, polar-metals, 2d-materials]
+mechanism: "自由载流子存在时仍能保留可翻转极化：极性自由度与导电通道在实空间或轨道上分离，使载流子屏蔽不足以消灭极化双稳态"
+related_concepts: [ferroelectric-metal, polar-metal, hyper-ferroelectric-metal, sliding-ferroelectricity, ferroelectricity]
+related_entities: [WTe2]
+papers: [zhaoRealization2DMultiferroic2024, feiFerroelectricSwitchingTwodimensional2018a, wuSlidingFerroelectricity2D2021a, bhowalPolarMetalsPrinciples2023b, wangTwodimensionalFerroelectricMetal2025]
+updated: 2026-08
 ---
 
 
@@ -64,4 +65,3 @@ status: mature
 - [[../concepts/sliding-ferroelectricity|滑动铁电性]]
 - [[../concepts/ferroelectricity|铁电性]]
 - [[../entities/WTe2|WTe2]]
-*（内容由AI生成，仅供参考）*

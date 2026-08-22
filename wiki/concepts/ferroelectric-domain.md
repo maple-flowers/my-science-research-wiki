@@ -71,11 +71,12 @@ updated: 2026-08
 
 - [[../papers/Chen2016electrical]]：详细原位观测了 70 nm BiFeO₃ 薄膜中铁电畴在电场和针尖力作用下的成核、分解与重组演化。
 - [[../papers/huangPolarPhaseDomain2019]]：讨论了极性相中畴结构的稳定性及其对物性的影响。
-- [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]]
-- [[../papers/wuSlidingFerroelectricity2D2021a]]
-- [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]]
-- [[../papers/sattarFunctionalizedDoubleTransition2025]]
-- [[../papers/shenEmergenceMultipleFerroelectric2025]]
+- [[../papers/cuiIntercorrelatedInplaneOutofplane2018a]]：给出畴结构与堆叠/层数的直接关联——α-In₂Se₃ 的面内与面外极化内禀相关联，极化方向随层数呈奇偶交替，根源是反平行的层间堆叠；并据此做出电场与可见光共同操控的非易失阻变器件。
+- [[../papers/wuSlidingFerroelectricity2D2021a]]：提出滑动铁电体特有的 **"ripplocation" 畴壁**形态，说明它如何同时兼顾低能垒高速翻转与高热力学稳定性，是本页「畴壁形态决定翻转动力学」一节的核心依据。
+- [[../papers/shenEmergenceMultipleFerroelectric2025]]：给出多重畴构型的算例——多层黑磷 N≥3 时非对称堆叠（如 EAB）产生面内+面外极化，极化态随层数增多而多样，态间可经 <100 meV 层间滑移互转，厚板中仅位移表面层即可翻转。
+- [[../papers/houStrainbasedRoomtemperatureNonvolatile2019]]：作为**相畴对照**——MoTe₂ 在静态拉应力偏置 + PMN-PT 动态应变下于 1T′ 半金属相与半导体相间可逆切换（开关比 10⁷、非易失）；其畴是结构相畴而非铁电极化畴，用于区分两类畴概念。
+- [[../papers/sattarFunctionalizedDoubleTransition2025]]：提供畴壁与缺陷耦合的间接证据——Mo₂Ti₂C₃Tₓ 经 400 °C 真空热处理形成金红石 TiO₂ 等氧化物后出现室温铁电性，忆阻阻变归因于铁电内电场辅助调控的氧空位导电细丝（开关比 ~10²、耐久 10³ 次）；该文**未直接成像畴结构**，本页仅引其缺陷-极化耦合结论。
+
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
 - [[../concepts/domain-wall|畴壁]]（界面层）

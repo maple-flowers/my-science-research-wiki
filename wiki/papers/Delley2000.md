@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Delley2000]]
 projects: [project-4, project-5, project-7]
-concepts: [density-functional-theory, enthalpy-of-formation, brillouin-zone-integration, gga-functional, numerical-atomic-orbitals, pseudopotential]
+concepts: [density-functional-theory, enthalpy-of-formation, brillouin-zone-integration, exchange-correlation-functional, gga-functional, numerical-atomic-orbitals, pseudopotential]
 entities: [VASP, dmol3]
 methods: [dft]
 materials: []

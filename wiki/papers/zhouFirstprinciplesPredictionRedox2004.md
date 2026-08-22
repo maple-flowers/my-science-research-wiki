@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/zhouFirstprinciplesPredictionRedox2004]]
 projects: [project-2]
-concepts: [density-functional-theory, dft-plus-u, self-interaction-error, electron-correlation, hubbard-u, linear-response, charge-ordering, high-spin-state, jahn-teller-distortion, redox-potential, chemical-potential, electron-localization, charge-order]
+concepts: [density-functional-theory, DFT-U, self-interaction-error, electron-correlation, hubbard-u, linear-response, charge-order, high-spin-state, jahn-teller-distortion, redox-potential, chemical-potential, electron-localization]
 entities: [VASP]
 methods: [dft, dft-plus-u, gga, lda, paw, linear-response-u, spin-polarized-dft, total-energy-method]
 materials: [LiFePO4, LiMnPO4, LiCoPO4, LiNiPO4, FePO4, MnPO4, CoPO4, NiPO4, LiCoO2, LiNiO2, LixMn2O4, LixCo2O4, Li-metal]

@@ -2,13 +2,18 @@
 tags: [concept, ferroelectricity, berry-phase, polarization-switching, 2d-materials, strain-engineering]
 title: concerted-motion
 type: concept
-status: developing
+status: stub
 year: 2017
 papers: [dingPredictionIntrinsicTwodimensional2017a]
 updated: 2026-08-18
 ---
 
 # concerted-motion
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 摘要近年来，在多个科学和工程学科中，对二维范德华材料的兴趣迅速增长。
 

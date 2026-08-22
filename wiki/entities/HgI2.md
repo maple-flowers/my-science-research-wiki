@@ -1,13 +1,15 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_d26693ec9bb811f1a98a525400f8a581
-    ReservedCode1: G1CzY6bOvmPQeVhIaONb/u/NqqwGX+tDpZycUqOWDNtb4xgu+IzFAnBLeUIZEnuGxqffRQ9HMSCQIvBn+PTESluP/cyc3z99gMlKxn9LafVrNt/m7Jj0Rr6c2Rev/A4PCjIAlhN9aXi0Pc5dGxGclgUP/8I1y0LvjIoUmE6JMG5TVsD+2g5iGI2P+vk=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_d26693ec9bb811f1a98a525400f8a581
-    ReservedCode2: G1CzY6bOvmPQeVhIaONb/u/NqqwGX+tDpZycUqOWDNtb4xgu+IzFAnBLeUIZEnuGxqffRQ9HMSCQIvBn+PTESluP/cyc3z99gMlKxn9LafVrNt/m7Jj0Rr6c2Rev/A4PCjIAlhN9aXi0Pc5dGxGclgUP/8I1y0LvjIoUmE6JMG5TVsD+2g5iGI2P+vk=
+tags: [entity, material, 2D, vdW, ferroelectric]
+title: 碘化汞 (HgI2) / Mercury Iodide
+type: entity
+formula: HgI2
+class: [vdW, layered-halide, semiconductor]
 status: mature
+properties: [sliding-ferroelectricity, rashba-effect, spin-texture]
+related_concepts: [sliding-ferroelectricity, rashba-effect, interfacial-charge-rearrangement, polarization-switching, spin-texture]
+related_entities: [WTe2, ReS2, GaSe]
+papers: [chenStrongSlidingFerroelectricity2024, kaurRecentAdvancesTheoretical2025a, sunSlidingFerroelectricityTwodimensional2025, zhangEmergingFrontiersTwodimensional2025]
+updated: 2026-08
 ---
 
 
@@ -69,7 +71,12 @@ FE-HgI₂ 双层具有**极化方向依赖的 Rashba 自旋纹理**：
 - [[../papers/kaurRecentAdvancesTheoretical2025a]]：从理论综述角度梳理了「Recent advances in theoretical investigations of sliding ferroelectricity」，其中图 12 系统给出 HgI₂ 双层的双阱、极化计算与 Rashba 自旋织构。
 - [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：从综述角度梳理了「Sliding ferroelectricity in two-dimensional materials and device applications」，将 HgI₂ 列入理论预测的强极化滑动铁电材料谱系。
 - [[../papers/zhangEmergingFrontiersTwodimensional2025]]：从综述角度梳理了「二维滑动铁电体的新兴前沿」。
-- [[../papers/tangMultiferroicityTwodimensionalVan2025]]：从综述角度梳理了「二维范德华多铁材料的设计策略」。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `tangMultiferroicityTwodimensionalVan2025`：原文笔记中未出现 HgI₂。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
@@ -81,4 +88,3 @@ FE-HgI₂ 双层具有**极化方向依赖的 Rashba 自旋纹理**：
 - [[../entities/WTe2|WTe2]]
 - [[../entities/ReS2|ReS2]]
 - [[../entities/GaSe|GaSe]]
-*（内容由AI生成，仅供参考）*

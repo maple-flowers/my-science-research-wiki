@@ -12,7 +12,7 @@ year_read: 2026
 original_note:: [[../../raw/note/Unknown2022polymerization]]
 projects: [project-1, project-6]
 concepts: [two-photon-polymerization, fabry-perot-cavity, optical-sensing, micromechanical-hinge, monolithic-integration, moems, quality-factor, refractive-index-sensing]
-entities: [gold, magnetron-sputtering, optical-fiber, photoresist]
+entities: [Au, magnetron-sputtering, optical-fiber, photoresist]
 methods: [two-photon-polymerization, magnetron-sputtering, sem, optical-reflection-spectroscopy, fabry-perot-interferometry]
 materials: [photoresist, gold, silica-optical-fiber]
 figures: []

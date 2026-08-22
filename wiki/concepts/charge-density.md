@@ -67,4 +67,3 @@ updated: 2026-08
 - [[../concepts/bader-analysis|Bader 分析]]：从电荷密度划分原子电荷的方法。
 - [[../entities/TMDs|TMDs]]：CDW/键合分析典型二维体系。
 - [[../entities/HgI2|HgI₂]]：滑动铁电电荷重排体系。
-*（内容由AI生成，仅供参考）*

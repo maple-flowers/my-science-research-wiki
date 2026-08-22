@@ -2,7 +2,7 @@
 tags: [concept, topological-defects, ferroelectricity]
 title: 反涡旋 / Antivortex
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, ferroelectricity, topological-physics]
 mechanism: 绕数为 -1 的极性/磁性拓扑缺陷，常与涡旋成对出现
 related_concepts: [polar-skyrmion, geometric-frustration, skyrmion, ferroelectricity, domain-wall-engineering, strain-engineering, topological-defects]
@@ -11,6 +11,11 @@ updated: 2026-08-20
 ---
 
 # 反涡旋 / Antivortex
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 反涡旋（antivortex）指**极性或磁性矢量围绕某核心形成旋转排列的拓扑缺陷，其拓扑荷（绕数）与涡旋（vortex）相反（通常为 -1）**。反涡旋与涡旋常成对出现，是铁电畴、极性拓扑结构与二维阻挫体系中的基本拓扑对象，在外场（电场、应变）下可被设计、操控与编程。
 

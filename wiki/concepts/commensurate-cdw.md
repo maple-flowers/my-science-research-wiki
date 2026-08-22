@@ -60,4 +60,3 @@ CDW 按调制波矢与晶格的匹配程度分为公度、近公度与不公度�
 - [[../concepts/charge-order|电荷有序]]：实空间电荷图案。
 - [[../entities/TaSe2|TaSe₂]]：公度/近公度 CDW 典型材料。
 - [[../entities/NbSe2|NbSe₂]]：CDW 与超导共存体系。
-*（内容由AI生成，仅供参考）*

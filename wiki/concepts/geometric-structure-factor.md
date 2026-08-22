@@ -2,13 +2,18 @@
 tags: [concept, 2D-materials, charge-density-wave, density-functional-theory, moire-superlattice, strain-engineering]
 title: geometric-structure-factor
 type: concept
-status: developing
+status: stub
 year: 2024
 papers: [cossuStackingChargedensityWaves2024]
 updated: 2026-08-18
 ---
 
 # geometric-structure-factor
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
 
 我们利用电子结构计算来研究双层膜中的电荷密度波和周期晶格畸变2H负极NbSe公司2我们证明了垂直叠加可以产生各种各样的图案，这些图案可能会降低电荷密度波的对称性1H负极NbSe公司2单层膜。
 

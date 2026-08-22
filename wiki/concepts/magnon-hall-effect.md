@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, transport]
 mechanism: 由于贝里曲率的作用，激磁子（自旋波）在温度梯度下发生的横向偏转
 related_concepts: [topological-magnon, spin-current, spin-orbit-coupling]
-papers: [deSousa2008electrical, tanRevealingEmergentMagnetic2024, bhowalPolarMetalsPrinciples2023b]
+papers: [deSousa2008electrical, bhowalPolarMetalsPrinciples2023b]
 updated: 2026-08
 ---
 
@@ -35,8 +35,13 @@ updated: 2026-08
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/deSousa2008electrical]]：探讨了如何通过电场改变 BiFeO₃ 的磁结构从而调制激磁子传输特性。
-- [[../papers/tanRevealingEmergentMagnetic2024]]：利用纳米级磁场探测手段研究手性体系中的拓扑输运。
 - [[../papers/bhowalPolarMetalsPrinciples2023b]]：综述了极性材料中关联输运现象的对称性基础。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `tanRevealingEmergentMagnetic2024`：原文笔记中无 magnon Hall/磁子霍尔相关内容。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

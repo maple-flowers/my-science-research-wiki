@@ -1,13 +1,16 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d1440e82f85676d2b3ce24ffb8efaf05_d36aab629bb811f1a98a525400f8a581
-    ReservedCode1: giKJh0k98SBo8swmoJgTRbF/gI/7S8aq4N9HqoVEIZkf74drcX6ZY+aec5JHLViVruxGXErwNLMPt78NArw9MHA25+UdIu+MTCH48+mJ4PUrhbEClU3M+Vu8E2sPig5GlK381bANXBtgsiUnyOC2rvoFEUMP4JgPZNsfZIqpA0So5k7lZCmxTV3CF0w=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d1440e82f85676d2b3ce24ffb8efaf05_d36aab629bb811f1a98a525400f8a581
-    ReservedCode2: giKJh0k98SBo8swmoJgTRbF/gI/7S8aq4N9HqoVEIZkf74drcX6ZY+aec5JHLViVruxGXErwNLMPt78NArw9MHA25+UdIu+MTCH48+mJ4PUrhbEClU3M+Vu8E2sPig5GlK381bANXBtgsiUnyOC2rvoFEUMP4JgPZNsfZIqpA0So5k7lZCmxTV3CF0w=
+tags: [entity, material, 2D, TMD, ferroelectric]
+title: 二硫化铼 (ReS2) / Rhenium Disulfide
+type: entity
+formula: ReS2
+stoichiometry: 1T'
+class: [TMD, vdW, semiconductor]
 status: mature
+properties: [sliding-ferroelectricity, ferroelasticity]
+related_concepts: [sliding-ferroelectricity, ferroelasticity, interlayer-polarization-coupling, polarization-switching]
+related_entities: [WTe2, SnS]
+papers: [kaurRecentAdvancesTheoretical2025a, sunSlidingFerroelectricityTwodimensional2025, tangMultiferroicityTwodimensionalVan2025]
+updated: 2026-08
 ---
 
 
@@ -68,7 +71,12 @@ ReS₂ 多层体系的滑动铁电源于**层间相对滑动**驱动的电荷转
 - [[../papers/kaurRecentAdvancesTheoretical2025a]]：从理论综述角度梳理了「Recent advances in theoretical investigations of sliding ferroelectricity」，其图 10 系统给出 1T′-ReS₂ 多层的双稳态、电荷转移与极化/能垒随层数演化。
 - [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：从综述角度梳理了「Sliding ferroelectricity in two-dimensional materials and device applications」，将 ReS₂ 列入实验报道的滑动铁电材料谱系。
 - [[../papers/tangMultiferroicityTwodimensionalVan2025]]：从综述角度梳理了「二维范德华多铁材料的设计策略」，以 ReS₂/ReSe₂ 为例阐述"弹中诱电"策略并给出单层室温 FE+FM 的定量数据。
-- [[../papers/guanRecentProgressTwoDimensional2020]]：从综述角度梳理了「Recent Progress in Two‐Dimensional Ferroelectric Materials」。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `guanRecentProgressTwoDimensional2020`：原文笔记中未出现 ReS₂。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
@@ -79,4 +87,3 @@ ReS₂ 多层体系的滑动铁电源于**层间相对滑动**驱动的电荷转
 - ReSe₂（姊妹铁弹体系，未建页）
 - [[../entities/WTe2|WTe2]]
 - [[../entities/SnS|SnS]]
-*（内容由AI生成，仅供参考）*
