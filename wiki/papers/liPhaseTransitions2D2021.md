@@ -31,7 +31,7 @@ concepts:
   - ripplocation
   - berry-curvature-dipole
   - flexoelectricity
-  - kosterlitz-thouless-transition
+  - kosterlitz-thouless
   - twistronics
   - ferroic-order
   - domain-wall

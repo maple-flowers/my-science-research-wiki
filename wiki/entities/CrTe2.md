@@ -9,7 +9,7 @@ stoichiometry: 1T Phase / Bulk
 class: [vdW, magnet, metal]
 properties: [room-temperature-ferromagnetism, metallic-conduction, thickness-dependent-magnetism]
 related_entities: [CrI3, Fe3GeTe2, VSe2, TMDs]
-papers: [caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025, chenFerromagneticNonmagnetic1T2022, guoAdvancesTwodimensionalFerroelectric2025, kaurRecentAdvancesTheoretical2025a, liMonolayerPuckeredPentagonal2022, tangMultiferroicityTwodimensionalVan2025, tianRoomtemperatureTwodimensionalMultiferroic2026, wuNonvolatileSwitchableHalfmetallicity2024, yuFerroelectricControlMagnetism2026, zhangNonvolatileControlTopological2025, zhaoRealization2DMultiferroic2024]
+papers: [chenFerromagneticNonmagnetic1T2022, liMonolayerPuckeredPentagonal2022, tangMultiferroicityTwodimensionalVan2025, tianRoomtemperatureTwodimensionalMultiferroic2026, zhaoRealization2DMultiferroic2024]
 updated: 2026-08
 ---
 
@@ -55,17 +55,22 @@ CrTe₂ 是一种备受关注的二维金属性铁磁材料，特别是在其 1T
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025]]：引用 CrTe₂ 作为高性能室温二维磁体的代表。
 - [[../papers/chenFerromagneticNonmagnetic1T2022]]：研究了 1T' 相 TMD 中的 CDW 与磁性共存机制，涉及 CrTe₂ 类体系对比。
-- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]：综述了新型二维铁磁体在多铁异质结中的集成。
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]：综述了层状与范德华二维材料中滑动铁电性的理论研究进展。
 - [[../papers/liMonolayerPuckeredPentagonal2022]]：预测了单层褶皱五边形 VTe₂ 作为具有多铁性耦合的二维铁磁半导体。
 - [[../papers/tangMultiferroicityTwodimensionalVan2025]]：综述了二维范德华材料实现多铁性的挑战与机遇。
 - [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]：报道了具有电压可控磁序的室温二维多铁金属。
-- [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]]：在 MXene Hf₂MnC₂O₂/Sc₂CO₂ 多铁异质结中实现了非易失可开关的半金属性与磁性。
-- [[../papers/yuFerroelectricControlMagnetism2026]]：通过插层诱导对称性破缺实现铁电调控磁性及巨磁阻。
-- [[../papers/zhangNonvolatileControlTopological2025]]：在 CrInTe₂/In₂Se₃ 多铁异质结中实现了对拓扑磁性的非易失调控。
 - [[../papers/zhaoRealization2DMultiferroic2024]]：通过插层实现强磁电耦合二维多铁的第一性原理高通量预测。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025`：原文笔记中未出现 CrTe₂。
+- `guoAdvancesTwodimensionalFerroelectric2025`：同上。
+- `kaurRecentAdvancesTheoretical2025a`：同上。
+- `wuNonvolatileSwitchableHalfmetallicity2024`：同上。
+- `yuFerroelectricControlMagnetism2026`：同上。
+- `zhangNonvolatileControlTopological2025`：同上。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

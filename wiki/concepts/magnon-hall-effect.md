@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, transport]
 mechanism: 由于贝里曲率的作用，激磁子（自旋波）在温度梯度下发生的横向偏转
 related_concepts: [topological-magnon, spin-current, spin-orbit-coupling]
-papers: [deSousa2008electrical, tanRevealingEmergentMagnetic2024, bhowalPolarMetalsPrinciples2023b]
+papers: [deSousa2008electrical, bhowalPolarMetalsPrinciples2023b]
 updated: 2026-08
 ---
 
@@ -23,10 +23,8 @@ updated: 2026-08
 
 ## 🏗️ 结构概览：热流驱动下的自旋波偏转
 
-![图：激磁子霍尔效应中的横向偏转示意](../../raw/figures/tanRevealingEmergentMagnetic2024/fig_1_A3L3NFIH.png)
-*   **看图要点**：示意图展示了在温度梯度 $\nabla T$ 作用下，自旋波包由于受内部有效场作用而偏离直线路径。
-*   **来源**：[[../papers/tanRevealingEmergentMagnetic2024]] -> [[../figures/experimental-setups]]
-*(注：引用 Tan 2024 背景中关于拓扑输运的描述)*
+观测结构的典型几何为：在磁性薄膜样品两端施加纵向温度梯度（ΔT），激磁子沿热流方向传播，并在贝里曲率等效横向力作用下偏离主轴，于样品侧缘积累形成横向的自旋流或热电势。通过对比有/无温度梯度下的横向信号，即可分离出纯激磁子霍尔贡献。
+
 
 ## 🧩 物理机制
 
@@ -37,8 +35,13 @@ updated: 2026-08
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/deSousa2008electrical]]：探讨了如何通过电场改变 BiFeO₃ 的磁结构从而调制激磁子传输特性。
-- [[../papers/tanRevealingEmergentMagnetic2024]]：利用纳米级磁场探测手段研究手性体系中的拓扑输运。
 - [[../papers/bhowalPolarMetalsPrinciples2023b]]：综述了极性材料中关联输运现象的对称性基础。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `tanRevealingEmergentMagnetic2024`：原文笔记中无 magnon Hall/磁子霍尔相关内容。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

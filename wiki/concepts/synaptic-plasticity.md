@@ -6,7 +6,7 @@ status: mature
 domain: [neurobiology, biophysics, neuromorphic-engineering]
 mechanism: 生物突触根据活动强度的变化而增强或减弱其连接强度的能力
 related_concepts: [neuromorphic-computing, synaptic-weight, memristor, LTP-LTD]
-papers: [chenHafniumBasedFerroelectricPostMoore2026, xueEmergingNonvolatileMemories2011]
+papers: [chenHafniumBasedFerroelectricPostMoore2026]
 updated: 2026-08
 ---
 
@@ -45,7 +45,12 @@ updated: 2026-08
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]：系统评估了铁电器件在模拟 LTP/LTD 和 STDP 规则时的表现。
-- [[../papers/xueEmergingNonvolatileMemories2011]]：提及了忆阻器在模拟突触特性中的巨大潜力。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `xueEmergingNonvolatileMemories2011`：原文笔记中无 synapse/突触相关内容。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

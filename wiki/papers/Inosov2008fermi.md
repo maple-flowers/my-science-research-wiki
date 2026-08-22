@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Inosov2008fermi]]
 projects: [project-7]
-concepts: [charge-density-wave, 2D-materials, fermi-surface-nesting, lindhard-function, peierls-transition, van-hove-singularity, kohn-anomaly, electron-phonon-coupling, incommensurate-order, rigid-band-approximation, pseudogap]
+concepts: [charge-density-wave, 2D-materials, fermi-surface-nesting, lindhard-function, peierls-distortion, van-hove-singularity, kohn-anomaly, electron-phonon-coupling, incommensurate-order, rigid-band-approximation, pseudogap]
 entities: [TMDs, TaSe2, NbSe2, CuxNbS2]
 methods: [arpes, tight-binding, lindhard-function]
 materials: [2H-TaSe2, 2H-NbSe2, Cu0.2NbS2]

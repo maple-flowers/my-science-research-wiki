@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Huang2019solvatochromic]]
 projects: [project-1, project-6]
-concepts: [solvatochromism, two-photon-absorption, two-photon-fluorescence, charge-transfer, twisted-intramolecular-charge-transfer, exciplex, local-excited-state, donor-pi-acceptor, push-pull-chromophore, thermochromism, viscosity-sensing, fluorescence-quantum-yield, lippert-mataga, solvent-polarity-scales, triple-fluorescence]
+concepts: [solvatochromism, two-photon-absorption, two-photon-fluorescence, charge-transfer, tict-mechanism, exciplex, local-excited-state, d-pi-a-architecture, thermochromism, viscosity-sensing, fluorescence-quantum-yield, lippert-mataga, solvent-polarity-scales, triple-fluorescence]
 entities: [stilbene, DCS, dicyanostilbene-1a, dicyanostilbene-1b, dimethylamino, diphenylamino, cyano-group, glycerol, DMSO, fluorescein, quinine-bisulfate]
 methods: [uv-vis-spectroscopy, fluorescence-spectroscopy, two-photon-excited-fluorescence, tpa-cross-section-measurement, nmr-spectroscopy, mass-spectrometry, wittig-horner-reaction, solvent-polarity-correlation]
 materials: [P1, P2, DCS]

@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, charge-density-wave]
 mechanism: 一维金属链在低温下由于电子-声子耦合发生的自发晶格畸变与电荷密度调制
 related_concepts: [charge-density-wave, fermi-surface-nesting, periodic-lattice-distortion, kohn-anomaly]
-papers: [Johannes2008fermi, Inosov2008fermi, CastroNeto2001charge, cossuStackingChargedensityWaves2024, kawakamiChargedensityWaveAssociated2023, liPhaseTransitions2D2021, Koley2020charge, lezoualchStudyChargeDensity]
+papers: [Johannes2008fermi, Inosov2008fermi, cossuStackingChargedensityWaves2024, kawakamiChargedensityWaveAssociated2023, liPhaseTransitions2D2021, Koley2020charge, lezoualchStudyChargeDensity]
 updated: 2026-08
 ---
 
@@ -58,12 +58,17 @@ updated: 2026-08
 
 - [[../papers/Johannes2008fermi]]：批判性地重新审视了派尔斯机制，指出在真实材料中电声耦合比嵌套更重要。
 - [[../papers/Inosov2008fermi]]：探讨了 TMD 材料中的嵌套与派尔斯转变的关系。
-- [[../papers/CastroNeto2001charge]]：综述了二维层状材料中的 CDW 物理。
 - [[../papers/cossuStackingChargedensityWaves2024]]：研究了 2H-NbSe₂ 双层中电荷密度波的堆叠。
 - [[../papers/kawakamiChargedensityWaveAssociated2023]]：在单层 VS₂ 中观测到与高阶费米面嵌套相关的电荷密度波。
 - [[../papers/liPhaseTransitions2D2021]]：综述了二维材料中的相变及其调控机制。
 - [[../papers/Koley2020charge]]：综述了 TMD 中的电荷密度波与超导电性。
 - [[../papers/lezoualchStudyChargeDensity]]：系统研究了 TMD 中的电荷密度波。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `CastroNeto2001charge`：原文笔记中无 Peierls/派尔斯相关内容。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

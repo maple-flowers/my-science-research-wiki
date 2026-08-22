@@ -2,7 +2,7 @@
 tags: [concept, physics, semiconductor]
 title: 能带对齐 (Band Alignment)
 type: concept
-status: mature
+status: developing
 domain: [semiconductor-physics, heterostructures]
 mechanism: 两种不同材料接触时，它们的导带底、价带顶以及费米能级在界面处的相对能量排布
 related_concepts: [band-offset, schottky-barrier, work-function, van-der-waals-heterostructure]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 能带对齐 / Band Alignment
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 能带对齐（或称能带结构匹配）描述了当两种半导体或金属接触形成异质结时，它们的导带 ($E_c$)、价带 ($E_v$) 及费米能级 ($E_F$) 如何在界面处相互排列。这种对齐方式决定了载流子（电子和空穴）在界面处的传输行为、电荷转移方向以及激子的复合与解离效率。
 

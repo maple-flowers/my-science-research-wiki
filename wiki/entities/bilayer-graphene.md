@@ -1,4 +1,39 @@
+---
+tags: [entity]
+title: 'bilayer-graphene'
+type: entity
+status: developing
+papers: ['guoAdvancesTwodimensionalFerroelectric2025', 'heSwitchingTwodimensionalSliding2025', 'liuSpintronicsTwoDimensionalMaterials2020b', 'nakataRobustChargedensityWave2021', 'wuSlidingFerroelectricity2D2021a', 'yanagizawaSwitchingChargedensityWave2023', 'zhangEmergingFrontiersTwodimensional2025']
+updated: 2026-08-18
+---
+
 # bilayer-graphene
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
+
+双层石墨烯（bilayer graphene, BLG）是**两层石墨烯以 Bernal（AB）堆垛形成的二维电子体系**：可调带隙、手征电子、电场诱导带隙与旋转莫尔超晶格使其成为"能带工程"与关联电子物理的舞台，魔角双层石墨烯更是实现超导与相关绝缘体的标志性体系（本库石墨烯与莫尔物理论文核心）。
+
+## 👵 太奶导读
+
+太奶啊，把两层"原子蜂窝纸"（石墨烯）摞在一起就是双层石墨烯。单层石墨烯没有带隙（不能用做开关），双层却可以通过加垂直电场"挤"出一个可调带隙——变成"可开关"的二维半导体。更神奇的是，把两层错开一个"魔角"再叠，电子的能带变成平带、相互作用爆发，竟然出现超导——这就是名震一时的"魔角石墨烯"。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **堆垛与能带**：Bernal（AB）堆垛的抛物线色散；垂直电场打开可调带隙（本库 BLG 带隙调控论文）。
+- **可调带隙**：双栅极器件通过垂直电场调制带隙（最大约 250 meV），实现二维场效应开关（本库 BLG 器件论文）。
+- **魔角莫尔**：转角约 1.1° 形成魔角超晶格（moire-superlattice），平带（flat-band）出现超导与相关绝缘态（本库魔角石墨烯论文）。
+- **电子-电子相互作用**：BLG 中强关联、自旋极化和序参量竞争（本库强关联论文）。
+- **应用**：可调带隙器件、光电子、量子点与拓扑态。
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../entities/graphene|石墨烯]]：BLG 的基本单元。
+- [[../concepts/moire-superlattice|莫尔超晶格]]：魔角 BLG 的平台。
+- [[../concepts/flat-band|平带]]：魔角 BLG 的关键特征。
+- [[../concepts/superconductivity|超导]]：魔角 BLG 的关联态。
 
 ## 📚 相关论文 (Related Papers)
 

@@ -1,0 +1,436 @@
+{
+  "backup_dir": "C:\\Users\\sgg\\AppData\\Roaming\\Tencent\\Marvis\\User\\oAN1i2V14p5-lhhSY365mxizlI-c\\workspace\\conv_1a0000cc73d_3cc2a0c40aa4\\temp\\backup_suggestions_20260815_040138",
+  "paper_citekeys": [
+    "Chen2016electrical",
+    "Chen2019superconductivity",
+    "Islam2025enhancement",
+    "Johannes2008fermi",
+    "Khitrov2002internal",
+    "Li2013bonding",
+    "Makogon2012wave",
+    "Petkov2020hierarchy",
+    "Tobeiha2025optical",
+    "Unknown2022polymerization",
+    "Wang2023ultracompact",
+    "Zhang2019b",
+    "chenFerromagneticNonmagnetic1T2022",
+    "chenStrongSlidingFerroelectricity2024",
+    "chowdhuryReviewTheoreticalComputational",
+    "feiFerroelectricSwitchingTwodimensional2018a",
+    "fiebigEvolutionMultiferroics2016",
+    "gomez-ortizKittelLawDomain2023",
+    "gorkovStrongElectronlatticeCoupling2012",
+    "guanRecentProgressTwoDimensional2020",
+    "hanTunableSlidingFerroelectricity2025",
+    "henkelmanClimbingImageNudged2000c",
+    "liPhaseTransitions2D2021",
+    "mostovoyMultiferroicsDifferentRoutes2024",
+    "naguib25thAnniversaryArticle2013a",
+    "niuDirectVisualizationLargeScale2021",
+    "perdewGeneralizedGradientApproximation1996a",
+    "rameshMultiferroicsProgressProspects2007",
+    "shishkinImplementationPerformanceFrequencydependentGWmethod2006",
+    "songEvidenceSinglelayerVan2022",
+    "spaldinAdvancesMagnetoelectricMultiferroics2019",
+    "sunSlidingFerroelectricityTwodimensional2025",
+    "vanvleckSurveyTheoryFerromagnetism1945",
+    "wangScreeningEnabledChemiresistiveMoisture2025",
+    "wangTunableD0Topological2025b",
+    "wuSlidingFerroelectricity2D2021a",
+    "xiangTwodimensionalRoomTemperature2020",
+    "xueEmergingNonvolatileMemories2011",
+    "zhangEmergingFrontiersTwodimensional2025",
+    "zhaoRealization2DMultiferroic2024",
+    "zhouFirstprinciplesPredictionRedox2004"
+  ],
+  "titles": {
+    "Chen2016electrical": "Electrical and mechanical switching of ferroelectric polarization in the 70 nm BiFeO3 film",
+    "Chen2019superconductivity": "Discommensuration-driven superconductivity in the charge density wave phases of transition-metal dichalcogenides",
+    "Islam2025enhancement": "Pressure-induced enhancement of superfluid density in transition metal dichalcogenides with and without charge density wave",
+    "Johannes2008fermi": "Fermi surface nesting and the origin of charge density waves in metals",
+    "Khitrov2002internal": "Internal Defects Observed by Two-Photon-Induced Photoluminescence",
+    "Li2013bonding": "Bonding Charge Density and Ultimate Strength of Monolayer Transition Metal Dichalcogenides",
+    "Makogon2012wave": "Spin-charge-density wave in a rounded-square Fermi surface for ultracold atoms",
+    "Petkov2020hierarchy": "Hierarchy among the crystal lattice, charge density wave, and superconducting orders in transition metal dichalcogenides",
+    "Tobeiha2025optical": "Optical humidity sensor based on G/GO nanosheets",
+    "Unknown2022polymerization": "Two-photon polymerization for advanced sensor manufacturing",
+    "Wang2023ultracompact": "Ultracompact phase plate fabricated by femtosecond laser two-photon polymerization for generation of Mathieu–Gauss beams",
+    "Zhang2019b": "Packing Changes in Melting, Freezing, and Coalescence of Titanium Nanoparticles from Atomic Simulations",
+    "chenFerromagneticNonmagnetic1T2022": "Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition",
+    "chenStrongSlidingFerroelectricity2024": "Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI₂ Layers",
+    "chowdhuryReviewTheoreticalComputational": "Computational Methods for Charge Density Waves in 2D Materials",
+    "feiFerroelectricSwitchingTwodimensional2018a": "Ferroelectric switching of a two-dimensional metal",
+    "fiebigEvolutionMultiferroics2016": "The evolution of multiferroics",
+    "gomez-ortizKittelLawDomain2023": "Kittel law and domain formation mechanism in PbTiO3/SrTiO3 superlattices",
+    "gorkovStrongElectronlatticeCoupling2012": "Strong electron-lattice coupling as the mechanism behind charge density wave transformations in transition-metal dichalcogenides",
+    "guanRecentProgressTwoDimensional2020": "Recent Progress in Two‐Dimensional Ferroelectric Materials",
+    "hanTunableSlidingFerroelectricity2025": "Tunable sliding ferroelectricity in two-dimensional van der Waals RuX2 (X = Cl, Br, and I) multiferroic layers",
+    "henkelmanClimbingImageNudged2000c": "A climbing image nudged elastic band method for finding saddle points and minimum energy paths",
+    "liPhaseTransitions2D2021": "Phase transitions in 2D materials",
+    "mostovoyMultiferroicsDifferentRoutes2024": "Multiferroics: different routes to magnetoelectric coupling",
+    "naguib25thAnniversaryArticle2013a": "25th Anniversary Article: MXenes: A New Family of Two‐Dimensional Materials",
+    "niuDirectVisualizationLargeScale2021": "Direct Visualization of Large-Scale Intrinsic Atomic Lattice Structure and Its Collective Anisotropy in Air-Sensitive Monolayer 1T'-WTe2",
+    "perdewGeneralizedGradientApproximation1996a": "Generalized Gradient Approximation Made Simple",
+    "rameshMultiferroicsProgressProspects2007": "Multiferroics: progress and prospects in thin films",
+    "shishkinImplementationPerformanceFrequencydependentGWmethod2006": "Implementation and performance of the frequency-dependent GW method within the PAW framework",
+    "songEvidenceSinglelayerVan2022": "Evidence for a single-layer van der Waals multiferroic",
+    "spaldinAdvancesMagnetoelectricMultiferroics2019": "Advances in magnetoelectric multiferroics",
+    "sunSlidingFerroelectricityTwodimensional2025": "Sliding ferroelectricity in two-dimensional materials and device applications",
+    "vanvleckSurveyTheoryFerromagnetism1945": "A Survey of the Theory of Ferromagnetism",
+    "wangScreeningEnabledChemiresistiveMoisture2025": "Screening-Enabled Chemiresistive Moisture Sensing with Tetrathiafulvalene-Based Electrically Conductive Metal–Organic Frameworks",
+    "wangTunableD0Topological2025b": "Tunable d0 topological magnetic states in multiferroic monolayer In2NO2",
+    "wuSlidingFerroelectricity2D2021a": "Sliding ferroelectricity in 2D van der Waals materials: Related physics and future opportunities",
+    "xiangTwodimensionalRoomTemperature2020": "Towards two-dimensional room temperature multiferroics",
+    "xueEmergingNonvolatileMemories2011": "Emerging non-volatile memories",
+    "zhangEmergingFrontiersTwodimensional2025": "Emerging frontiers in two-dimensional sliding ferroelectrics",
+    "zhaoRealization2DMultiferroic2024": "Realization of 2D multiferroic with strong magnetoelectric coupling by intercalation: a first-principles high-throughput prediction",
+    "zhouFirstprinciplesPredictionRedox2004": "First-principles prediction of redox potentials in transition-metal compounds with LDA+U"
+  },
+  "pages_to_backup": [
+    [
+      "concepts",
+      "electron-phonon-coupling",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "1T-TaS2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "2H-TaSe2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "ABINIT",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "AlN",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "BTO",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "BaTiO3",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "CADPAC",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "Cr2Ge2Te6",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "CrI3",
+      "formal"
+    ],
+    [
+      "entities",
+      "CrS2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "CrSe2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "CuCrS2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "CuCrSe2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "CuInP2S6",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "Datta-Das-spin-FET",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "Elk",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "GSAS-II",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "GaN",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "GeSe",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "HgBr2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "HgI2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "ITO",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "In2NO2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "Ir-111",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "La0.67Sr0.33MnO3",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "MnS2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "MnSe2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "MnTe2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "MoS2",
+      "formal"
+    ],
+    [
+      "entities",
+      "MoSe2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "MoTe2",
+      "formal"
+    ],
+    [
+      "entities",
+      "Nb2CTx",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "NbSe2",
+      "formal"
+    ],
+    [
+      "entities",
+      "PFM",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "PLD",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "PWmat",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "PbZrxTi1-xO3",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "Quantum-ESPRESSO",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "RMCpp",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "RuBr2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "RuCl2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "RuI2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "SCALE-UP",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "SIESTA",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "SZ-2080",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "Si-100",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "Si-SiGe-nanowire",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "SiC",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "SnSe",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "SrTiO3",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "TaTe2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "Ti-sapphire-laser",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "Ti3C2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "TiSe2",
+      "formal"
+    ],
+    [
+      "entities",
+      "TiTe2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "VTe2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "WIEN2k",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "ZnO",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "ZnSe",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "ZrI2",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "c-AFM",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "carbon-nanotube",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "g-go-nanosheets",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "graphene",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "graphene-oxide",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "optical-fiber",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "photoresist",
+      "intermediate"
+    ],
+    [
+      "entities",
+      "potassium-40",
+      "intermediate"
+    ]
+  ]
+}

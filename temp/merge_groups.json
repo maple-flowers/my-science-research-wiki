@@ -1,0 +1,846 @@
+[
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "ARPES",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "arpes"
+   },
+   {
+    "dir": "entities",
+    "slug": "arpes"
+   },
+   {
+    "dir": "entities",
+    "slug": "ARPES"
+   }
+  ],
+  "reason": "角分辨光电子能谱，大小写变体且 concepts/entities 双目录各建一页"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "Car-Parrinello",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "car-parrinello"
+   },
+   {
+    "dir": "concepts",
+    "slug": "car-parrinello-method"
+   },
+   {
+    "dir": "entities",
+    "slug": "car-parrinello"
+   },
+   {
+    "dir": "entities",
+    "slug": "Car-Parrinello"
+   }
+  ],
+  "reason": "Car-Parrinello 分子动力学方法，大小写变体 + 跨目录 + 加 method 后缀"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "LAPW",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "lapw"
+   },
+   {
+    "dir": "entities",
+    "slug": "lapw"
+   },
+   {
+    "dir": "entities",
+    "slug": "LAPW"
+   }
+  ],
+  "reason": "线性缀加平面波，大小写变体且跨目录"
+ },
+ {
+  "keep_dir": "entities",
+  "keep_slug": "MAX-phase",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "max-phase"
+   },
+   {
+    "dir": "concepts",
+    "slug": "MAX-phase"
+   },
+   {
+    "dir": "entities",
+    "slug": "MAX-phase"
+   }
+  ],
+  "reason": "MAX 相，大小写变体且跨目录"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "PBE-functional",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "pbe-functional"
+   },
+   {
+    "dir": "entities",
+    "slug": "pbe-functional"
+   },
+   {
+    "dir": "entities",
+    "slug": "PBE-functional"
+   }
+  ],
+  "reason": "PBE 泛函，大小写变体且跨目录"
+ },
+ {
+  "keep_dir": "entities",
+  "keep_slug": "Sc2CO2",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "sc2co2"
+   },
+   {
+    "dir": "concepts",
+    "slug": "Sc2CO2"
+   },
+   {
+    "dir": "entities",
+    "slug": "sc2co2"
+   }
+  ],
+  "reason": "Sc2CO2 材料，大小写变体且跨目录"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "pseudogap",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "pseudo-gap"
+   }
+  ],
+  "reason": "赝能隙，pseudo-gap 与 pseudogap 同义"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "optical-band-gap",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "optical-bandgap"
+   }
+  ],
+  "reason": "光学带隙，连字符有无变体"
+ },
+ {
+  "keep_dir": "entities",
+  "keep_slug": "MoTe2",
+  "merges": [
+   {
+    "dir": "entities",
+    "slug": "mo-te2"
+   }
+  ],
+  "reason": "二碲化钼，去连字符+小写变体"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "bessel-beam",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "bessel-beams"
+   }
+  ],
+  "reason": "贝塞尔光束，单复数"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "domain-wall",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "domain-walls"
+   }
+  ],
+  "reason": "畴壁，单复数"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "skyrmion",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "skyrmions"
+   },
+   {
+    "dir": "concepts",
+    "slug": "magnetic-skyrmion"
+   }
+  ],
+  "reason": "斯格明子，单复数 + 加 magnetic 前缀同义"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "surface-termination",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "surface-terminations"
+   }
+  ],
+  "reason": "表面终止，单复数"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "type-i-multiferroic",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "type-i-multiferroics"
+   }
+  ],
+  "reason": "第一类多铁，单复数"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "type-ii-multiferroicity",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "type-ii-multiferroic"
+   },
+   {
+    "dir": "concepts",
+    "slug": "type-ii-multiferroics"
+   }
+  ],
+  "reason": "第二类多铁，单复数 + 词形变体"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "variable-spring-constant",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "variable-spring-constants"
+   }
+  ],
+  "reason": "变弹簧常数，单复数"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "polar-vortex",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "polar-vortices"
+   }
+  ],
+  "reason": "极性涡旋，单复数"
+ },
+ {
+  "keep_dir": "entities",
+  "keep_slug": "MAX-phase",
+  "merges": [
+   {
+    "dir": "entities",
+    "slug": "MAX-phases"
+   }
+  ],
+  "reason": "MAX 相，单复数"
+ },
+ {
+  "keep_dir": "entities",
+  "keep_slug": "carbon-nanotube",
+  "merges": [
+   {
+    "dir": "entities",
+    "slug": "carbon-nanotubes"
+   }
+  ],
+  "reason": "碳纳米管，单复数"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "paw-method",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "projector-augmented-wave"
+   }
+  ],
+  "reason": "投影增强波法，PAW 缩写与全称，两页均为正式页完全重复"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "ict-mechanism",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "intramolecular-charge-transfer"
+   }
+  ],
+  "reason": "分子内电荷转移，ICT 缩写与全称"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "tict-mechanism",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "twisted-intramolecular-charge-transfer"
+   }
+  ],
+  "reason": "扭曲分子内电荷转移，TICT 缩写与全称"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "aimd",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "ab-initio-molecular-dynamics"
+   }
+  ],
+  "reason": "从头算分子动力学，AIMD 缩写与全称"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "dftb",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "dftb-density-functional-tight-binding"
+   }
+  ],
+  "reason": "密度泛函紧束缚，DFTB 缩写与全称"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "nudged-elastic-band",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "neb"
+   }
+  ],
+  "reason": "爬坡弹性带，NEB 缩写与全称"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "climbing-image-neb",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "cneb"
+   }
+  ],
+  "reason": "爬坡镜像 NEB，CI-NEB 缩写与全称"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "generalized-gradient-approximation",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "gga-functional"
+   }
+  ],
+  "reason": "广义梯度近似，GGA 缩写与全称"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "DFT-U",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "dft-plus-u"
+   }
+  ],
+  "reason": "DFT+U 方法，连字符与加号写法变体"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "vdW-heterostructure",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "van-der-waals-heterostructure"
+   }
+  ],
+  "reason": "范德华异质结，vdW 缩写与全称"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "piezoresponse-force-microscopy",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "pfm-piezoresponse-force-microscopy"
+   }
+  ],
+  "reason": "压电力显微镜，PFM 前缀冗余"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "pump-probe",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "pump-probe-technique"
+   }
+  ],
+  "reason": "泵浦-探测技术，加 technique 后缀同义"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "quantum-spin-hall-effect",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "quantum-spin-hall"
+   }
+  ],
+  "reason": "量子自旋霍尔效应，加 effect 后缀同义"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "two-photon-absorption-cross-section",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "two-photon-cross-section"
+   }
+  ],
+  "reason": "双光子吸收截面，absorption 省略变体"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "bader-analysis",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "bader-charge-analysis"
+   }
+  ],
+  "reason": "Bader 电荷分析，加 charge 同义"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "mulliken-population",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "mulliken-population-analysis"
+   }
+  ],
+  "reason": "Mulliken 布居分析，加 analysis 同义"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "self-consistent-field-cycle",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "self-consistent-field"
+   }
+  ],
+  "reason": "自洽场循环，加 cycle 同义"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "landau-lifshitz-equation",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "llg-equation"
+   }
+  ],
+  "reason": "LLG 方程（Landau-Lifshitz-Gilbert），缩写与全称，高度重叠"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "resistive-switching",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "resistive-switching-memory"
+   }
+  ],
+  "reason": "阻变 / 阻变存储器，同一现象与器件名"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "band-structure",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "electronic-band-structure"
+   }
+  ],
+  "reason": "能带结构，加 electronic 同义"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "local-excited-state",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "locally-excited-state"
+   }
+  ],
+  "reason": "局域激发态，local/locally 词形变体"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "d-pi-a-architecture",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "d-pi-a-structure"
+   },
+   {
+    "dir": "concepts",
+    "slug": "donor-acceptor-push-pull"
+   },
+   {
+    "dir": "concepts",
+    "slug": "donor-pi-acceptor"
+   },
+   {
+    "dir": "concepts",
+    "slug": "push-pull-chromophore"
+   }
+  ],
+  "reason": "D-π-A 供体-受体推拉结构，五种写法同义"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "inverse-dzyaloshinskii-moriya",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "inverse-dm-interaction"
+   }
+  ],
+  "reason": "逆 DM 相互作用，全称与缩写"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "half-metallicity",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "half-metal"
+   }
+  ],
+  "reason": "半金属性 / 半金属，词形变体"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "high-order-topology",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "higher-order-topology"
+   }
+  ],
+  "reason": "高阶拓扑，high/higher 词形变体"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "kittel-law",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "kittels-law"
+   }
+  ],
+  "reason": "Kittel 定律，所有格变体"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "kosterlitz-thouless",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "kosterlitz-thouless-transition"
+   }
+  ],
+  "reason": "KT 转变，加 transition 同义"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "ginzburg-landau",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "landau-ginzburg"
+   }
+  ],
+  "reason": "Ginzburg-Landau 理论，人名顺序变体"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "multiferroic-tunnel-junction",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "multiferroic-tunneling-junction"
+   }
+  ],
+  "reason": "多铁隧道结，tunnel/tunneling 拼写变体"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "soft-mode",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "soft-mode-phonon"
+   },
+   {
+    "dir": "concepts",
+    "slug": "soft-phonon-mode"
+   }
+  ],
+  "reason": "软模，三种词序/词形变体"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "spin-spiral",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "spiral-magnetic-order"
+   },
+   {
+    "dir": "concepts",
+    "slug": "spiral-magnetism"
+   },
+   {
+    "dir": "concepts",
+    "slug": "spiral-spin-structure"
+   }
+  ],
+  "reason": "螺旋磁序，四种写法同义"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "helical-magnetism",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "helical-spin-order"
+   }
+  ],
+  "reason": "螺旋磁性，词形变体（与 spin-spiral 组高度相关）"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "steepest-ascent",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "steepest-ascent-path"
+   }
+  ],
+  "reason": "最陡上升路径，加 path 同义"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "charge-order",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "charge-ordering"
+   }
+  ],
+  "reason": "电荷有序，order/ordering 词形变体"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "depolarization-field",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "depolarizing-field"
+   }
+  ],
+  "reason": "退极化场，depolarization/depolarizing 词形变体"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "evanescent-field",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "evanescent-wave"
+   }
+  ],
+  "reason": "倏逝场/倏逝波，field/wave 同义"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "exciton-condensation",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "excitonic-condensation"
+   }
+  ],
+  "reason": "激子凝聚，exciton/excitonic 词形变体"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "first-order-phase-transition",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "first-order-transition"
+   }
+  ],
+  "reason": "一级相变，加 phase 同义"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "magnetic-anisotropy",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "magnetic-anisotropy-energy"
+   }
+  ],
+  "reason": "磁各向异性，加 energy 同义"
+ },
+ {
+  "keep_dir": "concepts",
+  "keep_slug": "peierls-instability",
+  "merges": [
+   {
+    "dir": "concepts",
+    "slug": "peierls-transition"
+   }
+  ],
+  "reason": "派尔斯不稳定性/转变，同一物理现象，高度重叠"
+ },
+ {
+  "keep_dir": "entities",
+  "keep_slug": "Au",
+  "merges": [
+   {
+    "dir": "entities",
+    "slug": "gold"
+   }
+  ],
+  "reason": "金元素，化学符号与英文名"
+ },
+ {
+  "keep_dir": "entities",
+  "keep_slug": "Si",
+  "merges": [
+   {
+    "dir": "entities",
+    "slug": "silicon"
+   }
+  ],
+  "reason": "硅元素，化学符号与英文名"
+ },
+ {
+  "keep_dir": "entities",
+  "keep_slug": "Ti-sapphire-laser",
+  "merges": [
+   {
+    "dir": "entities",
+    "slug": "Ti-Sa-laser"
+   },
+   {
+    "dir": "entities",
+    "slug": "titanium-sapphire-laser"
+   }
+  ],
+  "reason": "钛蓝宝石激光器，三种写法同义"
+ },
+ {
+  "keep_dir": "entities",
+  "keep_slug": "TaSe2-xTex",
+  "merges": [
+   {
+    "dir": "entities",
+    "slug": "tase2-xtex-solid-solution"
+   }
+  ],
+  "reason": "TaSe2-xTex 固溶体，化学式与描述名"
+ },
+ {
+  "keep_dir": "entities",
+  "keep_slug": "MnBi2Te4",
+  "merges": [
+   {
+    "dir": "entities",
+    "slug": "mn-bi2-te4-mbt"
+   }
+  ],
+  "reason": "MnBi2Te4 材料，化学式与描述名"
+ },
+ {
+  "keep_dir": "entities",
+  "keep_slug": "CuCrP2S6",
+  "merges": [
+   {
+    "dir": "entities",
+    "slug": "cu-crp2s6"
+   },
+   {
+    "dir": "entities",
+    "slug": "ccps-cucrp2s6"
+   },
+   {
+    "dir": "entities",
+    "slug": "cucrp2s6"
+   }
+  ],
+  "reason": "CuCrP2S6 材料，化学式与多种描述名"
+ },
+ {
+  "keep_dir": "entities",
+  "keep_slug": "CuInP2S6",
+  "merges": [
+   {
+    "dir": "entities",
+    "slug": "cips-cu-in-p2s6"
+   }
+  ],
+  "reason": "CuInP2S6 材料，化学式与描述名"
+ },
+ {
+  "keep_dir": "entities",
+  "keep_slug": "1T-MoTe2",
+  "merges": [
+   {
+    "dir": "entities",
+    "slug": "d1t-mote2"
+   }
+  ],
+  "reason": "1T-MoTe2 材料，相标注写法变体"
+ },
+ {
+  "keep_dir": "entities",
+  "keep_slug": "MoS2",
+  "merges": [
+   {
+    "dir": "entities",
+    "slug": "molybdenum-disulfide"
+   }
+  ],
+  "reason": "二硫化钼，化学式与英文名"
+ }
+]

@@ -1,4 +1,41 @@
+---
+tags: [concept, thin-film, ferroelectricity]
+title: 外延应变 / Epitaxial Strain
+type: concept
+status: developing
+related_concepts: [strain-engineering, ferroelectricity, band-gap, 2d-materials, superlattice]
+papers: [Chen2016electrical, Kim2008effect, fiebigEvolutionMultiferroics2016, junqueraCriticalThicknessFerroelectricity2003, martinThinfilmFerroelectricMaterials2016, rameshMultiferroicsProgressProspects2007, spaldinRenaissanceMagnetoelectricMultiferroics2005, wuElectrostaticGatingIntercalation2022]
+updated: 2026-08
+---
+
 # epitaxial-strain
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
+
+外延应变（epitaxial strain）指薄膜在**晶格失配衬底上生长**时，受衬底约束产生的弹性形变（压应变/张应变）。它通过改变键长与对称性直接调控材料的电子结构、磁性、铁电性、超导与拓扑性质，是薄膜与二维材料物性工程的最重要手段之一。
+
+## 👵 太奶导读
+
+太奶啊，薄膜就像一层薄饼，摊在衬底这块"大饼"上。如果两层饼的"格子"大小不一样，薄膜就被撑开或挤扁——这就是应变。别小看这一撑一挤：材料被撑一下可能就从不导电变成导电、从没磁性变成有磁性、铁电温度被抬高或压低。科学家种薄膜，经常故意挑"格子不太配"的衬底来"揉搓"材料，捏出想要的性质。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **应变来源**：衬底与薄膜的晶格失配（lattice mismatch）、热膨胀失配与界面弛豫；应变可通过衬底选择、缓冲层与厚度调控。
+- **电子结构调控**：应变改变键长/键角，调制能带带隙（band-gap）、有效质量与简并度，实现半导体到金属的转变（本库 MoTe₂ 应变相变、应变工程相关论文）。
+- **铁电与多铁**：应变可显著移动铁电居里温度、改变极化方向（本库 PbTiO₃/SrTiO₃ 超晶格、应变铁电论文），并调控多铁耦合。
+- **磁性调控**：应变改变交换作用与磁各向异性，可翻转易磁化轴或改变居里温度。
+- **二维材料**：二维材料可承受超大弹性应变，应变工程（strain-engineering）是其性能调控的核心自由度。
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../concepts/strain-engineering|应变工程]]：以应变调控物性的系统方法。
+- [[../concepts/ferroelectricity|铁电性]]：应变对极化的显著影响。
+- [[../concepts/band-gap|带隙]]：应变直接调制带隙。
+- [[../concepts/2d-materials|二维材料]]：大应变耐受与可调性。
+- [[../concepts/superlattice|超晶格]]：外延应变在超晶格中的作用。
 
 ## 📚 相关论文 (Related Papers)
 

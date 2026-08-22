@@ -1,0 +1,111 @@
+{
+  "summary": {
+    "total": 2,
+    "concepts": 2,
+    "entities": 0,
+    "no_frontmatter": 0,
+    "no_status": 0,
+    "no_tainai": 0,
+    "no_relpaper_section": 0,
+    "broken_links": 0,
+    "raw_links": 0,
+    "missing_images": 0,
+    "cross_layer_collision_pages": 0,
+    "fm_watermark_noise_pages": 0,
+    "relpaper_no_contrib_pages": 0,
+    "relpaper_no_contrib_items": 0,
+    "status_dist": {
+      "developing": 1,
+      "stub": 1
+    },
+    "identity_dist": {
+      "canonical": 2
+    }
+  },
+  "pages": [
+    {
+      "path": "wiki/concepts/gga-functional.md",
+      "layer": "concepts",
+      "slug": "gga-functional",
+      "has_frontmatter": true,
+      "lines": 72,
+      "chars": 3383,
+      "h1": "GGA 泛函 / Generalized Gradient Approximation (GGA)",
+      "title": "'GGA 泛函 / Generalized Gradient Approximation (GGA)'",
+      "type": "concept",
+      "status": "developing",
+      "tags": [
+        "concept",
+        "dft",
+        "exchange-correlation-functional"
+      ],
+      "relpaper_items": 1,
+      "relpaper_missing_contrib": 0,
+      "fm_noise_keys": [],
+      "has_tainai": true,
+      "has_struct": false,
+      "has_mech": false,
+      "has_relpaper": true,
+      "has_rel": true,
+      "has_param_table": true,
+      "papers_fm": [
+        "Delley2000"
+      ],
+      "papers_body": [
+        "Delley2000"
+      ],
+      "raw_links": [],
+      "images": [],
+      "missing_images": [],
+      "broken_links": [],
+      "incoming_total": 5,
+      "incoming_papers": 0,
+      "incoming_wiki": 5,
+      "cross_layer_collision": false,
+      "identity": "canonical",
+      "dod_gaps": []
+    },
+    {
+      "path": "wiki/concepts/higher-order-topology.md",
+      "layer": "concepts",
+      "slug": "higher-order-topology",
+      "has_frontmatter": true,
+      "lines": 60,
+      "chars": 2726,
+      "h1": "高阶拓扑 / Higher-Order Topology",
+      "title": "'高阶拓扑 / Higher-Order Topology'",
+      "type": "concept",
+      "status": "stub",
+      "tags": [
+        "concept",
+        "topology",
+        "band-topology"
+      ],
+      "relpaper_items": 1,
+      "relpaper_missing_contrib": 0,
+      "fm_noise_keys": [],
+      "has_tainai": true,
+      "has_struct": false,
+      "has_mech": false,
+      "has_relpaper": true,
+      "has_rel": true,
+      "has_param_table": true,
+      "papers_fm": [
+        "huangPolarPhaseDomain2019"
+      ],
+      "papers_body": [
+        "huangPolarPhaseDomain2019"
+      ],
+      "raw_links": [],
+      "images": [],
+      "missing_images": [],
+      "broken_links": [],
+      "incoming_total": 2,
+      "incoming_papers": 0,
+      "incoming_wiki": 2,
+      "cross_layer_collision": false,
+      "identity": "canonical",
+      "dod_gaps": []
+    }
+  ]
+}

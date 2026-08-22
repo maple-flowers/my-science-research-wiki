@@ -6,7 +6,7 @@ status: mature
 domain: [semiconductor-physics, device-physics]
 mechanism: 载流子在外部栅极电压诱导的电场作用下在半导体沟道内运动的效率
 related_concepts: [gate-tunability, electrostatic-gating, screening-effect, scattering-mechanisms]
-papers: [liuSpintronicsTwoDimensionalMaterials2020b, duUltrasensitiveOptoelectronicBiosensor2025]
+papers: [liuSpintronicsTwoDimensionalMaterials2020b]
 updated: 2026-08
 ---
 
@@ -45,7 +45,12 @@ $$\mu_{FE} = \frac{L}{W C_{ox} V_{ds}} \cdot g_m$$
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]：详细讨论了不同封装技术（如 hBN 封装）如何通过减少环境散射来极大提升石墨烯的载流子迁移率。
-- [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]]：涉及光诱导载流子在二维超晶格中的迁移过程。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `duUltrasensitiveOptoelectronicBiosensor2025`：原文笔记中无 mobility/迁移率相关内容。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

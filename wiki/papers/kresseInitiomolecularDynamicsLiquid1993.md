@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/kresseInitiomolecularDynamicsLiquid1993]]
 projects: [project-4, project-5, project-7]
-concepts: [density-functional-theory, machine-learning-potential, conjugate-gradient-minimization, subspace-alignment, nose-thermostat, pair-correlation-function, born-oppenheimer-md, pseudopotential, ab-initio-molecular-dynamics, car-parrinello-method]
+concepts: [density-functional-theory, machine-learning-potential, conjugate-gradient-minimization, subspace-alignment, nose-thermostat, pair-correlation-function, born-oppenheimer-md, pseudopotential, aimd, Car-Parrinello]
 entities: [SnTe, VASP]
 methods: [dft, md]
 materials: [SnTe]

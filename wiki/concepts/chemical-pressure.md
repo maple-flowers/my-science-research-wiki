@@ -1,6 +1,61 @@
+---
+tags: [concept, strain-engineering, doping, polymorphism, superconductivity]
+title: chemical-pressure
+type: concept
+status: developing
+year: 2020
+papers: [Petkov2020hierarchy, spaldinAdvancesMagnetoelectricMultiferroics2019]
+updated: 2026-08-21
+---
+
 # chemical-pressure
+
+**化学压力（chemical pressure）** 指不改变外部条件，而是用**尺寸不同的原子部分替换晶格中原有原子**，从而在材料内部产生等效于施加压力的晶格畸变效应。它与外加静水压的关键区别是：化学压力**可以在不破坏目标亚晶格框架的前提下**局部改变原子间距与配位环境。
+
+## 👵 太奶导读
+
+乖孙，想改变一个晶体里原子挨得多紧，有两条路。
+
+**第一条是硬来**：把材料放进压力腔，从外面挤。所有原子一起被挤紧，效果均匀，但你得一直维持那个压力，撤掉就恢复原样。
+
+**第二条是化学压力**：不挤，改成分。把晶格里一部分原子换成**个头不一样的同族原子**——比如把 Se 换成更大的 Te。个头一变，周围的间距和配位环境就跟着变，效果类似加压，但**是长在材料里的，撤不掉**。
+
+太奶给你一个箱子里装橙子的比方：物理压力是在箱子外面用力压，所有橙子都挤紧；化学压力是把其中几个橙子换成更大的柚子或更小的李子，箱子里的松紧就自己变了。
+
+**它比硬来强在哪儿？** 强在温和。它能在**不破坏目标亚晶格的三维周期性框架**的前提下调电子结构，因此可以用来稳定某个特定的多型体（比如让材料停在 3R 相而不是别的相）——这是外加压力做不到的精细活。
+
+**一个坑要提醒你**：「正化学压力」「负化学压力」这两个词的符号约定在文献里并不统一，本库的来源笔记内部就出现了自相矛盾的用法（见下）。所以看到这两个词，**别信符号，去看它到底是扩张还是收缩晶格**。
+
+## 🧩 与外加压力的对比
+
+| | 化学压力 | 外加（静水）压力 |
+|---|---|---|
+| 手段 | 等电子化学掺杂，替换为尺寸不同的原子 | 压力腔施加外部压强 |
+| 作用范围 | 局部，随替换位点分布 | 整体均匀 |
+| 可逆性 | 长在成分里，不可撤 | 撤压即恢复 |
+| 对框架的影响 | 温和，可保持目标亚晶格的三维周期性 | 整体压缩，难以选择性 |
+| 典型用途 | 稳定特定多型体、调配位环境、诱发/增强超导 | 探索相图、跨越相变点 |
+
+除尺寸效应外，同类「温和化学调控」还包括**电荷掺杂**与**插层**——三者常并用，Petkov2020 即以此为路线在不破坏金属亚晶格框架的前提下调电子结构、诱发或增强超导。
+
+### 本库中的实例
+
+| 替换 | 离子半径 | 晶格效果 | 用途 | 性质 |
+|---|---|---|---|---|
+| Te 替代 Se | 1.85 Å ← 1.72 Å | **扩张**晶格 | 稳定 3R 相，控制过渡金属亚晶格周期性 | 实验 |
+
+⚠️ **符号约定存在矛盾，本页不予裁决**：来源笔记在解释比方时把「换成更大的原子」称为**正**化学压力（扩张晶格），但在描述本实验（Te 换 Se，即换成更大的原子）时又称之为**负**化学压力。两处说法在同一份笔记内直接冲突。可确定的事实只有**晶格被扩张**这一点；正负标签不可引用。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/Petkov2020hierarchy]] — Hierarchy among the crystal lattice, charge density wave, and superconducting orders in transition metal dichalcogenides
-- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]] — Advances in magnetoelectric multiferroics
+- [[../papers/Petkov2020hierarchy]]：本页概念界定与全部实例的来源。该文把化学压力放在「温和化学调控」这一路线下——与电荷掺杂、插层并列——强调其可在**不破坏金属亚晶格三维周期性框架**的前提下调控电子结构以诱发或增强超导；并给出具体实例：用离子半径 1.85 Å 的 Te 部分替代 1.72 Å 的 Se，以扩张晶格的方式稳定 3R 相并控制过渡金属亚晶格的周期性，同时明确对比了化学压力与外加物理压力在作用范围与可逆性上的差异。
+- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]]：⚠️ **弱关联**。该综述并未把化学压力作为议题展开（笔记中相关表述仅 1 处），只在讨论如何迫使部分填充 d 态的 B 位离子偏心、绕开二阶 Jahn-Teller 限制时，把**应变**列为可行手段之一。它与本页的关联仅止于「晶格畸变可作为对称性破缺的调控旋钮」这一层，不提供化学压力本身的机制或数据。
+
+## 🔗 关联概念与实体 (Related)
+
+- [[../concepts/strain-engineering|strain-engineering]]
+- [[../concepts/charge-doping|charge-doping]]
+- [[../concepts/intercalation-engineering|intercalation-engineering]]
+- [[../concepts/3r-phase|3r-phase]]
+- [[../concepts/jahn-teller-distortion|jahn-teller-distortion]]
+- [[../concepts/superconductivity|superconductivity]]

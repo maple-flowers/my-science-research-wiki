@@ -6,7 +6,7 @@ status: mature
 domain: [neural-networks, neuromorphic-engineering, neuroscience]
 mechanism: 在神经网络中，代表两个神经元之间连接强度的定量参数
 related_concepts: [synaptic-plasticity, neuromorphic-computing, memristor, in-memory-computing]
-papers: [chenHafniumBasedFerroelectricPostMoore2026, xueEmergingNonvolatileMemories2011]
+papers: [chenHafniumBasedFerroelectricPostMoore2026]
 updated: 2026-08
 ---
 
@@ -46,7 +46,12 @@ updated: 2026-08
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]：详细测试了铪基铁电器件作为突触权重单元的线性度和稳定性。
-- [[../papers/xueEmergingNonvolatileMemories2011]]：讨论了忆阻器权重调节中的变异性问题。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `xueEmergingNonvolatileMemories2011`：原文笔记中无 synapse/突触相关内容。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

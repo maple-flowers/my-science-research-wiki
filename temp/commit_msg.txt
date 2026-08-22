@@ -1,0 +1,6 @@
+feat: 概念实体去重合并、ideas新增科研范式层并建立10张范式卡片、answer模式补文献流程
+
+- 去重合并 concepts/entities 68组重复名词，删除92个被合并页，改写253处链接（figures除外），保留页新增「专业名词别名」栏目
+- ideas规范层新增 paradigm（科研范式）类型：前缀paradigm-、编号P01、状态active→superseded/obsolete，同步更新_index与format-spec
+- 通读188篇papers建立10张科研范式卡片（第一性原理设计/高通量筛选/方法发展/ML势MD/唯象理论/实验理论闭环/器件开发/微纳加工/综述框架/经典介观模拟），188篇全覆盖无遗漏
+- SCHEMA answer模式新增第6条：知识库论文不足时联网检索经典文献链接给用户，待入库后重新作答

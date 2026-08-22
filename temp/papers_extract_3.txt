@@ -1,0 +1,98 @@
+########## deSousa2008electrical ##########
+作者: [Rogerio de Sousa, Joel E. Moore]
+中文标题: 多铁性BiFeO3薄膜中磁振子传播的电学控制
+分类: [09_BiFeO3 Specific]
+ABSTRACT: The spin wave spectra of multiferroic BiFeO3 films is calculated using a phenomenological Landau theory that includes magnetostatic effects. The lowest frequency magnon dispersion is shown to be quite sensitive to the angle between spin wave propagation vector and the Néel moment. Since electrical switching of the Néel moment has recently been demonstrated in this material, the sensitivity of the magnon dispersion permits direct electrical switching of spin wave propagation. This effect can be used to construct spin wave logical gates without current pulses, potentially allowing reduced power dissipation per logical operation.
+摘要翻译: 利用包含静磁效应的唯象朗道理论计算了多铁性BiFeO3薄膜的自旋波谱。最低频率的磁振子色散对自旋波传播矢量与Néel矩之间的夹角非常敏感。由于Néel矩的电开关最近在这种材料中被证明，磁振子色散的灵敏度允许自旋波传播的直接电开关。这种效应可用于构造无电流脉冲的自旋波逻辑门，从而降低每个逻辑操作的功耗。
+HEADINGS: # Electrical control of magnon propagation in multiferroic B | ## ✏️ 笔记区 | ## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span | ## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span | ## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span | ## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>
+
+########## hillWhyAreThere2000a ##########
+作者: [Nicola A. Hill]
+中文标题: 为什么磁性铁电体这么少？
+分类: [01_多铁性综述 (Multiferroics Review)]
+ABSTRACT: > [!tldr]- <center>隐藏信息</center>
+HEADINGS: # Why Are There so Few Magnetic Ferroelectrics? | ## ✏️ 笔记区 | ## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span | ## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span | ## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span | ## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>
+
+########## prosandeevKittelLawInBiFeO3Ultrathin2010 ##########
+作者: [S. Prosandeev, S. Lisenkov, L. Bellaiche]
+中文标题: 基特尔定律http://www.w3.org/1998/Math/MathML“display=”inline“><mml:msub>BiFeO<mml:mi>3</mml:mn>超薄薄膜：基于第一性原理的研究
+分类: [01_多铁性综述 (Multiferroics Review)]
+ABSTRACT: > [!tldr]- <center>隐藏信息</center>
+HEADINGS: # Kittel Law in<mml:math xmlns:mml="http://www.w3.org/1998/M | ## ✏️ 笔记区 | ## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span | ## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span | ## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span | ## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>
+
+########## rameshMultiferroicsProgressProspects2007 ##########
+作者: [R. Ramesh, Nicola A. Spaldin]
+中文标题: 多铁性：薄膜研究进展与展望
+分类: [01_多铁性综述 (Multiferroics Review)]
+ABSTRACT: > [!tldr]- <center>隐藏信息</center>
+HEADINGS: # Multiferroics: progress and prospects in thin films | ## ✏️ 笔记区 | ## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span | ## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span | ## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span | ## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>
+
+########## mostovoyMultiferroicsDifferentRoutes2024 ##########
+作者: [Maxim Mostovoy]
+中文标题: 多铁性：磁电耦合的不同途径
+分类: [04_磁电耦合机制 (Magnetoelectric Coupling)]
+ABSTRACT: Abstract >            The simultaneous presence of ferroelectricity and magnetism in multiferroics breaks both spatial inversion and time reversal symmetries at the macroscopic scale, which opens the door to many interesting phenomena and resembles the violation of these symmetries in particle physics. The symmetry breaking in multiferroics occurs spontaneously at phase transitions rather than at the level of fundamental interactions, and thus can be controlled. Moreover, each crystal is a universe in itself with a unique set of symmetries, coupling constants and ordered patterns, which presents plenty of opportunities to find and design materials with strong magnetoelectric coupling.
+摘要翻译: 摘要多铁性中铁电和磁性的同时存在打破了宏观尺度上的空间反转和时间反转对称性，打开了许多有趣现象的大门，类似于粒子物理中对这些对称性的破坏。多铁性中的对称破缺是在相变时自发发生的，而不是在基本相互作用的水平上，因此是可以控制的。此外，每个晶体本身就是一个宇宙，具有独特的对称性、耦合常数和有序模式，这为寻找和设计具有强磁电耦合的材料提供了很多机会。
+HEADINGS: # Multiferroics: different routes to magnetoelectric couplin | ## ✏️ 笔记区 | ## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span | ## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span | ## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span | ## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>
+
+########## dingPredictionIntrinsicTwodimensional2017a ##########
+作者: [Wenjun Ding, Jianbao Zhu, Zhe Wang, Yanfei Gao, Di Xiao, Yi Gu, Zhenyu Zhang, Wenguang Zhu]
+中文标题: In2Se3等III2-VI3范德华材料中本征二维铁电体的预测
+分类: [10_Van der Waals Physics]
+ABSTRACT: Abstract
+摘要翻译: 摘要近年来，在多个科学和工程学科中，对二维范德华材料的兴趣迅速增长。然而，铁电性，即自发极化的存在，在许多实际应用中具有重要意义，迄今为止在此类材料中鲜有报道。在这里，我们使用第一性原理计算来发现二维材质族的一个分支2东南欧3和其他III2-六3范德瓦尔斯材料，具有室温铁电性，在平面外和平面内都具有可逆的自发极化。以In的范德华异质结构为例，进一步证明了这些二维铁电材料的器件电势2东南欧3/显示可调谐肖特基势垒的石墨烯，以及2东南欧3/WSe公司2，表明组合系统的带隙显著减小。这些发现将大大拓宽范德华异质结构的可调谐性，使其具有广泛的应用前景。
+HEADINGS: # Prediction of intrinsic two-dimensional ferroelectrics in  | ## ✏️ 笔记区 | ## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span | ## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span | ## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span | ## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>
+
+########## gaoGiantChiralMagnetoelectric2024a ##########
+作者: [Frank Y. Gao, Xinyue Peng, Xinle Cheng, Emil Viñas Boström, Dong Seob Kim, Ravish K. Jain, Deepak Vishnu, Kalaivanan Raju, Raman Sankar, Shang-Fan Lee, Michael A. Sentef, Takashi Kurumaji, Xiaoqin Li, Peizhe Tang, Angel Rubio, Edoardo Baldini]
+中文标题: 范德瓦尔斯多铁材料中的巨手征磁电振荡
+分类: [01_多铁性综述 (Multiferroics Review)]
+ABSTRACT: Abstract
+摘要翻译: 摘要螺旋自旋结构是磁诱导手性的一种表现形式，它纠缠着材料中的偶极序和磁序1–4螺旋van der Waals多铁性的超薄极限的最新发现为二维大的手征磁电关联提供了前景5,6然而，到目前为止，这些耦合的确切性质和大小仍然未知。在这里，我们进行了精确测量的动态磁电耦合的对映体纯畴剥离范德华多铁。我们用一套超快光学探针捕捉了这种相互作用的振荡对材料的偶极级和磁级的影响。我们的数据显示了在太赫兹频率下巨大的自然光学活性，其特征是极化和磁化分量之间的正交调制。第一性原理计算进一步表明，这些手征耦合源于非共线自旋织构和相对论自旋轨道相互作用之间的协同作用，从而大大增强了晶格介导的效应。我们的研究结果强调了相互交织的秩序的潜力，使独特的功能在二维限制和铺平道路的范德瓦尔斯磁电器件的发展工作在太赫兹的速度。
+HEADINGS: # Giant chiral magnetoelectric oscillations in a van der Waa | ## ✏️ 笔记区 | ## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span | ## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span | ## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span | ## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>
+
+########## hallEnvironmentalControlCharge ##########
+作者: [Joshua Hall, Niels Ehlen, Jan Berges, Erik van Loon, Camiel van Efferen, Clifford Murray, Malte Rösner, Jun Li, Boris V. Senkovskiy, Martin Hell, Matthias Rolf, Tristan Heider, María C. Asensio, José Avila, Lukasz Plucinski, Tim Wehling, Alexander Grüneis, Thomas Michely]
+中文标题: 单层2H-TaS中电荷密度波序的环境控制
+分类: [06_单层 CDW 与维度效应 (Monolayer/Dimension)]
+ABSTRACT: For quasi-freestanding 2H-TaS2 in monolayer thickness grown by in situ molecular beam epitaxy on graphene on Ir(111) we find unambiguous evidence for a charge density wave close to a 3 × 3 periodicity. Using scanning tunneling spectroscopy we determine the magnitude of the partial charge density wave gap. Angle resolved photoemission spectroscopy, complemented by scanning tunneling spectroscopy for the unoccupied states, makes a tight binding fit for the band structure of the TaS2 monolayer possible. As hybridization with substrate bands is absent, the fit yields a precise value for the doping of the TaS2 layer. Additional Li doping shifts the charge density wave to a 2 × 2 periodicity. Unexpectedly, the bilayer of TaS2 also displays a disordered 2 × 2 charge density wave. Calculations of the phonon dispersions based on a combination of density-functional theory, density-functional perturbation theory, and many-body perturbation theory enable us to provide phase diagrams for the TaS2 charge density wave as functions of doping, hybridization and interlayer potentials, and offer insight into how they affect lattice dynamics and stability. Our theoretical considerations are consistent
+摘要翻译: 对于Ir（111）上石墨烯上原位分子束外延生长的单层厚度的准独立2H-TaS2，我们发现了接近3×3周期性的电荷密度波。利用扫描隧道谱确定了部分电荷密度波隙的大小。角分辨光电子能谱和扫描隧穿光谱相结合，使得TaS2单分子膜能带结构的紧密结合成为可能。由于不存在与衬底带的杂化，拟合得到了TaS2层掺杂的精确值。Li掺杂使电荷密度波向2×2周期性移动。出乎意料的是，TaS2的双层膜也显示出无序的2×2电荷密度波。基于密度泛函理论、密度泛函微扰理论和多体微扰理论的声子色散计算使我们能够提供TaS2电荷密度波的相图，作为掺杂、杂化和层间势的函数，以及它们如何影响晶格动力学和稳定性。我们的理论考虑是一致的实验工作提出，并阐明了以往的实验和理论研究有关系统。
+HEADINGS: # Environmental Control of Charge Density Wave Order in Mono | ## ✏️ 笔记区 | ## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span | ## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span | ## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span | ## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>
+
+########## hanTunableSlidingFerroelectricity2025 ##########
+作者: [Peng Han, Jingtong Zhang, Xumin Chen, Jie Wang]
+中文标题: 二维vanderWaalsRuX2（X）中的可调谐滑动铁电性 = Cl、Br和I）多铁层
+分类: [01_多铁性综述 (Multiferroics Review)]
+ABSTRACT: Two-dimensional (2D) van der Waals (vdW) materials offer vast potential for designing ferroelectrics with desired properties through simple layer stacking. Here, based on first principles, we demonstrate that the vdW layered crystals RuX2 (X = Cl, Br, and I) are a class of 2D multiferroic sliding ferroelectrics. The stacking of two magnetic RuX2 monolayers with the same orientation breaks the spatial inversion symmetry, resulting in a stable vertical polarization. In addition, the direction of polarization can be reversed through slight interlayer sliding, in which it only needs to overcome the small energy barrier of 7.16 meV. Among these layered crystals, the bilayer RuI2 not only possesses a remarkable sliding ferroelectricity of 0.49 pC/m but also exhibits stable long-range magnetic order due to its large magnetic anisotropy energy. When the RuI2 stack is increased to trilayers, the polarization significantly increases to 1.03 pC/m, which is much larger than that of its bilayer structure. Furthermore, the application of compressive strain results in a substantial increase in vertical polarization. This work provides an efficient method for designing 2D multiferroic sliding ferr
+摘要翻译: 二维范德瓦尔斯（vdW）材料为通过简单的层积设计具有理想性能的铁电体提供了巨大的潜力。在这里，基于第一性原理，我们证明了vdW层状晶体RuX2（X = Cl，Br和I）是一类二维多铁性滑动铁电体。两个具有相同取向的磁性RuX2单分子膜的叠加打破了空间反转对称性，产生了稳定的垂直极化。此外，极化方向可以通过轻微的层间滑动反转，只需克服7.16的小势垒 meV.在这些层状晶体中，双层RuI2不仅具有0.49pc/m的滑动铁电性，而且由于其较大的磁各向异性能，表现出稳定的长程磁有序，当RuI2叠层增加到三层时，极化显著增加到1.03pc/m，远大于双层结构。此外，压缩应变的应用导致垂直极化显著增加。本工作为利用堆栈工程设计二维多铁性滑动铁电材料提供了一种有效的方法。
+HEADINGS: # Tunable sliding ferroelectricity in two-dimensional van de | ## ✏️ 笔记区 | ## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span | ## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span | ## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span | ## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>
+
+########## liuSpintronicsTwoDimensionalMaterials2020b ##########
+作者: [Yanping Liu, Cheng Zeng, Jiahong Zhong, Junnan Ding, Zhiming M. Wang, Zongwen Liu]
+中文标题: 二维材料中的自旋电子学
+分类: [01_多铁性综述 (Multiferroics Review)]
+ABSTRACT: Abstract >            Spintronics, exploiting the spin degree of electrons as the information vector, is an attractive field for implementing the beyond Complemetary metal-oxide-semiconductor (CMOS) devices. Recently, two-dimensional (2D) materials have been drawing tremendous attention in spintronics owing to their distinctive spin-dependent properties, such as the ultra-long spin relaxation time of graphene and the spin–valley locking of transition metal dichalcogenides. Moreover, the related heterostructures provide an unprecedented probability of combining the different characteristics via proximity effect, which could remedy the limitation of individual 2D materials. Hence, the proximity engineering has been growing extremely fast and has made significant achievements in the spin injection and manipulation. Nevertheless, there are still challenges toward practical application; for example, the mechanism of spin relaxation in 2D materials is unclear, and the high-efficiency spin gating is not yet achieved. In this review, we focus on 2D materials and related heterostructures to systematically summarize the progress of the spin injection, transport, manipulation, and application
+摘要翻译: 摘要自旋电子学利用电子的自旋度作为信息矢量，是实现超复杂金属氧化物半导体（CMOS）器件的一个有吸引力的领域。近年来，二维材料由于其独特的自旋相关性质，如石墨烯超长的自旋弛豫时间和过渡金属二元化合物的自旋谷锁定等，在自旋电子学中受到了广泛的关注。此外，相关的异质结构提供了一个前所未有的可能性，结合不同的特点，通过邻近效应，这可以弥补个别二维材料的限制。因此，近距离工程的发展非常迅速，并在自旋注入和操纵方面取得了显著的成就。然而，在实际应用中仍然存在挑战；例如，二维材料的自旋弛豫机制尚不清楚，高效的自旋门控还没有实现。本文以二维材料及其相关异质结构为重点，系统地综述了自旋注入、输运、操纵以及在信息存储和处理中的应用进展。我们还强调了基于二维材料的自旋电子器件研究的当前挑战和未来展望。
+HEADINGS: # Spintronics in Two-Dimensional Materials | ## ✏️ 笔记区 | ## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span | ## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span | ## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span | ## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>
+
+########## songEvidenceSinglelayerVan2022 ##########
+作者: [Qian Song, Connor A. Occhialini, Emre Ergeçen, Batyr Ilyas, Danila Amoroso, Paolo Barone, Jesse Kapeghian, Kenji Watanabe, Takashi Taniguchi, Antia S. Botana, Silvia Picozzi, Nuh Gedik, Riccardo Comin]
+中文标题: 单层范德华多铁性的证据
+分类: [10_Van der Waals Physics, 01_多铁性综述 (Multiferroics Review)]
+ABSTRACT: Multiferroic materials have attracted wide interest because of their exceptional static1–3 and dynamical4–6 magnetoelectric properties. In particular, type-II multiferroics exhibit an inversion-symmetry-breaking magnetic order that directly induces ferroelectric polarization through various mechanisms, such as the spin-current or the inverse Dzyaloshinskii–Moriya effect3,7. This intrinsic coupling between the magnetic and dipolar order parameters results in high-strength magnetoelectric effects3,8. Two-dimensional materials possessing such intrinsic multiferroic properties have been long sought for to enable the harnessing of magnetoelectric coupling in nanoelectronic devices1,9,10. Here we report the discovery of type-II multiferroic order in a single atomic layer of the transition-metal-based van der Waals material NiI2. The multiferroic state of NiI2 is characterized by a proper-screw spin helix with given handedness, which couples to the charge degrees of freedom to produce a chirality-controlled electrical polarization. We use circular dichroic Raman measurements to directly probe the magneto-chiral ground state and its electromagnon modes originating from dynamic magnetoelect
+摘要翻译: 多铁性材料因其独特的静态1–3和动态4–6磁电特性而受到广泛关注。特别是，II型多铁性材料表现出一种逆对称破缺磁序，通过各种机制直接诱导铁电极化，如自旋电流或逆Dzyaloshinskii–Moriya效应3,7。磁序参数和偶极序参数之间的这种内在耦合导致高强度磁电效应3,8。长期以来，人们一直在寻找具有这种固有多铁性性质的二维材料，以便在纳米电子器件1、9、10中利用磁电耦合。本文报道了在过渡金属基范德华材料NiI2的单原子层中发现的Ⅱ型多铁有序。NiI2的多铁性态的特征是在给定的手性条件下形成一个螺旋自旋螺旋，该螺旋与电荷自由度耦合，产生手性控制的电极化。利用圆二色拉曼光谱直接探测了动态磁电耦合产生的磁手征基态及其电磁模式。将双折射和二次谐波测量与理论建模和模拟相结合，我们检测到一个同时破坏三重旋转对称和反转对称，并支持极序的高度各向异性电子态。光学特征随温度和层数的变化令人惊讶地揭示了一种有序的磁极性态，这种磁极性态一直维持到单层NiI2的超薄极限。这些发现为研究多铁性、手征磁织构和二维极限铁电性提供了新的平台。多重互补的光学特征证实了铁电性的持续存在和反转对称破缺磁序下降到单层NiI2，将II型多铁性物理引入范德华材料领域。
+HEADINGS: # Evidence for a single-layer van der Waals multiferroic | ## ✏️ 笔记区 | ## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span | ## <span style="color: rgb(0, 174, 137);">❷ 🤖️ AI 文献解读</span | ## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文深度解读📌</span | ## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 论文双语转写📌</span | ## <span style="color: rgb(0, 174, 137);">❺ 🤖️ 太奶阅读法🍈</span>
+
+########## tangMultiferroicityTwodimensionalVan2025 ##########
+作者: [Zikun Tang, Yi Hu, Lukas Rogée, Duanzijing Liu, Shu Ping Lau]
+中文标题: 二维范德华材料的多铁性：挑战与机遇
+分类: [01_多铁性综述 (Multiferroics Review)]
+ABSTRACT: > [!tldr]- <center>隐藏信息</center>
+HEADINGS: # Towards Multiferroicity in Two-Dimensional Van Der Waals M | ## ✏️ 笔记区 | ## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span | ## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span | ## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span | ## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>
+
+########## wuElectrostaticGatingIntercalation2022 ##########
+作者: [Yecun Wu, Danfeng Li, Chun-Lan Wu, Harold Y. Hwang, Yi Cui]
+中文标题: 二维材料中的静电门控与插层
+分类: [06_单层 CDW 与维度效应 (Monolayer/Dimension)]
+ABSTRACT: > [!tldr]- <center>隐藏信息</center>
+HEADINGS: # Electrostatic gating and intercalation in 2D materials | ## ✏️ 笔记区 | ## <span style="color: rgb(0, 174, 137);">❶ 🤖️ AI 文献解读</span | ## <span style="color: rgb(0, 174, 137);">❷ 🤖️ 论文深度解读📌</span | ## <span style="color: rgb(0, 174, 137);">❸ 🤖️ 论文双语转写📌</span | ## <span style="color: rgb(0, 174, 137);">❹ 🤖️ 太奶阅读法🍈</span>

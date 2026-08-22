@@ -2,7 +2,7 @@
 tags: [concept, physics, surface-science]
 title: 功函数 (Work Function)
 type: concept
-status: mature
+status: developing
 domain: [solid-state-physics, surface-science, microelectronics]
 mechanism: 将一个电子从材料内部移到表面外真空能级处所需的最小能量
 related_concepts: [schottky-barrier, band-alignment, band-offset, electrostatic-gating]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 功函数 / Work Function ($\Phi$)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 功函数 ($\Phi$) 是凝聚态物理中的一个基本表面参数。它定义为将一个电子从固体（通常是金属或半导体）的费米能级移除并放置到紧邻其表面外的真空中所需的最小能量（即真空能级 $E_{vac}$ 与费米能级 $E_F$ 之差）。
 
@@ -50,8 +55,8 @@ $$\Phi = E_{vac} - E_F$$
 
 - [[../papers/chenHafniumBasedFerroelectricPostMoore2026]]：讨论了铁电极化产生的表面场如何等效改变有效功函数，实现对肖特基二极管的调控。
 - [[../papers/duUltrasensitiveOptoelectronicBiosensor2025]]：涉及金属纳米颗粒与二维材料界面处的电子逸出功平衡。
-- [[../papers/wangTwodimensionalFerroelectricMetal2025]]
-- [[../papers/wangTunableD0Topological2025b]]
+- [[../papers/wangTwodimensionalFerroelectricMetal2025]]：从理论分析角度梳理了「Two-dimensional ferroelectric metal CuCrX2 (X = S, Se) for efficient electrocatalysis」。
+- [[../papers/wangTunableD0Topological2025b]]：从理论分析角度梳理了「Tunable d0 topological magnetic states in multiferroic monolayer In2NO2」。
 - [[../papers/wongEvidenceMetallic1T]]
 - [[../papers/wuNonvolatileSwitchableHalfmetallicity2024]]
 - [[../papers/yanagizawaSwitchingChargedensityWave2023]]

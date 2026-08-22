@@ -11,8 +11,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/khazaeiNovelElectronicMagnetic2013]]
 projects: [project-2, project-4]
-concepts: [2d-materials, density-functional-theory, electron-counting-rule, strain-engineering, surface-functionalization, ferromagnetism, thermoelectricity, boltzmann-transport, max-phase, phonon-stability]
-entities: [MXenes, VASP, BoltzTrap, MAX-phases, Ti2CO2, Sc2CF2, Sc2CO2, Cr2C, Cr2N]
+concepts: [2d-materials, density-functional-theory, electron-counting-rule, strain-engineering, surface-functionalization, ferromagnetism, thermoelectricity, boltzmann-transport, phonon-stability]
+entities: [MXenes, VASP, BoltzTrap, MAX-phase, Ti2CO2, Sc2CF2, Sc2CO2, Cr2C, Cr2N]
 methods: [dft, gga-pbe, paw, first-principles, spin-polarized-dft, formation-energy, phonon-dispersion, band-structure, dos, boltzmann-transport, boltztrap]
 materials: [MXenes, Ti2C, Sc2C, Zr2C, Hf2C, Cr2C, Cr2N, Ti2CO2, Sc2CF2, Sc2C-OH-2, Sc2CO2, Zr2CO2, Hf2CO2]
 figures: [electronic-bands-band-structures, electronic-bands-cdw-transport, electronic-bands-dos-fermi, heterostructures-stacking, vibrational-spectra]

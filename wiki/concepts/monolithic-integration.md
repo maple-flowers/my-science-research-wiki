@@ -1,6 +1,85 @@
+---
+tags: [concept, two-photon-polymerization, fabry-perot-cavity, moems, micromechanical-hinge, refractive-index-sensing, optical-sensing]
+title: monolithic-integration
+type: concept
+status: developing
+year: 2022
+papers: [Unknown2022polymerization, Unknown2014passive]
+updated: 2026-08-21
+---
+
 # monolithic-integration
+
+单片集成（monolithic integration）在本库语境中指：**器件的全部功能结构由单一材料一体成型，无需任何后续装配**。它与"多器件封装在同一模块内"（package-level integration）不是同一件事——判据是有没有装配步骤，而不是有没有物理上凑在一起。本库的核心证据来自双光子聚合（2PP/TPP）在非平面基底上直接成型三维结构这一条工艺路线。
+
+## 👵 太奶导读
+
+乖孙，单片集成的意思是"整个东西是一次刻出来的，不用拼"。
+
+传统微加工像盖房子：先做一块平的硅片，一层层堆，最后还得把零件对准、粘上去。对准和粘接是最容易出错、最费钱的一步。单片集成就是想把这一步整个省掉。
+
+本库里最漂亮的例子是在**光纤端头**上直接"雕"出一个法布里-珀罗光学腔——两面镜子夹着一段空腔，光在里面来回反射，环境一变，反射光的波长就跟着挪，所以能当传感器用。难点在于：腔是封闭的，镜面在腔**内侧**，怎么往里面镀反射膜？这个团队的巧劲是——顺手把**铰链和锁扣也一起雕出来**。镀膜时用铰链把顶盖翻开，露出内表面，对着镀；镀完再翻回去用锁扣扣死。铰链、锁扣、腔体、顶盖全是同一次 2PP 打印出来的，一个零件都不用装。
+
+这就是单片集成的本意：不是"东西小"，而是"不用拼"。
+
+## 🧩 核心内容与机制 (Core Content)
+
+### 主线：光纤端面上的单片集成 FPC（Unknown2022polymerization）
+
+**问题**：现代飞行器需在极小空间内集成多参数传感器；光纤传感平台是理想载体，但在光纤尖端这种**非平面、微小基底**上高精度制造三维光学元件，且在封闭腔体内表面沉积高质量反射膜，是长期工艺瓶颈。
+
+**方案**：用 2PP 在光纤端面的聚合物树脂中直接成型整个 FPC——腔体、顶镜、**微机械铰链**、**锁扣**一次打印完成。工艺序列为"打开 → 定向磁控溅射镀金 → 闭合 → 锁扣固定"。SEM 证实结构具亚 100 nm 精度的可动机械件。
+
+关键在于铰链把一个"无法解决的封闭腔镀膜问题"转化为"可解决的开放平面镀膜问题"，而代价仅是多打印两个结构件——这正是单片集成能换来的自由度。
+
+**与传统 MEMS 的对照**（原文表格）：
+
+| 特征 | 传统 MEMS 工艺 | 2PP + 机械增强 |
+| --- | --- | --- |
+| 基底适应性 | 仅限平面硅片 | 光纤尖端等非标准基底 |
+| 结构维度 | 主要 2.5D | 真 3D 复杂结构 |
+| 镜面镀膜 | 容易（平面） | 通过铰链开合实现 |
+| 装配需求 | 需多步组装 | 单片集成，无需装配 |
+| 精度 | 亚微米至微米 | 亚 100 nm |
+
+**性能验证**（证明这不只是工艺演示）：
+
+| 被测量 | 条件 | 响应 |
+| --- | --- | --- |
+| 温度 | 室温 → 50 °C 以上 | 谐振波长规律红移，灵敏度优于 **0.4 nm/°C** |
+| 折射率 | 水-异丙醇混合液 n = 1.351 → 1.377 | 谐振波长红移约 **34 nm**（Δn = 0.026） |
+
+高质量腔内镀膜带来高 Q 值，谐振峰尖锐，微小谐振波长偏移方可被分辨——这是"内表面镀膜"这一工艺环节直接换来的传感分辨率，也是铰链设计的最终收益。
+
+### 弱相关：微通道内原位三维制造（Unknown2014passive）
+
+⚠️ **该文并非以单片集成为研究目标**。其主体是被动微混合器设计——螺旋桨叶式三维结构在单级、12 μl/min 流量下混合效率超过 80%，优于圆形柱、菱形柱和平面桨叶。
+
+它与本条目的相关性只有一点，但这一点是实质的：TPP 可在**预封装微通道内原位**加工复杂三维结构，即结构生成于封闭腔体内部，无需先做结构再密封。作者自陈这"为芯片实验室的多功能单片集成提供了制造基础"。故本页仅取其"原位成型免装配"这一工艺论据，不取其混合器性能数据。
+
+## ⚠️ 使用本页时的边界
+
+- **不要把"集成度高"当成"单片集成"**。判据是无装配步骤。Unknown2014passive 的原文多处用"集成"指"把混合器与检测单元装到一块芯片上"，那属于系统级集成，与本条目定义不同。
+- Unknown2022polymerization 的"闭合"环节**仍需微探针操作**。作者自陈闭合的精确性、可重复性以及对光纤端面的潜在应力/损伤是待研究的工程问题——严格说，这是"免装配的制造 + 一次人工触发的机械动作"，不是全自动。
+- 器件主体为**聚合物树脂**，长期环境稳定性、机械疲劳寿命均未评估；原文把"改用更耐环境的非聚合物材料"列为未来方向。
+- 温度与折射率的**交叉敏感性未解耦**。原文提出该平台未来可测磁场、气流、湿度、声压，但未讨论如何从单一谐振偏移信号中区分多个物理量。
+- 2PP 制造速度慢，两篇论文都把规模化生产列为未解难题。
+- 两篇论文均为 `Unknown` 前缀条目（作者/出处信息不全），引用前须回溯原始文献。Unknown2022polymerization 的团队信息在笔记中为美国空军理工学院 Chandrahalim 等。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/Unknown2014passive]] — Three-Dimensional Passive Micromixer Fabricated by Two-Photon Polymerization for Microfluidic Mixing
-- [[../papers/Unknown2022polymerization]] — Two-photon polymerization for advanced sensor manufacturing
+- [[../papers/Unknown2022polymerization]]：以双光子聚合在光纤端面一次成型 FPC 腔体、顶镜、铰链与锁扣，用"开盖—定向溅射—闭合"把封闭腔内表面镀膜这一瓶颈转化为平面镀膜问题，并以优于 0.4 nm/°C 的温度灵敏度与 Δn = 0.026 引起约 34 nm 红移的折射率响应验证了单片集成微系统的可行性。
+- [[../papers/Unknown2014passive]]：⚠️ 弱相关。该文主题为三维螺旋桨叶被动微混合器，仅在方法学层面提供了"TPP 可在预封装微通道内原位加工复杂三维结构、无需先制造再密封"这一免装配论据，其混合效率数据与本条目无关。
+
+## 🔗 关联概念与实体 (Related)
+
+- [[../concepts/two-photon-polymerization|two-photon-polymerization]]
+- [[../concepts/fabry-perot-cavity|fabry-perot-cavity]]
+- [[../concepts/micromechanical-hinge|micromechanical-hinge]]
+- [[../concepts/moems|moems]]
+- [[../concepts/quality-factor|quality-factor]]
+- [[../concepts/refractive-index-sensing|refractive-index-sensing]]
+- [[../concepts/optical-sensing|optical-sensing]]
+- [[../entities/magnetron-sputtering|magnetron-sputtering]]
+- [[../entities/optical-fiber|optical-fiber]]
+- [[../entities/photoresist|photoresist]]

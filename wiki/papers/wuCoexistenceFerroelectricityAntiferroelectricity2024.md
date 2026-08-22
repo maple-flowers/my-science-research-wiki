@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/wuCoexistenceFerroelectricityAntiferroelectricity2024]]
 projects: [project-2, project-5, project-7]
-concepts: [multiferroicity, magnetoelectric-coupling, 2D-materials, polarization-switching, topological-defects, spin-orbit-coupling, ferroelectricity, antiferroelectricity, non-collinear-magnetism, helical-spin-order, type-ii-multiferroic, knb-mechanism, inverse-dm-interaction, kitaev-interaction, spin-flop, bimeron, kai-model, ginzburg-landau, magnon-phonon-coupling, domain-wall]
+concepts: [multiferroicity, magnetoelectric-coupling, 2D-materials, polarization-switching, topological-defects, spin-orbit-coupling, ferroelectricity, antiferroelectricity, non-collinear-magnetism, helical-magnetism, type-i-type-ii-multiferroics, knb-mechanism, inverse-dzyaloshinskii-moriya, kitaev-interaction, spin-flop, bimeron, kai-model, ginzburg-landau, magnon-phonon-coupling, domain-wall]
 entities: [BiFeO3, h-BN, VASP, NiI2, graphene]
 methods: [dft, stem, raman-spectroscopy, mcd-rmcd, ferroelectric-hysteresis, pxrd, monte-carlo, atomistic-spin-simulation, kai-model, magneto-optical-electric-joint-measurement, cvt-synthesis, polarization-current-loops]
 materials: [NiI2, h-BN, graphene, BiFeO3]

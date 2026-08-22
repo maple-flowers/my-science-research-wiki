@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/hanPolarTopologicalMaterials2025]]
 projects: [project-2, project-5]
-concepts: [topological-defects, polarization-switching, ferroelasticity, multiferroicity, strain-engineering, magnetoelectric-coupling, ferroelectric-tunnel-junction, polar-vortex, polar-skyrmion, negative-capacitance, flexoelectricity, vortexon, electric-dmi, topological-charge, flux-closure-domain, meron, solomon-ring, phase-field-modeling, landau-ginzburg, depolarization-field, domain-wall-conduction, chirality, kosterlitz-thouless-transition, domain-wall]
+concepts: [topological-defects, polarization-switching, ferroelasticity, multiferroicity, strain-engineering, magnetoelectric-coupling, ferroelectric-tunnel-junction, polar-vortex, polar-skyrmion, negative-capacitance, flexoelectricity, vortexon, electric-dmi, topological-charge, flux-closure-domain, meron, solomon-ring, phase-field-modeling, ginzburg-landau, depolarization-field, domain-wall-conduction, chirality, kosterlitz-thouless, domain-wall]
 entities: [BiFeO3, PbTiO3, SrTiO3, PZT, BaTiO3, PVDF-TrFE, HfO2, AlN, SrRuO3, DyScO3, SmScO3, GdScO3, Bi0.5Na0.5TiO3]
 methods: [phase-field, landau-ginzburg, first-principles, second-principles, stem, pfm, c-afm, in-situ-tem, rsxd, shg-cd, thz-spectroscopy, pld, self-assembly-growth, 4d-stem, geometric-phase-analysis]
 materials: [PbTiO3, SrTiO3, BiFeO3, PZT, BaTiO3, PVDF-TrFE, HfO2, Bi0.5Na0.5TiO3]

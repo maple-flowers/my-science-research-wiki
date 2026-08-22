@@ -1,6 +1,50 @@
+---
+tags: [concept, mechanoluminescence, concentration-quenching, radiation-induced-defects, hole-center, 2D-materials, multiferroicity, polarization-switching, strain-engineering, space-charge-limited-current]
+title: charge-trapping
+type: concept
+status: stub
+year: 2021
+papers: [Gulhare2021mechanoluminescence, tahirFerroelectricityNonvolatileMemristor2025]
+updated: 2026-08-18
+---
+
 # charge-trapping
+
+> [!warning] 本页内容待重写
+> 本页的「太奶导读」与「相关论文」贡献句均为自动生成的占位内容——导读描述的是某篇论文的研究对象，
+> 而非本条目本身。**请勿引用本页结论**。已按 SCHEMA 降级为 `stub`。（标记于 2026-08-21）
+
+
+本文档围绕 **charge-trapping** 汇集 2 篇论文的证据，覆盖其结构、物性与机制等多方面信息。
+
+## 👵 太奶导读
+
+乖孙，这一条讲的是「charge-trapping」，由多篇论文的证据共同支撑。
+这篇论文为它提供了关键证据。
+
+## 🧩 核心内容与机制 (Core Content)
+
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/Gulhare2021mechanoluminescence]] — Mechanoluminescence Characterization of γ-irradiated Ba3(VO4)2:Eu phosphors
-- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]] — Ferroelectricity and Nonvolatile Memristor Applications of Free‐Standing 2D Niobium Carbide: A New Frontier of Free‐Standing MXene in Electronic Devices
+- [[../papers/Gulhare2021mechanoluminescence]]：为本文档提供核心证据。
+- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]：为本文档提供核心证据。
+
+## 🔗 关联概念与实体 (Related)
+
+- [[../concepts/mechanoluminescence|mechanoluminescence]]
+- [[../concepts/concentration-quenching|concentration-quenching]]
+- [[../concepts/radiation-induced-defects|radiation-induced-defects]]
+- [[../concepts/hole-center|hole-center]]
+- [[../concepts/defect-mediated-luminescence|defect-mediated-luminescence]]
+- [[../concepts/solid-state-lighting|solid-state-lighting]]
+- [[../concepts/energy-transfer|energy-transfer]]
+- [[../concepts/gamma-irradiation|gamma-irradiation]]
+- [[../entities/Ba3VO4-2|Ba3VO4-2]]
+- [[../entities/europium-dopant|europium-dopant]]
+- [[../entities/Co-60|Co-60]]
+- [[../entities/PMT|PMT]]
+- [[../entities/storage-oscilloscope|storage-oscilloscope]]
+- [[../entities/JCPDS|JCPDS]]
+- [[../concepts/multiferroicity|multiferroicity]]
+- [[../concepts/polarization-switching|polarization-switching]]

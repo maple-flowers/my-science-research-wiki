@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/prosandeevKittelLawInBiFeO3Ultrathin2010]]
 projects: [project-2, project-5]
-concepts: [multiferroicity, magnetoelectric-coupling, strain-engineering, kittel-law, effective-hamiltonian, oxygen-octahedra-tilting, domain-wall-energy, depolarizing-field, open-circuit-boundary-conditions, real-space-energy-decomposition, weak-ferromagnetism, domain-wall]
+concepts: [multiferroicity, magnetoelectric-coupling, strain-engineering, kittel-law, effective-hamiltonian, oxygen-octahedra-tilting, domain-wall-energy, depolarization-field, open-circuit-boundary-conditions, real-space-energy-decomposition, weak-ferromagnetism, domain-wall]
 entities: [BiFeO3, PZT, BaTiO3, PbTiO3]
 methods: [effective-hamiltonian, monte-carlo, first-principles, real-space-energy-decomposition]
 materials: [BiFeO3, PZT, BaTiO3, PbTiO3]

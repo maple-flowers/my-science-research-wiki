@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/songEvidenceSinglelayerVan2022]]
 projects: [project-2, project-5, project-7]
-concepts: [multiferroicity, 2d-materials, magnetoelectric-coupling, spin-orbit-coupling, berry-phase, type-ii-multiferroicity, spin-helix, electromagnon, raman-optical-activity, second-harmonic-generation, birefringence, inversion-symmetry-breaking, rotational-symmetry-breaking, magnetic-anisotropy, geometric-frustration, superexchange, skyrmions, helical-magnetism, improper-electronic-ferroelectricity, magnetic-anisotropy-energy]
+concepts: [multiferroicity, 2d-materials, magnetoelectric-coupling, spin-orbit-coupling, berry-phase, type-ii-multiferroicity, spin-helix, electromagnon, raman-optical-activity, second-harmonic-generation, birefringence, inversion-symmetry-breaking, rotational-symmetry-breaking, magnetic-anisotropy, geometric-frustration, superexchange, skyrmion, helical-magnetism, improper-electronic-ferroelectricity]
 entities: [NiI2, VASP, WIEN2k, h-BN]
 methods: [shg, raman, circular-dichroic-raman, birefringence, linear-dichroism, afm, xrd, tem-electron-diffraction, cvt-growth, pvd-growth, dft, dft-plus-u, berry-phase, monte-carlo, heisenberg-model, gknb-model, four-state-method, squid-magnetometry, bulk-photovoltaic-effect, polarized-microscopy]
 materials: [NiI2, h-BN]

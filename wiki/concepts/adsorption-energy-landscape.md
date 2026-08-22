@@ -1,5 +1,41 @@
+---
+tags: [concept, binding-strength, bond-density, density-functional-theory]
+title: adsorption-energy-landscape
+type: concept
+status: developing
+year: 2021
+papers: [Wu2021]
+updated: 2026-08-18
+---
+
 # adsorption-energy-landscape
+
+> [!warning] 本页内容待重写（太奶导读部分）
+> 本页「太奶导读」为自动生成的占位内容，描述的是某篇论文的研究对象而非本条目本身，待按真实概念重写。
+> 正文其余部分与贡献句已核，可参考。（标记于 2026-08-21）
+
+
+吸附在具有c(4 × 2)重构的Si(001)薄板表面上的单个Ge二聚体。
+
+## 👵 太奶导读
+
+乖孙，这一条讲的是「吸附在具有c(4 × 2)重构的Si(001)薄板表面上的单个Ge二聚体」。
+一句话记住它的发现：Ge二聚体可在特定初始条件下形成八种稳定吸附模式，包括垂直、倾斜、平行吸附在Si二聚体的顶位或桥位，以及解离为单原子吸附。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **研究背景**：在SiGe纳米薄膜的异质外延生长中，精确控制Ge原子在Si衬底上的吸附位置是关键难题。由于实验上难以在亚纳米尺度进行原位观测，因此需要理论计算来揭示Ge原子在Si表面的吸附行为、稳定结构及其对电子性质的影响，从而为实验调控和性能优化提供理论指导。
+- **核心问题**：作者旨在系统研究一个Ge二聚体以不同初始高度和倾斜角度吸附在Si(001)表面时，会形成哪些稳定的原子排列结构？这些结构如何影响体系的键能、电荷分布等电学性质？以及这些吸附行为如何调控体系的能隙值？
+- **主要结论**：Ge二聚体可在特定初始条件下形成八种稳定吸附模式，包括垂直、倾斜、平行吸附在Si二聚体的顶位或桥位，以及解离为单原子吸附。吸附导致Ge二聚体键拉伸、Ge原子失电子。不同吸附模式对表面Si二聚体的键长、键能和电子分布有显著影响。体系的能隙可以通过改变吸附位点和倾斜角度进行有效调控，且这种调控主要源于对Si表面结构的扰动，而非Ge原子的直接贡献。
+- **领域贡献**：1. 首次系统性地揭示了Ge二聚体在Si(001)表面的八种稳定吸附构型，并建立了完整的形态学分类。2. 量化了不同吸附模式下的键长、键能、电荷转移等微观性质，建立了结构-性质关联。3. 揭示了能隙调控的微观机制，指出Si表面结构扰动是导致能隙变化的主导因素，为表面工程提供了新的理论视角。
+- **研究意义**：该研究从原子尺度揭示了Ge二聚体在Si(001)表面吸附的多种可能稳定构型及其电子性质，建立了“初始条件-稳定构型-物性”之间的关联，为理解和调控Si/Ge纳米薄膜的初期生长过程、优化其界面结构与器件性能提供了重要的理论依据和指导。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/Wu2021]] — Atomic arrangements, bond energies, and charge distribution on Si(0 0 1) surfaces with the adsorption of a Ge dimer by DFTB calculations
+- [[../papers/Wu2021]]：1. 首次系统性地揭示了Ge二聚体在Si(001)表面的八种稳定吸附构型，并建立了完整的形态学分类。
+
+## 🔗 关联概念与实体 (Related)
+
+- [[../concepts/binding-strength|binding-strength]]
+- [[../concepts/bond-density|bond-density]]
+- [[../concepts/density-functional-theory|density-functional-theory]]

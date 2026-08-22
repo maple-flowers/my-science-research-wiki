@@ -2,7 +2,7 @@
 tags: [concept, computational-physics, vasp, dft]
 title: Monkhorst-Pack Grid / Monkhorst-Pack 网格
 type: concept
-status: mature
+status: developing
 domain: [computational-physics, electronic-structure]
 mechanism: 通过均匀划分布里渊区，生成一组特殊的 k 点集，用于数值积分计算电荷密度和总能量。
 related_concepts: [plane-wave-basis, self-consistent-field-cycle, methfessel-paxton-smearing]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # Monkhorst-Pack 网格 / Monkhorst-Pack Grid
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 Monkhorst-Pack (MP) 网格是第一性原理计算中布里渊区积分的工业标准。它通过在倒空间建立均匀的采样点集，利用晶体对称性极大地减少了计算开销，同时保证了数值积分的高精度。
 
@@ -24,10 +29,6 @@ Monkhorst-Pack 网格就像是在菜园子里均匀地插了一排排的小旗�
 
 在 VASP 中，k 点采样是在 KPOINTS 文件中定义的。
 
-![图：不同体系下 k 点采样的收敛性基准](../../raw/figures/kresseEfficiencyAbinitioTotal1996a/fig_2_K2M97DMS.png)
-*   注：此处使用图2展示收敛性。
-*   **看图要点**：图中展示了总能量随 k 点密度的变化。可以看到，当网格增加到一定程度（如 6x6x6 或 8x8x8）后，能量趋于平稳，这标志着计算达到了“k 点收敛”。
-*   **来源**：[[../papers/kresseEfficiencyAbinitioTotal1996a]] -> [[../figures/mathematical-models-computational|计算方法与泛函]]
 
 ## 🧩 数学与算法逻辑
 

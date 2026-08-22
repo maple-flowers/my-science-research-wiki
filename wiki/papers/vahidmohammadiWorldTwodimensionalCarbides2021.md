@@ -12,7 +12,7 @@ year_read: 2026
 original_note:: [[../../raw/note/vahidmohammadiWorldTwodimensionalCarbides2021]]
 projects: [project-7, project-5, project-2]
 concepts: [2d-materials, selective-etching, surface-termination, strain-engineering, intercalation, plasmonics, mxetronics, solid-solution, mixed-metal-ordering, liquid-crystal, electromagnetic-shielding]
-entities: [MXenes, MAX-phases, Ti3C2, Ti2C, Ta4C3, Mo2CTx, h-BN, TMDs]
+entities: [MXenes, MAX-phase, Ti3C2, Ti2C, Ta4C3, Mo2CTx, h-BN, TMDs]
 methods: [selective-etching, additive-manufacturing, vapor-phase-synthesis, dft, computational-atomistic-design]
 materials: [Ti3C2, Ti2C, Ta4C3, M5C4-MXene, carbide-MXenes, nitride-MXenes, carbonitride-MXenes]
 figures: []

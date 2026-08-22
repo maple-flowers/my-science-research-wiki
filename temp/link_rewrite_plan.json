@@ -1,0 +1,1256 @@
+{
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\band-alignment.md": [
+  [
+   "../concepts/van-der-waals-heterostructure|vdW 异质结",
+   "../concepts/vdW-heterostructure"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\band-offset.md": [
+  [
+   "../concepts/van-der-waals-heterostructure|vdW 异质结",
+   "../concepts/vdW-heterostructure"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\charge-density-wave.md": [
+  [
+   "../concepts/peierls-transition|Peierls 相变",
+   "../concepts/peierls-instability"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\DFT-U.md": [
+  [
+   "projector-augmented-wave|PAW",
+   "../concepts/paw-method"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\exciplex.md": [
+  [
+   "../concepts/locally-excited-state|局域激发态 (LE)",
+   "../concepts/local-excited-state"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\fluorescence-quantum-yield.md": [
+  [
+   "../concepts/donor-pi-acceptor|D-π-A",
+   "../concepts/d-pi-a-architecture"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\ict-mechanism.md": [
+  [
+   "../concepts/donor-pi-acceptor|D-π-A",
+   "../concepts/d-pi-a-architecture"
+  ],
+  [
+   "../concepts/donor-pi-acceptor|D-π-A 结构",
+   "../concepts/d-pi-a-architecture"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\paw-method.md": [
+  [
+   "dft-plus-u|DFT+U",
+   "../concepts/DFT-U"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\plane-wave-basis.md": [
+  [
+   "projector-augmented-wave|PAW",
+   "../concepts/paw-method"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\solvatochromism.md": [
+  [
+   "../concepts/locally-excited-state|LE",
+   "../concepts/local-excited-state"
+  ],
+  [
+   "../concepts/intramolecular-charge-transfer|分子内电荷转移 (ICT)",
+   "../concepts/ict-mechanism"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\thermochromism.md": [
+  [
+   "../concepts/locally-excited-state|局域激发态 (LE)",
+   "../concepts/local-excited-state"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\tict-mechanism.md": [
+  [
+   "../concepts/donor-pi-acceptor|D-π-A",
+   "../concepts/d-pi-a-architecture"
+  ],
+  [
+   "../concepts/locally-excited-state|局域激发态 (LE)",
+   "../concepts/local-excited-state"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\two-photon-absorption.md": [
+  [
+   "../concepts/donor-pi-acceptor|D-π-A",
+   "../concepts/d-pi-a-architecture"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\concepts\\ultrasoft-pseudopotential.md": [
+  [
+   "projector-augmented-wave|PAW",
+   "../concepts/paw-method"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\2019optical.md": [
+  [
+   "../concepts/evanescent-wave|倏逝波",
+   "../concepts/evanescent-field"
+  ],
+  [
+   "../concepts/evanescent-wave|evanescent wave",
+   "../concepts/evanescent-field"
+  ],
+  [
+   "../concepts/evanescent-wave|倏逝波",
+   "../concepts/evanescent-field"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\aminiAtomicscaleVisualizationMultiferroicity2024.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\bhowalPolarMetalsPrinciples2023b.md": [
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\blochlProjectorAugmentedwaveMethod1994b.md": [
+  [
+   "../concepts/lapw",
+   "../concepts/LAPW"
+  ],
+  [
+   "../concepts/car-parrinello",
+   "../concepts/Car-Parrinello"
+  ],
+  [
+   "../entities/Car-Parrinello",
+   "../concepts/Car-Parrinello"
+  ],
+  [
+   "../entities/LAPW",
+   "../concepts/LAPW"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025.md": [
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性能",
+   "../concepts/magnetic-anisotropy"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\CastroNeto2001charge.md": [
+  [
+   "../concepts/kosterlitz-thouless-transition|KT 相变",
+   "../concepts/kosterlitz-thouless"
+  ],
+  [
+   "../entities/ARPES|ARPES（角分辨光电子能谱）",
+   "../concepts/ARPES"
+  ],
+  [
+   "../concepts/pseudo-gap",
+   "../concepts/pseudogap"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Chen2016electrical.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\chen3dLevelSymmetry2025.md": [
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\chenHafniumBasedFerroelectricPostMoore2026.md": [
+  [
+   "../concepts/soft-mode-phonon|软模声子",
+   "../concepts/soft-mode"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\chenStrongSlidingFerroelectricity2024.md": [
+  [
+   "../concepts/soft-phonon-mode|软声子模式",
+   "../concepts/soft-mode"
+  ],
+  [
+   "../concepts/soft-phonon-mode|soft-phonon-mode",
+   "../concepts/soft-mode"
+  ],
+  [
+   "../concepts/soft-phonon-mode|软声子模式",
+   "../concepts/soft-mode"
+  ],
+  [
+   "../concepts/pbe-functional|PBE 泛函",
+   "../concepts/PBE-functional"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\cheongMultiferroicsMagneticTwist2007a.md": [
+  [
+   "../concepts/spiral-magnetic-order|螺旋磁序",
+   "../concepts/spin-spiral"
+  ],
+  [
+   "../concepts/spiral-magnetic-order|螺旋磁序 spiral magnetic order",
+   "../concepts/spin-spiral"
+  ],
+  [
+   "../concepts/spiral-magnetic-order|螺旋磁序",
+   "../concepts/spin-spiral"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\cuiIntercorrelatedInplaneOutofplane2018a.md": [
+  [
+   "../concepts/depolarizing-field|退极化场",
+   "../concepts/depolarization-field"
+  ],
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../concepts/depolarizing-field|depolarizing-field",
+   "../concepts/depolarization-field"
+  ],
+  [
+   "../concepts/depolarizing-field|depolarizing field / 退极化场",
+   "../concepts/depolarization-field"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Delley2000.md": [
+  [
+   "../concepts/gga-functional|GGA 泛函",
+   "../concepts/generalized-gradient-approximation"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\dingPredictionIntrinsicTwodimensional2017a.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../concepts/depolarizing-field|**depolarizing field** / 退极化场",
+   "../concepts/depolarization-field"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\fengFerroelectricityMultiferroicityTwodimensional2020.md": [
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性能",
+   "../concepts/magnetic-anisotropy"
+  ],
+  [
+   "../concepts/magnetic-anisotropy-energy|MAE",
+   "../concepts/magnetic-anisotropy"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\FerroelectricityMultiferroicityAtomic2023.md": [
+  [
+   "../concepts/type-ii-multiferroics",
+   "../concepts/type-ii-multiferroicity"
+  ],
+  [
+   "../concepts/type-ii-multiferroics|第二类多铁",
+   "../concepts/type-ii-multiferroicity"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\fiebigEvolutionMultiferroics2016.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\gaoGiantChiralMagnetoelectric2024a.md": [
+  [
+   "../concepts/van-der-waals-heterostructure|vdW 异质结",
+   "../concepts/vdW-heterostructure"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\gaoStrainEngineeringFerroelectric2024.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\gomez-ortizKittelLawDomain2023.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../concepts/kittels-law|Kittel 定律",
+   "../concepts/kittel-law"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\gongAbsenceCriticalThickness2023.md": [
+  [
+   "../concepts/kittels-law|Kittel 定律",
+   "../concepts/kittel-law"
+  ],
+  [
+   "../concepts/kittels-law|Kittel 定律",
+   "../concepts/kittel-law"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\guoAdvancesTwodimensionalFerroelectric2025.md": [
+  [
+   "../entities/d1t-mote2|d1T-MoTe₂",
+   "../entities/1T-MoTe2"
+  ],
+  [
+   "../entities/mn-bi2-te4-mbt|MnBi₂Te₄ (MBT)",
+   "../entities/MnBi2Te4"
+  ],
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\H2017fluorescence.md": [
+  [
+   "../concepts/intramolecular-charge-transfer|分子内电荷转移",
+   "../concepts/ict-mechanism"
+  ],
+  [
+   "../concepts/twisted-intramolecular-charge-transfer|扭曲分子内电荷转移",
+   "../concepts/tict-mechanism"
+  ],
+  [
+   "../concepts/locally-excited-state",
+   "../concepts/local-excited-state"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\hallEnvironmentalControlCharge.md": [
+  [
+   "../concepts/van-der-waals-heterostructure|vdW 异质结",
+   "../concepts/vdW-heterostructure"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\hanPolarTopologicalMaterials2025.md": [
+  [
+   "../concepts/kosterlitz-thouless-transition|KT相变",
+   "../concepts/kosterlitz-thouless"
+  ],
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\hanTunableSlidingFerroelectricity2025.md": [
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性",
+   "../concepts/magnetic-anisotropy"
+  ],
+  [
+   "../concepts/van-der-waals-heterostructure|范德华异质结",
+   "../concepts/vdW-heterostructure"
+  ],
+  [
+   "../concepts/neb|neb",
+   "../concepts/nudged-elastic-band"
+  ],
+  [
+   "../concepts/magnetic-anisotropy-energy|MAE",
+   "../concepts/magnetic-anisotropy"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\henkelmanClimbingImageNudged2000c.md": [
+  [
+   "../concepts/variable-spring-constants|variable-spring-constants",
+   "../concepts/variable-spring-constant"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\heSwitchingTwodimensionalSliding2025.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\heUltrafastSwitchingDynamics2024.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\houStrainbasedRoomtemperatureNonvolatile2019.md": [
+  [
+   "../entities/mo-te2|mo-te2",
+   "../entities/MoTe2"
+  ],
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Huang2019solvatochromic.md": [
+  [
+   "../concepts/intramolecular-charge-transfer|分子内电荷转移",
+   "../concepts/ict-mechanism"
+  ],
+  [
+   "../concepts/twisted-intramolecular-charge-transfer|扭转分子内电荷转移",
+   "../concepts/tict-mechanism"
+  ],
+  [
+   "../concepts/donor-pi-acceptor|供体-π-受体",
+   "../concepts/d-pi-a-architecture"
+  ],
+  [
+   "../concepts/push-pull-chromophore|推拉生色团",
+   "../concepts/d-pi-a-architecture"
+  ],
+  [
+   "../concepts/push-pull-chromophore|推拉生色团",
+   "../concepts/d-pi-a-architecture"
+  ],
+  [
+   "../concepts/twisted-intramolecular-charge-transfer|扭转分子内电荷转移",
+   "../concepts/tict-mechanism"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Huang2023two.md": [
+  [
+   "../concepts/twisted-intramolecular-charge-transfer|TICT 扭曲分子内电荷转移",
+   "../concepts/tict-mechanism"
+  ],
+  [
+   "../concepts/donor-acceptor-push-pull|D-π-A 推拉电子结构",
+   "../concepts/d-pi-a-architecture"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\huangPolarPhaseDomain2019.md": [
+  [
+   "../concepts/higher-order-topology",
+   "../concepts/high-order-topology"
+  ],
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\huangTwodimensionalIn2Se3Rising2022.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\huProgressProspectsLowdimensional2019.md": [
+  [
+   "../concepts/type-ii-multiferroics|第二类多铁",
+   "../concepts/type-ii-multiferroicity"
+  ],
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Inosov2008fermi.md": [
+  [
+   "../concepts/peierls-transition|Peierls 相变",
+   "../concepts/peierls-instability"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Jia2023polymerization.md": [
+  [
+   "../concepts/bessel-beams",
+   "../concepts/bessel-beam"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Jin2015studying.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\junqueraCriticalThicknessFerroelectricity2003.md": [
+  [
+   "../concepts/depolarizing-field",
+   "../concepts/depolarization-field"
+  ],
+  [
+   "../concepts/depolarizing-field|depolarizing field — 退极化场",
+   "../concepts/depolarization-field"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\kaurRecentAdvancesTheoretical2025a.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\khazaeiNovelElectronicMagnetic2013.md": [
+  [
+   "../concepts/max-phase|MAX相",
+   "../entities/MAX-phase"
+  ],
+  [
+   "../entities/MAX-phases|MAX相家族",
+   "../entities/MAX-phase"
+  ],
+  [
+   "../entities/MAX-phases|MAX 相",
+   "../entities/MAX-phase"
+  ],
+  [
+   "../entities/MAX-phases|MAX-phases",
+   "../entities/MAX-phase"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Koley2020charge.md": [
+  [
+   "../concepts/excitonic-condensation",
+   "../concepts/exciton-condensation"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\kresseEfficientIterativeSchemes1996d.md": [
+  [
+   "../figures/domain-walls|畴与畴壁结构",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../concepts/self-consistent-field",
+   "../concepts/self-consistent-field-cycle"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\kresseInitiomolecularDynamicsLiquid1993.md": [
+  [
+   "../concepts/ab-initio-molecular-dynamics|从头算分子动力学（AIMD）",
+   "../concepts/aimd"
+  ],
+  [
+   "../concepts/car-parrinello-method|Car-Parrinello方法",
+   "../concepts/Car-Parrinello"
+  ],
+  [
+   "../concepts/car-parrinello-method|Car-Parrinello方法",
+   "../concepts/Car-Parrinello"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994.md": [
+  [
+   "../concepts/ab-initio-molecular-dynamics|ab-initio-molecular-dynamics",
+   "../concepts/aimd"
+  ],
+  [
+   "../concepts/car-parrinello-method|car-parrinello-method",
+   "../concepts/Car-Parrinello"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\kresseUltrasoftPseudopotentialsProjector1999c.md": [
+  [
+   "../concepts/projector-augmented-wave|投影增强波（PAW）",
+   "../concepts/paw-method"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\krishnamurthiSpinChargeDensity2020.md": [
+  [
+   "../concepts/dft-plus-u|DFT+U",
+   "../concepts/DFT-U"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\laiTwodimensionalFerromagnetismDriven2019.md": [
+  [
+   "../entities/cu-crp2s6|cu-crp2s6",
+   "../entities/CuCrP2S6"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Laverock2005fermi.md": [
+  [
+   "../concepts/electronic-band-structure",
+   "../concepts/band-structure"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\lezoualchStudyChargeDensity.md": [
+  [
+   "../concepts/peierls-transition|Peierls相变",
+   "../concepts/peierls-instability"
+  ],
+  [
+   "../concepts/pbe-functional|PBE 泛函",
+   "../concepts/PBE-functional"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Li2013bonding.md": [
+  [
+   "../concepts/bader-charge-analysis",
+   "../concepts/bader-analysis"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\liFerroelasticityDomainPhysics2016.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\liMonolayerPuckeredPentagonal2022.md": [
+  [
+   "../concepts/magnetic-anisotropy-energy|magnetic-anisotropy-energy",
+   "../concepts/magnetic-anisotropy"
+  ],
+  [
+   "../concepts/magnetic-anisotropy-energy|MAE",
+   "../concepts/magnetic-anisotropy"
+  ],
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ],
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性",
+   "../concepts/magnetic-anisotropy"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\liPhaseTransitions2D2021.md": [
+  [
+   "../concepts/kosterlitz-thouless-transition|kosterlitz-thouless-transition",
+   "../concepts/kosterlitz-thouless"
+  ],
+  [
+   "../concepts/quantum-spin-hall|quantum-spin-hall",
+   "../concepts/quantum-spin-hall-effect"
+  ],
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性",
+   "../concepts/magnetic-anisotropy"
+  ],
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\liuSpintronicsTwoDimensionalMaterials2020b.md": [
+  [
+   "../concepts/van-der-waals-heterostructure|vdW 异质结",
+   "../concepts/vdW-heterostructure"
+  ],
+  [
+   "../concepts/van-der-waals-heterostructure|van-der-waals-heterostructure",
+   "../concepts/vdW-heterostructure"
+  ],
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性",
+   "../concepts/magnetic-anisotropy"
+  ],
+  [
+   "../concepts/van-der-waals-heterostructure|vdW 异质结",
+   "../concepts/vdW-heterostructure"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\martinThinfilmFerroelectricMaterials2016.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\mostovoyMultiferroicsDifferentRoutes2024.md": [
+  [
+   "../concepts/inverse-dm-interaction|inverse-dm-interaction",
+   "../concepts/inverse-dzyaloshinskii-moriya"
+  ],
+  [
+   "../concepts/spiral-magnetism|spiral-magnetism",
+   "../concepts/spin-spiral"
+  ],
+  [
+   "../concepts/spiral-magnetic-order|螺旋磁序",
+   "../concepts/spin-spiral"
+  ],
+  [
+   "../concepts/spiral-magnetic-order|螺旋磁序",
+   "../concepts/spin-spiral"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\naguib25thAnniversaryArticle2013a.md": [
+  [
+   "../concepts/surface-terminations|surface-terminations",
+   "../concepts/surface-termination"
+  ],
+  [
+   "../concepts/max-phase|MAX 相",
+   "../entities/MAX-phase"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\nahasFrustrationSelfOrderingTopological2016.md": [
+  [
+   "../concepts/depolarizing-field|退极化场",
+   "../concepts/depolarization-field"
+  ],
+  [
+   "../concepts/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\nakataRobustChargedensityWave2021.md": [
+  [
+   "../entities/ARPES|ARPES",
+   "../concepts/ARPES"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\neumayerCompetingPolarPhases2025.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../entities/cips-cu-in-p2s6|cips-cu-in-p2s6",
+   "../entities/CuInP2S6"
+  ],
+  [
+   "../entities/ccps-cucrp2s6|ccps-cucrp2s6",
+   "../entities/CuCrP2S6"
+  ],
+  [
+   "../concepts/pfm-piezoresponse-force-microscopy|pfm-piezoresponse-force-microscopy",
+   "../concepts/piezoresponse-force-microscopy"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\niuDirectVisualizationLargeScale2021.md": [
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\perdewGeneralizedGradientApproximation1996a.md": [
+  [
+   "../concepts/pbe-functional|PBE 泛函",
+   "../concepts/PBE-functional"
+  ],
+  [
+   "../concepts/gga-functional|GGA",
+   "../concepts/generalized-gradient-approximation"
+  ],
+  [
+   "../concepts/pbe-functional|PBE 泛函",
+   "../concepts/PBE-functional"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Petkov2020hierarchy.md": [
+  [
+   "../entities/tase2-xtex-solid-solution|tase2-xtex-solid-solution",
+   "../entities/TaSe2-xTex"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\prosandeevKittelLawInBiFeO3Ultrathin2010.md": [
+  [
+   "../concepts/depolarizing-field|退极化场",
+   "../concepts/depolarization-field"
+  ],
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../concepts/depolarizing-field|depolarizing-field",
+   "../concepts/depolarization-field"
+  ],
+  [
+   "../concepts/kittels-law|Kittel 定律",
+   "../concepts/kittel-law"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\rameshMultiferroicsProgressProspects2007.md": [
+  [
+   "../concepts/spiral-spin-structure|螺旋自旋结构",
+   "../concepts/spin-spiral"
+  ],
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../concepts/spiral-magnetic-order|螺旋磁序",
+   "../concepts/spin-spiral"
+  ],
+  [
+   "../concepts/spiral-spin-structure|螺旋自旋结构",
+   "../concepts/spin-spiral"
+  ],
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性",
+   "../concepts/magnetic-anisotropy"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\RecentAdvancesGrowth2025.md": [
+  [
+   "../concepts/type-ii-multiferroics|II 型多铁 type-II multiferroics",
+   "../concepts/type-ii-multiferroicity"
+  ],
+  [
+   "../concepts/spiral-magnetic-order|螺旋磁序",
+   "../concepts/spin-spiral"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\sattarFunctionalizedDoubleTransition2025.md": [
+  [
+   "../concepts/resistive-switching-memory|阻变存储器",
+   "../concepts/resistive-switching"
+  ],
+  [
+   "../concepts/max-phase|MAX 相",
+   "../entities/MAX-phase"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Scremin2018nonlinear.md": [
+  [
+   "../entities/titanium-sapphire-laser",
+   "../entities/Ti-sapphire-laser"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\sharmaRoomtemperatureFerroelectricSemimetal2019.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\shenEmergenceMultipleFerroelectric2025.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\shishkinImplementationPerformanceFrequencydependentGWmethod2006.md": [
+  [
+   "../entities/silicon",
+   "../entities/Si"
+  ],
+  [
+   "../entities/silicon|silicon",
+   "../entities/Si"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\shuTwoDimensionalBlackArsenic2020.md": [
+  [
+   "../concepts/pbe-functional|PBE 泛函",
+   "../concepts/PBE-functional"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\songEvidenceSinglelayerVan2022.md": [
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性",
+   "../concepts/magnetic-anisotropy"
+  ],
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../concepts/skyrmions",
+   "../concepts/skyrmion"
+  ],
+  [
+   "../concepts/skyrmions|skyrmions",
+   "../concepts/skyrmion"
+  ],
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性",
+   "../concepts/magnetic-anisotropy"
+  ],
+  [
+   "../concepts/van-der-waals-heterostructure|vdW 异质结",
+   "../concepts/vdW-heterostructure"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\spaldinAdvancesMagnetoelectricMultiferroics2019.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性",
+   "../concepts/magnetic-anisotropy"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\spaldinRenaissanceMagnetoelectricMultiferroics2005.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\sunSlidingFerroelectricityTwodimensional2025.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\tahirFerroelectricityNonvolatileMemristor2025.md": [
+  [
+   "../concepts/pfm-piezoresponse-force-microscopy",
+   "../concepts/piezoresponse-force-microscopy"
+  ],
+  [
+   "../entities/MAX-phase|MAX-phase",
+   "../entities/MAX-phase"
+  ],
+  [
+   "../concepts/max-phase|MAX 相",
+   "../entities/MAX-phase"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\tangGridbasedBaderAnalysis2009.md": [
+  [
+   "../concepts/mulliken-population-analysis|Mulliken布居分析",
+   "../concepts/mulliken-population"
+  ],
+  [
+   "../concepts/steepest-ascent-path|最陡上升路径",
+   "../concepts/steepest-ascent"
+  ],
+  [
+   "../concepts/steepest-ascent-path|最陡上升路径",
+   "../concepts/steepest-ascent"
+  ],
+  [
+   "../concepts/mulliken-population-analysis|基于波函数",
+   "../concepts/mulliken-population"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\tangMultiferroicityTwodimensionalVan2025.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../concepts/van-der-waals-heterostructure|范德华异质结 van der Waals heterostructure",
+   "../concepts/vdW-heterostructure"
+  ],
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性",
+   "../concepts/magnetic-anisotropy"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\tianRoomtemperatureTwodimensionalMultiferroic2026.md": [
+  [
+   "../figures/domain-walls|畴与畴壁结构",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Tobeiha2025optical.md": [
+  [
+   "../concepts/optical-bandgap",
+   "../concepts/optical-band-gap"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Unknown2022polymerization.md": [
+  [
+   "../entities/gold",
+   "../entities/Au"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Unknown2025diffractive.md": [
+  [
+   "../entities/Ti-Sa-laser",
+   "../entities/Ti-sapphire-laser"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\vahidmohammadiWorldTwodimensionalCarbides2021.md": [
+  [
+   "../entities/MAX-phases|MAX 相",
+   "../entities/MAX-phase"
+  ],
+  [
+   "../concepts/max-phase|MAX 相",
+   "../entities/MAX-phase"
+  ],
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\wangTunableD0Topological2025b.md": [
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ],
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性",
+   "../concepts/magnetic-anisotropy"
+  ],
+  [
+   "../concepts/half-metal|half-metal",
+   "../concepts/half-metallicity"
+  ],
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Wei2021.md": [
+  [
+   "../entities/carbon-nanotubes",
+   "../entities/carbon-nanotube"
+  ],
+  [
+   "../entities/carbon-nanotubes|carbon-nanotubes",
+   "../entities/carbon-nanotube"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\WRZYSZCZYNSKI2010initiators.md": [
+  [
+   "../concepts/two-photon-cross-section",
+   "../concepts/two-photon-absorption-cross-section"
+  ],
+  [
+   "../concepts/d-pi-a-structure|D-π-A 结构",
+   "../concepts/d-pi-a-architecture"
+  ],
+  [
+   "../concepts/intramolecular-charge-transfer|分子内电荷转移",
+   "../concepts/ict-mechanism"
+  ],
+  [
+   "../concepts/d-pi-a-structure|d-pi-a-structure",
+   "../concepts/d-pi-a-architecture"
+  ],
+  [
+   "../concepts/two-photon-cross-section|two-photon-cross-section",
+   "../concepts/two-photon-absorption-cross-section"
+  ],
+  [
+   "../concepts/donor-pi-acceptor|donor–π–acceptor",
+   "../concepts/d-pi-a-architecture"
+  ],
+  [
+   "../concepts/intramolecular-charge-transfer|分子内电荷转移",
+   "../concepts/ict-mechanism"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Wu2021.md": [
+  [
+   "../concepts/dftb-density-functional-tight-binding|dftb-density-functional-tight-binding",
+   "../concepts/dftb"
+  ],
+  [
+   "../concepts/mulliken-population-analysis|mulliken-population-analysis",
+   "../concepts/mulliken-population"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\wuCoexistenceFerroelectricityAntiferroelectricity2024.md": [
+  [
+   "../concepts/type-ii-multiferroics|第二类多铁",
+   "../concepts/type-ii-multiferroicity"
+  ],
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../concepts/helical-spin-order|helical-spin-order",
+   "../concepts/helical-magnetism"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\wuElectrostaticGatingIntercalation2022.md": [
+  [
+   "../entities/molybdenum-disulfide|molybdenum-disulfide",
+   "../entities/MoS2"
+  ],
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性",
+   "../concepts/magnetic-anisotropy"
+  ],
+  [
+   "../concepts/van-der-waals-heterostructure|范德华异质结",
+   "../concepts/vdW-heterostructure"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\wuNonvolatileSwitchableHalfmetallicity2024.md": [
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性能",
+   "../concepts/magnetic-anisotropy"
+  ],
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性能",
+   "../concepts/magnetic-anisotropy"
+  ],
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\wuSlidingFerroelectricity2D2021a.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\xiangTwodimensionalRoomTemperature2020.md": [
+  [
+   "../concepts/type-i-multiferroics|type-I / type-II multiferroics / 第一类/第二类多铁体",
+   "../concepts/type-i-multiferroic"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\xuTunableFerroelectricTopological2022.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\xuTwodimensionalFerroelasticityVan2021.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../concepts/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\yanagizawaSwitchingChargedensityWave2023.md": [
+  [
+   "../concepts/arpes|arpes",
+   "../concepts/ARPES"
+  ],
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\yangRipplingFerroicPhase2021.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Yarai2005optical.md": [
+  [
+   "../concepts/pump-probe-technique|泵浦-探测技术",
+   "../concepts/pump-probe"
+  ],
+  [
+   "../concepts/pump-probe-technique|pump-probe-technique",
+   "../concepts/pump-probe"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\yuFerroelectricControlMagnetism2026.md": [
+  [
+   "../concepts/multiferroic-tunneling-junction",
+   "../concepts/multiferroic-tunnel-junction"
+  ],
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\zahraCriticalAnalysisFerroelectric2025.md": [
+  [
+   "../concepts/max-phase",
+   "../entities/MAX-phase"
+  ],
+  [
+   "../concepts/sc2co2",
+   "../entities/Sc2CO2"
+  ],
+  [
+   "../concepts/max-phase|MAX 相",
+   "../entities/MAX-phase"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\Zhang2008synthesis.md": [
+  [
+   "../concepts/push-pull-chromophore|推-拉发色团",
+   "../concepts/d-pi-a-architecture"
+  ],
+  [
+   "../concepts/intramolecular-charge-transfer|分子内电荷转移",
+   "../concepts/ict-mechanism"
+  ],
+  [
+   "../concepts/push-pull-chromophore|push-pull-chromophore",
+   "../concepts/d-pi-a-architecture"
+  ],
+  [
+   "../concepts/two-photon-cross-section|two-photon-cross-section",
+   "../concepts/two-photon-absorption-cross-section"
+  ],
+  [
+   "../concepts/push-pull-chromophore|推-拉发色团",
+   "../concepts/d-pi-a-architecture"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\zhangEmergingFrontiersTwodimensional2025.md": [
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\zhangNonvolatileControlTopological2025.md": [
+  [
+   "../concepts/magnetic-anisotropy-energy",
+   "../concepts/magnetic-anisotropy"
+  ],
+  [
+   "../concepts/llg-equation",
+   "../concepts/landau-lifshitz-equation"
+  ],
+  [
+   "../figures/domain-walls",
+   "../concepts/domain-wall"
+  ],
+  [
+   "../concepts/magnetic-anisotropy-energy|magnetic-anisotropy-energy",
+   "../concepts/magnetic-anisotropy"
+  ],
+  [
+   "../concepts/llg-equation|llg-equation",
+   "../concepts/landau-lifshitz-equation"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\zhaoRealization2DMultiferroic2024.md": [
+  [
+   "../concepts/magnetic-skyrmion|magnetic-skyrmion",
+   "../concepts/skyrmion"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\zhongHighthroughputExfoliationMultiferroic2025.md": [
+  [
+   "../concepts/half-metal",
+   "../concepts/half-metallicity"
+  ],
+  [
+   "../concepts/cneb",
+   "../concepts/climbing-image-neb"
+  ],
+  [
+   "../concepts/magnetic-anisotropy-energy|磁各向异性能",
+   "../concepts/magnetic-anisotropy"
+  ],
+  [
+   "../concepts/half-metal|半金属",
+   "../concepts/half-metallicity"
+  ]
+ ],
+ "E:\\swan_goose\\宝宝\\笔记库\\sgg\\科研Wiki\\wiki\\papers\\zhouFirstprinciplesPredictionRedox2004.md": [
+  [
+   "../concepts/dft-plus-u",
+   "../concepts/DFT-U"
+  ],
+  [
+   "../concepts/charge-ordering",
+   "../concepts/charge-order"
+  ],
+  [
+   "../concepts/charge-ordering|charge-ordering",
+   "../concepts/charge-order"
+  ]
+ ]
+}

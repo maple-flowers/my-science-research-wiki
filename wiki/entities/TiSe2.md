@@ -2,7 +2,7 @@
 tags: [entity, material, TMD, 2D, CDW, superconductor]
 title: 二硒化钛 (TiSe2) / Titanium Diselenide
 type: entity
-status: mature
+status: developing
 formula: TiSe2
 stoichiometry: 1T
 class: [TMD, vdW, semimetal]
@@ -13,6 +13,11 @@ updated: 2026-08
 ---
 
 # 二硒化钛 (TiSe2) / Titanium Diselenide
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 二硒化钛 (TiSe2) 是一种极为特殊的过渡金属硫族化合物。它在低温下（约 200 K）进入 $2 \times 2 \times 2$ 的电荷密度波 (CDW) 态。TiSe₂ 是研究**激子绝缘体 (Excitonic Insulator)** 物理以及 CDW 与超导穹顶竞争关系的明星体系。
 
@@ -47,4 +52,4 @@ TiSe2 采用八面体配位的 1T 相结构。
 - [[../concepts/charge-density-wave|电荷密度波]]
 - [[../concepts/discommensuration|错位相子]]
 - [[../concepts/exciton-condensation|激子凝聚]]
-- [[../entities/1t-phase|1T 相]]
+- [[../concepts/1t-phase|1T 相]]

@@ -87,7 +87,7 @@ $$ E_a = K_u \sin^2 \theta $$
 
 - [[../concepts/spin-orbit-coupling|自旋-轨道耦合]]（微观推手）
 - [[../concepts/easy-axis|易轴]]（能量最低方向）
-- [[../entities/Fe3GeTe2|Fe₃GaTe₂]]（具有强垂直各向异性的二维材料）
+- [[../entities/Fe3GaTe2|Fe₃GaTe₂]]（具有强垂直各向异性的二维材料）
 - [[../entities/CrI3|CrI₃]]（首个二维铁磁体，具强各向异性）
 
 ## 🏷️ 专业名词别名

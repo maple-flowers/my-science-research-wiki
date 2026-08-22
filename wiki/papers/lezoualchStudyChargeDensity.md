@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/lezoualchStudyChargeDensity]]
 projects: [project-7, project-5, project-4, project-2]
-concepts: [charge-density-wave, 2d-materials, density-functional-theory, electron-phonon-coupling, fermi-surface-nesting, peierls-transition, phonon-soft-mode, cew-tronics, intercalation, strain-engineering, soft-mode]
+concepts: [charge-density-wave, 2d-materials, density-functional-theory, electron-phonon-coupling, fermi-surface-nesting, peierls-distortion, phonon-soft-mode, cew-tronics, intercalation, strain-engineering, soft-mode]
 entities: [TMDs, Quantum-Espresso, Fireball, VSe2, VTe2, STM]
 methods: [dft, dfpt, negf, neb, stm-simulation]
 materials: [1T-VSe2, 1T-VTe2]

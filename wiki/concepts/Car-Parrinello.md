@@ -1,4 +1,39 @@
+---
+tags: [concept]
+title: 'car-parrinello'
+type: concept
+status: developing
+papers: ['blochlProjectorAugmentedwaveMethod1994b', 'kresseInitiomolecularDynamicsLiquid1993', 'kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994']
+updated: 2026-08-18
+---
+
 # car-parrinello
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
+
+Car-Parrinello 分子动力学（Car-Parrinello molecular dynamics, CPMD）是由 Roberto Car 与 Michele Parrinello 于 1985 年提出的**第一性原理（ab initio）分子动力学**方法，首次将电子结构的 DFT 计算与经典离子运动统一在同一个拉格朗日框架中。它通过引入电子波函数的"虚拟质量"（fictitious mass），使电子态以绝热方式跟随离子运动，从而在无需每次显式自洽求解的代价下获得原子级精度的动力学轨迹，是现代凝聚态物理与材料科学中模拟液态、非晶及相变过程的里程碑式方法。
+
+## 👵 太奶导读
+
+太奶啊，模拟原子怎么动，就像拍"原子电影"。以前每拍一帧都要从头算一遍电子，太慢；Car-Parrinello 的办法是让电子"跟着跑"——给电子一个轻快的"假重量"，让它们一直贴着原子走，这样拍电影就不用每帧重算，又快又准。很多液体金属、非晶半导体的原子级动态过程，都是用这个办法算出来的。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **扩展拉格朗日**：把电子波函数当作额外的动力学自由度，与离子坐标一同满足拉格朗日方程；电子虚拟质量需足够小以保证绝热分离。
+- **绝热近似与能量漂移**：电子"质量"选择使电子动能远小于离子动能，体系在绝热面附近演化；虚拟质量过大会导致能量漂移与电子-离子能量交换。
+- **与 Born-Oppenheimer MD 对比**：CPMD 避免了每步迭代自洽（SCF）求解，通过波函数的连续演化节省计算；Born-Oppenheimer MD（BO MD）则每步收敛电子基态，两者在精度与效率上各有取舍。
+- **典型应用**：液态金属（如本库引用的液态金属 _ab initio_ MD）、液-金属-非晶半导体转变（锗）、表面反应、溶液化学等。
+- **历史意义**：开创了"计算材料动力学"范式，后续发展为 CP2K 等成熟软件的基础。
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../concepts/molecular-dynamics|分子动力学]]：经典 MD 与第一性原理 MD 的方法谱系；CPMD 是其第一性原理分支的代表。
+- [[../concepts/aimd|AIMD]]：本库对 ab initio MD 的别称与条目。
+- [[../entities/VASP|VASP]]：实现 ab initio MD（含 CPMD 类算法）的主流软件。
+- [[../concepts/PBE-functional|PBE 泛函]]：CPMD 常搭配的交换关联近似。
 
 ## 📚 相关论文 (Related Papers)
 

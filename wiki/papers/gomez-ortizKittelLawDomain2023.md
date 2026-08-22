@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/gomez-ortizKittelLawDomain2023]]
 projects: [project-2, project-5]
-concepts: [kittel-law, polar-vortices, vortex-antivortex-pair, depolarization-field, domain-walls, topological-defects, strain-engineering, multiferroicity, ferroelasticity, polarization-switching, second-principles, superlattice, anharmonic-effects, polarization-waves, topological-charge, kosterlitz-thouless, poincare-hopf-theorem, domain-wall]
+concepts: [kittel-law, polar-vortex, vortex-antivortex-pair, depolarization-field, domain-wall, topological-defects, strain-engineering, multiferroicity, ferroelasticity, polarization-switching, second-principles, superlattice, anharmonic-effects, polarization-waves, topological-charge, kosterlitz-thouless, poincare-hopf-theorem]
 entities: [PbTiO3, SrTiO3, BiFeO3, SCALE-UP, PHONOPY]
 methods: [second-principles, dft, monte-carlo-annealing, langevin-md, force-constant-bands, phonon-spectra, born-effective-charges, effective-hamiltonian]
 materials: [PbTiO3, SrTiO3, PbTiO3-SrTiO3-superlattice]

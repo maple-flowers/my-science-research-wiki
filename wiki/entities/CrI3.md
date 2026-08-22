@@ -2,7 +2,7 @@
 tags: [entity, material, 2D, magnetism]
 title: 三碘化铬 (CrI₃)
 type: entity
-status: mature
+status: developing
 category: [D01]
 formula: CrI3
 stoichiometry: Monolayer / Bilayer
@@ -14,6 +14,11 @@ updated: 2026-08
 ---
 
 # 三碘化铬 (CrI₃)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 三碘化铬 (CrI₃) 是一种具有里程碑意义的二维范德华材料。2017 年，科学家首次在单层 CrI₃ 中证实了长程铁磁序的存在，打破了 Mermin-Wagner 定理在二维各向同性体系中的限制。CrI₃ 具有显著的层数依赖磁性：单层为铁磁性，双层表现为反铁磁性。
 ## 👵 太奶导读
 乖孙，这“三碘化铬”可是材料界的“大明星”。
@@ -36,13 +41,13 @@ updated: 2026-08
 - [[../papers/chenStrongSlidingFerroelectricity2024]]：引用 CrI₃ 作为二维磁性与多铁耦合研究的基准材料。
 - [[../papers/huangTwodimensionalIn2Se3Rising2022]]：讨论了 In₂Se₃ 与 CrI₃ 构建多铁异质结的可能性。
 - [[../papers/cheongMultiferroicsMagneticTwist2007a]]：分析了类似卤化物体系中的非共线磁序。
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]
-- [[../papers/liPhaseTransitions2D2021]]
-- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]
-- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
-- [[../papers/yangRipplingFerroicPhase2021]]
-- [[../papers/zhangNonvolatileControlTopological2025]]
-- [[../papers/laiTwodimensionalFerromagnetismDriven2019]]
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]：从综述角度梳理了「Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials」。
+- [[../papers/liPhaseTransitions2D2021]]：从综述角度梳理了「Phase transitions in 2D materials」。
+- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]：从综述角度梳理了「Spintronics in Two-Dimensional Materials」。
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：从综述角度梳理了「Sliding ferroelectricity in two-dimensional materials and device applications」。
+- [[../papers/yangRipplingFerroicPhase2021]]：从理论分析角度梳理了「Rippling Ferroic Phase Transition and Domain Switching In 2D Materials」。
+- [[../papers/zhangNonvolatileControlTopological2025]]：从理论分析角度梳理了「Nonvolatile control of topological magnetism in two-dimensional CrInTe2/In2Se3 multiferroic heterostructures」。
+- [[../papers/laiTwodimensionalFerromagnetismDriven2019]]：从实验研究角度梳理了「范德华 CuCrP₂S₆ 中的二维铁磁性和驱动铁电性」。
 - [[../papers/songEvidenceSinglelayerVan2022]]
 - [[../papers/tangMultiferroicityTwodimensionalVan2025]]
 - [[../papers/wuSlidingFerroelectricity2D2021a]]

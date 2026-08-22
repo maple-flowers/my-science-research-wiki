@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/WRZYSZCZYNSKI2010initiators]]
 projects: [project-1]
-concepts: [two-photon-absorption, two-photon-polymerization, photoinitiator, d-pi-a-structure, two-photon-cross-section, photopolymerization, photoinduced-electron-transfer, exciplex, nonlinear-optics, charge-transfer, two-photon-absorption-cross-section]
+concepts: [two-photon-absorption, two-photon-polymerization, photoinitiator, d-pi-a-architecture, two-photon-cross-section, photopolymerization, photoinduced-electron-transfer, exciplex, nonlinear-optics, charge-transfer, two-photon-absorption-cross-section]
 entities: [coumarin, stilbene, diphenyliodonium-salt, habi, thiazine-dye, triphenylamine, xanthene-dye, femtosecond-laser]
 methods: [literature-review, photopolymerization-kinetics, two-photon-absorption-spectroscopy, structure-property-analysis]
 materials: [e-stilbene, dibutylamino-stilbene, coumarin-derivatives, ketocoumarin-derivatives, thiazine-dyes, triphenylamine-derivatives, eosin, dpi, habi]

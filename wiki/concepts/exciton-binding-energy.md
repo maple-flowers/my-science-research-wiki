@@ -1,6 +1,63 @@
+---
+tags: [concept, exciton, optoelectronics, band-gap, carrier-recombination]
+title: exciton-binding-energy
+type: concept
+status: developing
+year: 2025
+papers: [Tobeiha2025optical, shuTwoDimensionalBlackArsenic2020]
+updated: 2026-08-21
+---
+
 # exciton-binding-energy
+
+**激子结合能（exciton binding energy）** 指把一个光激发产生的电子—空穴对**拆开成自由载流子**所需的能量。它是判断「光生载流子能不能被用起来」的关键量：结合能低，电子容易脱离空穴被抽走；结合能高，电子被空穴拉住、倾向于原地复合。
+
+## 👵 太奶导读
+
+乖孙，光照到材料上，把一个电子从低能级踢到高能级，原地留下一个空位（空穴）。这一对刚分家的电子和空穴带异号电荷，会互相吸引——它俩黏在一起的这个组合叫**激子**。
+
+**激子结合能就是「把这一对拆开」要花的力气。**
+
+这个数值决定了光电器件好不好使：
+
+- **结合能低**：轻轻一拽就分开，电子能跑出去做事——被水分子抽走、被电极收走、参与反应。**好事。**
+- **结合能高**：拉得紧，电子跑不掉，转头就和空穴复合、把能量白白变成光或热。**坏事。**
+
+**它跟带隙有什么关系？** 一般来说带隙越小，结合能越低。所以本库里那篇砷磷论文的推论是：b-AsP 的带隙只有 0.0915 eV，远小于 b-P 的 0.2737 eV，所以激子结合能更低、更不容易复合。
+
+**但太奶要你留个心眼**，这条推论有个漏洞，而且是原作者自己指出的：那个带隙是**块体材料的 DFT 计算值**，实验用的却是约 5 nm 的纳米片。薄到这个程度会有**量子限域效应**，带隙和结合能都会变——「带隙越小、复合越少」这个简单推论有可能被推翻。
+
+记一句话：**激子结合能 = 拆开电子—空穴对的力气；低了载流子才能被用起来；由带隙估计它时必须先问清楚是块体还是薄层。**
+
+## 🧩 判读与应用
+
+- **物理含义**：电子—空穴库仑束缚的强度；结合能越低，激子越易解离为自由载流子。
+- **对器件性能的两条通路**：
+  - **降低复合**：结合能低 → 光生载流子寿命有效延长 → 光响应增强。
+  - **促进界面抽取**：处于高能级、结合能较低的光生电子更容易被表面吸附物（如水分子）抽走，从而增强掺杂效应。
+- **与光子能量的配合**：光子能量必须**高于**带隙才能有效激发电子—空穴对；仅接近带隙时激发效率有限，即便靠[[../concepts/two-photon-absorption|双光子吸收]]等非线性过程产生少量高能电子，数量也不足。
+
+### 本库中的数值与判据
+
+| 体系 | 带隙 | 对激子结合能的推断 | 性质 |
+|---|---|---|---|
+| b-AsP | 0.0915 eV | 结合能更低，更不易复合 | 计算（块体 DFT） |
+| b-P（对照） | 0.2737 eV | 相对更高 | 计算（块体 DFT） |
+| GO | 2.66 eV | 450 nm 光子（2.76 eV）高于带隙 → 有效激发，光生电子结合能较低、易被水分子抽取 | 实验 + 机制解释 |
+| G | 1.56 eV | 808 nm 光子（1.53 eV）接近带隙 → 激发效率有限 | 实验 + 机制解释 |
+
+⚠️ **边界（原作者自陈）**：b-AsP / b-P 的带隙为**块体** DFT 计算值，而实验样品是约 5 nm 纳米片。量子限域效应会同时改变带隙与激子结合能，因此「带隙越小 → 复合率越低」这一推论**尚未被直接验证**；作者建议用瞬态吸收等超快光谱手段直接测量。本库中**没有一条激子结合能的实测数值**，上表全部是由带隙作出的间接推断。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/Tobeiha2025optical]] — Optical humidity sensor based on G/GO nanosheets
-- [[../papers/shuTwoDimensionalBlackArsenic2020]] — Two-Dimensional Black Arsenic Phosphorus for Ultrafast Photonics in Near- and Mid-Infrared Regimes
+- [[../papers/Tobeiha2025optical]]：本页应用侧的主要来源。该文用激子结合能解释了不同波长激光对 G/GO 湿度传感性能的差别——450 nm 光子（2.76 eV）高于 GO 带隙（2.66 eV），能有效激发电子—空穴对，且这些高能级光生电子的激子结合能较低、更易被吸附的水分子抽取，从而增强 p 型掺杂并大幅提升湿度响应；而 808 nm（1.53 eV）仅接近 G 的带隙（1.56 eV），激发效率有限。它提供了本页「结合能低 → 界面抽取容易」这条通路的具体机制链。
+- [[../papers/shuTwoDimensionalBlackArsenic2020]]：提供本页唯一的带隙对照数据（b-AsP 0.0915 eV vs b-P 0.2737 eV）及由此推出的「带隙更小 → 激子结合能更低 → 更不易复合」这一论证；其更重要的价值在于**自陈了该论证的漏洞**——DFT 算的是块体、实验用的是约 5 nm 纳米片，量子限域效应可能推翻这一简单推论。这条自我限定是本页 ⚠️ 边界一节的直接依据。
+
+## 🔗 关联概念与实体 (Related)
+
+- [[../concepts/exciton-phonon-coupling|exciton-phonon-coupling]]
+- [[../concepts/band-gap|band-gap]]
+- [[../concepts/confined-electron-gas|confined-electron-gas]]
+- [[../concepts/two-photon-absorption|two-photon-absorption]]
+- [[../concepts/charge-transfer|charge-transfer]]
+- [[../concepts/optical-band-gap|optical-band-gap]]

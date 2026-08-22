@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/wuNonvolatileSwitchableHalfmetallicity2024]]
 projects: [project-2, project-5]
-concepts: [2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, selective-charge-transfer, half-metallicity, spin-field-effect-transistor, bipolar-magnetic-semiconductor, superexchange, magnetic-anisotropy-energy, polar-metal]
+concepts: [2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, multiferroicity, polarization-switching, spin-orbit-coupling, selective-charge-transfer, half-metallicity, spin-field-effect-transistor, bipolar-magnetic-semiconductor, superexchange, magnetic-anisotropy, polar-metal]
 entities: [CrTe2, Fe3GeTe2, In2Se3, MXenes, SnTe, VASP, Sc2CO2, Hf2MnC2O2]
 methods: [afm-pfm, berry-phase, dft, dft-plus-u]
 materials: [CrTe2, Fe3GeTe2, In2Se3, MXenes, SnTe]

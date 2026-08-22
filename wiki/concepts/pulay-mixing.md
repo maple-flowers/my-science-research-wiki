@@ -52,4 +52,3 @@ $$ \rho_{in}^{new} = \sum a_i \rho_{in}^i $$
 - [[rmm-diis|RMM-DIIS]]：对角化与混合是 SCF 这一台大戏的两位“主角”。
 - Kerker 预条件 (concept)：Pulay 混合在金属体系中的“黄金搭档”。
 - VASP (entity)：通过 IMIX 和 AMIX 等参数控制。
- luxury

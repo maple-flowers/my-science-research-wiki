@@ -1,0 +1,5 @@
+feat: 丰富并整理 concepts/entities 正式页面内容
+
+- 23 个正式页面相关论文列表去重、为新增论文补一句话内容描述
+- frontmatter papers 字段与正文实际引用同步合并
+- 涉及磁各向异性、第二类多铁性、自旋螺旋、ICT/TICT、CrTe2、MoS2、MoTe2 等页面

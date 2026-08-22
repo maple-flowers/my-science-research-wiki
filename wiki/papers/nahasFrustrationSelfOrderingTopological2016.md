@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/nahasFrustrationSelfOrderingTopological2016]]
 projects: [project-2, project-5]
-concepts: [topological-defects, geometric-frustration, chirality, vortex-antivortex, residual-entropy, ground-state-degeneracy, frustration-index, effective-hamiltonian, flux-closure-domain, antiferrotoroidic-order, toroidal-moment, depolarizing-field, ferroelectricity, domain-walls]
+concepts: [topological-defects, geometric-frustration, chirality, vortex-antivortex, residual-entropy, ground-state-degeneracy, frustration-index, effective-hamiltonian, flux-closure-domain, antiferrotoroidic-order, toroidal-moment, depolarization-field, ferroelectricity, domain-wall]
 entities: [BaTiO3, BaSrTiO3]
 methods: [effective-hamiltonian, monte-carlo, first-principles, dielectric-susceptibility, autocorrelation-analysis]
 materials: [BaTiO3, Ba0.15Sr0.85TiO3]

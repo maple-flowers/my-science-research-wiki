@@ -2,7 +2,7 @@
 tags: [entity, material, multiferroic, perovskite]
 title: 铁酸铋 / Bismuth Ferrite (BiFeO3, BFO)
 type: entity
-status: mature
+status: developing
 formula: BiFeO3
 class: [perovksite, multiferroic, insulator]
 properties: [multiferroicity, ferroelectricity, antiferromagnetism, magnetoelectric-coupling]
@@ -16,6 +16,11 @@ updated: 2026-08
 ---
 
 # 铁酸铋 / Bismuth Ferrite (BiFeO3, BFO)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 铁酸铋 (Bismuth Ferrite, BiFeO₃) 是一种典型的钙钛矿结构氧化物，是目前已知的极少数在室温下同时具有铁电性和磁性（G型反铁磁）的单相多铁性材料。它具有极高的居里温度 (Curie temperature, $T_C \approx 1100$ K) 和奈尔温度 (Néel temperature, $T_N \approx 640$ K)，是设计多功能存储器件和磁传感器最核心的候选材料之一。
 
@@ -59,37 +64,37 @@ Prosandeev 等人的理论研究证实，BFO 超薄膜在厚度大于 2 nm 时�
 - [[../papers/spaldinRenaissanceMagnetoelectricMultiferroics2005]]：确立了 BFO 作为绕开 $d^0$-$d^n$ 禁忌的明星机制代表。
 - [[../papers/rameshMultiferroicsProgressProspects2007]]：展示了 BFO 薄膜在电控磁、垂直纳米结构中的巨大应用前景。
 - [[../papers/prosandeevKittelLawInBiFeO3Ultrathin2010]]：利用第一性原理哈密顿量揭示了 BFO 超薄膜畴结构的非传统起源。
-- [[../papers/Chen2016electrical]]
-- [[../papers/FerroelectricityMultiferroicityAtomic2023]]
-- [[../papers/Goswami2011multiferroic]]
-- [[../papers/Jin2015studying]]
-- [[../papers/Kim2008effect]]
-- [[../papers/Perugu2024morphology]]
-- [[../papers/RecentAdvancesGrowth2025]]
-- [[../papers/aiFerroelectricityCoexistedPorbital2022]]
-- [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]
-- [[../papers/bhowalPolarMetalsPrinciples2023b]]
-- [[../papers/cheongMultiferroicsMagneticTwist2007a]]
-- [[../papers/deSousa2008electrical]]
-- [[../papers/fiebigEvolutionMultiferroics2016]]
-- [[../papers/gomez-ortizKittelLawDomain2023]]
-- [[../papers/guanRecentProgressTwoDimensional2020]]
-- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]
-- [[../papers/hanPolarTopologicalMaterials2025]]
-- [[../papers/hillWhyAreThere2000a]]
-- [[../papers/huProgressProspectsLowdimensional2019]]
-- [[../papers/huangTwodimensionalIn2Se3Rising2022]]
-- [[../papers/laiTwodimensionalFerromagnetismDriven2019]]
-- [[../papers/martinThinfilmFerroelectricMaterials2016]]
-- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]
-- [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]]
-- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]]
-- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
-- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]
-- [[../papers/tangMultiferroicityTwodimensionalVan2025]]
-- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]
-- [[../papers/wuCoexistenceFerroelectricityAntiferroelectricity2024]]
-- [[../papers/wuSlidingFerroelectricity2D2021a]]
+- [[../papers/Chen2016electrical]]：从实验研究角度梳理了「Electrical and mechanical switching of ferroelectric polarization in the 70 nm BiFeO3 film」。
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]]：从综述角度梳理了「Ferroelectricity and multiferroicity down to the atomic thickness」。
+- [[../papers/Goswami2011multiferroic]]：从实验研究角度梳理了「Multiferroic coupling in nanoscale BiFeO3」。
+- [[../papers/Jin2015studying]]：从实验研究角度梳理了「Studying the Polarization Switching in Polycrystalline BiFeO3 Films by 2D Piezoresponse Force Microscopy」。
+- [[../papers/Kim2008effect]]：从实验研究角度梳理了「Effect of epitaxial strain on ferroelectric polarization in multiferroic BiFeO3 films」。
+- [[../papers/Perugu2024morphology]]：从实验研究角度梳理了「Synthesis, Structural, Morphology and Magnetic Properties: Effect of La on Multiferroic Nature of BiFeO3 Nanoparticles」。
+- [[../papers/RecentAdvancesGrowth2025]]：从综述角度梳理了「二维多铁性材料的生长、表征及应用研究进展」。
+- [[../papers/aiFerroelectricityCoexistedPorbital2022]]：从理论分析角度梳理了「二维金属氮氧化物中的铁电性与p轨道铁磁性和金属丰度共存」。
+- [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]：从实验研究角度梳理了「Atomic-Scale Visualization of Multiferroicity in Monolayer NiI2」。
+- [[../papers/bhowalPolarMetalsPrinciples2023b]]：从综述角度梳理了「极性金属：原理与展望」。
+- [[../papers/cheongMultiferroicsMagneticTwist2007a]]：从理论分析角度梳理了「多铁性：铁电的磁扭曲」。
+- [[../papers/deSousa2008electrical]]：从理论分析角度梳理了「Electrical control of magnon propagation in multiferroic BiFeO3 films」。
+- [[../papers/fiebigEvolutionMultiferroics2016]]：从综述角度梳理了「多铁性的演化」。
+- [[../papers/gomez-ortizKittelLawDomain2023]]：从理论分析角度梳理了「Kittel law and domain formation mechanism in PbTiO3/SrTiO3 superlattices」。
+- [[../papers/guanRecentProgressTwoDimensional2020]]：从综述角度梳理了「Recent Progress in Two‐Dimensional Ferroelectric Materials」。
+- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]：从综述角度梳理了「二维铁电材料的研究进展」。
+- [[../papers/hanPolarTopologicalMaterials2025]]：从综述角度梳理了「Polar topological materials and devices: Prospects and challenges」。
+- [[../papers/hillWhyAreThere2000a]]：从理论分析角度梳理了「为什么磁性铁电体这么少？」。
+- [[../papers/huProgressProspectsLowdimensional2019]]：从综述角度梳理了「低维多铁性材料的研究进展与展望」。
+- [[../papers/huangTwodimensionalIn2Se3Rising2022]]：从综述角度梳理了「Two-dimensional In2Se3: A rising advanced material for ferroelectric data storage」。
+- [[../papers/laiTwodimensionalFerromagnetismDriven2019]]：从实验研究角度梳理了「范德华 CuCrP₂S₆ 中的二维铁磁性和驱动铁电性」。
+- [[../papers/martinThinfilmFerroelectricMaterials2016]]：从综述角度梳理了「铁电薄膜材料及其应用」。
+- [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]：从综述角度梳理了「多铁性：磁电耦合的不同途径」。
+- [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]]：从实验研究角度梳理了「一种室温铁电半金属」。
+- [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]]：从综述角度梳理了「磁电多铁性材料研究进展」。
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：从综述角度梳理了「Sliding ferroelectricity in two-dimensional materials and device applications」。
+- [[../papers/tahirFerroelectricityNonvolatileMemristor2025]]：从实验研究角度梳理了「自由基二维碳化铌的铁电性和非易失性忆阻应用：自由基MXene在电子器件中的新前沿」。
+- [[../papers/tangMultiferroicityTwodimensionalVan2025]]：从综述角度梳理了「二维范德华材料的多铁性：挑战与机遇」。
+- [[../papers/tianRoomtemperatureTwodimensionalMultiferroic2026]]：从实验研究角度梳理了「具有电压可控磁序的室温二维多铁金属」。
+- [[../papers/wuCoexistenceFerroelectricityAntiferroelectricity2024]]：从实验研究角度梳理了「Coexistence of ferroelectricity and antiferroelectricity in 2D van der Waals multiferroic」。
+- [[../papers/wuSlidingFerroelectricity2D2021a]]：从综述角度梳理了「二维范德华材料中的滑动铁电性：相关物理和未来机遇」。
 - [[../papers/yuFerroelectricControlMagnetism2026]]
 - [[../papers/zahraCriticalAnalysisFerroelectric2025]]
 - [[../papers/zhongHighthroughputExfoliationMultiferroic2025]]

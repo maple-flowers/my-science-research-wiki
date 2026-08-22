@@ -2,7 +2,7 @@
 tags: [entity, material, TMD, 2D, ferromagnet, CDW]
 title: 二硒化钒 (VSe2) / Vanadium Diselenide
 type: entity
-status: mature
+status: developing
 formula: VSe2
 stoichiometry: 1T
 class: [TMD, vdW, metal]
@@ -13,6 +13,11 @@ updated: 2026-08
 ---
 
 # 二硒化钒 (VSe2) / Vanadium Diselenide
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 二硒化钒 (VSe2) 是一种备受争议且物理内涵极其丰富的二维材料。在 1T 相下，它展现出极强的电荷密度波 (CDW) 序，且转变温度可被维度效应显著推高。同时，VSe2 的单层形式被认为是实现**本征二维磁性**的有力候选材料，尽管这一结论在实验上仍存在较多竞争性解释。
 
@@ -44,12 +49,14 @@ VSe2 的 CDW 机制与传统的 NbSe2 有所不同，体现了更强的电子-�
 | 磁性基态 | 理论预言铁磁 (FM)，实验尚存争议 |
 | 超结构周期 | $4 \times 4$ 或非公度调制 |
 
+> 注：上表为典型实验或 DFT 计算数值，适用对象与条件已在数值中标注，详细来源见下方 📚 相关论文 节。
+
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/kawakamiChargedensityWaveAssociated2023]]：研究了 VSe2 中 CDW 与能带结构的关联。
 - [[../papers/Inosov2008fermi]]：讨论了 TMD 材料中费米面动力学与电子关联。
-- [[../papers/lezoualchStudyChargeDensity]]
-- [[../papers/liPhaseTransitions2D2021]]
+- [[../papers/lezoualchStudyChargeDensity]]：从理论分析角度梳理了「Study of charge density waves in transition metal dichalcogenides」。
+- [[../papers/liPhaseTransitions2D2021]]：从综述角度梳理了「Phase transitions in 2D materials」。
 - [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]
 - [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
 - [[../papers/zhaoOpticalFingerprintsTwodimensional2024]]
@@ -58,5 +65,5 @@ VSe2 的 CDW 机制与传统的 NbSe2 有所不同，体现了更强的电子-�
 
 - [[../concepts/charge-density-wave|电荷密度波 (CDW)]]
 - [[../concepts/pseudogap|赝能隙]]
-- [[../entities/1t-phase|1T 相]]
+- [[../concepts/1t-phase|1T 相]]
 - [[../entities/NbSe2|二硒化铌 (NbSe2)]]

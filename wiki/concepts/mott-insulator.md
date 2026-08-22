@@ -2,7 +2,7 @@
 tags: [concept, insulator, correlated-electrons]
 title: 莫特绝缘体 / Mott Insulator
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, strongly-correlated-systems]
 mechanism: 由于电子间强烈的库仑排斥作用（Hubbard U），导致本应是金属的体系发生能隙打开而变为绝缘体
 related_concepts: [charge-density-wave, van-hove-singularity, pseudogap]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 莫特绝缘体 / Mott Insulator
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 莫特绝缘体是指根据传统的能带理论（忽略电子间相互作用）本应表现为金属（能带半满），但由于电子之间极强的库仑排斥作用（强关联效应），导致电子被局域化在格点上，从而在费米能级处打开能隙并表现为绝缘行为的材料。它是强关联物理研究的核心对象之一。
 
@@ -45,7 +50,7 @@ updated: 2026-08
 - [[../papers/Johannes2008fermi]]：对比了 CDW 机制与强关联效应的差异。
 - [[../papers/CastroNeto2001charge]]：综述了层状材料中莫特绝缘态与 CDW 的共存。
 - [[../papers/Koley2020charge]]：研究了电荷密度波在强关联背景下的演化。
-- [[../papers/dudarevElectronenergylossSpectraStructural1998a]]
+- [[../papers/dudarevElectronenergylossSpectraStructural1998a]]：从实验研究角度梳理了「电子能量损失谱和氧化镍的结构稳定性：  LSDA+U研究」。
 - [[../papers/nakataRobustChargedensityWave2021]]
 - [[../papers/petkovStructureIntercalatedCs2002]]
 - [[../papers/perdewGeneralizedGradientApproximation1996a]]

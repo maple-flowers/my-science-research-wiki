@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/hanTunableSlidingFerroelectricity2025]]
 projects: [project-2, project-5]
-concepts: [sliding-ferroelectricity, multiferroicity, 2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, strain-engineering, polarization-switching, spin-orbit-coupling, magnetic-anisotropy, stack-engineering, ferrovalley, moire-superlattice, van-der-waals-heterostructure, magnetic-anisotropy-energy]
+concepts: [sliding-ferroelectricity, multiferroicity, 2D-materials, berry-phase, density-functional-theory, magnetoelectric-coupling, strain-engineering, polarization-switching, spin-orbit-coupling, magnetic-anisotropy, stack-engineering, ferrovalley, moire-superlattice, van-der-waals-heterostructure]
 entities: [VASP, RuCl2, RuBr2, RuI2, h-BN, WTe2, In2Se3, TMDs]
 methods: [dft, dft-plus-u, hse, dft-d2, berry-phase, neb, aimd, phonon-calculation, spin-orbit-coupling]
 materials: [RuCl2, RuBr2, RuI2]

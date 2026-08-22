@@ -2,7 +2,7 @@
 tags: [concept, fermi-surface, charge-density-wave]
 title: 费米面嵌套 / Fermi Surface Nesting
 type: concept
-status: mature
+status: developing
 domain: [condensed-matter-physics, charge-density-wave]
 mechanism: 费米面的平行片段通过特定波矢 q 互相平移重合的几何特性
 related_concepts: [charge-density-wave, peierls-instability, lindhard-function, kohn-anomaly]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 费米面嵌套 / Fermi Surface Nesting (FSN)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 费米面嵌套是指在动量空间（$k$-space）中，费米面的两个或多个部分具有相似的形状，并且可以通过一个单一的平移矢量（称为嵌套矢量 $q$）彼此重合的几何属性。它是解释金属体系中电荷密度波 (CDW) 和自旋密度波 (SDW) 不稳定性的传统图像基础。
 
@@ -50,17 +55,17 @@ updated: 2026-08
 - [[../papers/Johannes2008fermi]]：系统论证了费米面嵌套并非真实金属中 CDW 的唯一或主导起源。
 - [[../papers/Inosov2008fermi]]：通过 ARPES 证实了嵌套矢量的普适性及其与转变温度的脱钩。
 - [[../papers/Laverock2005fermi]]：详细分析了多种 TMD 体系的费米面拓扑。
-- [[../papers/Barnett2006coexistence]]
-- [[../papers/CastroNeto2001charge]]
-- [[../papers/Kang2012dimer]]
-- [[../papers/Koley2020charge]]
-- [[../papers/Makogon2012wave]]
-- [[../papers/kawakamiChargedensityWaveAssociated2023]]
-- [[../papers/lezoualchStudyChargeDensity]]
-- [[../papers/wongEvidenceMetallic1T]]
-- [[../papers/yanagizawaSwitchingChargedensityWave2023]]
-- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]]
-- [[../papers/chowdhuryReviewTheoreticalComputational]]
+- [[../papers/Barnett2006coexistence]]：从理论分析角度梳理了「Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides」。
+- [[../papers/CastroNeto2001charge]]：从理论分析角度梳理了「Charge Density Wave, Superconductivity, and Anomalous Metallic Behavior in 2D Transition Metal Dichalcogenides」。
+- [[../papers/Kang2012dimer]]：从理论分析角度梳理了「Dimer impurity scattering, reconstructed Fermi-surface nesting, and density-wave diagnostics in iron pnictides」。
+- [[../papers/Koley2020charge]]：从理论分析角度梳理了「Charge density wave and superconductivity in transition metal dichalcogenides」。
+- [[../papers/Makogon2012wave]]：从理论分析角度梳理了「Spin-charge-density wave in a rounded-square Fermi surface for ultracold atoms」。
+- [[../papers/kawakamiChargedensityWaveAssociated2023]]：从实验研究角度梳理了「Charge-density wave associated with higher-order Fermi-surface nesting in monolayer VS2」。
+- [[../papers/lezoualchStudyChargeDensity]]：从理论分析角度梳理了「Study of charge density waves in transition metal dichalcogenides」。
+- [[../papers/wongEvidenceMetallic1T]]：从实验研究角度梳理了「Metallic 1T Phase, 3d1 Electronic Configuration and Charge Density Wave Order in Molecular Beam Epitaxy Grown Monolayer Vanadium Ditelluride」。
+- [[../papers/yanagizawaSwitchingChargedensityWave2023]]：从实验研究角度梳理了「Switching of charge-density wave by carrier tuning in monolayer TiTe₂」。
+- [[../papers/zhengAnisotropicSuperconductivityTwodimensional2025]]：从理论分析角度梳理了「二维金属-有机kagome骨架Cu3（CO）6的各向异性超导电性」。
+- [[../papers/chowdhuryReviewTheoreticalComputational]]：从综述角度梳理了「二维电荷密度波材料的理论和计算方法综述」。
 - [[../papers/gorkovStrongElectronlatticeCoupling2012]]
 - [[../papers/Islam2025enhancement]]
 - [[../papers/majumdarInterplayChargeDensity2020]]

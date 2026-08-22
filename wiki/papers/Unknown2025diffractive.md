@@ -12,7 +12,7 @@ year_read: 2026
 original_note:: [[../../raw/note/Unknown2025diffractive]]
 projects: [project-1]
 concepts: [beam-shaping, two-photon-polymerization, computer-generated-hologram, bessel-beam, axicon, staircase-effect, diffraction-efficiency, laser-damage-threshold, stitching, phase-modulation, nonlinear-absorption]
-entities: [diffractive-optical-element, FemtoBond-4B, MATLAB, STL, Ti-Sa-laser]
+entities: [diffractive-optical-element, FemtoBond-4B, MATLAB, STL, Ti-sapphire-laser]
 methods: [two-photon-polymerization, cgh-design, sem, optical-microscopy, beam-profiling, laser-damage-threshold-testing, fft-simulation, tilt-correction, stitching-algorithm]
 materials: [FemtoBond-4B]
 figures: [crystal-structures-bulk, experimental-setups, mathematical-models-formulas, optical-spectra]

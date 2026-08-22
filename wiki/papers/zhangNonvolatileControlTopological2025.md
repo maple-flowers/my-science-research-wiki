@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/zhangNonvolatileControlTopological2025]]
 projects: [project-2, project-5]
-concepts: [multiferroicity, magnetoelectric-coupling, 2d-materials, spin-orbit-coupling, polarization-switching, topological-defects, skyrmion, bimeron, dzyaloshinskii-moriya-interaction, magnetic-anisotropy-energy, heisenberg-exchange, rashba-effect, spin-transfer-torque, skyrmion-hall-effect, topological-charge, llg-equation, micromagnetic-simulation, racetrack-memory, superexchange]
+concepts: [multiferroicity, magnetoelectric-coupling, 2d-materials, spin-orbit-coupling, polarization-switching, topological-defects, skyrmion, bimeron, dzyaloshinskii-moriya-interaction, magnetic-anisotropy, heisenberg-exchange, rashba-effect, spin-transfer-torque, skyrmion-hall-effect, topological-charge, landau-lifshitz-equation, micromagnetic-simulation, racetrack-memory, superexchange]
 entities: [In2Se3, CrInTe2, VASP, Spirit, Fe3GeTe2, CrTe2, CrGeTe3, CrI3]
 methods: [dft, dft-plus-u, gga-pbe, paw, soc, berry-phase, micromagnetic-simulation, llg, spin-spiral, spin-transfer-torque, thiele-equation]
 materials: [CrInTe2, In2Se3, CrInTe2-In2Se3]

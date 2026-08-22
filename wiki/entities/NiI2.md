@@ -2,7 +2,7 @@
 tags: [entity, material, multiferroic, magnetism, 2D]
 title: 二碘化镍 (NiI2) / Nickel Iodide
 type: entity
-status: mature
+status: developing
 formula: NiI2
 stoichiometry: R-3m (bulk)
 class: [vdW, multiferroic, magnetic-semiconductor]
@@ -13,6 +13,11 @@ papers: [songEvidenceSinglelayerVan2022, fiebigEvolutionMultiferroics2016, Ferro
 ---
 
 # 二碘化镍 (NiI2) / Nickel Iodide
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 二碘化镍 (NiI₂) 是一种范德华层状磁性半导体，是目前已知唯一在单层极限下仍保持本征**第二类多铁性 (Type-II Multiferroicity)** 的材料。其多铁性起源于非对称的螺旋磁序（Proper-screw）对晶格对称性的打破，是研究二维磁电耦合物理的里程碑体系。
 ## 👵 太奶导读
 太奶，这个 **NiI2** 可是材料界最近的大红人。
@@ -37,9 +42,9 @@ NiI₂ 晶体结构属于菱面体系（$R\bar{3}m$）。Ni²⁺ 离子构成二
 | **光学带隙** | ~1.3 eV | 磁性半导体 |
 ## 📚 相关论文 (Related Papers)
 - [[../papers/songEvidenceSinglelayerVan2022]]：Nature 封面论文，实验证实单层 NiI₂ 为本征多铁体。
-- [[../papers/FerroelectricityMultiferroicityAtomic2023]]
-- [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]
-- [[../papers/fiebigEvolutionMultiferroics2016]]
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]]：从综述角度梳理了「Ferroelectricity and multiferroicity down to the atomic thickness」。
+- [[../papers/aminiAtomicscaleVisualizationMultiferroicity2024]]：从实验研究角度梳理了「Atomic-Scale Visualization of Multiferroicity in Monolayer NiI2」。
+- [[../papers/fiebigEvolutionMultiferroics2016]]：从综述角度梳理了「多铁性的演化」。
 - [[../papers/tangMultiferroicityTwodimensionalVan2025]]
 - [[../papers/wuCoexistenceFerroelectricityAntiferroelectricity2024]]
 - [[../papers/RecentAdvancesGrowth2025]]

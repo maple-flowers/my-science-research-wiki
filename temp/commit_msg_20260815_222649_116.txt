@@ -1,0 +1,10 @@
+fix: 为 6 个中间产物页补「相关论文」章节标题并对齐全库结构
+
+- wiki/concepts/amplitudon-phason.md
+- wiki/entities/2H-NbSe2.md
+- wiki/entities/CoFe2O4.md
+- wiki/entities/Cr2O3.md
+- wiki/entities/GaSe.md
+- wiki/entities/InSe.md
+
+在反链行前补上「## 📚 相关论文 (Related Papers)」章节标题，使结构与全库其他页面一致；未改动反链行内容、正文章节或论文链接。同时纳入 index.md 的手动改动。

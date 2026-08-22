@@ -2,7 +2,7 @@
 tags: [entity, material, TMD, 2D, Mott-insulator, CDW]
 title: 二硫化钽 (TaS2) / Tantalum Disulfide
 type: entity
-status: mature
+status: developing
 formula: TaS2
 stoichiometry: 1T
 class: [TMD, vdW, Mott-insulator]
@@ -14,6 +14,11 @@ updated: 2026-08
 
 # 二硫化钽 (TaS2) / Tantalum Disulfide
 
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
+
 二硫化钽 (TaS2) 尤其是其 $1\text{T}$ 相（1T-TaS2），是凝聚态物理中研究**莫特绝缘体 (Mott Insulator)** 与**电荷密度波 (CDW)** 强耦合行为的经典模本材料。它在低温下自发发生晶格畸变，将自由移动的金属电子锁死在局部超结构中，是“带宽控制型莫特相变”的典型代表。
 
 ## 👵 太奶导读
@@ -24,9 +29,6 @@ updated: 2026-08
 
 1T-TaS2 属于八面体配位的 1T 相（空间群 $P\bar{3}m1$）。在低温下，由于强烈的电声耦合，它会自发畸变形成 $\sqrt{13} \times \sqrt{13}$ 的“大卫之星 (Star-of-David)”超晶格。
 
-![图：1T-TaS2 畸变形成的大卫之星超结构](../../raw/figures/nakataRobustChargedensityWave2021/fig_1_6T5AGUJF.png)
-*   **看图要点**：图中展示了大卫之星超晶格的形成：每 13 个 Ta 原子（蓝色）向星团中心发生自发收缩。12 个过渡金属原子的最外层电子两两配对成键，而中心第 13 个原子上剩下一个半满的单电子，正是这个局域化的单电子在强关联作用下诱导了莫特能隙。
-*   **来源**：[[../papers/nakataRobustChargedensityWave2021]] -> [[../figures/crystal-structures-bulk|晶体结构]]
 
 ## 🧩 CDW 驱动的莫特相变
 
@@ -45,6 +47,8 @@ updated: 2026-08
 | Mott 转变温度 $T_{Mott}$ | 块体 $\sim 180\text{ K}$ (单层可提升至室温以上) |
 | 莫特能隙 (Mott gap) | $\sim 0.1\text{--}0.2\text{ eV}$ |
 
+> 注：上表为典型实验或 DFT 计算数值，适用对象与条件已在数值中标注，详细来源见下方 📚 相关论文 节。
+
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/nakataRobustChargedensityWave2021]]：详细讨论了单层 1T-TMD 体系中电子关联和晶格畸变对莫特相稳定性的调控。
@@ -57,5 +61,5 @@ updated: 2026-08
 - [[../concepts/charge-density-wave|电荷密度波 (CDW)]]
 - [[../concepts/mott-insulator|莫特绝缘体]]
 - [[../concepts/star-of-david|大卫之星团簇]]
-- [[../entities/1t-phase|1T 相]]
+- [[../concepts/1t-phase|1T 相]]
 - [[../entities/NbSe2|二硒化铌 (NbSe2)]]

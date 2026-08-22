@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, magnetism, topology]
 mechanism: 由 DMI 稳定出的具有非平庸拓扑电荷的准粒子磁构型
 related_concepts: [Dzyaloshinskii-Moriya-interaction, spin-spiral, magnetic-anisotropy]
-papers: [gongAbsenceCriticalThickness2023, tanRevealingEmergentMagnetic2024, mostovoyMultiferroicsDifferentRoutes2024, cheongMultiferroicsMagneticTwist2007a, wangTunableD0Topological2025b, zhangNonvolatileControlTopological2025, songEvidenceSinglelayerVan2022, zahraCriticalAnalysisFerroelectric2025, zhaoRealization2DMultiferroic2024]
+papers: [gongAbsenceCriticalThickness2023, tanRevealingEmergentMagnetic2024, mostovoyMultiferroicsDifferentRoutes2024, wangTunableD0Topological2025b, zhangNonvolatileControlTopological2025, songEvidenceSinglelayerVan2022, zahraCriticalAnalysisFerroelectric2025, zhaoRealization2DMultiferroic2024]
 updated: 2026-08
 ---
 
@@ -23,7 +23,7 @@ updated: 2026-08
 
 ## 🏗️ 结构概览：极性斯格明子与 Kittel 定律
 
-![图：薄膜中极性斯格明子的结构与厚度依赖](../../raw/figures/gongAbsenceCriticalThickness2023/fig_1_Q8LV7XLD.png)
+![图：薄膜中极性斯格明子的结构与厚度依赖](../../raw/figures/gongAbsenceCriticalThickness2023/fig_1_SYSSN7EC.png)
 *   **看图要点**：图中展示了在铁电/电介质超晶格中观测到的极性斯格明子（Polar Skyrmion）。这些微小的电偶极旋涡挑战了传统的 Kittel 磁畴标度律，即使在极薄极限下依然稳定。
 *   **来源**：[[../papers/gongAbsenceCriticalThickness2023]] -> [[../figures/heterostructures-stacking]]
 
@@ -43,13 +43,18 @@ updated: 2026-08
 
 - [[../papers/gongAbsenceCriticalThickness2023]]：报道了突破临界厚度限制的极性斯格明子，对微缩化器件具有重要意义。
 - [[../papers/tanRevealingEmergentMagnetic2024]]：利用高分辨率磁强计成像反铁磁背景下的手性结构。
-- [[../papers/cheongMultiferroicsMagneticTwist2007a]]：探讨了手性磁序与铁电性之间的深刻联系。
 - [[../papers/mostovoyMultiferroicsDifferentRoutes2024]]：总结了从传统螺旋到莫尔自旋结构的演进。
 - [[../papers/wangTunableD0Topological2025b]]：预测了 In₂NO₂ 单层中可调的 d0 拓扑磁态。
 - [[../papers/zhangNonvolatileControlTopological2025]]：在 CrInTe₂/In₂Se₃ 多铁异质结中实现了对拓扑磁性的非易失调控。
 - [[../papers/songEvidenceSinglelayerVan2022]]：在单层 NiI₂ 中证实了范德华多铁性。
 - [[../papers/zahraCriticalAnalysisFerroelectric2025]]：批判性分析了二维 MXene 的铁电与铁磁性质。
 - [[../papers/zhaoRealization2DMultiferroic2024]]：通过插层实现强磁电耦合二维多铁的第一性原理高通量预测。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `cheongMultiferroicsMagneticTwist2007a`：原文笔记中无 skyrmion/斯格明子相关内容。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

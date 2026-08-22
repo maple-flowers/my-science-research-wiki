@@ -2,7 +2,7 @@
 tags: [entity, material, TMD, 2D, superconductor, CDW]
 title: 二硒化铌 (NbSe2) / Niobium Diselenide
 type: entity
-status: mature
+status: developing
 formula: NbSe2
 stoichiometry: 2H
 class: [TMD, vdW, metal]
@@ -13,6 +13,11 @@ updated: 2026-08
 ---
 
 # 二硒化铌 (NbSe2) / Niobium Diselenide
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 二硒化铌 (NbSe2) 是一种典型的层状过渡金属硫族化合物 (TMD)，以其在低温下表现出的电荷密度波 (CDW) 与超导性 (Superconductivity) 的共存与竞争而闻名。它是研究二维极限下电子-声子耦合与关联电子序的理想平台。
 
@@ -38,11 +43,7 @@ NbSe2 是极少数在块体和单层状态下都能稳定维持 CDW 的 TMD 材�
 
 ## 🔬 电子结构与费米面
 
-NbSe2 的物性主要由其费米面附近的电子态决定。
-
-![图：NbSe2 费米面成像与能带色散](../../raw/figures/Inosov2008fermi/fig_2_UK4SYAPY.png)
-*   **关键特征**：图中显示了 NbSe2 的口袋状费米面，特别是 Γ 点和 K 点附近的特征。费米面嵌套 (Fermi Surface Nesting) 曾被认为是 CDW 的起源，但现在的研究更多指向各向异性的电声耦合。
-*   **来源**：[[../papers/Inosov2008fermi]] -> [[../figures/electronic-bands-band-structures|能带结构]]
+2H-NbSe₂ 是金属，费米面附近的电子态主要由 Nb 的 4d 能带贡献，在布里渊区中形成多个空穴与电子口袋。ARPES 等实验对费米面形状与能带色散的直接测量，是将 CDW 起因与超导配对联系起来的核心证据。早期理论把 CDW 归因于费米面嵌套驱动的电荷不稳定性，但进一步研究表明动量依赖的电子-声子耦合对 CDW 波矢的选择同样重要，因此需要结合能带结构、声子色散与电子-声子矩阵元共同解释。单层 NbSe₂ 的 CDW 转变温度相比块体升高，说明维度降低与屏蔽减弱会改变电子-声子相互作用和关联强度，进而重新平衡 CDW 与超导两种序。
 
 ## 📚 相关论文 (Related Papers)
 

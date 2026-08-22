@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/huangPolarPhaseDomain2019]]
 projects: [project-5, project-2, project-7]
-concepts: [domain-walls, topological-defects, weyl-semimetal, higher-order-topology, polar-metal, ferroelectricity, polarization-switching, sliding-ferroelectricity, structural-phase-transition, first-order-transition, spin-orbit-coupling, berry-phase, density-functional-theory, 2d-materials, hinge-state, fermi-arc, domain-wall]
+concepts: [domain-wall, topological-defects, weyl-semimetal, higher-order-topology, polar-metal, ferroelectricity, polarization-switching, sliding-ferroelectricity, structural-phase-transition, first-order-phase-transition, spin-orbit-coupling, berry-phase, density-functional-theory, 2d-materials, hinge-state, fermi-arc]
 entities: [TMDs, MoTe2, WTe2, VASP, PHONOPY]
 methods: [dft, dft-plus-u, phonon-finite-difference, group-theory-analysis, df-tem, haadf-stem, in-situ-cryo-tem, stm-sts, four-probe-transport, flux-growth, electron-beam-manipulation]
 materials: [MoTe2, Fe-doped-MoTe2]

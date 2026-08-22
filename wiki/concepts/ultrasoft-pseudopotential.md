@@ -2,7 +2,7 @@
 tags: [concept, computational-physics, vasp, dft]
 title: Ultrasoft Pseudopotential / 超软赝势 (US-PP)
 type: concept
-status: mature
+status: developing
 domain: [computational-physics, electronic-structure]
 mechanism: 放松模守恒约束并引入增强电荷，显著降低计算第一周期元素和过渡金属所需的平面波截断能。
 related_concepts: [projector-augmented-wave, plane-wave-basis, density-functional-theory]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # Ultrasoft Pseudopotential / 超软赝势 (US-PP / Vanderbilt Pseudopotentials)
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 超软赝势（US-PP）是由 D. Vanderbilt 提出的一种革命性赝势技术。它极大地降低了计算含 3d 过渡金属或氧、氮等元素的体系时所需的计算资源，是 90 年代第一性原理计算普及的关键功臣。
 

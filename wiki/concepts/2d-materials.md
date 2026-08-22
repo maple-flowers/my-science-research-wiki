@@ -1,4 +1,41 @@
+---
+tags: [concept]
+title: '2d-materials'
+type: concept
+status: developing
+papers: ['Barnett2006coexistence', 'CastroNeto2001charge', 'Chen2019superconductivity', 'FerroelectricityMultiferroicityAtomic2023', 'Inosov2008fermi', 'Islam2025enhancement', 'Johannes2008fermi', 'Koley2020charge', 'Laverock2005fermi', 'Li2013bonding', 'Owji20212d', 'PChandra2011mechanoluminescence', 'Petkov2020hierarchy', 'RecentAdvancesGrowth2025', 'Tobeiha2025optical', 'aiFerroelectricityCoexistedPorbital2022', 'aminiAtomicscaleVisualizationMultiferroicity2024', 'bhowalPolarMetalsPrinciples2023b', 'caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025', 'chen3dLevelSymmetry2025', 'chenFerromagneticNonmagnetic1T2022', 'chenHafniumBasedFerroelectricPostMoore2026', 'chenStrongSlidingFerroelectricity2024', 'chowdhuryReviewTheoreticalComputational', 'cossuStackingChargedensityWaves2024', 'cuiIntercorrelatedInplaneOutofplane2018a', 'dingPredictionIntrinsicTwodimensional2017a', 'duUltrasensitiveOptoelectronicBiosensor2025', 'feiFerroelectricSwitchingTwodimensional2018a', 'fengFerroelectricityMultiferroicityTwodimensional2020', 'gaoGiantChiralMagnetoelectric2024a', 'gaoStrainEngineeringFerroelectric2024', 'gorkovStrongElectronlatticeCoupling2012', 'guanRecentProgressTwoDimensional2020', 'guoAdvancesTwodimensionalFerroelectric2025', 'hallEnvironmentalControlCharge', 'hanTunableSlidingFerroelectricity2025', 'heSwitchingTwodimensionalSliding2025', 'heUltrafastSwitchingDynamics2024', 'houStrainbasedRoomtemperatureNonvolatile2019', 'huProgressProspectsLowdimensional2019', 'huangPolarPhaseDomain2019', 'huangTwodimensionalIn2Se3Rising2022', 'kaurRecentAdvancesTheoretical2025a', 'kawakamiChargedensityWaveAssociated2023', 'khazaeiNovelElectronicMagnetic2013', 'kimObservationPhaseTransition1997', 'krishnamurthiSpinChargeDensity2020', 'laiTwodimensionalFerromagnetismDriven2019', 'lezoualchStudyChargeDensity', 'liFerroelasticityDomainPhysics2016', 'liMonolayerPuckeredPentagonal2022', 'liPhaseTransitions2D2021', 'liuSpintronicsTwoDimensionalMaterials2020b', 'lvUnconventionalHystereticTransition2022', 'majumdarInterplayChargeDensity2020', 'martinThinfilmFerroelectricMaterials2016', 'miaoMagneticFerroelectricMetal2024', 'mostovoyMultiferroicsDifferentRoutes2024', 'naguib25thAnniversaryArticle2013a', 'nakataRobustChargedensityWave2021', 'neumayerCompetingPolarPhases2025', 'nicholsonUniaxialStraininducedPhase2021', 'niuDirectVisualizationLargeScale2021', 'pedramraziManipulatingTopologicalDomain2019', 'pengStrainEngineering2D2020', 'sattarFunctionalizedDoubleTransition2025', 'sharmaRoomtemperatureFerroelectricSemimetal2019', 'shenEmergenceMultipleFerroelectric2025', 'shuTwoDimensionalBlackArsenic2020', 'songEvidenceSinglelayerVan2022', 'sunSlidingFerroelectricityTwodimensional2025', 'tahirFerroelectricityNonvolatileMemristor2025', 'tangCombiningIntrinsicSlidinginduced2025', 'tangMultiferroicityTwodimensionalVan2025', 'tianRoomtemperatureTwodimensionalMultiferroic2026', 'vahidmohammadiWorldTwodimensionalCarbides2021', 'wangFormationMechanismTwin2019', 'wangScreeningEnabledChemiresistiveMoisture2025', 'wangTunableD0Topological2025b', 'wangTwodimensionalFerroelectricMetal2025', 'wongEvidenceMetallic1T', 'wuCoexistenceFerroelectricityAntiferroelectricity2024', 'wuElectrostaticGatingIntercalation2022', 'wuNonvolatileSwitchableHalfmetallicity2024', 'wuSlidingFerroelectricity2D2021a', 'xiangTwodimensionalRoomTemperature2020', 'xuTunableFerroelectricTopological2022', 'xuTwodimensionalFerroelasticityVan2021', 'xunCoexistingMagnetismFerroelectric2024', 'yanDecipheringStabilityTwodimensional2025', 'yanagizawaSwitchingChargedensityWave2023', 'yangRipplingFerroicPhase2021', 'yangStrainEngineeringTwodimensional2021', 'yuFerroelectricControlMagnetism2026', 'zahraCriticalAnalysisFerroelectric2025', 'zhangEmergingFrontiersTwodimensional2025', 'zhangNonvolatileControlTopological2025', 'zhaoOpticalFingerprintsTwodimensional2024', 'zhaoRealization2DMultiferroic2024', 'zhengAnisotropicSuperconductivityTwodimensional2025', 'zhongHighthroughputExfoliationMultiferroic2025']
+updated: 2026-08-18
+---
+
 # 2d-materials
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
+
+二维材料（two-dimensional materials, 2D materials）是指厚度仅为一至数个原子层、横向尺寸远大于纵向尺寸的层状晶体材料。以石墨烯为起点，二维材料家族已扩展到过渡金属硫族化合物（TMD）、MXene、六方氮化硼（h-BN）、黑磷、In₂Se₃ 及各种铁电/磁性/多铁单层，成为凝聚态物理与器件科学的研究热点。由于量子限域与减弱的介电屏蔽，二维体系常展现出与块体截然不同的电子、铁电、磁性与多铁行为。
+
+## 👵 太奶导读
+
+太奶啊，二维材料就是"薄到只剩一两层原子"的特殊材料，像一张张原子厚度的"纸"。普通的纸摞起来是块石头，而这层"纸"自己就有奇妙本事：有的能导电、有的能存储信息（铁电）、有的带磁性。因为太薄，科学家还发现新玩法——上下两层轻轻一滑就能改变电学性质（滑动铁电）。这些"原子纸"是未来小到不能再小的电子元件的候选材料。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **家族与结构**：从石墨烯（单层碳）到 TMD（MX₂）、MXene（碳化物/氮化物）、h-BN、III₂-VI₃（如 In₂Se₃）、黑磷等，均源于层状块体的逐层剥离或薄膜生长；范德华层内强共价、层间弱结合是其结构共性。
+- **量子限域效应**：厚度降至原子级后，能带结构、介电屏蔽、电子-声子耦合显著改变，导致块体不存在的现象（如单层铁电、单层磁性、CDW 增强）。
+- **铁电与多铁**：原子薄铁电（In₂Se₃、CuInP₂S₆）、滑动铁电（h-BN 双层、MoS₂ 双层）、二维多铁与磁电耦合是库内大量论文的主题，详见相关论文列表。
+- **电荷密度波（CDW）与超导**：TMD（NbSe₂、TaS₂、TiSe₂）中 CDW、超导与费米面嵌套密切相关，是二维强关联物理的典型舞台。
+- **调控手段**：应变工程、静电掺杂/插层、堆垛工程与界面耦合是调控二维物性的三大主要途径。
+
+## 🔗 关联概念与实体 (Related Concepts & Entities)
+
+- [[../concepts/charge-density-wave|电荷密度波]]：TMD 二维体系中的典型电子有序态。
+- [[../concepts/sliding-ferroelectricity|滑动铁电]]：层间相对滑动诱发的二维铁电机制。
+- [[../concepts/ferroelectricity|铁电性]]：二维铁电材料是库内核心议题。
+- [[../entities/graphene|石墨烯]]：二维材料家族的奠基成员。
+- [[../entities/MXenes|MXene]]：新兴的二维过渡金属碳化物/氮化物家族。
+- [[../entities/h-BN|h-BN]]：二维绝缘/介电与滑动铁电平台。
 
 ## 📚 相关论文 (Related Papers)
 

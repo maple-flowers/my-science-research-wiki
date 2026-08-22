@@ -1,0 +1,189 @@
+{
+ "MoSe2": {
+  "FerroelectricityMultiferroicityAtomic2023": {
+   "title": "\"Ferroelectricity and multiferroicity down to the atomic thickness\"",
+   "authors": "[Anonymous Editorial]",
+   "year": "2023",
+   "journal": "\"Nature Nanotechnology\"",
+   "doi": "\"10.1038/s41565-023-01494-0\""
+  },
+  "Li2013bonding": {
+   "title": "\"Bonding Charge Density and Ultimate Strength of Monolayer Transition Metal Dichalcogenides\"",
+   "authors": "[Junwen Li, Nikhil V. Medhekar, Vivek B. Shenoy]",
+   "year": "2013",
+   "journal": "\"The Journal of Physical Chemistry C\"",
+   "doi": "\"10.1021/jp403986v\""
+  },
+  "Owji20212d": {
+   "title": "\"2D materials coated on etched optical fibers as humidity sensor\"",
+   "authors": "[Erfan Owji, Hossein Mokhtari, Fatemeh Ostovari, Behnam Darazereshki, Nazanin Shakiba]",
+   "year": "2021",
+   "journal": "\"Scientific Reports\"",
+   "doi": "\"10.1038/s41598-020-79563-w\""
+  },
+  "krishnamurthiSpinChargeDensity2020": {
+   "title": "\"Spin/charge density waves at the boundaries of transition metal dichalcogenides\"",
+   "authors": "[Sridevi Krishnamurthi, Geert Brocks]",
+   "year": "2020",
+   "journal": "\"Physical Review B\"",
+   "doi": "\"10.1103/PhysRevB.102.161106\""
+  },
+  "tangCombiningIntrinsicSlidinginduced2025": {
+   "title": "\"Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectrics\"",
+   "authors": "[Chuhan Tang, Zhiqiang Tian, Tao Ouyang, Anlian Pan, Mingxing Chen]",
+   "year": "2025",
+   "journal": "\"Physical Review B\"",
+   "doi": "\"10.1103/PhysRevB.111.L081407\""
+  },
+  "wangTunableD0Topological2025b": {
+   "title": "\"Tunable d0 topological magnetic states in multiferroic monolayer In2NO2\"",
+   "authors": "[Fei Wang, Li Deng, Yanzhao Wu, Xiang Yin, Junwei Tong, Xianmin Zhang]",
+   "year": "2025",
+   "journal": "\"Applied Physics Letters\"",
+   "doi": "\"10.1063/5.0282076\""
+  }
+ },
+ "1T-TaS2": {
+  "Chen2019superconductivity": {
+   "title": "\"Discommensuration-driven superconductivity in the charge density wave phases of transition-metal dichalcogenides\"",
+   "authors": "[Chuan Chen, Lei Su, A. H. Castro Neto, Vitor M. Pereira]",
+   "year": "2019",
+   "journal": "\"Physical Review B\"",
+   "doi": "\"10.1103/PhysRevB.99.121108\""
+  },
+  "cossuStackingChargedensityWaves2024": {
+   "title": "\"Stacking of charge-density waves in 2H-NbSe₂ bilayers\"",
+   "authors": "[F. Cossu, D. Nafday, K. Palotás, M. Biderang, H.-S. Kim, A. Akbari, I. Di Marco]",
+   "year": "2024",
+   "journal": "\"Physical Review Research\"",
+   "doi": "\"10.1103/PhysRevResearch.6.043111\""
+  },
+  "kimObservationPhaseTransition1997": {
+   "title": "\"Observation of a phase transition from the T phase to the H phase induced by a STM tip in 1T-TaS₂\"",
+   "authors": "[Ju-Jin Kim, Chan Park, W. Yamaguchi, O. Shiino, K. Kitazawa, T. Hasegawa]",
+   "year": "1997",
+   "journal": "\"Physical Review B\"",
+   "doi": "\"10.1103/PhysRevB.56.R15573\""
+  },
+  "nakataRobustChargedensityWave2021": {
+   "title": "\"Robust charge-density wave strengthened by electron correlations in monolayer 1T-TaSe2 and 1T-NbSe2\"",
+   "authors": "[Yuki Nakata, Katsuaki Sugawara, Ashish Chainani, Hirofumi Oka, Changhua Bao, Shaohua Zhou, Pei-Yu Chuang, Cheng-Maw Cheng, Tappei Kawakami, Yasuaki Saruta, Tomoteru Fukumura, Shuyun Zhou, Takashi Takahashi, Takafumi Sato]",
+   "year": "2021",
+   "journal": "\"Nature Communications\"",
+   "doi": "\"10.1038/s41467-021-26105-1\""
+  }
+ },
+ "2H-TaSe2": {
+  "Barnett2006coexistence": {
+   "title": "Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides",
+   "authors": "- Barnett Ryan L.",
+   "year": "2006",
+   "journal": "Physical Review Letters",
+   "doi": "10.1103/PhysRevLett.96.026406"
+  },
+  "Chen2019superconductivity": {
+   "title": "\"Discommensuration-driven superconductivity in the charge density wave phases of transition-metal dichalcogenides\"",
+   "authors": "[Chuan Chen, Lei Su, A. H. Castro Neto, Vitor M. Pereira]",
+   "year": "2019",
+   "journal": "\"Physical Review B\"",
+   "doi": "\"10.1103/PhysRevB.99.121108\""
+  },
+  "gorkovStrongElectronlatticeCoupling2012": {
+   "title": "\"Strong electron-lattice coupling as the mechanism behind charge density wave transformations in transition-metal dichalcogenides\"",
+   "authors": "[Lev P. Gor'kov]",
+   "year": "2012",
+   "journal": "\"Physical Review B\"",
+   "doi": "\"10.1103/PhysRevB.85.165142\""
+  },
+  "kimObservationPhaseTransition1997": {
+   "title": "\"Observation of a phase transition from the T phase to the H phase induced by a STM tip in 1T-TaS₂\"",
+   "authors": "[Ju-Jin Kim, Chan Park, W. Yamaguchi, O. Shiino, K. Kitazawa, T. Hasegawa]",
+   "year": "1997",
+   "journal": "\"Physical Review B\"",
+   "doi": "\"10.1103/PhysRevB.56.R15573\""
+  }
+ },
+ "VTe2": {
+  "chenFerromagneticNonmagnetic1T2022": {
+   "title": "\"Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition\"",
+   "authors": "[Kaiyun Chen, Junkai Deng, Dongxiao Kan, Yuan Yan, Qian Shi, Wangtu Huo, et al.]",
+   "year": "2022",
+   "journal": "\"Physical Review B\"",
+   "doi": "\"10.1103/PhysRevB.105.024414\""
+  },
+  "kawakamiChargedensityWaveAssociated2023": {
+   "title": "\"Charge-density wave associated with higher-order Fermi-surface nesting in monolayer VS2\"",
+   "authors": "[Tappei Kawakami, Katsuaki Sugawara, Hirofumi Oka, Kosuke Nakayama, Ken Yaegashi, Seigo Souma, Takashi Takahashi, Tomoteru Fukumura, Takafumi Sato]",
+   "year": "2023",
+   "journal": "\"npj 2D Materials and Applications\"",
+   "doi": "\"10.1038/s41699-023-00395-z\""
+  },
+  "lezoualchStudyChargeDensity": {
+   "title": "\"Study of charge density waves in transition metal dichalcogenides\"",
+   "authors": "[Mahé Lezoualc'H]",
+   "year": "2025",
+   "journal": "\"Doctoral thesis, Université Paris-Saclay (NNT 2025UPASP016), defended 2025-03-14\"",
+   "doi": "\"\""
+  },
+  "wongEvidenceMetallic1T": {
+   "title": "\"Metallic 1T Phase, 3d1 Electronic Configuration and Charge Density Wave Order in Molecular Beam Epitaxy Grown Monolayer Vanadium Ditelluride\"",
+   "authors": "[Ping Kwan Johnny Wong, Wen Zhang, Jun Zhou, Fabio Bussolotti, Xinmao Yin, Lei Zhang, et al.]",
+   "year": "2019",
+   "journal": "\"ACS Nano\"",
+   "doi": "\"10.1021/acsnano.9b05349\""
+  }
+ },
+ "ZrI2": {
+  "chenStrongSlidingFerroelectricity2024": {
+   "title": "\"Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI₂ Layers\"",
+   "authors": "[陈新峰 Xinfeng Chen, 丁新凯 Xinkai Ding, 缑高阳 Gaoyang Gou, 曾晓成 Xiao Cheng Zeng]",
+   "year": "2024",
+   "journal": "\"Nano Letters\"",
+   "doi": "\"10.1021/acs.nanolett.3c04869\""
+  },
+  "kaurRecentAdvancesTheoretical2025a": {
+   "title": "\"Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials\"",
+   "authors": "[Arneet Kaur, Abir De Sarkar]",
+   "year": "2025",
+   "journal": "\"Journal of Physics: Condensed Matter\"",
+   "doi": "\"10.1088/1361-648X/addf05\""
+  },
+  "wuSlidingFerroelectricity2D2021a": {
+   "title": "\"Sliding ferroelectricity in 2D van der Waals materials: Related physics and future opportunities\"",
+   "authors": "[Menghao Wu, Ju Li]",
+   "year": "2021",
+   "journal": "\"Proceedings of the National Academy of Sciences\"",
+   "doi": "\"10.1073/pnas.2115703118\""
+  },
+  "zhangEmergingFrontiersTwodimensional2025": {
+   "title": "\"Emerging frontiers in two-dimensional sliding ferroelectrics\"",
+   "authors": "[Qing Zhang, Aiqing Fan, Yongshuai Wang, Fan Wu, Lin Li, Hong Meng, Dechao Geng]",
+   "year": "2025",
+   "journal": "\"npj 2D Materials and Applications\"",
+   "doi": "\"10.1038/s41699-025-00600-1\""
+  }
+ },
+ "NbS2": {
+  "CastroNeto2001charge": {
+   "title": "\"Charge Density Wave, Superconductivity, and Anomalous Metallic Behavior in 2D Transition Metal Dichalcogenides\"",
+   "authors": "[A. H. Castro Neto]",
+   "year": "2001",
+   "journal": "\"Physical Review Letters\"",
+   "doi": "\"10.1103/PhysRevLett.86.4382\""
+  },
+  "Islam2025enhancement": {
+   "title": "\"Pressure-induced enhancement of superfluid density in transition metal dichalcogenides with and without charge density wave\"",
+   "authors": "[S. S. Islam, V. Sazgari, C. Witteveen, J. N. Graham, O. Gerguri, P. Král, M. Bartkowiak, H. Luetkens]",
+   "year": "2025",
+   "journal": "\"Physical Review Research\"",
+   "doi": "\"10.1103/PhysRevResearch.7.013324\""
+  },
+  "majumdarInterplayChargeDensity2020": {
+   "title": "\"Interplay of charge density wave and multiband superconductivity in layered quasi-two-dimensional materials: The case of 2H-NbS₂ and 2H-NbSe₂\"",
+   "authors": "[Arnab Majumdar, Derrick VanGennep, Jérémy Brisbois, Dmitriy Chareev, Andrey V. Sadakov, A. S. Usoltsev, Masaki Mito, Alejandro V. Silhanek]",
+   "year": "2020",
+   "journal": "\"Physical Review Materials\"",
+   "doi": "\"10.1103/PhysRevMaterials.4.084005\""
+  }
+ }
+}

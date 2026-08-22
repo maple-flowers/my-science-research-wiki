@@ -1,6 +1,64 @@
+---
+tags: [concept, doping, band-structure-engineering, phase-transition, half-metallicity, charge-density-wave]
+title: charge-doping
+type: concept
+status: developing
+year: 2025
+papers: [chen3dLevelSymmetry2025, chenFerromagneticNonmagnetic1T2022]
+updated: 2026-08-21
+---
+
 # charge-doping
+
+**电荷掺杂（charge doping）** 指向体系注入电子或空穴以改变费米能级位置与能带填充。在本库中它不是作为「提高载流子浓度」这种量变手段出现，而是作为**相变开关**——用极小的注入量（约 0.02 e/原子量级）触发半导体↔半金属、非磁↔铁磁的定性转变。
+
+## 👵 太奶导读
+
+乖孙，电荷掺杂就是往材料里**加电子或者抽电子**。
+
+听起来平淡，但它厉害的地方在于：**加一点点就能让材料换一副面孔**。
+
+本库里有两个例子，都很干净：
+
+**例一：从半导体变半金属。** Mn₂NOF 原本是半导体——导带空着、价带满着，中间隔着一条能隙。往里注入电子（每个原子 0.02 个，非常少），这些电子填进原本空着的导带底部，把它顶过费米能级，材料就导电了。**反过来抽电子（注入空穴）也行**：空穴把原本填满的价带顶部掏空，同样让它跨过费米能级。一个往上填、一个往下掏，**两条路都能到半金属**。
+
+**例二：把相变的门槛拆低。** 另一种材料在非磁相和铁磁相之间要翻越一道 87.4 meV 的能垒——太高，室温下自己翻不过去（室温热能只有约 26 meV）。掺上电荷以后，这道墙**迅速变矮**，室温下就能自发翻过去了。而且掺杂路径画出来是个**滞回环**，这是可逆相变的典型指纹。
+
+**注意这两个例子的性质不同**：例一是改填充，例二是改能垒。前者直接动电子结构，后者动的是两个相之间的相对稳定性。
+
+记一句话：**电荷掺杂 = 注电子或注空穴改变能带填充；小到 0.02 e/原子就能触发定性相变，既能改填充也能拆掉相变能垒。**
+
+## 🧩 两条作用路径
+
+### 路径一：改变能带填充 → 半导体↔半金属
+
+- **电子掺杂**（0.02 e⁻/原子）：注入电子填充原本空的 MnO-`e′` 导带底部，使其穿过费米能级 → 半金属。
+- **空穴掺杂**（0.02 h⁺/原子）：注入空穴清空原本满的 MnF-`e′` 价带顶部，使其穿过费米能级 → 半金属。
+- **要点**：两种极性**都**导向半金属，但作用的轨道不同（一侧 MnO、一侧 MnF）。这说明该体系的可调性来自**两侧金属层 Mn 的 3d 能级分离**这一结构特征，而非单纯的载流子多少。
+- **同类手段**：单轴应变可实现同样的态切换，二者在该体系中并列。
+
+### 路径二：降低相变能垒 → 非磁↔铁磁
+
+| 掺杂状态 | NM↔FM 转变能垒 | 与室温热激活能（约 26 meV/原子）比较 | 性质 |
+|---|---|---|---|
+| 无掺杂 | **约 87.4 meV/单元** | 远高于，室温下无法自发转变 | 计算预测 |
+| 电子或空穴掺杂（浓度渐增） | 迅速降低 | 可降至室温可自发发生 | 计算预测 |
+
+- **可逆性证据**：晶格常数 a、b 随电子/空穴掺杂浓度变化形成明显的**滞后回线**，是可逆相变的典型特征。
+
+⚠️ **边界**：两条路径的全部数值均为第一性原理计算预测，本库无对应实验验证。「0.02 e/原子」与「87.4 meV/单元」分属不同体系，不可互换引用；能垒与热激活能的单位基准也不同（每单元 vs 每原子），比较时需注意。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/chen3dLevelSymmetry2025]] — 3d-level symmetry between metal layers governing the electronic configuration of Mn2N MXenes and enabling modulation between half-metallicity and semiconductivity
-- [[../papers/chenFerromagneticNonmagnetic1T2022]] — Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition
+- [[../papers/chen3dLevelSymmetry2025]]：提供路径一的机制与数值。该文的核心结论是 Mn₂N 基 MXene 的电子性质由**两侧金属层 Mn 原子的 3d 能级分离程度**决定，而非传统认为的局域配位环境；在此机制基础上演示了用电荷掺杂（电子 0.02 e⁻/原子填充 MnO-`e′` 导带底、空穴 0.02 h⁺/原子清空 MnF-`e′` 价带顶）与单轴应变两种手段，在半导体与半金属态之间动态切换。它对本页的贡献在于说明**掺杂之所以有效，前提是体系本身存在可被利用的能级不对称**。
+- [[../papers/chenFerromagneticNonmagnetic1T2022]]：提供路径二的机制与数值。该文研究含磁性过渡金属（V、Cr、Mn）的 1T′ TMD 中铁磁 CDW 态的形成机制，并给出本页最有用的一组数据：无掺杂时 NM↔FM 转变能垒约 87.4 meV/单元，远高于室温热激活能（约 26 meV/原子），而随电子或空穴掺杂浓度增加该能垒**迅速降低**至室温可自发转变；晶格常数随掺杂形成的**滞后回线**则为相变的可逆性提供了判据。
+
+## 🔗 关联概念与实体 (Related)
+
+- [[../concepts/half-metallicity|half-metallicity]]
+- [[../concepts/charge-density-wave|charge-density-wave]]
+- [[../concepts/strain-engineering|strain-engineering]]
+- [[../concepts/chemical-pressure|chemical-pressure]]
+- [[../concepts/band-gap|band-gap]]
+- [[../concepts/gate-tunability|gate-tunability]]
+- [[../concepts/structural-distortion-index|structural-distortion-index]]

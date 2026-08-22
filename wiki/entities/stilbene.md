@@ -1,8 +1,72 @@
+---
+tags: [entity, chromophore, two-photon-absorption, solvatochromism, donor-acceptor, fluorescent-probe, tict-mechanism]
+title: stilbene
+type: entity
+status: developing
+year: 2019
+papers: [Huang2019solvatochromic, H2017fluorescence, Huang2023two, WRZYSZCZYNSKI2010initiators]
+updated: 2026-08-21
+---
+
 # stilbene
+
+**二苯乙烯（stilbene）** 是两个苯环由一个 C=C 双键相连的分子骨架。它本身的[[../concepts/two-photon-absorption|双光子吸收]]截面很小，但作为**共轭桥**极易改造——在两端接上给体（D）或受体（A），截面可提升数十倍到千倍。本库中它是双光子荧光探针与双光子聚合引发剂的**共同母体**。
+
+## 👵 太奶导读
+
+乖孙，二苯乙烯这东西你可以想成一副**扁担**：中间一根扁担杠（C=C 双键连着的共轭通路），两头可以挂东西。
+
+**光扁担本身没什么用**——纯的 E-二苯乙烯双光子吸收能力很弱。
+
+**但两头挂上东西就不一样了。** 挂「给电子的基团」（比如氨基）或者「拉电子的基团」（比如氰基），电子就能沿着扁担从一头往另一头跑。这条通路越顺、两头的推拉越强，分子对双光子的响应就越猛。本库里有个例子：两头都挂上二正丁氨基之后，双光子吸收截面变成母体的 **20 倍**。
+
+**更妙的是它还会「看溶剂的脸色」。** 电子跑到一头之后，分子变得一头正一头负。如果周围溶剂是极性的（比如 DMSO），溶剂分子会围过来把这个状态「按住」稳定下来，发光就往红移；如果溶剂不极性（比如环己烷），就没人来稳定它。所以**同一个分子在不同溶剂里发不同颜色的光**——这就成了探针：看它发什么颜色，就知道它待的地方是什么环境。
+
+代价是：极性溶剂里虽然颜色红移大，但**亮度会掉得很厉害**——双光子截面能从 5560 掉到 130，量子产率从 0.8 掉到 0.07。
+
+记一句话：**二苯乙烯是可改造的共轭扁担；两头挂 D/A 基团把双光子截面拉上去，代价是亮度强烈依赖溶剂极性。**
+
+## 🧩 作为骨架的两条改造路线
+
+### 路线一：双氰基取代 → 环境敏感探针
+
+在二苯乙烯骨架上引入**氰基受体**并配以给体，形成强 D–A 结构。其光物理特征为：
+
+- **三重荧光**：发射来自 LE（局域激发）态、[[../concepts/tict-mechanism|TICT]] 态与激基复合物（exciplex）三个通道。
+- **溶剂化变色**：发射峰随溶剂极性大幅红移，发射能量与溶剂 E_T(30) 参数呈良好线性关系。
+- **代价机制**：极性溶剂中激发态构型由**平面（强发光）扭转为扭曲的电荷转移构型**，双光子截面与量子产率同步崩塌。这是「变色范围」与「亮度」之间的内在权衡。
+
+### 路线二：对称氨基给体 → 双光子聚合引发剂
+
+以 **2-4,4′-双(二正丁氨基)-E-二苯乙烯** 为例：对称的氨基给体与共轭体系协同，δ 达 **210 GM**，为母体 E-二苯乙烯的 **20 倍**，可用作双光子聚合引发剂。
+
+⚠️ 该文自陈：即便是研究最充分的二苯乙烯衍生物，其**引发机理仍未完全理解**——分子内电荷转移与激基复合物形成两种可能尚未分辨。
+
+### 双光子吸收截面汇总
+
+| 分子 | 溶剂 | δ | 发射峰变化 | 量子产率 | 性质 |
+|---|---|---|---|---|---|
+| P1（双氰基二苯乙烯，Huang2019） | 环己烷 | **6670 GM** | 451 → 603 nm（跨溶剂，Δ196 nm） | 0.805 → 0.066 | 实验 |
+| P1 / 1a（双氰基二苯乙烯） | 环己烷 | **5560 GM** | 445 → 641 nm | — | 实验 |
+| 同上 | DMF | **130 GM** | — | — | 实验 |
+| 双(二正丁氨基)-E-二苯乙烯 | 未注明 | **210 GM** | — | — | 实验 |
+| **母体 E-二苯乙烯** | 未注明 | 约为上者的 1/20 | — | — | 实验 |
+
+⚠️ **一处疑似重复条目**：`H2017fluorescence` 与 `Huang2023two` 报告的是**同一组数据**——同为双氰基取代二苯乙烯，环己烷 5560 GM / DMF 130 GM，发射 445 → 641 nm，激发波长 790 nm，探针分别称 P1 与 1a。二者极可能是同一工作的不同版本或 Zotero 重复录入。本页暂并列保留并如实标注，未合并；建议核对原始 PDF 后处理。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/H2017fluorescence]] — Dicyanostilbene-based Two-photon Thermo-solvatochromic Fluorescence Probes with Two-photon Triple Fluorescence
-- [[../papers/Huang2019solvatochromic]] — Stilbene-Based Two-Photon Thermo-Solvatochromic Fluorescence Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence: Detection of Solvent Polarities, Viscosities, and Temperature
-- [[../papers/Huang2023two]] — Two Dicyanostilbene-Based Two-Photon Fluorescence Environmentally Sensitive Probes with Large Two-Photon Absorption Cross Sections and Two-Photon Triple Fluorescence
-- [[../papers/WRZYSZCZYNSKI2010initiators]] — Two-photon initiators of polymerization
+- [[../papers/Huang2019solvatochromic]]：给出本页最大的双光子截面值（非极性环己烷中 **6670 GM**）与最宽的溶剂化变色范围（**196 nm**，发射 451 → 603 nm），并同时记录了随极性升高截面下降、量子产率由 0.805 崩至 0.066 这一代价——是本页「变色范围与亮度不可兼得」这一权衡的主要证据。
+- [[../papers/H2017fluorescence]]：提供 LE / TICT / 激基复合物**三重荧光**的机制归属，以及 δ 从环己烷 5560 GM 到 DMF 130 GM 的剧烈溶剂依赖，并把这一依赖明确归因于**激发态构型由平面扭转为电荷转移构型**——本页路线一的机制表述主要取自此文。
+- [[../papers/Huang2023two]]：提出「双氰基邻、间位取代」这一分子设计策略，并指出其 790 nm 激发波长落在生物成像窗口内。⚠️ 其定量数据与 `H2017fluorescence` 完全一致，见上文重复条目说明。
+- [[../papers/WRZYSZCZYNSKI2010initiators]]：把二苯乙烯骨架放在**双光子聚合引发剂**这一完全不同的应用语境下考察，给出母体 E-二苯乙烯与双(二正丁氨基)衍生物之间 **20 倍**的截面差（后者 210 GM），从而量化了「对称给体 + 共轭协同」的增益；同时诚实指出该类引发剂的机理仍未定论。
+
+## 🔗 关联概念与实体 (Related)
+
+- [[../concepts/two-photon-absorption|two-photon-absorption]]
+- [[../concepts/tict-mechanism|tict-mechanism]]
+- [[../concepts/local-excited-state|local-excited-state]]
+- [[../concepts/solvatochromism|solvatochromism]]
+- [[../concepts/charge-transfer-exciplex|charge-transfer-exciplex]]
+- [[../concepts/two-photon-polymerization|two-photon-polymerization]]
+- [[../concepts/fluorescence-quantum-yield|fluorescence-quantum-yield]]

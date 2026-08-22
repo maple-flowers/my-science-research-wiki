@@ -12,7 +12,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/gongAbsenceCriticalThickness2023]]
 projects: [project-2, project-5]
-concepts: [density-functional-theory, polarization-switching, strain-engineering, topological-defects, kittels-law, hyperbolic-scaling, polar-vortex, depolarization-field, polar-skyrmion, critical-thickness-ferroelectric, phase-field-modeling, topological-charge]
+concepts: [density-functional-theory, polarization-switching, strain-engineering, topological-defects, kittel-law, hyperbolic-scaling, polar-vortex, depolarization-field, polar-skyrmion, critical-thickness-ferroelectric, phase-field-modeling, topological-charge]
 entities: [VASP, SrTiO3, PbTiO3, LSMO]
 methods: [afm-pfm, berry-phase, dft, phase-field, stm-mbe, tem, xrd]
 materials:

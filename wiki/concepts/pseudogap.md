@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, strongly-correlated-systems]
 mechanism: 在没有发生宏观长程相变的情况下，费米能级附近的电子态密度出现部分消失或降低的现象
 related_concepts: [charge-density-wave, van-hove-singularity, peierls-instability]
-papers: [Inosov2008fermi, Johannes2008fermi, CastroNeto2001charge, cossuStackingChargedensityWaves2024, kawakamiChargedensityWaveAssociated2023, kresseInitiomolecularDynamicsLiquid1993, kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994]
+papers: [Inosov2008fermi, CastroNeto2001charge, cossuStackingChargedensityWaves2024, kawakamiChargedensityWaveAssociated2023, kresseInitiomolecularDynamicsLiquid1993, kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994]
 updated: 2026-08
 ---
 
@@ -47,12 +47,17 @@ updated: 2026-08
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/Inosov2008fermi]]：讨论了 TMD 体系中费米面特定区域的态密度抑制。
-- [[../papers/Johannes2008fermi]]：通过极化率计算解释了为何某些波矢处会优先出现电子不稳定性。
 - [[../papers/CastroNeto2001charge]]：综述了层状材料中赝能隙与超导、CDW 的共存关系。
 - [[../papers/cossuStackingChargedensityWaves2024]]：研究了 2H-NbSe₂ 双层中电荷密度波的堆叠。
 - [[../papers/kawakamiChargedensityWaveAssociated2023]]：在单层 VS₂ 中观测到与高阶费米面嵌套相关的电荷密度波。
 - [[../papers/kresseInitiomolecularDynamicsLiquid1993]]：液态金属的从头算分子动力学方法。
 - [[../papers/kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994]]：从头算分子动力学模拟锗的液态金属-非晶半导体转变。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `Johannes2008fermi`：原文笔记中无 pseudogap/赝能隙相关内容。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

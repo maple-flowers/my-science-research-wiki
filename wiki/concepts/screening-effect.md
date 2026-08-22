@@ -6,7 +6,7 @@ status: mature
 domain: [condensed-matter-physics, electrostatics]
 mechanism: 材料内部的自由电荷重新分布以削弱外部或内部其他电荷产生的静电场的现象
 related_concepts: [electrostatic-gating, gate-tunability, dielectric-response, schottky-barrier]
-papers: [wangScreeningEnabledChemiresistiveMoisture2025, liuSpintronicsTwoDimensionalMaterials2020b]
+papers: [wangScreeningEnabledChemiresistiveMoisture2025]
 updated: 2026-08
 ---
 
@@ -44,7 +44,12 @@ updated: 2026-08
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/wangScreeningEnabledChemiresistiveMoisture2025]]：研究了利用屏蔽效应增强湿度传感灵敏度的新机制。
-- [[../papers/liuSpintronicsTwoDimensionalMaterials2020b]]：讨论了石墨烯/衬底界面屏蔽对自旋弛豫和输运的影响。
+
+### ⚠️ 已撤回的引文
+
+以下条目原列于本节，经核对其 `raw/note` 原始笔记后确认无据，于 2026-08-21 撤回：
+
+- `liuSpintronicsTwoDimensionalMaterials2020b`：原文笔记中无 screening/屏蔽相关内容。
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 

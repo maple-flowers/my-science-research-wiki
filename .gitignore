@@ -24,3 +24,9 @@ tools/new_entries_*.json
 tools/new_figure_entries.json
 
 .claude/settings.local.json
+
+# 审计工具的全量 JSON 快照：纯 tool output，一条命令即可重算，
+# 单份 ~2 MB，不入库以免历史膨胀。其余 temp/ 内容（返工清单、
+# 备份、分析中间产物）一律提交。
+temp/**/*audit*.json
+temp/*audit*.json

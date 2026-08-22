@@ -11,8 +11,8 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/blochlProjectorAugmentedwaveMethod1994b]]
 projects: [project-2, project-5, project-7]
-concepts: [density-functional-theory, paw-method, pseudopotential, lapw, projector-functions, augmentation-region, compensation-charge-density, frozen-core-approximation, additive-augmentation, car-parrinello, norm-conservation, overlap-operator, pulay-force]
-entities: [VASP, LAPW, LMTO, Car-Parrinello, MnFO3, Fe2, Wannier90]
+concepts: [density-functional-theory, paw-method, pseudopotential, lapw, projector-functions, augmentation-region, compensation-charge-density, frozen-core-approximation, additive-augmentation, car-parrinello, norm-conservation, overlap-operator, pulay-force, LAPW, Car-Parrinello]
+entities: [VASP, LMTO, MnFO3, Fe2, Wannier90]
 methods: [dft, lda, paw, all-electron, pseudopotential, ultrasoft-pseudopotential, car-parrinello-md, plane-wave-basis, radial-grid]
 materials: [Mn, Fe, O, F, H, Li, Be, B, N, transition-metals]
 figures: [electronic-bands-band-structures, electronic-bands-cdw-transport, mathematical-models-computational, mathematical-models-simulations, vibrational-spectra]

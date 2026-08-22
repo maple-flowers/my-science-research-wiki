@@ -1,5 +1,40 @@
+---
+tags: [concept, 2D-materials, charge-density-wave]
+title: migdal-instability
+type: concept
+status: developing
+year: 2012
+papers: [gorkovStrongElectronlatticeCoupling2012]
+updated: 2026-08-18
+---
+
 # migdal-instability
+
+> [!warning] 本页内容待重写（太奶导读部分）
+> 本页「太奶导读」为自动生成的占位内容，描述的是某篇论文的研究对象而非本条目本身，待按真实概念重写。
+> 正文其余部分与贡献句已核，可参考。（标记于 2026-08-21）
+
+
+理论模型的核心是过渡金属二硫族化物单层中，单一能带的传导电子与过渡金属离子（如Ta、Nb）位移之间的强相互作用，特别关注这种相互作用在单个离子位置产生的局域效应。
+
+## 👵 太奶导读
+
+乖孙，这一条讲的是「理论模型的核心是过渡金属二硫族化物单层中，单一能带的传导电子与过渡金属离子（如Ta、Nb）位移之间的强相互作用，特别关注这种相互作用在单个离子位置产生的局域效应」。
+一句话记住它的发现：CDW转变并非源自费米面的不稳定性，而是分两步发生：1. 强电子-晶格耦合使单个离子形成双势阱，体系变为伊辛自旋系统。
+
+## 🧩 核心内容与机制 (Core Content)
+
+- **研究背景**：主流理论（费米面嵌套、鞍点机制）无法解释TMDC材料在CDW相变后仍保持金属性、且隧道谱观测到的能隙远大于相变温度对应的能量尺度等矛盾。亟需一种能够调和这些矛盾的新理论。
+- **核心问题**：作者意图挑战并超越传统的能带结构不稳定性理论，提出一个全新的、基于强电子-晶格耦合局域效应的物理机制，以解释TMDC中CDW转变的本质，并解决理论与实验之间长期存在的矛盾。
+- **主要结论**：CDW转变并非源自费米面的不稳定性，而是分两步发生：1. 强电子-晶格耦合使单个离子形成双势阱，体系变为伊辛自旋系统；2. 在低温下，这些局域自旋通过弱的位点间相互作用发生有序化。此时，电子能谱因序参量在远离费米能处打开部分能隙而保持金属性，隧道谱中观测到的大能隙对应的是局域双势阱的深度。
+- **领域贡献**：1. 提出了一个全新的、可解析处理的CDW形成机制，将关注点从全局能带结构转向局域耦合效应。2. 成功地将强耦合多体问题映射为经典伊辛模型，极大地简化了物理图像。3. 解决了困扰该领域多年的“金属性CDW”和“大能隙”悖论，提供了一个自洽的理论解释。
+- **研究意义**：该研究为理解TMDC中的CDW相变提供了一个颠覆性的理论框架，将问题从复杂的能带分析简化为直观的局域双势阱模型。它成功解释了金属-CD共存、大能隙起源等关键实验观测，为后续的理论和实验研究指明了新方向。
 
 ## 📚 相关论文 (Related Papers)
 
-- [[../papers/gorkovStrongElectronlatticeCoupling2012]] — Strong electron-lattice coupling as the mechanism behind charge density wave transformations in transition-metal dichalcogenides
+- [[../papers/gorkovStrongElectronlatticeCoupling2012]]：1. 提出了一个全新的、可解析处理的CDW形成机制，将关注点从全局能带结构转向局域耦合效应。
+
+## 🔗 关联概念与实体 (Related)
+
+- [[../concepts/charge-density-wave|charge-density-wave]]
+- [[../entities/TMDs|TMDs]]

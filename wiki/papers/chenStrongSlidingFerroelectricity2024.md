@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/chenStrongSlidingFerroelectricity2024]]
 projects: [project-5]
-concepts: [sliding-ferroelectricity, berry-phase, 2d-materials, spin-orbit-coupling, polarization-switching, depolarization-field, rashba-effect, slidetronics, interfacial-charge-rearrangement, spin-texture, soft-phonon-mode, multiferroicity, strain-engineering]
+concepts: [sliding-ferroelectricity, berry-phase, 2d-materials, spin-orbit-coupling, polarization-switching, depolarization-field, rashba-effect, slidetronics, interfacial-charge-rearrangement, spin-texture, phonon-soft-mode, multiferroicity, strain-engineering]
 entities: [VASP, HgI2, HgBr2, WTe2, MoTe2, In2Se3, SnTe, CrI3, ZrI2, Datta-Das-spin-FET]
 methods: [dft, dft-d3, berry-phase, neb, phonon-calculation, aimd, soc-band-calculation, screening-charge-integration]
 materials: [HgI2, HgBr2]

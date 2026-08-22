@@ -17,7 +17,7 @@ year_read: 2026
 original_note:: [[../../raw/note/2019optical]]
 projects: [project-6]
 concepts:
-  - evanescent-wave
+  - evanescent-field
   - optical-fiber-sensor
   - humidity-sensing
   - intensity-modulation

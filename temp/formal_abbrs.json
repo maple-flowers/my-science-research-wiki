@@ -1,0 +1,790 @@
+{
+ "absorption-spectrum": {
+  "dir": "concepts",
+  "title": "吸收光谱 / Absorption Spectrum",
+  "abbrs": []
+ },
+ "amplitudon-phason": {
+  "dir": "concepts",
+  "title": null,
+  "abbrs": []
+ },
+ "anomalous-hall-effect": {
+  "dir": "concepts",
+  "title": "反常霍尔效应 / Anomalous Hall Effect (AHE)",
+  "abbrs": [
+   [
+    "Anomalous Hall Effect",
+    "AHE"
+   ]
+  ]
+ },
+ "band-alignment": {
+  "dir": "concepts",
+  "title": "能带对齐 (Band Alignment)",
+  "abbrs": []
+ },
+ "band-offset": {
+  "dir": "concepts",
+  "title": "能带偏移 (Band Offset)",
+  "abbrs": []
+ },
+ "berry-curvature": {
+  "dir": "concepts",
+  "title": "贝里曲率 / Berry Curvature",
+  "abbrs": []
+ },
+ "broken-inversion-symmetry": {
+  "dir": "concepts",
+  "title": "破缺的空间反演对称性 / Broken Inversion Symmetry",
+  "abbrs": []
+ },
+ "bulk-boundary-correspondence": {
+  "dir": "concepts",
+  "title": "体-边界对应关系 / Bulk-Boundary Correspondence",
+  "abbrs": []
+ },
+ "charge-density-wave": {
+  "dir": "concepts",
+  "title": "电荷密度波 / Charge Density Wave (CDW)",
+  "abbrs": [
+   [
+    "Charge Density Wave",
+    "CDW"
+   ]
+  ]
+ },
+ "charge-sloshing": {
+  "dir": "concepts",
+  "title": "电荷震荡 / Charge Sloshing",
+  "abbrs": []
+ },
+ "chern-number": {
+  "dir": "concepts",
+  "title": "陈数 / Chern Number",
+  "abbrs": []
+ },
+ "chirality": {
+  "dir": "concepts",
+  "title": "手性 / Chirality",
+  "abbrs": [
+   [
+    "Moriya",
+    "IDM"
+   ]
+  ]
+ },
+ "coercive-field": {
+  "dir": "concepts",
+  "title": "矫顽场 / Coercive Field (Ec)",
+  "abbrs": []
+ },
+ "density-functional-theory": {
+  "dir": "concepts",
+  "title": "密度泛函理论 / Density Functional Theory (DFT)",
+  "abbrs": [
+   [
+    "Density Functional Theory",
+    "DFT"
+   ]
+  ]
+ },
+ "DFT-U": {
+  "dir": "concepts",
+  "title": "DFT+U / 密度泛函理论加 U",
+  "abbrs": []
+ },
+ "dirac-semimetal": {
+  "dir": "concepts",
+  "title": "狄拉克半金属 / Dirac Semimetal (DSM)",
+  "abbrs": [
+   [
+    "Dirac Semimetal",
+    "DSM"
+   ]
+  ]
+ },
+ "discommensuration": {
+  "dir": "concepts",
+  "title": "错位相子 / Discommensuration (DC)",
+  "abbrs": [
+   [
+    "Discommensuration",
+    "DC"
+   ]
+  ]
+ },
+ "easy-axis": {
+  "dir": "concepts",
+  "title": "易磁化轴 / Easy Axis",
+  "abbrs": []
+ },
+ "easy-plane": {
+  "dir": "concepts",
+  "title": "易磁化面 / Easy Plane",
+  "abbrs": []
+ },
+ "edge-state": {
+  "dir": "concepts",
+  "title": "边缘态 / Edge State",
+  "abbrs": []
+ },
+ "electromagnon": {
+  "dir": "concepts",
+  "title": "电磁振子 / Electromagnon",
+  "abbrs": []
+ },
+ "electrostatic-gating": {
+  "dir": "concepts",
+  "title": "静电栅控 (Electrostatic Gating)",
+  "abbrs": []
+ },
+ "exchange-bias": {
+  "dir": "concepts",
+  "title": "交换偏置 / Exchange Bias",
+  "abbrs": []
+ },
+ "exciplex": {
+  "dir": "concepts",
+  "title": "激基复合物 / Exciplex",
+  "abbrs": []
+ },
+ "faraday-effect": {
+  "dir": "concepts",
+  "title": "法拉第效应 / Faraday Effect",
+  "abbrs": []
+ },
+ "fermi-surface-nesting": {
+  "dir": "concepts",
+  "title": "费米面嵌套 / Fermi Surface Nesting",
+  "abbrs": [
+   [
+    "Fermi Surface Nesting",
+    "FSN"
+   ]
+  ]
+ },
+ "ferroelectric-domain": {
+  "dir": "concepts",
+  "title": "铁电畴 / Ferroelectric Domain",
+  "abbrs": []
+ },
+ "field-effect-mobility": {
+  "dir": "concepts",
+  "title": "场效应迁移率 (Field-Effect Mobility)",
+  "abbrs": []
+ },
+ "flexoelectric-effect": {
+  "dir": "concepts",
+  "title": "挠曲电效应 / Flexoelectric Effect",
+  "abbrs": []
+ },
+ "fluorescence-quantum-yield": {
+  "dir": "concepts",
+  "title": "荧光量子产率 / Fluorescence Quantum Yield",
+  "abbrs": []
+ },
+ "gate-tunability": {
+  "dir": "concepts",
+  "title": "栅极可调性 (Gate-Tunability)",
+  "abbrs": []
+ },
+ "giant-magnetoresistance": {
+  "dir": "concepts",
+  "title": "巨磁阻 (Giant Magnetoresistance)",
+  "abbrs": [
+   [
+    "Giant Magnetoresistance",
+    "GMR"
+   ]
+  ]
+ },
+ "high-order-topology": {
+  "dir": "concepts",
+  "title": "高阶拓扑 / Higher-order Topology",
+  "abbrs": []
+ },
+ "hinge-state": {
+  "dir": "concepts",
+  "title": "铰链态 / Hinge State",
+  "abbrs": []
+ },
+ "ict-mechanism": {
+  "dir": "concepts",
+  "title": "分子内电荷转移机制 / ICT Mechanism",
+  "abbrs": []
+ },
+ "in-memory-computing": {
+  "dir": "concepts",
+  "title": "存内计算 (In-Memory Computing)",
+  "abbrs": [
+   [
+    "In-Memory Computing",
+    "IMC"
+   ]
+  ]
+ },
+ "interlayer-coupling": {
+  "dir": "concepts",
+  "title": "层间耦合 / Interlayer Coupling",
+  "abbrs": []
+ },
+ "kerr-effect": {
+  "dir": "concepts",
+  "title": "克尔效应 / Kerr Effect",
+  "abbrs": []
+ },
+ "kohn-anomaly": {
+  "dir": "concepts",
+  "title": "Kohn 异常 / Kohn Anomaly",
+  "abbrs": []
+ },
+ "magnetic-anisotropy": {
+  "dir": "concepts",
+  "title": "磁各向异性 / Magnetic Anisotropy",
+  "abbrs": []
+ },
+ "magnetoelectric-coupling": {
+  "dir": "concepts",
+  "title": "磁电耦合 / Magnetoelectric Coupling",
+  "abbrs": []
+ },
+ "magnon-hall-effect": {
+  "dir": "concepts",
+  "title": "激磁子霍尔效应 / Magnon Hall Effect",
+  "abbrs": []
+ },
+ "majorana-fermion": {
+  "dir": "concepts",
+  "title": "马约拉纳费米子 / Majorana Fermion",
+  "abbrs": []
+ },
+ "memristor": {
+  "dir": "concepts",
+  "title": "忆阻器 (Memristor)",
+  "abbrs": []
+ },
+ "methfessel-paxton-smearing": {
+  "dir": "concepts",
+  "title": "Methfessel-Paxton Smearing / Methfessel-Paxton 展宽",
+  "abbrs": [
+   [
+    "Methfessel-Paxton",
+    "MP"
+   ]
+  ]
+ },
+ "monkhorst-pack-grid": {
+  "dir": "concepts",
+  "title": "Monkhorst-Pack Grid / Monkhorst-Pack 网格",
+  "abbrs": [
+   [
+    "Monkhorst-Pack",
+    "MP"
+   ]
+  ]
+ },
+ "mott-insulator": {
+  "dir": "concepts",
+  "title": "莫特绝缘体 / Mott Insulator",
+  "abbrs": []
+ },
+ "multiferroicity": {
+  "dir": "concepts",
+  "title": "多铁性 / Multiferroicity",
+  "abbrs": []
+ },
+ "neel-temperature": {
+  "dir": "concepts",
+  "title": "尼尔温度 / Néel Temperature",
+  "abbrs": []
+ },
+ "neuromorphic-computing": {
+  "dir": "concepts",
+  "title": "神经形态计算 (Neuromorphic Computing)",
+  "abbrs": []
+ },
+ "non-centrosymmetric": {
+  "dir": "concepts",
+  "title": "非中心对称 / Non-centrosymmetric",
+  "abbrs": []
+ },
+ "non-volatile-memory": {
+  "dir": "concepts",
+  "title": "非易失性存储器 (Non-Volatile Memory)",
+  "abbrs": [
+   [
+    "Non-Volatile Memory",
+    "NVM"
+   ]
+  ]
+ },
+ "optical-activity": {
+  "dir": "concepts",
+  "title": "旋光性与光学活性 / Optical Activity",
+  "abbrs": []
+ },
+ "optoelectronic-biosensor": {
+  "dir": "concepts",
+  "title": "光电生物传感器 (Optoelectronic Biosensor)",
+  "abbrs": []
+ },
+ "paw-method": {
+  "dir": "concepts",
+  "title": "投影增强波法 / Projector Augmented-Wave Method (PAW)",
+  "abbrs": [
+   [
+    "Projector Augmented-Wave Method",
+    "PAW"
+   ]
+  ]
+ },
+ "peierls-instability": {
+  "dir": "concepts",
+  "title": "派尔斯不稳定性 / Peierls Instability",
+  "abbrs": []
+ },
+ "periodic-lattice-distortion": {
+  "dir": "concepts",
+  "title": "周期性晶格畸变 / Periodic Lattice Distortion (PLD)",
+  "abbrs": [
+   [
+    "Periodic Lattice Distortion",
+    "PLD"
+   ]
+  ]
+ },
+ "photoluminescence": {
+  "dir": "concepts",
+  "title": "光致发光 / Photoluminescence (PL)",
+  "abbrs": [
+   [
+    "Photoluminescence",
+    "PL"
+   ]
+  ]
+ },
+ "pl-quenching": {
+  "dir": "concepts",
+  "title": "荧光猝灭 / PL Quenching",
+  "abbrs": []
+ },
+ "plane-wave-basis": {
+  "dir": "concepts",
+  "title": "Plane-Wave Basis / 平面波基组",
+  "abbrs": []
+ },
+ "polarization-switching": {
+  "dir": "concepts",
+  "title": "极化翻转 / Polarization Switching",
+  "abbrs": []
+ },
+ "projector-augmented-wave": {
+  "dir": "concepts",
+  "title": "Projector-Augmented Wave / 投影增强波方法 (PAW)",
+  "abbrs": []
+ },
+ "pseudogap": {
+  "dir": "concepts",
+  "title": "赝能隙 / Pseudogap",
+  "abbrs": []
+ },
+ "pulay-mixing": {
+  "dir": "concepts",
+  "title": "Pulay Mixing / Pulay 混合 (DIIS)",
+  "abbrs": []
+ },
+ "pump-probe": {
+  "dir": "concepts",
+  "title": "泵浦-探测技术 / Pump-Probe",
+  "abbrs": []
+ },
+ "quadrupole-insulator": {
+  "dir": "concepts",
+  "title": "四极矩绝缘体 / Quadrupole Insulator",
+  "abbrs": []
+ },
+ "quantum-spin-hall-effect": {
+  "dir": "concepts",
+  "title": "量子自旋霍尔效应 / Quantum Spin Hall Effect (QSHE)",
+  "abbrs": [
+   [
+    "Quantum Spin Hall Effect",
+    "QSHE"
+   ]
+  ]
+ },
+ "raman-scattering": {
+  "dir": "concepts",
+  "title": "拉曼散射 / Raman Scattering",
+  "abbrs": []
+ },
+ "rashba-effect": {
+  "dir": "concepts",
+  "title": "Rashba 效应 / Rashba Effect",
+  "abbrs": []
+ },
+ "resistive-switching": {
+  "dir": "concepts",
+  "title": "阻变 (Resistive Switching)",
+  "abbrs": [
+   [
+    "Resistive Switching",
+    "RS"
+   ]
+  ]
+ },
+ "rmm-diis": {
+  "dir": "concepts",
+  "title": "RMM-DIIS / 残差最小化-迭代子空间直接反演",
+  "abbrs": []
+ },
+ "screening-effect": {
+  "dir": "concepts",
+  "title": "屏蔽效应 (Screening Effect)",
+  "abbrs": []
+ },
+ "second-harmonic-generation": {
+  "dir": "concepts",
+  "title": "二次谐波产生 / Second-Harmonic Generation (SHG)",
+  "abbrs": [
+   [
+    "Second-Harmonic Generation",
+    "SHG"
+   ]
+  ]
+ },
+ "self-consistent-field-cycle": {
+  "dir": "concepts",
+  "title": "Self-Consistent Field Cycle / 自洽场循环 (SCF)",
+  "abbrs": []
+ },
+ "skyrmion": {
+  "dir": "concepts",
+  "title": "斯格明子 / Skyrmion",
+  "abbrs": []
+ },
+ "slidetronics": {
+  "dir": "concepts",
+  "title": null,
+  "abbrs": []
+ },
+ "sliding-ferroelectricity": {
+  "dir": "concepts",
+  "title": "滑动铁电性 / Sliding Ferroelectricity",
+  "abbrs": []
+ },
+ "solvatochromism": {
+  "dir": "concepts",
+  "title": "溶剂化显色 / Solvatochromism",
+  "abbrs": []
+ },
+ "spin-current": {
+  "dir": "concepts",
+  "title": "自旋流 / Spin Current",
+  "abbrs": []
+ },
+ "spin-spiral": {
+  "dir": "concepts",
+  "title": "螺旋磁序 / Spin Spiral",
+  "abbrs": []
+ },
+ "spin-texture": {
+  "dir": "concepts",
+  "title": null,
+  "abbrs": []
+ },
+ "stokes-shift": {
+  "dir": "concepts",
+  "title": "斯托克斯位移 / Stokes Shift",
+  "abbrs": []
+ },
+ "surface-plasmon-resonance": {
+  "dir": "concepts",
+  "title": "表面等离子体共振 / Surface Plasmon Resonance (SPR)",
+  "abbrs": [
+   [
+    "Surface Plasmon Resonance",
+    "SPR"
+   ]
+  ]
+ },
+ "surface-state": {
+  "dir": "concepts",
+  "title": "表面态 / Surface State",
+  "abbrs": []
+ },
+ "synaptic-plasticity": {
+  "dir": "concepts",
+  "title": "突触可塑性 (Synaptic Plasticity)",
+  "abbrs": []
+ },
+ "synaptic-weight": {
+  "dir": "concepts",
+  "title": "突触权重 (Synaptic Weight)",
+  "abbrs": []
+ },
+ "thermochromism": {
+  "dir": "concepts",
+  "title": "热致变色 / Thermochromism",
+  "abbrs": []
+ },
+ "tict-mechanism": {
+  "dir": "concepts",
+  "title": "扭曲分子内电荷转移机制 / TICT Mechanism",
+  "abbrs": []
+ },
+ "time-reversal-symmetry": {
+  "dir": "concepts",
+  "title": "时间反演对称性 / Time-Reversal Symmetry",
+  "abbrs": []
+ },
+ "topological-charge": {
+  "dir": "concepts",
+  "title": "拓扑荷 / Topological Charge",
+  "abbrs": []
+ },
+ "topological-insulator": {
+  "dir": "concepts",
+  "title": "拓扑绝缘体 / Topological Insulator (TI)",
+  "abbrs": [
+   [
+    "Topological Insulator",
+    "TI"
+   ]
+  ]
+ },
+ "topological-magnon": {
+  "dir": "concepts",
+  "title": "拓扑激磁子 / Topological Magnon",
+  "abbrs": []
+ },
+ "topological-superconductor": {
+  "dir": "concepts",
+  "title": "拓扑超导体 / Topological Superconductor (TSC)",
+  "abbrs": [
+   [
+    "Topological Superconductor",
+    "TSC"
+   ]
+  ]
+ },
+ "tunneling-magnetoresistance": {
+  "dir": "concepts",
+  "title": "隧穿磁阻 (Tunneling Magnetoresistance)",
+  "abbrs": [
+   [
+    "Tunneling Magnetoresistance",
+    "TMR"
+   ]
+  ]
+ },
+ "two-photon-absorption": {
+  "dir": "concepts",
+  "title": "双光子吸收 / Two-Photon Absorption (TPA)",
+  "abbrs": [
+   [
+    "Two-Photon Absorption",
+    "TPA"
+   ]
+  ]
+ },
+ "type-ii-multiferroicity": {
+  "dir": "concepts",
+  "title": "第二类多铁性 / Type-II Multiferroicity",
+  "abbrs": []
+ },
+ "ultrafast-spectroscopy": {
+  "dir": "concepts",
+  "title": "超快光谱学 / Ultrafast Spectroscopy",
+  "abbrs": []
+ },
+ "ultrasoft-pseudopotential": {
+  "dir": "concepts",
+  "title": "Ultrasoft Pseudopotential / 超软赝势 (US-PP)",
+  "abbrs": []
+ },
+ "valleytronics": {
+  "dir": "concepts",
+  "title": "谷电子学 (Valleytronics)",
+  "abbrs": []
+ },
+ "van-hove-singularity": {
+  "dir": "concepts",
+  "title": "范霍夫奇点 / Van Hove Singularity (vHS)",
+  "abbrs": []
+ },
+ "weyl-semimetal": {
+  "dir": "concepts",
+  "title": "外尔半金属 / Weyl Semimetal (WSM)",
+  "abbrs": [
+   [
+    "Weyl Semimetal",
+    "WSM"
+   ]
+  ]
+ },
+ "work-function": {
+  "dir": "concepts",
+  "title": "功函数 (Work Function)",
+  "abbrs": []
+ },
+ "Z2-invariant": {
+  "dir": "concepts",
+  "title": "Z2 不变量 / Z2 Invariant",
+  "abbrs": []
+ },
+ "1t-phase": {
+  "dir": "entities",
+  "title": "1T 相 / 1T-phase",
+  "abbrs": []
+ },
+ "2H-NbSe2": {
+  "dir": "entities",
+  "title": null,
+  "abbrs": []
+ },
+ "2h-phase": {
+  "dir": "entities",
+  "title": "2H 相 / 2H-phase",
+  "abbrs": []
+ },
+ "BiFeO3": {
+  "dir": "entities",
+  "title": "铁酸铋 / Bismuth Ferrite (BiFeO3, BFO)",
+  "abbrs": []
+ },
+ "CoFe2O4": {
+  "dir": "entities",
+  "title": null,
+  "abbrs": []
+ },
+ "Cr2O3": {
+  "dir": "entities",
+  "title": null,
+  "abbrs": []
+ },
+ "CrI3": {
+  "dir": "entities",
+  "title": "三碘化铬 (CrI₃)",
+  "abbrs": []
+ },
+ "CrTe2": {
+  "dir": "entities",
+  "title": "二碲化铬 (CrTe₂)",
+  "abbrs": []
+ },
+ "Fe3GeTe2": {
+  "dir": "entities",
+  "title": "碲化锗铁 (Fe₃GaTe₂ / Fe₃GeTe₂)",
+  "abbrs": []
+ },
+ "FeFET": {
+  "dir": "entities",
+  "title": "铁电场效应晶体管 (FeFET)",
+  "abbrs": []
+ },
+ "FePS3": {
+  "dir": "entities",
+  "title": "硫磷化铁 (FePS₃)",
+  "abbrs": []
+ },
+ "GaSe": {
+  "dir": "entities",
+  "title": null,
+  "abbrs": []
+ },
+ "In2Se3": {
+  "dir": "entities",
+  "title": "硒化铟 / Indium Selenide (In2Se3)",
+  "abbrs": []
+ },
+ "InSe": {
+  "dir": "entities",
+  "title": null,
+  "abbrs": []
+ },
+ "MnPSe3": {
+  "dir": "entities",
+  "title": "硒磷化锰 (MnPSe₃)",
+  "abbrs": []
+ },
+ "MoS2": {
+  "dir": "entities",
+  "title": "二硫化钼 (MoS2) / Molybdenum Disulfide",
+  "abbrs": []
+ },
+ "MoTe2": {
+  "dir": "entities",
+  "title": "二碲化钼 (MoTe2) / Molybdenum Ditelluride",
+  "abbrs": []
+ },
+ "NbSe2": {
+  "dir": "entities",
+  "title": "二硒化铌 (NbSe2) / Niobium Diselenide",
+  "abbrs": []
+ },
+ "NiI2": {
+  "dir": "entities",
+  "title": "二碘化镍 (NiI2) / Nickel Iodide",
+  "abbrs": []
+ },
+ "NiPS3": {
+  "dir": "entities",
+  "title": "硫磷化镍 (NiPS₃)",
+  "abbrs": []
+ },
+ "TaS2": {
+  "dir": "entities",
+  "title": "二硫化钽 (TaS2) / Tantalum Disulfide",
+  "abbrs": [
+   [
+    "CDW",
+    "ICCDW"
+   ],
+   [
+    "CDW",
+    "NCCDW"
+   ],
+   [
+    "CDW",
+    "CCDW"
+   ]
+  ]
+ },
+ "TaSe2": {
+  "dir": "entities",
+  "title": "二硒化钽 (TaSe2) / Tantalum Diselenide",
+  "abbrs": []
+ },
+ "td-phase": {
+  "dir": "entities",
+  "title": "Td 相 / Td-phase",
+  "abbrs": []
+ },
+ "TiSe2": {
+  "dir": "entities",
+  "title": "二硒化钛 (TiSe2) / Titanium Diselenide",
+  "abbrs": []
+ },
+ "TMDs": {
+  "dir": "entities",
+  "title": "过渡金属硫族化合物 / Transition Metal Dichalcogenides (TMDs)",
+  "abbrs": []
+ },
+ "VSe2": {
+  "dir": "entities",
+  "title": "二硒化钒 (VSe2) / Vanadium Diselenide",
+  "abbrs": []
+ },
+ "WS2": {
+  "dir": "entities",
+  "title": "二硫化钨 (WS2) / Tungsten Disulfide",
+  "abbrs": []
+ },
+ "WTe2": {
+  "dir": "entities",
+  "title": "二碲化钨 (WTe2) / Tungsten Ditealluride",
+  "abbrs": []
+ }
+}

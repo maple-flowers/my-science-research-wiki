@@ -2,7 +2,7 @@
 tags: [entity, material, TMD, 2D, semimetal, ferroelectric]
 title: 二碲化钨 (WTe2) / Tungsten Ditealluride
 type: entity
-status: mature
+status: developing
 formula: WTe2
 stoichiometry: Td
 class: [TMD, vdW, semimetal]
@@ -13,6 +13,11 @@ updated: 2026-08
 ---
 
 # 二碲化钨 (WTe2) / Tungsten Ditealluride
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 二碲化钨 (WTe2) 是一种极为特殊的过渡金属硫族化合物。它在体相下以不具有空间反演对称性的 $T_d$ 相稳定存在，是公认的 **II 型外尔半金属 (Type-II Weyl Semimetal)**。更具革命性的是，WTe2 也是首个被实验证实存在室温**铁电半金属**（极性金属）特性的范德华材料。
 
@@ -45,38 +50,40 @@ WTe2 之所以能同时兼具导电性与铁电极化，关键在于其**低载�
 | 德拜屏蔽长度 | $\sim 1.6\text{ nm}$ |
 | 超导转变温度 $T_c$ | $\sim 7\text{ K}$ (高压或调控下) |
 
+> 注：上表为典型实验或 DFT 计算数值，适用对象与条件已在数值中标注，详细来源见下方 📚 相关论文 节。
+
 ## 📚 相关论文 (Related Papers)
 
 - [[../papers/sharmaRoomtemperatureFerroelectricSemimetal2019]]：首次在块体 WTe2 中于室温下实验证实了本征金属性与铁电性共存。
 - [[../papers/liPhaseTransitions2D2021]]：系统梳理了二维材料中包括滑动铁电在内的多自由度相变。
-- [[../papers/FerroelectricityMultiferroicityAtomic2023]]
-- [[../papers/Li2013bonding]]
-- [[../papers/aiFerroelectricityCoexistedPorbital2022]]
-- [[../papers/bhowalPolarMetalsPrinciples2023b]]
-- [[../papers/chenFerromagneticNonmagnetic1T2022]]
-- [[../papers/chenStrongSlidingFerroelectricity2024]]
-- [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]
-- [[../papers/gaoStrainEngineeringFerroelectric2024]]
-- [[../papers/guanRecentProgressTwoDimensional2020]]
-- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]
-- [[../papers/hanTunableSlidingFerroelectricity2025]]
-- [[../papers/heSwitchingTwodimensionalSliding2025]]
-- [[../papers/huProgressProspectsLowdimensional2019]]
-- [[../papers/huangPolarPhaseDomain2019]]
-- [[../papers/kaurRecentAdvancesTheoretical2025a]]
-- [[../papers/liFerroelasticityDomainPhysics2016]]
-- [[../papers/miaoMagneticFerroelectricMetal2024]]
-- [[../papers/neumayerCompetingPolarPhases2025]]
-- [[../papers/nicholsonUniaxialStraininducedPhase2021]]
-- [[../papers/niuDirectVisualizationLargeScale2021]]
-- [[../papers/pedramraziManipulatingTopologicalDomain2019]]
-- [[../papers/pengStrainEngineering2D2020]]
-- [[../papers/shenEmergenceMultipleFerroelectric2025]]
-- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]
-- [[../papers/wangFormationMechanismTwin2019]]
-- [[../papers/wuElectrostaticGatingIntercalation2022]]
-- [[../papers/wuSlidingFerroelectricity2D2021a]]
-- [[../papers/yangRipplingFerroicPhase2021]]
+- [[../papers/FerroelectricityMultiferroicityAtomic2023]]：从综述角度梳理了「Ferroelectricity and multiferroicity down to the atomic thickness」。
+- [[../papers/Li2013bonding]]：从理论分析角度梳理了「Bonding Charge Density and Ultimate Strength of Monolayer Transition Metal Dichalcogenides」。
+- [[../papers/aiFerroelectricityCoexistedPorbital2022]]：从理论分析角度梳理了「二维金属氮氧化物中的铁电性与p轨道铁磁性和金属丰度共存」。
+- [[../papers/bhowalPolarMetalsPrinciples2023b]]：从综述角度梳理了「极性金属：原理与展望」。
+- [[../papers/chenFerromagneticNonmagnetic1T2022]]：从理论分析角度梳理了「Ferromagnetic and nonmagnetic 1T′ charge density wave states in transition metal dichalcogenides: Physical mechanisms and charge doping induced reversible transition」。
+- [[../papers/chenStrongSlidingFerroelectricity2024]]：从理论分析角度梳理了「Strong Sliding Ferroelectricity and Interlayer Sliding Controllable Spintronic Effect in Two-Dimensional HgI₂ Layers」。
+- [[../papers/feiFerroelectricSwitchingTwodimensional2018a]]：从实验研究角度梳理了「Ferroelectric switching of a two-dimensional metal」。
+- [[../papers/gaoStrainEngineeringFerroelectric2024]]：从理论分析角度梳理了「Strain engineering of ferroelectric polarization and domain in the two-dimensional multiferroic semiconductor」。
+- [[../papers/guanRecentProgressTwoDimensional2020]]：从综述角度梳理了「Recent Progress in Two‐Dimensional Ferroelectric Materials」。
+- [[../papers/guoAdvancesTwodimensionalFerroelectric2025]]：从综述角度梳理了「二维铁电材料的研究进展」。
+- [[../papers/hanTunableSlidingFerroelectricity2025]]：从理论分析角度梳理了「Tunable sliding ferroelectricity in two-dimensional van der Waals RuX2 (X = Cl, Br, and I) multiferroic layers」。
+- [[../papers/heSwitchingTwodimensionalSliding2025]]：从理论分析角度梳理了「机械弯曲切换二维滑动铁电体」。
+- [[../papers/huProgressProspectsLowdimensional2019]]：从综述角度梳理了「低维多铁性材料的研究进展与展望」。
+- [[../papers/huangPolarPhaseDomain2019]]：从实验研究角度梳理了「Polar and phase domain walls with conducting interfacial states in a Weyl semimetal MoTe2」。
+- [[../papers/kaurRecentAdvancesTheoretical2025a]]：从综述角度梳理了「Recent advances in theoretical investigations of sliding ferroelectricity in layered and van der Waals two-dimensional materials」。
+- [[../papers/liFerroelasticityDomainPhysics2016]]：从理论分析角度梳理了「二维过渡金属二硫族化物单层的铁弹性和畴物理」。
+- [[../papers/miaoMagneticFerroelectricMetal2024]]：从理论分析角度梳理了「Magnetic ferroelectric metal in bilayer Fe3GeTe2 under interlayer sliding」。
+- [[../papers/neumayerCompetingPolarPhases2025]]：从综述角度梳理了「二维铁电过渡金属硫代和硒酸盐中的竞争极性相」。
+- [[../papers/nicholsonUniaxialStraininducedPhase2021]]：从实验研究角度梳理了「二维拓扑半金属IrTe2的单轴应变诱导相变」。
+- [[../papers/niuDirectVisualizationLargeScale2021]]：从实验研究角度梳理了「Direct Visualization of Large-Scale Intrinsic Atomic Lattice Structure and Its Collective Anisotropy in Air-Sensitive Monolayer 1T'-WTe2」。
+- [[../papers/pedramraziManipulatingTopologicalDomain2019]]：从实验研究角度梳理了「单层量子自旋霍尔绝缘体 1T′–WSe₂ 中拓扑畴边界的操控」。
+- [[../papers/pengStrainEngineering2D2020]]：从综述角度梳理了「二维半导体和石墨烯的应变工程：从应变场到能带结构调谐和光子应用」。
+- [[../papers/shenEmergenceMultipleFerroelectric2025]]：从实验研究角度梳理了「多层黑磷中多铁电态的出现」。
+- [[../papers/sunSlidingFerroelectricityTwodimensional2025]]：从综述角度梳理了「Sliding ferroelectricity in two-dimensional materials and device applications」。
+- [[../papers/wangFormationMechanismTwin2019]]：从实验研究角度梳理了「Formation mechanism of twin domain boundary in 2D materials: The case for WTe2」。
+- [[../papers/wuElectrostaticGatingIntercalation2022]]：从综述角度梳理了「二维材料中的静电门控与插层」。
+- [[../papers/wuSlidingFerroelectricity2D2021a]]：从综述角度梳理了「二维范德华材料中的滑动铁电性：相关物理和未来机遇」。
+- [[../papers/yangRipplingFerroicPhase2021]]：从理论分析角度梳理了「Rippling Ferroic Phase Transition and Domain Switching In 2D Materials」。
 - [[../papers/yuFerroelectricControlMagnetism2026]]
 - [[../papers/zhangEmergingFrontiersTwodimensional2025]]
 - [[../papers/zhaoRealization2DMultiferroic2024]]

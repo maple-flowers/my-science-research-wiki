@@ -1,0 +1,776 @@
+[
+ {
+  "keep": "concepts/ARPES",
+  "keep_formal": false,
+  "merges": [
+   "concepts/arpes",
+   "entities/arpes",
+   "entities/ARPES"
+  ],
+  "new_backlinks": 2,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/Car-Parrinello",
+  "keep_formal": false,
+  "merges": [
+   "concepts/car-parrinello",
+   "concepts/car-parrinello-method",
+   "entities/car-parrinello",
+   "entities/Car-Parrinello"
+  ],
+  "new_backlinks": 2,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/LAPW",
+  "keep_formal": false,
+  "merges": [
+   "concepts/lapw",
+   "entities/lapw",
+   "entities/LAPW"
+  ],
+  "new_backlinks": 0,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "entities/MAX-phase",
+  "keep_formal": false,
+  "merges": [
+   "concepts/max-phase",
+   "concepts/MAX-phase",
+   "entities/MAX-phase"
+  ],
+  "new_backlinks": 5,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/PBE-functional",
+  "keep_formal": false,
+  "merges": [
+   "concepts/pbe-functional",
+   "entities/pbe-functional",
+   "entities/PBE-functional"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "entities/Sc2CO2",
+  "keep_formal": false,
+  "merges": [
+   "concepts/sc2co2",
+   "concepts/Sc2CO2",
+   "entities/sc2co2"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/pseudogap",
+  "keep_formal": true,
+  "merges": [
+   "concepts/pseudo-gap"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/optical-band-gap",
+  "keep_formal": false,
+  "merges": [
+   "concepts/optical-bandgap"
+  ],
+  "new_backlinks": 0,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "entities/MoTe2",
+  "keep_formal": true,
+  "merges": [
+   "entities/mo-te2"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/bessel-beam",
+  "keep_formal": false,
+  "merges": [
+   "concepts/bessel-beams"
+  ],
+  "new_backlinks": 0,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/domain-wall",
+  "keep_formal": false,
+  "merges": [
+   "concepts/domain-walls"
+  ],
+  "new_backlinks": 2,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/skyrmion",
+  "keep_formal": true,
+  "merges": [
+   "concepts/skyrmions",
+   "concepts/magnetic-skyrmion"
+  ],
+  "new_backlinks": 2,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/surface-termination",
+  "keep_formal": false,
+  "merges": [
+   "concepts/surface-terminations"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/type-i-multiferroic",
+  "keep_formal": false,
+  "merges": [
+   "concepts/type-i-multiferroics"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/type-ii-multiferroicity",
+  "keep_formal": true,
+  "merges": [
+   "concepts/type-ii-multiferroic",
+   "concepts/type-ii-multiferroics"
+  ],
+  "new_backlinks": 4,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/variable-spring-constant",
+  "keep_formal": false,
+  "merges": [
+   "concepts/variable-spring-constants"
+  ],
+  "new_backlinks": 0,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/polar-vortex",
+  "keep_formal": false,
+  "merges": [
+   "concepts/polar-vortices"
+  ],
+  "new_backlinks": 0,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "entities/MAX-phase",
+  "keep_formal": false,
+  "merges": [
+   "entities/MAX-phases"
+  ],
+  "new_backlinks": 3,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "entities/carbon-nanotube",
+  "keep_formal": false,
+  "merges": [
+   "entities/carbon-nanotubes"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/paw-method",
+  "keep_formal": true,
+  "merges": [
+   "concepts/projector-augmented-wave"
+  ],
+  "new_backlinks": 2,
+  "new_related": 4,
+  "new_papers": 0,
+  "extra_sections": [
+   "projector-augmented-wave"
+  ]
+ },
+ {
+  "keep": "concepts/ict-mechanism",
+  "keep_formal": true,
+  "merges": [
+   "concepts/intramolecular-charge-transfer"
+  ],
+  "new_backlinks": 4,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/tict-mechanism",
+  "keep_formal": true,
+  "merges": [
+   "concepts/twisted-intramolecular-charge-transfer"
+  ],
+  "new_backlinks": 3,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/aimd",
+  "keep_formal": false,
+  "merges": [
+   "concepts/ab-initio-molecular-dynamics"
+  ],
+  "new_backlinks": 2,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/dftb",
+  "keep_formal": false,
+  "merges": [
+   "concepts/dftb-density-functional-tight-binding"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/nudged-elastic-band",
+  "keep_formal": false,
+  "merges": [
+   "concepts/neb"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/climbing-image-neb",
+  "keep_formal": false,
+  "merges": [
+   "concepts/cneb"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/generalized-gradient-approximation",
+  "keep_formal": false,
+  "merges": [
+   "concepts/gga-functional"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/DFT-U",
+  "keep_formal": true,
+  "merges": [
+   "concepts/dft-plus-u"
+  ],
+  "new_backlinks": 2,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/vdW-heterostructure",
+  "keep_formal": false,
+  "merges": [
+   "concepts/van-der-waals-heterostructure"
+  ],
+  "new_backlinks": 7,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/piezoresponse-force-microscopy",
+  "keep_formal": false,
+  "merges": [
+   "concepts/pfm-piezoresponse-force-microscopy"
+  ],
+  "new_backlinks": 2,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/pump-probe",
+  "keep_formal": true,
+  "merges": [
+   "concepts/pump-probe-technique"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/quantum-spin-hall-effect",
+  "keep_formal": true,
+  "merges": [
+   "concepts/quantum-spin-hall"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/two-photon-absorption-cross-section",
+  "keep_formal": false,
+  "merges": [
+   "concepts/two-photon-cross-section"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/bader-analysis",
+  "keep_formal": false,
+  "merges": [
+   "concepts/bader-charge-analysis"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/mulliken-population",
+  "keep_formal": false,
+  "merges": [
+   "concepts/mulliken-population-analysis"
+  ],
+  "new_backlinks": 2,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/self-consistent-field-cycle",
+  "keep_formal": true,
+  "merges": [
+   "concepts/self-consistent-field"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/landau-lifshitz-equation",
+  "keep_formal": false,
+  "merges": [
+   "concepts/llg-equation"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/resistive-switching",
+  "keep_formal": true,
+  "merges": [
+   "concepts/resistive-switching-memory"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/band-structure",
+  "keep_formal": false,
+  "merges": [
+   "concepts/electronic-band-structure"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/local-excited-state",
+  "keep_formal": false,
+  "merges": [
+   "concepts/locally-excited-state"
+  ],
+  "new_backlinks": 0,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/d-pi-a-architecture",
+  "keep_formal": false,
+  "merges": [
+   "concepts/d-pi-a-structure",
+   "concepts/donor-acceptor-push-pull",
+   "concepts/donor-pi-acceptor",
+   "concepts/push-pull-chromophore"
+  ],
+  "new_backlinks": 4,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/inverse-dzyaloshinskii-moriya",
+  "keep_formal": false,
+  "merges": [
+   "concepts/inverse-dm-interaction"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/half-metallicity",
+  "keep_formal": false,
+  "merges": [
+   "concepts/half-metal"
+  ],
+  "new_backlinks": 12,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/high-order-topology",
+  "keep_formal": true,
+  "merges": [
+   "concepts/higher-order-topology"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/kittel-law",
+  "keep_formal": false,
+  "merges": [
+   "concepts/kittels-law"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/kosterlitz-thouless",
+  "keep_formal": false,
+  "merges": [
+   "concepts/kosterlitz-thouless-transition"
+  ],
+  "new_backlinks": 3,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/ginzburg-landau",
+  "keep_formal": false,
+  "merges": [
+   "concepts/landau-ginzburg"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/multiferroic-tunnel-junction",
+  "keep_formal": false,
+  "merges": [
+   "concepts/multiferroic-tunneling-junction"
+  ],
+  "new_backlinks": 0,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/soft-mode",
+  "keep_formal": false,
+  "merges": [
+   "concepts/soft-mode-phonon",
+   "concepts/soft-phonon-mode"
+  ],
+  "new_backlinks": 2,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/spin-spiral",
+  "keep_formal": true,
+  "merges": [
+   "concepts/spiral-magnetic-order",
+   "concepts/spiral-magnetism",
+   "concepts/spiral-spin-structure"
+  ],
+  "new_backlinks": 4,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/helical-magnetism",
+  "keep_formal": false,
+  "merges": [
+   "concepts/helical-spin-order"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/steepest-ascent",
+  "keep_formal": false,
+  "merges": [
+   "concepts/steepest-ascent-path"
+  ],
+  "new_backlinks": 0,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/charge-order",
+  "keep_formal": false,
+  "merges": [
+   "concepts/charge-ordering"
+  ],
+  "new_backlinks": 0,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/depolarization-field",
+  "keep_formal": false,
+  "merges": [
+   "concepts/depolarizing-field"
+  ],
+  "new_backlinks": 0,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/evanescent-field",
+  "keep_formal": false,
+  "merges": [
+   "concepts/evanescent-wave"
+  ],
+  "new_backlinks": 0,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/exciton-condensation",
+  "keep_formal": false,
+  "merges": [
+   "concepts/excitonic-condensation"
+  ],
+  "new_backlinks": 0,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/first-order-phase-transition",
+  "keep_formal": false,
+  "merges": [
+   "concepts/first-order-transition"
+  ],
+  "new_backlinks": 0,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/magnetic-anisotropy",
+  "keep_formal": true,
+  "merges": [
+   "concepts/magnetic-anisotropy-energy"
+  ],
+  "new_backlinks": 15,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "concepts/peierls-instability",
+  "keep_formal": true,
+  "merges": [
+   "concepts/peierls-transition"
+  ],
+  "new_backlinks": 2,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "entities/Au",
+  "keep_formal": false,
+  "merges": [
+   "entities/gold"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "entities/Si",
+  "keep_formal": false,
+  "merges": [
+   "entities/silicon"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "entities/Ti-sapphire-laser",
+  "keep_formal": false,
+  "merges": [
+   "entities/Ti-Sa-laser",
+   "entities/titanium-sapphire-laser"
+  ],
+  "new_backlinks": 2,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "entities/TaSe2-xTex",
+  "keep_formal": false,
+  "merges": [
+   "entities/tase2-xtex-solid-solution"
+  ],
+  "new_backlinks": 0,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "entities/MnBi2Te4",
+  "keep_formal": false,
+  "merges": [
+   "entities/mn-bi2-te4-mbt"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "entities/CuCrP2S6",
+  "keep_formal": false,
+  "merges": [
+   "entities/cu-crp2s6",
+   "entities/ccps-cucrp2s6",
+   "entities/cucrp2s6"
+  ],
+  "new_backlinks": 2,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "entities/CuInP2S6",
+  "keep_formal": false,
+  "merges": [
+   "entities/cips-cu-in-p2s6"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "entities/1T-MoTe2",
+  "keep_formal": false,
+  "merges": [
+   "entities/d1t-mote2"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ },
+ {
+  "keep": "entities/MoS2",
+  "keep_formal": true,
+  "merges": [
+   "entities/molybdenum-disulfide"
+  ],
+  "new_backlinks": 1,
+  "new_related": 0,
+  "new_papers": 0,
+  "extra_sections": []
+ }
+]

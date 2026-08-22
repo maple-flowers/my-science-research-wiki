@@ -1,0 +1,1015 @@
+[
+ {
+  "slug": "born-effective-charge",
+  "lines": 10,
+  "npapers": 6,
+  "cites": [
+   "bhowalPolarMetalsPrinciples2023b",
+   "gomez-ortizKittelLawDomain2023",
+   "kaurRecentAdvancesTheoretical2025a",
+   "king-smithTheoryPolarizationCrystalline1993",
+   "laiTwodimensionalFerromagnetismDriven2019",
+   "zhangEmergingFrontiersTwodimensional2025"
+  ]
+ },
+ {
+  "slug": "geometric-ferroelectricity",
+  "lines": 10,
+  "npapers": 6,
+  "cites": [
+   "bhowalPolarMetalsPrinciples2023b",
+   "fiebigEvolutionMultiferroics2016",
+   "hillWhyAreThere2000a",
+   "rameshMultiferroicsProgressProspects2007",
+   "spaldinRenaissanceMagnetoelectricMultiferroics2005",
+   "yuFerroelectricControlMagnetism2026"
+  ]
+ },
+ {
+  "slug": "hysteresis",
+  "lines": 10,
+  "npapers": 6,
+  "cites": [
+   "2019optical",
+   "Doroodmand2017conjugated",
+   "Ismail2015humidity",
+   "Zhang2019b",
+   "chenFerromagneticNonmagnetic1T2022",
+   "lvUnconventionalHystereticTransition2022"
+  ]
+ },
+ {
+  "slug": "intercalation",
+  "lines": 10,
+  "npapers": 6,
+  "cites": [
+   "lezoualchStudyChargeDensity",
+   "petkovStructureIntercalatedCs2002",
+   "tangMultiferroicityTwodimensionalVan2025",
+   "vahidmohammadiWorldTwodimensionalCarbides2021",
+   "zhaoRealization2DMultiferroic2024",
+   "wuElectrostaticGatingIntercalation2022"
+  ]
+ },
+ {
+  "slug": "mechanoluminescence",
+  "lines": 10,
+  "npapers": 6,
+  "cites": [
+   "Gulhare2021mechanoluminescence",
+   "KumarChoubey2011mechanoluminescence",
+   "PChandra2011mechanoluminescence",
+   "TSUJI2019phosphorescence",
+   "Terasaki2011ultrasonic",
+   "sunSlidingFerroelectricityTwodimensional2025"
+  ]
+ },
+ {
+  "slug": "norm-conserving-pseudopotential",
+  "lines": 10,
+  "npapers": 6,
+  "cites": [
+   "Li2013bonding",
+   "chowdhuryReviewTheoreticalComputational",
+   "king-smithTheoryPolarizationCrystalline1993",
+   "kresseUltrasoftPseudopotentialsProjector1999c",
+   "niuDirectVisualizationLargeScale2021",
+   "shishkinImplementationPerformanceFrequencydependentGWmethod2006"
+  ]
+ },
+ {
+  "slug": "peierls-distortion",
+  "lines": 10,
+  "npapers": 6,
+  "cites": [
+   "chenFerromagneticNonmagnetic1T2022",
+   "krishnamurthiSpinChargeDensity2020",
+   "liFerroelasticityDomainPhysics2016",
+   "pedramraziManipulatingTopologicalDomain2019",
+   "tahirFerroelectricityNonvolatileMemristor2025",
+   "xuTwodimensionalFerroelasticityVan2021"
+  ]
+ },
+ {
+  "slug": "relative-humidity",
+  "lines": 10,
+  "npapers": 6,
+  "cites": [
+   "2019optical",
+   "Doroodmand2017conjugated",
+   "Ismail2015humidity",
+   "Tobeiha2025optical",
+   "XiaokangZhang2013calibrating",
+   "Yarai2005optical"
+  ]
+ },
+ {
+  "slug": "remanent-polarization",
+  "lines": 10,
+  "npapers": 6,
+  "cites": [
+   "Kim2008effect",
+   "RecentAdvancesGrowth2025",
+   "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+   "heUltrafastSwitchingDynamics2024",
+   "tahirFerroelectricityNonvolatileMemristor2025",
+   "zhangEmergingFrontiersTwodimensional2025"
+  ]
+ },
+ {
+  "slug": "two-photon-excitation",
+  "lines": 10,
+  "npapers": 6,
+  "cites": [
+   "H2017fluorescence",
+   "Huang2019solvatochromic",
+   "Huang2023two",
+   "Khitrov2002internal",
+   "Nakanishi2009full",
+   "WRZYSZCZYNSKI2010initiators"
+  ]
+ },
+ {
+  "slug": "antiferroelectricity",
+  "lines": 9,
+  "npapers": 5,
+  "cites": [
+   "fengFerroelectricityMultiferroicityTwodimensional2020",
+   "gaoStrainEngineeringFerroelectric2024",
+   "wuCoexistenceFerroelectricityAntiferroelectricity2024",
+   "xuTwodimensionalFerroelasticityVan2021",
+   "neumayerCompetingPolarPhases2025"
+  ]
+ },
+ {
+  "slug": "biphoton",
+  "lines": 9,
+  "npapers": 5,
+  "cites": [
+   "Khitrov2000holographic",
+   "Nakanishi2009full",
+   "Unknown2014passive",
+   "sunSlidingFerroelectricityTwodimensional2025",
+   "Şahin2009probe"
+  ]
+ },
+ {
+  "slug": "diffraction-limit",
+  "lines": 9,
+  "npapers": 5,
+  "cites": [
+   "Gittard2013polymerization",
+   "Kotz2021polymerization",
+   "Kumar2017microstructuring",
+   "Unknown2022polymerization",
+   "WRZYSZCZYNSKI2010initiators"
+  ]
+ },
+ {
+  "slug": "dimerization",
+  "lines": 9,
+  "npapers": 5,
+  "cites": [
+   "Johannes2008fermi",
+   "chenFerromagneticNonmagnetic1T2022",
+   "liFerroelasticityDomainPhysics2016",
+   "nicholsonUniaxialStraininducedPhase2021",
+   "pedramraziManipulatingTopologicalDomain2019"
+  ]
+ },
+ {
+  "slug": "effective-hamiltonian",
+  "lines": 9,
+  "npapers": 5,
+  "cites": [
+   "nahasFrustrationSelfOrderingTopological2016",
+   "prosandeevKittelLawInBiFeO3Ultrathin2010",
+   "spaldinAdvancesMagnetoelectricMultiferroics2019",
+   "xunCoexistingMagnetismFerroelectric2024",
+   "yuFerroelectricControlMagnetism2026"
+  ]
+ },
+ {
+  "slug": "heisenberg-model",
+  "lines": 9,
+  "npapers": 5,
+  "cites": [
+   "aiFerroelectricityCoexistedPorbital2022",
+   "liMonolayerPuckeredPentagonal2022",
+   "vanvleckSurveyTheoryFerromagnetism1945",
+   "wangTunableD0Topological2025b",
+   "zhongHighthroughputExfoliationMultiferroic2025"
+  ]
+ },
+ {
+  "slug": "humidity-sensing",
+  "lines": 9,
+  "npapers": 5,
+  "cites": [
+   "2019optical",
+   "Ismail2015humidity",
+   "Owji20212d",
+   "XiaokangZhang2013calibrating",
+   "sunSlidingFerroelectricityTwodimensional2025"
+  ]
+ },
+ {
+  "slug": "multistate-memory",
+  "lines": 9,
+  "npapers": 5,
+  "cites": [
+   "RecentAdvancesGrowth2025",
+   "chenFerromagneticNonmagnetic1T2022",
+   "cuiIntercorrelatedInplaneOutofplane2018a",
+   "shenEmergenceMultipleFerroelectric2025",
+   "zhangEmergingFrontiersTwodimensional2025"
+  ]
+ },
+ {
+  "slug": "photoinitiator",
+  "lines": 9,
+  "npapers": 5,
+  "cites": [
+   "Gittard2013polymerization",
+   "Kumar2017microstructuring",
+   "Unknown2014passive",
+   "WRZYSZCZYNSKI2010initiators",
+   "Zhang2008synthesis"
+  ]
+ },
+ {
+  "slug": "photopolymerization",
+  "lines": 9,
+  "npapers": 5,
+  "cites": [
+   "Gittard2013polymerization",
+   "Jia2023polymerization",
+   "Khitrov2000holographic",
+   "Kotz2021polymerization",
+   "WRZYSZCZYNSKI2010initiators"
+  ]
+ },
+ {
+  "slug": "pseudopotential",
+  "lines": 9,
+  "npapers": 5,
+  "cites": [
+   "Delley2000",
+   "blochlProjectorAugmentedwaveMethod1994b",
+   "kresseInitiomolecularDynamicsLiquid1993",
+   "perdewGeneralizedGradientApproximation1996a",
+   "tangGridbasedBaderAnalysis2009"
+  ]
+ },
+ {
+  "slug": "spin-flop",
+  "lines": 9,
+  "npapers": 5,
+  "cites": [
+   "cheongMultiferroicsMagneticTwist2007a",
+   "mostovoyMultiferroicsDifferentRoutes2024",
+   "wuCoexistenceFerroelectricityAntiferroelectricity2024",
+   "wuNonvolatileSwitchableHalfmetallicity2024",
+   "zhongHighthroughputExfoliationMultiferroic2025"
+  ]
+ },
+ {
+  "slug": "surface-reconstruction",
+  "lines": 9,
+  "npapers": 5,
+  "cites": [
+   "Wu2018",
+   "guanRecentProgressTwoDimensional2020",
+   "liPhaseTransitions2D2021",
+   "zhongHighthroughputExfoliationMultiferroic2025",
+   "Wu2021"
+  ]
+ },
+ {
+  "slug": "bimeron",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "tanRevealingEmergentMagnetic2024",
+   "wangTunableD0Topological2025b",
+   "wuCoexistenceFerroelectricityAntiferroelectricity2024",
+   "zhangNonvolatileControlTopological2025"
+  ]
+ },
+ {
+  "slug": "binding-strength",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "Li2013bonding",
+   "Wu2021",
+   "yanDecipheringStabilityTwodimensional2025",
+   "zhongHighthroughputExfoliationMultiferroic2025"
+  ]
+ },
+ {
+  "slug": "bond-density",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "Li2013bonding",
+   "Wu2021",
+   "yanDecipheringStabilityTwodimensional2025",
+   "zhongHighthroughputExfoliationMultiferroic2025"
+  ]
+ },
+ {
+  "slug": "critical-thickness",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "FerroelectricityMultiferroicityAtomic2023",
+   "Kim2008effect",
+   "feiFerroelectricSwitchingTwodimensional2018a",
+   "junqueraCriticalThicknessFerroelectricity2003"
+  ]
+ },
+ {
+  "slug": "domain-wall-engineering",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "fiebigEvolutionMultiferroics2016",
+   "heUltrafastSwitchingDynamics2024",
+   "liFerroelasticityDomainPhysics2016",
+   "xuTwodimensionalFerroelasticityVan2021"
+  ]
+ },
+ {
+  "slug": "double-well",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "aiFerroelectricityCoexistedPorbital2022",
+   "gorkovStrongElectronlatticeCoupling2012",
+   "lvUnconventionalHystereticTransition2022",
+   "xuTunableFerroelectricTopological2022"
+  ]
+ },
+ {
+  "slug": "double-well-potential",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "chenStrongSlidingFerroelectricity2024",
+   "gorkovStrongElectronlatticeCoupling2012",
+   "hillWhyAreThere2000a",
+   "aiFerroelectricityCoexistedPorbital2022"
+  ]
+ },
+ {
+  "slug": "electronic-susceptibility",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "Johannes2008fermi",
+   "junqueraCriticalThicknessFerroelectricity2003",
+   "kawakamiChargedensityWaveAssociated2023",
+   "yanagizawaSwitchingChargedensityWave2023"
+  ]
+ },
+ {
+  "slug": "ferrovalley",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "RecentAdvancesGrowth2025",
+   "guanRecentProgressTwoDimensional2020",
+   "hanTunableSlidingFerroelectricity2025",
+   "xunCoexistingMagnetismFerroelectric2024"
+  ]
+ },
+ {
+  "slug": "flexoelectricity",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "Chen2016electrical",
+   "guanRecentProgressTwoDimensional2020",
+   "hanPolarTopologicalMaterials2025",
+   "liPhaseTransitions2D2021"
+  ]
+ },
+ {
+  "slug": "hall-effect",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "ivanovskiOscillationStructureHall1994",
+   "kaurRecentAdvancesTheoretical2025a",
+   "pengStrainEngineering2D2020",
+   "xunCoexistingMagnetismFerroelectric2024"
+  ]
+ },
+ {
+  "slug": "hybrid-improper-ferroelectricity",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "fiebigEvolutionMultiferroics2016",
+   "huProgressProspectsLowdimensional2019",
+   "martinThinfilmFerroelectricMaterials2016",
+   "mostovoyMultiferroicsDifferentRoutes2024"
+  ]
+ },
+ {
+  "slug": "icosahedral-packing",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "Zhang2019a",
+   "Zhang2019b",
+   "Zhang2019c",
+   "kresseInitiomolecularDynamicsLiquid1993"
+  ]
+ },
+ {
+  "slug": "improper-ferroelectricity",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "cheongMultiferroicsMagneticTwist2007a",
+   "fiebigEvolutionMultiferroics2016",
+   "guanRecentProgressTwoDimensional2020",
+   "spaldinAdvancesMagnetoelectricMultiferroics2019"
+  ]
+ },
+ {
+  "slug": "interlayer-stacking",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "FerroelectricityMultiferroicityAtomic2023",
+   "chowdhuryReviewTheoreticalComputational",
+   "cossuStackingChargedensityWaves2024",
+   "cuiIntercorrelatedInplaneOutofplane2018a"
+  ]
+ },
+ {
+  "slug": "jahn-teller-distortion",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "hillWhyAreThere2000a",
+   "huProgressProspectsLowdimensional2019",
+   "yanagizawaSwitchingChargedensityWave2023",
+   "zhouFirstprinciplesPredictionRedox2004"
+  ]
+ },
+ {
+  "slug": "lone-pair-ferroelectricity",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "Kim2008effect",
+   "bhowalPolarMetalsPrinciples2023b",
+   "rameshMultiferroicsProgressProspects2007",
+   "spaldinAdvancesMagnetoelectricMultiferroics2019"
+  ]
+ },
+ {
+  "slug": "nonlinear-absorption",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "Khitrov2000holographic",
+   "Scremin2018nonlinear",
+   "Unknown2025diffractive",
+   "shuTwoDimensionalBlackArsenic2020"
+  ]
+ },
+ {
+  "slug": "nonlinear-optics",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "Kumar2017microstructuring",
+   "WRZYSZCZYNSKI2010initiators",
+   "Zhang2008synthesis",
+   "shuTwoDimensionalBlackArsenic2020"
+  ]
+ },
+ {
+  "slug": "out-of-plane-polarization",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "dingPredictionIntrinsicTwodimensional2017a",
+   "feiFerroelectricSwitchingTwodimensional2018a",
+   "fengFerroelectricityMultiferroicityTwodimensional2020",
+   "hanTunableSlidingFerroelectricity2025"
+  ]
+ },
+ {
+  "slug": "phase-field-modeling",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "Jin2015studying",
+   "gongAbsenceCriticalThickness2023",
+   "hanPolarTopologicalMaterials2025",
+   "martinThinfilmFerroelectricMaterials2016"
+  ]
+ },
+ {
+  "slug": "spin-density-wave",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "Kang2012dimer",
+   "Makogon2012wave",
+   "cheongMultiferroicsMagneticTwist2007a",
+   "krishnamurthiSpinChargeDensity2020"
+  ]
+ },
+ {
+  "slug": "spin-wave",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "deSousa2008electrical",
+   "liPhaseTransitions2D2021",
+   "rameshMultiferroicsProgressProspects2007",
+   "vanvleckSurveyTheoryFerromagnetism1945"
+  ]
+ },
+ {
+  "slug": "superconductivity",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "CastroNeto2001charge",
+   "Koley2020charge",
+   "Petkov2020hierarchy",
+   "wuElectrostaticGatingIntercalation2022"
+  ]
+ },
+ {
+  "slug": "toroidal-moment",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "cheongMultiferroicsMagneticTwist2007a",
+   "fiebigEvolutionMultiferroics2016",
+   "nahasFrustrationSelfOrderingTopological2016",
+   "spaldinAdvancesMagnetoelectricMultiferroics2019"
+  ]
+ },
+ {
+  "slug": "trap-depth",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "Gulhare2021mechanoluminescence",
+   "KumarChoubey2011mechanoluminescence",
+   "PChandra2011mechanoluminescence",
+   "TSUJI2019phosphorescence"
+  ]
+ },
+ {
+  "slug": "trimerization",
+  "lines": 8,
+  "npapers": 4,
+  "cites": [
+   "guanRecentProgressTwoDimensional2020",
+   "guoAdvancesTwodimensionalFerroelectric2025",
+   "huProgressProspectsLowdimensional2019",
+   "mostovoyMultiferroicsDifferentRoutes2024"
+  ]
+ },
+ {
+  "slug": "1t-phase",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "huProgressProspectsLowdimensional2019",
+   "wongEvidenceMetallic1T",
+   "zhaoRealization2DMultiferroic2024"
+  ]
+ },
+ {
+  "slug": "CINEB",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "chenFerromagneticNonmagnetic1T2022",
+   "fengFerroelectricityMultiferroicityTwodimensional2020",
+   "shenEmergenceMultipleFerroelectric2025"
+  ]
+ },
+ {
+  "slug": "altermagnetism",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "kaurRecentAdvancesTheoretical2025a",
+   "yuFerroelectricControlMagnetism2026",
+   "zhongHighthroughputExfoliationMultiferroic2025"
+  ]
+ },
+ {
+  "slug": "antivortex",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "hanPolarTopologicalMaterials2025",
+   "nahasFrustrationSelfOrderingTopological2016",
+   "xuTunableFerroelectricTopological2022"
+  ]
+ },
+ {
+  "slug": "bulk-photovoltaic-effect",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "guoAdvancesTwodimensionalFerroelectric2025",
+   "huProgressProspectsLowdimensional2019",
+   "martinThinfilmFerroelectricMaterials2016"
+  ]
+ },
+ {
+  "slug": "cohesive-energy",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "dudarevElectronenergylossSpectraStructural1998a",
+   "kresseInitiomolecularDynamicsLiquid1993",
+   "naguib25thAnniversaryArticle2013a"
+  ]
+ },
+ {
+  "slug": "compensation-charge",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "kresseUltrasoftPseudopotentialsProjector1999c",
+   "krishnamurthiSpinChargeDensity2020",
+   "shishkinImplementationPerformanceFrequencydependentGWmethod2006"
+  ]
+ },
+ {
+  "slug": "correlation-energy",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "kresseUltrasoftPseudopotentialsProjector1999c",
+   "perdewGeneralizedGradientApproximation1996a",
+   "vanvleckSurveyTheoryFerromagnetism1945"
+  ]
+ },
+ {
+  "slug": "depletion-layer",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "Chen2016electrical",
+   "Ismail2015humidity",
+   "neumayerCompetingPolarPhases2025"
+  ]
+ },
+ {
+  "slug": "dielectric-function",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "gajdosLinearOpticalProperties2006",
+   "liPhaseTransitions2D2021",
+   "shishkinImplementationPerformanceFrequencydependentGWmethod2006"
+  ]
+ },
+ {
+  "slug": "dipole-locking",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "guanRecentProgressTwoDimensional2020",
+   "guoAdvancesTwodimensionalFerroelectric2025",
+   "huangTwodimensionalIn2Se3Rising2022"
+  ]
+ },
+ {
+  "slug": "direct-exchange",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "chenFerromagneticNonmagnetic1T2022",
+   "fengFerroelectricityMultiferroicityTwodimensional2020",
+   "wuNonvolatileSwitchableHalfmetallicity2024"
+  ]
+ },
+ {
+  "slug": "domain-wall-energy",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "gomez-ortizKittelLawDomain2023",
+   "prosandeevKittelLawInBiFeO3Ultrathin2010",
+   "sunSlidingFerroelectricityTwodimensional2025"
+  ]
+ },
+ {
+  "slug": "dulong-petit-law",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "Zhang2019a",
+   "Zhang2019b",
+   "Zhang2019c"
+  ]
+ },
+ {
+  "slug": "edelstein-effect",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+   "liuSpintronicsTwoDimensionalMaterials2020b",
+   "wuSlidingFerroelectricity2D2021a"
+  ]
+ },
+ {
+  "slug": "electric-write-magnetic-read",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "huProgressProspectsLowdimensional2019",
+   "tianRoomtemperatureTwodimensionalMultiferroic2026",
+   "xiangTwodimensionalRoomTemperature2020"
+  ]
+ },
+ {
+  "slug": "electrocatalysis",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "Wei2021",
+   "vahidmohammadiWorldTwodimensionalCarbides2021",
+   "wangTwodimensionalFerroelectricMetal2025"
+  ]
+ },
+ {
+  "slug": "electron-counting-rule",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "chen3dLevelSymmetry2025",
+   "khazaeiNovelElectronicMagnetic2013",
+   "yanDecipheringStabilityTwodimensional2025"
+  ]
+ },
+ {
+  "slug": "electronic-ferroelectricity",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "chenStrongSlidingFerroelectricity2024",
+   "feiFerroelectricSwitchingTwodimensional2018a",
+   "hillWhyAreThere2000a"
+  ]
+ },
+ {
+  "slug": "embedded-atom-method",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "Zhang2019a",
+   "Zhang2019b",
+   "Zhang2019c"
+  ]
+ },
+ {
+  "slug": "exchange-striction",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "cheongMultiferroicsMagneticTwist2007a",
+   "fiebigEvolutionMultiferroics2016",
+   "mostovoyMultiferroicsDifferentRoutes2024"
+  ]
+ },
+ {
+  "slug": "exfoliation-energy",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "shuTwoDimensionalBlackArsenic2020",
+   "zhongHighthroughputExfoliationMultiferroic2025",
+   "liMonolayerPuckeredPentagonal2022"
+  ]
+ },
+ {
+  "slug": "flux-closure-domain",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "hanPolarTopologicalMaterials2025",
+   "nahasFrustrationSelfOrderingTopological2016",
+   "xuTunableFerroelectricTopological2022"
+  ]
+ },
+ {
+  "slug": "geometric-frustration",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "RecentAdvancesGrowth2025",
+   "nahasFrustrationSelfOrderingTopological2016",
+   "songEvidenceSinglelayerVan2022"
+  ]
+ },
+ {
+  "slug": "magnetic-frustration",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "cheongMultiferroicsMagneticTwist2007a",
+   "gaoGiantChiralMagnetoelectric2024a",
+   "mostovoyMultiferroicsDifferentRoutes2024"
+  ]
+ },
+ {
+  "slug": "negative-capacitance",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "hanPolarTopologicalMaterials2025",
+   "martinThinfilmFerroelectricMaterials2016",
+   "neumayerCompetingPolarPhases2025"
+  ]
+ },
+ {
+  "slug": "out-of-plane-ferroelectricity",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "Jin2015studying",
+   "fengFerroelectricityMultiferroicityTwodimensional2020",
+   "shenEmergenceMultipleFerroelectric2025"
+  ]
+ },
+ {
+  "slug": "pair-distribution-function",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "Petkov2020hierarchy",
+   "Zhang2019a",
+   "petkovStructureIntercalatedCs2002"
+  ]
+ },
+ {
+  "slug": "penetration-depth",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "2019optical",
+   "Terasaki2011ultrasonic",
+   "majumdarInterplayChargeDensity2020"
+  ]
+ },
+ {
+  "slug": "polymorphism",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "Wixtrom2011electrical",
+   "huProgressProspectsLowdimensional2019",
+   "liPhaseTransitions2D2021"
+  ]
+ },
+ {
+  "slug": "projector-functions",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "blochlProjectorAugmentedwaveMethod1994b",
+   "gajdosLinearOpticalProperties2006",
+   "kresseUltrasoftPseudopotentialsProjector1999c"
+  ]
+ },
+ {
+  "slug": "quantum-tunneling",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "chenHafniumBasedFerroelectricPostMoore2026",
+   "gorkovStrongElectronlatticeCoupling2012",
+   "ivanovskiOscillationStructureHall1994"
+  ]
+ },
+ {
+  "slug": "rare-earth-doped-gan",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "Gulhare2021mechanoluminescence",
+   "Khitrov2002internal",
+   "tangMultiferroicityTwodimensionalVan2025"
+  ]
+ },
+ {
+  "slug": "ripplocation",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "wuSlidingFerroelectricity2D2021a",
+   "liPhaseTransitions2D2021",
+   "wangFormationMechanismTwin2019"
+  ]
+ },
+ {
+  "slug": "solvent-relaxation",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "H2017fluorescence",
+   "Huang2019solvatochromic",
+   "Huang2023two"
+  ]
+ },
+ {
+  "slug": "spin-hall-effect",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "kaurRecentAdvancesTheoretical2025a",
+   "liuSpintronicsTwoDimensionalMaterials2020b",
+   "xuTwodimensionalFerroelasticityVan2021"
+  ]
+ },
+ {
+  "slug": "spin-transport",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "liuSpintronicsTwoDimensionalMaterials2020b",
+   "pedramraziManipulatingTopologicalDomain2019",
+   "spaldinAdvancesMagnetoelectricMultiferroics2019"
+  ]
+ },
+ {
+  "slug": "spontaneous-strain",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "liFerroelasticityDomainPhysics2016",
+   "xuTwodimensionalFerroelasticityVan2021",
+   "yangRipplingFerroicPhase2021"
+  ]
+ },
+ {
+  "slug": "stacking-engineering",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "sunSlidingFerroelectricityTwodimensional2025",
+   "wuSlidingFerroelectricity2D2021a",
+   "xunCoexistingMagnetismFerroelectric2024"
+  ]
+ },
+ {
+  "slug": "strain-relaxation",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "Kim2008effect",
+   "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+   "tangMultiferroicityTwodimensionalVan2025"
+  ]
+ },
+ {
+  "slug": "super-paraelectricity",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "heUltrafastSwitchingDynamics2024",
+   "sunSlidingFerroelectricityTwodimensional2025",
+   "wuSlidingFerroelectricity2D2021a"
+  ]
+ },
+ {
+  "slug": "temperature-compensation",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "Unknown2014optical",
+   "XiaokangZhang2013calibrating",
+   "Yarai2005optical"
+  ]
+ },
+ {
+  "slug": "topochemical-reaction",
+  "lines": 7,
+  "npapers": 3,
+  "cites": [
+   "kawakamiChargedensityWaveAssociated2023",
+   "naguib25thAnniversaryArticle2013a",
+   "wuElectrostaticGatingIntercalation2022"
+  ]
+ }
+]

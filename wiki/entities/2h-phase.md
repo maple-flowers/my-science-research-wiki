@@ -43,6 +43,6 @@ updated: 2026-08
 
 ## 🔗 关联概念与实体 (Related Concepts & Entities)
 
-- [[../entities/1t-phase|1T 相]]
+- [[../concepts/1t-phase|1T 相]]
 - [[../entities/MoS2|二硫化钼 (MoS2)]]
 - [[../entities/WS2|二硫化钨 (WS2)]]

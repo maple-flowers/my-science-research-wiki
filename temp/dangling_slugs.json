@@ -1,0 +1,886 @@
+{
+ "p-orbital-magnetism": {
+  "type": "concepts",
+  "papers": [
+   "aiFerroelectricityCoexistedPorbital2022"
+  ]
+ },
+ "stoner-criterion": {
+  "type": "concepts",
+  "papers": [
+   "aiFerroelectricityCoexistedPorbital2022"
+  ]
+ },
+ "Tl2NO2": {
+  "type": "entities",
+  "papers": [
+   "aiFerroelectricityCoexistedPorbital2022"
+  ]
+ },
+ "domain-wall-nucleation": {
+  "type": "concepts",
+  "papers": [
+   "Chen2016electrical"
+  ]
+ },
+ "depletion-layer-readout": {
+  "type": "concepts",
+  "papers": [
+   "Chen2016electrical"
+  ]
+ },
+ "mcmillan-ginzburg-landau-theory": {
+  "type": "concepts",
+  "papers": [
+   "Chen2019superconductivity"
+  ]
+ },
+ "superconducting-dome": {
+  "type": "concepts",
+  "papers": [
+   "Chen2019superconductivity"
+  ]
+ },
+ "RMn2O5": {
+  "type": "entities",
+  "papers": [
+   "cheongMultiferroicsMagneticTwist2007a"
+  ]
+ },
+ "scanning-electron-diffraction": {
+  "type": "concepts",
+  "papers": [
+   "cuiIntercorrelatedInplaneOutofplane2018a"
+  ]
+ },
+ "iii2-vi3-compounds": {
+  "type": "entities",
+  "papers": [
+   "dingPredictionIntrinsicTwodimensional2017a"
+  ]
+ },
+ "coherent-state-ansatz": {
+  "type": "concepts",
+  "papers": [
+   "fornerQuantumTemperatureEffects1993"
+  ]
+ },
+ "tissue-engineering-scaffold": {
+  "type": "entities",
+  "papers": [
+   "Gittard2013polymerization"
+  ]
+ },
+ "holstein-model": {
+  "type": "concepts",
+  "papers": [
+   "gorkovStrongElectronlatticeCoupling2012"
+  ]
+ },
+ "aimd": {
+  "type": "concepts",
+  "papers": [
+   "hanTunableSlidingFerroelectricity2025"
+  ]
+ },
+ "neb": {
+  "type": "concepts",
+  "papers": [
+   "hanTunableSlidingFerroelectricity2025"
+  ]
+ },
+ "dft-d2": {
+  "type": "concepts",
+  "papers": [
+   "hanTunableSlidingFerroelectricity2025"
+  ]
+ },
+ "variable-spring-constants": {
+  "type": "concepts",
+  "papers": [
+   "henkelmanClimbingImageNudged2000c"
+  ]
+ },
+ "domain-wall-texture": {
+  "type": "concepts",
+  "papers": [
+   "heUltrafastSwitchingDynamics2024"
+  ]
+ },
+ "domain-wall-pinning": {
+  "type": "concepts",
+  "papers": [
+   "heUltrafastSwitchingDynamics2024"
+  ]
+ },
+ "mo-te2": {
+  "type": "entities",
+  "papers": [
+   "houStrainbasedRoomtemperatureNonvolatile2019"
+  ]
+ },
+ "straintronics": {
+  "type": "concepts",
+  "papers": [
+   "houStrainbasedRoomtemperatureNonvolatile2019"
+  ]
+ },
+ "phase-change-transistor": {
+  "type": "entities",
+  "papers": [
+   "houStrainbasedRoomtemperatureNonvolatile2019"
+  ]
+ },
+ "contact-stress-bias": {
+  "type": "concepts",
+  "papers": [
+   "houStrainbasedRoomtemperatureNonvolatile2019"
+  ]
+ },
+ "schottky-junction": {
+  "type": "concepts",
+  "papers": [
+   "houStrainbasedRoomtemperatureNonvolatile2019"
+  ]
+ },
+ "III2-VI3-compounds": {
+  "type": "entities",
+  "papers": [
+   "huangTwodimensionalIn2Se3Rising2022"
+  ]
+ },
+ "ferroelectric-semiconductor-devices": {
+  "type": "entities",
+  "papers": [
+   "huangTwodimensionalIn2Se3Rising2022"
+  ]
+ },
+ "beta0-phase": {
+  "type": "concepts",
+  "papers": [
+   "huangTwodimensionalIn2Se3Rising2022"
+  ]
+ },
+ "beta-pc-phase": {
+  "type": "concepts",
+  "papers": [
+   "huangTwodimensionalIn2Se3Rising2022"
+  ]
+ },
+ "three-orbital-model": {
+  "type": "concepts",
+  "papers": [
+   "Kang2012dimer"
+  ]
+ },
+ "t-matrix-impurity-scattering": {
+  "type": "concepts",
+  "papers": [
+   "Kang2012dimer"
+  ]
+ },
+ "higher-order-fs-nesting": {
+  "type": "concepts",
+  "papers": [
+   "kawakamiChargedensityWaveAssociated2023"
+  ]
+ },
+ "charge-density-mixing": {
+  "type": "concepts",
+  "papers": [
+   "kresseEfficiencyAbinitioTotal1996a"
+  ]
+ },
+ "iterative-diagonalization": {
+  "type": "concepts",
+  "papers": [
+   "kresseEfficiencyAbinitioTotal1996a"
+  ]
+ },
+ "finite-temperature-dft": {
+  "type": "concepts",
+  "papers": [
+   "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994"
+  ]
+ },
+ "amorphous-semiconductor": {
+  "type": "concepts",
+  "papers": [
+   "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994"
+  ]
+ },
+ "dangling-bond-floating-bond": {
+  "type": "concepts",
+  "papers": [
+   "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994"
+  ]
+ },
+ "cu-crp2s6": {
+  "type": "entities",
+  "papers": [
+   "laiTwodimensionalFerromagnetismDriven2019"
+  ]
+ },
+ "type-i-multiferroic": {
+  "type": "concepts",
+  "papers": [
+   "laiTwodimensionalFerromagnetismDriven2019"
+  ]
+ },
+ "spin-dipole-valley-coupling": {
+  "type": "concepts",
+  "papers": [
+   "laiTwodimensionalFerromagnetismDriven2019"
+  ]
+ },
+ "unidirectional-magnetic-anisotropy": {
+  "type": "concepts",
+  "papers": [
+   "laiTwodimensionalFerromagnetismDriven2019"
+  ]
+ },
+ "abp2x6-family": {
+  "type": "entities",
+  "papers": [
+   "laiTwodimensionalFerromagnetismDriven2019"
+  ]
+ },
+ "cdw-tronics": {
+  "type": "concepts",
+  "papers": [
+   "lezoualchStudyChargeDensity"
+  ]
+ },
+ "negf-transport": {
+  "type": "concepts",
+  "papers": [
+   "lezoualchStudyChargeDensity"
+  ]
+ },
+ "sscha": {
+  "type": "concepts",
+  "papers": [
+   "lezoualchStudyChargeDensity"
+  ]
+ },
+ "puckered-pentagonal-structure": {
+  "type": "concepts",
+  "papers": [
+   "liMonolayerPuckeredPentagonal2022"
+  ]
+ },
+ "PP-VTe2": {
+  "type": "entities",
+  "papers": [
+   "liMonolayerPuckeredPentagonal2022"
+  ]
+ },
+ "ferromagnetic-semiconductor": {
+  "type": "concepts",
+  "papers": [
+   "liMonolayerPuckeredPentagonal2022"
+  ]
+ },
+ "PdSe2": {
+  "type": "entities",
+  "papers": [
+   "liMonolayerPuckeredPentagonal2022"
+  ]
+ },
+ "mermin-wagner-theorem": {
+  "type": "concepts",
+  "papers": [
+   "liPhaseTransitions2D2021"
+  ]
+ },
+ "displacive-phase-transition": {
+  "type": "concepts",
+  "papers": [
+   "liPhaseTransitions2D2021"
+  ]
+ },
+ "diffusive-phase-transition": {
+  "type": "concepts",
+  "papers": [
+   "liPhaseTransitions2D2021"
+  ]
+ },
+ "quantum-phase-transition": {
+  "type": "concepts",
+  "papers": [
+   "liPhaseTransitions2D2021"
+  ]
+ },
+ "euler-buckling": {
+  "type": "concepts",
+  "papers": [
+   "liPhaseTransitions2D2021"
+  ]
+ },
+ "electrostatic-doping": {
+  "type": "concepts",
+  "papers": [
+   "liPhaseTransitions2D2021"
+  ]
+ },
+ "optomechanical-phase-change": {
+  "type": "concepts",
+  "papers": [
+   "liPhaseTransitions2D2021"
+  ]
+ },
+ "interfacial-phase-change-memory": {
+  "type": "entities",
+  "papers": [
+   "liPhaseTransitions2D2021"
+  ]
+ },
+ "quantum-spin-hall": {
+  "type": "concepts",
+  "papers": [
+   "liPhaseTransitions2D2021"
+  ]
+ },
+ "stt-mram": {
+  "type": "entities",
+  "papers": [
+   "liuSpintronicsTwoDimensionalMaterials2020b"
+  ]
+ },
+ "spiral-magnetism": {
+  "type": "concepts",
+  "papers": [
+   "mostovoyMultiferroicsDifferentRoutes2024"
+  ]
+ },
+ "spin-peierls": {
+  "type": "concepts",
+  "papers": [
+   "mostovoyMultiferroicsDifferentRoutes2024"
+  ]
+ },
+ "surface-terminations": {
+  "type": "concepts",
+  "papers": [
+   "naguib25thAnniversaryArticle2013a"
+  ]
+ },
+ "intercalation-delamination": {
+  "type": "concepts",
+  "papers": [
+   "naguib25thAnniversaryArticle2013a"
+  ]
+ },
+ "conductive-clays": {
+  "type": "concepts",
+  "papers": [
+   "naguib25thAnniversaryArticle2013a"
+  ]
+ },
+ "cips-cu-in-p2s6": {
+  "type": "entities",
+  "papers": [
+   "neumayerCompetingPolarPhases2025"
+  ]
+ },
+ "cipse-cu-in-p2se6": {
+  "type": "entities",
+  "papers": [
+   "neumayerCompetingPolarPhases2025"
+  ]
+ },
+ "transition-metal-thio-selenophosphates": {
+  "type": "entities",
+  "papers": [
+   "neumayerCompetingPolarPhases2025"
+  ]
+ },
+ "competing-polar-phases": {
+  "type": "concepts",
+  "papers": [
+   "neumayerCompetingPolarPhases2025"
+  ]
+ },
+ "ionic-polar-coupling": {
+  "type": "concepts",
+  "papers": [
+   "neumayerCompetingPolarPhases2025"
+  ]
+ },
+ "negative-piezoelectricity": {
+  "type": "concepts",
+  "papers": [
+   "neumayerCompetingPolarPhases2025",
+   "wuSlidingFerroelectricity2D2021a"
+  ]
+ },
+ "in-gap-ferroelectric-phase": {
+  "type": "concepts",
+  "papers": [
+   "neumayerCompetingPolarPhases2025"
+  ]
+ },
+ "ccps-cucrp2s6": {
+  "type": "entities",
+  "papers": [
+   "neumayerCompetingPolarPhases2025"
+  ]
+ },
+ "ips-in43p2s6": {
+  "type": "entities",
+  "papers": [
+   "neumayerCompetingPolarPhases2025"
+  ]
+ },
+ "HLME-method": {
+  "type": "concepts",
+  "papers": [
+   "noseUnifiedFormulationConstant1984"
+  ]
+ },
+ "coordination-polyhedron-distortion": {
+  "type": "concepts",
+  "papers": [
+   "Petkov2020hierarchy"
+  ]
+ },
+ "tase2-xtex-solid-solution": {
+  "type": "entities",
+  "papers": [
+   "Petkov2020hierarchy"
+  ]
+ },
+ "ionic-radius-ratio-criterion": {
+  "type": "concepts",
+  "papers": [
+   "Petkov2020hierarchy"
+  ]
+ },
+ "resonant-differential-pdf": {
+  "type": "concepts",
+  "papers": [
+   "Petkov2020hierarchy"
+  ]
+ },
+ "vapor-deposition-growth": {
+  "type": "concepts",
+  "papers": [
+   "RecentAdvancesGrowth2025"
+  ]
+ },
+ "debye-screening-length": {
+  "type": "concepts",
+  "papers": [
+   "sharmaRoomtemperatureFerroelectricSemimetal2019"
+  ]
+ },
+ "incomplete-screening": {
+  "type": "concepts",
+  "papers": [
+   "sharmaRoomtemperatureFerroelectricSemimetal2019"
+  ]
+ },
+ "ferroelectric-domain-wall": {
+  "type": "concepts",
+  "papers": [
+   "sharmaRoomtemperatureFerroelectricSemimetal2019"
+  ]
+ },
+ "plasmon-pole-model": {
+  "type": "concepts",
+  "papers": [
+   "shishkinImplementationPerformanceFrequencydependentGWmethod2006"
+  ]
+ },
+ "mode-locked-fiber-laser": {
+  "type": "entities",
+  "papers": [
+   "shuTwoDimensionalBlackArsenic2020"
+  ]
+ },
+ "proper-screw": {
+  "type": "concepts",
+  "papers": [
+   "songEvidenceSinglelayerVan2022"
+  ]
+ },
+ "gknb-model": {
+  "type": "concepts",
+  "papers": [
+   "songEvidenceSinglelayerVan2022"
+  ]
+ },
+ "four-state-method": {
+  "type": "concepts",
+  "papers": [
+   "songEvidenceSinglelayerVan2022"
+  ]
+ },
+ "magnetoelectric-multipoles": {
+  "type": "concepts",
+  "papers": [
+   "spaldinAdvancesMagnetoelectricMultiferroics2019"
+  ]
+ },
+ "second-principles-calculations": {
+  "type": "concepts",
+  "papers": [
+   "spaldinAdvancesMagnetoelectricMultiferroics2019"
+  ]
+ },
+ "meso-logic-device": {
+  "type": "entities",
+  "papers": [
+   "spaldinAdvancesMagnetoelectricMultiferroics2019"
+  ]
+ },
+ "multiferroic-family-tree": {
+  "type": "concepts",
+  "papers": [
+   "spaldinAdvancesMagnetoelectricMultiferroics2019"
+  ]
+ },
+ "spin-spiral-multiferroics": {
+  "type": "concepts",
+  "papers": [
+   "spaldinAdvancesMagnetoelectricMultiferroics2019"
+  ]
+ },
+ "inverse-rashba-edelstein-effect": {
+  "type": "concepts",
+  "papers": [
+   "spaldinAdvancesMagnetoelectricMultiferroics2019"
+  ]
+ },
+ "composite-multiferroics": {
+  "type": "concepts",
+  "papers": [
+   "spaldinRenaissanceMagnetoelectricMultiferroics2005"
+  ]
+ },
+ "Terfenol-D": {
+  "type": "entities",
+  "papers": [
+   "spaldinRenaissanceMagnetoelectricMultiferroics2005"
+  ]
+ },
+ "3r-phase": {
+  "type": "concepts",
+  "papers": [
+   "sunSlidingFerroelectricityTwodimensional2025"
+  ]
+ },
+ "twist-angle-engineering": {
+  "type": "concepts",
+  "papers": [
+   "sunSlidingFerroelectricityTwodimensional2025"
+  ]
+ },
+ "fatigue-free-switching": {
+  "type": "concepts",
+  "papers": [
+   "sunSlidingFerroelectricityTwodimensional2025"
+  ]
+ },
+ "fefet": {
+  "type": "entities",
+  "papers": [
+   "sunSlidingFerroelectricityTwodimensional2025"
+  ]
+ },
+ "neuromorphic-synaptic-device": {
+  "type": "entities",
+  "papers": [
+   "sunSlidingFerroelectricityTwodimensional2025"
+  ]
+ },
+ "landau-theory": {
+  "type": "concepts",
+  "papers": [
+   "sunSlidingFerroelectricityTwodimensional2025"
+  ]
+ },
+ "chiral-phonons": {
+  "type": "concepts",
+  "papers": [
+   "sunSlidingFerroelectricityTwodimensional2025"
+  ]
+ },
+ "4d-stem": {
+  "type": "concepts",
+  "papers": [
+   "sunSlidingFerroelectricityTwodimensional2025"
+  ]
+ },
+ "ss-pfm": {
+  "type": "concepts",
+  "papers": [
+   "sunSlidingFerroelectricityTwodimensional2025"
+  ]
+ },
+ "vector-pfm": {
+  "type": "concepts",
+  "papers": [
+   "sunSlidingFerroelectricityTwodimensional2025"
+  ]
+ },
+ "kpfm": {
+  "type": "concepts",
+  "papers": [
+   "sunSlidingFerroelectricityTwodimensional2025"
+  ]
+ },
+ "MAX-phase": {
+  "type": "entities",
+  "papers": [
+   "tahirFerroelectricityNonvolatileMemristor2025"
+  ]
+ },
+ "optical-humidity-sensing": {
+  "type": "concepts",
+  "papers": [
+   "Tobeiha2025optical"
+  ]
+ },
+ "p-type-doping": {
+  "type": "concepts",
+  "papers": [
+   "Tobeiha2025optical"
+  ]
+ },
+ "sonochemical-exfoliation": {
+  "type": "concepts",
+  "papers": [
+   "Tobeiha2025optical"
+  ]
+ },
+ "hydrostatic-pressure-cell": {
+  "type": "entities",
+  "papers": [
+   "TSUJI2019phosphorescence"
+  ]
+ },
+ "elastomeric-composite": {
+  "type": "entities",
+  "papers": [
+   "TSUJI2019phosphorescence"
+  ]
+ },
+ "passive-micromixer": {
+  "type": "entities",
+  "papers": [
+   "Unknown2014passive"
+  ]
+ },
+ "chaotic-advection": {
+  "type": "concepts",
+  "papers": [
+   "Unknown2014passive"
+  ]
+ },
+ "PDMS": {
+  "type": "entities",
+  "papers": [
+   "Unknown2014passive"
+  ]
+ },
+ "COMSOL-multiphysics": {
+  "type": "entities",
+  "papers": [
+   "Unknown2014passive"
+  ]
+ },
+ "mixing-index": {
+  "type": "concepts",
+  "papers": [
+   "Unknown2014passive"
+  ]
+ },
+ "dftb-density-functional-tight-binding": {
+  "type": "concepts",
+  "papers": [
+   "Wu2021"
+  ]
+ },
+ "adsorption-energy-landscape": {
+  "type": "concepts",
+  "papers": [
+   "Wu2021"
+  ]
+ },
+ "magneto-optical-electric-joint-measurement": {
+  "type": "concepts",
+  "papers": [
+   "wuCoexistenceFerroelectricityAntiferroelectricity2024"
+  ]
+ },
+ "electric-double-layer": {
+  "type": "concepts",
+  "papers": [
+   "wuElectrostaticGatingIntercalation2022"
+  ]
+ },
+ "infinite-layer-nickelates": {
+  "type": "entities",
+  "papers": [
+   "wuElectrostaticGatingIntercalation2022"
+  ]
+ },
+ "molybdenum-disulfide": {
+  "type": "entities",
+  "papers": [
+   "wuElectrostaticGatingIntercalation2022"
+  ]
+ },
+ "metastable-phase": {
+  "type": "concepts",
+  "papers": [
+   "wuElectrostaticGatingIntercalation2022"
+  ]
+ },
+ "metallic-ferroelectricity": {
+  "type": "concepts",
+  "papers": [
+   "wuSlidingFerroelectricity2D2021a",
+   "zhaoRealization2DMultiferroic2024"
+  ]
+ },
+ "ferroelectric-nonlinear-anomalous-hall-effect": {
+  "type": "concepts",
+  "papers": [
+   "wuSlidingFerroelectricity2D2021a"
+  ]
+ },
+ "stacking-sequence-engineering": {
+  "type": "concepts",
+  "papers": [
+   "wuSlidingFerroelectricity2D2021a"
+  ]
+ },
+ "domain-wall-classification": {
+  "type": "concepts",
+  "papers": [
+   "xuTwodimensionalFerroelasticityVan2021"
+  ]
+ },
+ "arpes": {
+  "type": "concepts",
+  "papers": [
+   "yanagizawaSwitchingChargedensityWave2023"
+  ]
+ },
+ "mbe-rheed": {
+  "type": "concepts",
+  "papers": [
+   "yanagizawaSwitchingChargedensityWave2023"
+  ]
+ },
+ "k-deposition-doping": {
+  "type": "concepts",
+  "papers": [
+   "yanagizawaSwitchingChargedensityWave2023"
+  ]
+ },
+ "iii-v-semiconductors": {
+  "type": "entities",
+  "papers": [
+   "yanDecipheringStabilityTwodimensional2025"
+  ]
+ },
+ "tt-structure": {
+  "type": "concepts",
+  "papers": [
+   "yanDecipheringStabilityTwodimensional2025"
+  ]
+ },
+ "dlhc-structure": {
+  "type": "concepts",
+  "papers": [
+   "yanDecipheringStabilityTwodimensional2025"
+  ]
+ },
+ "dbscan-clustering": {
+  "type": "concepts",
+  "papers": [
+   "yanDecipheringStabilityTwodimensional2025"
+  ]
+ },
+ "electron-counting-rule-surface": {
+  "type": "concepts",
+  "papers": [
+   "yanDecipheringStabilityTwodimensional2025"
+  ]
+ },
+ "carrier-mobility": {
+  "type": "concepts",
+  "papers": [
+   "yanDecipheringStabilityTwodimensional2025"
+  ]
+ },
+ "e2-e4-edge-sharing-structures": {
+  "type": "concepts",
+  "papers": [
+   "yanDecipheringStabilityTwodimensional2025"
+  ]
+ },
+ "A36-low-carbon-steel": {
+  "type": "entities",
+  "papers": [
+   "Zhang2003a"
+  ]
+ },
+ "thiele-equation": {
+  "type": "concepts",
+  "papers": [
+   "zhangNonvolatileControlTopological2025"
+  ]
+ },
+ "magnetic-skyrmion": {
+  "type": "concepts",
+  "papers": [
+   "zhaoRealization2DMultiferroic2024"
+  ]
+ },
+ "AM2X4-intercalation-family": {
+  "type": "entities",
+  "papers": [
+   "zhaoRealization2DMultiferroic2024"
+  ]
+ },
+ "linear-response-u": {
+  "type": "concepts",
+  "papers": [
+   "zhouFirstprinciplesPredictionRedox2004"
+  ]
+ },
+ "unparticles": {
+  "type": "concepts",
+  "papers": [
+   "Şahin2009probe"
+  ]
+ },
+ "equivalent-photon-approximation": {
+  "type": "concepts",
+  "papers": [
+   "Şahin2009probe"
+  ]
+ },
+ "exclusive-production": {
+  "type": "concepts",
+  "papers": [
+   "Şahin2009probe"
+  ]
+ },
+ "scale-invariance": {
+  "type": "concepts",
+  "papers": [
+   "Şahin2009probe"
+  ]
+ },
+ "conformal-invariance": {
+  "type": "concepts",
+  "papers": [
+   "Şahin2009probe"
+  ]
+ }
+}

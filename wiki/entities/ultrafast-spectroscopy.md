@@ -1,7 +1,7 @@
 ---
-tags: [concept, photophysics, spectroscopy]
+tags: [entity, photophysics, spectroscopy]
 title: 超快光谱学 / Ultrafast Spectroscopy
-type: concept
+type: entity
 status: developing
 domain: [ultrafast-optics, photophysics, solid-state-physics]
 mechanism: 利用飞秒（10^-15 s）或阿秒（10^-18 s）量级的极短脉冲激光研究物质在极短时间尺度内的动力学过程

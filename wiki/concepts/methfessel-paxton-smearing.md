@@ -22,10 +22,8 @@ Methfessel-Paxton (MP) 展宽是第一性原理计算中处理金属体系电子
 
 ## 🏗️ 结构概览
 
-![图：自由能随展宽参数 sigma 的收敛情况](../../raw/figures/kresseEfficiencyAbinitioTotal1996a/fig_1_D42XHL87.png)
-*   注：此处引用论文中图1说明收敛性，实际图中对比了高斯展宽与 MP 展宽。
-*   **看图要点**：随着展宽参数 $\sigma$ 增大，MP 展宽（$N \ge 1$）的自由能在很大范围内保持平稳，这意味着我们可以使用较大的展宽而不会损失太多精度。
-*   **来源**：[[../papers/kresseEfficiencyAbinitioTotal1996a]] -> [[../figures/mathematical-models-computational|计算方法与泛函]]
+Methfessel-Paxton 展宽的核心是在费米能级附近用一个逐阶修正的平滑函数替代严格的阶跃占据。其结构可理解为：零阶即高斯展宽，高阶（N=1,2,…）通过 Hermite 多项式对分布函数施加过冲修正，从而让积分对展宽参数 σ 的敏感度逐阶下降。配合部分占据权重参与自洽循环，构成金属体系布里渊区积分的标准预处理结构。
+
 
 ## 🧩 物理机制
 

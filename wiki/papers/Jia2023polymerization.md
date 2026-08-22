@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/Jia2023polymerization]]
 projects: []
-concepts: [two-photon-polymerization, aberration-correction, bessel-beams, high-order-bessel-beams, orbital-angular-momentum, adaptive-optics, wavefront-sensing, optical-vortex, diffraction-free-beam, photopolymerization, self-healing-beam, complex-amplitude-modulation, bessel-beam]
+concepts: [two-photon-polymerization, aberration-correction, bessel-beam, high-order-bessel-beams, orbital-angular-momentum, adaptive-optics, wavefront-sensing, optical-vortex, diffraction-free-beam, photopolymerization, self-healing-beam, complex-amplitude-modulation]
 entities: [spatial-light-modulator, BBO-crystal, SU-8, CCD-camera, Holoeye-PLUTO, Olympus-20x-objective, ZEISS-Gemini-300, femtosecond-fiber-laser, mechanical-shutter, ND-filter]
 methods: [multichannel-interferometric-wavefront-sensing, two-photon-polymerization, scanning-electron-microscopy, angular-spectrum-method, computer-generated-hologram, blazed-grating-diffraction, phase-only-modulation, fourier-spectrum-imaging, circularity-analysis]
 materials: [SU-8-2075, cyclopentanone]

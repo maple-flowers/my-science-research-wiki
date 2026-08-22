@@ -2,7 +2,7 @@
 tags: [concept, electronics, spintronics]
 title: 谷电子学 (Valleytronics)
 type: concept
-status: mature
+status: developing
 domain: [solid-state-physics, 2d-materials, optoelectronics]
 mechanism: 利用半导体能带结构中动量空间不相等的能量极小值（谷）作为信息载体
 related_concepts: [2d-materials, spin-orbit-coupling, berry-phase, spin-relaxation]
@@ -11,6 +11,11 @@ updated: 2026-08
 ---
 
 # 谷电子学 / Valleytronics
+
+> [!warning] 本页内容待重写（贡献句部分）
+> 本页「相关论文」中部分条目的贡献句为占位或缺失，尚未逐篇核实该论文对本条目的具体贡献。
+> 太奶导读与正文可参考。（标记于 2026-08-21）
+
 
 谷电子学 (Valleytronics) 是一种利用半导体（特别是二维材料）能带结构中动量空间处不相等的能量极小值（称为“谷”，Valley）来存储和处理信息的科学。它被视为继“电子学”（利用电荷）和“自旋电子学”（利用自旋）之后，又一个重要的新型信息处理范式。
 

@@ -1,0 +1,150 @@
+== entities/Cd3Cl6 | lines=5 | fm=False | status=- | type=-
+   H1: # Cd3Cl6
+   papers: ['sunSlidingFerroelectricityTwodimensional2025']
+   alias_sec=False
+   preview: - [[../papers/sunSlidingFerroelectricityTwodimensional2025]] — Sliding ferroelectricity in two-dimensional materials and device applications
+== entities/CdTe | lines=5 | fm=False | status=- | type=-
+   H1: # CdTe
+   papers: ['Mińkowski2021cation']
+   alias_sec=False
+   preview: - [[../papers/Mińkowski2021cation]] — Cation interstitial diffusion in lead telluride and cadmium telluride studied by means of neural network potential based molecular dynamics simulations
+== concepts/cdw-blends-displacements | lines=5 | fm=False | status=- | type=-
+   H1: # cdw-blends-displacements
+   papers: ['cossuStackingChargedensityWaves2024']
+   alias_sec=False
+   preview: - [[../papers/cossuStackingChargedensityWaves2024]] — Stacking of charge-density waves in 2H-NbSe₂ bilayers
+== concepts/cdw-mott-phase | lines=5 | fm=False | status=- | type=-
+   H1: # cdw-mott-phase
+   papers: ['nakataRobustChargedensityWave2021']
+   alias_sec=False
+   preview: - [[../papers/nakataRobustChargedensityWave2021]] — Robust charge-density wave strengthened by electron correlations in monolayer 1T-TaSe2 and 1T-NbSe2
+== concepts/cdw-tronics | lines=5 | fm=False | status=- | type=-
+   H1: # cdw-tronics
+   papers: ['lezoualchStudyChargeDensity']
+   alias_sec=False
+   preview: - [[../papers/lezoualchStudyChargeDensity]] — Study of charge density waves in transition metal dichalcogenides
+== concepts/cellular-automaton | lines=6 | fm=False | status=- | type=-
+   H1: # cellular-automaton
+   papers: ['Zhang2002b', 'Zhang2003a']
+   alias_sec=False
+   preview: - [[../papers/Zhang2002b]] — Cellular automaton model to simulate nucleation and growth of ferrite grains for low-carbon steels | - [[../papers/Zhang2003a]] — A cellular automaton investigation of the transformation from austenite to ferrite during continuous cooling
+== entities/cementite | lines=6 | fm=False | status=- | type=-
+   H1: # cementite
+   papers: ['Zhang2002b', 'Zhang2003a']
+   alias_sec=False
+   preview: - [[../papers/Zhang2002b]] — Cellular automaton model to simulate nucleation and growth of ferrite grains for low-carbon steels | - [[../papers/Zhang2003a]] — A cellular automaton investigation of the transformation from austenite to ferrite during continuous cooling
+== concepts/cementite-precipitation | lines=6 | fm=False | status=- | type=-
+   H1: # cementite-precipitation
+   papers: ['Zhang2002b', 'Zhang2003a']
+   alias_sec=False
+   preview: - [[../papers/Zhang2002b]] — Cellular automaton model to simulate nucleation and growth of ferrite grains for low-carbon steels | - [[../papers/Zhang2003a]] — A cellular automaton investigation of the transformation from austenite to ferrite during continuous cooling
+== entities/CeTe3 | lines=5 | fm=False | status=- | type=-
+   H1: # CeTe3
+   papers: ['Johannes2008fermi']
+   alias_sec=False
+   preview: - [[../papers/Johannes2008fermi]] — Fermi surface nesting and the origin of charge density waves in metals
+== concepts/cew-tronics | lines=5 | fm=False | status=- | type=-
+   H1: # cew-tronics
+   papers: ['lezoualchStudyChargeDensity']
+   alias_sec=False
+   preview: - [[../papers/lezoualchStudyChargeDensity]] — Study of charge density waves in transition metal dichalcogenides
+== concepts/chadi-cohen-method | lines=5 | fm=False | status=- | type=-
+   H1: # chadi-cohen-method
+   papers: ['monkhorstSpecialPointsBrillouinzone1976']
+   alias_sec=False
+   preview: - [[../papers/monkhorstSpecialPointsBrillouinzone1976]] — Special points for Brillouin-zone integrations
+== concepts/chaotic-advection | lines=5 | fm=False | status=- | type=-
+   H1: # chaotic-advection
+   papers: ['Unknown2014passive']
+   alias_sec=False
+   preview: - [[../papers/Unknown2014passive]] — Three-Dimensional Passive Micromixer Fabricated by Two-Photon Polymerization for Microfluidic Mixing
+== concepts/charge-density | lines=25 | fm=False | status=- | type=-
+   H1: # charge-density
+   papers: ['PChandra2011mechanoluminescence', 'blochlProjectorAugmentedwaveMethod1994b', 'chenStrongSlidingFerroelectricity2024', 'cossuStackingChargedensityWaves2024', 'dudarevElectronenergylossSpectraStructural1998a', 'guoAdvancesTwodimensionalFerroelectric2025', 'hanTunableSlidingFerroelectricity2025', 'kresseInitiomolecularDynamicsLiquid1993', 'sharmaRoomtemperatureFerroelectricSemimetal2019', 'shenEmergenceMultipleFerroelectric2025', 'shishkinImplementationPerformanceFrequencydependentGWmethod2006', 'shuTwoDimensionalBlackArsenic2020', 'tangCombiningIntrinsicSlidinginduced2025', 'tangGridbasedBaderAnalysis2009', 'tianRoomtemperatureTwodimensionalMultiferroic2026', 'wangTwodimensionalFerroelectricMetal2025', 'wongEvidenceMetallic1T', 'wuSlidingFerroelectricity2D2021a', 'zhangEmergingFrontiersTwodimensional2025', 'zhangNonvolatileControlTopological2025', 'zhengAnisotropicSuperconductivityTwodimensional2025']
+   alias_sec=False
+   preview: - [[../papers/PChandra2011mechanoluminescence]] — Mechanoluminescence of Nanoparticles | - [[../papers/blochlProjectorAugmentedwaveMethod1994b]] — Projector augmented-wave method | - [[../papers/chenStrongSlidingFerroelectricity2024]] — Strong Sliding Ferroelectricity and Interlayer Sliding Controll
+== concepts/charge-density-mixing | lines=5 | fm=False | status=- | type=-
+   H1: # charge-density-mixing
+   papers: ['kresseEfficiencyAbinitioTotal1996a']
+   alias_sec=False
+   preview: - [[../papers/kresseEfficiencyAbinitioTotal1996a]] — Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set
+== concepts/charge-density-wave | lines=86 | fm=True | status=mature | type=concept
+   H1: # 电荷密度波 / Charge Density Wave (CDW)
+   papers: ['Barnett2006coexistence', 'CastroNeto2001charge', 'Chen2019superconductivity', 'Inosov2008fermi', 'Islam2025enhancement', 'Johannes2008fermi', 'Kang2012dimer', 'Koley2020charge', 'Laverock2005fermi', 'Makogon2012wave', 'Petkov2020hierarchy', 'chenFerromagneticNonmagnetic1T2022', 'chowdhuryReviewTheoreticalComputational', 'cossuStackingChargedensityWaves2024', 'gorkovStrongElectronlatticeCoupling2012', 'guanRecentProgressTwoDimensional2020', 'hallEnvironmentalControlCharge', 'kaurRecentAdvancesTheoretical2025a', 'kawakamiChargedensityWaveAssociated2023', 'kimObservationPhaseTransition1997', 'krishnamurthiSpinChargeDensity2020', 'lezoualchStudyChargeDensity', 'liMonolayerPuckeredPentagonal2022', 'liPhaseTransitions2D2021', 'lvUnconventionalHystereticTransition2022', 'majumdarInterplayChargeDensity2020', 'mostovoyMultiferroicsDifferentRoutes2024', 'nakataRobustChargedensityWave2021', 'nicholsonUniaxialStraininducedPhase2021', 'petkovStructureIntercalatedCs2002', 'sunSlidingFerroelectricityTwodimensional2025', 'tangCombiningIntrinsicSlidinginduced2025', 'wangFormationMechanismTwin2019', 'wongEvidenceMetallic1T', 'wuElectrostaticGatingIntercalation2022', 'yanagizawaSwitchingChargedensityWave2023', 'zhengAnisotropicSuperconductivityTwodimensional2025']
+   alias_sec=False
+   preview: tags: [concept, charge-density-wave, 2D-materials] | title: 电荷密度波 / Charge Density Wave (CDW) | type: concept | status: mature
+== concepts/charge-doping | lines=6 | fm=False | status=- | type=-
+   H1: # charge-doping
+   papers: ['chen3dLevelSymmetry2025', 'chenFerromagneticNonmagnetic1T2022']
+   alias_sec=False
+   preview: - [[../papers/chen3dLevelSymmetry2025]] — 3d-level symmetry between metal layers governing the electronic configuration of Mn2N MXenes and enabling modulation between half-metallicity and semiconductivity | - [[../papers/chenFerromagneticNonmagnetic1T2022]] — Ferromagnetic and nonmagnetic 1T′ charge
+== concepts/charge-migration-energy | lines=5 | fm=False | status=- | type=-
+   H1: # charge-migration-energy
+   papers: ['Jin2015studying']
+   alias_sec=False
+   preview: - [[../papers/Jin2015studying]] — Studying the Polarization Switching in Polycrystalline BiFeO3 Films by 2D Piezoresponse Force Microscopy
+== concepts/charge-order | lines=16 | fm=False | status=- | type=-
+   H1: # charge-order
+   papers: ['RecentAdvancesGrowth2025', 'fiebigEvolutionMultiferroics2016', 'nicholsonUniaxialStraininducedPhase2021', 'rameshMultiferroicsProgressProspects2007', 'spaldinAdvancesMagnetoelectricMultiferroics2019', 'tangMultiferroicityTwodimensionalVan2025', 'wuElectrostaticGatingIntercalation2022', 'zhouFirstprinciplesPredictionRedox2004']
+   alias_sec=True
+   preview: - [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]] — Advances in magnetoelectric multiferroics | - [[../papers/RecentAdvancesGrowth2025]] — Recent advances in growth, characterization, and application of two-dimensional multiferroic materials | - [[../papers/zhouFirstprinciplesPredictio
+== concepts/charge-ordered-ferroelectricity | lines=5 | fm=False | status=- | type=-
+   H1: # charge-ordered-ferroelectricity
+   papers: ['rameshMultiferroicsProgressProspects2007']
+   alias_sec=False
+   preview: - [[../papers/rameshMultiferroicsProgressProspects2007]] — Multiferroics: progress and prospects in thin films
+== concepts/charge-sloshing | lines=52 | fm=True | status=mature | type=concept
+   H1: # 电荷震荡 / Charge Sloshing
+   papers: ['kresseEfficiencyAbinitioTotal1996a', 'kresseEfficientIterativeSchemes1996d']
+   alias_sec=False
+   preview: tags: [concept, density-functional-theory, numerical-methods] | title: 电荷震荡 / Charge Sloshing | type: concept | status: mature
+== concepts/charge-transfer | lines=39 | fm=False | status=- | type=-
+   H1: # charge-transfer
+   papers: ['H2017fluorescence', 'Huang2023two', 'KumarChoubey2011mechanoluminescence', 'Li2013bonding', 'RecentAdvancesGrowth2025', 'Scremin2018nonlinear', 'Unknown2003charge', 'WRZYSZCZYNSKI2010initiators', 'Wei2021', 'Wixtrom2011electrical', 'Wu2018', 'chen3dLevelSymmetry2025', 'chowdhuryReviewTheoreticalComputational', 'gaoGiantChiralMagnetoelectric2024a', 'hallEnvironmentalControlCharge', 'hillWhyAreThere2000a', 'kaurRecentAdvancesTheoretical2025a', 'kawakamiChargedensityWaveAssociated2023', 'krishnamurthiSpinChargeDensity2020', 'liFerroelasticityDomainPhysics2016', 'martinThinfilmFerroelectricMaterials2016', 'nicholsonUniaxialStraininducedPhase2021', 'shenEmergenceMultipleFerroelectric2025', 'tangGridbasedBaderAnalysis2009', 'tangMultiferroicityTwodimensionalVan2025', 'tianRoomtemperatureTwodimensionalMultiferroic2026', 'wangTunableD0Topological2025b', 'wangTwodimensionalFerroelectricMetal2025', 'wongEvidenceMetallic1T', 'wuElectrostaticGatingIntercalation2022', 'wuNonvolatileSwitchableHalfmetallicity2024', 'yanagizawaSwitchingChargedensityWave2023', 'zahraCriticalAnalysisFerroelectric2025', 'zhangNonvolatileControlTopological2025', 'zhengAnisotropicSuperconductivityTwodimensional2025']
+   alias_sec=False
+   preview: - [[../papers/H2017fluorescence]] — Dicyanostilbene-based Two-photon Thermo-solvatochromic Fluorescence Probes with Two-photon Triple Fluorescence | - [[../papers/Huang2023two]] — Two Dicyanostilbene-Based Two-Photon Fluorescence Environmentally Sensitive Probes with Large Two-Photon Absorption Cros
+== concepts/charge-transfer-compound | lines=5 | fm=False | status=- | type=-
+   H1: # charge-transfer-compound
+   papers: ['Unknown2003charge']
+   alias_sec=False
+   preview: - [[../papers/Unknown2003charge]] — Bis(ethylenedithio)tetrathiafulvalene (BEDT-TTF) Charge Transfer Compounds with Copper(II) Halides: (BEDT-TTF)₁.₅CuX₂(X=Cl, Br)
+== concepts/charge-transfer-descriptor | lines=5 | fm=False | status=- | type=-
+   H1: # charge-transfer-descriptor
+   papers: ['Li2013bonding']
+   alias_sec=False
+   preview: - [[../papers/Li2013bonding]] — Bonding Charge Density and Ultimate Strength of Monolayer Transition Metal Dichalcogenides
+== concepts/charge-transfer-exciplex | lines=5 | fm=False | status=- | type=-
+   H1: # charge-transfer-exciplex
+   papers: ['Xie2024isostructural']
+   alias_sec=False
+   preview: - [[../papers/Xie2024isostructural]] — Isostructural doping for organic persistent mechanoluminescence
+== concepts/charge-transfer-salt | lines=6 | fm=False | status=- | type=-
+   H1: # charge-transfer-salt
+   papers: ['Wixtrom2011electrical', 'Zhang2008synthesis']
+   alias_sec=False
+   preview: - [[../papers/Wixtrom2011electrical]] — Electrical and Optical Properties of a New Polymorph of the Tetrathiafulvalene-Chloranil (TTF-CA) Charge Transfer Salt | - [[../papers/Zhang2008synthesis]] — Synthesis and nonlinear optical properties of two three-branched two-photon polymerization initiators
+== concepts/charge-trap-screening | lines=5 | fm=False | status=- | type=-
+   H1: # charge-trap-screening
+   papers: ['wangScreeningEnabledChemiresistiveMoisture2025']
+   alias_sec=False
+   preview: - [[../papers/wangScreeningEnabledChemiresistiveMoisture2025]] — Screening-Enabled Chemiresistive Moisture Sensing with Tetrathiafulvalene-Based Electrically Conductive Metal–Organic Frameworks
+== concepts/charge-trapping | lines=6 | fm=False | status=- | type=-
+   H1: # charge-trapping
+   papers: ['Gulhare2021mechanoluminescence', 'tahirFerroelectricityNonvolatileMemristor2025']
+   alias_sec=False
+   preview: - [[../papers/Gulhare2021mechanoluminescence]] — Mechanoluminescence Characterization of γ-irradiated Ba3(VO4)2:Eu phosphors | - [[../papers/tahirFerroelectricityNonvolatileMemristor2025]] — Ferroelectricity and Nonvolatile Memristor Applications of Free‐Standing 2D Niobium Carbide: A New Frontier o
+== concepts/chemical-potential | lines=17 | fm=False | status=- | type=-
+   H1: # chemical-potential
+   papers: ['Barnett2006coexistence', 'Koley2020charge', 'Makogon2012wave', 'Wei2021', 'khazaeiNovelElectronicMagnetic2013', 'liMonolayerPuckeredPentagonal2022', 'lvUnconventionalHystereticTransition2022', 'naguib25thAnniversaryArticle2013a', 'noseUnifiedFormulationConstant1984', 'shenEmergenceMultipleFerroelectric2025', 'wuElectrostaticGatingIntercalation2022', 'yanagizawaSwitchingChargedensityWave2023', 'zhouFirstprinciplesPredictionRedox2004']
+   alias_sec=False
+   preview: - [[../papers/Barnett2006coexistence]] — Coexistence of Gapless Excitations and Commensurate Charge-Density Wave in the 2H Transition Metal Dichalcogenides | - [[../papers/Koley2020charge]] — Charge density wave and superconductivity in transition metal dichalcogenides | - [[../papers/Makogon2012wav
+== concepts/chemical-pressure | lines=6 | fm=False | status=- | type=-
+   H1: # chemical-pressure
+   papers: ['Petkov2020hierarchy', 'spaldinAdvancesMagnetoelectricMultiferroics2019']
+   alias_sec=False
+   preview: - [[../papers/Petkov2020hierarchy]] — Hierarchy among the crystal lattice, charge density wave, and superconducting orders in transition metal dichalcogenides | - [[../papers/spaldinAdvancesMagnetoelectricMultiferroics2019]] — Advances in magnetoelectric multiferroics
+== concepts/chemiresistive-sensing | lines=5 | fm=False | status=- | type=-
+   H1: # chemiresistive-sensing
+   papers: ['wangScreeningEnabledChemiresistiveMoisture2025']
+   alias_sec=False
+   preview: - [[../papers/wangScreeningEnabledChemiresistiveMoisture2025]] — Screening-Enabled Chemiresistive Moisture Sensing with Tetrathiafulvalene-Based Electrically Conductive Metal–Organic Frameworks

@@ -11,7 +11,7 @@ status: ingested
 year_read: 2026
 original_note:: [[../../raw/note/wangTunableD0Topological2025b]]
 projects: [project-2, project-5]
-concepts: [2d-materials, multiferroicity, magnetoelectric-coupling, strain-engineering, density-functional-theory, spin-orbit-coupling, berry-phase, polarization-switching, topological-defects, d0-magnetism, skyrmion, bimeron, dzyaloshinskii-moriya-interaction, half-metal, heisenberg-model, micromagnetic-simulation, topological-spin-texture, stoner-model, magnetic-anisotropy, ferroelectric-control-of-magnetism, magnetic-anisotropy-energy]
+concepts: [2d-materials, multiferroicity, magnetoelectric-coupling, strain-engineering, density-functional-theory, spin-orbit-coupling, berry-phase, polarization-switching, topological-defects, d0-magnetism, skyrmion, bimeron, dzyaloshinskii-moriya-interaction, half-metallicity, heisenberg-model, micromagnetic-simulation, topological-spin-texture, stoner-model, magnetic-anisotropy, ferroelectric-control-of-magnetism]
 entities: [VASP, In2Se3, TMDs, In2NO2, MoSe2]
 methods: [dft, soc, berry-phase, phonon-spectrum, ab-initio-md, monte-carlo, heisenberg-model, micromagnetic-simulation, stoner-model]
 materials: [In2NO2, MoSe2]

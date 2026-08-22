@@ -1,0 +1,308 @@
+[
+ {
+  "path": "wiki/concepts/chern-number.md",
+  "retracted": [
+   "hanPolarTopologicalMaterials2025",
+   "wangTunableD0Topological2025b",
+   "sharmaRoomtemperatureFerroelectricSemimetal2019"
+  ],
+  "remaining": [],
+  "downgraded": true
+ },
+ {
+  "path": "wiki/concepts/berry-curvature.md",
+  "retracted": [
+   "wangTunableD0Topological2025b",
+   "hanPolarTopologicalMaterials2025"
+  ],
+  "remaining": [
+   "sharmaRoomtemperatureFerroelectricSemimetal2019"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/weyl-semimetal.md",
+  "retracted": [
+   "hanPolarTopologicalMaterials2025"
+  ],
+  "remaining": [
+   "sharmaRoomtemperatureFerroelectricSemimetal2019",
+   "wangTunableD0Topological2025b",
+   "feiFerroelectricSwitchingTwodimensional2018a",
+   "huangPolarPhaseDomain2019"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/entities/CrTe2.md",
+  "retracted": [
+   "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+   "guoAdvancesTwodimensionalFerroelectric2025",
+   "kaurRecentAdvancesTheoretical2025a",
+   "wuNonvolatileSwitchableHalfmetallicity2024",
+   "yuFerroelectricControlMagnetism2026",
+   "zhangNonvolatileControlTopological2025"
+  ],
+  "remaining": [
+   "chenFerromagneticNonmagnetic1T2022",
+   "liMonolayerPuckeredPentagonal2022",
+   "tangMultiferroicityTwodimensionalVan2025",
+   "tianRoomtemperatureTwodimensionalMultiferroic2026",
+   "zhaoRealization2DMultiferroic2024"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/entities/HgI2.md",
+  "retracted": [
+   "tangMultiferroicityTwodimensionalVan2025"
+  ],
+  "remaining": [
+   "chenStrongSlidingFerroelectricity2024",
+   "kaurRecentAdvancesTheoretical2025a",
+   "sunSlidingFerroelectricityTwodimensional2025",
+   "zhangEmergingFrontiersTwodimensional2025"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/entities/LiOsO3.md",
+  "retracted": [
+   "huProgressProspectsLowdimensional2019"
+  ],
+  "remaining": [
+   "bhowalPolarMetalsPrinciples2023b"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/entities/ReS2.md",
+  "retracted": [
+   "guanRecentProgressTwoDimensional2020"
+  ],
+  "remaining": [
+   "kaurRecentAdvancesTheoretical2025a",
+   "sunSlidingFerroelectricityTwodimensional2025",
+   "tangMultiferroicityTwodimensionalVan2025"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/peierls-instability.md",
+  "retracted": [
+   "CastroNeto2001charge"
+  ],
+  "remaining": [
+   "Johannes2008fermi",
+   "Inosov2008fermi",
+   "cossuStackingChargedensityWaves2024",
+   "kawakamiChargedensityWaveAssociated2023",
+   "liPhaseTransitions2D2021",
+   "Koley2020charge",
+   "lezoualchStudyChargeDensity"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/pseudogap.md",
+  "retracted": [
+   "Johannes2008fermi"
+  ],
+  "remaining": [
+   "Inosov2008fermi",
+   "CastroNeto2001charge",
+   "cossuStackingChargedensityWaves2024",
+   "kawakamiChargedensityWaveAssociated2023",
+   "kresseInitiomolecularDynamicsLiquid1993",
+   "kresseInitiomoleculardynamicsSimulationLiquidmetalamorphoussemiconductor1994"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/skyrmion.md",
+  "retracted": [
+   "cheongMultiferroicsMagneticTwist2007a"
+  ],
+  "remaining": [
+   "gongAbsenceCriticalThickness2023",
+   "tanRevealingEmergentMagnetic2024",
+   "mostovoyMultiferroicsDifferentRoutes2024",
+   "wangTunableD0Topological2025b",
+   "zhangNonvolatileControlTopological2025",
+   "songEvidenceSinglelayerVan2022",
+   "zahraCriticalAnalysisFerroelectric2025",
+   "zhaoRealization2DMultiferroic2024"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/altermagnetism.md",
+  "retracted": [
+   "vanvleckSurveyTheoryFerromagnetism1945"
+  ],
+  "remaining": [
+   "zhongHighthroughputExfoliationMultiferroic2025",
+   "yuFerroelectricControlMagnetism2026",
+   "kaurRecentAdvancesTheoretical2025a"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/sliding-ferroelectricity.md",
+  "retracted": [
+   "martinThinfilmFerroelectricMaterials2016"
+  ],
+  "remaining": [
+   "wuSlidingFerroelectricity2D2021a",
+   "huangTwodimensionalIn2Se3Rising2022",
+   "feiFerroelectricSwitchingTwodimensional2018a",
+   "sunSlidingFerroelectricityTwodimensional2025",
+   "kaurRecentAdvancesTheoretical2025a",
+   "chenStrongSlidingFerroelectricity2024",
+   "FerroelectricityMultiferroicityAtomic2023",
+   "RecentAdvancesGrowth2025",
+   "bhowalPolarMetalsPrinciples2023b",
+   "guanRecentProgressTwoDimensional2020",
+   "guoAdvancesTwodimensionalFerroelectric2025",
+   "hanTunableSlidingFerroelectricity2025",
+   "heSwitchingTwodimensionalSliding2025",
+   "heUltrafastSwitchingDynamics2024",
+   "huProgressProspectsLowdimensional2019",
+   "huangPolarPhaseDomain2019",
+   "kimObservationPhaseTransition1997",
+   "liPhaseTransitions2D2021",
+   "miaoMagneticFerroelectricMetal2024",
+   "neumayerCompetingPolarPhases2025",
+   "shenEmergenceMultipleFerroelectric2025",
+   "tangCombiningIntrinsicSlidinginduced2025",
+   "tangMultiferroicityTwodimensionalVan2025",
+   "tianRoomtemperatureTwodimensionalMultiferroic2026",
+   "xunCoexistingMagnetismFerroelectric2024",
+   "zhangEmergingFrontiersTwodimensional2025",
+   "zhaoOpticalFingerprintsTwodimensional2024"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/coercive-field.md",
+  "retracted": [
+   "martinThinfilmFerroelectricMaterials2016"
+  ],
+  "remaining": [
+   "Chen2016electrical",
+   "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+   "cuiIntercorrelatedInplaneOutofplane2018a",
+   "junqueraCriticalThicknessFerroelectricity2003",
+   "Kim2008effect",
+   "sunSlidingFerroelectricityTwodimensional2025",
+   "tangMultiferroicityTwodimensionalVan2025",
+   "tianRoomtemperatureTwodimensionalMultiferroic2026"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/field-effect-mobility.md",
+  "retracted": [
+   "duUltrasensitiveOptoelectronicBiosensor2025"
+  ],
+  "remaining": [
+   "liuSpintronicsTwoDimensionalMaterials2020b"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/easy-axis.md",
+  "retracted": [
+   "aminiAtomicscaleVisualizationMultiferroicity2024"
+  ],
+  "remaining": [
+   "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025",
+   "chenStrongSlidingFerroelectricity2024"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/magnetoelastic-coupling.md",
+  "retracted": [
+   "mostovoyMultiferroicsDifferentRoutes2024",
+   "fiebigEvolutionMultiferroics2016"
+  ],
+  "remaining": [
+   "Goswami2011multiferroic"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/proximity-effect.md",
+  "retracted": [
+   "caiFerroelectricitydrivenStrainmediatedMagnetoelectric2025"
+  ],
+  "remaining": [
+   "liuSpintronicsTwoDimensionalMaterials2020b"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/screening-effect.md",
+  "retracted": [
+   "liuSpintronicsTwoDimensionalMaterials2020b"
+  ],
+  "remaining": [
+   "wangScreeningEnabledChemiresistiveMoisture2025"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/synaptic-plasticity.md",
+  "retracted": [
+   "xueEmergingNonvolatileMemories2011"
+  ],
+  "remaining": [
+   "chenHafniumBasedFerroelectricPostMoore2026"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/synaptic-weight.md",
+  "retracted": [
+   "xueEmergingNonvolatileMemories2011"
+  ],
+  "remaining": [
+   "chenHafniumBasedFerroelectricPostMoore2026"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/two-dimensional-magnetism.md",
+  "retracted": [
+   "gongAbsenceCriticalThickness2023",
+   "xiangTwodimensionalRoomTemperature2020"
+  ],
+  "remaining": [
+   "liuSpintronicsTwoDimensionalMaterials2020b"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/pl-quenching.md",
+  "retracted": [
+   "Huang2023two"
+  ],
+  "remaining": [
+   "Huang2019solvatochromic",
+   "H2017fluorescence"
+  ],
+  "downgraded": false
+ },
+ {
+  "path": "wiki/concepts/magnon-hall-effect.md",
+  "retracted": [
+   "tanRevealingEmergentMagnetic2024"
+  ],
+  "remaining": [
+   "deSousa2008electrical",
+   "bhowalPolarMetalsPrinciples2023b"
+  ],
+  "downgraded": false
+ }
+]
